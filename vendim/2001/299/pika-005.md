@@ -1,0 +1,1 @@
+5. Admnistratorët e shoqërive huamarrëse dhe personat e autorizuar nga kryetari i bashkisë apo i komunës, lidhin për vlerën e truallit që do të derdhet në buxhet marrëveshjet përkatëse për kohën e shlyerjes se vlerave financiare, të përcaktuara në lidhjen që i bashkëlidhet këtij vendimi.
