@@ -1,0 +1,1 @@
+3. Të drejtën e trajtimit sipas këtij vendimi e kanë punonjësit, që kanë qenë të punësuar në këtë shoqëri për një periudhë kohe jo më pak se një vit, deri në datën e hyrjes në fuqi të këtij vendimi dhe që nuk zhvillojnë veprimtari ekonomike, në formën e punësimit dhe të vetëpunësimit. Në rast të kundërt u ndërpritet trajtimi që përfitojnë sipas këtij vendimi.

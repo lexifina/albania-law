@@ -1,0 +1,1 @@
+1. Punonjësit, që mbeten të papunë nga procesi i modernizimit të Agjencisë Nacionale të Trafikut Ajror, sh.a., të trajtohen financiarisht, për një periudhë 2-vjeçare, duke filluar nga çasti i shkëputjes së marrëdhënieve të punës, në masën 100 për qind të pagës bazë mujore, shtesës së vjetërsisë në punë dhe sigurimet e detyrueshme.

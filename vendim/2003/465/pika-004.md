@@ -1,0 +1,1 @@
+4. Fondet financiare, të nevojshme për kryerjen e pagesës dhe për sigurimet e detyrueshme, të përballohen nga Agjencia Nacionale e Trafikut Ajror, sh.a. Pagesa të bëhet nga zyrat e punësimit në rrethet përkatëse, duke bërë kalimin e fondeve të mësipërme në Ministrinë e Punës dhe të Çështjeve Sociale.
