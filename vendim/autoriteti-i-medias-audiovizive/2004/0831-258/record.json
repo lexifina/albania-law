@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3040,
+  "title": "PËR DHËNIE LICENCE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "258",
+  "institution": "Autoriteti i Medias Audiovizive",
+  "adopted": "2004-08-31",
+  "published": "2004-09-10",
+  "in_force": "2004-09-10",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3e2d057a8bdcb77f3ca8160e87f374d006e39daeafd72f670eaa4ce2a5e43e31.docx",
+  "source_sha256": "3e2d057a8bdcb77f3ca8160e87f374d006e39daeafd72f670eaa4ce2a5e43e31",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3040",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/08/31/258",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
