@@ -1,0 +1,1 @@
+5. Fondet prej 1 732 000 (një milion e shtatëqind e tridhjetë e dy mijë) lekësh, për shpronësimin e pronarëve dhe prej 65 000 (gjashtëdhjetë e pesë mijë) lekësh, për shpenzimet procedurale, të përballohen nga buxheti i vitit 2003, zëri ”Shpronësime”, miratuar për Ministrinë e Transportit dhe të Telekomunikacionit.
