@@ -1,0 +1,1 @@
+8. Certifikata regjistrohet në Regjistrin Kombëtar të Auditëve të Brendshëm, në seksionin e certifikatave të përkohshme dhe tërhiqet kundrejt nënshkrimit, identifikimit të personit (nr. i pasaportës) dhe një pagesë prej 2000 lekësh, e cila derdhet në arkën e Ministrisë së Financave.

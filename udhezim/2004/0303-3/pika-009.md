@@ -1,0 +1,1 @@
+9. Certifikata ka një afat prej pesë vjetësh dhe me kalimin e këtij afati ajo bëhet e pavlefshme. Çdo auditim i kryer me kalimin e këtij afati nga auditët e certifikuar si të përkohshëm konsiderohet i pavlefshëm.

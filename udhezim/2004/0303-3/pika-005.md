@@ -1,0 +1,1 @@
+5. Pas verifikimeve të kryera, por jo më vonë se 15 ditë nga mbarimi i afatit të paraqitjes së dokumentacionit, Drejtori i Përgjithshëm i Auditimit të Brendshëm shpall listën përkatëse të kandidatëve që kualifikohen si të tillë.

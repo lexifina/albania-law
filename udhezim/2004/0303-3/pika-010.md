@@ -1,0 +1,1 @@
+10. Njësitë e auditimit në sektorin publik duhet të paraqesin për miratim në Drejtorinë e Përgjithshme të Auditimit të Brendshëm, nëpërmjet njësive të auditimit të brendshëm në ministritë e linjës, kërkesat për specialitete jashtë atyre të përcaktuara në pikën 1/a dhe argumentet përkatëse për këto kërkesa, jo më vonë se 45 ditë nga dalja e këtij urdhri.

@@ -1,0 +1,2 @@
+2. Në kuptim të këtij udhëzimi, do të konsiderohen stuktura të kontrollit të brendshëm financiar drejtoritë, sektorët, zyrat dhe specialistët e veçantë që kanë kryer funksione të kontroll-revizionit të brendshëm financiar në të gjitha subjektet e sektorit publik.
+Nuk konsiderohen struktura të kontrollit të brendshëm financiar inspektoratet e të gjitha kategorive, në ministri dhe subjektet e tjera publike.
