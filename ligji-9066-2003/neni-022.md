@@ -1,0 +1,8 @@
+# Neni 22
+Shkëmbimi i informacionit dhe asistenca reciproke
+1. Autoritetet dhe institucionet kompetente përgjegjëse për zbatimin e kësaj Marrëveshjeje:
+1.1 Do t’i komunikojnë njëra-tjetrës, për sa kohë e lejon legjislacioni i tyre, të gjithë informacionin për masat e marra prej tyre për aplikimin e kësaj Marrëveshjeje.
+1.2 Do të asistojnë njëra-tjetrën në përcaktimin dhe dhënien e së drejtës që rrjedh nga aplikimi i kësaj Marrëveshjeje ose nga legjislacioni sipas të cilit kjo Marrëveshje aplikohet, sikur kjo të ishte një çështje e aplikimit të legjislacionit të tyre.
+1.3 Do t’i komunikojnë njëra-tjetrës, në kohën më të afërt të përshtatshme, të gjithë informacionin për masat e marra prej tyre për aplikimin e Marrëveshjes ose për amendamentet në legjislacionin kombëtar për sa kohë që këto ndryshime kanë efekt në zbatimin e dispozitave të kësaj Marrëveshjeje.
+2. Ndihma e dhënë sipas paragrafit 1, nënparagrafit 1.2 të këtij neni, do të jetë falas, nëse nuk përcaktohet ndryshe në Marrëveshjen Administrative, së cilës i referohemi në nenin 21 të kësaj Marrëveshjeje për qëllim rimbursimi të kategorive të caktuara të shpenzimeve. Institucioni kompetent i një pale do të tregojë masën që duhet të paguhet me monedhën e palës së fundit, ndërsa i komunikon palës tjetër kërkesë për pagesë.
+3. Nëse nuk përcaktohet ndryshe në legjislacionin e një pale, çdo informacion për një individ, i komunikuar në përputhje me dhe për qëllimin e kësaj Marrëveshjeje për palën tjetër nga pala tjetër, do të jetë konfidencial dhe do të përdoret vetëm për qëllime të zbatimit të kësaj Marrëveshjeje dhe legjislacionit sipas të cilit kjo Marrëveshje aplikohet.

@@ -1,0 +1,4 @@
+# Neni 20
+1. Kur personat të konsideruar nga legjislacioni i një pale si të papërshtatshëm për punë për shkak të invaliditetit, aksidentit në punë ose sëmundjes profesionale janë rezident në territorin e palës tjetër, kontrollet administrative dhe mjekësore që zbulojnë shkallën e invaliditetit të tyre në mënyrë që të mundësohet vazhdimësia e së drejtës për sigurim shoqëror, do të kryhen nga institucioni kompetent i palës së fundit me kërkesë të institucionit të palës së parë.
+Megjithatë institucioni kompetent i palës së parë do të rezervojë të drejtën e rikontrollimit të personit nga një specialist ose në vendin ku personi është rezident, ose në vendin e vet. Në rastin e fundit, shpenzimet e udhëtimit dhe qëndrimit mbulohen nga institucioni që kërkoi riekzaminimin.
+2. Shpenzimet e riekzaminimit paguhen nga institucioni që e kërkoi atë, në përputhje me metodën dhe parimet e përcaktuara në Marrëveshjen Administrative.

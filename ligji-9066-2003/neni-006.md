@@ -1,0 +1,9 @@
+# Neni 6
+Rregullat për mbulimin
+1. Me kusht që termat e mëposhtëm të kësaj Marrëveshjeje rezervohen:
+1.1 Një person i punësuar në territorin e njërës palë, është subjekt i vetëm i legjislacionit të asaj pale që i përket punës së tij/saj.
+1.2. Një person, i cili ka rezidencën e tij të përhershme në territorin e njërës palë dhe që ka një aktivitet në emër të tij/saj në territorin e palës tjetër ose në territorin e të dyja palëve, do të jetë subjekt i vetëm i legjislacionit të palës, në territorin e së cilës ai ka rezidencën.
+2. Një person i cili është subjekt i legjislacionit të njërës Palë, por që dërgohen në territorin e palës tjetër për të punuar për më pak se 24 muaj, do të jetë subjekt i legjislacionit të palës së parë sikur ai punon në territorin e asaj pale. Periudha prej 24 muajsh mund të shtrihet deri në 60 muaj me aprovimin e mëparshëm të autoriteteve kompetente të të dyja palëve.
+3. Atje ku ekuipazhi i një anijeje është subjekt i legjislacioneve të të dyja palëve pa aplikimin e dispozitave të kësaj Marrëveshjeje, ekuipazhi i punësuar në bordin e një anijeje me flamur turk i nënshtrohet legjislacionit turk, përsa i përket asaj pune, dhe ekuipazhi i punësuar në bordin e një anijeje me flamur shqiptar i nënshtrohet legjislacionit shqiptar, përsa i përket asaj pune.
+4. Personat e punësuar në territorin e një pale si agjentë të qeverisë së palës tjetër do të jenë subjekt i legjislacionit të palës që e punëson, në rast se ata janë subjekt të asaj pale. Megjithatë, në rast se ata janë subjekte të palës, në territorin e së cilës ata janë punësuar ose kanë rezidencën e përhershme në atë territor, ata mund të kërkojnë aplikimin e legjislacionit të asaj pale. Kjo zgjedhje nuk do të aplikohet në mënyrë retrospektive.
+5. Autoritetet kompetente të të dyja palëve mund të paraqesin ndryshime të rregullave të zbatimit për ndonjë person apo grupe me marrëveshje reciproke.
