@@ -1,0 +1,1 @@
+1. Punëdhënësi, që punëson me kontratë të rregullt, me kohëzgjatje të paktën njëvjeçare, punëkërkues të papunë, femër, nga lista e zyrës së punësimit, përfiton një financim mujor të barabartë me 70 për qind të shpenzimeve për sigurimet e detyrueshme (kontributi i punëdhënësit), për të gjithë vitin e zbatimit të kontratës.
