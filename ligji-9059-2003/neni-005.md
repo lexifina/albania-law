@@ -1,0 +1,3 @@
+# Neni 5
+1. Nëse ligji i një Shteti Kontraktues kërkon humbjen e shtetësisë si pasojë e ndonjë ndryshimi në statusin personal të një personi të tillë, si martesa, mbarimi i martesës, legjitimimi, njohja ose adaptimi, një humbje e tillë kushtëzohet nga zotërimi ose fitimi i një shtetësie tjetër.
+2. Nëse, sipas ligjit të një Shteti Kontraktues, një fëmijë i lindur jashtë martese humb shtetësinë e atij shteti si pasojë e njohjes së atësisë, atij i jepet një mundësi për ta rifituar atë shtetësi me anë të aplikimit me shkrim drejtuar autoriteteve përkatëse dhe kushtet që rregullojnë këtë aplikim nuk duhet të jenë më rigoroze, sesa ato të parashikuara në paragrafin 2 të nenit 1 të kësaj Konvente.

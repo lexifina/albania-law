@@ -1,0 +1,3 @@
+# Neni 10
+1. Çdo traktat ndërmjet Shteteve Kontraktuese që parashikon transferimin e territorit përfshin dispozita të hartuara për të siguruar që asnjë person nuk do të bëhet pa shtetësi si rezultat i transferimit. Një Shtet Kontraktues bën përpjekjet e tij më të mira për të siguruar që çdo traktat i tillë, i bërë prej tij me një shtet, i cili nuk është Palë e kësaj Konvente të përfshijë dispozita të tilla.
+2. Në mungesë të dispozitave të tilla një Shtet Kontraktues, të cilit i është transferuar territori ose i cili përndryshe fiton territor do t’ua akordojë shtetësinë e tij personave të tillë të cilët mund të bëhen pa shtetësi si rezultat i transferimit ose i fitimit.
