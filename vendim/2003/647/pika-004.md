@@ -1,0 +1,1 @@
+4. Grupi ndërinstitucional, nën drejtimin e Ministrit të Industrisë dhe të Energjetikës, të raportojë çdo 6 muaj, pranë Komitetit Ndërministror të Energjisë, për ecurinë dhe rezultatet e zbatimit të këtij plani.
