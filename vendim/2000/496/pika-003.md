@@ -1,0 +1,1 @@
+3. Fondi për detyrimet kontributive të papaguara për sigurimet shoqërore, të periudhës para datës 30.4.1998, të cilat arrijnë shumën 20 600 000 lekë, të përballohen nga Ministria e Ekonomisë Publike dhe Privatizimit, nga pagesa e qirasë së këtij objekti, e cila, për një vit, do të përdoret e gjitha për këtë qëllim.
