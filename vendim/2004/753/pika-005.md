@@ -1,0 +1,1 @@
+5. Komunës Hajmel në qarkun e Shkodrës, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 6 300 000 (gjashtë milionë e treqind mijë) lekësh për t’ua shpërndarë si ndihmë kryefamiljarëve të fshatit Hajmel, të cilëve u janë dëmtuar banesat nga përmbytjet e lumit Gjadër, sipas shtojcës nr.2, që i bashkëlidhet këtij vendimi.

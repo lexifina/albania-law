@@ -1,0 +1,3 @@
+2. Lejimin e Ministrisë së Bujqësisë dhe të Ushqimit që, për fondin prej 16 000 000 (gjashtëmbëdhjetë milionë) lekësh, nga buxheti i miratuar për vitin 2004, zëri “Investime”, të përdorë procedurën “Prokurim i drejtpërdrejtë” me Drejtorinë Rajonale të Ujërave, Shkodër, të ndarë si më poshtë vijon:
+a) 8 000 000 (tetë milionë) lekë për riparimin e pritave të dëmtuara nga lumi Gjadër, në lagjet Gjinaj dhe Kaster të komunës Vig-Mnel në qarkun e Shkodrës.
+b) 8 000 000 (tetë milionë) lekë për riaftësimin e tokës bujqësore të zhavorrizuar në komunën Vig-Mnel (50 ha) e në komunën Hajmel (3.1 ha) në qarkun e Shkodrës.

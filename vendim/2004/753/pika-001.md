@@ -1,0 +1,1 @@
+1. Ministria e Pushtetit Vendor dhe e Decentralizimit, nga buxheti i vitit 2004, zëri “Për emergjencat”, t’i kalojë komunës Vig-Mnel të qarkut të Shkodrës, fondin prej 5 000 000 (pesë milionë) lekësh, për ndërtimin e këmbëve të urës në lagjen Gjinaj.
