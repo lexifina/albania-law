@@ -1,0 +1,1 @@
+1. Miratimin e Marrëveshjes së koncesionit të formës ”ROT” ndërmjet Ministrisë së Ekonomisë, Ministrisë së Industrisë dhe të Energjetikës, Ministrisë së Bujqësisë dhe të Ushqimit dhe shoqërisë ”Spahiu” sh.p.k. për hidrocentralin e Gjançit, në rrethin e Korçës.
