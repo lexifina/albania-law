@@ -1,0 +1,38 @@
+{
+  "qbz_id": 1687,
+  "title": "Për dokumentin e identitetit të shtetasve shqiptarë",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "8952",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-10-10",
+  "published": "2002-11-13",
+  "in_force": "2002-11-28",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/6ebcb00596b615a8735167e39d279c2cd15a0fffea87b32f118c1d5617419d5a.docx",
+  "source_sha256": "6ebcb00596b615a8735167e39d279c2cd15a0fffea87b32f118c1d5617419d5a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1687",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/10/10/8952",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    30319,
+    29736,
+    29838,
+    64019,
+    24094,
+    22873,
+    66303,
+    21742,
+    64579,
+    16256,
+    16863
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
