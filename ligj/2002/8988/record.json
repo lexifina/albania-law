@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1782,
+  "title": "Për disa ndryshime në ligjin nr. 8550, datë 18.11.1999 “Statusi i deputetit”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8988",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-12-24",
+  "published": "2002-12-31",
+  "in_force": "2003-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/4cafe0148bdeb3fb2e55f1a71e2bb9236eb1470633312f42d681d90bf8ad9dee.docx",
+  "source_sha256": "4cafe0148bdeb3fb2e55f1a71e2bb9236eb1470633312f42d681d90bf8ad9dee",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1782",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/12/24/8988",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
