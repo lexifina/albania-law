@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 32 471 793 (tridhjetë e dy milionë e katërqind e shtatëdhjetë e një mijë e shtatëqind e nëntëdhjetë e tre) lekësh, të përballohet nga buxheti i vitit 2005, zëri “Shpronësime”, miratuar për Ministrinë e Transportit dhe të Telekomunikacionit.
