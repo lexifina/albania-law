@@ -1,0 +1,1 @@
+5. Lista e punonjësve, që do të trajtohen me kredi, miratohet nga Kryeministri, me propozimin e Ministrit të Rendit Publik, ndërsa lista e punonjësve, që do të kompensohen për qiranë e banesës, miratohet nga Ministri i Rendit Publik.

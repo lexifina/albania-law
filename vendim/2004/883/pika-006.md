@@ -1,0 +1,1 @@
+6. Pika 3 e vendimit nr.50, datë 1 8.7.2003 të Këshillit të Ministrave “Për kompensimin për privacionet dhe humbjet, që i shkakohen punonjësit të Policisë së Shtetit, për shkak të nevojave të punës dhe të shërbimit”, nuk zbatohet për punonjësit e sektorit të mbrojtjes së dëshmitarëve dhe bashkëpunëtorëve të drejtësisë.
