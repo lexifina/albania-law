@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës të Koresë, për huatë nga fondi i bashkëpunimit për zhvillim ekonomik dhe të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës të Koresë, për një hua nga fondi i bashkëpunimit për zhvillim ekonomik.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
