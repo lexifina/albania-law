@@ -1,0 +1,2 @@
+23. Vendimi nr.101, datë 4.2.1998, i Këshillit të Ministrave, “Për disa masa tranzitore për formimin profesional të nëpunësve”, vendimi nr.189, datë 20.3.1998 i Këshillit të Ministrave, “Për një ndryshim në vendimin e Këshillit të Ministrave nr.101, datë 4.2.1998, “Për disa masa tranzitore për formimin profesional të nëpunësve””, si dhe çdo dispozitë tjetër që bie në kundërshtim me këtë vendim shfuqizohen.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

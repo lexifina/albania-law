@@ -1,0 +1,2 @@
+15. Për rritjen e aftësive profesionale dhe për zhvillimin e karrierës, nëpunësi civil, pasi ka marrë miratimin e drejtpërdrejtë të eprorit, mund të paraqesë kërkesën e tij për trajnim të veçantë në sekretarinë e institutit. Drejtori i institutit, duke marrë në konsideratë mundësitë e institutit shqyrton, zgjidh kërkesën dhe jep përgjigje brenda 30 ditëve nga depozitimi i saj.
+IV. Trajnimi jashtë vendit
