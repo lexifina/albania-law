@@ -1,0 +1,3 @@
+# Neni 13
+1. Personat fizikë ose juridikë që kanë në përdorim mjete matëse, janë të detyruar t’i kontrollojnë dhe, nëse rezultojnë se nuk janë të rregullta, të marrin masa për rregullimin e tyre. Pas çdo riparimi ata detyrohen të njoftojnë menjëherë punonjësit e Drejtorisë së Përgjithshme të Metrologjisë dhe Kalibrimit, për të bërë verifikimin dhe rikalibrimin e tyre.
+2. Mjetet matëse të cilat gjatë kontrollit nuk rezultojnë në rregull, bllokohen dhe hiqen nga përdorimi nga punonjësit e Drejtorisë së Përgjithshme të Metrologjisë dhe Kalibrimit. Për ushtrimin e kësaj kompetence punonjësit e kësaj drejtorie bashkëpunojnë me organet e rendit.
