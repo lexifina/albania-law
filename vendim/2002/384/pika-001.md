@@ -1,0 +1,1 @@
+1. Revokimin e vendimit nr.62, datë 7.3.2002 i Këshillit të Ministrave “Për dhënien në përdorim të përkohshëm, pa shpërblim, të vilës 30”, ndryshuar me vendimin nr.254, datë 13.6.2002 të Këshillit të Ministrave dhe të vendimit nr.270, datë 20.6.2002 të Këshillit të Ministrave “Për dhënien në përdorim të përkohshëm të disa apartamenteve në godinën nr. 57, në bulevardin “Zogu I””.
