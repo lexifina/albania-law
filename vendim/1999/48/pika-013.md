@@ -1,0 +1,1 @@
+13. Ministri i Punëve Publike dhe Transportit nëpërmjet Ministrisë së Punëve të Jashtme, u dërgon një kopje të raportit final të gjitha shteteve të interesuara, si dhe Organizatës Ndërkombëtare të Aviacionit Civil (ICAO).

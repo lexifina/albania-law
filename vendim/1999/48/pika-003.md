@@ -1,0 +1,1 @@
+3. Në rastet e aksidenteve apo të incidenteve ajrore, civile, me dimension ushtarak, hetimi të realizohet në bashkëpunim me autoritetet përkatëse të Ministrisë së Mbrojtjes, në përputhje me rregullat e aviacionit civil.
