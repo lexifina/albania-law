@@ -4,7 +4,7 @@ Nr. 7978, datë 26.7.1995
 
 PËR FORCAT E ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË
 
-(Ndryshuar me ligjet; nr. 8183, datë 20.1.1997; nr. 8404, datë 15.9.1998; nr. 8670, datë 26.10.2000; nr. 9047, datë 10.7.2003; nr. 9183, datë 5.2.2004)
+(Ndryshuar me ligjet; nr. 8183, datë 20.1.1997; nr. 8404, datë 15.9.1998; nr. 8670, datë 26.10.2000; nr. 9047, datë 10.7.2003; nr. 9183, datë 5.2.2004; nr. 9210, datë 23.3.2004)
 
 (i përditësuar)
 
@@ -233,21 +233,7 @@ Neni 49
 
 Neni 50
 
-Në raste të veçanta, për rezultate shumë të mira në stërvitje e gatishmëri, ruajtjen e administrimin e pronës, si dhe kur kryen detyra me rreziqe e mundime të veçanta për jetën e tij, ushtarakëve të shërbimit aktiv u jepet shpërblim në masën deri në 6 (gjashtë) paga mujore në vit me miratim të Ministrit.
-
-Kursantit dhe studentit të shkollave ushtarake dhe ushtarit u jepet shpërblim në masën e 3 (tre) paga bazë të funksionit organik më të ulët të oficerit.
-
-Ish-ushtarakët që kanë dalë në pension ose për arsye të ndryshme kanë dalë në rezervë para kohë nga strukturat e Forcave të Armatosura, kur aktivizohen në interes të zgjidhjes së problemeve të ndryshme sipas punës së bërë marrin shpërblimin e funksionit ku punojnë. 
-
-Oficerëve dhe nënoficerëve të shërbimit aktiv të përhershëm, në rast fatkeqësie natyrore, vdekje ose sëmundje të rëndë e të gjatë të tyre u jepet ndihmë e menjëhershme në masën e 3 (tre) pagave mujore, ndërsa për pjesëtarët e familjes në ngarkim të tyre deri në 1 (një) pagë mujore.
-
-Ushtarëve të shërbimit të detyrueshëm, nxënësve, kursantëve, studentëve të shkollave ushtarake e rezervistëve (në kohën e stërvitjes), u jepet ndihmë e menjëhershme në masën e 6 (gjashtë) pagave mujore të funksionit organik më të ulët të oficerit, në rast vdekje të tyre.
-
-Kur ushtaraku për shkak të detyrës humbet jetën, ose bëhet i paaftë pjesëtarët e familjes përfitojnë pension familjar në masën 100 për qind të pagës mujore të muajit të fundit kalendarik të shërbimit, pavarësisht nga periudha e sigurimit të të ndjerit.
-
-Kur ushtaraku për shkak të aftësive të kufizuara caktohet në një pune a detyrë që paguhet më pak deri në kohën e riaftësimit të plotë përfiton kompesimin e pagës mujore që kishte.
-
-Masa e shpërblimit dhe e ndihmës së menjëhershme caktohet e jepet me urdhër të titullarit të njësive, institucioneve dhe ndërmarrjes ushtarake ku është fiktiv apo ka shërbyer ushtaraku.
+(Shfuqizuar me ligjin nr. 9210, datë 23.3.2004)
 
 KREU VI
 
