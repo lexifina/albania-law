@@ -1,1 +1,1 @@
-1. Pensionet e parakohshme për vjetërsi shërbimi dhe pensionet suplementare të ushtarakëve, të caktuara sipas ligjit nr. 8087, datë 13.3.1996 rriten në masën 8 për qind, duke filluar nga data 1.7.2001, përfshirë dhe këtë datë.
+1. Pensionet e parakohshme për vjetërsi shërbimi dhe pensionet suplementare të ushtarakëve, të caktuara sipas ligjit nr.8087, datë 13.3.1996, me datë fillimi deri më 30.6.2001, përfshirë edhe kjo datë, rriten në masën 8 për qind.
