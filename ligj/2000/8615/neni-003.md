@@ -1,0 +1,3 @@
+# Neni 3
+Asnjë individ nuk mund të ushtrojë profesionin e mjekut ose të stomatologut në Republikën e Shqipërisë pa qenë anëtar i Urdhrit të Mjekëve. Punëdhënësit në institucionet shëndetësore publike e private ndalohen t’i punësojnë ata në kundërshtim me këtë dispozitë.
+Shtetasit e huaj, për ushtrimin e profesionit të mjekut ose stomatologut në Republikën e Shqipërisë, detyrohen të anëtarësohen paraprakisht në Urdhrin e Mjekëve të Republikës së Shqipërisë, të njohin dhe të zbatojnë Kodin Deontologjik Mjekësor Shqiptare, si dhe të gjitha aktet ligjore e nënligjore që rregullojnë shërbimin shëndetësor në Republikën e Shqipërisë. Këshilli Kombëtar i Urdhrit të Mjekëve përcakton kriteret e pranimit të tyre në këtë Urdhër.
