@@ -1,0 +1,2 @@
+1. Personat, që përfitojnë pension sipas ligjeve nr.4171, datë 13.9.1966 “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë” dhe nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, përfitojnë një shpërblim të menjëhershëm, në shumën 3500 (tre mijë e pesëqind) lekë.
+Këtë shpërblim e përfitojnë edhe veteranët e luftës, që nuk marrin pension, por përfitojnë vetëm nga statusi i veteranit të luftës, si dhe personat që përfitojnë pension për merita të veçanta.

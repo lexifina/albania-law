@@ -1,0 +1,1 @@
+6. Ky fond të përballohet nga kursimet në fondin e personelit, të planifikuar në buxhetin e vitit 2004, miratuar për ministritë dhe institucionet qendrore, sipas listës, që i bashkëlidhet këtij vendimi.

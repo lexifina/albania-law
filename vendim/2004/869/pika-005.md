@@ -1,0 +1,1 @@
+5. Ministrisë së Punës dhe të Çështjeve Sociale, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 1 597 000 000 (një miliardë e pesëqind e nëntëdhjetë e shtatë milionë) lekësh, për mbulimin e shpërblimit të personave, që përfitojnë pension.
