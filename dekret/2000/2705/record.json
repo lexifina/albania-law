@@ -1,0 +1,26 @@
+{
+  "qbz_id": 293,
+  "title": "PËR CAKTIMIN E DATËS SË ZGJEDHJEVE TË ORGANEVE TË PUSHTETIT VENDOR",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "2705",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2000-07-28",
+  "published": "2000-08-04",
+  "in_force": "2000-08-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8882c8383334249d2d971b8d290aa79dcc0a2cc759cc0752a7a8c9375a33bd30.docx",
+  "source_sha256": "8882c8383334249d2d971b8d290aa79dcc0a2cc759cc0752a7a8c9375a33bd30",
+  "official_record": "https://qbz.gov.al/api/v1/acts/293",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2000/07/28/2705",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
