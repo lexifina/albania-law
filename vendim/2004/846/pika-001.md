@@ -1,0 +1,1 @@
+1. Fillimin e procedurës së ndërtimit me koncesion, të formës “BOT” të rrugës Rrëshen-Kalimash, pjesë e korridorit Durrës-Kukës-Morinë, sipas projktit të paraqitur nga shoqëria “STRABAG, A=WAY INFARSTRUKTUR PROJEKTENTWIK LUNG-UND-BERT IEBS GMBH”, si propozim i pakërkuar.
