@@ -1,0 +1,1 @@
+3. Kontributi i fondacionit shqiptaro-amerikan të arsimit “Harry T.Fultz”, i shtetit të Virxhinias, në Shtetet e Bashkuara të Amerikës, është investimi në veprimtaritë dhe në burimet arsimore, si dhe angazhimin e tij në rritjen e mëtejshme për zhvillimin e programeve dhe të veprimtarisë arsimore të saj.

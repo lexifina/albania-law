@@ -1,0 +1,1 @@
+1. Të miratojë pjesëmarrjen e qeverisë së Republikës së Shqipërisë në krijimin e fondacionit shqiptaro-amerikan “Harry T.Fultz” së bashku me fondacionin shqiptaro-amerikan të arsimit “Harry T.Fultz”, të shtetit të Virxhinias, në Shtetet e Bashkuara të Amerikës.

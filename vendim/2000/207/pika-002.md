@@ -1,0 +1,1 @@
+2. Kontributi i qeverisë shqiptare të jenë pronat e paluajtshme, trualli dhe ndërtesat e identifikuara në planimetrinë që i bashkëlidhet vendimit, me numrat 8/115, 8/116, 8/117 dhe 8/118, të vendosura nga zyra e regjistrimit të pasurive të paluajtshme në Tiranë, duke përfshirë shkollën elektrike dhe godinën e saj, dhe dhomat sportive të shkollës teknike “Harry T.Fultz”.
