@@ -1,0 +1,1 @@
+2. Ministria e Industrisë dhe e Energjetikës, Ministria e Ekonomisë dhe Ministria e Bujqësisë dhe e Ushqimit të jenë Organi Shtetëror i Autorizuar (OSHA), për negocimin dhe nënshkrimin e marrëveshjes së koncesionit.

@@ -1,0 +1,1 @@
+1. Fillimin e procedurës së dhënies me koncesion të formës “BOO” (ndërtim, pronësi, shfrytëzim), për ndërtimin e hidrocentralit të Helmësit në rrethin e Kolonjës, shoqërisë “PINDERI” sh.p.k., Kolonjë sipas propozimit të pakërkuar.
