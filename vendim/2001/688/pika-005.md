@@ -1,0 +1,1 @@
+5. Shpenzimet për realizimin e procedurave të shpronësimit dhe kompensimit të jenë në ngarkim të bashkisë së Shijakut, kërkuesit për shpronësim, në shumën 159 000 (njëqind e pesëdhjetë e nëntë mijë) lekë.
