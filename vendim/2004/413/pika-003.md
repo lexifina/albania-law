@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, me sipërfaqe 6915 m2 tokë/are e ullishte dhe 590 m2 pyll e kullotë, vlerësuar në shumën e përgjithshme prej 7 210 000 (shtatë milionë e dyqind e dhjetë mijë) lekësh.

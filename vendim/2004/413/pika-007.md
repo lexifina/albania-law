@@ -1,0 +1,1 @@
+7. Pronarët të marrin shpërblimin për efekt shpronësimi, pasi të jenë pajisur me dokumentacionin e plotë ligjor nga zyra e regjistrimit të pasurive të paluajtshme. Deri në atë çast paratë do të jenë të bllokuara në bankë.
