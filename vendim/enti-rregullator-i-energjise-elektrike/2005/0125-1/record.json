@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3323,
+  "title": "PËR MIRATIMIN E RREGULLAVE TË TREGUT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-01-25",
+  "published": "2005-02-04",
+  "in_force": "2005-02-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ab507adb0c93ac1443b17bea5d4769ccc47cb5433d114a911b3c8fad06a0e1d4.docx",
+  "source_sha256": "ab507adb0c93ac1443b17bea5d4769ccc47cb5433d114a911b3c8fad06a0e1d4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3323",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/01/25/1",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
