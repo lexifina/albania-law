@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1218,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.7928, DATË 27.4.1995 \"PËR TATIMIN MBI VLERËN E SHTUAR\", NDRYSHUAR ME LIGJET NR.8070, DATË 15.2.1996; NR.8126, DATË 9.7.1996; NR.8130, DATË 22.7.1996; NR.8149, DATË 11.9.1996; NR.8160, DATË 7.11.1996; NR.8186, DATË 23.1.1997; NR.8201, DATË 20.3.1997; NR.8140, DATË 16.9.1997; NR.8445, DATË 21.1.1999; NR.8505, DATË 7.7.1999; NR.8714, \nDATË 15.12.2000 DHE NR.8779, DATË 26.4.2001",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8845",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-12-11",
+  "published": "2001-12-26",
+  "in_force": "2002-01-10",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/d8d18715749da064e9924f734c7543e3f8936f86a07c643fbad4145fcd629c7a.docx",
+  "source_sha256": "d8d18715749da064e9924f734c7543e3f8936f86a07c643fbad4145fcd629c7a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1218",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/12/11/8845",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
