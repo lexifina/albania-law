@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3291,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.9087, DATË 19.6.2003 “KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË”, NDRYSHUAR ME LIGJIN NR.9297, DATË 21.10.2004",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9341",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-01-10",
+  "published": "2005-01-18",
+  "in_force": "2005-01-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/13ee76d8cde28af0ad8ea68be7ea88835dcdf9d8de8a978f39f0fe9f4185a896.docx",
+  "source_sha256": "13ee76d8cde28af0ad8ea68be7ea88835dcdf9d8de8a978f39f0fe9f4185a896",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3291",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2005/01/10/9341",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
