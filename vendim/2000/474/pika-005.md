@@ -1,0 +1,1 @@
+5. Kandidatët për licencë, që janë në likuidim apo nuk kanë aftësi paguese, janë në administrim apo procedime të tjera të ngjashme apo me ndonjë procedim, që nënkupton mosaftësi paguese apo ndërprerje biznesi, nuk do të pranohen në procedurën e tenderit.
