@@ -1,0 +1,28 @@
+{
+  "qbz_id": 364,
+  "title": "PËR NJËSITË E SHOQËRISË “ARMO”, SH.A. QË NUK DO TË VLERËSOHEN SI PJESË TË SEKTORËVE ME RËNDËSI TË VEÇANTË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "500",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-09-21",
+  "published": "2000-10-23",
+  "in_force": "2000-10-23",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/6f461c4f470cdc85c245a94b52a42ba2c3d556dd6f63225758e5393995e94084.docx",
+  "source_sha256": "6f461c4f470cdc85c245a94b52a42ba2c3d556dd6f63225758e5393995e94084",
+  "official_record": "https://qbz.gov.al/api/v1/acts/364",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/09/21/500",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    999
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
