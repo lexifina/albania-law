@@ -1,0 +1,1 @@
+8. Niveli i pagës për emërtesën “sekretar i Zëvendëskryetarit të Këshillit të Lartë të Drejtësisë” të jetë në nivelin e pagës së punonjësve të kategorisë III-a, sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi.
