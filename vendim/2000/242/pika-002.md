@@ -1,0 +1,1 @@
+2. Ministria e Ekonomisë Publike dhe Privatizimit, brenda muajit korrik 2000, të fillojë procedurat e privatizimit dhe të hartojë projektet e mbylljes së këtyre minierave dhe fabrikave të pasurimit. Mbyllja e tyre të përfundojë brenda vitit 2000.

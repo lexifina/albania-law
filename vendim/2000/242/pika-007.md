@@ -1,0 +1,1 @@
+7. Fondet prej 10 milionë lekësh, nga të cilat 4 milionë lekë për vitin 2000 dhe 6 milionë lekë për vitin 2001, për trajtimin e 90 punonjësve, që humbasin vendin e punës si pasojë e mbylljes së minierave dhe fabrikave të pasurimit do të përballohen nga buxheti i shtetit dhe të vihen në dispozicion të Ministrisë së Punës dhe Çështjeve Sociale.

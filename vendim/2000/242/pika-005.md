@@ -1,0 +1,1 @@
+5. Punonjësit, të cilët deri më datën 1.1.2000, kanë qenë në marrëdhënie pune dhe që do të jenë të tillë deri në momentin e mbylljes së minierave dhe fabrikave të pasurimit, të emërtuara në pikën 1 të këtij vendimi, të trajtohen për 1 (një) vit me pagën minimale, në shkallë vendi, në momentin e hyrjes në fuqi të këtij vendimi.
