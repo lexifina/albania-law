@@ -1,0 +1,29 @@
+{
+  "qbz_id": 2241,
+  "title": "PËR NJË TRAJTIM TË VEÇANTË FINANCIAR TË PILOTËVE FLUTURUES NË PENSION",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9128",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-07-29",
+  "published": "2003-08-19",
+  "in_force": "2003-09-03",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/acc481803eb79daaaaffc8e9cef3a049f7ca1e2091c014f9f3518f6c21c05016.docx",
+  "source_sha256": "acc481803eb79daaaaffc8e9cef3a049f7ca1e2091c014f9f3518f6c21c05016",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2241",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/07/29/9128",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    16500,
+    17273
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
