@@ -1,0 +1,1 @@
+7. Pikat 6, 7 dhe 8 të tabelës, që i bashkëlidhet vendimit nr.473, datë 31.8.2000 të Këshillit të Ministrave “Për shpronësimin për interes publik të pasurive të paluajtshme, që preken nga ndërtimi i ujësjellësit dhe kanalizimeve të qytetit të Korçës”, shfuqizohen.
