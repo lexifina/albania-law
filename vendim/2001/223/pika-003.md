@@ -1,0 +1,1 @@
+3. Përcaktimi i treguesve fiziko-kimikë dhe kondensatit të tymit të duhanit dhe të produkteve të duhanit, bëhet në Institutin e Kërkimeve Ushqimore, sipas standardeve shqiptare dhe atyre të Organizatës Ndërkombëtare të Standardeve (ISO).

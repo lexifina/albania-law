@@ -1,0 +1,1 @@
+8. Vendimi i komisionit i shoqëruar me analizat fiziko-kimike dhe të kondensatit të tymit, u bëhen të ditur subjekteve të interesuara dhe Ministrisë së Financave. Procedurat dhe vendimet e këtij komisioni, arkivohen në zyrën e arkiv-protokollit të Ministrisë së Bujqësisë dhe Ushqimit.

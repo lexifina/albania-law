@@ -1,0 +1,1 @@
+9. Shpenzimet për kryerjen e degustimit, pagesa e anëtarëve të komisionit dhe tarifat e analizave kimiko-fizike e të kondensatit të tymit, përcaktohen me udhëzimin e përbashkët të Ministrisë së Buqjësisë dhe Ushqimit dhe të Ministrisë së Financave dhe mbulohen nga subjektet e interesuara.

@@ -1,0 +1,1 @@
+7. Në një seancë degustimi, të degustohen deri me 4 mostra cigaresh. Kriteret e vlerësimit të treguesve shijorë të markave të cigareve, përcaktohen me udhëzim të përbashkët të Ministrisë së Bujqësisë dhe Ushqimit dhe Ministrisë së Financave.

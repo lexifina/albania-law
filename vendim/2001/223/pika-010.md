@@ -1,0 +1,1 @@
+10. Ministria e Financave njofton të gjitha subjektet, importuese dhe prodhuese të cigareve, për të bërë regjistrimin e markave të cigareve, që prodhojnë apo importojnë, në Agjencinë Kombëtare të Duhan-Cigareve.
