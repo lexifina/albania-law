@@ -1,0 +1,1 @@
+3. Nëse palët, gjatë shqyrtimit të konfliktit në zyrën e pajtimit, pajtohen, hartohet një procesverbal, i cili, pasi nënshkruhet prej tyre, merr fuqinë e kontratës kolektive, e detyrueshme për t’u zbatuar nga këto palë.

@@ -1,0 +1,1 @@
+9. Nëse palët e pranojnë dhe e nënshkruajnë propozimin e zyrës së pajtimit, ky propozim merr fuqinë e kontratës kolektive, e detyrueshme për t’u zbatuar nga palët. Në rast të kundërt, kryetari i zyrës së pajtimit, deklaron dështimin e pajtimit të palëve në konflikt.

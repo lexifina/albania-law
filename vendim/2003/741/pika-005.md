@@ -1,0 +1,1 @@
+5. Nëse njëra nga palët, pa arsye të justifikuara, nuk paraqitet në seancat e shqyrtimit të konfliktit, zyra e pajtimit, pasi dëgjon palën e pranishme dhe mbledh të dhëna të nevojshme, ka të drejtë të propozojë pajtimin.

@@ -1,0 +1,1 @@
+11. Anëtarët e Zyrës Kombëtare të Pajtimit përfitojnë një shpërblim të barabartë me pagën ditore të drejtorit të drejtorisë, shumëzuar me ditët, në të cilat marrin pjesë në seancat e pajtimit, të vërtetuara nga kryetari i zyrës.
