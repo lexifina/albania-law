@@ -1,0 +1,1 @@
+2. Pas plotësimit të tabelës model 54, kryetari i KQV-së plotëson “Tabelën e përgjithshme të rezultateve të qendrës së votimit Nr._______ të zonës zgjedhore nr.19”, modeli 56, e cila përmbledh të dhënat e tabelës së mësipërme, model 54.

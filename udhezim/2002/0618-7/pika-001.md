@@ -1,0 +1,1 @@
+1. KQV-ja pas numërimit të fletëvotimeve për deputetë të drejtpërdrejtë në zonën njëemërore, zarfet me fletëvotimet e përdorura dhe të papërdorura i fut në kutinë e votimit. Mbi bazën e fletëvotimeve të përdorura plotësohet “Tabela e rezultateve të qendrës së votimit nr._____, për deputet të drejtpëdrejtë në zonën zgjedhore nr.19” (modeli 54).

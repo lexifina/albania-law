@@ -1,0 +1,3 @@
+# Nënshkrimi
+SEKRETARI
+Sokol Shazi

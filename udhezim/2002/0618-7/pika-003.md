@@ -1,0 +1,1 @@
+3. Kopjet origjinale të dy tabelave (modelet 54 dhe 56), si dhe procesverbalet dhe vula e KQV-së vendosen në kutinë e votimit. Një kopje tjetër origjinale e tabelave model 54 dhe 56 e plotësuar, vendosen në një zarf të veçantë.
