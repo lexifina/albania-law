@@ -1,0 +1,6 @@
+3. Investitori strategjik i interesuar, që do të ftohet të paraqesë ofertën, duhet të përmbushë, paraprakisht, kërkesat e mëposhtme:
+a) Të jetë person juridik, që zotëron garanci financiare e të jetë i njohur me veprimtarinë ekonomike në një sektor të caktuar, në përputhje me standardet e certifikimit ISO 9 000 ose me standardet të njësuara me to.
+b) Të ketë një kapital tërësisht të paguar, mbi 51 000 000 (pesëdhjetë e një milionë) USD apo barasvlerën e kësaj shume në valutën, në të cilën është shprehur kapitali; vlera neto dhe, sipas rastit, vlera neto e konsoliduar duhet të jetë të paktën 133 000 000 (njëqind e tridhjetë e tre milionë) USD.
+c) Të jetë shoqëri e specializuar në fushën e përpunimit e të tregtimit të naftës, gazit e nënprodukteve të tyre, e cila t’i ketë siguruar këto veprimtari për jo më pak se tre vjet; në rast të konsorciumeve apo të bashkimit të investitorëve, anëtari kryesor të përmbushë kërkesat e përmendura më lart.
+Nuk do të pranohen në procedurën e tenderit palët, që janë në likuidim, që nuk kanë aftësi paguese ose kanë mbingarkesë në borxhe.
+Në rastin e bashkimit të shoqërive për t’u paraqitur si palë e vetme për blerjen e aksioneve, investitori strategjik duhet të ketë kontrollin e bashkimit.
