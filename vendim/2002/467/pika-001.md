@@ -1,0 +1,1 @@
+1. Miratimin e Kontratës Koncecionare të formës ”ROT” ndërmjet Ministrisë së Industrisë dhe Energjetikës dhe Ministrisë së Ekonomisë, nga njëra anë, dhe shoqërisë italiane ”ESSEGEI” s.r.l., nga ana tjetër, për hidrocentralet vendore, sipas listës së aneksit nr.1, që i bashkëlidhet Kontratës.
