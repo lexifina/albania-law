@@ -1,0 +1,1 @@
+2. Paga bazë, sipas gradës, për ushtarakët aktivë, vjetërsia e të cilëve është më e ulët se ajo e përcaktuar për gradën që mban, të jetë e barabartë me pagën fillestare të gradës përkatëse. Paga bazë, sipas gradës, për ushtarakët aktivë, vjetërsia e të cilëve është më e madhe se ajo e përcaktuar për gradën që mban, të jetë e barabartë me pagën maksimale të gradës përkatëse.

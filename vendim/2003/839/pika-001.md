@@ -1,0 +1,1 @@
+1. Paga bazë, sipas gradës dhe viteve të shërbimit, për ushtarakët aktivë të Forcave të Armatosura të Republikës së Shqipërisë të jetë sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
