@@ -1,0 +1,1 @@
+1. Pjesa e mbetur nga transhi i dytp i kredisë japoneze për projektin ASAC prej 743 774 2 mijë lekësh të përdoret nga Ministria e Bujqësisë dhe Ushqimit për rimbursimin e shpenzimeve për investimet e kryera në vitin 1999.
