@@ -1,0 +1,1 @@
+3. Enti Kombëtar i Banesave, në bazë të dokumentacionit të paraqitur nga Ministria e Pushtetit Lokal dhe nga Bashkia e Tiranës, të kryejë veprimet përkatëse pasi të ketë bërë verifikimin në vend të punimeve të kryera në përputhje me dokumentacionin tekniko-ekonomik, brenda fondit të miratuar.

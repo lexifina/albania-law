@@ -1,0 +1,1 @@
+4. Efektet financiare prej 5 343 700 ( pesë milionë e treqind e dyzet e tre mijë e shtatëqind) lekësh të përballohen nga buxheti i miratuar për vitin 2001, në zërin “Ndërtim banese”, i Ministrisë së Punëve Publike për Entin Kombëtar të Banesave.
