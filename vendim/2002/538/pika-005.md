@@ -1,0 +1,1 @@
+5. Fondi prej 44 667 708 (dyzet e katër milionë e gjashtëqind e gjashtëdhjetë e shtatë mijë e shtatëqind e tetë) lekësh, për kompensimin e pronarëve të shpronësuar dhe të shpenzimeve procedurale, sipas pikave 3 dhe 4 të këtij vendimi, të përballohet nga buxheti i vitit 2002, zëri “Shpronësime”, miratuar për Ministrinë e Transportit dhe Telekomunikacionit.
