@@ -1,0 +1,2 @@
+2. Ngarkohen Ministri i Punës dhe i Çështjeve Sociale, Ministri i Punëve të Jashtme, Ministri i Rendit Publik, Ministri i Drejtësisë, Ministri i Financave, Ministri i Arsimit dhe i Shkencës, Ministri i Integrimit Europian, Ministri i Pushtetit Vendor dhe i Decentralizimit dhe Ministri i Kulturës, Rinisë dhe Sporteve për ndjekjen dhe zbatimin e kësaj strategjie.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
