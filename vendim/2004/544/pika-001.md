@@ -1,0 +1,2 @@
+1. Subjekti juridik, që ka kryer ndërtim me sipërfaqe më të madhe se projekti i miratuar me vendim të KRRT-së së njësisë së qeverisjes vendore dhe që ka depozituar e protokolluar kërkesën për legalizimin e shtesës brenda afateve të përcaktuara në paragrafin e parë të nenit 6 të ligjit nr.9209, datë 23.3.2004 “Për legalizimin e shtesave në ndërtime”, duhet të plotësojë formularin A “Kërkesa teknike”, që i bashkëlidhet këtij vendimi.
+Njësia e urbanistikës e njësisë së qeverisjes vendore e pajis subjektin me këtë formular.

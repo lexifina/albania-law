@@ -1,0 +1,5 @@
+3. Kur njësia e urbanistikës vëren se dokumentacioni i paraqitur është në përputhje me kriteret e legalizimit dhe se subjekti i ka shlyer të gjitha detyrimet e përcaktuara me ligj, vendos ta pajisë atë me dokumentacionin e nevojshëm, si më poshtë vijon:
+a) Me leje të re ndërtimi për të gjithë objektin, përfshirë edhe sipërfaqen jashtë lejes së miratuar, për ndërtimet e përfshira në pikën 1 të nenit 5 të ligjit nr.9209, datë 23.3.2004.
+Vlerësohen ndërtimet e papërfunduara, ndërtimet për të cilat procesverbali i përfundimit të karabinasë është depozituar deri në datën e hyrjes në fuqi të ligjit të sipërpërmendur.
+b) Me dokumentin e legalizimit shtesë, sipas formularit B “Legalizim shtesë”, që i bashkëlidhet këtij vendimi, për ndërtime e përfshira në pikën 2 të nenit 5 të ligjit nr.9209, datë 23.3.2004.
+Vlerësohen ndërtimet e përfunduara, ndërtimet për të cilat subjekti juridik ka depozituar, në përputhje me nenin 13 të ligjit nr.8402, datë 10.9.1998 “Për kontrollin dhe disiplinimin e punimeve të ndërtimit”, pranë njësisë së urbanistikës së njësisë së qeverisjes vendore, kërkesën për marrjen e lejes së shfrytëzimit.

@@ -1,0 +1,1 @@
+2. Subjekti juridik plotëson dhe depoziton në njësinë e urbanistikës formularin A dhe dokumentacionin e përcakuar në nenin 2 të ligjit nr.9209, datë 23.3.2004 “Për legalizimin e shtesave në ndërtime”, brenda afatit të caktuar në pikën 2 të nenit 6 të po këtij ligji.
