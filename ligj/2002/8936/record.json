@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1632,
+  "title": "Për një shtesë në ligjin nr.8770, datë 19.4.2001 “Për shërbimin e ruajtjes dhe sigurisë fizike”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8936",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-09-12",
+  "published": "2002-10-17",
+  "in_force": "2002-11-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/1276fa9724f2b27d3b86820372333752fb98d8e465dd3a67691f022a76a4079d.docx",
+  "source_sha256": "1276fa9724f2b27d3b86820372333752fb98d8e465dd3a67691f022a76a4079d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1632",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/09/12/8936",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
