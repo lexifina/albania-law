@@ -1,0 +1,1 @@
+5. Paga e inspetorëve dhe punonjësve ndihmës vendoset nga këshilli drejtues i Institutit të Studimit të Tokave, në raport me të ardhurat që krijohen gjatë veprimtarisë së Shërbimit të Kontrollit të Plehrave Kimike.

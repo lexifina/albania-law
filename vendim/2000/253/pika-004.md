@@ -1,0 +1,1 @@
+4. Paga e administratorëve caktohet në bazë të vendimit nr.393, datë 3.9.1992, të Këshillit të Ministrave, ”Për pagat e punonjësve të institucioneve buxhetore”, pika 4, paragrafet 1 dhe 2. Fondi për pagat përballohet nga buxheti i vitit 2000, i miratuar për Ministrinë e Bujqësisë dhe Ushqimit.
