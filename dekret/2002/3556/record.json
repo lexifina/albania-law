@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1700,
+  "title": "Për caktimin e datës së zgjedhjeve të pjesshme në zonën zgjedhore nr. 52",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "3556",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2002-11-14",
+  "published": "2002-11-19",
+  "in_force": "2002-11-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/524fb27617c40b5253d8d9d09fbe1cf3e7744c847ccfee1cfd93008438a14f51.docx",
+  "source_sha256": "524fb27617c40b5253d8d9d09fbe1cf3e7744c847ccfee1cfd93008438a14f51",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1700",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2002/11/14/3556",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
