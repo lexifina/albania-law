@@ -1,0 +1,26 @@
+{
+  "qbz_id": 20147,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 67, DATË 11.2.1997, TË KËSHILLIT TË MINISTRAVE, “PËR NJË NDRYSHIM NË VENDIMIN NR. 445, DATË 13.12.1991, TË KËSHILLIT TË MINISTRAVE, “PËR VËRTETIMIN E KOHËS SË VUAJTJES SË DËNIMIT ADMINISTRATIV NGA ISH TË INTERNUARIT DHE TË DËBUARIT PËR ÇËSHTJE POLITIKE, KUR MUNGOJNË DOKUMENTET ZYRTARE””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "418",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-08-04",
+  "published": "2000-09-04",
+  "in_force": "2000-09-04",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2327ec64faab82fa3ac863f1dc8edaf134b2038b530db909c44c4fbb5a853bde.docx",
+  "source_sha256": "2327ec64faab82fa3ac863f1dc8edaf134b2038b530db909c44c4fbb5a853bde",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20147",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/08/04/418",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
