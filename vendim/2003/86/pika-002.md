@@ -1,0 +1,1 @@
+2. Libreza e shëndetit është personale dhe e patjetërsueshme. Përdorimi i librezës nga persona të tjerë nuk lejohet, me përjashtim të rasteve të përcaktuara me udhëzimin e veçantë të Institutit të Sigurimeve të Kujdesit Shëndetësor.
