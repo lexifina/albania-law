@@ -1,0 +1,1 @@
+6. Për realizimin e veprimtarisë së Bordit, funksionon sekretaria teknike, e cila përbëhet nga kryesekretari, që emërohet me vendim të Bordit dhe merr pjesë në mbledhjet e tij, pa të drejtë vote, si dhe nga dy punonjës. Ata zgjidhen nga personeli i IGJUSH-it, brenda numrit limit të punonjësve të tij. Bordi, me vendim përcakton detyrat e sekretarisë.

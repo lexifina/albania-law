@@ -1,0 +1,1 @@
+7. Përgjegjësitë, detyrat e kryetarit të Bordit, të anëtarëve, kryesekretarit dhe sekretarisë, përcaktohen në rregulloren e punës së Bordit, e cila miratohet me shumicën e votave të anëtarëve të bordit në mbledhjen e parë të tij.

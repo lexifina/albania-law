@@ -1,0 +1,1 @@
+3. Bordi i Gjeoinformacionit mblidhet si rregull një herë në 2 (dy) muaj, sipas njoftimit të bërë nga kryetari i bordit. Njoftimi përmban rendin e ditës dhe materialet që do të diskutohen në mbledhje. Ai u dërgohet anëtarëve të bordit, të paktën 1 (një) javë përpara datës së caktuar për mbledhje.

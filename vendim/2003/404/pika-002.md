@@ -1,0 +1,1 @@
+2. Bordi funksionon si organ kolegjial, në mbështetje të ligjit nr.8480, datë 27.5.1999 dhe e zhvillon veprimtarinë në mbështetje të ligjit nr.8907, datë 6.6.2002 dhe të akteve ligjore e nënligjore në fuqi.

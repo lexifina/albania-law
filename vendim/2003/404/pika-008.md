@@ -1,0 +1,1 @@
+8. Shpërblimi për pjesëmarrje në mbledhjet e Bordit për çdo anëtar të jetë 3 000 (tre mijë) lekë. Efektet financiare të përballohen nga buxhetet e çdo viti, të miratuara për ministritë dhe institucionet e përfaqësuara në Bord.
