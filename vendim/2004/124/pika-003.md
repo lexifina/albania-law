@@ -1,0 +1,1 @@
+3. Vendimi nr.414, datë 7.8.1995 i Këshillit të Ministrave “Për miratimin e uniformës ushtarake të strukturave të Ministrisë së Mbrojtjes” dhe aktet e tjera ligjore e nënligjore, që bien në kundërshtim me këtë vendim, shfuqizohen.
