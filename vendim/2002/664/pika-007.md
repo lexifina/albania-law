@@ -1,0 +1,1 @@
+7. Këshilli i Ministrave pas mbledhjes së të dhënave të nevojshme, shpall gjendjen e emergjencës civile në një zonë të caktuar ose në të gjithë vendin, kur shtrirja e kësaj emergjence i kalon mundësitë për t’u përballuar nga qarku dhe kërkohet të vihen në punë burimet e qarqeve fqinje ose të niveleve qendrore.

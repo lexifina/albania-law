@@ -1,0 +1,1 @@
+8. Kriteret kryesore për shpalljen e gjendjes së emergjencës civile për fatkeqësitë, si rezultat i veprimit të njerëzve, epidemive, aksidenteve industriale dhe rrezatimeve radioaktive, etj, përcaktohen, rast pas rasti, sipas efekteve që do të kenë në zonën e goditur dhe sipas mundësive që ekzistojnë për përballimin e tyre, në nivelet e qeverisjes vendore.

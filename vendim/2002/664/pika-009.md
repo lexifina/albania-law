@@ -1,0 +1,1 @@
+9. Propozimi për shpalljen e gjendjes së emergjencës civile në këto raste ndërmerret nga ministritë e linjës sipas veçorive të fenomeneve që shfaqen, si dhe të kompetencave e funksioneve që mbulojnë, në bashkëpunim me institutet përkatëse dhe organet e qeverisjes vendore, të prekura nga fatkeqësia.

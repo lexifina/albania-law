@@ -1,0 +1,1 @@
+6. Procedura për shpalljen e gjendjes së emergjencës civile në rastin e përmbytjeve të jetë e njëjtë me procedurën e përcaktuar në pikën 6 të këtij vendimi. Të dhënat e regjistruara do të jepen nga Instituti Hidrometeorologjik dhe/ose nga organet e qeverisjes vendore, rast pas rasti dhe periodikisht, çdo 4 orë nga fillimi i reshjeve.
