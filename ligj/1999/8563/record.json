@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123832,
+  "title": "PËR PËRCAKTIMIN E FORMËS DHE FORMULËS SË PRIVATIZIMIT TË BANKËS SË KURSIMEVE, SH.A.",
+  "type": "Ligj",
+  "number": "8563",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-12-22",
+  "version_no": 1,
+  "qbz_version_id": 10835,
+  "in_force": "2001-05-17",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2001-05-17",
+  "changed_by_qbz_id": 869,
+  "changed_by_number": "8806",
+  "changed_by_title": "Ligj Nr.8806 Dt.17.05.2001",
+  "source": "https://qbz.gov.al/files/693e3ffad9f85f60f4e4c8765ea190e49774eca03f0922f2447cf9206aeeee2a.docx",
+  "source_sha256": "693e3ffad9f85f60f4e4c8765ea190e49774eca03f0922f2447cf9206aeeee2a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123832",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123832/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
