@@ -1,0 +1,7 @@
+L I G J
+Nr.8692, datë 16.11.2000
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN E BONIT “PËR MBROJTJEN E LLOJEVE SHTEGTUESE TË KAFSHËVE TË EGRA” DHE MIRËKUPTIMET E KËSAJ KONVENTE
+Në mbështetje të neneve 78, 81, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+K U V E N D I
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
