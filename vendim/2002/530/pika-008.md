@@ -1,0 +1,1 @@
+8. Mënyra e pagesës për çështje në konflikt ose në proces regjistrimi të bëhet në përputhje me kushtet e përcaktuara në ligjin nr. 8561, datë 22.12.1999 “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë pronë private për interes publik”.
