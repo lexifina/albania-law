@@ -1,0 +1,1 @@
+2. Anëtarët e Këshillit të Baseneve Ujëmbledhëse, për punën e kryer, të shpërblehen, për çdo pjesëmarrje në mbledhje, me shumën 5000 (pesë mijë) lekë, ndërsa kryetari me shumën 6000 (gjashtë mijë) lekë.
