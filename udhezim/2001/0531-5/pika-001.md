@@ -1,0 +1,1 @@
+1. Kostoja mesatare e ndërtimit të banesave nga Enti Kombëtar i Banesave për vitin 2001 të jetë 30 867 (tridhjetë mijë e tetëqind e gjashtëdhjetë e shtatë) lekë/m2, për sipërfaqe shfrytëzimi, sipas tabelës “Kosto mesatare për vitin 2000”, që i bashkëlidhet këtij udhëzimi.
