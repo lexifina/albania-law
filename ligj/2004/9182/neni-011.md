@@ -1,0 +1,5 @@
+# Neni 11
+1. Anëtarë të Akademisë (akademikë) zgjidhen shkencëtarë nga më të shquarit me titull ”Profesor” ose ”Drejtues kërkimesh”, me shtetësi shqiptare, të cilët, nëpërmjet punimeve origjinale, veprave përgjithësuese ose projekteve të një niveli të lartë shkencor, kanë zgjidhur teorikisht dhe praktikisht probleme të një rëndësie të veçantë në fushën e shkencës, të ekonomisë ose të kulturës, kanë dhënë ndihmesë shumë të rëndësishme në formimin shkencor, universitar e pasuniversitar të specialistëve e shkencëtarëve të rinj.
+2. Në raste të veçanta anëtarë të Akademisë mund të zgjidhen edhe personalitete që kanë merita të shquara në fushën e krijimtarisë letrare dhe artistike.
+3. Anëtarët e Akademisë mbajnë për tërë jetën titullin ”Akademik”, me përjashtim të rastit kur mbajtësi heq dorë vullnetarisht prej titullit.
+4. Anëtarët e Akademisë me banim të përhershëm në Shqipëri marrin pagën përkatëse, sipas tabelës së pagave të miratuar nga Këshilli i Ministrave, të cilën e përfitojnë për të gjithë kohën e anëtarësimit.
