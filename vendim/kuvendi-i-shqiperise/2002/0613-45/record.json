@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1446,
+  "title": "Për miratimin e dekretit të Presidentit nr.3063, datë 18.6.2001 “Për kthimin për rishqyrtim të ligjit nr.8813, datë 17.5.2001 “Për disa shtesa e ndryshime në ligjin nr.7905, datë 21.3.1995 “Kodi i Procedurës Penale i Republikës së Shqipërisë”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "45",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-06-13",
+  "published": "2002-06-22",
+  "in_force": "2002-06-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3adb05f44e14f1768fc0b4356b8f3356306ce77f13fcfd52c5432867e9cadb6f.docx",
+  "source_sha256": "3adb05f44e14f1768fc0b4356b8f3356306ce77f13fcfd52c5432867e9cadb6f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1446",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/06/13/45",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
