@@ -4,7 +4,7 @@ Nr. 624, datë 21.12.1999
 
 Për përballimin e shpenzimeve të palës shqiptare, pjesëmarrëse në forcën shumëkombëshe të Europës juglindore dhe të drejtat e ushtarakëve aktivë, pjesëmarrës në këtë forcë.
 
-(Ndryshuar me VKM nr. 701, datë 27.12.2001)
+(Ndryshuar me VKM nr. 701, datë 27.12.2001; nr. 544, datë 1.8.2003)
 
 (i përditësuar)
 
@@ -22,7 +22,7 @@ b) shpenzime administrative për buxhetin e përbashkët të Shtabit të Brigad�
 
 II.Të drejtat e ushtarakëve
 
-1.Ushtaraku aktiv i Forcave të Armatosura në Republikën e Shqipërisë, i transferuar e caktuar në detyrë pranë komandës së Forcës Shumëkombëshe të Europës Juglindore, me vendndodhje në Plovdiv, Bullgari, përveç pagës (pagë klase, shtesë vjetërsie dhe shpërblim për gradën) të funksionit organik, që mban aktualisht, në momentin e transferimit dhe emërimit në këtë komandë, merr alokacion.
+1.Ushtaraku aktiv i Forcave të Armatosura në Republikën e Shqipërisë, i transferuar e caktuar në detyrë pranë komandës së Forcës Shumëkombëshe të Europës Juglindore, në vendndodhjen e shtabit të brigadës, përveç pagës (pagë klase, shtesë vjetërsie dhe shpërblim për gradën) të funksionit organik, që mban aktualisht, në momentin e transferimit dhe emërimit në këtë komandë, merr alokacion.
 
 2.Alokacioni fillon të paguhet ditën e arritjes së ushtarakut në zyrat e kësaj komande ndërkombëtare dhe ndërpritet ditën e largimit, pas mbarimit të misionit.
 
@@ -56,11 +56,11 @@ Ushtaraku aktiv dhe bashkëshortja e tij, si dhe fëmijët parashkollorë kanë 
 
 - Këshilltar politik i Komandantit të Brigadës (oficer aktiv) 190%.
 
-11.Masa e alokacionit për këtë shtet, Bullgarinë, për ivelin bazë (100%) caktohet nga Ministria e Financave dhe Ministria e Mbrojtjes, duke u mbështetur në koston e jetesës së këtij shteti.
+11. Masa e alokacionit për shtetin ku është vendosur shtabi i brigadës, për nivelin bazë (100%) caktohet nga Ministria e Financave dhe Ministria e Mbrojtjes, duke u mbështetur në koston e jetesës së këtij shteti.
 
 Në bazë të alokacionit për nivelin bazë dhe shkallëzimeve të mësipërme, Ministria e Mbrojtjes cakton alokacionin e ushtarakut aktiv.
 
-12.Ministria e Mbrojtjes përballon shpenzimet për qira, energji elektrike, ujë, ngrohje e gaz të apartamentit të banimit të këtij ushtaraku.
+12.Ministria e Mbrojtjes përballon shpenzimet për qira, energji elektrike, ujë, ngrohje e gaz, lavanderi dhe abonim në kabëll TV të apartamentit të banimit të këtij ushtaraku.
 
 13.Ushtaraku aktiv ka të drejtë të marrë shpenzime udhëtimi, akomodimi dhe dietë në valutë të huaj, sipas legjislacionit në fuqi, kur emërohet në detyrë, thirret në atdhe ose dërgohet me shërbim në një shtet tjetër nga titullari, kthehet në atdhe me përfundimin e misionit, si dhe dërgohet me shërbim për nevoja pune nga komandanti i Brigadës Shumëkombëshe të Europës Juglindore. Për rastin e fundit Ministria e Mbrojtjes nxjerr udhëzim të veçantë.
 
