@@ -1,0 +1,1 @@
+5. Këshilli mbikëqyrës i raporton ministrit të Ekonomisë Publike dhe Privatizimit, në drejtorinë e administrimit të pronës publike, me cilësinë e përfaqësuesit të pronës shtetërore 4 herë në vit, për veprimtarinë financiare të shoqërisë.
