@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private (truall dhe objekt), që preken nga rehabilitimi i kanaleve të ujërave të zeza, në rrugën në veri të ish-kombinatit të konservave, dhe nga sistemim-asfaltimi i rrugës nr.5 (segmenti shkolla “Ali Demi”- rruga nr.3), në qytetin e Vlorës.
