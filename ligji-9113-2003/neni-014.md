@@ -1,0 +1,5 @@
+# Neni 14
+Trajtimi në rast vdekjesh nga forcat vizitore
+1. Kur ndodh vdekja e një personi nga forcat vizitore mbi territorin e vendit pritës, kjo i raportohet autoritetit përkatës të vendit pritës. Vdekja do të certifikohet nga një mjek i vendit pritës.
+2. Në rast se autoriteti përkatës i vendit pritës kërkon kryerjen e autopsisë, kjo do të bëhet në përputhje me procedurat kombëtare nga një mjek i vendit pritës, i caktuar për këtë qëllim. Gjithashtu mund të jetë prezent në autopsinë, e cila zhvillohet në një vend dhe kohë të caktuar, edhe një doktor i caktuar nga forcat vizitore.
+3. Autoritetet e forcave vizitore marrin masat për sistemimin e trupit sapo të merret autorizimi nga autoriteti i vendit pritës. Rikthimi në atdhe i trupit do të bëhet në përputhje me rregullat e vendit pritës. Autoritetet e forcave vizitore informojnë autoritetet e vendit pritës, në rast se kërkohet, mbi masat e marra për transportimin e trupit nga territori i vendit pritës. Forcat vizitore do të mbulojnë të gjitha shpenzimet që dalin nga kjo kërkesë.
