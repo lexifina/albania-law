@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pasurive të paluajtshme, që preken nga ndërtimi i Qendrës Kombëtare Stërvitore Bazë (QKSB) të Forcave të Armatosura të Republikës së Shqipërisë në Bunavi, Vlorë, sipas listës që i bashkëlidhet këtij vendimi.
