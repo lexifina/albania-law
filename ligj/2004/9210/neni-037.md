@@ -1,0 +1,7 @@
+# Neni 37
+Mbrojtja shoqërore e familjes së ushtarakut
+1.Kur ushtaraku aktiv (oficer, nënoficer, ushtar me pagesë/profesionist) i Forcave të Armatosura, në rastet e emërimit në detyrë jashtë vendbanimit të përhershëm të tij, brenda dhe jashtë vendit, ndërron vendbanimin së bashku me familjen dhe, si rrjedhojë e kësaj, bashkëshorti/bashkëshortja humb vendin e punës, në pamundësi të punësimit në vendbanimin e ri, i jepet pagë papunësie në masën dhe sipas kritereve të përcaktuara me vendim të Këshillit të Ministrave.
+Paga e papunësisë jepet në emër të bashkëshortes/bashkëshortit.
+2. Koha e qëndrimit pa punë e bashkëshortes/bashkëshortit të ushtarakut, për një periudhë deri në 7 vjet, njihet si vjetërsi sigurimi, për efekt përfitimi pensioni pleqërie. Kontributi për këtë periudhë përballohet nga Buxheti i Shtetit. Kriteret dhe masa përcaktohen me vendim të Këshillit të Ministrave.
+Personat të cilët e kanë përfituar këtë të drejtë, sipas nenit 17 të ligjit nr.7496, datë 3.7.1991 “Për statusin e ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë”, do të vazhdojnë ta përfitojnë këtë pagesë edhe për periudhën e përcaktuar në pikën 2 të këtij neni, por jo më shumë se 15 vjet.
+3. Bashkëshortja/bashkëshorti e/i ushtarakut e përfiton pagën e papunësisë edhe për periudhën kur ushtaraku nxirret në rezervë, në lirim ose vdes, por jo më shumë se periudha e përcaktuar në pikën 2 të këtij neni.

@@ -1,0 +1,3 @@
+# Neni 49
+Shfuqizime
+Ligji nr.7496, datë 3.7.1991 “Për statusin e ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë”, neni 50 i ligjit nr.7978, datë 26.7.1995 “Për Forcat e Armatosura të Republikës së Shqipërisë”, shprehja ”por jo më shumë se masa e pensionit maksimal të pleqërisë në shkallë vendi” në shkronjën ”b” të nenit 11 të ligjit nr.8087, datë 13.3.1996 “Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, të ushtarakëve të Ministrisë së Rendit Publik dhe të Shërbimit Informativ Shtetëror”, i ndryshuar, si dhe të gjitha aktet ligjore dhe nënligjore, që janë në kundërshtim me kërkesat e këtij ligji, shfuqizohen.
