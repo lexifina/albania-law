@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3292,
+  "title": "PËR TRANSFERIMIN NË PRONËSI TË KOMUNËS PREZË, TIRANË  TË REPARTIT USHTARAK NR.3800/1, BATALIONI “AKA” NË PREZË, TIRANË, TË CILAT JANË NË PËRGJEGJËSI ADMINISTRIMI TË MINISTRISË SË MBROJTJES DHE PËR NJË NDRYSHIM NË VENDIMIN NR.515, DATË 18.7.2003 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË MBROJTJES”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "4",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-01-07",
+  "published": "2005-01-18",
+  "in_force": "2005-01-18",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/83a9bdde677c9582c6f24730642d530358fa31b18232be78b824a20051822af8.docx",
+  "source_sha256": "83a9bdde677c9582c6f24730642d530358fa31b18232be78b824a20051822af8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3292",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/01/07/4",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
