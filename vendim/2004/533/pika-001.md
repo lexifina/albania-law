@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 6 908 440 (gjashtë milionë e nëntëqind e tetë mijë e katërqind e dyzet) lekësh, për financimin e konferencës vjetore të Shoqatës së Zyrtarëve Zgjedhorë të Europës Lindore dhe Qendrore (ACEEEO), që do të zhvillohet në Tiranë më datat 9-11 shtator 2004.
