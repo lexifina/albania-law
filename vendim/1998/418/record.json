@@ -1,0 +1,27 @@
+{
+  "qbz_id": 19426,
+  "title": "Vendim Nr.418 Dt.09.07.1998",
+  "type": "Vendim",
+  "number": "418",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1998-07-09",
+  "version_no": 1,
+  "qbz_version_id": 2153,
+  "in_force": "2002-06-20",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2002-06-20",
+  "changed_by_qbz_id": 1463,
+  "changed_by_number": "272",
+  "changed_by_title": "Për një shtesë në vendimin nr. 418, datë 9.7.1998 të Këshillit të Ministrave “Për procedurat e likuidimit të ndërmarrjeve të falimentuara në rrugë administrative”",
+  "source": "https://qbz.gov.al/files/96083e48fce187a69710784d922c25759c0a629d860fbbb92920d95783b6aab8.docx",
+  "source_sha256": "96083e48fce187a69710784d922c25759c0a629d860fbbb92920d95783b6aab8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19426",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/19426/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
