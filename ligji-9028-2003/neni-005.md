@@ -1,0 +1,21 @@
+# Neni 5
+Plotësimi me personel i spitalit ushtarak të Gjirokastrës
+Pala greke merr përsipër detyrimin për plotësimin me personel të përshtatshëm mjekësor, spitalor, ndihmës për spitalin ushtarak të Gjirokastrës në vitin e parë të funksionimit të tij.
+Numri i personelit mjekësor të Palës greke prej 41-vetësh (mjekë, infermierë) përcaktohet në aneksin B, i cili është pjesë e pandarë e kësaj Marrëveshjeje. Përcaktimi i numrit të personelit mjekësor shqiptar vendoset nga Pala shqiptare.
+Personeli i mësipërm i Palës greke do të sigurojë funksionimin normal të spitalit ushtarak të Gjirokastrës për një periudhë kohore prej një (1) viti ose edhe më tej, në qoftë se do të bien dakord të dyja Palët dhe paralelisht do të trajnohet personeli i Palës shqiptare, me qëllim që të sigurojë funksionimin normal të spitalit ushtarak të Gjirokastrës edhe pas përfundimit të këtij afati.
+Personeli i Palës greke do të punojë së bashku me personelin shqiptar mbi bazën e një rregulloreje të hartuar dhe pranuar nga Palët.
+Spitali ushtarak i Gjirokastrës gjatë periudhës kohore që do të përbëhet nga personeli i Palës shqiptare dhe Palës greke do të ketë mundësitë e mëposhtme:
+- zbatimin e 4 ose 6 ndërhyrjeve të vogla gjatë 8 orëve, në varësi të kushteve, nga sektori i operacioneve të spitalit;
+- vizita nga klinika e jashtme e sektorëve të patologjisë dhe kirurgjisë së spitalit edhe nga ora 8.30-14.00 të ditëve që punohet, për njëzet (20) persona për çdo pavion;
+- kryerjen e 100 (njëqind) radiografive për çdo ditë dhe 16 (gjashtëmbëdhjetë) deri në 20 (njëzet) ECHO të organeve të ndryshme, të zemrës dhe të enëve, nga sektori radiografik i spitalit;
+- kryerjen deri më 200 (dyqind) analiza hematologjike dhe biokimike për çdo ditë nga laboratori mikrobiologjik dhe biokimik i spitalit;
+- dhënien e mjekimit dentist për 15 (pesëmbëdhjetë) deri në 20 (njëzet) persona për çdo ditë nga klinika dentare e spitalit;
+- mjekimin e pacientëve në dhoma me kapacitet 40 (dyzet) shtretër.
+Pala greke merr përsipër detyrimin për sigurimin e materialit mjekësor, farmaceutik dhe ushqimin për pacientët e spitalit ushtarak të Gjirokastrës gjatë periudhës kohore që do të shërbejë edhe personeli i saj, sipas aneksit B të kësaj Marrëveshjeje.
+Pala shqiptare merr përsipër detyrimin për:
+- mbulimin e nevojave të spitalit ushtarak të Gjirokastrës me ujë, lëndë djegëse, energji elektrike dhe telekomunikacion, si dhe të disponimit të personelit të nevojshëm ndihmës për funksionimin normal të spitalit ushtarak të Gjirokastrës në sektorët si për shembull të përkthimit, të mirëmbajtjes, të pastrimit etj;
+- lehtësira në gjetjen e shtëpive, të cilat do të përdoren për qëndrimin e personelit të Palës greke;
+- mbulimin me personel të nevojshëm për ruajtjen e spitalit ushtarak të Gjirokastrës dhe sigurinë e personelit gjatë kohës kur është në punë, në bashkëpunim me drejtorinë e tij.
+Pas mbarimit të kohës së shërbimit nga personeli i Palës greke në spitalin ushtarak të Gjirokastrës do të rrinë te drejtoria e këtij spitali 2 (dy) mjekë të Palës greke dhe në kushte pariteti do të vendosen në spitalin e përgjithshëm ushtarak 401 të Athinës 2 (dy) mjekë të Palës shqiptare, të cilët do të shërbejnë si koordinatorë ndërmjet spitalit ushtarak të Gjirokastrës dhe autoriteteve kompetente ushtarake greke të shëndetësisë, si dhe spitalit të përgjithshëm ushtarak 401 të Athinës.
+Të mësipërmit do të shërbejnë tek spitali ushtarak i Gjirokastrës dhe tek spitali i përgjithshëm ushtarak 401 i Athinës, për një periudhë kohore një (1) vjeçare nga data e largimit të personelit të Palës greke. Pas përfundimit të afatit një vjeçar, qëndrimi i mëtejshëm i mjekëve grekë do të rinovohet me pëlqimin e Palëve, të cilat për këtë qëllim negociojnë 30 ditë përpara përfundimit të këtij afati.
+Të dy Palët do të ndryshojnë personelin e tyre, në bazë të gjykimit të tyre për arsye shërbimi, për arsye shëndetësore ose për arsye të paparashikuara. Në raste të tilla do të informohet Pala tjetër me shkrim në lidhje me të dhënat për personelin që do të zëvendësohet dhe datën e zëvendësimit të tyre. Numri i përgjithshëm i personelit të Palëve do të jetë i qëndrueshëm dhe në bazë të rregullave që përcaktohen në këtë Marrëveshje, përveç rastit kur Palët bien dakord ndryshe.
