@@ -1,0 +1,1 @@
+6. Procedurat e zbatimit të këtij projekti pilot dhe skemat e shpërndarjes së karburantit caktohen me një udhëzim të përbashkët të Ministrit të Financave dhe të Ministrit të Bujqësisë dhe të Ushqimit.
