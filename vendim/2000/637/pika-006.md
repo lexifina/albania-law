@@ -1,0 +1,1 @@
+6. Periudha 1 (një) vjeçare t’u njihet punonjësve, që do të dalin të tepërt dhe do të trajtohen sipas këtij vendimi, si vjetërsi pune për efekt pensioni dhe të shënohet si e tillë në librezën e punës.
