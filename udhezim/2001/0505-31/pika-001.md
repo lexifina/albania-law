@@ -1,0 +1,1 @@
+1. Shtatë partitë politike, që kanë fituar më shumë vota në shkallë vendi në zgjedhjet për Kuvendin të vitit 1997, të dërgojnë në Komisionin Qendror të Zgjedhjeve brenda datës 15.5.2001, kandidatët e tyre për anëtar në të 100 KZZ-të.

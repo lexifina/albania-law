@@ -1,0 +1,1 @@
+2. Vendndodhja e qendrave të KZZ-ve është caktuar me vendim të KQZ-së nr.452 datë 27.4.2001 dhe iu është dërguar 7 partive politike që përmenden në pikën 1 të këtij udhëzimi, me shkresën tonë nr.616 datë 5.5.2001.
