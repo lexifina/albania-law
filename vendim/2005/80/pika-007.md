@@ -1,0 +1,1 @@
+7. ISHMT-ja bashkërendon punën, ndërmjet mbledhjeve të KSHMT-së, në fushën e veprimtarive për mbrojtjen e tokës dhe masave për rehabilitimin e tokave të dëmtuara, me struktura të tjera në varësi të Ministrisë së Bujqësisë dhe të Ushqimit, Ministrisë së Mjedisit, institucioneve të tjera dhe organeve të qeverisjes vendore, të ngarkuara për mbrojtjen e tokës.

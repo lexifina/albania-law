@@ -1,0 +1,2 @@
+11. Grupet e kontrollit të IMT-së dhe grupet e veçanta të ngritura me vendim të KMT-së shoqërohen nga forcat e Policisë së Shtetit të drejtorisë së policisë së prefekturës përkatëse, si dhe nga Policia Ndërtimore, që ushtron veprimtari në territorin e qarkut, sa herë që vlerësohet nga kryetari i këshillit të qarkut, me cilësinë edhe të kryetarit të KMT-së.
+Kryetari i këshillit të qarkut kërkesën për angazhimin e forcave të Policisë së Shtetit dhe të Policisë Ndërtimore, ua komunikon drejtuesve përkatës 3 ditë përpara fillimit të kontrollit.

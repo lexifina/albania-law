@@ -1,0 +1,3 @@
+2. Vendimet në KSHMT merren kur janë të pranishëm më shumë se 50 për qind e anëtarëve dhe janë të vlefshme kur për to votojnë më shumë se 50 për qind e anëtarëve të pranishëm.
+Kur nga votimi rezultojnë vota të barabarta në numër, vota e kryetarit është përcaktuese në marrjen e vendimit.
+Ndërmjet dy mbledhjeve të KSHMT-së mund të merren vendime të përkohshme nga kryetari, zëvendëskryetari dhe drejtori i menaxhimit të tokave. Këto vendime paraqiten për shqyrtim dhe miratim në mbledhjen e radhës së KSHMT-së. Kur vendimet e përkohshme nuk miratohen nga KSHMT-ja, ato shfuqizohen me efekte prapavepruese.

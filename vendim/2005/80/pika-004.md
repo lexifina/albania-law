@@ -1,0 +1,1 @@
+4. KSHMT-ja analizon raportin 6-mujor me të dhënat e raportuara nga Komisioni i Mbrojtjes së Tokës në qark, për gjendjen e masave mbrojtëse e rehabilituese të tokave bujqësore, bën vlerësimin për punën e kryer nga të gjitha strukturat shtetërore të ngarkuara për mbrojtjen e tokës bujqësore.

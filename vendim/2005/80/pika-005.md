@@ -1,0 +1,1 @@
+5. KSHMT-ja për çdo rast, kur vëren moszbatim të detyrimeve, që rrjedhin nga dispozitat e akteve ligjore e nënligjore, u propozon marrjen e masave administrative për strukturat e veçanta, që kanë përgjegjësi ligjore për mbrojtjen e tokës, organeve përkatëse që i kanë në varësi.
