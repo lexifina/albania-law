@@ -1,0 +1,2 @@
+2. Miratimin e bashkimit të ambasadës së Republikës së Shqipërisë në Mbretërinë e Belgjikës dhe në Dukatin e Madh të Luksemburgut dhe të Misionit të Përhershëm të Republikës së Shqipërisë pranë Bashkimit Europian, të quajtur ”Përfaqësia diplomatike e Republikës së Shqipërisë pranë Bashkimit Europian, në Mbretërinë e Belgjikës dhe në Dukatin e Madh të Luksemburgut”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
