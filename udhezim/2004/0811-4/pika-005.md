@@ -1,0 +1,1 @@
+5. Të ardhurat e përcaktuara në pikën 3 germat “c” dhe “ç” të këtij udhëzimi, nuk mund të përdoren jashtë destinacionit të përcaktuar në ligjin nr.8405, datë 17.9.1998 “Për urbanistikën” dhe në ligjin nr.8992, datë 12.12.2002 “Për sitemin e taksave vendore”.

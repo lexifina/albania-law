@@ -1,0 +1,7 @@
+4. Në marrëveshjen e bashkëpunimit duhet të saktësohet:
+a) Kryetari i komunës apo bashkisë që delegon kompetencën, të jetë i pranishëm në KRRT-në e qarkut, si përfaqësues i bashkisë apo komunës, kur ajo merr në shqyrtim çështje brenda territorit të komunës apo bashkisë, që ka deleguar kompetencën e planifikimit të territorit. Në këtë rast, ai merr pjesë në votim me cilësinë e anëtarit të KRRT-së.
+b) Kërkesat për shesh dhe leje ndërtimi të depozitohen në njësinë e urbanistikës së komunës apo të bashkisë që ka deleguar kompetencën e planifikimit të territorit.
+c) Të ardhurat që rrjedhin nga neni 51 i ligjit nr.8405, datë 17.9.1998 ”Për urbanistikën”, i ndryshuar, mblidhen nga qarku dhe disponohen vetëm për financimin e studimeve urbanistike, të kërkuara nga bashkia apo komuna që ka deleguar kompetencën e planifikimit të territorit.
+ç) Të ardhurat që rrjedhin nga neni 16 i ligjit nr.8992, datë 12.12.2002 “Për sistemin e taksave vendore”, kalojnë në llogarinë e bashkisë apo komunës që ka deleguar kompetencën dhe administrohen nga këshilli i bashkisë apo komunës.
+Kjo e ardhur përdoret me destinacion për ngritjen dhe përmirësimin e infrastrukturës publike për zonën e studiuar, brenda të cilës miratohet ngritja e strukturës ndërtimore.
+d) Marrëveshja e bashkëpunimit ka vlefshmëri deri në përfundimin e mandatit të këshillit bashkiak apo komunal, me të drejtë rinovimi kur nuk përmbushen kërkesat e pikës 2 të këtij udhëzimi.

@@ -1,0 +1,2 @@
+11. Ligji nr.8991, datë 23.1.2003 “Për disa shtesa dhe ndryshime në ligjin nr.8405, datë 17.9.1998 “Për urbanistikën”, ndryshuar me vendimin nr.2, datë 25.1.1999 të Gjykatës Kushtetuese dhe me ligjet nr.8453, datë 4.2.1999, nr.8501, datë 16.6.1999 dhe nr.8682, datë 7.11.2000” është botuar në Fletoren Zyrtare nr.5, faqe 152 të vitit 2003.
+Vendimi i Këshillit të Ministrave nr.88, datë 1.3.1993 “Për miratimin e zonave që kanë përparësi zhvillimin e turizmit” është botuar në Fletoren Zyrtare nr.4 të vitit 1993.

@@ -1,0 +1,2 @@
+9. Kur sipërfaqja e sheshit të ndërtimit jashtë vijave kufizuese të ndërtimit (vija e verdhë) të qytetit ose të fshatit, është mbi 0,5 ha, shqyrtimi dhe miratimi i sheshit të ndërtimit konform studimeve urbanistike, është kompetencë e KRRTRSH-së, sipas përcaktimit të bërë në nenin 9 të ligjit nr.8405, datë 17.9.1998 ”Për urbanistikën”.
+Në këtë rast, pas miratimit të sheshit të ndërtimit në KRRTRSH, leja e ndërtimit jepet nga KRRT-ja e qarkut përkatës.

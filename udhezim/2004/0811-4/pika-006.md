@@ -1,0 +1,3 @@
+6. KRRT-ja e komunës apo e bashkisë, e ngritur në përputhje me pikën 2 të këtij udhëzimi, ushtron kompetencën e planifikimit të territorit, në përputhje me nenin 20 të ligjit nr.8991, datë 21.3.2003.
+a) Për çdo studim urbanistik, sipas përcaktimit në germat “a”, “b”, “c”, “ç” dhe “d” pika 2 të nenit 20 të ligjit nr.8991, datë 21.3.2003, të miratuar nga KRRT-ja e komunës apo bashkisë, duhet të bëhet shqyrtimi dhe miratimi në KRRT-në e qarkut.
+b) Për çdo studim urbanistik të përcaktuar në germat “a”, “c”, “ç” dhe “dh” pika 1 të nenit 20 të ligjit nr.8991, datë 21.3.2003, të miratuar nga KRRT-ja e qarkut, sipas rastit, në përputhje me nenin 9 të ligjit nr.8405, datë 17.9.1998 ”Për urbanistikën”, duhet bërë miratimi në KRRTRSH.

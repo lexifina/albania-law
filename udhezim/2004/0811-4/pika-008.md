@@ -1,0 +1,2 @@
+8. Jashtë vijës kufizuese të ndërtimit (vija e verdhë) të qytetit ose të fshatit, nuk mund të shqyrtohet dhe miratohet shesh dhe leje ndërtimi, pa pasur studime rajonale ose masterplane të miratuara.
+KRRT-ja e qarkut shqyrton dhe miraton shesh dhe leje ndërtimi, konform studimeve të miratuara, jashtë vijës kufizuese të ndërtimit (vija e verdhë) të qytetit ose të fshatit, sipas përcaktimit të bërë në germën “dh” të pikës 1 të nenit 20 të ligjit nr.8991, datë 21.3.2003.
