@@ -1,0 +1,1 @@
+3. Kërkesa për përdorim me koncesion të një rezerve ujore, në funksion të prurjes së kërkuar të rezervës ujore, do të paraqitet pranë agjencisë ose sekretariatit, sipas tabelave nr.1 dhe nr.2 të këtij vendimi (kolonat 10 dhe 11).

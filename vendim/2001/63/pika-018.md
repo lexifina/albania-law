@@ -1,0 +1,1 @@
+18. Të gjitha institucionet të japin dhe të rijapin lejet, që kanë në kompetencën dhe që i përkasin fushës së përdorimit të ujit, vetëm kur kërkuesi i tyre është i pajisur, nga autoriteti i ujit, me lejen (koncesionin) përkatëse.

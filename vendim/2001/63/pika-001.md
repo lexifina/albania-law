@@ -1,0 +1,1 @@
+1. Deklarimet për përdorim të lirë të rezervave ujore, në mbështetje të pikës 1 të nenit 13 të ligjit nr.8093, datë 21.3.1996, të bëhen pranë agjencive të ujit të këshillave të baseneve ujëmbledhëse, (shkurt agjencia), në përputhje me formularët e miratuar nga Këshilli Kombëtar i Ujit (KKU).

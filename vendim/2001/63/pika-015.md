@@ -1,0 +1,1 @@
+15. Kur brenda gjashtë muajve nga nënshkrimi i kontratës me kusht nuk arrihet të nënshkruhet kontrata e koncesionit, e pranueshme nga Agjencia a Sekretariati dhe subjekti fitues, ky i fundit humbet të drejtën e negociimit të mëtejshëm. Në këtë rast ftohet për negociim subjekti i klasifikuar i dytë, në listën e vlerësimit.
