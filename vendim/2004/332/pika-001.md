@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të ish-uzinës së fermentimit të duhanit dhe transferimin e tyre në pronësi të bashkisë së Fierit, sipas dokumentacionit, që i bashkëlidhet këtij vendimi, të përbërë nga formulari, planimetria dhe planvendosja.
