@@ -1,0 +1,1 @@
+3. Përdorimi i fondeve të mësipërme të bëhet nëpërmjet blerjeve nga tregu i lirë i banesave nga ana e vetë qytetarëve, mbështetur në listat nominale dhe strukturat e apartamenteve tip që përfitojnë, të hartuara nga organet e pushtetit vendor.

@@ -1,0 +1,1 @@
+4. Enti Kombëtar i Banesave, bazuar në listat nominale, kryen veprimet financiare me pronarët shitës të banesave, vetëm pas paraqitjes dhe verifikimit të dokumentacionit ligjor përkatës, që vërtetojnë kryerjen e aktit të blerjes së banesave nga qytetarët, që e përfitojnë atë sipas këtij vendimi.

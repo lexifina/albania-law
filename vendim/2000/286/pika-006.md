@@ -1,0 +1,1 @@
+6. Qytetarët që përfitojnë sipas këtij vendimi, kur nuk kryejnë veprimet për blerjen e banesave brenda një afati 4-mujor nga momenti i vënies në dispozicion të fondeve përkatëse, u humbet e drejta për trajtim si të pastrehë.
