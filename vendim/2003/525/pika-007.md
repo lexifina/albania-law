@@ -1,0 +1,1 @@
+7. Vendimi nr.214, datë 15.7.1991 i Këshillit të Ministrave ”Për shkëputjen e veprimtarisë jetësore të studentëve nga drejtimi i shkollave të larta”, i ndryshuar, vendimi nr.395, datë 12.8.1999 i Këshillit të Ministrave ”Për riorganizimin e qendrave studentore” dhe vendimi nr.145, datë 31.3.2000 i Këshillit të Ministrave ”Për riorganizimin e qendrave studentore”, shfuqizohen.

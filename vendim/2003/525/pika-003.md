@@ -1,0 +1,1 @@
+3. Mjediset e administruara nga strukturat e përmendura në pikën 2 të këtij vendimi, të kalojnë në administrim të ndërmarrjeve të trajtimit të studentëve, sipas juridiksionit territorial të tyre, të cilat të realizojnë edhe funksionet e këtyre strukturave.
