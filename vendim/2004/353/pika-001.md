@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Mbrojtjes, që, me fondin e vet limit prej 33 435 000 (tridhjetë e tre milionë e katërqind e tridhjetë e pesë mijë) lekësh, të përdorë procedurën “Prokurim i drejtpërdrejtë”, me INSIG, sh.a.-në, për sigurimin e jetës së ushtarakëve me misione jashtë shtetit, edhe në raste aksidentesh në grup.
