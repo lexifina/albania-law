@@ -1,0 +1,1 @@
+1. Instituti i Sigurimeve të Kujdesit Shëndetësor, për mbulimin e një pjese të çmimit të barnave, lidh kontratë me depot e barnave dhe me farmacitë e rrjetit të hapur, që shprehin interes për t’u përfshirë në skemën e sigurimeve shëndetësore.

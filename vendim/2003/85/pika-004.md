@@ -1,0 +1,1 @@
+4. Të gjitha farmacitë, që kanë kontratë me ISKSH-në, janë të detyruara të tregtojnë barna vetëm me recetë të mjekut, me përjashtim të barnave që tregtohen pa recetë, sipas listës së miratuar nga Ministri i Shëndetësisë.
