@@ -1,0 +1,1 @@
+12. Vendimet e marra nga komisioni i posaçëm për shpronësimet i dërgohen menjëherë ministrit, i cili brenda 10 ditëve, për shkaqe ligjore dhe arsye të motivuara ka të drejtë të kërkojë rishqyrtimin e çështjes nga komisioni.

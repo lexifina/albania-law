@@ -1,0 +1,1 @@
+15. Sekretaria teknike kujdeset dhe përgjigjet për dërgimin dhe marrjen e të dhënave, të njoftimeve dhe të korrespondencës me organet, personat juridikë dhe fizikë lidhur me procedurën e shpronësimit.

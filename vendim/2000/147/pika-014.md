@@ -1,0 +1,1 @@
+14. Sekretaria teknike ka për detyrë të kujdeset për shkëmbimin e informacionit, dërgimin e njoftimeve dhe përgatitjen e materialeve që shqyrtohen në mbledhjen e komisionit të posaçëm për shpronësimet si dhe të procesverbaleve të mbledhjes.

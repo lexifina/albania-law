@@ -1,0 +1,1 @@
+13. Në ushtrimin e funksioneve të tij, komisioni i posaçëm për shpronësimet, ndihmohet nga një sekretari teknike. Kjo sekretari me aktin e krijimit të komisionit nga ministri, caktohet dhe operon në një nga strukturat e ministrisë.

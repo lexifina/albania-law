@@ -1,0 +1,1 @@
+3. Përcaktimi i rendit dhe i datës së zhvillimit të mbledhjes së komisionit vendoset nga kryetari i komisionit, i cili kujdeset për shpërndarjen e materialit, si rregull të paktën tre ditë përpara asaj të caktuar për mbledhjen e tij.

@@ -1,0 +1,1 @@
+1. Komisioni i posaçëm për shpronësimet, krijohet me urdhër të ministrit dhe ushtron veprimtarinë që nga çasti i krijimit të tij deri në përfundim të procesit të dhënies a vënies në dispozicion të shpërblimit të shpronësimit në favor të të shpronësuarit.

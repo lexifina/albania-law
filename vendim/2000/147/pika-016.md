@@ -1,0 +1,2 @@
+16. Çështjet dhe procedurat që shqyrtohen nga komisioni i posaçëm për shpronësimet janë ato që parashikohen në ligjin nr.8561, datë 25.12.1999, “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë pronë private për interes publik”, dhe vendimit nr.126, datë 23.3.2000 të Këshillit të Ministrave, “Për përbërjen dhe procedurat e punës së komisionit të posaçëm të shpronësimit”, të dalë në bazë dhe për zbatim të tij.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

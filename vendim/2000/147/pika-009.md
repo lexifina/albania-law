@@ -1,0 +1,1 @@
+9. Në përfundim të shqyrtimit të çështjeve sipas rendit të ditës, kryetari i komisionit të posaçëm të shpronësimit vendos hedhjen në votë të çështjeve për të cilët duhet të merren vendim nga komisioni.

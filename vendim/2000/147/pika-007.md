@@ -1,0 +1,1 @@
+7. Në rastet e mospjesëmarrjes pa arsye të motivuar, krahas largimit nga komisioni, ndaj anëtarit të komisionit të posaçëm për shpronësimet, titullari përkatës jep masë disiplinore sipas ligjit nr.8549, datë 11.11.1999, “Për statusin e nëpunësit civil”.

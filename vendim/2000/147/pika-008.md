@@ -1,0 +1,1 @@
+8. Sipas vlerësimit të kryetarit të komisionit, në mbledhjet e komisionit të posaçëm për shpronësimet thirren dhe janë të detyruar të marrin pjesë për shpjegime dhe sqarime të posaçme specialistët përkatës. Këta persona nuk kanë të drejtë vote.
