@@ -1,0 +1,1 @@
+3. KRRT-të e bashkive dhe të qarqeve të miratojnë lejet e ndërtimit, vetëm pasi të jenë plotësuar normat, rregullat dhe kushtet e projektimit dhe të ndërtimit, të prodhimit dhe ruajtjes së nxehtësisë në ndërtesa, të përcaktuara në këtë vendim.

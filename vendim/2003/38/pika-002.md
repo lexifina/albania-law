@@ -1,0 +1,1 @@
+2. Personat, fizikë ose juridikë, që hartojnë projekte për ndërtimin e objekteve, publike dhe private, të zbatojnë normat, rregullat dhe kushtet e projektimit dhe të ndërtimit, të prodhimit dhe ruajtjes së nxehtësisë në ndërtesa, të miratuara sipas këtij vendimi.
