@@ -1,0 +1,1 @@
+3. shuma prej 12.737 milionë lekësh, e nevojshme për trajtimin me strehim të familjeve, sipas pikës 1 të këtij vendimi, të përballohet nga fondi rezervë i Këshillit të Ministrave dhe të vendoset në një llogari “escrow”, pranë Bankës Kombëtare Tregtare, sh.a., në emër të Entit Kombëtar të Banesave.
