@@ -1,0 +1,1 @@
+3. Trajtimi me strehim bëhet nëpërmjet sistemit të kredive, me fondet që siguron Ministria e Mbrojtjes, nga të ardhurat e veta, të depozituara në llogari të veçantë, pranë Bankës së Kursimeve. Në këtë llogari të derdhen edhe arkëtimet nga vjeljet e kredisë.
