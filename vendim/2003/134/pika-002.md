@@ -1,1 +1,2 @@
 2. Dokumentet e vërtetuara sipas pikës 1 të këtij vendimi, të lëshuara nga institucionet qendrore, institucionet e pavarura dhe prefektët, legalizohen nga nëpunësit konsullorë, në Ministrinë e Punëve të Jashtme dhe në përfaqësitë e Republikës së Shqipërisë jashtë vendit.
+2.1. Nëpunësit konsullorë të përfaqësisë së Republikës të Shqipërisë, të akredituar në Greqi, të legalizojnë, deri më 30 dhjetor 2003 dokumentet e lëshuara për përdorim jashtë vendit, pa i vërtetuar sipas pikës 1 të këtij vendimi.
