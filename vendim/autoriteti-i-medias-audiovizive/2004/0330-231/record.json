@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2658,
+  "title": "Për dhënie licence",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "231",
+  "institution": "Autoriteti i Medias Audiovizive",
+  "adopted": "2004-03-30",
+  "published": "2004-04-08",
+  "in_force": "2004-04-08",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b111d2b11ed7f2a1f8f9afdd490e94f7c7c1ce76d4d99047eb73ba4d1ae097dd.docx",
+  "source_sha256": "b111d2b11ed7f2a1f8f9afdd490e94f7c7c1ce76d4d99047eb73ba4d1ae097dd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2658",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/03/30/231",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
