@@ -1,0 +1,26 @@
+{
+  "qbz_id": 464,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR LIRIMIN E ZOTIT ILIR GJONI NGA DETYRA E MINISTRIT TË MBROJTJES",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "462",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-11-16",
+  "published": "2000-12-01",
+  "in_force": "2000-12-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f12411925bb4087a22d10834e266f1af9f68ffc1287013597fe9169842774332.docx",
+  "source_sha256": "f12411925bb4087a22d10834e266f1af9f68ffc1287013597fe9169842774332",
+  "official_record": "https://qbz.gov.al/api/v1/acts/464",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/11/16/462",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
