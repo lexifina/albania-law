@@ -1,0 +1,5 @@
+AKT NORMATIV
+Nr.1, datë 9.3.2003
+PËR VËNIEN NË DISPOZICION TË HAPËSIRËS TOKËSORE, DETARE E AJRORE DHE DËRGIMIN E NJË FORCE USHTARAKE SHQIPTARE NË RAJONIN E GJIRIT PERSIK, NË KUADËR TË KOALICIONIT NDËRKOMBËTAR TË LUFTËS KUNDËR TERRORIZMIT
+Në mbështetje të neneve 2 pika 3, 12 pika 3 dhe 101 të Kushtetutës, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
+V E N D O S I:
