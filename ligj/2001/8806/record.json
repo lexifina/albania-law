@@ -1,0 +1,26 @@
+{
+  "qbz_id": 869,
+  "title": "Ligj Nr.8806 Dt.17.05.2001",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8806",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-05-17",
+  "published": "2001-06-09",
+  "in_force": "2001-06-24",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/61213fe83a5487b585fb1e6c537ba644aef441b6c72adf8b34e6f03a0f6c94ac.docx",
+  "source_sha256": "61213fe83a5487b585fb1e6c537ba644aef441b6c72adf8b34e6f03a0f6c94ac",
+  "official_record": "https://qbz.gov.al/api/v1/acts/869",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/05/17/8806",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
