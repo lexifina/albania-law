@@ -1,0 +1,2 @@
+Kreu I
+Të Përgjithshme

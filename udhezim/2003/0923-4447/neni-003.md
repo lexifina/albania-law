@@ -1,0 +1,2 @@
+# Neni 3
+Në kushtet që duhet të plotësojë subjekti transportues i interesuar për marrjen nga organi kompetent (enti pronar i rrugës) të autorizimit të veçantë të qarkullimit, bën pjesë dhe përcaktimi (ose jo) i nevojës për shoqërimin teknik apo shoqërim nga Policia Rrugore, kur një kërkesë e tillë gjykohet e nevojshme edhe nga enti pronar i rrugës, në procesin e transportit jashtë norme në vartësi të kushteve të terrenit dhe të sigurisë së lëvizjes ku do të kryhet ky transport.

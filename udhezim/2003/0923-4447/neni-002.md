@@ -1,0 +1,2 @@
+# Neni 2
+Transporti në kushte jonormale, me mjete jashtë norme kryhet nga subjekte (shoqëri ose ndërmarrje) që i kanë të regjistruara këto mjete në emër të subjektit, i licencuar për veprimtari transporti sipas legjislacionit në fuqi dhe i pajisur me autorizim të veçantë për qarkullim, të lëshuar nga enti pronar i rrugës, duke pasur gjithashtu në disponim dhe dokumentet e nevojshme për qarkullim nga DPSHTRr-ja (Drejtoria Rajonale), konform nenit 92 të Kodit Rrugor dhe akteve në zbatim të tij.
