@@ -1,0 +1,26 @@
+7.Ruajtja e substancave dhe preparateve kimike
+7.1 Substancat dhe preparatet kimike ruhen të depozituara në magazina të përcaktuara për këtë qëllim dhe në kushte të veçanta.Godina dhe instalimet e magazinës duhet të projektohen, dimesionohen dhe ndërtohen duke marrë parasysh vetitë e kimikateve për të parandaluar rrezikun për aksidente.
+7.2.Magazina e ruajtjes së kimikateve duhet të vendoset në largësi të mjaftueshme nga qendrat e populluara, shkollat, institucionet e kujdesit, qendrat industriale, rrugëve me shumë trafik dhe zonat e rëndësishme për mjedisin.
+Magazina e ruajtjes së kimikateve, pa arsye të justifikuara, nuk mund të vendoset në një zonë kryesore ose zona të tjera ujërash nëntokësore, të përshtatshme për furnizim me ujë. Në rast se një magazinë e kimikateve është e vendosur në një zonë të tillë, merren masa të veçanta, strukturore dhe operative, për të siguruar që veprimet në magazinë ose jashtë magazinës nuk sjellin rrezik për njerëzit, mjedisin ose pronën, në rast aksidenti ose avarie.
+7.3 Magazina e ruajtjes të substancave dhe preparateve kimike duhet të ketë ajrim natyral dhe artificial, të jetë e mbrojtur nga rrufetë, të ketë kanalizime të ujërave dhe ujë të rrjedhshëm për larjen e duarve.
+Magazina duhet të ketë këto pajisje:
+- dollape, rafte, shtresa dërrase, shkallë, tryezë dhe karrige për kryerjen e punës, gjatë kontrollit të materialeve;
+- instrumente dhe pajisje pune për shërbime teknike;
+- aparaturë matëse dozimetrike dhe mjete të mbrojtjes kundërkimike;
+- mjete zjarrfikëse dhe të ndihmës së parë;
+- udhëzues për personelin e depos për masat e sigurimit teknik dhe mbrojtjes nga zjarri.
+7.4 Substancat shumë toksike dhe toksike ruhen në depo të veçanta, të ndara nga substancat dhe preparatet e tjera. Ato vendosen të ambalazhuara mirë mbi zgara dërrase ose dollape (kur janë në ambalazhe të vogla ),të mbyllura dhe siguruara mirë me çelës dhe vulën e dyllit.
+7.5 Substancat dhe preparatet kimike të rrezikshme, të depozituara në magazina të përcaktuara dhe kushte të veçanta, duhet të jenë të ambalazhuara dhe etiketuara me simbolin e rrezikut, treguesin e rrezikut dhe të sigurisë.
+7.6 Gjatë ruajtjes së substancave dhe preparateve kimike në magazina duhet të respektohen dhe vrojtohen principet e pajtushmërisë kimike
+a) Substancat dhe preparatet shumë oksiduese vendosen të ndara nga substancat dhe preparatet lehtësisht të ndezshme.
+b) Acidet dhe bazat do të vendosen të ndara.
+c) Substancat dhe peparatet kimike, të cilat reagojnë si rezultat i përbërsave toksike të tyre, duhet të vendosen në vende të veçanta.
+d) Substancat dhe preparatet kimike, në varësi të përmasave të tyre (të vëllimeve ose sasive) vendosen mbi stenda ose rafte të rrjeshtuara dhe të ndara njëra nga tjetra në largësi 1 m.
+7.7 Në magazinat e kimikateve ndalohet rreptësisht depozitimi i ushqimeve ose silazheve.
+7.8 Hyrja e njerëzve të paautorizuar dhe futja e kimikateve për të cilat nuk ka autorizim në territorin e magazinës parandalohen me masa administrative dhe masa të tjera efektive në varësi të natyrës së veprimtarisë. Shërbimi dhe mirëmbajtja e strukturave, pajisjeve dhe elementëve shtesë të magazinës duhet të administrohen në mënyrë efektive sipas natyrës dhe shtrirjes së veprimtarisë.
+7.9 Punonjësit që merren me shërbimin, mirëmbajtjen dhe instalimet e qendrës së ruajtjes duhet të trajnohen dhe udhëzohen për veprimet e sigurisë, sipas nevojës në përputhje me natyrën dhe shtrirjen e shërbimit. Punonjësit e shërbimit duhet t’i nënshtrohen kontrolleve mjekësore periodike.
+7.10 Depozitimi dhe ruajtja e kimikateve të rrezikshme për shëndetin dhe mjedisin i nënshtrohet procedurës së lejes dhe regjistrimit. Aplikimet për leje i drejtohen Ministrisë së Industrisë dhe të Energjitikës, ndërsa, për regjistrim, Ministrisë së Mjedisit. Pranë Ministrisë së Industrisë dhe Energjitikës ngrihet komisioni për dhënien e lejes, për depozitimin dhe ruajtjen e kimikateve të rrezikshme me përfaqësues nga Ministria e Industrisë dhe e Energjitikës, Ministria e Shëndetësisë, Ministria e Rendit Publik dhe Ministria e Mjedisit. Procedura e marrjes së lejes dhe rregullorja e funksionimit të komisionit miratohen nga titullarët e ministrive të ngarkuara.
+7.11 Çdo qendër që depoziton dhe ruan kimikatet e rrezikshme duhet të ketë një drejtues teknik, kimist, i cili të njohë mirë kimikatet, vetitë e tyre dhe i cili njeh rregulloren e trajtimit, të administrimit të kimikateve, si dhe masat për parandalimin e aksidenteve.
+7.12 Substancat dhe preparatet kimike që ruhen në depo duhet t’i nënshtrohen kontrollit të vazhdueshëm nga personat që përgjigjen për to. Kontrolli përfshin kontrollet periodike të depove dhe të vendeve të tjera të ruajtjes, kontrollin e stivave dhe rafteve, kontrollet e ambalazheve, si dhe analizat laboratorike periodike.
+7.13 Kontrolli ka për qëllim të përcaktojë gjendjen cilësore dhe ndryshimet që ndodhin në procesin e ruajtjes dhe të bëjë ndarjen e materialeve që kërkojnë riparim dhe të materialeve në përdorim. Ambalazhet e dëmtuara, që kërkojnë riparim, duhet të zëvendësohen menjëherë. Depoja duhet të mbahet vazhdimisht në gjendje të rregullt dhe të pastër.Në rast dëmtimi depoja duhet të rikonstruktohet menjëherë.
+7.14 Depot e substancave dhe preparateve të rrezikshme ruhen me roje të armatosura.
