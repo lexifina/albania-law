@@ -1,19 +1,22 @@
 # Shtojca
+Lidhja nr.1
 Niveli i pagës bazë për gradë, sipas roleve për punonjësit e Policisë së Shtetit
-Lidhje 1
 Roli
 Grada
-Paga bazë(për gradë)
+Paga bazë
+(për gradë)
 Shtesa për natyrë të veçantë pune e shërbimi
-Në funksione të policisë
+Në funksione të policisë……
 Në funksione operuese N.shpejtë
 Në funksione operuese F.speciale
+Në funksione të forc.së posaçme dhe Of.Pol.Gjyq. pranë prokurorisë për krimet e rënda
 1
 2
 3
 4
 5
 6
+7
 Bazë
 Agjent
 24800
@@ -46,27 +49,32 @@ Nëninspektor
 4000
 6000
 38000
+18500
 Inspektor
 39000
 4000
 6000
 38000
+19500
 Kryeinspektor
 44000
 4000
 6000
 38000
+22000
 I Lartë
 Nënkomisar
 54000
 4000
 6000
 31000
+27000
 Komisar
 67000
 4000
 6000
 31000
+33500
 Kryekomisar
 77000
 4000
@@ -77,7 +85,7 @@ Drejtues
 87000
 8000
 10000
-Zv/Drejt.Përgjithshëm
+Zv/Drejtor i Përgjithshëm
 103000
 15000
 Drejtor i Përgjithshëm
