@@ -1,0 +1,1 @@
+8. Të drejtën e përfitimit të pagesës sipas këtij vendimi e kanë ata punonjës, të cilët nuk zhvillojnë veprimtari ekonomike si punëdhënës, punëmarrës apo të vetëpunësuar, me përjashtim të të vetëpunësuarve në bujqësi. Në rast të kundërt, u ndërpritet pagesa që përfitojnë sipas këtij vendimi.

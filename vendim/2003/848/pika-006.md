@@ -1,0 +1,1 @@
+6. Punonjësit, që dalin të papunë nga procesi i privatizimit, të paguhen për 2 vjet me pagën bazë që kanë pasur në çastin e largimit nga puna. Efektet financiare të përballohen nga Buxheti i Shtetit, pas transferimit të fondit financiar të të ardhurave nga privatizimi. Caktimi, administrimi dhe pagesa të bëhet nga zyrat përkatëse të punësimit.

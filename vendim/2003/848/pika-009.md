@@ -1,0 +1,1 @@
+9. Kontributet e papaguara, së bashku me kamatëvonesat, që uzina mekanike e naftës, sh.p.k., Kuçovë ka ndaj sigurimeve shoqërore, të shlyhet brenda 30 ditëve nga arkëtimet, që do të realizohen nga privatizimi i shoqërisë.

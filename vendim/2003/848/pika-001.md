@@ -1,0 +1,1 @@
+1. Fillimin e procedurave për privatizimin e shoqërisë “Uzina Mekanike e Naftës” sh.p.k., Kuçovë. Forma e privatizimit të jetë ajo e transferimit te të tretët e të drejtës së pronësisë të kuotave të kapitalit të saj.

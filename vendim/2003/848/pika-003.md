@@ -1,0 +1,1 @@
+3. Procedurat e tenderit të jenë sipas vendimit nr.529, datë 21.8.1998 të Këshillit të Ministrave “Për procedurat e tenderimit të paketave të aksioneve, që zotërohen nga shteti, të shoqërive tregtare”, me ndryshimet përkatëse.
