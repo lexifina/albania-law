@@ -1,0 +1,1 @@
+2. Procedurat e vlerësimit dhe të shitjes të realizohen në përputhje me vendimin nr.159, datë 13.3.2003 të Këshillit të Ministrave “Për kriteret e vlerësimit të pronës shtetërore që privatizohet, si dhe për procedurat e shitjes”.

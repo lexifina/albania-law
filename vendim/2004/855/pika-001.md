@@ -1,0 +1,4 @@
+1. Shitja e aktiveve të qëndrueshme, të trupëzuara të shoqërive anonime, me kapital themeltar tërësisht shtetëror, kur ato nuk i shërbejnë më veprimtarisë së tyre, të realizohet me ankand, në lekë, nga Agjencia Kombëtare e Privatizimit:
+a) Për pasuritë e luajtshme, miratimi i privatizimit të kryhet nga organi që i administron ato.
+b) Për objektet ndërtimore, miratimi i privatizimit të bëhet nga Ministri i Ekonomisë. Ministri i Ekonomisë në urdhrin për privatizimin e objektit, pjesë e kapitalit të shoqërisë tregtare urdhëron kryerjen e veprimeve në regjistrin tregtar, për zvogëlimin e kapitalit të shoqërisë.
+Procedura për kryerjen e veprimeve në regjistrin tregtar për zvogëlimin e kapitalit të shoqërisë, për objektet ndërtimore, dosjet e vlerësimit të të cilave, në çastin e hyrjes në fuqi të këtij vendimi, ndodhen në Ministrinë e Ekonomisë dhe në Agjencinë Kombëtare të Privatizimit, të bëhet pas nënshkrimit të kontratës së shitjes.

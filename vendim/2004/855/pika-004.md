@@ -1,0 +1,1 @@
+4. Regjistrimet për shitjet e aktiveve të qëndrueshme, të trupëzuara, si veprim me efekt në rezultatin e shoqërisë anonime, të bëhen në përputhje me ligjin nr.9228, datë 29.4.2004 “Për kontabilitetin dhe pasqyrat financiare”.
