@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3313,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.681, DATË 22.10.2004 TË KËSHILLIT TË MINISTRAVE “PËR EMËRIMIN E ANËTARËVE TË KËSHILLIT TË AUTORITETIT MBIKËQYRËS TË SIGURIMEVE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "37",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-01-13",
+  "published": "2005-01-25",
+  "in_force": "2005-01-25",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8bbabf12041e045d9e56bc27b67253fa1652e2299a599c4a1482452669d0a158.docx",
+  "source_sha256": "8bbabf12041e045d9e56bc27b67253fa1652e2299a599c4a1482452669d0a158",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3313",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/01/13/37",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
