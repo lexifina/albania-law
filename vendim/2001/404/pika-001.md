@@ -1,0 +1,1 @@
+1. Pensionet e pleqërisë, pensionet e parakohshme, pensionet e invaliditetit, pensionet familiare, pensionet për merita të veçanta dhe pensionet për vjetërsi shërbimi, të caktuara sipas ligjit nr.4171, datë 13.9.1966 dhe ligjit nr.7703,datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, me ndryshimet përkatëse, rriten në masën 8 për qind.

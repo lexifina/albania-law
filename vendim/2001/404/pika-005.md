@@ -1,0 +1,1 @@
+5. Shtesa mujore, e përfituar nga vendimi nr.326, datë 21.6.1993 i Këshillit të Ministrave “Për kriteret e trajtimit të invalidëve të luftës kundër pushtuesve nazifashistë të popullit shqiptar” rritet në masën 8 për qind.

@@ -1,0 +1,1 @@
+2. Pensionet e pleqërisë, pensionet e invaliditetit, pensionet familjare, të caktuara sipas ligjit nr. 4976, datë 29.6.1972 “Për pensionet e anëtarëve të kooperativave bujqësore në Republikën e Shëipërisë”, si dhe pensionet e caktuara sipas pikës 4 të nenit 96 të ligjit nr.7703, datë 11.5.1993 me ndryshimet përkatëse, rriten në masën 30 për qind.

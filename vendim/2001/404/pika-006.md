@@ -1,0 +1,1 @@
+6. Pensionet e posaçme dhe shtesat e pensioneve shtetërore, të caktuara sipas nenit 5 të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë” rriten në masën 8 për qind.

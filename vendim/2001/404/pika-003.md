@@ -1,0 +1,1 @@
+3. Këtë rritje në masat e mësipërme, e përfitojnë dhe pensionet e përcaktuara në pikat 1 dhe 2 të këtij vendimi, që do të caktohen pas datës 1.7.2001, kur data e fillimit të pensionit është përpara datës 30.6.2001, duke përfshirë dhe këtë datë.
