@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1324,
+  "title": "Për një shtesë në vendimin nr.112, datë 8.3.2001 të Këshillit të Ministrave \"Për ruajtjen dhe sigurimin e objekteve më të rëndësishme shtetëtore\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "84",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-03-14",
+  "published": "2002-04-29",
+  "in_force": "2002-04-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e312b72387f21afe40c3936960fb0396c496d2508bb5da12d914d9ecdf1d0a34.docx",
+  "source_sha256": "e312b72387f21afe40c3936960fb0396c496d2508bb5da12d914d9ecdf1d0a34",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1324",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/03/14/84",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
