@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1716,
+  "title": "Për miratimin e Raportit Përfundimtar, konkluzionet dhe rekomandimeve të Komisionit Hetimor Parlamentar për veprimtarinë e SHISH-it dhe drejtorit të tij",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "63",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-11-18",
+  "published": "2002-12-03",
+  "in_force": "2002-12-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/44aaa6ec953bdebe171e3703db7c5188c0daa0612c66724b220350df803a3773.docx",
+  "source_sha256": "44aaa6ec953bdebe171e3703db7c5188c0daa0612c66724b220350df803a3773",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1716",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/11/18/63",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
