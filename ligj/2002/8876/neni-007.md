@@ -1,0 +1,2 @@
+# Neni 7
+Mëmësia e sigurt kupton të drejtën që çdo grua të marrë kujdesin që i nevojitet për të pasur një shëndet të mirë nga shtatëzania deri në lindjen e fëmijës. Elementet kryesore për të siguruar mëmësinë e sigurt përfshijnë akcesin për kujdes me cilësi të lartë para lindjes, gjatë dhe pas lindjes, parandalimin e shtatzanive të padëshiruara, parandalimin e abortit të pasigurt dhe të lindjes së parakohshme.

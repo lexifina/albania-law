@@ -1,0 +1,2 @@
+# Neni 1
+Ky ligj rregullon organizimin, funksionimin dhe mbikëqyrjen e të gjitha veprimtarive që zhvillohen në fushën e shëndetit riprodhues, në institucionet shëndetësore private dhe publike, mbron të drejtat riprodhuese të individit e të çiftit dhe siguron që të drejtat riprodhuese të çdo individi të mbrohen në përputhje me ligjet dhe politikat kombëtare e me principe të tjera të njohura ndërkombëtare.

@@ -1,0 +1,2 @@
+# Neni 26
+Metodat kontraceptive për planifikimin familjar, të pranueshme për t’u përdorur në vend, përcaktohen me udhëzim të Ministrit të Shëndetësisë, ku do të përfshihen kondomet, metodat barrierë vaginale, kontraceptivët oralë, implantet, injektablët, IUD, sterilizimi mashkullor e femëror vullnetar dhe kontracepsioni i emergjencës. Gjithashtu pacientët/klientët duhet të marrin informacion të hollësishëm për rreziqet dhe përparësitë e çdo metode.

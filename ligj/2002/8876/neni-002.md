@@ -1,0 +1,2 @@
+# Neni 2
+”Shëndeti riprodhues” nënkupton mirëqenien e përgjithshme fizike, mendore, në tërësi, me mungesën e sëmundjeve e paaftësive problematike, si dhe çdo kushtëzim tjetër bazë që i nevojitet sistemit të riprodhimit për funksionet, proceset si dhe aftësinë e një jete seksuale të kënaqshme e të sigurt. Ai nënkupton aftësinë e njerëzve për t’u riprodhuar dhe lirinë e tyre për të vendosur për mënyrën dhe kohën e riprodhimit, si dhe të informohen se ku mund ta bëjnë këtë dhe ku mund të gjejnë të tilla shërbime.
