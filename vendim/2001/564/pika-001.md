@@ -1,1 +1,1 @@
-1. Nxënësve dhe studentëve u jepet bursë ose gjysmë bursë, çdo vit, sipas parashikimit vjetor të Buxhetit të Shtetit, miratuar për Ministrinë e Arsimit dhe Shkencës.
+1. Nxënësve dhe studentëve u jepet bursë ose gjysmëbursë çdo vit. Këto fonde të përballohen nga Buxheti i Shtetit, përkatësisht për nxënësit, nga granti i miratuar për pushtetin vendor dhe për studentët, nga buxheti i miratuar për Ministrinë e Arsimit dhe Shkencës.
