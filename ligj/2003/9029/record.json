@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1918,
+  "title": "PËR DISA SHTESA NË LIGJIN NR.8950, DATË 10.10.2002,",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9029",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-03-13",
+  "published": "2003-04-03",
+  "in_force": "2003-04-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a63fe522f480e688f554d4eca4a3a1e54456a12fcfdca75e6e7bf6e1144b6111.docx",
+  "source_sha256": "a63fe522f480e688f554d4eca4a3a1e54456a12fcfdca75e6e7bf6e1144b6111",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1918",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/03/13/9029",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
