@@ -1,0 +1,26 @@
+{
+  "qbz_id": 351,
+  "title": "PËR ZGJEDHJEN E NJË ANËTARI\nTË KËSHILLIT MBIKËQYRËS TË BANKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "456",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-09-18",
+  "published": "2000-10-06",
+  "in_force": "2000-10-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/22cabc22bf6382dd0edc86c57dc3ab7d37d2464d162bee8116d59740708b03f5.docx",
+  "source_sha256": "22cabc22bf6382dd0edc86c57dc3ab7d37d2464d162bee8116d59740708b03f5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/351",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/09/18/456",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
