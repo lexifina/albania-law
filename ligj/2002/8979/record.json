@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1750,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 8438, datë 28.12.1998 \"Për tatimin mbi të ardhurat\", me ndryshimet përkatëse",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8979",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-12-12",
+  "published": "2002-12-21",
+  "in_force": "2003-01-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b14aa40762bec431d72f6d2279b43f7f1eacf32e21bff0def05ea8539725f35f.docx",
+  "source_sha256": "b14aa40762bec431d72f6d2279b43f7f1eacf32e21bff0def05ea8539725f35f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1750",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/12/12/8979",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
