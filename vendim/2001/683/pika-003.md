@@ -1,0 +1,1 @@
+3. Riorganizimin e arkivave shtetërore të rretheve, që nuk përfshihen në pikën 1, si degë të arkivave shtetërore të qarqeve, që funksinojnë pranë njësive adminstrativo-territoriale ku ato ndodhen. Drejtoria e Përgjithshme e Arkivave vendos kohën e shuarjes së kësaj veprimtarie.

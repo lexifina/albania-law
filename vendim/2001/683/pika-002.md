@@ -1,0 +1,1 @@
+2. Arkivat shtetërorë të qarqeve administrojnë, krahas pasurisë së trashëguar, edhe dokumentet e krijuara nga institucionet shtetërore që funksionojnë në qark, si dhe fondet e institucioneve që e pushojnë veprimtarinë për shkak të rindërtimit administrativo-territorial.

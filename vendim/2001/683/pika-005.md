@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Arkivave përcakton emërtesën, procedurat dhe radhën e tërheqjes së fondeve me rëndësi historike, kombëtare nga ish-arkivat shtetërorë të rretheve, që mbeten degë të arkivave shtetërore të qarqeve.
