@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Rendit Publik, që për nevojat e veta, të përdorë procedurën ”Prokurim i drejtpërdrejtë” me Ndërmarrjen e Prodhimit të Veshjeve të Ushtrisë për prodhimin e veshjeve të strukturave ushtarake dhe policore.
