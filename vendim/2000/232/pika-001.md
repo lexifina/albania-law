@@ -1,0 +1,1 @@
+1. T’i japë këshillit të rrethit Kukës një fond prej 200 000 (dyqind mijë) lekësh, këshillit të rrethit Tropojë një fond prej 2 200 000 (dy milionë e dyqind mijë) lekësh, këshillit të rrethit Has një fond prej 800 000 (tetëqind mijë) lekësh si fonde shtesë në buxhetet përkatëse të vitit 2000.
