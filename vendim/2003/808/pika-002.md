@@ -1,0 +1,1 @@
+2. Ngritjen e komisionit të posaçëm për dhënien e lejeve të manovrimit pranë Ministrisë së Rregullimit të Territorit dhe të Turizmit. Përbërja dhe shpërblimi i anëtarëve të këtij komisioni bëhen me urdhër të Ministrit të Rregullimit të Territorit dhe të Turizmit.

@@ -1,0 +1,1 @@
+3. Organizimi e funksionimi i komisionit të posaçëm, si dhe kushtet, kriteret e dhënies së lejes së manovrimit, lloji i makinës që e përfiton këtë leje e disiplinimi i përdorimit të këtyre makinerive të përcaktohen në rregulloren që do të hartohet në bashkëpunim me Shoqatën e Ndërtuesve të Shqipërisë, e që do të miratohet nga Ministri i Rregullimit të Territorit dhe të Turizmit.
