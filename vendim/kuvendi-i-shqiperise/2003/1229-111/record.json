@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2486,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT ET’HEM RUKA NË DETYRËN E MINISTRIT TË MJEDISIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "111",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-12-29",
+  "published": "2003-12-31",
+  "in_force": "2003-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a3f544363754c60b0471c5a6b717ae20c5032ea19debd90ee5c270bb80b1c2e2.docx",
+  "source_sha256": "a3f544363754c60b0471c5a6b717ae20c5032ea19debd90ee5c270bb80b1c2e2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2486",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/12/29/111",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
