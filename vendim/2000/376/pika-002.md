@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen në përputhje me pikën 1, të aktit normativ nr.1, datë 14.7.2000, “Për përballimin e efekteve financiare, që rrjedhin nga rritja e pagave dhe pensioneve”.
