@@ -1,0 +1,3 @@
+# Neni 219
+Masat në lidhje me lundrueshmërinë e anijeve për shmangien e ndotjes
+Mbi bazën e seksionit 7, shtetet të cilët, me kërkesën e ose inciativën e tyre, kanë sqaruar që një anije brenda një porti ose porteve të tyre ose në një strukturë terminali të tyre jashtë bregut është në thyerje të rregullave dhe standardeve ndërkombëtare në fuqi në lidhje me lundrueshmërinë e anijeve dhe si rezultat, kërcënon me dëm ndaj ambientit detar, sa më praktike të jetë e mundshme, do të marrë masa administrative për parandalimin e anijeve nga lundrimi. Shtete të tilla mund të lejojnë anijet të vazhdojnë lundrimin vetëm pas riparimeve sa më të afërta të përshtatshme në kantier dhe pas zhvendosjes së shkaqeve të thyerjes, do të lejojnë anijen të vazhdojë menjëherë.

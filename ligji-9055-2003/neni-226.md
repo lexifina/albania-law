@@ -1,0 +1,9 @@
+# Neni 226
+Investigimi i anijeve të huaja
+1. (a) Shtetet nuk do të vonojnë një anije të huaj më shumë se çfarë është esenciale për qëllimet e investigimeve të parashikuar në nenet 216, 218 dhe 220. Çdo inspektim fizik i anijeve të huaja do të kufizohet në një ekzaminim të certifikatave të tilla, shënimeve dhe dokumentave të tjera që i kërkohen anijes të mbajë nga rregullat dhe standardet e pranuara në përgjithësi ose nga çdo dokument i ngjashëm që ajo mban. Inspektime të mëtejshme fizike të anijeve mund të ndërmerren vetëm pas një ekzaminimi të tillë dhe vetëm kur:
+(i) ka fakte të qarta për të besuar që kushtet e anijes ose pajisjet e saj nuk korrespondojnë thellësisht me karakteristikat e këtyre dokumentave;
+(ii) përmbajtja e dokumentave të tillë nuk është e mjaftueshme për të konfirmuar ose verifikuar një thyerje të dyshuar;
+(iii) anija nuk ka certifikata të vlefshme dhe shënime.
+(b) Në rast se investigimet tregojnë një thyerje të ligjeve dhe rregulloreve në fuqi ose rregullave dhe standardeve ndërkombëtare për mbrojtjen dhe konservimin e ambientit detar, lëshimi do të bëhet subjekt i procedurave të shpejta të arsyeshme siç janë faturimi ose siguri të tjera financiare.
+Pa paragjykim të rregullave e standardeve ndërkombëtare në lidhje me lundrueshmërinë e anijes, lirimi i anijes mundet, kurdoherë që ajo paraqet një kërcënim të paarsyeshëm për dëme të ambientit detar, t’i refuzohet ose do t’i vihen kushte për të vazhduar deri në kantierin përkatës të riparimit. Kur lirimi i është refuzuar ose i janë vënë kushte shteti flamurin e të cilit mban anija duhet të njoftohet me shpejtësi dhe mund të kërkojë lirimin e anijes në përputhje me Pjesën e XV.
+2. Shtetet do të bashkëpunojnë për zhvillimin e procedurave për të shmangur inspektime fizike të panevojshme të anijeve në det.

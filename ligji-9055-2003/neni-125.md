@@ -1,0 +1,5 @@
+# Neni 125
+E drejta e hyrjes nga e për në det dhe liria e tranzitit
+1. Shtetet e kufizuar vetëm me kufij tokësor do të kenë të drejtën e hyrjes nga e për në det për qëllime të ushtrimit të të drejtave të parashikuara sipas kësaj Konvente duke përfshirë ato që kanë lidhje me lirinë në detërat e hapur dhe të drejtat e përbashkëta të njerëzimit. Për këtë qëllim, shtetet e kufizuara vetëm me tokë do të gëzojnë lirinë e tranzitimit nëpërmjet territoreve të shteteve tranzit me të gjitha mjetet e transportit.
+2. Për kushtet dhe modalitetet në ushtrimin e lirisë së tranzitimit do të bihet dakord ndërmjet shteteve të kufizuar vetëm me tokë dhe shteteve tranzit të interesuar nëpërmjet marrëveshjeve bilaterale, nënrajonale ose rajonale.
+3. Shtetet tranzit, në ushtrimin e sovranitetit të tyre të plotë mbi territorin e tyre do të kenë të drejtën që të marrin të gjitha masat e nevojshme për të siguruar që këto të drejta dhe lehtësira të parashikuara në këtë pjesë për shtetet e kufizuara vetëm me tokë, të mos prekin në asnjë mënyrë interesat legjitime të tyre.

@@ -1,0 +1,6 @@
+# Neni 82
+Pagesat dhe kontributet në lidhje me shfrytëzimin e shelfit kontinental përtej 200 miljeve
+1. Shteti bregdetar do të kryejë pagesa ose kontribute në lidhje me shfrytëzimin e burimeve jogjallore të shelfit kontinental përtej 200 miljeve detare nga vijat bazë nga të cilat matet gjerësia e detit territorial.
+2. Pagesat dhe kontributet do të bëhen vjetore në lidhje me të gjithë prodhimin hapësirës pas pesë vjetëve të para të prodhimit në këtë pjesë. Për 6 vjetë tarifa e pagesës ose kontributit do të jetë 1 për qind e vlerës së volumit të prodhimit në këtë pjesë. Tarifa do të rritet 1 për qind për çdo vit në vazhdim deri në 12 vjet dhe do të mbetet pas kësaj 7 për qind. Prodhimi nuk përfshin burimet e përdorura në lidhje me shfrytëzimin.
+3. Një shtet në zhvillim, i cili është një importues neto të një burimi mineral të prodhuar në shelfin e tij kontinental, është i përjashtuar nga bërja e një pagese të tillë ose kontributi në lidhje me këtë burim minerali.
+4. Pagesat dhe kontributet do të bëhen nëpërmjet Autoritetit, i cili ia shpërndan ato Shteteve Palë të kësaj Konvente, mbi bazat e kritereve të pjesëve të barabarta, duke marrë parasysh interesat dhe nevojat e shteteve në zhvillim, në mënyrë të veçantë shteteve më pak të zhvilluara dhe shteteve të kufizuara vetëm me tokë ndërmjet tyre.

@@ -1,0 +1,3 @@
+# Neni 223
+Masat për lehtësimin e procedurave
+Në procedurat e krijuara mbi bazën e kësaj pjese, shtetet do të marrin të gjitha masat për lehtësimin e dëgjimit të dëshmitarëve dhe pranimin e fakteve të parashtruar nga autoritetet e një shteti tjetër ose nga organizatat kompetente ndërkombëtare dhe do të lehtësojnë ndjekjen e procedurave të tilla nga zyrtarë përfaqësues të organizatave kompetente ndërkombëtare, shteti flamur dhe çdo shtet i ndikuar nga ndotja e ngritur jashtë çdo thyerje. Zyrtarët përfaqësues që ndjekin procedura të tilla do të kenë të drejtën dhe detyrat siç mund të parashikohet në ligjet dhe rregullat kombëtare të ligjit ndërkombëtar.

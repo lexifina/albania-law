@@ -1,0 +1,3 @@
+# Neni 214
+Ushtrimi i forcës në lidhje me ndotjet nga veprimtaritë e shtratit të detit
+Shtetet do të ushtrojnë forcën për ligjet dhe rregulloret e tyre të adaptuara në përputhje me nenin 208 dhe do të adaptojnë ligje dhe rregulla, dhe do të marrin të gjitha masat e nevojshme për zbatimin e rregullave e standardeve ndërkombëtare të krijuara nëpërmjet organizatave ndërkombëtare kompetente ose konferencës diplomatike për parandalimin, reduktimin dhe kontrollin e ndotjeve të ambientit detar të dala nga ose në lidhje me veprimtaritë e shtratit të detit mbi bazën e juridiksionit të tyre, si dhe nga ishujt artificial, instalimet dhe strukturat nën juridiksionin e tyre mbi bazën e nenit 60 dhe 80.

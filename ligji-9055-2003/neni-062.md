@@ -1,0 +1,18 @@
+# Neni 62
+Përdorimi i burimeve gjallore
+1. Shteti bregdetar do të nxisë objektivin për përdorimin optimal të burimeve gjallore në zonat eknomike ekskluzive pa asnjë paragjykim të nenit 61.
+2. Shteti bregdetar do të përcaktojë kapacitetin e tij për vjeljen e prodhimit të burimeve gjallore të zonës ekonomike ekskluzive. Kur shteti bregdetar nuk ka kapacitetin e vjeljes së prodhimit me gjithë kapjen e lejueshme, nëpërmjet marrëveshjeve ose rregullimeve të tjera duke marrë parasysh termat, kushtet, ligjet dhe rregullat referuar në paragrafin 4, ju jep të drejtën shteteve të tjera të hyjnë për supermbledhjen e kapjes së lejueshme, duke patur vëmendje të veçantë në parashikimet e neneve 69 dhe 70, veçanërisht në lidhje me shtetet në zhvillim të përmendura më sipër.
+3. Në dhënien e të drejtës për hyrje shteteve të tjera në zonën e tij ekonomike ekskluzive sipas këtij neni, shteti bregdetar duhet të marrë parasysh të gjithë faktorët përkatës, duke përfshirë, inter- alia, rëndësinë e burimeve gjallore të hapësirës në ekonominë e shteti bregdetar të interesuar dhe të interesave të tjera kombëtare, parashikimet e nenit 69 dhe 70, kërkesat e shteteve në zhvillim në nënrajonet ose rajonet në pjesën e të vjelave të mbiprodhimit dhe nevojave për të minimizuar dislokimin ekonomik në shtete, qytetarët e të cilëve kanë peshkuar zakonisht në zonë ose të cilët kanë bërë përpjekje thelbësore në kërkimin dhe identifikimin e rezervave.
+4. Qytetarët e shteteve të tjera që peshkojnë në zona ekskluzive ekonomike duhet të jenë në përputhje me masat e konservimit dhe me termat dhe konditat e tjera, të ligjeve dhe rregullave të shtetit bregdetar. Këto ligje dhe rregulla duhet të jenë në përputhje me këtë Konventë dhe mund të lidhen inter-alia me:
+(a) licensimin e peshkatarëve, anijeve dhe pajisjeve të peshkimit, duke përfshirë pagesat e taksave dhe formave të tjera te pagesave, të cilat në rastin e shteteve bregdetare në zhvillim mund të konsistojnë në kompesimin e përshtatshëm në fushën financiare të pajisjeve dhe teknologjive përsa i përket industrisë së peshkimit;
+(b) përcaktimin e specieve, të cilat mund të peshkohen dhe fiksimit të kuotave të peshkimit, sidoqoftë për rezerva të veçanta ose grup rezervash ose të gjuetisë për anije për një periudhë kohe ose për gjuetinë nga qytetarët e çdo shteti gjatë një periudhe specifike;
+(c) rregullimin e stinëve dhe zonave të peshkimit, tipit, madhësisë e shumës së rrjetave, tipeve, madhësisë dhe numrit të anijeve të peshkimit që mund të përdoren;
+(d) fiksimim e moshës dhe madhësisë së peshkut dhe specieve të tjera që mund të peshkohen;
+(e) specifikimin e informacioneve që kërkohen nga anijet e peshkimit, duke përfshirë statistikat e peshkimit dhe përpjekjeve dhe raportit të pozicionit të anijeve;
+(f) kërkimin, sipas autorizimeve dhe kontrollit të shtetit bregdetar, drejtimin e programeve të kërkimeve të peshkimit specifik dhe rregullimin e drejtimit të kërkimeve të tilla, duke përfshirë dhe marrjen e mostrave të gjuetisë, paraqitjen e mostrave dhe raportimin e të dhënave shkencore të rezultuara;
+(g) vendosjen e vrojtuesve ose trajnuesve në bordin e anijeve të tilla nga shteti bregdetar;
+(h) zbarkimin e të gjithë ose një pjese të gjuetisë nga anije të tilla në portet e shtetit bregdetar;
+(i) termat dhe kushtet në lidhje me kompanitë e përbashkëta ose marrëveshjeve të tjera të kooperimit;
+(j) kërkesat për trajnim të personelit dhe transferimit të teknologjisë së peshkimit, duke përfshirë zmadhimin e aftësisë së shtetit bregdetar për ndërmarrjen e kërkimeve të peshkimit;
+(k) procedurat e përdorimit të forcës.
+5. Shtetet bregdetare do t’i japin njoftimet e duhura të ligjeve dhe rregullave të konservimit dhe menaxhimit.

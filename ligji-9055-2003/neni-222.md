@@ -1,0 +1,4 @@
+# Neni 222
+Ushtrimi i forcës në lidhje me ndotjen nga ose nëpërmjet atmosferës
+Shtetet do të ushtrojnë forcën brenda hapësirës ajrore nën sovranitetin e tyre ose lidhur me anijet që mbajnë flamurin ose anijeve dhe hidroplanëve që kanë regjistrin e tyre, ligjet dhe rregulloret e tyre të adoptuara mbi bazën e nenit 212, paragrafi 1, dhe me parashikimet e tjera të kësaj Konvente. Shtetet do të adaptojnë ligje e rregullore e do të marrin masat e tjera të nevojshme për zbatimin e rregullave dhe standardeve ndërkombëtare të krijuara nëpërmjet organizatave ndërkombëtare kompetente ose konferencave diplomatike për parandalimin, reduktimin dhe kontrollin e ndotjeve të ambientit detar nga e nëpërmjet atmosferës, në përputhje me të gjitha rregullat e rëndësishme ndërkombëtare e standardeve në lidhje me lundrimin e sigurtë.
+SEKSIONI 7. SIGURITË

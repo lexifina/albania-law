@@ -1,0 +1,4 @@
+# Neni 84
+Hartat dhe listat e koordinatave gjeografike
+1. Mbi bazën e kësaj pjese, vijat e kufirit të jashtëm të shelfit kontinental dhe vijat e kufirit të hequra në përputhje me nenin 83, do të tregohen në harta të shkallëve të përshtatshme për përcaktimin e pozicionit të tyre. Kur shihet e dobishme, listat e koordinatave gjeografike të pikave që specifikojne të dhënat gjeodezike mund të zëvendësohen për vijat e kufirit të jashtëm ose vijat e kufirit.
+2. Shteti bregdetar do të bëjë publikimet e duhura të hartave ose listave të tilla të koordinatave gjeografike dhe do t’i depozitojë një kopje të secilës hartë të tillë ose listë tek Sekretari i Përgjithshëm i Kombeve të Bashkuara dhe në këto raste, duke treguar vijat e kufirit të jashtëm të shelfit kontinental, nga autoriteti i Sekretarit të Përgjithshëm.

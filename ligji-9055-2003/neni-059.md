@@ -1,0 +1,3 @@
+# Neni 59
+Bazat për rizgjidhjen e konflikteve që kanë lidhje me atributet e të drejtave dhe juridiksionin e zonës ekonomike ekskluzive
+Në rastet kur kjo Konventë nuk i atribuon të drejtat dhe juridiksionin shtetit bregdetar ose shteteve të tjera brenda një zone ekonomike ekskluzive dhe lind një konflikt ndërmjet interesave të një shteti bregdetar dhe çdo shteti ose shteteve të tjera, konflikti duhet të zgjidhet mbi bazat e barazisë dhe mbi të gjitha rrethanat respektive, duke marrë në konsideratë rëndësinë përkatëse të interesave të përfshira të palëve si dhe gjithashtu interesat e komunitetit ndërkombëtar si i tërë.

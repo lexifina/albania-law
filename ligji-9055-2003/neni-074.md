@@ -1,0 +1,6 @@
+# Neni 74
+Kufizimi i zonës ekonomike ekskluzive ndërmjet shteteve me brigje ballë për ballë ose me brigje pranë njëri-tjetrit
+1. Caktimi i kufijve të zonës ekonomike ekskluzive ndërmjet shteteve me brigje ballë për ballë ose brigje fqinjë me njëri-tjetrin do të kryhet me marrëveshje mbi bazat e ligjeve ndërkombëtare, siç referohet në nenin 38 të Statutit të Gjykatës Ndërkombëtare të Drejtësisë, në mënyrë që të arrihen zgjidhje të barabarta.
+2. Nëse nuk mund të arrihet nje marrëveshje brenda një periudhe kohe të arsyeshme, shtetet e interesuara do t’i drejtohen procedurave të parashikuara në Pjesën e 15.
+3. Në pritje të marrëveshjeve siç parashikohet ne paragrafin 1, shtetet e interesuara nën shpirtin e bashkëpunimit dhe mirëkuptimit do të bëjnë çdo përpjekje në rregullimet e përkohshme të një natyre praktike dhe gjatë kësaj periudhe tranzicioni nuk duhet të keqësojnë ose pengojnë në arritjen e marrëveshjes përfundimtare. Rregullime të tilla do të jenë pa asnjë paragjykim në caktimin e kufijve përfundimtar.
+4. Kur është një marrëveshje në fuqi, ndërmjet shteteve të interesuara, çështjet në lidhje me kufizimin e zonës ekonomike ekskluzive, duhet të përcaktohen në përputhje me këtë marrëveshje.

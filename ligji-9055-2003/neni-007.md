@@ -1,0 +1,8 @@
+# Neni 7
+Vija bazë e drejtë
+Në vendet, ku bregdeti është thellësisht i dhëmbëzuar dhe i prerë ose kur është një copëz ishulli gjatë bregdetit, në afërsi të tij, metoda e matjes së vijës bazë mund të shfrytëzohet me anën e bashkimit të pikave përkatëse dhe duke formuar vijën bazë nga e cila matet gjërësia e detit territorial.
+Kur për shkak të prezencës së deltës ose kushteve të tjera natyrore bregdeti është shumë i paqëndrueshëm, pikat përkatëse mund të zgjidhen nga vija e zbaticës më e futur në det dhe duke marrë parasysh regresionin e vazhdueshëm e vijës së zbaticës, vija bazë e drejtë do të mbetet efektive për derisa të ndryshohet nga shteti bregdetar në përputhje me këtë Konventë.
+Heqja e vijave të drejta bazë nuk duhet të niset nga zgjatime të dallueshme nga drejtimi i përgjithshëm i bregdetit dhe siperfaqet e detit që shtrihen brenda vijës, duhet që të jenë shumë të lidhura me tokën për të qenë subjekt i regjimit të ujërave territoriale.
+Vijat e drejta bazë nuk duhet të hiqen për dhe nga ngritjet e zbaticës, përderisa në të jenë të ndërtuara fenerë ose instalime të ngjashme, që janë të përhershëm mbi nivelin e detit ose me përjashtim të rasteve kur heqja e vijës së drejtë bazë për e nga lartësime të tilla, ka marrë njohje të përgjithshme ndërkombëtare.
+Kur metoda e vijës së drejtë bazë është e zbatueshme sipas paragrafit 1, në përcaktimin e vijave bazë të veçanta mbi bazën e interesave ekonomike të rajonit në fjalë, mund të merret në konsideratë realiteti dhe rëndësia të cilat janë të evidentuara qartë prej përdorimit të gjatë.
+Sistemi i vijave të drejta bazë mund të mos zbatohet nga shteti në mënyrë të tillë që të presë detin territorial të shtetit tjetër nga deti i hapur ose nga një zonë ekskluzive ekonomike.

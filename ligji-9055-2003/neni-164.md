@@ -1,0 +1,8 @@
+# Neni 164
+Komisioni i planizimit ekonomik
+1. Anëtarët e komisionit të planizimit ekonomik do të kenë kualifikimet e duhura të tilla si ato të minierave, drejtimit të veprimtarive të burimeve minerale, tregtisë ndërkombëtare ose ekonomisë ndërkombëtare. Këshilli do të përpiqet për të siguruar që të gjithë anëtarët e komisionit të kenë të gjitha kualifikimet përkatëse. Komisioni do të përfshijë së paku dy anëtarë nga shtetet në zhvillim, eksporti i të cilëve për kategoritë e mineraleve që rrjedhin nga zona kanë një peshë mbi ekonomitë e tyre.
+2. Komisioni do:
+(a) të propozojë, me kërkesën e Këshillit, masat për zbatimin e vendimeve që lidhen me veprimtaritë në Zonë, të marra në përputhje me këtë Konventë;
+(b) të rishikojë qëndrimet dhe faktorët që ndikojnë në furnizim, kërkesën dhe çmimet e materialeve, të cilat mund të rrjedhin nga Zona, duke patur parasysh interesat e vendeve eksportuese dhe importuese dhe në mënyrë të veçantë të shteteve në zhvillim ndërmjet tyre;
+(c) të ekzaminojnë çdo situatë që mund të çojë në efekte të kundërta referuar në nenin 150, nenparagrafi (h), të sjellë në vëmendje të tij nga Shteti ose Shtetet Palë të interesuara dhe t’i bëjë rekomandimet e duhura Këshillit;
+(d) t’i propozojë Këshillit për t’i parashtruar Asamblesë, siç parashikohet në nenin 151, paragrafi 10, një sistem kompesimi ose masa të tjera të rregullimit të asistencës ekonomike për shtetet në zhvillim që vuajnë efekte të kundërta të shkaktuara nga veprimtaritë në Zonë. Komisioni do të bëjë rekomandime per Këshillin që janë të nevojshme për zbatimin e sistemit ose masave të tjera të adaptuara nga Asambleja në raste të veçanta.

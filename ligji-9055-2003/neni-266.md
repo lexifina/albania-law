@@ -1,0 +1,5 @@
+# Neni 266
+Nxitja e zhvillimit dhe transferimi i teknologjisë detare
+1. Shtetet, direkt ose nëpërmjet organizatave ndërkombëtare detare, do të bashkëpunojnë në përputhje me aftësitë e tyre për të nxitur aktivisht zhvillimin dhe transferimin e shkencës detare e teknologjisë detare me terma dhe kushte të arsyeshme.
+2. Shtetet do të nxisin zhvillimin e aftësinë e kërkimeve detare e teknollogjive të shteteve të cilat mund t’ju nevojitet dhe të kerkojne asistencë teknike në këtë fushë, në mënyrë të veçantë për shtetet në zhvillim, duke përfshirë shtetet pa bregdet e shtetet me disavantazh gjeografik, në lidhje me eksplorimin, shfrytëzimin, konservimin dhe menaxhimin e ambientit detar, mbrojtjen dhe konservimin e ambientit detar, kërkimeve shkencore detare dhe veprimtarive të tjera në ambientin detar kompatibël me këtë Konventë, me qëllimin e zhvillimit social dhe ekonomik të shteteve në zhvillim.
+3. Shtetet do të përpiqen që të paraqesin kushte të favorshme ekonomike dhe ligjore për transferimin e teknologjisë detare për përfitimin e të gjithë Palëve të interesuara mbi bazat e barazisë.

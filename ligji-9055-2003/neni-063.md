@@ -1,0 +1,4 @@
+# Neni 63
+Rezervat që ndodhen brenda zonave ekonomike ekskluzive të dy ose më shumë shteteve ose edhe brenda zonës ekonomike ekskluzive dhe një hapësire përtej dhe pranë saj
+1. Kur e njëjta rezervë ose rezerva të specieve të përbashkëta ndodhen në një zonë ekonomike ekskluzive të nje ose më shumë shteteve, këto shtete duhet të përpiqen ose direkt, ose nëpermjet organizatave përkatëse nënrajonale ose rajonale, të bien dakord për marrjen e masave të nevojshme të koordinimit dhe të parashikimeve të kësaj pjese.
+2. Kur e njejta rezervë ose rezerva të specieve të përbashkëta ndodhen edhe brenda zonës ekonomike ekskluzive dhe në një sipërfaqe përtej dhe pranë zonës, shteti bregdetar dhe shtetet që gjuajnë për rezerva të tilla në hapësirat pranë, duhet të kërkojnë ose direkt, ose nëpërmjet organizatave respektive nënrajonale ose rajonale, të bien dakord mbi masat e nevojshme për konservimin e këtyre rezervave në hapësirën pranë.

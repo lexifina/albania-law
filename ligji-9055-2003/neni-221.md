@@ -1,0 +1,4 @@
+# Neni 221
+Masat për evitimin e ndotjes që del nga një avari detare
+1. Asgjë në këtë pjesë nuk do të paragjykojë të drejtën e shteteve, mbi bazën e ligjit ndërkombëtar si atij të zakonshëm, ashtu dhe të atij konvencional, për të marrë masa dhe ushtruar forcë përtej ujërave territoriale, në proporcion me dëmin aktual ose të kërcënuar për të mbrojtur bregdetet e tyre ose interesat përkatëse, duke përfshirë peshkimin, nga ndotja ose kërcënimin nga ndotja që ndjek një avari detare ose vepron në lidhje me avari të tilla, të cilat në mënyrë të arsyeshme mund të pritet për rezultate me konsekuenca maksimale të dëmit.
+2. Për qëllimet e këtij neni ”avari detare” nënkuptojmë një përplasje anijesh, futje ujit ose incidenti tjetër të lundrimit ose ngjarje të tjera në bordin e anijes ose jashtë saj që rezultojnë në dëm material ose kërcënim iminent të një dëmi material për një anije ose ngarkesën.

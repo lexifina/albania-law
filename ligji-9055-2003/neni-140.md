@@ -1,0 +1,4 @@
+# Neni 140
+Përfitimi i shoqërisë njerëzore
+1. Veprimtaritë në rajon siç specifikohen në këtë pjesë, do të kryhen për përfitimet e shoqërisë njerëzore si e gjithë, pa marrë parasysh vendosjen gjeografike të shteteve, pavarësisht se janë shtete bregdetare ose të kufizuar vetëm me tokë dhe duke marrë në konsideratë të veçantë interesat dhe nevojat e shteteve në zhvillim dhe të popujve, të cilët nuk kanë fituar pavarësinë e plotë ose të atyre që kanë statusin e vetqeverisjes të njohur nga Kombet e Bashkuara në përputhje me rezolutën 1514 (XV) dhe rezoluta të tjera kryesore të Asamblesë së Përgjithëshme.
+2. Autoritetet duhet të parashikojnë ndarjen e barabartë të përfitimeve ekonomike që rrjedhin nga veprimtaritë në rajon nëpërmjet çdo mekanizmi, mbi baza jo diskriminuese, në përputhje me nenin 160, paragrafi 2 (f) (i).

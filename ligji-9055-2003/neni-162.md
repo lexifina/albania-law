@@ -1,0 +1,35 @@
+# Neni 162
+Fuqitë dhe funksionet
+1. Këshilli është organ ekzekutiv i Autoritetit. Këshilli do të ketë fuqinë të krijojë, në përputhje me këtë Konventë dhe politikat e përgjithshme të vendosura nga Asambleja, politika të veçanta që ndiqen nga Autoriteti mbi çdo çështje ose problem brenda kompetencave të Autoritetit.
+2. Në plotësim Këshilli do të:
+(a) të mbikqyrë dhe koordinojë zbatimin e parashikimeve të kësaj Pjese dthe mbi të gjitha çështjet e problemet brenda kompetencës së Autoritetit, si dhe të kërkojë vëmendjen e Asamblesë në rastet e mospërputhjes;
+(b) ti propozojë Asamblesë kandidatët për zgjedhjen e Sekretarit të Përgjithshëm;
+(c) t’i rekomandojë Asamblesë kandidatët për zgjedhjen e anëtarëve të Bordit Drejtues të ndërmarrjes dhe Drejtorit të Përgjithshëm të ndërmarrjes;
+(d) të krijojë, përkatësisht dhe me vëmendjen e duhur ekonomike e efektive, organet subvencionuese të tilla që i duket e nevojshme për ushtrimin e funksioneve në përputhje me këtë Pjesë. Në formimin e organeve subvencionuese, theks i duhet vënë nevojës për anëtarë të kualifikuar dhe komepetent në çështjet thelbësore teknike që duhet të merren këto organe me kusht që t’i kushtojnë një vëmendje të veçantë parimit për shpërndarje të barabartë gjeografike dhe interesave speciale;
+(e) të adaptojë rregullat dhe procedurat e tij duke përfshirë metodën e zgjedhjes të presidentit të tij;
+(f) të hyjë në marrëveshje me Kombet e Bashkuara ose organizata ndërkombëtare të tjera nën emër të Autoritetit dhe brenda kompetencave të tij, mbi bazën e miratimit nga Asambleja;
+(g) të marrë në konsideratë raportet e ndërmarrjes dhe t’i transmetojë ato Asamblesë me rekomandimet e tij;
+(h) t’i paraqesë Asamblesë raportin vjetor dhe raporte të veçanta të tilla siç mund t’i kërkojë Asambleja;
+(i) t’i lëshojë direktiva ndërmarrjes në përputhje me neni 170;
+(j) të miratojë planet e punës në përputhje me aneksin III, neni 6. Këshilli do të veprojë mbi secilin plan pune brenda 60 ditëve të parashtrimit të tij nga komisioni tekniko-juridik në sesionin e Këshillit në përputhje me procedurat që vijojnë:
+i) Nëse komisioni e rekomandon miratimin e planit të punës, ai do të merret sikur është miratuar nga Këshilli, nëse asnjë anëtar i Këshillit i parashtron me shkrim Presidentit brenda 14 ditëve një kundërshtim specifik që parashtron mospërputhjen me kërkesat e aneksit III, neni 6, nëse nuk ka kundërshtim, proçedura e bashkimit e vendosur në nenin 161, paragrafi 8(e), do të zbatohet. Nëse në perfundim të proçedurës së bashkimit, kundërshtimi akoma mbetet, plani i punës duket sikur është miratuar nga Keshilli, përveçse kur Këshilli nuk e miraton atë me konsensus ndërmjet anëtarëve te tij duke përjashtuar çdo shtet ose shtete që bëjnë kërkesë për sponsorizim të një kërkuesi.
+ii) Nëse komisioni rekomandon mosmiratimin e planit të punës ose nuk bën një rekomandim, Këshilli mundet të miratojë planin e punës me dy të tretat e mazhorancës së anëtarëve që janë të pranishëm dhe votojnë, me kusht që kjo mazhorancë të përfshijë mazhorancën e anëtarëve që janë të pranishëm ne sesion.
+(k) të miratojë planin e punës të parashtruar nga ndërmarrja në përputhje me aneksin IV, nenin 12, paragrafi (j)
+(l) të ushtrojë kontroll mbi veprimtaritë në Zonë në përputhje me nenin 153, paragrafi 4 dhe rregullat e procedurat e autoritetit;
+(m) të marrë masat e nevojshme dhe përkatëse pas rekomandimeve të komisionit të planizimit ekonomik në përputhje me nenin 150 nënparagrafi (h) për të parashikuar mbrojtje nga efektet ekonomike të kundërta të specifikuara këtu;
+(n) t’i bëje rekomandime Asamblesë mbi bazat e këshillave nga komisioni i planizimit ekonomik, për një sistem kompesimi ose masa të tjera të ndihmës së rregullimit ekonomik siç parashikohet në nenin 151 paragrafi 10;
+(o) (i) t’i rekomandojë Asamblesë, rregullat dhe procedurat mbi ndarjen e barabartë të përfitimeve ekonomike dhe financiare që rrjedhin nga veprimtaritë në Zonë dhe pagesat e kontributet e bëra në mbështetje të nenit 82, duke marrë në konsideratë të veçantë interesat dhe nevojat e shteteve dhe popujve në zhvillim, të cilët nuk kanë fituar pavarësinë e plotë ose kanë statusin e vetëqeverisjes;
+(ii) të adaptojnë dhe zbatojnë përkohësisht, duke pritur miratimin e Asamblesë, çdo amendament si rrjedhim, duke marrë në konsideratë rekomandimet e komisionit tekniko- ligjor ose organeve e nënvarura të interesuara. Këto rregulla dhe procedura duhet t’i përkasin perspektivës, shfrytëzimit dhe eksplorimit në Zonë dhe menaxhimit financiar e administrimit të brendshëm të Autoritetit. Prioritet duhet t’i jepet adaptimit të rregullave dhe procedurave të eksplorimit, shfrytëzimit të burimeve polimetalike. Rregullat dhe procedurat për shfrytëzim të çdo burimi, përveç atyre polimetalike do të miratohen brenda tre vjetëve nga data e kërkesës ndaj Autoritetit prej çdo anëtari të saj për të adaptuar rregulla dhe procedura të tilla në lidhje me burime të tilla. Të gjitha rregullat, rregulloret dhe procedurat do të mbeten në fuqi mbi baza të përkohshme derisa të miratohen nga Asambleja ose derisa të amendohen nga Këshilli mbi bazën e mendimeve të shprehura nga Asambleja.
+(p) Të rishikojë mbledhjen e pagesave që i duhen bërë Asamblesë ose nga ajo në lidhje me operimet në vijim të kësaj pjese.
+(q) Të bëjë zgjedhjen ndërmjet kërkuesve për autorizimin e prodhimit në mbështetje të aneksit III, neni 7 kur kërkohet një zgjedhje e tillë nga parashikimet.
+(r) Të parashtrojë buxhetin vjetor të autoritetit në Asamble për miratimin e tij;
+(s) T’i bëjë Asamblesë rekomandime në lidhje me politikat që i interesojnë mbi çdo çështje dhe problem brenda kompetencave të Autoritetit.
+(t) T’i bëjë rekomandime Asamblesë në lidhje me pezullimin e ushtrimit të të drejtave dhe privilegjeve të anëtarësisë mbi bazën e nenit 185.
+(u) Të ngrejë proçedurat në emër te Autoritetit përpara Dhomës së Diskutimeve të shtratit të Detit në rastet e mos përputhjes;
+(v) Të njoftojë Asamblenë menjëherë pas një vendimi të Dhomës së diskutimeve të shtratit të detit në procedurat e krijuara sipas nënparagrafit (u) dhe të bëjë çdo rekomandim të cilin mund ta gjejë të përshtatshëm në lidhje me masat që duhen marrë.
+(ë) Të lëshojë urdhëra emergjence, të cilat mund të përfshijnë urdhëra për pezullimin ose rregullimin e veprimtarisë, për të parandaluar dëme serioze ndaj ambientit detar që rrjedhin jashtë veprimtarive në Zonë.
+(x) Të mos miratojë zonat për shfrytëzim nga kontraktorët ose nga ndërmarrja në rastet e fakteve thelbësore që tregojnë rrezikun e dëmeve serioze ndaj ambientit detar.
+(y) Të krijojë një një organizëm subvencionues për përpunimin e draftit të rregullave financiare, rregullave dhe procedurave në lidhje me:
+i) menaxhimin financiar në përputhje me nenin 171 deri 175; dhe
+ii) rregullmet financiare në përputhje me aneksin III, neni 13 dhe neni 17, paragrafi 1 (c).
+(z) Të krijojë mekanizmat përkatëse për drejtimin dhe supervizimin e një stafi inspektorësh, i cili do të inspektojë veprimtaritë në Zonë për të përcaktuar ne se në këtë pjesë, rregullat, rregulloret dhe procedurat dhe termat e çdo kontrate me Autoritetin përputhen.

@@ -1,0 +1,5 @@
+# Neni 137
+Statusi ligjor i rajonit dhe burimet e tij
+1. Asnjë shtet nuk do të reklamojë ose ushtrojë sovranitetin ose të drejtat e sovranitetit mbi çdo pjesë të rajonit ose burimeve të tij dhe asnjë shtet ose person juridik e fizik, respektivisht nuk do të pronësojnë ndonjë pjesë të saj. Asnjë reklamim ose ushtrim sovraniteti ose të drejtave të sovranitetit dhe asnjë pronësim i tillë nuk do të njihen.
+2. Të gjitha të drejtat mbi burimet e rajonit i jepen shoqërisë njerëzore në total në emër të të cilit do të veprojnë autoriteti. Këto burime nuk janë subjekt i armiqësimit. Mineralet e nxjerra nga rajoni megjithatë mund të rregullohen në përputhje me këtë pjesë dhe rregullat dhe udhëzimet si dhe procedurat e autoritetit.
+3. Asnjë shtet, person fizik ose juridik nuk do të reklamojë, fitojë ose ushtrojë të drejtat në lidhje me mineralet e nxjerra nga rajoni me përjashtim kur janë në përputhje me këtë pjesë. Përndryshe asnjë reklamim, përfitim ose ushtrim të drejtave të tilla nuk do të njihen.

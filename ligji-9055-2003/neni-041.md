@@ -1,0 +1,9 @@
+# Neni 41
+Vijat detare dhe zonat e trafikut të seperuar në ngushticat që përdoren për lundrim ndërkombëtar
+1. Në përputhje me këtë pjesë, Shtetet që kufizojnë ngushticat mund të projektojnë vijat detare dhe përshkruajnë zona të trafikut të seperuar për lundrim në ngushtica kur është e nevojshme për nxitjen e kalimit të sigurtë të anijeve.
+2. Shtete të tilla, kur e lejojnë rrethanat, të kërkojnë dhe pasi kanë bërë publikimin, të zëvendësojnë vija të tjera deti ose skema të tjera të trafikut të seperuar për çdo vijë deti ose zone të trafikut të seperuar të përshkruara që më parë prej tyre.
+3. Vija e detit dhe zona të tilla të trafikut të seperuar duhet të jenë konform rregullave ndërkombëtare të pranuara në përgjithësi.
+4. Përpara projektimit ose zëvendësimit të vijave detare ose përshkrimit, ose zëvendësimit të zonave të trafikut të seperuar, shtetet bregdetare që kufizojnë ngushticën do t’i referojnë propozimet, organizatave ndërkombëtare kompetente me qëllimin e adaptimit të tyre. Organizata mund të adaptojë vetëm ato vija deti dhe skema të trafikut të seperuar siç mund të bihet dakord me shtetet kufizuese të ngushticës, pas së cilës shtetet mund të projektojnë, përshkruajnë ose zëvendësojnë ato.
+5. Në lidhje me një ngushticë kur vijat e detit ose skemat e trafikut të seperuar nëpërmjet ujërave të dy ose më shumë shteteve kufizuese të ngushticës janë propozuar, shtetet e interesuara do të kooperojnë në formulimin e propozimeve në konsultim me organizatat ndërkombëtare kompetente.
+6. Shtetet që kufizojnë ngushticën duhet që të tregojnë qartë të gjitha vijat e detit dhe skemat e trafikut të seperuar të projektuara ose përshkruara nga ato në harta të cilat duhet të publikohen.
+7. Anijet në kalim tranzit duhet të respektojnë vijat e detyrueshme të detit dhe skemat e trafikut të seperuar të vendosura në përputhje me këtë nen.

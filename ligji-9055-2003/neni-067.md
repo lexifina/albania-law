@@ -1,0 +1,5 @@
+# Neni 67
+Speciet Catadromous
+1. Një shtet bregdetar, në të cilin speciet catadromous kalojnë pjesën më të madhe të ciklit të jetës së tyre, do të kenë përgjegjësinë për menaxhimin e këtyre specieve dhe do të sigurojnë hyrjen dhe daljen e peshqve emigrues.
+2. Mbledhja e specieve catadromous do të drejtohet vetëm në ujërat në drejtim të tokës nga kufijtë e jashtëm të zonës ekonomike ekskluzive. Kur drejtohet në zonat ekonomike ekskluzive, mbledhja duhet të jetë subjekt i këtij neni dhe parashikimeve të tjera të kësaj konvente në lidhje me peshkimin në këto zona.
+3. Në rastet kur peshqit catadromous emigrojnë nëpërmjet një zone ekonomike ekskluzive të një shteti tjetër, sidoqofshin peshqit e rinj ose në moshë të pjekurisë drejtimi, duke përfshirë dhe mbledhjen e peshqve të tillë do të rregullohet nga marrëveshje ndërmjet shteteve të pëmendura në paragrafin 1 dhe shteteve të tjera të interesuara. Marrëveshje të tilla duhet të sigurojnë menaxhimin racional të specieve dhe të marrin në konsideratë përgjegjësitë e shteteve të përmendura në paragrafin 1 për mirëmbajtjen e specieve.

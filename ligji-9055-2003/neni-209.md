@@ -1,0 +1,4 @@
+# Neni 209
+Ndotja nga aktivitetet në Zonë
+1. Rregullat ndërkombëtare, rregulloret dhe procedurat do të krijohen në përputhje me Pjesën e XI për parandalimin, reduktimin dhe kontrollin e ndotjes së ambientit detar nga veprimtaritë në Zone. Rregulla, rregullore dhe procedura të tilla do të riekzaminohen herë pas here sipas nevojës.
+2. Në mbështetje të parashikimeve më thelbësore të këtij seksioni, shtetet do të adaptojnë ligje dhe rregullore për parandalimin, reduktimin dhe kontrollin e ndotjes së ambientit detar nga veprimtaritë në Zonë të ndërmarra nga anijet, instalimet, strukturat dhe pajisje të tjera që mbajnë flamurin e tyre ose të regjistrit te tyre, ose që operojnë sipas autoritetit të tyre, sipas rastit. Kërkesat e ligjeve, rregulloreve të tilla nuk do të jenë më pak efektive sesa rregullat, rregulloret dhe procedurat ndërkombëtare të referuara në paragrafin 1.

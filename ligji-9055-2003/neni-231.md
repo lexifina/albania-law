@@ -1,0 +1,3 @@
+# Neni 231
+Lajmërimi i shtetit flamur dhe shteteve të tjera të interesuar
+Shtetet do të njoftojnë me shpejtësi shtetin flamur dhe çdo shtet tjetër të interesuar për çdo masë të marrë mbi bazën e seksionit 6 kundër anijeve të huaja dhe do t’i parashtrojë shtetit flamur të gjitha raportet zyrtare në lidhje me masa të tilla. Megjithatë, në lidhje me thyerjet e kryera në ujërat territoriale, detyrimet e mësipërme të shteteve bregdetare zbatohen vetem per ato masa siç janë marrë në proçedurat. Axhentët diplomatikë ose nëpunësit konsullor dhe kur është e mundur autoritetet detare të shtetit flamur, duhet menjëherë të informojnë për çdo masë të tillë të marrë mbi bazën e seksionit 6 kundër anijeve të huaja.

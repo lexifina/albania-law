@@ -1,0 +1,7 @@
+# Neni 207
+Ndotja nga burimet e bazave tokësore
+1. Shtetet do të adaptojnë ligje dhe rregulla për parandalimin, reduktimin dhe kontrollin e ndotjes së ambientit detar nga burimet e bazave tokësore, duke përfshirë lumenjtë, deltat, vijat e tubacioneve dhe strukturat, duke marrë në konsideratë rregullat ndërkombëtare të rëna dakord, standardet dhe procedurat e praktikat e rekomanduara.
+2. Shtetet do të marrin masat e tjera siç mund të jetë e nevojshme për parandalimin, reduktimin dhe kontrollin e ndotjeve të tilla.
+3. Shtetet do të përpiqen të harmonizojnë politikat e tyre në lidhje me këtë në nivelin përkatës rajonal.
+4. Shtetet, duke vepruar në mënyrë të veçantë nëpërmjet organizatave ndërkombëtare kompetente ose konferencave diplomatike, do të përpiqen të krijojnë rregulla globale dhe rajonale, standarde dhe procedura e praktika të rekomanduara për parandalimin, reduktimin dhe kontrollin e ndotjes së ambientit detar nga burimet e bazave tokësore, duke marrë parasysh karakteristikat e cilësive rajonale, fuqinë ekonomike të shteteve në zhvillim dhe nevojat e tyre për zhvillim ekonomik. Rregulla të tilla standarde dhe procedura e praktika të rekomanduara do të riekzaminohen herë pas here kur të jetë nevoja.
+5. Ligjet, rregulloret, masat, rregullat, standardet, procedurat dhe praktikat e rekomanduara të referuara në paragrafet 1, 2 dhe 4 do të përfshijnë ato të projektuara për minimizimin sa më shumë të jetë e mundur të heqjes së substancave toksike, të dëmshme dhe mbytëse, në mënyrë të veçantë ato që janë konstante në ambientin detar.

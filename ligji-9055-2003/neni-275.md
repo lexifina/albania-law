@@ -1,0 +1,4 @@
+# Neni 275
+Krijimi i qendrave kombëtare
+1. Shtetet, direkt ose nëpërmjet organizatave ndërkombëtare kompetente dhe Autoritetit, do të nxisin krijimin, në veçanti në shtetet në zhvillim, të qendrave kombëtare të kërkimeve shkencore dhe teknike detare dhe forcimin e qendrave ekzistuese kombëtare, në menyrë që të stimulojnë dhe përparojnë drejtimin e kërkimeve shkencore detare nga shtetet bregdetare në zhvillim dhe të zgjerojnë aftësitë e tyre kombëtare për përdorimin dhe konservimin e burimeve të tyre detare për përfitimin e tyre ekonomik.
+2. Shtetet, nëpërmjet organizatave ndërkombëtare kompetente dhe Autoritetit, do të japin përkrahjen e duhur që të ndihmojnë krijimin dhe forcimin qendrave të tilla kombëtare që të jenë në gjendje të furnizojnë lehtësira trajnimi dhe dijenitë e eksperiencën dhe pajisjet, si dhe ekspertë teknikë për shtete te tilla, të cilat mund t’u nevojitet dhe kerkojnë asistencë të tillë.

@@ -1,0 +1,20 @@
+# Neni 165
+Komisioni tekniko-ligjor
+1.Anëtarët e komisionit tekniko-ligjor do të kenë kualifikimet përkatëse siç janë ato mbi eksplorimin, shfrytëzimin dhe procedimin e burimeve minerale, oqeanologjisë, mbrojtjes së ambientit detar ose çështjet ekonomike dhe ligjore në lidhje me minierat e oqeanit fushat përkatëse të ekspertizës. Këshilli do të përpiqet të sigurojë se anëtarët e komisionit zotërojnë të gjitha kualifikimet përkatëse.
+2. Komisioni do të:
+(a) bëjë rekomandime përsa i përket ushtrimit të funksioneve të Autoritetit me kërkesën e Këshillit;
+(b) rishikojë planin formal të shkruar të punës për aktivitetet në Zonë në përputhje me nenin 153, paragrafi 3 dhe parashtrojë rekomandimet përkatëse Këshillit. Komisioni do t’i bazojë rekomandimet e tij vetëm në drejtimet e shpallura në aneksin III C:\Users\i.noga\Desktop\Perfundimtare ok -Akte\Fletore 2003\Documents and Settings\blerina\Application Data\Microsoft\Documents and Settings\blerina\My Documents\Ligje-Kuvendi\annex3-1.htmldhe do të raportojë plotësisht për të gjitha tek Këshilli;
+(c) supervizojë me kërkesën e Këshillit, veprimtaritë në Zonë, kur është e përshtatshme, në konsultim dhe bashkëpunim me çdo ent që zhvillon veprimtari të tilla ose shtet dhe shtete të interesuara dhe t’i raportojë Këshillit;
+(d) pregatisë vlerësimet për ndikimin në ambient të veprimtarive në zonë;
+(e) bëjë rekomandime Këshillit për mbrojtjen e ambientit detar, duke marrë në konsideratë dijet e ekspertëve te njohur në këtë fushë;
+(f) formulojë dhe parashtrojë Këshillit rregullat, rregulloret dhe procedurat e referuara në nenin 162, paragrafi 2(o) duke marrë në konsideratë të gjithë faktorët përkatës duke përfshirë vlerësimet e ndikimit në ambient të veprimtarive në Zonë;
+(g) t’i mbajë rregullat, rregulloret dhe procedurat nën rishikim dhe rekomandojë Këshillit herë pas here, amerndamente të tilla që mund të jenë të nevojshme dhe dëshirueshme;
+(h) t’i bëjë rekomandime Këshillit përsa i perket krijimit të një programi monitorizimi që duhet të vrojtojë, masë, vlerësojë dhe analizojë me metoda të njohura shkencore, mbi baza të rregullta, rrezikun ose efektet e ndotjes së ambientit detar që rezulton nga veprimtaritë ne Zonë, të sigurojë që rregullat ekzistuese janë të përshtatshme dhe në përputhje, si dhe të koordinojnë zbatimin e programit të monitorizimit të miratuar nga Këshilli;
+(i) t’i rekomandojë Këshillit që procedurat të ngrihen, në emër të Autoritetit përpara Dhomës së diskutimeve të shtratit të detit, në përputhje me këtë pjesë dhe anekset përkatëse duke marrë në konsideratë veçanërisht nenin 187;
+(j) t’i bëjë rekomandime Këshillit në lidhje me masat që duhen marrë, pas vendimit të Dhomës së diskutimeve të shtratit të setit për procedurat e ngritura në përputhje me nënparagrafin (i);
+(k) t’i bëjë rekomandime Këshillit për lëshimin e urdhërave emergjente, të cilët mund të përfshijnë urdhëra për pezullim ose rregullim të operimeve, për parandalimin e dëmeve serioze në ambientin detar të dala nga veprimtaritë në Zonë. Rekomandime të tilla do të merren nga Këshilli mbi bazat e prioritetit;
+(l) t’i bëje rekomandime Këshillit për disaprovimin e zonave për shfrytëzim nga kontraktuesi ose ndërmarrja në rastet kur faktet thelbësore tregojnë rrezikun e dëmeve serioze për ambientin detar;
+(m) të bëjë rekomandime Këshillit në lidhje me drejtimet dhe supervizionin e një stafi të inspektorëve të cilët do të inspektojnë veprimtaritë në Zonë për përcaktimin nëse parashikimet e kësaj Pjese, rregullat, rregulloret dhe procedurat e Autoritetit, si dhe termat e kushtet e çdo kontrate të autoritetit janë në përputhje;
+(n) të llogarisë tavanin e prodhimit dhe lëshojë autorizimet e prodhimit në emër të Autoritetit mbi bazën e nenit 151, paragrafet 2 deri 7, duke ndjekur çdo zgjedhje të nevojshme ndërmjet kërkuesve për autorizim prodhimi nga Këshilli në përputhje me aneksin III, neni 7.
+3. Anëtarët e komisionit mbas kërkesës së bërë nga çdo Shtet Palë ose Palë të tjera të interesuara, do të shoqërohen nga një përfaqësues i një shtetit të tillë ose Pale tjetër të interesuar kur kryejnë funksionet e tyre të supervizionit dhe inspektimit.
+NËNSEKSIONI D. SEKRETARIATI

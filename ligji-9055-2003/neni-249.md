@@ -1,0 +1,11 @@
+# Neni 249
+Detyra për të përmbushur disa kushte
+1. Shtetet dhe organizatat ndërkombëtare kompetente kur ndërmarrin kërkime shkencore detare në zonën ekonomike ekskluzive ose shelfin kontinental të një shteti bregdetar do të përmbushin kushtet e mëposhtme:
+(a) Të sigurojnë të drejtën e shtetit bregdetar, nëse ai dëshiron për të marrë pjesë ose të përfaqësohet në projektet e kërkimevet shkencore detare, në mënyrë të veçantë në bordin e anijeve kërkimore dhe hidroplaneve të tjerë ose pajisjeve kërkimore shkencore, kur është e mundur, pa asnjë pagesë ose shpërblim për shkencëtarët e shtetit bregdetar dhe pa asnjë detyrim për kontribut në drejtim të kostos së projektit.
+(b) Të furnizojë shtetin bregdetar, me kërkesën e tij, me raporte të parakohshme, sa më shpejtë që të jetë praktike dhe me rezultatet e konkluzionet përfundimtare pas përfundimit të kërkimeve.
+(c) Të përpiqet per sigurimin e hyrjes për shtetin bregdetar, me kerkesën e tij, në tëe gjitha të dhëmat dhe shembujt që rrjedhin nga projektet e kërkimeve shkencore detare dhe në të kundërt të furnizojë atë me të dhëna të cilat mund të kopjohen dhe shembuj, të cilat mund të ndahen pa ndikuar në vlerën e tyre shkencore;
+(d) Nëse kërkohet të furnizojë shtetin bregdetar me vlerësimin e këtyre të dhënave, shembujve dhe rezultatet e kërkimeve ose të furnizojë me ndihmë në vlerësimin ose interpretimin e tyre.
+(e) Të sigurojë në mbështetje të paragrafit 2, që rezultatet e kërkimeve janë bërë të vlefshme ndërkombëtarisht nëpërmjet kanaleve përkatëse kombëtare ose ndërkombëtare, sa më shpejt të jetë e mundur praktikisht.
+(f) Të informojë shtetin bregdetar menjëherë mbi çdo ndryshim të madh në programin e kërkimeve.
+(g) Përveçse kur është rënë dakord ndryshe, të zhvendosë instalimet e kërkimeve shkencore ose pajisjet menjëherë pasi kërkimi të ketë përfunduar.
+2. Ky nen nuk paragjykon kushtet e krijuara nga ligjet dhe rregullat e shtetit bregdetar për ushtrimin e të drejtës diskreciale të tij për të garantuar ose mospranuar konsensus mbi bazën e nenit 246, paragrafi 5, duke përfshirë kërkesën e një marrëveshjeje të mëparshme për bërjen të vlefshme ndërkombëtarisht të rezultateve të kërkimit të një projekti të një rëndësie direkte për shfrytëzim ose eksplorim të burimeve natyrore.

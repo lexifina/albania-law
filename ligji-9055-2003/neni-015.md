@@ -1,0 +1,3 @@
+# Neni 15
+Kufizimi i detit territorial ndërmjet shteteve që janë ballë për ballë ose fqinjë
+Kur brigjet e dy shteteve janë ballë për ballë ose në afërsi me njëri-tjetrin asnjë nga dy shtetet nuk do të ketë të drejtën, përveç kur është bërë një marrëveshje ndërmjet tyre, për të zgjeruar detin territorial përtej vijave të mesme pikat e së cilës janë të barazlarguara nga pikat më të afërta të vijave bazë nga të cilat matet gjerësia e detit territorial të dy shteteve. Parashikimi i mësipërm nuk zbatohet, megjithatë, kur është e nevojshme në rastet e ndonjë titulli historik ose rrethana të tjera të veçanta për kufizimin e detit territorial ndërmjet të dy shteteve sipas mënyrave të mësipërme.

@@ -1,0 +1,3 @@
+# Neni 247
+Kërkimet shkencore detare të ndërmarra nga organizata detare të dëgjuara
+Një shtet bregdetar, i cili është anëtar ose ka një marrëveshje bilaterale me një organizatë ndërkombëtare dhe në zonën ekonomike ekskluzive ose shelfin kontinental të të cilit kjo organizatë dëshiron të ndërmarrë një projekt për kërkim shkencor detar direkt ose sipas dëshirës së saj, duhet të konsiderohet sikur ka autorizuar ndërmarrjen e projektit në përputhje me specifikimet e rëna dakord nëse ky shtet aprovon projektin e detajuar kur vendimi është marrë nga organizata për ndërmarrjen e projektit ose dëshiron të marrë pjesë në të dhe nuk ka shprehur ndonjë kundërshtim brenda katër muajve të lajmërimit të projektit nga organizata ndërkombëtare për shtetin bregdetar.
