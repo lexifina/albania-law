@@ -1,0 +1,3 @@
+7. Niveli i bursave dhe i kuotave financiare të ushqimit për të gjitha kategoritë e shkollave, të jetë sipas pasqyrave nr. 3 dhe nr. 4 ”Për nivelin e bursave dhe të kuotave financiare ditore”, që i bashkëlidhen këtij vendimi. Kuota ushqimore për nxnënësit dhe studentët në lekë të jetë sipas pasqyrës nr. 6, që i bashkëlidhet këtij vendimi dhe kuota financiare, në natyrë për ushqim, e studentëve të jetë sipas pasqyrës nr.7, që i bashkëlidhet këtij vendimi.
+Bursa ose gjysmëbursa për studentët jepet me lekë në dorë.
+Bursa ose gjysmëbursa për vitet e para të shkollave 8-vjeçare, të mesme dhe të larta miratohet me vendim të këshillit bashkiak apo të këshillit të komunës, ku ka vendbanimin e përhershëm nxënësi apo studenti, si dhe nga prefektura përkatëse.

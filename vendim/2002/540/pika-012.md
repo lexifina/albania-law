@@ -1,0 +1,1 @@
+12. Kuotat financiare të ushqimit në mensa ndryshohen nga Ministria e Arsimit dhe e Shkencës dhe Ministria e Financave, në varësi të indeksit të çmimeve të konsumit, por jo më shumë se një herë në vit.

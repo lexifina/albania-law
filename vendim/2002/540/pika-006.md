@@ -1,0 +1,6 @@
+6. Bursistët jetimë të shtëpive të fëmijës, të shkollave të mesme dhe të larta, nxënësit e Institutit të fëmijëve që nuk shikojnë dhe nxënësit e Institutit të fëmijëve që nuk dëgjojnë përfitojnë falas veshmbathje, libra, fletore, sipas normave të përcaktuara në natyrë, sipas pasqyrës nr. 5, që i bashkëlidhet këtij vendimi.
+Këto kategori nxënësish përfitojnë falas nga shteti shërbimin mjekësor, në kuotën deri në 200 lekë në muaj për nxënës, si dhe shërbimin shëndetësor dentar.
+Kuotat e ushqimit dhe të shpenzimeve të vogla, për nxënësit e institucioneve të arsimit special, me konvikt, të jetë sipas pasqyrës nr.5/1, që i bashkëlidhet këtij vendimi.
+Fëmijët e institucioneve të arsimit special, pa konvikt, trajtohen falas nga shteti me një vakt ushqimi (drekë) dhe me mjete shkollore. Kuota ushqimore për këtë kategori nxënësish është 70 lekë në ditë.
+Mësuesit dhe edukatorët e institucioneve të mësipërme gëzojnë të drejtën e një vakti (drekë) me vlerë deri në 70 lekë në ditë. Kuota financiare ushqimore ditore për studentët të jetë sipas pasqyrës nr. 7, që i bashkëlidhet këtij vendimi.
+Nxënësve dhe studentëve jetimë, bursistë, u jepen lekë në dorë për nevoja vetjake, përkatësisht 500 dhe 700 lekë në muaj. Këtë të drejtë e gëzojnë edhe kur kurohen në institucionet shëndetësore.

@@ -1,0 +1,1 @@
+9. Ministrisë së Arsimit dhe të Shkencës, për vitin shkollor 2002-2003, i jepen 900 bursa për arsimin e mesëm dhe 1 100 bursa për arsimin e lartë. Planshpërndarja e bursave për çdo rreth bëhet sipas kërkesave të ardhura nga drejtoritë arsimore.
