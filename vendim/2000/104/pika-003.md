@@ -1,0 +1,1 @@
+3. Për përballimin e vëllimit të punës, për rritjen e pensioneve dhe për hartimin e urdhërpagesave të reja, Instituti i Sigurimeve Shoqërore do të përdorë 1.5 milionë lekë, të cilat do të përballohen nga fondi i shpenzimeve administrative, të miratuara për vitin 2000 për këtë Institut.

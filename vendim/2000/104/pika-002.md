@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 52 milionë lekë në muaj dhe përballohen nga teprica e fondit të Sigurimeve Shoqërore për vitin 1999. Për vitin 2000, plani i shpenzimeve të Institutit të Sigurimeve Shoqërore shtohet me 468 milionë lekë.
