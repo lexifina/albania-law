@@ -1,0 +1,1 @@
+1.Likuidimin e shoqërisë “ALBANIAN PETROLEUMNCORPORATION”, “APC”, sha, Tiranë, për shkak të pushimit të objektit të shoqërisë, e cila ka ushtraur veprimtari në fushën e hidrokarbureve, nëpërmjet pjesëmarrjes, së drejtpërdrejtë ose të tërthortë, në shoqëritë e kontrolluara, si dhe ka realizuar bashkëpunimin tekniko-financiare të këtyre shoqërisve.

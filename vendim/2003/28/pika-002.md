@@ -1,0 +1,1 @@
+2.Aksionet dhe kuotat e kësaj shoqërie, t’u kalojnë shoqërive “ALBAPETROL”, sha, “ARMO”, sha, “SERVOCOM”, sha,”Uzina Mekanike e Naftës,”shpk, Kuçovë, “Transnafta”, shpk, Patos dhe “Uzina Mekanike”, shpk, Patos.
