@@ -1,0 +1,1 @@
+1. Struktura dhe nivelet e pagave për punonjësit civilë, me arsim të lartë, në Spitalin Ushtarak Qendror Universitar të jenë sipas lidhjes nr.1, (Kreu I.1) të vendimit nr.306, datë 27.6.2002 të Këshillit të Ministrave “Për miratimin e strukturës dhe nivelit të pagave të punonjësve me arsim të lartë në sistemin e Ministrisë së Shëndetësisë”.

@@ -1,0 +1,1 @@
+3. Mjekëve civilë dhe ushtarakë, të strukturave të Forcave të Armatosura për kryerjen e shërbimit të rojës, të gatishmërisë dhe të urgjencës, në spitale dhe qendra shëndetësore me shtretër, t’u jepet shpërblim, sipas pikës 9 të vendimit nr.306, datë 27.6.2002 të Këshillit të Ministrave. Ministri i Mbrojtjes përcakton kriteret dhe rregullat për dhënien e këtij shpërblimi.

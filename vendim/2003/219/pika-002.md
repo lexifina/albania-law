@@ -1,0 +1,1 @@
+2. Mjekët civilë të strukturave të Forcave të Armatosura, të cilët kryejnë specializime, në qendrat spitalore universitare, gjatë kohës së specializimit, të paguhen sipas pikës 8 të vendimit nr.306, datë 27.6.2002 të Këshillit të Ministrave.
