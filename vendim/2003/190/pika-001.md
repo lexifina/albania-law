@@ -1,0 +1,1 @@
+1. Kufijtë e sasisë së farërave, që lejohen të shkëmbehen për qëllime shkencore dhe eksperimentale, me institucionet shkencore jashtë vendit ose me persona fizikë dhe juridikë të huaj, si dhe ato që ndalohen, përcaktohen respektivisht në pasqyrat nr.1 dhe nr.2, që i bashkëlidhen këtij vendimi si pjesë përbërëse e tij.
