@@ -1,0 +1,4 @@
+5. Nëse gjatë procesit të votimit rrezikohet rendi dhe zhvillimi i rregullt i votimit, kur cenohet rendi, kur shfaqen shenja dhune ndaj zgjedhësve apo anëtarëve të komisionit, kur pengohen procedurat e votimit dhe zgjidhja e konfliktit nuk mund të bëhet me mirëkuptim, KQV-ja vendos pezullimin e votimit dhe kryetari e zëvendëskryetari apo secili prej tyre kërkon ndihmën e policisë, duke njoftuar menjëherë edhe KZZ-në nr.19 për incidentin e ndodhur.
+Me kërkesën e kryetarit dhe zëvendëskryetarit të KQV-së apo të secilit prej tyre, policët vihen në shërbim të Komisionit të Qendrës së Votimit, deri në evitimin e parregullsisë së vërejtur. Me rivendosjen e rendit, policëve u kërkohet të largohen nga qendra e votimit për të vazhduar ruajtjen në distancë të saj, ndërkohë KQV-ja merr masa për vazhdimin e procesit të votimit.
+Me rivendosjen e rendit dhe rifillimin e votimit , KQV-ja informon KZZ-në nr.19.
+Ky udhëzim hyn në fuqi menjëherë.

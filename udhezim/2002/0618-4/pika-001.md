@@ -1,0 +1,1 @@
+1. Shoqërimin me polic të mjeteve që do të transportojnë fletëvotimet nga magazina e KQZ-së deri në prefekturë dhe në KZZ-në nr.19, kundrejt kërkesës dhe planit të lëvizjes së mjeteve të miratuar nga KQZ-ja.

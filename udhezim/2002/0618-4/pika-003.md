@@ -1,0 +1,2 @@
+3. Organizimi i ruajtjes së qendrave të votimit të zonës zgjedhore nr.19 nga ora 12.00 e datës 6.7.2002 e në vijim, të vazhdojë deri në përfundimin e votimit, nxjerrjen e rezultateve dhe shoqërimin e përfaqësuesve të KQV-së për dorëzimin e tabelave të rezultateve dhe kutive të votimit në KZZ-në nr.19.
+Për organizimin dhe realizimin e kësaj detyre KZZ-ja nr.19, i jep drejtorit të policisë në prefekturë një kopje të vendimit të KZZ-së nr.19 “Për caktimin vendndodhjes së qendrave të votimit” model 29.
