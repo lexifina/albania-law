@@ -1,0 +1,1 @@
+1. Krijimin e “Agjensisë së zhvillimit të zonave malore”, për mbështetjen e zhvillimit të zonave malore të vendit. Veprimtaria e kësaj agjencie do të jetë në përputhje ne legjislacionin në fuqi dhe me statutin, e cila i bashkëlidhet këtij vendimi.
