@@ -1,0 +1,1 @@
+1. Pasuritë e ndërmarrjeve, të shoqërive dhe të institucioneve shtetërore, ku përfshihen ndërtesat, trualli i lirë funksional (jo nën ndërtesë), si dhe makineritë e pajisjet, u jepen me qira të tretëve, nëpërmjet procedurës së konkurrimit publik.

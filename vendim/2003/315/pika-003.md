@@ -1,0 +1,1 @@
+3. Për objektet me karakter kombëtar: muzeal, historik e arkeologjik, përveç elementeve të konkurrimit, të përfshira në pikën 1.2, ministria përkatëse dhe institucionet qendrore, që ushtrojnë të drejtën e administrimit të pronës shtetërore për këto objekte, të vendosin edhe kushte e kritere të veçanta për ruajtjen e vlerave kombëtare të objektit.
