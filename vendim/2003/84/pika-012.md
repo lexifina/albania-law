@@ -1,0 +1,1 @@
+12. Vendimi nr.343, datë 3.7.1995 i Këshillit të Ministrave “Për mbulimin e shpenzimeve të shërbimit shëndetësor të mjekut të përgjithshëm dhe të familjes nga Instituti i Sigurimeve të Kujdesit Shëndetësor” i ndryshuar, shfuqizohet.

@@ -1,0 +1,1 @@
+9. Mjeku është i detyruar ta kryejë vizitën mjekësore edhe në rastet kur i sëmuri nuk ka paguar kontributin për sigurimin shëndetësor. Në këto raste i sëmuri paguan, sipas tarifave të miratuara nga Ministri i Shëndetësisë.
