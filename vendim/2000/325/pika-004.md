@@ -1,0 +1,1 @@
+4. Ngarkohen Ministria e Financave, që, në bashkëpunim me Ministrinë e Shëndetësisë, të ndjekë procedurat e nevojshme për kalimin e fondeve buxhetore dhe për krijimin e strukturës së re buxhetore për këtë qendër.
