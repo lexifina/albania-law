@@ -1,0 +1,1 @@
+3. Masa e kuotës për shpenzime argëtimi, e depozituar nga institucioni dhe e përdorur me urdhër të titullarit, për fëmijët e moshës 0-6 vjeç, që jetojnë në shtëpitë e fëmijëve, është 250 (dyqind e pesë dhjetë) lekë në muaj, ndërsa për personat që jetojnë në qendrat e zhvillimit është 300 (treqind) lekë në muaj.
