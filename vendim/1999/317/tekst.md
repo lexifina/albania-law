@@ -4,7 +4,7 @@ Nr.317, datë 8.7.1999
 
 PËR SHPËRBLIMIN E PUNËS SË PUNONJËSVE
 
-(Ndryshuar me VKM nr. 261, datë 25.5.2000; nr. 36, datë 20.1.2001)
+(Ndryshuar me VKM nr. 261, datë 25.5.2000; nr. 36, datë 20.1.2001; nr. 133, datë 13.4.2002)
 
 (I përditësuar)
 
@@ -24,9 +24,9 @@ Në fillim të çdo viti ndërmarrjet bëjnë indeksimin e pagave deri në masë
 
 Raporti i pagës së drejtorit, në krahasim me pagën më të ulët të punonjësve të ndërmarrjes, të jetë sipas këtyre shkallëzimeve :
 
-- për ndërmarrjet e vogla dhe të mesme deri në 1:7 por jo më shumë se paga e klasifikimit A8;
+Për ndërmarrjet e vogla dhe të mesme deri në 1:7, por jo më shumë se paga e kategorisë II-b, e lidhjes nr.1, e vendimit nr.711, datë 27.12.2001, të Këshillit të Ministrave, "Për strukturat dhe nivelet e pagave të nëpunëse civilë në institucionet e administratës qendrore, administratës së Presidentit dhe Kuvendit dhe disa shtesa e ndryshime në vendimin nr.726, datë 21.12.2000, të Këshillit të Ministrave, "Për pagat e punonjësve të institucioneve buxhetore".
 
-- për ndërmarrjet e mëdha dhe strategjike jo më e lartë se paga e klasifikimit A7, e miratuar  me vendimin e Këshillit të Ministrave nr.393, datë 3.9.1992 “Për pagat e punonjësve të institucioneve buxhetore”.
+Për ndërmarrjet e mëdha dhe strategjike, jo më e lartë se paga e kategorisë I-b, e lidhjes nr.1, e vendimit nr.711, datë 27.12.2001, të Këshillit të Ministrave, "Për strukturat dhe nivelet e pagave të nëpunësve civilë në institucionet e administratës qendrore, administratës së Presidentit dhe Kuvendit dhe disa shtesa e ndyshime në vendimin nr.726, datë 21.12.2000, të Këshillit të Ministrave, "Për pagat e punonjësve të institucioneve buxhetore".
 
 5. Anëtarët e këshillave drejtuese dhe të drejtorive të ndërmarrjeve kanë të drejtë të marrin shpërblim suplementar deri në 5 për qind të shtesës së fitimit të realizuar, por jo më shumë se deri në dy paga mujore në vit. Ky shpërblim jepet në mbylljen e rezultatit vjetor dhe caktohet nga organi që ka në kompetencë emërimin e tyre.
 
@@ -34,7 +34,7 @@ Raporti i pagës së drejtorit, në krahasim me pagën më të ulët të punonj�
 
 7. Punonjësit e ndërmarrjeve, që funksionojnë sipas ligjit nr.7582, datë 13.7.1992 “Për ndërmarrjet shtetërore”, përfitojnë shpërblim suplementar jo më shumë se 15 për qind të fitimit të realizuar, vetëm kur ndërmarrjet e kanë rezervën përkatëse, por jo më shumë se dy paga mujore në vit për secilin prej tyre.
 
-8. Guvernatori i Bankës së Shqipërisë, për efekt page, barazohet me ministrin e Financave. Drejtorët e përgjithshëm të bankave të nivelit të dytë, drejtori i Institutit të Sigurimeve Shoqërore, drejtori i Institutit të Sigurimeve Shëndetësore barazohen, për efekt page, me klasifikimin A9, të miratuar me vendimin e Këshillit të Ministrave nr.393, datë 3.9.1992 “Për pagat e punonjësve të institucioneve buxhetore”.
+8. Guvernatori i Bankës së Shqipërisë, për efekt page, barazohet me ministrin e Financave. Drejtorët e përgjithshëm të bankave të nivelit të dytë, drejtori i Institutit të Sigurimeve Shoqërore, drejtori i Institutit të Sigurimeve Shëndetësore barazohen, për efekt page, me kategorinë I-b, të lidhjes nr.1, të miratuar me vendimin nr. 711, datë 27,12,2001, të Këshillit të Ministrave.
 
 Punonjësit e këtyre institucioneve përfitojnë shpërblim suplementar jo më shumë se dy paga mujore në vit për secilin punonjës, në varësi të rezultatit financiar të institucionit.
 
