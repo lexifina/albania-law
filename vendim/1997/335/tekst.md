@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000)
 
 (I përditësuar)
 
@@ -120,6 +120,12 @@ Pas mbarimit të funksionit të tyre
 
 - Kryegjyshi i Kryegjyshatës Botërore Bektashiane.
 
+-Anëtarët e Komisionit të Shërbimit Civil
+
+ - Anëtarët e Komisionit Qendror të Zgjedhjeve.
+
+ - Bashkëshortja e Avokatit të Popullit.
+
 4. Me pasaportë shërbimi të pajiset kjo kategori personash:
 
 - Drejtori i Përgjithshëm i Institutit të Sigurimeve Shoqërore;
@@ -190,8 +196,6 @@ Pas mbarimit të funksionit të tyre
 
 - Drejtorët e drejtorive në Prokurorinë e Përgjithshme;
 
-- Anëtarët e Komisionit Qendror të Zgjedhjeve;
-
 - Kryetari i Institutit të Integrimit të të Përndjekurve Politikë dhe drejtorët e drejtorive në këtë Institut;
 
 - Drejtori i shkollës së Magjistraturës;
@@ -221,6 +225,22 @@ Pas mbarimit të funksionit të tyre
 - Drejtori i përgjithshëm i Inspektoriatit Shtetëror të Kontrollit të Naftës dhe Gazit dhe nënprodukteve të tyre.
 
 - Kryetari i Këshillit Kombëtar të Radiotelevizionit.
+
+- Komisionerët e institucionit të Avokatit të Popullit
+
+- Shefi i Kabinetit, në insitucionin e Avokatit të Popullit 
+
+- Këshilltarët e Avokatit të Popullit
+
+- Drejtori i Përgjithshëm i institucionit të Avokatit të Popullit
+
+- Drejtori i Departamentit të Marrëdhënieve me Jashtë, në institucionin e Avokatit të Popullit.
+
+- Shoferi i Avokatit të Popullit 
+
+- Drejtori i Përgjithshëm i Agjensisë së Trajtimit të Kredive
+
+- Drejtori i Drejtorisë së Përafrimit të legjslacionit shqiptar me atë të Bashkimit Europian.
 
 	5. Pas përfundimit të shërbimit, pasaportat e shërbimit duhet të depozitohen pranë drejtorive të personelit të ministrive dhe institucioneve.
 
