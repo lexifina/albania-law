@@ -1,0 +1,4 @@
+5. Për përdorimin e fletëve të votimit, komisionet e qendrave të votimit veprojnë si vijon:
+a) Në fillim të çeljes së votimeve kryetari dhe zëvendëskryetari rendisin blloqet e fletëve të votimit, në mënyrë që blloku që ka numrin më të vogël të serisë të jetë në krye, e mandej të vazhdojë rritja numerike progresive deri tek numri më i madh. Pas kryerjes së këtij veprimi, kryetari dhe zëvendëskryetari firmosin deri 50 copë fletëvotimi, të cilat vulosen nga sekretari i KQV-së një nga një në momentin që i jepen votuesit. Më tej firmosja e fletëve të votimit do të shkojë paralel me intensitetin e paraqitjes së votuesve dhe në total, në fund të procesit të votimit duhet të jenë firmosur, vulosur dhe përdorur aq fletëvotimi sa votues kanë marrë pjesë në votim.
+b) Fletët e votimit të papërdorura nuk duhet të kenë firma e vula.
+Ky udhëzim hyn në fuqi menjëherë.
