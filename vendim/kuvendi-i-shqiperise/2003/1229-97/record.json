@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2472,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR SHKARKIM DHE EMËRIM MINISTRI",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "97",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-12-29",
+  "published": "2003-12-31",
+  "in_force": "2003-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/df37bc7927b089894656049ddd5831e5364117df8cf89bd736dfb08f8585083c.docx",
+  "source_sha256": "df37bc7927b089894656049ddd5831e5364117df8cf89bd736dfb08f8585083c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2472",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/12/29/97",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
