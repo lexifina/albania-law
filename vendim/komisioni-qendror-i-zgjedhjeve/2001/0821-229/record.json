@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1162,
+  "title": "PËR SHPALLJEN E LISTËS SË DEPUTETËVE TË PARTISË ALEANCA DEMOKRATIKE, TË CILËT PËRFITOJNË NGA NDARJA E MANDATEVE PLOTËSUESE PËR ZGJEDHJET PËR KUVENDIN PËR VITIN 2001",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "229",
+  "institution": "Komisioni Qendror i Zgjedhjeve",
+  "adopted": "2001-08-21",
+  "published": "2001-11-07",
+  "in_force": "2001-11-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ee870d20afed801f458422d1af11fbccb0b97e97d33db6fb13e0fb33e56c937d.docx",
+  "source_sha256": "ee870d20afed801f458422d1af11fbccb0b97e97d33db6fb13e0fb33e56c937d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1162",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/08/21/229",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
