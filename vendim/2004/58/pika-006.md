@@ -1,0 +1,1 @@
+6. Pagat e nëpunësve të Drejtorisë së Sigurimit të Informacionit të Klasifikuar përcaktohen sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, ndërsa punonjësit e tjerë paguhen sipas lidhjes II-5 të vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave ”Për pagat e punonjësve të institucioneve buxhetore”, të ndryshuar.
