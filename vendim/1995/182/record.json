@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122701,
+  "title": "PËR ÇMIMET E SHITJES SË BARNAVE",
+  "type": "Vendim",
+  "number": "182",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1995-04-25",
+  "version_no": 1,
+  "qbz_version_id": 10683,
+  "in_force": "2004-07-30",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2004-07-30",
+  "changed_by_qbz_id": 2989,
+  "changed_by_number": "511",
+  "changed_by_title": "Për disa shtesa në vendimin nr.182, datë 25.4.1995 të këshillit të Ministrave “Për çmimet e shitjes së barnave”, të ndryshuar",
+  "source": "https://qbz.gov.al/files/8eaea34d5f0b57ae3675347b3a3cb4cec3610fd47dba2a78a67eb8e07d523f8b.docx",
+  "source_sha256": "8eaea34d5f0b57ae3675347b3a3cb4cec3610fd47dba2a78a67eb8e07d523f8b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122701",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122701/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
