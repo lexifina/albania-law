@@ -1,0 +1,1 @@
+3. Pika 2 e vendimit nr.445, datë 16.7.1998 të Këshillit të Ministrave ”Për ngritjen e Entit Rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, shfuqizohet.
