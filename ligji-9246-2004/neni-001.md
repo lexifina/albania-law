@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet “Marrëveshja plotësuese ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Shteteve të Bashkuara të Amerikës e “Marrëveshjes ndërmjet shteteve palë në Traktatin e Atlantikut Verior dhe shteteve të tjera pjesëmarrëse në Partneritetin për Paqe, në lidhje me statusin e forcave të tyre”, mbi statusin e forcave të Shteteve të Bashkuara të Amerikës në Republikën e Shqipërisë”.
