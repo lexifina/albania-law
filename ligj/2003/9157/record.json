@@ -1,0 +1,31 @@
+{
+  "qbz_id": 2469,
+  "title": "PËR PËRGJIMIN E TELEKOMUNIKIMEVE",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9157",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-12-04",
+  "published": "2003-12-31",
+  "in_force": "2004-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/ba2153ffec63cff52d9bf7a00c726618dad8c155b39d5364442459c7cbfe1915.docx",
+  "source_sha256": "ba2153ffec63cff52d9bf7a00c726618dad8c155b39d5364442459c7cbfe1915",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2469",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/12/04/9157",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66822,
+    8920,
+    17745,
+    6362
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
