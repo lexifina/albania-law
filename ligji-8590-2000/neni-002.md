@@ -1,0 +1,2 @@
+# Neni 2
+Në “Marrëveshjen e koncensionit të formës “BOT” për Uzinën e Ferrokromit në Elbasan dhe për minierat e kromit të Prrenjasit e Pojskës, ndërmjet Ministrisë së Ekonomisë Publike dhe Privatizimit dhe Shoqërisë Italiane DARFO s.p.a., kjo e fundit, me cilësinë e palës koncensionare, nëpërmjet shoqërisë koncensionare të themeluar prej saj, për një afat kohor katërvjeçar, sipas marrëveshjes së koncensionit, përjashtohet nga detyrimet e taksës doganore edhe TVSH-ja për makineritë, linjat e pajisjet që do të përdoren për investime, sipas projektit.
