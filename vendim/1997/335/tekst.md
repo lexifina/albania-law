@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001)
 
 (I përditësuar)
 
@@ -130,6 +130,10 @@ Pas mbarimit të funksionit të tyre
 
 - Kancelari i Gjykatës së Lartë.
 
+-Avokati i Përgjithshëm i Shtetit;
+
+-Bashkëshorti/bashkëshortja e Avokatit të Përgjithshëm të Shtetit
+
 4. Me pasaportë shërbimi të pajiset kjo kategori personash:
 
 - Drejtori i Përgjithshëm i Institutit të Sigurimeve Shoqërore;
@@ -246,7 +250,9 @@ Pas mbarimit të funksionit të tyre
 
 - Drejtori i Drejtorisë së Përafrimit të legjslacionit shqiptar me atë të Bashkimit Europian.
 
-- Nënkryetarët e Këshillit Kombëtar të Punës
+- Nënkryetarët e Këshillit Kombëtar të Punës.
+
+- Sekretari i Përgjithshëm i Avokaturës së Shtetit.
 
 	5. Pas përfundimit të shërbimit, pasaportat e shërbimit duhet të depozitohen pranë drejtorive të personelit të ministrive dhe institucioneve.
 
