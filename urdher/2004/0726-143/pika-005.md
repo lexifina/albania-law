@@ -1,0 +1,1 @@
+5. Grupi i punës, brenda datës 15 gusht 2004, të paraqesë pranë kabinetit të Kryeministrit një raport të hollësishëm me propozimin konkret për përmirësimin e gjendjes së mjediseve të këtij universiteti.

@@ -1,0 +1,1 @@
+3. Titullarët e ministrive dhe institucioneve, të përcaktuara në pikën 2, të paraqesin te kryetari i i grupit të punës, brenda 5 ditëve nga hyrja në fuqi të këtij urdhri, emrat e përfaqësuesve të tyre.
