@@ -1,0 +1,29 @@
+{
+  "qbz_id": 1612,
+  "title": "Për kushtet e përfitimit, shumën dhe procedurën e dhënies së pensioneve të posaçme shtetërore dhe të shtesave të pensioneve të posaçme shtetërore",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "429",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-09-12",
+  "published": "2002-09-17",
+  "in_force": "2002-09-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9a5dd5f06a70dcc6c6e92f326eb6173246f7d326a36b2cfcff69f7cf11109b3b.docx",
+  "source_sha256": "9a5dd5f06a70dcc6c6e92f326eb6173246f7d326a36b2cfcff69f7cf11109b3b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1612",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/09/12/429",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26093,
+    12400
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
