@@ -1,0 +1,1 @@
+2. Ngarkohen Ministria e Rendit Publik, Ministria e Financave, Ministria e Punës dhe Çështjeve Sociale, Ministria e Punëve të Jashtme, Ministria e Drejtësisë, Ministria e Kulturës, Rinisë dhe Sporteve, Ministria e Arsimit dhe Shkencës, Ministri i Shtetit pranë Kryeministrit, Ministria e Shëndetësisë, Shërbimi Informativ Shtetëror për ndjekjen dhe zbatimin e kësaj strategjie.
