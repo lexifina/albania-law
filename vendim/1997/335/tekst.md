@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001; 152, datë 25.4.2002)
 
 (I përditësuar)
 
@@ -182,8 +182,6 @@ Pas mbarimit të funksionit të tyre
 
 - Kryetarët e partive politike që nuk përfaqësohen në Parlament ose në Qeveri;
 
-- Kryetarët e këshillave të rretheve dhe kryetarët e bashkive, si dhe personat e ngarkuar për marrëdhëniet me jashtë;
-
 - Zëvendësshefat e Shtabit të Përgjithshëm dhe Komandanti i Gardës së Republikës;
 
 - Shoferët e Presidentit të Republikës, kryetarit të Kryesisë së Kuvendit Popullor, Kryetarit të Këshillit të Ministrave e të anëtarëve të Qeverisë,  kryetarit të Gjykatës së Kasacionit, kryetarit të Gjykatës Kushtetuese, Prokurorit të Përgjthshëm, Guvernatorit të Bankës së Shqipërisë, kryetarit të Shërbimit Informativ  Kombëtar, Sekretarit të Përgjithshëm të Këshillit të Ministrave;
@@ -253,6 +251,10 @@ Pas mbarimit të funksionit të tyre
 - Nënkryetarët e Këshillit Kombëtar të Punës.
 
 - Sekretari i Përgjithshëm i Avokaturës së Shtetit.
+
+- Drejtori i marrëdhënieve me jashtë në Komisionin Qendror të Zgjedhjeve.
+
+- Kryetarët e këshillave të qarqeve dhe inspektorët e marrëdhënieve me jashtë në këto këshilla.
 
 	5. Pas përfundimit të shërbimit, pasaportat e shërbimit duhet të depozitohen pranë drejtorive të personelit të ministrive dhe institucioneve.
 
