@@ -1,0 +1,1 @@
+4. Pikat 1, 2 dhe 3 të përdoren nga Banka e Kursimeve gjatë vitit 1999, në zbatim të ligjit nr. 8030, datë 15.11.19995 “Për kontributin e shtetit për familjet e pastreha” dhe nga EKB-ja, në zbatim të vendimit të Këshillit të Ministrave nr. 90, dtë 25.2.1999 “Për vlerën e shitjes së apartamenteve, të financuara me fonde shtetërore nga Enti Kombëtar i Banesave”.
