@@ -1,0 +1,1 @@
+3. Lëvizja e familjeve që u janë përmbytur tokat nga ndërtimi i hidrocentralit, të realizohet duke filluar nga viti 2001 e ndarë proporcionalisht në vitet në vazhdim në varësi me fondet që do të përcaktohen në buxhetin e shtetit për vitet përkatëse.

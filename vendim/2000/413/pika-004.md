@@ -1,0 +1,1 @@
+4. Numri dhe radha e lëvizjes së familjeve në vite do të përcaktohet nga organet e qeverisjes vendore, në bashkëpunim me prefekturat, sipas planit të dërguar nga Ministria e Pushtetit Lokal, në përputhje me fondet e parashikuara në buxhet për vitin përkatës, duke u dhënë përparësi familjeve me gjendje më të vështirë ekonomike.

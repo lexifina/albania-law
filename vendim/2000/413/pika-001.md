@@ -1,0 +1,1 @@
+1. Familjeve, që u janë përmbytur tokat nga ndërtimi i hidrocentralit të Fierzës dhe që nuk dëshirojnë të lëvizin në një vendbanim tjetër, kur vërtetojmë, sipas ligjit pronësinë mbi tokën e përmbytur, u njihet e drejta e pjesëmarrjes në privatizimin e hidrocentralit, sipas legjislacionit në fuqi.
