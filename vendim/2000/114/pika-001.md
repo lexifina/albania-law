@@ -1,0 +1,1 @@
+1. Autorizohet shoqëria anonime “AMC” të prokurojë, me procedurën e prokurimit të drejtpëdrejtë, fondin prej 2 000 000 (dy milionë) lekësh, me shoqërinë Deloitte & Touche, për auditimin e kompanisë (revizionimin e llogarive të vitit 1999), në kuadër të privatizimit të saj.
