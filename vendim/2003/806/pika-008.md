@@ -1,0 +1,1 @@
+8. Ministria e Mjedisit mban regjistër të veçantë për kërkesat për importimin e mbetjeve, në të cilin shënohen kërkesa, emri i kërkuesit, lloji, sasia e mbetjes, destinacioni, miratimi ose refuzimi i saj.

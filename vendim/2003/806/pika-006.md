@@ -1,0 +1,1 @@
+6. Kur kërkesa pranohet, Ministria e Mjedisit harton projektvendimin për importimin e mbetjeve të kërkuara dhe ia dërgon për miratim Këshillit të Ministrave. Kur kërkesa refuzohet Ministria e Mjedisit harton projektvendimin që refuzon kërkesën.

@@ -1,0 +1,1 @@
+5. Ministria e Mjedisit, në bazë të studimit dhe të verifikimit në vend të veprimtarisë, jep mendimin për kërkesën dhe, brenda 20 ditëve nga regjistrimi i saj në protokoll, ia përcjell të gjitha dokumentet Këshillit të Ministrave.
