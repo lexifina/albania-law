@@ -1,0 +1,1 @@
+3. Ministri i Mbrojtjes kur mendohet për raste të dëmtimit të pronës, sipas pikës 1 të këtij vendimi, ngre menjëherë një grup pune për hartimin e procesverbaleve për vlerësimin e gjendjes dhe të dëmit.
