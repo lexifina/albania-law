@@ -1,0 +1,1 @@
+2. Me qëllim shmangien e konfuzionit në KQV dhe zhvillimin e procedurave të sakta dhe të shpejta, rekomandohet që, si rregull, anëtarëve të KQV-së, përfaqësuesve të subjekteve politike, apo kandidatëve, si dhe vëzhguesve vendas dhe të huaj që dëshirojnë të marrin një kopje të tabelave të rezultateve t’u jepet modeli 56 “Tabela e përgjithshme rezultateve”.

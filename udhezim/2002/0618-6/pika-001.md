@@ -1,0 +1,1 @@
+1. Tabelat e rezultateve model 54, 65 plotësohen nga KQV-ja, sipas procedurës së përcaktuar në nenin 106 të ligjit nr.8609, datë 8.5.2000 “Kodi Zgjedhor i Republikës së Shqipërisë” manualin e këtyre komisioneve dhe shënimet udhëzuese të çdo tabele.
