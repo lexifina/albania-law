@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Financave, që për fondin prej 13 000 000 (trembëdhjetë milionë) lekësh, të përdorë procedurën ”Kërkesë për kuotim”, me shoqëritë sipas listës që i bashkëlidhet këtij vendimi, për auditimin e projekteve të financuara nga Banka Botërore dhe grantet.
