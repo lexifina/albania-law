@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale në shumën 163 000 (njëqind e gjashtëdhjetë e tre mijë) lekë të përballohet nga buxheti i vitit 2002, miratuar për Bashkinë e Cërrikut, e cila të kryejë dhe pagesën e pronarëve të shpronësuar.
