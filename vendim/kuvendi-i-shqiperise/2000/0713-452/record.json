@@ -1,0 +1,26 @@
+{
+  "qbz_id": 263,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT ARBEN IMAMI MINISTËR TË DREJTËSISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "452",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-07-13",
+  "published": "2000-07-19",
+  "in_force": "2000-07-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6dfed3923c55b4176939a1e863826b10568856a557548eb2ec90293295d157e4.docx",
+  "source_sha256": "6dfed3923c55b4176939a1e863826b10568856a557548eb2ec90293295d157e4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/263",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/13/452",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
