@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123854,
+  "title": "PËR RUAJTJEN DHE SHOQËRIMIN E PERSONALITETEVE TË LARTA SHTETËRORE DHE TRAJTIMIN ME PAGË TË EFEKTIVAVE TË KËTYRE SHËRBIMEVE",
+  "type": "Vendim",
+  "number": "76",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-02-11",
+  "version_no": 1,
+  "qbz_version_id": 10876,
+  "in_force": "2002-09-12",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2002-09-12",
+  "changed_by_qbz_id": 1607,
+  "changed_by_number": "422",
+  "changed_by_title": "Për ruajtjen dhe shoqërimi e personaliteteve të larta shtetërore",
+  "source": "https://qbz.gov.al/files/94c1b779b10f5b1d3302d9cee680d641ad9ece309d558e2c2646e28d0b1b79d7.docx",
+  "source_sha256": "94c1b779b10f5b1d3302d9cee680d641ad9ece309d558e2c2646e28d0b1b79d7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123854",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123854/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
