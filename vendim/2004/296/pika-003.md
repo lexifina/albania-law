@@ -1,0 +1,12 @@
+3. Komiteti i Sigurisë së Aviacionit Civil të Aeroportit Ndërkombëtar ”Nënë Tereza” ka këto detyra dhe përgjegjësi:
+- Zhvillon, bashkërendon dhe zbaton masat e procedurat e sigurisë për Aeroportin Ndërkombëtar ”Nënë Tereza”;
+- Zhvillon dhe zbaton masat e sigurisë, në përputhje me programin kombëtar të sigurisë së aeroportit;
+- Zhvillon dhe zbaton masat e sigurisë, në përputhje me programin e sigurisë së aeroportit;
+- Zbaton standardet dhe rekomandimet ndërkombëtare, në përputhje me aneksin 17 (Siguria), Dok.8973 (Manuali i sigurisë), të ICAO-s, Dok.30 (Sigurisë) e ECAC (Konferenca Europiane e Aviacionit Civil) dhe me marrëveshjet ndërkombëtare, dy e shumëpalëshe;
+- Harton listën e zonave të dobëta për sigurinë në aeroport dhe bën azhurnimin e kësaj liste;
+- Garanton marrjen e masave të sigurisë dhe të procedurave bazë të përshtatshme, si në rastet e gjendjeve normale e emergjente, edhe në raste kërcënimesh;
+- Organizon vëzhgimin e sigurisë së aeroporteve në mënyrë periodike;
+- Vë në dijeni autoritetet përgjegjëse për sigurinë, për masat dhe procedurat e sigurisë për mbrojtjen e aeroportit dhe të shërbimeve të tjera që realizohen në të;
+- Harton kërkesat dhe nevojat për mbrojtjen e sigurisë në aeroport kur ato tejkalojnë mundësitë dhe kompetencat e këtij komiteti;
+- Organizon trajnimin e stafit të aeroportit për sigurinë;
+- Garanton zbatimin e planit të ndryshimeve për pajisjet dhe sistemin e kontrollit të sigurisë së aeroportit, gjatë punimeve për zgjerimin e këtij aeroporti.

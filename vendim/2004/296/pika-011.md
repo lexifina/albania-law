@@ -1,0 +1,1 @@
+11. Përfaqësuesi i subjekteve qiramarrëse të aeroportit zgjidhet me ratacion për një periudhë 6-mujore ndërmjet subjekteve qiramarrëse, që e zhvillojnë veprimtarinë e tyre në Aeroportin Ndërkombëtar ”Nënë Tereza”.
