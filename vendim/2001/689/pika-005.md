@@ -1,0 +1,1 @@
+5. Shpenzimet për realizimin e procedurave të shpronësimit dhe kompensimit të jenë në ngarkim të Komunës së Zall-Herrit, kërkuesit për shpronësim, në shumën 154 (njëqind e pesëdhjetë e katër mijë) lekë.
