@@ -1,0 +1,1 @@
+1. Numri limit i punonjësve të sektorit të mbledhjes së armëve, të municioneve e materialeve të tjera luftarake të jetë 30 veta dhe të përballohet nga numri limit i punonjësve, i miratuar për Ministrinë e Rendit Publik.
