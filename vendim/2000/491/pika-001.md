@@ -1,1 +1,0 @@
-1. Miratimin e procedurës së tenderimit, për shitjen e paketës së aksioneve, gjithsej 94 për qind, të zotëruara nga shteti, në “Birra Malto”, sh.a., Tiranë, dhe shpalljen fitues të tenderit të “Birra Peroni Industriale”, S.p.a.
