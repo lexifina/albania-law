@@ -1,0 +1,4 @@
+# Neni 17
+Organizmi me fuqi të ndjeshme në treg
+Enti Rregullator i Telekomunikacioneve përcakton nëse një operator është organizëm me fuqi të ndjeshme në treg. Një operator vlerësohet me fuqi të ndjeshme në treg nëse ai kontrollon 25 për qind të tregut të zonës gjeografike, ku ky organizëm është i autorizuar të veprojë.
+Enti Rregullator i Telekomunikacioneve mund të vlerësojë si organizëm me fuqi të ndjeshme në treg edhe një operator që zotëron më pak se 25 për qind të tregut përkatës, si dhe mund të mos ta vlerësojë si organizëm me fuqi të ndjeshme në treg, një operator që zotëron më shumë se 25 për qind të tregut përkatës. Në raste të tilla, në arritjen e këtyre përcaktimeve, Enti Rregullator i Telekomunikacioneve mban parasysh aftësinë e organizmit për të ndikuar në treg, të ardhurat e tij në raport me madhësinë e tregut, kontrollin mbi mjetet e aksesit të përdoruesit fundor dhe përvojën e operatorit në ofrimin e produkteve dhe të shërbimeve në treg.

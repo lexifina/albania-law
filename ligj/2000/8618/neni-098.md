@@ -1,0 +1,5 @@
+# Neni 98
+Vazhdimësia e funksionimit të Këshillit Drejtues të Entit Rregullator
+të Telekomunikacioneve
+Këshilli Drejtues i Entit Rregullator i Telekomunikacioneve, i emëruar sipas ligjit nr. 8288, datë 18.2.1998, “Për Entin Rregullator të Telekomunikacioneve”, vazhdon të funksionojë edhe pas hyrjes në fuqi të këtij ligji. Anëtarët e tij vazhdojnë të qendrojnë në detyrë brenda afatit të caktuar në mandatin e emërimit. Llogaritja e afatit të mandatit bëhet duke filluar nga data e emërimit të tyre.
+Vendimet dhe urdhrat e Entit Rregullator të Telekomunikacioneve ose të Ministrit dhe të gjitha licencat e lëshuara, në mbështetje të ligjit nr. 8038, datë 23.11.1995, “Për telekomunikacionet në Republikën e Shqipërisë”, të ligjit nr. 8287, datë 18.2.1998, “Për disa ndryshime në ligjin nr. 8038, datë 23.11.1995, ”Për telekomunikacionet në Republiken e Shqipërisë” ose të ligjit nr. 8288, datë 18.2.1998, “Për Entin Rregullator të Telekomunikacioneve”, mbeten në fuqi dhe veprojnë, pavarësisht nga shfuqizimi i këtyre ligjeve, deri në çastin e ndryshimit të tyre në përputhje me kërkesat e këtij ligji, por jo më vonë se 6 muaj nga hyrja në fuqi e këtij ligji.
