@@ -1,0 +1,2 @@
+2. Ngarkohet Ministria e Transportit së bashku me Ministrinë e Ekonomisë Publike dhe Privatizimit, Ministrinë e Bujqësisë dhe Ushqimit, Ministrinë e Punëve Publike, Ministrinë e Pushtetit Lokal, Ministrinë e Financave, Ministrinë e Mbrojtjes, Ministrinë e Rendit Publik dhe Ministrinë e Drejtësisë të negociojnë për përcaktimin e afateve të zbatimit të planit.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
