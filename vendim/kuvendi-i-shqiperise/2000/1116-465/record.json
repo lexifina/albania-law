@@ -1,0 +1,26 @@
+{
+  "qbz_id": 467,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT ILIR GJONI NË DETYRËN E MINISTRIT TË RENDIT PUBLIK",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "465",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-11-16",
+  "published": "2000-12-01",
+  "in_force": "2000-12-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e86e5ff9c335180cef2dc475d93f9926072acf1c729c8a84d3a92d84afc62d91.docx",
+  "source_sha256": "e86e5ff9c335180cef2dc475d93f9926072acf1c729c8a84d3a92d84afc62d91",
+  "official_record": "https://qbz.gov.al/api/v1/acts/467",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/11/16/465",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
