@@ -1,0 +1,1 @@
+3. Për të gjitha zyrat e tjera që mund të jenë dhënë me qera nga ish-këshilli i rrethit, do të vazhdojnë të zbatohen kontratat ekzistuese deri në fund të vitit nëse këto zyra i nevojiten këshillit të qarkut, ndërsa për rastet e tjera nuk do të përsëritet asnjë kontratë, pa dalë një akt i ri i Këshillit të Ministrave që është në proces miratimi.
