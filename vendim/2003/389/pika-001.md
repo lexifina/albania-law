@@ -1,0 +1,1 @@
+1. Specialistët dhe drejtuesit e njësive të kontrollit të brendshëm, që në kohën e hyrjes në fuqi të ligjit nr.9009, datë 13.2.2003, janë të punësuar dhe kanë një vjetërsi pune prej 4 vjetësh në këto struktura ose në Kontrollin e Lartë të Shtetit, marrin titullin e përkohshëm “Audit i brendshëm në sektorin publik”, sipas përcaktimeve të shkronjës “b” të nenit 13 të këtij ligji.
