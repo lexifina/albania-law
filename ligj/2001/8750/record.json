@@ -1,0 +1,29 @@
+{
+  "qbz_id": 700,
+  "title": "PËR PARANDALIMIN DHE LUFTËN NDAJ TRAFIKUT TË SUBSTANCAVE NARKOTIKE OSE PSIKOTROPE",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "8750",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-03-26",
+  "published": "2001-04-13",
+  "in_force": "2001-04-28",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/ff45ee008f91f6612f2965e3e4f401ee64d8f9d302440fef0ea5ba98023940a8.docx",
+  "source_sha256": "ff45ee008f91f6612f2965e3e4f401ee64d8f9d302440fef0ea5ba98023940a8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/700",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/03/26/8750",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    15792,
+    13036
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
