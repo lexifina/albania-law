@@ -1,0 +1,1 @@
+1. Lejimin e institucioneve buxhetore që, për fondet limit të miratuara në Buxhetin e Shtetit të vitit 2005, të përdorin procedurën “Prokurim i drejtpërdrejtë”, me INSIG sh.a.-në, për sigurimin e detyrueshëm (TPL) të mjeteve të tyre motorike për përgjegjësitë ndaj palëve të treta.
