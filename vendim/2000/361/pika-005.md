@@ -1,0 +1,1 @@
+5. Dokumentacioni financiar i veprimtarisë së huamarrjes së shoqërisë “Silva” sh.p.k., në administrim, t’i dorëzohen organit të prokurorisë, i cili në zbatim të Kodit të Procedurës Civile, të kërkojë në procesin gjyqësor ndaj ish administratorit, detyrim për kthim të shumave të pashlyera, sipas kontratave të kreditorëve.

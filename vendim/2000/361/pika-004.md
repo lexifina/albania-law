@@ -1,0 +1,1 @@
+4. Administratorët e përbashkët të shoqërisë “Silva” sh.p.k., në administrim, të bashkërendojnë punën me Zyrat e Përmbarimit Gjyqësor, për arkëtimin e vlerave financiare nga personat fizikë e juridikë të shpallur debitorë, dhe nga personat që kanë përfituar vlerat financiare nga transaksionet e pronësisë, për realizimin, në një periudhë të dytë, të një rikompensimi tjetër.
