@@ -1,0 +1,1 @@
+1. Fondet buxhetore, të dhëna për pagat dhe sigurimet shoqërore të sportistëve dhe trajnerëve të cilësisë së lartë sportive, të kalojnë në formën e grantit dhe të përdoren për financimin e cilësisë sportive.
