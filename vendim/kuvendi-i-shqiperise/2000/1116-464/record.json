@@ -1,0 +1,26 @@
+{
+  "qbz_id": 466,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR LIRIMIN E ZOTIT SPARTAK POÇI NGA DETYRA E MINISTRIT TË RENDIT PUBLIK",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "464",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-11-16",
+  "published": "2000-12-01",
+  "in_force": "2000-12-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/01109a39789bae480986c6a8a621df0298006f79c40e88652cf5a92d90692de5.docx",
+  "source_sha256": "01109a39789bae480986c6a8a621df0298006f79c40e88652cf5a92d90692de5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/466",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/11/16/464",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
