@@ -1,0 +1,1 @@
+1. Miratimin e amendamentit nr.1 të kontratës me ndarje prodhimi, ndërmjet Ministrisë së Ekonomisë dhe të shoqërive OMV (Albanien) Onshore Exploration GmbH dhe Helenic Petroleum s.a., për kërkimin dhe prodhimin e hidrokarbureve në blloqet 4 dhe 5 në tokën shqiptare, sipas tekstit që i bashkëlidhet këtij vendimi.
