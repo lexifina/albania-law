@@ -1,0 +1,1 @@
+9. Planet e inspektimit hartohen në mbështetje të programeve të bashkëpunimit me inspektoratet e tjera të degëve të industrisë, të shpërndarjes gjeografike të veprimtarive, të pajisura me leje mjedisore apo sipas shkallës së ndotjes, që paraqet secila veprimtari. Planet e inspektimit hartohen në nivel kombëtar dhe qarku. Planet në nivel qarku janë pjesë e planit kombëtar.
