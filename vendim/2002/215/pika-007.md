@@ -1,2 +1,1 @@
-7. Ngarkohen ministritë dhe institucionet e tjera qendrore të lartpërmendura për zbatimin e këtij vendimi.
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
+7.Anëtarëve të grupit negociator shqiptar t’u jepet një shpërblim deri në 50 000 (pesëdhjetë mijë) lekë në muaj, sipas përcaktimit të Ministrit të Shtetit për Integrimin, pasi të jetë bërë vlerësimi i veprimtarisë së tyre. Ky fond të përballohet nga buxheti vjetor, i miratuar për Këshillin e Ministrave.
