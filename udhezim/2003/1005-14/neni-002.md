@@ -1,0 +1,10 @@
+# Neni 2
+Komunikimi ndërmjet forcave të policisë dhe ushtrisë dhe KQZ-së
+a) Drejtori i Përgjithshëm i Policisë së Shtetit është i detyruar që për të gjithë kohëzgjatjen e periudhës zgjedhore të dorëzojë menjëherë në KQZ kopje të çdo urdhri për angazhimin e forcave të Policisë së Shtetit në zbatim të detyrave të tyre ligjore.
+b) Kur forcat komando dhe forcat e tjera të ushtrisë nevojiten gjatë periudhës zgjedhore për ruajtjen e objekteve të rëndësisë të veçantë ose në zëvendësim të punonjësve të policisë së objekteve, ato përdoren vetëm me urdhër me shkrim të Ministrit të Rendit Publik dhe Ministrit të Mbrojtjes. Kopje e urdhrit me shkrim i dërgohet menjëherë KQZ-së.
+c) Në rast se KQZ-ja vlerëson se veprimtaria e institucionit mund të dëmtojë ose ta pengojë administrimin ose zhvillimin e zgjedhjeve të lira, të drejta, demokratike dhe transparente, KQZ-ja informon menjëherë me shkrim institucionin përkatës.
+d) KQZ-ja i dërgon Drejtorit të Përgjithshëm të Policisë së Shtetit listën e plotë të objekteve zgjedhore dhe adresat e sakta të vendndodhjes së tyre.
+e) Drejtori i Përgjithshëm i Policisë së Shtetit është i detyruar t’i paraqesë KQZ-së listën e plotë të punonjësve të ngarkuar me detyra gjatë zgjedhjeve.
+f) Për secilin nga punonjësit e përfshirë në listë, duhet të përcaktohen me shkrim të dhënat personale (emri dhe mbiemri), grada që mban, vendvendosja e punonjësit gjatë periudhës së zgjedhjeve dhe në ditën e votimit, emri i eprorit të drejtpërdrejtë të tij, lloji i shërbimit të policisë ku bën pjesë, si dhe në mënyrë të detajuar rrethi i detyrave të ngarkuara.
+g) KZQV-të, për problemet që mund të lindin gjatë periudhës zgjedhore dhe që kanë të bëjnë me sjelljen dhe qëndrimin e punonjësve të veçantë të policisë, i drejtohen Drejtorit të Policisë së Qarkut ku ndodhet KZQV-ja dhe njëkohësisht lajmërojnë KQZ-në. KQZ, nga ana e saj, komunikon me Drejtorin e Përgjithshëm të Policisë së Shtetit.
+h) Drejtori i Përgjithshëm i Policisë është i detyruar të informojë menjëherë KQZ-në, për të gjitha ndryshimet që i shkaktohen listës ose të dhënave të përfshira në të.
