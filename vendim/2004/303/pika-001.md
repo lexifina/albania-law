@@ -1,0 +1,1 @@
+1. Ushtaraku i Forcave të Armatosura të Republikës së Shqipërisë, për gradimin e radhës sipas ligjit nr.9171, datë 22.1.2004 “Për gradat dhe karrierën ushtarake në Forcat e Armatosura të Republikës së Shqipërisë”, duhet të plotësojë edhe kriterin e njohjes së gjuhës angleze, të përcaktuar sipas standardeve të NATO-s “STANAG 6001”.
