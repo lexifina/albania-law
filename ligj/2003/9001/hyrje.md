@@ -1,0 +1,7 @@
+L I G J
+Nr.9001, datë 6.2.2003
+PËR RATIFIKIMIN E “PROGRAMIT TË VEPRIMIT RAJONAL “CARDS 2002” NDËRMJET QEVERISË SË REPUBLIKËS TË SHQIPËRISË DHE KOMISIONIT TË KOMUNITETIT EUROPIAN
+Në mbështetje të neneve 78, 81 pika 1, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+K U V E N D I
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
