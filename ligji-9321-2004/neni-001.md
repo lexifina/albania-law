@@ -1,0 +1,2 @@
+# Neni 1
+Të gjitha banesat, si dhe objektet ndërtimore të shndërruara në objekte banimi, që i kanë kaluar Entit Kombëtar të Banesave, të ndërtuara deri më 31.12.1999 dhe që janë në pronësi të shoqërive dhe ndërmarrjeve shtetërore, privatizohen për banorët aktualë të tyre, sipas kritereve të caktuara në ligjin nr.7652, datë 23.12.1992 “Për privatizimin e banesave shtetërore”, duke shumëzuar tarifën e privatizimit me indeksin e korrigjimit të çmimeve.

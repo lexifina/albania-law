@@ -1,0 +1,7 @@
+LIGJ
+Nr.9321, datë 25.11.2004
+PËR PRIVATIZIMIN E BANESAVE DHE OBJEKTEVE TË KTHYERA NË BANESA, TË NDËRTUARA ME FONDET E SHOQËRIVE DHE TË NDËRMARRJEVE SHTETËRORE
+Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e një grupi deputetësh,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
