@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1017,
+  "title": "PËR THIRRJEN E KUVENDIT TË REPUBLIKËS SË SHQIPËRISË",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "3079",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2001-08-29",
+  "published": "2001-09-17",
+  "in_force": "2001-09-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/23430b92c052a29726bf266aea28e37a2883612919dd90372e14e92cd5d7fe27.docx",
+  "source_sha256": "23430b92c052a29726bf266aea28e37a2883612919dd90372e14e92cd5d7fe27",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1017",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2001/08/29/3079",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
