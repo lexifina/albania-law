@@ -1,0 +1,1 @@
+3. Anëtarët e grupit negociator shqiptar janë përgjegjës për ndjekjen dhe bashkërendimin e detyrave në ministritë dhe institucionet e tjera qendrore përkatëse për realizimin e negociatave për Marrëveshjen e Stabilizim-Asociimit me Komisionin Europian dhe shtetet anëtare të Bashkimit Europian.

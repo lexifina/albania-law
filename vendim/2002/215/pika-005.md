@@ -1,0 +1,1 @@
+5. Anëtarëve të grupit negociator shqiptar u jepet një shpërblim mujor deri në 10 000 (dhjetë mijë ) lekë, fond i cili përballohet nga buxhetet vjetore të ministrive dhe institucioneve qendrore përkatëse. Masa e shpërblimit mujor përcaktohet me urdhër të ministrit apo të drejtuesve të institucionit qendror përkatës, me propozimin e Ministrit të Shtetit për Integrimin.

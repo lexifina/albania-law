@@ -1,0 +1,1 @@
+4. Ministri i Shtetit për Integrimin, në cilësinë e kryenegociatorit, nëpërmjet Departamentit të Integrimit në Këshillin e Ministrave, bashkërendon punën e institucioneve përgjegjëse për realizimin e detyrimeve, në kuadër të hapjes së negociatave dhe të nënshkrimit të Marrëveshjes së Stabilizim-Asociimit me Komisionin Europian dhe shtetet anëtare të Bashkimit Europian.
