@@ -1,0 +1,1 @@
+7. Pajisja me personel shërbimi e këtyre stacioneve të bëhet nga prefekti i qarkut, me propozimin e drejtorive përkatëse të këtyre objekteve dhe shefit të stacionit të PMNZSH-së së objektit, duke zbatuar kriteret e përcaktuara në ligjin nr. 8766, datë 5.4.2001 dhe aktet e tjera nënligjore në zbatim të tij.

@@ -1,0 +1,1 @@
+5. Drejtoritë e ndërmarrjeve Albtransport Rinas, Tiranë sh.a., Porti Detar Durrës, sh.a., KPTHN ”Armo”, Ballsh, sh.a., të plainifikojë fondet për investime në infrastrukturën e këtyre stacioneve dhe për pajisjen me teknikë, në përputhje me normat teknike dhe ato ndërkombëtare të pranuara.

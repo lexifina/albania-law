@@ -1,0 +1,1 @@
+3. Ministria e Pushtetit Vendor dhe Decentralizimit, prefektët e qarqeve Tiranë, Durrës e Fier, të bëjnë kalimin kapital të mjeteve themelore, si teknikën e pajisjet, inventarin e stacioneve të PMNZSh-së, të vendosura për funksionimin e këtyre objekteve.

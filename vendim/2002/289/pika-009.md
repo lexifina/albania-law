@@ -1,0 +1,1 @@
+9. Ngarkohen Ministria e Pushtetit Vendor dhe Decentralizimit, Ministria e Industrisë dhe Energjetikës dhe Ministria e Transportit dhe Telekomunikacionit të nxjerrin urdhrat administrative të nevojshme për zbatimin e këtij vendimi.
