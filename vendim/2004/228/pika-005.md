@@ -1,0 +1,1 @@
+5. Ministritë, institucionet qendrore dhe organet e pushtetit vendor komunikojnë zyrtarisht me përfaqësitë diplomatike të Republikës së Shqipërisë, të akredituara jashtë vendit, nëpërmjet Ministrisë së Punëve të Jashtme.

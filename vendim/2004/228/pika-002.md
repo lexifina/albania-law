@@ -1,0 +1,1 @@
+2. Ministrat, drejtuesit e institucioneve qendrore dhe të organeve të pushtetit vendor nuk bëjnë deklarata për probleme të rëndësishme, që kanë të bëjnë me zhvillimet kryesore në rajon apo vende të tjera, në kundërshtim me programin e qeverisë dhe politikën e ndjekur nga Ministria e Punëve të Jashtme.
