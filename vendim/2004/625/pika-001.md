@@ -1,0 +1,1 @@
+1. Punonjësit e shoqërisë “Transnafta” sh.p.k., Patos, që dalin të papunë, si pasojë e ristrukturimit të kësaj shoqërie, përfitojnë pagesë për një periudhë njëvjeçare, me pagë bruto mesatare mujore të vitit të fundit të punës.

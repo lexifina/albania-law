@@ -1,0 +1,1 @@
+3. Fondi prej 14 000 000 (katërmbëdhjetë milionë) lekësh, i nevojshëm për kryerjen e kësaj pagese, të përballohet nga fitimet e vitit 2003 “ARMO” sh.a., Fier. Ky fond t’i transferohet shoqërisë “Transnafta” sh.p.k., Patos, tek e cila të kryejë çdo muaj pagesën e punonjësve, që dalin të papunë nga ristrukturimi i saj.
