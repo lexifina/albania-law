@@ -1,0 +1,1 @@
+Shpallen pasuri kulturore:
