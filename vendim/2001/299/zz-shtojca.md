@@ -72,3 +72,45 @@ Totali
 257 748
 160
 41 239 680
+SIPËRFAQET E TROJEVE TË OBJEKTEVE PËR REGJISTRIM NË PRONËSI DHE SHOQËRIVE HUAMARRËSE DHE VLERA E TRUALLIT PËR PAGESË NË BUXHETIN E BASHKISË APO TË KOMUNËS
+Nr.
+Objektet
+Shoqëria në
+administrim
+Sipërfaqja e
+tokës në m2
+Çmimi i
+truallit në m2
+Vlera e
+truallit për lekë
+11.
+Objekti serra, Vlorë
+“Kamberi”
+30 000
+160
+4 800 000
+12.
+Magazinë ambalazhi në ish-ndërmarrjen ushqimore, Vlorë
+“Kamberi”
+3 250
+160
+520 000
+13.
+Ish-ndërmarrja e bonifikimit, Vlorë
+“Silva”
+12 500
+160
+2 000 000
+14.
+Ish-reparti i traktorëve me zinxhirë
+“Vefa Holding”
+2 995
+160
+479 200
+15.
+Ish-reparti i restaurimit
+të traktorëve N.M. bujqësore
+”Vefa Holding”
+663
+160
+106 080
