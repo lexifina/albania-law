@@ -1,8 +1,12 @@
 V E N D i M
 
-Nr.372, datë 27.5.2001
+Nr. 372, datë 27.5.2001
 
 Për fillimin e procesit të privatizimit e të ristrukturimit dhe për përcaktimin e formës e të strukturës së formulës së privatizimit të shoqërisë anonime “Servcom” Fier
+
+(Ndryshuar me VKM nr. 243, datë 24.4.2003)
+
+(I përditësuar)
 
 Në mbështjetje të nenit 100 të Kushtetutës, të neneve 6, 7, 8, 9 dhe 12 të ligjit nr.8306, datë 14.3.1998 “Për strategjinë e privatizimit të sektorëve me rëndësi të veçantë”, të nenit 2 të ligjit nr.8707, datë 1.12.2000 “Për privatizimin e shoqërisë anonime “Servcom”, të neneve 21 dhe 27 të ligjit nr.8379, datë 29.7.1998 “Për hartimin dhe zbatimin e Buxhetit të Shtetit në Republikën e Shqipërisë” dhe të nenit 7 të ligjit 8718, datë 19.12.2000 “Për Buxhetin e Shtetit të vitit 2001”, me propozimin e Ministrit të Ekonomisë Publike dhe Privatizimit, Këshilli i Ministrave
 
@@ -22,7 +26,9 @@ b) Jo më shumë se 20 për qind e aksioneve të kapitalit t’u ofrohet punonj�
 
 c) Ish-pronarëve të truallit t’u ofrohen aksione sipas vlerës së përfshirë në kapitalin e shoqërisë, në mbështetje të akteve ligjore e nënligjore në fuqi.
 
-5. Formula e privatizimit të aksioneve të kapitalit të shoqërisë dhe madhësia e paketave respektive përcaktohet me urdhër të Ministrit të Ekonomisë Publike dhe Privatizimit.
+ç) Në ndryshim nga procedurat e përcaktuara në kapitullin I, shkronja B dhe C të vendimit nr.119, datë 18.3.2000 të Këshillit të Ministrave “Për procedurat e privatizimit me ankand të paketave shtetërore të aksioneve të shoqërive tregtare, që veprojnë në sektorët jostrategjikë”, transferimi i paketave të aksioneve të kapitalit themeltar të shoqërisë për punonjësit dhe ish-pronarët e truallit të fillojë pas realizimit të shitjes me tender të paketës së aksioneve.
+
+5. Formula e privatizimit të aksioneve të kapitalit të shoqërisë dhe madhësia e paketave respektive përcaktohet me urdhër të Ministrit të Ekonomisë.
 
 6. Punonjësit që dalin të tepërt nga procesi i ristrukturimit dhe i privatizimit të shoqërisë të cilët deri më datën 30.12.2000 kanë qenë në marrëdhënie pune, të trajtohen për 1 (një) vit me pagën bazë. Shpenzimet që nevojiten për pagat e këtyre punonjësve, të përballohen nga të ardhurat e privatizimit të kësaj shoqërie.
 
@@ -34,7 +40,7 @@ c) Ish-pronarëve të truallit t’u ofrohen aksione sipas vlerës së përfshir
 
 10. Pagesa e punonjësve që dalin tepër nga zbatimi i këtij vendimi të bëhet nga zyrat e punësimit në rrethet përkatëse, pas transferimit të fondit financiar nga “Servcom” sh.a.
 
-11. Ngarkohen Ministria e Ekonomisë Publike dhe Privatizimit, Ministria e Punës dhe Çështjeve Sociale dhe Ministria e Financave për nxjerrjen e udhëzimit përkatës dhe për zbatimin e këtij vendimi.
+11. Ngarkohen Ministria e Ekonomisë, Ministria e Industrisë  dhe e Energjetikës, Ministria e Punës dhe Çështjeve Sociale dhe Ministria e Financave për nxjerrjen e udhëzimit përkatës dhe për zbatimin e këtij vendimi.
 
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 
