@@ -1,0 +1,7 @@
+LIGJ
+Nr. 8683, datë 7.11.2000
+PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR.6, DATË 31.10.2000, “PËR PËRBALLIMIN E GJENDJES HIDROENERGJETIKE Në VEND”
+Në mbështetje të neneve 78 dhe 101 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
