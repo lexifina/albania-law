@@ -1,0 +1,1 @@
+5. Kur ushtaraku aktiv dërgohet me shërbim jashtë venddislokimit të komandës ose kur vjen në atdhe, por në shtetin ku kryen detyrën ka lënë bashkëshorten dhe fëmijët, këta të fundit marrin 100 për qind të alokacionit.

@@ -1,0 +1,4 @@
+14. Ushtaraku aktiv ka të drejtë të marrë shpenzime udhëtimi, akomodimi dhe dietë në valutë të huaj, sipas legjislacionit në fuqi, kur nga drejtuesi emërohet në detyrë, thirret në atdhe ose dërgohet me shërbim në një shtet tjetër, kthehet në atdhe në përfundim të misionit, si dhe dërgohet me shërbim për nevoja pune nga autoritete drejtuese të NATO-s.
+Për rastet e parashikuara në pikën 14 të këtij vendimi, personeli oficer i misionit dhe personeli nënoficer marrin dietën e kategorisë së tretë. Kur ushtaraku shoqërohet nga bashkëshortja, edhe kjo e fundit merr dietën e kategorisë së tretë.
+III. Ngarkohen Ministria e Mbrojtjes, Ministria e Punëve të Jashtme dhe Ministria e Financave, që brenda 30 ditëve pas hyrjes në fuqi, të nxjerrim udhëzimin e përbashkët për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
