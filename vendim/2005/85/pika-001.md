@@ -1,0 +1,1 @@
+1. Fillimin e procedurës së dhënies me koncesion, të formës “BOO” (Ndërtim-pronësi-shfrytëzim), të një sipërfaqeje prej 16 ha, përreth fabrikës së çimentos, Fushë-Krujë, shoqërisë “Fushë-Krujë Cement Factory” sh.p.k., si propozim i pakërkuar, sipas planimetrisë, që i bashkëlidhet këtij vendimi.
