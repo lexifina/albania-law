@@ -1,0 +1,1 @@
+2. Punonjësit, të cilët mbeten pa punë, sipas listës që i bashkëlidhet vendimit, nga likuidimi administrativ i ndërmarrjes “Fonderia e uzinës mekanike”, Tiranë, për shkak të ndërtimit në territorin e saj të Gjykatës së Tiranës, do të marrin pagën mesatare vjetore (të vitit 1999) për një periudhë njëvjeçare duke filluar nga data e likuidimit të ndërmarrjes.

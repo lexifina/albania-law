@@ -1,0 +1,1 @@
+4. Ministrisë së Punës dhe Çështjeve Sociale, në buxhetin e miratuar për vitin 2000, i shtohet fondi përkatës për pagesën e papunësisë, në masën prej 2, 085 milionë lekësh. Ky fond të përballohet nga fondi rezervë i Këshillit të Ministrave.

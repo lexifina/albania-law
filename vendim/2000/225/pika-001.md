@@ -1,0 +1,1 @@
+1. Organi i pushtetit vendor, që ka të drejtën e përfaqësuesit të pronarit për pronën shtetërore, të përfundojë procedurat administrative, për likuidimin, në rrugë administrative, të ndërmarrjes “Fonderia e uzinës mekanike”, Tiranë.

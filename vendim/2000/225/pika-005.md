@@ -1,0 +1,1 @@
+5. Periudha e pagesës së punonjësve, sipas këtij vendimi, të llogaritet si vjetërsi pune për efekt pensioni dhe të shënohet si e tillë në librezën e punës. Për punonjësit e trajtuar sipas këtij vendimi të derdhen të gjitha kontributet, siç përcaktohet në ligjin nr.7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë“.
