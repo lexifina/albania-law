@@ -1,0 +1,1 @@
+3. Enti prokurues të përdorë “Kërkesën për kuotim”, në përputhje me nenet 22 dhe 40 të ligjit të sipërpërmendur, kur vlera e përllogaritur e kontratës të jetë jo më e madhe se 2 (dy) milionë lekë për prokurimin e ndërtimeve, 1 (një) milionë lekë për mallrat dhe 500 000 (pesëqind mijë) lekë për prokurimin e shërbimeve.

@@ -1,0 +1,1 @@
+14. Enti prokurues duhet të ruajë dhe të vërë në dispozicion të organeve të kontrollit regjistrin e prokurimeve, procesverbalet dhe dokumentacionin e plotë të të gjitha prokurimeve të kryera. Ruajtja e këtij dokumentacioni të bëhet në përputhje me afatet e përcaktura në ligjin “Për arkivat”.
