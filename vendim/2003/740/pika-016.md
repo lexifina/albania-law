@@ -1,0 +1,1 @@
+16. Shpenzimet e votimit, përfshirë edhe shpërblimin e anëtarëve të komisionit të votimit përballohen nga punëdhënësi. Shpërblimi i anëtarëve të komisionit është të paktën sa paga ditore e tyre, shumëzuar me ditët e pjesëmarrjes në komisionin e votimit, të vërtetuara nga kryetari i komisionit.

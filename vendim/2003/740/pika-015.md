@@ -1,0 +1,1 @@
+15. Kur organizata punëmarrëse, pjesëmarrëse në votim, kundërshton rezultatet e votimit, ajo ka të drejtë të ankohet në gjykatën e rrethit gjyqësor përkatës, brenda 5 ditëve nga shpallja e rezultateve të votimit.

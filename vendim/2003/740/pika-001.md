@@ -1,0 +1,1 @@
+1. Punëdhënësi ose organizata e punëdhënësve, kur nuk e pranon vendimin e zyrës së pajtimit, ka të drejtë t’i kërkojë Ministrit të Punës dhe të Çështjeve Sociale organizimin e votimit të fshehtë për përcaktimin e përfaqësueshmërisë së organizatës ose organizatave të punëmarrësve.

@@ -1,0 +1,1 @@
+14. Rezultatet e votimit shpallen 24 orë pas përfundimit të votimit, nga kryetari i komisionit të votimit. Organizata ose grupi i organizatave të punëmarrësve, që fiton shumicën e votave në krahasim me organizatat ose grupin e organizatave, pjesëmarrëse në votim, konsiderohet më e përfaqësuara.
