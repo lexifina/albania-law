@@ -6,7 +6,7 @@ Vendimet e KZQV-së merren vetëm për:
 - shtim në listën përkatëse;
 - korrigjim të të dhënave të zgjedhësve;
 - rrëzim kërkese.
-Procesi i rishikimit të listave paraprake fillon me shpalljen e tyre dhe përfundon 23 ditë para ditës së zgjedhjeve.
+Procesi i rishikimit të listave paraprake fillon me shpalljen e tyre dhe përfundon tri javë para datës së zgjedhjeve.
 ii) Për çdo njësi bashkiake të Tiranës dhe lagje administrative të bashkive që kanë të tilla, ngrihet një Qendër e Rishikimit të Listave të Zgjedhësve (QRLZ). Çdo QRLZ përbëhet nga dy punonjës. Për emërimin e tyre vendos KZQV-ja përkatëse me propozim të bërë një nga kryetari dhe tjetri nga zv.kryetari i saj. Punonjësit e QRLZ-së duhet të kenë të paktën arsim të mesëm.
 QRLZ-ja pajiset me një kopje të listës model 2 të bashkisë përkatëse dhe materiale të tjera të nevojshme.
 QRLZ-ja ndihmon KZQV-në:
