@@ -1,0 +1,26 @@
+{
+  "qbz_id": 60789,
+  "title": "Për një shtesë në vendimin nr.390, datë 15.8.2002 të Këshillit të Ministrave “Për ruajtjen dhe sigurimin e disa objekteve shtetërore”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "789",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-11-26",
+  "published": "2004-12-14",
+  "in_force": "2004-12-14",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d08f290208a2cb585caac200a12f559248f6085b1aad8aa15d8190a5824c32c7.docx",
+  "source_sha256": "d08f290208a2cb585caac200a12f559248f6085b1aad8aa15d8190a5824c32c7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60789",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/11/26/789",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
