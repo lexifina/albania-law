@@ -1,0 +1,28 @@
+{
+  "qbz_id": 266,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN E KËSHILLIT TË MINISTRAVE NR.190, DATË 3.5.1995, “PËR ZBATIMIN E LIGJIT NR.7874, DATË 17.11.1994 “PËR STATUSIN E VETERANIT TË LUFTËS ANTIFASHISTE NACIONALÇLIRIMTARE TË POPULLIT SHQIPTAR””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "353",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-07-07",
+  "published": "2000-07-19",
+  "in_force": "2000-07-19",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e6a7c2da1a4790b84b574608e9a3f8c7421be91d11735da85935036a70b56971.docx",
+  "source_sha256": "e6a7c2da1a4790b84b574608e9a3f8c7421be91d11735da85935036a70b56971",
+  "official_record": "https://qbz.gov.al/api/v1/acts/266",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/07/353",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    675
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
