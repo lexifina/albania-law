@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Prefektit të Qarkut të Tiranës të magazinës nr.7, e cila është në përdorim të Drejtorisë së Përgjithshme të Rezervave të Shtetit, Agjencia Kavajë, sipas planvendosjes dhe planimetrisë që i bashkëlidhen këtij vendimi, për ta përdorur si stacion të PMNZSH-së për rrethin e Kavajës.
