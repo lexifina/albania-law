@@ -1,0 +1,1 @@
+2. Shpërblimi të bëhet sipas vendimit nr. 807, datë 24.12.1998, Këshllit të Ministrave “Për shpërblimin e anëtarëve të komisionit të deklarimit të pasurive të të zgjedhurve dhe të disa drejtuesve e punonjësve të shërbimit publik”, me ndryshimet përkatëse.

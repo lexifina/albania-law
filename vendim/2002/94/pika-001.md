@@ -1,0 +1,1 @@
+1. Kuvendit të Republikës së Shqipërisë, në buxhetin e miratuar për vitin 2002, t’i shtohet fondi prej 1 980 000 (një milion e nëntëqindetetëdhjetë mijë) lekësh, për shpërblimin e anëtarëve të Komisionit të deklarimit të pasurive të të zgjedhurve dhe të disa drejtuesve e punonjësve të shërbimit publik, për vitet 2001 dhe 2002.
