@@ -1,0 +1,1 @@
+5. Veprimtaria, funksionimi, procedurat e emërimit dhe detyrat organizative të këtyre përcaktohen me udhëzim të përbashkët të Ministrit të Rregullimit të Territorit dhe Turizmit dhe të Ministrit të Pushtetit Vendor dhe Decentralizimit.

@@ -1,0 +1,1 @@
+6. Përjashtimisht, për vitin 2002, efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i vitit 2002, miratuar për Ministrinë e Rregullimit të Territorit dhe Turizmit.
