@@ -1,0 +1,3 @@
+1.Listat paraprake te zgjedhësve
+Për zgjedhjet për Kuvendin e Shqipërisë të qershorit 2001, partive politike, me kërkesën e tyre, iu vihet ne dispozicion një kopje e listës paraprake të zgjedhësve kundrejt pagesës së kostos së prodhimit. Bashklidhur kërkesës, duhet të jetë edhe urdhërpagesa e konfirmuar nga dega e thesarit Tiranë, për xhirimin në favor të KQZ-së të shumës përkatëse të mandatpagesës së lëshuar nga Drejtori i Regjistrit Kombëtar të Zgjedhësve.
+Partita Socialiste dhe Partia Demokratike mund ta tërheqin kopjen e listës paraprake, sipas mënyrës së përcaktuar në paragrafin e mësipërm, brenda datës 25.4.2001.
