@@ -1,0 +1,1 @@
+3. Ministria e Mbrojtjes, nëpërmjet ndërmarrjes shtetërore “MEICO”, të hartojë, për këtë fond të konvertuar në USD, kontratën dypalëshe me shoqërinë “Augusta”, SpA, për realizimin e qëllimit të përcaktuar në pikën 1 të këtij vendimi.
