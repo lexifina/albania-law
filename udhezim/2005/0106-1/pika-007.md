@@ -1,0 +1,2 @@
+7. Të dhënat e mbledhura e të përpunuara sipas procedurave të përcaktuara në këtë udhëzim, do të përdoren nga njësitë e qeverisjes vendore në procesin e hartimit të kërkesës për përfshirjen e zonave të zëna nga ndërtimet e banesave pa leje në procesin e urbanizimit dhe të legalizimit, sipas përcaktimit të shkronjës b të nenit 8 të ligjit nr.9304, datë 28.10.2004.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare
