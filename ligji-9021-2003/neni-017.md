@@ -1,0 +1,5 @@
+# Neni 17
+Ndryshimi i Konventës
+1. Një takim i jashtëzakonshëm i Konferencës së Palëve duhet të thërritet nga Sekretariati me kërkesë të shkruar prej të paktën 1/3 së Palëve për të shqyrtuar dhe miratuar ndryshimet për Konventën në fjalë. Këto ndryshime duhet të miratohen prej 2/3 së Palëve që janë prezente dhe votojnë. Për këtë qëllim “Palë prezente dhe që votojnë” kuptohen Palët që marrin pjesë dhe japin një votë pozitive ose negative në takim. Palët që abstenojnë votimin nuk do të numërohen në 2/3 e kërkuara për miratimin e një ndryshimi.
+2. Teksti i një ndryshimi të propozuar duhet të komunikohet prej Sekretariatit tek të gjitha Palët të paktën 90 ditë përpara takimit.
+3. Një ndryshim do të hyjë në fuqi për Palët që e kanë pranuar atë 60 ditë pasi 2/3 e Palëve kanë depozituar një instrument të pranimit të ndryshimit te Qeveria Depozituese. Për më tej, ndryshimi do të hyjë në fuqi për ndonjë Palë tjetër 60 ditë pasi kjo Palë depoziton instrumentin e saj për pranimin e ndryshimit të bërë.
