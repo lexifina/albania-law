@@ -1,1 +1,0 @@
-6. Albtelecom sh.a., të zbatojë zbritje në pagesat e përdoruesve në masën 2.5 për qind kur shuma në faturën mujore të jetë mbi 1 500 lekë, për përdoruesit e kategorisë “Familjarë”, dhe mbi 15 000 lekë për përdoruesit e kategorisë “Të tjerë”.

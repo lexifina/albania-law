@@ -1,1 +1,0 @@
-3. Rregullimi i tarifave në përputhje me këtë vendim të bëhet për aq kohë sa Albtelecom sh.a.-ja të cilësohet organizëm me fuqi të ndjeshme në treg. Tarifat e reja të hyjnë në fuqi në fillim të çdo viti kalendarik. Për vitin 2001 ndryshimi i tarifave të bëhet në datën 1 gusht.
