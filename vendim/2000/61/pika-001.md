@@ -1,0 +1,1 @@
+1. Miratimin e programit të ristrukturimit dhe të përgatitjes për privatizim të shoqërisë anonime “Instituti i Sigurimeve”, që i bashkëlidhet këtij vendimi, me qëllim fillimin e procedurave ligjore të privatizimit të kësaj shoqërie në vitin 2001.
