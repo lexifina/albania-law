@@ -1,0 +1,1 @@
+1. Drejtoritë e personelit në institucionet e administratës qendrore përgatisin planin e nevojave për pranimet në shërbimin civil për vitin e ardhshëm deri në datën 31 korrik të çdo viti dhe e paraqesin atë në Departamentin e Administratës Publike deri në datën 1 tetor.

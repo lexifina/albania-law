@@ -1,0 +1,1 @@
+13. Në fillim të çdo procedure konkurimi anëtarët e komitetit ad hoc zgjedhin kryetar njërin nga dy përfaqësuesit e institucionit të vendit të lirë. Komiteti ad hoc merr vendime në praninë e të gjithë anëtarëve.

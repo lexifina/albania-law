@@ -1,0 +1,1 @@
+14. Personat e përcaktuar në shkronjën ”b”, të pikës 11 të këtij vendimi, shpërblehen me 10 për qind të pagës së drejtorit të Departamentit të Administratës Publike. Të gjitha shpenzimet përballohen nga buxheti i institucionit që ka vendin e lirë.

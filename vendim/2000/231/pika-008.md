@@ -1,0 +1,1 @@
+8. Departamenti i Administratës Publike bën verifikimin paraprak të kandidatëve, të cilët, në bazë të fotokopjeve të dokumenteve të paraqitura, përmbushin kërkesat, e përgjithshme dhe të veçanta, të përcaktuara në shpalljen e konkursit. Në institucionet e pavarura përzgjedhja paraprake bëhet nga departamenti, drejtoria, seksioni apo zyra e personelit.

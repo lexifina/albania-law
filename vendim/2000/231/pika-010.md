@@ -1,0 +1,2 @@
+10. Brenda dy ditëve nga shpallja e listave, personat e interesuar mund të paraqesin ankesat në Departamentin e Administratës Publike, për institucionet e adminstratës qendrore, ose në departamentin, drejtorinë, seksionin apo zyrën e personelit, për institucionet e pavarura. Ankesat zgjidhen brenda 3 ditëve nga depozitimi i tyre. Paraqitja e ankesave të mësipërme nuk prek të drejtën e ankimit, sipas pikës 22 të këtij vendimi.
+Testimi

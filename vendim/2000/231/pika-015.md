@@ -1,0 +1,1 @@
+15. Departamenti i Administratës Publike, për institucionet e administratës qendrore, ose departamenti, drejtoria, seksioni apo zyra e personelit, për institucionet e pavarura, i paraqet komitetit ad hoc listën e kandidatëve, të cilët do të marrin pjesë në testim

@@ -1,0 +1,1 @@
+20. Departamenti i Administratës Publike, për institucionet e administratës qendrore, ose departamenti, drejtoria, seksioni apo zyrat e personelit, për institucionet e pavarura, brenda 4 ditëve boton rezultatet e konkurimit, në dy gazetat me qarkullim më të madh kombëtar.
