@@ -1,0 +1,1 @@
+1. Fillimin e procedurës së dhënies me koncesion të formës “BOO”, (ndërtim-pronësi-shfrytëzim), për ndërtimin e hidrocentralit të Bratilës, mbi lumin Devoll, shoqërisë islandeze “LANDSVIRKJUN”, si propozim i pakërkuar.
