@@ -1,0 +1,1 @@
+3. Personat, juridikë dhe fizikë, prodhues dhe përdorues, janë të detyruar të njohin, të respektojnë dhe të pajisin me rregulloren e sigurimit teknik dhe të mbrojtjes nga zjarri, për çdo objekt që vlerësohet i rrezikshëm për punëmarrësit.

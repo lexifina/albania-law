@@ -1,0 +1,1 @@
+5. Për të gjitha makineritë dhe vendet e reja të punës, para vënies së tyre në shfrytëzim, duhet të hartohen dhe të vendosen rregullat e sigurimit dhe ato të shfrytëzimit, për të cilat punëmarrësit duhet të kenë udhëzim të plotë.
