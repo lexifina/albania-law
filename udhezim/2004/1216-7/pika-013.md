@@ -1,0 +1,1 @@
+13. Varrezat publike duhet të rrethohen gjatë gjithë perimetrit nga një mur rrethues ose nga një rrethim tjetër i përshtatshëm, që duhet të ketë një lartësi jo më të vogël se 2.5 deri 4 m nga sipërfaqja e tokës jashtë rrethimit. Kur terreni është i thyer të ndërtohen mure mbajtës dhe pritës.

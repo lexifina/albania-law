@@ -1,0 +1,1 @@
+9. Ndërtimi i zyrave administrative apo objekteve higjieno-sanitare, parashikohet në pozicionet e hyrjes kryesore të varrezave, madhësia e të cilave varet nga numri i punonjësve dhe dimensionet e varrezave. Pranë çdo varreze të ndërtohen objekte higjienike për publikun, të ndara sipas seksit, në një pozicion të përshtatshëm të varrezave.

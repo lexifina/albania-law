@@ -1,0 +1,1 @@
+11. Toka e varrezave duhet të jetë e pajisur në mënyrë të mjaftueshme me kanale sipërfaqësore për heqjen e shpejtë të ujërave të shiut dhe aty ku është e nevojshme me drenazhim, mjaft që ky drenazhim të mos sjellë një tharje të tepërt të tokës.

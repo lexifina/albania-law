@@ -1,0 +1,1 @@
+7. Në përcaktimin e sipërfaqes së tokës të destinuar për fushë varrimi, duhet të merren parasysh edhe varrimet që do të kryhen si pasojë e zhvarrimeve, si dhe mundësia e ngjarjeve të jashtëzakonshme, të cilat mund të kërkojnë një numër të madh varrimesh.

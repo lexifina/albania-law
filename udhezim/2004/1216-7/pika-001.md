@@ -1,0 +1,1 @@
+1. Në planet rregulluese të qendrave të banuara të përfshihet edhe projekti për ndërtimin e varrezave, sipas përcaktimeve të bëra në rregulloren e urbanistikës të miratuar me vendimin nr.722, datë 19.11.1998 të Këshillit të Ministrave “Për miratimin e rregullores së urbanistikës”.
