@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2208,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR SHKARKIMIN NGA DETYRA TË MINISTRIT TË INTEGRIMIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "84",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-07-28",
+  "published": "2003-08-08",
+  "in_force": "2003-08-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/798e27bac5ef78921ba8c807988a3ecf40369232935198afe3703cd5fb347416.docx",
+  "source_sha256": "798e27bac5ef78921ba8c807988a3ecf40369232935198afe3703cd5fb347416",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2208",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/07/28/84",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
