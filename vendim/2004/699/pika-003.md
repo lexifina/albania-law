@@ -1,0 +1,1 @@
+3. Këshillat e rregullimit të territorit të miratojnë lejet e ndërtimit, vetëm pasi të jetë parashikuar plotësimi i normave dhe kushtet teknike të mbrojtjes nga zjarri, në përputhje me rregullat teknike, të miratuara në këtë vendim.

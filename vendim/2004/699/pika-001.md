@@ -1,0 +1,1 @@
+1. Miratimin e rregullave teknike për mbrojtjen nga zjarri dhe për shpëtimin në konstruksionet dhe ndërtimet që shërbejnë për veprimtari akomoduese turistike, sipas tekstit, që i bashkëlidhet këtij vendimi.

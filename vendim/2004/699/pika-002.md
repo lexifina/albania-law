@@ -1,0 +1,1 @@
+2. Personat fizikë ose juridikë, që hartojnë projekte për ndërtimin e objekteve, publike ose private, të zbatojnë rregullat teknike për mbrojtjen nga zjarri dhe për shpëtimin, të miratuara sipas këtij vendimi.
