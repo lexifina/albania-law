@@ -1,0 +1,1 @@
+4. Ministrisë së Pushtetit Vendor dhe Decentralizimit, në buxhetin e miratuar për vitin 2002, zëri “Investime”, t’i shtohet fondi prej 10 660 000 lekësh, i cili i pakësohet buxhetit të vitit 2002, zëri “Investime”, miratuar për Ministrinë e Rregullimit të Territorit dhe Turizmit.

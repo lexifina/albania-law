@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale, në shumën prej 112 000 (njëqind e dymbëdhjetë mijë) lekësh, të përballohet nga buxheti i vitit 2002, miratuar për Bashkinë e Beratit, e cila do të kryejë edhe pagesën e pronarëve të shpronësuar.
