@@ -263,6 +263,89 @@ SSH 306:1987
 34
 SSH 903:1987
 Çizme gome (pa llustër)
+IV. Produkte kimike
+Emërtimi
+Standard me kërkesat themelore
+35. Acid nitrik teknik
+STASH 1305-88
+Përmbajtja e HNO3 në %
+Përmbajtja e metaleve të rënda në %
+36. Acid sulfurik teknik
+1305-88
+Përmbajtja e H2SO4 në %
+Përmbajtja e metaleve të rënda në %
+Përmbajtja e arsenikut në %
+37. Acid klorhidrik teknik
+1307-88
+Përmbajtja e HCL në %
+Përmbajtja e metaleve të rënda në %
+Përmbajtja e arsenikut në %
+38. Ujë amoniakal
+1582-89
+Përmbajtja e NH4OH në %
+Përmbajtja e arsenikut në %
+39. Karbonat natriumi teknik
+1310-97
+Vetëm përmbajtja e lëndëve të patretshme
+40. Sodë kaustike teknike
+1311-87
+Përmbajtja e NaOH në %
+Përmbajtja e oksidit të hekurit
+41. Sapun tualet
+2162-88
+Alkaliniteti i lirë në %
+Kloruret në %
+42. Sapun rrobash
+1513-87
+Alkaliniteti i lirë në %
+Kloruret në %
+43. Pluhur larës
+1357-93
+pH
+Përmbajtja e fosfateve në %
+44. Tretësira për larje rrobash
+2898-87
+pH
+Përmbajtja e fosfateve në %
+46. Sulfat bakri teknik
+1374-88
+Përmbajtja e plumbit në %
+Përmbajtja e arsenikut në %
+47. Sulfat magnezi teknik
+1312-87
+Përmbajtja e lëndëve të patretshme në %
+48. Bojë shkrimi
+2273-87
+Përmbajtja e lëndës së thatë në %
+49. Qiri dhe parafinë
+2166-88
+Përcaktimi i pikës së shkrirjes
+50. Shampo
+3959-87
+pH
+Densiteti
+51. Pastë dhëmbësh
+1639-87
+pH
+Përmbajtja e kalciumit në %
+52. Bojë vaji, bojë zmalto
+916-87
+Fuqia mbuluese
+53. Bojë muresh
+921-87
+Përmbajtja e lëndëve të patretshme në ujë në %
+54. Letër ofset
+896-88
+Përmbajtja e hirit në %
+55. Letër gazete
+895-88
+Përmbajtja e hirit në %
+56. Letër tipografike
+2640-89
+Përmbajtja e hirit në %
+57. Letër shkrimi
+894-88
+Përmbajtja e hirit në %
 V. Industria mekanike dhe e drurit
 Makineritë metalprerëse
 VI. Pajisje nën presion
