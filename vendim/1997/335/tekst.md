@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000)
 
 (I përditësuar)
 
@@ -125,6 +125,10 @@ Pas mbarimit të funksionit të tyre
  - Anëtarët e Komisionit Qendror të Zgjedhjeve.
 
  - Bashkëshortja e Avokatit të Popullit.
+
+- Sekretari i përgjithshëm, në ministri, në Gjykatën Kushtetuese, në Avokatin e Popullit, në Kontrollin e lartë të Shtetit dhe në Komisionin Qendror të Zgjedhjeve.
+
+- Kancelari i Gjykatës së Lartë.
 
 4. Me pasaportë shërbimi të pajiset kjo kategori personash:
 
