@@ -1,0 +1,1 @@
+3. Këto dokumente kërkohen, plotësohen dhe verifikohen, detyrimisht, në urgjencë, pas dhënies së ndihmës urgjente. Në rastet kur pacienti nuk është i shoqëruar me familjarë, plotësimi i këtyre dokumenteve bëhet në pavion.

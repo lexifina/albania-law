@@ -1,0 +1,12 @@
+1. T’u jepet ndihmë mjekësore urgjente në spital të sëmurëve, që paraqiten me këtë gjendje klinike:
+- Vështirësi frymëmarrjeje të çdo tipi;
+- Humbje të ndërgjegjies;
+- Dhimbje koke, paralizë, konvulsione të rënda e të menjëhershme;
+- Dhimbje ose shtrëngim të gjoksit;
+- Dhimbje të menjëhershme të barkut;
+- Hemoragji masive;
+- Fraktura;
+- Dëmtime nga përplasjet me mjete motorike ose me armë;
+- Dëmtime të kokës ose qafës;
+- Dehidratim të rëndë;
+- Gjendje të axhitimit psikomotor.
