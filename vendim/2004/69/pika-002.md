@@ -1,0 +1,1 @@
+2. Shtetasi shqiptar, i aftë dhe brenda moshës për kryerjen e shërbimit të detyrueshëm ushtarak, që ka përfunduar shkollën e lartë universitare, me shkëputje nga puna, brenda ose jashtë vendit, mund të përjashtohet nga shërbimi i detyrueshëm ushtarak kundrejt pagesës së një shume prej 30 000 (tridhjetë mijë) lekësh.

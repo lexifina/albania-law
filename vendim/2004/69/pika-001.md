@@ -1,0 +1,1 @@
+1. Shtetasi shqiptar, i aftë dhe brenda moshës për kryerjen e shërbimit të detyrueshëm ushtarak, mund të përjashtohet nga shërbimi i detyrueshëm ushtarak kundrejt pagesës së një shume prej 300 000 (treqind mijë) lekësh.
