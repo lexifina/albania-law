@@ -4,7 +4,7 @@ Nr.8334, datë 23.4.1998
 
 PËR PRIVATIZIMIN E SHOQËRIVE TREGTARE QË VEPROJNË NË SEKTORËT JOSTRATEGJIK
 
-(Ndryshuar me Aktin Normativ nr. 4, datë 4.4 2002; nr. 8886, datë 22.4.2002)
+(Ndryshuar me Aktin Normativ nr. 4, datë 4.4 2002; nr. 8886, datë 22.4.2002; nr. 9274, datë 16.9.2004)
 
 (I përditësuar)
 
@@ -20,7 +20,7 @@ Neni 1
 
 Përkufizime
 
-(Ndryshuar togfjalësh me Aktin Normativ nr. 4, datë 4.4 2002)
+(Ndryshuar togfjalësh me Aktin Normativ nr. 4, datë 4.4 2002; shtuar paragrafi i fundit me ligjin nr. 9274, datë 16.9.2004)
 
 Në kuptim të këtij ligji:
 
@@ -45,6 +45,8 @@ Paketa e aksioneve për publikun është pjesa e aksioneve që i ofrohet publiku
 Punonjës të shoqërisë konsiderohen punonjësit aktualë dhe ata të trajtuar me  asistencë sipas ligjit nr.7521, datë 30.10.1991 " Për përkrahjen sociale për personat që dalin pa punë nga zbatimi i reformës ekonomike", një vit para publikimit të shoqërisë për privatizim.
 
 Paketa e aksioneve shtetërore është pjesa e aksioneve që mbahen nga shteti.
+
+Këshilli i Ministrave mund të vendosë shitjen e paketës së aksioneve për ish-të përndjekurit politikë, brenda strukturës së formulës së privatizimit. Kjo paketë shitet me ankand, me bono dhe lekë privatizimi.
 
 Neni 2
 
