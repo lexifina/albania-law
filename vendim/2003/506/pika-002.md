@@ -1,0 +1,1 @@
+2. Caktimin e Ministrisë së Transportit dhe të Telekomunikacionit si Organ Shtetëror të Autorizuar për përgatitjen, negociimin, formulimin dhe nënshkrimin e kontratës së koncesionit të formës “BOT” me shoqërinë koncesionare “RIVIERA J.V.Ltd & sh.a. “DNS” S.A.”.
