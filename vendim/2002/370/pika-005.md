@@ -1,0 +1,1 @@
+5. Kur ushtaraku aktiv nuk pranon të kthehet në vendin e mëparshëm të punës ose në detyrën e re që emërohet, ai detyrohet t’i dëmshpërblejë institucionit shpenzimet e bëra për studimin apo specializimin e tij.
