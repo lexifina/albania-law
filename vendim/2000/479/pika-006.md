@@ -1,0 +1,1 @@
+6. Ministrisë së Ekonomisë Publike dhe Privatizimit, në buxhetin e vitit 2000, i shtohet, nga fondi rezervë i Këshillit të Ministrave, shuma prej 43 500 000 lekësh, si fond për prokurimin e shoqërisë konsulente.

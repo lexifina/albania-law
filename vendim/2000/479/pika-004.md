@@ -1,0 +1,1 @@
+4. Lejohen Ministria e Ekonomisë Publike dhe Privatizimit në emër të OSHA të prokurojnë fondin limit prej 43 500 000 (dyzetetre milionë e pesëqind mijë) lekësh, me procedurën “Kërkesë për kuotim”, me shoqëritë konsulente, sipas tabelës që i bashkëlidhet këtij vendimi.
