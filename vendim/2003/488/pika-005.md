@@ -1,0 +1,1 @@
+5. Fondi prej 595 698 (pesëqind e nëntëdhjetë e pesë mijë e gjashtëqind e nëntëdhjetë e tetë) lekësh, për kompensimin e pronarit dhe për shpenzimet procedurale, të përballohet nga të ardhurat e Bashkisë së Fushë-Krujës.
