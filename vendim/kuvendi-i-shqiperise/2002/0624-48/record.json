@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1473,
+  "title": "Për zgjedhjen e Presidentit të Republikës së Shqipërisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "48",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-06-24",
+  "published": "2002-07-04",
+  "in_force": "2002-07-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9939179e4d476bfcf53d5353ff1818e09dc47f06d79022b3e9095cc674b5770c.docx",
+  "source_sha256": "9939179e4d476bfcf53d5353ff1818e09dc47f06d79022b3e9095cc674b5770c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1473",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/06/24/48",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
