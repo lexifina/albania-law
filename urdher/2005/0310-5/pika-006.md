@@ -1,0 +1,1 @@
+6. Kur llogaritë, investimet ose pasuritë e tjera janë shitur, ndërsa kanë qenë të ngrira, të bllokuara ose të sekuestruara, ky urdhër shtrihet mbi të ardhurat e krijuara nga shpërbërjet, shitjet ose zotërimet e llogarive, investimeve ose pasurive të vendosura nën kontrollin e institucioneve të ngarkuara nga legjislacioni në fuqi.

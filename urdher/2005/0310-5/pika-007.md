@@ -1,0 +1,1 @@
+7. Të gjithë personat, që kanë detyrime kontraktuale të lidhura përpara datës së këtij urdhri, me shtetasin e huaj Nabil Abdul Sayadi, depozitojnë në llogarinë e çelur pranë Bankës së Shqipërisë nga Ministria e Financave.
