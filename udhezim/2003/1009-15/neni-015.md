@@ -1,0 +1,15 @@
+# Neni 15
+Procedura e rinumërimit të fletëve të votimit
+Pasi verifikohet se vulat e kutisë së votimit janë të njëjta me vulat e shënuara në procesverbalet e KZQV-së, kryetari dhe zëvendëskryetari, të ndihmuar nga sekretari, procedojnë në mënyrë plotësisht të dukshme për të pranishmit dhe sipas radhës së mëposhtme:
+a) Sekretari hap kutinë dhe nxjerr procesverbalet, tabelat dhe vulën e KQV-së dhe verifikon nëse ato janë materialet e rregullta të asaj qendre votimi.
+b) Sekretari nxjerr zarfet me fletët e votimit të numëruara në qendrën e votimit, zarfet me fletët e votimit të pavlefshme dhe zarfet me fletët e votimit të dëmtuara gjatë votimit, si dhe fletët e votimit të papërdorura dhe kundërfletët.
+c) Kryetari dhe zëvendëskryetari verifikojnë të dhënat e tabelave në lidhje me numrin e fletëve të votimit të papërdorura, numrin e kundërfletës së fundit, numrin e fletëve të votimit të dëmtuara dhe numrin e fletëve të votimit të kontestuara. Kryetari dhe zëvendëskryetari i vendosin këto materiale në zarfin e caktuar për këtë qëllim dhe i shënojnë të dhënat në procesverbalin e rinumërimit.
+ç) Kryetari dhe zëvendëskryetari hapin zarfet me fletët e votimit, pa i kontrolluar ato dhe i grupojnë sipas zarfit nga i cili nxirren. Fletët e votimit të gjetura në zarfe numërohen dhe rezultati krahasohet me numrin e shënuar në tabelën e qendrës së votimit. Në rast mospërputhjeje, konsiderohet i saktë numri i fletëve të votimit të gjetura në zarf gjatë rinumërimit.
+d) Pasi verifikojnë numrin e votave, sipas tabelës së qendrës së votimit kryetari dhe zëvendëskryetari vazhdojnë me shqyrtimin e të gjitha fletëve të votimit, duke kontrolluar nëse fleta e votimit është vulosur dhe nënshkruar sipas nenit 91 të këtij Kodi dhe deklarojnë se për kë është votuar. Gjatë rinumërimit kryetari dhe zëvendëskryetari ushtrojnë kompetencat e KQV-së dhe mund të ndryshojnë vendimin e KQV-së të shënuar në procesverbal.
+dh) Gjatë shqyrtimit të një fletevotimi që është kundërshtuar nga një ose më shumë anëtarë ose përfaqësues të KQV-së ose që është shpallur e pavlefshme nga KQV-ja gjatë numërimit, kryetari dhe zëvendëskryetari shqyrtojnë të gjitha kundërshtimet dhe vërejtjet që gjenden në procesverbalin e votimit në lidhje me atë fletëvotimi. Pasi marrin vendim në lidhje me atë fletëvotimi, kryetari dhe zëvendëskryetari sqarojnë arsyet përkatëse, të cilat mbahen shënim në procesverbalin e rinumërimit.
+e) Pas shqyrtimit të të gjitha fletëve të votimit të gjendura në kutitë e votimit, kryetari dhe zëvendëskryetari kryejnë detyrat e mëposhtme:
+- Shpallin rezultatet e qendrës së votimit dhe hartojnë procesverbalin e rinumërimit të votave për qendrën e votimit.
+- E nënshkruajnë atë së bashku me sekretarin.
+- Rivendosin të gjitha materialet në kutinë e votimit.
+- Lejojnë përfaqësuesit e subjekteve zgjedhore, kandidatët dhe anëtarët e komisionit të zgjedhjeve të shqyrtojnë procesverbalet e votimit dhe të mbajnë shënime.
+- Vulosin kutinë e votimit dhe fillojnë të njëjtën procedurë për qendrën tjetër të votimit.
