@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Pushtetit Vendor dhe të Decentralizimit që, për fondin e vet prej 27 000 000 (njëzet e shtatë milionë) lekësh, të përdorë procedurën “Prokurim i drejtpërdrejtë” me shoqërinë “Edlor” sh.p.k. për shtypshkrimin e certifikatave të gjendjes civile, me elemente sigurie.
