@@ -1,0 +1,7 @@
+L I G J
+Nr.9116, datë 24.7.2003
+PËR FALJEN E GJOBAVE DHE TË INTERESAVE PËR DETYRIMET TATIMORE TË TVSH-SË, TË PASHLYERA NGA KONTRAKTORËT E PROJEKTEVE TË FINANCUARA NGA PROGRAMI “PHARE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 155 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+K U V E N D I
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
