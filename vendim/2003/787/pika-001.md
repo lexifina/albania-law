@@ -1,0 +1,2 @@
+1. Pensionet e plota të pleqërisë, të caktuara deri në datë 30.6.1991, sipas ligjit nr.4171, datë 13.9.1966 ”Për sigurimet shoqërore në Republikën Popullore të Shqipërisë”, që në datë 1.7.2003 kanë masë pensioni nga 6728 lekë deri në 10 751 lekë në muaj, dhe që vazhdojnë të paguhen pas datës 1.12.2003, shtohen me shuma fikse nga 93 lekë deri në 684 lekë në muaj.
+Shuma individuale e pensionit, e rillogaritur sipas kësaj pike, paraqitet në tabelën ”A”, që i bashkëlidhet këtij vendimi.

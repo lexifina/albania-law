@@ -1,0 +1,1 @@
+8. Institutit të Sigurimeve Shoqërore, për përballimin e vëllimit të punës për zbatimin e këtij vendimi, t’i shtohet fondi prej 4 000 000 (katër milionë) lekësh, në planin e shpenzimeve administrative, i cili të përballohet brenda shpenzimeve të programuara për sigurimet shoqërore, për vitin 2003.
