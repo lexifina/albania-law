@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet të kompensohet në vlerë të plotë, sipas masës përkatëse, për sipërfaqen 9665 m2 tokë truall, me çmim 1159,1 lekë/m2 e vlerësuar në shumën e përgjithshme 11 202 702 (njëmbëdhjetë milionë e dyqind e dy mijë e shtatëqind e dy) lekë.
