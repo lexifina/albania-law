@@ -1,0 +1,2 @@
+1. Ministria e Punës dhe Çështjeve Sociale është institucioni i cili kujdeset për përpunimin e politikave të punësimit të shtetasve të huaj koordinon veprimtarinë e strukturave të punësimit të shtetasve të huaj, dhe pajis shtetasit e huaj me leje për në Republikën e Shqipërisë.
+Ministria e Punës dhe Çështjeve Sociale dhe strukutrat e saj bashkëpunojnë me institucionet e tjera për përcaktimin e drejtimeve të zhvillimit të tregut të punës së të huajve në Republikën e Shqipërisë.

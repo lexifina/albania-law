@@ -1,0 +1,1 @@
+6. Shtetasit e huaj, aplikant për leje pune, i refuzohet kërkesa në rast se ai nuk arrin të plotësojë qoftë edhe një nga kriteret e përshkruara nga neni 4 deri në nenin 11 të ligjit. Gjithashtu leja e punës mund të refuzohet kur konstatohen shkelje të ligjeve në fuqi nga ana e punëdhënësit, punëmarrësit apo personave të vetëpunësuar.
