@@ -1,0 +1,1 @@
+7. Ministrisë së Mbrojtjes, në buxhetin e vitit 2005, zëri “Mallra e shërbime”, t’i shtohet fondi prej 10 000 000 (dhjetë milionë) lekësh, për përballimin e shpenzimeve për organizimin e takimeve e të veprimtarive të tjera, brenda dhe jashtë vendit.

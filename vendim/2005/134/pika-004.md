@@ -1,0 +1,1 @@
+4. Kryetari, shefi i Sekretariatit, oficeri i shtabit për operacionet, oficeri i shtabit për logjistikën, oficeri i shtabit për protokollin dhe një specialist civil të jenë në detyrë të përhershme dhe ta fillojnë detyrën më 1 mars 2005, ndërsa pjesa tjetër e personelit më 1 korrik 2005.
