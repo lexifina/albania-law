@@ -1,0 +1,26 @@
+{
+  "qbz_id": 70,
+  "title": "PËR CAKTIMIN E DEPUTETËVE QË DO TË MARRIN PJESË NË KOMISIONIN PËR DEKLARIMIN E PASURIVE TË TË ZGJEDHURVE DHE TË DISA DREJTUESVE E PUNONJËSVE TË SHËRBIMIT PUBLIK",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "435",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-03-20",
+  "published": "2000-04-12",
+  "in_force": "2000-04-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/11129ace846020ace21c7ab6d6352ea7c5fd93fc4d8f47e18289115b7826d297.docx",
+  "source_sha256": "11129ace846020ace21c7ab6d6352ea7c5fd93fc4d8f47e18289115b7826d297",
+  "official_record": "https://qbz.gov.al/api/v1/acts/70",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/03/20/435",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
