@@ -1,0 +1,13 @@
+3. Subjekti i interesuar, që kërkon të pajiset me leje për përdorimin civil të lëndëve plasëse duhet të plotësojë këto kritere dhe kushte:
+- Të jetë regjistruar në gjykatë si person juridik ose fizik;
+- Të ketë vërtetim nga organi i pushtetit vendor të zonës ku do të përdoren lëndët plasëse, se në atë zonë ku do të ushtrohet veprimtaria me lëndë plasëse nuk ka objekte, që rrezikohen nga përdorimi i tyre;
+- Të ketë lejen për ushtrimin e veprimtarisë, sipas pikës 2 të këtij vendimi;
+- Të ketë hartën topografike të zonës në shkallën 1:25000 dhe planimetrinë e zhvillimit të punimeve, me koordinatat e objektit ku do të përdoren lëndët plasëse;
+- Të ketë të përcaktuara llojin, sasinë dhe karakteristikat fiziko-kimike të lëndëve plasëse;
+- Të ketë llogaritjen e zonës së rrezikshme dhe pasaportën teknike të punës me lëndët plasëse;
+- Të sigurojë masat e sigurisë në punë, në përputhje me rregulloren e teknikës së sigurimit për punë me lëndët plasëse;
+- Të ketë miratimin për depon e lëndëve plasëse nga komisariati i policisë, që mbulon territorin ku kërkohet leja ose kontrata me një subjekt që zotëron depo të miratuar nga ky komisariat;
+- Të ketë kontratën e punës me drejtuesin teknik, inxhinier ose teknik miniere, inxhinier gjeolog, inxhinier ndërtimi, si dhe një fotokopje të noterizuar të diplomës;
+- Të ketë kontratën e punës me zjarrmëtarin dhe fotokopjen e noterizuar të dëshmisë së zjarrmëtarit;
+- Të ketë vërtetimin e regjistrimit të subjektit në RISHM (reparti i inspektim-shpëtim miniera);
+- Të ketë programin vjetor të kualifikimit të punonjësve, që merren me kryerjen e punimeve me lëndët plasëse.

@@ -1,0 +1,1 @@
+6. Afati i lejes për përdorim civil të lëndëve plasëse është i njëjtë me afatin e licencës për ushtrimin e veprimtarisë në fushat e përcaktuara në pikën 2 të këtij vendimi dhe kur nuk ka sanksione për heqjen e lejes ripërtërihet së bashku me përtëritjen e licencës për ushtrimin e veprimtarisë.

@@ -1,0 +1,1 @@
+2. Leja e përdorimit civil të lëndëve plasëse jepet për subjektet e licencuara nga institucionet përkatëse në fushat minerare, gjeologjike, të hidrokarbureve dhe të ndërtimit, të cilat, për realizimin e veprimtarisë së tyre, kanë domosdoshmëri përdorimin e lëndëve plasëse.
