@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të vitit 2002 për Entin Rregullator të Telekomunikacioneve, në shumën 65 000 000 (gjashtëdhjetë e pesë milionë) lekë, sipas shtojcës që i bashkëlidhet këtij vendimi.
