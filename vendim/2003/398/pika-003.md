@@ -1,0 +1,1 @@
+3. Subjektet, që do të ushtrojnë veprimtari prodhuese në fushën e industrisë joushqimore, pas hyrjes në fuqi të këtij vendimi, duhet të bëjnë deklarimin brenda 3 muajve nga fillimi i ushtrimit të kësaj veprimtarie.
