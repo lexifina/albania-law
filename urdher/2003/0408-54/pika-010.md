@@ -1,0 +1,1 @@
+10. Ministria e Rregullimit të Territorit dhe Turizmit në bashkëpunim me Ministrinë e Kulturës, Rinisë dhe Sporteve të organizojë veprimtari të përbashkëta për hapjen e sezonit turistik dhe veprimtari të tjera kulturore e argëtuese, në bazë të kalendarit të veprimtarive kulturore të planifikuara.

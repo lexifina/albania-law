@@ -1,0 +1,1 @@
+14. Ministria e Transportit dhe Telekomunikacionit, në bashkëpunim me Ministrinë e Pushtetit Vendor dhe Decentralizimit dhe me Ministrinë e Rregullimit të Territorit dhe Turizmit, të marrë masat përgatitore për sigurimin e shërbimit telefonik, për përfundimin e punimeve për shtrimin, sistemimin dhe asfaltimin e rrugëve kombëtare dhe vendore në zonat turistike.

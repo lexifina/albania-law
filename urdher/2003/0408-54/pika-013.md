@@ -1,0 +1,1 @@
+13. Ministria e Shëndetësisë, Ministria e Pushtetit Vendor dhe Decentralizimit dhe prefekturat e qarqeve në bashkëpunim me organet e qeverisjes vendore, të marrin masa për organizimin e shërbimit të pastrimit të përditshëm të plazheve dhe të shërbimeve komunale, të shërbimeve për sigurimin e ndihmës së shpejtë mjekësore dhe për ofrimin e shërbimit zjarrfikës.

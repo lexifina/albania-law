@@ -1,0 +1,1 @@
+4. Ministria e Transportit dhe Telekomunikacionit dhe Ministria e Rendit Publik, në bashkëpunim me organet e qeverisjes vendore, të organizojnë punën për përmirësimin, sigurimin dhe shtimin e sinjalistikës rrugore në akset kryesore kombëtare dhe, në mënyrë të veçantë, në zonat turistike.

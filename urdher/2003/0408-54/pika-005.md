@@ -1,0 +1,1 @@
+5. Ministria e Rregullimit të Territorit dhe Turizmit, në bashkëpunim me Ministrinë e Rendit Publik, të marrë, për periudhën 1.6.2003 deri më 30.9.2003, brenda datës 10 të muajit pasardhës, të dhëna mujore për hyrje-daljet në pikat kufitare.

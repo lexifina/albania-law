@@ -1,0 +1,1 @@
+3. Ministria e Rendit Publik dhe Shërbimi Informativ Shtetëror të marrin masat për sigurimin e rendit, zbatimin e etikës profesionale të Policisë së Shtetit dhe, në mënyrë të veçantë, për rritjen e sigurisë në akset kryesore rrugore dhe në zonat turistike.

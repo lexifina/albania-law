@@ -1,0 +1,1 @@
+7. Ministria e Rregullimit të Territorit dhe Turizmit të marrë të gjitha masat për licencimin e subjekteve, që merren me veprimtari turistike (si hoteleri, agjenci turistike, udhëtimesh, transport turistik), si dhe të bëjë regjistrimin dhe klasifikimin e njësive pritëse turistike.

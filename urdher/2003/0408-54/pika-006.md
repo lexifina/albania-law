@@ -1,0 +1,1 @@
+6. Ministria e Rregullimit të Territorit dhe Turizmit, në bashkëpunim me Ministrinë e Transportit dhe Telekomunikacionit dhe me organet e qeverisjes vendore, të vendosë tabela promocionale në pikat e hyrje-daljes dhe në qendrat e qyteteve.

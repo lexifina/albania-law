@@ -1,0 +1,1 @@
+8. Ministria e Financave dhe Drejtoria e Përgjithshme e Tatim-Taksave të marrin masa për mbledhjen e tatim-fitimit të planifikuar mbi baza reale nga të gjitha subjektet turistike, si dhe në bashkëpunim me Ministrinë e Rregullimit të Territorit dhe Turizmit, të nxjerrin një udhëzim të përbashkët për licencimin dhe kontrollin e ushtrimit të veprimtarisë turistike.
