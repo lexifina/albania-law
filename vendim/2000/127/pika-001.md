@@ -1,0 +1,1 @@
+1. Subjekti, në favor të të cilit bëhet shpronësimi, duhet të paraqesë në ministrinë përkatëse kërkesën për shpronësim, e cila duhet të shoqërohet me dokumentacionin e parashikuar në formularin nr.1 dhe dokumentet, standarde, të cilat i bashkëlidhen këtij vendimi.
