@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65776,
+  "title": "Për një ndryshim në vendimin nr.402, datë 11.6.2001 të Këshillit të Ministrave “Për disa çështje në zbatim të ligjit nr. 7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, ndryshuar me ligjet nr. 7392, datë 17.5.1995; nr. 8286, datë 16.2.1998; nr. 8392, datë 2.9.1998; nr. 8575, datë 8.2.2000; nr. 8776, datë 24.4.2001; nr. 8852, datë 22.12.2001 dhe të ligjit nr. 7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "101",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-03-21",
+  "published": "2002-05-13",
+  "in_force": "2002-05-13",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 15.1.2002\": the publication day (its effects reach back to 15.1.2002)",
+  "source": "https://qbz.gov.al/files/3fe53ce4096c4f5495ff12308fbeb54c0dcc221d6707e1158b415fdb97674090.docx",
+  "source_sha256": "3fe53ce4096c4f5495ff12308fbeb54c0dcc221d6707e1158b415fdb97674090",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65776",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/03/21/101",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
