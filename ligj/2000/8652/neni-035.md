@@ -1,0 +1,5 @@
+# Neni 35
+Seancat e këshillimeve me bashkësinë dhe e drejta e publikut për t’u informuar
+1. Këshilli komunal ose bashkiak, përpara shqyrtimit dhe miratimit të akteve, zhvillon seanca këshillimi me bashkësinë. Seancat e këshillimit janë të detyrueshme për rastet e parashikuara në nenin 32 shkronjat “dh”, “e”, “f” dhe “k” të këtij ligji.
+2. Këshillimi me bashkësinë, në çdo rast, bëhet sipas mënyrës së përcaktuar në rregulloren e këshillit, duke përdorur një nga format e nevojshme si takimet e hapura me banorët, takime me specialistë, me institucione të interesuara dhe organizata joqeveritare ose nëpërmjet marrjes së nismës për organizimin e referendumeve vendore.
+3. Aktet e këshillit afishohen, në vende publike të caktuara nga këshilli, brenda territorit të komunës ose bashkisë dhe, sipas mundësive, këshilli cakton edhe forma të tjera të publikimit të tyre. Informimi i publikut në çdo komunë e bashki bëhet në përputhje me ligjin nr.8503, datë 30.6.1999 ”Për të drejtën e informimit për dokumentet zyrtare” dhe rregullat e përcaktuara nga vetë këshilli përkatës për këtë qëllim.

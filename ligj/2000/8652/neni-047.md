@@ -1,0 +1,4 @@
+# Neni 47
+Funksionimi i nëndarjeve të bashkisë
+1. Në lagjet e bashkive funksionon aparati administrativ. Struktura dhe numri i punonjësve të administratës së lagjes caktohet nga këshilli bashkiak. Në krye të aparatit administrativ të lagjes është administratori i cili është nëpunës civil me epror të drejtpërdrejtë kryetarin e bashkisë. Trajtimi i punonjësve të tjerë të aparatit administrativ të lagjes i nënshtrohen ligjit nr.8549, datë 11.11.1999 ”Statusi i nëpunësit civil”.
+2. Administrata e lagjes kryen të gjitha detyrat administrative të ngarkuara nga kryetari i bashkisë dhe këshilli, si dhe kujdeset për zhvillimin ekonomik, për përdorimin e burimeve të përbashkëta dhe sigurimin e harmonisë sociale në lagjen përkatëse. Detyrat e saj më të hollësishme përcaktohen në aktet e nxjerra nga këshilli bashkiak dhe kryetari i bashkisë.
