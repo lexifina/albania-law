@@ -1,0 +1,26 @@
+{
+  "qbz_id": 578,
+  "title": "PËR NJË SHTESË NË LIGJIN NR.8449, DATË 27.1.1999, “KODI DOGANOR I REPUBLIKËS SË SHQIPËRISË”, NDRYSHUAR ME LIGJIN NR.8473, DATË 14.4.1999",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8719",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-12-19",
+  "published": "2000-12-31",
+  "in_force": "2001-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/cab5659ecd6d016a7e6cb77f7034ff97f8cf575f78ee52b2d2459b0fa1455e66.docx",
+  "source_sha256": "cab5659ecd6d016a7e6cb77f7034ff97f8cf575f78ee52b2d2459b0fa1455e66",
+  "official_record": "https://qbz.gov.al/api/v1/acts/578",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2000/12/19/8719",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
