@@ -1,0 +1,1 @@
+2. Ministria e Bujqësisë dhe e Ushqimit dhe Ministria e Pushtetit Vendor dhe e Decentralizimit të nxjerrin udhëzimin e përbashkët për përcaktimin e procedurave të furnizimit të banorëve të zonave rurale me dru zjarri, lëndë ndërtimi dhe gjeth për blegtorinë, për nevojat vetjake.

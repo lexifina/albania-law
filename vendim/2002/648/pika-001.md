@@ -1,0 +1,1 @@
+1. Ndalimin e prerjes së lëndëve drusore, për një periudhë të pacaktuar kohe, me përjashtim të asaj që rezulton nga trajtimi i pyjeve, me punime të detyrueshme përmirësimi, dhe i parcelave për prodhimin e druve të zjarrit.
