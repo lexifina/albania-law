@@ -1,0 +1,1 @@
+2. Të siguruar quhen personat që paguajnë kontributin e sigurimeve shëndetësore, si dhe personat për të cilët shteti paguan kontribute, sipas nenit 8 të ligjit nr. 7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”.

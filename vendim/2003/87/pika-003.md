@@ -1,0 +1,1 @@
+3. Të gjithë personat, që nuk janë të siguruar sipas pikës 2 të këtij vendimi ose kur janë të siguruar, por nuk paraqesin dokumentacionin sipas pikës 1, marrin shërbim shëndetësor duke paguar tarifat e miratuara në sistemin shëndetësor ose çmimin e plotë të barnave.
