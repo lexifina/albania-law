@@ -1,0 +1,1 @@
+1. Miratimin e Marrëveshjes së koncesionit të formës ”ROT” ndërmjet Ministrisë së Industrisë dhe të Energjetikës e Ministrisë së Ekonomisë dhe shoqërisë ”Kurum International” sh.p.k., Tiranë për fabrikën e oksigjenit në Elbasan, sipas tekstit që i bashkëlidhet këtij vendimi.
