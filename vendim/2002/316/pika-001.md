@@ -1,0 +1,1 @@
+1. Ministria e Rregullimit të Territorit dhe Turizmit, nëpërmjet Entit Kombëtar të Banesave, të planifikojë fondet për jetimët që gëzojnë statusin e të pastrehut, sipas kërkesës së organeve të qeverisjes vendore, për trajtimin me përparësi me strehim të tyre.

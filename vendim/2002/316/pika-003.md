@@ -1,0 +1,1 @@
+3. Personi i pastrehë, me statusin e jetimit, të trajtohet me banesë nga Enti Kombëtar i Banesave, sipas kritereve të ligjit nr. 8030, datë 15.11.1995 ”Për kontributin e shtetit për familjet e pastreha”.
