@@ -1,0 +1,1 @@
+6. Gjatë emërimit të përbërjes së Komitetit Shtetëror të Minoriteteve, Kryeministri dhe kryetari i komitetit, duke u bazuar në të dhënat zyrtare përcaktojnë numrin e anëtarëve për çdo minoritet të veçantë.

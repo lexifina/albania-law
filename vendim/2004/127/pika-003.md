@@ -1,0 +1,2 @@
+3. Komiteti Shtetëror i Minoriteteve bashkëpunon me organet e qeverisjes, qendrore dhe vendore, dhe me organizata e shoqata të ligjshme, që kryejnë veprimtari për ushtrimin e të drejtave dhe të lirive të personave, që u përkasin minoriteteve.
+Gjithashtu, Komiteti Shtetëror i Minoriteteve bashkëpunon, për çështje të ndryshme, në interes të personave që u përkasin minoriteteve me organizmat dhe institucionet përkatëse ndërkombëtare.
