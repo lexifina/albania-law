@@ -1,0 +1,1 @@
+7. Për pronarët e paidentifikuar apo që u mungon dokumenti i pronësisë të lëshuar nga zyra e regjistrimit të pasurive të paluajtshme, pagesa do të kryhet sipas procedurave të përcaktuara në ligjin nr.8561, datë 22.12.1999. Në këtë rast masa e shpërblimit që i takon pronarit të shpronësuar depozitohet në bankë, për llogari të këtij të fundit.

@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit për fazën e parë prej 211 300 000 (dyqind e njëmbëdhjetë milionë e treqind mijë) lekësh, të përballohet nga buxheti i vitit 2004, zëri “Shpronësime”, miratuar për Ministrinë e Transportit dhe të Telekomunikacionit.
