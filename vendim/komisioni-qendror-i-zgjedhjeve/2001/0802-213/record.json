@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1156,
+  "title": "PËR SHPALLJEN E REZULTATIT TË ZONËS ZGJEDHORE NR.4",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "213",
+  "institution": "Komisioni Qendror i Zgjedhjeve",
+  "adopted": "2001-08-02",
+  "published": "2001-11-07",
+  "in_force": "2001-11-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3157d0345f2d88d974142fa9118f2924b19b9f94904afdad7a65a93c4b4bbef6.docx",
+  "source_sha256": "3157d0345f2d88d974142fa9118f2924b19b9f94904afdad7a65a93c4b4bbef6",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1156",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/08/02/213",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
