@@ -1,0 +1,1 @@
+12. Shkollat e larta unviersitare jopublike kanë të drejtë të realizojnë aspektet e të arsimit pasuniversitar, në mbështetje të legjisalcionit në fuqi të Republikës së Shqipërisë. Arsimi pasuniversitar përfshin kualifikimin shkencor pasuniversitar, kurset e specializimit dhe kurset e kualifikimit afatshkurtër e afatgjatë.

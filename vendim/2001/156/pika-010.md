@@ -1,0 +1,1 @@
+10. Ministria e Arsimit dhe Shkencës, nëpërmjet procesit të akreditimit bën procesin e vlerësimit dhe të akreditimit, i cili jep të drejtën e njohjes së kursit të studimit dhe të shkollës së arsimit të lartë jopublik, brenda 5 vjetësh pas marrjes së lejes dhe para përfundimit të kursit të studimit. Rezultatet bëhen publike.

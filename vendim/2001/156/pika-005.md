@@ -1,0 +1,15 @@
+5. Subjekti që dëshiron të hapë një shkollë të lartë jopublike, për marrjen e lejes, duhet të paraqesë një kërkesë në Ministrinë e Arsimit dhe Shkencës, e cila duhet të shoqërohet me këto dokumente:
+a) vendimin e Gjykatës së Faktit për regjistrimin si person juridik;
+b) aktin e themelimit;
+c) emrin, vendndodhjen, një kopje të dokumenteve të regjistrimit dhe të licencës së mësimit të vendit nga vjen (në qoftë se enti financues është person juridik, i huaj) dhe tipin e shkollës së lartë jopublike që kërkon të hapë (sipas nenit 2 të këtij vendimi);
+ç) statutin, i cili duhet të përmbajë: emrin e plotë të shkollës së lartë jopublike, adresën, tipin, qëllimin dhe zgjatjen e procesit mësimor, gjuhën e zhvillimit të mësimit, organet drejtuese dhe kompetencat e tyre, financimin dhe veprimtarinë ekonomike, procedurat për pranimin dhe diplomimin e studentëve, të drejtat dhe detyrat e studentëve, kriteret për punësim, normën mësimore-shkencore, kohën e punës dhe të pushimit, marrëdhëniet me shkollat e larta, të drejtat dhe detyrat e personelit;
+d) rregulloren e brendshme, e cila duhet të përmbajë: dispozitat e përgjithshme, strukturën organizative, format e organizimit të studimeve dhe të kontrollit të dijeve, diplomimin, të drejtat dhe detyrimet e studentit e të pedagogut, standartet etike;
+dh) të dhënat rreth kursit të studimit, të cilat duhet të jenë në përputhje me standardet e hartuara nga Ministria e Arsimit dhe Shkencës;
+e) listat e plota të personelit drejtues, të personelit akademik (të brendshëm dhe të jashtëm), të personelit ndihmës mësimor-shkencor, të personelit administrativ, së bashku me disa gjeneralitete: datëlindja dhe vendlindja, kombësia dhe shtetësia, arsimimi, specialiteti diploma dhe kualifikime të tjera të dokumentuara, detyra funksionale në institucion, dëshmia e penalitetit;
+ë) një katalog me listën e vendeve të punës dhe me kërkesat për çdo vend pune;
+f) planin afatmesëm dhe afatgjatë të zhvillimit institucional;
+g) dokumentet që vërtetojnë garancinë financiare për financimin e personelit dhe të të gjitha veprimtarive mësimore-shkencore të shkollës së lartë jopublike për një cikël të plotë për çdo kurs studimi. Dokumenti i garancisë financiare duhet të paraqitet çdo vit pranë Ministrisë së Arsimit dhe Shkencës.
+gj) deklaratën në të cilën subjekti angazhohet të sigurojë një dokument pronësie apo kontratë qiraje për ndërtesën në të cilën do të funksionojë shkolla e lartë jopublike. Dokumenti i pronësisë ose kontrata e qirasë duhet të realizohet jo më vonë se tre muaj para fillimit të vitit akademik shkollor. Në rastin e kontratës së qirasë, afati i saj duhet të jetë sa zgjatja e kursit mësimor;
+h) vërtetimin nga inspektoriati sanitar për konfirmimin që mjedisi i plotëson kushtet higjeno-sanitare, pasi është siguruar dokumenti i pronësisë ose kontrata e qirasë;
+i) dokumentin e identifikimit të subjektit juridik, si person i tatueshëm, si dhe vërtetimin nga dega e tatim-taksave;
+j) autorizimin nga zyra e punës të rrethit përkatës ku ushtrohet veprimtaria, si dhe nga Inspektorati i Punës.

@@ -1,0 +1,1 @@
+6. Ministria e Arsimit dhe Shkencës do të verifikojë gjendjen e objektit, jo më vonë se tri javë para fillimit të procesit mësimor. Për rregullimin e mangësive të vërejtura ajo vendos afate dhe/ ose pezullon fillimin e procesit mësimor deri në plotësimin e tyre.
