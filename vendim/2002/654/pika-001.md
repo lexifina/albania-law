@@ -1,0 +1,7 @@
+1. Përcaktimin e tarifave për përdorim të përkohshëm nga organet shtetërore, në situata emergjente, të çdo mjeti privat, si më poshtë vijon:
+a) Strukturat operative të emergjencave civile, në situata emergjente, kanë të drejtë të marrin në përdorim të përkohshëm çdo mjet privat, kundrejt pagesës, sipas tarifave të përcaktuara në shtojcën, që i bashkëlidhet këtij vendimi.
+b) Për mjetet e tjera, që nuk janë përmendur në këtë shtojcë, llogaritjet të bëhen sipas fuqisë dhe tonazhit të tyre.
+Llogaria bëhet duke shumëzuar vlerën në tabelë me koeficientin k=1,2 kur fuqia/tonazhi është më e/i madh dhe e kundërta. Për mjetet e transportit e materialeve të përdoret tabela për ton/km, kurse për mjetet stacionare fuqia në kw.
+c) Kur strukturat operative të emergjencave civile, për mjetet që marrin në dispozicion, përballojnë karburantin nga rezervat e veta, atëherë tarifa llogaritet në bazë të orëve të punës për manovratorin, plus konsumin e pjesëve të ndërrimit (në rast komsumi), plus 10 për qind, si më poshtë vijon:
+T=(m+0,2m)+10%; ku T - tarifa; m - pagesa për një orë pune për manovratorin. Koeficienti m=120 deri 160 lekë, në varësi të tonazhit/fuqisë së mjetit. Kufiri minimal për tonazhin/fuqinë më të ulët dhe e kundërta.
+ç) Kur merren mjete në dispozicion për transportin e udhëtarëve, si: autobusë, mikrobusë, etj. tarifat janë të njëjta me ato të udhëzimit të përbashkët nr. 373/1, datë 24.3. 1998 të Ministrisë së Punëve Publike dhe Transportit dhe nr. 99/3, datë 24.3.1998 të Ministrisë së Financave.

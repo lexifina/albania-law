@@ -1,0 +1,1 @@
+2. Mjetet merren në përdorim të përkohshëm, sipas aktmarrëveshjes së lidhur ndërmjet drejtuesve të operacionit ose përfaqësuesve të autorizuar prej tyre, për përballimin e situatave emergjente, për aq kohë sa është e domosdoshme, por jo më vonë sesa koha e përfundimit të emergjencës.
