@@ -1,0 +1,1 @@
+6. Për veprimtarinë që kryejnë, anëtarët e komisionit shtetëror të pullës postare shqiptare marrin një shpërblim vjetor, masa e të cilit caktohet me udhëzim të veçantë të ministrit, dhe përballohet nga “Albapost” sh.a.

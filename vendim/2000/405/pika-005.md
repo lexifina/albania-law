@@ -1,0 +1,1 @@
+5. Çmimi i shitjes së pullave postare shqiptare për nevojat e shërbimit postar nuk mund të jetë më i vogël se vlera nominale e shënuar në pullë. Çmimi dhe tirazhi i çdo emisioni miratohet nga ministri me propozimin e “Albapost” sh.a., në përputhje me tarifat e miratuara dhe nevojat e shërbimit postar, si dhe kërkesat e shërbimit filatelik.

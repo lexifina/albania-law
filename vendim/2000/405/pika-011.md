@@ -1,0 +1,1 @@
+11. Për emisionet e mbetura stok, që kanë humbur mundësinë e përdorimit për afrankim, si dhe që, për shkak të qëndrimit të gjatë kanë humbur parametrat cilësore filatelie, “Albapost” sh.a., ka të drejtën e asgjësimit të tyre, duke zbatuar dispozitat ligjore në fuqi.
