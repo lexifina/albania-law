@@ -1,0 +1,2 @@
+# Neni 126
+Gjyqtari i Gjykatës Kushtetuese nuk mund të ndiqet penalisht pa pëlqimin e Gjykatës Kushtetuese. Gjyqtari i Gjykatës Kushtetuese mund të ndalohet ose të arrestohet vetëm në qoftë se kapet në kryerje e sipër të një krimi ose menjëherë pas kryerjes së tij. Organi kompetent njofton menjëherë Gjykatën Kushtetuese. Kur Gjykata Kushtetuese nuk jep pëlqimin brenda 24 orëve për dërgimin në gjykatë të gjyqtarit të arrestuar, organi kompetent është i detyruar ta lirojë atë.

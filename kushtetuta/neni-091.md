@@ -1,0 +1,3 @@
+# Neni 91
+1. Kur Presidenti i Republikës është në pamundësi të përkohshme për të ushtruar funksionet e tij ose kur vendi i tij mbetet vakant, Kryetari i Kuvendit zë vendin dhe ushtron kompetencat e tij.
+2. Në rast se Presidenti nuk mund të ushtrojë detyrën për më shumë se 60 ditë, Kuvendi, me dy të tretat e të gjithë anëtarëve, vendos dërgimin e çështjes në Gjykatën Kushtetuese, e cila vërteton përfundimisht faktin e pamundësisë. Në rast të vërtetimit të pamundësisë, vendi i Presidentit mbetet vakant dhe zgjedhja e Presidentit të ri fillon brenda 10 ditëve nga dita e vërtetimit të pamundësisë.

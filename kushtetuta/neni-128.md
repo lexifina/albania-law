@@ -1,0 +1,2 @@
+# Neni 128
+Gjyqtari i Gjykatës Kushtetuese mund të shkarkohet nga Kuvendi me dy të tretat e të gjithë anëtarëve të tij për shkelje të Kushtetutës, për kryerjen e një krimi, për paaftësi mendore a fizike, për akte e sjellje që diskreditojnë rëndë pozitën dhe figurën e gjyqtarit. Vendimi i Kuvendit shqyrtohet nga Gjykata Kushtetuese, e cila, kur vërteton se ekziston një nga shkaqet e mësipërme, deklaron shkarkimin nga detyra të anëtarit të Gjykatës Kushtetuese.

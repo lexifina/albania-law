@@ -1,0 +1,3 @@
+# Neni 16
+1. Të drejtat e liritë themelore, si dhe detyrimet e parashikuara në Kushtetutë për shtetasit shqiptarë vlejnë njëlloj edhe për të huajt e për personat pa shtetësi në territorin e Republikës së Shqipërisë, me përjashtim të rasteve kur Kushtetuta e lidh në mënyrë të posaçme me shtetësinë shqiptare ushtrimin e të drejtave e të lirive të caktuara.
+2. Të drejtat dhe liritë themelore, si dhe detyrimet e parashikuara ne Kushtetutë vlejnë edhe për personat juridikë, për aq sa përputhen me qëllimet e përgjithshme të këtyre personave dhe me thelbin e këtyre të drejtave, lirive dhe detyrimeve.

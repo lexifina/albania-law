@@ -1,0 +1,2 @@
+# Neni 140
+Gjyqtari i Gjykatës së Lartë mund të shkarkohet nga Kuvendi me dy të tretat e të gjithë anëtarëve të tij për shkelje të Kushtetutës, për kryerjen e një krimi, për paaftësi mendore a fizike dhe për akte e sjellje që diskreditojnë rëndë pozitën dhe figurën e gjyqtarit. Vendimi i Kuvendit shqyrtohet nga Gjykata Kushtetuese, e cila, kur vërteton se ekziston një nga shkaqet e mësipërme, deklaron shkarkimin e tij nga detyra.

@@ -1,0 +1,6 @@
+# Neni 88
+1. Presidenti i Republikës, në çdo rast, zgjidhet për 5 vjet, me të drejtë rizgjedhjeje vetëm një herë.
+2. Procedura për zgjedhjen e Presidentit fillon jo më vonë se 30 ditë para mbarimit të mandatit presidencial paraardhës.
+3. Presidenti fillon në detyrë pasi bën betimin para Kuvendit, por jo më parë se të ketë mbaruar mandati i Presidentit që largohet. Presidenti bën këtë betim:
+“Betohem se do t’i bindem Kushtetutës dhe ligjeve të vendit, do të respektoj të drejtat dhe liritë e shtetasve, do të mbroj pavarësinë e Republikës së Shqipërisë dhe do t’i shërbej interesit të përgjithshëm dhe përparimit të Popullit Shqiptar.” Presidenti mund të shtojë edhe: “Zoti më ndihmoftë!”
+4. Presidenti që jep dorëheqjen para mbarimit të mandatit të vet, nuk mund të kandidojë në zgjedhjen presidenciale që bëhet pas dorëheqjes së tij.

@@ -1,0 +1,4 @@
+# Neni 122
+1. Çdo marrëveshje ndërkombëtare e ratifikuar përbën pjesë të sistemit të brendshëm juridik pasi botohet në Fletoren Zyrtare të Republikës së Shqipërisë. Ajo zbatohet në mënyrë të drejtpërdrejtë, përveç rasteve kur nuk është e vetëzbatueshme dhe zbatimi i saj kërkon nxjerrjen e një ligji. Ndryshimi, plotësimi dhe shfuqizimi i ligjeve të miratuara me shumicën e të gjithë anëtarëve të Kuvendit për efekt të ratifikimit të marrëveshjeve ndërkombëtare bëhet me të njëjtën shumicë.
+2. Një marrëveshje ndërkombëtare e ratifikuar me ligj ka epërsi mbi ligjet e vendit që nuk pajtohen me të.
+3. Normat e nxjerra prej një organizate ndërkombëtare kanë epërsi, në rast konflikti, mbi të drejtën e vendit, kur në marrëveshjen e ratifikuar nga Republika e Shqipërisë për pjesëmarrjen në atë organizatë, parashikohet shprehimisht zbatimi i drejtpërdrejtë i normave të nxjerra prej asaj.
