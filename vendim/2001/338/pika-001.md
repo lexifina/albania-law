@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Kishës Katolike Shqiptare të një sipërfaqeje trualli prej 49 453 m2, sipas genplanit që i bashkëlidhet këtij vendimi, mbi të cilën do të ndërtohen kompleksi universitar “Universiteti Katolik” dhe “Qendra e Rehabilitimit dhe e Mjekësisë Sportive”.
