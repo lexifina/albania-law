@@ -1,0 +1,1 @@
+1. Për zgjedhjet e pjesshme të datës 7.7.2002 për deputetë të drejtpëdrejtë në zonën zgjedhore nr.19 për Kuvendin e Shqipërisë, fletëvotimeve për këtë zonë të prodhohen në masën 2% mbi numrin e përgjithshëm të votuesve në listat përfundimtare të zgjedhësve.

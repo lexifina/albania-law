@@ -1,0 +1,3 @@
+2. Shpërndarja e fletëvotimeve nga KZZ-ja nr.19 në çdo KQV të bëhet si vijon:
+a) Pjestohet numri i fletëvotimeve që i janë dhënë KZZ-së nr.19 nga KQZ-ja, me numrin e votuesve të listës përfundimtare të zgjedhësve të kësaj zone dhe rezultati i pjestimit shumëzohet me numrin e votuesve të listës përfundimtare të qendrës nr.1 të votimit. Rezultati që del nga shumëzimi është numri i fletëvotimit që KZZ-ja nr.19 duhet t’i japë KQV-së përkatëse. Me të njëjtën procedurë përcaktohet edhe numri i fletëvotimeve për qendrat e tjera të votimit të zonës zgjedhore nr.19.
+b) KZZ-ja nr.19 nuk mban asnjë fletëvotimi gjendje (rezervë).
