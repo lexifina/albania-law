@@ -1,2 +1,0 @@
-6. Marrin vendime të përkohshme dhe kurdoherë të arsyetuara me shkrim për ndalimin e përkohshëm të veprimeve që bien ndesh me ligjet e shtetit ose cënojnë interesat ekonomike të tij, deri në shqyrtimin përfundimtar të organeve përkatëse, që i kanë në përgjegjësi.
-Të drejtën për të marrë vendime për ndalim të përkohshëm e kanë drejtuesit e strukturës së kontrollit ministri, institucione qendore dhe prefektura, me propozimin e arsyetuar të kontrollorit.
