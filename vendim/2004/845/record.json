@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3215,
+  "title": "Për shfuqëzimin e vendimit nr.506, datë 18.7.2003 të Këshillit të Ministrave “Për ndërtimin me koncesion të autostradës rrogozinë-Pezë-Degëzim Tiranë-vorë-Thumanë dhe caktimin e organit shtetëror të autorizuar”",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "845",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-12-17",
+  "published": "2004-12-28",
+  "in_force": "2004-12-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ae79fe977f871dd3b96a1615bf2da0e15ebb582bfad810fd5bb34b2e2a38a67a.docx",
+  "source_sha256": "ae79fe977f871dd3b96a1615bf2da0e15ebb582bfad810fd5bb34b2e2a38a67a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3215",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/12/17/845",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
