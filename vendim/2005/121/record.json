@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3383,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR.540, DATË 21.12.1992 TË KËSHILLIT TË MINISTRAVE “PËR KRIJIMIN E KËSHILLAVE TË KULTURËS DHE SHPËRBLIMIN E TYRE”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "121",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-02-25",
+  "published": "2005-03-16",
+  "in_force": "2005-03-16",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3e1215b3624ce77b88c28889dd78cf872c2d85eb16ee68bb4039c37eecd30f31.docx",
+  "source_sha256": "3e1215b3624ce77b88c28889dd78cf872c2d85eb16ee68bb4039c37eecd30f31",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3383",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/02/25/121",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
