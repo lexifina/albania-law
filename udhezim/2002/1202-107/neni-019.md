@@ -1,0 +1,16 @@
+# Neni 19
+Organet që vendosin masa administrative
+Në bazë të ligjit “Për materialin mbjellës bimor”, organet që kanë te drejtë të vendosin masa administrative janë
+a. Kryeinspektori i Farave dhe Fidandve, Inspektoret e ketij Inspektoriati si dhe ëdo person tjeter i autorizuar nga Ministri i Bujqësise dhe Ushqimit per vendosjen e masës së gjobes dhe te bllokimit.
+b. Kryeinspektori për vendosjen e masës të sekuestrimit të asgjesimit ose të kalimit për konsum, kur materiali mbjellës bimor percaktohet i konsumueshëm (Model. 11). Për këtë qëllim ngrihet një Komision Vlerësimi me 5 specialiste të E.SH.F.F.
+c. Materiali mbjellës bimor i sekuestruar administrohet nga E.SH.F.F. në përputhje me legjislacionin në fuqi për sekuestrimet. Ai mbahet në magazina të marra me qera në ambjentet e rezervave të shtetit ose subjekteve të tjera.
+d. Për të realizuar proçedurat e sekuestrimit ose asgjesimië në rast nevoje kërkohet ndihma Organeve të Rendit dhe Tatim Taksave.
+e. Kundër vendimit të dhënë nga Inspektori bëhet ankesë me shkrim brenda 10 ditëve nga data e shpalljes tek Kryeinspektori i I.K.SH.F.F. Kundër vendimit të dhënë nga Kryeinspektori bëhet ankesë me shkrim brenda 10 ditëve nga data e shpalljes ose njoftimit, tek Ministri i Bujqësise dhe Ushqimit.
+f. Proçedurat e ekzekutimit të gjobës bëhen në përputhje me ligjin Nr.7697, datë 07.04. 1993, “Për kundravajtjet administrative”.
+g. Veprimet e inspektorit për vendosjen e masave administrative bëhen të argumentuara dhe jepen me shkrim sipas proçes-verbalit që i bashkangjitet këtij udhëzimi.(Model. 10)
+h. Në ato raste kur është mundësia e riparimit të problemit lihet afat për korrigjim dhe vetë i interesuari e vë në dijeni inspektorin, i cili pasi e rikontrollon i jep leje për veprim ose mosveprim të metejshëm.
+j. Në rastet kur inspektori vëren që për qëllime fitimi ose motive të tjera mashtrimi në kultivare, hibride, linja, kategori, etj., urdhëron bllokimin e menjëhershëm të materialit mbjellës bimor dhe propozon në organe kopetente për ndjekje penale.
+k. Kur vërehet se mbillet dhe tregtohet farë ose çdo lloj materiali mbjellës bimor, që prodhon lëndë narkotike, bën bllokimin e çdo kontigjenti, si dhe bën kalizimin në organet e antidrogës. Inspektorët e I.K.Sh.F.F. dhe personat e tjerë të autorizuar nga Ministri i Bujqësisë dhe Ushqimit, për kryerjen e detyrave të ngarkuara sipas perëcaktimit në dispozitat e ligjit 8732 “Për materialin mbjellës bimor”, ligjit nr.8880 “Për mbrojtjen e të drejtave të seleksionimit të bimëve” dhe gjithë akteve ligjore që rrjedhin prej tyre, përgjigjen zyrtarisht para organit administrativ që i ka në vartësi direkte.
+Të gjithë punonjësit që perfshihen në strukturën organizative të I.K.Sh.F.F., sipas nenit 15, të këtij Udhëzimi, jane të detyruar tu përgjigjen në kohë kërkesave që lidhen me zbatimin e ligjshmërisë.
+Për çdo shpërdorim dhe tejkalim të kopetencave që u japin aktet ligjore dhe nënligjore të mësipërm përgjigjen jo vetëm administrativisht por edhe ligjërisht.
+1. Inspektoret e I.K.SI-I.F.F. dhe personat e tjerë të autorizuar mbrohen me ligj si të gjithë inspektorët e sektorëve të tjerë dhe në përmbushjen e detyrës në rast nevoje, kërkojne ndihmën e Organeve të Rendit dhe Tatim - Taksave.
