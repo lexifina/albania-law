@@ -1,0 +1,1 @@
+3. Ndërtimin nga Bashkia e Vlorës të apartamenteve për kreditorët që kanë humbur banesat nga rënia e skemave piramidale, në një sipërfaqe trualli prej 17 400 m2 të objektit ish-frigoriferi, Vlorë, me aksionerë 51 për qind shoqërinë “Cenaj”sh.p.k., në administrim dhe 49 për qind aksionerët e tjerë të saj, ish punonjës të ndërmarrjes.

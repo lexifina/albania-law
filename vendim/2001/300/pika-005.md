@@ -1,0 +1,1 @@
+5. Sipërfaqet e trojeve të përcaktuara në pikën 2 të këtij vendimi, së bashku me tri banesat në ndërtim, në zonen Laprakë, të kalojnë në administrim të Entit Kombëtar të Banesave dhe Bashkise së Tiranës dhe asaj të Vlorës, si sheshe të lira për ndërtimin e apartamenteve për kreditorët e skemave piramidale nga Fondi i Kredisë Greke për Strehim.

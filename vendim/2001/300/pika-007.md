@@ -1,0 +1,1 @@
+7. Aksionerët që përfaqësojnë 49 për qind të shoqërisë aksionere të ish frigoriferit, Vlorë, të likujdohen nga administratorët e shoqërisë “Cenaj &Co”, sh.p.k. në administrim, me vlerën e aksioneve që rezulton nga llogaritja e të ardhurave të përcaktuara në pikën 4 të këtij vendimi, sipas regjistrimit të secilit në regjistrin e aksioneve.

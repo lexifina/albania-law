@@ -1,0 +1,1 @@
+8. Degët e Bankës Kombëtare Tregtare, në Tiranë, Vlorë, për objektet dhe vlerat financiare të përcaktuara në pikat 3 dhe 4 të këtij vendimi, në mbështetje dhe të vendimeve të administratorëve, të kryejnë, pranë Bankës së Kursimeve, dega Tiranë, kalimin e shumave në llogaritë për shlyerjen e kreditorëve të shoqërive “Vefa Holding” dhe “Cenaj &Co”, sh.p.k. në administrim.

@@ -1,0 +1,1 @@
+6. Makineritë, pajisjet dhe baza tjetër materiale që do të përfitohet pas shembjes së ngrehinave të objektit ish-frigoriferi, Vlorë, të administrohet, prej administratorëve të shoqërisë “Cenaj&Co”, sh.p.k., për shitje, dhe kjo vlerë financiare t’u shpërndahet aksionerëve, përkatësisht 51 dhe 49 për qind.
