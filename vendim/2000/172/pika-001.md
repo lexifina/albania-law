@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve, tokë bujqësore 76520 m2, truall 2467 m2, që preken nga ndërtimi i superstradës Vorë-Maminas (km 1.6-2.7), në territorin e bashkisë së Vorës.
