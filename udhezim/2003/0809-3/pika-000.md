@@ -1,0 +1,2 @@
+Pjesa I
+Të përgjithshme
