@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2578,
+  "title": "Për disa shtesa në vendimin nr.404, datë 19.6.2003 “Për përbërjen, funksionimin dhe detyrat e bordit të gjeoinformacionit”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "78",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-02-12",
+  "published": "2004-02-25",
+  "in_force": "2004-02-25",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a4ffe9abc1c806509e5a5b9b10d43c7a344798e27adda13bf1bd393bb79d77ba.docx",
+  "source_sha256": "a4ffe9abc1c806509e5a5b9b10d43c7a344798e27adda13bf1bd393bb79d77ba",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2578",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/02/12/78",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
