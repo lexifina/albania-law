@@ -1,0 +1,1 @@
+5. Pagesa e mjekëve, anëtarë të komisionit, në bazë të pjesëmarrjes në çdo komision, i cili mblidhet jo më shumë se dy herë në muaj, të bëhet në masën e përcaktuar nga Këshilli i Ministrave, në vendimin nr. 393, datë 3.9.1992, “Për pagat e punonjësve të institucioneve buxhetore”.
