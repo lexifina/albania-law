@@ -1,0 +1,1 @@
+1. Për punonjësit, që kanë punuar në disa ndërmarrje të industrisë ushtarake, masa e trajtimit të veçantë, e përfituar sipas ligjit nr.9179, datë 29.1.2004 “Për një trajtim të veçantë të punonjësve, që kanë punuar në disa ndërmarrje të industrisë ushtarake”, rritet 8 për qind.

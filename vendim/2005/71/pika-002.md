@@ -1,0 +1,1 @@
+2. Për pilotët fluturues, në pension, masa e trajtimit të veçantë, e përfituar sipas ligjit nr.9128, datë 29.7.2003 “Për një trajtim të veçantë financiar të pilotëve fluturues, në pension”, rritet 8 për qind.
