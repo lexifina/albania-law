@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3054,
+  "title": "Për disa ndryshime në vendimin nr.70, datë 15.2.2001 të Këshillit të Ministrave “Për statusin e spitaleve universitare”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "584",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-09-10",
+  "published": "2004-09-24",
+  "in_force": "2004-09-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c54193f64a2fc893f79515b626126a7024d7d7ea974554f341e7c7fcd97d29e8.docx",
+  "source_sha256": "c54193f64a2fc893f79515b626126a7024d7d7ea974554f341e7c7fcd97d29e8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3054",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/09/10/584",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
