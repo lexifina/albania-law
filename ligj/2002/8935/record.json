@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1631,
+  "title": "Për disa ndryshime në ligjin nr.8487, datë 13.5.1999 “Për kompetencat për caktimin e pagave të punës”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8935",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-09-12",
+  "published": "2002-10-16",
+  "in_force": "2002-10-31",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e50762eecc67db79197c57f75353fde3cd5313f6274a4d685abd5edfb895b23e.docx",
+  "source_sha256": "e50762eecc67db79197c57f75353fde3cd5313f6274a4d685abd5edfb895b23e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1631",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/09/12/8935",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
