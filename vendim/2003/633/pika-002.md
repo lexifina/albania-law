@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Punës dhe e Çështjeve Sociale, Ministria e Financave, Ministria e Ekonomisë, Ministria e Drejtësisë, Ministria e Punëve të Jashtme, Ministria e Pushtetit Vendor dhe e Decentralizimit, Ministria e Shëndetësisë, Ministria e Rregullimit të Territorit dhe e Turizmit, Ministria e Rendit Publik, Ministria e Arsimit dhe e Shkencës, Ministria e Kulturës, Rinisë dhe Sporteve, Ministria e Arsimit dhe Ministria e Transportit dhe e Telekomunikacionit për ndjekjen dhe zbatimin e kësaj strategjie.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare
