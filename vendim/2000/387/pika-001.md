@@ -1,0 +1,1 @@
+1. Pensionet e caktuara sipas ligjit nr.4171, datë 13.9.1996, “Mbi sigurimet shoqërore shtetërore në Republikën e Shqipërisë“ dhe ligjit nr.7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë“ (i ndryshuar), me përjashtim të pensioneve të caktuara sipas nenit 96, paragrafi i katërt i ligjit nr.7703, datë 11.5.1993, ndryshon si vijon:

@@ -1,0 +1,1 @@
+9. Pensionet e caktuara sipas ligjit nr.4976, datë 29.6.1972, si dhe pensionet e caktuara, sipas paragrafit të katërt të nenit 96, të ligjit nr.7703, datë 11.5.1993, (i ndryshuar), rriten në masën 15 për qind.

@@ -1,0 +1,1 @@
+10. Pensioni i plotë i pleqërisë dhe pensioni i plotë i invaliditetit, që caktohet sipas paragrafit të katërt të nenit 96, të ligjit nr.7703, datë 11.5.1993, duke filuar nga data 1.7.2000 e në vazhdim nuk llogariten më pak se 1 328 lekë në muaj.

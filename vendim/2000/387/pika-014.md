@@ -1,0 +1,1 @@
+14. Për përballimin e vëllimit të punës, për rritjen e pensioneve, Institutit të Sigurimeve Shoqërore i shtohen në fondin e pagesës 3 milionë lekë, të cilat të përballohen brenda buxhetit të shpenzimeve administrative të tij në vitin 2000.
