@@ -1,0 +1,1 @@
+1. Miratimin e projektit “Ndërtimi i kapaciteteve kombëtare për Institutin e Sigurimeve Shoqërore”, të financuar me shumën 400 400 (katërqind mijë e katërqind) USD, nga të cilat 350 400 (treqindepesëdhjetë mijë e katërqind) USD do të financohen nga Programi për Zhvillim i Kombeve të Bashkuara (PNUD).
