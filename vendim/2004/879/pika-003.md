@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet të kompensohet në vlerë të plotë sipas masës përkatëse, që paraqitet në listën, që i bashkëlidhet këtij vendimi, për sipërfaqen 410 m2 tokë arë, me 479 (katërqind e shtatëdhjetë e nëntë) lekë/m2 tokë arë, të vlerësuar në shumën e përgjithshme 196 390 (njëqind e nëntëdhjetë e gjashtë mijë e treqind e nëntëdhjetë) lekë.

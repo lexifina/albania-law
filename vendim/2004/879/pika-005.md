@@ -1,0 +1,1 @@
+5. Fondi prej 371 890 (treqind e shtatëdhjetë e një mijë e tetëqind e nëntëdhjetë) lekësh, për kompensimin e pronarëve të shpronësuar dhe shpenzimet procedurale, të përballohet nga të ardhurat e bashkisë së Divjakës.
