@@ -1,0 +1,7 @@
+13.Mbyllja e veprimtarisë dhe likuidimi
+(1) Emetuesi informon menjëherë Komisionin dhe bursën, sapo ai të vihet në dijeni, për ndonjërën nga ngjarjet e mëposhtme:
+a) paraqitjen në vendin e regjistrimit ose në ndonjë vend tjetër të themelimit, të ndonjë peticioni për pushimin e veprimtarisë apo të ndonjë aplikimi të të njëjtit lloj me të, apo dhënie e ndonjë urdhri për likuidim apo emërimin e ndonjë likuidatori të përkohshëm për emetuesin, shoqërinë kontrolluese të tij ose për ndonjë shoqëri kryesore, të kontrolluar prej tij;
+b) miratimin e ndonjë rezolute nga emetuesi, shoqëria kontrolluese e tij ose nga ndonjë shoqëri kryesore, e kontrolluar prej tij, që tregon se likuidimi është bërë me dëshirën e anëtarëve a të kreditorëve;
+c) zotërimin ose shitjen nga ndonjë pengmarrës të një pjese të mjeteve të emetuesit, që, në vlerë të përgjithshme përfaqëson një shumë mbi 15 për qind të mjeteve të konsoliduara fikse;
+ç) dhënien e ndonjë gjykimi, deklarimi ose vendimi të marrë nga ndonjë gjykatë, qoftë kjo gjykatë e shkallës së parë apo e apelit, të cilat mund ta zhveshin emetuesin nga e drejta e zotërimit të një pjese të mjeteve të tij, të cilat, në vlerë të përgjithshme, përfaqësojnë një shumë mbi 15 për qind të mjeteve të konsoliduara fikse.
+(2) Për qëllime të paragrafit (1), “një shoqëri kryesore e kontrolluar e emetuesit” nënkupton një shoqëri të konrolluar prej emetuesit, që përfaqëson 15 për qind ose më shumë në mjetet e konsoliduara fikse ose në fitimin para tatimit.

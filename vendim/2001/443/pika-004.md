@@ -1,0 +1,2 @@
+4.Dërgimi i pasqyrave financiare
+Emetuesi do t’i dërgojë Komisionit, bursës, çdo anëtari të tij dhe zotëruesve të letrave me vlerë të tij (jo të atyre letrave me vlerë që i paguhen prurësit në të parë), një kopje të pasqyrave financiare, vjetore, raportin e ekspertëve kontabël dhe raportin e drejtorëve të tij për vitin financiar të mbyllur, jo më vonë se 21 ditë përpara datës së mbledhjes së përgjithshme vjetore të asamblesë së emetuesit dhe jo më vonë se 6 muaj pas përfundimit të këtij viti financiar.

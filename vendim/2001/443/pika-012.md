@@ -1,0 +1,2 @@
+12.Termat e shpërndarjes së letrave me vlerë
+Emetuesi informon Komisionin dhe bursën për termat e shpërndarjes së letrave me vlerë të ofruara publikut, për nënshkrim ose shitje dhe për rezultatet e çdo të drejte të emetuar dhe, nëse është e zbatueshme edhe për kriteret e pranimit të aplikimeve shtesë, jo më vonë se mëngjesi i ditës së nesërme të punës pas postimit të “letrave të shpërndarjes” ose të dokumenteve të tjera të rëndësishme të pronësisë.
