@@ -1,0 +1,1 @@
+3. Ministria e Kulturës, Rinisë dhe Sporteve, brenda 3 muajve nga hyrja në fuqi e këtij vendimi, të hartojë dhe të paraqesë për miratim në Këshillin e Ministrave rregulloren e administrimit të këtij ansambli historik.

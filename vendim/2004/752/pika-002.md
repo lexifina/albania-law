@@ -1,0 +1,1 @@
+2. Ministria e Rregullimit të Territorit dhe e Turizmit dhe Ministria e Kulturës, Rinisë dhe Sporteve, në bashkëpunim me institucionet e specializuara, të hartojnë dhe të propozojnë programin e masave për restaurimin e Pallatit të Brigadave dhe të parkut të tij dhe kthimin e tyre për destinacion turistik.
