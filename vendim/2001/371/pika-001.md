@@ -1,0 +1,3 @@
+1. Përballimi i efekteve financiare për zbatimin e vendimit nr. 73, datë 15. 2. 2001 të Këshillit të Ministrave “Për kriteret dhe masën e trajtimit të veçantë të punonjësve që kanë punuar në miniera në nëntokë”, për vitin 2001, të bëhet si më poshtë:
+a) 432 milionë lekë për përballimin e pagesave të trajtimit të veçantë të punonjësve që kanë punuar në miniera në nëntokë, nga fondi rezervë i Këshillit të Ministrave.
+b) 6.5 milionë lekë për komisionin e kryerjes së shërbimit, të administrimit, të caktimit dhe të pagimit, të trajtimeve të veçanta të punonjësve që kanë punuar në miniera në nëntokë, nga Buxheti i Insitutit të Sigurimeve Shoqërore për vitin 2001.
