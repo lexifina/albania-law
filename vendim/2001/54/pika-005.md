@@ -1,0 +1,1 @@
+5. Ngarkohen organet përkatëse të qeverisjes vendore në territorin e të cilit ndodhet objekti, të kërkojnë përfitimin e objektit, në rrugë gjyqësore, në rastet e privatizimit të paligjshëm të objektit.

@@ -1,0 +1,1 @@
+1. Kalimin e objekteve kulturore të ish-ndërmarrjeve bujqësore, nga pasuri e sindikatave të fituara në zbatim të dekretit nr.204, datë 5.6.1992, të Presidentit të Republikës, “Për pasuritë e sindikatave”, në pronësi të organeve të qeverisjes vendore, në territorin e të cilit ndodhet objekti.
