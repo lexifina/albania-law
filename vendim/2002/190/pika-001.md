@@ -1,0 +1,1 @@
+1. Publikimin për herë të dytë të objekteve të listës nr. 1, që i bashkëlidhet këtij vendimi, për të cilat kanë filluar procedurat e privatizimit, sipas vendimit nr. 192, datë 20.3. 1998 të Këshillit të Ministrave, por që ende nuk janë zhvilluar ankandet.

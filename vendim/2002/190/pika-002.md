@@ -1,0 +1,1 @@
+2. Publikimin për herë të dytë të objekteve të listës nr. 2, që i bashkëlidhet këtij vendimi, për të cilat kanë filluar procedurat e privatizimit, sipas vendimit nr. 283, datë 18.6.1999 të Këshillit të Ministrave, por që ende nuk janë zhvilluar ankandet.

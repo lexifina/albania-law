@@ -1,0 +1,1 @@
+3. Publikimin për herë të dytë të pjesëve të kapitalit shtetëror në shoqëritë me kapital të përbashkët, të listës nr. 3, që i bashkëlidhet këtij vendimi, për të cilat kanë filluar procedurat e privatizimit, sipas vendimit nr. 230, datë 4.4.1998 të Këshillit të Ministrave, por që ende nuk janë zhvilluar ankandet.
