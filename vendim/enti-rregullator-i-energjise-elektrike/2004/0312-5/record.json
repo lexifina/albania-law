@@ -1,0 +1,29 @@
+{
+  "qbz_id": 2713,
+  "title": "PËR DHËNIEN E LICENCËS PËR SHFRYTËZIMIN DHE PRODHIMIN E ENERGJISË ELEKTRIKE SHOQËRISË \"JUANA\" sh.p.k",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "5",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2004-03-12",
+  "published": "2004-05-03",
+  "in_force": "2004-05-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/94a20f5b8d6001a865c3720843d85ed243ec7a1a5e522e80987ae2bbd4672473.docx",
+  "source_sha256": "94a20f5b8d6001a865c3720843d85ed243ec7a1a5e522e80987ae2bbd4672473",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2713",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/03/12/5",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10122,
+    18482
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
