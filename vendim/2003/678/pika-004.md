@@ -1,0 +1,1 @@
+4. Të drejtën e trajtimit e kanë ata punonjës që kanë qenë të punësuar në Spitalin Ushtarak Qendror Universitar pa ndërprerje, për një periudhë kohe jo më pak se 1 vit e që nuk zhvillojnë veprimtari ekonomike si punëdhënës, punëmarrës ose të vetëpunësuar. Në rast të kundërt, u ndërpritet trajtimi që përfitojnë sipas këtij vendimi.

@@ -1,0 +1,1 @@
+3. Periudha e pagesës për këta persona të njihet si periudhë sigurimi, për efekt përfitimi pension pleqërie, invaliditeti dhe familjar, sipas ligjit nr.7703, datë 11.5.1993 ”Për sigurimet shoqërore në Republikën e Shqipërisë”, i ndryshuar. Kjo periudhë të shënohet në librezën e punës.

@@ -1,0 +1,1 @@
+7. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2003, nga zëri ”Mallra e shërbime” t’i zbritet shuma prej 15 000 000 (pesëmbëdhjetë milionë) lekësh, e cila të kalojë në zërin ”Shpenzime për pagat”, për përballimin e efekteve financiare për këtë vit.

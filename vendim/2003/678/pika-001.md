@@ -1,0 +1,1 @@
+1. Punonjësit civilë, që, më datë 1.9.2003, mbetën të papunë nga reforma në Spitalin Ushtarak Qendror Universitar, të trajtohen financiarisht, për një periudhë 6-mujore, në masën 100 për qind të pagës bazë mujore dhe të shtesës për vjetërsi në punë, në çastin e shkëputjes së marrëdhënieve financiare.
