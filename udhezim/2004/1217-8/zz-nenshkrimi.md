@@ -1,0 +1,3 @@
+# Nënshkrimi
+MinistrI I RREGULLIMIT TË TERRITORIT DHE I TURIZMIT
+Bashkim Fino

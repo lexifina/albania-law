@@ -1,0 +1,1 @@
+9. Drejtuesi i sektorit me marrjen në dorëzim të lejes së varrimit, përcakton parcelën, rrjeshtin dhe numrin e varrit, si dhe orarin kur do të kryhet varrimi i kufomës. Gjithashtu regjistron në regjistrin e shërbimit të varrimit të gjitha të dhënat e nevojshme që kërkohen.

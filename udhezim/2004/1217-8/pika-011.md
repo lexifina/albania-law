@@ -1,0 +1,1 @@
+11. Brenda një afati prej 2 muaj mbas mbulimit të kufomës të përfundojë nivelimi i terrenit rreth varrit dhe vendosja e bordurave kufizuese betonarmeje. Një vit mbas varrosjes, familjarët e të ndjerit mund të bëjnë rregullimin dhe zbukurimin përfundimtar të varrit.

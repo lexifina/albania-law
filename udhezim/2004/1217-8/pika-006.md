@@ -1,0 +1,1 @@
+6. Territori i varrezave publike është pronë publike e paluajtshme e njësisë përkatëse të qeverisjes vendore, prandaj nuk lejohet shitja ose kontraktimi me pagesë i vendeve të varrimit. Në raste shkeljeje bëhet denoncim pranë organeve kompetente.

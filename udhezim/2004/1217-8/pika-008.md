@@ -1,0 +1,2 @@
+8. Varrimi i kufomave bëhet 24 orë nga momenti i vdekjes, me lejen e varrimit të organeve të bashkisë ose komunës. Leja e varrimit jepet pasi të dorëzohet në gjendjen civile skeda e vdekjes, e cila jepet nga mjeku i familjes.
+Kur kufoma ka vdekur nga një sëmundje infektive, sipas skedës së vdekjes, kjo shkruhet edhe në lejen e varrimit në mënyrë që të kryhet një varrim i veçantë dhe rigoroz sipas të gjitha rregullave të këtij ligji.

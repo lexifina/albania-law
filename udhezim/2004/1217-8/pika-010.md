@@ -1,0 +1,1 @@
+10. Çdo varr dallohet nga një pllakë e përbërë prej materiali rezistent ndaj veprimit shkatërrues të agjentëve atmosferikë dhe që ka një numër progresiv. Mbi pllakën e varrit vendoset një target prej materiali të paprishëm që përmban: emrin, mbiemrin dhe datën e lindjes e të vdekjes së të ndjerit.

@@ -1,0 +1,1 @@
+12. Të mos lejohet rrethimi i varrit me mjete dekorative ose kangjella në mënyrë të tepruar, duke mos respektuar dimensionet e varreve dhe të rrugicave ndërmjet tyre. Zbukurimi i varrit bëhet vetëm brenda bordurave kufizuese të tij.

@@ -1,0 +1,1 @@
+7. Rregullin dhe disiplinën për hapje-mbyllje varri, veshje me pllaka të brendshme betoni, ndërtimin e bordurave mbitokësore, mirëmbajtjen dhe ruajtjen e varrezave e kryen ndërmarrja publike vendore ose një firmë private e licencuar.

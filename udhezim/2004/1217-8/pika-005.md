@@ -1,0 +1,1 @@
+5. Ndalohet kryerja e punimeve në varreza publike nga subjekte të tjera, përveç atij të saktësuar si administrues i territorit të varrezave publike. Në rast shkeljeje merren masa deri në denoncim penal.
