@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3127,
+  "title": "PËR ZGJEDHJEN E GUVERNATORIT TË BANKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "152",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-10-28",
+  "published": "2004-11-09",
+  "in_force": "2004-11-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a7507892864e72a78b3dde173d571865472c51a6fbf2190b6524a74e9cd09b5d.docx",
+  "source_sha256": "a7507892864e72a78b3dde173d571865472c51a6fbf2190b6524a74e9cd09b5d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3127",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/10/28/152",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
