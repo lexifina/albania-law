@@ -1,0 +1,1 @@
+4. Efektivi që merret me ruajtjen dhe sigurimin e ish-shefit të Shtabit të Përgjithshëm të Forcave të Armatosura të Republikës së Shqipërisë është pjesë e efektivit të regjimentit të Policisë Ushtarake.
