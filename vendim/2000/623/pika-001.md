@@ -1,0 +1,1 @@
+1. Paga bazë e administratorëve dhe e specialistëve në shoqëritë humarrëse dhe në Qendrën e Ankandeve, duke filluar nga data 1 tetor 2000, rritet mesatarisht 10 për qind. Niveli i pagës mujore, të administratorëve dhe të specialistëve të Qendrës së Ankandeve, zëvendësohet me lidhjen nr.1, që i bashkëlidhet këtij vendimi.
