@@ -1,0 +1,1 @@
+3. Në konkurrimin dhe emërimin e përgjegjësit dhe të punonjësve të seksioneve të administrimit dhe të mbrojtjes së tokës pranohen dhe caktohen në detyrë vetëm specialistë me profesion agronom, gjeodet, gjeograf dhe ekonomist.

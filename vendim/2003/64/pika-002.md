@@ -1,0 +1,1 @@
+2. Zyrat e menaxhimit dhe mbrojtjes së tokës, pranë komunave dhe/ose bashkive, të kenë në përbërje një numër punonjësish, të përcaktuar me vendim të këshillit të komunës dhe/ose bashkisë, në varësi të sipërfaqes së tokës dhe të kushteve të territorit.

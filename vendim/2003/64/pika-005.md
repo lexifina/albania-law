@@ -1,0 +1,1 @@
+5. Punonjësit e strukturave të administrimit dhe të mbrojtjes së tokës të paguhen sipas vendimit nr. 726, datë 21.12.2000 të Këshillit të Ministrave “Për pagat e punonjësve të institucioneve buxhetore”.
