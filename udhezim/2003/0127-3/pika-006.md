@@ -1,0 +1,2 @@
+6. Kontrolli tatimor dhe verifikimi
+Libri i shitjeve dhe blerjeve duhet të paraqitet në degën e tatimeve në momentin e regjistrimit dhe riregjistrimit. Dega e tatimeve verifikon librin e shitjeve dhe blerjeve për të parë nëse ai është mbajtur konform kërkesave të ligjit. Gjatë çdo kontrolli ose verifikimi të mëtejshëm, dega e tatimeve verifikon nëse tatimpaguesi e përdor rregullisht librin e shitjeve dhe blerjeve, duke zbatuar dënimet administrative në rastet e shkeljeve. Shkelje konsiderohet gjithashtu edhe mospërdorimi i librit.

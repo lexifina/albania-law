@@ -1,0 +1,6 @@
+5. Lëshimi i dokumenteve të shitjes
+Tatimpaguesit e biznesit të vogël janë të detyruar të lëshojnë dokumentet e mëposhtme për çdo shitje që realizojnë:
+- Kupon tatimor në rastin kur tatimpaguesi është i pajisur me arkë regjistruese. Ky kupon i jepet klientit për çdo shitje të kryer.
+- Dëftese tatimore në rastin kur tatimpaguesi nuk është pajisur me arkë regjistruese. Dëftesat tatimore përgatiten në dy kopje me letër vetëkopjuese nga të cilat njëra i jepet klientit.
+- Faturë të thjeshtë tatimore e cila lëshohet vetëm nga tatimpaguesit, të cilët shesin mallra apo shërbime për klientë të cilët nuk janë konsumatorë finalë të mallit apo shërbimit, por i kryejnë këto blerje për qëllim përpunimi apo rishitje, pra janë subjekte të regjistruara për tatimet. Tatimpaguesi duhet t’i japë klientit një faturë për çdo shitje mallrash apo shërbimesh. Fatura do të përbëhet nga dy kopje duke përdorur letër vetëkopjuese ose letër karbon dhe tatimpaguesi do t’ia japë një kopje klientit dhe një kopje do ta mbajë vetë. Fatura duhet të jetë me numër serial dhe numri i faturës duhet të shënohet në librin e shitjeve dhe blerjeve.
+Dega e tatimeve mundet që në çdo kohë, të kontrollojë nëse tatimpaguesi lëshon dokumentet e shitjes, siç përcaktohet në ligj dhe në këtë udhëzim.

@@ -1,0 +1,3 @@
+3. Deklarimi
+Tatimpaguesi duhet të deklarojë çdo vit qarkullimin e tij të përgjithshëm nga të gjithë bizneset brenda objektit të tatimit të thjeshtuar mbi fitimin. Deklarimi bëhet duke plotësuar formularin e kërkesës për regjistrim. Deklarata duhet të shoqërohet me librat e qarkullimit të mbajtur për çdo vendndodhje biznesi dhe librat e dorëzuara do të konsiderohen si pjesë e deklarimit të bërë.
+Nëse tatimpaguesi ndërpret biznesin, ai duhet të paraqesë një deklaratë të qarkullimit të tij për vitin në vazhdim deri në datën e mbylljes në formularin e njoftimit të ndryshimeve në të dhënat e regjistrimit, i cili jep të gjitha të dhënat e kërkuara.
