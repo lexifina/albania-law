@@ -1,0 +1,2 @@
+10. Ministria e Mbrojtjes dhe Ministria e Punëve të Jashtme, të bashkëpunojnë ndërmjet tyre në drejtimin e informimit të ndërsjelltë, për zbatimin e programit, dhe kjo e fundit të raportojë në Organizatën e Kombeve të Bashkuara, pranë Sekretariatit të Përgjithshëm, jo më vonë se 30 prilli i çdo viti, për punën që bëhet dhe për problemet që dalin në procesin e zbatimit të programit, sipas përcaktimeve të konventës.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

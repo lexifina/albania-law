@@ -1,0 +1,1 @@
+8. Ministria e Mbrojtjes në mbështetje të pikave 5 dhe 7 të këtij vendimi, të paraqesë në Këshillin e Ministrave, programin dhe efektet financiare të nevojshme për realizimin e këtyre detyrimeve, tre muaj pas hyrjes në fuqi të tij.
