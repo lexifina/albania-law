@@ -1,1 +1,0 @@
-4. Ndërmarrjet e mësipërme, në përbërje të drejtorisë së përgjithshme të qendrave studentore, ushtrojnë veprimtarinë e tyre në konvikte e mensa, për pastrim gjelbërimin dhe për ngrohjen e mjediseve studentore.
