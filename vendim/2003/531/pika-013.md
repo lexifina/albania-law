@@ -1,0 +1,1 @@
+13. Baza e mbrojtjes civile, njësitë e Forcave të Armatosura të Republikës së Shqipërisë dhe repartet speciale të Ministrisë së Rendit Publik, në operacionet e shpëtimit dhe të riaftësimit drejtohen nga komandantët e tyre, sipas detyrave që u jepen nga drejtuesi i operacionit.

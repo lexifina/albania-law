@@ -1,0 +1,1 @@
+8. Me kërkesën e prefektit, në rastet kur shtrirja e një emergjence civile rritet në mënyrë të menjëhershme, pas njoftimit të drejtuesve të organeve qendrore, që kanë në varësi strukturat përkatëse, për përballimin e situatave mund të angazhohen strukturat vepruese mbështetëse, që veprojnë në territorin e qarkut, por që janë në varësi të drejtpërdrejtë të organeve qendrore.

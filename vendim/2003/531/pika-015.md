@@ -1,0 +1,1 @@
+15. Në rast situate emergjente, me kërkesë të kryetarit të bashkisë ose të komunës, prefekti cakton, pranë komisionit vendor për emergjencat civile të bashkisë ose komunës, një pjesë ose të gjithë stafin e zyrës së emergjencave të administratës së tij.

@@ -1,0 +1,1 @@
+9. Departamenti i planizimit dhe përballimit të emergjencave civile shërben si pikë kontakti, në nivel kombëtar, për të gjitha problemet që kanë lidhje me emergjencat civile si në kohë të qetë, edhe në kohë emergjence.

@@ -1,0 +1,1 @@
+17. Në varësi të tipit dhe të përmasave të fatkeqësisë, Qendra kombëtare operacionale e emergjencave civile njofton strukturat e shërbimit të emergjencave civile të çdo niveli, të cilat pas këtij njoftimi, vihen në gjendje gatishmërie.

@@ -1,0 +1,1 @@
+16. Në rast të një fatkeqësie të menjëhershme, katastrofike, kryetari i bashkisë ose i komunës u drejtohet, drejtëpërdrejt, për ndihmë të gjithë drejtuesve të strukturave të sistemit të emergjencave civile, që veprojnë në territorin e tij ose të atyre fqinjë, njofton menjëherë prefektin dhe Qendrën kombëtare operacionale në Ministrinë e Pushtetit Vendor dhe të Decentralizimit.

@@ -1,0 +1,1 @@
+5. Strukturat vepruese, aktive angazhohen menjëherë për përballimin e çdo situate të krijuar nga faktorë të ndryshëm, që kërcënojnë jetën, pronën dhe veprimtarinë normale të shtetasve, sipas planeve të gatishmërisë dhe të veprimit për situata të emergjencave civile, të hartuara dhe të miratuara më parë.

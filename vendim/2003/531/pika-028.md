@@ -1,0 +1,2 @@
+28. Ngarkohen Ministria e Pushtetit Vendor dhe e Decentralizimit, Ministria e Mbrojtjes, Ministria e Rendit Publik, Ministria e Rregullimit të Territorit dhe e Turizimit, Ministria e Transportit dhe e Telekomunikacionit, Ministria e Shëndetësisë, Ministria e Bujqësisë dhe e Ushqimit, prefektët e qarqeve, institutet kërkimore dhe shkencore, organet e qeverisjes vendore, si dhe agjencitë e subjektet e ndryshme, që kanë lidhje me planifikimin dhe përballimin e emergjencave civile, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+27. Drejtuesit e forcave vepruese të shërbimit të emergjencave civile në nivel qendror dhe vendor, si dhe qendrat operacionale kryejnë detyrat dhe përgjigjen për zbatimin e planeve për përballimin e emergjencave civile, sipas niveleve përkatëse.
