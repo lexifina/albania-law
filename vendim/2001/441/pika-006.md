@@ -1,0 +1,3 @@
+6.Komunikimi i qartë, i drejtë dhe i ndershëm
+1.Një person i licencuar pranon një komunikim nga një person tjetër, është caktuar të vërë në lëvizje ofrimin e shërbimeve në veprimtarinë e investimit në letrat me vlerë, vetëm nëse ai tregon arsye bindëse që të bëjnë të besosh se komunikimi është i saktë, i kuptueshëm dhe orientues.
+2. Një person i licencuar ndërmerr hapat e nevojshme për të siguruar se çdo kontratë, komunikim, njoftim ose informacion, me shkrim që ai i jep apo i dërgon klientëve, të cilëve iu ofron shërbime në veprimtarinë e investimit në letrat me vlerë, është paraqitur drejt dhe qartë.

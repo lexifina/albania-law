@@ -1,0 +1,3 @@
+15.Konfirmimi dhe informimi periodik
+1.Kur një person i licencuar kryen blerjen ose shitjen e letrave me vlerë për një klient, ai duhet të sigurojë se klientit do t’i dërgohet, brenda 24 orëve, një formular me shkrim, që përmban hollësitë kryesore të transanksionit.
+2.Kur një person i licencuar vepron si një drejtues investimesh për një klient, siguron se klientit i dërgohet, në periudha të përshtatshme kohe, një raport, i cili paraqet vlerën e portofolit ose të llogarisë, në fillim dhe në fund të periudhës, përbërjen e tij në fund dhe, në rastin e një portofoli ose llogarie të fshehtë, ndryshimet në përbërjen e tij, ndërmjet këtyre datave.

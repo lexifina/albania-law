@@ -1,0 +1,2 @@
+13.Përshtatshmëria
+Personi i licencuar duhet të ndërmarrë të gjitha hapat e nevojshme për të siguruar se nuk do të ofrojë këshillim në veprimtarinë e investimit në letrat me vlerë dhe nuk do të ndikojë në kryerjen e një transanskioni, me ose për një klient, për sa kohë që ky këshillim apo ky transaksion vlerësohet i papërshtatshëm, për aq sa rezulton nga faktet që i paraqet klientit apo nga fakte të tjera, të rëndësishme për klientin e për të cilat personi i licencuar është ose duhet të jetë në dijeni.
