@@ -1,0 +1,1 @@
+8. Bashkëshorti/ja e ushtarakut, që ka përfituar pagesën e papunësisë e përfiton atë edhe pasi ushtaraku nxirret në rezervë, në lirim ose vdes, por jo më shumë se periudha e caktuar në pikën 6 të këtij vendimi dhe në përputhje me kriteret e vendosura në këtë vendim. Në çdo rast, paga e papunësisë do të tërhiqet në strukturën ku është trajtuar financiarisht ushtaraku.

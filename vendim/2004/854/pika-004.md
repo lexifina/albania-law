@@ -1,0 +1,1 @@
+4. Bashkëshorti/ja e ushtarakut, për të përfituar pagesën e papunësisë, duhet të paraqesë kërkesën për punë në zyrat e punës dhe të përkrahjes sociale dhe në institucionin ku shërben bashkëshorti ushtarak.

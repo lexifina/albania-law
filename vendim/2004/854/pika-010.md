@@ -1,0 +1,1 @@
+10. Periudha e trajtimit me pagesë papunësie sipas këtij vendimi njihet si vjetërsi sigurimi, për efekt të përfitimit të pensionit të pleqërisë, në përputhje me ligjin “Për sigurimet shoqërore në Republikën e Shqipërisë”.

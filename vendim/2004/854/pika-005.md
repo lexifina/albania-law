@@ -1,0 +1,1 @@
+5. Në rast refuzimi pa arsye të vendit të punës së ofruar nga institucionet e përmendura në pikën 4 të këtij vendimi, sipas profesionit dhe specialitetit, përfituesit i ndërpritet pagesa e papunësisë.
