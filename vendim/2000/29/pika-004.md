@@ -1,0 +1,1 @@
+4. Fondi për shpërblimin e pronarëve të shpronësuar, sipas pikës 3 të këtij vendimi, të përballohet nga fondi i miratuar për Ministrinë e Transportit, për këtë objekt, në buxhetin e shtetit për vitin 2000, në zërin “Shpronësime”.

@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme që shpronësohen të shpërblehen, në lekë, në vlerë të plotë, sipas listave emërore që i bashkëlidhen vendimit, për shumën e përgjithshme prej 85 876 876 (tetëdhjetepesë milionë e tetëqindeshtatëdhjetegjashtë mijë e tetëqindeshtatëdhjetegjashtë) lekësh.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pasurive të paluajtshme, truall 17518 m2 objekt ndërtimi 1301m2, që preken nga zgjerimi i segmentit rrugor “Kthesa e Kamzës- Zogu i Zi”, në Tiranë, të pronarëve, sipas listave emërore që i bashkëlidhen këtij vendimi.
