@@ -1,0 +1,1 @@
+1. Punonjësit që mbeten pa punë nga konservimi i TEC-it në qytetin e Korçës të trajtohen financiarisht për një periudhë 4-mujore, duke filluar nga data 1 shtator 2001, në masën 100 për qind të pagës mujore dhe të vjetërsisë në punë, në çastin e shkëputjes nga puna.

@@ -1,0 +1,1 @@
+4. Fondet prej 8 470 000 (tetë milionë e katërqind e shtatëdhjetë mijë) lekësh, të nevojshme për kryerjen e pagesës për periudhën 1 shtator - 31 dhjetor 2001, të përballohen nga Ministria e Punës dhe Çështjeve Sociale, brenda fondeve të miratuara për vitin 2001.
