@@ -1,0 +1,1 @@
+8. Vendkomandat e kohës së veçantë, të cilat kanë qenë në administrim të ish-këshillave të rretheve, kalojnë në administrimin e prefektit, kurse ato të komunitetit administrohen e mirëmbahen nga bashkitë dhe komunat.
