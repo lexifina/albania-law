@@ -1,0 +1,1 @@
+4. Vlera financiare prej 3 800 000 000 (tre miliardë e tetëqind milionë) lekësh (e konvertuar), gjendje në llogaritë bankare të shoqërisë “Vefa Holding” sh.p.k., në administrim, në Raiffeisen Bank, të transferohet, brenda muajit janar 2005, në llogarinë për shlyerjen e kreditorëve, të çelur pranë Bankës Kombëtare Tregtare.
