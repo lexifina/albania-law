@@ -1,0 +1,31 @@
+{
+  "qbz_id": 65296,
+  "title": "Për miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të bashkisë së kuçovës",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "662",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-10-08",
+  "published": "2004-10-21",
+  "in_force": "2004-10-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3085a1cc4ff6acf33b71fda2325b1a4649cb4b2370d8c71b6281a6b98aaf2b7d.docx",
+  "source_sha256": "3085a1cc4ff6acf33b71fda2325b1a4649cb4b2370d8c71b6281a6b98aaf2b7d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65296",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/10/08/662",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    23757,
+    56695,
+    15606,
+    7482
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
