@@ -1,0 +1,1 @@
+7. Pika 1, 2, 7, 8 dhe 15 të vendimit nr. 249, datë 16.4.1996, të Këshillit të Ministrave, ”Për procedurat e operacioneve financiare për dhënien e kredive dhe të subvencioneve shtetërore, që do të kryhen nga Banka e Kursimeve, në zbatim të ligjit nr. 8030, datë 15.11.1995 ”Për kontributin e shtetit për familjet e pastreha” shfuqizohen.

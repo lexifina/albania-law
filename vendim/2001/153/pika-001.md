@@ -1,0 +1,1 @@
+1. Normat e strehimit për sipërfaqet e banimit që do t’u takojnë familjeve të pastreha, të kategorisë emergjente, qiramarrëse në ish-pronë private, të jenë normat e përdorura në privatizimin e banesave shtetërore në vitin 1993, (4-6m2 për frymë).

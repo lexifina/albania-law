@@ -1,0 +1,1 @@
+4. Për banesat e ndërtuara apo të blera në tregun e lirë nga Enti Kombëtar i Banesave, subvencioni shtetëror për familjet e pastreha, do të zbriten drejtpërdrejt nga vlera e banesës, në çastin e lidhjes së kontratës përfundimtare, ndërmjet qytetarëve dhe Entit Kombëtar të Banesave dhe do t’i njihet Entit Kombëtar të Banesave si shlyerje detyrimi ndaj buxhetit të shtetit.
