@@ -1,0 +1,1 @@
+4. Qendrat e rekrutim-mobilizimit, në bashkëpunim me bashkitë ose komunat, parashikojnë shpenzimet për pagesat e korrierëve, që realizojnë lajmërimin e shtetasve, në bazë të njësive vendore për çdo vit buxhetor, dhe i paraqesin ato në Ministrinë e Mbrojtjes.

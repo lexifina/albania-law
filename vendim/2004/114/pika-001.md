@@ -1,0 +1,1 @@
+1. Bashkia apo komuna, ku shtetasi ka vendbanimin, detyrohet të lajmërojë dhe të sigurojë paraqitjen e shtetasit, që thirret për kryerjen e shërbimit të detyrueshëm ushtarak, në qendrat e rekrutim-mobilizimit.

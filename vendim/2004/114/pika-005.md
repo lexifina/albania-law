@@ -1,0 +1,1 @@
+5. Ministria e Mbrojtjes, me miratimin e buxhetit, bën ndarjen e hollësishme nga buxheti i vet në atë vendor, si transferta të kushtëzuara, për çdo bashki apo komunë, që do të kryejë pagesat për lajmërimin e shtetasve.

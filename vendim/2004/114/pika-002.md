@@ -1,0 +1,1 @@
+2. Pagesa, për çdo ditë-pune e korrierëve sezonalë për njoftimin e shtetasve për kryerjen e shërbimit të detyrueshëm ushtarak, aktiv ose në rezervë, të jetë sa paga ditore e pagës minimale mujore, në shkallë vendi.
