@@ -1,0 +1,1 @@
+2. Uji mineral natyral nënkupton ujë të pastër dhe të shëndetshëm nga pikëpamja mikrobiologjike dhe fiziko-kimike (shtojca 1 e këtij vendimi), me origjinë nga një burim ose shtresë nëntokësore dhe që nxirret nga toka nëpërmjet një ose më shumë daljeve natyrore ose puseve të shpuara.
