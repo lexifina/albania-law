@@ -1,0 +1,1 @@
+7. Punonjësit e tjerë të Drejtorisë së Përgjithshme të Metrologjisë dhe të Kalibrimit të paguhen sipas vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave “Për pagat e punonjësve të institucioneve buxhetore”, i ndryshuar.

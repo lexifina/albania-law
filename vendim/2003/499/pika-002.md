@@ -1,0 +1,1 @@
+2. Struktura dhe nivelet e pagave për pozicionet “inspektor”, “kryetar dege” dhe “drejtor i drejtorisë rajonale” në drejtorinë rajonale, degët dhe zyrat e metrologjisë dhe të kalibrimit të jenë sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi.
