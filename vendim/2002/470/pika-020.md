@@ -1,0 +1,1 @@
+20. Komisioneri (brokeri) duhet të zotërojë, në çdo kohë, një garanci financiare të barabartë me mesataren mujore të primeve të grumbulluara nga ai në 12 muajt e fundit, por kjo shumë nuk mund të jetë më e vogël se 40 milionë lekë për një komisioner (broker).
