@@ -1,0 +1,1 @@
+5. Nëpunësi është i detyruar t’u përgjigjet menjëherë kërkesave të drejtorisë së përsonelit, për të gjitha të dhënat e përcaktuara në pikën 2 të këtij vendimi, si dhe të njoftojë menjëherë për ndryshimin e tyre. Nëpunësi mban përgjegjësi për vërtetësinë e të dhënave që jep për plotësimin e dosjes së personelit.

@@ -1,0 +1,1 @@
+1. Dosja e personelit është individuale dhe përmban të dhëna të karakterit teknik, profesional, masat disiplinore, të dhënat për vlerësimin periodik të rezultateve individuale në punë, si dhe të dhëna të tjera sipas anekseve I dhe II.

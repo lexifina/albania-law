@@ -1,0 +1,1 @@
+2. Institucioni me propozimin e drejtorisë së personelit dhe miratimin e Departamentit të Administratës Publike mund t’i shtojë dosjes së personelit elementë, që mund të shihen të arsyeshme për specifikat e atij insitucioni.
