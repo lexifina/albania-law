@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123869,
+  "title": "PËR SHPËRBLIMIN E PUNËS SË PUNONJËSVE",
+  "type": "Vendim",
+  "number": "317",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-07-08",
+  "version_no": 1,
+  "qbz_version_id": 10915,
+  "in_force": "2000-05-25",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2000-05-25",
+  "changed_by_qbz_id": 191,
+  "changed_by_number": "261",
+  "changed_by_title": "PËR NJË NDRYSHIM NË VENDIMIN E KËSHILLIT TË MINISTRAVE NR.317, DATË 8.7.1999, “PËR SHPËRBLIMIN E PUNËS SË PUNONJËSVE”",
+  "source": "https://qbz.gov.al/files/efff93d828ad87f621e47064e5ab5b7f24d08aca849fa04163a6b096fe3a2d1c.docx",
+  "source_sha256": "efff93d828ad87f621e47064e5ab5b7f24d08aca849fa04163a6b096fe3a2d1c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123869",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123869/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
