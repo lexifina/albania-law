@@ -1,0 +1,1 @@
+1.Miratimin e memorandumit teknik të mirëkuptimit ndërmjet Ministrisë së Punëve Publike të Shqipërisë dhe Ministrisë së Punëve të Jashtme të Italisë, “Për projektin urë për asistencë të menjëhershme për impiantin e ujit të pijshëm në Bovillë.”.
