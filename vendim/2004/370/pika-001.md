@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Komisionit Qendror të Zgjedhjeve të një depoje, në përdorim të Drejtorisë së Përgjithshme të Rezervave Shtetërore në Lundër, sipas planimetrisë dhe genplanit, që i bashkëlidhet këtij vendimi.
