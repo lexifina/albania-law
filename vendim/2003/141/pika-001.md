@@ -1,0 +1,1 @@
+1. Masa e pagesës vjetore për mbajtjen e së drejtës të seleksionerit të bimëve në regjistrin përkatës të jetë 4000 (katër mijë) lekë dhe për ndryshimin e përshkrimeve në regjistër të jetë 1 000 (një mijë) lekë.
