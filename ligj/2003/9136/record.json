@@ -1,0 +1,35 @@
+{
+  "qbz_id": 2338,
+  "title": "PËR MBLEDHJEN E KONTRIBUTEVE TE DETYRUESHME TË SIGURIMEVE SHOQËRORE DHE SHËNDETËSORE NË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9136",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-09-11",
+  "published": "2003-10-07",
+  "in_force": "2003-10-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/f0aab0f62508899af511696f5d0471da9551182b3f541e461bff0de3f8a96bf0.docx",
+  "source_sha256": "f0aab0f62508899af511696f5d0471da9551182b3f541e461bff0de3f8a96bf0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2338",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/09/11/9136",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62950,
+    12847,
+    60592,
+    7806,
+    6898,
+    4040,
+    3241,
+    2460
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
