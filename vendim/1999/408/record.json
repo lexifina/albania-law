@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123853,
+  "title": "PËR PRIVATIZIMIN  ME TENDER TË NDËRMARRJEVE SHTETËRORE",
+  "type": "Vendim",
+  "number": "408",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-08-31",
+  "version_no": 1,
+  "qbz_version_id": 10874,
+  "in_force": "2000-08-17",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2000-08-17",
+  "changed_by_qbz_id": 20158,
+  "changed_by_number": "445",
+  "changed_by_title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR.408, DATË 31.8.1999, TË KËSHILLIT TË MINISTRAVE, \"PËR PRIVATIZIMIN ME TENDER TË NDËRMARRJEVE SHTETËRORE\"",
+  "source": "https://qbz.gov.al/files/e210fa361f63b6120eb959779d248bbc0ef8e06492870be3c817e894a4f0e6d2.docx",
+  "source_sha256": "e210fa361f63b6120eb959779d248bbc0ef8e06492870be3c817e894a4f0e6d2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123853",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123853/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
