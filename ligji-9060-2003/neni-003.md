@@ -1,0 +1,3 @@
+# Neni 3
+Me qëllim që të vërtetohet autenticiteti i firmës, cilësia në të cilën ka vepruar personi që firmos dokumentin dhe, nëse është rasti, identiteti i vulës apo pullës që ai bart, formaliteti i vetëm që mund të kërkohet është paraqitja e një certifikate, të përshkruar në nenin 4, lëshuar nga autoriteti kompetent i shtetit që nxjerr dokumentin.
+Megjithatë, formaliteti i përmendur në paragrafin e mësipërm nuk mund të kërkohet në rastin kur ligjet, rregulloret dhe praktika në fuqi në shtetin në të cilin lëshohet dokumenti ose një marrëveshje midis dy a më shumë Shteteve Palë e shmang, e thjeshton ose e përjashton dokumentin nga legalizimi.
