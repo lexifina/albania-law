@@ -1,0 +1,1 @@
+2. Ministria e Mjedisit, në bashkëpunim me Drejtorinë e Përgjithshme të Pyjeve e të Kullotave dhe me institutet shkencore përkatëse, si dhe në mbështetje të kategorizimeve europiane, të përcaktojë statusin e mbrojtjes së çdo specieje të përmendur në aneksin 1.
