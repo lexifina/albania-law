@@ -1,0 +1,3 @@
+# Nënshkrimi
+Kryeministri
+Pandeli Majko
