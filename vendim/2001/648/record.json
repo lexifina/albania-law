@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56101,
+  "title": "PËR DISA SHTESA NË VENDIMIN NR.726, DATË 21.12.2000 TË KËSHILLIT TË MINISTRAVE \"PËR PAGAT E PUNONJËSVE TË INSTITUCIONEVE BUXHETORE\", NDRYSHUAR ME VENDIMET NR.39, DATË 26.1.2001; NR.158, DATË 22.3.2001; NR.167 DATË 30.3.2001; NR.174, DATË 30.3.2001; NR.197, DATË 6.4.2001; NR.385, DATË 31.5.2001 DHE NR.424, DATË 11.6.2001 TË KËSHILLIT TË MINISTRAVE",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "648",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-11-22",
+  "published": "2001-12-04",
+  "in_force": "2001-12-04",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 1.11.2001\": the publication day (its effects reach back to 1.11.2001)",
+  "source": "https://qbz.gov.al/files/bc6a9a77b76ef180766651ff0abc126705549ba9b4be25a7ff868e8cb8928775.docx",
+  "source_sha256": "bc6a9a77b76ef180766651ff0abc126705549ba9b4be25a7ff868e8cb8928775",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56101",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/11/22/648",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
