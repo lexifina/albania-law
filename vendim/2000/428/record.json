@@ -1,0 +1,26 @@
+{
+  "qbz_id": 20152,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.142, DATË 4.3.1996, TË KËSHILLIT TË MINISTRAVE, “PËR NJË NDRYSHIM NË VENDIMIN NR.412, DATË 15.9.1992, TË KËSHILLIT TË MINISTRAVE, “PËR KRIJIMIN E KOMISIONIT TË POSAÇËM PËR DHËNIEN E LIÇENSAVE PROFESIONALE”, SI DHE NDRYSHIMIN E VENDIMIT NR.613, DATË 13.12.1993,TË KËSHILLIT TË MINISTRAVE, “PËR USHTRIMIN E VEPRIMTARISË NË NDËRTIM DHE PROJEKTIM TË SHOQËRIVE””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "428",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-08-04",
+  "published": "2000-09-04",
+  "in_force": "2000-09-04",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/60880898379a1e993536347abf8a82c93f8a913adc0e764a362e831e7e5894c4.docx",
+  "source_sha256": "60880898379a1e993536347abf8a82c93f8a913adc0e764a362e831e7e5894c4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20152",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/08/04/428",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
