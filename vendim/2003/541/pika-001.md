@@ -1,0 +1,1 @@
+1. Kalimin në administrim të Ministrisë së Rendit Publik, për nevoja të rajonit të policisë së Shijakut, të 6 objekteve, së bashku me truallin funksional të ish-brigadës së këmbësorisë, në Shijak (reparti ushtarak 8800, Shijak), të cilat deri tani kanë qenë në administrim të Ministrisë së Mbrojtjes.
