@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1019,
+  "title": "PËR ZGJEDHJEN E KRYETARIT DHE ZËVENDËSKRYETARIT TË KUVENDIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-09-04",
+  "published": "2001-09-17",
+  "in_force": "2001-09-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/402db1311c552eadb3ebe2b0402e29fbeef9d7a42b2fc7fe1b6abf624ce9aa26.docx",
+  "source_sha256": "402db1311c552eadb3ebe2b0402e29fbeef9d7a42b2fc7fe1b6abf624ce9aa26",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1019",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/09/04/1",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
