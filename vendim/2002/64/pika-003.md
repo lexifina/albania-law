@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme që shpronësohen të kompensohen nga KESH sh.a., në vlerë të plotë, për sipërfaqen prej 8301 m2, truall në shumën e përgjithshme prej 35 694 300 (tridhjetë e pesë milionë e gjashtëqind e nëntëdhjetë e katër mijë e treqind) lekësh, sipas listës që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+4. Ky fond të përballohet nga fondet e miratuara për KESH sh.a-në, në kuadër të ”Konventës financiare ndërmjet Qeverisë të Republikës së Shqipërisë dhe Mediocredito Centrale (Itali) për ”Programin e ndihmës për të mbështetur sektorët ekonomikë”.

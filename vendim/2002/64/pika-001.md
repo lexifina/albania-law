@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve dhe bashkëpronarëve, që preken nga ndërtimi i nënstacionit elektrik 110/20 kv, Kashar, dhe për lidhjen e tij me sistemin 110 kv, Tiranë.
