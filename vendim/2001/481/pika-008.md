@@ -1,0 +1,1 @@
+8. Kuotat e pranimeve për shtetasit e huaj, që do të studiojnë në shkollat e larta të Republikës së Shqipërisë, administrohen dhe shpërndahen nga Ministria e Arsimit dhe Shkencës, në bazë të kërkesave të paraqitura pranë shkollave të larta ose Ministrisë së Arsimit dhe Shkencës.

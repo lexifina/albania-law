@@ -1,0 +1,1 @@
+4. Kandidatët shqiptarë nga trojet jashtë kufijve të vendit, Kosovë, Maqedoni, Mal i Zi, Preshevë, Bujanovc dhe Medvegjë, konkurojnë ndërmjet tyre për kuotat e pranimit të përcaktuara sipas degëve të tabelës nr.2, e cila i bashkëlidhet këtij vendimi.

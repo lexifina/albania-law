@@ -1,0 +1,1 @@
+10. Kandidatët që do të vazhdojnë studimet në një degë të dytë u nënshtrohen tarifave të shkollimit. Masa e tarifës së shkollimit për degë të dytë është e barabartë me tarifën e shkollimit për kuotat dytësore, të përcaktuar në pikën 7 të këtij vendimi.

@@ -1,0 +1,1 @@
+1. Kanë të drejtë të regjistrohen për konkurrim, në degën që dëshirojnë, kandidatët që kanë marrë dëftesën e pjekurisë të një shkolle të mesme, përjashtuar shkollat e arsimit të mesëm profesional 2 dhe 3 vjeçar.

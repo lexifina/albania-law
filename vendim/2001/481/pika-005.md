@@ -1,0 +1,1 @@
+5. Për asistentë-pedagogët e Shkollës së Lartë të Infermierisë në Tiranë, caktohet 7 (shtatë) kuota për ndjekjen e studimeve, në degën infermieri, në një nga shkollat e larta të vendit, sipas udhëzimeve që do të përcaktohen në udhëzimin e Ministrisë së Arsimit dhe Shkencës.
