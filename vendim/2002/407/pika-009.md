@@ -1,0 +1,1 @@
+9. Deri në hartimin e normave të projektimit të godinave të banimit për kategoritë me kërkesa të veçanta, të përdoren katet e para të godinave, që do të ndërtohen ose blihen nga Enti Kombëtar i Banesave, për trajtimin e personave sipas pikave 5 dhe 6 të këtij vendimi.

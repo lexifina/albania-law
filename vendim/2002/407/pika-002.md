@@ -1,0 +1,1 @@
+2. Organet e qeverisjes vendore t’u japin në çdo kohë statusin e të pastrehut invalidëve që përcaktohen të tillë nga komisionet mjekësore të caktimit të aftësisë për punë dhe që marrin “Dëshmi zyrtare identifikimi” nga Ministria e Punës dhe Çështjeve Sociale.

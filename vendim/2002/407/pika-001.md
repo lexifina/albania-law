@@ -1,0 +1,1 @@
+1. Ministria e Rregullimit të Territorit dhe Turizmit të planifikojë fonde për të pastrehët me statusin e invalidit paraplegjik e tetraplegjik, në bazë të kërkesave që organet e qeverisjes vendore i dërgojnë Entit Kombëtar të Banesave, brenda datës 1 gusht të çdo viti.

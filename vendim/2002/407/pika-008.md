@@ -1,0 +1,1 @@
+8. Në të gjitha rastet e parashikuara në pikat 5 dhe 6 të këtij vendimi, vlera limit e apartamentit që përfiton qytetari i pastrehë shlyhet pranë Entit Kombëtar të Banesave, sipas kritereve të përcaktuara në ligjin nr.8030, datë 15.11.1995, “Për kontributin e shtetit për familjet e pastreha” dhe akteve nënligjore në zbatim të tij.
