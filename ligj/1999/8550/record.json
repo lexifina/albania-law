@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123825,
+  "title": "STATUSI I DEPUTETIT",
+  "type": "Ligj",
+  "number": "8550",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-11-18",
+  "version_no": 1,
+  "qbz_version_id": 10827,
+  "in_force": "2002-12-24",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2002-12-24",
+  "changed_by_qbz_id": 1782,
+  "changed_by_number": "8988",
+  "changed_by_title": "Për disa ndryshime në ligjin nr. 8550, datë 18.11.1999 “Statusi i deputetit”",
+  "source": "https://qbz.gov.al/files/43c901c891af20431052b1f546a27044c69e86c5305b5ac5297fea1b83552c01.docx",
+  "source_sha256": "43c901c891af20431052b1f546a27044c69e86c5305b5ac5297fea1b83552c01",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123825",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123825/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
