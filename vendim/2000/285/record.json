@@ -1,0 +1,26 @@
+{
+  "qbz_id": 205,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.544, DATË 14.11.1994, TË KËSHILLIT TË MINISTRAVE “PËR PËRBALLIMIN E SHPENZIMEVE PËR BIRËSIMET”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "285",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-06-02",
+  "published": "2000-06-29",
+  "in_force": "2000-06-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/81dbcc65fe5c3d1efc5600f379ef5a1903af3667de036aaefcb9aa349a1a1ce0.docx",
+  "source_sha256": "81dbcc65fe5c3d1efc5600f379ef5a1903af3667de036aaefcb9aa349a1a1ce0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/205",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/06/02/285",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
