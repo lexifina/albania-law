@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1776,
+  "title": "Për miratimin e dekretit të Presidentit të Republikës nr. 3557, datë 14.11.2002 për emërimin e zotit Xhezair Zaganjori anëtar i Gjykatës Kushtetuese",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "65",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-12-24",
+  "published": "2002-12-31",
+  "in_force": "2002-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1349cbfc87d458f027d909b4e9570f0253ccb9e0cf14dbea2fbba58b1deb96fc.docx",
+  "source_sha256": "1349cbfc87d458f027d909b4e9570f0253ccb9e0cf14dbea2fbba58b1deb96fc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1776",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/12/24/65",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
