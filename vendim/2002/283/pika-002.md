@@ -1,0 +1,1 @@
+2. Prefektët e qarqeve: Tiranë, Durrës, Shkodër, Vlorë, Gjirokastër, Korçë t’u japin në përdorim, pa shpërblim, mjediset e nevojshme brenda prefekturës, avokatëve të zyrës vendore, përkatëse, të Avokaturës së Shtetit.
