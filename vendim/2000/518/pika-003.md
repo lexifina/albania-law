@@ -1,0 +1,1 @@
+3. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të llogaritura në shumën 30 milionë lekë në muaj, të përballohen nga tejkalimi i të ardhurave në fondin e sigurimeve shoqërore, për periudhën janar- korrik të vitit 2000. Në buxhetin e vitit 2000 për Sigurimet Shoqërore, të ardhurat dhe shpenzimet shtohen në 90 milionë lekë.

@@ -1,0 +1,2 @@
+1. Pensionet e parakohshme të pleqërisë, të caktuara deri në datën 30.9.1993, sipas ligjit nr.4171, datë 13.9.1996, “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë”, me shumë pensioni në këtë datë nga 1238 deri në 1967 lekë në muaj, të cilat vazhdojnë të paguhen edhe pas datës 1.9.2000, të shtohen me shuma fikse nga 54 lekë deri në 2323 lekë në muaj.
+Këtë rritje pensionet e parakohshme, të caktuara deri në datën 30.9.1993, e përfitojnë edhe kur janë rillogaritur si pensione të plota nga 1.10.1993, deri në 31.8.2000, përfshi edhe këtë datë.
