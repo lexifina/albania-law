@@ -5,7 +5,7 @@ Emërtimi
 Çmimi në lekë/kWh
 Përdorues familjarë
 4.5
-300 kwh e para të muajit
+220 kwh e para të muajit
 Përdorues specialë
 Furrë buke, prodhim mielli
 Ujësjellësa, objekte fetare
