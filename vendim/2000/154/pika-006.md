@@ -1,0 +1,1 @@
+6. Subjektet, të cilat sot ushtrojnë veprimtari prodhuese në industrinë joushqimore pa lejen përkatëse, janë të detyruara të pajisen me leje deri më 31.12.2000. Vazhdimi i kësaj veprimtarie pa lejen përkatëse pas datës së mësipërme është i paligjshëm.

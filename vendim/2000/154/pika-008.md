@@ -1,0 +1,1 @@
+8. Vendimi nr.198, datë 2.5.1997, i Këshillit të Ministrave, “Për disa ndryshime dhe shtesa në vendimin e Këshillit të Ministrave nr.621, datë 20.12.1993, “Për kompetencat në dhënien e lejeve për ushtrimin e veprimtarive në fushën e transportit””, ndryshuar me vendimin nr.763, datë 11.11.1996, shfuqizohet.
