@@ -1,0 +1,1 @@
+1. Vlerësimin e automjeteve të parkut të transportit të mineralit, Bulqizë dhe i automjeteve të uzinës së ferrokromit, Burrel, sipas listës që i bashkëlidhet këtij vendimi, të kryhet nga një grup ekspertësh të caktuar nga Ministria e Industrisë dhe e Energjetikës, të cilët të llogarisin vlerën reale sipas gjykimit teknik të gjendjes faktike të tyre me çmimet e tregut aktual.

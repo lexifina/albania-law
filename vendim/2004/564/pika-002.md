@@ -1,0 +1,1 @@
+2. Për këtë proces vlerësimi nuk do të zbatohen përcaktimet e kapitullit I, të vendimit nr.159, datë 13.3.2003 të Këshillit të Ministrave ”Për kriteret e vlerësimit të pronës shtetërore që privatizohet, si dhe procedurat e shitjes”.
