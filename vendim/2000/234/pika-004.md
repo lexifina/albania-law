@@ -1,0 +1,1 @@
+4. Përcaktimi nëse një pleh është me mungesa në përmbajtjen e elementeve ushqyese, ose përmban elemente të dëmshme për njeriun, kafshët, mjedisin, do të mbështetet në rezultatet e analizave të mostrës zyrtare.

@@ -1,0 +1,1 @@
+3. Çdo person, fizik apo juridik, që ofron ose tregton plehra kimike, e shoqëron çdo sasi të plehut kimik me raportin e analizave për treguesit e kërkuar, të vërtetuar nga laboratori i ngarkuar për këtë qëllim.

@@ -1,0 +1,1 @@
+1. Vlerësimi i plehrave kimike bëhet në bazë të analizimit në laborator të mostrës zyrtare, ku përcaktohen të gjithë ushqyesit parësorë (N, P2O5, K2O), si dhe elemente të tjera, përfshirë edhe mikroelementet, të garantuar dhe të deklaruar në etiketë ose në fletën shoqëruese të plehut.

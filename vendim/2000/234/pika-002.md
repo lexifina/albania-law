@@ -1,0 +1,1 @@
+2. Çdo pleh që prodhohet, përzihet (përgatitja e plehrave të përzierë apo të kombinuar) apo tregtohet, duhet të ketë etiketën ose fletën shoqëruese, ku të deklarohen karakteristikat e përgjithshme të tij.

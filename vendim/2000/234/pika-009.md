@@ -1,0 +1,1 @@
+9. Për çdo mostër, inspektori harton fletën e inspektimit, në tri kopje. Një mostër, e cila duhet të peshojë të paktën 0.5 kg dhe jo më shumë se 1 kg, së bashku me një kopje të fletës së inspektimit i jepet personit, fizik ose juridik, zotërues i plehut që kontrollohet. Mostra e tretë, së bashku me një fletë inspektimi mbahet nga inspektori.
