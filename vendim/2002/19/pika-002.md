@@ -1,0 +1,1 @@
+2. Drejtoritë e bujqësisë dhe ushqimit (shërbimi veterinar) drejtojnë dhe zbatojnë, për çdo zonë që ato mbulojnë, sistemin e identifikimit të kafshëve dhe të regjistrimit të fermave blegtorale nëpërmjet kontratave që do të lidhin me specialistë dhe teknikë privatë, veterinerë dhe zooteknikë.
