@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1938,
+  "title": "Për disa ndryshime në vendimin nr.671, datë 15.12.2000",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "221",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2003-04-10",
+  "published": "2003-04-22",
+  "in_force": "2003-04-22",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ad876321c94e1b8f77a1884ab8a95cd0fbe8dd4ef5399511a469279213a300f1.docx",
+  "source_sha256": "ad876321c94e1b8f77a1884ab8a95cd0fbe8dd4ef5399511a469279213a300f1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1938",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/04/10/221",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
