@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1260,
+  "title": "Për një ndryshim në vendimin nr.313, datë 13.6.2000 të Këshillit  të Ministrave “Për funksionimin e Drejtorisë së Patentave dhe Markave\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "7",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-01-05",
+  "published": "2002-01-15",
+  "in_force": "2002-01-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f5db6a43711447d7cc31b729a6eef86db61f68f4fc3199544f5f9c12b3a42d34.docx",
+  "source_sha256": "f5db6a43711447d7cc31b729a6eef86db61f68f4fc3199544f5f9c12b3a42d34",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1260",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/01/05/7",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
