@@ -1,0 +1,1 @@
+2. Primi që INSIG, sh.a. do të arkëtojë nga institucionet buxhetore, të jetë vlera e primit të pastër, shtuar vlerën e shpenzimeve minimale administrative, të përcaktuara me urdhër të Ministrit të Financave.
