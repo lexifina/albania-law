@@ -1,0 +1,1 @@
+1. Paketa e aksioneve të mbetura e shoqërisë anonime “Albtelecom”, pas transferimit të paketës tek investitorët strategjikë, “Albapost” sh.a., ish-pronarët e truallit dhe punonjësit e shoqërisë anonime “Albtelecom”, të transferohet nëpërmjet ankandit publik.
