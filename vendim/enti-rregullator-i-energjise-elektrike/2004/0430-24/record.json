@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2800,
+  "title": "Për miratimin e kërkesës së shoqatës kindErhouse për ndryshim tarife",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "24",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2004-04-30",
+  "published": "2004-05-27",
+  "in_force": "2004-05-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/1bbcb5c2fb41fdd91be9c4658225a95dfaa0d04ea16dd5a55d19209630c61aa5.docx",
+  "source_sha256": "1bbcb5c2fb41fdd91be9c4658225a95dfaa0d04ea16dd5a55d19209630c61aa5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2800",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/04/30/24",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
