@@ -1,0 +1,2 @@
+# Neni 2
+Në mbështetje të nenit 42 të “Konventës për krimin në fushën e kibernetikës”, Republika e Shqipërisë rezervon të drejtën për të mos parashikuar përgjegjësi penale, në rrethana të kufizuara, sipas paragrafëve 1 dhe 2 të nenit 10, me kusht që të parashikohen zhdëmtime të tjera, të cilat nuk shmangin përgjegjësinë ndaj dëmit të shkaktuar dhe nuk e shmangin Republikën e Shqipërisë nga detyrimet ndërkombëtare të parashikuara në instrumentet ndërkombëtare, përmendur në paragrafët 1 dhe 2 të nenit të lartëpërmendur.
