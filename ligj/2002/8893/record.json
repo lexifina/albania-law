@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1552,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr.8269, datë 23.12.1997 “Për Bankën e Shqipërisë”, ndryshuar me ligjin nr.8384, datë 29.7.1998",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8893",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-07-25",
+  "published": "2002-08-10",
+  "in_force": "2002-08-25",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/5f1d0d074b07277b06a9e10fbcf1fac5f0a3b71d6d7bcd527e55f16e82f82b8f.docx",
+  "source_sha256": "5f1d0d074b07277b06a9e10fbcf1fac5f0a3b71d6d7bcd527e55f16e82f82b8f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1552",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/07/25/8893",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
