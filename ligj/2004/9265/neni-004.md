@@ -1,0 +1,2 @@
+# Neni 4
+Në kuptim të paragrafit të parë të nenit 18 të Konventës, Republika e Shqipërisë deklaron se rezervon të drejtën të përcaktojë, në përputhje me legjislacionin shqiptar, se termi “person i varur” nënkupton “fëmijët e mitur, bashkëshorten dhe prindërit e paaftë për punë, që kanë qenë plotësisht ose pjesërisht në ngarkim të të vdekurit, si dhe të personave që banonin në familjen e të vdekurit dhe që gëzonin prej tij të drejtën e ushqimit”.
