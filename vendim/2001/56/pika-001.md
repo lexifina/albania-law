@@ -1,0 +1,1 @@
+1. Miratimin e strukturës së çmimeve të barnave, të përfshira në listën e rimbursimeve, me vendimet nr.610, datë 17.11.2000 dhe nr.54, datë 2.2.1996, të Këshillit të Ministrave, sipas pasqyrës që i bashkëlidhet këtij vendimi.
