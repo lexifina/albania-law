@@ -1,0 +1,26 @@
+{
+  "qbz_id": 261,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT ILIR GJONI MINISTËR I MBROJTJES",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "450",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-07-13",
+  "published": "2000-07-19",
+  "in_force": "2000-07-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a252f9d67065e2bca1916213e157d87e77daf287a326c7c0e8010bda9a4b3830.docx",
+  "source_sha256": "a252f9d67065e2bca1916213e157d87e77daf287a326c7c0e8010bda9a4b3830",
+  "official_record": "https://qbz.gov.al/api/v1/acts/261",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/13/450",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
