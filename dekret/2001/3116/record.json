@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1048,
+  "title": "PËR CAKTIMIN E DATËS SË ZGJEDHJEVE TË PJESSHME NË ZONËN ZGJEDHORE NR.98, DELVINË",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "3116",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2001-10-09",
+  "published": "2001-10-18",
+  "in_force": "2001-10-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/4c6240aa6270268c0b677e4099cab5567356094e6170a416f8510068e509f79e.docx",
+  "source_sha256": "4c6240aa6270268c0b677e4099cab5567356094e6170a416f8510068e509f79e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1048",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2001/10/09/3116",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
