@@ -1,0 +1,26 @@
+{
+  "qbz_id": 262,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT ILIR ZELA MINISTËR TË PUNËVE PUBLIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "451",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-07-13",
+  "published": "2000-07-19",
+  "in_force": "2000-07-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f8c47c6873820b3aa507037bf09dc4c1aae0d7bf531240c2879824c27cd2ae27.docx",
+  "source_sha256": "f8c47c6873820b3aa507037bf09dc4c1aae0d7bf531240c2879824c27cd2ae27",
+  "official_record": "https://qbz.gov.al/api/v1/acts/262",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/13/451",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
