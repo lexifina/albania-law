@@ -1,0 +1,1 @@
+2. Pika 2 e vendimit nr.137, datë 31.3.1994 të Këshillit të Ministrave, vendimi nr.743, datë 18.12.1995 i Këshillit të Ministrave, vendimi nr.564, datë 23.10.2000 i Këshillit të Ministrave dhe vendimi nr.106, datë 2.3.2001 i Këshillit të Ministrave shfuqizohen.
