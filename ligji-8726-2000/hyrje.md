@@ -1,0 +1,7 @@
+L I G J
+Nr. 8726, datë 26.12.2000
+PËR MBULIMIN E DETYRIMEVE TË SHTETIT NDAJ BANKËS SË KURSIMEVE SH.A. DHE RIKAPITALIZIMIN E SAJ NËPËRMJET EMETIMIT TË BONOVE TË THESARIT
+Në mbështetje të neneve 78, 83 pika 1 dhe 84 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+K U V E N D I
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
