@@ -1,0 +1,7 @@
+LIGJ
+Nr. 9264, datë 29.7. 2004
+PËR RATIFIKIMIN E “PROTOKOLLIT NR.12 TË KONVENTËS “PËR MBROJTJEN E TË DREJTAVE TË NJERIUT DHE LIRIVE THEMELORE””
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
