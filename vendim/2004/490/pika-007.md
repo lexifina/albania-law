@@ -1,0 +1,1 @@
+7. Përjashtohen nga kufizimet e përcaktuara në pikën 1 të këtij vendimi institucionet e pavarura nga Këshilli i Ministrave, sipas tabelës 1/1, që i bashkëlidhet ligjit nr.9165, datë 23.12.2003, “Për buxhetin e shtetit, të vitit 2004”.

@@ -1,0 +1,2 @@
+# Nënshkrimi
+KRYEMINI STRI

@@ -1,0 +1,1 @@
+4. Fondet për kosto lokale dhe TVSh për projektet me financim të huaj përdoren vetëm për të njëjtin qëllim në ministri dhe institucione të tjera, me përjashtim të rasteve specifike, të cilat përcaktohen nga Ministri i Financave.
