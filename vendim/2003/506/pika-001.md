@@ -1,1 +1,0 @@
-1. Miratimin e propozimit të pakërkuar, paraqitur nga shoqëria “RIVIERA J.V.Ltd & sh.a. “DNS” S.A.” me “Ofertë publike” për ndërtimin me koncesion të autostradës Rrogozhinë -Pezë-Degëzim Tiranë-Vorë-Thumanë.
