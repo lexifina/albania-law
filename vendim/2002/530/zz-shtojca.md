@@ -1040,3 +1040,18 @@ Shuma :
 15733740
 Shpenzime proceduriale per publikimet 474 000 leke.
 Vlera totale per shpronesim 31 898 160 leke.
+Nr.
+Pronar
+Nr.pasurisë
+Sip.e objektit m2
+Çmimi në lek/m2
+Totali (lekë)
+13
+Gëzim Curra
+Km 16+ 360
+247
+Preventiv
+1 574 500
+Shuma
+1330.6
+17 308 240
