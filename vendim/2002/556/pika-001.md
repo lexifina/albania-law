@@ -1,0 +1,1 @@
+1. Shkëmbimin e vilës nr. 55, së bashku me truallin nën të dhe oborrin rrethues, pronë e Shtetit Shqiptar, me adresë: Rruga “Skënderbeu”, Blloku i Ambasadave, Tiranë, me vilën nr. 6, së bashku me truallin nën të dhe oborrin rrethues, pronë e Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut, me adresë: Lagja “Tirana e Re”, rruga “Donika Kastrioti”, Tiranë.
