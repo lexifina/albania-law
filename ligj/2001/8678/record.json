@@ -1,0 +1,32 @@
+{
+  "qbz_id": 841,
+  "title": "Për organizimin dhe funksionimin e Ministrisë së Drejtësisë",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "8678",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-05-14",
+  "published": "2001-06-05",
+  "in_force": "2001-06-20",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3de5c9ac64aab8f5001540575f063068f9156ee2efd1c0fed6a440a44f706bf8.docx",
+  "source_sha256": "3de5c9ac64aab8f5001540575f063068f9156ee2efd1c0fed6a440a44f706bf8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/841",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/05/14/8678",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27938,
+    61060,
+    7967,
+    5212,
+    2279
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
