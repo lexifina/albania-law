@@ -1,0 +1,1 @@
+5. Për deklasifikimin dhe zhvlerësimin e dokumenteve me rëndësi historike kombëtare, që kanë hyrë në arkiva, të emërtuara ”sekret shtetëror”, sipas niveleve, zbatohen kriteret dhe rregullat e përcaktuara në këtë vendim.

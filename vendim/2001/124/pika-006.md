@@ -1,0 +1,1 @@
+6. Dokumentet në ruajtje, që trashëgohen në rrjetin kombëtar të arkivave, të ardhura prej subjekteve fondkrijuese jashtë territorit të Republikës së Shqipërisë, nuk u nënshtrohen deklasifikimit dhe zhvlerësimit deri në 150 vjet nga data e krijimit.

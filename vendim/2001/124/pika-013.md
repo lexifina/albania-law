@@ -1,0 +1,1 @@
+13. Shërbimi Informativ Kombëtar, në bashkëpunim me organet e tjera informative, ka të drejtën e rekomandimit të procedurave të veçanta për deklasifikimin e informacionit, për rastet e parashikuara në ligj.
