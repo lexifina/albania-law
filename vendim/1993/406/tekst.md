@@ -4,7 +4,7 @@ Nr.406, datë 17.8.1993
 
 PËR RIORGANIZIMIN E SHËRBIMIT TË MBROJTJES SË BIMËVE
 
-(Ndryshuar me VKM nr. 9, datë 12.1.2001)
+(Ndryshuar me VKM nr. 9, datë 12.1.2001; nr. 376, datë 23.7.2002)
 
 (i përditësuar)
 
@@ -24,7 +24,9 @@ Inspektorët e karantinës së jashtme bimore e ushtrojnë veprimtarinë e tyre 
 
 4. Ministria e Bujqësisë dhe e Ushqimit përcakton uniformën dhe shenjën dalluese të shërbimit të karantinës bimore të Republikës së Shqipërisë dhe pajis me to inspektorët përkatës.
 
-5. Ministria e Bujqësisë dhe Ushqimit të marrë masat për ngritjen dhe plotësimin e laboratorit qendror të karantinës bimore dhe të laboratorit të kontrollit cilësor shtetëror të produkteve për mbrojtjen e bimëve (PMB), në Institutin e Mbrojtjes së Bimëve, të zyrave të inspektimit karantinor fitosanitar, në pikat doganore, kufitare, dhe të laboratorëve zonalë të mbrojtjes së bimëve.
+5. Pagesat për regjistrimin e PMB-ve bëhen nga subjektet e interesuara, në llogarinë rrjedhëse të Institutit të Mbrojtjes së Bimëve, siaps tarifave të përcaktuara në vendimin nr.72, datë 15.2.2001 të Këshillit të Ministrave "Për miratimin e rregullores së produkteve për mbrojtjen e bimëve".
+
+Me të ardhurat e realizuara nga këto pagesa, Instituti i Mbrojtjes së Bimëve përballon shpenzimet administrative të regjistrimit të PMB-ve, shpenzimet për analizat cilësore të tyre gjatë procedurave të regjistrimit dhe, pas hedhjes në treg, shpenzimet për kryerjen e provave biologjiko -agronomike dhe shpërblimin e anëtarëve të Komisionit Shtetëror të Regjistrimit të PMB-ve, sipas përcaktimit që bën Ministri i Bujqësisë dhe Ushqimit me udhëzim të veçantë.
 
 6. Shfuqizuar.
 
