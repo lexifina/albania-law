@@ -1,0 +1,1 @@
+2. Në komision përfshihen, sipas përkatësisë, nëpunës ose specialistë të pavarur, me përvojë dhe kualifikim të posaçëm për vlerësimin e objektit që shpronësohet, të tillë si ekonomistë, juristë, inxhinierë e agronomë, të cilët nnuk kanë asnjë lidhje farefisnore me pronarët dhe nuk janë palë të interesuara në pronat që shpronësohen.

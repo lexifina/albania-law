@@ -1,0 +1,1 @@
+1. Komisioni i posaçëm, për ndjekjen dhe realizimin e procedurave të shpronësimit, krijohet me urdhër të ministrit që mbulon veprimtarinë në objektin për të cilin paraqitet kërkesa për shpronësim dhe përbëhet nga jo më pak se 5 anëtarë. Kryetari i komisionit të posaçëm caktohet zëvendësministri i ministrisë përkatëse.
