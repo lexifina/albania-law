@@ -1,0 +1,1 @@
+7. Përfitojnë nga ky vendim ata punonjës të “industrisë së bakrit”, të cilët kanë qenë të punësuar pranë kësaj shoqërie pandërprerje, që nga data 1.6.1999 e deri në çastin e hyrjes në fuqi të këtij vendimi.

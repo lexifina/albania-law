@@ -1,0 +1,1 @@
+4. Fondet e nevojshme për ruajtjen dhe konservimin e sektorëve të industrisë së bakrit, të cilët do të mbahen në regjim të përkohshëm konservimi, arrijnë vlerat e 2.88 milionë lekëve në muaj, prej të cilave 18.8 milionë lekë nevojiten për të mbyllur vitin 2000, përfshirë fonde për energji etj, fonde të cilat do të përballohen nga buxheti i shtetit.

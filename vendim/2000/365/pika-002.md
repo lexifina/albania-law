@@ -1,0 +1,1 @@
+2. Për ruajtjen deri në privatizimin dhe likuidimin e plotë të aseteve të objekteve të mësipërme duhen 115 punonjës dhe 34 policë privatë, si dhe një fond pagë mujore prej 2 444 milionë lekësh në muaj, nga të cilat 16.15 milionë lekë për vitin 2000, përfshirë fondet për energji etj, fonde të cilat do të paguhen nga buxheti i shtetit.

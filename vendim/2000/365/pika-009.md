@@ -1,0 +1,1 @@
+9. E drejta e trajtimit 1 (një ) vjeçar, me pagë minimale, sipas pikës 2 të këtij vendimi u njihet edhe atyre punonjësve që shkëputen nga ky trajtim për të punuar për një periudhë jo më shumë se 1(një) vit në sektorin e bakrit, ku ata kanë punuar më parë.

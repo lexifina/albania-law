@@ -1,0 +1,1 @@
+8. Të drejtën e trajtimit sipas këtij vendimi e kanë ata punonjës që nuk zhvillojnë veprimtari ekonomike, në formën e punësimit apo të vetëpunësimit. Në rast të kundërt u ndërpritet trajtimi që përfitojnë sipas këtij vendimi. Po kështu, trajtimi sipas këtij vendimi u ndërpritet edhe atyre punonjësve që thirren për punë dhe nuk pranojnë të punojnë.
