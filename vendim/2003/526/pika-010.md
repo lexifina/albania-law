@@ -1,0 +1,1 @@
+10. Tarifa e shkollimit për vitin akademik 2003-2004 të jetë në masën 7 000 (shtatë mijë) lekë për studentët e kurseve të para. Tarifa vjetore e shkollimit për studentët e kurseve të tjera, më të larta (2-të, 3-të, 4-ët, 5-të dhe 6-të), në këtë vit akademik, të jetë 2 500 mijë (dy mijë e pesëqind) lekë.

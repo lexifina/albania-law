@@ -1,0 +1,1 @@
+7. Kuotat e pranimit për shtetasit e huaj, që do të studiojnë në shkollat e larta dhe universitetet e Republikës së Shqipërisë, të administrohen nga Ministria e Arsimit dhe e Shkencës, në bazë të kërkesave të paraqitura pranë shkollave të larta dhe universiteteve.
