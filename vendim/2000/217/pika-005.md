@@ -1,0 +1,22 @@
+5. Zyrat e kontrollit financiar në njësitë e qeverisjes vendore, në ndërmarrjet e në institucionet shtetërore, shoqëritë tregtare, me pjesëmarrje të kapitalit shtetëror mbi 50 për qind.
+1.3. Të gjitha ministritë, institucionet qendrore, ndërmarrjet dhe institutcionet e tjera janë të detyruara të ngrenë strukturat e kontrollit financiar, në përputhje me pikën 2 dhe me normat e ngarkesës së caktuar nga Departamenti i Kontrollit Financiar në Ministrinë e Financave. U këshillohet organeve të qeverisjes vendore të ngrenë strukturat e kontrollit të brendshëm.
+1.4. Objekti i kontrollit financiar është garantimi i drejtuesit, se objektivat e përcaktuara po arrihen se veprimtaria e subjektit është në përputhje me kërkesat dhe rregullat, e brendshme e të jashtme, se subjekti ruan burimet (e buxhetit, e kapitalit shtetëror, si dhe burimet) në një mënyrë të tillë që nxit operacionet ekonomike në mënyrë të frytshme dhe me rezultat, se të dhënat financiare dhe të drejtimit të subjektit janë të sakta dhe të plota.
+2. Detyrat dhe të drejtat e organeve të kontrollit financiar
+2.1. Departamenti i Kontrollit Financiar, në Ministrinë e Financave, ka këto detyra kryesore:
+1. Realizon dhe përgjigjet për udhëheqjen metodologjike të Kontrollit Financiar, në shkallë vendi, dhe mbikëqyr veprimtarinë e tij, në përputhje me standardet ndërkombëtare dhe me ato të përcaktuara nga Kontrolli i Lartë i Shtetit.
+2. Organizon dhe kryen kontrollin në objektet e varësisë së drejtpërdrejtë, si në Drejtorinë e Përgjithshme të Tatimeve dhe në atë të doganave, në bankat e nivelit të dytë, me kapital tërësisht shtetëror ose me pjesëmarrje të tij mbi 50 për qind, në institucionet financiare, të shndërruara ose jo në shoqëri anonime, me kapital shtetëror ose me pjesëmarrje të tij mbi 50 për qind, në degët e thesarit dhe të buxhetit në rrethe etj.
+3. Për probleme të veçanta dhe të rëndësishme, me urdhër të qeverisë, Departamenti i Kontrollit Financiar, mund të ushtrojë kontroll në të gjithë sistemin e ministrive dhe në institucionet qendrore të pushtetit ekzekutiv.
+4. Një herë në gjashtë muaj boton një buletin për problemet që kanë dalë nga kontrollet e kryera dhe për përvojën dhe përsosjen e teknikave të kontrollit.
+5. Një herë në vit, nëpërmjet ministrit të Financave, i paraqet qeverisë një raport për gjendjen e kontrollit financiar dhe për problemet e tij.
+2.2. Departamenti i Kontrollit Financiar në Ministrinë e Pushtetit Lokal dhe drejtoritë e kontrollit financiar në ministritë, institucionet qendrore dhe në prefekturat kanë këto detyra kryesore:
+1. Organizimin dhe kryerjen e kontrollit në objektet e varësisë së drejtpërdrejtë dhe ato të caktuara me ligj.
+2. Përcaktimin e metodikave të veçanta për kontrollin e subjekteve varëse dhe ato të linjës.
+3. Përgjithësimin e problemeve të dala nga kontrollet e ushtruara, duke i paraqitur, një herë në muaj, raport titullarit të ministrisë apo të institucionit qendror dhe një herë në tre muaj Departamentit të Kontrollit financiar, në Ministrinë e Financave, sipas afateve të përcaktuara nga kjo e fundit.
+4. Ministria e Pushtetit Lokal, me anë të strukturës së saj të kontrollit, ka për detyrë të ushtrojë kontroll-revizion të përgjithshëm në prefektura jo më pak se një herë në vit. Për probleme të veçanta, me urdhër të ministrit përkatës, ajo mund të ushtrojë kontroll edhe të drejtpërdrejtë në njësitë e qeverisjes vendore, duke respektuar pavarësinë e tyre.
+5. Drejtoritë e kontrollit financiar në prefektura, sipas ligjit, kanë për detyrë të mbulojnë me kontroll-revizion të përgjithshëm, brenda vitit, të gjitha njësitë e qeverisjes vendore, si dhe ndërmarrjet e institucionet, në varësi të pushtetit vendor.
+2.3. Organet e kontrollit financiar, gjatë ushtrimit të kontrolleve, kanë këto të drejta:
+1. Të ushtrojnë kontroll në përputhje me kërkesat e standardet e kontrollit dhe sipas përgjegjësive të përcaktuara në këtë vendim.
+2. Të përdorin lirisht dhe pa kufizim të gjitha të dhënat ekonomike, financiare, teknike dhe të drejtimit të subjektit që kontrollohet, duke marrë përsipër ruajtjen e të dhënave me karakter sekret. Ato kontrollojnë dhe vlerësojnë saktësinë dhe plotësinë e të dhënave.
+3. Të tërheqin, për nevojat e kontrollit, kopje të dokumenteve ose origjinalin e tyre, kundrejt vërtetimit të lëshuar.
+4. Të hyjnë dhe të verifikojnë në vend, në depo vendore ose subjekte, pa asnjë kufizim, të vlerësojnë dhe kontrollojnë kudo ku ka vlera materiale e monetare.
+5. Vlerësojnë dhe kontrollojnë përdorimin me frytshmëri të burimeve finanicare.
