@@ -1,0 +1,28 @@
+{
+  "qbz_id": 3393,
+  "title": "PËR NGRITJEN E KOMISIONIT HETIMOR PARLAMENTAR PËR HETIMIN E PRAKTIKAVE TË PRIVATIZIMEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "176",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-03-03",
+  "published": "2005-03-23",
+  "in_force": "2005-03-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/da3429e1e01889b7440769816da048196a4305043548215697422c0d3825a467.docx",
+  "source_sha256": "da3429e1e01889b7440769816da048196a4305043548215697422c0d3825a467",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3393",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/03/03/176",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    3395
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
