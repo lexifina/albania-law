@@ -1,0 +1,1 @@
+5. Qendrat publike të formimit profesional hartojnë kurrikulën në nivel qendre në përputhje me strukturën e paraqitur në pikën 1 shkronja “B”. Verifikimi dhe miratimi i kurrikulës bëhet nga një bord këshillimor, me specialistë të zgjedhur nga drejtoria arsimore dhe drejtoria e qendrës.

@@ -1,0 +1,1 @@
+4.Ministria e Punës dhe Çështjeve Sociale porosit, financon dhe miraton kurrikulat e nivelit qendror të kualifikimeve profesionale, që ofrojnë qendrat publike të formimit profesional, në përputhje me strukturën e paraqitur në pikën 1 shkronja “A”.

@@ -1,0 +1,1 @@
+2. Ministria e Arsimit dhe e Shkencës porosit, financon dhe miraton kurrikulat e nivelit qendror për kualifikimet profesionale të ofruara nga shkollat teknike e profesionale, publike, në përputhje me strukturën e paraqitur në pikën 1 shkronja “A”.
