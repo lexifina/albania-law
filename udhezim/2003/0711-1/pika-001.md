@@ -1,0 +1,1 @@
+1. Në pranimin e kërkesave. Kërkesat regjistrohen në një regjistër të veçantë sipas modelit të përcaktuar nga KQZ-ja. QRLZ-ja i lëshon kërkuesit një vërtetim për marrjen në dorëzim të kërkesës. Ajo i dorëzon kërkesat e bëra me dokumentacionin përkatës në KZQV-në brenda ditës.
