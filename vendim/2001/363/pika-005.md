@@ -1,0 +1,1 @@
+5. Fondet për kompesimin e pronarëve dhe për ndërtimin e fushës së futbollit, që arrin vlerën e përgjithshme 25 500 000 ( njëzetë e pesë milionë e pesëqind mijë) lekë, të përballohet nga fondi rezervë i Këshillit të Ministrave.

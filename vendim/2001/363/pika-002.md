@@ -1,0 +1,1 @@
+2. Pronarët e këtyre pasurive të paluajtshme të kompesohen me vlerë të plotë, sipas masës që paraqitet në tabelën e cila i bashkëlidhet këtij vendimi e që arrin shumën 6 500 000 ( gjashtë milionë e pesëqind mijë) lekë.
