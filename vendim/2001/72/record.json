@@ -1,0 +1,28 @@
+{
+  "qbz_id": 662,
+  "title": "PËR MIRATIMIN E RREGULLORES SË PRODUKTEVE PËR MBROJTJEN E BIMËVE",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "72",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-02-15",
+  "published": "2001-03-23",
+  "in_force": "2001-03-23",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/179d54ac920f10131c49a09552f5bda093c150993c4e6e62e5ee0f46b2e3a208.docx",
+  "source_sha256": "179d54ac920f10131c49a09552f5bda093c150993c4e6e62e5ee0f46b2e3a208",
+  "official_record": "https://qbz.gov.al/api/v1/acts/662",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/02/15/72",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    1704
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
