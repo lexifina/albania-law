@@ -1,0 +1,1 @@
+1. Me veprimtari të jashtme të nëpunësit të administratës publike nënkuptojmë çdo lloj veprimtarie, për qëllime fitimi ose jo, që nëpunësi zhvillon jashtë ushtrimit të detyrave të tij zyrtare dhe që kërkon angazhimin mendor dhe fizik të tij, në çfarëdolloj forme, p.sh. si konsulent, ortak, përfaqësues, drejtues, anëtar apo punonjës.

@@ -1,0 +1,2 @@
+14. Nëpunësi mund të mbajë dhurata të lejueshme, pa qenë i detyruar t’i deklarojë ato, nëse nuk e kalojnë vlerën prej 10 000 lekësh për dhuratë, ndërsa në rast se dhuratat janë më të kushtueshme, ai duhet t’ia deklarojë ato, brenda 30 ditëve, eprorit direkt dhe t’i dorëzojë në njësinë e burimeve njerëzore të institucionit.
+Nëse nëpunësi ka dyshim për vlerën e dhuratës, ai njofton eprorin direkt dhe i kërkon njësisë së burimeve njerëzore të institucionit të kryejë vlerësimin e saj.

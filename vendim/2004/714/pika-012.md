@@ -1,0 +1,1 @@
+12. Rregullat e mësipërme nuk zbatohen në rastin e ftesave të zakonshme apo kur janë të ftuar punonjës ose kolegë të tjerë, të mikpritjes tradicionale, dhuratave me vlerë simbolike apo tradicionale dhe të mirësjelljes, brenda kufijve normalë të traditës, zakoneve dhe praktikës së përditshme, të cilat nuk krijojnë dyshime për paanësinë e nëpunësit.

@@ -1,0 +1,1 @@
+10. Nëpunësi nuk duhet që, në mënyrë të drejtpërdrejtë ose të tërthortë, të japë dhurata ose të ndërmjetësojë për të dhënë dhurata për një nëpunës të një niveli më të lartë apo të afërm të tij dhe as të kërkojë ose të pranojë dhurata nga nëpunës i një niveli më të ulët ose të afërm të tij, për shkak të cilësive dhe raporteve zyrtare.

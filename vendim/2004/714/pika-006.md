@@ -1,0 +1,1 @@
+6. Mbështetur në të dhënat e marra, eprori direkt, në bashkëpunim me njësinë e burimeve njerëzore të institucionit, verifikon nëse veprimtaria që do të kryejë nëpunësi kategorizohet si e lejueshme sipas pikës 2 të këtij vendimi. Eprori direkt merr vendimin për përcaktimin e veprimtarisë së jashtme si të lejueshme apo jo dhe ia komunikon atë, me shkrim, nëpunësit kërkues.
