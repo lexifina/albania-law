@@ -1,1 +1,2 @@
 4. Fondi për shpërblimin e pronarëve të shpronësuar, sipas pikës 3 të këtij vendimi, të përballohet nga buxheti i vitit 2000 i Ministrisë së Transportit, në zërin “Shpronësime”.
+4/1. Fondi prej 56 187 105 (pesëdhjetë e gjashtë milionë e njëqind e tetëdhjetë e shtatë mijë e njëqind e pesë) lekësh, si dhe shpenzimet procedurale prej 319 200 (treqind e nëntëmbëdhjetë mijë e dyqind) lekësh, të përballohen nga buxheti i vitit 2003, zëri “Shpronësime”, miratuar për Ministrinë e Transportit dhe të Telekomunikacionit.
