@@ -1,0 +1,9 @@
+# Neni 27
+Asistenca në mbledhjen e tatimeve
+1. Shtetet Kontraktuese do t’i ofrojnë ndihmë dhe asistencë njëri-tjetrit me qëllim informimi dhe mbledhjen e tatimeve së bashku me mbipagesat shtesat, interesat, koston dhe gjobat në lidhje me këto tatime.
+2. Me kërkesë të autoritetit kompetent të një Shteti Kontraktues, autoriteti kompetent i Shtetit tjetër Kontraktues, në bazë të dispozitave ligjore dhe rregullave që aplikohen për informacionin dhe mbledhjen e tatimeve në fjalë të shtetit të fundit, do të sigurojë informacionin dhe mbledhjen e tatimeve të përmendura në paragrafin 1, siç kërkohet në shtetin e përmendur në fillim. Kjo kërkesë nuk do të ketë ndonjë prioritet në shtetin ku është bërë kërkesa.
+3. Kërkesat e paraqitura në paragrafin 2 do të mbështeten nga një kopje zyrtare e instrumentit që lejon ekzekutimin, shoqëruar, aty kur duhet, nga një kopje e vendimit administrativ ose gjyqësor përfundimtar.
+4. Në lidhje me kërkesat që janë të hapura për apelim, autoriteti kompetent i një Shteti Kontraktues, mund t’i bëjë kërkesë autoritetit kompetent të Shtetit tjetër Kontraktues, me qëllim mbrojtjen e të drejtave, të marrë masa mbrojtëse që parashikohen në legjislacionin e shtetit tjetër. Dispozitat e paragrafëve 1 dhe 3 do të zbatohen me ndryshimet e duhura për këto masa.
+5. Dispozitat e këtij neni, pavarësisht nga dispozitat e nenit 2, do të zbatohen ndaj tatimeve të çdo lloji të vendosura në emër apo nga një Shtet Kontraktues.
+6. Dispozitat e paragrafit 1 të nenit 26, gjithashtu do të zbatohen ndaj çdo lloj informacioni, i cili, nisur nga kuptimi i këtij neni, i është dhënë autoritetit kompetent të një Shteti Kontraktues.
+7. Asnjë dispozitë në këtë nen nuk mund të detyrojë Shtetet Kontraktuese për aplikimin e masave apo mjeteve shtrënguese të një natyre të ndryshme nga ato që përdoren në mbledhjen e tatimeve të veta në përputhje me legjislacionin dhe rregullat e tyre.

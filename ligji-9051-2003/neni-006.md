@@ -1,0 +1,6 @@
+# Neni 6
+Të ardhurat nga pasuria e paluajtshme
+1. Të ardhurat e realizuara nga një rezident i një Shteti Kontraktues nga pasuria e paluajtshme (përfshirë të ardhurat nga bujqësia dhe pyjet) të vendosura në Shtetin tjetër Kontraktues mund të tatohen në këtë shtet tjetër.
+2. Termi “pasuri e paluajtshme” do të ketë kuptimin që ka sipas ligjit të Shtetit Kontraktues ku është vendosur prona në fjalë. Në çdo rast ky term do të përfshijë pasuritë aksesore të pasurisë së paluajtshme, inventarin e gjallë dhe pajisjet e përdorura në bujqësi e në pyje, të drejtat ndaj të cilave zbatohen dispozitat e legjislacionit të përgjithshëm lidhur me pronën mbi tokën, uzufrukti i pasurive të paluajtshme dhe të drejtat ndaj pagesave fikse ose variabël për shfrytëzimin ose të drejtën për të shfrytëzuar vendburimet minerare dhe burime e pasuri të tjera natyrore. Anijet dhe avionët nuk konsiderohen pasuri të paluajtshme.
+3. Dispozitat e paragrafit 1 do të zbatohen ndaj të ardhurave të realizuara nga përdorimi direkt, dhënia me qira ose përdorimi në çdo formë tjetër i pasurive të paluajtshme.
+4. Dispozitat e paragrafëve 1 dhe 3 do të zbatohen gjithashtu ndaj të ardhurave nga pasuria e paluajtshme e një sipërmarrjeje dhe ndaj të ardhurave nga pasuria e paluajtshme e përdorur për kyerjen e shërbimeve personale të pavarura.
