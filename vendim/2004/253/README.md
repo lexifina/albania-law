@@ -1,0 +1,9 @@
+# Për disa ndryshime e shtesa në vendimin nr.416, datë 9.7.1998 të këshillit të ministrave “Për administrimin dhe përdorimin e të ardhurave të ministrisë së ekonomisë publike dhe privatizimit nga privatizimi i shoqërive tregtare, që veprojnë në sektorë jostrategjikë”
+
+Official source: [Vendimi i Këshillit të Ministrave nr. 253, datë 30.4.2004](https://qbz.gov.al/api/v1/acts/2737).
+
+Status of this text: `as-enacted`. Adopted 2004-04-30; published 2004-05-13; in force 2004-05-13.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
