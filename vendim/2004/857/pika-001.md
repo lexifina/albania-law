@@ -1,0 +1,2 @@
+1. Drejtoria e Prodhimit Blegtoral në Ministrinë e Bujqësisë dhe të Ushqimit është autoriteti që mban dhe administron regjistrin e qendrave racore për prodhimin e riprodhuesve, meshkuj dhe femra, në gjedhet e racës, derra, njëthundrakë, dhen, dhi dhe shpendë.
+Kjo drejtori vlerëson programin racor të qendrës racore dhe i paraqet Ministrit kërkesën për miratimin e saj, duke marrë mendimin me shkrim të Komisionit Qendror të Përmirësimit Racor.

@@ -1,0 +1,1 @@
+8. Ministria e Bujqësisë dhe e Ushqimit lidh kontratë pesëvjeçare, për zbatimin e programit racor, me qendrën racore të miratuar, e cila përfiton ndihmë nga ky program, ku parashikohen detyrimet e palëve, në zbatim të programit racor, si dhe mënyra e financimit të qendrës racore.

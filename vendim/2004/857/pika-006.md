@@ -1,0 +1,1 @@
+6. Në qendrat racore të hapen libri për përdorimin e materialit biologjik, libri për përdorimin e vaksinave dhe libri i llogarive për blerjet dhe shërbimet e kryera, nga personat, publike ose private, për vaksinat dhe materialin biologjik.

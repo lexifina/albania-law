@@ -1,0 +1,1 @@
+5. Ministria e Bujqësisë dhe e Ushqimit me fondet e veta mbulon vaksinimin falas të tufës racore, shpenzimet e ndërzimit dhe çmimin e blerjes së materialit biologjik për ndërzimin në tufat racore. Materiali biologjik mund të jetë i prodhuar në vend ose i importuar për linja të veçanta, sipas përcaktimit të bërë në programin racor.

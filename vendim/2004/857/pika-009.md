@@ -1,0 +1,1 @@
+9. Për zbatimin e programit racor, të miratuar me urdhër të Ministrit të Bujqësisë dhe të Ushqimit, ngrihet një komision i veçantë, i cili, çdo vit, të kontrollojë shpenzimin e fondeve të planifikuara dhe zbatimin e detyrave nga qendra racore.
