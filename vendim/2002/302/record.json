@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1505,
+  "title": "Për një ndryshim në vendimin nr.31, datë 20.1.2001 të Këshillit të Ministrave \"Për përfitimet nga statusi i invalidit paraplegjik dhe tetraplegjik\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "302",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-06-27",
+  "published": "2002-07-13",
+  "in_force": "2002-07-13",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1 gusht 2002\": the publication day (its effects reach back to 1 gusht 2002)",
+  "source": "https://qbz.gov.al/files/a348875e58abf9a5b3354f7c7cdb6b001f83d77b6eab67a32587b3e4391c5ef0.docx",
+  "source_sha256": "a348875e58abf9a5b3354f7c7cdb6b001f83d77b6eab67a32587b3e4391c5ef0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1505",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/06/27/302",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
