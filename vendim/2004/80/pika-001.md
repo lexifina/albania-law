@@ -1,0 +1,1 @@
+1. Drejtoritë e shëndetit publik dhe institucionet në varësi të tyre, në përputhje me rregulloren përkatëse të Ministrisë së Shëndetësisë, të vënë në dispozicion të qendrave të rekrutim-mobilizimit mjekë për kryerjen e detyrës funksionale të komisionit.
