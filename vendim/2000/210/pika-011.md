@@ -1,0 +1,1 @@
+11. Prefekturat, me strukturat përkatëse, ndjekin dhe kontrollojnë respektimin e procedurave të përcaktuara në aktet ligjore e nënligjore për regjistrimin e votuesve në bashkitë dhe në komunat e territorit përkatës.

@@ -1,0 +1,1 @@
+5. Kryetarët e bashkive dhe të komunave t’u kërkojnë partive politike përkatëse dërgimin e përfaqësuesit të tyre në komisionin e bashkisë ose të komunës, si dhe listën emërore të përfaqësuesve të tyre në çdo qendër votimi, në përbërje të grupeve për regjistrimin shtëpi më shtëpi (sipas pikave 1 dhe 4).

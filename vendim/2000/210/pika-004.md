@@ -1,0 +1,1 @@
+4. Për çdo qendër votimi ngrihen grupet e punës për regjistrimin e votuesve shtëpi më shtëpi. Grupi të jetë me 3 veta, me këtë përbërje: përfaqësuesi i bashkisë apo i komunës dhe nga një përfaqësues prej dy partive që kanë numrin më të madh të vendeve në këshillin përkatës dhe të jenë njeri nga pozita e tjetri nga opozita.
