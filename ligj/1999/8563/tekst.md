@@ -4,7 +4,7 @@ Nr.8563, datë 22.12.1999
 
 PËR PËRCAKTIMIN E FORMËS DHE FORMULËS SË PRIVATIZIMIT TË BANKËS SË KURSIMEVE, SH.A.
 
-(Ndryshuar me ligjin nr.8806, datë 17.5.2001)
+(Ndryshuar me ligjin nr.8806, datë 17.5.2001; nr. 8900, datë 23.5.2002)
 
 (I përditësuar)
 
@@ -57,6 +57,14 @@ Ngarkohet Ministria e Financave që në zbatim të këtij ligji të hartojë dhe
 Neni 7
 
 Ngarkohet Këshilli i Ministrave të nxjerrë aktet e nevojshme në zbatim të këtij ligji dhe të përgatisë strategjinë e ristrukturimit të Bankës së Kursimeve sh.a. përpara fillimit të procedurave të privatizimit.
+
+Neni 7/1
+
+(Shtuar me ligjin nr. 8900, datë 23.5.2002)
+
+1. Banka e Kursimeve sha deri më 31.12.2010 nuk do t’u nënshtrohet detyrimeve të neneve 5, 6, 7 dhe 8 të ligjit nr.8044, datë 7.12.1995 “Për konkurrencën”. Gjatë kësaj periudhe Banka e Kursimeve do t’u nënshtrohet dispozitave ligjore në fuqi, që trajtojnë abuzimin me pozitën dominuese në treg.
+
+2. Ngarkohen Banka e Shqipërisë dhe Ministria e Ekonomisë të përcaktojnë norma specifike të mbikëqyrjes për moslejimin e rasteve të abuzimit me pozitën dominuese në treg”.
 
 Neni 8
 
