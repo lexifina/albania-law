@@ -1,0 +1,28 @@
+{
+  "qbz_id": 50,
+  "title": "PËR NJË SHTESË NË VENDIMIN NR.248, DATË 25.3.1996, TË KËSHILLIT TË MINISTRAVE, “PËR PËRCAKTIMIN E NUMRIT DHE KATEGORISË SË TELEFONAVE CELULARË, NË PËRDORIM TË INSTITUCIONEVE BUXHETORE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "51",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-02-17",
+  "published": "2000-04-05",
+  "in_force": "2000-04-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/fa8e9884b450035d0d6ca5746241f97dcb1d8d49e9a7b12a7b230fb0e7224edf.docx",
+  "source_sha256": "fa8e9884b450035d0d6ca5746241f97dcb1d8d49e9a7b12a7b230fb0e7224edf",
+  "official_record": "https://qbz.gov.al/api/v1/acts/50",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/02/17/51",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    360
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
