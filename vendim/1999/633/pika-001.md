@@ -1,0 +1,1 @@
+1.Ministrisë së Bujqësisë dhe Ushqimit në buxhetin e vitit 1999 t’i shtohet një fond prej 30 milionë lekë për likuidimin e energjisë elektrike dhe drejtoritë e ujrave për vitet 1998-1999 dhe për përballimin e situatës për rritjen e gatishmërisë së elektropompave të hidrovoreve.
