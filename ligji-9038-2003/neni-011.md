@@ -1,0 +1,2 @@
+# Neni 11
+Një kërkesë për transit duhet të përmbajë të dhëna personale dhe të dhëna mbi shtetësinë e personit që do të largohet, datën e transitit, orën dhe vendin e hyrjes në territorin e Palës Kontraktuese të kërkuar, orën dhe vendin e nisjes nga territori i Palës Kontraktuese të kërkuar për në vendin e destinacionit, të dhëna të tjera, të cilat kanë lidhje me transitimin, garanci që personi në fjalë do të pranohet në vendin e destinacionit, si edhe të dhëna mbi personelin e eskortimit.
