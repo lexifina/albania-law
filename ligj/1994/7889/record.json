@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122400,
+  "title": "PËR STATUSIN E INVALIDIT",
+  "type": "Ligj",
+  "number": "7889",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1994-12-14",
+  "version_no": 1,
+  "qbz_version_id": 10611,
+  "in_force": "2003-10-16",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2003-10-16",
+  "changed_by_qbz_id": 59423,
+  "changed_by_number": "9143",
+  "changed_by_title": "PËR DISA NDRYSHIME NË LIGJIN NR. 7889, DATË 14.12.1994 \"PËR STATUSIN E INVALIDËVE\", I NDRYSHUAR",
+  "source": "https://qbz.gov.al/files/3176ca46b7dfed3448a2c8537f8ad261d266740f373bf4bcd16622dccc33bfed.docx",
+  "source_sha256": "3176ca46b7dfed3448a2c8537f8ad261d266740f373bf4bcd16622dccc33bfed",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122400",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122400/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
