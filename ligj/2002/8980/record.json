@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1751,
+  "title": "Për disa ndryshime në ligjin nr.8560, datë 22.12.1999 \"Për procedurat tatimore në Republikën e Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8980",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-12-12",
+  "published": "2002-12-21",
+  "in_force": "2003-01-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3216140552d89ab98999f056f93b8b21b593a99937c92ded48f7f2988815bbe8.docx",
+  "source_sha256": "3216140552d89ab98999f056f93b8b21b593a99937c92ded48f7f2988815bbe8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1751",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/12/12/8980",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
