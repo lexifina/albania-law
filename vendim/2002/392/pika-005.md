@@ -1,1 +1,2 @@
 5. Fondi prej 50 241 358 (pesëdhjetë milionë e dyqind e dyzet e një mijë e treqind e pesëdhjetë e tetë) lekësh, të përballohet nga buxheti i vitit 2002, zëri “Shpronësime”, miratuar për Ministrinë e Transportit dhe Telekomunikacionit.
+5/1. Fondi prej 2 156 580 (dy milionë e njëqind e pesëdhjetë e gjashtë mijë e pesëqind e tetëdhjetë) lekësh, për kompensimin e pronarit të “Alba Posta”, të përballohet nga buxheti i vitit 2004, zëri “Shpronësime”, miratuar për Ministrinë e Transportit dhe të Telekomunikacionit.
