@@ -1,0 +1,3 @@
+# Neni 27
+Rregulla të brendshme
+Brenda 90 ditëve nga hyrja në fuqi e këtij ligji, në përputhje me detyrimet përkatëse, autoritetet mbikëqyrëse dhe subjektet e përmendura në nenin 3 të ligjit nr.8610, datë 17.5.2000 “Për parandalimin e pastrimit të parave”, i ndryshuar, duhet të miratojnë dhe të zbatojnë rregullat e brendshme, të posaçme, për kriteret dhe procedurat e identifikimit të veprimeve, të transanksioneve dhe të personave të dyshimtë për lidhje me financimin e terrorizmit, si dhe për identifikimin e veprimeve financiare, të transanksioneve dhe veprimeve të tjera të dyshimta për financim të terrorizmit.
