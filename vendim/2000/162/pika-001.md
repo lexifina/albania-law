@@ -1,0 +1,1 @@
+1. Fillimin e procesit të shpërndarjes së vlerave financiare kreditorëve të shoqërisë “Universi”, sh.p.k. në administrim, në bazë të të ardhurave financiare, të grumbulluara nga shitja e aseteve në ankandin publik.
