@@ -4,7 +4,7 @@ Nr.317, datë 8.7.1999
 
 PËR SHPËRBLIMIN E PUNËS SË PUNONJËSVE
 
-(Ndryshuar me VKM nr. 261, datë 25.5.2000)
+(Ndryshuar me VKM nr. 261, datë 25.5.2000; nr. 36, datë 20.1.2001)
 
 (I përditësuar)
 
@@ -34,7 +34,7 @@ Raporti i pagës së drejtorit, në krahasim me pagën më të ulët të punonj�
 
 7. Punonjësit e ndërmarrjeve, që funksionojnë sipas ligjit nr.7582, datë 13.7.1992 “Për ndërmarrjet shtetërore”, përfitojnë shpërblim suplementar jo më shumë se 15 për qind të fitimit të realizuar, vetëm kur ndërmarrjet e kanë rezervën përkatëse, por jo më shumë se dy paga mujore në vit për secilin prej tyre.
 
-8. Guvernatori i Bankës së Shqipërisë, për efekt page, barazohet me ministrin e Financave. Drejtorët e përgjithshëm të bankave të nivelit të dytë, drejtori i INSIG-ut, drejtori i Institutit të Sigurimeve Shoqërore, drejtori i Institutit të Sigurimeve Shëndetësore barazohen, për efekt page, me klasifikimin A9, të miratuar me vendimin e Këshillit të Ministrave nr.393, datë 3.9.1992 “Për pagat e punonjësve të institucioneve buxhetore”.
+8. Guvernatori i Bankës së Shqipërisë, për efekt page, barazohet me ministrin e Financave. Drejtorët e përgjithshëm të bankave të nivelit të dytë, drejtori i Institutit të Sigurimeve Shoqërore, drejtori i Institutit të Sigurimeve Shëndetësore barazohen, për efekt page, me klasifikimin A9, të miratuar me vendimin e Këshillit të Ministrave nr.393, datë 3.9.1992 “Për pagat e punonjësve të institucioneve buxhetore”.
 
 Punonjësit e këtyre institucioneve përfitojnë shpërblim suplementar jo më shumë se dy paga mujore në vit për secilin punonjës, në varësi të rezultatit financiar të institucionit.
 
