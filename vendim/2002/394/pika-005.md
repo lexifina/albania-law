@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale, në shumën prej 163 000 (njëqind e gjashtëdhjetë e tre mijë) lekësh, të përballohet nga buxheti i vitit 2002, miratuar për Bashkinë e Pogradecit, e cila do të kryejë edhe pagesën e pronarëve të shpronësuar.
