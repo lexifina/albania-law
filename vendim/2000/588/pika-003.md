@@ -1,0 +1,1 @@
+3. SHPU-të, për vitet akademike 2000-2001 dhe 2001-2002, funksionojnë përgjithësisht me korrespondencë, përveç rasteve kur shkolla e lartë universitare i mbulon shpenzimet pa shtesë të fondeve buxhetore.

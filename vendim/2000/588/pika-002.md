@@ -1,0 +1,1 @@
+2. Shpenzimet për funksionimin e SHPU-ve, për vitet akademike 2000-2001 dhe 2001-2002, mbulohen nga tarifat e shkollimit dhe nga të ardhura të tjera të krijuara në mbështetje të akteve ligjore e nënligjore në fuqi.
