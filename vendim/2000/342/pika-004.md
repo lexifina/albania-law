@@ -1,0 +1,1 @@
+4. Departamenti i Administratës Publike bën verifikimin e kandidatëve, të cilët, sipas fotokopjeve të dokumenteve të paraqitura përmbushin kërkesat e veçanta, të përcaktuara në shpalljen për konkurim. Në institucionet e pavarura verifikimi bëhet nga departamenti, drejtoria apo zyra e personelit.

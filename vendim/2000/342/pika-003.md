@@ -1,0 +1,1 @@
+3. Departamenti i Administratës Publike, me shpenzimet e institucionit që ka vendin e lirë, boton shpalljen e vendit të lirë në dy gazeta kombëtare, me qarkullim më të madh. Në institucionet e pavarura betimi bëhet nga departamenti, drejtoria, seksioni apo zyra e personelit.

@@ -1,0 +1,1 @@
+1. Procedurat e planifikimit për plotësimin e vendeve të lira, të parashikuara nga pika 1 deri në 5, të vendimit nr.231, datë 11.5.2000, të Këshillit të Ministrave, “Për pranimin në shërbimin civil dhe periudhën e provës”, shërben edhe për lëvizjen paralele dhe për ngritjen në detyrë.

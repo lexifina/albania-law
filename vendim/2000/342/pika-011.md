@@ -1,0 +1,1 @@
+11. Shpallja e konkurimit për ngritjen në detyrë përmban të dhënat sipas pikës 2 të këtij vendimi, përveç shkronjës “c”, ku përcaktohen pozicionet e shërbimit civil, që përfitojnë nga ngritja në detyrë.
