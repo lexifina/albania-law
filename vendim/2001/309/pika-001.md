@@ -1,0 +1,1 @@
+1. Ngritjen dhe funksionimin e Qendrës Kombëtare Arsimore të Vlerësimit dhe të Provimeve në Republikën e Shqipërisë. Kjo qendër është institucion publik, i veçantë, në varësi të Ministrisë së Arsimit dhe Shkencës.

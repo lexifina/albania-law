@@ -1,0 +1,1 @@
+7. Trajtimi financiar i Drejtorit të Qendrës Kombëtare Arsimore të Vlerësimit dhe të Provimeve do të barazohet me klasën B2 të lidhjes nr.1 “Renditja e funksioneve sipas klasifikimit”, ndërsa specialistët do të barazohen me klasën C2 të vendimit nr.726, datë 21.12.2000 “Për pagat e punonjësve të institucioneve buxhetore” të Këshillit të Ministrave.
