@@ -1,0 +1,1 @@
+3. Vendimi nr.528, datë 17.10.1994, i Këshillit të Ministrave, ”Për mënyrën e pagesës së banesave që financohen nga Enti Kombëtar i Banesave”, me ndryshimet e tij dhe vendimi nr.210, datë 1.4.1996, i Këshillit të Ministrave, ”Për uljen e këstit të parë të pagesës së apartamenteve të ndërtuara me fonde shtetërore”, shfuqizohen.

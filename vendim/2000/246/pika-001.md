@@ -1,0 +1,1 @@
+1. Në momentin e lidhjes së kontratës së shitjes me Entin Kombëtar të Banesave, blerësi do të paguajë vetëm vlerën prej 4 përqind të apartamentit. Kjo vlerë është e zbatueshme pavarësisht nga tipi i kontratës së shitblerjes së apartamenteve si dhe nga statusi i strehimit të qytetarit.
