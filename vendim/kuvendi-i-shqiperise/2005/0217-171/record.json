@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66237,
+  "title": "PËR ZGJEDHJEN E AVOKATIT TË POPULLIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "171",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-02-17",
+  "published": "2005-03-07",
+  "in_force": "2005-03-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a73b16c99e483ae9508155c6aca27fb37894243b70118cba4052d7e0e5230da6.docx",
+  "source_sha256": "a73b16c99e483ae9508155c6aca27fb37894243b70118cba4052d7e0e5230da6",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66237",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/02/17/171",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
