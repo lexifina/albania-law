@@ -1,0 +1,1 @@
+1. Tipografia ushtarake sh.a., me mjetet kryesore dhe objektet e saj, e cila deri më tani ka qenë në varësi të Ministrisë së Mbrojtjes, t’i kalojë në varësi Ministrisë së Pushtetit Vendor dhe të Decentralizimit.
