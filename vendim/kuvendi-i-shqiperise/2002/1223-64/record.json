@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1775,
+  "title": "Për zgjatjen e afatit të punës së Komisionit Parlamentar Bipartizan për shqyrtimin dhe zbatimin e rekomandimeve të OSBE-së/ODIHR-it për zgjedhjet parlamentare të vitit 2001",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "64",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-12-23",
+  "published": "2002-12-31",
+  "in_force": "2002-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c59f8b1448744ce7dc22140cd6b39f58d9621071cbae836efb97acdbe4314660.docx",
+  "source_sha256": "c59f8b1448744ce7dc22140cd6b39f58d9621071cbae836efb97acdbe4314660",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1775",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/12/23/64",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
