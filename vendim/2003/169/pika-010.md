@@ -1,0 +1,7 @@
+10. Pagesa e truallit të ndërmarrjes ose objektit që është privatizuar ose do të privatizohet bëhet vetëm me lekë. Shpërndarja e të ardhurave nga shitja e trojeve bëhet në përputhje me vendimin nr.243, datë 28.5.1999 të Këshillit të Ministrave “Për një ndryshim në vendimin nr.201, datë 26.3.1998 të Këshillit të Ministrave “Për kriteret e përdorimit të të ardhurave nga shitja dhe qiraja e truallit””.
+V. TË PËRGJITHSHME
+1. Ngarkohet Ministria e Ekonomisë, Ministria e Pushtetit Vendor dhe Decentralizimit, Agjencia Kombëtare e Privatizimit për nxjerrjen e udhëzimeve përkatëse në zbatim të këtij vendimi.
+2. Për zbatimin e këtij vendimi ngarkohen Ministria e Ekonomisë, Ministria e Pushtetit Vendor dhe Decentralizimit, Agjencia Kombëtare e Privatizimit, prefekturat e qarkut, organet e qeverisjes vendore dhe zyrat e regjistrimit të pasurive të paluajtshme.
+3. Ky vendim nuk do të zbatohet për procedurat e vlerësimit të truallit të objekteve, dokumentacioni i të cilave është dërguar në organet e varësisë administrative.
+4. Vendimet nr.312, datë 30.6.1994 të Këshillit të Ministrave “Për çmimin e truallit që shitet dhe qiranë e truallit që u jepet në përdorim për ndërtim personave fizikë dhe juridikë” dhe nr. 562, datë 9.10.1995 të Këshillit të Ministrave “Për shitjen e truallit të ndërmarrjeve që privatizohen””, si dhe të gjitha aktet e tjera nënligjore që bien në kundërshtim me këtë vendim, shfuqizohen.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
