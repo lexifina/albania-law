@@ -1,7 +1,7 @@
 # Shtojca
 PROGRAMI I RISTRUKTURIMIT TË BANKËS SË KURSIMEVE
 SH.A. PËRPARA FILLIMIT TË PROCEDURAVE TË PRIVATIZIMIT
-Miratuar me vendimin Nr.407, datë 27.7.2000
+Miratuar me vendimin Nr. 407, datë 27.7.2000
 Një nga objektivat kryesore të qeverisë në fushën ekonomike e financiare është që t’i hapë rrugë zhvillimit të tregut bankar për të krijuar një sistem bankar adekuat në kushtet e ekonomisë së tregut.
 Në këto kushte, nëpërmjet privatizimit të Bankës së Kursimeve sh.a. duke ruajtur dhe konsoliduar nivelin e arritur nga kjo bankë, të synohet që pas një procesi ristrukturimi, konsolidimi dhe rritje efektiviteti, kjo bankë të mbështesë më mirë nevojat e ekonomisë dhe të popullsisë me shërbim bankar, t’u lerë hapësirë më shumë bankave të tjera në aktivitetin bankar nëpërmjet zbutjes së pozitës monopol të saj.
 Pikësynimi i qeverisë në këtë kuadër është që ky institucion i rëndësishëm financiar të gjejë partnerë dhe investitorë seriozë e të fuqishëm për të ardhmen e tij private.
@@ -15,14 +15,14 @@ Ky proces duhet të jetë shumë i kujdesshëm, të paraprihet nga konsulta të 
 Sistemimi me punë i punonjësve të bankës gjatë këtij procesi do të realizohet si më poshtë:
 - brenda vetë bankës, në rastet ky proces kryhet brenda për brenda bankës,
 - në institucionon tjetër shtetëror, në rastet e kalimit të aktivitetit tek ai institucion,
-- duke zbatuar legjislacionon në fuqi për punësimin (Kodin e Punës, Kontratat e Punës, etj.) si dhe duke i dhënë punonjësve deri në 3 paga mujore, në rastet kur ata duhet të largohen nga puna si pasojë e ristrukturimit.
+- duke zbatuar legjislacionon në fuqi për punësimin (Kodin e Punës, Kontratat e Punës, etj.) si dhe duke i dhënë punonjësve deri në 12 paga mujore, në rastet kur ata duhet të largohen nga puna si pasojë e ristrukturimit.
 2. Përmirësimi i strukturave drejtuese në Drejtorinë e Përgjithshme të bankës, me synimin rritjen e efektivitetit të drejtimit për t’ju përgjigjur më mirë kushteve te tregut dhe përgatitjes për privatizim.
 Ristrukturimi në drejtorinë e përgjithshme do të realizohet mbi kritere të shëndosha tekniko-organizative, nëpërmjet konkurimeve për vendet e punës dhe duke shmangur në çdo rast bashkimet apo ndarjet thjesht mekanike.
 Ky proces i cili mund të sjellë një reduktim të numrit aktual të punonjësve në këtë njësi, duhet të synojë që brenda mundësive të mos krijojë shqetësime sociale akute.
 Organigrama dhe organika e re, mbasi të diskutohen në Drejtorinë e Përgjithshme dhe në Këshillin Drejtues të Bankës së Kursimeve, do t’i paraqiten për miratim Ministrit të Financave, si aksioneri kryesor dhe i vetëm i bankës.
 Për punonjësit që do të reduktohen nga ristrukturimi i Drejtorisë së Përgjithshme ka dy alternativa:
 - sistemim në degët e bankës (kryesisht në Tiranë), në përputhje me nevojat e degëve dhe sipas aftësive të vetë personit,
-- në rastin e mosgjetjes së mundësisë për t’u sistemuar në degë, do të zbatohet kuadri ligjor në fuqi për punësimin (Kodi i Punës, Kontrata e Punës, etj.) si edhe do t’u jepet deri në 3 paga mujore.
+- në rastin e mosgjetjes së mundësisë për t’u sistemuar në degë, do të zbatohet kuadri ligjor në fuqi për punësimin (Kodi i Punës, Kontrata e Punës, etj.) si edhe do t’u jepet deri në 12 paga mujore.
 3. Evidentimi dhe sistemimi i të gjitha llogarive me probleme, detyrimeve të prapambetura, kredive të këqija, etj. Nëpërmjet auditimit modern të pavarur dhe implementimit të sistemit të llogarive sipas Standardeve Ndërkombëtare të Kontabilitetit.
 4. Përgatitja paraprake për kalimin e portofolit të kredive të këqija tek Agjencia e Trajtimit të Kredive.
 5. Plotësimi i kapitalit ligjor të bankës dhe rikapitalizimi i plotë i saj.
