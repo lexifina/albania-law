@@ -1,3 +1,0 @@
-# Nënshkrimi
-KRYEMINISRI
-Ilir Meta
