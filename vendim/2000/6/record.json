@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.831, DATË 28.12.1998, TË KËSHILLIT TË MINISTRAVE, “PËR MËNYRËN E DHËNIES ME QIRA TË TOKËS BUJQËSORE, PASURI SHTETËRORE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "6",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-01-13",
+  "published": "2000-02-02",
+  "in_force": "2000-02-02",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f7463569792446153033756a876f786da216ffe816f5280b4cae0d3d378f24de.docx",
+  "source_sha256": "f7463569792446153033756a876f786da216ffe816f5280b4cae0d3d378f24de",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/01/13/6",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
