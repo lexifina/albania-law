@@ -1,0 +1,1 @@
+1. Kalimin e një pjese të territorit të QSUT-së prej 1 500 m2 në administrim të Institutit të Sigurimeve të Kujdesit Shëndetësor, sipas planimetrisë dhe genplanit, që i bashkëlidhen këtij vendimi, për ndërtimin e mjediseve të zyrave të këtij instituti.
