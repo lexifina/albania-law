@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes së koncesionit të formës “BOO”, ndërmjet Ministrisë së Industrisë dhe të Energjetikës, Ministrisë së Bujqësisë dhe të Ushqimit, si Organ Shtetëror i Autorizuar (OSHA), dhe shoqërisë “Wonder” sh.a., Tiranë, për ndërtimin e hidrocentralit të Sasajt, sipas tekstit që i bashkëlidhet këtij vendimi.
