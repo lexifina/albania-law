@@ -1,0 +1,1 @@
+2. Miratimin e Raiffeisen Zentralbank Ősterreich AG, fituese për blerjen e aksioneve të Bankës së Kursimeve sh.a., në masën 100 për qind, me vlerë 126 000 000 (njëqind e njëzet e gjashtë milionë ) USD, me çmim për çdo aksion 18 000 (tetëmbëdhjetë mijë) USD.
