@@ -1,0 +1,1 @@
+1. Këshillat mbikëqyrës të shoqërive anonime, shtetërore të krijuara nga transformimi i ndërmarrjeve shtetërore, në sektorë strategjikë përbëhen nga 6 (gjashtë) anëtarë, kurse në shoqëritë e vogla dhe të mesme, nga 3 (tre) anëtarë.

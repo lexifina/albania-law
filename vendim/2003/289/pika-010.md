@@ -1,0 +1,1 @@
+10. Ministria e Rregullimit të Territorit dhe e Turizmit, në propozimet për këshillat mbikëqyrës të shoqërive të furnizimit me ujë dhe të largimit të ujërave të përdorura, bashkërendon punën me organet përkatëse të pushtetit vendor, për përfaqësimin e tyre.

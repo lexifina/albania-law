@@ -1,0 +1,1 @@
+14. Vendimi nr.66, datë 24.2.2000 i Këshillit të Ministrave “Për këshillat mbikëqyrës të shoqërive anonime, shtetërore”, i ndryshuar, si dhe aktet e tjera nënligjore, që bien në kundërshtim me këtë vendim, shfuqizohen.

@@ -1,0 +1,1 @@
+8. Këshilli mbikëqyrës zgjedh, në mbledhjen e tij të parë, kryetarin dhe nënkryetarin, të cilët propozohen nga Ministri i Ekonomisë. Kandidaturat për kryetar dhe nënkryetar të këshillave mbikëqyrës të shoqërive anonime shtetërore, që veprojnë në sektorin strategjik, sipas listës që i bashkëlidhet këtij vendimi, propozohen nga Kryeministri.

@@ -1,0 +1,1 @@
+3. Anëtarë të këshillave mbikëqyrës mund të emërohen punonjës të organeve të qeverisjes qendrore dhe vendore, si dhe punonjës të universiteteve e institucioneve kërkimore dhe shkencore, kur legjislacioni nuk pengon pjesëmarrjen e tyre.
