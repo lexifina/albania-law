@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Entit Kombëtar të Banesave të objekteve, magazinave, të kthyera në banesa me fondet e Ndërmarrjes së Duhan-cigareve, Durrës. Enti Kombëtar i Banesave të kryejë privatizimin e tyre, sipas akteve ligjore në fuqi, në favor të familjeve që banojnë aty dhe sipas listave të hartuara nga ndërmarja dhe të miratuara nga Këshilli Bashkiak, Durrës.

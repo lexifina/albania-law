@@ -1,0 +1,1 @@
+2. Enti Kombëtar i Banesave të bëjë llogaritjen e vlerës së privatizimit të këtyre banesave. Të ardhurat nga ky privatizim t’i derdhen Degës së Sigurimeve Shoqërore në Durrës, për llogari të Ndërmarrjes së Duhan-cigareve, Durrës.
