@@ -1,0 +1,2 @@
+# Neni 3
+Në kuptim të paragrafit të parë të nenit 18 të kësaj Konvente, Republika e Shqipërisë rezervon të drejtën të deklarojë se “Autoriteti qendror”, i përcaktuar në përputhje me nenin 12 të Konventës, mund të refuzojë kërkesën për asistencë nga një shtet tjetër kontraktues, nëse kjo kërkesë nuk është bërë në gjuhën shqipe, në gjuhën angleze a në gjuhën frënge ose nëse ajo nuk është e shoqëruar me një përkthim në njërën nga gjuhët zyrtare të Këshillit të Europës.
