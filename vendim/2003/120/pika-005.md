@@ -1,0 +1,1 @@
+5. Tarifat për veprimet dhe shërbimet, që ofron Instituti i Mjekësisë Ligjore, masa dhe mënyra e llogaritjes së këtyre shpenzimeve, caktohen me urdhër të përbashkët të Ministrit të Drejtësisë dhe të Ministrit të Financave.

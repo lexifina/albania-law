@@ -1,0 +1,1 @@
+4. Instituti i Mjekësisë Ligjore, sipas ligjit, kryen ekspertime mjekoligjore, me kërkesën e palëve në procesin civil, të subjekteve të procedimit penal dhe të personave të tjerë juridikë, kundrejt pagesës së shpenzimeve dhe të tarifave përkatëse.
