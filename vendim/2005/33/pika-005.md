@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale të jetë në shumën 230 000 (dyqind e tridhjetë mijë) lekë dhe të përballohet nga ndërmarrja e ujësjellës-kanalizimeve, sh.a., Gjirokastër, e cila do të kryejë edhe pagesën e pronarëve të shpronësuar.
