@@ -1,0 +1,1 @@
+2. Bashkia e Tiranës të përdorë fondin që Ministria e Arsimit dhe e Shkencës ka kualifikuar në buxhetin e vitit 2004, për investime të reja nga kjo bashki, në përputhje me kualifikimin buxhetor të investimeve, sipas listës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

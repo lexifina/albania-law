@@ -1,0 +1,1 @@
+3. Procedurat e prokurimit dhe lidhja e kontratave për objektet e përcaktuara në listën që i bashkëlidhet këtij vendimi, përjashtimisht nga procedurat e prokurimit të parashikuara në pikën 3.1 kapitulli III të vendimit nr.675, datë 20.12.2002 të Këshillit të Ministrave “Për përdorimin e fondeve buxhetore për mallra, shërbime dhe ndërtime”, të përfundojnë brenda datës 31.10.2004.
