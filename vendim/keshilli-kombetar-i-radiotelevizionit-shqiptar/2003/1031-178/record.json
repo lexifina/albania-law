@@ -1,0 +1,26 @@
+{
+  "qbz_id": 59429,
+  "title": "Për dhënie licence",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "178",
+  "institution": "Këshilli Kombëtar i Radiotelevizionit Shqiptar",
+  "adopted": "2003-10-31",
+  "published": "2003-11-10",
+  "in_force": "2003-11-10",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/06ad5e5758bb81867a2c8ee3cffa95ef36acd497892c6393d9bcc8debf765fe8.docx",
+  "source_sha256": "06ad5e5758bb81867a2c8ee3cffa95ef36acd497892c6393d9bcc8debf765fe8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59429",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/10/31/178",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
