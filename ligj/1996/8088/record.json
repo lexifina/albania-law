@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122986,
+  "title": "PëR SHOQERITë E BASHKëPUNIMIT RECIPROK",
+  "type": "Ligj",
+  "number": "8088",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1996-03-21",
+  "version_no": 1,
+  "qbz_version_id": 10712,
+  "in_force": "2003-03-27",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2003-03-27",
+  "changed_by_qbz_id": 1954,
+  "changed_by_number": "9039",
+  "changed_by_title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.8088, DATË 21.3.1996 \"PËR SHOQËRITË E BASHKËPUNIMIT RECIPROK\"",
+  "source": "https://qbz.gov.al/files/7652fdcb043f1aeb795e57266ba60901355dc3408fffad90fcc130adeeaa0240.docx",
+  "source_sha256": "7652fdcb043f1aeb795e57266ba60901355dc3408fffad90fcc130adeeaa0240",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122986",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122986/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
