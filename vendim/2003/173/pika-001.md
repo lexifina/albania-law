@@ -1,0 +1,1 @@
+1. Drejtuesit e institucioneve, në varësi të Këshillit të Ministrave, Kryeministrit ose të ministrit emërohen, lirohen ose shkarkohen nga detyra, përkatësisht nga Kryeministri ose ministri përkatës, në rast se dispozita të tjera, të veçanta, ligjore dhe nënligjore, nuk parashikojnë ndryshe.

@@ -1,0 +1,1 @@
+4. Kur në dispozita të tjera, të veçanta, ligjore dhe nënligjore, është përcaktuar organi i emërtesës për drejtuesit e institucioneve, në varësi të Këshillit të Ministrave, Kryeministrit ose të ministrit, por nuk përcaktohen kërkesat dhe procedurat për emërimin, lirimin ose shkarkimin e tyre, në këto raste zbatohen pikat 2 dhe 3, të këtij vendimi.
