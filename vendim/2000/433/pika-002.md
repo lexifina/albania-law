@@ -1,0 +1,1 @@
+2. Operatori të përzgjidhet nëpërmjet tenderit të hapur ndërkombëtar. Kriteret dhe kushtet e dhënies së liçensës, si dhe procedurat e hapjes dhe të vlerësimit të ofertave miratohen me vendime të veçanta të Këshillit të Ministrave.
