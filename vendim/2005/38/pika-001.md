@@ -1,0 +1,1 @@
+1. Mjediset e ish-brigadës së këmbësorisë në Shijak (pesë objektet dhe trualli i tyre funksional) me sipërfaqe të përgjithshme 2361 m2, në përgjegjësi administrimi të Ministrisë së Mbrojtjes, të kalojnë në pronësi të bashkisë së Shijakut, për sistemimin me zyra të kësaj bashkie.
