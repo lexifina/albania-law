@@ -2,7 +2,11 @@ V E N D I M
 
 Nr. 353, datë 7.7.2000
 
-PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN E KËSHILLIT TË MINISTRAVE NR.190, DATË 3.5.1995, “PËR ZBATIMIN E LIGJIT NR.7874, DATË 17.11.1994 “PËR STATUSIN E VETERANIT TË LUFTËS ANTIFASHISTE NACIONALÇLIRIMTARE TË POPULLIT SHQIPTAR””
+“PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN E KËSHILLIT TË MINISTRAVE NR.190, DATË 3.5.1995, “PËR ZBATIMIN E LIGJIT NR.7874, DATË 17.11.1994 “PËR STATUSIN E VETERANIT TË LUFTËS ANTIFASHISTE NACIONALÇLIRIMTARE TË POPULLIT SHQIPTAR”
+
+(Ndryshuar me VKM nr. 114, datë 8.3.2001)
+
+(i përditësuar) 
 
 Në mbështetje të nenit 100, pika 2 të Kushtetutës dhe në zbatim të nenit 14, të ligjit nr.7894, datë 17.11.1994, “Për statusin e veteranit të Luftës Antifashiste Nacionalçlirimtare të popullit shqiptar”, ndryshuar me ligjin nr.8526, datë 23.9.1999, me propozimin e ministrit të Mbrojtjes, Këshilli i Ministrave
 
@@ -56,7 +60,7 @@ Ndarja e fondit për organizatat e veteranëve të Luftës Antifashiste Nacional
 
 8. Ngarkohen Ministria e Mbrojtjes, Ministria e Shëndetësisë dhe Ministrisë e Transportit të nxjerrin udhëzimet përkatëse në zbatim të këtij vendimi.
 
-9. Ngarkohet Ministria e Mbrojtjes të pajisë, brenda muajit shkurt të vitit 2001, me librezën e re të veteranit të Luftës Antifashiste Nacionalçlirimtare të gjithë veteranët që jetojnë, në bazë të librezës që dorëzohet dhe të çertifikatës së gjendjes civile. Libreza e mëparshme del jashtë përdorimit.
+9. Ngarkohet Ministria e Mbrojtjes të pajisë, brenda muajit dhjetor të vitit 2001 me librezën e re të veteranit të Luftës Antifashiste Nacionalçlirimtare të gjithë veteranët që jetojnë, në bazë të librezës që dorëzohet dhe të çertifikatës së gjendjes civile. Libreza e mëparshme del jashtë përdorimit.
 
 10. Efektet financiare të këtij vendimi fillojnë nga data 1.12.1994, datë e hyrjes në fuqi të ligjit nr.7874, datë 17.11.1994, “Për statusin e veteranit të Luftës Antifashiste Nacionalçlirimtare të popullit shqiptar”, me përjashtim të shpërblimit në pikën 3, që fillojnë nga data e hyrjes në fuqi të ligjit nr.8526, datë 23.9.1999, “Për disa ndryshime dhe shtesa në ligjin nr.7874, datë 17.11.1994, “Për statusin e veteranit të Luftës Antifashiste të popullit shqiptar”.
 
