@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3369,
+  "title": "ZGJEDHJEN E NJË ANËTARI TË KOMISIONIT TË SHËRBIMIT CIVIL",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "173",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-02-24",
+  "published": "2005-03-16",
+  "in_force": "2005-03-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/dc5eda07a6a44dd6b486a38cbef40ddca3afdc1d91bdc41dfcfc900babd9ce9e.docx",
+  "source_sha256": "dc5eda07a6a44dd6b486a38cbef40ddca3afdc1d91bdc41dfcfc900babd9ce9e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3369",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/02/24/173",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
