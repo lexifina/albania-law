@@ -1,0 +1,4 @@
+# Neni 20
+Vendosja në institucionet e përkujdesjes
+1. I huaji, që ka përfituar azil në Republikën e Shqipërisë e që përmbush kriteret e legjislacionit në fushën e përkujdesjes shoqërore, mund të vendoset në institucionet publike të përkujdesjes. Dokumentacioni i pranimit në këto institucione hartohet nga Zyra për Refugjatët, sipas të dhënave të mbajtura në regjistrat e kësaj Zyre dhe miratohet nga Komisioni Qendror pranë Shërbimit Social Shtetëror.
+2. Zyra për Refugjatët mund të lidhë kontrata për trajtimin e të huajit, që ka përfituar azil në Republikën e Shqipërisë, me institucione jopublike të përkujdesjes shoqërore, që administrohen nga organizata jofitimprurëse të licencuara, nga Ministria e Punës dhe e Çështjeve Sociale dhe që e ushtrojnë veprimtarinë e tyre, në përputhje me legjislacionin në fuqi.
