@@ -1,0 +1,1 @@
+4. Albtelecom sh.a.- ja të përcaktojë koston e plotë të çdo zëri shërbimi. Në përputhje me këto kosto dhe për rregullimin e tarifave të Albtelecom sh.a.- së në vazhdimësi, Enti Rregullator i Telekomunikacioneve, jo më vonë se 5 vjet nga hyrja në fuqi e këtij vendimi, të propozojë amendimet përkatëse në lidhjet nr.1 dhe nr.2, të këtij vendimi.
