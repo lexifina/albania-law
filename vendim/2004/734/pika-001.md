@@ -1,0 +1,1 @@
+1. Veprimtaria e përpunimit të nënprodukteve të naftës kryhet nga shoqëritë tregtare, të themeluara në formën e shoqërive anonime, pasi të jenë pajisur me lejen e përpunimit, në përputhje me dispozitat e ligjit nr.8450, datë 24.2.1999 “Për përpunimin, transportimin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre”, të ndyshuar.

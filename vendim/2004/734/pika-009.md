@@ -1,0 +1,1 @@
+9. Shoqëria e pajisur me leje përpunimi detyrohet të dërgojë periodikisht të dhëna për veprimtarinë e vet në Drejtorinë e Përgjithshme të Hidrokarbureve. Lloji i të dhënave, forma dhe afatet e dërgimit të tyre nga shoqëritë përcaktohen nga ministria përgjegjëse për hidrokarburet.
