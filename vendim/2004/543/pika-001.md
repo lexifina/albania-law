@@ -1,0 +1,2 @@
+1. Rritjen në masën 8 për qind të pagesës kalimtare të ushtarakut në rezervë (lirim), të caktuar deri më datë 1.7.2004, në përputhje me nenin 10 të ligjit nr.8087, datë 13.3.1996 “Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë”, të ndryshuar.
+Këtë rritje e përfiton ushtaraku i nxjerrë në rezervë (lirim) nga strukturat e Forcave të Armatosura të Republikës së Shqipërisë, të Ministrisë së Rendit Publik dhe Shërbimit Informativ të Shtetit.
