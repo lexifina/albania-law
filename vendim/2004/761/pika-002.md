@@ -1,0 +1,1 @@
+2. Drejtoritë rajonale të sigurimeve shoqërore të mbledhin, brenda datës 30.6.2005, dokumentacionin e periudhës së sigurimit për ndërmarrjet dhe institucionet, buxhetore e jobuxhetore, që kanë ndërprerë veprimtarinë, si dhe për ndërmarrjet që, për arsye të reformës, ushtrojnë veprimtari të kufizuar.

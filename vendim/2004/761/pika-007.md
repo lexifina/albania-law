@@ -1,0 +1,1 @@
+7. Instituti i Sigurimeve Shoqërore të marrë të gjitha masat për marrjen në dorëzim të dokumentacionit të periudhës së sigurimit nga fondkrijuesit dhe nga Drejtoria e Përgjithshme e Arkivave të Shtetit për sistemimin dhe ruajtjen e këtij dokumentacioni.

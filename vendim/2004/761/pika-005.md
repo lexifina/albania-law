@@ -1,0 +1,2 @@
+5. Regjistrat themeltarë të dorëzohen në drejtoritë rajonale të sigurimeve shoqërore pasi dokumentacioni i periudhës së sigurimit të punonjësve të jetë përditësuar plotësisht, duke përputhur listëpagesat me regjistrat themeltarë dhe librezat e punës. Regjistrat themeltarë të mbyllen për çdo person.
+Drejtoritë rajonale të sigurimeve shoqërore, para marrjes në dorëzim të këtij dokumentacioni, të numërtojnë, kontrollojnë dhe konfirmojnë saktësinë për çdo fletë të regjistrave themeltarë të vjetërsisë në punë.

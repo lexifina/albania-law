@@ -1,0 +1,1 @@
+9. Ngarkohen ministritë që kanë në varësi subjektet e përcaktuara në këtë vendim, Ministria e Punës dhe e Çështjeve Sociale, Instituti i Sigurimeve Shoqërore dhe Drejtoria e Përgjithshme e Arkivave për zbatimin e këtij vendimi.

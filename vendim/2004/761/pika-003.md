@@ -1,0 +1,1 @@
+3. Ndërmarrjet dhe institucionet, buxhetore e jobuxhetore, që do ta mbyllin veprimtarinë apo do ta kufizojnë atë pas datës 30.6.2005, detyrohen të dorëzojnë dokumentacionin e periudhës së sigurimit të punonjësve të tyre në drejtoritë rajonale të sigurimeve shoqërore.

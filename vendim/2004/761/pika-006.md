@@ -1,0 +1,1 @@
+6. Ndërmarrjet që zhvillojnë veprimtari të kufizuar, para se të dorëzojnë dokumentet e periudhës së sigurimit, ku është e gjithë periudha e punës, që nga krijimi, të hapin regjistra themeltarë të rinj vetëm për punonjësit që kanë në punë.
