@@ -1,0 +1,1 @@
+4. Ushtarakët aktivë dhe punonjësit civilë të Forcave të Armatosura, si dhe ushtarakët në rezervë nuk përfitojnë nga zbatimi i pikës 5 të vendimit nr.159, datë 20.4.1991 të Këshillit të Ministrave “Për kujdesin mjekësor të shtetit për të sëmurët që dërgohen jashtë shtetit”.

@@ -1,0 +1,1 @@
+1. Për ushtarakët e Forcave të Armatosura dhe pjesëtarët e familjes së tyre, bashkëshorti a bashkëshortja dhe fëmijët, të cilët përfitojnë diagnostikim dhe kurim falas jashtë shtetit, në bazë të protokoll-marrëveshjeve me ushtritë e huaja, shpenzimet e udhëtimit të përballohen në masën 100 për qind nga shteti.

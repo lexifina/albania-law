@@ -1,0 +1,1 @@
+2. Kur ushtarakët rezervë dhe punonjësit civilë të Forcave të Armatosura dërgohen për diagnostikim dhe kurim jashtë shtetit, shpenzimet e udhëtimit të përballohen në masën 70 për qind nga shteti dhe 30 për qind nga ata vetë.
