@@ -1,0 +1,2 @@
+# Neni 1
+Miratohet “Kontrata për shitjen e aseteve të Ndërmarrjes së Prodhimit të Çimentos, Fushë-Krujë”, lidhur ndërmjet Ministrisë së Ekonomisë Publike dhe Privatizimit, Agjencisë Kombëtare të Privatizimit dhe “Fushë-Kruja Cement Factory” sh.p.k. (e zotëruar tërësisht nga “RMC-ECF Consortium Holding” SAL), i klasifikuar i pari në tenderin e hapur ndërkombëtar për shitjen e Ndërmarrjes së Prodhimit të Çimentos, Fushë-Krujë.
