@@ -4,6 +4,10 @@ Nr. 422, datë 12.9.2002
 
 Për ruajtjen dhe shoqërimin e personaliteteve të larta shtetërore
 
+(Ndryshuar me VKM nr. 310, datë 14.5.2004)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të ligjit nr.7602, datë 9.9.1992 “Për Gardën e Republikës së Shqipërisë”, me ndryshimet përkatëse, me propozimin e Ministrit të Rendit Publik, Këshilli i Ministrave
 
 V E N D O S I:
@@ -18,7 +22,7 @@ V E N D O S I:
 
 5. Presidentit të Republikës i ruhet banesa ose rezidenca ku ndodhet dhe i bëhet ruajtja e afërt fizike me shoqërues personal, edhe 4 vjet pas lirimit të tij nga funksioni, ndërsa Kryeministrit dhe Kryetarit të Kuvendit edhe 2 vjet pas lirimit nga funksioni.
 
-6. Zëvendëskryeministrit, Ministrit të Rendit Publik, Prokurorit të Përgjithshëm dhe Drejtorit të Shërbimit Informativ Shtetëror u bëhet ruajtja e afërt fizike me shoqërues personal, deri në 2 vjet pas lirimit nga funksioni.
+6. Shfuqizuar.
 
 7. Automjetet që përdoren për ruajtjen dhe shoqërimin e personaliteteve, të përcaktuara në pikat 5 dhe 6 të këtij vendimi, të vihen në dispozicion nga institucionet përkatëse, që ata kanë drejtuar.
 
