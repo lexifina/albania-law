@@ -1,1 +1,0 @@
-6. Në pikën 1, rreshti i dytë i vendimit nr.720, datë 29.11.1995, të Këshillit të Ministrave, “Për shpërblimin e punonjësve buxhetorë që aktivizohen në veprimtari të tjera dytësore” hiqen fjalët “ këshilla mbikëqyrës”.

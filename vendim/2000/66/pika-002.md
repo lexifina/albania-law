@@ -1,4 +1,0 @@
-2. Në përbërje të këshillave mbikëqyrës të shoqërive anonime duhet të jenë nëpunës të institucioneve shtetërore, qëndrore dhe vendore, kur legjislacioni nuk pengon pjesëmarrjen e tyre në funksione të tjera.
-Në këshillat mbikëqyrës mund të emërohen edhe punonjës të bankave, të institucioneve kërkimore e shkencore, të universiteteve, si dhe personat që gëzojnë autoritet në fusha të caktuara.
-Nuk mund të emërohen anëtar të këshillave mbikëqyrës, punonjës të organeve qendrore a vendore, që kryejnë funksione kontroll-revizioni, punonjës që janë emëruar në drejtoritë e shoqërive tregtare ose janë drejtorë të ndërmarrjeve shtetërore të patransformuara në shoqëri tregtare, persona që nuk janë në marrëdhënie pune me shtetin, përveç rasteve të përcaktuara në paragrafin e dytë të kësaj pike.
-Pjesëmarrja në këshillin mbikëqyrës do të bëhet sipas paragrafit të fundit të nenit 107, të ligjit “ Për shoqëritë tregtare”.
