@@ -1,0 +1,1 @@
+1. Punonjësit, që dalin të papunë nga procesi i ristrukturimit të “Albtelecom”, sh.a.- së, në periudhën nga data e hyrjes në fuqi e këtij vendimi deri në çastin e privatizimit të shoqërisë, përfitojnë kompensim, për një periudhë 2-vjeçare, në masën 100 për qind të pagës bazë të pozicionit (në punë), në çastin e largimit të tyre.

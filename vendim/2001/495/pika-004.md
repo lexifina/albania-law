@@ -1,0 +1,1 @@
+4. Të drejtën e kompensimit, në përputhje me këtë vendim, e përfitojnë ata punonjës të cilët nuk zhvillojnë veprimtari ekonomike në formën e punësimit apo të vetëpunësimit. Në rast të kundërt, u ndërpritet kompensimi që përfitojnë sipas këtij vendimi.
