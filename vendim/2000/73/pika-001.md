@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve, që preken nga ndërtimi i segmentit rrugor ”Tri Urat-Çarshovë”, të ndodhura në territorin e rrethit të Përmetit, sipas listave emërore përkatëse, të cilat i bashkëlidhen këtij vendimi:truall 121.5 m2 , tokë bujqësore 14661.3 m2 , objekt ndërtimi 158.5 m2 .
