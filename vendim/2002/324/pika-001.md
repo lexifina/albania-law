@@ -1,0 +1,1 @@
+1. Pagesën, nga Ministria e Punës dhe Çështjeve Sociale, të kontributeve të prapambetura, në shumën prej 9 000 000 (nëntë milionë) lekësh, që i ka vendi ynë Organizatës Ndërkombëtare të Migracionit (IOM), sipas Marrëveshjes të datës 2 tetor 1992, ndërmjet Qeverisë Shqiptare dhe kësaj organizate.
