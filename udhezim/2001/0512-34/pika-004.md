@@ -1,0 +1,1 @@
+4. KZQV-ja, listën e repartit, brenda datës 25.05.2001 ora 12.00, e dorëzon doras me proceverbal tek supervizori i KQZ-së në prefekturën përkatëse, i cili, në datën 26.5.2001, e dorëzon ne Drejtorinë e Regjistrit Kombëtar te Zgjedhësve.

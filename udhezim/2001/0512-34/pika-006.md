@@ -1,0 +1,2 @@
+6. Komandat e reparteve duhet t’i bëjnë të qartë dhe t’i krijojnë mundësi çdo zgjedhësi të përfshirë në këto lista, që, ditën e votimit, do të lejohen të votojnë, vetëm nëse do të paraqesin në komisionin e qendrës së votimit një nga këto dokumente: certifikatë lindjeje me fotografi, letër njoftimi, pasaportë për jashtë shtetit, kartën e votuesit, si dhe librezë ushtarake.
+Ditën e zgjedhjeve, në orën 7.30, komanda e repartit dorëzon në KQV edhe një listë të zgjedhësve ushtarë.
