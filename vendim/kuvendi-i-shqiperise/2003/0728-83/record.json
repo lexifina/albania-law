@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2207,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZONJËS ERMELINDA MEKSI NË DETYRËN E ZËVENDËSKRYEMINISTRIT DHE MINISTRIT TË INTEGRIMIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "83",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-07-28",
+  "published": "2003-08-08",
+  "in_force": "2003-08-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d36bffd6feff6f139adacdfccdf3ad19a2ca24e4d1db9916d2134797173571e8.docx",
+  "source_sha256": "d36bffd6feff6f139adacdfccdf3ad19a2ca24e4d1db9916d2134797173571e8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2207",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/07/28/83",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
