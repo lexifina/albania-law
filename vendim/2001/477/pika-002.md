@@ -1,0 +1,1 @@
+2. Ministria e Transportit, në mbështetje të projekteve dhe preventivave të miratuara për investimet që përfitojnë përjashtim nga taksat doganore të importit, të paraqesë në Drejtorinë e Përgjithshme të Doganave sasitë e karburantit që konsumon secila shoqëri në vit, të ndarë në tremujorë.
