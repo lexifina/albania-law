@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2611,
+  "title": "Për një shtesë në udhëzimin nr.2, datë  8.1.2003 “Për sistemin e taksave në republikën e shqipërisë”",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "2",
+  "institution": "Ministria e Financave",
+  "adopted": "2004-02-10",
+  "published": "2004-03-22",
+  "in_force": "2004-03-22",
+  "in_force_basis": "\"hyn në fuqi me botimin ne Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/242ef9bfeac0eb261ae81bad95d94da305ff1a6a2d23377eeb511784084920f5.docx",
+  "source_sha256": "242ef9bfeac0eb261ae81bad95d94da305ff1a6a2d23377eeb511784084920f5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2611",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2004/02/10/2",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
