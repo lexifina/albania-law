@@ -1,0 +1,1 @@
+1. Miratimin e vlerës minimale të shitjes së aksioneve të INSIG-sh.a. me të cilën Ministria e Financave do të fillojë negociatat me institucionet ndërkombëtare, sipas raportit të vlerësimit, që i bashkëlidhet këtij vendimi.
