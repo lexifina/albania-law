@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66235,
+  "title": "PËR CAKTIMIN E PËRBËRJES SË KOMISIONEVE TË PËRHERSHME TË KUVENDIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "168",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-01-31",
+  "published": "2005-03-07",
+  "in_force": "2005-03-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/172c133293d0bec93ec7d6b94affd9455a19c58079a84d002d4682b03aa80c04.docx",
+  "source_sha256": "172c133293d0bec93ec7d6b94affd9455a19c58079a84d002d4682b03aa80c04",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66235",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/01/31/168",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
