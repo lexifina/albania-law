@@ -1,0 +1,1 @@
+3. Ministrisë së Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2003, t’i shtohet fondi prej 21 500 000 (njëzet e një milionë e pesëqind mijë) lekësh për përballimin e shpenzimeve të klubit sportiv shumësportësh “Partizani” fond, i cili t’i pakësohet buxhetit të vitit 2003, miratuar për Ministrinë e Mbrojtjes.
