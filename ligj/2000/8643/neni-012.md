@@ -1,0 +1,6 @@
+# Neni 12
+Fitimi dhe ecuria për gradat në rolin e mesëm
+1. Në rolin e mesëm pranohen ata që kanë fituar titullin “specialist i lartë policie” pasi kanë kryer Akademinë e Policisë, ata që kanë kryer shkolla të tjera të njëvlefshme me Akademinë e Policisë, si dhe ata që kanë kryer shkolla të tjera të larta dhe kanë konkurruar e fituar kursin përkatës të kualifikimit, me kohëzgjatje jo më pak se 4 muaj për punonjës policie. Mund të pranohen, edhe personel nga roli bazë, kur kanë përfunduar Akademinë e Policisë dhe nuk janë titulluar “oficer” sipas ligjit nr.7504, datë 30.7.1991 “Për Policinë e Rendit”.
+2. Grada nëninspektor jepet menjëherë pas përfundimit të Akademisë së Policisë, ose pas përfundimit dhe ekuivalentimit për ata që kanë mbaruar shkolla të tjera të njëvlefshme me Akademinë e Policisë, si dhe të kursit të kualifikimit për ata që kanë kryer shkolla të tjera të larta.
+3. Gradimet e tjera brenda rolit bëhen sipas vjetërsisë, vlerësimit të përgjithshëm të punës “mirë”, pas shqyrtimit në komisionin përkatës të gradimeve.
+4. Për 10 për qind të vendeve të disponueshme të punës për çdo gradë mund të konkurrojnë, me përzgjedhje, sipas vlerësimit periodik të punës “shumë mirë” edhe personel nga radhët e punonjësve që kanë plotësuar jo më pak se dy të tretat e kohës së qëndrimit në atë gradë.
