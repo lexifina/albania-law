@@ -1,0 +1,1 @@
+1. Të mos i vlerësojë si pjesë të sektorëve me rëndësi të veçantë objektet e industrisë nxjerrëse të kromit, sipas tabelës nr.1, që i bashkëlidhet vendimit, dhe të mos lejojë që t’i nënshtrohet procesit të privatizimit ose të likuidimit.

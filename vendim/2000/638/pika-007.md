@@ -1,0 +1,1 @@
+7. Fondi prej 7 700 000 (shtatë milionë e shtatëqind mijë) lekësh për trajtimin e punonjësve që humbasin vendin e punës, të përballohet nga fondi buxhetor që do të miratohet për vitin 2001 për Ministrinë e Punës dhe Çështjeve Sociale.

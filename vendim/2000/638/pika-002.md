@@ -1,0 +1,1 @@
+2. Ministria e Ekonomisë Publike dhe Privatizimit, brenda muajit mars 2001, të fillojë procedurat e privatizimit dhe të hartojë projektet e mbylljes së këtyre minierave, ndërsa mbyllja e tyre të përfundojë brenda vitit 2001.
