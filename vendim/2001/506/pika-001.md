@@ -1,0 +1,1 @@
+1. Kanë të drejtë të regjistrohen për konkurrim në Akademinë e Policisë “Arben Zylyftari” kandidatët që plotësojnë kriteret e pranimit në Policinë e Shtetit, të përcaktuara në nenin 16 të ligjit nr. 8553, datë 25.11.1999 “Për Policinë e Shtetit”.
