@@ -1,0 +1,1 @@
+7. Treguesit e gjendjes së ujërave të ujitjes dhe atyre nëntokësore, që analizohen janë: pH; konduktiviteti elektrik; Na; K; Ca; Mg; karbonatet dhe bikarbonatet; Cl; sulfatet dhe fosfatet; azoti nitrik dhe amoniakal; mbetja e thatë; SAR, si dhe elementet ndotëse të metaleve të rënda si: Cu; Cd; Mn; Zn; Fe; Co; Ni; Cr; V; B; Pb.

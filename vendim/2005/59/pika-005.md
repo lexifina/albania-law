@@ -1,0 +1,1 @@
+5. Shpenzimet e analizave të detyrueshme, të zakonshme, të tokës bujqësore mbulohen nga pronari ose poseduesi i ligjshëm i tokës bujqësore, sipas tarifave, që miratohen me urdhër të Ministrit të Bujqësisë dhe të Ushqimit.

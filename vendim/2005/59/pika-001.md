@@ -1,0 +1,2 @@
+1. Analiza të detyrueshme, të zakonshme janë:
+Analizat që kryhen në mënyrë periodike, me afate kohore të përcaktuara nëpërmjet të cilave pronarët dhe poseduesit e ligjshëm të tokës bujqësore marrin të dhëna të sakta për gjendjen dhe nivelin e pjellorisë së tokës bujqësore, në bazë të së cilave zbatojnë masa të përshtatshme agro-teknologjike për rritjen e rendimentit nga bimët bujqësore të kultivuara.

@@ -1,0 +1,1 @@
+6. Detyrimi për kryerjen e analizave për gjendjen e ujërave të ujitjes dhe atyre nëntokësore, përcaktohet në bazë të studimit dhe rekomandimeve të Institutit të Studimit të Tokave (IST), në të cilat përcaktohen zonat bujqësore dhe burimet e ujit, që i nënshtrohen analizës.
