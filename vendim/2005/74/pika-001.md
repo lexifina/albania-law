@@ -1,0 +1,1 @@
+1. Dhënien në përdorim, pa shpërblim, për 10 vjet, të një mjedisi të “Alba Film Studio”, Tiranë, me sipërfaqe 200 m2, në godinën e repartit të zërit, shoqërisë “Orafilm” sh.p.k., Tiranë, për ngritjen dhe funksionimin e shkollës së lartë jopublike “Marubi”, për filmin dhe multimedian.
