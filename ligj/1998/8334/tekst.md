@@ -4,7 +4,7 @@ Nr.8334, datë 23.4.1998
 
 PËR PRIVATIZIMIN E SHOQËRIVE TREGTARE QË VEPROJNË NË SEKTORËT JOSTRATEGJIK
 
-(Ndryshuar me Aktin Normativ nr. 4, datë 4.4 2002)
+(Ndryshuar me Aktin Normativ nr. 4, datë 4.4 2002; nr. 8886, datë 22.4.2002)
 
 (I përditësuar)
 
