@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1303,
+  "title": "Për tatimin mbi të ardhurat",
+  "type": "Udhëzim",
+  "kind": "Akt shfuqizues",
+  "number": "3",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-02-11",
+  "published": "2002-04-16",
+  "in_force": "2002-04-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5f1d68c6a64ef3088eeec97be38de41cd63ff14651035455ee9eebe1a7a8d04d.docx",
+  "source_sha256": "5f1d68c6a64ef3088eeec97be38de41cd63ff14651035455ee9eebe1a7a8d04d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1303",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2002/02/11/3",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
