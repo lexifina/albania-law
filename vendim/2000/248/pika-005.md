@@ -1,0 +1,1 @@
+5. Bashkia Poliçan e rrethit Skrapar, Komuna Tërpan e rrethit Berat, Komuna Gracen e rrethit Elbasan, Komuna Shtiqën e rrethit Kukës dhe Komuna Baz e rrethit Mat, të ndalojnë kryerjen e ndërtimeve të reja në trojet përkatëse të përcaktuara si të rrëshqitshme.

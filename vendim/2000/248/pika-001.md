@@ -1,0 +1,1 @@
+1. T’i akordojë fondin prej 31 114 776 lekë, organeve vendore të pasqyruara në kollonën A të shtojcës nr.1 (bashkëlidhur këtij vendimi), si fond shtesë në buxhetet e tyre të vitit 2000. fondet do t’i jepen si ndihmë familjeve të pasqyruara në kollonën B të shtojcës në fjalë, sipas destinacioneve të përcaktuara në kollonat C, D dhe E.

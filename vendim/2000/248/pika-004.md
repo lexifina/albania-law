@@ -1,0 +1,1 @@
+4. Enti Kombëtar i Banesave të marrë në dorëzim nga çdo familje apartamentet përkatëse dhe të gjithë ndërtesën-pallatin nr.3. Më pas të bëjë studimin për mundësinë e rehabilitimit të godinës dhe të ndjekë procedurat për administrimin dhe shpërndarjen e apartamenteve sipas procedurave ligjore.

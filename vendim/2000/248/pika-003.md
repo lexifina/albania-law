@@ -1,0 +1,1 @@
+3. Fondet e ndihmës për familjet e dëmtuara në bashkinë Poliçan do të akordohen nga bashkia, pasi familjet të dorëzojnë apartamentet e dëmtuara në Entin Kombëtar të Banesave nëpërmjet paraqitjes së dokumentave përkatëse, të cilat vërtetojnë heqjen dorë nga pronësia mbi këto banesa.
