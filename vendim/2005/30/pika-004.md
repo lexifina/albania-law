@@ -1,0 +1,1 @@
+4. Fondet që nevojiten për ruajtjen e objekteve të fabrikës së pasurimit të bakrit, deri në likuidimin e saj, si dhe fondet e nevojshme për konservimin e fabrikës së rafinimit në uzinën e bakrit, Rubik, të përballohen nga fondet buxhetore të “Albbakër” sh.a.-së për vitin 2005.

@@ -1,0 +1,1 @@
+2. Fabrika e pasurimit të bakrit, Mjedë, Shkodër, t’i nënshtrohet procesit të mbylljes dhe të likuidimit, ndërsa fabrika e rafinimit në uzinën e bakrit, Rubik, të konservohet për një periudhë 1 (një) vjeçare, duke filluar nga data e hyrjes në fuqi të këtij vendimi.

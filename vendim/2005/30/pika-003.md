@@ -1,0 +1,1 @@
+3. Ministria e Industrisë dhe e Energjetikës dhe Ministria e Ekonomisë, brenda vitit 2005, të përgatisin dokumentacionin e nevojshëm për mbylljen dhe likuidimin e fabrikës së pasurimit të bakrit, Mjedë, Shkodër.
