@@ -1,0 +1,8 @@
+# Neni 16
+Marrëveshja me personin e mbrojtur
+1. Në një kohë sa më të shkurtër dhe në çdo rast jo më vonë se 15 ditë nga miratimi i masave të posaçme të mbrojtjes, Drejtoria e Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë përgatit marrëveshjen për zbatimin e masave të posaçme të mbrojtjes dhe merr masa për bisedimin dhe nënshkrimin e saj me dëshmitarin, bashkëpunëtorin e drejtësisë dhe persona të tjerë të mbrojtur.
+2. Në rastet që çmohet prej tij, prokurori merr pjesë në përgatitjen dhe bisedimin e kushteve të marrëveshjes së posaçme për zbatimin e masave të posaçme të mbrojtjes.
+3. Në çdo rast, prokurori vihet në dijeni dhe jep pëlqimin e tij përpara se marrëveshja të nënshkruhet nga Drejtoria e Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë dhe personi i mbrojtur.
+4. Përgjegjësitë, të drejtat, detyrimet dhe efektet e masave të posaçme të mbrojtjes për Drejtorinë e Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë dhe personin e mbrojtur fillojnë në kohën dhe mënyrën e parashikuar në marrëveshje.
+5. Në rastin kur personi i mbrojtur është i mitur, duke respektuar në çdo rast parimet e interesit më të lartë të tij dhe ato të zotësisë për të vepruar, të parashikuara në dispozitat përkatëse ligjore, dhënia e pëlqimit dhe nënshkrimi i marrëveshjes së mbrojtjes bëhen nga prindi ose kujdestari i tyre, i caktuar sipas ligjit.
+6. Në rastin kur personi i mbrojtur është madhor, të cilit, për shkak sëmundjeje psikike ose zhvillimi të metë mendor, i është hequr tërësisht ose pjesërisht zotësia për të vepruar, dhënia e pëlqimit dhe nënshkrimi i marrëveshjes së mbrojtjes bëhen nga kujdestari i tyre, i caktuar sipas ligjit.
