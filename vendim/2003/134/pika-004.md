@@ -1,0 +1,1 @@
+4. Dokumentet e autoriteteve të huaja, që do të përdoren brenda vendit, legalizohen në përfaqësitë e Republikës së Shqipërisë jashtë vendit, ndërsa dokumentet e legalizuara nga përfaqësitë e akredituara në Tiranë, legalizohen në Ministrinë e Punëve të Jashtme.

@@ -1,0 +1,1 @@
+7. Titullarët e institucioneve qendrore, të institucioneve të pavarura dhe prefektët, brenda 15 ditëve nga hyrja në fuqi e këtij vendimi, dërgojnë pranë Ministrisë së Punëve të Jashtme emrat e personave të ngarkuar, për vërtetimin dhe lëshimin e dokumenteve, si dhe depozitojnë specimenet e nënshkrimeve të tyre dhe gjurmët e vulave zyrtare.

@@ -1,0 +1,1 @@
+6. Modeli i vërtetimit dhe legalizimit të dokumentit është sipas lidhjeve nr.1 dhe nr.2, që i bashkëlidhen këtij vendimi. Ndryshimet e modeleve bëhen nga Ministri i Punëve të Jashtme, i cili njofton menjëherë institucionet qendrore, institucionet e pavarura dhe prefektët.

@@ -1,0 +1,1 @@
+8. Në rast largimi të personave të përcaktuar sipas pikës së mësipërme, titullarët e institucioneve qendrore, të institucioneve të pavarura dhe prefektët njoftojnë menjëherë Ministrinë e Punëve të Jashtme dhe depozitojnë pranë saj nënshkrimet e personave zëvendësues.

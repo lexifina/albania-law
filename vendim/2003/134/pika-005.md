@@ -1,0 +1,1 @@
+5. Në vendet ku Republika e Shqipërisë nuk ka përfaqësi të akredituar, legalizimi i dokumenteve të huaja, të legalizuara më parë nga Ministria e Jashtme e vendit të origjinës, kryhet në Ministrinë e Punëve të Jashtme.

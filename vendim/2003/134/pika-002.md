@@ -1,0 +1,1 @@
+2. Dokumentet e vërtetuara sipas pikës 1 të këtij vendimi, të lëshuara nga institucionet qendrore, institucionet e pavarura dhe prefektët, legalizohen nga nëpunësit konsullorë, në Ministrinë e Punëve të Jashtme dhe në përfaqësitë e Republikës së Shqipërisë jashtë vendit.
