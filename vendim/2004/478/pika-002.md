@@ -3,3 +3,4 @@ a) Kuota kryesore
 12 694;
 b) Kuota për shqiptarët nga trojet jashtë kufijve shtetërorë
 392.
+c) Kuota dytësore 337.

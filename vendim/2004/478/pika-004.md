@@ -1,1 +1,2 @@
 4. Kandidatët shqiptarë nga trojet jashtë kufijve shtetërorë të vendit: Kosovë, Maqedoni, Mal i Zi, Preshevë, Bujanovc dhe Medvegjë, konkurrojnë ndërmjet tyre për kuotat e pranimit, të përcaktuara sipas degëve, të paraqitura në tabelën nr.2, që i bashkëlidhet këtij vendimi. Këto kuota përfshihen në numrin e kuotave të pranimeve të reja.
+4/1 Kuotat dytësore, për vitin akademik 2004-2005, të ndahen sipas tabelës nr.3, që i bashkëlidhet këtij vendimi.
