@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1338,
+  "title": "Për një ndryshim në vendimin nr. 25, datë 15.4.2002 “Për krijimin e Komisionit të Posaçëm për shqyrtimin e projektligjeve të paraqitura në Kuvend për problemet e pronave”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "29",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-04-25",
+  "published": "2002-05-15",
+  "in_force": "2002-05-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/836b7ee227befa123774059b7b3833377bd94c0c53f336962c13100a337136c2.docx",
+  "source_sha256": "836b7ee227befa123774059b7b3833377bd94c0c53f336962c13100a337136c2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1338",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/04/25/29",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
