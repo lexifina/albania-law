@@ -1,0 +1,26 @@
+{
+  "qbz_id": 208,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.475, DATË 14.10.1999, TË KËSHILLIT TË MINISTRAVE, “PËR NJË NDRYSHIM NË VENDIMIN E KËSHILLIT TË MINISTRAVE NR.473, DATË 29.9.1993, “PËR TË DREJTAT E PUNONJËSVE TË PËRFAQËSIVE DIPLOMATIKE TË REPUBLIKËS SË SHQIPËRISË NË SHTETET E HUAJA DHE PËR SHPENZIMET E UDHËTIMIT DHE TË DIETËS PËR PERSONAT QË DALIN JASHTË SHTETIT””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "291",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-06-02",
+  "published": "2000-06-29",
+  "in_force": "2000-06-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ae1a498d71221aa9b8de44b81cb6cb9cbd8c5638fbc49576e72ca7e3a4439651.docx",
+  "source_sha256": "ae1a498d71221aa9b8de44b81cb6cb9cbd8c5638fbc49576e72ca7e3a4439651",
+  "official_record": "https://qbz.gov.al/api/v1/acts/208",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/06/02/291",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
