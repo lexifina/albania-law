@@ -1,1 +1,1 @@
-3. Brenda 6 muajve nga hyrja në fuqi e këtij vendimi, të përfundojnë procedurat e kalimit të përgjegjësive nga KMCAP në KMPV. Ngarkohet drejtori i Administratës së Përgjithshme të Ndihmës dhe të Shërbimeve Sociale të normojë dhe të kontrollojë procesin e kalimit të këtyre përgjegjesive.
+3. Brenda 6 muajve nga hyrja në fuqi e këtij vendimi, të përfundojnë procedurat e kalimit të përgjegjësive nga KMCAP në KMPV. Ngarkohet drejtori i Shërbimit Social Shtetëror të normojë dhe të kontrollojë procesin e kalimit të këtyre përgjegjesive.
