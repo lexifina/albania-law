@@ -1,0 +1,3 @@
+# Neni 17
+Kryerja e funksioneve konsullore
+Misioni diplomatik kryen edhe funksione konsullore në shtetin pritës. Nëse ka poste konsullore të Republikës së Shqipërisë në të njëjtin shtet, misioni kryen funksione konsullore në atë pjesë të territorit që nuk përfshihet në juridiksionin e postit konsullor. Funksionet konsullore ushtrohen nga një diplomat i misionit diplomatik, i ngarkuar për veprimtarinë konsullore, me miratimin e Ministrit të Punëve të Jashtme, në përputhje me ligjin nr.8372, datë 9.7.1998 ”Për ushtrimin e funksioneve konsullore nga përfaqësitë diplomatike ose konsullore” dhe aktet e tjera nënligjore.
