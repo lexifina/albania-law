@@ -1,0 +1,1 @@
+2. Ngarkohet komisioni i tokës së qarkut të Kukësit të ngrejë komisionin e përbashkët të tokës, me përfaqësues të bashkisë së Kukësit dhe të fshatit Shtiqën, të komunës Shtiqën, për plotësimin e këtij dokumentacioni për familjet me tokë në këtë fshat dhe me banim në fshatin Kënetë.

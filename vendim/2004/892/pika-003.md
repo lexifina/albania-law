@@ -1,0 +1,1 @@
+3. Ngarkohen komisioni i tokës së qarkut të Kukësit dhe komisionet e tokës të komunave Shtiqën dhe Bicaj të verifikojnë dhe të miratojnë dokumentacionin e pronësisë mbi tokën, të plotësuar nga komisionet përkatëse, sipas pikave 1 e 2 të këtij vendimi.

@@ -1,0 +1,1 @@
+4. Komisionit të tokës së qarkut të Kukësit t’i jepet fondi prej 1 000 000 (një milion) lekësh, për shpërblimin e komisionerëve të qarkut, të komunave, të bashkisë e të fshatrave, si dhe të specialistëve, të angazhuar në përditësimin e dokumentacionit dhe të sipërfaqeve të tokës.
