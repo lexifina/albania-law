@@ -1,0 +1,2 @@
+# Neni 7
+Ministria e Rregullimit të Territorit dhe e Turizmit do të nisë automjetet për transportimin e kufomës apo eshtrave vetëm pas kërkesës zyrtare nga zyra konsullore pranë Ministrisë së Punëve të Jashtme, e cila duhet të sqarojë në kërkesën e bërë gjeneralitetet dhe vendndodhjen e saktë të të ndjerit, shlyerjen e detyrimeve përkatëse nga familjarët, përfundimin e procedurave që lejojnë transportin në Shqipëri.
