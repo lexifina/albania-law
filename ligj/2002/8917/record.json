@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1514,
+  "title": "Për disa ndryshime në ligjin nr. 8435, datë 28.12.1998 “Për sistemin e taksave në Republikën e Shqipërisë”, ndryshuar me ligjet nr. 8508, datë 7.7.1999, nr. 8519, datë 30.7.1999, nr. 8552, datë 18.11.1999, nr. 8581, datë 17.2.2000, nr. 8651, datë 28.7.2000, nr.8713, datë 15.12.2000, nr. 8840, datë 11.12.2001 dhe nr. 8858, datë 14.2.2002",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8917",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-07-04",
+  "published": "2002-07-16",
+  "in_force": "2002-07-31",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/98756cfc3d55f557ffa66a3ab1bb944ceaef8a173934284b900505b6d008f3fb.docx",
+  "source_sha256": "98756cfc3d55f557ffa66a3ab1bb944ceaef8a173934284b900505b6d008f3fb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1514",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/07/04/8917",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
