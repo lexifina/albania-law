@@ -1,0 +1,1 @@
+1. Bashkisë së Elbasanit, në buxhetin e miratuar për vitin 2004, t’i transferohet fondi prej 648 350 (gjashtëqind e dyzet e tetë mijë e treqind e pesëdhjetë) lekësh, për mbulimin, për 6-mujorin e dytë të këtij viti, e shpenzimeve administrative të qendrës sociale “Balashe”, Elbasan.
