@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI I BUJQËSISË DHE i USHQIMIT MINISTRI I SHËNDETËSISË
+Agron Duka Mustafa Xhani
