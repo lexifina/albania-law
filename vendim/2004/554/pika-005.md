@@ -1,0 +1,1 @@
+5. Gradat ushtarake, për ushtarakët që shërbejnë në Forcat Detare dhe repartet në varësi të tyre, njësohen me funksionet organike, të përcaktuara në lidhjet nr.4 dhe nr.4/1, që i bashkëlidhen këtij vendimi.

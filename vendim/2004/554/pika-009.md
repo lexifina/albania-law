@@ -1,0 +1,1 @@
+9. Njësimi i gradave ushtarake me funksionet organike, në të gjitha nivelet e hierarkisë së komandimit e të drejtimit të Forcave të Armatosura të Republikës së Shqipërisë, të përfundojë brenda vitit 2004

@@ -1,0 +1,1 @@
+3. Gradat ushtarake për ushtarakët që shërbejnë në repartet dhe institucionet e pavarura, në varësi të Shtabit të Përgjithshëm të Forcave të Armatosura, njësohen me funksionet organike, të përcaktuara në lidhjet nr.2 dhe 2/1, që i bashkëlidhen këtij vendimi.

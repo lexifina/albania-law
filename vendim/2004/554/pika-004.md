@@ -1,0 +1,1 @@
+4. Gradat ushtarake, për ushtarakët që shërbejnë në forcat tokësore dhe repartet në varësi të tyre, njësohen me funksionet organike, të përcaktuara në lidhjet nr.3 dhe nr.3/1, që i bashkëlidhen këtij vendimi.

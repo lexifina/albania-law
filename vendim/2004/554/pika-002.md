@@ -1,0 +1,1 @@
+2. Gradat ushtarake për ushtarakët që shërbejnë në Ministrinë e Mbrojtjes, Shtabin e Përgjithshëm, Shërbimin Informativ Ushtarak, përfaqësinë ushtarake me mision në NATO dhe strukturat jashtë Forcave të Armatosura, njësohen me funksionet organike, të përcaktuara në lidhjet nr.1 dhe nr.1/1, që i bashkëlidhen këtij vendimi.
