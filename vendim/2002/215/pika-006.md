@@ -1,1 +1,1 @@
-6. Kriteret për përzgjedhjen e negociatorëve, përfaqësues të ministrive dhe institucioneve të tjera qendrore, kompetencat e grupit negociator, mënyra e funksionimit të tij dhe marrëdhëniet me të tretët përcaktohen me urdhër të Kryeministrit, me propozimin e Ministrit të Shtetit për Integrimin.
+6. Anëtarët e grupit negociator t’i paraqesin drejtuesit të institucionit përkatës nevojat për burime, njerëzore dhe logjistike, për ndjekjen dhe plotësimin detyrave, të ngarkuara në kuadër të integrimit europian.
