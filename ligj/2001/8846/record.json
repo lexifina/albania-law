@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1219,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.8560, DATË 22.12.1999 \"PËR PROCEDURAT TATIMORE NË REPUBLIKËN E SHQIPËRISË\", NDRYSHUAR ME LIGJIN NR.8710, DATË 15.12.2000",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8846",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-12-11",
+  "published": "2001-12-26",
+  "in_force": "2002-01-10",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/df5548f3fc81b3311e9750a85ea1921117925e079ead1e0fbbad198e3e4e8894.docx",
+  "source_sha256": "df5548f3fc81b3311e9750a85ea1921117925e079ead1e0fbbad198e3e4e8894",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1219",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/12/11/8846",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
