@@ -1,0 +1,1 @@
+7. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondi që derdh, çdo vit, për këtë qëllim, Ministria e Mbrojtjes në buxhetin e Institutit të Sigurimeve të Kujdesit Shëndetësor.

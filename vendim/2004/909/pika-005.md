@@ -1,0 +1,1 @@
+5. Ministria e Mbrojtjes, nga buxheti i vet, derdh kontribute tek Instituti i Sigurimeve të Kujdesit Shëndetësor, për mbulimin e diferencës ndërmjet masës së mbulimit të çmimit të barnave, të përcaktuar në këtë vendim dhe masës së mbulimit të çmimit të alternativave, sipas listës së barnave, që rimbursohen nga Instituti i Sigurimeve të Kujdesit Shëndetësor.

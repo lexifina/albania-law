@@ -1,0 +1,1 @@
+2. Nëse për një grup barnash të caktuara ekziston një masë mbulimi më e madhe se 80 për qind, rimbursimi për kategoritë e parashikuara në pikën 1, të bëhet sipas listës së barnave, që rimbursohen nga Instituti i Sigurimeve të Kujdesit Shëndetësor, referuar alternativës së parë të barit.

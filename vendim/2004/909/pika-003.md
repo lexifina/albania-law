@@ -1,0 +1,1 @@
+3. Ushtarakëve, që dëmtohen gjatë operacioneve ushtarake ndërkombëtare, iu rimbursohen barnat në masën 100 për qind, deri në riaftësimin e tyre, sipas vërtetimit të institucionit shëndetësor, që ka kryer trajtimin e ushtarakut.
