@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të sistemit të prodhimit, transmetimit dhe shpërndarjes së energjisë elektrike, të cilat i kalojnë në përgjegjësi administrimi KESH sh.a.-së. Lista përbëhet nga 1352 (një mijë e treqind e pesëdhjetë e dy) fletë, që i bashkëlidhet këtij vendimi.
