@@ -1,0 +1,3 @@
+1. Lejimin e institucioneve buxhetore, që, për fondet limit të miratuara në buxhetin e vitit 2004, të paprokuruara, për të cilat nuk është shpallur fituesi deri në çastin e hyrjes në fuqi të këtij vendimi, të përdorin procedurën “Prokurim i drejtpërdrejtë”, me shoqërinë “ARMO” sh.a. Fier, për blerje gazoili, STASH 31:1997(D-2), të ndarë sipas loteve dhe çmimeve si më poshtë vijon:
+- Gazoil STASH 31:1997 (D-2) për furnizimin e automjeteve me tolona, me çmimin 68 (gjashtëdhjetë e tetë) lekë/litër.
+- Gazoil STASH 31:1997 (D-2) për furnizimin e automjeteve me autobote, me çmimin 64 (gjashtëdhjetë e katër) lekë/litër.
