@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1306,
+  "title": "Për disa ndryshime në ligjin nr.8379, datë 29.7.1998 “Për hartimin dhe zbatimin e Buxhetit të Shtetit të Republikës së Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8871",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-03-29",
+  "published": "2002-04-18",
+  "in_force": "2002-05-03",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3d5ebea59cebeda5ba48e580aa015599371a260ab2fa705736d35aa2fc239b7a.docx",
+  "source_sha256": "3d5ebea59cebeda5ba48e580aa015599371a260ab2fa705736d35aa2fc239b7a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1306",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/03/29/8871",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
