@@ -1,1 +1,1 @@
-1. Kishës Ortodokse Autoqefale të Shqipërisë t’i shitet trualli me sipërfaqe prej 966 m2 në qytetin e Tiranës, në pjesën lindore të pronës së kësaj kishe, sipas gentplanit që i bashkëlidhet këtij vendimi.
+1. Kishës Ortodokse Autoqefale të Shqipërisë i shitet trualli me sipërfaqe prej 1079 m2, në pjesën lindore të pronës së kësaj kishe, në qytetin e Tiranës, sipas genplanit, që i bashkëlidhet këtij vendimi.
