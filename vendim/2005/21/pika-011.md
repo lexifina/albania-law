@@ -1,0 +1,1 @@
+11. Shtesa për kualifikim (kolona 3) është 0 (zero).

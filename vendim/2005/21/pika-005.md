@@ -1,0 +1,1 @@
+5. Organika e komisioneve vendore për kthimin dhe kompensimin e pronave në qarqet Durrës, Korçë, Vlorë, Fier, Lezhë dhe Shkodër është sipas skemës 2/2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

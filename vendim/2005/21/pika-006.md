@@ -1,0 +1,1 @@
+6. Organika e komisioneve vendore për kthimin dhe kompensimin e pronave në qarqet Berat, Dibër, Elbasan, Gjirokastër dhe Kukës është sipas skemës 2/3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

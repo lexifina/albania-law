@@ -1,0 +1,1 @@
+8. Strukturat dhe nivelet e pagave për nëpunësit e Komitetit Shtetëror për Kthimin dhe Kompensimin e Pronave dhe të komisioneve vendore është sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
