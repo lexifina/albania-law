@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2103,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.54, DATË 27.2.1992 TË KËSHILLIT TË MINISTRAVE “PËR SISTEMIN E PAGAVE TË MINISTRISË SË RENDIT PUBLIK DHE USHTARAKËVE TË MINISTRISË SË DREJTËSISË”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "405",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2003-06-19",
+  "published": "2003-07-04",
+  "in_force": "2003-07-04",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f95824122b9348803929d97a1d9f3dfeac76cb12a37d5c893899098415d1aac5.docx",
+  "source_sha256": "f95824122b9348803929d97a1d9f3dfeac76cb12a37d5c893899098415d1aac5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2103",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/06/19/405",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
