@@ -1,0 +1,26 @@
+{
+  "qbz_id": 25,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 393, DATË 3.9.1992, TË KËSHILLIT TË MINISTRAVE, “PËR PAGAT E PUNONJËSVE TË INSTITUCIONEVE BUXHETORE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "24",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-01-21",
+  "published": "2000-03-17",
+  "in_force": "2000-03-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b2b61b04302972c445ada9863d070749bf4c76a4fab81b828e60589c7a176856.docx",
+  "source_sha256": "b2b61b04302972c445ada9863d070749bf4c76a4fab81b828e60589c7a176856",
+  "official_record": "https://qbz.gov.al/api/v1/acts/25",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/01/21/24",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
