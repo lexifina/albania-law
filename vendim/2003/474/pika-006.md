@@ -1,0 +1,1 @@
+6. Ngarkohen administratat e të gjitha organeve dhe të institucioneve shtetërore dhe subjektet e licencuara për prodhimin e vulave ose të botimeve, që i përmbajnë këto vula, për zbatimin e këtij vendimi.

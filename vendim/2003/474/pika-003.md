@@ -1,0 +1,4 @@
+3. Përshkrimi gjeometrik i vulave, ku përdoret stema e Republikës nga institucionet shtetërore, është si më poshtë vijon:
+a) Diametri i vulës së njomë, të thatë ose prej dylli është standard 40 mm. Përjashtim bëjnë vulat e sekretarive të institucioneve qendrore, që mund të jenë me diametër më të vogël dhe vulat e thata të noterëve, që, për arsye teknike, janë më të mëdha nga standardi i mësipërm.
+b) Stema e Republikës vihet kurdoherë në qendër të vulës, me përmasa të ndryshueshme, në varësi të të dhënave që përmban vula.
+c) Në rrethin e jashtëm, në krye të vulës shënohen fjalët “Republika e Shqipërisë” dhe më pas vijon renditja administrative hierarkike, deri tek institucioni në fjalë dhe vendndodhja e selisë së tij. Shkronjat e vulës janë kapitale, me madhësi të ndryshueshme, por kurdoherë të dukshme, siç janë paraqitur në figurën 3 të shtojcës.
