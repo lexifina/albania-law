@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122984,
+  "title": "PËR KINEMATOGRAFINË",
+  "type": "Ligj",
+  "number": "8096",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1996-03-21",
+  "version_no": 1,
+  "qbz_version_id": 10709,
+  "in_force": "2005-03-03",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2005-03-03",
+  "changed_by_qbz_id": 20116,
+  "changed_by_number": "9353",
+  "changed_by_title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.8096, DATË 21.3.1996 \"PËR KINEMATOGRAFINË\"",
+  "source": "https://qbz.gov.al/files/8272b2e121f978c57d13f4ee828b54fc544ec648af5f69528d62c06e0e6c78c3.docx",
+  "source_sha256": "8272b2e121f978c57d13f4ee828b54fc544ec648af5f69528d62c06e0e6c78c3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122984",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122984/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
