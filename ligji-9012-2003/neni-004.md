@@ -1,0 +1,2 @@
+# Neni 4
+Qeveria e Republikës së Shqipërisë i lejon pasagjerët dhe furnizuesit të zgjedhin lirisht ndërmarrjet transportuese për transportimin e personave dhe mallrave në rrugë detare, tokësore dhe ajrore që rezulton nga dhënia e huasë, nuk merr asnjë masë, e cila përjashton ose vështirëson pjesëmarrjen me të drejta të barabarta të ndërmarrjeve transportuese me qendër në Republikën Federale të Gjermanisë dhe nxjerr në rastet e duhura lejet e nevojshme për pjesëmarrjen e këtyre ndërmarrjeve transportuese.
