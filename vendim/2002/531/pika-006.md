@@ -1,0 +1,2 @@
+6. Ngarkohet Zyra e Administrimit dhe e Koordinimit e qytetit antik të Butrintit, Sarandë, nën juridiksionin e Ministrisë së Kulturës, Rinisë dhe Sporteve, që, në bashkëpunim me Drejtorinë e Përgjithshme të Pyjeve dhe të Kullotave dhe Drejtorinë e Peshkimit, të realizojë menaxhimin e zonës dhe të kontrollojë zbatimin e planit menaxhues, në përputhje me ligjin nr. 8906, datë 6.6.2002 “Për zonat e mbrojtura”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+5. Ngarkohet Ministria e Mjedisit, që, në bashkëpunim me Ministrinë e Bujqësisë e të Ushqimit, Ministrinë e Kulturës, Rinisë e Sporteve, me organet e pushtetit vendor dhe me organizatat jofitimprurëse, të hartojë planin e menaxhimit të zonës.

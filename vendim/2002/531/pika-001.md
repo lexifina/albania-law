@@ -1,0 +1,1 @@
+1. Territori natyror i kompleksit ligatinor të Butrintit (Liqeni i Butrintit, Parku Kombëtar i Butrintit, Kepi i Stillos, ishujt e Ksamilit) shpallet zonë natyrore, veçanërisht e mbrojtur, për t’u përfshirë në listën e Konventës “Për ligatinat me rëndësi ndërkombëtare, veçanërisht si habitate të shpendëve ujorë”.
