@@ -1,0 +1,1 @@
+1. Lejimin e institucioneve buxhetore, që, për fondet limit, të miratuara në Buxhetin e Shtetit të vitit 2002, të përdorin procedurën ”Prokurim i drejtpërdrejtë” me Institutin e Sigurimeve sh.a. (INSIG) për sigurimin e detyrueshëm të mjeteve të tyre motorike për përgjegjësitë ndaj palëve të treta.
