@@ -1,0 +1,1 @@
+4. Drejtoria, e cila mbulon veprimtarinë turistike në Ministrinë e Rregullimit të Territorit dhe Turizmit, të përditësojë rregullisht listat e mësipërme dhe, çdo 3 muaj, t’ia dërgojë ato, me sqarimet e nevojshme, Drejtorisë së Përgjithshme të Tatim-Taksave.

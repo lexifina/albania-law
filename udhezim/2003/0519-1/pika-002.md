@@ -1,0 +1,1 @@
+2. Subjektet e lartpërmendura, të palicencuara, por të regjistruara në organet tatimore përpara hyrjes në fuqi të këtij udhëzimi, janë të detyruara të paraqesin në Ministrinë e Rregullimit të Territorit dhe Turizmit kërkesën e tyre për pajisje me licencë, brenda 90 ditëve nga data e hyrjes në fuqi të këtij udhëzimi.
