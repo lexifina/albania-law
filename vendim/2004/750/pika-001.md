@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rrugëve që, për fondin prej 31 000 000 (tridhjetë e një milion) lekësh, të përdorë procedurën “Prokurim i drejtpërdrejtë”, me shoqërinë ndërtuese “EUROSTAR”, për kryerjen e punimeve të rikonstruksionit të urës së Rrjollit në Shkodër.
