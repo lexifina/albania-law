@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën, që i bashkëlidhet këtij vendimi, për sipërfaqen prej 1683.64 m2 tokë bujqësore, kategoria e gjashtë, vlerësuar në shumën e përgjithshme prej 1 010 184 (një milion e dhjetë mijë e njëqind e tetëdhjetë e katër lekësh).

@@ -1,0 +1,1 @@
+5. Fondi prej 1 010 184 (një milion e dhjetë mijë e njëqind e tetëdhjetë e katër) lekësh, për kompensimin e pronarëve të shpronësuar, të përballohet nga buxheti i vitit 2002, zëri “Kosto lokale”, miratuar për projektin TTFSE, Albania nga Ministria e Financave.
