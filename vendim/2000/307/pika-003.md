@@ -1,0 +1,1 @@
+3. Vlerësimi i ndërmarrjeve të bëhet sipas vendimit nr.192, datë 20.3.1998, të Këshillit të Ministrave“Për kriteret e vlerësimit të pronës shtetërore që privatizohet dhe procedurat e shitjes” dhe trajtimi i detyrimeve, debitore dhe kreditore, të bëhet sipas kapitullit II, të po këtij vendimi.
