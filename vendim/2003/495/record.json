@@ -1,0 +1,31 @@
+{
+  "qbz_id": 60551,
+  "title": "PËR PËRCAKTIMIN E KUSHTEVE TË PERSONAVE DHE SASISË SË NEVOJSHME TË KARBURANTIT PËR PËRDORIM NGA ANIJET E PESHKIMIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "495",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2003-07-18",
+  "published": "2003-07-31",
+  "in_force": "2003-07-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/acda83c7d79e002284f7ff4e17f57b2cdf00764420abbd530db60e024174bc9c.docx",
+  "source_sha256": "acda83c7d79e002284f7ff4e17f57b2cdf00764420abbd530db60e024174bc9c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60551",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/07/18/495",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    19022,
+    56084,
+    3524,
+    2549
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
