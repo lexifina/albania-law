@@ -1,0 +1,1 @@
+11. Në vendimin nr.726, datë 21.12.2000 të Këshillit të Ministrave ”Për pagat e punonjësve të institucioneve buxhetore”, në lidhjen II-25 ”Niveli i pagave të punonjësve të RISHM-it” të bëhen ndryshimet sipas pasqyrës nr.2, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+9. Ndaj masave të marra nga inspektorët bëhet ankim me shkrim në komisionin e shqyrtimit të gjobave të RISHM-it, brenda 5 ditëve nga data e mbajtjes së procesverbalit. Vendimi i këtij të fundit duhet të jepet brenda një afati 10 ditor nga data e mbërritjes së ankesës.

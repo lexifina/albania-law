@@ -1,0 +1,1 @@
+6. Kontrolli kryhet brenda orarit të veprimtarisë së subjekteve, por mund të kryhet edhe jashtë orarit të punës, vetëm me urdhër me shkrim të kryeinspektorit. Gjithsesi, gjithmonë në prani të një përfqaqësuesi të shoqërisë apo të personit fizik, i cili zotëron ose përdor minierën apo karrierën.

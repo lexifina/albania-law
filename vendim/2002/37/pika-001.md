@@ -1,0 +1,1 @@
+1. Reparti i Inspektim-Shpëtimit në Miniera (RISHM) është person juridik, publik, buxhetor në varësi të Ministrisë së Ekonomisë Publike dhe Privatizimit, i specializuar për mbikëqyrjen dhe zbatimin e rregullave, për një rregjim normal të punës së personave, juridikë dhe fizikë, në veprimtaritë minerare.

@@ -1,0 +1,1 @@
+8. Për shqyrtimin e kundërvajtjeve administrative, kryeinspektori mbledh ”Komisionin e shqyrtimit të gjobave të RISHM-it”. Komisioni përbëhet nga 5 anëtarë, të cilët propozohen nga RISHM-i dhe miratohen nga Ministri i Ekonomisë Publike dhe Privatizimit. Rregullat e funksionimit të komisionit përcaktohen me rregullore të brendshme të RISHM-it.
