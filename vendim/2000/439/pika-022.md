@@ -1,0 +1,2 @@
+22. Shtetasit e huaj, që kanë hyrë në territorin e Republikës së Shqipërisë, lejohen të dalin duke paraqitur dokumentet e udhëtimit me të cilat kanë hyrë në këtë territor në PKKK-rë. Në rastet kur këto dokumente u kanë humbur, atëherë është e mjaftueshme të paraqesin lejekalimin e lëshuar nga Ministria e Rendit Publik.
+I huaji, që kërkohet nga autoritetet shqiptare, për arsye se ka kryer ose dyshohet se ka kryer një vepër penale dhe kërkon të shkojë në një shtet tjetër, pengohet për të dalë nga Republika e Shqipërisë, deri në marrjen e përgjigjes nga organi përgjegjës.

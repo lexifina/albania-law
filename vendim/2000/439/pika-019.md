@@ -1,0 +1,1 @@
+19. Përfaqësitë diplomatike dhe konsullore të Republikës së Shqipërisë jashtë shtetit, për të gjitha vizat që lëshojnë, njoftojnë Ministrinë e Punëve të Jashtme dhe kjo e fundit njofton Ministrinë e Rendit Publik, para se përfituesit e vizës t’i fillojë afati i përdorimit të saj.

@@ -1,0 +1,1 @@
+15. Të huajt e pajisur me leje qëndrimi janë të lirë të hyjnë e të dalin në / nga territori i Republikës së Shqipërisë, pa patur nevojën për vizë. Lejeqëndrimi, shtetasit të huaj, i vendoset në pasaportën e tij në formën e vizës së qëndrimit. Ky shërbim bëhet falas.

@@ -1,0 +1,1 @@
+24. Në të gjitha rastet që shtetasit e huaj hyjnë në territorin e Republikës së Shqipërisë dhe aplikojnë për lejeqendrimi, prë zgjatje të kohëqendrimit, ose paraqiten si klandestinë, kërkesa e tyre mund të mohohet në kushtet dhe rrethanat e përcaktuara në ligj.

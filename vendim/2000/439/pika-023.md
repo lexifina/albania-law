@@ -1,0 +1,2 @@
+23. Shtetasit e huaj, që vijnë nga vende të tjera, në mënyrë ilegale, ndalohen nga Policia e Shtetit, në përputhje me dispozitat ligjore. Ata grumbullohen në qendrën e caktuar për këtë qëllim. Në qendër të huajt qëndrojnë deri në zgjidhjen e problemit të tyre.
+Ministria e Rendit Publik ngre për trajtimin e të huajve, të cilët hyjnë, në mënyrë ilegale në territorin e Shqipërisë, qendra për grumbullimin dhe trajtimin e tyre.

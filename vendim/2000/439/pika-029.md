@@ -1,0 +1,7 @@
+29. Autoritetet e policisë kufitare dhe ato të policisë së rendit bëjnë regjistrimin e të huajve, kontrolin, bllokimin e dokumenteve të dyshimta, gjobitjen e tyre, si dhe shoqërimin për në komisariatet e policisë vendore.
+Gjoba për kundërvajtjet administrative aplikohet:
+1. Për kundërvajtjet administrative të përcaktuara në pikat 1-2, të ligjit nr.8492, datë 27.5.1999, “Për të huajt”, nga kontrollori i PKKK-re aplikohet gjoba në vend, në masën nga 10 000 deri në 20 000 lekë.
+2. Për kundërvajtjet administrative të përcaktuara në pikat 3, 4, 13 dhe 15, të ligjit nr.8492, datë 27.5.1999, “Për të huajt”, nga komandanti i PKKK-rë aplikohet gjoba në vend, në masën nga 30 000 deri në 50 000 lekë. Për mosdorëzim të lejes së punës kjo gjobë aplikohet nga inspektori i zyrës së punësimit.
+3. Për kundërvajtjet administrative të përcaktuara në pikat 5-9, të ligjit nr,.8492, datë 27.5.1999, “Për të huajt”, nga punonjësi i Policisë së Shtetit aplikohet gjoba në vend, në masën nga 60 000 deri në 90 000 lekë.
+4. Për kundërvajtjet administrative të përcaktuara në pikat 11, 12, dhe 14-16, të ligjit nr.8492, datë 27.5.1999, “Për të huajt”, nga punonjësi i Policisë së Shtetit aplikohet gjobë në vend, në masën nga 100 000 deri në 200 000 lekë.
+5. Për kundërvajtjet administrative të përcaktuara në pikën 10, nga inspektori sanitar i Ministrisë së Shëndetësisë aplikohet gjobë në vend, në masën nga 10 000 deri në 30 000 lekë.

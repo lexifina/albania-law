@@ -1,0 +1,1 @@
+12. Studentët e huaj, të pranuar në institucionet arsimore publike, ose private në Republikën e Shqipërisë, pajisen me lejeqëndrimi me përparësi, në bazë të kërkesës së tyre dhe vërtetimit me shkrim të institucionit arsimor. Për pagesën, në rastin e studentëve, zbatohet parimi i reciprocitetit.
