@@ -1,0 +1,26 @@
+{
+  "qbz_id": 710,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.8321, DATË 2.4.1998,“PËR POLICINË E BURGJEVE”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8757",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-03-26",
+  "published": "2001-04-16",
+  "in_force": "2001-05-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/53ce222991c1e763a721be01a1f2a1c70ff2fcb765adcc8082c145fd22346e25.docx",
+  "source_sha256": "53ce222991c1e763a721be01a1f2a1c70ff2fcb765adcc8082c145fd22346e25",
+  "official_record": "https://qbz.gov.al/api/v1/acts/710",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/03/26/8757",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
