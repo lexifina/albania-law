@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1323,
+  "title": "Për zgjedhjen e një anëtari të Këshillit të Lartë të Drejtësisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "28",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-04-22",
+  "published": "2002-04-29",
+  "in_force": "2002-04-29",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e9462261fe25f06bb7e4694370241d475a9fcae0e5bb8776e33aa24e5778c7c5.docx",
+  "source_sha256": "e9462261fe25f06bb7e4694370241d475a9fcae0e5bb8776e33aa24e5778c7c5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1323",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/04/22/28",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
