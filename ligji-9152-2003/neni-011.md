@@ -1,0 +1,4 @@
+# Neni 11
+Komunikimi
+11.1 Qeveria njeh dhe pranon që operacioni kërkon përdorimin e mjeteve të komunikimit. Misioni PAMECA do të autorizohet të përdorë postën e tij të brendshme dhe shërbimet e telekomunikacionit.
+11.2 Ky autorizim do të përfshijë të drejtën për të përdorur sisteme të nevojshme të informacionit dhe të komunikimit për të garantuar një kapacitet të plotë komunikimi, si dhe të drejtën për të përdorur spektrin e plotë elektromagnetik pa pagesë për këtë qëllim. Në ushtrimin e të drejtave të tij, misioni PAMECA do të bëjë çdo gjë të arsyeshme brenda limiteve të saj për të koordinuar me autoritetet kompetente të Republikës së Shqipërisë dhe për të marrë parasysh nevojat dhe kërkesat e tyre. Autoritetet shqiptare do të ndihmojnë shefin e misionit PAMECA në rastet kur ai ka nevojë të përdorë sistemet lokale të informacionit dhe komunikimit (qarqe, pajisje, faks dhe telefon).
