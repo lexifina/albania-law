@@ -1,0 +1,1 @@
+1. Komunës Poroçan, në rrethin e Gramshit, i shtohet, në buxhetin e miratuar për vitin 2001, fondi prej 9 488 052 (nëntë milionë e katërqind e tetëdhjetë e tetë mijë e pesëdhjetë e dy) lekësh, për të ndihmuar 19 familjet, banuese në lagjen Qefaj, të cilave u janë dëmtuar banesat nga rrëshqitja masive e truallit, sipas shtojcës që i bashkëlidhet këtij vendimi.
