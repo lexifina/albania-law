@@ -1,0 +1,1 @@
+7. Plotësimi i regjistrit bëhet nga një person i ngarkuar me këtë detyrë, bazuar në lejen e varrimit ose deklarimit të personave madhorë të familjes së të ndjerit sipas nenit 50 të ligjit nr.8950, datë 10.10.2002 “Për gjendjen civile”.

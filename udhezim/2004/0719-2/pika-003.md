@@ -1,0 +1,1 @@
+3. Në këtë regjistër shënohen të dhënat e sakta për varrimet që kryhen, mënyrën e varrimit, ndryshimin që ka ndodhur si pasojë e zhvarrosjeve, si dhe të dhëna në plotësim të kërkesave të pikës 3 të nenit 7 të ligjit nr. 9220, datë 15.4.2004 “Për shërbimin publik të varrimit”.

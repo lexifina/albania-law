@@ -1,0 +1,1 @@
+5. Përgjegjësi i drejtorisë, i sektorit apo i zyrës përkatëse të bashkisë apo komunës i jep me procesverbal dy kopje të njëjta të regjistrit të shërbimit të varrimit, me numër të njëjtë fletësh dhe të nënshkruara nga kryetari ose sekretari i bashkisë apo komunës, ndërmarrjes ose shoqërisë private të licencuar që administron varrezat.

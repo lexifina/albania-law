@@ -1,0 +1,1 @@
+10. Ndërmarrja ose shoqëria private e licencuar e administrimit të varrezave duhet të bëjë rregullisht rakordimin e regjistrit të plotësuar nga ajo, me regjistrin themeltar të zyrës së gjendjes civile që ka lëshuar lejen e varrimit. Në rast të mospërputhjes të regjistrave, veprohet konform nenit 51 të ligjit nr.8950,datë 10.10 2002 “Për gjendjen civile”.

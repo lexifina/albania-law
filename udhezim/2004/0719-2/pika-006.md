@@ -1,0 +1,1 @@
+6. Ndërmarrja apo shoqëria private e licencuar që administron varrezat, plotëson regjistrin e shërbimit të varrimit, sipas kërkesave të nenit 7 të ligjit nr.9220, datë 15.4.2004 “Për shërbimin publik të varrimit”.
