@@ -1,0 +1,1 @@
+3. Botimi, shtypja dhe shpërndarja e teksteve shkollore dhe e fletoreve të punës, për vitin 2004, të mbulohen nga subvencioni i parashikuar në buxhetin e vitit 2004, miratuar për Ministrinë e Arsimit dhe të Shkencës.

@@ -1,0 +1,1 @@
+2. Dhënien falas të të gjitha teksteve të arsimit të mesëm të përgjithshëm, për vitin shkollor 2004-2005, për të gjithë nxënësit e shkollave të mesme të arsimit të përgjithshëm të komunave më të varfëra, sipas vendimit nr.718, datë 30.10.2003 të Këshillit të Ministrave ”Për mbështetje të diferencuar financiare për disa komuna”.
