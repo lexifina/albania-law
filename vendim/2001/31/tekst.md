@@ -1,8 +1,12 @@
 V E N D I M
 
-Nr.31, datë 20.1.2001
+Nr. 31, datë 20.1.2001
 
 PËR PËRFITIMET NGA STATUSI I INVALIDIT PARAPLEGJIK DHE TETRAPLEGJIK
+
+(Ndryshuar me VKM nr. 302, datë 27.6.2002)
+
+(i përditësuar)
 
 Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 21 të ligjit nr.8626, datë 22.6.2000, “Statusi i invalidit paraplegjik dhe tetraplegjik”, me propozimin e zëvendëskryeministrit dhe Ministër i Punës dhe Çështjeve Sociale, Këshilli i Ministrave
 
@@ -24,7 +28,7 @@ II. Grupi i dytë, ku përfshihen të sëmurët paraplegjikë pjesërisht të af
 
 3. Invalidët, paraplegjikë ose tetraplegjikë, pajisen me dëshmi zyrtare identifikimi.
 
-4. Masa e pagesës për invalidët, paraplegjikë ose tetraplegjikë është 70 për qind e pagës minimale të punonjësit buxhetor dhe ndryshon sa herë ndryshon kjo pagë. Pagesa përfitohet pavarësisht nga mosha dhe të ardhurat e tjera, që invalidi, paraplegjik ose tetraplegjik, përfiton nga shteti. Të njëjtën pagesë përfiton edhe kujdestari i invalidit, paraplegjik ose tetraplegjik, i caktuar në përputhje me pikën 1 të këtij vendimi.
+4. Masa e pagesës për invalidët paraplegjikë dhe tetraplegjikë është 6 000 lekë në muaj dhe indeksohet me rritjen e pagës minimale në shkallë vendi. Kjo pagesë përfitohet pavarësisht nga mosha dhe të ardhurat e tjera që invalidi paraplegjik dhe tetraplegjik përfiton nga shteti. Të njëjtën pagesë përfiton edhe kujdestari i invalidit paraplegjik dhe tetraplegjik, i caktuar në përputhje me pikën 1 të vendimit.
 
 Vendi dhe mënyra e dhënies së këtyre pagesave do të përcaktohet në udhëzimin që do të dalë në zbatim të këtij vendimi.
 
