@@ -1,0 +1,7 @@
+6. Kërkesat për përdorimin e fondit rezervë të Këshillit të Ministrave
+Sipas nenit 21 të ligjit organik të buxhetit nr.8379, datë 29.7.1998, Fondi rezervë përdoret ”…. për të përballuar shpenzimet e paparashikuara në Buxhetin e Shtetit…” dhe më tej: ”Fondi rezervë përdoret me vendim të Këshillit të Ministrave pas propozimeve të ministrive dhe institucioneve të linjës dhe pas miratimit të dhënë nga Ministri i Financave”.
+Në zbatim të këtij neni, kërkesa e ministrive të linjës për përdorimin e këtij fondi kalon në këto faza:
+i) Ministritë e linjës paraqesin në Ministrinë e Financave një projekt, me të cilin argumentojnë: nevojat për shtesë fondesh, përse nuk është përfshirë në buxhetin e vitit ushtrimor, pamundësinë për t’u përballuar nëpërmjet rialokimit të fondeve, duke u nisur nga analiza e realizimit të buxhetit për periudhën raportuese etj. Kur kërkesa ka të bëjë me investimet (ndërtim-montime e rikonstruksione), bashkë me projektin paraqitet edhe preventivi për t’u njohur me vlerën rreth së cilës parashikohet të kryhet prokurimi.
+ii) Ministria e Financave, pas analizës së saj, jep vërejtjet, sugjerimet të cilat duhet të sqarohen dhe plotësohen detyrimisht kur të përgatitet projektvendimi përfundimtar.
+iii) Me mendimin e ministrive të interesuara, bashkëlidhur dhe aprovimin e Ministrisë së Financave, projektvendimi paraqitet në Këshillin e Ministrave.
+Në të gjitha rastet kur projektaktet e propozuara kanë efekte financiare, ministritë dhe institucionet propozuese plotësojnë një aneks standard që përgatitet nga Ministria e Financave.

@@ -1,0 +1,1 @@
+2. Fondet e kushtëzuara të krijuara nga të ardhurat e institucioneve dhe të papërdorura në fund të vitit nuk barten në vitin e ardhshëm buxhetor, me përjashtim të të ardhurave të pushtetit vendor dhe të ardhurave jashtë limitit të përcaktuara në pikën 2.1 të këtij udhëzimi.
