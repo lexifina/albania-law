@@ -1,0 +1,1 @@
+2. Veprimtaria dhe asetet fikse të njësisë së koordinimit të Projektit ”Rehabilitimi i veprave të vogla ujitëse”, pas vlerësimit nga një grup i pavarur kontrolli financiar, t’i kalojnë në formë granti, Fondit të riaftësimit të veprave ujitëse, sipas marrëveshjes që do të lidhet ndërmjet këtij Fondi dhe Ministrisë së Financave e Ministrisë së Bujqësisë dhe Ushqimit.
