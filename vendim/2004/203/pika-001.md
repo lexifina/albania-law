@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të objektit të ish-magazinave të ish-Qendrës Ekonomike të Arsimit, Sarandë, nga Minisria e Arsimit dhe Shkencës Ministrisë së Kulturës, Rinisë dhe Sporteve, sipas genplanit që i bashkëlidhet këtij vendimi.
