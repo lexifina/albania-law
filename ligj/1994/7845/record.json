@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122404,
+  "title": "PËR NUMRIN E SIGURIMIT SHOQËROR",
+  "type": "Ligj",
+  "number": "7845",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1994-07-13",
+  "version_no": 1,
+  "qbz_version_id": 10615,
+  "in_force": "2002-10-10",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2002-10-10",
+  "changed_by_qbz_id": 1686,
+  "changed_by_number": "8951",
+  "changed_by_title": "Për numrin e identitetit të shtetasve",
+  "source": "https://qbz.gov.al/files/5008ee63b872b4ff8b1e27746bf2ae8f6245fc10919a8a916e297eda9cfd9b4d.docx",
+  "source_sha256": "5008ee63b872b4ff8b1e27746bf2ae8f6245fc10919a8a916e297eda9cfd9b4d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122404",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122404/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
