@@ -1,0 +1,7 @@
+# Neni 32
+Territoret
+1. Kombet e Bashkuara që janë autoriteti administrues për një territor ose çdo Qeveri Kontraktuese përgjegjëse për marrëdhëniet ndërkombëtare të një territori, do të konsultohen me një territor të tillë sa më parë që të jetë e mundur, në përpjekje për të shtrirë këtë Konventë mbi këtë territor dhe mund që në çdo kohë me anë të një njoftimi me shkrim të Organizatës të deklarojnë se kjo Konventë do të shtrihet mbi këtë territor.
+Konventa në fjalë do të shtrihet mbi këtë territor nga data e marrjes së këtij njoftimi ose nga ajo datë siç mund të jetë specifikuar në njoftim.
+2. Kombet e Bashkuara ose çdo Qeveri Kontraktuese, e cila ka bërë një deklaratë sipas nënparagrafit (a) të paragrafit (1) të këtij neni, në çdo kohë mbas ekspirimit të një periudhe 5-vjeçare nga data e shtrirjes së Konventës në këtë mënyrë mbi një territor, mund që me anë të njoftimit me shkrim të Organizatës të deklarojë se kjo Konventë do të pushojë së qeni në fuqi në territorin e përmendur në njoftim.
+Kjo Konventë do të pushojë së zbatuari në territore të përmendura në një njoftim të tillë një vit ose aq sa të jetë specifikuar në të, pas marrjes së njoftimit.
+3. Organizata do të njoftojë të gjitha Qeveritë Kontraktuese mbi shtrirjen e kësaj Konvente në territore të paragrafit (1) të këtij neni dhe përfundimin e çdo shtrirjeje sipas paragrafit (2), duke shprehur në çdo rast datën, nga e cila kjo Konventë ka ose do të pushojë kështu së vepruari.

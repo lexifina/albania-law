@@ -1,0 +1,6 @@
+# Neni 28
+Ardhja në fuqi
+1. Kjo Konventë do të vijë në fuqi 12 muaj pas datës në të cilën jo më pak se 15 qeveri të shteteve, që përfshijnë 7 shtete me jo më pak se 1 milion ton bruto anije, kanë shpenzuar pa rezervim për sa i përket pranimit ose kanë depozituar instrumente të pranimit ose aksedimit në përputhje me nenin 27. Organizata do të informojë të gjitha qeveritë që kanë nënshkruar ose akseduar në këtë Konventë për datën në të cilën ajo hyn në fuqi.
+2. Për qeveritë të cilat kanë depozituar një instrument pranimi për ose aksedimi në Konventë gjatë 12 muajve të përmendur në paragrafin (1) të këtij neni, pranimi ose aksedimi ekzekutohet me ardhjen në fuqi të kësaj Konvente ose 3 muaj pas depozitimit të instrumentit cilado që të jetë data e mëpasme.
+3. Për qeveritë të cilat kanë depozituar një instrument pranimi për apo aksedimi në këtë Konventë mbas datës në të cilën ajo vjen në fuqi, Konventa vjen në fuqi 3 muaj mbas depozitimit të instrumentit cilado që të jetë data e mëvonshme.
+4. Mbas datës në të cilën të gjitha masat që kërkohen për të sjellë një ndryshim të kësaj Konvente në fuqi janë plotësuar ose të gjitha pranimet shikohen si të dhëna në nën-paragrafin (b) të paragrafit 2 të nenit 29 në rast ndryshimi me pranimin unanim, çdo instrument pranimi ose aksedimi i depozituar do të shikohet si në përputhje me Konventën siç është ndryshuar.
