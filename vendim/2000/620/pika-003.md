@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë Publike dhe Privatizimit, ta pajisë blerësin e ri me lejen e shfrytëzimit të vendburimit në zonën 1.7 km2, në përputhje me dispozitat e ligjit nr.7796, datë 17.12.1994, “Minerar i Shqipërisë”.

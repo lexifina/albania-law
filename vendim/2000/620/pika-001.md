@@ -1,0 +1,2 @@
+1. Pjesa 30 për qind e aksioneve në pronësi të shtetit shqiptar, e përfaqësuar nga ministri i Ekonomisë Publike dhe Privatizimit, në sh.a, Miniera e Bitumit, Selenicë, Vlorë, së bashku me pjesën tjetër prej 70 përqindësh të aksioneve, në pronësi të shoqërisë “Vefa Hollding”, sh.p.k, në administrim, të shitet nga administratorët e shoqërive huamarrëse, pranë Qendrës së Ankandeve të Shitjes Publike me Tender, për shkak të likuidimit të kësaj shoqërie.
+Shitja e aksioneve të realizohet sipas dispozitave në fuqi për shitjen e pasurive të skemave piramidale.
