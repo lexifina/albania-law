@@ -1,0 +1,1 @@
+2. Rrugët automobilistike, hekurudhore dhe të dekovilit, si dhe veprat përkatëse të artit, në kompleks dhe ato të veçanta, si: ura, tunele, mbikalimet ndërtim teleferikësh, me stacionet përkatëse etj.
