@@ -1,0 +1,1 @@
+1. Qiratë e papaguara të tokës që shoqëritë huamarrëse, për asete në pronësi sipas lidhjes bashkëlidhur, kanë me kontrata, me këshillat e komunave apo bashkive, nuk janë pjesë e skemës së shpërndarjes së vlerave financiare, dhe si të tilla nuk shlyhen nga administratorët.
