@@ -1,2 +1,139 @@
 # Shtojca
 Shih tabelat A1, A2
+Republika e shqipërisë
+Ministria e Transportit dhe Telekomunikacionit
+Drejtoria juridike
+Qarku Lezhë
+Lista e pronarëve që shpronësohen (shtesë e projektit) për shkak të ndërtimit të segmentit rrugor Lezhë-Balldre (seksioni i I-rë)
+Lloji i pasurisë: Tokë arë, kulturë bujqësore, dru frutorë dhe objekt nr.8
+Nr.
+Pronar
+Nr.
+Pas.
+Tokë arë
+Objekt
+Kultura
+Bujq.
+12
+lekë/m2
+Dru
+frutorë
+në
+lekë
+Totali
+në
+lekë
+Shënime
+Emri
+Atësia
+Mbiemri
+Sip.
+m2
+Çmimi
+lekë/m2
+Vlera
+në
+lekë
+Sip.
+m2
+Çmimi
+lekë/m2
+Vlera
+në
+lekë
+1
+Kole
+Mark
+Guri
+13/61,13/68
+preventiv
+6896515
+6896515
+Plotësim dokumentacioni
+2
+Gjok
+Dedë
+Nika
+349/12
+511
+913
+466543
+6132
+32000
+504675
+Plotësim dokumentacioni
+3
+Zef
+Pashko
+Nika
+350/10
+382
+913
+348766
+4584
+96000
+449350
+4
+Zef
+Pashko
+Nika
+349/15
+750
+913
+684750
+9000
+0
+693750
+5
+Luk
+Pashko
+Nika
+350/11
+662
+913
+604406
+7944
+70000
+682350
+6
+Ndok
+Fran
+Gjoni
+349/12
+388
+913
+354244
+4656
+38000
+396900
+7
+Mikel
+Ndok
+Gjoni
+349/11
+114
+913
+104082
+1368
+14500
+119950
+8
+Luk
+Rrok
+Dedgjoni
+447/4
+646
+913
+589798
+7752
+0
+597550
+Shuma
+3453
+3152589
+6896515
+41436
+250500
+10341040
+Shpenzime procedurale lekë 294 000
+Vlera totale e shpronësimit lekë 10 635 040
