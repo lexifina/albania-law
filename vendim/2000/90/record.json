@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR.335, DATË 2.9.1997, TË KËSHILLIT TË MINISTRAVE, “PËR PAJISJEN ME PASAPORTA DIPLOMATIKE DHE SHËRBIMI” DHE TË VENDIMIT NR.81, DATË 18.2.1999, TË KËSHILLIT TË MINISTRAVE",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "90",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-02-24",
+  "published": "2000-04-05",
+  "in_force": "2000-04-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/76bf957a2c837af7a3085c9e3ce2c2f93786758a32ac2a5af9df882965a3dc35.docx",
+  "source_sha256": "76bf957a2c837af7a3085c9e3ce2c2f93786758a32ac2a5af9df882965a3dc35",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/02/24/90",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
