@@ -1,0 +1,2 @@
+# Neni 10
+Për kontrollin e masave të marra nga komandat e forcave në Forcat e Armatosura dhe nga drejtuesit e institucioneve ushtarake për mbrojtjen e jetës së njerëzve dhe të pronës ushtarake nga rreziku i zjarrit dhe i fatkeqësive të tjera, në strukturën e Policisë Ushtarake organizohet inspektorati i PMNZSH-së, i cili e kryen veprimtarinë në përputhje me ligjin nr.8766, datë 5.4.2001 ”Për mbrojtjen nga zjarri dhe për shpëtimin”.
