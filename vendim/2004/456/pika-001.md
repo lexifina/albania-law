@@ -1,0 +1,1 @@
+1. Pasuria me numër 7/55, ndërtesa dykatëshe e Agjencisë për Zhvillim Ekonomik, sh.a., e regjistruar në regjistrin hipotekor nr.286, ZK 8250, datë 2.12.2002, në pronësi të Këshillit të Ministrave, t’i kalojë në përgjegjësi administrimi Ministrisë së Drejtësisë, për sistemimin me mjedise pune të Qendrës së Publikimeve Zyrtare.

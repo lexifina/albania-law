@@ -1,0 +1,1 @@
+2. Detyrimet e Agjencisë për Zhvillim Ekonomik, sh.a., në likuidim, të shlyhen sipas vendimit nr.416, datë 9.7.1998 të Këshillit të Ministrave ”Për administrimin dhe përdorimin e të ardhurave të Ministrisë së Ekonomisë Publike dhe nga privatizimi i shoqërive tregtare, që veprojnë në sektorë jostrategjikë”, i ndryshuar.
