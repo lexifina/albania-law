@@ -1,0 +1,2 @@
+KREU VII
+PËRGJEGJËSI tË tjera
