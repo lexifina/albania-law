@@ -1,0 +1,1 @@
+21. Për objektet që nuk janë shitur edhe pasi është zbatuar pika 11 e kapitullit III të këtij vendimi, veprohet sipas vendimit nr.197, datë 20.3.1998 të Këshillit të Ministrave “Për nxjerrjen jashtë përdorimit të objekteve që nuk ka qenë e mundur të shiten”.

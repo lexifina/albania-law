@@ -1,0 +1,2 @@
+7. Për kulturat drufrutore, ullinjtë, vreshtat në prodhim ose në rritje, vlera aktuale minimale përcaktohet nga komisioni i vlerësimit në bazë të llogaritjes së vlerës kontabël të regjistruar dhe duke zbritur, kur është rasti, dëmtimet e pësuara.
+Për rastet e mungesave ose të dëmtimeve, komisioni a grupi i ekspertëve vlerësues të veprojë si për ndërtimet. Për këtë grup vlera e mbetur nuk indeksohet.

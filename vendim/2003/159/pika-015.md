@@ -1,0 +1,1 @@
+15. Pjesëmarrësve të tjerë në ankand (përveç fituesit), iu kthehet 20 për qind e vleftës fillestare të paguar paraprakisht. Kërkuesit për blerje të objektit, i cili nuk merr pjesë në ankand ose që tërhiqet nga ankandi pa dhënë asnjë ofertë mbi vlerën e objektit të shpallur për shitje i mbahet 100 për qind e vlerës së 20 për qindëshit të arkëtuar për pjesëmarrje në ankand.
