@@ -1,0 +1,1 @@
+1. Miratohen shpenzimet për implementimin e projektit, duke përdorur si burim financimi pjesë nga fondi kundërpadi i financimit falas të Qeverisë Japoneze për këtë projekt. Deri në krijimin e fondit kundërpadi përdoren, me të drejtë kthimi, fone nga Buxheti i vitit 2000, miratiar për Ministrinë e Bujqësisë dhe Ushqimit.
