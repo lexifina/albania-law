@@ -1,0 +1,1 @@
+7. Ankimi ndaj vendimit të inspektorit të punës për refuzimin e dhënies së lejes, mund të bëhet tek inspektori i përgjithshëm, i cili shprehet me vendim, brenda 10 ditëve nga data e paraqitjes së ankesës.

@@ -1,0 +1,1 @@
+3. Inspektori i punës verifikon dokumentacionin e paraqitur nga punëdhënësi dhe e njofton atë brenda 10 ditëve nga data e paraqitjes së kërkesës me shkrim, nëse ky dokumentacion është i rregullt apo ka nevojë për plotësime të mëtejshme.
