@@ -1,0 +1,1 @@
+4. Komisioni i vlerësimit merr në shqyrtim rastet e paraqitura për mbrojtje të veçantë, me nismën apo kërkesën e punonjësit të interesuar. Komisioni brenda 3 (tri) ditëve nga paraqitja e rastit të kërcënimit, vendos për marrjen e masave organizative për ruajtjen ose për refuzimin e kërkesës.

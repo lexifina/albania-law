@@ -1,0 +1,1 @@
+7. Në rastet kur marrja e masave të mbrojtjes së veçantë të punonjësit të kërcënuar duhet të jetë e menjëhershme, kjo bëhet me urdhër të komandantit të Gardës së Republikës të Shqipërisë, deri në marrjen në shqyrtim nga komisioni i vlerësimit të kërcënimit.
