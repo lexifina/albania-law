@@ -1,0 +1,1 @@
+3. Në ato qytete ku veprimtaritë bankare kryhen nga Banka e Kursimeve, sh.a., të vazhdojnë të kryhen nga kjo bankë, për aq kohë sa kjo veprimtari nuk do t’i afrohet ndonjë shoqërie tjetër, të licencuar për të kryer veprimtari bankare.

@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Financave të prokurojë me procedurën e prokurimit “Tender i hapur”, me afat të përshpejtuar jo më pak se 10 ditë, kryerjen e shërbimit të buxhetit me bankat tregtare, me seli në Republikën e Shqipërisë.
