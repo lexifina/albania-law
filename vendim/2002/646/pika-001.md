@@ -1,0 +1,1 @@
+1. Miratimin e standardeve dhe të mallrave e produkteve, që krijojnë hapësirë për elementë abuzivë, për sigurinë e jetës, të shëndetit, mbrojtjes së mjedisit, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi, të cilat duhet të marrin statusin ”Rregulla teknike”, të detyrueshme për zbatim.
