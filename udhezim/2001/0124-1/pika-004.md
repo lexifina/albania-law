@@ -1,0 +1,1 @@
+4. KRRT-ja në rreth funksionon në përputhje me nenin 21 të ligjit të urbanistikës me përjashtim të kompetencës për miratimin e shesheve dhe lejeve të ndërtimit e cila sipas ligjit nr.8652, nga 1 janari 2001 i kalon komunave dhe bashkive.

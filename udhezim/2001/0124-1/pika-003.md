@@ -1,0 +1,1 @@
+3. Në çdo rreth të funksionojnë KRR-të nën drejtimin e prefektit, në përputhje me nenin 75 të ligjit nr. 8652 datë 31.7.2000 “Për organizimin dhe funksionimin e qeverisjes vendore”. Anëtarë të KRRT-së janë personat e përmendur në nenin 18 të ligjit të urbanistikës, që i gëzojnë atributet e cituara në atë nen.
