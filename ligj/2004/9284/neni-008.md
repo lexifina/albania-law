@@ -1,0 +1,3 @@
+# Neni 8
+Shtrirja e hetimit në subjekte të kërcënuara nga organizatat kriminale
+Kur ka të dhëna të mjaftueshme për të gjykuar se zotërimi i pasurive dhe ushtrimi i veprimtarive ekonomike të caktuara gjendet në kushte kërcënimi ose ndikimi nga organizata kriminale apo në kushte të tilla që mund të lehtësojnë veprimtarinë e personave të dyshuar sipas këtij ligji, prokurori i kërkon gjykatës ta detyrojë personin, që ka titullin e pronarit ose zotëron çfarëdo titulli, fonde apo pasuri të çdo lloji, me vlerë që nuk përputhet me të ardhurat ose aftësitë e tij ekonomike, që të justifikojë ligjshmërinë e prejardhjes së tyre.
