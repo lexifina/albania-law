@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, me sipërfaqe 1430 m2 tokë/arë, 20 rrënjë hardhi, 2 rrënjë fiq, vlerësuar në shumën e përgjithshme prej 1 315 425 (një milionë e treqind e pesëmbëdhjetë mijë e katërqind e njëzet e pesë) lekësh.
