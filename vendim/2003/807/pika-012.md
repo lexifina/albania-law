@@ -1,0 +1,1 @@
+12. Inspektorati i Mjedisit dhe administrata përkatëse e zonës së mbrojtur kontrollojnë përdorimin e shpellës, në përputhje me kërkesat e ligjit ”Për zonat e mbrojtura” dhe me kushtet e përcaktuara në lejen mjedisore.

@@ -1,0 +1,2 @@
+14. Ndaj vendimit të Inspektoratit të Mjedisit, përdoruesi mund të ankohet te Ministri i Mjedisit, sipas afateve të përcaktuara në Kodin e Procedurave Administrative. Ndaj vendimit të Ministrit të Mjedisit apo dhe në rastet kur ky i fundit nuk është përgjigjur në afatin e përcaktuar në Kodin e Procedurave Administrative mund të bëhet ankim gjyqësor, sipas ligjeve në fuqi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
