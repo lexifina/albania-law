@@ -1,0 +1,1 @@
+1. Përqindja e aksioneve të kapitalit të shoqërisë anonime “Albtelecom”, që u ofrohet investitorëve strategjikë, të jetë 76 për qind, për të nxitur investimet e shoqërive të specializuara në sistemin kombëtar të telekomunikacionit. Investitori strategjik ka të drejtë të marrë pjesë në transferimin e paketës së mbetur, në përputhje me legjislacionin në fuqi.
