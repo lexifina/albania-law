@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1996,
+  "title": "Për disa ndryshime në ligjin nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në republikën e Shqipërisë”, i ndryshuar me ligjet nr.7932, datë 17.5.1995; nr.8286, datë 16.2.1998; nr.8392, datë 2.9.1998; nr.8575, datë 3.2.2000; nr.8776, datë 26.4.2001; nr.8852, datë 27.12.2001 dhe nr.8889, datë 25.4.2002",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9058",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-03-20",
+  "published": "2003-05-27",
+  "in_force": "2003-06-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9c07910271dd66de9e6e74a8783dd201f86e296476f66bbed3a4a49e5481094e.docx",
+  "source_sha256": "9c07910271dd66de9e6e74a8783dd201f86e296476f66bbed3a4a49e5481094e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1996",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/03/20/9058",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
