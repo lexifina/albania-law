@@ -1,0 +1,1 @@
+3. Komisioni thirret nga kryesuesi me njoftim me shkrim, në të cilin përcaktohet data, ora, vendi i mbledhjes dhe rendi i ditës. Komisioni mblidhet të paktën një herë në muaj dhe në rast nevoje e urgjence menjëherë.

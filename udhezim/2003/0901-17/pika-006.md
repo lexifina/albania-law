@@ -1,0 +1,1 @@
+6. Me hyrjen në fuqi të këtij udhëzimi secili ministër përcakton përfaqësuesit e ministrisë. Vitin e parë të funksionimit Kryetari i komisionit caktohet me short nga dy përfaqësuesit, që janë përcaktuar për një funksion të tillë nga ministrat përkatës.
