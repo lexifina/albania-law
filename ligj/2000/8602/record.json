@@ -1,0 +1,26 @@
+{
+  "qbz_id": 107,
+  "title": "PËR NJË NDRYSHIM NË KODIN E PROCEDURËS PENALE TË REPUBLIKËS SË SHQIPËRISË",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8602",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-04-10",
+  "published": "2000-04-27",
+  "in_force": "2000-05-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a40678e67e413f0b2a75e881f13a039ab81d5d68550a1db0fca0868ec3cf15e7.docx",
+  "source_sha256": "a40678e67e413f0b2a75e881f13a039ab81d5d68550a1db0fca0868ec3cf15e7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/107",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2000/04/10/8602",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
