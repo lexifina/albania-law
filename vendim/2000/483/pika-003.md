@@ -1,0 +1,1 @@
+3. Ministria e Financave, në rastin e nënshkrimit të pjesëmarrjes së saj si aksionere në Bankën Italo-Shqiptare, merr përsipër të gjitha të drejtat dhe detyrimet që ka patur Banka Kombëtare Tregtare, të cilat rrjedhin nga pjesëmarrja e kësaj të fundit me cilësinë e aksionerit.

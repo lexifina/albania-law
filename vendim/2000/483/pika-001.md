@@ -1,0 +1,1 @@
+1. Aksionet e Bankës Kombëtare Tregtare, si pjesëmarrje e saj në kapitalin e Bankës Italo-Shqiptare, të transferohen tek Ministria e Financave. Transferimi i këtyre aksioneve do të bëhet në përputhje me dispozitat ligjore, në fuqi.

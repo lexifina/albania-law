@@ -1,0 +1,1 @@
+2. Autorizohet Ministria e Financave të nënshkruajë marrëveshjen e pjesëmarrjes, ndërmjet Banca di Roma, Bankës Kombëtare Tregtare, Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) dhe Ministrisë së Financave të Republikës së Shqipërisë, e cila i bashkëlidhet këtij vendimi.
