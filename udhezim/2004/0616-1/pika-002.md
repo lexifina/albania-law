@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit të Pronës Publike në Ministrinë e Ekonomisë bën monitorimin e kontratave të lidhura nga ajo dhe çdo vit merr informacion nga qiramarrësit për realizimin e treguesve të investimeve dhe nivelit të punësimit, të krahasuar me planbiznesin, i cili është pjesë përbërëse e dokumentacionit të lidhjes së kontratës së qirasë.
