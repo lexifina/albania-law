@@ -1,0 +1,1 @@
+5. Ngarkohen Ministria e Mjedisit dhe Drejtoria e Përgjithshme e Pyjeve dhe e Kullotave të hartojnë rregulloren e administrimit dhe planin e menaxhimit të peizazhit ujor/tokësor të mbrojtur të sistemit ligatinor Vjosë-Nartë.

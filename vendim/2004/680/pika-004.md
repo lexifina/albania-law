@@ -1,0 +1,1 @@
+4. Ngarkohet administrata e rezervës natyrore të menaxhuar të Pishë-Poros, në varësi të Drejtorisë së Përgjithshme të Pyjeve dhe të Kullotave, të kryejë administrimin e peizazhit ujor/tokësor të mbrojtur të sistemit ligatinor Vjosë-Nartë.
