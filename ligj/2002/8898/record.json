@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1431,
+  "title": "Për një shtesë në ligjin nr. 8291, datë 25.2.1998 “Kodi i etikës së policisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8898",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-05-16",
+  "published": "2002-06-18",
+  "in_force": "2002-07-03",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/89f21991bb87d76fc1aeaf3194ccfb6114b767c5dfd5a64fa96630876cb95fc5.docx",
+  "source_sha256": "89f21991bb87d76fc1aeaf3194ccfb6114b767c5dfd5a64fa96630876cb95fc5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1431",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/05/16/8898",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
