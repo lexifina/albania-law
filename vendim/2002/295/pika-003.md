@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, të cilët shpronësohen, të kompensohen, në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, me sipërfaqe 19 989 m2 tokë/arë, 4 996 m2 truall, 496 m2 ndërtesë, 5 pika karburanti me vlerë 14 366 913 lekë, 85 m2 fidanë plepi dhe 125 dru frutorë.
