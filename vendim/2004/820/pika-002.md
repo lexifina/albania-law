@@ -1,0 +1,1 @@
+2. Të gjitha institucionet shtetërore, qendrore dhe vendore, brenda juridiksionit dhe mundësive të tyre financiare, për këtë periudhë, veçmas ose në bashkëpunim, të programojnë, të organizojnë dhe realizojnë infrastrukturën festive dhe veprimtaritë në këtë kuadër.
