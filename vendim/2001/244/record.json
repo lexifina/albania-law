@@ -1,0 +1,29 @@
+{
+  "qbz_id": 765,
+  "title": "PËR MASËN E PAGESËS PËR PËRJASHTIMIN NGA SHËRBIMI  I DETYRUESHëM USHTARAK AKTIV, SI DHE PËR TRAJTIMIN E USHTARëVE ME PAGESË",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "244",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-04-20",
+  "published": "2001-05-07",
+  "in_force": "2001-05-07",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d36907b8cea78c902d4b04529b966915828f75975c75bbca0b278ee119b35a9e.docx",
+  "source_sha256": "d36907b8cea78c902d4b04529b966915828f75975c75bbca0b278ee119b35a9e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/765",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/04/20/244",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    2576,
+    2453
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
