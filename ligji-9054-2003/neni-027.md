@@ -1,0 +1,8 @@
+# Neni 27
+Shkëmbimi i informacionit
+1. Autoritetet kompetente të Shteteve Kontraktuese do të shkëmbejnë informacionet e nevojshme për zbatimin e dispozitave të kësaj Konvente ose të ligjeve të brendshme të Shteteve Kontraktuese lidhur me tatimet që mbulon Konventa, përderisa ato tatime nuk janë në kundërshtim me Konventën. Shkëmbimi i informacionit nuk kufizohet nga neni 1. Çdo informacion i marrë nga një Shtet Kontraktues do të trajtohet si sekret, në të njëjtën mënyrë si informacioni i marrë nën legjislacionin e brendshëm të atij shteti dhe do t’u serviret vetëm personave ose autoriteteve (përfshirë gjykatat dhe organet administrative) të përfshira në llogaritjen ose mbledhjen e tatimeve, me imponimin ose ndjekjet lidhur me shkeljet tatimore ose lidhur me ankesat ndaj tatimeve që mbulon Konventa. Këto persona ose autoritete do ta përdorin informacionin vetëm për të tilla qëllime. Ato mund ta servirin informacionin në procedurat apo vendimet gjyqësore.
+2. Në asnjë rast dispozitat e paragrafit 1 nuk do të interpretohen në kuptimin që i imponojnë njërit prej Shteteve Kontraktues detyrimin:
+a) të zbatojë masa administrative në ndryshim me ligjet dhe praktikat administrative të atij shteti apo të Shtetit tjetër Kontraktues;
+b) të japë informacione që ndalohen sipas ligjeve dhe praktikës normale administrative të atij Shteti apo të Shtetit tjetër Kontraktues;
+c) të japë informacione që mund të nxirrnin një sekret biznesi, tregtar, industrial ose profesional ose informacione, komunikimi i të cilave do të ishte në kundërshtim me politikën publike (rendin publik).
+3. Dispozitat e këtij neni, pavarësisht nga dispozitat e nenit 2, do të zbatohen ndaj tatimeve të çdo lloji dhe përshkrimi të vjelura prej Shteteve Kontraktuese.

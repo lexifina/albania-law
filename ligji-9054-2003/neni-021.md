@@ -1,0 +1,4 @@
+# Neni 21
+Pedagogët dhe kërkuesit shkencorë
+1. Një individ që është rezident i një Shteti Kontraktues menjëherë përpara vajtjes në Shtetin tjetër Kontraktues dhe që shkon në atë shtet me qëllimin kryesor të mësimdhënies ose përfshirjes në aktivitete kërkimore-shkencore në një universitet, kolegj ose institucion tjetër për mësimdhënie ose kërkim shkencor do të tatohet vetëm në shtetin e përmendur në fillim mbi të ardhurat e tij nga shërbimet personale nga kjo mësimdhënie ose kërkim shkencor për një periudhë që nuk i kalon dy vjet nga data e ardhjes së tij në shtetin tjetër.
+2. Dispozitat e paragrafit 1 nuk do të zbatohen ndaj të ardhurave nga kërkimet shkencore, nëse këto kërkime ndërmerren jo për interesin publik, por në radhë të parë për përfitime private të një personi ose personave të veçantë.

@@ -1,0 +1,7 @@
+# Neni 19
+Shërbimet qeveritare
+1. a) Pagat dhe shpërblime të tjera të ngjashme, të ndryshme nga pensionet, të paguara nga një Shtet Kontraktues ose nga një autoritet lokal atje, ose nga një institucion publik i tyre, një individi, lidhur me shërbimet e kryera atij shteti, autoriteti ose institucioni publik, do të tatohen vetëm në atë shtet.
+b) Megjithatë, këto paga dhe shpërblime të ngjashme do të tatohen vetëm në Shtetin tjetër Kontraktues, nëse shërbimet janë kryer në atë shtet dhe individi është rezident dhe nënshtetas i atij shteti, pa qenë në të njëjtën kohë nënshtetas i shtetit të përmendur në fillim.
+2. a) Çdo pension i paguar nga, apo prej fondeve të krijuara nga një Shtet Kontraktues ose autoritet lokal atje, ose nga një prej institucioneve të tyre publike, një individi, lidhur me shërbimet e kryera ndaj atij shteti, autoriteti apo institucioneve publike, do të tatohen vetëm në atë shtet.
+b) Megjithatë, këto pensione do të tatohen vetëm në Shtetin tjetër Kontraktues, nëse individi është rezident dhe nënshtetas i atij shteti, pa qenë në të njëjtën kohë nënshtetas i shtetit të përmendur në fillim.
+3. Dispozitat e neneve 15, 16 dhe 18 do të zbatohen ndaj pagave dhe shpërblimeve të tjera të ngjashme dhe ndaj pensioneve, lidhur me shërbimet e kryera në lidhje me një biznes të ushtruar nga një Shtet Kontraktues ose një autoritet lokal atje, ose nga një institucion i tyre publik.

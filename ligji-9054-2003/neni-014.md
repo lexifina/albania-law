@@ -1,0 +1,6 @@
+# Neni 14
+Shërbimet personale të pavarura
+1. Të ardhurat e realizuara nga një individ i cili është rezident i një Shteti Kontraktues, lidhur me shërbimet profesionale ose shërbime të tjera të ngjashme të një karakteri të pavarur do të tatohen vetëm në atë shtet, përveç në rrethanat që vijojnë, ku këto të ardhura mund të tatohen gjithashtu në Shtetin tjetër Kontraktues:
+a) nëse ai ka një bazë fikse në Shtetin tjetër Kontraktues që rregullisht i shërben atij për kryerjen e aktiviteteve të tij; në këtë rast, vetëm ajo pjesë e të ardhurave që i atribuohet asaj baze fikse mund të tatohet në atë shtet tjetër;
+b) nëse qëndrimi i tij në Shtetin tjetër Kontraktues është për një periudhë ose periudha që në total arrijnë ose kalojnë 183 ditë në çdo periudhë të vazhdueshme 12-mujore që fillon ose përfundon në vitin përkatës kalendarik; në këtë rast, vetëm ajo pjesë e të ardhurave të realizuara nga aktivitetet e tij të ushtruara në atë shtet tjetër mund të tatohen në atë shtet tjetër.
+2. Termi ”shërbime profesionale” përfshin në veçanti aktivitetet e pavarura shkencore, letrare, artistike, arsimore ose të mësimdhënies, si dhe aktivitetet e pavarura të mjekëve, avokatëve, inxhinierëve, arkitektëve, dentistëve dhe llogaritarëve.
