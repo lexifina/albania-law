@@ -1,0 +1,1 @@
+2. Për ministritë dhe institucionet qendrore, të cilat do të bëjnë shkurtime, numri i punonjësve të bëhet efektiv respektivisht nga datat 15 mars dhe 1 qershor të vitit 2003, sipas listës që i bashkëlidhet këtij vendimi.
