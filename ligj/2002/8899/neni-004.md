@@ -1,0 +1,5 @@
+# Neni 4
+Formula e privatizimit
+Struktura e formulës së privatizimit të INSIG sha-së është si më poshtë:
+1. Jo më shumë se 40 për qind e aksioneve transferohen nëpërmjet shitjes, me anë të negociatave me institucionet financiare ndërkombëtare, jo më vonë se 12 muaj nga data e hyrjes në fuqi të këtij ligji.
+2. Jo më pak se 60 për qind e aksioneve u shiten investitorëve strategjikë dhe subjekteve të sektorit privat shqiptar. Nga kjo paketë aksionesh ofrohen për shitje jo më pak se 51 për qind për investitorin strategjik dhe pjesa e mbetur u ofrohet për shitje subjekteve të sektorit privat shqiptar me ofertë publike. Përzgjedhja e investitorit strategjik për blerjen e aksioneve bëhet brenda 12 muajve nga data e hyrjes në fuqi të marrëveshjes për transferimin e aksioneve institucioneve financiare ndërkombëtare dhe, në asnjë rast, nuk mund të zgjasë më shumë se 24 muaj. Procedurat për shitjen e aksioneve për investitorët strategjikë, sipas parashikimeve të kësaj pike, bëhen nga Ministria e Financave dhe institucionet financiare ndërkombëtare, me cilësinë e aksionerëve në këtë shoqëri, procedura të cilat do të jenë ato të tenderit të hapur ndërkombëtar.
