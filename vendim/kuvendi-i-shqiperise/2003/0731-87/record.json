@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2211,
+  "title": "PËR ZGJEDHJEN E  NJË ANËTARI TË KOMISIONIT QENDROR TË ZGJEDHJEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "87",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-07-31",
+  "published": "2003-08-08",
+  "in_force": "2003-08-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/36c9e7ca5dc55d5f028393d8bc1a8edb4b2e2a3e11e4a97fa26317a343dafca8.docx",
+  "source_sha256": "36c9e7ca5dc55d5f028393d8bc1a8edb4b2e2a3e11e4a97fa26317a343dafca8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2211",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/07/31/87",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
