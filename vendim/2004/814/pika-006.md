@@ -1,0 +1,1 @@
+6. Normat e projektimit për sipërfaqet e banimit, të parashikuara në vendimin nr.567, datë 6.12.1993 të Këshillit të Ministrave “Për normat e projektimit të banesave”, nuk zbatohen për banesat që përdoren për programet sociale të strehimit.

@@ -1,0 +1,1 @@
+3. Individët me aftësi të kufizuar, të deklaruar nga komisionet përkatëse, që trajtohen sipas shkronjës “d” të nenit 5 të ligjit nr.9232, datë 13.5.2004 “Për programet sociale të strehimit të banorëve të zonave urbane”, të cilët kanë nevojë për përkujdesje, sipas ligjeve përkatëse, ku trajtohet statusi i tyre, përfitojnë 12.5m2 sipërfaqe banimi, e cila të jetë dhomë më vete.
