@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122975,
+  "title": "PËR STATUSIN E JETIMIT",
+  "type": "Ligj",
+  "number": "8153",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1996-10-31",
+  "version_no": 1,
+  "qbz_version_id": 10697,
+  "in_force": "2004-05-13",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2004-05-13",
+  "changed_by_qbz_id": 55914,
+  "changed_by_number": "9233",
+  "changed_by_title": "Për një shtesë të ligjit nr.8153, datë 31.10.1996 “Për statusin e jetimit”",
+  "source": "https://qbz.gov.al/files/d1b15baf275dd48bbbd71293e51afc782f9198ea4831a558c02081da63003d48.docx",
+  "source_sha256": "d1b15baf275dd48bbbd71293e51afc782f9198ea4831a558c02081da63003d48",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122975",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122975/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
