@@ -1,0 +1,1 @@
+3. Të drejtën e trajtimit sipas këtij vendimi e kanë ata punonjës që kanë qenë të punësuar në këtë shoqëri deri në çastin e kalimit të saj në konservim, pa ndërprerje, për një periudhë kohe jo më pak se 1 vit, e që nuk zhvillojnë veprimtari ekonomike në formën e punësimit apo vetëpunësimit. Në rast të kundërt, u ndërpritet trajtimi që përfitojnë sipas këtij vendimi.

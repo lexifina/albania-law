@@ -1,0 +1,1 @@
+1. Punonjësit që mbeten të papunë nga procesi i ristrukturimit të Albtransport sh.a., nga data e hyrjes në fuqi të këtij vendimi deri në çastin e dhënies me koncesion të shoqërisë, të trajtohen financiarisht për një periudhë dyvjeçare në masën 100 për qind të pagës bazë mujore, të shtesës së vjetërsisë në punë dhe për sigurimet e detyrueshme, në çastin e shkëputjes nga puna.

@@ -1,0 +1,1 @@
+4. Fondet financiare të nevojshme për kryerjen e pagesës për periudhën dyvjeçare dhe për sigurimet e detyrueshme të përballohen nga Albtransport sh.a. Pagesat e punonjësve të bëhen nga zyrat e punësimit në rrethet përkatëse, duke bërë kalimin e fondeve të mësipërme në Ministrinë e Punës dhe Çështjeve Sociale.
