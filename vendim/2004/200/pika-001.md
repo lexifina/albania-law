@@ -1,0 +1,1 @@
+1. Ministrisë së Transportit dhe të Telekomunikacionit, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 46 800 000 (dyzet e gjashtë milionë e tetëqind mijë) lekësh, për përballimin e pagesës së asistencës teknike për Njësinë e Menaxhimit të Projekteve të Transportit dhe Drejtorinë e Përgjithshme të Rrugëve, për periudhën shkurt-shtator 2004.
