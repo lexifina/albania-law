@@ -14,7 +14,7 @@ Në vendimin nr. 402, datë 11.6.2001 të Këshillit të Ministrave, në paragra
 
 - Shprehja "9 për qind e të ardhurave fikse prej 10 800 lekësh" zëvendësohet me shprehjen "2 335 lekë".
 
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.1.2001.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.1.2002.
 
 KRYEMINISTRI 
 
