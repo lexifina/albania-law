@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Ministria e Industrisë dhe e Energjetikës dhe Ministria e Rregullimit të Territorit dhe e Turizmit të jenë Organi Shtetëror i Autorizuar (OSHA) për negocimin e marrëveshjes së koncesionit dhe për kryerjen e procedurave ligjore për dhënien me koncesion të këtyre objekteve.
