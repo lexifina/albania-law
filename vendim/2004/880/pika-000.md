@@ -1,0 +1,2 @@
+Miratimin në parim të marrëveshjes specifike të përkrahjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Mbretërisë së Suedisë, për projektin për menaxhimin e mbetjeve të ngurta në Shqipëri, me projekt pilot qarkun e Korçës, me vlerë 15 000 000 (pesëmbëdhjetë milionë) kronor suedeze, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
