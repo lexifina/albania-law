@@ -1,0 +1,1 @@
+1. Bashkisë së Pogradecit t’i kalojnë në pronësi mjediset e drejtorisë rajonale të doganës, Pogradec, për t’u përdorur si muze, sipas hartës treguese të regjistrimit, planimetrisë e planvendosjes, që i bashkëlidhen këtij vendimi.
