@@ -1,0 +1,2 @@
+# Neni 2
+Forma e privatizimit të ”Armo” sha, Fier, të jetë ajo e transferimit tek të tretët të të drejtës së pronësisë së aksioneve të kapitalit të shoqërisë, nëpërmjet formave të parashikuara në këtë ligj, ose nëpërmjet transferimit të të drejtave të përdorimit dhe të zhvillimit të aseteve të shoqërisë me kontratë koncesioni, sipas formave të parashikuara në ligjin nr.7973, datë 26.7.1995 ”Për koncesionet dhe pjesëmarrjen e sektorit privat në shërbime dhe infrastrukturë”, i ndryshuar.

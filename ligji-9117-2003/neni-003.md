@@ -1,0 +1,2 @@
+# Neni 3
+Këshilli i Ministrave përcakton formën e privatizimit në përputhje me nenin 2 të këtij ligji dhe vendos për transferimin tek të tretët të aksioneve të kapitalit ose të transferimit të të drejtës së përdorimit dhe të zhvillimit për shoqërinë në tërësi ose për veprimtari të veçanta, duke përcaktuar garancinë kohore për përpunimin e naftës së prodhuar nga kompanitë vendase të paktën për pesë vjet.
