@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2206,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR SHKARKIMIN NGA DETYRA TË ZËVENDËSKRYEMINISTRIT DHE MINISTRIT TË PUNËVE TË JASHTME",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "82",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-07-28",
+  "published": "2003-08-08",
+  "in_force": "2003-08-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ce3a2947838fb875b172b870e1685b1ba09edd1b01c2840abbb1dd13604a4a13.docx",
+  "source_sha256": "ce3a2947838fb875b172b870e1685b1ba09edd1b01c2840abbb1dd13604a4a13",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2206",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/07/28/82",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
