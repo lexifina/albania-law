@@ -1,0 +1,1 @@
+1. Miratimin e Memorandumit të Mirëkuptimit dhe të Bashkëpunimit ndërmjet Këshillit të Ministrave dhe Komisionit Qendror të Zgjedhjeve “Për zgjedhjet për organet e qeverisjes vendore të vitit 2003”, i cili i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
