@@ -1,0 +1,27 @@
+{
+  "qbz_id": 121804,
+  "title": "PËR NËNDARJET NË BASHKI E KOMUNA DHE ORGANIZIMIN E FUNKSIONIMIN E BASHKISË SË TIRANËS",
+  "type": "Ligj",
+  "number": "7605",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1992-09-15",
+  "version_no": 1,
+  "qbz_version_id": 10576,
+  "in_force": "2000-07-31",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2000-07-31",
+  "changed_by_qbz_id": 311,
+  "changed_by_number": "8654",
+  "changed_by_title": "PËR ORGANIZIMIN DHE FUNKSIONIMIN E BASHKISË SË TIRANËS",
+  "source": "https://qbz.gov.al/files/d0bae20a2163781ec9a19202fab188ffaa6398cc03c065b061b979e2896faf15.docx",
+  "source_sha256": "d0bae20a2163781ec9a19202fab188ffaa6398cc03c065b061b979e2896faf15",
+  "official_record": "https://qbz.gov.al/api/v1/acts/121804",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/121804/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
