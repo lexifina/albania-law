@@ -1,2 +1,0 @@
-# Neni 15
-Oficerëve, që kryejnë detyra në prokuroritë dhe në gjykatat ushtarake ose në institucionet qendrore dhe në organet e qeverisjes vendore, gradat ushtarake deri në kolonel u jepen me urdhër të Ministrit të Mbrojtjes dhe me propozimin e drejtuesit të institucionit qendror përkatës, kurse gradat madhore u jepen me dekret të Presidentit të Republikës dhe me propozimin e drejtuesit të institucionit qendror përkatës.
