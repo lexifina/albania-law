@@ -1,0 +1,28 @@
+{
+  "qbz_id": 1321,
+  "title": "Për krijimin e komisionit të posaçëm për shqyrtimin e projektligjeve të paraqitura në kuvend për problemet e pronave",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "25",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-04-15",
+  "published": "2002-04-29",
+  "in_force": "2002-04-29",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/60c9428275f3ec4ecac3e45ed84370adc7feebca1925008de8078aa90c2230f1.docx",
+  "source_sha256": "60c9428275f3ec4ecac3e45ed84370adc7feebca1925008de8078aa90c2230f1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1321",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/04/15/25",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    1338
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
