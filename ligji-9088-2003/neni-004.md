@@ -1,0 +1,3 @@
+# Neni 4
+1. Pjesët përbërëse të importuara për riparimin e një automjeti të veçantë, tashmë i importuar përkohësisht, do të pranohen përkohësisht pa pagesën e tatimeve të importit dhe të taksave të importit, dhe pa ndalimet dhe kufizimet e importit. Palët Kontraktuese mund të kërkojnë që këto pjesë të mbulohen nga dokumentet e importimit të përkohshëm.
+2. Pjesët e këmbimit, të cilat nuk janë rieksportuar do t’u nënshtrohen tatimeve të importit dhe të taksave të importit, përveç, kur në përputhje me rregullat e vendit të përfshirë, ato mund t’i lihen falas thesarit ose të shkatërrohen nën mbikëqyrjen zyrtare, me shpenzimet e palëve të përfshira.

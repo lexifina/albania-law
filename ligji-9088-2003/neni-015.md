@@ -1,0 +1,2 @@
+# Neni 15
+Personat që kanë të drejtën e shërbimeve të importimit të përkohshëm, gjatë periudhës së vlefshmërisë së dokumenteve të importimit të përkohshëm, mund të importojnë automjetet e mbuluara nga ato dokumente aq shpesh sa të jetë e nevojshme, me kusht që ato të kenë secilin kalim (hyrje dhe dalje) të vërtetuar me anë të një vize të zyrtarëve të doganës së përfshirë, nëse autoritetet doganore e kërkojnë kështu. Dokumentet e importimit të përkohshëm mund të bëhen të vlefshme vetëm për një udhëtim të vetëm.

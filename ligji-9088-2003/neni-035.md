@@ -1,0 +1,3 @@
+# Neni 35
+1. Kjo Konventë do të hyjë në fuqi në ditën e nëntëdhjetë pas datës së depozitimit të instrumentit të pesëmbëdhjetë të ratifikimit ose të pranimit pa ndonjë rezervë ose me rezerva të pranuara në përputhje me nenin 39.
+2. Për çdo shtet ose organizatë integrimi ekonomik rajonal, ratifikues ose pranues i Konventës pas datës së depozitimit të instrumentit të pesëmbëdhjetë të ratifikimit ose të pranimit në përputhje me paragrafin e mëparshëm, Konventa do të hyjë në fuqi në ditën e nëntëdhjetë pas datës së depozitimit nga një shtet i tillë ose organizatë integrimi ekonomik rajonal të instrumentit të tij të ratifikimit ose të pranimit, ose pa ndonjë rezervë ose me rezerva të pranuara në përputhje me nenin 39.

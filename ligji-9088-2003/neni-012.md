@@ -1,0 +1,3 @@
+# Neni 12
+1. Automjetet e përmendura në dokumentet e importimit të përkohshëm do të rieksportohen në të njëjtën gjendje të përgjithshme përveç konsumimit, brenda periudhës së vlefshmërisë së dokumenteve të tilla. Në rastin e automjeteve, të cilat janë marrë me qira, autoritetet doganore të Palëve Kontraktuese do të kenë të drejtën të kërkojnë rieksportimin e automjetit, sapo qiramarrësi është larguar nga vendi i importimit të përkohshëm.
+2. Prova e rieksportimit do të jepet nga viza dalëse bashkëngjitur si duhet në dokumentet e importimit të përkohshëm nga autoritetet doganore të vendit në të cilin automjetet u importuan përkohësisht.
