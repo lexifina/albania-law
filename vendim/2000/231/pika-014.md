@@ -1,1 +1,1 @@
-14. Personat e përcaktuar në shkronjën ”b”, të pikës 11 të këtij vendimi, shpërblehen me 10 për qind të pagës së drejtorit të Departamentit të Administratës Publike. Të gjitha shpenzimet përballohen nga buxheti i institucionit që ka vendin e lirë.
+14. Personat e përcaktuar në shkronjën ”b” të pikës 11 të këtij vendimi shpërblehen në masën 6 500 (gjashtë mijë e pesëqind) lekë për çdo ditë angazhimi në testime. Të gjitha shpenzimet përballohen nga buxheti i institucionit për të cilin zhvillohet konkurrimi.
