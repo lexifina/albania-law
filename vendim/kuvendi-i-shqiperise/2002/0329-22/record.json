@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19938,
+  "title": "Mbi dhënien e pëlqimit për emërimin e Prokurorit të Përgjithshëm",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "22",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-03-29",
+  "published": "2002-04-05",
+  "in_force": "2002-04-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/37ec9daab64acae4b42e582b9ac380fa0a567ad98ae5aa72bb9eb9f274916bb2.docx",
+  "source_sha256": "37ec9daab64acae4b42e582b9ac380fa0a567ad98ae5aa72bb9eb9f274916bb2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19938",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/03/29/22",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
