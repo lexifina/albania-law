@@ -1,0 +1,1 @@
+1. Lejimin e ndërmarrjes eksport-import “Meico” Tiranë që, për fondin limit prej 10 000 000 (dhjetë milionë) lekësh, të përdorë procedurën “Prokurim i drejtpërdrejtë”, me shoqërinë “Agusta” S.p.A. Itali, për blerjen e pjesëve të këmbimit për helikopterët AB 205 dhe AB 206 të Ministrisë së Mbrojtjes për vitin 2004.
