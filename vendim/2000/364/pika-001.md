@@ -1,0 +1,1 @@
+1. Punonjësve që dalin të tepërt, si pasojë e zbatimit të marrëveshjes së koncensionit, për Uzinën e Ferrokromit, Elbasan dhe për minierat e kromit Përrenjas dhe Pojskë, t’u jepet një shpërblim i barabartë me pagën e 2 (dy) viteve. Si pagë do të merret paga mujore bazë dhe vjetërsia në punë, që kanë patur në çastin e shkëputjes nga puna.

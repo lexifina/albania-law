@@ -1,0 +1,1 @@
+3. Përfitojnë nga ky vendim ata punonjës të Uzinës së Ferrokromit, Elbasan dhe të minierave të kromit Përrenjas dhe Pojskë, të cilët kanë qenë të punësuar pranë këtyre njësive, pandërprerje, që nga 1.6.1999, e deri në periudhën e hyrjes në fuqi të këtij vendimi.

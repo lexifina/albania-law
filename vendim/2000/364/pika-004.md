@@ -1,0 +1,1 @@
+4. Shpërblimi i punonjësve që dalin të tepërt nga zbatimi i marrëveshjes së koncensionit për Uzinën e Ferrokromit, Elbasan dhe për minierat e kromit Përrenjas dhe Pojskë, do të bëhet nga sh.a., “Albkrom”, me 4 (katër) këste, të barabarta, në çdo 6 muaj. Kësti i parë do të jepet në muajin korrik 2000.
