@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65294,
+  "title": "PËR ZGJEDHJEN E DISA ANËTARËVE TË KËSHILLIT MBIKËQYRËS TË BANKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "148",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-10-07",
+  "published": "2004-10-21",
+  "in_force": "2004-10-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ed1ad581048a74155b39f9af0f57e2e8fd15e193d3fffd0c9fca2532150c06c5.docx",
+  "source_sha256": "ed1ad581048a74155b39f9af0f57e2e8fd15e193d3fffd0c9fca2532150c06c5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65294",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/10/07/148",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
