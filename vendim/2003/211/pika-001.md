@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pasurive të paluajtshme të pronarëve, të cilët preken nga rehabilitimi i segmentit rrugor Bogovë-Çorovodë, në qarkun e Beratit, ndërtim i cili ka filluar në vitin 2001 dhe do të përfundojë në dhjetor të vitit 2003.
