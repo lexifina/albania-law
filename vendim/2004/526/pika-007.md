@@ -1,0 +1,1 @@
+7. Pagat e përcaktuara si më sipër të indeksohen sipas rregullave të përcaktuara në vendimin nr.74, datë 12.2.2004 të Këshillit të Ministrave “Për rregullat e indeksimit të pagave”, dhe në masën e përcaktuar me vendimet përkatëse të Këshillit të Ministrave.

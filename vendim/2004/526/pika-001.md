@@ -1,0 +1,1 @@
+1. Struktura dhe nivelet e pagave për pozicionet “Kryeinspektor”, “Zëvendëskryeinspektor”, “Përgjegjës sektori”, “Inspektor” dhe “Specialist”, në Inspektoratin e Instituteve Private të Pensioneve Suplementare, të jenë sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

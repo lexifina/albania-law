@@ -1,0 +1,1 @@
+6. Punonjësit e tjerë të Inspektoratit të Instituteve Private të Pensioneve Suplementare të paguhen sipas lidhjes II-5 “Pagat bazë sipas klasave për punonjësit e ministrive dhe institucioneve të tjera qendrore”, miratuar me vendimin nr.726, datë 21.12.2000 të Këshillit të Ministrave “Për pagat e punonjësve të institucioneve buxhetore”, të ndryshuar.
