@@ -1,0 +1,1 @@
+1.Dhënien e lejes për hapjen e shkollës së lartë universitare, jopublike, ”New York University - Tirana”, sipas kritereve të përcaktuara në vendimin nr.156, datë 22.3.2001 të Këshilllit të Ministrave ”Për shkollat e larta jopublike në Republikën e Shqipërisë”.
