@@ -4,6 +4,10 @@ Nr.427, datë 11.6.2001
 
 PËR DISA NDRYSHIME NË VENDIMIN NR.60, DATË 27.2.1992 TË KËSHILLIT TË MINISTRAVE “PËR TRAJTIMIN ME PAGË DHE SHTESA MBI PAGË TË USHTARAKËVE”, NË VENDIMIN NR.54, DATË 27.2.1992 TË KËSHILLIT TË MINISTRAVE “PËR SISTEMIN E PAGAVE TË MINISTRISË SË RENDIT PUBLIK DHE USHTARAKËVE TË MINISTRISË SË DREJTËSISË” DHE NË VENDIMIN NR.56, DATË 27.2.1992 TË KËSHILLIT TË MINISTRAVE “PËR TRAJTIMIN ME PAGË DHE SHTESA MBI PAGË TË USHTARAKËVE NË SHËRBIMIN INFORMATIV KOMBËTAR”
 
+(Ndryshuar me VKM nr. 486, datë 14.8.2001)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 2 dhe 6 të ligjit nr.8487, datë 13.5.1999 “Për kompetencat për caktimin e pagave të punës”, me propozimin e Kryeministrit, të Zëvendëskryeministrit dhe Ministër i Punës dhe Çështjeve Sociale dhe të Ministrit të Financave, Këshilli i Ministrave
 
 V E N D O S I:
@@ -12,9 +16,9 @@ V E N D O S I:
 
 a) Në pikën 1, niveli më i ulët i pagës bëhet 9 720 lekë në muaj, kurse më i larti (zëvendëskomandant i Forcave Tokësore) bëhet 37 152 lekë në muaj.
 
-b) Në pikën 2, paga e ushtarëve, nxënësve dhe studentëve ushtarakë bëhet 1 080 lekë në muaj.
+b) Në pikën 2, paga e ushtarëve të shërbimit të detyrueshëm dhe të studentëve ushtarakë të jetë deri 1080 lekë në muaj.
 
-c) Në pikën 5 paragrafi i tretë, paga për ushtarin rezervist bëhet 756 lekë në ditë. 
+c) Në pikën 5 paragrafi i tretë, paga për ushtarin rezervist të jetë deri 756 lekë në ditë. Brenda këtij niveli, Ministria e Mbrojtjes të caktojë pagën për çdo rast, në varësi me vështirësinë e detyrës, me llojin e armës e të shërbimit.. 
 
 ç) Paga mujore për funksionet e mëposhtme bëhet:
 
