@@ -1,0 +1,28 @@
+{
+  "qbz_id": 900,
+  "title": "PËR FILLIMIN E PROCESIT TË PRIVATIZIMIT E TË RISTRUKTURIMIT DHE PËR PËRCAKTIMIN E FORMËS E TË STRUKTURËS SË FORMULËS SË PRIVATIZIMIT TË SHOQËRISË ANONIME “SERVCOM” FIER",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "372",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-05-27",
+  "published": "2001-06-19",
+  "in_force": "2001-06-19",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/30ce2d0678a4ed721ccc944b0f25d8de31c3dd9bf8b5c3f9a8962498f0839997.docx",
+  "source_sha256": "30ce2d0678a4ed721ccc944b0f25d8de31c3dd9bf8b5c3f9a8962498f0839997",
+  "official_record": "https://qbz.gov.al/api/v1/acts/900",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/05/27/372",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    1973
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
