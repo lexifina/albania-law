@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1267,
+  "title": "Për dhënie licence",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "69",
+  "institution": "Këshilli Kombëtar i Radiotelevizionit Shqiptar",
+  "adopted": "2001-12-18",
+  "published": "2002-01-15",
+  "in_force": "2002-01-15",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e3343eb3ced14795abbf52011888b05e8394695dea6ba9e51c4ec9cde8408575.docx",
+  "source_sha256": "e3343eb3ced14795abbf52011888b05e8394695dea6ba9e51c4ec9cde8408575",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1267",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/12/18/69",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
