@@ -1,0 +1,32 @@
+{
+  "qbz_id": 635,
+  "title": "PËR GARANTIMIN E SIGURISË SË PUNËS TË PAJISJEVE DHE TË INSTALIMEVE ELEKTRIKE",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "8734",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-02-01",
+  "published": "2001-02-26",
+  "in_force": "2001-03-13",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3f0ae8ff3e0984709db4224c4043ca01657de4a27fbd8e5d72801be2b7a3e548.docx",
+  "source_sha256": "3f0ae8ff3e0984709db4224c4043ca01657de4a27fbd8e5d72801be2b7a3e548",
+  "official_record": "https://qbz.gov.al/api/v1/acts/635",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/02/01/8734",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    59367,
+    19607,
+    14037,
+    4673,
+    1742
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
