@@ -1,0 +1,3 @@
+# Neni 6
+1. Ministria e Transportit dhe e Telekomunikacionit dhe Ministria e Ekonomisë ngarkohen me detyrimin të ndihmojnë shoqërinë në dhënien e të drejtave, autorizimeve dhe lejeve, në përputhje me pikën 2.5 (Autorizimet) të kontratës së koncesionit, me përjashtim të autorizimeve të dhëna falas, sipas pikës 2.5 të shtojcës 14 (Autorizimet e dhëna) të kësaj kontrate, të cilat jepen falas me hyrjen në fuqi të këtij ligji, dhe në përfitimin nga të drejtat e uzufruktit dhe të drejtat e servitutit të kalimit në zonën e koncesionit, të përcaktuara në kontratë, në zbatim të këtij ligji.
+2. Banka e Shqipërisë ngarkohet të miratojë hapjen e llogarive të shoqërisë koncesionare jashtë vendit, si dhe riatdhesimin e të ardhurave.
