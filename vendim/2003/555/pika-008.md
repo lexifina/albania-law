@@ -1,0 +1,1 @@
+8. Pagesa e punonjësve, që dalin të papunë nga zbatimi i këtij vendimi, si dhe e kontributeve për sigurimet shoqërore të bëhet nga zyrat e punës në rrethet përkatëse. Fondet e nevojshme për këtë qëllim, për vitin 2004, të programohen nga Ministria e Punës dhe e Çështjeve Sociale.

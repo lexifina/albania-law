@@ -1,0 +1,1 @@
+2. Ministria e Industrisë dhe e Energjetikës brenda muajit gusht 2003, të fillojë procedurat e hartimit të projekteve dhe të bëjë preventivat e mbylljes së minierave të përmendura në pikën 1, ndërsa mbyllja e tyre të realizohet gjatë vitit 2004.
