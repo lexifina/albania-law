@@ -1,0 +1,1 @@
+2. Ministria e Ekonomisë dhe Ministria e Rregullimit të Territorit dhe e Turizmit, me cilësinë e organit shtetëror të autorizuar, t’i transferojnë bashkisë së Kavajës të drejtën e përfaqësimit të pronarit për pronën shtetërore, nëpërmjet akteve ligjore të dorëzimit.

@@ -1,0 +1,1 @@
+1. Miratimin e Kontratës ndërmjet Ministrisë së Ekonomisë, Ministrisë së Rregullimit të Territorit dhe të Turizmit dhe shoqërisë AquaMundo GmbH për administrimin e ndërmarrjes së ujësjellës-kanalizimeve sh.a.-Kavajë.
