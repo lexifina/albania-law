@@ -1,0 +1,1 @@
+11. Mendimi i Departamentit të Administratës Publike, për institucionet e administratës qendore, apo mendimi i departamentit, drejtorisë, seksionit e zyrës së personelit, për institucionet e pavarura, sipas pikës 2, të nenit 25 të ligjit nr.8549, datë 11.11.1999, “Për statusin e nëpunësit civil” është këshillomor dhe futet në dosjen vetjake të nëpunësit.

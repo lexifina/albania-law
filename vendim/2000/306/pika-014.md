@@ -1,0 +1,1 @@
+14. Në rastin kur ndaj nëpunësit është marrë masa disiplinore e largimit nga shërbimi civil dhe komisioni vendos shfuqizimin apo ndryshimin e vendimit të eprorit të drejtpërdrejtë, nëpunësi merr pagën e plotë që nga çasti kur janë ndërprerë marrëdhëniet financiare.

@@ -1,0 +1,1 @@
+5. Eprori i drejtpërdrejtë, nëse e çmon të arsyeshme, mund të ftojë, në ditën e caktuar për shqyrtimin e shkeljes, dëshmitarë, për të sjellë fakte rreth çështjes. Nëpunësi dhe përfaqësuesi i tij kanë të drejtë të jenë të pranishëm kur dëshmitarët sjellin fakte dhe t’i pyesin ata për faktet e sjella prej tyre.

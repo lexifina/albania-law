@@ -1,0 +1,1 @@
+9. Një kopje e vendimit i dorëzohet nëpunësit, Departamentit të Administratës Publike për institucionet e administratës qendrore, departamentit, drejtorisë, seksionit, apo zyrës së personelit, për institucionet e pavarura, brenda 4 ditëve nga dhënia e tij.
