@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Entit Rregullator të Telekomunikacioneve, për vitin 2003, në shumën 155 000 000 (njëqind e pesëdhjetë e pesë milionë) lekë, sipas strukturës në lidhjen nr.1, që i bashkëlidhet këtij vendimi.
