@@ -1,0 +1,1 @@
+9. Nëpunësit, të cilët kanë kryer punë me përshkrim të njëjtë apo të ngjashëm, me përshkrimin e vendeve të reja, të krijuara apo të mbetura, dhe të ristrukturuara dhe që janë vlerësuar pozitivisht në dy vitet e fundit, do të mbahen në punë në kufirin e përgjithshëm të vendeve të miratuara.

@@ -1,0 +1,1 @@
+12. Menjëherë me dhënien e vlerësimit të dytë negativ, sipas dispozitave përkatëse për vlerësimin e rezultateve individuale në punë, eprori i drejtpërdrejtë i propozon Departamentit të Administratës Publike, për institucionet qendrore, apo drejtorisë, departamentit apo seksionit të personelit për institucionet e pavarura lirimin e nëpunësit nga shërbimi civil.

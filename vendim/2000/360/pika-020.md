@@ -1,0 +1,1 @@
+20. Nëpunësi duhet t’i bëjë pasardhësit dorëzimin e plotë të dokumentacionit, të pajisjeve dhe të mjeteve të punës në inventar, ose në pamundësi, eprorit të drejtpërdrejtë apo një nëpunësi tjetër civil, të cilit eprori ia delegon këtë detyrë.

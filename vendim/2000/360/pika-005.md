@@ -1,0 +1,1 @@
+5. Nëpunësi civil largohet nga shërbimi civil kur bëhet i paaftë, përgjithmonë, për të kryer detyrat për shkak të gjendjes shëndetësore. Paaftësia shëndetësore përcaktohet nga Drejtoria e Personelit, në bazë të çertifikatës së kontrollit shëndetësor dhe sipas kritereve të paaftësisë shëndetësore.

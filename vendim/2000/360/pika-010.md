@@ -1,0 +1,2 @@
+10. Nëpunësit e larguar, në kuadër të ristrukturimit të institucionit regjistrohen në një listë pritjeje, që mbahet nga Departamenti i Administratës Publike, për institucionet e administratës qendrore dhe nga departamenti, drejtoria apo seksioni i personelit, drejtoria e personelit e institucioneve të pavarura, të cilët, në rastin e parë, kur rezulton një vend i lirë dhe nëse kandidati plotëson kërkesat e veçanta për vendin e lirë, e emërojnë në atë vend, pa konkurim.
+Ndryshimi i kërkesave për vendin e punës

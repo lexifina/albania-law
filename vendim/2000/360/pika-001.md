@@ -1,0 +1,1 @@
+1. Nëpunësi largohet nga detyra edhe kur jep dorëheqjen. Afati i njoftimit të dorëheqjes është deri në 45 ditë. Në raste të justifikuara dhe me miratimin e eprorit të drejtpërdrejtë ky afat mund të jetë më i shkurtër, por jo me pak se 10 ditë.
