@@ -1,0 +1,1 @@
+7. Organizimi, drejtimi dhe kontrolli i procesit mësimor përcaktohen në statutin e kësaj shkolle. Struktura e Akademisë së Policisë dhe Statuti i saj miratohen nga ministri me propozim të Këshillit të Akademisë së Policisë.

@@ -1,0 +1,1 @@
+9. Emërimi dhe klasifikimi i personelit të Akademisë bëhet në përputhje me nenin 8 dhe 26 të ligjit, “Për Arsimin e Lartë në Republikën e Shqipërisë” dhe nenit 15 të ligjit, “Për Policinë e Shtetit”. Ndërsa për Institutin e Policisë bëhet sipas nenit 15 dhe 19 të ligjit, “Për Policinë e Shtetit”. Për personelin civil, klasifikimi bëhet sipas akteve ligjore në fuqi.

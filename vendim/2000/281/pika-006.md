@@ -1,0 +1,2 @@
+6. Në varësi të Akademisë së Policisë krijohet Instituti i Policisë, i cili ka për detyrë formimin profesional të punonjësve të policisë në rolin bazë, në një afat kohor një vit akademik. Kjo detyrë arrihet mbi bazën e realizimit të planeve e programeve nga strukturat përgjegjëse të këtij Instituti.
+Në përbërje të institutit të policisë janë edhe qendrat e kualifikimit të punonjësve të policisë në rolin bazë. Kualifikimi në këto qendra realizohet në një afat kohor nga dy deri në tetë javë.

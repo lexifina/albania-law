@@ -1,0 +1,1 @@
+13. Studentët dhe kursantët pas pranimit në Akademinë dhe Institutin e Policisë, bëjnë betimin dhe nënshkruajnë kontratën e pranimit sipas nenit 17 të ligjit, “Për Policinë e Shtetit” dhe Rregullores së Personelit të Policisë së Shtetit.
