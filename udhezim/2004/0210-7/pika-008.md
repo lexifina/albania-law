@@ -1,2 +1,0 @@
-8. Importuesit e vegjël
-Perveç shitësve me shumice, personat e tatueshëm që realizojnë një qarkullim më të vogël se 8 milionë lekë për çdo vit kalendarik, nuk janë të detyruar të regjistrohen për TVSH-në. Personat e tatueshëm që, kryejnë importe ose eksporte marrin NIPT për këto qëllime por, brenda vendit deklarojnë dhe paguajnë taksën vendore mbi biznesin e vogël dhe tatimin e thjeshtuar mbi fitimin. Për të realizuar këtë bëjnë një deklaratë në organet tatimore ku tregojnë se duan të mbesin subjekte të takses vendore mbi biznesin e vogël.

@@ -1,2 +1,0 @@
-9. Lotaritë, lojrat e fatit, sallat e lojrave, etj.
-Këto veprimtari janë furnizime shërbimesh të tatueshme dhe personat e tatueshëm që merren me to, nëqoftëse kryejnë një qarkullim më të madh se 8 milionë lekë për vit kalendarik janë të detyruar të regjistrohen për TVSH. TVSH e llogaritur për këto furnizime, përcaktohet në bazë të vleftës së arkëtimeve gjithsej. Kurse TVSH e pagueshme do të llogaritet si diferencë e TVSH së llogaritur si më lart me TVSH e paguar në blerje (në bazë të kopjeve origjinale të faturave të blerjes) nëqoftëse ka.
