@@ -1,0 +1,1 @@
+6. Punonjësit e tjerë të drejtorive arsimore rajonale dhe të zyrave arsimore të vazhdojnë të paguhen sipas lidhjes III-7/5 të urdhrit nr.4, datë 1.6.2001 “Për pagat e punonjësve të sistemit të Ministrisë së Arsimit dhe të Shkencës.”.

@@ -1,0 +1,1 @@
+1. Struktura dhe nivelet e pagave për pozicionet “Drejtor”, “Përgjegjës sektori” dhe “Specialist” në drejtoritë arsimore rajonale dhe zyrat arsimore të jenë sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
