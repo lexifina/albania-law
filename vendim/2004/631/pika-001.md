@@ -1,0 +1,1 @@
+1. Komiteti Shtetëror i Kthimit dhe Kompensimit të Pronave ish-pronarëve dhe Komisionet e Kthimit dhe Kompensimit të Pronave ish-pronarëve, deri në riorganizimin sipas ligjit nr.9235, datë 29.7.2004, të vazhdojnë të funksionojnë dhe të kryejnë detyrat, me strukturën dhe përbërjen ekzistuese.

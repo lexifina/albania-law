@@ -1,0 +1,1 @@
+6. Punonjësit e Komitetit Shtetëror të Kthimit dhe Kompensimit të Pronave ish-pronarëve dhe kryetari, nënkryetari e anëtarët e Komisioneve të Kthimit dhe Kompensimit të Pronave ish-pronarëve, emërohen, lirohen ose shkarkohen nga detyra nga kryetari i Komitetit Shtetëror të Kthimit dhe Kompensimit të Pronave ish-pronarëve.

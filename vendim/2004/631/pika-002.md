@@ -1,0 +1,1 @@
+2. Komisionet e Kthimit dhe Kompensimit të Pronave ish-pronarëve të shkëpusin çdo varësi nga prefekti i qarkut dhe të kalojnë në varësi të drejtpërdrejtë administrative të Komitetit Shtetëror të Kthimit dhe Kompensimit të Pronave ish-pronarëve.

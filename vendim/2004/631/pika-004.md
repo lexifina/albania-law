@@ -1,0 +1,1 @@
+4. Veprimet me arkivat dhe çdo dokumentacion tjetër i Komisioneve të Kthimit dhe Kompensimit të Pronave ish-pronarëve, të pezullohen menjëherë dhe ato t’i kalojnë në administrim dhe në përgjegjësi të plotë vetë komisioneve.

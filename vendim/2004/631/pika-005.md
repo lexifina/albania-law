@@ -1,0 +1,1 @@
+5. Mjediset ekzistuese ku ushtrojnë veprimtarinë Komiteti Shtetëror i Kthimit dhe Kompensimit të Pronave ish-pronarëve dhe të Komisioneve të Kthimit dhe Kompensimit të Pronave ish-pronarëve, mbeten në përdorim të tyre.

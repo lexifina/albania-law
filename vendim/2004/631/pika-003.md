@@ -1,0 +1,1 @@
+3. Pagesa e punonjësve dhe çdo trajtim tjetër ekonomik i Komisioneve të Kthimit dhe Kompensimit të Pronave ish-pronarëve deri në miratimin e buxhetit të ri, të vazhdojë të kryhet nga institucioni i prefektit të qarkut.
