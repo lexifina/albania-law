@@ -1,0 +1,1 @@
+5. Fletoret e punës për nxënësit e arsimit të detyruar, që nuk përdoren më shumë se një vit shkollor dhe tekstet shkollore të arsimit të mesëm, të subvencionohen nga shteti dhe të blihen nga nxënësit, me çmimin e përcaktuar në udhëzimin e përbashkët të Ministrisë së Arsimit dhe të Shkencës dhe të Ministrisë së Financave.

@@ -1,0 +1,1 @@
+3. Kostoja e plotë e botimit, shtypjes dhe shpërndarjes së teksteve, për vitin 2003, të mbulohet nga buxheti i miratuar për Ministrinë e Arsimit dhe të Shkencës, nga subvencioni i parashikuar për këto tekste dhe nga fondet e dhëna nga Banka Botërore, për projektin “Reforma në arsim I”, kredia nr.3343-ALB.

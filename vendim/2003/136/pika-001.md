@@ -1,0 +1,1 @@
+1. Marrjen në përdorim falas në bibliotekën e shkollës, duke filluar nga viti shkollor 2003-2004, të teksteve shkollore nga të gjithë nxënësit e arsimit të detyruar, me detyrimin që t’i dorëzojnë në fund të vitit mësimor.
