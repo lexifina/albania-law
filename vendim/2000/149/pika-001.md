@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve, sipas listave emërore, që i bashkëlidhen këtij vendimi, për sipërfaqen: truall 11026 m2 dhe tokë bujqësore 134 746 m2, që zë rehabilitimi i aksit rrugor “Durrës-Rrogozhinë“.
