@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3288,
+  "title": "PËR Shtesën e disa veprimtarive të lejuara për Bankën",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "84",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2004-12-28",
+  "published": "2004-12-31",
+  "in_force": "2004-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8f8269f90e4a59c03c732a25b947ec8f24e777d880a68edf35bdfd159c89ab7d.docx",
+  "source_sha256": "8f8269f90e4a59c03c732a25b947ec8f24e777d880a68edf35bdfd159c89ab7d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3288",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/12/28/84",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
