@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3010,
+  "title": "Për disa shtesa në vendimin nr.722, datë 19.11.1998 të Këshillit të Ministrave “Për miratimin e rregullores së urbanistikës”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "545",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-08-12",
+  "published": "2004-08-20",
+  "in_force": "2004-08-20",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f6bd4ea2d131eb141623d72a3a0c33f60ff257ba0fc6ea6cc56d1ef902ac3089.docx",
+  "source_sha256": "f6bd4ea2d131eb141623d72a3a0c33f60ff257ba0fc6ea6cc56d1ef902ac3089",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3010",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/08/12/545",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
