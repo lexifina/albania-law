@@ -8,3 +8,4 @@ dh) deklaratën personale, nëse ushtron veprimtari ekonomike ose jo;
 e) vërtetimin nga zyra e tatim-taksave, për regjistrimin ose jo, si person fizik apo juridik, të tatueshëm;
 ë) vërtetimin nga zyra e punës, nëse është i regjistruar ose jo, si i papunë ose përfiton pagesë papunësie;
 f) vërtetimin e bazës së vlerësuar.
+1.1 Për efekt trajtimi sipas këtij ligji, punonjës që kanë punuar në miniera në nëntokë konsiderohen punonjësit e nëntokës të minierave, të ndërmarrjeve të ndërtim-minierave dhe të gjeologjisë.
