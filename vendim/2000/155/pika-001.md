@@ -1,0 +1,2 @@
+1. Autorizohet Ministria e Rendit Publik të prokurojë, me proçedurën e prokurimit të drejtpërdrejtë, fondin prej 30 milionë lekësh, për furnizimin me ushqim të efektivit të aparatit të Ministrisë së Rendit Publik dhe të efektivit që trajnohet në qendrën e trajnimit, në Durrës.
+Trajtimi me ushqim i efektivit të aparatit të Ministrisë së Rendit Publik, të bëhet në Klubin e Ministrisë së Rendit Publik, ndërsa për efektivin e qendrës së trajnimit, në Durrës trajtimi të bëhet në shtëpinë e pushimit të Ministrisë së Rendit Publik, po në Durrës.
