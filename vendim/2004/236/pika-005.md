@@ -1,0 +1,2 @@
+5. Vendimet nr.550, datë 8.11.1993 ”Për normat e veshmbathjes së studentëve të Akademisë së Rendit”, nr.332, datë 2.6.1998 ”Për miratimin e uniformës dhe të stemës së policisë”, nr.333, datë 2.6.1998 ”Për miratimin e normës së veshmbathjes për policinë” dhe nr.629, datë 24.12.1999 ”Për miratimin e normës së veshmbathjes për Forcat Speciale dhe Forcat e Ndërhyrjes së Shpejtë” të Këshillit të Ministrave shfuqizohen.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
