@@ -1,0 +1,32 @@
+{
+  "qbz_id": 702,
+  "title": "PËR KRIJIMIN DHE FUNKSIONIMIN E STRUKTURAVE PËR ADMINISTRIMIN DHE MBROJTJEN E TOKËS",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8752",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-03-26",
+  "published": "2001-04-13",
+  "in_force": "2001-04-28",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3903acf8d1ffb22e3ecc9a7bae3f54f3fac0093144a0affcc1b95681a7820142.docx",
+  "source_sha256": "3903acf8d1ffb22e3ecc9a7bae3f54f3fac0093144a0affcc1b95681a7820142",
+  "official_record": "https://qbz.gov.al/api/v1/acts/702",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/03/26/8752",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29178,
+    11153,
+    7854,
+    19755,
+    2908
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
