@@ -1,0 +1,1 @@
+1. Miratimin e shpenzimeve operative, për vitin 2005, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe të Largimit e Përpunimit të Ujërave të Ndotura, sipas pasqyrës nr.1, që i bashkëlidhet këtij vendimi.
