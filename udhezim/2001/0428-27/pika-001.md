@@ -1,0 +1,1 @@
+1. Orari i punës i KZQV-ve dhe QRLZ-ve (Qendrave të Rishikimit të Listave të Zgjedhësve), gjatë gjithë periudhës së rishikimit të listave, duhet të jetë 8.00 - 12.00 paradreke dhe 15.00 - 19.00 mbasdite, pranë zyrave të bashkive, komunave apo njësive bashkiake përkatëse.

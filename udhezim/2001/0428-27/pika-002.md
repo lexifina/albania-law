@@ -1,0 +1,1 @@
+2. Gjatë periudhës së rishikimit të listave, anëtarët e KZQV-ve do të shkëpusin marrëdhëniet e punës që ato kanë me punëdhënësit e tjerë. Gjatë kësaj periudhe, në orën që përcaktohet në pikën nr.1 të këtij udhëzimi, ata do të punojnë pranë zyrave të bashkive, komunave apo njësive bashkiake.
