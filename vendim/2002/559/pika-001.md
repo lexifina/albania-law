@@ -1,0 +1,1 @@
+1. Miratimin e lejes së funksionimit të institucionit arsimor, jopublik fetar “Amaro Tan”, të nivelit parashkollor, kopësht dhe shkollë, të ciklit të ulët 8-vjeçar, klasa I-IV, në qytetin e Pogradecit.
