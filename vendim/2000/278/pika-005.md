@@ -1,0 +1,1 @@
+5. Struktura dhe organika e Institutit të Policisë Shkencore përcaktohen nga ministri i Rendit Publik, ndërsa efektet financiare që do të shërbejnë për veprimtarinë dhe funksionimin e këtij instituti të përballohen nga buxheti i Ministrisë së Rendit Publik për vitin 2000.

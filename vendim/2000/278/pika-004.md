@@ -1,0 +1,1 @@
+4. Të ardhurat e krijuara nga kryerja e ekspertimeve kriminalistike ndaj të tretëve do të administrohen nga Instituti i Policisë Shkencore, sipas kritereve të përcaktuara në vendimin nr.424, datë 9.7.1998, të Këshillit të Ministrave, “Për krijimin dhe administrimin e të ardhurave që krijojnë institucionet buxhetore”.

@@ -1,0 +1,1 @@
+3. Instituti i Policisë Shkencore kryen veprime edhe me kërkesën e organeve të drejtësisë, institucioneve të ndryshme, si dhe për personat juridikë e fizikë, kundrejt pagesës sipas tarifave të përcaktuara me akte të veçanta.
