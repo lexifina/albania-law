@@ -1,0 +1,1 @@
+2. Ministria e Rregullimit të Territorit dhe e Turizmit, Ministria e Ekonomisë dhe Ministria e Pushtetit Vendor dhe e Decentralizimit, me cilësinë e Organit Shtetëror të Autorizuar, të kryejnë transferimin e së drejtës së përfaqësimit të pronarit për pronën shtetërore te organet e qeverisjes vendore, nëpërmjet akteve të dorëzimit të objektit të kësaj kontrate.

@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së menaxhimit, ndërmjet ndërmarrjeve të ujësjellës-kanalizimeve të bashkive Durrës, Fier, Lezhë e Sarandë dhe shoqërive Berlin Wasser International AG e Berlin Wassert Holding AG, për sigurimin e shërbimeve të ujit dhe të kanalizimeve.
