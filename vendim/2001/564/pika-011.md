@@ -1,0 +1,1 @@
+11. Të drejtat që nxënësit dhe studentët përfitojnë sipas këtij vendimi i gëzojnë nga data e fillimit të vitit të ri shkollor apo akademik e deri në përfundim të tij, duke përfshirë dhe sezonin e provimeve. Në periudhën e pushimeve verore nxënësit dhe studentët nuk përfitojnë bursë ose gjysmë bursë, përveç rasteve të parashikuara në këtë vendim.

@@ -1,0 +1,3 @@
+7. Niveli i bursave dhe i kuotave financiare të ushqimit për të gjitha kategoritë e shkollave, të jetë sipas pasqyrave nr.3 dhe nr.4, ”Për nivelin e bursave dhe të kuotave financiare ditore”, që i bashkëlidhen këtij vendimi. Kuota ushqimore për nxënësit dhe studentët në lekë të jetë sipas pasqyrës nr.6 dhe kuota financiare në natyrë, për ushqim, e studentëve të jetë sipas pasqyrës nr.7, që i bashkëlidhen këtij vendimi.
+Për ata nxënës ku konviktet nuk funksionojnë si pasojë e shkatërrimeve të vitit 1997 bursa u jepet me lekë në dorë.
+Bursa e plotë dhe gjysmëbursa për studentët jepet me lekë në dorë.

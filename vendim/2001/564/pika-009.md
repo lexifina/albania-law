@@ -1,0 +1,2 @@
+9. Kur institucioni arsimor kryen zyrtarisht transferimin e së drejtës së studimit, bashkë me të transferon edhe planin e bursës që ka gëzuar studenti. Transferimi i bursës së nxënësit bëhet me miratimin e drejtorisë ekonomike pranë Ministrisë së Arsimit dhe Shkencës.
+Bursa dhe gjysmëbursa për vitet e para të shkollave 8-vjeçare, të mesme dhe të larta miratohet me vendim të këshillit bashkiak apo të komunës, ku ka vendbanimin e përhershëm nxënësi apo studenti.
