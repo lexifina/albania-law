@@ -1,0 +1,1 @@
+1. Miratimin e metodologjisë së rregullimit të tarifave të organizmave me fuqi të ndjeshme në treg, që ofrojnë shërbime publike telefonike të qëndrueshme dhe linja me qira, e cila i bashkëlidhet këtij vendimi.
