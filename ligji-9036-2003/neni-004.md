@@ -1,0 +1,9 @@
+# Neni 4
+Rezidenca
+1. Për qëllime të kësaj Konvente, termi “rezident i një Shteti Kontraktues” nënkupton çdo person që, sipas ligjeve të atij shteti, është subjekt i tatimeve atje për shkak të vendbanimit, rezidencës, vendit të drejtimit, vendit të regjistrimit apo çdo kriteri tjetër të një natyre të ngjashme, dhe gjithashtu përfshin atë shtet, njësitë administrativo-territoriale ose autoritetet lokale atje. Por, sidoqoftë, ky term nuk përfshin personat që i nënshtrohen tatimit në atë shtet vetëm për të ardhura nga burime në atë shtet apo kapitali i vendosur aty.
+2. Kur për shkak të dispozitave të paragrafit 1 një individ është rezident i të dy Shteteve Kontraktuese, atëherë statusi i tij do të përcaktohet si vijon:
+a) Ai do të konsiderohet rezident vetëm i shtetit në të cilin ai ka bërë një banesë të përhershme në dispozicion të tij. Në qoftë se ai ka një banesë të përhershme në dispozicion të tij në të dy shtetet, ai do të konsiderohet rezident vetëm i shtetit, me të cilin interesat e tij personale dhe ekonomike janë të lidhura më ngushtë (qendra e interesave jetike).
+b) Në qoftë se shteti, në të cilin ai ka qendrën e interesave jetike, nuk mund të përcaktohet ose në qoftë se ai nuk ka një banesë të përhershme në dispozicion të tij në asnjërin Shtet, ai do të konsiderohet rezident vetëm i shtetit, në të cilin ai qëndron zakonisht.
+c) Në qoftë se ai qëndron rregullisht në të dy shtetet ose në asnjërin prej tyre, ai do të konsiderohet rezident vetëm i shtetit, nënshtetas i të cilit ai është.
+d) Në qoftë se ai është nënshtetas i të dy shteteve ose i asnjërit prej tyre, autoritetet kompetente të Shteteve Kontraktuese do ta zgjidhin këtë çështje me mirëkuptim reciprok.
+3. Kur për shkak të dispozitave të paragrafit 1 një person joindivid është rezident i të dy Shteteve Kontraktuese, atëherë ai do të konsiderohet rezident vetëm i shtetit në të cilin është vendosur qendra e tij e drejtimit efektiv.

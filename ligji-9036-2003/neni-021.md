@@ -1,0 +1,4 @@
+# Neni 21
+Të ardhura të tjera
+1. Lloje të të ardhurave të një rezidenti të një Shteti Kontraktues, kudo që të krijohen, që nuk lidhen me nenet e mëparshëm të kësaj Konvente, do të tatohen vetëm në atë shtet.
+2. Dispozitat e paragrafit 1 nuk do të zbatohen ndaj të ardhurave, të ndryshme nga të ardhurat nga pasuria e paluajtshme të përcaktuara në paragrafin 2 të nenit 6, nëse përfituesi i këtyre të ardhurave, duke qenë rezident i një Shteti Kontraktues, ushtron aktivitet në Shtetin tjetër Kontraktues nëpërmjet një selie të përhershme të vendosur aty, ose kryen në atë shtet tjetër shërbime personale të pavarura nga një bazë fikse e vendosur aty, dhe e drejta ose pasuria lidhur me të cilën paguhet shpërblimi është efektivisht e lidhur me këtë seli të përhershme ose bazë fikse. Në këtë rast do të zbatohen dispozitat e nenit 7 ose 14 sipas rastit.

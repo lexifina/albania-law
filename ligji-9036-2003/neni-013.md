@@ -1,0 +1,7 @@
+# Neni 13
+Fitimet nga kapitali
+1. Fitimet e realizuara nga një rezident i një Shteti Kontraktues nga tjetërsimi i pasurive të paluajtshme që i referohen nenit 6 dhe të vendosura në Shtetin tjetër Kontraktues, mund të tatohen në atë shtet tjetër.
+2. Fitimet nga tjetërsimi i pasurive të paluajtshme që bëjnë pjesë në pasuritë e bisnesit të një selie të përhershme, që një sipërmarrje e një Shteti Kontraktues ka në Shtetin tjetër Kontraktues ose pasurive të luajtshme që i përkasin një baze fikse që një rezident i një Shteti Kontraktues ka në Shtetin tjetër Kontraktues për të kryer shërbime personale të pavarura, përfshirë edhe fitimet nga tjetërsimi i vetë selisë së përhershme (vetëm ose bashkë me sipërmarrjen) ose i bazës fikse, mund të tatohen në këtë shtet tjetër.
+3. Fitimet e realizuara nga një sipërmarrje e një Shteti Kontraktues nga tjetërsimi i anijeve ose avionëve, që veprojnë në trafikun ndërkombëtar ose i pasurive të luajtshme që i përkasin veprimtarisë së këtyre anijeve ose avionëve do të tatohen vetëm në atë shtet.
+4. Fitimet nga tjetërsimi i aksioneve të kapitalit të një shoqërie ose i pjesëmarrjes në një ortakëri ose kompani, pasuria e së cilës konsiston direkt ose indirekt kryesisht në pasuri të paluajtshme të vendosura në një Shtet Kontraktues, mund të tatohen në atë Shtet Kontraktues.
+5. Fitimet nga tjetërsimi i çdo pasurie që nuk mbulohet nga paragrafët e mësipërm të këtij neni, do të tatohen vetëm në Shtetin Kontraktues, rezident i të cilit është tjetërsuesi.
