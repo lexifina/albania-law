@@ -1,0 +1,4 @@
+2. Për efekt të llogaritjes së shpenzimeve të udhëtimeve dhe dietave, personat ndahen sipas funksioneve, në tre kategori:
+a) Në kategorinë e parë përfshihen personalitetet e larta shtetërore si: Presidenti i Republikës, Kryeministri, Kryetari i Kuvendit, Zëvendëskryeministri, Nënkryetari i Kuvendit, ministrat dhe funksionarë të tjerë që barazohen në pagë me ta, deputetët, zëvendësministrat, sekretarët e përgjithshëm të ministrive dhe funksionarë të tjerë, që barazohen me ta në pagë.
+b) Në kategorinë e dytë përfshihen: ambasadori, ministri fuqiplotë i ngarkuari me punë në shtete të huaja, konsulli i përgjithshëm, drejtorët e drejtorive në ministri dhe institucionet e tjera qendrore dhe funksionet e tjera, që barazohen në paga me ta, si dhe punonjësit që kanë titullin shkencor “profesor”.
+c) Në kategorinë e tretë përfshihen: të gjithë punonjësit e tjerë të ministrive, institucioneve dhe përfaqësive, që nuk përmenden në shkronjat “a” dhe “b”.
