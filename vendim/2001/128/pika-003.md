@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në lekë, me vlerë të plotë, sipas masës që paraqitet në tabelën, e cila i bashkëlidhet këtij vendimi, në shumën e përgjithshme prej 39 009 600 (tridhjetë e nëntë milionë e nëntë mijë e gjashtëqind) lekësh.
