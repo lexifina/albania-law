@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1742,
+  "title": "Për një ndryshim në ligjin nr.8734, datë 1.2.2001 “Për garantimin e sigurisë së punës të pajisjeve dhe të instalimeve elektrike”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8962",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-10-24",
+  "published": "2002-12-12",
+  "in_force": "2002-12-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/7351f9ab55a3f5f3877a16e985219e0576ec05220e63fde60f869cf8be8fcf53.docx",
+  "source_sha256": "7351f9ab55a3f5f3877a16e985219e0576ec05220e63fde60f869cf8be8fcf53",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1742",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/10/24/8962",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
