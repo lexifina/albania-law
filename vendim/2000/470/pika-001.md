@@ -1,0 +1,1 @@
+1. Banesat e ndërtuara dhe të blera, deri në fund të vitit 1999, me fondet e ish-shoqërisë “Albpetrol”, sh.a., si dhe objektet ndërtimore, të shndërruara në objektet banimi, që sot janë pronë e shoqërive “Albpetrol”, sh.a., “Armo”, sh.a. dhe “Servecom”, sh.a. t’i kalojnë Entit Kombëtar të Banesave.

@@ -1,0 +1,1 @@
+3. Shoqëria “Albanian Petrolium Coorporation”, sh.a, në Tiranë, shoqëritë “Albpetrol”, sh.a, “Armo”, sh.a. “Servocom”, sh.a, dhe Enti Kombëtar i Banesave, së bashku me degët e tij në rrethet përkatëse, të marrin masat përkatëse për realizimin e kalimin, me të gjithë dokumentacionin e nevojshëm.

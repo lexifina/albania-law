@@ -1,0 +1,1 @@
+2. Vlera e banesave, të ndërtuara e të blera, si dhe vlera e objekteve të kthyera në banesa, sipas lidhjeve 1 dhe 2, që i bashkëlidhen këtij vendimi, me kalimin e tyre Entit Kombëtar të Banesave, të llogariten si shlyerje e detyrimeve të prapambetura, që i ka buxhetit të shtetit ish-shoqëria “Albepetrol”, sh.a.
