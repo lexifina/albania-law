@@ -1,0 +1,1 @@
+1. Ministrisë së Bujqësisë dhe të Ushqimit, në buxhetin e miratuar për vitin 2004, zëri “Kosto lokale”, t’i shtohet fondi prej 9 000 000 (nëntë milionë) lekësh, për vazhdimin e financimit të projektit të regjistrimit fillestar të pasurive të paluajtshme për periudhën 15 tetor deri në fund të vitit 2004.
