@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes së koncesionit të formës ”ROT”, të lidhur ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Industrisë dhe e Energjetikës dhe Ministria e Ekonomisë, si Organ Shtetëror i Autorizuar (OSHA), dhe ”Yilmaz Kablo”, S.A.S, për uzinën e telave dhe të kabllove, Shkodër, sipas tekstit që i bashkëlidhet këtij vendimi.
