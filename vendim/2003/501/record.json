@@ -1,0 +1,26 @@
+{
+  "qbz_id": 60555,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.230, DATË 22.5.1999 TË KËSHILLIT TË MINISTRAVE “PËR STRUKTURËN DHE ORGANIKËN ANALITIKE TË ADMINISTRATËS DOGANORE”, I NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "501",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2003-07-18",
+  "published": "2003-07-31",
+  "in_force": "2003-07-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/bd254d59677c2d37b50d3b363a5115f2d9db7fda1ff76219b083e3551e2e1ec4.docx",
+  "source_sha256": "bd254d59677c2d37b50d3b363a5115f2d9db7fda1ff76219b083e3551e2e1ec4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60555",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/07/18/501",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
