@@ -1,0 +1,26 @@
+{
+  "qbz_id": 61789,
+  "title": "Për një shtesë në vendimin nr. 439, datë 4.8.2000 të Këshillit të Ministrave “Për hyrjen, qëndrimin dhe trajtimin e të huajve në Republikën e Shqipërisë”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "253",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-06-06",
+  "published": "2002-06-21",
+  "in_force": "2002-06-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/72c720b7d7d8b98ff36184d12c41df310031f6113423b193f1703a4aa8b952d9.docx",
+  "source_sha256": "72c720b7d7d8b98ff36184d12c41df310031f6113423b193f1703a4aa8b952d9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61789",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/06/06/253",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
