@@ -1,0 +1,1 @@
+6. Pagat për punonjësit e tjerë të Drejtorisë së Patentave dhe Markave caktohen sipas lidhjeve II-5 dhe II/M të vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave ”Për pagat e punonjësve të institucioneve buxhetore”, me ndryshimet përkatëse.
