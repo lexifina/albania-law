@@ -1,0 +1,1 @@
+2. Pronat me numër rendor inventari nga 9 në 15, të vazhdojnë të përdoren nga përdoruesit e sotëm, në bazë të aktmarrëveshjeve ose të rregullimeve të tjera ligjore ndërmjet tyre dhe Bashkisë së Librazhdit.
