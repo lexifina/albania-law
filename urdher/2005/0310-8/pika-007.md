@@ -1,0 +1,1 @@
+7. Të gjithë personat, që kanë detyrime kontraktuale të lidhura përpara datës së këtij urdhri me Fondacionin (Shoqata) “Ringjallja e Trashëgimisë Islame” (“Revival Of Islamic Heritage Society” - RIHS), depozitojnë në llogarinë e çelur pranë Bankës së Shqipërisë nga Ministria e Financave.
