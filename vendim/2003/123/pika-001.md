@@ -1,0 +1,1 @@
+1. Institucionet buxhetore, për fondet limit, të miratuara në Buxhetin e Shtetit të vitit 2003, të përdorin procedurën “Prokurim i drejtpërdrejtë”, me INSIG sh.a. për sigurimin e detyrueshëm, për përgjegjësitë ndaj palëve të treta, të mjeteve të tyre motorike.
