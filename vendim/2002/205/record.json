@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1376,
+  "title": "Për disa ndryshime në vendimin nr. 384, datë 20.5.1996 të Këshillit të Ministrave “Për mbrojtjen e të miturve në punë”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "205",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-05-09",
+  "published": "2002-05-17",
+  "in_force": "2002-05-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8c470f16196f6ab1fc9da787582be19711fda8dec1a58fdcfd4628a43bf9c6e7.docx",
+  "source_sha256": "8c470f16196f6ab1fc9da787582be19711fda8dec1a58fdcfd4628a43bf9c6e7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1376",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/05/09/205",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
