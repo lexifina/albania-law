@@ -1,0 +1,7 @@
+# Neni 16
+1. Personi juridik ose fizik nuk mund t’u shesë konsumatorëve ose t’i japë një personi tjetër, që nuk ka lidhje me veprimtarinë tregtare, substanca dhe preparate të rrezikshme, të klasifikuara sipas pikave 6, 12, 13 dhe 14 të nenit 5 të këtij ligji.
+2. Personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, nuk lejohen t’u shesin konsumatorëve ose t’i japin një personi tjetër substanca dhe preparate të rrezikshme, të klasifikuara sipas pikave 6, 7, 8 dhe 9 të nenit 5 të këtij ligji:
+a) personave nën moshën 18 vjeç;
+b) personave që u është hequr ose kufizuar zotësia juridike për të vepruar.
+3. Personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare nuk lejohen të shesin substanca dhe preparate të rrezikshme, të klasifikuara sipas pikave 6, 7, 8 dhe 9 të nenit 5 të këtij ligji, në vendqëndrime, në lëvizje, në makina automatike për shitje dhe në kontenierë, të caktuar nga blerësi.
+4. Personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, janë të detyruar që për shitjen e substancave dhe të preparateve të rrezikshme, të klasifikuara sipas pikave 6, 7, 8 dhe 9 të nenit 5 të këtij ligji, të sigurojnë vendosjen më vete të këtyre substancave dhe preparateve nga mallrat e tjera. Këto substanca dhe preparate duhet të mbahen vetëm në ambalazhe origjinale, të mbyllura dhe të pathyeshme. Në rastet e shitjes me vetëshërbim, këto mallra nuk lejohen të ekspozohen në vende ku mund të merren lirisht, ato duhet të jepen vetëm nga shitësi.

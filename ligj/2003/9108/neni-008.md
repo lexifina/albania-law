@@ -1,0 +1,18 @@
+# Neni 8
+Sistemi i laboratorëve të akredituar
+1. Vetitë e rrezikshme të substancave dhe preparateve, sipas këtij ligji, testohen vetëm nga persona juridikë ose fizikë, të autorizuar, të cilët janë të pajisur me certifikatë si laborator i akredituar për këtë qëllim.
+2. Personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, në mbështetje të pikës 1 të këtij neni, janë të detyruar t’i japin ministrisë përgjegjëse të gjitha të dhënat e nevojshme për plotësimin e kushteve, të lëshuara nga laboratori i akredituar për testimin e substancave të rrezikshme.
+3. Drejtoria e Përgjithshme e Standardizimit, kundrejt pagesës, pajis personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, me certifikatën e laboratorit të akredituar, në bazë të një aplikimi dhe më pas verifikon përputhjen me kërkesat e paraqitura në pikat 4 dhe 5 të këtij neni.
+4. Aplikimi përmban:
+a) emrin, mbiemrin, emrin e veprimtarisë tregtare, adresën, adresën e veprimtarisë tregtare dhe numrin e identifikimit të aplikantit;
+b) emrin, mbiemrin dhe numrin e certifikatës së lindjes së përfaqësuesit ligjor të qendrës së testimit;
+c) një vërtetim nga gjykata për përfaqësuesin ligjor të qendrës së testimit, të marrë gjatë tre muajve të fundit;
+ç) një deklaratë që aplikanti lejon ministrinë përgjegjëse të verifikojë certifikatën e laboratorit të akredituar.
+5. Personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, sipas pikës l të këtij neni, duhet t’i paraqesin ministrit përkatës një program, që siguron një sistem cilësie, sipas parimeve të laboratorit të akredituar.
+6. Pas verifikimit të përputhjes me praktikën e laboratorit të akredituar, ministri përkatës, sipas përcaktimit të pikës 2 të nenit 7 të këtij ligji, brenda 30 ditëve jep certifikatën e pajtimit me laboratorin e akredituar.
+7. Personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, sipas pikës 1 të këtij neni, të pajisur me certifikatën e laboratorit të akredituar, janë të detyruar të lejojnë personat e autorizuar të hyjnë në mjediset dhe ndërtesat që shërbejnë për testim dhe të japin të dhënat e kërkuara, në kuadër të kontrollit të përputhjes me parimet e praktikës së laboratorit të akredituar.
+8. Personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, të cilët janë të pajisur me certifikatën e pajtimit me parimet e praktikës së laboratorit të akredituar, janë të detyruar të paraqesin rezultatet e testimit, që vërtetojnë se testet janë kryer në përputhje me parimet e laboratorit të akredituar.
+9. Ministri përkatës i heq certifikatën e pajtimit si laborator i akredituar personit juridik ose fizik, të autorizuar për të ushtruar këtë veprimtari, në rast se ky person nuk përmbush qoftë edhe njërin nga kushtet, sipas të cilave është dhënë certifikata.
+10. Ministri përkatës vendos me rregullore parimet e pajtimit me praktikën e laboratorit të akredituar, procedurën për verifikimin e përputhjes, procedurën për dhënien ose heqjen e certifikatës dhe procedurën e kontrollit të përputhjes me parimet e laboratorit të akredituar.
+11.Certifikata e pajtimit të laboratorit të akredituar, e dhënë jashtë territorit të Republikës së Shqipërisë, ka të njëjtën vlerë me certifikatën e dhënë brenda këtij territori, në rast se plotëson të gjitha kushtet e vëna nga ky ligj dhe nga aktet e tjera normative.
+12. Ministritë e ngarkuara nga ky ligj mbajnë një listë të personave të pajisur me certifikatë të pajtimit me parimet e laboratorit të akredituar dhe e publikojnë këtë listë nga data 30 qershor deri më 31 dhjetor të çdo viti në Buletinin e Ministrisë së Mjedisit.

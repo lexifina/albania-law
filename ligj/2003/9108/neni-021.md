@@ -1,0 +1,9 @@
+# Neni 21
+1. Importi dhe eksporti i substancave dhe i preparateve të rrezikshme bëhen vetëm me leje të ministrit përkatës.
+2. Importuesit dhe eksportuesit janë të detyruar t’i kërkojnë ministrit përkatës miratimin e lejes për importin dhe eksportin e substancave dhe preparateve të rrezikshme, jo me pak së 60 ditë para datës së kryerjes së importit dhe eksportit. Përmbajtja e aplikimit për dhënien e lejes, sipas pikës 1 të këtij neni, përcaktohet më urdhër të ministrit.
+3. Dhënia e lejes, sipas pikave 1 dhe 2 të këtij neni, nuk është e nevojshme për substancat dhe preparatet e caktuara, që importohen ose eksportohen në sasi më të vogla se 1 kg për një vit kalendarik, nga një person juridik ose fizik, i autorizuar për kryerjen e veprimtarisë tregtare, për qëllime kërkimi shkencor dhe zhvillimi.
+4. Zyra e regjistrimit të kimikateve, në bazë të të dhënave të ministrive të ngarkuara, nga ky ligj, regjistron aplikimet për importin dhe eksportin e substancave dhe të preparateve të rrezikshme të caktuara, miratimet e dhëna, si dhe njofton Ministrin e Mjedisit për shkëmbimin ndërkombëtar të të dhënave për këto substanca.
+5. Menaxhimi i substancave dhe i preparateve të rrezikshme, të caktuara për veprimtari tregtare, kryhet sipas kushteve të nenit 14 të këtij ligji.
+6. Eksportuesi është i detyruar të vendosë mbi ambalazhin e substancave dhe të preparateve të rrezikshme, të caktuara për veprimtari tregtare, etiketat në gjuhën e vendit pritës ose të zonës, ku këto substanca e preparate do të përdoren.
+7. Importuesit dhe eksportuesit janë të detyruar t’u paraqesin autoriteteve doganore, për kontroll, dokumentet shoqëruese të substancave dhe të preparateve të rrezikshme, të caktuara për veprimtari tregtare.
+8. Miratimi për importin dhe eksportin e substancave dhe të preparateve të rrezikshme të caktuara, i dhënë sipas këtij ligji, nuk mund të zëvendësojë lejen për import ose eksport, të dhënë me ligj të veçantë.
