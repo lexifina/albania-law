@@ -4,7 +4,7 @@ Nr. 7978, datë 26.7.1995
 
 PËR FORCAT E ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË
 
-(Ndryshuar me ligjet; nr. 8183, datë 20.1.1997; nr. 8404, datë 15.9.1998; nr. 8670, datë 26.10.2000)
+(Ndryshuar me ligjet; nr. 8183, datë 20.1.1997; nr. 8404, datë 15.9.1998; nr. 8670, datë 26.10.2000; nr. 9047, datë 10.7.2003)
 
 (i përditësuar)
 
@@ -22,15 +22,15 @@ DISPOZITA TË PËRGJITHSHME
 
 Neni l
 
-Forcat e Armatosura mbahen për mbrojtjen e sovranitetit dhe integritetit territorial të Republikës së Shqipërisë si dhe të rendit kushtetues të saj. Ato përbëhen nga Ushtria, Forcat e Ministrisë së Brendshme dhe Forcat e Shërbimit Informativ Kombëtar.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 2
 
-Organizimi dhe veprimtaria e Forcave të Armatosura bazohet në Kushtetutë, në ligjet dhe në aktet nënligjore përkatëse.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 3
 
-Ushtria është forca kryesore e armatosur për mbrojtjen e Atdheut nga agresioni ushtarak i jashtëm. Ajo përbëhet nga Forcat Tokësore, Forcat e Mbrojtjes Ajrore, Forcat e Mbrojtjes Detare dhe Forcat Territoriale.                                                                     
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 4
 
@@ -44,99 +44,47 @@ SHËRBIMI USHTARAK
 
 Neni 5
 
-Shërbimi ushtarak është e drejtë dhe detyrë për çdo shtetas shqiptar për mbrojtjen e Atdheut, Republikës së Shqipërisë.
-
-Me hyrjen në shërbimin ushtarak, ushtarakët bëjnë betimin ushtarak me formulën:
-
-“Si pjesëtar i Forcave të Armatosura të Republikës së Shqipërisë betohem se do të jem ushtarak besnik i popullit tim, luftëtar i denjë, trim e i disiplinuar, do të zbatoj kërkesat e Kushtetutës e të ligjeve dhe do të jem i gatshëm në çdo kohë e në çdo vend duke mos kursyer as jetën time për mbrojtjen e Atdheut.
-
-Ndëshkimi më i rëndë i ligjeve le të më jepet, në qoftë se shkel këtë betim solemn. Betohem”   
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 6
 
-Shtetasit shqiptarë, kudo që ndodhen, janë të detyruar të kryejnë shërbimin ushtarak aktiv ose rezervist në Republikën e Shqipërisë. Shërbimi ushtarak kryhet personalisht.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 7
 
-Shtetasit shqiptarë që mbushin moshën l6 vjeç merren në evidencë nga dega e mobilizimit.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 8
 
-Shërbimi i detyrueshëm ushtarak aktiv kryhet nga shtetasit e moshës l9 deri 32 vjeç.
-
-Në rastet kur shtetasi shmanget nga kryerja e shërbimit të detyrueshëm ushtarak aktiv, ndërkohë që është i regjistruar në listën e transportimit nën armë, pa mbushur moshën 32 vjeç, përveç sanksioneve të tjera të parashikuara me ligj, ai detyrohet të kryejë shërbimin e detyrueshëm ushtarak aktiv deri në moshën 40 vjeç. 
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 9
 
-Shërbimi i detyrueshëm ushtarak rezervë kryhet nga shtetasit e moshës deri në 55 vjeç, pasi kanë kryer shërbimin ushtarak aktiv ose e kanë kaluar moshën 40 vjeç pa kryer shërbimin e detyrueshëm ushtarak aktiv.
-
-Për nevojat e mbrojtjes kryejnë shërbim ushtarak rezervë vullnetarisht edhe shtetaset femra në moshë l9-40 vjeç.Për specialitete të veçanta deri 45 vjeç.
-
-Në rast mobilizimi të përgjithshëm, mosha e shërbimit të detyrueshëm ushtarak aktiv e rezervë ndryshon në përshtatje me situatat dhe nevojat e Forcave të Armatosura me ligj të Kuvendit Popullor ose me dekret të Presidentit të Republikës.                                
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)                         
 
 Neni 10
 
-Thirrja për kryerjen e shërbimit ushtarak aktiv fillon nga data që shtetasi mbush moshën l9 vjeç.                        
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 11
 
-Shtetasit shqiptarë të moshës l6-32 vjeç, kudo që ndodhen edhe kur nuk janë lajmëruar, detyrohen të paraqiten vetë në degën e mobilizimit për regjistrim, të pajisur me librezë ushtarake gati për kryerjen e shërbimit të detyrueshëm ushtarak aktiv.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 12
 
-Shtetasi që është vënë në thirrje për kryerjen e shërbimit të detyrueshëm ushtarak aktiv, nuk pajiset me pasaportë për jashtë shtet. 
-
-Shtetasi shqiptar kur do të largohet jashtë shtetit, para largimit detyrohet të nënshkruajë me degën përkatëse të mobilizimit përkatës kontratën për kohën e kryerjes së këtij shërbimi.
-
-Kontrata të nënshkruhet nga kryetari i degës përkatëse të mobilizimit, prindi(kujdestari)kur shtetasi nuk ka mbushur moshën 18 vjeç dhe vetë shtetasi.
-
-Për rastet kur shtetasi që është vënë në thirrje ka mbushur moshën 18 vjeç kontrata nënshkruhet nga kryetari i degës përkatëse të mobilizimit dhe vetë shtetasi.
-
-Në kontratë përcaktohet afati i largimit për jashtë shtetit dhe i paraqitjes në degën përkatëse të mobilizimit mbas kthimit si dhe detyrimi në rast se kontrata shkelet. Kontrata lidhet për një afat deri në dy vjet.
-
-Kushtet e kontratës dhe detyrimet përcaktohen me vendim të Këshillit të Ministrave.
-
-Urdhëri për shlyerjen e detyrimit të parashikuar në kontratë përbën titull ekzukutiv.
-
-Organet e rendit të mos paijsin me pasaportë shtetasin pa paraqitur dokumentin nga dega përkatëse e mobilizimit që vërteton se shtetasi ka bërë ndryshimet në Degën e mobilizimit.                                                            
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni l3
 
-Rezervistët që largohen jashtë shtetit për punësim ose për arsye të tjera mbi 6 muaj detyrohen të paraqiten më parë në degën përkatëse të mobilizimit për të bërë veprimet në evidencë. Brenda 60 ditëve të largimit jashtë shtetit ata detyrohen të paraqiten në përfaqësitë konsullore ose diplomatike shqiptare për t’u marrë në evidencë.
-
-Këto të fundit bëjnë veprimet për marrjen në evidencë dhe brenda 60 ditëve njoftojnë Ministrinë e Mbrojtjes.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni l4 
 
-Koha e shërbimit të detyrueshëm ushtarak në Forcat e Armatosura është:
-
-a) Për ushtarët aktivë         - 12 muaj; 
-
-b) Për ushtarët rezërvistë     -  6 muaj;
-
-c) Për nënoficerët rezervistë  -  7 muaj;
-
-d) Për oficerët rezervistë     -  8 muaj
-
-Shërbimi i detyrueshëm ushtarak i rezervistëve kryhet pas kryerjes së shërbimit ushtarak aktiv, zakonisht një muaj në çdo katër vjet.
-
-e) Teknika, automjetet dhe kafshët mund të merren për stërvitje e prova gatishmerie deri gjysmën e kohës së thirrjes të efektivit te repartit (nënrepartit) ushtarak ku janë në organikë.
-
-Në rast mobilizimi të pjesshem ose të përgjithshëm, koha e shërbimit ushtarak zgjatet edhe për aq kohë sa vazhdon ky mobilizim, me ligj ose me dekret të Presidentit të Republikës.
-
-Për kohën e shërbimit të detyrueshëm ushtarak rezervist, të thirrurit nën armë paguhen nga qendrat ku janë të punësuar efektivisht.  
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 15
 
-Shtetasit shqiptarë që janë të aftë e brenda moshës për kryerjen e shërbimit ushtarak aktiv, mund të përjashtohen nga shërbimi i detyrueshëm ushtarak duke paguar personalisht një sasi të caktuar parash.
-
-Kriteret dhe shuma e detyrimit në këto raste caktohen me vendim te Këshillit të Ministrave.
-
-Shtetasit shqiptarë që ndodhen jashtë shtetit për punësim, kur thirren për kryerjen e shërbimit të detyrueshëm ushtarak aktiv, për ta shtyrë një vit këtë shërbim, duhet t’i paguajnë shtetit një shumë të caktuar parash.
-
-Atyre që ju jepet leje për 1 vit, në qoftë se vitin e dytë nuk paraqiten dënohen me burgim sipas paragrafit të fundit të këtij neni.
-
-Shtetasit shqiptarë që janë brenda moshës së shërbimit te detyrueshëm ushtarak aktiv dhe nuk i përgjigjen detyrimit për pagesë ose nuk paraqiten për të kryer shërbimin e detyrueshëm ushtarak aktiv dënohen me burgim nga 6 muaj deri në 4 vjet.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 16
 
@@ -144,100 +92,48 @@ Neni 16
 
 Neni l7
 
-Kur shtetasit shqiptarë që janë thirrur për të kryer shërbimin e detyrueshëm ushtarak aktiv kanë kushte të rënda ekonomike familjare, shteti merr masa për ndihmë ekonomike-sociale.
-
-Kushtet dhe kriteret e dhënies së kësaj ndihme përcaktohen me vendim të Këshillit të Ministrave.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 18
 
-Thirrja e shtetasve për kryerjen e shërbimit të detyrueshëm ushtarak aktiv, caktimi i tyre në armët e shërbimet e FA bëhet nga dega e mobilizimit. Koha e thirrjes, lirimi dhë mënyra e organizimit të mobilizimit ushtarak bëhet me urdhër të ministrit të Mbrojtjes.
-
-Për përcaktimin e aftësive fiziko-shëndetësore dhe kryerjen e shërbimit te detyrueshëm ushtarak aktiv e rezervë, pranë degëve të mobilizimit krijohen komisione, përbërja dhe detyrat e të cilave caktohen nga ministri i Mbrojtjes.
-
-Në qoftë se komisioni vendos që shtetasi të përjashtohet nga shërbimi i detyrueshem ushtarak aktiv, rasti shqyrtohet detyrimisht nga komisioni epror i Spitalit Qendror të Ushtrise. Kur ky komision është i një mendimi me komisionin e bazës, vendimi së bashku me dokumentet përkatese i dergohen ministrit të Mbrojtjes.
-
-Raporti hyn në fuqi me firmosjen nga ministri i Mbrojtjes.
-
-Organet dhe institucionet e ndryshme shtetërore vënë në dispozicion të komisioneve ushtarako-mjekësore personelin mjeksor, pajisjet dhe medikamentet sipas kërkesave të degëve të mobilizimit.
-
-Vënia në dispozicion e personelit mjekësor, pajisjeve, medikamenteeve dhe shpërblimi për to rregullohet me vendim të Këshillit të Ministrave.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 19
 
-Ushtarakët përfitojnë shërbim shëndetësor falas në të gjitha institucionet shëndetësore shtetërore.
-
-Kriteret e përfitimit të këtij shërbimi përcaktohen me vendim të Këshillit te Ministrave.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 20
 
-Shtetasit që thirren për kryerjen e shërbimit të detyrueshëm ushtarak aktiv, paraqiten në vendin dhe në afatin e caktuar. 
-
-Lajmërimi i shtetasve bëhet me fletëthirrje (listë thirrje) dhe me anë të radios e të televizionit shtetëror.
-
-Me kërkesë të kryetarit të degës së mobilizimit ata që nuk paraqiten mbas këtij njoftimi sillen të shoqëruar nga policia e rendit.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 21
 
-Shtetasi që është duke vuajtur dënimin me heqje të lirisë, nuk thirret për të kryer shërbimin e detyrueshëm ushtarak aktiv e rezervë             
-
-Gjykata, kur jep dënim me burgim ndaj shtetasve që i nënshtrohen shërbimit të detyrueshëm ushtarak aktiv e rezervë, dhe organet përkatëse që kanë filluar ndjekjen penale ndaj tyre, brenda l0 ditëve, i dërgojnë njoftim degës së mobilizimit që e ka në evidencë shtetasin. Komandat e reparteve të riedukimit, me lirimin e personave të dënuar, njoftojnë degët e mobilizimit përkatëse brenda 15 diteve.
-
-Komandat e riedukimit, 30 ditë përpara lirimit të të dënuarit, në rastet kur ky nuk ka kryer shërbimin e detyrueshëm ushtarak, njoftojnë degët e mobilizimit të cilat detyrohen të marrin kontakt me të dënuarin, evidencojne të dhënat e nevojshme dhe i caktojnë atij datën e paraqitjes për të kryer shërbimin e detyrueshëm ushtarak aktiv.
-
-Shërbimi ushtarak aktiv në këto raste është i detyruar për të gjithë shtetasit deri në moshën 40 vjeç.  
-
-Degët e mobilizimit njoftohen brenda 15 ditëve nga organet përkatëse edhe në rastet e pushimit të çështjes penale, të ndryshimit të arrestimit si masë sigurimi dhe kur jepet pafajësi.
-
-Kur shtetasi, gjatë kohës së kryerjes së shërbimit të detyrueshëm ushtarak aktiv, dënohet me burgim, dhe kur largohet pa leje nga reparti gjatë kohës së kryerjes së shërbimit, koha e vuajtjes së dënimit penal dhe koha e largimit pa leje nga reparti nuk llogariten në afatin e kryerjes së shërbimit ushtarak.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 
 Neni 22
 
-Lirimi para kohe nga shërbimi i detyrueshëm ushtarak aktiv për ata që deklarohen të paaftë për shkaqe shëndetësore, bëhet me vendim të komisionit mjekësor ushtarak epror. Ky vendim hyn në fuqi pasi firmoset nga ministri i Mbrojtjes.
-
-Raportet mjekësore qe u jepen ushtarakëve (ushtarëve dhe rezervistëve) për paftësi të përkohshme deri në dy muaj konfirmohen nga komisioni mjekësor i degës së mobilizimit të rretheve dhe shërbimi shëndetësor i njësisë ndërsa mbi dy muaj konfirmohen nga Spitali Qendror i Ushtrisë.
-
-Koha e paaftësisë së përkohshme për shërbim të detyrueshëm ushtarak aktiv deri në 6 muaj llogaritet në kohën e shërbimit ushtarak aktiv, ndërsa kur kjo paaftësi zgjat mbi 6 muaj, periudha mbi 6 muaj nuk llogaritet në kohën e shërbimit të detyrueshëm ushtarak.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 23
 
-Kryerja e shërbimit ushtarak aktiv për studentët e shkollave të larta ushtaraketë fillon nga dita e pranimit në shkollë. Kur studenti ndërpret studimet për shkaqe të papërligjura dhe afati i kryerjes së shërbimit ushtarak nuk është plotësuar dërgohet për ta plotësuar atë në repartet e ushtrisë.                  
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 24
 
-(Shtuar paragrafi i tretë me ligjin nr. 8183, datë 20.1.1997)
-
-Shtetasit që studiojnë në shkollat e larta me shkëputje nga puna, brenda dhe jashtë vendit, thirren për kryerjen e shërbimit të detyrueshëm ushtarak aktiv menjëherë pas përfundimit të studimeve. Ata që nuk përfundojnë shkollën e lartë brenda moshës 32 vjeç, ndërpresin studimet dhe thirren për kryerjen e këtij shërbimi. Shtetasit që mbarojnë arsimin e lartë e kryejnë shërbimin ushtarak në reparte speciale në përputhje me kualifikimin e tyre.
-
-Për shtetasit që mbarojnë studimet e larta universitare me shkëputje nga puna deri në 31 dhjetor të vitit 2000, koha e shërbimit të detyrueshëm ushtarak aktiv është 6 muaj, me përjashtim të rasteve të parashikuara ne neniet 24/a dhe 24/b të ligjit nr. 7527, datë 11.12.1991 “Për shërbimin ushtarak në Forcat e Armatosura të Republikës së Shqipërisë”.
-
-Shtetasit që kanë përfunduar dhe që do të përfundojnë studimet e larta me shkëputje nga puna brenda dhe jashtë vendit, kur kanë bërë në shkollën e mesme programet e plota të edukimit ushtarak, përjashtohen nga shërbimi i detyrueshëm ushtarak aktiv.
+(Shtuar paragrafi i tretë me ligjin nr. 8183, datë 20.1.1997; shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 25
 
-Shtetasit shqiptarë kur thirren për shërbim ushtarak aktiv ose rezervë për stërvitje, forma të tjera të përgatitjes ushtarake dhe për kushtrim e mobilizim të pjesshëm a të përgjithshëm, njoftohen nga bashkia e komunat me kërkesën që paraqesin degët e mobilizimit ose komandat e njësive e reparteve sipas rregullave që përcaktohen me vendim të Këshillit të Ministrave.
-
-Shtetasit shqiptarë që ndodhen jashtë shtetit për punësim, shërbim ose arsye të tjera, në rast shpallje të mobilizimit të pjesshëm ose të përgjithshëm, detyrohen të kthehen në atdhe. Lajmërimi i tyre bëhet nga konsullata (përfaqësia diplomatike) shqiptare sipas kërkesave dhe kritereve të përcaktuara nga ministri i Mbrojtjes.
-
-Përjashtim bëjnë vetëm të shtruarit në spitale ose me raporte paaftësie të vërtetuara nga një komision mjekësor. Me daljen nga spitali ose përfundimin e raportit ai paraqitet menjëherë sipas thirrjes.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 26
 
-Plotësimi i njësive ushtarake me rezervistë, automjete, kafshë e teknikë tjetër të nevojshme bëhet mbi bazë territori të rrethit dhe kur është e nevojshme edhe jashtë tij.
-
-Organet e pushtetit lokal për rastet e provave të gatishmërisë, mobilizimit të pjesshëm a të përgjithshëm detyrohen të organizojnë mbi bazë lagje, rruge, fshati, komune, bashkie, rrethi etj., sistemin e lajmërimit me korrier mjete sinjalizuese e forma të tjera për njoftimin dhe paraqitjen e të mobilizuarve në kohën dhe vendin e duhur.
-
-Kriteret për organizimin e këtij sistemi përcaktohen nga Këshilli i Ministrave.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 27
 
-Nuk marrin pjesë në stërvitje, kushtrim ose forma të tjera të përgatitjes ushtarake.
-
-a) Deputetët, ministrat, titullarët e institucioneve qendrore, prefektët, kryetarët e këshillave të rretheve e bashkive, kryetari i Gjykatës Kushtetuese, kryetari i Gjykatës së Kasacionit, kryetarët e Gjykatave të Apelit e të rretheve,prokurorët e rretheve, ata që ndodhen jashtë shtetit në përfaqësitë tona, për studime ose kurime, dhe të gjithë ata, që nga ministritë ose institucionet e tjera qendrore përcaktohen si persona që kanë detyra kritike, ndërprerja e të cilave dëmton rëndë sektorët jetikë të shtetit ose të ekonomisë. Përjashtohen edhe ato organizma që veprojnë në situatë të veçantë, të përcaktuara me vendim te Këshillit të Ministrave.  
-
-b) Të sëmuret që vërtetojnë paaftësinë e përkohshme me raporte të komisionit mjekësor, të shtruarit në spital.                      
-
-c) Të arrestuarit e të denuarit me burgim, për gjithë periudhën e arrestimit e të vuajtjes së dënimit.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 KREU III
 
@@ -269,81 +165,55 @@ EVIDENCA USHTARAKE
 
 Neni 33   
 
-Në çdo prefekturë mbi bazë territori e rrethi funksionojnë një ose disa degë mobilizimi.
+  (Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
-Këto degë krijojnë evidencat e nevojshme për mobilizimin e resurseve (me njerëz, kafshë, teknikë etj.) dhe veprojnë mbi bazën e dispozitave ligjore në fuqi dhe të rregullores përkatëse.       
+                                                         Neni 34
 
-Neni 34
-
-Degët e mobilizimit për problemet e plotësimit, të evidencimit, të planifikimit dhe të përdorimit të kontingjenteve njerëzore, të kafshëve, të automjeteve, të traktorëve dhe të teknikës tjetër, si dhe për përgatitjen tekniko-profesionale të personelit varen nga Ministria e Mbrojtjes (Drejtoria e Organizimit Ushtarak).
-
-Për problemet e plotësimit të njësive, të reparteve dhe institucioneve ushtarake, për organizimin e lajmërimit dhe mobilizimit, degët e mobilizimit përgjigjen para prefektit.               
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 35
 
-Ministritë dhe institucionet qendrore, organet e administratës shtetërore, ndërmarrjet, institucionet e tjera, organizatat politike, ekonomike e shoqërore, personat juridikë dhe punëdhënësit privatë, detyrohen t’u japin në kohë degëve të mobilizimit te gjitha të dhënat e nevojshme për shtetasit, kafshët, automjetet e teknikën që disponojnë si dhe të gjitha ndryshimet që pësojnë ato.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 36
 
-Zyrat e gjendjes civile detyrohen t’u japin degëve të mobilizimit listat e të rinjve që mbushin moshën l6 vjeç me adresën, vendlindjen e vendbanimin, me përberjen familjare dhe ndryshimet për to. Degët e mobilizimit evidencojnë dhe verifikojnë të dhënat e mësipërme, organizojnë e zhvillojnë kontrollet mjekësore dhe pajisin shtetasit me dokumentet përkatëse ushtarake.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 37
 
-Në rast mobilizimi e lufte, ministritë, inistitucionet e tjera qendrore, organet e administratës shtetërore, ndërmarrjet, insititucionet e organizatat politike, ekonomike e shoqërore, persona të tjerë juridikë dhe punëdhënësit privatë, për kompletimin e Forcave të Armatosura detyrohen të venë në dispozicion të degëve të mobilizimit dhe të reparteve ushtarake, objekte të veçanta të pasurisë së luajtshme dhe të paluajteshme, automjetet,traktorët së bashku me shoferët e traktoristët, si dhe teknikën tjetër të nevojshme, ne bazë të rregullave të përcaktuara me vendim të Këshillit të Ministrave.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 38
 
-Të dhëna të nevojshme, në kuptim te nenit 35 të këtij ligji, janë sidomos:
-
-- njoftimet për largimet nga qendrat e punës e te banimit brenda e jashtë rrethit ose jashtë shtetit, ndryshimet që pësojnë shtetasit në aftësinë fiziko-shëndetësore nivelin arsimor, dënimet, vdekjet e të dhëna të tjera të kësaj natyre.
-
-- ndryshimet për kafshët e ngarkesës, si dhe njoftimet për gjendjen e gatishmërinë teknike të automjeteve e të autotraktorëve.
-
-- krijimi i ndërmarrjeve shtetërore ose private, i institucioneve e qendrave të ndryshme të punës si dhe pushimi i veprimtarisë të tyre.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 39
 
-Bashkitë e komunat njoftojnë shtetasit rezervistë për kryerjen e stërvitjes së radhës, për provë gatishmërie e kushtrimi luftarak, sipas kërkesës që bëjnë komandat e njësive dhe degët e mobilizimit.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 40
 
-Shtetasit që i nënshtrohen shërbimit ushtarak rezervë, kur ndryshojnë vendbanimin, qendrën e punës, bëhen të paaftë fizikisht për shërbimin ushtarak e përgatiten për të dalë për periudha të gjata jashtë shtetit, kur kthehen nga jashtë shtetit, si dhe kur lirohen nga shërbimi ushtarak aktiv detyrohen të paraqiten brenda l0 ditëve në degën e mobilizimit dhe në repartin ku janë inkuadruar për të bërë ndryshimet e evidencës.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 41
 
-Ministritë, institucionet e tjera qendrore, organet e pushtetit lokal, ndërmarrjet dhe institucionet e tjera, organizatat politike, ekonomiko-shoqerore, personat e tjerë juridikë e punëdhënësit privatë detyrohen të mos pranojnë në punë punonjësit që i nënshtrohen shërbimit të detyrueshëm ushtarak aktiv e rezervist pa bërë më parë ndryshimet e evidencës ushtarake.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 42
 
-Shtetasit që thirren për të kryer shërbimin ushtarak, për stërvitje, prova gatishmërie e mobilizimi, kurse e forma të kualifikimit ushtarak dhe për kontroll e regjistrim në evidencën ushtarake, detyrohen të paraqiten menjëherë në vendin dhe afatin e caktuar.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 43
 
-Drejtuesit e ministrive, institucioneve e organeve të tjera qendrore, organet e pushtetit lokal, ndërmarrjet dhe institucionet e tjera, organizatat politike, ekonomiko-shoqërore, personat e tjerë juridikë dhe punëdhënësit privatë detyrohen të mos pengojnë shtetasit për kryerjen e shërbimit ushtarak për stërvitje, provë gatishmërie ose mobilizimi, kurse e forma kualifikimi ushtarak.
-
-Ndalohet mbajtja e pranimi në punë i shtetasve që thirren për të kryer detyrimet e mësipërme.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 44
 
-Të gjithë shtetasit që janë në evidencë ushtarake, gjatë stërvitjes, provave të kushtrimit, kryerjes së shërbimit ushtarak aktiv dhe veprimeve në degët e mobilizimit, duhet të kenë me vete librezën ushtarake bashkë me shenjën personale.
-
-Për dëmtimin dhe humbjen e tyre njoftohet dega e mobilizimit e cila bën ripajisjen kundrejt pagesës.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 45               
 
-Shmangia e shtetasit shqiptar nga regjistrimi, mosbërja e ndryshimeve në evidencën ushtarake kur kryhen për herë të parë dënohen me gjobë nga 1 000 deri në 25 000 lekë.
-
-Shmangia e shtetasit shqiptar nga thirrja për të kryer shërbimin e detyrueshëm ushtarak aktiv dënohet për çdo ditë mosparaqitje 1000 lekë gjobë dhe mbas 15 ditësh mosparaqitje dënohet penalisht.
-
-Shmangia e shtetasit shqiptar nga thirrja për stërvitje ushtarake apo nga prova e gatishmërisë dhe e mobilizimit kur kryhet për herë të parë dënohet me gjobë nga 10 000-25 000 lekë. 
-
-Shkeljet e tjera të parashikuara në këtë Ligj dënohen me gjobë nga 5.000 50 000 lekë.
-
-Gjoba në të gjitha rastet jepet nga kryetari i degës së mobilizimit.
-
-Vlefta e gjobës së parashikuar në këtë neni ndryshohet me vendim të Këshillit të Ministrave në vartësi të inflacionit dhe të ndryshimit të nivelit të jetësës.
-
-Ankimi kundër vendimit të dënimit me gjobë dhe vjelja e gjobave bëhet sipas rregullave të përcaktuara në ligjin “Për kundërvajtjet administrative”. Nga vjelja e gjobave 80 për qind e vlerës kalojnë në favor të Ministrisë së Mbrojtjes dhe 20 për qind në buxhetin e pushtetit lokal.
+     (Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 KREU V
 
@@ -351,23 +221,15 @@ SIGURIMI MATERIAL E FINANCIAR I FORCAVE TË ARMATOSURA DHE DISA TË DREJTA PËR 
 
 Neni 46
 
-Sigurimi material e financiar për plotësimin e detyrave të mbrojtjes së vendit dhe kryerjen e shërbimit ushtarak bëhet nga buxheti i shtetit. Masa e buxhetit për llogari të mbrojtjes caktohet nga Kuvendi Popullor, në bazë të propozimit të Këshillit të Ministrave.
-
-Kriteret e përdorimit të fondeve dhe kompetencat përkatëse përcaktohen me dispozita të Këshillit të Ministrave. 
-
-Sigurimi material e financiar i familjeve të shtetasve të thirrur në shërbim ushtarak në kohë luftë, rregullohet me dispozita të Këshillit të Ministrave.
-
-Përballimi i shpenzimeve për paga, veshmbathje, ushqime etj. të shtetasve që thirren në shërbim ushtarak aktiv a rezervist në kohë paqeje ose lufte bëhet nga njësitë e repartet ushtarake.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 48
 
-Ushtaraku gëzon status të veçantë.
-
-Statusi i ushtarakut rregullohet me ligj të veçantë. 
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 49
 
-Ushtarët, nxënësit dhe studentët ushtarakë të veshur me uniformë, udhëtojnë pa pagesë në të gjitha llojet e transportit shtetërore të udhëtarëve brenda vendit.
+(Shfuqizuar me ligjin nr. 9047, datë 10.7.2003)
 
 Neni 50
 
