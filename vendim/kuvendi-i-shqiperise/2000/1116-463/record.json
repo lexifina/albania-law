@@ -1,0 +1,26 @@
+{
+  "qbz_id": 465,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT ISMAIL LLESHI NË DETYRËN E MINISTRIT TË MBROJTJES",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "463",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-11-16",
+  "published": "2000-12-01",
+  "in_force": "2000-12-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f33216d5909ee7774225967b82ec379f3ae357b4a81549edb150b426c37e9065.docx",
+  "source_sha256": "f33216d5909ee7774225967b82ec379f3ae357b4a81549edb150b426c37e9065",
+  "official_record": "https://qbz.gov.al/api/v1/acts/465",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/11/16/463",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
