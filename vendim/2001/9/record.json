@@ -1,0 +1,26 @@
+{
+  "qbz_id": 615,
+  "title": "PËR DISA SHTESA E NDRYSHIME NË VENDIMIN NR.406, DATË 17.8.1993, TË KËSHILLIT TË MINISTRAVE, “PËR RIORGANIZIMIN E SHËRBIMIT TË MBROJTJES SË BIMËVE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "9",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-01-12",
+  "published": "2001-02-05",
+  "in_force": "2001-02-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2fc9656a5851f5e0250f88cc3f156e8e4a2e48cd15f0a6ac32dd793278e5c5bc.docx",
+  "source_sha256": "2fc9656a5851f5e0250f88cc3f156e8e4a2e48cd15f0a6ac32dd793278e5c5bc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/615",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/01/12/9",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
