@@ -1,0 +1,1 @@
+6. Gjatë zhvillimit të veprimtarive publike të institucioneve shtetërore me organe, organizata ose shoqata të tjera, brenda dhe jashtë vendit, dhe kur në këto raste përdoren simbolet ose flamujt e tyre përkatës, ata do të vendosen gjithnjë në të majtë të flamurit kombëtar, dhe në mënyrë që flamuri kombëtar të jetë më i evidentuar.

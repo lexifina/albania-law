@@ -1,0 +1,1 @@
+3. Kur flamuri kombëtar është i shoqëruar me një ose më shumë flamuj të vendeve të tjera, të organeve, organizatave ose shoqatave të çdo lloji, përmasat e tij fizike nuk do të jenë, në asnjë rast, më të vogla se të flamujve bashkëshoqërues, duke ruajtur gjithnjë raportet 1x1.4 njësi.
