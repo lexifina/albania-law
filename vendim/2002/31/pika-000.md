@@ -1,0 +1,3 @@
+Paragrafi i dytë i pikës 3 të vendimit nr.66, datë 24.2.2000 të Këshillit të Ministrave ”Për këshillat mbikqyrës të shoqërive anonime shtetërore”, të formulohet si më poshtë vijon:
+”-Shpërblimi për pjesëmarrje në këshillat mbikëqyrës, për kryetarin, të jetë në masën 30 për qind e pagës mujore të drejtorit të shoqërisë dhe në masën 20 për qind për anëtarët e tjerë të këshillit mbikqyrës, ndërsa për shoqëritë anonime shtetërore, që e kanë dhënë pasurinë tërësisht me qira apo emfiteozë, kryetari i këshillit mbikqyrës shpërblehet në masën 7 për qind të pagës mujore të drejtorit të shoqërisë dhe anëtarët e tjerë të këtij këshilli në masën 5 për qind të pagës mujore të drejtorit të shoqërisë”.
+Ky vendim hyn në fuqi menjëherë.
