@@ -1,0 +1,1 @@
+3. Komisioni i Shërbimit Alternativ mblidhet, si rregull, një herë në 3 muaj, sipas njoftimit të Kryetarit të Komisionit. Njoftimi përmban rendin e ditës dhe materialet që do të diskutohen në mbledhje. Ai u dërgohet anëtarëve të Komisionit të paktën 7 ditë përpara datës së caktuar për mbledhje.

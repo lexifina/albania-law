@@ -1,0 +1,1 @@
+4. Komisioni i Shërbimit Alternativ i zhvillon mbledhjet kur janë të pranishëm shumica e thjeshtë e anëtarëve. Për shkaqe objektive, mbledhjet e Komisionit mund të shtyhen, por jo më vonë se 15 ditë nga data e caktuar.
