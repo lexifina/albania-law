@@ -1,0 +1,1 @@
+14. Organizmi përkatës i autorizuar, kur vëren se prodhimi i produktit nuk është në konformitet me kërkesat teknike, njofton ministrinë përkatëse dhe organin përgjegjës për marrjen e masave në mbrojtje të konsumatorit, në përputhje me ligjin nr.9135, datë 11.9.2003 “Për mbrojtjen e konsumatorëve”.

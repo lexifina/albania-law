@@ -1,0 +1,1 @@
+4. Hedhja në treg e produktit të sferës së detyruar bëhet pasi të jetë kryer vlerësimi i konformitetit, që vërtetohet me inicialet SL (sipas ligjit), të vendosura nga prodhuesi mbi produkt, pas deklarimit të konformitetit, në përputhje me kërkesat teknike, sipas legjislacionit në fuqi.

@@ -1,0 +1,1 @@
+7. Subjektet që i hedhin produktet në treg, kanë detyrë ta ruajnë dokumentacionin teknik për të paktën 10 vjet nga data e prodhimit të fundit ose për një periudhë tjetër, nëse është specifikuar ndryshe në kërkesat teknike.
