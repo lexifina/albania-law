@@ -1,0 +1,1 @@
+5. Në sistemin informatik, ku mbahen dhe përpunohen të dhënat e Regjistrit Kombëtar të Gjendjes Civile, përveç të dhënave ekzistuese dhe elementeve përbërëse të dokumentit të identitetit të shtetasve, të përfshihen edhe të gjitha transaksionet, që do të kryhen për një periudhë kohore prej 20-vjetësh.

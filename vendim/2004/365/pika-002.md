@@ -1,0 +1,1 @@
+2. Krijimi i Regjistrit Kombëtar të Gjendjes Civile fillon me procedurën e transkriptimit të të dhënave të regjistrave themeltarë të zyrave të gjendjes civile dhe realizohet vetëm në mjediset e këtyre zyrave.
