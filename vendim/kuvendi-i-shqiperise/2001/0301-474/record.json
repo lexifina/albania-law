@@ -1,0 +1,26 @@
+{
+  "qbz_id": 58764,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT ILIR ZEQO, ANËTAR I KOMISIONIT TË LETRAVE ME VLERË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "474",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-03-01",
+  "published": "2001-03-16",
+  "in_force": "2001-03-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/76ff09cac74eea8ab9d6d2484d1572bed907438773576e0a4418fbb7f7196785.docx",
+  "source_sha256": "76ff09cac74eea8ab9d6d2484d1572bed907438773576e0a4418fbb7f7196785",
+  "official_record": "https://qbz.gov.al/api/v1/acts/58764",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/03/01/474",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
