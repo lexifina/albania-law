@@ -1,0 +1,1 @@
+3. Institutit të Sigurimeve Shoqërore në buxhetin e vitit 2003, zëri “Shpenzime për programe të veçanta”, t’i shtohen 5 milionë lekë. Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.7.2003.
