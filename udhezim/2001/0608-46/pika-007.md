@@ -1,0 +1,1 @@
+7. Vulos të gjitha aktet e miratuara me shumicë votash nga KZZ-ja, si dhe në aktet e tjera të korrespodencës së KZZ-së me të tretët, jep këshilla dhe opinione juridike e teknike për zgjidhjen e problemeve që rezultojnë gjatë procesit parazgjedhor dhe zgjedhor.

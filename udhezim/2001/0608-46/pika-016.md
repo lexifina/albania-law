@@ -1,0 +1,1 @@
+16. Ndjek procedurat për afishimin e listave në çdo qendër votimi, evidentimin, regjistrimin dhe përgatitjen e dokumentacionit që lidhet me çështjet e shtesave në listat e veçanta të zgjedhësve, si dhe lëshon vërtetimet për në gjykatë personave që nuk janë i regjistruar në listën e zgjedhësve, të cilat nënshkruhen nga kryetari ose nënkryetari i KZZ-së.

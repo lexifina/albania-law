@@ -1,0 +1,1 @@
+10.Kujdeset për përmbushjen e procedurave për pranimin, evidentimin, regjistrimin, trajtimin, zgjidhjen dhe përgjigjen ndaj kërkesave dhe ankesave të subjekteve zgjedhore dhe të të tretëve pranë KZZ-së.

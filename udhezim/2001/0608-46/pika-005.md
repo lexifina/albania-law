@@ -1,0 +1,1 @@
+5. Në përputhje me aktet e KQZ-së dhe në zbatim të porosive të dhëna nga kryetari dhe nënkryetari i komisionit merr masa për shpërndarjen (përgatitja, dërgimi, transportimi, dorëzimi, verifikimi, rimarrja në dorëzim) e bazës materiale gjatë procesit zgjedhor.

@@ -1,0 +1,1 @@
+17. Realizon përpunimin teknik, përgatitjen dhe merr masa të tjera organizative për dorëzimin (së bashku me kryetarin, zëvendëskryetarin ose me anëtarë të tjerë të KZZ-së) në KQZ të dokumentacionit origjinal, lidhur me rezultatet e zgjedhjeve, si dhe të materialeve të papërdorura të votimit.
