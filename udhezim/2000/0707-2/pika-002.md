@@ -1,0 +1,1 @@
+2. Ngarkohen drejtoritë e personelit, të organizimit dhe shërbimeve, të institucioneve të shërbimit civil, me organizimin e funksionimit dhe me zbatimin e këtij sistemi, për vlerësimin e arritjeve vjetore, individuale të nëpunësve civilë në institucionin e tyre.
