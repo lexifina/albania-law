@@ -4,7 +4,7 @@ Nr. 371, datë 4.8.1999
 
 PËR KRITERET DHE KOMPETENCAT NË FUSHËN E STANDARDIZIMIT, TË ÇERTIFIKIMIT DHE AKREDITIMIT
 
-(Ndryshuar me VKM nr. 469, datë 3.10.2002)
+(Ndryshuar me VKM nr. 469, datë 3.10.2002; nr. 854, datë 19.12.2003)
 
 (i përditësuar)
 
@@ -70,35 +70,7 @@ KREU III
 
 Akreditimi
 
-12. Kriteret bazë të akreditimit janë:
-
-- paanshmëria e organizimit akreditues;
-
-- transparenca;
-
-- karakteri vullnetar i tij.
-
-13.Procedura e akreditimit kryhet sipas standardeve europiane të serisë EN 45000, të përshtatura si standarde shqiptare; sipas udhëzimeve të Organizatës Ndërkombëtare të Standardizimit (ISO) dhe sipas rregullores së akreditimit të DPS-së.
-
-14.Sektori i akreditimit pranë DPS-së njihet si organizmi kombëtar i akreditimit. Ky organizëm akrediton, sipas kërkesave, organizmat e mëposhtëm:
-
-- laboratorë provash/analizash;
-
-- laboratorë kalibrues
-
-- organizma që kryejnë çertifikimin e produkteve;
-
-- organizma që kryejnë çertifikimin e sistemeve të cilësisë;
-
-- organizma që kryejnë çertifikimin e personelit;
-
-- organizma inspektues.
-
-15.Për akreditimin e laboratorëve shqiptarë lihet një kohë prej dy vjetësh. Laboratorët shqiptarë mund të akreditohen edhe nga organizma të huaj ndërkombëtarë të akreditimit, të cilët janë anëtarë të organizmave ndërkombëtarë ose europianë të akreditimit.
-
-16.Për kontrollin dhe rregullimin e veprimtarisë teknike të akreditimit, pranë DPS-së funksionon këshilli i akreditimit me 5 deri 7 anëtarë. Në përbërje të këtij këshilli janë përfaqësues nga ministritë, nga dhomat e tregtisë dhe të industrisë, nga universitetet, nga organi kombëtar i meteorologjisë dhe nga standardet. Anëtarët propozohen nga sektori i akreditimit dhe miratohen nga titullari i DPS-së, për një periudhë 3-vjeçare. Rregullimi i veprimtarisë së bordit bëhet me rregulloren e brendshme të funksionimit. Anëtarët e bordit shpërblehen me 2000 (dy mijë) lekë në muaj nga fondi i DPS-së.
-
-17. Shpenzimet për kryerjen e akreditimit ose të verifikimeve përkatëse përcaktohen nga DPS-ja në bashkëpunim me Ministrinë e Financave. Ato janë të njëjta si për subjektet vendase, ashtu edhe për të huajat. Shpenzimet për akreditimin përballohen nga subjektet që bëjnë kërkesë.
+(Shfuqizuar me VKM nr. 854, datë 19.12.2003)
 
 KREU VI
 
