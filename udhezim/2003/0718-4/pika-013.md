@@ -1,0 +1,1 @@
+13. Dispozitivat e vrojtimit (matja e prurjeve të filtrimit, prurja e drenave, piezometrat, pendulet, instalimet për vizime topografike, dispozitivat e matjes së uljeve ose të deformacioneve, ekstensiometrat, etj).
