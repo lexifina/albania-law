@@ -1,0 +1,1 @@
+3. Për realizimin e këtij mbulimi, buxheti i planifikuar për poliklinikat dhe qendrat shëndetësore të Tiranës kalon nga Ministria e Shëndetësisë dhe organet e pushtetit vendor në Institutin e Sigurimeve të Kujdesit Shëndetësor, që në çastin e kalimit të kësaj veprimtarie në varësi të Institutit të Sigurimeve të Kujdesit Shëndetësor.

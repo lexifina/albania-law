@@ -1,0 +1,1 @@
+2. Mbulimi, nga sigurimet shëndetësore, i shërbimit shëndetësor të kujdesit parësor për Tiranën, do të fillojë brenda 2 muajve nga data e funksionimit të plotë të Autoritetit Shëndetësor Rajonal dhe do të zgjasë për të gjithë kohën e projektit pilot të këtij autoriteti.

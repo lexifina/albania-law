@@ -1,0 +1,1 @@
+1. Miratimin e shtrirjes së skemës së sigurimeve të kujdesit shëndetësor në shërbimin parësor të Tiranës, në kuadër të zbatimit të projektit të Bankës Botërore “Për rimëkëmbjen dhe zhvillimin e sistemit shëndetësor”.
