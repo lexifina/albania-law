@@ -1,0 +1,1 @@
+3. Miratimin e procedurave për negocimin dhe nënshkrimin e marrëveshjes së koncesionit të formës “BOT”, (Ndërtim-Shfrytëzim-Transferim), për ndërtimin dhe shfrytëzimin e infrastrukturës portuale detare, në shërbim të depozitave bregdetare, sipas specifikimeve të pikës 1 të këtij vendimi.

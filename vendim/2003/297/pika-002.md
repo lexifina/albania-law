@@ -1,0 +1,1 @@
+2. Miratimin e procedurave për negocimin dhe nënshkrimin e marrëveshjes së koncesionit të formës “BOO”, (Ndërtim-Pronësi-Shfrytëzim), për ndërtimin dhe shfrytëzimin e depozitave bregdetare të naftës dhe të nënprodukteve të saj, sipas specifikimeve të pikës 1 të këtij vendimi.

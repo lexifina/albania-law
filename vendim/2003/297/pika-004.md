@@ -1,0 +1,1 @@
+4. Organi shtetëror i autorizuar për negocimin dhe nënshkrimin e marrëveshjeve të koncesionit, që parashikohet në pikat 2 dhe 3 të këtij vendimi, të jenë Ministria e Industrisë dhe e Energjetikës, Ministria e Ekonomisë, Ministria e Transportit dhe e Telekomunikacionit, Ministria e Mjedisit, Ministria e Financave dhe Ministria e Rregullimit të Territorit dhe e Turizmit.
