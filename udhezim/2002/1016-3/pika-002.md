@@ -1,0 +1,1 @@
+2. Vlera mesatare e apartamenteve në tregun e lirë të banesave, në shkallë rrethi, për vitin 2002, të jetë sipas tabelës nr. 2 ”Të dhëna për tregun e lirë të apartamenteve për vitin 2001”, që i bashkëlidhet këtij udhëzimi.
