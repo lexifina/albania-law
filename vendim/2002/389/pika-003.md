@@ -1,0 +1,1 @@
+3. Kjo periudhë pagese t’u njihet këtyre punonjësve si vjetërsi në punë, për efekt pensioni, dhe të shënohet e tillë në librezën e punës pasi të bëhet pagesa e kontributit për sigurimet shoqërore, në përputhje me ligjin.

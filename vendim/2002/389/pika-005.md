@@ -1,0 +1,1 @@
+5. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2002, në zërin ”Mallra e shërbime”, t’i pakësohet fondi prej 16 642 000 (gjashtëmbëdhjetë milionë e gjashtëqind e dyzet e dy mijë) lekësh. Ky fond t’i shtohet Ministrisë së Punës dhe Çështjeve Sociale në buxhetin e miratuar për vitin 2002.

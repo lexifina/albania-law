@@ -1,0 +1,1 @@
+4. Të drejtën e trajtimit sipas këtij vendimi e kanë punonjësit të cilët në datën 31.12.2001 kanë qenë në marrëdhënie pune, pa ndërprerje, ose janë trajtuar me pagesë gatishmërie në uzinën mekanike Gramsh, për një periudhë kohe jo më pak se një vit.
