@@ -1,0 +1,1 @@
+3. Për pagimin e detyrimeve kontraktore që KESH, sh.a. ka patur me shtetet ose kompanitë e huaja, sipas pikës 2 të këtij akti normativ, Ministria e Financave i vë në dispozicion KESH, sh.a. nga fondet e kontigjencës, të parashikuara në buxhetin e vitit 2000, shumën prej 240 milionë lekësh në formë huaje, sipas marrëveshjes, së lidhur për këtë qëllim.

@@ -1,0 +1,1 @@
+5. Autorizohet Ministri i Financave që në emër të Qeverisë Shqiptare, të lëshojë garanci në favor të bankës e cila çel Letër Kredinë ose lëshon Letër Garancinë lidhur me detyrimet që rrjedhin nga marrëveshja e datës 30.10.2000, që KESH, sh.a. ka nënshkruar me kompanitë e huaj PPC.

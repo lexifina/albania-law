@@ -1,0 +1,12 @@
+1. Për përballimin e situatës emergjente hidroenergjetike në vend, Koorporatës Elektroenergjetike Shqiptare, sh.a. i shtohen 1 400 000 000 lekë, për importimin e energjisë elektrike. Ky fond përballohet si vijon:
+- 300 milionë lekë nga fondet e miratuara për Ministrinë e Financave për koston e borxhit të shtetit;
+- 150 milionë lekë nga shpenzimet operative për kuotat ndërkombëtare, të miratuara për Ministrinë e Bashkëpunimit ekonomik të Tregtisë;
+- 140 milionë lekë nga shpenzimet operative, të miratuara për Ministrinë e Transportit;
+- 50 milionë lekë nga fondet e kontigjencës për TVSH-në, kosto lokale dhe shpronësimet;
+- 80 milionë lekë nga të ardhurat e privatizimit të Ministrisë së Ekonomisë Publike dhe Privatizimit;
+- 50 milionë lekë nga investimet e miratuara për Ministrinë e Punëve të Jashtme;
+- 50 milionë lekë nga investimet e miratuara për Ministrinë e Drejtësisë;
+- 160 milionë lekë nga fondet e planifikuara për strehimin, sipas vendimit nr.356, datë 7.7.2000, të Këshillit të Ministrave;
+- 40 milionë lekë nga fondet e miratuara për KESH, sh.a;
+- 25 milionë lekë nga kuotat ndërkombëtare, të miratuara për Ministrinë e Ekonomisë Publike dhe Privatizimit;
+- 355 milionë lekë nga kontigjenca, parashikuar në buxhetin e vitit 2000.

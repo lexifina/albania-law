@@ -1,0 +1,1 @@
+2. Autorizohet KESH, sh.a. të zgjidhë detyrimet e prapambetura me shtetet ose kompanitë e huaja, duke i dhënë të drejtën të kryejë konvertimin dhe shlyerjen e detyrimit për energjinë, në detyrim monetar.

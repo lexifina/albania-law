@@ -1,0 +1,1 @@
+4. Ngarkohet Ministria e Financave të hyjë në marrëveshje huaje me KESH, sh.a., për zgjidhjen e pjesës së mbetur të detyrimeve të parashikuara në pikën 3 të këtij akti normativ, duke parashikuar për këtë qëllim në buxhetin e vitit 2001.
