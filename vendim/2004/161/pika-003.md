@@ -1,0 +1,1 @@
+3. Instituti i Sigurimeve Shoqërore bën regjistrimin e dokumentacionit të mësipërm dhe ua dërgon drejtorive rajonale të sigurimeve shoqërore, ku është paraqitur kërkesa e personit të interesuar për kryerjen e procedurave të përfitimit dhe të pagesës së tij.

@@ -1,0 +1,1 @@
+8. Efektet financiare, në zbatim të pikës 7 në shumën 60 000 000 (gjashtëdhjetë milionë) lekë, të përballohen nga fondet buxhetore të vitit 2004, zëri “Pagesë papunësie”, miratuar për Ministrinë e Punës dhe të Çështjeve Sociale.
