@@ -1,0 +1,1 @@
+1. Autorizohet Ministria e Financave që të bëjë pagesën në CASH të kundërvlerës në lekë shqiptare, të shumës prej 1 950 000 (një milion e nëntëqindepesëdhjetë mijë) USD-sh për plotësimin e pjesës shtetërore, që rezulton e papaguar në kapitalin e bankës “Italo-Shqiptare”.
