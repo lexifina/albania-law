@@ -1,0 +1,1 @@
+2. Çdo subjekt, që prodhon, eksporton dhe importon lëndë plasëse është i detyruar që, brenda 15 ditëve, të aplikojë për regjistrimin e sasisë së këtyre lëndëve në regjistrin shtetëror të lëndëve plasëse.
