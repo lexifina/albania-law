@@ -1,0 +1,7 @@
+LIGJ
+Nr.9294, datë 21.10.2004
+PËR PRANIMIN NGA REPUBLIKA E SHQIPËRISË TË REZOLUTËS A.724 (17) “PËR NDRYSHIMET E KONVENTËS SË ORGANIZATËS NDËRKOMBËTARE DETARE DHE ANEKSIT TË SAJ”, 1991
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
