@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1495,
+  "title": "Për disa ndryshime në vendimin nr.726, datë 21.12.2000 të Këshillit të Ministrave “Për pagat e punonjësve të institucioneve buxhetore”, me ndryshimet përkatëse",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "327",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-06-27",
+  "published": "2002-07-12",
+  "in_force": "2002-07-12",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/86cbdfdd3601fd197002588344ce51ab9e24d29cbb0e2877c33331715339d105.docx",
+  "source_sha256": "86cbdfdd3601fd197002588344ce51ab9e24d29cbb0e2877c33331715339d105",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1495",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/06/27/327",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
