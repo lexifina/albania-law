@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2471,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZOTIT NAMIK DOKLE NË DETYRËN E ZËVENDËSKRYEMINISTRIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "96",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-12-29",
+  "published": "2003-12-31",
+  "in_force": "2003-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ca451dd6e087fd156da0ae8677edb97e69ed484ea84250ed6a1563335fd65a23.docx",
+  "source_sha256": "ca451dd6e087fd156da0ae8677edb97e69ed484ea84250ed6a1563335fd65a23",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2471",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/12/29/96",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
