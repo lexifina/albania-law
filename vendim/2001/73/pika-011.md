@@ -1,0 +1,1 @@
+11. Pas paraqitjes së listës së punonjësve, nga Ministria e Ekonomisë Publike dhe Privatizimit dhe Ministria e Punës dhe Çështjeve Sociale, Këshilli i Ministrave përcakton fondin e nevojshëm për përballimin e trajtimit të veçantë.

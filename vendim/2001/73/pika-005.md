@@ -1,0 +1,1 @@
+5. Personat, që plotësojnë kushtet për përfitimin e trajtimit të veçantë, paraqiten pranë agjencive të sigurimeve shoqërore të vendbanimit apo të vendit të fundit të punës së tyre, ku do të pajisen me dy kopje të kërkesës për përfitim.

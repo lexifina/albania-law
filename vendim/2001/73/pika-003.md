@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Minierave, në Ministrinë e Ekonomisë Publike dhe Privatizimit, paraqet, pranë Institutit të Sigurimeve Shoqërore, listën e minierave, që nuk ushtrojnë veprimtari dhe që nuk kanë administratë pranë tyre. Kjo Drejtori paraqet, një herë në muaj, pranë Institutit të Sigurimeve Shoqërore edhe të dhëna për numrin e përfituesve, në shkallë vendi.

@@ -1,0 +1,1 @@
+4. Administratat e minierave të dërgojnë pranë agjencive të sigurimeve shoqërore, listëpagesat, për të cilat janë derdhur kontributet për sigurimet shoqërore dhe listëpagesat për periudhat, për të cilat janë debitore ndaj sigurimeve shoqërore.

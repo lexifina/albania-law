@@ -1,0 +1,1 @@
+10. Dokumentacioni, që autorizon dhe vërteton pagesën e përfitimeve, në zbatim të ligjit nr.8685, datë 9.11.2000, përcaktohet nga Instituti i Sigurimeve Shoqërore, i cili, për këtë punë, përfiton një komision, në masën prej 1.5 për qind të shumës së përcaktuar për pagimin e përfitimeve.
