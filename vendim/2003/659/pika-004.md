@@ -1,0 +1,1 @@
+4. Fondi prej 2 991 740 (dy milionë e nëntëqind e nëntëdhjetë e një mijë e shtatëqind e dyzet) lekësh, për kompensimin e pronarëve të shpronësuar, të përballohet nga buxheti i vitit 2003, zëri “Investime” i miratuar për Ministrinë e Rregullimit të Territorit dhe të Turizmit.
