@@ -1,0 +1,29 @@
+{
+  "qbz_id": 122029,
+  "title": "PËR SIGURIMET SHOQËRORE NË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "number": "7703",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1993-05-11",
+  "published": null,
+  "in_force": "1993-10-01",
+  "in_force_basis": "\"Ky ligj hyn në fuqi më 1 tetor 1993\" (the act's own clause; QBZ gives no gazette date)",
+  "source": "https://qbz.gov.al/files/707c701e6475c71998bbf20873ba2bbfac98aa97722f5063c337247c304b62a4.docx",
+  "source_sha256": "707c701e6475c71998bbf20873ba2bbfac98aa97722f5063c337247c304b62a4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122029",
+  "official_eli": "https://qbz.gov.al/eli/ligj/1993/05/11/7703",
+  "capture_mode": "as-enacted (QBZ base text, version 0)",
+  "rendering": "Rendered from the official Word file: automatic list numbers from its numbering definitions, tables as Markdown tables, superscript/subscript as <sup>/<sub>, footnotes as [^n] notes at the end, text-box text after the paragraph that anchors it; shapes without text are omitted.",
+  "render_stats": {
+    "tables": 2,
+    "numbered_paragraphs": 0,
+    "superscript_runs": 0,
+    "subscript_runs": 0,
+    "footnote_refs": 0,
+    "text_boxes": 0,
+    "shapes_without_text": 0,
+    "images": 0,
+    "symbols": 0
+  },
+  "checked_on": "2026-11-16"
+}
