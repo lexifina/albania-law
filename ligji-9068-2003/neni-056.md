@@ -1,0 +1,2 @@
+# Neni 56
+Çdo shtet palë merr masat legjislative, që i vlerëson të përshtatshme për t’u dhënë mundësi gjykatave, kur ato japin vendime, për të marrë në konsideratë të gjitha vendimet e mëparshme penale europiane të dhëna për një vepër tjetër penale pas paraqitjes së të akuzuarit, me qëllim që t’i bashkëlidhë atij vendimi të gjitha pasojat ose një pjesë të tyre, të cilat legjislacioni i tij ia bashkëlidh vendimeve të dhëna në territorin e tij. Ai përcakton kushtet në të cilat është dhënë ky vendim.

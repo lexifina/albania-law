@@ -1,0 +1,4 @@
+# Neni 61
+1. Çdo shtet palë, në momentin e nënshkrimit ose të depozitimit të instrumentit të tij të ratifikimit, të pranimit ose të aderimit, mund të deklarojë përdorimin prej tij të një ose më shumë rezervave të parashikuara në lidhjen I të kësaj Konvente.
+2. Çdo shtet palë mund të tërheqë tërësisht ose pjesërisht një rezervë të formuluar nga ai në përputhje me paragrafin e mësipërm, me anë të një deklarate të drejtuar Sekretarit të Përgjithshëm të Këshillit të Europës, e cila sjell pasoja që nga data e marrjes së saj.
+3. Shteti palë që ka bërë një rezervë për një parashikim të kësaj Konvente nuk mund të pretendojë zbatimin e atij parashikimi nga një shtet tjetër; sidoqoftë ai mund të pretendojë, nëse rezerva është e pjesshme ose e kushtëzuara, zbatimin e kësaj dispozite në masën që ai vetë e ka pranuar.

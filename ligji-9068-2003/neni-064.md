@@ -1,0 +1,5 @@
+# Neni 64
+1. Kjo Konventë nuk cenon as të drejtat dhe as detyrimet që rrjedhin prej marrëveshjeve të ekstradimit dhe konventave ndërkombëtare shumëpalëshe që përmbajnë fusha specifike, as dispozitat që përmbajnë fushat që janë objekt i kësaj Konvente të përcaktuara në konventa të tjera ekzistuese ndërmjet shteteve palë.
+2. Shtetet palë mund të lidhin marrëveshje dypalëshe ose shumëpalëshe mes tyre, lidhur me çështjet e rregulluara nga kjo Konventë vetëm për të plotësuar dispozitat e saj ose për të lehtësuar zbatimin e parimeve që përmbahen aty.
+3. Sidoqoftë, nëse dy ose më shumë shtete palë kanë vendosur ose janë duke vendosur marrëdhënie ndërmjet tyre mbi bazën e një legjislacioni uniform ose të një regjimi të veçantë, ata do të kenë të drejtë të rregullojnë marrëdhëniet e tyre të ndërsjella të kësaj fushe duke u bazuar ekskluzivisht në këto sisteme, pavarësisht nga dispozitat e kësaj Konvente.
+4. Shtetet palë që pushojnë së zbatuari dispozitat e kësaj Konvente lidhur me marrëdhëniet e tyre të ndërsjella në këtë fushë, duhet të njoftojnë për këtë Sekretarin e Përgjithshëm të Këshillit të Europës.

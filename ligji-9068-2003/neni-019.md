@@ -1,0 +1,4 @@
+# Neni 19
+1. Nën rezervën e paragrafit të dytë të këtij neni, nuk do të kërkohet asnjë përkthim i kërkesave ose i dokumenteve shtesë.
+2. Çdo shtet palë mundet të rezervojë, në momentin e nënshkrimit ose të depozitimit të instrumentit të tij të ratifikimit, pranimit ose aderimit, me anë të një deklarate me shkrim drejtuar Sekretarit të Përgjithshëm të Këshillit të Europës, të drejtën e tij për të kërkuar që kërkesat dhe dokumentet mbështetëse të shoqërohen me përkthimin e tyre në gjuhën e tij, në një nga gjuhët zyrtare të Këshillit të Europës ose në një nga gjuhët që kërkon ai. Shtetet e tjera palë mund të kërkojnë reciprocitet.
+3. Kjo dispozitë nuk cenon dispozitat që lidhen me përcaktimin e kërkesave dhe dokumenteve mbështetëse që mund të parashikohen në marrëveshje të tjera tashmë në fuqi ose që mund të lidhen në të ardhmen midis dy ose më shumë shteteve palë.

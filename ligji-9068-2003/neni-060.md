@@ -1,0 +1,4 @@
+# Neni 60
+1. Çdo shtet palë në momentin e nënshkrimit ose të depozitimit të instrumentit të tij të ratifikimit, të pranimit ose të aderimit, mund të specifikojë territoret në të cilat do të zbatohet kjo Konventë.
+2. Çdo shtet palë, gjatë depozitimit të instrumentit të tij të ratifikimit, të pranimit ose të aderimit, ose në një datë të mëvonshme, nëpërmjet një deklarate të drejtuar Sekretarit të Përgjithshëm të Këshillit të Europës, mund të shtrijë zbatimin e kësaj Konvente në cilindo territor ose territore të specifikuara në deklaratë, territore për të cilat ai është përgjegjës për marrëdhëniet ndërkombëtare ose për të cilat ai është i autorizuar të lidhë marrëveshje.
+3. Çdo deklaratë e bërë në përputhje me paragrafin e mësipërm mund të tërhiqet përsa i përket territoreve të përmendura në atë deklaratë, në përputhje me procedurën e parashikuar në nenin 66 të kësaj Konvente.

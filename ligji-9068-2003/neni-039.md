@@ -1,0 +1,3 @@
+# Neni 39
+1. Para se të marrë një vendim mbi kërkesën, gjykata i jep mundësinë personit të dënuar të shfaqë mendimin e tij, kur ky i fundit e kërkon këtë, përmes paraqitjes së tij personalisht përpara gjykatës ose përmes paraqitjes së një letre rogatore. Dëgjimi personalisht ndodh pas kërkesës së shprehur posaçërisht të vetë personit të dënuar.
+2. Gjykata mundet sidoqoftë të vendosë për pranimin e kërkesës për ekzekutim në mungesë të personit që kërkon të paraqitet para gjykatës, nëse ai është i burgosur në shtetin kërkues. Në këto rrethana çdo vendim për zëvendësimin e sanksionit sipas nenit 44 do të shtyhet për sa kohë që personit të dënuar, pas transferimit të tij në shtetin e kërkuar, i është dhënë mundësia për t’u paraqitur para gjykatës.
