@@ -1,0 +1,1 @@
+10. Kandidati mund të certifikohet si audit i brendshëm, nëse ka likuiduar të gjitha detyrimet që përcakton programi. Programi konsiderohet i vlefshëm vetëm për një vit kalendarik. Komisioni vendos nëse ndryshimet në program kërkojnë dhënien e riprovimit nga kandidatët, të cilët nuk i kanë likuiduar të gjitha detyrimet brenda vitit kalendarik.

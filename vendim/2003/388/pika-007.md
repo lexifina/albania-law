@@ -1,0 +1,1 @@
+7. Vlerësimi i kandidatëve në provim bëhet me pikë. Kandidati për t’u kualifikuar duhet të fitojë më shumë se 50 pikë për çdo lëndë. Vlerësimi përfundimtar i kandidatëve për çdo lëndë, është mesatarja aritmetike e pikëve të dhëna nga secili anëtar i komisionit.

@@ -1,0 +1,1 @@
+14. Anëtarët e komisionit, për punën që kryejnë, shpërblehen, sipas përcaktimeve të bëra nga Ministri i Financave, me propozimin e Drejtorit të Përgjithshëm. Shpenzimet përkatëse përballohen nga Ministria e Financave.

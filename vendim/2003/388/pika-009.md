@@ -1,0 +1,1 @@
+9. Gjatë një sezoni provimesh mund të ketë disa data provimesh, në varësi të kandidatëve të regjistruar. Një provim mund të jepet si riprovim brenda të njëjtit sezon, por jo më vonë se 45 ditë nga data e provimit.

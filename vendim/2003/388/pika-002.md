@@ -1,0 +1,1 @@
+2. Drejtori i Përgjithshëm i Auditimit të Brendshëm, cakton sekretarin e komisionit dhe nënkomisionet për çdo lëndë, me pjesëmarrjen e detyrueshme të njërit prej anëtarëve të komisionit, të përcaktuar në pikën 1, i cili kryen funksionin e kryetarit të nënkomisionit.
