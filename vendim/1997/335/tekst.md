@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000)
 
 (I përditësuar)
 
@@ -245,6 +245,8 @@ Pas mbarimit të funksionit të tyre
 - Drejtori i Përgjithshëm i Agjensisë së Trajtimit të Kredive
 
 - Drejtori i Drejtorisë së Përafrimit të legjslacionit shqiptar me atë të Bashkimit Europian.
+
+- Nënkryetarët e Këshillit Kombëtar të Punës
 
 	5. Pas përfundimit të shërbimit, pasaportat e shërbimit duhet të depozitohen pranë drejtorive të personelit të ministrive dhe institucioneve.
 
