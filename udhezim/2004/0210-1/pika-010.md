@@ -1,0 +1,14 @@
+10. Bashkëngjitur janë:
+- Pasqyra nr.1 “Tabela e tatimit mbi të ardhurat nga punësimi”;
+- Pasqyra nr.2 “Tatimi mbi kalimin e të drejtës së pronësisë mbi pasuritë e paluajtshme”;
+- Formulari i deklarimit dhe pagesës të tatimit mbi të ardhurat nga punësimi E -TAP 010/a;
+- Formularit i deklarimit të të ardhurave personale nga burime të tjera (jo nga marrëdhëniet e punësimit aktual);
+- Formular i deklarimit dhe pagesës së tatimit mbi fitimin”;
+- Deklarata analitike e tatimit mbi të ardhurat;
+- Formulari “Aplikim për Regjistrim” E - TBV 001/a;
+- Njoftim i ndryshimeve në regjistrim E - TBV 005/a;
+- Urdhërpagese për tatimit të thjeshtuar mbi fitimin, E - TBV 020/a;
+- Modeli i librit të blerjes, E - TBV 041/a;
+- Modeli i librit të shitjes, E - TBV 040/a;
+- Modeli i faturës së thjeshtë tatimore, E - TBV 055/a;
+- Modeli i dëftesës tatimore, E - TBV 058/a.
