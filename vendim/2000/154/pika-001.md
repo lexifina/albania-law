@@ -1,1 +1,0 @@
-1. Licensimi i personave fizikë dhe juridikë, privatë ose publikë, vendas ose të huaj, që kërkojnë të ushtrojnë veprimtari prodhuese në industrinë joushqimore, të bëhet nga Ministria e Ekonomisë Publike dhe Privatizimit.

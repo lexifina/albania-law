@@ -1,1 +1,0 @@
-7. Pikat 1.2 e vendimit nr.295, datë 13.4.1994, të Këshillit të Ministrave, “Për forcimin e kontrollit cilësor në prodhimin, ruajtjen, transportimin dhe tregtimin e mallrave joushqimore”, shfuqizohet.
