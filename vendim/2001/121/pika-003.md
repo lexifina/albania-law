@@ -1,0 +1,1 @@
+3. Mjediset dhe “zonat e sigurisë” duhet të vendosen në vende sa më pak të ekspozuara nga jashtë, që të sigurojnë mbikëqyrje të vazhdueshme, ditën dhe natën. Ato përcaktohen nga drejtuesi i institucionit.
