@@ -1,0 +1,1 @@
+7. Enti Kombëtar i Banesave, para lidhjes së kontratave, të bëjë verifikimin e dokumentacionit në bazë të të cilit jan hartuar listat dhe në çdo rast shkeljeje të kritereve të caktuara të mos bëjë lidhjen e kontratës së shitblerjes me qytetarin.

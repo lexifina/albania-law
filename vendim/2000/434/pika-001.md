@@ -1,0 +1,1 @@
+1. Sistemimin me banesa të familjeve të invalidëve të Luftës Antifashiste Nacionalçlirimtare të qytetit të Tiranës, në rrugën “Don Bosko”, nga fondet e banesave të Entit Kombëtar të Banesave. Shpërndarja e tyre do të bëhet në bazë të listës (bashkëlidhur tabela), të dërguara nga Bashkia e Tiranës.

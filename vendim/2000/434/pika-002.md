@@ -1,0 +1,1 @@
+2. Sistemimin me banesa të familjeve të invalidëve të Luftës Antifashiste Nacionalçlirimtare të qytetit të Durrësit në banesën tip 82/2, sek 15, me 15 apartamente, blloku në veri të stadiumit, nga fondet e banesave të Entit Kombëtar të Banesave. Shpërndarja e tyre të bëhet në bazë të listës (bashkëlidhur tabela), të dëguar nga bashkia e Durrësit.

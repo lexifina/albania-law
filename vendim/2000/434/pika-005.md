@@ -1,0 +1,1 @@
+5. Fondi prej 18 600 000 (tetëmbëdhjetë milionë e gjashtëqind mijë) lekësh të kalojë, në llogari të veçantë, në Entin Kombëtar të Banesave, për tu përdorur për familjet e pastreha të invalidëve të Luftës Antifashiste Nacionalçlirimtare.
