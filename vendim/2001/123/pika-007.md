@@ -1,0 +1,1 @@
+7. Personat, që administrojnë informacion të klasifikuar, detyrohen të vënë në dijeni titullarin e institucionit 6 muaj para përfundimit të afatit të ruajtjes për riklasifikimin, deklasifikimin ose zhvlerësimin e tij.
