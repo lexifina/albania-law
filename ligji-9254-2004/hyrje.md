@@ -1,0 +1,8 @@
+LIGJ
+Nr.9254, datë 15.7.2004
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN E KOMBEVE TË BASHKUARA “PËR KUSHTET E REGJISTRIMIT TË ANIJEVE”,
+(GJENEVË, 7 SHKURT 1986)
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
