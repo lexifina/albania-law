@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000)
 
 (I përditësuar)
 
@@ -111,6 +111,14 @@ Pas mbarimit të funksionit të tyre
 - Drejtori i Drejtorisë së Marrëdhënieve ndërparlamentare dhe drejtori i Departamentit të Marrëdhënieve Ndërparlamentare në Kuvend.
 
 - Ish nënkryetarët e Kuvendit, për një periudhë 5-vjeçare pas mbarimit të funksionit.
+
+- Kryetari i Komunitetit Mysliman të Shqipërisë;
+
+- Presidenti i Konferencës Ipeshkvore të Shqipërisë;
+
+- Kryepeshkopi i Kishës Ortodokse Autoqefale Shqiptare;
+
+- Kryegjyshi i Kryegjyshatës Botërore Bektashiane.
 
 4. Me pasaportë shërbimi të pajiset kjo kategori personash:
 
