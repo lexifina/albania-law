@@ -1,0 +1,2 @@
+# Neni 84
+Autoritetet, që kanë të drejtë për dhënie leje për paraqitjen e dokumenteve të fondit arkivor kombëtar në mjedise ndërkombëtare, sipas neneve 82 dhe 83 të këtij ligji, janë të detyruara të përcaktojnë datën e saktë të rikthimit të tyre në vendruajtjen e përhershme. Koha e qëndrimit jashtë shtetit nuk mund të jetë më shumë se një vit nga data e daljes nga territori i Republikës së Shqipërisë.

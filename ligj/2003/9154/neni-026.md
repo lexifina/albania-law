@@ -1,0 +1,4 @@
+# Neni 26
+1. Pasuri të arkivave privatë, për arsye historike ose me interes publik, mund të shpallen dokumentet me rëndësi historike kombëtare. Drejtoria e Përgjithshme e Arkivave, si dhe arkivi privat kanë të drejtën e nismës, ndërsa të drejtën e vendimit të shpalljes e ka Drejtoria e Përgjithshme e Arkivave.
+2. Shpallja “dokumente me rëndësi historike kombëtare” e pasurive dokumentare, që ruhen në arkivat privatë, nuk cenon, kufizon ose ndryshon marrëdhënien e pronësisë.
+3. Përfaqësuesi i arkivit privat ka të drejtë të kërkojë ndryshimin e përcaktimit të dokumenteve në pronësi të tij, të shpallura me rëndësi historike kombëtare. Vendimi për ndryshimin e statusit të dokumenteve të shpallura me rëndësi historike kombëtare merret në të njëjtën formë, me të njëjtën procedurë dhe nga të njëjtat autoritete, si në rastin e shpalljes së tyre si të tilla.

@@ -1,0 +1,3 @@
+# Neni 36
+1. Dokumentet e numerizuara, pavarësisht nga forma e regjistrimit dhe e qarkullimit, kanë vlerë administrative e juridike vetëm nëse janë hartuar e janë ruajtur sipas standardeve të miratuara.
+2. Përshkrimi ligjor i dokumentit të numerizuar bëhet nga Drejtoria e Përgjithshme e Arkivave dhe institucionet shtetërore të shërbimit informatik. Ato përgatisin rregulla të detyrueshme për hartimin, evidencimin, qarkullimin, përpunimin tekniko-shkencor, ekspertizën e vlerës së ruajtjes e asgjësimin, si dhe për ruajtjen, dublikimin, riprodhimin dhe legalizimin e dokumenteve të numerizuara. Këto rregulla miratohen nga Këshilli i Ministrave.
