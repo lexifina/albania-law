@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2744,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr.8576, datë 3.2.2000 \"Për bibliotekat në Republikën e Shqipërisë\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9217",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-04-08",
+  "published": "2004-05-19",
+  "in_force": "2004-06-03",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/04c315fd38dffef3f4bb13305814f2bb2232c079a4e66d72f1281b536bd3facd.docx",
+  "source_sha256": "04c315fd38dffef3f4bb13305814f2bb2232c079a4e66d72f1281b536bd3facd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2744",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2004/04/08/9217",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
