@@ -1,0 +1,1 @@
+1. Arqipeshkvisë Tiranë-Durrës t’i shitet një sipërfaqe trualli prej 8 500 m2, që ndodhet në qytetin e Tiranës, në rrugën “Zhan d’Ark”, prapa hotel “Dajtit”, ku është ndërtuar kompleksi i katedrales së Shën Palit dhe selia e kësaj arqipeshkvie, sipas sheshit dhe lejes së ndërtimit, të miratuar nga KRRT-ja e Bashkisë së Tiranës.
