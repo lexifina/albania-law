@@ -1,0 +1,2 @@
+1. Menaxher përgjegjes (Mirëmbajtje): menaxheri që ka autoritetin e nevojshëm për realizimin e mirëmbajtjes, mirëmbajtjes parandaluese dhe modifikimeve të kërkuara nga pronari/operatori i avionit, i cili mund të financohet për realizimin e standardeve të kërkuara nga Drejtoria e Përgjithshme e Aviacionit Civil.
+Menaxheri përgjegjës mund t’ia delegojë këtë funksion një personi tjetër brenda kompanisë kur ai ka aprovimin nga DPAC-ja.

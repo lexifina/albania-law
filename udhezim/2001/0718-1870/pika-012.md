@@ -1,0 +1,1 @@
+12. Vegël precizioni dhe/ose pajisje testuese: Vegla dhe pajisje të nevojshme për matjen/kalibrimin ose testimin e avionit, strukturës së motorrave, helikës, aksesorëve, komponentëve ose të një pjese sipas standardeve të aprovuara.

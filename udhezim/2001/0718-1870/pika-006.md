@@ -1,0 +1,1 @@
+6. I përbërë: Materiale strukturore të bëra nga substanca, duke përfshirë, por jo kufizuar, drurin, metalin, qeramikën, plastikën, fibër të temperuar, grafitet, boron, që mund të jenë në formën e filamenteve, pluhurit, flokut, për një material të caktuar.

@@ -1,0 +1,1 @@
+7. Sistem kompjuterik. Çdo sistem automatik apo elektronik i aftë për marrjen ruajtjen e të dhënave nga jashtë në proces dhe transmetimin, prezantimin e të dhënave të caktuara në një formë të përshtatshme për kryerjen e funksioneve specifike.

@@ -1,0 +1,1 @@
+11. Nënshkrimi: Një identifikim unik individual, përdorur si një kuptim autentik për dokumentimin e mirëmbajtjes së bërë ose si dokument mirëmbajtjeje. Ai mund të jetë i shkruar në dorë, elektronik ose në ndonjë formë tjetër të pranuar nga DPAC-ja.
