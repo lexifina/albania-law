@@ -1,0 +1,24 @@
+{
+  "qbz_id": 2058,
+  "title": "KODI I FAMILJES",
+  "adopted": "2003-05-08",
+  "version_no": 0,
+  "in_force": "2003-12-20",
+  "in_force_basis": "Source clause \"Ky ligj hyn në fuqi gjashtë muaj pas botimit në Fletoren Zyrtare.\"; \"hyn në fuqi 6 muaj pas botimit në Fletoren Zyrtare\"",
+  "changing_act": 2058,
+  "changing_act_adopted": "2003-05-08",
+  "changing_act_published": "2003-06-20",
+  "source": "https://qbz.gov.al/files/e8a5ded00d3be8634ccbcb202bec4fa53630fbd7c4e0c4328ad6afa32dbc326a.docx",
+  "source_sha256": "e8a5ded00d3be8634ccbcb202bec4fa53630fbd7c4e0c4328ad6afa32dbc326a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2058",
+  "capture_mode": "as-enacted",
+  "unavailable_changing_qbz_ids": [],
+  "first_law": null,
+  "text_form": "complete official Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
