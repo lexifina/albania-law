@@ -1,0 +1,1 @@
+1. Agjencisë së Nxitjes së Investimeve të Huaja, për periudhën e mbetur të vitit 2002, t’i jepet fondi prej 6 500 000 (gjashtë milionë e pesëqind mijë) lekësh për përballimin e shpenzimeve operative të kësaj agjencie, sipas aneksit që i bashkëlidhet këtij vendimi.
