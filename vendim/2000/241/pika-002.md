@@ -1,1 +1,2 @@
 2. Drejtoria Farmaceutike e Ministrisë së Shëndetësisë mbledh dhe përpunon informacionin për çmimet e barnave të fabrikuara në vend dhe ato të importuara dhe ia përcjell Komisionit të Çmimeve të Barnave. Ky i fundit ngarkon Institutin e Sigurimeve të Kujdesit Shëndetësor për hartimin e projektit të çmimeve referencë. Mosdhënia e informacionit për çmimet e barnave shoqërohet me sanksione ndaj fabrikuesve apo importuesve, të parashikuara në ligj.
+2/1. ISKSH-ja mbledh dhe përpunon çmimet e barnave që rimbursohen, të cilat ia paraqet Komisionit të Çmimeve të Barnave.
