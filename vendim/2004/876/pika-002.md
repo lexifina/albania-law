@@ -1,0 +1,1 @@
+2. Parcelat pyjore dhe kullosore, të përcaktuara në pikën I, të përfshihen në pronën nr.1036, me emërtimin “Poligoni tankdrom”, komuna Poshnjë, Berat, në listën e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave.

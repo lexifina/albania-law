@@ -1,0 +1,1 @@
+3. Mirëmbajtja dhe shfrytëzimi i ujëmbledhësit në Kutalli, Berat, me sipërfaqe 5,47 (pesë hektarë e dyzet e shtatë metra), të vazhdojnë të bëhen nga Shoqata e Përdorimit të Ujit, Poshnjë- Kutalli, Berat.
