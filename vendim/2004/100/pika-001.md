@@ -1,0 +1,1 @@
+1. Miratimin e studimit të sistemit të integruar të vëzhgimit kombëtar, të hartuar nga grupi ndërministror, në zbatim të urdhrit nr.88, datë 19.6.2003 të Kryeministrit “Për ngritjen e grupit të punës për studimin e mundësisë së ndërtimit të sistemit të integruar të vëzhgimit kombëtar (SIVK)”.
