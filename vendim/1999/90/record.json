@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123856,
+  "title": "Për vlerën e shitjes së apartamenteve të financuara,  me fonde shtetërore, nga enti kombëtar i banesave",
+  "type": "Vendim",
+  "number": "90",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-02-25",
+  "version_no": 1,
+  "qbz_version_id": 10878,
+  "in_force": "2000-08-04",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2000-08-04",
+  "changed_by_qbz_id": 20153,
+  "changed_by_number": "429",
+  "changed_by_title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR.90, DATË 25.2.1999, TË KËSHILLIT TË MINISTRAVE, “PËR VLERËN E SHITJES SË APARTAMENTEVE TË FINANCUARA, ME FONDE SHTETËRORE, NGA ENTI KOMBËTAR I BANESAVE”",
+  "source": "https://qbz.gov.al/files/f602d273d54609b3cd3df3fd0cd90a2bfbc4bec5e03ce88518f5dd59ae35e493.docx",
+  "source_sha256": "f602d273d54609b3cd3df3fd0cd90a2bfbc4bec5e03ce88518f5dd59ae35e493",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123856",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123856/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
