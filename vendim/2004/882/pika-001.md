@@ -1,0 +1,1 @@
+1. Punonjësve të Uzinës së Ferrokromit në Burrel, të cilëve u janë shkurtuar vendet e punës, si rezultat i zbatimit të marrëveshjes së koncesionit, të miratuar me ligjin nr.8791, datë 10.5.2001, t’u jepet një shpërblim i barabartë me 2 paga bazë mujore të vendit të punës.
