@@ -1,0 +1,1 @@
+1. Miratohet në parim projekti i asistencës për zgjedhjet elektorale.2.Ngarkohen Ministria e Bashkëounimit Ekonomik dhe Tregtisë dhe Ministria e Pushtetit Vendor të kërkojnë dhe të sigurojnë financimin për këtë projekt.
