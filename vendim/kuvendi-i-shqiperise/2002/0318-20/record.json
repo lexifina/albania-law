@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19936,
+  "title": "Mbi propozimin për shkarkimin e Prokurorit të Përgjithshëm të Republikës së Shqipërisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "20",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-03-18",
+  "published": "2002-04-05",
+  "in_force": "2002-04-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/4b2ee2b8dd6a66aaf39b7f263f85bdb4eeae989eb55832be43462b237dbb161a.docx",
+  "source_sha256": "4b2ee2b8dd6a66aaf39b7f263f85bdb4eeae989eb55832be43462b237dbb161a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19936",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/03/18/20",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
