@@ -1,0 +1,1 @@
+2. Pranë Ministrisë së Bujqësisë dhe Ushqimit të ngrihet një komision vlerësimi për të bërë numërimin fizik të buajve dhe vlerësimin e gjendjes së tyre. Veprimtaria e këtij komisioni të rregullohet me urdhër të Ministrit të Bujqësisë dhe Ushqimit.

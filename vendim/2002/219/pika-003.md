@@ -1,0 +1,1 @@
+3. Drejtoritë e bujqësisë dhe ushqimit, në bazë të aktit të vlerësimit, të lëshuar nga komisioni i vlerësimit, t’u paguajnë, për vitin 2002, me këste, dy herë në vit, fermerëve, pronarë të buajve, një pagesë vjetore prej 50 000 (pesëdhjetë mijë) lekësh për çdo riprodhuese femër dhe prej 80 000 (tetëdhjetë mijë) lekësh për çdo riprodhues mashkull, të mbajtur për mbarështim.
