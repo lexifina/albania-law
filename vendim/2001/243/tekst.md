@@ -4,6 +4,10 @@ Nr. 243, datë 20.4.2001
 
 PËR DETYRIMIN E LËSHIMIT TË KUPONAVE TATIMORë, ME ANË TË ARKAVE REGJISTRUESE
 
+(Ndryshuar me VKM nr.368, datë 27.5.2001)
+
+(I përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 10 të ligjit nr.7758, datë 12.10.1993 “Për dokumentimin dhe mbajtjen e llogarive për tatimet”, të ndryshuar me ligjet nr.7900, datë 8.12.1995 dhe nr.8147, datë 11.9.1996, me propozimin e Ministrit të Financave, Këshilli i Ministrave
 
 V E N D O S I:
@@ -20,7 +24,7 @@ V E N D O S I:
 
 6. Afati përfundimtar i pajisjes së njësive të tatimpaguesve me arka regjistruese është data 1 tetor 2001.
 
-7. Ndaj tatimpaguesve, të cilët janë të detyruar të vendosin dhe të përdorin arkën regjistruese dhe nuk e kanë vendosur atë, deri më 30 qershor 2001, pas kësaj date merren masa administrative, sipas ligjit nr.7758, datë 12.10.1993 “Për dokumentimin dhe mbajtjen e llogarive për tatimet”, ndryshuar me ligjet nr.7900, datë 8.12.1995 dhe nr.8147, datë 11.9.1996.
+7. Ndaj tatimpaguesve, të cilët janë të detyruar të vendosin dhe të përdorin arkën regjistruese dhe nuk e kanë vendosur atë, deri më 1 tetor 2001, pas kësaj date merren masa administrative, sipas ligjit nr.7758, datë 12.10.1993 “Për dokumentimin dhe mbajtjen e llogarive për tatimet”, ndryshuar me ligjet nr.7900, datë 8.12.1995 dhe nr.8147, datë 11.9.1996.
 
 8. Ministri i Financave nxjerr udhëzimin përkatës për zbatimin e këtij vendimi.
 
