@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 1 100 000 (një milionë e njëqind mijë) lekësh, për financimin e zgjedhjeve të pjesshme për kryetar komune, në komunën Markat të qarkut të Vlorës, që u zhvilluan më 21.3.2004.
