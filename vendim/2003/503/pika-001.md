@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pasurive të paluajtshme, që preken nga ndërtimi i segmentit rrugor Valias-Qerrekë-Rinas, si dhe të pronarëve, pasuritë e të cilëve ndodhen brenda rrethimit të aeroportit “Nënë Tereza”.
