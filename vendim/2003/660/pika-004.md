@@ -1,0 +1,1 @@
+4. Fondi prej 1 129 500 (një milion e njëqind e njëzet e nëntë mijë e pesëqind) lekësh, për kompensimin e pronarëve të shpronësuar, të përballohet nga të ardhurat e Bashkisë së Bilishtit, për vitin 2003.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pasurive të paluajtshme të pronarëve, të cilët preken nga sistemim-asfaltimi i rrugës nga qendra e qytetit në drejtim të varrezave, sistemim-asfaltimi i rrugës ndërmjet dy shkollave dhe nga vendosja e lapidarit të Luftës Antifashiste Nacionalçlirimtare në Bashkinë e Bilishtit.
