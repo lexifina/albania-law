@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1459,
+  "title": "Për disa shtesa e ndryshime në ligjin nr.7905, datë 21.3.1995 “Kodi i Procedurës Penale i Republikës së Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8813",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-06-13",
+  "published": "2002-06-26",
+  "in_force": "2002-07-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/cf7bb96bd70c0da0823d972143f99c9b526932b1efc253551d2e6b15fc4831be.docx",
+  "source_sha256": "cf7bb96bd70c0da0823d972143f99c9b526932b1efc253551d2e6b15fc4831be",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1459",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/06/13/8813",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
