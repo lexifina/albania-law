@@ -1,0 +1,9 @@
+# PËR SHPALLJEN E REZULTATIT TË ZONËS ZGJEDHORE NR.14
+
+Official source: [Vendim nr. 217, datë 7.8.2001 (Komisioni Qendror i Zgjedhjeve)](https://qbz.gov.al/api/v1/acts/1158).
+
+Status of this text: `as-enacted`. Adopted 2001-08-07; published 2001-11-07; in force 2001-11-07.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
