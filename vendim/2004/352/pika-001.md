@@ -1,0 +1,1 @@
+1. Heqjen nga lista e sektorëve strategjikë me rëndësi të veçantë dhe kalimin në procesin e privatizimit, të mbylljes a likuidimit të fabrikës së pasurimit të kromit, në Kalimash, në qarkun e Kukësit.

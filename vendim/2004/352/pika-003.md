@@ -1,0 +1,1 @@
+3. Fondet, që nevojiten për ruajtjen e objekteve të kësaj fabrike, deri në privatizimin e mbylljen e saj, dhe për përgatitjen e dokumentacionit të privatizimit a mbylljes, të përballohen nga buxheti i vitit 2004, miratuar për Albkrom, sh.a.-në.

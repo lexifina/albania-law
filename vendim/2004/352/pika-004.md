@@ -1,0 +1,1 @@
+4. Punonjësit, që dalin të tepërt si pasojë e kalimit në privatizim a mbyllje të fabrikës, të cilët para datës 1.5.2004 kanë qenë në marrëdhënie pune dhe që do të jenë të tillë deri në çastin e privatizimit apo mbylljes, të trajtohen për 1 (një) vit me pagë bazë, që ata kanë në çastin e shkëputjes nga puna.

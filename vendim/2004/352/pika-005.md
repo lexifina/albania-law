@@ -1,0 +1,1 @@
+5. Periudha njëvjeçare për këta punonjës të njihet periudhë sigurimi, për efekt përfitimi pensioni pleqërie, invaliditeti a familjar, sipas ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, kundrejt pagesës së kontributit në fondin e sigurimit shoqëror të detyrueshëm dhe të shënohet në librezën e punës.

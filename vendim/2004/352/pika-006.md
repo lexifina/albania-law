@@ -1,0 +1,1 @@
+6. Fondi i nevojshëm për trajtimin e punonjësve të shkurtuar dhe për pagesën e kontributit të sigurimit të ndryshueshëm shoqëror për periudhën e trajtimit të përballohet nga fondet e vitit 2004, miratuar për Albkrom, sh.a.-në dhe fondet e siguruara nga kjo shoqëri nga shitjet e aseteve të saj.
