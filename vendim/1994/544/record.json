@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122406,
+  "title": "PËR PËRBALLIMIN E SHPENZIMEVE PËR BIRËSIMET",
+  "type": "Vendim",
+  "number": "544",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1994-11-14",
+  "version_no": 1,
+  "qbz_version_id": 10617,
+  "in_force": "2000-06-02",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2000-06-02",
+  "changed_by_qbz_id": 205,
+  "changed_by_number": "285",
+  "changed_by_title": "PËR NJË NDRYSHIM NË VENDIMIN NR.544, DATË 14.11.1994, TË KËSHILLIT TË MINISTRAVE “PËR PËRBALLIMIN E SHPENZIMEVE PËR BIRËSIMET”",
+  "source": "https://qbz.gov.al/files/af9f86498a9720fbda5e5aa7a95c846f8eb404465049518f010277bfd7c05881.docx",
+  "source_sha256": "af9f86498a9720fbda5e5aa7a95c846f8eb404465049518f010277bfd7c05881",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122406",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122406/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
