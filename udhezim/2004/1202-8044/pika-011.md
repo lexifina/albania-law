@@ -1,0 +1,1 @@
+11. Në rast se për të njëjtin numër vendesh për asistent i plotësojnë kushtet formale më shumë persona, atëherë do të vlerësohet si i përshtatshëm ai që ka më shumë përvojë pune në profesionin e juristit, ka kryer specializime apo ka moshë më të madhe.

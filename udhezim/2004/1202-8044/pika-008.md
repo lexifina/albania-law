@@ -1,0 +1,3 @@
+8. Kërkesa e paraqitur pranë Dhomës Kombëtare të Noterisë shqyrtohet prej saj brenda 15 ditësh nga dita e paraqitjes nga personi ose brenda 20 ditësh nga dita e dorëzimit në postë.
+Në rast se nga shqyrtimi i kërkesës arrihet në përfundimin se ajo nuk duhet pranuar, Dhoma Kombëtare e Noterisë merr vendim të arsyetuar për këtë dhe brenda 5 ditësh nga përfundimi i afatit të parashikuar në paragrafin e mësipërm i dërgon një kopje Ministrisë së Drejtësisë dhe një kopje personit të interesuar.
+Në rast se marrja e vendimit dhe dërgimi i përgjigjes nga Dhoma Kombëtare e Noterisë nuk bëhet brenda afateve të parashikuara në dy paragrafët e mësipërm do të konsiderohet se kërkesa është e pranuar prej saj. Asnjë vendim ose njoftim i mëvonshëm nuk është i vlefshëm.

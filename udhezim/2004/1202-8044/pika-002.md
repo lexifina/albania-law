@@ -1,0 +1,1 @@
+2. Miratimi i kërkesave për asistentë bëhet me urdhër të Ministrit të Drejtësisë, brenda numrit të asistentëve të miratuar si në pikën më sipër, kur personi plotëson kushtet e ndjek procedurat e parashikuara në ligjin nr.7829, datë 1.6.1994 “Për noterinë” dhe në këtë udhëzim.

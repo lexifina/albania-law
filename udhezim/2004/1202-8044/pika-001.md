@@ -1,0 +1,1 @@
+1. Ministri i Drejtësisë, duke marrë në konsideratë nevojat për noterë dhe mendimin e Dhomës Kombëtare të Noterisë, miraton çdo dy vjet numrin e përgjithshëm të asistentëve dhe numrin e tyre sipas dhomave në nivel vendor.

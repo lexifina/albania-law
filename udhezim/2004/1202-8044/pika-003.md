@@ -1,0 +1,1 @@
+3. Personi që paraqet kërkesë për të qëndruar si asistent pranë një noteri duhet të ketë plotësuar kushtet e parashikuara në nenin 2 paragrafi 1 shkronjat “a”, “b”, “ç” dhe “d” të ligjit nr.7829, datë 1.6.1994 “Për noterinë”, i ndryshuar.

@@ -1,0 +1,1 @@
+4. Kërkesa paraqitet për të qëndruar si asistent pranë një noteri, i cili është anëtar i dhomës së noterisë që mbulon territorin e vendbanimit të kërkuesit dhe ka jo më pak se 5 vjet përvojë pune si noter. Kërkesat e paraqitura në kundërshtim me sa më sipër nuk pranohen.

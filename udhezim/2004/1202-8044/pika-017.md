@@ -1,0 +1,1 @@
+17. Gjatë një viti asistenti ka të drejtë të pushojë për jo më shumë se 4 javë kalendarike duke vënë në dijeni noterin pranë të cilit është caktuar dhe dhomën e noterisë në nivel vendor. Kjo kohë llogaritet si kohë gjatë së cilës asistenti ka qenë pranë noterit dhe nuk zgjat afatin e qëndrimit si asistent.
