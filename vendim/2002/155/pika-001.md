@@ -1,0 +1,1 @@
+1. Enti Shtetëror i Farërave dhe Fianëve funksionon në varësi të Ministrit të Bujqësisë dhe Ushqimit dhe ka për objekt të punës organizimin dhe kontrollin e të gjithë veprimtarisë, që zhvillohet për materialin mbjellës, bimor, në zbatim të ligjit nr.8732, datë 24.1.2001 ”Për materialin mbjellës, bimor”.
