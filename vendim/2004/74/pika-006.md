@@ -1,0 +1,14 @@
+6. Indeksimi i pagave të bëhet si më poshtë vijon:
+a) Për nëpunësit civilë, punonjësit apo funksionarët e ministrive dhe të institucioneve të tjera qendrore, të cilët trajtohen në pagë, sipas strukturës së pagave të nëpunësve civilë, të indeksohen paga e grupit dhe shtesa e pozicionit.
+b) Për punonjësit, të cilët trajtohen në pagë sipas lidhjes I ”Renditja e funksioneve sipas klasifikimit” të vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave, të ndryshuar, të indeksohet paga fikse e miratuar në këtë lidhje.
+c) Për punonjësit, të cilët trajtohen në pagë sipas sistemit të pagave me klasa, të indeksohet paga bazë për klasë.
+ç) Për punonjësit në strukturat e Policisë së Shtetit, të cilët trajtohen në pagë sipas sistemit pagë-gradë, të indeksohet paga bazë për gradë.
+d) Për punonjësit në strukturat e Forcave të Armatosura, të cilët trajtohen në pagë sipas sistemit pagë-gradë, të indeksohet paga bazë për gradë.
+dh) Për punonjësit në strukturat e Policisë së Mbrojtjes nga Zjarri dhe Shpëtimit, deri në njësimin e pagave të tyre me strukturat e Policisë së Shtetit, për aq kohë sa ata do të trajtohen me sistemin e pagave me 22 klasa, të indeksohet paga bazë për klasë. Me kalimin në sistemin e pagave paga-gradë, të indeksohet paga bazë për gradë.
+e) Për punonjësit në strukturat e Policisë së Burgjeve, deri në njësimin e pagave të tyre me strukturat e Policisë së Shtetit, për aq kohë sa ata do të trajtohen me sistemin e pagave me 22 klasa, të indeksohet paga bazë për klasë. Me kalimin në sistemin e pagave pagë-gradë, të indeksohet paga bazë për gradë.
+ë) Për punonjësit e organeve të qeverisjes vendore:
+i) Kur janë funksionarë të zgjedhur, të indeksohen kufijtë e pagave të miratuara në pikën 9 të vendimit nr.551, datë 7.11.2002 të Këshillit të Ministrave.
+ii) Kur janë nëpunës civilë, të indeksohen paga e grupit dhe kufijtë, minimalë e maksimalë, të shtesës për pozicion, të miratuara në lidhjet nr.1, 2 dhe 3 të vendimit nr.551, datë 7.11.2002 të Këshillit të Ministrave.
+iii) Do të indeksohen dhe kufijtë e miratuar në pikat 15 e 16 të vendimit nr.551, datë 7.11.2002 të Këshillit të Ministrave.
+f) Për ndërmarrjet shtetërore, sipas nenit 2 të ligjit nr.8487, datë 13.5.1999 ”Për kompetencat për caktimin e pagave të punës”, të indeksohet paga minimale. Ndërmarrjet ta bëjnë vetë indeksimin e pagave të punonjësve të tyre, brenda kufijve të miratuar e të indeksuar.
+g) Ndërmarrjet shtetërore, që funksionojnë sipas ligjeve nr.7582, datë 13.7.1992 ”Për ndërmarrjet shtetërore” dhe nr.7638, datë 19.11.1992 ”Për shoqëritë tregtare”, të cilat në fund të vitit rezultojnë me humbje dhe subvencionohen nga Buxheti i Shtetit, jo për diferencën e çmimeve, të indeksojnë pagat e punonjësve, pas miratimit nga ministritë përkatëse, të cilat shqyrtojnë programet financiare të tyre dhe caktojnë fondin e pagave për periudhën përkatëse.

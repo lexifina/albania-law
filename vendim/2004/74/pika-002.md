@@ -1,0 +1,1 @@
+2. Instituti i Statistikës (INSTAT), në janar të çdo viti, të deklarojë indeksin e përgjithshëm të çmimeve të konsumit, vlerën e inflacionit vjetor që do të përdoret për indeksimin e pagave, si dhe vlerën e inflacionit vjetor, e cila të bazohet në një shportë më të reduktuar mallrash, që do të përdoret për indeksimin e pensioneve.

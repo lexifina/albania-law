@@ -1,0 +1,1 @@
+4. Organet e njësive të qeverisjes vendore, brenda kufijve, minimalë e maksimalë, të pagave, të miratuara e të indeksuara, të bëjnë indeksimin e pagave të punonjësve të tyre dhe të punonjësve të njësive ekonomike e institucioneve të varësisë, mbështetur në tabelat e pagave, të miratuara nga këshillat bashkiake, komunale dhe të qarqeve.

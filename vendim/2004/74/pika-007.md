@@ -1,0 +1,1 @@
+7. Efektet financiare të indeksimit të pagave, për shkak të ndryshimit të indeksit të çmimeve, për institucionet buxhetore, të përballohen nga Buxheti i Shtetit, i miratuar për çdo institucion, ndërsa për ndërmarrjet shtetërore, që rezultojnë me humbje, të përballohen brenda fondit të pagave, të miratuara nga ministria përkatëse.

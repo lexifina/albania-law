@@ -1,0 +1,1 @@
+3. Ministritë dhe institucionet e tjera qendrore, në dhjetor të vitit pararendës, të paraqesin në Ministrinë e Punës dhe të Çështjeve Sociale të dhënat për numrin e punonjësve dhe pagat e tyre, sipas strukturave përkatëse të pagave, të aparateve dhe të institucioneve të varësisë.

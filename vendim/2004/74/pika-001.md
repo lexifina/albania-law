@@ -1,0 +1,1 @@
+1. Indeksimi i pagave të bëhet një herë në vit, në përputhje me afatet e parashikuara në Buxhetin e Shtetit. Këshilli i Ministrave, me propozimin e Ministrit të Punës dhe të Çështjeve Sociale, brenda datës 31 mars të çdo viti, miraton masën e indeksimit të pagave.
