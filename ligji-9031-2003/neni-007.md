@@ -1,0 +1,7 @@
+# Neni 7
+Përfitimet e statusit të autoritetit ndërkombëtar të depozitimit
+1. a) Një institucion depozitimi do të përfitojë statusin e autoritetit ndërkombëtar të depozitimit me anë të një komunikimi të shkruar adresuar Drejtorit të Përgjithshëm nga Shteti Kontraktues, në territorin e të cilit është vendosur institucioni i depozitimit dhe që përfshin një deklaratë garancie në kuptimin që institucioni i përmendur përmbush dhe do të vazhdojë të përmbushë kërkesat e specifikuara në nenin 6(2). Statusi i përmendur mund të përfitohet gjithashtu me anë të një komunikimi të shkruar, adresuar Drejtorit të Përgjithshëm nga një organizatë ndërqeveritare e pronësisë industriale dhe që përfshin deklaratën e përmendur.
+b) Komunikimi do të përmbajë gjithashtu informacion për institucionin e depozitimit, ashtu siç është kërkuar në rregulloret dhe mund të tregojë datën në të cilën do të ketë efekt statusi i autoritetit ndërkombëtar të depozitimit.
+2. a) Në qoftë se Drejtori i Përgjithshëm gjen se komunikimi përfshin deklaratat e kërkuara dhe janë marrë të gjitha informacionet e kërkuara, komunikimi do të publikohet menjëherë nga Byroja Ndërkombëtare.
+b) Statusi i autoritetit ndërkombëtar të depozitimit përfitohet në datën e publikimit të komunikimit ose, aty ku është shënuar data sipas paragrafit (1)(b) dhe kjo datë është më e vonshme se data e publikimit të komunikatës, do ta përfitojë në këtë datë.
+3. Detajet e procedurës sipas paragrafëve 1 dhe 2 janë të siguruara në rregulloret.
