@@ -4,7 +4,11 @@ Nr. 500, datë 21.9.2000
 
 PËR NJËSITË E SHOQËRISË “ARMO”, SH.A. QË NUK DO TË VLERËSOHEN SI PJESË TË SEKTORËVE ME RËNDËSI TË VEÇANTË
 
-Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 1, të ligjit nr.8582, datë 23.2.2000, “Për një shtesë në ligjin nr.8306, datë 14.3.1998, “Për strategjinë e privatizimit të sektorëve me rëndësi të veçantë“, me propozimin e ministrit të Ekonomisë Publike dhe Privatizimit, Këshilli i Ministrave
+(Ndryshuar me VKM nr. 489, datë 14.8.2001) 
+
+(i përditësuar)
+
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 1, të ligjit nr. 8582, datë 23.2.2000, “Për një shtesë në ligjin nr. 8306, datë 14.3.1998, “Për strategjinë e privatizimit të sektorëve me rëndësi të veçantë“, me propozimin e ministrit të Ekonomisë Publike dhe Privatizimit, Këshilli i Ministrave
 
 V E N D O S I:
 
@@ -65,6 +69,22 @@ Në shoqërinë “Armo”, sh.a., Fier, nuk do të vlerësohen pjesë të sekto
 27. Pika e shitjes së karburanteve, Bulqizë
 
 28. Pika e shitjes së karburanteve, Peshkëpi, Vlorë.
+
+29. Dega e karburanteve, Kavajë.
+
+30. Dega e karburanteve, Korçë.
+
+31. Pika e shitjes me pakicë e karburanteve, e Fermentimit Shkodër.
+
+32. Pika e shitjes me pakicë e karburanteve, Korçë.
+
+33. Pika e shitjes me pakicë e karburanteve, Peqin.
+
+34. Shtypshkronja, Kuçovë.
+
+35. Briketimi, Ballsh.
+
+36. Depoja e gazit të lëngshëm, Ballsh.
 
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 
