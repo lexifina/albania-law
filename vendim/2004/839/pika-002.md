@@ -1,0 +1,1 @@
+2. Vendimi nr.331, datë 29.5.2003 i Këshillit të Ministrave “Për kushtet që duhet të plotësojnë nëpunësit e shërbimit të jashtëm të Republikës së Shqipërisë në përzgjedhjen për marrjen e gradës “ambasador””, shfuqizohet.
