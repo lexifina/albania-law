@@ -1,0 +1,1 @@
+4. Leja për tranzitimin e mallrave të parashikuara në pikën 1 të këtij vendimi, revokohet nga ministri i Financave, sipas propozimit të Drejtorisë së Përgjithshme të Doganave, kur shkelen dispozitat e legjislacionit, doganor dhe fiskal, ose kur njëra nga kërkesat që subjekti ka marrë lejen, pushon së ekzistuari.

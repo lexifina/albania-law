@@ -1,0 +1,2 @@
+3. Çdo tranzit i mallrave të parashikuara në pikën 1 të këtij vendimi, të shoqërohet nga organet doganore dhe të garantohet sipas rregullave të përcaktuara në Kodin Doganor.
+Për çdo tranzit, paguhet një tarifë shërbimi në masën 10 USD për koli, për cigaret dhe 500 USD për ton, për duhanet. Kjo tarifë paguhet nga subjekti dhe arkëtohet nga zyra doganore në çastin e depozitimit dhe të regjistrimit të deklaratës doganore (DAP) për tranzit.
