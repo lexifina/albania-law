@@ -1,0 +1,1 @@
+1. Mjekët e përgjithshëm, të diplomuar në fakultetin e Mjekësisë, në Universitetin e Tiranës kanë të drejtë të konkurrojnë për specializim pasuniversitar në mjekësi vetëm pasi të kenë punuar një vit në vendet e lira të punës në rrethe, të përcaktuar nga Ministria e Shëndetësisë dhe Instituti i Sigurimeve të Kujdesit shëndetësor.
