@@ -1,0 +1,1 @@
+7. Sekretari i Përgjithshëm ndjek zbatimin e rregullave të etikës dhe të rregullores së brendshme të institucionit nga punonjësit e institucionit, njofton ministrin për rastet e shkeljeve, si dhe rekomandon masat e nevojshme.

@@ -1,0 +1,1 @@
+1. Sekretari i Përgjithshëm në ministri është nëpunësi civil më i lartë i saj. Emërimi, lirimi nga detyra, vlerësimi i punës, paga, çështjet për disiplinën dhe karrierën e Sekretarit të Përgjithshëm u nënshtrohen dispozitave të përcaktuara nga ligji nr.8549, datë 11.11.1999 “Statusi i nëpunësit civil” dhe akteve nënligjore, të dala në bazë dhe për zbatim të ligjit.

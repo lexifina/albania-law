@@ -1,0 +1,1 @@
+2. Sekretari i Përgjithshëm, nëpërmjet ushtrimit të funksioneve dhe të bashkërendimit të punës së strukturave të institucionit, kujdeset dhe siguron qëndrueshmërinë dhe vazhdimësinë e veprimtarive përkatëse të ministrisë me institucionet e tjera.
