@@ -1,0 +1,7 @@
+LIGJ
+Nr.8574, datë 3.2.2000
+PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET QEVERISË SË REPUBLIKËS SË SHQIPËRISË DHE KËSHILLIT FEDERAL TË ZVICRËS PËR STATUSIN E PERSONELIT ZVICERIAN QË DO TË ANGAZHOHET NË SHKATËRRIMIN E MBETJEVE TOKSIKE TË MAGAZINUARA NË DEPOT E USHTRISË SHQIPTARE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës dhe të ligjit nr.8371, datë 9.7.1998 “Për lidhjen e traktateve e marrëveshjeve ndërkombëtare”, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
