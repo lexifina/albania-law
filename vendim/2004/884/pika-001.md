@@ -1,0 +1,1 @@
+1. Ministrisë së Industrisë dhe të Energjetikës në buxhetin e vitit 2004, t’i shtohet fondi prej 200 000 000 (dyqind milionë) lekësh, për shlyerjen e detyrimeve të prapambetura të Kombinatit Energjetik, Elbasan, ndaj KESH sh.a.-së.
