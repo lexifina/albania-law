@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2256,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR. 8461, DATË 25.2.1999 \"PËR ARSIMIN E LARTË NË REPUBLIKËN E SHQIPËRISË\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9120",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-07-28",
+  "published": "2003-09-03",
+  "in_force": "2003-09-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9851d0ca8062ae64b70099529c4192934b9398588b4dac06d23a57f95b4ec65f.docx",
+  "source_sha256": "9851d0ca8062ae64b70099529c4192934b9398588b4dac06d23a57f95b4ec65f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2256",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/07/28/9120",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
