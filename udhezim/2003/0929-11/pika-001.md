@@ -1,0 +1,1 @@
+1. Pas evidentimit të numrit të zgjedhësve që kanë votuar, sipas nënshkrimeve në listën e zgjedhësve, kjo listë futet në zarf, zarfi nënshkruhet nga kryetari e zëvendëskryetari i KQV-së dhe vuloset nga kryetari i saj.
