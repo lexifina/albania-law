@@ -1,0 +1,4 @@
+7. Autorizimi duhet të përmbajë:
+a) emrin e shoqërisë që paraqet kërkesën, numrin e vendimit të gjykatës dhe NIPT-in e saj;
+b) të drejtën për të investuar në zonën përkatëse, në përputhje me masterplanin e miratuar me vendimin nr.21, datë 19.10.2001 nga KRRTRSH-ja, duke identifikuar territorin për investim. Procedurat e dhënies së sheshit dhe lejes së ndërtimit duhet të respektojnë ligjin nr.8405 datë 17.9.1998 ”Për urbanistikën”, si dhe ligjin nr.8652, datë 31.7.2000 ”Për organizimin dhe funksionimin e qeverisjes vendore”.
+c) afatin kohor brenda të cilit duhet të përfundojë përgatitja e dokumentacionit të nevojshëm për marrjen e lejes së koncesionit deri në paraqitjen e tij në Ministrinë e Ekonomisë Publike dhe Privatizimit për procedim të mëtejshëm. Ky afat, në çdo rast, nuk mund të jetë më shumë se 5 (pesë) muaj.

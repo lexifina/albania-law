@@ -1,0 +1,1 @@
+18. Ngritjen në Ministrinë e Ekonomisë Publike dhe Privatizimit të njësisë për trajtimin dhe përpunimin e dokumentacionit për marrjen e lejes së koncesionit për instalimet bregdetare dhe ndjekjen e zbatimit të saj.

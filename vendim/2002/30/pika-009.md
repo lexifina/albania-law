@@ -1,0 +1,1 @@
+9. Në rastin kur trualli mbi të cilën do të ndërtohen instalimet bregdetare është pronë publike, subjekti e merr atë në përdorim me kontratë qiraje, sipas procedurave të përcaktuara në aktet nënligjore në fuqi, me afat deri në 30 vjet, me kushtin që në rastin kur nuk merret leja e ndërtimit në KRRTRSh kjo kontratë është e pavlefshme.

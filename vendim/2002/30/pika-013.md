@@ -1,0 +1,1 @@
+13. Infrastruktura portuale e instalimeve bregdetare (pontili dhe/ose bankina me tubacionet dhe pajisjet përkatëse) për transportimin dhe depozitimin e naftës, gazit dhe nënprodukteve të tyre në Durrës, në sipërfaqet e miratuara me vendimin nr.21, datë 19.10.2001 të KRRTRSH-së ndërtohet dhe administrohet nga ”Autoriteti Portual Durrës” sh.a.

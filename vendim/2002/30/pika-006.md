@@ -1,0 +1,1 @@
+6. Për rastet kur për të njëjtën sipërfaqe paraqiten më shumë se një kërkesë, të cilat i plotësojnë kërkesat e pikës 2, komisioni i vlerësimit të kërkesave përcakton sipërfaqen që i ofrohet secilit, sipas kritereve të përcaktuara me udhëzimin e përbashkët, të përcaktuar në pikën 4 të këtij vendimi.

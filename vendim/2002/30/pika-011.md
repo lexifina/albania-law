@@ -1,0 +1,1 @@
+11. Në rastin kur shoqëria vazhdon më tej procedurat për marrjen e lejes së koncesmonit, një kopje e autorizimit i bashkëlidhet dokumentacionit që Ministria e Ekonomisë Publike dhe Privatizimit i përcjell KRRTRSH-së.

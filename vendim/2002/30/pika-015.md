@@ -1,0 +1,1 @@
+15. Infrastruktura portuale e instalimeve bregdetare (pontili dhe/ose bankina me tubacionet dhe pajisjet përkatëse) për transportimin dhe depozitimin e naftës, gazit dhe nënprodukteve të tyre në Vlorë në sipërfaqet e miratuara me vendimin nr.21, datë 19.10.2001 të KRRTRSH-së rindërtohet dhe administrohet nga ”Porti Detar Vlorë” sh.a.

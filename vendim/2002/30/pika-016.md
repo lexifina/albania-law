@@ -1,0 +1,1 @@
+16. Projektet për ndërtimin e infrastrukturës portuale të instalimeve bregdetare (pontili dhe/ose bankina me tubacionet dhe pajisjet përkatëse) të realizohen nga institucionet shkencore, në varësi të Ministrisë së Ekonomisë Publike dhe Privatizimit dhe Ministrisë së Transportit.
