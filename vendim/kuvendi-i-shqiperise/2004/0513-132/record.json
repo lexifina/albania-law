@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2829,
+  "title": "Për dhënien e pëlqimit pëR emërimin e kryetarit të gjykatës kushtetuese",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "132",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-05-13",
+  "published": "2004-06-11",
+  "in_force": "2004-06-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1065f33467030206e54b83090aae7b5ea1b2620b1d13a2063c88f0e02c375e44.docx",
+  "source_sha256": "1065f33467030206e54b83090aae7b5ea1b2620b1d13a2063c88f0e02c375e44",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2829",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/05/13/132",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
