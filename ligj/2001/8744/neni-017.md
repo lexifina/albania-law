@@ -1,0 +1,10 @@
+# Neni 17
+Afatet dhe procedurat e transferimit
+Transferimi i pronave, sipas këtij ligji, do të përfundojë brenda 24 muajve pas hyrjes së tij në fuqi. Transferime të tjera do të kryhen edhe pas këtij afati, sa herë që do të ketë shtesa të funksioneve të njësive të qeverisjes vendore.
+Kryerja e transferimit do të bëhet si vijon:
+a) Jo më parë se afati i përcaktuar në nenin 21 të këtij ligji dhe jo më vonë se 13 muaj nga data e hyrjes në fuqi të tij, njësitë e qeverisjes vendore paraqesin në Këshillin e Ministrave listën e pronave që ato kërkojnë t’u transferohen në përputhje me nenin 4 dhe nenet e kreut III të këtij ligji.
+b) Brenda 20 muajve nga data e hyrjes në fuqi e këtij ligji, Këshilli i Ministrave, pasi të shqyrtojë kërkesat e paraqitura nga njësitë e qeverisjes vendore, sipas shkronjës (a) të këtij neni, merr vendim paraprak për listën e pronave që do t’ia transferojë çdo njësie të qeverisjes vendore. Lista e pronave që transferohen përmban kushtet dhe kufizimet që Këshilli i Ministrave vendos për pronat në pajtim me këtë ligj. Lista u njoftohet menjëherë çdo njësie të qeverisjes vendore përkatëse, e cila, brenda 10 ditëve nga dita e njoftimit, e shpall atë publikisht.
+c) Jo më vonë se 3 muaj nga data e marrjes së listës së pronave, çdo njësi e qeverisjes vendore mund t’i parashtrojë Këshillit të Ministrave kundërshtime për përmbajtjen e listës, sipas shkaqeve të caktuara në nenin 19 të këtij ligji.
+ç) Jo më vonë se 24 muaj pas hyrjes në fuqi të këtij ligji, Këshilli i Ministrave do të vendosë përfundimisht për transferimin e pronës për të cilën ka kundërshtime nga njësitë e qeverisjes vendore, së bashku me ndonjë kusht ose kufizim që duhet zbatuar në këto prona.
+d) Njësitë e qeverisjes vendore, të cilat fillimisht paraqesin listën e pronës sipas nenit 17(a), mund ta kundërshtojnë vendimin përfundimtar të Këshillit të Ministrave para gjykatës së rrethit gjyqësor (seksioni administrativ), sipas nenit 19 të këtij ligji.
+dh) Njësitë e qeverisjes vendore, të cilat nuk e parashtrojnë listën e pronave sipas nenit 17(a), nuk kanë të drejtë të kundërshtojnë vendimin përfundimtar të Këshillit të Ministrave për transferimin e pronave.
