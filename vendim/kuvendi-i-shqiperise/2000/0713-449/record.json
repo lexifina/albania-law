@@ -1,0 +1,26 @@
+{
+  "qbz_id": 260,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR LIRIMIN E ZOTIT LUAN HAJDARAGA NGA DETYRA E MINISTRIT TË MBROJTJES",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "449",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-07-13",
+  "published": "2000-07-19",
+  "in_force": "2000-07-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5a467cfc66bd5ca5499effe43ac285ab05979832989e62b7c5771dfdb89f5d51.docx",
+  "source_sha256": "5a467cfc66bd5ca5499effe43ac285ab05979832989e62b7c5771dfdb89f5d51",
+  "official_record": "https://qbz.gov.al/api/v1/acts/260",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/13/449",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
