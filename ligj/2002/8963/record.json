@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1743,
+  "title": "Për një shtesë në ligjin nr.7928, datë 27.4.1995 “Për tatimin mbi vlerën e shtuar”, me ndryshimet përkatëse",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8963",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-10-24",
+  "published": "2002-12-12",
+  "in_force": "2002-12-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/0e63d4cd03bf65285be11c392011044df48ffcdb6a908de848ca37462cccec19.docx",
+  "source_sha256": "0e63d4cd03bf65285be11c392011044df48ffcdb6a908de848ca37462cccec19",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1743",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/10/24/8963",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
