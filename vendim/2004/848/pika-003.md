@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për sipërfaqe 392 tokë arë, me çmim 320 lekë/m2, kulturë bujqësore, me sipërfaqe 500 m2, me çmim 7 lekë/m2, me vlerë të përgjithshme 128 940 (njëqind e njëzet e tetë mijë e nëntëqind e dyzet) lekë.
