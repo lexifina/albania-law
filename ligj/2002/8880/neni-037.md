@@ -1,0 +1,2 @@
+# Neni 37
+Pronari i së drejtës të seleksionerit dhe aplikanti për të drejtën e seleksionerit gëzojnë të drejtën e ankimit në gjykatë ndaj çdo personi që shkel të drejtën e seleksionerit ose dhe mbrojtjen e përkohshme. Pronari i së drejtës të seleksionerit dhe aplikanti kanë të njëjtat të drejta ndaj çdo personi që kryen akte që mundësojnë një shkelje. Procedurat ankimore nuk mund të ndërmerren në qoftë se ka kaluar një periudhë prej 5 vjetësh nga data e kryerjes së shkeljes.
