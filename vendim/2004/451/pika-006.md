@@ -1,0 +1,1 @@
+6. Periudha e trajtimit financiar, në zbatim të ligjit nr.7703, datë 11.5.1993 ”Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, quhet periudhë sigurimi. Kontributet për sigurimin shoqëror të këtyre ushtarakëve të përballohen nga fondet e miratuara për Ministrinë e Mbrojtjes.

@@ -1,0 +1,1 @@
+1. Ushtaraku aktiv i Forcave të Armatosura, kur sëmuret në detyrë ose për shkak të detyrës, dhe kur vërtetohet me raport të Komisionit të Lartë Mjekësor të Spitalit Universitar Qendror Ushtarak, lirohet nga shërbimi në Forcat e Armatosura dhe përfiton trajtim financiar deri në punësimin e tij ose në daljen në pension të plotë pleqërie.

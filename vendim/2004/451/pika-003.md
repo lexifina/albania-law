@@ -1,0 +1,1 @@
+3. Ushtaraku e përfiton këtë pagë deri në rastin e punësimit ose të plotësimit të kushteve për pension të parakohshëm për vjetërsi shërbimi apo pensioni pleqërie. Pagesa të bëhet pranë reparteve ushtarake, ku ushtaraku ka kryer shërbimin.

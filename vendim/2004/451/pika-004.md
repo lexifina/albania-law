@@ -1,0 +1,1 @@
+4. Ky trajtim financiar ndërpritet nëse ish-ushtaraku refuzon vendin e punës që i ofrohet nga zyrat përkatëse të punës dhe nëse deklarohet i aftë nga ana mjekësore, nga Komisioni Mjekësor i Lartë në Spitalin Universitar Qendror Ushtarak.

@@ -1,0 +1,1 @@
+5. Ushtaraku ka të drejtën e zgjedhjes ndërmjet këtij trajtimi financiar dhe trajtimit me pagesë kalimtare, sipas nenit 10 të ligjit nr.8087, datë 13.3.1996 ”Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, të Ministrisë së Rendit Publik, Shërbimit Informativ Shtetëror dhe të ish-Ministrisë së Brendshme”, të ndryshuar.
