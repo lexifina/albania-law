@@ -1,0 +1,1 @@
+Për zgjedhjet e Kuvendit të Shqipërisë të datës 24.6.2001, të gjithë studentët me shkëputje nga puna (që nuk kanë vendbanimin e përhershëm të familjes së tyre në qytetin ku ka qendrën universiteti) që do të votojnë në konviktet e qendrës studentore ku kanë vendbanimin e përkohshëm (vendqëndrimin). Për realizimin e kësaj të drejte, të procedohet si vijon:

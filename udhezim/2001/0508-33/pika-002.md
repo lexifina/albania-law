@@ -1,0 +1,1 @@
+2. Në datën 20.5.2001 ora 10 00, formularët e plotësuar dhe firmosur nga kujdestari i godinës drejtori i qendrës studentore, kundrejt një procesverbali, ia dorëzon supervizorit të KQZ-së në prefekturën përkatëse.
