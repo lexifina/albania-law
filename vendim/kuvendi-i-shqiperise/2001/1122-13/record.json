@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1212,
+  "title": "PËR DISA PLOTËSIME NË PËRBËRJEN E KOMISIONEVE \nTË PËRHERSHME TË KUVENDIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "13",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-11-22",
+  "published": "2001-12-21",
+  "in_force": "2001-12-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/dbcac9d55e366ca06e1a65fe529267e0ded833cd299eb396827945e380d8d7b7.docx",
+  "source_sha256": "dbcac9d55e366ca06e1a65fe529267e0ded833cd299eb396827945e380d8d7b7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1212",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/11/22/13",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
