@@ -1,0 +1,1 @@
+2. Thirrja e mbledhjes së asamblesë për miratim të transferimit (privatizimit) të pjesëve të kapitalit shtetëror në këtë shoqëri, bëhet nga organi që ka në administrim pjesët e kapitalit shtetëror në shoqëri. Ai njofton me shkrim ortakun joshtetëror sipas kërkesave të ligjit “Për shoqëritë tregtare”, nr.7638, datë 19.11.1992.

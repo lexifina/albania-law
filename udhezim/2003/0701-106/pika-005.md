@@ -1,0 +1,1 @@
+5. Pas miratimit të kërkesës për privatizim, shoqëria me kërkesën e ortakut shtetëror zgjedh një ose disa ekspertë kontabël të miratuar për vlerësimin e pjesës së kapitalit të zotëruar nga shteti. Miratimi i ekspertëve bëhet me vendim të asamblesë.

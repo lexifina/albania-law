@@ -1,0 +1,1 @@
+14. Në paragrafin e dytë të pikës 13 të vendimit të Këshillit të Ministrave nr.230, datë 4.4.1998 me fjalët “… identifikuar sipas dokumenteve që kërkon ligji …” do të kuptohet që pjesëmarrësit në ankand do të jenë të pajisur me letërnjoftim, pasaportë ose certifikatë me fotografi.

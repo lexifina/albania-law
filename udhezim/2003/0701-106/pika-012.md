@@ -1,0 +1,1 @@
+12. Ekspertët kontabël do të paguhen nga shoqëria, sipas urdhëresës së Këshillit të Ministrave nr.1, datë 2.10.1995 “Për organizimin e profesionin e ekspertëve kontabël të autorizuar” dhe shkresës së Institutit Kontabël nr.2411, datë 17.9.1997, i cili do të marrë përsipër të gjitha shpenzimet e procesit përgatitor të privatizimit të pjesës së kapitalit shtetëror.

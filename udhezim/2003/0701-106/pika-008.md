@@ -1,0 +1,1 @@
+8. Në rastin kur ortaku shtetëror ka miratuar transferimin e pjesëve të kapitalit që zotëron në shoqëri dhe nëse shoqëria ka marrë vlerësimin e truallit para shfuqizimit të vendimit të Këshillit të Ministrave nr.312, datë 30.6.1994 “Për çmimet e truallit dhe qiranë e truallit, që u jepet në përdorim personave fizikë dhe juridikë”, të vazhdojnë procedurat e privatizimit.

@@ -1,0 +1,1 @@
+13. Gjendja ekonomiko-financiare përfshin paraqitjen e llogarive vjetore që nga momenti i themelimit të shoqërisë deri në momentin e caktimit të ekspertit kontabël për fillimin e procedurës së privatizimit të kapitalit shtetëror.

@@ -1,0 +1,1 @@
+9. Nëse privatizimi i kapitalit shtetëror nuk realizohet, procedura e privatizimit do të rifillojë duke pasur parasysh që në relacionin e ekspertëve të rinj, duhet të pasqyrohen rezultatet ekonomiko-financiare edhe për periudhën kohore nga mbarimi i funksionit të ekspertëve paraardhës dhe fillimit të ekspertëve pasardhës.

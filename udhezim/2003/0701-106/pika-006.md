@@ -1,0 +1,1 @@
+6. Eksperti kontabël, së bashku me shoqërinë, bëjnë mbylljen operative të bilancit, për efekt privatizimi të pjesëve të kapitalit shtetëror, ditën e fundit të muajit nga data e emërimit të ekspertëve.

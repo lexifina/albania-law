@@ -1,0 +1,1 @@
+16. Në pikën 17 të vendimit të Këshillit të Ministrave nr.230, datë 4.4.1998 me “… datë të lëshimit të autorizimit …” do të konsiderohet afati jo më shumë se 3 ditë nga data e përcaktimit të blerësit të mundshëm.
