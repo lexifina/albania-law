@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1360,
+  "title": "Për një ndryshim në vendimin nr. 227, datë 13.4.2001 të Këshillit të Ministrave \"Për miratimin e dhënies në koncesion të hidrocentralit në Smokthinë\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "180",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-05-03",
+  "published": "2002-05-15",
+  "in_force": "2002-05-15",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3b83dc08b94054ab03c435036d5b0dc4a8ad104dc4de5e998167f572b97d8d20.docx",
+  "source_sha256": "3b83dc08b94054ab03c435036d5b0dc4a8ad104dc4de5e998167f572b97d8d20",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1360",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/05/03/180",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
