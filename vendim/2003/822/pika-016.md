@@ -1,0 +1,3 @@
+16. Të ardhurat e përfituara nga shitja përdoren për të paguar:
+a) punonjësit e shoqërisë DV-Albturist Hotelerist sh.p.k, që do të mbeten pa punë, si rrjedhojë e shitjes së objektit, të cilëve u jepen, si shpërblim përfundimtar, tri paga mujore, duke marrë si bazë pagën mesatare të vitit 2003 të secilit;
+b) komisionin për shitjen e objektit, që i jepet këshilltarit të privatizimit sipas kontratës përkatëse, në mbështetje të vendimit nr.242, datë 20.4.2001 të Këshillit të Ministrave, të lidhur ndërmjet Ministrisë së Ekonomisë, Bankës Europiane për Rindërtim dhe Zhvillim dhe këshilltarit të privatizimit.

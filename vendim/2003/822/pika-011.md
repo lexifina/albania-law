@@ -1,0 +1,1 @@
+11. Në mbledhjen e tij të parë, që zhvillohet brenda pesë ditëve nga krijimi i tij, komisioni përcakton rregullat procedurale që do të ndiqen në ankand. Gjithashtu para miratimit të listës me personat e kualifikuar, çdo anëtar i komisionit të ankandit duhet të paraqesë deklaratën me shkrim, se nuk ka konflikt interesash.

@@ -1,0 +1,1 @@
+14. Komisioni i ankandit kujdeset që procedurat të zhvillohen në mënyrë të hapur e transparente, si për publikun edhe për mediat. Procedurat e ankandit regjistrohen në procesverbal, i cili nënshkruhet nga të gjithë anëtarët e komisionit të ankandit.

@@ -1,0 +1,1 @@
+17. Pas pagimit të zërave, të përmendura në shkronjat “a”e”b” të nenit 16 të këtij vendimi, të ardhurat e mbetura përdoren nga shoqëria DV-Albturist Hoteliers sh.p.k, për të shlyer kreditorët e saj, sipas depozitave ligjore. Fondet e mbetura u shpërndahen ortakëve, në përpjestim me pjesët e kapitalit që kanë në këtë shoqëri.

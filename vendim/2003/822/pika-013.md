@@ -1,0 +1,1 @@
+13. Ofertat e personave të kualifikuar shqyrtohen vetëm kur janë të shoqëruara me dokumentin e pagesës së depozitës së garancisë, prej 300 000 euro.Depozitat e garancisë së ofertës u kthehen ofertuesve, me përjashtim të ofertuesit fitues. Çmimi i shitjes përfshin dhe depozitën e garancisë.

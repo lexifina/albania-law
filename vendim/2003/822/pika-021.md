@@ -1,0 +1,1 @@
+21. Komisioni i ankandit, në rast se paraqitet vetëm një ofertë ose asnjë, në përputhje me procedurat, e këtij vendimi dhe ato të dokumentacionit të ankandit vendos zhvillimin e një ankandi të dytë, brenda 3 muajve, sipas të njëjtave procedura, por me një çmim dysheme 10 për qind më të ulët se ai i ankandit të parë.

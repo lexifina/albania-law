@@ -1,0 +1,1 @@
+20. Ministria e Rregullimit të Territorit dhe e Turizmit të japë ose të përtërijë të gjitha lejet për përdorimin e objektit për veprimtari hotelerie, si dhe lejet e tjera të shfrytëzimit të objektit, në juridiksionin e kësaj ministrie. Megjithatë, blerësi është i lirë ta shfrytëzojë në të ardhmen objektin edhe për veprimtari të ndryshme nga ajo e hotelerisë.

@@ -1,0 +1,1 @@
+2. Ankandi të jetë i hapur, ndërkombëtar me fazë parakualifikimi. Ai të zhvillohet me ndihmën e këshilltarit të privatizimit dhe të mbështetet në dispozitat e legjislacionit civil e tregtar, sipas dokumenteve të ankandit, që i bashkëlidhen këtij vendimi.

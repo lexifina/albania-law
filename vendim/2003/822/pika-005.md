@@ -1,0 +1,1 @@
+5. Ministria e Ekonomisë, Ministria e Rregullimit të Territorit dhe e Turizmit dhe Ministria e Financave, në cilësinë e përfaqësuesit të ortakut shtetëror në shoqërinë DV-Albturist sh.p.k. dhe këshilltari i privatizimit kanë detyrime të japin të dhëna të barabarta për të gjithë personat e interesuar.

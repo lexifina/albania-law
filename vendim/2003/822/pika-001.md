@@ -1,0 +1,1 @@
+1. Miratimin e procedurave të shitjes me ankand të hotel ”Tirana International”, ndërtesë 15-katëshe, si objekt kryesor i DV-Albturist, sh.p.k. Objekti të shitet së bashku me pajisjet dhe sendet ndihmëse. Përshkrimi i të dhënave bazë të objektit ndodhet në dokumentet, që i bashkëlidhen këtij vendimi.

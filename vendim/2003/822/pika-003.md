@@ -1,0 +1,1 @@
+3. Në ankand nuk mund të marrin pjesë subjektet me paaftësi paguese, ose ato që janë në proces mbylljeje, likuidimi, administrimi të detyrueshëm, falimentimi ose, që janë objekt i procedurave të tjera, të ngjashme.
