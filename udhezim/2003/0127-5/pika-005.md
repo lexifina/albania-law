@@ -1,0 +1,2 @@
+5. Kontrolli i përbashkët mbi regjistrimin dhe respektimin e dispozitave ligjore nga tatimpaguesit.
+Punonjësit e degëve të tatimeve dhe zyrave të taksave nëpër bashki e komuna me miratimin e titullarëve respektivë mund të ndërmarrin aksione të përbashkëta për identifikimin dhe regjistrimin e bizneseve që rezultojnë të paregjistruara si dhe për respektimin e afateve ligjore të derdhjes së këtyre detyrimeve. Në këto grupe mund të marrin pjesë dhe strukturat e policise tatimore dhe ato bashkiake.

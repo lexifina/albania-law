@@ -1,0 +1,4 @@
+4. Pagesa dhe transferimi i të ardhurave
+Pagesa e taksës vendore mbi biznesin e vogël dhe e tatimit të thjeshtuar do të bëhet në llogarinë e degës përkatëse të tatimeve me ane te “formularit të pagesës”. Ky formular përmban edhe kodin vendor të bashkisë ose komunës përkatëse, i cili shërben për ndarjen e të ardhurave për efekt të transfertës së tyre në buxhetin e bashkisë / komunës, ku është vendndodhja e biznesit të taksueshëm.
+Të ardhurat nga taksa vendore mbi biznesin e vogël dhe tatimin e thjeshtuar mbi fitimin transferohet brenda datës 10 të muajit pasardhes në llogaritë e bashkive /komunave përkatese.
+Ky transferim bëhet nga dega e thesarit të rrethit përkatës, në bazë të listës totale të bashkive /komunave të dërguar nga dega e tatim taksave e rrethit brenda datës 10 të muajit pasardhës, për shumën e arkëtuar për çdo bashki/komune.
