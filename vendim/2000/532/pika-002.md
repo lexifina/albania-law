@@ -1,0 +1,13 @@
+2. Për të ndjekur zbatimin e studimit e të rekomandimeve të tij krijohet Këshilli Kombëtar për Natyrën dhe Biodiversitetin, me këtë përbërje:
+- Zëvëndëskryeministri dhe ministër i Punës dhe Çështjeve Sociale kryetar
+- Kryetari i Agjencisë Kombëtare të Mjedisit sekretar
+- Ministri i Mbrojtjes anëtar
+- Ministri i Bujqësisë dhe Ushqimit anëtar
+- Ministri i Punëve Publike anëtar
+- Ministri i Financave anëtar
+- Ministri i Arsimit dhe Shkencës anëtar
+- Ministri i Pushtetit Lokal anëtar
+- Kryetari i Komitetit të Turizmit anëtar
+- Kryetari i Akademisë së Shkencave anëtar
+- Drejtori i Institutit të Shëndetit Publik anëtar
+- Përfaqësues i OJQ-ve mjedisore anëtar
