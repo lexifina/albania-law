@@ -1,0 +1,1 @@
+4. Efektet financiare, nga rritja e pensioneve familjare të familjeve në ngarkim të pilotëve, që kanë humbur jetën në përmbushje të detyrës, gjatë fluturimit, llogariten në shumën 480 mijë lekë dhe përballohen nga fondi rezervë i Këshillit të Ministrave.

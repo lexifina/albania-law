@@ -1,0 +1,1 @@
+2. Pensionet familjare, ato që janë caktuar dhe që do të caktohen deri në datën 30.6.2000 (përfshirë edhe kjo datë), në mbështetje të ligjit nr.8455, datë 4.2.1999, “Për një trajtim të veçantë të familjeve të pilotëve, që humbasin jetën në përmbushje të detyrës, gjatë fluturimit, rriten në masën 10 për qind.
