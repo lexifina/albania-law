@@ -1,0 +1,1 @@
+7. Enti Rregullator i Telekomunikacioneve të plotësojë kërkesat e Këshillit Kombëtar të Radios dhe të Televizionit për radiofrekuenca, për shërbimin fiks dhe të lëvizsshëm, për nevojat e operatorëve të radios dhe atyre televizivë, brenda një muaji nga paraqitja me shkrim e kërkesës.

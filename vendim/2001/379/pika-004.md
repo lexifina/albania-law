@@ -1,0 +1,1 @@
+4. Institucionet përgjegjëse për administrimin e radiofrekuencave të ndërmarrin veprimet që parashikohen në shtojcën nr.1 të “Planit kombëtar të radiofrekuencave” për të bërë përputhjen e këtij plani me përcaktimin e përbashkët europian.

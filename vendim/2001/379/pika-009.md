@@ -1,0 +1,1 @@
+9. Ngarkohen Ministria e Mbrojtjes, Ministria e Rendit Publik, Shërbimi Informativ Shtetëror, Drejtoria e Përgjithshme e Postë-Telekomunikacioneve, Enti Rregullator i Telekomunikacioneve, Këshilli Kombëtar i Radios dhe i Televizionit për zbatimit e këtij vendimi.

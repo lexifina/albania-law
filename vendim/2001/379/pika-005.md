@@ -1,0 +1,1 @@
+5. Krijimin, brenda vitit 2001, pranë Drejtorisë së Përgjithshme të Postë-Telekomunikacioneve, të sistemit bazë të të dhënave për radiofrekuencat për azhurnimin e “Planit kombëtar të radiofrekuencave” me standardet ndërkombëtare.

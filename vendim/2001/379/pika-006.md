@@ -1,0 +1,1 @@
+6. Enti Rregullator i Telekomunikacioneve dhe Këshilli Kombëtar i Radios dhe i Televizionit të vënë në dispozicion të publikut, në formë të shkruar ose elektronike, në çdo kohë, gjendjen e brezave të radiofrekuencave që kanë në administrim.
