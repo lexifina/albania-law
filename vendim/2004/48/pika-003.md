@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Ekonomisë dhe Ministria e Transportit dhe e Telekomunikacionit, me cilësinë e OSHA-së, të fillojnë negocimet për nënshkrimin e kontratës së koncesionit me tenderuesin e preferuar. Në rast se negociatat me këtë tenderues nuk përfundojnë me sukses, OSHA rezervon të drejtën të fillojë negocimet me tenderuesin e dytë.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
