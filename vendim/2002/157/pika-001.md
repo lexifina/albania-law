@@ -1,0 +1,1 @@
+1. Quhet material mbjellës, bimor, i gatshëm për tregtim çdo prodhim i realizuar nga mbjelljet për këtë qëllim dhe që u nënshtrohet përpunimit, ambalazhimit, etiketimit, në përputhje me kriteret e përcaktuara në ligjin nr. 8732, datë 24.1.2001 “Për materialin mbjellës, bimor” dhe me këtë vendim.

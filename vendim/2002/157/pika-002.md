@@ -1,0 +1,2 @@
+2. Subjektet prodhuese dhe tregtuese të materialit mbjellës, bimor duhet të kenë, në pronësi ose në përdorim, magazina e mjedise të përshtatshme, të cilat gjatë përpunimit, ambalazhimit, ruajtjes dhe tregtimit të këtij materiali sigurojnë temperaturën dhe lagështirën optimale për ruajtjen e treguesve cilësorë, sipas parametrave teknikë, specifikë, për çdo material mbjellës, bimor.
+Gjithashtu, subjektet duhet të kenë në pronësi ose në përdorim, impiante e pajisje për pastrimin, homogjenizimin, kalibrimin, dezinfektimin, peletimin e ambalazhimin e materialit mbjellës, bimor.

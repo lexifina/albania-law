@@ -1,0 +1,2 @@
+3. Të gjitha prodhimet e realizuara për përdorim si material mbjellës, bimor, tregtohen si të tilla pasi të jenë përpunuar, pastruar, homogjenizuar e kalibruar në përputhje me kërkesat e standardit apo specifikimeve teknike të përcaktuara me udhëzim të Ministrit të Bujqësisë dhe Ushqimit.
+Gjatë përpunimit, materialit mbjellës, bimor, sipas rastit, mund të dezinfektohet e peletohet me pesticide e lëndë kimike, ushqyese.
