@@ -1,0 +1,1 @@
+2.Drejtuesi i institucionit, kur konstaton se në institucionin që drejton ka mbi 15 votues, tre ditë përpara datës së zgjedhjeve, brenda orës 18.00, dorëzon në KZZ-në përkatëse listën e votuesve ( sipas modelit bashkëlidhur), të nënshkruar dhe vulosur në çdo faqe.

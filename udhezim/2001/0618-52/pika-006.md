@@ -1,0 +1,2 @@
+6. Nëse në një institucion ka më pak se 15 zgjedhës, nuk krijohet qendër votimi dhe drejtuesi i institucionit duhet të marrë gjithë masat e mundshme për t’u krijuar kushte votuesve për të ushtruar të drejtën e votës në vendbanimin (ose vendqëndrimin) e votuesit për rastin e spitaleve ose përfshirjen e tyre në listën e votuesve të një institucioni të ngjajshëm për rastin e të burgosurve ose të paraburgosurve.
+Ky udhëzim hyn në fuqi menjëherë.

@@ -1,0 +1,1 @@
+5. KZZ-ja dhe komisioni i qendrës së votimit, kryejnë të gjitha procedurat për përgatitjen e qendrës së votimit dhe realizimin e procesit të votimit, sipas përcaktimeve të bëra në aktet e KQZ-së dhe manualit të qendrës së votimit, njëlloj si gjithë qendrat e tjera të votimit të KZZ-së.

@@ -1,0 +1,1 @@
+4. Drejtuesi i institucionit i siguron komisionit të qendres së votimit, mjediset e përshtatshme dhe pajisjet e nevojshme për funksionimin normal të qendrës së votimit, të paktën 24 orë përpara datës së zgjedhjeve, ora 18.00.

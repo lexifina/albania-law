@@ -1,0 +1,1 @@
+1. KZZ-ja që ka brenda territorit të zonës së saj institucione të posaçme (spitale, burgje, vende paraburgimi) krijon në këto institucione qendër votimi të veçantë, kur në to ditën e votimit janë të paktën 15 zgjedhës.
