@@ -1,0 +1,7 @@
+# Neni 10
+Grupet e verifikimit
+1. Për verifikimin e të dhënave në terren dhe dokumentimin e ndryshimeve, kryetari i njësisë së qeverisjes vendore, për të gjitha njësitë e qeverisjes vendore me mbi 5 000 banorë, ngre jo më pak se një grup verifikimi të përbërë nga 2 anëtarë. Një grup verifikimi mbulon jo më pak se 3 zona regjistrimi. Për bashkitë nën 5 000 banorë dhe komunat verifikimi dhe identifikimi, sipas dispozitave të këtij ligji, kryhet nga nëpunësit e administratës përkatëse.
+2. Kryetari i njësisë së qeverisjes vendore, jo më vonë se 10 ditë nga hyrja në fuqi e këtij ligji, emëron në detyrën e verifikuesit punonjës të administratës së bashkisë ose komunës që, si rregull, gëzojnë statusin e nëpunësit civil. Si rregull, anëtarët e grupit të verifikimit duhet të kenë përvojë në fushën e zgjedhjeve ose të gjendjes civile.
+3. Kryetari i njësisë së qeverisjes vendore, në bashkërendim me Ministrinë e Pushtetit Vendor dhe Decentralizimit, përcakton brenda afatit të pikës 2 të këtij neni orarin e punës të zyrave të gjendjes civile, ose të grupeve të verifikimit, si dhe përcakton për grupet e verifikimit zonën e mbulimit dhe grafikun e lëvizjes së tyre në terren.
+4. Grupi i verifikuesve gjatë procesit të verifikimit përdor tre formularët e përcaktuar në pikat 1 dhe 4 të nenit 8 të këtij ligji.
+5. Për zbatimin e këtij ligji nëpunësit e zyrave të gjendjes civile dhe anëtarët e grupeve të verifikimit veprojnë nën mbikëqyrjen, autoritetin dhe përgjegjësinë e kryetarit të njësisë së qeverisjes vendore përkatëse.

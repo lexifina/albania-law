@@ -1,0 +1,8 @@
+# Neni 8
+Detyra të posaçme të Komisionit Qendror të Zgjedhjeve
+1. Brenda 15 ditëve nga hyrja në fuqi e këtij ligji, Komisioni Qendror i Zgjedhjeve u dërgon kryetarëve të njësive të qeverisjes vendore të dhënat e mëposhtme, të nxjerra nga Baza Elektronike e të Dhënave të Zgjedhësve pranë tij:
+a) listën e shtetasve të regjistruar në zyrën e gjendjes civile përkatëse sipas zonave të regjistrimit, të përcaktuara sipas shkronjës ”b” të nenit 6 të këtij ligji. Kjo listë hartohet për çdo zonë regjistrimi;
+b) listën e shtetasve që rezultojnë të jenë me banim të paregjistruar në territorin e zonës së regjistrimit, të përcaktuara sipas shkronjës ”b” të nenit 6 të këtij ligji, të asaj njësie të qeverisjes vendore, por që janë të regjistruar në zyrën e gjendjes civile të një njësie tjetër të qeverisjes vendore. Kjo listë hartohet për çdo zonë regjistrimi.
+2. Listat, sipas pikës 1 të këtij neni, duhet të përmbajnë emrat e zgjedhësve, të renditur në mënyrë alfabetike sipas mbiemrit, zyrën e gjendjes civile nga e kanë burimin, numrin e regjistrit dhe atë të faqes së regjistrit, adresën sipas bazës së të dhënave, numrin e qendrës së votimit, si dhe një kolonë të veçantë për të shënuar numrin e zonës së regjistrimit në territorin e së cilës shtetasi banon në mënyrë të përhershme.
+3. Listat, sipas pikës 1 të këtij neni, përgatiten dhe u shpërndahen njësive të qeverisjes vendore nga KQZ-ja.
+4. KQZ-ja përgatit dhe shpërndan edhe një formular të paplotësuar, i cili do të plotësohet nga grupet e verifikimit gjatë punës në terren me të dhënat e shtetasve që banojnë në mënyrë të përhershme në territorin e njësisë përkatëse të qeverisjes vendore, por që nuk figurojnë në asnjë nga listat e parashikuara në pikën 1 të këtij neni.

@@ -1,0 +1,6 @@
+# Neni 17
+Procedura për transferimin e gjendjes civile
+1. Të gjitha zyrat e gjendjes civile që i përkasin vendbanimit të ri të shtetasve shqyrtojnë kërkesat e paraqitura për transferimin e fletëfamiljes dhe dërgojnë njoftim zyrtar në zyrat e gjendjes civile të vendbanimit të vjetër ku ndodhet regjistri themeltar. Për çdo kërkesë njoftimi në zyrën përkatëse dërgohet jo më vonë se 15 ditë nga depozitimi i kërkesës nga grupi i verifikimit në zyrën e gjendjes civile.
+2. Zyrat e gjendjes civile të vendbanimit të vjetër të shtetasve, që kanë marrë njoftimin nga zyrat e gjendjes civile të vendbanimit të ri për transferimin e fletës së regjistrit themeltar, plotësojnë dokumentacionin e kërkuar dhe e dërgojnë atë në zyrat përkatëse brenda 20 ditëve nga data e paraqitjes së njoftimit.
+3. Zyrat e gjendjes civile të vendbanimit të ri të shtetasve bëjnë regjistrimin përkatës dhe dërgojnë në zyrat përkatëse të vendbanimit të vjetër konfirmimin e marrjes së fletës së regjistrit themeltar të vendbanimit të vjetër të shtetasve brenda 3 ditëve nga marrja e dokumentacionit. Çregjistrimi nga zyra e gjendjes civile të vendbanimit të vjetër bëhet brenda 3 ditëve nga marrja e konfirmimit.
+4. Pavarësisht nga neni 21 i këtij ligji, procedurat e transferimit mbyllen në përputhje me afatet e përcaktuara në këtë nen.

@@ -1,0 +1,6 @@
+# Neni 19
+Sanksione administrative dhe penale
+1. Nëpunësit e zyrave të gjendjes civile ose anëtarët e grupeve të verifikimit, kur përfshijnë në dokumentacionin që hartohet prej tyre të dhëna të rreme për shtetasit që verifikojnë, përgjigjen penalisht në bazë të nenit 186 të Kodit Penal.
+2. Anëtarët e grupeve të verifikimit kur me dashje nuk kryejnë verifikimin dhe identifikimin e plotë në përputhje me nenet 11, 12 dhe 13 të këtij ligji, si dhe kur nuk pranojnë të marrin në dorëzim kërkesat sipas nenit 15 të tij, përgjigjen penalisht në bazë të nenit 248 të Kodit Penal.
+3. Shkelja e rregullave të tjera të parashikuara në këtë ligj nga nëpunësit e zyrave të gjendjes civile ose të anëtarëve të grupeve të verifikimit, dënohet me gjobë nga 10 000 deri në 100 000 lekë. Gjoba vendoset nga kryetari i njësisë përkatëse të qeverisjes vendore dhe përbën titull ekzekutiv.
+4. Kryetarët e njësive të qeverisjes vendore mbajnë përgjegjësi për mosrespektim të detyrimeve të përcaktuara në këtë ligj nga administrata e ngarkuar me kryerjen e detyrave. Në rast se kryetarët e njësive të qeverisjes vendore nuk përmbushin detyrimet e përcaktuara në këtë ligj, ndaj tyre Këshilli i Ministrave nis procedurat e shkarkimit të parashikuara nga ligji nr.8652, datë 31.7.2000 ”Për organizimin dhe funksionimin e pushtetit vendor”.
