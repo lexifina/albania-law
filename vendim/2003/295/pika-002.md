@@ -1,0 +1,1 @@
+2. Efektet financiare, që lidhen në çastin e llogaritjes fillestare të pensioneve si rrjedhojë e zbatimit të koeficientëve të përcaktuar në pikën 1 të këtij vendimi, të përballohen nga buxheti i vitit 2003, miratuar për Institutin e Sigurimeve Shoqërore.
