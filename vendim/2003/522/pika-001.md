@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve në buxhetin e miratuar për vitin 2003 t’i shtohet fondi prej 286 000 000 (dyqind e tetëdhjetë e gjashtë milionë) lekësh, për financimin e zgjedhjeve për organet e qeverisjes vendore, 2003.
