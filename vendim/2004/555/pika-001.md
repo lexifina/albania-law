@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 1 400 00) (një milion e katërqind mijë) lekësh, për financimin e zgjedhjeve të pjesshme për kryetar komune, në komunën Hudenisht, të qarkut të Korçës, që u zhvilluan më datë 4.7.2004.
