@@ -1,0 +1,1 @@
+5. Të kryhet sekuestrimi ose bllokimi i llogarive, investimeve, shoqërive tregtare a personave juridikë të tjerë, dhe pasurive të tjera ekzistuese, pavarësisht nga pronësia aktuale në rast se subjekti, nën ndonjërin nga emrat e identifikuar, ka qenë pronari i tyre, duke filluar nga data 22 tetor 2002 e shpalljes në listë të Kombeve të Bashkuara.
