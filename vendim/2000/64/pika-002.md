@@ -1,0 +1,1 @@
+2. Punonjësit e policisë së sektorit për grumbullimin e armëve janë pjesë përbërëse e policisë së shtetit. Marrja në punë e tyre bëhet në përputhje me kriteret e përcaktuara në ligjin nr. 8553, datë 25.11.1999, “ Për policinë e shtetit”, në bazë të kontratës individuale, fillimisht të vlefshme për vitin 2000, me të drejtë përsëritjeje deri në përfundimin e këtij shërbimi.

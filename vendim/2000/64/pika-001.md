@@ -1,0 +1,2 @@
+1. Në Ministrinë e Rendit Publik, ne varësi të drejtorit të përgjithshëm të policisë, krijohet sektori i grumbullimit të armëve dhe të municioneve luftarake. Ky sektor ka në varësi strukturat respektive në bazë. Struktura dhe përbërja organike e këtij sektori është sipas lidhjes, nr.1 që i bashkëlidhet këtij vendimi.
+Struktura dhe përbërja organike e sektorëve për grumbullimin e armëve dhe të municioneve luftarake në drejtoritë e policisë në prefektura e komisariatet e policisë, përcaktohen nga ministri i Rendit Publik.
