@@ -1,0 +1,26 @@
+{
+  "qbz_id": 292,
+  "title": "PËR ZGJEDHJEN E ANËTARIT TË KOMISIONIT QENDROR TË ZGJEDHJEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "455",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-07-24",
+  "published": "2000-08-04",
+  "in_force": "2000-08-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5f342e265d5594eff308b01ce70f980997eb4b306556434f56b0f2906e8361b8.docx",
+  "source_sha256": "5f342e265d5594eff308b01ce70f980997eb4b306556434f56b0f2906e8361b8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/292",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/24/455",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
