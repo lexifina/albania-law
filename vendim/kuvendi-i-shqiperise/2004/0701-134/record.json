@@ -1,0 +1,29 @@
+{
+  "qbz_id": 2954,
+  "title": "PËR KRIJIMIN E KOMISIONIT PARLAMENTAR PËR SHQYRTIMIN DHE ZBATIMIN E REKOMANDIMEVE TË PËRBASHKËTA TË OSBE/ODIHR-it DHE KOMISIONIT TË VENECIAS PËR PËRMIRËSIMIN E KODIT ZGJEDHOR",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "134",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-07-01",
+  "published": "2004-08-11",
+  "in_force": "2004-08-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fb2ed426918158f7b46bf90ab1f0045373965d6e92c93c850e2351bacf342532.docx",
+  "source_sha256": "fb2ed426918158f7b46bf90ab1f0045373965d6e92c93c850e2351bacf342532",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2954",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/07/01/134",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    3084,
+    2955
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
