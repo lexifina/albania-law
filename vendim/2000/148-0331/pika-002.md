@@ -1,0 +1,1 @@
+2. Ministria e Bujqësisë dhe Ushqimit dhe struktura e ngarkuar prej saj për zbatimin e projektit të bashkëpunojnë me sektorin privat, me agroserviset, me shoqatat e agrobiznesit, për projektet e tjera dhe përfituesit, për të garantuar shitjen e shpejtë të mallrave dhe krijimin, në afatin e parashikuar, të fondit kundërparti.

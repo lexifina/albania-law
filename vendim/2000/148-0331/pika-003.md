@@ -1,0 +1,1 @@
+3. Struktura e shpenzimeve të domosdoshme për shitjen e mallrave të ardhura nëpërmjet projektit të sipërpërmendur dhe kthimin e fondit kundërparti përcaktohet nga Ministria e Bujqësisë dhe Ushqimit për çdo vit, deri në përfundim të projektit të miratuar.
