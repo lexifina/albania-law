@@ -1,0 +1,1 @@
+1. Lejimin e Institutit të Sigurimeve Shoqërore që, për fondin prej 4 000 000 (katër milionë) lekësh, të përdorë procedurën ”Prokurim i drejtpërdrejtë” me fondacionin shqiptar ”Për të drejtat e personave me aftësi të kufizuara”, për prodhimin e mjeteve lëvizëse për invalidë, sipas termave të referencës, që i bashkëlidhet këtij vendimi.
