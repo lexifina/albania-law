@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Metrologjisë dhe e Kalibrimit, në bashkëpunim me institucionet e pushtetit qendror dhe vendor, brenda 6-mujorit të parë të vitit 2004, të sigurojë mjediset e punës për strukturat në qendër dhe në rrethe, në përputhje me nevojat për rritjen e frytshmërisë në punë dhe realizimin e investimeve për përmirësimin e teknologjisë.

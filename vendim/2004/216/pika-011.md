@@ -1,0 +1,1 @@
+11. Drejtoria e Përgjithshme e Metrologjisë dhe e Kalibrimit harton rregulloren e vet, e cila miratohet nga Ministri i Ekonomisë. Në rregullore përcaktohen të drejtat dhe detyrat e çdo hallke të strukturës së kësaj drejtorie dhe të çdo punonjësi në veçanti, si dhe marrëdhëniet e veçanta të punës, mbështetur në aktet ligjore e nënligjore në fuqi.

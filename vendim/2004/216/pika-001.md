@@ -1,0 +1,1 @@
+1. Ngritjen e Drejtorisë së Përgjithshme të Metrologjisë dhe të Kalibrimit, person juridik, publik, në varësi të Ministrit të Ekonomisë, e specializuar për njësitë e matjes dhe kontrollin e mjeteve matëse.

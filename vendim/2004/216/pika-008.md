@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Metrologjisë dhe e Kalibrimit, në bashkëpunim me institucionet kërkimore-shkencore, përcakton emërtesën dhe nivelin e etaloneve kombëtare të njësive të matjes dhe rregullat për ruajtjen dhe përdorimin e tyre.

@@ -1,0 +1,2 @@
+12. Drejtori i Përgjithshëm raporton, periodikisht, te Ministri i Ekonomisë për ecurinë e punës. Marrëdhëniet ndërmjet Drejtorisë së Përgjithshme të Metrologjisë dhe të Kalibrimit dhe strukturave përkatëse të Ministrisë së Ekonomisë rregullohen në bazë të urdhrave dhe udhëzimeve të Ministrit të Ekonomisë.
+Ministri i Ekonomisë miraton strategjitë afatgjata të zhvillimit dhe planin vjetor të punës së kësaj drejtorie.

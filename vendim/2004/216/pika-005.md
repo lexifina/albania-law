@@ -1,0 +1,2 @@
+5. Drejtoria e Përgjithshme e Metrologjisë dhe e Kalibrimit drejtohet nga Drejtori i Përgjithshëm, i cili emërohet nga Kryeministri.
+Për nëpunësit e Drejtorisë së Përgjithshme të Metrologjisë dhe të Kalibrimit, drejtuesit, shefat e sektorëve, specialistët dhe inspektorët e kontrollit të mjeteve matëse zbatohet legjislacioni për shërbimin civil, ndërsa për personelin mbështetës zbatohet legjislacioni i punës.

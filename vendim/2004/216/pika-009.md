@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Metrologjisë dhe e Kalibrimit mund të angazhojë edhe specialistë të jashtëm, të kualifikuar për kryerjen e detyrave të veçanta. Shpërblimi për këta specialistë të jetë 2500 lekë për ditë-pune, por jo më shumë se për një periudhë prej 30 ditësh në vit për çdo specialist.
