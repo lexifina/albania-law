@@ -1,0 +1,2 @@
+Vlerësimi i kapitalit të shoqërive që krijohen nga transformimi në shoqëri tregtare i ndërmarrjeve të furnizimit me ujë dhe largimit të ujërave të përdorura do të bëhet sipas kritereve dhe procedurave të përcaktuara në vendimin e Këshillit të Ministrave nr. 194, datë 20.3.1998 “Për kriteret e përcaktimit të kapitalit themeltar të shoqërive shtetërore që do të krijohen nga shndërrimi i ndërmarrjeve shtetërore në shoqëri tregtare”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
