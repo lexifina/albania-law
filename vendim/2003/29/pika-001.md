@@ -1,0 +1,1 @@
+1.Shoqëria “Uzina Mekanike”, shpk, Patos t’i nënshtrohet procesit të privatizimit. Forma e privatizimit të shoqërisë të jetë transferimi i së drejtës së pronësisë së pjesëve të barabarta të kapitalit themeltar të saj të tretëve.

@@ -1,0 +1,5 @@
+2.Struktura e formulës së privatizimit, për transferimin e së drejtës së pronësisë së pjesëve të barabarta të kapitalit themeltar të saj të tretëve.
+a)Struktura e formulës së privatizimit, për transferimin e së drejtës së pronësisë së pjesëve të barabarta të kapitalit të shoqërisë, të jetë si më poshtë vijon:
+b)Ish-pronarëve të truallit t’u afrohen pjesë të barabarta të kapitalit, përllogaritur sipas vlerës së këtij trualli, të përfshirë në kapitalin themeltar të shoqërisë, në mbështetje të akteve, ligjore dhe nënligjore, në fuqi.
+c)Punonjësve të shoqërisë t’u afrohen pjesë të barabarta të kapitalit në shkëmbim të vlerës së bonove të privatizimit, dhënë atyre nga shteti. Madhësia e kësaj pakete nuk mund të jetë më e madhe se 20 për qind e kapitalit themeltar të shoqërisë.
+Punonjës të “Uzinës Mekanike”, shpk, Patos, quhen punonjësit efektivë në çastin e hyrjes në fuqi të këtij vendimi dhe punonjësit e kësaj shoqërie, të dalë në asistencë me vendimet nr.422, datë 9.7.1998, e nr.372, datë 27.5.2001, të Këshillit të Ministrave.

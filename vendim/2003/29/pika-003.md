@@ -1,0 +1,1 @@
+3.Procedurat e priviatizimit të shoqërisë të bëhen në mbështetje të vendimit nr.119, datë 18.3.2000, të Këshillit të Ministrave, “Për procedurat e privatizimit me ankand të paketave shtetërore të aksioneve të shoqërive tregtare, që veprojnë në sektorët jostrategjikë”.
