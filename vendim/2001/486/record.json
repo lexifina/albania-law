@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1006,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN  NR.427, DATË 11.6.2001 TË KËSHILLIT TË MINISTRAVE “PËR DISA NDRYSHIME NË VENDIMIN NR.60, DATË 27.2.1992 TË KËSHILLIT TË MINISTRAVE “PËR TRAJTIMIN ME PAGË DHE SHTESA MBI PAGË TË USHTARAKËVE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "486",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-08-14",
+  "published": "2001-08-29",
+  "in_force": "2001-08-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 1.7.2001\": the publication day (its effects reach back to 1.7.2001)",
+  "source": "https://qbz.gov.al/files/caaf4abc2bd18905c245a7dcdadd68895cabdeb2ca444c2b53b60bd3a7943992.docx",
+  "source_sha256": "caaf4abc2bd18905c245a7dcdadd68895cabdeb2ca444c2b53b60bd3a7943992",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1006",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/08/14/486",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
