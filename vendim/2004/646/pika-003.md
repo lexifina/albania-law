@@ -1,0 +1,1 @@
+3. Numri limit i punonjësve të Drejtorisë së Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit në Ministrinë e Pushtetit Vendor dhe të Decentralizimit të jetë 12 veta, ndërsa numri limit i punonjësve të kësaj Policie në qarqe të jetë gjithsej 712 veta.
