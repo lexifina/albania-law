@@ -1,0 +1,2 @@
+8. Komitetet e specializuara përbëhen nga anëtarët e Asamblesë së Përgjithshme. Ndarja nëpër komitete e anëtarëve të Asamblesë së Përgjithshme bëhet nga kryetari i Komisionit Kombëtar.
+Kryetarët e komiteteve zgjidhen me shumicë të thjeshtë votash nga anëtarët e komitetit, në mbledhjen e parë të komiteteve. Anëtarët zgjidhen nga radhët e ekspertëve kombëtarë të fushave të arsimit, shkencës, kulturës dhe informacionit. Komitetet mblidhen sa herë që është e nevojshme.

@@ -1,0 +1,2 @@
+4. Asambleja e Përgjithshme e Komisionit Kombëtar përbëhet nga të gjithë anëtarët e këtij komisioni. Ajo kryesohet nga kryetari i Komisionit Kombëtar. Sekretari i përgjithshëm i këtij komisioni vepron me cilësinë e sekretarit të Asamblesë së Përgjithshme.
+Asambleja e Përgjithshme mblidhet të paktën një herë në vit dhe çdo herë tjetër sipas kërkesës së kryetarit të Komisionit Kombëtar, ose prej shumicës së anëtarëve të saj ose sipas kërkesës së komitetit ekzekutiv, me miratimin e kryetarit të Komisionit Kombëtar.

@@ -1,0 +1,1 @@
+12. Komisioni Kombëtar ka një sekretariat të përhershëm, i cili vepron pranë Ministrisë së Punëve të Jashtme, si një sektor në varësi të Drejtorisë që mbulon OKB-në dhe agjencitë e specializuara të saj. Në krye të sekretariatit të përhershëm është sekretari i përgjithshëm i Komisionit Kombëtar, i cili ka funksionin e shefit të këtij sektori.
