@@ -1,0 +1,1 @@
+1. Administrimi i shoqërive huamarrëse, subjekte të kontrollit, “Vefa Holding”, “Kamberi”, “Cenaj & Co”, “Silva”, “M. Leka”, “Gjallica”, “Beno” dhe “Global Foods”, të vazhdojë të kryhet nga administratorët e pavarur, të caktuar sipas listës që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+2. Administratorët, në përmbushjen e detyrave të tyre, ushtrojnë të gjithë kompetencat e caktuara në ligjin nr. 8215, datë 9.5.1997 ndryshuar me ligjin nr. 8227, datë 30.7.1997 “Për kontrollin financiar të personave juridikë, jobankarë, që kanë marrë hua nga publiku i gjerë“, dhe aktet e tjera ligjore e nënligjore të dala për shoqëritë huamarrëse.

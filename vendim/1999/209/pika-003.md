@@ -1,0 +1,3 @@
+3. Në shoqëritë me më shumë se një administrator vendimet merren në mënyrë të përbashkët. Kur një administrator jep dorëheqjen apo largohet nga detyra, zëvendësimi i tyre bëhet nga Grupi Mbikëqyrës nga personat e tjerë sipas listës rezervë.
+Për plotësimin e detyrave, në planin e vitit 1999, për Grupin Mbikëqyrës, shtohen 20 vetë dhe, për pagat e punës së administratorëve, një fond prej 12 milionë lekë, të cilat përballohen nga fondi rezervë i Këshillit të Ministrave.
+Në vartësi të nivelit të aftësimit dhe vështirësive të procesit, Grupi Mbikëqyrës, cakton pagat mujore për secilin specialist dhe administrator, brenda kufijve minimal dhe maksimal të caktuar në lidhjen bashkëlidhur vendimit.
