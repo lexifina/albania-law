@@ -1,0 +1,26 @@
+{
+  "qbz_id": 110,
+  "title": "PËR CAKTIMIN E ANËTARËVE TË KOMISIONIT TË POSAÇËM TË KUVENDIT PËR PAKTIN E STABILITETIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "429",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-02-17",
+  "published": "2000-04-27",
+  "in_force": "2000-04-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c9893aaa5d6e56bcb4dc1b811554ac50e3eafa4b7ab423fbacab9bf0b26ab35b.docx",
+  "source_sha256": "c9893aaa5d6e56bcb4dc1b811554ac50e3eafa4b7ab423fbacab9bf0b26ab35b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/110",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/02/17/429",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
