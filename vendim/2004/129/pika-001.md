@@ -1,0 +1,1 @@
+1. Ministrisë së Ekonomisë, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 48 000 000 (dyzet e tetë milionë) lekësh, për një pjesë të dëmshpërblimit të papaguar për 978 ish-punonjësit e ndërmarrjes së prodhimit të çimentos në Fushë-Krujë, të larguar nga puna pas privatizimit të kësaj ndërmarrjeje.
