@@ -1,0 +1,27 @@
+{
+  "qbz_id": 19391,
+  "title": "Vendim Nr.239 Dt.10.04.1998",
+  "type": "Vendim",
+  "number": "239",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1998-04-10",
+  "version_no": 1,
+  "qbz_version_id": 2150,
+  "in_force": "1998-06-24",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 1998-06-24",
+  "changed_by_qbz_id": 19417,
+  "changed_by_number": "397",
+  "changed_by_title": "Vendim Nr.397 Dt.24.06.1998",
+  "source": "https://qbz.gov.al/files/e4aad93de789b172430a2ead9ea1e73236b2c6512cfe07832c1395312f985b1d.docx",
+  "source_sha256": "e4aad93de789b172430a2ead9ea1e73236b2c6512cfe07832c1395312f985b1d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19391",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/19391/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
