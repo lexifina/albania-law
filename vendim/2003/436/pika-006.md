@@ -1,0 +1,1 @@
+6. Rritja e parashikuar nga ky vendim të zbatohet mbi masën që rezulton nga shuma e pensionit, plus shtesat e dhëna sipas neneve 33, 38, 39 të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë” dhe të nenit 24 të ligjit nr.4171, datë 13.6.1966 “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë”.

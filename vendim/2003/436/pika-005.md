@@ -1,0 +1,1 @@
+5. Pensioni i plotë i pleqërisë, pensioni i plotë i invaliditetit dhe pensioni i plotë familjar, të caktuara në mbështetje të paragrafit të katërt të nenit 96 të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, me datë fillimi nga 1.7.2003 e në vazhdim, të mos caktohen më pak se 2590 lekë në muaj.
