@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Financave të emetojë, në emër të Qeverisë së Republikës së Shqipërisë, obligacione afatgjata, me afat maturimi më të madh se një vit dhe përdorimin e tyre brenda kuadrit ligjor në fuqi.
