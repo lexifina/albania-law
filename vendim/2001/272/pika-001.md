@@ -1,0 +1,1 @@
+1.Miratimin e fondit të shpenzimeve të Entit Rregullator të Telekomunikacioneve, për vitin 2001, në shumën 65 000 000 (gjashtëdhjetepesë milionë) lekë, sipas strukturës së paraqitur në lidhjen nr.1, e cila i bashkëlidhet këtij vendimi.
