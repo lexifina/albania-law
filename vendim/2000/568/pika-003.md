@@ -1,0 +1,1 @@
+3. Ministria e Kulturës, Rinisë dhe Sporteve, brenda 30 ditëve nga hyrja në fuqi e këtij vendimi, t’i dorëzojë Ministrisë së Mbrojtjes listën e plotë të objekteve “Monument Kulture”, të cilat ndodhen brenda zonave apo reparteve ushtarake.

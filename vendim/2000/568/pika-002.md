@@ -1,0 +1,1 @@
+2. Këto objekte përjashtohen nga procedura e përcaktuar me vendimin nr.153, datë 3.4.1993, të Këshillit të Ministrave, “Për kalimin e objekteve e të mjeteve kryesore të ndërmarrjeve e të institucioneve shtetërore”.

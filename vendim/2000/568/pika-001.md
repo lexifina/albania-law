@@ -1,0 +1,1 @@
+1. Të gjitha objektet e shpallura “Monument Kulture”, që ndodhen brenda territorit të objekteve apo reparteve ushtarake, në çastin e shkrirjes, të transferimit apo të ndërprerjes së veprimtarisë së këtyre të fundit, kalojnë, menjëherë, në varësi të Ministrisë së Kulturës, Rinisë dhe Sporteve.
