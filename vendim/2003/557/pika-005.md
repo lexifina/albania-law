@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale, në shumën prej 147 500 (njëqind e dyzet e shtatë mijë e pesëqind) lekësh të përballohet nga Bashkia e Tiranës, e cila do të kryejë edhe pagesën e pronarëve të shpronësuar.
