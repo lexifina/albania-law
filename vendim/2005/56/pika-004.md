@@ -1,0 +1,1 @@
+4. Për disa barna të listës që, me vendim të Këshillit të Ministrave, rimbursohen nga Instituti i Sigurimeve të Kujdesit Shëndetësor të zbatohen marzhe të diferencuara, të cilat miratohen nga Këshilli i Ministrave.
