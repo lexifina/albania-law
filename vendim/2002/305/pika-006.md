@@ -1,0 +1,1 @@
+6. Në lidhjen II-4/1 të vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave ”Për pagat e punonjësve të institucioneve buxhetore”, me ndryshimet përkatëse, emërtesa ”Drejtor i Përgjithshëm i INSTAT-it” shfuqizohet.
