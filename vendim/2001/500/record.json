@@ -1,0 +1,28 @@
+{
+  "qbz_id": 1012,
+  "title": "PËR INVENTARIZIMIN E PRONAVE TË PALUAJTSHME SHTETËRORE DHE TRANSFERIMIN E PRONAVE NË NJËSITË E QEVERISJES VENDORE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "500",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-08-14",
+  "published": "2001-08-29",
+  "in_force": "2001-08-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/40286900fd031f4153c162cacb0a35a6cf88e154a7dfceb91d83163e47fd0528.docx",
+  "source_sha256": "40286900fd031f4153c162cacb0a35a6cf88e154a7dfceb91d83163e47fd0528",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1012",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/08/14/500",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    18035
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
