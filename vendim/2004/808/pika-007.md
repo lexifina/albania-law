@@ -1,0 +1,1 @@
+7. Komiteti i Menaxhimit të Krizës përcakton mënyrën e përdorimit të rezervës së sigurisë dhe çmimin e hedhjes në treg të kësaj rezerve. Forma e pagesës për subjektet që ruajnë rezervën e sigurisë për naftën, gazin dhe nënproduktet e tyre, bëhet në përputhje me legjislacionin në fuqi nga vetë subjektet dhe nga organet e institucionet shtetërore, që e marrin këtë rezervë.

@@ -1,0 +1,1 @@
+4. Rregullat teknike për ruajtjen e nënprodukteve në depozitat ku mbahet rezerva e sigurisë dhe mënyra e organizimit të kontrollit për vlerësimin standardit të cilësisë së nënprodukteve në këto depozita, përcaktohen në rregulloren e miratuar nga ministri përgjegjës për hidrokarburet.
