@@ -1,0 +1,1 @@
+2. Prona me numër rendor 838 “Ish-spitali ushtarak, Fier” të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, e cila i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave.
