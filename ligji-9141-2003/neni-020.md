@@ -1,0 +1,2 @@
+# Neni 20
+Lejet, dokumentet e kontrollit ose dokumente të tjera të ngarkesës, të nevojshme sipas kësaj Marrëveshjeje, duhet të mbahen nga shoferi gjatë të gjitha udhëtimeve të fiksuara nga kjo Marrëveshje. Sipas kërkesës, këto dokumente duhet të paraqiten tek autoritetet kompetente për kontroll dhe konfirmim të identitetit. Përpara fillimit të udhëtimit këto dokumente duhet të plotësohen në përputhje me dispozitat e kësaj Marrëveshjeje.

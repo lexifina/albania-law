@@ -1,0 +1,3 @@
+# Neni 3
+Transporti linjë i udhëtarëve nënkupton transportin e rregullt të njerëzve me autobus në një linjë të veçantë trafiku në përputhje me tabelat e orareve, listën e tarifave dhe kushtet e transportit, vendin e nisjes dhe zbritjes, të rëna dakord dhe të shpallura më parë. Kjo është gjithashtu e vlefshme për transportin që ka karakteristikat e transportit linjë.
+Transporti linjë, në përputhje me këtë Marrëveshje, nënkupton gjithashtu transportin e rregullt të kategorive të caktuara të udhëtarëve, duke përjashtuar udhëtarë të tjerë, pavarësisht kush i përcakton tabelat e orareve, në qoftë se ekzistojnë karakteristikat e transportit linjë, ashtu si përcaktohet në paragrafin 1 të këtij neni.

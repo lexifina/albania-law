@@ -1,0 +1,2 @@
+# Neni 24
+Përfaqësuesit e autoriteteve kompetente të të dyja Palëve Kontraktuese vendosin komisionin e përbashkët. Sesioni i komisionit të përbashkët duhet të mblidhet të paktën një herë në vit sipas kërkesës së njërës nga Palët Kontraktuese. Komisioni i përbashkët duhet të jetë përgjegjës për zbatimin e rregullt dhe korrekt të kësaj Marrëveshjeje. Është e nevojshme që komisioni i përbashkët së bashku me autoritetet e tjera kompetente të iniciojë sugjerime për ta bërë këtë Marrëveshje në përputhje me zhvillimet e transportit, si dhe me ndryshimet e rregullave ligjore.
