@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së lidhur ndërmjet Ministrisë së Financave dhe Raiffeisen Zentral bank, Austri, për shitjen 100 për qind të aksioneve të Bankës së Kursimeve sh.a., me vlerë 18 000 (tetëmbëdhjetë mijë) USD për aksion dhe me vlerë të përgjithshme 126 000 000 (njëqind e njëzet e gjashtë milionë) USD, sipas tekstit që i bashkëlidhet këtij vendimi.

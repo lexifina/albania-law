@@ -1,0 +1,1 @@
+3. Ministria e Financave merr përsipër të gjitha detyrimet që do të lindin si rezultat i konflikteve për marrëdhëniet e punës me punonjësit dhe ish-punonjësit e Bankës së Kursimeve sh.a., përpara datës së hyrjes në fuqi të Kontratës së shitjes së aksioneve.
