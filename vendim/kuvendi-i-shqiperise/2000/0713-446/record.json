@@ -1,0 +1,26 @@
+{
+  "qbz_id": 257,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR LIRIMIN E ZOTIT ARBEN DEMETI NGA DETYRA E MINISTRIT TË PUNËVE PUBLIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "446",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-07-13",
+  "published": "2000-07-19",
+  "in_force": "2000-07-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b95ea0a70f05f87faf8f51aa115c581067bc326e9802c0769b64c5f9f3da3db8.docx",
+  "source_sha256": "b95ea0a70f05f87faf8f51aa115c581067bc326e9802c0769b64c5f9f3da3db8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/257",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/13/446",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
