@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet “Protokolli i mirëkuptimit ndërmjet Qeverisë së Republikës të Shqipërisë dhe Qeverisë së Republikës të Italisë për zhvillimin e programeve të mbështetjes së Forcave të Policisë Shqiptare dhe të bashkëpunimit ndërmjet të dyja vendeve në luftë kundër kriminalitetit, nëpërmjet zyrës ndërlidhëse italiane në Shqipëri dhe oficerit ose oficerëve shqiptarë të kontaktit në Itali”, nënshkruar në Leçe (Itali) më 11 nëntor 2002.
