@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2263,
+  "title": "PËR DHËNIE LICENCE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "150",
+  "institution": "Këshilli Kombëtar i Radiotelevizionit Shqiptar",
+  "adopted": "2003-07-30",
+  "published": "2003-09-03",
+  "in_force": "2003-09-03",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/af219816b7e59295acc727caa1d9e77943e7a74baba4f4bb8faa6f044d5e2515.docx",
+  "source_sha256": "af219816b7e59295acc727caa1d9e77943e7a74baba4f4bb8faa6f044d5e2515",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2263",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/07/30/150",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
