@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1516,
+  "title": "Për disa ndryshime e shtesa në ligjin nr.8003, datë 28.9.1995 “Kodi Penal Ushtarak i Republikës së Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8919",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-07-04",
+  "published": "2002-07-16",
+  "in_force": "2002-07-31",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/ac73b273f210402303db1538c347cf6b7a27986477f58a035d3c3dcaba5f6356.docx",
+  "source_sha256": "ac73b273f210402303db1538c347cf6b7a27986477f58a035d3c3dcaba5f6356",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1516",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/07/04/8919",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
