@@ -1,0 +1,1 @@
+9. Organizon punën për mbylljen e kutive të votimit dhe merr masat për dorëzimin brenda 24 orëve nga mbyllja e votimit të kutive të votimit dhe zarfin me procesverbalet e votimit, sipas mënyrave të parashikuara nga KZZ (neni 106/10).

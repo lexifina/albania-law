@@ -1,0 +1,1 @@
+Për zbatimin e ligjit, gjatë procesit parazgjedhor dhe zgjedhor, si dhe për njësimin e praktikave zgjedhore, lidhur me kriteret e zgjedhjes, të drejtat dhe detyrat e sekretarit të komisionit të qendrës së votimit, të veprohet si vijon:
