@@ -1,0 +1,1 @@
+5. Fondi prej 60 089 764 (gjashtëdhjetë milionë e tetëdhjetë e nëntë mijë e shtatë qind e gjashtëdhjetë e katër) lekësh të përballohet nga Buxheti i Shtetit i vitit 2002, zëri “Shpronësime”, miratuar për Ministrinë e Transportit dhe Telekomunikacionit.
