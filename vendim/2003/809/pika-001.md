@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve, të cilët preken nga ndërtimi i urës së re, Bogovë, ndërtim i cili ka filluar në shtator të vitit 2003 dhe do të përfundojë brenda katër muajsh.

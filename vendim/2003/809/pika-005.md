@@ -1,0 +1,1 @@
+5. Fondi prej 4 651 550 (katër milionë e gjashtëqind e pesëdhjetë e një mijë e pesëqind e pesëdhjetë) lekësh për kompensimin e pronarëve dhe shpenzimet procedurale, sipas pikave 3 e 4 të këtij vendimi, të përballohet nga buxheti i vitit 2003, zëri ”Shpronësime”, miratuar për Ministrinë e Transportit dhe të Telekomunikacionit.
