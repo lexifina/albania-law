@@ -1,0 +1,26 @@
+{
+  "qbz_id": 945,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.403, DATË 11.6.2001 TË KËSHILLIT TË MINISTRAVE “PËR RRITJEN E PENSIONEVE SUPLEMENTARE",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "457",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-06-28",
+  "published": "2001-07-13",
+  "in_force": "2001-07-13",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.7.2001\": the publication day (its effects reach back to 1.7.2001)",
+  "source": "https://qbz.gov.al/files/9b7f1521f8aa563a05b00cbc5f6bb9ccf1df41f41e9e3748de919a4cf90289d2.docx",
+  "source_sha256": "9b7f1521f8aa563a05b00cbc5f6bb9ccf1df41f41e9e3748de919a4cf90289d2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/945",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/06/28/457",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
