@@ -1,0 +1,1 @@
+1. Hapjen e vendkalimit të ri kufitar Rips, Sarandë në kufirin shtetëror tokësor të Republikës së Shqipërisë me Republikën e Greqisë për komunikacion kufitar për qarkullimin e njerëzve dhe të mallrave.
