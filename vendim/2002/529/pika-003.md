@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për sipërfaqen 8286 m2 tokë arë dhe 75 rrënjë dru frutorë, vlerësuar në shumën e përgjithshme prej 4 287 163 (katër milionë e dyqind e tetëdhjetë e shtatë mijë e njëqind e gjashtëdhjetë e tre) lekësh.
