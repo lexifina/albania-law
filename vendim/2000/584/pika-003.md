@@ -1,0 +1,1 @@
+3. Të gjithë personat, fizikë ose juridikë, që hartojnë projekte për ndërtimin e objekteve, publike dhe private, do të përfshijnë në to edhe instalimet e ngrohjes, sipas pikës 2, duke patur parasysh normativat e Komunitetit Europian të ngrohjes së banesave dhe të ndërtimeve publike e private.

@@ -1,0 +1,1 @@
+2. Burimet energjetike, që do të përdoren për ngrohje, të jenë me lëndë djegëse organike, të ngurta, të lëngta dhe të gazta. Në asnjë rast sistemet e ngrohjes nuk duhet të parashikojnë përdorimin e energjisë elektrike.
