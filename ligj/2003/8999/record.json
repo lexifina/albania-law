@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1845,
+  "title": "PËR NJË NDRYSHIM NË LIGJIN NR.8449, DATË 27.1.1999 “KODI DOGANOR I REPUBLIKËS SË SHQIPËRISË”, NDRYSHUAR ME LIGJIN NR.8473, DATË 14.4.1999",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8999",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-01-30",
+  "published": "2003-02-25",
+  "in_force": "2003-03-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/cea79ab896ea03d06c213c3c3cefe0ba12c66b8ae31b196687bf9b8663970490.docx",
+  "source_sha256": "cea79ab896ea03d06c213c3c3cefe0ba12c66b8ae31b196687bf9b8663970490",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1845",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/01/30/8999",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
