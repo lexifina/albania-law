@@ -1,0 +1,1 @@
+5. Drejtori i Shërbimit Informativ të Shtetit krahas njoftimit të rregullt, një herë në gjashtë muaj, i dërgon Kryeministrit një raport, me shkrim, për përparësitë, nivelet dhe fushat e bashkëpunimit me shërbimet informative të huaja.

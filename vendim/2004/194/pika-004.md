@@ -1,0 +1,1 @@
+4. Në rastet kur, për zgjidhjen e detyrave të përbashkëta, është i domosdoshëm dërgimi jashtë Republikës së Shqipërisë i burimit të Shërbimi Informativ të Shtetit, ai shoqërohet, drejtohet dhe kontrollohet nga inspektori, që e mban në lidhje. Kur është e nevojshme inspektori bashkëpunon dhe mbështetet edhe nga inspektorë të tjerë të këtij shërbimi.

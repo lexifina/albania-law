@@ -1,0 +1,1 @@
+1. Shërbimi Informativ i Shtetit, për realizimin e detyrave për sigurimin kombëtar, bashkëpunon me shërbimet informative të vendeve të huaja, në përputhje me parimet e respektimit e të besimit të ndërsjellë, të barazisë dhe respektimit të pavarësisë.
