@@ -1,0 +1,33 @@
+{
+  "qbz_id": 1961,
+  "title": "PËR DEKLARIMIN DHE KONTROLLIN E PASURIVE, TË DETYRIMEVE FINANCIARE TË TË ZGJEDHURVE DHE TË DISA NËPUNËSVE PUBLIKË",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9049",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2003-04-10",
+  "published": "2003-05-15",
+  "in_force": "2003-05-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/fd8d0644435f4948d9f45e2bf20b48a11d4985762519157f9c2930c7dc902915.docx",
+  "source_sha256": "fd8d0644435f4948d9f45e2bf20b48a11d4985762519157f9c2930c7dc902915",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1961",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2003/04/10/9049",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56113,
+    61062,
+    10751,
+    8601,
+    4420,
+    3484
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
