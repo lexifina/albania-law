@@ -1,0 +1,1 @@
+9. Efektet financiare për zbatimin e këtij vendimi për vitin 2004 llogariten në shumën 1 552 milionë lekë dhe të përballohen nga fondet e parashikuara për këtë qëllim në buxhetin e vitit 2004, miratuar për Institutin e Sigurimeve Shoqërore.
