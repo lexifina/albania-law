@@ -1,0 +1,5 @@
+# Neni 17
+1. Ndërmjetësuesi, brenda 45 ditëve nga data që i është dërguar çështja nga gjykata ose prokuroria, i njofton ato për zgjidhjen ose jo të mosmarrëveshjes, duke dërguar edhe aktet përkatëse.
+2. Në rastin kur është zgjidhur çështja me anë të ndërmjetësimit, organet gjyqësore e të prokurorisë vendosin pushimin e çështjes penale a civile ose refuzimin e fillimit të procedimit penal, si dhe bëjnë shënimet në regjistrat përkatës, përveç rasteve kur arrihet në përfundimin se vërehet pavlefshmëri.
+3. Zgjidhja e mosmarrëveshjeve me ndërmjetësim, ku parashikohen detyrime në të holla, dorëzim sendesh ose kryerja e shërbimeve të vlerësueshme e të dokumentuara me shkrim, mund të kundërshtohet brenda 10 ditëve nga palët, pjesëmarrësit e tjerë në proces, personat e interesuar ose organi përkatës. Në të kundërt aktmarrëveshja përbën titull ekzekutiv në mbështetje të nenit 510 të Kodit të Procedurës Civile dhe ngarkohet Zyra e Përmbarimit për ekzekutimin e tij.
+4. Kur bëhet kundërshtim, gjykata ose prokuroria marrin parasysh mënyrën e zgjidhjes me ndërmjetësim, por, gjithashtu, nuk ka pengesë ligjore për zgjidhje tjetër, në përputhje me ligjin.
