@@ -1,0 +1,26 @@
+{
+  "qbz_id": 501,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.531, DATË 5.10.2000, TË KËSHILLIT TË MINISTRAVE, “PËR KUOTËN E PRANIMIT NË AKADEMINË E POLICISË, NË VITIN SHKOLLOR 2000-2001, NË SISTEMIN ME SHKËPUTJE NGA PUNA”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "645",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-12-05",
+  "published": "2000-12-16",
+  "in_force": "2000-12-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b00b1a0340de9c57bc954b6084294c7f71977e56ab021716b63c2cf9b06aee61.docx",
+  "source_sha256": "b00b1a0340de9c57bc954b6084294c7f71977e56ab021716b63c2cf9b06aee61",
+  "official_record": "https://qbz.gov.al/api/v1/acts/501",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/12/05/645",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
