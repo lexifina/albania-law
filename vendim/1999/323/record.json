@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123867,
+  "title": "Për përgatitjen, përshtatjen dhe zbatimin e rregullave teknike dhe procedurat për vlerësimin e konformitetit me rregullat teknike dhe standardet",
+  "type": "Vendim",
+  "number": "323",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-07-08",
+  "version_no": 1,
+  "qbz_version_id": 10913,
+  "in_force": "2003-07-03",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2003-07-03",
+  "changed_by_qbz_id": 2185,
+  "changed_by_number": "9097",
+  "changed_by_title": "PËR VLERËSIMIN E KONFORMITETIT",
+  "source": "https://qbz.gov.al/files/0963120c7288fef6f5edf86d39d5ff35be0c1411a5645141d3e35f46d1bc8ca2.docx",
+  "source_sha256": "0963120c7288fef6f5edf86d39d5ff35be0c1411a5645141d3e35f46d1bc8ca2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123867",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123867/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
