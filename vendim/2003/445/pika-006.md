@@ -1,0 +1,1 @@
+6. Të gjithë personat juridikë a fizikë, sipas paragrafit të parë të pikës 2, përpara paraqitjes së kërkesës për licencim apo rilicencim në Ministrinë e Transportit dhe të Telekomunikacionit dhe në Ministrinë e Bujqësisë dhe të Ushqimit të pajisen me vërtetim regjistrimi, të lëshuar nga Inspektorati Shtetëror i Punës së rrethit përkatës.

@@ -1,0 +1,1 @@
+3. Të gjitha anijet e regjistruara në territorin e Republikës së Shqipërisë, të inspektohen nga Inspektorati Shtetëror i Punës i rrethit përkatës në intervale kohe jo më të gjata se 3- vjeçare edhe, kur është e mundshme 1-vjeçare.
