@@ -1,0 +1,1 @@
+3. Për dhënien e tyre, në marrëdhënie me Ministrinë e Punëve të Jashtme dhe Përfaqësitë Diplomatike, do të jenë në fuqi procedurat administrative dhe dokumentare në fuqi, ndërsa veprimtaria e zyrës së shprehur në pikën 2, të përcaktohet me akt të brendshëm të Drejtorit të Përgjithshëm.
