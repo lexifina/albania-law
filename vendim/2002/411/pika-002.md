@@ -1,0 +1,1 @@
+2. Kalimin në administrimin e zyrës së regjistrimit të pasurive të paluajtshme Korçë, të mensës së ish-uzinës së instrumenteve Korçë, në rrugën Korçë-Maliq, me sipërfaqe të përgjithshme 1 115 m2, nga të cilat 460 m2 janë sipërfaqe trualli nën objekt dhe 655 m2 janë truall funksional, sipas planvendosjes, që i bashkëlidhet këtij vendimi.

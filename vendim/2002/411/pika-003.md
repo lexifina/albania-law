@@ -1,0 +1,1 @@
+3. Kalimin në administrimin e zyrës së regjistrimit të pasurive të paluajtshme Durrës, të disa mjediseve të godinës së fermentimit të duhanit Durrës, me sipërfaqe të përgjithshme 600 m2, nga të cilat 440 m2 janë sipërfaqe trualli nën objekt dhe 160 m2 janë truall funksional, sipas planvendosjes, që i bashkëlidhet këtij vendimi.
