@@ -1,0 +1,1 @@
+1. Personat që kanë statusin e jetimit me librezë nga drejtuesi i Shërbimit Social Shtetëror, të cilët nuk janë në marrëdhënie pune, kanë të drejtë të përfitojnë shërbim shëndetësor dhe barna falas, sipas përshkrimit të bërë nga mjeku në recetë.
