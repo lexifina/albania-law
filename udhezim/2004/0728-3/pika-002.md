@@ -1,0 +1,1 @@
+2. Furnizimi me ujë të pijshëm dhe trajtimi i ujërave të përdorura bëhet nga sh.a. ujësjellës-kanalizime, koncensionari si shoqëri menaxhuese të ujësjellës-kanalizimeve ose ndërmarrjet e ujësjellës-kanalizimeve, të licencuara në bazë të kontratave të shitjes që lidhen ndërmjet palëve. Njësitë e qeverisjes vendore ushtrojnë kompetenca rregullatore gjatë këtij procesi.

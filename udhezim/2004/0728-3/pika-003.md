@@ -1,0 +1,1 @@
+3. Ujësjellësit që shërbejnë për furnizimin e fshatrave të një komune ose të një bashkie administrohen nga vetë njësitë e qeverisjes vendore, me përjashtim të rasteve kur komuna ose bashkia, miraton administrimin me një nga format e parashikuara në dokumentin e politikave për decentralizimin e ujësjellës-kanalizimeve.
