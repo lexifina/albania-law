@@ -1,0 +1,1 @@
+3. Në rastet kur OMP-ja disponon ambiente të tepërta, ato i vihen në dispozicion ndërmarrjes së rritjes dhe zënies së midhjes dhe peshkut Sarandë, e cila mund t’i përdorë vetë ose t’i japë me qira, konform dispozitave ligjore në fuqi.
