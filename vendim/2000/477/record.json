@@ -1,0 +1,26 @@
+{
+  "qbz_id": 360,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.51, DATË 17.2.2000, TË KËSHILLIT TË MINISTRAVE, “PËR NJË SHTESË NË VENDIMIN NR.248, DATË 25.3.1996, TË KËSHILLIT TË MINISTRAVE, “PËR PËRCAKTIMI E NUMRIT DHE KATEGORISË SË TELEFONAVE CELULARË, NË PËRDORIM TË INSTITUCIONEVE BUXHETORE””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "477",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-08-31",
+  "published": "2000-10-23",
+  "in_force": "2000-10-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f75683efd9c98ed17d9f49c986dc6cb04b1daa80a080ae78b0cf6d280207a212.docx",
+  "source_sha256": "f75683efd9c98ed17d9f49c986dc6cb04b1daa80a080ae78b0cf6d280207a212",
+  "official_record": "https://qbz.gov.al/api/v1/acts/360",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/08/31/477",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
