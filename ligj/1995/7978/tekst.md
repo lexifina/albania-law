@@ -4,7 +4,7 @@ Nr. 7978, datë 26.7.1995
 
 PËR FORCAT E ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË
 
-(Ndryshuar me ligjet; nr. 8183, datë 20.1.1997; nr. 8404, datë 15.9.1998; nr. 8670, datë 26.10.2000; nr. 9047, datë 10.7.2003)
+(Ndryshuar me ligjet; nr. 8183, datë 20.1.1997; nr. 8404, datë 15.9.1998; nr. 8670, datë 26.10.2000; nr. 9047, datë 10.7.2003; nr. 9183, datë 5.2.2004)
 
 (i përditësuar)
 
@@ -253,53 +253,25 @@ KREU VI
 
 DISIPLINA, UNIFORMA, JETA E BRENDSHME DHE SHËRBIMI I ROJËS NË FORCAT ARMATOSURA
 
+(Shfuqizuar Kreu VI me ligjin nr. 9183, datë 5.2.2004)
+
 Nocione 
 
 Neni 51  
 
-a) Baza e Forcave të Armatosura është disiplina ushtarake. Të gjithë ushtarakët vartës dhe eprorë janë të detyruar të zbatojnë pa diskutim Kushtetutën, ligjet, rregulloret ushtarake dhe urdhrat sipas hierarkisë.
-
-Për shkeljet e disiplinës ushtarake jepen masa disiplinore, administrative ose penale.
-
-Rregulla të hollësishëm për disiplinën ushtarake, për stimujt moralë dhe materialë, llojet e masave disiplinore, kompetencat e komandave në dhënien e tyre dhe ankimet e raportimet përcaktohen në rregulloret-bazë përkatëse.
-
-b) “Shefi” është personi autoritar që ka të drejtë t’u japë urdhër vartësve të tij.
-
-c) “Eprori” është ushtaraku me gradë më të lartë. Ai është autoriteti që u jep urdhra vartësve për probleme disiplinore.
-
-ç) “Vartës” është personi me gradë më të ulët.
-
-d) “Komandanti” është personi që komandon njësi strategjike, operative, njësi, reparte e nënreparte taktike të mbështetjes luftarake e administrative.
-
-e) “Autoritet” është personi që ka të drejtë të përdorë forcën që i ka dhënë ligji.
-
-ë) “Urdhri” është ushtrimi i autoritetit që i është dhënë për kryerjen detyrave.
-
-f) “Komandimi” është ushtrimi i autoritetit të dhënë nga ligji sipas shkallëve që nga nënreparti e njësitë më të ulëta deri te njësitë më të larta.
-
-g) “Drejtimi” e “kontrolli” është veprimtaria e organizuar e komandantëve në përdorimin e reparteve e njësive brenda kuadrit të komandimit. 
-
-gj) “Masa” është ushtrimi i autoritetit nga ana e eprorëve sipas ligjit, vendimeve, urdhrave për ruajtjen e vazhdimësisë së disiplinës.
-
-h) “Stimuli” është formë shpërblimi që i jepet personit për rezultate të larta në realizimin e detyrave.
-
-i) “Uniforma është veshja që përdoret sipas modeleve të miratuara në rregulloren dhe albumet e veshmbathjes të Forcave të Armatosura për personelin ushtarak dhe civil.
-
-Çdo ushtarak është i detyruar të mirëmbajë dhe ta përdorë uniformën sipas modeleve të përcaktuara, në të kundërt i jepet masë disiplinore materiale ose penale.
-
-Jeta e brendshme në forcat e armatosura    
+ (Shfuqizuar me ligjin nr. 9183, datë 5.2.2004)
 
 Neni 52
 
-Jeta dhe veprimtaria e Forcave të Armatosura organizohet, drejtohet dhe zhvillohet në bazë të ligjeve, akteve nënligjore, rregulloreve ushtarake, urdhrave dhe udhëzimeve.
+(Shfuqizuar me ligjin nr. 9183, datë 5.2.2004)
 
 Shërbimi i rojës
 
 Neni 53
 
-Shërbimi i rojës organizohet për ruajtjen e jetës së njerëzve, objekteve pronës ushtarake etj. nga veprimtaria keqbërëse dhe nga të gjitha shkaqet e faktorët që sjellin pasoja negative. Ai bazohet në zbatimin me përpikëri të ligjeve, akteve nënligjore, rregulloreve, urdhrave e udhëzimeve.
+ (Shfuqizuar me ligjin nr. 9183, datë 5.2.2004)
 
-KREU VII
+                                                       KREU VII
 
 Neni 54
 
