@@ -1,0 +1,1 @@
+2. Zyrat dhe mjediset e Institutit të Studimeve dhe të Projektimeve të Teknologjisë Kimike, baza materiale, laboratorët, arkivat dhe struktura organizative i kalojnë në administrim Ministrisë së Mjedisit, për krijimin e Institutit të Mjedisit.
