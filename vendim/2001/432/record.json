@@ -1,0 +1,26 @@
+{
+  "qbz_id": 934,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.437, DATË 3.9.1993 TË KËSHILLIT TË MINISTRAVE “PËR PAGAT E PUNONJËSVE TË TATIMEVE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "432",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-06-11",
+  "published": "2001-06-29",
+  "in_force": "2001-06-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 1.7.2001\": the publication day (its effects reach back to 1.7.2001)",
+  "source": "https://qbz.gov.al/files/5c88f73908b2516bfe1aae09c5cbcdcf341be163c35bd2cbc53313a167427284.docx",
+  "source_sha256": "5c88f73908b2516bfe1aae09c5cbcdcf341be163c35bd2cbc53313a167427284",
+  "official_record": "https://qbz.gov.al/api/v1/acts/934",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/06/11/432",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
