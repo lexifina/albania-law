@@ -4,6 +4,10 @@ Nr.8626, datë 22.6.2000
 
 STATUSI I INVALIDIT PARAPLEGJIK DHE TETRAPLEGJIK
 
+(Ndryshuar me ligjin nr. 9355, datë 10.3.2005)
+
+(i përditësuar)
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave
 
 K U V E N D I
@@ -18,11 +22,7 @@ Nga ky ligj përfitojnë të gjithë invalidët paraplegjikë dhe tetraplegjikë
 
 Neni 2
 
-Në kuptimin e këtij ligji:
-
-1. “Paraplegjik” nënkupton çdo person që vuan nga paraliza e dy anësive të poshtme si pasojë e dëmtimit të palcës kurrizore nga shkaqe të ndryshme.
-
-2. “Tetraplegjik” nënkupton çdo person, që vuan nga paraliza e katër anësive si pasojë e dëmtimit të palcës kurizore nga shkaqe të ndryshme dhe i klasifikuar si i tillë me vendimin e Komisionit Mjekësor të Caktimit të Aftësisë për Punë.
+(Shfuqizuar me ligjin nr. 9355, datë 10.3.2005)
 
 Neni 3
 
