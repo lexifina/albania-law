@@ -1,0 +1,1 @@
+2. Instituti i Sigurimeve Shoqërore, në kuadër të projektit “Asistencë për zgjedhjet”, të japë, në përdorim të Ministrisë së Pushtetit Lokal, të dhënat dhe informacionin që ka në regjistrin qendror të numrit të sigurimit shoqëror, për hartimin e listave paraprake të votimit.

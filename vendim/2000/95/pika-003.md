@@ -1,0 +1,1 @@
+3. Ministria e Pushtetit Lokal, pas përfundimit të procesit të verifikimit në zyrat e gjendjes civile, e të regjistrimit të të dhënave në Regjistrin Kombëtar të Votuesve, ia rikthen këto të dhëna, të azhornuara, Institutit të Sigurimeve Shoqërore.

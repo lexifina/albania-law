@@ -1,0 +1,1 @@
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përcaktohen me marrëveshje ndërmjet palëve të interesuara dhe të përballohen nga fondet e siguruara për projektin e asistencës për zgjedhjet.

@@ -1,0 +1,1 @@
+4. Ministria e Pushtetit Lokal dhe Instituti i Sigurimeve Shoqërore të përcaktojnë, me udhëzim të përbashkët,mënyrën e këmbimit reciprok dhe të ruajtjes së dokumentacionit, të informacionit dhe të të dhënave të tjera, të kërkuara, sipas nenit 10, të ligjit nr.7845, datë 13.7.1994, “Për numrin e sigurimit shoqëror”.
