@@ -1,0 +1,36 @@
+{
+  "qbz_id": 477,
+  "title": "PËR PAJISJEN E SHTETASVE SHQIPTARË ME PASAPORTË PËR JASHTË SHTETIT",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "8668",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-10-23",
+  "published": "2000-12-07",
+  "in_force": "2000-12-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e3cda1c10d57ed8450c0c2c73fe0850db195c4da7c49c9582de436abe462192a.docx",
+  "source_sha256": "e3cda1c10d57ed8450c0c2c73fe0850db195c4da7c49c9582de436abe462192a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/477",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2000/10/23/8668",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    30318,
+    29735,
+    22887,
+    21715,
+    55340,
+    10653,
+    15194,
+    1844,
+    1022
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
