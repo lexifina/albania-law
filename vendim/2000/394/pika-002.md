@@ -1,0 +1,1 @@
+2. ASHR-ja krijohet si një projekt pilot, i cili do të vlerësohet brenda vitit të dytë të qënies së tij, me qëllim që, kur është mundësia, e njëjta strukturë, me organizim shëndetësor si ASHR-ja të shtrihet në gjithë territorin e vendit.
