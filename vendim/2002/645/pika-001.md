@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve, që preken nga ndërtimi i nënstacioneve Elbasan 400 kV, Elbasan 220 kV dhe nga ndërtimi i linjës 220 kV ndërmjet tyre, sipas tabelës që i bashkëlidhet këtij vendimi.
