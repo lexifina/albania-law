@@ -1,0 +1,1 @@
+9. Drejtoria e Akreditimit, kur kushtet e akreditimit nuk plotësohen, ka të drejtë ta pezullojë ose ta tërheqë akreditimin. Në rastet e moskonformiteteve në shkallë të ulët, ku si të tilla vlerësohen ato që nuk cenojnë vlefshmërinë e akreditimit, Drejtoria e Akreditimit mund t’i ngarkojë detyra shtesë organizmit deri në plotësimin e kushteve .

@@ -1,0 +1,1 @@
+12. Drejtoria e Akreditimit, për kryerjen e detyrave të parashikuara në ligj, bashkëpunon me institucionet publike dhe subjektet private, vendase ose të huaja, si dhe merr pjesë në veprimtarinë e saj.

@@ -1,0 +1,1 @@
+1. Krijimin e Drejtorisë së Akreditimit, si institucion me financim nga Buxheti i Shtetit, në varësi të Ministrit të Ekonomisë, e cila administron tërë sistemin e akreditimit në Republikën e Shqipërisë, si një institucion i pavarur dhe i paanshëm.
