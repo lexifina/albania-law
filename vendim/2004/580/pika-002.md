@@ -1,0 +1,15 @@
+2. Ministria e Integrimit Europian ushtron këto veprimtari:
+a) Bashkërendon punën dhe monitoron përgatitjet e institucioneve shqiptare dhe angazhimet e ndërmarra prej tyre, në kuadër të procesit të stabilizim-asocimit;
+b) Bashkërendon, monitoron dhe raporton për zbatimin e rekomandimeve të Komisionit Europian, të dala nga takimet e përbashkëta me Bashkimin Europian, në nivele të ndryshme;
+c) Përgatit mekanizmat metodologjikë në funksion të lehtësimit të zbatimit të reformave sektorale, që rrjedhin nga negocimi dhe zbatimi i marrëveshjes së stabilizim-asocimit;
+ç) Bashkërendon punën ndërmjet ministrive të linjës dhe institucioneve të tjera qendrore për hartimin e planeve kombëtare për partneritetin europian, me qëllim realizimin e objektivave të përcaktuar në kuadër të procesit të integrimit europian;
+d) Bashkërendon, monitoron dhe analizon ecurinë e procesit të përafrimit të legjislacionit vendas me atë të Bashkimit Europian, duke mbajtur lidhje të rregullta institucionale me ministritë e linjës dhe institucionet e tjera qendrore;
+dh) Harton, në bashkëpunim me ministritë e linjës dhe institucionet e tjera qendrore, planin kombëtar për përafrimin e legjislacionit shqiptar me atë të Bashkimit Europian, si dhe kontrollon zbatimin e këtij plani dhe të programeve të tjera të lidhura me partneritetin europian;
+e) Vlerëson përputhshmërinë e projektakteve normative të propozuara nga ministritë e linjës dhe institucionet e tjera qendrore me të drejtën e Bashkimit Europian, të cilat duhet të pasqyrojnë në relacionin shoqërues, shkallën e përafrimit dhe referencat për legjislacionin përkatës dhe jurisprudencën e Komunitetit Europian;
+ë) Bashkërendon punën dhe ndihmon ministritë e linjës dhe institucionet e tjera qendrore për hartimin e legjislacionit të nevojshëm, me qëllim përmbushjen e detyrimeve, që rrjedhin nga marrëveshja e stabilizim-asocimit;
+f) Konfirmon përkthimin e dokumentacionit bazë, të nevojshëm për procesin e përafrimit të legjislacionit vendas me atë të Bashkimit Europian;
+g) Bashkërendon, programon dhe monitoron ndihmën komunitare për Republikën e Shqipërisë (programi CARDS, programi i fqinjësisë, TAIEX, si dhe programe të tjera ndihme, që mund t’i ofrohen Republikës së Shqipërisë), sipas përparësive të vendit tonë, në kuadër të procesit të integrimit europian;
+gj) Përgatit dhe ndjek nënshkrimin e marrëveshjeve të ndihmave financiare të Bashkimit Europian për Republikën e Shqipërisë, në kuadër të programeve të përcaktuara në shkronjën ”g” të kësaj pike;
+h) Udhëheq dhe bashkërendon punën e ministrive të linjës dhe të institucioneve të tjera qendrore në përgatitjen e projekteve parësore dhe, në kuadër të programeve të përcaktuara në shkronjën ”g”, ia paraqet për mbështetje financiare Bashkimit Europian;
+i) Merr pjesë në veprimtarinë e grupeve të punës, të ngritura nga institucione të tjera shtetërore, për hartimin e programeve të ndryshme për integrimin e Republikës së Shqipërisë në Bashkimin Europian;
+j) Shkëmben të dhëna dhe organizon takime periodike, në nivel kombëtar, rajonal dhe ndërkombëtar, në funksion të procesit të integrimit europian.

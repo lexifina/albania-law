@@ -1,0 +1,1 @@
+1. Ministria e Integrimit Europian ka për mision drejtimin teknik dhe bashkërendimin e procesit të integrimit të Republikës së Shqipërisë në Bashkimin Europian, nëpërmjet përafrimit të legjislacionit vendas me atë të Bashkimit Europian, hartimit të politikave të integrimit, bashkërendimit të ndihmave financiare dhe informimit të publikut për këtë proces.
