@@ -1,0 +1,1 @@
+1. Kalimin e mjediseve të katit përdhe dhe të tre mjediseve të katit të parë të ndërtesës së ish-vendkomandës të kohës së veçantë në qytetin e Vlorës, të cilat janë në administrim të prefektit të qarkut të Vlorës, në përgjegjësi administrimi të Drejtorisë së Përgjithshme të Arkivave, sipas planvendosjes dhe planimetrisë, që i bashkëlidhet këtij vendimi.
