@@ -1,0 +1,8 @@
+# Vendim nr. 298, datë 19.12.2002 (Gjykata të Rretheve Gjyqësore)
+
+Issuer: Gjykata të Rretheve Gjyqësore. Type: Vendim. Act date: 2002-12-19.
+Published in Fletorja Zyrtare nr. 93/2002 on 2002-12-31.
+
+Official QBZ record: <https://qbz.gov.al/api/v1/acts/1809>. ELI: <https://qbz.gov.al/eli/vendim/2002/12/19/298>. Official text (Word): <https://qbz.gov.al/files/49dffe732d687c03496da0475e674f331a915863cc21f7e0e0bb2a7e6517fac1.docx>. Official text (PDF): <https://qbz.gov.al/pdf/052c586f6a9da86d356ec211ebc804c03a96bee196c54857d34d7ba4a590f5c7.pdf>. QBZ gazette record: <https://qbz.gov.al/api/v1/gazettes/2002/93>.
+
+Metadata and official link for a court decision published in the Fletorja Zyrtare (parties not reproduced).
