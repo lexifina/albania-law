@@ -1,0 +1,7 @@
+# Neni 16
+Kërkesa të veçanta për eksportimin e lëndëve të kategorisë 3
+1. Eksportimi i lëndëve të kategorisë 3 është i lirë, pa autorizim, përveç rasteve që përcaktohen në shtojcën 6:
+a) kur ato destinohen drejtpërsëdrejti ose tërthorazi në vendet që kanë marrëveshje me Republikën e Shqipërisë, sipas së cilës eksportimi do të bëhet vetëm pasi të lëshohet paraprakisht nga vendi importues leja e importimit, autorizimi, ose në vendet që i kanë kërkuar Sekretarit të Përgjithshëm të Organizatës së Kombeve të Bashkuara njoftim paraprak për eksportin që do të bëhet nga vendi eksportues, në zbatim të paragrafit 10(a) të nenit 12 të Konventës së Kombeve të Bashkuara Kundër Trafikut të Paligjshëm të Drogave Narkotike dhe të Lëndëve Psikotrope, të vitit 1988, shënuar me një asteriks në shtojcën 6 të këtij ligji, jepet autorizim individual eksporti;
+b) kur ato destinohen drejtpërdrejt ose tërthorazi në vendet e tjera, që shënohen në shtojcën 6, jepet autorizim individual i hapur.
+2. Zotëruesi i autorizimit ruan për qëllime kontrolli dhe inspektimi, nga ana e organeve përgjegjëse të Republikës së Shqipërisë, për çdo eksport, një kopje të lejes së importit, autorizimit, të lëshuar nga organet përgjegjëse të vendit tjetër. Në rast dyshimesh, organi përgjegjës i Republikës së Shqipërisë mund të marrë kontakt me organet e vendit importues, të cilat kanë lëshuar lejen e importit, autorizimin.
+3. Autorizimi individual i hapur, për eksportimin e lëndëve të kategorisë 3, siç përcaktohet në shkronjën b të pikës 1 të këtij neni, është i vlefshëm për 24 muaj.
