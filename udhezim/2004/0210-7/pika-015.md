@@ -1,0 +1,2 @@
+15.Lidhjet midis administratës tatimore dhe administratës doganore
+Organet tatimore dhe ato doganore janë të detyruar të shkëmbejnë informacion për transaksionet që lidhen me importin apo eksportin e mallrave të kryer nga personat e tatueshëm mbi bazen e specifikimeve te percaktuara ne Akt-Marrveshjet e nënshkruara nga Drejtori i Pergjithshem i Tatimeve dhe Drejtori i Pergjithshem i Doganave per zbatimin e ketij ligji.

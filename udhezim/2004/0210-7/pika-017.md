@@ -1,0 +1,15 @@
+17. Kreditimi i tatimit
+17.1 Përmbajtja
+TVSH e kreditueshme (i zbritshëm) është shuma e TVSH që, personi i tatueshëm paguan në momentin që ai blen mallra apo shërbime brenda vendit, si dhe shuma e TVSH që ai ka paguar për importet e bëra, me kushtin që, këto furnizime t`i shërbejnë vetëm furnizimeve të tatueshme që do të bëjë ky person i tatueshëm.
+Nëse furnizimet e marra ose importet e bëra i shërbejnë furnizimeve të përjashtuara që mund të bëjë personi i tatueshëm, nuk lejohet kreditimi i TVSH së paguar në lidhje me furnizimet e marra për këto qëllime.
+Kur furnizimet që merr një person i tatueshëm, qoftë duke blerë brenda vendit, qoftë duke importuar, nuk janë të destinuara për ushtrimin e një veprimtarie ekonomike, sipas nenit 17 ”Veprimtaria ekonomike”, ai nuk ka të drejtë të kreditojë (zbresë) TVSH e paguar për këto blerje ose importe.
+Nëse personi i tatueshëm i përdor furnizimet e marra ose importet e bëra edhe për qëllime të furnizimeve të tatueshme edhe për qëllime të furnizimeve të përjashtuara njëkohësisht, atëherë kreditimi i tatimit të paguar do të bëhet përpjestimisht sipas paragrafit 18 të po këtij udhëzimi.
+17.2 Forma
+Kreditimi i TVSH-së paguar në blerje do të kërkohet mbi bazën e faturës tatimore origjinale të lëshuara sipas nenit 36. Për qëllime të kreditimit tatimor, do të konsiderohet e vlefshme edhe kopja e noteruar e faturës së blerjes, me kusht që shitesi të zotërojë origjinalin dhe ta ketë deklaruar atë. Pa këtë faturë nuk mund të zbritet TVSH e paguar në blerje. Për të kredituar TVSH e paguar në import tatimpaguesit duhet të zotërojnë deklaratën doganore origjinale të importit.
+17.3 Momenti i kreditimit
+Kreditimi i tatimit për një periudhë tatimore është totali i TVSH i zbatuar në lidhje me:
+a) të gjitha furnizimet e tatueshme të bëra për personin e tatueshëm gjatë kësaj periudhë tatimore nga persona të tjerë të tatueshëm.
+b) të gjitha importet e mallrave të bëra nga personi i tatueshëm gjatë kësaj periudhe tatimore.
+Periudha tatimore, sipas nenit 38, është muaji kalendarik. TVSH e hyrjeve nuk mund të zbritet përpara periudhës të cilës i përket.TVSH e hyrjeve mund të paraqitet si e kreditueshme vetëm brenda 12 periudhave tatimore,pas kësaj periudhe tatimpaguesi nuk ka të drejtë të kreditojë më(pas kësaj regjistrohet si blerje me TVSH jo të zbritëshme). TVSH e hyrjeve regjistrohet në periudhën tatimore në të cilën po kërkohet kreditimi. Kreditimi i TVSH së hyrjeve jo në periudhën përkatëse dënohet sipas paragrafit 2 të pikës 21.6 të këtij udhëzimi.
+17.4 Kreditimi në rastet e eksporteve
+Në rastet kur eksportuesit zotërojnë deklaratën Doganore të Eksportit ( DAV- dokumenti administrativ i vetëm) origjinale ose në mungesë të saj fotokopje të legalizuar nga organet doganore, bazuar në ligjin “ Për TVSH” , neni 33, kanë të drejtë të kreditojnë TVSH-në e paguar në blerjet që i shërbejnë eksporteve. Në këto raste, organet tatimore njohin si të zbritshëm TVSH e paguar në blerjet e bëra në funksion të eksporteve të kryera ose për tu kryer (fatura tatimore origjinale të kontrolluara nga organet tatimore).
