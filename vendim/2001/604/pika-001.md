@@ -1,0 +1,1 @@
+1. Rritjen në masën 8 për qind të pagesës kalimtare, që përfiton ushtaraku në rezervë (lirim), të caktuara deri më datë 1.7.2001, në zbatim të shkronjës ”b” të nenit 10 të ligjit nr.8087, datë 13.3.1996, me ndryshimet përkatëse.
