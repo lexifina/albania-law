@@ -1,0 +1,1 @@
+3. Bordi i Këshilltarëve mblidhet, si rregull, me kërkesën e autoritetit shtetëror ose të shumicës së anëtarëve të Bordit. Kur mbledhja thirret nga autoriteti shtetëror, njoftimi përmban rendin e ditës dhe materialet për të cilat kërkohet mendim, të cilat u dërgohen anëtarëve të Bordit të këshilltarëve të paktën 7 ditë përpara datës së caktuar për mbledhje.

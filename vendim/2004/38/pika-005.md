@@ -1,0 +1,8 @@
+5. Bordi i Këshilltarëve, si një organ këshillues, ka detyrat e mëposhtme:
+a) Bashkëpunon me institucionet shkencore: Universitetin e Tiranës (Fakultetin e Shkencave të Natyrës), Universitetin Politeknik, Laboratorin Qendror të Forcave të Armatosura, shoqatat e industrisë kimike dhe me organizma e specialistë të fushës së kimisë, për asistencë teknike dhe për hartimin e politikave të ndryshme, në zbatim të Konventës.
+b) Për çështje që ndikojnë në sigurinë kombëtare, i propozon autoritetit shtetëror të vërë në dijeni Kuvendin, Presidentin e Republikës dhe Kryeministrin.
+c) I sugjeron dhe i rekomandon autoritetit shtetëror krijimin e grupeve të përbashkëta të punës për studimin dhe vlerësimin e problemeve teknike e shkencore në zbatim të Konventës.
+ç) Shqyrton dhe jep mendim për udhëzimet e përbashkëta me Ministrinë e Punëve të Jashtme, Ministrinë e Industrisë dhe të Energjetikës, Ministrinë e Financave, Ministrinë e Ekonomisë, Ministrinë e Rendit Publik dhe Ministrinë e Mjedisit.
+d) I propozon autoritetit shtetëror marrjen e masave të përkohshme apo të përhershme për zbatimin e Konventës.
+dh) Nxit zhvillimin e njohurive shkencore e teknologjike në fushën e industrisë kimike, të bujqësisë, kërkimeve shkencore, mjekësisë, farmaceutikës apo për qëllime të tjera që lidhen me Konventën ”Për ndalimin e zhvillimit, të prodhimit, magazinimit dhe përdorimit të armëve kimike dhe për shkatërrimin e tyre”.
+e) Harton politika për zbatimin e Konventës, duke shmangur pengesat e zhvillimit ekonomik dhe teknologjik dhe nxit bashkëpunimin ndërkombëtar për veprimtari kimike, që nuk ndalohen nga kjo Konventë, përfshi shkëmbimin e të dhënave teknike e shkencore në nivel ndërkombëtar dhe të pajisjeve për prodhimin dhe përdorimin e kimikateve.
