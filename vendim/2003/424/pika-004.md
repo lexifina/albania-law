@@ -1,0 +1,1 @@
+4. Ngritjen e grupit ndërinstitucional dhe të grupit teknik, nën drejtimin e Ministrit të Industrisë dhe të Energjetikës, që të monitorojnë zbatimin e kësaj strategjie dhe të raportojnë, pranë Komitetit Ndërministror të Energjisë, për rezultatet dhe problemet e vëna re.

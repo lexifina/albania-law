@@ -1,0 +1,1 @@
+2. Ministria e Industrisë dhe e Energjetikës të paraqesë për miratim në Këshillin e Ministrave, brenda datës 1.9.2003, planin e përbashkët të veprimeve me institucionet përkatëse, për zbatimin e kësaj strategjie.

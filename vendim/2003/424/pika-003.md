@@ -1,0 +1,1 @@
+3. Ngarkohet Ministria e Industrisë dhe e Energjetikës, që, nëpërmjet Agjencisë Kombëtare të Energjisë, të bëjë çdo dy vjet azhurnimin e kësaj strategjie dhe t’ia paraqesë për miratim Këshillit të Ministrave.
