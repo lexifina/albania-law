@@ -1,0 +1,1 @@
+2. Vlerat mesatare të apartamenteve tip të tregut të lirë të banesave, në shkallë rrethi, për vitin 2000 të jenë sipas tabelës “ Të dhënat për tregun e lirë të apartamenteve, për vitin 2000”, që i bashkëlidhet këtij vendimi.
