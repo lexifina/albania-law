@@ -1,0 +1,1 @@
+1. Bashkisë së qytetit të Përmetit t’i kalojë në administrim ish-shtëpia e ushtarakëve në këtë qytet, e cila i jepet Qendrës Kulturore të këtij qyteti për ta përdorur si muze të arkeologjisë, etnografisë, kulturës, arsimit dhe figurave të shquara të rrethit të Përmetit.
