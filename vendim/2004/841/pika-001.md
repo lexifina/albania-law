@@ -1,0 +1,1 @@
+1. Fillimin e procedurës së ndërtimit me koncesion, të formës “BOT”, të autostradës Rrogozhinë-Tiranë (Pezë)-Rinas-Thumanë, sipas projektit të paraqitur nga shoqëria “STRABAG, A=WAY INFRASTRUKTUR PROJEKTENTWIK LUNG-UND-BERT IEBS, GMBH”, si propozim i pakërkuar.
