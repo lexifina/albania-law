@@ -1,0 +1,1 @@
+1. Fillimin e procedurës për dhënien me koncesion të përpunimit të mbetjeve të ngurta urbane, në qarqet Tiranë-Durrës, me shoqëritë e listës që i bashkëlidhet këtij vendimi mbi propozimin e ofertave të pakërkuara.

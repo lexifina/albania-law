@@ -1,0 +1,1 @@
+3. Organi shtetëror i autorizuar (OSHA) për negocimin dhe nënshkrimin e kontratës të jenë Ministria e Rregullimit të Territorit dhe e Turizmit, Ministria e Mjedisit dhe Ministria e Pushtetit Vendor dhe e Decentralizimit.
