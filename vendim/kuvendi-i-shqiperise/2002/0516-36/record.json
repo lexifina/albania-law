@@ -1,0 +1,29 @@
+{
+  "qbz_id": 1399,
+  "title": "Për krijimin e Komisionit Parlamentar për shqyrtimin dhe zbatimin e rekomandimeve të OSBE-së/ODIHR-it për zgjedhjet parlamentare të vitit 2001",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "36",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-05-16",
+  "published": "2002-05-30",
+  "in_force": "2002-05-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/16ea54f87cb230431dd685bf54fb8c46e8a2437b4425ab7ca968092f55c95709.docx",
+  "source_sha256": "16ea54f87cb230431dd685bf54fb8c46e8a2437b4425ab7ca968092f55c95709",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1399",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/05/16/36",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    1618,
+    1407
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
