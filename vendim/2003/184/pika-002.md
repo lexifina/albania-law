@@ -1,0 +1,1 @@
+2. Zyra e gjendjes civile e vendbanimit të ri i kërkon zyrtarisht, sipas formularit model nr.1, që i bashkëlidhet këtij vendimi, zyrës së gjendjes civile të vendbanimit të mëparshëm, dokumentin përkatës (fletëfamiljen) të të shpërngulurit.

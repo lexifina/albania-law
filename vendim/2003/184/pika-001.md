@@ -1,0 +1,4 @@
+1. Transferimi i të dhënave të gjendjes civile, në një zyrë tjetër të gjendjes civile, bëhet me kërkesën e kryefamiljarit. Për këtë, kryefamiljari duhet të paraqesë pranë zyrës së gjendjes civile të vendbanimit të ri këto dokumente:
+a) Kërkesën me shkrim për regjistrim në vendbanimin e ri.
+b) Dokumentin e pronësisë së banesës ose një kontratë qiramarrje, të paktën njëvjeçare. Deri në datën 28.11.2003, në mungesë të një dokumenti pronësie ose qiramarrjeje të banesës , shtetasi paraqet vërtetimin nga kryeplaku i fshatit, administratori i lagjes ose kryetari i bashkisë, në qytetet pa lagje, ku ai shprehet se shtetasi banon në fshatin ose qytetin përkatës. Ky vërtetim lëshohet mbi bazën e njohjes së gjendjes ose verifikimit në vend të vendbanimit të shtetasit, jo më vonë se 10 ditë nga kërkesa e bërë nga shtetasi për këtë veprim.
+c) Certifikatën familjare nga zyra e gjendjes civile e vendbanimit të mëparshëm.

@@ -1,0 +1,1 @@
+3. Zyra e gjendjes civile e vendbanimit të mëparshëm dërgon zyrtarisht, fletëfamiljen e të shpërngulurit, në zyrën e gjendjes civile të vendbanimit të ri, e cila shoqërohet me formularin model nr.2, që i bashkëlidhet këtij vendimi.
