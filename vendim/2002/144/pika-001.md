@@ -1,0 +1,1 @@
+1.Lejimin e Ministrisë së Mbrojtjes t’i shesë, pa andkand, shoqërisë ”KURUM, Internacional”, shpk, sasinë prej 1528,9 tonësh të materialeve të krijuara nga nxjerrja jashtë përdorimit e disa armëve të këmbësorisë, në administrim të Forcave të Armatosura.
