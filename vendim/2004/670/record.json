@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65300,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.439, DATë 4.8.2000 TË KËSHILLIT TË MINISTRAVE \"PËR HYRJEN, QËNDRIMIN DHE TRAJTIMIN E TË HUAJVE NË REPUBLIKËN E SHQIPËRISË\", I NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "670",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-10-08",
+  "published": "2004-10-21",
+  "in_force": "2004-10-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/54992c125faa606f9f08f827cdcba817d931c26c4a32e20d96ba953a3beb5497.docx",
+  "source_sha256": "54992c125faa606f9f08f827cdcba817d931c26c4a32e20d96ba953a3beb5497",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65300",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/10/08/670",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
