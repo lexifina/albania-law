@@ -1,0 +1,27 @@
+{
+  "qbz_id": 19424,
+  "title": "Vendim Nr.416 Dt.09.07.1998",
+  "type": "Vendim",
+  "number": "416",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1998-07-09",
+  "version_no": 1,
+  "qbz_version_id": 2152,
+  "in_force": "2004-04-30",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2004-04-30",
+  "changed_by_qbz_id": 2737,
+  "changed_by_number": "253",
+  "changed_by_title": "Për disa ndryshime e shtesa në vendimin nr.416, datë 9.7.1998 të këshillit të ministrave “Për administrimin dhe përdorimin e të ardhurave të ministrisë së ekonomisë publike dhe privatizimit nga privatizimi i shoqërive tregtare, që veprojnë në sektorë jostrategjikë”",
+  "source": "https://qbz.gov.al/files/8b320011940844478baaffa22339d78767c71235ac5e0ea2b63c1a2c639f9902.docx",
+  "source_sha256": "8b320011940844478baaffa22339d78767c71235ac5e0ea2b63c1a2c639f9902",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19424",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/19424/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
