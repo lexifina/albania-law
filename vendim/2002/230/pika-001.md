@@ -1,0 +1,21 @@
+1. Të mos konsiderohen pjesë të sektorëve me rëndësi të veçantë dhe t’u nënshtrohen procesit të mbylljes, privatizimit ose likujdimit minierat:
+- Miniera e hekur-nikelit, SkroskëLibrazhd
+- Miniera e hekur-nikelit, XixillasLibrazhd
+- Miniera e bakrit, Perlati jugorMirditë
+- Miniera e pasurimit të bakrit, RrëshenMirditë
+- Miniera e bakrit, Kurbneshi veriorMirditë
+- Miniera e vjetër e bakrit, RubikMirditë
+- Miniera e bakrit, KabashPukë
+- Miniera e bakrit, PalajShkodër
+- Miniera e magnezitëve, GomsiqeShkodër
+- Miniera e silicit, VilëzShkodër
+- Miniera e kuarciteve, GjazujMirditë
+- Miniera e argjilave të bardha, Tamarë,Malësia e Madhe
+- Miniera e xhamit vullkanik, LumbardhëPukë
+- Miniera e kuarciteve, KërnajëTropojë
+- Miniera e talkut, ZemblakKorçë
+- Miniera e kuarciteve KallabakKukës
+- Miniera e boksideve, DajtTiranë
+- Parku i transportit të mineraleve Bulqizë
+- Njësia e mesatarizimit, LaçKurbin
+- Njësia e eksport-importitDurrës

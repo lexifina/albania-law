@@ -1,0 +1,1 @@
+6. Të drejtën e trajtimit sipas këtij vendimi e kanë ata punonjës që nuk zhvillojnë veprimtari ekonomike në fushën e punësimit apo të vetëpunësimit, apo që nuk përfitojnë nga procesi i privatizimit. Në rast të kundërt, u ndërpritet trajtimi që përfitojnë sipas këtij vendimi.

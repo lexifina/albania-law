@@ -1,0 +1,2 @@
+2. Ministria e Industrisë dhe Energjetikës, të fillojë, brenda muajit qershor 2002, procedurat e privatizimit dhe të hartojë projektet për minierat që do të mbyllen. Mbyllja e tyre të përfundojë në gjashtëmujorin e parë të vitit 2003.
+Gjatë procesit të privatizimit të kryhet edhe likujdimi i detyrimeve të prapambetura të sigurimeve shoqërore, të energjisë elektrike ndaj KESH sh.a.-së dhe të detyrimeve ndaj ndërmarrjeve të ujësjellësve.

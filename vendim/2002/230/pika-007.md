@@ -1,0 +1,1 @@
+7. Fondi prej 4 000 000 (katër milionë) lekësh në muaj (32 000 000 milionë lekë për vitin 2002) për 360 punonjësit që humbasin vendin e punës nga mbyllja dhe privatizimi i minierave, sipas pikës 1 të këtij vendimi, të përballohet nga fondet buxhetore të vitit 2002, miratuar për Ministrinë e Punës dhe Çështjeve Sociale.

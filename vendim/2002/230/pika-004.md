@@ -1,0 +1,1 @@
+4. Fondet që nevojiten për mbylljen e minierave sipas pikës 1 të këtij vendimi të përballohen nga fondet buxhetore, miratuar për vitin 2002, zëri ”Për mbylljen dhe konservimin e objekteve minerare” për Ministrinë e Industrinë dhe Energjetikës.
