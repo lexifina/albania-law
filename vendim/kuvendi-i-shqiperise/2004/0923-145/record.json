@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3086,
+  "title": "PËR DISA NDRYSHIME NË PËRBËRJEN E KOMISIONEVE TË PËRHERSHME TË KUVENDIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "145",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-09-23",
+  "published": "2004-10-07",
+  "in_force": "2004-10-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d4b5f8c238c1a0f47ca36dd887439d3dc2e5b6147cf9ed0f39a05816db883cd9.docx",
+  "source_sha256": "d4b5f8c238c1a0f47ca36dd887439d3dc2e5b6147cf9ed0f39a05816db883cd9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3086",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/09/23/145",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
