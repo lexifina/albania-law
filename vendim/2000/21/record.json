@@ -1,0 +1,26 @@
+{
+  "qbz_id": 23,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.834, DATË 30.12.1998, TË KËSHILLIT TË MINISTRAVE, “PËR PROCEDURAT E PRIVATIZIMIT TË BANKËS KOMBËTARE TREGTARE, SH.A.”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "21",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2000-01-21",
+  "published": "2000-03-17",
+  "in_force": "2000-03-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9c8fbbb872f009e0f5d641a89da9831eac24a6930c1d79149a5c0ca0220f1998.docx",
+  "source_sha256": "9c8fbbb872f009e0f5d641a89da9831eac24a6930c1d79149a5c0ca0220f1998",
+  "official_record": "https://qbz.gov.al/api/v1/acts/23",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/01/21/21",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
