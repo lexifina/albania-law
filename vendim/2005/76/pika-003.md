@@ -1,0 +1,1 @@
+3. Punonjësit emërohen në këtë funksion nga Ministri i Punëve të Jashtme, në zbatim të nenit 20 të ligjit nr.9095, datë 3.7.2003 “Për shërbimin e jashtëm të Republikës së Shqipërisë”, me propozimin e ministrit përkatës dhe përzgjidhen nga nëpunësit civilë të këtyre ministrive, sipas kritereve të përcaktuara në aneksin 2, që i bashkëlidhet këtij vendimi.

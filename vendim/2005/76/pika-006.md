@@ -1,0 +1,1 @@
+6. Këta punonjës të paguhen në mbështetje të vendimit nr.673, datë 11.9.2003 të Këshillit të Ministrave “Për të drejtat e punonjësve të përfaqësive diplomatike të Republikës së Shqipërisë në shtetet e huaja”, sipas gradës “sekretar i parë”.

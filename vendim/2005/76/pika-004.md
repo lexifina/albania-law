@@ -1,0 +1,1 @@
+4. Për periudhën e shërbimit në Mision, punonjësit gëzojnë të gjitha të drejtat e diplomatit, në përputhje me ligjin “Për shërbimin e jashtëm të Republikës së Shqipërisë”, por nuk përfitojnë gradë diplomatike.

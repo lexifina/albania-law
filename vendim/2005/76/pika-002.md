@@ -1,0 +1,1 @@
+2. Këta punonjës të jenë nëpunës civilë të ministrive të linjës, që mbulojnë fushat e përqendruara në elementet kryesore të acquis communautaire, në zbatimin e marrëveshjes së Stabilizim-Asocimit, sipas përcaktimit të aneksit 1, që i bashkëlidhet këtij vendimi.

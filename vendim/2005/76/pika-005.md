@@ -1,0 +1,1 @@
+5. Përshkrimi i punës, detyrat kryesore të secilit punonjës, duke u bërë pjesë e veprimtarisë së Misionit të Republikës së Shqipërisë pranë BE-së, dhe mënyrat e bashkërendimit ndërmjet aspektit diplomatik dhe tekniko-sektorial përcaktohen në udhëzimin e përbashkët të Ministrisë së Punëve të Jashtme dhe Ministrisë së Integrimit Europian me ministritë e linjës.

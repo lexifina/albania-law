@@ -1,0 +1,2 @@
+9. Ngarkohen Ministria e Punëve të Jashtme, Ministria e Integrimit Europian, Ministria e Financave, Ministria e Drejtësisë, Ministria e Bujqësisë dhe e Ushqimit, Ministria e Ekonomisë, Ministria e Mjedisit, Ministria e Punës dhe e Çështjeve Sociale, Ministria e Rendit Publik dhe Ministria e Transportit dhe e Telekomunikacionit të përgatisin e të miratojnë udhëzimet e përmendura në pikën 5 të këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
