@@ -1,0 +1,1 @@
+1. Ngastrat pyjore me numrat rendorë nga 59-82 dhe me sipërfaqe 693 ha, pjesë të ekonomisë pyjore Zall-Herr-Priskë, të kalojnë në përgjegjësi administrimi të Ministrisë së Mbrojtjes, për t’u përdorur për ngritjen e mjedisit stërvitor qendror të Komandës së Forcave Tokësore.

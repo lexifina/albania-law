@@ -1,0 +1,1 @@
+3. Komanda e Forcave Tokësore dhe Shoqata e Përdorimit të Ujit, Zall-Herr të lidhin marrëveshje të përbashkët për shfrytëzimin dhe mirëmbajtjen e ujëmbledhësve nr.1 dhe nr.2, në Zall-Herr, Tiranë, me sipërfaqe të përgjithshme 6.8 ha, të cilat përfshihen në territorin ku do të ngrihet mjedisi stërvitor qendror i kësaj komande.

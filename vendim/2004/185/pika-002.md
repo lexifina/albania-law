@@ -1,0 +1,1 @@
+2. Ngastrat pyjore të përcaktuara në pikën 1 të përfshihen në pronën nr.157, me emërtimin “brigada e tankeve”, komuna Zall-Herr, Tiranë të listës së inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave.
