@@ -4,7 +4,7 @@ Nr. 4, datë 22.8.1994
 
 PËR VLERËSIMIN E APARTAMENTEVE QË NDËRTOHEN ME FONDE SHTETËRORE
 
-(Ndryshuar me udhëzimin nr. 1, datë 12.1.2001; nr. 6, datë 19.7.2001)
+(Ndryshuar me udhëzimin nr. 1, datë 12.1.2001; nr. 6, datë 19.7.2001; nr. 2, datë 26.9.2002)
 
 (i përditësuar)
 
@@ -68,7 +68,7 @@ Blerësit e tjerë që nuk përfshihen në pikën 9/c, do të paguajnë 10 për 
 
 Afati i shlyerjes të jetë 10 vjet me këste të barabarta mujore, por blerësit mund të preferojnë të parapaguajnë këstet përpara afatit të tyre.
 
-d. Për ushtarakët dhe punonjësit e Ministrisë së Rendit Publik, që apartamentet e mëparshme ia kalojnë në pronësi Entit Kombëtar të Banesave, çmimi i shitjes së apartamenteve, të filluar para vitit 1993 me fondet e Ministrisë së Mbrojtjes dhe Ministrisë së Rendit Publik dhe të përfunduara nga Enti Kombëtar i Banesave ose Ministria e Mbrojtjes, të llogaritet mbi bazën e vlerës reale të apartamentit, në pallat, që do të blejë, duke zbritur vlerën që u takon punimeve të kryera para 1.1.1993 dhe vlerën e apartamentit që dorëzon.
+d. Për ushtarakët dhe punonjësit e Ministrisë së Rendit Publik, të Shërbimit Informativ Shtetëror, që apartamentet e mëparshme ia kalojnë në pronësi Entit Kombëtar të Banesave, çmimi i shitjes së apartamenteve, të filluar para vitit 1993 me fondet e Ministrisë së Mbrojtjes dhe Ministrisë së Rendit Publik , Shërbimit Informativ Shtetëror dhe të përfunduara nga Enti Kombëtar i Banesave ose Ministria e Mbrojtjes, të llogaritet mbi bazën e vlerës reale të apartamentit, në pallat, që do të blejë, duke zbritur vlerën që u takon punimeve të kryera para 1.1.1993 dhe vlerën e apartamentit që dorëzon.
 
 Në rastet kur çmimi i apartamentit, në pallat, që dorëzohet është më i madh se çmimi i apartamentit që merret nga EKB-ja, kjo e fundit nuk merr përsipër pagesën e diferencës.
 

@@ -2,7 +2,7 @@
 
 Official source: [Udhëzimi nr. 4, datë 22.8.1994 (Këshilli i Ministrave)](https://qbz.gov.al/api/v1/acts/122410); [QBZ versions](https://qbz.gov.al/api/v1/acts/122410/versions).
 
-Status of this text: `official consolidated version 2`, applying from 2001-07-19 after QBZ act 979 (nr. 6).
+Status of this text: `official consolidated version 3`, applying from 2002-09-26 after QBZ act 1627 (nr. 2).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
