@@ -1,0 +1,4 @@
+# Neni 21
+1. Oficerët, që kryejnë detyra në specialitet, si mjek, inxhinier, jurist, ekonomist-financier dhe funksione të tjera të ngjashme në Forcat e Armatosura, gradën deri major (kapiten I i rangut III) e fitojnë sipas vjetërsisë në shërbim dhe jo sipas kritereve që përcaktojnë nenet 18, 19, 20 të këtij ligji.
+2. Për të fituar grada të tjera të larta të kryejnë kurse kualifikimi sipas funksioneve organike, në akademitë ushtarake brenda ose jashtë vendit sipas profesionit dhe llojit të forcës ku shërben, ndërsa për të fituar grada madhore të kenë kryer Akademinë e Mbrojtjes ose akademi ushtarake jashtë vendit të njësuara me to.
+3. Kur oficerët, e përmendur në paragrafin e parë të këtij neni, kërkojnë të përparojnë në gradë e karrierë, sipas përcaktimeve të paragrafit të dytë të këtij neni, organet kompetente janë të detyruara t’u ofrojnë kurset e nevojshme të arsimimit dhe kualifikimit.
