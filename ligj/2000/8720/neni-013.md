@@ -1,2 +1,0 @@
-# Neni 13
-Dekreti i Presidentit të Republikës së Shqipërisë nr.1074, datë 21.4.1995 “Për shpërbërjen e Policisë Financiare dhe krijimin e Policisë Tatimore”, ligji nr.7938, datë 24.5.1995 “Për miratimin e ndryshimeve të dekretit nr.1074, datë 21.4.1995” dhe çdo dispozitë tjetër që bie në kundërshtim me këtë ligj, shfuqizohen ditën që Policia Financiare fillon veprimtarinë e saj sipas nenit 15 të këtij ligji.
