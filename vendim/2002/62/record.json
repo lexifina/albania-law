@@ -1,0 +1,28 @@
+{
+  "qbz_id": 59779,
+  "title": "Për dhënien  në përdorim të përkohshëm, pa shpërblim, të Vilës 30",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "62",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-03-07",
+  "published": "2002-03-19",
+  "in_force": "2002-03-19",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4bb0326fe7e775b9c3c42c66ff1349f51e4c9b4a50258c796d9096cfc5643db5.docx",
+  "source_sha256": "4bb0326fe7e775b9c3c42c66ff1349f51e4c9b4a50258c796d9096cfc5643db5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59779",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/03/07/62",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61790
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
