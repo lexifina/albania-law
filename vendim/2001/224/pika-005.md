@@ -1,0 +1,2 @@
+5.Paga e Drejtorit të Agjencisë të jetë sipas klasifikimit B3 të lidhjes I, të vendimit nr. 726, datë 21.12.2000, të Këshillit të Ministrave, “Për pagat e punonjësve të institucioneve buxhetore.”, ndërsa pagat e punonjësve të tjerë të jenë sipas lidhjes II-5, “Niveli i pagave për punonjësit e ministrive dhe të institucioneve të tjera qendrore” të po këtij vendimi.
+Rregullat e hollësishme të strukturës, të numrit organik dhe të veprimtarisë së Agjencisë Kombëtare të Duhan -Cigareve parashikohen në rregulloren e saj, e cila miratohet nga Ministri i Bujqësisë dhe Ushqimit.

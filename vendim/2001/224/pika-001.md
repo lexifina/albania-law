@@ -1,0 +1,1 @@
+1.Krijimin e Agjencisë Kombëtare të Duhan-Cigareve, si institucion, shtetëror me statusin e personit juridik, publik, pa qëllim fitimi, që financohet nga buxheti i shtetit, në varësi të Ministrit të Bujqësisë dhe Ushqimit, me qendër në Tiranë.
