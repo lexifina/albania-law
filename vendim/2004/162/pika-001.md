@@ -1,0 +1,1 @@
+1. Shërbimi Informativ Ushtarak të përdorë “Fondin specifik operativ (FSO)”, në lekë e valutë, që i vihet në dispozicion për realizimin e veprimtarive specifike, brenda fondeve të miratuara në buxhetin vjetor, për Ministrinë e Mbrojtjes.
