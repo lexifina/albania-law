@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së palujatshme, që shpronësohet, të kompensohet, në vlerë të plotë, sipas listës që i bashkëlidhet këtij vendimi, për sipërfaqen prej 1240 m2 tokë, arë dhe truall, në shumën e përgjithshme prej 396 800 (treqind e nëntëdhjetë e gjashtë mijë e tetëqind) lekësh.
