@@ -1,0 +1,1 @@
+3. Leja e importit edhe eksportit të lëndëve piroteknike, fishekzjarre, për përdorim civil, jepet brenda 30 ditëve nga data e aplikimit me shkrim të kërkuesit, ndërsa leja e prodhimit të lëndëve piroteknike, fishekzjarre, për përdorim civil, jepet brenda 6 muajve nga data e aplikimit të kërkuesit.

@@ -1,0 +1,3 @@
+10. Lejet e përcaktuara në këtë vendim mund të hiqen me vendim të komisionit të dhënies së lejeve të lëndëve piroteknike, fishekzjarre, në raste kur:
+a) subjekti kryen vepër penahe, që lidhet me ushtrimin e veprimtarisë së importit, eksportit apo prodhimit të lëndëve piroteknike, fishekzjarre, për përdorim civil;
+b) subjekti, gjatë importit, eksportit apo prodhimit të lëndëve piroteknike, fishekzjarre, për përdorim civil, shkel apo nuk plotëson rregullat teknike të prodhimit, përdorimit apo të konformitetit të lëndëve plasëse, duke rrezikuar mjedisin, jetën e njerëzve dhe të kafshëve, si dhe shkel kriteret e përcaktuara në këtë vendim.
