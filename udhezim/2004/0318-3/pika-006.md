@@ -1,0 +1,1 @@
+6. Organet licencuese të kërkojnë deklarimin e burimit të ligjshëm të kapitaleve dhe sqarime të mëtejshme për paqartësi rreth identifikimit të personit fizik ose juridik, administratorit, ortakëve dhe burimeve, si dhe të bëjnë verifikime për kapitalin fillestar të personave fizikë a juridikë, për të qartësuar burimin e krijimit të këtij kapitali për ushtrimin e veprimtarisë.

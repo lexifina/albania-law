@@ -1,0 +1,1 @@
+12. Organet licencuese t’i dërgojnë ”autoritetit përgjegjës”, në afatet e përcaktuara, të dhënat shtesë dhe dokumentet e kërkuara. Kur ka arsye të bazuara se afati i caktuar është i pamjaftueshëm, kërkohet zgjatja e tij, por jo më shumë se 15 ditë nga marrja e kërkesës.

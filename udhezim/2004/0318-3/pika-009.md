@@ -1,0 +1,1 @@
+9. Organet licencuese të caktojnë një drejtues të nivelit të lartë, tek i cili nëpunësit dhe punonjësit, që merren me procesin e licencimit, të raportojnë të dhëna të mjaftueshme, që mund të shërbejnë, sipas përcaktimit të bërë në nenin 5 të ligjit, për parandalimin e pastrimit të parave.

@@ -1,0 +1,1 @@
+14. Organet licencuese të marrin masat përkatëse për të njoftuar në mënyrë periodike, punonjësit, për procedurat ligjore të veprës penale të pastrimit të parave, si dhe për hartimin e programeve të trajnimit dhe të kualifikimit të personelit.

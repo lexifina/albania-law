@@ -1,0 +1,2 @@
+1. Organet licencuese të kryejnë identifikimin e personave, që kërkojnë të licencohen para dhënies së licencës për të gjitha veprimet, për shuma nga 2 000 000 (dy milionë) lekë, a kundërvlerën e tyre në monedha të tjera, sipas kërkesave të nenit 4 të ligjit nr.8610, datë 17.5.2000 ”Për parandalimin e pastrimit të parave”, të ndryshuar.
+Personat fizikë dhe juridikë të identifikohen edhe në rastet kur ka të dhëna ose dyshime të bazuara në fakte e rrethana konkrete për pastrim parash, edhe për vlera financiare nën 2 000 000 (dy milionë) lekë.

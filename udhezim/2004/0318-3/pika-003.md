@@ -1,0 +1,1 @@
+3. Dokumentacioni i identifikimit të të gjithë personave fizikë a juridikë, që do të licencohen, të ruhet për një periudhë jo më pak se 5 vjet nga data e përfundimit të marrëdhënieve juridike, civile me ta.
