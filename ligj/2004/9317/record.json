@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3170,
+  "title": "KODI HEKURUDHOR I REPUBLIKËS SË SHQIPËRISË",
+  "adopted": "2004-11-18",
+  "version_no": 0,
+  "in_force": "2005-03-17",
+  "in_force_basis": "Source clause \"Ky ligj hyn në fuqi tre muaj pas botimit në Fletoren Zyrtare.\"; \"hyn në fuqi 3 muaj pas botimit në Fletoren Zyrtare\"",
+  "changing_act": 3170,
+  "changing_act_adopted": "2004-11-18",
+  "changing_act_published": "2004-12-17",
+  "source": "https://qbz.gov.al/files/dad9a3ff931d4561eb438f86083df0bd0e0653ead9110fff13dadb61a7d3fad7.docx",
+  "source_sha256": "dad9a3ff931d4561eb438f86083df0bd0e0653ead9110fff13dadb61a7d3fad7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3170",
+  "capture_mode": "as-enacted",
+  "unavailable_changing_qbz_ids": [
+    13988
+  ],
+  "first_law": null,
+  "text_form": "complete official Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
