@@ -1,0 +1,1 @@
+1. Dhënien e një fondi prej 100 mijë lekësh, si ndihmë financiare në çastin e krijimit, për secilën nga këto parti: partisë “Aleanca Nacionale Shqiptare”, “Partisë Shqiptare Ambientaliste” dhe “Partisë së Reformave Demokratike të Shqipërisë”.
