@@ -1,0 +1,1 @@
+2. Fondi prej 26 000 000 (njëzet e gjashtë milionë) lekësh për mbulimin e shpenzimeve, që rrjedhin nga zbatimi i këtij vendimi, të përballohet nga fondi rezervë i Institutit të Sigurimeve Shoqërore, miratuar në buxhetin e vitit 2002.
