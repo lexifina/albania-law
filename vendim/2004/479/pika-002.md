@@ -1,0 +1,1 @@
+2. Institutit të Sigurimeve Shoqërore, në buxhetin e miratuar për vitin 2004, t’i shtohet fondi prej 14 500 000 (katërmbëdhjetë milionë e pesëqind mijë) lekësh, për mbulimin e shpenzimeve që rrjedhin nga zbatimi i këtij vendimi.

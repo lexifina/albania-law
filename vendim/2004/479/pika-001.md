@@ -1,0 +1,11 @@
+1. Shpërblimi e veteranëve të Luftës Antifashiste Nacionalçlirimtare të popullit shqiptar, i përcaktuar në vendimin nr.190, datë 3.5.1995 të Këshillit të Ministrave “Për zbatimin e ligjit nr.7874, datë 17.11.1994 “Për statusin e veteranit të Luftës Antifashiste Nacionalçlirimtare të popullit shqiptar”, të ndryshuar”, të rritet 2.4 për qind , duke arritur vlerat si më poshtë vijon:
+a) Shpërblimi sipas shkronjës “a” të pikës 7, nga 3092 (tre mijë e nëntëdhjetë e dy) lekë në muaj bëhet 3166,2 (tre mijë e njëqind e gjashtëdhjetë e gjashtë, e dy të qindat) lekë;
+b) Shpërblimi sipas shkronjës “b” të pikës 7, nga 2476 (dy mijë e katërqind e shtatëdhjetë e gjashtë) lekë në muaj bëhet 2535, 4 (dy mijë e pesëqind e tridhjetë e pesë, e katër të qindat) lekë në muaj;
+c) Shpërblimi sipas shkronjës “c” të pikës 7, nga 2061 (dy mijë e gjashtëdhjetë e një) lekë në muaj bëhet 2110, 4 (dy mijë e njëqind e dhjetë, e katër të qindat) lekë në muaj;
+ç) Shpërblimi sipas shkronjës “e” të pikës 7, nga 618 (gjashtëqind e tetëmbëdhjetë lekë në muaj bëhet 632,8 (gjashtëqind e tridhjetë e dy, e tetë të qindat) lekë në muaj;
+d) Shpërblimi sipas pikës 8/1 (për kohën e vuajtjes në burg mbi 6 muaj) nga 1030 (një mijë e tridhjetë) lekë në muaj bëhet 1054, 7 (një mijë e pesëdhjetë e katër, e shtatë të qindat) lekë në muaj;
+dh) Shpërblimi sipas pikës 8/2 (për kohën e vuajtjes në burg nga 1 deri në 6 muaj) nga 618 (gjashtëqind e tetëdhjetë) lekë në muaj bëhet 632,8 (gjashtëqind e tridhjetë e dy, e tetë të qindat) lekë në muaj;
+e) Shpërblimi sipas shkronjës “a” të pikës 9, nga 3092 (tre mijë e nëntëdhjetë e dy) lekë në muaj bëhet 3166,2 (tre mijë e njëqind e gjashtëdhjetë e gjashtë, e dy të qindat) lekë në muaj;
+ë) Shpërblimi sipas shkronjës “b” të pikës 9, nga 2061 (dy mijë e gjashtëdhjetë e një) lekë në muaj bëhet 2110,4 (dy mijë e njëqind e dhjetë, e katër të qindat) lekë në muaj;
+f) Shpërblimi sipas sipas pikës 11, nga 1030 (një mijë e tridhjetë) lekë në muaj bëhet 1054,7 (një mijë e pesëdhjetë e katër, e shtatë të qindat) lekë në muaj;
+g) Shpërblimi sipas pikës 13, nga 41 253 (dyzet e një mijë e dyqind e pesëdhjetë e tre) lekë në muaj bëhet 42 243 (dyzet e dy mijë e dyqind e dyzet e tre) lekë në muaj;
