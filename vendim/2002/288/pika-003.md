@@ -1,0 +1,1 @@
+3. Shpenzimet financiare për ngritjen dhe funksionimin e këtyre stacioneve zjarrfikëse, ku përfshihen shpenzimet për investime, shpenzimet administrative, fondi i pagave, pajisja materialo-teknike, sipas normave teknike, blerja e automjeteve zjarrfikëse, të përballohen nga të ardhurat që realizojnë subjektet, të cilat kanë në pronësi këto objekte.

@@ -1,0 +1,1 @@
+4. Institucionet me rëndësi shtetërore, sipas listës në lidhjen nr.2, e cila i bashkëlidhet këtij vendimi, të plotësojnë objektet e tyre me teknikë e pajisje, me sisteme sinjalizimi, sisteme stacionare të parandalimit, mbrojtjes dhe shuarjes së zjarrit, me hidrante zjarrfikëse dhe me mjete e pajisje të tjera shpëtimi, brenda tremujorit të tretë të vitit 2002.

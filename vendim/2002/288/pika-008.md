@@ -1,0 +1,1 @@
+8. Trajnimi dhe certifikimi i inspektorëve të profilaksisë në objektet me rëndësi shtetërore të kryhet nga shefat e Policisë së Mbrojtjes nga Zjarri dhe Shpëtimit dhe prefektët e qarqeve, sipas një programi të miratuar nga drejtoria e lartpërmendur.

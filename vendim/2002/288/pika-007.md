@@ -1,0 +1,1 @@
+7. Drejtimi metodik dhe kualifikimi profesional i personelit të stacioneve zjarrfikëse të objekteve me rëndësi ekonomike, të kryhet nga Drejtoria e Policisë së Mbrojtjes nga Zjarri dhe Shpëtimit dhe shefat e qarqeve ku ato janë të vendosur.

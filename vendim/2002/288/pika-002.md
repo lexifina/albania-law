@@ -1,0 +1,1 @@
+2. Vendosjen dhe krijimin e stacioneve të mbrojtjes kundër zjarrit dhe shpëtimit, të gatishmërisë së përhershme, në këto objekte të cilat të jenë në përbërje e limit organik të institucioneve, që i administrojnë ose i kanë në pronësi.
