@@ -1,0 +1,1 @@
+2. Nga këto armë, Ministrisë së Kulturës, Rinisë dhe Sporteve t’i kalojnë në administrim armët trofe, me vlera kulturore, historike dhe muzeale, të përcaktuara si të tilla nga komisioni përkatës, sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi.

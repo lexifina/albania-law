@@ -1,0 +1,1 @@
+1. Heqjen nga inventari i Ministrisë së Rendit Publik të armëve trofe dhe të municionit përkatës, që janë gjendje në magazinat e qendrës së furnizimit materialo-teknik, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi.

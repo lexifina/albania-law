@@ -1,0 +1,1 @@
+3. Për armët e tjera, të përcaktuara në lidhjen nr.3, që i bashkëlidhet këtij vendimi, Ministria e Rendit Publik lejohet që, nëpërmjet ndërmarrjes “MEICO” të vazhdojë procedurat për transformimin dhe shitjen e tyre.
