@@ -1,0 +1,7 @@
+# Neni 14
+Hyrja ne fuqi
+1. Ky Traktat do te hyje ne fuqi 180 dite pas dates se depozitimit te instrumenteve te ratifikimit nga te gjitha Shtetet e listuara ne shtojcen 2 te ketij Traktati, por ne asnje rast me perpara se dy vjet pas hapjes per nenshkrim.
+2. Ne qofte se ky Traktat nuk ka hyre ne fuqi tre vjet pas dates se pervjetorit te hapjes se tij per nenshkrim, Depozituesi do te thërrase nje Konference te Shteteve qe kane depozituar instrumentet e ratifikimit mbi bazen e kerkeses se shumices se ketyre Shteteve. Konferenca do te shqyrtoje masen, ne te cilen jane plotesuar kerkesat e paragrafit 1 dhe do te shqyrtoje e vendose me konsensus per masat qe mund te ndermerren, ne perputhje me te drejten nderkombetare, per të shpejtuar procesin e ratifikimit, me qellimin per ta lehtesuar hyrjen sa me pare ne fuqi te ketij Traktati.
+3. Me perjashtim te rasteve kur vendoset ndryshe nga Konferenca, e permendur ne paragrafin 2 ose nga Konferenca te tjera te ketij lloji, ky proces do te perseritet ne pervjetoret qe vijojne te hapjes per nenshkrim te ketij Traktati, deri ne hyrjen e tij ne fuqi.
+4. Te gjitha Shtetet nenshkruese do te ftohen te ndjekin Konferencen, e permendur ne paragrafin 2 dhe çdo konference te mevonshme qe permendet ne paragrafin 3, si vezhgues.
+5. Per Shtetet, instrumentet e ratifikimit ose aderimit te te cileve jane depozituar me vone nga hyrja ne fuqi e ketij Traktati, ky i fundit do te hyje ne fuqi ne diten e tridhjete pas dates se depozitimit te instrumenteve te tyre te ratifikimit ose aderimit.

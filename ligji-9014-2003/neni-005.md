@@ -1,0 +1,6 @@
+# Neni 5
+Masat për të zgjidhur situatën dhe per te siguruar përmbushjen e Traktatit, duke përfshirë sanksionet
+1. Konferenca duke marre parasysh, nder te tjera, rekomandimet e Keshillit Ekzekutiv do te marre masat e nevojshme, ashtu siç percaktohet ne paragrafet 2 dhe 3, per te siguruar permbushjen e ketij Traktati dhe per te ndrequr ose rregulluar çdo situate, e cila bie ne kundershtim me dispozitat e ketij Traktati.
+2. Ne rastet kur nje Shteti Pale i eshte kerkuar nga Konferenca ose Keshilli Ekzekutiv qe te ndreqe nje situate qe ka sjelle probleme lidhur me permbushjen e detyrimeve te saj dhe deshton ne plotesimin e kerkeses brenda kohes se percaktuar, Konferenca mund te vendose te kufizoje ose te pezulloje Shtetin Pale nga ushtrimi i te drejtave dhe privilegjeve te tij, qe rrjedhin nga ky Traktat deri sa Konferenca te vendose ndryshe.
+3. Ne rastet kur demtimi i objektit dhe qellimit te ketij Traktati mund te vijne si rezultat i mospermbushjes se detyrimeve baze te ketij Traktati, Konferenca mund t’i rekomandoje Shteteve Pale masa kolektive qe jane ne perputhje me te drejten nderkombetare.
+4. Ne menyre te alternuar Konferenca ose, ne rast se çeshtja eshte urgjente, Keshilli Ekzekutiv mund t’ia paraqese çeshjen per shqyrtim, perfshire informacionin dhe konkluzionet perkatese Kombeve te Bashkuara.
