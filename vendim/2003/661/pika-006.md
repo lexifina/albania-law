@@ -1,0 +1,2 @@
+6. Për vitin 2004 e në vazhdim Ministria e Shëndetësisë të parashikojë në buxhet shpenzimet për paga, sigurime shoqërore dhe shpenzime operative, vetëm për medikamente dhe materiale mjekësore, ndërsa pjesa tjetër e shpenzimeve operative të vazhdojë të përballohet nga Ministria e Mbrojtjes, sipa pikës 5 të këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe i shtrin efektet financiare nga data 1.9.2003.

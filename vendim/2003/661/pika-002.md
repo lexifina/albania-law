@@ -1,0 +1,1 @@
+2. Ministrisë së Shëndetësisë në numrin e punonjësve, miratuar për vitin 2003, t’i shtohen 89 (tetëdhjet e nëntë) punonjës, numër i cili i zbritet Ministrisë së Mbrojtjes nga numri i punonjësve, i miratuar për vitin 2003.

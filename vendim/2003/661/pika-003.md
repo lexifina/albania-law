@@ -1,0 +1,1 @@
+3. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2003, t’i shtohet fondi prej 7 970 000 (shtatë milionë e nëntëqind e shtatëdhjetë mijë) lekësh, për përballimin e pagave dhe të sigurimeve shoqërore për punonjësit e shërbimit universitar të ortopedi-traumatologjisë, fond, i cili i zbritet buxhetit të vitit 2003, miratuar për Ministrinë e Mbrojtjes.

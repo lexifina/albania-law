@@ -1,0 +1,1 @@
+5. Shërbimi universitar i ortopedi-traumatologjisë, deri në sigurimin e mjediseve të përshtatshme, brenda vitit 2005, ta ushtrojë veprimtarinë e vet në mjediset dhe me pajisjet e Spitalit Ushtarak Qendror Universitar, sipas një marrëveshjeje të përbashkët ndërmjet Ministrisë së Shëndetësisë dhe Ministrisë së Mbrojtjes.
