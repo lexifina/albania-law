@@ -1,0 +1,1 @@
+1. Vlerësimi i ofertave të detyrueshme, që do të paraqiten nga investitorët strategjikë, të cilëve u ofrohet paketa e aksioneve të kapitalit të “Armo” sh.a., Fier dhe përcaktimi i pikëve të vlerësimit të ofertave të kryhen sipas kritereve të përcaktuara në tabelën, që i bashkëlidhet këtij vendimi.
