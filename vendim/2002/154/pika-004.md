@@ -1,0 +1,1 @@
+4. Inspektorati i Kontrollit Shtetëror të Farërave dhe Fidanëve, për zbatimin e masave administrative dhe për kryerjen e detyrës, bashkërendon punën me organet e policisë së shtetit dhe me organet tatimore e financiare.

@@ -1,0 +1,3 @@
+2. Inspektorati i Kontrollit Shtetëror të Farërave dhe Fidanëve ka të drejtë:
+a) të ushtrojë kontroll në të gjitha objektet dhe personat, fizikë e juridikë, vendas dhe të huaj, që kryejnë veprimtarinë e tyre brenda territorit të Republikës së Shqipërisë për krijimin, riprodhimin, shumëzimin, përpunimin, transportimin dhe tregtimin e materialit mbjellës, bimor;
+b) të pajisë me librezë kontrolli nga ministri i Bujqësisë dhe Ushqimit, inspektorët e Kontrollit Shtetëror të Farërave dhe Fidanëve dhe personat e tjerë të autorizuar për këtë qëllim. Modeli i librezës përcaktohet me udhëzim të Ministrit të Bujqësisë dhe Ushqimit.

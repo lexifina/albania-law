@@ -1,0 +1,1 @@
+1. Inspektorati i Kontrollit Shtetëror të Farërave dhe Fidanëve funksionon pranë Entit Shtetëror të Farërave dhe Fidanëve dhe përbëhet nga kryeinspektori dhe inspektorët, numri i të cilëve përcaktohet me urdhër të Ministrit të Bujqësisë dhe Ushqimit.
