@@ -1,0 +1,1 @@
+1. Miratimin e procedurës së tenderimit, për shitjen e paketës së aksioneve, prej 90 për qindsh, të zotëruara nga shteti, në “Qumështi Ajka”, sh.a., Tiranë, dhe shpalljen fitues të tenderit të “Aldosch”, sh.p.k.
