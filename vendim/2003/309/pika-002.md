@@ -1,0 +1,1 @@
+2. Shpërblimin, sipas pikës 1 të këtij vendimi, e përfitojnë punonjësit e Albkromit sh.a., të cilët kanë qenë në marrëdhënie pune me këtë shoqëri për më shumë se një vit. Me fillimin e punës punonjësit i ndërpritet shpërblimi.
