@@ -1,0 +1,1 @@
+1. Miratimin e procedurës së tenderimit, për shitjen e paketës së aksioneve, gjithsej 76 për qind, të zotëruara nga shteti, në “Kantina e Pijeve, “Gjergj Kastrioti Skënderbeu””, sh.a., Durrës, dhe shpalljen fitues të tenderit të “Rilindja”, sh.p.k.
