@@ -1,0 +1,1 @@
+3. Në Bashkinë e Tiranës, ndërtimi i apartamenteve të banimit për kreditorët, me fondet e mësipërme, të fillojë me 3 godinat në ndërtim në zonën e Laprakës, Tiranë, sipas projektit të miratuar për ndërtim banesash publike, ndërsa në Bashkinë e Vlorës të fillojë me përgatitjen dhe fillimin e punimeve të ndërtimit për ngritjen e godinave në objektin ish-frigoriferi, Vlorë.

@@ -1,0 +1,1 @@
+1. Fondet financiare prej 240 000 000 (dyqind e dyzet milionë) lekësh, gjendje në llogaritë e ish-fondacioneve bamirëse në administrim, në Bankën Kombëtare Tregtare dhe Bankën e Kursimeve, Tiranë, të transferohen në një llogari të veçantë ”Fonde për ndërtimin e apartamenteve për kreditorët e skemave piramidale” për Entin Kombëtar të Banesave.

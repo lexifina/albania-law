@@ -1,0 +1,1 @@
+6. Të ardhurat e siguruara nga këstet e derdhura të familjeve të pastreha, të përcaktuara në kontratën e shitblerjes së apartamenteve, të lidhur ndërmjet Entit Kombëtar të Banesave dhe kryefamiljarit, të riderdhen në llogarinë ”Fonde për ndërtimin e apartamenteve për kreditorët e skemave piramidale” dhe të përdoren për vazhdimin e ndërtimit të apartamenteve për këta kreditorë.
