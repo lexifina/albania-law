@@ -1,0 +1,1 @@
+1. Shitja e mallrave të ardhura grant nga Qeveria Japoneze edhe për Projektin II, 2 KR, 2001 të bëhet sipas mënyrës së përcaktuar me vendimin nr.148, datë 31.3.2000, të Këshillit të Ministrave ”Për mënyrën e shitjes së mallrave të ardhura grant nga Japonia, në kuadër të projektit, ”Shtimi i prodhimeve ushqimore” 2KR dhe të akteve të tjera të nxjerra në zbatim të këtij vendimi.
