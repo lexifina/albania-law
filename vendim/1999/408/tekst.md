@@ -4,7 +4,7 @@ Nr. 408, datë 31.8.1999
 
 PËR PRIVATIZIMIN ME TENDER TË NDËRMARRJEVE SHTETËRORE
 
-(Ndryshuar me VKM nr. 445, datë 17.8.2000)
+(Ndryshuar me VKM nr. 445, datë 17.8.2000; nr. 191, datë 6.4.2001)
 
 (i përditësuar)
 
@@ -250,6 +250,16 @@ c) kandidati në tender ka dështuar kur bën një deklaratë detajuese të lega
 
 d) kur kandidati në tender nuk ka plotësuar kushtet e ftesës për tender.
 
+1.1. Për rastet kur Komisioni i Vlerësimit të Ofertave vendos për pavlefshmërinë e të gjitha ofertave të paraqitura, Agjencia Kombëtare e Privatizimit shpall një datë të re për paraqitjen e ofertave, në një afat jo më pak se 10 ditë, nga data e shpalljes së vendimit të Komisionit të Vlerësimit të Ofertave.
+
+Njoftimi të përmbajë:
+
+- Vendin, mënyrën, datën dhe orën e saktë për dorëzimin dhe hapjen e ofertave.
+
+- Njoftimin se kushtet e ftesës për tender, të publikuara në raundin e parë, nuk kanë ndryshuar.
+
+- Shkaqet e njoftimit të datës së re për dorëzimin dhe hapjen e ofertave.
+
 2.Tenderi deklarohet i pasuksesshëm, në qoftë se:
 
 - asnjë nga ofertat e marra në dorëzim nuk plotëson kërkesat e ftesës për tender;
@@ -257,6 +267,8 @@ d) kur kandidati në tender nuk ka plotësuar kushtet e ftesës për tender.
 - kërkesa të tjera përputhen me objektin e tenderit;
 
 - Këshilli i Ministrave nuk miraton privatizimin e ndërmarrjes shtetërore.
+
+2.1. Për rastet e mossuksesit të tenderit procedurat fillojnë nga kapitulli I.
 
 X. Marrja e vendimit dhe njoftimi i rezultatit të tenderit
 
