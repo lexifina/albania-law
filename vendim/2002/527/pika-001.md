@@ -1,0 +1,1 @@
+1. Aerodromi i Vlorës të jetë pronë e paluajtshme e shtetit me statusin e pronës së paluajtshme publike. Ministria e Transportit dhe e Telekomunikacionit, nëpërmjet Drejtorisë së Përgjithshme të Aviacionit Civil, të jetë organi shtetëror përgjegjës për administrimin e këtij aerodromi.
