@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2147,
+  "title": "PËR CAKTIMIN E DATËS SË ZGJEDHJEVE PËR ORGANET E PUSHTETIT VENDOR",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "3893",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2003-07-17",
+  "published": "2003-07-17",
+  "in_force": "2003-07-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/15c8b71aeff884c831914beea0edd76a8a4e7f17e5c7f54796314951df2125b1.docx",
+  "source_sha256": "15c8b71aeff884c831914beea0edd76a8a4e7f17e5c7f54796314951df2125b1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2147",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2003/07/17/3893",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
