@@ -1,0 +1,1 @@
+1. Komisioni Qendror i Zgjedhjeve, të përdorë fondin prej 3 200 000 (tre milionë e dyqind mijë) lekësh, për financimin e zjgedhjeve të pjesshme për deputet, në zonën zgjedhore nr.98, që zhvillohen më datë 18 nëntor 2001.
