@@ -1,0 +1,1 @@
+7. Ministrisë së Ekonomisë, në buxhetin e miratuar për vitin 2004, zëri ”paga dhe sigurime shoqërore”, do t’i shtohet fondi prej 5 000 000 (pesë milionë) lekësh, për përballimin e efektit ekonomik për këtë vit.

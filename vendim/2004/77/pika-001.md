@@ -1,0 +1,1 @@
+1. Struktura dhe nivelet e pagave për pozicionet ”specialist”, ”përgjegjës sektori”, ”drejtor drejtorie” dhe ”drejtor i përgjithshëm” në Drejtorinë e Akreditimit, të caktohen sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi.
