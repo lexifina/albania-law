@@ -1,0 +1,1 @@
+2. Të ardhurat e realizuara nga tarifat e përdorimit të ujit, që mblidhen nga autoritetet përkatëse, të derdhen në llogarinë e Ministrisë së Rregullimit të Territorit dhe të Turizimit e të planifikohen në buxhetin vjetor të shtetit miratuar për këtë ministri. Këto të ardhura të përdoren vetëm për shfrytëzimin e rezervave ujore.
