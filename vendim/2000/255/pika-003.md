@@ -1,0 +1,2 @@
+3. Ngarkohet Ministria e Ekonomisë Publike dhe Privatizimit, në mbështetje të klasifikimit (pika 2), të fillojë negociimet dhe nënshkrimin e marrëveshjes me të klasifikuarin e parë Cosmote/Telenor, në përputhje me nenet 7.3 dhe 7.4, të “Instruksioneve për paraqitjen dhe për hapjen e ofertave në privatizimin e AMC, sh.a.”, e miratuar me vendimin nr.199, datë 29.4.2000, të Këshillit të Ministrave.
+Ky vendim hyn në fuqi menjëherë.
