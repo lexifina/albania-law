@@ -1,0 +1,1 @@
+3. Leja për pushim të paguar dhe të papaguar jepet nga eprori direkt pas paraqitjes së kërkesës nga i interesuari dhe me miratimin e eprorit direkt në hierarkinë e autoritetit të institucionit/njësisë përkatëse.

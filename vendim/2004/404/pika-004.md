@@ -1,0 +1,1 @@
+4. Ushtarakët aktivë, kur punojnë e shërbejnë në vende pune, në kushte të njëjta, në degë apo sektorë të tjerë jashtë strukturave të Forcave të Armatosura, përfitojnë të gjitha të drejtat për kohën e pushimit, si punonjësit e këtyre degëve apo sektorëve.
