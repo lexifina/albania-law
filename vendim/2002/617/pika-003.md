@@ -1,0 +1,1 @@
+3. Autorizohet Ministri i Mbrojtjes të nxjerrë udhëzimin e hollësishëm përkatës, për kriteret teknike dhe procedurat e asgjësimit ose çmontimit a tjetërsimit të armëve e të teknikës së Forcave të Armatosura, të hequra nga armatimi dhe përdorimi.

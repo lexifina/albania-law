@@ -1,0 +1,1 @@
+2. Armët, teknika dhe pajisjet e Forcave të Armatosura, të përmendura në tabelën e pikës 1 të këtij vendimi, të asgjësohen ose të çmontohen dhe të shiten në formë skrapi, sipas dispozitave në fuqi, ndërsa ato që kanë vlerë tjetër përdorimi, nga ajo që lidhet me Forcat e Armatosura, t’u nënshtrohen procedurave për administrimin dhe tjetërsimin e pronës shtetërore.
