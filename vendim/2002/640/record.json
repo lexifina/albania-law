@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1760,
+  "title": "Për një ndryshim në vendimin nr. 828, datë 30.12.1998 të Këshillit të Ministrave \"Për shitjen e mjeteve dhe të teknikës luftarake të ushtrisë, të dala jashtë përdorimit në formën e skrapeve\", ndryshuar me vendimin nr. 444, datë 26.9.2002 të Këshillit të Ministrave",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "640",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-12-12",
+  "published": "2002-12-26",
+  "in_force": "2002-12-26",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/788070c3ea26b969f92ca9546dcc2948814ba1a926df18654bc3e0609a18cf6c.docx",
+  "source_sha256": "788070c3ea26b969f92ca9546dcc2948814ba1a926df18654bc3e0609a18cf6c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1760",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/12/12/640",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
