@@ -1,0 +1,1 @@
+4. Ministria e Ekonomisë të pasqyrojë ndryshimet e kapitaleve, që vijnë si rezultat i transferimit të pronave të paluajtshme në njësitë e qeverisjes vendore, sipas lidhjeve 2 dhe 3. Forma e administrimit të sistemeve që transferohen të përcaktohet nga njësitë e qeverisjes vendore.

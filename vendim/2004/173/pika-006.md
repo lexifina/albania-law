@@ -1,0 +1,1 @@
+6. Detyrimet financiare, të prapambetura deri në çastin e transferimit të pronave të paluajtshme shtetërore të sistemeve të ujësjellës-kanalizimeve në njësitë e qeverisjes vendore, të rregullohen me vendim të veçantë të Këshillit të Ministrave.
