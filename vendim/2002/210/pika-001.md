@@ -1,0 +1,1 @@
+1. Partisë të Gjelbrit e Shqipërisë, Partisë Aleanca Popullore Shqiptare, Partisë për Mbrojtjen e të Drejtave të Emigrantëve dhe Partisë së Sigurimit Kombëtar t’u jepet, secilës, një fond ndihme prej 100 000 (njëqind mijë) lekësh.
