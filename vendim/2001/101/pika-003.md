@@ -1,0 +1,1 @@
+3. Shpenzimet për mbylljen e minierave të përballohen nga fondet buxhetore, të miratuara për vitin 2001, për Ministrinë e Ekonomisë Publike dhe Privatizimit, në zërin “Për konservimin dhe mbylljen e minierave”.

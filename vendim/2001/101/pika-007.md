@@ -1,0 +1,2 @@
+7. Shpenzimet për trajtimin e punonjësve, që humbin vendin e punës, si pasojë e mbylljes së këtyre minierave, që arrijnë shumën 40 000 000 lekë, të përballohen nga fondet buxhetore, të miratuara për vitin 2001,00. për Ministrinë e Punës dhe Çështjeve Sociale.
+Pagesa ndërpritet për punonjësit, që kryejnë veprimtari ekonomike në formën e punësimit ose të vetëpunësimit, brenda periudhës së trajtimit me këtë pagesë.
