@@ -1,0 +1,3 @@
+1. Lejimin e Komandës së Mbështetjes Logjistike, Tiranë që, për fondin limit prej 213 120 000 (dyqind e trembëdhjetë milionë e njëqind e njëzet mijë) lekësh, të përdorë procedurën “Prokurim i drejtpërdrejtë”, me shoqërinë “Armo” sh.a., Fier, për blerje gazoili, STASH 31:1977 (D-2), të ndarë si më poshtë vijon:
+- 4 440 000 (katër milionë e katërqind e dyzet mijë) lekë për blerje gazoili, STASH 31:1977 (D-2), për furnizimin e automjeteve me tollona, me çmim 80 (tetëdhjetë) lekë/litër;
+- 208 680 000 (dyqind e tetë milionë e gjashtëqind e tetëdhjetë mijë) lekë për blerje gazoili, STASH 31:1977 (D-2), për furnizimin e automjeteve me autobote, me çmim 74 (shtatëdhjetë e katër) lekë/litër.
