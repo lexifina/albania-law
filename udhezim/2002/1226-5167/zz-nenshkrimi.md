@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI
+Spartak Poçi

@@ -1,0 +1,2 @@
+# Neni 1
+Për organizimin e qarkullimit dhe sinjalizimit rrugor, entet pronare të rrugëve dhe organet kompetente të pushtetit vendor, marrin masat për hartimin e projektit mbi planin e rregullimit të trafikut dhe sinjalizimit rrugor, sipas kritereve të hartuara nga Instituti Studimeve të Transportit (IST). Një përmbledhje e “Kritereve Teknike të Rregullimit të Qarkullimit” i bashkëlidhet këtij udhëzimi.

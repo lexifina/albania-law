@@ -1,0 +1,2 @@
+# Neni 11
+Në kuadër të zbatimit të detyrave të Kodit Rrugor të Republikës së Shqipërisë për njohjen dhe menaxhimin e organizimit të qarkullimit dhe sinjalizimit rrugor, në shërbim të sigurisë rrugore dhe mbrojtjes së mjedisit, në situatat aktuale dhe për zhvillimet perspektive të infrastrukturës rrugore, organet kompetente me përgjegjësinë e entit pronar të rrugëve marrin masa për krijimin e arkivit të rrugëve dhe sinjalitikës rrugore, me pikësynim informatizimin e të dhënave, siç përcaktohet në nenin 221 të Kodit Rrugor.
