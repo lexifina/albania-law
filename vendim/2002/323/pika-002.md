@@ -1,1 +1,1 @@
-2. Ngarkohet Ministria e Punës dhe Çëshjeve Sociale për kalimin e objektit, të përmendur në pikën 1, në huapërdorim të Shoqatës së Invalidëve të Punës, dega Tiranë.
+2. Ngarkohet Ministria e Punës dhe Çështjeve Sociale t’i japë Shoqatës së Invalidëve të Punës të Shqipërisë, për nevoja të saj, pasurinë e paluajtshme të treguar në pikën 1 të këtij vendimi, në huapërdorje, pa kundërshpërblim dhe të nënshkruajë e ndjekë zbatimin e kontratës përkatëse të huapërdorjes.
