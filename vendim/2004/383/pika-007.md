@@ -1,0 +1,1 @@
+7. Dega e Shërbimeve Spitalore të Sigurimeve Shëndetësore është përgjegjëse për realizimin dhe kontrollin e ekzaminimeve unikale, terciare dhe për mbulimin e shpenzimeve, sipas dokumentacionit të shpenzimeve faktike mujore, të paraqitura nga institucioni shëndetësor, terciar.

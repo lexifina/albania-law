@@ -1,0 +1,1 @@
+8. Të ardhurat nga shumat e xhiruara nga ISKSH-ja, të kalojnë në buxhetin e institucionit shëndetësor terciar, si të ardhura me destinacion dhe përdorimi i tyre të bëhet në përputhje me vendimin nr.424, datë 9.7.1998 të Këshillit të Ministrave “Për krijimin dhe administrimin e të ardhurave që krijojnë institucionet buxhetore”.
