@@ -1,0 +1,3 @@
+2. Titullari i institucionit të administratës publike në nivelin qendror apo vendor, institucionet e pavarura, organet e pushtetit vendor, prefekti i qarkut, bankat dhe institucionet financiare shoqërore, korporatat e shndërruara në shoqëri ose jo anonime, ku pjesëmarrja e shtetit është mbi 50%, për të ngritur dhe krijuar inspektoratet e ulëta duhet të mbajnë parasysh këto kritere:
+- Institucionet qendrore duhet të krijojnë inspektoratet e ulëta me një numër tek, në mënyrë që vendimmarrja të jetë e shpejtë dhe efektive.
+- Inspektoratet e ulëta duhet të kenë një numër anëtarësh në raport me numrin e subjekteve që do të deklarojnë pasurinë dhe detyrimet financiare, duke krijuar mundësi menaxhimi dhe vetëveprimi.

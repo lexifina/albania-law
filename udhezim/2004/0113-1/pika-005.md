@@ -1,0 +1,2 @@
+5. Ngarkohen për zbatimin e këtij udhëzimi titullarët e institucioneve të administratës publike në nivel qendror apo vendor, të instutucioneve të pavarura, organeve të pushtetit vendor, prefektët e qarkut, bankave dhe institucioneve financiare shoqërore, korporatave të shndërruara në shoqëri ose jo anonime, ku pjesëmarrja e shtetit është mbi 50%.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
