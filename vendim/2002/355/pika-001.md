@@ -1,0 +1,1 @@
+1. Ministrisë së Ekonomisë, në buxhetin e vitit 2002, t’i shtohet fondi prej 8 500 000 (tetë milionë e pesëqind mijë) lekësh, kontribut i Qeverisë Shqiptare për realizimin e projektit “Shërbimi këshillimor për investimet e huaja”.
