@@ -1,0 +1,1 @@
+1. Hauzi i peshkimit në Treport dhe pjesa e portit të peshkimit në Limjon, së bashku me infrastrukturat përkatëse, sipas genplaneve që i bashkëlidhen këtij vendimi, të kalojnë, përkatësisht, nga porti detar Vlorë sh.a. dhe porti detar Sarandë sh.a., në administrim të ndërmarrjes së rritjes së midhjes Sarandë, e cila është në varësi të Ministrisë së Bujqësisë dhe të Ushqimit.
