@@ -1,0 +1,1 @@
+2. Ministria e Punëve Publike, me fondin e programuar prej 118 515 600 (njëqindetetëmbëdhjetë milionë e pesëqindepesëmbëdhjetë mijë e gjashtëqind) lekësh në buxhetin e shtetit të vitit 2000, të bëjë likuidimin e pjesshëm.

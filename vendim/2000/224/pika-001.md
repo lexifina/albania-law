@@ -1,0 +1,1 @@
+1. Shpronësimin dhe kompensimin e tokës bujqësore, prej 395 052 m2 , të 57 familjeve të fshatrave Zallmner dhe Bulcesh, që përmbyten nga ujëmbledhësi i Bovillës, me vlerë të përgjithshme 237 031 200 (dyqindetridhjeteshtatë milionë e tridhjetenjë mijë e dyqind) lekë.
