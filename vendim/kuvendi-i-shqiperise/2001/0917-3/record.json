@@ -1,0 +1,29 @@
+{
+  "qbz_id": 1021,
+  "title": "PËR KOMISIONET E PËRHERSHME TË KUVENDIT DHE PËRBËRJEN\nE KRYESIVE TË TYRE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "3",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-09-17",
+  "published": "2001-09-17",
+  "in_force": "2001-09-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/72961ea7e25b5e9cd4b9a7eb1a4c21426d8c80899fffa6d0246b0872b603e6b5.docx",
+  "source_sha256": "72961ea7e25b5e9cd4b9a7eb1a4c21426d8c80899fffa6d0246b0872b603e6b5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1021",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/09/17/3",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    1322,
+    20136
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
