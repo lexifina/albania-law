@@ -1,0 +1,1 @@
+3. Për dokumentet e pronësisë, të lëshuara deri në datën e hyrjes në fuqi të këtij vendimi, afati maksimal i dorëzimit të tyre është 31.12.2000. Çdo dokument pronësie që lëshohet pas kësaj date, duhet të dorëzohet pranë zyrave të regjistrimit, brenda dy muajve nga data e lëshimit të tij.

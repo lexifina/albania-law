@@ -1,0 +1,1 @@
+1. Seksionet e kadastrës, zyrat e agjencive kombëtare të privatizimeve, komisioni i kthimimit dhe kompensimit të pronave ish-pronarëve, Enti Kombëtar i Banesave në rrethe, si dhe institucionet e tjera, që lëshojnë dokumente pronësie, detyrohen t’i dorëzojnë këto dokumente në zyrat e regjistrimit të pasurive të paluajtshme të rrethit përkatës.

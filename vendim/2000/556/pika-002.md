@@ -1,0 +1,1 @@
+2. Marrja në dorëzim e dokumenteve të pronësisë, bëhet në bazë të një procesverbali dorëzimi, që nënshkruhet nga regjistruesi i zyrës së regjistrimit dhe titullari i institucionit që ka lëshuar dokumentet.
