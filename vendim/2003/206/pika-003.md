@@ -1,0 +1,1 @@
+3. Zbatimi i paragrafëve të pikës 6.2 të vendimit nr.676, datë 20.12.2002 të Këshillit të Ministrave “Për përdorimin e fondeve buxhetore të planifikuara për mallra, shërbime, ndërtime”, për shërbimet për furnizim me karburant, gazoil, benzol dhe për ngrohje qendrore, të pezullohet për periudhën deri më 1 korrik 2003.
