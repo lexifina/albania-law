@@ -1,0 +1,1 @@
+1. Ministrisë së Kulturës, Rinisë dhe sporteve, në buxhetin e miratuar për vitin 2000, i shtohet shuma prej 6 milionë lekësh, për shpërblimin e cilësisë së lartë sportive, të arritur nga sportistët tanë në ngjarjet e fundit, botërore e europiane, të peshëngritjes dhe për përgatitjen e tyre për Lojërat Olimpike “Sidney 2000”.
