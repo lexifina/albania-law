@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66048,
+  "title": "Për një ndryshim në vendimin nr.596, datë 28.8.2003 të Këshillit të Ministrave \"Për miratimin e kuotës së pranimit të studentëve në akademinë e policisë \"Arben Zylyftari\" për vitin akademik 2003-2004\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "790",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2003-11-26",
+  "published": "2003-12-05",
+  "in_force": "2003-12-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/fcb87d01f3b291436f2112ec3b5ff233c0c98526635a133a4e57d0ef22e9637f.docx",
+  "source_sha256": "fcb87d01f3b291436f2112ec3b5ff233c0c98526635a133a4e57d0ef22e9637f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66048",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/11/26/790",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
