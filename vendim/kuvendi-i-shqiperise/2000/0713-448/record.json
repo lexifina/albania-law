@@ -1,0 +1,26 @@
+{
+  "qbz_id": 259,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR LIRIMIN E ZOTIT ILIR PANDA  NGA DETYRA E MINISTRIT TË DREJTËSISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "448",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-07-13",
+  "published": "2000-07-19",
+  "in_force": "2000-07-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/66783061d0102598f613465865f2abf59da416d34b3dfa41c44191fbcaca29e9.docx",
+  "source_sha256": "66783061d0102598f613465865f2abf59da416d34b3dfa41c44191fbcaca29e9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/259",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2000/07/13/448",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
