@@ -1,0 +1,1 @@
+1. Miratimin e kontratës për dhënien me koncesion, të firmës “ROO”, për rehabilitimin e Uzinës së Superfosfatit, Laç, ndërmjet Ministrisë së Ekonomisë Publike dhe Privatizimit dhe shoqërisë “Evertrade”, S.a .
