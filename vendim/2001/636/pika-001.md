@@ -1,0 +1,1 @@
+1. Banesat e ndërtuara me fonde shtetërore për familjet e shpërngulura nga ndërtimi i Hidrocentralit të Banjës dhe trualli mbi të cilin ato janë ndërtuar t’u kalojnë në pronësi, falas, familjeve, sipas listave që i bashkëlidhen këtij vendimi.

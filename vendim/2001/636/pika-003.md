@@ -1,0 +1,1 @@
+3. Shpenzimet për privatizimin e këtyre banesave, që arrijnë vlerën prej 2 984 507 (dy milionë e nëntëqind e tetëdhjetë e katër mijë e pesë qind e shtatë) lekësh, t’i njihen Entit Kombëtar të Banesave si shlyerje kredie për vitin 2001.
