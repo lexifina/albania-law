@@ -1,0 +1,26 @@
+{
+  "qbz_id": 2544,
+  "title": "PËR NDRYSHIMIN E VENDIMIT TË KUVENDIT TË SHQIPËRISË NR.68,",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "116",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-01-22",
+  "published": "2004-02-06",
+  "in_force": "2004-02-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d4b4872c726a359987b9d2e05c83c11f5250a762558edc9dc735e456161a7120.docx",
+  "source_sha256": "d4b4872c726a359987b9d2e05c83c11f5250a762558edc9dc735e456161a7120",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2544",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/01/22/116",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
