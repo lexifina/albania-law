@@ -1,0 +1,1 @@
+Lëvizja e objekteve të trashëgimisë kulturore, të luajtshme, me vlera të veçanta kombëtare dhe unikale, të përcaktuara nga Qendra Kombëtare e Inventarizimit të Pasurive Kulturore për ruajtjen, restaurimin, studimin apo ekspozimin e tyre jashtë territorit të Republikës së Shqipërisë, të bëhet sipas procedurave të mëposhtme:
