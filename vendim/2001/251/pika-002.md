@@ -1,0 +1,1 @@
+2. Për hapësirat e paraqitura në studim, të fillojnë procedurat ligjore për shqyrtimin e tyre, në zbatim të ligjit nr.8405, datë 17.9.1998 “Për urbanistikën” dhe të ligjit nr.8093, datë 21.3.1996 “Për rezervat ujore”.

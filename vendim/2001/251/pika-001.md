@@ -1,0 +1,1 @@
+1. Miratimin e studimit “Përcaktimi i hapësirave të përshtatshme për ndërtimin e depozitave bregdetare të naftës, të gazit dhe të nënprodukteve të tyre”, të përgatitur nga Ministria e Ekonomisë Publike dhe Privatizimit, që i bashkëlidhet këtij vendimi.
