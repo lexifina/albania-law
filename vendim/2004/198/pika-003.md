@@ -1,0 +1,1 @@
+3. Akademia Diplomatike pranë Ministrisë së Punëve të Jashtme të hartojë programet arsimore të trajnimit, kualifikimit dhe rikualifikimit të punonjësve, që përbëjnë personelin diplomatik, si dhe të drejtojë, të bashkërendojë e të administrojë kurset e përgatitjes së diplomatëve.

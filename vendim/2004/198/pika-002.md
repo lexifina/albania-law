@@ -1,0 +1,1 @@
+2. Akademia Diplomatike është qendra e trajnimit, kualifikimit dhe rikualifikimit të të gjithë punonjësve të shërbimit me jashtë, që gëzojnë statusin e nëpunësit civil dhe janë pjesë e personelit diplomatik.

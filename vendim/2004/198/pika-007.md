@@ -1,0 +1,3 @@
+7. Pranë Akademisë Diplomatike veprojnë këshilli drejtues dhe këshilli shkencor.
+a) Këshilli drejtues përbëhet nga 5 anëtarë, duke përfshirë edhe drejtorin e Akademisë. Këshilli kryesohet nga Ministri i Punëve të Jashtme. Këshilli drejtues harton programin vjetor të veprimtarisë së Akademisë, afatet kohore të kurseve dhe lektorët.
+b) Këshilli shkencor përbëhet nga 7 anëtarë. Në të mund të përfshihen edhe specialistë të huaj, në bazë të marrëveshjeve të bashkëpunimit. Këshilli shkencor bën përzgjedhjen e pjesëmarrësve në kurs, analizon nevojat formuese, projekton kursin, siguron burimet njerëzore dhe materiale, bën programimin didaktik dhe realizimin e kursit.

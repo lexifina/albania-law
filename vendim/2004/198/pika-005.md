@@ -1,0 +1,1 @@
+5. Akademia Diplomatike ka strukturë funksionale të drejtuar nga drejtori i Akademisë Diplomatike, personeli i së cilës gëzon statusin, gradën dhe trajtimin financiar të punonjësve të shërbimit me jashtë.

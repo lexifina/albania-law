@@ -1,0 +1,1 @@
+9. Veprimtaria e Akademisë Diplomatike mbështetet në rregulloren e posaçme, të hartuar nga këshilli shkencor e nga këshilli drejtues dhe të miratuar nga Ministri i Punëve të Jashtme, në përputhje me legjislacionin përkatës, që rregullon veprimtarinë e institucioneve të kësaj natyre në Republikën e Shqipërisë.
