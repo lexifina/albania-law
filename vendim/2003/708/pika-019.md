@@ -1,0 +1,1 @@
+19. Licenca jepet për një vit, me të drejtë ripërtëritjeje. Kur licenca merret për herë të parë paguhet një tarifë prej 100 000 (njëqind mijë) lekësh për personat fizikë dhe 150 000 (njëqind e pesëdhjetë mijë) lekësh për personat juridikë. Ripërtëritja është falas.

@@ -1,0 +1,1 @@
+23. Agjencia duhet t’i ruajë të dhënat vetjake të një punëkërkuesi, vetëm për aq kohë sa justifikohet nga qëllimet e veçanta, për të cilat janë mbledhur këto të dhëna ose për aq kohë sa punëkërkuesi dëshiron të mbetet në listën e kandidatëve të mundshëm për një vend pune.

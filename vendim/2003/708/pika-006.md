@@ -1,0 +1,1 @@
+6. Agjencia siguron trajtim të barabartë për të gjithë punëkërkuesit. Asnjë punëkërkues nuk mund të diskriminohet për shkaqe të tilla, si: gjinia, raca, feja, etnia, gjuha, bindjet politike, fetare a filozofike, gjendja ekonomike, arsimore, shoqërore ose përkatësia prindërore.

@@ -1,0 +1,1 @@
+29. Ministri i Punës dhe i Çështjeve Sociale shqyrton ankimin dhe merr vendim brenda një muaji nga data e depozitimit të ankimit. Në rast se ankimi nuk zgjidhet brenda këtij afati, personi fizik/juridik mund të ankohet në Gjykatën e Shkallës së Parë, Tiranë brenda 30 ditëve nga përfundimi i afatit të shqyrtimit të ankimit.
