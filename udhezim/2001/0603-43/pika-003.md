@@ -1,0 +1,1 @@
+3. Kur kandidati që konkurron si i pavarur është kryetar apo anëtar i kryesisë së partisë në një zonë zgjedhore deri më datë 24.5.2001, atëherë ky kandidat, për efekt të llogaritjes së shkronjës “B” të nenit 66 të Kodit Zgjedhor, do të konsiderohet si kandidat i partisë të cilën ai drejton.
