@@ -1,0 +1,1 @@
+8. Konsum specifik i lëndës djegëse në burim është sasia e lëndës djegëse të përdorur për prodhimin e 1 kWh energji elektrike. Në këtë vlerë përfshihet edhe sasia e lëndës djegëse, që konsumohet për nevojat e centralit elektrik.

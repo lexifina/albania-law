@@ -1,0 +1,1 @@
+7. Për subjektet që prodhojnë energji elektrike kryesisht për nevojat e veta (vetëprodhuesit), energjia elektrike e shitur nënkupton energjinë e prodhuar dhe të matur nga matësi i gjeneratorëve elektrikë.

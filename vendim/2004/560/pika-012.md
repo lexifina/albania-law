@@ -1,0 +1,1 @@
+12. Rimbursimi i kundërvlerës së taksës doganore e i akcizës për lëndën djegëse të konsumuar, të llogaritur sipas formulës, të bëhet nga Drejtoria e Përgjithshme e Tatimeve, për çdo muaj, nga llogaria e veçantë buxhetore e krijuar nga kjo drejtori për këtë qëllim dhe jo më vonë se 45 ditë nga data e kryerjes së veprimeve në doganë.

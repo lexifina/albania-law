@@ -1,0 +1,3 @@
+6. Energjia elektrike e shitur, që prodhohet nga burimet, sipas përcaktimit të pikës 1, matet nëpërmjet matësit të energjisë elektrike, i cili administrohet dhe kontrollohet bashkërisht nga prodhuesi dhe blerësi.
+Sasia e energjisë elektrike të shitur apo prodhuar të vlerësohet çdo muaj si diferencë e leximeve të matësit në fund dhe në fillim të muajit.
+Sasia e energjisë elektrike, që u shitet të tretëve, matet në kWh/muaj dhe deklarohet në faturën e përbashkët të mbajtur ndërmjet shitësit dhe blerësit, ndërsa sasia e energjisë së prodhuar deklarohet nga prodhuesi, sipas vlerës së treguar në matësin e vendosur në dalje të gjeneratorit elektrik.
