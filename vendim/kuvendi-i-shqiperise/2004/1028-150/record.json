@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3125,
+  "title": "PËR DHËNIE PËLQIMI PËR EMËRIMIN E NJË ANËTARI TË GJYKATËS KUSHTETUESE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "150",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-10-28",
+  "published": "2004-11-09",
+  "in_force": "2004-11-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3b9bcd7ff7045cf01f9e1d49f636683e7174cbf66982f7534aa980bda26303a7.docx",
+  "source_sha256": "3b9bcd7ff7045cf01f9e1d49f636683e7174cbf66982f7534aa980bda26303a7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3125",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/10/28/150",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
