@@ -1,0 +1,1 @@
+1. Anëtarët e Komisionit Mbikëqyrës të Ekzekutimit të Vendimeve Penale përfitojnë, për çdo mbledhje, një shpërblim fiks prej 10 000 (dhjetë mijë) lekësh. Pavarësisht nga numri i mbledhjeve të zhvilluara, masa e shpërblimit, për çdo periudhë 3-mujore, nuk duhet të jetë më e madhe se 30 000 (tridhjetë mijë) lekë.

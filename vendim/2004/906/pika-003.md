@@ -1,0 +1,1 @@
+3. Anëtarët e Komisionit Mbikëqyrës të Ekzekutimit të Vendimeve Penale përfitojnë, pa pagesë, kopje të Fletores Zyrtare dhe të botimeve të dispozitave ligjore, që lidhen me sistemin e drejtësisë e, në mënyrë të veçantë, me sistemin e burgjeve.
