@@ -1,0 +1,1 @@
+4. Kur ushtaraku humbet jetën ose bie në krye të detyrës, familjes i jepet një komplet uniforme ceremoniale: këmishë, kollare, këpucë dhe të brendshme për oficerët, kostum pune, këmishë, kollare, këpucë dhe të brendshme për nënoficerët dhe kostum stërvitjeje kamuflazhi, këpucë dhe të brendshme për ushtarët për ceremoninë e varrimit.
