@@ -1,0 +1,27 @@
+{
+  "qbz_id": 19362,
+  "title": "Për një ndryshim në vendimin e Këshillit të Ministrave nr.445, datë 13.12.1991 “Për vërtetimin e kohës së vuajtjes së dënimit administrativ nga ish-të internuarit e të dëbuarit për çështje politike kur mungojnë dokumentet zyrtare”",
+  "type": "Vendim",
+  "number": "67",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1997-02-11",
+  "version_no": 1,
+  "qbz_version_id": 2145,
+  "in_force": "2000-08-04",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2000-08-04",
+  "changed_by_qbz_id": 20147,
+  "changed_by_number": "418",
+  "changed_by_title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 67, DATË 11.2.1997, TË KËSHILLIT TË MINISTRAVE, “PËR NJË NDRYSHIM NË VENDIMIN NR. 445, DATË 13.12.1991, TË KËSHILLIT TË MINISTRAVE, “PËR VËRTETIMIN E KOHËS SË VUAJTJES SË DËNIMIT ADMINISTRATIV NGA ISH TË INTERNUARIT DHE TË DËBUARIT PËR ÇËSHTJE POLITIKE, KUR MUNGOJNË DOKUMENTET ZYRTARE””",
+  "source": "https://qbz.gov.al/files/331911e2ec8d9be0b892a2ade0460371ab21c5b215f826772cd78dbfca97db63.docx",
+  "source_sha256": "331911e2ec8d9be0b892a2ade0460371ab21c5b215f826772cd78dbfca97db63",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19362",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/19362/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
