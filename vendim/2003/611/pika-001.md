@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e shkollës së lartë unversitare, jopublike ”Luarasi”, sipas kërkesave të përcaktuara në vendimin nr.156, datë 22.3.2001 të Këshillit të Ministrave ”Për shkollat e larta, jopublike në Republikën e Shqipërisë”.
