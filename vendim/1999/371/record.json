@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123852,
+  "title": "PËR KRITERET DHE KOMPETENCAT NË FUSHËN E STANDARDIZIMIT, TË ÇERTIFIKIMIT DHE AKREDITIMIT",
+  "type": "Vendim",
+  "number": "371",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-08-04",
+  "version_no": 1,
+  "qbz_version_id": 10872,
+  "in_force": "2002-10-03",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2002-10-03",
+  "changed_by_qbz_id": 66773,
+  "changed_by_number": "469",
+  "changed_by_title": "Për një ndryshim në vendimin nr. 371 datë 4.8.1999 të Këshillit të Ministrave “Për kriteret dhe kompetencat në fushën e standardizimit, certifikimit dhe akreditimit”",
+  "source": "https://qbz.gov.al/files/989f96efc95a0dfb16294b1050f917a1044912e6eb05dcb16574d62d7b1e1461.docx",
+  "source_sha256": "989f96efc95a0dfb16294b1050f917a1044912e6eb05dcb16574d62d7b1e1461",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123852",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123852/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
