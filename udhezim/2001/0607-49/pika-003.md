@@ -1,0 +1,2 @@
+3. Organizimi i ruajtjes së qendrave të votimit, për periudhën nga ora 12.00 e datës 23.6.2001 e në vijim, të vazhdojë deri në përfundimin e votimit, nxjerrjen e rezultateve dhe shoqërimin e përfaqësuesve të KQV-së për dorëzimin e tabelave të rezultateve dhe kutive të votimit në KZZ-në përkatëse.
+Për organizimin dhe realizimin e kësaj detyre, çdo KZZ i jep drejtorit të policisë në prefekturë një kopje të vendimit “Për caktimin e vendndodhjes së qendrave te votimit” model 29.
