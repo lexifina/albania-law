@@ -1,0 +1,1 @@
+3. Autorizohet Ministria e Mbrojtjes për lidhjen e kontratës së qirasë me afat 15-vjeçar dhe qira mujore 150 lekë/m2, duke zbatuar përcaktimet e tjera të krerëve I pika 5 dhe V-VII të vendimit nr.315, datë 24.4.2003 të Këshillit të Ministrave.

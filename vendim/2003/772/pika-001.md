@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Mbrojtjes që t’i japë me qira fondacionit ”Projekti për inkurajimin e Shqipërisë” (AEP), mjediset me një sipërfaqe ndërtese prej 465 m2, në ndërtesën e Qendrës Kulturore të Forcave të Armatosura, në Tiranë, sipas planimetrisë (genplanit) që i bashkëlidhet këtij vendimi.

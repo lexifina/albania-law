@@ -1,0 +1,1 @@
+2. Sipërfaqja e dhënë me qira, sipas pikës 1 të këtij vendimi, të përdoret për funksionimin e Bibliotekës Britanike dhe për organizimin e kurseve kualifikuese, që do të organizohen nga ”Projekti për inkurajimin e Shqipërisë” (AEP), për fëmijët, si dhe për ushtarakët e Forcave të Armatosura.
