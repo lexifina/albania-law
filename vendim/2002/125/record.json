@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65787,
+  "title": "Për një ndryshim në vendimin nr.627, datë 24.12.1997 të Këshillit të Ministrave \"Për krijimin e Këshillit të Rregullimit të Territorit të Republikës së Shqipërisë\", ndryshuar me vendimet nr.664, datë 24.12.1999 dhe nr.535, datë 24.9.2001 të Këshillit të Ministrave",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "125",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2002-04-04",
+  "published": "2002-05-13",
+  "in_force": "2002-05-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/470d9bf6b66bcda296df39b2eb333cf898b783101bb18b9d384065e226ebec74.docx",
+  "source_sha256": "470d9bf6b66bcda296df39b2eb333cf898b783101bb18b9d384065e226ebec74",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65787",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/04/04/125",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
