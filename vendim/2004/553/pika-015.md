@@ -1,0 +1,1 @@
+15. Kryerja e pagesave, për ndërtimin dhe përdorimin e rafinerive të reja dhe të naftësjellësve ose gazsjellësve, për transportimin, importimin dhe eksportimin e naftës bruto, gazit natyror dhe nënprodukteve të tyre, shlyerja e detyrimeve të tjera kontraktore, si dhe çdo detyrim doganor dhe fiskal, për këto veprimtari, të bëhet nëpërmjet dokumentacionit bankar.

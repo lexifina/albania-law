@@ -1,0 +1,1 @@
+16. Veprimtaria e subjekteve, të pajisuara me leje koncesioni për ndërtimin dhe përdorimin e rafinerive, naftësjellësve dhe gazsjellësve, të monitorohet nga strukturat e ministrisë përgjegjëse për hidrokarburet dhe nga institucione e struktura të tjera shtetërore, të ngarkuara me ligj.

@@ -1,0 +1,2 @@
+9. a) Leja e koncesionit negociohet e përgatitet nga një grup pune me përfaqësues të ministrisë përgjegjëse për hidrokarburet, Ministrisë së Ekonomisë, Ministrisë së Financave, Ministrisë së Rregullimit të Territorit dhe të Turizmit dhe Ministrisë së Mjedisit dhe me subjektin kërkues ose përfaqësuesin ligjor të tij.
+b) Leja e koncesionit, së bashku me të gjitha dokumentet e përgatitura sipas këtij vendimi dhe me një kopje të autorizimit për vazhdim procedure, i dërgohet për miratim Këshillit të Ministrave.

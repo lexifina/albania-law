@@ -1,0 +1,4 @@
+12. a) Dhënia e lejes së koncesionit për ndërtimin dhe përdorimin e rafinerisë, naftësjellësit ose gazsjellësit për përpunimin, transportimin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre, bëhet kundrejt pagesës prej 30 000 000 (tridhjetë milionë) lekësh nga shoqëria përkatëse, shumë e cila derdhet në llogarinë e ministrisë përgjegjëse për hidrokarburet.
+b) Të ardhurat nga pagesa për marrjen e lejes së koncesionit ndahen:
+- 10 për qind përdoren për financimin e projekteve, të studimeve dhe botimeve për zhvillimin e sektorit të hidrokarbureve, për përballimin e shpenzimeve për kualifikimin dhe specializimin e personelit të strukturave dhe institucioneve që veprojnë në sektorin e hidrokarbureve, si dhe për pajisjen e këtyre sektorëve me aparatura dhe teknikë bashkëkohore, në funksion të realizimit të detyrave, por me miratimin e ministrit përgjegjës për hidrokarburet.
+- 90 për qind të derdhen në Buxhetin e Shtetit.

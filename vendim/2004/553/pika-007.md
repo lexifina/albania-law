@@ -1,0 +1,1 @@
+7. Ministria përgjegjëse për hidrokarburet brenda një periudhe 30-ditore, pasi shqyrton dhe verifikon dokumentacionin e paraqitur në përputhje me kërkesat e pikës 6 të këtij vendimi, e përcjell në Këshillin e Rregullimit të Territorit të Republikës së Shqipërisë për miratimin e projektit dhe të sheshit të ndërtimit.
