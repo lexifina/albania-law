@@ -1,0 +1,1 @@
+7. Pagat e punonjësve të kualifikuar të qendrës përcaktohen sipas lidhjes II/M ”Paga bazë sipas klasave për punonjësit e ministrive, institucioneve të tjera qendrore, ATSH-së, prefekturave dhe Shërbimi Gjeologjik Shqiptar” të vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave.

@@ -1,0 +1,1 @@
+8. Në vendimin nr.726, datë 21.12.2000 të Këshillit të Ministrave ”Për pagat e punonjësve të institucioneve buxhetore”, shtohet lidhja II/33 ”Niveli i pagave për punonjësit e qendrës pritëse të viktimave të trafikut”, e cila i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+6. Për funksionimin e qendrës, Ministrisë së Punës dhe të Çështjeve Sociale, me vendimin nr.96, datë 13.2.2003 të Këshillit të Ministrave ”Për përcaktimin për vitin 2003 të numrit të punonjësve të institucioneve buxhetore”, i shtohen 22 (njëzet e dy) punonjës.

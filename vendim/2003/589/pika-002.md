@@ -1,0 +1,1 @@
+2. Objekti ku do të vendoset qendra, i cili është në administrim të Ministrisë së Rendit Publik, i kalon në administrim Ministrisë së Punës dhe të Çështjeve Sociale, nëpërmjet Shërbimit Social Shtetëror. Me përfundimin e veprimtarisë së qendrës, objekti i rikthehet në administrim Ministrisë së Rendit Publik.
