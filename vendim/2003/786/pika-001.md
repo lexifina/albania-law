@@ -1,0 +1,1 @@
+1. Të gjithë personat e lindur me aftësi të kufizuar ose që janë bërë të tillë para moshës 21 vjeç dhe deri në moshën 24 vjeç, kur ndjekin arsimin e lartë, kur paaftësia e tyre vërtetohet nga Komisioni Mjekësor i Caktimit të Aftësive për Punë (KMCAP), përfitojnë pagesë për shkak të aftësisë së kufizuar.
