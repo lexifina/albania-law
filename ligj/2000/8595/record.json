@@ -1,0 +1,26 @@
+{
+  "qbz_id": 101,
+  "title": "PËR DISA NDRYSHIME NË LIGJIN NR.8437, DATË 28.12.1998 “PËR AKCIZAT NË REPUBLIKËN E SHQIPËRISË”, NDRYSHUAR ME LIGJIN NR.8507, DATË 7.7.1999",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "8595",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2000-04-06",
+  "published": "2000-04-27",
+  "in_force": "2000-05-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/87353a033e3365c17a51b4b56729422f79e369962dd7e44c0fd1b82c30185e0d.docx",
+  "source_sha256": "87353a033e3365c17a51b4b56729422f79e369962dd7e44c0fd1b82c30185e0d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/101",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2000/04/06/8595",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
