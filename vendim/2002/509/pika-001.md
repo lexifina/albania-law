@@ -1,0 +1,1 @@
+1. Institutit të Sigurimeve Shoqërore, nga buxheti i miratuar për vitin 2002, në zërin ”Pagesat e familjeve të Dëshmorëve të Atdheut”, t’i pakësohet fondi prej 2 500 000 (dy milionë e pesëqind mijë) lekësh.
