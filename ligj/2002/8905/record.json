@@ -1,0 +1,29 @@
+{
+  "qbz_id": 1456,
+  "title": "Për mbrojtjen e mjedisit detar nga ndotja dhe dëmtimi",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "8905",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-06-06",
+  "published": "2002-06-26",
+  "in_force": "2002-07-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/712735f70d3e78c25f9bc1157c13647b18f7e3992966ccd15280e62811ebb800.docx",
+  "source_sha256": "712735f70d3e78c25f9bc1157c13647b18f7e3992966ccd15280e62811ebb800",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1456",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2002/06/06/8905",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    9165,
+    17275
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
