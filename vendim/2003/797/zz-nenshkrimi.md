@@ -1,0 +1,3 @@
+# Nënshkrimi
+KryeminisTri
+Fatos Nano

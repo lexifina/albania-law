@@ -1,0 +1,1 @@
+2. Objekti kryesor i veprimtarisë së OST sh.a., Tiranë është të sigurojë transmetimin e energjisë elektrike nga prodhuesi e sistemi rajonal i energjisë te sistemi i shpërndarjes së energjisë elektrike, të bëjë zhvillimin e rrjetit të transmetimit në bashkërendim me gjeneruesit dhe shpërndarësit, të mirëmbajë dhe të zhvillojë interkonjeksionet e rrjetit të transmetimit.
