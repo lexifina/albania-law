@@ -1,1 +1,0 @@
-5. Menjëherë pas marrjes dijeni nga KZZ-të ose subjekte zgjedhore të të dhënave a informacioneve që përbëjnë bazë të mjaftueshme për verifikimin e njërit prej rasteve të parashikuara në pikën 1 mësipër, Komisioni Qendror i Zgjedhjeve i kërkon kandidatit të pavarur dhe subjektit politik përkatës të deklarojë me shkrim përpara KQZ-së nëse mbështet ose jo kandidatin e pavarur.

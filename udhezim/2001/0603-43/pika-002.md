@@ -1,1 +1,0 @@
-2.Me “mbështetje” të kandidatit të pavarur do të kuptohet mbështetja e drejtpërdrejtë ose tërthorazi e fushatës zgjedhore e kandidatit të pavarur me mjete financiare dhe materiale, që disponohen nga parti politike, grupim a koalicione partish.

@@ -1,1 +1,0 @@
-Për zbatimin e ligjit, gjatë procesit parazgjedhor dhe zgjedhor dhe për njësimin e praktikave zgjedhore, lidhur me kriteret e paraqitjes së kandidatëve të pavarur dhe përllogaritjen e ndarjes së mandateve plotësuese, të veprohet si vijon :

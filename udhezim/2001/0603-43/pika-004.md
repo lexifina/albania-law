@@ -1,1 +1,0 @@
-4. Nëse gjatë fushatës zgjedhore, partitë politike ose koalicionet e partive kanë bashkëpunuar me më shumë se 20 kandidatë të pavarur, atëherë, për efekt të llogaritjes së shkronjës “B” të nenit 66 të Kodit Zgjedhor, çdo kandidat i pavarur mbi këtë numër do të konsiderohet si kandidat i partisë me të cilën ka bashkëpunuar.

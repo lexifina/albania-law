@@ -1,1 +1,0 @@
-1. Në kuptim të nenit 2 pika 4 të Kodit Zgjedhor, me “kandidat i pavarur” do të kuptohet ai kandidat për deputet në zonën njëemërore që nuk mbështetet nga asnjë parti politike ose koalicion partish, në mënyrë të drejtpërdrejtë apo tërthorazi.
