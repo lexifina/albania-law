@@ -1,0 +1,28 @@
+{
+  "qbz_id": 866,
+  "title": "PËR NJË NDRYSHIM NË UDHËZIMIN NR.3, DATË 15.2.2001 TË KËSHILLIT TË MINISTRAVE “PËR MBIKQYRJEN DHE KOLAUDIMIN E PUNIMEVE TË NDËRTIMIT”",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "4",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2001-05-17",
+  "published": "2001-06-09",
+  "in_force": "2001-06-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/68e76275cf132ed3730c1efb3b39825b0fe682e6af446424ca7f5ee12e562ba6.docx",
+  "source_sha256": "68e76275cf132ed3730c1efb3b39825b0fe682e6af446424ca7f5ee12e562ba6",
+  "official_record": "https://qbz.gov.al/api/v1/acts/866",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2001/05/17/4",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56105
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
