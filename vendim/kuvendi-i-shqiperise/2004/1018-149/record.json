@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3110,
+  "title": "PËR CAKTIMIN E NJË ANËTARI NË PËRBËRJEN E KOMISIONIT PARLAMENTAR PËR SHQYRTIMIN DHE ZBATIMIN E REKOMANDIMEVE TË PËRBASHKËTA TË OSBE-ODIHR-IT DHE KOMISIONIT TË VENECIAS PËR PËRMIRËSIMIN E KODIT ZGJEDHOR",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "149",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-10-18",
+  "published": "2004-10-29",
+  "in_force": "2004-10-29",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/460e4e5b2d2abb2e990152174bbf509f5f1cb42578e67ca099b68577eba53679.docx",
+  "source_sha256": "460e4e5b2d2abb2e990152174bbf509f5f1cb42578e67ca099b68577eba53679",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3110",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/10/18/149",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
