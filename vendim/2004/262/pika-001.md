@@ -1,0 +1,1 @@
+1. Qendra Kombëtare Pritëse e Azilkërkuesve në Babrru, Tiranë të kalojë në varësi dhe përgjegjësi administrimi nga Ministria e Pushtetit Vendor dhe e Decentralizimit, Ministrisë së Rendit Publik dhe të shërbejë për të pritur e për të sistemuar azilantët në Republikën e Shqipërisë.

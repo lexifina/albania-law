@@ -1,0 +1,1 @@
+3. Struktura dhe organika e Qendrës Kombëtare Pritëse të Azilkërkuesve miratohet nga Ministri i Rendit Publik dhe për funksionimin e saj për vitin 2004, numrit të parashikuar të punonjësve të Ministrisë së Rendit Publik t’i shtohen edhe 15 veta.
