@@ -1,0 +1,1 @@
+10. Mjediset e pronave të paluajtshme shtetërore, që kalojnë në pronësi të organeve të pushtetit vendor, të përmendura në pikat 1, 2, 3, 4, 5, 6, 7, 8 e 9 të këtij vendimi, të përdoren për ngritjen e qendrave për shërbime sociale për komunitetin.

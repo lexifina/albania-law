@@ -1,0 +1,1 @@
+9. Miratimin e listës së inventarit të ndërmarrjes së riparimeve të materialeve poligrafike, “Ofiçina” në Tiranë dhe kalimin e saj në pronësi të Bashkisë së Tiranës, sipas formularit, planimetrisë dhe planvendosjes, që i bashkëlidhen këtij vendimi.

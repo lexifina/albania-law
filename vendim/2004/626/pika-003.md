@@ -1,0 +1,1 @@
+3. Miratimin e listës së inventarit të ish-shtëpisë së kulturës Vaqarr dhe kalimin e saj në pronësi të komunës Vaqarr, sipas formularit, planimetrisë dhe planvendosjes, që i bashkëlidhen këtij vendimi.

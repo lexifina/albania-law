@@ -1,0 +1,1 @@
+2. Miratimin e listës së inventarit të ish-mensës së punëtorëve të fabrikës së qelqit në Kavajë dhe kalimin e saj në pronësi të bashkisë së Kavajës, sipas formularit, planimetrisë dhe planvendosjes, që i bashkëlidhen këtij vendimi.

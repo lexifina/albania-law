@@ -1,0 +1,1 @@
+6. Miratimin e listës së inventarit të lavanderisë së shtëpisë së të moshuarve në Shkodër dhe kalimin e saj në pronësi të bashkisë së Shkodrës, sipas formularit, planimetrisë dhe planvendosjes, që i bashkëlidhen këtij vendimi.

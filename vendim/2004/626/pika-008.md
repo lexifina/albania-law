@@ -1,0 +1,1 @@
+8. Miratimin e listës së inventarit të ndërmarrjes së shërbimeve mekanike në ish-kombinatin e drurit “Misto Mame” në Tiranë dhe kalimin e saj në pronësi të Bashkisë së Tiranës, sipas formularit, planimetrisë dhe planvendosjes, që i bashkëlidhen këtij vendimi.

@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të ish-kinemasë së qytetit të Pukës e të anekseve të saj dhe kalimin në pronësi të bashkisë së Pukës, sipas formularit, planimetrisë dhe planvendosjes, që i bashkëlidhen këtij vendimi.
