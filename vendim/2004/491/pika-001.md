@@ -1,0 +1,4 @@
+1. Kompensimin e kreditorëve të shoqërisë “Kamberi Co” sh.p.k., në administrim, sipas koeficientit të kthimit të shumave, të llogaritur si raport i të ardhurave të realizuara dhe të depozituara në bankë nga shitja e aseteve dhe e shumës së detyrimit të shoqërisë ndaj kreditorëve, si më poshtë vijon:
+1.1 Të ardhurat financiare, të realizuara nga shitja e aseteve të shoqërisë “Kamberi Co” sh.p.k., në administrim dhe të depozituara në bankë, në llogari rrjedhëse dhe llogari depozite janë 587 000 000 (pesëqind e tetëdhjetë e shtatë milionë) lekë.
+1.2 Shuma e detyrimit të mbetur, që shoqëria huamarrëse “Kamberi Co” sh.p.k., në administrim, ka ndaj kreditorëve 5 798 129 817 (pesë miliardë e shtatëqind e nëntëdhjetë e tetë milionë e njëqind e njëzet e nëntë mijë e tetëqind e shtatëmbëdhjetë) lekë.
+1.3 Koeficienti i kthimit të shumave kreditorëve është 10,2 për qind.

@@ -1,0 +1,1 @@
+3. Shpenzimet për shërbimet në sportelet e bankës së kursimeve, për shpërndarjen e vlerave financiare kreditorëve të shoqërisë “Kamberi Co” sh.p.k., në administrim, të përballohen nga plani financiar i grupit mbikëqyrës, zëri “Shpenzime”, në përfundim të shlyerjes të vlerave financiare kreditorëve.
