@@ -1,0 +1,1 @@
+6. Kuotat e pranimeve për vitet e ndërmjetme dhe degët e dyta administrohen nga Ministria e Arsimit dhe e Shkencës dhe shpërndahen sipas kërkesave të paraqitura nga universitetet dhe shkollat e larta.
