@@ -1,0 +1,1 @@
+2. Zyrat e gjendjes civile në bashki, njësitë bashkiake të Tiranës dhe komunat, duke filluar nga data 1 janar 2004, të raportojnë lindjet në Drejtorinë e Regjistrit Kombëtar në Ministrinë e Pushtetit Vendor dhe të Decentralizimit, sipas periudhave kohore të vendosura nga kjo ministri.

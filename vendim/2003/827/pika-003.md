@@ -1,0 +1,1 @@
+3. Ministria e Pushtetit Vendor dhe e Decentralizimit, pas caktimit të NISH-it, të dërgojnë numrat e identitetit të shtetasve në zyrat përkatëse të gjendjes civile në bashki, në njësitë bashkiake të Tiranës dhe në komuna, të cilat janë të detyruara t’i shënojnë këta numra në Regjistrin Themeltar të Gjendjes Civile.
