@@ -1,0 +1,1 @@
+2. Subvencioni të jepet në përputhje me programin financiar, të miratuar nga Ministri i Bujqësisë dhe i Ushqimit, që bordet e kullimit paraqesin në drejtoritë përkatëse të Ministrisë së Bujqësisë dhe të Ushqimit.

@@ -1,0 +1,1 @@
+1. Ministria e Bujqësisë dhe e Ushqimit të përfitojë subvencion nga Buxheti i Shtetit për financimin e veprimtarisë së bordeve të kullimit për sektorët e kullimit, të mbrojtjes nga përmbytja dhe të ujitjes.
