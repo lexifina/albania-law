@@ -1,0 +1,3 @@
+# Neni 13
+Masat mbrojtëse specifike
+Pavarësisht nga dispozitat e tjera të kësaj Marrëveshjeje dhe në veçanti, nenit 26 të kësaj Marrëveshjeje dhe duke marrë parasysh sensitivitetin e veçantë të produkteve bujqësore, në qoftë se importet ose produktet më origjinë nga njëra prej Palëve Kontraktuese që është subjekt i konçensioneve të dhëna në bazë të kësaj Marrëveshjeje, i shkakton shqetësime serioze tregjeve të Palës tjetër Kontraktuese, Pala Kontraktuese e shqetësuar do të hyjë menjëherë në konsultime për të gjetur një zgjidhje të përshtatshme. Deri në këtë zgjidhje, Pala Kontraktuese mund të marrë masat që ajo i konsideron të nevojshme. Lloji dhe zgjatja e masave nuk do të zgjaten më tepër në mënyrë strikte sa është e nevojshme për të ndrequr situatën.

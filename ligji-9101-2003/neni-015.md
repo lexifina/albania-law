@@ -1,0 +1,5 @@
+# Neni 15
+Rregullat e origjinës dhe bashkëpunimi në administratat doganore
+Palët Kontraktuese bien dakord për të aplikuar Sistemin e Harmonizuar PanEuropian për rregullat preferenciale të origjinës në tregtinë reciproke, duke përfshirë edhe amendamentet ekzistuese dhe ato që do të bëhen në të ardhmen në këto rregulla. Në rastin kur rregullat e origjinës PanEuropiane janë të amenduara, Komiteti i Përbashkët do të vendosë mbi amendimin e rregullave të origjinës.
+Protokolli 1 i kësaj Marrëveshjeje përcakton rregullat e origjinës dhe metodat që lidhen me bashkëpunimin administrativ.
+Palët Kontraktuese duhet të marrin masat e duhura, duke përfshirë rishikime të rregullta nga Komiteti i Përbashkët dhe rregullime për bashkëpunimin administrativ, për të siguruar aplikimin efektiv dhe të harmonizuar të rregullave të origjinës europiane dhe neneve 2, 4 deri 7, 9 deri 12, 16, 26 dhe 28 të kësaj Marrëveshjeje, si dhe për të reduktuar, sa më shumë të jetë e mundur, formalitetet e imponuara mbi tregtinë dhe për të arritur zgjidhje të kënaqshme reciproke të ndonjë vështirësie që mund të dalë më futjen në veprim të këtyre dispozitave.
