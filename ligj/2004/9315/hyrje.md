@@ -1,0 +1,7 @@
+L I G J
+Nr.9315, datë 11.11.2004
+PËR DËRGIMIN E KOMPANISË PAQERUAJTËSE SHQIPTARE NË BOSNJË-HERCEGOVINË PËR TË MARRË PJESË NË OPERACIONIN “ALTHEA” TË BASHKIMIT EUROPIAN
+Në mbështetje të neneve 12 pika 3 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
