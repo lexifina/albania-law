@@ -1,0 +1,1 @@
+9. Për projektet e miratuara, zyra kompetente e punësimit në bashkëpunim me punëdhënësin plotësojnë listën e punëkërkuesve të papunë që do të përfshihen në program. Ndërmjet zyrave kompetente të punësimit dhe punëdhënësit nënshkruhet një kontratë, ku përfshihen të drejtat dhe detyrat që përcakton programi për secilën palë.

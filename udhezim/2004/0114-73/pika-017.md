@@ -1,0 +1,1 @@
+17. Zyra kompetente e punësimit përpilon dhe dërgon çdo muaj informacion në lidhje me zbatimin e projekteve, personat e punësuar, përfituesit e programeve të mbështetjes me të ardhura, punëkërkuesit e papunë etj.

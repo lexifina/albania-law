@@ -1,0 +1,1 @@
+13. Marrëdhëniet midis Shërbimit Kombëtar të Punësimit, punëdhënësit dhe punëkërkuesve të papunë të punësuar sipas këtij programi vendosen në marrëveshje të përbashkëta midis tyre. Punëdhënësi dhe punëmarrësi nënshkruajnë një marrëveshje për kushtet e punësimit të personave që punësohen. Marrëveshja përmban në çdo rast emrat e të gjithë personave që do të angazhohen në program.
