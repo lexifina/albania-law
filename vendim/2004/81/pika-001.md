@@ -1,0 +1,1 @@
+1. Miratimin e transferimit të pronave të paluajtshme shtetërore të sistemit të ujësjellës-kanalizimeve në pronësi të njësive të qeverisjes vendore, sipas lidhjeve 1, 2 e 3 që i bashkëlidhen këtij vendimi.

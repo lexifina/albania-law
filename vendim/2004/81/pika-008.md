@@ -1,0 +1,1 @@
+8. Ngarkohen Ministria e Ekonomisë, Ministria e Rregullimit të Territorit dhe e Turizmit, Ministria e Financave dhe Ministria e Pushtetit Vendor dhe e Decentralizimit, në bashkëpunim me njësitë e qeverisjes vendore dhe donatorët e huaj, për zbatimin e këtij vendimi.
