@@ -1,0 +1,1 @@
+1. Fillimin e Procedurës së ndërtimit me koncesion, të formës “BOO” (ndërtim, shfrytëzim, pronësi) të hidrocentralit të Gizaveshit, rrethi i Librazhdit, nga shoqëria “DARDANIA-ENERGJI” sh.p.k., Tiranë, si propozim i pakërkuar.
