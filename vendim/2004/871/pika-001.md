@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, të cilët preken nga ndërtimi i dy rezervuarëve të ujit të pijshëm, në kuadër të projektit për zonën rurale të qytetit të Durrësit.
