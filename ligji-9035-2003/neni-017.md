@@ -1,0 +1,2 @@
+# Neni 17
+Porosia për regjistrimin e kësaj Marrëveshjeje tek Sekretariati i Përgjithshëm i Kombeve të Bashkuara, sipas nenit 102 të Kartës së Kombeve të Bashkuara, jepet menjëherë pas hyrjes së saj në fuqi nga Qeveria e Republikës Federale të Gjermanisë. Pala tjetër Kontraktuese do të njoftohet përkatësisht duke iu shënuar numri i regjistrimit i OKB-së, sapo ky të jetë konfirmuar nga Sekretariati i Përgjithshëm i Kombeve të Bashkuara.
