@@ -1,0 +1,1 @@
+1. Kalimin e magazinave të korpusit trekatësh, me pamje nga deti, me sipërfaqe ndërtimi 1182.9 m2 për çdo kat, që ndodhet në administrimin operativ të ”Alimpeks”, sh.a.-së, Shkozet, Durrës, në pronësi të Ministrisë së Punës dhe Çështjeve Sociale për nevoja të invalidëve të punës, dega Tiranë.
