@@ -1,0 +1,1 @@
+2. Normat e përkohshme të shkarkimeve në ajër zbatohen vetëm nga subjektet, veprimtaritë ekzistuese të të cilave kanë një nivel teknik dhe teknologjik, i cili nuk lejon të zbatohen normat e shkarkimeve në ajër, të miratuara me vendimin nr.435, datë 12.9.2002, të Këshillit të Ministrave “Për miratimin e normave të shkarkimeve në ajër në Republikën e Shqipërisë”.

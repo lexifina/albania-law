@@ -1,0 +1,1 @@
+4. Ministria e Mjedisit, në bazë të programeve të paraqitura, të vendosë kohën e zbatimit të normave të përkohshme, si dhe afatin kur subjekti do t’u nënshtrohet normave të shkarkimeve në ajër. Koha e zbatimit të normave të përkohshme nuk mund të jetë më shumë se 5 vjet nga hyrja në fuqi e këtij vendimi.
