@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55914,
+  "title": "Për një shtesë të ligjit nr.8153, datë 31.10.1996 “Për statusin e jetimit”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9233",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2004-05-13",
+  "published": "2004-06-16",
+  "in_force": "2004-07-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a227defeaa804ea814564e71f6c8c77259bad8770cfd9f3fd81c89d4191a084e.docx",
+  "source_sha256": "a227defeaa804ea814564e71f6c8c77259bad8770cfd9f3fd81c89d4191a084e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55914",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2004/05/13/9233",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
