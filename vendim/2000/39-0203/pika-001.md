@@ -1,0 +1,5 @@
+1. Ministria e Mbrojtjes, për garantimin e cilësisë, të dizenjove, standardeve të paraqitjes estetike, të furnizimit ritmik të ushtrisë dhe për përballimin e urgjencave për veshje, saraceri, këpucë gjysma, te prokurojë, per vitin 2000, drejpërdrejtë me ndërmarrjen e prodhimit të veshjeve të ushtrisë, ne Tiranë për artikujt e mëposhtëm :
+a) Për prodhimin dhe konfeksionimin e veshjeve: kostume teritali, ushtarake e civile, kostume kamuflazhi, për kuadro dhe ushtarë, xhupa, veshje te brendshme, verore e dimërore, për ushtarë, çarçafë, dyshekë.
+b) Për prodhime saraci: mbulesa për sistemet e artilerisë, te aviacionit, tankeve, automjeteve, për ndërlidhjen, për kiminë, për armatimin e lehtë, municionet, jelekë për mbajtjen e pajimeve të ndryshme për ushtarët, pajime për kafshët, çadra për fushimin e ushtrisë.
+c) Për prodhim këpucësh: vetëm për këpucë gjysma për kuadrot.
+Specifikimi me i hollësishëm i konfeksionimeve, që do të realizohen me prokurim të drejpërdrejtë, jepet në listën që i bashkëlidhet këtij vendimi.

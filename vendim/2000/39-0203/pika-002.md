@@ -1,0 +1,1 @@
+2.Çmimet e prodhimit dhe të konfeksionimit për çdo artikull të hartohen nga ndërmarrja e prodhimit të veshjeve të ushtrisë, me analiza analitike të kostos, kurse negociimi dhe miratimi i tyre të bëhet nga Ministria e Mbrojtjes.

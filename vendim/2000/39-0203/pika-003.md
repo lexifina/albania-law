@@ -1,0 +1,2 @@
+3. Enti prokurues, i autorizuar nga Ministria e Mbrojtjes, me miratimin e çmimeve, të lidhë kontratë me ndërmarrjen e prodhimit të veshjeve të ushtrisë, ku të shënohen të gjitha specifikimet e nevojshme teknike të prodhimit të dorëzimit të mallit. Në kontratë, për rastet e konfeksionimit, të specifikohet edhe ritmika e furnizimit me lëndë të para nga enti prokurues.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
