@@ -1,0 +1,1 @@
+5. Në rastet e fatkeqësive të personave në ngarkim të tij, ushtarakut i mundësohet udhëtimi për në familje, me mjetet e njësive apo të repartit ku është i komanduar ose i kompensohet vlera e udhëtimit.

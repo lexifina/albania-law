@@ -1,0 +1,1 @@
+3. Në rastet kur nuk mund t’i sigurohet fjetja në këto mjedise, ushtaraku përfiton një kompensim për fjetje, për ditët efektive të punës, të cilat paguhen sipas dokumenteve të paraqitura, por jo më tepër se 2000 (dy mijë) lekë për çdo natë.
