@@ -31,20 +31,11 @@ Ylli Hamdi Myrtollari
 700
 350 000
 6.
-Artur Mehalla
-500
-700
-350 000
+Shfuqizuar
 7.
-Viktor Bektash Kupe
-100
-700
-70 000
+Shfuqizuar
 8.
-Dervish Bektash Kupe
-100
-700
-70 000
+Shfuqizuar
 9.
 Muhamer Hamdi Myrtollari
 500
