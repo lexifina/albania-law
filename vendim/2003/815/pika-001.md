@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rrugëve që, për fondin prej 5 000 000 (pesë milionë) lekësh, të përdorë procedurën ”Prokurim i drejtpërdrejtë”, me shoqërinë këshilluese ”PBV Konstruksion” sh.p.k., Tiranë, për studimin dhe projektimin e urës së Gomsiqes në aksin rrugor Vau i Dejës-Koman.
