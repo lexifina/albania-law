@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1823,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 402, DATë 11.6.2001 TË KËSHILLIT TË MINISTRAVE “PËR DISA ÇËSHTJE NË ZBATIM TË LIGJIT NR. 7703, DATË 11.5.1993 “PËR SIGURIMET SHOQËRORE NË REPUBLIKËN E SHQIPËRISË” DHE LIGJIT NR. 7870, DATË 13.10.1994 “PËR SIGURIMET SHËNDETËSORE NË REPUBLIKËN E SHQIPËRISË””, NDRYSHUAR ME VENDIMIN NR. 458, DATË 28.6.2001 TË KËSHILLIT TË MINISTRAVE",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "62",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2003-01-23",
+  "published": "2003-01-31",
+  "in_force": "2003-01-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.1.2003\": the publication day (its effects reach back to 1.1.2003)",
+  "source": "https://qbz.gov.al/files/ece63130727b975895e2167af24400387fb66bd5bcb28d3754940c3befd478e4.docx",
+  "source_sha256": "ece63130727b975895e2167af24400387fb66bd5bcb28d3754940c3befd478e4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1823",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2003/01/23/62",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
