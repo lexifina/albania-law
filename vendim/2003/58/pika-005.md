@@ -1,1 +1,0 @@
-5. Kredia jepet në vlerë deri në 5 milionë lekë, me interes 3 për qind dhe afat kthimi deri në 25 vjet për ushtarakët që janë të pastrehë dhe deri në 2.5 milionë lekë, me interes 3 për qind, e afat kthimi deri në 15 vjet, për ata që kërkojnë shtesë për sipërfaqe banimi.
