@@ -1,0 +1,1 @@
+2. Institucionet organizuese të shkollave pasuniversitare (SHPU) t’i administrojnë të ardhurat që mbledhin, sipas ligjit nr.8379, datë 19.7.1998 “Për hartimin dhe zbatimin e Buxhetit të Shtetit të Republikës së Shqipërisë” dhe të akteve nënligjore të dala në zbatim të tij.
