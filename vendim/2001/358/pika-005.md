@@ -1,0 +1,1 @@
+5. Shoqëritë që kërkojnë të ndërtojnë instalime të reja bregdetare për transportimin dhe depozitimin e naftës, të gazit dhe të nënprodukteve të tyre, së bashku me insfrastrukturën portuale të ngarkim-shkarkimit për këto produkte, do të përdorin sipërfaqe ndërtimi në zonat e përcaktuara sipas vendimit nr.251, datë 20.4.2001 të Këshillit të Ministrave.

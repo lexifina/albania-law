@@ -1,0 +1,2 @@
+3. Infrastuktura portuale detare e ngarkim-shkarkimit dhe e transportimit të naftës, të gazit dhe të nënprodukteve të tyre, deri në lidhjen tokësore, me depozitat e magazinimit të këtyre produkteve, pavarësisht se cili është investitori për ndërtimin e saj, mbetet pronë e shtetit dhe përdorimi i saj nga subjektet e interesuara bëhet kundrejt qirasë. Procedura për administrimin e infrastukturës portuale detare, kryhet në zbatim të kuadrit ligjor në fuqi.
+Kriteret dhe vlera e qirasë përcaktohen me vendim të Këshillit të Ministrave.

@@ -1,0 +1,1 @@
+2. Ndërtimi dhe përdorimi i instalimeve të reja bregdetare për transportimin, depozitimin e naftës, të gazit dhe të nënprodukteve të tyre, bëhet me leje koncensioni të Këshillit të Ministrave, pasi shoqëria kërkuese për të ushtruar këtë veprimtari të ketë plotësuar paraprakisht dokumentacionin e përcaktuar në këtë vendim.

@@ -1,0 +1,1 @@
+4. Administrimi i zonës portuale dhe i veprimtarisë në instalimet bregdetare të transportimit dhe të depozitimit të naftës, të gazit dhe të nënprodukteve të tyre, në zbatim të legjislacionit fiskal, të legjislacionit portual, të legjislacionit për mbrotjen nga zjarri dhe mbrojtjen e mjedisit kryhet nga organi përkatës, në varësi të ministrisë përgjegjëse për transportit detar.

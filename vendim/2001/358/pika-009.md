@@ -1,0 +1,1 @@
+9. Subjektet, të cilët janë në marrëdhënie kontraktuale me shtetin për depozitat në Portin e Durrësit, do të kenë përparësi në kërkesën që mund të bëjnë për ndërtimin e impianteve dhe të depozitave bregdetare në sipërfaqet e miratuara sipas vendimit nr.251, datë 20.4.2001 të Këshillit të Ministrave.
