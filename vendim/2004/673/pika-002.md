@@ -1,0 +1,1 @@
+2. Në të gjitha institucionet shtetërore dhe publike, flamuri kombëtar të ulet në gjysmë shtize. Gjithashtu, në orën 1200 të ndërpritet çdo veprimtari dhe të mbahen tri minuta heshtje, në nderim të viktimave.
