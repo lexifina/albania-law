@@ -1,0 +1,1 @@
+2. Pensionet familjare, të caktuara në mbështetje të ligjit nr.8455, datë 4.2.1999 “Për një trajtim të veçantë të familjeve të pilotëve, që humbasin jetën në përmbushje të detyrës, gjatë fluturimit”, të ndryshuar, me datë fillimi deri më 30.6.2004, përfshirë edhe këtë datë, të rriten në masën 8 për qind.

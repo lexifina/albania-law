@@ -1,0 +1,1 @@
+3. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2004 llogariten në shumën 50 100 000 (pesëdhjetë milionë e njëqind mijë) lekë dhe të përballohen nga buxheti i vitit 2004, parashikuar për sigurimin suplementar të ushtarakëve.
