@@ -1,0 +1,26 @@
+{
+  "qbz_id": 1050,
+  "title": "SHQIPËRIA – PJESËTARE E ALEANCËS SË GJERË KUNDËR TERRORIZMIT NDËRKOMBËTAR",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "7",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-10-15",
+  "published": "2001-10-18",
+  "in_force": "2001-10-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/516c511979276d5ec6302f530661ae7f4d151d82999d511d55f3172636362a6d.docx",
+  "source_sha256": "516c511979276d5ec6302f530661ae7f4d151d82999d511d55f3172636362a6d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/1050",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2001/10/15/7",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
