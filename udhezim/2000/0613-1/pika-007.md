@@ -1,0 +1,1 @@
+7. Drejtoritë e Personelit, Organizimit dhe Shërbimeve të institucioneve të Shërbimit Civil të merren me organizimin dhe zhvillimin e procesit të vlerësimit dhe renditjes së vendeve të punës në institucionet e tyre, dhe këtë renditje t’ia propozojnë Departamentit të Administratës Publike.

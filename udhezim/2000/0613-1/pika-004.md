@@ -1,0 +1,1 @@
+4. Përdorimin e pyetësorit të përshkrimit të punës, sipas modelit të paraqitur në aneksin nr.4, që i bashkëlidhet këtij udhëzimi. Pyetësori është mjeti i vetëm për mbledhjen e të dhënave të nevojshme, në bazë të të cilit përgatiten përshkrimet e punëve në Shërbimin Civil.

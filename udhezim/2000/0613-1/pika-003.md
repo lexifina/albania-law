@@ -1,0 +1,1 @@
+3. Në rastet kur ka kundërshtime lidhur për renditjn e punëve të veçanta ato zgjidhen duke përdorur metodologjinë “Vlerësimi me pikë i faktorëve”, sipas modelit të paraqitur në aneksin nr.3, bashkëlidhur këtij udhëzimi.

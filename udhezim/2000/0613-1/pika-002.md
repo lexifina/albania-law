@@ -1,0 +1,1 @@
+2. Zbatimin e përkufizimeve të shkallëve, duke përdorur metodologjinë “Renditja e Punëve”, sipas modelit të paraqitur në aneksin nr.2, që i bashkëlidhet këtij udhëzimi. Këto përkufizime shërbejnë si bazë krahasimi në procesin e vlerësimit të punëve në Shërbimin Civil.

@@ -1,0 +1,1 @@
+5. Drejtoritë e Personelit, Organizimit dhe Shërbimeve të institucioneve të Shërbimit Civil të ngarkojnë një pjesëtar të stafit me detyrën e analistit të punëve i cili përgatit përshkrimet e vendeve të punës së nëpunësve civilë, sipas modelit të paraqitur në aneksin nr. 5, që i bashkëlidhet këtij udhëzimi.
