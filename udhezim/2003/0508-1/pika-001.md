@@ -1,0 +1,1 @@
+1. Kostoja e ndërtimit të banesave nga Enti Kombëtar i Banesave në shkallë republike, për vitin 2003, të jetë 29 253 (njëzet e nëntë mijë e dyqind e pesëdhjetë e tre) lekë/m2, për sipërfaqe shfrytëzimi.
