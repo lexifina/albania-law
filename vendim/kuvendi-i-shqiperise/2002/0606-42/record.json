@@ -1,0 +1,26 @@
+{
+  "qbz_id": 61785,
+  "title": "Për përfundimet e shqyrtimit të vendimeve nr.75, datë 19.4.2002 dhe nr.76, datë 25.4.2002 të Gjykatës Kushtetuese",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "42",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2002-06-06",
+  "published": "2002-06-21",
+  "in_force": "2002-06-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/cf4f48ed34bc19ae14f218439792c7d8f55fde3aa3656d39a9a53d0982e38c5e.docx",
+  "source_sha256": "cf4f48ed34bc19ae14f218439792c7d8f55fde3aa3656d39a9a53d0982e38c5e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61785",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2002/06/06/42",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
