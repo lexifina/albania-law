@@ -1,1 +1,1 @@
-2. Ndërtimin nga Bashkia e Tiranës, të apartamenteve për kreditorët që kanë humbur banesat nga rënia e skemave piramidale, në një sipërfaqe prej 24 360 m2, përfshi dhe tri banesat në ndërtim, në zonën e Laprakës, pasuri e shoqërisë “Vefa Holding” sh.p.k., në administrim.
+2. Ndërtimin nga Bashkia e Tiranës, të apartamenteve për kreditorët që kanë humbur banesat nga rënia e skemave piramidale, në një sipërfaqe prej 20 360 m2, përfshi dhe tri banesat në ndërtim, në zonën e Laprakës, pasuri e shoqërisë “Vefa Holding” sh.p.k., në administrim.
