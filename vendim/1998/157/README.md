@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 157, datë 26.2.1998](https://qbz.gov.al/api/v1/acts/19497); [QBZ versions](https://qbz.gov.al/api/v1/acts/19497/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2000-07-27; after QBZ act 328 (nr. 409).
+Status of this text: `official consolidated version 2`, applying from 2004-11-26; after QBZ act 60787 (nr. 787).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

@@ -4,7 +4,7 @@ Nr. 157, datë 26.2.1998
 
 PËR FILLIMIN E PUNËS SË ZYRËS SË REGJISTRIMIT TË PASURISË SË PALUAJTSHME NË DISA RRETHE
 
-(Ndryshuar me vendimin nr. 281, datë 9.5.1998; nr. 409, datë 27.7.2000)
+(Ndryshuar me vendimin nr. 281, datë 9.5.1998; nr. 409, datë 27.7.2000; nr.787, datë 26.11.2004)
 
 (I përditësuar)
 
@@ -14,7 +14,7 @@ V E N D O S I:
 
 1. Në rrethet Tropojë, Pukë, Peqin, Kurbin, Mallakastër, Gjirokastër, Kolonjë dhe Sarandë, me qendër në këto qytete, hapen dhe fillojnë punën zyrat e regjistrimit të pasurisë së paluajtshme.
 
-2. Veprimtaria e regjistrimit të pasurive të paluajtshme në rrethet Has dhe Delvinë të mbulohet përkatësisht nga zyrat e regjistrimit të pasurive të paluajtëshme të rretheve Kukës dhe Sarandë.
+2. Veprimtaria e regjistrimit të pasurive të paluajtshme në rrethet Delvinë të mbulohet përkatësisht nga zyrat e regjistrimit të pasurive të paluajtëshme të rretheve Sarandë.
 
 2.2. Në rrethin e Malësisë së Madhe, me qendër në Koplik, nga data 1 korrik 2000 hapet dhe fillon punën zyra e regjistrimit të pasurive të paluajtshme.
 
