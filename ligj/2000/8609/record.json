@@ -1,0 +1,27 @@
+{
+  "qbz_id": 138,
+  "title": "KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË",
+  "adopted": "2000-05-08",
+  "version_no": 0,
+  "in_force": "2000-05-28",
+  "in_force_basis": "Source clause \"Ky kod hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.\"; \"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "changing_act": 138,
+  "changing_act_adopted": "2000-05-08",
+  "changing_act_published": "2000-05-13",
+  "source": "https://qbz.gov.al/files/e3876fad11f7984ed74276916d4d28e694cdab000448e4127b2696a7f4770f42.docx",
+  "source_sha256": "e3876fad11f7984ed74276916d4d28e694cdab000448e4127b2696a7f4770f42",
+  "official_record": "https://qbz.gov.al/api/v1/acts/138",
+  "capture_mode": "as-enacted",
+  "unavailable_changing_qbz_ids": [
+    790,
+    941
+  ],
+  "first_law": null,
+  "text_form": "complete official Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
