@@ -1,0 +1,1 @@
+2. Administratorët paraqesin pranë KRT-së së rrethit, ku ndodhet objekti, kërkesën për legalizimin e ndërtimit të objekteve të ndërtuara pa leje ndërtimi, siç përcaktohet në pikën 1 të vendimit. Kërkesa të shqyrtohet brenda 30 ditëve dhe, përjashtimisht nga rregulli dhe kriteret e caktuara, KRT-ja merr vendimin për legalizimin e ndërtimit.
