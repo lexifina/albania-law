@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55916,
+  "title": "Për caktimin e Datës së zgjedhjeve të pjesshme për kryetar komune në komunën hudenisht, qarku korçë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "4243",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2004-06-08",
+  "published": "2004-06-16",
+  "in_force": "2004-06-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fc6312d735fccd73531a5365b26d1282cad93b4fbb8055497cd57687fdf50522.docx",
+  "source_sha256": "fc6312d735fccd73531a5365b26d1282cad93b4fbb8055497cd57687fdf50522",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55916",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2004/06/08/4243",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
