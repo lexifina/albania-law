@@ -1,0 +1,1 @@
+3. Në pikën 14 masa e shpërblimit të anëtarëve të Komisionit Qendror të “Statusit të veteranit” të Luftës Antifashiste Nacionalçlirimtare nga 900 (nëntëqind) lekë bëhet 2 000 (dy mijë) lekë për pjesëmarrjen në mbledhje, për specialistët nga 540 (pesëqind e dyzet) lekë bëhet 700 (shtatëqind) lekë për ditë pune.”.

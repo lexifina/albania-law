@@ -1,0 +1,1 @@
+5. Vendimi nr.540, datë 9.10.1995 i Këshillit të Ministrave “Për miratimin e Komisionit Qendror dhe të komisioneve të rretheve për statusin e veteranit të Luftës Antifashiste Nacionalçlirimtare” shfuqizohet.

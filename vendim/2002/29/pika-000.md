@@ -1,0 +1,1 @@
+Në vendimin nr.190, datë 3.5.1995 të Këshillit të Ministrave, ndryshuar me vendimet nr.467, datë 4.9.1995; nr.2, datë 10.1.1996; nr.562, datë 2.12.1999; nr.353 datë 7.7.2000 dhe nr.114, datë 8.3.2001 të Këshillit të Ministrave të bëhen këto shtesa dhe ndryshime:
