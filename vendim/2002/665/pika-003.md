@@ -1,0 +1,1 @@
+3. Vlefshmëria e Kontratës për zbatimin e fazës së dytë të Projektit është lidhur dhe do të zbatohet në përputhje me sigurimin e burimeve përkatëse të financimit dhe me hyrjen në fuqi të marrëveshjes për këtë qëllim.

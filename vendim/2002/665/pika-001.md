@@ -1,0 +1,1 @@
+1. Miratimin e Projektkontratës ndërmjet qeverisë së Republikës së Shqipërisë, përfaqësuar nga Ministria e Transportit dhe e Telekomunikacionit (Drejtoria e Përgjithshme e Aviacionit Civil), për modernizimin e shërbimit të trafikut ajror, me vlerë 32.977.807 (tridhjetë e dy milionë e nëntëqind e shtatëdhjetë e shtatë mijë e tetëqind e shtatë) USD.

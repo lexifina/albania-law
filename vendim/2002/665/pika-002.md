@@ -1,0 +1,1 @@
+2. Lejimin e Agjencisë Nacionale të Trafikut Ajror sha, që për fondin e vet prej 3.295. 000 (tre milionë e dyqind e nëntëdhjetë e pesë mijë) USD, të përdorë procedurën “Prokurim i drejtpërdrejtë” me shoqërinë ndërkombëtare “Lockheed Martin Global Inc.”, për zbatimin e fazës së parë të Projektit, sipas Projektkontratës së përmendur në pikën 1 të këtij vendimi.
