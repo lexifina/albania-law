@@ -1,0 +1,13 @@
+1. Këshilli i Rregullimit të Territorit të Republikës së Shqipërisë, si organ vendimmarrës, kryesohet nga Kryeministri dhe ka këtë përbërje:
+- Ministri i Rregullimit të Territorit dhe i Turizmit zëvendëskryetar
+- Ministri i Ekonomisë anëtar
+- Ministri i Drejtësisë anëtar
+- Ministri i Industrisë dhe i Energjetikës anëtar
+- Ministri i Transportit dhe i Telekomunikacionit anëtar
+- Ministri i Pushtetit Vendor dhe i Decentralizimit anëtar
+- Ministri i Bujqësisë dhe i Ushqimit anëtar
+- Ministri i Kulturës, Rinisë dhe Sporteve anëtar
+- Ministri i Mjedisit anëtar
+- një përfaqësues nga Ministria e Mbrojtjes anëtar
+- një përfaqësues nga Akademia e Shkencave anëtar
+- Drejtori i Drejtorisë së Planifikimit të Territorit sekretar.
