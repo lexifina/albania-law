@@ -1,0 +1,1 @@
+2. Vendimi nr.169, datë 8.4.1999, i Këshillit të Ministrave “Për një ndryshim dhe shtesë në vendimin e Këshillit të Ministrave nr.166, datë 11.4.1997, “Për sigurimin dhe administrimin e ndihmave humanitare dhe të emergjencës””, shfuqizohet.
