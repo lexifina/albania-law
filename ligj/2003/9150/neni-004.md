@@ -1,0 +1,3 @@
+# Neni 4
+1. Anëtarë të Urdhrit të Farmacistëve bëhen individët, shtetas shqiptarë, të diplomuar farmacistë në Republikën e Shqipërisë ose jashtë saj, që pranojnë Kodin Deontologjik Farmaceutik Shqiptar dhe që e ushtrojnë këtë profesion në sektorin e prodhimit farmaceutik, të shërbimit dhe të shpërndarjes farmaceutike, ambulator e spitalor, publik dhe privat, ose në sektorë të tjerë të shëndetësisë.
+2. Përjashtohen nga ky detyrim, por jo nga e drejta e anëtarësimit në Urdhrin e Farmacistëve, farmacistët funksionarë të administratës publike, për sa kohë që ata nuk ushtrojnë veprimtari të mirëfilltë profesionale farmaceutike.
