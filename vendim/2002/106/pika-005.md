@@ -1,0 +1,1 @@
+5. Fondi prej 238 000 (dyqind e tridhjet e tetë mijë) lekësh, sipas pikave 3 dhe 4 të këtij vendimi, të përballohet nga Buxheti i Shtetit i vitit 2002 në zërin ”Shpronësime”, miratuar për Ministrinë e Transportit dhe Telekomunikacionit.

@@ -1,0 +1,1 @@
+1. Shpronësimi për interes publik të pasurisë së paluajtshme të pronarit, i cili preket nga ndërtimi i Urës së Mulletit, dhe bashkimin e saj me rrugën ekzistuese në fshatin Mullet, në Qarkun e Tiranës.
