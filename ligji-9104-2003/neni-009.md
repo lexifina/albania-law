@@ -1,0 +1,2 @@
+# Neni 9
+Punonjësve ushtarakë dhe civilë të Qeverisë së Shteteve të Bashkuara të Amerikës (përfshi edhe pjesëtarë të Forcave të Armatosura të Shteteve të Bashkuara të Amerikës) të pranishëm në territorin e Republikës së Shqipërisë për veprimtari që lidhen me këtë Marrëveshje, do t’u jepen privilegje dhe imunitete të barabarta me ato që u ofrohen stafit administrativ dhe teknik në përputhje me Konventën e Vjenës për Marrëdhëniet Diplomatike të 18 prillit 1961.

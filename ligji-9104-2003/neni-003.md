@@ -1,0 +1,2 @@
+# Neni 3
+Secila Palë do të caktojë një agjent ekzekutiv për zbatimin e kësaj Marrëveshjeje. Për Qeverinë e Republikës së Shqipërisë, agjenti ekzekutiv do të jetë Ministria e Mbrojtjes, në rast të kundërt Qeveria e Republikës së Shqipërisë njofton Qeverinë e Shteteve të Bashkuara të Amerikës. Për Qeverinë e Shteteve të Bashkuara të Amerikës, agjenti ekzekutiv do të jetë Departamenti i Mbrojtjes, në rast të kundërt Qeveria e Shteteve të Bashkuara të Amerikës njofton Qeverinë e Republikës së Shqipërisë.
