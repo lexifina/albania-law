@@ -1,0 +1,1 @@
+3. Shpenzimet operacionale, që do të kryhen nga Enti Kombëtar i Banesave për banesat e ndërtuara apo të blera në tregun e lirë, të përballohen nga fondet e dhëna për strehim ose t’i njihen kësaj të fundit si shlyerje detyrimi ndaj Buxhetit të Shtetit.

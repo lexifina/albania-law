@@ -1,0 +1,1 @@
+6. Kur të verbrit e pastrehë të grupit të parë, që kanë përfituar banesë nga Enti Kombëtar i Banesave, u bëhet zbritja e vlerës së përcaktuar në pikat 2 dhe 3 të këtij vendimi, Enti Kombëtar i banesave nuk u detyrohet qytetarëve nëse përfitimi falas rezulton më i lartë se masa e kredisë, që ata duhet të shlyejnë.

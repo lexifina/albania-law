@@ -1,0 +1,1 @@
+1. Ministria e Punëve Publike dhe Turizmit, nëpërmjet Entit Kombëtar të Banesave për trajtimin me përparësi nga shteti, të planifikojë fonde për strehimin e të verbërve të grupit të parë, në bazë të kërkesës së Shoqatës të së Verbërve të Shqipërisë.
