@@ -1,0 +1,1 @@
+1. Me marrjen e kutive të votimit dhe fletëve të votimit të papërdorura dhe pas përfundimit të afatit për ankimet, sipas pikës 5 të nenit 113 të Kodit Zgjedhor, Komisioni Qendror i Zgjedhjeve hap të gjitha kutitë e votimit.

@@ -1,0 +1,1 @@
+4. Grupi i punës, me procesverbal, hap çdo kuti votimi, grupon veças dokumentet që do të arkivohen, materialet që mund të ripërdoren dhe pjesën tjetër që përbën materialet që do të asgjësohen. Ky procesverbal nënshkruhet çdo ditë edhe nga drejtori i Drejtorisë së Logjistikës Zgjedhore.

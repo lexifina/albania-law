@@ -1,0 +1,1 @@
+7. Të gjitha materialet e tjera që gjenden në kutitë e votimit, të cilat nuk përfshihen në dokumentacionin e përmendur në pikat 5 e 6 të këtij vendimi, të ambalazhohen në thasë plasmasi dhe të bëhet asgjësimi i tyre nëpërmjet djegies.
