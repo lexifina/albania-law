@@ -1,0 +1,1 @@
+7. Ministri i Drejtësisë dhe Ministri i Rendit Publik të përcaktojnë mënyrën e kryerjes së shërbimeve të nevojshme për funksionimin normal të paraburgimit, kur këto mjedise gjenden brenda hapësirave të komisariateve.

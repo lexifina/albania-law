@@ -1,0 +1,1 @@
+6. Marrja në dorëzim e mjediseve të paraburgimit të bëhet veçmas për çdo komisariat. Ministri i Drejtësisë dhe Ministri i Rendit Publik të përcaktojnë radhën e marrjes në dorëzim, masat që do të merren dhe mënyrat e kryerjes së këtij dorëzimi.

@@ -1,0 +1,1 @@
+1. Kalimi i sistemit të paraburgimit, së bashku me mjediset dhe pajisjet, nga administrimi i komisariateve të Ministrisë së Rendit Publik në administrimin e Drejtorisë së Përgjithshme të Burgjeve, në Ministrinë e Drejtësisë.
