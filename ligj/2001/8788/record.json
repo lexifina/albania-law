@@ -1,0 +1,29 @@
+{
+  "qbz_id": 851,
+  "title": "PËR  ORGANIZATAT JOFITIMPRURËSE",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "8788",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2001-05-07",
+  "published": "2001-06-07",
+  "in_force": "2001-06-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/747c5bbe234d6213cb8519a89e86c7c277100119bde2954440d7e41f4a6b5409.docx",
+  "source_sha256": "747c5bbe234d6213cb8519a89e86c7c277100119bde2954440d7e41f4a6b5409",
+  "official_record": "https://qbz.gov.al/api/v1/acts/851",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2001/05/07/8788",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    9238,
+    5768
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
