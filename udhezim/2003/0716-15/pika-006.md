@@ -1,0 +1,1 @@
+6. Mbyllja e sallave të lojërave aritmetike, elektronike dhe pikave të lojërave të fatit sportive nuk mund të bëhet pa kaluar 1 (një) vit nga dita e miratimit të tyre nga Ministria e Financave. Kjo mbyllje mund të bëhet përpara këtij afati vetëm për shkaqe të jashtëzakonshme.
