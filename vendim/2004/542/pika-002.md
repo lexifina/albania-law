@@ -1,0 +1,1 @@
+2. Ushtaraku me gradë madhore përfiton, në çastin e daljes në lirim, një pagesë të menjëhershme, të barabartë me aq paga sa ka vite shërbimi në gradat madhore. Nëse vitet e shërbimit nuk janë të plota, shpërblimi të llogaritet në përpjestim me muajt që ka shërbyer.

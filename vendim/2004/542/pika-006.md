@@ -1,0 +1,1 @@
+6. Në rastet e zhvillimit të ngjarjeve përkujtimore apo të ceremonive ushtarake, ftohet të marrë pjesë ish-ushtaraku me gradë madhore, i cili ka vendin e vet, të përcaktuar sipas rregullores së ceremonialit ushtarak. Ministria e Mbrojtjes përballon shpenzimet e nevojshme për pjesëmarrjen e tij në këto ceremoni.

@@ -1,0 +1,1 @@
+1. Dorëzimi i detyrës së ushtarakut me gradë madhore të Forcave të Armatosura të Republikës së Shqipërisë, në çastin e daljes në lirim, të bëhet me ceremoni ushtarake, sipas rregullores së ceremonialit ushtarak.
