@@ -1,0 +1,2 @@
+15. Plotësimi i dosjeve të noterëve sipas parashikimeve të pikës së mësipërme duhet të bëhet brenda 6 muajsh nga hyrja në fuqi e këtij urdhri.
+Brenda 15 ditësh nga marrja e kërkesës së bërë nga strukturat përgjegjëse të Ministrisë së Drejtësisë, noteri paraqet dokumentacionin e kërkuar për plotësimin e dosjes personale. Mosrespektimi i këtij detyrimi nga noteri do të shoqërohet me dhënien e masës disiplinore të gjobës në përputhje me legjislacionin në fuqi.
