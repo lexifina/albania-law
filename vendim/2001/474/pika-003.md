@@ -1,0 +1,1 @@
+3.Diferencat ndërmjet çmimeve të reja dhe atyre të mëparshme, për sasitë e shtypura, gjendje apo në qarkullim, pranë subjekteve përkatëse të shitjes me pakicë, me efekt financiar prej rreth 7 000 000 (shtatë milionë) lekësh, të grumbullohen dhe të përdoren nga Ministria e Arsimit dhe Shkencës për shtypjen e teksteve shkollore të arsimit parauniversitar gjatë vitit 2001.

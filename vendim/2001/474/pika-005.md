@@ -1,0 +1,1 @@
+5. Diferencat ndërmjet shpenzimeve të prodhimit e të shpërndarjes së teksteve shkollore të arsimit parauniversitar dhe të çmimeve përkatëse të shitjes me pakicë të tyre, të caktuara sipas këtij vendimi, të vazhdojnë të subvencionohen nga Buxheti i Shtetit, sipas shumës vjetore përkatëse, të miratuar në Buxhetin e Shtetit.
