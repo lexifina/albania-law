@@ -1,0 +1,1 @@
+5. Familjet të cilat kanë përfituar statusin e të pastrehut, sipas akteve ligjore në fuqi, para hyrjes në fuqi të ligjit nr.9232, datë 13.5.2004, e që nuk janë trajtuar me strehim, duhet të paraqesin dokumentacionin, në përputhje me kërkesat e këtij vendimi.

@@ -1,0 +1,1 @@
+10. Familjet mund ta refuzojnë banesën dhe të mbeten përsëri në listën e pritjes, vetëm kur nuk u janë plotësuar kushtet e strehimit, sipas normave në fuqi. Në rast të kundërt, u hiqet e drejta për aplikim.
