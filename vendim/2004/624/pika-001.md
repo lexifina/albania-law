@@ -1,0 +1,1 @@
+1. Ministrisë së Rregullimit të Territorit dhe të Turizmit t’i jepet fondi prej 400 000 000 (katërqind milionë) lekësh për shlyerjen e detyrimeve të prapambetura të ujësjellësve për energjinë elektrike ndaj KESH sh.a. për tremujorin e tretë të vitit 2004, sipas listës që i bashkëlidhet këtij vendimi.

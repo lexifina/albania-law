@@ -1,0 +1,1 @@
+3. Albpetrol sh.a., me shumën prej 222 000 000 (dyqind e njëzet e dy milionë) lekësh, të shlyejë detyrimet për sigurimet shoqërore, në vlerën 107 000 000 (njëqind e shtatë milionë) lekë dhe ndaj Drejtorisë së Përgjithshme të Tatimeve, në vlerën 115 000 000 (njëqind e pesëmbëdhjetë milionë) lekë.

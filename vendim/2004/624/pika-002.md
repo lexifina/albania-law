@@ -1,0 +1,1 @@
+2. KESH sh.a., me këtë fond, të shlyejë detyrimet ndaj ARMO sh.a., e cila të shlyejë detyrimet ndaj Albpetrol sh.a., Patos, në vlerën 222 000 000 (dyqind e njëzet e dy milionë) lekë dhe ndaj Drejtorisë së Përgjithshme të Tatimeve, në vlerën 178 000 000 (njëqind e shtatëdhjetë e tetë milionë) lekë.
