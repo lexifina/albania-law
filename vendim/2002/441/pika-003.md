@@ -1,0 +1,1 @@
+3. Ministria e Industrisë dhe Energjetikës të shqyrtojë me përparësi kërkesat për pajisjen me leje shfrytëzimi të gurit gëlqeror të subjekteve, të cilave u ndalohet veprimtaria e shfrytëzimit të rërës dhe zhavorrit në shtretërit e lumenjve.
