@@ -1,0 +1,1 @@
+6. Tarifat e shërbimeve për kryerjen e procedurave të certifikimit të materialit mbjellës, bimor, dhe të shërbimeve të tjera në funksion të tyre përcaktohen me udhëzim të Ministrit të Bujqësisë dhe Ushqimit.

@@ -1,0 +1,1 @@
+5. Aprobimet fushorë të materialit mbjellës, bimor, që shumëzohet për qëllime tregtimi kryhen nga grupe specialistësh, nga Inspektorati i Kontrollit Shtetëror të Farërave dhe Fidanëve, nga Inspektorati i Shërbimit të Mbrojtjes së Bimëve dhe nga specialistë, të autorizuar nga Ministri i Bujqësisë dhe Ushqimit.
