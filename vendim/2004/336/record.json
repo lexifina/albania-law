@@ -1,0 +1,31 @@
+{
+  "qbz_id": 2833,
+  "title": "Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi albbakër, Sha-së",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "336",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2004-06-01",
+  "published": "2004-06-11",
+  "in_force": "2004-06-11",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2de14b09ac0ce906612e42988b2605c95d2a5f3403410853c50ce56107cb49e0.docx",
+  "source_sha256": "2de14b09ac0ce906612e42988b2605c95d2a5f3403410853c50ce56107cb49e0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/2833",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2004/06/01/336",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29968,
+    14888,
+    16999,
+    59858
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
