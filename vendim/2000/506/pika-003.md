@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme që shpronësohen të shpërblehen në vlerë të plotë, sipas masës së shpërblimit që paraqitet në tabelën që i bashkëlidhet këtij vendimi, në shumën e përgjithshme prej 12 106 748 (dymbëdhjetë milionë e njëqindegjashtë mijë e shtatëqindedyzetetetë) lekësh.
