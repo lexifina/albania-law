@@ -1,1 +1,0 @@
-2. Punonjësit, të cilët janë klasifikuar si nëpunës civilë dhe nuk kanë arsimin e lartë, do të vazhdojnë të paguhen sipas vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave “Për pagat e punonjësve të institucioneve buxhetore”, ndryshuar me vendimin nr.424, datë 11.6.2001 të Këshillit të Ministrave
