@@ -1,0 +1,1 @@
+2. Efektet financiare, në çastin e llogaritjes fillestare të pensioneve, si rrjedhojë e zbatimit të koeficientëve të përcaktuar në pikën 1, të përballohen nga fondi i miratuar për vitin 2000 për Insitutin e Sigurimeve Shoqërore.
