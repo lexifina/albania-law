@@ -1,0 +1,1 @@
+6. Pagat e punonjësve të tjerë të jenë sipas lidhjes II-5 “Niveli i pagave për punonjësit e ministrive dhe të institucioneve të tjera qendrore”, të vendimit nr.726, datë 21.12.2000 të Këshillit të Ministrave “Për pagat e punonjësve të institucioneve buxhetore”, të ndryshuar.
