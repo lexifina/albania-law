@@ -1,0 +1,1 @@
+7. Provigjoni teknik i sigurimit të detyrueshëm për mbajtësit e mjeteve motorike për përgjegjësitë ndaj palëve të treta përjashtuar kartonin jeshil, përllogaritet si shumë e provigjonit teknik të primit të pafituar dhe provigjonit teknik të dëmeve.
