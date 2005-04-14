@@ -4,6 +4,10 @@ Nr.9297, datë  21.10.2004
 
 PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.9087, DATË 19.6.2003 “KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË”
 
+(Ndryshuar me ligjin nr. 9371, datë 14.4.2005)
+
+(i përditësuar)
+
 Në  mbështetje të  nenit 81 pika 1 dhe 2 shkronja “d”, nenit 83 pika 1 dhe nenit 154 të  Kushtetutës, me propozimin e një grupi deputetësh, 
 
 KUVENDI 
@@ -62,15 +66,7 @@ Përfundimi i mandatit të anëtarëve të KQZ-së në funksion të përtëritje
 
 Neni 3
 
-Pas nenit 182, shtohet neni 182/1 me këtë përmbajtje:
-
-“Neni 182/1
-
-Rishikimi i sistemit të zgjedhjeve
-
-1. Dispozitat e këtij Kodi Zgjedhor shfuqizohen ditën e nesërme të datës së shpalljes së rezultatit përfundimtar të zgjedhjeve të përgjithshme të vitit 2005 për Kuvendin.
-
-2. Brenda 45 ditëve nga hyrja në fuqi e këtij ligji, Kuvendi vendos për përbërjen, fushën e veprimtarisë dhe procedurat e punës së Komisionit të Posaçëm Parlamentar, si dhe për modalitetet e pjesëmarrjes së publikut në procesin legjislativ, lidhur me diskutimin, shqyrtimin dhe miratimin e nismave të nevojshme për rishikimin kushtetues dhe ligjor të sistemit të zgjedhjeve në Republikën e Shqipërisë, të zbatueshëm pas procesit të zgjedhjeve të treguar në pikën 1 të këtij neni.”.
+(Shfuqizuar me ligjin nr. 9371, datë 14.4.2005)
 
 Neni 4
 

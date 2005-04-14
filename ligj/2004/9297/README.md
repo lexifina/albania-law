@@ -1,9 +1,9 @@
 # PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.9087, DATË 19.6.2003 “KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË”
 
-Official source: [Ligji nr. 9297](https://qbz.gov.al/api/v1/acts/3093).
+Official source: [Ligji nr. 9297](https://qbz.gov.al/api/v1/acts/3093); [QBZ versions](https://qbz.gov.al/api/v1/acts/3093/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2004-10-21; published 2004-10-28; in force 2004-11-12.
+Status of this text: `official consolidated version 1`, applying from 2005-04-14; after QBZ act 3487 (nr. 9371).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
