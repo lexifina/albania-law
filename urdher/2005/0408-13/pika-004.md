@@ -1,0 +1,1 @@
+4. Strukturat e përcaktuara në pikën 6 të këtij urdhri të raportojnë në mënyrë periodike te titullarët e institucioneve dhe nëpërmjet përfaqësuesëve të tyre të informojnë grupin teknik ndërinstitucional të punës për parandalimin e pastrimit të parave.

@@ -1,0 +1,2 @@
+6. Ngarkohen për ndjekjen dhe zbatimin e këtij urdhri, Drejtoria e Përgjithëshme e Policisë së Shtetit, Drejtoria e Bashkërendimit të Luftës Kundër Pastrimit të Parave, Drejtoria e Përgjithshme e Tatimeve, Drejtoria e Përgjithshme e Doganave, Drejtoria kundër Krimit të Organizuar në Shërbimin Informativ Shtetëror dhe policitë bashkiake e të komunave në vend.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+3. Përfaqësuesit e grupit teknik ndërinstitucional të punës për parandalimin e pastrimit të parave programojnë dhe të koordinojnë masat ndërmjet institucioneve me qëllim parandalimin dhe ndërprerjen e ushtrimit në mënyrë të paligjshëm të tregtimit dhe këmbimit valutor.

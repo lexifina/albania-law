@@ -1,0 +1,1 @@
+2. Drejtoria e Përgjithshme e Policisë së Shtetit, Drejtoria e Pergjithshme e Tatimeve (Policia Tatimore), policitë bashkiake dhe të komunave të koordinojnë veprimet për parandalimin, ndërprerjen dhe procedimin ligjor, administrativ ose penal të çdo personi që ushtron veprimtarinë e këmbimit të palicencuar valutor në gjithë territorin e Republikës së Shqipërisë.
