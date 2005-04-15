@@ -1,0 +1,1 @@
+27. Agjenti në sigurime është i detyruar të ruajë konfidencialitetin e të dhënave, të fakteve dhe rrethanave, që kanë të bëjnë me të siguruarin, dhe të të dhënave me të cilat njihet gjatë ushtrimit të veprimtarisë.

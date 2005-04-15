@@ -1,0 +1,1 @@
+3. Veprimtarinë e agjentit në sigurime mund ta ushtrojnë edhe persona fizikë ose juridikë, që kryejnë veprimtari në fushën e shërbimeve, me kusht që veprimtaria e agjentit në sigurime të ushtrohet në emër të tyre, nga agjentë të licencuar nga Autoriteti Mbikëqyrës i Sigurimeve.

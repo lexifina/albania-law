@@ -1,0 +1,1 @@
+5. Agjenti ose shoqëria e agjentëve në sigurime kryen veprimtarinë e ndërmjetësimit, në përputhje me ligjin nr.9267, datë 29.7.2004, me legjislacionin për sigurimin e detyrueshëm për mbajtësit e mjeteve motorike për përgjegjësitë ndaj palëve të treta, me këtë vendim dhe legjislacionin në fuqi.

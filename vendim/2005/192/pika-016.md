@@ -1,0 +1,1 @@
+16. Kontrolli i dokumentacionit kryhet nga një komision i posaçëm, i cili është përgjegjës për organizimin e procesit të licencimit dhe mbajtjen e evidencave për këtë proces. Komisioni i posaçëm përbëhet nga kryetari, dy anëtarë dhe një sekretar, të cilët emërohen nga drejtori ekzekutiv i këtij autoriteti dhe janë punonjës të autoritetit.

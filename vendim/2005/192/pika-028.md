@@ -1,0 +1,1 @@
+28. Autoriteti Mbikëqyrës i Sigurimeve tërheq licencën e dhënë për ushtrim veprimtarie ndërmjetësimi në sigurime për rastet e parashikuara në nenin 85 të ligjit nr.9267, datë 29.7.2004, si dhe për moszbatim të këtij vendimi.
