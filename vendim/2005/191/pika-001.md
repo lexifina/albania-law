@@ -1,0 +1,1 @@
+1. Miratimin e metodikës “Për mënyrat e llogaritjes së nivelit të kërkuar të aftësisë paguese për sigurimin e jetës dhe të jo-jetës të shoqërive të sigurimit, si edhe elementet që e përbëjnë atë”, sipas tekstit që i bashkëlidhet këtij vendimi.
