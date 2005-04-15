@@ -1,0 +1,4 @@
+1. Shtetasi shqiptar, për t’u pranuar nënoficer aktiv i Forcave të Armatosura të Republikës së Shqipërisë, përveç kushteve të përcaktuara në ligjin nr.9171, datë 22.1.2004 “Për gradat dhe karrierën ushtarake në Forcat e Armatosura të Republikës së Shqipërisë”, duhet të plotësojë, detyrimisht, edhe këto kritere:
+a) Të ketë kryer shërbimin e detyrueshëm ushtarak, për meshkujt, ose të ketë kryer programin e stërvitjes bazë, në qendrën stërvitore Bunavi dhe stërvitjen individuale në shkollën e trupës, për femrat;
+b) Të përmbushë format e testimit shëndetësor, fizik dhe intelektual, të miratuara nga Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura;
+c) Të ketë përfunduar detyrimisht Akademinë e Nënoficerëve “Lodewijk W.J.K.Tomson”, Tiranë ose një akademi ushtarake jashtë vendit, të njësuar me të.
