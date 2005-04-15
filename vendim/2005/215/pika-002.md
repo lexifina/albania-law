@@ -1,0 +1,1 @@
+2. Ministrisë së Rendit Publik, në kuadër të kalimit të sistemit të paraburgimit, për qarqet Lezhë dhe Shkodër, i pakësohen 33 punonjës, në numrin e përgjithshëm të punonjësve, të miratuar për vitin 2005, përkatësisht, 21 punonjës nga Drejtoria e Policisë së qarkut Lezhë dhe 12 punonjës nga Drejtoria e Policisë së qarkut Shkodër.

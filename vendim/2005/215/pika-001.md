@@ -1,0 +1,1 @@
+1. Ministrisë së Drejtësisë, në kuadër të kalimit të sistemit të paraburgimit nga Ministria e Rendit Publik në varësi të Ministrisë së Drejtësisë, për qarqet Lezhë dhe Shkodër, i shtohen 33 punonjës, në numrin e përgjithshëm të punonjësve, për vitin 2005.
