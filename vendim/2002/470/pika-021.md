@@ -1,2 +1,0 @@
-21. Garancia financiare është një shumë në cash, e bllokuar për llogari të Komisionit të Mbikëqyrjes së Sigurimeve, në një nga bankat e nivelit të dytë, ku ndodhet selia qendrore e saj. Kjo garanci mund të përfaqësohet edhe nga letrat me vlerë, të emetuara nga shteti, me afat maturimi jo më të vogël se një vit ose kontratë përgjegjësie (policë) e një shoqërie sigurimi, të autorizuar nga ky komision.
-21.1. Garancia financiare lëshohet për llogari të Komisionit të Mbikëqyrjes së Sigurimeve.

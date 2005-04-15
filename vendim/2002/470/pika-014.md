@@ -1,2 +1,0 @@
-14. Vendimi i Komisionit të Mbikëqyrjes së Sigurimeve për heqjen e autorizimit zyrtar i bëhet i ditur agjentit dhe të gjitha shoqërive të sigurimeve, si dhe botohet në tri gazeta me qarkullim kombëtar, brenda pesë ditëve nga marrja e këtij vendimi.
-14.1. Ankimi kundër vendimit për heqjen e autorizimit zyrtar, në rast të moszgjidhjes në Komisionin e Mbikëqyrjes së Sigurimeve, bëhet pranë Gjykatës së Rrethit të Tiranës brenda 30 ditëve nga marrja e njoftimit.

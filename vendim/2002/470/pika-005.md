@@ -1,2 +1,0 @@
-5. Komisioni i Mbikëqyrjes së Sigurimeve është i vetmi autoritet zyrtar që autorizon kryerjen e veprimtarive në fushën e ndërmjetësimit në sigurime dhe/ose risigurime.
-5.1. Nëse një kërkesë për dhënie autorizimi zyrtar për ushtrim veprimtarie ndërmjetësimi në sigurime dhe/ose risigurime është refuzuar me vendim të Komisionit të Mbikëqyrjes së Sigurimeve, aplikanti mund të ankohet, brenda 30 ditëve nga marrja e njoftimit, në Gjykatën e Rrethit të Tiranës.

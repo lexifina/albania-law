@@ -1,1 +1,0 @@
-18. Shoqëria e komisionit (brokerimit) paguan një tarifë sa gjysma e shumës së përgjithshme që do të paguanin komisionerët (brokerat), anëtarë të shoqërisë, sikur të ishin persona fizikë më vete. Kjo paguhet çdo 3 vjet, sa herë që ripërtërihet autorizimi.

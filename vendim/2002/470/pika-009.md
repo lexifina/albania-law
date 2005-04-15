@@ -1,1 +1,0 @@
-9. Kontrata e agjentit i vihet në dispozicion përfaqësuesit të Komisionit të Mbikëqyrjes së Sigurimeve, gjatë kontrollit në vend, si në shoqërinë e sigurimeve, ashtu edhe në objektin ku agjenti ushtron veprimtarinë.

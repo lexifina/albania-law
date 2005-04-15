@@ -1,6 +1,0 @@
-11. Vlefshmëria juridike e autorizimit zyrtar nis pasi Komisioni i Mbikëqyrjes së Sigurimeve pajis të autorizuarin me leje për fillimin e ushtrimit të veprimtarisë së ndërmjetësimit. Kjo leje është pjesë përbërëse e autorizimit zyrtar.
-11.1. Leja për fillimin e ushtrimit të veprimtrisë së ndërmjetësimit i lëshohet të autorizuarit vetëm pas paraqitjes dhe miratimit në Komisionin e Mbikëqyrjes së Sigurimeve të kontratës së lidhur të agjentit me një shoqëri sigurimi dhe/ose risigurimi, të autorizuar nga ky komision.
-11.2. Personat e pajisur me autorizim zyrtar për të ushtruar veprimtarinë e agjentit të sigurimeve paguajnë, për llogari të Komisionit të Mbikëqyrjes së Sigurimeve, tarifën prej 50 000 lekësh.
-11.3. Emrat e agjentëve të sigurimeve, të autorizuar për ushtrimin e veprimtarisë së ndërmjetësimit, regjistrohen, sipas numrit rendor të autorizimit zyrtar, në regjistrin e agjentëve të sigurimeve, që mbahet nga Komisioni i Mbikëqyrjes së Sigurimeve.
-11.4. Forma e mbajtjes së regjistrit të agjentëve caktohet me rregullore të Komisionit të Mbikëqyrjes së Sigurimeve.
-11.5. Komisioni i Mbikëqyrjes së Sigurimeve është i detyruar të njoftojë, pas çdo testimi, listën e agjentëve dhe të komisionerëve (brokrerave) të autorizuar prej tij, në jo më pak se tri gazeta me qarkullim kombëtar.
