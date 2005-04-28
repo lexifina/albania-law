@@ -1,0 +1,1 @@
+2. Vlerat e këtyre aktiveve të pasqyrohen në bilancet e vitit 2005 të këtyre shoqërive, të hartuara në mbështetje të ligjit nr.7661, datë 19.1.1993 “Për kontabilitetin” dhe të vendimit nr.334, datë 9.7.1993 të Këshillit të Ministrave “Për miratimin e planit të përgjithshëm”, si dhe të njihen nga sistemi fiskal.
