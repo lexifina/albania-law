@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit prej 39 016 684 (tridhjetë e nëntë milionë e gjashtëmbëdhjetë mijë e gjashtëqind e tetëdhjetë e katër) lekësh, të përballohet nga fondet e aeroportit “Nënë Tereza” sh.a.
