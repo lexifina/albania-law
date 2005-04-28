@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3437,
+  "title": "PËR CAKTIMIN E DATËS SË ZGJEDHJEVE PËR KUVENDIN",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "4541",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2005-04-25",
+  "published": "2005-04-28",
+  "in_force": "2005-04-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5a321525b1b47ee2cd56f687b5c8d4fd316f01f0c92df8a05b92d7e95134164c.docx",
+  "source_sha256": "5a321525b1b47ee2cd56f687b5c8d4fd316f01f0c92df8a05b92d7e95134164c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3437",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2005/04/25/4541",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
