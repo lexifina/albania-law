@@ -1,0 +1,1 @@
+8. Pronarët e përcaktuar në listën që i bashkëlidhet këtij vendimi, për të cilët në kolonën “Shënime” është shkruar “Plotësim dokumentacioni”, të marrin shpërblimin për efekt të shpronësimit, pasi të jenë pajisur me dokumentacionin e plotë ligjor nga zyra e regjistrimit të pasurive të paluajtshme. Deri në atë çast paratë do të jenë të bllokuara në bankë.
