@@ -1,0 +1,1 @@
+3. Ministria e Mbrojtjes, Ministria e Rendit Publik, Ministria e Pushtetit Vendor dhe e Decentralizimit dhe Shërbimi Informativ i Shtetit, në bashkëpunim me Institutin e Sigurimeve Shoqërore, duke filluar nga viti 2006 e në vazhdim, të planifikojnë numrin e personave, që do të dalin në pension në vitin përkatës, si dhe fondet e nevojshme për kontributet e sigurimeve shoqërore.

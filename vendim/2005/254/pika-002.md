@@ -1,0 +1,1 @@
+2. Kontributet për këtë periudhë të llogariten mbi pagën mujore minimale dhe të përballohen nga Buxheti i Shtetit, duke filluar nga koha kur merret vendim për caktimin e pensionit të pleqërisë, të invaliditetit apo familjar dhe pasi të jetë përcaktuar periudha individuale, e nevojshme, si periudhë sigurimi për efekt pensioni pleqërie, invaliditeti a familjar.
