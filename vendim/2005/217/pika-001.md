@@ -1,0 +1,1 @@
+1. Përcaktimin e shërbimeve shëndetësore, spitalore, publike, si të lavanderisë, pastrimit, kateringut, mirëmbajtjes së ndërtesave spitalore e të impianteve teknologjike të tyre dhe të parkimit të automjeteve, për t’u dhënë me koncesion, me marrëveshje ose kontrata të tjera shfrytëzimi, administrimi apo mirëmbajtje.
