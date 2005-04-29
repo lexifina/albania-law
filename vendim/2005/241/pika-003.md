@@ -1,0 +1,1 @@
+3. Agjencia drejtohet nga drejtori dhe në organikë ka specialistë, të cilët emërohen dhe lirohen nga ministri, që mbulon fushën e planifikimit të territorit, në përputhje me procedurat dhe kriteret e ligjit nr.8549, datë 11.11 .1999 “Statusi i nëpunësit civil”, por nuk e gëzojnë statusin e nëpunësit civil.
