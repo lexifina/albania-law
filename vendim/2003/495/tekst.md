@@ -4,7 +4,11 @@ Nr.495, datë 18.7.2003
 
 PËR PËRCAKTIMIN E KUSHTEVE TË PERSONAVE DHE SASISË SË NEVOJSHME TË KARBURANTIT PËR PËRDORIM NGA ANIJET E PESHKIMIT
 
-Në mbështetje të nenit 100  të Kushtetutës, të shkronjës “b” të pikës 2 të nenit 19 të ligjit nr.8976, datë 12.12.2002 “Për akcizat”, i ndryshuar, të ligjit nr.7971, datë 26.7.1995 “Për prokurimin publik”, i ndryshuar dhe të nenit 4 të ligjit nr.8450, datë 24.2.1999 “Për përpunimin, transportimin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre”, me propozimin e Ministrit të Bujqësisë dhe të  Ushqimit, Këshilli i Ministrave
+(Ndryshuar me VKM nr, 57, datë 29.1.2004 , datë nr. 311, datë 6.5.2005)
+
+(I përditësuar)
+
+Në mbështetje të nenit 100 të Kushtetutës, të shkronjës “b” të pikës 2 të nenit 19 të ligjit nr.8976, datë 12.12.2002 “Për akcizat”, i ndryshuar, të ligjit nr.7971, datë 26.7.1995 “Për prokurimin publik”, i ndryshuar dhe të nenit 4 të ligjit nr.8450, datë 24.2.1999 “Për përpunimin, transportimin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre”, me propozimin e Ministrit të Bujqësisë dhe të  Ushqimit, Këshilli i Ministrave
 
 V E N D O S I:
 
@@ -12,7 +16,7 @@ V E N D O S I:
 
 2. Tregtimi i karburanteve për furnizimin e anijeve të peshkimit të bëhet vetëm nga persona juridikë, të pajisur me lejet përkatëse, në përputhje me ligjin nr.8450, datë 24.2.1999 “Për përpunimin, transportimin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre”.
 
-3. Përcaktimi i shoqërisë furnizuese të bëhet në përputhje me ligjin nr.7971, datë 26.7.1995 “Për prokurimin publik”, i ndryshuar.
+3. Shoqëri furnizuese e gazoilit, për anijet e peshkimit, të jetë “ARMO” sh.a., Fier. Çmimi i shitjes të jetë sipas çmimit vjetor të programuar, miratuar nga Ministria e Ekonomisë.
 
 4. Gazoili t’u shitet Organizatave të Menaxhimit të Peshkimit (OMP), sipas porteve të peshkimit, të cilat duhet:
 
