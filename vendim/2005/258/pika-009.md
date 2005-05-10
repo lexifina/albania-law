@@ -1,0 +1,1 @@
+9. Banesa, që blihet në treg, duhet të plotësojë standardet sipas normave të projektimit në fuqi për hidroizolimin, termoizolimin, ndriçimin, ajrimin, lagështinë, lartësinë dhe elementet e planimetrisë tip.

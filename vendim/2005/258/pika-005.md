@@ -1,0 +1,1 @@
+5. Vlerat mesatare të shitblerjes së banesave tip në tregun e lirë përcaktohen nga këshilli bashkiak, në bazë të vëzhgimeve të shitblerjeve të banesave në tregun e lirë të vitit pararendës dhe metodologjisë së miratuar me udhëzim të Ministrit të Rregullimit të Territorit dhe të Turizmit.

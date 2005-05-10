@@ -1,0 +1,1 @@
+7. Kostoja mesatare e ndërtimit, brenda juridiksionit territorial të bashkisë, të llogaritet sipas metodologjisë dhe brenda kufijve të miratuar me udhëzim të Ministrit të Rregullimit të Territorit dhe të Turizmit dhe në bazë të të dhënave e çmimeve të tregut të vitit pararendës.

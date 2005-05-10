@@ -1,0 +1,1 @@
+10. Banesat sociale me qira, që do të përdoren për të strehuar familje, në përbërje të së cilës është një person me aftësi të kufizuara, përshtaten nga enti menaxhues për krijimin e lehtësirave për lëvizjen, komunikimin dhe shmangien e pengesave arkitektonike, sipas normave në fuqi.

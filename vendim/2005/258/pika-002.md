@@ -1,0 +1,1 @@
+2. Vlera mesatare e shprehur në lekë/m2 sipërfaqe ndërtimi e banesave në treg në një bashki, të jetë më e vogël se kostoja e ndërtimit të një banese nga sektori publik, e shprehur në lekë/m2 sipërfaqe ndërtimi.

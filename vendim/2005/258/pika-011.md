@@ -1,0 +1,1 @@
+11. Banesat, që blihen në treg për t’u përdorur si banesë sociale me qira, inspektohen nga specialistë të licencuar në fushën e ndërtimit, të cilët për çdo inspektim plotësojnë formularin, që i bashkëlidhet këtij vendimi.

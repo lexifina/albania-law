@@ -1,0 +1,1 @@
+13. Banesa, që blihet në treg, duhet të jetë e lirë nga barra hipotekore ose nga detyrime të tjera kontraktuale dhe regjistrohet në zyrën e regjistrimit të pasurive të paluajtshme në emër të bashkisë.
