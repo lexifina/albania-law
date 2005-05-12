@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123466,
+  "title": "Për shërbimin informativ kombëtar",
+  "type": "Ligj",
+  "number": "8391",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1998-10-28",
+  "version_no": 1,
+  "qbz_version_id": 10815,
+  "in_force": "2005-05-12",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2005-05-12",
+  "changed_by_qbz_id": 4065,
+  "changed_by_number": "9400",
+  "changed_by_title": "PËR NJË NDRYSHIM NË LIGJIN NR.8391, DATË 28.10.1998 “PËR SHËRBIMININFORMATIV KOMBËTAR”, I NDRYSHUAR",
+  "source": "https://qbz.gov.al/files/66b0b11e77c6c434e4b467cca763fa54f0df417aca40aa3f8ce37e596ecb4122.docx",
+  "source_sha256": "66b0b11e77c6c434e4b467cca763fa54f0df417aca40aa3f8ce37e596ecb4122",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123466",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123466/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
