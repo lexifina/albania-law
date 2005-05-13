@@ -1,0 +1,9 @@
+# Neni 16
+Oficeri dhe nënoficeri i Gardës, për të fituar gradën e radhës, duhet të plotësojnë kriteret e mëposhtme:
+a) nëntogeri fiton gradën toger pas plotësimit të afatit kohor të qëndrimit në gradën nëntoger;
+b) togeri fiton gradën nënkapiten pas plotësimit të afatit kohor të qëndrimit në gradën toger, si dhe pasi të ketë kryer kursin përkatës në Institutin e Gardës ose kurse të tjera të barazvlefshme në akademitë e policisë apo në ato ushtarake, brenda ose jashtë vendit;
+c) nënkapiteni fiton gradën kapiten pas plotësimit të afatit kohor të qëndrimit në gradën nënkapiten, si dhe pasi të ketë kryer kursin përkatës në Institutin e Gardës ose kurse të tjera të barazvlefshme në akademitë e policisë apo në ato ushtarake, brenda ose jashtë vendit;
+ç) kapiteni fiton gradën major pas plotësimit të afatit kohor të qëndrimit në gradën kapiten, si dhe pasi të ketë kryer kursin përkatës në Institutin e Gardës ose kurse të tjera të barazvlefshme në akademitë e policisë apo në ato ushtarake, si dhe në shkolla të tjera të larta civile, për specialitete të veçanta, brenda ose jashtë vendit;
+d) majori fiton gradën nënkolonel pas plotësimit të afatit kohor të qëndrimit në gradën major, si dhe pasi të ketë kryer kursin përkatës në Akademinë e Policisë ”Arben Zylyftari” apo në Akademinë Ushtarake ”Spiro Moisiu” ose kurse të tjera të barazvlefshme me to, brenda apo jashtë vendit;
+dh) nënkoloneli fiton gradën kolonel pas plotësimit të afatit kohor sipas këtij ligji, si dhe pasi të ketë kryer kursin përkatës në Akademinë e Policisë ”Arben Zylyftari” apo në Akademinë Ushtarake ”Spiro Moisiu”;
+e) koloneli fiton gradën madhore pasi të ketë kryer kurs kualifikimi në Akademinë e Policisë ”Arben Zylyftari”, kursin e Kolegjit të Lartë të Mbrojtjes ose kurse në kolegje të larta jashtë vendit, të barazvlefshme me to, gjithashtu, duhet të ketë mbrojtur gjuhën angleze.

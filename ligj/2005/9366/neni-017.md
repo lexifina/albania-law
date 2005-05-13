@@ -1,0 +1,4 @@
+# Neni 17
+1. Oficerët, që kryejnë detyra në specialitetet e inxhinierit, të mjekut, ekonomistit, financierit, juristit, psikologut në xhenio, në armatim e në specialitete të tjera të ngjashme me to, të përcaktuara nga Ministri i Rendit Publik, e fitojnë gradën major në bazë të vjetërsisë në profesion dhe jo sipas kritereve të përcaktuara në nenin 16 të këtij ligji.
+2. Oficerët e përmendur në pikën 1 të këtij neni, për të fituar grada më të larta, kur i parashikon funksioni organik, duhet të kryejnë kurset e kualifikimit, të parashikuara për çdo gradë, sipas nenit 16 të këtij ligji.
+3. Kur oficerët e Gardës, të specialiteteve të përmendura në pikën 1 të këtij neni, plotësojnë kriteret dhe kërkojnë të përparojnë në gradë e karrierë, sipas përcaktimeve të pikës 2 të këtij neni, organet kompetente janë të detyruara t’u ofrojnë kurset e nevojshme të arsimimit dhe kualifikimit.
