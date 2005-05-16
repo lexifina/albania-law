@@ -1,0 +1,1 @@
+4. Përzgjedhja e subjekteve bëhet nga komisioni i vlerësimit të ofertave, përbërja e të cilit caktohet me urdhër të Ministrit të Financave. Ky komision duhet të ketë në përbërje një specialist të fushës së informatikës.

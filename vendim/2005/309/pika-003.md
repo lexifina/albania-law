@@ -1,0 +1,1 @@
+3. Përzgjedhja e subjekteve, të cilat kërkojnë të ushtrojnë veprimtari të shërbimit të informatizimit fiskal dhe financiar, bëhet nëpërmjet konkurrimit të hapur, ku të drejtën për të marrë pjesë e kanë subjektet vendase dhe të huaja.

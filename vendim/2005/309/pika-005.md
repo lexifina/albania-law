@@ -1,0 +1,1 @@
+5. Komisioni i vlerësimit të ofertave bën klasifikimin e subjekteve, sipas kritereve të vlerësimit, të përcaktura në tabelën, që i bashkëlidhet këtij vendimi. Dokumentacioni për vlerësim, që do të paraqitet nga kandidatët, duhet të jetë i hartuar, në formë dhe përmbajtje, sipas rregullave dhe udhëzimeve të miratuara nga komisioni i vlerësimit të ofertave.
