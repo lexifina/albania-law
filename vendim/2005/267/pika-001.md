@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2005, zëri “Mallra e shërbime”, t’i shtohet fondi prej 20 000 000 (njëzet milionë) lekësh, për shpenzimet e kryera për përballimin e situatës së krijuar nga reshjet e borës.
