@@ -1,0 +1,5 @@
+VENDIM
+Nr.269, datë 28.4.2005
+PËR KRITERET DHE MASËN E MBULIMIT FINANCIAR TË KUJDESIT SHËNDETËSOR PËR USHTARAKUN E FORCAVE Të ARMATOSURA
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 40 të ligjit nr.9210, datë 23.3.2004 “Për statusin e ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë“, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:

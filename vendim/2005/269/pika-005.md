@@ -1,0 +1,1 @@
+5. Të drejtat e parashikuara në pikat 1,2,3 dhe 4 të këtij vendimi, gëzohen vetëm kur kohëzgjatja e shërbimit ushtarak është jo më pak se 1 vit, me përjashtim të ushtarit të shërbimit të detyrueshëm aktiv.
