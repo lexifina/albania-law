@@ -1,0 +1,31 @@
+{
+  "qbz_id": 3469,
+  "title": "PËR MËNYRËN DHE PROCEDURAT E VENDOSJES DHE KALIMIT TË FORCAVE\nUSHTARAKE TË HUAJA NË TERRITORIN E REPUBLIKËS SË SHQIPËRISË, SI DHE\nPËR DËRGIMIN E FORCAVE USHTARAKE SHQIPTARE JASHTË VENDIT",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9363",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-03-24",
+  "published": "2005-05-03",
+  "in_force": "2005-05-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/7d11be7d5c3696091e1e345b0ab516b683fd9c7463049009f6271eaef8566868.docx",
+  "source_sha256": "7d11be7d5c3696091e1e345b0ab516b683fd9c7463049009f6271eaef8566868",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3469",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2005/03/24/9363",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26969,
+    16033,
+    10346,
+    14715
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
