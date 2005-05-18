@@ -1,0 +1,1 @@
+1. Shoqërisë anonime Albpetrol, Patos t’i jepet në administrim të përkohshëm, pa shpërblim, sipërfaqja prej 7000 m2, në zonën gazmbajtëse Delvinë, në parcelat e kadastruara me nr.21 e nr.22, të emërtuara “Llakopin”, zonë pyjore shtetërore me koordinata X=4424100, Y=4425430, Z=410, në ekonominë pyjore, Dhrovjan.
