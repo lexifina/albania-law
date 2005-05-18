@@ -1,0 +1,7 @@
+3. Shoqëritë e sigurimeve, përsa u përket aktiveve dhe investimeve të aktiveve, në mbulim të provigjoneve teknike dhe matematike, mund të investojnë jo më shumë se:
+a) 10 për qind të provigjoneve teknike bruto në çdo pjesë toke a ndërtesë ose në një numër pjesësh toke apo ndërtesash, afër njëra-tjetrës, sa mund të vlerësohen efektivisht si një investim;
+b) 5 për qind të provigjoneve teknike bruto në aksione dhe letra të tjera me vlerë, të negociueshme si aksione, obligacione dhe instrumente të tjera të tregut të parasë dhe kapitalit të së njëjtës sipërmarrje apo hua, dhënë të njëjtit huamarrës. Ky kufi mund të ngrihet në 10 për qind, nëse sipërmarrja nuk investon më shumë se 20 për qind të provigjoneve teknike bruto në hua ose letra me vlerë të institucioneve emetuese a huamarrëse, ku në secilin prej tyre, ka investuar më shumë se 5 për qind të aktiveve të veta;
+c) 5 për qind të provigjoneve teknike bruto në hua të pasiguruara, përfshirë 1 për qind për çdo hua të vetme, të pasiguruar, përveç huave dhënë institucioneve të kreditit, shoqërive siguruese dhe sipërmarrjeve investuese;
+ç) 3 për qind të provigjoneve teknike bruto në formën e parave në arkë;
+d) 10 për qind të provigjoneve teknike bruto në aksione, letra të tjera me vlerë, që trajtohen si aksione dhe letra me vlerë debitore, të cilat nuk tregtohen në një treg të rregulluar;
+dh) 15 për qind të provigjoneve teknike për kreditë hipotekore, sipas përcaktimit të pikës C.3 të listës nr.2, që i bashkëlidhet këtij vendimi.
