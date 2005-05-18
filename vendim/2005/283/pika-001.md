@@ -1,0 +1,1 @@
+1. Fillimin e procedurave për dhënien me koncesion, si propozim i kërkuar, të objektit “Shërbimi i lavanderisë dhe i pastrimit të brendshëm në Qendrën Spitalore Universitare “Nënë Tereza”, Tiranë, Spitalin Universitar Obstetrik-Gjinekologjik nr.1 e nr.2, Tiranë dhe Spitalin Universitar të Sëmundjeve të Mushkërive, Tiranë”.
