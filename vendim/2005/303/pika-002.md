@@ -1,0 +1,1 @@
+2. Ministria e Pushtetit Vendor dhe e Decentralizimit dhe Ministria e Ekonomisë të jenë Organi Shtetëror i Autorizuar (OSHA), për realizimin e procedurave përkatëse, për dhënien me koncesion të këtij shërbimi, në përputhje me ligjin nr.7973, datë 26.7.1995, të ndryshuar.
