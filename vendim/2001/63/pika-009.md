@@ -1,1 +1,0 @@
-9. Pas miratimit sipas pikës 8, Agjencia a Sekretariati dhe subjekti fitues (i klasifikuari i parë në listën e vlerësimit) nënshkruajnë një kontratë me kusht, si garanci për lidhjen e kontratës përkatëse.

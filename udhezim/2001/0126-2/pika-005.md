@@ -1,6 +1,0 @@
-5. Shqyrtimi i propozimeve dhe shpallja e fituesit
-Agjencia a Sekretariati shqyrton propozimet (dokumentacionin teknik-pika 1 B-2) e subjekteve të kualifikuara dhe, duke u bazuar në kriteret e vlerësimit sipas pikës 4-2 të këtij paragrafi, përpilon listën e vlerësimit të tyre në pikë. Kjo listë paraqitet për miratim në mbledhjen e KBU-së (Sekretariatit).
-Agjencia a Sekretariati ka për detyrë të mbajë procesverbalet e mbledhjes, për miratimin e listës së vlerësimit, të cilat, së bashku me dokumentacionin e tenderit do të përfshihen në një dosje me emërtimin e tenderit. Dosja ruhet pranë Agjencisë a Sekretariatit, në përputhje me ligjin “Për arkivat”. Këto dokumente vihen në dispozicion të organeve të autorizuara, për kontroll apo verifikim.
-Subjekti i kualifikuar i pari në listën e vlerësimit shpallet fitues dhe kjo u njoftohet të gjithë pjesëmarrësve në tender. Subjektet pjesëmarrëse kanë të drejtën e ankimit në gjykatë ndaj vendimit të autoriteteve të ujit, brenda 5 ditëve nga marrja e njoftimit.
-Nëse brenda 5 ditëve, Agjencia a Sekretariati nuk ka njoftim për ankim në gjykatë, ajo njofton subjektin fitues që pas 20 ditëve të paraqitet për të tërhequr autorizimin.
-Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

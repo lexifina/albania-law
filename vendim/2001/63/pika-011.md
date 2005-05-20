@@ -1,1 +1,0 @@
-11. Agjencia a Sekretariati ka të drejtë të njihet, të thërrasë për sqarim ose të verifikojë dokumentacionin e nevojshëm për besueshmërinë e subjektit kërkues.Barra e provës për të gjitha faktet e kërkuar apo veprimet kontrolluese gjatë procesit të tenderimit bie mbi subjektin kërkues.
