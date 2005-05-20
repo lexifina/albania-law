@@ -1,0 +1,1 @@
+2. Subjektet, juridike dhe fizike, vendase apo të huaja, të paraqesin, pranë sekretariatit teknik të KKU-së (më poshtë sekretariati) ose agjencisë, një kërkesë për marrjen e lejeve, të autorizimeve apo marrjen me koncesion, për përdorimin e ujit, sipas formularëve të miratuar nga KKU-ja.

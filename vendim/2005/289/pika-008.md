@@ -1,0 +1,1 @@
+8. Ndërmarrjet ose sha-të e ujësjellës-kanalizimeve, te zonat që ato ofrojnë shërbimin e furnizimit me ujë të pijshëm, pasi të kenë plotësuar nevojat e popullsisë, lidhin kontratë koncesioni me subjektet, të cilëve u nevojitet përdorimi i ujit nga rrjeti i ujësjellësit. Kjo kontratë bëhet e vlefshme pas miratimit nga KBU-ja përkatëse.

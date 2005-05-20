@@ -1,0 +1,4 @@
+16. Miratimi dhe nënshkrimi i kontratës së koncesionit
+Kur pas negocimeve, ndërmjet sekretariatit ose agjencisë dhe subjektit, arrihet në përfundim se kontrata e koncesionit, e paraqitur nga subjekti është e pranueshme për të dyja palët, ajo nënshkruhet nga drejtuesi i sekretariatit a i agjencisë dhe nga përfaqësuesi ligjor i subjektit.
+Kontrata paraqitet nga sekretariati ose agjencia në mbledhjen e radhës së KKU-së ose KBU-së, ku merret vendimi për miratimin ose jo të saj. Në rastin e mosmiratimit, për ndryshime apo plotësime, kontrata i rikthehet sekretariatit ose agjencisë, të cilat pas korrigjimeve, brenda një afati të përcaktuar në mbledhje, e paraqesin përsëri për miratim në KKU ose KBU.
+Për rastet kur miratimi i kontratës është e drejtë e Këshillit të Ministrave, ajo, pas miratimit nga KKU-ja, dërgohet për miratim në Këshillin e Ministrave.

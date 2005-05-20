@@ -1,0 +1,1 @@
+7. Kërkesat për koncesion për përdorimin e ujit, në funksion të prurjes së kërkuar, të paraqiten pranë sekretariatit ose agjencisë, sipas tabelave nr.l, nr.2 dhe nr.4, që i bashkëlidhen këtij vendimi (kolonat 10 dhe 11).

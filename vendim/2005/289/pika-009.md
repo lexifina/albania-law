@@ -1,0 +1,6 @@
+9. Dhënia e koncesioneve për përdorimin e ujit, me përjashtim të rasteve të pikave 17 e 18 të këtij vendimi, bëhet me miratimin e KKU-së a KBU-së, sipas procedurave të mëposhtme:
+a) Në rastin e një propozimi të kërkuar, që nënkupton se KKU-ja a KBU-ja ka vendosur të japë përdorimin e ujit me koncesion, në përputhje me planin kombëtar të rezervave ujore, me planet e rezervave ujore të baseneve ujëmbledhëse apo me studimet e tjera specifike, subjektet e interesuara, pas shpalljes se konkursit, u nënshtrohen procedurave të konkurrimit.
+b) Në rastin e një propozimi të pakërkuar, që nënkupton se janë subjektet, që kanë paraqitur kërkesën për përdorimin e ujit me koncesion, dhe KKU-ja ose KBU-ja, pasi merr mendimin e sekretariatit a të agjencisë për parametrat kryesorë të burimit ujor dhe impaktet e përdorimit të tij, gjykon dhe vendos nëse subjektet do t’u nënshtrohen procedurave të konkurrimit.
+Sekretariati ose agjencia mund të kërkojë oponencë për propozimet e përmendura në shkronjat “a” e “b”, nga organet a instititutet e specializuara, financiare dhe teknike, si dhe nga këshilli konsultativ teknik i ngritur pranë tij/saj.
+Në rast se fillohet procedura e konkurrimit dhe nuk paraqitet asnjë subjekt tjetër i interesuar, vazhdohet procedura me subjektin që ka paraqitur ofertën.
+Koncesionet për përdorimin e ujit jepen për një afat deri në 30 vjet.

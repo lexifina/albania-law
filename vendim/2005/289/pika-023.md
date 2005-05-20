@@ -1,0 +1,1 @@
+23. Vendimi nr.63, datë 26.1.2001 i Këshillit të Ministrave “Për procedurat e kërkimit, të shqyrtimit dhe të dhënies së autorizimeve, të lejeve dhe koncesioneve për përdorim të rezervave ujore” dhe udhëzimi nr.2, datë 26.1.2001 i Këshillit të Ministrave, shfuqizohen.

@@ -1,0 +1,1 @@
+18. Për kërkesat e paraqitura për përdorimin e ujit, për prodhim hidroenergjie, lidhet kontratë koncesionare ndërmjet ministrive të fushave përkatëse dhe përfaqësuesve të subjekteve që kanë aplikuar për përdorim të ujit. Kontrata e koncesionit për këtë rast negociohet nga palët para miratimit të dhënies së koncesionit nga Këshilli i Ministrave.

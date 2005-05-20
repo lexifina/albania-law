@@ -1,0 +1,1 @@
+22. Të gjitha institucionet që kanë lidhje me fushën e përdorimit të ujit, të mos japin leje të reja apo të rinovojnë lejet e lëshuara, nëse subjektet kërkuese nuk janë të pajisura me lejen, autorizimin apo kontratën e koncesionit përkatës për përdorimin e ujit nga KKU-ja dhe KBU-ja.

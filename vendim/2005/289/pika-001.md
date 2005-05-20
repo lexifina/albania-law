@@ -1,0 +1,1 @@
+1. Deklarimet për përdorim të lirë të ujit nga subjektet fizike të bëhen pranë agjencive të ujit të baseneve ujëmbledhëse (më poshtë agjencia), sipas formularit “A”, të miratuar nga Këshilli Kombëtar i Ujit (më poshtë KKU).
