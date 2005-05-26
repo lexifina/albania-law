@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e shkollës së mesme të përgjithshme, të profilizuar “Arsakeio”, si institucion arsimor jopublik, parauniversitar, që do ta zhvillojë mësimin edhe në gjuhën greke, në qytetin e Tiranës.
