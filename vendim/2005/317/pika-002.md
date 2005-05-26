@@ -1,0 +1,1 @@
+2. Plani Kombëtar i Përafrimit të Legjislacionit Vendas me atë të Bashkimit Europian dhe Zbatimit të Angazhimeve, që rrjedhin nga marrëveshja e Stabilizim-Asocimit, plotëson dhe përmirëson angazhimet e marra në Planin e Veprimit për Zbatimin e Përparësive të Partneritetit Europian.

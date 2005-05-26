@@ -1,0 +1,1 @@
+1. Miratimin e Planit Kombëtar të Përafrimit të Legjislacionit Vendas me atë të Bashkimit Europian dhe Zbatimit të Angazhimeve, që rrjedhin nga marrëveshja e Stabilizim-Asocimit, sipas tekstit që i bashkëlidhet këtij vendimi.
