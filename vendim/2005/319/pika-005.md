@@ -1,0 +1,1 @@
+5. Efektet financiare, për vitin 2005, llogariten në shumën 325 000 000 (treqind e njëzet e pesë milionë) lekë dhe të përballohen brenda planit të përgjithshëm të shpenzimeve të miratuara për këtë vit, për Institutin e Sigurimeve Shoqërore.
