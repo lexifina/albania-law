@@ -1,0 +1,1 @@
+3. Nëpunësit civilë të Autoritetit Mbikëqyrës të Sigurimeve përfitojnë shtesë mbi pagën bazë, për kushtet e punës, në masën deri në 35 për qind, sipas përcaktimit të drejtorit ekzekutiv të këtij institucioni.
