@@ -1,0 +1,4 @@
+9. Sipërmarrësi kryen punime të veçanta, të parashikuara në kontratë me nënsipërmarrje, vetëm me miratim paraprak të investitorit. Marrëdhëniet dhe kushtet e nënsipërmarrjes rregullohen me marrëveshje dypalëshe, e cila në asnjë rast nuk duhet të bjerë në kundërshtim me detyrimet kontraktore të sipërmarrësit. Sipërmarrësi i punimeve është, në çdo rast, përgjegjës ndaj investitorit për punimet e nënsipërmarrjes dhe dokumentacionin teknik, ekonomik e administrativ.
+9.1 Nënsipërmarrësi i punimeve të veçanta të ndërtimit duhet të plotësojë kushtet e një subjekti të mirëfilltë për zbatim punimesh.
+9.2 Kur investitori bindet që nënsipërmarrësi shkel kushtet e kontratës, lajmëron, me shkrim, sipërmarrësin për zgjidhjen e marrëveshjes dhe largimin nga kantieri të nënsipërmarrësit.
+9.3 Sipërmarrësi i punimeve nuk mund të pretendojë për zhdëmtim a ndryshim të kushteve të kontratës në rastet e zgjidhjes së marrëveshjes së nënsipërmarrjes.

@@ -1,0 +1,4 @@
+7. Sipërmarrësi nuk mund të ndryshojë me nismën e vet, të subjektit projektues a mbikëqyrës, projektin dhe përshkrimet teknike të tij.
+7.1 Sipërmarrësi është i detyruar të zbatojë çdo ndryshim të urdhëruar me shkrim nga investitori ose persona të autorizuar prej tij, që nuk ndryshon, në thelb, kushtet kryesore të projektit, të kontratës dhe nuk rrit vleftën e saj.
+7.2 Propozimet për rritjen e vleftës së kontratës dhe zgjatjen e afatit të punimeve i paraqiten investitorit, nëpërmjet mbikëqyrësit të punimeve, kur ato përmirësojnë treguesit e veprës, vijnë nga shkaqe pamundësisht të paparashikueshme, në kohën e duhur dhe nuk janë në kundërshtim me kushtet e kontratës.
+7.3 Ndryshimet e miratuara nga investitori sipas pikave 7.1 e 7.2 të këtij kreu, së bashku me dokumentacionin e nevojshëm teknik, ekonomik e administrativ, i dorëzohen zyrtarisht, sipërmarrësit.
