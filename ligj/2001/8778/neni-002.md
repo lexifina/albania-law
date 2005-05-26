@@ -1,5 +1,5 @@
 # Neni 2
-Në mbëshetje të nenit 37 të Konventës, Shteti Shqiptar shpreh këto rezerva:
-1. Të rezervojë të drejtën e vet për të mos vendosur si vepra penale, sipas ligjit të tij kombëtar, pjesërisht ose tërësisht, sjellje të referuara në nenet 4, 6 deri në 8, 10 deri në 12 ose të veprave të korrupsionit pasiv, të përcaktuara në nenin 5 të Konventës (neni 37/1).
-2. Të deklarojë përdorimin prej Shtetit Shqiptar të rezervës së parashikuar në nenin 17/2 të Konventës (37/2).
-3. Të deklarojë se mund të refuzojë asistencën e ndërsjellë ligjore, sipas nenit 26/1 të Konventës, nëse kërkesa lidhet me një vepër penale që nga Shteti Shqiptar vlerësohet si vepër politike (neni 37/3).
+1. Në mbështetje të paragrafit të dytë të nenit 29 të Konventës, Republika e Shqipërisë deklaron se Autoriteti Qendror i saj do të jetë Ministria e Drejtësisë, në adresën: Ministria e Drejtësisë, Bulevardi ”Zogu I’’, Tiranë, Shqipëri.
+2. Në mbështetje të paragrafit të gjashtë të nenit 30 të Konventës, Republika e Shqipërisë deklaron se, për arsye të efiçencës, kërkesat, sipas kreut IV, duhet t’i drejtohen Autoritetit Qendror.
+3. Në mbështetje të paragrafit të dytë të nenit 37 të Konventës, Republika e Shqipërisë rezervon të drejtën për të zbatuar nenin 17 paragrafët 1/b dhe 1/c, vetëm nëse vepra penale parashikohet si e tillë, sipas legjislacionit të shtetit palë, ku ajo është kryer (kriminalizimi i dyfishtë).
+4. Në mbështetje të paragrafit të tretë të nenit 37 të Konventës, Republika e Shqipërisë deklaron se mund të refuzojë asistencën e ndërsjellë ligjore, sipas paragrafit të parë të nenit 26, nëse kërkesa lidhet me një vepër penale, të cilën Republika e Shqipërisë e konsideron si vepër penale politike.
