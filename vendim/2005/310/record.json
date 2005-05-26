@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3523,
+  "title": "PËR DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR.244, DATË 23.4.2004 TË\nKËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E PROJEKTIT PILOT DHE TË\nSKEMËS SË FURNIZIMIT ME KARBURANT, PA AKCIZË, PËR PËRCAKTIMIN E\nSASIVE TË KARBURANTIT, QË DO TË PËRDOREN PËR MEKANIKËN BUJQËSORE NË\nTRI ZONA TË VENDIT DHE PËR SERAT ME NGROHJE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "310",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-05-06",
+  "published": "2005-05-26",
+  "in_force": "2005-05-26",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/6d2bba8f426dc5685244765462baeb1e99533ba82bf751b05397dd559ceda1ba.docx",
+  "source_sha256": "6d2bba8f426dc5685244765462baeb1e99533ba82bf751b05397dd559ceda1ba",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3523",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/05/06/310",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
