@@ -1,0 +1,1 @@
+12. Me miratimin e studimit urbanistik të zonës së shpallur, njësia e qeverisjes vendore të fillojë, menjëherë, punën për lirimin e hapësirave për funksione publike, sipas përcaktimit të pikës 1 të nenit 9 të ligjit nr.9304, datë 28.10.2004 “Për legalizimin dhe urbanizimin e zonave informale”.

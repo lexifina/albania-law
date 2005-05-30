@@ -1,0 +1,2 @@
+7. Propozimi për miratimin e zonës informale të shqyrtohet në këshillin e rregullimit të territorit të njësisë së qeverisjes vendore përkatëse dhe pas miratimit nga ana e saj, të paraqitet për shqyrtim e miratim në Këshillin e Rregullimit të Territorit të Republikës së Shqipërisë.
+Për zonat që ndodhen jashtë vijave kufizuese të ndërtimit të fshatrave, ky propozim kalon për shqyrtim dhe miratim në Këshillin e Rregullimit të Territorit të qarkut përkatës.

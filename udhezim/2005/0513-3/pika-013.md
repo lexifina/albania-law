@@ -1,0 +1,5 @@
+13. Fillimi i legalizimeve për zonën informale përkatëse autorizohet nga Këshilli i Rregullimit të Territorit të Republikës së Shqipërisë.
+Autorizimi për lejimin e fillimit të legalizimeve të ndërtimeve të banesave pa leje në zonën informale përkatëse, është vendim i Këshillit të Rregullimit të Territorit të Republikës së Shqipërisë, që lëshohet sipas procedurës së mëposhtme:
+a) Njësia e qeverisjes vendore përkatëse bën njoftimin për lirimin e hapësirave publike të përcaktuara në studimin urbanistik, të miratuara për zonën informale, tek Agjencia e Legalizimit dhe Urbanizimit të Zonave Informale;
+b) Agjencia e Legalizimit dhe e Urbanizimit të Zonave Informale, brenda 30 ditësh nga marrja e njoftimit nga njësia përkatëse e qeverisjes vendore, kontrollon zbatimin në terren të studimit urbanistik të zonës informale përkatëse;
+c) Kur lirimi i hapësirave publike përputhet me studimin urbanistik të zonës informale përkatëse, kjo Agjenci i kërkon Këshillit të Rregullimit të Territorit të Republikës së Shqipërisë, në mbledhjen e saj të radhës, autorizimin për fillimin e legalizimeve.

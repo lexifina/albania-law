@@ -1,0 +1,1 @@
+5. Për pajisjen me hartën kadastrale të zonës, në shkallën 1:2500 deri 1:5000, si dhe për hartimin e relacionit për gjendjen e pronësisë së tokës, sipas përcaktimit të shkronjës “gj” të pikës 4 të këtij udhëzimi, njësia e qeverisjes vendore të bashkëpunojë me zyrën përkatëse të regjistrimit të pasurive të paluajtshme.

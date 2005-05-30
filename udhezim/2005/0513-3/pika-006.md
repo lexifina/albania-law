@@ -1,0 +1,1 @@
+6. Për përcaktimin e bonitetit të tokës, të konfirmuar në hartën e shkallës 1:1000 deri 1:2500 të zonës, sipas përcaktimit të shkronjës h” të pikës 4 të këtij udhëzimi, të merret mendimi me shkrim nga drejtoria përkatëse e bujqësisë dhe e ushqimit.

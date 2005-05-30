@@ -1,0 +1,4 @@
+14. Vendimi i Këshillit të Rregullimit të Territorit të Republikës së Shqipërisë, për lejimin e legalizimeve të publikohet dhe të afishohet në vende publike të zonës përkatëse.
+Vendimi është miratimi përfundimtar i studimit urbanistik të zonës informale përkatëse, në funksion të përcaktimit të bërë në shkronjën “b” të nenit 7 të ligjit nr.9304, datë 28.10.2004 “Për legalizimin dhe urbanizimin e zonave informale”.
+Me publikimin e vendimit të Këshillit të Rregullimit të Territorit të Republikës së Shqipërisë, për lejimin e legalizimeve, njësia e qeverisjes vendore fillon procedurat e pajisjes me lejen e legalizimit, sipas përcaktimit të pikës 2 të nenit 9 të ligjit nr.9304, datë 28.10.2004 “Për legalizimin dhe urbanizimin e zonave informale”.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
