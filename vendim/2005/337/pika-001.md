@@ -1,0 +1,1 @@
+1. Mjediset e objektit “Ish-kampingu për të ardhurit nga Kosova, Sheq i Vogël, Fier”, me sipërfaqe 10.5 ha, me numër kadastral a-1, të kalojnë në përgjegjësi administrimi nga Ministria e Bujqësisë dhe e Ushqimit te Ministria e Drejtësisë, për t’u përdorur për sistemin e paraburgimit.
