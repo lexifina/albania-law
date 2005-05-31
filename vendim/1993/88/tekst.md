@@ -4,7 +4,7 @@ Nr.88, datë 1.3.1993
 
 PëR MIRATIMIN E ZONAVE Që KANë PëRPARëSI ZHVILLIMIN E TURIZMIT
 
-(Ndryshuar me VKM nr. 240, datë 21.4.2005)
+(Ndryshuar me VKM nr. 240, datë 21.4.2005; nr. 376, datë 31.5.2005)
 
 (i përditësuar)
 
@@ -34,7 +34,7 @@ A. Bregdeti Adriatik
 
 - Territoret nga Pojani në Plazhin e Semanit në rrethin e Fierit.
 
-- Territoret nga Pishë Poro në Zvërnec ato kufizuese të Gjirit të Vlorës.
+- Territoret nga Pishë Poro në Zvërnec ato kufizuese të Gjirit të Vlorës, përjashtuar zonën e Akernisë.
 
 B. Bregdeti Jon
 
@@ -84,7 +84,7 @@ Buzë liqeneve
 
 - Bregu i liqenit të Prespës nga Kallamasi në Liqenas në rrethin e Korçës.
 
-- Bregu i liqenit të Butrintit në rrethin e Sarandës.
+- Bregu i liqenit të Butrintit në rrethin e Sarandës, përjashtuar zonën e Ultësirës së Vrinës dhe fushën e Vurgut.
 
 Zona malore
 
