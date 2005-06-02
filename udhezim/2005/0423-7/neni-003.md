@@ -1,0 +1,2 @@
+# Neni 3
+Vendimi hartohet në tri kopje, nga të cilat njëra afishohet së bashku me listën përfundimtare të zgjedhësve, njëra ruhet pranë organit vendimmarrës, së bashku me kërkesën e dërguar nga Drejtoria e Përgjithshme e Gjendjes Civile dhe kopja e tretë, brenda 2 ditëve nga marrja e vendimit, i dërgohet kësaj të fundit. Njësia e qeverisjes vendore i dërgon Drejtorisë së Përgjithshme të Gjendjes Civile, krahas vendimit, edhe listën e zgjedhësve (nëse ka), të shënuar në kërkesën e ardhur prej saj, por që nuk ndodheshin në listën e zgjedhësve të njësisë përkatëse.
