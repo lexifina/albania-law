@@ -1,0 +1,1 @@
+1. Miratimin e raportit përfundimtar të vlerësimit të ofertave, paraqitur nga komisioni i vlerësimit të ofertave për privatizimin e shoqërisë anonime “Albtelecom”, i cili i bashkëlidhet këtij vendimi.
