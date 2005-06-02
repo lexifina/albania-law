@@ -1,1 +1,1 @@
-10. Mjeku i përgjithshëm, mjeku i familjes dhe mjeku specialist, të cilët lidhin kontratë për dhënien e shërbimit shëndetësor parësor, emërohen nga drejtoritë rajonale të sigurimeve të kujdesit shëndetësor, me propozimin e drejtorisë së shëndetit publik të rrethit përkatës.
+10. Mjeku i përgjithshëm, mjeku i familjes dhe mjeku specialist, të cilët lidhin kontratë për dhënien e shërbimit shëndetësor parësor, emërohen nga drejtoria e shëndetit publik të rrethit përkatës, nëpërmjet konkurrimit të hapur.
