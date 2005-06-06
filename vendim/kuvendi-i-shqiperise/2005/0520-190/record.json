@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3571,
+  "title": "PËR SHPËRNDARJEN E LEGJISLATURËS XVI TË KUVENDIT\nTË REPUBLIKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "190",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-05-20",
+  "published": "2005-06-06",
+  "in_force": "2005-06-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/96c0f425255b33d2d031f6f7e116e83d2e7427c10ef3b8f3e7fc9a5501e32838.docx",
+  "source_sha256": "96c0f425255b33d2d031f6f7e116e83d2e7427c10ef3b8f3e7fc9a5501e32838",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3571",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/05/20/190",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
