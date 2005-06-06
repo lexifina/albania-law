@@ -1,0 +1,1 @@
+2. Drejtorisë së Përgjithshme të Përmbarimit Gjyqësor, zyrës së përmbarimit, Vlorë i ndalohet ta ndryshojë destinacionin, ta tjetërsojë ose t’ua japë në përdorim të tretëve pronën e caktuar në këtë vendim.

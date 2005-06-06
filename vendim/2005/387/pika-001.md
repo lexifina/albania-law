@@ -1,0 +1,1 @@
+1. Kalimin e përgjegjësisë së administrimit të objekteve të Institutit të Sigurimeve të Kujdesit Shëndetësor, dega Vlorë, nga Ministria e Shëndetësisë Ministrisë së Drejtësisë, për Drejtorinë e Përgjithshme të Përmbarimit Gjyqësor, zyra e përmbarimit, Vlorë, të përcaktuara në formularin nr.1, me numër rendor 1 dhe sipas planimetrisë, që i bashkëlidhet këtij vendimi.
