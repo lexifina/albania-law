@@ -1,0 +1,1 @@
+7. Ngarkohet Drejtoria e Nxitjes së Biznesit, sektori i lehtësimit të tregtisë, në Ministrinë e Ekonomisë, për bashkërendimin e punës ndërmjet grupit qendror dhe grupeve teknike, si dhe për monitorimin e vazhdueshëm të ecurisë së këtij procesi.

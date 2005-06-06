@@ -1,0 +1,1 @@
+8. Urdhri nr.66, datë 6.5.2003 i Kryeministrit “Për krijimin e grupit qendror për hartimin dhe zbatimin e planit të veprimit për heqjen e pengesave administrative në fushën e investimeve”, shfuqizohet.

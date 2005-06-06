@@ -1,0 +1,1 @@
+5. Titullarët e ministrive dhe të institucioneve të përmendura në pikat 2 e 4, brenda tre ditëve nga hyrja në fuqi e këtij urdhri, të caktojnë përfaqësuesit e tyre në grupin qendror dhe në grupet teknike.
