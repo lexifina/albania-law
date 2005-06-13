@@ -1,0 +1,1 @@
+2. Masat e trajtimeve të veçanta, të caktuara në mbështetje të ligjit nr.9128, datë 29.7.2003 “Për një trajtim të veçantë financiar të pilotëve fluturues në pension”, me datë fillimi deri më 31.5.2005, përfshirë edhe këtë datë, të rriten në masën 8 për qind.

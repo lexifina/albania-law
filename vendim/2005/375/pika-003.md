@@ -1,0 +1,1 @@
+3. Masat e trajtimeve të veçanta, të caktuara në mbështetje të ligjit nr.9179, datë 29.1.2004 “Për një trajtim të veçantë të punonjësve, që kanë punuar në disa ndërmarrje të industrisë ushtarake”, me datë fillimi deri më 31.5.2005, përfshirë edhe këtë datë, të rriten në masën 8 për qind.

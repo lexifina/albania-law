@@ -1,0 +1,1 @@
+4. Masat e trajtimeve të veçanta, të caktuara në mbështetje të ligjit nr.8685, datë 9.11.2000 “Për një trajtim të veçantë të punonjësve, që kanë punuar në miniera në nëntokë, të ndryshuar, me datë fillimi deri më 31.5.2005, përfshirë edhe këtë datë, të rriten në masën 8 për qind.
