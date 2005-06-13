@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, në shumën e përgjithshme prej 1 440 000 (një milion e katërqind e dyzet mijë) lekësh, për shtëpinë e banimit me sipërfaqe 96 m2.

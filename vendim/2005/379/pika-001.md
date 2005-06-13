@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, shtëpi banimi, e cila rrezikohet nga linja e tensionit të lartë 400 kV, Elbasan-Kufi, sipas tabelës që i bashkëlidhet këtij vendimi.

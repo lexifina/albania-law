@@ -1,0 +1,1 @@
+5. Fondi prej 1 440 000 (një milion e katërqind e dyzet mijë) lekësh, për shpronësimin e pronarit, dhe fondi prej 103 000 (njëqind e tre mijë) lekësh, për shpenzimet procedurale, të përballohen nga buxheti i vitit 2005, zëri “Kosto lokale për shpronësimet” i KESH sh.a.
