@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3593,
+  "title": "PËR RRITJEN E PENSIONEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "383",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-05-31",
+  "published": "2005-06-13",
+  "in_force": "2005-06-13",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.6.2005\": the publication day (its effects reach back to 1.6.2005)",
+  "source": "https://qbz.gov.al/files/630cdeb7556f6aaa3b3ec5ef3267d1d0b90db7e5410eeef97bd55f2b622a9fa9.docx",
+  "source_sha256": "630cdeb7556f6aaa3b3ec5ef3267d1d0b90db7e5410eeef97bd55f2b622a9fa9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3593",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/05/31/383",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
