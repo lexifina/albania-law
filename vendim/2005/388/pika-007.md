@@ -1,0 +1,1 @@
+7. Administrimi i të ardhurave, që krijohen nga veprimtaria e KSHPO-së, bëhet sipas vendimit nr.424, datë 9.7.1998 të Këshillit të Ministrave “Për krijimin dhe administrimin e të ardhurave, që krijojnë institucionet buxhetore”.

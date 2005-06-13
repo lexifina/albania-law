@@ -1,0 +1,1 @@
+6. Anëtarët e KSHPO-së, për pjesëmarrjen në mbledhjet e këtij Komisioni, të shpërblehen me 6000 (gjashtë mijë) lekë në muaj, ndërsa kryetari dhe sekretari me nga 8000 (tetë mijë) lekë. Shpenzimet për shpërblimet e anëtarëve të mbulohen nga buxhetet vjetore të institucioneve përkatëse.
