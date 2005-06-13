@@ -1,0 +1,2 @@
+# Shtojca
+KOMISIONI I ZONËS ZGJEDHORE NR.________
