@@ -1,0 +1,2 @@
+# Neni 8
+Për çdo dhuratë në sende ose shërbime, subjekti zgjedhor do të llogarisë dhe deklarojë kundërvleftën në lekë të sendeve ose shërbimeve duke u bazuar në indeksin mujor të çmimeve, të publikuar nga INSTAT. Për sendet ose shërbimet, vlera e të cilave nuk pasqyrohet në indeksin mujor të çmimeve, partitë politike dhe kandidatët e pavarur do t’i referohen çmimit të tregut në momentin e marrjes së dhuratës.
