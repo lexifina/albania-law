@@ -1,0 +1,1 @@
+3. Administrimi i parkut arkeologjik të Butrintit të bëhet sipas rregullave të përcaktuara në vendimin nr.857, datë 19.12.2003 të Këshillit të Ministrave “Për miratimin e rregullores së funksionimit të zyrës së administrimit dhe koordinimit të Parkut Kombëtar të Butrintit”.
