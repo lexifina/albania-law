@@ -1,0 +1,5 @@
+# Neni 70
+Të drejtat dhe detyrimet e ndërsjella ndërmjet prodhuesit dhe autorëve të veprave kinematografike ose audiovizuale
+1. Prodhuesi ka të drejtë që, në veprën e përdorur në një vepër kinematografike apo audiovizuale a të ngjashme me to, të bëjë ndryshime, përshtatje, transformime ose përkthime, të cilat janë të domosdoshme për realizimin kinematografik apo audiovizual, sipas kushteve të përcaktuara në pikën 2 të nenit 68 të këtij ligji.
+2. Ndryshimet që mund t’i jenë bërë ose që mund t’i bëhen veprës kinematografike apo audiovizuale, në mungesë të marrëveshjes ndërmjet prodhuesit dhe një a më shumë autorëve të përmendur në nenin 67 të këtij ligji, konstatohet nga specialistët e fushës së veprës së ndryshuar, të cilët caktohen nga Zyra Shqiptare për të Drejtat e Autorit, në përputhje me rregullat e procedurës civile për caktimin e ekspertëve.
+3. Shpjegimet me shkrim të grupit të specialistëve janë përfundimtare dhe institucioni merr vendim, i cili mund të kundërshtohet në gjykatë nga personi i interesuar.
