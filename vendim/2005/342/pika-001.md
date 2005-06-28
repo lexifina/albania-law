@@ -1,0 +1,1 @@
+1. Miratimin e listave të inventarit të stadiumit “Selman Stërmasi”, së bashku me aneksin, të stadiumit “Skënder Halili”, së bashku me aneksin, dhe të fushës sportive “Ali Demi”, si dhe transferimin e tyre në pronësi të bashkisë së Tiranës, sipas dokumentacionit që i bashkëlidhet këtij vendimi, të përbërë nga formulari, planimetritë dhe planvendosjet.
