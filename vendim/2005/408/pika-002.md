@@ -1,0 +1,1 @@
+2. Ministria e Industrisë dhe e Energjetikës, Ministria e Rregullimit të Territorit dhe e Turizmit dhe Ministria e Bujqësisë dhe e Ushqimit të jenë Organi Shtetëror i Autorizuar (OShA), për negocimin dhe nënshkrimin e marrëveshjes koncesionare.

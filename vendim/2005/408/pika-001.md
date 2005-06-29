@@ -1,0 +1,1 @@
+1. Fillimin e procedurës së ndërtimit me koncesion, të formës “BOO” (ndërtim, pronësi, shfrytëzim) të hidrocentraleve Stranik dhe Zall-Tore, në komunën Stravaj, Librazhd si propozim i pakërkuar, nga shoqëria “Hidroinvest” sh.p.k. Çarshovë, Përmet.
