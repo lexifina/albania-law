@@ -1,0 +1,2 @@
+1. Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transfrohen, në pronësi ose në përdorim, të komunës së Golemit, qarku Fier, e cila i bashkëlidhet këtij vendimi.
+Lista paraprake, sipas kërkesave të këshillit të kësaj komune, është pjesë e listës së inventarit të pronave të paluajtshme publike, shtetërore që janë në juridiksionin territorial dhe administrativ të komunës së Golemit, miratuar me vendimin nr.512, datë 18.7.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore të komunës Golem”.
