@@ -1,0 +1,1 @@
+4. Për marrje licence për zgjerim veprimtarie sigurimi të shoqërisë së sigurimit apo të degës së shoqërisë së huaj të sigurimit zbatohet komisioni prej 100 000 (njëqind mijë) lekësh, në çastin e marrjes së licencës.

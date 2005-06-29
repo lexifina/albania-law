@@ -1,0 +1,1 @@
+2. Komisionet caktohen për përballimin e shpenzimeve të përpunimit, zhvillimit të korrespondencës për verifikimin e saktësisë dhe plotësimit të dokumentacionit të paraqitur për marrje apo rinovim licencash, autorizimesh dhe miratimesh.

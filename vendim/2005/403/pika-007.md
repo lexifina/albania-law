@@ -1,0 +1,5 @@
+7. Për marrje licence për ushtrim veprimtarie ndërmjetësimi nga shoqëria e brokerimit apo dega e shoqërisë së huaj të brokerimit zbatohen komisionet, si më poshtë vijon:
+a) Për tërheqjen e dokumentacionit në gjuhën shqipe, çdo subjekt i interesuar duhet të derdhë në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve shumën prej 2000 (dy mijë) lekësh;
+b) Për tërheqjen e dokumentacionit në gjuhën angleze, çdo subjekt i interesuar duhet të derdhë në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve shumën prej 3000 (tre mijë) lekësh;
+c) Për dhënie licence për ushtrim veprimtarie ndërmjetësimi nga shoqëria e brokerimit apo dega e shoqërisë së huaj të brokerimit, në çastin e marrjes së licencës, derdhet në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve, shuma prej 50 000 (pesëdhjetë mijë) lekësh;
+ç) Për dhënie autorizimi brokerit në sigurime, në çastin e marrjes së autorizimit, derdhet në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve, shuma prej 20 000 (njëzet mijë) lekësh.

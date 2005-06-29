@@ -1,0 +1,5 @@
+5. Për marrje licence për ushtrim veprimtarie ndërmjetësimi nga shoqëria e agjentit në sigurime apo dega e shoqërisë së huaj të agjentit zbatohen komisionet, si më poshtë vijon:
+a) Për tërheqjen e dokumentacionit në gjuhën shqipe, çdo subjekt i interesuar duhet të derdhë në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve shumën prej 2000 (dy mijë) lekësh;
+b) Për tërheqjen e dokumentacionit në gjuhën angleze, çdo subjekt i interesuar duhet të derdhë në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve shumën prej 3 000 (tre mijë) lekësh;
+c) Për dhënie licence për ushtrim veprimtarie ndërmjetësimi nga shoqëria e agjentit apo dega e shoqërisë së huaj të agjentit, në çastin e marrjes së licencës, derdhet në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve, shuma prej 20 000 (njëzet mijë) lekësh;
+ç) Për rinovim licence të shoqërisë së agjentit në sigurime, në çastin e marrjes së licencës së rinovuar, derdhet në llogarinë bankare të Autoritetit Mbikëqyrës të Sigurimeve, shuma prej 10 000 (dhjetë mijë) lekësh.

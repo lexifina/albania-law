@@ -1,0 +1,1 @@
+1. Autoriteti Mbikëqyrës i Sigurimeve zbaton komisione për dhënie dhe rinovim licencash, autorizimesh dhe miratimesh për ushtrimin e veprimtarisë së sigurimit, risigurimit, ndërmjetësimit, shërbimeve aktuariale në sigurime dhe risigurime.
