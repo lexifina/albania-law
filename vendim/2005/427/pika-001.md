@@ -1,0 +1,2 @@
+1. Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës së Dushkut, qarku Fier, e cila i bashkëlidhet këtij vendimi.
+Lista paraprake, sipas kërkesave të këshillit të kësaj komune, është pjesë e listës së inventarit të pronave të paluajtshme publike, shtetërore, që janë në juridiksionin territorial dhe administrativ të komunës së Dushkut, miratuar me vendimin nr.513, datë 18.7.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore në komunën Dushk”.
