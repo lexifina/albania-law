@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga ndërtimi i nënstacionit 110/20 kV, Porto-Romano, Durrës, sipas tabelës që i bashkëlidhet këtij vendimi.
