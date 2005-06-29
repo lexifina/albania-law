@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompesohet në vlerë të plotë, sipas masës që paraqitet në listën që i bashkëngjitet këtij vendimi, për sipërfaqen 4 950 (katër mijë e nëntëqind e pesëdhjetë) m2 tokë arë, vlerësuar në shumën e përgjithshme prej 4 950 000 (katër milionë e nëntëqind e pesëdhjetë mijë) lekësh.
