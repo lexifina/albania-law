@@ -1,0 +1,7 @@
+# Neni 4
+E drejta e përfitimit
+1. Familjet e përcaktuara në pikat 1 e 2 të nenit 3 të këtij ligji, përfitojnë një kontribut falas nga shteti. Shuma e përfitimit falas të çdo familjeje të pastrehë, që nuk bën pjesë në kategorinë e qiramarrësit në ish-pronën private, llogaritet bazuar në moshën e familjes dhe në numrin e pjesëtarëve, sipas tabelës “A”, që i bashkëlidhet këtij ligji. Kjo shumë nuk mund të jetë më e madhe se 740 mijë lekë.
+2. Diferenca ndërmjet vlerës së banesës, të llogaritur nga Enti Kombëtar i Banesave dhe shumës falas, sipas pikës 1 të këtij neni, të shlyhet nga familjet me këste pranë Entit Kombëtar të Banesave për 25 vjet, me 3 për qind interes në vit.
+3. Kur vlerat e tregut të lirë të banesave janë më të ulëta se kostoja e ndërtimit nga Enti Kombëtar i Banesave, shuma e përfitimit falas shumëzohet me koeficientin korrigjues “k”, i cili shpreh raportin ndërmjet vlerës së apartamentit tip në tregun e lirë me koston e ndërtimit nga Enti Kombëtar i Banesave, të shprehura në lek/m2.
+4. Për efekt të llogaritjes së shumës, që duhet të shlyejë familja, sipas pikës 2 të këtij neni, të përdoret norma e strehimit 9-11 m2 sipërfaqe shfrytëzimi për frymë.
+5. Familjet, të cilat kanë një pjesëtar me statusin e të verbrit, të grupit të parë, përfitojnë një sipërfaqe shtesë prej 14 m2, që përbën një dhomë më vete, vlera e së cilës i shtohet shumës së përfitimit falas. Sipërfaqet e tepërta paguhen në mënyrë të menjëhershme ose me këste për 5 vjet, me interes 3 për qind në vit.

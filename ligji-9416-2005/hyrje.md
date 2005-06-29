@@ -1,0 +1,7 @@
+LIGJ
+Nr.9416, datë 20.5.2005
+PËR PROCEDURAT E PRIVATIZIMIT TË BANESAVE TË NDËRTUARA OSE TË BLERA ME FONDE SHTETËRORE NGA ENTI KOMBËTAR I BANESAVE
+Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:

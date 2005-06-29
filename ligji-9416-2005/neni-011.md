@@ -1,0 +1,3 @@
+# Neni 11
+Privatizimi i banesave të filluara para vitit 1992 dhe të përfunduara nga EKB-ja me fonde të Buxhetit të Shtetit
+Privatizimi i banesave të filluara para vitit 1992, të cilat kanë përfunduar me investime nga Buxheti i Shtetit, kur në to janë sistemuar familje me statusin e të pastrehut, bëhet në bazë të vlerës së objektit, pasi t’i zbritet vlera e punimeve të kryera para vitit 1992. Llogaritja e shumës falas bëhet e bazuar në koeficientin “k1”, i cili shpreh raportin ndërmjet detyrimit të familjes ndaj EKB-së me koston e ndërtimit nga EKB-ja të apartamentit, sipas tabelës “A” (shembulli 3), që i bashkëlidhet këtij ligji.
