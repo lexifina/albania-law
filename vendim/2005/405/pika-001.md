@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës dhe rehabilitimi i kanalizimeve në shëtitoren “18 Shtatori”, në qytetin e Gjirokastrës.

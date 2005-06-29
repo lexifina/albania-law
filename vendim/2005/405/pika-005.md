@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale të shpronësimit, në shumën prej 320 000 (treqind e njëzet mijë) lekësh, të përballohet nga bashkia e Gjirokastrës, e cila do të kryejë pagesën e pronarëve të shpronësuar.
