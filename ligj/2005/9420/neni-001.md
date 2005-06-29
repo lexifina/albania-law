@@ -1,0 +1,3 @@
+# Neni 1
+Falen kamatëvonesat e kontributeve të sigurimeve të detyrueshme shoqërore, të papaguara deri në datën 31.12.2004, nga ndërmarrjet dhe shoqëritë me kapital tërësisht shtetëror, nga institucionet shtetërore, buxhetore e jobuxhetore, nga ndërmarrjet dhe shoqëritë me kapital të përbashkët me shtetin, nga personat juridikë e fizikë privatë dhe nga personat e vetëpunësuar në bujqësi, me kusht që detyrimet për kontributet të arkëtohen brenda datës 31.12.2005.
+Kamatëvonesat e papaguara falen edhe kur kontributet për sigurimet e detyrueshme shoqërore janë paguar para hyrjes në fuqi të këtij ligji.
