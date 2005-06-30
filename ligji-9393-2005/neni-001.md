@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet “Marrëveshja e huasë dhe financiare për projektin e ndërtimit të linjës 400 kV Tiranë-Podgoricë, ndërmjet Korporatës Elektroenergjetike Shqiptare (KESH, sha) dhe Kreditanstalt Fur Wiederaufbau, Frankfurt am Main (KfW), marrëveshja e garancisë ndërmjet Ministrisë së Financave të Republikës së Shqipërisë dhe Kreditanstalt Fur Wiederaufbau, Frankfurt am Main (KfW), si dhe marrëveshja e arbitrazhit ndërmjet Korporatës Elektroenergjetike Shqiptare (KESH, sha) dhe Kreditanstalt Fur Wiederaufbau, Frankfurt am Main (KfW)”.
