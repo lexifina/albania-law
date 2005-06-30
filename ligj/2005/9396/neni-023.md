@@ -1,0 +1,7 @@
+# Neni 23
+Përgjegjësia e qiradhënësit për cenimin e gëzimit të sendit dhe të metat e sendit
+1. Qiradhënësi detyrohet t’i sigurojë qiramarrësit gëzimin e plotë e të qetë të sendit. Ai është përgjegjës për pretendimet e të tretëve mbi sendin, të cilat kundërshtojnë, cenojnë ose kufizojnë gëzimin e plotë të sendit prej qiramarrësit, ndërkohë që qiramarrësi nuk ka dijeni dhe e ka pranuar sendin pa pasur dijeni për këto pretendime. Është i pavlefshëm çdo kusht i kontratës së qirasë, i cili shmang ose kufizon përgjegjësinë e qiradhënësit për defektet ligjore të sendit.
+2. Qiramarrësi njofton qiradhënësin për çdo pretendim të të tretëve mbi sendin, të përmendur në pikën 1 të këtij neni dhe i kërkon çlirimin e sendit nga të tilla pretendime, brenda një afati të arsyeshëm.
+3. Kur nuk ka pengesë në kontratë, qiramarrësi mund ta zgjidhë atë në rast se humbet gëzimin e sendit dhe qiradhënësi nuk përmbush kërkesën e pikës 2 të këtij neni.
+4. Kur zvogëlohet ose kufizohet gëzimi plotë i sendit nga qiramarrësi dhe qiradhënësi nuk përmbush kërkesën e qiramarrësit, sipas pikës 2 të këtij neni, atëherë qiramarrësi ka të drejtë ta zgjidhë kontratën, në rast se objekti i saj nuk mund të përmbushet siç duhet, ose ka të drejtë të kërkojë uljen përpjesëtimore të pagesave të qirasë.
+5. Në rastet e përmendura në pikat 3 dhe 4 të këtij neni, qiramarrësi nuk ka të drejtën e zhdëmtimit, kur e ka pranuar sendin ose kur i zvogëlohet apo i kufizohet gëzimi i plotë i sendit, ndërkohë që kishte dijeni për to në kohën lidhjes së kontratës së qirasë.
