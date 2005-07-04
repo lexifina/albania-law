@@ -1,0 +1,37 @@
+{
+  "qbz_id": 3663,
+  "title": "Për miratimin e listës së inventarit të pronave të paluajtshme, shtetërore, të cilat i kalojnë në përgjegjësi administrimi zyrës qendrore të regjistrimit të pasurive të paluajtshme",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "448",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-06-16",
+  "published": "2005-07-04",
+  "in_force": "2005-07-04",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4175b9a3e06d5670209d4a7cadc5773047c83f70e25061ed46b1df81660e09cb.docx",
+  "source_sha256": "4175b9a3e06d5670209d4a7cadc5773047c83f70e25061ed46b1df81660e09cb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3663",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/06/16/448",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33843,
+    33814,
+    33503,
+    27149,
+    63267,
+    22284,
+    66977,
+    20891,
+    18441,
+    13078
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
