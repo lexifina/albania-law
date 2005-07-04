@@ -1,0 +1,1 @@
+14. Në zbatim të dispozitave të ligjit nr.8661, datë 18.9.2000, kudo ku masa e pensionit të pleqërisë, invaliditetit dhe atij familjar përcaktohen si masë kufizuese, këto shuma janë, përkatësisht, sipas rastit, masat maksimale të pensionit të plotë të pleqërisë, të invaliditetit dhe atij familjar, në shkallë vendi, të miratuara me vendimet përkatëse të Këshillit të Ministrave.

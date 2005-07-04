@@ -1,0 +1,4 @@
+8. Për efekt të llogaritjes së përfitimeve nga ky ligj, Ministria e Rendit Publik ose Drejtoria e Përgjithshme e Policisë së Shtetit (përkatësisht për strukturat që kanë në emërtesë), për personat e interesuar dhe në bazë të kopjes së kërkesës, që kanë dorëzuar në organet e sigurimeve shoqërore, të depozituara nga vetë të interesuarit pranë organit a repartit ku kanë ndërprerë marrëdhëniet e punës dhe të shërbimit, dërgojnë në drejtoritë rajonale të sigurimeve shoqërore përkatëse, dokumentet vërtetuese, si më poshtë vijon:
+a) Vërtetimin për periudhën e punës e të shërbimit si punonjës policie, sipas modelarit nr.1, që i bashkëlidhet këtij vendimi.
+b) Vërtetimin për pagën referuese, sipas modelarit nr.2, që i bashkëlidhet këtij vendimi.
+V. Kontributet dhe fondi i sigurimit shoqëror suplementar për punonjësit e Policisë së Shtetit

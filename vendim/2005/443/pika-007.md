@@ -1,0 +1,1 @@
+7. Personat e interesuar për të siguruar një përfitim duhet të paraqesin pranë organeve të sigurimeve shoqërore, në vendbanimin e tyre të përhershëm, kërkesën dhe dokumentacionin e nevojshëm për caktimin e përfitimit suplementar si punonjës policie.

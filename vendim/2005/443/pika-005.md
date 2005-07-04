@@ -1,0 +1,1 @@
+5. Në rastet e ndërprerjes së përkohshme të përfitimit, kur përfituesi rifutet në skemën e përfitimit, masa e përfitimit që do t’i jepet, indeksohet ose rritet në raport me përfitimet e tjera të së njëjtës natyrë, nga data e ndërprerjes deri në datën e rifillimit të përfitimit.

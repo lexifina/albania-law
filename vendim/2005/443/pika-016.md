@@ -1,0 +1,1 @@
+16. Efektet e zbatimit të këtij vendimi shtrihen nga data 16.9.2003, datë në të cilën ka hyrë në fuqi dhe ka filluar zbatimi i pagës për gradë dhe detyrimi për derdhjen e kontributit shtesë, sipas përcaktimit të nenit 3 të ligjit nr.8661, datë 18.9.2000.
