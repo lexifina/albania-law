@@ -1,0 +1,1 @@
+1. Ushtarakët, që marrin pjesë në operacionin e Bashkimit Europian “ALTHEA” në Bosnjë-Hercegovinë, për ditët e qëndrimit atje, veç pagës mujore, të marrin, për vështirësi shërbimi, edhe një shpërblim ditor, në masën 15 (pesëmbëdhjetë) euro.
