@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e institucionit arsimor jopublik, parauniversitar, shkollë e mesme e përgjithshme, e profilizuar “Turgut Ozal”, që do ta zhvillojë mësimin edhe në gjuhën angleze, në qytetin e Durrësit.
