@@ -1,0 +1,1 @@
+4. Lejimin e Agjencisë Nacionale të Trafikut Ajror sh.a. që, brenda shumës së përgjithshme, të miratuar për projektin të negociojë me shoqërinë ndërkombëtare “Lockheed Martin Global inc.” për specifikimin teknik të zërave të miratuar në projektshtojcën e kontratës, për fazën e tretë të projektit.
