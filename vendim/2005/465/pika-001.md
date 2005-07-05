@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të ish-ndërmarrjes së grumbullimit, Fier dhe transferimin e katit përdhes të saj në pronësi të bashkisë së Fierit, sipas formularit, planimetrisë dhe planvendosjes, që i bashkëlidhen këtij vendimi.
