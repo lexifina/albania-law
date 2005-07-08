@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123848,
+  "title": "Për shpërndarjen me koeficient pjesor të vlerave financiare kreditorëve të shoqërisë “M.Leka” shpk në administrim, me të ardhurat e realizuara nga shitja e aseteve",
+  "type": "Vendim",
+  "number": "610",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-12-21",
+  "version_no": 1,
+  "qbz_version_id": 10868,
+  "in_force": "2005-07-08",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2005-07-08",
+  "changed_by_qbz_id": 3698,
+  "changed_by_number": "522",
+  "changed_by_title": "Për transferimin e fondeve financiare të kreditorëve të shoqërive huamarrëse në administrim nga llogaritë bankare të Raiffeisen Bank sh.a., te Banka  Kombëtare Tregtare",
+  "source": "https://qbz.gov.al/files/630c65cbaeccf76627e95039c913dbe62588e85f22be633ba777bf0d78b9d8d0.docx",
+  "source_sha256": "630c65cbaeccf76627e95039c913dbe62588e85f22be633ba777bf0d78b9d8d0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123848",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123848/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
