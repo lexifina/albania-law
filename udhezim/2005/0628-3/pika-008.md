@@ -1,0 +1,1 @@
+8. Është e preferueshme që konstruksionet e varreve mbitokësore të jenë të veshura me granit ose mermer. Dhomëzat e kufomave të kenë formën e një paralelopipedi me gjatësi 2 m, gjerësi 0,80 m dhe lartësi 0,70 m. Këto dimensione lejojnë një hapësirë të brendshme të varrit për të futur lirshëm arkivolin në të.

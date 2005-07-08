@@ -1,0 +1,1 @@
+10. Muret anësore mbajtëse të godinës së varrezave mbitokësore duhet të jenë të paktën me trashësi 40 cm. Soletat ndarëse të dhomëzave zakonisht kanë një trashësi jo më të vogël se 10 cm, dhe kur ndërtohen me parafabrikate jo më të vogël se 5 cm.

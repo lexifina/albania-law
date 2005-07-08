@@ -1,0 +1,1 @@
+9. Dhomëzat vendosen në rreshta, njëra mbi tjetrën, duke realizuar një ndërtim në lartësi. Këshillohet që numuri i rreshtave të mos jetë më shumë se katër. Në raste të ndërtimit më të lartë, në çdo katër rreshta duhet të ketë një vend të posaçëm, me shkallë ose ashensor, për të manovruar për vendosjen e arkivolit të kufomës në katet e sipërme.

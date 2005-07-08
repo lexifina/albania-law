@@ -1,0 +1,1 @@
+3. Varrezat mbitokësore ndërtohen me dhomëza të mbivendosura në shumë kate. Ato duhet të jenë të ajrosura dhe të ndriçuara mirë. Në çdo pjesë të katit duhet të ketë një vend të lirë ku do të manovrohet për të futur arkivolin ose kasën e eshtrave.

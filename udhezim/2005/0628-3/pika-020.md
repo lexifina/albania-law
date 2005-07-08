@@ -1,0 +1,2 @@
+20. Dhomëzat që përdoren për të vendosur eshtrat e zhvarrimeve, ndërtohen edhe në pjesën e brendshme të murit rrethues të varrezave nëntokësore, sipas dimensioneve të mësipërme. Kështu lartësia e murit rrethues (2,5-4 m) shfrytëzohet për ndërtimin e disa kateve të dhomëzave të eshtrave të zhvarrimeve. Në këtë mënyrë nga zhvarrimet lirohen vende për varrime të reja nëntokësore dhe hapësira e murit rrethues të varrezave shfrytëzohet për ndërtimin e dhomëzave me më pak shpenzime.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

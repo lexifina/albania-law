@@ -1,0 +1,1 @@
+13. Varrimet mbitokësore kryhen nga ndërmarrja që administron varrezat. Në përfundim të periudhës së dekompozimit, mund të bëhen zhvarrimet mbitokësore, duke i rivarrosur kufomat ose eshtrat, sipas të gjitha rregullave të ligjit.

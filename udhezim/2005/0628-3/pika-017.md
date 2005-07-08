@@ -1,0 +1,1 @@
+17. Eshtrat dhe mbetjet mortale të nxjerra nga zhvarrimet, vendosen menjëherë nëpër kaseta zingato me spesor jo më të vogël se 0,66 mm, mbyllen me saldim dhe futen nëpër dhomëza, ku shënohen dhe të dhënat identifikuese të tyre.

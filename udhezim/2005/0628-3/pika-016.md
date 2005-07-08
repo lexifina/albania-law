@@ -1,0 +1,1 @@
+16. Në varrezat mbitokësore ka edhe seksione të veçanta për vendosjen e eshtrave njerëzore individuale, të nxjerra nga zhvarrimet nëntokësore dhe mbitokësore, në përfundim të periudhës së dekompozimit të kufomave. Edhe këto ndërtohen me dhomëza dhe me kate.

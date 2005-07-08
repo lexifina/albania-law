@@ -1,0 +1,1 @@
+19. Dhomëzat e vendosjes së eshtrave ndërtohen në seri njëra mbi tjetrën me kate. Ato ndërtohen me beton ose parafabrikate dhe kanë formën e një paralelopipedi me gjatësi 0,70 m, gjerësi 0,30 m dhe lartësi 0,30 m. Trashësia e pareteve anësore është 5 cm. Mbyllja e tyre bëhet me granit ose mermer ku shënohen të dhënat e identitetit të eshtrave të kufomës.
