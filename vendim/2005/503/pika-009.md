@@ -1,0 +1,1 @@
+9. Ministrisë së Financave, në buxhetin e miratuar për vitin 2005, t’i shtohet fondi prej 2 000 000 (dy milionë) lekësh, për përballimin e efekteve financiare për ngritjen dhe funksionimin e Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara.

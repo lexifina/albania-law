@@ -1,0 +1,1 @@
+8. Përdorimi dhe shitja e pasurive të paluajtshme, e mjeteve monetare dhe e pasurive të luajtshme bëhet në përputhje me nenet 33, 34 e 35 të ligjit nr.9284, datë 30.9.2004 “Për parandalimin dhe goditjen e krimit të organizuar”.

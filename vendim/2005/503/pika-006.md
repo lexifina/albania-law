@@ -1,0 +1,1 @@
+6. Administratorët e ushtrojnë veprimtarinë në çastin e caktimit, me vendim gjykate të formës së prerë, të sekuestros mbi pasurinë, me propozimin e Agjencisë, në përputhje me nenin 19 të ligjit nr.9284, datë 30.9.2004.
