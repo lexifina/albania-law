@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet “Marrëveshja shtesë e huasë dhe e projektit, për marrëveshjen e huasë të datës 24 korrik 1999, ndryshuar me marrëveshjen shtesë të huasë dhe të projektit të datës 5 tetor 2002, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave (huamarrësi) dhe Korporata Elektroenergjetike Shqiptare (agjencia zbatuese e projektit) dhe KfW-së (Frankfurt am Main) për projektin “Furnizimi me energji elektrike për Shqipërinë Jugore””.
