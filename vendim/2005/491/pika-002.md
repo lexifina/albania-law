@@ -1,0 +1,1 @@
+2. Me vendosjen e sekuestros mbi fondet dhe pasuritë, në kuadër të masave kundër financimit të terrorizmit, Ministri i Financave cakton një administrator për administrimin e këtyre fondeve dhe pasurive të sekuestruara.
