@@ -1,0 +1,1 @@
+4. Efekti financiar vjetor prej 85 000 000 (tetëdhjetë e pesë milionë) lekësh, për mbulimin e shpenzimeve për këto shërbime nga skema e sigurimeve shëndetësore, për vitin 2005, të përballohet nga fondi i Institutit të Sigurimeve të Kujdesit Shëndetësor.
