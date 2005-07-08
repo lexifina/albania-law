@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar sipas pikës 3 të këtij vendimi, ndaj shoqërisë “Qufaj Co, sh.p.k.”, të bëhet nga Ministria e Financave, pas paraqitjes së të gjithë dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga Buxheti i Shtetit.

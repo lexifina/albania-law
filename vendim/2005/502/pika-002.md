@@ -1,0 +1,1 @@
+2. Detyrimi financiar, i parashikuar në pikën 1 të këtij vendimi, të përballohet në shumën 30 000 000 (tridhjetë milionë) lekë, nga fondi rezervë i Këshillit të Ministrave, dhe pjesa tjetër nga fondet e planifikuara për ekzekutimin e vendimeve gjyqësore, miratuar në buxhetin e vitit 2005, për Ministrinë e Financave.

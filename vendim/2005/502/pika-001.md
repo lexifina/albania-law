@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit nr.54268/00 të datës 18.11.2004 të Gjykatës Europiane për të Drejtat e Njeriut, për çështjen, “Qufaj Co, sh.p.k., kundër Shqipërisë”, brenda datës 30 qershor 2005, në shumat 60 000 000 (gjashtëdhjetë milionë) lekë dhe 72 000 (shtatëdhjetë e dy mijë) euro, nga Ministria e Financave.
