@@ -1,0 +1,1 @@
+7. Qytetarët që përfitojnë sipas këtij udhëzimi, kur nuk kryejnë veprimet për blerjen e banesave brenda afati të përcaktuar në pikën 6 të këtij udhëzimi, u humbet e drejta për trajtim me strehim. Ky afat mund të shtyhet edhe për një muaj, nëse janë paraqitur arsye objektive (nuk gjen dot banesë në treg; qytetari që do të trajtohet me strehim nuk ndodhet brenda vendit etj.).

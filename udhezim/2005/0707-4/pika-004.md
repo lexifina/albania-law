@@ -1,0 +1,1 @@
+4. Midis Entit Kombëtar të Banesave dhe qytetarit shitës nënshkruhet kontrata e shitblerjes përpara noterit në bazë të aktit të pronësisë të paraqitur prej tij. Akti i pronësisë duhet të vërtetojë se prona nuk ka barrë hipotekore.

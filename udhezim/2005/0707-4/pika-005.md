@@ -1,0 +1,1 @@
+5. Me kalimin e banesës në pronësi të Entit Kombëtar të Banesave lidhet kontrata midis qytetarit blerës dhe Entit. Në momentin e lidhjes së kontratës qytetari blerës detyrohet t’i paguajë Entit Kombëtar të Banesave shumën prej 4% të vlerës së banesës për shpenzimet operacionale.

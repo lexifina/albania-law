@@ -1,0 +1,1 @@
+3. Qytetari i miratuar nga këshilli bashkiak për t’u trajtuar me strehim, me vënien në dijeni të vlerës kufi nga Enti Kombëtar i Banesave, përcaktuar sipas pikës 2 të këtij udhëzimi dhe strukturës së apartamentit që përfiton, bën zgjedhjen e apartamentit në treg. Përpara kryerjes së veprimeve përkatëse ligjore midis palëve, Enti Kombëtar i Banesave bën inspektimin e banesës.
