@@ -1,0 +1,2 @@
+5. Ngarkohet Banka Kombëtare Tregtare, me degët e saj në rrethe që, në përputhje me marrëveshjen, që do të lidhet në zbatim të këtij vendimi ndërmjet Grupit Mbikëqyrës dhe kësaj banke, të bëjë shpërndarjen e vlerave financiare kreditorëve të mbetur të fondacionit “Populli” dhe “Xhaferri”, të shoqërive huamarrëse “M. Leka” sh.p.k., “Universi” sh.p.k, “Global Foods” sh.p.k., “Silva” sh.p.k., “Cenaj & Co” sh.p.k. dhe “Kamberi Co” sh.p.k., në administrim.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

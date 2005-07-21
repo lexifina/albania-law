@@ -1,0 +1,1 @@
+4. Kudo në vendimet nr.47, datë 3.2.1997, nr.610, datë 21.12.1999, nr.162, datë 13.4.2000, nr.163, datë 13.4.2000, nr.361, datë 14.7.2000, nr.116, datë 31.2.2002 dhe nr.491, datë 23.7.2004 të Këshillit të Ministrave, emërtimet “...Banka e Kursimeve dhe Raiffeisen Bank sh.a....” zëvendësohen me “...Banka Kombëtare Tregtare...”.
