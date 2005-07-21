@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3693,
+  "title": "Për një ndryshim në vendimin nr.440, datë 9.9.1999 të Këshillit të Ministrave “Për strukturën dhe pagat e punonjësve të policisë së ndërtimit”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "511",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-06-30",
+  "published": "2005-07-21",
+  "in_force": "2005-07-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 1 gusht 2005\": the publication day (its effects reach back to 1 gusht 2005)",
+  "source": "https://qbz.gov.al/files/6e1c7c78d32d12eef0e84c13162204032436b87a155ea23e4a6ff99bd508eb25.docx",
+  "source_sha256": "6e1c7c78d32d12eef0e84c13162204032436b87a155ea23e4a6ff99bd508eb25",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3693",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/06/30/511",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
