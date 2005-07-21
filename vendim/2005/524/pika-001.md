@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme dhe të kulturave të ndryshme bujqësore, pronë private, që preken nga lidhja me sistemin e nënstacionit 220/110 kV, Rrashbull, sipas tabelës që i bashkëlidhet këtij vendimi.
