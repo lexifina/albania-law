@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3706,
+  "title": "Për miratimin e formularit standard të  paraqitjes së një ankese në ERE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "27",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-05-27",
+  "published": "2005-07-21",
+  "in_force": "2005-07-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/dbb2b4050ff8b203650a682d0f85d049af68f294a929a7e217c5d7b664f7d239.docx",
+  "source_sha256": "dbb2b4050ff8b203650a682d0f85d049af68f294a929a7e217c5d7b664f7d239",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3706",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/05/27/27",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
