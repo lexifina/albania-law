@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet, në vlerë të plotë, për sipërfaqen 50 m2 tokë arë, me vlerë 1000 lekë/m2, vlerësuar në shumën e përgjithshme prej 50 000 (pesëdhjetë mijë) lekësh.

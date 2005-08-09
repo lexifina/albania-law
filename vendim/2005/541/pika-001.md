@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private (tokë arë), z.Theodhori Cato, që preket nga ndërtimi i ujësjellësit të fshatit Shelegar, në qytetin e Sarandës.

@@ -1,0 +1,1 @@
+5. Fondi prej 50 000 (pesëdhjetë mijë) lekësh, për shpronësimin e pronarit, dhe fondi prej 108 500 (njëqind e tetë mijë e pesëqind) lekësh, për shpenzimet procedurale, të përballohen nga bashkia e Sarandës.
