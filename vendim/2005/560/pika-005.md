@@ -1,0 +1,2 @@
+5. Kuotat e pranimit për shtetasit e huaj, me kombësi joshqiptare, që do të studiojnë në universitetet dhe shkollat e larta të Republikës së Shqipërisë, administrohen nga Ministria e Arsimit dhe e Shkencës, në bazë të kërkesave të paraqitura pranë universiteteve dhe shkollave të larta.
+Për shtetasit rumunë, nga Ministria e Arsimit dhe e Shkencës, të jepen 5 (pesë) bursa studimi universitare dhe pasuniversitare.

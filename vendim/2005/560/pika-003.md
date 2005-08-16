@@ -1,0 +1,1 @@
+3. Kuotat e pranimeve të reja ndahen sipas tabelës nr.1, që i bashkëlidhet këtij vendimi (në këtë tabelë nuk janë pasqyruar kuotat me vite të ndërmjetme, dege e dyte dhe kuotat per shtetasit e huaj me kombësi joshqiptare), ndërsa kuotat kryesore ndahen sipas tabelës nr.2 dhe kuotat dytësore sipas tabelës nr.3, që i bashkëlidhen këtij vendimi.

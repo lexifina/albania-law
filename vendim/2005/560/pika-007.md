@@ -1,0 +1,2 @@
+7. Kandidatët, që do të vazhdojnë studimet në një degë të dytë, e fitojnë atë pa konkurs, por janë të detyruar të paguajnë një tarifë, e cila është e njëjtë me tarifën e shkollimit për kuotat dytësore, e përcaktuar në udhëzimin e përbashkët të Ministrisë së Arsimit dhe të Shkencës dhe Ministrisë së Financave.
+Në rastet kur ka më shumë kandidatë se kuotat e përcaktuara në këtë vendim, përzgjedhja e tyre bëhet në bazë të masës së ekuivalentimit dhe të cilësisë së rezultateve.

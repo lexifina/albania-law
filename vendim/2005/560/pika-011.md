@@ -1,0 +1,1 @@
+11. Studentët, që kërkojnë të transferohen nga universitetet dhe shkollat e larta jopublike në ato publike (brenda sistemit tonë të arsimit të lartë), si dhe studentët që vijnë nga jashtë Republikës së Shqipërisë (me përjashtim të atyre, që janë dërguar me studime sipas marrëveshjeve shtetërore, ndërinstitucionale) i nënshtrohen tarifës së shkollimit në kuotën dytësore.
