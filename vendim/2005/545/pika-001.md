@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e institucionit arsimor, jopublik, parauniversitar, shkollë 9-vjeçare, cikël i lartë “Memorial International School”, që do ta zhvillojë mësimin edhe në gjuhën angleze, në qytetin e Tiranës.
