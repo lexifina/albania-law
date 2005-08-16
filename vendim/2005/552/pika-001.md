@@ -1,0 +1,1 @@
+1. Miratimin e instrumentit të angazhimit të Republikës së Shqipërisë në shtesën e burimeve të IDA-s, “Plotësimi i katërmbëdhjetë”, që i bashkëlidhet këtij vendimi, miratuar me rezolutën nr.209 të bordit të governatorëve të IDA-s, më 13 prill 2005.
