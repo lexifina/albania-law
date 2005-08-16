@@ -1,0 +1,1 @@
+1. Pagesa kalimtare, që përfitojnë ushtarakët në rezervë (lirim), në zbatim të nenit 10 të ligjit nr.8087, datë 13.3.31996 “Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, të Ministrisë së Rendit Publik dhe Shërbimit Informativ Shtetëror”, të ndryshuar, të rritet në masën 8 për qind.

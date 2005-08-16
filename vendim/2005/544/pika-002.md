@@ -1,0 +1,1 @@
+2. Përfitojnë nga kjo rritje ushtarakët e nxjerrë në rezervë (lirim) nga strukturat e Forcave të Armatosura të Republikës së Shqipërisë, të Ministrisë së Rendit Publik dhe Shërbimit Informativ të Shtetit, të cilët trajtohen me pagesë kalimtare me datë fillimi deri më datën 31.5.2005, përfshirë edhe këtë datë.
