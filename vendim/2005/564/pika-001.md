@@ -1,0 +1,1 @@
+1. Personat juridikë, privatë dhe publikë, që ofrojnë shërbime të përkujdesjes shoqërore, të pajisen me licencë të veçantë nga Ministria e Punës dhe e Çështjeve Sociale, si autoriteti përgjegjës për licencimin, të nënshkruar nga Ministri i Punës dhe i Çështjeve Sociale.

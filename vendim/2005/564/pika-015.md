@@ -1,0 +1,1 @@
+15. Ministria e Punës dhe e Çështjeve Sociale u njofton, me shkrim, Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror dhe këshillit të qarkut/ bashkisë/komunës, emrin e ofruesit, të pajisur me licencë.

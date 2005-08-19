@@ -1,0 +1,1 @@
+2. Pranë Ministrisë së Punës dhe të Çështjeve Sociale të ngrihet komisioni i licencimit, me 6 (gjashtë) anëtarë, të cilët miratohen me urdhër të Ministrit të Punës dhe të Çështjeve Sociale. Ky komision të kryesohet nga zëvendësministri i Punës dhe i Çështjeve Sociale.

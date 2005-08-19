@@ -1,0 +1,1 @@
+13. Komisioni i licencimit, pasi shqyrton propozimet e Inspektoratit të Ndihmës Ekonomike, Pagesës së Personave me Aftësi të Kufizuar dhe Shërbimeve Shoqërore, i komunikon subjektit vendimin me shkrim, ku parashikohet edhe e drejta e ankimimit në gjykatë, brenda 15 (pesëmbëdhjetë) ditëve nga marrja e përgjigjes.

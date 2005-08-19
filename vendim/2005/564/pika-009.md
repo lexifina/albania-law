@@ -1,0 +1,1 @@
+9. Afati për dhënien ose refuzimin e licencës të jetë 2 (dy) muaj nga data e dorëzimit të dokumentacionit në Ministrinë e Punës dhë të Çështjeve Sociale. Në rast refuzimi aplikantit i lind e drejta e ankimimit në gjykatë, brenda 15 ditëve nga marrja e përgjigjes me shkrim nga Ministria e Punës dhe e Çështjeve Sociale.
