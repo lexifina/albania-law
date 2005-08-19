@@ -1,1 +1,3 @@
 5. Ministria e Mbrojtjes, me miratimin e buxhetit, bën ndarjen e hollësishme nga buxheti i vet në atë vendor, si transferta të kushtëzuara, për çdo bashki apo komunë, që do të kryejë pagesat për lajmërimin e shtetasve.
+5/1. Kryerja e pagesave të korrierëve për thirrjen e shtetasve për kryerjen e shërbimit të detyrueshëm ushtarak, për vitin 2005, do të bëhet nga qendrat e rekrutim-mobilizimit, pranë çdo njësie të qeverisjes vendore, në bazë të dokumentacionit të përgatitur për këtë qëllim nga kjo njësi vendore.
+Dokumentet e nevojshme për kryerjen e pagesave të përcaktohen me udhëzim të përbashkët të Ministrit të Mbrojtjes dhe të Ministrit të Pushtetit Vendor dhe të Decentralizimit.
