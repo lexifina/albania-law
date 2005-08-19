@@ -1,0 +1,1 @@
+6. Programon dhe mbështet shërbimet e përkujdesjes shoqërore të specializuara për fëmijët, gratë dhe vajzat e trafikuara, personat e varur nga alkooli dhe droga, që nuk mund të realizohen nga një bashki a komunë.
