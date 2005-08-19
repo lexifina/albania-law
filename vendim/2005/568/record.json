@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3748,
+  "title": "Për një shtesë në vendimin nr.114, datë 27.2.2004 të Këshillit të Ministrave “Për përcaktimin e procedurave të thirrjes dhe përballimin e shpenzimeve për shtetasit, që do të kryejnë shërbimin e detyrueshëm ushtarak, dhe për një ndryshim në vendimin nr.65, datë 2.2.1996 të Këshillit të Ministrave “Për thirrjen e shtetasve për shërbimin ushtarak aktiv ose në rezervë, kompletimin e reparteve ushtarake me rezervistë, automjete e teknikë tjetër, kafshë pune, si dhe organizimin e sistemit të lajmërimit””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "568",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-08-12",
+  "published": "2005-08-19",
+  "in_force": "2005-08-19",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/cb85008442518de82a733266ca374807c7da3560e4198e93d032b978b976d7f7.docx",
+  "source_sha256": "cb85008442518de82a733266ca374807c7da3560e4198e93d032b978b976d7f7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3748",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/08/12/568",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
