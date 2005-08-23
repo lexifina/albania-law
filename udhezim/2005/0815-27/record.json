@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3758,
+  "title": "Për një shtesë në udhëzimin nr.15, datë 28.5.2005 “Për organizimin dhe funksionimin e komisionit të qendrës së votimit”",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "27",
+  "institution": "Komisioni Qendror i Zgjedhjeve",
+  "adopted": "2005-08-15",
+  "published": "2005-08-23",
+  "in_force": "2005-08-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1b889b13d9d870094a584efe858b93e78557ba7454755b0b8157b3f4f5343f89.docx",
+  "source_sha256": "1b889b13d9d870094a584efe858b93e78557ba7454755b0b8157b3f4f5343f89",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3758",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2005/08/15/27",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
