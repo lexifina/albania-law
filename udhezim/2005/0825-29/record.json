@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3765,
+  "title": "Për një shtesë në udhëzimin nr.5, datë 5.4.2005, i ndryshuar, “Për detyrat e Policisë së Shtetit dhe Forcave të Armatosura për zgjedhjet për Kuvendin e Shqipërisë, të vitit 2005”",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "29",
+  "institution": "Komisioni Qendror i Zgjedhjeve",
+  "adopted": "2005-08-25",
+  "published": "2005-09-05",
+  "in_force": "2005-09-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b690224a68db95a24ac2f20e295359728daccfe9d327303ddf54323824e1b1a1.docx",
+  "source_sha256": "b690224a68db95a24ac2f20e295359728daccfe9d327303ddf54323824e1b1a1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3765",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2005/08/25/29",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
