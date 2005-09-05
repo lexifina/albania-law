@@ -1,0 +1,1 @@
+2. Vendimi nr.684, datë 13.12.2001 i Këshillit të Ministrave “Për caktimin e përfaqësuesve të Këshillit të Ministrave në këshillin administrativ të Institutit të Sigurimeve Shoqërore”, i ndryshuar, shfuqizohet.
