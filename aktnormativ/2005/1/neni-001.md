@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikimin e memorandumit të mirëkuptimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komandës Supreme të Forcave të Aleancës në Europë (ShAPE), lidhur me dispozitat e mbështetjes së vendit pritës për forcat pjesëmarrëse për stërvitjen “Cooperative Engagement 05” dhe zhvillimin e stërvitjes ushtarake ndërkombëtare të drejtuar nga NATO, “Cooperative Engagement 05”, me pjesëmarrjen e forcave të huaja ushtarake në territorin e Republikës së Shqipërisë.
