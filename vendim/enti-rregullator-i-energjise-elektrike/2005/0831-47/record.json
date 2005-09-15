@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3781,
+  "title": "Për vendosjen e gjobës ndaj shoqërisë “Emikel” sh.p.k",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "47",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-08-31",
+  "published": "2005-09-15",
+  "in_force": "2005-09-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/73187c1325af26459768a750c17d9a6306952729bd1c575951c0bd45b336a42a.docx",
+  "source_sha256": "73187c1325af26459768a750c17d9a6306952729bd1c575951c0bd45b336a42a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3781",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/08/31/47",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
