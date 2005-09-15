@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3780,
+  "title": "Për vendosjen e gjobës ndaj shoqërisë “Sarmier” sh.p.k",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "46",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-08-31",
+  "published": "2005-09-15",
+  "in_force": "2005-09-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/037f391d8a43e563fba8b227989d25922ed5c12746416c2218115369571054ae.docx",
+  "source_sha256": "037f391d8a43e563fba8b227989d25922ed5c12746416c2218115369571054ae",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3780",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/08/31/46",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
