@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3787,
+  "title": "Për mospranimin për shqyrtim të  kërkesës së paraqitur nga shoqëria Juana sh.p.k",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "50",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-09-16",
+  "published": "2005-09-26",
+  "in_force": "2005-09-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f7c9795d8f6cb4a20556243c6114d6d63d79fc901f998eb6d560cc2d9cc42547.docx",
+  "source_sha256": "f7c9795d8f6cb4a20556243c6114d6d63d79fc901f998eb6d560cc2d9cc42547",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3787",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/09/16/50",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
