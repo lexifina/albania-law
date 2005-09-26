@@ -1,0 +1,1 @@
+4. Kriteret specifike dhe përshkrimi i punës për çdo pozicion sipas strukturës së miratuar me urdhër të Kryeministrit nr.34, datë 16.3.2005 “Për miratimin e strukturës dhe të organikës së Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave” janë ato të përcaktuara nga grupi i punës i ngritur në Drejtorinë e Bashkërendimit të Luftës Kundër Pastrimit të Parave.

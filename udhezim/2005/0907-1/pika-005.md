@@ -1,0 +1,1 @@
+5. Për informacion rreth pikave c, ç, d dhe g të nenit 3 të këtij udhëzimi bashkëpunohet me Ministrinë e Drejtësisë, Drejtorinë e Informacionit të Klasifikuar “Sekret shtetëror”, Ministrinë e Rendit Publik, institucionet dhe ose qendrat e punës, të banimit, arsimimit të kandidatëve.
