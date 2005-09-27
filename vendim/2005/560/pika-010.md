@@ -1,2 +1,1 @@
-10. Studentët përsëritës, të regjistruar në kuota kryesore, paguajnë tarifë shkollimi të njëjtë me studentët e vitit përkatës.
-Studentët përsëritës, të regjistruar në kuota dytësore, paguajnë tarifë shkollimi të njëjtë me studentët e regjistruar në kuotat kryesore, në kursin përkatës.
+10. Studentët përsëritës, të regjistruar në kuotat kryesore, paguajnë tarifën e shkollimit të përcaktuar në këtë vendim, ndërsa ata të regjistruar në kuotat dytësore, paguajnë tarifë shkollimi të njëjtë me tarifën e shkollimit për kuotat kryesore, të përcaktuar në këtë vendim.
