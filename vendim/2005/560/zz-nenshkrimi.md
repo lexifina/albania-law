@@ -1,3 +1,3 @@
 # Nënshkrimi
 KRYEMINISTRI
-Fatos Nano
+Sali Berisha
