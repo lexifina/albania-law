@@ -1,0 +1,1 @@
+2. Për daljen jashtë territorit të Republikës së Shqipërisë të këtyre objekteve të zbatohet udhëzimi nr.2, datë 18.3.2004 i Këshillit të Ministrave “Për lëvizjen e objekteve të trashëgimisë kulturore të luajtshme, me vlera të veçanta kombëtare dhe unikale, për restaurimin, studimin dhe ekspozimin jashtë territorit të Republikës së Shqipërisë”.

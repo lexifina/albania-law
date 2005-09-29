@@ -1,0 +1,1 @@
+1. Lejimin e daljes jashtë territorit të Republikës së Shqipërisë të 17 objekteve muzeore të fondit të Muzeut Historik Kombëtar, Tiranë, me vlera unikale, të trashëgimisë kulturore kombëtare, për qëllime ekspozimi në Vjenë, Austri, më 25 shtator-15 tetor 2005, sipas listës së vërtetimit, që i bashkëlidhet këtij vendimi.
