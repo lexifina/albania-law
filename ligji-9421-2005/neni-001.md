@@ -1,0 +1,2 @@
+# Neni 1
+Miratohet akti normativ me fuqinë e ligjit nr.1, datë 11.9.2005 të Këshillit të Ministrave “Për ratifikimin e memorandumit të mirëkuptimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komandës Supreme të Forcave të Aleancës në Europë (SHAPE), lidhur me dispozitat e mbështetjes së vendit pritës për forcat pjesëmarrëse në stërvitjen “Cooperative Engagement 05” dhe zhvillimin e stërvitjes ushtarake ndërkombëtare të drejtuar nga NATO, “Cooperative Engagement 05”, me pjesëmarrjen e forcave të huaja ushtarake në territorin e Republikës së Shqipërisë”.
