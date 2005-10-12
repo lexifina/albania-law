@@ -1,1 +1,0 @@
-5. Nuk mund të emërohen anëtarë të këshillave mbikëqyrës personat që nuk janë në marrëdhënie pune me shtetin, punonjës të organeve të qeverisjes qendrore ose vendore, që kryejnë funksione kontroll-revizioni, punonjës të drejtorive të shoqërive tregtare, drejtorë të ndërmarrjeve shtetërore të patransformuara në shoqëri tregtare.

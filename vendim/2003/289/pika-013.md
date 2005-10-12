@@ -1,1 +1,0 @@
-13. Ndërsa për shoqëritë e dhëna tërësisht me qira ose enfiteozë, që nuk ushtrojnë veprimtari prodhuese, shpërblimi për kryetarin është 7 për qind, për nënkryetarin dhe për anëtarët 5 për qind të pagës mujore të drejtorit.

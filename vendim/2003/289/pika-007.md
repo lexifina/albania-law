@@ -1,1 +1,0 @@
-7. Këshilli i Ministrave miraton përbërjen e këshillave mbikëqyrës të shoqërive anonime shtetërore, që veprojnë në sektorin strategjik, sipas listës që i bashkëlidhet këtij vendimi, me propozimin e Ministrit të Ekonomisë.

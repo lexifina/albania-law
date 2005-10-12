@@ -1,1 +1,0 @@
-9. Këshillat mbikëqyrës i raportojnë ministrit të linjës administrative dhe Ministrit të Ekonomisë, me cilësinë e përfaqësuesit të pronarit shtetëror, për ecurinë e zbatimit të programit të zhvillimit ekonomik dhe financiar, sa herë që e gjykojnë të nevojshme ose sa herë që kërkohet prej tyre, por jo më rrallë se një muaj pas mbylljes së çdo 3-mujori.

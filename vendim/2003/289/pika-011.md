@@ -1,1 +1,0 @@
-11. Anëtarët e këshillave mbikëqyrës përfitojnë shpërblim mujor për veprimtarinë drejtuese të shoqërisë, që fillon nga mbledhja e parë, shpërblim, i cili përballohet nga shoqëria. Shpërblimi për kryetarin është 30 për qind, për nënkryetarin 25 për qind dhe për anëtarët e këshillit 20 për qind e pagës mujore të drejtorit të shoqërisë.
