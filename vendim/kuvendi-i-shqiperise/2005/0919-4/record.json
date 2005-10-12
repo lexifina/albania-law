@@ -1,0 +1,28 @@
+{
+  "qbz_id": 3801,
+  "title": "Për zgjedhjen e Byrosë dhe përbërjen e sekretariateve të Kuvendit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "4",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-09-19",
+  "published": "2005-10-12",
+  "in_force": "2005-10-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6591dadf404479f15f6b428c617198d17b61dd2f4132f31567080cb864b3cfca.docx",
+  "source_sha256": "6591dadf404479f15f6b428c617198d17b61dd2f4132f31567080cb864b3cfca",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3801",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/09/19/4",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    7262
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
