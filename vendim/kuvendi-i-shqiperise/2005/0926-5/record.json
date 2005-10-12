@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3802,
+  "title": "Për një shtesë në vendimin nr.4, datë 19.9.2005 \"Për zgjedhjen e Byrosë dhe përbërjen e sekretariateve të Kuvendit\"",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "5",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-09-26",
+  "published": "2005-10-12",
+  "in_force": "2005-10-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f53305821e5a8cb45aa5158ae2fe5dd1939bb46d4faa14e22d4030b8d0b55a77.docx",
+  "source_sha256": "f53305821e5a8cb45aa5158ae2fe5dd1939bb46d4faa14e22d4030b8d0b55a77",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3802",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/09/26/5",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
