@@ -1,0 +1,7 @@
+6. Anëtarët e këshillit mbikëqyrës përfitojnë shpërblim për pjesëmarrje në këshillat mbikëqyrës si më poshtë vijon:
+a) Në shoqëritë anonime shtetërore strategjike, për kryetarin, në masën 30 për qind të pagës mujore të Sekretarit të Përgjithshëm të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, ndërsa për anëtarët e tjerë të këshillit mbikëqyrës, 20 për qind të kësaj page.
+b) Në shoqëritë anonime shtetërore jostrategjike kombëtare, për kryetarin, në masën 30 për qind e pagës mujore të drejtorit të Drejtorisë së Administrimit të Pronës Publike në Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës dhe për anëtarët e tjerë të këshillit mbikqyrës, 20 për qind të kësaj page.
+c) Në shoqëritë anonime shtetërore jostrategjike vendore, për kryetarin, në masën 30 për qind të pagës mujore të sekretarit të përgjithshëm të prefekturës dhe për anëtarët e tjerë të këshillit mbikëqyrës, 20 për qind të kësaj page.
+ç) Për shoqëritë anonime shtetërore, që e kanë dhënë pasurinë tërësisht me qira apo emfiteozë, kryetari i këshillit mbikëqyrës shpërblehet në masën 7 për qind dhe anëtarët e tjerë të këshillit mbikëqyrës, në masën 5 për qind, sipas përcaktimeve të mësipërme.
+Kur personi merr pjesë në një këshill të dytë mbikëqyrës, ai merr një shpërblim të dytë në masën 75 për qind të shumës së përcaktuar në pikën 6 të këtij vendimi.
+Në funksion të realizimit të detyrave të ngarkuara nga këshilli mbikëqyrës, anëtarit i rimbursohet vlera e shpenzimeve të kryera.
