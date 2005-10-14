@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, që, për fondin prej 13 000 000 (trembëdhjetë milionë) lekësh, të përdorë procedurën “Prokurim i drejtpërdrejtë”, me Bordin e Kullimit, Lezhë, për marrjen e masave emergjente për parandalimin e përmbytjeve në zonën e Lezhës.
