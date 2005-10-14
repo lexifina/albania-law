@@ -1,0 +1,1 @@
+4. Pika 1 e vendimit nr.339, datë 1.6.2004 të Këshillit të Ministrave “Për sistemimin me mjedise pune të disa institucioneve shtetërore dhe për një ndryshim në vendimin nr.515, datë 18.7.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes””, shfuqizohet.
