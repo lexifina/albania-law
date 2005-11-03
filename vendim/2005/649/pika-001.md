@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e vitit 2005, në zërin “Grant për sportin cilësor”, t’i shtohet fondi prej 15 000 000 (pesëmbëdhjetë milionë) lekësh, për shpërblimin e sportistëve të peshëngritjes, për rezultatet e larta të arritura në kampionatin europian të peshëngritjes për të rinj, të zhvilluar në Sllovaki, në datat 1-8 tetor 2005.
