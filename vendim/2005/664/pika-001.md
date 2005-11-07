@@ -1,0 +1,1 @@
+1. Akademisë së Shkencave, në buxhetin e miratuar për vitin 2005, t’i shtohet fondi prej 2 000 000 (dy milionë) lekësh, për financimin e konferencës ndërkombëtare shkencore “Gjergj Kastrioti Skënderbeu dhe Europa”, që do të zhvillohet në Tiranë, më datat 2-3 dhjetor 2005, në kuadër të përkujtimit të 600-vjetorit të lindjes së heroit kombëtar, Gjergj Kastrioti Skënderbeu.
