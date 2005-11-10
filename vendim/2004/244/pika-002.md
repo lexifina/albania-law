@@ -1,1 +1,0 @@
-2. Armo sh.a. t’i furnizojë këto zona me 8 400 ton gazoil dhe 252 ton vajra lubrifikant pa akcizë, për plotësimin e nevojave të fermerëve, që përfitojnë nga ky vendim, për periudhën maj 2004-korrik 2005.
