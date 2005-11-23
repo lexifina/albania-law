@@ -1,1 +1,1 @@
-5. Ngarkohet Ministria e Rregullimit të Territorit dhe e Turizmit për zbatimin e këtij vendimi.
+5. Ngarkohet Ministria e Punëve Publike, Transportit dhe Telekomunikacionit për zbatimin e këtij vendimi.
