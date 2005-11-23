@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3872,
+  "title": "Për një shtesë në vendimin nr.503, datë 30.6.2005 të Këshillit të Ministrave “Për organizimin, kompetencat dhe funksionimin e Agjencisë së Administrimit të Pasurive të Sekuestruara dhe Konfiskuara",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "715",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-11-18",
+  "published": "2005-11-23",
+  "in_force": "2005-11-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/c813db91b3fa3cbb875964de44296ecb12f9b98d38a137d4bd3d97ba547a1347.docx",
+  "source_sha256": "c813db91b3fa3cbb875964de44296ecb12f9b98d38a137d4bd3d97ba547a1347",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3872",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/11/18/715",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
