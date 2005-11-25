@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3879,
+  "title": "Për “disa ndryshime në vendimin nr.229, datë 23.4.2004 të Këshillit të Ministrave “Për miratimin e Ceremonialit Zyrtar të Republikës së Shqipërisë”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "735",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-11-25",
+  "published": "2005-11-25",
+  "in_force": "2005-11-25",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3ebe7b20c6c482603f6e899277b55f2a616e67635caabfe7754329ccf0724bf3.docx",
+  "source_sha256": "3ebe7b20c6c482603f6e899277b55f2a616e67635caabfe7754329ccf0724bf3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3879",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/11/25/735",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
