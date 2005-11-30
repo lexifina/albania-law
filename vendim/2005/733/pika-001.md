@@ -1,0 +1,1 @@
+1. Lejimin e Entit Kombëtar të Turizmit, që, për fondin prej 3 625 000 (tre milionë e gjashtëqind e njëzet e pesë mijë) lekësh, të përdorë procedurën “Prokurim i drejtpërdrejtë”, me shoqërinë “SML”, Strategic Media Limited, sh.p.k., Qipro, për krijimin dhe botimin e faqes shqiptare, me profil turistik, në revistën “Foreign Affairs”.
