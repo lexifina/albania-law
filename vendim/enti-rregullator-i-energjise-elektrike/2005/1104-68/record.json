@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3890,
+  "title": "Për miratimin e rregullores për procedurat e heqjes së një licence",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "68",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-11-04",
+  "published": "2005-11-30",
+  "in_force": "2005-11-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8b5631b38c5cf94bccb910e6af264b4c813667b1f7f31c0a025b433beffcb439.docx",
+  "source_sha256": "8b5631b38c5cf94bccb910e6af264b4c813667b1f7f31c0a025b433beffcb439",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3890",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/11/04/68",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
