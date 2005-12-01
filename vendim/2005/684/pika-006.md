@@ -1,0 +1,1 @@
+6. Ngarkohet Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave që, në bashkëpunim me pushtetin vendor, organizatat jofitimprurëse, përfaqësuesit e komunitetit dhe institucionet shkencore, të hartojë rregulloren e administrimit, planin e menaxhimit dhe programin e monitorimit të rezervatit natyror të menaxhuar të liqenit të Shkodrës.
