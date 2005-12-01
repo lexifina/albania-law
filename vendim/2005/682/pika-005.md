@@ -1,0 +1,1 @@
+5. Ngarkohet administrata ekzistuese e zonës së mbrojtur të Velipojës, e cila është në varësi të Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave, të kryejë funksionet e administratës së peizazhit ujor/tokësor të mbrojtur të lumit Buna.

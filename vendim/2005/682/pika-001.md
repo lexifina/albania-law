@@ -1,0 +1,1 @@
+1. Shpalljen “Peizazh ujor/tokësor i mbrojtur” të zonës së lumit Buna, së bashku me deltën dhe ishullin e Franc Jozefit, rezervatin e Velipojës, lagunën e Vilunit, plazhin e Baks-Rrjollit, kënetën e Domnit, si dhe territoret përreth tyre, sipas hartës që i bashkëlidhet këtij vendimi.
