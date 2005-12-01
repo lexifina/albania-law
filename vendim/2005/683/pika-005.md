@@ -1,0 +1,1 @@
+5. Ngarkohet Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave që, në bashkëpunim me organet e pushtetit vendor, me organizatat jofitimprurëse dhe me përfaqësues të komunitetit, të hartojë planin e menaxhimit të zonës.

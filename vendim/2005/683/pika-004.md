@@ -1,0 +1,1 @@
+4. Veprimtaritë ekonomike, që lejohen të ushtrohen në zonën “Ramsar” janë ato me karakter tradicional, që ruajnë vlerat mjedisore dhe që zhvillohen në përputhje me nivelin e mbrojtjes së zonës dhe me objektivat e planit të menaxhimit të saj.
