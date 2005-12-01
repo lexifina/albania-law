@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i nënstacionit 110/20 kV, Burdullias, Berat, sipas tabelës që i bashkëlidhet këtij vendimi.

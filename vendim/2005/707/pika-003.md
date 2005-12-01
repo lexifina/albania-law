@@ -1,0 +1,1 @@
+3. Pronari i pasurive të paluajtshme, që shpronësohet, znj.Selime Fero Qalliu, të kompensohet në vlerë të plotë, sipas masës që paraqitet në tabelën e cila i bashkëlidhet këtij vendimi, për sipërfaqen prej 3405 m2 tokë bujqësore, ullishte, vlerësuar në shumën e përgjithshme prej 1 021 500 (një milion e njëzet e një mijë e pesëqind) lekësh.
