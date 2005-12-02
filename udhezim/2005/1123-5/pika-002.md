@@ -1,0 +1,1 @@
+2. Kostoja mesatare e ndërtimit dhe vlera mesatare e apartamenteve në tregun e lirë të banesave, sipas qyteteve, për vitin 2005, të jenë sipas tabelave nr.1 dhe nr.2, që i bashkëlidhen këtij udhëzimi.
