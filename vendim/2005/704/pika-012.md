@@ -1,0 +1,3 @@
+12. Detyrat dhe përgjegjësitë e anëtarëve përfaqësues të agjencive statistikore:
+a) Anëtarët, përfaqësues të agjencive statistikore, në ushtrim të përgjegjësive konkrete, njoftojnë institucionet e tyre, brenda afatit 10-ditor nga miratimi i programit vjetor ose planveprimit të INSTAT-it, për detyra, përgjegjësi ose angazhime që institucionit do t’i lindin për përgatitjen e dokumentacionit të nevojshëm, për qëllim të veprimtarisë së INSTAT-it.
+b) Anëtari, përfaqësues i agjencisë statistikore, në këshill bashkërendon veprimet që institucioni i përfaqësuar prej tij të përgatisë planveprimin e brendshëm për këto çështje brenda 10 ditësh.

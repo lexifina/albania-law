@@ -1,0 +1,1 @@
+14. Vendimi nr.501, datë 30.6.2005 i Këshillit të Ministrave “Për kriteret e përfaqësimit, të përzgjedhjes, emërimit, shkarkimit dhe funksionimit të Këshillit të Statistikave”, si dhe çdo akt tjetër nënligjor i dalë në mbështetje të tij, shfuqizohet, dhe vendimi nr.551, datë 3.8.2005 i Këshillit të Ministrave “Për caktimin e anëtarëve të Këshillit të Statistikave” shfuqizohet.
