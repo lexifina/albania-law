@@ -1,0 +1,1 @@
+1. Me hyrjen në fuqi të vendimit të shpalljes në likuidim të shoqërisë anonime, procedurat e likuidimit do të bëhen në përputhje me dispozitat e ligjit nr.7638, datë 19.11.1992 “Për shoqëritë tregtare”, kreu VI “Dispozita të përbashkëta për të gjitha format e shoqërive”, seksioni V “Likuidimi”.

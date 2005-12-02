@@ -1,0 +1,1 @@
+6. Të ardhurat e realizuara nga likuidimi, si: shitja e aseteve; arkëtimi i debitorëve, të ardhura e fitime të tjera, do të shërbejnë për shlyerjen e kreditorëve të shoqërisë sipas përcaktimeve në Kodin Civil.

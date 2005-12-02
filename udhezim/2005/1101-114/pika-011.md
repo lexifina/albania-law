@@ -1,0 +1,1 @@
+11. Ministri i Ekonomisë, Tregtisë dhe Energjetikës vendos për llogaritë përfundimtare të likuidimit. Ai ngarkon likuidatorin për depozitim të llogarive prane Regjistrit Tregtar të Gjykatës së Shkallës së Parë, Tiranë, dhe marrjen e vendimit për mbylljen e likuidimit dhe çregjistrimin e shoqërisë.

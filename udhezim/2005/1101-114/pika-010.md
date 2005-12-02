@@ -1,0 +1,1 @@
+10. Kur operacionet e likuidimit kanë përfunduar, likuidatori harton bilancin financiar përfundimtar të likuidimit i cili do të shoqërohet me raportin e ekspertit kontabël të autorizuar për vërtetimin e llogarive përfundimtare të likuidimit.

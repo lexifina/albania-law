@@ -1,0 +1,1 @@
+2. Shoqëria është në likuidim nga momenti i daljes së urdhërit të zotëruesit të vetëm të kapitalit të shoqërisë. Operacionet e likuidimit kryhen nga likuidatori, i cili përfaqëson shoqërinë dhe ka për objekt mbylljen e llogarive (shkarkimin nga llogaritë të vlerave kontabël) dhe çregjistrimin e shoqërisë nga Regjistri Tregtar me vendim të Gjykatës së Shkallës së Parë, Tiranë.

@@ -1,0 +1,1 @@
+7. Likuidatori nuk mund të lidhë kontrata dhe nuk mund të shesë me mirëkuptim, pa autorizim nga Ministri i Ekonomisë,Tregtisë dhe Energjetikës. Në publikimin për shitje të pasurisë së shoqërisë në likuidim do të përfshihen edhe objektet e dhëna me qira, përpara datës së shpalljes së shoqërisë në likuidim.
