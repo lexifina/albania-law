@@ -1,0 +1,1 @@
+5. Fondi prej 171 968 824 (njëqind e shtatëdhjetë e një milionë e nëntëqind e gjashtëdhjetë e tetë mijë e tetëqind e njëzet e katër) lekësh, për kompensimin e pronarëve dhe shpenzimet procedurale, të përballohet nga fondi i Tirana Airport Partners.
