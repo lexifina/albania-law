@@ -1,4 +1,0 @@
-6. Mbledhja e Këshillit të Statistikave
-a) Këshilli i Statistikave mblidhet në seancë të zakonshme të paktën një herë në vit, me kërkesë të kryetarit dhe në të duhet të marrin pjesë më shumë se gjysma e të gjithë anëtarëve. Këshilli mund të mblidhet në seanca të jashtëzakonshme kur e kërkon kryetari i këshillit ose të paktën 1/3 e anëtarëve të tij.
-b) Anëtarët njoftohen me shkrim për datën, orën dhe vendin ku do të zhvillohet mbledhja, si dhe për rendin e ditës, që do të shqyrtohet në mbledhje. Si rregull, njoftimi bëhet të paktën 10 ditë përpara datës së mbledhjes. Për çështje urgjente kryetari i këshillit mund të thërrasë mbledhjen, duke mosrespektuar afatet e mësipërme, por, detyrimisht, me një njoftim me shkrim.
-c) Drejtori i Përgjithshëm i INSTAT-it merr pjesë në mbledhje, pa të drejtë vote.
