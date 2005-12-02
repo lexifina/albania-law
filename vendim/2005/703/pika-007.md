@@ -1,0 +1,1 @@
+7. Procedurat dhe skemat e shpërndarjes së karburantit caktohen me udhëzim të përbashkët të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, Ministrit të Financave dhe Ministrit të Brendshëm.

@@ -1,0 +1,1 @@
+6. Drejtoritë rajonale të bujqësisë, ushqimit dhe mbrojtjes së konsumatorit, në bashkëpunim me organet e pushtetit vendor, të përgatisin regjistrin e fermerëve, që të shërbejë për përllogaritjet e sasisë së karburantit për çdo përfitues.

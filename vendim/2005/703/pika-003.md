@@ -1,0 +1,1 @@
+3. Karburanti pa akcizë të sigurohet nga “ARMO” sh.a. dhe furnizimi të bëhet nëpërmjet pikave të shpërndarjes, në të gjithë vendin, të miratuara nga Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, me propozimin e organeve të pushtetit vendor.

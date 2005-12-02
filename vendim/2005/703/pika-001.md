@@ -1,0 +1,1 @@
+1. Fermerët, në të gjithë vendin, që kryejnë punime të mekanizuara në bujqësi, që kanë sera me ngrohje, si dhe subjektet që kanë kaldaja në linjat e përpunimit të qumështit, të furnizohen me karburant, pa akcizë, me një çmim 40 lekë/litri.
