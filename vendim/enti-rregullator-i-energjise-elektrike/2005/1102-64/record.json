@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3934,
+  "title": "Për fillimin e procedurave  të shqyrtimit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "64",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-11-02",
+  "published": "2005-12-02",
+  "in_force": "2005-12-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9d1a16d59d082b001679d9918cd6079e7f9e71f1dd633fcc97526f1bb1340e11.docx",
+  "source_sha256": "9d1a16d59d082b001679d9918cd6079e7f9e71f1dd633fcc97526f1bb1340e11",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3934",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/11/02/64",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
