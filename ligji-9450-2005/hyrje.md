@@ -1,0 +1,7 @@
+L I G J
+Nr.9450, datë 15.12.2005
+PËR MIRATIMIN E AKTIT NORMATIV ME FUQINË E LIGJIT NR. 3, DATË 23.11.2005 TË KËSHILLIT TË MINISTRAVE “PËR NJË SHTESË NË LIGJIN NR.7971, DATË 26.7.1995 “PËR PROKURIMIN PUBLIK”, TË NDRYSHUAR
+Në mbështetje të neneve 78, 83 pika 1 dhe 101 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+K U V E N D I
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
