@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3980,
+  "title": "Për fillimin e procedurave të shqyrtimit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "78",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2005-12-08",
+  "published": "2005-12-21",
+  "in_force": "2005-12-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3e0b861e94bb72a0a9e0979a304f1db0125f22bb3b856c69fdf8ca0da72e6587.docx",
+  "source_sha256": "3e0b861e94bb72a0a9e0979a304f1db0125f22bb3b856c69fdf8ca0da72e6587",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3980",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/12/08/78",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
