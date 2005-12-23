@@ -1,1 +1,0 @@
-5. Në rastet e parashikuara në pikën 5 të nenit 13 dhe në pikën 6 të nenit 23 të ligjit nr.8701, datë 1.12.2000, për organizatorin e lojës detyrimet për të ardhurat e realizuara do të jenë të njëjta me atë të përcaktuar për organizatorët e tjerë, që kanë si objekt veprimtarie ushtrimin e lojërave elektronike, të fatit, me fitim në çast.

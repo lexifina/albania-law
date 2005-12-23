@@ -1,3 +1,0 @@
-1. Ndarja e të ardhurave për organizatorin dhe fituesit nga lojërat e fatit, kazinotë dhe hipodromet, bëhet pasi nga totali i qarkullimit të realizuar, të zbriten më parë tatimi mbi vlerën e shtuar dhe tatimi mbi lojërat e fatit.
-Tatimi mbi vlerën e shtuar llogaritet duke pjesëtuar “qarkullimin gjithsej”, (të ardhurat) me shifrën 6. Pjesa që mbetet pas zbritjes së tatimit mbi vlerën e shtuar përbën “qarkullimin” (të ardhurat pa tatimin mbi vlerën e shtuar).
-Tatimi mbi lojërat e fatit llogaritet duke pjesëtuar “qarkullimin” (të ardhurat pa tatimin mbi vlerën e shtuar) me shifrën 6. Pjesa që mbetet pas zbritjes së tatimit mbi lojërat e fatit, ndahet ndërmjet organizatorit dhe fituesit.
