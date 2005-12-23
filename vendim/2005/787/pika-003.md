@@ -1,0 +1,4 @@
+3. Familjet, që kanë vendbanimin në qytet, të regjistruara në zyrat e gjendjes civile pas datës 1 gusht 1991, të cilat vendbanimin e mëparshëm e kanë pasur në fshat, duhet të paraqesin, për të kërkuar ndihmë ekonomike, përveç dokumenteve të përcaktuara në pikën 2 të këtij vendimi, edhe këto dokumente:
+a) Vërtetimin e nënshkruar dhe të vulosur nga kryetari i komunës a bashkisë (që në përbërje kanë fshatrat, banorët e të cilave janë trajtuar me tokë), nga kryetari i fshatit dhe përgjegjësi i zyrës së kadastrës, ku të thuhet se këto familje nuk disponojnë tokë në pronësi, sipas vendimit të komisionit të ndarjes së tokës, meqenëse janë larguar nga vendbanimi, para datës 1 gusht 1991, për arsye pune;
+b) Kopjet e librezave të punës, të noterizuara, që vërtetojnë se pjesëtarë të tyre kanë qenë të punësuar nga çasti i largimit nga vendbanimi në fshat;
+c) Certifikatën e pronësisë së tokës, kur kanë përfituar tokë.

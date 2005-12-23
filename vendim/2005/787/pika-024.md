@@ -1,0 +1,1 @@
+24. Bashkitë/komunat kanë të drejtë, që përfitimin e ndihmën ekonomike ta kushtëzojnë me punë e shërbime në komunitet. Projektet për kushtëzimin e kësaj ndihme me punë apo shërbime në komunitet mund të jetë me kohë të plotë pune ose me kohë të pjesshme pune, për disa ditë në muaj.

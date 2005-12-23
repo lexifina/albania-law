@@ -1,0 +1,1 @@
+31. Për punë e shërbime me kohë të pjesshme, disa ditë në muaj, ftohen në punë komunitare të gjithë anëtarët e aftë për punë të familjeve, që kërkojnë ndihmë ekonomike. Këto projekte mund të organizohen në bazë komune ose njësie bashkiake, por edhe në njësi më të vogla, në bazë fshati etj.

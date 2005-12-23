@@ -1,0 +1,1 @@
+33. Masa e ndihmës ekonomike për familjet, që kryejnë punë e shërbime në komunitet, me kohë të pjesshme, llogaritet sipas strukturës së familjes, por, në asnjë rast, nuk mund të jetë më shumë se 7000 (shtatë mijë) lekë në muaj.

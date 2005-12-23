@@ -1,0 +1,1 @@
+35. Njësitë e qeverisjes vendore, që kushtëzojnë shpërndarjen e ndihmës ekonomike me punë e shërbime në komunitet, vënë në dijeni zyrën rajonale të shërbimit social shtetëror për rezultatin e arritur nga punët dhe shërbimet komunitare, si dhe për administrimin e ndihmës ekonomike.

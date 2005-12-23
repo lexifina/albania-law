@@ -1,0 +1,1 @@
+4. Nëse familjet e përcaktuara në piken 3 të këtij vendimi, kanë dokumentet e përmendura në shkronjat “a” e “b” të pikës së sipërpërmendur, kanë të drejtë të kërkojnë ndihmë ekonomike të plotë, ndërsa kur kanë dokumentet e përmendura në shkronjat “b” e “c”, kanë të drejtë të kërkojnë ndihmë ekonomike të pjesshme.

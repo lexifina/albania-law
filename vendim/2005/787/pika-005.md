@@ -1,0 +1,1 @@
+5. Kur këto familje e ndryshojnë vendbanimin, ato duhet të paraqesin, brenda 30 ditëve, në vendbanimin e ri, një dokument, ku të vërtetohet se kanë përfituar ndihmë ekonomike në vendbanimin e mëparshëm.
