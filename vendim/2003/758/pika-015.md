@@ -1,1 +1,0 @@
-15. Periudha e pjesëmarrjes në punë a shërbime në komunitet ka të njëjtën kohëzgjatje me projektin. Pas mbarimit të projektit, familja ka të drejtë të riaplikojë për përfitim nga skema e ndihmës ekonomike, duke respektuar kriteret e legjislacionit në fuqi për përfitimin e ndihmës.

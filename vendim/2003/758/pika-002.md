@@ -1,1 +1,0 @@
-2. Njësitë e qeverisjes vendore, që do të zbatojnë programe punësimi dhe shërbimesh me fondet e bllokndihmës ekonomike, fondet e veta ose donacionet e ndryshme, do të përcaktohen me urdhër të përbashkët të Ministrit të Punës dhe të Çështjeve Sociale dhe Ministrit të Pushtetit Vendor dhe të Decentralizimit, sipas kritereve ligjore.

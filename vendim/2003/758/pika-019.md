@@ -1,1 +1,0 @@
-19. Fondet e ndihmës ekonomike, që përdoren për zbatimin e projekteve për punë a shërbime në komunitet, nuk i nënshtrohen ligjit ”Për prokurimin publik” dhe përjashtohen nga TVSH-ja. Pjesa tjetër e fondeve që paracaktohen për zbatimin e projektit u nënshtrohen kritereve të përcaktuara në ligjin ”Për prokurimin publik” dhe udhëzimeve në fuqi.

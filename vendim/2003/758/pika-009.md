@@ -1,1 +1,0 @@
-9. Projektet miratohen nga këshilli bashkiak/komunal dhe nuk prekin fondet e nevojshme për familjet e përcaktuara në shkronjën ”ç” të pikës 3. Këshilli bashkiak/komunal njofton Ministrinë e Pushtetit Vendor dhe të Decentralizimit për projektet e miratuara.

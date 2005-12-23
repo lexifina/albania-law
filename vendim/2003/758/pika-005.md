@@ -1,1 +1,0 @@
-5. Bashkia/komuna ka të drejtë të përdorë për punë dhe shërbime në komunitet të gjitha fondet e kursyera nga ulja e numrit të familjeve që përfitojnë nga skema e ndihmës ekonomike, si rezultat i përfshirjes së tyre në projekte punësimi a shërbimi, sipas këtij vendimi.

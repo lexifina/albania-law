@@ -1,1 +1,0 @@
-8. Si njësi zbatuese të projekteve, përveç ndërmarrjeve apo sektorëve në varësi të bashkisë/komunës, kanë të drejtë të aplikojnë për financim, zbatim dhe bashkëfinancim projektesh edhe personat juridikë e OJF-të.

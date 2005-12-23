@@ -1,1 +1,0 @@
-4. Programimi i fondeve për njësitë në pilotim bazohet në treguesit social-ekonomikë për periudhën e mëparshme, të vërtetuar nga institucionet përkatëse, duke u mbështetur në strukturën dhe në të ardhurat e familjes.

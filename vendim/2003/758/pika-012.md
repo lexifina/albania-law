@@ -1,1 +1,0 @@
-12. Masa e pagesës së personave pjesëmarrës në projektet për punë ose shërbime në komunitet nuk duhet të jetë më i ulët se niveli 100 për qind i pagës minimale në shkallë vendi dhe ndryshon sa herë ndryshon kjo e fundit.
