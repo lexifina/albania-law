@@ -1,0 +1,9 @@
+1. Përfitojnë reduktim, në masën 50 për qind të çmimit të biletave për muzetë publikë, kategoritë e mëposhtme shoqërore:
+a) Pensionistët, që gëzojnë këtë status dhe kanë dëshmi zyrtare, sipas ligjit nr.7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”, të ndryshuar;
+b) Veteranët e luftës, që gëzojnë këtë status dhe kanë dëshmi zyrtare, sipas ligjit nr.7874, datë 17.11.1994 “Për statusin e veteranit të Luftës Antifashiste Nacionalçlirimtare të popullit shqiptar”, të ndryshuar;
+c) Ish-të dënuarit dhe të përndjekurit politikë, që kanë dëshmi zyrtare, identifikimi, sipas ligjit nr.7748, datë 29.7.1993 “Për statusin e ish-të dënuarve dhe të përndjekurve politikë nga sistemi komunist”, të ndryshuar;
+ç) Invalidët që gëzojnë këtë status dhe kanë dëshmi zyrtare identifikimi, sipas ligjit nr.7889, datë 14.12.1994 “Për statusin e invalidit”, të ndryshuar;
+d) Invalidët paraplegjikë dhe tetraplegjikë që gëzojnë këtë status dhe kanë dëshmi zyrtare identifikimi, si dhe personat, që i shoqërojnë ata, sipas ligjit nr.8626, datë 22.6.2000 “Për statusin e invalidit paraplegjik dhe tetraplegjik”, të ndryshuar;
+dh) Jetimët që gëzojnë këtë status, sipas ligjit nr.8153, datë 31.10.1996 “Për statusin e jetimit”, të ndryshuar;
+e) Personat, që përfitojnë nga marrëveshjet dy a shumëpalëshe, të lidhura ndërmjet muzeve publikë shqiptarë dhe muzeve homologë të vendeve të tjera.
+Për studentët e arsimit të lartë, që kanë kartën e studentit, sipas ligjit nr.8641, datë 25.2.1999 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, dhe nxënësit e sistemit arsimor parauniversitar, të përcaktuar sipas ligjit nr.7952, datë 21.11.1995 “Për sistemin arsimor parauniversitar”, të ndryshuar, kur janë në grup dhe kur kjo vizitë u shërben për qëllime mësimore, hyrja është e lirë, me tarifë zero.
