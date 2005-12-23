@@ -1,0 +1,1 @@
+7. Për shkeljet sipas pikave 3 e 4 të këtij vendimi, punëdhënësi ose personi përgjegjës i ngarkuar prej tij, dënohen sipas kreut VIII “Procedura dhe sanksione” të ligjit nr.7986, datë 13.9.1995 “Për Inspektoratin Shtetëror të Punës”, të ndryshuar.

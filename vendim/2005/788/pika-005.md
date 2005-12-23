@@ -1,0 +1,1 @@
+5. Kur aksidenti ka ndodhur gjatë rrugës nga banesa për në punë dhe anasjelltas, procesverbali i mbajtur nga organet e policisë, duhet të bëhet pjesë e dokumentacionit, për përfitimin e pagesës së aksidentit në punë.

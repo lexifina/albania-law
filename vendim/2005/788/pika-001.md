@@ -1,0 +1,1 @@
+1. Aksident në punë ose për shkak të punës është dëmtimi i menjëhershëm trupor, i ndodhur gjatë kryerjes së punës ose gjatë një procesi, që ka lidhje me punën, si dhe çdo dëmtim tjetër i shëndetit, që nuk rrjedh nga sëmundje të përgjithshme, por që sjell paaftësi, të përkohshme ose të përhershme, në punë ose vdekje.

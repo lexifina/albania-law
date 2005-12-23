@@ -1,0 +1,2 @@
+6. Aksidenti në punë ose për shkak të punës vërtetohet me procesverbalin e mbajtur në vendin e ngjarjes dhe duhet të nënshkruhet nga punëdhënësi ose personi përgjegjës, i ngarkuar prej tij, si dhe nga inspektori i punës, brenda tri ditëve nga ndodhja e aksidentit.
+Forma e procesverbalit dhe udhëzimet përkatëse për plotësimin e tij përcaktohen nga Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta.

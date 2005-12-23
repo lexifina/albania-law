@@ -1,0 +1,1 @@
+3. Në çdo rast të një aksidenti në punë ose për shkak të punës, punëdhënësi ose personi përgjegjës, i ngarkuar prej tij, duhet të lajmërojë, brenda 3 ditëve, Inspektoratin Shtetëror të Punës dhe Institutin e Sigurimeve Shoqërore.
