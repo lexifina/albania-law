@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3988,
+  "title": "Për një shtesë në vendimin nr.459, datë 23.9.1999 të Këshillit të Ministrave “Për krijimin e Komitetit Shtetëror për Kultet”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "777",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2005-12-14",
+  "published": "2005-12-23",
+  "in_force": "2005-12-23",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/fc2d0ccd5aa14a5c88034c8d52d14b2202cfe2b003a263433471898bfd51f0d1.docx",
+  "source_sha256": "fc2d0ccd5aa14a5c88034c8d52d14b2202cfe2b003a263433471898bfd51f0d1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3988",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2005/12/14/777",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
