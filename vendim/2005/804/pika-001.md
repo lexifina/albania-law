@@ -1,0 +1,1 @@
+1. Kontrolli i procedurave dhe i ligjshmërisë së kontratës për privatizimin e Albtelecom sh.a. të bëhet nga një shoqëri e përzgjedhur me tender të hapur, në bazë të termave të referencës, që i bashkëlidhen këtij vendimi.
