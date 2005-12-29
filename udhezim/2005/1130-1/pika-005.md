@@ -1,0 +1,1 @@
+5. Tarifa e shërbimit paguhet edhe për veprimtaritë me karakter vendor që ndikojnë në mjedis dhe që miratohen nga agjencitë rajonale të mjedisit në bashkëpunim me organet e qeverisjes vendore dhe që pajisjen me autorizim mjedisor ose pëlqim mjedisor.
