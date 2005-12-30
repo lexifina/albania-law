@@ -1,0 +1,2 @@
+# Neni 4
+Në përputhje me paragrafin e parë të nenit 60 të Konventës, Republika e Shqipërisë rezervon të drejtën e juridiksionit të autoriteteve të veta për të marrë masa për mbrojtjen e pasurisë së fëmijës në territorin e vet, si dhe rezervon të drejtën e mosnjohjes së një përgjegjësie prindërore apo të një mase për sa kohë nuk është në përputhje me ndonjë masë të marrë nga autoritetet e veta, në lidhje me këtë pasuri, siç është parashikuar në paragrafin e parë të nenit 55 të Konventës.
