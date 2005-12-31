@@ -1,0 +1,1 @@
+1. Miratimin e listës së mbetjeve të rrezikshme, mbetjeve dhe mbeturinave të tjera, që ndalohen të importohen, me qëllim ruajtjeje, depozitimi dhe asgjësimi, në Republikën e Shqipërisë, sipas përcaktimeve të bëra në Katalogun Shqiptar të Klasifikimit të Mbetjeve.
