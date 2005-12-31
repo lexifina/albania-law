@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit dhe të Shkencës, në buxhetin e miratuar për vitin 2005, zëri “Shpenzime korrente”, t’i shtohet fondi prej 280 000 000 (dyqind e tetëdhjetë milionë) lekësh, për shpërblimin e punonjësve mësimorë të sistemit parauniversitar.
