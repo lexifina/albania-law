@@ -1,0 +1,1 @@
+4. Instituti i Sigurimeve të Kujdesit Shëndetësor, mbështetur në paketën e shërbimeve, që do të ofrojnë institucionet publike të kujdesit shëndetësor parësor, të miratuar nga Ministria e Shëndetësisë, të hartojë, negociojë dhe të lidhë kontrata shërbimi me institucionet publike të kujdesit shëndetësor parësor të qarkut të Beratit.

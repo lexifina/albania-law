@@ -1,0 +1,1 @@
+5. Kontrata e shërbimit të parashikojë mbulimin e shpenzimeve të institucionit publik vetëm për ofrimin e shërbimeve (pa përfshirë financimin e investimeve kapitale), një pagesë fikse për shpenzimet për ushtrimin e veprimtarisë së këtij institucioni, si dhe një pagesë, në bazë të nivelit të institucionit në ofrimin e shërbimeve të kujdesit shëndetësor parësor.

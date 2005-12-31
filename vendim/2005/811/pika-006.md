@@ -1,0 +1,1 @@
+6. Ngarkohet Ministria e Shëndetësisë, që, pas miratimit të buxhetit të saj për vitin 2006, t’i kalojë Institutit të Sigurimeve të Kujdesit Shëndetësor fondet buxhetore, të parashikuara për shpenzimet korente për vititn 2006 (shpenzime personeli dhe shpenzime operative) për shërbimin e kujdesit shëndetësor parësor të qarkut të Beratit.

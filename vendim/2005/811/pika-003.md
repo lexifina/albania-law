@@ -1,0 +1,1 @@
+3. Për përgatitjen e udhëzimeve për përcaktimin e statusit, të misionit, funksioneve të paketës bazë të shërbimeve, që duhet të ofrojnë këto institucione, si dhe të nivelit të autonomisë së tyre, financiare e menaxheriale, ngarkohen Ministria e Financave, Ministria e Shëndetësisë dhe Instituti i Sigurimeve të Kujdesit Shëndetësor.
