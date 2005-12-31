@@ -1,12 +1,13 @@
-2. Sekretariati i SEDM/CC dhe i PMSC/MPFSEE të ketë 11 veta dhe të përbëhet nga personel, civil e ushtarak, i Ministrisë së Mbrojtjes, si më poshtë vijon:
-a) Kryetari të jetë civil;
-b) Këshilltari politik të jetë civil;
-c) 2 specialistë të jenë civilë;
-ç) Shefi i Sekretariatit të jetë ushtarak;
-d) Oficeri i shtabit për operacionet;
-dh) Oficeri i shtabit për logjistikën;
-e) Nëpunësi i protokollit të jetë ushtarak;
-ë) Përgjegjësi i administratës të jetë ushtarak;
-f) Nëpunësi i financës të jetë ushtrak;
-g) Përkthyesi i gjuhës angleze të jetë ushtrak ose civil.
-Personeli i Sekretariatit përzgjidhet dhe emërohet nga Ministri i Mbrojtjes. Personelit të punësuar, ad-hoc, në këtë Sekretariat t’i ruhet pozicioni i vendit të punës së mëparshme, pas përfundimit të afatit të funksionimit të këtij Sekretariati.
+2.Sekretariati i SEDM-CC-së dhe PMSC/MPFSEE-së të përbëhet nga 13 veta, civilë dhe ushtarakë, nga personeli i Ministrisë së Mbrojtjes:
+a) kryetari të jetë zëvendësministri i Mbrojtjes;
+b) këshilltari të jetë civil ose ushtarak;
+c) shefi i sekretariatit të jetë ushtarak, në nivel drejtor drejtorie;
+ç) shefi i sektorit PMSC-së të jetë ushtarak;
+d) dy specialistë për marrëdhëniet ndërkombëtare në sektorin e PMSC-së, të jenë ushtarakë ose civilë, njëri prej të cilëve të jetë përkthyes i gjuhës angleze;
+dh) shefi i sektorit të SEDM-CC-së të jetë ushtarak;
+e) dy specialistë për projektet e SEDM-së në sektorin e SEDM-CC-së, të jenë ushtarakë ose civilë;
+ë) shefi i sektorit të protokollit dhe administratës të jetë ushtarak;
+f) specialist dhe koordinator i SEDM-së në sektorin e protokollit dhe administratës, të jetë ushtarak ose civil;
+g) shefi i zyrës së planfinancës të jetë ushtarak ose civil;
+gj) specialist, llogaritar ose arkëtar në zyrën e planfinancës të jetë ushtarak ose civil.
+Shtesat në personelin e sekretariatit të përfshihen brenda numrit limit të punonjësve të Ministrisë së Mbrojtjes.
