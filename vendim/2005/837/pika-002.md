@@ -1,0 +1,2 @@
+2. Instituti i Sigurimeve Shoqërore informon pensionistët për përfitimet e caktuara dhe të paguara, sipas ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore të Republikës së Shqipërisë”, të ndryshuar, për periudhën nga 1 janari 2006 e në vazhdim.
+Informacioni të përmbajë të dhëna për masën e përgjithshme të përfitimit dhe për elementet e saj përbërëse. Formulari-tip i informacionit për përfitimet e caktuara dhe të paguara miratohet nga Instituti i Sigurimeve Shoqërore.

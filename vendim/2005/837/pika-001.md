@@ -1,0 +1,2 @@
+1. Instituti i Sigurimeve Shoqërore informon kontribuesit në skemën e detyrueshme të sigurimeve shoqërore, sipas ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, për kontributet e paguara nga ai ose për llogari të tij, për periudhën nga 1 janari 2006 e në vazhdim.
+Informacioni të përmbajë të dhëna për kontributet vjetore, në total, si dhe të ndara në muaj. Formulari-tip i informacionit për kontributet e ndryshme të sigurimeve shoqërore miratohet nga Instituti i Sigurimeve Shoqërore.
