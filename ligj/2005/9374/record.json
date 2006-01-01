@@ -1,0 +1,30 @@
+{
+  "qbz_id": 3535,
+  "title": "PËR NDIHMËN SHTETËRORE",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9374",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-04-21",
+  "published": "2005-05-27",
+  "in_force": "2006-01-01",
+  "in_force_basis": "\"hyn në fuqi më 1 janar 2006\"",
+  "source": "https://qbz.gov.al/files/ef4766f8da15c065db56ad22985552a4ab11916df7997184a3ea8710f341ac59.docx",
+  "source_sha256": "ef4766f8da15c065db56ad22985552a4ab11916df7997184a3ea8710f341ac59",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3535",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2005/04/21/9374",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    60569,
+    64234,
+    17853
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
