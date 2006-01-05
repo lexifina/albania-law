@@ -1,0 +1,26 @@
+{
+  "qbz_id": 3967,
+  "title": "Për disa ndryshime në ligjin nr.8869, datë 22.5.2003 “Për Gardën e Republikës së Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9445",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-11-16",
+  "published": "2005-12-21",
+  "in_force": "2006-01-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/4b04b1105b364c7b6fd44acd387846f8a04253d008981058b8ca1bb5a060295d.docx",
+  "source_sha256": "4b04b1105b364c7b6fd44acd387846f8a04253d008981058b8ca1bb5a060295d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3967",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2005/11/16/9445",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
