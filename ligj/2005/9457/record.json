@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4040,
+  "title": "Për një ndryshim në ligjin nr.9136, datë 11.9.2003 “Për mbledhjen e kontributeve të detyrueshme të sigurimeve shoqërore dhe shëndetësore në Republikën e Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9457",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-12-21",
+  "published": "2005-12-31",
+  "in_force": "2006-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/4962c49545e19da4a052145e6a0ef0dbe29208745411d292aa5ec389eafd1b9e.docx",
+  "source_sha256": "4962c49545e19da4a052145e6a0ef0dbe29208745411d292aa5ec389eafd1b9e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4040",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2005/12/21/9457",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
