@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4101,
+  "title": "Për fillimin e procedurave të shqyrtimit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "2",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2006-01-11",
+  "published": "2006-01-24",
+  "in_force": "2006-01-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ce7860e8c4132f0bb5636dd55b0a481f52a07876f3f06944ed127940fb5a8b89.docx",
+  "source_sha256": "ce7860e8c4132f0bb5636dd55b0a481f52a07876f3f06944ed127940fb5a8b89",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4101",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/01/11/2",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
