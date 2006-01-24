@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4094,
+  "title": "Për një ndryshim në vendimin nr.429, datë 30.8.1993 të Këshillit të Ministrave “Për krijimin e Komitetit Qeveritar të Bisedimit të Borxhit të Jashtëm”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "15",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-01-13",
+  "published": "2006-01-24",
+  "in_force": "2006-01-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/dbd6f76f74e9d3158ba12464386c470770297ea2cacc0106f964ed9ee8d35d5b.docx",
+  "source_sha256": "dbd6f76f74e9d3158ba12464386c470770297ea2cacc0106f964ed9ee8d35d5b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4094",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/01/13/15",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
