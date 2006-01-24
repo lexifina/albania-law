@@ -1,0 +1,1 @@
+1. Objekti “Pjesë e hangarit” e portit të peshkimit në Shëngjin, së bashku me truallin funksional, me sipërfaqe 576 m2, në përgjegjësi administrimi të Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave, sipas genplanit që i bashkëlidhet këtij vendimi, t’i kalojë në përgjegjësi administrimi Ministrisë së Brendshme.
