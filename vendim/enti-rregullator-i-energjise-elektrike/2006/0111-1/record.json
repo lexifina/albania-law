@@ -1,0 +1,30 @@
+{
+  "qbz_id": 4100,
+  "title": "Për transferimin e licencës nga shoqëria “Korsel“ sh.p.k. te shoqëria “Maksi Elektrik” sh.p.k",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Enti Rregullator i Energjisë Elektrike",
+  "adopted": "2006-01-11",
+  "published": "2006-01-24",
+  "in_force": "2006-01-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/86fac052d2e271fa995cb75326bd5c5e9deb094630179cc3f095408658e5c79a.docx",
+  "source_sha256": "86fac052d2e271fa995cb75326bd5c5e9deb094630179cc3f095408658e5c79a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4100",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/01/11/1",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    9851,
+    9597,
+    4170
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
