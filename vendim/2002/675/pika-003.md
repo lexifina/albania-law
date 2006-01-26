@@ -1,4 +1,0 @@
-3.1. Procedurat e prokurimit për përmbushjen e nevojave vjetore për mallra, shërbime dhe ndërtime, të planifikuara e të ndara për secilën prej tyre, për çdo institucion, ent prokurues, kryhen në fillim të vitit buxhetor. Procedurat e prokurimit të përfundojnë brenda muajit maj të çdo viti, duke përfshirë në këtë afat edhe lidhjen e kontratave përkatëse.
-3.2. Procedurat e prokurimit nga institucionet për përdorimin e fondeve për mallra, shërbime dhe ndërtime, të krijuara ose të shtuara pas miratimit të Buxhetit të Shtetit, nisin menjëherë pas vënies në dispozicion të këtyre fondeve. Institucionet, në këtë rast, njoftojnë Agjencinë e Prokurimit Publik, e cila bën ndryshimet përkatëse në Regjistrin Kombëtar të Prokurimeve Publike.
-3.3. Procedurat e prokurimit të fondeve të planifikuara për ndërtime apo objektet, të cilat nuk kanë projekte të miratuara, nisin menjëherë pas përfundimit të projektit.
-IV. Lidhja e kontratave

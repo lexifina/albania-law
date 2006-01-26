@@ -1,5 +1,0 @@
-2.1. Institucionet pas miratimit të buxhetit, në bazë të kërkesave dhe të fondeve të miratuara në buxhet, për mallra, shërbime dhe ndërtime, përgatisin dhe plotësojnë regjistrin e parashikimeve të prokurimeve publike, sipas formës dhe mënyrës së përcaktuar në udhëzimin e Agjencisë së Prokurimit Publik.
-2.2. Një kopje e regjistrit të parashikimeve të prokurimeve publike i miratuar nga titullari i institucionit, dërgohet brenda datës 20 janar të çdo viti, në Agjencinë e Prokurimit Publik.
-2.3. Agjencia e Prokurimit Publik, në bazë të të dhënave të regjistrave të parashikimeve të prokurimeve, të dërguar nga institucionet, përgatit regjistrin qendror të parashikimit të prokurimeve publike dhe bën shpalljen e buletinit special vjetor të parashikimeve të prokurimeve publike.
-2.4. Një kopje e regjistrit qendror të parashikimit të prokurimeve publike i dërgohet Ministrisë së Financave, për drejtorinë e thesarit dhe të buxhetit. Drejtoria e thesarit ua shpërndan jo më vonë se data 20 janar e çdo viti, degëve të thesarit.
-III.Prokurimi i fondeve për mallra, shërbime dhe ndërtime
