@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4111,
+  "title": "Për ngritjen e Komisionit  të Posaçëm Parlamentar për Reformën Zgjedhore",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "17",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-01-19",
+  "published": "2006-01-30",
+  "in_force": "2006-01-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/29155b697d6b6e2c46da100efe03d640dd997f096b4dd9e36ab10d57dd0d765e.docx",
+  "source_sha256": "29155b697d6b6e2c46da100efe03d640dd997f096b4dd9e36ab10d57dd0d765e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4111",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/01/19/17",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
