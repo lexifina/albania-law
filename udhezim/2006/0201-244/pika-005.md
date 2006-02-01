@@ -1,0 +1,2 @@
+5. Emrat e anëtarëve të Komisionit të Kualifikimit të Noterëve dhe pagesa e tyre përcaktohen me urdhër të veçantë të Ministrit të Drejtësisë.
+Komisioni i Kualifikimit të Noterëve përbëhet nga një përfaqësues i Dhomës Kombëtare të Noterisë, një pedagog i Shkollës së Magjistraturës dhe tre punonjës të Ministrisë së Drejtësisë të caktuar nga Ministri. Në urdhër, Ministri cakton kryetar të Komisionit një nga punonjësit e Ministrisë, që do të marrin pjesë në Komision.

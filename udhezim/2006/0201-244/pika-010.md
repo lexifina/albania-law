@@ -1,0 +1,3 @@
+10. Konkurrentët do të paraqiten për të marrë pjesë në provim në ditën, orën dhe vendin e caktuar në urdhrin e Ministrit.
+Identifikimi i konkurrentëve, kryerja e detyrave të parashikuara nga ky udhëzim gjatë kohës që zhvillohet provimi dhe mbikëqyrja e konkurrentëve deri në dorëzimin e përgjigjeve të testit, kryhet nga kryetari dhe anëtarët e Komisionit, që janë përfaqësues të Ministrisë së Drejtësisë. Anëtarët e tjerë kanë të drejtë të jenë të pranishëm nëse e çmojnë të arsyeshme.
+Identifikimi i tyre do të bëhet në bazë të një dokumenti identifikimi personal të vlefshëm dhe me fotografi, i cili mund të jetë letrënjoftim, pasaportë ose certifikatë personale me fotografi.

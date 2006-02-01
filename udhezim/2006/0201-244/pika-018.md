@@ -1,0 +1,3 @@
+18. Mbi bazën e kritereve të parashikuara në pikën 17 të këtij udhëzimi, struktura përgjegjëse për profesionin e noterisë në Ministrinë e Drejtësisë harton një listë me emrat e personave fitues dhe me vendet në të cilat ata kanë fituar, sipas dhomave të noterisë. Lista miratohet me urdhër të Ministrit të Drejtësisë brenda 5 ditëve, pas kalimit të afatit brenda të cilit Ministri duhet t’u përgjigjet ankesave të konkurrentëve, të parashikuara në pikën 16 të këtij udhëzimi.
+Urdhri i Ministrit dhe lista e personave fitues afishohen në një vend të dukshëm në hyrje të Ministrisë së Drejtësisë.
+Ky afishim është i barasvlefshëm me njoftimin e të interesuarve për efekt të afateve të ankimit administrativ e gjyqësor të parashikuar nga legjislacioni në fuqi.

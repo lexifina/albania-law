@@ -1,0 +1,1 @@
+4. Për çdo rast të organizimit të provimit të kualifikimit për noterë pranë Ministrisë së Drejtësisë krijohet Komisioni i Kualifikimit të Noterëve. Komisioni ngrihet vetëm për një provim dhe ka për detyrë të mbikëqyrë procedurat e provimit, të përcaktojë listën emërore të personave që morën pjesë në provim, si dhe pikët me të cilat është vlerësuar çdo pjesëmarrës.

@@ -1,0 +1,2 @@
+19. Brenda 10 ditëve nga dita e daljes së urdhrit të Ministrit të Drejtësisë sipas pikës 18 të këtij udhëzimi, Ministri i Drejtësisë nxjerr urdhrin e dhënies së lejes së ushtrimit të profesionit për çdo konkurrent fitues.
+Urdhri përcakton personin të cilit i jepet leja për ushtrimin e profesionit të noterit, njësinë vendore ku do ta ushtrojë profesionin dhe detyrimin e strukturave përgjegjëse të Ministrisë së Drejtësisë për të siguruar zbatimin e këtij urdhri.
