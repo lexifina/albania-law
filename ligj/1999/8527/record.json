@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123831,
+  "title": "Për privatizimin e hidrocentraleve vendore",
+  "type": "Ligj",
+  "number": "8527",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-09-23",
+  "version_no": 1,
+  "qbz_version_id": 10834,
+  "in_force": "2006-02-02",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2006-02-02",
+  "changed_by_qbz_id": 4164,
+  "changed_by_number": "9470",
+  "changed_by_title": "Për një shtesë në ligjin nr.8527, datë 23.9.1999 “Për privatizimin e hidrocentraleve vendore",
+  "source": "https://qbz.gov.al/files/a22e2b6929a16a7ccca5dd99450f952ff3f83f9f5ca5bd3117caac955c68da26.docx",
+  "source_sha256": "a22e2b6929a16a7ccca5dd99450f952ff3f83f9f5ca5bd3117caac955c68da26",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123831",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123831/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
