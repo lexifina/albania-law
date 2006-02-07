@@ -1,1 +1,0 @@
-3. Komisioni i Çmimeve të Barnave mbi bazën e listës së barnave që rimbursohen nga Sigurimet Shëndetësore dhe të çmimeve referencë të paraqitura nga Instituti i Sigurimeve të Kujdesit Shëndetësor diskuton projektin, negocion për çmimet e paraqitura dhe i propozon Këshillit të Ministrave për miratim strukturën e çmimeve brenda tremujorit të parë të çdo viti.
