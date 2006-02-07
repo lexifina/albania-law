@@ -1,0 +1,26 @@
+{
+  "qbz_id": 59509,
+  "title": "Për një ndryshim në vendimin nr.205, datë 13.4.1999 të Këshillit të Ministrave “Për dispozitat zbatuese të Kodit Doganor”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "47",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-01-27",
+  "published": "2006-02-07",
+  "in_force": "2006-02-07",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d3085447b759b026ce6a0c76fb05b95f65fe3bbfd4b6cf6f84fa4228c54476b2.docx",
+  "source_sha256": "d3085447b759b026ce6a0c76fb05b95f65fe3bbfd4b6cf6f84fa4228c54476b2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59509",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/01/27/47",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
