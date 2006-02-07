@@ -1,0 +1,1 @@
+3. Komisioni i Çmimeve të Barnave të kryejë procesin e negociimit me fabrikuesit, vendas e të huaj, e me përfaqësitë farmaceutike në vendin tonë, të hartojë listën e përgjithshme të çmimeve të barnave të regjistruara dhe t’ia paraqesë Ministrit të Shëndetësisë, i cili e propozon për miratim në Këshillin e Ministrave, brenda tremujorit të parë të çdo viti kalendarik.
