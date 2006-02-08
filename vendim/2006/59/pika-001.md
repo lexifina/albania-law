@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit, nga Ministria e Shëndetësisë te Ministria e Arsimit dhe e Shkencës, të një pjese të objektit të ish-ndërtesës së spitalit civil, Shkodër, përkatësisht katin e parë dhe të dytin, të përcaktuar në formularin nr.3, sipas planvendosjes dhe planimetrisë, që i bashkëlidhen këtij vendimi, për Universitetin e Shkodrës.
