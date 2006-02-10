@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për procedurat e kontrollit të produktit në fabrikë dhe në qendrën e shpërndarjes, për marrjen e certifikatës së vlerësimit të konformitetit, për çimentot, për të cilat ka rëndësi parësore rezistenca dhe qëndrueshmëria”, sipas tekstit që i bashkëlidhet këtij vendimi.
