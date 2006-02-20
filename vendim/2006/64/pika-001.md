@@ -1,0 +1,1 @@
+1. Kishës Ortodokse Autoqefale të Shqipërisë t’i kalohet në pronësi, pa shpërblim, trualli, me sipërfaqe 460 m2, që ndodhet në pjesën veriore të pronës së kësaj kishe, në qytetin e Tiranës, sipas genplanit, që i bashkëlidhet këtij vendimi.
