@@ -1,0 +1,1 @@
+4. Z.Flamur Laze, administrator i shoqërive huamarrëse, në administrim, “Nahlel”, “Beno”, fondacioni “Populli”, fondacioni “Xhaferi”, “Global Foods”, caktohet, gjithashtu, administrator i shoqërive huamarrëse “Fabiona” dhe “Univers”.
