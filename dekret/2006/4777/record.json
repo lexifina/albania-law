@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4126,
+  "title": "Për caktimin e datës së zgjedhjeve të pjesshme për kryetar komune në komunën Fajza, qarku Kukës",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "4777",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2006-02-14",
+  "published": "2006-02-20",
+  "in_force": "2006-02-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/94733bd6afdba3af26e773e4bfb2192a882909f1447a93bf350ffe204ddeba78.docx",
+  "source_sha256": "94733bd6afdba3af26e773e4bfb2192a882909f1447a93bf350ffe204ddeba78",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4126",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2006/02/14/4777",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
