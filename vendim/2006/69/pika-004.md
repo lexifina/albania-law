@@ -1,0 +1,1 @@
+4. Ministri i Mbrojtjes dhe Drejtori i Institutit të Sigurimeve Shoqërore, brenda 30 ditëve nga hyrja në fuqi e këtij vendimi, të nxjerrin udhëzimin e përbashkët dhe dokumentacionin tip për zbatimin e tij.

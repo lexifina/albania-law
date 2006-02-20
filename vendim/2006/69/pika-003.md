@@ -1,0 +1,1 @@
+3. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të cilat për vitin 2005 llogariten në shumën 7 000 000 (shtatë milionë) lekë, të përballohen nga buxheti i vitit 2006, miratuar për Institutin e Sigurimeve Shoqërore.
