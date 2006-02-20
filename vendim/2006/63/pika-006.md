@@ -1,0 +1,1 @@
+6. Koeficient për indeksimin e pensioneve të jetë koeficienti mesatar faktik, i vërtetuar gjatë vitit të mëparshëm. Koeficienti i indeksimit të pensioneve dhe data e fillimit të zbatimit miratohen me vendim të veçantë të Këshillit të Ministrave.
