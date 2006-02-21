@@ -1,0 +1,5 @@
+5. DETYRIME TË ADMINISTRATËS TATIMORE NDAJ TATIMPAGUESVE
+5.1 Shpërndarja pa kushte e formularëve dhe deklaratave
+Degët e Tatimeve duhet t’u shpërndajnë tatimpaguesve pa asnjë kusht Formularët e Deklarimit dhe Pagesave përpara kufijve kohorë të paraqitjes së tyre nga tatimpaguesit. Fakti i mosmarrjes së Formularit/rëve të Deklarimit dhe Pagesave prej tatimpaguesit apo përfaqësuesit të tij nuk do të thotë se ai përjashtohet nga detyrimi i paraqitjes së Formularit/rëve të Deklarimit dhe Pagesave të plotësuar. Çdo tatimpagues që nuk i ka marrë Formularin/ët e Deklarimit dhe Pagesave duhet t’i kërkojë ato në Degën e Tatimeve përkatëse.
+5.2 Konfirmimi i statusit të tatimpaguesit
+Degët e Tatimeve, sipas kërkesës të tatimpaguesit sipas formatit tip, forma e të cilit përcaktohet nga Drejtoria e Përgjithshme e Tatimeve, janë të detyruara të lëshojnë vërtetim për statusin tatimor të tatimpaguesit brenda 3 ditë pune nga data e kërkesës. Gjithë kërkesat ruhen në dosjen e tatimpaguesit bashkë me një kopje të vërtetimit të lëshuar.
