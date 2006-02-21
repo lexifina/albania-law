@@ -1,3 +1,0 @@
-8. DISPOZITA KALIMTARE
-Në zbatim të këtij neni, tatimpaguesit që përfitonin lehtësitë tatimore, sipas nenit 6 të ligjit nr. 7677, datë 03.03.1993 “Për tatimin mbi fitimin” do të vazhdojnë t’i gëzojnë ato në përputhje me dispozitat e atij ligji. Ndërsa subjektet e krijuar mbas datës së hyrjes në fuqi të Ligjit nr. 8438, datë 28.12.1998, nuk përfitojnë më lehtësi tatimore.
-Gjithashtu, do të gëzojnë lehtësitë tatimore dhe përjashtimet, të gjithë tatimpaguesit e parashikuar në Iigjet: nr. 7665, datë 21.1.1993 “Për zhvillimin e zonave që kanë përparësi turizmin”; nr 8098, datë 28.3.1996 “Për statusin e të verbërit” dhe me Dekretin nr. 782, datë 22.2.1994 “Për sistemin fiskal në sektorin e hidrokarbureve”.
