@@ -1,0 +1,1 @@
+3. Kanë të drejtë të kërkojnë që të vazhdojnë studimet në shkollat e larta publike, vetëm ata kandidatë, të cilët kanë kryer provimet e maturës shtetërore ose ekuivalentet e saj, për nxënësit, që kanë kryer arsimin e mesëm jashtë vendit.

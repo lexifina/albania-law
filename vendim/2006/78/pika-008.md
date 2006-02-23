@@ -1,0 +1,1 @@
+8. Për shkollat e larta ushtarake dhe për shkollat e larta të policisë kriteret e veçanta vendosen nga Ministri i Arsimit dhe i Shkencës dhe, përkatësisht, nga Ministri i Mbrojtjes e nga Ministri i Brendshëm, në përputhje me nenet 2, 3 e 8 të kreut I, të ligjit nr.8461, datë 25.2.1999 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar.

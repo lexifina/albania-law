@@ -1,0 +1,1 @@
+4. Ngritjen e Komitetit të Maturës Shtetërore, pranë Ministrisë së Arsimit dhe të Shkencës, për drejtimin dhe organizimin e provimeve të maturës shtetërore, përbërja dhe detyrat e të cilit caktohen me urdhër të Ministrit të Arsimit dhe të Shkencës.
