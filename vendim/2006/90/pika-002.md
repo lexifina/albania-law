@@ -1,0 +1,1 @@
+2. Ministria e Shëndetësisë të prokurojë fondin e përgjithshëm, të llogaritur si shumë e fondeve buxhetore, të miratuara për çdo ent varësie, në Buxhetin e Shtetit të vitit 2006, për materialet e përcaktuara në pikën 1 të këtij vendimi.

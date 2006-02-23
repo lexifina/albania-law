@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Shëndetësisë që, me fondet e miratuara në buxhetin e vitit 2006, të kryejë procedurat e prokurimit, në emër të institucioneve shëndetësore të varësisë, për furnizimin me pajisje mjekësore, medikamente, gaze mjekësore dhe materiale mjekësore konsumi, sipas nevojave, për këtë vit, të institucioneve shëndetësore.

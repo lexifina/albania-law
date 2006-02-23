@@ -1,0 +1,1 @@
+3. Kontratat me subjektet fituese, pas përfundimit të procedurave të prokurimit nga Ministria e Shëndetësisë, të lidhen nga institucionet, në emër të të cilave është zhvilluar prokurimi, për fondin e vënë në dispozicion dhe sipas nevojave të paraqitura prej tyre.
