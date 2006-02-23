@@ -1,1 +1,0 @@
-11. Efektet financiare, në shumën 3 919 626 (tre milionë e nëntëqind e nëntëmbëdhjetë mijë e gjashtëqind e njëzet e gjashtë) lekë, për pagat e personelit të Akademisë Diplomatike, të përballohen nga buxheti i Ministrisë së Punëve të Jashtme.
