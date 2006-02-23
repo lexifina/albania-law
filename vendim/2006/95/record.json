@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4145,
+  "title": "Për disa ndryshime në vendimin nr.15l, datë 25.4.2002 të Këshillit të Ministrave  “Për statusin “Dëshmor i Atdheut”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "95",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-02-15",
+  "published": "2006-02-23",
+  "in_force": "2006-02-23",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ace2509141a7265f7c8144b5a29f8b99aefe6c64f13a09b085be0306d32daed5.docx",
+  "source_sha256": "ace2509141a7265f7c8144b5a29f8b99aefe6c64f13a09b085be0306d32daed5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4145",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/02/15/95",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
