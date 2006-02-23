@@ -1,0 +1,1 @@
+3. Receta me rimbursim jepet për pacientët e siguruar, kundrejt një tarife prej 100 (njëqind) lekësh. Kjo tarifë paguhet nga pacienti në farmacinë/agjencitë farmaceutike të rrjetit të hapur, që kanë kontratë me ISKSH-në. Të ardhurat e realizuara kalojnë në llogari të ISKSH-së.

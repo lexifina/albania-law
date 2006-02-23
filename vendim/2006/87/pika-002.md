@@ -1,0 +1,1 @@
+2. Plotësimi i recetës me rimbursim bëhet sipas udhëzimeve të Ministrit të Shëndetësisë dhe Institutit të Sigurimeve të Kujdesit Shëndetësor, ndërsa ekzekutimi i saj bëhet në farmacitë/agjencitë farmaceutike të rrjetit të hapur, që kanë kontratë me ISKSH-në.
