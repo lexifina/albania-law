@@ -1,0 +1,7 @@
+L I G J
+Nr.9465, datë 19.1.2006
+PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË REPUBLIKËS ÇEKE PËR ZGJIDHJEN E BORXHIT TË SHQIPËRISË KUNDREJT REPUBLIKËS ÇEKE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 pika 1 shkronja “ç” të Kushtetutës, me propozimin e Këshillit të Ministrave,
+K U V E N D I
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
