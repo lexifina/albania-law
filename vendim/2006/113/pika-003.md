@@ -1,0 +1,1 @@
+3. Projektkontrata të mbështetet në projektin teknik, të hartuar nga korporata amerikane “Lockheed Martin Global Inc (LMGI)” dhe të miratuar nga komisioni i shqyrtimit të kërkesave të sistemeve dhe pajisjeve të modernizimit të Forcave të Armatosura të Republikës së Shqipërisë, i cili funksionon pranë Ministrisë së Mbrojtjes.

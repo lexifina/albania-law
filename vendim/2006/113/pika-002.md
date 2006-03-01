@@ -1,0 +1,1 @@
+2. Negociatorët e caktuar nga Ministri i Mbrojtjes, të negociojnë të gjitha kushtet e kontratës, duke përcaktuar lirisht përmbajtjen e saj, sipas Kodit Civil të Republikës së Shqipërisë dhe praktikave ndërkombëtare të së drejtës private.

@@ -1,0 +1,1 @@
+5. Ministria e Mbrojtjes të parashikojë në kontratë kryerjen e punimeve ndihmëse (civile), të nevojshme për ndërtimin e SIVHD-së, të cilat të përballohen nga struktura e nga buxheti i kësaj Ministrie.

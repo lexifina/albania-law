@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Mbrojtjes të përdorë procedurë të veçantë prokurimi, me korporatën amerikane “Lockheed Martin Global Inc (LMGI)”, për ndërtimin e Sistemit të Integruar të Vëzhgimit të Hapësirës Detare (SIVHD) të Republikës së Shqipërisë, si një vepër e veçantë e mbrojtjes dhe e sigurisë kombëtare.
