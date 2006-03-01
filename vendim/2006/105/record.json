@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4152,
+  "title": "Për një shtesë në vendimin nr.229, datë 23.4.2004 të Këshillit të Ministrave “Për ceremonialin zyrtar të Republikës së Shqipërisë",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "105",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-02-22",
+  "published": "2006-03-01",
+  "in_force": "2006-03-01",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4919a4f5639515ed0c0819a15bd3f76746071ea0074e2842a1c8de4a3ac7189b.docx",
+  "source_sha256": "4919a4f5639515ed0c0819a15bd3f76746071ea0074e2842a1c8de4a3ac7189b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4152",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/02/22/105",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
