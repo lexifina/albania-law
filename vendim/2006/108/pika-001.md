@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i nënstacionit 220/110/35 kV, Babicë, Vlorë, sipas tabelës, që i bashkëlidhet këtij vendimi.
