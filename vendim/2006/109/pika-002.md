@@ -1,0 +1,1 @@
+2. Përdoruesit jofamiljarë, ekzistues dhe të rinj, të energjisë elektrike, të lidhur me tension të ulët 0.4 kV dhe me fuqi të instaluar mbi 50 kW, janë të detyruar të marrin të gjitha masat, teknike dhe organizative, për të siguruar një faktor fuqie, jo më të vogël se 0.9 kV.

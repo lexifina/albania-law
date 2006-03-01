@@ -1,0 +1,1 @@
+1. Përdoruesit jofamiljarë, ekzistues dhe të rinj, të energjisë elektrike, të lidhur me tension të mesëm 35 kV, 20 kV, 10 kV dhe 6 kV, janë të detyruar të marrin të gjitha masat, teknike dhe organizative, për të siguruar një faktor fuqie, jo më të vogël se 0.9 kV.
