@@ -1,0 +1,1 @@
+1. Transferimi i fondeve nga shpenzimet korrente në kapitale dhe anasjelltas, pasi këta tregues janë miratuar në ligjin e buxhetit me tabela të veçanta dhe totali i tyre është pjesë e ligjit (neni 8 dhe 11).
