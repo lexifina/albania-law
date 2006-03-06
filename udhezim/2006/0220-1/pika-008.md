@@ -1,0 +1,1 @@
+8. Pronari ose posedues të tjerë të ligjshëm që kanë bërë kërkesën, i përballojnë shpenzimet e punës para fillimit të procedurave dhe paguajnë në llogari të Institutit të Studimit të Tokave, vlerën e analizave kimike që do të kryhen.

@@ -1,0 +1,1 @@
+5. Drejtoria e Menaxhimit të Tokës dhe të Ujërave, në MBUMK krijon grupin e ekspertëve me përbërje: dy specialistë të Institutit të Studimit të Tokave, (IST), një specialist i SAMT dhe një specialist i ZMMT në komunë dhe/ose bashki.
