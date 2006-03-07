@@ -1,0 +1,2 @@
+5. KONTROLLLI I PËRBASHKËT MBI REGJISTRIMIN DHE RESPEKTIMIN E DISPOZITAVE LIGJORE NGA TATIMPAGUESIT
+Punonjësit e degëve të tatimeve dhe zyrave të taksave nëpër bashki e komuna, me miratimin e titullarëve respektivë, mund të ndërmarrin aksione të përbashkëta për identifikimin dhe regjistrimin e bizneseve që rezultojnë të paregjistruara, si dhe për respektimin e afateve ligjore të derdhjes së këtyre detyrimeve. Në këto grupe mund të marrin pjesë dhe strukturat e policisë tatimore dhe ato bashkiake.
