@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4204,
+  "title": "Për disa shtesa në vendimin nr.335,  datë  23.6.2000 të Këshillit të Ministrave “Për rregullat e prokurimit publik, të ndryshuar...",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "127",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-03-02",
+  "published": "2006-03-09",
+  "in_force": "2006-03-09",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/089531e67c60537e29f7b4264df7ed5035230c969c5727e194de5cc42a23172c.docx",
+  "source_sha256": "089531e67c60537e29f7b4264df7ed5035230c969c5727e194de5cc42a23172c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4204",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/03/02/127",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
