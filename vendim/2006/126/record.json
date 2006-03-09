@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4203,
+  "title": "Për disa shtesa në vendimin nr.228, datë 23.4.2004 të Këshillit të Ministrave “Për rregullimin e veprimtarisë me jashtë të administratës shtetërore",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "126",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-03-02",
+  "published": "2006-03-09",
+  "in_force": "2006-03-09",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/5edeeeccb26d3106f8d990b4d5a7c089e277117f9af9592249fb17f095b48b4d.docx",
+  "source_sha256": "5edeeeccb26d3106f8d990b4d5a7c089e277117f9af9592249fb17f095b48b4d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4203",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/03/02/126",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
