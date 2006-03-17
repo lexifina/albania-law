@@ -1,0 +1,1 @@
+3. Kontrata e dhënies me qira të sipërfaqes ujore lidhet në datën efektive të dhënies së licencës, në të cilën përcaktohet qartë edhe sipërfaqja ujore, që jepet në përdorim për veprimtarinë e miratuar.

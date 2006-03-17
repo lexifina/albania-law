@@ -1,0 +1,1 @@
+2. Sipërfaqet ujore u jepen me qira personave juridikë e fizikë, vendas apo të huaj, që janë pajisur me licencë peshkimi dhe me leje mjedisore nga Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, në përputhje me planet e integruara të zhvillimit të zonës (bregdetare apo liqenore).

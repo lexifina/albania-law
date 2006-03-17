@@ -1,0 +1,1 @@
+5. Afati i kontratës për dhënien me qira të sipërfaqes ujore është i njëjtë me kohëzgjatjen e licencës. Subjektet e pajisura me licencë, para hyrjes në fuqi të këtij vendimi janë të detyruara të lidhin kontratën e qirasë, brenda 3 muajve nga hyrja në fuqi e këtij vendimi, dhe vlefshmëria e kontratës do të jetë deri në mbarimin e afatit të përcaktuar në licencë.

@@ -1,0 +1,1 @@
+8. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave ka të drejtë ta prishë kontratën përpara mbarimit të saj kur, për shkak të ndryshimit të cilësisë së ujërave nga veprimtaria e akuakulturës, subjektit i hiqet leja mjedisore.

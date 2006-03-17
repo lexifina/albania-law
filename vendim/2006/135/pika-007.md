@@ -1,0 +1,1 @@
+7. Për vitin e parë vlera e qirasë paguhet në çastin e nënshkrimit të kontratës, ndërsa për vitet pasardhëse paguhet në datën e vendosur në kontratë, e cila parashikon edhe penalitetet për shkelje të afatit të pagesës.
