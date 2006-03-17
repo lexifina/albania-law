@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4164,
+  "title": "Për një shtesë në ligjin nr.8527, datë 23.9.1999 “Për privatizimin e hidrocentraleve vendore",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9470",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-02-02",
+  "published": "2006-03-02",
+  "in_force": "2006-03-17",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/22edcdc8228f20f2fb5cc377b3dd7b7bf0f111e08ff42495ebc9b0a04f77b917.docx",
+  "source_sha256": "22edcdc8228f20f2fb5cc377b3dd7b7bf0f111e08ff42495ebc9b0a04f77b917",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4164",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/02/02/9470",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
