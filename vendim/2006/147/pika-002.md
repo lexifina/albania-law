@@ -1,0 +1,1 @@
+2. Ministria e Arsimit dhe e Shkencës të prokurojë fondin e përgjithshën, të llogaritur si shumë e fondeve buxhetore, të miratuara për çdo ent varësie, në Buxhetin e Shtetit të vitit 2006, për ndërtimet, rikonstruksionet, si dhe mallrat e përcaktuara në listën, që i bashkëlidhet këtij vendimi.
