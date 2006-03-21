@@ -1,0 +1,1 @@
+1. Miratimin e listës paraprake të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Ura Vajgurore të qarkut të Beratit, sipas lidhjes 1 që i bashkëlidhet këtij vendimi.
