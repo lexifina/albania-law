@@ -1,0 +1,3 @@
+7. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2006, në titullin 085 “Enti i turizmit”, nga fondi rezervë i Këshillit të Ministrave, t’i shtohet fondi prej 116 405 634 (njëqind e gjashtëmbëdhjetë milionë e katërqind e pesë mijë e gjashtëqind e tridhjetë e katër) lekësh, nga i cili:
+- 42 876 644 (dyzet e dy milionë e tetëqind e shtatëdhjetë e gjashtë mijë e gjashtëqind e dyzet e katër) lekë në zërin “Paga e sigurimeve shoqërore” për pagesën e punonjësve.
+- 73 529 000 (shtatëdhjetë e tre milionë e pesëqind e njëzet e nëntë mijë) lekë në zërin “Shpenzime operative” për mbulimin e detyrimeve ndaj të tretëve.

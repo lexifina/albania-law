@@ -1,0 +1,1 @@
+2. Punonjësit e ndërmarrjes shtetërore hotel “Dajti”, që dalin të papunë nga mbyllja e veprimtarisë ekonomiko-financiare të kësaj ndërmarrjeje, përfitojnë të drejtën e pagesës, për pagën bruto, për dy vjet në rast se kanë mbi tre vjet vjetërsi pune, dhe për një vit nëse kanë më pak se tre vjet vjetërsi pune duke filluar nga hyrja në fuqi e këtij vendimi.

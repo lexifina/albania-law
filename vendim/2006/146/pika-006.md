@@ -1,0 +1,1 @@
+6. Detyrimet kontabile kreditore, që të tretët kanë ndaj ndërmarrjes deri në çastin e mbylljes së veprimtarisë, në shumën 12 845 000 (dymbëdhjetë milionë e tetëqind e dyzet e pesë mijë) lekë, sipas aneksit nr.2 që i bashkëlidhet këtij vendimi, të ndiqen për t’u arkëtuar nga Enti i Turizmit. Fondet e arkëtuara të derdhen tërësisht në Buxhetin e Shtetit.

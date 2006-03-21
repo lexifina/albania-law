@@ -1,0 +1,1294 @@
+# Shtojca
+Aneksi nr.1
+Detyrimet e ndërmarrjes hotel “Dajti” ndaj të tretëve
+KESH
+18 816 000 lekë
+Sigurime shoqërore
+26 724 000 lekë
+Ujësjellësi
+9 923 000 lekë
+Albetelecom
+4 102 000 lekë
+Taksa të pushtetit vendor
+11 957 000 lekë
+Genc Reci
+965 275 lekë
+Nikolla Qirko
+41 950 lekë
+Idriz Celo
+117 810 lekë
+Firma “Patrik klim”
+195 000 lekë
+Dega e karburantit “Albpetrol”
+464 000 lekë
+Firma “Dado”
+77 500 lekë
+Sanie Tafa
+120 000 lekë
+Sokrat Bozo
+5 925 lekë
+Firma duble (Florian Ciko)
+20 000 lekë
+Shuma
+73 529 000 lekë
+Aneksi nr.2
+Detyrimet që të tretë kanë ndaj ndërmarrjes hotel “Dajti”
+Nga qiratë
+Gjithsej
+Taverna Dajti
+9 760 000 lekë
+Programi Phare
+683 000 lekë
+Agjencia Jat
+210 000 lekë
+Shoqata e të përndjekurve politikë
+100 000 lekë
+10 753 000 lekë
+Debitorë nga aktivitetet
+Partia Socialiste
+48 000 lekë
+Ministria e Kulturës
+840 000 lekë
+Federata e volejbollit
+234 000 lekë
+Teatri Kombëtar
+516 000 lekë
+Ministria e Arsimit
+35 000 lekë
+Ministria e Turizmit
+214 000 lekë
+Akademia e Shkencave
+32 000 lekë
+Tetri i Operas
+32 000 lekë
+Shkolla e Magjistraturës
+39 000 lekë
+Qendra bamirëse “Memaliaj”
+102 000 lekë
+2 092 000 lekë
+Gjithsej detyrimet që i kanë të tretët kësaj ndërmarrjeje janë në shumën 12 845 000 lekë.
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TURIZMIT, KULTURËS, RINISË DHE SPORTEVE
+NDËRMARRJA HOTEL “DAJTI”
+TABELA E EFEKTEVE FINANCIARE PËR PAGA+SIG.SHOQËRORE
+PERIUDHA 2-VJEÇARE
+Nr
+Emri mbiemri
+Vj. në “Dajti”
+Pag. mujore
+Pag. vjetore
+Pag. 2-vjeçare
+Sig. shoq
+Sig 1-vjeçar
+Sig 2-vjeçar
+Totali sig+pag
+1
+2=1x12 muaj
+3=2x2 vjet
+4
+(30.794x12 muaj)
+5=4x 24 muaj
+6=3+5
+Prokop Zoraqi
+3
+65000
+78 000
+1560000
+19209
+451016
+2021016
+1
+Elderina Bardhi (Ndoja)
+6
+52000
+624 000
+1248000
+15964
+383136
+1631136
+2
+Nexhmie Shehu
+2
+25000
+300000
+7675
+92100
+392100
+3
+Florand Perolla
+3
+18000
+216000
+432000
+5526
+132624
+564624
+4
+Hyrie Daja
+3
+52000
+624000
+1248000
+15964
+383136
+1631136
+5
+Suzana Kote
+36
+25000
+300000
+600000
+7675
+184200
+784200
+6
+Elisabeta Balilaj
+23
+22000
+264000
+528000
+6754
+162096
+690096
+7
+Asije Jaupaj
+6
+20000
+240000
+480000
+6140
+147360
+627360
+8
+Diana Teneqexhi
+18
+14000
+168000
+336000
+4298
+103152
+439152
+9
+Shpresa Toto
+16
+14000
+168000
+336000
+4298
+103152
+439152
+10
+Enver Ramobanaj
+15
+20000
+240000
+480000
+6140
+147360
+627360
+11
+Selim Ballabani
+6
+18000
+216000
+432000
+5526
+132624
+564624
+12
+Marjana Meci
+7
+25000
+300000
+600000
+7675
+184200
+784200
+13
+Shpresa Zylfo
+13
+14000
+168000
+336000
+4298
+103152
+439152
+14
+Majlinda Lakra
+18
+14000
+168000
+336000
+4298
+103152
+439152
+15
+Artan Reci
+17
+14000
+168000
+336000
+4298
+103152
+439152
+16
+Bruno Marku
+13
+14000
+168000
+336000
+4298
+103152
+439152
+17
+Donika Qefalia
+12
+12514
+150168
+300336
+3842
+92203
+392539
+18
+Drita Oshafi
+12
+12514
+150168
+300336
+3842
+92203
+392539
+19
+Manushaqe Shaba
+17
+12514
+150168
+300336
+3842
+92203
+392539
+20
+Manushaqe Dule
+7
+12514
+150168
+300336
+3842
+92203
+392539
+21
+Fatbardha Hoxha
+12
+12514
+150168
+300336
+3842
+92203
+392539
+22
+Ariana Qordja
+18
+21000
+252 000
+504000
+6447
+154728
+658728
+23
+Emine Haxhillari
+27
+12514
+150168
+300336
+3842
+92203
+392539
+24
+Fatmira Xhepaxhi
+36
+12514
+150168
+300336
+3842
+92203
+392539
+25
+Myzejen Reka
+6
+12514
+150168
+300336
+3842
+92203
+392539
+26
+Violeta Gjurgjaj (Gjergji)
+23
+12514
+150168
+300336
+3842
+92203
+392539
+27
+Merita Tresa
+17
+12514
+150168
+300336
+3842
+92203
+392539
+28
+Vera Ibrahimi
+17
+12514
+150168
+300336
+3842
+92203
+392539
+29
+Hava Koci
+24
+15000
+180000
+360000
+4605
+110520
+470520
+30
+Qerime Balla
+19
+12514
+150168
+300336
+3842
+92203
+392539
+31
+Lavdie Cipi
+35
+12514
+150168
+300336
+3842
+92203
+392539
+33
+Krenar Mema
+15
+52000
+624000
+1248000
+15964
+383136
+1631136
+34
+Besnik Mema
+20
+32000
+384000
+768000
+9824
+235776
+1003776
+35
+Deliko Bellani
+33
+18000
+216000
+4320000
+5526
+132624
+564624
+36
+Hava Hajderlliu
+32
+18000
+216000
+4320000
+5526
+132624
+564624
+37
+Sanie Cuka
+30
+18000
+216000
+4320000
+5526
+132624
+564624
+38
+Tatjana Bushi (Ndini)
+32
+15000
+180000
+36000
+4605
+110520
+470520
+39
+Leme Kaloshi
+3
+12514
+150168
+300336
+3842
+92203
+392539
+40
+Liljana Allushi
+26
+13000
+156000
+312000
+3991
+9574
+407784
+41
+Dhimitraq Kote
+40
+28000
+336000
+672000
+8596
+206304
+878304
+42
+Skënder Topi
+33
+13000
+216000
+432000
+5526
+132624
+564624
+43
+Fatos Bajo
+33
+17000
+204000
+408000
+5219
+125256
+533256
+44
+Flamur Baci
+15
+12514
+150168
+300336
+3842
+92203
+392539
+45
+Vjollca Rodi
+27
+15000
+180000
+36000
+4605
+110520
+470520
+46
+Kostandina Mece
+26
+13000
+156000
+312000
+3991
+95784
+407784
+47
+Ilda Nikolla
+17
+13000
+156000
+312000
+3991
+95784
+407784
+48
+Irena Qori
+20
+12514
+150168
+300336
+3842
+92203
+392539
+49
+Roland Lako
+8
+13000
+156000
+312000
+3991
+95784
+407784
+50
+Marcela Hyka
+27
+12514
+150168
+300336
+3842
+92203
+392539
+51
+Alie Mazi
+8
+12514
+150168
+300336
+3842
+92203
+392539
+52
+Jashar Alimeri
+17
+20000
+240000
+480000
+6140
+147360
+627360
+52
+Gëzim Ajazi
+6
+12514
+150168
+300336
+3842
+92203
+392539
+54
+Dhurata Kuqi
+23
+13000
+156000
+312000
+3991
+95784
+407784
+55
+Semiha Sorra
+32
+15000
+180000
+360000
+4605
+110520
+470520
+56
+Fatma Çashku
+19
+12514
+150168
+300336
+3842
+92203
+392539
+57
+Meliha Vogli
+18
+12514
+150168
+300336
+3842
+92203
+392539
+58
+Pjetër Nika
+4
+52000
+624000
+128000
+15964
+383136
+1631136
+59
+Pirro Bucka
+14
+12514
+150168
+300336
+3842
+92203
+392539
+60
+Fatmir Brari
+3
+12514
+150168
+300336
+3842
+92203
+392539
+61
+Musa Balla
+3
+12514
+150168
+300336
+3842
+92203
+392539
+62
+Edvan Goxhamani
+3
+12514
+150168
+300336
+3842
+92203
+392539
+63
+Hasan Kazasi
+13
+12514
+150168
+300336
+3842
+92203
+392539
+64
+Arjan Pulaj
+8
+12514
+150168
+300336
+3842
+92203
+392539
+65
+Edmond Xhediku
+15
+13 000
+156000
+312000
+3991
+95784
+407784
+66
+Qemal Jella
+14
+12514
+150168
+300336
+3842
+92203
+392539
+67
+Ismet Sula
+5
+12514
+150168
+300336
+3842
+92203
+392539
+68
+Feim Aliaj
+16
+12514
+150168
+300336
+3842
+92203
+392539
+69
+Bujar Mema
+8
+12514
+150168
+300336
+3842
+92203
+392539
+70
+Kujtim Shefqeti
+13
+20 000
+240000
+480000
+6140
+147360
+627360
+71
+Ylli Meta
+6
+18 000
+216000
+432000
+5526
+132624
+564624
+72
+Besim Durishti
+23
+20 000
+240000
+480000
+6140
+147360
+627360
+73
+Sabri Zylfo
+15
+18 000
+216000
+432000
+5526
+132624
+564624
+74
+Nevruz Uku
+17
+12514
+150168
+300336
+3842
+92203
+392539
+75
+Besnik Katroshi
+39
+12514
+150168
+300336
+3842
+92203
+392539
+76
+Gëzim Gazheli
+10
+13 000
+156000
+312000
+3991
+95784
+407784
+77
+Vladimir Pinderi
+24
+20 000
+240000
+480000
+6140
+147360
+627360
+Shuma
+1379962
+16559544
+32519088
+422902
+92100
+9965456
+42876644
+REPUBLIKA E SHQIPËRISË
+NDËRMARRJA HOTEL “DAJTI”
+TIRANË
+Lënda: Të dhënat financiare për trajtimin e punonjësve të ndërmarrjes hotel “Dajti”
+Drejtorisë Juridike
+MTKRS
+Bashkëlidhur po ju dërgojmë dokumentacionin e efekteve financiare për trajtimin e punonjësve që do të dalin të papunë nga mbyllja e ndërmarrjes hotel “Dajti”
+1
+Paga
+Sigurime shoqërore
+Vjet në punë
+32819088 lekë
+10057556
+10854743 lekë
+2
+totali
+53731387
+REPUBLIKA E SHQIPËRISË
+NDËRMARRJA HOTEL “DAJTI”
+Lënda: Të dhënat financiare për trajtimin e punonjësve të ndërmarrjes hotel Dajti që kanë më pak se tre vjet pune në hotel “Dajti”
+Emri mbiemri
+Vjet në punë
+Paga bruto
+Paga vjetore
+Sigurime shoqërore
+Sigurimi vjetor
+Nexhmie Shehu
+2 vjet
+25 000
+300 000
+7675
+92100
+Totali
+392 100
+Emri
+Mbiemri
+Paga mujore
+Pag.15-ditore
+Vjetërsia në “Dajti”
+Pagë x vjetërsi
+Prokop
+Zoraqi
+65000
+32 500
+3
+97500
+Elderina
+Bardhi
+52000
+26 000
+6
+156000
+Nexhmije
+Shehu
+25000
+12500
+2
+25000
+Florand
+Perolla
+18000
+9000
+3
+27000
+Hyrie
+Daja
+52000
+26 000
+3
+78000
+Suzana
+Kote
+25000
+12500
+36
+450000
+Elisabeta
+Balilaj
+22000
+11000
+23
+253000
+Asije
+Jaupaj
+20000
+10 000
+6
+60000
+Diana
+Teneqexhi
+14000
+7000
+18
+126000
+Shpresa
+Toto
+14000
+7000
+16
+112000
+Enver
+Ramobanaj
+20000
+10 000
+15
+150000
+Selim
+Ballabani
+18000
+9000
+6
+54000
+Marjana
+Meci
+25000
+12500
+7
+87500
+Shpresa
+Zylfo
+14000
+7000
+13
+91000
+Majlinda
+Lakra
+14000
+7000
+18
+126000
+Artan
+Reci
+14000
+7000
+17
+119000
+Bruno
+Marku
+14000
+7000
+13
+91000
+Donika
+Qefalia
+12514
+6257
+12
+75084
+Drita
+Oshafi
+12514
+6257
+12
+75084
+Manushaqe
+Shaba
+12514
+6257
+17
+106369
+Manushaqe
+Dule
+12514
+6257
+7
+43799
+Fatbardha
+Hoxha
+12514
+6257
+12
+75084
+Ariana
+Qordia
+21 000
+10500
+18
+189000
+Emine
+Haxhillari
+12514
+6257
+27
+168929
+Fatmira
+Xhepaxhia
+12514
+6257
+36
+225252
+Myzejen
+Reka
+12514
+6257
+6
+37542
+Violeta
+Gjurgjaj (Gjergji)
+12514
+6257
+23
+143911
+Merita
+Tresa
+12514
+6257
+17
+106369
+Vera
+Ibrahimi
+12514
+6257
+17
+106369
+Hava
+Koci
+15000
+7500
+24
+180000
+Qerime
+Balla
+12514
+6257
+19
+118883
+Lavdie
+Cipi
+12514
+6257
+35
+218995
+Krenar
+Mema
+52000
+26000
+15
+390000
+Besnik
+Mema
+32000
+16000
+20
+320000
+Deliko
+Bellani
+18000
+9000
+33
+297000
+Hava
+Hajderlliu
+18000
+9000
+32
+288000
+Sanie
+Cuka
+18000
+9000
+30
+270000
+Tatjana
+Bushi
+15000
+7500
+32
+240000
+Leme
+Kaloshi
+12514
+6257
+3
+18771
+Liljana
+Allushi
+13 000
+6500
+26
+169000
+Dhimitraq
+Kote
+28 000
+14000
+40
+560000
+Skënder
+Topi
+18 000
+9000
+33
+297000
+Fatos
+Bajo
+17 000
+8500
+33
+280500
+Flamur
+Baci
+12514
+6257
+15
+93855
+Vjollca
+Rodi
+15000
+7500
+27
+202500
+Kostandina
+Meci
+13000
+6500
+26
+169000
+Ilda
+Nikolla
+13000
+6500
+17
+110500
+Irena
+Qorri
+12514
+6257
+20
+125140
+Roland
+Lako
+13000
+6500
+8
+52000
+Marcela
+Hyka
+12514
+6257
+27
+168939
+Alie
+Mazi
+12514
+6257
+8
+50056
+Jashar
+Alimeri
+20000
+10000
+17
+170 000
+Gëzim
+Ajazi
+12514
+6257
+6
+37542
+Dhurata
+Kuqi
+13000
+6500
+23
+149500
+Semiha
+Sorra
+15000
+7500
+32
+240000
+Fatma
+Çashku
+12514
+6257
+19
+118883
+Meliha
+Vogli
+12514
+6257
+18
+112626
+Pjetër
+Nika
+52000
+26000
+4
+104000
+Pirro
+Bucka
+12514
+6257
+14
+87598
+Fatmir
+Brari
+12514
+6257
+3
+18771
+Musa
+Balla
+12514
+6257
+3
+18771
+Edvan
+Goxhamani
+12514
+6257
+3
+18771
+Hasan
+Kazasi
+12514
+6257
+13
+81341
+Arjan
+Pulaj
+12514
+6257
+8
+50056
+Edmond
+Xhediku
+13000
+6500
+15
+97500
+Qemal
+Jella
+12514
+6257
+14
+87598
+Ismet
+Sula
+12514
+6257
+5
+31285
+Feim
+Aliaj
+12514
+6257
+16
+100112
+Bujar
+Mema
+12514
+6257
+8
+50056
+Kujtim
+Shefqeti
+20000
+10000
+13
+130000
+Ylli
+Meta
+18000
+9000
+6
+54000
+Besim
+Durishti
+20000
+10000
+23
+230000
+Sabri
+Zylfo
+18000
+9000
+15
+135000
+Nevruz
+Uku
+12514
+6257
+17
+106369
+Besnik
+Katroshi
+12514
+6257
+39
+244023
+Gëzim
+Gazheli
+13000
+6500
+10
+65000
+Vladimir
+Pinderi
+20000
+10000
+24
+240000
+Totali
+10854743

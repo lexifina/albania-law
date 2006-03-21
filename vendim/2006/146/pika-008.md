@@ -1,0 +1,1 @@
+8. Ndryshimin e përgjegjësisë së administrimit të ndërtesës së ndërmarrjes shtetërore hotel “Dajti”, nga Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve te Ministria e Punëve të Jashtme, për t’u përdorur si seli për këtë Ministri.

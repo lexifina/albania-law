@@ -1,0 +1,1 @@
+5. Detyrimet kontabile, që ndërmarrja ka ndaj të tretëve deri në çastin e mbylljes së veprimtarisë, në shumën 73 529 000 (shtatëdhjetë e tre milionë e pesëqind e njëzet e nëntë mijë) lekë, sipas aneksit nr.1 që i bashkëlidhet këtij vendimi, të përballohen nga fondi rezervë i Këshillit të Ministrave.

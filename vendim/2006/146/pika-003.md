@@ -1,0 +1,1 @@
+3. Enti i Turizmit, si institucion buxhetor në varësi të Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve, të bëjë likuidimin e shumave të pagesave përkatëse, në bazë të listëpagesave që i bashkëlidhen këtij vendimi.
