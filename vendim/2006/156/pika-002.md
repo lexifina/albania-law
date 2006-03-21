@@ -1,0 +1,1 @@
+2. Shkolla e lartë universitare, jopublike “Justiniani I”, me seli qendrore në Tiranë (rruga “Hajdar Hidi”), do të ketë vetëm Fakultetin e Drejtësisë (4 vite akademike) dhe në mbarim do të japë diplomën universitare “Jurist”.
