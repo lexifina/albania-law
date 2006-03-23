@@ -1,0 +1,2 @@
+# Neni 1
+Republika e Shqipërisë aderon në “Marrëveshjen ndërmjet Republikës së Austrisë, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Çekisë, Republikës së Hungarisë, Republikës së Polonisë, Republikës së Rumanisë, Republikës së Sllovakisë dhe Republikës së Sllovenisë për mbështetjen e bashkëpunimit në fushën e arsimit të lartë, në kuadër të programit të shkëmbimeve të studimeve universitare për Europën Qendrore (CEEPUS) II”.
