@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4208,
+  "title": "Për një ndryshim në ligjin nr.8438, datë 28.12.1998 “Për tatimin mbi të ardhurat”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9483",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-02-16",
+  "published": "2006-03-17",
+  "in_force": "2006-04-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/65fb9321e865c64290180f43f1df1f842d8a8c1e6c95474fcb9292d500d4dce2.docx",
+  "source_sha256": "65fb9321e865c64290180f43f1df1f842d8a8c1e6c95474fcb9292d500d4dce2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4208",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/02/16/9483",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
