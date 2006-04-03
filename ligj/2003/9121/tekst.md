@@ -4,7 +4,7 @@ Nr.9121, datë 28.7.2003
 
 PËR MBROJTJEN E KONKURRENCËS
 
-(Ndryshuar me ligjin nr. 9499, datë 3.4.2006)
+(Ndryshuar me ligjin nr. 9499, datë 3.4.2006; nr. 10 317, datë 16.9.2010)
 
 (i përditësuar)
 
@@ -30,17 +30,25 @@ Neni 2
 
 Fusha e zbatimit
 
+(Shtuar shkronjat “c” dhe “ç” në pikën 1 me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Ky ligj zbatohet për:
 
 a)  ndërmarrjet dhe grupimet e ndërmarrjeve, të cilat, në mënyrë të drejtpërdrejtë ose të tërthortë, ndikojnë ose mund të ndikojnë në treg;
 
-b) të gjitha subjektet e përcaktuara në këtë pikë, që e ushtrojnë veprimtarinë në territorin e Republikës së Shqipërisë, si dhe për ato që e ushtrojnë veprimtarinë jashtë këtij territori, nëse pasojat e kësaj veprimtarie ndihen në tregun e brendshëm.
+b) të gjitha subjektet e përcaktuara në këtë pikë, që e ushtrojnë veprimtarinë në territorin e Republikës së Shqipërisë, si dhe për ato që e ushtrojnë veprimtarinë jashtë këtij territori, nëse pasojat e kësaj veprimtarie ndihen në tregun e brendshëm;
+
+c) ndërmarrjet publike dhe ndërmarrjet, të cilave u janë dhënë nga shteti të drejta ekskluzive ose të drejta të veçanta;  
+
+ç)  ndërmarrjet, të cilave u është dhënë e drejta e ushtrimit të veprimtarisë në fushën e shërbimeve me interes ekonomik të përgjithshëm apo ato, të cilat kanë karakterin e monopoleve të orientuara drejt sigurimit të të ardhurave, për sa kohë dhe në atë masë që në ligj dhe në fakt  nuk pengohet veprimtaria e tyre.
 
 2. Ky ligj nuk zbatohet për marrëdhëniet ndërmjet punëdhënësve e punëmarrësve dhe për marrëdhëniet që janë objekt i një kontrate kolektive ndërmjet punëdhënësve dhe sindikatave.
 
 Neni 3
 
 Përkufizime
+
+(Ndryshuar pikat 4 dhe 5  në pikë me ligjin nr. 10 317, datë 16.9.2010)
 
 Në këtë ligj, termat e mëposhtëm kanë këto kuptime:
 
@@ -50,9 +58,9 @@ Në këtë ligj, termat e mëposhtëm kanë këto kuptime:
 
 3."Veprimtari ekonomike" është veprimtaria prodhuese, tregtare, financiare ose profesionale, që shoqërohet me blerjen dhe shitjen e mallrave dhe/ose me ofrimin apo përftimin e shërbimeve.
 
-4. "Marrëveshje" janë marrëveshjet e çdo forme, të lidhura ndërmjet ndërmarrjeve, me ose pa forcë detyruese, vendimet ose rekomandimet e grupimeve të ndërmarrjeve, si dhe praktikat e bashkërenduara ndërmjet ndërmarrjeve, të cilat veprojnë në të njëjtin nivel, pra marrëveshje horizontale ose në nivele të ndryshme, pra marrëveshje vertikale, të tregut.
+4. “Marrëveshje” janë marrëveshjet dhe/ose praktikat e bashkërenduara ndërmjet dy apo më shumë ndërmarrjeve, si dhe vendimet ose rekomandimet e grupimeve të ndërmarrjeve, pavarësisht nga forma, e shkruar ose jo, apo nga forca detyruese e tyre.
 
-5. "Pozitë dominuese" është pozita e një ose më shumë ndërmarrjeve, që i lejon ato të jenë të afta të veprojnë, për sa i takon ofertës ose kërkesës, në mënyrë të pavarur nga pjesëmarrësit e tjerë në treg, si: konkurrentët, klientët ose konsumatorët.
+5. “Pozitë dominuese” është ajo fuqi ekonomike e mbajtur nga një ose më shumë ndërmarrje, që i jep atyre mundësinë për të penguar konkurrencën efektive në treg, duke i bërë ato të afta të veprojnë, për sa i takon ofertës ose kërkesës, në mënyrë të pavarur nga pjesëmarrësit e tjerë në treg, si konkurrentët, klientët ose konsumatorët.
 
 6. "Produkt" është çdo mall, i shitur ose i blerë, ose çdo shërbim i ofruar apo i përftuar në treg nga ndërmarrjet.
 
@@ -74,6 +82,8 @@ Neni 4
 
 Marrëveshjet e ndaluara
 
+(Ndryshuar shkronja “ç” e pikës 1 me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Ndalohen të gjitha marrëveshjet, të cilat kanë si objekt ose si pasojë pengimin, kufizimin ose shtrembërimin e konkurrencës në treg, veçanërisht marrëveshjet që:
 
 a) caktojnë, në mënyrë të drejtpërdrejtë ose të tërthortë, çmimet e blerjes ose të shitjes, apo çdo kusht tjetër tregtimi; 
@@ -82,7 +92,7 @@ b) kufizojnë ose kontrollojnë prodhimin, tregjet, zhvillimin teknik ose invest
 
 c) ndajnë tregjet ose burimet e furnizimit; 
 
-ç) zbatojnë kushte të ndryshme për transanksione të njëjta me palë të tjera tregtare, duke i vendosur ato në gjendje të pafavorshme konkurrence; 
+ç) në marrëdhëniet tregtare me palët e tjera, zbatojnë kushte të ndryshme për transaksione të njëjta, duke i vendosur ato në gjendje të pafavorshme konkurrence; 
 
 d) kushtëzojnë lidhjen e kontratave me pranimin nga palët e tjera kontraktuese të detyrimeve shtesë që, për nga natyra ose nga përdorimi i tyre tregtar, nuk kanë lidhje me objektin e këtyre kontratave.
 
@@ -90,55 +100,35 @@ d) kushtëzojnë lidhjen e kontratave me pranimin nga palët e tjera kontraktues
 
 Neni 5
 
-Përjashtimi i marrëveshjeve horizontale
+Përjashtimi individual i marrëveshjeve
 
-1. Marrëveshjet horizontale, veçanërisht marrëveshjet, të cilat kanë si objekt ose si pasojë racionalizimin ose specializimin e veprimtarisë ekonomike, kërkimin dhe zhvillimin e produkteve ose proceseve, blerjen ose shitjen e përbashkët të produkteve nga dhe te një burim i vetëm, mund të përjashtohen nga ndalimi i parashikuar në nenin 4, për shkak të efiçençës ekonomike.
+ (Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-2. Marrëveshjet justifikohen për shkak të  efiçencës ekonomike nëse plotësohen këto kushte:
+Mund të përjashtohet nga zbatimi i pikës 1 të nenit 4 çdo marrëveshje, e cila kontribuon në përmirësimin e prodhimit ose të shpërndarjes së produkteve ose në nxitjen e progresit teknologjik apo ekonomik, nëse një pjesë e mjaftueshme e këtyre përfitimeve shkon në favor të klientëve e të konsumatorëve dhe kur:
 
-a) ulja e kostos së prodhimit ose të shpërndarjes, rritja e rendimentit, përmirësimi i produkteve ose proceseve të prodhimit, nxitja e kërkimit për zhvillimin dhe përhapjen e njohurive teknike e profesionale, shfrytëzmi i  burimeve në mënyrë më racionale ose nxitja e zhvillimit të ndërmarrjeve të vogla dhe të mesme, rezultate këto që  nuk mund të arrihen ndryshe; 
+1. Nuk përmban kufizime të veprimtarive të ndërmarrjeve pjesëmarrëse, që nuk janë të domosdoshme për të arritur objektivat e sipërpërmendur; 
 
-b) pjesëmarrja më e drejtë në këtë përfitim nga ana e konsumatorëve ose e përdoruesve; 
-
-c) moskufizimi i ndjeshëm i konkurrencës.
+2. Nuk kufizon, në mënyrë të ndjeshme, konkurrencën në lidhje me produktet apo shërbimet, objekt i këtyre marrëveshjeve.
 
 Neni 6
 
-Përjashtimi i marrëveshjeve vertikale
+Përjashtimi i kategorive të marrëveshjeve
 
-1. Marrëveshjet vertikale mund të përjashtohen nga ndalimi i parashikuar në nenin 4 të këtij ligji, për shkak të efiçencës ekonomike, veçanërisht kur kanë si objekt ose si pasojë:
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-a) kufizimin e shitjeve me kontakte të drejtpërdrejta brenda një territori ekskluziv ose ndaj një grupi klientësh ekskluzivë, të rezervuar për vetë furnizuesin ose për një shpërndarës tjetër të autorizuar nga furnizuesi, nëse një marrëveshje e tillë nuk kufizon shitjet e klientëve të shpërndarësit; 
-
-b) kufizimin e shitjeve përdoruesve të fundit nga shpërndarësi, që vepron në nivelin e tregtisë me shumicë; 
-
-c) kufizimin e shitjeve shpërndarësve të paautorizuar nga anëtarët e një sistemi shpërndarjeje, në të cilin ndërmarrjet furnizuese, në mënyrë të drejtpërdrejtë ose të tërthortë, u shesin produktet e kontraktuara shpërndarësve të përzgjedhur në bazë të kritereve të caktuara; 
-
-ç) kufizimin e së drejtës të shpërndarësve për t'u shitur pjesë përbërëse klientëve, të cilët i përdorin ato për prodhimin e produkteve të ngjashme me ato të furnizuesit.
-
-2. Parashikimet e nenit 5 pika 2 të këtij ligji zbatohen edhe për pikën 1 të këtij neni.
+Komisioni miraton rregullore për kategoritë e marrëveshjeve që përjashtohen nga ndalimi i parashikuar në pikën 1 të nenit 4. Në këto rregullore përcaktohen me hollësi kushtet që duhet të përmbushin marrëveshjet, për të përfituar nga përjashtimi i ndalimit të parashikuar në pikën 1 të nenit 4.
 
 Neni 7
 
-Përjashtimi i marrëveshjeve të licencës
+Marrëveshjet me rëndësi të vogël 
 
-1. Marrëveshjet e licencës dhe të shitjes së të drejtave të pronësisë industriale mund të përjashtohen nga ndalimi i parashikuar në nenin 4 të këtij ligji nëse:
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-a) liria tregtare e blerësit, e të licencuarit ose e ndërmarrjeve të tjera nuk kufizohet pa të drejtë dhe 
+Mund të përjashtohen nga zbatimi i pikës 1 të nenit 4 ato marrëveshje, të cilat nuk e kufizojnë ndjeshëm konkurrencën në treg, në rast se pjesa e tregut e të gjitha ndërmarrjeve së bashku, pjesëmarrëse në këtë marrëveshje, nuk tejkalon: 
 
-b) konkurrenca në treg nuk kufizohet ndjeshëm.
+a) 10 për qind të tregut përkatës, ku pjesëmarrësit janë konkurrentë aktualë ose potencialë; 
 
-2. Nuk ndalohen, sipas nenit 4, angazhimet që kufizojnë blerësin ose të licencuarin, për aq kohë sa këto kufizime nuk tejkalojnë periudhën e së drejtës së blerë ose të së drejtës që përbën objektin e licencës, në mënyrë të veçantë kur:
-
-a) justifikohen nga interesat e shitësit ose të licencuesit për një shfrytëzim teknik sa më të mirë të objektit të së drejtës së mbrojtur; 
-
-b) vendosin detyrimin për të shkëmbyer përvojë ose për të dhënë licenca joekskluzive për shpikje, për përmirësimet ose zbatimin e këtyre të fundit, me kusht që këto detyrime të jenë të njëjta për shitësin dhe licencuesin;
-
-c) kanë si objekt moskundërshtimin e së drejtës së mbrojtur;
-
-ç) çojnë në një përdorim minimal të së drejtës së mbrojtur që është objekt i licencës ose në pagesën e një tarife minimale;
-
-d) etiketojnë produktet e licencuara, duke mos përjashtuar referencën e prodhuesit.
+b) 15 për qind të tregut përkatës, ku pjesëmarrësit nuk janë konkurrentë aktualë ose potencialë.
 
 KREU II
 
@@ -170,27 +160,21 @@ f) karakteristika të tjera të tregut përkatës si: homogjenitetin e produktev
 
 Neni 9
 
-Abuzimi me pozitën dominuese në treg
+Abuzimi me pozitën dominuese në treg 
 
-1. Ndalohet çdo abuzim nga një ose më shumë ndërmarrje me pozitë dominuese në treg.
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-2. Mund të përbëjnë abuzim veçanërisht:
+1. Ndalohet çdo abuzim me pozitën dominuese nga një ose më shumë   ndërmarrje, që e zotërojnë këtë pozitë në treg.
 
-a) vendosja, në mënyrë të drejtpërdrejtë ose të tërthortë, e çmimeve të padrejta blerjeje ose shitjeje, ose e kushteve të tjera të padrejta të tregtimit; 
+2. Mund të përbëjnë abuzim me pozitën dominuese veçanërisht:
 
-b) kufizimi i prodhimit, tregjeve ose zhvillimit teknik; 
+a) vendosja, në mënyrë të drejtpërdrejtë ose të tërthortë, e çmimeve të padrejta të blerjes ose shitjes apo e kushteve të tjera të padrejta të tregtimit;
 
-c) zbatimi i kushteve të pabarabarta për veprime tregtare të njëjta me palët, duke i vendosur ato në gjendje të pafavorshme konkurrence; 
+b) kufizimi i prodhimit, tregjeve ose zhvillimit teknik;
 
-ç) lidhja e kontratave, me kusht që palët e tjera kontraktuese të pranojnë detyrime shtesë; 
+c) zbatimi i kushteve të pabarabarta për veprime tregtare të njëjta me palët, duke i vendosur ato në gjendje të pafavorshme konkurrence;
 
-d) vendosja e çmimeve ose e kushteve të tjera, që kanë si objekt ose si pasojë pengimin e hyrjes ose nxjerrjen jashtë tregut përkatës të konkurrentëve të veçantë a të një produkti të tyre; 
-
-dh) refuzimi për të tregtuar ose për të dhënë licenca; 
-
-e) refuzimi i hyrjes së një ndërmarrjeje tjetër, kundrejt një shpërblimi të përshtatshëm, në rrjetin ose në infrastrukturat e ndërmarrjes me pozitë dominuese, nëse ky refuzim i përdorimit të njëkohshëm të rrjetit ose të infrastrukturave pengon ndërmarrjen tjetër të veprojë si konkurrent i ndërmarrjes me pozitë dominuese.
-
-3. Nuk konsiderohen abuzive praktikat e një ose më shumë ndërmarrjeve me pozitë dominuese në treg, nëse këto ndërmarrje provojnë se i kanë kryer për arsye objektive, siç mund të jenë arsyet teknike ose arsyet e ligjshme tregtare.
+ç) vendosja e kushteve për lidhjen e kontratave me palët e tjera, që këto të fundit të pranojnë detyrime shtesë, të cilat, për vetë natyrën e tyre ose sipas praktikave tregtare, nuk kanë lidhje me objektin e kontratave në fjalë.
 
 KREU III
 
@@ -200,19 +184,23 @@ Neni 10
 
 Përqendrimi i ndërmarrjeve
 
-1. Përqendrim të ndërmarrjeve kemi në rastet e mëposhtme:
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-a) kur bashkohen dy ose më shumë ndërmarrje ose pjesë ndërmarrjesh të pavarura nga njëra-tjetra;
+1. Përqendrim të ndërmarrjeve kemi në rastet kur shkaktohet një ndryshim i qëndrueshëm i kontrollit, si rrjedhojë e:
 
-b) në çdo transanksion, nëpërmjet të cilit një ose më shumë ndërmarrje përftojnë kontroll, të drejtpërdrejtë ose të tërthortë, të një ose më shumë ndërmarrjeve ose të një pjese të këtyre të fundit;
+a) bashkimit të dy ose më shumë ndërmarrjeve ose pjesë ndërmarrjesh të pavarura nga njëra-tjetra;
 
-c) kur krijohet një ndërmarrje e përbashkët, që kryen të gjitha funksionet e një njësie ekonomike të pavarur.
+b) përfitimit të kontrollit të drejtpërdrejtë ose të tërthortë, nga një ose më shumë persona fizikë, të cilët njëkohësisht kanë kontrollin e të paktën një ndërmarrjeje tjetër ose nga një ose më shumë ndërmarrje, mbi një ose më shumë ndërmarrje, ose të një pjese të këtyre të fundit, përmes blerjes së aksioneve, kuotave apo aseteve, kontratës ose çdo mjeti tjetër të ligjshëm;
 
-2. Kontrolli, sipas pikës 1 shkronja “b” të këtij neni, mund të vendoset nëpërmjet të drejtave, kontratave ose çdo mënyre tjetër, të cilat, në mënyrë të veçantë ose të kombinuar, në bazë juridike ose faktike, krijojnë mundësinë e ushtrimit të një ndikimi vendimtar mbi veprimtarinë ekonomike të një ndërmarrjeje, në veçanti me anë të:
+c) kontrollit të drejtpërdrejtë ose të tërthortë mbi një ose më shumë ndërmarrje ose të një pjese të këtyre të fundit.
+
+2. Kontrolli, sipas shkronjës “b” të pikës 1 të këtij neni, mund të përfitohet nëpërmjet të drejtave, kontratave ose çdo mënyre tjetër, të cilat, më vete ose të kombinuara dhe, duke marrë parasysh rrethanat e faktit ose të ligjit, krijojnë mundësinë e ushtrimit të një ndikimi vendimtar mbi veprimtarinë ekonomike të një ndërmarrjeje, në veçanti, me anë të:
 
 a) së drejtës së pronës ose të së drejtës për të përdorur të gjitha ose një pjesë të aktiveve të një ndërmarrjeje;
 
 b) të drejtave ose kontratave, që ndikojnë në mënyrë të ndjeshme në përbërjen, votimin ose vendimet e organeve drejtuese të një ndërmarrjeje.
+
+3.  Krijimi i një ndërmarrjeje të përbashkët nuk përbën një përqendrim, sipas këtij neni, në rast se ka për objekt apo pasojë bashkërendimin e veprimtarive konkurruese ndërmjet dy ose më shumë ndërmarrjesh të pavarura.  Në këtë rast, krijimi i një ndërmarrjeje të përbashkët vlerësohet në bazë të nenit 4 të këtij ligji.
 
 Neni 11
 
@@ -224,29 +212,41 @@ Neni 12
 
 Kontrolli i përqendrimeve
 
-1. Përqendrimet e ndërmarrjeve njoftohen në Autoritet, për të marrë autorizim,  nëse në vitin e fundit financiar, para përqendrimit:
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-a) xhiroja e të gjitha ndërmarrjeve pjesëmarrëse së bashku, në tregun ndërkombëtar, është më shumë se 70 miliardë lekë, ose xhiroja e të gjitha ndërmarrjeve pjesëmarrëse së bashku, në tregun e brendshëm, është më shumë se 800 milionë lekë dhe
+1. Përqendrimet e ndërmarrjeve njoftohen në Autoritet për të marrë autorizim,  nëse, në vitin e fundit financiar, para përqendrimit:
 
-b) xhiroja e të paktën një ndërmarrjeje pjesëmarrëse, në tregun e brendshëm, është më shumë se 500 milionë lekë.
+a) xhiroja e të gjitha ndërmarrjeve pjesëmarrëse së bashku në tregun ndërkombëtar është më shumë se 7 miliardë lekë dhe xhiroja e të paktën një ndërmarrjeje pjesëmarrëse, në tregun e brendshëm, është më shumë se 200 milionë lekë.
 
-2. Përqendrimet e parashikuara në pikën 1 të këtij neni njoftohen brenda një jave nga lidhja e marrëveshjes për bashkim ose për përftim kontrolli, si dhe nga publikimi i ofertës publike për blerje ose shkëmbim.
+b) xhiroja e të gjitha ndërmarrjeve pjesëmarrëse së bashku në tregun e brendshëm është më shumë se 400 milionë lekë dhe xhiroja e të paktën një ndërmarrjeje pjesëmarrëse, në tregun e brendshëm, është më shumë se 200 milionë lekë.
 
-3. Ndërmarrje pjesëmarrëse, në kuptimin e këtij neni, janë:
+2. Përqendrimet e parashikuara në pikën 1 të këtij neni njoftohen brenda 30 ditëve nga lidhja e marrëveshjes për bashkim, për përftim kontrolli ose për krijimin e një ndërmarrjeje të përbashkët, me karakteristikat e parashikuara në pikën 3 të nenit 10 të ligjit,  si dhe nga publikimi i ofertës publike për blerje ose shkëmbim.
 
-a) në rast bashkimi, ndërmarrjet që bashkohen;
+3.  Ndërmarrje pjesëmarrëse, në kuptimin e këtij neni, janë:
 
-b) në rast përftimi kontrolli, ndërmarrjet që përftojnë kontrollin dhe ato që bëhen objekt të përftimit të kontrollit;
+a)  në rast bashkimi, ndërmarrjet që bashkohen; 
 
-c) pjesa e ndërmarrjes, në rast se transanksioni prek këtë të fundit.
+b) në rast përftimi kontrolli, ndërmarrjet dhe/ose  personat e parashikuar në shkronjën “b” të pikës 1 të nenit 10, që përftojnë kontrollin, dhe ndërmarrjet ose pjesët e ndërmarrjeve, që bëhen objekt të përftimit të kontrollit;  
+
+c) në rast krijimi të një ndërmarrjeje të përbashkët, sipas pikës 3 të  nenit 10, ndërmarrjet që kanë kontrollin e ndërmarrjes së përbashkët.
 
 Neni 13
 
 Vlerësimi i përqendrimit
 
-1. Komisioni ndalon përqendrimet e ndërmarrjeve, që rrezikojnë të krijojnë ose të forcojnë pozitën dominuese të një ose të më shumë ndërmarrjeve.
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-2. Komisioni nuk ndalon përqendrimet, kur njëra nga ndërmarrjet pjesëmarrëse rrezikon seriozisht të falimentojë dhe nuk ka mundësi tjetër më pak antikonkurruese se realizimi i përqendrimit nëse:
+1. Komisioni ndalon përqendrimet e ndërmarrjeve, që kufizojnë, në mënyrë të ndjeshme, konkurrencën në treg ose në një pjesë të tij, në veçanti, si rezultat i krijimit ose forcimit të pozitës dominuese.
+
+2. Komisioni, në vlerësimin e përqendrimeve, mund të marrë, gjithashtu, parasysh, efiçencat ekonomike që mund të rrjedhin nga përqendrimi, nëse plotësohen të gjitha kushtet e mëposhtme: 
+
+a) eficiencat në fjalë kontribuojnë në rritjen e mirëqenies së konsumatorëve ose, të paktën, neutralizojnë efektet e mundshme  negative që mund të sillte përqendrimi;
+
+b) eficiencat ekonomike janë ose do të jenë rezultat i përqendrimit nën shqyrtim dhe, për krijimin e tyre, nuk ekzistojnë mënyra alternative më pak antikonkurruese, se përqendrimi në fjalë;
+
+c) eficiencat ekonomike duhet të jenë të verifikueshme.
+
+3. Komisioni, në raste të veçanta, mund të mos ndalojë përqendrimet, kur njëra nga ndërmarrjet pjesëmarrëse rrezikon seriozisht të falimentojë e nuk ka mundësi tjetër më pak antikonkurruese se realizimi i përqendrimit nëse:
 
 a) ndërmarrja ndodhet në një situatë të tillë që, pa këtë përqendrim, duhet të dalë nga tregu në një të ardhme të afërt;
 
@@ -364,6 +364,8 @@ Neni 21
 
 Zgjedhja e anëtarëve të Komisionit
 
+(Shtuar pika 3/1 me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Anëtarët e Komisionit zgjidhen me shumicë votash, në prani të më shumë se gjysmës së të gjithë anëtarëve të Kuvendit të Republikës së Shqipërisë, për një periudhë 5-vjeçare. Kuvendi emëron Kryetarin e Komisionit. Zëvendëskryetari zgjidhet me shumicën e votave të të gjithë anëtarëve, në mbledhjen e parë të Komisionit.
 
 2. Anëtarët e Komisionit zgjidhen jo më shumë se dy mandate radhazi. Vetëm për herën e parë të zgjedhjes, nga hyrja në fuqi e këtij ligji, Kryetari ka një mandat 5-vjeçar, Zëvendëskryetari mandat 4-vjeçar dhe tre anëtarët e tjerë kanë mandat 3-vjeçar.
@@ -375,6 +377,8 @@ a) një anëtar propozohet nga Presidenti i Republikës;
 b) dy anëtarë propozohen nga Këshilli i Ministrave;
 
 c) dy anëtarë propozohen nga Kuvendi. 
+
+3/1. Tre muaj para përfundimit të mandatit të çdo anëtari të komisionit, autoriteti njofton me shkrim Kuvendin, i cili fillon praktikat për zgjedhjen e anëtarit të ri. Në rastet kur mandati i anëtarit të komisionit ka përfunduar dhe nuk është realizuar emërimi i anëtarit të ri, anëtari i vjetër qëndron në detyrë deri në zëvendësimin e tij.
 
 4. Paga e anëtarëve të Komisionit vendoset nga Kuvendi.
 
@@ -420,6 +424,8 @@ Neni 24
 
 Detyrat dhe përgjegjësitë e Komisionit
 
+(Shtuar shkronja “gj” me ligjin nr. 10 317, datë 16.9.2010)
+
 Komisioni ka këto detyra dhe përgjegjësi:
 
 a) harton politikën kombëtare të konkurrencës;
@@ -441,6 +447,8 @@ e) brenda 3-mujorit të parë të vitit pasardhës paraqet në Kuvend raportin v
 f) u jep vlerësime dhe rekomandime organeve të administratës qendrore e vendore dhe institucioneve të tjera publike, shoqatave tregtare, sindikatave, shoqatave të konsumatorit, dhomave të tregtisë dhe të industrisë, për çështjet që lidhen me konkurrencën;
 
 g) përfaqëson Autoritetin, brenda dhe jashtë vendit, në marrëdhëniet me institucionet e tjera dhe ato simotra;
+
+gj) përcakton përparësitë e hetimeve dhe afatet përkatëse për to.
 
 Neni 25
 
@@ -470,9 +478,11 @@ Neni 27
 
 Sekretariati i Konkurrencës
 
+(Zëvendësuar fjalë në pikën 2  me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Sekretariati drejtohet nga Sekretari i Përgjithshëm, i cili zgjidhet nga Komisioni.
 
-2. Punonjësit e Sekretariatit gëzojnë statusin e nëpunësit civil.
+2. Nëpunësit e Sekretariatit gëzojnë statusin e nëpunësit civil.
 
 3. Inspektorët e Sekretariatit kryejnë hetime administrative, sipas Kodit të Procedurave Administrative, këtij ligji dhe legjislacionit tjetër në fuqi.
 
@@ -512,6 +522,16 @@ d) bashkëpunimin me institucionet e tjera, brenda dhe jashtë vendit, për zgji
 
 dh) nënshkrimin e korrespondencës shkresore të Sekretariatit.
 
+Neni 29/1
+
+Trajtimi i ankesave
+
+(Shtuar me ligjin nr. 10 317, datë 16.9.2010)
+
+Palë të treta ose të interesuara për çështje që lidhen me kufizime, shtrembërime ose pengime të konkurrencës, paraqesin pranë Autoritetit të Konkurrencës ankesa a njoftime  për këto konstatime. Autoriteti ruan dhe garanton mbetjen anonim të ankuesit, sa herë që ky i fundit e kushtëzon një gjë të tillë.
+
+Ankesat ose njoftimet, pavarësisht nga mënyra e paraqitjes, pasi shënohen në regjistrin e protokollit, përcillen për trajtim profesional, brenda një afati të përcaktuar, në sekretariatin e Autoritetit. Procedurat e trajtimit të ankesave përcaktohen në rregulloren e funksionimit të Autoritetit.
+
 Neni 30
 
 Ruajtja e konfidencialitetit dhe e sekreteve tregtare
@@ -544,13 +564,15 @@ Neni 33
 
 Detyrimi për të informuar
 
-1. Ndërmarrjet që hetohen, ato që kërkojnë një përjashtim, ato që janë pjesëmarrëse në një përqendrim, si dhe ndërmarrjet ose personat e tjerë që mund të kenë të dhëna të vlefshme për trajtimin e një çështjeje, me kërkesë të Sekretariatit dhe në çdo fazë të procedurës së hetimit, janë të detyruara t'i japin këto të dhëna.
+(Ndryshuar pika 1, shfuqizuar pika 4  me ligjin nr. 10 317, datë 16.9.2010)
+
+1. Në çdo kohë, Autoriteti, me anë të një kërkese të sekretariatit ose të komisionit, mund t’u kërkojë të tretëve, ndërmarrjeve ose grupimeve të ndërmarrjeve, t’i sigurojnë të gjitha informacionet e nevojshme, për zbatimin e këtij ligji, përfshirë edhe ato, të cilat përmbajnë sekrete tregtare.
 
 2. Kur ndërmarrjet ose personat nuk japin të dhënat e kërkuara, ose  japin të dhëna të paplota brenda periudhës së caktuar në kërkesën e Sekretariatit, ose kur Komisioni e vlerëson të nevojshme, ai i kërkon të dhënat nëpërmjet një vendimi.
 
 3. Në kërkesën e Sekretariatit dhe vendimin e Komisionit përcaktohen baza ligjore, qëllimi, afati kohor, brenda të cilit duhet të sigurohen të dhënat, si dhe gjobat e parashikuara në ligj, në rast mospërmbushjeje të kërkesës ose vendimit.
 
-4. Ndërmarrjet dhe personat, të përcaktuar në pikën 1 të këtij neni, detyrohen të japin  edhe të dhëna që përmbajnë sekrete tregtare.
+4. Shfuqizuar.
 
 Neni 34
 
@@ -562,11 +584,13 @@ Neni 35
 
 Përgjegjësitë për inspektim
 
+(Zëvendësuar fjalë në pikën 3  me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Sekretariati kryen inspektimet e nevojshme pranë ndërmarrjeve dhe grupimeve të ndërmarrjeve, sipas objektit dhe procedurave të parashikuara në këtë ligj.
 
 2. Komisioni, me kërkesën e Sekretariatit, autorizon me shkrim inspektorët e Sekretariatit për kryerjen e inspektimeve, sipas procedurave të parashikuara në këtë ligj. Për të kryer inspektimin, inspektorët e Autoritetit paraqesin autorizimin, i cili përmban objektin dhe qëllimin e inspektimit, si dhe sanksionet e parashikuara në nenet 73, 74, 76 dhe 78 të këtij ligji.
 
-3. Autoriteti kërkon ndihmën e Policisë Tatimore në rastet kur pengohet kryerja e inspektimeve të nevojshme.
+3. Autoriteti kërkon ndihmën e Policisë së Shtetit në rastet kur pengohet kryerja e inspektimeve të nevojshme.
 
 Neni 36
 
@@ -634,23 +658,43 @@ Neni 41
 
 Hetimi në sektorët e ekonomisë
 
-Autoriteti, me nismën e tij, me kërkesën e Kuvendit dhe me kërkesën e institucioneve rregullatore të sektorëve përkatës, mund të kryejë një hetim të përgjithshëm në një sektor të ekonomisë, nëse ngurtësia e çmimeve ose rrethana të tjera të bëjnë të mendosh se konkurrenca në treg kufizohet ose shtrembërohet. 
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
+
+1. Autoriteti, me nismën e tij, me kërkesën e Kuvendit ose me kërkesën e institucioneve rregullatore të sektorëve përkatës, mund të kryejë një hetim të përgjithshëm në një sektor të ekonomisë, nëse ngurtësia e çmimeve ose rrethana të tjera të bëjnë të mendosh se konkurrenca në treg kufizohet ose shtrembërohet.
+
+2. Autoriteti mund t’u kërkojë ndërmarrjeve ose grupimeve të ndërmarrjeve që t’i sigurojnë të gjitha informacionet e nevojshme për kryerjen e hetimit.
+
+3. Autoriteti mund të publikojë një raport për rezultatet e hetimit të përgjithshëm në një sektor të ekonomisë, si dhe mund të ftojë palët e interesuara të shprehen për  rezultatet e hetimit.
+
+4.  Parashikimet e neneve 33 e 34 të këtij ligji zbatohen edhe për pikën 2 të këtij neni.
 
 Neni 42
 
-Procedurat e hetimit paraprak
+Hetimi paraprak 
 
-1. Sekretariati mund të fillojë procedurën paraprake të hetimit, me nismën e tij, me kërkesën e ndërmarrjeve të interesuara ose në bazë të një ankese të të tretëve. Ai fillon një procedurë të tillë çdo herë që kërkohet nga Komisioni. Procedurat paraprake të hetimit kryhen sipas Rregullores së Funksionimit të Autoritetit.
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-2. Procedura e hetimit paraprak nuk nënkupton të drejtën për të konsultuar dosjet.
+1. Sekretariati, me miratimin e komisionit, mund të fillojë hetimin paraprak, me nismën e tij, me ankesë të palëve të interesuara ose të treta, për kufizime, shtrembërime apo pengime të konkurrencës. Sekretariati fillon hetimin paraprak, sa herë që kërkohet nga komisioni. 
+
+2. Gjatë hetimit paraprak nuk nënkuptohet e drejta për të konsultuar dosjet. 
+
+3. Autoriteti ruan mbetjen anonim të ankuesit, sa herë që ky i fundit e paracakton një gjë të tillë.
 
 Neni 43
 
-Procedurat e thelluara të hetimit
+Hetimi i thelluar 
 
-1. Kur vihen re shenja të kufizimeve të konkurrencës, Sekretariati, me miratim të Komisionit, fillon një procedurë të thelluar hetimi. Ai fillon një procedurë të tillë sa herë që i kërkohet nga Komisioni.
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-2. Komisioni përcakton radhën e kryerjes së hetimeve, sipas Rregullores së Funksionimit të Autoritetit.
+1. Kur vihen re shenja të kufizimit të konkurrencës, fillohet procedura e  hetimit të thelluar. Komisioni merr vendim për fillimin e procedurës së hetimit të thelluar dhe përcakton hapat për realizimin e tij. Vendimi zbatohet nga sekretariati i komisionit. 
+
+2. Afati i përfundimit të procedurave të hetimit të thelluar është deri në 6 muaj nga data e vendimit të komisionit për hapjen e hetimit të thelluar.
+
+3. Afati, sipas pikës 2 të këtij neni, mund të zgjatet me vendim të komisionit, në rast se kërkohen hetime të mëtejshme, që kanë të bëjnë me prova, të dhëna shtesë dhe ekspertizë të specializuar për shqyrtimin e rastit.
+
+4. Procedurat hetimore, të parashikuara në nenet 41, 42 e 43 të këtij ligji, kryhen sipas rregulloreve të dala në zbatim të këtij ligji.
+
+5. Komisioni shprehet me vendim për mbylljen e hetimit, në zbatim të neneve 41, 42, e 43 të këtij ligji, edhe në rastet kur nuk konstatohen shenja të kufizimeve të konkurrencës.
 
 Neni 44
 
@@ -702,7 +746,9 @@ Neni 49
 
 Njoftimi i marrëveshjeve
 
-1. Në zbatim të neneve 5, 6 e 7 të këtij ligji, marrëveshjet horizontale, marrëveshjet vertikale, marrëveshjet e licencës dhe ndryshimet e bëra në to i njoftohen Autoritetit.
+(Ndryshuar pika 1 dhe 3, shtuar pika 4 me ligjin nr. 10 317, datë 16.9.2010)
+
+1. Në zbatim të nenit 5 të këtij ligji, ndërmarrjet ose grupimet e ndërmarrjeve njoftojnë në Autoritet marrëveshjet dhe ndryshimet e bëra në to.
 
 2. Njoftimi përmban të dhënat e mëposhtme:
 
@@ -716,17 +762,25 @@ c) formën, përmbajtjen dhe objektin e marrëveshjes;
 
 d) personin e autorizuar që përfaqëson ndërmarrjen gjatë procedurës.
 
-3. Njoftimi  i dhënë Autoritetit, sipas kërkesës së pikave 1 dhe 2 të këtij neni, nuk duhet të përmbajë të dhëna të pasakta, të cilat bëhen shkak për të siguruar përjashtimin për palën njoftuese ose për një palë të tretë, sipas neneve 5 dhe 6 të këtij ligji, ose moskundërshtimin në rastin e nenit 7 të këtij ligji. Autoriteti nxjerr udhëzim për formën e njoftimit.
+3. Njoftimi i dhënë Autoritetit, sipas kërkesës së pikave 1 e 2 të këtij neni, nuk duhet të përmbajë të dhëna të pasakta, të cilat bëhen shkak për të siguruar përjashtimin për palën njoftuese ose për një palë të tretë, sipas nenit 5 të këtij ligji.
+
+4. Ky nen nuk zbatohet për përjashtimin e kategorive të marrëveshjeve, të parashikuara në nenin 6 të këtij ligji.
 
 Neni 50
 
-Vendimi për përjashtim
+Vendimi për përjashtime individuale 
 
-1. Llojet e marrëveshjeve të përcaktuara në nenet 5 dhe 6 të këtij ligji përjashtohen nga ndalimi i parashikuar në nenin 4, vetëm me vendim të Komisionit. Përjashtimet sipas nenit 7 kanë efekt, nëse Autoriteti nuk do t'i kundërshtojë ato me një vendim, brenda një periudhe tremujore nga marrja e njoftimit.
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-2. Efektet e përjashtimit fillojnë që nga data e njoftimit. Përjashtimet, sipas neneve 5, 6 dhe 7 të këtij ligji, janë të kufizuara në kohë dhe mund t'u jepen ndërmarrjeve me kushte dhe detyrime.
+1. Marrëveshjet e njoftuara në bazë të nenit 49 të këtij ligji përjashtohen nga ndalimi i parashikuar në nenin 5 vetëm me vendim të komisionit.  
 
-3. Në bazë të një kërkese, përjashtimet mund të shtyhen në kohë, nëse kushtet e neneve 5, 6 dhe 7 të këtij ligji vazhdojnë të plotësohen. Shtyrja mund të jepet vetëm për ndërmarrjet pjesëmarrëse, të cilat deklarojnë pëlqimin e tyre me shkrim pranë Autoritetit. Deklarata bëhet në mënyrë të pavarur nga çdo ndërmarje dhe pranohet vetëm 3 muaj para mbarimit të afatit të përjashtimit.
+2. Efektet e përjashtimit fillojnë nga data e njoftimit. Përjashtimet, sipas nenit 5 të këtij ligji, janë të kufizuara në kohë dhe mund t'u jepen ndërmarrjeve me kushte dhe detyrime.
+
+3.  Nëse me vendim të komisionit refuzohet përjashtimi nga ndalimi, komisioni nuk mund të vendosë gjoba për shkeljet e shkaktuara nga kjo marrëveshje, për periudhën gjatë së cilës ajo shqyrtohet. Komisioni i konkurrencës nuk mund të vendosë gjoba për ato ndërmarrje, të cilat kanë njoftuar marrëveshjen për periudhën nga data e njoftimit deri në marrjen e vendimit mbi përjashtimin ose jo të zbatimit të nenit 5 të këtij ligji.
+
+4. Në bazë të një kërkese, përjashtimet mund të shtyhen në kohë, nëse kushtet e përcaktuara në nenin 5 të këtij ligji vazhdojnë të plotësohen. Shtyrja mund të jepet vetëm për ndërmarrjet pjesëmarrëse, të cilat deklarojnë pëlqimin e tyre me shkrim pranë Autoritetit. Deklarata bëhet në mënyrë të pavarur nga çdo ndërmarrje dhe pranohet brenda 3 muajve para mbarimit të afatit të përjashtimit.
+
+5. Ky nen nuk zbatohet për përjashtimin e kategorive të marrëveshjeve të parashikuara në nenin 6 të këtij ligji.
 
 Neni 51
 
@@ -748,9 +802,11 @@ Neni 52
 
 Botimi i njoftimeve dhe vendimeve për përjashtim
 
+(Ndryshuar fjalë në pikën 2  me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Kërkesat për përjashtim botohen në “Buletinin zyrtar” të Autoritetit. Njoftimi përmban emërtimin, selinë, veprimtarinë ekonomike të ndërmarrjeve pjesëmarrëse, një përshkrim të shkurtër të marrëveshjes dhe afatin, brenda të cilit, palë të treta mund të shprehin mendimin e tyre.
 
-2. Vendimet e Komisionit, të marra në mbështetje të neneve 5, 6 dhe 7 të këtij ligji, botohen në “Buletinin zyrtar” të Autoritetit. Njoftimi përmban emërtimin, selinë, veprimtarinë ekonomike të ndërmarrjeve pjesëmarrëse dhe përmbajtjen kryesore të vendimit.
+2. Vendimet e Komisionit, të marra në mbështetje të neneve 5 dhe 6 të këtij ligji, botohen në “Buletinin zyrtar” të Autoritetit. Njoftimi përmban emërtimin, selinë, veprimtarinë ekonomike të ndërmarrjeve pjesëmarrëse dhe përmbajtjen kryesore të vendimit.
 
 KREU IV
 
@@ -760,27 +816,17 @@ Neni 53
 
 Detyrimi për njoftim
 
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Kanë detyrimin për njoftim:
 
 a) ndërmarrjet pjesëmarrëse në bashkim;
 
-b) ndërmarrjet që marrin nën kontroll të gjithë ose pjesë të një ose më shumë ndërmarrjeve të tjera.
+b) ndërmarrjet që marrin nën kontroll të gjithë ose pjesë të një ose më shumë ndërmarrjeve të tjera;
 
-2. Njoftimi paraqet formën e përqendrimit dhe përmban, për çdo ndërmarrje pjesëmarrëse, të dhënat e mëposhtme:
+c) në rast krijimi të një ndërmarrjeje të përbashkët, sipas pikës 3 të nenit 10, ndërmarrjet që kanë kontrollin e ndërmarrjes së përbashkët.
 
-a) emërtimin e ndërmarrjes dhe vendin e ushtrimit të veprimtarisë ekonomike ose vendin e regjistrimit të ndërmarrjes;
-
-b) llojin e veprimtarisë ekonomike;
-
-c) xhiron në tregun e brendshëm dhe atë ndërkombëtar;
-
-ç) pjesët e tregut përkatës që zënë ndërmarrjet, duke treguar metodologjinë për llogaritjen dhe vlerësimin e tyre;
-
-d) madhësinë e pjesëmarrjes së përftuar në çdo ndërmarrje nga blerja dhe totalin e pjesëmarrjes në këtë ndërmarrje, në rastin e blerjes së aksioneve të një ndërmarrjeje tjetër;
-
-dh) personin e autorizuar për të përfaqësuar ndërmarrjen gjatë procedurës.
-
-3. Autoriteti nxjerr udhëzim për formën e njoftimit dhe për mundësinë për njoftim të thjeshtuar.
+2. Njoftimi që paraqet formën e përqendrimit kryhet në bazë të udhëzimit të nxjerrë nga Autoriteti për formën e njoftimit.
 
 Neni 54
 
@@ -792,19 +838,31 @@ Neni 55
 
 Të dhënat dhe dokumentet plotësuese
 
+(Shtuar pika 3 me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Ndërmarrjet pjesëmarrëse, ato që bëjnë pjesë në një grup, sipas nenit 16 të këtij ligji dhe ndërmarrjet që shesin një pjesëmarrje ose pjesë ndërmarrjeje, edhe nëse atyre u është dërguar vërtetimi, që konfirmon marrjen e njoftimit të plotë, detyrohen t'i sigurojnë Autoritetit, brenda një afati të caktuar prej tij, të dhënat dhe dokumentet shtesë, që janë me interes për vlerësimin e përqendrimit.
 
 2. Autoriteti mund të sigurojë nga ndërmarrje të tjera të dhëna dhe dokumente shtesë që janë me interes për vlerësimin e përqendrimit dhe mund t'i njoftojë ato për përqendrimin në fjalë, duke ruajtur sekretin tregtar të ndërmarrjeve pjesëmarrëse, atyre që bëjnë pjesë në një grup, sipas nenit 16 të këtij ligji, si dhe të ndërmarrjeve që shesin një pjesëmarrje ose pjesë ndërmarrjeje.
+
+3. Nenet 33, 35 e 36 të këtij ligji zbatohen në veprimtaritë e Autoritetit, të parashikuara në pikat 1 e 2 të këtij neni.
 
 Neni 56
 
 Procedura paraprake
 
-1. Në rast se përqendrimi nuk shfaq shenja të krijimit ose të forcimit të pozitës dominuese, Komisioni vendos të autorizojë përqendrimin, brenda dy muajve nga data e marrjes së njoftimit. 
+(Ndryshuar pika 1, ndryshuar fjalia  parë e pikës 2  me ligjin nr. 10 317, datë 16.9.2010)
+
+1. Në rast se përqendrimi nuk shfaq shenja të kufizimit në mënyrë të ndjeshme të konkurrencës në treg ose në një pjesë të tij, në veçanti, si rezultat i krijimit ose forcimit të pozitës dominuese, komisioni vendos të autorizojë përqendrimin brenda 2 muajve nga data e marrjes së njoftimit.
+
+Nëse konstatohet se përqendrimi shfaq shenja të tilla, komisioni vendos:
+
+a)  autorizimin e përqendrimit me kushte dhe detyrime;
+
+b)  fillimin e procedurës së thelluar.
 
 Nëse konstatohet se përqendrimi shfaq shenja të tilla, Komisioni vendos fillimin e procedurës së thelluar ose autorizimin e përqendrimit me kushte dhe detyrime.
 
-2. Në rastin e autorizimit me kushte dhe detyrime, afati, i përcaktuar në pikën 1 të këtij neni, shtyhet me dy javë, nëse ndërmarrjet pjesëmarrëse angazhohen të marrin masa për eliminimin e shenjave të krijimit ose forcimit të pozitës dominuese. Angazhimet e propozuara nga palët paraqiten pranë Autoritetit jo më vonë se një muaj nga data e marrjes së njoftimit.
+2. Në rastin e autorizimit me kushte dhe detyrime, afati i përcaktuar në pikën 1 të këtij neni shtyhet me dy javë, nëse ndërmarrjet pjesëmarrëse angazhohen të marrin masa për eliminimin e kufizimit në mënyrë të ndjeshme të konkurrencës në treg ose në një pjesë të tij, në veçanti, si rezultat i shenjave të krijimit ose të  forcimit të pozitës dominuese. Angazhimet e propozuara nga palët paraqiten pranë Autoritetit jo më vonë se një muaj nga data e marrjes së njoftimit.
 
 3. Mungesa e komunikimit brenda këtyre afateve konsiderohet si vendim, që autorizon përqendrimin dhe mund të realizohet pa rezerva.
 
@@ -812,9 +870,11 @@ Neni 57
 
 Procedura e thelluar
 
+(Ndryshuar fjalia  parë e pikës 2, shfuqizuar shkronja  “c” e pikës 3 me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Komisioni vendos të ndalojë ose jo përqendrimin brenda një periudhe prej tre muajsh nga fillimi i procedurës së thelluar.
 
-2. Në rastin e autorizimit me kushte dhe detyrime, afati, i përcaktuar në pikën 1 të këtij neni, shtyhet me një muaj, nëse ndërmarrjet pjesëmarrëse angazhohen të marrin masa për eliminimin e krijimit ose forcimit të pozitës dominuese. Angazhimet e propozuara nga palët i paraqiten Autoritetit jo më vonë se dy muaj nga data e fillimit të procedurës së thelluar.
+2. Në rastin e autorizimit me kushte dhe detyrime, afati i përcaktuar në pikën 1 të këtij neni shtyhet me 2 muaj, nëse ndërmarrjet pjesëmarrëse angazhohen të marrin masa për eliminimin e kufizimit në mënyrë të ndjeshme të konkurrencës në treg ose në një pjesë të tij, në veçanti, si rezultat i shenjave të krijimit ose të forcimit të pozitës dominuese. Angazhimet e propozuara nga palët i paraqiten Autoritetit jo më vonë se dy muaj nga data e fillimit të procedurës së thelluar.
 
 3. Mungesa e komunikimit brenda këtyre afateve konsiderohet si vendim, që autorizon përqendrimin dhe realizohet pa rezerva, me përjashtim të rasteve kur:
 
@@ -822,7 +882,15 @@ a) afati shtyhet nga Komisioni, me pëlqimin e ndërmarrjeve njoftuese;
 
 b) afati shtyhet me kërkesën e ndërmarrjeve njoftuese;
 
-c) afati pezullohet nga Komisioni, i cili, me vendim, shprehet se është penguar në kryerjen e procedurës së thelluar, për shkak të ndërmarrjeve pjesëmarrëse.
+c) shfuqizuar.
+
+Neni 57/1
+
+Pezullimi i afateve
+
+(Shtuar me ligjin nr. 10 317, datë 16.9.2010)
+
+Afatet e parashikuara në nenet 56 e 57 pezullohen nga komisioni, me vendim, nëse kjo procedurë e thelluar është penguar nga ndërmarrjet pjesëmarrëse.
 
 Neni 58
 
@@ -996,17 +1064,21 @@ Neni 73
 
 Masa e gjobës për shkeljet e lehta
 
+(Ndryshuar shkronjat “a”, “b” dhe “ç”  si dhe shtuar shkronja “ dh” në pikës 1 me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Komisioni vendos gjoba, në masën jo më shumë se 1 për qind të xhiros totale të vitit paraardhës financiar, mbi ndërmarrjet ose grupimet e ndërmarrjeve nëse:
 
-a) japin të dhëna jo të sakta, jo të plota ose mashtruese në përgjigje të kërkesës ose vendimit të bërë, sipas nenit 33 pikat 1 dhe 2 të këtij ligji, ose nuk japin të dhëna brenda afatit kohor, të përcaktuar në vendimin e marrë, sipas neneve 33 pika 2 dhe 41 të këtij ligji;
+a) japin të dhëna  të pasakta,  të paplota ose të rreme në përgjigje të kërkesës ose vendimit të komisionit, sipas nenit 33 pikat 2 e 3 të këtij ligji, ose nuk japin të dhëna brenda afatit kohor, të përcaktuar në vendimin e komisionit apo në kërkesën e sekretariatit, sipas nenit 33 pika 3 të këtij ligji;
 
-b) japin të dhëna jo të sakta, jo të plota ose mashtruese në njoftimet, sipas neneve 12 dhe 49 të këtij ligji, ose të dhëna dhe dokumente plotësuese të pasakta e të paplota, sipas nenit 55 të këtij ligji;
+b) japin të dhëna të pasakta, të paplota ose të rreme në njoftimet, sipas neneve 12 e 49 të këtij ligji, ose të dhëna dhe dokumente plotësuese të pasakta e të paplota, sipas nenit 55 të këtij ligji;
 
 c) japin të paplotë librat e kërkuar ose regjistrat e tjerë të veprimtarisë së tyre ekonomike, gjatë inspektimeve, sipas nenit 36 shkronjat "b" dhe "c" të këtij ligji, ose refuzojnë të pranojnë inspektimet në mbështetje të vendimit të marrë, sipas neneve 35 pika 1 dhe 36 shkronja "a" të këtij ligji;
 
-ç) refuzojnë t'u përgjigjen pyetjeve për faktet dhe, sipas nenit 36 shkronja "d" të këtij ligji, japin përgjigje jo të sakta, jo të plota, mashtruese ose pengojnë inspektimin e parashikuar në nenin 36;
+ç) refuzojnë t’u përgjigjen pyetjeve për faktet dhe, sipas shkronjës “d” të nenit 36 të këtij ligji, japin përgjigje të pasakta, të paplota, të rreme ose pengojnë inspektimin e parashikuar në nenin 36;
 
-d) heqin vulat e vëna në autorizimin zyrtar të Autoritetit, sipas nenit 36 shkronja "ç" të këtij ligji.
+d) heqin vulat e vëna në autorizimin zyrtar të Autoritetit, sipas nenit 36 shkronja "ç" të këtij ligji;
+
+dh) nuk njofton një përqendrim, sipas neneve 10 dhe 12 të këtij ligji.
 
 2. Parashikimet e neneve 15, 16 dhe 17 zbatohen edhe për pikën 1 të këtij neni, për llogaritjen e xhiros totale.
 
@@ -1014,7 +1086,9 @@ Neni 74
 
 Masa e gjobës për shkelje të rënda
 
-1. Komisioni vendos gjoba në masën 2 deri në 10 për qind të xhiros totale të vitit financiar paraardhës, për çdo ndërmarrje pjesëmarrëse që:
+(Ndryshuar fjalia e parë e pikës 1, shfuqizuar shkronja “ ç” e pikës 1, shtuar fjalë në shkronjën “ d” të pikës 1, shfuqizuar pika 2  me ligjin nr. 10 317, datë 16.9.2010)
+
+1. Komisioni vendos gjoba, në masën deri në 10 për qind të xhiros së ndërmarrjes, të vitit financiar paraardhës, për çdo ndërmarrje pjesëmarrëse që:
 
 a) shkel nenet 4 e 9 të këtij ligji;
 
@@ -1022,27 +1096,29 @@ b) nuk zbaton vendimin për marrjen e masave të përkohshme, sipas nenit 44;
 
 c) nuk përmbush kushtet dhe detyrimet në mbështetje të një vendimi të marrë, sipas neneve 45, 50 pika 2, 56, 57 dhe 60 pika 2 të këtij ligji;
 
-ç) nuk njofton një përqendrim sipas neneve 10 dhe 12 të këtij ligji;
+ç) shfuqizuar;
 
-d) realizon një përqendrim, duke mos respektuar detyrimin e nenit 14, përveç rastit kur realizimi i përqendrimit është autorizuar shprehimisht, sipas nenit 60 të këtij ligji;
+d) realizon një përqendrim i cili ka efekte të kufizimit të konkurrencës në treg, duke mos respektuar detyrimin e nenit 14, përveç rastit kur realizimi i përqendrimit është autorizuar shprehimisht, sipas nenit 60 të këtij ligji;
 
 dh) realizon një përqendrim të ndaluar nga Komisioni ose nuk merr masat e nevojshme për rivendosjen e konkurrencës, sipas nenit 62 të këtij ligji.
 
-2. Parashikimet e neneve 15, 16 dhe 17 zbatohen edhe për pikën 1 të këtij neni, për llogaritjen e xhiros totale.
+2. Shfuqizuar.
 
 Neni 75
 
 Përcaktimi i gjobës
 
+(Ndryshuar fjalia e dytë e pikës 2  me ligjin nr. 10 317, datë 16.9.2010)
+
 1. Për përcaktimin e masës së gjobës merren parasysh rëndësia dhe kohëzgjatja e shkeljes. Fitimi i paligjshëm i ndërmarrjeve në sajë të shkeljeve të këtij ligji, përbën masën minimale të gjobës, kur është e mundur të llogaritet ose të vlerësohet në mënyrë objektive.
 
-2. Nëse gjoba vihet ndaj grupimit të ndërmarrjeve, sipas këtij ligji, gjoba nuk mund të kalojë 1 për qind, në rastet e xhiros totale të vitit financiar paraardhës, të përcaktuar në nenin 73 të këtij ligji, ose 10 për qind, në rastet e xhiros totale të  vitit financiar paraardhës, të përcaktuar në nenin 74 të këtij ligji, të çdo anëtari të grupimit aktiv në tregun përkatës, të prekur nga shkelja e grupimit të ndërmarrjeve. 
-
-Kur grupimi i ndërmarrjeve s'ka fuqi paguese, Autoriteti mund të kërkojë shlyerjen e gjobës nga çdo ndërmarrje, e cila ishte anëtare e grupimit në kohën e kryerjes së shkeljes. Shuma e paguar nga çdo ndërmarrje anëtare më vete nuk mund të jetë më shumë se 1 për qind në rastin e xhiros totale të kësaj ndërmarrjeje në vitin financiar paraardhës, sipas nenit 73 të këtij ligji, dhe 10 për qind në rastin e xhiros totale të vitit financiar paraardhës të këtyre ndërmarrjeve, sipas nenit 74 të këtij ligji.
+2. Nëse gjoba vihet ndaj grupimit të ndërmarrjeve, sipas këtij ligji, gjoba nuk mund të kalojë 1 për qind, në rastet e xhiros totale të vitit financiar paraardhës, të përcaktuar në nenin 73 të këtij ligji, ose 10 për qind, në rastet e xhiros totale të  vitit financiar paraardhës, të përcaktuar në nenin 74 të këtij ligji, të çdo anëtari të grupimit aktiv në tregun përkatës, të prekur nga shkelja e grupimit të ndërmarrjeve dhe 10 për qind në rastin e xhiros në tregun përkatës të vitit financiar paraardhës të këtyre ndërmarrjeve, sipas nenit 74 të këtij ligji.
 
 Neni 76
 
 Gjobat periodike
+
+(Zëvendësuar fjalë në shkronjën “ d” të pikës 1  me ligjin nr. 10 317, datë 16.9.2010)
 
 1. Komisioni, në bazë të një vendimi, vendos mbi ndërmarrjet gjoba në pagesa periodike ditore jo më shumë se 5 për qind të xhiros mesatare ditore në vitin financiar paraardhës, e cila llogaritet nga data e marrjes së vendimit, në mënyrë që ato:
 
@@ -1054,7 +1130,7 @@ c) të veprojnë në përputhje me detyrimet në mbështetje të vendimit, sipas
 
 ç) të japin të dhëna të plota dhe të sakta, të cilat Komisioni i ka kërkuar, sipas vendimit të parashikuar në nenin 33 pika 2 të këtij ligji;
 
-d) të lejojnë një inspektim, i cili është urdhëruar në bazë të një vendimi, sipas nenit 36 të këtij ligji;
+d) të lejojnë një inspektim, i cili është urdhëruar në bazë të një vendimi, sipas nenit 35 të këtij ligji;
 
 dh) të përmbushin angazhimin për marrjen e masave të nevojshme për rivendosjen e konkurrencës, sipas nenit 62 të këtij ligji.
 
@@ -1076,21 +1152,27 @@ Neni 78
 
 Sanksione individuale
 
-1. Komisioni vendos gjoba në masën deri në 5 milionë lekë mbi individët, që, me dashje ose nga pakujdesia, kryejnë ose bashkëpunojnë në veprimet e sanksionuara në nenet 74 pika 1  dhe 75 pika 1 të këtij ligji.
+(Zëvendësuar fjalë me ligjin nr. 10 317, datë 16.9.2010)
 
-2. Vendosja e gjobave, sipas pikës 1 të këtij neni, u nënshtrohet afateve të parashkrimit prej tre vjetësh, në rastin e përcaktuar në nenin 74 pika 1 të këtij ligji dhe prej 5 vjetësh, në rastin e përcaktuar në nenin 75 pika 2 të këtij ligji.
+1. Komisioni vendos gjoba në masën deri në 5 milionë lekë mbi individët, që, me dashje ose nga pakujdesia, kryejnë ose bashkëpunojnë në veprimet e sanksionuara në nenin 73 pika 1 dhe nenin 74 pika 1 të këtij ligji.
+
+2. Vendosja e gjobave, sipas pikës 1 të këtij neni, u nënshtrohet afateve të parashkrimit prej tre vjetësh, në rastin e përcaktuar në nenin 74 pika 1 të këtij ligji dhe prej 5 vjetësh, në rastin e përcaktuar në nenin 74 pika 1të këtij ligji.
 
 Neni 79
 
 Ankimi
 
-Kundër vendimeve të Komisionit për vendosjen e sanksioneve mund të bëhet ankim në Gjykatën e Tiranës brenda 30 ditëve nga marrja e vendimit.
+(Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
+
+1. Kundër vendimeve të komisionit për vendosjen e sanksioneve mund të bëhet ankim në gjykatë brenda 30 ditëve nga data e marrjes së njoftimit për vendimin.
+
+2. Ankimi nuk pezullon ekzekutimin e vendimit të parashikuar në pikën 1 të këtij neni.
 
 Neni 80
 
-Organi i ngarkuar për ekzekutimin e gjobës
+ (Ndryshuar me ligjin nr. 10 317, datë 16.9.2010)
 
-Organi i ngarkuar nga ky ligj për ekzekutimin e gjobës është Policia Tatimore.
+Gjoba e vënë nga Autoriteti i Konkurrencës është titull ekzekutiv dhe ekzekutohet sipas dispozitave të Kodit të Procedurave Civile. Autoriteti i Konkurrencës nuk ka detyrim që të parapaguajë taksën apo tarifën  për shërbimin përmbarimor.
 
 PJESA VII
 
@@ -1135,6 +1217,18 @@ b) Rregulloren për caktimin e shpenzimeve për ndjekjen e procedurave pranë Au
 c) Rregulloren për zbatimin e procedurave të përqendrimit të ndërmarrjeve; 
 
 ç) Rregulloren për gjobat dhe lehtësimin prej tyre.
+
+Neni 84/1
+
+(Shtuar me ligjin nr. 10 317, datë 16.9.2010)
+
+Çështjet, procedurat hetimore dhe kontrollet e përqendrimeve, pavarësisht nga faza në të cilën ndodhen në çastin e hyrjes në fuqi të dispozitave të këtij ligji, do të vazhdojnë t’u nënshtrohen dispozitave të mëparshme deri në dhënien e vendimit përfundimtar të Komisionit të Konkurrencës. 
+
+Neni 84/2
+
+  (Shtuar me ligjin nr. 10 317, datë 16.9.2010)
+
+Aktet e Autoritetit të Konkurrencës, të kundërshtuara në gjykatë, do të vazhdojnë të gjykohen, duke u bazuar në ligjin dhe në aktet nënligjore që kanë qenë në fuqi në çastin e fillimit të shqyrtimit gjyqësor.
 
 Neni 85
 
