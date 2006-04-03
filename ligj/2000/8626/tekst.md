@@ -4,7 +4,7 @@ Nr.8626, datë 22.6.2000
 
 STATUSI I INVALIDIT PARAPLEGJIK DHE TETRAPLEGJIK
 
-(Ndryshuar me ligjin nr. 9355, datë 10.3.2005)
+(Ndryshuar me ligjin nr. 9355, datë 10.3.2005; nr. 9506, datë 3.4.2006)
 
 (i përditësuar)
 
@@ -54,7 +54,11 @@ Shteti favorizon arsimimin e të sëmurëve paraplegjikë në shkollat e larta t
 
 Neni 9
 
-Shteti i përjashton të sëmurët paraplegjikë dhe tetraplegjikë  nga pagesat për sigurimin shëndetësor dhe u jep atyre të drejtën e përfitimit falas të barnave për sëmundjen, pasojë e invaliditetit.
+(Ndryshuar me ligjin nr. 9506, datë 3.4.2006)
+
+Shteti përjashton të sëmurët paraplegjikë dhe tetraplegjikë nga pagesat për kontributet shëndetësore dhe u jep të drejtën e përfitimit falas të barnave, të mbuluara nga skema e sigurimeve të kujdesit shëndetësor.
+
+Paraplegjikët dhe tetraplegjikët, të cilët kanë përfituar statusin, përfitojnë një shtesë në të ardhura për mbulimin e shpenzimeve të paketës së domosdoshme me materiale të veçanta higjieno-sanitare. Masa, kriteret dhe procedura e përfitimit të kësaj shtese në të ardhura përcaktohen me vendim të Këshillit të Ministrave.
 
 Neni 10
 
