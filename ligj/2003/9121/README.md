@@ -1,9 +1,9 @@
 # PËR MBROJTJEN E KONKURRENCËS
 
-Official source: [Ligji nr. 9121](https://qbz.gov.al/api/v1/acts/2236).
+Official source: [Ligji nr. 9121](https://qbz.gov.al/api/v1/acts/2236); [QBZ versions](https://qbz.gov.al/api/v1/acts/2236/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2003-07-28; published 2003-08-19; in force 2003-12-01.
+Status of this text: `official consolidated version 1`, applying from 2006-04-03; after QBZ act 5042 (nr. 9499).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.

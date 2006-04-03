@@ -4,6 +4,10 @@ Nr.9121, datë 28.7.2003
 
 PËR MBROJTJEN E KONKURRENCËS
 
+(Ndryshuar me ligjin nr. 9499, datë 3.4.2006)
+
+(i përditësuar)
+
 Në mbështetje të neneve 11 pika 1, 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 K U V E N D I
@@ -344,13 +348,15 @@ Neni 20
 
 Kushtet për t’u zgjedhur anëtar i Komisionit
 
+(Ndryshuar shkronja “ c” me ligjin nr. 9499, datë 3.4.2006)
+
 Anëtar i Komisionit mund të zgjidhet kandidati që plotëson kushtet e mëposhtme:
 
 a) të jetë shtetas shqiptar;
 
 b) të ketë vjetërsi pune në profesion jo më pak se 15 vjet;
 
-c) të jetë i njohur për kontributin në fushën e shkencave ekonomike dhe juridike ose për aftësitë drejtuese dhe profesionalitetin e shfaqur në sektorë të ndryshëm të ekonomisë;
+c) të jetë, prej jo më pak se 5 vjetësh, pjesëtar i trupit akademik universitar ose të mbajë titull apo gradë shkencore në fushën e ekonomisë a të drejtësisë, specialiteti “E drejtë civile/ administrative;
 
 ç) të mos jetë larguar nga puna ose nga shërbimi civil me masë disiplinore.
 
@@ -376,6 +382,8 @@ Neni 22
 
 Papajtueshmëritë dhe lirimi nga detyra i anëtarëve të Komisionit
 
+(Ndryshuar shkronja “ c” e pikës 3 me ligjin nr. 9499, datë 3.4.2006)
+
 1. Nuk mund të jenë anëtarë të Komisionit personat që bëjnë pjesë në organet e larta drejtuese të partive politike, anëtarët e organeve drejtuese të shoqërive tregtare ose personat që ushtrojnë veprimtari ekonomike.
 
 2. Anëtari i Komisionit zëvendësohet:
@@ -398,7 +406,7 @@ a) ka shkelur rëndë ligjin dhe etikën e punës gjatë kryerjes së detyrës;
 
 b) është në pamundësi fizike ose mendore për të ushtruar detyrën, 
 
-c) mungon në detyrë për më shumë se tre muaj në mënyrë të pajustifikuar;
+c) mungon në detyrë mbi 1 muaj në mënyrë të pajustifikuar;
 
 ç) humbet shtetësinë shqiptare.
 
