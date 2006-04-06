@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4234,
+  "title": "Dekret Nr.4811 Dt.21.03.2006",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "4811",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2006-03-21",
+  "published": "2006-04-06",
+  "in_force": "2006-04-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5d5a07d2df2268ec6da4c0caf90c2dfca7e835d4d7368fd1d37924666373916a.docx",
+  "source_sha256": "5d5a07d2df2268ec6da4c0caf90c2dfca7e835d4d7368fd1d37924666373916a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4234",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2006/03/21/4811",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
