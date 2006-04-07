@@ -1,1 +1,0 @@
-20. Procedurat për përdorimin e fondeve të nxitjes së punësimit dhe hollësi të tjera të përcaktohen në udhëzimin e përbashkët të Ministrit të Punës dhe të Çështjeve Sociale dhe Ministrit të Financave.

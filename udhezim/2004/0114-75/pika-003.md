@@ -1,1 +1,0 @@
-3. Vërtetësia e dokumentacionit të paraqitur nga punëdhënësi verifikohet në bashkëpunim me inspektorë të inspektoratit vendor dhe rajonal të punës, i cili shprehet brenda 7 ditëve mbi vërtetësinë e dokumentacionit dhe korrektësinë e subjektit ndaj legjislacionit të punës. Marrëdhëniet midis tyre rregullohen me urdhër të Ministrit të Punës dhe të Çështjeve Sociale.
