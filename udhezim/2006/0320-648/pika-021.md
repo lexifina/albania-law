@@ -1,0 +1,1 @@
+21. Zyra kompetente e punësimit përpilon dhe dërgon çdo muaj në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit, informacion në lidhje me zbatimin e projekteve, personat e punësuar, përfituesit e programeve të mbështetjes me të ardhura, punëkërkuesit e papunë etj.

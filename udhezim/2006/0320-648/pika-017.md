@@ -1,0 +1,1 @@
+17. Me kërkesë të Inspektoratit Shtetëror të Punës apo të strukturave të kontrollit të Shërbimit Kombëtar të Punësimit punëdhënësit i ndërpritet financimi kur bën pushime, pa shkaqe të arsyeshme të punëmarrësve të tjerë jashtë këtij programi.

@@ -1,0 +1,1 @@
+19. Në zbatim të pikës 4 të vendimit, zyra kompetente e punësimit plotëson listën e personave të përfshirë në program të cilët janë përfitues të pagesës së papunësisë. Zyra kompetente e punësimit llogarit nëpërmjet kësaj liste fondet e kursyera nga ai program të cilat i kalojnë masën 100% buxhetit të këtij programi.
