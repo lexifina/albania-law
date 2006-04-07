@@ -1,0 +1,1 @@
+10. Komisioni i zyrës rajonale të punësimit vendos për miratimin ose jo të një projekti brenda 20 ditëve nga data e paraqitjes së kërkesës për aplikim nga punëdhënësit. Komisioni i Drejtorisë së Përgjithshme të Shërbimit Kombëtar të Punësimit vendos për miratimin ose jo të një projekti brenda 30 ditëve nga data e paraqitjes për aplikim nga punëdhënësit.

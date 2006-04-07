@@ -1,0 +1,3 @@
+11. Për projektet e miratuara zyra kompetente e punësimit, në bashkëpunim me punëdhënësin, plotësojnë listën e punëkërkuesve të papunë që do të përfshihen në program. Punëkërkuesit e papunë që përfshihen në program duhet të jenë të regjistruar në zyrat e punësimit për një periudhë të paktën tremujore.
+Ndërmjet zyrave kompetente të punësimit dhe punëdhënësit nënshkruhet një kontratë ku përfshihen të drejtat dhe detyrat që përcakton programi për secilën palë. Kontratat e lidhura ndërmjet punëdhënësit dhe zyrave kompetente të punësimit janë të vlefshme vetëm për vitin kalendarik.
+Në rastet kur financimi vazhdon për vitin pasardhës, shtesa përkatëse në kontratë bëhet pasi kryhet një vlerësim për zbatimin e projektit me kontratën e parë.

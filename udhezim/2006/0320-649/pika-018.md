@@ -1,0 +1,1 @@
+18. Në zbatim të pikës 6 të vendimit të Këshillit të Ministrave nr.69, datë 11.2.1999, zyra kompetente e punësimit, llogarit, nëpërmjet formularit të personave të punësuar që janë përfitues të pagesës së papunësisë, fondet e kursyera nga ai program, të cilat i kalojnë në masën 100% buxhetit të këtij programi.
