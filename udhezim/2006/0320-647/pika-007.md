@@ -1,0 +1,1 @@
+7. Në rastet kur aplikues janë ndërmarrje të vogla në kuptimin e numrit të punonjësve, por me përfitimin e financimit sipas këtij programi hyjnë te ndërmarrjet e mesme, aplikimi dërgohet për miratim në komisionin e ngritur në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit.

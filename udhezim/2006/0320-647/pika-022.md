@@ -1,0 +1,1 @@
+22. Në rastet kur punëmarrësit e punësuar sipas këtij programi largohen përpara afatit të përcaktuar në kontratë, punëdhënësi duhet të bëjë njoftim në zyrën e punësimit. Punëmarrësit e larguar nuk zëvendësohen.

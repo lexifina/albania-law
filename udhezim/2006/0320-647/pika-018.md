@@ -1,0 +1,1 @@
+18. Në zbatim të pikës 5 të vendimit të Këshillit të Ministravë nr.632, datë 18.9.2003 “Programin e nxitjes së punësimit të punëkërkueseve të papuna femra”, kontrolli bëhet nga inspektorët e Inspektoratit Rajonal dhe Vendor për pikat a, b dhe c dhe punëdhënësi përfiton nga ky program, kur nga kontrollet e bëra rezulton se nuk janë shkelur këto pika.

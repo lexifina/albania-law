@@ -1,0 +1,1 @@
+24. Në zbatim të pikës 8, vendimit të Këshillit të Ministrave nr.632, datë 18.9.2003 “Programin e nxitjes së punësimit të punëkërkueseve të papuna femra”, kostoja e programit mbulohet nga fondet vjetore të Buxhetit të Shtetit për nxitjen e punësimit.
