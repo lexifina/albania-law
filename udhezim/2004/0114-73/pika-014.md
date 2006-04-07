@@ -1,1 +1,0 @@
-14. Në zbatim të pikës 3 të vendimit, zyra kompetente e punësimit është e detyruar të çregjistrojë nga lista e punëkërkuesve të papunë personat që pa arsye të pranueshme refuzojnë të marrin pjesë në program. Procedurat përcaktohen në rregulloren e Shërbimit Kombëtar të Punësimit.

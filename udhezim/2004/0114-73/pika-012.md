@@ -1,1 +1,0 @@
-12. Në zbatim të pikës 2 të vendimit, pas përfundimit të periudhës së formimit për çdo të punësuar mbi numrin e fiksuar në kontratë, punëdhënësi merr një shpërblim të menjëhershëm të barabartë me 100 për qind të shumës së pagës minimale në shkallë vendi dhe 100% të shpenzimeve për sigurimet e detyrueshme shoqërore dhe shëndetësore për punëmarrësit për një periudhë 3-mujore.
