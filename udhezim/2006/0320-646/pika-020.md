@@ -1,0 +1,1 @@
+20. Marrëdhëniet midis zyrave kompetente të punësimit, subjektit dhe punëkërkuesve të papunë të punësuar sipas këtij programi, vendosen në marrëveshje të përbashkëta midis tyre. Subjekti dhe punëmarrësi nënshkruajnë një kontratë për kushtet e punësimit të personave që punësohen. Kontrata përmban në çdo rast emrat e të gjithë personave që do të angazhohen në program.

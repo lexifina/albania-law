@@ -1,0 +1,1 @@
+17. Zyra kompetente e punësimit çregjistron nga lista e punëkërkuesve të papunë personat që pa arsye të pranueshme refuzojnë të marrin pjesë në program. Procedurat përcaktohen në rregulloren e Shërbimit Kombëtar të Punësimit.

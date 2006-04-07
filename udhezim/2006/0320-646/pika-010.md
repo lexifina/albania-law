@@ -1,0 +1,1 @@
+10. Komisioni i miratimit të projekteve i Drejtorisë së Përgjithshme të Shërbimit Kombëtar të Punësimit, vendos për miratimin ose jo të një projekti brenda 30 ditëve nga data e paraqitjes së dokumentacionit të plotësuar, nga subjekti.

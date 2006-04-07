@@ -1,0 +1,1 @@
+19. Zyra kompetente e punësimit plotëson listën e personave të punësuar që janë pjesëtarë të familjeve përfituese të programit të ndihmës ekonomike. Zyra e punësimit llogarit nëpërmjet këtij formulari sasinë e fondeve që përfiton ky program nga punësimi i tyre. Kjo sasi është 50% e ndihmës ekonomike të plotë për një familje me 4 persona për çdo muaj trajnim.

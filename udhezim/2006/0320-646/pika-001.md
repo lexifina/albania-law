@@ -1,0 +1,1 @@
+1. Ka të drejtë të aplikojë në programin e nxitjes së punësimit nëpërmjet mbështetjes së formimit institucional, çdo subjekt i cili është person juridik/fizik me veprimtari të licencuar nga Ministri i Punës dhe i Çështjeve Sociale.

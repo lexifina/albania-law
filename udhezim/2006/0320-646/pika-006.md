@@ -1,0 +1,1 @@
+6. Në rastet kur për një projekt ka të paktën tre aplikues zyra kompetente e punësimit ia paraqet ato Këshillit Lokal Tripalësh, i cili shqyrton dhe vendos mbi dobishmërinë social-ekonomike të projekteve që do të kërkohen të financohen.

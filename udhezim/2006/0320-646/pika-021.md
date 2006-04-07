@@ -1,0 +1,1 @@
+21. Në rastet ku punëmarrësit pjesëmarrës në programe trajnimi sipas këtij programi largohen përpara afatit të përcaktuar në kontratë, subjekti duhet të bëjë njoftim në zyrën e punësimit. Kursantët e larguar nuk zëvendësohen. Zyra kompetente e punësimit bën menjëherë ndërprerjen e financimit për kursantin e larguar.

@@ -1,0 +1,1 @@
+7. Pas miratimit në parim të projekteve në Këshillin Lokal Tripalësh, zyra kompetente e punësimit i rendit aplikimet sipas prioriteteve të vendosura nga Ministri dhe i dërgon për miratim në komisionin e miratimit të projekteve, në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit.
