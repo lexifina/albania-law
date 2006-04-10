@@ -1,0 +1,1 @@
+2. Efektet financiare, në shumën 12 300 000 (dymbëdhjetë milionë e treqind mijë) lekë, për zbatimin e këtij vendimi, për vitin 2006, të përballohen nga fondet e parashikuara në buxhetin e po këtij viti, miratuar për Institutin e Sigurimeve Shoqërore.
