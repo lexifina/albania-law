@@ -1,1 +1,0 @@
-1. Targat e mjeteve të Trupit Diplomatik të akredituara në Republikën e Shqipërisë do të lëshohen vetëm mbas përcaktimit të statusit të tyre nga ana e Ministrisë së Punëve të Jashtme, dërguar zyrtarisht prej saj, Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor (DPSHTRr).
