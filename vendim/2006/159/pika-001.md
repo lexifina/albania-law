@@ -1,0 +1,1 @@
+1. Mbylljen e Njësisë së Menaxhimit të Projektit (NMP) për sistemin e regjistrimit të pasurive të paluajtshme, si projekt dhe si njësi ekonomike e pavarur, në administrimin të Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
