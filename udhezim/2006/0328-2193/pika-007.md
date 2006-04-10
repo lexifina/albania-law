@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor, Drejtoria Rajonale e Shërbimeve të Transportit Tiranë, për targat e veçanta të njohjes dhe lejet e qarkullimit, të lëshuara për automjetet e trupit diplomatik të huaj, të akredituar në Republikën e Shqipërisë, njofton zyrtarisht Protokollin e Shtetit në Ministrinë e Punëve të Jashtme.

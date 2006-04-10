@@ -1,0 +1,1 @@
+6. Për gjithë praktikën e zbatuar për targat e veçanta të njohjes dhe lejet e qarkullimit, për automjetet e trupit diplomatik të huaj, të akredituar në Republikën e Shqipërisë, Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor, Drejtoria Rajonale e Shërbimeve të Transportit Tiranë, mban arkiv të veçantë.

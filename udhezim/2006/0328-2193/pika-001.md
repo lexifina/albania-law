@@ -1,0 +1,1 @@
+1. Targat e veçanta të njohjes dhe lejet e qarkullimit për automjetet e trupit diplomatik të huaj, të akredituar në Republikën e Shqipërisë, lëshohen nga Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor, Drejtoria Rajonale e Shërbimeve të Transportit Tiranë, sipas kërkesës zyrtare të Protokollit të Shtetit në Ministrinë e Punëve të Jashtme.

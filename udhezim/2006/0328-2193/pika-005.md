@@ -1,0 +1,1 @@
+5. Drejtoria Rajonale e Shërbimeve të Transportit Tiranë, sektori i regjistrimit, pas verifikimit të dokumenteve, bën regjistrimin e mjetit dhe lëshon targat dhe lejen e qarkullimit, sipas kërkesës së Protokollit të Shtetit në Ministrinë e Punëve të Jashtme.

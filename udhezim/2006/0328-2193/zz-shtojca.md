@@ -1,0 +1,2 @@
+# Shtojca
+LULZIM BASHA
