@@ -1,0 +1,1 @@
+5. Automjeti i varrimit, kur transporton një kufomë, pasi kthehet nga varrimi, pastrohet dhe dezinfektohet. Për çdo rast të tillë, në varreza duhet të ketë vende të posaçme ku bëhet dezinfektimi, edhe i gomave të automjeteve, me solucion dezinfektant.

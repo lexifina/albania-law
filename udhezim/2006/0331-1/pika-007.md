@@ -1,0 +1,1 @@
+7. Automjetet e varrimit duhet të parkohen në parkime të vendosura në vende të veçanta, të caktuara me urdhëresë të kryetarit të bashkisë a të komunës duke respektuar normat e rregullores vendore të urbanistikës.

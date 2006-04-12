@@ -1,0 +1,1 @@
+3. Këto automjete mund të vihen në shërbimin publik të varrimit nga komuna, bashkia apo subjektet private vetëm pasi të jenë verifikuar dhe konfirmuar si të përshtatshme nga Inspektorati Sanitar Shtetëror, i cili, pasi jep lejën, duhet të kontrollojë të paktën një herë në vit gjendjen higjenike të tyre.

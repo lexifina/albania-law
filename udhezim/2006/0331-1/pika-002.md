@@ -1,0 +1,1 @@
+2. Automjetet e varrimit, të destinuara për transportimin e kufomave në rrugët e qyteteve për në varrezë, duhet të jenë të veshura nga brenda me fletë metali inoks ose me material tjetër të papërshkueshëm nga lëngjet dhe që pastrohen e dezinfektohen me lehtësi. Automjeti duhet të jetë i pajisur me karel për fiksimin e arkivolit, që ai të mos lëvizë gjatë transportimit.
