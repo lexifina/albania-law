@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4265,
+  "title": "Vendim Nr.20 Dt.28.03.2006",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "20",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2006-03-28",
+  "published": "2006-04-12",
+  "in_force": "2006-04-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b12c0f300e24e1def14db4aa6aae54e823e7c0c1785d1f9d4b91b2c2a10d9d16.docx",
+  "source_sha256": "b12c0f300e24e1def14db4aa6aae54e823e7c0c1785d1f9d4b91b2c2a10d9d16",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4265",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/03/28/20",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
