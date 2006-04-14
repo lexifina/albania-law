@@ -1,0 +1,1 @@
+7. Efektet financiare për veprimtarinë e Institutit Kombëtar të Diasporës të përballohen nga buxheti i Ministrisë së Punëve të Jashtme, si dhe nga donacione të ndryshme nga persona, juridikë dhe fizikë, vendas dhe të huaj, në mbështetje me marrëveshjet përkatëse, në përputhje me legjislacionin në fuqi të Republikës së Shqipërisë.

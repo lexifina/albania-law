@@ -1,0 +1,15 @@
+3. Instituti kryen detyrat e mëposhtme:
+- Mbrojtjen e të drejtave dhe interesave të komuniteteve shqiptare në botë, në bashkëpunim me organe të tjera përgjegjëse, si dhe me organizatat joqeveritare.
+- Hartimin e politikave për zhvillimin e diasporës shqiptare, të vjetër dhe të re, si dhe hartimin e politikave dhe analizave për çështjet e migracionit shqiptar në vendet, ku ata ndodhen.
+- Analizimin e qëndrimeve politike të qeverisë shqiptare, në përgjithësi, dhe perspektivën e politikave aktuale për mbrojtjen e të drejtave, politike dhe sociale, të komuniteteve shqiptare në botë.
+- Përcaktimin e programeve për marrëdhëniet dhe bashkëpunimin, ndërmjet Republikës së Shqipërisë dhe komuniteteve shqiptare në botë.
+- Vlerësimin e strategjive ekzistuese apo atyre që do të miratohen, në përputhje me Strategjinë Kombëtare të Migracionit.
+- Kryerjen e studimeve të thelluara ekonomike, sociale, arsimore dhe kulturore për dinamikën dhe zhvillimin e komuniteteve shqiptare në botë.
+- Përcaktimin e shteteve, ku duhet të veprohet me përparësi për politikat për diasporën.
+- Analizimin e qëndrimeve politike të organeve qeverisëse në vendet e tjera për diasporën dhe emigracionin shqiptar në botë.
+- Nxitjen dhe mbështetjen e krijimit të grupeve/shoqatave të veçanta të emigrantëve shqiptarë, në bazë të interesave, profesioneve të përbashkëta apo vendndodhjes gjeografike.
+- Hartimin e politikave për vlerësimin e rolit investues të biznesmenëve shqiptarë në botë.
+- Krijimin e qendrave kulturore shqiptare në vendet pritëse, ku gjendet një komunitet i madh shqiptar, për të promovuar imazhin e Shqipërisë dhe të emigrantëve shqiptarë, si dhe për të ofruar disa shërbime për komunitetin e shqiptarëve.
+- Hartimin e politikave për mësimin e gjuhës amtare nga fëmijët në diasporë, në përputhje me legjislacionin në fuqi në Republikën e Shqipërisë dhe me legjislacionin e vendeve, ku ata jetojnë.
+- Përgatitjen dhe trajtimin e udhëzimeve për misionet diplomatike dhe konsullore të Republikës së Shqipërisë për çështjet e sipërcituara, si dhe për të siguruar ndihmën e komuniteteve shqiptare, për organizimin e vizitave të personaliteteve të larta shtetërore.
+- Komunikimin me strukturat/institutet homologe të vendeve të tjera, të cilat trajtojnë çështje të diasporës dhe migracionit.

@@ -1,0 +1,1 @@
+5. Pranë këtij Instituti do të veprojë një bord drejtues, me përfaqësues në nivel drejtori të Ministrisë së Punëve të Jashtme, Ministrisë së Punës, Çështjeve Sociale dhe Shansave të Barabarta, Ministrisë së Brendshme, Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, Ministrisë së Arsimit dhe Shkencës dhe Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës.
