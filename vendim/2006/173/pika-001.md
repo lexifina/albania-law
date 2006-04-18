@@ -1,0 +1,1 @@
+1. Për të përcaktuar koston e ndërtimit dhe çmimin e shitjes së banesave, për qëllime të përllogaritjes së detyrimeve tatimore të aplikueshme mbi to, të ndiqen parimet bazë të dokumentit kontabël dhe rregullat specifike, të përcaktuara në aktet ligjore tatimore.

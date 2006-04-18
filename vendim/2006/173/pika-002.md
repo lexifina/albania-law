@@ -1,0 +1,1 @@
+2. Kostoja minimale fiskale, për një metër katror sipërfaqe ndërtimi banese, në qytetin e Tiranës, të jetë 30 000 (tridhjetë mijë) lekë, përfshirë edhe TVSH-në e llogaritur të situacionit të punimeve në ndërtim.

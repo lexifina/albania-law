@@ -1,0 +1,1 @@
+5. Kostoja minimale fiskale për një metër katror sipërfaqe ndërtimi banese në rrethet e tjera të vendit përcaktohet në bazë të vlerës sipas pikës 2 të këtij vendimi dhe të koeficientëve, të miratuar me udhëzimin nr.5, datë 31.5.2001 të Këshillit të Ministrave, si aneksi 1, që i bashkëlidhet këtij vendimi.

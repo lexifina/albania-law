@@ -1,0 +1,1 @@
+4. Në koston minimale fiskale nuk përfshihet pjesa që, sipas aktmarrëveshjeve, i takon pronarit të truallit, vlera e projektit, taksa vendore për bashkitë e komunat, që japin lejen e ndërtimit, dhe tarifa e pagueshme në zyrat e regjistrimit të pasurive të paluajtshme.

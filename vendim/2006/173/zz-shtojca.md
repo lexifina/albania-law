@@ -1,0 +1,16 @@
+# Shtojca
+LISTA E FITIMEVE MINIMALE FISKALE TË SHITJES APARTAMENTEVE NË DURRËS
+Zonat
+Fitimi minimal
+Fiskal
+(Euro/M2)
+1
+70
+2
+60
+3
+56
+4
+50
+5
+40

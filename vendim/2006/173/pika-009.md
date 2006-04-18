@@ -1,0 +1,1 @@
+9. Ngarkohet Ministria e Financave që, në bashkëpunim me shoqatat e specializuara të ndërtuesve, të bëjë indeksimin e kostos minimale fiskale, të fitimit minimal fiskal dhe të elementeve të tjera, të prekshme nga inflacioni, për çdo vit kalendarik.

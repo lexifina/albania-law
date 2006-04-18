@@ -1,0 +1,1 @@
+8. Çmimet e llogaritura nëpërmjet metodave, të drejtpërdrejta apo atyre alternative, u vihen, në mënyrë periodike, në dispozicion zyrave të hipotekës, të cilat janë të detyruara të përdorin po ato çmime për qëllime të regjistrimit të pasurive të paluajtshme.
