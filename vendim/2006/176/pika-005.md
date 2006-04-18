@@ -1,0 +1,1 @@
+5. “Buletini i njoftimeve publike” financohet nga Buxheti i Shtetit dhe nga burime të tjera të ligjshme. Agjencia e Prokurimit Publik përgatit materialet për botim për kreun e dytë deri të gjashtë sipas afateve të përcaktuara nga institucioni që bën njoftimin.

@@ -1,0 +1,2 @@
+10. Në të gjitha aktet nënligjore në fuqi, që kanë në përmbajtje shprehjen “njoftime publike a zyrtare, në gazeta me tirazh të lartë apo gazeta kombëtare”, nëse ligji, që rregullon marrëdhënien përkatëse, nuk parashikon ndryshe, dhe fjalët “gazeta me tirazh të lartë” a “gazeta kombëtare”, apo emërtime të tjera të ngjashme, të cilat i referohen botimit në gazeta të njoftimeve publike, të zëvendësohen me fjalët “Buletini i njoftimeve publike”.
+Zëvendësimi i kësaj shprehjeje në të gjitha aktet nënligjore në fuqi është detyrues dhe i menjëhershëm.

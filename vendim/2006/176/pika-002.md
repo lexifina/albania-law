@@ -1,0 +1,3 @@
+2. Në njoftimet publike përfshihet çdo komunikim drejtuar publikut të gjerë apo një grupi të caktuar shoqëror, profesional apo tregtar ekonomik, i cili përmban të dhëna nga institucionet e përcaktuara në pikën 1 të këtij vendimi, për nevoja, kërkesa a oferta dhe që nuk përbëjnë lajm.
+Nuk përbëjnë njoftim publik për buletin, mesazhet promovuese me karakter tregtar (reklama) a sensibilizuese të shoqërive me kapital shtetëror, organizatave jofitimprurëse, të krijuara dhe financuara nga shteti, si dhe të enteve publike a organeve të tjera shtetërore.
+Njoftimet publike për shtypin dhe njoftimet e tjera, që shpërndahen nëpërmjet mjeteve të masmedias, pa pagesë, nuk publikohen në “Buletini i njoftimeve publike”.

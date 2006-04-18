@@ -1,0 +1,1 @@
+7. Agjencia e Prokurimit Publik në faqen e vet të internetit krijon dhe mban arkivin e buletinit të njoftimeve publike. Numri i ri i çdo botimi të këtij buletini i shtohet arkivit, brenda 24 orëve nga data e botimit të “Buletinit të njoftimit publik”. Të dhënat që adminisrohen në këtë arkiv elektronik janë të hapura për publikun.

@@ -1,0 +1,1 @@
+4. Botimi i njoftimeve në “Buletini i njoftimeve publike”, për institucionet e përcaktuara në pikën 1 të këtij vendimi, është pa pagesë. Nuk lejohet përdorimi i fondeve publike për pagesa për kryerje njoftimesh publike në media, me përjashtim të rasteve kur me ligj parashikohet ndryshe.
