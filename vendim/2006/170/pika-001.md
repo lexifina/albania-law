@@ -1,0 +1,1 @@
+1. Lënda djegëse për automjetet me motor diesel, gazoil, (prodhim vendi), sipas STASH 31:1997, që do të përdoret për nevoja të bujqësisë dhe të peshkimit, të denatyrohet, duke u ngjyrosur me ngjyrë jeshile.
