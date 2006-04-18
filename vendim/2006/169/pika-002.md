@@ -1,0 +1,1 @@
+2. Shpenzimet për ngarkimin, transportin dhe shkarkimin e kontenierëve nga “Qyteti i nxënësve” deri në magazinat e Rezervave të Shtetit, Tiranë, të përballohen nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

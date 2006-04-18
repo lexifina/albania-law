@@ -1,0 +1,1 @@
+4. Sipërfaqja e truallit, mbi të cilin do të ndërtohej kjo fabrikë, bashkë me ngrehinat provizore etj. t’i kalojnë, pa pagesë, në pronësi Ministrisë së Arsimit dhe e Shkencës, për ndërtimin e një shkolle.

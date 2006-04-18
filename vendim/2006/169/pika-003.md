@@ -1,0 +1,1 @@
+3. Me kërkesë të Rezervave të Shtetit, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, të vërë në dispozicion të këtij institucioni, dokumentacionin përkatës dhe specialistë të industrisë ushqimore, për identifikimin dhe vlerësimin e makinerive e të pajisjeve, për shitjen e tyre.

@@ -1,0 +1,1 @@
+1. Makineritë dhe pajisjet e fabrikës së ushqimeve për fëmijë “Baby Food”, Tiranë, investim në proces që nga viti 1992, të transferohen pa pagesë, nga sheshi i kësaj fabrike në magazinat e Rezervave të Shtetit, Tiranë.
