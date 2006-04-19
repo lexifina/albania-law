@@ -1,0 +1,1 @@
+7. Efekti financiar, prej 6 000 000 (gjashtë milionë) lekësh, për prodhimin e Kartës së Studentit, për vitin akademik 2006-2007, të përballohet nga buxheti i vitit 2006, i miratuar për Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve.

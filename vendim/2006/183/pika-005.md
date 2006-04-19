@@ -1,0 +1,1 @@
+5. Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, për pajisjen e studentëve me kartë, krijon dhe administron bazën e të dhënave, për çdo student të pajisur me Kartën e Studentit, të cilën e përditëson çdo vit.

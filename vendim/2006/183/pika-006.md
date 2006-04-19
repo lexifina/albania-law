@@ -1,0 +1,1 @@
+6. Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, e cila plotëson kartat e studentëve, sipas kërkesave të rektorateve, bashkëpunon me rektoratet e universiteteve, qeveritë studentore dhe organizatat e ndryshme rinore, për çdo problem, që ka të bëjë me pajisjen e studentëve me Kartën e Studentit, dhe shkëmben në mënyrë të ndërsjellë informacione për bazën e të dhënave.

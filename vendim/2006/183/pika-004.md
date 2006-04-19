@@ -1,0 +1,4 @@
+4. Procedura e pajisjes me Kartën e Studentit është si më poshtë vijon:
+a) Studenti regjistrohet në sekretarinë e universitetit, në fillim të vitit akademik, plotëson dhe depoziton formularin tip, i cili përmban të dhëna individuale për çdo student, fotografinë dhe kërkesën për të pajisur me Kartën e Studentit, shoqëruar me pagesën e përcaktuar në pikën 3 të këtij vendimi;
+b. Rektoratet e universiteteve, në fillim të vitit akademik, paraqesin në Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve, në formë elektronike, listat me emrat e studentëve të regjistruar, që do të pajisen me Kartën e Studentit, si dhe të gjitha të dhënat e përcaktuara në shkronjën ”a”, të kësaj pike;
+c) Rektoratet e universiteteve derdhin në llogarinë e Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve shumën e mbledhur nga pagesa e tarifës për pajisjen me Kartën e Studentit, e cila kalon në zërin “Të ardhura dytësore”.
