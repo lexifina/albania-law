@@ -1,0 +1,1 @@
+2. Njësitë e integrimit europian të bashkërendojnë dhe të mbështesin punën e inititucioneve respektive, për fushat e përqendruara në elementet kryesore të acquis communautaire, në zbatimin e marrëveshjes së Stabilizim-Asociimit, sipas përcaktimit të aneksit I, që i bashkëlidhet këtij vendimi.

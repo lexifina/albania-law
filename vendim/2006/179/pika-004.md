@@ -1,0 +1,1 @@
+4. Nëpunësit e njësisë së integrimit europian emërohen sipas procedurave të përcaktuara në legjislacionin e shërbimit civil, në përputhje me kriteret e parashikuara në aneksin II, që i bashkëlidhet këtij vendimi.
