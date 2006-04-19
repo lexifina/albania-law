@@ -1,0 +1,1 @@
+2. Ministria e Mbrojtjes dhe ndërmarrja “MEICO” të negociojnë të gjitha kushtet e kontratës me shoqërinë “Eurocopter Deutschland GmbH”, për riparimin e helikopterëve BO 105 M VBH, në përputhje me Kodin Civil të Republikës së Shqipërisë dhe me praktikat ndërkombëtare të së drejtës private.

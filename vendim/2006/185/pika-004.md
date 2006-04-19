@@ -1,0 +1,1 @@
+4. Ministritë përfituese, të përmendura në pikën 3, të këtij vendimi, të kryejnë pagesat paradhënie për vlerën e kontratës, doganën e TVSH-në për pajisjet dhe pjesët e këmbimit dhe komisionin në masën 1,5 për qind të vlerës së kontratës për ndërmarrjen “MEICO”, në llogarinë e kësaj ndërmarrjeje, në vlerën dhe sipas afateve të caktuara në tabelën, që i bashkëlidhet këtij vendimi.

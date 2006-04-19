@@ -1,0 +1,1 @@
+5. Ndërmarrja “MEICO”, nëpërmjet letërkreditit vjetor, të kryejë pagesat ndaj shoqërisë “Eurocopter Deutschland GmbH”, sipas detyrimeve të kontratës. Kryerja e pagesave ndaj kontraktorit të bëhet në euro, sipas kursit bankar të këmbimit në ditën e kryerjes së pagesës.
