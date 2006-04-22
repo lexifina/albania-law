@@ -1,0 +1,7 @@
+L I G J
+Nr.9491, datë 13.3.2006
+PËR NJË NDRYSHIM NË LIGJIN NR.7512, DATË 10.8.1991 “PËR SANKSIONIMIN DHE MBROJTJEN E PRONËS PRIVATE, TË NISMËS SË LIRË, TË VEPRIMTARISË PRIVATE TË PAVARUR DHE PRIVATIZIMIT”, TË NDRYSHUAR
+Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+K U V E N D I
+I REPUBLIKËS SË SHQIPËRISË
+V E N D O S I:
