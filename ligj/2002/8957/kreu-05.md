@@ -1,2 +1,2 @@
 KREU V
-KRIJIMI I AGJENCISË SË NDËRMARRJEVE TË VOGLA DHE TË MESME
+KRIJIMI I Agjencisë Shqiptare të Biznesit dhe Investimeve
