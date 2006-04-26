@@ -1,0 +1,1 @@
+10. Tekstet që shtëpitë botuese dërgojnë në shkolla për t’ua paraqitur KOPT-ve do të përfshihen në kontratën e shitblerjes ose u paguhen botuesve me urdhërpagesë të veçantë nga shkolla ose ZA-ja përkatëse, nëse teksti nuk përzgjidhet.

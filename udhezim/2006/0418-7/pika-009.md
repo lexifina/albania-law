@@ -1,0 +1,1 @@
+9. Për tekstet e pasubvencionuara ose pjesërisht të subvencionuara, nxënësit paguajnë diferencën e çmimit pranë shkollave. Kjo diferencë derdhet në llogarinë rrjedhëse përkatëse për t’u transferuar në llogarinë rrjedhëse të shtëpisë botuese me të cilën është lidhur kontrata e shitblerjes.

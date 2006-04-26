@@ -1,0 +1,1 @@
+3. Përkundër vendimit të BOMIT-it mund t’i drejtohet Gjykatës së Shkallës së Parë Tiranë. Ky vendim nuk mund të pezullohet apo rrëzohet nga ndonjë organ administrativ, qoftë ky dhe Ministri i Arsimit dhe i Shkencës.
