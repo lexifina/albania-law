@@ -1,0 +1,1 @@
+4. Shpenzimet administrative që do t’i shtohen primit të pastër për sigurimin e detyrueshëm për mbajtësit e mjeteve motorike për përgjegjësitë ndaj palëve të treta për kontratat kufitare nuk mund të jenë më të ulta se 20% e primit.
