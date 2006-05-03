@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4318,
+  "title": "Për caktimin e anëtarëve zëvendësues në Komisionet e Përhershme të Kuvendit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "26",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-04-20",
+  "published": "2006-05-03",
+  "in_force": "2006-05-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/70fc990fa95c3a45e38da006279e38e6d329a417d3826bf9c847b1281017ddb2.docx",
+  "source_sha256": "70fc990fa95c3a45e38da006279e38e6d329a417d3826bf9c847b1281017ddb2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4318",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/04/20/26",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
