@@ -1,0 +1,1 @@
+1. Transferimin e truallit dhe të objektit “Hidrovori i qytetit Vlorë”, me sipërfaqe të përgjithshme trualli 4631,2 m2 nga e cila 171,2 m2 ndërtesë, nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në pronësi të bashkisë së Vlorës.
