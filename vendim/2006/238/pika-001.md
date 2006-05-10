@@ -1,0 +1,1 @@
+1. Kalimin e disa mjediseve të godinës 2-katëshe silicate, me sipërfaqe totale 2209 m2, deri tani në administrim të Ndërmarrjes Elektroteknike, Tiranë, në përgjegjësinë e administrimi të Drejtorisë së Përgjithshme të Metrologjisë dhe Kalibrimit, sipas planvendosjes që i bashkëlidhet këtij vendimi.
