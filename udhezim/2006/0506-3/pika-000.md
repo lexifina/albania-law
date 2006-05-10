@@ -1,0 +1,1 @@
+Në kapitullin III, shkronja b”, “Pjesa e veçantë”, të udhëzimit nr.1, datë 1.1.1996 të Këshillit të Ministrave “Për prokurimin publik”, të ndryshuar, të bëhen shtesa dhe ndryshimi, si më poshtë vijon:

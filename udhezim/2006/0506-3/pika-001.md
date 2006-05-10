@@ -1,0 +1,2 @@
+1. Në fund të paragrafit të pestë të pikës 1 “Për prokurimin e ndërtimeve” shtohet fjalia me këtë përmbajtje:
+“Ndërsa për objektet me vlerë nga 200 000 000 (dyqind milionë) deri në 1 000 000 000 (një miliard) lekë, vlera e objekteve të realizuara në pesë vitet e fundit të jetë jo më pak se 50 për qind e vlerës së objektit që prokurohet dhe vlera e njërit prej këtyre objekteve të jetë jo më pak se 20 për qind e kësaj vlere.”.
