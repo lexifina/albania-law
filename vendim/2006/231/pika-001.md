@@ -1,0 +1,1 @@
+1. Punonjësit e Policisë së Burgjeve trajtohen me kompensimin ushqimor në vlerë, sipas racionit bazë ushqimor, për vaktin e drekës, për ditët efektive të punës, sipas normës ushqimore, të miratuar me vendimin nr.160, datë 9.7.1975 të Këshillit të Ministrave.
