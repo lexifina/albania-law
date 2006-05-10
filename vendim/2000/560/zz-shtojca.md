@@ -1,75 +1,67 @@
 # Shtojca
-STATUTI I SPITALIT DURRËS
+Statuti i Spitalit Durrës
 Neni 1
-Spitali Durrës, që më poshtë do të quhet Spitali, është institucion i shërbimit shëndetësor shtetëror me buxhet të pavarur, jo fitimprurës që të ushtron veprimtarinë e tij në bazë të Ligjit bazë të Shërbimit Shëndetësor, të Kushtetutës, në ambientin dhe me pajisjet që janë pronë e Ministrisë së Shëndetësisë.
+Spitali i Durrësit është person juridik publik, në kuptim të nenit 25 të Kodit Civil, me qendër në Durrës.
 Neni 2
-SPITALI është person juridik me qendër në Durrës.
+Spitali, si institucion i shërbimit shëndetësor publik, është jofitimprurës. Spitali ushtron veprimtarinë e tij sipas ligjit bazë të shërbimit shëndetësor, si edhe të ligjit të shërbimit spitalor në Republikën e Shqipërisë. Infrastruktura fizike dhe pajisjet e këtij spitali janë pronë e Ministrisë së Shëndetësisë.
 Neni 3
-- Rregullorja e funksionimit teknik të Spitalit si institucion i shërbimit shëndetësor miratohet nga Ministria e Shëndetësisë.
-- Rregullorja e funksionimit ekonomiko-financiar të Spitalit, hartohet dhe miratohet nga Bordi i Spitalit.
-- Normativat e përdorimit të materialeve, lëndëve djegëse, të ushqimit, normativat e ngarkesës së personelit mjekësor dhe të punonjnësve të tjerë sipas specialitetit hartohen nga Spitali i Durrësit dhe miratohen nga Këshilli Administrativ i ISKSH.
+Spitali drejtohet nga Bordi dhe drejtori i spitalit. Bordi është organi më i lartë ekzekutiv i spitalit.
 Neni 4
-Spitali drejtohet nga:
-- Bordi i spitalit
-- Drejtori
-Organi më i lartë ekzekutiv i Spitalit është Bordi. Bordi i Spitalit përbëhet nga 11 anëtarë. Përbërja e tij është si më poshtë:
-- 1 përfaqësues i DSHP-së
-- 1 përfaqësues i Ministrisë së Shëndetësisë
-- 1 përfaqësues i Bashkisë Durrës
-- 1 përfaqësues i Spitalit Durrës (Drejtori)
-- 2 përfaqësues i BOBSH
-- 1 përfaqësues i ISKSH
-- 1 përfaqësues i Urdhërit të Mjekut
-- 1 përfaqësues i shoqatës së pacientëve
-- 2 përfaqësues nga sindikatat më të përfaqësuara
+Bordi i spitalit përbëhet nga 9 anëtarë. Përbërja e tij është si më poshtë:
+- 1 përfaqësues të Ministrisë së Shëndetësisë;
+- 1 përfaqësues i DSHP-së Durrës;
+- 1 përfaqësues i prefekturës;
+- 1 përfaqësues i shoqatës së biznesmenëve Durrës;
+- 2 përfaqësues të ISKSH-së;
+- 1 përfaqësues i Urdhrit të Mjekut;
+- 1 përfaqësues i shoqatës së pacientëve;
+- 1 përfaqësues nga sindikata më e përfaqësuar për shëndetësinë në Durrës;
+- Drejtori i spitalit (pa të drejtë vote).
+Mbledhjet e Bordit janë të hapura. Bordi mund të thërrasë në mbledhjet e tij të gjithë drejtuesit e spitalit dhe/ose specialistë, ekspertë të tjerë jashtë spitalit, për çështje të ndryshme.
 Neni 5
-Secila nga organizatat apo institutcionet e përmendura caktojnë përfaqësuesit e tyre në Bord. Periudha e përfaqësimit në Bord do të jetë 3 vjet.
+Secila nga organizatat apo institucionet e përmendura, caktojnë përfaqësuesit e tyre në Bord. Periudha e përfaqësimit në Bord është 3 vjet. Anëtarët e Bordit kanë të drejtë rizgjedhjeje jo më shumë se dy herë radhazi.
 Neni 6
-Kryetari i Bordit është përfaqësues i Ministrisë së Shëndetësisë.
-N/Kryetari zgjidhet nga Bordi.
+Kryetari i Bordit është përfaqësues i Ministrisë së Shëndetësisë. Nënkryetari zgjidhet nga Bordi me votim të fshehtë.
 Neni 7
-Mbledhja thirret nga Kryetari ose Nënkryetari në mungesë të Kryetarit. Drejtori i Spitalit ka të drejtë të kërkojë mbledhjen e Bordit kur gjykon se kërkohen vendime të shpejta që nuk janë në kompetencën e tij. Mbledhja e Bordit njoftohet me shkrim të paktën 7 ditë përpara duke bërë të ditur dhe rendin e ditës. Kur mbledhja thiret nga Drejtori, kriteri i afatit nuk zbatohet.
+Mbledhja thirret nga kryetari i Bordit dhe njoftohet me shkrim të paktën 7 ditë përpara duke bërë të ditur dhe rendin e ditës. Drejtori i spitalit ka të drejtë të kërkojë mbledhjen e Bordit, kur gjykon se kërkohen vendime të shpejta që nuk janë në kompetencën e tij. Kur mbledhja thirret nga drejtori, kriteri i afatit nuk zbatohet.
 Neni 8
-Mbledhja zhvillohet kur janë të pranishëm 2/3 e anëtarëve, në rast të kundërt mbledhja shtyhet për ditën tjetër duke bërë dhe njëherë lajmërimin. Në këtë rast mjafton gjysma e anëtarëve.
-Për mbledhjen e Bordit mbahen procesverbal nga një person i pëhershëm i autorizuar nga Kryetari.
-Vendimet e Bordit nënshkruhen nga Kryetari ose Nënkryetari dhe depozitohen në Spital.
+Mbledhja zhvillohet kur janë të pranishëm 2/3 e anëtarëve, në rast të kundërt mbledhja shtyhet për ditën tjetër, duke përsëritur lajmërimin. Në këtë rast, mjafton një e dyta e anëtarëve.
+Për mbledhjen e Bordit mbahet procesverbal nga një person i përhershëm i autorizuar nga kryetari.
+Vendimet e Bordit nënshkruhen nga kryetari dhe depozitohen në spital.
 Bordi mblidhet jo më pak se 4 herë në vit.
 Neni 9
-Vendimet e Bordit merren me shumicë votash. Çdo anëtar i Bordit ka të drejtën e një vote. Kur votat barazohen, vota e Kryetarit ose Nënkryetarit (në mungesë të kryetarit) është vendimtare.
+Vendimet e Bordit merren me shumicë votash. Çdo anëtar i Bordit ka të drejtën e një vote. Kur votat barazohen, vota e kryetarit është vendimtare.
 Neni 10
-Anëtarët e Bordit marrin një shpërblim për pjesëmarrje, masa e të cilit propozohet nga Spitali dhe miratohet nga Bordi.
+Nënkryetari i bordit ushtron të drejtat e kryetarit në mungesë të tij.
 Neni 11
-Funksionet e Bordit janë:
-- Të kontrollojë drejtimin e veprimtarisë së Spitalit
-- Propozon në Ministrinë e Shëndetësisë për emërimin ose shkarkimin e Drejtorit, Nëndrejtorit të Spitalit
-- Përgjigjet për zbatimin dhe kontrollin e politikave shëndetësore të Ministrisë së Shëndetësisë.
-- Miraton projektin e kontratës që do të lidhet midis Spitalit dhe ISKSH.
-- Miraton çdo vit raportin vjetor, bilancin, buxhetin vjetor dhe planin perspektiv 3 vjeçar të spitalit të paraqitur nga Drejtori i Spitalit.
-- Pëërcakton dhe miraton strukturën dhe numrin e punonjësve të Spitalit dhe pagat. Miraton rregulloren e funksionimit ekonomiko-financiar (neni 3).
-- Shqyrton noramtivat e përdorimit të materialeve, lëndëve djegëse, të ushqimit, normativat e ngarkesës së personelit mjekësor dhe të punonjësve të tjerë sipas specialitetit dhe i paraqet për miratim pranë ISKSH.
-- Miraton përdorimin e tepricave në fund të vitit.
-- Harton dhe miraton Rregulloren e funksionimit të Bordit.
+Anëtarët e Bordit për pjesëmarrje në çdo mbledhje, marrin shpërblim sipas akteve të Këshillit të Ministrave.
 Neni 12
-Anëtarët e Bordit largohen nga detyra kur:
-- dënohen për vepra penale.
-- japin dorëheqjen.
+Funksionet e Bordit janë:
+a) Përgjigjet për zbatimin e politikave shëndetësore dhe udhëzimeve të Ministrisë së Shëndetësisë në spitalin e Durrësit.
+b) Mbikëqyr dhe kontrollon drejtimin e veprimtarisë së spitalit.
+c) Është përgjegjës për cilësinë e shërbimit.
+d) Propozon Ministrit të Shëndetësisë emërimin dhe shkarkimin e drejtorit, si edhe të nëndrejtorëve të spitalit.
+e) Emëron shefat e shërbimeve.
+f) Ngarkon drejtorin e spitalit të negociojë me ISKSH/DRSKSH-në Durrës projekt kontratën.
+g) Miraton projektin e kontratës që lidhet midis spitalit dhe DRSKSH-së Durrës.
+h) Miraton çdo vit raportin vjetor, bilancin, buxhetin vjetor dhe planin perspektiv 3-vjeçar të spitalit të paraqitur nga drejtori i spitalit.
+i) Miraton mënyrën e përdorimit të të ardhurave, me nxjerrjen e rezultatit financiar.
+j) Kontrollon zbatimin e normave të vendosura dhe të miratuara nga Ministria e Shëndetësisë lidhur me numrin e personelit.
+k) Miraton çdo ndryshim në strukturën organizative të spitalit, përfshirë rastet kur nevojiten ndryshime në numrin e personelit.
+l) Kontrollon e miraton zbatimin e rregullave dhe të procedurave të punësimit.
+m) Kontrollon zbatimin e normave të përdorimit të materialeve të buta, të lëndëve djegëse dhe të ushqimit.
+n) Harton dhe miraton rregulloren e funksionimit të Bordit.
+o) Harton dhe i paraqet për miratim Ministrit të Shëndetësisë rregulloren e funksionimit teknik të spitalit.
+p) Raporton te Ministri i Shëndetësisë për veprimtarinë e përgjithshme të spitalit.
 Neni 13
-Emërimi dhe shkarkimi i Drejtorit të Spitalit bëhet nga bordi me miratim të Ministrit të Shëndetësisë.
+Bordi i delegon drejtorit të spitalit përgjegjësitë e menaxhimit të spitalit. Marrëdhëniet midis Bordit dhe drejtorit rregullohen me firmosjen e një kontrate njëvjeçare. Në kontratë vendosen objektiva specifikë, si edhe përcaktohen qartë detyrat e përgjegjësitë e drejtorit.
 Neni 14
-Kompetencat e Drejtorit të Spitalit:
-1. Drejtori i spitalit përfaqëson Spitalin si person jurudik. Ai është titullari ekzekutiv që drejton, organizon dhe ka të drejtë të ushtrojë kontrolle mbi veprimtarinë e Spitalit.
-2. Raporton të paktën 1 herë në vit për veprimtarinë e Spitalit para Bordit.
-3. Përcakton rregulloren e brendshme të Spitalit ose nxjerr urdhëra të brendshëm që rregullojnë veprimtarinë e Spitalit.
-4. Ka të drejtë të punësojë personel mjekësor dhe jo mjekësor të Spitalit konform kërkesave të Spitalit.
-5. Propozon në Bord buxhetin, paraqet raportin vjetor dhe bilancin financiar.
-6. Merr mendime për largime nga puna për shkelje të kontratës, të rregulloreve të shërbimit apo të disipinës.
-7. Përfaqëson Spitalin në bisedimet për lidhjen e kontratës midis këtij të fundit dhe DSKSH Durrës, kontratë kjo që përcakton Spitalin dhe DSKSH-në si palë.
-8. Ndjek realizimin e treguesve tekniko-ekonomikë të Spitalit, vetë ose me zëvendësat e tij.
-9. Nënshkruan të gjithë aktet dhe kontratat që angazhojnë Spitalin ndaj subjekteve ose personave të tjerë juridikë konform legjislacionit në fuqi. Miraton dokumentacionin dhe zbatimin e procedurave të prokurimit publik sipas ligjit në fuqi. Vlefshmëria ligjore e akteve, kontratave dhe procedurave të prokurimeve publike kontrollohen nga Kontrolli i Shtetit Durrës.
-10. Përgjigjet para Bordit dhe Ministrisë së Shëndetësisë.
-11. Vendos për kualifikimin dhe specializimin e kuadrit të lartë dhe të mesëm sipas nevojave dhe kërkesave të Spitalit.
-12. Drejtori kur emërohet merr në dorëzim detyrën dhe kur largohen dorëzon detyrën me proces-verbal.
+Detyrat dhe përgjegjësitë e drejtorit të spitalit:
+a) Drejtori i spitalit përfaqëson spitalin në marrëdhënie me të tretët. Ai është titullari ekzekutiv që drejton, organizon dhe ka të drejtë të ushtrojë kontroll mbi veprimtarinë e spitalit.
+b) Raporton e përgjigjet para Bordit për veprimtarinë e spitalit, si të kërkohet nga Bordi.
+c) I paraqet Bordit për miratim projektbuxhetin (të hartuar në bashkëpunim me Komisionin Mjekësor të spitalit), raportin vjetor dhe bilancin financiar.
+d) I propozon Bordit planin e trajnimeve për lidhjen e kontratës midis këtij të fundit dhe DRSKSH-së Durrës, kontratë kjo që përcakton spitalin dhe DRSKSH-në si palë.
+f) Ndjek realizimin e treguesve tekniko-ekonomikë të spitalit.
+g) Nënshkruan të gjitha aktet dhe kontratat që angazhojnë spitalin ndaj subjekteve ose personave të tjerë juridikë në përputhje me legjislacionin në fuqi. Miraton dokumentacionin dhe zbatimin e kontratave të prokurimit publik sipas ligjit në fuqi.
 Neni 15
-Në Spital funksionon Këshilli Teknik Administrativ me përbërje sipas rregullores së shërbimit të Kujdesit Shëndetësor dytësor të miratuar nga Ministria e Shëndetësisë.
-Neni 16
-Problemet që nuk janë të përcaktuara në këtë statut, rregullohen me vendime të Bordit drejtues brenda dispozitave ligjore dhe kompetencave që i janë dhënë këtij Bordi.
+Problemet që nuk janë përcaktuar në këtë statut, rregullohen me vendime të Bordit të spitalit brenda dispozitave ligjore dhe kompetencave që i janë dhënë këtij Bordi.
