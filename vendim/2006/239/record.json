@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5024,
+  "title": "Për shfuqizimin e vendimit nr.313, datë 11.7.1994 të Këshillit të Ministrave “Për krijimin e degëve të buxhetit në rrethe",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "239",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-04-27",
+  "published": "2006-05-10",
+  "in_force": "2006-05-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/231a1fa169c3b6e0000994f96ccae031b64bf9def259e9da7adda8393ee5e9b0.docx",
+  "source_sha256": "231a1fa169c3b6e0000994f96ccae031b64bf9def259e9da7adda8393ee5e9b0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5024",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/04/27/239",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
