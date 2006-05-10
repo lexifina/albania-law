@@ -1,0 +1,1 @@
+1. Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në buxhetin e miratuar për vitin 2006, zëri “emergjenca veterinare”, t’i shtohet fondi prej 10 000 000 (dhjetë milionë) lekësh për emergjencën veterinare, kontrollin, parandalimin dhe luftimin e sëmundjeve infektive, me karakter tepër përhapës e dëmtues te kafshët.
