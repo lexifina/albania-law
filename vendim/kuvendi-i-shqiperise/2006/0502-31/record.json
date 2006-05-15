@@ -1,0 +1,28 @@
+{
+  "qbz_id": 4349,
+  "title": "Vendim Nr.31 Dt.02.05.2006",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "31",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-05-02",
+  "published": "2006-05-15",
+  "in_force": "2006-05-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/89d306050aaf7d969343ee10a8b3bf57bc70eddc2504bf30c0c5e420e1b0e915.docx",
+  "source_sha256": "89d306050aaf7d969343ee10a8b3bf57bc70eddc2504bf30c0c5e420e1b0e915",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4349",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/05/02/31",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    4346
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
