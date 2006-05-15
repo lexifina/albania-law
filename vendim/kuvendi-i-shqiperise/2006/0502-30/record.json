@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4343,
+  "title": "Për miratimin e raportit të komisionit për çështjet ligjore, administratën publike dhe të drejtat e njeriut për ngritjen e komisionit hetimor mbi shqyrtimin e kërkesës së një grupi deputetësh për nisjen e procedurës së shkarkimit nga detyra të Prokurorit të Përgjithshëm",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "30",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-05-02",
+  "published": "2006-05-15",
+  "in_force": "2006-05-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a109910ffc6266aaf63580339345c559a3946918bb79ade3b0dff9ee70f9363f.docx",
+  "source_sha256": "a109910ffc6266aaf63580339345c559a3946918bb79ade3b0dff9ee70f9363f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4343",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/05/02/30",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
