@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4342,
+  "title": "Për disa ndryshime në përbërjen e komisioneve të përhershme të kuvendit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "29",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-04-25",
+  "published": "2006-05-15",
+  "in_force": "2006-05-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8aac9f44f1fa5517057f5f29e6d2fbb50b141e2570d1ec59a2560a00dc6ab1ea.docx",
+  "source_sha256": "8aac9f44f1fa5517057f5f29e6d2fbb50b141e2570d1ec59a2560a00dc6ab1ea",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4342",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/04/25/29",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
