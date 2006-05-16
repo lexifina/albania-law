@@ -1,0 +1,1 @@
+2. Ministria e Punëve Publike, Transportit dhe Telekomunikacionit dhe Ministria e Ekonomisë, Tregtisë dhe Energjetikës të jenë organi shtetëror i autorizuar (OSHA) për të negociuar dhe nënshkruar marrëveshjen e koncesionit.

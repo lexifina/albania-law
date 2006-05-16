@@ -1,0 +1,1 @@
+1. Miratimin e fillimit të procedurës së ndërtimit me koncesion, të formës “BOT”, të autostradës Tiranë-Elbasan (Vaqar-Papës), sipas propozimit të paraqitur nga shoqëria “Be-Alba-Konstruksion”, sh.p.k., si propozim i papërkuar.
