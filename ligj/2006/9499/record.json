@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5042,
+  "title": "Për disa ndryshime në ligjin nr.9121, datë 28.7.2003 “Për mbrojtjen e konkurrencës”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9499",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-04-03",
+  "published": "2006-05-02",
+  "in_force": "2006-05-17",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e857c4c0392edd2253cc95cd2bd7f4cd1228a94b814b36a4a2ceebc112b9d9b1.docx",
+  "source_sha256": "e857c4c0392edd2253cc95cd2bd7f4cd1228a94b814b36a4a2ceebc112b9d9b1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5042",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/04/03/9499",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
