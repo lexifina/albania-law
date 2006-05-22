@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123830,
+  "title": "PËR RATIFIKIMIN E KONVENTËS SË KËSHILLIT TË EUROPËS “PËR NDIHMËN E NDËRSJELLË JURIDIKE NË FUSHËN PENALE” DHE PROTOKOLLIN E SAJ SHTESË",
+  "type": "Ligj",
+  "number": "8498",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-06-10",
+  "version_no": 1,
+  "qbz_version_id": 10833,
+  "in_force": "2006-05-22",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2006-05-22",
+  "changed_by_qbz_id": 4428,
+  "changed_by_number": "9539",
+  "changed_by_title": "Për disa ndryshime në ligjin nr.8498, datë 10.6.1999 “Për ratifikimin e “Konventës së Këshillit të Europës për ndihmë të ndërsjellë juridike në fushën penale” dhe të protokollit të saj shtesë”",
+  "source": "https://qbz.gov.al/files/fc96446ee0ea5fbe3214ae09560d4702d677ab906051677678dfbc211e3879ad.docx",
+  "source_sha256": "fc96446ee0ea5fbe3214ae09560d4702d677ab906051677678dfbc211e3879ad",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123830",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123830/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
