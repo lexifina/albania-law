@@ -1,0 +1,2 @@
+4. DPGJC, mbi bazën e informacionit të pasqyruar në formularët A/U-DUB, bazuar në ligjin nr.8950, datë 10.10.2002 ”Për gjendjen civile”, i ndryshuar, në ligjin nr.9062, datë 08.05.2003 “Kodi i familjes”, i ndryshuar dhe në aktet nënligjore të dala në zbatim të tyre, përcakton arsyen e krijimit të dublimit dhe urdhëron rast pas rasti ZGJC-të përkatëse, të përfundojnë procedurat ligjore.
+DPGJC i dorëzon këto urdhra çdo të hënë në degët e gjendjes civile të qarqeve, të cilat ua shpërndajnë ZGJC-ve përkatëse çdo të martë.

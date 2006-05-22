@@ -1,0 +1,1 @@
+1. Drejtoria e Përgjithshme e Gjendjes Civile (DPGJC), jo më vonë se 5 ditë nga hyrja në fuqi e këtij udhëzimi, identifikon dublimet në listat e zgjedhësve të 3 korrikut 2005, me burim nga regjistrat themeltarë në njësi të ndryshme, i grupon ato në bazë të zyrave të gjendjescCivile (ZGJC) dhe fletë familjeve dhe ua dërgon ZGJC-ve sipas formularit A/U-DUB bashkëngjitur.

@@ -1,0 +1,1 @@
+11. Degët e gjendjes civile në qark, pasi kontrollojnë saktësinë e plotësimit të formularëve B/U-DUB dërgojnë një kopje të tyre, si edhe një informacion mbi ecurinë e punës dhe problematikën e hasur, çdo të enjte pranë DPGJC-së.

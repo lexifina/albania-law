@@ -1,0 +1,1 @@
+12. Në rast shkeljeje të detyrave të përcaktuara në këtë udhëzim, personat përgjegjës në NJQV/prefekturë dënohen me gjobë, përkatësisht nga kryetari i NJQV-së/prefekti, nga 10 000 deri në 30 000 lekë.

@@ -1,0 +1,1 @@
+8. ZGJC-të i raportojnë kryetarëve të njësive të qeverisjes vendore (NJQV) përkatëse çdo të hënë mbi ecurinë e punës së realizuar në zbatim të këtij udhëzimi, si dhe plotësojnë dhe u dorëzojnë atyre formularin ”B/U-DUB”.
