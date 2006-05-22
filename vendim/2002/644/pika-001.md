@@ -1,1 +1,2 @@
-1. Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve, që preken nga ndërtimi i nënstacionit 400/110 kv, në Zemblak, Korçë.
+1.Shpronësimin për interes publik të pasurive të paluajtshme të pronarëve, që preken nga ndërtimi i nënstacionit 400/110 kv, në Zemblak, Korçë.
+Zhvlerësimin, për interes publik, të pasurive dhe të veprimtarisë së kantierit të prodhimit të materialeve të ndërtimit, pronë e shoqërisë “Grand-Inert”, sh.p.k., Korçë, për shkak të funksionimit, brenda kushteve teknike, të nënstacionit 400/110 kV, Zëmblak, Korçë, sipas tabelës që i bashkëlidhet këtij vendimi.

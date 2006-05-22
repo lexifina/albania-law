@@ -1,1 +1,1 @@
-2. Shpronësimi të bëhet në favor të KESH, sh.a.-së, Tiranë.
+2. Shpronësimi dhe zhvlerësimi të bëhen në favor të KESH sh.a.-së, Tiranë.
