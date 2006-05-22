@@ -1,0 +1,1 @@
+3. Rehabilitimi i habitateve të dëmtuara nga guroret kryhet sipas planeve të rehabilitimit të tyre, të cilët paraqiten nga subjektet e këtyre aktiviteteve në agjencinë rajonale të mjedisit të qarkut ku do të hapë guroren, si pjesë e dokumentacionit për t’u pajisur me leje mjedisore.

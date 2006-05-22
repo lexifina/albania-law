@@ -1,0 +1,1 @@
+7. Plani i rehabilitimit është dokumenti që përmban projektin e rehabilitimit dhe afatet kohore për kryerjen e punimeve rehabilituese. Projekti shoqërohet me përshkrimet përkatëse dhe me fotografi që qartësojnë gjendjen e habitatit para përdorimit për gurore.

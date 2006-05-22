@@ -1,0 +1,1 @@
+9. Plani i rehabilitimit trajton detyrimisht masat dhe veprimet për sistemimin dhe përgatitjen e vendit, për parandalimin e erozionit, për gjelbërimin dhe rigjelbërimin, si dhe ndërhyrjet e vazhdueshme që sigurojnë mirëmbajtjen e habitatit.

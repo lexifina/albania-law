@@ -1,0 +1,1 @@
+5. Personat fizikë e juridikë që kanë përfunduar aktivitetin e shfrytëzimit të gurores dhe nuk e kanë rehabilituar habitatin që kanë dëmtuar, mbeten të detyruar për ta rehabilituar atë ose duke zbatuar kërkesat e këtij udhëzimi ose do të detyrohen gjyqësisht.

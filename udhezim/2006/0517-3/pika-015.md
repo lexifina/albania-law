@@ -1,0 +1,1 @@
+15. Në raportimet periodike që bëjnë subjektet për rezultatet që u dalin nga vetëmonitorimi i veprimtarisë që zhvillojnë, punët dhe veprimet që kanë bërë për rehabilitimin e habitatit të raportohen si zë i veçantë.

@@ -1,0 +1,1 @@
+6. Inspektorati i Mjedisit evidenton sipas qarqeve subjektet juridike e fizike të cilat nuk kanë planin e rehabilitimit të sipërfaqeve rreth dhe në brendësi të guroreve dhe u kërkon hartimin dhe zbatimin e tij, gjatë gjithë fazave të operacioneve të punimeve. Subjektet që nuk i përgjigjen kësaj kërkese, paditen në gjykatë për shpërblimin e dëmeve që i kanë shkaktuar mjedisit.

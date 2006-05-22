@@ -1,0 +1,1 @@
+11. Rigjelbërimi i habitatit me bimësi kryhet, duke i dhënë përparësi bimëve autoktone, të përshtatshme me zonën, që kanë ekzistuar para hapjes së gurores, si dhe bimësisë tjetër që është në përputhje me tipin e tokës.

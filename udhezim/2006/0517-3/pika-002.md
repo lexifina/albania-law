@@ -1,0 +1,1 @@
+2. Rehabilitimi i sipërfaqeve (habitateve) të dëmtuara nga guroret është pjesë e pandarë e veprimtarisë shfrytëzuese të tyre. Ai parashikohet, planëzohet e zhvillohet njëkohësisht dhe krahas veprimtarisë shfrytëzuese dhe vazhdon pas përfundimit të saj, deri sa habitati të jetë rehabilituar plotësisht.

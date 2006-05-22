@@ -1,0 +1,1 @@
+13. Pyllëzimet e ripyllëzimet e terreneve të degraduara, pasi përfundojnë, i dorëzohen me dokumente të rregullta Drejtorisë së Shërbimit Pyjor, e cila i vë në ruajtje dhe i mbron për një periudhë 20-vjeçare për të bërë të mundur rimëkëmbjen e tyre.
