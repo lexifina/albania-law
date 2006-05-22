@@ -1,0 +1,1 @@
+1. Anëtarët e Këshillit Mbikëqyrës të Agjencisë së Trajtimit të Kredive shpërblehen, për pjesëmarrje në këtë këshill në raportin: kryetari 30 për qind të pagës së Sekretarit të Përgjithshëm të Ministrisë së Financave dhe anëtarët 20 për qind të pagës së Sekretarit të Përgjithshëm të kësaj ministrie.

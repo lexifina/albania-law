@@ -1,0 +1,1 @@
+2. Anëtarët e Këshillit Mbikëqyrës të Agjencisë së Trajtimit të Kredive përfitojnë shpërblim, vetëm për pjesëmarrje në mbledhjet e këshillit. Kur Këshilli Mbikëqyrës zhvillon më tepër se një mbledhje në muaj, anëtarët përfitojnë shpërblim, sipas kuotës së përcaktuar në pikën 1 të këtij vendimi, vetëm për mbledhjen e parë.
