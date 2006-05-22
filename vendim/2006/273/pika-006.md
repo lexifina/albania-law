@@ -1,0 +1,1 @@
+6. Ministri i Arsimit dhe Shkencës, mbështetur edhe në sugjerimet e Këshillit Kombëtar të Arsimit dhe Formimit Profesional, i propozon Kryeministrit strukturën dhe organikën e Agjencisë Kombëtare të Arsimit dhe Formimit Profesional.

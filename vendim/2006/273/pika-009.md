@@ -1,0 +1,2 @@
+9. Emërimi dhe lirimi nga detyra i Drejtorit të Agjencisë Kombëtare të Arsimit dhe Formimit Profesional bëhen në përputhje me procedurat e përcaktuara në vendimin nr.173, datë 7.3.2003 të Këshillit të Ministrave “Për emërimin, lirimin ose shkarkimin nga detyra të drejtuesve të institucioneve në varësi të Këshillit të Ministrave, Kryeministrit ose të ministrave”.
+Para nxjerrjes së aktit të emërimit, lirimit ose shkarkimit nga detyra të Drejtorit të Agjencisë, Ministri i Arsimit dhe Shkencës këshillohet me Këshillin Kombëtar të Arsimit dhe Formimit Profesional.
