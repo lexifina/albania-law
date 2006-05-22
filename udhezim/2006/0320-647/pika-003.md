@@ -7,7 +7,7 @@ ii) numrin e fuqisë punëtore,
 iii) listën e punëtorëve të punësuar dhe të siguruar para aplikimit për përfitim për programe nxitje punësimi
 iv) nivelin e pagës që ai ka dhënë për çdo person.
 d) Vërtetim për kontributet e paguara për sigurimet shoqërore e shëndetësore për tatimpaguesin, që lëshohen nga organi tatimor përkatës.
-e) Vërtetim për periudhën pararendëse (për të paktën 1 vit) për pagesën e kontributit të sigurimeve shoqërore dhe shëndetësore, si dhe numrin e personave të siguruar, të lëshuar nga organet e sigurimeve shoqërore.
+e) Vërtetim për periudhën pararendëse (për aq kohë sa kryen aktivitetin, por jo më gjatë se një periudhë njëvjeçare) për pagesën e kontributit të sigurimeve shoqërore dhe shëndetësore, si dhe numrin e personave të siguruar, të lëshuar nga organet e sigurimeve shoqërore.
 f) Numrin e llogarisë bankare.
 g) Një informacion mbi:
 i) numrin e punëtorëve që kërkohen të punësohen,
@@ -17,5 +17,5 @@ iv) kohëzgjatjen e punësimit,
 v) llojin e kontratës që kërkon të zbatojë,
 vi) nivelin e pagës.
 h) Një plan biznesi ku të jetë e justifikuar rritja e menjëhershme e fuqisë punëtore dhe kushtet e punës, pajisjeve dhe ambienteve.
-i) Vërtetim nga dega e tatim-taksave e rrethit ku ushtron veprimtarinë personi juridik/fizik, për shlyerjen e detyrimeve tatimore, për periudhën njëvjeçare pararendëse dhe periudhën në vazhdim deri në momentin që aplikon për program nxitje punësimi.
+i) Vërtetim nga dega e tatim-taksave ku ushtron veprimtarinë personi juridik/fizik, për shlyerjen e detyrimeve tatimore, për aq kohë sa kryen aktivitetin, por jo më gjatë se një periudhë njëvjeçare.
 Me të dhënat e dokumentacionit të mësipërm, punëdhënësi në bashkëpunim me zyrën kompetente të punësimit, plotëson formularin përkatës.
