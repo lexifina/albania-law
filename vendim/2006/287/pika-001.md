@@ -1,0 +1,1 @@
+1. Studentët e pajisur me Kartën e Studentit nga Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, për shërbimet e ofruara nga entet publike, institucione kulturore, përfitojnë shërbime me tarifa të reduktuara, në masën 50 për qind të çmimit të miratuar të biletave për këto institucione.
