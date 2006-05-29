@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123445,
+  "title": "PËR MËNYRËN DHE PROCEDURAT E SHITJE SË PASURIVE TË PERSONAVE JURIDIKË JOBANKARË QË KANË MARRË HUA NGA PUBLIKU I GJERË",
+  "type": "Ligj",
+  "number": "8386",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1998-07-30",
+  "version_no": 1,
+  "qbz_version_id": 10759,
+  "in_force": "2006-05-29",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2006-05-29",
+  "changed_by_qbz_id": 4471,
+  "changed_by_number": "9553",
+  "changed_by_title": "Për disa ndryshime në ligjin nr.8386, datë 30.7.1998 “Për mënyrën dhe procedurat e shitjes së pasurive të personave juridikë, jobankarë, që kanë marrë hua nga publiku i gjerë”",
+  "source": "https://qbz.gov.al/files/6aafb94bf01deff6db533bc59b13207e318011d4de3d2778ea888bdbfcacce7b.docx",
+  "source_sha256": "6aafb94bf01deff6db533bc59b13207e318011d4de3d2778ea888bdbfcacce7b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123445",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123445/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
