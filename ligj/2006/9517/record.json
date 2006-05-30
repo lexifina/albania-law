@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4339,
+  "title": "Për një ndryshim në ligjin nr.7943, datë 1.6.1995 “Për pensionet suplementare dhe institutet private të pensioneve”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9517",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-04-18",
+  "published": "2006-05-15",
+  "in_force": "2006-05-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e388f698cb2de9612c46fdba30697a98981fcc3f1689063e02ddab1ec40a4ca1.docx",
+  "source_sha256": "e388f698cb2de9612c46fdba30697a98981fcc3f1689063e02ddab1ec40a4ca1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4339",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/04/18/9517",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
