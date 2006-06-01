@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4357,
+  "title": "Për disa ndryshime në ligjin nr.8537, datë 18.10.1999 “Për Barrët Siguruese",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9524",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-04-25",
+  "published": "2006-05-17",
+  "in_force": "2006-06-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/be050c848867f3e8adc6035ea5e315d1fdc4883dcf9e97d93ba0018ceabd9eee.docx",
+  "source_sha256": "be050c848867f3e8adc6035ea5e315d1fdc4883dcf9e97d93ba0018ceabd9eee",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4357",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/04/25/9524",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
