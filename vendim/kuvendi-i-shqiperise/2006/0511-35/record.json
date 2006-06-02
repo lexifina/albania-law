@@ -1,0 +1,28 @@
+{
+  "qbz_id": 4391,
+  "title": "Për miratimin e përbërjes së Komisionit Hetimor “Për shkarkimet në administratën publike”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "35",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-05-11",
+  "published": "2006-06-02",
+  "in_force": "2006-06-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b6aa7bf1ee3d1d3194115fd71b267658bdffeccacebc1cf6df91a9ab6d350919.docx",
+  "source_sha256": "b6aa7bf1ee3d1d3194115fd71b267658bdffeccacebc1cf6df91a9ab6d350919",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4391",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/05/11/35",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    4449
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
