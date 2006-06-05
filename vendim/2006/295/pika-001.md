@@ -1,0 +1,1 @@
+1. Objekti “Depo” e DPE-së, në Universitetin Bujqësor, Kamëz, së bashku me truallin funksional të tij, me sipërfaqe 621 m2, në përgjegjësi administrimi të Ministrisë së Arsimit dhe Shkencës, t’i kalojë në përgjegjësi administrimi Ministrisë së Brendshme.
