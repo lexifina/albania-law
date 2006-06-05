@@ -1,0 +1,1 @@
+1. Miratimin e listës së materialeve dhe të pajisjeve sportive, që do të përjashtohen nga detyrimet doganore, në kuadër të bashkëpunimit me institucionet sportive ndërkombëtare, sipas aneksit 1, që i bashkëlidhet këtij vendimi.
