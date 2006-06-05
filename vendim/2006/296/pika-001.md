@@ -1,0 +1,1 @@
+1. Lejimin e Entit Rregullator të Telekomunikacionit (ERT), që për fondin e vet limit prej 40 000 (dyzet mijë) USD, të përdorë procedurën “Prokurim i drejtpërdrejtë”, me Byronë e Zhvillimit të Telekomunikacioneve (ITU, Bashkimi Ndërkombëtar i Telekomunikacionit), për pagesën e kostove për ngritjen e sistemit kombëtar të administrimit të spektrit të radiofrekuencave.
