@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2006, t’i shtohet fondi prej 2 500 000 (dy milionë e pesë qind mijë) lekësh, për t’u përdorur për paga dhe për materiale të përgjithshme, për hapjen e kutive të votimit, të përdorura në zgjedhjet për Kuvendin e Republikës së Shqipërisë, korrik 2005.
