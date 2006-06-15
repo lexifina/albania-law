@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4447,
+  "title": "Për caktimin e një anëtari në Komisionin e Posaçëm Parlamentar për Reformën Zgjedhore",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "39",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-05-29",
+  "published": "2006-06-15",
+  "in_force": "2006-06-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5b8eecb7291064278d607bdd3d49d453fe0f8a862ffe15143f0537567c6ad00c.docx",
+  "source_sha256": "5b8eecb7291064278d607bdd3d49d453fe0f8a862ffe15143f0537567c6ad00c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4447",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/05/29/39",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
