@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4449,
+  "title": "Për një ndryshim në vendimin nr.35, datë 11.5.2006 “Për miratimin e përbërjes së Komisionit Hetimor “Për shkarkimet në administratën publike”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "41",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-05-29",
+  "published": "2006-06-15",
+  "in_force": "2006-06-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1f2aada79946678095e1ad9c4913b0968ce5bbf113776ae6bc3ae0013931dc4f.docx",
+  "source_sha256": "1f2aada79946678095e1ad9c4913b0968ce5bbf113776ae6bc3ae0013931dc4f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4449",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/05/29/41",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
