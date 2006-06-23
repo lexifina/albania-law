@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4421,
+  "title": "Për disa ndryshime në ligjin nr.9385, datë 4.5.2005 “Për pyjet dhe shërbimin pyjor”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9533",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-05-15",
+  "published": "2006-06-08",
+  "in_force": "2006-06-23",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/99fc45f4e2197a1f691799ef2f9698011a6da2db7abd0d0f89319c620274b43e.docx",
+  "source_sha256": "99fc45f4e2197a1f691799ef2f9698011a6da2db7abd0d0f89319c620274b43e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4421",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/05/15/9533",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
