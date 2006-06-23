@@ -1,0 +1,9 @@
+# Neni 19
+Dhënia në përdorim e fondit pyjor kombëtar
+1. Pjesë të fondit pyjor kombëtar dhe të pyjeve e tokave pyjore mund të jepen në përdorim për qëllime pushimi, argëtimi, shëndetësore, shoqërore, kërkimore e studimore, mbarështimi të florës dhe faunës së egër, gjuetie, për baza didaktike apo eksperimentale, për veprimtari turistike, si sheshe për kampingje, veprimtari biznesi dhe për kryerjen e operacioneve hidrokarbure gjeologjike e minerare, pa cenuar vlerat dhe funksionet e tyre, në përputhje me dispozitat ligjore në fuqi.
+Organet e shërbimit pyjor miratojnë në fondin pyjor publik vendet ose sheshet ku mund të ushtrohen këto veprimtari.
+2. Njësitë e qeverisjes vendore, në marrëveshje me Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave, kanë të drejtë të kërkojnë marrjen në përdorim edhe të pyjeve publike, që gjenden jashtë kufijve të tyre administrativë, për lëndë e dru zjarri, për sigurimin e bazës ushqimore për blegtorinë e për kullotje, si dhe për grumbullimin e prodhimeve drusore e jodrusore për nevojat e popullsisë së tyre.
+Dhënia në përdorim e sipërfaqeve të fondit pyjor bëhet kundrejt tarifave të miratuara me vendim të Këshillit të Ministrave.
+3. Dhënia në përdorim e pjesëve të fondit pyjor publik bëhet në bazë të kontratave të nënshkruara nga drejtori i drejtorisë rajonale të shërbimit pyjor, me miratimin e Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave.
+Kontratat përfundojnë në çastin kur për sipërfaqen e fondit pyjor, objekt kontrate, miratohen studime urbanistike nga KRRTRSH-ja apo paraqiten kërkesa për zhvillime turistike.
+4. Kur në sipërfaqet e fondit pyjor ose toka pyjore realizohen studime urbanistike për zhvillime turistike, me miratimin e studimit urbanistik nga KRRTRSH-ja, në këto sipërfaqe zbatohen dispozitat e ligjit “Për zhvillimin e zonave që kanë përparësi turizmin”.

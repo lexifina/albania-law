@@ -1,0 +1,9 @@
+# Neni 23
+Administrimi dhe zhvillimi i fondit pyjor në pronësi të njësive të qeverisjes vendore
+1. Administrimi dhe zhvillimi i pyjeve vendore apo i pjesëve të tyre, bëhen sipas planeve të mbarështimit dhe të dispozitave të këtij ligji.
+2. Për një administrim të qëndrueshëm e shumëfunksional të fondit pyjor vendor, për rregullimin e përdorimit e të shfrytëzimit të pyjeve, të kullotave dhe të burimeve të tjera pyjore e jopyjore, për mbrojtjen nga zjarri, dëmtuesit etj., brenda territorit administrativ të njësive të qeverisjes vendore, krijohen njësitë tekniko-administrative, në varësi të drejtpërdrejtë të organeve të qeverisjes vendore. Strukturat e Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave ndihmojnë, kontrollojnë, këshillojnë dhe sigurojnë mbështetjen teknike për këto njësi dhe për shoqatat e përdoruesve të pyjeve.
+3. Organet e qeverisjes vendore kanë për detyrë të marrin masa dhe të planifikojnë fonde për investimet në pyjet, në territorin që ata mbulojnë, për përmirësimin dhe planifikimin e mbledhjes e të promovimit të pajisjeve të reja të përpunimit dhe të tregtimit të prodhimeve pyjore, si dhe për krijimin e sektorit të agropylltarisë.
+4. Shteti mbështet nismat individuale a kolektive të njësive të qeverisjes vendore për shtimin e sipërfaqes së pyjeve, për ripyllëzimin e tokave të braktisura, të zhveshura, të shpyllëzuara dhe të gërryera, në pronësi të tyre, nëpërmjet sistemit të kredive me kushte lehtësuese.
+5. Njësia e qeverisjes vendore, çdo vit, nga të ardhurat e realizuara planifikon fonde për ruajtjen, mirëmbajtjen, kryerjen e punimeve silvikulturore dhe përgjigjet për trajtimin shkencor të tyre.
+6. Vjelja e materialit drusor dhe e prodhimeve të tjera nga pyjet vendore bëhet në përputhje me këtë ligj.
+7. Kriteret e transferimit dhe përdorimit të pyjeve nga njësitë e qeverisjes vendore përcaktohen me vendim të Këshillit të Ministrave.

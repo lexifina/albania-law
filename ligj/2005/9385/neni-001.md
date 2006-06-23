@@ -1,0 +1,4 @@
+# Neni 1
+Objekti
+1. Objekt i këtij ligji është përcaktimi i rregullave të njëjta për marrëdhëniet, detyrat, të drejtat dhe përgjegjësitë e institucioneve shtetërore, organeve të pushtetit vendor, organizatave jofitimprurëse, pronarëve privatë dhe të biznesit, për ruajtjen, administrimin, menaxhimin dhe përdorimin e fondit pyjor kombëtar, të tokës pyjore dhe të burimeve natyrore e biologjike të tyre.
+2. Ky ligj rregullon edhe veprimtaritë mbrojtëse, shoqërore, ekoturistike dhe ekonomike që zhvillohen në fondin pyjor kombëtar dhe në burimet e tjera pyjore e jopyjore, në bazë të parimeve të mbarështimit të qëndrueshëm e shumëfunksional, të pasqyruara në strategjinë dhe politikat e zhvillimit të sektorit të pyjeve e kullotave, si dhe skemën e organizimit e të funksionimit të administratës së Shërbimit Pyjor Shqiptar, marrëdhëniet juridike, përgjegjësitë dhe detyrat e tij, për krijimin e një shërbimi pyjor të qëndrueshëm dhe profesional.
