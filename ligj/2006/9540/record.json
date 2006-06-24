@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4429,
+  "title": "Për një ndryshim në ligjin nr.9314, datë 11.11.2004 “për privatizimin e aksioneve, pronë e shtetit shqiptar, të Bankës së Bashkuar të Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9540",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-05-22",
+  "published": "2006-06-09",
+  "in_force": "2006-06-24",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/da3204f2898003f4e81a38736ad4e2dbd48a49f4f68ba8bd7cc087011900975b.docx",
+  "source_sha256": "da3204f2898003f4e81a38736ad4e2dbd48a49f4f68ba8bd7cc087011900975b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4429",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/05/22/9540",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
