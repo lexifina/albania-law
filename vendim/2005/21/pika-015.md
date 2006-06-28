@@ -1,1 +1,1 @@
-15. Për pagat e caktuara sipas këtij vendimi, të zbatohet indeksi i përcaktuar në vendimin nr.184, datë 10.4.2004 të Këshillit të Ministrave “Për masën e indeksimit të pagave për vitin 2004” dhe rregullat e përcaktuara në vendimin nr.74, datë 12.2.2004 të Këshillit të Ministrave “Për rregullat e indeksimit të pagave”.
+15.Shfuqizuar.
