@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4481,
+  "title": "Për mosmiratimin e dekretit nr.4894, datë 6.6.2006 të Presidentit të Republikës “Për kthimin e ligjit nr.9531, datë 11.5.2006 “Për disa shtesa dhe ndryshime në ligjin nr.8410, datë 30.9.1998 “Për radion dhe televizionin publik e privat në Republikën e Shqipërisë””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "45",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-06-19",
+  "published": "2006-06-28",
+  "in_force": "2006-06-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e980dd5c8eb0b48a746a423f74b5b95f3a55e2915ca399ba29394794bd758139.docx",
+  "source_sha256": "e980dd5c8eb0b48a746a423f74b5b95f3a55e2915ca399ba29394794bd758139",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4481",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/06/19/45",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
