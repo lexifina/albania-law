@@ -1,0 +1,1 @@
+1. Lejimin e hyrjes dhe të qëndrimit të përkohshëm në territorin e Republikës së Shqipërisë, për periudhën 28.6.2006-16.7.2006, të 140 (njëqind e dyzet) trupave ushtarake britanike, pjesëmarrëse në stërvitjen e përbashkët “Albania Express 06”, që do të zhvillohet në vendin tonë.
