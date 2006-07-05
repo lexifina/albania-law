@@ -1,0 +1,1 @@
+9. Vendimi nr.449, datë 26.6.2003 i Këshillit të Ministrave “Për tarifat në sektorin e pyjeve dhe të kullotave” dhe vendimi nr.236, datë 21.4.2005 i Këshillit të Ministrave “Për disa ndryshime dhe shtesa në vendimin nr.449, datë 26.6.2003 të Këshillit të Ministrave “Për tarifat në sektorin e pyjeve dhe të kullotave”, shfuqizohen.
