@@ -1,0 +1,1 @@
+4. Arkëtimet për pagesat e faturave të lëshuara për abonentët familjarë, nga KESH, sh.a., Albtelecom sh.a., dhe shoqëritë tregtare të ujësjellës-kanalizimeve, sh.a., të kryhen edhe në sportelet e Postës Shqiptare, sha.
