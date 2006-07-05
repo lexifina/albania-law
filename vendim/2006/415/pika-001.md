@@ -1,0 +1,1 @@
+1. Lejimin e kompanisë ushtarake të transportit, SIKON KFOR, të Forcave të Armatosura të Republikës së Sllovenisë, të përbërë prej 90 (nëntëdhjetë) trupash dhe 41 (dyzet e një) mjetesh ushtarake, të kalojë transit përmes territorit të Republikës së Shqipërisë për në Republikën e Maqedonisë.
