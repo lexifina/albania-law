@@ -1,1 +1,0 @@
-1. Tarifat bazë për shitjen e lëndës drusore në këmbë, të jetë sipas lidhjeve 1/a dhe 1/b, që i bashkëlidhen këtij vendimi. Shitja e lëndës drusore të bëhet me ankand. Procedurat e zhvillimit të tij të përcaktohen me udhëzim të Këshillit të Ministrave.

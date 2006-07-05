@@ -1,1 +1,0 @@
-4. Tarifat për përdorimin e pyjeve dhe të kullotave për qëllime pushimi, shëndetësore, turizmi etj. dhe për ngritjen e kampingjeve, të qendrave dhe objekteve të tjera të lëvizshme, në fondin pyjor e kullosor, të jenë sipas lidhjes 4/a dhe 4/b, që i bashkëlidhet këtij vendimi.
