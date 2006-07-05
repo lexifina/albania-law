@@ -1,0 +1,1 @@
+3. Drejtoritë rajonale të bujqësisë dhe ushqimit (sektori veterinar i qarkut) drejtojnë dhe zbatojnë, për çdo zonë që mbulojnë, sistemin e identifikimit të kafshëve dhe regjistrimin e fermave blegtorale, nëpërmjet specialistëve privatë, veterinerë dhe zooteknikë, me të cilët lidhin kontratat përkatëse.

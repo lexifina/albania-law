@@ -1,0 +1,1 @@
+4. Fermerët kontribuojnë në përballimin e kostos financiare për sistemin e identifikimit të kafshëve dhe për regjistrimin e fermave blegtorale, si dhe për pagesën e bazës materiale dhe për shërbimin e kryer nga operatorët privatë.
