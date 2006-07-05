@@ -1,0 +1,3 @@
+3. Struktura dhe nivelet e pagave të nëpunësve në pozicionet “Specialist” deri në “Titullar i institucionit”, të institucioneve qendrore të grupit të dytë, të përcaktuara në shkronjën “b”, të pikës 1, të jenë sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+3/1 Struktura dhe nivelet e pagave të nëpunësve të Teatrit Kombëtar dhe Teatrit Kombëtar të Operas dhe Baletit, të jenë sipas lidhjes nr.2/1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Punonjësit e trupës artistike të këtyre institucioneve përfitojnë shtesë për kushte pune, në masën 6 000 (gjashtë mijë) lekë në muaj.

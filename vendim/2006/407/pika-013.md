@@ -1,0 +1,1 @@
+13. Nëpunësit, që paguhen sipas lidhjeve nr.1, nr.1/1, nr.1/2, nr. 2, nr.2/1, nr.3 e nr.4, nr.4/1, nr.4/2, e nr.4/3, që i bashkëlidhen këtij vendimi, dhe pikave 11, 12 dhe 12/1 të këtij vendimi, nuk përfitojnë shtesa të tjera, të përcaktuara me vendime të Këshillit të Ministrave.

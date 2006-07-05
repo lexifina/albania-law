@@ -1,0 +1,1 @@
+4. Struktura dhe nivelet e pagave të nëpunësve në pozicionet “Specialist” deri në “Titullar i institucionit”, të institucioneve qendrore të grupit të tretë, të përcaktuara në shkronjës “c”, të pikës 1, të jenë sipas lidhjes nr.3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

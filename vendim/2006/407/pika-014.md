@@ -1,0 +1,1 @@
+14. Procesi i ristrukturimit të institucioneve, që përfshihen në fushën e veprimit të këtij vendimi, të ketë përfunduar deri më datë 15.7.2006. Zbatimi i niveleve të pagave, të përcaktuara sipas këtij vendimi, të fillojë pas përfundimit të këtij procesi dhe miratimit me urdhër të Kryeministrit të strukturave dhe të organikave të institucioneve të sipërpërmendura.

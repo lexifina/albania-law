@@ -1,0 +1,1 @@
+7. Shtesa për vjetërsi në punë (kolona 2) e lidhjeve nr.1, nr.1/1, nr.l/2, nr. 2, nr.2/1, nr.3 e nr.4, nr.4/1, nr.4/2, e nr.4/3 jepet në masën 2 për qind, pas çdo viti pune, deri në 25 vjet, dhe llogaritet mbi pagën e grupit.
