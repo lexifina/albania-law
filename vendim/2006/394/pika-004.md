@@ -1,0 +1,1 @@
+4. Shfrytëzimi i ngastrave pyjore lejohet vetëm kur një gjë e tillë kërkohet teknikisht, në rastin e prerjeve përfundimtare, të dyta e përfundimtare, si dhe në rastin e prerjeve në pyjet e dëmtuara nga katastrofat natyrore apo nga zjarri.

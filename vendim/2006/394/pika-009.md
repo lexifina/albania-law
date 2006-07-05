@@ -1,0 +1,1 @@
+9. Prerja e drurëve pyjore fillon pasi bëhet shënimi i tyre me damkë të veçantë, të percaktuar në urdhrin me shkrim të drejtorit të drejtorisë rajonale të shërbimit pyjor. Shënimi i drurëve me damkë fillon, si rregull, pas datës 15 maj dhe përfundon më 30 qershor.

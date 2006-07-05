@@ -1,0 +1,1 @@
+7. Shfrytëzimi i ngastrave apo nënngastrave pyjore fillon vetëm kur subjektet e licencuara për shfrytëzimin e materialit drusor, kanë lidhur kontratën e shfrytëzimit, kanë marrë me procesverbal dorëzimi ngastrat e kontraktuara dhe janë pajisur me lejen e shfrytëzimit, sipas afateve të caktuara në kontratë.

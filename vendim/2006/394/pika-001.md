@@ -1,0 +1,1 @@
+1. Shfrytëzimi i fondit pyjor publik përmbledh ndërhyrjet dhe trajtimet silvikulturore në jetën e pyllit, vjeljen e materialit drusor dhe të prodhimeve të tjera, përpunimin dhe transportin e tyre në moshën e shfrytëzueshmërisë dhe kur është siguruar ripërtëritja natyrore.

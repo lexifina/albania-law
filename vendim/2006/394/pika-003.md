@@ -1,0 +1,1 @@
+3. Shfrytëzimi organizohet dhe kryhet në bazë të vitit pyjor, i cili fillon në datën 1 tetor dhe përfundon në datën 30 shtator të vitit pasardhës. Për arsye objektive, ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, shtyn afatin e shfrytëzimit të vitit pyjor, por jo më vonë se data 30 qershor e vitit pasardhës.
