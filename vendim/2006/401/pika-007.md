@@ -1,0 +1,1 @@
+7. Shpenzimet administrative për realizimin e këtij vendimi, që arrijnë vlerën 7.6 milionë lekë, të shtohen: në buxhetin e vitit 2006, miratuar për ISSH-në dhe të përballohen nga fondi i kontigjencës, të caktuar në pikën 1/3 të nenit 12 të ligjit nr.9464, datë 28.12.2005 “Për Buxhetin Shtetit të vitit 2006”.

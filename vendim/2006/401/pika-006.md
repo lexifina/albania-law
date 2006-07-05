@@ -1,0 +1,1 @@
+6. Efektet financiare për zbatimin e këtij vendimi, për vitin 2006, në shumën 110 milionë lekë, të përballohen nga fond i kontigjencës, i caktuar në pikën 1/3 të nenit 12 të ligjit nr.9464, datë 28.12.2005 “Për Buxhetin e Shtetit të vitit 2006”.

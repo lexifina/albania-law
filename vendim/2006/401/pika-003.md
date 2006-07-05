@@ -1,0 +1,3 @@
+3. Kompensimi i të ardhurave mujore të pensionistit, deri në kufijtë e pikës 1, të këtij vendimi, të bëhet, si më poshtë vijon:
+a) Pensionistëve, që marrin pensione, të plota dhe të pjesshme, pleqërie, të cilët para datës së hyrjes në fuqi të këtij vendimi, kanë të ardhura mujore nga 8 740 (tetë mijë e shtatëqind e dyzet) lekë deri në 9 239 (nëntë mijë e dyqind e tridhjetë e nëntë) lekë, t’u shtohet shuma fikse individuale deri në 500 (pesëqind) lekë në muaj.
+b) Pensionistëve, që marrin pensione të pjesshme pleqërie, të cilët para datës së hyrjes në fuqi të këtij vendimi, kanë të ardhura mujore nën 8 740 (tetë mijë e shtatëqind e dyzet) lekë, t’u shtohet shuma fikse 500 (pesëqind) lekë në muaj.

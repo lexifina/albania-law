@@ -1,0 +1,1 @@
+4. Kompensimin shtesë per të ardhurat mujore, të shkronjave “a” e “b” të pikës 2, të këtij vendimi, e marnin edhe pensionistët, që datën e fillimit të pensionit e kane në datën e hyrjes në fuqi të këtij vendimi e në vazhdim, përfshirë edhe këtë datë.
