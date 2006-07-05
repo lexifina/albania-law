@@ -1,1 +1,0 @@
-2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, që janë vetëm për pensionet që përcaktohen në vitin 2005 e që fillojnë nga data 1.1.2005, të përballohen nga buxheti i po këtij viti, miratuar për Institutin e Sigurimeve Shoqërore.
