@@ -1,0 +1,1 @@
+5. Ministria e Mjedisit, Pyjeve dhe Administrimit te Ujërave dhe Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, në bashkëpunim me njësitë e qeverisjes vendore, me institucionet kërkimore-shkencore dhe me përfaqësuesit e biznesit e të pronarëve private, të marrin masa për të siguruar zbatimin e planit të menaxhimit të Parkut Kombëtar.
