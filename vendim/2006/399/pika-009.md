@@ -1,0 +1,1 @@
+9. Rritja e pensioneve, të parashikuara nga ky vendim, të zbatohet edhe për shtesat mbi pension, të dhëna sipas neneve 33, 38 e 39, të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, dhe të nenit 24 të ligjit nr.4171, datë 13.6.1966 “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë”.

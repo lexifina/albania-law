@@ -1,0 +1,1 @@
+2. Pensionet e invaliditetit dhe pensionet familjare, të caktuara në përputhje me dispozitat e ligjeve nr.4171, datë 13.9.1966 “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë” dhe nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, rriten në masën 5 për qind.
