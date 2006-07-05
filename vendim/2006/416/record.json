@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4528,
+  "title": "Për një ndryshim në vendimin nr.524, datë 30.7.2004 të Këshillit të Ministrave “Për masën dhe mënyrën e kompensimit të qirasë së banesës dhe të ushqimit të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "416",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-06-28",
+  "published": "2006-07-05",
+  "in_force": "2006-07-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/30c9670f5cc4b416622d498a4a3e0b170639f49755c1a17bb5da037a200ec8e4.docx",
+  "source_sha256": "30c9670f5cc4b416622d498a4a3e0b170639f49755c1a17bb5da037a200ec8e4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4528",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/06/28/416",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
