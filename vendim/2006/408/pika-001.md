@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës të Avokati i Popullit të zyrave të katit të parë dhe të dytë, në ndërtesën e ish-Ministrisë së Tregtisë së Jashtme, sipas planimetrisë, që i bashkëlidhet këtij vendimi.
