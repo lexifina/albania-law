@@ -1,0 +1,1 @@
+1. Dhënien me qira, pa konkurrim, shkollës “Tirana International School”, të mjediseve, në administrim të Drejtorisë së Shërbimeve Qeveritare, në rrugën “3 vëllezërit Kondi”, me sipërfaqe të përgjithshme 4 995 m2 nga e cila nën objekt 827 m2 të quajtura “Grupi i vilave gjermane”, në Tiranë.
