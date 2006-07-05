@@ -1,1 +1,0 @@
-5. Organet e qeverisjes vendore dhe, sipas nevojës, institucionet publike bashkëpunojnë dhe mbështesin drejtoritë e bujqësisë dhe ushqimit për zbatimin e sistemit të identifikimit të kafshëve dhe të regjistrimit të fermave belgtorale.

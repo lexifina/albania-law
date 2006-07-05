@@ -1,3 +1,0 @@
-4. Blerja e bazës materiale të nevojshme për fillimin e kësaj veprimtarie të përballohet nga programi PHARE, sipas memorandumeve financiare AL 9805, datë 28 tetor 1998 dhe AL 9912, datë 24 nëntor 1999. Fermerët të paguajnë bazën materiale për krijimin e fondit kundërparti, i cili të depozitohet në Drejtorinë e Bujqësisë dhe Ushqimit.
-Ministria e Bujqësisë dhe Ushqimit të përcaktojë çmimin e bazës materiale që do të paguajnë fermerët, në bazë të ofertës financiare të entit furnizues të kontraktuar.
-Fondi kundërparti të përdoret për blerjen në vazhdimësi të materialeve për identifikimin e kafshëve dhe regjistrimin e fermave blegtorale, sipas udhëzimit përkatës, të hartuar nga Ministria e Bujqësisë dhe Ushqimit.
