@@ -1,0 +1,1 @@
+2. Njësia e urbanistikës në njësinë e qeverisjes vendore, pajis çdo subjekt me formularin përkatës të vetëdeklarimit. Formulari, i shoqëruar me fotografitë e katër pamjeve të objektit, plotësohet dhe nënshkruhet nga subjekti në dy kopje. Njëra kopje, e nënshkruar edhe nga punonjësi pranues, e protokolluar dhe e vulosur me vulën e institucionit, i kthehet subjektit.

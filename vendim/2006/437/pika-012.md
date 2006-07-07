@@ -1,0 +1,1 @@
+12. Grupimi i ndërtimeve për t’u prishur përbëhet nga të gjitha ndërtimet, ku procesverbali i konstatimit përmban shënimin “deklarim i rremë”, “ i kryer pas hyrjes në fuqi të ligjit” ose “i përjashtuar nga legalizimi”.

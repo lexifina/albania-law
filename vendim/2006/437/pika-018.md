@@ -1,0 +1,6 @@
+18. Gjatë periudhës katërmujore të vetëdeklarimit dhe procesit të legalizimit të ndërtimeve pa leje, njësitë e qeverisjes vendore procedojnë si më poshtë:
+a) Zyra e urbanistikës në njësinë e qeverisjes vendore plotëson dosjet e vetëdeklarimeve, që përmbajnë të gjithë dokumentacionin, sipas përcaktimeve të bëra në këtë vendim. Dosja e “ndërtimit në pritje të legalizimit”, në përfundim të procesit të plotësimit dërgohet për miratim në zyrën përkatëse të Agjencisë së Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale. Dosjet e vetëdeklarimeve arkivohen dhe administrohen, në përputhje me dispozitat e ligjit për arkivat.
+b) Pas depozitimit të vendimit përkatës, në dosjen e objektit për t’u prishur dërgohet në organin, që mbulon prishjen e ndërtimeve pa leje njoftimi për ekzekutim.
+c) Dosjet e objekteve me procedura të pezulluara të legalizimit ruhen sipas ligjit “Për arkivat” dhe me depozitimin e vendimit të formës së prerë të gjykatës, rihapet procedura e legalizimit.
+ç) Dosjet për objektet “e përjashtuara nga legalizimi për shkak studimi”, pas evidencimit dhe nënshkrimit fletë për fletë nga kryetari i njësisë së qeverisjes vendore, arkivohen dhe ruhen sipas legjislacionit për arkivat.
+d) Kontratat e kalimit të pronësisë së parcelës ndërtimore dhe pagesat e kryera për të përbëjnë dokumentacionin financiar dhe ruhen në dosjen përkatëse.

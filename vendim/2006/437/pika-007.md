@@ -1,0 +1,1 @@
+7. Regjistri me ndërtime pa leje, regjistri i shtesave, me sipërfaqe tej lejes së miratuar, si dhe regjistri i shtesave për objektet të ndërtuara para vitit 1993, sipas modeleve përkatëse, që i bashkëlidhet këtij vendimi,

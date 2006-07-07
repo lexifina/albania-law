@@ -1,0 +1,1 @@
+14. Objektet e deklaruara nga subjekte, të cilat kanë ndërtuar më shumë se një ndërtim pa leje, të identifikuara pas depozitimit të deklarimit të zgjedhjes dhe heqjes dorë nga ushtrimi i së drejtës mbi parcelën ndërtimore, grupohen në listën e ndërtimeve “legalizim me kushtet e tregut”.
