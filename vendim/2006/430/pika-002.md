@@ -1,0 +1,1 @@
+2. Ministria e Financave, në bashkëpunim me institucionet përgjegjëse për zbatimin e këtij plani veprimi, të përfshijë në programin e buxhetit afatmesëm, 2007-2009, shpenzimet për realizimin e masave të parashikuara.
