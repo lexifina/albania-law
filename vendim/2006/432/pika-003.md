@@ -1,0 +1,1 @@
+3. Klasifikimi i të ardhurave në tri grupet kryesore, sipas përcaktimeve të pikës 1, të këtij vendimi, bëhet me udhëzimin e përbashkët të Ministrit të Financave dhe të titullarit të ministrisë/institucionit qendror përkatës.
