@@ -1,0 +1,1 @@
+3. Në këshillat e rretheve, në bashki/komuna, në institucionet, njësitë e repartet ushtarake, si dhe në ndërmarrjet buxhetore, fondi i veçantë krijohet në masën 5 për qind mbi fondin e planifikuar të pagave.

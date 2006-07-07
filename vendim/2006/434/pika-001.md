@@ -1,0 +1,1 @@
+1. Krijimin në institucionet buxhetore të një fondi të veçantë, që të përdoret nga drejtuesit e këtyre institucioneve për të shpërblyer punonjësit, për nevoja kulturore dhe për dhënie ndihmash të menjëhershme, për raste fatkeqësish dhe në raste të tjera, të kësaj natyre.
