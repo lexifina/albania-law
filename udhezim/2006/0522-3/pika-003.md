@@ -1,0 +1,1 @@
+3. Mjediset e katit përdhe që nuk janë objekte banimi, të shiten në tregun e lirë sipas procedurave të përcaktuara në ligjin nr.8386, datë 30.7.1998 “Për mënyrën dhe procedurat e shitjes së pasurive të personave juridikë jobankarë që kanë marrë hua nga publiku i gjerë”.

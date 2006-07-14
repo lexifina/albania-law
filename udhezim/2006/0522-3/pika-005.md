@@ -1,0 +1,1 @@
+5. Në rastin kur fitimi neto, nga shitja e ambienteve të katit përdhe, nuk arrin të mbulojë plotësisht vlerën e asetit, kjo diferencë të merret nga të ardhurat e siguruara nga shitja e apartamenteve dhe të kalojë në llogari të kreditorëve të shoqërisë “Vefa”.
