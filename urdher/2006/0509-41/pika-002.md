@@ -1,0 +1,1 @@
+2. Lëshimi i lejedrejtimeve për zëvendësimin e lejedrejtimeve të automjeteve, të lëshuara në Republikën e Koresë, bëhet sipas përcaktimeve të nenit 134 të ligjit nr.8378, datë 22.7.1998 “Kodi Rrugor i Republikës së Shqipërisë”.

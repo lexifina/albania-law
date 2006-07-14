@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor do të lëshojë vetëm lejedrejtime të kategorisë B, për zëvendësimin e të gjitha llojeve të lejedrejtimeve të automjeteve, të lëshuara në Republikën e Koresë.
