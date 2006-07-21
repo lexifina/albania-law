@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4535,
+  "title": "Për disa ndryshime në ligjin nr.8744, datë 22.2.2001 “Për transferimin e pronave të paluajtshme publike të shtetit në njësitë e qeverisjes vendore”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9561",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-06-12",
+  "published": "2006-07-06",
+  "in_force": "2006-07-21",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/65ac279faf0559c233f64bdbb7a99bd190f32c6acf40a80f2ad7a3e25bc9febf.docx",
+  "source_sha256": "65ac279faf0559c233f64bdbb7a99bd190f32c6acf40a80f2ad7a3e25bc9febf",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4535",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/06/12/9561",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
