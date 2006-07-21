@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4534,
+  "title": "Për një shtesë në ligjin nr.7975, datë 26.7.1995 “Për barnat narkotike dhe lëndët psikotrope”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9559",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-06-08",
+  "published": "2006-07-06",
+  "in_force": "2006-07-21",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/396f97e79cd2c9cf2465f7393006be115f40b77f44d77ce081f60de8d5398874.docx",
+  "source_sha256": "396f97e79cd2c9cf2465f7393006be115f40b77f44d77ce081f60de8d5398874",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4534",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/06/08/9559",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
