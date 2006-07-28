@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4623,
+  "title": "Për fillimin e procedurave të shqyrtimit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "43",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2006-07-14",
+  "published": "2006-07-28",
+  "in_force": "2006-07-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/860b6cc9c74eefd1e46b3905b049f71b63aef7208fb6784021e4cd358c690cdb.docx",
+  "source_sha256": "860b6cc9c74eefd1e46b3905b049f71b63aef7208fb6784021e4cd358c690cdb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4623",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/07/14/43",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
