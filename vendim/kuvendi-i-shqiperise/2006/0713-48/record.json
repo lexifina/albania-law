@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4609,
+  "title": "Për zëvendësimin  e dy anëtarëve në Këshillin e Lartë të Drejtësisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "48",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-07-13",
+  "published": "2006-07-28",
+  "in_force": "2006-07-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/0cf5c6872926cf7427ea6ce89308c2a84fdbc3633e1003018864cfbffe2815d8.docx",
+  "source_sha256": "0cf5c6872926cf7427ea6ce89308c2a84fdbc3633e1003018864cfbffe2815d8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4609",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/07/13/48",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
