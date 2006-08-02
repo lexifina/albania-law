@@ -1,1 +1,0 @@
-6. Ngarkohet Ministri i Integrimit Europian, që brenda 6-muajve nga hyrja në fuqi e këtij vendimi, të propozojë në Këshillin e Ministrave projektvendimin për miratimin e instrumenteve të përafrimit të legjislacionit vendas me atë të Bashkimit Europian.

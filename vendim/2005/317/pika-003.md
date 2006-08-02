@@ -1,1 +1,0 @@
-3. Ministri i Integrimit Europian të ndjekë zbatimin e Planit Kombëtar të Përafrimit të Legjislacionit Vendas me atë të Bashkimit Europian dhe Zbatimit të Angazhimeve, që rrjedhin nga marrëveshja e Stabilizim-Asocimit, nga ministritë dhe institucionet e tjera qendrore dhe të raportojë në Këshillin e Ministrave.
