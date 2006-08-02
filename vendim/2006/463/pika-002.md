@@ -1,0 +1,1 @@
+2. Ministria e Integrimit bashkërendon punën dhe monitoron zbatimin e planit kombëtar për zbatimin e marrëveshjes së Stabilizim-Asociimit, nga ministritë dhe institucionet e tjera qendrore, si dhe raporton në Këshillin e Ministrave.

@@ -1,0 +1,1 @@
+5. Ngarkohen të gjitha ministritë dhe institucionet qendrore, në varësi të Këshillit të Ministrave, për të cilat në planin kombëtar për zbatimin e marrëveshjes së Stabilizim-Asociimit janë përcaktuar detyra të veçanta, për zbatimin e këtij vendimi.
