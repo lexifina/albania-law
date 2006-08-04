@@ -1,0 +1,1 @@
+5. Kontrolli programohet për çdo muaj dhe mund të jetë i plotë ose tematik. Në çdo rast, përpara kryerjes së kontrollit, drejtuesi i grupit të kontrollit njofton me shkrim subjektin për fillimin e kontrollit, qëllimin, si dhe objektivat që do të realizohen.

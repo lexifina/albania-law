@@ -1,0 +1,1 @@
+1. Kontrolli i ndihmës ekonomike, pagesës për personat me aftësi të kufizuar dhe shërbimeve shoqërore, organizohet dhe kryhet nga Inspektorati i Ndihmës Ekonomike, Pagesës për Personat me Aftësi të Kufizuar dhe Shërbimeve Shoqërore, në bazë të procedurave të përcaktuara në këtë vendim.

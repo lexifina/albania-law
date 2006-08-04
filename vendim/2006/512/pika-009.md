@@ -1,0 +1,1 @@
+9. Inspektorati i Ndihmës Ekonomike, Pagesës për Persona me Aftësi të Kufizuar dhe Shërbimeve Shoqërore, pas heqjes së licencës kërkon pranë gjykatës shpërndarjen e shoqatës ose fondacionit, sipas parashikimeve të kreut II të ligjit nr.7850, datë 29.7.1994 “Kodi Civil i Republikës së Shqipërisë”, të ndryshuar.
