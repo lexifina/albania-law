@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve të Jashtme, në buxhetin e miratuar për vitin 2006, zëri “Mallra e shërbime”, t’i shtohet fondi prej 107 000 (njëqind e shtatë mijë) euro, për përballimin e shpenzimeve të kontraktimit të anijes “Urania”, për gjetjen e helikopterit presidencial “Bell 222”, të rënë në detin Adriatik.
