@@ -1,0 +1,1 @@
+2. Vendimet nr.542, datë 3.10.2002 “Për miratimin e statutit të Agjencisë së Nxitjes së Investimeve të Huaja”, nr.74, datë 6.2.2003 “Për miratimin e statutit të Agjencisë së Ndërmarrjeve të Vogla dhe të Mesme”, dhe nr.392, datë 12.6.2003 “Për miratimin e statutit të Agjencisë së Nxitjes së Eksporteve” të Këshillit të Ministrave, shfuqizohen.
