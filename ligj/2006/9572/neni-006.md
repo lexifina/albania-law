@@ -1,0 +1,7 @@
+# Neni 6
+Emërimi i anëtarëve të Bordit
+Anëtarët e Bordit emërohen nga Kuvendi.
+Kryetari, dy nënkryetarët dhe 2 prej anëtarëve të Bordit emërohen nga Kuvendi, me propozimin e Këshillit të Ministrave. Një anëtar i Bordit emërohet nga Kuvendi, me propozimin e Komisionit Parlamentar për Çështjet Ligjore, Administratën Publike dhe të Drejtat e Njeriut. Një anëtar i Bordit emërohet nga Kuvendi, me propozimin e Komisionit Parlamentar për Ekonominë dhe Financat.
+Ministri i Financave, Këshilli Mbikëqyrës i Bankës së Shqipërisë, si dhe Këshilli Kombëtar i Kontabilitetit kanë të drejtë t’i propozojnë Këshillit të Ministrave nga një kandidat për anëtar të Bordit të Autoritetit. Kandidati i propozuar nga Banka e Shqipërisë nuk mund të jetë anëtar i Këshillit Mbikëqyrës të Bankës së Shqipërisë. Kandidati i propozuar nga Këshilli Kombëtar i Kontabilitetit nuk mund të jetë anëtar i Këshillit Kombëtar të Kontabilitetit. Këshilli i Ministrave, në bazë të dy kandidaturave të veta, si dhe të kandidatëve të propozuar nga Ministri i Financave, Këshilli Mbikëqyrës i Bankës së Shqipërisë dhe Këshilli Kombëtar i Kontabilitetit, harton propozimet për Kuvendin.
+Në propozim përcaktohet edhe funksioni që kandidatët do të kenë në Bordin e Autoritetit. Në rastin e nënkryetarëve, në propozim përcaktohet edhe departamenti që do të drejtojë secili prej tyre.
+Kuvendi, me vendimin e emërimit të secilit prej nënkryetarëve, përcakton edhe departamentin, që do të drejtojë secili prej tyre.

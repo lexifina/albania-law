@@ -1,0 +1,15 @@
+# Neni 18
+Procedura e ekzekutimit të të drejtave të Bordit dhe të strukturave të Autoritetit
+Në ushtrimin e të drejtave të Bordit dhe të strukturave të tjera të Autoritetit, anëtarët e Bordit dhe nëpunësit e ngarkuar për mbikëqyrjen gëzojnë, në përputhje me procedurat e parashikuara në këtë ligj dhe me detyrën e ngarkuar, këto të drejta:
+1. Kërkojnë nga subjektet e mbikëqyrura dhe subjektet e tjera, që kanë vepruar në kundërshtim me dispozitat e këtij ligji apo të ligjeve që rregullojnë tregjet e fushës, shpjegime me shkrim, dokumentacion, përfshirë kopje të certifikuara dokumentesh, të dhëna, si dhe verifikojnë dokumentacionin dhe raportimet e bëra. Dokumentacioni dhe të dhënat e shkruara duhet të jenë në gjuhën shqipe.
+2. Marrin të dhëna për fondet dhe asetet, përfshirë titujt, në pronësi të subjekteve të mbikëqyrura.
+3. Inspektojnë llogaritë, dokumentet tregtare dhe çdo dokumentacion tjetër, që ka lidhje me transanksionet e kryera.
+4. Kryejnë verifikime në palë të treta, të cilat përfshijnë vetëm shqyrtimin e asaj pjese të dokumentacionit apo të veprimtarisë së palës së tretë, që ka lidhje me çështjen për të cilën është inspektuar subjekti i mbikëqyrur.
+5. U kërkojnë palëve të treta të dhëna, dokumentacion, përfshirë kopje të certifikuara, të njësuara të dokumenteve, deklarata mbi llogaritë dhe çdo të dhënë tjetër të nevojshme për realizimin e verifikimeve.
+6. Marrin pjesë në mbledhjet e organizuara nga strukturat drejtuese dhe kontrolluese të subjekteve të mbikëqyrura.
+Për zbatimin e procedurave të mbikëqyrjes, nënkryetari përgjegjës për subjektin e mbikëqyrur mund t’i kërkojë Bordit emërimin e ekspertëve të jashtëm, në përputhje me kërkesat specifike të miratuara nga Bordi. Shpenzimet, në këtë rast, përballohen nga subjekti i mbikëqyrur.
+Me kërkesë të Kryetarit të Bordit, bankat janë të detyruara që, për subjektet e mbikëqyrura, t’i japin Autoritetit të dhëna për numrat dhe kodet e llogarive ekzistuese apo të mbyllura, si dhe datën e transanksionit të fundit të kryer.
+Të gjitha të dhënat dhe dokumentet, që përbëjnë shkelje të këtij ligji, të cilat kanë në përmbajtjen e tyre emrin e personit, që është marrë me hartimin e tyre, u dorëzohen palëve të treta nga Kryetari i Bordit vetëm me miratimin paraprak të personit në fjalë, me përjashtim të rasteve kur ligji e parashikon ndryshe.
+Policia, prokuroria dhe të gjitha autoritetet e tjera shtetërore detyrohen që, brenda kompetencave të tyre, të ndihmojnë Autoritetin dhe punonjësit e tij për përmbushjen e detyrave gjatë ushtrimit të funksioneve mbikëqyrëse.
+Në kuadër të ushtrimit të kompetencave të ngarkuara nga ky ligj, Autoriteti mund të ndërmarrë inspektime të përgjithshme, në bashkëpunim me organet e tatim-taksave.
+Anëtarët e Bordit të Autoritetit, si dhe nëpunësit e tjerë të administratës së tij nuk janë financiarisht përgjegjës për dëmet, që mund të shkaktojnë gjatë ushtrimit të veprimtarisë inspektuese, me përjashtim të rasteve kur ata kanë kryer një krim apo kanë kryer veprime të qëllimshme.

@@ -1,0 +1,4 @@
+# Neni 32
+Përdorimi i masave administrative
+Bordi, për parandalimin apo ndërprerjen e veprimeve që përbëjnë shkelje të ligjit dhe të akteve nënligjore në zbatim të tij, parandalimin apo ndërprerjen e pasojave të rënda të shkeljeve të ligjit dhe në rastet e pengesave për ushtrimin e veprimtarisë mbikëqyrëse të Autoritetit, mund të miratojë vendime për subjektet e mbikëqyrura, të cilat duhet të trajtojnë mënyrën që duhet të ndjekin subjektet e mbikëqyrura për të korrigjuar situatën apo për të parandaluar dëmin. Këto vendime përcaktojnë afate për kryerjen e ndryshimeve apo korrigjimin e veprimeve, si dhe mund të parashikojnë detyrimin për ndryshimin e administratorëve ose të drejtuesve, në rastet kur vërehen veprime në kundërshtim me ligjin.
+Autoriteti mund ta vërë në dijeni publikun për masat e marra në zbatim të paragrafit të parë të këtij neni.
