@@ -1,0 +1,1 @@
+1. Caktimin e anëtarëve të Komisionit Ndërkombëtar të Vlerësimit për tenderin e hapur ndërkombëtar, për ndërtimin, me ritme të përshpejtuara, të segmentit rrugor Rrëshen-Kalimash, të autostradës Durrës-Kukës-Morinë, në bazë të propozimit të konsulentit ndërkombëtar Ecorys Group (Ecorys Netherland BV), sipas listës, që i bashkëlidhet këtij vendimi.
