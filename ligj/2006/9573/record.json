@@ -1,0 +1,29 @@
+{
+  "qbz_id": 4605,
+  "title": "Për autoriparimin, shitblerjen, depozitimin e mjeteve rrugore me motor, të rimorkiove dhe pjesëve të tyre të dala jashtë përdorimit ose të braktisura dhe për veprimtaritë që lidhen me to",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9573",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-07-03",
+  "published": "2006-07-28",
+  "in_force": "2006-08-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9b1afc4d321d6e6015743c760b19ef00b20a8b3b4e98f0d9674fa5164700f4bb.docx",
+  "source_sha256": "9b1afc4d321d6e6015743c760b19ef00b20a8b3b4e98f0d9674fa5164700f4bb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4605",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/07/03/9573",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    65664,
+    17275
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
