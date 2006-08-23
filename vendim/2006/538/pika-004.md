@@ -1,0 +1,1 @@
+4. Ministria e Mbrojtjes, në përputhje me legjislacionin në fuqi, brenda 10 ditësh pas miratimit të këtij vendimi, të paraqesë te Kryeministri, për miratim, projekturdhrin për ngritjen e njësisë së zbatimit të kontratës, që do të funksionojë pranë kësaj ministrie.

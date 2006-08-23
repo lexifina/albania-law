@@ -1,0 +1,5 @@
+Vendim
+Nr.538, datë 2.8.2006
+Për miratimin në parim të kontratës, ndërmjet Këshillit të Ministrave të republikës së shqipërisë dhe korporatës amerikane “Lockheed martin global inc”, për ndërtimin e sistemit të integruar të vëzhgimit të hapësirës detare
+Në mbështetje të nenit 100 të Kushtetutës, të ligjit nr.9384, datë 4.5.2005 “Për ratifikimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe korporatës amerikane “Lockheed Martin Global Inc (LMGI), për ndërtimin e sistemit të integruar të vëzhgimit të hapësirës detare, nënshkruar në Tiranë më 15 mars 2005”, të nenit 3 të ligjit nr.7971, datë 26.7.1995 “Për prokurimin publik”, të ndryshuar dhe të vendimit nr.113, datë 22.2.2006 të Këshillit të Ministrave “Për lejimin e Ministrisë së Mbrojtjes të përdorë procedurë të veçantë prokurimi me korporatën amerikane “Lockheed Martin Global Inc”, për ndërtimin e sistemit të vëzhgimit të hapësirës detare”, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
+Vendosi:

@@ -1,0 +1,1 @@
+1. Miratimin, në parim, të kontratës, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe korporatës amerikane Lockheed Martin Global Inc”, për ndërtimin e sistemit të integruar të vëzhgimit të hapësirës detare (SIVHD), që i bashkëlidhet këtij vendimi.

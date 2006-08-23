@@ -1,0 +1,1 @@
+3.Ministria e Mbrojtjes të përzgjedhë dhe të negociojë me bankën e pranuar edhe nga korporata amerikane “Lockheed Martin Global Inc” (LMGI) për mënyrat e kryerjes së pagesave, me anë të letër kreditit.
