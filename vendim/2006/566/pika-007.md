@@ -1,0 +1,1 @@
+7. Drejtuesit e zyrave rajonale emërohen, lirohen dhe shkarkohen nga detyra nga Drejtori i Përgjithshëm i Agjencisë. Ata përzgjidhen ndërmjet kandidatëve, shtetas shqiptarë, të aftë profesionalisht, me përvojë në drejtim dhe me integritet të lartë personal.

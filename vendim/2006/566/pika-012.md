@@ -1,0 +1,1 @@
+12. Drejtori i Përgjithshëm i AKKP-së ndjek dhe vë në dijeni, çdo muaj, Ministrin e Drejtësisë, për çështje të përfaqësimit të interesave ligjore të shtetit në gjykatë, gjatë zgjidhjes dhe shqyrtimit të konflikteve, në përputhje me nenin 18 të ligjit nr.9235, datë 29.7.2004 “Për kthimin dhe kompensimin e pronës”, të ndryshuar.
