@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4674,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr.8560, datë 22.12.1999 “Për procedurat tatimore në Republikën e Shqipërisë te ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9596",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-07-27",
+  "published": "2006-08-09",
+  "in_force": "2006-08-24",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/d83beb456eb5ee8e29577776639408093ff945882154aa3f90315ddd0b1496e0.docx",
+  "source_sha256": "d83beb456eb5ee8e29577776639408093ff945882154aa3f90315ddd0b1496e0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4674",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/07/27/9596",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
