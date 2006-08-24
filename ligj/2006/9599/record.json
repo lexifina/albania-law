@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4677,
+  "title": "Për një shtesë në ligjin nr.8981, datë 12.12.2002 “Për miratimin e niveleve të tarifës doganore”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9599",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-07-27",
+  "published": "2006-08-09",
+  "in_force": "2006-08-24",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a1c5d4b340b839b548c8b7f5e9f4458349d56cd3063725e023a6bb5bf4a26978.docx",
+  "source_sha256": "a1c5d4b340b839b548c8b7f5e9f4458349d56cd3063725e023a6bb5bf4a26978",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4677",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/07/27/9599",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
