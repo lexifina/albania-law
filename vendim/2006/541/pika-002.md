@@ -1,0 +1,1 @@
+2. Vendimi nr.94, datë 26.2.2001 i Këshillit të Ministrave “Për miratimin e modelit të pasaportave dhe të sistemit të lëshimit të tyre”, i shtrin efektet deri në mbarimin e vlefshmërisë së pasaportës ekzistuese, modeli i së cilës është miratuar me vendimin e përcaktuar në këtë pikë.
