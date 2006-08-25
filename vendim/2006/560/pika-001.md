@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Integrimit të mjediseve, fond zyrash, me sipërfaqe 1 340 m2, të zyrave të katit të parë dhe të dytë, në ndërtesën 3-katëshe të Ordinatorit Qendror, sipas planimetrisë “Anekset 1 e 2”, që i bashkëlidhet këtij vendimi.
