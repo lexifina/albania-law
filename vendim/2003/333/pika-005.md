@@ -1,1 +1,0 @@
-5. Vendimi nr. 54, datë 27.2.1992 i Këshillit të Ministrave “Për sistemin e pagave të Ministrisë së Rendit Publik dhe vendimi nr. 429, datë 11.6.2001 i Këshillit të Ministrave ”Për pagat e punonjësve të Policisë Gjyqësore”, i ndryshuar, nuk zbatohen për punonjësit e Policisë së Shtetit.
