@@ -1,0 +1,3 @@
+Në “Udhëzimin” nr.114, datë 1.11.2005 “Për shoqëritë anonime “Në likuidim e sipër” me kapital tërësisht shtetëror”, në fund të paragrafit të parë të pikës 5, shtohet paragrafi si më poshtë:
+“Bëjnë përjashtim metalet me ngjyra si bakri, alumini, plumbi, zinku, kallaj, nikeli, ari dhe argjendi. Vlera fillestre e ankandit për këto metale, për rastet kur çmimi në treg është më i lartë se vlera kontabël e tyre në bilanc, do të llogaritet duke iu referuar çmimit të bursës së Londrës (LME). Në rast se nuk realizohet shitja me vlerën e llogaritur sipas LME-së, shoqëria cakton vlera të tjera deri në vlerën kontabël të mallit”.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
