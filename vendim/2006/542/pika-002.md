@@ -1,0 +1,1 @@
+2. Kalimin në dispozicion të Këshillit të Ministrave, për fond zyrash, të mjediseve me sipërfaqe 1080 m2 që janë aktualisht në administrim të Institutit të Statistikave, në ndërtesën 3-katëshe të Ordinatorit Qendror, sipas planimetrisë “Aneksi 3”, që i bashkëlidhet këtij vendimi.

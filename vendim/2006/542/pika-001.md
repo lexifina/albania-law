@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës te Instituti i Statistikave, të zyrave të katit të dytë dhe të tretë, në ndërtesën 5-katëshe, të ish-Ministrisë së Tregtisë së Jashtme, sipas planimetrisë “Anekset 1 dhe 2”, që i bashkëlidhet këtij vendimi.
