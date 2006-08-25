@@ -1,0 +1,1 @@
+3. Kalimin, në dispozicion të Këshillit të Ministrave, për fond zyrash, të mjediseve, në administrim të Institutit të Integrimit të të Përndjekurve Politikë, në katin e parë të ndërtesës së ish-Komitetit Qendror, sipas planimetrisë, “Aneksi 2”, që i bashkëlidhet këtij vendimi.

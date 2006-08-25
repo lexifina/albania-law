@@ -1,0 +1,1 @@
+2. Instituti i Integrimit të të Përndjekurve Politikë të marrë masa për të krijuar, në këtë ndërtesë, mjedise mbledhjesh, të cilat t’ua vërë në dispozicion, pa kundërshpërblim, shoqatave kombëtare, të ish-të dënuarve dhe të përndjekurve politikë të regjimit komunist, për veprimtari dhe konferenca.
