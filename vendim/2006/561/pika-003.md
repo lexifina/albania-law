@@ -1,0 +1,1 @@
+3. Shtesa për punë të vështirë e të dëmshme për shëndetin për punonjësit, oficerë dhe nënoficerë, të Gardës së Republikës së Shqipërisë, të jetë sipas lidhjes nr.3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
