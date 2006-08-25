@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4706,
+  "title": "Për disa ndryshime në vendimin nr.167, datë 29.3.2006 të Këshillit të Ministrave “Për disa çështje në zbatim të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, dhe të ligjit nr.7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”, të ndryshuar”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "557",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-08-16",
+  "published": "2006-08-25",
+  "in_force": "2006-08-25",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.9.2006\": the publication day (its effects reach back to 1.9.2006)",
+  "source": "https://qbz.gov.al/files/537cf1f825d5e17165b8a653e00d16a34d35fc80abe0cc4d76b183366e9aef39.docx",
+  "source_sha256": "537cf1f825d5e17165b8a653e00d16a34d35fc80abe0cc4d76b183366e9aef39",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4706",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/08/16/557",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
