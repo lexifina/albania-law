@@ -80,3 +80,19 @@ Shuma
 679700
 MINISTRIA E TRANSPORTIT
 Shpenzime publikimi 45 500 lekë
+Pronari që do të shpronësohet nga ndërtimi i kanalit të ujËrave të bardha gjatë segmentit rrugor trI urat çarshovë
+Nr.
+Emri
+Pasuria
+Zona kadastrale
+Sipërfaqja
+Çmini në lekë për m2
+Vlera në lekë
+1.
+Jani Sotir Xhallo
+Nr.163/26
+1356
+373 m2
+700
+261 100
+Vlera totale e këtij shpronësimi është 261 100 (dyqind e gjashtëdhjetë e një mijë e njëqind lekë).
