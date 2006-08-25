@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2006, zëri “Shpenzime për mallra e shërbime”, t’i shtohet fondi prej 18 500 000 (tetëmbëdhjetë milionë e pesëqind mijë) lekësh, për mbulimin e shpenzimeve, për kryerjen jashtë vendit, të transplantit të veshkës, për disa shtetas.
