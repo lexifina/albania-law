@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19840,
+  "title": "Vendim Nr.49 Dt.18.08.2006",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "49",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2006-08-18",
+  "published": "2006-08-30",
+  "in_force": "2006-08-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/dbc144c58039e76e071604f5ce1dbfa512470e6e42c78c45125542a29659893e.docx",
+  "source_sha256": "dbc144c58039e76e071604f5ce1dbfa512470e6e42c78c45125542a29659893e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19840",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/08/18/49",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
