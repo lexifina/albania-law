@@ -1,0 +1,1 @@
+4. Këshilli mblidhet një herë në 4 muaj, me njoftim të kryetarit. Për raste të veçanta, kur vlerësohet nga Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, këshilli mund të mblidhet në çdo kohë.

@@ -1,0 +1,1 @@
+1. Këshilli i Ekspertëve të Qumështit është organ këshillimor i Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjtes së Konsumatorit për problemet e prodhimit, të përpunimit, tregtimit dhe kontrollit të qumështit e të produkteve me bazë qumështi.
