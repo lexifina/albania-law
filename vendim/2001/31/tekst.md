@@ -4,7 +4,7 @@ Nr. 31, datë 20.1.2001
 
 PËR PËRFITIMET NGA STATUSI I INVALIDIT PARAPLEGJIK DHE TETRAPLEGJIK
 
-(Ndryshuar me VKM nr. 302, datë 27.6.2002)
+(Ndryshuar me VKM nr. 302, datë 27.6.2002; nr. 619, datë 7.9.2006)
 
 (i përditësuar)
 
@@ -12,7 +12,7 @@ Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 21 të ligjit nr.86
 
 V E N D O S I:
 
-1.Komisioni mjekësor i caktimit të aftësive për punë (KMCAP), në rreth, shqyrton të gjitha kërkesat e paraqitura nga personat e interesuar, që përfitojnë nga ligji nr.8626, datë 22.6.2000, pavarësisht nga mosha, nga fakti nëse janë ose jo në marrëdhënie pune, nga koha a vendndodhja e aksidentit apo nga çasti i sigurimit.
+1. Komisioni Mjekësor i Caktimit të Aftësisë për Punë (KMCAP) në rreth shqyrton të gjitha kërkesat e paraqitura nga personat e bërë paraplegjikë apo tetraplegjikë, për shkaqe që lidhen me punësimin, të cilët përfitojnë nga ligji nr.8626, datë 22.6.2000.
 
 Komisioni vendos edhe shkallën e invaliditetit, sipas ndarjes që vijon:
 
@@ -28,7 +28,7 @@ II. Grupi i dytë, ku përfshihen të sëmurët paraplegjikë pjesërisht të af
 
 3. Invalidët, paraplegjikë ose tetraplegjikë, pajisen me dëshmi zyrtare identifikimi.
 
-4. Masa e pagesës për invalidët paraplegjikë dhe tetraplegjikë është 6 000 lekë në muaj dhe indeksohet me rritjen e pagës minimale në shkallë vendi. Kjo pagesë përfitohet pavarësisht nga mosha dhe të ardhurat e tjera që invalidi paraplegjik dhe tetraplegjik përfiton nga shteti. Të njëjtën pagesë përfiton edhe kujdestari i invalidit paraplegjik dhe tetraplegjik, i caktuar në përputhje me pikën 1 të vendimit.
+4. Masa e pagesës për invalidët, paraplegjikë dhe tetraplegjikë, që janë bërë të tillë për shkaqe që lidhen me punësimin, është 6 800 (gjashtë mijë e tetëqind) lekë në muaj dhe indeksohet me rritjen e pagës minimale në shkallë vendi. Kjo pagesë përfitohet pavarësisht nga mosha dhe të ardhurat, që ata përfitojnë nga shteti. Të njëjtën pagesë përfiton edhe kujdestari i invalidit, paraplegjik dhe tetraplegjik, i caktuar në përputhje me pikën 1 të këtij vendimi.
 
 Vendi dhe mënyra e dhënies së këtyre pagesave do të përcaktohet në udhëzimin që do të dalë në zbatim të këtij vendimi.
 
