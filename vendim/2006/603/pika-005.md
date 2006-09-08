@@ -1,0 +1,1 @@
+5. Për të ndihmuar dhe monitoruar procesin në zyrat e gjendjes civile të bashkive, të njësive bashkiake të Tiranës apo të komunave, me mbi 1000 shtetas në regjistrin e përkohshëm, prefekti cakton një person, me arsim të lartë, i cili duhet të vrojtojë gjatë të gjithë periudhës së zhvillimit të këtij procesi.

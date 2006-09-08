@@ -1,0 +1,1 @@
+6. Nëse kryetarët e njësive të qeverisjes vendore nuk kanë caktuar grupet e verifikimit, sipas afatit të përcaktuar në shkronjën “a”, të pikës 3, atëherë prefektët, brenda 24 orëve, i emërojnë këto grupe. Në rast se ndonjëra nga partitë politike nuk ka bërë propozimet për grupet e verifikimit, atëherë prefekti emëron, me iniciativë, grupet e verifikimit.

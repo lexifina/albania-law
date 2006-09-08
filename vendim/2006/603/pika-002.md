@@ -1,0 +1,1 @@
+2. Zyrat e gjendjes civile, brenda 2 ditëve nga hyrja në fuqi e këtij vendimi, të evidentojnë dhe të bëjnë ndarjen e shtetasve, të regjistruar në regjistrin e përkohshëm, sipas zonave të qendrave të votimit, që ndodhen në territorin, që mbulon ajo zyrë e gjendjes civile.

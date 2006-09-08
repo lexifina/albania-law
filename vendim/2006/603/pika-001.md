@@ -1,0 +1,1 @@
+1. Transferimi i të dhënave të gjendjes civile të shtetasve, të regjistruar në regjistrin e përkohshëm, në zbatim të ligjit nr.9296, datë 21.10.2004, “Për verifikimin, identifikimin dhe regjistrimin e shtetasve nga njësitë e qeverisjes vendore”, të bëhet nga zyrat e gjendjes civile të vendbanimit të tyre në zyrat e gjendjes civile, ku janë regjistruar në regjistrin e përkohshëm.
