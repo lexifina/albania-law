@@ -1,0 +1,1 @@
+2. Nga sipërfaqje e përgjithshme 1893,5 m2, pjesa me sipërfaqe 322,58 m2, që është laboratori i Qendrës së Gjeologjisë Civile, Tiranë, sipas planimetrisë, që i bashkëlidhet këtij vendimi, për arsye teknike, t’i mbetet në përdorim kësaj qendre deri në sistemimin e saj me mjedise të tjera, të përshtatshme.
