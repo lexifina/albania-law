@@ -1,0 +1,1 @@
+6. Për efekt të këtij vendimi, certifikata e lindjes me fotografi, e lëshuar nga zyra e gjendjes civile ose shërbimi konsullor, në mbështetje të ligjit nr.8950, datë 10.10.2002 “Për gjendjen civile”, të ndryshuar, nuk ka kohëzgjatje vlefshmërie, për efekt identifikimi të shtetasve shqiptarë.

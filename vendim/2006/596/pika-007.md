@@ -1,0 +1,1 @@
+7. Ndalohet perdorimi si dokument identifikimi i akteve të përcaktuara në pikën 1 të këtij vendimi, përmbajtja apo forma e të cilave ka dalë nga përdorimi. Në elementet e përmbajtjes përfshihet edhe afati i përdorimit të dokumentit.

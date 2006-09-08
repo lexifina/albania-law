@@ -1,0 +1,1 @@
+8. Përjashtim nga pika 2 e këtij vendimi, bëjnë organi i prokurorisë dhe gjykatat, ku për identifikimin e shtetasve shqiptarë dhe për ruajtjen e administrimin e këtij identiteti, zbatohen rregulla të tjera të parashikuara nga legjislacioni në fuqi.
