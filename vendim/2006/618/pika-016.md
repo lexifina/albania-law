@@ -1,0 +1,1 @@
+16. Përfitimi i pagesës së aftësisë së kufizuar nuk llogaritet në të ardhurat e familjes, për efekt të llogaritjes së ndihmës ekonomike, si dhe në të ardhurat personale të personave, që vendosen në institucionet publike të përkujdesit shoqëror.

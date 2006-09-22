@@ -1,0 +1,1 @@
+2. Personat, paraplegjikë e tetraplegjikë, të cilët deklarohen, me vendim të Komisionit Mjekësor të Përcaktimit të Aftësisë për Punë (KMCAP), se janë bërë të tillë, pavarësisht nga shkaku dhe mosha, përfitojnë pagesë për shkak të aftësisë së kufizuar.

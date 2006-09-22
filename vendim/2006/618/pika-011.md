@@ -1,0 +1,1 @@
+11. Personat me aftësi të kufizuara, të përcaktuar sipas pikave 1 dhe 2, të cilët ndjekin shkollën e mesme, të lartë, me dhe pa shkëputje nga puna, apo studime pasuniversitare, paguhen vetëm gjatë periudhës së ciklit shkollor.

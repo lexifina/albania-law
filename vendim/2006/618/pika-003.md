@@ -1,0 +1,1 @@
+3. Personat me aftësi të kufizuar, të përcaktuar në pikat 1 e 2 të këtij vendimi, të cilët, me vendim të komisioneve mjekësore të caktimit të aftësisë për punë, përcaktohen se kanë nevojë për përkujdesje, përfitojnë edhe një kujdestar me pagesë.

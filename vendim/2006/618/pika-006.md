@@ -1,0 +1,1 @@
+6. Invalidët, paraplegjikë dhe tetraplegjikë, pajisen me dëshmi zyrtare identifikimi. Kriteret e dhënies së dëshmisë dhe forma e saj përcaktohen në rregulloren e Institutit të Sigurimeve Shoqërore dhe të Shërbimit Social Shtetëror.
