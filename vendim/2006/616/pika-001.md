@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi nga Ministria e Financave te Grupi Mbikëqyrës i kontrollit financiar, të personave juridikë, jobankarë, që kanë marrë hua nga publiku i gjerë, të disa mjediseve, përkatësisht 4 (katër) zyra, të ndërtesës 5-katëshe, të ish-Ndërmarrjes së Librit dhe Filmit në Tiranë.
