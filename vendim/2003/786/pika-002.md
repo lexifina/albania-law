@@ -1,1 +1,0 @@
-2. Vlerësimi i gjendjes mjekësore të personave me aftësi të kufizuar për punë bëhet nga KMCAP-i, i cili është ngritur dhe funksionon pranë Institutit të Sigurimeve Shoqërore. Në këtë komision merr pjesë, si anëtar me të drejtë vote, edhe mjeku, punonjës i Shërbimit Social Shtetëror.

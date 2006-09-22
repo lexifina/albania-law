@@ -1,1 +1,0 @@
-9. Shpenzimet për pagesën e anëtarëve të Komisionit Mjekësor të Caktimit të Aftësive për Punë (KMCAP) përballohen nga buxheti i Institutit të Sigurimeve Shoqërore, përveç pagesës së mjekut anëtar, punonjës i Shërbimit Social Shtetëror.

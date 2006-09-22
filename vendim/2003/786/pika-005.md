@@ -1,2 +1,0 @@
-5. Personat që përfitojnë nga pika 1 e këtij vendimi, për periudhën që ndjekin arsimin e mesëm, marrin dyfishin e pagesës, ndërsa për periudhën që ndjekin një cikël të plotë të arsimit të lartë ose pasuniversitar marrin trefishin e pagesës së përcaktuar në pikën 4 të këtij vendimi. Ky përfitim shtesë nuk merret për periudhën e pushimeve të vitit shkollor.
-Personat me aftësi të kufizuar e përfitojnë pagën shtesë edhe në rastet kur studimet zgjasin edhe një vit më shumë se sa kohëzgjatja normale e ciklit të shkollës.
