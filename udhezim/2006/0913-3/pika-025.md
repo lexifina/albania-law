@@ -1,0 +1,1 @@
+25. Kur subjekti nuk kthen kontratën e firmosur, së bashku me garancinë bankare për sigurimin e saj, brenda 3 ditëve, DSHP i kërkon bankës kalimin në llogarinë e saj të vleftës së ngurtësuar prej tij, për sigurimin e ofertës. Njëkohësisht atij i hiqet e drejta e pjesëmarrjes në ankandet e tjera për një vit.

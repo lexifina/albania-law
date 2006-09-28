@@ -1,0 +1,1 @@
+30. Subjektet që kanë pretendime rreth ankandit dhe rezultateve të tij, mund t’i paraqesin ankesë me shkrim Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave, brenda 3 ditëve nga data e zhvillimit të tij, duke vënë në dijeni njëkohësisht DSHP për këtë ankesë.

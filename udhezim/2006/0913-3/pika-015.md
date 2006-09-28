@@ -1,0 +1,1 @@
+15. Pas shpalljes së konkurruesit fitues, enti shitës lidh me të kontratën, përgatit autorizimin (duke pasur bashkëlidhur emrin e konkurruesit fitues të ankandit) dhe e dërgon menjëherë në llogarinë bankare të blerësit, duke kërkuar që blerësi të bëjë pagesën, sipas dokumentit bankar të lëshuar nga banka për ata konkurrues, në llogarinë bankare të entit shitës.

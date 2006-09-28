@@ -1,0 +1,1 @@
+1. Asortimentet e gatshme, të prodhuara dhe të stivosura në anë të rrugës apo në sheshe depozitimi nga subjektet private për llogari të entit shitës (Drejtorisë së Shërbimit Pyjor DSHP), shiten me ankand.

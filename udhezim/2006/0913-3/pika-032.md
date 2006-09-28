@@ -1,0 +1,1 @@
+32. Subjekti merr përgjigje brenda 10 ditëve nga data e protokollimit të ankesës së tij dhe ajo është e formës së prerë. Për përgjigjen, vihet në dijeni edhe DSHP, ndaj së cilës ishte ankesa, si dhe udhëzohet për veprimet e mëtejshme që duhet të kryejë.

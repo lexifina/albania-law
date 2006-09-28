@@ -1,0 +1,1 @@
+23. Garancia bankare për sigurimin e kontratës qëndron e ngurtësuar 30 ditë mbas datës së përfundimit të kontratës. Brenda kësaj periudhe, nëse subjekti nuk ka shlyer të gjitha detyrimet ndaj DSHP, kjo e fundit i kërkon bankës kalimin e vlerës së ngurtësuar në llogarinë e saj dhe në të kundërt lirimin e kësaj vlere në favor të subjektit.

@@ -1,0 +1,1 @@
+6. Me shpalljen e datës së ankandit, në një vend të dukshëm të territorit të zyrave të drejtorisë, afishohen lista e asortimenteve që do të shiten sipas llojeve, vëllimi në m3, të shoqëruar me distinat përkatëse, sipas cilësisë së tyre, si dhe vëllimi i asortimenteve, që maten me mst. Gjithashtu, njoftohet vendndodhja e asortimenteve të stivosura e të nxjerra për shitje.
