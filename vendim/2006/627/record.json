@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4729,
+  "title": "Për një ndryshim në vendimin nr.603, datë 8.9.2006 të Këshillit të Ministrave “Për rregullat dhe veprimet e zyrave të gjendjes civile, për transferimin e të dhënave të gjendjes civile të shtetasve, të regjistruar në regjistrin e përkohshëm”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "627",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-09-23",
+  "published": "2006-09-28",
+  "in_force": "2006-09-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ca0aa2ba62ab41c3206d87dff82f30e84ceff12e942f3427c59bfbed16f1a369.docx",
+  "source_sha256": "ca0aa2ba62ab41c3206d87dff82f30e84ceff12e942f3427c59bfbed16f1a369",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4729",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/09/23/627",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
