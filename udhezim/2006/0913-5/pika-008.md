@@ -1,0 +1,1 @@
+8. Sektori pyjor lejon subjektin të fillojë prerjen e materialit drusor, vetëm në atë pjesë të ngastrës apo nënngastrës për të cilën i është dhënë leja e shfrytëzimit. Ai shfrytëzon vetëm vëllimin që i është shënuar në lejen e shfrytëzimit.

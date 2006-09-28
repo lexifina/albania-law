@@ -1,0 +1,1 @@
+9. Shfrytëzuesi i materialit drusor dhe ai i prodhimeve të dyta pyjore e jopyjore, për ngastrat e nënnngastrat e marra për shfrytëzim, mban përgjegjësi të plotë për dëmet që u shkaktohen nga punonjësit e tij ose persona të tjerë.

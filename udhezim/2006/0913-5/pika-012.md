@@ -1,0 +1,1 @@
+12. Projekti tekniko-ekonomik i shfrytëzimit përpilohet në tri kopje, nga të cilat një i jepet sektorit pyjor, një subjekti fitues të shfrytëzimit të ngastrës apo nënngastrës pas tenderimit dhe një ruhet në seksionin e administrim-menaxhimit, së bashku me dokumentet e tenderimit.

@@ -1,0 +1,1 @@
+3. Në kontratë pasqyrohen vëllimet e lëndës së punimit dhe e druve të zjarrit sipas llojeve dhe asortimenteve që do të prodhohen për çdo pjesë, ngastër e nëngastër pyjore, datat e fillimit e përfundimit të prerjes, nxjerrjes e stivosjes së materialit drusor në anë të rrugës dhe të kolaudimit të çdo pjese të ngastrave apo nënngastrave.
