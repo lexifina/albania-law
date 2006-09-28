@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4728,
+  "title": "Për shtyrjen e afatit të veprimtarisë së Komisionit të Posaçëm Parlamentar për Reformën Zgjedhore, ngritur me vendimin e Kuvendit nr.38, datë 18.5.2006",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "58",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-09-04",
+  "published": "2006-09-28",
+  "in_force": "2006-09-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c9d173e978db69f27348894177be87802a89ae4762f9d3cddc0b920dd924e385.docx",
+  "source_sha256": "c9d173e978db69f27348894177be87802a89ae4762f9d3cddc0b920dd924e385",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4728",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/09/04/58",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
