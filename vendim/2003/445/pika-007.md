@@ -1,2 +1,2 @@
-7. Ngarkohen Ministria e Punës dhe e Çështjeve Sociale, Ministria e Transportit dhe e Telekomunikacionit, Ministria e Bujqësisë dhe e Ushqimit dhe Ministria e Rendit Publik për zbatimin e këtij vendimi.
+7. Ngarkohen Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministri i Punëve Publike, Transportit dhe Telekomunikacionit, Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministri i Brendshëm për nxjerrjen e udhëzimit përkatës për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
