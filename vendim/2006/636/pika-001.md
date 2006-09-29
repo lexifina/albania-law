@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e shkollës së lartë universitare, jopublike “Universiteti Europian i Tiranës”, në emër të shoqërisë “UET”, sh.p.k. e cila do ta ushtrojë këtë veprimtari në qytetin e Tiranës.

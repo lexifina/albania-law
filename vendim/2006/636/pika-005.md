@@ -1,0 +1,1 @@
+5.Ministria e Arsimit dhe Shkencës të verifikojë objektin, jo më vonë se tri javë para fillimit të procesit mësimor. Çdo ndryshim në përcaktimin e vendndodhjes, të stafit pedagogjik, planeve dhe programeve, si dhe të elementeve të tjera, të miratuara, të bëhet me miratimin e Ministrisë së Arsimit dhe Shkencës.
