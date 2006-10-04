@@ -1,0 +1,3 @@
+# Nënshkrimi
+KryetarI
+Çlirim Gjata
