@@ -1,0 +1,28 @@
+{
+  "qbz_id": 63154,
+  "title": "Për ngritjen e Komisionit Hetimor Parlamentar për verifikimin e pasurive, lidhjeve nepotike dhe konfliktit të interesave të zyrtarëve të lartë të institucioneve kushtetuese dhe publike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "59",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-09-18",
+  "published": "2006-10-06",
+  "in_force": "2006-10-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/cc738d5200b6b80e2c74a4c7135f36ee897428490d8d86dc654a88b132ea38f3.docx",
+  "source_sha256": "cc738d5200b6b80e2c74a4c7135f36ee897428490d8d86dc654a88b132ea38f3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63154",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/09/18/59",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    5320
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
