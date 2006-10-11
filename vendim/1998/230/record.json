@@ -1,0 +1,27 @@
+{
+  "qbz_id": 19388,
+  "title": "Vendim Nr.230 Dt.04.04.1998",
+  "type": "Vendim",
+  "number": "230",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1998-04-04",
+  "version_no": 1,
+  "qbz_version_id": 2147,
+  "in_force": "2006-10-11",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2006-10-11",
+  "changed_by_qbz_id": 4920,
+  "changed_by_number": "777",
+  "changed_by_title": "Për disa ndryshime dhe shtesa në vendimin nr.230, datë 4.4.1998 “Për privatizimin e pjesëve të kapitalit të zotëruar nga shteti, në shoqëritë me kapital të përbashkët”, të ndryshuar",
+  "source": "https://qbz.gov.al/files/6a8a881a6a730bd8365a5e5c29a28c8027c567a7d3c40cd8b7e88e71e9f76ee4.docx",
+  "source_sha256": "6a8a881a6a730bd8365a5e5c29a28c8027c567a7d3c40cd8b7e88e71e9f76ee4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19388",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/19388/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
