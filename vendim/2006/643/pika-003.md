@@ -1,0 +1,1 @@
+3. Trajtimi i çdo punonjësi sipas këtij vendimi të bëhet vetëm për ditët efektive të punës. Këtë trajtim nuk e përfitojnë punonjësit, që, për arsye shërbimi, paguhen me dietë, që janë me leje të zakonshme, raport paaftësie etj.

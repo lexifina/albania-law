@@ -1,0 +1,1 @@
+1. Punonjësit e Shërbimit Informativ të Shtetit gëzojnë të drejtën e trajtimit me ushqim, në kuotën 125 lekë në ditë, e cila është kundërvlera në lekë e trajtimit me drekë e punonjësit të SHISH-it, sipas normës 4 të ushqimit.
