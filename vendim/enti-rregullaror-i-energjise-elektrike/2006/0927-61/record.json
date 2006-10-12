@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4763,
+  "title": "Vendim Nr.61 Dt.27.09.2006",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "61",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2006-09-27",
+  "published": "2006-10-12",
+  "in_force": "2006-10-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/00a1d1209f0445b7d5d04fc1a7d4f7d13d781bf5bf3361c81998bd8e1a0854d9.docx",
+  "source_sha256": "00a1d1209f0445b7d5d04fc1a7d4f7d13d781bf5bf3361c81998bd8e1a0854d9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4763",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/09/27/61",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
