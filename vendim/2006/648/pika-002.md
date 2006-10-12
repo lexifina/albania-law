@@ -1,0 +1,1 @@
+2. Pronarët e pasurive të paluajtshme, që shpronësohen, brenda 3 muajve nga data e përfundimit të afatit të shpronësimit, të kompensohen në lekë, në vlerë të plotë, për një sipërfaqe të përgjithshme prej 4973 m2, sipas masës përkatëse, që paraqitet në tabelën, që i bashkëlidhet këtij vendimi, në shumën 14 919 000 (katërmbëdhjetë milionë e nëntëqind e nëntëmbëdhjetë mijë) lekë.
