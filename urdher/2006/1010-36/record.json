@@ -1,0 +1,28 @@
+{
+  "qbz_id": 65182,
+  "title": "Për një ndryshim në  urdhrin nr.6, datë 10.2.2006 të Inspektorit të Përgjithshëm “Për miratimin e llojeve të  deklaratës së interesave private dhe autorizimit përkatës”",
+  "type": "Urdhër",
+  "kind": "Akt ndryshues",
+  "number": "36",
+  "institution": "Inspektorati i Lartë i Deklarimit e Kontrollit të Pasurive dhe Konfliktit të Interesave",
+  "adopted": "2006-10-10",
+  "published": "2006-10-16",
+  "in_force": "2006-10-16",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ac15fcbc5e399e3fd3a21b2f0922b7ce0ef67cb5cac401dac75ed19c9daba561.docx",
+  "source_sha256": "ac15fcbc5e399e3fd3a21b2f0922b7ce0ef67cb5cac401dac75ed19c9daba561",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65182",
+  "official_eli": "https://qbz.gov.al/eli/urdher/2006/10/10/36",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    65115
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
