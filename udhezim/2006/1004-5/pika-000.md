@@ -1,0 +1,1 @@
+Parime të përgjithshme
