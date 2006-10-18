@@ -1,0 +1,1 @@
+3. Shkolla e lartë universitare, jopublike, “Justicia” do të ofrojë studime në ciklin e parë të studimeve universitare, të cilat do të zgjasin 4 (katër) vite akademike. Në mbarim të studimeve ky universitet do të japë diplomë universitare “Bachelor” me titullin “Jurist”.
