@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4773,
+  "title": "Për mosmiratimin e propozimit të Kuvendit të Republikës për shkarkimin e Prokurorit të Përgjithshëm",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "5086",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2006-10-13",
+  "published": "2006-10-18",
+  "in_force": "2006-10-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/23e9a79e2f9aeec5749ea7ca47bdab278ffdfeabe0dca5fc60393662065d1281.docx",
+  "source_sha256": "23e9a79e2f9aeec5749ea7ca47bdab278ffdfeabe0dca5fc60393662065d1281",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4773",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2006/10/13/5086",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
