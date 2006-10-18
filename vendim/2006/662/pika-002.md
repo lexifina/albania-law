@@ -1,0 +1,1 @@
+2. Mjetet luftarake të aviacionit, armatimi i tyre dhe municionet e përcaktuara në pikën 1 të këtij vendimi, të asgjësohen ose të çmontohen dhe të shiten në formë skrapi, sipas dispozitave ligjore, ndërsa pjesët, që kanë vlerë përdorimi tjetër nga ajo e përdorimit në Forcat e Armatosura, t’u nënshtrohen procedurave për administrimin dhe tjetërsimin e pronës shtetërore.

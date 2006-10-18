@@ -1,0 +1,1 @@
+3. Ngarkohet Ministri i Mbrojtjes të nxjerrë udhëzimin përkatës për përcaktimin e kritereve teknike dhe të procedurave të asgjësimit, çmontimit a tjetërsimit të mjeteve luftarake të aviacionit, të armatimit të tyre dhe municioneve, të hequra nga armatimi dhe përdorimi.

@@ -1,0 +1,1 @@
+4. Të ardhurat, që do të realizohen, të trajtohen sipas vendimit nr.432, datë 28.6.2006 të Këshillit të Ministrave “Për krijimin dhe administrimin e të ardhurave, që krijojnë institucionet buxhetore”.
