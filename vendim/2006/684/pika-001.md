@@ -1,0 +1,4 @@
+1. Lejimin e një kompanie ushtarake transporti të Forcave të Armatosura të Republikës së Turqisë, të përbërë nga 75 (shtatëdhjetë e pesë) trupa dhe 26 (njëzet e gjashtë) mjete, të kalojë tranzit nga Mali i Zi për në bazën e Pashalimanit, Vlorë, përmes territorit të Republikës së Shqipërisë, në itinerarin Hani i Hotit-Shkodër-Durrës-Vlorë-Pashaliman.
+Hyrja e trupave ushtarakë turke të bëhet në pikën e kalimit kufitar të Hanit të Hotit, më 15 tetor 2006.
+Lejimin e një kompanie, me 58 (pesëdhjetë e tetë) trupa dhe 8 (tetë) automjete, të kalojë tranzit nga baza e Pashalimanit për në Malin e Zi, përmes territorit të Republikës së Shqipërisë, në itinerarin Pashaliman-Vlorë-Durrës-Shkodër-Hani i Hotit.
+Dalja e trupave ushtarakë turke të bëhet në pikën e kalimit kufitar të Hanit të Hotit më 20 tetor 2006.

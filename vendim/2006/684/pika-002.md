@@ -1,0 +1,4 @@
+2. Lejimin e një grupi ushtarak transporti të Forcave të Armatosura të Republikës së Turqisë, të përbërë nga 10 (dhjetë) trupa dhe 4 (katër) mjete ushtarake, të kalojë tranzit nga Kosova për në bazën e Pashalimanit, Vlorë, përmes territorit të Republikës së Shqipërisë, në itinerarin Morinë-Kukës-Shkodër-Durrës-Vlorë-Pashaliman.
+Hyrja e trupave ushtarakë turke të bëhet në pikën e kalimit të kufirit në Morinë, më 15 tetor 2006.
+Lejimin e një skuadre ushtarake të Forcave të Armatosura të Republikës së Turqisë, të përbërë nga 8 (tetë) forca dhe 2 (dy) automjete, të kalojë tranzit nga Pashalimani për në Kosovë, përmes territorit të Republikës së Shqipërisë në itinerarin Pashaliman-Vlorë-Durrës-Shkodër-Kukës--Morinë.
+Dalja e trupave ushtarakë turke të bëhet në pikën e kalimit të kufirit në Morinë, më 20 tetor 2006.
