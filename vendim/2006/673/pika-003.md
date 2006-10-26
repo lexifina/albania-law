@@ -1,0 +1,1 @@
+3. Shkolla e lartë universitare, jopublike “Aldent” do të ofrojë studime në ciklin e parë të studimeve universitare. Në mbarim të studimeve, ky universitet do të japë diplomë universitare, me titullin “Laborant dentar”.
