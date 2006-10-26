@@ -1,1 +1,0 @@
-2. Prona me numër rendor 638, “ish-brigadë këmbësorie”, në Rusan, Delvinë, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave.

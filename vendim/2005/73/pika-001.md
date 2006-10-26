@@ -1,1 +1,0 @@
-1. Mjediset e ish-brigadës së këmbësorisë, në Rusan, Delvinë, të cilat janë në përgjegjësi administrimi të Ministrisë së Mbrojtjes, të kalojnë në pronësi të bashkisë së Delvinës, për t’u përdorur për nevoja strehimi për popullsinë e kësaj bashkie.
