@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet në vlerë të plotë, sipas masës, që paraqitet në tabelën, që i bashkëlidhet këtij vendimi, për sipërfaqen 750 m2 tokë bujqësore, të vlerësuar me 700 lekë/m2 , në shumën e përgjithshme prej 525 000 (pesëqind e njëzet e pesë mijë) lekësh.

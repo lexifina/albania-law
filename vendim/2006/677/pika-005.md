@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 525 000 (pesëqind e njëzet e pesë mijë) lekësh, të përballohet nga buxheti i vitit 2006, zëri “Shpronësime”, miratuar për Ministrinë e Punëve Publike, Transportit dhe Telekomunikacionit.
