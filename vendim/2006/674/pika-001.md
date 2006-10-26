@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e shkollës së lartë universitare, jopublike “Medikadent”, në emër të shoqërisë “Shkolla e lartë universitare, jopublike “Medikadent” sh.p.k., e cila do ta ushtrojë këtë veprimtari në qytetin e Tiranës.
