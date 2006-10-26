@@ -1,0 +1,1 @@
+1. Dhënien në përdorim, pa kundërshpërblim, shoqatës së invalidëve të punës të disa mjediseve, zyra me sipërfaqe 114 m2, në ndërtesën e Shërbimit Social Shtetëror, Tiranë, sipas planimetrisë, që i bashkëlidhet këtij vendimi.
