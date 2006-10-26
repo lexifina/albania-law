@@ -1,0 +1,1 @@
+5. Ministria e Arsimit dhe Shkencës të bëjë verifikimin e plotësimit të kushteve për fillimin e procesit mësimor. Çdo ndryshim në përcaktimin e vendndodhjes, stafin pedagogjik, planeve dhe programeve, si dhe në elementet e tjera, të miratuara, të bëhet me miratimin e Ministrisë së Arsimit dhe Shkencës.
