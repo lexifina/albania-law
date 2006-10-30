@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4793,
+  "title": "Për disa shtesa në vendimin nr.167, datë 29.3.2006 të Këshillit të Ministrave “Për disa çështje në zbatim të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, dhe të ligjit nr.7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”, të ndryshuar”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "685",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-10-11",
+  "published": "2006-10-30",
+  "in_force": "2006-10-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/c29eece2488d6c61ea8cb0b2d5fe20ab748cf18247e1a36b72763ea2d6dab4b0.docx",
+  "source_sha256": "c29eece2488d6c61ea8cb0b2d5fe20ab748cf18247e1a36b72763ea2d6dab4b0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4793",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/10/11/685",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
