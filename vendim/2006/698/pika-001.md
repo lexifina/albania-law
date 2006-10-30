@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e shkollës së lartë universitare, jopublike “Universiteti Polis”, shkolla ndërkombëtare e arkitekturës dhe e politikave të zhvillimit urban, në emër të shoqërisë “Universiteti Polis”, sh.p.k., e cila do ta ushtrojë këtë veprimtari në qytetin e Tiranës.
