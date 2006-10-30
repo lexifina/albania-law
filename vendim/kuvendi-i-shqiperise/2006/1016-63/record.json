@@ -1,0 +1,26 @@
+{
+  "qbz_id": 4788,
+  "title": "Për zgjedhjen e një anëtari të Këshillit Drejtues të RTSH-së",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "63",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-10-16",
+  "published": "2006-10-30",
+  "in_force": "2006-10-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b3965879721770560bc49f30d344841fd7c4aa2c5548b593d3e863f8b4c2849e.docx",
+  "source_sha256": "b3965879721770560bc49f30d344841fd7c4aa2c5548b593d3e863f8b4c2849e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4788",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/10/16/63",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
