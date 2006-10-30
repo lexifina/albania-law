@@ -1,0 +1,1 @@
+8. Në rastet kur ndërmjetësi ka zgjidhur mosmarrëveshjen dhe palët kanë nënshkruar një aktmarrëveshje në zbatim të angazhimeve dypalëshe, një kopje e saj depozitohet bashkë me relacionin përkatës pranë Drejtorisë së Marrëdhënieve të Punës.

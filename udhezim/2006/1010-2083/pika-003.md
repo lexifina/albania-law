@@ -1,0 +1,1 @@
+3. Në rastet kur kërkesa për ndërmjetësim është bërë pranë Drejtorisë së Marrëdhënieve të Punës, drejtori i kësaj drejtorie, nëse e sheh të arsyeshme, vë në lëvizje në mënyrë të drejtpërdrejtë ndërmjetësin e zyrës rajonale apo vendore.

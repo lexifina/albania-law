@@ -1,0 +1,1 @@
+2. Ndërmjetësi, në çdo zyrë rajonale apo vendore, vihet në lëvizje për të zgjidhur konfliktin nga drejtori i zyrës rajonale apo vendore, bazuar në kërkesën për ndërmjetësim, që të paktën njëra prej palëve të interesuara i drejton zyrës rajonale apo vendore të punësimit.
