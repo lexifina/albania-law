@@ -1,0 +1,2 @@
+Miratimin, në parim, të marrëveshjes së garancisë, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (EBRD), që lidhet me marrëveshjen e kredisë, ndërmjet Korporatës Elektroenergjetike Shqiptare (KESH sh.a.) dhe Bankës Europiane për Rindërtim dhe Zhvillim (EBRD), në kuadër të programit të komunitetit të energjisë së Europës Juglindore.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
