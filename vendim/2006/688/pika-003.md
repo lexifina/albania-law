@@ -1,0 +1,1 @@
+3. Të ardhurat e SHPMB, Durrës, të krijuara nga shërbimi ndaj punonjësve të Ministrisë së Brendshme dhe ndaj të tretëve, të përdoren 90 për qind për nevoja të këtij institucioni dhe 10 për qind të derdhen në Buxhetin e Shtetit.
