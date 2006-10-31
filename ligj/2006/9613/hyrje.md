@@ -1,0 +1,7 @@
+LIGJ
+Nr.9613, datë 21.9.2006
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN E UNESCO-S “PËR MBROJTJEN DHE ZHVILLIMIN E LARMISË SË SHPREHJEVE TË KULTURAVE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
