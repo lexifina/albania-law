@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66575,
+  "title": "Për një shtesë në ligjin nr.7971, datë 26.7.1995 “Për prokurimin publik”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9609",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-09-18",
+  "published": "2006-10-16",
+  "in_force": "2006-10-31",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/0258008725c6dd814a1f0f48751943b206d3724ec42e9139b5ae8a57dd559277.docx",
+  "source_sha256": "0258008725c6dd814a1f0f48751943b206d3724ec42e9139b5ae8a57dd559277",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66575",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/09/18/9609",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
