@@ -1,0 +1,3 @@
+# Neni 24
+1. Veprimtaria, të drejtat dhe detyrat e Agjencisë Kombëtare të Standardizimit të Botimeve të Librit përcaktohen në rregulloren e kësaj Agjencie, e cila hartohet nga Biblioteka Kombëtare dhe miratohet nga Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve, në përputhje me kushtet e dhënies së ISBN-së, të parashikuara nga Agjencia Ndërkombëtare e ISBN-së.
+2. Në rregulloren e funksionimit të Agjencisë Kombëtare të Standardizimit të Botimeve të Librit përcaktohen procedurat që ndjek kjo Agjenci për ofrimin, dhënien dhe kontrollin e zbatimit të ISBN-së, si dhe kushtet që duhet të plotësojë botuesi për kërkimin, marrjen dhe vendosjen e ISBN-së.

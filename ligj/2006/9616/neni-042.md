@@ -1,0 +1,2 @@
+# Neni 42
+Të gjithë botuesit, entet botuese dhe mjetet e informimit publik, shtetërore ose private, që ushtrojnë veprimtari në Republikën e Shqipërisë, detyrohen të dorëzojnë, pa shpërblim, në Bibliotekën Kombëtare, në Bibliotekën e Kuvendit të Republikës së Shqipërisë dhe në bibliotekat publike pranë njësive administrative vendore, ku ushtrojnë veprimtarinë, nga 5 kopje për çdo botim, duke paguar edhe tarifën e shërbimit postar, kur është i nevojshëm.

@@ -1,0 +1,2 @@
+# Neni 40
+Në rast shkeljeje të dispozitave të këtij kreu, çdo i dëmtuar, individ, person fizik ose juridik, si shoqatat e mbrojtjes së të drejtave të konsumatorëve, shoqatat e botuesve, sindikatat e profesionistëve të botimit ose të shpërndarjes së librit, si dhe vetë autori i librit, titullari i mbrojtjes së të drejtave të autorit apo agjencia për mbrojtjen e të drejtave të autorëve, kanë të drejtë të kërkojnë ndalimin e cenimit të të drejtave të tyre dhe/ose dëmshpërblimin përkatës pranë organeve përgjegjëse.
