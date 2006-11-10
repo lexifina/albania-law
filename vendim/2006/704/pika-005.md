@@ -1,0 +1,1 @@
+5. Vlerësimi i detyrimeve të ndihmave shtetërore, që krijojnë fond kundërparti, të bëhet sipas kritereve të vendimeve nr.465, datë 3.10.1994 dhe nr.55, datë 30.1.1995 të Këshillit të Ministrave, dhe të udhëzimit të Ministrisë së Financave, në zbatim të tyre. Këto do të pasqyrohen si zë më vete, pasi pagesa e tyre do të bëhet në lekë.

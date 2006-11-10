@@ -1,0 +1,1 @@
+12. Procedurat e botimit për shitjen me rezervë fillojnë nga Ministria e Financave (Drejtoria e Administrimit dhe Shitjes së Pronave Publike), menjëherë pas përfundimit të ankandit, të kryer sipas pikës 10 të këtij kreu. Botimi bëhet sipas pikës 5 të këtij kreu dhe me të njëjtat të dhëna, duke shtuar formën e shitjes me rezervë.

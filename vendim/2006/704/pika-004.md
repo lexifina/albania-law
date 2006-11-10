@@ -1,0 +1,1 @@
+4. Koeficienti i vendndodhjes, i cili përdoret vetëm për ndërtimet dhe objektet ndërtimore, duhet të konfirmohet nga zyra e urbanistikës në organet e qeverisjes vendore, ku ndodhet objekti. Tabela e përcaktimit të këtij koeficienti i bashkëlidhet këtij vendimi.

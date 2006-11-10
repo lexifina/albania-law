@@ -1,0 +1,1 @@
+15. Pjesëmarrësve të tjerë në ankand (përveç fituesit) u kthehet 20 për qind e vlerës fillestare, të ngurtësuar paraprakisht. Pjesëmarrësit në ankand, i cili tërhiqet nga ankandi pa dhënë asnjë ofertë për vlerën e objektit të shpallur për shitje, i konfiskohet 20 për qind e garancisë bankare të ngurtësuar për pjesëmarrje në ankand.
