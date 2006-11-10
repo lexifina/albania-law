@@ -1,0 +1,1 @@
+10. Sekretariati teknik ka detyrë të kujdeset për shkëmbimin e informacionit, dërgimin e njoftimeve dhe përgatitjen e materialeve, që shqyrtohen në mbledhjet e komitetit, si dhe mbajtjen e procesverbaleve të mbledhjeve.

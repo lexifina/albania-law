@@ -1,0 +1,1 @@
+6. Në përfundim të shqyrtimit të çështjeve, sipas rendit të ditës, kryetari i komitetit të lojërave të fatit vendos hedhjen në votë të çështjeve, për të cilat duhet të merret vendim nga komiteti. Vendimet e komitetit merren me shumicën e votave (shumicë absolute). Në rast barazie votash, vendimtare është vota e kryetarit të komitetit.

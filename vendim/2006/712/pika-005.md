@@ -1,0 +1,1 @@
+5. Mbledhjet e komitetit janë të vlefshme kur janë të pranishëm jo më pak se ¾ e anëtarëve. Në fillim të mbledhjes, kryetari i komitetit verifikon numrin e pjesëmarrësve dhe, në mungesë të shumicës së nevojshme, vendos thirrjen e mbledhjes tjetër jo më vonë se tri ditë.

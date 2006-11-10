@@ -1,0 +1,1 @@
+4. Mbledhjet e komitetit thirren dhe drejtohen nga kryetari. Përcaktimi i rendit të ditës dhe i datës së mbledhjes vendosen nga kryetari i komitetit dhe u bëhen të ditura anëtarëve të tjerë, të paktën 3 ditë para mbledhjes.

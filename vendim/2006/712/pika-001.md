@@ -1,0 +1,1 @@
+1. Krijimin e komitetit të lojërave të fatit, si një strukturë ad-hoc, pranë ministrit përgjegjës për ekonominë, për shqyrtimin e kërkesave për dhënien e lejeve për lojërat e fatit, kazinotë dhe hipodromet.

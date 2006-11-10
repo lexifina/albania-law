@@ -1,0 +1,1 @@
+8. Vendimet e marra nga komiteti i lojërave të fatit i dërgohen Ministrit të Ekonomisë, Tregtisë dhe Energjetikës. Ministri, për shkaqe ligjore, ka të drejtë t’i kërkojë komitetit rishqyrtim të çështjes.

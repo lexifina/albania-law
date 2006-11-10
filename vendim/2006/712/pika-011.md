@@ -1,0 +1,1 @@
+11. Sekretariati teknik kujdeset dhe përgjigjet për administrimin e dokumentacionit të punës së komitetit të lojërave të fatit, për dërgimin e marrjen e të dhënave, të njoftimeve dhe të korrespondencës me organet e personat juridikë, për procedurën e dhënies së lejes.
