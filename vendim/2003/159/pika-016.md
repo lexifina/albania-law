@@ -1,1 +1,0 @@
-16. Personi që ka fituar të drejtën e blerjes së objektit nëpërmjet ankandit ose me të drejtën e parablerjes nga ana e AKP-së ose dega e saj, pajiset me autorizimin për kalim pronësie. Në këtë autorizim duhet të jenë përcaktuar qartë detyrimet e blerësit.

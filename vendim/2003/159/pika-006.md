@@ -1,1 +1,0 @@
-6. Për kafshët e punës dhe të përdorimit të prodhimit dhe për gjënë e gjallë në rritje dhe majmëri, vlera aktuale mimimale përcaktohet nga komisioni i vlerësimit në bazë të çmimeve të tregut duke mbajtur parasysh vlerën zooteknike.
