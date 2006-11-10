@@ -1,0 +1,2 @@
+10. Kontributi për njohjen e kësaj periudhe sigurimi derdhet në emër të bashkëshortit/es përfitues, i llogaritur mbi pagën minimale mujore të papunësisë, të përcaktuar nga Këshilli i Ministrave, për efekt kontributi të sigurimeve shoqërore. Ky kontribut përballohet nga SHISH-i e përfituesi dhe derdhet në fondin e sigurimit të detyrueshëm shoqëror.
+Masa e kontributit për pension pasqyrohet në listëpagesat tip, të miratuara nga Instituti i Sigurimeve Shoqërore.

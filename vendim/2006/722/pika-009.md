@@ -1,0 +1,1 @@
+9. Periudha e trajtimit të veçantë financiar, sipas këtij vendimi, njihet si vjetërsi sigurimi, për efekt të përfitimit të pensionit të pleqërisë, në përputhje me ligjin nr.7703, datë 11.5.1993 ”Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.

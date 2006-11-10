@@ -1,0 +1,1 @@
+4. Bashkëshorti/ja e punonjësit të SHISH-it, për të fituar trajtim të veçantë financiar, duhet të paraqesë kërkesën për punë në zyrat e punës dhe një kopje të kërkesës në qendrën e punës së punonjësit të SHISH-it.
