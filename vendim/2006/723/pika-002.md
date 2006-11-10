@@ -1,0 +1,1 @@
+2. Punonjësi i SHISH-it, në trajtim me pagesë kalimtare, me pension të parakohshëm ose në pension të plotë pleqërie, i cili aktivizohet për nevoja të këtij shërbimi, për zgjidhjen e problemeve të veçanta, përfiton me urdhër të drejtorit të SHISH-it, shpërblim, në të njëjtën vlerë monetare, si punonjësi në detyrë.

@@ -1,0 +1,1 @@
+1. Punonjësit të Shërbimit Informativ të Shtetit, për punë cilësore, angazhim dhe rezultate në punë, për ruajtjen dhe administrimin e pronës dhe për kryerjen e detyrave me rreziqe e mundime të veçanta, t’i jepet shpërblim, në vlerë monetare, në masën deri në 2 (dy) paga mujore në vit, me urdhër të drejtorit të SHISH-it.
