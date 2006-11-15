@@ -1,0 +1,8 @@
+# Neni 13
+Dorëzimi i tabelave të rezultateve, kutive të votimit dhe kutive të materialeve zgjedhore
+1. Menjëherë pas përfundimit të procedurave të nxjerrjes së rezultatit të zgjedhjeve, kryetari, zëvendëskryetarit dhe sekretari i KZQV-së dorëzon në KQZ: tabelat origjinale përmbledhëse të rezultateve, model 39-06/07 dhe 40-06/07, tabelat origjinale të rezultateve të grupeve të numërimit model 56-06/07 dhe 57-06/07, procesverbalin e marrjes në dorëzim të KZQV-së, procesverbalin e konstatimit, librin e protokollit të mbledhjeve, vulën e KZQV-së, kutitë e votimit me fletët e votimit, kutitë e materialeve zgjedhore, materialet zgjedhore të inventarizuara, si dhe çdo dokument tjetër zgjedhor.
+2. KQZ-ja organizon grupet e marrjes në dorëzim të dokumentacionit dhe materialeve zgjedhore me jo më pak se 2 persona të administratës së KQZ-së të autorizuar nga titullari i institucionit.
+3. Dorëzimi i materialeve zgjedhore të inventarizuara bëhet me procesverbal KZQV- PV- 11, bashkëlidhur këtij udhëzimi.
+4. Kutitë e votimit dhe kutitë e materialeve zgjedhore dorëzohen me procesverbal model PV - KZQV-13, bashkëlidhur këtij udhëzimi.
+5. Tabelat origjinale përmbledhëse të rezultateve, së bashku me tabelat e rezultateve të grupeve të numërimit, procesverbalin e marrjes ne dorëzim të KZQV-së procesverbalit të konstatimit, librit të protokollit dhe vula e KZQV-së dorëzohen veçmas me procesverbal PV-KZQV-12, bashkëlidhur këtij udhëzimi.
+6. Tabelat origjinale përmbledhëse të rezultateve, tabelat e rezultateve të grupeve të numërimit, libri i protokollit, procesverbali i konstatimit, si dhe kopjet origjinale të procesverbaleve të dorëzimit të tyre në KQZ, depozitohen në zyrën e regjistrimit të akteve dhe dokumentacionit.
