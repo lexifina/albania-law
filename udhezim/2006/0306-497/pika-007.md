@@ -1,0 +1,2 @@
+7. Udhëzimi nr.10, datë 16.3.1994 “Mbi rishikimin e të ardhurave që siguron familja fshatare nga prodhimi bujqësor dhe blegtoral, “Shtesa e udhëzimit nr.10, datë 13.6.1994, udhëzimi nr.16, datë 9.5.1995 “Mbi disa ndryshime në udhëzimin nr.10, datë 16.3.1994 dhe shtesës së udhëzimit nr.10, datë 13.6.1994 në lidhje me llogaritjen e të ardhurave nga blegtoria”, shfuqizohen.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
