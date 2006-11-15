@@ -1,0 +1,1 @@
+1. Dhënien me qira, pa konkurrim, shoqërisë “Univers-Alb” sh.a., Tiranë, të disa mjediseve, me sipërfaqe trualli gjithsej 15 638 m2 në Spitalin Ushtarak Qendror Universitar, Tiranë, institucion në varësi administrative të Ministrisë së Mbrojtjes, për ngritjen e një qendre spitalore.

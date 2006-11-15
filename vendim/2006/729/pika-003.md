@@ -1,0 +1,1 @@
+3. Autorizohet Ministria e Ekonomisë, Tregtisë dhe Energjetikës për lidhjen e kontratës së qirasë, sipas përcaktimeve të parashikuara në vendimin nr.315, datë 24.4.2003 të Këshillit të Ministrave “Për dhënien me qira të pasurive të ndërmarrjeve, shoqërive dhe institucioneve shtetërore”.
