@@ -1,0 +1,1 @@
+5. Drejtoria e Shërbimeve Sociale i paraqet kryetarit të komisionit të licencimit kopjen origjinale të dokumentacionit për licencim, ndërsa anëtarëve kopjen fotokopje 7 ditë përpara datës së caktuar për mbledhje.

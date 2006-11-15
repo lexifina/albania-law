@@ -1,0 +1,1 @@
+3. Dokumentacioni i aplikimeve për pajisjen me licencë për ofrimin e shërbimeve sociale, që përgatitet nga Shërbimi Social Shtetëror, si dhe propozimet e Inspektoratit të Ndihmës Ekonomike, Pagesës së Personave me Aftësi të Kufizuar dhe Shërbimeve Shoqërore, regjistrohen në protokollin e Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta.

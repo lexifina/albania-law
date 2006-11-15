@@ -1,0 +1,1 @@
+9. Çdo anëtar komisioni ka të drejtë të shprehë mendimin e tij me shkrim, në rastet kur ka mendime të ndryshme mes anëtarëve për vendimin e marrë. Këto mendime pasqyrohen në dokumentacionin që i dërgohet për miratim ose refuzim Ministrit.

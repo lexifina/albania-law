@@ -1,0 +1,1 @@
+11. Në rastin e miratimit nga Ministri, të propozimeve të Inspektoratit të Ndihmës Ekonomike, Pagesës së Personave me Aftësi të Kufizuar dhe Shërbimeve Shoqërore, atëherë Drejtoria e Shërbimeve Sociale njofton subjektin përkatës brenda 7 ditëve.
