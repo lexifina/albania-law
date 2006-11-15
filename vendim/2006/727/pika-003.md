@@ -1,0 +1,1 @@
+3. Dorëzimi dhe marrja në dorëzim e mjeteve, në përdorim të Drejtorisë së Informacionit Agroushqimor (DIA), në Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit të bëhen sipas bilancit kontabël në datën e dorëzimit dhe të marrjes në dorëzim. Afatet e dorëzimit dhe të marrjes në dorëzim caktohen me urdhër të Ministrit.
