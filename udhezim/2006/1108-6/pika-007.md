@@ -1,0 +1,1 @@
+7.Vendimi i miratimit të kufirit dhe emërtimit të zonës/vendbanimit informal, nga KRRTRSH-ja, i përcillet njësive të qeverisjes vendore për përcaktimin e kufijve dhe sipërfaqeve të parcelave ndërtimore.

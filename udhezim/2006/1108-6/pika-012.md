@@ -1,0 +1,1 @@
+12. Për propozimin dhe miratimin në KRRT të kufirit të bllokbanimeve/ndërtimeve informale dhe territoreve të tjera, të kufirit dhe sipërfaqes së parcelave të objekteve, zyra e urbanistikës së njësisë së qeverisjes vendore përgatit dokumentacionin tekniko-ligjor, sipas pikës 2 dhe 3 të këtij udhëzimi.

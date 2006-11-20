@@ -1,0 +1,1 @@
+13. Për objektet e veçanta pa leje dhe për shtesat pa leje në ndërtimet me leje, vendimmarrja realizohet në KRRT-të e njësive të qeverisje vendore. Dokumentacioni i domosdoshëm që do të paraqitet do të jetë sipas pikës 2-a/b/c/d/g të këtij udhëzimi.
