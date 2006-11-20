@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në lekë, në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën, e cila i bashkëlidhet këtij vendimi, për sipërfaqen 21 834 m2, tokë bujqësore arë, vlerësuar në shumën e përgjithshme prej 18 558 900 (tetëmbëdhjetë milionë e pesëqind e pesëdhjetë e tetë mijë e nëntëqind) lekësh.

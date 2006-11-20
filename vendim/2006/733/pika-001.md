@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i nënstacionit 220/110/35/20 kV Koplik, Malësi e Madhe, sipas tabelës që i bashkëlidhet këtij vendimi.
