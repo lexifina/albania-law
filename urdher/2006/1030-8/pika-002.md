@@ -1,0 +1,1 @@
+2. Drejtoritë rajonale të Agjencisë së Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale, njësitë e qeverisjes vendore, gjatë hartimit dhe paraqitjes së materialeve grafike, të veprojnë sipas përcaktimeve të bëra në këtë manual.
