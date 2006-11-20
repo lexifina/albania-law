@@ -1,0 +1,1 @@
+5. Ngarkohen Ministria e Ekonomisë, Tregtisë dhe Energjetikës dhe Ministria e Punëve Publike, Transportit dhe Telekomunikacionit për përgatitjen e ndryshimeve të nevojshme tekniko-juridike dhe të autorizimeve përkatëse për realizimin e procedurave.

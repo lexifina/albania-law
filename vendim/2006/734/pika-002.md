@@ -1,0 +1,1 @@
+2. Lejimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të blejë 100 për qind të aksioneve të shoqërisë “Berlinwasser International, GmbH” në “Elber” sh.p.k. (ndërmarrja e ujësjellës-kanalizimeve të qytetit të Elbasanit), me vlerë 10 000 (dhjetë mijë) lekë.

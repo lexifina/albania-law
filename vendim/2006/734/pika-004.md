@@ -1,0 +1,1 @@
+4. Ngritjen e grupit të punës, me përfaqësues nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës dhe Ministria e Punëve Publike, Transportit dhe Telekomunikacionit, për negocimin, me shoqërinë “Berlinwasser International GmbH”, të kushteve, teknike e juridike, të kontratës së shitblerjes së këtyre aksioneve.

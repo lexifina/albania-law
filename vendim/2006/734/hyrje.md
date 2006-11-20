@@ -1,0 +1,5 @@
+VENDIM
+Nr.734, datë 1.11.2006
+PËR FILLIMIN E PROCEDURAVE PËR MBYLLJEN E KONTRATËS SË KONCESIONIT, PËR NDËRMARRJEN E UJËSJELLËS-KANALIZIMEVE, ELBASAN, DHE LEJIMIN E MINISTRISË SË EKONOMISË, TREGTISË DHE ENERGJETIKËS TË BLEJË 100 PËR QIND TË AKSIONEVE TË SHOQËRISË “BERLINWASSER INTERNATIONAL, GmbH” NË “ELBER” SHPK
+Në mbështetje të nenit 100 të Kushtetutës, të ligjit nr.7926, datë 20.4.1995 “Për transformimin e ndërmarrjeve shtetërore në shoqëri tregtare”, të ndryshuar, të ligjit nr.7973, datë 26.7.1995 “Për koncesionet dhe pjesëmarrjen e sektorit privat në shërbimet publike dhe infrastrukturë” dhe të ligjit nr.8783, datë 7.5.2001 “Për miratimin e marrëveshjes së koncesionit të formës “Bot”, ndërmjet Ministrisë së Punëve Publike, Ministrisë së Ekonomisë Publike dhe Privatizimit, bashkisë së qytetit të Elbasanit dhe “Berlinwasser International, GmbH”, për ndërmarrjen e ujësjellësit dhe ujë-kanalizimeve Elbasan, si dhe dhënien e disa stimujve dhe garancive për koncesionarin e kësaj Marrëveshjeje”, me propozimin e Ministrit të Ekonomisë, Tregtisë dhe Energjetikës dhe të Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit, Këshilli i Ministrave
+VENDOSI:

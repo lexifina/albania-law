@@ -1,0 +1,1 @@
+1. Fillimin e procedurave për mbylljen e kontratës së koncesionit, të nënshkruar ndërmjet Ministrisë së Punëve Publike, Ministrisë së Ekonomisë Publike dhe Privatizimit, bashkisë së qytetit të Elbasanit dhe shoqërisë “Berlinwasser International GmbH” për ndërmarrjen e ujësjellës-kanalizimeve Elbasan.
