@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001; 152, datë 25.4.2002)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001; 152, datë 25.4.2002; nr. 779, datë 22.11.2006)
 
 (I përditësuar)
 
@@ -188,7 +188,7 @@ Pas mbarimit të funksionit të tyre
 
 - Punonjësit administrativë e teknikë të Ministrisë së Punëve të Jashtme, të përfaqësive diplomatike, konsullore dhe tregtare, bashkëshortëve, djemve  deri në 18 vjeç dhe vajzave të pamartuara që bashkëjetojnë me ta;
 
-- Drejtori, kryeredaktori dhe shefi i sektorit me jashtë të gazetave të përditshme të karakterit informativ e politiko-shoqëror, me tirazh mbi 5000 kopje, si dhe revistave periodike të karakterit informativ, politik e social sipas përcaktimit që do të bëhet nga Drejtoria e Shtypit e Ministrisë së Punëve të Jashtme;
+- Drejtori, kryeredaktori dhe shefi i sektorit me jashtë të gazetave të përditshme të karakterit informativ e politiko-shoqëror, me tirazh mbi 5000 kopje, si dhe revistave periodike të karakterit informativ, politik e social dhe drejtori, kryeredaktori dhe shefi i sektorit me jashtë, të mediave elektronike sipas përcaktimit që do të bëhet nga Drejtoria e Shtypit e Ministrisë së Punëve të Jashtme;
 
 - Kryetari i Komitetit Olimpik, Sekretari i Përgjithshëm i FSHF-së dhe trajneri i Ekipit Kombëtar në futboll;
 
