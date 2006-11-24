@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2006, zëri “Investime”, artikulli “231”, t’i shtohet fondi prej 120 000 000 (njëqind e njëzet milionë) lekësh për financimin e projektit të UNESCO-s “Restaurimi i qendrës historike të qytetit të Gjirokastrës”.
