@@ -1,0 +1,1 @@
+7. Agjencia e Kompensimit dhe Kthimit të Pronave të hapë një llogari bankare, me fondin e përcaktuar, prej së cilës të bëhet transferimi, në emër të subjektit përfitues, i vlerave përkatëse të kompensimit në të holla.
