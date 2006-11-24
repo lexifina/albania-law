@@ -1,0 +1,2 @@
+1. Lejimin e një njësie ushtarake sllovene, të përbërë nga 6 (gjashtë) trupa dhe 3 (tre) mjete të kalojë transit, përmes territorit të Republikës së Shqipërisë, në itinerarin Qafë-Thanë - Porti i Durrësit - Qafë-Thanë, në datat 14-15 nëntor 2006.
+Pika e hyrjes në territorin e Republikës së Shqipërisë do të jetë pika e kalimit të kufirit në Qafë-Thanë. Pikat e daljes do të jenë Porti i Durrësit dhe pika e kalimit të kufirit në Qafë-Thanë.
