@@ -1,0 +1,1 @@
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2006, në shumën 154 766 000 (njëqind e pesëdhjetë e katër milionë e shtatëqind e gjashtëdhjetë e gjashtë mijë) lekë, të përballohen nga buxheti i sigurimeve shoqërore për vitin 2006.
