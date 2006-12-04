@@ -1,0 +1,2 @@
+Shoqëritë e licencuara për zhvillimin e lojërave të fatit, kazinove, përpara se të transferojnë, shesin, të lënë peng dhe çdo forme tjetër të zotërimit të aksioneve të tyre, duhet të marrin miratimin paraprak nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës.
+I. Shoqëritë e licencuara në fushën e lojërave të fatit të paraqesin pranë Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës për shitjen e aksioneve të tyre, dokumentacionin e mëposhtëm:
