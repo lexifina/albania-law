@@ -1,0 +1,1 @@
+3. Tarifa vjetore e shkollimit për këto degë të jetë 60 000 (gjashtëdhjetë mijë) lekë. Kuotat e pranimit përcaktohen nga Ministria e Arsimit dhe Shkencës, për çdo vit, në mbështetje të propozimeve të Universitetit Politeknik të Tiranës.

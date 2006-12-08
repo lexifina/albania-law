@@ -1,0 +1,1 @@
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondet e miratuara në Buxhetin e Shtetit për Ministrinë e Arsimit dhe Shkencës dhe nga burime të tjera, të ligjshme, të vetë shkollës së lartë.

@@ -1,0 +1,1 @@
+2. Kohëzgjatja e ciklit të dytë të studimeve “Master”, në degët e përcaktuara në pikën 1 të këtij vendimi, të jetë dy vjet dhe ngarkesa mësimore vjetore të jetë jo më pak se 60 kredite. Sistemi i studimeve të jetë me kohë të plotë.
