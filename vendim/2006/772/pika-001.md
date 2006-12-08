@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të mjediseve të “Depo drithi nr.2, të Rezervave të Shtetit, agjencia Lundër”, nga Ministria e Brendshme Komisionit Qendror të Zgjedhjeve, sipas formularit dhe planimetrisë, që i bashkëlidhen këtij vendimi.
