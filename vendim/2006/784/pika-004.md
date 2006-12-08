@@ -1,0 +1,1 @@
+4. Fondi i nevojshëm, për kryerjen e pagesave të punonjëve, që dalin të papunë nga ristrukturimi i këtyre shoqërive, të përballohet nga likuiditetet e shoqërisë “Albpetrol” sh.a., e cila do të kryejë këto pagesa çdo muaj.

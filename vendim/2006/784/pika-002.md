@@ -1,0 +1,1 @@
+2. Punonjësit e shoqërive “Servcom” sh.a. e “Transnafta” sh.p.k. që dalin të papunë si pasojë e ristrukturimit, përfitojnë, për një periudhë njëvjeçare, pagesë me pagë bruto mesatare, mujore, individuale të vitit të fundit të punës. Në përfundim të kësaj periudhe, punonjësit kanë të drejtë të aplikojnë për të ardhurën nga papunësia.

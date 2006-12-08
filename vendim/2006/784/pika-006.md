@@ -1,0 +1,1 @@
+6. Shoqërisë “Albeptrol” sh.a. do t’i shtohen nga shoqëritë “Servcom” sh.a. e “Transnafta” sh.p.k. të gjitha asetet, për zhvillimin e veprimtarisë së shoqërisë dhe që gjenerojnë të ardhura, të cilat duhet të paraqiten në bilancin e saj.

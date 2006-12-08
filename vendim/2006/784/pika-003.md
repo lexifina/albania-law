@@ -1,0 +1,1 @@
+3. Periudha, gjatë së cilës këta persona do të përfitojnë pagesën e përcaktuar në këtë vendim, njihet periudhë sigurimi për efekt përfitimi pensioni pleqërie, invaliditeti dhe familjar, kundrejt pagesës së kontributit në fondin e sigurimit të detyrueshëm shoqëror nga “Albpetrol” sh.a. Periudha e mësipërme e pagesës shënohet në librezën e punës.
