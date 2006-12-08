@@ -1,1 +1,1 @@
-1. Hapjen e Konsullatës së Përgjithshme të Republikës së Shqipërisë në Podgoricë, Mali i Zi.
+1. Hapjen e Ambasadës së Republikës së Shqipërisë në Republikën e Malit të Zi.
