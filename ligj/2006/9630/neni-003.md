@@ -1,0 +1,9 @@
+# Neni 3
+Objekti i kontratës faktoring, kreditë ekzistuese dhe/ose të ardhshme
+1. Objekt i kontratës faktoring janë kreditë ekzistuese dhe/ose të ardhshme të llogarisë klient, të cilat kanë lindur dhe/ose do të lindin nga shitja e sendeve dhe/ose shërbimeve nga furnizuesi te klienti (debitori). Kreditë e llogarisë klient, objekt i kontratës faktoring, mund të jenë vendase ose ndërkombëtare.
+2. Kreditë e llogarisë klient mund të kalohen edhe përpara lidhjes së kontratave nga të cilat ato do të rrjedhin. Kreditë e llogarisë klient, qofshin ekzistuese apo të ardhshme, mund të kalohen në tërësi.
+3. Kalimi në tërësi i kredive të ardhshme të llogarisë klient mund të bëhet vetëm për kreditë që rrjedhin nga kontrata, të cilat lidhen brenda një afati maksimal njëzet e katër muaj nga data lidhjes së kontratës faktoring.
+4. Dispozitat e kontratës faktoring janë të vlefshme edhe kur nuk identifikojnë individualisht kreditë, ekzistuese ose të ardhshme, të llogarisë klient, objekt i kontratës faktoring, nëse këto kredi identifikohen në kontratën faktoring në kohën e lidhjes së saj ose në kohën e lindjes së këtyre kredive.
+5. Dispozitat e kontratës faktoring, që parashikojnë kalimin e kredive të ardhshme të llogarisë klient te faktori, zbatohen menjëherë, në çastin kur lindin kreditë në fjalë, pa qenë i nevojshëm nënshkrimi i një kontrate të re, për realizimin e kalimit të kredive të llogarisë klient.
+6. Lidhja nga furnizuesi me më shumë se një faktor e kontratave të përcaktuara në nenin 2 të këtij ligji, të cilat kanë objekt të njëjtat kredi të llogarisë klient, për të njëjtin debitor, është e ndaluar. Këto kontrata kur lidhen janë të pavlefshme. Shkelja e kësaj dispozite, kur përbën vepër penale, dënohet sipas dispozitave të Kodit Penal.
+Lidhja e kontratave faktoring nuk është e kundërligjshme, nëse faktorët e lartpërmendur kanë rënë dakord për lidhjen e këtyre kontratave.

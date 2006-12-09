@@ -1,0 +1,5 @@
+# Neni 14
+Detyrimet e furnizuesit
+1. Furnizuesi përgjigjet kundrejt faktorit për ekzistencën dhe vlefshmërinë e kredive të llogarisë klient, të cilat janë objekt i kontratave të përmendura në nenin 3 të këtij ligji dhe që i kalojnë faktorit të lira nga çdo barrë, mosmarrëveshje, prapësim, pretendim apo nga çdo e drejtë tjetër e të tretëve.
+2. Furnizuesi është i detyruar që, jo më vonë nga çasti kur faktorit i lindin të drejtat, që burojnë nga kontrata faktoring, të vërë në dispozicion të faktorit, sipas nenit 507 të Kodit Civil, çdo të dhënë ose dokument, që provon ekzistencën e kredive të llogarisë klient, objekt i kontratës faktoring.
+3. Nëse debitori, edhe pse është njoftuar sipas nenit 6 të këtij ligji, ekzekuton, gabimisht ose për çdo lloj arsyeje tjetër, në favor të furnizuesit kreditë e llogarisë klient, që furnizuesi ia ka kaluar faktorit nëpërmjet kontratës faktoring, furnizuesi detyrohet t’i transferojë menjëherë faktorit fondet, që ka përfituar nga ekzekutimi i kredisë prej debitorit.
