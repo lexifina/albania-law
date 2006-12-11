@@ -1,0 +1,1 @@
+1. Zyrat e gjendjes civile në njësitë e qeverisjes vendore kryejnë përditësimin e listave të zgjedhësve, brenda 10 ditëve nga hyrja në fuqi e këtij udhëzimi, sipas përcaktimeve të nenit 55 të ligjit nr.9087, datë 19.6.2003 “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar, bazuar në të dhënat e regjistrave themeltarë.

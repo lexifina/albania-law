@@ -1,0 +1,1 @@
+2. Brenda 24 orëve nga përfundimi i përditësimit, kryetarët e NJQV-ve i dërgojnë listat e zgjedhësve të përditësuara, një kopje e tyre në format elektronik, në Drejtorinë e Përgjithshme të Gjendjes Civile (DPGJC).

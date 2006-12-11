@@ -1,0 +1,5 @@
+UDHËZIM
+Nr.3071, datë 11.12.2006
+PËR PROCEDURAT DHE AFATET E HARTIMIT TË LISTAVE TË ZGJEDHËSVE “PËR ZGJEDHJET E ORGANEVE TË QEVERISJES VENDORE TË DATËS 20 JANAR 2007”
+Në zbatim të nenit 102, pika 4, dhe 153 të Kushtetutës së Republikës së Shqipërisë, të dekretit të Presidentit të Republikës nr.5131, datë 2.12.2006 “Për caktimin e datës së zgjedhjeve për organet e qeverisjes vendore”, nenit 55, 59, pika 2, 60, 60/1, dhe nenit 61 të ligjit 9087, datë 19.6.2003 ”Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar, vendimit nr.129, datë 8.12.2006 të Komisionit Qendror të Zgjedhjeve “Për caktimin e afateve për dërgimin, përditësimin, miratimin dhe shpalljen e listave përfundimtare, nga ana e Drejtorisë së Përgjithshme të Gjendjes Civile dhe kryetarët e njësive të qeverisjes vendore, për zgjedhjet në organet e qeverisjes vendore të datës 20 janar 2007” dhe vendimit nr.130, datë 8.12.2006 të Komisionit Qendror të Zgjedhjeve “Për caktimin e afatit të dërgimit të informacionit mbi numrin e qendrave të votimit, vendndodhjen e tyre dhe numrin e zgjedhësve në listën përfundimtare të zgjedhësve”,
+Udhëzoj:

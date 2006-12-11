@@ -1,0 +1,1 @@
+8. Në përputhje me ligjin nr.9087, datë 19.6.2003 “Kodi Zgjedhor i Republikës së Shqipërisë”, i ndryshuar, neni 61, me kërkesë të partive politike, kryetari i njësisë së qeverisjes vendore vë në dispozicion të tyre kopje të listës jo më vonë se tri ditë nga paraqitja e kërkesës prej tyre.

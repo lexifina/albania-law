@@ -1,0 +1,1 @@
+5. Kryetarët e NJQV-ve pas shpalljes së listës përfundimtare i dërgojnë këto lista në KZQV-në e njësisë së tyre të qeverisjes vendore dhe në DPGJC, sipas modeleve të përcaktuara në nenin 59 pika 2 të Kodit Zgjedhor.
