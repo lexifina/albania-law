@@ -1,0 +1,28 @@
+{
+  "qbz_id": 4910,
+  "title": "Për dhomat e tregtisë dhe industrisë",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "9640",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-11-09",
+  "published": "2006-12-06",
+  "in_force": "2006-12-21",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b170d71c7979e1b01e8481a0613614002a30f5b204eef6a2da213a398f0c0f3b.docx",
+  "source_sha256": "b170d71c7979e1b01e8481a0613614002a30f5b204eef6a2da213a398f0c0f3b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4910",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/11/09/9640",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    6514
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
