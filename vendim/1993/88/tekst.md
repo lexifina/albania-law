@@ -4,7 +4,7 @@ Nr.88, datë 1.3.1993
 
 PëR MIRATIMIN E ZONAVE Që KANë PëRPARëSI ZHVILLIMIN E TURIZMIT
 
-(Ndryshuar me VKM nr. 240, datë 21.4.2005; nr. 376, datë 31.5.2005)
+(Ndryshuar me VKM nr. 240, datë 21.4.2005; nr. 376, datë 31.5.2005; nr. 883, datë 27.12.2006)
 
 (i përditësuar)
 
@@ -32,7 +32,13 @@ A. Bregdeti Adriatik
 
 - Territoret e Divjakës, duke përfshirë lagunën e Karavastasë në rrethin e Lushnjës.
 
-- Territoret nga Pojani në Plazhin e Semanit në rrethin e Fierit.
+- Territoret nga Pojani në Plazhin e Semanit në rrethin e Fierit, përjashtuar parcelat:
+
+a) Parcela 1, 150 ha, bregu i detit Adriatik: në veri të kanalit të Hoxharës, me koordinata: X 14 726 —15 176 dhe Y 63049 — 63 716 dhe në jug të kanalit të Hoxharës, me koordinata: X 13 781 — 14581 dhe Y63 046 — 64 544.
+
+b) Parcela 2, 100 ha, bregu i detit Adriatik: në jug të kanalit të Povelcës, me koordinata: X 09480 — 10280 dhe Y 62 315 — 63 565.
+
+c) Parcela 3, 60 ha, 1 km në veri të lumit Vjosë, bregu i detit Adriatik, me koordinata: X 06 747-07 572 dhe Y 60 097 — 61 233.
 
 - Territoret nga Pishë Poro në Zvërnec ato kufizuese të Gjirit të Vlorës, përjashtuar zonën e Akernisë.
 
