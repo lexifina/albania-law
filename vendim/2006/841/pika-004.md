@@ -1,0 +1,1 @@
+4. Masa e pagesës për të gjithë personat e aktivizuar në këtë proces miratohet nga Ministri i Arsimit dhe Shkencës dhe përballohet nga buxheti i shtetit, miratuar për Ministrinë e Arsimit dhe Shkencës.

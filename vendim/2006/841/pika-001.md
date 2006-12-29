@@ -1,0 +1,1 @@
+1. Anëtarët, në përbërje të bordit të miratimit të teksteve shkollore, për periudhën e veprimtarisë së bordit, të paguhen me 30 për qind të pagës mujore të “Doktorit të Shkencave”, në universitetet dhe shkollat e larta, ndërsa kryetari i bordit me 30 për qind të pagës mujore, të “Profesorit”, në universitetet dhe shkollat e larta.

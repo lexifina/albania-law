@@ -1,0 +1,1 @@
+3. Specialistët a punonjësit, e thirrur pranë bordeve, komisioneve apo grupeve të punës, me kërkesë të bordit të miratimit të teksteve, për mbështetje teknike dhe veprime sekretarie, në periudhat e miratimit të teksteve, të paguhen, sipas normave, për punën e kryer jashtë kohës normale të punës.
