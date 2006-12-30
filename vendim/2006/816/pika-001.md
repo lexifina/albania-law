@@ -1,0 +1,1 @@
+1. Miratimin e çmimeve të trojeve, brenda vijës së verdhë të qytetit të Tiranës dhe rrethit të Kavajës, të përcaktuara në hartat përkatëse, brenda territoreve përkatëse, që shërbejnë për kompensimin në të holla të subjekteve të shpronësuara, me fondin e kompensimit, të caktuar për vitin 2006.

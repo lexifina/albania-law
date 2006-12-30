@@ -1,0 +1,1 @@
+2. Hartat, ku janë të përcaktuara dhe çmimet përkatëse, për qytetet e Tiranës, Kavajës, Rrogozhinës dhe për komunat Luz i Vogël, Lekaj, Golem, Sinaballaj, Helmës, Gosë, Kryevidh e Synej, të cilat i bashkëlidhen këtij vendimi, janë pjesë përbërëse e tij.
