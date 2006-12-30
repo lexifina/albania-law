@@ -1,0 +1,28 @@
+{
+  "qbz_id": 4974,
+  "title": "Për transferimin nё pronёsi, disa bashkive, tё pronave, që janё nё pёrgjegjёsi administrimi tё Drejtorisё sё Pёrgjithshme tё Shёrbimit Social Shtetёror, dhe pёr disa ndryshime nё vendimin nr.60, datё 1.2.2006 tё Kёshillit tё Ministrave “Pёr miratimin e listёs sё inventarit tё pronave tё paluajtshme shtetёrore, tё cilat i kalojnё nё pёrgjegjёsi administrimi Shёrbimit Social Shtetёror”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "850",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-12-15",
+  "published": "2006-12-30",
+  "in_force": "2006-12-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4214d24126bee9ebe9a8e301062b49e74f1c6ebd6c368d29585ec6b55d1f83a5.docx",
+  "source_sha256": "4214d24126bee9ebe9a8e301062b49e74f1c6ebd6c368d29585ec6b55d1f83a5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4974",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/12/15/850",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    11858
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
