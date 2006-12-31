@@ -1,0 +1,30 @@
+{
+  "qbz_id": 4988,
+  "title": "Për krijimin e shoqërisë “Operatori i sistemit të shpërndarjes” sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "862",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-12-20",
+  "published": "2006-12-31",
+  "in_force": "2006-12-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f2e5ff5a3a143c57dab85aa13324d9bfcdf3e5604253f70784cb5f977fb2af4b.docx",
+  "source_sha256": "f2e5ff5a3a143c57dab85aa13324d9bfcdf3e5604253f70784cb5f977fb2af4b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4988",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/12/20/862",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    16929,
+    16998,
+    6501
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
