@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5017,
+  "title": "Vendim Nr.98 Dt.22.12.2006",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "98",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2006-12-22",
+  "published": "2006-12-31",
+  "in_force": "2006-12-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/619b384e8761037192f5af65f08e69a46a4882e326d70bae8e4e4b148120bd1f.docx",
+  "source_sha256": "619b384e8761037192f5af65f08e69a46a4882e326d70bae8e4e4b148120bd1f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5017",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/12/22/98",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
