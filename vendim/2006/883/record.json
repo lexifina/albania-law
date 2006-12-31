@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5018,
+  "title": "Për një shtesë në vendimin nr.88, datë 1.3.1993 të Këshillit të Ministrave “Për miratimin e zonave, që kanë përparësi zhvillimin e turizmit”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "883",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2006-12-27",
+  "published": "2006-12-31",
+  "in_force": "2006-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/55cfd40871ee7f72b472744cd583ac054ac65140d39137931043379c6566591c.docx",
+  "source_sha256": "55cfd40871ee7f72b472744cd583ac054ac65140d39137931043379c6566591c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5018",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/12/27/883",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
