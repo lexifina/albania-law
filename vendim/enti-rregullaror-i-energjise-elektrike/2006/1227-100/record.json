@@ -1,0 +1,28 @@
+{
+  "qbz_id": 5012,
+  "title": "Për miratimin e rregullave dhe procedurave të shkëmbimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "100",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2006-12-27",
+  "published": "2006-12-31",
+  "in_force": "2006-12-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2dc58065feed5ac15f3fd0253e93a2f2607b8bd192b98fe8dfd0d8b8b24185de.docx",
+  "source_sha256": "2dc58065feed5ac15f3fd0253e93a2f2607b8bd192b98fe8dfd0d8b8b24185de",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5012",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/12/27/100",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    6120
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
