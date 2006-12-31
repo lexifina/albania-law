@@ -1,0 +1,1 @@
+2. Ky udhëzim orienton: personat fizikë e juridikë, ekspertët mjediorë të certifikuar, organet mjedisore, organet e qeverisjes vendore, publikun, si dhe çdo aktor tjetër të interesuar të zhvillojnë me efektshmëri marrëdhëniet midis tyre, në përputhje me dispozitat e ligjit nr.8990, datë 23.1.2003 “Për vlerësimin e ndikimit në mjedis”.

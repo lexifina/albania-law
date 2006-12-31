@@ -1,0 +1,1 @@
+4. Metodologjia kërkon që propozuesi të fillojë detyrimisht komunikimet zyrtare me organet mjedisore, me qeverisjen vendore e me publikun e interesuar, për identifikimin e ndikimeve të mundshme në mjedis të një projekti apo të një veprimtarie të caktuar, që në fazën e projektidesë.
