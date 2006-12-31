@@ -1,0 +1,1 @@
+2. Koeficienti i shfrytëzimit të ndërtesës në legalizim, me destinacion social-ekonomik, shërben për llogaritjen e vlerës shtesë të shitjes së truallit, kur objekti është me destinacion të përzier, për strehim dhe veprimtari social-ekonomike.
