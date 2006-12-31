@@ -1,0 +1,1 @@
+8. Paga për pozicionin “Sekretar i Këshillit Kombëtar të Kontabilitetit” të jetë 31 764 lekë në muaj. Shtesa për vjetërsi në punë, për punonjësin e punësuar në këtë pozicion, jepet në masën 2 për qind, pas çdo viti pune, deri në 25 vjet, dhe llogaritet mbi vlerën 10 050 lekë.
