@@ -1,0 +1,1 @@
+4. Nё rastet kur nё funksione drejtuese emёrohen nёpunёs tё shёrbimit tё jashtёm, me gradё mё tё lartё se minimumi i pёrcaktuar pёr funksionin pёrkatёs, sipas pikёs 2 tё kёtij vendimi, tё paguhen sipas gradёs diplomatike/konsullore, qё kanё.
