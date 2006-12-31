@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5011,
+  "title": "Për miratimin e rregullores për kriteret e dhënies dhe heqjes së statusit të klientit të kualifikuar",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "99",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2006-12-27",
+  "published": "2006-12-31",
+  "in_force": "2006-12-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/fe05110553b8caef509ff657bbab79acae334acb47594a06712e5030e2c36e64.docx",
+  "source_sha256": "fe05110553b8caef509ff657bbab79acae334acb47594a06712e5030e2c36e64",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5011",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2006/12/27/99",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
