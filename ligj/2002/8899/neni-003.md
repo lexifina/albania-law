@@ -1,4 +1,0 @@
-# Neni 3
-Forma e privatizimit
-1. Forma e privatizimit të INSIG sha-së është ajo e transferimit me anë të shitjes të së drejtës së pronësisë mbi aksionet ekzistuese të shoqërisë, nëpërmjet negociatave me institucionet financiare ndërkombëtare dhe përzgjedhjes së investitorëve strategjikë, nëpërmjet procedurave të tenderit të hapur ndërkombëtar, sipas formulës së parashikuar në nenin 4 të këtij ligji.
-2. Vlera e aksioneve, me të cilën do të fillojnë negociatat për shitjen e tyre institucioneve ndërkombëtare financiare, bëhet nga një vlerësues ndërkombëtar i njohur në këtë fushë, i cili do të zgjidhet, sipas procedurave të tenderit të hapur ndërkombëtar. Kjo vlerë miratohet nga Këshilli i Ministrave, i cili miraton edhe marrëveshjen për transferimin e të drejtës së pronësisë së aksioneve të shoqërisë anonime INSIG sha, me anë të negociatave me institucionet financiare ndërkombëtare.
