@@ -1,1 +1,0 @@
-13. Në rastet kur një procedurë prokurimi kthehet për rivlerësim nga Agjencia e Prokurimit Publik, enti prokurues është i detyruar që brenda 5 (pesë) ditëve nga marrja e këtij vendimi të paraqesë në Agjencinë e Prokurimit Publik, raportin përmbledhës të rivlerësimit.

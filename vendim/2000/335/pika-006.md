@@ -1,1 +1,0 @@
-6. Kushti i sigurimit të ofertave, në formë garancie bankare, sipas nenit 29 të ligjit, do të jetë 2-5 për qind e vlerës së përllogaritur të kontratës ( e llogaritur paraprakisht nga enti prokurues dhe e dhënë në vlerë absolute në të dhënat e ofertës), kurse kushti i sigurimit të kontratës do të jetë 10 për qind e vlerës së kontratës.

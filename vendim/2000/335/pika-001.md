@@ -1,1 +1,0 @@
-1. Enti prokurues të përdorë “Tenderin e hapur”, në përputhje me nenin 23, të ligjit nr.7971, datë 26.7.1995, “Për prokurimin publik”, kur vlera e përllogaritur e kontratës është mbi 5 (pesë) milionë lekë për prokurimin e ndërtimeve, mbi 3 (tre) milionë lekë për prokurimin e mallrave dhe mbi 1 (një) milion lekë për prokurimin e shërbimeve, me përjashtim të projektimeve.
