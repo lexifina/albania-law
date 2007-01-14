@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5056,
+  "title": "PËR DHËNIEN E PËLQIMIT PËR HYRJEN NË FUQI MENJËHERË TË LIGJIT",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "5190",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2007-01-13",
+  "published": "2007-01-14",
+  "in_force": "2007-01-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/bdbe7f40890eb53119f958ed05a0afa79b5af07dfcf66d865b2078bb8053a6f8.docx",
+  "source_sha256": "bdbe7f40890eb53119f958ed05a0afa79b5af07dfcf66d865b2078bb8053a6f8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5056",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2007/01/13/5190",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
