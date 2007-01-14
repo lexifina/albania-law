@@ -1,0 +1,3 @@
+# Dispozita kalimtare të parashikuara me ligjin nr. 9675, datë 13.1.2007
+1. Mandati katërvjeçar, i përcaktuar në nenin 1 të këtij ligji, zbatohet për herë të parë për këshillat dhe kryetarët e bashkive e të komunave që zgjidhen në zgjedhjet e para pas hyrjes në fuqi të këtij ligji.
+2. Njëri nga mandatet e dy anëtarëve të KQZ-së, të zgjedhur në bazë të nenit 2 të këtij ligji, mbaron më 31 mars 2010, kurse tjetri më 31 mars 2013. Kuvendi përcakton me short se cili nga mandatet përfundon më 31 mars 2010. Procedurat e shortit përcaktohen nga Këshilli për Rregulloren, Mandatet dhe Imunitetin të Kuvendit të Shqipërisë.
