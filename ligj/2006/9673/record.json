@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5002,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr.8551, datë 18.11.1999 “Për Avokaturën e Shtetit”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9673",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-12-29",
+  "published": "2006-12-31",
+  "in_force": "2007-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/fca56ce557a33037196d843fceee8194d9f23226671fe3deb6b6a90a475308c8.docx",
+  "source_sha256": "fca56ce557a33037196d843fceee8194d9f23226671fe3deb6b6a90a475308c8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5002",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/12/29/9673",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
