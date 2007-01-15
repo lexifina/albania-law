@@ -1,2 +1,0 @@
-# Neni 4
-Akademia është institucion buxhetor. Mjetet financiare për veprimtarinë e saj sigurohen nga Buxheti i Shtetit në zë të veçantë, në bazë të programit të problemeve kryesore, shkencore, të paraqitura prej saj. Ato mund të plotësohen edhe nga shërbime tekniko-shkencore që ajo kryen nëpërmjet instituteve të veta për persona juridikë e fizikë, jashtë sistemit të saj, si dhe nga aplikime, projekte, dhurata, subvencione e sponsorizime, të cilat përdoren në përputhje me ligjet në fuqi.
