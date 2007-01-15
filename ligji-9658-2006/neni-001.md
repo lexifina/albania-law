@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet “Marrëveshja shumëpalëshe ndërmjet Komunitetit Europian dhe shteteve anëtare të tij, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Maqedonisë, Republikës së Islandës, Republikës së Malit të Zi, Mbretërisë së Norvegjisë, Rumanisë, Republikës së Serbisë dhe Misionit Administrativ të Përkohshëm të Kombeve të Bashkuara në Kosovë, për krijimin e një zone të përbashkët të aviacionit europian”.
