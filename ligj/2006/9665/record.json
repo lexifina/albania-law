@@ -1,0 +1,29 @@
+{
+  "qbz_id": 61900,
+  "title": "Për huamarrjen shtetërore, borxhin shtetëror dhe garancitë shtetërore të huasë në Republikën e Shqipërisë",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9665",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2006-12-18",
+  "published": "2006-12-31",
+  "in_force": "2007-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/aa363d984d48f019ddcb9721433b306aa42ef45d1a906f2b31af0261a7bf4541.docx",
+  "source_sha256": "aa363d984d48f019ddcb9721433b306aa42ef45d1a906f2b31af0261a7bf4541",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61900",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2006/12/18/9665",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    25424,
+    11586
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
