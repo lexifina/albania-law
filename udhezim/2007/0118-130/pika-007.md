@@ -1,0 +1,1 @@
+7. Zyra e gjendjes civile jo, më vonë se data 6 shkurt 2007, i kërkon kryetarit të bashkisë, komunës, njësisë bashkiake për Bashkinë e Tiranës të bëjë ndryshimet në listën paraprake për rastet e përcaktuara në pikën 4, germat “a”, “ç”, “ë”, “f”.

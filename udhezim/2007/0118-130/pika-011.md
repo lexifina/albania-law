@@ -1,0 +1,1 @@
+11. Kryetari i bashkisë, komunës, njësisë bashkiake për Bashkinë e Tiranës vendos për kërkesën e bërë nga zgjedhësi brenda 24 orëve nga depozitimi i saj. Kërkesat e miratuara reflektohen menjëherë në listën përfundimtare.

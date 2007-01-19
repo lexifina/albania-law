@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme e Gjendjes Civile, jo më vonë se data 6 shkurt 2007, u kërkon kryetarëve të bashkive, komunave, njësive bashkiake për bashkinë e Tiranës, në regjistrin themeltar me vendbanim ku zgjedhësi ka regjistrime të mëparshme, ta heqë atë nga lista e zgjedhësve, për shkak të ndodhjes së tij në më shumë se një listë zgjedhësish.

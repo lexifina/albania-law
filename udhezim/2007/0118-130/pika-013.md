@@ -1,0 +1,1 @@
+13. Kopje të vendimeve të marra i dërgohen periodikisht Drejtorisë së Përgjithshme të Gjendjes Civile, si dhe në përfundim të periudhës së rishikimit dhe një kopje ruhet në zyrën e protokollit për efekt arkivimi, së bashku me dokumentacionin përkatës.

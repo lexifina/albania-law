@@ -1,0 +1,1 @@
+2. Kryetarët e bashkisë, komunës, njësisë bashkiake për Bashkinë Tiranë, pasi kanë bërë miratimin dhe shpalljen e listës paraprake, jo më vonë se data 22 janar 2007, fillojnë procedurat e rishikimit dhe të ndryshimit në listat paraprake.

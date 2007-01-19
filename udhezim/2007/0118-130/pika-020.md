@@ -1,0 +1,1 @@
+20. Kryetari i bashkisë, komunës, njësisë bashkiake për Bashkinë e Tiranës vë në dispozicion të subjekteve zgjedhore kopje të listës paraprake dhe përfundimtare brenda 3 ditëve nga paraqitja e kërkesës.

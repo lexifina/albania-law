@@ -1,0 +1,1 @@
+8. Kërkesa dorëzohet në zyrën e protokollit të bashkisë, komunës, njësisë bashkiake për Bashkinë e Tiranës. Kryetari i bashkisë, komunës, njësisë bashkiake për Bashkinë e Tiranës merr masa për shpalljen në vende publike të vendit të depozitimit të kërkesave.

@@ -1,0 +1,1 @@
+15. Kryetari i bashkisë, komunës, njësisë bashkiake për Bashkinë e Tiranës, është i detyruar të zbatojë vendimin e gjykatës dhe ta reflektojë atë në listën përfundimtare, brenda 24 orëve nga marrja e vendimit, por jo më vonë se data 7.2.2007, si në rastet kur paraqitet si palë në gjykim, ashtu edhe në rastet kur ai nuk paraqitet në gjykim.

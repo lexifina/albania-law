@@ -1,0 +1,1 @@
+14. Kundër vendimit të kryetarit të bashkisë, komunës, njësisë bashkiake për Bashkinë e Tiranës, ose për mosmarrjen e vendimit brenda afatit, mund të bëhet ankim nga kërkuesi në gjykatën e rrethit gjyqësor, ku ndodhet njësia e qeverisjes vendore, jo më vonë se 48 orë nga marrja dijeni me shkrim për vendimin nga grupi i njoftimit, ose nga kalimi i afatit për marrjen e vendimit.

@@ -1,0 +1,1 @@
+10. Kërkesat e depozituara i vihen menjëherë në dispozicion kryetarit, i cili, me përjashtim të rasteve kur kërkesa është bërë nga ZGJC dhe DPGJC, i kërkon menjëherë ZGJC-së, të verifikojë pretendimin e subjektit kërkues. ZGJC bën shënimet përkatëse për vërtetësinë e informacionit, brenda ditës së bërjes së kërkesës.
