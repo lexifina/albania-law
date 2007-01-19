@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5064,
+  "title": "PËR NJË SHTESË NË VENDIMIN NR.67, DATË 22.1.2004 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E UNIFORMËS DHE TË SHENJAVE DALLUESE TË GARDËS SË REPUBLIKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "9",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-01-10",
+  "published": "2007-01-19",
+  "in_force": "2007-01-19",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/eb336d993a7a23dcb75d18e630e7db9648116932afe6dea83101fc9d23c4a8d1.docx",
+  "source_sha256": "eb336d993a7a23dcb75d18e630e7db9648116932afe6dea83101fc9d23c4a8d1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5064",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/01/10/9",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
