@@ -1,0 +1,1 @@
+1. Sipërfaqja e truallit në kthesën e Kamzës, Tiranë, prej 85 000 m2 në parcelën nr.68, në zonën kadastrale 2679, në fshatin Mëzes, e regjistruar në volum 4, faqe 161, me pronar shtet, të kalojë në përgjegjësi administrimi të Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit.
