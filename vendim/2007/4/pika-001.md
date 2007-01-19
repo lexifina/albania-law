@@ -1,0 +1,1 @@
+1. Miratimin e amendamentit nr.1 të marrëveshjes së lidhur më 26.7.1993, ndërmjet Ministrisë së Industrisë, Burimeve Minerare dhe Energjetikës (sot Ministria e Ekonomisë, Tregtisë dhe Energjetikës) dhe Alpetrol-it, bashkësisë ekonomike të naftës dhe gazit (sot “Albpetrol”, sh.a.), sipas tekstit, që i bashkëlidhet këtij vendimi.
