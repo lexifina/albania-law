@@ -6,8 +6,12 @@ I. Naftë, gaz dhe produkte nafte
 SSH 51:1988
 Naftë bruto
 2
-SSH 97:1997
-Gaz i lëngshëm nga nafta
+SSH EN 589: 2004/AC
+-Niveli i avujve të presuar, min.150 kPa, në temperaturën sipas grupeve A, B,C, D.
+-Përmbajtja e përgjithshme e dieneve (duke përfshirë 1.3 butadiene)
+-Sulfuri i hidrogjenit (H2S)
+-Mbetja pas avullimit
+Lëndë djegëse për automjete, për përdorim shtëpiak dhe industrial - G.L.N.(Mishelë) - Kërkesat dhe metodat e provës.
 3
 SSH 24:1986
 Bitum i pastruar (Selenice)
@@ -67,6 +71,16 @@ STASH-EN 228-2000
 Benzinë pa plumb
 22
 Vajgur avionesh
+23/1
+SSH ISO 9162: 1989
+-Për propanin:
+-C4 ,%(molar), max
+-Për butanin:
+-Hydrokarburet C5, % (molar), max.
+-Për propanin dhe butanin:
+-Dienet, % (molar), max.
+-Sulfuri i hidrogjenit (H2S).
+Produkte nafte - Lëndë djegëse (klasa F) - gaze të lëngët nga nafta propan dhe butan - Specifikimet.
 II. Industria nxjerrëse dhe përpunuese e mineraleve
 a) Shfuqizuar
 b) Shfuqizuar
