@@ -1,0 +1,1 @@
+4. Kompensimin shtesë për të ardhurat mujore, të përcaktuar në shkronjat “a”, “b”, “c” e “ç” të pikës 3 të këtij vendimi, e marrin edhe pensionistët që datën e fillimit të pensionit e kanë nga data 1.1.2007 e në vazhdim, përfshirë dhe këtë datë.
