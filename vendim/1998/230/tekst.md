@@ -6,7 +6,7 @@ PËR PRIVATIZIMIN E PJESËVE TË KAPITALIT TË ZOTËRUARA
 
 NGA SHTETI NË SHOQËRITË ME KAPITAL TË PËRBASHKËT
 
-(Ndryshuar me vendimin nr. 777, datë 11.10.2006)
+(Ndryshuar me vendimin nr. 777, datë 11.10.2006;  nr. 43, datë 31.1.2007)
 
 (I përditësuar)
 
@@ -56,7 +56,7 @@ Shitja e pjesëve të kapitalit, të zotëruar nga shteti, bëhet me lekë.
 
 8. Agjencia Kombëtare e Privatizimit, deri në 15 ditë nga marrja në dorëzim e dokumentacionit, bën publikimin për shitje të kuotës shtetërore.
 
-Publikimi për shitjen e kuotave të kapitalit shtetëror në organet e shtypit bëhet jo më pak se tri herë në tri gazeta të ndryshme me qarkullim kombëtar.
+Periudha e publikimit zgjat 21 ditë nga data e publikimit  të parë dhe bëhet në çdo botim të Buletinit të Njoftimeve Publike, brenda këtij afati. Data e parë e publikimit është data e përcaktuar në njoftimin që Ministria e Financave (Drejtoria e Administrimit dhe Shitjes së Pronave Publike), dërgon për publikim. Krahas këtij, publikimi bëhet edhe nëpërmjet internetit (faqja e Ministrisë së Financave).
 
 9. Publikimi përmban:
 
