@@ -1,0 +1,2 @@
+8. Kryeregjistruesi merr masa që, brenda 45 ditëve nga hyrja në fuqi e këtij vendimi, të sigurojë regjistrin elektronik të kërkesave për zyrat e parashikuara në pikën 4 të këtij vendimi dhe të realizojë shpalljen e tyre të drejtpërdrejtë në mjediset e caktuara në këto zyra, me akses të lirë për publikun.
+Kryeregjistruesi nxjerr urdhra dhe udhëzime të hollësishme për trajtimin e procesit të përpunimit të dokumentacionit, format dhe procedurën e hollësishme për zbatimin e këtij vendimi.
