@@ -1,0 +1,1 @@
+5. Zyrat përkatëse të punësimit, nëpërmjet Shërbimit Kombëtar të Punësimit, hartojnë listat e institucioneve/ndërmarrjeve, publike dhe private, pasi të kenë ndërmjetësuar me këto të fundit për numrin e punëkërkuesve, që do të pranojnë, dhe i bëjnë publike ato. Një kopje e listave u dërgohet rektorateve përkatëse, për t’i shpallur ato në mjediset e fakulteteve.

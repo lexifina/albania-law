@@ -1,0 +1,1 @@
+3. Zyrat përkatëse të punësimit hartojnë listën e punëkërkuesve të papunë, të cilët plotësojnë kushtet për pjesëmarrje në programin e praktikave profesionale dhe i regjistrojnë ato, sipas kodeve të profesioneve dhe datës së regjistrimit në këto zyra.

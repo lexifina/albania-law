@@ -1,0 +1,2 @@
+9. Gjatë periudhës së praktikës profesionale, punëkërkuesit marrin një mbështetje financiare për çdo muaj praktikë profesionale, deri në 6 muaj, në varësi të periudhës së praktikës profesionale të kryer, nga zyra përkatëse e punësimit, si dhe kontributin për sigurimin nga aksidentet në punë, në masën 0.5 për qind të pagës minimale. Vlera e këtij kontributi derdhet në degën e sigurimeve shoqërore.
+Masa e mbështetjes financiare është 100 për qind e nivelit bazë të pagesës së papunësisë.

@@ -1,0 +1,2 @@
+2. Rektoratet, brenda dy muajve nga hyrja në fuqi e këtij vendimi, të dërgojnë në zyrat përkatëse të punësimit listat e të diplomuarve në 24 muajt e fundit. Gjithashtu, në çdo fund viti akademik, rektoratet janë të detyruara t’i përditësojnë listat e të diplomuarve.
+Zyrat përkatëse të punësimit krijojnë listat për personat e diplomuar jashtë vendit, bazuar në njohjen e diplomës nga Ministria e Arsimit dhe Shkencës.
