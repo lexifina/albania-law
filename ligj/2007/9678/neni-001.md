@@ -1,0 +1,4 @@
+# Neni 1
+1. Amnistohen personat e dënuar me burgim deri në 2 vjet, personat e dënuar sipas kreut VII “PJESA E PËRGJITHSHME” të Kodit Penal (alternativat e dënimit me burgim), personat e dënuar me gjobë, si dhe personat e dënuar me burgim ose dënime më të lehta, të cilëve, në datën 31 dhjetor 2006, u kanë mbetur, pa vuajtur nga ky dënim, deri në 2 vjet, me përjashtim të parashikimeve të nenit 3 të këtij ligji.
+2. Amnistohen të dënuarat femra, që në datën 31 dhjetor 2006 kanë qenë baraz ose mbi moshën 55 vjeç dhe meshkujt, që kanë qenë baraz ose mbi moshën 60 vjeç, me përjashtim të parashikimeve të nenit 3 të këtij ligji.
+3. U zbritet 1/4 (përsëritësve të së njëjtës vepër penale u zbriten 1/8) e dënimit të mbetur të gjithë të dënuarve, të cilët nuk përfitojnë nga pikat 1 dhe 2 të këtij neni, me përjashtim të parashikimeve të nenit 3 të këtij ligji.
