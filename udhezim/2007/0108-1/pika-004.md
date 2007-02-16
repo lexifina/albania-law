@@ -1,0 +1,1 @@
+4. Dokumentacioni i paraqitur kontrollohet nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës për rregullsinë e tij. Kur dokumentacioni gjendet me mangësi, i kërkohet drejtorisë së shoqërisë që të plotësohet konform kërkesave të vendimit nr.119, datë 18.3.2000 të Këshillit të Ministrave, të ndryshuar.

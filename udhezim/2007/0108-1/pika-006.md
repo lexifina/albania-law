@@ -1,0 +1,1 @@
+6. Brenda 5 ditëve nga dalja e këtij urdhri, Ministria e Ekonomisë, Tregtisë dhe Energjetikës dërgon dokumentacionin e privatizimit të shoqërisë në Drejtorinë e Administrimit dhe Shitjes së Pronave Publike pranë Ministrisë së Financave.
