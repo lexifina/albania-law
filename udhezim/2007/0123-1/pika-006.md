@@ -1,0 +1,1 @@
+6. Në zbatim të pikës 3/d kapitulli i IV-t, data e deklaratës noteriale origjinale, që blerësi nuk ka proces gjyqësor për objektin dhe truallin përkatës që kërkon të blejë, duhet të jetë jo më pak se një ditë nga dita e paraqitjes së kërkesës për blerjen e truallit.
