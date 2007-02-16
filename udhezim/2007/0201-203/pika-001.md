@@ -1,0 +1,1 @@
+1. Shërbimi Kombëtar i Punësimit, brenda datës 1 prill 2007, të mbledhë nga rektoratet listat e të diplomuarve në 24 muajt e fundit, të cilat, në zbatim të vendimit të Këshillit të Ministrave, janë të detyruara t’i paraqesin ato në zyrat përkatëse të punësimit.

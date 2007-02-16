@@ -1,0 +1,1 @@
+10. Pas miratimit nga komisioni përkatës, lidhet marrëveshja ndërmjet zyrës përkatëse të punësimit, punëdhënësit dhe punëkërkuesit të papunë. Këto marrëveshje janë të vlefshme vetëm për vitin kalendarik. Për vitin pasardhës lidhet marrëveshje e re. E njëjta praktikë si më sipër ndiqet dhe për punëdhënësit publikë, pavarësisht se nuk ka detyrime financiare.

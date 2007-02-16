@@ -1,0 +1,1 @@
+14. Zyra përkatëse e punësimit bën derdhjen e kontributit për sigurimin nga aksidentet në punë, në masën 0.5 për qind të pagës minimale për çdo punëkërkues të papunë të përfshirë në program. Vlera e këtij kontributi derdhet në degën e sigurimeve shoqërore, sipas legjislacionit përkatës.

@@ -1,0 +1,1 @@
+3. Në bazë të listave të rektorateve, zyrat përkatëse të punësimit krijojnë listat e punëkërkuesve të papunë, të diplomuar në 24 muajt e fundit, në bazë të vendbanimit të tyre dhe i regjistrojnë ata sipas kodeve të profesioneve. Regjistrimi bëhet vetëm në një zyrë dhe kjo mund të jetë çdo zyrë rajonale apo vendore punësimi ku ka vendbanimin punëkërkuesi.

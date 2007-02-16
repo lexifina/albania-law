@@ -1,0 +1,1 @@
+13. Zyra përkatëse e punësimit kryen pagesat e punëkërkuesve të përfshirë në këtë program çdo muaj, në masën 100% të nivelit bazë të pagesës së papunësisë, pasi punëkërkuesi të paraqesë në këtë zyrë vërtetimin nga punëdhënësi për ditët e ndjekjes së praktikës profesionale për muajin paraardhës. Kohëzgjatja javore e praktikës profesionale është 40 orë në javë.

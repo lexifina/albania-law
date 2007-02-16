@@ -1,0 +1,1 @@
+18. Procedurat për përdorimin e fondeve të nxitjes së punësimit dhe hollësi të tjera përcaktohen në udhëzimin e përbashkët të Ministrit të Punës dhe Çështjeve Sociale dhe Ministrit të Financave nr.1, datë 5.2.2001 “Për kriteret dhe procedurat e subvencionimit për të nxitur punësimin”.

@@ -1,0 +1,1 @@
+8. Zyra e punësimit ndërmjetëson, në çdo rast, me punëdhënësit për pranimin e punëkërkuesve të papunë, sipas listave që disponon. Punëkërkuesi i papunë mund të zgjedhë vetë punëdhënësin dhe i kërkon zyrës së punësimit të ndërmjetësojë për pranimin e tij.
