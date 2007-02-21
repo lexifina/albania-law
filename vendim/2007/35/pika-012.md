@@ -1,0 +1,1 @@
+12. Kur subjektet private kërkojnë blerjen e pjesëve të ndryshme të sipërfaqes së truallit, subjekti shtetëror, që organizon ankandin, kërkon krijimin e bashkimit të subjekteve të interesuara dhe vazhdon negociatat me përfaqësinë e këtij bashkimi.

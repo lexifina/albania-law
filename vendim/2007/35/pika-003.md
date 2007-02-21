@@ -1,0 +1,1 @@
+3. Programi i pajisjes së truallit me infrastrukturë zbatohet nga ministria, që mbulon fushën e strehimit, në bashkëpunim me bashkinё ku ndodhet trualli, në rastin kur trualli, pronë e shtetit, nuk ёshtё transferuar nё pronёsi tё saj.

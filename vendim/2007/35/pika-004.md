@@ -1,0 +1,1 @@
+4. Subjekti shtetëror, që zbaton programin, i kërkon zyrës së regjistrimit të pasurive të paluajtshme vërtetimin e pronësisë, dokumentacionin përkatës, si dhe çmimin për m2 të trojeve të shitura në tre muajt e fundit. Informacioni i kërkuar i dërgohet subjektit shtetëror kërkues, brenda 15 ditëve.

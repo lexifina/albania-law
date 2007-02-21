@@ -1,0 +1,1 @@
+16. Pronësia e truallit kalon nga subjekti shtetëror te subjekti privat vetëm pasi, në zyrën e regjistrimit të pasurive të paluajtshme, të jetë bërë regjistrimi i apartamenteve, që i takojnë subjektit shtetëror, në emër të tij.

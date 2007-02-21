@@ -1,0 +1,1 @@
+8. Kur subjekti, që zbaton programin, ka blerë truall nga një subjekt privat, çmimi i shitjes së truallit nuk duhet të jetë më i ulët se çmimi, me të cilin është blerë, plus investimin e kryer për prishje, nëse ka, pёr infrastrukturën dhe vlerën e shtuar, për shkak të urbanizimit.

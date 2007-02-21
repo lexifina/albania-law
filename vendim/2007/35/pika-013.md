@@ -1,0 +1,1 @@
+13. Subjekti apo bashkimi i subjekteve, që fiton ankandin paraqet kërkesën për shesh ndërtimi, por nënshkruan një kontratë shitblerjeje me subjektin shtetëror, ku përcaktohen të drejtat dhe detyrimet e të dyja palëve, si dhe mënyra e pagesës së truallit, të pajisur me infrastrukturë.
