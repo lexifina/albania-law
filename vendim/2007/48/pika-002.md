@@ -1,0 +1,1 @@
+2. Uniformat e punonjësve të policisë pyjore dhe menaxhimit të shërbimit pyjor kanë shenja dalluese nga njëra-tjetra. Uniformat, elementet përbërëse, simbolet, ngjyra, afatet e përdorimit dhe paraqitja grafike e tyre përcaktohen në shtojcat 1, 2 e 3 të lidhjes 1, që i bashkëlidhet këtij vendimi.

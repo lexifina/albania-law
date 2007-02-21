@@ -1,0 +1,1 @@
+6. Punonjësit e Policisë Pyjore pajisen me armë, sipas ligjit nr.7566, datë 25.5.1992 “Për armët”. Tipi i armës dhe mjetet e tjera në përdorim përcaktohen me udhëzim të përbashkët të Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministrit të Brendshëm.

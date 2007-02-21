@@ -1,0 +1,1 @@
+5. Specifikimet teknike, që duhet të plotësojë lënda e parë, për prodhimin e çdo artikulli të veçantë të uniformave, si dhe rregullat e sjelljes me uniformën përcaktohen në rregulloren e miratuar nga Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave.
