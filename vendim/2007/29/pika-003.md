@@ -1,0 +1,1 @@
+3. Shoqëria anonime “ARMO” ruan të gjitha të drejtat mbi asetet, që i përgjigjen veprimtarisë së pikave të tregtimit me pakicë të karburanteve, deri në çastin e privatizimit të tyre. Të drejtat dhe detyrimet, më 31.12.2006, mbeten për llogari të shoqërisë “ARMO” sh.a.

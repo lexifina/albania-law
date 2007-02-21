@@ -1,0 +1,1 @@
+1. Autorizimin e shoqërisë anonime “ARMO” të bëjë ndarjen e aseteve fikse dhe të llogarive financiare, që lidhen me veprimtarinë e pikave të tregtimit me pakicë të karburanteve, mbi bilancin e datës 31.12.2003.
