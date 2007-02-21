@@ -1,0 +1,1 @@
+1. Shpalljen e gjireve të Raguzës, 1 e 2, porte për strehimin e mjeteve detare të sekuestruara, të mjeteve detare, në rrezik për ngjarje të jashtëzakonshme, dhe të mjeteve detare jashtë përdorimit (port rifuxho).
