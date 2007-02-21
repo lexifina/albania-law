@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5110,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.704, DATË 11.10.2006 TË KËSHILLIT TË MINISTRAVE “PËR KRITERET E VLERËSIMIT TË PRONËS SHTETËRORE, QË PRIVATIZOHET, SI DHE PËR PROCEDURËN E SHITJES”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "41",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-01-31",
+  "published": "2007-02-21",
+  "in_force": "2007-02-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/80a22df5d08949b4008d23d6a1c5c91b071ca85b06c168b58f68560c8384a04f.docx",
+  "source_sha256": "80a22df5d08949b4008d23d6a1c5c91b071ca85b06c168b58f68560c8384a04f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5110",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/01/31/41",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
