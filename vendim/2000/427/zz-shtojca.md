@@ -8,10 +8,10 @@ Neni 1
 Agjensia ka personalitet juridik dhe veprën për përmbushjen e objektivave të saj në përputhje me kërkesat e legjislacionit shqiptar, që nga momenti i regjistrimit në Gjykatën e Rrethit Gjyqësor Tiranë.
 Neni 2
 Agjensia e ka selinë administrative në Tiranë, Shqipëri në adresën Rruga “Mustafa Matohiti” Nr. 12 Tiranë, Shqipëri.
-Selia e Agjensisë mund të ndryshohet me vendim të Bordit të Drejtorëve, si organi ekzekutiv.
-Për nevoja të realizimit të objektivave të aktivitetit të saj, Agjensia do të ketë zyra përfaqësimi kudo në zonat malore të Republikës së Shqipërisë, siç është përcaktuar në Planin 1, bashkëngjitur kësaj kontrate. Ky Plan mund të ndryshohet me vendim të Bordit te Drejtorëve.
+Selia e Agjensisë mund të ndryshohet me vendim të Bordit Ekzekutiv, si organi ekzekutiv.
+Për nevoja të realizimit të objektivave të aktivitetit të saj, Agjensia do të ketë zyra përfaqësimi kudo në zonat malore të Republikës së Shqipërisë, siç është përcaktuar në Planin 1, bashkëngjitur kësaj kontrate. Ky Plan mund të ndryshohet me vendim të Bordit Ekzekutiv.
 Neni 3
-Në mbledhjen e tij të parë, Bordi i Drejtorëve do të përcaktojë zonat me përparësi ku do të ndërhyjë me aktivitetin e saj Agjensia, duke përcaktuar dhe rrethet se ku do të hapen zyrat e përfaqësimit, gjithnjë parë kjo me marrëveshjen e realizuar me Donatorët.
+Në mbledhjen e tij të parë, Bordi Ekzekutiv, do të përcaktojë zonat me përparësi ku do të ndërhyjë me aktivitetin e saj Agjensia, duke përcaktuar dhe rrethet se ku do të hapen zyrat e përfaqësimit, gjithnjë parë kjo me marrëveshjen e realizuar me Donatorët.
 Neni 4
 Agjensia është një agjensi jo fitimprurëse. Objektivi i përgjithshëm i saj është nxitja dhe realizimi i zhvillimit ekonomik të zonave malore të varfëra të Shqipërisë (Zonat Malore), e aftë për përpunimin e një programi zhvillimi burimesh të përdorura me efikasitet për zonat malore të Shqipërisë, duke siguruar mbështetje efikase teknike, financiare dhe drejtuese për realizimin e saj.
 Neni 5
@@ -32,23 +32,41 @@ KAPITULLI III
 STRUKTURA ORGANIZATIVE E AGJENSISË
 Neni 9
 Organet drejtuese të Agjensisë janë:
-(a) Bordi i Drejtorëve,
+(a) Bordi Ekzekutiv,
 (b) Komiteti Ekzekutiv.
 Neni 10
-Bordi i Drejtorëve është i përbërë nga anëtarët e përmendur më poshtë:
-Zëvendëskryeministri
-Ministri i Bujqësisë dhe Ushqimit
-Ministri i Bashkëpunimit Ekonomik dhe Tregtisë
-Ministri i Pushtetit Lokal
-Ministri i Financave
-Ministri i Shtetit pranë Kryeministrit
-kryetar
-anëtar
-anëtar
-anëtar
-anëtar
-anëtar
-Koordinatorët Projektit të Zhvillimit Rural të Rretheve Verilindore dhe të Projektit të Rehabilitimit të Sistemeve të Vogla të Ujitjes, si dhe persona të tjerë të lidhur me projektin duhet të ndjekin mbledhjet e Bordit si vëzhgues, pasi të ftohen nga bordi.
+Bordi drejtues përbëhet nga 11 anëtarë, si më poshtë vijon:
+- ministri përgjegjës për ekonominë kryetar
+- një drejtor i përgjithshëm, në ministrinë përgjegjëse
+për bujqësinë anëtar
+- një drejtor i përgjithshëm në ministrinë përgjegjëse
+për çështje të pushtetit vendor anëtar
+- një drejtor i përgjithshëm në Ministrinë e Financave anëtar
+- një drejtor i përgjithshëm në ministrinë përgjegjëse
+për çështje të mjedisit anëtar
+- një përfaqësues i shoqatës së bankierëve anëtar
+- një përfaqësues i dhomave të tregtisë anëtar
+- një përfaqësues i shoqatave kryesore të
+prodhuesve/tregtuese anëtar
+- një përfaqësues i zgjedhur nga Forumi i Zonave
+Malore anëtar
+- një përfaqësues i shoqatës së komunave anëtar
+- një përfaqësues i shoqatës së këshillave të qarqeve anëtar.
+Drejtori i Fondit të Financimit të Zonave Malore ka detyrimin të ndjekë, me cilësinë e vëzhguesit, mbledhjet e Bordit Ekzekutiv.
+Procedura e plotësimi të vendeve të jetë, si më poshtë vijon:
+Procedura për zgjedhjen e përfaqësuesve të nivelit drejtor drejtorie në ministritë përkatëse:
+- Me kërkesë me shkrim të kryetarit të bordit drejtues, ministrat përgjegjës caktojnë drejtorët, përfaqësues të ministrive përkatëse në bord. Drejtorët e përgjithshëm caktohen nga strukturat, që kanë lidhje bashkëpunimi me veprimtarinë e kësaj Agjencie. Drejtorët i raportojnë, me shkrim, ministrit përgjegjës, për çështje të pjesëmarrjes, qëndrimit dhe vendimit të tyre në bord. Drejtori i Përgjithshëm, për çështje të rëndësishme, këshillohet, paraprakisht, me ministrin përgjegjës. Ai është përfaqësues i institucionit. Ministri përgjegjës ka të drejtë të lirojë anëtarin nga detyra e përfaqësuesit në bord dhe ta zëvendësojë atë në çdo kohë.
+Procedura për zgjedhjen e përfaqësuesve të Forumit të Zonave Malore:
+- Me kërkesë me shkrim të kryetarit të Bordit Ekzekutiv, Forumet e Zonave Malore, me rotacion 1 herë në 6 muaj, caktojnë drejtpërdrejt përfaqësuesit e tyre. Kandidaturat preferohen të jenë juristë, ekonomistë, inxhinierë apo agronomë/veterinerë.
+Procedura për zgjedhjen e përfaqësuesve të qeverisjes vendore (mandati 2 vjet):
+Ministri përgjegjës edhe për çështjet e pushtetit vendor përgatit listën emërore të kryetarëve të komunave dhe të qarqeve të zonave malore, sipas strategjisë së MADA-s, dhe i kërkon shoqatave përkatëse të komunave dhe qarqeve paraqitjen e 3 kandidaturave për vendet vakant, për një (1) përfaqësues të shoqatave të komunave dhe një (1) përfaqësues të shoqatave të qarqeve nga këto lista. Këto shoqata, me votim vetëm të anëtarëve përfaqësues të zonave malore, zgjedhin ndërmjet tyre 3 kandidatura përfaqësuese, për vendin vakant në bordin drejtues dhe ia përcjellin ministrit për çështje të pushtetit vendor, brenda 15 ditëve, së bashku me kurrikulumin e tyre.
+Ministri përgjegjës për çështjet e pushtetit vendor cakton njërin prej tyre, për vendin e anëtarit, kandidaturat preferohen të jenë juristë, ekonomistë, inxhinierë apo agronomë/veterinerë. Ministri duhet të përcaktojë si përfaqësues, drejtuesit e komunave dhe të qarqeve, me mundësi të larta zhvillimi. Kur, brenda 15 ditëve nuk paraqitet asnjë propozim, ministri përgjegjës njofton kryetarin e bordit drejtues të organizojë zgjedhjen e përfaqësuesve, nëpërmjet shortit, sipas listës emërore të kryetarëve të komunave dhe të qarqeve të zonave malore, të përgatitur nga ministri përkatës i pushtetit vendor.
+Me “zona malore” kuptohet rrethi i programit, i përcaktuar në nenin 1 të ligjit për marrëveshjen e huasë.
+Procedura për zgjedhjen e kandidaturave, përfaqësues të sektorit privat:
+- Ministri i Financave u kërkon, me shkrim, të gjitha dhomave të tregtisë në zonat malore dhe shoqatave të prodhuesve me shtrirje në këto zona, zgjedhjen e 3 kandidaturave, si përfaqësues të tyre për vendet përkatëse për anëtar në bordin drejtues, të cilat ia përcjellin Ministrit brenda 10 ditëve, së bashku me kurrikulumin e tyre.
+Ministri cakton njërin prej tyre, pasi ka verifikuar më parë pranë zyrave të tatim-taksave, nëse shoqatat kanë anëtarë debitorë ndaj shtetit. Kandidaturat, që i përcillen Ministrit, preferohen të jenë vetëm ekonomistë apo juristë. Mandati është 2 vjet. Shoqatat përkatëse kanë të drejtë që, në çdo kohë, t’i propozojnë ministrit përgjegjës lirimin nga funksioni të anëtarit. Ministri vlerëson propozimin dhe, kur e gjen të motivuar atë, kryen lirimin nga funksioni para afatit.
+- Ministri i Financave i kërkon me shkrim shoqatës së bankierëve përcaktimin e 3 kandidaturave për vendin e anëtarit, përfaqësues të kësaj shoqate në bord. Shoqata e bankierëve, brenda 10 ditësh, dërgon propozimin me emrat e 3 kandidaturave, së bashku me kurrikulumin e tyre.
+Kandidaturat, që i përcillen ministrit, preferohen të jenë vetëm ekonomistë apo juristë. Ministri i Financave, pasi njihet me mendimin e Guvernatorit të Bankës së Shqipërisë, për kandidaturat, cakton njërin prej tyre në funksionin e anëtarit të bordit drejtues. Mandati i tij është 2 vjet. Shoqata e bankierëve ose Banka e Shqipërisë kanë të drejtë, t’i propozojnë ministrit përgjegjës lirimin nga funksioni të anëtarit. Ministri vlerëson propozimin dhe kryen lirimin nga funksioni, kur e gjen të motivuar atë.
 Neni 11
 Bordi do të kryesohet nga Kryetari, dhe në mungesë të tij ose të saj, nga një anëtar i Bordit i cili është ngarkuar për këtë funksion nga Kryetari.
 Neni 12
