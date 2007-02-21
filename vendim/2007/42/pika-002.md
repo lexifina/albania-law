@@ -1,0 +1,1 @@
+2. Paga minimale mujore, për efekt të llogaritjes së kontributeve të sigurimeve, shoqërore dhe shëndetësore, për punëmarrësit e sektorit privat, sipas nomenklaturës së veprimtarive ekonomike dhe të kërkesave të vendit të punës për kualifikim përcaktohet sipas tabelës nr.1, që i bashkëlidhet këtij vendimi.
