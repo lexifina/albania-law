@@ -1,0 +1,1 @@
+8. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, brenda strukturës së vet organizative, bashkëpunon me strukturat përkatëse të Ministrisë së Mbrojtjes për administrimin e zonës së mbrojtur.

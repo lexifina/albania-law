@@ -1,0 +1,1 @@
+5. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Mbrojtjes dhe ministritë e tjera të linjës, në bashkëpunim me njësitë e qeverisjes vendore, me organet e specializuara kërkimore-shkencore, me përfaqësuesit e biznesit dhe të pronarëve privatë, hartojnë planin e menaxhimit të peizazhit të mbrojtur.
