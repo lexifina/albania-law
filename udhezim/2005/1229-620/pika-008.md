@@ -1,0 +1,1 @@
+8. Për zbatimin e këtij udhëzimi ngarkohen Drejtoria e Politikave të Prodhimit, Drejtoria e Shërbimit Këshillimor, Shkencës dhe Informacionit Bujqësor në Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Enti Shtetëror i Farave dhe Fidanëve, Inspektorati i Kontrollit Shtetëror të Farave dhe Fidanëve dhe Qendra e Transferimit të Teknologjive Bujqësore Vlorë.

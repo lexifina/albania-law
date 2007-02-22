@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim të përcaktojë strukturën varietore të fidanëve dhe materialeve të shumëzimit vegjetativ (copa e kalema) të hardhisë që prodhohen në vend dhe/ose importohen, si dhe rregullat e përmirësimit dhe miratimit të saj në të ardhmen.

@@ -1,0 +1,1 @@
+2. Në zbatimin e këtij udhëzimi, termi i përdorur “Strukturë varietore” ka kuptimin e listës së varieteteve (kultivarëve) të vendit dhe internacionale që deri tani janë vlerësuar dhe menduar si më të përshtatshmit për kushtet klimatiko-tokësore dhe destinacionin e prodhimit.

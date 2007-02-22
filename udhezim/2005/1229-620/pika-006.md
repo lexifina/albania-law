@@ -1,0 +1,1 @@
+6. Lista e varieteteve e përshkruar më sipër, në pikën 4 dhe 5 të këtij udhëzimi, pasqyrohet në katalogun zyrtar të specieve dhe varieteteve bimore, duke bërë ndryshimet e nevojshme sipas rregullave të vendosura.
