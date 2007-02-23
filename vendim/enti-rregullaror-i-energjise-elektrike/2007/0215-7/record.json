@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5119,
+  "title": "PËR FILLIMIN E PROCEDURAVE TË SHQYRTIMIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "7",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2007-02-15",
+  "published": "2007-02-23",
+  "in_force": "2007-02-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/848538adf795aadb8e2b72d8ae707543e1a5aa5bd8518f274a69522ae5f1eec4.docx",
+  "source_sha256": "848538adf795aadb8e2b72d8ae707543e1a5aa5bd8518f274a69522ae5f1eec4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5119",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/02/15/7",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
