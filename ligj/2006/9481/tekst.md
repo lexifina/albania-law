@@ -1,8 +1,12 @@
 L I G J
 
-Nr.9481, datë 16.2.2006
+Nr. 9481, datë 16.2.2006
 
-PËR DISA NDRYSHIME NË LIGJIN NR.9418, DATË 20.5.2005 “PËR SIGURIMIN SHOQËROR SUPLEMENTAR TË USHTARAKËVE TË FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË”
+PËR DISA NDRYSHIME NË LIGJIN NR. 9418, DATË 20.5.2005 “PËR SIGURIMIN SHOQËROR SUPLEMENTAR TË USHTARAKËVE TË FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË”
+
+(Ndryshuar me vendimin e Gjykatës Kushtetuese nr. 9, datë 26.2.2007)
+
+(i përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -16,15 +20,7 @@ Në ligjin nr.9418, datë 20.5.2005 “Për sigurimin shoqëror suplementar të 
 
 Neni 1
 
-Neni 13 ndryshohet si më poshtë:
-
-“Neni 13
-
-Kushtet e përfitimit të pensionit të parakohshëm për vjetërsi shërbimi
-
-1. Ushtarakët e shërbimit aktiv të përhershëm, që dalin në rezervë/lirim pas hyrjes në fuqi të ligjit nr.9210, datë 23.3.2004 “Për statusin e ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë”, deri në plotësimin e kushteve për pension të plotë pleqërie, sipas ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, përfitojnë pension të parakohshëm, për vjetërsi shërbimi, kur plotësojnë vjetërsinë e shërbimit si ushtarak, në masën 12 vjet për femrat dhe 15 vjet për meshkujt dhe kur kanë mbushur moshën 44 vjeç femrat dhe 47 vjeç meshkujt, në masën e përcaktuar në nenin 14 të këtij ligji.
-
-2. Ushtarakët e shërbimit aktiv të përhershëm, që kanë dalë në rezervë/lirim nga data 1 janar 1991 deri në datën e hyrjes në fuqi të ligjit nr.9210, datë 23.3.2004 “Për statusin e ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë”, pavarësisht nga çasti i lindjes së të drejtës për përfitimin e pensionit të parakohshëm për vjetërsi shërbimi, do të vazhdojnë ta përfitojnë këtë pension, sipas ligjit nr.8087, datë 13.3.1996 “Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura në Republikën e Shqipërisë, të ushtarakëve të Ministrisë së Rendit Publik dhe të Shërbimit Informativ të Shtetit”, të ndryshuar.”.
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 9, datë 26.2.2007)
 
 Neni 2
 
@@ -58,7 +54,7 @@ c) katërfishi i pensionit bazë, në datën 1 janar të çdo viti, sipas përca
 
 Neni 3
 
-Në paragrafin e tretë të nenit 16, shprehja “60 për qind”  zëvendësohet me shprehjen “50 për qind”.
+Në paragrafin e tretë të nenit 16, shprehja “60 për qind” zëvendësohet me shprehjen “50 për qind”.
 
 Neni 4
 
@@ -92,6 +88,8 @@ Pensioni suplementar për ushtarakët në pension para vitit 1991
 
 Neni 7
 
+(Shfuqizuar shkronjat ‘’a’’ dhe ‘’b’’ me vendimin e Gjykatës Kushtetuese nr. 9, datë 26.2.2007)
+
 Pas nenit 31 shtohet neni 31/1 me këtë përmbajtje:
 
 “Neni 31/1 
@@ -100,11 +98,11 @@ Njohja si periudhë sigurimi për efekt të pensionit të pleqërisë
 
 1. Për të gjithë ata ushtarakë, që kanë dalë në rezervë apo lirim dhe plotësojnë kushtet për pension pleqërie pas hyrjes në fuqi të këtij ligji, periudha 1.10.1993 deri 31.12.1998 u njihet periudhë sigurimi për efekt të pensionit të pleqërisë, sipas kushteve të mëposhtme:
 
-a) ushtarakët e nxjerrë në rezervë/lirim gjatë kësaj periudhe, të cilët kanë përfituar pension të parakohshëm për vjetërsi shërbimi, në çastin e lindjes së të drejtës së përfitimit të pensionit të pleqërisë, t'u derdhet masa e kontributit sipas pagës minimale në shkallë vendi, të miratuar nga Këshilli i Ministrave, për vitin përkatës, për aq vite sa u nevojiten për efekt të përfitimit të pensionit të plotë të pleqërisë, por jo më shumë se periudha e përcaktuar për efekt derdhje kontributi; 
+a) Shfuqizuar.
 
-b) ushtarakët e nxjerrë në rezervë/lirim gjatë kësaj periudhe, të cilët kanë vjetërsi shërbimi nën 15 vjet për burrat dhe nën 12 vjet për gratë dhe që nuk kanë përfituar pension të parakohshëm për vjetërsi shërbimi, në çastin e lindjes së të drejtës së përfitimit të pensionit të pleqërisë t'u derdhet kontribut, sipas pagës minimale në shkallë vendi, për vitin përkatës, deri në dy vjet për burrat dhe tre vjet për gratë, por jo më shumë se periudha, që u nevojitet për efekt të përfitimit të pensionit të plotë të pleqërisë.
+b) Shfuqizuar.
 
-2. Mënyra, kushtet dhe kriteret e zbatimit të kësaj pike përcaktohen me vendim të Këshillit të Ministrave.”.
+2. Mënyra, kushtet dhe kriteret e zbatimit të kësaj pike përcaktohen me vendim të Këshillit të Ministrave.
 
 Neni 8
 
@@ -116,7 +114,7 @@ Ngarkohet Këshilli i Ministrave të nxjerrë aktet nënligjore në zbatim të n
 
 Neni 9
 
-Në nenin 34 afati “1 janar 2006” zëvendësohet me “16 prill 2006”.
+(Shfuqizuar me vendimin e Gjykatës Kushtetuese nr. 9, datë 26.2.2007)
 
 Neni 10
 
