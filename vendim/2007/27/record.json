@@ -1,0 +1,27 @@
+{
+  "qbz_id": 5080,
+  "title": "PËR MIRATIMIN E RREGULLAVE TË VLERËSIMIT DHE TË DHËNIES \nsë koncesioneve",
+  "type": "Vendim",
+  "number": "27",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-01-19",
+  "version_no": 1,
+  "qbz_version_id": 523,
+  "in_force": "2007-02-28",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2007-02-28",
+  "changed_by_qbz_id": 5142,
+  "changed_by_number": "104",
+  "changed_by_title": "PËR NJË SHTESË NË VENDIMIN NR.27, DATË 19.1.2007 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLAVE TË VLERËSIMIT DHE TË DHËNIES SË KONCESIONEVE”",
+  "source": "https://qbz.gov.al/files/eedb8b7530c90138553ab6be3bf9cf3f4ff19caed7b7e833017762004f97dc62.docx",
+  "source_sha256": "eedb8b7530c90138553ab6be3bf9cf3f4ff19caed7b7e833017762004f97dc62",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5080",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/5080/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
