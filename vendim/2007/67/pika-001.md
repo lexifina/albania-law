@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, e cila preket nga ndërtimi i një kanali, që sistemon ujërat, që dalin nga një tombino, në km 29-870, në segmentin rrugor Rrogozhinë-Elbasan.
