@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i aksit rrugor, që lidh rrugën kombëtare Gostimë-Mollas me urën e re mbi lumin Shicë.
