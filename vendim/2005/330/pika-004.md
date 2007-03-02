@@ -1,5 +1,0 @@
-4. Të gjitha institucionet shtetërore, që zotërojnë dokumentacion për shpronësimet e bëra nga shteti pas datës 29 nëntor 1944, t’ia vënë atë në dispozicion Komitetit Shtetëror të Kthimit dhe të Kompensimit të Pronave, brenda dy muajve nga hyrja në fuqi e këtij vendimi, të shoqëruar me këto të dhëna:
-- Listën e subjekteve të shpronësuara, pronat e të cilave vazhdojnë të përdoren për interesa publike;
-- Listën e personave, që ia kanë dhuruar pronat e tyre shtetit, veprim për të cilin ka dokumente zyrtare;
-- Listën e subjekteve të shpronësuara, pronat e të cilave janë përmbytur nga ndërtimi i hidrocentraleve, e që janë kompensuar sipas dispozitave për shpronësimet për interes publik.
-Drejtoria e Përgjithshme e Arkivave (Arkivi Qendror i Shtetit) duhet të paraqesë dokumentacionin ndihmës pranë ministrive dhe institucioneve, sipas kërkesave të tyre, për verifikimin e gjendjes së pronave në administrim të tyre e të atyre të shpronësuara, pas datës 29 nëntor 1944, të personave fizikë, privatë.
