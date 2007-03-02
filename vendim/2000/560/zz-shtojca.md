@@ -45,7 +45,7 @@ e) Emëron shefat e shërbimeve.
 f) Ngarkon drejtorin e spitalit të negociojë me ISKSH/DRSKSH-në Durrës projekt kontratën.
 g) Miraton projektin e kontratës që lidhet midis spitalit dhe DRSKSH-së Durrës.
 h) Miraton çdo vit raportin vjetor, bilancin, buxhetin vjetor dhe planin perspektiv 3-vjeçar të spitalit të paraqitur nga drejtori i spitalit.
-i) Miraton mënyrën e përdorimit të të ardhurave, me nxjerrjen e rezultatit financiar.
+i) Miraton mënyrën e përdorimit të të ardhurave.
 j) Kontrollon zbatimin e normave të vendosura dhe të miratuara nga Ministria e Shëndetësisë lidhur me numrin e personelit.
 k) Miraton çdo ndryshim në strukturën organizative të spitalit, përfshirë rastet kur nevojiten ndryshime në numrin e personelit.
 l) Kontrollon e miraton zbatimin e rregullave dhe të procedurave të punësimit.
@@ -53,6 +53,7 @@ m) Kontrollon zbatimin e normave të përdorimit të materialeve të buta, të l
 n) Harton dhe miraton rregulloren e funksionimit të Bordit.
 o) Harton dhe i paraqet për miratim Ministrit të Shëndetësisë rregulloren e funksionimit teknik të spitalit.
 p) Raporton te Ministri i Shëndetësisë për veprimtarinë e përgjithshme të spitalit.
+q) Bordi i propozon këshillit administrativ të ISKSH-së ndryshime në pagat e punonjësve, si dhe shtesat mbi pagë.
 Neni 13
 Bordi i delegon drejtorit të spitalit përgjegjësitë e menaxhimit të spitalit. Marrëdhëniet midis Bordit dhe drejtorit rregullohen me firmosjen e një kontrate njëvjeçare. Në kontratë vendosen objektiva specifikë, si edhe përcaktohen qartë detyrat e përgjegjësitë e drejtorit.
 Neni 14
