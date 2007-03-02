@@ -1,0 +1,1 @@
+6. Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, brenda 60 ditësh nga hyrja në fuqi e këtij vendimi, vë në dispozicion të AKKP-së hartat e zonave, që kanë përparësi zhvillimin e turizmit, si dhe masterplanet e studimeve të zonave turistike, për një periudhë afatmesme 10-vjeçare.
