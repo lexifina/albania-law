@@ -1,0 +1,1 @@
+2. Objektet e përcaktuara në pikën 1 të këtij vendimi, të cilat vlerësohen se paraqesin interes për investime private, në fushën e prodhimit të energjisë elektrike, të jepen me koncesion, duke filluar me çmimin simbolik 1 euro. Pjesa tjetër e objekteve do t’i nënshtrohet procedurave të privatizimit, sipas akteve, ligjore dhe nënligjore, në fuqi.
