@@ -1,0 +1,1 @@
+4. Ngarkohet Ministria e Shëndetësisë të negociojë dhe të lidhë kontratën me “Enar Saglik ve Egitim Hiz. Ltd.”, Ankara, Turqi, për kryerjen e transplantit të veshkës pranë qendrës spitalore universitare “Ibni Sina Hastanesi Sihhiye”, Ankara, Turqi.

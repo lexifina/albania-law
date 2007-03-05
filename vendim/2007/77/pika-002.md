@@ -1,0 +1,1 @@
+2. Lejimin e Ministrisë së Shëndetësisë, që, me fondin prej 18 100 000 (tetëmbëdhjetë milionë e njëqind mijë) lekësh, të kryejë transplantin e veshkës për 12 shtetas pranë qendrës spitalore universitare “Ibni Sina Hastanesi Sihhiye”, Ankara, Turqi, përmes shoqërisë “Enar Saglik ve Egitim Hiz. Ltd.”, Ankara, Turqi.
