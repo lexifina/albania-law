@@ -1,0 +1,1 @@
+8. Pronarët e përmendur në listën që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Plotësim dokumentacioni”, “Proces regjistrimi” dhe “Pretendim pronësie”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve. Deri në këto çaste paratë do të qëndrojnë të bllokuara në bankë.
