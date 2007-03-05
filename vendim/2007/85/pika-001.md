@@ -1,0 +1,1 @@
+1. “Notifikim” - detyrimi i Organizatës Botërore të Tregtisë (më poshtë OBT) për të raportuar, informuar dhe depozituar në organet përgjegjëse, për të gjitha masat me efekt në tregtinë e mallrave, shërbimeve, në pronësinë intelektuale dhe prokurimin publik, të marra nga vendet anëtare të OBT-së.

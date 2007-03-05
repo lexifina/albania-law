@@ -1,0 +1,1 @@
+2. “Pikë referimi”- institucionet përgjegjëse për dhënien e informacionit të nevojshëm për kuadrin ligjor në fuqi në Republikën e Shqipërisë për tregtinë e mallrave, të shërbimeve, për pronësinë intelektuale dhe prokurimin publik, si në përgjigje të kërkesave të vendeve anëtare të OBT-së.

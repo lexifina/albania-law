@@ -1,0 +1,1 @@
+7. Ministria e Ekonomisë, Tregtisë dhe Energjetikës (Drejtoria e Politikave Tregtare, sektori për marrëdhëniet me OBT-në dhe integrimin ekonomik) të jetë pika e referimit të kuadrit ligjor për tregtinë e mallrave e të shërbimeve dhe pronësinë intelektuale.

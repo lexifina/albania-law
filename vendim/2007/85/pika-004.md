@@ -1,0 +1,1 @@
+4. “Masa mbrojtëse” - tarifat doganore shtesë që zbatohen, përveç tarifave doganore të kombit më të favorizuar, në rastin kur vëllimi i mallrave të importuara është më i lartë se vëllimi normal i importit, i cili vlerësohet dhe përcaktohet në bazë të të dhënave statistikore në tri vitet e fundit, dhe që shkakton ose kërcënon të shkaktojë dëme në industrinë vendase.

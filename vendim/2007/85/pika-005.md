@@ -1,0 +1,1 @@
+5. “Taksa doganore të ndryshueshme”- taksat doganore, të cilat ndryshojnë në përputhje me kriteret e brendshme, duke synuar që çmimi i produktit në tregun e brendshëm të mbetet i pandryshuar, pavarësisht luhatjes së çmimeve në tregjet botërore.

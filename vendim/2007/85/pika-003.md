@@ -1,0 +1,1 @@
+3. “Masa kundërbalancuese” - tarifat doganore shtesë, të cilat zbatohen me hyrjen e mallit në territorin e Republikës së Shqipërisë, përveç tarifave doganore të kombit më të favorizuar, për të balancuar subvencionin e dhënë gjatë prodhimit, fabrikimit ose eksportimit të një produkti, në mënyrë të drejtpërdrejtë ose tërthorazi.
