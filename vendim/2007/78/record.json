@@ -1,0 +1,32 @@
+{
+  "qbz_id": 55468,
+  "title": "PËR MASËN, KRITERET DHE PROCEDURAT E PËRFITIMIT TË NJË PAKETE TË VEÇANTË HIGJIENO-SANITARE, PËR INVALIDËT PARAPLEGJIKË DHE TETRAPLEGJIKË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "78",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-02-07",
+  "published": "2007-03-05",
+  "in_force": "2007-03-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/eba53ae6ebcb47d7adeae0490b5f121df95afd8df8ee1ade5bd748b7c8b09d5d.docx",
+  "source_sha256": "eba53ae6ebcb47d7adeae0490b5f121df95afd8df8ee1ade5bd748b7c8b09d5d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55468",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/02/07/78",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    120224,
+    62354,
+    29289,
+    12966,
+    17962
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
