@@ -1,0 +1,1 @@
+8. Pronarёt e pёrmendur nё listёn, qё i bashkёlidhet kёtij vendimi, pёr tё cilёt ёshtё bёrё shёnimi “Plotёsim dokumentacioni” ose “Mungon kartela e pasurisë”, tё kompensohen, pёr efekt shpronёsimi, pasi tё kenё paraqitur dokumentacionin e plotё tё pronёsisё pranё Drejtorisё sё Pёrgjithshme tё Rrugёve. Deri në këtë çast, paratё do tё qёndrojnё tё bllokuara nё bankё.
