@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5140,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.236, DATË 10.5.1993 TË KËSHILLIT TË MINISTRAVE “PËR ADMINISTRIMIN E FURNIZIMIT ME UJË PËR PËRDORUESIT FAMILJARË DHE JOFAMILJARË”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "96",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-02-21",
+  "published": "2007-03-08",
+  "in_force": "2007-03-08",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/75f64317f6cbf7a902e03d586586e3cd407a653deb03d84c905bcf2a6d89059c.docx",
+  "source_sha256": "75f64317f6cbf7a902e03d586586e3cd407a653deb03d84c905bcf2a6d89059c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5140",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/02/21/96",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
