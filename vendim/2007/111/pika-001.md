@@ -1,0 +1,1 @@
+1. Krijimin e grupeve të punës për identifikimin dhe dhënien me koncesion, të cilat do të funksionojnë deri në krijimin e Njësisë së Trajtimit të Koncesioneve, por jo më shumë se gjashtë muaj nga hyrja në fuqi e këtij vendimi.
