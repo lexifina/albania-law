@@ -1,0 +1,1 @@
+6. Komisioni përbëhet nga 5 anëtarë: dy ekspertë të Ministrisë së Integrimit, një ekspert i ministrisë së linjës apo institucionit qendror, fusha e veprimtarisë e të cilit përputhet me fushën e veprimit të legjislacionit të Bashkimit Europian, që duhet të përkthehet, si dhe dy ekspertë të jashtëm të fushës, të caktuar nga Ministri i Integrimit.
