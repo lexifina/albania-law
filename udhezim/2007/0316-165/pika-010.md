@@ -1,0 +1,1 @@
+10. Organizatori i lojës njofton METE në çdo tre muaj mbi xhiron e realizuar nga shoqëria, bazuar mbi shitjen e biletave; sasinë e shitur të biletave dhe çmimet fituese, si dhe derdhjen e detyrimeve tatimore, sipas ligjit.
