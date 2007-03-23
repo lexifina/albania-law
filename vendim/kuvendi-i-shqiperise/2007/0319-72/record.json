@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5160,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIM ZËVENDËSKRYEMINISTRI",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "72",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-03-19",
+  "published": "2007-03-23",
+  "in_force": "2007-03-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/00cfd53d8eb6e1c4f1dff72c22480be75645210fe570e5ce072a7701d0d1fb3c.docx",
+  "source_sha256": "00cfd53d8eb6e1c4f1dff72c22480be75645210fe570e5ce072a7701d0d1fb3c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5160",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/03/19/72",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
