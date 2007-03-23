@@ -1,0 +1,30 @@
+{
+  "qbz_id": 5170,
+  "title": "PËR PËRCAKTIMIN E MASËS SË KONTRIBUTEVE TË PERSONAVE, QË VENDOSEN NË INSTITUCIONET REZIDENCIALE PUBLIKE, TË SHËRBIMEVE TË PËRKUJDESIT SHOQËROR",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "114",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-01-31",
+  "published": "2007-03-23",
+  "in_force": "2007-03-23",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ef86dfb388f9f09a7bd59cfaf70bfb75aad761bc34c4a0f6069814366c301675.docx",
+  "source_sha256": "ef86dfb388f9f09a7bd59cfaf70bfb75aad761bc34c4a0f6069814366c301675",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5170",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/01/31/114",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    67580,
+    61529,
+    16484
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
