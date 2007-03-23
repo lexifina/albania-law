@@ -1,0 +1,3 @@
+1. Lejimin e kalimit transit, përmes territorit të Republikës së Shqipërisë, të 9 (nëntë) trupave dhe 3 (tre) mjeteve ushtarake italiane, në itinerarin Qafë-Thanë-Durrës, në datën 9 mars 2007.
+Lejimin e kalimit transit të 9 (nëntë) trupave dhe 7 (shtatë) mjeteve ushtarake italiane në itinerarin Durrës-Qafë-Thanë, në datën 18 mars 2007.
+Për trupat ushtarake, që do të kalojnë më 9 mars, pika e hyrjes në territorin e Republikës së Shqipërisë është pika e kalimit kufitar në Qafë-Thanë dhe pika e daljes është pika e kalimit kufitar në Durrës, ndërsa për trupat, që do të kalojnë më 18 mars 2007, pika e hyrjes është pika e kalimit kufitar në Durrës dhe pika e daljes është pika e kalimit kufitar, Qafë-Thanë.
