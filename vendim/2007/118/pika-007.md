@@ -1,0 +1,1 @@
+7. Shpronësimi të bëhet në favor të bashkisë së Beratit. Regjistrimi i ri i pasurisë 2270 m2 , truall, shpronësuar në favor të bashkisë së Beratit, të bëhet brenda 30 ditëve nga data e miratimit të këtij vendimi.
