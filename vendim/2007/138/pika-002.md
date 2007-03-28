@@ -1,0 +1,1 @@
+2. Shitja e armëve, teknikës, pajisjeve, municioneve dhe lëndëve eksplozive të Forcave të Armatosura realizohet nëpërmjet ndërmarrjes MEICO, e cila zbaton çmimet e miratuara në pikën 1 të këtij vendimi.

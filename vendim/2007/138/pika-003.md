@@ -1,0 +1,1 @@
+3. Armët, teknika, pajisjet, municionet dhe lëndët eksplozive, të kërkuara për përdorim ushtarak, pas negocimeve i shiten kërkuesit më të parë, duke realizuar një çmim sa më të lartë, por jo më të ulët se çmimi i miratuar në pikën 1 të këtij vendimi.
