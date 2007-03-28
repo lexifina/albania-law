@@ -1,0 +1,1 @@
+4. Objekti me numër rendor 1, në formularin, që i bashkëlidhet vendimit nr.440, datë 16.6.2005 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme, shtetërore, të cilat i kalojnë në përgjegjësi administrimi Akademisë së Shkencave”, të hiqet nga kjo listë.
