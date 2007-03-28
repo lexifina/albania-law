@@ -1,1 +1,0 @@
-8. Efektet financiare dhe rritja e numrit të punonjësve që rrjedhin nga zbatimi i këtij vendimi përballohen nga buxheti i miratuar për vitin 2001 për Ministrinë e Arsimit dhe Shkencës dhe numri i punonjësve të miratuar për këtë institucion.

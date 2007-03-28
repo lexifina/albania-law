@@ -1,1 +1,0 @@
-4. Qendra Kombëtare Arsimore e Vlerësimit dhe e Provimeve merr detyra, që përputhen me misionin e saj, nga Ministri i Arsimit dhe Shkencës. Ajo gëzon pavarësi profesionale në kryerjen e misionit dhe të detyrave të saj.

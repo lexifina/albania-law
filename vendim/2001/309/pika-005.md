@@ -1,1 +1,0 @@
-5. Struktura dhe organika e Qendrës Kombëtare Arsimore të vlerësimit dhe të provimeve përcaktohen nga Ministria e Arsimit dhe Shkencës. Drejtori i kësaj Qendre emërohet nga Ministri i Arsimit dhe Shkencës. Marrëdhëniet e punës së punonjësve të Qendrës rregullohen me Kodin e Punës së Republikës të Shqipërisë.
