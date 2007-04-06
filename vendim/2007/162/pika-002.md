@@ -1,0 +1,2 @@
+2. Pasuritё, qё jepen me qira, sipas përcaktimit të pikës 1 të kёtij vendimi, janё trualli i lirë, ndёrtesat, trualli i lirё funksional (jo nёn ndёrtesё), makineritё e pajisjet dhe linjat e prodhimit.
+Pasuritё, qё jepen me enfiteozё, sipas përcaktimit të pikës 1 të kёtij vendimi, janё vetёm pasuritё e paluajtshme tё institucioneve e tё ndёrmarrjeve shtetёrore dhe tё shoqёrive tregtare, me kapital 100 pёr qind shtetёror.
