@@ -1,1 +1,0 @@
-2. Drejtoria Farmaceutike, në Ministrinë e Shëndetësisë, brenda muajit dhjetor të çdo viti, të paraqesë pranë Komisionit të Çmimeve të Barnave, të dhëna për çmimet e barnave, të fabrikuara në vend dhe për ato të importuara.

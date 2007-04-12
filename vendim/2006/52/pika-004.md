@@ -1,1 +1,0 @@
-4. Çdo anëtar i Komisionit të Çmimeve të Barnave të shpërblehet me 5 000 (pesë mijë) lekë për pjesëmarrje në mbledhje, por masa e shpërblimit mujor nuk duhet të jetë më shumë se 5 000 (pesë mijë) lekë.
