@@ -1,0 +1,1 @@
+5. Sektori i çmimit të barnave pranë Ministrisë së Shëndetësisë duhet të paraqesë pranë Komisionit të Çmimeve të Barnave një analizë të hollësishme të çmimeve të barnave, duke shfrytëzuar të gjithë informacionin e nevojshëm, përfshirë krahasimin e çmimeve të publikuara në disa shtete, në formë zyrtare, në formë tregtare nga buletine të ndryshme.

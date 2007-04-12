@@ -1,0 +1,1 @@
+12. Komisioni i Çmimeve të Barnave harton propozimin për marzhet e fabrikimit dhe të tregtimit, të cilat do të zbatohen mbi çmimet e miratuara. Këto çmime paraqiten për miratim në Këshillin e Ministrave, nëpërmjet Ministrit të Financave.

@@ -1,0 +1,1 @@
+9. Komisioni i Çmimeve të Barnave vazhdon procedurat me shoqëritë për përcaktimin e çmimeve CIF, përfundimtare. Çmimet e miratuara u njoftohen, zyrtarisht, Qendrës së Kontrollit të Barnave dhe Drejtorisë së Përgjithshme të Doganave.
