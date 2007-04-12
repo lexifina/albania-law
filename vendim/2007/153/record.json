@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5228,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR.1, DATË 10.1.2007 TË KËSHILLIT TË MINISTRAVE \"PËR RREGULLAT E PROKURIMIT PUBLIK\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "153",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-03-22",
+  "published": "2007-04-12",
+  "in_force": "2007-04-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/0ae3d282cdc9aa53f3da03dba61f7d9fbf51b03fad82717837713ea3703f81f9.docx",
+  "source_sha256": "0ae3d282cdc9aa53f3da03dba61f7d9fbf51b03fad82717837713ea3703f81f9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5228",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/03/22/153",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
