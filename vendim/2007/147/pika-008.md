@@ -1,0 +1,1 @@
+8. Nëse pas datës 1 janar 2009 evidentohen subjekte, që tregtojnë lëndë djegëse, me cilësi, që nuk respekton kërkesat e këtij vendimi, lënda djegëse sekuestrohet. Inspektorati Qendror Teknik përcakton destinacionin e lëndës djegëse të sekuestruar.

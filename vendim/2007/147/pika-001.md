@@ -1,0 +1,1 @@
+1. Në territorin e Republikës së Shqipërisë lejohet vetëm tregtimi i benzinës pa plumb, që, në nomenklaturën e mallrave, përshkruhet në kodet CN 27101141, 27101145, 27101149, 27101151 dhe 27101159 dhe që plotëson kërkesat e përcaktuara në aneksin 1, që i bashkëlidhet këtij vendimi.

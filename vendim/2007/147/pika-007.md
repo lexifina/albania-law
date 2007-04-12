@@ -1,0 +1,1 @@
+7. Ngarkohen Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministri i Ekonomisë, Tregtisë dhe Energjetikës të miratojnë udhëzimin e përbashkët për mbledhjen dhe ruajtjen e të dhënave, për cilësinë e benzinës dhe të diezelit.
