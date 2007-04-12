@@ -51,6 +51,14 @@ ii. Kufiri i ulët monetar është:
 - 3 000 000 lekë për kontratat e punëve publike;
 - 2 000 000 lekë për kontratat publike të shërbimeve dhe të mallrave.
 b) Për prokurimet, vlera e përllogaritur e të cilave, brenda një viti kalendarik, nuk është më e madhe se 400 (katërqind) mijë lekë, autoriteti kontraktor mund të përdorë procedurën për blerje të vogla, siç përshkruhet në kreun VI, të këtyre rregullave.
+Për Drejtorinë e Shërbimeve Qeveritare, vlera e përllogaritur e blerjes, për çdo artikull, brenda një viti kalendarik, të jetë nën vlerën e kufirit të ulët monetar.
+Për mallrat dhe shërbimet, që lidhen me protokollin e institucioneve të larta shtetërore, konkretisht për:
+- dhuratat që ato japin, për delegacionet e huaja gjatë vizitave zyrtare të tyre në Shqipëri;
+- kurorat dhe buqetat me lule, për ceremonitë protokollare;
+- shërbimin e dekorit të qytetit, mjediseve, të jashtme dhe të brendshme, të tyre;
+- shërbimin e qiramarrjes së automjeteve nga Parku i Delegacioneve;
+- mallra dhe shërbime për organizimin e konferencave, workshopeve, seminareve, tryezave të rrumbullakëta dhe takimeve të ndryshme të tyre.
+Për artikujt protokollarë, që i shërbejnë veprimtarisë së përditshme të tyre, vlera e përllogaritur e blerjes, për çdo artikull, brenda një viti kalendarik, të jetë nën vlerën e kufirit të ulët monetar.
 c) Asnjë kontratë publike nuk mund të ndahet për shmangien e kufirit monetar apo të procedurave, të parashikuara nga LPP-ja.
 2. Llogaritja e vlerës së kontratës
 a) Vlera limit e kontratës publike është shuma totale, e pagueshme, pa TVSH, e llogaritur nga autoriteti kontraktor përpara dërgimit për botim të njoftimit të prokurimit. Në llogaritjen e vlerës merret parasysh edhe shuma totale, që duhet paguar në rast ripërtëritjeje të kontratës, kur një gjë e tillë është parashikuar si mundësi. Kjo vlerë ka për qëllim klasifikimin e kontratës sipas kufijve monetarë, planifikimin dhe botimin. Vlera e TVSH-së llogaritet si zë më vete, por nuk përfshihet a botohet në vlerën limit apo në njoftimin e kontratës. TVSH-ja, kur është e zbatueshme i shtohet vlerës së ofertës fituese për llogaritjen e vlerës totale të kontratës, që do të lidhet.
@@ -358,7 +366,7 @@ a) Autoriteti kontraktor prokuron dhe financon kontratat për një periudhë der
 b) Vetëm në rrethana të argumentuara, të shpallura në njoftimin e kontratës, që lidhen ngusht me natyrën, kompleksitetin dhe financimin e saj, autoriteti kontraktor mund të lidhë një kontratë të tillë, nëse:
 objekti i tyre është blerja, qiraja ose blerja me këste e mallrave, me ose pa mundësinë e kalimit të pronësisë, që zgjat deri në pagimin e plotë të vlerës ose derisa pronësia t’i kalojë autoritetit kontraktor;
 është kontratë komplekse, që kërkon financim shumëvjeçar ose të strukturuar, e cila nuk mund të zbatohet për 12 muaj (si për shembull projektet komplekse në infrastrukturë) dhe ku financimi i saj është i garantuar;
-kontraktori kërkon kohë për të rikuperuar kostot e financimit (si për shembull grumbullimi dhe trajtimi i mbetjeve urbane, shërbimet e kateringut në komplekse spitalore, shërbimet e transportit urban apo kontrata të ngjashme me to). Kohëzgjatja e këtyre kontratave nuk duhet të kalojë 3 vjet.
+Kontraktori kërkon kohë për të rikuperuar koston e financimit (si për shembull grumbullimi dhe trajtimi i mjeteve urbane, shërbimet e kateringut në komplekse spitalore, shërbimet e transportit urban apo kontrata të ngjashme me to). Kohëzgjatja e këtyre kontratave nuk duhet të kalojë 7 vjet.
 KREU VIII
 EKZEKUTIMI I KONTRATËS
 Nënkontraktimi
@@ -420,3 +428,6 @@ Manualet shpjeguese dhe trajnimi
 a) APP-ja harton udhëzime shpjeguese dhe manuale prokurimi, të detyrueshme për përdorim nga çdo autoritet kontraktor gjatë kryerjes së veprimtarive të prokurimit.
 b) Në fillim të çdo viti, APP-ja, në bazë të të dhënave apo kërkesave të autoriteteve kontraktore, planifikon nevojat e trajnimit të zyrtarëve, të përfshirë në veprimtarinë e prokurimit publik.
 c) APP-ja, vetë ose në bashkëpunim me institucione të tjera trajnimi dhe formimi profesional, që kanë ekspertizë në praktikat më të mira të BE-së në fushën e prokurimit, zhvillon programe dhe ndërmerr trajnimet e nevojshme.
+KREU XII
+DISPOZITA TRANZITORE
+Autoritetet kontraktore, për plotësimin e nevojave, në fillim të vitit, deri sa të kryhen procedurat e prokurimit, lejohen të përdorin procedurën me negociim pa njoftim, në përputhje me pikat 3, shkronja ”b”, e 5, shkronja ”a”, të nenit 33, të LPP-së, për kontratë shtesë me kontraktuesit e tyre të fundit, për mallrat apo shërbimet, me afat, deri në 30 maj 2007. Fondet për këto kontrata të përballohen nga fondet e vëna në dispozicion në buxhetin e këtij viti, për të njëjtin shërbim apo mall.
