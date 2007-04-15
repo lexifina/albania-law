@@ -1,0 +1,7 @@
+LIGJ
+Nr.9696, datë 21.3.2007
+PËR RATIFIKIMIN E “MARRËVESHJES PËR AMENDIMIN DHE ADERIMIN NË MARRËVESHJEN E TREGTISË SË LIRË TË EUROPËS QENDRORE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
