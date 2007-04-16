@@ -1,0 +1,27 @@
+{
+  "qbz_id": 4044,
+  "title": "Për nomenklaturën e mallrave dhe tarifën doganore",
+  "type": "Ligj",
+  "number": "9461",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2005-12-21",
+  "version_no": 1,
+  "qbz_version_id": 410,
+  "in_force": "2007-04-16",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2007-04-16",
+  "changed_by_qbz_id": 5332,
+  "changed_by_number": "9715",
+  "changed_by_title": "PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR.9461, DATË 21.12.2005 “PËR NOMENKLATURËN E MALLRAVE DHE TARIFËN DOGANORE”",
+  "source": "https://qbz.gov.al/files/a7e664e84182e7b91818370c9b2d860064eba920121267e4a8d24d6587be0fbd.docx",
+  "source_sha256": "a7e664e84182e7b91818370c9b2d860064eba920121267e4a8d24d6587be0fbd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/4044",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/4044/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
