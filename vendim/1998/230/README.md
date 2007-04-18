@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 230, datë 4.4.1998](https://qbz.gov.al/api/v1/acts/19388); [QBZ versions](https://qbz.gov.al/api/v1/acts/19388/versions).
 
-Status of this text: `official consolidated version 2`, applying from 2007-01-31; after QBZ act 5112 (nr. 43).
+Status of this text: `official consolidated version 3`, applying from 2007-04-18; after QBZ act 5310 (nr. 213).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

@@ -6,7 +6,7 @@ PËR PRIVATIZIMIN E PJESËVE TË KAPITALIT TË ZOTËRUARA
 
 NGA SHTETI NË SHOQËRITË ME KAPITAL TË PËRBASHKËT
 
-(Ndryshuar me vendimin nr. 777, datë 11.10.2006;  nr. 43, datë 31.1.2007)
+(Ndryshuar me vendimin nr. 777, datë 11.10.2006;  nr. 43, datë 31.1.2007; nr. 213, datë 18.4.2007)
 
 (I përditësuar)
 
@@ -18,15 +18,13 @@ V E N D O S I:
 
 2. Ministria e Ekonomisë Publike dhe Privatizimit, si përfaqësuese e pronarit për pjesët e kapitalit të zotëruara nga shteti, miraton kalimin e privatizimit të këtyre pjesëve të kapitalit.
 
-Ministria, institucioni qendror ose organi i pushtetit lokal, nga i cili ka pasur vartësinë ndërmarrja shtetërore në momentin e nënshkrimit të kontratës për krijimin e shoqërive me kapital të përbashkët, i kërkon ortakut joshtetëror mendimin për transferimin e këtyre pjesëve të kapitalit që ortaku shtetëror ofron për privatizimin.
+Ortaku shtetëror njofton ministrinë apo institucionin, qendror a vendor, nga i cili ka pasur varësinë ndërmarrja shtetërore në çastin e nënshkrimit të kontratës, për krijimin e shoqërisë me kapital të përbashkët, si dhe shoqërinë, për miratimin e privatizimit të pjesës shtetërore të kapitalit..
 
 Miratimi i kërkesës do të konsiderohet i dhënë me akt të njohur të shoqërisë me kapital të përbashkët, në përputhje me kërkesat e ligjit “Për shoqëritë tregtare” dhe aktet e themelimit të shoqërisë.
 
-3. Pas miratimit të kërkesës për privatizim, shoqëria, me kërkesë të ortakut shtetëror, cakton 2 ekspertë, vlerësues të pasurisë dhe kontabël të autorizuar, për përcaktimin e vlerës së shoqërisë, për efekt të shitjes së pjesëve të kapitalit shtetëror. Çasti i caktimit të ekspertëve shënon fillimin e procesit të privatizimit.
+3. Ortaku shtetëror thërret asamblenë e ortakëve për marrjen, nga ortaku joshtetëror, të miratimit të privatizimit të kuotave, të zotëruara nga shteti, si dhe propozon e zgjedh ekspertët përkatës, të cilët miratohen në asamble për vlerësimin e shoqërisë, për efekt të shitjes së pjesës shtetërore.
 
 4. Momenti i caktimit të ekspertëve konsiderohet fillimi i procesit të privatizimit të pjesëve të kapitalit të zotëruara nga shteti.
-
-Organi shtetëror, sipas përcaktimit në paragrafin e dytë të pikës 2, fton shoqërinë të caktojë një ekspert tjetër për vlerësimin e pjesëve të kapitalit që do të shiten.
 
 Miratimi i ekspertëve miratohet me akt të njohur të shoqërisë.
 
@@ -46,7 +44,7 @@ e) dokumentacionin përkatës për truallin, ku e zhvillon veprimtarinë shoqër
 
 6. Përgatitja e dokumentacionit dhe dërgimi i tij në organin shtetëror, që ka filluar procesin e privatizimit, bëhet brenda 30 ditëve kalendarike nga data e emërimit të ekspertëve.
 
-Dokumentacioni i privatizimit, pas dorëzimit në organin shtetëror që ka filluar procesin e privatizimit, brenda 7 ditëve kalendarike duhet të përcillet në Ministrinë e Ekonomisë Publike dhe Privatizimit, e cila e përcjell në Agjencinë Kombëtare të Privatizimit.
+Dokumentacioni i privatizimit, i përgatitur nga  shoqëria, përcillet në Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, e cila ia dërgon, më pas,  Ministrisë së Financave.
 
 7. Vlera e shitjes së pjesës shtetërore, në shoqëritë me kapital të përbashkët, përcaktohet sipas standardeve europiane të vlerësimit të pasurisë dhe standardeve të raportimit financiar (metoda e vlerësimit të tregut). Investigimet të bazohen në vlerën e kontributit të palës shqiptare, të vendosur nga çasti i themelimit të shoqërisë, dhe në kapitalin e investuar në vite, deri në fillimin e procesit të privatizimit.
 
@@ -114,9 +112,17 @@ Sekretar 		- punonjësi i AKP-së, pa të drejtë vote.
 
 18. Kur nuk paraqitet asnjë pjesëmarrës në ankand, ortakut joshtetëror i ofrohen pjesët e kapitalit me çmimin e publikuar.
 
-19. Nga të ardhurat e shitjes së pjesëve të kapitalit të zotëruara nga shteti 5% mbahen nga AKP-ja.
+19. Nga të ardhurat e shitjes së pjesëve të kapitalit të zotëruar nga shteti përfitojnë: 
 
-20. Të gjitha mosmarrëveshjet gjyqësore ndërmjet ortakëve në shoqëri ndiqen nga ministria, institucioni qendror ose organi i pushtetit lokal, nga i cili ka pasur vartësinë ndërmarrja shtetërore në momentin e nënshkrimit të kontratës për krijimin e shoqërive me kapital të përbashkët. 
+a) Ministria e Financave, 5 për qind; 
+
+b) Ministria e Ekonomisë, Tregtisë dhe Energjetikës, 5 për qind; 
+
+c) Buxheti i Shtetit, 90 për qind. 
+
+Kriteret e administrimit dhe të përdorimit të fondit, që përfiton Ministria e Ekonomisë, Tregtisë dhe Energjetikës, përcaktohen me vendim të Këshillit të Ministrave.
+
+20. Të gjitha mosmarrëveshjet gjyqësore ndërmjet orakëve në shoqëri ndiqen nga ministria, institucioni qendror ose organi i pushtetit lokal, nga i cili ka pasur vartësinë ndërmarrja shtetërore në momentin e nënshkrimit të kontratës për krijimin e shoqërive me kapital të përbashkët. 
 
 21. Për ish-pronarin e truallit, të cilit i është njohur prona nga komisioni i kthimit dhe kompensimit të pronave, dhe ky truall është futur në kapitalin e zotëruar nga shteti në shoqëritë me kapital të përbashkët, kompensimi do të bëhet sipas legjislacionit në fuqi.
 
