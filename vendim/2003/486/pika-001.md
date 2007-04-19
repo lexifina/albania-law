@@ -1,1 +1,1 @@
-1. Miratimin e Marrëveshjes së koncesionit të formës “ROT” ndërmjet Ministrisë së Ekonomisë dhe Ministrisë së Industrisë dhe të Energjetikës dhe shoqërisë “AMAL” sh.p.k. për hidrocentralin vendor të Xhyrës, në rrethin e Librazhdit.
+1. Miratimin e Marrëveshjes së koncesionit të formës “ROT” ndërmjet Ministrisë së Ekonomisë dhe Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “AMAL” sh.p.k. për hidrocentralin vendor të Xhyrës, në rrethin e Librazhdit.
