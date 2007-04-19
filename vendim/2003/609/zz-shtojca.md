@@ -1,7 +1,7 @@
 # Shtojca
 MARRËVESHJE KONCESIONI
 PËR HIDROCENTRALIN BOGOVË-SKRAPAR
-Ndërmjet Ministrisë së Ekonomisë dhe Ministrisë së Industrisë dhe të Energjetikës, të përfaqësuar ligjërisht nga z. Rozafat Shllaku për Ministrinë e Ekonomisë dhe z.Agim Bregasi për Ministrinë e Industrisë dhe të Energjetikës, më poshtë referuar si Organi Shtetëror i Autorizuar (OSHA)
+Ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, të përfaqësuar ligjërisht nga z. Rozafat Shllaku për Ministrinë e Ekonomisë dhe z.Agim Bregasi për Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, më poshtë referuar si Organi Shtetëror i Autorizuar (OSHA)
 dhe
 shoqërisë ”Wonder” sh.a.,Tiranë, përfaqësuar nga z. Vasil Gjika, më poshtë referuar si ”Koncesionari”.
 Meqenëse ekzistojnë këto kushte paraprake,
@@ -10,7 +10,7 @@ Qeveria:
 - vlerëson formulën e koncesionit ROT, sepse kjo bën të mundur rehabilitimin e hidrocentraleve pa prekur Buxhetin e Shtetit;
 - mirëpret investitorët vendas në rehabilitimin, ruajtjen e aseteve dhe të kapaciteteve prodhuese të hidrocentraleve, si dhe fuqizimin e disa prej tyre;
 - është e prirur për ngritjen dhe zhvillimin e tregut të energjisë elektrike brenda vendit;
-- autorizon, sipas vendimit të Këshillit të Ministrave nr.390, datë 12.6.2003 ”Për fillimin e procedurës së dhënies me koncesion, në formën ROT të hidrocentralit Bogovë”, Ministrinë e Ekonomisë dhe Ministrinë e Industrisë dhe të Energjetikës, të negociojnë dhe të nënshkruajnë Marrëveshjen e koncesionit.
+- autorizon, sipas vendimit të Këshillit të Ministrave nr.390, datë 12.6.2003 ”Për fillimin e procedurës së dhënies me koncesion, në formën ROT të hidrocentralit Bogovë”, Ministrinë e Ekonomisë dhe Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, të negociojnë dhe të nënshkruajnë Marrëveshjen e koncesionit.
 Koncesionari:
 - është seriozisht i interesuar të investojë në fushën e elektroenergjetikës;
 - ka ndërmarrë studimin tekniko-ekonomik për rehabilitimin dhe shfrytëzimin e hidrocentralit, objekt i koncesionit;
@@ -19,10 +19,10 @@ Koncesionari:
 - beson plotësisht se Qeveria do të mbështesë përpjekjen e Koncesionarit gjatë gjithë periudhës së koncesionit.
 Palët ranë dakord si më poshtë:
 Neni 1
-Përkufizime
+PërkufizimeA
 Kudo që në këtë Marrëveshje përdoren termat e mëposhtëm, ata do të kenë kuptimet përkatëse të shënuara si vijon:
 Marrëveshja e koncesionit: Kjo Marrëveshje dhe anekset e saj.
-Organi Shtetëror i Autorizuar (OSHA): Ministria e Ekonomisë dhe Ministria e Industrisë dhe e Energjetikës.
+Organi Shtetëror i Autorizuar (OSHA): Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës.
 Koncesionari: Shoqëria ”Wonder” sh.a., rruga ”Lek Dukagjini”, pallati përballë INIMA-s, Tiranë, president z. Vasil Gjika.
 Shoqëri koncesionare: ”Wonder Power” sh.a., e cila pas regjistrimit në gjykatë sipas përcaktimit në nenin 4 të kësaj Marrëveshjeje, do të zhvillojë veprimtarinë koncesionare.
 Hidrocentrali: Bogovë në rrethin e Skraparit me fuqi 2,5 MVA, që përcaktohet me vendimin e Këshillit të Ministrave nr.390, datë 12.6.2003 ”Për fillimin e procedurës së dhënies me koncesion të formës ”ROT” të hidrocentralit Bogovë”.
@@ -64,6 +64,7 @@ Detyrimet e Koncesionarit:
 Të drejtat e Koncesionarit:
 - Koncesionari gëzon të gjitha të drejtat e prodhuesit të energjisë elektrike sipas ligjit nr.9072, datë 22.5.2003 ”Për sektorin e energjisë elektrike”.
 - Koncesionari ka të drejtë ekskluzive të ushtrojë veprimtarinë në sektorin e koncesionit për hidrocentralin Bogovë, në përputhje me licencën e operatorit prodhues të energjisë elektrike lëshuar nga ERE.
+-Koncesionari ka të drejtë të rrisë kapacitetitin e prurjeve të ujit, duke përfshirë edhe burime të reja, përveç burimeve ekzistuese.
 - Koncesionari nuk përgjigjet për asnjë detyrim që objektet e marra në koncesion kanë ndaj shtetit dhe të tretëve deri në hyrjen në fuqi të kësaj Marrëveshjeje.
 Neni 5
 Detyrimet e Organit Shtetëror të Autorizuar (OSHA)
@@ -91,6 +92,10 @@ Neni 8
 Marrëdhëniet teknike me KESH sh.a.
 Meqenëse pajisjet e komandimit dhe skema sekondare për nënstacionin 35/10 kV, që i përket KESH sh.a. ndodhen në sallën e komandës së hidrocentralit, personeli i hidrocentralit që i përket Koncesionarit nuk ka të drejtë të manovrojë në këto pajisje.
 Mënyra e bashkëveprimit midis personelit të hidrocentralit dhe personelit të nënstacionit do të përcaktohet me një marrëveshje të posaçme ndërmjet Koncesionarit dhe KESH sh.a.
+Neni 8/1
+Përdorimi i ujit
+Për shfrytëzimin racional të ujit të burimeve të Bogovës, ndërmarrja e ujësjellësit Berat është e autorizuar të hartojë me koncesionarin një marrëveshje përdorimi të këtyre ujërave, ku të përcaktohen kuotat e shfrytëzimit nga të dyja Palët, si dhe mënyra e rregullimit të tyre.”.
+Për përdorimin me efiçencë të ujit, ndërmarrja e ujësjellësit Berat, në bashkëpunim me koncesionarin, autorizohen të hartojnë projektin për ndërtimin e një stacioni pompimi në dalje të bjefit të poshtëm të HEC-it të Bogovës, me qëllim dërgimin e ujit në tubacionin kryesor të ujësjellësit.
 Neni 9
 Puna, fuqia punëtore dhe riorganizimi i punës
 Marrëdhëniet e punës, punësimi i personelit do të realizohen sipas legjislacionit në fuqi.
@@ -99,8 +104,11 @@ Programi i punimeve
 Koncesionari detyrohet të rehabilitojë objektin sipas anekseve 2 dhe 3.
 1. Koncesionari garanton aktivizimin e programit të rehabilitimit brenda një afati prej 60 ditësh, nga data e marrjes në dorëzim të objektit të koncesionit.
 2. Koncesionari garanton të përfundojë investimin brenda afateve të shënuara në anekset 2 dhe 3.
+2/1. Afati i përfundimit të investimeve, i përcaktuar në anekset 2 dhe 3, shtyhen deri në datën 31.12.2006.
 3. Këto afate mund të ndryshohen me marrëveshje ndërmjet dy palëve.
 4. Nëse Koncesionari largohet ose heq dorë nga koncesioni, investimet e kryera nga Koncesionari deri në këtë moment, mbeten pronë e OSHA-së, pa shpërblim.
+5. Prodhimi i energjisë elektrike për vitet 2007 deri në fund të periudhës koncesionare është jo më pak se prodhimi i përcaktuar në aneksin 2 në kolonën: viti 2005-2006.
+Ndryshimi i programit vjetor të prodhimit mund të bëhet me miratim të OSHA-së, në rastet e ndryshimit të parametrave teknikë të objektit.
 Neni 11
 Zgjidhja e Marrëveshjes së koncesionit
 OSHA ose Koncesionari mund të kërkojë zgjidhjen e kësaj Marrëveshjeje, nëse Pala tjetër nuk plotëson detyrimet e parashikuara në të.
@@ -117,6 +125,7 @@ Koncesionari do të kryejë me shpenzimet e veta të gjitha llojet e riparimeve 
 Neni 14
 Kontrolli i përgjithshëm
 OSHA mund të ushtrojë një kontroll të përgjithshëm gjatë operacioneve të rehabilitimit dhe të përgatitjes për punë, nëpërmjet të autorizuarve në marrëveshje të përbashkët midis Koncesionarit dhe OSHA-së, me qëllim që të verifikojë nëse punimet janë në përputhje me programin e rehabilitimit dhe dokumentacionin e projektit.
+OSHA ushtron kontroll në objektin e dhënë me koncesion edhe gjatë kohës së shfrytëzimit, pas përfundimit të rehabilitimit të përcaktuar në këtë marrëveshje. Kontrolli kryhet nga persona të autorizuar nga OSHA-ja me qëllim verifikimin e shfrytëzimit dhe prodhimit, sipas parametrave teknikë të objektit të dhënë me koncesion, si dhe kryerjen e remonteve të parashikuara në udhëzimet e shfrytëzimit të pajisjeve.
 Në rast të shkeljeve të Marrëveshjes, konstatuar gjatë kontrollit të përgjithshëm, Koncesionari do të njoftohet me shkrim dhe do të vërë në zbatim masat e nevojshme për të ardhmen, në rast të kundërt ky rast mund të shërbejë si bazë për zgjidhjen e Marrëveshjes sipas përcaktimeve të nenit 10 të saj.
 Neni 15
 Legjislacioni i zbatueshëm
@@ -142,6 +151,7 @@ Neni 20
 Zbatimi i projektit
 Çdo muaj Koncesionari është i detyruar të raportojë me shkrim pranë OSHA-së, realizimin e programit të investimeve në vlerë dhe në natyrë, si dhe prodhimin e energjisë elektrike.
 Në përfundim të zbatimit të projektit rehabilitues mbi objektin e koncesionit, do të hartohet një dokument përfundimtar në të cilin do të konfirmohet se shoqëria ka përmbushur detyrimet e saj për rahabilitim, sipas kësaj Marrëveshjeje koncesioni.
+Me përfundimin e zbatimit të projektit rehabilitues mbi objektin e koncesionit, koncesionari është i detyruar që në fund të çdo tremujori, dhe sa herë e kërkon OSHA-ja, të raportojë me shkrim mbi ecurinë e punës në objekt, sipas një formulari që do të dërgohet nga OSHA-ja.
 Neni 21
 Zgjidhja e mosmarrëveshjeve
 Problemet ose mosmarrëveshjet ndërmjet Palëve, që kanë lidhje me zbatimin dhe interpretimin e kësaj Marrëveshjeje, nuk do të anulojnë detyrimet e Palëve sipas kësaj Marrëveshjeje.
@@ -150,7 +160,8 @@ Në të kundërt, çdo mosmarrëveshje që lidhet me këtë Marrëveshje, si shk
 Neni 22
 Sanksionet
 Mosrespektimi i afateve dhe kushteve të kësaj Marrëveshjeje penalizojnë Palët sipas një vendimi të gjykatës së mësipërme.
-Në rast shkeljeje të afatit të përcaktuar në nenin 10 pika 1, Koncesionari do t’i paguajë OSHA-së për çdo ditëvonesë penalitetin 0,01% të vlerës së investimit të parealizuar për çdo program rehabilitimi.
+Në rast shkeljeje të afatit të përcaktuar në nenin 10 pika 2, Koncesionari do t’i paguajë OSHA-së për çdo ditëvonesë penalitetin 0,01% të vlerës së investimit të parealizuar për çdo program rehabilitimi.
+Në rast mosrealizimi të programit të prodhimit, të përcaktuar në nenin 2 të kësaj marrëveshjeje, koncesionari penalizohet me 0.01% të vlerës së prodhimit të parealizuar për periudhën raportuese.
 Neni 23
 Bashkëpunimi ndërmjet OSHA-së dhe Koncesionarit
 Organi Shtetëror i Autorizuar (OSHA) dhe Koncesionari janë zotuar të bashkëpunojnë, në mënyrë që të garantojnë zbatimin e projektit.
@@ -159,7 +170,7 @@ OSHA
 Ministria e Ekonomisë
 Bulevardi ”Zhan d’Ark” nr.2
 Tiranë
-Ministria e Industrisë dhe e Energjetikës
+Ministria së Ekonomisë, Tregtisë dhe Energjetikës
 Sheshi Skënderbej nr.2
 Tiranë
 Koncesionari:
@@ -172,8 +183,7 @@ Tel/fax: 00355 4 268 240
 Palët kanë pranuar këtë Marrëveshje duke nënshkruar si më poshtë:
 Për Ministrinë e Ekonomisë
 z.Rozafat Shllaku
-Për Ministrinë e Industrisë dhe të Energjetikës
-z.Agim Bregasi
+Për Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës z.Agim Bregasi
 Për shoqërinë ”Wonder” sh.a.
 z.Vasil Gjika
 Aneksi 1
@@ -204,7 +214,7 @@ Dërgim uji në turbinë
 6.
 Fjetore punëtorësh
 74 m2
-Shënim: Ky inventar është marrë nga dokumenti ”Inventari i pasurive të paluajtshme të KESH sh.a.”, sjellë nga KESH sh.a. në Ministrinë e Industrisë dhe të Energjetikës me shkresën nr.4694, datë 13.6.2003.
+Shënim: Ky inventar është marrë nga dokumenti ”Inventari i pasurive të paluajtshme të KESH sh.a.”, sjellë nga KESH sh.a. në Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës me shkresën nr.4694, datë 13.6.2003.
 Aneksi 2
 PROGRAMI I REHABILITIMT TË HECIT BOGOVË
 Fuqia e instaluar
