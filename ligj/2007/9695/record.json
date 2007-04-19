@@ -1,0 +1,30 @@
+{
+  "qbz_id": 5213,
+  "title": "PËR PROCEDURAT E BIRËSIMIT DHE KOMITETIN SHQIPTAR TË BIRËSIMIT",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9695",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-03-19",
+  "published": "2007-04-04",
+  "in_force": "2007-04-19",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e7f786f22a82e306a06d36756ca86e9c3ed422f093197f14e1631b1f14323356.docx",
+  "source_sha256": "e7f786f22a82e306a06d36756ca86e9c3ed422f093197f14e1631b1f14323356",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5213",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2007/03/19/9695",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    64670,
+    12713,
+    16595
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
