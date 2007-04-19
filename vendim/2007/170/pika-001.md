@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Entit Rregullator të Telekomunikacioneve, për vitin 2007, në shumën 196 500 000 (njëqind e nëntëdhjetë e gjashtë milionë e pesëqind mijë) lekë, sipas strukturës së përcaktuar në lidhjen 1, që i bashkëlidhet këtij vendimi.
