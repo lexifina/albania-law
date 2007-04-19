@@ -1,0 +1,34 @@
+{
+  "qbz_id": 5211,
+  "title": "PËR FONDIN KULLOSOR",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9693",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-03-19",
+  "published": "2007-04-04",
+  "in_force": "2007-04-19",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e3b1f3b8e3235f7bf53ff787e90630576c354d4443fb2e22ad8a3bdde33a8947.docx",
+  "source_sha256": "e3b1f3b8e3235f7bf53ff787e90630576c354d4443fb2e22ad8a3bdde33a8947",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5211",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2007/03/19/9693",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29279,
+    29178,
+    58753,
+    9173,
+    7852,
+    17275,
+    63399
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
