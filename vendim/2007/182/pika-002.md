@@ -1,0 +1,1 @@
+2. Dhënien e bonusit prej 8 përqindësh të pikëve shoqërisë “KORRA”, sh.p.k., për rezultatin, teknik dhe financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), për dhënien me koncesion të këtij hidrocentrali.

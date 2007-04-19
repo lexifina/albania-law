@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues, për kryerjen e procedurave ligjore për dhënien, me koncesion, të formës “ROT” (rehabilitim, Operim dhe Transferim), të hidrocentralit ekzistues “Labinot Mal-Elbasan”, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
