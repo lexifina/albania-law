@@ -1,0 +1,1 @@
+8. Komiteti i Sigurisë së Anijeve dhe Portit vlerëson projektplanet e sigurisë dhe bashkërendon punën me palët operuese në port për zbatimin e tyre. Ky komitet mblidhet një herë në tre muaj. Me kërkesë të Autoritetit Shtetëror të Sigurisë ose të shoqërisë anonime, Porti Detar mund të mblidhet në periudha më të shkurtra ose jashtë radhe.

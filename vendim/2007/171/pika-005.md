@@ -1,0 +1,1 @@
+5. FSAP-ja është një forcë e armatosur dhe e pajisur me mjetet e nevojshme, për të siguruar portin dhe anijt nga çdo sulm i mundshëm, terrorist apo keqbërës, si dhe nga hyrja, në mënyrë të kundërligjshme, e shtetasve dhe e mjeteve në zonën objekt kontrolli të FSAP-së. Pajisjet, mjetet, uniforma dhe armatimi përshkruhen në aneksin 1/1, që i bashkëlidhet këtij vendimi.

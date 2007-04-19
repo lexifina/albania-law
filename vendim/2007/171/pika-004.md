@@ -1,0 +1,1 @@
+4. Kriteret profesionale dhe komisioni përkatës për përzgjedhjen (rekrutimin) e anëtarëve të FSAP-së hartohen nga shoqëria anonime, Porti Detar dhe miratohen nga Ministri i Punëve Publike, Transprotit dhe Telekomunikacionit.

@@ -1,0 +1,2 @@
+6. FSAP-ja, për çdo rast konstatimi të veprave penale, gjatë kryerjes së veprimtarisë së vet, siguron vendin e ngjarjes, provat materiale, bllokon autorët dhe njofton strukturat përkatëse të Policisë së Shtetit dhe prokurorinë, duke bashkëvepruar me këto organe për vazhdimin e procedimit penal.
+Gjithashtu, FSAP-ja, për çdo shkelje të natyrës doganore, i raporton, menjëherë, degës rajonale të doganave.

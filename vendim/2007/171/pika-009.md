@@ -1,0 +1,1 @@
+9. Rregullat e brendshme të hollësishme për funksionimin e FSAP-së, në përputhje me këtë vendim dhe në mbështetje të ligjit nr.9281, datë 23.9.2004 “Për sigurinë në anije dhe porte”, miratohen nga këshilli mbikëqyrës i shoqërisë anonime, Porti Detar.

@@ -1,0 +1,1 @@
+3. Drejtori i Forcës së Sigurisë në Anije dhe Port i jep llogari, drejtpërdrejt, drejtorit të shoqërisë anonime, Porti, Detar, për të gjithë veprimtarinë e sigurisë në port dhe anijet, që janë të ankoruara, në lëvizje nga dhe në drejtim të portit, ato të radës së portit, si dhe vepron sipas udhëzimeve të tij.
