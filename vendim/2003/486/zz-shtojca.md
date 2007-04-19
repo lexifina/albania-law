@@ -1,15 +1,14 @@
 # Shtojca
 Marrëveshje
 koncesioni Për hidrocentralin vendor Xhyrë
-ndërmjet Ministrisë së Ekonomisë dhe Ministrisë së Industrisë
-dhe TË Energjetikës
+ndërmjet Ministrisë së Ekonomisë dhe Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës
 Më poshtë referuar si Organi Shtetëror i Autorizuar (OSHA) dhe shoqërisë “AMAL”sh.p.k. Librazhd, përfaqësuar nga z.Agim Elezi, më poshtë referuar si “Koncesionari”.
 Meqenëse ekzistojnë këto kushte paraprake, Qeveria shqiptare:
 - konsideron privatizimin e sektorit elektroenergjetik si një mjet të rëndësishëm të politikës energjetike dhe konfirmon një interes të lartë në privatizimin e hidrocentraleve vendore, për të rehabilituar asetet publike të tyre (objektet dhe makineritë) që janë degraduar;
 - vlerëson formulën e koncesionit ROT, sepse kjo bën të mundur rehabilitimin e hidrocentraleve vendore pa prekur Buxhetin e Shtetit;
 - mirëpret investitorët vendas në rehabilitimin, ruajtjen e aseteve dhe të kapaciteteve prodhuese të hidrocentraleve vendore, si dhe në fuqizimin e disa prej tyre;
 - është e prirur për ngritjen dhe zhvillimin e tregut të energjisë elektrike brenda vendit dhe autorizon KESH sh.a-në si të vetmin blerës aktual të energjisë elektrike, të nënshkruajë një kontratë blerjeje me Koncesionarin;
-- autorizon, sipas vendimit të Këshillit të Ministrave nr.90, datë 13.2.2003 “Për fillimin e procedurës së dhënies me koncesion në formën ROT të hidrocentralit vendor Xhyrë”, Ministrinë e Ekonomisë dhe Ministrinë e Industrisë dhe të Energjetikës të negociojnë dhe të nënshkruajnë Marrëveshjen e koncesionit.
+- autorizon, sipas vendimit të Këshillit të Ministrave nr.90, datë 13.2.2003 “Për fillimin e procedurës së dhënies me koncesion në formën ROT të hidrocentralit vendor Xhyrë”, Ministrinë e Ekonomisë dhe Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të negociojnë dhe të nënshkruajnë Marrëveshjen e koncesionit.
 Koncesionari:
 - është seriozisht i interesuar të investojë në fushën e elektroenergjetikës;
 - ka ndërmarrë studimin tekniko- ekonomik për rehabilitimin dhe shfrytëzimin e hidrocentralit, objekt i koncesionit;
@@ -24,8 +23,7 @@ Kudo që në këtë kontratë përdoren termat e mëposhtëm, ato do të kenë k
 Marrëveshja e koncesionit: Kjo Marrëveshje.
 Kontratat: Të gjitha kontratat që mund të lidhen në të ardhmen nga Koncesionari.
 Ndryshimi i ligjit: Do të thotë çdo akt që ka karakter rregullator ose ligjor të miratuara nga autoritetet kompetente të Republikës së Shqipërisë ose që ka hyrë në fuqi pas nënshkrimit të kësaj kontrate.
-Organi Shtetëror i Autorizuar (OSHA): Ministria e Ekonomisë dhe Ministria e Industrisë dhe e Energjetikës.
-Lejet: Lejet, licencat, autorizimet dhe koncesionet që Koncesionari mund t’ua kërkojë autoriteteve kompetente në Republikën e Shqipërisë, për zbatimin e plotë të Projektit, si dhe për stafin e vet, në bazë të ligjeve në fuqi në Republikën e Shqipërisë.
+Organi Shtetëror i Autorizuar (OSHA): Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës. Lejet: Lejet, licencat, autorizimet dhe koncesionet që Koncesionari mund t’ua kërkojë autoriteteve kompetente në Republikën e Shqipërisë, për zbatimin e plotë të Projektit, si dhe për stafin e vet, në bazë të ligjeve në fuqi në Republikën e Shqipërisë.
 Koncesionari: “AMAL” sh.p.k. Librazhd.
 Hidrocentrali: Përcaktohet me vendimin e Këshillit të Ministrave nr.90, datë 13.2.2003 “Për fillimin e procedurës së dhënies me koncesion në formën ROT të hidrocentralit vendor Xhyrë”.
 Projekti: Studimi tekniko-ekonomik për rehabilitimin e hidrocentralit vendor Xhyrë (Librazhd) dhe në përputhje me formën ROT (Rehabilitim - Shfrytëzim - Transferim).
@@ -44,7 +42,7 @@ Detyrimet e Koncesionarit
 Koncesionari është i detyruar të zbatojë projektin dhe objektivat e Marrëveshjes lidhur me termat dhe kushtet e saj. Në detaje Koncesionari angazhohet që:
 - Të respektojë të gjitha dispozitat ligjore që rregullojnë veprimtarinë e shoqërive tregtare.
 - Të implementojë programin e rehabilitimit të hidrocentralit, objekt i koncesionit, për pjesën që është nën përgjegjësinë e tij, si dhe nëpërmjet bashkëpunimit aktiv me OSHA-në, sipas aneksit nr.1 dhe aneksit nr.2 bashkëlidhur kësaj Marrëveshjeje.
-Në hidrocentralin Xhyrë do të investohen 5.45 milionë lekë në vitet 2003-2004.
+Në hidrocentralin e Xhyrës, investimi prej 5.45 milionë lekë do të përfundojë brenda datës 30.6.2007.
 - Të marrë masa me qëllim që çdo investim të jetë sipas afateve të kësaj Marrëveshjeje dhe me cilësinë e kërkuar.
 - Të ruajë e të administrojë objektin e Marrëveshjes për prodhim të energjisë elektrike gjatë gjithë periudhës së koncesionit, në përputhje me specifikimet e kësaj Marrëveshjeje.
 - Të punësojë personelin aktual të hidrocentralit në koncesion dhe të mbajë numrin e nevojshëm të tyre gjatë shfrytëzimit sipas legjislacionit.
@@ -53,6 +51,7 @@ Në hidrocentralin Xhyrë do të investohen 5.45 milionë lekë në vitet 2003-2
 - Të realizojë kontrata të përshtatshme sigurimi për të mbuluar çdo risk të mundshëm gjatë kohëzgjatjes së koncesionit, edhe ndaj palëve të treta.
 - Në përfundim të afatit të koncesionit (30 vjet), Koncesionari është i detyruar t’i dorëzojë OSHA-së hidrocentralin në gjendje pune (përveç pasojave të forcave madhore), dhe me një rezervë të pjesëve të këmbimit për një vit.
 Koncesionari nuk përgjigjet për të gjitha detyrimet që objektet e marra në koncesion kanë ndaj shtetit dhe të tretëve deri në hyrjen në fuqi të kësaj Marrëveshjeje.
+Me përfundimin e zbatimit të projektit rehabilitues mbi objektin e koncesionit, koncesionari është i detyruar që në fund të çdo tremujori, dhe sa herë e kërkon OSHA-ja, të raportojë me shkrim mbi ecurinë e punës në objekt sipas një formulari që do të dërgohet nga OSHA-ja.
 Neni 5
 Detyrimet e OSHA-së
 Organi Shtetëror i Autorizuar (OSHA) angazhohet të garantojë dhe të marrë përsipër detyrimet e mëposhtme:
@@ -84,6 +83,8 @@ Palët angazhohen të respektojnë programin e mëposhtëm:
 2. Koncesionari garanton të përfundojë investimin brenda afateve të shënuara në nenin 4, në aneksin nr.1 dhe në aneksin nr.2.
 3. Nëse Koncesionari nuk kryhen programin e investimeve sipas nenit 4 të kësaj Marrëveshjeje, OSHA ka të drejtë të prishë Marrëveshjen në mënyrë të njëanëshme. Në këtë rast, investimet e bëra nga Koncesionari deri në momentin e heqjes së koncesionit, do të mbeten pronë e OSHA-së.
 4. Këto afate mund të ndryshohen me marrëveshje ndërmjet dy Palëve.
+5. Prodhimi i energjisë elektrike për vitet 2007 deri në fund të periudhës koncesionare, do të jetë jo më pak sesa prodhimi i përcaktuar në aneksin 1 në kolonën: viti 2005.
+Ndryshimi i programit vjetor i prodhimit mund të bëhet me miratim të OSHA-së, në rastet e ndryshimit të parametrave teknikë të objektit.
 Neni 10
 Zgjidhja e Marrëveshjes së koncesionit
 OSHA ose Koncesionari mund të kërkojë të anulojë këtë Marrëveshje nëse Pala tjetër nuk plotëson detyrimet për zbatimin e saj.
@@ -105,6 +106,7 @@ Koncesionari do të kryejë me shpenzimet e veta të gjitha llojet e riparimeve 
 Neni 14
 Kontrolli i përgjithshëm
 OSHA mund të ushtrojë një kontroll të përgjithshëm gjatë operacioneve të rehabilitimit dhe të përgatitjes për punë nëpërmjet të autorizuarëve në marrëveshje të përbashkët ndërmjet Koncesionarit dhe OSHA-së, me qëllim që të verifikojë nëse punimet janë në përputhje me programin e rehabilitimit dhe me dokumentacionin e projektit.
+OSHA-ja ushtron kontroll në objektin e dhënë me koncesion edhe gjatë kohës së shfrytëzimit, pas përfundimit të rehabilitimit të përcaktuar në këtë Marrëveshje. Kontrolli kryhet nga persona të autorizuar nga OSHA-ja me qëllim që të verifikojë shfrytëzimin dhe prodhimin, sipas parametrave teknikë të objektit të dhënë me koncesion, si dhe kryerjen e remonteve të parashikuara në udhëzimet e shfrytëzimit të pajisjeve.
 Në rast të shkeljeve të Marrëveshjes, konstatuar gjatë kontrollit të përgjithshëm, Koncesionari do të njoftohet me shkrim dhe do të vërë në zbatim masat e nevojshme për të ardhmen.
 Neni 15
 Legjislacioni i zbatueshëm
@@ -133,17 +135,18 @@ Gjykata e Arbitrazhit do të përbëhet nga tre anëtarë. Secila Palë do të e
 Neni 20
 Sanksionet
 Mosrespektimi i afateve dhe kushteve të kësaj Marrëveshjeje penalizojnë Palët sipas një vendimi të Gjykatës së mësipërme të Arbitrazhit.
-Në rast shkeljeje të afatit të përcaktuar në nenin 9 pika 1, Koncesionari do t’i paguajë OSHA-së për çdo ditë vonese penalitetin 0.01% të vlerës së investimit për çdo program rehabilitimi.
+Në rast shkeljeje të afatit të përcaktuar në nenin 9, pika 2 të marrëveshjes së koncesionit “Programi i punimeve”, koncesionari do t’i paguajë OSHA-së, për çdo ditë vonesë,penalitetin 0,01% të vlerës së investimit të parealizuar, për çdo program rehabilitimi.
+Në rast mosrealizimi të programit të prodhimit, të përcaktuar në nenin 3 të kësaj Marrëveshjeje, koncesionari penalizohet me 0,01% të vlerës së prodhimit të parealizuar për periudhën raportuese.
 Neni 21
 Marrja në dorëzim e H/C
-Pas miratimit të kësaj Marrëveshjeje nga Këshilli i Ministrave, marrja në dorëzim e hidrocentralit në koncesion do të bëhet brenda 15 ditëve, sipas një programi të përgatitur nga Ministria e Industrisë dhe e Energjetikës, Koncesionari dhe KESH sh.a.
+Pas miratimit të kësaj Marrëveshjeje nga Këshilli i Ministrave, marrja në dorëzim e hidrocentralit në koncesion do të bëhet brenda 15 ditëve, sipas një programi të përgatitur nga Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, Koncesionari dhe KESH sh.a.
 Neni 22
 Bashkëpunimi ndërmjet OSHA-së dhe Koncesionarit
 Organi Shtetëror i Autorizuar dhe Koncesionari janë zotuar të bashkëpunojnë në mënyrë që të garantojnë implementimin e projektit.
 Përveç rasteve kur bien dakord me shkrim për ndonjë formë tjetër, korrespondenca do të dërgohet me letër me postë, telegram ose fax, në adresat e mëposhtme:
 OSHA:
 Koncesionari:
-Ministria e Ekonomisë
+Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës
 Sherif Hoxha
 Bulevardi “Zhan d’Ark” nr.2
 Tiranë
@@ -151,18 +154,17 @@ Shoqëria “AMAL” sh.p.k
 Lagja nr.2
 Librazhd
 Nr.Tel.0682385174
-Ministria e Industrisë dhe e Energjetikës
+Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës
 Agim Bregasi
 Sheshi “Skënderbej” nr.2
 Tiranë
 President
 Agim Elezi
 Palët kanë pranuar këtë Marrëveshje, duke nënshkruar si më poshtë:
-Për Ministrinë e Ekonomisë
+Për Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës
 Sherif Hoxha
 Për Shoqërinë “AMAL” sh.p.k
-Për Ministrinë e Industrisë dhe të Energjetikës
-Agim Bregasi
+Për Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës Agim Bregasi
 Presidenti
 Agim Elezi
 Aneksi 1
