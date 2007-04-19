@@ -1,0 +1,1 @@
+5. Në rastet kur përfaqësuesi i subjektit ose personi i ngarkuar prej tij refuzon të nënshkruajë aktin e inspektimit, ky i fundit duhet të shënojë se refuzon ta nënshkruajë aktin e inspektimit, si dhe të japë arsyen, për të cilën e refuzon atë.

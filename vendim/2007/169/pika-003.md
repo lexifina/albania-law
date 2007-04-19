@@ -1,0 +1,1 @@
+3. Akti i inspektimit mbahet në 3 kopje, nga të cilat një kopje i dorëzohet subjektit, një kopje dërgohet në Drejtorinë e Përgjithshme të Inspektoratit Shtetëror të Punës dhe një kopje e mban inspektori i punës/grupi i inspektorëve të punës.

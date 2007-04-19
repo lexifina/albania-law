@@ -1,0 +1,1 @@
+6. Në rastet kur inspektori i punës/grupi i inspektorëve të punës vëren shkelje të legjislacionit të punës për mosdeklarimet e punëmarrësve në zyrën e punësimit dhe në Inspektoratin Shtetëror të Punës, këtij akti duhet t’i bashkëlidhet edhe lista me emrat dhe mbiemrat e punëmarrësve të padeklaruar.
