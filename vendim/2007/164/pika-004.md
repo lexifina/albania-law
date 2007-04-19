@@ -1,0 +1,1 @@
+4. Organet e Policisë së Shtetit, në rastet e një ndërhyrjeje urgjente, pas marrjes së njoftimit, zyrtar apo gojor, nga inspektorët e punës së drejtorive rajonale dhe zyrave vendore të inspektimit në punë, bashkëpunojnë me këta të fundit dhe me grupin e inspektorëve në ato subjekte, ku pengohet ushtrimi i detyrës së tyre.
