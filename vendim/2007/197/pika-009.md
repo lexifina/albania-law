@@ -1,0 +1,1 @@
+9. Shpërblimi i administratorit përballohet nga masa e falimentimit. Me vendim të gjykatës, shuma e shpërblimit dhe rimbursimi i shpenzimeve, në përputhje me këtë vendim, mund t’i parapaguhen administratorit të falimentimit.
