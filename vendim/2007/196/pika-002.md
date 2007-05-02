@@ -1,0 +1,1 @@
+2. Ministrisë së Brendshme, në buxhetin e miratuar për vitin 2007, t’i shtohet fondi prej 2 027 000 000 (dy miliardë e njëzet e shtatë milionë) lekësh, për prodhimin e dokumentit të identitetit të shtetasve shqiptarë.
