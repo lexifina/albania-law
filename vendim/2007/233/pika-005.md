@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, 1 741 600 (një milion e shtatëqind e dyzet e një mijë e gjashtëqind) lekë, të përballohet nga llogaria speciale, e krijuar si transfertë kapitale, për t’u përdorur për shpronësimet.
