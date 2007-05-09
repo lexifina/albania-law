@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5329,
+  "title": "PËR VENDOSJEN E GJOBËS KESH SHA",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "29",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2007-05-04",
+  "published": "2007-05-09",
+  "in_force": "2007-05-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/951880bedc75a6a0e89660c691e1edf60e72d650b75688f27ed599551770a2fd.docx",
+  "source_sha256": "951880bedc75a6a0e89660c691e1edf60e72d650b75688f27ed599551770a2fd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5329",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/05/04/29",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
