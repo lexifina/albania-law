@@ -1,0 +1,1 @@
+1. Drejtorisë së Përgjithshme të Doganave, në buxhetin e miratuar për vitin 2007, zëri “Investime” t’i shtohet fondi 110 (njëqind e dhjetë) milionë lekë, për modernizimin dhe migrimin e sistemit të automatizuar të procedurave doganore ASYCUDA ++në ASYCUDAWORLD, të zhvilluar nga konferenca e Kombeve të Bashkuara për tregti dhe zhvillim (UNCTAD).
