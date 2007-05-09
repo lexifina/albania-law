@@ -1,0 +1,1 @@
+6. Shqyrtimi i dokumentacionit të subjekteve konkurruese bëhet nga komisioni i ngritur për këtë qëllim, në prani të konkurrentëve apo personave të autorizuar me shkrim, prej tyre. Afati i shqyrtimit dhe shpallja e subjektit fitues nga komisioni bëhet brenda 20 ditëve nga data e dorëzimit të ofertave.

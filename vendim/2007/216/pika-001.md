@@ -1,0 +1,1 @@
+1. Restaurimi i monumenteve të kulturës, me fonde të vëna në dispozicion nga Buxheti i Shtetit, bëhet edhe nga subjekte private, të licencuara, për këtë qëllim, nga Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve, sipas dispozitave të ligjit nr.9048, datë 7.4.2003 “Për trashëgiminë kulturore”, të ndryshuar.
