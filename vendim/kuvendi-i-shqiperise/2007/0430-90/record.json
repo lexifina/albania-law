@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5296,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR SHKARKIM MINISTRI",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "90",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-04-30",
+  "published": "2007-05-09",
+  "in_force": "2007-05-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/09ec98cf645c29818bec11c6eafe9a78919994f5b79387e1cd07cc86e88b1f93.docx",
+  "source_sha256": "09ec98cf645c29818bec11c6eafe9a78919994f5b79387e1cd07cc86e88b1f93",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5296",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/04/30/90",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
