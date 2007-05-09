@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve të Jashtme, në buxhetin e miratuar për vitin 2007, t’i shtohet fondi prej 40 000 (dyzet mijë) eurosh (ekuivalenti në lekë sipas kursit të ditës), për financimin e veprimtarisë “VERNISSAGE” (Bienalja e pikturës), që do të zhvillohet në Venecia, Itali.
