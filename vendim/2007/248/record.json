@@ -1,0 +1,31 @@
+{
+  "qbz_id": 5323,
+  "title": "PËR  KRIJIMIN E AGJENCISË KOMBËTARE TË SHOQËRISË SË \nINFORMACIONIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "248",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-04-27",
+  "published": "2007-05-09",
+  "in_force": "2007-05-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f79c383b3ea72b0b8c648193102e2164ba50c9f9ede7478f69848440ded58883.docx",
+  "source_sha256": "f79c383b3ea72b0b8c648193102e2164ba50c9f9ede7478f69848440ded58883",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5323",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/04/27/248",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    9016,
+    7725,
+    14647,
+    17564
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
