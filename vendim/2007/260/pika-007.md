@@ -1,0 +1,1 @@
+7. Procedurat e përdorimit dhe të shpërndarjes së fondeve buxhetore, të miratuara si subvencion për blerjen e teksteve shkollore, përcaktohen me udhëzim të përbashkët të Ministrit të Financave dhe të Ministrit të Arsimit dhe Shkencës.
