@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës “ROT” (Rehabilitim, operim dhe transferim), të termocentralit të Fierit, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
