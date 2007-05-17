@@ -1,0 +1,6 @@
+1. Transferimin në pronësi, disa bashkive, të pronave, të cilat janë në përgjegjësi administrimi të Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror, të miratuara me vendimin nr.60, datë 1.2.2006 të Këshillit të Ministrave, si më poshtë vijon:
+a) Objekti me numër rendor 12, në formularin e inventarizimit të pronave të paluajtshme shtetërore “Qendra e shërbimeve për personat me aftësi të kufizuar”, Shkodër, të kalojë në pronësi të bashkisë së Shkodrës.
+b) Objekti me numër rendor 18, në formularin e inventarizimit të pronave të paluajtshme shtetërore “Qendra e shërbimeve për të moshuarit”, Kavajë, të kalojë në pronësi të bashkisë së Kavajës.
+c) Objekti me numër rendor 21, në formularin e inventarizimit të pronave të paluajtshme shtetërore “Qendra e shërbimeve për personat me aftësi të kufizuar”, Berat, të kalojë në pronësi të bashkisë së Beratit.
+ç) Objekti me numër rendor 30, në formularin e inventarizimit të pronave të paluajtshme shtetërore “Qendra e shërbimeve për personat me aftësi të kufizuar”, Korçë, të kalojë në pronësi të bashkisë së Korçës.
+d) Objekti me numër rendor 32, në formularin e inventarizimit të pronave të paluajtshme shtetërore “Qendra ditore e shërbimeve për personat me aftësi të kufizuar”, Korçë, të kalojë në pronësi të bashkisë së Korçës.
