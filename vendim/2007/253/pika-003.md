@@ -1,0 +1,1 @@
+3. Vendimet e Këshillit të Ministrave nr.320, datë 21.5.2004 “Për caktimin e elementeve të sigurisë dhe miratimin e formës së dokumentit të identitetit të shtetasve shqiptarë” dhe nr.579, datë 27.8.2004 “Për miratimin e modelit të dokumentit të identitetit të shtetasve shqiptarë”, shfuqizohen.
