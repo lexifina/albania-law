@@ -1,0 +1,1 @@
+1. Institucionet publike të trashëgimisë kulturore materiale, ku bëjnë pjesë muzetë kombëtarë, vendorë, tipologjikë apo në varësi të Akademisë së Shkencave, të cilët kanë në administrim objekte të luajtshme, pronë shtetërore, të trashëgimisë kulturore, me vlera të zakonshme, organizojnë ankand të hapur për shitjen e këtyre objekteve.

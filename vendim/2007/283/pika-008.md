@@ -1,0 +1,1 @@
+8. Në rastin kur Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve ka miratuar kërkesën për shitjen me ankand të objektit/eve, nxjerr urdhër për fillimin e procedurave të ankandit dhe për ngritjen e komisionit për zhvillimin e kësaj procedure.

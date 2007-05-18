@@ -1,0 +1,1 @@
+4. Objektet, që i nënshtrohen procedurës së ankandit, duhet të jenë regjistruar në Qendrën Kombëtare të Inventarizimit të Pasurive Kulturore (në vijim QKIPK), si dhe të jenë pajisur me pasaportën përkatëse, në përputhje me nenin 7 të ligjit nr.9048, datë 7.4.2003 “Për trashëgiminë kulturore”, të ndryshuar.

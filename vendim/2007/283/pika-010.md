@@ -1,0 +1,1 @@
+10. Pasi blerësi bën pagesën brenda afatit të parashikuar, drejtuesi i institucionit, që ka ofruar për shitje objektin/et, i dorëzon fituesit objektin/et, për të cilat është bërë më parë regjistrimi i ndryshimit të pronësisë, në bazë të të dhënave të QKPIK-së, së bashku me pasaportën përkatëse.
