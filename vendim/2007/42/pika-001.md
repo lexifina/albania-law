@@ -1,1 +1,0 @@
-1. Si bazë për përcaktimin e pagës minimale mujore, për efekt të llogaritjes së kontributeve të sigurimeve, shoqërore dhe shëndetësore, sipas sektorëve të ekonomisë, të shërbejë nomenklatura e veprimtarisë ekonomike, e përcaktuar në tabelën nr.1, që i bashkëlidhet këtij vendimi.
