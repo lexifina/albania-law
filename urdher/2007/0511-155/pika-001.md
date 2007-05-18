@@ -1,0 +1,2 @@
+1. Miratimin e Statutit të Organizatës së Menaxhimit të Peshkimit (OMP), Nartë, që i bashkëngjitet këtij urdhri.
+Ky urdhër hyn në fuqi menjëherë.
