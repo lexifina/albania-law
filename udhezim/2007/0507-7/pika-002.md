@@ -1,0 +1,1 @@
+2. Ministria e Financave e miraton kërkesën në rast se shpronësimi bëhet për projekte të programeve prioritare të Qeverisë dhe nëse fondet, në llogarinë “Fondi i shpronësimeve” pranë Bankës së Shqipërisë, janë të mjaftueshme.

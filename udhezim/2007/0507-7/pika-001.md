@@ -1,0 +1,1 @@
+1. Ministritë dhe institucionet qendrore të paraqesin në Ministrinë e Financave - Drejtorinë e Përgjithshme të Thesarit kërkesën për shpronësim, e cila duhet të ketë bashkëngjitur vendimin e Këshillit të Ministrave për shpronësimin e kërkuar.
