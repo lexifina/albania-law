@@ -1,0 +1,1 @@
+7. Enti Shtetëror i Farave dhe Fidanëve të informojë Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit për çdo kontingjent të farës që importohet dhe zonat ku do të mbillet. Drejtoria përkatëse e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit të njoftojë drejtorinë përkatëse të Ministrisë së Brendshme.

@@ -1,0 +1,1 @@
+5. Inspektorët e Entit Shtetëror të Farave dhe Fidanëve dhe ata të rretheve të ushtrojnë kontrolle sistematike në pikat e shitjes, të bllokojnë e sekuestrojnë çdo kontingjent që nuk vërteton origjinën e farës së kërpit industrial mbi qëllimin e përdorimit të saj dhe në rast nevoje të kërkojnë mbështetje nga Policia e Shtetit.

@@ -1,0 +1,1 @@
+6. Enti Shtetëror i Farave dhe Fidanëve të evidentojë të gjitha sasitë e farës së kërpit industrial që futen zyrtarisht në territorin e Republikës së Shqipërisë, zonat ku do të përdoret dhe sipërfaqet që do të mbillen. Në këtë proces monitorimi të bashkërendohet puna me Policinë e Shtetit.
