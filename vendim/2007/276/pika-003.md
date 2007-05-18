@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, pronë private, që shpronësohet, z.Nazmi Sinarezi, të kompensohet në vlerë të plotë, për sipërfaqen 650 m2, tokë bujqësore, me çmim 800 lekë/ m2, me vlerë të përgjithshme 520 000 (pesëqind e njëzet mijë) lekë.
