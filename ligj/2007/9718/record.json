@@ -1,0 +1,30 @@
+{
+  "qbz_id": 5334,
+  "title": "PËR URDHRIN E INFERMIERIT NË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9718",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-04-19",
+  "published": "2007-05-12",
+  "in_force": "2007-05-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/266664c98a651a49260ed35f477e69fd04f2f3f9a559f4cfb7311bfd534de1a3.docx",
+  "source_sha256": "266664c98a651a49260ed35f477e69fd04f2f3f9a559f4cfb7311bfd534de1a3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5334",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2007/04/19/9718",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29178,
+    11124,
+    13714
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
