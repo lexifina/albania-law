@@ -1,0 +1,1 @@
+1. Ministria e Mbrojtjes, me fondet e parashikuara në buxhetin e vitit 2007, të bëjë me INSIG sh.a., sigurimin e jetës dhe të aksidenteve në grup të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, që janë me mision ushtarak jashtë shtetit.
