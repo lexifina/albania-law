@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5371,
+  "title": "PËR ZGJEDHJEN E  AVOKATIT TË PROKURIMEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "102",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-05-21",
+  "published": "2007-05-31",
+  "in_force": "2007-05-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1793e25a21c779adead9ab48bb9b6ddae8b06c482ad20d96a27e6b7b8e71e8c8.docx",
+  "source_sha256": "1793e25a21c779adead9ab48bb9b6ddae8b06c482ad20d96a27e6b7b8e71e8c8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5371",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/05/21/102",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
