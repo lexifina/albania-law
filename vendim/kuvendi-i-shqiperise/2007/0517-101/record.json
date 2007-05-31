@@ -1,0 +1,28 @@
+{
+  "qbz_id": 5370,
+  "title": "PËR NGRITJEN E KOMISIONIT  TË POSAÇËM PARLAMENTAR PËR REFORMËN ZGJEDHORE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "101",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-05-17",
+  "published": "2007-05-31",
+  "in_force": "2007-05-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3d22311a49f1e4c2601c5adb82b16e7ff9fdfc1475abfb5241a80ecf6659d9e2.docx",
+  "source_sha256": "3d22311a49f1e4c2601c5adb82b16e7ff9fdfc1475abfb5241a80ecf6659d9e2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5370",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/05/17/101",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    5955
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
