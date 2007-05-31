@@ -4,7 +4,7 @@ Nr. 8088, datë 21.3.1996
 
 PëR SHOQERITë E BASHKëPUNIMIT RECIPROK
 
-(Ndryshuar me ligjin nr. 9039, datë 27.3.2003)
+              (Ndryshuar me ligjet; nr. 9039, datë 27.3.2003; nr. 9747, datë 31.5.2007)
 
 (i përditësuar)
 
@@ -68,7 +68,9 @@ Neni 8
 
 Emërtimi
 
-Shoqëritë e bashkëpunimit reciprok kanë emërtimin e tyre që caktohet në statut. Në shkresat, publikimet dhe të gjitha dokumentet e shoqërisë emërtimi i saj duhet të paraprihet nga fjalët "shoqëritë e bashkëpunimit reciprok", pas të cilave shënohet emri i saj dhe numri i regjistrimit të shoqërisë në gjykatë.
+(Ndryshuar fjalia e dytë me ligjin nr. 9747, datë 31.5.2007)
+
+Shoqëritë e bashkëpunimit reciprok kanë emërtimin e tyre që caktohet në statut. Emërtimi i shoqërisë në shkresat, publikimet dhe të gjitha dokumentet e saj duhet të paraprihet nga fjalët "shoqëritë e bashkëpunimit reciprok", pas të cilave shënohet emri i saj dhe numri i regjistrimit, i marrë nga organi i ngarkuar me ligj të veçantë për regjistrimin e tyre.
 
 Neni 9
 
@@ -476,15 +478,15 @@ Neni 52
 
 Kërkesat për regjistrim
 
-Kërkesa për regjistrimin e shoqërisë së bashkëpunimitreciprok duhet të bëhet nga kryetari i këshillit administrativ të shoqërisë dhe depozitohen në gjykatën e rrethit ku shoqëria ka selinë. 	Kërkesa për regjistrimin e shoqërisë duhet të paraqitet së bashku me statutin e saj.
+(Ndryshuar paragrafi i parë me ligjin nr. 9747, datë 31.5.2007)
+
+Kërkesa për regjistrimin e shoqërisë së bashkëpunimit reciprok duhet të bëhet nga kryetari i këshillit administrativ të shoqërisë dhe depozitohet pranë organit të ngarkuar me ligj të veçantë për regjistrimin. Aplikimi për regjistrimin e shoqërisë duhet të paraqitet së bashku me statutin e saj.	Kërkesa për regjistrimin e shoqërisë duhet të paraqitet së bashku me statutin e saj.
 
 Firmat që figurojnë në kërkesën për regjistrimin e shoqërisë së bashkëpunimit reciprok dhe firmat që figurojnë në statutin e saj, duhet të vërtetohen si autentike nga noteri.
 
 Neni 53
 
-Plotësimi i regjistrit
-
-Shoqëria e bashkëpunimit reciprok regjistrohet në një regjistër të veçantë, që mbahet në gjykatën e rrethit ku ka selinë shoqëria.
+(Shfuqizuar paragrafi i parë me ligjin nr. 9747, datë 31.5.2007)
 
 Deklarohen dhe regjistrohen lloji, kohëzgjatja, nëse kjo është përcaktuar, emërtimi, selia, objekti i veprimtarisë, vlera e pjesëve të kapitalit dhe emrat, mbiemrat, datëlindjet dhe vendlindjet e anëtarëve të këshillit administrativ. 
 
@@ -492,15 +494,11 @@ Depozitohen në aneksin e regjistrit kërkesa dhe statuti i shoqërisë së bash
 
 Neni 54
 
-Miratimi
+(Ndryshuar me ligjin nr. 9747, datë 31.5.2007)
 
-Shoqëria e bashkëpunimit reciprok miratohet nga gjykata e rrethit ku ndodhet selia e shoqërisë. Kërkesa për regjistrim duhet të depozitohet brenda një muaji nga data e themelimit të shoqërisë.
+Shoqëria e bashkëpunimit reciprok regjistrohet pranë organit të ngarkuar me ligj të veçantë për regjistrimin e tyre.
 
-Kërkesa për regjistrimin e shoqërisë miratohet kur statuti i saj është në përputhje me ligjin dhe kur të gjitha dokumentet e kërkuara nga ligji janë të plotësuara.
-
-Gjykata e rrethit detyrohet të njoftojë vendimin e saj brenda dy muajve nga data e depozitimit të kërkesës. Miratimi konsiderohet si i marrë, në rast se shoqërisë nuk i jepet asnjë lloj njoftimi brenda dy muajve nga data e depozitimit të kërkesës. Gjykata e rrethit detyrohet t'i njoftojë shoqërisë së miratuar vendimin e miratimit dhe numrin e regjistrimit të saj në regjistrin e shoqërisë së bashkëpunimit reciprok, që mbahet në gjykatë. 
-
-Kundër vendimit të gjykatës së rrethit që refuzon miratimin e shoqërisë së bashkëpunimit reciprok, shoqëria ka të drejtë të ankohet në gjykatën e apelit, brenda 5 ditëve nga data e shpalljes ose komunikimit të vendimit.
+Procedurat, afatet e regjistrimit dhe procedura ankimore kundër vendimit, që refuzon regjistrimin e shoqërisë së bashkëpunimit reciprok, rregullohen sipas procedurave të parashikuara me ligj të veçantë.
 
 KREU VII
 
