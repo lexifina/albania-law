@@ -1,0 +1,2 @@
+# Neni 5
+Ministria e Punëve të Jashtme, Ministria e Mbrojtjes, Ministria e Brendshme, Ministria e Punëve Publike, Transportit dhe Telekomunikacionit, Ministria e Financave, Shërbimi Informativ i Shtetit dhe institucionet e tjera shtetërore e strukturat në varësi të tyre, të cilave u kërkohet bashkëpunim, në kuadër të operacionit të përbashkët të masave të sigurisë, e ofrojnë menjëherë bashkëpunimin e kërkuar, sipas objektit të veprimtarisë shtetërore, që kryejnë në përputhje me legjislacionin në fuqi.

@@ -1,0 +1,2 @@
+# Neni 4
+Statusi i forcave ushtarake të SHBA-së është përcaktuar në “Marrëveshjen plotësuese ndërmjet Qeverisë së Republikës së Shqipërisë dhe Qeverisë së Shteteve të Bashkuara të Amerikës të “Marrëveshjes ndërmjet shteteve palë në Traktatin e Atlantikut Verior dhe shteteve të tjera pjesëmarrëse në Partneritetin për Paqe, në lidhje me statusin e forcave të tyre”, për statusin e forcave të Shteteve të Bashkuara të Amerikës në Republikën e Shqipërisë”, nënshkruar më datë 31.3.2004 dhe ratifikuar nga Kuvendi me ligjin nr.9246, datë 24.6.2004.
