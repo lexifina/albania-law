@@ -1,0 +1,4 @@
+# Neni 32
+Shfuqizimi e revokimi i licencës/autorizimit
+Përveç vendosjes së gjobave të parashikuara në nenin 31 të këtij ligji, Autoriteti i Kontrollit Shtetëror të Eksporteve mund të revokojë licencën, autorizimin dhe certifikatën ndërkombëtare të importit, dhënë këtyre subjekteve, ose të bëjë çregjistrimin e këtyre subjekteve.
+Në rastin kur një subjekt ligjor, i përfshirë në transferimin ndërkombëtar të mallrave, i cili ka të drejtën e importit, eksportit të mallrave ushtarake dhe atyre me përdorim të dyfishtë, që përbëjnë sekret shtetëror, kryen shkeljet e parashikuara në pikat 1 deri në 6 të nenit 30 të këtij ligji, ose në rastet kur, si pasojë e kësaj shkeljeje, ka pasur dëmtim të ndjeshëm të interesave politikë dhe ekonomikë të shtetit, Këshilli i Ministrave, me propozimin e Autoritetit të Kontrollit Shtetëror të Eksporteve, nëpërmjet Ministrit të Mbrojtjes, shfuqizon garancinë e dhënë këtij subjekti. Ky akt është i paankimueshëm në gjykatë.

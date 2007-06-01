@@ -1,0 +1,5 @@
+# Neni 28
+Kontrolli shtetëror për përdorimin e licencave, autorizimeve dhe certifikatave ndërkombëtare të importit
+Subjektet e përfshira në transferimet ndërkombëtare të mallrave, që kanë marrë licencë, autorizim dhe certifikatë ndërkombëtare importi, paraqesin tek Autoriteti i Kontrollit Shtetëror të Eksporteve raport me shkrim për kryerjen, në fakt, të transferimeve të mallrave të përmendura në këto dokumente dhe për përdorimin e këtyre mallrave sipas qëllimit të deklaruar.
+Formati i raportit, afatet dhe koha e paraqitjes së tyre përcaktohen nga Autoriteti i Kontrollit Shtetëror të Eksporteve.
+Një subjekt, i përfshirë në transferimet ndërkombëtare të mallrave, me kërkesën e Autoritetit të Kontrollit Shtetëror të Eksporteve, paraqet dokumentet dhe informacionin e nevojshëm për veprimtarinë e tij në fushën e kontrollit të eksporteve, përfshirë këtu dokumentet e garancisë, certifikatat teknike dhe dokumente të tjera, për nënshkrimin dhe zbatimin e një marrëveshjeje/kontrate ekonomike me jashtë në transferimet ndërkombëtare të mallrave. Ky subjekt është i detyruar t’i ruajë dhe t’i mbajë për 10 vjet këto dokumente.
