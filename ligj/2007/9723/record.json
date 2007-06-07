@@ -1,0 +1,33 @@
+{
+  "qbz_id": 5361,
+  "title": "PËR QENDRËN KOMBËTARE TË REGJISTRIMIT",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9723",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-05-03",
+  "published": "2007-05-23",
+  "in_force": "2007-06-07",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/52a330fda1c36e6c28f70dceb4761fd1ccaa6780b9fdd4c905943b4c958d5a72.docx",
+  "source_sha256": "52a330fda1c36e6c28f70dceb4761fd1ccaa6780b9fdd4c905943b4c958d5a72",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5361",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2007/05/03/9723",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    65536,
+    20297,
+    12682,
+    11789,
+    8613,
+    67706
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
