@@ -1,0 +1,3 @@
+8. Oferta, që garanton perspektivë më të mirë zhvillimi, vlerësohet me përparësi nga bordi. Kur rezultojnë dy ose më shumë oferta me të njëjtën shumë pikësh, përsa i përket planit të zhvillimit, bordi vlerëson si fituese ofertën, që jep çmimin më të lartë të qirasë.
+Çmimi dysheme i dhënies me qira të tokave bujqësore, të pandara, me të cilin fillon ankandi, nuk mund të jetë më i ulët se 6 000 (gashtë) mijë lekë/ha, në një vit kalendarik.
+Në raste të veçanta, kur sipërfaqet e kërkuara për qiradhënie janë mbi 10 ha dhe në planbiznesin e paraqitur parashikohen investime të mirargumentuara, me propozimin e Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe me miratim të Këshillit të Ministrave, çmimi i qiradhënies mund të vendoset 1 euro për çdo hektar.

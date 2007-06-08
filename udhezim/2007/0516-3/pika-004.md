@@ -1,0 +1,3 @@
+4. Njoftimi përmban qëllimin e dhënies me qira të tokës për (pemëtore, vresht, ullishtë, bimë arrash, serra etj.), sipërfaqen, vendin e paraqitjes së dokumenteve, afatin përfundimtar të paraqitjes së ofertave.
+Vendi, data dhe ora e zhvillimit të ankandit vendosen nga kryetari i bordit, në bashkërendim me përfaqësuesin e drejtorisë rajonale të bujqësisë dhe ushqimit dhe përfaqësuesin e seksionit të administrimit dhe mbrojtjes së tokës, në qark.
+Njoftimi publikohet në Buletinin e Njoftimeve Zyrtare dhe, nëse është e mundur, edhe në mediat vendore. Njoftimi shpallet dhe në mjediset e njësisë së qeverisjes vendore.

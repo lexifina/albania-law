@@ -1,0 +1,1 @@
+5. Periudha nga data e njoftimit deri në datën e zhvillimit të ankandit është 15 ditë. Kur data e zhvillimit të ankandit bie në ditët e pushimit javor ose të festave zyrtare, ankandi zhvillohet në ditën e parë të punës pas pushimit.

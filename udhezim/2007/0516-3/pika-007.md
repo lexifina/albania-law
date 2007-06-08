@@ -1,0 +1,1 @@
+7. BQTBP-ja mblidhet, me pjesëmarrje të plotë të anëtarëve, në datën dhe orën e caktuar në njoftim. Veç anëtarëve të bordit, në hapjen e ofertave marrin pjesë edhe ofertuesit ose përfaqësuesit e tyre, të pajisur me prokurë dhe dokumente identifikimi.

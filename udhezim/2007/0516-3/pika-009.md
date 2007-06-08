@@ -1,0 +1,1 @@
+9. Pas shqyrtimit të ofertave, BQTBP-ja tërhiqet për të marrë vendim pa pjesëmarrjen e konkurruesve. Vendimi u komunikohet pjesëmarrësve në ankand brenda 5 ditëve punë. Vendimet e BQTBP-së janë të vlefshme, kur për to votojnë më shumë se gjysma e anëtarëve të pranishëm.

@@ -1,0 +1,3 @@
+11. Ndërmjet komunës dhe/ose bashkisë, që përfaqësohet nga kryetari, dhe fituesit të ankandit ose kërkuesit për marrjen me qira të tokës bujqësore nënshkruhet kontrata tip, përmbajtja dhe forma e së cilës miratohen me urdhër të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
+Në rast se personi i shpallur fitues nga BQTBP-ja refuzon lidhjen e kontratës, ftohet, për lidhjen e kontratës, fituesi i vendit të dytë, të tretë e kështu me radhë.
+Kontrata regjistrohet kundrejt tarifës së përcaktuar në vendimin nr.549, datë 26.8.1996 të Këshillit të Ministrave, në zyrën vendore të regjistrimit të pasurive të paluajtshme (ZVRPP).
