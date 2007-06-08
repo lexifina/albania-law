@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion, të formës “BOT” (ndërtim, operim dhe transferim), të hidrocentraleve “Rapuni 1”, “Rapuni 2” e “Rapuni 3” është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
