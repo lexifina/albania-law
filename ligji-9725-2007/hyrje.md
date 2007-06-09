@@ -1,0 +1,7 @@
+LIGJ
+Nr.9725, datë 7.5.2007
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË PROTOKOLLIN SHTESË TË PAKTIT NDËRKOMBËTAR PËR TË DREJTAT CIVILE DHE POLITIKE
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
