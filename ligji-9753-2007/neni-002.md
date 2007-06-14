@@ -1,0 +1,6 @@
+# Neni 2
+Në zbatim të nenit 28 të kësaj konvente, Republika e Shqipërisë paraqet rezervat si më poshtë:
+a) Në përputhje me paragrafin e parë të nenit 28 të kësaj konvente, në mungesë të zbatimit të reciprocitetit me shtetin, shtetas i të cilit është kërkuesi i ndihmës juridike, Republika e Shqipërisë rezervon të drejtën të përjashtojë zbatimin e nenit 1 të konventës për personat, të cilët nuk janë shtetas të një shteti palë në këtë konventë, por që janë rezidentë të zakonshëm në një shtet palë, të ndryshëm nga shteti rezervues, ose që kanë qenë më parë rezidentë të zakonshëm në shtetin rezervues.
+b) Në përputhje me nenet 7 dhe 28 paragrafi i dytë shkronja “a” të kësaj konvente, Republika e Shqipërisë merr parasysh vetëm ato kërkesa, të cilat hartohen në gjuhën shqipe, ose që shoqërohen nga një përkthim në gjuhën shqipe.
+c) Paragrafi i dytë i nenit 13 të konventës nuk zbatohet për shtetasit e atyre shteteve, të cilat kanë paraqitur rezerva, në përputhje me shkronjën “b” të nenit 28 të konventës, si dhe për personat, të cilët kanë rezidencë të zakonshme në këto shtete.
+ç) Parashikimet e kapitullit II të konventës nuk zbatohen për shtetasit e atyre shteteve, të cilat kanë paraqitur rezerva, në përputhje me shkronjën “c” të nenit 28 të konventës, si dhe për personat, të cilët kanë rezidencë të zakonshme në këto shtete.
