@@ -1,1 +1,1 @@
-1. Numri i punonjësve buxhetorë, për ministritë dhe institucionet qendrore, për vitin 2007, është 106 480 veta, për periudhën janar- 31 maj 2007, dhe 102 052 veta, për periudhën 1 qershor-dhjetor 2007, sipas lidhjes 1, që i bashkëlidhet këtij vendimi.
+1. Numri i punonjësve buxhetorë, për vitin 2007, për ministritë dhe institucionet qendrore, është 102 067 veta, për periudhën 1 qershor-dhjetor 2007, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi.
