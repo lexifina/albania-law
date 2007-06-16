@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2007, në programin “Administrim, planifikim, menaxhim”, në zërin “Shpenzime kapitale, të trupëzuara”, t’i shtohet fondi prej 50 000 000 (pesëdhjetë milionë) lekësh, për financimin e projektit “Rikonstruksioni dhe shtesa anësore e ndërtesës së selisë së Ministrisë së Shëndetësisë”.
