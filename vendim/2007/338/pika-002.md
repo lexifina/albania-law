@@ -1,0 +1,1 @@
+2. Ndryshimi i përgjegjësisë së administrimit nga Drejtoria e Përgjithshme e Pyjeve dhe Kullotave, në Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave te Ministria e Brendshme, sipas pikës 1 të këtij vendimi bëhet për territorin funksional, ku është vendosur stacioni bazë, si dhe për mjediset e tjera ndihmëse të stacionit.

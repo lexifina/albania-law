@@ -1,0 +1,1 @@
+3. Marrëdhëniet e Ministrisë së Brendshme me personat e tretë, publikë apo privatë, që kanë ndërtuar ose kanë marrë me qira stacione, në tokat e përmendura në pikën 1 të këtij vendimi, të rregullohen sipas dispozitave të Kodit Civil.
