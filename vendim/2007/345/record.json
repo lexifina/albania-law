@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5445,
+  "title": "PËR DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR.832, DATË 11.12.2003 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLORES SË ADMINISTRIMIT TË QYTETIT-MUZE TË GJIROKASTRËS”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "345",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-06-06",
+  "published": "2007-06-27",
+  "in_force": "2007-06-27",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare prej datës 1 korrik 2007\": the publication day (its effects reach back to 1 korrik 2007)",
+  "source": "https://qbz.gov.al/files/821bc305e2619c9e5d292e489425af358c1fe23a788e5272b5c656b9e8c9b82f.docx",
+  "source_sha256": "821bc305e2619c9e5d292e489425af358c1fe23a788e5272b5c656b9e8c9b82f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5445",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/06/06/345",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
