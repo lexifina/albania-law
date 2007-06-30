@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen, në qytetin e Shkodrës, të institucionit arsimor privat, parauniversitar, të arsimit të mesëm profesional “Peter Mahringer”, që do të zhvillojë mësimin edhe në gjuhën gjermane.
