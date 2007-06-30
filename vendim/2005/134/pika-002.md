@@ -9,5 +9,6 @@ e) dy specialistë për projektet e SEDM-së në sektorin e SEDM-CC-së, të jen
 ë) shefi i sektorit të protokollit dhe administratës të jetë ushtarak;
 f) specialist dhe koordinator i SEDM-së në sektorin e protokollit dhe administratës, të jetë ushtarak ose civil;
 g) shefi i zyrës së planfinancës të jetë ushtarak ose civil;
-gj) specialist, llogaritar ose arkëtar në zyrën e planfinancës të jetë ushtarak ose civil.
-Shtesat në personelin e sekretariatit të përfshihen brenda numrit limit të punonjësve të Ministrisë së Mbrojtjes.
+gj) specialist, llogaritar ose arkëtar në zyrën e planfinancës të jetë ushtarak ose civil.”.
+- Në fund të kësaj pike shtohet paragrafi me këtë përmbajtje:
+“Shtesat në personelin e sekretariatit të përfshihen brenda numrit limit të punonjësve të Ministrisë së Mbrojtjes.
