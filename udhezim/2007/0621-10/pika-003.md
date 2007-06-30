@@ -1,0 +1,1 @@
+3. Në vlerësimin e profesioneve apo punësimeve konkrete, për efekt të pagës referuese, të përdoret si referencë edhe vendimi i Këshillit të Ministrave nr.272, datë 8.5.1995 “Për miratimin e nomenklaturës së profesioneve dhe punësimeve”.

@@ -1,0 +1,2 @@
+14. Gjatë kryerjes së verifikimeve e kontrolleve, punonjësit e autorizuar të degës së tatimeve, shqyrtojnë pagat e deklaruara nga subjekti në listëpagesa dhe kryejnë rivlerësimet e nevojshme të tyre duke iu referuar detyrës/funksionit/profesionit apo punës të çdo punëmarrësi dhe niveleve të pagave të përcaktuara në vendimin e Këshillit të Ministrave.
+Ky udhëzim hyn në fuqi me botimin në Fletoren Zyrtare.

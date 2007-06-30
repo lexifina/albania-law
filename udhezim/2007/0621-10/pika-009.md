@@ -1,0 +1,1 @@
+9. Paga referuese, për efekt të llogaritjes së kontributeve të sigurimeve shoqërore dhe shëndetësore, dhe tatimit mbi të ardhurat nga punësimi, për punëmarrësit që gjatë muajit kryejnë punë të ndryshme, do të klasifikohet e merret në atë lloj punësimi apo profesion ku është kryer mbi 50 për qind të kohës mujore të punës.

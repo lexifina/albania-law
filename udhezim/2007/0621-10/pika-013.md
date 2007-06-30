@@ -1,0 +1,3 @@
+13. Në formularin “Pasqyra e të punësuarve rishtazi dhe e të larguarve” nr. E-SIG 027/a, që të gjithë personat juridikë dhe fizikë dorëzojnë në degën e tatimeve sa herë që rasti është i tillë, pra ka të punësuar të rinj ose të larguar, të bëhen këto shtesa:
+- Në rubrikën 3, pas statusit të tatimpaguesit, të shtohen: “Veprimtaria kryesore” dhe “Veprimtari të tjera”.
+- Pas kolonës “emri, mbiemri”, të shtohet një kolonë me emërtimin “Veprimtaria dhe rrethi ku do të punojë” dhe një kolonë “Detyra/funksioni/profesioni apo puna që ka kryer”, në të cilin do të punojë punëmarrësi i asaj dege/njësie ose ka punuar punëmarrësi i larguar. Modeli i formularit bashkëlidhur këtij udhëzimi.
