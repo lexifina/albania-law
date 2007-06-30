@@ -1,0 +1,1 @@
+2. Fondi 24 821 972 (njëzet e katër milionë e tetëqind e njëzet e një mijë e nëntëqind e shtatëdhjetë e dy) lekë, i nevojshëm për mbulimin e shpenzimeve, që rrjedhin nga zbatimi i këtij vendimi, të përballohet nga buxheti i vitit 2007, miratuar për Institutin e Sigurimeve Shoqërore.
