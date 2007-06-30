@@ -1,0 +1,3 @@
+9. Aplikimi për leje fluturimi
+9.1. Për marrjen e lejes për mjetet fluturuese ushtarake të huaja, për të hyrë në hapësirën ajrore të Republikës së Shqipërisë, për t’u ulur apo për të fluturuar mbi territorin e Republikës së Shqipërisë, shteti/organizata e huaj duhet të dorëzojë një aplikim, në përputhje me formatin e përcaktuar nga Ministria e Mbrojtjes, në institucionet e parashikuara në pikën 3, të paktën 7 ditë pune para datës së parashikuar për hyrje.
+9.2. Në raste të veçanta, një aplikim për leje fluturimi mund të pranohet pa qenë nevoja të përmbushen parashikimet e përcaktuara në nënpikën 9.1.

@@ -1,0 +1,4 @@
+11. Lëshimi i lejes së fluturimit
+11.1. Ministri i Mbrojtjes dhe Ministri i Punëve Publike, Transportit dhe Telekomunikacionit ose personi i autorizuar prej tyre, pasi kontrollojnë informacionin e dhënë në aplikim, po jo të kufizuar vetëm në të, dhe brenda një dite pune nga marrja e mendimeve nga institucionet e interesuara, marrin vendim për të lëshuar ose jo lejen për mjetet fluturuese ushtarake të huaja, për hyrjen, uljen dhe fluturimin në hapësirën ajrore të Republikës së Shqipërisë.
+11.2. Ministria e Mbrojtjes informon shtetin/organizatën e huaj për vendimin për aplikimin, të paktën dy ditë pune para datës së planifikuar për hyrje.
+11.3. Leja e fluturimit mund të lëshohet tek aleatët ushtarakë të Shqipërisë brenda një dite pune nga marrja e aplikimit, pa zbatuar përcaktimet e këtij kreu.

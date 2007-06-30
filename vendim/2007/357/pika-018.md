@@ -1,0 +1,5 @@
+18. Mbërritja në Shqipëri në bazë të një hyrjeje shumëkalimshe për mjetet ushtarake, të transportit dhe/ose të blinduara, të huaja
+18.1. Në bazë të një lejeje shumëkalimshe, të dhënë sipas nënpikës 2.3, shteti/organizata e huaj, që ka përfaqësi diplomatike apo përfaqësi në Shqipëri, lajmëron Ministrinë e Mbrojtjes për hyrjen e planifikuar, tri ditë pune përpara. Ministria e Mbrojtjes dërgon informacionin e marrë brenda një dite nga marrja e tij tek institucionet e tjera të interesuara.
+18.2. Në bazë të një lejeje shumëkalimshe, të dhënë sipas nënpikës 2.3, shteti/organizata e huaj, që nuk ka përfaqësi diplomatike apo përfaqësi në Shqipëri, lajmëron përfaqësinë diplomatike të Shqipërisë, që mbulon përfaqësimin e Republikës së Shqipërisë në këtë shtet, për hyrjen e planifikuar tri ditë pune përpara hyrjes së planifikuar. Përfaqësia diplomatike shqiptare e dërgon informacionin te Ministria e Mbrojtjes, brenda një dite pune nga marrja e njoftimit. Ministria e Mbrojtjes e dërgon informacionin e marrë brenda një dite nga marrja e tij tek institucionet e tjera të interesuara.
+KREU V
+RASTE TË VEÇANTA

@@ -1,0 +1,5 @@
+10. Marrja e mendimit nga institucionet e interesuara
+10.1. Ministria e Mbrojtjes dërgon aplikimin për leje fluturimi të shtetit të huaj te Shtabi i Përgjithshëm i Forcave të Armatosura, për të shprehur mendimin brenda një dite pune nga marrja e aplikimit. Nëse është e domosdoshme dhe brenda afatit të përcaktuar më sipër, Ministria e Mbrojtjes mund ta dërgojë aplikimin tek institucionet e tjera, që kanë interes për dhënie mendimi.
+10.2. Nëse një mjet fluturues ushtarak i huaj planifikon të ulet në territorin shqiptar, Ministria e Mbrojtjes dërgon aplikimin, brenda një dite pune nga marrja e aplikimit tek institucionet që kanë interes.
+10.3. Me mbërritjen e një mjeti fluturues ushtarak të huaj nga një rajon epidemik, kapiteni i mjetit fluturues dorëzon deklaratën përkatëse te Ministria e Mbrojtjes, e cila e dërgon atë tek institucionet përgjegjëse, për të shprehur mendimin brenda një dite pune nga marrja e aplikimit.
+10.4. Në rast se institucionet, të cilave iu është kërkuar mendimi rreth lejes së kërkuar, nuk përgjigjen sipas afateve të përcaktuara në kërkesën e Ministrisë së Mbrojtjes, atëherë mendimi do të vlerësohet pozitiv për lëshimin e lejes për hyrje.

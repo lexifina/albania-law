@@ -1,0 +1,3 @@
+15. Marrja e mendimit nga institucionet e interesuara
+15.1. Ministria e Mbrojtjes dërgon aplikimin te Shtabi i Përgjithshëm i Forcave të Armatosura për të shprehur mendimin e tyre brenda 1 dite pune nga marrja e aplikimit. Nëse gjykohet e domosdoshme dhe brenda afatit të mësipërm, Ministria e Mbrojtjes ia dërgon aplikimin Ministrisë së Punëve të Jashtme, Ministrisë së Brendshme dhe ndonjë institucioni tjetër, që ka interes.
+15.2. Në rast se institucionet, të cilave iu është kërkuar mendim rreth lejes së kërkuar, nuk përgjigjen sipas afateve të përcaktuara në këtë vendim, atëherë mendimi do të vlerësohet pozitiv për lëshimin e lejes për hyrje.

@@ -1,0 +1,6 @@
+2. Objekti i lejes
+2.1. Leja për mjetet lundruese ushtarake të huaja, mjetet fluturuese ushtarake të huaja dhe mjetet e transportit, dhe/ose të blinduara, ushtarake të huaja, është baza mbi të cilën këto mjete mund të hyjnë në territorin e Republikës së Shqipërisë.
+2.2. Leja për mjetet lundruese ushtarake të huaja, mjetet fluturuese ushtarake të huaja dhe mjetet e transportit, dhe/ose të blinduara, ushtarake të huaja, në përgjithësi, lëshohet për një hyrje.
+2.3. Leja për mjetet lundruese ushtarake të huaja, mjetet fluturuese ushtarake të huaja dhe mjetet e transportit dhe/ose të blinduara ushtarake të huaja, mund të lëshohet për shumë hyrje dhe për një periudhë deri në një vit për aleatët ushtarakë të Shqipërisë dhe për shtetet e tjera, të cilat bashkëpunojnë apo marrin pjesë në projektet e Republikës së Shqipërisë.
+2.4. Lejet, përveç kur është përcaktuar ndryshe në këtë vendim, lëshohen me urdhër të përbashkët të Ministrit të Mbrojtjes dhe Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit ose të një personi të autorizuar prej tyre.
+2.5. Ministri i Mbrojtjes lajmëron autoritetet e ruajtjes së kufirit shtetëror dhe institucionet e tjera të interesuara për lejen e lëshuar.
