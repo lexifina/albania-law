@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5487,
+  "title": "PËR DISA SHTESA E NDRYSHIME NË VENDIMIN NR.123, DATË 15.3.2001 TË KËSHILLIT TË MINISTRAVE “PËR RREGULLAT E PROCESIT TË KLASIFIKIMIT TË SEKRETIT SHTETËROR, PROCEDURAT, QË PËRDOREN PËR IDENTIFIKIMIN E TIJ, DHE TË DELEGIMIT TË AUTORITETIT TË KLASIFIKIMIT",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "389",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-06-28",
+  "published": "2007-07-06",
+  "in_force": "2007-07-06",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/27113e838c3e9473ca41757a9a672ff6864c1fc65918e587ff4501c485a43057.docx",
+  "source_sha256": "27113e838c3e9473ca41757a9a672ff6864c1fc65918e587ff4501c485a43057",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5487",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/06/28/389",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
