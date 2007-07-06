@@ -1,0 +1,1 @@
+4. Sëmundjet profesionale, deklarohen në mënyrë të detyrueshme, nga shërbimi shëndetësor, shtetëror dhe privat, nëpërmjet fletëdeklarimit të sëmundjeve profesionale, sipas modelit që i bashkëlidhet këtij vendimi.
