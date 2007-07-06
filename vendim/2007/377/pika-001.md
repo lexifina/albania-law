@@ -1,0 +1,1 @@
+1. Mjediset, 3 zyra në pjesën veriore, në përgjegjësi administrimi të ish-Komisionit të Letrave me Vlerë, t’i kalojnë në përgjegjësi administrimi Këshillit Kombëtar të Kontabilitetit, për t’u përdorur sipas planimetrisë, që i bashkëlidhet këtij vendimi.
