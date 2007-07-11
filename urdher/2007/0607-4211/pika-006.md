@@ -1,0 +1,1 @@
+6. Në zbatim të pikës 5 të nenit 6 të Kodit Rrugor, Drejtoria e Përgjithshme e Rrugëve, kryetari i këshillit të qarkut dhe kryetari i komunës ose bashkisë, shpallin urdhëresa për zbatimin e këtij urdhri, për rrugët nën juridiksionin e tyre.

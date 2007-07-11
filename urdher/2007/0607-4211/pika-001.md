@@ -1,0 +1,1 @@
+1. Me qëllim të lehtësimit të trafikut në disa akse rrugore të cilat kalojnë në zonat turistike, të pezullohet përkohësisht qarkullimi i mjeteve të transportit të mallrave, që kanë peshë maksimale me ngarkesë më të madhe se 3,5 ton, përjashtuar mjetet frigoriferike që kanë peshë maksimale me ngarkesë deri në 5 ton.

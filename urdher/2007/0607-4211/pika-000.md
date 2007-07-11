@@ -1,0 +1,1 @@
+Në kuadrin e masave për sezonin turistik veror 2007 dhe në zbatim të detyrave të dala nga urdhri nr.68, datë 24.4.2007 i Kryeministrit “Për përgatitjen dhe ndjekjen e zbatimit të masave për sezonin turistik veror 2007” të merren këto masa:
