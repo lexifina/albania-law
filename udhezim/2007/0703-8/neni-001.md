@@ -1,0 +1,2 @@
+# Neni 1
+1. Subjektet juridike, për t’u regjistruar në Drejtorinë Rajonale të Shërbimeve të Transportit Rrugor (DRSHTRR), në juridiksionin e të cilit është selia e subjektit, dhe për të ushtruar veprimtarinë e autoriparimit, në një ose në disa nga seksionet e përcaktuara në këtë ligj, duhet të disponojnë pajisjet, instrumentet, ambientet e nevojshme, si dhe duhet të plotësojnë kushtet dhe procedurat, respektivisht, sipas nenit ose neneve përkatëse të këtij udhëzimi.
