@@ -1,0 +1,1 @@
+5. Ngarkohet Drejtoria e Përgjithshme e Shërbimeve Mbështetëse në Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve për publikimin e këtij udhëzimi dhe dokumenteve standarde të restaurimit, në formë elektronike në faqen e internetit të kësaj ministrie.

@@ -1,0 +1,1 @@
+4. Në vendimin nr.216, datë 18.4.2007 të Këshillit të Ministrave “Për procedurat e konkurrimit publik, për përzgjedhjen e subjekteve të licencuara për restaurimin e monumenteve të kulturës”, pika 5, oferta ekonomike do të paraqitet nga subjektet konkurruese pa TVSH. Shpallja e fondit limit të objektit që do të restaurohet bëhet në vlerën e plotë pa TVSH.

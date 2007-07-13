@@ -1,0 +1,1 @@
+6. Ngarkohen institucionet e përcaktuara në pikën 2 të kreut I të vendimit të Këshillit të Ministrave nr.216, datë 18.4.2007 apo institucione të tjera të autorizuara nga Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve për zbatimin e këtij udhëzimi.
