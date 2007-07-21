@@ -1,0 +1,3 @@
+# Nënshkrimi
+Ministri TURIZMIT, KULTURËS,
+RINISË DHE SPORTEVE
