@@ -1,0 +1,1 @@
+1. Përjashtimisht për Akademinë e Shkencave afatet “janar - 31 maj” dhe “1 qershor - dhjetor”, të përcaktuara në lidhjen nr.1, që i bashkëlidhet vendimit nr.244, datë 7.3.2007 të Këshillit të Ministrave “Për përcaktimin e numrit të punonjësve në ministritë dhe institucionet qendrore, për vitin 2007”, të ndryshuar, bëhen “janar - 31 gusht” dhe “1 shtator - dhjetor”.
