@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5530,
+  "title": "PËR MOSMIRATIMIN E DEKRETIT NR.5315, DATË 15.5.2007 TË PRESIDENTIT TË REPUBLIKËS “PËR KTHIMIN E LIGJIT NR.9720, DATË 23.4.2007 “PËr AUDITIMIN E BRENDSHËM NË SEKTORIN PUBLIK””",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "113",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-07-19",
+  "published": "2007-07-25",
+  "in_force": "2007-07-25",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c75b8900cdf5e34a2e78c5cceb1679fd4f837e5b75e2f574961e8559850e4bde.docx",
+  "source_sha256": "c75b8900cdf5e34a2e78c5cceb1679fd4f837e5b75e2f574961e8559850e4bde",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5530",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/07/19/113",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
