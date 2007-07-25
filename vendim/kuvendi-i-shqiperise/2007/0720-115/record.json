@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5532,
+  "title": "PËR ZGJEDHJEN E PRESIDENTIT TË REPUBLIKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "115",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-07-20",
+  "published": "2007-07-25",
+  "in_force": "2007-07-25",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9e5cf37233ae4ada78de691c58ecf3ef46f061aca3c0835f539dae4192757a5c.docx",
+  "source_sha256": "9e5cf37233ae4ada78de691c58ecf3ef46f061aca3c0835f539dae4192757a5c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5532",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/07/20/115",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
