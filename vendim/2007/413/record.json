@@ -1,0 +1,40 @@
+{
+  "qbz_id": 5546,
+  "title": "PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË BRENDSHME (DREJTORISË SË PËRGJITHSHME TË REZERVAVE TË SHTETIT)",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "413",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-07-11",
+  "published": "2007-07-26",
+  "in_force": "2007-07-26",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/98ef05be9457384929e0393098035050c4207b4b01e58789a1b5deb79a324dcd.docx",
+  "source_sha256": "98ef05be9457384929e0393098035050c4207b4b01e58789a1b5deb79a324dcd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5546",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/07/11/413",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31347,
+    30352,
+    28266,
+    27950,
+    27543,
+    25287,
+    66248,
+    55986,
+    67529,
+    9740,
+    9626,
+    9019,
+    5779
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
