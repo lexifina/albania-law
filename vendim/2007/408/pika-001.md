@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës “BOT” (Ndërtim, operim dhe transferim), të hidrocentralit “Suha 2”, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
