@@ -1,0 +1,1 @@
+2. Pika 1 e kreut II “Për rrethin e Durrësit” e listës nr.1, që i bashkëlidhet vendimit nr.34, datë 7.1.1999 të Këshillit të Ministrave “Për Drejtorinë e Shërbimeve Qeveritare dhe trajtimin e personaliteteve të larta”, të ndryshuar, shfuqizohet.

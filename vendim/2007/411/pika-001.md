@@ -1,0 +1,1 @@
+1. Heqjen nga inventari i pronave të paluajtshme të shtetit, të objektit “Vila kodër dhe territori përreth”, në administrim të Drejtorisë së Shërbimeve Qeveritare, për zbatimin e vendimit nr.66, datë 6.4.2006, të komisionit vendor të kthimit dhe kompensimit të pronave, të qarkut Durrës.
