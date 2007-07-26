@@ -1,1 +1,0 @@
-1. Krijimin e Qendrës së Trajnimit dhe të Kualifikimit për Arsimin (QTKA), si institucion në varësi të Ministrisë së Arsimit dhe të Shkencës, me objekt kryesor trajnimin dhe kualifikimin e mësuesve dhe të drejtuesve të institucioneve shkollore parauniversitare.

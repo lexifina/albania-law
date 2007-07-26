@@ -1,1 +1,0 @@
-1. Krijimin e Institutit të Kurrikulave dhe të Standardeve (IKS), si institucion në varësi të Ministrisë së Arsimit dhe të Shkencës, me objekt kryesor hartimin e zhvillimin e kurrikulave dhe të standardeve dhe realizimin e studimeve psiko-pedagogjike për arsimin parauniversitar.
