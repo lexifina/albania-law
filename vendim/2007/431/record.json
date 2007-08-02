@@ -1,0 +1,33 @@
+{
+  "qbz_id": 5568,
+  "title": "PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN, NË PRONËSI OSE NË PËRDORIM, TË BASHKISË GRAMSH, TË QARKUT TË ELBASANIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "431",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-07-11",
+  "published": "2007-08-02",
+  "in_force": "2007-08-02",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e259dd6df71b6fac7a8c5ba8302b3c7ee24929ed0b4ef1e371e47538a56975fb.docx",
+  "source_sha256": "e259dd6df71b6fac7a8c5ba8302b3c7ee24929ed0b4ef1e371e47538a56975fb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5568",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/07/11/431",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    67397,
+    67527,
+    8967,
+    8067,
+    16465,
+    7321
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
