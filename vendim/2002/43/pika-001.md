@@ -1,1 +1,0 @@
-1. Kandidatët që punësohen në Shërbimin Informativ Shtetëror, pas përfundimit të shkollës së lartë, të paguhen për kohën që vazhdojnë kursin e kualifikimit pranë Institutit të Shërbimit Informativ Shtetëror me pagën minimale të oficerit të SHISH-it.
