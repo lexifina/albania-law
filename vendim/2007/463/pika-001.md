@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës “BOT” (ndërtim, operim dhe transferim), të hidrocentraleve, në kaskadën e lumit Devoll, nga kuota 805-100 m mbi nivelin e detit, përfshirë edhe ndërtimin e hidrocentralit të Banjës, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
