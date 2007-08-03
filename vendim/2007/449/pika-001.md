@@ -1,0 +1,1 @@
+1. Struktura dhe nivelet e pagave, sipas funksioneve organike, për punonjësit civilë të Shërbimit Informativ Ushtarak, të jenë sipas lidhjes nr.1 “Struktura dhe nivelet e pagave sipas funksioneve organike, për punonjësit civilë të Shërbimit Informativ Ushtarak”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
