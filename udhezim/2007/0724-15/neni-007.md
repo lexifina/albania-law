@@ -1,0 +1,5 @@
+# Neni 7
+Transporti ndërkombëtar i udhëtarëve me një shtet me të cilin Republika e Shqipërisë është palë në një marrëveshje bilaterale transporti rrugor, shoqërohet me lejen e transportit (autorizim) të lëshuar nga autoritetet kompetente të shtetit/shtetet, në territorin e të cilit/cilëve transiton ose ku përfundon linja.
+Transporti ndërkombëtar i mallrave rregullohet nëpërmjet marrëveshjeve bilaterale ose multilaterale të transportit rrugor. Ky lloj transporti mund të jetë i lirë (pa leje/autorizim) ose i shoqëruar me leje (autorizim) me shtetin përkatës me të cilin do të kryhet transporti dhe/ose transiti.
+Lejet e transportit (autorizimet), shpërndahen nga Ministria ose nga organet që iu është deleguar kjo e drejtë.
+Transporti ndërkombëtar i rastit i udhëtarëve, realizohet kundrejt librit të udhëtimit/lejes së transportit (autorizimit) të lëshuar nga Ministria. Libri i udhëtimit dhe autorizimi për shërbimet e rastit të paliberalizuara lëshohen në bazë të marrëveshjes INTERBUS (për vendet palë në këtë marrëveshje). Për shtetet e tjera mund të jetë i lirë ose me autorizim në bazë të marrëveshjeve bilaterale.
