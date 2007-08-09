@@ -1,0 +1,1 @@
+6. Zyrat e transportit në qark dërgojnë pranë Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, e cila ia shpërndan drejtorive rajonale, listën me numrat e serisë së licencave, për taksitë, të cilat i janë vënë në dispozicion çdo bashkie.

@@ -1,0 +1,1 @@
+4. Këshilli bashkiak, në përputhje me politikat vendore të tij, mund të përcaktojë një kufi tjetër, më të ulët se 50% e numrit të përgjithshëm të autoveturave taksi me 4+1 vende, të cilat konvertohen me autovetura taksi 8+1 vende.

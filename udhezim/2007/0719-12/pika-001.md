@@ -1,0 +1,1 @@
+1. Kriter bazë në përcaktimin e numrit të përgjithshëm të licencave në shërbimin taksi, në të gjithë vendin, do të jetë autovetura me 4+1 vende dhe numri i popullatës së regjistruar, sipas regjistrit të gjendjes civile.

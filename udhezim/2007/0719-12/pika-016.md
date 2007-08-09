@@ -1,0 +1,2 @@
+16. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor (DPSHTRR), të krijojë regjistrin kombëtar për subjektet në shërbimin taksi, brenda 60 ditëve nga dalja e këtij udhëzimi. Qëllimi i përdorimit të regjistrit kombëtar për subjektet taksi jepet në udhëzimin nr.1649, datë 16.8.1999 “Mbi plotësimin e disa kushteve të veçanta në transportin rrugor të udhëtarëve”, të ndryshuar.
+Ky urdhër hyn në fuqi pas botimit në Fletoren Zyrtare.

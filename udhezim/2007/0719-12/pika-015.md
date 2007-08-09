@@ -1,0 +1,1 @@
+15. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor (DPSHTRR) të shtyp dhe administrojë shpërndarjen e bllokut të udhëtimit dhe regjistrit të dokumentit të udhëtimit në përputhje me udhëzimin nr.1649, datë 16.8.1999 “Mbi plotësimin e disa kushteve të veçanta në transportin rrugor të udhëtarëve”, të ndryshuar.

@@ -1,0 +1,1 @@
+7. Zyrat e transportit në bashki dërgojnë pranë drejtorive rajonale përkatëse, të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, listën me emrat e subjekteve transportuese në shërbimin taksi, të përzgjedhur për t’u licencuar.

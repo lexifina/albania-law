@@ -1,0 +1,1 @@
+14. Drejtoria e Politikave të Transportit Rrugor të përgatisë modelin e regjistrit të dokumentit të udhëtimit për shërbimin taksi, për grup të prenotuar/rezervuar më parë, me të cilin duhet të pajisen agjencitë e transportit të udhëtarëve.

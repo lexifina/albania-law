@@ -1,0 +1,1 @@
+3. Brenda numrit të përgjithshëm të autoveturave taksi të përcaktuar në pikën 2 më sipër lejohet deri në 50 % e këtij numri të konvertohet në autovetura taksi me 8+1 vende. Koeficienti i konvertimit është 2 (2 autovetura taksi, me 4+1 vende, janë të barasvlershme me 1 autoveturë taksi me 8+1 vende).

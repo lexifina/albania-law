@@ -1,0 +1,1 @@
+13. Drejtoria e Politikave të Transportit Rrugor të përgatisë modelin e bllokut të udhëtimit, i cili i lëshohet agjencive të transportit të udhëtarëve, dhe i cili përmban dokumentin e udhëtimit, për grup të prenotuar/rezervuar më parë, me të cilin duhet të pajisen autoveturat taksi gjatë udhëtimit.

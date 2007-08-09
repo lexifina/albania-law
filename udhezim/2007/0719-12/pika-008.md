@@ -1,0 +1,1 @@
+8. Zyrat e transportit në bashki dërgojnë, pranë degëve të Drejtorisë së Përgjithshme të Metrologjisë dhe Kalibrimit (DPMK) dhe Drejtorisë së Përgjithshme të Tatimeve në rrethe, listën me emrat e subjekteve transportuese në shërbimin taksi, të përzgjedhur për t’u licencuar, për vendosjen, kolaudimin dhe plumbosjen e taksimetrit të shoqëruar me numrin e serisë për çdo subjekt.

@@ -1,0 +1,1 @@
+10. Ngarkohet Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor të marrë të gjitha masat e nevojshme për shtypjen e kuotës bazë dhe rezervë të licencave të autoveturave në shërbimin taksi. Shpërndarja kryhet në bazë qarku, sipas aneksit 1 bashkëlidhur këtij udhëzimi.
