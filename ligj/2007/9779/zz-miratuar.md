@@ -1,0 +1,2 @@
+# Miratimi dhe shpallja
+Shpallur me dekretin nr.5422, datë 23.7.2007 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
