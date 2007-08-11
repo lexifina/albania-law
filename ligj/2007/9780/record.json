@@ -1,0 +1,33 @@
+{
+  "qbz_id": 55842,
+  "title": "PËR  INSPEKTIMIN E NDËRTIMIT",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9780",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-07-16",
+  "published": "2007-07-27",
+  "in_force": "2007-08-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/ec6c5b638971e9d9e4ada367b8cb15a733c450d34a1c910a4bf34e4cc1ba519f.docx",
+  "source_sha256": "ec6c5b638971e9d9e4ada367b8cb15a733c450d34a1c910a4bf34e4cc1ba519f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55842",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2007/07/16/9780",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    58907,
+    29178,
+    11530,
+    59377,
+    16228,
+    60980
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
