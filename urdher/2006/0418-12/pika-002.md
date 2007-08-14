@@ -1,1 +1,0 @@
-2. Shpenzimet që do t’i shtohen primit të pastër për sigurimin e detyrueshëm për mbajtësit e mjeteve motorike për përgjegjësitë ndaj palëve të treta për kontratat me afat njëvjeçar nuk mund të jenë më pak se 20% e primit të pastër dhe më shumë se 25% të këtij primi.
