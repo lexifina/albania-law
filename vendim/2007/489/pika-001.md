@@ -1,0 +1,1 @@
+1. Krijimin e një fondi limit, brenda të cilit të lëshohen garanci për kreditë e eksportit (më poshtë FGKE). Ky fond është pjesë e garancive, që lëshon shteti, dhe kufiri maksimal i tyre, që do të lëshohen në vitin 2007, të jetë në shumën 200 000 000 (dyqind milionë) lekë, i cili do të vazhdojë të përdoret për një periudhë kohore prej 6 vjetësh.

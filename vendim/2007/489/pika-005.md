@@ -1,0 +1,1 @@
+5. Ministria e Financave ushtron të drejtën për lëshimin e garancive për kreditë e eksportit nëpërmjet Komitetit të Vlerësimit dhe Miratimit të Garancive, i cili do të krijohet pas hyrjes në fuqi të këtij vendimi, dhe njoftimit nga Ministria e Financave për përfshirjen e limitit të garancive të kredisë për eksport në fondin e garancive shtetërore.

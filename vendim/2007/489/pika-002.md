@@ -1,0 +1,1 @@
+2. Fondi i garantimit të kredive të eksportit do të përdoret për të mbuluar kërkesat për kolateral për kredi tregtare, për mjete xhiroje për ndërmarrjet, të kërkuara nga sistemi bankar shqiptar, në bazë të rregullave të mbikëqyrjes bankare, të vendosura nga Banka e Shqipërisë.

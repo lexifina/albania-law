@@ -1,0 +1,1 @@
+3. Përfitojnë nga FGKE-ja ndërmarrjet, e vogla dhe të mesme, që ushtrojnë veprimtari në prodhimin për eksport. Si të tilla vlerësohen ndërmarrjet, që dërgojnë mallra jashtë vendit, për tregtim apo shitje, si dhe ndërmarrjet, që ofrojnë shërbime për blerësit e huaj.
