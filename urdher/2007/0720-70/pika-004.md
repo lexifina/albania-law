@@ -1,0 +1,1 @@
+4. Primi minimal i arkëtuar nga shoqëritë e sigurimit për kontratat e sigurimit të detyrueshëm të mbajtësve të mjeteve motorike për përgjegjësitë ndaj palëve të treta është i barabartë me primin e pastër plus shpenzimet administrative minimale sipas pikës 3 të këtij urdhri.
