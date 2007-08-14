@@ -1,0 +1,2 @@
+13. Formularët e unifikuar të këtyre akteve administrative do të miratohen me vendim të Këshillit të Ministrave, i cili do të unifikojë procedurën e ushtrimit të kontrollit në nivel vendor dhe kombëtar. Deri në miratimin e vendimit të sipërpërmendur, Inspektorati Ndërtimor e Urbanistik Kombëtar do të mbajë akte administrative sipas formatit bashkëlidhur këtij udhëzimi.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

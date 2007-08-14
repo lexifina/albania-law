@@ -1,0 +1,1 @@
+11. Transferimi i praktikave dokumentare administrative, të cilat, në zbatim të ligjit “Për inspektimin e ndërtimit”, hyjnë në fushën e përgjegjësive dhe detyrave të parashikuara në këtë ligj për Inspektoratin Ndërtimor e Urbanistik të bashkisë/komunës/qarkut që ngrihet, do të kryhet brenda një afati 10-ditor nga dita e marrjes së njoftimit të ngritjes së inspektoratit vendor.

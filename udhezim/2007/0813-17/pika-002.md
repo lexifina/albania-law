@@ -1,0 +1,1 @@
+2. Në zbatim të nenit 17 pika 2 të ligjit nr.9780, datë 16.7.2007 “Për inspektimin e ndërtimit”, deri në miratimin e strukturës së re, me urdhër të Kryeministrit, Inspektorati Ndërtimor e Urbanistik Kombëtar do të funksionojë sipas strukturës së Policisë së Ndërtimit.

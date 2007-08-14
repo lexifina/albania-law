@@ -1,0 +1,1 @@
+1. Në zbatim të nenit 17 pika 1 të ligjit nr.9780, datë 16.7.2007 “Për inspektimin e ndërtimit”, Policia e Ndërtimit transformohet, me hyrjen në fuqi të ligjit, në Inspektorat Ndërtimor e Urbanistik Kombëtar dhe ushtron si i tillë të gjitha përgjegjësitë dhe detyrat e parashikuara në nenet 9 dhe 10 të ligjit në fjalë.
