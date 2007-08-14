@@ -1,0 +1,1 @@
+6. Komisioni i vlerësimit (seleksionimit) të aktiveve të qëndrueshme e qarkulluese, kontrollon një për një çdo artikull, përcakton drejt shkallën e konsumit, si dhe destinacionin e përdorimit për ripërtëritje, mbeturinë, shitje apo për asgjësim.

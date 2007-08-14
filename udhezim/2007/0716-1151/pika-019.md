@@ -1,0 +1,1 @@
+19. Mbeturinat e përftuara nga nxjerrja jashtë përdorimit e materialeve administrohen në llogari të veçantë të vlerësuara me çmimin e tregut. Çmimet vendosen me komision, të krijuar për çdo rast me urdhër të titullarit.

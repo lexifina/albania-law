@@ -1,0 +1,1 @@
+11. Procedura e asgjësimit të vlerave materiale fillon pasi të jetë miratuar procesverbali i vlerësimit. Procesi i asgjësimit fillon jo më vonë se 5 ditë nga data e miratimit të procesverbalit të vlerësimit.

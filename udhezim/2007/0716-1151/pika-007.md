@@ -1,0 +1,1 @@
+7. Në përfundim të procesit të vlerësimit (seleksionimit) komisioni përpilon në dy kopje procesverbalin e vlerësimit dhe ia paraqet për miratim drejtuesit të institucionit, brenda 5 ditëve nga data e përfundimit të procesit të vlerësimit.

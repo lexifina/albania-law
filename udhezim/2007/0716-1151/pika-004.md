@@ -1,0 +1,1 @@
+4. Vlerësimi të kryhet gjatë muajit shtator-tetor, ndërsa asgjësimi i vlerave materiale të kryhet gjate muajt nëntor të çdo viti ushtrimor. Për raste të veçanta kur paraqitet nevoja për vlerësim të mallrave që prishen e dëmtohen, vlerësimi dhe asgjësimi mund të bëhet dhe jashtë këtij afati.

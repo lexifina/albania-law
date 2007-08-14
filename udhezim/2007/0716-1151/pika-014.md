@@ -1,0 +1,1 @@
+14. Për vlerat materiale që janë dëmtuar nga përdoruesit, komisioni i vlerësimit kërkon procesverbalet e mbajtura me personat përgjegjës dhe në qoftë se këto procesverbale nuk janë mbajtur, mbështetur në dispozitat ligjore propozon masat disiplinore e administrative ndaj personelit drejtues e administrues.

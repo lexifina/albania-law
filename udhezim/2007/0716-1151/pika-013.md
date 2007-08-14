@@ -1,0 +1,1 @@
+13. Në rastet kur kryhet asgjësimi i municioneve, ndezësve unifikues, granatave të dorës, predhave të kalibrave të ndryshëm etj., në përbërje të komisionit detyrimisht të ketë specialistë të xhenios e armatimit, në mungesë të merren specialistë të kësaj fushe në repartet e ushtrisë.
