@@ -1,0 +1,1 @@
+2. Ky shpërblim përfitohet nga autorët, krijues dhe interpretues, që kanë marrë çmim të parë në veprimtari të rëndësishme ndërkombëtare, pas paraqitjes së kërkesës me shkrim te Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve.

@@ -1,0 +1,1 @@
+1. Shpërblimin e autorëve, krijues dhe interpretues, të artit skenik, për rezultate të larta, të arritura në konkurrime ndërkombëtare, në masën 500 000 (pesëqind mijë) lekë, me urdhër të Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve.
