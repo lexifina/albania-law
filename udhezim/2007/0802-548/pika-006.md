@@ -1,0 +1,1 @@
+6. Komisioni i ankandit do të jetë i përbërë nga jo më pak se 3 veta. Në çdo ankand për shitjen e pronës, pjesë e komisionit të tij do të jetë përfaqësuesi i Ministrisë (METE) si përfaqësues i pronarit shtet. Likuidatori nuk do të jetë kryetar i komisionit të ankandit.

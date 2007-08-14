@@ -1,0 +1,1 @@
+8. Pas çdo ankandi të raportohet në Ministrinë e Ekonomisë Tregtisë dhe Energjetikës si përfaqësuese e pronarit të pronës shtetërore mbi realizimin e tij. Raporti të shoqërohet me dokumentacionin përkatës.
