@@ -1,0 +1,1 @@
+1. Dhënien e statusit të veçantë “Teatër metropolitan”, në kuptim të nenit 30 të ligjit nr.9631, datë 30.10.2006 “Për artin skenik”, me urdhër të Kryeministrit, pas propozimit të Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve, një institucioni të artit skenik vendor, që plotëson kushtet dhe kriteret e përcaktuar në këtë vendim.

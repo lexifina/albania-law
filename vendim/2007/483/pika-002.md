@@ -1,0 +1,5 @@
+2. Procedurat për të fituar statusin “Teatër metropolitan”, janë si, më poshtë vijon:
+a) Paraqitja e kërkesës, së bashku me dokumentacionin e përcaktuar në pikën 3 të këtij vendimi, dhe me një historik të veprimtarisë së institucionit të artit skenik vendor, te Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve nga këshilli i njësisë së qeverisjes vendore, ku ka selinë ky institucion.
+b) Shqyrtimi i kërkesës dhe i dokumentacionit shoqërues nga struktura përkatëse e Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, e cila pasi verifikon nëse institucioni plotëson kushtet dhe kriteret e përcaktuar në pikën 3 të këtij vendimi dhe vërtetësinë e dokumentacionit, i paraqet një raport, me shkrim, Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve, ku shprehet për përfitimin ose jo të këtij statusi.
+Afati nga depozitimi i kërkesës deri në shqyrtimin përfundimtar të saj është 45 ditë.
+c) Nëse kërkesa miratohet, Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve i propozon Kryeministrit dhënien e statusit të veçantë “Teatër metropolitan”.
