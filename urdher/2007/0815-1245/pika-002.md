@@ -1,0 +1,1 @@
+2. Kryetari i njësisë bashkiake nr.9, pasi merr listën e zgjedhësve nga zyra e gjendjes civile, brenda datës 26 gusht dërgon listat e zgjedhësve të përditësuara në letër dhe një kopje e tyre në format elektronik, në Drejtorinë e Përgjithshme të Gjendjes Civile.

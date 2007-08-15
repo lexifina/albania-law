@@ -1,0 +1,1 @@
+4. Kryetari i njësisë bashkiake nr.9, pasi ka marrë vendim për heqjen nga lista e zgjedhësve të zgjedhësve të regjistruar më shumë se një herë, miraton listën përfundimtare të zgjedhësve për zgjedhjet e pjesshme të datës 23 shtator 2007, jo më vonë se data 28 gusht 2007.

@@ -1,0 +1,4 @@
+5. Pas miratimit nga kryetari i njësisë bashkiake nr.9, lista përfundimtare e zgjedhësve i dërgohet KZZ-së me datë 28 gusht 2007, të printuara në tri formate, sipas përcaktimeve të nenit 59 të Kodit Zgjedhor:
+- Listë zgjedhësish e ndarë sipas qendrave të votimit për t’u shpallur pranë çdo qendre votimi. Një kopje e kësaj liste dhe në format elektronik i dërgohet DPGJC-së brenda 24 orësh;
+- Listë zgjedhësish në nivel të njësisë së qeverisjes vendore që mbahet nga KZZ-ja për informimin e zgjedhësve, e renditur sipas rendit alfabetik të mbiemrit të zgjedhësve;
+- Listë zgjedhësish e ndarë sipas qendrave të votimit, e cila i dorëzohet KZZ-së për t’u përdorur nga KQV-ja ditën e votimit. Kjo listë duhet të përmbajë për çdo zgjedhës edhe emërtimin, numrin dhe faqen e regjistrit themeltar me vendbanim të gjendjes civile të njësisë përkatëse.

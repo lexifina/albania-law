@@ -1,0 +1,1 @@
+9. Kryetari i njësisë bashkiake nr.9, vë në dispozicion të subjekteve zgjedhore të regjistruara në KQZ kopje të listës përfundimtare të zgjedhësve, jo më vonë se tre ditë nga data e paraqitjes së kërkesës dhe pa pagesë.

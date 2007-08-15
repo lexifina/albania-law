@@ -1,0 +1,2 @@
+3. Drejtoria e Përgjithshme e Gjendjes Civile brenda 24 orëve nga marrja e listave të përditësuara i dërgon njësisë përkatëse të qeverisjes vendore listën e dublimeve të dyshuara brenda vetë njësisë së qeverisjes vendore dhe ato me njësi të ndryshme të kësaj zone zgjedhore.
+Për dublimet brenda së njëjtës njësi të qeverisjes vendore, Drejtoria e Përgjithshme e Gjendjes Civile i kërkon kryetarit të njësisë bashkiake nr.9, heqjen e zgjedhësit nga lista e zgjedhësve për shkak të ndodhjes më shumë se një herë në listën e zgjedhësve.
