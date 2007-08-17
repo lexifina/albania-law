@@ -1,0 +1,1 @@
+10. Efektet financiare për vitin 2007, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 915 milionë lekë dhe përballohen nga fondi i kontigjencës, i caktuar në buxhetin e shtetit të vitit 2007, për rritjen e pensioneve.

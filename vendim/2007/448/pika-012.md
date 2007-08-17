@@ -1,0 +1,1 @@
+12. Ngarkohet Ministri i Financave të nxjerrë udhëzim për procedurat e zbatimit të unifikuar të këtij vendimi me vendimet nr.763, datë 27.11.2006 “Për kompensimin e të ardhurave mujore të pensionistëve” dhe nr.17, datë 20.1.2007 “Për kompensimin e të ardhurave mujore të pensioneve të fshatit”, të Këshillit të Ministrave.

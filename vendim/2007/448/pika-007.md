@@ -1,0 +1,2 @@
+7. Pensionet, që, pas zbatimit të rritjes sipas pikës 1 të këtij vendimi, rezultojnë të jenë nën 10 000 (dhjetë mijë) lekë, të kompensohen në masën dhe sipas kritereve, të caktuara në vendimin nr.763, datë 27.11.2006 të Këshillit të Ministrave “Për kompensimin e të ardhurave mujore të pensionistëve”.
+Për efekt të zbatimit të këtij vendimi, kudo në vendimin nr.763, datë 27.11.2006, të Këshillit të Ministrave “Për kompensimin e të ardhurave mujore të pensionistëve” data “1.12.2006” zëvendësohet me datën “1.7.2007”.
