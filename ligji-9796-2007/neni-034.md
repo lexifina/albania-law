@@ -1,0 +1,17 @@
+# Neni 34
+Vendimet përfundimtare
+1. Ankuesit, importuesit, eksportuesit dhe shoqatat e tyre përfaqësuese dhe përfaqësuesit e vendit eksportues mund të kërkojnë zbulimin e të dhënave, të hollësive dhe fakteve të rëndësishme, në bazë të të cilave janë marrë masat. Kërkesa për zbulim duhet të bëhet me shkrim, menjëherë pas vendosjes së masave të përkohshme. Gjithashtu, palët e lartpërmendura mund të kërkojnë zbulimin përfundimtar të fakteve kryesore dhe të elementeve, në bazë të të cilave është menduar vendosja e masave përfundimtare, përfundimi i një hetimi ose i procedurave, pa vendosjen e masave.
+2. Kërkesa për zbulimin përfundimtar i drejtohet ministrisë me shkrim dhe pranohet kur është zbatuar një taksë e përkohshme, jo më vonë se 1 muaj pas botimit/shpalljes së vendosjes së kësaj takse. Në rastet kur nuk zbatohet një taksë e përkohshme, palëve u jepet mundësia të kërkojnë zbulimin, brenda afateve kohore të vendosura nga komisioni.
+3. Zbulimi përfundimtar duhet të jepet në formë të shkruar, me anë të një publikimi. Ky zbulim duhet të bëhet sa më shpejt të jetë e mundur, normalisht, jo më vonë se 1 muaj përpara vendimit përfundimtar ose pranimit nga komisioni të propozimit për marrjen e masave përfundimtare, duke pasur parasysh mbrojtjen e të dhënave konfidenciale. Kur komisioni nuk mund të zbulojë fakte ose elemente të caktuara për momentin, ky zbulim do të bëhet në një kohë të mëvonshme.
+4. Nëse komisioni, në përfundim të hetimit, ka marrë një vendim, ai duhet ta bëjë publik vendimin e marrë. Krahas botimit të vendimit, njoftimi duhet të përfshijë të gjitha të dhënat për faktet, ligjin dhe arsyet që çuan në këtë vendim, por duke u kujdesur për ruajtjen e të dhënave konfidenciale dhe në veçanti për:
+a) emrat e eksportuesve dhe të prodhuesve të njohur të produktit në hetim;
+b) përshkrimin e produktit në hetim, duke dhënë të dhëna aq sa është e mjaftueshme për veprime doganore (taksave doganore), përfshirë klasifikimin aktual shqiptar të tarifave;
+c) shpjegimet për dumpingun ose subvencionin, për periudhën e hetimit të dëmit të shkaktuar, nëse është aplikuar;
+ç) kufirin e dumpingut ose shumat e subvencionit të identifikuara dhe bazat, mbi të cilat është përcaktuar se ky dumping ose subvencion ekziston;
+d) faktorët që çuan në përcaktimin e dëmit dhe të lidhjes shkakësore, duke përfshirë edhe të dhënat për këta faktorë, përveç importeve të dumpuara ose të subvencionuara, që janë marrë parasysh;
+dh) çdo arsye tjetër, që ka çuar në vendimin përfundimtar;
+e) arsyet për pranimin ose refuzimin e argumenteve apo të padive përkatëse, të bëra nga eksportuesit dhe importuesit;
+ë) shumën e masave antidumping ose kundërbalancuese, të përcaktuara për t’u vendosur, duke përfshirë çdo vlerësim në interes të Republikës së Shqipërisë;
+f) rastet kur masat antidumping ose kundërbalancuese duhet të mblidhen nga ato importe, për të cilat janë zbatuar masat paraprake, arsye për këtë vendim.
+5. Njoftimi botohet në Fletoren Zyrtare dhe në një gazetë me qarkullim të madh në Republikën e Shqipërisë. Njoftimi i dërgohet edhe vendit, produktet e të cilit janë objekt i këtij përcaktimi, si dhe palëve të tjera, që dihet se janë të interesuara.
+6. Pas daljes së vendimit përfundimtar, me kërkesë të bërë brenda 15 ditëve nga botimi i tij, ministria zhvillon mbledhje të veçanta, të hapura, me eksportuesit ose prodhuesit, që e kërkojnë këtë takim, për të shpjeguar metodologjinë e përdorur në llogaritjen e dumpingut ose të shumës së subvencionit, të zbatuar përfundimisht për produktet e këtij eksportuesi apo prodhuesi.
