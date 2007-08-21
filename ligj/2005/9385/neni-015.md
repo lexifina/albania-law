@@ -10,3 +10,4 @@ b) pyje e toka pyjore në përdorim apo në pronësi të organeve të qeverisjes
 4. Fondi pyjor privat përbëhet nga:
 a) pyje dhe toka pyjore në pronësi private;
 b) drurë dhe grupe drurësh, që ndodhen brenda kufijve të tokave në pronësi private, pyje të reja, të cilat krijohen në këto toka, dhe pjesët e fondit pyjor pronësi private.
+5. Kuotat e karbonit, në procesin e sekuestrimit të tij, u përkasin pronarëve, sipas pronësisë që kanë mbi fondin pyjor.

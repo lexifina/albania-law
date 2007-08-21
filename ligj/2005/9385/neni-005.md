@@ -7,4 +7,6 @@ b) mbrojtjen, trajtimin dhe kryerjen e punimeve silvikulturore e të punimeve t�
 c) mbarështimin e pyllit dhe të tokës pyjore, për të ruajtur funksionet e tyre, shkallën e ruajtjes së mjedisit pyjor dhe të ripërtëritjes natyrore;
 ç) përdorimin e qëndrueshëm të burimeve pyjore e natyrore të ngastrave e ekonomive pyjore, në përputhje me zhvillimin e qëndrueshëm të gjallesave pyjore dhe të komuniteteve të tyre.
 3. Planet e mbarështimit hartohen nga persona juridikë, publikë a privatë, të pajisur me licencë nga Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, sipas dispozitave të këtij ligji dhe të akteve të tjera nënligjore në fuqi.
-4. Plani i mbarështimit të pyjeve publike e private shqyrtohet nga komisioni teknik, i ngritur pranë Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave, vendimi i së cilës është i detyrueshëm për t’u zbatuar.
+4. Plani i mbarështimit të pyjeve shtetërore shqyrtohet nga komisioni teknik pranë Drejtorisë së Politikave Pyjore, i ngritur me urdhër të ministrit. Plani miratohet nga ministri.
+5. Planet e mbarështimit të pyjeve komunale dhe private hartohen nga subjekte të licencuara dhe miratohen, sipas rastit, nga këshilli i komunës/bashkisë, në bashkëpunim me drejtorinë përkatëse të shërbimit pyjor.
+6. Mënyra e hartimit të planeve të mbarështimit të pyjeve, e cila zbatohet për të gjitha format e pronësisë së pyllit, caktohet me udhëzim të ministrit.
