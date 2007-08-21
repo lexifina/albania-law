@@ -1,0 +1,3 @@
+# Neni 33
+Kontributet e shoqatës së konsumatorëve dhe të përdoruesve
+Ministria u krijon mundësi aplikuesve, qeverisë së vendit të origjinës dhe/ose të vendit eksportues, importuesve e eksportuesve dhe shoqatave të tyre, përdoruesve të produktit në hetim në Republikën e Shqipërisë, si dhe organizatave të konsumatorëve që, nëpërmjet një kërkese me shkrim, të kontrollojnë të gjitha të dhënat e përdorura gjatë hetimit, të cilat i janë dhënë komisionit nga një palë, si dokumentacion i veçantë e i brendshëm, i nevojshëm në paraqitjen e çështjeve të tyre, por që nuk është konfidencial, në kuptim të nenit 48 të këtij ligji. Palët kanë të drejtë të japin mendim për këto të dhëna dhe do të merren parasysh vetëm kur janë mjaftueshmërisht të vërtetueshme.

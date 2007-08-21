@@ -1,0 +1,5 @@
+# Neni 31
+Mbledhja e të dhënave
+1. Komisioni, me fillimin e hetimeve, nëpërmjet ministrisë, ka detyrimin t’i dërgojë pyetësor çdo personi që, sipas saj, mund të ketë të dhëna për çështjen në hetim, përfshirë këtu prodhues të njohur vendas, importues, eksportues, prodhues të huaj dhe qeverive të vendeve, produktet e të cilave janë objekt hetimi.
+2. Komisioni do t’u japë eksportuesve, prodhuesve të huaj dhe të vendeve të interesuara, që marrin pyetësorë, të paktën, 45 ditë kohë për t’u përgjigjur. Ky afat kohor llogaritet nga dita e dërgimit të pyetësorit ose nga dita kur i është transmetuar përfaqësisë diplomatike apo zyrtare të vendit eksportues. Komisioni duhet ta marrë parasysh, nëse ka dhe është e argumentuar, kërkesën për zgjatjen e afatit për dhënien e përgjigjes. Pyetësorët shkruhen në dy gjuhë, shqip dhe anglisht.
+3. Komisioni, nëpërmjet ministrisë, mund t’u kërkojë, gjatë hetimit, palëve të interesuara të dhëna shtesë, në formën e pyetësorëve ose të kërkesave të shkruara, sqarime ose të dhëna të mëtejshme. Në këtë rast komisioni përcakton edhe afatin, brenda të cilit duhen dorëzuar përgjigjet.
