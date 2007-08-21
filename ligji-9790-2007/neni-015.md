@@ -1,0 +1,7 @@
+# Neni 15
+Mbledhja e të dhënave
+1. Me fillimin e hetimeve, komisioni, nëpërmjet ministrisë, i dërgon pyetësorë çdo personi, që beson se mund të ketë të dhëna të vlefshme për hetimin, duke përfshirë prodhues të njohur vendas, importues, eksportues, prodhues të huaj dhe qeveri të vendeve, produktet e të cilave janë objekt hetimi.
+2. Komisioni cakton një afat kohor 30-ditor, brenda të cilit eksportuesit, prodhuesit e huaj dhe vendet e interesuara, që kanë marrë pyetësorët, të japin përgjigje. Ky afat kohor llogaritet nga dita kur pyetësori i është dërguar marrësit ose i është transmetuar përfaqësisë diplomatike të vendit eksportues. Komisioni merr parasysh kërkesat për zgjatjen edhe 15 ditë të këtij afati dhe miraton këtë zgjatje, në bazë të arsyeve të justifikuara. Pyetësorët shkruhen në shqip dhe anglisht.
+3. Gjatë hetimit, komisioni, nëpërmjet ministrisë, mund të kërkojë nga palët e interesuara të dhëna shtesë, në formën e pyetësorëve ose të kërkesave të shkruara, sqarime ose të dhëna të mëtejshme. Afati i dorëzimit të kërkesave shtesë është i njëjtë me atë të parashikuar në pikën 2 të këtij neni.
+4. Ministria kryen inspektime verifikuese, për të vërtetuar të dhënat e paraqitura nga palët e interesuara. Palët njoftohen për të dhënat që do të verifikohen, por kjo nuk pengon bërjen e kërkesave për hollësi të mëtejshme, për qartësimin e të dhënave të siguruara.
+5. Komisioni jep vlerësimet e veta për ekzistencën e importeve të rritura, të dëmit apo lidhjes shkakësore, në bazë të të dhënave për periudhën, për të cilën janë kërkuar këto të dhëna.
