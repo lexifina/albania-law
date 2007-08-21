@@ -1,0 +1,28 @@
+{
+  "qbz_id": 60325,
+  "title": "PËR DISA NDRYSHIME E SHTESA NË LIGJIN NR.8402, DATË 10.9.1998  “PËR KONTROLLIN DHE DISIPLINIMIN E PUNIMEVE TË NDËRTIMIT”, TË NDRYSHUAR",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9794",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-07-23",
+  "published": "2007-08-06",
+  "in_force": "2007-08-21",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/694bd4ee65899d7e76d30f96b53de995cbed569ef70feb3a223ab5a019972ec9.docx",
+  "source_sha256": "694bd4ee65899d7e76d30f96b53de995cbed569ef70feb3a223ab5a019972ec9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60325",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2007/07/23/9794",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    13429
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
