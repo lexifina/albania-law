@@ -1,0 +1,2 @@
+# Neni 1
+Parcelat pyjore, që do të përdoren nga “Antea Cement” sh.a. për ndërtimin e fabrikës së çimentos, me sipërfaqe 65,75 ha, për karierë flyshi, me sipërfaqe prej 58,95 ha dhe karierë gëlqerorësh, me sipërfaqe prej 99,76 ha, të cilët ndodhen në ekonomitë pyjore Kastë - Krujë dhe Shëmri - Brret, gjithsej 224,46 ha, të hiqen nga fondi pyjor kombëtar dhe të çregjistrohen nga kadastra kombëtare e pyjeve, sipas tabelave 1 e 3 dhe hartave, që i bashkëlidhen këtij ligji.
