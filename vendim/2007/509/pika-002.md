@@ -1,0 +1,1 @@
+2. Miratimin e marrëveshjes hidrokarbure për zhvillimin dhe prodhimin e hidrokarbureve në vendburimin Gorisht-Kocul, ndërmjet Albpetrol sh.a.-së dhe STREAM OIL&GAS Limited, sipas tekstit, që i bashkëlidhet këtij vendimi.

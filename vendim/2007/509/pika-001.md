@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjeve hidrokarbure, për zhvillimin dhe prodhimin e hidrokarbureve në vendburimin Ballsh-Hekal, ndërmjet Albpetrol sh.a.-së dhe STREAM OIL&GAS Limited, sipas tekstit, që i bashkëlidhet këtij vendimi.
