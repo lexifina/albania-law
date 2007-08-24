@@ -1,1 +1,0 @@
-11. Hedhja në treg e barnave kryhet pas marrjes së vendimit nga komisioni dhe njoftimi i çmimeve Qendrës Kombëtare të Kontrollit të Barnave dhe Drejtorisë së Përgjithshme të Doganave. Çdo çmim, i ardhur mbi nivelin e vendosur nga komisioni, shoqërohet me marrjen e masave administrative, të parashikuara në ligj.

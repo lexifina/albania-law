@@ -1,1 +1,0 @@
-8. Komisioni i Çmimeve të Barnave ndërhyn, në rastin kur çmimi i deklaruar i barnave është më i lartë se çmimi i nxjerrë gjatë analizës së përshkruar në pikën 5 të këtij vendimi, për uljen e tij, në nivelin e nxjerrë nga analiza.

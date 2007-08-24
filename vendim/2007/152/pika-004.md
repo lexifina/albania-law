@@ -1,4 +1,0 @@
-4. Dy përfaqësues nga Instituti i Sigurimeve të Kujdesit Shëndetësor.
-2. Komisioni i Çmimeve të Barnave merr në rrugë zyrtare çdo informacion të nevojshëm, që vihet në dispozicion nga Drejtoria Farmaceutike, pranë Ministrisë së Shëndetësisë, Drejtoria e Përgjithshme e Doganave dhe komisioni ad-hoc, i ngritur në Ministrinë e Financave për çmimet e referencës së doganës.
-3. Të gjithë fabrikuesit ose shoqëritë tregtare, të autorizuara për hedhjen e barit në treg, janë të detyruara të vetëdeklarojnë, pranë këtij komisioni, çmimet CIF, për barnat e importit, dhe çmimet e fabrikimit, për barnat e prodhuara në vend. Deklarimi të bëhet brenda dy javëve nga data e regjistrimit të barit. Për barnat e paregjistruara vetëdeklarimi të bëhet nga importuesit.
-4. Çdo muaj do të paraqiten, pranë Komisionit të Çmimeve të Barnave, të dhënat, për çmimet CIF, për barnat e importuara, dhe për çmimet e fabrikimit, për barnat e prodhuara në vend.
