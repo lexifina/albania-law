@@ -1,0 +1,1 @@
+1. Miratimin e kontratës, me ndarje prodhimi, për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në Shqipëri, blloku detar Joni-5, ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe MEDOIL, plc, sipas tekstit që i bashkëlidhet këtij vendimi.
