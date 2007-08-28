@@ -1,0 +1,3 @@
+28. Për asortimentet, për lëndën drusore në këmbë dhe për atë të sekuestruar, subjekti fitues bën pagesën 5 ditë pas nënshkrimit të kontratës. Pagesa bëhet njëherësh dhe e plotë. Përjashtimisht ajo mund të bëhet me këste, në raport me vëllimin dhe kur parashikohet në kontratë për rastet si më poshtë:
+a) për asortimentet drusore mbi 200 m3 me dy këste. Afati maksimal i pagesës së këstit të dytë është 15 ditë pas datës së nënshkrimit të kontratës;
+b) për lëndën drusore në këmbë me vëllime mbi 1000 m3 me dy këste, në datat e caktuara në kontratë. Afati i fundit i pagesës së këstit të dytë është 4 muaj para datës së skadimit të kontratës.

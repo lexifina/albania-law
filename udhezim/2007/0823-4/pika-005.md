@@ -1,0 +1,1 @@
+5. Ankandi i muajit mars zhvillohet për shitjen e ngastrave e nënngastrave të pa shitura në ankandin e muajit gusht, si dhe për të cilat subjektet kanë humbur të drejtën e prerjes (për shkak të moslidhjes së kontratës, zgjidhjes së kontratës në rrugë gjyqësore, mosprerjes së materialit drusor në këmbë, mosbërjes së pastrimeve, kolaudimeve brenda afatit të caktuar në kontratë).

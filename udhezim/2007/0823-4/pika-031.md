@@ -1,0 +1,1 @@
+31. Subjektet, që kanë pretendime rreth ankandit dhe rezultateve të tij, mund t’i paraqesin ankesë me shkrim, brenda 3 ditëve nga data e zhvillimit të tij, Drejtorit të DSHP-së, duke vënë në dijeni ministrin për këtë ankesë.

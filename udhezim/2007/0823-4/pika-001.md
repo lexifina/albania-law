@@ -1,0 +1,1 @@
+1. Asortimentet e gatshme drusore të prodhuara dhe të stivosura në anë të rrugës, apo në sheshe depozitimi, nga subjektet private, për llogari të Drejtorisë së Shërbimit Pyjor (DSHP) dhe lënda drusore në këmbë (e paprerë), shiten me ankand.

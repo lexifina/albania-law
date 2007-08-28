@@ -1,0 +1,1 @@
+12. Vlera fillestare e shitjes së lëndës drusore në këmbë për çdo ngastër e nënngastër pyjore, do të jetë e barabartë me vëllimin e saj (lëndë punimi, dru zjarri), shumëzim me tarifën bazë të lëndës drusore në këmbë.

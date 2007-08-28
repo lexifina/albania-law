@@ -1,0 +1,1 @@
+10. Komisioni përgatit dokumentacionin e ankandit në përputhje me anekset, pjesë përbërëse e këtij udhëzimi. Dokumentacioni i ankandit i përgatitur nga komisioni u dorëzohet konkurruesve që paraqiten në bazë të njoftimit të bërë nga DSHP.

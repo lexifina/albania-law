@@ -1,0 +1,4 @@
+21. Nëse të gjitha ofertat janë të barabarta, atëherë propozimi për rritjen e vleftës së asortimentit që shitet bëhet me vleftën 2 000 lekë dhe me shumëfishin e saj 4 000 lekë, 6 000 lekë etj. Ndërsa propozimi për rritjen e vlerës së lëndës drusore në këmbë, që shitet bëhet:
+a) për pyjet trungishte me vlerën 50.000 lekë dhe shumëfishin e saj, (100.000 lekë, 150.000 lekë etj.);
+b) për pyjet cungishte dhe shkurret me vlerën 5.000 lekë dhe shumëfishin e saj (10.000 lekë, 15.000 lekë etj.).
+Në këtë rast çdo konkurrues sipas radhës, bën propozimin e tij. Propozimi me vlerë më të madhe zhvleftëson të mëparshmin dhe pas tij kryetari i komisionit kërkon propozimin tjetër. Nëse pas propozimit të fundit dhe pas tre kërkesave radhazi të kryetarit, nuk ka propozim tjetër, fitues shpallet subjekti, që ka bërë propozimin e fundit.
