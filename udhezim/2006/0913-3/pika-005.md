@@ -1,1 +1,0 @@
-5. 15 ditë para datës së zhvillimit të ankandit, bëhet njoftimi për ditën, vendin dhe orën e zhvillimit të tij. Njoftimet bëhen nëpërmjet radiove e televizioneve lokale, gazetave lokale, si dhe të afishimeve të ndryshme në qendër të drejtorisë, në qytete dhe qendrat e komunave të rrethit ku do të zhvillohet ankandi.

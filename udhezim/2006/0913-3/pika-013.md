@@ -1,1 +1,0 @@
-13. Ofertat e vlerësuara si të rregullta pas shqyrtimit paraprak krahasohen ndërmjet tyre sipas vlerësimeve të fazës së dytë dhe klasifikohen. Për këtë fazë (b) përgatitet me shkrim raporti i vlerësimit të ofertave për çdo konkurrues. Oferta që konsiderohet më e mirë, shpallet fituese dhe afishohet në entin shitës.

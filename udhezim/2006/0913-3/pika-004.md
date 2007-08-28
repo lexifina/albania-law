@@ -1,7 +1,0 @@
-4. Procedura e shitjes duhet të garantojë të drejtën e barabartë të konkurruesve për të konkurruar, administrimin e mirë e rigoroz të mallit të dhënë në dispozicion nga organi shtetëror si dhe synon të mos lejojë diskriminimin e konkurruesve.
-KREU II
-PËRGATITJA E ANKANDIT
-1. Përgatitja dhe zhvillimi i ankandit në përputhje me kërkesat ligjore, është përgjegjësi e drejtorive të shërbimit pyjor në rrethe.
-2. Data, vendi dhe ora e zhvillimit të ankandit përcaktohen me urdhër të drejtorit të DSHP. Në të njëjtin urdhër përcaktohet përbërja e komisionit të përgatitjes së dokumenteve të ankandit dhe e komisionit të zhvillimit të tij.
-3. Komisioni i zhvillimit të ankandit, i cili duhet të përbëhet nga 5 persona, ndër të cilët rekomandohet zëvendëstitullari, drejtuesi i sektorit financiar dhe tre specialistë të kualifikuar sipas objektit të shitjes. Drejtuesi i komisionit zëvendësohet vetëm në raste të veçanta dhe për arsye objektive.
-4. Komisioni përcakton kriteret e vlerësimit paraprak që lidhen me plotësimin e dokumentacionit dhe respektimin e kushteve të parashikuara në ftesën e ankandit, si dhe kriterin e vlerësimit ekonomik, që, pavarësisht nga sasia, përparësi në vlerësim do të kenë ofertat, duke filluar me çmime më të larta dhe deri në ato me çmime të barabarta me çmimin fillestar të shitjes të vendosur nga enti shitës. Kriteret e vendosura shpallen nga komisioni qysh në fillim të procedurës së ankandit.

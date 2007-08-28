@@ -1,1 +1,0 @@
-26. Brenda 5 ditëve nga data e skadimit të afatit për lidhjen e kontratës, DSHP fton subjektin që renditet i dyti, të lidhë kontratën, me kusht që çmimet e ofruara prej tij të jenë më të mëdhenj ose të barabartë me çmimet e referencës, në të kundërt, ankandi anulohet.

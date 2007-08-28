@@ -1,1 +1,0 @@
-21. Për subjektin që shpallet fitues, përpilohet procesverbali, ku shënohen asortimentet e fituara, sipas llojit, cilësia, sasitë si dhe vlefta totale. Procesverbali, në dy kopje firmoset nga palët dhe një kopje qëndron në DSHP, ndërsa tjetra i jepet subjektit fitues.

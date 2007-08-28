@@ -1,1 +1,0 @@
-14. Në rast se konkurruesi që ka fituar nuk pranon dhe tërhiqet nga ankandi, kjo dokumentohet dhe fituese shpallet oferta e çmuar si e dyta më e mirë. Sigurimi i ofertës fituese që tërhiqet konfiskohet.

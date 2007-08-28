@@ -1,1 +1,0 @@
-2. Me ankand shiten edhe asortimentet e prera ilegalisht dhe të sekuestruara nga strukturat e shërbimit pyjor dhe institucione të tjera shtetërore, jashtë ngastrave apo nënngastrave pyjore. Në këte rast procesverbali i sekuestrimit është pjesë përbërëse e dokumenteve të ankandit.
