@@ -1,0 +1,1 @@
+8. Aplikimi për regjistrim bëhet nga personat e autorizuar, sipas përcaktimit të nenit 26 të ligjit, duke deklaruar të dhënat nëpërmjet paraqitjes së aplikimit përkatës, të plotësuar me të gjitha fushat e detyrueshme, si dhe duke paraqitur dokumentet shoqëruese, të kërkuara për llojin e regjistrimit që kërkohet të kryhet.

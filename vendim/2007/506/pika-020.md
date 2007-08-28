@@ -1,0 +1,1 @@
+20. Konfirmimi përmban edhe numrin e dhënë automatikisht nga sistemi i informatizuar i QKR-së, sipas pikës 10 të këtij vendimi, i cili shërben për të ndjekur në çdo kohë, gjendjen e procesit të regjistrimit dhe nënshkruhet nga nëpunësi i sportelit e aplikantit.

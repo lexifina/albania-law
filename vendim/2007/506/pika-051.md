@@ -1,0 +1,1 @@
+51. Ndryshimi i të dhënave të pasakta, të cilat nuk rezultojnë qartë nga dokumentacioni i depozituar ose cenojnë vlefshmërinë e regjistrimit, kryhen nëpërmjet një aplikimi të ri apo në bazë të një vendimi gjyqësor.

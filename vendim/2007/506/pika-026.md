@@ -1,0 +1,1 @@
+26. Nëpunësi i autorizuar (regjistruesi) miraton kryerjen e regjistrimit si më sipër, nëse vlerëson se mangësitë e vërejtura gjatë shqyrtimit paraprak, sipas pikave 18, 19 e 20 të këtij vendimi, nuk janë të mbështetura në ligj dhe në dispozitat e këtij vendimi.

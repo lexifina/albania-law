@@ -1,0 +1,1 @@
+21. Aplikimi dhe dokumentet shoqëruese, në format elektronik, dërguar sipas parashikimeve të pikave 18, 19 e 20 të këtij vendimi, merren në shqyrtim nga nëpunësit e autorizuar të QKR-së, sipas radhës së paraqitjes së tyre.

@@ -1,0 +1,1 @@
+61. Çdo veprim i kryer në regjistër nga QKR-ja, në përputhje me ligjin dhe me dispozitat e këtij vendimi, si dhe pamja e plotë elektronike e çdo dokumenti shoqërues pasqyrohen, në mënyrë elektronike, në regjistrin tregtar.

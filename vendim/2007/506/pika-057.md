@@ -1,0 +1,1 @@
+57. Në përputhje me legjislacionin në fuqi, afati përfundimtar për depozitimin e bilancit vjetor kontabël dhe raportit të auditimit, sipas shkronjës “a” të nenit 43/3 të ligjit, është data 31 korrik e çdo viti.

@@ -1,0 +1,1 @@
+22. Nëpunësi i autorizuar i QKR-së verifikon me hollësi nëse aplikimi dhe dokumentet shoqëruese janë në përputhje me kërkesat e pikës 1 të nenit 54 të ligjit, si dhe verifikon veprimet e kryera nga nëpunësi i sportelit.

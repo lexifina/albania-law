@@ -1,0 +1,2 @@
+31. QKR-ja i njofton me shkrim, në sportel aplikantit, brenda afatit të mësipërm, shkakun e pezullimit, duke i dorëzuar dokumentin përkatës, lëshuar nga sistemi i informatizuar, sipas formatit të miratuar, dhe i jep një afat 15-ditor për plotësimin ose ndreqjen e mangësive, që pengojnë regjistrimin.
+QKR-ja gjatë afatit të pezullimit nuk mund të paraqesë mangësi të tjera, të ndryshme nga ato të njoftuara.

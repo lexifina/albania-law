@@ -1,0 +1,1 @@
+59. Subjekti i kaluar në statusin pasiv, sipas pikës 8 të nenit 75 të ligjit, mund të kërkojë në çdo kohë, heqjen e këtij statusi duke paraqitur në sportelin e shërbimit të QKR-së aplikimin, sipas formatit të miratuar, së bashku me njoftimin e të dhënave të munguara.
