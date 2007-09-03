@@ -1,0 +1,1 @@
+1. Shpërblimin, deri në 2 (dy) paga mujore, të 13 (trembëdhjetë) punonjësve, të angazhuar për realizimin e maturës shtetërore, 2007, në periudhat e KOEPS-eve (Koha e ekspozimit potencial të sekretit), në varësi të kontributit të secilit punonjës në këtë proces.

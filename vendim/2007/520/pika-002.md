@@ -1,0 +1,1 @@
+2. Trajtimin me kuotë ushqimore, në shumën 2 000 (dy mijë) lekë në ditë, për të gjithë punonjësit e angazhuar në realizimin e maturës shtetërore, 2007, përfshirë dhe përzgjedhësit e testeve përfundimtare, në të gjithë periudhën e KOEPS-eve.
