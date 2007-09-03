@@ -1,0 +1,1 @@
+1. Lejimin e kalimit transit të një kontingjenti ushtarak slloven përmes territorit të Republikës së Shqipërisë, në itinerarin Qafë-Thanë - Porti i Durrësit - Aeroporti Rinas, në periudhën 10 gusht - 10 shtator 2007.
