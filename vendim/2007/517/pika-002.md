@@ -1,0 +1,9 @@
+2. Kuota e pranimeve të reja për programet e studimit të ciklit të parë me numër të mbyllur, përbëhet nga:
+a) Kuota për kandidatët brenda territorit të vendit 14 608;
+b) Kuota për shqiptarët nga trojet jashtë kufijve të vendit 442. 3. Kuota e pranimeve të reja për programet e studimit të ciklit të parë, sipas shkronjës “a” të pikës 2 të këtij vendimi, ndahet ndërmjet institucioneve publike të arsimit të lartë. Këto kuota pranimi, të ndara sipas programeve të studimit, janë pasqyruar në tabelën nr.1 që i bashkëlidhet këtij vendimi, ndërsa kuotat për programet e studimit, ku pranimi është i lirë, janë pasqyruar në shkronjën “H”, në tabelën nr.1.
+4. Kuota e pranimeve të reja për programet e studimit të ciklit të parë, sipas shkronjës “b” të pikës 2 të këtij vendimi, ndahet ndërmjet kandidatëve shqiptarë nga trojet jashtë kufijve të vendit: Kosovë, Maqedoni, Mal i Zi, Preshevë, Bujanovc dhe Medvegjë. Administrimi i këtyre kuotave bëhet nga ministritë respektive të arsimit, të cilat sjellin në Ministrinë e Arsimit dhe Shkencës listat e kandidatëve fitues. Ministria e Arsimit dhe Shkencës i përcjell këto lista në institucione publike të arsimit të lartë. Këto kuota pranimi, të ndara sipas programeve të studimit, janë pasqyruar në tabelën nr.2, që i bashkëlidhet këtij vendimi.
+5. Kuotat e pranimeve për shtetas të huaj që do të studiojnë në institucionet publike të arsimit të lartë të Republikës së Shqipërisë, shpërndahen nga Ministria e Arsimit dhe e Shkencës, në bazë të marrëveshjeve dy e shumëpalëshe.
+6. Tarifat vjetore të shkollimit për studentët që do të regjistrohen në vitin e parë, në programet e studimit të ciklit të parë në vitin akademik 2007-2008, të jenë:
+a) Në Universitetin e Tiranës:
+1. Për të gjitha programet e studimit në Fakultetin e Shkencave të Natyrës 15 000 lekë;
+2. Për të gjitha programet e studimit në Fakultetin e Gjuhëve të Huaja, 15 000 lekë;

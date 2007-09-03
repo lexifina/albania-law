@@ -1,0 +1,1 @@
+10. Kuotat e pranimeve për një program të dytë studimi, të përcaktuara në shkronjën “b” të pikës 1 të këtij vendimi dhe kuotat e transferimeve shpërndahen nga Ministria e Arsimit dhe Shkencës, mbështetur në kërkesat e institucioneve publike të arsimit të lartë, në bazë të kërkesave të paraqitura prej tyre.
