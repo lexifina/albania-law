@@ -1,0 +1,1 @@
+5. Zyra rajonale e AKKP-së, në qark, verifikon vërtetësinë e dokumentacionit të paraqitur nga kërkuesi, si dhe mund të kërkojë dokumente të nevojshme, nga institucione të treta, për vërtetimin e gjendjes, juridike apo fizike, të trojeve në përdorim, si dhe konfirmimin e dokumentacionit tekniko-ligjor.

@@ -1,0 +1,1 @@
+8. Administrimi i kërkesave, afatet e shqyrtimit, ankimi ndaj vendimeve të zyrave rajonale të AKKP-së, në qarqe, procedurat, afatet e komunikimit ndërmjet AKKP-së dhe institucioneve shtetërore dhe raportimi i strukturave të AKKP-së rregullohen, në përputhje me aktet, ligjore e nënligjore, në fuqi, që rregullojnë veprimtarinë e AKKP-së.

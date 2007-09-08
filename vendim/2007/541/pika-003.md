@@ -1,0 +1,1 @@
+3. Sipërfaqet e trojeve, që do të trajtohen sipas pikës 2 të këtij vendimi, nuk duhet të kenë qenë më parë objekt trajtimi nga AKKP-ja ose ish-komisionet vendore për kthimin dhe kompensimin e pronave.
