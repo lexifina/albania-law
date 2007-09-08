@@ -1,0 +1,1 @@
+3. Pikat 2 dhe 3 të vendimit nr.196, datë 13.4.2007 të Këshillit të Ministrave “Për miratimin e projektit “Prodhimi dhe shpërndarja e dokumentit të identitetit dhe pasaportave elektronike të shtetasve shqiptarë” dhe për një shtesë fondi në buxhetin e vitit 2007, miratuar për Ministrinë e Brendshme”, shfuqizohen.
