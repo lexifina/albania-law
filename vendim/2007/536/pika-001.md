@@ -1,0 +1,1 @@
+1. Kriteret e konkurrimit për dhënien me qira, me çmimin simbolik një euro, të sipërfaqes 14 600 m2, ku përfshihen objektet, kulla e ftohjes, pompat e ujit, magazina e uzinës së vjetër të uresë, Fier, për ndërtimin e një termocentrali, të jenë sipas përcaktimeve të bëra në shtojcën nr.1, që i bashkëlidhet këtij vendimi.

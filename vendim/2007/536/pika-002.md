@@ -1,0 +1,1 @@
+2. Procedurat për dhënien me qira janë ato të përcaktuara në vendimin nr.162, datë 7.3.2007 të Këshillit të Ministrave “Për dhënien me qira të pasurive të ndërmarrjeve, shoqërive apo institucioneve shtetërore”.
