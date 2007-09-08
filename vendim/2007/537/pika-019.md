@@ -1,0 +1,1 @@
+19. QKR-ja, për pranimin e aplikimit për publikim të emërtimit apo shenjave dalluese, sipas shkronjës “a” të pikës 1 të nenit 44 të ligjit për QKR-në, verifikon nëse emërtimi apo shenjat dalluese bien në kundërshtim të dukshëm me ndalimet e përcaktuara në pikat 16 deri 18 të këtij vendimi.

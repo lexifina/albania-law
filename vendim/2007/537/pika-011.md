@@ -1,0 +1,3 @@
+11. Për miratimin e aplikimit për regjistrim, ndryshim apo rezervim të emrit të personit juridik, nëpunësi i autorizuar i QKR-së:
+a) verifikon, në bazën e të dhënave elektronike të QKR-së, nëse emri, që kërkohet të regjistrohet apo rezervohet, është i njëjtë apo i ngjashëm me emrat e regjistruar apo të rezervuar më parë nga një subjekt tjetër dhe vlerëson, në bazë të rezultatit të kërkimit, karakterin dallues të emrit, që kërkohet të regjistrohet apo të rezervohet;
+b) verifikon nëse emri i personit juridik, që kërkohet të regjistrohet apo rezervohet, bie në kundërshtim me ndalimet e përmendura në pikat 4 deri 9 të këtij vendimi.

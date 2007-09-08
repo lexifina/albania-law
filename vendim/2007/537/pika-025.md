@@ -1,0 +1,1 @@
+25. Regjistrimi i emrit të personit juridik nuk përbën pengesë për regjistrimin nga të tretët të një shenje të ngjashme apo të njëjtë me të, si markë tregtare apo shërbimi, përveç rastit kur, në përputhje me legjislacionin për pronësinë industriale, përdorimi i emrit në kursin e tregut ka efekt pengues ndaj këtij regjistrimi.

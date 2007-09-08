@@ -1,0 +1,2 @@
+15. Çdo person i interesuar, në përputhje me ligjin për QKR-në dhe Kodin e Procedurave Administrative, ka të drejtë, brenda afateve ligjore, të ankohet, në rrugë administrative ndaj vendimit të QKR-së, për regjistrimin e emrit të personit juridik në shkelje të dispozitave të pikave 2 deri 9 të këtij vendimi.
+Ndaj vendimit përfundimtar të ankimit në rrugë administrative, personi i interesuar, brenda afateve, mund të ankohet në rrugë gjyqësore, në përputhje me dispozitat e Kodit të Procedurës Civile.

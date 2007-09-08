@@ -1,0 +1,2 @@
+14. Ndaj vendimit të QKR-së, subjekti, të cilit i është refuzuar regjistrimi i emrit, ka të drejtë të ankohet, në rrugë administrative, brenda afateve ligjore, në përputhje me dispozitat e ligjit për QKR-në dhe Kodin e Procedurave Administrative.
+Ndaj vendimit përfundimtar të ankimit në rrugë administrative, ky subjekt, në përputhje me dispozitat e Kodit të Procedurës Civile e brenda afateve ligjore, mund të ankohet në rrugë gjyqësore.

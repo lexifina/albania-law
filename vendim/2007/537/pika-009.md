@@ -1,0 +1,1 @@
+9. Ndalimet, e përcaktuara në pikën 6 të këtij vendimi, nuk zbatohen në rastin kur titullari i institucionit ka dhënë me shkrim, miratimin për përdorimin e emrit dhe emrit, që kërkohet të regjistrohet, i është shtuar një element me karakter dallues.

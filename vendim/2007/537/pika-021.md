@@ -1,0 +1,2 @@
+21. Subjekti, të cilit i është refuzuar publikimi i emërtimit apo i shenjave, ka të drejtë, që, brenda afateve ligjore, të ankohet në rrugë administrative ndaj vendimit, në përputhje me dispozitat e ligjit për QKR-në dhe të Kodit të Procedurave Administrative.
+Ndaj vendimit përfundimtar të ankimit në rrugë administrative, subjekti, brenda afateve ligjore, mund të ankohet në rrugë gjyqësore, në përputhje me dispozitat e Kodit të Procedurës Civile.

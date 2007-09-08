@@ -1,0 +1,2 @@
+31. Çdo person i interesuar, në përputhje me nenin 638 të Kodit Civil të Republikës së Shqipërisë, me dispozitat, që rregullojnë pronësinë industriale dhe të drejtën e autorit, e në rastet e parashikuara prej këtyre dispozitave a dispozitave të tjera ligjore, ka të drejtë të ankohet, në rrugë gjyqësore, ndaj përdorimit të paligjshëm në kursin e tregut të emërtimit apo të shenjave dalluese të veprimtarisë.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

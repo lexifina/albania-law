@@ -1,0 +1,1 @@
+20. Nëse nëpunësi i autorizuar, pas verifikimeve të sipërpërmendura, vëren se emërtimi apo shenjat dalluese bien në kundërshtim me rregullat e parashikuara në pikat 16 deri 18 të këtij vendimi, QKR-ja refuzon publikimin.

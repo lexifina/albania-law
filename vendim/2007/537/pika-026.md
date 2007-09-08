@@ -1,0 +1,1 @@
+26. Çdo person i interesuar mund të kërkojë, në rrugë gjyqësore, ndalimin e përdorimit apo çregjistrimin e emrit të personit juridik, nëse ai cenon të drejtën e emrit, sipas nenit 5 të Kodit Civil të Republikës së Shqipërisë.

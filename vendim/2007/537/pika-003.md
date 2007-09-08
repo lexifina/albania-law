@@ -1,0 +1,1 @@
+3. Ndalimi, i parashikuar në pikën 2 të këtij vendimi, nuk zbatohet në rastin kur titullari i ligjshëm i emrit të regjistruar apo të rezervuar më parë autorizon me shkrim, regjistrimin e emrit, që kërkohet të regjistrohet. Në këtë rast, emrit i shtohet një element me karakter dallues.

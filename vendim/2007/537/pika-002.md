@@ -1,0 +1,2 @@
+2. Ndalohet regjistrimi në regjistrin tregtar, pranë QKR-së, i personave juridikë, përfshirë degët apo zyrat e përfaqësimit të shoqërive të huaja, të cilët aplikojnë për regjistrim fillestar, duke deklaruar një emër, të njëjtë apo të ngjashëm, me emrin e regjistruar apo të rezervuar më parë nga një subjekt tjetër.
+I njëjti ndalim zbatohet edhe në rastin e ndryshimit të emrit të personit juridik apo të rezervimit të emrit, në përputhje me dispozitat e ligjit për QKR-në.

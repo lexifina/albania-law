@@ -1,0 +1,1 @@
+27. Çdo person i interesuar mund të kërkojë, në rrugë gjyqësore, ndalimin e përdorimit apo çregjistrimin e emrit të personit juridik, nëse ai cenon një të drejtë, sipas legjislacionit për të drejtën e autorit.

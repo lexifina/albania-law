@@ -1,0 +1,1 @@
+18. Ndalohen njoftimi dhe botimi nga regjistri tregtar, pranë QKR-së, i emërtimeve apo shenjave të tjera dalluese të veprimtarisë, sipas përcaktimeve të këtij vendimi, të cilat ndalohen, shprehimisht, nga një dispozitë urdhëruese e ligjit.
