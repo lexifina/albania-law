@@ -1,0 +1,1 @@
+1. Lejimin e kalimit transit, më 4.9.2007, të një njësie ushtarake italiane, të përbërë nga 7 (shtatë) ushtarakë dhe 1 (një) automjet ushtarak. Pika e hyrjes në territorin e Republikës së Shqipërisë është pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes është pika e kalimit të kufirit Durrës.
