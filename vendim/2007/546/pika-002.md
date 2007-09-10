@@ -1,0 +1,1 @@
+2. Lejimin e kalimit transit, më 3.9.2007, të po kësaj njësie ushtarake, e cila të hyjë në territorin e Republikës së Shqipërisë, në pikën e kalimit të kufirit Durrës, dhe të dalë nga ky territor, në pikën e kalimit të kufirit Qafë-Thanë.
