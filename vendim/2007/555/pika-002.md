@@ -1,0 +1,1 @@
+2. Hartat, ku janё tё pёrcaktuara çmimet pёrkatёse, pёr qarqet e Beratit e të Gjirokastrës dhe për qytetet Bulqizë, Burrel, Klos dhe Vlorë, tё cilat i bashkёlidhen kёtij vendimi, janё pjesё pёrbёrёse e tij.
