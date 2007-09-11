@@ -1,0 +1,1 @@
+1. Krijimin e Qendrës së Fizikës Bërthamore të Zbatuar (QEFIB), në bazë të ish-Institutit të Fizikës Bërthamore, të Akademisë së Shkencave, si njësi bazë, qendër kërkimi dhe zhvillimi, pranë Fakultetit të Shkencave të Natyrës, të UT-së.

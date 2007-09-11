@@ -1,0 +1,1 @@
+11. Struktura dhe organika e njësive të reja, që krijohen, të përmendura në pikën 1 të këtij vendimi, përgatiten në bazë të numrit të përgjithshëm të punonjësve, të miratuar në pikën 10 të këtij vendimi, dhe miratohen nga rektori i UT-së.
