@@ -1,0 +1,1 @@
+17. IGJEO-s, në UPT, i kalojnë të gjitha asetet (burime financiare, mjediset e punës, laboratorë, zyra, automjete, donacione, projekte kërkimi e zhvillimi, orendi, infrastrukturë, informatike, rrjet telefonik etj.), si dhe arkivat shkencorë e çdo dokumentacion tjetër arkivor i instituteve dhe i njësive, të përmendura në pikën 1 të këtij vendimi.
