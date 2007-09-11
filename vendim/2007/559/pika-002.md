@@ -1,0 +1,1 @@
+2. QSA-ja kryen kërkimin shkencor, formimin universitar të thelluar të studentëve dhe shkencëtarëve, si dhe shërbime e transferime të njohurive, në fushat e identitetit, të kulturës, pasurive materiale e shpirtërore e të historisë së botës shqiptare.

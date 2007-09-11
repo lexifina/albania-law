@@ -1,0 +1,1 @@
+19. Ngarkohen Ministri i Arsimit dhe Shkences dhe Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve dhe Kryetari i Akademisë së Shkencave të përgatisin urdhrin e përbashkët, për inventarizimin e aseteve e të pasurive dhe ndarjen e tyre, përkatësisht për secilin institucion, sipas këtij vendimi.

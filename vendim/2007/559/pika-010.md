@@ -1,0 +1,2 @@
+10. Drejtori i QSA-së, për periudhën kalimtare, emërohet dhe shkarkohet nga Ministri i Arsimit dhe Shkencës, në bazë të rekomandimeve të bëra nga Këshilli i Arsimit të Lartë dhe Shkencës.
+Drejtori i QSA-së, për periudhën kalimtare, emëron dhe shkarkon nëndrejtorin dhe drejtuesit e njësive përbërëse. Kancelari emërohet nga Ministri i Arsimit dhe Shkencës dhe përzgjidhet ndërmjet tre kandidaturave të propozuara nga këshilli drejtues.

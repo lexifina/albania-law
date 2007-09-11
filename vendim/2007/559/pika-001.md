@@ -1,0 +1,1 @@
+1. Bashkimin e Institutit të Arkeologjisë, Institutit të Gjuhësisë dhe Letërsisë, Institutit të Kulturës Popullore, Institutit të Historisë, Qendrës Enciklopedike Shqiptare dhe Qendrës së Studimeve të Artit dhe organizimin e tyre në Qendrën e Studimeve Albanologjike (QSA), me statusin e personit juridik.

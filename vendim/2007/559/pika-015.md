@@ -1,0 +1,1 @@
+15. Gjatë periudhës kalimtare QSA-ja do të ketë varësi administrative nga Ministria e Arsimit dhe Shkencës, e cila do të kontrollojë dhe auditojë përdorimin e fondeve buxhetore, zhvillimin e procesit të kërkimit, si dhe të gjithë ecurinë e Qendrës. Pas mbarimit të kësaj periudhe, QSA-ja do të funksionojë në përputhje me ligjin për arsimin e lartë.

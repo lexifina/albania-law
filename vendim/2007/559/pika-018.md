@@ -1,0 +1,4 @@
+18. Asetet, burimet financiare dhe vlerat e këtyre instituteve, u kalojnë, përkatësisht:
+a) QSA-së të gjitha asetet (burime financiare, mjedise, zyra, revista, automjete, donacione, programe zhvillimi, orendi, infrastrukturë informatike, rrjet telefonik etj.), të instituteve të përmendura në pikën 1 të këtij vendimi, si dhe arkivat shkencore e çdo dokumentacion tjetër arkivor i tyre, me përjashtim të vlerave dhe pasurive të paluajtshme, të përmendura në shkronjat “b” e “c” të kësaj pike.
+b) Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve pasuritë e paluajtshme dhe të gjitha vlerat e ekspozueshme, në funksion të shërbimit arkeologjik, të përcaktuara në pikën 16, të këtij vendimi.
+c) Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, të cilat i kalojnë, gjithashtu, në inventar, vlerat e ekspozueshme të arkivit të ish-Institutit të Kulturës Popullore, për t’i përdorur në shërbim të turizmit kulturor.

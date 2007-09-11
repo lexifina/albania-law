@@ -1,0 +1,1 @@
+16. Pjesë të ish-Institutit të Arkeologjisë (muzetë arkeologjike në Durrës, Apoloni, Butrint e Korçë) i shkëputen këtij instituti dhe transferohen në inventarin e Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, për ngritjen e shërbimit arkeologjik.
