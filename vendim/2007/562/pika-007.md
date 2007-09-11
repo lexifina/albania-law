@@ -1,0 +1,1 @@
+7. Ngarkohen Ministri i Arsimit dhe Shkencës dhe kryetari i Akademisë së Shkencave të përgatisin një urdhër të përbashkët, për inventarizimin dhe transferimin e aseteve të pasurive, sipas përcaktimeve të këtij vendimi.

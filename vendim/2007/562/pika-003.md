@@ -1,0 +1,1 @@
+3. Njësitë e përmendura në pikën 1 të këtij vendimi, organizohen dhe funksionojnë sipas dispozitave të Ligjit “Për arsimin e lartë në Republikën e Shqipërisë”. Detyrat dhe funksionimi i tyre përcaktohen në statutin dhe rregulloret e institucionit.

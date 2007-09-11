@@ -1,0 +1,1 @@
+6. Pasuritë, e luajtshme dhe të paluajtshme (burime financiare, mjedise pune, laboratorë, zyra, automjete, donacione, projekte kërkimi dhe zhvillimi, orendi, infrastrukturë informatike, etj., si dhe arkivat shkencorë e çdo dokumentacion tjetër arkivor) të ish-IKB-së, kalojnë në pronësi të Fakultetit të Shkencave të Natyrës, të Universitetit të Tiranës.
