@@ -1,0 +1,1 @@
+6. Agjencia e Kthimit dhe Kompensimit të Pronave, në mbështetje të fondeve të planifikuara në Buxhetin e Shtetit, bën kalimin e fondit të kompensimit financiar, në emër të subjektit të shpronësuar, përfitues të kompensimit, apo të përfaqësuesit të tij me prokurë, në përputhje me procedurat për zbatimin e Buxhetit të Shtetit.

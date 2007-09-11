@@ -1,0 +1,1 @@
+1. Subjektet e shpronësuara, prona e të cilave është njohur e gjitha për kompensim dhe që i përket atyre qarqeve, rretheve apo qyteteve, për të cilat është miratuar harta e vlerës së pronës, që nuk kanë përfituar nga kompensimet financiare të mëparshme, të kompensohen, sipas radhës kronologjike, të përcaktuar nga numri i vendimit, sipas viteve.
