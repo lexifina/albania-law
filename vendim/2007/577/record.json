@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5678,
+  "title": "Për disa ndryshime dhe shtesa në vendimin nr.463, datë 5.7.2006 të këshillit të ministrave “Për miratimin e planit kombëtar për zbatimin e marrëveshjes së stabilizim-Asociimit”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "577",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-09-05",
+  "published": "2007-09-14",
+  "in_force": "2007-09-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d29a91dfaba3a5917583ffbecd367060f643885011e82325276b91e7d18f137d.docx",
+  "source_sha256": "d29a91dfaba3a5917583ffbecd367060f643885011e82325276b91e7d18f137d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5678",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/09/05/577",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
