@@ -1,0 +1,1 @@
+7. Zyrat vendore të regjistrimit të pasurive të paluajtshme, sipas vendndodhjes së pronës, të verifikojnë dhe konfirmojnë gjendjen juridike të çdo prone shtetërore, të paraqitur nga institucionet shtetërore përkatëse, që do të bëjë pjesë në fondin për kompensim fizik.

@@ -1,0 +1,1 @@
+2. Në bazë të regjistrit të krijuar nga grumbullimi i të dhënave nga të gjitha institucionet, që administrojnë pasuritë e mësipërme, si dhe në bazë të të dhënave të Agjencisë së Inventarizimit dhe Transferimit të Pronës Publike, krijohen hartat e pronave përkatëse, sipas vendndodhjes, në qarqe. Në këtë hartë saktësohen kufijtë dhe sipërfaqet e secilës pronë.

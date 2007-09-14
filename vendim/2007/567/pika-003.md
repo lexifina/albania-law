@@ -1,0 +1,1 @@
+3. Institucionet shtetërore, qendrore dhe vendore, që administrojnë prona shtetërore, të evidentojnë pronat e përmendura në pikën 1, të cilat do të jenë pjesë e fondit për kompensimin fizik. Për çdo pasuri, institucionet përkatëse përgatisin dosjen e dokumentacionit të pronës dhe e përcjellin në AKKP (zyrën qendrore apo zyrat rajonale, sipas vendndodhjes së pronës).

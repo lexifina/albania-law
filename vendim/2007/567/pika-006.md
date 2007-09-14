@@ -1,0 +1,1 @@
+6. Në rast se për prona, brenda fondit për kompensim fizik, evidentohen pretendime nga subjektet e shpronësuara, atëherë deri në nxjerrjen e vendimit për këto pretendime, pasuria në fjalë do të përjashtohet nga lista e fondit të pasurive të paluajtshme, që do të shërbejnë për kompensim fizik.
