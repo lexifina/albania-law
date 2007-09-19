@@ -1,0 +1,1 @@
+4. Shpërndarja e vlerave financiare kreditorëve do të kryhet në degën e Bankës Kombëtare Tregtare, Lushnjë, sipas marrëveshjes, që do të lidhë Grupi Mbikëqyrës dhe administratori i shoqërisë “NAHLEL” sh.p.k., Lushnjë, me Drejtorinë e Përgjithshme të Bankës Kombëtare Tregtare, Tiranë.

@@ -1,0 +1,3 @@
+1. Kompensimin e kreditorëve të shoqërisë “NAHLEL” sh.p.k., Lushnjë, në administrim sipas koeficientit të kthimit të shumave, të llogaritur si raport i të ardhurave, të realizuara dhe të depozituara, në bankë, nga shitja e aseteve, dhe e shumës së detyrimit të shoqërisë, ndaj kreditorëve.
+1.1 Të ardhurat e realizuara nga shitja e aseteve të shoqërisë “NAHLEL” sh.p.k., Lushnjë, në administrim, dhe të depozituara në Bankën Kombëtare Tregtare, Tiranë janë 2 192 799 (dy milionë e njëqind e nëntëdhjetë e dy mijë e shtatëqind e nëntëdhjetë e nëntë) lekë.
+1.2 Shuma e detyrimit të mbetur, që shoqëria huamarrëse “NAHLEL sh.p.k., në administrim, ka ndaj kreditorëve është 27 594 790 (njëzet e shtatë milionë e pesëqind e nëntëdhjetë e katër mijë e shtatëqind e nëntëdhjetë) lekë.

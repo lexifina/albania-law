@@ -1,0 +1,1 @@
+5. Për shërbimin e kryerjes së pagesës së kreditorëve nga Dega e Bankës Kombëtare Tregtare, Lushnjë, Grupi Mbikëqyrës do t’i paguajë bankës një komision bankar, në shumën 100 lekë për çdo kreditor, me vlerën 25 900 (njëzet e pesë mijë e nëntëqind) lekë.
