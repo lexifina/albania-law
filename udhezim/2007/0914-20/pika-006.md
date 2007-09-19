@@ -1,0 +1,1 @@
+6. Individët të cilët në çastin e hyrjes në territorin doganor shqiptar disponojnë aparate celularë, që futen për herë të parë në Shqipëri, vlera e të cilave është nën minimumin e patatueshëm, të vendosur me ligj, duhet të plotësojnë dhe dorëzojnë pranë shërbimit doganor deklaratën “Modeli 1”, bashkëlidhur këtij udhëzimi.

@@ -1,0 +1,1 @@
+4. Personat e tatueshëm importues që merren me tregtimin e aparateve celularë detyrohen të mbajnë një kopje të formularit të deklarimit në doganë të numrave IMEI të aparateve të importuara prej tyre. Njëkohësisht në faturën e lëshuar për çdo shitje, krahas informacionit të detyrueshëm me ligj, të paraqesë edhe numrin IMEI të çdo aparati që shet.

@@ -1,0 +1,1 @@
+7. Në të gjitha rastet kur për vlerën e aparatit nuk mund të zbatohen nenet 508, 509 të vendimit të Këshillit të Ministrave nr.205, datë 13.4.1999 “Për miratimin e dispozitave zbatuese të Kodit Doganor”, bëhet zhdoganimi i tij dhe më pas plotësohet “Modeli 1” bashkëlidhur këtij udhëzimi.

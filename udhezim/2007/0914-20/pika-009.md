@@ -1,0 +1,1 @@
+9. Ngarkohet DPD-ja të bëjë furnizimin e të gjitha doganave kufitare me formularin “Model 1” dhe të bëjë publikimin në të gjitha pikat e kalimit kufitar të detyrimit që kanë udhëtarët për deklarimin e aparateve GSM.

@@ -1,0 +1,1 @@
+2. Personat e tatueshëm që merren me tregtimin e aparateve celularë duke blerë e shitur brenda vendit, detyrohen të mbajnë kopje të faturave të blerjes dhe të shitjes, ku paraqitet numri IMEI i çdo aparati.
