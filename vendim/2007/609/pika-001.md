@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit të formës “BOT”, (ndërtim-shfrytëzim-transferim) ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “REMI”, sh.p.k., për ndërtimin e hidrocentralit “EGNATIA”, sipas tekstit dhe aneksit, që i bashkëlidhen këtij vendimi.
