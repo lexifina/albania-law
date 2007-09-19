@@ -1,0 +1,1 @@
+6. Shuma 1 618 950 (një milion e gjashtëqind e tetëmbëdhjetë mijë e nëntëqind e pesëdhjetë) lekë të përballohet nga fondi rezervë i Këshillit të Ministrave, për vitin 2007, e cila do t’i shtohet Grupit Mbikëqyrës, në planin financiar, zëri “Shpenzime”.

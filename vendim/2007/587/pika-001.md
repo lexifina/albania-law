@@ -1,0 +1,3 @@
+1. Kompensimin e kreditorëve të shoqërisë “BENO” sh.p.k., në administrim, Lushnjë, sipas koeficientit të kthimit të shumave, të llogaritur si raport i të ardhurave, të realizuara dhe të depozituara, në bankë, nga shitja e aseteve, dhe e shumës së detyrimit të shoqërisë, ndaj kreditorëve.
+1.1 Të ardhurat, e realizuara nga shitja e aseteve të shoqërisë “BENO” sh.p.k., në administrim, Lushnjë, dhe të depozituara në Bankën Kombëtare Tregtare, Tiranë janë 20 533 034 (njëzet milionë e pesëqind e tridhjetë e tre mijë e tridhjetë e katër) lekë.
+1.2 Shuma e detyrimit të mbetur, që shoqëria huamarrëse “BENO” sh.p.k., në administrim, ka ndaj kreditorëve është 273 279 182 (dyqind e shtatëdhjetë e tre milionë e dyqind e shtatëdhjetë e nëntë mijë e njëqind e tetëdhjetë e dy) lekë.
