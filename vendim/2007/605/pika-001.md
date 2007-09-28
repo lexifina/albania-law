@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2007, t’i shtohet fondi 1 500 000 (një milion e pesëqind mijë) lekë, për financimin e shpenzimeve për hapjen e kutive të votimit dhe të kutive të materialeve zgjedhore, të përdorura në zgjedhjet për organet e qeverisjes vendore, 2007.
