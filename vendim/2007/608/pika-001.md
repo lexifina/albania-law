@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të bashkisë së Përrenjasit të objektit “Kinoklubi i qytetit”, me sipërfaqe të përgjithshme 493 m2, në zonën kadastrale 2924, me numër pasurie 2/47, për zhvillimin e veprimtarive social-kulturore.
