@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit (Drejtoria e Përgjithshme e Rrugëve), që, me fondet e TVSH-së, të programuara në buxhetin e vitit 2007, për projektin e rrugës Levan-Vlorë, të paguajë kontraktorin, me vlerën e paradhënies, në përputhje me kontratën e lidhur sipas standardeve të BERZH-it dhe BEI-it.
