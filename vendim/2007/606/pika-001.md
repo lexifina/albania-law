@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2007, t’i shtohet fondi 4 500 000 (katër milionë e pesëqind mijë) lekë, për financimin e zgjedhjeve të pjesshme parlamentare, në zonën zgjedhore nr.31, Tiranë, më 23 shtator 2007.
