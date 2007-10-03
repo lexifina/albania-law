@@ -1,0 +1,27 @@
+{
+  "qbz_id": 19398,
+  "title": "Vendim Nr.271 Dt.09.05.1998",
+  "type": "Vendim",
+  "number": "271",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1998-05-09",
+  "version_no": 1,
+  "qbz_version_id": 2151,
+  "in_force": "2007-10-03",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2007-10-03",
+  "changed_by_qbz_id": 5794,
+  "changed_by_number": "678",
+  "changed_by_title": "Për një shtesë në vendimin nr.271, datë 9.5.1998 të këshillit të ministrave “Për miratimin e statutit tip të shoqërive anonime, shtetërore”",
+  "source": "https://qbz.gov.al/files/277e8914054b1913243fa23ddb2dcd3a99da14923b70edd9f24a589cfd78d3c9.docx",
+  "source_sha256": "277e8914054b1913243fa23ddb2dcd3a99da14923b70edd9f24a589cfd78d3c9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19398",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/19398/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
