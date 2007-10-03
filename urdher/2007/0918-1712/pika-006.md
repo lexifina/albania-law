@@ -1,0 +1,1 @@
+6. Afati i vlefshmërisë së “Statusit të emigrantit”, për familjarët të cilët do t’i bashkohen emigrantit të larguar/që do të largohet për motive punësimi, do të jetë në përputhje me afatin e autorizimit për ribashkim familjar nga vendi pritës.

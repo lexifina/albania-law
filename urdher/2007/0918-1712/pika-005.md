@@ -1,0 +1,2 @@
+5. Afati i vlefshmërisë së “Statusit të emigrantit” për emigrantët që do të largohen për motive punësimi, do të jetë në përputhje me kohëzgjatjen e kontratës së punës në vendin pritës, nëse nuk ndryshon statusin e tij të punësimit.
+Për kategorinë e të vetëpunësuarve dhe të punëdhënësve, do të jetë në përputhje me afatin e përcaktuar në dokumentacionin e regjistrimit të tij pranë organeve fiskale të vendit pritës.

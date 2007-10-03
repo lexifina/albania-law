@@ -1,0 +1,1 @@
+2. “Statusi i emigrantit” është dokumenti zyrtar, sipas formatit bashkëngjitur, i cili identifikon emigrantin, me qëllim gëzimin e përfitimeve të përcaktuara në ligjin nr.9668, datë 18.12.2006 “Për emigrimin e shtetasve shqiptarë për motive punësimi”.

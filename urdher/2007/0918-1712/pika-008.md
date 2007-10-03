@@ -1,0 +1,2 @@
+8. Rinovimi i dokumentit “Statusi i emigrantit”, kërkohet nga subjekti përfitues 30 ditë para përfundimit të vlefshmërisë së tij. Kërkesa për rinovim shoqërohet me dokumentacionin e përcaktuar në pikën 4 të këtij urdhri, për kategorinë të cilës i përket emigranti.
+Familjarët, të cilët i janë bashkuar emigrantit të larguar, në kërkesën për rinovim të statusit mund të paraqesin edhe lejen e qëndrimit për ribashkim familjar, në rast se janë pajisur me të nga autoritetet e vendit pritës.
