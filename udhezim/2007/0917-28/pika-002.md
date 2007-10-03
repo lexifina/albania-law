@@ -1,0 +1,3 @@
+2. Kandidatët fitues përcaktohen nga QPI-ja në bazë të dy parimeve:
+a) Parimi i meritës: sipas pikëve të grumbulluara në bazë të rezultateve të shkollës së mesme, të provimeve të “Maturës shtetërore” dhe për disa programe studimi edhe të rezultateve të konkursit të zhvilluar në bazë të udhëzimit nr.21, datë 16.8.2007 “Për zhvillimin e konkurseve të pranimit, tarifën e regjistrimit për konkurrim, në disa programe të ndryshme studimi në ciklin e parë me kohë të plotë në institucionet publike të arsimit të lartë, për vitin akademik 2007-2008”;
+b) Parimi i vullnetit të kandidatëve, i shprehur nëpërmjet preferencës më të lartë të zgjedhur prej tyre në formularin A2.

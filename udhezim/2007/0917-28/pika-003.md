@@ -1,0 +1,1 @@
+3. QPI-ja deri në datën 17.9.2007 do të përgatisë listën paraprake të kandidatëve fitues, të ndarë sipas programeve të studimit përkatës, të renditur sipas rendit zbritës të pikëve dhe preferencës më të lartë të kërkuar prej tyre në formularin A2, në përputhje me kuotat e pranimeve të miratuara me vendimin nr.517, datë 8.8.2007 të Këshillit të Ministrave.

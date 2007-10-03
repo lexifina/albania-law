@@ -1,0 +1,1 @@
+4. Listat paraprake të kandidatëve fitues, në formë të shkruar dhe elektronike do t’u dorëzohen institucioneve publike të arsimit të lartë, sipas programeve përkatëse të studimit, në datën 18.9.2007 nga QPI-ja. Këto institucione do t’i afishojnë listat në vende të dukshme, në mjediset e fakulteteve përkatëse, brenda orës 15.00 të datës 18.9.2007.

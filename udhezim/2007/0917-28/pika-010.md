@@ -1,0 +1,1 @@
+10. Në bazë të regjistrimeve paraprake të kryera dhe vendeve të paplotësuara, QPI-ja në datën 27 shtator 2007, do të përgatisë listën përfundimtare të kandidatëve fitues duke ruajtur parimet e shprehura në pikën 2 të këtij udhëzimi.

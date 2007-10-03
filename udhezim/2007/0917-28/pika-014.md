@@ -1,0 +1,1 @@
+14. Lista e kandidatëve fitues, sipas programeve të ndryshme të studimit, për shqiptarët nga trojet jashtë vendit, të përcaktuara nga ministritë e arsimit të vendeve përkatëse, në përputhje me kuotat e pranimeve të miratuara me vendimin nr.517, datë 8.8.2007 të Këshillit të Ministrave, dërgohen në institucionet publike të arsimit të lartë deri më 25 shtator 2007.

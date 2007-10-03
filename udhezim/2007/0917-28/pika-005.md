@@ -1,0 +1,1 @@
+5. Për organizimin dhe realizimin e procesit të pranimit dhe regjistrimit të kandidatëve në ciklin e parë të studimeve me kohë të plotë, ngarkohen njësitë kryesore të institucioneve publike të arsimit të lartë. Ky proces do të jetë nën monitorimin e administratës së Rektoratit dhe Ministrisë së Arsimit dhe Shkencës.

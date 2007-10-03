@@ -1,0 +1,1 @@
+15. Kandidatët shqiptarë nga Kosova, Maqedonia, Mali i Zi, Presheva, Bujanovci dhe Medvegja do të regjistrohen pranë sekretarive të fakulteteve në datat 26, 27 dhe 28 shtator 2007, duke paraqitur dokumentet sipas pikës 7.2. Dokumentet e përmendura në pikat 7.2a dhe 7.2b, duhet të jenë të përkthyera në gjuhën shqipe e të noterizuara.
