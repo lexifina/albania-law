@@ -1,0 +1,1 @@
+I. Rregulla të përgjithshme
