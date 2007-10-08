@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7281,
+  "title": "Për zgjedhjen e katër anëtarëve të Këshillit DREJTUES të rtsh-sË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "123",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-09-24",
+  "published": "2007-10-08",
+  "in_force": "2007-10-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7220ca68423ae20635672a1ea65cc560a718deb9dd072940493b5077de9b0ce5.docx",
+  "source_sha256": "7220ca68423ae20635672a1ea65cc560a718deb9dd072940493b5077de9b0ce5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7281",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/09/24/123",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
