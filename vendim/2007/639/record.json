@@ -1,0 +1,29 @@
+{
+  "qbz_id": 7300,
+  "title": "PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, NË BASHKINË VLORË TË QARKUT TË VLORËS",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "639",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-09-29",
+  "published": "2007-10-11",
+  "in_force": "2007-10-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/dfae734d517f5a77ee286fc3d25e1df358c83691670d9baeb02be9bbfb7d9e34.docx",
+  "source_sha256": "dfae734d517f5a77ee286fc3d25e1df358c83691670d9baeb02be9bbfb7d9e34",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7300",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/09/29/639",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    21284,
+    9757
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
