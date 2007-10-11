@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të katit përdhe, bodrumit, të mjediseve të tjera dhe të territorit të ish-spitalit civil të Shkodrës, nga Ministria e Shëndetësisë Ministrisë së Arsimit dhe Shkencës, për Universitetin e Shkodrës, të përcaktuar në formularin nr.3, sipas planvendosjes dhe planimetrisë, që i bashkëlidhen këtij vendimi.
