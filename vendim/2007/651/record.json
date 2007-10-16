@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5738,
+  "title": "Një ndryshim në vendimin nr.825, datë 28.12.2005 të këshillit të ministrave “Për emËrimin e Anëtarëve të Këshillit të Statistikave”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "651",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-09-29",
+  "published": "2007-10-16",
+  "in_force": "2007-10-16",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/db5a0a73282d77fd4f7864b79e95fc19923378ad186ac30d7455e818861b2c5f.docx",
+  "source_sha256": "db5a0a73282d77fd4f7864b79e95fc19923378ad186ac30d7455e818861b2c5f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5738",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/09/29/651",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
