@@ -1,0 +1,1 @@
+3. Procedurat e aplikimit për pajisjen me licencë/certifikatë për ushtrimin e veprimtarisë turistike ndiqen e zbatohen nga Komisioni i Standardeve të Turizmit (më tej KST), i cili mbështetet nga një sekretari teknike e caktuar me urdhër të ministrit përgjegjës për turizmin.

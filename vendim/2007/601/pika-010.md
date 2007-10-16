@@ -1,0 +1,1 @@
+10. Sekretaria teknike e KST-së, brenda 3 (tri) ditëve nga data e urdhrit të ministrit për miratimin e licencave/certifikatave, njofton zyrtarisht dhe përgatit licencën/certifikatën, sipas standardeve dhe formateve të miratuara. Në rastin e refuzimit të kërkesës, po brenda këtij afati, subjektit i njoftohet, me shkrim, arsyeja e refuzimit.

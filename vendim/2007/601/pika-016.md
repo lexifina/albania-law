@@ -1,0 +1,1 @@
+16. Çdo subjekt, aplikues për licencë/certifikatë, ka të drejtën e ankimit te ministri përgjegjës për turizmin, në rast se shkelen procedurat dhe afatet e vendosura në këtë vendim, në përputhje me Kodin e Procedurave Administrative.

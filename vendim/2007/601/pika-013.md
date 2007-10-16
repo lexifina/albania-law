@@ -1,0 +1,1 @@
+13. Subjektet, që ushtrojnë veprimtari në fushën e turizmit, kanë të drejtë ta ripërtërijnë licencën 40 (dyzet) ditë para përfundimit të afatit, duke iu nënshtruar të njëjtave standarde, kritere dhe procedura, të përmendura më sipër, si dhe e dorëzojnë licencën/certifikatën origjinale, të mëparshme.

@@ -1,0 +1,1 @@
+7. Komisioni i Standardeve të Turizmit shqyrton kërkesën e subjektit dhe raportin vlerësues, të përcaktuara në pikën 6 të këtij vendimi, jo më vonë se 10 (dhjetë) ditë pune nga data e dorëzimit, dhe i propozon ministrit përgjegjës për turizmin miratimin a refuzimin e licencës/certifikatës.

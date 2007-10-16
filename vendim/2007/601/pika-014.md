@@ -1,0 +1,1 @@
+14. Licenca/certifikata individuale nuk mund t’i transferohet një individi tjetër, me përjashtim të rastit kur subjekti, që e përfiton licencën/certifikatën plotëson standardet dhe kriteret e përcaktuara në këtë vendim e në rregulloret përkatëse, të miratuara nga ministri përgjegjës për turizmin.

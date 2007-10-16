@@ -1,0 +1,1 @@
+6. Pas plotësimit të dokumentacionit dhe verifikimit në vend të të dhënave të deklaruara e të depozituara në dosjen e subjektit, por jo më vonë se 15 ditë pune, sekretaria përgatit raportin vlerësues për Komisionin e Standardeve të Turizmit. Subjektit i njoftohet, me shkrim, fillimi i këtij afati, i cili vlerësohet si afati i dorëzimit zyrtar të dokumentacionit të plotë.

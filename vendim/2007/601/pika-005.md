@@ -1,0 +1,1 @@
+5. Kërkesa e subjektit dhe dokumentacioni shoqërues i përcillen për shqyrtim KST-së, nëpërmjet sekretarisë teknike. Pasi verifikon dokumentacionin e paraqitur, sekretaria teknike njofton subjektin brenda 5 (pesë) ditëve pune për plotësimin e tij, nëse është i paplotë.

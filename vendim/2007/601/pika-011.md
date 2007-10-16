@@ -1,0 +1,1 @@
+11. Për marrjen e licencës/certifikatës bëhet një pagesë 25 000 (njëzet e pesë mijë) lekë. Pagesa kryhet në numrin e llogarisë së Fondit të Zhvillimit të Turizmit, në zbatim të shkronjës “a” të pikës 2 të nenit 25 të ligjit nr.9734, datë 14.5.2007 “Për turizmin”.
