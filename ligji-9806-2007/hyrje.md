@@ -1,0 +1,7 @@
+LIGJ
+Nr.9806, datë 17.9.2007
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN EUROPIANE “PËR MBROJTJEN E TRASHËGIMISË ARKEOLOGJIKE” (TË RISHIKUAR)
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
