@@ -1,0 +1,30 @@
+{
+  "qbz_id": 66853,
+  "title": "Për miratimin e rregullave të prokurimit publik, me mjete elektronike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "659",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2007-10-03",
+  "published": "2007-10-24",
+  "in_force": "2007-10-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9e34dbd333569f0160377f667940d52a881005d44b76f52dfbe00721d9c80a61.docx",
+  "source_sha256": "9e34dbd333569f0160377f667940d52a881005d44b76f52dfbe00721d9c80a61",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66853",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/10/03/659",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    19715,
+    19280,
+    17623
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
