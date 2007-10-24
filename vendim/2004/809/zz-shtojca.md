@@ -23,29 +23,11 @@ Njësitë e qeverisjes vendore në të cilat transferohen
 Nr.e sistemeve që transferohen
 Referenca e miratim.invent.
 1
-Ujësjellës-kanalizime Pukë
-sh.a.
-Komuna Fierzë
-Sist. 2,16,21,22
-VKM 251
-24.4.2003
-lista11
+Shfuqizuar
 2
-Ujësjellës-kanalizime Pukë
-sh.a.
-Komuna Qerret
-Sist. 23,24,26,27,28
-VKM 251
-24.4.2003
-lista 11
+Shfuqizuar
 3
-Ujësjellës-kanalizime Pukë
-sh.a.
-Komuna Iballë
-Sist.18,19,20,29
-VKM 251
-24.4.2003
-lista 11
+Shfuqizuar
 4
 Ujësjellës-kanalizime Delvinë
 sh.a.
@@ -55,69 +37,22 @@ VKM 366
 5.6.2003
 lista 3
 5
-Ujësjellësi Shkodër fshat
-Ndërm.
-Komuna Guri i Zi
-Sist. 6,8
-VKM 366
-5.6.2003
-lista 4
+Shfuqizuar
+.
 6
-Ujësjellësi Shkodër fshat
-Ndërm.
-Komuna Ana e Malit
-Sist. 10
-VKM 366
-5.6.2003
-lista 4
+Shfuqizuar
 7
-Ujësjellësi Gjirokastër fshat
-Ndërm.
-Komuna Lazarat
-Sist. 4,7
-VKM 366
-5.6.2003
-lista 14
+Shfuqizuar
 8
-Ujësjellësi Gjirokastër fshat
-Ndërm.
-Komuna Dropull i Sipërm
-Sist. 9
-VKM 366
-5.6.2003
-lista 14
+Shfuqizuar
 9
-Ujësjellësi Gjirokastër fshat
-Ndërm.
-Komuna Odrie
-Sist. 11,14,15
-VKM 366
-5.6.2003
-lista 14
+Shfuqizuar
 10
-Ujësjellësi Gjirokastër fshat
-Ndërm.
-Komuna Picar
-Sist. 17,18
-VKM 366
-5.6.2003
-lista 14
+Shfuqizuar
 11
-Ujësjellësi Kurbin
-sh.a.
-Bashkia Laç
-Sist. 1
-VKM 643
-18.9.2003
-lista 4
+Shfuqizuar
 12
-Ujësjellësi Kurbin
-sh.a.
-Komuna Milot
-Sist. 5
-VKM 643
-18.9.2003
-lista 4
+Shfuqizuar
 Lidhja 3
 Ndërmarrje të ujësjellësve dhe të kanalizimeve, pronat e paluajtshme shtetërore të të cilave transferohen vetëm për sistemet përbërësE të identifikuarA
 Nr.
@@ -127,45 +62,15 @@ Njësitë e qeverisjes vendore në të cilat transferohen
 Nr.e sistemeve që transferohen
 Referenca e miratim.invent.
 1
-Ujësjellësi Gramsh
-sh.a.
-Komuna Kodovjat
-Sist. 2,4
-VKM 251
-24.4.2003
-lista3
+Shfuqizuar
 2
-Ujësjellës-kanalizime Kuçovë
-sh.a.
-Komuna Kozarë
-Sist. 5,6,7
-VKM 251
-24.4.2003
-lista 5
+Shfuqizuar
 3
-Ujësjellësi Skrapar
-sh.a.
-Komuna Potom
-Sist.7,8
-VKM 251
-24.4.2003
-lista 13
+Shfuqizuar
 4
-Ujësjellësi Skrapar
-sh.a.
-Komuna Çepan
-Sist. 9,10,11
-VKM 251
-24.4.2003
-lista 13
+Shfuqizuar
 5
-Ujësjellësi Vlorë
-sh.a.
-Bashkia Himarë
-Sist. 2
-VKM 251
-24.4.2003
-lista 16
+Shfuqizuar
 6
 Ujësjellësi Vlorë
 sh.a.
@@ -191,106 +96,28 @@ VKM 251
 24.4.2003
 lista 16
 9
-Ujësjellësi Vlorë
-sh.a.
-Komuna Armen
-Sist. 10,11
-VKM 251
-24.4.2003
-lista 16
+Shfuqizuar
 10
-Ujësjellësi Elbasan fshat
-sh.a.
-Komuna Fierzë
-Sist. 5,7
-VKM 366
-5.6.2003
-lista 5
+Shfuqizuar
 11
-Ujësjellësi Elbasan fshat
-sh.a.
-Bashkia Grekan
-Sist. 6
-VKM 366
-5.6.2003
-lista 5
+Shfuqizuar
 12
-Ujësjellësi Elbasan fshat
-sh.a.
-Komuna Gostimë
-Sist.12,13,14
-VKM 366
-5.6.2003
-lista 5
+Shfuqizuar
 13
-Ujësjellësi Elbasan fshat
-sh.a.
-Komuna Papër
-Sist.15,16,18
-VKM 366
-5.6.2003
-lista 5
+Shfuqizuar
 14
-Ujësjellësi Elbasan fshat
-sh.a.
-Komuna Labinot Fushë
-Sist.28
-VKM 366
-5.6.2003
-lista 5
+Shfuqizuar
 15
-Ujësjellësi Elbasan fshat
-sh.a.
-Komuna Labinot Mal
-Sist. 23
-VKM 366
-5.6.2003
-lista 5
+Shfuqizuar
 16
-Ujësjellësi Lushnjë fshat
-sh.a.
-Komuna Allkaj
-Sist. 2
-VKM 366
-5.6.2003
-lista 12
+Shfuqizuar
 17
-Ujësjellësi Lushnjë fshat
-sh.a.
-Komuna Gradishtë
-Sist. 6
-VKM 366
-5.6.2003
-lista 12
+Shfuqizuar
 18
-Ujësjellësi Korçë fshat
-sh.a.
-Komuna Voskop
-Sist. 4
-VKM 643
-18.9.2003
-lista 9
+Shfuqizuar
 19
-Ujësjellësi Korçë fshat
-sh.a.
-Komuna Libonik
-Sist. 6,7,8,9
-VKM 643
-18.9.2003
-lista 9
+Shfuqizuar
 20
-Ujësjellësi Korçë fshat
-sh.a.
-Komuna Vreshtas
-Sist. 10,11,12,13
-VKM 643
-18.9.2003
-lista 9
+Shfuqizuar
 21
-Ujësjellës-Kanalizime Fier
-sh.a.
-Komuna Levan
-Sist. 7,8
-VKM 643
-18.9.2003
-lista 13
+Shfuqizuar

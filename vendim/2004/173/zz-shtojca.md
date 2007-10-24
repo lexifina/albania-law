@@ -80,13 +80,7 @@ VKM 251
 24.4.2003
 Lista 9
 2.
-Ujësjellësi Elbasan Fshat
-sh.a.
-Bashkia Shushicë
-Sist. 26, 27
-VKM 366
-5.6.2003
-Lista 5
+Shfuqizuar
 3.
 Ujësjellës-Kanalizime Fier
 sh.a.
