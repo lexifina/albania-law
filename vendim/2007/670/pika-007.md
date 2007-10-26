@@ -1,0 +1,2 @@
+7. Pronarët e përcaktuar në listën që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Plotësim dokumentacioni”, të kompensohen për efekt shpronësimi, pasi të kenë paraqitur pranë Drejtorisë së Përgjithshme të Rrugëve dokumentacionin e plotë të pronësisë.
+Të gjithë pronarët që kanë dorëzuar paraprakisht në Drejtorinë e Përgjithshme të Rrugëve, dokumentacionin e pronësisë, në çastin e likuidimit duhet të dorëzojnë kartelën e pronësisë, e cila duhet të jetë brenda afateve ligjore të vlefshmërisë.
