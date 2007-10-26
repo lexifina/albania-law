@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të objekteve dhe të truallit, të pronës “Agjencia Ndërfushas, Rrëshen”, me sipërfaqe të përgjithshme 23 536 m2, nga Ministria e Brendshme bashkisë së Rrëshenit, sipas formularit 3, që i bashkëlidhet këtij vendimi.

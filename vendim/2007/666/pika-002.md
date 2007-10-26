@@ -1,0 +1,1 @@
+2. Heqjen e pronës “Agjencia Ndërfushas, Rrëshen” nga lista e inventarit të Drejtorisë së Përgjithshme të Rezervave të Shtetit, që i bashkëlidhet vendimit nr.413, datë 11.7.2007 të Këshillit të Ministrave.
