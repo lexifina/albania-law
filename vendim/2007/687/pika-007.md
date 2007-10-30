@@ -1,0 +1,1 @@
+7. Administrata ekzistuese e zonës së mbrojtur të “Parkut kombëtar” të Divjakës dhe e ekosistemit lagunor të Karavastasë do të kryejë funksionet e administratës së “Parkut kombëtar” të Divjakë-Karavastasë, me sipërfaqe të zgjeruar.

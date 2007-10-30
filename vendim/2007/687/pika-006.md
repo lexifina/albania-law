@@ -1,0 +1,1 @@
+6. Ministria e Punëve Publike, Transportit dhe Telekomunikacionit, Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve në bashkëpunim me ministritë e tjera të linjës dhe me njësitë e qeverisjes vendore, brenda një viti nga hyrja në fuqi e këtij vendimi, të kryejnë studimin urbanistik rajonal të zonës, në përputhje me synimet dhe objektivat e menaxhimit të këtij “Parku kombëtar.”

@@ -1,0 +1,1 @@
+5. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe ministri të tjera të linjës, në bashkëpunim me njësitë e qeverisjes vendore, me institucionet kërkimore-shkencore, me përfaqësuesit e biznesit dhe të pronarëve privatë, brenda 1 viti nga hyrja në fuqi e këtij vendimi, hartojnë planin e menaxhimit të “Parkut kombëtar”.
