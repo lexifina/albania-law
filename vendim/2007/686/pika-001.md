@@ -1,0 +1,1 @@
+1. Miratimin e Marrëveshjes hidrokarbure ndërmjet Albpetrol sh.a.-së dhe Sherwood International Petroleum Ltd për zhvillimin dhe prodhimin e hidrokrabureve, në vendburimin e Kuçovës, sipas tekstit që i bashkëlidhet këtij vendimi.
