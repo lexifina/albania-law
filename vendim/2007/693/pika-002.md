@@ -1,0 +1,1 @@
+2. Prona me numër rendor 132 “Ish-reparti ushtarak 8830”, aktualisht shkolla e trupës, me vendndodhje në Yzberisht, Tiranë, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, miratuar me vendimin nr.515, datë 18.7.2003 të Këshillit të Ministrave.
