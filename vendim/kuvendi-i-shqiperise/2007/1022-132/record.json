@@ -1,0 +1,28 @@
+{
+  "qbz_id": 5790,
+  "title": "PËR PËRBËRJEN E KOMISIONIT HETIMOR “PËR ZBATIMIN E LIGJIT TË KONCESIONEVE, DHËNIEN ME KONCESION TË OBJEKTEVE TË NDRYSHME NË PRONËSI SHTETËRORE, KUSHTET E DHËNIES SË KËTYRE KONTRATAVE PËR PERIUDHËN 2001 E NË VIJIM DHE PROCEDURAT PËR FILLIMIN E PUNIMEVE PËR NDËRTIMIN E TEC-IT TË VLORËS",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "132",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-10-22",
+  "published": "2007-11-02",
+  "in_force": "2007-11-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/40e473b66fcf8101fc8390fd8a621d9be91d40e5e75763bb11ace0a62f2465e4.docx",
+  "source_sha256": "40e473b66fcf8101fc8390fd8a621d9be91d40e5e75763bb11ace0a62f2465e4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5790",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/10/22/132",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    5805
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
