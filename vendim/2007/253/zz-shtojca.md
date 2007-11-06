@@ -8,7 +8,7 @@ Karta e identitetit do të jetë një kartë me një chip elektronik.
 - Bojë OVI (Bojërat e ndryshueshme optike). Harta e Republikës së Shqipërisë, e printuar me bojë speciale OVI.
 - Fotografi Ghost (hije). Fotografi e mbajtësit të kartës në përmasa sa 1/3 e përmasave të fotografisë kryesore.
 - Shtresë mbrojtëse transparente me shenja optikisht të variueshme, e aplikuar në të dy anët e kartës përgjatë gjithë sipërfaqes.
-- Bojë UV. Portret i Ismail Qemalit, i printuar me bojë të dukshme vetëm nën dritën ultravjollcë.
+- Bojë UV. Një simbol i printuar me bojë të dukshme, me sipërfaqe 100 mm2, vetëm nën dritën ultravjollcë.
 - Mikrotekst i padukshëm me sy të lirë, por i lexueshëm me lupë me zmadhim 10 herë. Ky element sigurie, përveçse i paraprintuar në kartë, do të realizohet edhe gjatë procesit të personalizimit.
 3. Chipi i kartës
 Karta e identitetit do të pajiset me një chip të vendosur në brendësi të trupit të kartës dhe do të jenë në përputhje me standardet:
@@ -77,7 +77,7 @@ Karta e identitetit do të jetë e formatit ID-1 e përcaktuar në standardin IS
 - qoshe të harkuara me rreze 3.18 mm (ISO 7813).
 2. Përbërja e kartës
 Kompozimi i materialit të kartës së identitetit do të jetë në përputhje me standardin ICAO 9303 dhe ISO 7810.
-Karta e identitetit do të jetë e ndërtuar nga disa shtresa. Teknologjia e bashkimit të shtresave të kartës të sigurojë formimin e një trupi të vetëm dhe të pandashëm.
+Karta e identitetit do të jetë vetëm polikarbonat, e ndërtuar nga disa shtresa. Teknologjia e bashkimit të shtresave të kartës të sigurojë formimin e një trupi të vetëm dhe të pandashën.
 Karta e kompozuar në këtë mënyrë, me disa shtresa, me antenën RF në brendësi dhe chip-in duhet të ketë karakteristikat e mëposhtme:
 - jetëgjatësi minimale 10 vjet;
 - rezistencë në temperaturë nga -25°C në +85oC;
@@ -85,7 +85,7 @@ Karta e kompozuar në këtë mënyrë, me disa shtresa, me antenën RF në brend
 - trupi i kartës të jetë “UV Dull”.
 Dokumenti i identitetit ka dy faqe:
 1. Faqja kryesore do të jetë ajo në të cilën do të vendosen:
-- fotografia e mbajtësit me ngjyra;
+- Fotografia e mbajtësit;
 - fotografia hije e mbajtësit në përmasa sa një e treta e përmasave të fotos kryesore (në sipërfaqe sa një e nënta e sipërfaqes së fotos kryesore), e realizuar me teknikën GHOST;
 - poshtë fotografisë së mbajtësit do të jetë vendi ku do të vendoset nënshkrimi i mbajtësit;
 - në qendër të dokumentit si sfond do të jetë shqiponja dykrenare, e paraprintuar;
@@ -101,21 +101,20 @@ REPUBLIKA E SHQIPËRISË, KARTË IDENTITETI, IDENTITY CARD, REPUBLIC OF ALBANIA.
 - Mikrotext i paraprintuar do të jetë tekst me sipërfaqe totale shkrimi 100 mm2.
 - E printuar gjatë fazës së personalizimit me mikrotekst do të jetë mbiemri i mbjatësit të kartës dhe numri i identitetit.
 2. Në faqen e pasme të kartës:
-- Chip-i me kontakt dhe pa kontakt. Përmasat e chip-it dhe vendosja e tij në kartë do të jenë në përputhje me standardin ISO 7816.
-- Do të jenë emërtimet e të dhënave të tjera të mbajtësit të dokumentit me shkronja të vogla të shtypit.
+Chip-i me kontakt dhe pa kontakt. Përmasat e Chip-it dhe vendosja e tij në kartë do të jenë në përputhje me standardin ISO 7816.
+- Do të jenë emërtimet e të dhënave të tjera të mbajtësit të dokumentit, me shkronja të vogla të shtypit.
 Në gjuhën shqipe:
-ngjyra e syve, gjatësia, numri serial i dokumentit.
+Ngjyra e syve, gjatësia, numri serial i dokumentit.
 Në gjuhën angleze:
-eye colour, height, serial number.
-- Do të jenë të dhënat e tjera (ngjyra e syve, gjatësia dhe numri serial i kartës) me shkronja të mëdha të shtypit.
-- Në pjesën e pasme të kartës do të jetë një zonë e bardhë e painfluencuar nga sfondi, guilloshi, rainbow e të tjera teknika të përdorura më sipër, kjo për të mundësuar leximin e qartë të kodit alfanumerik që do të printohet në fazën e personalizimit. Printimi do të kryhet me OCR-B zonë e lexueshme nga makinat, në përputhje me standardin ICAO 9303. Ky kod do të lexohet nga makinat ekzistuese të pasaportave.
-- Do të vendoset portreti i Ismail Qemalit, në përmasa 9 x 12 mm, e paraprintuar me bojë të dukshme nën dritën UV.
-- Do të vendoset portreti i Nënë Terezës si pjesë e sfondit të pjesës së pasme të kartës.
-- I paraprintuar me mikrotext do të jetë një tekst me sipërfaqe totale shkrimi 100 mm2.
-- Dokumenti i identitetit do të ketë në të dy faqet edhe një shtresë mbrojtëse me shenja optikisht të variueshme të tipit OVD (optically variable devices), e cila do të ketë simbole e citime shqiptare.
-Vendosja e të gjitha elementeve të dizajnit, që përfshijnë:
+Eye colour, height, serial number.
+- Do të jenë të dhënat e tjera (ngjyra e syve, gjatësia dhe numri serial i kartës), me shkronja të mëdha të shtypit.
+- Në pjesën e pasme të kartës do të jetë një zonë e bardhë e painfluencuar nga sfondi, guilloshi, rainbow e të tjera teknika, të përdorura më sipër, kjo për të mundësuar leximin e qartë të kodit alfanumerik, që do të printohet në fazën e personalizimit. Printimi do të kryhet me OCR-B, zonë e lexueshme nga makinat, në përputhje me standardin ICAO 9303.
+Ky kod do të lexohet nga makinat ekzistuese të pasaportave.
+- Do të vendoset simboli sipas sipërfaqes së përcaktuar në aneksin 1.
+- I paprintuar me mikrotekst do të jetë një tekst, me sipërfaqe totale shkrimi 100 mm2.
+- Dokumenti i identitetit do të ketë në të dyja faqet edhe një shtresë mbrojtëse, me shenja optikisht të variueshme të tipit OVD (optically variable devices), e cila do të ketë simbole e citime shqiptare.
+Vendosja e të gjitha elementeve të disajnit, që përfshijnë:
 - elementet grafike;
 - elementet e sigurisë;
-- emërtimet e rubrikave, përbërësit e gjendjes civile të mbajtësit, të dhënat shtesë të mbajtësit;
-- kompozimi i shtresës mbrojtëse,
-si dhe pamja përfundimtare do të realizohen pas lidhjes së kontratës me kompaninë fituese.
+- elementet e rubrikave, përbërësit e gjendjes civile të mbajtësit, të dhënat shtesë të mbajtësit;
+- kompozimi i shtresës mbrojtëse, si dhe pamja përfundimtare do të realizohen pas lidhjes së kontratës me kompaninë fituese.
