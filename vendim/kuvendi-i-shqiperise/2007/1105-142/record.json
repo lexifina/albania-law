@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5807,
+  "title": "PËR ZGJEDHJEN E KOMISIONERËVE TË AVOKATIT TË POPULLIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "142",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-11-05",
+  "published": "2007-11-08",
+  "in_force": "2007-11-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d8c3e0050cf97db5a78e5251efc155258e04ba6013ec8316b68b78d6b8b7979b.docx",
+  "source_sha256": "d8c3e0050cf97db5a78e5251efc155258e04ba6013ec8316b68b78d6b8b7979b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5807",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/11/05/142",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
