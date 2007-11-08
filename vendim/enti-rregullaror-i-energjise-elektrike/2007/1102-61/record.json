@@ -1,0 +1,31 @@
+{
+  "qbz_id": 5812,
+  "title": "Për dhënien e licencës për ndërtim, instalim dhe shfrytëzim të centraleve elektrike me erë, si dhe prodhimin e energjisë elektrike nga këto centrale “HERA” sh.p.k. (Projekti KAPPET)",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "61",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2007-11-02",
+  "published": "2007-11-08",
+  "in_force": "2007-11-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8660c31841afd6351b74b79b3891feeb17b34d575a12d6fd6dd45f0704e9010d.docx",
+  "source_sha256": "8660c31841afd6351b74b79b3891feeb17b34d575a12d6fd6dd45f0704e9010d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5812",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/11/02/61",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    23104,
+    61348,
+    17680,
+    7163
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
