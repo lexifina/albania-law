@@ -1,0 +1,1 @@
+3. Institucionet e përcaktuara në pikën 1 të këtij vendimi dhe shërbimi shoqëror, që ofrohet në to, të transferohen së bashku me ndërtesën, fondet, pajisjet, inventarin, personelin dhe dokumentacionin përkatës.

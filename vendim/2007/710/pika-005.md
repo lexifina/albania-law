@@ -1,0 +1,1 @@
+5. Njësive të qeverisjes vendore, të përcaktuara në shkronjat “a” e “b” të pikës 1 të këtij vendimi, u ndalohet ndryshimi i destinacionit të përdorimit të pronave, tjetërsimi apo dhënia në përdorim të tretëve.

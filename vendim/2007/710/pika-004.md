@@ -1,0 +1,1 @@
+4. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i vitit 2007, grupi 25, titulli 10430, kap.1, artikujt 600, 601 dhe 602, miratuar për këtë vit për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, dhe në vijim nga buxhetet vjetore përkatëse.

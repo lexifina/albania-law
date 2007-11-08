@@ -1,0 +1,3 @@
+1. Transferimin në pronësi të disa bashkive të pronave, të cilat janë në përgjegjësi administrimi të Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror, të miratuara me vendimin nr.60, datë 1.2.2006 të Këshillit të Ministrave, si më poshtë vijon:
+a) objekti me numër rendor 3, në formularin e inventarizimit të pronave të paluajtshme shtetërore “Qendra ditore polivalente për shërbime sociale”, Kamëz të kalojë në pronësi të bashkisë së Kamzës;
+b) objekti me numër rendor 10, në formularin e inventarizimit të pronave të paluajtshme shtetërore “Qendër rezidenciale shërbimesh për fëmijët shkollorë 6-14 vjeç”, Shkodër të kalojë në pronësi të bashkisë së Shkodrës.
