@@ -1,0 +1,1 @@
+8. Në të gjitha rastet norma e strehimit të llogaritet bazuar në vendimin e Këshillit të Ministrave nr.814, datë 3.12.2004 “Për normat e strehimit për familjet, që përfitojnë nga programet sociale të strehimit”.

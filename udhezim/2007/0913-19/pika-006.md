@@ -1,0 +1,1 @@
+6. Vlera e apartamentit të ndërtuar apo të blerë llogaritet sipas pasqyrave 1 e 2 bashkëlidhur këtij udhëzimi nga Enti Kombëtar i Banesave dhe shlyhet nga familja me këste për 25 vjet, me normë interesi prej 2.0 % në vit.

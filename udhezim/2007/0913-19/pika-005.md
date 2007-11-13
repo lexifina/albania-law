@@ -1,0 +1,1 @@
+5. Organet e qeverisjes vendore pas marrjes së njoftimit dhe pas caktimit të familjeve që përfitojnë strehim, depozitojnë emrat pranë Entit Kombëtar të Banesave, i cili në bazë të numrit të apartamenteve që ka në dispozicion lidh kontratën me familjet, sipas radhës së përcaktuar nga këshilli bashkiak.
