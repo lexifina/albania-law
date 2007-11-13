@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të dy ndërtesave të agjencisë Lundër, nga Drejtoria e Rezervave të Shtetit në varësi të Ministrisë së Brendshme te Instituti i Sigurimeve Shoqërore në varësi të Ministrisë së Financave, sipas genplanit, që i bashkëlidhet këtij vendimi.
