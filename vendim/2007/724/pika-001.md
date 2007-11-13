@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit të formës “BOT” (ndërtim, operim dhe transferim) ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Ble-Klo-Ar” sh.p.k. për ndërtimin e hidrocentralit “Tervol”, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
