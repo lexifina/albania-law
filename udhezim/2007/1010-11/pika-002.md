@@ -1,0 +1,1 @@
+2. Për periudhën vijuese, pas vitit 2006, SAMT-ja në qark, në bashkërendim me zyrat e menaxhimit dhe mbrojtjes së tokës në komuna dhe/ose bashki, të sigurojnë nga KRRT-të përkatëse kopjet e vendimeve që do të merren dhe, mbi këtë bazë, të bëjnë pasqyrimet e kalimeve të dokumentacionit kadastral, për çdo 6-mujor.
