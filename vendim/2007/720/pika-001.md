@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore brenda juridiksionit, territorial dhe administrativ të bashkisë Ura Vajgurore të qarkut të Beratit, që transferohen në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes 1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 68 (gjashtëdhjetë e tetë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 419 (katërqind e nëntëmbëdhjetë).
