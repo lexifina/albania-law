@@ -1,0 +1,1 @@
+1. Subjekte të zbatimit të standardeve ndërkombëtare të kontabilitetit janë subjektet e përcaktuara në pikën 3 të nenit 4 të ligjit nr.9228, datë 29.4.2004 “Për kontabilitetin dhe pasqyrat financiare”, të ndryshuar.
