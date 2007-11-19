@@ -1,0 +1,1 @@
+1. Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, në buxhetin e miratuar për vitin 2007, në programin “Mbështetje për zhvillim ekonomik”, zëri “Shpenzime kapitale të brendshme”, t’i shtohet fondi prej 14 000 000 (katërmbëdhjetë milionë) lekësh.
