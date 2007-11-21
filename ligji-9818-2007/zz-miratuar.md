@@ -1,0 +1,1 @@
+Shpallur me dekretin nr.5496, datë 31.10.2007 të Presidentit të Republikës së Shqipërisë, Bamir Topi
