@@ -16,12 +16,12 @@ A) PUBLIKIMI
 - në Buletinin Zyrtar;
 - në faqen e internetit;
 - në mediat elektronike;
-- nëpërmjet vendosjes së afisheve pranë shoqërive që privatizohen, si dhe në mjediset publike të vendndodhjes së subjektit.
+- Vendosja e afisheve të publikimit pranë shoqërive që privatizohen, si dhe në mjediset publike të vendndodhjes së subjektit, të bëhet nga degët e shoqërive publike në prefekturë, sipas të dhënave të dërguara nga Drejtoria e Administrimit dhe Shitjes së Pronave Publike në Ministrinë e Financave. Degët e shoqërive publike në prefekturë, brenda afateve të publikimit, dërgojnë zyrtarisht procesverbalin e vendosjes së afisheve në Drejtorinë e Administrimit dhe Shitjes së Pronave Publike.
 Ky material duhet të përmbajë, veç elementeve të publikimit, dhe treguesit tekniko-ekonomikë të shoqërisë sipas bilancit të vitit të fundit ushtrimor.
 3. Drejtoria e Administrimit dhe Shitjes së Pronave Publike, në fund të periudhës së publikimit, harton një procesverbal në lidhje me procedurën e publikimit.
 B) PROCEDURAT E LLOGARITJES SË PAKETËS SË AKSIONEVE PËR PUNONJËSIT E SHOQËRISË DHE ISH-PRONARËT E TRUALLIT
 1. Me fillimin e publikimit, Ministria e Financave, Drejtoria e Administrimit dhe Shitjes së Pronave Publike, përcakton tipin e formularit (Listën e punonjësve me anëtarët e familjes së tyre) për punonjësit e shoqërisë dhe ua dërgon atë shoqërive që do të privatizohen.
-2. Siç përcaktohet në vendimin e Këshillit të Ministrave nr.119, datë 18.3.2000, të ndryshuar, kapitulli i I-rë germa “B” pika 4, Drejtoria e Administrimit dhe Shitjes së Pronave Publike, brenda 25 deri 30 ditëve nga data e I-rë e publikimit, pranon porositë e aksioneve nga punonjësit e shoqërive dhe anëtarët e familjeve të tyre në këmbim të bonove të privatizimit.
+2. Brenda 30 ditëve nga data e publikimit të radhës, punonjësit e shoqërisë bëjnë regjistrimin e kërkesave për zotërim aksionesh në këmbim të bonove të privatizimit në Drejtorinë e Administrimit dhe Shitjes së Pronave Publike, në bazë të përcaktimeve të pikave 1, 2, 3 të shkronjës B të këtij vendimi.
 3. Gjatë periudhës së pranimit të kërkesave, Drejtoria e Administrimit dhe Shitjes së Pronave Publike plotëson formularin në tri kopje, me germa të mëdha shtypi, pa korrigjime, i cili nënshkruhet si nga porositësi, ashtu edhe nga punonjësit e kësaj drejtorie, duke u vulosur nga kjo e fundit.
 4. Dy kopje të formularit të plotësuar mbahen në Drejtorinë e Administrimit dhe Shitjes së Pronave Publike dhe një kopje e merr porositësi.
 5. Në prani të porositësit, bonot e privatizimit të dorëzuara nga porositësi bëhen të pavlefshme duke e grisur deri në gjysmën e tyre vertikalisht dhe duke e vulosur me vulën e pavlefshme. Brenda ditës, Drejtoria e Administrimit dhe Shitjes së Pronave Publike plotëson tabelën përmbledhëse (tabela nr.1).
