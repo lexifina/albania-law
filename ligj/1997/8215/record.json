@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123185,
+  "title": "PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN E BAZELIT \"PËR KONTROLLIN E LËVIZJEVE NDËRKUFITARE TË MBETJEVE TË RREZIKSHME DHE ASGJËSIMIN E TYRE\"",
+  "type": "Ligj",
+  "number": "8215",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1997-05-09",
+  "version_no": 1,
+  "qbz_version_id": 10732,
+  "in_force": "2007-11-22",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2007-11-22",
+  "changed_by_qbz_id": 5902,
+  "changed_by_number": "9835",
+  "changed_by_title": "PËR NJË NDRYSHIM NË LIGJIN NR.8215, DATË 9.5.1997 “PËR KONTROLLIN FINANCIAR TË PERSONAVE JURIDIKË JOBANKARË, QË KANË MARRË HUA NGA PUBLIKU I GJERË”, TË NDRYSHUAR",
+  "source": "https://qbz.gov.al/files/d4382287c6fd108dd7b2d09e58296ecf5838d5fb30f1b270aa3094203afafe63.docx",
+  "source_sha256": "d4382287c6fd108dd7b2d09e58296ecf5838d5fb30f1b270aa3094203afafe63",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123185",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123185/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
