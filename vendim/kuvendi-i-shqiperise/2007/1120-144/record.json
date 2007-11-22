@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5851,
+  "title": "Për miratimin e dekretit të presidentit të republikës për emërim ministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "144",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-11-20",
+  "published": "2007-11-22",
+  "in_force": "2007-11-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/59b5491b91b0211e5fd3d34c8b3434c634ddab3b42e5e893c7b12e93331cc7f7.docx",
+  "source_sha256": "59b5491b91b0211e5fd3d34c8b3434c634ddab3b42e5e893c7b12e93331cc7f7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5851",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/11/20/144",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
