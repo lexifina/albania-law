@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5850,
+  "title": "Për miratimin e dekretit të presidentit të republikës  për shkarkim ministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "143",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-11-20",
+  "published": "2007-11-22",
+  "in_force": "2007-11-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6dd8c45abb63d5d9823ea2bf7cf7f4337b37e7d1d214f81b71652b215fab9048.docx",
+  "source_sha256": "6dd8c45abb63d5d9823ea2bf7cf7f4337b37e7d1d214f81b71652b215fab9048",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5850",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/11/20/143",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
