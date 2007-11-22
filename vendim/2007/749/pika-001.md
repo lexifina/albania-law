@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion të formës “BOT” (ndërtim, operim dhe transferim) të burimit ujor nr.6/1, në zonën Uji i Ftohtë, Vlorë, është Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave.
