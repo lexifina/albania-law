@@ -1,0 +1,1 @@
+1. Dhënien në përdorim, pa shpërblim, të sipërfaqes prej 100 m2 në administrim të Qendrës së Zhvillimit të Fëmijëve, Tiranë, shoqatës jofitimprurëse “Aksion Plus”, për ndërtimin e “Qendrës për rehabilitimin e përdoruesve të drogës dhe për veprimtaritë në luftën kundër HIV/AIDS”, sipas planimetrisë dhe planvendosjes, që i bashkëlidhet këtij vendimi.
