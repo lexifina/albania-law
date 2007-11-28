@@ -10,5 +10,5 @@ v) në kundërshtim me pikën 2 të nenit 18, vendos në produktin e ndërtimit 
 vi) miraton një organ certifikimi për vërtetimin e konformitetit në kundërshtim me nenin 19 të këtij ligji;
 vii) në kundërshtim me nenin 20 të këtij ligji, nuk vepron në përputhje me vendimet e strukturave përkatëse;
 b) personi fizik gjobitet me 50 000 deri në 500 000 lekë për të njëjtat kundërvajtje të përmendura në shkronjën ”a” të këtij neni.
-2. Gjobat vendosen dhe vilen nga Policia e Ndërtimit.
-3. Për ankim ndaj vendimeve të Policisë së Ndërtimit zbatohen dispozitat e parashikuara në nenin 17 të ligjit nr.8402, datë 10.9.1998 ”Për kontrollin dhe disiplinimin e punimeve të ndërtimit”.
+2. Gjobat vendosen dhe vilen nga Inspektorati Ndërtimor e Urbanistik Kombëtar.
+3. Shfuqizuar.
