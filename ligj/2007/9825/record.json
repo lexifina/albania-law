@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5830,
+  "title": "Për disa ndryshime në ligjin nr.9290, datë 7.10.2004 “Për produktet e ndërtimit”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9825",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-11-01",
+  "published": "2007-11-13",
+  "in_force": "2007-11-28",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/c28351e415df2f0070e5abf70ecaeb0c9d1ad15584b269c8f9ac5c1024299165.docx",
+  "source_sha256": "c28351e415df2f0070e5abf70ecaeb0c9d1ad15584b269c8f9ac5c1024299165",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5830",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2007/11/01/9825",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
