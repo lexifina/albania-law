@@ -1,0 +1,7 @@
+LIGJ
+Nr.9820, datë 25.10.2007
+PËR RATIFIKIMIN E “MEMORANDUMIT TË MIRËKUPTIMIT PËR ZHVILLIMIN E BASHKËRENDUAR TË AUTOSTRADËS UNAZË TË DETIT TË ZI”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
