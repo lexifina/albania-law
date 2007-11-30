@@ -1,0 +1,1 @@
+1. Kalimin e mjediseve të konviktit të shkollës së mesme industriale “Petro Sota”, Fier, nga Ministria e Arsimit dhe Shkencës në pronësi të bashkisë Fier të qarkut të Fierit, sipas formularit dhe planimetrisë, që i bashkëlidhen këtij vendimi.
