@@ -1,1 +1,0 @@
-1. Fillimin e procedurës së ndërtimit me koncesion, të formës “BOT” (ndërtim-shfrytëzim-transferim), për ndërtimin e hidrocentralit të Skavicës, mbi lumin Drini i Zi, si propozim i pakërkuar, sipas projektit të grupit italian “TGK”.
