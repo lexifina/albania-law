@@ -1,0 +1,1 @@
+2. Shpenzimet për hapjen e kësaj përfaqësie, për muajt nëntor dhe dhjetor në shumën 43 710 (dyzet e tre mijë e shtatëqind e dhjetë) euro, të përballohen nga buxheti i vitit 2007, miratuar për Ministrinë e Punëve të Jashtme.
