@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura, për vitin 2008, në shumën 24 095 500 (njëzet e katër milionë e nëntëdhjetë e pesë mijë e pesëqind) lekë, sipas pasqyrës nr.1, që i bashkëlidhet këtij vendimi.
