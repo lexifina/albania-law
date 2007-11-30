@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën, që i bashkëlidhet këtij vendimi, për sipërfaqen 2250 m2 tokë/arë, vlerësuar me çmimin 320 lekë/m2, me vlerë të përgjithshme 712 000 (shtatëqind e dymbëdhjetë mijë) lekë.
