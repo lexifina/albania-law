@@ -1,0 +1,1 @@
+2. Miratimin e lejes nr.1, datë 13.11.2007, për ndërtimin dhe shfrytëzimin e linjës tregtare, me rrymë të vazhduar, të interkonjeksionit Seman, (Shqipëri) - Foxhia, (Itali), leje e lëshuar nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës shoqërisë “ASG Power Albania” sh.a., sipas tekstit, që i bashkëlidhet këtij vendimi.
