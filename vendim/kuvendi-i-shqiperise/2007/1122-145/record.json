@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5875,
+  "title": "MBI DHËNIEN E PËLQIMIT PËR EMËRIMIN E PROKURORIT TË PËRGJITHSHËM",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "145",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-11-22",
+  "published": "2007-11-30",
+  "in_force": "2007-11-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/4cab9670749138958967acd77e1f3c1ea47cef98c77a0b93cbe3396f69f3ce66.docx",
+  "source_sha256": "4cab9670749138958967acd77e1f3c1ea47cef98c77a0b93cbe3396f69f3ce66",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5875",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/11/22/145",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
