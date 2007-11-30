@@ -1,0 +1,2 @@
+Miratimin, në parim, të marrëveshjes ndryshuese, për Marrëveshjen e kredisë, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA), si dhe për Marrëveshjen e grantit të Fondit Ndërkombëtar për Mjedisin (GEF), ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për projektin e zhvillimit të burimeve natyrore.
+Ky vendim hyn në fuqi menjëherë.
