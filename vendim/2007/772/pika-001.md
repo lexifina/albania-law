@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të bashkisë së Beratit të pasurive me numrat rendorë 440, 441, 442 e 443 dhe me sipërfaqe përkatëse 1 473 m2, 943 m2, 2 455 m2 e 2 233 m2, sipas listës së inventarit të pronave të paluajtshme shtetërore në bashkinë e Beratit, për ngritjen e banesave sociale.
