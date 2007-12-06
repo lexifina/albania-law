@@ -1,0 +1,1 @@
+1. Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta në buxhetin e miratuar për vitin 2007, në programin “Sigurimi shoqëror”, artikulli 604 “Të tjera transferta korrente, të brendshme”, t’i shtohet fondi prej 1 000 000 000 (një mijë milionë) lekësh, nga fondi i kontingjencës, i miratuar në Buxhetin e Shtetit të vitit 2007.
