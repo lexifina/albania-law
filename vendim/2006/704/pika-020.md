@@ -1,2 +1,0 @@
-20. Pas pagesës së vlerës së plotë të objektit, Ministria e Financave (Drejtoria e Administrimit dhe Shitjes së Pronave Publike) është e detyruar të lidhë kontratën e shitjes me palën shitëse (përfaqësuesi i Ministrisë së Financave, drejtori i ndërmarrjes për dorëzimin e pronës, blerësi privat). Afati i lidhjes së kontratës duhet të jetë jo më shumë se 60 ditë nga data e kryerjes së pagesës.
-Dorëzimi i objektit bëhet nga përfaqësuesi i Ministrisë së Financave dhe drejtori i ndërmarrjes, në prani të blerësit, prania e të cilëve është e detyrueshme.

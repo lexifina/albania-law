@@ -1,2 +1,0 @@
-22. Për objektet ndërtimore, të cilat nuk janë shitur edhe pasi janë zbatuar të gjitha fazat e shitjes, veprohet sipas vendimit nr.197, datë 20.3.1998 të Këshillit të Ministrave “Për nxjerrjen jashtë përdorimit të objekteve, që nuk ka qenë e mundur të shiten”.
-Për makineritë, pajisjet, mjetet e xhiros, inventar ekonomik, të cilat nuk janë shitur edhe pasi janë zbatuar të gjitha fazat e shitjes, veprohet sipas vendimit nr.70, datë 11.3.1985 të Këshillit të Ministrave “Për administrimin, ruajtjen, dokumentimin dhe qarkullimin e vlerave, materiale e monetare”, të ndryshuar.
