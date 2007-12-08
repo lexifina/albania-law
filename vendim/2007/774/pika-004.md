@@ -1,0 +1,1 @@
+4. Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit harton, çdo vit, raportin për zhvillimin rural. Struktura e raportit miratohet nga Komiteti Ndërministror për Bujqësinë dhe Zhvillimin Rural.

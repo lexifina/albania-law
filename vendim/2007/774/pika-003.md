@@ -1,0 +1,1 @@
+3. Ministritë dhe institucionet e tjera qendrore, në varësi të Këshillit të Ministrave, përcaktojnë detyrat e tyre dhe raportojnë, në fund të vitit, pranë Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, për realizimin e masve të përcaktuara, në kuadër të zbatimit të planit të veprimit të strategjisë ndërsektoriale shqiptare të zhvillimit rural.
