@@ -1,0 +1,1 @@
+2. Miratimin e kontratave, me ndarje prodhimi, për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në Shqipëri, në tokë, në blloqet D-E, ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, e përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore (AKBN) dhe DWM Petroleum AG, sipas tekstit, që i bashkëlidhet këtij vendimi.
