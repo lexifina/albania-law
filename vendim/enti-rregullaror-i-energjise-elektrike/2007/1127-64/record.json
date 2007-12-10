@@ -1,0 +1,28 @@
+{
+  "qbz_id": 5907,
+  "title": "PËR FILLIMIN E PROCEDURAVE TË SHQYRTIMIT TË KËRKESËS SË SHOQËRISË “ENPOWER ALBANIA” SHPK PËR LICENCIM NË AKTIVITETIN E NDËRTIMIT, INSTALIMIT DHE SHFRYTËZIMIT TË CENTRALEVE ELEKTRIKE ME ERË, SI DHE PRODHIMIN E ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "64",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2007-11-27",
+  "published": "2007-12-10",
+  "in_force": "2007-12-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9e2fd7af2f74b87e5424edd2c3548687f4246fc0eb2ee635f5b07ecf56c07e3c.docx",
+  "source_sha256": "9e2fd7af2f74b87e5424edd2c3548687f4246fc0eb2ee635f5b07ecf56c07e3c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5907",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/11/27/64",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    5969
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
