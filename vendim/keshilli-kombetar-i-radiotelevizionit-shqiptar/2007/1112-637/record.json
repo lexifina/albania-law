@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5910,
+  "title": "Për dhënie licence për radion Private vendore “B-94",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "637",
+  "institution": "Këshilli Kombëtar i Radiotelevizionit Shqiptar",
+  "adopted": "2007-11-12",
+  "published": "2007-12-10",
+  "in_force": "2007-12-10",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/414c09812e3c62eb2a6fe780060198601a0b4229099ad9ab06c85580bd0520c1.docx",
+  "source_sha256": "414c09812e3c62eb2a6fe780060198601a0b4229099ad9ab06c85580bd0520c1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5910",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/11/12/637",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
