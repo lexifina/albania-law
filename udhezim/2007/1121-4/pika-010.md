@@ -1,0 +1,1 @@
+10. Sektori i apelimit brenda afatit të mësipërm, përgatit vlerësimin ligjor dhe harton projektvendimin përkatës, të nënshkruar nga ky sektor, të cilat do të shqyrtohen brenda 48 orëve nga zëvendëskryeregjistruesi i ngarkuar për apelimin, i cili e kalon dosjen më pas te kryeregjistruesi.

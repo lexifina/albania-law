@@ -1,0 +1,8 @@
+4. Në rastet kur regjistruesi është vënë në dijeni, sipas pikës 3 të këtij udhëzimi, dhe ka identifikuar kundërligjshmërinë, sipas pikës 2 të këtij udhëzimi, duhet të kryejë këto veprime:
+a) Verifikon elementet e rastit të vënë re, aktit të regjistrimit/ve të kryer, për efekt të plotësimit të kushteve të regjistrimit, të përcaktuara në ligjin nr.7843, datë 13.7.1994 “Për regjistrimin e pasurive të paluajtshme”, të ndryshuar dhe në nenet 192-197 të Kodit Civil.
+b) Verifikon në regjistër, evidenton dhe saktëson radhën kronologjike të regjistrimit të pronësive në ZRPP, në varësi nga radha e dorëzimit, të dokumentacionit ligjor në këtë zyrë, për rastet e krijimit të mbivendosjeve, pavarësisht faktit se kur është hartuar apo ka dalë titulli i pronësisë dhe kur janë bërë shënimet në regjistër.
+Në vijim regjistruesi kryen veprimet e mëposhtme:
+i) Saktëson se cili nga regjistrimet, që rezultojnë me mbivendosje është kryer i pari në kohë e që përmbush kërkesat e parashikuara në ligjin nr.7843, datë 13.7.1994 “Për regjistrimin e pasurive të paluajtshme “, të ndryshuar dhe në nenet 192-197 të Kodit Civil.
+ii) Verifikon pjesën ose pjesët e mbivendosura në mënyrë të qartë, si dhe përcakton pjesët, që mbeten pas këtij verifikimi në sipërfaqe dhe kufij.
+iii) Verifikon nëse për këto regjistrime është duke u zhvilluar ndonjë proces gjyqësor, ku zyra e tij është thirrur si palë. Verifikimi kryhet në protokollin e zyrës përkatëse të regjistrimit të pasurisë së paluajtshme.
+Regjistruesi e kryen procesin e verifikimit sipas kësaj pike, jo më vonë se 30 ditë nga dita e vënies në dijeni, nëpërmjet depozitimit të kërkesës, njoftimit të bërë nga punonjësit e zyrës përkatëse, konstatimeve të bëra nga organet shtetërore të kontrollit apo nga vetë regjistruesi.
