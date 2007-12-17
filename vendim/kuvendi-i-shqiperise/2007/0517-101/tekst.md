@@ -1,10 +1,14 @@
 VENDIM
 
-Nr.101, datë 17.5.2007
+Nr. 101, datë 17.5.2007
 
-PËR NGRITJEN E KOMISIONIT  TË POSAÇËM PARLAMENTAR PËR REFORMËN ZGJEDHORE
+PËR NGRITJEN E KOMISIONIT TË POSAÇËM PARLAMENTAR PËR REFORMËN ZGJEDHORE
 
-Në mbështetje të nenit 77 pika 1  të Kushtetutës dhe të nenit 24 të Rregullores së Kuvendit, me propozimin e kryetarëve të grupeve parlamentare,
+(Ndryshuar me vendimin nr. 150, datë 17.12.2007)
+
+(i përditësuar)
+
+Në mbështetje të nenit 77 pika 1 të Kushtetutës dhe të nenit 24 të Rregullores së Kuvendit, me propozimin e kryetarëve të grupeve parlamentare,
 
 KUVENDI
 
@@ -24,7 +28,7 @@ V. Pranë Komisionit të Posaçëm Parlamentar ngrihet grupi i ekspertëve tekni
 
 VI. Vendimet në komision merren me shumicën e votave (10 vota), kur pro tyre kanë votuar në unanimitet përfaqësuesit e dy partive të mëdha.
 
-VII. Komisioni ushtron veprimtarinë për një periudhë prej 3 muajsh nga data e vendimit.
+VII. Afati i veprimtarisë së Komisionit të Posaçëm Parlamentar për Reformën Zgjedhore shtyhet për një periudhë prej 3 muajsh nga data e miratimit të këtij vendimi, 17.12.2007.
 
 VIII. Ngarkohet Kryetarja e Kuvendit për krijimin e kushteve të punës dhe mbështetjen logjistike të veprimtarisë së komisionit.
 
@@ -44,7 +48,7 @@ IX. Komisioni përbëhet nga këta anëtarë:
 
   7. Tritan Shehu				-	PDR
 
-  8. Petrit Gjoni					-	PAA
+  8. Petrit Gjoni					-PAA
 
   9. Spiro Peçi					-	PBDNJ
 

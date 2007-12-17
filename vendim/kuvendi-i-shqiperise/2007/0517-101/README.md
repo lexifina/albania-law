@@ -1,9 +1,9 @@
 # PËR NGRITJEN E KOMISIONIT  TË POSAÇËM PARLAMENTAR PËR REFORMËN ZGJEDHORE
 
-Official source: [Vendim nr. 101, datë 17.5.2007 (Kuvendi i Shqipërisë)](https://qbz.gov.al/api/v1/acts/5370).
+Official source: [Vendim nr. 101, datë 17.5.2007 (Kuvendi i Shqipërisë)](https://qbz.gov.al/api/v1/acts/5370); [QBZ versions](https://qbz.gov.al/api/v1/acts/5370/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2007-05-17; published 2007-05-31; in force 2007-05-31.
+Status of this text: `official consolidated version 1`, applying from 2007-12-17; after QBZ act 5955 (nr. 150).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
