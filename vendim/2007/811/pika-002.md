@@ -1,0 +1,1 @@
+2. Tarifa e shkollimit për ciklin e dytë të studimeve, për vitin akademik 2007-2008, në Fakultetin e Inxhinierisë Elektrike, të Universitetit Politeknik të Tiranës, të jetë 60 000 (gjashtëdhjetë mijë) lekë.
