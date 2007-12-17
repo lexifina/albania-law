@@ -1,0 +1,1 @@
+1. Në Universitetin “Eqerem Çabej”, Gjirokastër, krijohet Fakulteti i Edukimit dhe Shkencave Shoqërore, nga bashkimi i ish-Fakultetit të Shkencave të Edukimit dhe ish-Fakultetit të Shkencave Shoqërore.
