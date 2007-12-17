@@ -1,0 +1,1 @@
+1. Komunës Tërthorë t’i jepet fondi prej 11 240 000 (njëmbëdhjetë milionë e dyqind e dyzet mijë) lekësh, për realizimin e procedurave për zhvendosjen e varrezave të fshatit Morinë, si rezultat i ndërtimit të segmentit rrugor Kalimash-Morinë, pjesë e autostradës Durrës-Kukës-Morinë.
