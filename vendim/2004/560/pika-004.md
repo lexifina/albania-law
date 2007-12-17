@@ -1,1 +1,0 @@
-4. Drejtoria e Përgjithshme e Doganave, pas paraqitjes së kërkesës nga subjekti investitor, zbaton të gjitha procedurat e parashikuara nga legjislacioni doganor për përjashtimin e makinerive dhe të pajisjeve të përfshira në listë nga taksat doganore.

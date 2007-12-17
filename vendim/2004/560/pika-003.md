@@ -1,1 +1,0 @@
-3. Lista e miratuar nga Ministri i Industrisë dhe i Energjetikës mbahet në pesë kopje, nga të cilat: një kopje i dërgohet subjektit investitor të licencuar, një kopje Ministrisë së Financave, një kopje Drejtorisë së Përgjithshme të Doganave, një kopje Drejtorisë së Përgjithshme të Tatimeve dhe një kopje ruhet në Ministrinë e Industrisë dhe të Energjetikës.

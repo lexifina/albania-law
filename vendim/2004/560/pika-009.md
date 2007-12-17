@@ -1,1 +1,0 @@
-9. Sasia e lëndës djegëse të konsumuar, që do të rimbursohet, llogaritet si produkt i sasisë së energjisë elektrike të shitur apo të prodhuar, me konsumin specifik të lëndës djegëse të llogaritur sipas tabelës nr.1, që i bashkëlidhet këtij vendimi.
