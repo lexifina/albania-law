@@ -1,0 +1,2 @@
+2. Në zonat të cilat nuk mbulohen nga rrjeti i sistemit bankar, pagesat e pagave, shpërblimet dhe çdo formë tjetër e të ardhurave personale, të punonjësve të cilat lidhen me marrëdhëniet e punësimit që u janë paguar të punësuarve, përfshirë edhe administratorët, të bëhen nga Posta Shqiptare sh.a., sipas kritereve të licencës së marrë nga Banka e Shqipërisë dhe nëpërmjet marrëveshjeve me institucionet e interesuara.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
