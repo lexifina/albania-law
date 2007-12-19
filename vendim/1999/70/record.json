@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123864,
+  "title": "PËR EVIDENTIMIN E PUNËKËRKUESVE TË PAPUNË",
+  "type": "Vendim",
+  "number": "70",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-02-11",
+  "version_no": 1,
+  "qbz_version_id": 10906,
+  "in_force": "2007-12-19",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2007-12-19",
+  "changed_by_qbz_id": 6028,
+  "changed_by_number": "907",
+  "changed_by_title": "Për disa ndryshime dhe shtesa në vendimin nr.70, datë 11.2.1999 të Këshillit të Ministrave “Për evidentimin e punëkërkuesve të papunë”",
+  "source": "https://qbz.gov.al/files/fd021c8ab111eb4dc291e1eb9aa3d6a770fce75d14751ba689b176fc9033e41e.docx",
+  "source_sha256": "fd021c8ab111eb4dc291e1eb9aa3d6a770fce75d14751ba689b176fc9033e41e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123864",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123864/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
