@@ -1,0 +1,1 @@
+9. Këshilli Mbikëqyrës zgjedh ndërmjet anëtarëve të tij një kryetar dhe një zëvendëskryetar, të cilët thërrasin mbledhjen e Këshillit dhe drejtojnë diskutimet. Ata emërohen për të gjithë kohën e mandatit të tyre në Këshillin Mbikëqyrës dhe mund të jenë të rizgjedhshëm.

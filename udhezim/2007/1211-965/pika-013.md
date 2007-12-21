@@ -1,0 +1,1 @@
+13. Kryetari dhe në mungesë të tij zëvendëskryetari duhet të thërrasë mbledhjen e Këshillit Mbikëqyrës brenda 15 (pesëmbëdhjetë) ditëve, kur drejtori i përgjithshëm ose 1/3 (një e treta) e anëtarëve të Këshillit Mbikëqyrës i paraqesin atij një kërkesë të motivuar për këtë qëllim.

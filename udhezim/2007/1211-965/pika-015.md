@@ -1,0 +1,1 @@
+15. Në parim, thirrja duhet të bëhet 3 (tre) ditë përpara me letër, telegram, teleks ose telefaks, por thirrja mund të jetë e vlefshme edhe me gojë dhe pa afat, në qoftë se anëtarët e Këshillit Mbikëqyrës e pranojnë atë.

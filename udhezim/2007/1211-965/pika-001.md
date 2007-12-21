@@ -1,0 +1,1 @@
+1. Me hyrjen në fuqi të vendimit të Këshillit të Ministrave nr.660, datë 12.09.2007 Ministri i Ekonomisë, Tregtisë dhe Energjetikës nxjerr urdhrin për transferimin e aksioneve të shoqërive të ujësjellës-kanalizimeve te njësitë e qeverisjes vendore.

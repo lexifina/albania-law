@@ -1,0 +1,1 @@
+23. Këshilli Mbikëqyrës emëron dhe shkarkon drejtorin e përgjithshëm të shoqërisë me votat e 5 anëtarëve të tij në rast se Këshilli Mbikëqyrës përbëhet nga 6 anëtarë dhe me votat e 2/3 të numrit të përgjithshëm të anëtarëve të tij, në rast se numri i anëtarëve të Këshillit Mbikëqyrës është i ndryshëm nga 6.

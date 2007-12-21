@@ -1,0 +1,3 @@
+6. Vetëm asambleja e jashtëzakonshme ka kompetenca të ndryshojë statutin me të gjitha dispozitat e tij. Çdo klauzolë e kundërt konsiderohet e pavlefshme.
+Asambleja e jashtëzakonshme mund të marrë vendime të vlefshme vetëm në rast se aksionarët e pranishëm ose të përfaqësuar zotërojnë në mbledhjen e parë të paktën 2/3 e aksioneve dhe në të dytën 1/2 e aksioneve me të drejtë vote. Në mungesë të këtij kuorumi mbledhja e dytë e asamblesë mund të shtyhet për një datë të mëvonshme, jo më larg se dy muaj nga data e thirrjes së parë.
+Ajo merr vendim me një shumicë votash prej 4/5 që u përkasin aksionarëve të pranishëm ose të përfaqësuar.

@@ -1,0 +1,1 @@
+24. Këshilli Mbikëqyrës ushtron kontroll të përhershëm për administrimin e shoqërisë nga drejtoria dhe i jep kësaj të fundit autorizimin për kryerjen e operacioneve që nuk mund të kryhen nga drejtoria pa autorizimin e Këshillit Mbikëqyrës.
