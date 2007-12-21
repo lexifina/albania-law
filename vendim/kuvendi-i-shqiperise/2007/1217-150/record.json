@@ -1,0 +1,26 @@
+{
+  "qbz_id": 5955,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN E KUVENDIT NR.101, DATË 17.5.2007  “PËR NGRITJEN E KOMISIONIT TË POSAÇËM PARLAMENTAR PËR REFORMËN ZGJEDHORE”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "150",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2007-12-17",
+  "published": "2007-12-21",
+  "in_force": "2007-12-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/879bdb69dc999bff890d91158a8b7e1cf6a9d5d5ea155c5f458d65f5ca31c24d.docx",
+  "source_sha256": "879bdb69dc999bff890d91158a8b7e1cf6a9d5d5ea155c5f458d65f5ca31c24d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/5955",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2007/12/17/150",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
