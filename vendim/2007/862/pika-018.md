@@ -1,0 +1,1 @@
+18. INUK-ja në mbështetje të këtyre informacioneve, me grup pune të përbashkët me përfaqësues të ministrive/institucioneve publike të sipërpërmendura, verifikon situatën në vend dhe, në rast se vëren shkelje zbaton procedurat ligjore në fuqi, si dhe brenda afateve të përcaktuara në ligj është i detyruar t’i kthejë përgjigje ministrive/institucioneve përkatëse.
