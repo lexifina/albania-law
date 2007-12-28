@@ -1,0 +1,1 @@
+6. Punonjësit e Inspektoratit Ndërtimor e Urbanistik Kombëtar duhet të plotësojnë kërkesat, e përgjithshme dhe të veçanta, që përcaktohen nga kryeinspektori, në përputhje me nenin 11 të ligjit nr.9780, datë 16.7.2007 “Për inspektimin e ndërtimit”.
