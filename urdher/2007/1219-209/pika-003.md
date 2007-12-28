@@ -1,0 +1,1 @@
+3. Grupi i punës të shqyrtojë praktikat e ndjekura deri tani, në kuadër të autonomisë financiare të pushtetit vendor, për decentralizimin e taksave vendore, si dhe të studiojë mundësitë e mëtejshme të këtij decentralizimi fiskal, në bazë të përvojës së vendeve të Europës Juglindore dhe Qendrore, që janë integruar apo synojnë të integrohen në Bashkimin Europian.
