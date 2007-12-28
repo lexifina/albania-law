@@ -1,0 +1,1 @@
+2. Pronat me numrat rendorë 438 “Shtëpia e ushtarakëve”, Kukës dhe 441 “Ish-spitali ushtarak”, Kukës, të hiqen nga lista e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave.

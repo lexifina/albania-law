@@ -1,0 +1,1 @@
+3. Bashkisë së Kukësit i ndalohet ta ndryshojë destinacionin e përdorimit të pronave të përcaktuara në këtë vendim, si dhe t’i tjetërsojë ose t’ua japë në përdorim të tretëve pa miratimin e pushtetit qendror.
