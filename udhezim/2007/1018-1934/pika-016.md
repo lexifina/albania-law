@@ -1,0 +1,2 @@
+16. Për çdo person me aftësi të kufizuar që vendosen në kujdestari në institucionet rezidenciale publike dhe private, krijohet një dosje personale ku arkivohet dokumentacioni i përcaktuar në kreun II të vendimit të Këshillit të Ministrave nr.209, datë 12.4.2006 dhe një dosje tjetër për planet e përkujdesjes në institucione në përputhje me kriteret e përcaktuara në vendimin e Këshillit të Ministrave nr.822, datë 6.12.2006 “Për miratimin e standardeve të përkujdesit shoqëror për personat me aftësi të kufizuara, në qendrat rezidenciale dhe ditore”.
+III. Për personat e moshuar.

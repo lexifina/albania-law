@@ -1,0 +1,1 @@
+19. Personat e moshuar që kanë zotësi të plotë për të vepruar dhe që kërkojnë të largohen nga institucioni i përkujdesit shoqëror, apo një i afërm kërkon largimin e të moshuarit për t’u vendosur në familjen e tij, duhet t’i drejtohet me shkrim komisionit, i cili ka marrë vendimin e pranimit të tij në institucionet e përkujdesit shoqëror, publik ose privat.

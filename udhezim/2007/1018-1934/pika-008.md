@@ -1,0 +1,1 @@
+8. Për fëmijët që mbushin moshën 15 vjeç në institucionet e përkujdesit 6-15 vjeç, të cilët ndjekin arsimin e mesëm dhe vendosen në konviktet e shkollave, drejtuesi i institucionit njofton gjykatën për fillimin e procedurave të çregjistrimit të kujdestarisë së fëmijës në institucionin e origjinës dhe regjistrimin në institucionin pritës shkollor.

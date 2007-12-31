@@ -1,0 +1,1 @@
+2. Institucioni rezidencial i përkujdesit shoqëror, publik ose privat, ku vendoset të sistemohet fëmija, paraqet kërkesën për marrjen e kujdestarisë së tyre pranë gjykatës së rrethit të vendbanimit apo vendqëndrimit të fëmijës.

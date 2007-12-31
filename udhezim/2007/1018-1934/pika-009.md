@@ -1,0 +1,1 @@
+9. Prindërit biologjikë, të afërmit e fëmijës apo familja kujdestare, që kërkojnë të marrin kujdestarinë e fëmijëve të vendosur në institucionet rezidenciale të përkujdesit shoqëror, publik ose privat i drejtohen gjykatës për të vendosur transferimin e kujdestarisë së fëmijës nga institucioni te personi/familja kujdestare kërkuese.

@@ -1,0 +1,1 @@
+14. Personat me aftësi të kufizuara, që kanë mbushur moshën madhore sipas Kodit Civil të Republikës së Shqipërisë, të cilët kanë zotësi të plotë për të vepruar, sistemohen në institucion në përputhje me procedurat e përcaktuara në kreun II të vendimit të Këshillit të Ministrave nr.209, datë 12.4.2006.

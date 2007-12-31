@@ -1,0 +1,1 @@
+15. Personat me aftësi të kufizuara, që kanë mbushur moshën madhore sipas Kodit Civil të Republikës së Shqipërisë, të cilëve u është hequr ose kufizuar zotësia për të vepruar me vendim gjykate, sistemohen në institucion sipas procedurës së përcaktuar në pikat 2,3,9,10,11 dhe 12 të këtij udhëzimi.
