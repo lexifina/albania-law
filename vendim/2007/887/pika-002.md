@@ -1,0 +1,1 @@
+2. Vendimi nr.236, datë 6.6.1994 i Këshillit të Ministrave “Për tarifat e kullotjes në fondin kullosor të kullotave e pyjeve në administrim të drejtorive të shërbimit pyjor e të kullotave dhe të komunave”, të ndryshuar, shfuqizohet.
