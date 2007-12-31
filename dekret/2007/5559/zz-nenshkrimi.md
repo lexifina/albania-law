@@ -1,0 +1,3 @@
+# Nënshkrimi
+PRESIDENTI I REPUBLIKËS SË SHQIPËRISË
+Bamir Topi
