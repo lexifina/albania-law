@@ -1,0 +1,1 @@
+4. Pas këtij afati, në rastet kur nuk është paguar qiraja dhe nuk është blerë trualli nga pronarët e objekteve apo ndërmarrjeve të privatizuara, trualli i tyre vihet në dispozicion të AKKP-së për kompensimin e subjekteve të shpronësuara dhe në ato raste kur trualli ka pronarë, të njohur me vendime të Komisionit të Kthimit dhe Kompensimit të Pronave, trualli i kalon këtij pronari.
