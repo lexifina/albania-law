@@ -1,0 +1,1 @@
+2. Si mjedise të caktuara, për efekt të zbatimit të këtij udhëzimi, janë identifikuar mjediset e zonave të banimit, (jashtë banesës, mjediset e brendshme të banesës), institucionet (arsimore, parashkollore e shëndetësore), zona me aktivitet social-ekonomik, mjedise urbane dhe parqet publike.
