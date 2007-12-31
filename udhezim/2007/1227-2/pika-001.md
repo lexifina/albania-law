@@ -1,0 +1,1 @@
+1.Truall konsiderohet sipërfaqja nën objekt dhe sipërfaqja funksionale rreth tij, e përcaktuar sipas genplanit të objektit që është pjesë e dokumentacionit të privatizimit të përgatitur nga komisioni i vlerësimit të ndërmarrjes, si dhe sipas përcaktimeve pasqyrat e vlerësimit 1 dhe 2, në autorizimet për kalim pronësie, aktet e dorëzimit dhe kontratat e shitjes.

@@ -1,0 +1,1 @@
+3. Kur objekti është me dy a më shumë kate dhe në të ka disa pronarë, atëherë shitja e truallit do të bëhet sipas pikës 10 të udhëzimit për zbatimin e vendimit të Këshillit të Ministrave nr.794, datë 21.11.2007.
