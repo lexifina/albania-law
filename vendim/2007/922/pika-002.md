@@ -1,0 +1,1 @@
+2. Sistemet, rrjetet informatike, mjetet e pajisjet e transmetimit, ndërlidhja e sistemeve dhe mbrojtja kriptografike, ku prodhohet, ruhet, përpunohet, shpërndahet ose transmetohet e mbrohet informacion i klasifikuar “Sekret shtetëror”, duhet të sigurojnë konfidencialitetin, integritetin dhe disponibilitetin e informacionit të klasifikuar.
