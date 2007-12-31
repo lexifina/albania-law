@@ -1,4 +1,8 @@
 3. Mënyra e depozitimit:
 a) Depozitat, ku ruhet rezerva e sigurisë, duhet të jenë të certifikuara teknikisht dhe të vlerësohen si magazina doganore, pas plotësimit të kushteve të përcaktuara në Kodin Doganor dhe në aktet nënligjore, në zbatim të tij, sipas vlerësimit të autoritetit doganor.
-b) Depozitimi i plotë ose i pjesshëm i sasisë së rezervës së sigurisë nga subjektet që kanë detyrimin për ta mbajtur këtë rezervë sigurie, mund të bëhet edhe me marrëveshje kontraktuale me një subjekt të tretë, të pajisur me leje tregtimi a leje koncesioni dhe që zotëron depozita të certifikuara teknikisht.
+b) Sasia e rezervës së sigurisë, që do të depozitohet nga subjektet, të cilat kanë detyrimin për ta mbajtur këtë rezervë sigurie, është:
+i) jo më pak se 30 për qind në depozitat e vetë subjektit, të cilat janë të certifikuara teknikisht;
+ii) jo më shumë se 40 për qind në depozitat e certifikuara teknikisht të subjekteve, me të cilat subjekti, që ka detyrimin për të mbajtur rezervën e sigurisë, ka lidhur marrëveshje kontraktore.
+Në rastin e marrëveshjeve kontraktore me subjektet e shitjes me pakicë të naftës, gazit dhe nënprodukteve të tyre, për furnizim ekskluziv, sasia e rezervës së sigurisë do të llogaritet për jo më shumë se dy subjekte të tregtimit me pakicë.
+Rezervë sigurie për subjektin llogariten edhe sasitë e kontraktuara e të likuiduara, por jo më shumë se 30 për qind e sasisë së rezervës së sigurisë së llogaritur, të vërtetuar me kontratat e nënshkruara dhe faturat përkatëse, për likuidimin e sasive të kërkuara.
 Marrëveshja për depozitimin e plotë ose të pjesshëm të sasisë së rezervës së sigurisë ndërmjet subjektit që është i detyruar të mbajë rezervë sigurie dhe një subjekti të tretë duhet të jetë ekskluzive dhe me afat jo më pak se një vit kalendarik, si dhe duhet të garantojë mundësinë e përdorimit në rast vështirësish të furnizimit të tregut me naftë, gaz dhe nënproduktet e tyre.
