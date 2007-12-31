@@ -1,0 +1,2 @@
+7. Nën drejtimin e Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave, ministritë e linjës dhe institucionet e tjera të qeverisjes qendrore apo vendore bashkëpunojnë për hartimin e planit kombëtar të administrimit të mbetjeve të ngurta sipas kërkesave të këtij udhëzimi. Në rastin kur plani kombëtar hartohet me konsulencë të huaj, ato mbështesin me të dhëna dhe ndihmojnë aktivisht në koordinimin dhe lehtësimin e procesit të hartimit të tij.
+Planet rajonale të administrimit të mbetjeve të ngurta:

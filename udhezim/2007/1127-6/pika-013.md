@@ -1,0 +1,1 @@
+13. Në procesin e hartimit të planit rajonal, këshilli i qarkut realizon informimin dhe konsultohet me publikun sipas kërkesave të ligjit nr.8990, datë 23.1.2003 “Për vlerësimin e ndikimit në mjedis”.
