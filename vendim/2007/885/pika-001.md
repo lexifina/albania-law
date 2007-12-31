@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit të formës “BOT (ndërtim, operim, transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoriteti kontraktues dhe shoqërisë “Xhemi 02”, sh.p.k., për ndërtimin e hidrocentralit “Verbë-Selcë” sipas tekstit dhe aneksit, që i bashkëlidhen këtij vendimi.
