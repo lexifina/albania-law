@@ -1,0 +1,3 @@
+13. Në dhënien e autorizimeve mjedisore do të aplikohen këto tarifa shërbimi:
+Tarifa e shërbimit për veprimtaritë e aneksit të I-rë të udhëzuesit nr.2, datë 21.5.2007 “Për miratimin e listës së veprimtarive me ndikim në mjedis, mënyrën e aplikimit dhe rregullat e procedurat e dhënies së autorizimit dhe pëlqimit mjedisor” grupohen si më poshtë:
+a) për veprimtaritë e të gjitha pikave të aneksit të I-rë të udhëzuesit, tarifa e shërbimit është 10 000 (dhjetë mijë) lekë, me përjashtim të veprimtarive të pikave 4, 5, 8, 9, 15, 17, 19, 21, 25, 26, 27, 28, 29, 32, 34, 35 të aneksit tarifa e të cilave është 20 000 (njëzet mijë) lekë.
