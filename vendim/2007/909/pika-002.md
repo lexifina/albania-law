@@ -1,0 +1,6 @@
+2. Shuma prej 1 307 000 000 lekësh t’u ndahet ministrive të mëposhtme:
+a) Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit, në buxhetin e miratuar për vitin 2007, zëri “Shpenzime korrente”, fondi prej 858 237 000 (tetëqind e pesëdhjetë e tetë milionë e dyqind e tridhjetë e shtatë mijë) lekësh për:
+i) shlyerjen e detyrimeve të kontributeve të sigurimeve shoqërore 414 904 000 lekë;
+ii) shlyerjen e detyrimeve ndaj KESH sh.a., 443 333 000 lekë, përkatësisht sipas lidhjeve nr.2 e nr.3, që i bashkëlidhen këtij vendimi.
+b) Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në buxhetin e miratuar për vitin 2007, zëri “Shpenzime korrente”, fondi prej 65 982 642 (gjashtëdhjetë e pesë milionë e nëntëqind e tetëdhjetë e dy mijë e gjashtëqind e dyzet e dy) lekësh për shlyerjen e detyrimeve të sigurimeve shoqërore të drejtorive të ujërave (bordet e kullimit), sipas lidhjes nr.4, që i bashkëlidhet këtij vendimi.
+c) Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, në buxhetin e miratuar për vitin 2007, zëri “Shpenzime korrente”, fondi prej 382 780 358 (treqind e tetëdhjetë e dy milionë e shtatëqind e tetëdhjetë mijë e treqind e pesëdhjetë e tetë) lekësh për shlyerjen e detyrimeve të prapambetura të sigurimeve shoqërore të ndërmarrjeve publike, sipas lidhjes nr.5, që i bashkëlidhet këtij vendimi.

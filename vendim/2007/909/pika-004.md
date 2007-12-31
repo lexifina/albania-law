@@ -1,0 +1,1 @@
+4. Ngarkohen ministritë e përcaktuara në pikën 2 të këtij vendimi të realizojnë, brenda datës 31 dhjetor 2007, transferimin e fondeve përkatësisht në llogarinë e kontributeve të sigurimeve shoqërore dhe në llogarinë e KESH sh.a., si dhe të realizojnë kontabilizimin e tyre me institucionet e varësisë.
