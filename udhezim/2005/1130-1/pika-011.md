@@ -1,1 +1,0 @@
-11. Projektet dhe veprimtaritë që kryhen për mbrojtjen e mjedisit ose që jepen si ndihmë për Shqipërinë, përjashtohen nga tarifa e shërbimit për dhënien e lejes mjedisore dhe leja mjedisore u akordohet falas.

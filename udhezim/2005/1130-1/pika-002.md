@@ -1,1 +1,0 @@
-2. Vlera e tarifës përfshin shpenzimet administrative, si dhe gjithë veprimtaritë konkrete të agjencive rajonale të mjedisit dhe të Ministrisë gjatë procesit të shqyrtimit të kërkesës për miratimin e projektit dhe të dokumentacionit shoqërues dhe marrjes së vendimit përkatës.

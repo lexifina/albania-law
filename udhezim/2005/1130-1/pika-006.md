@@ -1,1 +1,0 @@
-6. Tarifa derdhet nga propozuesi në bankë, në adresën: Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Raiffeisen Bank, nr.llogarie 317/4302, përshkrimi; Tarifë për deklaratë mjedisore, leje mjedisore, autorizim mjedisor ose pëlqim mjedisor (sipas rastit).
