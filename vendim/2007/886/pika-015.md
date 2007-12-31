@@ -1,0 +1,1 @@
+15. Sekretari i komisionit të kualifikimit caktohet nga Drejtori i Përgjithshëm i Auditimit dhe përzgjidhet ndër punonjësit e strukturës, që mbulon kualifikimin, në Drejtorinë e Përgjithshme të Auditimit.

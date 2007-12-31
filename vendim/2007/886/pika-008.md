@@ -1,0 +1,1 @@
+8. Në mbledhje shqyrtohen probleme dhe merren vendime për kualifikimin dhe programet e trajnimit, kurrikulat e programeve dhe evidencat e pjesëmarrjes në trajnime, në përputhje me rregulloren e miratuar nga Ministri i Financave, për organizimin e procesit të trajnimit, në kuadër të certifikimit të audituesve të brendshëm.

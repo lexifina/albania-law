@@ -1,0 +1,1 @@
+13. Përfundimet e çdo mbledhjeje pasqyrohen në një memorandum, i cili i bëhet i ditur Ministrit të Financave dhe së bashku me procesverbalin e mbledhjes, depozitohen në protokollin e Ministrisë së Financave.
