@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, sipas dokumentacionit të pronësisë dhe planimetrive përkatëse, që do t’i vihen në dispozicion nga zyra rajonale e regjistrimit të pasurive të paluajtshme, Mirditë, në përfundim të procesit të regjistrimit.
