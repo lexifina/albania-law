@@ -1,1 +1,0 @@
-6. “Deklarata e sigurisë“, përmban përshkrimin e plotë dhe të hollësishëm të sigurisë së rrjetit informatik, mjeteve apo pajisjeve të transmetimit, gjatë instalimit dhe shfrytëzimit. Ajo i lëshohet ministrisë apo institucionit shtetëror dhe nënshkruhet nga personi fizik apo juridik, vendas apo i huaj, i cili ka prodhuar, tregtuar, dhuruar apo siguruar ato në një mënyrë tjetër.

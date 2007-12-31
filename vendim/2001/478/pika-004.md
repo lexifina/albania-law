@@ -1,1 +1,0 @@
-4. “Certifikata e sigurisë së rrjetit” është dokumenti që vërteton se tërësia e mjeteve dhe pajisjeve, që përbëjnë rrjetin ku ruhet, përpunohet, administrohet, transmetohet informacioni i klasifikuar “sekret shtetëror”, plotësojnë kërkesat e sigurisë.
