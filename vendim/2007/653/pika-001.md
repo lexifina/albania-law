@@ -1,0 +1,1 @@
+1. Miratimin e çmimeve, sipas tabelave, që i bashkëlidhen këtij vendimi, për trojet urbane brenda vijës së verdhë, trojet në qytetet dhe komunat, ku investimet nuk janë rentabël, tokën bujqësore, tokën pyjore, livadhet dhe kullotat, për qarqet e Lezhës, Dibrës, Korçës dhe Kukësit.
