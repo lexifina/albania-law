@@ -1,0 +1,1 @@
+1. Të ardhurat e personave fizikë dhe juridikë, subjekte të taksës vendore mbi biznesin e vogël, të cilët realizojnë një qarkullim vjetor jo më shumë se 8 milionë lekë dhe jo më pak se 2 milionë lekë janë subjekt i tatimit mbi të ardhurat personale.
