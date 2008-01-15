@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohen aktet finale të Konferencës Rajonale të Radiokomunikacioneve për planifikimin e shërbimit të transmetimit numerik tokësor në pjesë të rajoneve 1 dhe 3, në bandat e frekuencës 174-230 MHZ dhe 470-862 MHZ (RRC-06) dhe aktet finale të Konferencës Rajonale të Radiokomunikacioneve për rishikimin e Marrëveshjes së Stokholmit, 1961 (RRC-06 REV. ST 61), të zhvilluar në Gjenevë, 15 maj - 16 qershor 2006.
