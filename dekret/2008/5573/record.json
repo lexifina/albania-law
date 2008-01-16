@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6077,
+  "title": "Për caktimin e datës së zgjedhjeve të pjesshme për kryetar komune në komunën paskuqan, qarku tiranë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "5573",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2008-01-14",
+  "published": "2008-01-16",
+  "in_force": "2008-01-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e4458f030355915a199c9a654371a04e90fc286b2426b955d1c7cf76d6404d1a.docx",
+  "source_sha256": "e4458f030355915a199c9a654371a04e90fc286b2426b955d1c7cf76d6404d1a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6077",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2008/01/14/5573",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
