@@ -1,0 +1,1 @@
+1. Shpalljen zonë ekonomike, me statusin “Park industrial”, të parcelave me sipërfaqe 61 ha, pjesë e zonave kadastrale nr.2220 dhe 2221 në Koplik, Shkodër, sipas listës, që i bashkëlidhet këtij vendimi.
