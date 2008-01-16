@@ -1,0 +1,13 @@
+1. Fondet buxhetore, të miratuara në buxhetin e vitit 2008, zëri “Transfertë në buxhetet familjare” për Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, të përdoren për mbështetjen e prodhimit bujqësor, blegtoral dhe agropërpunimit, si më poshtë vijon, për:
+- prodhimin e vajit të ullirit extra-vergine;
+- mbrojtjen e ullishteve nga miza e ullirit;
+- certifikimin e produkteve bio;
+- futjen e teknologjive të reja në ujitjen e pemëtoreve intensive;
+- ruajtjen e produkteve bujqësore;
+- prodhimin e fidanëve për llojet autoktone të rrushit;
+- fermerët individualë, që ngrenë vreshta, pemëtore dhe ullishte të reja;
+- serrat me ngrohje teknike, për ndryshimin e sistemit të përdorimit të lëndës djegëse nga naftë në solar;
+- fermat blegtorale, që mbarështojnë lopë për qumësht, të matrikulluara dhe që e dorëzojnë prodhimin në qendrat e përpunimit, të regjistruara në organet tatimore;
+- mbarështimin në kullota të blegtorisë së imët, të matrikulluar;
+- shoqëritë e prodhimit dhe të tregtimit në bujqësi, të regjistruara në mbështetje të ligjit nr.8088, datë 21.3.1996 “Për shoqëritë e bashkëpunimit reciprok”, të ndryshuar;
+- subvencionimin e normës së interesit për kreditë, që përdoren për veprimtaritë bujqësore.

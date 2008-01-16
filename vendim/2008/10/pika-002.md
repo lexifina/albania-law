@@ -1,0 +1,14 @@
+2. Kriteret bazë për mbështetjen e prodhimit bujqësor dhe masa e përfitimit të jenë, si më poshtë vijon:
+- për prodhimin e vajit të ullirit extra-vergine 100 lekë/litri;
+- për mbrojtjen e ullishteve nga miza e ullirit 17 000 lekë/ha;
+- për certifikimin e produkteve bujqësore bio nga bimët e kultivuara deri në 70 000 lekë/fermë;
+- për ujitjen me pika në pemëtoret intensive, me sipërfaqe mbi 4 dy 300 000 lekë/ha;
+- për blerjen e dhomave frigoriferike, për ruajtjen e prodhimeve bujqësore, me kapacitete të vogla deri në të mesme 600 000 lekë/fermë;
+- për prodhimin e fidanëve për llojet autoktone të rrushit “Kallmet”, “Debine” dhe “Vlosh” për fidanishte mbi 3 dy 1 200 000 lekë/ha;
+- për ngritjen e vreshtit të ri, me sipërfaqe mbi 5 dy 500 000 lekë/ha;
+- për ngritjen e pemëtoreve të reja, me sipërfaqe mbi 3 dy 300 000 lekë/ha;
+- për ngritjen e ullishteve të reja, me sipërfaqe mbi 3 dy 300 000 lekë/ha;
+- për serrat me ngrohje teknike, për ndryshimin e sistemit të përdorimit të lëndës djegëse nga naftë në solar 1 500 000 lekë/ha;
+- për fermat blegtorale, që mbarështojnë jo më pak se 5 krerë lopë qumështi, të matrikulluara, dhe që e dorëzojnë prodhimin në qendrat e përpunimit, të regjistruara në organet tatimore 10 000 lekë/krerë në vit, për racat e pastra, dhe 5 000 lekë/krerë në vit për kryqëzimet dhe racat e vendit;
+- për mbarështimin e dhenve në kullota, për vendqëndrime dhe lëvizje nga kullotat verore në ato dimërore dhe anasjellas, për tufat me mbi 50-150 krerë, të matrikulluara, 50 000 lekë/vit për fermë, dhe për tufat me 150 krerë 100 000 lekë/vit, për fermë;
+- për shoqëritë e prodhimit dhe të tregtimit për ndërtesa, makineri bujqësore, pajisje për ruajtje dhe përpunim të prodhimit, deri 50 % të vlerës së investimit, por jo më shumë se 2 000 000 lekë në vit. Kjo mbështetje nuk jepet më shumë se 3 (tri) vite radhazi.

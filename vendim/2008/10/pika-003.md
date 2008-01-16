@@ -1,0 +1,1 @@
+3. Kriteret më të hollësishme dhe procedurat për dhënien e mbështetjes përcaktohen me udhëzim të përbashkët të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe Ministrit të Financave.
