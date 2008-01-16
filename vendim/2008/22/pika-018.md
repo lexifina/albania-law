@@ -1,0 +1,1 @@
+18. Fshatrat dhe familjet, që nuk marrin në përdorim ngastra të ekonomisë pyjore, i plotësojnë nevojat brenda mundësive të shfrytëzimit nga pyjet komunale, të padhëna në përdorim, sipas pikave 19 e 20 të këtij vendimi.

@@ -1,0 +1,1 @@
+10. Në rast se drejtoria përkatëse e shërbimit pyjor vëren se projektplani i paraqitur është në kundërshtim me njërën nga rregullat e detyrueshme, sipas parashikimit të pikës 4 të këtij vendimi, ajo njofton, me shkrim, prefektin përkatës.

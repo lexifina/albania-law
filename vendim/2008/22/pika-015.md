@@ -1,0 +1,1 @@
+15. Këshilli i njësisë së qeverisjes vendore, në bazë të mundësisë së shfrytëzimit dhe të kërkesave të paraqitura nga banorët, përcakton sasinë, që përfiton çdo familje, dhe tarifën për njësi për secilën nga veprimtaritë e përcaktuara në shkronjat “a” e “b” të pikës 14 të këtij vendimi.

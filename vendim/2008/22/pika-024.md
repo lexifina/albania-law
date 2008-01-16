@@ -1,0 +1,1 @@
+24. Shitja e lëndës drusore, e bimëve mjekësore dhe e prodhimeve të tjera dytësore, pyjore, të përfituara nga shfrytëzimi ekonomik i pyllit komunal apo nga veprimtaritë e rehabilitimit e të trajtimit, bëhet nga njësia e qeverisjes vendore, nëpërmjet procedurave të ankandit, sipas legjislacionit në fuqi.

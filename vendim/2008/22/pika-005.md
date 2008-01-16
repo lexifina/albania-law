@@ -1,0 +1,1 @@
+5.Njësia e qeverisjes vendore siguron trajtimin e përvitshëm rehabilitues të pyllit, nëpërmjet strukturave të krijuara posaçërisht prej saj apo nëpërmjet prokurimit të shërbimit, në përputhje me ligjin e prokurimit publik, të subjekteve të licencuara apo shoqatave vendore të përdoruesve të pyllit.

@@ -1,0 +1,1 @@
+12. Brenda periudhës 1 maj - 30 qershor të çdo viti, me kërkesë të kryetarit të njësisë së qeverisjes vendore, drejtoria përkatëse e shërbimit pyjor kryen damkimin e drurëve, ndërsa struktura e specializuar e njësisë së qeverisjes vendore përcakton, për bimët mjekësore dhe për prodhimet e tjera dytësore, pyjore, kontingjentët, që do të mblidhen.

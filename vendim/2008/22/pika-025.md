@@ -1,0 +1,1 @@
+25. Drejtoritë përkatëse të shërbimit pyjor asistojnë në vijimësi njësitë e qeverisjes vendore për ruajtjen, administrimin dhe përdorimin e pyjeve e të kullotave komunale, ndërsa Policia Pyjore ushtron kontrolle të vazhdueshme, për të siguruar zbatimin e legjislacionit në fuqi për pyjet.
