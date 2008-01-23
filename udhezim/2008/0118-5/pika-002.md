@@ -1,0 +1,1 @@
+2. Tatimi paguhet nga individi që kalon të drejtën e pronësisë mbi pasurinë e paluajtshme, para kryerjes së regjistrimit të pasurive të mësipërme, në përputhje me aktet ligjore. Pasuria e paluajtshme nuk regjistrohet, pa provuar pagimin e detyrimit pranë zyrave vendore të regjistrimit të pasurive të paluajtshme.

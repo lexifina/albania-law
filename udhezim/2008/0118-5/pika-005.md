@@ -1,0 +1,1 @@
+5. Për rastet e dhurimit të pasurisë së paluajtshme për efekt të llogaritjes së tatimit, vlera e shitjes së pasurisë së paluajtshme do të përcaktohet nga persona të licencuar për vlerësimin e pasurive të paluajtshme dhe çmimi për metër katror i përdorur, nuk mund të jetë më pak, se çmimi minimal fiskal i përcaktuar në shtojcën bashkëlidhur këtij udhëzimi.
