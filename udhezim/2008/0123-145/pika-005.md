@@ -1,0 +1,1 @@
+5. Certifikatat me kodin e zyrës së gjendjes civile që do të mbyllet, do të përdoren vetëm për shtetasit që janë të regjistruar në regjistrat e kësaj zyre. Kjo praktikë do të ndiqet deri në përfundimin e kontingjentit të certifikatave me këtë kod.

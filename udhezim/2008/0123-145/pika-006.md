@@ -1,0 +1,1 @@
+6. Ngarkohet kryetari i njësisë vendore për të bërë me dije shtetasit në lidhje me ndryshimin e zyrës së shërbimit të gjendjes civile dhe datën e fillimit të këtij shërbimi në zyrën e gjendjes civile përkatëse.

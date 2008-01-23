@@ -1,0 +1,1 @@
+4. Shërbimi i gjendjes civile për zyrën që do të mbyllet, duke filluar nga data 1.2.2008, do të kryhet në zyrën e re. Për aktet e lindjes, vdekjes, martesës, si dhe për procesverbalet e ndarjes dhe bashkimit të familjes, ndryshimin e emrit dhe mbiemrit, do të hapen libra të rinj.
