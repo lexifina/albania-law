@@ -1,0 +1,1 @@
+2. Nënkryetari i komunës, pasi merr listën e zgjedhësve nga zyra e gjendjes civile, brenda datës 26 janar 2008, dërgon listat e zgjedhësve të përditësuara në letër dhe një kopje e tyre në format elektronik në Drejtorinë e Përgjithshme të Gjendjes Civile.

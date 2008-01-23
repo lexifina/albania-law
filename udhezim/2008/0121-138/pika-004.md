@@ -1,0 +1,1 @@
+4. Nënkryetari i komunës, pasi ka marrë vendim për heqjen nga lista e zgjedhësve, të zgjedhësve të regjistruar më shumë se njëherë, miraton listën përfundimtare të zgjedhësve për zgjedhjet e pjesshme të datës 24 shkurt 2008, jo më vonë se data 28 janar 2008.
