@@ -1,0 +1,1 @@
+2. Miratimin e lejes nr.2, datë 10.12.2007, dhënë nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës shoqërisë “Moncada Construzioni” s.r.l., për ndërtimin dhe shfrytëzimin e linjës tregtare, me rrymë të vazhduar, të interkonjeksionit, Vlorë (Shqipëri)-Brindizi Jug (Itali), pa akses të palëve të treta mbi këtë linjë, sipas tekstit, që i bashkëlidhet këtij vendimi.
