@@ -1,8 +1,12 @@
 L I G J
 
-Nr.9441, datë 11.11.2005
+Nr. 9441, datë 11.11.2005
 
 PËR PRODHIMIN, GRUMBULLIMIN, PËRPUNIMIN DHE TREGTIMIN E QUMËSHTIT DHE TË PRODUKTEVE ME BAZË QUMËSHTI
+
+(Ndryshuar me ligjin nr. 9863, datë 28.1.2008)
+
+(i përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -12,7 +16,7 @@ I REPUBLIKËS SË SHQIPËRISË
 
 V E N D O S I:
 
-KREU  I
+KREU I
 
 DISPOZITA TË PËRGJITHSHME
 
@@ -60,7 +64,7 @@ Për qëllimet e këtij, ligji termat e mëposhtëm kanë këtë kuptim:
 
 “Trajtim termik” është trajtimi i qumështit të papërpunuar nëpërmjet ngrohjes, që sjell menjëherë një reaksion negativ të testit përkatës të miratuar.
 
-“Termizim” është ngrohja e qumështit të papërpunuar për 15 sekonda në një temperaturë ndërmjet 57 gradë C dhe 68 gradë  C. 
+“Termizim” është ngrohja e qumështit të papërpunuar për 15 sekonda në një temperaturë ndërmjet 57 gradë C dhe 68 gradë C. 
 
 Pas këtij trajtimi, testi përkatës i miratuar duhet të japë rezultat pozitiv.
 
@@ -88,13 +92,13 @@ Në këto produkte, qumështi ose një produkt i tij përbën pjesën   kryesore
 
 17. “Këshilli i Ekspertëve të Qumështit” është organi këshillimor i Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
 
-18. “Leje për tregtimin e qumështit” është  leja për tregtimin e qumështit të papërpunuar nga një fermë e kontrolluar qumështi në qendrat e grumbullimit, të standardizimit dhe të përpunimit.
+18. “Leje për tregtimin e qumështit” është leja për tregtimin e qumështit të papërpunuar nga një fermë e kontrolluar qumështi në qendrat e grumbullimit, të standardizimit dhe të përpunimit.
 
 19. “Leje për qendër grumbullimi të qumështit” është leja për vënien në përdorim të një qendre të kontrolluar grumbullimi të qumështit.
 
 20. “Leje për qendër standardizimi të qumështit” është leja për vënien në përdorim të një qendre të kontrolluar standardizimi të qumështit.
 
-21. “Leje për qendër përpunimi të qumështit” është  leja për vënie në përdorim të një qendre të kontrolluar përpunimi ose trajtimi të qumështit.
+21. “Leje për qendër përpunimi të qumështit” është leja për vënie në përdorim të një qendre të kontrolluar përpunimi ose trajtimi të qumështit.
 
 Neni 4
 
@@ -104,7 +108,7 @@ Subjektet
 
 2. Subjektet që ushtrojnë veprimtari, sipas pikës 1 të këtij neni, pajisen me leje përkatëse.
 
-KREU  II
+KREU II
 
 KËRKESAT PËR PAJISJE ME LEJE
 
@@ -136,13 +140,9 @@ Neni 9
 
 Organet përgjegjëse për dhënien e lejeve
 
-Organet përgjegjëse për dhënien e lejeve të përcaktuara në nenet 5, 6, 7 e 8 të këtij ligji janë:
+                               (Shfuqizuar me ligjin nr. 9863, datë 28.1.2008)
 
-drejtoritë rajonale të bujqësisë dhe të ushqimit në qarqe;
-
-drejtoritë e kujdesit shëndetësor parësor në qarqe.
-
-KREU  III
+KREU III
 
 QUMËSHTI I PAPËRPUNUAR
 
@@ -154,7 +154,7 @@ Qumështi i papërpunuar, që destinohet për prodhimin e qumështit për konsum
 
 Qumështi i përftuar nga kafshë në dukje të shëndetshme, që u përkasin tufave, zyrtarisht ose jo të prekura nga tuberkulozi apo bruceloza, përdoret për prodhimin e qumështit për konsum, të trajtuar termikisht, ose për prodhimin e produkteve me bazë qumështi, vetëm pasi t’i jetë nënshtruar përpunimit termik nën kontrollin e Inspektoratit Veterinar.
 
-Për qumështin e deles dhe të dhisë, që destinohet për eksport, kryhet  trajtimi termik në vend ose në pikën më të afërt përpunuese.
+Për qumështin e deles dhe të dhisë, që destinohet për eksport, kryhet trajtimi termik në vend ose në pikën më të afërt përpunuese.
 
 Qumështi i përftuar sipas pikës 2 të këtij neni grumbullohet dhe transportohet për në destinacion në enë të mbyllura, të etiketuara dhe me dokumentin shoqërues përkatës.
 
@@ -168,7 +168,7 @@ Qumështi i këtij prodhuesi duhet të plotësojë kërkesat e dispozitave të p
 
 3. Qumështi lëndë e parë lejohet të tregtohet vetëm kur i është nënshtruar një përpunimi termik në qendrat e pajisura me leje për këtë qëllim.
 
-KREU  IV
+KREU IV
 
 QUMËSHTI PËR KONSUM
 
@@ -210,7 +210,7 @@ b) të magazinohet dhe transportohet sipas neneve 21 dhe 22 të këtij ligji;
 
 c) të shoqërohet gjatë transportimit me një dokumentacion shoqërues, në të cilin përcaktohet qartë edhe lloji i përpunimit termik.
 
-KREU  V
+KREU V
 
 PRODUKTE ME BAZË QUMËSHTI
 
@@ -232,7 +232,7 @@ Kërkesat për tregtimin e produkteve me bazë qumështi
 
 Produktet me bazë qumështi, të prodhuara nga qumështi, që plotëson kërkesat e nenit 10, ose nga një produkt tjetër qumështi, tregtohen kur:
 
-a) prodhohen në një qendër përpunimi, të pajisur me leje përkatëse, sipas ligjit nr.7941, datë 31.5.1995 “Për ushqimin” dhe kërkesave të krerëve I, II, III dhe VI të shtojcës B,  që i bashkëlidhet këtij ligji;
+a) prodhohen në një qendër përpunimi, të pajisur me leje përkatëse, sipas ligjit nr.7941, datë 31.5.1995 “Për ushqimin” dhe kërkesave të krerëve I, II, III dhe VI të shtojcës B, që i bashkëlidhet këtij ligji;
 
 b) të jenë në përputhje me normat për përmbajtjen, cilësinë dhe sigurinë ushqimore për qumështin e konsumit dhe produktet me bazë qumështi, të përcaktuara me vendime të Këshillit të Ministrave;
 
@@ -264,7 +264,7 @@ Organi përkatës përgjigjet për hartimin dhe zbatimin e programit për testim
 
 Qumështi ose produktet me bazë qumështi, me përmbajtje më të lartë të mbetjeve të substancave të përmendura në pikën 1 të këtij neni, ndalohet të përdoren për konsum njerëzor.
 
-KREU  VI
+KREU VI
 
 AMBALAZHIMI DHE ETIKETIMI
 
@@ -284,7 +284,7 @@ Qumështi dhe produktet me bazë qumështi i nënshtrohen vendosjes së vulës s
 
 Vendosja e vulës, forma dhe përmbajtja e saj bëhen sipas përcaktimeve të kreut VIII të shtojcës B, që i bashkëlidhet këtij ligji.
 
-KREU  VII
+KREU VII
 
 PAJISJET, MJEDISET E PUNËS, MAGAZINIMI DHE TRANSPORTI I QUMËSHTIT DHE I PRODUKTEVE ME BAZË QUMËSHTI
 
@@ -304,67 +304,23 @@ Neni 23
 
 Kërkesat higjienike të personelit
 
-Personeli punonjës, që merret me trajtimin e qumështit  dhe të produkteve me bazë qumështi, është i detyruar të respektojë kërkesat e nenit 11 të ligjit “Për ushqimin” dhe ato të shkronjës “B” të kreut II të shtojcës B, që i bashkëlidhet këtij ligji.
+Personeli punonjës, që merret me trajtimin e qumështit dhe të produkteve me bazë qumështi, është i detyruar të respektojë kërkesat e nenit 11 të ligjit “Për ushqimin” dhe ato të shkronjës “B” të kreut II të shtojcës B, që i bashkëlidhet këtij ligji.
 
-KREU  VIII
+KREU VIII
 
 KONTROLLI
 
-Neni 24
+                    (Shfuqizuar Kreu VIII, nenet 24-29 me ligjin nr. 9863, datë 28.1.2008)
 
-Organet e kontrollit
-
-Organet përgjegjëse të kontrollit janë:
-
-inspektoratet në drejtoritë përkatëse në Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit;
-
-inspektoratet në drejtoritë rajonale të bujqësisë dhe të ushqimit në qarqe;
-
-inspektoratet sanitare shtetërore në drejtoritë e kujdesit shëndetësor parësor në qarqe.
-
-Neni 25
-
-Kontrollet periodike
-
-Qendrat e grumbullimit, të standardizimit dhe përpunimit të qumështit dhe të produkteve me bazë qumështi i nënshtrohen një kontrolli periodik nga organet përgjegjëse, në përputhje me kreun VII të ligjit “Për ushqimin” dhe me aktet nënligjore në zbatim të tij, si dhe me kërkesat e  shtojcës B, që i bashkëlidhet këtij ligji.
-
-Neni 26
-
-Kontrolli veterinar
-
-Kafshët e fermës dhe ferma prodhuese i nënshtrohen kontrollit veterinar periodik, në zbatim të ligjit “Për shërbimin dhe Inspektoratin Veterinar” dhe të krerëve I, II e III të shtojcës A, që i bashkëlidhet këtij ligji.
-
-Neni 27
-
-Kontrolli dhe vetëkontrolli
-
-Inspektorati i Ushqimit kontrollon zbatimin e kushteve dhe të kritereve që parashikon ky ligj dhe përshtatjen e procedurave të vetëkontrollit, që zbatohen në të gjitha fazat e përpunimit, sipas kreut VII të ligjit “Për ushqimin”.
-
-Drejtuesi i qendrës së përpunimit është i detyruar të zotërojë një sistem vetëkontrolli. 
-
-Mënyra e organizimit dhe kriteret e vetëkontrollit nga prodhuesi përcaktohen me rregullore të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
-
-Neni 28
-
-Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, me strukturat vartëse, harton regjistrin shtetëror të qendrave të përpunimit, të grumbullimit dhe të standardizimit të qumështit dhe të produkteve me bazë qumështi.
-
-Forma e regjistrit dhe kriteret për regjistrimin e këtyre qendrave përcaktohen me rregullore të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
-
-Neni 29
-
-Kërkesat për importimin e qumështit dhe të produkteve me bazë qumështi 
-
-Kërkesat që zbatohen për importimin e qumështit dhe të produkteve me bazë qumështi duhet të jenë të njëjta ose më të larta se kërkesat e përcaktuara në këtë ligj për prodhimin vendas, sipas përcaktimeve të organit përgjegjës.
-
-KREU  IX
+KREU IX
 
 KËSHILLI I EKSPERTËVE TË QUMËSHTIT
 
 Neni 30
 
-Pranë Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit ngrihet Këshilli i Ekspertëve të Qumështit. Organizimi, funksionimi, struktura dhe detyrat e tij  përcaktohen me vendim të Këshillit të Ministrave.
+Pranë Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit ngrihet Këshilli i Ekspertëve të Qumështit. Organizimi, funksionimi, struktura dhe detyrat e tij përcaktohen me vendim të Këshillit të Ministrave.
 
-KREU  X
+KREU X
 
 KUNDËRVAJTJET ADMINISTRATIVE
 
@@ -380,15 +336,15 @@ Mosrespektimi i kërkesave për qumështin e papërpunuar, sipas përcaktimeve t
 
 3. Mosrespektimi i kërkesave për qumështin për konsum, sipas përcaktimeve të neneve 12 e 13 të këtij ligji.
 
-4. Mosrespektimi i kërkesave për qumështin e papërpunuar për prodhimin e  produkteve me bazë qumështi, sipas përcaktimeve të nenit 14 të këtij ligji.
+4. Mosrespektimi i kërkesave për qumështin e papërpunuar për prodhimin e produkteve me bazë qumështi, sipas përcaktimeve të nenit 14 të këtij ligji.
 
-5. Mosrespektimi i kërkesave për tregtimin e produkteve me bazë qumështi,  sipas përcaktimeve të nenit 15 të këtij ligji.
+5. Mosrespektimi i kërkesave për tregtimin e produkteve me bazë qumështi, sipas përcaktimeve të nenit 15 të këtij ligji.
 
 6. Mosrespektimi i kërkesave të ambalazhimit dhe të etiketimit të qumështit dhe produkteve të tij, sipas përcaktimeve të neneve 18 e 19 të këtij ligji.
 
 7. Mosrespektimi i kërkesave për magazinimin e qumështit dhe të produkteve të tij, sipas përcaktimeve të nenit 22 të këtij ligji.
 
-8. Prodhimi, grumbullimi, përpunimi dhe standardizimi i qumështit pa lejet  përkaëse, të përcaktuara në nenet 5, 6, 7 e 8 të këtij ligji.
+8. Prodhimi, grumbullimi, përpunimi dhe standardizimi i qumështit pa lejet përkatëse, të përcaktuara në nenet 5, 6, 7 e 8 të këtij ligji.
 
 Neni 32
 
@@ -396,29 +352,19 @@ Sanksionet
 
 Për kundërvajtjet administrative, të parashikuara në nenin 31 të këtij ligji, nga organet e kontrollit jepen këto sanksione:
 
-për  shkeljet e parashikuara në pikat 1, 3, 4 e 5,  masa e gjobës është  50 000 lekë;
+për shkeljet e parashikuara në pikat 1, 3, 4 e 5, masa e gjobës është 50 000 lekë;
 
 për shkeljet e parashikuara në pikat 2 e 8, masa e gjobës është 100 000 lekë;
 
-c)   për shkeljet e parashikuara në pikat 6 e 7, masa e gjobës është  30 000 lekë.
+c)   për shkeljet e parashikuara në pikat 6 e 7, masa e gjobës është 30 000 lekë.
 
 Neni 33
 
 Organet përgjegjëse për vendosjen e masave administrative
 
-Të drejtën e vendosjes së masave administrative, për shkeljet e parashikuara në nenin 31 të këtij ligji, e kanë:
+                               (Shfuqizuar me ligjin nr. 9863, datë 28.1.2008)
 
-Inspektorati i Ushqimit;
-
-Inspektorati i Veterinarisë;
-
-Inspektorati i Zooteknisë;
-
-ç)  Inspektorati Sanitar.
-
-Procedurat e ankimit dhe të ekzekutimit të masave administrative bëhen në përputhje me ligjet “Për ushqimin”, “Për shërbimin dhe Inspektoratin Veterinar”, “Për ushqimet e blegtorisë” dhe “Për Inspektoriatin Sanitar Shtetëror”.
-
-KREU  XI
+KREU XI
 
 DISPOZITA KALIMTARE DHE TË FUNDIT
 
@@ -450,9 +396,9 @@ Hyrja në fuqi
 
 Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
 
-Shpallur me dekretin nr.4706, datë 30.11.2005 të Presidentit të Republikës së Shqipërisë Alfred Moisiu
+Shpallur me dekretin nr. 4706, datë 30.11.2005 të Presidentit të Republikës së Shqipërisë Alfred Moisiu
 
-KËRKE 
+
 SHTOJCA A
 
 SAT PËR PRANIMIN E QUMËSHTIT TË PAPËRPUNUAR 
@@ -461,7 +407,7 @@ NË QENDRAT E PËRPUNIMIT
 
 KREU I
 
-KËRKESAT  E SHËNDETIT TË KAFSHËS PËR QUMËSHTIN E PAPËRPUNUAR
+KËRKESAT E SHËNDETIT TË KAFSHËS PËR QUMËSHTIN E PAPËRPUNUAR
 
 1. Qumështi i papërpunuar duhet të përftohet prej kafshëve:
 
@@ -473,35 +419,35 @@ a1) Të cilat u përkasin tufave:
 
 të paprekura ose zyrtarisht të paprekura nga bruceloza.
 
-a2)Të cilat nuk shfaqin shenja të sëmundjeve ngjitëse, të transmetueshme te njeriu nëpërmjet qumështit.
+a2) Të cilat nuk shfaqin shenja të sëmundjeve ngjitëse, të transmetueshme te njeriu nëpërmjet qumështit.
 
 a3) Të cilat nuk transmetojnë në qumësht karakteristika organo-shqisore anormale.
 
-a4)Gjendja e përgjithshme shëndetësore e të cilave nuk shoqërohet me çrregullime të dukshme dhe që nuk vuajnë nga infeksione të aparatit gjenital me rrjedhje, nga sëmundje të aparatit tretës të shoqëruara me diare dhe temperaturë ose nga infeksione të dallueshme të gjirit.
+a4) Gjendja e përgjithshme shëndetësore e të cilave nuk shoqërohet me çrregullime të dukshme dhe që nuk vuajnë nga infeksione të aparatit gjenital me rrjedhje, nga sëmundje të aparatit tretës të shoqëruara me diare dhe temperaturë ose nga infeksione të dallueshme të gjirit.
 
-a5)Të cilat nuk kanë plagë të gjirit, që mund të ndikojnë negativisht në   qumësht.
+a5) Të cilat nuk kanë plagë të gjirit, që mund të ndikojnë negativisht në   qumësht.
 
-a6)Të cilat, në rastin e lopëve,  duhet të japin të paktën dy litra qumësht në ditë.
+a6) Të cilat, në rastin e lopëve, duhet të japin të paktën dy litra qumësht në ditë.
 
-a7)Të cilat nuk janë trajtuar me lëndë të rrezikshme ose që njihen si të rrezikshme për shëndetin e njeriut, të afta të kalojnë në qumësht, ose qumështi i të cilave nuk është përfituar pas afatit zyrtar të pritjes, të vendosur në dispozitat e ligjit nr.9308 datë 4.11.2004 “Për shërbimin dhe Inspektoratin Veterinar”.
+a7) Të cilat nuk janë trajtuar me lëndë të rrezikshme ose që njihen si të rrezikshme për shëndetin e njeriut, të afta të kalojnë në qumësht, ose qumështi i të cilave nuk është përfituar pas afatit zyrtar të pritjes, të vendosur në dispozitat e ligjit nr.9308 datë 4.11.2004 “Për shërbimin dhe Inspektoratin Veterinar”.
 
 b)  Dele e dhi:
 
 b1) Të cilat i përkasin një tufe të paprekur ose zyrtarisht të paprekur nga bruceloza.
 
-b2) Të cilat përmbushin kërkesat e pikës  (a) më sipër, me  përjashtim të pikave  a1 dhe a6.
+b2) Të cilat përmbushin kërkesat e pikës (a) më sipër, me përjashtim të pikave a1 dhe a6.
 
 2. Nëse mbahen në një fermë së bashku me kafshë të llojeve të ndryshme, atëherë çdo lloj i tyre duhet të përmbushë kërkesat për kushtet shëndetësore, të cilat do të kërkoheshin edhe për mbarështim të veçantë të tyre.
 
 3. Nëse mbahen në një fermë së bashku dhi dhe lopë, dhitë t’i nënshtrohen kontrollit për tuberkulozin nga Inspektorati Veterinar, sipas ligjit “Për shërbimin dhe Inspektoratin Veterinar”.
 
-4. Qumështi i papërpunuar nuk lejohet të çohet për përpunim, për shitje dhe për konsum  nëse ai:
+4. Qumështi i papërpunuar nuk lejohet të çohet për përpunim, për shitje dhe për konsum nëse ai:
 
 a) është përftuar nga kafshë të trajtuara ilegalisht me lëndë të papërshtatshme, të përcaktuara nga ligji “Për shërbimin dhe Inspektoratin Veterinar”, si ato me veprim hormonal apo me veprim mbi hormonet e tiroides;
 
-b)  kur përmban mbetje lëndësh të përcaktuara  sipas dispozitave të nenit 17 të këtij ligji, mbi nivelin e vlerave të lejuara.
+b)  kur përmban mbetje lëndësh të përcaktuara sipas dispozitave të nenit 17 të këtij ligji, mbi nivelin e vlerave të lejuara.
 
-KREU  II
+KREU II
 
 KËRKESA TË PËRGJITHSHME PËR FERMË QUMËSHTI
 
@@ -539,9 +485,9 @@ Kafshët, të cilat janë prekur nga një sëmundje ose dyshohen të jenë preku
 
 Kafshët e të gjitha llojeve të mbahen larg vendeve ku qumështi ruhet, trajtohet ose ftohet.
 
-KREU  III
+KREU III
 
-KËRKESAT PËR MJELJEN GRUMBULLIMIN DHE TRANSPORTIN E QUMËSHTIT TË PAPËRPUNUAR NGA FERMA PRODHUESE NË QENDRAT E GRUMBULLIMIT, STANDARDIZIMIT OSE NË QENDRËN E  PËRPUNIMINT. HIGJIENA E PERSONELIT
+KËRKESAT PËR MJELJEN GRUMBULLIMIN DHE TRANSPORTIN E QUMËSHTIT TË PAPËRPUNUAR NGA FERMA PRODHUESE NË QENDRAT E GRUMBULLIMIT, STANDARDIZIMIT OSE NË QENDRËN E PËRPUNIMIT. HIGJIENA E PERSONELIT
 
 Kërkesa për mjeljen
 
@@ -553,7 +499,7 @@ B. Kërkesa higjienike për lokalet, pajisjet e mjetet
 
 1. Pajisjet e mjetet që janë caktuar për të pasur kontakt me qumështin (enët, mbajtëset e qumështit, rezervuarët që përdoren për mjeljen, grumbullimin e transportin), përkatësisht, të jenë prodhuara nga material me sipërfaqe të lëmuar, i lehtë për t’u pastruar e dezinfektuar, i qëndrueshëm ndaj korrozionit dhe që nuk lëshon lëndë në qumësht në sasi të tillë që mund të ndikojnë negativisht në shëndetin e njeriut dhe në përbërjen e qumështit ose në vetitë e tij organo-shqisore.
 
-2. Pas përfundimit të mjeljes, të pastrohen e të dezinfektohen enët e mjeljes, makinat mjelëse mekanike dhe enët mbajtëse që janë në kontakt me qumështin, tanket dhe kontenierët e qumështit të përdorur për transportin e tij për në qendrën e grumbullimit, standardizimit ose përpunimit, pas çdo serie përdorimi, gjatë së cilës ka vetëm hapësira të vogla kohore nëpërmjet zbrazjes dhe mbushjes pasardhëse, të pastrohen dhe të dezinfektohen sa më shpejt të jetë e mundur ose të paktën një herë në ditë, si dhe përpara se ato të përdoren përsëri. 
+2. Pas përfundimit të mjeljes, të pastrohen e të dezinfektohen enët e mjeljes, makinat mjelëse mekanike dhe enët mbajtëse që janë në kontakt me qumështin, tanket dhe kontenierët e qumështit të përdorur për transportin e tij për në qendrën e grumbullimit, standardizimit ose përpunimit, pas çdo serie përdorimi, gjatë së cilës ka vetëm hapësira të vogla kohore nëpërmjet zbrazjes dhe mbushjes pasardhëse, të pastrohen dhe të dezinfektohen sa më shpejt të jetë e mundur ose të paktën një herë në ditë, si dhe përpara se ato të përdoren përsëri.
 
 C. Kërkesa higjienike për personelin
 
@@ -575,7 +521,7 @@ a) qumështi i papërpunuar i çdo ferme qumështi të kontrollohet rregullisht 
 
 b)  kur mbi bazën e rezultateve të analizave inspektori i kontrollit dyshon për shtesa të ujit, merret në fermë një mostër origjinale. Mostër origjinale quhet një mostër që përfaqëson qumështin e një mjeljeje të plotë të mëngjesit ose darkës, të mbikëqyrur plotësisht, të kryer në jo më pak se 11 dhe në jo më shumë se 13 orë pas mjeljes së mëparshme;
 
-c)  në rast se qumështi grumbullohet nga shumë ferma, mostra mund të merret edhe vetëm në momentin e pranimit të qumështit në qendrën e përpunimit, në qendrën e grumbullimit ose standardizimit, me kusht që ndërkohë dhe  në ferma merren mostra të rastësishme. 
+c)  në rast se qumështi grumbullohet nga shumë ferma, mostra mund të merret edhe vetëm në momentin e pranimit të qumështit në qendrën e përpunimit, në qendrën e grumbullimit ose standardizimit, me kusht që ndërkohë dhe në ferma merren mostra të rastësishme. 
 
 Nëse mbi bazën e rezultateve të analizave ngrihet dyshimi për shtesë uji, merren mostra në të gjitha fermat nga të cilat është grumbulluar qumësht në këtë parti.
 
@@ -587,7 +533,7 @@ Në rastet e nevojshme, Inspektorati i Kontrollit merr mostra origjinale, sipas 
 
 3. Nëse brenda tre muajve nga shpallja e rezultateve të kontrollit, qumështi i fermës në fjalë nuk plotëson standardet, sipas pikës 1 shkronja “a” dhe kontrolleve, sipas vendimit të Këshillit të Ministrave “Normat për grumbullimin e qumështit të papërpunuar”, lidhur me përmbajtjen e mikroflorës së përgjithshme dhe qelizave somatike, në zbatim të këtij ligji, ferma përjashtohet nga dorëzimi i qumështit për një afat derisa qumështi t’u përgjigjet standardeve të mësipërme.
 
-4. Nuk lejohet për konsum njerëzor qumështi, përmbajtja e të cilit në mbetjet e antibiotikëve është në sasi të tilla që kalon nivelet e përcaktuara, për secilën nga substancat e antibiotikëve të përcaktuara në ligjin “Për ushqimin”. Sasia totale e mbetjeve të të gjitha substancave të antibiotikëve, gjithashtu, nuk lejohet të kalojë  limitin që përcaktohet në ligjin “Për ushqimin”.
+4. Nuk lejohet për konsum njerëzor qumështi, përmbajtja e të cilit në mbetjet e antibiotikëve është në sasi të tilla që kalon nivelet e përcaktuara, për secilën nga substancat e antibiotikëve të përcaktuara në ligjin “Për ushqimin”. Sasia totale e mbetjeve të të gjitha substancave të antibiotikëve, gjithashtu, nuk lejohet të kalojë limitin që përcaktohet në ligjin “Për ushqimin”.
 
 
 SHTOJCA B
@@ -598,7 +544,7 @@ KUSHTE TË PËRGJITHSHME PËR DHËNIEN E LEJES QENDRAVE TË PËRPUNIMIT
 
 Qendrat përpunuese të qumështit, që të pajisen me leje, duhet të plotësojnë kushtet si më poshtë:
 
-1. Repartet e punës të kenë hapësira të mjaftueshme, të cilat mundësojnë kryerjen e proceseve të punës në kushte higjienike të përshtatshme. Këto hapësira pune të projektohen dhe të paraqiten  në atë mënyrë që të përjashtojnë çdo ndotje të lëndës së parë dhe produkteve të përkufizuara si produkte qumështi në këtë ligj. 
+1. Repartet e punës të kenë hapësira të mjaftueshme, të cilat mundësojnë kryerjen e proceseve të punës në kushte higjienike të përshtatshme. Këto hapësira pune të projektohen dhe të paraqiten në atë mënyrë që të përjashtojnë çdo ndotje të lëndës së parë dhe produkteve të përkufizuara si produkte qumështi në këtë ligj. 
 
 Prodhimi i qumështit të trajtuar termikisht ose prodhimi i produkteve me bazë qumështi, të cilat sjellin me vete rrezikun e ndotjes për produktet e tjera të përkufizuara në këtë ligj, të kryhen në një vend të veçantë e të ndarë në mënyrë të qartë.
 
@@ -622,7 +568,7 @@ e) të ketë një numër të mjaftueshëm pajisjesh hidrosanitare, të cilat të
 
 Në qendrat e përpunimit të plotë duhet të ketë dhoma për depozitimin e lëndëve të para e produkteve me të njëjtat kushte si në pikën 2, si dhe:
 
-a)  dhoma për ruajtje në të ftohtë, ku dyshemeja të jetë me material të pastrueshëm  e  të dezinfektueshëm lehtë dhe ku uji mund të rrjedhë e të largohet lehtë;
+a)  dhoma për ruajtje në të ftohtë, ku dyshemeja të jetë me material të pastrueshëm e  të dezinfektueshëm lehtë dhe ku uji mund të rrjedhë e të largohet lehtë;
 
  b) dhoma për depozitim në ngrirje ose tejngrirje, ku dyshemeja të jetë nga material i papërshkueshëm nga uji, i pandryshkshëm dhe i pastrueshëm lehtësisht.
 
@@ -644,7 +590,7 @@ d) pajisje të përshtatshme për pastrimin e dezinfektimin e materialeve dhe mj
 
 dh) një sistem të përshtatshëm për largimin e ujërave të përdorura, që plotëson kriteret higjienike;
 
-e) një impiant furnizimi me ujë të pijshëm. Për prodhimin e avullit, për luftën kundër zjarrit dhe për ftohje lejohet vetëm me përjashtime, të përdoret ujë tjetër pa vetitë e ujit të pijshëm në rastet kur ai nuk paraqet asnjë rrezik kontaminimi  direkt ose indirekt të lëndës së parë ose produkteve. Tubat që përdoren për kalimin e  ujit që nuk zotëron vetitë e ujit të pijshëm duhet të ndryshojnë dukshëm me ato të ujit të pijshëm;
+e) një impiant furnizimi me ujë të pijshëm. Për prodhimin e avullit, për luftën kundër zjarrit dhe për ftohje lejohet vetëm me përjashtime, të përdoret ujë tjetër pa vetitë e ujit të pijshëm në rastet kur ai nuk paraqet asnjë rrezik kontaminimi direkt ose indirekt të lëndës së parë ose produkteve. Tubat që përdoren për kalimin e ujit që nuk zotëron vetitë e ujit të pijshëm duhet të ndryshojnë dukshëm me ato të ujit të pijshëm;
 
 ë) një numër të mjaftueshëm të dhomave të veshjes (garderobave) me mure e dysheme të lëmuar, të padepërtueshme dhe lehtësisht të pastrueshme, pajisje hidrosanitare, si dhe banjo me ujë të rrjedhshëm. Këto të fundit nuk lejohen të kenë daljen direkte në mjediset e punës;
 
@@ -652,7 +598,7 @@ f) një dhomë të veçantë për depozitimin e lëndëve larëse, dezinfektuesv
 
 g) një dhomë ose një dollap, i cili të jetë jashtë mjediseve të punës, për materialet e pastrimit e të mirëmbajtjes;
 
-gj) pajisje të përshtatshme për pastrimin e dezinfektimin e cisternave të përdorura për transportin e qumështit dhe të produkteve me bazë qumështi, të lëngshme ose në formë pluhuri. Nuk janë të detyrueshme këto pajisje nëse mjetet transportuese  pastrohen e dezinfektohen në impiante të njohura zyrtarisht nga organet kompetente.
+gj) pajisje të përshtatshme për pastrimin e dezinfektimin e cisternave të përdorura për transportin e qumështit dhe të produkteve me bazë qumështi, të lëngshme ose në formë pluhuri. Nuk janë të detyrueshme këto pajisje nëse mjetet transportuese pastrohen e dezinfektohen në impiante të njohura zyrtarisht nga organet kompetente.
 
 KREU II
 
@@ -662,9 +608,9 @@ E PËRPUNIMIT TË QUMËSHTIT
 
 A.  Kushtet e përgjithshme higjienike për lokalet, pajisjet dhe mjetet e punës 
 
-1. Pajisjet e mjetet e punës që përdoren për trajtimin e lëndëve të para dhe produkteve, dyshemetë, muret, tavanet duhet të mbahen të pastra  dhe në gjendje të mirë, që të shmanget çdo ndotje e lëndëve të para ose e produkteve.
+1. Pajisjet e mjetet e punës që përdoren për trajtimin e lëndëve të para dhe produkteve, dyshemetë, muret, tavanet duhet të mbahen të pastra dhe në gjendje të mirë, që të shmanget çdo ndotje e lëndëve të para ose e produkteve.
 
-2. Në mjediset e prodhimit dhe depozitimit të qumështit e produkteve të tij nuk lejohet të hyjë asnjë lloj kafshe. Brejtësit, insektet dhe dëmtues të tjerë duhet të luftohen sistematikisht. Helmi i minjve e insekteve, lëndët e mjetet dezinfektuese dhe lëndët e tjera helmuese duhet të mbahen në dhoma ose  në dollapë të mbyllur me çelës; është detyruese që ato të përdoren në atë mënyrë që të përjashtohet çdo mundësi e ndotjes së qumështit dhe prodhimeve.
+2. Në mjediset e prodhimit dhe depozitimit të qumështit e produkteve të tij nuk lejohet të hyjë asnjë lloj kafshe. Brejtësit, insektet dhe dëmtues të tjerë duhet të luftohen sistematikisht. Helmi i minjve e insekteve, lëndët e mjetet dezinfektuese dhe lëndët e tjera helmuese duhet të mbahen në dhoma ose në dollapë të mbyllur me çelës; është detyruese që ato të përdoren në atë mënyrë që të përjashtohet çdo mundësi e ndotjes së qumështit dhe prodhimeve.
 
 3. Për të gjitha proceset e punës është e detyrueshme të përdoret uji i pijshëm.  Ndërsa për ftohjen e impianteve, për prodhimin e avullit ose për luftën kundër zjarrit mund të lejohet ujë jo i pijshëm, nëse tubacionet e vendosura për këtë qëllim nuk lejojnë një përdorim tjetër të këtij uji dhe përjashtojnë rrezikun e ndotjes së produkteve dhe lëndës së parë.
 
@@ -676,11 +622,11 @@ Në përfundim të dezinfektimit objektet e punës e pajisjet të shpëlahen shu
 
 B. Kushtet e përgjithshme higjienike për personelin
 
-1. Nga personeli kërkohet pastërti maksimale. Kjo të zbatohet në mënyrë të veçantë nga persona që manipulojnë lëndët e para dhe produktet që përkufizohen sipas këtij ligji, të papaketuara,  të ekspozuara ndaj ndotjes. 
+1. Nga personeli kërkohet pastërti maksimale. Kjo të zbatohet në mënyrë të veçantë nga persona që manipulojnë lëndët e para dhe produktet që përkufizohen sipas këtij ligji, të papaketuara, të ekspozuara ndaj ndotjes. 
 
 Veçanërisht:
 
-personeli të përdorë veshje të përshtatshme e të pastra, flokët  të mbahen komplet të mbuluar me një mbulesë të pastër;
+personeli të përdorë veshje të përshtatshme e të pastra, flokët të mbahen komplet të mbuluar me një mbulesë të pastër;
 
 personat që merren me trajtimin e lëndëve të para e produkteve që përkufizohen sipas këtij ligji, t’i lajnë duart të paktën para çdo rifillimi pune, si dhe në çdo rast ndotjeje; 
 
@@ -692,7 +638,7 @@ plagosjet e lëkurës të mbulohen me një lidhëse të papërshkueshme nga uji;
 
 Të gjithë personat që trajtojnë produktet e përkufizuara nga ky ligj, të pajisen me certifikatë mjekësore, që të provojnë se nga ana mjekësore nuk kanë pengesa për të punuar në këtë sektor. Vrojtimi mjekësor i tyre bëhet sipas dispozitave të legjislacionit në fuqi. 
 
-KREU  III
+KREU III
 
 KUSHTE TË VEÇANTA PËR PAJISJEN ME LEJE 
 
@@ -704,7 +650,7 @@ a) mjete ose mënyra ftohëse të përshtatshme për ftohjen e qumështit dhe, k
 
 b) mjete ose mënyra filtruese të përshtatshme për pastrimin fizik të qumështit ose centrifugë, nëse ky proces parashikohet të kryhet në qendrën e grumbullimit.
 
-KREU  IV
+KREU IV
 
 KUSHTE TË VEÇANTA PËR PAJISJEN ME LEJE TË QENDRAVE TË STANDARDIZIMIT
 
@@ -714,7 +660,7 @@ a) enë, cisterna për depozitimin në mjedis të ftohtë të qumështit të pap
 
 b) centrifuga ose pajisje të tjera filtruese të përshtatshme për pastrimin fizik të qumështit.
 
-KREU  V
+KREU V
 
 KUSHTE TË VEÇANTA PËR PAJISJEN ME LEJE TË QENDRAVE PËRPUNUESE
 
@@ -724,7 +670,7 @@ a) një pajisje për mbushjen e mbylljen automatike të shisheve ose ambalazheve
 
 Në rastet e prodhimit në sasi të kufizuar të qumështit të destinuar për konsum, mund të lejohen dhe metoda ose mënyra të tjera alternative për mbushjen dhe mbylljen e ambalazheve për sa kohë ato garantojnë të njëjtën siguri nga pikëpamja e higjienës;
 
-b) pajisje për ftohjen dhe depozitimin e ftohtë të qumështit të trajtuar termikisht të produkteve të lëngëta me bazë qumështi, si dhe  në rastet e parashikuara në krerët III e IV të kësaj Shtojce, të qumështit të papërpunuar, kur këto procese kryhen në fabrikë. Cisternat e depozitimit duhet të jenë të pajisura me termometër për matjen ekzakte të temperaturës;
+b) pajisje për ftohjen dhe depozitimin e ftohtë të qumështit të trajtuar termikisht të produkteve të lëngëta me bazë qumështi, si dhe në rastet e parashikuara në krerët III e IV të kësaj Shtojce, të qumështit të papërpunuar, kur këto procese kryhen në fabrikë. Cisternat e depozitimit duhet të jenë të pajisura me termometër për matjen ekzakte të temperaturës;
 
 c) në rastin e ambalazhimit me ambalazh që përdoret vetëm një herë, një vend të përshtatshëm për mbajtjen e këtij ambalazhi.
 
@@ -794,7 +740,7 @@ b) materialet e ambalazhimit që sillen në qendrën përpunuese, magazinohen hi
 
 c)dhomat e depozitimit të materialeve të paketimit e ambalazhimit të jenë të mbrojtura nga pluhuri dhe parazitët dhe të jenë, gjithashtu, të ndara nga dhomat ku gjenden lëndë që mund të ndotin qumështin ose produktet. Këto materiale nuk lejohet të vendosen direkt në dysheme;
 
-ç)përgatitja e ambalazheve kryhet duke respektuar rregullat higjienike para dërgimit në fabrikë. Mund të tolerohet nga ky kusht nëse ambalazhi konfeksionohet (vishet) automatikisht dhe nëse përjashtohet çdo rrezik i kontaminimit të produkteve;
+ç) përgatitja e ambalazheve kryhet duke respektuar rregullat higjienike para dërgimit në fabrikë. Mund të tolerohet nga ky kusht nëse ambalazhi konfeksionohet (vishet) automatikisht dhe nëse përjashtohet çdo rrezik i kontaminimit të produkteve;
 
 d) ambalazhet dërgohen në lokalet e ambalazhimit, duke respektuar rregullat e higjienës dhe të përdoren menjëherë pasi hyjnë në to. Ato nuk duhet të përdoren nga punëtorë që janë caktuar në punë me produkte të paambalazhuara;
 
@@ -812,9 +758,9 @@ a) Vula e prodhuesit duhet të përmbajë në një fushë ovale të dhënat e m�
 
 a1) në pjesën e sipërme, me shkronja të mëdha, simbolet AL; 
 
-a2) në mes, me shkronja të mëdha,  numrin e licencës së fabrikës; 
+a2) në mes, me shkronja të mëdha, numrin e licencës së fabrikës; 
 
-a3) në pjesën e poshtme emrin e firmës prodhuese  dhe qytetin.
+a3) në pjesën e poshtme emrin e firmës prodhuese dhe qytetin.
 
 b)  Vula e prodhuesit mund të vendoset me stampë me bojë ose me të djegur mbi produkt, mbi veshjen, mbi ambalazhin ose mbi etiketë.
 
