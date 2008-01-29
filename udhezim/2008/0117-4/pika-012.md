@@ -1,0 +1,1 @@
+12. Deget e Thesarit, lejojne kryerjen e pageses per paga ne muajin pasardhes kur vertetohet shlyerja e detyrimeve te kontributit per sigurime shoqerore e shendetesore, ne perputhje me afatet ligjore.

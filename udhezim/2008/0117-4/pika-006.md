@@ -1,0 +1,1 @@
+6. Numri i punonjesve per institucionet e pavarura nga Qeveria caktohet ne ligjin vjetor te buxhetit (tabela 1/1), ndersa per institucionet e tjera caktohet me Vendim te Keshillit te Ministrave, brenda numrit total te punonjesve te miratuar ne ligjin nr.9836, datë 26.11.2007 ”Per buxhetin e shtetit te vitit 2008”.

@@ -1,0 +1,1 @@
+1. Buxheti i Shtetit fillon me 01 Janar dhe mbaron me 31 Dhjetor te cdo viti. Ai detajohet ne nivel vjetor dhe mujor dhe depozitohet per zbatim ne Ministrine e Financave. Buxheti i shtetit perbehet nga fondi i konsoliduar (buxheti qendror dhe lokal), buxheti i sigurimeve shoqerore dhe buxheti i sigurimeve shendetesore.

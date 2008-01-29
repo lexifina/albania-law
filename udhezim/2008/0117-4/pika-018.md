@@ -1,0 +1,1 @@
+18. Strukturat buxhetore te klasifikimit funksional te shpenzimeve do te celen ne sistem nga Drejtoria e Pergjithshme e Buxhetit. Strukturat buxhetore te klasifikimit ekonomik te shpenzimeve do te celen ne nivel tre-shifror nga Drejtoria e Pergjithshme e Buxhetit dhe ne nivel te detajuar nga Drejtoria e Kontabilitetit.

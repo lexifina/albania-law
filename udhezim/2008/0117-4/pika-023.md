@@ -1,0 +1,3 @@
+23. Per qellimet e rakordimit te informacionit me sistemin AMoFTS deget e thesarit, pas depozitimit te celjeve buxhetore nga Drejtoria e Pergjithshme e Buxhetit dhe Drejtoria e Pergjithshme e Thesarit, procedojne me rregjistrimin:
+- Ne librat e shpenzimeve, te planit vjetor te buxhetit per cdo institucion buxhetor, sipas struktures buxhetore te miratuar, i cili perben planin e miratuar me ligj dhe kufirin maksimal per tu shpenzuar sipas zerave.
+- Ne librin e limitit mujor te institucioneve te kufirit maksimal mujor te lejuar per kryerjen e shpenzimeve sipas zerave agregate te derguar nga Drejtoria e Pergjithshme e Thesarit.

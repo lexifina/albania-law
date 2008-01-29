@@ -1,0 +1,1 @@
+15. Celja e Furnitoreve (e Klienteve) ne sistemin AMoFTS do te behet nga Drejtoria e Pergjithshme e Thesarit ne baze te konfirmimit nga Drejtoria e Pergjithshme e Tatimeve, e cila duhet te azhornoje listen e MoF per cdo celje te re te furnitoreve.

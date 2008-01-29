@@ -1,0 +1,1 @@
+13. Gjate detajimit te planit te buxhetit, ministrite/institucionet qendrore me pare alokojne fonde per te paguar detyrimet e prapambetura te viteve te kaluara per te gjitha llojet e shpenzimeve (korrente/kapitale) te Fondit te Konsoliduar dhe te Fondeve speciale.

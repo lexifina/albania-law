@@ -1,0 +1,1 @@
+14. Ministrite/institucionet qendrore me prioritet urdherojne pagesat per sherbimet e furnizimit me energji elektrike dhe uje. Lidhur me shlyerjen e detyrimeve korente dhe te prapambetura ndaj KESH sh.a dhe Ndermarrjeve te Ujesjellesave do te zbatohen udhezimet e perbashketa te Ministrit te Financave dhe Ministrit te Ekonomise,Tregtise dhe Energjetikes.
