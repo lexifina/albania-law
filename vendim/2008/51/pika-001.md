@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion të sipërfaqes deri 1000 ha, pronë shtetërore, në komunat Synej, Luz i Vogël, Kryevidh dhe Gosë, Kavajë, në kuadër të nismës “Shqipëria 1 euro”, për kultivimin e ullirit, është Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
