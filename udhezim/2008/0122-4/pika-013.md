@@ -1,0 +1,1 @@
+13. Kërkesat e institucioneve të arsimit të lartë për hapjen dhe mbylljen e programeve të studimeve “Master i Nivelit të Parë“ (MNP) dhe “Master i Nivelit të Dytë“ (MND), duhet të paraqiten në MASH brenda datës 15 mars të çdo viti.

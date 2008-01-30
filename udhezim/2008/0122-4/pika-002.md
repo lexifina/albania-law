@@ -1,0 +1,2 @@
+2. Programet e studimit “Master” realizohen nëpërmjet aktiviteteve të ndryshme formuese në auditor, trajnimit, praktikës apo stazhit, në përputhje me objektivat e programit, si dhe studimit e përgatitjes individuale të studentëve. Numri minimal i krediteve për këto programe studimi nuk mund të jetë më i vogël se 60 kredite apo 1500 orë punë të studentit, të shpërndara në jo më pak se një vit akademik.
+a) Programet e studimit Master mund të zhvillohen dhe me kohë të pjesshme dhe në këtë rast ato shtrihen në dy vite akademike.

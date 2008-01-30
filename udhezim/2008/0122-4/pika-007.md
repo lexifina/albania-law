@@ -1,0 +1,1 @@
+7. Për programet e studimit “Master” në fushat e mjekësisë duhet të paraqitet dhe marrëveshja me strukturat spitalore publike apo private, ku do të zhvillohen aktivitete formuese klinike, diagnostikuese dhe të njohjes së teknikave e instrumenteve specifike, të parashikuara në program.

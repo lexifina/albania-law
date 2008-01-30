@@ -1,0 +1,1 @@
+14. Programet e studimit “Master” vetëfinancohen me tarifat e shkollimit të studentëve të regjistruar në këto programe. Sidoqoftë ato mund të shfrytëzojnë dhe financime nga subjekte bashkëpunuese për programin, si dhe burime të siguruara nga njësia/njësitë kryesore propozuese apo institucioni.

@@ -1,0 +1,1 @@
+3. Frekuentimi nga studentët i aktiviteteve të ndryshme formuese është i detyrueshëm. Në çdo rast, për marrjen e titullit të studimit, frekuentimi duhet të jetë të paktën në masën 80% të aktiviteteve mësimore në auditor.

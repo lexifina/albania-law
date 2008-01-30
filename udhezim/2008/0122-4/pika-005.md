@@ -1,0 +1,1 @@
+5. Në programet e studimit “Master” pranohen vetëm ata persona të cilët plotësojnë kriteret akademike të përcaktura nga institucioni, bazuar në ligjin për arsimn e lartë, i ndryshuar, dhe aktet e tjera nënligjore në fuqi. Kriteret përzgjedhëse bëhen publike.

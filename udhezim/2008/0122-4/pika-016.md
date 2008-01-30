@@ -1,0 +1,1 @@
+16. Rezultatet dhe niveli cilësor i aktiviteteve formuese të zhvilluara në programet e studimit “Master” vlerësohen çdo vit, në përfundim të tij, sipas modaliteteve të përcaktuara nga njësitë e sigurimit të brendshëm të cilësisë. Ky vlerësim shërben si bazë për vazhdimësinë e programit të studimit në vitin e ardhshëm.
