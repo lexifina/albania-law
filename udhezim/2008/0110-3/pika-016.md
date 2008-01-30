@@ -1,0 +1,1 @@
+16. Çdo kandidat që merr pjesë në kualifikimin 2008 përgatit dhe dorëzon në DAR/ZA portofolin e zhvillimit të tij profesional, i cili shqyrtohet nga IKT për efekt vlerësimi përfundimtar të kandidatit.

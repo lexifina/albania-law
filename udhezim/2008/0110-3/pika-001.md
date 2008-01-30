@@ -1,0 +1,1 @@
+1. Në të gjitha drejtoritë arsimore rajonale të zhvillohen provimet me shkrim më datën 29.3.2008 për shkallët e kualifikimit për punonjësit që plotësojnë vjetërsinë në sistemin arsimor parauniversitar, për vitin mësimor 2007-2008.

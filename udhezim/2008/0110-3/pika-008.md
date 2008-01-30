@@ -1,0 +1,1 @@
+8. Provimet të realizohen mbi bazën e programeve të kualifikimit, të përgatitura nga Instituti i Kurrikulës dhe Trajnimit (IKT), për të gjitha fushat e përcaktuara në këtë udhëzim. Programet t’u vihen në shërbim kandidatëve brenda periudhës 25 janar deri në 5 shkrut 2008.
