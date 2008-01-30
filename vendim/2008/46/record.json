@@ -1,0 +1,28 @@
+{
+  "qbz_id": 6128,
+  "title": "Për transferimin në pronësi të bashkisë Sarandë, të pronës, e cila është në përgjegjësi administrimi të Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror, dhe disa ndryshime në vendimin nr.60, datë 1.2.2006 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave shtetërore, të cilat i kalojnë në përgjegjësi administrimi Shërbimit Social Shtetëror",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "46",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-01-16",
+  "published": "2008-01-30",
+  "in_force": "2008-01-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/95cdce558621d76cec02432bcda37d2f17143a04730e1d5646407cc608fddd76.docx",
+  "source_sha256": "95cdce558621d76cec02432bcda37d2f17143a04730e1d5646407cc608fddd76",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6128",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/01/16/46",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    68591
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
