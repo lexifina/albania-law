@@ -1,0 +1,1 @@
+3. Udhëzimi i Ministrit të Arsimit nr.16, datë 3.10.1991 “Mbi vjetërsinë në arsim për efekt atestimi për të fituar shkallët e kualifikimit në arsimin parauniversitar për punonjësit që kanë vjetërsinë e duhur në arsim” dhe udhëzimet e tjera për vjetërsinë e punës në arsim, që bien në kundërshtim me këtë udhëzim, shfuqizohen.
