@@ -1,0 +1,28 @@
+{
+  "qbz_id": 6118,
+  "title": "Për dhënien e licencës për aktivitetin e furnizimit të energjisë elektrike shoqërisë “OSSH” sha",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "9",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-01-25",
+  "published": "2008-01-30",
+  "in_force": "2008-01-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/821f59a7dfacee22eec06fbf4f168d523265d15a03ac51ce375637b437d8355e.docx",
+  "source_sha256": "821f59a7dfacee22eec06fbf4f168d523265d15a03ac51ce375637b437d8355e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6118",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/01/25/9",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    6749
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
