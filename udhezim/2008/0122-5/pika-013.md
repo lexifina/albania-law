@@ -1,0 +1,1 @@
+13. Studentët që zotërojnë tituj shkollimi pas ciklit të dytë të studimeve p.sh. “Master i Nivelit të Dytë“ etj. apo në kërkim, mund të kërkojnë pas pranimit në programin e studimit të doktoratës të kalojnë në vitin e dytë të saj ose t’u njihen dhe vlerësohen titujt e shkollimit që zotërojnë.

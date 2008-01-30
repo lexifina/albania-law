@@ -1,0 +1,1 @@
+14. Nisma propozuese për hapjen, mbylljen apo riorganizimin e programeve të studimeve të doktoratës bëhet nga njësitë bazë apo grupe mësimore-kërkimore të tyre, pas verifikimit të burimeve të përshtatshme njerëzore, infrastrukturore dhe financiare. Propozimi i bërë miratohet nga këshilli i profesorëve të njësisë kryesore përkatëse dhe Senati Akademik.

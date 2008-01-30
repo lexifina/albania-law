@@ -1,0 +1,1 @@
+17. Kërkesat e universiteteve për hapjen, mbylljen dhe riorganizimin e programeve të studimeve të doktoratës duhet të paraqiten në MASH brenda datës 31 janar të çdo viti. Për vitin akademik në vazhdim kërkesat mund të bëhen deri në 31 mars 2008.

@@ -1,0 +1,1 @@
+1. Programet e studimit të doktoratës, përcaktuar në pikën 1.3.1 të nenit 26 të ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, i ndryshuar, përbëjnë nivelin e tretë të formimit universitar, në përfundim të të cilit jepet diploma për gradën shkencore “Doktor”.

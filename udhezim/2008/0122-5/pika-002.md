@@ -1,0 +1,1 @@
+2. Programet e studimit të doktoratës zhvillohen në universitete, akademi apo qendra ndëruniversitare (më poshtë do të përdoret vetëm termi universitete), sipas listës së përcaktuar në pikën 1.3 të vendimit të Këshillit të Ministrave nr.467, datë 18.7.2007 “Për përcaktimin e kritereve dhe të procedurave për kualifikimin shkencor e pedagogjik të personelit akademik”.

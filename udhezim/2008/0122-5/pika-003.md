@@ -1,0 +1,1 @@
+3. Programet e studimit të doktoratës organizohen si rregull brenda një projekti të madh kërkimor-didaktik e kulturor dhe realizohen në koordinim me zhvillimin e dokumentuar të aktiviteteve të kërkimit të njësisë apo institucionit përkatës.

@@ -1,0 +1,1 @@
+5. Objektivat formues të programeve të studimit të doktoratës duhet të jenë të gjera, të motivuara dhe të lidhura me orientimet shkencore në fushën e zgjedhur apo në fushat e zgjedhura në rastin e doktoratave dy a më shumë disiplinore.

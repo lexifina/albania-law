@@ -1,0 +1,1 @@
+9. Përgjegjësia për organizimin dhe drejtimin e programeve të studimit të doktoratës, sipas pikës 1 të nenit 19 të ligjit për arsimin e lartë, i ndryshuar, është e këshillit të profesorëve të njësisë kryesore përgjegjëse ku zhvillohen këto programe studimi.

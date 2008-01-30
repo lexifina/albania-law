@@ -1,0 +1,1 @@
+7. Programet e studimit të doktoratës përfshijnë kërkim shkencor dhe veprimtari krijuese të pavarur, si bazë për përpunimin e tezës së doktoratës, rezultatet dhe mbrojtja e suksesshme e së cilës çojnë në fitimin e titullit “Doktor”.
