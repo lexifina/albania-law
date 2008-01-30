@@ -1,0 +1,1 @@
+4. Kalimin në përgjegjësi administrimi të Ministrisë së Drejtësisë të ndërtesës, ku aktualisht ndodhet dispeçeria qendrore, e cila është në administrim të OST sh.a.-së, sipas planvendosjes dhe planimetrisë, të paraqitura në shtojcën 2, që i bashkëlidhet këtij vendimi, për t’u vënë në dispozicion të Gjykatës së Rrethit Gjyqësor, Tiranë.

@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës së ndërtesës dhe të mjediseve të ish-Institutit të Mjedisit, sipas planvendosjes dhe planimetrisë, të paraqitura në shtojcën 1, që i bashkëlidhet këtij vendimi, për t’u përdorur nga Korporata Elektroenergjetike Shqiptare sh.a., për nevojat e saj.
