@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6142,
+  "title": "Për zgjedhjen e një anëtari të Këshillit Mbikëqyrës të Bankës së Shqipërisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "155",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-02-04",
+  "published": "2008-02-13",
+  "in_force": "2008-02-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7c84cda1eff6f888fba016e494a86aa246035a109c932f5f7dcae47c43260de3.docx",
+  "source_sha256": "7c84cda1eff6f888fba016e494a86aa246035a109c932f5f7dcae47c43260de3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6142",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/02/04/155",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
