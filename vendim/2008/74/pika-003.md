@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, pronë private, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën, që i bashkëlidhet këtij vendimi, për sipërfaqen 1600 m2, tokë/arë, e vlerësuar me 320 lekë/m2, me vlerë shpronësimi 512 000 (pesëqind e dymbëdhjetë mijë) lekë.

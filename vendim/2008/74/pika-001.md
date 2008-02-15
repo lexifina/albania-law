@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i pusit të ujit nr.3, Vrion dhe i lidhjes me tubacionin e ujësjellësit të Navaricës.

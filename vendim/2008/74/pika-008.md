@@ -1,0 +1,1 @@
+8. Pronarët e përcaktuar në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Në proces regjistrimi”, të kompensohen, për efekt shpronësimi, pasi të ketë përfunduar procesi i regjistrimit dhe pasi të paraqesin dokumentacionin e plotë të pronësisë, pranë bashkisë Sarandë.
