@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6150,
+  "title": "Për disa ndryshime në vendimin nr.561, datë 22.8.2007 të Këshillit të Ministrave “Për bashkimin e disa instituteve dhe njësive kërkimore, organizimin e tyre në Institutin e Gjeoshkencave, pranë Universitetit Politeknik të Tiranës, dhe funksionimin e Institutit në periudhën kalimtare”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "63",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-01-28",
+  "published": "2008-02-15",
+  "in_force": "2008-02-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/70aeafb462b1576c78b21dce74d5513f831b3ab48734778c231f00e612f6fa27.docx",
+  "source_sha256": "70aeafb462b1576c78b21dce74d5513f831b3ab48734778c231f00e612f6fa27",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6150",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/01/28/63",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
