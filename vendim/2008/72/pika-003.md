@@ -1,0 +1,1 @@
+3. Parcelat pyjore dhe parcelat tokë-arë, të përcaktuara në pikat 1 e 2 të këtij vendimi, t’i shtohen listës së inventarit të pronave të paluajtshme shtetërore të Ministrisë së Brendshme, që i bashkëlidhet vendimit nr.250, datë 24.4.2003 të Këshillit të Ministrave.

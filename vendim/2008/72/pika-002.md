@@ -1,0 +1,1 @@
+2. Parcelave tokë-arë me nr.1 [(1184, 1440, 15, 1250, 1252/1, 1252/2, (1 400 m2)] dhe nr.206 (1 400 m2), të paraqitura në tabelën, që i bashkëlidhet këtij vendimi, t’u ndryshojë përgjegjësia e administrimit nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit te Ministria e Brendshme, për t’u përdorur për ndërtimin e pikave të reja të kalimit kufitar.

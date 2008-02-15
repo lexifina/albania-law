@@ -1,0 +1,1 @@
+1. Parcelave pyjore, me nr.40/a (1 500 m2), 87/c (1 300 m2), 7 (1 300 m2), 13 (1 400 m2) e 14/1 (950 m2) të paraqitura në tabelën, që i bashkëlidhet këtij vendimi, t’u ndryshojë përgjegjësia e administrimit nga Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave te Ministria e Brendshme, për t’u përdorur për ndërtimin e pikave të reja të kalimit kufitar.
