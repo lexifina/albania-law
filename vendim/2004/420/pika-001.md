@@ -1,1 +1,0 @@
-1. Forma e përzgjedhjes së investitorëve strategjikë, të interesuar për blerjen e aksioneve të “Armo” sh.a., Fier, të jetë tender i hapur ndërkombëtar, me dy faza. Faza e parë të jetë “Shprehja e interesit”.

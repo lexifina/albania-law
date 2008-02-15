@@ -1,1 +1,0 @@
-5. Pas analizës së “Shprehjes së interesit” dhe pas verifikimit për përmbushjen e kërkesave të mësipërme prej investitorëve të interesuar, shoqëria këshilluese t’i paraqesë, për miratim, Komitetit të Konsulencës dhe të Transparencës listën e investitorëve, të cilëve do t’u dërgohet ftesa për tender.
