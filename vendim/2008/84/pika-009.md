@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, për të cilët është bërë shënimi “Proces regjistrimi dhe konfirmimi”, pasi të jetë dhënë konfirmimi përfundimtar nga zyra e regjistrimit të pasurive të paluajtshme, Kukës, dhe t’i jetë vënë në dispozicion dokumentacioni i plotë i pronësisë nga pronarët respektivë.
