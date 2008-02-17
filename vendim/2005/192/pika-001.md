@@ -1,1 +1,0 @@
-1. Agjent, në kuptim të nenit 77 të ligjit nr.9267, datë 29.7.2004, është personi fizik i licencuar nga Autoriteti Mbikëqyrës i Sigurimeve dhe i autorizuar nga shoqëria e sigurimit për të kryer veprimtari ndërmjetësimi në sigurime, në emër dhe për llogari të shoqërisë së sigurimit.

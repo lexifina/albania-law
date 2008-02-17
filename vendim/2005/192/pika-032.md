@@ -1,1 +1,0 @@
-32. Agjentët e licencuar përpara hyrjes në fuqi të këtij vendimi, brenda datës 31 korrik 2005, detyrohen të regjistrohen pranë organeve tatimore si persona fizikë ose juridikë dhe të paraqesin në Autoritetin Mbikëqyrës të Sigurimeve vërtetimin për depozitën bankare.

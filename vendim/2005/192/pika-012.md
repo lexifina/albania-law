@@ -1,1 +1,0 @@
-12. Për pajisjen me licencë, agjenti paguan, për llogari të Autoritetit Mbikëqyrës të Sigurimeve, një komision. Vlera e këtij komisioni dhe e komisioneve për dhënie dhe rinovim licencash, për autorizime dhe miratime përcaktohet me vendim të Këshillit të Ministrave. Komisioni paguhet në çastin e tërheqjes së licencës dhe sa herë që ajo rinovohet.

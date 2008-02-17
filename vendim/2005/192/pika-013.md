@@ -1,1 +1,0 @@
-13. Licenca për ushtrimin e veprimtarisë së agjentit në sigurime rinovohet çdo 3 vjet, në bazë të kërkesës me shkrim të agjentit, nëse nuk ka ndryshime të kritereve të besueshmërisë dhe atyre profesionale, të përcaktuara në këtë vendim.

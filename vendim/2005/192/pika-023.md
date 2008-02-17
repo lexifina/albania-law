@@ -1,1 +1,0 @@
-23. Agjenti në sigurime detyrohet të mbajë evidenca për furnizimin me polica sigurimi nga dega e shoqërisë së sigurimit, të ndara sipas klasave të sigurimit, kategorive dhe numrave të serive përkatëse.

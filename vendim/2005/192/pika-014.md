@@ -1,1 +1,0 @@
-14. Aplikantët, të cilët kërkojnë të licencohen për të ushtruar veprimtarinë e agjentit në sigurime, paraqesin kërkesë me shkrim pranë Autoritetit Mbikëqyrës të Sigurimeve, së bashku me dokumentacionin e kërkuar sipas ligjit nr.9267, datë 29.7.2004 dhe këtij vendimi.

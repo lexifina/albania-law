@@ -1,1 +1,0 @@
-22. Shoqëria e sigurimit mban regjistër të agjentëve, me të cilët ka lidhur kontratë për kryerjen e shërbimit të agjentit dhe, nëse ka ndryshime, njofton Autoritetin Mbikëqyrës të Sigurimeve, brenda 15 ditëve.

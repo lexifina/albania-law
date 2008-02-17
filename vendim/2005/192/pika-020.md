@@ -1,1 +1,0 @@
-20. Agjenti duhet të ketë të instaluar sistemin e informatizimit (on-line) për raportimin e të dhënave Autoritetit Mbikëqyrës të Sigurimeve dhe shoqërisë së sigurimit, për llogari të së cilës ai punon.

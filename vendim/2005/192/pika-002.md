@@ -1,1 +1,0 @@
-2. Shoqëria e agjentëve themelohet nga persona fizikë ose juridikë, vendas apo të huaj, si shoqëri anonime, në përputhje me ligjin për shoqëritë tregtare, dhe veprimtaria e ndërmjetësimit ushtrohet në emër të shoqërisë nga agjentë të licencuar nga Autoriteti Mbikëqyrës i Sigurimeve.
