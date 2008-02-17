@@ -1,0 +1,1 @@
+2. Njësitë e Forcave të Armatosura, gjatë angazhimeve në operacione e stërvitje të ndryshme, brenda dhe jashtë vendit, përveç racionit bazë të ushqimit, të trajtohen me racion shtesë, me 500 kalori, sipas lidhjes nr.2, që і bashkëlidhet këtij vendimi.
