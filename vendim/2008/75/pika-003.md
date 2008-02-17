@@ -1,0 +1,1 @@
+3. Publikimi i procedurave të privatizimit, sipas urdhrit të sipërpërmendur, për transferimin e 16,6 për qind të paketës së aksioneve për punonjësit e ish-shoqërisë “Prodhim asbesti”, sh.a. Vlorë, anulohet.

@@ -1,0 +1,1 @@
+1. Rezultatet e llogaritjes së paketës së aksioneve për punonjësit e ish-shoqërisë “Prodhim asbesti”, sh.a., Vlorë, të shërbejnë vetëm për efekt të listës emërore, me vlerat përkatëse, të investuara nga secili aksionar, për t’u përfshirë në “Paketa e aksioneve për publikun”, në shoqëritë anonime, të përcaktuara nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës.

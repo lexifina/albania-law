@@ -1,0 +1,1 @@
+2. Pika 1.2 e urdhrit nr.314, datë 31.8.1998 të Ministrit të Ekonomisë dhe Privatizimit “Për fillimin e procedurave të privatizimit me ankand të paketave shtetërore të aksioneve të shoqërive tregtare, që veprojnë në sektorët jostrategjikë“, shfuqizohet.
