@@ -1,0 +1,1 @@
+1. Autoriteti i Mbikëqyrjes Financiare licencon dhe mbikëqyr veprimtarinë e ndërmjetësimit në sigurime për agjentë, shoqëri agjentësh, brokera dhe shoqëri brokerimi, në përputhje me rregullat e përcaktuara në këtë vendim.
