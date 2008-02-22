@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 1 (një) fletë e që përfundon me numrin rendor 27 (njëzet e shtatë) dhe lidhja nr. 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
