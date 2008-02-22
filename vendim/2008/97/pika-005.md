@@ -1,0 +1,1 @@
+5. Për efekt privatizimi, sipas këtij vendimi, banesa të kategorisë së parë vlerësohen banesat, që ndodhen në rrugë kryesore. Ndarja sipas kategorive bëhet nga strukturat e përmendura në pikën 3 të këtij vendimi.

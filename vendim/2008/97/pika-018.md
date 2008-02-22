@@ -1,0 +1,1 @@
+18. Shumat e arkëtuara nga privatizimi i truallit dhe i banesës depozitohen në Buxhetin e Shtetit, në “Fondin e kompensimit”, të parashikuar në ligjin nr.9235, datë 27.7.2004 “Për kthimin dhe kompensimin e pronës”, të ndryshuar, për t’u përdorur për shlyerjen e pronarëve të trojeve.

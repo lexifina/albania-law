@@ -1,0 +1,1 @@
+15. Me regjistrimin në ZVRPP personi fiton të drejtën e pronësisë mbi apartamentin. Në rastin kur tarifa e privatizimit shlyhet me këste, regjistrimi i pronësisë në ZVRPP bëhet duke e ngarkuar pronën me barrë hipotekore, deri në shlyerjen e plotë të detyrimit.

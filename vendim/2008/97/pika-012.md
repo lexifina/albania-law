@@ -1,0 +1,1 @@
+12. Formulari nënshkruhet nga personat e përcaktuar në pikat 1 e 2 dhe nga drejtuesi i strukturës përgjegjëse, të përmendur në pikën 3 të këtij vendimi, dhe mbahet në dy kopje, njëra nga personi dhe tjetra futet në dosjen e privatizimit.

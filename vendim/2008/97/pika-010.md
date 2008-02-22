@@ -1,0 +1,1 @@
+10. Tarifa e privatizimit të banesës mund të shlyhet në mënyrë të menjëhershme ose me këste, sipas kërkesës, që bën personi, sipas pikave 1 e 2 të këtij vendimi. Tarifa e privatizimit të truallit të paguhet në mënyrë të menjëhershme.
