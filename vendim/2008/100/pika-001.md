@@ -1,0 +1,1 @@
+1. Përcaktimin e substancave të rrezikshme, të cilat, në përqendrime specifike, në një mjedis të caktuar, për vetitë e tyre fiziko-kimike, toksikologjike dhe ekotoksikologjike, përbëjnë burim rreziku për shëndetin, jetën e punëmarrësve dhe për mjedisin e komponentët e tij, sipas listës, që i bashkëlidhet këtij vendimi.

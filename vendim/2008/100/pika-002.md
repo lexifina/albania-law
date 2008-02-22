@@ -1,0 +1,1 @@
+2. Personat fizikë ose juridikë, prodhues, përdorues. importues dhe/ose transportues të substancave të rrezikshme janë të detyruar të respektojnë format, standardet dhe procedurat përkatëse, sipas 1egjislacionit në fuqi.
