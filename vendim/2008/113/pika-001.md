@@ -1,0 +1,1 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin territorial dhe administrativ të njësisë së qeverisjes vendore, komuna Golaj të qarkut të Kukësit, që do t’i transferohen në përdorim kësaj njësie.
