@@ -1,0 +1,1 @@
+6. Vendimi nr.268, datë 28.4.2005 i Këshillit të Ministrave “Për përcaktimin e kufijve maksimalë të lejueshëm për aktivet dhe investimet e aktiveve, për mbulimin e provigjoneve teknike dhe matematike, nga shoqëritë e sigurimeve”, shfuqizohet.

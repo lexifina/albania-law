@@ -1,0 +1,2 @@
+5. Ngarkohen shoqëritë e sigurimit, të cilat janë licencuar përpara hyrjes në fuqi të këtij vendimi, që, brenda datës 31.3.2008, të përshtasin aktivet, në mbulim të provigjoneve teknike e matematike, dhe kufijtë e investimit të tyre.
+Për përshtatjen e aktiveve sipas shkronjës “b” të këtij vendimi, zbatohet vetëm për periudhën nga hyrja në fuqi e vendimit deri më 30.6.2006, kufiri i sipërm, në masën 30 për qind të provigjoneve teknike bruto.
