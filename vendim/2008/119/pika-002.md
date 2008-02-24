@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 2 (dy) fletë e që përfundon me numrin rendor 64 (gjashtëdhjetë e katër) dhe lidhja nr. 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
