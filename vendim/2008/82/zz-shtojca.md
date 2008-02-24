@@ -15,7 +15,7 @@ Në këto instruksione:
 “Ministria” do të thotë Ministria e Ekonomisë, Tregtisë dhe Energjetikës e Republikës së Shqipërisë.
 “Ofertë” ose “Ofertat” do të thotë oferta ose ofertat e paraqitura nga kandidatët për blerjen e aksioneve të shoqërisë “Armo”.
 “Ofertë e përputhur” do të thotë një ofertë që përputhet me të gjithë termat, kushtet, kriteret dhe specifikimet e dokumenteve të tenderit.
-“Aksione” do të thotë 4 790 437 (katër milionë e shtatëqind e nëntëdhjetë mijë e katërqind e tridhjetë e shtatë) aksione nominative të “Armos”, me një vlerë nominale prej 1000 lekë secila, plotësisht të paguara, që i korrespondojnë 76 për qind të kapitalit të “Armos”, të cilat u janë ofruar kandidatëve, në përputhje me vendimin e Këshillit të Ministrave nr.150, datë 18.3.2005.
+“Aksione” do të thotë 5 357 725 (pesë milionë e treqind e pesëdhjetë e shtatë mijë e shtatëqind e njëzet e pesë) aksione nominative të ARMO-s, me një vlerë nominale prej 1 000 (një mijë) lekësh secili, plotësisht të paguara, që i korrespondojnë 85 për qind të kapitalit të “ARMO-s”, të cilat u janë ofruar kandidatëve.
 Në këto instruksione termat ofertë, tender dhe derivatet e tyre (kandidat/tenderues, ofruar/tenderuar, ofertë/tenderi etj.), janë sinonime dhe “ditë” do të thotë ditë kalendarike, përveç rasteve kur përcaktohet ndryshe në këtë vendim. Njëjës gjithashtu kuptohet shumës.
 II. TË PËRGJITHSHME
 1. Organizimi i tenderit
@@ -23,10 +23,10 @@ II. TË PËRGJITHSHME
 2. Kriteret e kualifikimit
 2.1 Kandidatët duhet të përmbushin kërkesat e mëposhtme:
 a) Të jetë person juridik që zotëron garanci financiare e të jetë i njohur në veprimtarinë ekonomike në një sektor të caktuar, në përputhje me standardet e certifikimit ISO 9000 ose më standardet e njësuara me to;
-b) Të jetë shoqëri e specializuar në fushën e përpunimit e të tregtimit të naftës, gazit e nënprodukteve të tyre, e cila t’i ketë ushtruar këto veprimtari për jo më pak se tre vjet;
+b) Të jetë shoqëri e specializuar në fushën e përpunimit e të tregtimit të naftës/gazit e nënprodukteve të tyre, që t’i ketë ushtruar këto veprimtari për jo më pak se tre vjet.
 c) Të ketë një kapital tërësisht të paguar në shumën 55 000 000 (pesëdhjetë e pesë milionë) euro apo barasvlerën e kësaj shume në valutën, në të cilën është shprehur kapitali; vlera neto dhe, sipas rastit, vlera neto e konsoliduar duhet të jetë të paktën 135 000 000 (njëqind e tridhjetë e pesë milionë) euro;
 d) Nëse ofertat paraqiten nga një bashkim i përkohshëm i shoqërive, duhet të plotësojnë kërkesat e mëposhtme:
-i) investitori strategjik duhet të zotërojë të paktën 30% të kapitalit dhe të drejtës së votës në shoqërinë e përbashkët;
+i) Investitori strategjik duhet të zotërojë të paktën 20 për qind të kapitalit dhe të së drejtës së votës në shoqërinë e përbashkët;
 ii) oferta duhet të përfshijë të gjithë informacionin e listuar në pikat e mësipërme 2.1 dhe 2.2;
 iii) një nga pjesëmarrësit duhet të jetë i autorizuar të veprojë si përfaqësues i kandidatit, dhe ky autorizim duhet të evidentohet nga paraqitja e një prokure, e nënshkruar nga nënshkruesit ligjorë të autorizuar të të gjitha palëve;
 iv) përfaqësuesit të kandidatit duhet t’i jepen nga partnerët e tij kompetencat e nevojshme për të hyrë në marrëveshje kontraktuale dhe për të marrë përsipër detyrimet e lidhura, që rrjedhin nga marrëveshja;
@@ -168,7 +168,7 @@ Kategoria
 Përshkrimi
 1
 Teknik
-40
+25
 1.1
 Kredencialet teknike të blerësit të mundshëm
 30
@@ -238,7 +238,7 @@ Planet e trajnimit për të përmirësuar aftësitë dhe kompetencat e fuqisë p
 5
 3.
 Aspekti financiar.
-60
+75
 3.1
 Oferta.
 100
