@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 1 (një) fletë e që përfundon me numrin rendor 17 (shtatëmbëdhjetë) dhe lidhja nr.1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse etij.
