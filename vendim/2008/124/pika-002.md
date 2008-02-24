@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 10 (dhjetë) fletë e që përfundon me numrin rendor 370 (treqind e shtatëdhjetë) dhe lidhja nr.1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
