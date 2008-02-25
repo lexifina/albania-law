@@ -1,0 +1,1 @@
+1. Miratimin e çmimeve për trojet urbane, brenda vijës së verdhë, për trojet në qytetet dhe komunat, ku investimet nuk janë rentabël, tokën bujqësore, tokën pyjore, livadhet dhe kullotat, për qarqet e Fierit, të Elbasanit, Tiranës, Vlorës, Durrësit dhe Shkodrës.
