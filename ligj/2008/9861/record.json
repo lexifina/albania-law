@@ -1,0 +1,29 @@
+{
+  "qbz_id": 6138,
+  "title": "Për kontrollin dhe mbikëqyrjen e kufirit shtetëror",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9861",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-01-24",
+  "published": "2008-02-13",
+  "in_force": "2008-02-28",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b92a1ce7801d207d60467e5a186e0c5d0839d01a8b6471137589637e1e1c0e42.docx",
+  "source_sha256": "b92a1ce7801d207d60467e5a186e0c5d0839d01a8b6471137589637e1e1c0e42",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6138",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/01/24/9861",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    15508,
+    8238
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
