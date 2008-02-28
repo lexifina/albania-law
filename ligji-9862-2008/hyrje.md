@@ -1,0 +1,7 @@
+LIGJ
+Nr. 9862, datë 24.1.2008
+PËR KALIMIN E SË DREJTËS SË PRONËSISË MBI SASINË E ARIT DHE TË METALEVE TË TJERA TË ÇMUARA NGA KËSHILLI I MINISTRAVE I REPUBLIKËS SË SHQIPËRISË BANKËS SË SHQIPËRISË
+Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
