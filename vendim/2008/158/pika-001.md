@@ -1,0 +1,1 @@
+1. Burimet radioaktive, që do t’i nënshtrohen procedurave të import-eksportit, si dhe pajisjet dhe sistemet, ku ato inkorporohen, janë përcaktuar në listën e miratuar nga Komisioni i Mbrojtjes nga Rrezatimet, pranë Ministrisë së Shëndetësisë.
