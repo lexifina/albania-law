@@ -1,0 +1,1 @@
+1. Ky vendim rregullon çështjet, që lindin në çastin e fillimit të procedurave për vendosjen e sekuestros mbi pasuritë e paluajtshme, në mbështetje të ligjit nr.9258, datë 15.7.2004 “Për masat kundër financimit të terrorizmit”.

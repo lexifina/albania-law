@@ -1,0 +1,1 @@
+2. Administrimi i pasurive të paluajtshme, të sekuestruara, që kanë për pronarë personat e shpallur si financues të terrorizmit, bëhet nga Agjencia për Administrimin e Pasurive të Sekuestruara dhe të Konfiskuara, më poshtë AAPSK, menjëherë pas vendosjes së sekuestros.

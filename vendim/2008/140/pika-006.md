@@ -1,0 +1,1 @@
+6. Kur të ardhurat e krijuara nga administrimi i pasurive të paluajtshme, të sekuestruara, nuk mjaftojnë për përballimin e shpenzimeve të kryera për administrimin e tyre, diferenca mbulohet nga Buxheti i Shtetit.
