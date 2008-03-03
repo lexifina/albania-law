@@ -1,1 +1,0 @@
-3. Me kalim të së drejtës së pronësisë do të kuptojmë një akt shitjeje apo dhurimi të pasurive të paluajtshme. Në kuptim të nenit 11 të ligjit, me fitime kapitale të realizuara duhet të kuptohet fitimi i realizuar nga shitja e pasurisë së paluajtshme tokë e ndërtesa, pra diferencën midis vlerës së shitjes dhe vlerës së blerjes së pasurisë.

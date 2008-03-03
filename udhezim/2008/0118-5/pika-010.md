@@ -1,1 +1,0 @@
-10. Ngarkohet Ministria e Drejtësisë që të informojë zyrat noteriale për respektimin e zbatimit të çmimeve minimale fiskale të përcaktuara në shtojcën bashkëlidhur këtij udhëzimi. Mosrespektimi i këtyre çmimeve në kontratat e noterizuara të shitjeve të pasurisë së paluajtshme konsiderohen kundërvajtje administrative për zyrat e noterëve dhe penalizohen sipas ligjit në fuqi.
