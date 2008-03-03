@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ, të komunës Maminas të qarkut të Durrësit, që transferohen, në pronësi ose në përdorim të kësaj komune, sipas lidhjes 1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 36 (tridhjetë e gjashtë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 121 (njëqind e njëzet e një).
