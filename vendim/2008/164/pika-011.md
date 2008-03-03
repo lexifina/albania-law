@@ -1,0 +1,1 @@
+11. Për tërheqjen e dokumentacionit dhe për pajisjen me licencë, aplikanti paguan, për llogari të Autoritetit të Mbikëqyrjes Financiare, tarifat e përcaktuara në vendimin nr.403, datë 9.6.2005 të Këshillit të Ministrave.

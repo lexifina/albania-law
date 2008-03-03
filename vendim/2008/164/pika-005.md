@@ -1,0 +1,1 @@
+5. Vlerësuesit e licencuar të dëmeve në sigurime regjistrohen në regjistrin përkatës, që mbahet nga Autoriteti i Mbikëqyrjes Financiare. Në regjistër cilësohet edhe statusi i vlerësuesit, i punësuar apo i pavarur.

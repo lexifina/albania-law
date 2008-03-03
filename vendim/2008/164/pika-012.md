@@ -1,0 +1,1 @@
+12. Autoriteti i Mbikëqyrjes Financiare, brenda 30 ditëve kalendarike nga data e plotësimit të dokumentacionit, të kërkuar në këtë vendim, shprehet për dhënien ose refuzimin e licencës për ushtrim veprimtarie për vlerësues dëmi në sigurime.

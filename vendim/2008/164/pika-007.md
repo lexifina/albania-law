@@ -1,0 +1,1 @@
+7. Vlerësuesi i dëmeve në sigurime siguron në një shoqëri sigurimi përgjegjësitë profesionale ndaj palëve të treta, për rastet e shkeljeve gjatë ushtrimit të veprimtarisë, me limit 30 000 000 lekë, për një ngjarje sigurimi, dhe limit maksimal 100 000 000 lekë, për një periudhë kohore njëvjeçare.

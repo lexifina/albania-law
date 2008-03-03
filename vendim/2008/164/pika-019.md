@@ -1,0 +1,1 @@
+19. Vlerësuesi i dëmeve në sigurime është përgjegjës për dëmin e shkaktuar nga veprimtaria e tij. Ai lirohet nga përgjegjësia nëse vërtetohet se dëmi i shkaktuar nuk ka ardhur si rezultat i ushtrimit të veprimtarisë së tij.

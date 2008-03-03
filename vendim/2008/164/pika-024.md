@@ -1,0 +1,1 @@
+24. Vlerësuesi i licencuar i dëmeve detyrohet të njoftojë Autoritetin e Mbikëqyrjes Financiare, për çdo ndryshim të të dhënave, të përfshira në regjistër, në mënyrë të veçantë, falimentimin apo shpalljen në likuidim, sapo të vihet në dijeni për një fakt të tillë.

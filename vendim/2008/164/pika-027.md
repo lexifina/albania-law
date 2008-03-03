@@ -1,0 +1,1 @@
+27. Autoriteti i Mbikëqyrjes Financiare informon shoqërinë e sigurimit dhe degën e shoqërisë së huaj të sigurimit për personat, të cilëve u është hequr licenca, për të ushtruar veprimtarinë e vlerësuesit të dëmeve në sigurime.

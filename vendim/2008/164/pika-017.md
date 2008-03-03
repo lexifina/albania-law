@@ -1,0 +1,1 @@
+17. Vlerësuesi i dëmeve në sigurime nuk mund të kryejë veprimet e vlerësuesit, nëse më parë ai ka kryer ndonjë veprimtari, që ka lidhje me objektin ose ngjarjen e siguruar, nëse ajo punë është e njëjtë ose e ngjashme me ato të mbikëqyrësit, agjentit, brokerit ose këshilluesit.

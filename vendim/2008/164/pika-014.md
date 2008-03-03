@@ -1,0 +1,1 @@
+14. Personi fizik apo drejtuesi dhe punonjësit e angazhuar në vlerësimin e dëmeve, të personit juridik, i cili kërkon të pajiset me licencë si vlerësues i dëmeve apo kërkon rinovimin e licencës, u nënshtrohen testimit për njohuritë në fushën e sigurimeve, sipas rregullave të miratuara nga Autoriteti i Mbikëqyrjes Financiare.
