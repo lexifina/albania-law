@@ -1,0 +1,1 @@
+8. Për nevoja të mirëmbajtjes së pasurisë, shpenzimet e kërkuara nga administratori i pasurisë do të kryhen pas marrjes së miratimit nga Ministri i Financave për procedurën që do të ndiqet për përzgjedhjen e kontraktorit. Këto kontrata lidhen rast pas rasti, në varësi të nevojave të mirëmbajtjes së pasurive.

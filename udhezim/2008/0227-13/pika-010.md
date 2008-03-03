@@ -1,0 +1,1 @@
+10. Shpenzime të sigurimit të domosdoshëm të pasurive janë shpenzimet për sigurimin nga zjarri, tërmeti dhe eksplozioni. Këto shpenzime do të kryhen rast pas rasti pas marrjes së miratimit nga Ministri i Financave.
