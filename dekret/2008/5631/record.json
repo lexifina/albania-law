@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6234,
+  "title": "Për daljen në lirim të oficerit me gradë madhore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "5631",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2008-02-25",
+  "published": "2008-03-03",
+  "in_force": "2008-03-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2dccfc8ee056b0c2b8d55867c6ef9a34d74e1b6be3e5ffd22053ce578ee5dc8a.docx",
+  "source_sha256": "2dccfc8ee056b0c2b8d55867c6ef9a34d74e1b6be3e5ffd22053ce578ee5dc8a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6234",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2008/02/25/5631",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
