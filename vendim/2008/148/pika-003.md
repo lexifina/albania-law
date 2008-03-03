@@ -1,0 +1,1 @@
+3. Për llogaritjen e çmimit mesatar, bashkitë і referohen çmimit mesatar të shitblerjeve të banesave në treg, që miratohet çdo vit me udhëzim të Këshillit të Ministrave, sipas llogaritjeve të Entit Kombëtar të Banesave. Brenda kufirit të përcaktuar në udhëzim, çdo bashki miraton një çmim mesatar për zona të ndryshme të qytetit, sipas metodologjisë së miratuar prej tyre.

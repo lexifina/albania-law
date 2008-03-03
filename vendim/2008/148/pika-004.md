@@ -1,0 +1,1 @@
+4. Me disponimin e fondeve për blerjen e banesave, me kosto të ulët, në treg, subjekti, і cili zbaton programin, përcakton numrin dhe strukturën e apartamenteve, që mund të blihen, si dhe njofton personat, e miratuar me vendim të këshillit bashkiak, për t’u trajtuar me banesë me kosto të ulët, për ta gjetur banesën në treg, sipas çmimit kufi.
