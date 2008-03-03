@@ -1,2 +1,2 @@
-10. Drejtori i QSA-së, për periudhën kalimtare, emërohet dhe shkarkohet nga Ministri i Arsimit dhe Shkencës, në bazë të rekomandimeve të bëra nga Këshilli i Arsimit të Lartë dhe Shkencës.
+10. Drejtori i qendrës ndëruniversitare “Qendra e Studimeve Albanologjike” propozohet nga Ministri i Arsimit dhe Shkencës, në bazë të rekomandimit të Këshillit të Arsimit të Lartë dhe Shkencës, dhe emërohet nga Presidenti i Republikës.
 Drejtori i QSA-së, për periudhën kalimtare, emëron dhe shkarkon nëndrejtorin dhe drejtuesit e njësive përbërëse. Kancelari emërohet nga Ministri i Arsimit dhe Shkencës dhe përzgjidhet ndërmjet tre kandidaturave të propozuara nga këshilli drejtues.
