@@ -1,0 +1,1 @@
+1. Miratimin e fondit limit të shpenzimeve të Këshillit Kombëtar të Radios dhe Televizionit, për vitin 2008, në shumën prej 74 400 000 (shtatëdhjetë e katër milionë e katërqind mijë) lekësh, për shpenzime korente, dhe 25 300 000 (njëzet e pesë milionë e treqind mijë) lekësh, për shpenzime për investime.
