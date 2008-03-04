@@ -1,0 +1,7 @@
+LIGJ
+Nr.9865, datë 31.1.2008
+PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE SELISË SË SHENJTË PËR DISA ÇËSHTJE EKONOMIKE DHE TATIMORE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
