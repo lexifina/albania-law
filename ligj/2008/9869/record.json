@@ -1,0 +1,28 @@
+{
+  "qbz_id": 60493,
+  "title": "PËR HUAMARRJEN E QEVERISJES VENDORE",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9869",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-02-04",
+  "published": "2008-02-19",
+  "in_force": "2008-03-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/febf14515f60374338584166cfd50b8523ca9127ff5daf37b1a94f4ae88f1d4e.docx",
+  "source_sha256": "febf14515f60374338584166cfd50b8523ca9127ff5daf37b1a94f4ae88f1d4e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60493",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/02/04/9869",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66821
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
