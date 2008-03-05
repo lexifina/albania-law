@@ -1,0 +1,31 @@
+{
+  "qbz_id": 60491,
+  "title": "Për përcaktimin e rregullave dhe të procedurave për tregtimin ndërkombëtar të llojeve të rrezikuara të faunës dhe të florës së egër",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9867",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-01-31",
+  "published": "2008-02-19",
+  "in_force": "2008-03-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/364c50717b61865210944dcf9ef5a9204288c36ba814b673487cb52bd9f2c7d7.docx",
+  "source_sha256": "364c50717b61865210944dcf9ef5a9204288c36ba814b673487cb52bd9f2c7d7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60491",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/01/31/9867",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    25543,
+    65572,
+    62701,
+    9175
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
