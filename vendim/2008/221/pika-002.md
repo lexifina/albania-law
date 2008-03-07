@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 3 (tre) fletë, që përfundon me numrin rendor 82 (tetëdhjetë e dy), dhe lidhja 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
