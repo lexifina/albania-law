@@ -1,0 +1,1 @@
+5. Procedura për bashkërendimin e punës, ndërmjet institucioneve përgjegjëse, sipas pikës 1 të këtij vendimi, zhvillohet sipas pikave të mësipërme edhe për shqyrtimin e denoncimeve të fakteve të pavërteta nga qytetarët, në përputhje me nenin 31 të ligjit nr.9831, datë 12.11.2007 “Për dëmshpërblimin e ish-të dënuarve politikë të regjimit komunist”.

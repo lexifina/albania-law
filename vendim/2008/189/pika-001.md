@@ -1,0 +1,1 @@
+1. Gjatë shqyrtimit të kërkesave për dëmshpërblim të ish-të dënuarve politikë të regjimit komunist, Ministria e Drejtësisë bashkërendon punën me Ministrinë e Brendshme, Ministrinë e Mbrojtjes, Shërbimin Informativ të Shtetit, Drejtorinë e Përgjithshme të Arkivave të Shtetit dhe arkivat e sistemit gjyqësor.
