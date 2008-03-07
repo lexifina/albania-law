@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 3 (tre) fletë e që përfundon me numrin rendor 97 (nëntëdhjetë e shtatë), dhe lidhja nr.1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
