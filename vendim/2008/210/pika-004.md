@@ -1,0 +1,1 @@
+4. Kontingjenti slloven, gjatë itinerarit të lëvizjes nga Porti i Durrësit-Qafë-Thanë dhe Qafë-Thanë-Porti i Durrësit, të shoqërohet nga njësi të Policisë Ushtarake të Forcave të Armatosura të Republikës së Shqipërisë.

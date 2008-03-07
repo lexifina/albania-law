@@ -1,0 +1,5 @@
+VENDIM
+Nr.210, datë 21.2.2008
+PËR LEJIMIN E KALIMIT TRANSIT TË NJË KONTINGJENTI USHTARAK SLLOVEN PËRMES TERRITORIT TË REPUBLIKËS SË SHQIPËRISË
+Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 2 të nenit 16 të ligjit nr.9363, datë 24.3.2005 “Për mënyrën dhe procedurat e vendosjes dhe kalimit të forcave ushtarake të huaja në territorin e Republikës së Shqipërisë, si dhe për dërgimin e forcave ushtarake shqiptare jashtë vendit”, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:

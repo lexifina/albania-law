@@ -1,0 +1,1 @@
+1. Lejimin e kalimit transit të një kontingjenti ushtarak slloven përmes territorit të Republikës së Shqipërisë, në itinerarin Porti i Durrësit-Qafë-Thanë, në datën 21 shkurt 2008 dhe kthim Qafë-Thanë-Porti i Durrësit, më 28 shkurt 2008.
