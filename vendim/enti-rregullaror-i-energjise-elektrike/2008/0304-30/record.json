@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6317,
+  "title": "Për shqyrtimin e kërkesës së shoqërisë “Enpower Albania” sh.p.k., për shtyrjen e vendimmarrjes për pajisjen me licencë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "30",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-03-04",
+  "published": "2008-03-12",
+  "in_force": "2008-03-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ddea9e2706b5315b1e6b6266f84af3f174bca10f609c587e70efd21a0ad9af74.docx",
+  "source_sha256": "ddea9e2706b5315b1e6b6266f84af3f174bca10f609c587e70efd21a0ad9af74",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6317",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/03/04/30",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
