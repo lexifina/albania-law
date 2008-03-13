@@ -1,0 +1,29 @@
+{
+  "qbz_id": 6223,
+  "title": "Për ankandin publik",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "9874",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-02-14",
+  "published": "2008-02-27",
+  "in_force": "2008-03-13",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9886c37a340b758ac3564fce9e93cd296464dc32c12bcd5b37feeebc1e866774.docx",
+  "source_sha256": "9886c37a340b758ac3564fce9e93cd296464dc32c12bcd5b37feeebc1e866774",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6223",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/02/14/9874",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    64714,
+    16435
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
