@@ -1,0 +1,10 @@
+# Neni 7
+Organizimi i tregut të biokarburanteve dhe i lëndëve të tjera djegëse,
+të rinovueshme
+1. Veprimtaritë e importimit, të eksportimit dhe të tregtimit të biokarburanteve dhe të lëndëve të tjera djegëse, të rinovueshme, në formë të pastër ose në formë përzierje me nënprodukte të rafinimit të naftës bruto, realizohen nga njësitë e prodhimit të biokarburanteve ose të lëndëve të tjera djegëse, të rinovueshme, nga rafineritë e përpunimit të naftës bruto, të pajisura me “leje koncesioni” dhe nga shoqëritë e pajisura me “leje tregtimi” për tregtimin me shumicë të nënprodukteve të naftës. Shoqëritë e tregtimit me pakicë të nënprodukteve të naftës, të pajisura me “autorizim”, sipas dispozitave ligjore në fuqi, kanë të drejtë të shesin me pakicë biokarburante në formë të pastër ose në formë të përzier me nënprodukte të rafinimit të naftës bruto, duke zbatuar dispozitat e këtij ligji.
+2. Në dokumentacionin përkatës doganor dhe administrativ shoqërues të biokarburanteve dhe të lëndëve të tjera djegëse, të rinovueshme, në formë të pastër ose të përzier me nënprodukte të rafinimit të naftës bruto, duhet të përcaktohet në mënyrë të detyrueshme përqindja e biokarburantit ose e lëndëve të tjera djegëse, të rinovueshme, që përzihet me nënproduktin respektiv të rafinimit të naftës bruto.
+3. Zotëruesit e “lejes së tregtimit” për tregtimin me shumicë dhe të “autorizimit” për tregtimin me pakicë të nënprodukteve të naftës, të cilët tregtojnë edhe biokarburante, janë të detyruar që në instalimet e tregtimit ose në pikat e shitjes së tyre të afishojnë, në mënyrë të dukshme dhe të qartë, një shënim të posaçëm për:
+a) biokarburantet ose lëndët e tjera djegëse, të rinovueshme;
+b) biodiezelin e përzier me diezel, për lëvizje automjetesh, në përqindje, minimalisht, 5 për qind për vëllim;
+c) bioetanolin e përzier me benzinë, në përqindje, minimalisht, 5 për qind për vëllim.
+Karakteristikat e shënimit të posaçëm përcaktohen me urdhër të ministrit përgjegjës për hidrokarburet, i cili botohet në Fletoren Zyrtare.
