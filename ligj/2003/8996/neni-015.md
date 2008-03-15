@@ -1,2 +1,0 @@
-# Neni 15
-Regjistrimi, lejimi, miratimi i tipit, verifikimi e kalibrimi fillestar dhe periodik i mjeteve matëse kryhen kundrejt tarifave të miratuara. Këto tarifa propozohen nga Drejtoria e Përgjithshme e Metrologjisë dhe Kalibrimit dhe miratohen nga Ministria e Financave. Tarifat janë të njëjta si për subjektet vendase, edhe për ato të huaja, të cilat ushtrojnë veprimtari prodhimi ose shërbimi në Republikën e Shqipërisë.
