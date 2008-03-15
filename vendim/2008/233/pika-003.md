@@ -1,0 +1,1 @@
+3. Objekti “Atelie e re”, me sipërfaqe të përgjithshme 3804 m2, në pronësi të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, t’i kalojë në përgjegjësi administrimi Radiotelevizionit Publik Shqiptar.

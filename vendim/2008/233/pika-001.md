@@ -1,0 +1,1 @@
+1. Mjediset e radiostacionit të Kasharit, në pronësi të Radiotelevizionit Publik Shqiptar, t’i kalojnë në përgjegjësi administrimi Ministrisë së Financave, për t’u përdorur nga Drejtoria e Përgjithshme e Doganave, sipas formularit dhe planimetrisë, që i bashkëlidhen këtij vendimi.
