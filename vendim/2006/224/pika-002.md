@@ -1,1 +1,0 @@
-2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i vitit 2006, grupi 25, titulli 065, kap. 1, art 604 “E ardhura nga papunësia”, miratuar për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
