@@ -1,0 +1,1 @@
+7. Drejtoria e Pёrgjithshme e Rrugёve tё likuidojë pronarët e përmendur në listën që i bashkëlidhet këtij vendimi, në përputhje me dokumentacionin e pronësisë, që do t’i vihet në dispozicion nga pronarët.
