@@ -1,0 +1,2 @@
+4. “University of New York - Tirana” do ta fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikën 1 të këtij vendimi, pasi të ketë marrë, jo më vonë se dy javë para fillimit të vitit akademik, lejen përkatëse nga Ministri і Arsimit dhe Shkencës.
+Ministri e lëshon lejen pasi vlerëson se institucioni privat i arsimit të lartë ka përmbushur angazhimet e deklaruara, në përputhje me udhëzimin e tij për këtë qëllim.

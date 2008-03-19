@@ -1,0 +1,1 @@
+3. Ngarkohet “University of New York - Tirana” që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, nga një personel akademik і huaj, me kualifikimin e nevojshëm.
