@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelёn, qё i bashkёlidhet kёtij vendimi, për sipërfaqen 253 036 m2 tokё/arё, të vlerёsuar me çmimin 1 600 lekё/m2, me vlerё të përgjithshme shpronësimi 404 857 600 (katërqind e katër milionë e tetëqind e pesëdhjetë e shtatë mijë e gjashtëqind) lekë.
