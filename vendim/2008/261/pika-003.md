@@ -1,0 +1,1 @@
+3. Përfitojnë nga ky vendim të gjithë punonjësit aktualë të “Armo” sh.a. Tiranë dhe “Albpetrol” sh.a. Patos, që kanë qenë të punësuar në këto shoqëri për një periudhë jo më pak se 2 vjet pa ndërprerje, deri në datën e hyrjes në fuqi të këtij vendimi.
