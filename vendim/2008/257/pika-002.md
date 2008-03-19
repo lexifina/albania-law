@@ -1,0 +1,1 @@
+2. Kohëzgjatja e programit të integruar të studimit të ciklit të dytë do të jetë 5 vite. Në përfundim të programit të studimeve lëshohet diploma e integruar e nivelit të dytë (DIND), në fushën e arsimimit të kryer.
