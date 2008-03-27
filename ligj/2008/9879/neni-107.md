@@ -1,0 +1,5 @@
+# Neni 107
+Detyrimi për të informuar publikun dhe përjashtimet
+Shoqëria publike emetuese, menjëherë pas marrjes së njoftimit të përmendur në nenin 106 të këtij ligji, njofton zyrtarisht bursën, ku është kuotuar dhe brenda shtatë ditëve e publikon njoftimin në buletinin e njoftimeve publike.
+Nëse emetuesi mendon se publikimi i njoftimit të përmendur në nenin 106 të këtij ligji mund t’i shkaktojë dëme të rënda dhe nëse publiku, edhe pa publikimin e njoftimit, do të jetë në gjendje të vlerësojë aksionet, për të cilat bën fjalë njoftimi, brenda tri ditëve nga marrja e njoftimit i kërkon me shkrim Autoritetit përjashtimin, përkohësisht, nga ky detyrim, për një periudhë kohe, e cila vendoset nga Autoriteti dhe, në çdo rast, nuk mund të jetë me e gjatë se tre muaj.
+Nëse brenda shtatë ditëve nga marrja e kërkesës së parashikuar në paragrafin e dytë të këtij neni, Autoriteti nuk merr një vendim, kërkesa konsiderohet e refuzuar dhe emetuesi e përmbush detyrimin e vet për publikimin e njoftimit brenda shtatë ditëve.

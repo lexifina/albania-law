@@ -1,0 +1,9 @@
+# Neni 30
+Miratimi i prospektit
+Prospekti, përpara publikimit ose dorëzimit të tij tek investitorët e mundshëm, paraqitet për miratim pranë Autoritetit. Emetuesi, së bashku me kërkesën për miratimin e prospektit, paraqet prospektin, vendimin për emetimin e titujve, si dhe çdo dokumentacion tjetër, të parashikuar nga ky ligj apo që i kërkohet nga Autoriteti.
+Prospekti publikohet dhe u jepet investitorëve të mundshëm, vetëm pasi ai të miratohet nga Autoriteti.
+Autoriteti, pas marrjes së praktikës, verifikon nëse prospekti përmban të gjitha të dhënat e renditura në nenin 29 të këtij ligji, por nuk kontrollon nëse informacioni që jepet në prospekt është i plotë dhe i vërtetë, si dhe ligjshmërinë e vendimit të emetimit të titujve e përmbajtjen e dokumenteve të tjera bashkëlidhur. Pavarësisht nga sa është parashikuar në këtë paragraf, nëse në praktikën e depozituar, në bazë të ndonjë informacioni të bërë publik ose kur Autoriteti ka të dhëna se ekzistojnë fakte apo rrethana të rëndësishme, që vërtetojnë mungesën e dokumenteve, të cilat duhet të deklaroheshin në prospekt, Autoriteti i kërkon emetuesit plotësimin e prospektit.
+Nëse praktika ka bashkëlidhur të gjitha dokumentacionin e parashikuar në këtë ligj dhe prospekti përmban të gjitha të dhënat, sipas dispozitave të nenit 29 të këtij ligji, Autoriteti, me vendim, miraton prospektin.
+Nëse brenda 15 ditëve pune nga data e regjistrimit të kërkesës dhe të dokumentacionit bashkëlidhur, Autoriteti nuk merr vendim për miratimin apo refuzimin e prospektit, konsiderohet se Autoriteti e ka miratuar prospektin.
+Kur Autoriteti i kërkon emetuesit të plotësojë dokumentacionin, afati llogaritet 15 ditë pune nga data e depozitimit në Autoritet nga emetuesi të dokumentacionit shtesë.
+Autoriteti miraton formularin e kërkesës, përmbajtjen e dokumentacionit që i bashkëlidhet kërkesës për miratim të prospektit, si dhe tarifat e shërbimit për përpunimin e këtij informacioni.
