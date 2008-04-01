@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6375,
+  "title": "Për miratimin e dekretit të Presidentit të Republikës për shkarkim zëvendëskryeministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "176",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-03-27",
+  "published": "2008-04-01",
+  "in_force": "2008-04-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fd4f2b19ab975d52dac789b3ec53f617045c86f996e2ec3eb019098c7df462c1.docx",
+  "source_sha256": "fd4f2b19ab975d52dac789b3ec53f617045c86f996e2ec3eb019098c7df462c1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6375",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/03/27/176",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
