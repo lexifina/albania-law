@@ -1,0 +1,1 @@
+3. Institucioni privat і arsimit të lartë, “Shkolla e lartë “Epoka””, do të ofrojë programet e studimeve të ciklit të parë, të cilat do të zgjasin 4 vite, dhe në mbarim të tyre do të lëshohet diploma “Bachlor”.

@@ -1,0 +1,1 @@
+4. Ngarkohet institucioni privat і arsimit të lartë, “Shkolla e lartë “Epoka””, që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga një personel akademik і huaj, me kualifikimin e nevojshëm.

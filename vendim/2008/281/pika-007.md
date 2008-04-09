@@ -1,0 +1,1 @@
+7. Institucioni privat і arsimit të lartë, “Shkolla e lartë “Epoka””, duhet t’і nënshtrohet procesit të akreditimit institucional dhe të programeve të studimit, brenda afateve të përcaktuara në ligjin në fuqi.
