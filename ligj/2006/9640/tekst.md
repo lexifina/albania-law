@@ -4,6 +4,10 @@ Nr. 9640, datë 9.11.2006
 
 PËR DHOMAT E TREGTISË DHE INDUSTRISË
 
+                              (Ndryshuar me ligjin nr. 9897, datë 10.4.2008)
+
+(i përditësuar)
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI 
@@ -96,11 +100,11 @@ Neni 6
 
 Anëtarësia
 
-Anëtarësia në Dhomë është e detyrueshme për ndërmarrjet shtetërore, si dhe për personat juridikë, të regjistruar në regjistrin tregtar dhe është vullnetare për personat fizikë, që kanë cilësinë e tregtarit, të cilët ushtrojnë veprimtari tregtare, industriale. 
+(Ndryshuar me ligjin nr. 9897, datë 10.4.2008)
 
-Anëtarët e Dhomës paguajnë kuotën vjetore të anëtarësisë. Masa dhe procedurat e vjeljes së kuotës përcaktohen nga asambleja, me miratim të organit mbikëqyrës. 
+Anëtarësia në dhomë është vullnetare për personat juridikë dhe fizikë, të regjistruar në regjistrin tregtar, sipas legjislacionit në fuqi.
 
-Organet tatimore, gjatë veprimtarisë së tyre kontrolluese, detyrojnë subjektet tatimore që të jenë anëtare të Dhomës së Tregtisë dhe Industrisë, sipas këtij ligji. 
+Anëtarët e  dhomës paguajnë kuotën vjetore të anëtarësisë.  Masa dhe procedurat e vjeljes së kuotës përcaktohen nga asambleja e dhomës.
 
 Neni 7
 
@@ -606,7 +610,7 @@ Neni 41
 
 Shfuqizime
 
-Ligji nr.7804, datë 10.3.1994 “Për Dhomat e Tregtisë dhe Industrisë”, si dhe çdo dispozitë tjetër që bie në kundërshtim me këtë ligj shfuqizohen. 
+Ligji nr. 7804, datë 10.3.1994 “Për Dhomat e Tregtisë dhe Industrisë”, si dhe çdo dispozitë tjetër që bie në kundërshtim me këtë ligj shfuqizohen. 
 
 Neni 42
 
@@ -614,4 +618,4 @@ Hyrja në fuqi
 
 Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare. 
 
-Shpallur me dekretin nr.5130, datë 1.12.2006 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu 
+Shpallur me dekretin nr. 5130, datë 1.12.2006 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu 
