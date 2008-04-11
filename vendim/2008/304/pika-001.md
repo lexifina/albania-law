@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve, për vitin 2008, për Entin Rregullator të Telekomunikacioneve, në shumën 237 182 138 (dyqind e tridhjetë e shtatë milionë e njëqind e tetëdhjetë e dy mijë e njëqind e tridhjetë e tetë) lekë, të ndarë sipas zërave, të paraqitura në lidhjen 1, që i bashkëlidhet këtij vendimi.
