@@ -1,0 +1,1 @@
+1. Angazhimet e inspektoratit të peshkimit dhe të bordit të licencave të aktivitetit të peshkimit pranë Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave, për shqyrtimin e kërkesës dhe marrjen e vendimit për licencën e peshkimit, vlerësohen si shërbime ndaj të tretëve dhe paguhen nga kërkuesi në formën e tarifave të shërbimeve.

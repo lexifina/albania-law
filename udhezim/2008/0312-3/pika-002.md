@@ -1,0 +1,1 @@
+2. Vlera e tarifës përfshin shpenzimet administrative, si dhe gjithë veprimtaritë konkrete të inspektoratit të peshkimit dhe të ministrisë gjatë procesit të shqyrtimit të kërkesës për miratimin e licencës.
