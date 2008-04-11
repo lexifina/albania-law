@@ -1,0 +1,1 @@
+2. Pagimi i çmimit nga shoqëria “Erjoni” sh.p.k. Tiranë, do të bëhet në natyrë, me sipërfaqe të lirë trualli, që ka në pronësi kjo shoqëri, bazuar në krahasimin e vlerave të objekteve, të vlerësuara në shkëmbim, dhe në para, në shumën 14 230 560 (katërmbëdhjetë milionë e dyqind e tridhjetë mijë e pesëqind e gjashtëdhjetë) lekë.

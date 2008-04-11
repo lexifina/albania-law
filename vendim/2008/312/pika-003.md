@@ -1,0 +1,1 @@
+3. Pronësia e ndërtesës dykatëshe, së bashku me truallin nën to, të kalojnë nga Drejtoria e Përgjithshme e Metrologjisë dhe Kalibrimit te shoqëria “Erjoni” sh.p.k., përmes një kontrate tjetërsimi mbi pasuritë e paluajtshme, nënshkruar nga të dyja palët, sipas tekstit, që i bashkëlidhet këtij vendimi.

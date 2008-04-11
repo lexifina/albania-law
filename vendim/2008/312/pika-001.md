@@ -1,0 +1,1 @@
+1. Tjetërsimin e pronësisë shtetërore të truallit dhe të ndërtesës 2-katëshe, me tulla silikate, të ndërmarrjes elektroteknike, Tiranë, me sipërfaqe të përgjithshme 2209 m2, sipas genplanit, që i bashkëlidhet këtij vendimi, nga pronë shtetërore në pronë private, për shoqërinë “Erjoni” sh.p.k. Tiranë.
