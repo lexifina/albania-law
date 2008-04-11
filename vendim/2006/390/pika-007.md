@@ -1,1 +1,0 @@
-7. Organet e qeverisjes vendore dhe të Policisë së Shtetit bashkëpunojnë dhe mbështesin drejtoritë rajonale të bujqësisë dhe ushqimit për zbatimin e sistemit të identifikimit të kafshëve dhe regjistrimin e fermave blegtorale.
