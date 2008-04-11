@@ -1,0 +1,1 @@
+3. Drejtoritë rajonale të bujqësisë, ushqimit dhe mbrojtjes së konsumatorit (sektori veterinar) drejtojnë dhe zbatojnë, për çdo zonë që mbulojnë, sistemin e identifikimit të kafshëve dhe të regjistrimit të fermave blegtorale, nëpërmjet specialistëve privatë, veterinerë dhe zooteknikë, me të cilët lidhin kontratat përkatëse.
