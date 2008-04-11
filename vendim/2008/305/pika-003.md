@@ -1,0 +1,1 @@
+3. Kur ushtaraku shtrohet për kurim në institucionet shëndetësore të shtetit, ku ndodhet komanda apo shtabi і NATO-s ose në ndonjë shtet tjetër, ai vazhdon ta përfitojë pagën përkatëse dhe trajtimin financiar, që është për përkujdesje ndaj familjes.
