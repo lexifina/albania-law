@@ -1,0 +1,1 @@
+1. Licencimin e Agjencisë së Administrimit Kolektiv të së Drejtës së Autorit “FMAA” në fushën e kinematografisë dhe të veprave të tjera të audiovizualit, për të ushtruar dhe mbrojtur të drejtat e autorëve krijues, regjisorë dhe skenaristë.
