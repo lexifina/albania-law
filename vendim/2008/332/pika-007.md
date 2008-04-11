@@ -1,0 +1,1 @@
+7. Ministri i Punëve Publike, Transportit dhe Telekomunikacionit, brenda një muaji nga miratimi i planveprimit, të përcaktuar në pikën 6 të këtij vendimi, nxjerr udhëzimin përkatës për mënyrën dhe tarifën e dublikimit, të riprodhimit dhe legalizimit të pjesshëm, për çdo njësi të produktit fotogrametrik, për subjektet e interesuara publike dhe private.

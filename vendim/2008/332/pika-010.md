@@ -1,0 +1,1 @@
+10. Institucionet përgjegjëse për përpunimin e informacionit gjeografik, të përftuar nga fotografimi ajror, dixhital i territorit të Republikës së Shqipërisë, të kryejnë përpunimin, në përputhje me direktivën 2007/2/ të Parlamentit Europian dhe të Këshillit të Europës, për infrastrukturën e informacionit hapësinor.

@@ -1,0 +1,1 @@
+8. Institucionet, që, sipas pikës 4 të këtij vendimi, do të përfitojnë kopje të produktit fotogrametrik, të nxjerrin, brenda tri muajve, rregulloret përkatëse për ruajtjen dhe/ose përdorimin e këtij produkti.

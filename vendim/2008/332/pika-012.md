@@ -1,0 +1,1 @@
+12. Institucionet shtetërore nuk mund të kryejnë procedura prokurimi, me fonde publike apo të donatorëve, për krijimin e produkteve hartografike të një standardi me të ulët se produkti fotogrametrik, i përftuar nga fotografimi ajror, dixhital i territorit të Republikës së Shqipërisë.
