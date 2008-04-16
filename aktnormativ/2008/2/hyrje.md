@@ -1,0 +1,5 @@
+AKT NORMATIV
+Nr.2, datë 8.4.2008
+PËR DËRGIMIN NË BOSNJË-HeRCEGOVINË TË NJË GRUPI TË ASGJËSIMIT TË MUNICIONEVE DHE EKSPLOZIVËVE TË FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË, PËR TË MARRË PJESË NË OPERACIONIN “ALTHEA” TË BASHKIMIT EuROPIAN
+Në mbështetje të neneve 12, pika 3, dhe 101 të Kushtetutës, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:
