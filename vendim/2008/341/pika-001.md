@@ -1,0 +1,1 @@
+1. Miratimin e planit të veprimit, sipas raportit përfundimtar, për reformimin e kapaciteteve institucionale dhe shndërrimin e Drejtorisë së Përgjithshme të Rrugëve në Ent Pulik, bazuar në vizionin e njësisë së reduktuar, të centralizuar dhe kontraktuese, sipas materialit, që i bashkëlidhet këtij vendimi.
