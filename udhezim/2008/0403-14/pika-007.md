@@ -1,0 +1,4 @@
+7. Institucionet publike të arsimit të lartë, përcaktuar në pikën 2 të këtij udhëzimi, përcaktojnë listën e programeve të studimit të ciklit të parë, që mundësojnë pranimin në një program studimi të ciklit të dytë, si më poshtë:
+a) programin apo programet e studimit të ciklit të parë, që lejojnë regjistrimin në programin e studimit të ciklit të dytë pa plotësime shtesë (pa debite formimi);
+b) programin apo programet e studimit të ciklit të parë, që lejojnë regjistrimin në programin e studimit të ciklit të dytë me plotësim të njohurive formuese (me debite formimi), si p.sh. programe studimi të afërta të të njëjtit institucion apo programe të njëjta e të afërta të institucioneve të tjera të arsimit të lartë.
+Në çdo program studimi të ciklit të dytë, së paku një program studimi i ciklit të parë kalon pa debite formimi.

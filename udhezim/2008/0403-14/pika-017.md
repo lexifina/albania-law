@@ -1,0 +1,1 @@
+17. Hapja dhe mbyllja e programeve tё studimeve të ciklit të dytë në institucionet publike të arsimit të lartë bëhet sipas përcaktimeve të pikave 1 dhe 2 të nenit 42 të ligjit nr.9741, datë 21.5.2007, si dhe mbështetur në këtë udhëzim.

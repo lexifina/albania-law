@@ -1,0 +1,1 @@
+2. Programet e mësipërme të studimit të ciklit të dytë organizohen dhe ofrohen vetëm nga institucionet e përcaktuara në nenet 5, pika 4 dhe 6, pikat 1, 2 e 3 të ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar.

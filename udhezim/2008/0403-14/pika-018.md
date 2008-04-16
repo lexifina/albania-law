@@ -1,0 +1,4 @@
+18. Licencimi dhe hapja e programeve tё studimit të ciklit të dytë në institucionet private të arsimit të lartë bëhet sipas përcaktimeve të pikës 2 të nenit 44 të ligjit nr.9741, datë 21.5.2007. Institucionet private të arsimit të lartë, që do të ofrojnë programe studimi të ciklit të dytë, u nënshtrohen rregullave të përcaktuara në udhëzimet specifike, për hapjen e tyre, dhe këtij udhëzimi për organizimin e studimeve në to.
+Institucionet private të arsimit të lartë i nënshtrohen rregullit të pikës 11 të këtij udhëzimi vetëm për organizimin e studimeve.
+Këto institucione përjashtohen nga rregullat e përcaktuara në pikat 15, 16 dhe 17 të këtij udhëzimi duke iu nënshtruar për hapjen e programeve të studimit rregullave të përcaktuara në aktet specifike.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+1. Programet e studimit të ciklit të dytë, përcaktuar në pikën 1.2.1 të nenit 26 të ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, përbëjnë nivelin e dytë të formimit universitar, në përfundim të të cilit lëshohet diplomë e nivelit të dytë (DND) në fushën e arsimimit të kryer.
