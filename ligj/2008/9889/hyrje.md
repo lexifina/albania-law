@@ -1,0 +1,7 @@
+LIGJ
+Nr.9889, datë 20.3.2008
+PËR PËRCAKTIMIN E FORMËS DHE TË STRUKTURËS SË FORMULËS SË PRIVATIZIMIT TË SHOQËRISË ANONIME “OPERATORI I SISTEMIT TË SHPËRNDARJES”
+Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
