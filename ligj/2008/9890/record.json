@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6370,
+  "title": "Për disa shtesa e ndryshime në ligjin nr.8934, datë 5.9.2002 “Për mbrojtjen e mjedisit”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9890",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-03-20",
+  "published": "2008-04-01",
+  "in_force": "2008-04-16",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b977cf09db205f7b88917954fec1d07a048814ee07c44e02bd139b77f49cc4dc.docx",
+  "source_sha256": "b977cf09db205f7b88917954fec1d07a048814ee07c44e02bd139b77f49cc4dc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6370",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/03/20/9890",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
