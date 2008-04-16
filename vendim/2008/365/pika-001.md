@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Qendër të qarkut të Beratit, që transferohen, në pronësi ose në përdorim, të kësaj komune, sipas lidhjes 1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 91 (nëntëdhjetë e një) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 627 (gjashtëqind e njëzet e shtatë).
