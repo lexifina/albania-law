@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “BOT” (ndërtim, operim dhe transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si Autoriteti Kontraktues, dhe shoqërisë “Korsel” sh.p.k., për ndërtimin e hidrocentralit “Çarshovë”, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
