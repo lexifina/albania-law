@@ -2,4 +2,4 @@
 Importi i mbetjeve të rrezikshme
 Ndalohen në të gjitha rrethanat:
 a) importi i mbetjeve të rrezikshme në Republikën e Shqipërisë;
-b) tranziti ndërkufitar i mbetjeve të rrezikshme përmes Republikës së Shqipërisë.
+b) Shfuqizuar.
