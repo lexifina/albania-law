@@ -1,0 +1,1 @@
+1. Vlerësimit i nënshtrohen vetëm traktorët, makineritë dhe pajisjet, që u janë marrë përdoruesve, të cilët nuk kanë likuiduar vlerën e tyre, sipas afateve të përcaktuara në kontratën e lidhur, ndërmjet projektit 2 KR dhe përfituesve.

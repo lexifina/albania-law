@@ -1,0 +1,1 @@
+8. Në përfundim të të gjitha këtyre procedurave dhe të afatit 2-mujor, projekti 2 KR i propozon Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit sistemimin e tyre në magazinat shtetërore ose nxjerrjen jashtë përdorimit.

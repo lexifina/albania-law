@@ -1,0 +1,1 @@
+10. Diferencat financiare ndërmjet çmimit që është në kontabilitet dhe çmimit të shitjes së mallrave, si pasojë e transferimeve kapitale, t’i pakësohen fondeve kondërparti të projektit “Rritja e prodhimit ushqimor, 2 KR”.

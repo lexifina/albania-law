@@ -1,0 +1,1 @@
+2. Për vlerësimin e traktorëve, të makinerive e të pajisjeve, të marra nga përdoruesit, të cilët nuk kanë likuiduar vlerën e tyre, me propozimin e drejtorit të projektit 2 KR, Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, miraton komisionin e vlerësimit, i cili përcakton vlerën për çdo traktor, makineri dhe pajisje.

@@ -1,0 +1,1 @@
+7. Gjatë kësaj periudhe 2-mujore njoftohen për gjendjen e mallrave edhe institucionet shtetërore, që kanë interes për përdorimin e tyre. Në bazë të kërkesave dhe të gjendjes fizike, kryhet transferimi i këtyre mallrave, me miratimin e Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

@@ -1,0 +1,1 @@
+9. Për traktorët, agregatet dhe pajisjet e blera nga institucionet shtetërore, të cilat nuk kanë shlyer detyrimet, sipas kontratave me projektin “Rritja e prodhimit ushqimor, 2 KR”, kryhet transferimi kapital i tyre, me miratimin e Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

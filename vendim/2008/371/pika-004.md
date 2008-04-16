@@ -1,0 +1,1 @@
+4. Pas përcaktimit të vlerës, sipas pikës 3 të këtij vendimi, fillon procedura e botimit të njoftimit për shpalljen e ankandit, dy herë radhazi në Buletinin e Njoftimeve Publike, periudhë e cila zgjat 14 ditë. Në njoftim përcaktohen dy data, me një afat kohor prej 5 ditësh, për zhvillimin e ankandit. Brenda këtij afati, njoftimi botohet edhe në dy gazeta, me qarkullim kombëtar.

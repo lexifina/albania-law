@@ -1,0 +1,1 @@
+5. Kur nga zhvillimi i ankandit mbeten traktorë, makineri, pajisje dhe pjesë këmbimi të pashitura, projekti 2 KR i propozon Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit uljen e vlerës së publikuar për shitje, deri në 50 për qind. Në këto raste, zbatohen të gjitha procedurat e ankandit.
