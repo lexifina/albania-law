@@ -1,0 +1,3 @@
+1. Lejimin e kalimit transit të një konvoji ushtarak slloven, të përbërë nga 2 (dy) automjete dhe 4 (katër) trupa, përmes territorit të Republikës së Shqipërisë, në itinerarin Porti i Durrësit-Qafë-Thanë, në datën 14 prill 2008. Një prej automjeteve është shoqërues dhe niset nga Prishtina po në këtë datë.
+Pika e hyrjes në territorin e Republikës së Shqipërisë për automjetin shoqërues të jetë pika e kalimit të kufirit Qafë-Thanë.
+Pika e hyrjes në territorin e Republikës së Shqipërisë për konvojin ushtarak slloven të jetë Porti i Durrësit dhe pika e daljes të jetë pika e kalimit të kufirit Qafë-Thanë.
