@@ -1,0 +1,1 @@
+2. Ky kolegj do të ofrojë programin e studimit të ciklit të parë, në formën e studimit me kohë të plotë, i emërtuar “Teknik i lartë laboratori”, i cili do të zgjasë 3 (tri) vite, dhe, në mbarim të studimeve, lëshohet diplomë e nivelit të parë.
