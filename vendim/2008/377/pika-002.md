@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 6 (gjashtë fletë), që përfundon me numrin rendor 195 (njëqind e nëntëdhjetë e pesë) dhe lidhja 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

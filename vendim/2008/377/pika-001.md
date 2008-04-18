@@ -1,0 +1,1 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridikisonin, territorial dhe administrativ të njësisë së qeverisjes vendore, bashkia Fushë-Arrëz, të qarkut të Shkodrës, që do t’i transferohen në pronësi kësaj njësie.

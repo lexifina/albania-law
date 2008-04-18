@@ -1,0 +1,1975 @@
+# Shtojca
+FORMULARË PËR TRASFERIMIN E PRONAVE TË PALUAJTSHME SHTETËRORE
+(Sipas inventarizimit të pronave të veçanta të tipit; pyje, kullota, livadhe, shkembore, etj.)
+Institucioni i pushtetit qëndror : MMPAU
+Bashkia: Fushë-Arrëz
+Nr. rendor
+Numri i pronës sipas inventarit të DSHP
+Emërtesa e ekonomisë pyjore dhe kullosore (EPK)
+Shtrirja gjeografike
+Emërtesa e ngastrës, Vendndodhja (sipas emërtesës popullore)
+Numri i ngastrës
+Destinacioni
+Sipër. në ha
+Funksioni për të cilin përdoret prona
+Institucononi Enti me përgjegjësi administrative
+Istitucioni Enti përdorues, statusi juridik i përdorimit
+Të dhëna të tjera (shënime të veçanta)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+1
+49
+Lum i Zi
+Zabeli i lepurit
+14/a
+Pyll
+4
+prodh.
+M.M.P.A.U
+Bashkia
+2
+50
+”
+Zabeli i lepurit
+14/b
+Pyll
+9.5
+prodh.
+”
+”
+3
+51
+”
+Zabeli i lepurit
+14/c
+Pyll
+13.5
+prodh.
+”
+”
+4
+52
+”
+Zabeli i lepurit
+14/d
+Pyll
+8.5
+mbr.shk.
+”
+”
+5
+53
+”
+Udha e shkembit
+15/b
+Pyll
+4.3
+prodh
+”
+”
+6
+54
+”
+Udha e shkembit
+15/c
+Pyll
+32.7
+prodh.
+”
+”
+7
+55
+”
+Udha e shkembit
+15/d
+Pyll
+4
+prodh
+”
+”
+8
+56
+”
+Hija e shpozit
+16/a
+Pyll
+4.2
+prodh
+”
+”
+9
+57
+”
+Udha e shkembit
+16/b
+Pyll
+2.5
+mbr.
+”
+”
+10
+58
+”
+Hija e shpozit
+16/c
+Pyll
+2
+mbr.
+”
+”
+11
+59
+”
+Hija e shpozit
+16/d
+Pyll
+11.2
+mbr.
+”
+”
+12
+60
+”
+Faqja e shkembit
+17/a
+Pyll
+6.5
+prodh
+”
+”
+13
+61
+”
+Faqja e shkembit
+17/b
+inp
+23.2
+prodh
+”
+”
+14
+62
+”
+Faqja e shkembit
+17/c
+Pyll
+15
+mbr.
+”
+”
+15
+63
+”
+Faqja e shkembit
+17/d
+Pyll
+12.4
+mbr.
+”
+”
+16
+64
+”
+Pllaja e kotices
+18/a
+Pyll
+24
+prodh
+”
+”
+17
+65
+”
+Pllaja e kotices
+18/b
+Pyll
+20.2
+prodh
+”
+”
+18
+66
+”
+Lugu i gurres
+19/b
+Pyll
+9.75
+prodhus
+”
+”
+19
+67
+”
+Maja e shkembit
+19/c
+Pyll
+3
+prodh
+”
+”
+20
+68
+”
+Lugu i gurres
+19/d
+Pyll
+21.7
+shk.
+”
+”
+21
+69
+”
+Lugu i gurres
+19/e
+Pyll
+5.2
+mbr.shk.
+”
+”
+22
+70
+”
+Lugu i gurres
+19/f
+Pyll
+28.5
+mbr.shk.
+”
+”
+23
+71
+”
+Lugu i gurres
+20/a
+Pyll
+4.2
+prodh
+”
+”
+24
+72
+”
+Lugu i gurres
+20/b
+Pyll
+28
+prodh
+”
+”
+25
+73
+”
+Lugu i gurres
+20/c
+Pyll
+2.5
+mbr.
+”
+”
+26
+74
+”
+Lugu i gurres
+21/a
+Pyll
+3
+mbr.
+”
+”
+27
+75
+”
+Lugu i gurres
+21/b
+Pyll
+24.9
+prodh.
+”
+”
+28
+76
+”
+Boshtra e keqe
+22/b
+Pyll
+9
+prodh.
+”
+”
+29
+77
+”
+Hala e bardhe
+22/c
+Pyll
+13.5
+prodh.
+”
+”
+30
+78
+”
+Hala e bardhe
+22/d
+Pyll
+3
+mbr.
+”
+”
+31
+79
+”
+Hala e zeze
+23/a
+Pyll
+13.2
+prodh.
+”
+”
+32
+80
+”
+Hala e zeze
+23/b
+Pyll
+10.5
+prodh.
+”
+”
+33
+81
+”
+Hala e qafes
+24/a
+Pyll
+12.2
+prodh.
+”
+”
+34
+82
+”
+Hala e qafes
+24/b
+Pyll
+15
+prodh.
+”
+”
+35
+84
+”
+Hala e perroit te keq
+25
+Pyll
+30.15
+prodh.
+”
+”
+36
+85
+”
+Maja e marshazit
+26/b
+Pyll
+32.45
+prodh.
+”
+”
+37
+86
+”
+Maja e marshazit
+26/c
+Pyll
+14
+prodh.
+”
+”
+38
+87
+”
+Bunga e majes
+27/a
+Pyll
+5
+prodh.
+”
+”
+39
+88
+”
+Faqja e marshezit
+27/b
+Pyll
+15.7
+prodh.
+”
+”
+40
+89
+”
+Bunga e majes
+27/c
+Pyll
+11
+mbr.
+”
+”
+41
+90
+”
+Shullani i gropes
+28/a
+Pyll
+6.45
+prodh.
+”
+”
+42
+91
+”
+Shullani i gropes
+28/b
+Pyll
+29.7
+prodh.
+”
+”
+43
+92
+”
+Rrilinat
+29/a
+Pyll
+34.5
+prodh.
+”
+”
+44
+93
+”
+Rrilinat
+29/b
+Pyll
+0.65
+prodh.
+”
+”
+45
+224
+Qafe plake,
+Qafe shari
+Pertena
+96/c
+Pyll
+7
+prodh.
+”
+”
+46
+225
+”
+Hamalla e P.N.Zogut
+97/a
+Pyll
+21
+prodh.
+”
+”
+47
+226
+”
+Pertena
+97/b
+Pyll
+2.5
+prodh.
+”
+”
+48
+227
+”
+Pertena
+97/c
+Pyll
+3.5
+prodh.
+”
+”
+49
+228
+”
+Hamalla e P.N.Zogut
+98/a
+inp
+4
+”
+”
+50
+229
+”
+Hamalla e P.N.Zogut
+98/b
+inp
+1
+”
+”
+51
+230
+”
+Hamalla e P.N.Zogut
+98/c
+Pyll
+15
+prodh.
+”
+”
+52
+231
+”
+Perroi i viles
+99/a
+Pyll
+4
+prodh.
+”
+”
+53
+232
+”
+Gryka e prroit te viles
+99/b
+Pyll
+0.5
+prodh.
+”
+”
+54
+233
+”
+Gryka e prroit te viles
+99/c
+Pyll
+2.5
+prodh.
+”
+”
+55
+235
+”
+Shkema madhe
+99/e
+Pyll
+10.5
+prodh.
+”
+”
+56
+236
+”
+Kodra e madhe
+100/a
+Pyll
+22.5
+prodh.
+”
+”
+57
+237
+”
+Maja e kodres madhe
+100/b
+inp
+3.5
+”
+”
+58
+238
+”
+Perroi i mrizit
+100/c
+inp
+1
+”
+”
+59
+239
+”
+Hamalla e P.N.Zogut
+101/a
+inp
+6
+”
+”
+60
+240
+”
+Hamalla e P.N.Zogut
+101/b
+Pyll
+11.5
+prodh.
+”
+”
+61
+241
+”
+Hamalla e mrijajve
+102
+Pyll
+20
+prodh.
+”
+”
+62
+242
+”
+Rrashkullat
+103/a
+Pyll
+3.5
+prodh.
+”
+”
+63
+243
+”
+Rrashkullat
+103/b
+Pyll
+4.5
+prodh.
+”
+”
+64
+244
+”
+Rrashkullat
+103/c
+Pyll
+6
+prodh.
+”
+”
+65
+245
+”
+Kodra e zhveshur
+104/a
+inp
+5.5
+”
+”
+66
+246
+”
+Kodra e zhveshur
+104/b
+Pyll
+4
+prodh.
+”
+”
+67
+247
+”
+Kodra e zhveshur
+104/c
+inp
+1.5
+”
+”
+68
+248
+”
+Podi i groshes
+105a
+Pyll
+3
+prodh.
+”
+”
+69
+249
+”
+Podi i groshes
+105b
+inp
+5
+”
+”
+70
+250
+”
+Mrijaj
+106a
+Pyll
+22
+prodh.
+”
+”
+71
+251
+”
+Hija e zefit
+107a
+Pyll
+15.5
+prodh.
+”
+”
+72
+252
+”
+Hija e zefit
+107b
+Pyll
+5
+prodh.
+”
+”
+73
+253
+”
+Mrijaj
+108a
+Pyll
+6
+prodh.
+”
+”
+74
+254
+”
+Mrijaj
+108b
+Pyll
+1.5
+prodh.
+”
+”
+75
+255
+”
+Gryka e Syl Prendit
+109
+Pyll
+13.5
+prodh.
+”
+”
+76
+256
+”
+Kodra Nushaj
+110a
+Pyll
+4.5
+prodh.
+”
+”
+77
+257
+”
+Nushaj
+110b
+Pyll
+13
+prodh.
+”
+”
+78
+258
+”
+Mrijaj
+110c
+inp
+3.5
+”
+”
+79
+259
+”
+Shullani Mriaj
+111a
+Pyll
+5
+prodh.
+”
+”
+80
+260
+”
+Shullani Mriaj
+111b
+inp
+9.05
+”
+”
+81
+261
+”
+Shullani Mriaj
+111c
+inp
+4.5
+”
+”
+82
+262
+”
+Hamalla e N Zefit
+112a
+Pyll
+3
+prodh.
+”
+”
+83
+263
+”
+Hamalla e N Zefit
+112b
+Pyll
+5
+prodh.
+”
+”
+84
+264
+”
+Hamalla e N Zefit
+112c
+Pyll
+1
+prodh.
+”
+”
+85
+265
+”
+Shpia e N. Zefit
+113a
+Pyll
+12
+prodh.
+”
+”
+86
+266
+”
+Mrijaj
+114a
+Pyll
+20
+prodh.
+”
+”
+87
+267
+”
+Podi i groshes
+115a
+Pyll
+5
+prodh.
+”
+”
+88
+268
+”
+Podi i groshes
+115b
+Pyll
+6.5
+prodh.
+”
+”
+89
+269
+”
+Lumardha
+116a
+Pyll
+14
+prodh.
+”
+”
+90
+270
+”
+Podi i groshes
+116b
+Pyll
+5.5
+prodh.
+”
+”
+91
+271
+”
+Podi i groshes
+117b
+Pyll
+12
+prodh.
+”
+”
+92
+272
+”
+Lumardha
+118a
+Pyll
+4
+prodh.
+”
+”
+93
+273
+”
+Laku I curkut
+118c
+Pyll
+2.5
+prodh.
+”
+”
+94
+274
+”
+Kodra e curkut
+119b
+Pyll
+11.5
+prodh.
+”
+”
+95
+275
+”
+Kodra e madhe
+120b
+inp
+9
+”
+”
+96
+276
+”
+Kodra e curkut
+121a
+Pyll
+19
+prodh
+”
+”
+97
+277
+”
+Kodra e curkut
+121b
+Pyll
+6
+prodh.
+”
+”
+98
+278
+”
+Kodra e curkut
+122a
+Pyll
+9
+prodh.
+”
+”
+99
+279
+”
+Kodra e curkut
+122b
+Pyll
+6
+prodh.
+”
+”
+100
+280
+”
+Curku
+123a
+inp
+3.5
+”
+”
+101
+281
+”
+Curku
+123b
+Pyll
+8.5
+prodh.
+”
+”
+102
+282
+”
+Curku
+123c
+Pyll
+5
+prodh.
+”
+”
+103
+283
+”
+Shpija e Kol Dedes
+124b
+Pyll
+2.5
+prodh.
+”
+”
+104
+284
+”
+Qafe vile
+124e
+Pyll
+6
+prodh.
+”
+”
+105
+285
+”
+Qafe vile
+124d
+Pyll
+1
+prodh.
+”
+”
+106
+71
+Kryezi Bicaj
+Perroi i Thive
+43a
+inp
+6.5
+”
+”
+107
+72
+”
+Kodra e gurzave
+43b
+Pyll
+18.5
+prodh.
+”
+”
+108
+73
+”
+Kodra e gurzave
+44a
+Pyll
+14.25
+prodh.
+”
+”
+109
+74
+”
+Kodra e gurzave
+44b
+Pyll
+17.75
+prodh.
+”
+”
+110
+75
+”
+Mbi Nikoll Tucin
+45b
+Pyll
+6.75
+prodh.
+”
+”
+111
+76
+”
+Mbi varrezat
+45c
+Pyll
+12
+prodh.
+”
+”
+112
+77
+”
+Qafe qershi
+45c
+Pyll
+2
+prodh.
+”
+”
+113
+78
+”
+Shpatinat e Gjonit
+46b
+Pyll
+29.5
+prodh.
+”
+”
+114
+79
+”
+Zabeli i z. Dedes
+46c
+Pyll
+10.25
+prodh.
+”
+”
+115
+80
+”
+Zabeli i Nikoll Rucit
+46d
+Pyll
+9.5
+prodh.
+”
+”
+116
+81
+”
+Zabeli i Gojanit
+47a
+Pyll
+4.5
+prodh.
+”
+”
+117
+82
+”
+Shpati i gojanit
+47b
+Pyll
+25.5
+prodh.
+”
+”
+118
+83
+”
+Mbi Ded Cunin
+48b
+Pyll
+11.5
+prodh.
+”
+”
+119
+84
+”
+Kodra memaj
+48c
+Pyll
+12.25
+prodh.
+”
+”
+120
+85
+”
+Gojani
+48d
+inp
+3.5
+”
+”
+121
+131
+”
+Mbi shpi te M. Gjonit
+49a
+Pyll
+12.5
+prodh.
+”
+”
+122
+133
+”
+Hija e kaleshit
+51a
+Pyll
+9
+prodh.
+”
+”
+123
+134
+”
+Nokaj
+52a
+inp
+6.5
+”
+”
+124
+135
+”
+Lak Dedaj
+52b
+Pyll
+21
+prodh.
+”
+”
+125
+136
+”
+Rruga e micojit
+53a
+Pyll
+13
+prodh.
+”
+”
+126
+137
+”
+Kodra F.Arrez
+53b
+Pyll
+31.75
+prodh.
+”
+”
+127
+138
+”
+Kodra micoji
+54a
+Pyll
+22
+prodh.
+”
+”
+128
+139
+”
+Kodra F.Arrez
+54c
+Pyll
+10.5
+prodh.
+”
+”
+129
+140
+”
+Kodra micoji
+54d
+Pyll
+14
+prodh.
+”
+”
+130
+141
+”
+Kodra micoji
+55b
+Pyll
+12
+prodh.
+”
+”
+131
+142
+”
+Kodra micoji
+55a
+Pyll
+6
+prodh.
+”
+”
+132
+143
+”
+Kodra micoj
+55d
+Pyll
+17.25
+prodh.
+”
+”
+133
+144
+”
+Kodra micoji
+56b
+Pyll
+3.5
+prodh.
+”
+”
+134
+145
+”
+Kodra micoji
+56c
+Pyll
+2
+prodh.
+”
+”
+135
+146
+”
+Kodra micoji
+56d
+Pyll
+2.75
+prodh.
+”
+”
+136
+147
+”
+Kalaja e bicajve
+56e
+Pyll
+1.5
+prodh.
+”
+”
+137
+148
+”
+Kodra e kalase
+56f
+Pyll
+6.5
+prodh
+”
+”
+138
+149
+”
+Ko dra e micojit
+56g
+inp
+4.5
+”
+”
+139
+150
+”
+Kodra e kalase
+57a
+Pyll
+2.5
+mbr.
+”
+”
+140
+151
+”
+Kalaja e micojit
+57b
+inp
+1.5
+”
+”
+141
+152
+”
+Kalaja e micojit
+57c
+Pyll
+0.75
+prodh.
+”
+”
+142
+153
+”
+Kodra micoji
+57d
+Pyll
+23
+prodh.
+”
+”
+143
+154
+”
+Kodra e micoj
+57f
+Pyll
+4.5
+prodh.
+”
+”
+144
+155
+”
+Kodra e bashkise
+57h
+Pyll
+3
+mbr.
+”
+”
+145
+156
+”
+Brraka e madhe
+58b
+Pyll
+15.25
+mbr.
+”
+”
+146
+157
+”
+Shpati qurkut
+59b
+Pyll
+14
+prodh.
+”
+”
+147
+158
+”
+Shpati qurkut
+59c
+Pyll
+5.5
+prodh.
+”
+”
+148
+159
+”
+Shpati qurkut
+60b
+inp
+2.5
+”
+”
+149
+160
+”
+Shpati qurkut
+60c
+Pyll
+4.5
+prodh.
+”
+”
+150
+161
+”
+Shpati qurkut
+60d
+Pyll
+17.5
+prodh.
+”
+”
+151
+162
+”
+Maja e hijes
+60e
+Pyll
+5.5
+prodh.
+”
+”
+152
+163
+”
+Lumardha
+60f
+Pyll
+6.5
+prodh.
+”
+”
+153
+164
+”
+Hamalla Elezit
+61a
+Pyll
+3.25
+prodh.
+”
+”
+154
+165
+”
+Kodra e kalase
+61c
+Pyll
+15
+prodh.
+”
+”
+155
+166
+”
+Kodra e varrezave
+62b
+Pyll
+15
+prodh.
+”
+”
+156
+167
+”
+Kodra e varrezave
+62c
+Pyll
+4.5
+prodh.
+”
+”
+157
+168
+”
+Varrezat Micoj
+63a
+Pyll
+11
+prodh.
+”
+”
+158
+169
+”
+Kodra e varrezave
+63b
+Pyll
+18.5
+prodh.
+”
+”
+159
+170
+”
+Qafe Qurku
+64b
+Pyll
+1.5
+prodh.
+”
+”
+160
+171
+”
+Qafe Qurku
+64c
+Pyll
+2
+prodh.
+”
+”
+161
+172
+”
+Qafe Qurku
+64d
+Pyll
+4
+prodh.
+”
+”
+162
+173
+”
+Qafe Qurku
+64f
+Pyll
+4
+mbr.
+”
+”
+163
+174
+”
+Kodra e geshtenjes
+64g
+Pyll
+12.5
+prodh.
+”
+”
+164
+175
+”
+Mbi vilcake
+65a
+Pyll
+15
+prodh.
+”
+”
+165
+176
+”
+Shpati i Ndue Ndreces
+65b
+inp
+4
+”
+”
+166
+177
+”
+Shpati i viles
+65c
+Pyll
+13
+prodh.
+”
+”
+167
+178
+”
+Shp tomshaj
+66a
+Pyll
+29.75
+prodh.
+”
+”
+168
+179
+”
+Shp ndue ndreces
+66b
+Pyll
+11.5
+prodh.
+”
+”
+169
+180
+”
+Shp tomshaj
+66c
+Pyll
+1.75
+prodh.
+”
+”
+170
+181
+”
+Kodra Nushaj
+67a
+Pyll
+0.25
+prodh.
+”
+”
+171
+182
+”
+Shpati i Ndue Ndreces
+67b
+Pyll
+20
+prodh.
+”
+”
+172
+183
+”
+Nushaj
+68b
+Pyll
+31.5
+mbr.
+”
+”
+173
+184
+”
+Kodra e lepurit
+69b
+Pyll
+8.5
+mbr.
+”
+”
+174
+185
+”
+Perroi i thate
+69c
+Pyll
+21
+prodh.
+”
+”
+175
+186
+”
+Perroi i thate
+70a
+Pyll
+13
+prodh.
+”
+”
+176
+187
+”
+Mbi dame
+70b
+Pyll
+7.75
+prodh.
+”
+”
+177
+188
+”
+Mbi dame
+71b
+Pyll
+8
+prodh.
+”
+”
+178
+189
+”
+Mbi dame
+71c
+Pyll
+4
+prodh.
+”
+”
+179
+190
+”
+Mrizet
+71d
+Pyll
+2.5
+prodh.
+”
+”
+180
+191
+”
+Mrizet
+71e
+Pyll
+6.5
+prodh.
+”
+”
+181
+192
+”
+Mrizet
+71f
+Pyll
+16.5
+prodh.
+”
+”
+182
+193
+”
+Mrizet
+72a
+Pyll
+4.5
+prodh.
+”
+”
+183
+194
+”
+Shpati i viles
+72b
+Pyll
+13.5
+prodh.
+”
+”
+184
+195
+”
+Mrizet
+72c
+Pyll
+15
+prodh.
+”
+”
+185
+196
+”
+Shpati nushaj
+73a
+Pyll
+5.75
+prodh.
+”
+”
+186
+197
+”
+Kodra Nushaj
+73b
+Pyll
+10.5
+prodh.
+”
+”
+187
+198
+”
+Shpati nushaj
+73c
+Pyll
+4.5
+prodh.
+”
+”
+188
+199
+”
+Shpati nushaj
+74a
+Pyll
+5.5
+prodh.
+”
+”
+189
+200
+”
+Koder Nushaj
+74b
+Pyll
+6
+prodh.
+”
+”
+190
+201
+”
+Repertitori
+75a
+Pyll
+12.5
+prodh.
+”
+”
+191
+202
+”
+Qarret e perndokes
+75b
+Pyll
+18.5
+prodh.
+”
+”
+192
+203
+”
+Repertitori
+76b
+Pyll
+16
+mbr.
+”
+”
+193
+204
+”
+Repertitori
+77b
+Pyll
+9.75
+mbr.
+”
+”
+194
+205
+”
+Lak kize
+77c
+Pyll
+13
+prodh.
+”
+”
+195
+206
+”
+Kodra e varrezave
+77d
+Pyll
+14
+prodh.
+”
+”
+Njësia e qeverisjes vendore: Bashkia Fushë-Arrëz Lidhja 1
+Numrat rendorë të pronave në listën e inventarit
+Fusha e përdorimit të pronës
+Lloji i transferimit
+49-93
+Pyll+Sip të tjera
+Në pronësi
+224-285
+Pyll+Sip të tjera
+Në pronësi
+71-85
+Pyll+Sip të tjera
+Në pronësi
+131-206
+Pyll+Sip të tjera
+Në pronësi
