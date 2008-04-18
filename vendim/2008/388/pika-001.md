@@ -1,0 +1,1 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin territorial dhe administrativ të njësisë së qeverisjes vendore, komuna Balldre, të qarkut të Lezhës, që do t’i transferohen në pronësi kësaj njësie.
