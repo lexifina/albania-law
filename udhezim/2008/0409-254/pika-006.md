@@ -1,0 +1,1 @@
+6. Në kontratat e qirasë të lidhura për objekte me sipërfaqe 200 m2 deri në 500 m2, para daljes së vendimit të Këshillit të Ministrave nr.162, datë 7.3.2007, nuk do të aplikohet ripërsëritje e afatit dhe shtesa mbi sipërfaqen e marrë me qira.

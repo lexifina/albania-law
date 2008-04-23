@@ -1,0 +1,1 @@
+10. Në zbatim të pikës 7 të kapitullit të I-rë të vendimit, afati i lidhjes së kontratave të qirasë për objektet me sipërfaqe deri në 500 m2 do të jetë deri në 5 vjet, ndërsa për objektet me sipërfaqe mbi 500 m2 deri në 20 vjet.

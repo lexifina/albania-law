@@ -1,0 +1,1 @@
+7. Për çdo kontratë qiraje ose enfiteoze që lidhet, para se të kryhet procedura e firmosjes së saj, qiramarrësi është i detyruar të kryejë pagesën e garancisë së kontratës, e cila është e barabartë me vlerën e tre muajve të detyrimit të qirasë.
