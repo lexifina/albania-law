@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 17 (shtatëmbëdhjetë) fletë, që përfundon me numrin rendor 834 (tetëqind e tridhjetë e katër), dhe lidhja 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
