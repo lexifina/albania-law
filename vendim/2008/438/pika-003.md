@@ -1,0 +1,1 @@
+3. Lejimin e kalimit transit të 1 (një) konvoji ushtarak italian, të përbërë nga 5 (pesë) automjete dhe 10 (dhjetë) trupa, përmes territorit të Republikës së Shqipërisë, në itinerarin Porti i Durrësit-Qafë-Thanë, në datën 17 prill 2008.

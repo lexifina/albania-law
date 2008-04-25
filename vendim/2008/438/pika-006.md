@@ -1,0 +1,1 @@
+6. Lejimin e kalimit transit të 1 (një) automjeti ushtarak slloven, me personel, 2 (dy) trupa ushtarake sllovene, i ngarkuar me armë, mjete dhe pajisje ushtarake, përmes territorit të Republikës së Shqipërisë, në itinerarin Qafë-Thanë-Porti i Durrësit, në datat 23-25 prill 2008.
