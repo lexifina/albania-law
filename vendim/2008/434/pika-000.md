@@ -1,0 +1,2 @@
+Miratimin e listës me numrat dhe titujt e standardeve të harmonizuara shqiptare, që i bashkëlidhen këtij vendimi, të cilat do të shërbejnë si dokumente reference, për prezumimin e konformitetit të enëve të thjeshta nën presion, sipas kërkesave thelbësore, të përcaktuara në vendimin nr.889, datë 19.12.2007 të Këshillit të Ministrave “Për kërkesat thelbësore dhe vlerësimin e konformitetit të enëve të thjeshta nën presion”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
