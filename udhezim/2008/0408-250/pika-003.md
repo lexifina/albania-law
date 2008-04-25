@@ -1,0 +1,11 @@
+3. Për trajtimin e punonjësve sipas pikave 1, 2, 3, 4, e 6 të vendimit të Këshillit të Ministrave nr.261, datë 27.2.2008 për periudhën njëvjeçare të pagesës procedohet:
+- Pagesa e punonjësve, që përfitojnë sipas pikës 1 dhe 3, fillon nga data kur punonjësit dalin të papunë dhe realizohet nga zyra përkatëse e punësimit vetëm pas paraqitjes së listave të punonjësve nga “Armo” sh.a. Tiranë dhe “Albpetrol” sh.a. Patos. Në këtë pagesë nuk përfshihen shtesat mbi pagë.
+- Në zbatim të pikës 2, personat përfitues kanë të drejtën e trajtimit me pagesë papunësie pas përfundimit të trajtimit sipas këtij vendimi.
+Në zbatim të pikës 4, çdo person është i detyruar të paraqesë vërtetim nga dega e tatimeve të rrethit ku ka vendbanimin. Personat që vetëpunësohen ose punësohen gjatë periudhës së trajtimit sipas këtij vendimi duhet të bëjnë deklaratë në zyrën e punësimit për të ndërprerë pagesën; në të kundërt detyrohen të zhdëmtojnë shumën e përfituar padrejtësisht.
+- Për të përfituar të drejtën e trajtimit sipas kritereve të këtij vendimi, punonjësit që dalin të papunë duhet të paraqesin në zyrën përkatëse të punësimit këto dokumente:
+- Librezën e punës, ku të shkruhet shkaku i ndërprerjes: “Dalë i papunë nga ristrukturimi i shoqërive “Armo” sh.a. Tiranë ose “Albpetrol” sh.a. Patos, sipas vendimit të Këshillit të Ministrave nr.261, datë 27.2.2008;
+Libreza e punës të jetë e firmosur dhe vulosur nga ish-punëdhënësi, drejtori i drejtorisë së përgjithshme/rajonit/zonës/filialit të shoqërive “Armo” sh.a. Tiranë ose “Albpetrol” sh.a. Patos, pranë të cilit ka qenë i punësuar punonjësi përkatës.
+-Vërtetim nga organet tatimore të rrethit, ku të shënohet nëse punonjësi kryen ose jo aktivitet privat;
+- Certifikatën e gjendjes familjare.
+- Pagesat për punonjësit realizohen me listëpagesa të veçanta në datat që përcaktohen nga zyra e punësimit, e cila nga ana e saj harton dhe listëpagesat e veçanta për çdo periudhë. Një kopje të këtyre listëpagesave zyra e punësimit ia dërgon drejtorisë së përgjithshme/rajonit/zonës/filialit të shoqërive “Armo” sh.a. Tiranë ose “Albpetrol” sh.a. Patos jo më vonë se 5 ditë të punueshme përpara datës së caktuar për pagesën e punonjësve.
+- Në rast mosparaqitjeje të përfituesit në datën e caktuar, paga e tij arkëtohet jo më vonë se brenda 5 ditëve, duke filluar nga dita e kryerjes në fakt të pagesave.
