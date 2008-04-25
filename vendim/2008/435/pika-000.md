@@ -1,0 +1,2 @@
+Miratimin e listës, që i bashkëlidhen këtij vendimi, me numrat dhe titujt e standardeve të harmonizuara shqiptare, të cilat do të shërbejnë si dokumente reference, për prezumimin e konformitetit të lodrave, sipas kërkesave thelbësore, të përcaktuara në vendimin nr.888, datë 19.12.2007 të Këshillit të Ministrave “Për kërkesat thelbësore dhe vlerësimin e konformitetit të lodrave”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
