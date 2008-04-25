@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “ROT” (rehabilitim, operim, transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoriteti kontraktues, dhe shoqërisë “Ansara” sh.p.k., për ndërtimin e hidrocentralit “Labinot Mal-Elbasan”, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
