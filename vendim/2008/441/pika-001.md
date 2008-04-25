@@ -1,0 +1,2 @@
+1. Lejimin e kalimit transit të një kontingjenti ushtarak italian, të përbërë nga 26 (njëzet e gjashtë) trupa të armatosura dhe 13 (trembëdhjetë) automjete, përmes territorit të Republikës së Shqipërisë, në itinerarin Porti i Durrësit-Qafë-Thanë, në datat 16-17 prill 2008.
+Pika e hyrjes në territorin e Republikës së Shqipërisë është Porti i Durrësit dhe pika e daljes është pika e kalimit të kufirit Qafë-Thanë.
