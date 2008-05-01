@@ -6,7 +6,7 @@ Për miratimin e rregullave të vlerësimit DHE të dhënies
 
 së koncesioneve
 
-(Ndryshuar me VKM nr. 104, datë 28.2.2007; nr. 87, datë 16.1.2008)
+(Ndryshuar me VKM nr. 104, datë 28.2.2007; nr. 87, datë 16.1.2008; nr. 544, datë 1.5.2008)
 
 (i përditësuar)
 
@@ -236,7 +236,7 @@ KREU V
 
 UDHËZIME PËR MËNYRËN E ZBATIMIT TË PROCEDURAVE KONKURRUESE
 
-(Ndryshuar shkronja ‘’g’’ e pikës 1dhe paragrafi i pestë i pikës 2, shfuqizuar shkronja ‘’b’’ e ‘’d’’ e pikës 1, fjali në paragrafin e tretë të shkronjës “b” të pikës 2 me VKM nr. 87, datë 16.1.2008)
+(Ndryshuar shkronja ‘’g’’ e pikës 1dhe paragrafi i pestë i pikës 2, shfuqizuar shkronja ‘’b’’ e ‘’d’’ e pikës 1, fjali në paragrafin e tretë të shkronjës “b” të pikës 2 me VKM nr. 87, datë 16.1.2008; shtuar paragraf në fund të nënndarjes “i” të pikës 1 me VKM nr. 544, datë 1.5.2008)
 
 1. Informacion i përgjithshëm
 
@@ -289,6 +289,10 @@ g) Formulari i publikimit të termave kryesorë të kontratës së koncesionit. 
 gj) Formulari i ankesës. Ky formular i shërben ofertuesve për dorëzimin e ankesës administrative, lidhur me veprimet ose mosveprimet e autoritetit kontraktues. Formulari i ankesës përmban udhëzimet e nevojshme për plotësimin dhe nënshkrimin e tij dhe duhet të jetë i publikur në faqen e internetit të institucionit dhe të APP-së.   
 
 i) Kushtet e përgjithshme dhe të veçanta të kontratës. Ky dokument përkufizon tërësinë e punëve, shërbimeve apo projektit të koncesionit, të drejtat dhe detyrimet ndërmjet autoritetit kontraktues dhe kontraktuesit, si dhe detyrimet që lidhen me ekzekutimin, mbikëqyrjen dhe administrimin e kontratës së koncesionit.
+
+Në rastin kur objekti i kontratës së koncesionit është ndërtimi i hidrocentraleve, kontrata e përdorur do të jetë e formës “BOT”, që do të thotë ndërtim, operim dhe transferim i së drejtës së pronësisë dhe operimit, në përfundim të kontratës së koncesionit. 
+
+Me kërkesë të koncesionarëve, autoriteti kontraktor ka të drejtë t’i negociojë kontratat e lidhura të koncesionit, për reflektimin e konceptit BOT, të parashikuar në paragrafin e mësipërm.
 
 2. Informacione specifike
 
