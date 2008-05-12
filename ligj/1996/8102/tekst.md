@@ -4,13 +4,13 @@ Nr. 8102, datë 28.3.1996
 
 PËR KUADRIN RREGULLATOR TË SEKTORIT TË FURNIZIMIT ME UJË DHE TË LARGIMIT DHE PËRPUNIMIT TË UJËRAVE TË NDOTURA
 
-(Ndryshuar me ligjin nr. 9352, datë 3.3.2005)
+(Ndryshuar me ligjet; nr. 9352, datë 3.3.2005; nr. 9915, datë 12.5.2008)
 
 (i përditësuar)
 
-Në mbështetje të nenit 16 të ligjit nr.7491, datë 29.4.1991 “Për dispozitat kryesore kushtetuese”, me propozimin e Këshillit të Ministrave,
+Në mbështetje të nenit 16 të ligjit nr. 7491, datë 29.4.1991 “Për dispozitat kryesore kushtetuese”, me propozimin e Këshillit të Ministrave,
 
-KUVENDI POPULLOR
+Kuvendi 
 
 I REPUBLIKËS SË SHQIPËRISË
 
@@ -32,13 +32,15 @@ Neni 2
 
 Përkufizime
 
+(Ndryshuar pika 4, shtuar pikat 12 dhe 13 me ligjin nr. 9915, datë 12.5.2008)
+
 1) Ligj është ligji për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura (ujësjellës, kanalizime).
 
 2) Ent Rregullator është institucioni i rregullimit të sektorit të furnizimit me ujë, të largimit dhe përpunimit të ujërave të ndotura.
 
 3) Komisioni do të kuptohet si Komisioni Kombëtar i Rregullimit që udhëheq Entin Rregullator.
 
-4) Ministri është Ministria e Ndërtimit dhe Turizmit.
+4) “Ministria” është ministria përgjegjëse, që drejton politikat në fushën e furnizimit me ujë, kanalizimet e ujërave të zeza dhe trajtimin e tyre.
 
 5) Rezerva ujore janë të gjitha burimet ujore sipërfaqësore dhe nëntokësore që gjenden brenda kufijve të Republikës së Shqipërisë.
 
@@ -53,6 +55,10 @@ Përkufizime
 10) Shpërndarja e ujit ka të bëjë me të gjitha veprimtaritë me anë të të cilave uji pompohet, transportohet dhe shpërndahet nga një vend në tjetrin për përfitim publik.
 
 11) Trajtimi i ujit ka të bëjë me të gjitha metodat dhe mjetet, qofshin këto kimike, mekanike, elektrike etj., që përdoren për pastrimin apo ndryshimin e gjendjes së ujit për përfitim publik.
+
+12. “Operatorë” janë subjektet e licencuara, që operojnë në sistemet e furnizimit me ujë, kanalizimeve të ujërave të zeza dhe trajtimit të tyre.
+
+13. “Pagesa të rregullimit” janë pagesa vjetore, të vendosura nga Enti Rregullator, të detyrueshme për operatorët.
 
 Neni 3
 
@@ -102,7 +108,7 @@ b) do të përbëhet nga tre anëtarë nga të cilët një do të caktohet nga P
 
 (7) Një person nuk mund të jetë anëtar i komisionit nëse:
 
-a) është deputet i Kuvendit Popullor apo ka një post tjetër, të zgjedhur apo i emëruar, në pushtetin qendror apo lokal;
+a) është deputet i Kuvendit apo ka një post tjetër, të zgjedhur apo i emëruar, në pushtetin qendror apo lokal;
 
 b) ka lidhje të afërta farefisnore, martesore me ata anëtarë të Këshillit të Ministrave pozita e të cilëve mund të krijojë konflikt interesash për anëtarin e Komisionit;
 
@@ -122,7 +128,7 @@ a) do të ketë probleme të paaftësisë mendore apo gjendja e tij fizike e pen
 
 b) dënohet për mashtrim, korrupsion, vjedhje apo krime të tjera të kryera gjatë mandatit të tij;
 
-c) bëhet ose kërkon të bëhet punonjës i administratës shtetërore apo deputet i Kuvendit Popullor apo ndonjë pozitë tjetër e zgjedhur apo e emëruar me përjashtim të anëtarësisë në shoqata profesionale apo politike dhe në detyra që u përkasin këtyre të fundit;
+c) bëhet ose kërkon të bëhet punonjës i administratës shtetërore apo deputet i Kuvendit apo ndonjë pozitë tjetër e zgjedhur apo e emëruar me përjashtim të anëtarësisë në shoqata profesionale apo politike dhe në detyra që u përkasin këtyre të fundit;
 
 d) pa ndonjë shkak të arsyeshëm ka refuzuar të kryejë apo nuk kryen detyrën ose është i paaftë për të vepruar për një periudhë prej gjashtë (6) muajsh apo më tepër;
 
@@ -160,7 +166,9 @@ Neni 9
 
 Struktura organizative e Entit Rregullator
 
-(1) Struktura organizative e Entit Rregullator do të caktohet nga Këshilli i Ministrave. Komisioni ka të drejta të plota për të zgjedhur, caktuar, ngritur në detyrë, përfshirë edhe të drejtën e heqjes dhe të ricaktimit në detyrë, për të përcaktuar detyrat dhe pagat e punonjësve që përbëjnë stafin profesionist për kryerjen e funksioneve të Entit Rregullator.
+(Ndryshuar pika 1me ligjin nr. 9915, datë 12.5.2008)
+
+(1) Struktura, organika dhe kategorizimi i pozicioneve të punës të Entit Rregullator miratohen me vendim të Kuvendit. Komisioni ka të drejta për të zgjedhur, caktuar, ngritur në detyrë, përfshirë edhe të drejtën e heqjes dhe të ricaktimit në detyrë, si dhe për të përcaktuar detyrat e punonjësve të stafit profesionist, për kryerjen e funksioneve të Entit Rregullator.
 
 (2) Komisioni përcakton rregullat e punësimit të stafit të tij profesionist, në përputhje me legjislacionin në fuqi, si dhe përcakton organizimin e këtij stafi profesionist.
 
@@ -168,15 +176,15 @@ Neni 10
 
 Financimi i Entit Rregullator
 
-(Ndryshuar shkronja “b” e pikës 1 me ligjin nr. 9352, datë 3.3.2005)
+(Ndryshuar shkronja “b” e pikës 1 me ligjin nr. 9352, datë 3.3.2005; ndryshuar shkronja “a”, shfuqizuar shkronja “b” e pikës 1 me ligjin nr. 9915, datë 12.5.2008) 
 
 (1) Operacionet e Entit Rregullator do të financohen nga:
 
-a) një fond fillestar nga Qeveria në një sasi të përcaktuar me një urdhër të Këshillit të Ministrave, do të caktohet me emërimin e Kryetarit sipas pikës 4/c të nenit 4 të këtij ligji;
+a) burimet e financimit të Entit Rregullator përbëhen nga pagesat e rregullimit, të vendosura nga ajo vetë për operatorët, që operojnë në sistemet e furnizimit me ujë, të kanalizimeve të ujërave të zeza dhe trajtimit të tyre, nga pagesat e licencave dhe nga donacione të ndryshme;
 
-b) tarifat e caktuara nga Enti Rregullator, të detyrueshme për të licencuarit, për efekt të verifikimit të zbatueshmërisë së dokumenteve standarde të strukturës së tarifës së shërbimit, si dhe tarifa të tjera për licenca të dhëna nga Komisioni. 
+b) Shfuqizuar. 
 
-(2) Fondet e Entit Rregullator do të administrohen nëpërmjet llogarive të hapura në banka shqiptare të miratuara nga Qeveria e Shqipërisë.
+(2) Fondet e Entit Rregullator do të administrohen nëpërmjet llogarive të hapura në banka shqiptare të miratuara nga Këshilli i Ministrave të Shqipërisë.
 
 Neni 11
 
@@ -192,15 +200,19 @@ KREU III
 
 RREGULLIMI I SEKTORIT TË FURNIZIMIT ME UJË
 
-Neni 12
+Neni 12 
 
-Kompetencat dhe detyrat e përgjithshme të Qeverisë në lidhje me furnizimin me ujë, largimin dhe përpunimin e ujërave të ndotura
+Përgjegjësia dhe kompetencat e Këshillit të Ministrave
 
-(1) Qeveria do të ketë kompetencën për nxjerrjen e direktivave për politikën në sektorin e furnizimit me ujë.
+(Ndryshuar me ligjin nr. 9915, datë 12.5.2008) 
+
+Këshilli i Ministrave miraton politikat dhe strategjitë kombëtare në sektorin e furnizimit me ujë dhe të largimit e të përpunimit të ujërave të ndotura.
 
 Neni 13
 
 Detyra të përgjithshme të Entit Rregullator
+
+(Shtuar shkronja “h” me ligjin nr. 9915, datë 12.5.2008) 
 
 (1) Në ushtrimin e funksioneve dhe kompetencave sipas këtij ligji, Enti Rregullator do të veprojë në mënyrë të tillë që:
 
@@ -218,27 +230,29 @@ e) aty ku është e mundur dhe efikase, të nxisë konkurrencën;
 
 f) të arrijë transparencën në veprimtaritë e tij;
 
-g) të gjejë një ekuilibër të drejtë midis interesave të konsumatorëve, Qeverisë, publikut, investitorëve dhe pjesëmarrësve në sektorin e furnizimit me ujë.
+g) të gjejë një ekuilibër të drejtë midis interesave të konsumatorëve, Këshilli i Ministrave, publikut, investitorëve dhe pjesëmarrësve në sektorin e furnizimit me ujë.
+
+h) të marrë pjesë si këshillues në hartimin e strategjive dhe të politikave kombëtare në sektorin e furnizimit me ujë dhe të largimit e përpunimit të ujërave të ndotura.
 
 Neni 14
 
 Kompetenca të përgjithshme të komisionit
 
-(Ndryshuar shkronjat "b", "c" dhe "f" me ligjin nr. 9352, datë 3.3.2005)
+(Ndryshuar shkronjat "b", "c" dhe "f" me ligjin nr. 9352, datë 3.3.2005; ndryshuar shkronjat “b”, “c” dhe “f” me ligjin nr. 9915, datë 12.5.2008) 
 
 (1) Për të përmbushur mandatin e tij sipas këtij ligji, komisioni do të ketë kompetencat e mëposhtme:
 
 a) të japë licensa për entet komerciale që janë të angazhuara në kryerjen e shërbimit të furnizimit me ujë në të mirë të popullatës;
 
-b) të miratojë çmimet apo tarifat dhe afatet ose kushtet e shërbimit të kryer nga të licencuarit ose, kur është e përshtatshme, nga entet e palicensuara, që sigurojnë ujë për konsum publik, në rastet kur sistemet e ujësjellës-kanalizimeve nuk kanë kaluar në administrim ose pronësi të njësive të qeverisjes vendore;
+b) të miratojë çmimet dhe tarifat e shitjes së ujit, me shumicë dhe pakicë, tarifat për ujërat e përdorura dhe tarifat e trajtimit të tyre, afatet dhe kushtet e shërbimit, të ofruara nga operatorët, që sigurojnë ujë për konsum publik, edhe në rastet kur sistemet e ujësjellës-kanalizimeve kanë kaluar në administrim ose në pronësi të njësive të qeverisjes vendore;
 
-c) të caktojë procedurat dhe standardet për programet e investimeve dhe për shitjen e aseteve nga të licencuarit në sektorin e ujësjellësve dhe të kanalizimeve, në rastet kur ato nuk kanë kaluar në administrim ose pronësi të njësive të qeverisjes vendore;
+c) të caktojë standardet për programet e investimeve dhe për shitjen e aseteve nga të licencuarit në sektorin e ujësjellës-kanalizimeve, edhe në rastet kur sistemet e ujësjellës-kanalizimeve kanë kaluar në administrim ose në pronësi të njësive të qeverisjes vendore;
 
 d) të krijojë dhe të garantojë zbatimin e standardeve të punës për të licensuarit;
 
 e) të inkurajojë standarde dhe rregulla uniforme për të gjithë sektorin;
 
-f) në bashkërendim me njësitë e qeverisjes vendore, të përgatisë raporte për Qeverinë për gjendjen e sektorit dhe të grumbullojë të dhënat përkatëse nga të licencuarit;
+f) të përgatisë raporte për gjendjen e sektorit për Këshillin e Ministrave dhe të grumbullojë informacionin përkatës nga të licencuarit;
 
 g) të caktojë tarifat e aplikueshme për licencat;
 
@@ -250,9 +264,9 @@ j) të kryejë çdo funksion tjetër që vjen si pasojë e funksioneve të mësi
 
 Neni 15
 
-(Ndryshuar pika 1 me ligjin nr. 9352, datë 3.3.2005)
+(Ndryshuar pika 1 me ligjin nr. 9352, datë 3.3.2005; ndryshuar pika 1 me ligjin nr. 9915, datë 12.5.2008) 
 
-(1) Personat fizikë apo juridikë të palicencuar ose njësitë e qeverisjes vendore, që nuk kanë në pronësi sisteme të ujësjellës-kanalizimeve, nuk mund të merren me veprimtarinë e grumbullimit, shpërndarjes, largimit dhe trajtimit të ujit për përfitim publik.
+(1) Personat fizikë apo juridikë, që merren me veprimtarinë e grumbullimit, të shpërndarjes, largimit dhe trajtimit të ujit, për përfitim publik, duhet të pajisen me licencë nga ERRU-ja.
 
 (2) Sa herë që ka mosmarrëveshje apo mospajtim mendimi, për faktin nëse një person është duke kryer apo jo funksionet e përmendura në pikën 1 të këtij neni, çështja do t’i kalohet për shqyrtim komisionit dhe urdhri i tij është i formës së prerë.
 
@@ -328,9 +342,9 @@ Neni 21
 
 Standardet dhe tarifat
 
-(Ndryshuar pika 1 me ligjin nr. 9352, datë 3.3.2005)
+(Ndryshuar pika 1 me ligjin nr. 9352, datë 3.3.2005; ndryshuar pika 1 me ligjin nr. 9915, datë 12.5.2008) 
 
-(1) Enti Rregullator, nëpërmjet kuadrit të plotë të rregullave të miratuara, përcakton procedurat dhe standardet minimale kombëtare, në bazën e të cilave njësitë e qeverisjes vendore janë të detyruara të përcaktojnë, të miratojnë, të ndryshojnë apo të mos miratojnë çmimet a tarifat, afatet dhe kushtet e shërbimit për të gjitha shitjet e ujit apo shërbimet e kryera nga i licencuari, sipas këtij ligji.
+(1) Enti Rregullator, nëpërmjet kuadrit të plotë të rregullave të miratuara, përcakton procedurat dhe standardet minimale kombëtare për vendosjen e tarifave, si dhe afatet e kushtet e shërbimit për çdo veprimtari të ushtruar nga operatorët në sektorin e furnizimit me ujë dhe të largimit e përpunimit të ujërave të ndotura. 
 
 (2) Ndërmjet standardeve të tjera që Enti Rregullator mund të vendosë sipas pikës 1 të këtij neni, çmimet për trajtimin dhe shpërndarjen e ujit:
 
@@ -342,7 +356,7 @@ c) do të inkurajojnë efikasitetin në operacionet e brendshme, duke bërë të
 
 d) do të inkurajojnë efikasitetin ekonomik brenda sektorit, duke dhënë sinjale të sakta të çmimeve në lidhje me ofertën e tepërt apo të paktët;
 
-e) do të pasqyrojnë hapur dhe qartë subvencionet e dhëna nga Qeveria;
+e) do të pasqyrojnë hapur dhe qartë subvencionet e dhëna nga Këshilli i Ministrave;
 
 f) do të pasqyrojnë ndryshimet në kosto dhe në aspekte të tjera midis klasave të klientëve dhe llojeve të shërbimit, në varësi të subvencioneve që do të aplikohen;
 
@@ -352,13 +366,15 @@ Neni 22
 
 Procedurat për vendosjen e tarifave
 
-(Ndryshuar me ligjin nr. 9352, datë 3.3.2005)
+(Ndryshuar me ligjin nr. 9352, datë 3.3.2005; ndryshuar pikat 1 dhe 2, shtuar pika 4 me ligjin nr. 9915, datë 12.5.2008) 
 
-1. Enti Rregullator të përcaktojë metodologjinë e përllogaritjes së tarifave të shitjes, me shumicë e pakicë, të ujit dhe të standardeve nga njësitë e qeverisjes vendore, që kanë në pronësi sistemet e ujësjellës-kanalizimeve.
+1. Enti Rregullator përcakton metodologjinë e përllogaritjes së tarifave të shitjes, me shumicë dhe pakicë, të ujit për konsum publik, tarifat për ujërat e përdorura dhe trajtimit të tyre, duke u mbështetur në dispozitat e këtij ligji.
 
-2. Njësitë e qeverisjes vendore të vendosin tarifat, me shumicë dhe pakicë, në bazë të metodologjisë së përllogaritjes së tarifave, të miratuara nga Enti Rregullator.
+2. Procedura për vendosjen e tarifave fillon me propozimin e bërë nga i licencuari, dhënien e mendimit nga njësitë e qeverisjes vendore dhe përfundon me miratimin përfundimtar të tarifave nga Enti Rregullator.
 
 3. Asnjë tarifë apo pjesë e saj nuk mund të ndryshohet më shumë se një herë në vit.
+
+4. Enti Rregullator përcakton, për çdo operator, pagesën e rregullimit, e njofton operatorin për detyrimin që duhet të paguajë dhe lidh kontratën me të brenda 30 ditëve nga njoftimi. Në rast se operatori nuk zbaton detyrimet kontraktuale, ndaj tij zbatohen sanksione, në përputhje me pikën 1 të nenit 32 të këtij ligji.
 
 KREU V
 
@@ -368,7 +384,7 @@ Neni 23
 
 Garantimi i zbatimit të ligjit
 
-(Shtuar pika 5 me ligjin nr. 9352, datë 3.3.2005)
+(Shtuar pika 5 me ligjin nr. 9352, datë 3.3.2005; ndryshuar pika 5 me ligjin nr. 9915, datë 12.5.2008) 
 
 (1) Në ato raste kur Enti Rregullator mendon se një i licencuar është në kundërshtim me kushtet e licencës së tij apo me dispozitat e këtij ligji, atëherë komisioni do të nxjerrë një urdhër për të garantuar zbatimin e tyre.
 
@@ -394,13 +410,7 @@ b) do të botojë urdhrin në atë formë që e sheh të përshtatshme për të 
 
 c) do të fillojë veprimet administrative në bazë të urdhrit.
 
-5). Njësitë e qeverisjes vendore, pronare të sistemeve të ujësjellës-kanalizimeve, janë të detyruara që brenda 10 ditëve nga marrja e vendimeve të tyre në fushën e furnizimit me ujë dhe të largimit e përpunimit të ujërave të ndotura, të njoftojnë Entin Rregullator, duke paraqitur dokumentacionin e plotë për marrjen e vendimit, sipas përcaktimit të bërë në metodologjinë për caktimin e tarifave.
-
-Enti Rregullator, kur vëren se vendimi i këshillit të bashkisë/komunës është i papajtueshëm me metodologjinë e caktimit të tarifave dhe me standardet e shërbimit, ka të drejtë ta kthejë vendimin, të shoqëruar me vërejtje të argumentuara, për rishqyrtim në këshillin përkatës. Nëse vërehen papajtueshmëri edhe në aktin e rishqyrtuar, Enti Rregullator i drejtohet gjykatës, nën juridiksionin e së cilës është organi i qeverisjes vendore, duke kërkuar pavlefshmërinë e këtij akti.
-
-Enti Rregullator ka të drejtë ta kthejë vetëm një herë vendimin e këshillit përkatës për rishqyrtim.
-
-Në rast se Enti Rregullator nuk kthen përgjigje brenda 20 ditëve nga data e njoftimit, vendimi vlerësohet i miratuar.
+5). Njësitë e qeverisjes vendore, pronare të sistemeve të furnizimit me ujë dhe të largimit e përpunimit të ujërave të ndotura, kanë të drejtë të kontrollojnë subjektet e licencuara për zbatimin e këtij ligji, për respektimin prej tyre të kushteve të licencës dhe përdorimin e tarifave të ujit për konsum publik, të vendosura nga Enti Rregullator.
 
 Neni 24
 
@@ -412,6 +422,8 @@ Neni 25
 
 Standardet dhe kushtet teknike
 
+(Ndryshuar shkronja “e”, shtuar shkronja “g” me ligjin nr. 9915, datë 12.5.2008) 
+
 (1) Enti Rregullator do të inkurajojë, me të gjitha mënyrat që e konsideron të përshtatshme, krijimin e standardeve të punës për të gjithë sektorin dhe kushtet teknike, të cilat do të zbatohen njësoj në të gjithë Shqipërinë. Në këto standarde dhe rregulla do të përfshihen:
 
 a) kriteret e planifikimit të sigurisë, garancisë dhe efektivitetin e kostos së sistemit;
@@ -422,9 +434,11 @@ c) praktikat dhe procedurat për shfrytëzimin e sistemit;
 
 d) afatet e mirëmbajtjes;
 
-e) standardizimin dhe specifikimet e pajisjeve;
+e) standardizimin dhe specifikimet e materialeve e të pajisjeve;
 
 f) standardet shëndetësore.
+
+g) mbrojtja e mjedisit.
 
 KREU VI
 
@@ -436,7 +450,7 @@ Kuadri rregullator
 
 (1) Rregulloret e hartuara nga Enti Rregullator duhet të botohen dhe do të kenë fuqi detyruese për zbatim. Kuadri rregullator mund të plotësohet herë pas here, ashtu siç e sheh të nevojshme Komisioni.
 
-(2) Çdo vit komisioni, duke filluar pas vitit të parë të krijimit, do të dorëzojë në Qeveri një raport që përshkruan me hollësi përparimet që komisioni ka bërë në finalizimin e kuadrit rregullator dhe në detyrat e tjera të kërkuara nga ky ligj.
+(2) Çdo vit komisioni, duke filluar pas vitit të parë të krijimit, do të dorëzojë në Këshillin e Ministrave një raport që përshkruan me hollësi përparimet që komisioni ka bërë në finalizimin e kuadrit rregullator dhe në detyrat e tjera të kërkuara nga ky ligj.
 
 Neni 27
 
@@ -466,11 +480,13 @@ Neni 29
 
 Procedurat
 
-(1) Brenda një (1) viti nga hyrja në fuqi e këtij ligji, Enti Rregullator do të ketë përfunduar rregullat proceduriale që komisioni do të përdorë për kryerjen e funksioneve që i jep ky ligj. Këto rregulla do të kërkojnë si minimum:
+(Ndryshuar pika 1 me ligjin nr. 9915, datë 12.5.2008) 
+
+(1) Enti Rregullator miraton rregullat procedurale, që do të përdorë për kryerjen e funksioneve që i jep ky ligj. Këto rregulla përmbajnë:
 
 a) njoftim publik për (i) synimin e komisionit për të filluar hetime apo për të nxjerrë rregulla dhe (ii) skedimin e aplikimeve, ankesave dhe kërkesave të tjera që i janë dorëzuar komisionit;
 
-b) mundësinë për koment publik, duke përfshirë edhe koment nga ana e Qeverisë.
+b) mundësinë për koment publik, duke përfshirë edhe koment nga ana e Këshillit të Ministrave.
 
 (2) Sa herë që kryetari e sheh të nevojshme dhe në bazë të udhëzimeve të tij, komisioni do të organizojë seanca publike.
 
@@ -478,21 +494,25 @@ Neni 30
 
 Ankesat
 
+(Shtuar paragraf me ligjin nr. 9915, datë 12.5.2008) 
+
 Çdo person i interesuar mund t’i dërgojë komisionit një ankesë me shkrim për një të licencuar, për të cilin mendon se ka shkelur dispozitat e këtij ligji apo të ndonjë urdhri, rregulli, licence apo udhëzimi të nxjerrë sipas këtij ligji. Komisioni do të njoftojë menjëherë të licencuarin me anë të një njoftimi me shkrim për ankesën dhe do t’i lërë atij mundësinë për t’iu përgjigjur me shkrim.
+
+Procedurat e ankimit bëhen në përputhje me Kodin e Procedurave Administrative.
 
 Neni 31
 
 Mbledhja e raporteve dhe e informacionit
 
-(1) Enti duhet t’i paraqesë Qeverisë dhe Kuvendit Popullor:
+(1) Enti duhet t’i paraqesë Këshillit të Ministrave dhe Kuvendit:
 
 a) menjëherë pas përfundimit të çdo viti fiskal, por jo më vonë se dita e fundit e janarit, materialet e mëposhtme:
 
 (i) një raport vjetor ku të përshkruhet puna njëvjeçare e Entit dhe parashikimet për zhvillimet e vitit pasardhës;
 
-(ii) një raport sektori mbi gjendjen e sektorit të ujësjellës-kanalizimeve në Shqipëri, duke përfshirë, por jo e kufizuar me 1) pronësinë, shfrytëzimin dhe kontrollin e ujësjellësave; 2) kapacitetin aktual të trajtimit dhe shpërndarjes si dhe parashikimin për kërkesën për ujë në të ardhmen; 3) koston e shërbimit të furnizimit me ujë; 4) lidhjen e këtyre çështjeve me standardin e jetesës në Shqipëri; 5) rekomandime për veprime të nevojshme për t’u ndërmarrë nga Qeveria.
+(ii) një raport sektori mbi gjendjen e sektorit të ujësjellës-kanalizimeve në Shqipëri, duke përfshirë, por jo e kufizuar me 1) pronësinë, shfrytëzimin dhe kontrollin e ujësjellësave; 2) kapacitetin aktual të trajtimit dhe shpërndarjes si dhe parashikimin për kërkesën për ujë në të ardhmen; 3) koston e shërbimit të furnizimit me ujë; 4) lidhjen e këtyre çështjeve me standardin e jetesës në Shqipëri; 5) rekomandime për veprime të nevojshme për t’u ndërmarrë nga Këshilli i Ministrave.
 
-b) sa herë që kërkohet nga Qeveria apo Kuvendi Popullor:
+b) sa herë që kërkohet nga Këshilli i Ministrave apo Kuvendi:
 
 (i) çdo formular, pasqyrë, llogaritje, statistikë apo informacion tjetër që ka lidhje me çdo çështje që është nën kontrollin e komisionit;
 
@@ -507,6 +527,28 @@ Neni 32
 Skedimi publik
 
 (1) Dokumentacioni i skeduar i Entit do të jetë i hapur për t’u inspektuar nga publiku gjatë një periudhe të caktuar brenda orarit zyrtar. Këto skeda do të përfshijnë dokumentacionin përkatës, i cili do të ruhet dhe indeksohet sipas udhëzimeve, procedurave dhe standardeve të Entit. I gjithë ky proces do t’i nështrohet çfarëdo procedure për ruajtje sekreti që Komisioni mund të caktojë.
+
+Neni 32/1 
+
+Kundërvajtjet administrative
+
+                                  (Shtuar me ligjin nr. 9915, datë 12.5.2008) 
+
+1. Shkeljet e mëposhtme, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen nga Enti Rregullator si më poshtë:
+
+a) mospagimi i detyrimeve financiare ndaj Entit Rregullator, brenda afateve kohore të përcaktuara nga ky ent, dënohet me gjobë deri në shumën l00 000 lekë;
+
+b) moszbatimi i vendimeve të Entit Rregullator për tarifat dënohet me gjobë deri në shumën 100 000 lekë;
+
+c) moszbatimi i kushteve të licencës dënohet me gjobë në shumën 50 000 lekë;
+
+ç) ushtrimi i veprimtarisë pa licencë dënohet me gjobë në shumën 300 000 lekë.
+
+2. Gjoba është titull ekzekutiv që derdhet në Buxhetin e Shtetit.
+
+3. Ngarkohen zyrat e përmbarimit për ekzekutimin e tyre.
+
+4. Shqyrtimi i kundërvajtjeve administrative, ankimi dhe ekzekutimi i vendimeve bëhen në përputhje me Kodin e Procedurës Civile.
 
 Neni 33
 
