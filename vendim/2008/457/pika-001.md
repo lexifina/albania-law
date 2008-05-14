@@ -1,0 +1,1 @@
+1. Akademisë së Shkencave, në buxhetin e vitit 2008, zërit “Shpenzime operative”, t’i shtohet fondi prej 10 000 000 dhjetë milionë) lekësh për të përballuar shpenzimet për botimin e “Fjalorit Enciklopedik Shqiptar”.
