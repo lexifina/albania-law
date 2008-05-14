@@ -1,0 +1,1 @@
+3. Miratimin e bonusit prej 8 për qind të pikëve për studimin ekonomiko-financiar, studimin e fizibilitetit e të zgjidhjes teknike për ngritjen e linjave të prodhimit dhe për raportin për ndikimin mjedisor, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), që i jepet shoqërisë “Alb-Sale” sh.a. Vlorë.
