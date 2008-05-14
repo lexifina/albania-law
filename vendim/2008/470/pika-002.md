@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 1 (një) fletë, që përfundon me numrin rendor 13 (trembëdhjetë), dhe lidhja 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij. Bëjnë përjashtim sipërfaqet e trajtuara sipas vendimit nr.338, datë 6.6.2007 të Këshillit të Ministrave.
