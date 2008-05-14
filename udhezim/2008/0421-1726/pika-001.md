@@ -1,0 +1,1 @@
+1. “Taksimetër” nënkupton instrument matës, i cili mbledh në vazhdimësi dhe tregon në çdo moment të udhëtimit shumën e pagueshme nga përdoruesi i mjetit publik si një funksion i distancës së udhëtuar (përshkruar) dhe-poshtë shpejtësisë së caktuar ose të ndërrimit-funksion i kohëzgjatjes së përdorimit.

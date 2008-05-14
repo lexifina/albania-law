@@ -1,0 +1,2 @@
+7. Bashki të ndryshme mund të kenë nivele të ndryshme të çmimeve, të cilat varen nga një numër faktorësh lokalë, si: pranimi i diskutimeve të çmimit nga taksistët, niveli i jetesës së përdoruesve të taksisë, si dhe koston e shërbimit taksi.
+Në aneksin 1 jepen dy tabela, në të cilat rekomandohen komponentët e tarifës mesatare në shërbimin taksi. Vlerat e tarifave të dhëna në tabelat nr.1 dhe nr.2 janë orientuese e rekomanduese. Këto vlera duhet të përcaktohen sipas pikës 3 të këtij kapitulli.

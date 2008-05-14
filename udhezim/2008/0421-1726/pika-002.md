@@ -1,0 +1,1 @@
+2. Taksimetrat duhet të jenë në përputhje me specifikimet e përgjithshme e të veçanta me kushtet e vendosura nga Organizata Ndërkombëtare e Metrologjisë Legale. Ata duhet të jenë në përputhje me modelin e miratuar nga Drejtoria e Përgjithshme e Kalibrimit dhe Metrologjisë.

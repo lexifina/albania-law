@@ -1,0 +1,1 @@
+5. Rekomandojmë që tarifat e pagesës të përfaqësojnë një vlerë maksimale dhe nuk duhet të vendosen tarifa pagese fikse ose minimale. Për këtë, taksistët janë të lirë që të kalibrojnë taksimetrat e tyre me tarifa poshtë vlerës maksimale duke zgjedhur tarifa më të ulta, si dhe t’u japin klientëve mundësinë e negocimit për uljen e këtyre pagesave.

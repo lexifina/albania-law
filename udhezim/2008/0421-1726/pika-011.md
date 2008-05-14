@@ -1,0 +1,1 @@
+11. Në nisje pagesa e taksisë llogaritet për gjithë numrin e vendeve të saj, pavarësisht nga numri i udhëtarëve. Për çdo udhëtar shtesë drejtuesi i mjetit taksi mund të kërkojë lekë shtesë, vlerën e së cilës e cakton bashkia. Dy fëmijë të moshës nën 12 vjeç bëjnë një udhëtar të rritur, ndërsa një fëmijë nën moshën 12 vjeç nuk paguan.

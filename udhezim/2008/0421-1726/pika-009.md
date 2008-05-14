@@ -1,0 +1,1 @@
+9. Në bazë të nenit 36 të ligjit nr.8308, datë 18.3.1998 “Për transportet rrugore” të ndryshuar, niveli dysheme i tarifave të shërbimit taksi nuk mund të jetë më pak se dyfishi i çmimeve të shërbimeve të njëjta me autobusë, në të cilin përfshihen shërbimet: qytetës, rrethqytetës dhe ndërqytetës.

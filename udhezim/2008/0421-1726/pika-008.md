@@ -1,0 +1,1 @@
+8. Në aneksin 1 jepen vlerat për periudhën e punës së natës, nga ora 22.00 deri në orën 6.00 dhe ditën e diel ose ditët e festave që janë pushim, një vlerë prej 5% do t’i shtohet tarifës fillestare. Për udhëtimin e mëtejshëm, brenda tarifës “A” do të shtohet një vlerë prej 20% dhe brenda tarifës “B” do të shtohet një vlerë prej 10%. Tarifa “C” nuk ka rritje.
