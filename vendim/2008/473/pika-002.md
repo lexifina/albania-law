@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 7 (shtatë) fletë, që përfundon me numrin rendor 238 (dyqind e tridhjetë e tetë), dhe lidhja 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
