@@ -1,0 +1,1 @@
+2. Përcaktimin e formës, të përmasave, llojit dhe lartësisë së shkrimit në tabelat që do të përdoren për numërtimin e një ndërtese, hyrjeje dhe apartamenti, sipas aneksit 2, që i bashkëlidhet këtij vendimi.

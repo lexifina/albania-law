@@ -1,0 +1,1 @@
+1. Përcaktimin e formës, të përmasave, materialit, llojit e të shkrimit dhe përmasave të shkronjës në tabelat që do të përdoren për emërtimin e një parku, sheshi, bulevardi, rruge ose rrugice, sipas aneksit 1, që i bashkëlidhet këtij vendimi.
