@@ -1,0 +1,1 @@
+3. Institucioni privat i arsimit të lartë “ISSAT” do të ofrojë programe studimi, të ciklit të dytë, të cilat do të zgjasin 2 vjet, në plotësimin e të paktën 60 kredite, dhe, në mbarim të tyre, do të lëshohet diplomë “Master i nivelit të parë” (MNP).
