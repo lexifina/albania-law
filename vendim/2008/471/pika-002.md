@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 2 (dy) fletë, që përfundon me numrin rendor 44 (dyzet e katër), dhe lidhja 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij. Nga ky vendim bëjnë përjashtim sipërfaqet e trajtuara sipas vendimit nr.338, datë 6.6.2007 të Këshillit të Ministrave.
