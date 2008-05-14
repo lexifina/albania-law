@@ -1,0 +1,1 @@
+3. Për familjet me të ardhura për frymë, nga 9000 (nëntë mijë) lekë 14 000 (katërmbëdhjetë mijë) lekë, çmimi i shitjes së truallit të jetë sa 50 për qind e çmimit të përcaktuar në pikën 1 të këtij vendimi.

@@ -1,0 +1,1 @@
+1. Çmimi i shitjes së truallit familjeve, që përfitojnë banesë me kosto të ulët, përcaktohet sipas vlerave të tregut. Për trojet, pronë e shtetit, çmimi i shitjes përcaktohet sipas vlerave të miratuara, për efekt të kompensimit të pronave. Për qytetet, për të cilat nuk është miratuar ende vlera e truallit, të përdoren, për referencë, vlerat e qytetit më të afërt.

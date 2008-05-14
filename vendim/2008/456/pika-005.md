@@ -1,0 +1,1 @@
+5. Verifikimi i nivelit të të ardhurave bëhet në mbështetje të vendimit nr.53, datë 28.1.2005 të Këshillit të Ministrave “Për përcaktimin e dokumentacionit të nevojshëm, afateve dhe procedurave për të përfituar strehim nga programet e banesave sociale me qira”.
