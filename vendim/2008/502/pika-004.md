@@ -1,0 +1,1 @@
+4. Transferimi i ndërtesave të konvikteve, në pronësi të njësive të qeverisjes vendore do të bëhet në zbatim të ligjit nr.8743, datë 22.2.2001 “Për pronat e paluajtshme të shtetit”, të ndryshuar, në një fazë të mëvonshme.

@@ -1,0 +1,1 @@
+5. Njësive të qeverisjes vendore, për administrimin e konvikteve të sistemit arsimor parauniversitar, t’u shtohen 487 punonjës, të cilët pakësohen nga numri i përgjithshëm i punonjësve, miratuar për Ministrinë e Arsimit dhe Shkencës.

@@ -1,0 +1,1 @@
+2. Kalimin, me transferim kapital, falas, të pasurive shtetërore të luajtshme, ku përfshihen pajisjet e kuzhinave e të mensave, inventarët në përdorim, mallrat ushqimore dhe joushqimore, gjendje në magazinë, në shërbim të konvikteve dhe të mensave, në sistemin arsimor parauniversitar, në adresë të njësive të qeverisjes vendore.

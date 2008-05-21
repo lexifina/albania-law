@@ -1,0 +1,1 @@
+1. Kalimin e të gjitha funksioneve të administrimit të konvikteve në sistemin arsimor parauniversitar, për arsimin bazë, arsimin e mesëm të përgjithshëm dhe arsimin profesional, kombëtar dhe vendor, sipas vendndodhjes territoriale të tyre, si funksion i deleguar njësive të qeverisjes vendore, sipas aneksit nr.1, që i bashkëlidhet këtij vendimi.

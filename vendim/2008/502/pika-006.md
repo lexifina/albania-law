@@ -1,0 +1,1 @@
+6. Fondet e miratuara në buxhetin e vitit 2008, për Ministrinë e Arsimit dhe Shkencës, për konviktet dhe të papërdorura deri më 1 korrik 2008, të kalojnë si pjesë e grantit të pakushtëzuar në buxhetin e njësive të qeverisjes vendore.
