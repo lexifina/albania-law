@@ -1,0 +1,1 @@
+1. Qendrës Kombëtare të Kinematografisë, në buxhetin e miratuar për vitin 2008, t’i shtohet fondi prej 25 000 000 (njëzet e pesë milionë) lekësh për zhvillimin e projektit kinematografik “Via Albania”.
