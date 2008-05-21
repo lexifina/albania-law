@@ -1,0 +1,1 @@
+7. Kur ofertuesi për arsye të ndryshme nuk nënshkruan kontratën brenda këtij afati dhe nuk kryen pagesën e plotë të vlerës së mallit ose mallrave të blera, projekti 2KR bën konfiskimin e sigurimit të ofertës për ankand. Projekti 2KR njofton ofertuesin e radhës në listën e ofertuesve të mbetur.
