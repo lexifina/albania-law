@@ -1,0 +1,1 @@
+1. Krijimin e Agjencisë Kombëtare të Pranimeve në Institucionet e Arsimit të Lartë (APRIAL), si institucion qendror me statusin e personit juridik, publik, në varësi të Ministrit të Arsimit dhe Shkencës.

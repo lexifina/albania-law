@@ -1,0 +1,1 @@
+12. Efektet financiare për vitin 2008, prej 12 088 000 (dymbëdhjetë milionë e tetëdhjetë e tetë mijë) lekësh, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondet e miratuara, për këtë vit, për Ministrinë e Arsimit dhe Shkencës.
