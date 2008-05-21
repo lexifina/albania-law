@@ -1,0 +1,1 @@
+4. Dokumentet e tenderit për parakualifikimin dhe vlerësimi i ofertave paraprake për parakualifikimin bëhen nga Komisioni i Vlerësimit të Ofertave, i cili krijohet me urdhër të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës.

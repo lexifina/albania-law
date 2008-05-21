@@ -1,0 +1,1 @@
+1. Forma e tenderit për përzgjedhjen e investitorëve strategjikë, të interesuar për blerjen e aksioneve të shoqërisë “Operatori i Sistemit të Shpërndarjes” sh.a., të jetë tender i hapur ndërkombëtar, me një fazë, me parakualifikim.
