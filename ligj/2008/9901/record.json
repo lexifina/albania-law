@@ -1,0 +1,29 @@
+{
+  "qbz_id": 6508,
+  "title": "PËR TREGTARËT DHE SHOQËRITË TREGTARE",
+  "type": "Ligj",
+  "number": "9901",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-04-14",
+  "published": "2008-05-06",
+  "in_force": "2008-05-21",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/072db688947d7d3feebb5647763bcf28c8e43dd989a8c96b7741128c575c0095.docx",
+  "source_sha256": "072db688947d7d3feebb5647763bcf28c8e43dd989a8c96b7741128c575c0095",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6508",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/04/14/9901",
+  "capture_mode": "as-enacted (QBZ base text, version 0)",
+  "rendering": "Rendered from the official Word file: automatic list numbers from its numbering definitions, tables as Markdown tables, superscript/subscript as <sup>/<sub>, footnotes as [^n] notes at the end, text-box text after the paragraph that anchors it; shapes without text are omitted.",
+  "render_stats": {
+    "tables": 0,
+    "numbered_paragraphs": 0,
+    "superscript_runs": 0,
+    "subscript_runs": 0,
+    "footnote_refs": 0,
+    "text_boxes": 0,
+    "shapes_without_text": 0,
+    "images": 0,
+    "symbols": 0
+  },
+  "checked_on": "2026-11-16"
+}
