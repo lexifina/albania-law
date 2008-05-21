@@ -1,0 +1,28 @@
+{
+  "qbz_id": 6586,
+  "title": "PËR PLANIN E DHËNIES SË NDIHMËS SHTETËRORE PËR PËRJASHTIMIN NGA AKCIZA TË LËNDËVE DJEGËSE, TË PËRDORUARA PËR  PRODHIMIN E ENERGJISË ELEKTRIKE NGA TERMOCENTRALET ME FUQI MË TË MADHE SE 5MW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "25",
+  "institution": "Komisioni i Ndihmës Shtetërore",
+  "adopted": "2008-05-02",
+  "published": "2008-05-21",
+  "in_force": "2008-05-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f49be4064a9b60550bdb51d122eff23dfb10743685497847520056022fdf62a7.docx",
+  "source_sha256": "f49be4064a9b60550bdb51d122eff23dfb10743685497847520056022fdf62a7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6586",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/05/02/25",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    7166
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
