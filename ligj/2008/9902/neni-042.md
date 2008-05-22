@@ -1,0 +1,3 @@
+# Neni 42
+Kuptimi i kontratës së përdorimit me afat të pasurive të paluajtshme
+Kontratë e përdorimit me afat të pasurive të paluajtshme është çdo kontratë apo grup kontratash, të lidhura ndërmjet një tregtari dhe një konsumatori, për një periudhë jo me pak se 3 vjet, sipas së cilës, përkundrejt një pagese të caktuar drejtpërdrejt ose jo, krijohet apo është objekt i një transferte, apo ndërmerret për t’u transferuar, një e drejtë mbi pronën e paluajtshme ose çfarëdo e drejte tjetër, që lidhet me përdorimin e një apo më shumë pronave të paluajtshme, për një afat specifik ose të specifikueshëm të vitit, që nuk mund të jetë më pak se një javë.
