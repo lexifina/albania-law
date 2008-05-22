@@ -1,10 +1,9 @@
 # Neni 87
-1. Kandidati për President i propozohet Kuvendit nga një grup prej jo më pak se 20 deputetësh. Një deputet nuk lejohet të marrë pjesë në më shumë se një grup propozues.
-2. Presidenti i Republikës zgjidhet me votim të fshehtë dhe pa debat nga Kuvendi me një shumicë prej tri të pestave të të gjithë anëtarëve të tij.
-3. Kur në votimin e parë nuk arrihet kjo shumicë, brenda 7 ditëve nga kryerja e votimit të parë bëhet një votim i dytë.
-4. Në rast se edhe në votimin e dytë nuk arrihet kjo shumicë, brenda 7 ditëve bëhet një votim i tretë.
-5. Kur ka më shumë se dy kandidatë dhe asnjëri prej tyre nuk ka marrë shumicën e kërkuar, brenda 7 ditëve bëhet një votim i katërt ndërmjet dy kandidatëve që kanë marrë numrin më të madh të votave.
-6. Në rast se edhe në votimin e katërt asnjëri prej dy kandidatëve nuk ka marrë shumicën e kërkuar, bëhet një votim i pestë.
-7. Në rast se edhe pas votimit të pestë asnjëri prej dy kandidatëve nuk ka marrë shumicën e kërkuar, Kuvendi shpërndahet dhe brenda 60 ditëve bëhen zgjedhjet e reja të përgjithshme.
-8. Kuvendi i ri zgjedh Presidentin sipas procedurës së parashikuar nga paragrafët 1 deri në 7 të këtij neni. Në rast se edhe Kuvendi i ri nuk e zgjedh Presidentin, ai shpërndahet dhe brenda 60 ditëve bëhen zgjedhje të reja të përgjithshme.
-9. Kuvendi pasardhës zgjedh Presidentin e Republikës me shumicën e të gjithë anëtarëve të tij.
+1. Kandidati për President i propozohet Kuvendit nga një grup prej jo më pak se 20 deputetësh. Një deputet nuk lejohet të propozojë në të njëjtën kohë më shumë se një kandidat.
+2. Presidenti i Republikës zgjidhet me votim të fshehtë dhe pa debat nga Kuvendi. Për zgjedhjen e Presidentit, Kuvendi zhvillon deri në pesë votime.
+Votimi i parë zhvillohet jo më vonë se shtatë ditë nga fillimi i procedurës për zgjedhjen e Presidentit. Secili nga votimet e tjera zhvillohet jo më vonë se shtatë ditë nga përfundimi pa sukses i votimit pararendës. Votimi quhet i kryer edhe kur në konkurrim nuk paraqitet asnjë kandidat. Në votimin e dytë, të tretë dhe të katërt mund të paraqiten kandidatë të rinj, sipas kushteve të pikës 1 të këtij neni.
+3. Presidenti zgjidhet në votimin e parë, të dytë ose të tretë kur një kandidat merr jo më pak se tri të pestat e votave të të gjithë anëtarëve të Kuvendit. Në votimin e katërt dhe të pestë zgjidhet President kandidati që siguron më shumë se gjysmën e votave të të gjithë anëtarëve të Kuvendit.
+4. Votimi i pestë zhvillohet kur në votimin e katërt asnjë kandidat nuk ka siguruar shumicën e kërkuar të votave. Votimi i pestë zhvillohet vetëm midis dy kandidatëve që kanë marrë më shumë vota në votimin e katërt. Në rast se ka më shumë se dy kandidatë me të njëjtin numër votash, kandidati që merr pjesë në votim caktohet me short.
+Në rast se pas votimit të katërt nuk ka mbetur asnjë kandidat në konkurrim, për këtë votim mund të paraqiten kandidatë të rinj, sipas kushteve të pikës 1 të këtij neni. Kur paraqiten më shumë se dy kandidatë, votimi zhvillohet midis dy kandidatëve që kanë siguruar numrin më të lartë të deputetëve propozues.
+5. Në rast se edhe pas votimit të pestë asnjë kandidat nuk siguron shumicën e kërkuar, ose kur pas votimit të katërt pa sukses nuk paraqitet asnjë kandidaturë e re, Kuvendi shpërndahet. Zgjedhjet e reja zhvillohen brenda 45 ditëve nga shpërndarja e tij.
+6. Kuvendi pasardhës e zgjedh Presidentin e Republikës me shumicën e të gjithë anëtarëve të tij.
