@@ -1,0 +1,1 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin territorial dhe administrativ të njësisë së qeverisjes vendore, bashkia Pukë, të qarkut të Shkodrës, që do t’i transferohen në përdorim kësaj njësie.
