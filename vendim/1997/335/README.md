@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 335, datë 2.9.1997](https://qbz.gov.al/api/v1/acts/20057); [QBZ versions](https://qbz.gov.al/api/v1/acts/20057/versions).
 
-Status of this text: `official consolidated version 9`, applying from 2006-11-22; after QBZ act 4922 (nr. 779).
+Status of this text: `official consolidated version 10`, applying from 2008-05-23; after QBZ act 6596 (nr. 631).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

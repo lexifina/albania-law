@@ -1,10 +1,10 @@
-VENDIM
+ VENDIM
 
 Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001; 152, datë 25.4.2002; nr. 779, datë 22.11.2006)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001; 152, datë 25.4.2002; nr. 779, datë 22.11.2006; nr. 631, datë 23.5.2008)
 
 (I përditësuar)
 
@@ -134,6 +134,16 @@ Pas mbarimit të funksionit të tyre
 
 -Bashkëshorti/bashkëshortja e Avokatit të Përgjithshëm të Shtetit
 
+- Zëdhënësi i Presidentit të Republikës;
+
+- Ndihmësi i Presidentit të Republikës;
+
+- Drejtori i Drejtorisë së Protokollit të Presidentit të Republikës;
+
+- Anëtarët e Këshillit të Lartë të Drejtësisë;
+
+- Kryetari i Komisionit të Autoritetit të Konkurrencës.
+
 4. Me pasaportë shërbimi të pajiset kjo kategori personash:
 
 - Drejtori i Përgjithshëm i Institutit të Sigurimeve Shoqërore;
@@ -141,8 +151,6 @@ Pas mbarimit të funksionit të tyre
 - Zëvendësprokurorët e përgjithshëm;
 
 - Prefektët dhe Sekretarët e Përgjithshëm të Prefekturave;
-
-- Anëtarët e Këshillit të Lartë të Drejtësisë;
 
 - Drejtorët e departamenteve pranë Këshillit të Ministrave;
 
@@ -255,6 +263,30 @@ Pas mbarimit të funksionit të tyre
 - Drejtori i marrëdhënieve me jashtë në Komisionin Qendror të Zgjedhjeve.
 
 - Kryetarët e këshillave të qarqeve dhe inspektorët e marrëdhënieve me jashtë në këto këshilla.
+
+- Drejtori i Përgjithshëm i Agjencisë së Kthimit dhe Kompensimit të Pronave;
+
+- Kryetari dhe zëvendëskryetari i Entit Rregullator të Telekomunikacionit;
+
+- Kryetari dhe zëvendëskryetari i Entit Rregullator të Energjisë;
+
+- Kryetari i Komisionit Kombëtar Rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura;
+
+- Avokati i Prokurimeve;
+
+- Përfaqësuesit e organizatave të punëmarrësve dhe punëdhënësve, në Këshillin Kombëtar të Punës;
+
+- Inspektorët e Këshillit të Lartë të Drejtësisë;
+
+- Kryetarët e bashkive dhe të komunave;
+
+- Drejtuesit e prokurorive të apelit;
+
+- Fotografi i Presidentit të Republikës;
+
+- Fotografi i Kryeministrit;
+
+- Kameramani i Kryeministrit.
 
 	5. Pas përfundimit të shërbimit, pasaportat e shërbimit duhet të depozitohen pranë drejtorive të personelit të ministrive dhe institucioneve.
 
