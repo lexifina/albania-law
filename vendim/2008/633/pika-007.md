@@ -1,0 +1,1 @@
+7. Pagesa e kryetarit dhe e anëtarëve të Komisionit të Vlerësimit të Titujve Akademikë, për çdo muaj, nëse zhvillohen mbledhje, të jetë, përkatësisht, 15 000 (pesëmbëdhjetë mijë) lekë në muaj kryetari, dhe nga 13 000 (trembëdhjetë mijë) lekë në muaj anëtarët. Kryetari dhe anëtarët e këtij komisioni nuk e përfitojnë këtë shpërblim për muajt që nuk mblidhen.

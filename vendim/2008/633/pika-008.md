@@ -1,0 +1,1 @@
+8. Efektet financiare, prej 2 364 000 (dy milionë e treqind e gjashtëdhjetë e katër mijë) lekësh, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i miratuar për Ministrinë e Arsimit dhe Shkencës.
