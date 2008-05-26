@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6621,
+  "title": "PËR DISA SHTESA NË VENDIMIN NR.478, DATË 18.7.2007 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E STRUKTURËS DHE TË NIVELEVE TË PAGAVE TË NËPUNËSVE TË DISA INSTITUCIONEVE, NË VARËSI TË MINISTRAVE TË LINJËS”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "545",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-05-01",
+  "published": "2008-05-26",
+  "in_force": "2008-05-26",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7cd9a4443c5175159fea3147b1a305008a6a65ee3ef8b0d0f804ee5078bb0b0d.docx",
+  "source_sha256": "7cd9a4443c5175159fea3147b1a305008a6a65ee3ef8b0d0f804ee5078bb0b0d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6621",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/05/01/545",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
