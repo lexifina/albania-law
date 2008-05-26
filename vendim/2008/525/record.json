@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6608,
+  "title": "Për disa ndryshime në vendimin nr.666, datë 26.10.1998 të këshillit të ministrave “për disa masa lidhur me procesin e likuidimit të ndërmarrjeve të varësisë së ish-agjencisë qendrore të ristrukturimit dhe privatizimit të ndërmarrjeve bujqësore, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "525",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-04-23",
+  "published": "2008-05-26",
+  "in_force": "2008-05-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b1b29427a9c53a6090d6871d0cb85ee6fd44469130ddca1a6eb8f99ce71bfe98.docx",
+  "source_sha256": "b1b29427a9c53a6090d6871d0cb85ee6fd44469130ddca1a6eb8f99ce71bfe98",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6608",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/04/23/525",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
