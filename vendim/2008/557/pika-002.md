@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 5 (pesë) fletë, që përfundon me numrin rendor 162 (njëqind e gjashtëdhjetë e dy), dhe lidhja 1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
