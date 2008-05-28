@@ -1,0 +1,1 @@
+4. Automjetet dhe trupat e kontingjentit ushtarak italian, gjatë itinerarit të lëvizjes nëpër territorin e Republikës së Shqipërisë, të shoqërohen nga njësi të armatosura të Forcave të Armatosura të Republikës së Shqipërisë.
