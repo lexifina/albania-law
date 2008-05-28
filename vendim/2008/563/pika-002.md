@@ -1,0 +1,1 @@
+2. Kalimin në përgjegjësi administrimi të Postës Shqiptare, sh.a., nga Ministria e Brendshme të ndërtesës së arkivit e të ambulancës së Ministrisë së Brendshme, sipas formularit 3, që i bashkëlidhet këtij vendimi.
