@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 3 (tri) fletë, përfundon me numrin rendor 118 (njëqind e tetëmbëdhjetë), dhe lidhja nr.1 bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
