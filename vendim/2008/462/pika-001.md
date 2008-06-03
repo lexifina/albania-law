@@ -1,0 +1,1 @@
+1. Krijimin e Njësisë së Mbikëqyrjes së Lojërave të Fatit (NJMLF), me statusin e personit juridik, publik, në varësi të ministrit përgjegjës për ekonominë, me seli në Tiranë. NJMLF-ja ka vulën dhe stemën e vet, në përputhje me vendimin nr.474, datë 10.7.2003 të Këshillit të Ministrave “Për mënyrën e përdorimit të stemës së Republikës, si dhe raportin e përmasave të saj”.

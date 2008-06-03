@@ -1,0 +1,1 @@
+5. NJMLF-ja është institucion, që financohet me burimet e veta. Kjo njësi financohet nga Buxheti i Shtetit, deri në çastin kur të ardhurat e saj të jenë të mjaftueshme, për të siguruar vetëfinancimin.

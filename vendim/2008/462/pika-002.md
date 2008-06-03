@@ -1,0 +1,1 @@
+2. NJMLF-ja ka objekt veprimtarie mbikëqyrjen dhe ushtrimin e kontrollit për zbatimin e ligjshmërisë nga subjektet e licencuara, në fushën e lojërave të fatit, kazinotë dhe hipodromet, në mbështetje të ligjit nr.8701, datë 1.12.2000 “Për lojërat e fatit, kazinotë dhe hipodromet”, të ndryshuar.
