@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6558,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr.9362, datë 24.3.2005 “Për shërbimin e mbrojtjes së bimëve",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9908",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-04-24",
+  "published": "2008-05-20",
+  "in_force": "2008-06-04",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/8f186406876d0d43319c77261e8068c55ff50fc400005e9b54f980d2af207a99.docx",
+  "source_sha256": "8f186406876d0d43319c77261e8068c55ff50fc400005e9b54f980d2af207a99",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6558",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/04/24/9908",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
