@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr.2, datë 8.4.2008, i Këshillit të Ministrave “Për dërgimin në Bosnjë-Hercegovinë të një grupi të asgjësimit të municioneve dhe eksplozivëve të Forcave të Armatosura të Republikës së Shqipërisë, për të marrë pjesë në operacionin “ALTHEA” të Bashkimit Europian”.
