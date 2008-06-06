@@ -1,0 +1,1 @@
+8. I transferon KSHPO-së të gjithë dokumentacionin ose kopjet e tyre për veprimtarinë e certifikimit kur humbet regjistrimin. Një transferim i tillë nuk aplikohet në rastet e bashkimit, shitjes ose transferimit të pronësisë.

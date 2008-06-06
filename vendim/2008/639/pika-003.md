@@ -1,0 +1,1 @@
+3. Nuk jep mendim dhe nuk u ofron shërbim konsulence, atyre që kërkojnë certifikim ose njësive të prodhimit organik të certifikuara, kur verifikohen vështirësi dhe pengesa për vazhdimin e këtij procesi.
