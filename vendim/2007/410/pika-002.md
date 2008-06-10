@@ -1,0 +1,1 @@
+2. Shpenzimet për realizimin e procedurave të përzgjedhjes së konsulentit për shërbimet e tij, si dhe shpenzimet e tjera, të nevojshme për transferimin e paketës, të përballohen nga të ardhurat e realizuara nga shitja e paketës së aksioneve shtetërore, të mbetura në shoqërinë anonime AMC.

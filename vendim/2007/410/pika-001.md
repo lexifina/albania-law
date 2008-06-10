@@ -1,0 +1,1 @@
+1. Paketa e aksioneve të AMC sh.a., që ka mbetur pas transferimit të paketës tek investitorët strategjikë, tek ish-pronarët e truallit dhe të punonjësit e kësaj shoqërie të transferohet, nëpërmjet ankandit, me asistencën e shoqërisë konsulente ndërkombëtare.
