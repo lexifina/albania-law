@@ -1,0 +1,1 @@
+1. Miratimin e shtesës në listën e inventarit të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin territorial dhe administrativ të njësisë së qeverisjes vendore, komuna Prezë të qarkut të Tiranës, sipas listës me 1 (një) fletë, që përfundon me numrin rendor 15 (pesëmbëdhjetë).
