@@ -1,0 +1,26 @@
+{
+  "qbz_id": 6683,
+  "title": "PËR DHËNIE GRADE MADHORE",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "5758",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2008-06-10",
+  "published": "2008-06-11",
+  "in_force": "2008-06-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/922ce9918d331dbec7ff5dee86344cba9439fb850d341f41028e9e7706f4d2ec.docx",
+  "source_sha256": "922ce9918d331dbec7ff5dee86344cba9439fb850d341f41028e9e7706f4d2ec",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6683",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2008/06/10/5758",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
