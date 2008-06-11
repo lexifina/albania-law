@@ -1,0 +1,9 @@
+2. Kufijtë e këtij “Parku Kombëtar” janë, si më poshtë vijon:
+a) Veri:
+Pika e takimit të rrugës automobilistike Librazhd-Steblevë, me rrugën Librazhd-Dorëzi, me koordinata 4441509.41L/4564276.59V, ura e lumit Rapun, pranë fshatit Zagosht, shkalla e Lunikut, fshati Llanga, Fushë Studa. Kufiri verior ndjek rrugën e fshatit Borovë, në kuotën 887 m, përroin e Zallit të Klenjës, ndërpret rrugën automobilistike Steblevë-Klenjë, në kuotat 1328 m, 1462 m, 1484 m, 1654 m, 1778 m, pika kufitare, me kuota 1980 m (Shkëmbi i Shqipes) (4 460 524.30 L/4 580 064.18V).
+b) Lindje:
+Kuota 1980.0 m (Shkëmbi i Shqipes), me koordinata 4 460 524.30L/4 580 064.18V, vijon përgjatë kufirit shtetëror, në kuotat 2071 m, Maja e Radacit (2081 m), 2069 m, Qafa e Kruqit, 2132 m, Shpella e Ariut, 2030 m, Qafa e Kokelit (1883 m), 1922 m, 1948 m (Maja Reti Kurorës), 2020 m (Maja “Varri Marikës”), 2133 m (Maja e Kallkanit), 2189 m, 1709 m, 1611 m, 1594 m, Qafa Rinas 1404 m, me koordinata 4 465 215.85L/4 553 644.62V.
+c) Jug:
+Kuota 1404 m, me koordinata 4 465 215.85L/4 553 644.62V, ndjek kurrizin dhe rrugën për këmbësorë, në drejtim te Qafa e Policës, në kuotën 1366 m (Maja Kyqi Mjet), kalon te Qafa e Gjashtë Lisave, ndjek rrugën për këmbësorë dhe me kuotat 1379 m, 1376 m (Maja e Skurës), me koordinata 449 513.84L/4 553 516.22V.
+ç) Perëndim:
+Kuota 1376.3 m (Maja e Skurës), me koordinata 449 513.84L/4 553 516.22V) zbret kurrizin, ndërpret lumin e Bushtricës, vijon në kuotat 1147 m, 1054 m (Maja e Trestenikut), 1143 m (Maja “Varri i Plakës”), 1063 m, ndjek rrugën për këmbësorë për në fshatin Bozgarë-Kokrevë, në kuotën 783 m, ndërpret përroin e Hotolishtit, ngjitet kurrizit, në kuotat 767 m, 744 m, 1100 m, 505 m, 916 m, kalon përgjatë rrugës Dorëzi-Librazhd, deri te pika e takimit me rrugën automobilistike Librazhd-Steblevë, me koordinata 4 441 509.41L/4 564 276.59V.

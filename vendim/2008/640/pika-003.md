@@ -1,0 +1,1 @@
+3. “Parku Kombëtar” Shebenik-Jabllanicë ka një sipërfaqe të përgjithshme 33 927,66 (tridhjetë e tre mijë e nëntëqind e njëzet e shtatë presje gjashtëdhjetë e gjashtë) ha, ku pjesën kryesore të territorit e zënë sipërfaqet pyjore, të ndjekura nga sipërfaqet kullosore, bujqësore, joprodhuese, shkëmbore dhe sipërfaqe troje, sipas tabelës, që i bashkëlidhet këtij vendimi.
