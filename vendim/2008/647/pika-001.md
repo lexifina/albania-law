@@ -1,0 +1,1 @@
+1. Miratimin e shtesës në listën e inventarit të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin territorial dhe administrativ të njësisë së qeverisjes vendore, komuna Pezë të qarkut të Tiranës, sipas listës me 2 (dy) fletë, që përfundon me numrin rendor 46 (dyzet e gjashtë).
