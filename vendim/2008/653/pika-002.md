@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 6 (gjashtë) fletë, që përfundon me numrin rendor 155 (njëqind e pesëdhjetë e pesë), dhe lidhja nr.1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
