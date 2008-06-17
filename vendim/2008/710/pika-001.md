@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion të formës “BOT” (Ndërtim, Operim dhe Transferim) të hidrocentralit “Orenjë 1” e “Orenjë 2” është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
