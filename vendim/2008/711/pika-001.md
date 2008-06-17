@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “BOT” (Ndërtim, Operim dhe Transferim) të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoriteti kontraktues, dhe shoqërisë “Bistrica 3” sh.p.k., për ndërtimin e hidrocentralit “Bistrica 3 e 4”, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
