@@ -1,0 +1,28 @@
+{
+  "qbz_id": 6749,
+  "title": "PËR NJË  NDRYSHIM  NË VENDIMIN E BORDIT TË KOMISIONERËVE TË ERE-S NR.9,  DATË 25.1.2008 “PËR DHËNIEN E LICENCËS PËR AKTIVITETIN E FURNIZIMIT TË ENERGJISË ELEKTRIKE SHOQËRISË OSSH SHA”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "58",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-06-03",
+  "published": "2008-06-17",
+  "in_force": "2008-06-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/628f72e505c1c28ede8710e8d2dcafa57ebaa74310575a6533bba4117c271209.docx",
+  "source_sha256": "628f72e505c1c28ede8710e8d2dcafa57ebaa74310575a6533bba4117c271209",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6749",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/06/03/58",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63910
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
