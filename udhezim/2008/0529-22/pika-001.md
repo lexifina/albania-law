@@ -1,0 +1,1 @@
+1. Transporti i mësuesve që punojnë larg vendbanimit të tyre në distancë mbi 4 km dhe kthehen brenda ditës, si dhe transporti i nxënësve të arsimit të detyrueshëm që ndjekin shkollën larg vendbanimit të tyre në distancë mbi 2 km, mbulohet nga fondet e Buxhetit të Shtetit të planifikuara për çdo drejtori arsimore rajonale/zyrë arsimore (DAR/ZA).

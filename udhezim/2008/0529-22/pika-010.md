@@ -1,0 +1,1 @@
+10. Sektori i Menaxhimit të Burimeve Njerëzore pranë DAR/ZA, në periudhën e planifikimit të numrit të mësuesve, në fillim të vitit shkollor kanë përgjegjësi për rritjen artificiale të lëvizjes së mësuesve, nga një njësi vendore në tjetrën.

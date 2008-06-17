@@ -1,0 +1,1 @@
+7. Në fund të çdo muaji, përpara pagimit të shërbimit, drejtori i DAR/ZA, përgjegjësi i burimeve njerëzore dhe specialisti i financës përpilojnë një aktrakordim, mbi numrin e mësuesve dhe të nxënësve, në bazë të dokumentacionit të paraqitur nga drejtoritë e shkollave dhe faturës së lëshuar nga subjekti që merr përsipër kryerjen e këtij shërbimi.

@@ -1,0 +1,1 @@
+2. Shpenzimet dhe fondi limit për këtë shërbim prokurohen në mbështetje të ligjit nr.9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar dhe vendimit të Këshillit të Ministrave nr.1, datë 10.1.2007 “Për rregullat e prokurimit publik”, kreu II “Rregulla të përgjithshme të prokurimit”, pika 2 “Llogaritja e vlerës së kontratës”, nga çdo DAR/ZA për vitin kalendarik.

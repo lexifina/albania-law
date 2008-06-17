@@ -1,0 +1,1 @@
+5. Subjekti që merr përsipër kryerjen e këtij shërbimi, likujdohet çdo muaj për punën e kryer, në bazë të faturës tatimore, ku të ketë të përcaktuar numrin e mësuesve dhe të nxënësve që lëvizin çdo muaj.
