@@ -1,0 +1,1 @@
+1. Miratimin e metodologjisë së rregullimit të tarifave të interkonjeksionit, të organizmit me fuqi të ndjeshme në treg, “Albanian Mobile Communications (AMC) sh.a.”, e cila i bashkëlidhet këtij vendimi (Lidhja nr.1).

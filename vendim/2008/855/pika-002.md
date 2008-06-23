@@ -1,0 +1,1 @@
+2. Miratimin e metodologjisë e rregullimit të tarifave të shërbimeve të përdoruesve fundorë të organizmit me fuqi të ndjeshme në treg, “Albanian Mobile Communications” (AMC) sh.a., sipas lidhjes nr.2, e cila i bashkëlidhet këtij vendimi.
