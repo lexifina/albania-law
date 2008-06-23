@@ -1,0 +1,1 @@
+3. Vendimi nr.582, datë 21.8.2003 i Këshillit të Ministrave “Për miratimin e metodologjisë së rregullimit të tarifave, me fuqi të ndjeshme në treg, që ofrojnë shërbime publike telefonike, të qëndrueshme, dhe linja me qira”, i ndryshuar, shfuqizohet.

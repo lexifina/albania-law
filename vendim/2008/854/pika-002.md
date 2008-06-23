@@ -1,0 +1,1 @@
+2. Miratimin e metodologjisë së rregullimit të tarifave të shërbimeve të përdoruesve fundorë, të organizmit, me fuqi të ndjeshme në treg, “Albtelecom” sh.a., sipas lidhjes nr.2, e cila i bashkëlidhet këtij vendimi.
