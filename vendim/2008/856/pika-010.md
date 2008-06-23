@@ -1,0 +1,1 @@
+10. Efektet financiare, që rrjedhin nga zbatimin i këtij vendimi, përllogariten në shumën 2 668 (dy mijë e gjashtëqind e gjashtëdhjetë e tetë) milionë lekë dhe përballohen nga fondi i kontingjencës, i caktuar në Buxhetin e Shtetit të vitit 2008, për rritjen e pensioneve.

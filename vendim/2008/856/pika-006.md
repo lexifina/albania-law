@@ -1,0 +1,1 @@
+6. Pensionet e plota të pleqërisë, pensionet e plota të invaliditetit dhe pensionet e plota familjare, të caktuara në përputhje me paragrafin e katërt të nenit 96 të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, me datë fillimi nga 1.7.2008 e në vazhdim, nuk mund të caktohen më pak se 5200 (pesë mijë e dyqind) lekë në muaj.

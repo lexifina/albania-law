@@ -1,0 +1,1 @@
+4. Rritje, sipas parashikimeve në pikat 1 e 2 të këtij vendimi, përfitojnë edhe pensionet, të cilat caktohen nga data 1.7.2008 e në vazhdim, me kusht që data e fillimit të pensionit të jetë deri më 30.6.2008, përfshirë edhe këtë datë.
