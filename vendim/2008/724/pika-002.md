@@ -1,0 +1,1 @@
+2. Detyrat themelore të kësaj agjencie janë gërmimet arkeologjike, si rrjedhojë e planifikimit urban e territorial, në Republikën e Shqipërisë, përcaktimi i kritereve dhe respektimi i mbikëqyrjes së gërmimeve, riorganizimi, në aspektin muzeal, të trashëgimisë arkeologjike, si dhe administrimi i pasurimit të fondeve, për ruajtjen e objekteve arkeologjike, të luajtshme.
