@@ -1,4 +1,0 @@
-# Neni 70
-Plani kombëtar i radiofrekuencave
-Plani kombëtar i radiofrekuencave ose ndryshimi i tij miratohet nga Këshilli i Ministrave, me propozimin e Ministrit. Hartimi i planit kombëtar të radiofrekuencave bashkërendohet nga Drejtoria e Përgjithshme e Postë-Telekomunikacioneve. Gjatë hartimit të këtij plani bashkëpunohet me Entin Rregullator të Telekomunikacioneve dhe me institucionet shtetërore të ngarkuara për mbrojtjen kombëtare dhe për sigurimin e rendit publik, si dhe me KKRT-në.
-Plani kombëtar i radiofrekuencave përmban shërbimet e radiokomunikacioneve për brezat përkatës. Për sigurimin e përdorimit të frytshëm dhe pa interferenca të radiofrekuencave, plani kombëtar i radiofrekuencave përmban edhe dispozita që udhëzojnë përdorimin e radiofrekuencave, si dhe përcaktime të tjera me të hollësishme.
