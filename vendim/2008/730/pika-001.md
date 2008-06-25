@@ -1,0 +1,1 @@
+1. Miratimin e llojeve të armatimit, të lëndëve kimike (neuroparalizuese) dhe të mjeteve të tjera, të përdorimit të forcës nga Policia e Shtetit, të klasifikuara sipas pasqyrës nr.1, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+3. Tabela e organizimit të armatimit, të lëndëve kimike (neuroparalizuese) dhe të mjeteve të përdorimit të forcës nga policia, rregullat për ruajtjen, mirëmbajtjen, shpërndarjen dhe përdorimin e tyre përcaktohen me urdhër të Ministrit të Brendshëm, me propozimin e Drejtorit të Përgjithshëm të Policisë së Shtetit.

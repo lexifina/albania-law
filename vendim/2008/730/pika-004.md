@@ -1,0 +1,1 @@
+4. Ngarkohet Ministria e Brendshme të hartojë planet për zëvendësimin, në të ardhmen, të armatimit, lëndëve kimike (neuroparalizuese) dhe mjeteve të tjera, të përdorimit të forcës nga Policia e Shtetit, në përputhje me standardet e BE-së.

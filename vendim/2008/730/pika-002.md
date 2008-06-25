@@ -1,0 +1,1 @@
+2. Plotësimi organik me armatim, me lëndë kimike (neuroparalizuese) dhe mjete të tjera, të përdorimit të forcës nga policia, bëhet në funksion të misioneve të përcaktuara për çdo strukturë të Policisë së Shtetit.
