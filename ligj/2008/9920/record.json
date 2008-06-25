@@ -1,0 +1,29 @@
+{
+  "qbz_id": 6676,
+  "title": "PËR PROCEDURAT TATIMORE \nNË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "number": "9920",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-05-19",
+  "published": "2008-06-10",
+  "in_force": "2008-06-25",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/092d407bc69b1ba0b82535482b1487d372481bc74629f3ce0a5367001b72be4a.docx",
+  "source_sha256": "092d407bc69b1ba0b82535482b1487d372481bc74629f3ce0a5367001b72be4a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6676",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/05/19/9920",
+  "capture_mode": "as-enacted (QBZ base text, version 0)",
+  "rendering": "Rendered from the official Word file: automatic list numbers from its numbering definitions, tables as Markdown tables, superscript/subscript as <sup>/<sub>, footnotes as [^n] notes at the end, text-box text after the paragraph that anchors it; shapes without text are omitted.",
+  "render_stats": {
+    "tables": 0,
+    "numbered_paragraphs": 0,
+    "superscript_runs": 0,
+    "subscript_runs": 0,
+    "footnote_refs": 0,
+    "text_boxes": 0,
+    "shapes_without_text": 0,
+    "images": 0,
+    "symbols": 0
+  },
+  "checked_on": "2026-11-16"
+}
