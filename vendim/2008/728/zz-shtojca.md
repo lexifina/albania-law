@@ -1,0 +1,74 @@
+# Shtojca
+LISTA E PRONARËVE PASURITË NË PRONËSI TË TË CILËVE PREKEN NGA REHABILITIMI DHE ZGJERIMI I FUSHËS SË MBETJEVE URBANE TË QYTETIT TË TIRANËS NË FSHATIN SHARRË
+PRONARI
+Zk
+Nr.pas
+Sip
+tokë arë
+Çmimi
+Vlera lekë
+Totali
+lekë
+Shënime
+Nr.
+Emri
+Atësia
+Mbiemri
+1
+Haki
+Fadil
+Vladi
+3321
+138/1
+162
+537
+86994
+86994
+Konfirmim ZRPP
+2
+Qazim
+Dervish
+Vladi
+3321
+139/10
+3530
+537
+1895610
+1895610
+Konfirmim ZRPP
+3
+Nezir
+Beqir
+Muca
+3321
+146/7
+225
+537
+120825
+120825
+Konfirmim ZRPP
+4
+Qamil
+Beqir
+Muca
+3321
+146/8
+225
+537
+120825
+Konfirmim ZRPP
+5
+Bajram
+Beqir
+Muca
+3321
+146/9
+95
+537
+51015
+51015
+Konfirmim ZRPP
+Totali
+4237
+2275269
+2275269
