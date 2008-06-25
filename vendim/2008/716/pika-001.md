@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “BOT” (ndërtim, operim dhe transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoriteti kontraktues, dhe shoqërisë “Erdat” sh.p.k., për ndërtimin e hidrocentraleve “Lura 1”, “Lura 2” e “Lura 3”, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
