@@ -1,0 +1,1 @@
+7. Rritjen në masën 5 për qind, sipas pikave 1, 2, 3, 4, 5 e 6 të këtij vendimi, do ta përfitojnë të gjitha përfitimet e caktuara në vazhdim, por me datë fillimi deri më 30.6.2008, përfshirë edhe këtë datë.
