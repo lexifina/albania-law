@@ -1,0 +1,1 @@
+4. Efektet financiare shtesë, që rrjedhin nga zbatimi i këtij vendimi, në masën 97 000 000 (nëntëdhjetë e shtatë milionë) lekë të përballohen nga fondet e miratuara në buxhetin e vitit 2008, për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.

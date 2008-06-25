@@ -1,0 +1,1 @@
+6. Ministria e Financave dhe Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, të nxjerrin udhëzim në zbatim të këtij vendimi, për përcaktimin e procedurave dhe të dokumentacionit të nevojshëm për dhënien e përfitimit.

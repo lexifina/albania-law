@@ -1,0 +1,1 @@
+5. Ngarkohet Ministria e Financave për marrjen e masave për pakësimin e fondeve të parashikuara për 6-mujorin e dytë, në masën 70 000 000 (shtatëdhjetë milionë) lekë, në buxhetin e Institutit të Sigurimeve Shoqërore, për këtë pagesë, dhe për transferimin e këtyre fondeve në njësitë e qeverisjes vendore, ku do të kryhet ngarkesa.
