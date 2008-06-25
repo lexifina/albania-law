@@ -1,0 +1,26 @@
+{
+  "qbz_id": 33729,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 8901, datë 23.5.2002 \"Për falimentimin\"",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "9919",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-05-19",
+  "published": "2008-06-10",
+  "in_force": "2008-06-25",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/60fe2e8771b4586901b973b52c1042d4e09fda3555da81e216a93e568a9188cc.docx",
+  "source_sha256": "60fe2e8771b4586901b973b52c1042d4e09fda3555da81e216a93e568a9188cc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/33729",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/05/19/9919",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
