@@ -1,0 +1,1 @@
+9. Për përgatitjen e mbledhjeve, shpërndarjen e materialeve dhe mbajtjen e protokollit krijohet dhe funksionon sekretaria teknike e KKA-së, si pjesë e strukturës së Agjencisë së Shërbimit Arkeologjik (ASHA).

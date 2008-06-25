@@ -1,0 +1,1 @@
+3. Të drejtën e paraqitjes së projekteve në Këshillin Kombëtar të Arkeologjisë, për gërmimet në fushën e arkeologjisë, e kanë institucionet shtetërore të specializuara dhe organizmat e tjerë, të specializuar për këto gërmime.

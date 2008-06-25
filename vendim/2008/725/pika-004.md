@@ -1,0 +1,1 @@
+4. Këshilli Kombëtar i Arkeologjisë mblidhet sa herë paraqiten kërkesa për miratim projektesh në fushën e arkeologjisë, por jo më pak se një herë në dy muaj. Njoftimi bëhet nga sekretari i KKA-së, pas miratimit të kryetarit. Anëtarët njoftohen, së paku, 3 ditë përpara datës së mbledhjes.

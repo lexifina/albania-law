@@ -1,0 +1,1 @@
+15. Sekretaria teknike e KKA-së mban përgjegjësi, sipas rregullave në fuqi, për trajtimin dhe ruajtjen e të gjithë dokumentacionit arkivor. Arkivi i sekretarisë teknike të KKA-së ndodhet pranë ASHA-së.

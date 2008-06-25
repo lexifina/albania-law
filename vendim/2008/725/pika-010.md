@@ -1,0 +1,1 @@
+10. Sekretaria teknike, gjithashtu, ka detyrim t’i njëftojë të gjithë anëtarët e KKA-së për mbledhjen e radhës. Njoftimi bëhet, domosdoshmërisht, me shkrim, por edhe në rrugë të tjera. Njoftimi nënshkruhet nga sekretari i KKA-së.

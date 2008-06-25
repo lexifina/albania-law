@@ -1,0 +1,1 @@
+5. Mbledhja zhvillohet sipas rendit të ditës, të miratuar nga kryetari, pas propozimit të sekretarit të KKA-së, dhe u shpërndahet anëtarëve, së bashku me dokumentacionin përkatës, të nënshkruar nga përgjegjësi i sekretarisë teknike dhe sekretari i KKA-së, së paku, 3 ditë përpara mbledhjes.
