@@ -1,0 +1,8 @@
+LIGJ
+Nr.9922, datë 26.5.2008
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN
+“PËR TAKSIMIN E AUTOMJETEVE RRUGORE NË TRANSPORTIN NDËRKOMBËTAR TË UDHËTARËVE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
