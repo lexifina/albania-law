@@ -1,0 +1,1 @@
+6. Efektet financiare të ndryshimeve në listën e barnave të përballohen nga buxheti i vitit 2008, miratuar për Institutin e Sigurimeve të Kujdesit Shëndetësor dhe ai i miratuar për Ministrinë e Shëndetësisë.

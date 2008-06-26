@@ -1,0 +1,1 @@
+2. Miratimin e marzheve të diferencuara të tregtimit, përkatësisht, në masën 12 për qind, për tregtimin me shumicë, dhe 29 për qind, për tregtimin me pakicë, për barnat e rimbursueshme, të përfshira në listë, dhe të marzheve të diferencuara të tregtimit, me shumicë e pakicë, të barnave, të përfshira në pasqyrën III, që i bashkëlidhet këtij vendimi.
