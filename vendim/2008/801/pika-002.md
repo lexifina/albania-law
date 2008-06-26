@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 8 (tetë) fletë, që përfundon me numrin rendor 281 (dyqind e tetëdhjetë e një), dhe lidhja nr.1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
