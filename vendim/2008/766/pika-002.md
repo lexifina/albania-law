@@ -1,0 +1,1 @@
+2. Ky objekt, 6,08 (gjashtë presje zero tetë) ha, në zërin kadastral “Tokë bujqësore”, dhe 1,71 (një presje shtatëdhjetë e një) ha, në zërin kadastral “Tokë e pafrytshme”, të hiqet nga regjistrat kadastralë të SAMT-së, të qarkut të Gjirokastrës.
