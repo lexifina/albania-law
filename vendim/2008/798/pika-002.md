@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 15 (pesëmbëdhjetë) fletë, që përfundon me numrin rendor 588 (pesëqind e tetëdhjetë e tetë), dhe lidhja nr.1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
