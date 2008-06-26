@@ -1,0 +1,1 @@
+2. Miratimin e bonisit prej 8 për qind të pikëve, për rezultatin ekonomik, financiar, teknik dhe mjedisor, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), që i jepet shoqërisë “Zona industriale dhe tregtare, Koplik” sh.p.k.
