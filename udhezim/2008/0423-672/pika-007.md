@@ -1,0 +1,1 @@
+7. Armët në magazinë të vendosen në kasaforta metalike (dollap hekuri) ose në armaturë druri, duke iu kaluar nëpërmjet urëzës mbrojtëse të këmbëzës së shkrepjes një zinxhir metalik (kavo) në secilën armë. Zinxhiri në dy skajet fundore të jetë i siguruar me dry, duke u kapur me kapse metalike të futura në mure.

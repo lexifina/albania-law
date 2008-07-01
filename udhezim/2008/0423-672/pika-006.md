@@ -1,0 +1,1 @@
+6. Armët e këtij koleksioni të bëhen të paefektshme për qitje përpara dorëzimit të tyre nga specialistët e armatimit në prani të marrësit në dorëzim, duke iu hequr gjilpërat nga shuli. Këto gjilpëra të ruhen në magazinën e armatimit të Drejtorisë së Policisë së Qarkut Tiranë, në një kasafortë metalike të veçantë të mbyllur me çelës dhe të vulosur.

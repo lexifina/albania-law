@@ -1,0 +1,1 @@
+8. Në rastet kur armët me vlera muzeale, sipas përcaktimit të Qendrës Ndërkombëtare të Inventarizimit të Pasurive Kulturore, do të ekspozohen në ambientet e brendshme të ish-Familjes Mbretërore, të kryhen veprimet duke i pasqyruar në librin “model 34” të magazinës. Në këto raste, armët do të vendosen në rresht e të sigurohen me zinxhir metalik sipas pikës 7 të këtij udhëzimi.

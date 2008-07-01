@@ -1,0 +1,1 @@
+1. Strukturat përkatëse të Policisë së Shtetit t’i bëjnë dorëzimin e koleksionit privat të armëve të lehta të zjarrit përfaqësuesit të trashëgimtarëve të Familjes së Mbretit Zog, si dhe të ndjekin e kontrollojnë në vazhdimësi masat për ruajtjen e sigurimin e tyre.

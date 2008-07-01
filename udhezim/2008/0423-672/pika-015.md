@@ -1,0 +1,1 @@
+15. Në rastet kur konstatohen shkelje të rregullave për ruajtjen, miradministrimin dhe përdorimin e armëve të këtij koleksioni, ndaj personave përgjegjës të merren masat përkatëse sipas akteve normative në fuqi.

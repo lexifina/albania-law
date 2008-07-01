@@ -1,0 +1,1 @@
+10. Llogaria dhe dokumentimi i këtyre armëve të mbahet në librin e llogarisë kryesore “model 28” nga sektori i armatimit të Drejtorisë së Policisë së Qarkut Tiranë sipas këtij udhëzimi dhe legjislacionit në fuqi, duke e trajtuar dhe konsideruar këtë koleksion armatimi, si të një nënreparti policie të veçantë.

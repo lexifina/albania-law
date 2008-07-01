@@ -1,0 +1,1 @@
+11. Inventari i armatimit të këtij koleksioni të kryhet jo më pak se një herë në vit, nga Sektori i Armatimit të Drejtorisë së Policisë së Qarkut Tiranë, me komision të posaçëm, duke respektuar procedurat dhe rregullat për armët organike në përgjithësi.
