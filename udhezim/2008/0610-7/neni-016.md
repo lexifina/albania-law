@@ -1,0 +1,4 @@
+# Neni 16
+Forma koncesionare
+1. Dhënia e koncesionit nga organet e qeverisjes vendore subjektit juridik, për rastin e parashikuar në nenin 7, pika 8 germa “b”, të ligjit nr.8378 “Kodi Rrugor i Republikës së Shqipërisë” të ndryshuar, do të bëhet në përputhje me ligjin nr.9663, datë 18.12.2006 “Për koncesionet” dhe vendimit të Këshillit të Ministrave nr.27, datë 19.01.2007 “Për miratimin e rregullave të vlerësimit dhe dhënies së koncesioneve”, të ndryshuar.
+2. Përzgjedhja e subjektit i cili do të bëjë administrimin e shërbimit të parkimit mbitokësor, do të bëhet sipas procedurave të parashikuara në ligjin nr.9663, datë 18.12.2006 “Për koncesionet” dhe vendimit të Këshillit të Ministrave nr.27, datë 19.1.2007 “Për miratimin e rregullave të vlerësimit dhe dhënies së koncesioneve”, të ndryshuar.
