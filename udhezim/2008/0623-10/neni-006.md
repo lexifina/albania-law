@@ -1,0 +1,4 @@
+# Neni 6
+Ndryshimi i anijes, shtesa anijesh ose prekjet ekstra në një linjë të miratuar
+Në rastet e zëvendësimit të anijeve dhe/ose shtimit të tyre në të njëjtën linjë, subjekti duhet të lidhë kontratë me portin që prek, më pas duhet të sjellë kontratën së bashku me dokumentet e mjetit për të kryer kontrollet e vërtetësisë së dokumenteve ose të afatit të skadimit të tyre në ministri. Kapitaneria e portit duhet të lejojë operimin pasi të njoftohet nga ministria mbi rregullsinë e dokumenteve.
+Në rastet e prekjeve shtesë në të njëjtën linjë do të ndiqen të gjitha procedurat për prekjet shtesë. Në këto raste nuk ka nevojë për lejë nga ministria, por mjafton të njoftohet portit që prek dhe kapiteneria përkatëse për të kryer kontrollet e vërtetësisë së dokumenteve ose afatit të skadimit të tyre. Numri i prekjeve ekstra në të njëjtën linjë nuk duhet të jetë më shumë se 5 (pesë) prekje në muaj, nga i njëjti subjekt i licencuar.

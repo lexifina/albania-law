@@ -1,0 +1,7 @@
+UDHËZIM
+Nr.10, datë 23.6.2008
+PËR KRITERET DHE PROCEDURAT E LËSHIMIT, PEZULLIMIT DHE HEQJES SË LEJEVE PËR USHTRIMIN E VEPRIMTARISË DHE LEJEVE TË OPERIMIT NË FUSHAT E TRANSPORTIt DETAR
+Në mbështetje të nenit 102 pika 4 të Kushtetutës së Republikës së Shqipërisë, ligjit nr.7512, datë 10.8.1991 “Për sanksionimin dhe mbrojtjen e pronës private, të nismës së lirë, të veprimtarive private të pavarura dhe privatizimit”, ndryshuar me ligjin nr.7723, datë 21.6.1993 “Për një shtesë në ligjin nr.7512, datë 10.8.1991”, si dhe në vendimin e Këshillit të Ministrave nr.198, datë 2.5.1997 “Për një ndryshim në vendimin e Këshillit të Ministrave nr.621, datë 20.12.1993 “Për kompetencat në dhënien e lejeve për ushtrimin e veprimtarive në fushën e transportit dhe të komunikacionit””, në Kodin Detar të Republikës së Shqipërisë, me qëllim rregullimin dhe disiplinimin e marrëdhënieve me subjektet e ndryshme të cilat kërkojnë të ushtrojnë veprimtari në fushën e transportit detar,
+duke adoptuar normat e Bashkimit Europian, Organizatës Ndërkombëtare Detare (IMO) dhe të Organizatës të Kombeve të Bashkuara të zbatueshme në transportin detar të udhëtarëve dhe mallrave;
+duke synuar rregullimin, disiplinimin, monitorimin dhe lehtësimin e veprimtarisë së ushtruar ose që kërkohet të ushtrohet nga personat juridikë në fushën e transportit detar, si edhe integrimin e plotë të tyre në tregun europian të transportit detar, Ministri i Punëve Publike, Transportit dhe Telekomunikacionit
+UDHËZON:

@@ -1,0 +1,5 @@
+# Neni 14
+Dispozita transitore dhe të fundit
+1. Udhëzimi i Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit nr.21, datë 24.12.2007 “Për kriteret dhe procedurat e lëshimit, pezullimit dhe heqjes së lejeve për ushtrimin e veprimtarisë dhe lejeve të operimit në fushat e transportit detar” dhe të gjitha aktet e tjera të kësaj Ministrie që bien ndesh me këtë udhëzim, shfuqizohen.
+2. Lejet e dhëna sipas kritereve të përcaktuara në udhëzimin e Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit nr.142, datë 20.1.1998 “Për procedurat dhe kriteret që do të zbatohen për marrjen e lejeve për ushtrimin e veprimtarisë në fushat e transportit”, siç është ndryshuar, dhe të udhëzimit të Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit nr.21, datë 24.12.2007 “Për kriteret dhe procedurat e lëshimit, pezullimit dhe heqjes së lejeve për ushtrimin e veprimtarisë dhe lejeve të operimit në fushat e transportit detar” do të vazhdojnë të jenë në fuqi brenda afatit të tyre të vlefshmërisë.
+Ky udhëzim hyn në fuqi menjëherë.
