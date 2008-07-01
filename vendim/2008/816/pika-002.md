@@ -1,0 +1,1 @@
+2. Miratimin e listës përfundimtare e pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin, territorial dhe administrativ, të njësisë vendore, komuna Çërravë, të qarkut të Korçës, sipas listës me 3 (tri) fletë, që përfundon me numrin 97 (nëntëdhjetë e shtatë), që i transferohen në pronësi kësaj njësie.

@@ -1,0 +1,1 @@
+1. Miratimin e listës shtesë të inventarit të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin territorial dhe administrativ të njësisë së qeverisjes vendore, komuna Çërravë, të qarkut të Korçës, sipas listës me 3 (tri) fletë, që përfundon me numrin rendor 89 (tetëdhjetë e nëntë).
