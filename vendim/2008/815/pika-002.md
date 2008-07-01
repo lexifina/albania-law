@@ -1,0 +1,1 @@
+2. Miratimin e listës përfundimtare e pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin, territorial dhe administrativ, të njësisë së qeverisjes vendore, bashkia Kukës, të qarkut të Kukësit, që do t’i transferohen në pronësi kësaj njësie.

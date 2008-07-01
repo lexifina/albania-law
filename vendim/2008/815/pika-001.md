@@ -1,0 +1,1 @@
+1. Miratimin e listës shtesë të inventarit të pronave të paluajtshme publike, pyje dhe kullota, që janë në juridiksionin territorial dhe administrativ të njësisë së qeverisjes vendore, bashkia Kukës, të qarkut të Kukësit, sipas listës me 1 (një) fletë, që përfundon me numrin rendor 7 (shtatë).

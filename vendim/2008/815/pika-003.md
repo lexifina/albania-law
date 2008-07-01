@@ -1,0 +1,1 @@
+3. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 1 (një) fletë, që përfundon me numrin rendor 8 (tetë), që i transferohen në pronësi kësaj njësie, si dhe tabela me lidhjen nr.1 i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
