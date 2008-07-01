@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19868,
+  "title": "Për ngritjen e komisionit të posaçëm parlamentar për kodin zgjedhor",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "192",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-06-30",
+  "published": "2008-07-01",
+  "in_force": "2008-07-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/51b621bdae517fcb40ae77f5811b79f88d08cb4b3c5fa20090a763fdce4fbea0.docx",
+  "source_sha256": "51b621bdae517fcb40ae77f5811b79f88d08cb4b3c5fa20090a763fdce4fbea0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19868",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/06/30/192",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
