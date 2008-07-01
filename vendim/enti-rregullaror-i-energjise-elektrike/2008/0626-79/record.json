@@ -1,0 +1,28 @@
+{
+  "qbz_id": 6844,
+  "title": "PËR MIRATIMIN E METODOLOGJISË SË LLOGARITJES sË TARIFËS  sË SHPËRNDARJES sË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "79",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-06-26",
+  "published": "2008-07-01",
+  "in_force": "2008-07-01",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d27e4314234cd00c4cdfe004890b4e2e80566b8b27ecf8ddfbc12d3dab136a0f.docx",
+  "source_sha256": "d27e4314234cd00c4cdfe004890b4e2e80566b8b27ecf8ddfbc12d3dab136a0f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6844",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/06/26/79",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    7165
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
