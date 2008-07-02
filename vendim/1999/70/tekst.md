@@ -4,7 +4,7 @@ Nr. 70, datë 11.2.1999
 
 PËR EVIDENTIMIN E PUNËKËRKUESVE TË PAPUNË
 
-(Ndryshuar me VKM nr. 907, datë 19.12.2007)
+(Ndryshuar me VKM nr. 907, datë 19.12.2007; nr. 992, datë 2.7.2008)
 
 (i përditësuar)
 
@@ -26,7 +26,7 @@ Librezat e punësimit kanë numër serie dhe elementë sigurie. Një personi i j
 
 Zyra përkatëse e punësimit pajis me vërtetim çdo punëkërkues të papunë, që përfiton ose do të përfitojë nga ofrimi i shërbimeve dhe programet aktive të punësimit, si edhe nga programet e tjera shtetërore të mbështetjes me të ardhura.
 
-5. Zyra përkatëse e punësimit vlerëson dhe regjistron si punëkërkues të papunë çdo person të papunë, i cili kërkon punë dhe është i gatshëm të paraqitet sa herë që i kërkohet një gjë e tillë. Një pretendues mund të vlerësohet si punëkërkues i papunë të paktën tre muaj kalendarik pas ditës së paraqitjes së tij të parë në zyrën përkatëse e punësimit për këtë qëllim.
+5. Zyra përkatëse e punësimit vlerëson dhe regjistron si punëkërkues të papunë çdo person të papunë, i cili kërkon punë dhe është i gatshëm të paraqitet sa herë që i kërkohet një gjë e tillë. Një pretendues mund të vlerësohet si punëkërkues i papunë të paktën një muaj kalendarik pas ditës së paraqitjes së tij të parë në zyrën përkatëse e punësimit për këtë qëllim.
 
 6. Shërbimi Kombëtar i Punësimit nxjerr dhe pajis me kartë personale papunësie tërë personat që pranojnë një gjë të tillë. Në kartën e papunësisë bëhet vërtetimi nga zyra përkatëse e punësimit e të qenit punëkërkues i papunë i mbajtësit të kartës. Pajisja me kartë papunësie bëhet kundrejt depozitimit në zyrën përkatëse e punësimit të librezës së punësimit dhe anasjelltas.
 
