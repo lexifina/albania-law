@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123833,
+  "title": "PËR MBROJTJEN E TOPOGRAFISË SË QARQEVE TË INTEGRUARA",
+  "type": "Ligj",
+  "number": "8488",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-05-13",
+  "version_no": 1,
+  "qbz_version_id": 10837,
+  "in_force": "2008-07-17",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2008-07-17",
+  "changed_by_qbz_id": 7032,
+  "changed_by_number": "9957",
+  "changed_by_title": "PËR DISA NDRYSHIME NË LIGJIN NR.8488, DATË 13.5.1999 “PËR MBROJTJEN E TOPOGRAFISË SË QARQEVE TË INTEGRUARA",
+  "source": "https://qbz.gov.al/files/76566bdb8e80bdb92cafa22d6a0ac14348ce6c0630a7b2bc9587f8f11fec9fe1.docx",
+  "source_sha256": "76566bdb8e80bdb92cafa22d6a0ac14348ce6c0630a7b2bc9587f8f11fec9fe1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123833",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123833/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
