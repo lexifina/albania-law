@@ -1,0 +1,1 @@
+3. Programet e studimeve, që organizohen pranë këtij institucioni, janë me kohë të plotë. Kohëzgjatja normale e programeve të studimit të ciklit të parë është 3 vjet dhe kohëzgjatja normale e programeve të studimit të ciklit të dytë, është 2 vjet.

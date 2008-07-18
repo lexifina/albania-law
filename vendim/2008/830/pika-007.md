@@ -1,0 +1,2 @@
+7. Institucioni privat i arsimit të lartë “Shkolla e Lartë “Nehemia”” do ta fillojë veprimtarinë mësimore, për programet e studimit, pasi të ketë marrë lejen përkatëse nga Ministri i Arsimit dhe Shkencës, por jo më vonë se tri javë para fillimit të vitit akademik.
+Ministri e lëshon lejen pasi vlerëson se institucioni privat i arsimit të lartë ka përmbushur angazhimet e deklaruara, në përputhje me udhëzimin për këtë qëllim.
