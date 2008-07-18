@@ -1,0 +1,1 @@
+1. Hapjen, pranë universitetit “Fan S. Noli”, Korçë, në Fakultetin e Mësuesisë, të programeve të studimit, të ciklit të parë, në formën studimore me kohë të plotë, “Matematikë-Fizikë” dhe “Matematikë-Informatikë”.
