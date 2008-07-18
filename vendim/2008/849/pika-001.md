@@ -1,0 +1,1 @@
+1. Ministrive dhe institucioneve buxhetore, në buxhetet e miratuara për vitin 2008, t’u shtohet fondi 110 458 500 (njëqind e dhjetë milionë e katërqind e pesëdhjetë e tetë mijë e pesëqind) lekë, sipas listës, që i bashkëlidhet këtij vendimi, për kryerjen e pagesës shtresave në nevojë, për mbrojtjen nga rritja e çmimit të energjisë elektrike.

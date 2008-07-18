@@ -1,0 +1,1 @@
+2. Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta, në buxhetin e miratuar për vitin 2008, programi “Mbrojtja sociale” (Gr.25, Tit.10430, Kap.1, Art.606), t’i pakësohet fondi prej 110 458 500 (njëqind e dhjetë milionë e katërqind e pesëdhjetë e tetë mijë e pesëqind) lekësh.
