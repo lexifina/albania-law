@@ -1,0 +1,1 @@
+3. Programet e studimeve, që organizohen pranë institucionit privat të arsimit të lartë “Shkolla e Lartë Europiane për Turizmin”, janë me kohë të plotë. Kohëzgjatja normale e programeve të studimit, të ciklit të parë, është 3 vjet dhe kohëzgjatja normale e programeve të studimit “Master i nivelit të parë” është 1 vit.

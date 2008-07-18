@@ -1,0 +1,1 @@
+6. Ngarkohet institucioni privat i arsimit të lartë “Shkolla e Lartë Europiane për Turizmin” që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga personel akademik i huaj, me kualifikimin e nevojshëm.
