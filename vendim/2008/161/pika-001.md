@@ -1,1 +1,1 @@
-1. Kuota e pranimit në programet e studimeve specializuese afatgjata, pranë Fakultetit të Mjekësisë, të Universitetit të Tiranës, për vitin akademik 2007-2008, të jetë 167, e ndarë në specialitete, sipas shtojcës nr.1, që i bashkëlidhet këtij vendimi.
+1. Kuota e pranimit në programet e studimeve specializuese afatgjata, pranë Fakultetit të Mjekësisë, të Universitetit të Tiranës, për vitin akademik 2007-2008, të jetë 182, e ndarë në specialitete, sipas shtojcës nr.1, që i bashkëlidhet këtij vendimi.
