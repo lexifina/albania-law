@@ -1,0 +1,1 @@
+3. Kancelari shkarkohet nga Ministri i Arsimit dhe Shkencës, me nismën e vet, me propozimin e KADM-së ose të rektorit të institucionit. Procedurat, që ndiqen nga KADM-ja, për shkarkimin e kancelarit e për mënyrën e votimit, janë të njëjta me atë të ndjekura për përzgjedhjen e tij.

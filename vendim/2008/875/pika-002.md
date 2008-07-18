@@ -1,0 +1,12 @@
+2. Për përzgjedhjen dhe emërimin e kancelarit të institucionit ndiqen procedurat e mëposhtme:
+a) KADM-ja miraton kriteret, që duhet të plotësojnë kandidatët;
+b) Institucioni shpall publikisht, për dy javë kalendarike, vendin e punës dhe kriteret, që duhet të plotësojnë kandidatët për kancelar, si dhe shpall fillimin e vlerësimit dhe të përzgjedhjes së kandidatëve, nëse janë paraqitur, së paku, tri kandidatura;
+c) KADM-ja harton skemën e vlerësimit të kandidatëve duke përshkruar me hollësi mënyrën e vlerësimit të kandidatëve, në bazë të ligjit nr.8549, datë 11.11.1999 “Statusi i nëpunësit civil”. Përveç vlerësimit të dosjes mund të parashikojë edhe një intervistë;
+ç) Çdo anëtar i KADM-së bën vlerësimin, me shkrim, sipas skemës së miratuar, për çdo kandidat, dhe në fund, në bazë të pikëve të grumbulluara, shpallet renditja e kandidatëve;
+d) KADM-ja ka të drejtë të përzgjedhë, me votim të fshehtë, njërin nga tri kandidatët, që kanë grumbulluar më shumë pikë. Fitues shpallet kandidati, që merr 2/3 e votave të anëtarëve.
+dh) KADM-ja, pasi bën përzgjedhjen e kandidatëve, shpall publikisht kandidaturën fituese.
+Kandidatët kanë të drejtë ta ankimojnë vendimin e KADM-së, vetëm për procedurën e vendimmarrjes, brenda 3 ditëve nga data e shpalljes. Ankesat depozitohen në protokollin e institucionit.
+KADM-ja ka të drejtë të shqyrtojë ankesat, në përputhje me Kodin e Procedurave Administrative, dhe u përgjigjet atyre me shkrim.
+e) KADM-ja pas rishqyrtimit ia dërgon propozimin e vet rektorit të institucionit, brenda 2 ditëve pune.
+ë) Rektori, pas përfundimit të procesit të ankimimit, ia përcjell Ministrit të Arsimit dhe Shkencës dosjen e kandidatit për kancelar, brenda 2 ditëve pune nga data e ardhjes së propozimit, së bashku me vendimin e me relacionin shoqërues të KADM-së, ku pasqyrohet i plotë edhe qëndrimi i pakicës, që ka votuar kundër. Kur rektori nuk ia dërgon ministrit propozimin e KADM-së për kandidaturën për kancelar brenda afatit të mësipërm, kryetari i këtij këshilli i dërgon ministrit vendimin, brenda 2 ditëve pune.
+f) Ministri i Arsimit dhe Shkencës ka të drejtë të pranojë ose refuzojë kandidaturën e propozuar, brenda 10 ditëve nga data e mbërritjes së propozimit. Në rast refuzimi të kandidaturës, përsëritet e gjithë procedura e përzgjedhjes së kancelarit të institucionit.Në rast se ministri refuzon edhe kandidaturën e propozuar herën e dytë, ai ka të drejtë të emërojë një kancelar të komanduar, për jo më shumë se 1 vit. Gjatë kësaj periudhe, KADM-ja përzgjedh një kandidaturë të re, sipas procedurave të mësipërme.
