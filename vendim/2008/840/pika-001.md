@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës “ROT” (rehabilitim, operim dhe transferim), të hidrocentralit “VINJOLL”, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.

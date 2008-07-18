@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës në procedurën konkurruese për dhënien me koncesion të hidrocentralit “Vinjoll” të kërkojë shprehje interesi dhe të pranojë oferta, për të gjithë pjesën e lirë të skemës, ku përfshihet rehabilitimi i këtij hidrocentrali.
