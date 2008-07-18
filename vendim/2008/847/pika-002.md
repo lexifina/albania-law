@@ -1,0 +1,1 @@
+2. Efekti financiar, që rrjedh nga zbatimi i këtij vendimi, në shumën 231 000 (dyqind e tridhjetë e një mijë) lekë, për racion ditor, të përballohet nga buxheti i vitit 2008, miratuar për Gardën e Republikës së Shqipërisë.
