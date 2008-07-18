@@ -183,7 +183,7 @@ Kërkesa për gjendjen financiare shërben si tregues për zotërimin nga operat
 ii) Për kapacitetet teknike dhe profesionale:
 - licencat profesionale për realizimin e punimeve, objekt i kontratës dhe/ose;;
 - dëshminë e aftësisë për zbatimin e kontratës nga ekspertë, që nuk i përkasin drejtpërdrejt operatorit ekonomik dhe/ose;;
-- kualifikimet arsimore dhe profesionale të stafit përgjegjës për drejtimin e punëve dhe/ose;;
+- kualifikimet arsimore dhe profesionale të stafit përgjegjës për drejtimin e punëve dhe/ose;
 - dëshmi për fuqinë mesatare punëtore të operatorit ekonomik dhe për numrin e stafit drejtues deri në tri vitet e fundit dhe/ose;;
 - dëshmi për mjetet e pajisjet teknike, që ka në dispozicion apo që mund t’i vihen në dispozicion operatorit ekonomik, për të përmbushur kontratën.
 Në rastin kur zbatohet kriteri me përparësi më të mirë ekonomike, në listë duhen përcaktuar qartë kriteret dhe rëndësia e tyre në shpalljen e fituesit.
@@ -205,6 +205,10 @@ Autoriteti kontraktor mund t’u kërkojë operatorëve ekonomikë të dorëzojn
 dëshminë e origjinalitetit të mostrave, përshkrimin dhe/ose fotografitë apo katalogjet teknike dhe/ose;
 dëshmi për rezultatet e testimeve zyrtare, të lëshuara nga institucione të autorizuara, që vërtetojnë pajtueshmërinë e produkteve me specifikimet teknike.
 Autoriteti kontraktor mund të kërkojë dhe mostra të mallit, kur e gjykon se kjo ka rëndësi për vlerësimin e ofertës teknike. Mostrat duhet të trajtohen si informacion konfidencial tregtar dhe duhet të jenë ekskluzivisht në kontroll të autoritetit kontraktor. Ato i kthehen ofertuesit me kërkesën e tij, 30 ditë pas nënshkrimit të kontratës, me kusht që kontrata në fjalë të mos jetë objekt shqyrtimi administrativ apo gjyqësor. Në rastin kur procedura e prokurimit anulohet, mostrat i kthehen ofertuesit, me kërkesën e tij, brenda 30 ditëve nga marrja e vendimit përfundimtar të anulimit.
+Kriter vlerësimi për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje do të jetë çmimi më i ulët, bazuar në:
+i) çmimin e bursës, sipas Reuters, livruar sipas kushtit CIF-Shqipëri, i cili dërgohet për botim, çdo javë, në Buletinin e Njoftimeve Publike nga Drejtoria e Përgjithshme e Doganave;
+ii) elementet fiskale, përfshi akcizën, taksë karboni;
+iii) marzhin e fitimit, të shprehur në vlerë absolute dhe në përqindje.
 Në rastin kur zbatohet kriteri me përparësi më të mirë ekonomike, në listë duhen përcaktuar qartë kriteret dhe rëndësia e tyre në shpalljen e fituesit.
 c) Kontratat e shërbimeve
 Natyra e shërbimeve duhet të shprehet qartë në termat e referencës, ku përfshihen objekti, qëllimi, specifikimet teknike dhe afatet kohore të shërbimit, që do kryhet.
@@ -409,7 +413,7 @@ b) Vetëm në rrethana të argumentuara, të shpallura në njoftimin e kontratë
 objekti i tyre është blerja, qiraja ose blerja me këste e mallrave, me ose pa mundësinë e kalimit të pronësisë, që zgjat deri në pagimin e plotë të vlerës ose derisa pronësia t’i kalojë autoritetit kontraktor;
 është kontratë komplekse, që kërkon financim shumëvjeçar ose të strukturuar, e cila nuk mund të zbatohet për 12 muaj (si për shembull projektet komplekse në infrastrukturë) dhe ku financimi i saj është i garantuar;
 Kontraktori kërkon kohë për të rikuperuar koston e financimit (si për shembull grumbullimi dhe trajtimi i mjeteve urbane, shërbimet e kateringut në komplekse spitalore, shërbimet e transportit urban apo kontrata të ngjashme me to). Kohëzgjatja e këtyre kontratave nuk duhet të kalojë 7 vjet.
-Objekti i tyre është mirëmbajtja e mjeteve kompjuterike apo mirëmbajtja e sistemeve elektronike/kompjuterike, me shtrirje gjeografike dhe/ose institucionale, që bën të nevojshëm zhvillimin e kapaciteteve njerëzore, ngritjen e ekspertizës dhe/ose të infrastrukturës. Këtu, gjithashtu, përfshihen edhe kontratat e shërbimit të ndërlidhjes (konjektivitetit) në shumë pika, në rastet kur kanë tarifë fillestare instalimi. Kohëzgjatja e këtyre kontratave nuk duhet të kalojë 4 vjet.
+Objekti i tyre është mirëmbajtja e mjeteve kompjuterike apo mirëmbajtja e sistemeve elektronike/kompjuterike, me shtrirje gjeografike dhe/ose institucionale, që bën të nevojshëm zhvillimin e kapaciteteve njerëzore, ngritjen e ekspertizës dhe/ose të infrastrukturës. Këtu, gjithashtu, përfshihen edhe kontratat e shërbimit të ndërlidhjes (konjektivitetit) në shumë pika, në rastet kur kanë tarifë fillestare instalimi. Kohëzgjatja e këtyre kontratave nuk duhet të kalojë 4 vjet.”.
 KREU VIII
 EKZEKUTIMI I KONTRATËS
 Nënkontraktimi
@@ -420,7 +424,9 @@ c) Me dorëzimin e ofertave, ofertuesit duhet të deklarojnë punët, shërbimet
 d) Gjatë ekzekutimit të kontratës autoriteti kontraktor duhet të kontrollojë se punët e shërbimet kryhen ose mallrat dorëzohen nga nënkontraktorë të autorizuar.
 2. Mbikëqyrja e kontratës
 a) Gjatë zbatimit të kontratës, autoriteti kontraktor dhe/ose organe të tjera shtetërore, të autorizuara me ligj, mund të mbikëqyrin veprimtarinë e kontraktorit dhe vendin e zbatimit, sipas legjislacionit në fuqi apo sipas kërkesave, të përcaktuara në dokumentet e tenderit.
-b) Për t’u siguruar nëse cilësia e punëve, shërbimeve ose e mallrave është e njëjtë me cilësinë e premtuar në ofertë, autoriteti kontraktor duhet të monitorojë zbatimin e kontratës ose lëvrimet, dhe, në rast të shkeljes së kushteve të kërkuara, zbaton penalitetet, e parashikuara në kontratë, apo detyrimet, në mbështetje të nenit 62, të LPP-së. Autoriteti kontraktor, gjatë kryerjes së kontrolleve, mban procesverbal, me shkrim. Në përfundim të kontratës, autoriteti kontraktor përgatit një raport përmbledhës për korrektësinë dhe cilësinë e zbatimit të kontratës. Një kopje e këtij raporti i jepet edhe kontraktorit, me kërkesë të tij.
+b) Për t’u siguruar nëse cilësia e punëve, shërbimeve ose e mallrave është e njëjtë me cilësinë e premtuar në ofertë, autoriteti kontraktor duhet të monitorojë zbatimin e kontratës, ose lëvrimet dhe, në rast të shkeljes së kushteve të kërkuara, zbaton penalitetet, e parashikuara në kontratë, apo detyrimet, në mbështetje të nenit 62, të LPP-së. Autoriteti kontraktor, gjatë kryerjes së kontrolleve, mban procesverbal, me shkrim. Në përfundim të kontratës, autoriteti kontraktor përgatit një raport përmbledhës për korrektësinë dhe cilësinë e zbatimit të kontratës. Një kopje e këtij raporti i jepet edhe kontraktorit, me kërkesë të tij.
+c) Nëse çmimi, gjatë kohës së zbatimit të kontratës për furnizimin me karburant, gazoil, benzol dhe karburant për ngrohje, sipas Reuters, ndryshon dukshëm në ulje apo ngritje, me kërkesë me shkrim të palëve dhe në varësi të çmimeve të ndryshueshme të blerjes në tregjet ndërkombëtare, kontraktori pasqyron, në faturat periodike të shitjes, çmimin e mallit, mbështetur në deklaratën doganore SAD.
+Autoriteti kontraktor, para pagimit të faturës së mallit, duhet të kontrollojë përqindjen, e rritjes apo të uljes, të çmimit të bursës, sipas Reuters, livruar sipas kushtit CIF-Shqipëri, cilësinë e mallit të livruar, nëse është e njëjtë me atë të premtuar në ofertë.
 KREU IX
 SHQYRTIMI I ANKESAVE
 1. Ankesat në autoritetin kontraktor
@@ -454,7 +460,7 @@ SANKSIONET ADMINISTRATIVE DHE MASAT DISIPLINORE
 Në zbatim të nenit 72, të LPP-së, titullari i APP-së mund të vendosë gjobë apo të propozojë masa disiplinore për çdo person përgjegjës që:
 nuk dërgon, sipas afatit dhe përmbajtjes së kërkuar, njoftimet dhe informacionet, që parashikohen në nenet 38, 39 e 58, të LPP-së, dhe në pikën 3, të kreut I, të rregullave të prokurimit publik;
 nuk skualifikon një ofertues/kandidat, kur ekzistojnë rrethanat e parashikuara në nenet 45 e 47, të LPP-së;
-nuk zbaton afatet e parashikuara në 42 dhe në nenin nenin 43, të LPP-së, dhe në pikën 4, të kreut V, të rregullave të prokurimit publik;
+nuk zbaton afatet e parashikuara në në nenin 42 dhe nenin 43, të LPP-së, dhe në pikën 4, të kreut V, të rregullave të prokurimit publik;
 përdor procedurat e parashikuara në nenet 31, 32 e 33, të LPP-së, në kundërshtim me rrethanat, që përcaktohen në ligj dhe në rregullat e prokurimit publik;
 pjesëton vlerën e kontratës për shmangien nga kufijtë monetarë, të parashikuar në kreun II, të rregullave të prokurimit publik;
 nuk mban dokumentacionin e plotë të prokurimit, në përputhje me kërkesat e pikës 2, të nenit 12, të LPP-së;”
