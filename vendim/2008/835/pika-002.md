@@ -1,0 +1,1 @@
+2. Ngarkohet Ministria e Ekonomisë, Tregtisë dhe Energjetikës të realizojë tenderin për privatizimin e shoqërisë anonime “Operatori i Sistemit të Shpërndarjes”, sipas kërkesave të përcaktuara në tekstin, që i bashkëlidhet këtij vendimi.
