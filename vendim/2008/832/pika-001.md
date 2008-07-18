@@ -1,0 +1,1 @@
+1. Hapjen, pranë universitetit “Ismail Qemali”, Vlorë, në Fakultetin e Shkencave Teknike, të programeve të studimit, të ciklit të parë, në formën e studimeve me kohë të plotë, “Informatikë”, “Matematikë”, me dy drejtime, “Matematikë” dhe “Matematikë-Fizikë”, dhe “Inxhinieri mekanike”, me dy drejtime, “Inxhinieri mekanike” e “Inxhinieri navale”.

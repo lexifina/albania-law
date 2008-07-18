@@ -1,0 +1,1 @@
+5. Studentët e regjistruar në programet e studimeve “Inxhinieri Navale” dhe “Matematikë-Fizikë”, para hyrjes në fuqi të këtij vendimi, do t’i vazhdojnë studimet në këto programe studimi, për kohëzgjatjen normale të tyre. Studentët mbetës në këto programe studimi do të marrin diplomën, në varësi të afateve të studimeve të kryera.

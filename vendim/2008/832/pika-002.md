@@ -1,0 +1,1 @@
+2. Kohëzgjatja e secilit program do të jetë 3 vjet, me 180 kredite. Në përfundim të secilit program studimi lëshohen, përkatësisht, “Diplomë e nivelit të parë, në Informatikë”, “Diplomë e nivelit të parë, në Matematikë”, “Diplomë e nivelit të parë në Matematikë-Fizikë”, “Diplomë e nivelit të parë në Inxhinieri Mekanike” dhe “Diplomë e nivelit të parë në Inxhinieri Navale”.
