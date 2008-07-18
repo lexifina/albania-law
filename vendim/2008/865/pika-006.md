@@ -1,0 +1,1 @@
+6. Me pagesë shkollimi kuptohen shpenzimet për mësimdhënie, ndërsa shpenzimet e tjera, si pagesa e librave, transporti, pjesëmarrje në veprimtari të ndryshme kulturore-sportive etj., përballohen nga vetë nëpunësi i përfaqësisë diplomatike.

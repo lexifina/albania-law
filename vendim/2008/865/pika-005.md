@@ -1,0 +1,1 @@
+5. Në raste të veçanta, kur, me dokumente, vëretohet se shuma e parashikuar në pikën 2, të këtij vendimi, është më e vogël se 50 për qind e shpenzimit mujor për shkollim për fëmijë, me urdhër të Ministrit të Punëve të Jashtme mund të përcaktohet një vlerë më e lartë, deri në 50 për qind të kostos së shkollimit.
