@@ -1,0 +1,1 @@
+22. Aspektet e tjera të funksionimit të FASTIP-it, gjatë periudhës kalimtare, të cilat nuk janë përmendur në këtë vendim, rregullohen në bazë të ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, dhe statutit të FASTIP-it.

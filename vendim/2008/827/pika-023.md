@@ -1,0 +1,1 @@
+23. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të parashikuara për mbulimin e pagave, sigurimet shoqërore, shpenzimet për blerje materialesh e shërbimesh, si dhe fondet për investime, të përballohen nga buxheti vjetor, i miratuar për Ministrinë e Arsimit dhe Shkencës.

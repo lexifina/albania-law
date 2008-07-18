@@ -1,0 +1,1 @@
+1. Hapjen, pranë universitetit “Aleksandër Moisiu”, Durrës, të Fakultetit të Studimeve të Integruara me Praktikën, (FASTIP). FASTIP-i e zhvillon veprimtarinë e vet në kuadër të këtij universiteti, por gëzon status autonom, për drejtimet e veprimtarisë, që përcaktohen në këtë vendim.

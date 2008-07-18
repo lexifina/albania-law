@@ -1,0 +1,1 @@
+10. Këshilli i fakultetit kryesohet nga rektori i UAMD-së, ndërsa dekani është zëvendëskryetar i këtij këshilli. Përbërja dhe funksionimi i këshillit të FASTIP-it përcaktohen në statutin e tij, duke mbajtur parasysh përfaqësimin e barabartë në numër të përfaqësuesve të biznesit, të përfaqësuesve të Ministrisë së Arsimit dhe Shkencës dhe të personelit akademik të FASTIP-it.

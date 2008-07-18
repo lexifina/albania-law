@@ -1,0 +1,1 @@
+3. FASTIP-i, gjatë periudhës kalimtare, e mbështet veprimtarinë në ligjin nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, në statut dhe në këtë vendim. Statuti i FASTIP-it, për periudhën kalimtare, miratohet nga Ministri i Arsimit dhe Shkencës.

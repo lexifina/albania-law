@@ -1,0 +1,1 @@
+21. Gjatë periudhës kalimtare, FASTIP-i do të ketë varësi administrative nga UAMD-ja, që do të kontrollojë dhe auditojë përdorimin e fondeve buxhetore, zhvillimin e procesit të kërkimit dhe të gjithë ecurinë e fakultetit.

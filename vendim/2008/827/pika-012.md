@@ -1,0 +1,1 @@
+12. Personeli akademik i FASTIP-it duhet të përmbushë kriteret, që parashikon ligji nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, dhe kriteret e tjera, që parashikon statuti i FASTIP-it.

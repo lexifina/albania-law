@@ -1,0 +1,1 @@
+16. FASTIP-i ka të drejtë të lidhë marrëveshje me institucione homologe ose personel akademik të huaj dhe të përballojë shpenzimet e udhëtimit, të akomodimit dhe mësimdhënies nga fondet e fakultetit dhe nga financimet e donatorëve.

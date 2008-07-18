@@ -1,0 +1,1 @@
+14. Niveli i pagave të punonjësve të FASTIP-it do të jetë i njëjtë me atë të personelit akademik respektiv në institucionet publike të arsimit të lartë. Marrëdhëniet e punës së punonjësve rregullohen sipas dispozitave të ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, dhe Kodit të Punës.

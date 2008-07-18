@@ -1,0 +1,2 @@
+7. Për vitin 2008-2009, numri i studentëve, që mund të pranohen në secilin drejtim, të ofruar nga FASTIP-i, është 30. Pranimi i tyre për këtë vit akademik bëhet sipas kritereve dhe procedurave, të përcaktuara nga FASTIP-i.
+Tarifa vjetore e shkollimit për studentët, që do të regjistrohen në vitin akademik 2008-2009, në njërën nga programet e studimit, që ofron FASTIP-i, është 30 000 (tridhjetë mijë) lekë.
