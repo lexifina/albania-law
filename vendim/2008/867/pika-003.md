@@ -1,0 +1,2 @@
+3. Ngarkohet Ministria e Ekonomisë, Tregtisë dhe Energjetikës, që, në bazë të klasifikimit të përcaktuar në pikat 1 e 2 të këtij vendimi, të fillojë negocimet dhe nënshkrimin e marrëveshjes me kandidatin fitues “Refinery Associates of Texas, Anica Enterprises & Mercuria Energy Group”, sipas kapitullit VIII, pikat 2 e 3, të vendimit nr.82, datë 3.2.2008 të Këshillit të Ministrave.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
