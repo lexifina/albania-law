@@ -1,0 +1,1 @@
+1. Ministrisë së Drejtësisë, në buxhetin e miratuar për vitin 2008, t’i shtohet, për Qendrën e Publikimeve Zyrtare, për shpenzime korente, fondi prej 10 000 000 (dhjetë milionë) lekësh, në nënndarjen “Artikulli 602, “Mallra e shërbime””.
