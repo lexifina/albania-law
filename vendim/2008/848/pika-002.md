@@ -1,0 +1,1 @@
+2. Projekti “Rritja e prodhimit ushqimor, 2 KR” të lidhë kontratat e shitjes me rezervë, me subjektet përfituese të NPGA-së (Non Project Grand Aid). Kriteret, afatet dhe sanksionet, në bazë të të cilave do të lidhen këto kontrata, të përcaktohen me udhëzim të përbashkët të Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe Ministrisë së Financave.
