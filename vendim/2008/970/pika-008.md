@@ -1,0 +1,1 @@
+8. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Proces regjistrimi”, a “Plotësim dokumentacioni”, të kompensohen, për efekt shpronësimi, pasi të ketë përfunduar procesi i regjistrimit dhe të kenë paraqitur dokumentacionin e pronësisë pranë subjektit kërkues, Ndërmarrjes së Ujësjellës-Kanalizimeve, sh.a., Lushnjë.
