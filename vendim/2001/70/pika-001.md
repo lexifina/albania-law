@@ -1,1 +1,0 @@
-1. Qendra Spitalore Universitare “Nënë Tereza” Tiranë, Instituti i Ftiziopneumologjisë dhe Spitali Universitar Obstetrik-Gjinekologjik janë qendra kombëtare të mjekimit, të arsimit dhe të kërkimit në bashkëpunim me Fakultetin e Mjekësisë së Universitetit të Tiranës dhe kryejnë gjithashtu shërbimin spitalor sekondar për Tiranën.
