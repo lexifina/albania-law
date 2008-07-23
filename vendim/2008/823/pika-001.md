@@ -1,0 +1,1 @@
+1. Spitali universitar i sëmundjeve të mushkërive “Shefqet Ndroqi” të kthehet në spital universitar “Shefqet Ndroqi”, si person juridik, publik, buxhetor, me kapacitet 300 shtretër, i nivelit terciar, që do të shërbejë si qendër e mjekimit, mësimit dhe kërkimit shkencor, për rajonin e Tiranës.

@@ -1,0 +1,1 @@
+2. Drejtimi administrativ i spitalit të jetë në varësi të Ministrisë së Shëndetësisë, ndërsa drejtimi institucional në varësi të dyfishtë, të Ministrisë së Shëndetësisë dhe të Ministrisë së Arsimit dhe Shkencës, si organe, që bashkërendojnë veprimtarinë e spitaleve universitare.

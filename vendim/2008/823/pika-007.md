@@ -1,0 +1,1 @@
+7. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, dhe organika e spitalit të përballohen, përkatësisht, nga buxheti dhe numri i përgjithshëm i punonjësve, miratuar për vitin 2008, për Ministrinë e Shëndetësisë.
