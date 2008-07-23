@@ -1,0 +1,1 @@
+7. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Proces regjistrimi”, të kompensohen, për efekt shpronësimi, me përfundimin e procesit të regjistrimit dhe pasi të kenë dorëzuar dokumentacionin e pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
