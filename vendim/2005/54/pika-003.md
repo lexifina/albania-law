@@ -1,1 +1,0 @@
-3. Specialistët që plotësojnë kriterin e përcaktuar në shkronjën “a” të pikës 1 të këtij vendimi, por nuk përmbushin kërkesat e tjera, mund të pajisen me leje profesionale vetëm për drejtimin teknik të shoqërive, që ushtrojnë veprimtari minerare.

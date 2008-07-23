@@ -1,1 +1,0 @@
-2. Leja profesionale të jepet nga një komision i posaçëm, i cili ngrihet me urdhër të ministrit, që mbulon industrinë minerare. Përbërja dhe mënyra e funksionimit të këtij komisioni përcaktohen me rregulloren përkatëse të miratuar nga ministri, që mbulon industrinë minerare.
