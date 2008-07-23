@@ -1,0 +1,1 @@
+3. Përfaqësimi në Britaninë e Madhe, Belgjikë, Turqi e në Republikën e Kosovës të bëhet me nga 1 (një) oficer kontakti, ndërsa përfaqësimi në Greqi e Itali me nga 2 (dy) oficerë kontakti, përkatësisht, nga 1 (një) në Athinë e Selanik dhe nga 1(një) në Romë e Bari.

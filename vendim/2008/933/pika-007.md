@@ -1,0 +1,1 @@
+7. Statusi, imuniteti dhe privilegjet, që gëzojnë oficerët e kontaktit, gjatë ushtrimit të kësaj veprimtarie, rregullohen sipas marrëveshjeve bazë (protokolleve), të nënshkruara ndërmjet Ministrisë së Brendshme të Republikës së Shqipërisë dhe ministrive homologe, përkatëse, si dhe në përputhje me legjislacionet respektive.

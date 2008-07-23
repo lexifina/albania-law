@@ -1,0 +1,1 @@
+4. Oficerët e kontaktit emërohen nga Ministri i Brendshëm, me propozimin e Drejtorit të Përgjithshëm të Policisë së Shtetit, për një periudhë jo më pak se 2 (dy) vjet. Për emërimin e tyre njoftohen, zyrtarisht, ministritë homologe ose organet zyrtare përgjegjëse.

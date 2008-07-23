@@ -1,0 +1,1 @@
+8. Sistemimi me zyra i oficerëve të kontaktit, të përcaktuar në pikën 1 të këtij vendimi, të bëhet në mjediset e përfaqësive tona diplomatike, ndërsa zyra e oficerit të kontakti në EUROPOL do të jetë në zyrat qendrore të EUROPOL-it, në Hagë.

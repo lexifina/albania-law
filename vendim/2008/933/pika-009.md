@@ -1,0 +1,1 @@
+9. Vendimi nr.318, datë 4.7.2002 i Këshillit të Ministrave “Për vendosjen e oficerëve të kontaktit të Ministrisë së Rendit Publik, pranë ministrive homologe të Greqisë, Italisë, Turqisë dhe UNMIK-ut, Kosovë, të atashuar në përfaqësitë diplomatike të Republikë së Shqipërisë”, shfuqizohet.

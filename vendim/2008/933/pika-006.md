@@ -1,0 +1,1 @@
+6. Oficerët e kontaktit, gjatë ushtrimit të detyrës, vazhdojnë të mbeten në organikën e institucionit, që i emëron, dhe, në përfundim të misionit, gëzojnë të drejtën e rikthimit në institucionin, ku kanë punuar përpara emërimit si oficerë kontakti.
