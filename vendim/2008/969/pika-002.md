@@ -1,0 +1,1 @@
+2. Heqjen nga inventari i pronave të paluajtshme shtetërore, të sistemit të prodhimit, transmetimit të shpërndarjes së energjisë elektrike, në përgjegjësi administrimi të KESH, sh.a.-së, miratuar me vendimin nr. 122, datë 4.3.2004, të Këshillit të Ministrave, të pronave të sistemit të shpërndarjes, sipas fletëve, të përcaktuara në shtojcën nr.1, që i bashkëlidhen këtij vendimi.

@@ -1,0 +1,1 @@
+3. Ndryshimin e të dhënave, në inventarin e pronave të paluajtshme shtetërore të sistemit të prodhimit dhe të transmetimit të energjisë elektrike, në përgjegjësi administrimi të KESH, sh.a.-së, për pronat, sipas formularëve tip (tri fletë), që i bashkëlidhen këtij vendimi.

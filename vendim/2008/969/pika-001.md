@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të sistemit të shpërndarjes së energjisë elektrike, të cilat i kalojnë në përgjegjësi administrimi OSSH, sh.a.-së, sipas lidhjeve (gjithsej 1 416 fletë), që i bashkëlidhen këtij vendimi.
