@@ -1,0 +1,1 @@
+2. Vlera e shpërblimit të pronarëve, për pasuritë, pronë private, me sipërfaqe 4 500 (katër mijë e pesëqind) m2, tokë/arë, që shpronësohen, është 2 7000 000 (dy milionë e shtatëqind mijë) lekë dhe të përballohet nga granti konkurrues, dhënë bashkisë së Shkodrës, për vitin 2007.
