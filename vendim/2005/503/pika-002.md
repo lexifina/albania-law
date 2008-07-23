@@ -1,1 +1,0 @@
-2. Agjencia merr masat e nevojshme për administrimin e fondeve dhe të pasurive të sekuestruara dhe të konfiskuara, të personave të dyshuar apo të shpallur si pjesëmarrës në krimin e organizuar, sipas vendimeve gjyqësore, të formës së prerë.
