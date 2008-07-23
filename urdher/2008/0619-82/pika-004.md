@@ -1,0 +1,1 @@
+4. Moszbatimi i primit të pastër, të përcaktuara në këtë urdhër, i bën shoqëritë e sigurimit subjekt të sanksioneve të përcaktuara në nenin 165 e vijues të ligjit nr.9267, datë 29.7.2004 “Për veprimtarinë e sigurimit, risigurimit dhe ndërmjetësimit në sigurime dhe risigurime”, i ndryshuar.

@@ -1,0 +1,1 @@
+6. Me fillimin e efekteve të këtij urdhri, shfuqizohet urdhri i Ministrit të Financave nr.70, datë 20.7.2007 “Për miratimin e primit të pastër të sigurimit të detyrueshëm të mbajtësve të mjeteteve motorike për përgjegjësinë ndaj palëve të treta”.
