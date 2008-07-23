@@ -1,1 +1,0 @@
-5. Përbërja e komisionit të posaçëm i dhënies së licencave, ku bën pjesë edhe një përfaqësues i Ministrisë së Mjedisit, si dhe mënyra e funksionimit të tij përcaktohen me urdhër të Ministrit të Shëndetësisë.
