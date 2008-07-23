@@ -1,0 +1,1 @@
+2. Autorizimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës për të lidhur aktmarrëveshjen (kontratën) përkatëse me Akademinë e Edukimit Fizik dhe Sporteve “Vojo Kushi”, në përputhje me dispozitat ligjore në fuqi.

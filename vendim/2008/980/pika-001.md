@@ -1,0 +1,1 @@
+1. Dhënien në përdorim, pa shpërblim, Akademisë së Edukimit Fizik dhe Sporteve “Vojo Kushi”, të mjediseve të ish-mensës së studentëve (kati përdhes i ndërtesës së konviktit, që ndodhet brenda territorit të kësaj akademie), pronë publike, në administrim të Ndërmarrjes nr.2 të Trajtimit të Studentëve, sh.a., për ngritjen e Bibliotekës Kombëtare të Sportit.
