@@ -1,0 +1,1 @@
+1. Dhënien, në përdorim, pa shpërblim, për një periudhë njëzetvjeçare, të sipërfaqes prej 1 008 (një mijë e tetë) m2, në administrim të Qendrës Spitalore Universitare “Nënë Tereza”, Komunitetit të Sant’Egidio-s (shoqatë jofitimprurëse), për ndërtimin e një qendre të shëndetit mendor, për të pritur dhe rehabilituar persona me probleme të shëndetit mendor.
