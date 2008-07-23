@@ -1,1 +1,0 @@
-3. Shpenzimet administrative që i shtohen primit të pastër për sigurimin e detyrueshëm për mbajtësit e mjeteve motorike për përgjegjësitë ndaj palëve të treta për kontratat TPL e brendshme dhe për kontratat kufitare të sigurimit nuk mund të jenë më pak se 20% e primit të pastër.
