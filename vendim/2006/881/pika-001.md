@@ -1,1 +1,8 @@
-1. Nёpunёsit e Ministrisё sё Punёve tё Jashtme, qё gёzojnё tё drejtёn e gradёs, tё paguhen nё bazё tё gradёs diplomatike/konsullore, e cila pёrcaktohet nё lidhjen nr.1, qё i bashkёlidhet kёtij vendimi dhe ёshtё pjesё pёrbёrёse e tij.
+1.Nёpunёsit e Ministrisё sё Punёve tё Jashtme, qё gёzojnё tё drejtёn e gradёs, tё paguhen nё bazё tё gradёs diplomatike/konsullore, e cila pёrcaktohet nё lidhjen nr.1, qё i bashkёlidhet kёtij vendimi dhe ёshtё pjesё pёrbёrёse e tij.
+1/1. Nëpunësit e Ministrisë së Punëve të Jashtme, që gëzojnë të drejtën e gradës diplomatike dhe që paguhen sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi, përfitojnë shtesën për kualifikim, gradë apo titull shkencor, të përcaktuar në lidhjen nr.2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Kriteret e përfitimit të shtesës janë:
+a) Kjo shtesë jepet në kushtet e përputhjes së fushës së kualifikimit, gradës, apo titullit shkencor, me përshkrimin e punës së nëpunësit, pas miratimit, rast pas rasti, nga Departamenti i Administratës Publike.
+b) Në rastin kur nëpunësi ka kualifikim, gradë apo titull më të më të lartë, se ai i përcaktuar për pozicionin e tij, sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi, përfiton vetëm shtesën e përcaktuar për pozicionin.
+c) Në rastin kur nëpunësi ka kualifikim, gradë apo titull më të ulët se ai i përcaktuar për pozicionin e tij, sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi, përfiton shtesë, në përputhje me kualifikimin, gradën apo titullin që ka.
+Në çdo rast si më sipër, pavarësisht nga kualifikimi, grada apo titulli, që ka nëpunësi, ai përfiton shtesën vetëm për gradën, apo titullin shkencor më të lartë, që ka.
+Për aplikimin e shtesës për kualifikim zbatohen rregullat e udhëzimit nr.1, datë 18.4.2008, të Ministrit të Arsimit dhe Shkencës, Ministrit të Financave dhe Departamentit të Administratës Publike.
