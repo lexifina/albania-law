@@ -1,0 +1,1 @@
+1. Dieta ditore e ushtarakëve shqiptarë, të dërguar në Republikën e Çadit dhe në Republikën e Afrikës Qendrore, në operacionin “EUFOR Tchad/RCA”, të Bashkimit Europian, të jetë 60 (gjashtëdhjetë) euro/ditë qëndrimi në mision. Trajtimi financiar të fillojë nga data e dërgimit me mision.

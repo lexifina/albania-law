@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, në masën 90 675 000 (nëntëdhjetë milionë e gjashtëqind e shtatëdhjetë e pesë mijë) lekë, të përballohen nga buxheti i vitit 2008, miratuar për Ministrinë e Mbrojtjes.
