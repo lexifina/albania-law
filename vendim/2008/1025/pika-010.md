@@ -1,0 +1,4 @@
+10. Kur deklarata e pronarëve kufitarë të pasurisë, për të cilën kërkohet regjistrimi, sipas shkronjës “b” të nenit 24 të ligjit nr.7843, datë 13.7.1994, për arsye të ndryshme, objektive, me përjashtim të pretendimeve për kufirin e pasurisë, nuk është bërë e mundur të sigurohet, ZRPP-ja, afishon për publikun genplanin apo planvendosjen e pasurisë, për një periudhë prej 45 ditësh, në mjedise të dukshme të ZRPP-së dhe:
+a) të njësisë bashkiake, në territorin e së cilës ndodhet pasuria;
+b) në territorin ku ndodhet pasuria, për të cilën është bërë kërkesa për regjistrim.
+Për zhvillimin e procedurës së afishimit është e nevojshme, që kufiri i pasurisë, për të cilin mungon deklarata e pronarit kufitar, të përputhet me kufirin, që tregojnë dokumentet hartografike, të marra nga arkivi teknik i ndërtimit. Në rast se ky kufi nuk përputhet, nuk zhvillohet procedura e afishimit dhe nga regjistruesi refuzohet regjistrimi.

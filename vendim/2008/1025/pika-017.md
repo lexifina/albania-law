@@ -1,0 +1,1 @@
+17. Forma dhe përmbajtja e vendimeve, që merr regjistruesi për regjistrimin ose refuzimin e regjistrimit të pasurive, në përputhje me kërkesat e shkronjës “b” të nenit 24 të ligjit të sipërpërmendur, përcaktohen në lidhjen 1, që i bashkëlidhet këtij vendimi.
