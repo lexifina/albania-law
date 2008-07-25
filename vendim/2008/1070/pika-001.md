@@ -1,0 +1,1 @@
+1. Miratimin e kontratës koncesionare “Për prodhimin dhe shpërndarjen e kartave të identitetit dhe të pasaportave elektronike”, ndërmjet Ministrisë së Brendshme të Republikës së Shqipërisë dhe grupimit të SAGEM Securite dhe Fondit Shqiptaro-Amerikan të Ndërmarrjeve, sipas tekstit dhe relacionit, që i bashkëlidhen këtij vendimi.
