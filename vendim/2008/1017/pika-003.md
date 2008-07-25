@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në procedurën konkurruese, për dhënien me koncesion të hidrocentraleve në rrjedhën e lumit Shushicë, të kërkojë shprehje interesi dhe të pranojë oferta, për të gjithë pjesën e lirë të skemës, ku përfshihet ndërtimi i këtyre hidrocentraleve.
