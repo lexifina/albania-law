@@ -1,0 +1,28 @@
+{
+  "qbz_id": 7010,
+  "title": "Për miratimin e kontratës tip mes furnizuesit publik me shumicë dhe furnizuesit publik me pakicë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "72",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-06-24",
+  "published": "2008-07-30",
+  "in_force": "2008-07-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/17d1d69938b1b46ac390f21df415ab1a19f03dc35c85ed404b7a1ae00a3e3fde.docx",
+  "source_sha256": "17d1d69938b1b46ac390f21df415ab1a19f03dc35c85ed404b7a1ae00a3e3fde",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7010",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/06/24/72",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    7164
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
