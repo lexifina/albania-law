@@ -1,0 +1,1 @@
+1. Licencimin e Agjencisë së Administrimit Kolektiv të të Drejtave të lidhura me të drejtën e autorit të artistëve interpretë dhe/ose ekzekutues të veprave audiovizuale, koreografike, kinematografike, teatrore, dramatike e muzikore të regjistruara në mbajtëse zëri/zëri-figure.
