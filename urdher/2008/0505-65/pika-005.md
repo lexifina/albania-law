@@ -1,0 +1,2 @@
+5. Këshilli Kombëtar i Kontabilitetit të organizojë punën për botimin dhe përditësimin e Standardeve Ndërkombëtare të Kontabilitetit dhe të Raportimit Financiar, në përputhje me detyrimet që rrjedhin nga marrëveshja e lidhur për këtë qëllim, midis Ministrisë së Financave të Shqipërisë dhe Bordit të Standardeve Ndërkombëtare të Kontabilitetit (IASCF) në Londër.
+Ky urdhër hyn në fuqi menjëherë dhe i shtrin efektet nga data 1 janar 2008.

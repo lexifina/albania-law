@@ -1,0 +1,1 @@
+1.Shpalljen e Standardeve Ndërkombëtare të Kontabilitetit (SNK) dhe të Raportimit Financiar (SNFR), të përkthyer në gjuhën shqipe nga kompania angleze IMCL, nën përgjegjësinë e Këshillit Kombëtar të Kontabilitetit, pa ndryshime nga teksti origjinal në gjuhën angleze, sipas materialeve përkatëse ngjitur.
