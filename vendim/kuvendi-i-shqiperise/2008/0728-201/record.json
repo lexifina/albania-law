@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7040,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS \nPËR EMËRIM MINISTRI",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "201",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-07-28",
+  "published": "2008-07-31",
+  "in_force": "2008-07-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/53dff215d46fd2d6608e49284198175a738ea1d15b8e61b69888f7fc9191e801.docx",
+  "source_sha256": "53dff215d46fd2d6608e49284198175a738ea1d15b8e61b69888f7fc9191e801",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7040",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/07/28/201",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
