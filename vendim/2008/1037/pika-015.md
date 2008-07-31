@@ -1,0 +1,1 @@
+15. Studentët, që kërkojnë të transferojnë studimet nga një program studimi apo nga programe të mëparshme, të ciklit të parë, në një program tjetër studimi, brenda të njëjtit institucion publik të arsimit të lartë, i nënshtrohen tarifës së përgjithshme vjetore të shkollimit.

@@ -1,0 +1,1 @@
+14. Kandidatët, që dëshirojnë të vazhdojnë studimet në një program të dytë studimi, dhe studentët, që kërkojnë të transferojnë studimet, sipas pikës 10 të këtij vendimi, u nënshtrohen tarifave të shkollimit, të përcaktuara në udhëzimin e përbashkët nr.13, datë 28.5.2007 të Ministrit të Arsimit dhe Shkencës dhe të Ministrit të Financave.
