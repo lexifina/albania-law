@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7041,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS \nPËR SHKARKIM MINISTRI",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "202",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-07-28",
+  "published": "2008-07-31",
+  "in_force": "2008-07-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3dffae0a8719d7dc1c3f2e91cde97ca8ad46015129d4a7986c6ecbf3fe257c65.docx",
+  "source_sha256": "3dffae0a8719d7dc1c3f2e91cde97ca8ad46015129d4a7986c6ecbf3fe257c65",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7041",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/07/28/202",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
