@@ -1,0 +1,1 @@
+1. Rritjen e fondeve të ndihmës ekonomike, në programin “Mbrojtja sociale”, të Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta, me një shumë prej 150 (një qind e pesëdhjetë) milionë lekësh, për rritjen e masës së përfitimit të ndihmës ekonomike të familjeve në nevojë.
