@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Tipografia Ushtarake sh.a., “Shtypshkronjës së letrave me vlerë”, Tiranë, të disa reparteve, me sipërfaqe 1 563 (një mijë e pesëqind e gjashtëdhjetë e tre) m2 , dhe të truallit funksional, me sipërfaqe të përgjithshme 647 (gjashtëqind e dyzet e shtatë) m2, sipas planvendosjes, që i bashkëlidhet këtij vendimi.
