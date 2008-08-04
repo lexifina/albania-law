@@ -1,0 +1,5 @@
+VENDIM
+Nr.1045, datë 16.7.2008
+PËR TRAJTIMIN E KREDIVE TË TRANSFERUARA NGA BANKAT E NIVELIT TË DYTË, ME KAPITAL TËRËSISHT SHTETËROR, NË AGJENCINË E TRAJTIMIT TË KREDIVE, KRITERET DHE KUSHTET PËR NDRYSHIMIN E MARRËVESHJES SË KREDISË, SI DHE PROCEDURAT E MARRJES NË PRONËSI TË PASURIVE TË LËNA SI GARANCI OSE JO NGA HUAMARRËSIT, TË ADMINISTRIMIT, SHITJES DHE DHËNIES ME QIRA OSE ME ENFITEOZË TË KËTYRE PASURIVE
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 18 të ligjit nr.9731, datë 10.5.2007 “Për disa ndryshime dhe shtesa në ligjin nr.8894, datë 14.5.2002 “Për Agjencinë e Trajtimit të Kredive”, të ndryshuar me propozimin e Ministrit të Financave, Këshilli i Ministrave
+VENDOSI:

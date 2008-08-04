@@ -1,0 +1,1 @@
+4. Pas kalimit të këtij afati, Agjencia e Trajtimit të Kredive përgatit dosjen për shitjen me ankand. Procedurat e ankandit organizohen nga Drejtoria e Administrimit dhe Shitjes së Pronës Shtetërore, pranë Ministrisë së Financave. Si vlerë e pronës, që do të shitet me ankand, do të llogaritet vlera e kontabilizuar nga Agjencia e Trajtimit të Kredive.
