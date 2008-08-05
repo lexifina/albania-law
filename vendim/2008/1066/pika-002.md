@@ -1,0 +1,1 @@
+2. Pasuritë e luajtshme (burime financiare, automjete, donacione, projekte kërkimi dhe zhvillimi, orendi, infrastrukturë, pajisje informatike etj.), si dhe arkivat shkencore e çdo dokumentacion tjetër arkivor i ish-QSGJ-së, t’i kalojnë në administrim Fakultetit Histori-Filologji, të Universitetit të Tiranës.
