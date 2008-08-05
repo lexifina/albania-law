@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 5 për qind të pikëve, për rezultatin ekonomik, financiar, teknik dhe mjedisor, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), që i jepet bashkisë së Shkodrës.
