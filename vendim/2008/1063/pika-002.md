@@ -1,0 +1,2 @@
+2. Lejimin e kalimit transit, përmes territorit të Republikës së Shqipërisë, të 2 autokolonave ushtarake italiane, të përbëra nga 16 (gjashtëmbëdhjetë) automjete ushtarake dhe 15 (pesëmbëdhjetë) automjete civile dhe gjithsej, 31 (tridhjetë e një) trupa, në itinerarin Qafë-Thanë-porti i Durrësit, në datën 30 korrik 2008.
+Pika e hyrjes në territorin e Republikës së Shqipërisë është pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes është porti i Durrësit.

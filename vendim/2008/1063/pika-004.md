@@ -1,0 +1,1 @@
+4. Autokolonat ushtarake italiane, gjatë itinerarit të lëvizjes nëpër territorin e Republikës së Shqipërisë, të shoqërohen nga njësi të armatosura të Forcave të Armatosura të Republikës së Shqipërisë.
