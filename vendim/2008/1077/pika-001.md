@@ -1,0 +1,1 @@
+1. Nga fondi shtetëror, pyjor dhe kullosor, në administrim të Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave, sipërfaqja 71 699,3 (shtatëdhjetë e një mijë e gjashtëqind e nëntëdhjetë e nëntë presje tre) ha, kalon në fondin e kompensimit fizik dhe vihet në dispozicion të Agjencisë së Kthimit dhe Kompensimit të Pronave, sipas lidhjes, që i bashkëlidhet këtij vendimi.
