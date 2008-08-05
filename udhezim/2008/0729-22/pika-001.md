@@ -1,0 +1,1 @@
+1. Asnjë person fizik nuk mund të ushtrojë profesionin e administratorit të përkohshëm të falimentimit në rast se nuk përmbush kriteret e përcaktuara në këtë udhëzim, dhe kriteret e përcaktuara në pikën 4 të nenit 16 të ligjit nr.8901, datë 23.5.2002.

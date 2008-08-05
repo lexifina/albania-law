@@ -1,0 +1,1 @@
+4. Ky udhëzim zbatohet deri në momentin e plotësimit të numrit të mjaftueshëm të administratorëve të falimentimit sipas kritereve, për arsimin profesional dhe provimin e parashikuar në nenin 43 të ligjit “Për falimentimin”.
