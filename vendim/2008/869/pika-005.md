@@ -1,1 +1,1 @@
-5. Ngarkohet Ministria e Financave për marrjen e masave për pakësimin e fondeve të parashikuara për 6-mujorin e dytë, në masën 70 000 000 (shtatëdhjetë milionë) lekë, në buxhetin e Institutit të Sigurimeve Shoqërore, për këtë pagesë, dhe për transferimin e këtyre fondeve në njësitë e qeverisjes vendore, ku do të kryhet ngarkesa.
+5. Fondi 70 000 000 (shtatëdhjetë milionë) lekë të përballohet nga fondi i kontingjencës dhe të derdhet në buxhetin e vitit 2008, miratuar për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
