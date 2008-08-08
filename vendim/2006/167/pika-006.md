@@ -1,1 +1,0 @@
-6. Të vetëpunësuarit në bujqësi derdhin kontribut vjetor për sigurimet shoqërore në masën 10 000 (dhjetë mijë) lekë, me përjashtim të të vetëpunësuarve, që banojnë në rrethet Bulqizë, Dibër, Gramsh, Has, Kolonjë, Kukës, Librazhd, Malësi e Madhe, Mat, Mirditë, Pukë, Skrapar, Tepelenë dhe Tropojë, për të cilët masa e kontributit vjetor është 6500 (gjashtë mijë e pesëqind) lekë.

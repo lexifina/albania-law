@@ -1,1 +1,0 @@
-I. Sigurimi i detyrueshëm

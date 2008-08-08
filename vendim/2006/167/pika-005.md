@@ -1,1 +1,0 @@
-5. Personat mbi 16 vjeç, me të ardhura të rregullta nga pronësia, e që nuk kanë ndonjë punësim tjetër, duke filluar nga data 1.7.2001 e në vazhdim, paguajnë kontribut vetëm për sigurimin shëndetësor, në masën 7 për qind të pagës mujore minimale, prej 12 514 (dymbëdhjetë mijë e pesëqind e katërmbëdhjetë) lekësh.
