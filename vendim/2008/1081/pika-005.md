@@ -1,0 +1,1 @@
+5. Vlera e tarifës vjetore të shkollimit përcaktohet sipas vendimit nr.161, datë 3.2.2008 të Këshillit të Ministrave “Për përcaktimin e kuotave të pranimit dhe të tarifës së shkollimit për studimet specializuese afatgjata, pranë Fakultetit të Mjekësisë, të Universitetit të Tiranës, për vitin akademik 2007-2008”.
