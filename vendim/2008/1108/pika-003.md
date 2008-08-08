@@ -1,0 +1,1 @@
+3. Në inventarin e pronave të paluajtshme shtetërore të sistemit të prodhimit dhe të transmetimit të energjisë elektrike, në përgjegjësi administrimi të KESH sh.a.-së, ndryshohen të dhënat për pronat, sipas tabelave (gjithsej 3 fletë), që i bashkëlidhen këtij vendimi.

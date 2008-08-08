@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të sistemit të shpërndarjes së energjisë elektrike, të cilat kalojnë në pronësi të Operatorit të Sistemit të Shpërndarjes (OSSH) sh.a., sipas lidhjeve (gjithsej 1416 fletë), që i bashkëlidhen këtij vendimi.
