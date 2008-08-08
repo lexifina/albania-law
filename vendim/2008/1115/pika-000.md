@@ -1,0 +1,2 @@
+Miratimin, në parim të marrëveshjes së financimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Spanjës, në kuadër të programit “Një OKB”, për projektin “Qeverisje ekonomike, reforma rregullatore, pjesëmarrje e publikut, si dhe zhvillimi pro të varfërve, në Shqipëri”, në vlerën 2 097 564 (dy milionë e nëntëdhjetë e shtatë mijë e pesëqind e gjashtëdhjetë e katër) USD.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
