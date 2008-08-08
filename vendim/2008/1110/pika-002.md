@@ -1,0 +1,1 @@
+2. Nëse pas afateve të përcaktuara në shkronjat “a”, “b” e “c” të pikës 1 të këtij vendimi, vërehet tregtimi i lëndës djegëse diezel, me cilësi, që nuk respekton kërkesat e këtij vendimi, lënda djegëse sekuestrohet dhe dërgohet në destinacionin e përcaktuar nga Inspektorati Qendror Teknik.
