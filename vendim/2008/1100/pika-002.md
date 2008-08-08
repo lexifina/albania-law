@@ -1,0 +1,1 @@
+2. Kryeministrisë, në buxhetin e miratuar për vitin 2008, t’i shtohet fondi 24 400 000 (njëzet e katër milionë e katërqind mijë) lekë, për mbulimin e pjesshëm të efekteve financiare, të vitit 2008, për planin afatmesëm të veprimit të programit “Brain Gain”, i cili do të bashkëfinancohet nga Programi për Zhvillim i Kombeve të Bashkuara (UNDP).
