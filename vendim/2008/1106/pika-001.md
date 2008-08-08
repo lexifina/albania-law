@@ -1,0 +1,5 @@
+1. Struktura dhe nivelet e pagave të punonjësve të Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara paraqiten, si më poshtë vijon:
+a) Paga mujore për pozicionin “Titullar i institucionit (Kryeadministrator)” njësohet me pagën e pozicionit “Drejtor drejtorie në ministri”, kategoria II-b, sipas vendimit nr.475, datë 13.7.2007 të Këshillit të Ministrave, të ndryshuar.
+b) Paga mujore për pozicionin “Administrator” njësohet me pagën e pozicionit “Përgjegjës sektori, i nivelit të lartë”, klasa III, kategoria III-a, sipas vendimit nr.475, datë 13.7.2007 të Këshillit të Ministrave, të ndryshuar.
+c) Paga mujore për pozicionin “Jurist” njësohet me pagën e pozicionit “Përgjegjës sektori i nivelit të ulët”, klasa III, kategoria III-a/1, sipas vendimit nr.475, datë 13.7.2007, të Këshillit të Ministrave, të ndryshuar.
+d) Paga mujore për pozicionin “Specialist” njësohet me pagën e pozicionit “Specialist i nivelit të mesëm”, klasa IV, kategoria IV-a, sipas vendimit nr.475, datë 13.7.2007 të Këshillit të Ministrave, të ndryshuar.
