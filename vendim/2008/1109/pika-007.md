@@ -1,0 +1,1 @@
+7. Subjektet minerare, që do të pajisen me leje minerare sipas kërkesave të ligjit minerar të Shqipërisë, duhet të kryejnë sigurimin e punonjësve ndaj aksidenteve, përpara fillimit dhe gjatë ushtrimit të veprimtarisë së tyre minerare.

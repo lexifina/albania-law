@@ -1,0 +1,1 @@
+8. Subjektet minerare, të pajisura me leje minerare e që sot zhvillojnë veprimtari minerare, brenda një periudhe 90-ditore nga data e hyrjes në fuqi të këtij vendimi, duhet të realizojnë sigurimin e punonjësve të punësuar ndaj aksidenteve.

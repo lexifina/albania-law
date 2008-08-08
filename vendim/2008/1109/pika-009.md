@@ -1,0 +1,1 @@
+9. Subjektet minerare duhet të paraqesin, pranë strukturave përgjegjëse, në ministrinë, që mbulon veprimtarinë minerare, dokumentet që vërtetojnë sigurimin ndaj aksidenteve. Fillimi ose vazhdimi i veprimtarisë minerare kryhet pas konfirmimit nga këto struktura se sigurimi është në përputhje me kërkesat e këtij vendimi.

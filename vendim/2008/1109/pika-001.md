@@ -1,0 +1,1 @@
+1. Personat, që zotërojnë leje për të ushtruar veprimtari minerare brenda territorit të Republikës së Shqipërisë, detyrohen të kryejnë sigurimin e punonjësve të tyre nga aksidentet personale në punë, sipas një kontrate, pranë një shoqërie sigurimi.

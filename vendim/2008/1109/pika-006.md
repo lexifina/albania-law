@@ -1,0 +1,1 @@
+6. Periudha e veprimtarisë minerare, e përcaktuar sipas të drejtave minerare, të përfituara nga lejet minerare, duhet të jetë e mbuluar nga kontrata e sigurimit, e cila mund të jetë vjetore dhe e rinovueshme çdo vit ose për të gjithë kohën e veprimtarisë minerare.
