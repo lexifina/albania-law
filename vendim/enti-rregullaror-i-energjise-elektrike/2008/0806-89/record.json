@@ -1,0 +1,30 @@
+{
+  "qbz_id": 7145,
+  "title": "PËR LICENCIMIN E SHOQËRISË “ALBANIAN GREEN ENERGY” SHPK",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "89",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-08-06",
+  "published": "2008-08-13",
+  "in_force": "2008-08-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/58ba3ac48d72747342cf134f2a0caa5b479c5f1e6a8348ed2e864e84caf26c87.docx",
+  "source_sha256": "58ba3ac48d72747342cf134f2a0caa5b479c5f1e6a8348ed2e864e84caf26c87",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7145",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/08/06/89",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61345,
+    54903,
+    14818
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
