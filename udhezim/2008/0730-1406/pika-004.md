@@ -1,0 +1,1 @@
+4. Në rastet kur KMCAP vendos për ndryshimin e grupit të invalidit, ndryshimi i masës së përfitimit bëhet në muajin pasardhës (një muaj pas komisionit) të përcaktuar sipas vërtetimit tip të përcaktuar në pikën 2 të këtij udhëzimi.

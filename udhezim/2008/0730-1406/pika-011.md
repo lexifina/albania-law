@@ -1,0 +1,1 @@
+11. Shoqata e Invalidëve të Punës të Shqipërisë njëherë në tre muaj dërgon në zyrat rajonale të shërbimit social shtetëror, listën e invalidëve të punës të pajisur me dokumentin e identifikimit sipas nenit 4 të ligjit nr.7889, datë 14.12.1994, i ndryshuar.

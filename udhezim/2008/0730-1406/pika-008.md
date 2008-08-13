@@ -1,0 +1,1 @@
+8. Drejtoritë rajonale të sigurimeve shoqërore dërgojnë çdo muaj në zyrat rajonale të shërbimit social shtetëror, listën e përfituesve të ndarë sipas pikës 1/a, 1/b, 1/c dhe 1/ç të vendimit të Këshillit të Ministrave nr.869, datë 18.6.2008.

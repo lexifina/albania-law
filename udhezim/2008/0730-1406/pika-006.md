@@ -1,0 +1,1 @@
+6. Për rastet kur invalidi ka ndryshuar vendbanimin pas komisionimit nga KMCAP-ja, e rrethit origjinë, ka të drejtë të kërkojë pagesën e paaftësisë në vendbanimin e ri, mbasi është rikomisonuar në vendbanimin e ri.

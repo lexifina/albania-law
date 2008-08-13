@@ -1,0 +1,1 @@
+7. Pagesa e paaftësisë, në zbatim të vendimit të Këshillit të Ministrave nr.869, datë 18.6.2008, u jepet invalidëve, pavarësisht nga të ardhurat e tjera që ato përfitojnë nga pagesat e mbrojtjes shoqërore dhe nuk llogariten në të ardhurat e familjes për efekt të përfitimit të ndihmës ekonomike.

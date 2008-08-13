@@ -1,0 +1,1 @@
+3. Për invalidët që kanë përfituar shtesë, e paaftësisë deri më 1.7.2008, pranë komunave dhe bashkive do të vazhdojnë ta tërheqin pagesën me ato dokumente që kanë dorëzuar më parë. Për rastet kur komisionohen ose janë invalidë për herë të parë do të pajisen me vërtetimin e ri sipas modeleve bashkëlidhur.

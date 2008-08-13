@@ -1,0 +1,1 @@
+16. Në rastet kur invalidi i punës, për shkaqe që nuk varen prej tij, kur: i) komisioni është mbledhur me vonesë; ii) invalidi ka qenë i sëmurë apo për kurim brenda apo jashtë vendit, dhe këto arsye argumentohen me dokumentacion vërtetues, invalidi gëzon të drejtën e përfitimit të pagesës deri në tre muaj vonesë.

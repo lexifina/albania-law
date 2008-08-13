@@ -1,0 +1,1 @@
+5. Për personat që komisionohen për herë të parë dhe përfitojnë statusin e invalidit të punës, pagesa e paaftësisë fillon në muajin pasardhës pas daljes në KMCAP të përcaktuar sipas vërtetimit tip, në pikën 2 të këtij udhëzimi.
