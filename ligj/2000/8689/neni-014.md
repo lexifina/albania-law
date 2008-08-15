@@ -1,2 +1,0 @@
-# Neni 14
-Çdo person, që i nënshtrohet një ekzaminimi mjekësor për HIV-in, gëzon të drejtën që përfaqësuesi i tij legal të jetë i pranishëm gjatë ekzaminimit. Në rastet kur bëhet fjalë për një fëmijë nën 14 vjeç ose kur personi ligjërisht është i paaftë, ekzaminimi mjekësor mund të kryhet me kërkesën dhe pëlqimin e përfaqësuesve legalë të tyre, të cilët kanë të drejtë të jenë të pranishëm edhe gjatë ekzaminimit mjekësor.
