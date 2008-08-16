@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr.6, datë 16.7.2008, i Këshillit të Ministrave “Për ratifikimin e “Marrëveshjes ndërmjet Republikës së Shqipërisë dhe Bashkimit Europian, për pjesëmarrjen në operacionin ushtarak të Bashkimit Europian për menaxhimin e krizave në Republikën e Çadit dhe Republikën e Afrikës Qendrore (Operacioni EUFOR Tchad/RCA)””.
