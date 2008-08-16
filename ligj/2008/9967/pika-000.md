@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr.4, datë 9.7.2008, i Këshillit të Ministrave “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros së këtyre ndërmarrjeve”.
