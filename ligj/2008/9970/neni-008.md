@@ -1,0 +1,4 @@
+# Neni 8
+Masat e veçanta të përkohshme
+1. Masat e veçanta të përkohshme përfshijnë kuotat për të arritur përfaqësim të barabartë gjinor, rritjen e pjesëmarrjes së gjinisë më pak të përfaqësuar në vendimmarrje dhe në jetën publike, fuqizimin ekonomik dhe të pozitës së personave të secilës gjini në fushën e punës, përmirësimin në mënyrë të barabartë të nivelit arsimor, si dhe masa të tjera në çdo fushë, ku personat e njërës gjini nuk gëzojnë pozitë të barabartë me personat e gjinisë tjetër.
+2. Nuk përbëjnë diskriminim për shkak të gjinisë rastet kur organet shtetërore marrin masa të veçanta të përkohshme, përfshirë edhe dispozita ligjore, që synojnë përshpejtimin e vendosjes së barazisë faktike ndërmjet femrave dhe meshkujve. Këto masa duhet të pushojnë së ekzistuari sapo të jenë arritur objektivat e barazisë gjinore, për të cilat janë krijuar.
