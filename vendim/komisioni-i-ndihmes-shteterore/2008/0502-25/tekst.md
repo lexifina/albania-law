@@ -4,6 +4,10 @@ Nr.25, datë 2.5.2008
 
 PËR PLANIN E DhëNIES Së NDIHMëS SHTETËRORE për PËRJASHTIMIN NGA AKCIZA të LËNDËVE DJEGëSE, të PëRDORUARA për  PRODHIMIN E ENERGJISë ELEKTRIKE NGA TERMOCENTRALET ME FUQI MË të MADHE Se 5MW 
 
+                                             (Ndryshuar me vendimin nr.27, datë 18.8.2008)
+
+		   (i përditësuar)
+
 Komisioni i Ndihmës Shtetërore, me pjesëmarrjen e: 
 
 - z. Genc Ruli 				- Kryetar 
@@ -48,9 +52,9 @@ Komisioni i Ndihmës Shtetërore, mbështetur në nenin 13 shkronja b dhe nenin 
 
 VENDOSI: 
 
-1. Skema e përjashtimit nga akciza për lëndët djegëse, të përdoruara nga subjektet, të cilat ndërtojnë burime të prodhimit të energjisë elektrike, me fuqi të instaluar jo më pak se 5MW për  burim, për  nevojat e veta ose për  shitje brenda vendit, duke respektuar edhe aktet e tjera normative në fuqi, të lejohet, me kusht që akciza e lëndëve djegëse të përdorura të rimbursohet deri në masën 80%. Pjesa tjetër prej 20% të përballohet nga ndërmarrjet përfituese. 
+1. Skema e përjashtimit nga akciza për lëndët djegëse, të përdorura nga subjektet, të cilat ndërtojnë burime të prodhimit të energjisë elektrike, me fuqi të instaluar jo më pak se 5 MW për burim, për nevojat e veta ose për  shitje brenda vendit, duke respektuar edhe aktet e tjera normative në fuqi, lejohet, me kusht që akciza e lëndëve djegëse të përdorura të rimbursohet në masën 100% deri në datën 31 dhjetor 2014. Nga data 1 janar 2015 akciza e lëndëve djegëse të përdorura rimbursohet deri në masën 80%. Pjesa tjetër prej 20% të përballohet nga ndërmarrjet përfituese.”
 
-2. Investimet që do të përdoren për  gjenerimin e energjisë duhet të jenë investime të reja, me teknologji moderne që respekton të gjitha standardet mjedisore. Ndërmarrjet janë të detyruara të lidhin marrëveshje me Ministrinë e Mjedisit dhe Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, ku të marrin përsipër përmirësimin e efiçencës së tyre për sa i takon respektimit të kushteve mjedisore. 
+ 2.  Investimet  që  do  të  përdoren  për  gjenerimin  e  energjisë  duhet  të  jenë  investime  me teknologji moderne që respektojnë të gjitha standardet mjedisore, të përcaktuara në kuadrin ligjor të miratuar  nga  Republika  e  Shqipërisë.  Ndërmarrjet  janë  të  detyruara  të  lidhin  marrëveshje  me Ministrinë e Mjedisit dhe Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, ku të marrin përsipër përmirësimin e efiçencës së tyre për sa i takon respektimit të kushteve mjedisore.”
 
 3. Ndihma e përfituar nga kjo skemë, nëpërmjet përjashtimit nga akciza e lëndëve djegëse, nuk mund të përshtohet me asnjë formë tjetër ndihme nga çfarëdo burimi shtetëror. Në rast se ndërmarrjet përfituese në kuadër të kësaj skeme kanë përfituar apo mendohet të përfitojnë nëpërmjet formave të tjera të ndihmës shtetërore, përfshi edhe format koncesionare apo nismën “Shqipëria 1 euro”, Drejtoria e Politikave Elektroenergjetike në Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës duhet të kryejë njoftimin për ndihmën individuale dhe të kërkojë miratimin e KNSH-së. 
 
@@ -60,6 +64,6 @@ VENDOSI:
 
 6. Ky vendim hyn në fuqi menjëherë. 
 
-Kryetari 
+Kryetari  
 
 Genc Ruli
