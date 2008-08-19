@@ -1,0 +1,6 @@
+# Neni 8
+Mjetet ligjore për ekzekutimin e detyrueshëm të kontratës
+1. Në qoftë se njëra nga palët nuk paguan çmimin e blerjes ose të riblerjes së titujve, ose nuk e paguan atë në masën dhe mënyrën e përcaktuar në kontratë, pala tjetër ka të drejtë të shesë vetë dhe menjëherë titujt që përbëjnë objektin e kësaj kontrate.
+2. Në qoftë se çmimi i realizuar nga shitja e titujve është më i ulët se shuma e çmimit përkatës të përcaktuar në kontratë për titujt me shpenzimet e kryera për realizimin e shitjes së tyre, ekzekutimi i detyrueshëm, sipas pikës 1 të këtij neni, nuk paragjykon të drejtën e palës kreditore për të kërkuar nga pala tjetër edhe pagesën për diferencën e rezultuar.
+3. Në qoftë se çmimi i realizuar nga ekzekutimi i detyrueshëm, sipas pikës 1 të këtij neni, është më i lartë se shuma e çmimit përkatës të përcaktuar në kontratë për titujt me shpenzimet e kryera për realizimin e shitjes së tyre, pala kreditore mban nga shuma e marrë aq sa i nevojiten për përmbushjen e të drejtave të saj dhe mbetjen ia kthen palës debitore.
+4. Ekzekutimi i detyrueshëm i kontratës së riblerjes së titujve mund të realizohet dhe nëpërmjet vënies në ekzekutim të klauzolave ose marrëveshjeve netting, sipas përcaktimeve të neneve 9 dhe 11 të këtij ligji.
