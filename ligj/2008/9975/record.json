@@ -1,0 +1,29 @@
+{
+  "qbz_id": 7070,
+  "title": "PËR TAKSAT KOMBËTARE",
+  "type": "Ligj",
+  "number": "9975",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-07-28",
+  "published": "2008-08-04",
+  "in_force": "2008-08-19",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9b52bae77c633d74a8ddefd4e119189bbde82347a03eef6db8a8e4ab5a05eed3.docx",
+  "source_sha256": "9b52bae77c633d74a8ddefd4e119189bbde82347a03eef6db8a8e4ab5a05eed3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7070",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2008/07/28/9975",
+  "capture_mode": "as-enacted (QBZ base text, version 0)",
+  "rendering": "Rendered from the official Word file: automatic list numbers from its numbering definitions, tables as Markdown tables, superscript/subscript as <sup>/<sub>, footnotes as [^n] notes at the end, text-box text after the paragraph that anchors it; shapes without text are omitted.",
+  "render_stats": {
+    "tables": 2,
+    "numbered_paragraphs": 0,
+    "superscript_runs": 0,
+    "subscript_runs": 0,
+    "footnote_refs": 0,
+    "text_boxes": 0,
+    "shapes_without_text": 0,
+    "images": 0,
+    "symbols": 0
+  },
+  "checked_on": "2026-11-16"
+}
