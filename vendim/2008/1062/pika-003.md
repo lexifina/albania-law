@@ -1,0 +1,1 @@
+3. Ministria garanton efektivitetin e këtij sistemi dhe siguron mjetet e nevojshme për Inspektoratin e Peshkimit për realizimin e detyrave të inspektimit dhe të kontrollit, të përcaktuara në këtë vendim.

@@ -1,0 +1,1 @@
+1. Ngritjen e një sistemi kontrolli për zbatimin e politikave menaxhuese dhe të legjislacionit për peshkimin, të përbërë nga Inspektorati i Peshkimit dhe strukturat e tjera shtetërore, që bashkëpunojnë me këtë Inspektorat.

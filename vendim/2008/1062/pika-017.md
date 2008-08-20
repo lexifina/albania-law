@@ -1,0 +1,2 @@
+17. Kapitenët e anijeve shqiptare të peshkimit mbajnë një libër anijeje (logbook), për pasqyrimin e veprimtarisë së anijes, ku jepen të dhëna për sasitë e peshkut, për çdo lloj peshku të zënë dhe të mbajtur në bord, datën dhe zonën e peshkimit zënieve (sipas aneksit 1, që i bashkëlidhet vendimit, dhe është pjesë përbërëse e tij), si dhe llojin e mjeteve të peshkimit, të përdorura.
+Të gjitha anijet e peshkimit pajisen me librin e anijes, brenda 6 muajve nga hyrja në fuqi e këtij vendimi.
