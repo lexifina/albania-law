@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Kërkesat teknike dhe normat, që duhet të përmbushë qumështi i destinuar për prodhimin e qumështit për konsum dhe të produkteve, me bazë qumështi”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
