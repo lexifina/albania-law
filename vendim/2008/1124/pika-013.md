@@ -1,0 +1,1 @@
+13. Certifikata shpallet e pavlefshme me urdhër të veçantë të ministrit, kur provohet se specialisti ka mashtruar me të dhënat e paraqitura në dokumente. Urdhri, që shpall të pavlefshme certifikatën, publikohet.

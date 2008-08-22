@@ -1,0 +1,1 @@
+3. Për pajisjen me cerifikatë si specialist për vlerësimin e ndikimit në mjedis dhe auditimin mjedisor, i diplomuari, sipas pikës 2 të këtij vendimi, paraqet në Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave një kërkesë, të shoqëruar me autodeklarimin ku, veç të tjerave, dëshmohet diplomimi dhe përvoja e punës në fushën e mjedisit, jo më pak se pesë vjet.

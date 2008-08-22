@@ -1,0 +1,1 @@
+11. Për evidentimin e specialistëve të pajisur me certifikatë, në Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave krijohet regjistri kombëtar i specialistëve të certifikuar, sipas rregullave të miratuara nga ministri.

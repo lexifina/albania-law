@@ -1,0 +1,1 @@
+14. Ndaj refuzimit të kërkesës për t’u pajisur me certifikatë, si dhe ndaj urdhrit për shpalljen e pavlefshme të certifikatës, specialisti mund të ankohet në rrugë administrative dhe në gjykatë, brenda një muaji nga data e refuzimit ose e daljes së urdhrit.
