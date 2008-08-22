@@ -1,0 +1,1 @@
+3. Institucioni i arsimit të lartë, privat, “Shkolla e Lartë Nëna Mbretëreshë, Geraldinë” do të ofrojë programe studimi të ciklit të parë, të cilat do të zgjasin 3 vite akademike dhe, në përfundim të studimeve, do të lëshojë diplomën e nivelit të parë, në fushën e arsimimit të kryer.

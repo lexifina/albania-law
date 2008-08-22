@@ -1,0 +1,2 @@
+5. Institucioni i arsimit të lartë, privat, “Shkolla e Lartë Nëna Mbretëreshë, Geraldinë” do ta fillojë veprimtarinë mësimore, për programet e studimit, pasi të ketë marrë lejen përkatëse nga Ministri i Arsimit dhe Shkencës, por jo me vonë se tre javë para fillimit të vitit akademik.
+Ministri e lëshon lejen pasi vlerëson se institucioni përmbush angazhimet e deklaruara, në përputhje me udhëzimin e tij për këtë qëllim.

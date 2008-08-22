@@ -1,0 +1,1 @@
+7. Institucioni i arsimit të lartë, privat, “Shkolla e Lartë Nëna Mbretëreshë, Geraldinë” duhet t’u nënshtrohet procesit të akreditimit institucional dhe programeve të studimit, brenda afateve të përcaktuara ligjore.
