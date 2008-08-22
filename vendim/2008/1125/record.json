@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7151,
+  "title": "Për një ndryshim në vendimin nr.209, datë 28.4.1999 të këshillit të ministrave “Për caktimin e administratorëve të pavarur në shoqëritë huamarrëse, subjekte të kontrollit”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1125",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-08-05",
+  "published": "2008-08-22",
+  "in_force": "2008-08-22",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7facf60b22bd58c6e0d554c5385ff56f33c39305c610caa5eec35b2e3013d261.docx",
+  "source_sha256": "7facf60b22bd58c6e0d554c5385ff56f33c39305c610caa5eec35b2e3013d261",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7151",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/08/05/1125",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
