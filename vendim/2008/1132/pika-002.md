@@ -1,0 +1,1 @@
+2. Zbatimi i normave të përcaktuara në shkronjat “a”, “b” e “c” të lidhjes së përmendur në pikën 1 të këtij vendimi, të kontrollohet, në mënyrë të vazhdueshme ose me sondazhe si në fermë, edhe në qendrën e grumbullimit apo në qendrën e përpunimit.

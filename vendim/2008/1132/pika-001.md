@@ -1,0 +1,1 @@
+1. Miratimin e normave për grumbullimin e qumështit të papërpunuar, nga ferma prodhuese në qendrat grumbulluese ose përpunuese, në çastin e dorëzimit, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi.
