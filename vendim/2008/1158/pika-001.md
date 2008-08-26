@@ -1,0 +1,4 @@
+1. Vlera e akcizës së lëndëve djegëse, solar dhe mazut (përveç lëndëve djegëse të përdorura në sektorin e prodhimit të çelikut), të konsumuara në serrat me ngrohje, për prodhimin e produkteve industriale e agroindustriale, të cilat përdoren për nevoja teknologjike të prodhimit të produkteve në këta sektorë, në përputhje me sasinë e produktit final, të shitur me faturë TVSH-je, rimbursohet sipas këtyre kushteve:
+a) Skema e rimbursimit është proporcionale.
+b) Tri vitet e para, rimbursimi bëhet në masën 100 për qind të akcizës së konsumuar për nevoja të prodhimit, në vitin e katërt rimbursimi bëhet në masën 80 për qind dhe në vitin e pestë në masën 50 për qind të kësaj akcize.
+1.1. Vlera e akcizës së lëndëve djegëse, solar, mazut, gazoil (diezel), të konsumuara në furrat e bukës, gjatë procesit të pjekjes, në përputhje me sasinë e produktit final, të shitur me faturë TVSH-je, rimbursohet.

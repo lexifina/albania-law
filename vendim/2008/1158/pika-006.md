@@ -1,0 +1,1 @@
+6. Ngarkohen Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministri i Ekonomisë, Tregtisë dhe Energjetikës dhe Ministri i Financave të nxjerrin udhëzimet e nevojshme, për përcaktimin e procedurave të rimbursimit të akcizës së lëndëve djegëse, në zbatim të këtij vendimi.
