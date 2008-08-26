@@ -1,0 +1,1 @@
+3. “Enpower Albania” sh.p.k., brenda 2 vjetëve nga hyrja në fuqi e këtij vendimi, të përmirësojë 93 ha, si dhe të pyllëzojë 4 ha me pyje, sipas ngastrave të përcaktuara nga drejtoria përkatëse e shërbimit pyjor.
