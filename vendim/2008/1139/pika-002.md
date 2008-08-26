@@ -1,0 +1,1 @@
+2. ISHP-ja ka stemën, logon dhe vulën zyrtare. Stema përbëhet nga stema e Republikës dhe shënimet: “Republika e Shqipërisë, Ministria përgjegjëse në fushën e punësimit, Inspektorati Shtetëror i Punës”.

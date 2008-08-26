@@ -1,0 +1,2 @@
+3. Drejtoria e Përgjithshme e ISHP-së ka vulën e vet zyrtare, e cila ka formën dhe përmban elementet e përcaktuara në pikën 2 të vendimit nr.390, datë 6.8.1993 të Këshillit të Ministrave “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare”, të ndryshuar.
+Drejtoria e Përgjithshme e ISHP-së ka shënimin identifikues “Inspektorati Shtetëror i Punës/Drejtoria e Përgjithshme”. Drejtoria rajonale/zyra vendore e inspektimit ka shënimin identifikues “Inspektorati Shtetëror i Punës/Drejtoria rajonale/Zyra vendore e inspektimit”.
