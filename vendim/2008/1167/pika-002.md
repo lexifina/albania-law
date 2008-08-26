@@ -1,0 +1,1 @@
+2. Kjo sipërfaqe, e cila, në regjistrat kadastralë të seksionit të administrimit dhe mbrojtjes së tokës, të qarkut të Shkodrës, është shënuar si “Tokë bujqësore”, të ndryshojë në zërin kadastral “Tokë urbane” (truall).
