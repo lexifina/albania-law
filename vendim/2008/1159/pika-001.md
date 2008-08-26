@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “BOT” (Ndërtim, operim, transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoriteti kontraktues, dhe bashkimit të shoqërive “ENDI-E”, sh.p.k. dhe “EKO A2”, sh.p.k. për ndërtimin e hidrocentraleve “Prellë 1” e “Prellë 2”, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
