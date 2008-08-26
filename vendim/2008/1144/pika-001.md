@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues, për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës “BOT” (Ndërtim, operim dhe transferim), të autostradës “Thumanë-Rrogozhinë” është Ministria e Punëve Publike, Transportit dhe Telekomunikacionit.
