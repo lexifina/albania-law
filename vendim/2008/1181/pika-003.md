@@ -1,0 +1,2 @@
+3. Ngarkohet Bashkia e Tiranës për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
