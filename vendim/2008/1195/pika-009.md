@@ -1,0 +1,1 @@
+9. Komisioni, brenda një periudhe kohore 5-ditëshe nga data e daljes së urdhrit, u shpërndan, me korrespondencë zyrtare, organeve të masmedias/agjencive të specializuara ftesën për negociata. Ftesa për negociata publikohet edhe në faqen e internetit të institucionit.

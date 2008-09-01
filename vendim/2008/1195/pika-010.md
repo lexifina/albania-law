@@ -1,0 +1,1 @@
+10. Ftesa për negociata duhet të përmbajë objektin e programit/reklamës/spotit, nevojën e kryerjes së programit/reklamës/spotit, shpeshtësinë dhe periudhën e shfaqjes së tij, fondin limit dhe datën përfundimtare të paraqitjes së kërkesës nga organet e masmedias.

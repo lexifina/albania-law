@@ -1,0 +1,2 @@
+5. Ky vendim zbatohet nga organet e qeverisjes qendrore e vendore, si dhe nga institucionet e tjera publike, të pavarura, për blerjen, zhvillimin, prodhimin e bashkëprodhimin e programeve a të reklamave për transmetim në televizionet ndërkombëtare, kombëtare dhe vendore, në radiot me shtrirje ndërkombëtare, kombëtare apo vendore ose për botim në mediat e shkruara, me shtrirje ndërkombëtare, kombëtare a vendore, dhe për kontrata për kohe transmetimi, nga organet e administratës shtetërore.
+II. PROCEDURA PËR REALIZIMIN E NJË PROGRAMI, TË NJË REKLAME APO SPOTI

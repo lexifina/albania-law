@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim vendosjen e rregullave, për realizimin e blerjes, të zhvillimit, prodhimit e të bashkëprodhimit të programeve a të reklamave, për transmetim nga operatorët radiotelevizivë ose botim në median e shkruar, dhe për kontratat, për kohë transmetimi, nga organet e administratës shtetërore.

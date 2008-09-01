@@ -1,0 +1,1 @@
+14. Ankesat për procedurën e blerjes, zhvillimit, prodhimit a bashkëprodhimit të programeve ose reklamave, transmetimit nga operatorët radiotelevizivë ose botimit në median e shkruar dhe procedurat për kontratat për kohë transmetimi bëhen te drejtuesi i institucionit. Vendimi i tij është përfundimtar.
