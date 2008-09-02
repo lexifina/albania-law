@@ -1,0 +1,1 @@
+4. Ngarkohen Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe SMAT-të në qark të bëjnë inventarizimin dhe transferimin e sipërfaqeve të tjera të tokës bujqësore, disponibël shtetërore, të ish-NB-ve, në zyrat rajonale të AKKP-së, sipas procedurave të përcaktuara në vendimin nr.567, datë 5.9.2007 të Këshillit të Ministrave.
