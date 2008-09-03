@@ -4,7 +4,7 @@ Nr.335, datë 2.9.1997
 
 PËR LËSHIMIN E PASAPORTAVE DIPLOMATIKE DHE TË SHËRBIMIT
 
-(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001; 152, datë 25.4.2002; nr. 779, datë 22.11.2006; nr. 631, datë 23.5.2008)
+(Ndryshuar me vendimin nr. 81, datë 18.2.1999; nr. 90, datë 24.2.2000; nr. 226, datë 5.5.2000; nr. 446, datë 17.8.2000; 614, datë 17.11.2000; nr. 641, datë 30.11.2000; nr. 505, datë 14.8.2001; 152, datë 25.4.2002; nr. 779, datë 22.11.2006; nr. 631, datë 23.5.2008; nr. 1219, datë 3.9.2008)
 
 (I përditësuar)
 
@@ -144,6 +144,8 @@ Pas mbarimit të funksionit të tyre
 
 - Kryetari i Komisionit të Autoritetit të Konkurrencës.
 
+- Drejtori i Përgjithshëm i Agjencisë së Kthimit dhe Kompensimit të Pronave.
+
 4. Me pasaportë shërbimi të pajiset kjo kategori personash:
 
 - Drejtori i Përgjithshëm i Institutit të Sigurimeve Shoqërore;
@@ -263,8 +265,6 @@ Pas mbarimit të funksionit të tyre
 - Drejtori i marrëdhënieve me jashtë në Komisionin Qendror të Zgjedhjeve.
 
 - Kryetarët e këshillave të qarqeve dhe inspektorët e marrëdhënieve me jashtë në këto këshilla.
-
-- Drejtori i Përgjithshëm i Agjencisë së Kthimit dhe Kompensimit të Pronave;
 
 - Kryetari dhe zëvendëskryetari i Entit Rregullator të Telekomunikacionit;
 
