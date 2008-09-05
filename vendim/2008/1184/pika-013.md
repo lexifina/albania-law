@@ -1,0 +1,2 @@
+13. Dhënia e lejes pa të drejtë page
+13.1 Punonjësi, me kusht që të mos ketë çështje, disiplinore a penale, në shqyrtim ndaj tij, ka të drejtë që, për arsye shëndetësore, personale, për fëmijët, bashkëshortin apo prindërit, të kërkojë leje të papaguar, brenda një viti kalendarik, jo më shumë se 30 ditë. Në bazë të arsyeve të parashtruara dhe nevojave operacionale të administratës tatimore, drejtori i përgjithshëm i tatimeve e pranon ose refuzon këtë leje.

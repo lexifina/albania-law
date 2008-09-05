@@ -1,0 +1,7 @@
+9. Ngritja e përkohshme në kategori
+9.1 Për nevoja operacionale të argumentuara, drejtori/shefi i burimeve njerëzore, për jo më shumë se 10 për qind të numrit të përgjithshëm të punonjësve për secilën strukturë, në përputhje me legjislacionin në fuqi, mund të kërkojë plotësimin e mënjëhershëm të një vendi të lirë pune apo të një vendi pune të sapokrijuar, për ngritje të përkohshme në kategori të punonjësve ekzistues, ose të kontraktojë punonjës jashtë administratës tatimore qendrore.
+9.2 Ngritjet e përkohshme në kategori zgjasin vetëm për një afat kohor maksimal tremujor, gjatë të cilit administrata duhet të zbatojë procedurat përkatëse dhe aktet, ligjore e nënligjore, për plotësimin përfundimtar të këtij vendi pune.
+9.3 Gjatë kësaj periudhe, punonjësi gëzon të drejtën e pagesës për kategorinë e pozicionit dhe të përfitimeve, që rrjedhin nga ndryshimi i vendndodhjes së vendit të punës.
+9.4 Zyrtarët e ngritur përkohësisht në kategorinë dhe që nuk kanë fituar në procedurën e ngritjes në kategorinë për postin e dhënë përkohësisht, rikthehen, në përfundim të afatit kohor tremujor në pozicionin dhe vendndodhjen e tyre të mëparshme.
+9.5 Ministri i Financave, me propozimin e drejtorit të përgjithshëm të tatimeve, miraton ngritjen e përkohshme në kategori për zëvendësdrejtorët e përgjithshëm dhe punonjësit e kategorisë A.
+9.6 Drejtori i përgjithshëm i tatimeve, me propozimin e Drejtorisë së Burimeve Njerëzore, miraton ngritjet e përkohshme në kategori për punonjësit e kategorive B dhe C1.

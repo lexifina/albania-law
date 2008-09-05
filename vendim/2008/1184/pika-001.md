@@ -1,0 +1,1 @@
+1. Për rekrutimin e nëpunësve të administratës tatimore qendrore zbatohet legjislacioni në fuqi për nëpunësit civilë për institucionet e pavarura, me përjashtim të kategorisë së punonjësve, marrëdhëniet e punësimit të të cilëve rregullohen sipas dispozitave të Kodit të Punës.

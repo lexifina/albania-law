@@ -1,0 +1,10 @@
+6. Pranimi i nëpunësve të administratës tatimore.
+Pranimi i nëpunësve të administratës tatimore kryhet nëpërmjet procedurave të konkurrimit të hapur, në bazë të meritave.
+Konkurrimi zhvillohet në tri faza:
+a) Shpallja e konkurrimit bëhet nga drejtoria/sektori apo zyra e personelit dhe përmban kërkesat e përgjithshme, të përcaktuara në vendimin nr.231, datë 11.5.2000 të Këshillit të Ministrave, si dhe kriteret e veçanta për secilin pozicion, të përcaktuara në aneksin nr.1, që i bashkëlidhet këtij vendimi.
+Drejtoria/sektori apo zyra e personelit përkatës në administratën tatimore qendrore bën përzgjedhjen e kandidatëve, që do t’i nënshtrohen testimit, pasi vlerëson se kandidatët plotësojnë kërkesat, e përgjithshme dhe të veçanta, të përcaktuara në shpalljen për konkurrim. Ankimi në këtë fazë bëhet në përputhje me legjislacionin në fuqi për nëpunësin civil.
+b) Testimi, i cili bëhet me shkrim dhe me gojë. Drejtoria/sektori apo zyra e personelit përkatës në administratën tatimore qendrore ngre komitete të veçanta, me 5 anëtarë, përkatësisht zëvendësdrejtorin e përgjithshëm të shërbimeve mbështetëse, drejtorin/përfaqësuesin e zyrës sektorit të shërbimeve mbështetëse, eprorin direkt për pozicionin e vendit të shpallur të lirë dhe dy personalitete të fushës, ekonomike, me profil finance dhe juridike.
+Komiteti harton një listë me tre kandidatët me rezultatet më të larta, duke u bazuar kryesisht në rezultatet e testimeve, por edhe në kualifikimet, përvojën profesionale dhe botimet shkencore.
+Rezultatet e testimit dhe pikët maksimale janë, përkatësisht, 70 pikë në rezultatin e testimit, 10 pikë për përvojën në punë të kandidatit, 8 pikë për kualifikimet, 8 pikë për botimet shkencore dhe 4 pikë për aftësitë personale, të veçanta.
+c) Vlerësimi nga komiteti të 3 kandidatëve me pikët më të larta. Rezultati shpallet në një vend të dukshëm. Drejtori i përgjithshëm i tatimeve zgjedh njërin nga tre kandidatët e përzgjedhur nga komiteti.
+Drejtoria/sektori apo zyra e personelit, brenda 4 ditëve, boton rezultatin e konkurrimit në dy gazetat kombëtare, me qarkullim më të madh.

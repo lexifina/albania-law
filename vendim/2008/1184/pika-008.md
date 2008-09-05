@@ -1,0 +1,6 @@
+8. Dispozita të përbashkëta për përzgjedhjen e kandidatëve nga brenda dhe jashtë administratës tatimore qendrore
+Pas përfundimit të konkurrimit shpallet lista e kandidatëve fitues për vendet e lira.
+8.1 Kandidatët, që nuk fitojnë, mund të paraqesin, pranë Komisionit të Shërbimit Civil, brenda 30 ditëve nga data e shpalljes së rezultateve të konkurrimit, ankesën për zhvillimin dhe rezultatin e konkurrimit.
+8.2 Zyrtarët e emëruar nga jashtë në kategoritë C3, C1, B e A i nënshtrohen një periudhe prove 1-vjeçare. Drejtoria e Burimeve Njerëzore, me plotësimin e këtij afati, duke marrë edhe mendimin e eprorit direkt, i propozon drejtorit të përgjithshëm emërimin ose jo të punonjësit. Sipas rastit, eprori direkt mund ta zgjasë periudhën e provës edhe për 6 muaj, në përputhje me legjislacionin në fuqi për shërbimin civil.
+Drejtori i përgjithshëm, brenda 5 ditëve, vendos për emërimin ose jo të punonjësit.
+8.3 Administrata tatimore qendrore siguron se të gjitha fazat e procedurave të emërimit, që kanë të bëjnë me ngritjen në kategori, nga brenda administratës tatimore qendrore ose jashtë saj, të regjistrohen dhe të dokumentohen në mënyrë të plotë. Të gjitha dokumentet, përfshirë edhe fletët e provimit, si dhe vlerësimet përfundimtare të komisioneve gjatë intervistave, ruhen nga administrata, në përputjhe me ligjin “Për arkivat”.
