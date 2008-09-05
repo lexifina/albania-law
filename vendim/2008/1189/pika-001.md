@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues, për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës “BOT” (ndërtim, operim dhe transferim), të hidrocentraleve “Myhejan 1”, “Myhejan 2” e “Myhejan 3” është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
