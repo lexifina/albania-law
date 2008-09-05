@@ -1,0 +1,1 @@
+7. Projekti “Rritja e prodhimit ushqimor 2KR”, në bashkëpunim me organet tatimore, ka të drejtë të ushtrojë kontroll teknik e financiar mbi veprimtarinë ekonomike që subjekti kryen, gjendjen teknike etj., për disa kohë që nuk është paguar kësti i fundit.

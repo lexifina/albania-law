@@ -1,0 +1,1 @@
+15. Në rast sekuestrimi, organet kompetente bllokojnë veprimtarinë ekonomike të subjektit dhe projekti “Rritja e prodhimit ushqimor 2KR” planifikon punën për çmontimin e linjës dhe rishpërndarjen e saj në subjekte të reja përfituese, duke respektuar udhëzimet në fuqi.

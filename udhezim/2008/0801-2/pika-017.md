@@ -1,0 +1,1 @@
+17. Të gjitha arkëtimet e kryera nga subjektet përpara lidhjes së kontratës, të provuara nga ana e tyre si arkëtime në favor të projektit “Rritja e prodhimit ushqimor 2KR” për likuidimin e linjës do të përfshihen në pagesën e këstit/-ve të fundit.

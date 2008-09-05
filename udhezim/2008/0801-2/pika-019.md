@@ -1,0 +1,1 @@
+19. Me mbylljen e arkëtimeve që përbën vlerën e plotë të detyrimit kontraktual, projekti “Rritja e prodhimit ushqimor 2KR” i kalon pronësinë subjektit përfitues duke e pajisur atë me “Vërtetim pronësie”.

@@ -1,0 +1,1 @@
+10. Kuotat e arkëtimit të kësteve përcaktohen në mirëkuptim midis palëve dhe do të pasqyrohen në kontratën e lidhur midis projektit “Rritja e prodhimit ushqimor 2KR” dhe subjekteve përfituese të NPGA-së.

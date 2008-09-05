@@ -1,0 +1,1 @@
+14. Kur subjekti përfitues, pagues i rregullt i kësteve, nuk paguan dy këste të radhës të cilat janë të pasqyruara në kontratë, linja e agropërpunimit sekuestrohet në përputhje me dispozitat ligjore në fuqi, pa asnjë rimbursim të kësteve të mëparshme.

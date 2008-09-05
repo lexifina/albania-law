@@ -1,0 +1,1 @@
+1. Të gjitha subjektet përfituese të NPGA (Non Project Grand Aid), që janë finanucar nga njësia e menaxhimit të projektit “Rritja e prodhimit ushqimor 2 KR”, për periudhën nga 1999 e në vazhdim, të lidhin kontratë të shitjes me rezervë me projektin “Rritja e prodhimit ushqimor 2KR” për linjat teknologjike të agropërpunimit.

@@ -1,0 +1,1 @@
+18. Nuk përbëjnë arkëtim në favor të projektit “Rritja e prodhimit ushqimor 2KR” të gjitha arkëtimet të kryera ndaj të tretëve, agjentë sigurimesh etj., si dhe çdo pagesë tjetër që nuk ka mbërritur në llogarinë e projektit 2KR.

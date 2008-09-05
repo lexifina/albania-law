@@ -1,0 +1,1 @@
+12. Për rastet e mospagimit në kohë të këstit, subjekti përfitues i linjave të agropërpunimit penalizohet me një kamatëvonesë vjetore prej 5% të vlerës së papaguar të këstit, e llogaritur kjo për çdo ditë pune.

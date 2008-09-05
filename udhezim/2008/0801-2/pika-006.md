@@ -1,0 +1,1 @@
+6. Brenda strukturës organizative të miratuar të sektorit të fondit kundërparti, drejtori i projektit ngarkon specialistë të veçantë për monitorimin, menaxhimin e linjave dhe kthimin e fondit kundërparti nga çdo subjekt. Këta specialistë mbajnë dokumentacion të plotë dhe ndjekin punën për shlyerjen e vlerës së përcaktuar të linjave të agropërpunimit.

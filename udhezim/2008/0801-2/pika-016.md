@@ -1,0 +1,1 @@
+16. Kalimi i pronësisë së linjave të agropërpunimit nga projekti “Rritja e prodhimit ushqimor 2KR” te subjekti përfitues, bëhet vetëm pasi ky i fundit të ketë likuiduar edhe këstin e fundit në përputhje me kontratën duke shlyer vlerën FOB të linjës.
