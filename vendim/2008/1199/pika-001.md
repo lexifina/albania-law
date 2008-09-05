@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “BOT”, të lidhur ndërmjet Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe “POLAR” sh.p.k-së, për burimin ujor 6/1, Uji i Ftohtë, Vlorë, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
