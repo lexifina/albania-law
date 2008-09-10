@@ -1,0 +1,10 @@
+# Neni 5
+Dokumentacioni i kërkuar për identifikimin e klientit
+1. Për identifikimin dhe verifikimin e identitetit të klientit, subjektet duhet të regjistrojnë e të mbajnë të dhënat si më poshtë:
+a) për personat fizikë: emrin, atësinë, mbiemrin, datëlindjen, vendlindjen, vendbanimin e përkohshëm dhe të përhershëm, punësimin, llojin dhe numrin e dokumentit të identifikimit, autoritetin që e ka lëshuar, si dhe të gjitha ndryshimet e bëra në çastin e kryerjes së veprimit financiar;
+b) për personat fizikë që zhvillojnë veprimtari fitimprurëse: emrin, mbiemrin, datën e vendimit të regjistrimit në Qendrën Kombëtare të Regjistrimit, dokumentin që vërteton objektin e veprimtarisë, NIPT-in, adresën dhe të gjitha ndryshimet e bëra në çastin e kryerjes së veprimit financiar;
+c) për personat juridikë privatë që zhvillojnë veprimtari fitimprurëse: emrin, datën e vendimit të regjistrimit në Qendrën Kombëtare të Regjistrimit, dokumentin që vërteton objektin e veprimtarisë, NIPT-in, adresën dhe të gjitha ndryshimet e bëra në çastin e kryerjes së veprimit financiar;
+ç) për personat juridikë privatë që nuk zhvillojnë veprimtari fitimprurëse: emrin, numrin dhe datën e vendimit të gjykatës për regjistrimin si person juridik, statutin dhe aktin e themelimit, numrin dhe datën e lejes së ushtrimit të veprimtarisë nga organet tatimore, selinë e përhershme dhe natyrën e veprimtarisë;
+d) për përfaqësuesit ligjorë të klientit: emrin, mbiemrin, datëlindjen, vendlindjen, vendbanimin e përkohshëm dhe të përhershëm, llojin dhe numrin e dokumentit të identifikimit, autoritetin që e ka lëshuar dhe kopjen e aktit të përfaqësimit.
+2. Subjektet pranojnë nga klienti për të marrë të dhëna për të, sipas përcaktimeve të këtij neni, vetëm dokumente origjinale ose fotokopje të noterizuara. Për qëllime të këtij ligji, subjekti mban në dosjen e klientit kopje të vulosura me vulën e subjektit, të dokumenteve të paraqitura nga klienti në formën e mësipërme, brenda afatit të vlefshmërisë së tyre.
+3. Subjektet, kur e gjykojnë të nevojshme, duhet të kërkojnë paraqitjen nga klienti të dokumenteve të tjera identifikuese për verifikimin e të dhënave të paraqitura prej këtij të fundit.
