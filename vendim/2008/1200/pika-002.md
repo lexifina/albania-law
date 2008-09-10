@@ -1,0 +1,1 @@
+2. Lista përfundimtare e pronave të paluajtshme, pyje dhe kullota, me 9 (nëntë) fletë, që përfundon me numrin rendor 363 (treqind e gjashtëdhjetë e tre, dhe lidhja nr.1 i bashkëlidhet këtij vendimi dhe janë pjesë përbërëse e tij.
