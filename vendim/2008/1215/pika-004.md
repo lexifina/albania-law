@@ -1,0 +1,1 @@
+4. Fondi 1 260 000 (një milion e dyqind e gjashtëdhjetë mijë) lekë, për kompensimin e pronarëve të shpronësuar, të përballohet nga fondet e KESH sh.a., të miratuara për koston lokale për shpronësimet.
