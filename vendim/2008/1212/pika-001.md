@@ -1,0 +1,1 @@
+1. Ministria e Arsimit dhe Shkencës të japë 60 (gjashtëdhjetë) bursa studimi, nga të cilat 30 (tridhjetë) bursa për nxënësit e viteve të para dhe 30 (tridhjetë) bursa për nxënësit e viteve të dyta të shkollës së mesme profesionale “Peter Mahringer”, Shkodër, për vitin shkollor 2008-2009.
