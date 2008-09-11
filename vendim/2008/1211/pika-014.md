@@ -1,0 +1,2 @@
+14. Afati përfundimtar për shqyrtimin dhe miratimin e bursave për vitet e para është data 15 dhjetor 2008, për të gjitha kategoritë e shkollave, ndërsa për vitet e dyta e lart, është data 30 nëntor 2008.
+Në raste të veçanta, kur këshilli i bashkisë apo i komunës nuk mund ta miratojë, brenda këtij afati, numrin e bursave të dhëna, mbetet kompetencë e Ministrisë së Arsimit dhe Shkencës shqyrtimi i këtyre vendimeve, rast pas rasti.

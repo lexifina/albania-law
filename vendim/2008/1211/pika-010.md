@@ -1,0 +1,2 @@
+10. Fondet buxhetore për mbulimin e shpenzimeve për bursat, si dhe numri i bursave për studentët administrohen nga institucionet e arsimit të lartë dhe u paguhen, çdo muaj, me kalim, në numrin e llogarisë bankare të çdo studenti.
+10.1 Fondet buxhetore për mbulimin e shpenzimeve për bursat e nxënësve, “Kuota ushqimore”, si dhe numri i bursave për nxënësit administrohen nga bashkia/komuna, sipas vendndodhjes, territoriale dhe administrative, të konvikteve, ku janë vendosur nxënësit konviktorë, dhe u jepen nxënësve vetëm me ushqim, në konvikt.

@@ -1,0 +1,1 @@
+8. Nga plani i bursave, të miratuara për vitin shkollor 2008-2009, Bashkisë së Tiranës i jepen 15 (pesëmbëdhjetë) bursa të larta, për studentët, që vijnë nga familjet/shtresat sociale në nevojë, invalidët, paraplegjikë dhe tetraplegjikë, duke i përjashtuar nga kriteri, që të vazhdojnë studimet jashtë vendbanimit të tyre.

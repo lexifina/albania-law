@@ -1,0 +1,1 @@
+15. Vendimi nr.658, datë 10.10.2007 i Këshillit të Ministrave “Për kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesat e nxënësve dhe studentëve në institucionet arsimore publike, për vitin shkollor 2007-2008”, shfuqizohet.
