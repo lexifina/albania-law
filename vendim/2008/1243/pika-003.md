@@ -1,0 +1,1 @@
+3. Pika 2 e vendimit nr.360, datë 25.3.1996 të Këshillit të Ministrave, “Për rregullimin e kohës së punës dhe të pushimit në ndërmarrjet e transportit automobilistik, hekurudhor, detar dhe ajror, dhe ndërmarrjet, që mirëmbajnë dhe riparojnë mjetet e transportit”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë rregullore, shfuqizohen.

@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për organizimin e kohës së punës të personave, që kryejnë transport rrugor, të lëvizshëm, për orët e drejtuesve të mjeteve dhe pajisjet e regjistrimit, sipas tekstit, që i bashkëlidhet këtij vendimi.
