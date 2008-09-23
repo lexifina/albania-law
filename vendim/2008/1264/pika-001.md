@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ, të bashkisë Fushë-Krujë, të qarkut të Durrësit, që transferohen, në pronësi ose në përdorim, të kësaj bashkie, sipas lidhjes 1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 142 (njëqind e dyzet e dy) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 962 (nëntëqind e gjashtëdhjetë e dy).
