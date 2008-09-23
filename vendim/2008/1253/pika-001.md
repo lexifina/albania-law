@@ -1,0 +1,1 @@
+1. Çdo kërkues, brenda 10 (dhjetë) ditëve nga marrja e njoftimit për shqyrtimin në themel të kërkesës së tij nga Ministria e Drejtësisë, plotëson formularin e vetëdeklarimit për përfitimet, në të holla ose letra me vlerë, të marra prej tij me ligje të mëparshme.

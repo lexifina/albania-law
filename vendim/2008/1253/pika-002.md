@@ -1,0 +1,1 @@
+2. Formulari i vetëdeklarimit është sipas modelit të përcaktuar në aneksin 1, që i bashkëlidhet këtij vendimi. Ai i dërgohet kërkuesit nga Ministria e Drejtësisë, së bashku me njoftimin për shqyrtimin në themel të kërkesës.

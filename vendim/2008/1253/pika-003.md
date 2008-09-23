@@ -1,0 +1,1 @@
+3. Ministri i Drejtësisë, pas mbërritjes së formularit të plotësuar nga ish-i dënuari politik ose i afërmi i tij, i dërgon Ministrisë së Financave një kopje të formularit të plotësuar dhe i kërkon të verifikojë përfitimet, në të holla dhe letra me vlerë, të ish-të dënuarit politik nga ligjet e mëparshme.
