@@ -1,0 +1,1 @@
+30. Sipërfaqet që pakësohen nga dështimet në pyllëzime, rënia e zjarreve apo e faktorëve të tjerë atmosferikë e njerëzor mbeten fond pyjor, por kalojnë në zërin tokë me bimësi pyjore ose djerrë kur këto sipërfaqe nuk mund të ripërtërihen në mënyrë natyrale.

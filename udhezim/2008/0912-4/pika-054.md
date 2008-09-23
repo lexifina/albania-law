@@ -1,0 +1,1 @@
+54. Nuk hiqen nga fondi kullosor dhe konsiderohen pjesë e tij korridoret për linja transmetimi me gjerësi më të vogël 10 m dhe hapje rrugësh me gjerësi më të vogël se 5 m, përfshirë dhe bankinën, sheshet që krijohen brenda kullotës nga shpimet, gërmimet, apo ndërtimet e veçuara, sipërfaqja e të cilave nuk kalon 0,1 ha dhe në total nuk kalojnë 5 % të sipërfaqes së nënparcelës.

@@ -1,0 +1,1 @@
+4. Të dhënat përditësohen në mënyrë të vazhdueshme nga drejtoritë e shërbimit pyjor dhe strukturat përgjegjëse në njësitë e qeverisjes vendore, që kanë në pronësi apo përdorim pyje dhe kullota, nëpërmjet Sistemit të Informimit Gjeografik (GIS), duke krijuar bazën e të dhënave siç përcaktohet në këtë udhëzim.

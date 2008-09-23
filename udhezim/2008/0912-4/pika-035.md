@@ -1,0 +1,1 @@
+35. Shtesat nga rritja vijuese bëhen në fund të vitit sipas programit kompjuterik të hartuar për këtë qëllim, duke shumëzuar trungdendësinë që jepet në planet e mbarështimit me rritjen vijuese të tabelave për llojin përkatës, formula e llogaritjes është: (Rt = Td x Rv/ha x S).

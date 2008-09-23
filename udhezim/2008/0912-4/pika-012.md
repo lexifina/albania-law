@@ -1,0 +1,1 @@
+12. Informacioni i pikës 11 të këtij udhëzimi dërgohet në kadastrën qendrore, e cila kontrollon që të mos ketë mbivendosje, kufij të tepërt ose zona konfliktuale, dhe plotëson në nivel kombëtar të gjitha të dhënat e mësipërme.

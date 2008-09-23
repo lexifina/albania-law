@@ -1,0 +1,1 @@
+34. Shtesat në vëllim pasqyrohen nga rritja vijuese e drurëve; rivlerësimi i pyjeve të rinj, të cilët plani i mbarështimit i ka vlerësuar pa vëllim; evidentimi i sipërfaqeve që nuk janë pasqyruar më parë në planet e mbarështimit; dhe nga ndryshimet në madhësinë e sipërfaqes së nënngastrës.

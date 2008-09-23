@@ -1,0 +1,1 @@
+60. Informacioni mbahet në kompjuter në programin Microsoft Acces të unifikuar, për të mundësuar lidhjen automatike dhe përditësimin e tij, paraqitjen në GIS, me qëllim që të bëhet lidhja e vazhdueshme me sistemet qendrore dhe produktet dixhitale e analoge për të plotësuar nevojat e përdoruesve të tjerë.

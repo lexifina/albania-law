@@ -1,0 +1,1 @@
+40. Dokumentacioni shkresor kadastral, duke përfshirë dhe atë topografik, mbahet në arkivin teknik dhe administrohet sipas dispozitave ligjore mbi përdorimin e arkivave teknike. Dokumentacioni i terrenit ruhet në gjendje të pastër dhe i plotë, duke u grupuar në dosje të veçanta në bazë ekonomie pyjore, komune, rrethi dhe qarku.

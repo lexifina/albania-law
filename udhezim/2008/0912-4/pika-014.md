@@ -1,0 +1,1 @@
+14. Çdo shtresë e mësipërme duhet të jetë e përfunduar pa gabime, me saktësi të pranuar në dixhitalizim 0,02-0,05. Elementet e secilës shtresë duhet të jenë të identifikuara në mënyrë të vetme, në mënyrë që të realizohet lidhja me atributet.

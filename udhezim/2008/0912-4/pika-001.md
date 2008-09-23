@@ -1,0 +1,1 @@
+1. Kadastra ndërtohet dhe funksionon në përputhje me kriteret teknike që përdoren për evidentimin dhe regjistrimin fillestar të pyjeve dhe kullotave; të të dhënave për mbajtjen dhe pasqyrimin e ndryshimeve periodike që pëson fondi pyjor dhe kullosor kombëtar, nëpërmjet Sistemit të Informimit Gjeografik (GIS).

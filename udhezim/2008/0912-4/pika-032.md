@@ -1,0 +1,1 @@
+32. Për ndryshimet e destinacionit të përdorimit të fondit pyjor dhe kullosor hartohen raporte teknike përkatëse, me skicë dhe kufij të rregullt, duke përdorur GPS për identifikimin e koordinatave. Skica e ngastrës jepet e gjeoreferuar nëpërmjet koordinatave të përcaktuara, e cila duhet të përmbajë të gjitha detajet, si lumenjtë, rrugët etj.

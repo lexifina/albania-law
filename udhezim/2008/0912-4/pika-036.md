@@ -1,0 +1,1 @@
+36. Rivlerësimi i pyjeve të rinj, që plani i mbarështimit i ka vlerësuar pa vëllim, dhe evidentimi i sipërfaqeve që nuk janë pasqyruar më parë në planet e mbarështimit, bëhet nëpërmjet inventarizimit me sipërfaqe provë të përhershme dhe të përkohshme, të dhënat e të cilave hidhen në programin kompjuterik.

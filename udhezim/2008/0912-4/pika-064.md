@@ -1,0 +1,1 @@
+64. Praktikat dokumentare të Kadastrës Kombëtare të Pyjeve dhe Kullotave në nivel qendror dhe lokal regjistrohen në regjistrin e korrespondencës sipas modeleve në shtojcën 7 bashkëlidhur këtij udhëzimi.

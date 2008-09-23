@@ -1,0 +1,1 @@
+19. Planet e mbarështimit të pyjeve dhe kullotave të hartuara për çdo ekonomi pyjore në përputhje me kërkesat e udhëzimit nr.1, datë 28.03.2001 “Për hartimin e planeve të mbarështimit të pyjeve”, përbëjnë bazën e mbajtjes së treguesve kadastralë për gjendjen e fondit pyjor dhe kullosor.
