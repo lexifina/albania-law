@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, me nr.pasurie 133/13, në zonën kadastrale 2 544, të shpronësohet, për sipërfaqen 414 (katërqind e katërmbëdhjetë) m2, tokë arë, e vlerësuar me 376 (treqind e shtatëdhjetë e gjashtë) lekë/m2, me vlerë të përgjithshme shpronësimi 155 664 (njëqind e pesëdhjetë e pesë mijë e gjashtëqind e gjashtëdhjetë e katër) lekë.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga ndërtimi i një kanali për vendosjen e një tombinoje, përgjatë superstradës Lezhë-Shkodër, seksioni Piraj-Kthesa Vau i Dejës.
