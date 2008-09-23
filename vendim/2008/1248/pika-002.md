@@ -1,0 +1,1 @@
+2. Të gjitha institucionet shtetërore të fushës, në nivel qendror dhe vendor, si dhe shoqata e ujësjellës-kanalizimeve në Shqipëri, veçmas ose në bashkëpunim, të programojnë, organizojnë dhe realizojnë, në këtë kuadër, brenda juridiksionit dhe mundësive të tyre financiare, infrastrukturën festive dhe veprimtari të ndryshme.
