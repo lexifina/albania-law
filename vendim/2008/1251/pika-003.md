@@ -1,0 +1,1 @@
+3. Punonjësit e autorizuar të administratës tatimore, gjatë kryerjes së verifikimeve apo kontrolleve, shqyrtojnë numrin e punonjësve të deklaruar nga subjekti, si dhe kryejnë rivlerësimet e nevojshme, në bazë të llojit të veprimtarisë, vëllimit të punës, vendeve të punës e regjimit të punës, etj. në raport me numrin referues të punonjësve, sipas përcaktimeve të këtij vendimi.

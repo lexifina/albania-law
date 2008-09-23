@@ -1,0 +1,1 @@
+2. Subjektet e regjistruara në biznesin e vogël janë të detyruara të deklarojnë, në organet tatimore, të gjithë personat, që punojnë në biznesin e tyre, përfshirë veten dhe anëtarët e papaguar të familjes, me të cilët punon e bashkëjeton ligjërisht, si dhe të llogarisin e paguajnë kontributet, sipas përcaktimeve të akteve, ligjore e nënligjore, në fuqi.
