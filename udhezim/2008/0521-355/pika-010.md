@@ -1,0 +1,1 @@
+10. Njofton periodikisht organin mbikëqyrës për veprimtarinë e dhomës sipas udhëzimit të METE nr.953, datë 11.12.2007 “Për procedurat dhe përmbajtjen e raportimit periodik të dhomave të tregtisë dhe industrisë dhe bashkimit të dhomave të tregtisë dhe industrisë pranë organit mbikëqyrës”.

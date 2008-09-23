@@ -1,0 +1,3 @@
+2. Merr pjesë në mbledhjet e Asamblesë dhe të Kryesisë pa të drejtë vote, ngre çështje për shqyrtim dhe siguron zbatimin e dispozitave të ligjit të dhomave dhe të statutit të dhomës që kanë të bëjnë me thirrjet e mbledhjes, organizimin dhe vlefshmërinë e mbledhjes, arritjen e kuorumit dhe vendimmarrjes.
+2.1. Sekretari i dhomës shtron çështje në Kryesi dhe në Asamble dhe këto të fundit i shqyrtojnë dhe shprehen me vendim (miratim ose refuzim) për çështjet e ngritura.
+2.2. Sekretari i dhomës siglon procesverbalin e mbledhjes dhe vendimet e zbardhura duke u siguruar që këto dokumente janë në përputhje me vullnetin e shprehur të vendimmarrësve.

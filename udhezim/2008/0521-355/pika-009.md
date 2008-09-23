@@ -1,0 +1,1 @@
+9. Në rast se organet ekzekutive të dhomës vërejnë shkelje të ligjit të dhomës, të akteve nënligjore, të ligjeve të tjera në fuqi dhe të statutit nga sekretari i dhomës, njoftojnë Asamblenë, e cila me vendim të saj të arsyetuar i propozon organit mbikëqyrës shkarkimin e tij. Sekretari i dhomës shkarkohet me urdhër të organit mbikëqyrës.

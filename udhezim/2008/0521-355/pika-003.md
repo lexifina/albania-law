@@ -1,0 +1,2 @@
+3. Ndjek zbatimin e vendimeve të Asamblesë dhe Kryesisë nga subjektet e ngarkuara për zbatimin e tyre. Në çdo kohë, sekretari i dhomës informohet mbi statusin e zbatimit të vendimeve nga organet e ngarkuara për zbatimin e tyre dhe në rast se vëren moszbatim apo mosrespektim të këtyre vendimeve informon me shkrim organin që ka marrë vendimin dhe organin mbikëqyrës.
+3.1. Kryetari dhe administrata e dhomës bashkëpunon me sekretarin e dhomës në çdo kohë për kryerjen e detyrave në zbatim të vendimeve të organeve të dhomës.

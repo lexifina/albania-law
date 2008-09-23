@@ -1,0 +1,2 @@
+1. Ndjek respektimin e ligjit të dhomave, të ligjeve të tjera, të akteve nënligjore dhe të statutit të dhomës në vendimet e marra nga organet drejtuese të dhomës.
+1.1. Në rast se vëren shkelje të ligjshmërisë në vendimet e marra nga organet e dhomës (Asambleja, Kryesia, Kryetari, Komisioni i Auditimit), njofton organin mbikëqyrës, i cili brenda 30 ditëve nga vënia në dijeni, u kërkon këtyre organeve rishikimin e vendimeve të marra ose sipas rastit marrjen e vendimeve për të cilat janë të detyruara sipas ligjit.

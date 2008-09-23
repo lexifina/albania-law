@@ -1,0 +1,1 @@
+8. Në rast se vëren shkelje të ligjit të dhomës, të akteve nënligjore, të ligjeve të tjera në fuqi dhe të statutit nga organet drejtuese të dhomës, pasi të ketë marrë mendimin e organin mbikëqyrës, sekretari i dhomës i propozon Asamblesë shkarkimin e tyre. Humbja e mandatit, deklarohet me vendim të Asamblesë.
