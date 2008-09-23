@@ -1,0 +1,1 @@
+2. Për shpërndarjen e fondeve, në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta krijohet një komision me 5 anëtarë. Komisioni kryesohet nga Ministri dhe anëtarët e tij janë Sekretari i Përgjithshëm, drejtori i Drejtorisë së Politikave të Shërbimeve Sociale, drejtori i Drejtorisë së Shërbimeve Juridike dhe Përgjegjësi i Sektorit të Planifikimit Financiar.

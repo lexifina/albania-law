@@ -1,0 +1,1 @@
+11. Njësitë e qeverisjes vendore ndjekin procedurat e prokurimit sipas legjislacionit në fuqi për përzgjedhjen e ofruesit të shërbimit sipas germës “c” të pikës 1 të këtij udhëzimi, fitues i projektit të miratuar nga Ministri i Punës,Çështjeve Sociale dhe Shanseve të Barabarta.

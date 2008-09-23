@@ -1,0 +1,1 @@
+4. Njësitë e qeverisjes vendore, bashkitë dhe komunat paraqesin projektet dhe propozimet e tyre për mbështetje nga fondi i pashpërndarë i mbrojtjes sociale sipas germave “a”, “b” & “c” të pikës 1, pranë Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror. Kërkesat për shërbimet sociale komunitare, germa” c” e pikës 1, bëhen sipas modularit 1 bashkëlidhur këtij udhëzimi.

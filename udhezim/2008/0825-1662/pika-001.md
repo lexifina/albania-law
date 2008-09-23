@@ -1,0 +1,4 @@
+1. Fondi i pashpërndarë i mbrojtjes sociale përdoret për mbështetjen me fonde:
+a) për familje apo individë në nevojë në raste fatkeqësish me vdekje nga aksidente në punë, sëmundje të rënda, fatkeqësi nga zjarri, përmbytje apo fatkeqësi të tjera natyrore;
+b) të njësive vendore për programimin e ndihmës ekonomike, pagesën për aftësinë e kufizuar, për plotësimin e nevojave të paparashikuara dhe emergjente, si rezultat i ndryshimeve që kanë ndodhur në nivelin e varfërisë së familjeve banuese në juridiksion të territorit të tyre, ndryshimit të nivelit të papunësisë dhe punësimit;
+c) të shërbimeve sociale komunitare që ofrohen në qendra rezidenciale, ditore, shërbime në shtëpi, shërbimin e kujdestarisë, të cilat ndikojnë drejpërdrejt në mirëqenien e fëmijëve, personave me aftësi të kufizuara, të moshuarve, të rinjve dhe grave në nevojë.

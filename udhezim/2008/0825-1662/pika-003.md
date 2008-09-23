@@ -1,0 +1,1 @@
+3. Komisioni mblidhet periodikisht dhe vlerëson kërkesat që vijnë nga njësitë vendore, për mbështetjen e individëve, familjeve, grupimeve që konsiderohen në nevojë dhe i paraqet Ministrit propozimin për shpërndarjen e këtij fondi.

@@ -1,0 +1,1 @@
+8. Të gjitha shpenzimet e tjera të nevojshme për fuksionimin e shërbimeve sociale komunitare për personelin administrativ dhe shpenzimet operative, si energji, ujin, kancelari etj., mbulohen nga vetë njësia vendore.
