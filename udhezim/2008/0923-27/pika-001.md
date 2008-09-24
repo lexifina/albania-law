@@ -1,0 +1,1 @@
+1. Shpenzimet për administrimin e pasurive të sekuestruara dhe të konfiskuara janë shpenzime të cilat kryhen gjatë kohës që këto pasuri janë në administrim të Agjencisë. Këto shpenzime kryhen në momentin e shfaqjes së nevojës së kryerjes së shpenzimit dhe janë shpenzime për secilën pasuri më vete.
