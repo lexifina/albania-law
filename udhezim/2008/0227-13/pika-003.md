@@ -1,1 +1,0 @@
-3. Në llogaritë e hapura në bankat e nivelit II për çdo subjekt për të cilin ka dalë urdhri i sekuestrimit dhe janë në administrim të Agjencisë për Administrimin e Pasurive të Sekuestruara dhe të Konfiskuara do të derdhen të gjitha të ardhurat që krijohen nga administrimi i tyre.

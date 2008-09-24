@@ -1,1 +1,0 @@
-12. Administrimi i llogarive dhe çdo aktivitet tjetër i Agjencisë për Administrimin e Pasurive të Sekuestruara dhe të Konfiskuara është subjekt i auditimit të Drejtorisë së Auditimit të Ministrisë së Financave.

@@ -1,1 +1,0 @@
-11. Pagesa për shpenzimet e përmendura në pikat 6,7,8,9,10 më sipër bëhet në përputhje me pikën 5 të kreut II të Vendimit të Këshillit të Ministrave nr. 140, datë 13.2.2008 “Për mënyrën e administrimit të pasurive të paluajtshme të sekuestruara në kuadër të masave kundër financimit të terrorizmit”.
