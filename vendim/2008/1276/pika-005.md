@@ -1,0 +1,2 @@
+5. Pika e hyrjes në territorin e Republikës së Shqipërisë për datat 28 shtator, 2 dhe 3 tetor 2008 është pika e kalimit të kufirit Porti i Durrësit dhe pika e daljes është pika e kalimit të kufirit Qafë-Thanë.
+Pika e hyrjes në territorin e Republikës së Shqipërisë për datën 30 shtator 2008 është pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes është pika e kalimit të kufirit Porti i Durrësit.
