@@ -1,0 +1,1 @@
+3. Hapjen e programit të studimit, të ciklit të parë, “Hortikulturë”, në filialin e Fakultetit të Bujqësisë e të Mjedisit, të Universitetit Bujqësor të Tiranës. Në përfundim të këtij programi studimi do të jepet diplomë e nivelit të parë, DNP, në “Hortikulturë”.
