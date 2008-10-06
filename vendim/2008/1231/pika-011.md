@@ -1,0 +1,1 @@
+11. Punonjësve të jashtëm, inxhinierë, ekonomistë, agronomë etj., që japin mësim në shkollat e mesme, në shkollat e ulëta profesionale dhe në kurset e ndryshme (me përjashtim të kurseve, që ngrihen pranë shkollave të larta dhe institucioneve të tjera të kualifikimit të punonjësve mësimorë), për çdo orë mësimore, u jepen 300 lekë.
