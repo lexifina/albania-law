@@ -1,0 +1,4 @@
+# Neni 5
+Taksapaguesve të mjeteve rrugore, debitorë ndaj Drejtorisë së Përgjithshme të Tatimeve, për taksën vjetore të qarkullimit rrugor të mjeteve dhe debitorë ndaj njësive të qeverisjes vendore, për taksën e regjistrimit të përvitshëm të mjeteve, u falen detyrimet e prapambetura me kusht që:
+a) pronarët e mjeteve, që nuk janë në qarkullim, të kenë kryer, brenda 6 muajve nga hyrja në fuqi e këtij ligji, veprimet përkatëse të çregjistrimit, sipas nenit 102 të ligjit nr.8378, datë 22.7.1998 “Kodi Rrugor i Republikës së Shqipërisë”, të ndryshuar;
+b) pronarët e mjeteve, që janë në qarkullim, të kenë kryer, brenda 6 muajve nga hyrja në fuqi e këtij ligji, veprimet përkatëse të pagesës së detyrimeve, me të gjithë komponentët, për vitin 2008, sipas ligjit nr.8977, datë 12.12.2002 “Për sistemin e taksave në Republikën e Shqipërisë”, të ndryshuar dhe të ligjit nr.9632, datë 15.12.2006 “Për sistemin e taksave vendore”, të ndryshuar.

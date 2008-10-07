@@ -1,0 +1,2 @@
+# Neni 1
+Personave fizikë e juridikë, që janë debitorë ndaj administratës doganore dhe administratës tatimore, të evidentuar dhe të kontabilizuar pa vendime administrative përkatëse apo me vendime administrative të panjoftuara brenda afateve ligjore, të parashikuara në Kodin Doganor të Republikës së Shqipërisë dhe në ligjin për procedurat tatimore, u falet detyrimi doganor dhe tatimor, së bashku me komponentët, gjobat dhe kamatëvonesat.

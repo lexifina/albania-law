@@ -1,0 +1,3 @@
+# Neni 3
+1. Personave fizikë, individë, debitorë ndaj administratës doganore, për automjetet e importuara, të evidentuara dhe të kontabilizuara deri në datën 31.12.2000, u falet detyrimi doganor, me të gjithë komponentët e tij, si kamatëvonesa, gjoba dhe ditë-qëndrimi.
+2. Personave fizikë e juridikë, debitorë ndaj administratës doganore, për automjetet e importuara, të evidentuara dhe të kontabilizuara nga data 1.1.2001 deri në hyrjen në fuqi të këtij ligji, u falen kamatëvonesat, gjobat dhe taksa për ditë-qëndrimi, me kusht që principali i detyrimit të arkëtohet brenda 6 muajve nga hyrja në fuqi e këtij ligji.

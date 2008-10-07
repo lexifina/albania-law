@@ -1,0 +1,2 @@
+# Neni 7
+Individët, personat fizikë dhe juridikë, debitorë ndaj administratës doganore e tatimore dhe Institutit të Sigurimeve Shoqërore, për të cilët ka filluar një procedim penal dhe që në përfundim të tij deklarohen fajtorë, apo detyrimi i të cilëve është përcaktuar me vendim gjyqësor të formës së prerë, ose që e kanë paguar detyrimin, me të gjithë komponentët e tij, nuk janë përfitues të faljes së detyrimeve, sipas dispozitave të këtij ligji.

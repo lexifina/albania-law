@@ -1,0 +1,2 @@
+# Neni 2
+Personave fizikë e juridikë, debitorë ndaj administratës doganore dhe administratës tatimore, që janë aktualisht të evidentuar dhe të kontabilizuar si të tillë në këto dy administrata, për të cilët procedura e evidentimit, marrjes së vendimit administrativ përkatës, si dhe njoftimit të tij debitorit është bërë në përputhje me dispozitat e Kodit Doganor të Republikës së Shqipërisë dhe ligjit për procedurat tatimore, u falen gjobat dhe kamatëvonesat, me kusht që principali i detyrimit të paguhet brenda 6 muajve nga hyrja në fuqi e këtij ligji.
