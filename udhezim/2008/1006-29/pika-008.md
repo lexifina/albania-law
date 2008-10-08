@@ -1,0 +1,1 @@
+8. Marrja ose jo në pronësi e sendit të propozuar nga përmbaruesi gjyqësor, bëhet me vendim të Drejtorisë së ATK-së, pas rivlerësimit dhe propozimit nga strukturat përkatëse të saj. Përgjigja për miratimin ose jo të këtij propozimi i dërgohet përmbaruesit gjyqësor, brenda 30 ditëve nga data e marrjes së propozimit.

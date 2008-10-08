@@ -1,0 +1,1 @@
+11. Pas përfundimit të procedurave për marrjen në dorëzim të sendit, plotësohet dosje e veçantë me dokumentacionin e plotë tekniko-ekonomiko-ligjor, një kopje e së cilës arkivohet në dosjen e debitorit.

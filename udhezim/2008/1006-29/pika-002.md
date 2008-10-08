@@ -1,0 +1,8 @@
+2. Për likuidimin e menjëhershëm ose me këste të detyrimit me objekt “për banesa ose për përmirësimin e kushteve të banimit”
+a) Debitorëve, që kanë marrë kredi për banesa ose për përmirësimin e kushteve të banimit, me vendndodhje në rrethet e kategorisë së dytë dhe të tretë, interesat, kamatëvonesat dhe gjobat u falen në masën 100%.
+b) Debitorëve, që kanë marrë kredi për banesa ose për përmirësimin e kushteve të banimit, me vendndodhje në rrethet e kategorisë së parë, u falen interesat, kamatëvonesat dhe gjobat në masën 80%.
+c) Falja bëhet me kusht që të shlyhet menjëherë, të paktën 40%, e principalit të transferuar apo të shumës së mbetur prej tij.
+d) Periudha e pagesës së shumës së mbetur të kredisë nuk mund të zgjatet më shumë se 3 vjet, nga data e nënshkrimit të marrëveshjes.
+e) Llogaritja e detyrimit të ri bëhet duke zbatuar normën e interesit 10% në vit për kreditë e dhëna në lekë dhe 5% për kreditë e dhëna në valutë, mbi principalin e transferuar ose principalin e mbetur, me përjashtim të kredive, që, në marrëveshjen ekzistuese të huasë, norma e interesit është përcaktuar më e ulët.
+f) Detyrimi i likuiduar përfundimisht, në asnjë rast, nuk mund të jetë më i vogël se detyrimi principal i transferuar nga bankat në ATK.
+g) Për të gjithë debitorët që afrohen brenda datës 30.4.2009 për të likuiduar detyrimin menjëherë ose me këste deri në 3 vjet, llogaritja e interesave për periudhën e transferimit të kredive nga ish-bankat e nivelit të dytë në ATK, deri në datën e miratuar për likuidim përfundimtar të tij, do të bëhet me normë interesi 10%. Për rastet kur ka dalë urdhri i ekzekutimit, interesat do të llogariten deri në datën e shpalljes së tij (kur urdhri i ekzekutimit ka dalë pa shumë).
