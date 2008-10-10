@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63405,
+  "title": "Për miratimin e dekretit të Presidentit të Republikës për emërim ministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "218",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-10-06",
+  "published": "2008-10-10",
+  "in_force": "2008-10-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/79b0df0345e42d8b3dd66876e621686bcb3b48b2df54406fcf4049291e3b1053.docx",
+  "source_sha256": "79b0df0345e42d8b3dd66876e621686bcb3b48b2df54406fcf4049291e3b1053",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63405",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/10/06/218",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
