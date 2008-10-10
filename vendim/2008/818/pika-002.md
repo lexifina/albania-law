@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 5.5 për qind të pikëve, për rezultatin ekonomik, financiar, teknik dhe mjedisor, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), që i jepet shoqërisë “Idea Vlora”, sh.a.
