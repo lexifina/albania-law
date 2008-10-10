@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63404,
+  "title": "Për miratimin e dekretit të presidentit të Republikës për shkarkim ministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "217",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-10-06",
+  "published": "2008-10-10",
+  "in_force": "2008-10-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c84bb0386952864706a9422a0f77ddd6e8159b72856c58153d04dd90d72c6a60.docx",
+  "source_sha256": "c84bb0386952864706a9422a0f77ddd6e8159b72856c58153d04dd90d72c6a60",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63404",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/10/06/217",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
