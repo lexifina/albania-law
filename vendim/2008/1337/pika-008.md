@@ -1,0 +1,2 @@
+8. Kandidatët, që u përkasin shtresave sociale, si të verbër, të shurdhër, invalidët, paraplegjikë dhe tetraplegjikë, studentë me aftësi të kufizuara, fëmijë romë apo fëmijë të policëve të rënë ose të plagosur, për shkak të detyrës, ish-të përndjekur politikë, që do të fitojnë të drejtën në një program studimi, të ciklit të dytë, në institucionet publike të arsimit të lartë, do të paguajnë një kuotë, në masën 50 për qind të tarifës së shkollimit.
+Këtë të drejtë do ta kenë edhe studentët e viteve më të larta, që u përkasin po këtyre shtresave sociale.

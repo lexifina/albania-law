@@ -1,0 +1,2 @@
+10. Në çdo program studimi, në ciklin e dytë të studimeve, me kohë të plotë, në vitin akademik 2008-2009, studentët e shkëlqyer nga cikli i parë dhe cikli i dytë nuk e paguajnë tarifën e shkollimit në vitin akademik pasardhës.
+Në programet e studimit master i nivelit të parë në mësuesi, për ciklin e lartë të arsimit bazë, për lëndët fizikë, matematikë apo kombinimet e tyre, me kohë të plotë, në vitin akademik 2008-2009, studentët me mesatare, të ciklit të parë, jo më të ulët se nota 8 (tetë), nuk paguajnë tarifën e shkollimit.

@@ -1,0 +1,1 @@
+12. Kuotat e pranimeve në ciklin e dytë të studimeve, sipas pikës 1 të këtij vendimi, që mbeten të parealizuara, rishpërndahen, sipas institucioneve publike të arsimit të lartë dhe programeve të ndryshme të studimit, nga Ministria e Arsimit dhe Shkencës.

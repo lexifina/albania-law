@@ -1,0 +1,1 @@
+3. Kuota e pranimeve të reja për programet e studimit master i nivelit të parë (MNP), me kohë të plotë, sipas shkronjës “b” të pikës 1 të këtij vendimi, shpërndahet sipas programeve të studimit dhe institucioneve publike të arsimit të lartë, pasqyruar në tabelën nr.2, që i bashkëlidhet këtij vendimi.

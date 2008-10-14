@@ -1,0 +1,1 @@
+2. Kuota e pranimeve të reja për programet e studimit të ciklit të dytë (DND), me kohë të plotë, sipas shkronjës “a” të pikës 1 të këtij vendimi, shpërndahet sipas programeve të studimit dhe institucioneve publike të arsimit të lartë, pasqyruar në tabelën nr.1, që i bashkëlidhet këtij vendimi.

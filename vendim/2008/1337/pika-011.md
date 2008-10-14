@@ -1,0 +1,1 @@
+11. Kuotat e pranimeve për një program të dytë studimi, të përcaktuara në shkronjën “c” të pikës 1 të këtij vendimi, shpërndahen nga Ministria e Arsimit dhe Shkencës, në bazë të kërkesave të institucioneve publike të arsimit të larë.
