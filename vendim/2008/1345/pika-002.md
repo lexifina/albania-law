@@ -1,0 +1,1 @@
+2. Përcaktimin në terren dhe në hartë të kufijve të rinj të fondit pyjor kombëtar, pas heqjes së sipërfaqeve të ngastrave, të përmendura në pikën 1 të këtij vendimi, si dhe përfundimin e procedurave për pagesat, në përputhje me vendimin nr.391, datë 21.6.2006 të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe të kullotave”.

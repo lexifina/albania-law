@@ -1,0 +1,1 @@
+1. Sipërfaqet e ngastrave 98/a e 99/a, të ekonomisë pyjore ““Dhëmbel-Kala”, Përmet”, që do të përdoren nga “CFF” sh.p.k., për prodhim guri dekorativ, në një sipërfaqe, gjithsej, 5 ha, të hiqen nga fondi pyjor kombëtar dhe të çregjistrohen nga zëri kadastral “Pyll”, sipas tabelës 1 dhe hartës përkatëse, që i bashkëlidhen këtij vendimi.
