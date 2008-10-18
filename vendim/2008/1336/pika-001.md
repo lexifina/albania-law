@@ -1,0 +1,1 @@
+1. Hapjen, pranë universitetit “Fan S. Noli”, Korçë, në Fakultetin e Mësuesisë, të programit të studimit, master i nivelit të parë në mësuesi, për ciklin e lartë të arsimit bazë, në lëndët “Matematikë-Fizikë”, në përfundim të të cilit do të lëshohet diplomë, master i nivelit të parë, MNP, në mësuesi, për ciklin e lartë të arsimit bazë, në lëndët matematikë-fizikë.
