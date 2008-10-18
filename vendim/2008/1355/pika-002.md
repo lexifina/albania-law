@@ -1,0 +1,1 @@
+2. Objektet e përcaktuara në pikën 1 të këtij vendimi, të cilat vlerësohen se paraqesin interes për investime private, në fushën e veprimtarisë minerare, të jepen me koncesion, duke filluar me çmimin simbolik 1 euro.

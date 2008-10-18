@@ -1,0 +1,1 @@
+1. Përfshirjen në listën e aseteve, që do të jepen me koncesion, me çmimin simbolik 1 euro, të objekteve: “Miniera e kromit, Kalimash”, “Miniera e kromit, Vlahna”, “Fabrika e pasurimit të kromit, Kalimash” dhe “Fabrika e pasurimit të bakrit, Golaj”, të përcaktuara më hollësisht në shtojcën nr.1, që i bashkëlidhet këtij vendimi.
