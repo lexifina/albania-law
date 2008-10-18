@@ -1,0 +1,1 @@
+6. Dëmtuesi i objekteve infrastrukturore të kullotave (rrugë, ura, tombino, prita malore, lera, çezma, korita, kanale, shenja kufi dëftuese, tabela, rrethime me tel e drurë, ngrehina etj.) në marrëveshje, me shkrim, me drejtorinë përkatëse të shërbimit pyjor, merr përsipër ta riparojë vetë dëmin, deri në kthimin e situatës në gjendjen e mëparshme.

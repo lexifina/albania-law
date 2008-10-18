@@ -1,0 +1,1 @@
+2. Pagimi i dëmit bëhet në bazë të aktzhdëmtimit, të nënshkruar nga drejtori i drejtorisë së shërbimit pyjor ose nga kryetari i njësisë së qeverisjes vendore, kur dëmi ka ndodhur në kullota e livadhe komunale.
