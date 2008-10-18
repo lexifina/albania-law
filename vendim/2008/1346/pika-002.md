@@ -1,0 +1,1 @@
+2. Lejimin e kalimit transit, përmes territorit të Republikës së Shqipërisë, në itinerarin Porti i Durrësit - Qafë-Thanë, në datën 17 tetor 2008, të një autokolone ushtarake italiane, të përbërë nga 18 (tetëmbëdhjetë) automjete dhe 38 (tridhjetë e tetë) trupa.
