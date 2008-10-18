@@ -1,0 +1,1 @@
+3. Institucioni privat i arsimit të lartë “Shkolla e lartë “Illyria”” do të ofrojë programet e studimeve të ciklit të parë, të cilat do të zgjasin, përkatësisht, 4 e 3 vite, dhe në mbarim të tyre do të lëshohet diplomë e nivelit të parë (DNP), në fushën e arsimimit të kryer.
