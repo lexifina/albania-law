@@ -1,0 +1,1 @@
+37. Fëmijët e vendosur në kujdes rezidencial nxiten të zgjedhin vetë veshjet dhe sendet e nevojshme personale. Çdo institucion, brenda buxhetit të parashikuar, duhet të diskutojë dhe të bisedojë me fëmijët për nevojat e tyre për veshje, si dhe sende të nevojshme personale.

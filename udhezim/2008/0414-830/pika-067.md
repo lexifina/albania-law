@@ -1,0 +1,1 @@
+67. Çdo fëmijë, i cili ka qenë i përfshirë në keqtrajtim, si viktimë e keqtrajtimit apo si keqtrajtues i të tjerëve, duhet të marrë mbështetje, këshilla, modele të reja sjelljeje, që të ndihmohet të përballet me këto çështje.

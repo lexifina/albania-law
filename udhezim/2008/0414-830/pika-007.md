@@ -1,0 +1,1 @@
+7. Fëmijët që vijnë nga një situatë emergjente, sistemohen në ato institucione rezidenciale, të cilat në deklaratën e tyre të qëllimit kanë të parashikuara rregulla dhe kapacitete për pranimet emergjente.

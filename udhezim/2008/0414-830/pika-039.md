@@ -1,0 +1,1 @@
+39. Për fëmijët me shqetësime alergjike apo shëndetësore sigurohen sendet e nevojshme dhe iu ofrohen shërbime të veçanta në përputhje me nevojat e tyre. Në raportin e vlerësimit të nevojave dhe në planin e kujdesit të këtyre fëmijëve vendosen shënimet përkatëse për këto situata.

@@ -1,0 +1,1 @@
+50. Çdo fëmije, në përputhje me grupmoshën dhe kapacitetin, duhet t’i jepet plotësisht mundësia që t’i përdorë strukturat arsimore brenda ose jashtë institucionit. PPA përfshin në detaje historinë arsimore, ecurinë dhe arritjet në ndjekjen e arsimit.

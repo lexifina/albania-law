@@ -1,0 +1,1 @@
+66. Mbrojtja e fëmijës mbështetet në evidentimin dhe plotësimin e nevojave të veçanta, bazuar në vlerësimin e gjithë jetës së fëmijës, aspekteve emocionale, fizike, arsimore, sociale, gjinore, fetare, etnike, kulturore dhe gjuhësore.

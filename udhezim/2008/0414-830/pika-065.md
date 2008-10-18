@@ -1,0 +1,1 @@
+65. Mirëqenia dhe siguria e fëmijës janë drejtimet kryesore që garantohen gjatë gjithë periudhës që është i vendosur në institucion, kjo edhe për faktin se fëmija mund të ketë përjetuar një formë të caktuar keqtrajtimi në ambientin ku ka jetuar më parë.

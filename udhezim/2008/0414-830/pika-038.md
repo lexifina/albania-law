@@ -1,0 +1,1 @@
+38. Të gjithë fëmijët duhet të kenë veshje të pastra, të rregullta që përmbushin nevojat individuale të tyre. Ata mbështeten, inkurajohen dhe udhëzohen nga kujdestari dhe personeli i institucionit në zgjedhjen dhe blerjen e veshjeve, përdorimin e produkteve kozmetike apo sanitare, sendeve të tyre personale, duke respektuar moshën, gjininë, etninë, fenë etj.

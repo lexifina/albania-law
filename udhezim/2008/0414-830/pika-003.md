@@ -1,0 +1,1 @@
+3. Deklarata e qëllimit formulohet edhe në një gjuhë lehtësisht të kuptueshme nga fëmijët në formën e një “udhëzuesi për fëmijët”, i cili i vihet në dispozicion fëmijës menjëherë, pasi ai vendoset në institucion.

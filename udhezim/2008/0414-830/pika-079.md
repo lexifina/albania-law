@@ -1,0 +1,2 @@
+79. Vendndodhja dhe modeli i banjës dhe tualetit duhet të marrë në konsideratë nevojën për intimitet, dinjitet dhe siguri. Banja dhe tualeti duhet të jenë menjëherë të arritshme si nga hapësirat e fjetjes, ashtu edhe nga hapësirat e argëtimit të institucionit. Stafi duhet të përdorë tualet dhe banjë të veçantë nga ato të fëmijëve. Uji i ftohtë dhe i nxehtë duhet të jenë të disponueshëm 24 orë.
+XII. STRUKTURA E PERSONELIT

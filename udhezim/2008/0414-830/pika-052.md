@@ -1,0 +1,3 @@
+52. PPA duhet të përcaktojë dhe t’i përgjigjet çdo problemi në lidhje me ecurinë shkollore të fëmijës, duke i kushtuar vëmendje të veçantë aspekteve të mëposhtme:
+a) Fëmijëve duhet t’u krijohen kushte për të studiuar dhe për të bërë detyrat e shtëpisë pas kthimit nga shkolla. Të gjithë fëmijët duhet të marrin mbështetje, lavdërime dhe inkurajim nga stafi i institucionit për ndjekjen e shkollës, rezultatet pozitive, studimin pas shkollës etj. Për këtë arsye nga kujdestari/punonjësi social plotësohet plani personal i arsimimit, PPA (shih aneksin 6).
+b) Në kuadrin e përgatitjeve për rishikimin gjashtëmujor të planit të kujdesit, bazuar në PPA, plotësohet rishikimi i planit personal të arsimimit (RPPA) (shih aneks 6.1).

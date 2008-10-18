@@ -1,0 +1,1 @@
+68. Çdo fëmijë të mbështetet dhe ndihmohet që të përfshihet në aspekte të jetesës në grup të institucionit, duke zvogëluar vetminë dhe izolimin. Vëmendje duhet t’u kushtohet fëmijëve të cilët nuk mund të përshtaten menjëherë në mjedisin dhe jetën e përbashkët.

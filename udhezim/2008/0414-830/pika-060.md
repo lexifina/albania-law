@@ -1,0 +1,1 @@
+60. Kujdestari i fëmijës është i përfshirë në të gjitha fazat e procesit të ankimimit. Stafi i institucionit duhet të ketë informacion “pse” dhe “si” duhen zbatuar procedurat e ankimimit dhe fëmijët gjithashtu mund të ndihmohen që ta kuptojnë qëllimin dhe rëndësinë e ankimimit. Nuk ka përcaktime të prera për aneksin (aneksi 7).

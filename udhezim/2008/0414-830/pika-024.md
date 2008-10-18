@@ -1,0 +1,1 @@
+24. Plani i kujdesit rishikohet një herë në gjashtë muaj. Në planin e rishikuar të kujdesit vendosen të dhëna nëse fëmija dhe familja/të afërmit e tij janë njoftuar të marrin pjesë në mbledhjen e rishikimit.

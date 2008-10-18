@@ -1,0 +1,1 @@
+63. Incidentet dhe sjelljet fyese dhe sharëse nuk duhen toleruar asnjëherë, ngjarja duhet trajtuar me kujdes dhe fëmijët që fyhen dhe shahen duhen mbështetur nga stafi, i cili është i ndërgjegjësuar për këto sjellje dhe ka aftësi për trajtimin e tyre dhe gjetjen e zgjidhjeve.

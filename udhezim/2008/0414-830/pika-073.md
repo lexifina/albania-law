@@ -1,0 +1,1 @@
+73. Institucioni duhet të ketë një dhomë të veçantë për mjekimet ku nuk hyjnë fëmijët. Kjo dhomë është e mbyllur dhe çelësi i saj, mbahet në një vend të sigurt, që nuk arrihet nga fëmijët. Dhoma e caktuar për mjekimet duhet të jetë e pajisur me një listë për kontrollin e barnave dhe mjeteve. Drejtori cakton një punonjës (infermier) për mbajtjen e inventarit.

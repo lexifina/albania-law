@@ -1,0 +1,1 @@
+54. Argëtimi i fëmijëve në kohën e lirë, organizimi i veprimtarive të ndryshme social- kulturore kontribuojnë në zhvillimin e përgjithshëm të fëmijës. Interesat dhe talentet e veçanta të fëmijëve të veçantë duhet të trajtohen brenda planit të kujdesit.

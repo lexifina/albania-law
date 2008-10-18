@@ -1,0 +1,1 @@
+74. Pjesa e brendshme dhe e jashtme e dhomave duhet të mirëmbahet apo dhe të zbukurohet sipas një programi për mirëmbajtjen dhe riparimin duke bërë dallime mes hapësirës private të fëmijëve dhe hapësirës kolektive.

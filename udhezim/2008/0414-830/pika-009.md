@@ -1,0 +1,1 @@
+9. Për çdo fëmijë hartohet plani i përkujdesit, i cili përfshin të gjitha objektivat dhe masat që duhet të merren për plotësimin e nevojave të fëmijëve, duke marrë në konsideratë moshën, gjininë, situatën sociale të origjinës, bindjet fetare, racën etj. Plani i përkujdesit përfshin një vlerësim të fëmijës dhe të familjes/institucionit ku ka jetuar më parë fëmija.

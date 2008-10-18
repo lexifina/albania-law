@@ -1,0 +1,1 @@
+4. “Udhëzuesi për fëmijët” përshkruan qartë mënyrën e organizimit të institucionit, shërbimet që ofrohen, rregullat dhe procedurat e jetesës në institucion, informacion për stafin dhe fëmijët, detyrimet dhe të drejtat e tyre etj.

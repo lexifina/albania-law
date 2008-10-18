@@ -1,0 +1,1 @@
+58. Fëmijët që vendosen në institucionet e përkujdesit rezidencial, familjet apo të afërmit e tyre, mund të ankohen për çështje për të cilat ata nuk janë të kënaqur dhe që mendojnë se janë të padrejta, të pasigurta dhe të pavend.

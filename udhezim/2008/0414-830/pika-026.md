@@ -1,0 +1,1 @@
+26. Fëmijët e vendosur në institucione të kujdesit rezidencial duhet të kenë një plan të plotë mbështetjeje për të përgatitur largimin nga kujdesi rezidencial, për jetesë të pavarur, drejt birësimit, familjes biologjike apo kujdestare, institucionit rezidencial sipas grupmoshës apo formave të tjera të përkujdesit.

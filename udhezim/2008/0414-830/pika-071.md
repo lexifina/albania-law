@@ -1,0 +1,1 @@
+71. Në përputhje me deklaratën e qëllimit, institucioni rezidencial për fëmijët duhet të jetë i zbukuruar, i mobiluar dhe i pajisur me qëllim krijimin e një mjedisi të ngrohtë, të këndshëm, familjar për fëmijët që jetojnë aty, duke i kushtuar rëndësi imazhit pozitiv dhe larmishmërisë që lidhet me gjininë, etninë, kulturën, aftësinë e kufizuar dhe seksualitetin.

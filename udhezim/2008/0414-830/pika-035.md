@@ -1,0 +1,1 @@
+35. Vaktet e ushqimit ofrohen në orë të caktuara në përputhje me regjimin e nevojshëm ditor të fëmijëve. Për fëmijët që e kalojnë një vakt buke, ushqimi duhet të jetë menjëherë i disponueshëm. Ndërmjet vakteve të ngrënies, fëmijëve u ofrohen ushqime të lehta, si lëngje frutash, fruta etj., të cilat mund të konsumohen edhe në ambientet e tjera të shtëpisë.

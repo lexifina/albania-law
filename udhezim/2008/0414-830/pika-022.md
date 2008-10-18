@@ -1,0 +1,1 @@
+22. Kujdestari i caktuar për fëmijën është përgjegjës për procesin dhe duhet të jetë në gjendje të flasë me kompetencë dhe saktësi për fëmijën, duke treguar se e kupton situatën e fëmijës dhe të familjes.

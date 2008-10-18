@@ -1,0 +1,1 @@
+42. Shtëpia mban dokumentacion me shkrim për të gjitha mjekimet, trajtimet dhe ndihmën e parë që kanë marrë fëmijët gjatë qëndrimit në institucion. Kur në qendër ofrohen shërbime në lidhje me shëndetin e fëmijëve, këto duhen bërë vetëm me autorizimin me shkrim të mjekut përgjegjës që ndjek qendrën.

@@ -1,0 +1,1 @@
+17. Plani i kujdesit hartohet pas vlerësimit të nevojave dhe përfshin masat afatgjata për të ardhmen e fëmijës. Plani i kujdesit duhet të plotësohet brenda dy muajve pas vendosjes së fëmijës në institucion.

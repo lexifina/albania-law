@@ -1,0 +1,1 @@
+77. Dhomat ku fle stafi, duhet të jenë pranë dhomave të gjumit të fëmijëve, me qëllim që stafi të jetë në gjendje t’u përgjigjet nevojave që mund të kenë ata gjatë natës. Stafi asnjëherë nuk duhet të flerë në të njëjtën dhomë me fëmijët.

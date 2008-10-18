@@ -1,0 +1,1 @@
+19. Plani i kujdesit është i ndarë në 2 pjesë: i) pjesa e parë përcakton planin e përgjithshëm të institucionit për fëmijët (shih aneksin 3); dhe ii) pjesa e dytë detajohet sipas nevojave të fëmijës që duhet të plotësohen gjatë periudhës që ai është në institucion.

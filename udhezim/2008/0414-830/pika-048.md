@@ -1,0 +1,1 @@
+48. Për fëmijët 0-6 vjeç, PPAFH përfshin objektivat e të mësuarit në fëmijërinë e hershme si zhvillimi personal, emocional, shoqëror, komunikimi, gjuha, shkrimi, zhvillimi krijues etj. Në rastet kur fëmija ndjek arsimin parashkollor në çerdhe/kopsht, PPAFH përfshin edhe mbarëvajtjen e fëmijës në këto institucione (shih aneksin 5).

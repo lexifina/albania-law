@@ -1,0 +1,1 @@
+69. Çdo fëmijë në përputhje me moshën duhet të mbështetet për të kuptuar dhe menaxhuar disa rreziqe në përputhje me moshën, si duhanpirja, marrëdhëniet ndërpersonale dhe seksuale, qëndrimi në mbrëmje vonë jashtë institucionit, përdorimi i të ardhurave personale etj.

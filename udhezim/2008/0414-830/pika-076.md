@@ -1,0 +1,1 @@
+76. Ambientet që përdoren për lexim, studim duhet të jenë të bollshme, me tavolina dhe vende të mjaftueshme për t’u ulur, me ndriçimin e duhur dhe temperaturë të përshtatshme sipas stinës. Institucioni duhet të ofrojë hapësirë dhe komoditet të mjaftueshëm që fëmijët të takohen privatisht me vizitorët.

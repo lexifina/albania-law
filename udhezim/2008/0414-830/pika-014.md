@@ -1,0 +1,1 @@
+14. Vlerësimi i nevojave përfshin fushat: nevojat sociale, shëndetësore, nevojat për arsimim, realizimin dhe mbajtjen e lidhjeve me familjen, miqtë dhe persona të tjerë të rëndësishëm, si dhe fusha të tjera sipas grupmoshës dhe nevojave individuale të fëmijës.

@@ -1,0 +1,1 @@
+44. Fëmijëve me nevoja të veçanta shëndetësore ose me aftësi të kufizuara të lehta duhet t’u sigurohet mbështetja e duhur që të përballen me ndryshimin e tyre në një mënyrë sa më pozitive të mundshme. Nga fëmijët dhe stafi të krijohet një mjedis pozitiv nxitës, mbështetës, pa fyerje e ofendime.

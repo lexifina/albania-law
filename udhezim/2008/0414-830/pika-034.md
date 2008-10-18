@@ -1,0 +1,1 @@
+34. Menyja duhet të jetë e ushqyeshme, e shëndetshme, e larmishme dhe e mjaftueshme në sasi. Gjatë hartimit të menysë të mbahen parasysh nevojat për ushqim në përputhje me grupmoshën dhe nevojat e veçanta të fëmijëve. Stafi duhet të ketë njohuri për nevojat ushqimore, teknikat e ushqyerjes së fëmijëve dhe çrregullimet e të ngrënit te fëmijët e vegjël dhe adoleshentët.

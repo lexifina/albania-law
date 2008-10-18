@@ -1,0 +1,1 @@
+10. Nevojat e fëmijës vlerësohen nga një ekip multidisiplinar, ku profesionistët dhe ofruesit e tjerë të shërbimeve, punojnë së bashku për të vlerësuar nevojat në plane të ndryshme, me qëllim maksimizimin e mundësive të fëmijës për të arritur potencialin e tij.
