@@ -1,0 +1,1 @@
+1. Subjektet e shpronësuara, prona e të cilave është e njohur e gjitha për kompensim, dhe që nuk kanë përfituar nga kompensimet e mëparshme, kompensohen, sipas radhës kronologjike, të përcaktuar nga numri i vendimit dhe data e tij, sipas viteve.

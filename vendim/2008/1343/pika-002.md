@@ -1,0 +1,1 @@
+2. Kompensimi të bëhet vetëm për deri 200 (dyqind) m2 të sipërfaqes së caktuar për kompensim, në bazë të çmimit të përcaktuar në hartën e vlerës së miratuar, sipas vendndodhjes së pronës, që kompensohet.
