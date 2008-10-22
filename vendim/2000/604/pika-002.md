@@ -1,1 +1,0 @@
-2. Drejtoria e Cilësisë dhe Inspektimit të Ushqimeve, në Ministrinë e Bujqësisë, bën miratimin dhe kontrollin e etiketës dhe të formës së etiketimit të produkteve ushqimore, që prodhohen dhe tregtohen në vend, në përputhje me kërkesat e rregullores “Për etiketimin e produkteve ushqimore”.
