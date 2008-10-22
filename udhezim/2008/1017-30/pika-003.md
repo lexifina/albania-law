@@ -1,0 +1,1 @@
+3. Me vjeljen e kësaj tarife shërbimi ngarkohet Drejtoria e Përgjithshme e Doganave, nëpërmjet degëve të saj doganore. Personat, në momentin e hyrjes në territorin e Republikës së Shqipërisë me automjete me targë të huaj, pajisen nga degët e doganave me një vërtetim hyrjeje, sipas formularit nr.1 bashkëngjitur këtij udhëzimi.

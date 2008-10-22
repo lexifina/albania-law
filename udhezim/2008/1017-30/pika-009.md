@@ -1,0 +1,1 @@
+9. Për rastet kur masa e tarifës përcaktohet mbi bazë reciprociteti, Ministria e Punëve Publike, Transportit dhe Telekomunikacionit dërgon zyrtarisht në Drejtorinë e Përgjithshme të Doganave tarifat ose taksat që aplikohen nga shtetet e tjera për automjetet shqiptare për të njëjtin lloj shërbimi.

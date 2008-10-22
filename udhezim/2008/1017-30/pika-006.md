@@ -1,0 +1,1 @@
+6. Shumat e tarifave të arkëtuara në degët e doganave regjistrohen në një regjistër të veçantë sipas formularit nr.2 bashkëngjitur këtij udhëzimi, ku shënohet lloji i mjetit, ditët e qëndrimit, si dhe shuma e tarifës së paguar.
