@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123829,
+  "title": "PËR PËRGJEGJËSINË JASHTËKONTRAKTORE TË ORGANEVE TË DMINISTRATËS SHTETËRORE",
+  "type": "Ligj",
+  "number": "8510",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-07-15",
+  "version_no": 1,
+  "qbz_version_id": 10832,
+  "in_force": "2008-10-23",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2008-10-23",
+  "changed_by_qbz_id": 7381,
+  "changed_by_number": "10005",
+  "changed_by_title": "PËR NJË SHTESË NË LIGJIN NR.8510, DATË 15.7.1999 “PËR PËRGJEGJËSINË JASHTËKONTRAKTORE TË ORGANEVE TË ADMINISTRATËS SHTETËRORE",
+  "source": "https://qbz.gov.al/files/6d32dd67e6bfedacd3ca1aba5c26e0a6d9fea134f78f7ca0b50439469f818e5e.docx",
+  "source_sha256": "6d32dd67e6bfedacd3ca1aba5c26e0a6d9fea134f78f7ca0b50439469f818e5e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123829",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123829/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
