@@ -1,0 +1,2 @@
+5. Procedurat administrative dhe të evidentimit që ndjek administrata doganore
+Administrata doganore, nëpërmjet degëve doganore, merr masa për evidentimin dhe sistemimin e detyrimeve doganore që mbulohen nga ligji nr.9986, datë 11.9.2008. Drejtori i Përgjithshëm i Doganave nxjerr udhëzimet/rregulloret mbi mënyrën e administrimit, evidentimit, heqjes dhe kalimit në llogarinë “detyrim i keq” të të gjitha detyrimeve doganore me komponentët e tij/borxheve tatimore e të kontributeve, objekt i ligjit nr.9986, datë 11.9.2008.
