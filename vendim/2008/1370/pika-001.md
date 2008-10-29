@@ -1,0 +1,1 @@
+1. Hapjen, në universitetin “Luigj Gurakuqi”, Shkodër, në Fakultetin Ekonomik, të programit të studimit të ciklit të dytë “Menaxhim i turizmit të qëndrueshëm”, në përfundim të të cilit lëshohet diplomë e nivelit të dytë, DND, në menaxhim i turizmit të qëndrueshëm.
