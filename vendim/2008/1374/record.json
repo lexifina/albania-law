@@ -1,0 +1,29 @@
+{
+  "qbz_id": 61697,
+  "title": "Për përcaktimin e rregullave dhe të procedurave, që ndiqen për heqjen, shtimin dhe ndryshimin e destinacionit të fondit kullosor",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1374",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-10-10",
+  "published": "2008-10-29",
+  "in_force": "2008-10-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/0ca097778f228e5058e0f6f35c1071071de91b742831f8ea7b37c20810ba347f.docx",
+  "source_sha256": "0ca097778f228e5058e0f6f35c1071071de91b742831f8ea7b37c20810ba347f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61697",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/10/10/1374",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62859,
+    60965
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
