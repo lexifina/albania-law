@@ -1,0 +1,1 @@
+1. Hapjen, në Universitetin e Tiranës, në Fakultetin e Shkencave Sociale, të programit të studimit, master i nivelit të parë në mësuesi, për arsimin e mesëm, në lëndët shkenca sociale, në përfundim të të cilit lëshohet diplomë master i nivelit të parë, MNP, në mësuesi, për arsimin e mesëm, në lëndët shkenca-sociale.
