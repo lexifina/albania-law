@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, brenda afatit të përcaktuar në pikën 6 të këtij vendimi, pas verifikimeve përkatëse dhe konfirmimit nga zyra e regjistrimit të pasurive të paluajtshme.
