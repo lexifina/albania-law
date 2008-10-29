@@ -1,0 +1,1 @@
+3. Pas përfundimit të afatit kohor, të përcaktuar në ligj, për kryerjen e veprimeve të çregjistrimit të mjeteve, që nuk janë në qarkullim, DPSHTRR-ja heq nga regjistri aktiv dhe mban në regjistrin pasiv të gjitha mjetet, të cilave nuk u janë kryer kontrollet teknike të detyrueshme në dy vitet e fundit, duke njoftuar dhe pronarët e këtyre mjeteve.

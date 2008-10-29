@@ -1,0 +1,1 @@
+5. Pronarët e mjeteve, që janë në qarkullim, debitorë për taksën vjetore të qarkullimit rrugor dhe të taksës së regjistrimit të përvitshëm, të cilët kryejnë veprimet përkatëse të pagesës së detyrimeve, në të gjithë komponentët e tij, të vitit 2008, brenda afatit kohor të përcaktuar në ligj, nuk do të paguajnë taksat e prapambetura.
