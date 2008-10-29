@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “BOT” (ndërtim, operim dhe transferim), ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoriteti kontraktues, dhe shoqërisë “Atlas” sh.a., për ndërtimin e hidrocentraleve “Holta Kabash” dhe “Holta Poroçan”, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
