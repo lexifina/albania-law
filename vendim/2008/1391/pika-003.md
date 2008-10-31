@@ -1,0 +1,1 @@
+3. Pronari, që shpronësohet, Fejzulla Musli Saraçi, të kompensohet në vlerën plotë, për objektin, me numër pasurie 3/111, në zonën kadastrale 2963, me vlerë 3 030 097 (tre milionë e tridhjetë mijë e nëntëdhjetë e shtatë) lekë.
