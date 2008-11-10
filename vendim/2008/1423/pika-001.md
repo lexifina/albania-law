@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Vau i Dejës të qarkut të Shkodrës, që transferohen, në pronësi ose në përdorim, të kësaj bashkie, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 128 (njëqind e njëzet e tetë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 924 (nëntëqind e njëzet e katër).
