@@ -1,0 +1,1 @@
+4. Shtetasi duhet të pajiset me dokumentin që vërteton pagimin e kësaj tarife. Të gjitha pagesat e tarifës do të regjistrohen në një regjistër të veçantë sipas shtojcës nr.1, bashkëngjitur këtij udhëzimi dhe që është pjesë përbërëse e tij.
