@@ -1,0 +1,5 @@
+3. Degët e tatimeve, brenda 45 ditëve nga data e paraqitjes së kërkesës nga ana e personit juridik që kërkon rimbursimin, kryejnë rimbursimin për një periudhë 3-mujore të akcizës së lëndës djegëse të përdorur, pasi personi të paraqesë pranë tyre:
+a) kartën teknologjike, me të dhënat e kërkuara sipas pikës 2 të vendimit të Këshillit të Ministrave;
+b) konfirmimin (certifikimin) e këtyre të dhënave, sipas pikës 3 të vendimit të Këshillit të Ministrave;
+c) faturat tatimore të shitjes së produktit të gatshëm (final) me TVSH.
+Mbas verifikimit dhe konfirmimit të rregullsisë së dokumentacionit të kërkuar sa më sipër, inspektori/ët i/e tatimeve kryejnë llogaritjet për rimbursimin e akcizës, bazuar në shtojcën 1: “Tabela referuese e normativave të harxhimit të lëndës djegëse”, bashkëlidhur vendimit të Këshillit të Ministrave, si dhe në shtojcën 1: “Mallrat e tatueshme me akcizë në Republikën e Shqipërisë”, bashkëlidhur ligjit nr.8976, datë 12.12.2002 “Për akcizat në Republikën e Shqipërisë”, të ndryshuar.
