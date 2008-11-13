@@ -1,0 +1,1 @@
+30. Të gjitha materialet dhe dokumentet e nevojshme për vlerësimin e çështjes u shpërndahen anëtarëve të komisionit të paktën 5 ditë pune përpara datës së mbledhjes. Në raste të veçanta, gjatë mbledhjes mund të shpërndahen materiale shtesë.

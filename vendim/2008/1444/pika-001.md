@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i rregullave për funksionimin e komisionit të mbrojtjes së konsumatorit (më poshtë komisioni), si dhe përcaktimi i procedurave për vlerësimin e shkeljeve të ligjit nr.9902, datë 17.4.2008 “Për mbrojtjen e konsumatorëve”, dhe të akteve nënligjore, dalë në zbatim të tij.

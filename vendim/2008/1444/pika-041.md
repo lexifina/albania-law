@@ -1,0 +1,1 @@
+41. Anëtarëve të komisionit dhe sekretariatit teknik u kërkohet të ruajnë konfidencialitetin dhe sekretin e të gjitha materialeve e të korrespondencës, për një periudhë 5-vjeçare, nga çasti që janë njohur me ato materiale.

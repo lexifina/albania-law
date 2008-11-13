@@ -1,0 +1,1 @@
+40. Vendimi për përjashtimin ose jo të një anëtari të komisionit ose të kryetarit të komisionit nga diskutimi a procesi i votimit, për shkak të konfliktit të interesit, merret brenda 5 ditëve pune, nga data kur është bërë kërkesa për përjashtim.

@@ -1,0 +1,1 @@
+7. Komisioni mund t’i kërkojë strukturës përgjegjëse të mbikëqyrjes së tregut verifikimin e shkeljes në treg ose ndonjë informacion tjetër, të nevojshëm për vlerësimin e çështjes dhe marrjen e vendimit.

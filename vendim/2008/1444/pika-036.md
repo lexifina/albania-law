@@ -1,0 +1,1 @@
+36. Kur një anëtar i komisionit ka ose vlerëson se mund të ketë konflikt interesi, referuar ligjit nr.9367, datë 7.4.2005 “Për parandalimin e konfliktit të interesave gjatë ushtrimit të funksioneve publike”, për një çështje ose një pikë diskutimi, ai/ajo duhet ta vërë në dijeni menjëherë kryetarin.

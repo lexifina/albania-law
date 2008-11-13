@@ -1,0 +1,1 @@
+29. Rendi i ditës përgatitet nga sekretariati teknik dhe i dërgohet për shqyrtim komisionit 8 ditë pune përpara datës së mbledhjes. Komisioni ka të drejtë që, brenda 3 ditëve pune, të vendosë për rendin e ditës së mbledhjes.
