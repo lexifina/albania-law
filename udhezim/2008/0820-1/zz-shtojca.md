@@ -84,7 +84,7 @@ Lushnjë
 27 555
 18
 Burrel
-35 539
+33 539
 27 744
 19
 Përrenjas
@@ -152,7 +152,7 @@ Kostoja mesatare e shitjes lek/m2 sip.shfrytëzimi në tregun e lirë
 Tiranë
 81 875
 2
-Vlorë
+Vora
 45 000
 3
 Kamëz
