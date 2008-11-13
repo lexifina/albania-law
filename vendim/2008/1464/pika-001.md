@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rrugëve të përfundojë procedurat e prokurimit, me mjete elektronike, deri më 31.12.2008, për fondet buxhetore për investime, përfshirë edhe lidhjen e kontratave sipas listës, që i bashkëlidhet këtij vendimi.
