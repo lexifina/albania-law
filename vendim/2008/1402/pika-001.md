@@ -1,0 +1,1 @@
+1. Shitja e paketës së aksioneve të AMC sh.a., zotëruar nga shteti shqiptar, e barabartë me 12.5792% të kapitalit të kësaj shoqërie, do të kryhet nëpërmjet ankandit publik, përmes procedurës me përzgjedhje të blerësve, në përputhje me dispozitat e ligjit nr.9874, datë 14.2.2008 “Për ankandin publik”.

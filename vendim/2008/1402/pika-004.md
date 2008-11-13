@@ -1,0 +1,1 @@
+4. Dokumentet e ankandit publik do të përgatiten nga njësia e ankandit, ngritur sipas pikës 2 të këtij vendimi, dhe do të miratohen me urdhër të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, në përputhje me modelet e përcaktuara në shtojcat, që i bashkëlidhen këtij vendimi.

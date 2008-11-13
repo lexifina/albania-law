@@ -1,0 +1,5 @@
+2. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në përputhje me dispozitat e ligjit nr.9874, datë 14.2.2008 “Për ankandin publik” të krijojë, brenda strukturës së vet, njësinë ad-hoc të ankandit, e cila do të ketë detyrat e përgjegjësitë e mëposhtme:
+i) Përgatitjen e dokumenteve të ankandit dhe paraqitjen e tyre për miratim te Ministri i Ekonomisë, Tregtisë dhe Energjetikës;
+ii) Përcaktimin e kritereve të vlerësimit për shitjen e paketës së aksioneve, të barabartë me 12.5792% të kapitalit të AMC sh.a.;
+iii) Caktimin e çmimit të shitjes për paketën e aksioneve, të përcaktuara në nënndarjen (ii) të kësaj pike, bazuar në vlerën aktuale monetare (VAM), në çmimet e tregut, të dhënat e INSTAT-it apo të organeve të tjera shtetërore, si dhe në përcaktimet e konsulentit ndërkombëtar, të ngarkuara nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës sipas vendimit nr.410, datë 11.7.2007 të Këshillit të Ministrave;
+iv) Raportimi pranë Agjencisë së Prokurimit Publik për zhvillimin e ankandit, sipas shtojcës nr.6, që i bashkëlidhet këtij vendimi.
