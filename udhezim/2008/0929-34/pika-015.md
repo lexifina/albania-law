@@ -1,0 +1,1 @@
+15. Të merren masat organizative deri në datën 25 nëntor 2008, për planifikimin dhe realizimin e praktikave (kontrata me institucione dhe ndërmarrje shtetërore apo private etj.) dhe të dërgohet në MASH, një relacion analitik rreth dinamikës së tyre, brenda datës 1.12.2008.

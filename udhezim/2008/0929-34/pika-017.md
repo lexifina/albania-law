@@ -1,0 +1,1 @@
+17. Të dhënat e regjistrave të strukturave të organizuara, sipas pikës 5 të urdhrit të Ministrit të Arsimit dhe Shkencës nr.150, datë 7.4.2008 “Për përcaktimin e kodit të regjistrave të studentëve në institucionet e arsimit të lartë”, të dërgohen në MASH në formë elektronike në programin EXCEL, brenda datës 15 dhjetor 2008.

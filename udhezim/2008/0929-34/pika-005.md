@@ -1,0 +1,1 @@
+5. Brenda datës 10 nëntor 2008, institucionet publike të arsimit të lartë të njohin studentët me pjesët e statutit që përcaktojnë treguesit e programeve të studimit, rregulloren mësimore të institucionit dhe rregulloren e programit të studimit në të cilin ata janë regjistruar.

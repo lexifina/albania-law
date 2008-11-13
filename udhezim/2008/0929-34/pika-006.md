@@ -1,0 +1,1 @@
+6. Raportet e kohëzgjatjes së veprimtarive të ndryshme mësimore, gjatë vitit akademik 2008-2009, të përcaktohen nga institucionet publike të arsimit të lartë, në funksion të natyrës së programit të studimit dhe të afishohen në mjedise të dukshme.

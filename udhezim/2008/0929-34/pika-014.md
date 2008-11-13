@@ -1,0 +1,1 @@
+14. Miratimi i programimit të kohës vjetore të punës për secilin anëtar të personelit akademik, si edhe nënshkrimi i marrëveshjes vjetore ndërmjet përgjegjësit të njësisë bazë dhe anëtarit të personelit akademik të përfundojë deri në datën 25 nëntor 2008.

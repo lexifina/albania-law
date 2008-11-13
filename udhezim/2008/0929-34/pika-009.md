@@ -1,0 +1,1 @@
+9. Miratimi dhe shpërndarja e mësimdhënies së normuar vjetore për personelin akademik me kohë të plotë dhe atë të ftuar, në programet e studimit me kohë të plotë, për vitin akademik 2008-2009, në përputhje me udhëzimin nr.20, datë 9.5.2008 “Për veprimtarinë e personelit akademik në institucionet publike të arsimit të lartë ” të përfundojë deri në datën 10 tetor 2008.

@@ -1,0 +1,1 @@
+16. Nga institucionet publike të arsimit të lartë të merren masat për zbatimin e udhëzimit nr.19, datë 18.7.2007 “Për gjenerimin dhe dhënien e numrave të matrikullimit” dhe deri më datën 25 nëntor 2008 të gjithë studentët e vitit të parë të pajisen me numrat e matrikullimit.

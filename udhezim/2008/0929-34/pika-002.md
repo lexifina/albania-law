@@ -1,0 +1,1 @@
+2. Viti akademik 2008-2009 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të dytë, diploma të nivelit të dytë, dhe në programet e studimit “master i nivelit të parë” me kohë të plotë, të fillojë në datën 20 tetor 2008 e të përfundojë në datën 30 shtator 2009.

@@ -1,0 +1,1 @@
+4. Viti akademik në institucionet publike të arsimit të lartë, në programet e studimit me kohë të pjesshme dhe në distancë të fillojë në datën 10 nëntor 2008 dhe të përfundojë në datën 30 shtator 2009.

@@ -1,0 +1,1 @@
+1. Viti akademik 2008-2009 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të parë dhe programet e integruara të ciklit të dytë, me kohë të plotë, të fillojë më 13 tetor 2008 dhe të përfundojë më 30 shtator 2009.
