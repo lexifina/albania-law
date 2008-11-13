@@ -1,0 +1,1 @@
+17. Në kryerjen e procedurës së regjistrimit të kandidatëve fitues, sekretaritë e institucioneve publike të arsimit të lartë regjistrojnë studentët në regjistrin bazë të studentëve, në bazë të udhëzimit të Ministrisë së Arsimit dhe Shkencës nr.19, datë 18.7.2007 “Për gjenerimin dhe dhënien e numrave të matrikullimit”.

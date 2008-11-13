@@ -1,0 +1,1 @@
+1. Të regjistrohen në institucionet publike të arsimit të lartë, në ciklin e parë të studimeve, sipas programeve përkatëse të studimit, kandidatët që shpallen fitues nga kuotat e parealizuara pas përfundimit të regjistrimeve në programet e studimit të ciklit të parë.
