@@ -1,0 +1,2 @@
+1. Lejimin e bashkive të Hasit e të Peshkopisë dhe të komunës së Kolshit, Lezhë, të përfundojnë, brenda datës 30 nëntor 2008, procedurat e prokurimit, për ndërtimin e tregjeve agroushqimore, me fondet e parashikuara në buxhetin e vitit 2008, miratuar për Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, sipas aneksit 1, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati të përfshihen lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
