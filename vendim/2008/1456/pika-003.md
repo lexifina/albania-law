@@ -1,0 +1,1 @@
+3. Procedurat e prokurimit, për Drejtorinë e Shërbimeve Qeveritare, për blerje makinerie “Zetor”, për pastrimin e rërës në zonën e vilave qeveritare, Durrës, për vitin 2008, sipas aneksit nr.2, që i bashkëlidhet këtij vendimi, të përfundojë brenda datës 25.11.2008.
