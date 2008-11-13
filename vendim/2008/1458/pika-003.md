@@ -1,0 +1,1 @@
+3. Procedurat e prokurimit për mallra, shërbime, për njësitë e zhvillimit të prokurimeve të përqendruara, me fondet e parashikuara në Buxhetin e Shtetit, për vitin 2008, sipas aneksit nr.4, që i bashkëlidhet këtij vendimi, të përfundojë brenda datës 30 nëntor 2008.

@@ -1,0 +1,1 @@
+2. Procedurat e prokurimit për mallra, për vitin 2008, për Drejtorinë e Përgjithshme të Rezervave Materiale të Shtetit, sipas aneksit nr.3, që i bashkëlidhet këtij vendimi, të përfundojnë brenda datës 31 dhjetor 2008.
