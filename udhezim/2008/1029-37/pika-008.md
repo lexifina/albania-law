@@ -1,0 +1,1 @@
+8. Nga rregulli i parashikuar në pikën 7 bëhet përjashtim për studentët që transferohen brenda programeve të të njëjtit cikël, nga studimi me kohë të plotë në studimin me kohë të pjesshme. Për shkak të natyrës së studimeve me kohë të plotë, studenti mund të kalojë në formën e studimit me kohë të pjesshme, pa pasur kreditet e mësipërme.

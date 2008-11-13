@@ -1,0 +1,1 @@
+2. Transferimi mund të realizohet midis institucioneve të arsimit të lartë, të cilat janë krijuar sipas kuadrit ligjor “Për arsimin e lartë në Republikën e Shqipërisë” dhe të njohura si të tilla me vendimin nominativ të Këshillit të Ministrave, si dhe nga institucionet e huaja të arsimit të lartë drejt institucioneve publike të arsimit të lartë në Republikën e Shqipërisë.

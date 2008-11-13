@@ -1,0 +1,1 @@
+9. Studentëve që transferohen nga programet e mëparshme të studimit në një program studimi të ciklit të parë, duhet t’u vlerësohen programet e bëra dhe rezultatet e marra të jenë të barasvlershme me jo më pak se 30 kredite në programin ekzistues të institucionit publik pritës të arsimit të lartë.

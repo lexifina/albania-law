@@ -1,0 +1,1 @@
+7. Studentët që transferojnë studimet midis programeve të ciklit të parë, kërkohet që të kenë marrë të paktën 30 kredite në disiplina që përfshihen në “disiplina të formimit të përgjithshëm” dhe në “disiplina të formimit karakterizues”, në programet që ata kanë studiuar.
