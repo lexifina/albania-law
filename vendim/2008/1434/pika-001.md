@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i Qendrës së re Kombëtare Dispeçer, i zyrave të reja të Operatorit të Sistemit të Transmetimit (OST) sh.a., Tiranë dhe Dispeçerisë Qendrore, në Kashar, sipas tabelës, që i bashkëlidhet këtij vendimi.
