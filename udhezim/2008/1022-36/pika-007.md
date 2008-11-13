@@ -1,0 +1,1 @@
+7. Komisionet ad-hoc për përzgjedhjen e kandidatëve fitues, përcaktojnë mbi bazën e dokumentacionit të paraqitur njohjen e plotë ose të pjesshme të krediteve të fituara për të gjithë ata kandidatë që vijnë nga programe studimi të ngjashme, të ciklit të parë.

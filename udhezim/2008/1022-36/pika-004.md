@@ -1,0 +1,1 @@
+4. Institucionet publike të arsimit të lartë të shpallin menjëherë hapjen e procedurës së pranimit të kërkesave për kandidatët që dëshirojnë të vazhdojnë programet e studimit të ciklit të dytë dhe master i nivelit të parë, me kohë të plotë.

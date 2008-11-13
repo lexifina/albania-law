@@ -1,0 +1,1 @@
+10. Pas mbylljes së procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në Ministrinë e Arsimit dhe Shkencës listat përfundimtare origjinale me regjistrimet e kryera brenda datës 30.11.2008, në bazë të udhëzimit nr.19, datë 18.7.2007 “Për gjenerimin dhe dhënien e numrave të matrikullimit”.

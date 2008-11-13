@@ -1,0 +1,1 @@
+1. Pranimin e kandidatëve në programet e studimit të ciklit të dytë dhe master i nivelit të parë, me kohë të plotë në institucionet publike të arsimit të lartë, në vitin akademik 2008-2009, në bazë të përzgjedhjes së bërë nga institucionet publike të arsimit të lartë.

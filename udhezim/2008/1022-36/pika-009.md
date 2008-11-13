@@ -1,0 +1,1 @@
+9. Regjistrimi i kandidatëve në programet e studimit ku janë shpallur fitues të zhvillohet nga data 29.10.2008 deri në datën 31.10.2008, prej orës 8.00 deri në orën 18.00 pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë. Dokumentet e aplikantëve jofitues t’u kthehen personave kundrejt kërkesës.
