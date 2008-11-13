@@ -1,0 +1,1 @@
+1. Miratimin e raportit të vlerësimit të ofertave, për privatizimin e 76 për qind të aksioneve të shoqërisë anonime “Operatori i Sistemit të Shpërndarjes”, të përgatitur nga komisioni i vlerësimit të ofertave.

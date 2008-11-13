@@ -1,0 +1,1 @@
+2. Shpalljen fitues të tenderit për privatizimin e shoqërisë anonime “Operatori i Sistemit të Shpërndarjes” shoqërinë çeke CEZ, a.s. si ofertuesi i preferuar, në bazë të çmimit të ofruar për blerjen e 76 për qind të aksioneve.
