@@ -1,0 +1,1 @@
+1. Përcaktimin e standardeve të harmonizuara shqiptare, që kanë karakter referues, për prezumimin e konformitetit të pajisjeve elektrike, të projektuara për përdorim, brenda disa kufijve të tensionit, sipas listës, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
