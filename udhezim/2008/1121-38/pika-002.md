@@ -1,0 +1,1 @@
+2. Tarifat për pajisjen me pasaportë për dalje jashtë shtetit, vilen nga Ministria e Brendshme apo drejtoritë/degët në varësi të tyre, sipas përcaktimit të bërë në ligjin nr.9975, datë 28.7.2008 “Për taksat kombëtare”.

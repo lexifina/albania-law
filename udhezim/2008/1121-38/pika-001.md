@@ -1,0 +1,1 @@
+1. Tarifat për shërbimet konsullore të Ministrisë së Punëve të Jashtme apo ambasadave tona jashtë vendit vilen nga Ministria e Punëve të Jashtme dhe institucionet e tjera në varësi të tyre, sipas përcaktimeve të bëra në ligjin nr.9975, datë 28.7.2008 “Për taksat kombëtare”.

@@ -1,0 +1,1 @@
+4. Për shërbimet që kryhen nga përfaqësitë tona diplomatike në vende të tjera, në bazë të shtojcës nr.1, niveli i tarifës përcaktohet në euro dhe pagimi i tyre mund të bëhet në euro, dollarë ose në monedhen e vendit ku kryhet shërbimi, konvertuar me kursin përkatës ditor të këmbimit.
