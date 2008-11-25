@@ -1,0 +1,28 @@
+{
+  "qbz_id": 7402,
+  "title": "PËr miratimin e kodit tË funksionimit tË rrjetit (Kodit tË transmetimit tË energjisË elektrike)",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "123",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-10-24",
+  "published": "2008-11-10",
+  "in_force": "2008-11-25",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/6c69da247ca46d3d51aefc1194a30b9e705dd7271c1929b56b72324d531b7909.docx",
+  "source_sha256": "6c69da247ca46d3d51aefc1194a30b9e705dd7271c1929b56b72324d531b7909",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7402",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/10/24/123",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    17312
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
