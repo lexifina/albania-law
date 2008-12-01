@@ -1,0 +1,7 @@
+# Neni 10
+Mjetet financiare për hyrje dhe qëndrim
+1. I huaji, i cili kërkon të qëndrojë në Republikën e Shqipërisë, duhet të provojë se zotëron mjete financiare të mjaftueshme për hyrjen dhe qëndrimin në vend. Për këtë ai duhet të ketë:
+a) para shqiptare apo të huaja, që mund të shkëmbehen në një agjenci këmbimi në Republikën e Shqipërisë apo forma të tjera pagese, që pranohen në transaksionet tregtare në Republikën e Shqipërisë (çek, kartë krediti) ose dokumente, që i japin të drejtë të tërheqë para nga një institucion financiar në Republikën e Shqipërisë (kontratë llogarie bankare, librezë depozite), ose deklaratë garancie apo garanci pasurore, në formën e depozitës bankare, sipas përcaktimeve të bëra në pikën 2 të nenit 12 të këtij ligji, në masën e përcaktuar me udhëzim të përbashkët të Ministrisë së Punëve të Jashtme dhe Ministrisë së Brendshme; një ftesë të bërë nga një person fizik ose juridik, shqiptar apo i huaj, i cili banon në Republikën e Shqipërisë prej më shumë se një viti;
+b) biletën e udhëtimit ose faturën e rezervimit të vendqëndrimit;
+c) çdo provë tjetër të besueshme për këtë qëllim.
+2. Bëjnë përjashtim nga kushtet e paraqitura në pikën 1 të këtij neni të huajt, të cilët kërkojnë të hyjnë në Republikën e Shqipërisë për një periudhë të shkurtër kohe, për të vizituar anëtarët e familjes, shtetas shqiptarë apo të huaj, me qëndrim të rregullt në Republikën e Shqipërisë, ose që gëzojnë statusin e refugjatit, apo shtetas të huaj, që kërkojnë azil për kohën deri në dhënien e vendimit përfundimtar për këtë kërkesë.
