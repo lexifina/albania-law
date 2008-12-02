@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66989,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.781, DATË 14.11.2007 TË KËSHILLIT TË MINISTRAVE “PËR KARAKTERISTIKAT TEKNIKE E FUNKSIONALE TË PAJISJEVE FISKALE, SISTEMIT TË INTEGRUAR TË KOMPJUTERIZUAR PËR TRANSFERIMET PERIODIKE, AUTOMATIKE, TË DEKLARIMEVE FINANCIARE, SISTEMIT TË KOMUNIKIMIT, PËR PROCEDURËN E DOKUMENTACIONIT PËR MIRATIMIN E TYRE, DHE PËR KRITERET PËR PAJISJEN, ME AUTORIZIM, TË SHOQËRIVE, TË AUTORIZUARA PËR OFRIMIN  E PAJISJEVE FISKALE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1476",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-11-12",
+  "published": "2008-12-02",
+  "in_force": "2008-12-02",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/c62a58ee3b2eee096e5d3d68175731fc3e39d371322951e86101f2daaa57bf03.docx",
+  "source_sha256": "c62a58ee3b2eee096e5d3d68175731fc3e39d371322951e86101f2daaa57bf03",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66989",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/11/12/1476",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
