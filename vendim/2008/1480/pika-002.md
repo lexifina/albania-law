@@ -1,0 +1,1 @@
+2. Fondet për financimin e shtesës së kontratës të përballohen nga burimet e përcaktuara në marrëveshjen e kredisë, të nënshkruar ndërmjet Agjencisë Nacionale të Trafikut Ajror (ANTA) sh.a. BNP Paribas dhe Export-Import Bank e SHBA-së, më 29.6.2005, si dhe nga të ardhurat vjetore të ANTA sh.a.
