@@ -1,0 +1,1 @@
+1. Ngritjen pranë çdo DAR/ZA të komisionit të verifikimit dhe marrjes në dorëzim të pajisjeve të mobilierisë për arsimin bazë dhe të mesëm, mbi bazën e kontratës së lidhur nga MASH me shoqërinë kontraktuese.
