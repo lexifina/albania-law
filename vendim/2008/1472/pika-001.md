@@ -1,0 +1,1 @@
+1. Shtyrjen e afatit të përfundimit të procedurave të prokurimit, për vitin 2008, për Ministrinë e Drejtësisë dhe institucionet në varësi të saj, si autoritete kontraktore, nga data 31 tetor më 25 dhjetor 2008, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi.
