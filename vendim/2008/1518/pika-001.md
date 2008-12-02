@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i pikës së kalimit kufitar Qafë-Botë/Konispol, sipas listës dhe planrilevimit, që i bashkëlidhen këtij vendimi.

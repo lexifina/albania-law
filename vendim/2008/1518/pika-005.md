@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, 34 212 000 (tridhjetë e katër milionë e dyqind e dymbëdhjete mijë) lekë, të përballohet nga “Llogaria speciale”, e krijuar si transfertë kapitale, për t’u përdorur për shpronësimet.
