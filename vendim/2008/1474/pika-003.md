@@ -1,0 +1,1 @@
+3. Pika e hyrjes në territorin e Republikës së Shqipërisë të automjetit dhe të trupave, që do të kalojnë në datën 15 nëntor 2008, është pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes është pika e kalimit të kufirit Porti i Durrësit.
