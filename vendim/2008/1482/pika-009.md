@@ -1,0 +1,1 @@
+9. Në çdo program studimi, në ciklin e dytë të studimeve, me kohë të plotë, në vitin akademik 2008-2009, studentët e shkëlqyer nga cikli i parë dhe nga cikli i dytë, nuk e paguajnë tarifën e shkollimit, për vitin akademik pasardhës.
