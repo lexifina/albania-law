@@ -1,0 +1,1 @@
+4. Vendimi nr.778, datë 14.11.2007 i Këshillit të Ministrave “Për miratimin e lejes për ndërtimin dhe shfrytëzimin e linjës tregtare të interkonjeksionit, me rrymë të vazhduar, Seman (Shqipëri) - Foxhia (Itali)”, shfuqizohet.
