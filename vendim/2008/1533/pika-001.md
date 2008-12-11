@@ -1,0 +1,2 @@
+1.Miratimin e listës përfundimtare të pronave të paluajshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Peshkopi të qarkut të Dibrës, që transferohen, në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 181 (njëqind e tetëdhjetë e një) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 1445 (një mijë e katërqind e dyzet e pesë).
