@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve, z.Mexhit Muça dhe z.Gani Muça, të pasurive të paluajtshme, pronë private, tokë/arë, me nr.pasurie 155/1 dhe 155, sipas genplanit, që i bashkëlidhet këtij vendimi, që preken nga ndërtimi i pikës së kalimit kufitar Bllatë/Peshkopi.

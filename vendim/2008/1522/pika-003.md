@@ -1,0 +1,2 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, për sipërfaqen 1015 (një mijë e pesëmbëdhjetë) m2, tokë/arë, të vlerësuar me çmimin 673 lekë/m2, për zonën e Peshkopisë, përkatësisht: Mexhit Muça, për sipërfaqen 210 (dyqind e dhjetë) m2, me 141 330 (njëqind e dyzet e një mijë e treqind e tridhjetë) lekë;
+- Gani Muça, për sipërfaqen 805 (tetëqind e pesë) m2, me 541 765 (pesëqind e dyzet e një mijë e shtatëqind e gjashtëdhjetë e pesë) lekë.
