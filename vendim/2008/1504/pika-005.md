@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, 8 689 414 (tetë milionë e gjashtëqind e tetëdhjetë e nëntë mijë e katërqind e katërmbëdhjetë) lekë, të përballohet nga buxheti i vitit 2008, zëri “Shpronësime”, miratuar për Ministrinë e Punëve Publike, Transportit dhe Telekomunikacionit.
