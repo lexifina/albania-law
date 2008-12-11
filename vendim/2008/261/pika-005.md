@@ -1,1 +1,3 @@
-5. Fondi prej 376 000 000 (treqind e shtatëdhjetë e gjashtë milionë) lekësh, i llogaritur për 606 punonjësit që dalin të papunë nga ristrukturimi i “Armo” sh.a. dhe fondi prej 372 200 000 (treqind e shtatëdhjetë e dy milionë e dyqind mijë) lekësh, i llogaritur për 1 100 punonjësit, që dalin të papunë nga ristrukturimi i “Albpetrol” sh.a. të përballohen, përkatësisht, nga likuiditetet e këtyre shoqërive.
+5. Shoqëritë do të përballojnë, me likuiditetet e veta, fondet e llogaritura për pagesën e punonjësve, që dalin të papunë, si më poshtë vijon:
+a) 478 988 502 (katërqind e shtatëdhjetë e tetë milionë e nëntëqind e tetëdhjetë e tetë mijë e pesëqind e dy) lekë, për 606 punonjësit, që dalin pa punë nga ristrukturimi i “Armo” sh.a., Tiranë;
+b) 672 200 000 (gjashtëqind e shtatëdhjetë e dy milionë e dyqind mijë) lekë, për 1100 punonjësit, që dalin pa punë, nga ristrukturimi i “Albpetrol” sh.a., Patos”.
