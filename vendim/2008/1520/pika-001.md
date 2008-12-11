@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Shëndetësisë dhe disa institucioneve në varësi të saj t’i përfundojnë, deri në datën 22 dhjetor 2008, procedurat e prokurimit, për mallra, shërbime dhe ndërtime, me fondet e parashikuara në Buxhetin e Shtetit të vitit 2008, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati përfshihen edhe lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar, në Buletinin e Njoftimeve Publike.
