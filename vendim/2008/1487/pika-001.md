@@ -1,0 +1,2 @@
+1. Lejimin e Inspektoratit Ndërtimor Urbanistik Kombëtar të përfundojë, deri në datën 25 dhjetor 2008, procedurat e prokurimit, për tenderin me objekt “Blerje karburanti, gazoil, benzoil dhe karburant për ngrohje”, të kryera nga Inspektorati Ndërtimor Urbanistik Kombëtar.
+Brenda këtij afati përfshihen edhe lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar, në Buletinin e Njoftimeve Publike.
