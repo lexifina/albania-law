@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 017, datë 13.11.2008
+PËR PËRCAKTIMIN E POLIGONEVE PËR ASGJËSIMIN E MUNICIONEVE TË FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË
+Në mbështetje të neneve 78 e 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:

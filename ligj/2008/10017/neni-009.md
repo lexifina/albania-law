@@ -1,0 +1,4 @@
+# Neni 9
+Rajone tokësore, hapësira detare dhe korridore ajrore të kufizuara
+1. Ministria e Mbrojtjes, për nevoja të asgjësimit të municioneve, përcakton rajone tokësore, hapësira detare e korridore ajrore të kufizuara përkohësisht për qarkullim, lundrim, fluturim, gjueti e çdo veprimtari tjetër, që krijon premisa për shkaktim dëmi, duke njoftuar 30 ditë përpara, me shkrim, organet përkatëse.
+2. Për përcaktimin e zonave të kufizuara dhe njoftimin e organeve përkatëse, në zbatim të këtij neni, Ministria e Mbrojtjes, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministria e Brendshme, Ministria e Punëve Publike, Transportit dhe Telekomunikacionit dhe Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve nxjerrin një udhëzim të përbashkët.

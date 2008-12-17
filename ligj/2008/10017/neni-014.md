@@ -1,0 +1,4 @@
+# Neni 14
+Nxjerrja e akteve nënligjore
+1. Ngarkohen Ministria e Mbrojtjes, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministria e Brendshme, Ministria e Punëve Publike, Transportit dhe Telekomunikacionit dhe Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve që, brenda gjashtë muajve nga data e hyrjes në fuqi të ligjit, të nxjerrin udhëzimin e përbashkët, në zbatim të nenit 9 të këtij ligji.
+2. Ngarkohen Ministria e Mbrojtjes, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve që, brenda gjashtë muajve nga data e hyrjes në fuqi të ligjit, të nxjerrin udhëzimin e përbashkët, në zbatim të nenit 12 të këtij ligji.
