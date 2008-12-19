@@ -1,0 +1,1 @@
+8. Pronari i pasurisë së paluajtshme, i përmendur në pikën 3 të këtij vendimi, të kompensohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Doganave.

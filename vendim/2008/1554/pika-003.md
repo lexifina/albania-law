@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, z.Gjokë Mark Bunjaj, të kompensohet, në vlerë të plotë, për sipërfaqen 1153 (një mijë e njëqind e pesëdhjetë e tre) m2, tokë, të vlerësuar me çmimin e truallit 623 lekë/m2, për zonën e Shkodrës, në masën 718 319 (shtatëqind e tetëmbëdhjetë mijë e treqind e nëntëmbëdhjetë) lekë.

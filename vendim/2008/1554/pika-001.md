@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pasurisë së paluajtshme, pronë private, sipërfaqe truall, në pronësi të z.Gjokë Mark Bunjaj, që preket nga ndërtimi i pikës së kalimit kufitar Vermosh/Shkodër, sipas planrilevimit dhe planimetrisë së sheshit të ndërtimit, që i bashkëlidhen këtij vendimi.
