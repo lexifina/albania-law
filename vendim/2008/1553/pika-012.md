@@ -1,0 +1,1 @@
+12. Për shqyrtimin dhe miratimin e projekteve MZHP, propozuesi i projektit, në mbështetje të pikës 2 të nenit 30 të ligjit nr.8990, datë 23.1.2003 “Për vlerësimin e ndikimit në mjedis”, paguan një tarifë shërbimi, prej 50 000 (pesëdhjetë mijë) lekësh, në çastin e paraqitjes së kërkesës për miratim, e cila është e pakthyeshme edhe në rastet kur projekti nuk miratohet.

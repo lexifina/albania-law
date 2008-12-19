@@ -1,0 +1,1 @@
+3. AKP-ja vepron si organizëm i specializuar, në përbërje të ministrisë, për të shqyrtuar dhe miratuar projektidetë dhe projektet e mekanizmit të zhvillimit të pastër, që paraqiten nga propozues të ndryshëm, në kuadër të protokollit të Kiotos, si të përshtatshëm për t’u zbatuar në territorin e Republikës së Shqipërisë.

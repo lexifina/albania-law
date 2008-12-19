@@ -1,0 +1,18 @@
+2. Në kuptim të këtij vendimi, me termat e mëposhtëm nënkuptohen:
+a) “Konventa”, konventa kuadër e Kombeve të Bashkuara për ndryshimet klimatike, në të cilën vendi ynë është palë, që nga viti 1994.
+b) “Protokolli i Kiotos”, protokolli i konventës kuadër të Kombeve të Bashkuara, për ndryshimet klimatike, i cili ka vendosur objektiva të detyrueshëm për reduktimin e shkarkimit të gazeve, me efekt serrë, për vendet e zhvilluara. Vendi ynë edhe pse nuk ka detyrime për reduktimin e gazeve, me efekt serrë, mund të marrë pjesë në mekanizmin për zhvillim të pastër (MZHP) dhe të jetë përfitues projektesh nga vendet e zhvilluara.
+c) “Mekanizëm i zhvillimit të pastër (MZHP)”, mekanizmi i përcaktuar nga neni 12 i protokollit të Kiotos, me qëllim që:
+i) të ndihmohen palët, që nuk bëjnë pjesë në grupin e vendeve të zhvilluara (aneksi I i konventës), për të arritur një zhvillim të qëndrueshëm;
+ii) të kontribuojë në plotësimin përfundimtar të synimeve të konventës;
+iii) të ndihmohen palët e përfshira në aneksin I, të përmbushin angazhimet e tyre për reduktimin e shkarkimeve të gazeve, me efekt serrë.
+ç) “Metodologjia bazë”, aplikimi i një qëndrimi të caktuar për një veprimtari në kuadër të MZHP-së, i cili ka parasysh sektorin dhe rajonin, siç përshkruhet në paragrafin 48, të modaliteteve dhe procedurave të këtij mekanizmi. Bordi ekzekutiv i MZHP-së, sipas të njëjtit paragraf, ka rënë dakord që, në rastin e një metodologjie:
+i) të re (në hartimin e një metodologjie bazë të re), hapi i parë është identifikimi i përqasjes më të përshtatshme për veprimtarinë e projektit dhe, më pas, i një metodologjie të zbatueshme;
+ii) të miratuar, kur zgjedhin një metodologji bazë të miratuar, pjesëmarrësit e projektit, automatikisht, e kanë përcaktuar përqasjen për veprimtarinë e projektit të njëjtë me atë të metodologjisë.
+d) “Metodologjia e monitorimit”, metoda e përdorur nga pjesëmarrësit e projektit për mbledhjen dhe arkivimin e të gjitha të dhënave përkatëse, të nevojshme për zbatimin e planit të monitorimit.
+dh) “Autoriteti Kombëtar i Përcaktuar (AKP)”, autoriteti kombëtar për MZHP-në, që caktohet nga pala përkatëse e protokollit të Kiotos.
+e) “Letër miratimi (LM)”, një letër e nënshkruar nga Autoriteti Kombëtar i Përcaktuar, i vendit pritës, për një projekt MZHP, ku konfirmohet se projekti, ashtu siç është propozuar, do të sjellë reduktim të shkarkimeve të gazeve, me efekte serrë, të cilat janë shtesë e atyre, që ndodhin në mungesë të projektit, dhe se zbatimi i projektit e ndihmon vendin pritës për të arritur objektivat kombëtarë të zhvillimit të qëndrueshëm.
+ë) “Letër pranimi (LP)”, letra ku konfirmohet, në parim, se vendi pritës, nuk ka vërejtje ndaj një projektideje të propozuar dhe se do ta mbështesë më tej zhvillimin e saj si një projekt i plotë MZHP.
+f) “Projektideja (PI)”, përshkrim i një projektideje të re MZHP, ku jepet një vlerësim i parë e i përafërt i reduktimeve në shkarkimin e CO2. PI shërben për t’i kërkuar AKP-së një letër pranimi dhe për të justifikuar, në një fazë të mëvonshme vleftësimi të projektit MZHP, se ky i fundit është marrë seriozisht parasysh në një fazë të hershme.
+g) “Dokumenti i plotë i projektit (DPP)”, dokumentacioni, që përgatitet dhe paraqitet nga pjesëmarrësit e projektit, përpara një entiteti të pavarur ligjor, të akredituar nga bordi ekzekutiv i MZHP-ve, për të bërë të vlefshëm një projekt të propozuar.
+gj) “Pjesëmarrësit e projektit”, entitete ligjore (publike apo private), që propozojnë, zhvillojnë dhe zbatojnë projekte, në kuadër të MZHP-së.
+h) “Ministër dhe ministri”, përkatësisht, ministri përgjegjës për mjedisin dhe ministria, që mbulon fushën e mjedisit.
