@@ -1,0 +1,1 @@
+10. Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonat, që do të kalojnë në datat 29 nëntor, 2, 5 e 10 dhjetor 2008, është pika e kalimit të kufirit Porti i Durrësit dhe pika e daljes është pika e kalimit të kufirit Qafë-Thanë.
