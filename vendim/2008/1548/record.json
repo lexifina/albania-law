@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7496,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.41, DATË 11.2.1992 TË KRYESISË SË KËSHILLIT TË MINISTRAVE “PËR KALIMIN NË PËRDORIM, PA SHPËRBLIM, TË DISA OBJEKTEVE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1548",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-11-26",
+  "published": "2008-12-19",
+  "in_force": "2008-12-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/24c7e0cad7a5afd425397ecc5e9cb502fa1ebd20e1af094107ba12c7b4b0164a.docx",
+  "source_sha256": "24c7e0cad7a5afd425397ecc5e9cb502fa1ebd20e1af094107ba12c7b4b0164a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7496",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/11/26/1548",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
