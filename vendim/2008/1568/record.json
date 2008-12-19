@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7503,
+  "title": "PËR  DISA SHTESA NË VENDIMIN NR.1458, DATË 5.11.2008 TË  KËSHILLIT TË MINISTRAVE “PËR SHTYRJEN E AFATIT TË  BOTIMIT TË NJOFTIMIT TË FITUESIT DHE TË NJOFTIMIT TË  KONTRATËS SË LIDHUR, PËR PROCEDURAT E PROKURIMIT, TË  KRYERA NGA MINISTRIA E BRENDSHME, INSTITUCIONET NË  VARËSI DHE NJËSITË E QEVERISJES VENDORE, SI AUTORITETE  KONTRAKTORE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1568",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-12-03",
+  "published": "2008-12-19",
+  "in_force": "2008-12-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ddebe626be6dfa94e956c6fce4ba756d06d6c569b91ee6a2284c5da5efbcfbe2.docx",
+  "source_sha256": "ddebe626be6dfa94e956c6fce4ba756d06d6c569b91ee6a2284c5da5efbcfbe2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7503",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/12/03/1568",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
