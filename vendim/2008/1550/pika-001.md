@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Arsimit dhe Shkencës dhe të institucioneve në varësi të saj, bashkisë Durrës, t’i përfundojnë deri më 29 dhjetor 2008, procedurat e prokurimit për ndërtime, mallra e shërbime, me fondet e parashikuara në Buxhetin e Shtetit të vitit 2008, sipas aneksit nr.1, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati të përfshihen edhe publikimi i fituesit dhe publikimi i njoftimit të kontratës së lidhur në Buletinin e Njoftimeve Publike.
