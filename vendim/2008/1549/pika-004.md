@@ -1,0 +1,1 @@
+4. Kuota e pranimeve për shtetasit e huaj, sipas shkronjës “c”, të pikës 1, të këtij vendimi, që do të studiojnë në institucionet publike të arsimit të lartë të Republikës së Shqipërisë, administrohet nga Ministria e Arsimit dhe Shkencës dhe shpërndahet, në bazë të marrëveshjeve dypalëshe ose shumëpalëshe, si dhe të kërkesave individuale të tyre.

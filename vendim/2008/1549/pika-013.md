@@ -1,0 +1,1 @@
+13. Shtetasit e huaj, që do të vazhdojnë studimet në një program studimi, me kohë të pjesshme, në institucionet publike të arsimit të lartë, i nënshtrohen së njëjtës tarifë shkollimi, si shtetasit shqiptarë, me përjashtim të rasteve kur në marrëveshjet zyrtare shtetërore janë përcaktuar mënyra të tjera të përcaktimit të tarifave.

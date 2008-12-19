@@ -1,0 +1,1 @@
+7. Transferimet e studentëve në numrin përkatës të kuotës së përcaktuar sipas pikave 1, shkronja “c”, dhe 3, të këtij vendimi, bëhen nga vetë institucionet publike të arsimit të lartë, në përputhje me kriteret e përcaktuara dhe të bëra publike, paraprakisht.

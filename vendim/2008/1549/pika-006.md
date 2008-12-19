@@ -1,0 +1,1 @@
+6. Kandidatët, që dëshirojnë të ndjekin një program studimi të ciklit të parë, me kohë të pjesshme, në Akademinë e Edukimit Fizik e Sporteve, në Tiranë, duhet t’u nënshtrohen kritereve të veçanta (konkurseve të pranimit), të vendosura nga ky institucion, për pranimet në këto programe studimi.

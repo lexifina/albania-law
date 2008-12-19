@@ -1,0 +1,1 @@
+3. Kuota e pranimeve për transferim studimesh, sipas shkronjës “c” të pikës 1 të këtij vendimi, shpërndahet nga Ministria e Arsimit dhe Shkencës, në bazë të kërkesave të institucioneve publike të arsimit të lartë.
