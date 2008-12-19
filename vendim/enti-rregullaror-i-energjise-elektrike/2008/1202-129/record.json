@@ -1,0 +1,28 @@
+{
+  "qbz_id": 7506,
+  "title": "Për licencimin e shoqërisë “Gen – I Tirana” shpk për kryerjen e aktivitetit të furnizuesit të kualifikuar",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "129",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2008-12-02",
+  "published": "2008-12-19",
+  "in_force": "2008-12-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b3b62f31447b990c6f464c9202e86a1f5e26ef7c0b4a114dfe2b56b91a5fa6b6.docx",
+  "source_sha256": "b3b62f31447b990c6f464c9202e86a1f5e26ef7c0b4a114dfe2b56b91a5fa6b6",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7506",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/12/02/129",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10118
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
