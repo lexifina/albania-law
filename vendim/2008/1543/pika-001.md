@@ -1,0 +1,2 @@
+1. Lejimin e Agjencisë Kombëtare të Shoqërisë së Informacionit t’i përfundojë, deri në datën 25 dhjetor 2008, procedurat e prokurimit elektronik, për tenderin, me objekt “Shtrirja me fibër optike për rrjetin kompjuterik ndërministror GovNet”, me fondet e parashikuara në Buxhetin e Shtetit të vitit 2008, zëri “Shpenzime për investime”.
+Brenda këtij afati përfshihen edhe lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.

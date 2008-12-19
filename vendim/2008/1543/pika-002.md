@@ -1,0 +1,1 @@
+2. Lejimin e Agjencisë Kombëtare të Shoqërisë së Informacionit të publikojë njoftimin e kontratës së nënshkruar, për tenderin, me objekt “Rikonstruksioni i godinës së Agjencisë Kombëtare të Shoqërisë së Informacionit”, me fondet e parashikuara në buxhetin e vitit 2008.
