@@ -1,0 +1,1 @@
+13. Sekretaria e regjistrimit të PMB-ve, në bazë të materialit përmbledhës dhe të përfundimeve të KSHRPMB-së, përgatit dokumentin e regjistrimit për çdo PMB të miratuar, si dhe njofton aplikantin për regjistrimin ose jo të PMB-së.
