@@ -1,0 +1,8 @@
+LIGJ
+Nr.10 037, datë 22.12.2008
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN
+E KOMBEVE EUROPIANE “PËR BASHKËPRODHIMET KINEMATOGRAFIKE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
