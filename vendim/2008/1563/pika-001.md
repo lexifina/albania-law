@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit, territorial dhe administrativ, të bashkisë Kavajë, të qarkut të Tiranës, që transferohen, në pronësi ose në përdorim, të kësaj bashkie, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 112 (njëqind e dymbëdhjetë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 690 (gjashtëqind e nëntëdhjetë).
