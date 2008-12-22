@@ -1,0 +1,5 @@
+VENDIM
+Nr.1561, datë 3.10.2008
+PËR MIRATIMIN E STRATEGJISË NDËRSEKTORIALE PËR PARANDALIMIN E LUFTËN KUNDËR KORRUPSIONIT DHE PËR NJË QEVERISJE TRANSPARENTE, 2008-2013
+Në mbështetje të nenit 100 të Kushtetutës, me propozimin e Zëvendëskryeministrit, Këshilli i Ministrave
+VENDOSI:
