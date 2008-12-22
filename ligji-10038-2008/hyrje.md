@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 038, datë 22.12.2008
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN PËR TAKSIMIN E MJETEVE RRUGORE NË TRANSPORTIN NDËRKOMBËTAR TË MALLRAVE
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
