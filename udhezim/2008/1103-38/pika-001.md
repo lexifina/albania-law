@@ -1,0 +1,1 @@
+1. Studentët që vijnë në kuadër të marrëveshjeve shtetërore dypalëshe ose shumëpalëshe në ciklin e parë të studimeve me kohë të plotë, për vitin akademik 2008-2009, të përzgjidhen, për programet e studimit të kërkuara, në bazë të dosjeve të ardhura nga përfaqësitë diplomatike ose nga ministritë e arsimit të vendeve përkatëse.

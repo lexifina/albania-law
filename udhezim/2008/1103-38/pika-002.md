@@ -1,0 +1,1 @@
+2. Numri i kuotave të parealizuara për studentë që vijnë në kuadër të marrëveshjeve shtetërore dypalëshe ose shumëpalëshe plotësohet nga shtetas të huaj që nuk vijnë në kuadër të këtyre marrëveshjeve.

@@ -1,0 +1,1 @@
+4. Përzgjedhja e studentëve, sipas pikës 2 të këtij udhëzimi, të kryhet pasi të shqyrtohet nga Drejtoria e Politikave të Arsimit të Lartë dhe nga sektori i marrëdhënieve me jashtë të Ministrisë së Arsimit dhe Shkencës dokumentacioni i paraqitur nga këta shtetas të huaj.
