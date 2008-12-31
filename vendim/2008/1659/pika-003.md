@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelёn, qё i bashkёlidhet kёtij vendimi, për objekte, me vlerë 2 005 032 (dy milionë e pesë mijë e tridhjetë e dy) lekë, për kultura bujqësore, me vlerë 836 359 (tetëqind e tridhjetë e gjashtë mijë e treqind e pesëdhjetë e nëntë) lekë.
