@@ -1,0 +1,2 @@
+1. Lejimin e Agjencisë se Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale (ALUIZNI), drejtorisë qendrore dhe drejtorisë rajonale për qarkun Shkodër, të shtyjnë afatin e botimit të njoftimit të fituesit dhe njoftimit të kontratës së lidhur, për procedurat e prokurimit, për mallra e ndërtime, me fondet e parashikuara në Buxhetin e Shtetit të vitit 2008, sipas aneksit 1, që i bashkëlidhet këtij vendimi, brenda datës 31 dhjetor 2008.
+Brenda këtij afati përfshihen edhe lidhja dhe ekzekutimi i kontratave përkatëse.
