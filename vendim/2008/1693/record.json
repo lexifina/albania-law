@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55324,
+  "title": "PËR NJË SHTESË NË VENDIMIN NR.21, DATË 9.1.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E STRUKTURËS, TË ORGANIKËS DHE TË NUMRIT TË PUNONJËSVE TË SHËRBIMIT TË GJENDJES CIVILE, NË NJËSITË E QEVERISJES VENDORE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1693",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-12-24",
+  "published": "2008-12-31",
+  "in_force": "2008-12-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/70a6be5166dcf09f83c956739c3fb1ef780223175d971e1da22ee18a6ba10213.docx",
+  "source_sha256": "70a6be5166dcf09f83c956739c3fb1ef780223175d971e1da22ee18a6ba10213",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55324",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/12/24/1693",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
