@@ -1,1 +1,0 @@
-1. Pasuritё e institucioneve shtetёrore, tё ndёrmarrjeve shtetёrore dhe shoqёrive tregtare, me kapital 100 pёr qind shtetёror, u jepen tё tretёve, me qira ose enfiteozё, nёpёrmjet procedurёs sё konkurrimit.

@@ -1,2 +1,0 @@
-3. Ndalohet dhënia me qira ose enfiteozë e objekteve shtetёrore, tё ndёrtuara nё troje private, pёrveçse kur kjo u shërben interesave publike, sipas pёrkufizimit tё dhёnё nё ligjin nr.9235, datё 29.7.2004 “Pёr kthimin dhe kompensimin e pronёs”, tё ndryshuar.
-Pёr pasuritё shtetёrore nё troje private, dhёnё nё pёrdorim tё tretёve me kontratё qiraje ose enfiteozё, para daljes sё kёtij ligji, veprohet sipas nenit 8/1 tё ligjit tё sipёrpёrmendur.
