@@ -1,0 +1,2 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Ujësjellës-Kanalizimeve, të bashkive, komunave dhe ujësjellës sh.a.-ve, t’i përfundojnë, deri në datën 31.12.2008, procedurat e prokurimit, për 53 objekte, me fondet buxhetore të investimeve, të parashikuara në Buxhetin e Shtetit të vitit 2008, sipas listës, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati të përfshihen edhe lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
