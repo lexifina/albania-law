@@ -1,0 +1,1 @@
+7. Elementet e pasurisë, pa vlerë përdorimi ose të zhvlerësuara, të trajtohen për t’u nxjerrë jashtë përdorimit ose për ulje vlere, në përputhje me aktet ligjore dhe nënligjore, në fuqi. Ulja e vlerës të kryhet nga komisioni i vlerësimit, me pjesëmarrjen e dy a më shumë ekspertëve të fushave përkatëse, në varësi nga natyra e elementeve të pasurisë.

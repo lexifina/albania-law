@@ -1,0 +1,1 @@
+8. Bilanci i çeljes së shoqërisë aksionare, të krijuar nga transformimi i klubit sportiv është bilanci i reformuar. Ky bilanc verifikohet edhe vërtetohet nga një ekspert kontabël, i autorizuar, i emëruar nga organi, që ka në varësi këtë klub.

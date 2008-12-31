@@ -1,0 +1,1 @@
+9. Ngarkohen Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve dhe Ministri i Ekonomisë, Tregtisë dhe Energjetikës të nxjerrin udhëzimin përkatës për përzgjedhjen e anëtarëve të komisionit të vlerësimit e të ekspertit kontabël të autorizuar, si dhe për përcaktimin e mënyrës së vlerësimit të aseteve, logos dhe kapitalit.

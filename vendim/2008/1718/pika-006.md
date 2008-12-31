@@ -1,0 +1,1 @@
+6. Vlera kontabël e mbetur e aktiveve të qëndrueshme të trupëzuara aktuale rivlerësohet, sipas kritereve të caktuara në vendimin nr.794, datë 21.11.2007 të Këshillit të Ministrave “Për kriteret e vlerësimit të pronës shtetërore, që privatizohet apo transformohet, dhe për procedurën e shitjes”.
