@@ -1,0 +1,1 @@
+10. Plotësimi i kuotave të pranimeve në ciklin e parë të studimeve, me kohë të plotë, për vitin akademik 2008-2009 në Akademinë e Arteve të rregullohet me një udhëzim të veçantë të Ministrit të Arsimit dhe Shkencës.

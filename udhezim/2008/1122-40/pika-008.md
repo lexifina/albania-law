@@ -1,0 +1,1 @@
+8. Kandidatët e përcaktuar në pikën 4 të këtij udhëzimi, që nuk kanë aplikuar nëpërmjet formularit A3, të paraqiten në APRIAL në periudhën 24-28 nëntor 2008 për të tërhequr, plotësuar dhe dorëzuar formularin A4.

@@ -1,0 +1,1 @@
+7. Kandidatët e përcaktuar në pikën 4 të këtij udhëzimi, që kanë plotësuar më parë formularin A3 dhe nuk janë shpallur fitues në institucionet publike të arsimit të lartë, të paraqiten në DAR/ZA në periudhën 24-28 nëntor 2008 për të tërhequr, plotësuar dhe dorëzuar formularin A4.

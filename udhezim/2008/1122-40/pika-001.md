@@ -1,0 +1,1 @@
+1. Plotësimin e kuotave të parealizuara të pikës 1/a të vendimit nr.1037, datë 2.7.2008 të Këshillit të Ministrave, pas përfundimit të regjistrimit të pranimeve në ciklin e parë të studimeve me kohë të plotë në institucionet publike të arsimit të lartë, sipas udhëzimit nr.35, datë 17.10.2008.

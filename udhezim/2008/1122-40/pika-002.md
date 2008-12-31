@@ -1,0 +1,1 @@
+2. Kuotat e parealizuara të pranimeve në institucionet publike të arsimit të lartë, në vitin akademik 2008-2009, të ndara ndërmjet këtyre institucioneve sipas programeve të ndryshme të studimit, janë pasqyruar në tabelën nr.1, bashkëlidhur këtij udhëzimi.
