@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7578,
+  "title": "PËR riNGRITJEN E KOMISIONIT TË POSAÇËM PARLAMENTAR PËR KODIN ZGJEDHOR, PËR SHQYRTIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS NR.5960, DATË 2.12.2008 “PËR KTHIMIN E LIGJIT NR.10 019, DATË 18.11.2008 “KODI ZGJEDHOR I REPUBLIKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "226",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2008-12-15",
+  "published": "2008-12-31",
+  "in_force": "2008-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/012a76dde4d63ee3afeb9208a997a028f20a9ed78a1f52771c94c35f81e2b381.docx",
+  "source_sha256": "012a76dde4d63ee3afeb9208a997a028f20a9ed78a1f52771c94c35f81e2b381",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7578",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2008/12/15/226",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
