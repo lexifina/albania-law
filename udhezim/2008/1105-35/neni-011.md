@@ -1,0 +1,4 @@
+# Neni 11
+Raportimi i njësisë së qeverisjes vendore për huatë e marra nëpërmjet bilanceve periodike dhe vjetore
+1. Marrëveshja e huasë përbën dokumentin bazë për kontabilitetin e veprimeve dhe lëvrimeve. Me firmosjen e kontratës midis huadhënësit dhe kryetarit të njësisë së qeverisjes vendore, departamenti i financës së njësisë së qeverisjes vendore vendos të dhënat e pagesës së kontratës me një angazhim financiar të njëjtë me çmimin e kontratës. Për çdo pagesë, data dhe shuma shënohen tek të dhënat e pagesës së kontratës dhe në këtë mënyrë llogaritet që sasia e palëvruar duhet të jetë diferenca midis angazhimit fillestar dhe shumës së pagesave tashmë të bëra.
+2. Evidentimi dhe kontabilizimi i shumës së huasë, principalit dhe interesave të saj bëhet në përputhje me aktet ligjore dhe nënligjore në fuqi për kontabilitetin e institucioneve buxhetore dhe të njësive të qeverisjes vendore.

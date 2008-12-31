@@ -1,0 +1,21 @@
+# Neni 2
+Përkufizime
+Në zbatim të këtij udhëzimi, termat e mëposhtëm kanë këto kuptime:
+1. Të ardhurat korrente të pakushtëzuara janë të ardhurat korrente nga burimet e veta dhe të ardhurat korrente nga burimet kombëtare, si më poshtë:
+Të ardhurat korrente nga burimet e veta:
+a) Të ardhurat nga taksat vendore, si taksa e biznesit të vogël; taksa mbi pasurinë e paluajtshme; taksa e fjetjes në hotel; taksa e ndikimit në infrastrukturë nga ndërtimet e reja; taksa mbi kalimin e së drejtës së pronësisë për pasuritë e paluajtshme; taksa e regjistrimit të përvitshëm të mjeteve; taksa për zënien e hapësirave publike; taksa e tabelës; taksa të përkohshme siç përcaktohet nga ligji nr.9632, datë 30.10.2006 “Për sistemin e taksave vendore”, i ndryshuar dhe çdo taksë tjetër vendore e përcaktuar si e tillë nga legjislacioni në fuqi.
+b) Të ardhurat nga tarifat vendore, ku përfshihen të gjitha tarifat që njësia e qeverisjes vendore mbledh për kryerjen e shërbimeve publike; tarifa për shërbimet social/arsimore të ofruara nga njësitë e qeverisjes vendore; tarifa administrative për licenca, dokumente, etj., siç përcaktohet në kuptim të nenit 16 pika 3 të ligjit nr.8652, datë 31.1.2000 “Për organizimin dhe funksionimin e qeverisjes vendore” dhe ligjit nr.9632, të ndryshuar.
+c) Të ardhura jotatimore korrente, si të ardhurat korrente nga veprimtaritë ekonomike apo të ardhurat nga qiratë mbi trojet, ndërtesat dhe objektet e tjera vendore.
+Të ardhurat korrente nga burimet kombëtare:
+d) Të ardhurat nga taksat e ndara, ku bëjnë pjesë ato të ardhura nga një ose disa taksa që me ligj ndahen midis pushtetit qendror dhe atij vendor.
+e) Transferta e pakushtëzuar e njësisë së qeverisjes vendore, përfshirë transfertën A dhe transfertën B të pakushtëzuar, siç përcaktohet nga ligji vjetor i Buxhetit të Shtetit.
+2. Të ardhurat e buxhetit vendor që nuk përfshihen në përllogaritjen e kufizimeve të borxhit janë të ardhurat korrente apo kapitale nga burime kombëtare në formën e transfertës së kushtëzuar, si edhe të ardhura kapitale nga tjetërsimi i pronës së njësisë së qeverisjes vendore; të ardhura nga donacionet, sponsorizimet dhe dhuratat; të ardhura nga gjobat dhe sekuestrimet dhe çdo e ardhur tjetër që nuk është e përsëritshme nga viti në vit.
+3. Shpenzimet korrente të njësisë së qeverisjes vendore që përfshihen në përllogaritjen e kufizimit të borxhit janë ato shpenzime, burimi i financimit të të cilave është i pakushtëzuar. Të tilla janë shpenzimet që njësia e qeverisjes vendore kryen nga burimet e veta korrente, taksat e ndara dhe transferta e pakushtëzuar për kryerjen e funksioneve të veta, të përbashkëta dhe të deleguara.
+4. Teprica operative është diferenca mes të ardhurave korrente të pakushtëzuara (përshkruar në pikën 1.a deri 1.e të këtij neni) me shpenzimet operative nga këto burime (pika 3 e këtij neni).
+5. Huaja e marrë në tregjet ndërkombëtare: marrëveshje financimi e lidhur me persona juridikë apo fizikë (subjekte) jorezidente në Shqipëri, apo tituj të emetuar jashtë vendit.
+6. Stoku i borxhit është shuma gjithsej e principalit të pashlyer të huave ekzistuese në formën e marrëveshjeve të financimit dhe titujve të njësisë së qeverisjes vendore.
+7. Periudhë faljeje (grace period) është periudha gjatë së cilës huadhënësi i lejon huamarrësit të mos bëjë pagesat e huasë apo t’i bëjë ato në mënyrë të pjesshme pa aplikuar gjoba apo penalitete.
+8. Prona fizike jopublike e njësisë së qeverisjes vendore është prona që gëzon statusin juridik të pronës private, në përputhje me nenin 4 të ligjit nr.8743, datë 22.2.2001 “Mbi pronën e paluajtshme të shtetit”.
+9. Llogari depozite është llogaria që hapet nga Ministri i Financave me propozim të institucionit vendor dhe përdoret enkas për transferimin e parave nga huadhënësi tek huamarrësi dhe nga kjo llogari tek llogaria e unifikuar e thesarit, për qëllim të lëvrimit të huasë apo mbajtjen e fondit rezervë.
+10. Llogaria e unifikuar e thesarit është llogaria ku kryhen transaksionet (të hyrat dhe të dalat e parasë) të të gjitha institucioneve buxhetore, siç parashikohet në ligjin nr.9936, datë 26.6.2008 “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”.
+11. Huaja për rifinancim është huaja, të hyrat e së cilës përdoren për të shlyer një hua tjetër, zakonisht për të shfrytëzuar kushte më të leverdisshme në treg.
