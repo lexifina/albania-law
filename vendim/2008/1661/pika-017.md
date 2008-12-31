@@ -1,0 +1,1 @@
+17. Spitalet dhe ISKSH-ja janë të detyruara të llogarisin koston e çdo shërbimi, në përputhje me standardet e caktuara nga Ministria e Shëndetësisë, brenda 18 muajve nga hyrja në fuqi e këtij vendimi.

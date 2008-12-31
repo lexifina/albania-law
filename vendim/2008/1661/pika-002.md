@@ -1,0 +1,1 @@
+2. Buxheti për shërbimet spitalore jepet me hollësi sipas shtojcës 2, që i bashkëlidhet këtij vendimi. Një fond jo më i madh se 10 për qind i buxhetit vjetor, të planifikuar për shërbimet spitalore, mbahet nga ISKSH-ja, për t’ua rishpërndarë spitaleve gjatë vitit, me vendim të këshillit administrativ të ISKSH-së.

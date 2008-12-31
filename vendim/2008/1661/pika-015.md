@@ -1,0 +1,1 @@
+15. Ngarkohet drejtori i spitalit, që, brenda datës 31.3.2009, të lidhë kontratat e punës me të gjithë punonjësit, në përputhje me Kodin e Punës të Republikës së Shqipërisë, miratuar me ligjin nr.7961, datë 12.7.1995, të ndryshuar.

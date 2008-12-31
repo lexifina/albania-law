@@ -1,0 +1,1 @@
+9. Burime të tjera financimi për spitalet janë fondet e krijuara nga të ardhurat e realizuara gjatë veprimtarisë së tyre dhe nga dhurimet. Përdorimi i tyre bëhet totalisht nga vetë spitali, si pjesë e kostos së shërbimit, sipas udhëzimit të miratuar nga këshilli administrativ i ISKSH-së. Këto të ardhura vlerësohen si të ardhura jashtë limitit.

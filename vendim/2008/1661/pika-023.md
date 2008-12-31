@@ -1,0 +1,1 @@
+23. Fondet për financimin e shërbimit spitalor, të papërdorura gjatë vitit buxhetor, trajtohen si të gjitha fondet e skemës së sigurimeve shëndetësore. Spitali mban në buxhetin e tij, për ta përdorur për vitin pasardhës, pjesën e papërdorur të buxhetit, të kontraktuar të vitit ushtrimor.

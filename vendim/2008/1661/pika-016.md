@@ -1,0 +1,1 @@
+16. Ngarkohen Ministria e Shëndetësisë që, në bashkëpunim me organet e qeverisjes vendore dhe në bazë të legjislacionit në fuqi për shërbimin spitalor, të organizojë ngritjen e këshillave administrativë të autoriteteve spitalore publike të qarqeve, brenda gjashtë muajve nga hyrja në fuqi e këtij vendimi.
