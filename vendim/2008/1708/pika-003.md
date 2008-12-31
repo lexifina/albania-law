@@ -1,0 +1,1 @@
+3. Ngritjen, në drejtorinë rajonale të bujqësisë, ushqimit dhe mbrojtjes së konsumatorit, të komisionit të identifikimit të racave/ekotipeve të bagëtive të imëta në rrezik për t’u zhdukur, i cili të drejtohet nga inspektori i zooteknisë.

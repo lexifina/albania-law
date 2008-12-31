@@ -1,0 +1,1 @@
+4. Një ndër hallkat kryesore të programeve për ruajtjen In-situ të racave dhe/ose ekotipeve autoktone të bagëtive të imëta, të shpallura “Raca/ekotipe në gjendje kritike për t’u zhdukur”, është zbatimi i pagesës, një herë në vit, i fermerëve, që janë pronarë të tufave, që do të përfshihen në këto programe.

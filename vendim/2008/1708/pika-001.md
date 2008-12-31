@@ -1,0 +1,1 @@
+1. Programet për ruajtjen In-situ të racave autoktone të bagëtive të imëta zbatohen për ato raca dhe/ose ekotipe, të cilat shpallen “Raca/ekotipe në gjendje kritike për t’u zhdukur”, sipas përcaktimit të aneksit 1, që i bashkëlidhet këtij vendimi.

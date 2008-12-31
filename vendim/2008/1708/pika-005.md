@@ -1,0 +1,2 @@
+5. Masa e pagesës të jetë: 2 000 (dy mijë) lekë për riprodhues femër dhe 3 000 (tre mijë) lekë për riprodhues mashkull, të matrikulluar. Kjo pagesë zbatohet jo më pak se 4 vjet për çdo racë/ekotip, të shpallur “Racë/ekotip në gjendje kritike për t’u zhdukur”. Pagesa ndërpritet me shpalljen e vendimit për kapërcimin e gjendjes kritike për t’u zhdukur.
+Për realizimin e kësaj pagese, në Buxhetin e Shtetit të parashikohen, çdo vit, 4 500 000 (katër milionë e pesëqind mijë) lekë.

@@ -1,0 +1,1 @@
+2. Ngritjen, pranë Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, të komisionit të vlerësimit për gjendjen dhe nivelin e rrezikut të zhdukjes në racat/ekotipet autoktone të bagëtive të imëta. Veprimtaria e këtj komisioni përcaktohet me rregullore të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
