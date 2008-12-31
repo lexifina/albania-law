@@ -1,0 +1,1 @@
+1. Përcaktimin e standardeve të harminizuara shqiptare, që kanë karakter referues, për prezumimin e konformitetit të pajisjeve nën presion, sipas listës, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
