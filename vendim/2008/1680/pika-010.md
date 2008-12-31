@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, në bazë të dokumentacionit të pronësisë dhe dokumentacionit tekniko-ligjor, brenda afateve të përcaktuara në pikën 6 të vendimit.

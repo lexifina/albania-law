@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, 252 776 614 (dyqind e pesëdhjetë e dy milionë e shtatëqind e shtatëdhjetë e gjashtë mijë e gjashtëqind e katërmbëdhjetë) lekë, të përballohet nga zëri “Shpronësime”, miratuar për Ministrinë e Punëve Publike, Transportit dhe Telekomunikacionit.

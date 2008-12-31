@@ -1,0 +1,1 @@
+8. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konfirmim ZRPP”, (detyrim ndaj të tretëve), të kompensohen, për efekt shpronësimi, pasi të kenë përmbushur detyrimet ligjore.
