@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për procedurat e dhënies së autorizimeve, për ndërtimin e objekteve të reja gjeneruese të energjisë, që nuk janë objekt koncesioni, sipas tekstit, që i bashkëlidhet këtij vendimi.
