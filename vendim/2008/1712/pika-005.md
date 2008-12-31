@@ -1,0 +1,5 @@
+5. Pёrjashtohen nga konkurrimi:
+a) Dhёnia me qira e sipёrfaqeve deri nё 200 m2 , të cilat jepen me afat deri nё 1 vit.
+b) Dhёnia me qira e pasurive tё ndёrmarrjeve e shoqёrive shtetёrore, subjekteve tё pajisura me leje shfrytёzimi tё pasurive natyrore minerare, të peshkimit, ujёrave e të veprimtarive të tjera, të ngjashme, kur këto pasuri i jepen subjektit në ndihmë të zhvillimit të veprimtarisë, për të cilën është licencuar.
+c) Në rastet kur me ligj janë miratuar marrëveshje minerare të shfrytëzimit, subjekti i licencuar ka të drejtën e lidhjes së kontratёs së huapërdorjes për sipërfaqen e ndërtimit të fabrikave (sipërfaqe kjo e konfirmuar nga biznesplani, i paraqitur për marrjen e lejes së shfrytëzimit), me të drejtë ripërsëritjeje deri në përfundimin e periudhës së licencimit.
+ç) Shtesat nё kontratё tё sipёrfaqeve, ndёrtesave, objekteve ose tё linja-makinerive, qё kёrkohen nga qiramarrёsit pёr tё pёrmirёsuar ose shtuar veprimtarinё, pa e ndryshuar objektin e veprimtarisё. Shtesa nё kontratё bёhet pёr sipёrfaqe deri nё 500 m2 që shtrihen në kufi me objektin e kontratës së qirasë.
