@@ -1,0 +1,51 @@
+# Shtojca
+Aneksi 1
+Qendra Spitalore Universitare “Nënë Tereza”, Tiranë:
+- Kite specifike dhe izotopi radioaktiv, me fond limit 2 000 000 lekë.
+- Citostatike, me fond limit 22 997 000 lekë.
+- Kite dhe reagentë. Fondi limit 19 317 240 lekë.
+- Rikonstruksioni i spitalit psikiatrik (punime shtesë, shtesë kontrate). Fondi limit 12 500 000 lekë pa TVSH.
+- Riparim i aparatit të endoskopisë në shërbimin e urologjisë, me fond limit 1 229 000 lekë.
+- Blerje aparaturash elektro-mjekësore për shërbimin e neurologji-neurokirurgjisë, me fond limit 21 666 668 lekë.
+- Materiale mjekësore për kardiokirurgjinë dhe kirurgjinë vaskulare.
+- Spitali rajonal Peshkopi:
+- Blerje materialesh të buta, me fond limit 2 600 000 lekë.
+- Shërbimi i rojeve private, me fond limit 900 000 lekë.
+- Blerje lëndësh djegëse për ngrohje solar, dhe dru zjarri, me fond limit 6 600 000 lekë.
+- Mirëmbajtje të objekteve ndërtimore, me fond limit 4 500 000 lekë.
+- Spitali rajonal Shkodër:
+- Blerje lëndësh djegëse për ngrohje, solar dhe dru zjarri, me fond limit 6 600 000 lekë.
+- Riparim dhe mirëmbajtje të pajisjeve mjekësore.
+- Spitali rajonal Vlorë:
+- Blerje karburanti për ngrohje, me fond limit 3 355 451 lekë.
+- Drejtoria e Shëndetit Publik Kurbin:
+- Blerje solari, me fond limit 1 000 000 lekë.
+- Spitali universitar obsetrik gjinekologjik “Mbretëresha Geraldinë” Tiranë:
+- Blerje buke, me fond limit 400 312 lekë.
+- Mirëmbajtje të aparaturave mjekësore, me fond limit 3 300 000 lekë.
+- Blerje aparaturash mjekësore, me fond limit 20 358 330 lekë.
+Spitali universitar obsetrik gjinekologjik “Koço Gliozheni” Tiranë:
+- F.V. pajisje mjekësore për maternitetin 2-Tiranë, me fond limit 48 920 400 lekë.
+- F.V. pajisje teknologjike për maternitetin 2-Tiranë, me fond limit 19 454 448 lekë.
+- Drejtoria e Shëndetit Publik Has:
+- Blerje pajisjesh hotelerie për spitalin Has.
+- Blerje karburanti për ngrohje.
+- Drejtoria e Shëndetit Publik e qarkut Dibër:
+- Blerje formular pacienti, me fond limit 499 500 lekë.
+- Blerje gazoil D2, me fond limit 680 833 lekë.
+- Drejtoria e Shëndetit Publik Krujë:
+- Blerje solari, me fond limit 600 000 lekë.
+- Mirëmbajtje aparaturash dhe pajisjesh mjekësore, me fond limit 500 000 lekë.
+PROCEDURA TË PËRFUNDUARA NGA MINISTRIA E SHËNDETËSISË (ORGAN QENDROR BLERËS) PËR BOTIM TË NJOFTIMIT TË KONTRATËS SË NËNSHKRUAR NGA INSTITUCIONET
+- Furnizimin e spitaleve me medikamente (metabolizmi, trakti tretës, organeve sensoriale etj.), fondi prej 86 653 209 lekësh.
+- Furnizimin e spitaleve me medikamente (sistemi genito-urinar, hormonale, sistemi kardiovaskular, nervor etj.), me fond limit 84 437 839 lekësh.
+- Furnizimin e spitaleve me medikamente (sistemi psikiatrik, anestezi-reanimacion, respirator, gjaku etj.), me fond limit 93 118 439 lekë.
+- Furnizimin e spitaleve me medikamente (sistemi antiinfektiv, gjaku) me fond limit 92 278 502 lekë.
+- Blerje medikamentesh për nevojat spitalore, të regjistruara për qarkullim në territorin e Shqipërisë nga një kompani e vetme, me fond limit 489 080 200 lekë.
+- Furnizimi i spitaleve me medikamente të ndryshme, me fond limit 85 766 400 lekë.
+- Materiale konsumi (age bende sisteme), fondi limit 97 933 355 lekë.
+- Materiale të ndryshme konsumi mjekësor (imazheri, ortopedi, desinfektantë). Fondi limit 66 722 233 lekë.
+- Penjë qepës kirurgjikalë, me fond limit 80 051 750 lekë.
+- Oksigjen i gaztë dhe protoksid azoti, me fond limit 35 154 900 lekë.
+- Furnizimin e spitaleve me materiale konsumi mjekësor (anestezi, respiracion, drenazh, kirurgji dhe anestezi pediatrike), me fond limit 89 581 600 lekë.
+- Furnizimin e spitaleve me materiale të buta, me fond limit 31 430 700 lekë.
