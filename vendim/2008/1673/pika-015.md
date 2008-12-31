@@ -1,0 +1,2 @@
+15. Përjashtimet nga e drejta e blerjes e kategorisë së personave, në kuptim të nenit 8 të ligjit nr.8386, datë 30.7.1998, verifikohen dhe kontrollohen nga grupi i ekspertëve financiarë, nëpërmjet konsulentëve juridikë, të caktuar nga grupi i mbikëqyrjes i shoqërive huamarrëse.
+Kur konstatohen veprime në kundërshtim me ligjin dhe pasuritë blihen nga kategoria e personave të përjashtuar apo persona të tretë, të autorizuar nga ana e tyre, pasuritë rivihen në shitje dhe vlerat e shitjes së tyre, nuk i rikthehen blerësit, por kalojnë në favor të kreditorëve.

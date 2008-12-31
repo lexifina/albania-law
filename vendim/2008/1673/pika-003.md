@@ -1,0 +1,4 @@
+3. Administratori, para se të fillojë procedura e publikimit të asetit në ankand, kryen këto detyra:
+a) Saktëson, me konsulentët juridikë, pronësinë e pasurisë, që do të shitet.
+b) Cakton grupin e vlerësimit të pasurisë për çdo element të veçantë të pasurisë, që do të shitet. Ky grup, i përbërë nga ekspertë të fushës përkatëse, teknike dhe ekonomike, përgatit raportin e vlerësimit sipas legjislacionit në fuqi dhe metodologjisë e standardeve ndërkombëtare, që zbatohen në këtë fushë, duke përcaktuar vlerën reale të tregut.
+c) Ruan raportin e vlerësimit, ku është i përcaktuar çmimi nga ekspertët vlerësues të licencuar të fushës përkatëse, teknike dhe ekonomike, të autorizuar, i cili për shkak të karakterit konfidencial, nuk përfshihet në dosjen e asetit dhe nuk publikohet. Ky raport publikohet nga administratori vetëm kur hapet ankandi.

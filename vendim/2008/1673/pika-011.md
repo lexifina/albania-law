@@ -1,0 +1,1 @@
+11. Nëse aseti nuk shitet pas zhvillimit, tri herë radhazi të ankandit, atëherë DASHPP-ja, në bashkëpunim me administratorin e shoqërisë huamarrëse, marrin vendim, për të bërë rivlerësimin e asetit nga grupi i ekspertëve vlerësues.

@@ -1,0 +1,1 @@
+16. Të drejtat dhe detyrimet e palëve në procesin e shitjes së pasurive të shoqërive huamarrëse realizohen nëpërmjet kontratës, që DASHPP-ja dhe administratori i shoqërisë huamarrëse lidhin me blerësin.

@@ -1,0 +1,1 @@
+8. Pjesëmarrësit në ankand, pas blerjes së katalogut pranë DASHPP-së, kanë të drejtë të studiojnë dokumentacionin, që ndodhet në dosjen e objektit, me përjashtim të dokumentacionit të vlerësimit të tij.

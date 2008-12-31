@@ -1,0 +1,2 @@
+1. Shitja e objekteve, pasuri e personave, fizikë a juridikë, subjekte të ligjit nr.8227, datë 30.7.1997, si dhe e pasurive të ish-presidentëve e të pjesëtarëve të familjeve të tyre dhe të personave të tjerë, të deklaruar të lidhur me ta, bëhet në lekë dhe në valutë të huaj.
+Komisioni i ankandit, për shitjen e pasurive, nuk do të pranojë shkëmbimin e vlerës së pasurive, me atë, që rezulton nga kontrata e huadhënies së lidhur, nëpërmjet subjektit të kontrollit dhe kreditorëve të tyre.

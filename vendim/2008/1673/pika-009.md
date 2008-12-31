@@ -1,0 +1,2 @@
+9. Ankandi i shitjes zhvillohet në mjediset e DASHPP-së, në qytetin e Tiranës. Ofertat e paraqitura pranohen gjatë të gjitha ditëve të javës, me zarfe të mbyllura, të noterizuara nga noteri. Pasi protokollohen nga sekretarja e komisionit, vendosen nga vetë ofertuesit, në kutinë e pranimit të ofertave, e cila është e kyçur, e vulosur, dhe mbahet nga sekretarja e komisionit të ankandit.
+Në të gjitha rastet, pasuritë e shoqërive huamarrëse në administrim nuk lejohen të shiten nën çmimin e raportit të vlerësimit, të përcaktuar nga ekspertët vlerësues.
