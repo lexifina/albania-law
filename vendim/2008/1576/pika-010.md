@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Metrologjisë bashkëpunon dhe shkëmben informacion me strukturat e pushtetit vendor, bashkitë dhe komunat, për zbatimin e ligjshmërisë dhe ekzekutimin e gjobave ndaj subjekteve, që kanë kryer kundërvajtje administrative në fushën e metrologjisë.

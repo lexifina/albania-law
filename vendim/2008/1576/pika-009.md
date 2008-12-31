@@ -1,0 +1,1 @@
+9. Veprimtaria për krijimin, ruajtjen dhe transmetueshmërinë e etaloneve kombëtare të matjeve, e cila kryhet në laboratorët e Drejtorisë së Përgjithshme të Metrologjisë apo jashtë saj, financohet nga Buxheti i Shtetit.
