@@ -1,0 +1,2 @@
+1. Lejimin e njësive të qeverisjeve vendore, komuna/bashki, t’i përfundojnë procedurat e prokurimit, për ndërtimin dhe rikonstruksionin e objekteve të shërbimit parësor, me fondet e grantit konkurrues, të parashikuara në Buxhetin e Shtetit të vitit 2008, sipas aneksit 1, që i bashkëlidhet këtij vendimi, brenda datës 31 dhjetor 2008.
+Brenda këtij afati përfshihen edhe publikimi i fituesit dhe njoftimi, në Buletinin e Njoftimeve Publike, i kontratës së nënshkruar, i ekzekutimit të punimeve të ndërtimit e i financimit të tyre.
