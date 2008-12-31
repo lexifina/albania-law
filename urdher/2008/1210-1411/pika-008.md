@@ -1,0 +1,1 @@
+8. Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletore Zyrtare.
