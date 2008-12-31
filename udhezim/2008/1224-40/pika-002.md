@@ -1,0 +1,1 @@
+2. Tirana International Airport (TIA), në zbatim të Marrëveshjes së koncesionit dhe këtij udhëzimi, kryen të gjitha procedurat për regjistrimin e kësaj tarifie shërbimi në sistmein e IATA-s. Pas këtij regjistrimi, çdo shoqëri ajrore, në momentin e shitjes së biletave, duhet t’i shtojë vlerës së biletës, si dhe ta pasqyrojë në të, edhe vlerën e kësaj tarife shërbimi.
