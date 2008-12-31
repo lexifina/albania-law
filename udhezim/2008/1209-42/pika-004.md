@@ -1,0 +1,1 @@
+4. Ministria e Arsimit dhe Shkencës dorëzon në datën 10.12.2008, në formë të shkruar dhe elektronike, listat përfundimtare të kandidatëve fitues sipas programeve përkatëse të studimit, në institucionet publike të arsimit të lartë dhe DAR/ZA. Këto institucione afishojnë menjëherë listat në vende të dukshme në mjediset e tyre.

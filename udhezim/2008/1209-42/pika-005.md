@@ -1,0 +1,14 @@
+5. Regjistrimi i kandidatëve fitues bëhet pranë sekretarive mësimore të institucioneve publike të arsimit të lartë nga data 11.12.2008 deri në datën 16.12.2008. Për regjistrim, kandidati duhet të paraqitet personalisht pranë sekretarive mësimore dhe të dorëzojë dosjen individuale, me dokumentet origjinale të mëposhtme:
+a) Dëftesë pjekurie;
+b) Dokument identifikimi (certifikatë lindjeje me fotografi ose pasaportë). Në dosje të mbahet vetëm certifikata e lindjes me fotografi ose fotokopja e pasaportës;
+c) 2 fotografi;
+d) Mandatarkëtimi i tarifës së regjistrimit prej 1500 lekësh.
+6) Në rast se kandidatët fitues nuk kanë dëftesë pjekurie origjinale të kërkuar në pikën 5/a të mësipërme, të paraqesin dublikatën e dëftesës së pjekurisë së lëshuar nga drejtoria e shkollës së mesme dhe të vërtetuar nga drejtoria arsimore rajonale/zyra arsimore përkatëse.
+Këta kandidatë të evidentohen edhe në lista të veçanta nga sekretaritë mësimore të institucioneve publike të arsimit të lartë, të cilat të dërgohen në Ministrinë e Arsimit dhe të Shkencës. Pas verifikimit të bërë nga Ministria e Arsimit dhe e Shkencës, të bëhet regjistrimi përfundimtar nga sekretaritë mësimore të institucioneve publike të arsimit të lartë.
+7. Sekretaria mësimore e pajis kandidatin që regjistrohet me një fletëregjistrimi, ku të shënohet numri i regjistrimit, emri i kandidatit, si dhe data dhe ora e regjistrimit. Fletëregjistrimi duhet të jetë i nënshkruar nga dekani dhe kryesekretarja mësimore e fakultetit, e vulosur.
+8. Në kryerjen e procedurës së regjistrimit të kandidatëve fitues, sekretaritë mësimore të institucioneve publike të arsimit të lartë regjistrojnë studentët në regjistrin bazë të studentëve, në bazë të udhëzimit të Ministrisë së Arsimit dhe Shkencës nr.19, datë 18.7.2007 “Për gjenerimin dhe dhënien e numrave të matrikullimit”.
+9. Pas përfundimit të procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në MASH dhe në APRIAL listat përfundimtare origjinale të përgatitura nga APRIAL me regjistrimet e kryera, në formë të shkruar dhe elektronike brenda datës 18.12.2008.
+10. Institucionet publike të arsimit të lartë nga data 10.12.2008 t’i shpallin në vende të dukshme në mjediset e tyre, datat dhe oraret e veprimeve të regjistrimit, procedurat përkatëse, listën e dokumenteve të nevojshme për regjistrim, si dhe të dhëna të tjera që i gjykojnë të nevojshme për sigurimin e ecurisë normale të procesit të pranimeve në ciklin e parë të studimeve me kohë të plotë, në institucionet publike të arsimit të lartë.
+11. Këto njoftime të bëhen publike edhe në median e shkruar dhe elektronike nga institucionet publike të arsimit të lartë.
+12. Ngarkohen për zbatimin e këtij udhëzimi Zëvendësministri për Arsimin e Lartë, sekretari i përgjithshëm, Drejtoria e Politikave të Arsimit të Lartë, APRIAL, institucionet publike të arsimit të lartë dhe DAR/ZA.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
