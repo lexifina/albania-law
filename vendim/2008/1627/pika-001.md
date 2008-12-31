@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës t’i përfundojë, deri më 31 dhjetor 2008, procedurat e prokurimit, për tenderin, me objekt “Blerje karburanti”, me fondet buxhetore të shpenzimeve, të parashikuara në Buxhetin e Shtetit të vitit 2008.
+Brenda këtij afati të përfshihen lidhja e kontratës përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
