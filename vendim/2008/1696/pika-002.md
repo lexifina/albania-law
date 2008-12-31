@@ -1,0 +1,1 @@
+2. Agjencia e Kthimit dhe Kompensimit të Pronave, pasi të bëjë verifikimin përfundimtar të pronësisë së truallit për objektet, përbërëse të fondit të mësipërm, ta përdorë fondin për kompensimin e pronarëve, sipas kritereve të përcaktuara në ligj.

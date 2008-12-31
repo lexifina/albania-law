@@ -1,0 +1,1 @@
+1. Kalimin në fondin e kompensimit fizik dhe vënien në dispozicion të Agjencisë së Kthimit dhe Kompensimit të Pronave të 32 objekteve shtetërore të “Aibminiera” sha-së dhe të Shërbimit Gjeologjik Shqiptar, sipas listës, që i bashkëlidhet ketij vendimi.
