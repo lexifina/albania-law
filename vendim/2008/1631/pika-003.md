@@ -1,0 +1,1 @@
+3. “Parku Kombëtar” Bredhi i Hotovës-Dangëlli ka një sipërfaqe të përgjithshme 34 361.05 (tridhjetë e katër mijë e treqind e gjashtëdhjetë e një presje zero pesë) ha, ku pjesën kryesore të territorit e zënë sipërfaqet pyjore, të ndjekura nga sipërfaqet kullosore, bujqësore, joprodhuese, shkëmbore dhe sipërfaqe troje, sipas tabelës, që i bashkëlidhet këtij vendimi.
