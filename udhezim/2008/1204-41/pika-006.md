@@ -1,0 +1,1 @@
+6. Kandidatët që do të regjistrohen në programet e studimit të ciklit të parë me kohë të pjesshme, në një program të dytë studimi, të dorëzojnë në sekretaritë mësimore diplomën e lëshuar nga një institucion i arsimit të lartë (ose fotokopje të saj të noterizuar) ose diplomë tjetër studimi të fituar jashtë vendit, të vlerësuar e barasvlefshme me të.

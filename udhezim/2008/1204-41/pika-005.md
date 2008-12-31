@@ -1,0 +1,1 @@
+5. Në qoftë se kandidati fitues nuk ka dëftesë pjekurie origjinale, siç përcaktohet në pikën 4/a të udhëzimit, duhet të paraqesë dublikatë të dëftesës së pjekurisë, të lëshuar nga drejtoria e shkollës së mesme dhe të vërtetuar në drejtorinë arsimore rajonale/zyra arsimore përkatëse.

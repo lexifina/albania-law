@@ -1,0 +1,1 @@
+2. Njësitë kryesore të institucioneve publike të arsimit të lartë organizojnë procesin e pranimit dhe të regjistrimit të kandidatëve në programet e studimit të ciklit të parë me kohë të pjesshme. Procesi të monitorohet nga administrata e Rektoratit dhe e Ministrisë së Arsimit dhe Shkencës.

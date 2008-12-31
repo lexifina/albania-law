@@ -1,0 +1,1 @@
+9. Institucionet publike të arsimit të lartë t’i shpallin dhe t’i afishojnë listat e kandidatëve fitues në vende të dukshme, në mjediset e njësive kryesore përkatëse, brenda orës 12.00 të datës 15.12.2008, të ndarë sipas programeve të studimit përkatës.

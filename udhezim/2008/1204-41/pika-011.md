@@ -1,0 +1,1 @@
+11. Pas mbylljes së procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në Ministrinë e Arsimit dhe Shkencës, listat përfundimtare të kandidatëve fitues të regjistruar në datën 22.12.2008.

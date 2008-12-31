@@ -1,0 +1,1 @@
+10. Regjistrimi i kandidatëve në programet e studimit me kohë të pjesshme ku janë shpallur fitues të zhvillohet nga data 15.12.2008 deri në datën 19.12.2008, prej orës 8.00 deri në orën 16.00, pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë. Dokumentet e aplikantëve jofitues t’u kthehen personave kundrejt kërkesës.

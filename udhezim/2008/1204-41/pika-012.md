@@ -1,0 +1,1 @@
+12. Kuotat e pranimeve në studimet e ciklit të parë me kohë të pjesshme, të përcaktuara në pikën 1 të vendimit të Këshillit të Ministrave nr.1549, datë 19.11.2008, që mbeten të parealizuara, rishpërndahen sipas institucioneve publike të arsimit të lartë dhe programeve të ndryshme të studimit nga Ministria e Arsimit dhe Shkencës.

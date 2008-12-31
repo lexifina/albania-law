@@ -1,0 +1,1 @@
+3. Institucionet publike të arsimit të lartë të shpallin menjëherë hapjen e procedurës së pranimit të kërkesave për kandidatët që dëshirojnë të vijojnë programet e studimit të ciklit të parë me kohë të pjesshme.
