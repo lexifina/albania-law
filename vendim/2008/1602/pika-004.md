@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, 18 598 460 (tetëmbëdhjetë milionë e pesëqind e nëntëdhjetë e tetë mijë e katërqind e gjashtëdhjetë) lekë, të përballohet nga llogaria e veçantë e Ministrisë së Financave në Bankën e Shqipërisë “Fondi i shpronësimeve”, të parashikuar për shpronësimin e unazës Shkodër.

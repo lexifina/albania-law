@@ -1,0 +1,48 @@
+# Shtojca
+LISTA E 4 FAMILJEVE TË FSHATRAVE ZALL-MNER DHE BULÇESH,
+TË CILAT KOMPENSOHEN SI REZULTAT I NDëRTIMIT TË UJËMBLEDHËSIT Të BOVILLËS
+Nr.
+Pronari
+Sip.
+tokë arë
+Çmimi
+Vlera lekë
+Fshati
+Emri
+Atësia
+Mbiemri
+1
+Baftjar
+Ramazan
+Ademi
+7360
+626
+4607360
+ZALL-MNER
+2
+Ramazan
+Asllan
+Ruçi
+5400
+626
+3380400
+ZALL-MNER
+3
+Xhemal
+Hider
+Cali
+10070
+626
+6303820
+BULÇESH
+4
+Besim
+Aruç
+Hoxha
+6880
+626
+4306880
+BULÇESH
+TOTALI
+29710
+18598460
