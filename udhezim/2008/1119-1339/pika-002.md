@@ -1,0 +1,1 @@
+2. Njohja dhe ekuivalentimi i diplomave, certifikatave dhe dëshmive të fituara nga programet e trajnimit jashtë shtetit nga punonjësit e Policisë së Shtetit, bëhet nga Komisioni i Posaçëm për Ekuivalentimin e Trajnimeve të Kryera Jashtë Shtetit nga Punonjësit e Policisë (KPE), i cili ngrihet dhe funksionon pranë Departamentit për Trajnimin Policor (DTP).
