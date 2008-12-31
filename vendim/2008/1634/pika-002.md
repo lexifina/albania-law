@@ -1,0 +1,1 @@
+2. Ngritjen, pranë Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, të komisionit të vlerësimit të mbarështimit dhe ruajtjes së rezervës gjenetike të buajve, veprimtaria e të cilit rregullohet me akt nënligjor të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
