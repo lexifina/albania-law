@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Ujësjellës-kanalizimeve, të bashkive, komunave dhe këshillit të qarkut të Dibrës të shtyjnë afatin e botimit të njoftimit të fituesit dhe të njoftimit të kontratës së lidhur, deri më 31 dhjetor 2008, për procedurat e prokurimit të fondeve buxhetore të investimeve, për 16 objekte, sipas listës, që i bashkëlidhet këtij vendimi.
