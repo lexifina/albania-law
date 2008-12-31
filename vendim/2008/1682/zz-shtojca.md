@@ -1,0 +1,4330 @@
+# Shtojca
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Bashkia: Sarande, Fshati-Metoq
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE_KRANE_KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are, Truall
+Nr.
+PRONAR
+Toke Are
+Truall
+Vlera Totale
+Shenime
+Emri
+Atesia
+Mbiemri
+Nr. i pasurise
+Sip. m2
+Cmimi m2
+Vlera ne leke
+Sip. m2
+Cmimi m2
+Vlera ne leke
+1
+Daut
+Brinja
+117
+120
+1584
+190080
+190080
+Konfirmuar nga ZRPP
+2
+Mendor
+Xhemali
+127
+96
+125.5
+12048
+12048
+Konfirmuar nga ZRPP
+3
+Spiro
+Peko
+119
+160
+125.5
+20080
+20080
+Konfirmuar nga ZRPP
+4
+Ilirian
+Petko
+118
+64
+125.5
+8032
+8032
+Konfirmuar nga ZRPP
+5
+Harillo
+Gjika
+121
+96
+125.5
+12048
+12048
+Konfirmuar nga ZRPP
+6
+Lekgjon
+Bello
+125
+40
+125.5
+5020
+5020
+Konfirmuar nga ZRPP
+7
+Robert
+Haxhi
+130
+56
+1584
+88704
+88704
+Konfirmuar nga ZRPP
+TOTALI
+456
+57228
+176
+278784
+336012
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Komuna: Xare, Fshati-Shkalle
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE_KRANE_KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are, Truall
+Nr.
+PRONAR
+Toke Are
+Truall
+Vlera
+Shenime
+Totale
+Emri
+Atesia
+Mbiemri
+Nr. pas
+Sip. m2
+Cmimi m2
+Vlera ne leke
+Sip. m2
+Cmimi m2
+Vlera ne leke
+1
+Thanas
+Jorgji
+Shaka
+46
+42
+1087
+45654
+45654
+KONFIRMUAR NGA ZRPP
+2
+Dhimitraq
+Stavro
+Bushi
+100
+24
+1087
+26088
+26088
+KONFIRMUAR NGA ZRPP
+3
+Spiro
+Stavro
+Bushi
+102
+17
+1087
+18479
+18479
+KONFIRMUAR NGA ZRPP
+4
+Zenel
+Mustafa
+Rexhepi
+254
+35
+1087
+38045
+38045
+KONFIRMUAR NGA ZRPP
+6
+Andrea
+Ilia
+Kaca
+305
+100
+1087
+108700
+108700
+KONFIRMUAR NGA ZRPP
+7
+Leonidha
+Jorgji
+Demiri
+363
+314
+88.6
+27820.4
+27820.4
+KONFIRMUAR NGA ZRPP
+8
+Spiro
+Kostandin
+Poci
+364
+720
+88.6
+63792
+63792
+KONFIRMUAR NGA ZRPP
+9
+Andrea
+Ilia
+Kaca
+377
+16
+88.6
+1417.6
+1417.6
+KONFIRMUAR NGA ZRPP
+10
+Petro
+Ilia
+Kaca
+381
+401
+88.6
+35528.6
+35528.6
+KONFIRMUAR NGA ZRPP
+11
+Dhimitraq
+Kaca
+382
+494
+88.6
+43768.4
+43768.4
+KONFIRMUAR NGA ZRPP
+12
+Vasillaq
+Tore
+385
+743
+88.6
+65829.8
+65829.8
+KONFIRMUAR NGA ZRPP
+13
+Mihal
+Ziko
+Dhima
+389
+416
+88.6
+36857.6
+36857.6
+KONFIRMUAR NGA ZRPP
+14
+Alush
+Daut
+Velo
+393
+411
+88.6
+36414.6
+36414.6
+KONFIRMUAR NGA ZRPP
+15
+Shefki
+Xhemo
+Taka
+396
+340
+88.6
+30124
+30124
+KONFIRMUAR NGA ZRPP
+16
+Jorgo
+Anagnosti
+399
+150
+88.6
+13290
+13290
+KONFIRMUAR NGA ZRPP
+17
+Leonidha
+Sterjo
+Shengjergji
+402
+1151
+88.6
+101978.6
+101978.6
+KONFIRMUAR NGA ZRPP
+18
+Vangjel
+Thoma
+Bushi
+405
+310
+88.6
+27466
+27466
+KONFIRMUAR NGA ZRPP
+19
+Miho
+Jorgji
+Shengjergji
+459/1
+724
+88.6
+64146.4
+64146.4
+KONFIRMUAR NGA ZRPP
+20
+Janaq
+Miho
+Shengjergji
+459/2
+414
+88.6
+36680.4
+36680.4
+KONFIRMUAR NGA ZRPP
+21
+Spiro
+Purriqi
+461
+16
+88.6
+1417.6
+1417.6
+KONFIRMUAR NGA ZRPP
+22
+Thodhoraq
+Purriqi
+462
+177
+88.6
+15682.2
+15682.2
+KONFIRMUAR NGA ZRPP
+23
+Sotir
+Purriqi
+463
+74
+88.6
+6556.4
+6556.4
+KONFIRMUAR NGA ZRPP
+24
+Petro
+Sterjo
+Shengjergji
+464
+119
+88.6
+10543.4
+10543.4
+KONFIRMUAR NGA ZRPP
+25
+Kristo
+Pano
+Bakalli
+465
+185
+88.6
+16391
+16391
+KONFIRMUAR NGA ZRPP
+26
+Selfi
+Merxha
+Taka
+478
+489
+88.6
+43325.4
+43325.4
+KONFIRMUAR NGA ZRPP
+27
+Zenel
+Mustafa
+Rexhepi
+479/3&4
+687
+88.6
+60868.2
+60868.2
+KONFIRMUAR NGA ZRPP
+28
+Sotir
+Mara
+483
+130
+88.6
+11518
+11518
+KONFIRMUAR NGA ZRPP
+29
+Muharrem
+Hygo
+Hysa
+518
+582
+88.6
+51565.2
+51565.2
+KONFIRMUAR NGA ZRPP
+30
+Rexhep
+Daut
+Velo
+521
+438
+88.6
+38806.8
+38806.8
+KONFIRMUAR NGA ZRPP
+31
+Rexhep
+Daut
+Velo
+522
+745
+88.6
+66007
+66007
+KONFIRMUAR NGA ZRPP
+32
+Vexhi
+Neshat
+Muderizi
+523
+623
+88.6
+55197.8
+55197.8
+KONFIRMUAR NGA ZRPP
+33
+Enver
+Riza
+Avduli
+524
+1634
+88.6
+144772.4
+144772.4
+KONFIRMUAR NGA ZRPP
+34
+Hekuran
+Sulejman
+Hodo
+525
+660
+88.6
+58476
+58476
+KONFIRMUAR NGA ZRPP
+35
+Brahim
+Sulejman
+Hodo
+526
+425
+88.6
+37655
+37655
+KONFIRMUAR NGA ZRPP
+36
+Nikolla
+Aleks
+Dhima
+527
+115
+88.6
+10189
+10189
+KONFIRMUAR NGA ZRPP
+37
+Mihal
+Thodhoraq
+Mejdi
+556
+1690
+88.6
+149734
+149734
+KONFIRMUAR NGA ZRPP
+38
+Thodhoraq
+Vangjel
+Mejdi
+557
+175
+88.6
+15505
+15505
+KONFIRMUAR NGA ZRPP
+TOTALI
+15568
+1379324.8
+218
+236966
+1616290.8
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Komuna: Aliko, Fshatrat-Rahulle-Jerme
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE_KRANE_KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are
+Nr.
+PRONAR
+Toke Are
+Vlera
+Shenime
+Totale
+Emri
+Atesia
+Mbiemri
+Nr. pas
+Sip. m2
+Cmimi m2
+Vlera ne leke
+1
+5 Bashkepronare
+217
+2268
+103.6
+234964.8
+234964.8
+Konfirmuar nga ZRPP
+1
+6 Bashkeprona
+229
+1721
+137
+236465.4
+236465.4
+Konfirmuar nga ZRPP
+2
+Dhimiter Ilia Nikolla
+J. V. J.
+Pando Mitro Thanasi
+482
+563
+137
+77356.2
+77356.2
+Konfirmuar nga ZRPP
+TOTALI
+4552
+548786.4
+548786.4
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Komuna: Livadhia, Fshatrat-Kullurice-Livadhia-Sopik-Vagalat
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE-KRANE-KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are, Truall
+Nr.
+PRONAR
+Toke Are
+Truall
+Vlera Totale
+Shenime
+Emri
+Atesia
+Mbiemri
+Nr. pas
+Sip. m2
+Cmimi m2
+Vlera ne leke
+Sip. m2
+Cmimi m2
+Vlera ne leke
+1
+Thoma
+Gligor
+Voda
+137
+968
+183.5
+177628
+177628
+Konfirmuar nga ZRPP
+2
+Spiro
+Sotir
+Voda
+391
+105
+183.5
+19267.5
+19267.5
+Konfirmuar nga ZRPP
+3
+Harallamb
+Thoma
+Pandeqi
+443
+110
+183.5
+20185
+20185
+Konfirmuar nga ZRPP
+4
+Aristotel
+Jorgo
+Kribura
+462
+374
+183.5
+68629
+68629
+Konfirmuar nga ZRPP
+5
+Llambi
+Sotir
+Kribura
+479
+172
+183.5
+31562
+31562
+Konfirmuar nga ZRPP
+6
+Harallamb
+Thoma
+Pandeqi
+551
+0
+74
+1716
+126984
+126984
+Konfirmuar nga ZRPP
+7
+Llambi
+Miho
+Voda
+603
+542
+183.5
+99457
+99457
+Konfirmuar nga ZRPP
+8
+Vasil
+Miho
+Voda
+621
+756
+183.5
+138726
+138726
+Konfirmuar nga ZRPP
+9
+Jani
+Koci
+Naci
+649
+1322
+183.5
+242587
+242587
+Konfirmuar nga ZRPP
+10
+Vangjel
+Foto
+Gligor
+Gligor
+Voda
+Voda
+675
+1224
+183.5
+224604
+224604
+Konfirmuar nga ZRPP
+11
+Andon
+Vangjel
+Voda
+712
+710
+183.5
+130285
+130285
+Konfirmuar nga ZRPP
+12
+176 Bashkpron
+731
+1203
+183.5
+220750.5
+220750.5
+Konfirmuar nga ZRPP
+1
+Foto
+Kola
+Qirjazati
+1/2
+108
+83.8
+9050.4
+9050.4
+Konfirmuar nga ZRPP
+2
+Stefan
+Joti
+6/1
+142
+83.8
+11899.6
+11899.6
+Konfirmuar nga ZRPP
+3
+Jorgo
+Mitro
+6/2
+140
+83.8
+11732
+11732
+Konfirmuar nga ZRPP
+4
+Nasho
+Pandeqi
+6/3
+502
+83.8
+42067.6
+42067.6
+Konfirmuar nga ZRPP
+5
+Lame
+Haki
+Jupe
+6/4
+670
+83.8
+56146
+56146
+Konfirmuar nga ZRPP
+6
+Fejzo i
+Beqir
+Tahir
+6/5
+810
+83.8
+67878
+67878
+Konfirmuar nga ZRPP
+7
+Anastas
+Pando
+6/6
+462
+83.8
+38715.6
+38715.6
+Konfirmuar nga ZRPP
+8
+Kico
+Mitro
+6/7
+302
+83.8
+25307.6
+25307.6
+Konfirmuar nga ZRPP
+9
+Vangjel
+Funda
+6/8
+302
+83.8
+25307.6
+25307.6
+Konfirmuar nga ZRPP
+10
+Kristo
+Jani
+Xhaferri
+7/2
+476
+83.8
+39888.8
+39888.8
+Konfirmuar nga ZRPP
+11
+Mico
+Pilo
+Gjika
+7/3
+251
+83.8
+21033.8
+21033.8
+Konfirmuar nga ZRPP
+12
+Stavro
+Pilo
+Gjika
+7/4
+205
+83.8
+17179
+17179
+Konfirmuar nga ZRPP
+13
+Miltjadh
+Spiro
+Papa
+27/13
+86
+83.8
+7206.8
+7206.8
+Konfirmuar nga ZRPP
+14
+Kico
+Jorgji
+Mari
+27/14
+29
+83.8
+2430.2
+2430.2
+Konfirmuar nga ZRPP
+15
+Vangjel
+Koco
+Kristo
+28/11
+30
+83.8
+2514
+2514
+Konfirmuar nga ZRPP
+16
+Sofokli
+Jotopulli
+28/17
+58
+83.8
+4860.4
+4860.4
+Konfirmuar nga ZRPP
+17
+Ilia
+Spiro
+Shumbuli
+28/14
+110
+83.8
+9218
+9218
+Konfirmuar nga ZRPP
+18
+Odhisea
+Jani
+Ziko
+28/15
+65
+83.8
+5447
+5447
+Konfirmuar nga ZRPP
+19
+Jani
+Jorgo
+Ziko
+28/16
+132
+83.8
+11061.6
+11061.6
+Konfirmuar nga ZRPP
+20
+Nikolla
+Thodhori
+Mako
+29/22
+100
+83.8
+8380
+8380
+Konfirmuar nga ZRPP
+21
+Jorgo
+Thimjo
+Kromidha
+29/24
+0
+150
+1563
+234450
+234450
+Konfirmuar nga ZRPP
+22
+Filip
+Ziso
+Kristopullo
+29/27/2
+300
+83.8
+25140
+25140
+Konfirmuar nga ZRPP
+23
+Koco
+Vasil
+Jorga
+30/54
+31
+83.8
+2597.8
+2597.8
+Konfirmuar nga ZRPP
+24
+Thodhori
+Kola
+Gjika
+30/55
+130
+83.8
+10894
+10894
+Konfirmuar nga ZRPP
+25
+Kristo
+J
+Kaleshi
+30/68
+125
+83.8
+10475
+10475
+Konfirmuar nga ZRPP
+26
+Alqi
+Jorgji
+30/69
+545
+83.8
+45671
+45671
+Konfirmuar nga ZRPP
+27
+Ilia
+Kola
+Koleci
+32/20
+21
+83.8
+1759.8
+1759.8
+Konfirmuar nga ZRPP
+28
+Stefan
+Andrea
+Xhaferri
+32/21
+968
+83.8
+81118.4
+81118.4
+Konfirmuar nga ZRPP
+29
+Kico
+Ilia
+Gremo
+34/2
+1198
+83.8
+100392.4
+100392.4
+Konfirmuar nga ZRPP
+30
+Kosta
+Vasil
+Karathano
+34/3
+302
+83.8
+25307.6
+25307.6
+Konfirmuar nga ZRPP
+31
+Kosta
+Foto
+Xhaferri
+34/4
+74
+83.8
+6201.2
+6201.2
+Konfirmuar nga ZRPP
+32
+Thodhori
+Kola
+Gjika
+70/3
+212
+83.8
+17765.6
+17765.6
+Konfirmuar nga ZRPP
+33
+Ilia
+Kocka
+119/1
+43
+83.8
+3603.4
+3603.4
+Konfirmuar nga ZRPP
+34
+Vangjel
+Funda
+120/1
+9
+83.8
+754.2
+754.2
+Konfirmuar nga ZRPP
+35
+Thanas
+Kito
+120/4
+16
+1563
+25008
+25008
+Konfirmuar nga ZRPP
+36
+Vasil
+Jorgo
+Mako
+144/5
+140
+1563
+218820
+218820
+Konfirmuar nga ZRPP
+37
+Kosta
+Foto
+Xhaferri
+274
+63
+1563
+98469
+98469
+Konfirmuar nga ZRPP
+38
+Dhimiter
+V.
+Karathano
+314
+111
+1563
+173493
+173493
+Konfirmuar nga ZRPP
+39
+Kristo
+Vangjel
+Nano
+316/1
+88
+1563
+137544
+137544
+Konfirmuar nga ZRPP
+40
+Thoma
+Sotir
+Mako
+317/1
+80
+1563
+125040
+125040
+Konfirmuar nga ZRPP
+41
+Spiro
+Mico
+Gremo
+318/2
+33
+83.8
+2765.4
+2765.4
+Konfirmuar nga ZRPP
+42
+Foto
+Kola
+Qirjazo
+320
+28
+83.8
+2346.4
+2346.4
+Konfirmuar nga ZRPP
+43
+Resul
+Belliu
+365
+10
+83.8
+838
+838
+Konfirmuar nga ZRPP
+44
+Beqir
+Beqiri
+368
+19
+83.8
+1592.2
+1592.2
+Konfirmuar nga ZRPP
+45
+Thodhori
+Grigor
+Suloti
+467/1
+662
+83.8
+55475.6
+55475.6
+Konfirmuar nga ZRPP
+46
+Petro Stavro
+Stavro Petro
+Koleci Koleci
+480/11
+1287
+83.8
+107850.6
+107850.6
+Konfirmuar nga ZRPP
+1
+Aleksandra
+N.
+Cepo
+302
+19
+135.2
+2568.8
+2568.8
+Konfirmuar nga ZRPP
+2
+Miltjadh
+S.
+Nikolla
+304
+214
+135.2
+28932.8
+28932.8
+Konfirmuar nga ZRPP
+3
+Nasho
+Ilia
+Grema
+305
+387
+135.2
+52322.4
+52322.4
+Konfirmuar nga ZRPP
+4
+Vangjel
+P.
+Moco
+306
+157
+135.2
+21226.4
+21226.4
+Konfirmuar nga ZRPP
+5
+Hari
+K.
+Kolo
+307
+132
+135.2
+17846.4
+17846.4
+Konfirmuar nga ZRPP
+6
+Ilia
+K.
+Papa
+308
+133
+135.2
+17981.6
+17981.6
+Konfirmuar nga ZRPP
+7
+Sotir
+L.
+Kolo
+322
+682
+135.2
+92206.4
+92206.4
+Konfirmuar nga ZRPP
+8
+Pando
+Vaso
+Jorga
+323
+178
+135.2
+24065.6
+24065.6
+Konfirmuar nga ZRPP
+9
+Niko
+V.
+Gjoka
+327
+50
+135.2
+6760
+6760
+Konfirmuar nga ZRPP
+10
+Cavo
+Th.
+Traka
+525
+374
+135.2
+50564.8
+50564.8
+Konfirmuar nga ZRPP
+11
+Koci
+Ilia
+Gremo
+526
+169
+135.2
+22848.8
+22848.8
+Konfirmuar nga ZRPP
+12
+Cavo
+M.
+Nikollo
+527
+46
+135.2
+6219.2
+6219.2
+Konfirmuar nga ZRPP
+13
+Gaqe
+Sotir
+Papa
+528
+216
+135.2
+29203.2
+29203.2
+Konfirmuar nga ZRPP
+14
+Loli
+S.
+Moco
+529
+131
+135.2
+17711.2
+17711.2
+Konfirmuar nga ZRPP
+15
+52 Bashkprone
+531
+1264
+135.2
+170892.8
+170892.8
+Konfirmuar nga ZRPP
+16
+Thoma
+Vangjel
+Mica
+940
+328
+135.2
+44345.6
+44345.6
+Konfirmuar nga ZRPP
+17
+Niko
+P.
+Pando
+943
+456
+135.2
+61651.2
+61651.2
+Konfirmuar nga ZRPP
+18
+Thoma
+S.
+Papa
+944
+322
+135.2
+43534.4
+43534.4
+Konfirmuar nga ZRPP
+19
+Vaso
+Th.
+Papa
+945
+203
+135.2
+27445.6
+27445.6
+Konfirmuar nga ZRPP
+20
+Pando
+Th.
+Traka
+946
+329
+135.2
+44480.8
+44480.8
+Konfirmuar nga ZRPP
+21
+Shefit
+Ago
+956
+427
+135.2
+57730.4
+57730.4
+Konfirmuar nga ZRPP
+22
+Mondi
+N.
+Papa
+1057
+511
+135.2
+69087.2
+69087.2
+Konfirmuar nga ZRPP
+23
+Vangjel
+Th.
+Pando
+1058
+678
+135.2
+91665.6
+91665.6
+Konfirmuar nga ZRPP
+24
+Loli
+P.
+Moco
+1084
+329
+135.2
+44480.8
+44480.8
+Konfirmuar nga ZRPP
+25
+Ilia
+Thanas
+Barjaba
+1085
+11
+135.2
+1487.2
+1487.2
+Konfirmuar nga ZRPP
+26
+Vaso
+Kico
+Xholla
+1086
+252
+135.2
+34070.4
+34070.4
+Konfirmuar nga ZRPP
+27
+Stavro
+K.
+Mica
+1122
+64
+135.2
+8652.8
+8652.8
+Konfirmuar nga ZRPP
+28
+Thanas
+Hari
+Papa
+1148
+38
+135.2
+5137.6
+5137.6
+Konfirmuar nga ZRPP
+29
+Stefo
+S.
+Bello
+1169
+65
+135.2
+8788
+8788
+Konfirmuar nga ZRPP
+30
+Sotir
+Stefo
+Bello
+1170
+43
+135.2
+5813.6
+5813.6
+Konfirmuar nga ZRPP
+31
+Jani
+Loli
+Kolo
+1171
+98
+135.2
+13249.6
+13249.6
+Konfirmuar nga ZRPP
+32
+Ilia
+K.
+Papa
+1191
+114
+135.2
+15412.8
+15412.8
+Konfirmuar nga ZRPP
+33
+Thoma
+Th.
+Nasto
+1192
+58
+135.2
+7841.6
+7841.6
+Konfirmuar nga ZRPP
+34
+Vasil
+Sotir
+Nikollo
+1193
+94
+135.2
+12708.8
+12708.8
+Konfirmuar nga ZRPP
+35
+Jorgo
+K.
+Xhamo
+1195
+112
+135.2
+15142.4
+15142.4
+Konfirmuar nga ZRPP
+36
+Dhionis
+M.
+Nikollo
+1197
+844
+135.2
+114108.8
+114108.8
+Konfirmuar nga ZRPP
+37
+Thoma
+Th.
+Nasto
+1214
+608
+135.2
+82201.6
+82201.6
+Konfirmuar nga ZRPP
+38
+Loli
+K.
+Mici
+1216
+858
+135.2
+116001.6
+116001.6
+Konfirmuar nga ZRPP
+39
+Loli
+P.
+Xharo
+1218
+285
+135.2
+38532
+38532
+Konfirmuar nga ZRPP
+40
+Rako
+Kolo
+NIno
+1245
+750
+135.2
+101400
+101400
+Konfirmuar nga ZRPP
+41
+Petro
+Papa
+1246
+0
+115
+1297
+149155
+149155
+Konfirmuar nga ZRPP
+42
+Pando
+M.
+Kenini
+1417
+240
+135.2
+32448
+32448
+Konfirmuar nga ZRPP
+43
+Ziso
+V.
+Nino
+1418
+542
+135.2
+73278.4
+73278.4
+Konfirmuar nga ZRPP
+44
+Jani
+Th.
+Papa
+1421
+430
+135.2
+58136
+58136
+Konfirmuar nga ZRPP
+45
+Dhionis
+M.
+Nino
+1423
+572
+135.2
+77334.4
+77334.4
+Konfirmuar nga ZRPP
+46
+Vaso
+K.
+Gjoka
+1426
+241
+135.2
+32583.2
+32583.2
+Konfirmuar nga ZRPP
+47
+Vaso
+S.
+Gjika
+1427
+138
+135.2
+18657.6
+18657.6
+Konfirmuar nga ZRPP
+48
+Vasillaq
+M.
+Nino
+1437
+343
+135.2
+46373.6
+46373.6
+Konfirmuar nga ZRPP
+49
+Thoma
+L.
+Nano
+1442
+781
+135.2
+105591.2
+105591.2
+Konfirmuar nga ZRPP
+50
+Jani
+V.
+Gjoka
+1446
+1071
+135.2
+144799.2
+144799.2
+Konfirmuar nga ZRPP
+51
+Maro
+A.
+Beka
+1447
+1154
+135.2
+156020.8
+156020.8
+Konfirmuar nga ZRPP
+52
+Stavri
+Th.
+Jorgji
+1458
+492
+135.2
+66518.4
+66518.4
+Konfirmuar nga ZRPP
+53
+Yllo
+N.
+Jorgji
+1467
+946
+135.2
+127899.2
+127899.2
+Konfirmuar nga ZRPP
+54
+Pilo
+Q.
+Barjaba
+1470
+568
+135.2
+76793.6
+76793.6
+Konfirmuar nga ZRPP
+55
+Thoma
+Kosta
+Kenini
+1471
+1080
+135.2
+146016
+146016
+Konfirmuar nga ZRPP
+1
+Vangjel
+Vasil
+Loli
+138/1
+384
+103.1
+39590.4
+39590.4
+Konfirmuar nga ZRPP
+2
+Ziso
+Vangjel
+Loli
+138/2
+146
+103.1
+15052.6
+15052.6
+Konfirmuar nga ZRPP
+3
+Spiro
+Nikolla
+Bari
+138/3
+135
+103.1
+13918.5
+13918.5
+Konfirmuar nga ZRPP
+4
+Anastas
+Kosta
+Joti
+138/4
+80
+103.1
+8248
+8248
+Konfirmuar nga ZRPP
+5
+Ajdhon
+Vangjel
+Joti
+138/104
+237
+103.1
+24434.7
+24434.7
+Konfirmuar nga ZRPP
+6
+Kozma
+Thanas
+Prifti
+138/6
+103
+103.1
+10619.3
+10619.3
+Konfirmuar nga ZRPP
+7
+Jorgo
+Anastas
+Loli
+228/3
+375
+103.1
+38662.5
+38662.5
+Konfirmuar nga ZRPP
+8
+Thodhori
+Anastas
+Gravani
+229/1
+514
+103.1
+52993.4
+52993.4
+Konfirmuar nga ZRPP
+9
+Stefan
+Thodhori
+Gravani
+229/2
+530
+103.1
+54643
+54643
+Konfirmuar nga ZRPP
+10
+Zoi
+Kico
+Karkashina
+230/1
+43
+103.1
+4433.3
+4433.3
+Konfirmuar nga ZRPP
+11
+Lefter
+Mitro
+Gravani
+230/2
+66
+103.1
+6804.6
+6804.6
+Konfirmuar nga ZRPP
+12
+Ajdhon
+Kosta
+Sotiri
+230/3
+148
+103.1
+15258.8
+15258.8
+Konfirmuar nga ZRPP
+13
+Jorgo
+Kosta
+Karkashina
+230/4
+119
+103.1
+12268.9
+12268.9
+Konfirmuar nga ZRPP
+14
+Mico
+Vangjel
+Nasho
+230/5
+176
+103.1
+18145.6
+18145.6
+Konfirmuar nga ZRPP
+15
+Petro
+Kosta
+Karkashina
+230/6
+340
+103.1
+35054
+35054
+Konfirmuar nga ZRPP
+16
+Lefter
+Kosta
+Bari
+242/1
+111
+103.1
+11444.1
+11444.1
+Konfirmuar nga ZRPP
+17
+Petro
+Lefter
+Bari
+242/2
+62
+103.1
+6392.2
+6392.2
+Konfirmuar nga ZRPP
+18
+Vasil
+Thoma
+Kallanxhi
+242/3
+60
+103.1
+6186
+6186
+Konfirmuar nga ZRPP
+19
+Ristan
+Kumaraku
+242/4
+119
+103.1
+12268.9
+12268.9
+Konfirmuar nga ZRPP
+20
+Jaras
+Lefter
+Dalla
+242/5
+77
+103.1
+7938.7
+7938.7
+Konfirmuar nga ZRPP
+21
+Lutfi
+Omer
+Balani
+242/6
+98
+103.1
+10103.8
+10103.8
+Konfirmuar nga ZRPP
+22
+Rauf
+Memlikaj
+242/7
+66
+103.1
+6804.6
+6804.6
+Konfirmuar nga ZRPP
+23
+Ilia
+Mico
+Cavo
+242/8
+112
+103.1
+11547.2
+11547.2
+Konfirmuar nga ZRPP
+24
+Kosta
+Mitro
+Koci
+248/6
+512
+103.1
+52787.2
+52787.2
+Konfirmuar nga ZRPP
+25
+88 Bashkprone
+253
+103
+103.1
+10619.3
+10619.3
+Konfirmuar nga ZRPP
+26
+37 Bashkprone
+254
+102
+103.1
+10516.2
+10516.2
+Konfirmuar nga ZRPP
+27
+Vangjel
+Nikolla
+Karkashina
+256/1/2
+1058
+103.1
+109079.8
+109079.8
+Konfirmuar nga ZRPP
+28
+Stefan
+Spiro
+Kallanxhi
+256/2
+315
+103.1
+32476.5
+32476.5
+Konfirmuar nga ZRPP
+29
+Spiro
+Nikolla
+Karkashina
+291/1
+200
+103.1
+20620
+20620
+Konfirmuar nga ZRPP
+30
+Kozma
+Thanas
+Prifti
+291/2
+147
+103.1
+15155.7
+15155.7
+Konfirmuar nga ZRPP
+31
+Perikli
+Vangjel
+Bari
+291/4
+114
+103.1
+11753.4
+11753.4
+Konfirmuar nga ZRPP
+32
+Dhosi
+Ilia
+Bari
+291/5
+217
+103.1
+22372.7
+22372.7
+Konfirmuar nga ZRPP
+33
+Ajdhon
+Ziso
+Karkashina
+291/6
+173
+103.1
+17836.3
+17836.3
+Konfirmuar nga ZRPP
+34
+Dhimitri
+Kosta
+Cavo
+295/16
+107
+103.1
+11031.7
+11031.7
+Konfirmuar nga ZRPP
+35
+Spiro
+Foto
+Gravani
+295/17
+88
+103.1
+9072.8
+9072.8
+Konfirmuar nga ZRPP
+36
+Ziso
+Loli
+Cero
+295/18
+75
+103.1
+7732.5
+7732.5
+Konfirmuar nga ZRPP
+37
+Spiro
+Ziso
+Karkashina
+298/1
+244
+103.1
+25156.4
+25156.4
+Konfirmuar nga ZRPP
+38
+Kristo
+Kosta
+Gaxo
+298/2
+103
+103.1
+10619.3
+10619.3
+Konfirmuar nga ZRPP
+39
+Odhisea
+Stefan
+Joti
+298/3
+121
+103.1
+12475.1
+12475.1
+Konfirmuar nga ZRPP
+40
+Mite
+Lili
+Nushi
+298/4
+74
+103.1
+7629.4
+7629.4
+Konfirmuar nga ZRPP
+41
+Ajdhon
+Nikolla
+Bari
+298/5
+61
+103.1
+6289.1
+6289.1
+Konfirmuar nga ZRPP
+42
+Dhosi
+Kosta
+Loli
+298/6
+100
+103.1
+10310
+10310
+Konfirmuar nga ZRPP
+43
+Miço
+Vangjel
+Nasho
+301/2
+276
+103.1
+28455.6
+28455.6
+Konfirmuar nga ZRPP
+44
+Thodhori
+Anastas
+Gravani
+306/1
+179
+103.1
+18454.9
+18454.9
+Konfirmuar nga ZRPP
+45
+Mihal
+Spiro
+Cavo
+306/2
+78
+103.1
+8041.8
+8041.8
+Konfirmuar nga ZRPP
+46
+Spiro
+Vangjel
+Nasho
+306/3
+56
+103.1
+5773.6
+5773.6
+Konfirmuar nga ZRPP
+47
+Sotir
+Loli
+Joti
+306/4
+62
+103.1
+6392.2
+6392.2
+Konfirmuar nga ZRPP
+48
+Kristo
+Zoi
+Karkashina
+306/5
+32
+103.1
+3299.2
+3299.2
+Konfirmuar nga ZRPP
+49
+Niko
+Kosta
+Gravani
+306/6
+39
+103.1
+4020.9
+4020.9
+Konfirmuar nga ZRPP
+50
+Thodhori
+Astrit
+Mehmeti
+306/7
+56
+103.1
+5773.6
+5773.6
+Konfirmuar nga ZRPP
+51
+Sevasti
+Vangjel
+Karkashina
+306/8
+31
+103.1
+3196.1
+3196.1
+Konfirmuar nga ZRPP
+52
+Jorgo
+Anastas
+Loli
+309/4
+8
+103.1
+824.8
+824.8
+Konfirmuar nga ZRPP
+53
+Thoma
+Vasil
+Nasho
+309/5
+35
+103.1
+3608.5
+3608.5
+Konfirmuar nga ZRPP
+54
+Antigoni
+Vasil
+Joti
+309/6
+46
+103.1
+4742.6
+4742.6
+Konfirmuar nga ZRPP
+55
+Arqile
+Jorgji
+Karkashina
+309/7
+28
+103.1
+2886.8
+2886.8
+Konfirmuar nga ZRPP
+56
+Spiro
+Qirjo
+Feshta
+312/1
+49
+103.1
+5051.9
+5051.9
+Konfirmuar nga ZRPP
+57
+Ajdhon
+Foto
+Gravani
+312/2
+69
+103.1
+7113.9
+7113.9
+Konfirmuar nga ZRPP
+58
+Spiro
+Vasil
+Rizo
+312/3
+126
+103.1
+12990.6
+12990.6
+Konfirmuar nga ZRPP
+59
+Irakli
+Kico
+Gaxo
+312/19
+164
+103.1
+16908.4
+16908.4
+Konfirmuar nga ZRPP
+60
+Spiro
+Thoma
+Koci
+312/21
+144
+103.1
+14846.4
+14846.4
+Konfirmuar nga ZRPP
+61
+Kico
+Ilia
+Cavo
+312/28
+98
+103.1
+10103.8
+10103.8
+Konfirmuar nga ZRPP
+62
+Marko
+Spiro
+Roshi
+312/29
+120
+103.1
+12372
+12372
+Konfirmuar nga ZRPP
+63
+Thodhori
+Vangjel
+Karkashina
+312/33/1
+53
+103.1
+5464.3
+5464.3
+Konfirmuar nga ZRPP
+64
+Jorgo
+Spiro
+Kallanxhi
+312/37
+67
+103.1
+6907.7
+6907.7
+Konfirmuar nga ZRPP
+65
+Kosta
+Jorgji
+Gravani
+312/38
+114
+103.1
+11753.4
+11753.4
+Konfirmuar nga ZRPP
+66
+Ilia
+Vasil
+Bari
+312/39
+99
+103.1
+10206.9
+10206.9
+Konfirmuar nga ZRPP
+67
+Stafan
+Spiro
+Kallanxhi
+312/41
+126
+103.1
+12990.6
+12990.6
+Konfirmuar nga ZRPP
+68
+Ilia
+Aleks
+Kallanxhi
+312/42
+73
+103.1
+7526.3
+7526.3
+Konfirmuar nga ZRPP
+69
+Ajdhon
+Jorgji
+Karkashina
+316/3
+452
+103.1
+46601.2
+46601.2
+Konfirmuar nga ZRPP
+70
+Mite
+Lili
+Nushi
+316/4
+207
+103.1
+21341.7
+21341.7
+Konfirmuar nga ZRPP
+71
+Gligor
+Themistokli
+Meci
+317
+316
+103.1
+32579.6
+32579.6
+Konfirmuar nga ZRPP
+72
+Gligor
+Themistokli
+Meci
+318/1
+122
+103.1
+12578.2
+12578.2
+Konfirmuar nga ZRPP
+73
+Foto
+Vasil
+Bari
+320
+248
+103.1
+25568.8
+25568.8
+Konfirmuar nga ZRPP
+74
+Vangjel
+Bari
+321/2
+16
+103.1
+1649.6
+1649.6
+Konfirmuar nga ZRPP
+75
+Thodhori
+Vangjel
+Karkashina
+321/4
+24
+103.1
+2474.4
+2474.4
+Konfirmuar nga ZRPP
+76
+Anastas
+Kosta
+Loli
+323/1
+35
+103.1
+3608.5
+3608.5
+Konfirmuar nga ZRPP
+77
+Kosta
+Petro
+Gravanji
+323/2
+24
+103.1
+2474.4
+2474.4
+Konfirmuar nga ZRPP
+78
+Filip
+Vasil
+Karkashina
+323/3
+31
+103.1
+3196.1
+3196.1
+Konfirmuar nga ZRPP
+79
+Kico
+Cavo
+Gravanji
+323/4
+37
+103.1
+3814.7
+3814.7
+Konfirmuar nga ZRPP
+80
+Foto
+Ilia
+Gazeli
+323/5
+15
+103.1
+1546.5
+1546.5
+Konfirmuar nga ZRPP
+TOTALI
+50860
+6295811
+837
+1288963
+7584774
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Komuna: Markat, Fshati-Shales
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE_KRANE_KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are
+Nr.
+PRONAR
+Toke Are
+Vlera
+Totale
+Shenime
+Emri
+Atesia
+Mbiemri
+Nr. i pasurise
+Sip. m2
+Cmimi m2
+Vlera ne leke
+Leke
+1
+Hajder
+Saraç
+Bakullati
+362/1
+41
+122.2
+5010.2
+5010.2
+Konfirmuar nga ZRPP
+2
+Hajredin
+Ismail
+Bakullati
+362/30
+1000
+122.2
+122200
+122200
+Konfirmuar nga ZRPP
+3
+Abaz
+Dine
+Baduni
+362/31
+864
+122.2
+105580.8
+105580.8
+Konfirmuar nga ZRPP
+TOTALI
+1905
+232791
+232791
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Komuna: Mesopotam, Fshatrat-Krane-Adhrasov-Fitore
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE_KRANE_KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are, Truall
+Nr.
+PRONAR
+Toke Are
+Truall
+Vlera
+Shenime
+Totale
+Emri
+Atesia
+Mbiemri
+Nr. pas
+Sip. m2
+Cmimi m2
+Vlera ne leke
+Sip. m2
+Cmimi m2
+Vlera ne leke
+1
+Jorgo
+Kico
+Ballano
+17/43
+65
+108.2
+7033
+7033
+KONFIRMUAR NGA ZRPP
+2
+Sotir
+Filip
+Ballano
+17/44
+305
+108.2
+33001
+33001
+KONFIRMUAR NGA ZRPP
+3
+Spiro
+Mico
+Gjino
+17/52
+202
+108.2
+21856.4
+21856.4
+KONFIRMUAR NGA ZRPP
+4
+Parashqevi
+Anagnosti
+17/53
+254
+108.2
+27482.8
+27482.8
+KONFIRMUAR NGA ZRPP
+5
+Mico
+Shani
+17/57
+77
+108.2
+8331.4
+8331.4
+KONFIRMUAR NGA ZRPP
+6
+Koci
+Vangjel
+Kico
+21/1
+56
+108.2
+6059.2
+6059.2
+KONFIRMUAR NGA ZRPP
+7
+Jorgji
+Nikolla
+Dalla
+21/5
+72
+108.2
+7790.4
+7790.4
+KONFIRMUAR NGA ZRPP
+8
+Thoma
+Sotir
+Kranjoti
+21/8
+179
+108.2
+19367.8
+19367.8
+KONFIRMUAR NGA ZRPP
+9
+Jorgo
+Sotir
+Kranjoti
+21/9
+135
+108.2
+14607
+14607
+KONFIRMUAR NGA ZRPP
+10
+Kristo
+Vasil
+Muka
+21/10
+135
+108.2
+14607
+14607
+KONFIRMUAR NGA ZRPP
+11
+Thoma
+Koci
+Kaishi
+21/11
+122
+108.2
+13200.4
+13200.4
+KONFIRMUAR NGA ZRPP
+12
+Nikolla
+Filip
+Ballano
+21/12
+41
+108.2
+4436.2
+4436.2
+KONFIRMUAR NGA ZRPP
+13
+Spiro
+Vangjel
+Kranjoti
+29/1
+1773
+108.2
+191838.6
+191838.6
+KONFIRMUAR NGA ZRPP
+14
+Athina
+Andon
+Kranjoti
+29/2
+287
+108.2
+31053.4
+31053.4
+KONFIRMUAR NGA ZRPP
+15
+Vangjrl
+Kristo
+Kaishi
+30/1
+56
+108.2
+6059.2
+6059.2
+KONFIRMUAR NGA ZRPP
+16
+Panago
+Spiro
+Baxhaqi
+430/14
+34
+108.2
+3678.8
+3678.8
+KONFIRMUAR NGA ZRPP
+17
+Leonidha
+Anastas
+Kaishi
+430/32
+65
+108.2
+7033
+7033
+KONFIRMUAR NGA ZRPP
+18
+Spiro
+Qirjo
+Loli
+601/1
+1148
+108.2
+124213.6
+124213.6
+KONFIRMUAR NGA ZRPP
+19
+Jani
+Apostol
+Thanasi
+601/2
+330
+108.2
+35706
+35706
+KONFIRMUAR NGA ZRPP
+20
+Stavro
+Nasho
+Vasili
+601/3
+294
+108.2
+31810.8
+31810.8
+KONFIRMUAR NGA ZRPP
+21
+Thoma
+Anastas
+Thanasi
+601/11
+247
+108.2
+26725.4
+26725.4
+KONFIRMUAR NGA ZRPP
+22
+Spiro
+Anagnosti
+603/42
+162
+763
+123606
+123606
+KONFIRMUAR NGA ZRPP
+23
+Nikolla
+Mico
+Gjino
+608
+451
+108.2
+48798.2
+48798.2
+KONFIRMUAR NGA ZRPP
+24
+Thoma
+Theohar
+Gjino
+610/21
+367
+108.2
+39709.4
+39709.4
+KONFIRMUAR NGA ZRPP
+25
+Anastas
+Andrea
+Harisi
+615/2
+15
+763
+11445
+11445
+KONFIRMUAR NGA ZRPP
+1
+Eleni
+Jorgji
+Dalta
+10/2
+115
+101.8
+11707
+11707
+KONFIRMUAR NGA ZRPP
+2
+Thoma
+Jorgji
+Dalta
+10/3
+694
+101.8
+70649.2
+70649.2
+KONFIRMUAR NGA ZRPP
+3
+Kristaq
+Miho
+Kondi
+15/1
+973
+101.8
+99051.4
+99051.4
+KONFIRMUAR NGA ZRPP
+4
+Stavro
+Jani
+Xhollo
+15/2
+68
+101.8
+6922.4
+6922.4
+KONFIRMUAR NGA ZRPP
+5
+Pavllo
+Kristo
+Thanasi
+15/5
+88
+101.8
+8958.4
+8958.4
+KONFIRMUAR NGA ZRPP
+6
+Lefter Eleni Filip Spiro
+Dini Gabi Xhollo Naço
+27/1
+69
+101.8
+7024.2
+7024.2
+KONFIRMUAR NGA ZRPP
+7
+Vangjel
+Andon
+Kondi
+27/2
+495
+101.8
+50391
+50391
+KONFIRMUAR NGA ZRPP
+8
+Ziso
+Andon
+Kondi
+27/3
+503
+101.8
+51205.4
+51205.4
+KONFIRMUAR NGA ZRPP
+9
+Vasil
+Andon
+Kondi
+27/4
+565
+101.8
+57517
+57517
+KONFIRMUAR NGA ZRPP
+10
+Nikolla
+Pilo
+Dalta
+27/5
+512
+101.8
+52121.6
+52121.6
+KONFIRMUAR NGA ZRPP
+11
+Alqi
+V.
+Zafiri
+27/6
+259
+101.8
+26366.2
+26366.2
+KONFIRMUAR NGA ZRPP
+12
+Jorgo
+Vangjel
+Naco
+27/7
+248
+101.8
+25246.4
+25246.4
+KONFIRMUAR NGA ZRPP
+13
+Thoma
+Jorgji
+Xhollo
+27/8
+300
+101.8
+30540
+30540
+KONFIRMUAR NGA ZRPP
+14
+Dhimiter
+Kristo
+Babi
+27/9
+251
+101.8
+25551.8
+25551.8
+KONFIRMUAR NGA ZRPP
+15
+Andrea
+Kristo
+Babi
+27/10
+128
+101.8
+13030.4
+13030.4
+KONFIRMUAR NGA ZRPP
+16
+Vasillo
+Pilo
+Babi
+27/11
+15
+101.8
+1527
+1527
+KONFIRMUAR NGA ZRPP
+17
+Filip
+Pilo
+Dalta
+27/15
+674
+101.8
+68613.2
+68613.2
+KONFIRMUAR NGA ZRPP
+18
+Vangjel
+Foto
+Papakristo
+27/16
+102
+101.8
+10383.6
+10383.6
+KONFIRMUAR NGA ZRPP
+19
+Kristaq
+Vangjel
+Thanasi
+27/20
+333
+101.8
+33899.4
+33899.4
+KONFIRMUAR NGA ZRPP
+20
+Thoma Vangjel
+Pilo Kristo
+Naço Thanasi
+27/21
+554
+101.8
+56397.2
+56397.2
+KONFIRMUAR NGA ZRPP
+21
+Thoma Nikolla
+Pilo Jani
+Naço Babi
+27/22
+1022
+101.8
+104039.6
+104039.6
+KONFIRMUAR NGA ZRPP
+22
+Vangjel
+Nikolla
+Babi
+27/23
+1091
+101.8
+111063.8
+111063.8
+KONFIRMUAR NGA ZRPP
+23
+Sotir
+Vangjel
+Kuro
+27/24
+445
+101.8
+45301
+45301
+KONFIRMUAR NGA ZRPP
+24
+Anastas
+Janaq
+Jeni
+37/1
+635
+101.8
+64643
+64643
+KONFIRMUAR NGA ZRPP
+25
+Thanas
+Panajot
+Cakuli
+37/2
+505
+101.8
+51409
+51409
+KONFIRMUAR NGA ZRPP
+26
+Vangjel
+Kosta
+Kajolleri
+37/3
+974
+101.8
+99153.2
+99153.2
+KONFIRMUAR NGA ZRPP
+27
+Jani
+Kola
+Vaso
+37/4
+844
+101.8
+85919.2
+85919.2
+KONFIRMUAR NGA ZRPP
+28
+Jorgji
+Jani
+Vaso
+37/5
+149
+101.8
+15168.2
+15168.2
+KONFIRMUAR NGA ZRPP
+29
+Ilia
+Vangjel
+Jeni
+112/8
+888
+101.8
+90398.4
+90398.4
+KONFIRMUAR NGA ZRPP
+1
+Lefter
+Jorgo
+Dalta
+114/1
+654
+155
+101370
+101370
+KONFIRMUAR NGA ZRPP
+2
+Thoma
+Jorgo
+Dalta
+114/2
+467
+155
+72385
+72385
+KONFIRMUAR NGA ZRPP
+3
+Eleni
+Jorgo
+Dalta
+114/3
+407
+155
+63085
+63085
+KONFIRMUAR NGA ZRPP
+4
+Lefteri
+Jani
+Dini
+114/4
+1454
+155
+225370
+225370
+KONFIRMUAR NGA ZRPP
+5
+Ilia
+Vangjel
+Baxhaqi
+120/5
+12
+155
+1860
+1860
+KONFIRMUAR NGA ZRPP
+6
+Dhimiter
+Mihal
+Kondi
+120/6
+36
+155
+5580
+5580
+KONFIRMUAR NGA ZRPP
+7
+Kristaq
+Mihal
+Kondi
+120/7
+44
+155
+6820
+6820
+KONFIRMUAR NGA ZRPP
+8
+Vasil
+Vangjel
+Komi
+122/1
+215
+155
+33325
+33325
+KONFIRMUAR NGA ZRPP
+9
+Harallamb
+Ilia
+Komi
+122/2
+206
+155
+31930
+31930
+KONFIRMUAR NGA ZRPP
+10
+Kristo
+Pilo
+Xhollo
+122/3
+445
+155
+68975
+68975
+KONFIRMUAR NGA ZRPP
+11
+Vangjel
+Nikolla
+Babi
+122/4
+385
+155
+59675
+59675
+KONFIRMUAR NGA ZRPP
+12
+Nikolla
+Jani
+Babi
+122/5
+266
+155
+41230
+41230
+KONFIRMUAR NGA ZRPP
+13
+33 Bashkpronar
+126
+357
+155
+55335
+55335
+KONFIRMUAR NGA ZRPP
+14
+Jorgo
+Vangjel
+Loli
+127/1
+811
+155
+125705
+125705
+KONFIRMUAR NGA ZRPP
+15
+Polikseni
+Pilo
+Loli
+129/3
+23
+155
+3565
+3565
+KONFIRMUAR NGA ZRPP
+16
+Vasil
+Vangjel
+Komi
+129/4
+40
+155
+6200
+6200
+KONFIRMUAR NGA ZRPP
+17
+Harallamb
+Ilia
+Komi
+129/5
+42
+155
+6510
+6510
+KONFIRMUAR NGA ZRPP
+18
+Jorgji
+Ilia
+Komi
+128/1
+40
+155
+6200
+6200
+KONFIRMUAR NGA ZRPP
+19
+Gligor
+Xhollo
+128/2
+46
+155
+7130
+7130
+KONFIRMUAR NGA ZRPP
+20
+Kristo
+Pilo
+Xhollo
+128/3
+66
+155
+10230
+10230
+KONFIRMUAR NGA ZRPP
+21
+Jorgo
+Vangjel
+Loli
+128/4
+33
+155
+5115
+5115
+KONFIRMUAR NGA ZRPP
+22
+Jorgo
+Mico
+Loli
+172/1
+166
+155
+25730
+25730
+KONFIRMUAR NGA ZRPP
+23
+Kristo
+Miho
+Kondi
+172/2
+85
+155
+13175
+13175
+KONFIRMUAR NGA ZRPP
+24
+Stavro
+Pavllo
+Naco
+172/3
+88
+155
+13640
+13640
+KONFIRMUAR NGA ZRPP
+25
+Niko
+Pavllo
+Naco
+172/4
+113
+155
+17515
+17515
+KONFIRMUAR NGA ZRPP
+26
+Vasillo
+Jorgo
+Xhollo
+172/5
+263
+155
+40765
+40765
+KONFIRMUAR NGA ZRPP
+27
+25 Bashkpronar
+173/2
+901
+155
+139655
+139655
+KONFIRMUAR NGA ZRPP
+28
+Vangjel
+Kristo
+Thanasi
+190/2
+586
+155
+90830
+90830
+KONFIRMUAR NGA ZRPP
+29
+Ilia
+Vangjel
+Baxhaqi
+190/3
+243
+155
+37665
+37665
+KONFIRMUAR NGA ZRPP
+30
+Thoma Vangjel
+Jorgo Anastas
+Dalta Xhollo
+190/8
+744
+155
+115320
+115320
+KONFIRMUAR NGA ZRPP
+31
+Petro
+Spiro
+Dalta
+190/9
+103
+155
+15965
+15965
+KONFIRMUAR NGA ZRPP
+32
+Pavllo
+Kristo
+Thanasi
+190/10
+165
+155
+25575
+25575
+KONFIRMUAR NGA ZRPP
+33
+Stavro
+Jani
+Xhollo
+190/12
+276
+155
+42780
+42780
+KONFIRMUAR NGA ZRPP
+34
+Anastas
+Vangjel
+Baxhaqi
+190/13
+230
+155
+35650
+35650
+KONFIRMUAR NGA ZRPP
+35
+Kosta
+Stavro
+Baxhaqi
+190/14
+235
+155
+36425
+36425
+KONFIRMUAR NGA ZRPP
+36
+Vasil
+Ziso
+Papakristo
+190/15
+290
+155
+44950
+44950
+KONFIRMUAR NGA ZRPP
+37
+Nikolla
+Pilo
+Dalta
+190/16
+368
+155
+57040
+57040
+KONFIRMUAR NGA ZRPP
+38
+Vasillo
+Stavro
+Loli
+190/17
+329
+155
+50995
+50995
+KONFIRMUAR NGA ZRPP
+39
+Jorgo
+Vangjel
+Loli
+190/18
+281
+155
+43555
+43555
+KONFIRMUAR NGA ZRPP
+40
+Thoma
+Jorgji
+Xhollo
+190/19
+188
+155
+29140
+29140
+KONFIRMUAR NGA ZRPP
+41
+Vasil
+Ziso
+Papakristo
+192/7
+94
+155
+14570
+14570
+KONFIRMUAR NGA ZRPP
+42
+Vangjel
+Foto
+Papakristo
+192/8
+244
+155
+37820
+37820
+KONFIRMUAR NGA ZRPP
+43
+Nikolla
+Pilo
+Dalta
+192/9
+602
+155
+93310
+93310
+KONFIRMUAR NGA ZRPP
+44
+Vasillo
+Pilo
+Babi
+194/1
+45
+155
+6975
+6975
+KONFIRMUAR NGA ZRPP
+45
+Dhimiter
+Kristo
+Babi
+194/2
+21
+155
+3255
+3255
+KONFIRMUAR NGA ZRPP
+46
+Lefter
+Qirjo
+Gabi
+195/11
+197
+155
+30535
+30535
+KONFIRMUAR NGA ZRPP
+47
+Thoma
+Pilo
+Naci
+195/12
+451
+155
+69905
+69905
+KONFIRMUAR NGA ZRPP
+48
+Thanas
+Filip
+Naci
+195/13
+617
+155
+95635
+95635
+KONFIRMUAR NGA ZRPP
+49
+Alqi
+V.
+Zafiri
+195/14
+650
+155
+100750
+100750
+KONFIRMUAR NGA ZRPP
+50
+Vasil
+Vangjel
+Naco
+195/15
+88
+155
+13640
+13640
+KONFIRMUAR NGA ZRPP
+51
+21 Bashkpronar
+195/18
+191
+155
+29605
+29605
+KONFIRMUAR NGA ZRPP
+52
+12 Bashkpronar
+195/19
+923
+155
+143065
+143065
+KONFIRMUAR NGA ZRPP
+53
+Kristo Thoma
+Pilo Pilo
+Xhollo Naço
+195/21
+529
+155
+81995
+81995
+KONFIRMUAR NGA ZRPP
+54
+Vasillo
+Stavro
+Loli
+204/1
+310
+155
+48050
+48050
+KONFIRMUAR NGA ZRPP
+55
+Vasil
+Miho
+Loli
+204/2
+355
+155
+55025
+55025
+KONFIRMUAR NGA ZRPP
+56
+Thoma
+Jorgji
+Xhollo
+204/3
+383
+155
+59365
+59365
+KONFIRMUAR NGA ZRPP
+57
+Dhimiter
+Kristo
+Babi
+204/4
+141
+155
+21855
+21855
+KONFIRMUAR NGA ZRPP
+58
+Andrea
+Kristo
+Babi
+204/5
+114
+155
+17670
+17670
+KONFIRMUAR NGA ZRPP
+59
+Spiro
+Filip
+Babi
+204/6
+66
+155
+10230
+10230
+KONFIRMUAR NGA ZRPP
+60
+Sokrat
+Nesto
+Xhollo
+204/7
+38
+155
+5890
+5890
+KONFIRMUAR NGA ZRPP
+61
+Vasil
+A.
+Kondi
+205/8
+18
+155
+2790
+2790
+KONFIRMUAR NGA ZRPP
+62
+Ziso
+Andon
+Kondi
+205/9
+77
+155
+11935
+11935
+KONFIRMUAR NGA ZRPP
+63
+Vasil
+Llambro
+Koniku
+205/10
+132
+155
+20460
+20460
+KONFIRMUAR NGA ZRPP
+64
+Kristo
+Spiro
+Naco
+207/1
+73
+155
+11315
+11315
+KONFIRMUAR NGA ZRPP
+65
+Nikolla
+Jorgji
+Jidhori
+207/4
+84
+155
+13020
+13020
+KONFIRMUAR NGA ZRPP
+66
+Lefter
+Qirjo
+Gabi
+207/5
+40
+155
+6200
+6200
+KONFIRMUAR NGA ZRPP
+67
+Thanas
+Filip
+Naci
+207/6
+31
+155
+4805
+4805
+KONFIRMUAR NGA ZRPP
+68
+Thoma
+Pilo
+Naci
+207/7
+36
+155
+5580
+5580
+KONFIRMUAR NGA ZRPP
+TOTALI
+38447
+4927812.2
+177
+135051
+5062863.2
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Komuna: Dhiver, Fshati-Dyrmish
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE_KRANE_KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are,Truall
+Nr.
+PRONAR
+Toke Are
+Truall
+Vlera Totale
+Shenime
+Emri
+Atesia
+Mbiemri
+Nr. pas
+Sip. m2
+Cmimi m2
+Vlera ne leke
+Sip. m2
+Cmimi m2
+Vlera ne leke
+1
+Dhimiter
+Jani
+Cika
+420
+143
+1182
+169026
+169026
+Konfirmuar nga ZRPP
+2
+Spiro
+Filip
+Cati
+421
+305
+94.5
+28822.5
+28822.5
+Konfirmuar nga ZRPP
+3
+Ilia
+Foto
+Gega
+437
+325
+94.5
+30712.5
+30712.5
+Konfirmuar nga ZRPP
+4
+Anastas
+Mico
+Dhimo
+505
+364
+94.5
+34398
+34398
+Konfirmuar nga ZRPP
+5
+Vasil
+Vangjel
+Xhollo
+506
+347
+94.5
+32791.5
+32791.5
+Konfirmuar nga ZRPP
+6
+Dhimiter
+Jorgji
+Xoro
+534
+24
+94.5
+2268
+2268
+Konfirmuar nga ZRPP
+7
+Dhimiter
+Jorgji
+Xoro
+535/1
+11
+1182
+13002
+13002
+Konfirmuar nga ZRPP
+8
+Thoma
+Adrea
+Thoma
+537
+504
+94.5
+47628
+47628
+Konfirmuar nga ZRPP
+9
+Mico
+Grigor
+Xhollo
+631
+543
+94.5
+51313.5
+51313.5
+Konfirmuar nga ZRPP
+10
+Mico
+Grigor
+Xhollo
+633
+250
+94.5
+23625
+23625
+Konfirmuar nga ZRPP
+11
+Pando
+Llambi
+Koci
+634
+39
+94.5
+3685.5
+3685.5
+Konfirmuar nga ZRPP
+12
+Vangjel
+Kico
+Çakuli
+701
+313
+94.5
+29578.5
+29578.5
+Konfirmuar nga ZRPP
+13
+Jorgji
+Spiro
+Xhollo
+702
+420
+94.5
+39690
+39690
+Konfirmuar nga ZRPP
+14
+Todi
+Loli
+Nushi
+720
+72
+94.5
+6804
+6804
+Konfirmuar nga ZRPP
+15
+Taqi
+Jorgo
+Xoro
+810
+105
+94.5
+9922.5
+9922.5
+Konfirmuar nga ZRPP
+16
+Lefter
+Grigor
+Muka
+811
+163
+94.5
+15403.5
+15403.5
+Konfirmuar nga ZRPP
+17
+Spiro
+Dhimiter
+Buzuka
+812
+150
+94.5
+14175
+14175
+Konfirmuar nga ZRPP
+18
+Hajri
+Idriz
+Sula
+813
+215
+94.5
+20317.5
+20317.5
+Konfirmuar nga ZRPP
+19
+Vasil
+Jorgji
+Papa
+815
+171
+94.5
+16159.5
+16159.5
+Konfirmuar nga ZRPP
+20
+Vasil
+Loli
+Nushi
+817
+73
+94.5
+6898.5
+6898.5
+Konfirmuar nga ZRPP
+21
+17 Bashkprona
+818
+1534
+94.5
+144963
+144963
+Konfirmuar nga ZRPP
+22
+22 Bashkprona
+917
+3618
+94.5
+341901
+341901
+Konfirmuar nga ZRPP
+23
+22 Bashkprona
+994
+3028
+94.5
+286146
+286146
+Konfirmuar nga ZRPP
+24
+180 Bashkprona
+1006
+1852
+94.5
+175014
+175014
+Konfirmuar nga ZRPP
+TOTALI
+14415
+1362217.5
+154
+182028
+1544245.5
+REPUBLIKA E SHQIPERISE
+MINISTRIA P.P.T.T.
+DREJTORIA E PERGJITHSHME E RRUGEVE
+Qarku: VLORE
+Komuna: Finiq, Fshatrat-Vrion-Çlirim
+LISTA E PRONAREVE QE SHPRONESOHEN PER EFEKT TE NDERTIMIT TE SEGMENTIT RRUGOR ”SARANDE_KRANE_KONISPOL”
+Lloji i pasurise se paluajtshme: Toke Are, Truall
+Nr.
+PRONAR
+Toke Are
+Truall
+Vlera
+Shenime
+Totale
+Emri
+Atesia
+Mbiemri
+Nr. pas
+Sip. m2
+Cmimi m2
+Vlera ne leke
+Sip. m2
+Cmimi m2
+Vlera ne leke
+1
+Sotir
+Stavro
+Toto
+1462
+172
+182.3
+31355.6
+31355.6
+KONFIRMUAR NGA ZRPP
+2
+Koci
+Llambi
+Papa
+1463
+449
+182.3
+81852.7
+81852.7
+KONFIRMUAR NGA ZRPP
+3
+Jani
+Koci
+Papa
+1464
+81
+182.3
+14766.3
+14766.3
+KONFIRMUAR NGA ZRPP
+4
+Ilia
+Spiro
+Jani
+1621
+124
+182.3
+22605.2
+22605.2
+KONFIRMUAR NGA ZRPP
+5
+Misim
+Ramadan
+Pashaj
+1625
+117
+182.3
+21329.1
+21329.1
+KONFIRMUAR NGA ZRPP
+6
+Vasil
+Vangjel
+Çato
+1626
+110
+182.3
+20053
+20053
+KONFIRMUAR NGA ZRPP
+7
+Harallamp
+Koci
+Papa
+1627
+120
+182.3
+21876
+21876
+KONFIRMUAR NGA ZRPP
+8
+Riza Katerina
+Miho
+Manushi Maksakuli
+2897 & 2896
+80
+732
+58560
+58560
+KONFIRMUAR NGA ZRPP
+9
+Jani
+Koci
+Papa
+1675
+44
+182.3
+8021.2
+8021.2
+KONFIRMUAR NGA ZRPP
+10
+Lefter
+Kristo
+Papa
+1676
+26
+182.3
+4739.8
+4739.8
+KONFIRMUAR NGA ZRPP
+11
+Kristo
+Llambi
+Papa
+1677
+52
+182.3
+9479.6
+9479.6
+KONFIRMUAR NGA ZRPP
+12
+Leonidha
+Mico
+Qesko
+1972
+325
+182.3
+59247.5
+59247.5
+KONFIRMUAR NGA ZRPP
+13
+Leke
+Gjon
+Çupi
+2020
+80
+182.3
+14584
+14584
+KONFIRMUAR NGA ZRPP
+14
+Spiro
+Thoma
+Kallojeri
+2022
+80
+182.3
+14584
+14584
+KONFIRMUAR NGA ZRPP
+15
+Thoma
+Naci
+Babi
+2023
+75
+182.3
+13672.5
+13672.5
+KONFIRMUAR NGA ZRPP
+16
+Bexhet
+Bastri
+Allkushi
+2046
+160
+182.3
+29168
+29168
+KONFIRMUAR NGA ZRPP
+17
+Qesko Andrea
+Llambro Thoma
+Çakalli Babi
+2762
+700
+732
+512400
+512400
+KONFIRMUAR NGA ZRPP
+18
+Andon
+Stiliano
+Babi
+1456
+31
+182.3
+5651.3
+5651.3
+KONFIRMUAR NGA ZRPP
+19
+Ilia
+Nikolla
+Rubati
+1360
+200
+182.3
+36460
+36460
+KONFIRMUAR NGA ZRPP
+20
+Eleni
+Nani
+Simo
+1359
+425
+182.3
+77477.5
+77477.5
+KONFIRMUAR NGA ZRPP
+21
+Spiro
+Vasil
+Camandioti
+1354/1
+15
+732
+10980
+10980
+KONFIRMUAR NGA ZRPP
+22
+Spiro
+Vasil
+Camandioti
+1354/3
+122
+732
+89304
+89304
+KONFIRMUAR NGA ZRPP
+23
+Edmond
+Mamude
+Zyba
+636
+50
+732
+36600
+36600
+KONFIRMUAR NGA ZRPP
+24
+Kristo
+Llazar
+Koka
+768
+98
+182.3
+17865.4
+17865.4
+KONFIRMUAR NGA ZRPP
+1
+15 Bashkepronar
+30
+5020
+233
+1169660
+1169660
+KONFIRMUAR NGA ZRPP
+2
+33 Bashkepron
+31
+5570
+233
+1297810
+1297810
+KONFIRMUAR NGA ZRPP
+3
+17 bashkepron
+33
+1341
+233
+312453
+312453
+KONFIRMUAR NGA ZRPP
+4
+54 Bashkepron
+37
+4790
+233
+1116070
+1116070
+KONFIRMUAR NGA ZRPP
+TOTALI
+19490
+4400781.7
+967
+707844
+5108625.7
