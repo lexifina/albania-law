@@ -1,0 +1,4 @@
+3. Kandidatët fitues përcaktohen nga Agjencia Kombëtare e Pranimeve (APRIAL), në bazë të dy parimeve:
+a) Parimi i meritës: sipas pikëve të grumbulluara në bazë të rezultateve të shkollës së mesme, të provimeve të maturës shtetërore të dhënë në vitet 2007 ose 2008 dhe të rezultateve të konkursit të zhvilluar në bazë të udhëzimit nr.24, datë 3.6.2008 “Për zhvillimin e konkurseve të pranimit, tarifën e regjistrimit për konkurrim, në disa programe studimi në ciklin e parë me kohë të plotë në institucionet publike të arsimit të lartë, vitin akademik 2008-2009”.
+b) Parimi i vullnetit të kandidatëve.
+3. APRIAL në datën 9.12.2008 shpall listën e kandidatëve fitues të ndarë sipas programeve të studimit përkatës, të renditur sipas rendit zbritës të pikëve dhe preferencës më të lartë të kërkuar prej tyre, në përputhje me kuotat e përcaktuara në pikën 2 të këtij udhëzimi dhe njëkohësisht e dorëzon këtë listë në Ministrinë e Arsimit dhe Shkencës.

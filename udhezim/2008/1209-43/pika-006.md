@@ -1,0 +1,2 @@
+6. Në rast se kandidatët fitues nuk kanë deftesë pjekurie origjinale të kërkuar në pikën 5/a të mësipërme të paraqesin dublikatën e dëftesës së pjekurisë së lëshuar nga drejtoria e shkollës së mesme dhe të vërtetuar nga drejtoria arsimore rajonale/zyra arsimore përkatëse.
+Këta kandidatë të evidentohen edhe në lista të veçanta nga sekretaria mësimore e Akademisë së Arteve, të cilat të dërgohen në Ministrinë e Arsimit dhe të Shkencës. Pas verifikimit të bërë nga Ministria e Arsimit dhe e Shkencës, të bëhet regjistrimi përfundimtar nga sekretaria mësimore e Akademisë së Arteve.

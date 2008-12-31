@@ -1,0 +1,1 @@
+9. Pas përfundimit të procesit të regjistrimit, Akademia e Arteve të dorëzojë në MASH dhe në APRIAL listat përfundimtare origjinale të përgatitura nga APRIAL me regjistrimet e kryera, në formë të shkruar dhe elektronike brenda datës 19.12.2008.

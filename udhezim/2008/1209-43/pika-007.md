@@ -1,0 +1,1 @@
+7. Sekretaria mësimore e pajis kandidatin që regjistrohet me një fletëregjistrimi, ku të shënohet numri i regjistrimit, emri i kandidatit, si dhe data dhe ora e regjistrimit. Fletëregjistrimi duhet të jetë i nënshkruar nga dekani dhe kryesekretarja mësimore e fakultetit, e vulosur.

@@ -1,0 +1,1 @@
+4. Ministria e Arsimit dhe Shkencës dorëzon në datën 10.12.2008, në formë të shkruar dhe elektronike, listën përfundimtare të kandidatëve fitues sipas programeve përkatëse të studimit, në Akademinë e Arteve, e cila afishon menjëherë listën në vende të dukshme në mjediset e saj.

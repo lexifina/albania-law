@@ -1,0 +1,1 @@
+2. Kuotat e parealizuara të pranimeve në Akademinë e Arteve, në vitin akademik 2008-2009, të ndara sipas programeve të ndryshme të studimit, janë pasqyruar në tabelën nr.1, bashkëlidhur këtij udhëzimi.
