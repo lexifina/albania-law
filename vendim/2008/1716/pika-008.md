@@ -1,0 +1,1 @@
+8. Anëtarët e komiteteve teknike miratohen nga drejtori i përgjithshëm i DPA-së, në bazë të kritereve të përcaktuara në rregullore. Shpërblimi i tyre përcaktohet nga Ministri i Financave, me propozimin e ministrit, që mbulon ekonominë dhe tregtinë.

@@ -1,0 +1,1 @@
+29. DPA-ja informon organet përgjegjëse të dhënies së autorizimit apo të regjistrimit, në lidhje me kërkesën për akreditim, edhe vendimet për statusin e akreditimit të organizmave, të cilët kërkojnë të jenë apo janë të autorizuar/regjistruar.

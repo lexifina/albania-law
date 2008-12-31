@@ -1,0 +1,1 @@
+27. Organizmat e vlerësimit të konformitetit, të interesuar për akreditim apo për vlerësim të kompetencës së tyre, i drejtohen DPA-së. Në procesin e vlerësimit për akreditim, organizmi i vlerësimit të konformitetit kërkues u përgjigjet kritereve, ashtu si janë përcaktuar, në veçanti, në standardet dhe udhëzuesit e nxjerrë nga organizmat ndërkombëtarë të akreditimit.

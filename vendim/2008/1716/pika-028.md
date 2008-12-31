@@ -1,0 +1,1 @@
+28. Organizmi i vlerësimit të konformitetit, që kërkon të akreditohet për qëllime autorizimi apo regjistrimi, aplikon për akreditim, gjithashtu, në bazë të kritereve, të përcaktuara në pikën 27 të këtij vendimi, plus rregullave dhe kërkesave të veçanta teknike, që lidhen me dhënien e autorizimit apo të regjistrimit.

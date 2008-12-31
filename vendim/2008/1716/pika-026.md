@@ -1,0 +1,1 @@
+26. Në rast akreditimi nga një organizëm akreditues i huaj, autoriteti i lëshimit të autorizimit/regjistrimit i kërkon organizmit të vlerësimit të konformitetit të pajiset me dokument njohjeje nga DPA-ja, për certifikatën e akreditimit dhe dokumentet shoqëruese të certifikatës.

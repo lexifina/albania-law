@@ -1,0 +1,1 @@
+7. Për nevojat e DPA-së krijohen komitete teknike, ad-hoc ose të përhershme, të përbëra nga specialistë të fushave të caktuara, të cilët hartojnë kërkesat e veçanta për akreditimin në fushën përkatëse. Komitetet teknike funksionojnë në bazë të rregulloreve, të miratuara nga drejtori i përgjithshëm.
