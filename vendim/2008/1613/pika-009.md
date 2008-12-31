@@ -1,0 +1,1 @@
+9. Kuotat e pranimeve në këto programe, të përcaktuara në pikën 3 të këtij vendimi, që mbeten të parealizuara, rishpërndahen, sipas institucioneve publike të arsimit të lartë dhe programeve të ndryshme të studimit, nga Ministria e Arsimit dhe Shkencës.
