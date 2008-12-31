@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rrugëve të shtyjë afatin e botimit të njoftimit të fituesit dhe të njoftimit të kontratës së lidhur, deri më 31 dhjetor 2008, për tri procedura prokurimi, sipas tabelës, që i bashkëlidhet këtij vendimi.
