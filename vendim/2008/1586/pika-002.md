@@ -1,0 +1,1 @@
+2. Lejimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës ta transferojë fondin 44 500 000 (dyzet e katër milionë e pesëqind mijë) lekë në llogarinë e Bashkimit të Dhomave të Tregtisë dhe të Industrisë së Shqipërisë.

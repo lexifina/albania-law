@@ -1,0 +1,1 @@
+3. Ky fond do të përdoret për organizimin nga Bashkimi i Dhomave të Tregtisë dhe të Industrisë të Shqipërisë, gjatë vitit 2009, të një forumi ndërkombëtar, për promovimin e investimeve të huaja në Shqipëri.
