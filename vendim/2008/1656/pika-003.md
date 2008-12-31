@@ -1,0 +1,1 @@
+3. Fondi, 9 600 000 (nëntë milionë e gjashtëqind mijë) lekë, të përballohet nga buxheti i investimeve, i vitit 2008, programi “Strehim dhe urbanistikë”, miratuar për Ministrinë e Punëve Publike, Transportit dhe Telekomunikacionit.

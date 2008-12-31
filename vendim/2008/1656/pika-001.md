@@ -1,0 +1,1 @@
+1. Miratimin e fondit, 9 600 000 (nëntë milionë e gjashtëqind mijë) lekë për investime (konservim), për likuidimin e pagave dhe të detyrimeve të prapambetura për punonjësit e ndërmarrjes shtetërore, ish-Kombinati i Tekstileve, Tiranë, sipas tabelave 1 e 2, që i bashkëlidhen këtij vendimi.
