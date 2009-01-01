@@ -1,0 +1,1 @@
+5. Titullari i QKL-së lirohet nga detyra për shkaqet dhe sipas procedurave të parashikuara në pikën 1 të nenit 21 të ligjit nr.8549, datë 11.11.1999 “Statusi i nëpunësit civil”, me vendim të ministrit.

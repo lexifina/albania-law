@@ -1,0 +1,1 @@
+1. Krijimin e Qendrës Kombëtare të Licencimit, që më poshtë do të përmendet QKL, si një institucion publik qendror, me seli në Tiranë, me personalitet juridik, në varësi të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës (më poshtë ministri), e që financohet nga Buxheti i Shtetit.

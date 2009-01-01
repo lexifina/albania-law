@@ -1,0 +1,1 @@
+13. Në fund të shkronjës “a” të pikës 1 të vendimit nr.478, datë 18.7.2007 të Këshillit të Ministrave “Për miratimin e strukturës dhe të niveleve të pagave të disa institucioneve në varësi të ministrave të linjës”, të ndryshuar, shtohet emërtimi “... Qendra Kombëtare e Licencimit”.

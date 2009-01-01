@@ -1,0 +1,1 @@
+8. Për nëpunësit e QKL-së zbatohen procedurat e përcaktuara në legjislacionin për nëpunësin civil, përveç sa parashikohet ndryshe me këtë ligj. Titullari i QKL-së është eprori direkt, në përputhje me këto dispozita.

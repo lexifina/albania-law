@@ -1,0 +1,1 @@
+6. Titullari i QKL-së u nënshtrohet dispozitave, që rregullojnë masat, procedurat disiplinore dhe vlerësimin e punës, të përcaktuara në legjislacionin për nëpunësin civil, për institucionet e pavarura. Ministri është eprori direkt, në kuptimin e këtyre dispozitave.

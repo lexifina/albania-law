@@ -1,0 +1,1 @@
+9. Marrëdhëniet e punës së punonjësve të thjeshtë të QKL-së, që kryejnë detyra të karakterit mbështetës, u nënshtrohen legjislacionit të punës dhe legjislacionit tjetër, me zbatim të përgjithshëm në administratën publike.
