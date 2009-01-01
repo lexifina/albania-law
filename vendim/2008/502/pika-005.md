@@ -1,1 +1,4 @@
 5. Njësive të qeverisjes vendore, për administrimin e konvikteve të sistemit arsimor parauniversitar, t’u shtohen 487 punonjës, të cilët pakësohen nga numri i përgjithshëm i punonjësve, miratuar për Ministrinë e Arsimit dhe Shkencës.
+5.1 Njësive të qeverisjes vendore, për administrimin e konvikteve të sistemit arsimor parauniversitar, t’u shtohen, respektivisht, 151 punonjës edukativë, sipas listës, që i bashkëlidhet këtij vendimi, të cilët pakësohen nga numri i përgjithshëm i punonjësve, miratuar për Ministrinë e Arsimit dhe Shkencës.
+Efektet financiare për këta punonjës të përballohen nga fondet e miratuara në buxhetin e vitit 2009, për Ministrinë e Arsimit dhe Shkencës, të cilat të kalojnë si pjesë e grantit të pakushtëzuar në buxhetin e njësive të qeverisjes vendore.
+5.2 Punonjësit edukativë, që shtohen, të jenë me arsim të lartë për mësuesi.

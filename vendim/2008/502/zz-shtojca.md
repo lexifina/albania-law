@@ -349,3 +349,107 @@ Gjithsej
 1
 7
 487
+DARZA
+Numri i punonjësve në konvikte
+Gjithsej
+Zv.drejtor
+Edukator
+DAR Berat
+7
+1
+6
+ZA Skrapar
+3
+1
+2
+DAR Dibër
+5
+1
+4
+ZA Mat
+4
+1
+3
+DAR Durrës
+7
+2
+5
+DAR Gjirokastër
+8
+2
+6
+ZA Tepelenë
+2
+1
+1
+ZA Përmet
+3
+1
+2
+DAR Fier
+6
+2
+4
+ZA Lushnje
+3
+1
+2
+DAR Elbasan
+14
+2
+12
+ZA Gramsh
+2
+1
+1
+DAR Korçë
+10
+3
+7
+ZA Kolonjë
+3
+1
+2
+ZA Lezhë
+3
+1
+2
+ZA Mirditë
+8
+2
+6
+DAR Kukës
+4
+1
+3
+ZA Has
+2
+1
+1
+ZA Kavajë
+3
+1
+2
+ZA Malësi e Madhe
+1
+1
+DAR Shkodër
+20
+4
+16
+ZA Pukë
+4
+1
+3
+DAR e qytetit Tiranë
+22
+7
+15
+DAR Vlorë
+7
+2
+5
+Gjithsej
+151
+41
+110
