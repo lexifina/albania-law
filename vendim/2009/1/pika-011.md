@@ -1,0 +1,1 @@
+11. Vendimi nr.596, datë 7.9.2006 i Këshillit të Ministrave “Për përdorimin, ruajtjen dhe administrimin e dokumenteve të identitetit të shtetasve nga organet e administratës publike”, dhe çdo akt tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.

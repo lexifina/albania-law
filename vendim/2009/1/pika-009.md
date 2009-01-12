@@ -1,0 +1,1 @@
+9. Të gjitha institucionet shtetërore, qendrore apo vendore, marrin masa që pagesa për aplikimin për letërnjoftim për punonjësit e tyre të kryhet brenda institucioneve përkatëse. Kjo pagesë mund të përfshijë edhe pagesat për familjarët e personave të punësuar në institucionet shtetërore.

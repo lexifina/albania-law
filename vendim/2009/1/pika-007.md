@@ -1,0 +1,1 @@
+7. Në çdo rast, ofruesit e shërbimeve, të përmendura në pikën 4 të këtij vendimi, duhet të shënojnë në dokumente numrin personal të identitetit ose numrin e aplikimit, që ndodhet në formularin e aplikimit. Në mungesë të këtyre numrave, ofrimi i shërbimit nga punonjësit përben kundërvajtje administrative dhe dënohet me gjobë e masa të tjera administrative.

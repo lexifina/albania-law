@@ -1,0 +1,1 @@
+3. Të gjithë shtetasit mbi moshën 16 vjeç janë të detyruar të aplikojnë për t’u pajisur me letërnjoftim elektronik. Aplikimi për letërnjoftimin elektronik është i vlefshëm edhe për pajisjen me pasaportën e re elektronike.

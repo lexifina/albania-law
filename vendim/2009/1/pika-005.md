@@ -1,0 +1,1 @@
+5. Rekomandohet Banka e Shqipërisë të miratojë akte nënligjore, të detyrueshme për të gjithë ofruesit e shërbimeve bankare dhe financiare, në Republikën e Shqipërisë, me anë të të cilave detyrohen këta shtetas, që, pas datës 15 prill 2009, të paraqesin, pranë shërbimit bankar, dokumentin e identitetit ose kopje të formularit të aplikimit.

@@ -1,0 +1,1 @@
+2. Aplikimi për letërnjoftim dhe pasaportë elektronike kryhet në zyrat e regjistrimit, pranë bashkive/komunave/njësive bashkiake përkatëse, për personat, që kanë kryer në zyrat e postës ose në zyrat e financës të institucioneve përkatëse pagesën, të vërtetuar me mandatarkëtimin përkatës, për çdo dokument.
