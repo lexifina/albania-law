@@ -1,1 +1,0 @@
-10. Ky vendim zbatohet me përparësi ndaj akteve të tjera të Këshillit të Ministrave, urdhërave, udhëzimeve dhe rregulloreve të ministrave, drejtuesve të institucioneve, qendrore a të varësisë dhe të organeve të pavarura, të cilat parashikojnë depozimin e dokumenteve të parashikuara në pikën 1 të këtij vendimi, për nevoja të identifikimit të shtetasve.

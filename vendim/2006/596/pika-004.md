@@ -1,1 +1,0 @@
-4. Njësimi me origjinalin i dokumenteve, të përcaktuara në pikën 1 të këtij vendimi, kryhet pa pagesë, drejtpërdrejt nga nëpunësi që ka përgjegjësi funksionale ose të deleguar, për mbledhjen dhe administrimin e kërkesave për regjistrime, shërbime, leje, licenca, përfitime pagesash ekonomike etj., në institucionin e administratës, që ofron shërbimin, apo në degën e saj.

@@ -1,1 +1,0 @@
-9. Ky vendim nuk i shtrin efektet e veta edhe ndaj procedurës, që kryen Policia e Shtetit, për përgatitjen e pasaportave për jashtë shtetit, sipas ligjit nr.8668, datë 23.10.2000 “Për pajisjen e shtetasve shqiptarë me pasaportë për jashtë shtetit”, të ndryshuar.

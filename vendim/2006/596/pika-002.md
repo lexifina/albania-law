@@ -1,1 +1,0 @@
-2. Administrata publike, në të gjitha rastet kur procedurat në fuqi parashikojnë mbajtjen e dokumenteve të identifikimit të shtetasit në dosje, për nevoja të përcaktimit të identitetit të tij, është e detyruar që të bëjë me mjetet e veta, fotokopjimin e dokumentit të identifikimit dhe njësimin e tij me origjinalin.
