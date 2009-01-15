@@ -1,11 +1,9 @@
 # Neni 4
-1. Ndërmarrjet, në kuptim të këtij ligji, klasifikohen në: mikrondërmarrje, ndërmarrje të vogla dhe ndërmarrje të mesme.
-2. Mikrondërmarrjet janë ndërmarrjet, të cilat punësojnë deri në 5 punonjës.
-3. Ndërmarrjet e vogla janë ndërmarrjet, të cilat:
-a) punësojnë 6-20 punonjës;
-b) xhiroja ekonomike vjetore e tyre nuk e kalon shumën 40 milionë lekë;
-c) 100 për qind e kapitalit të këtyre ndërmarrjeve zotërohet nga subjekte, të cilat, në kuptim të këtij ligji, klasifikohen si ndërmarrje të vogla.
-4. Ndërmarrjet e mesme janë ndërmarrjet, të cilat:
-a) punësojnë 21-80 punonjës;
-b) xhiroja ekonomike vjetore e tyre nuk e kalon shumën 80 milionë lekë;
-c) më pak se 25 për qind e kapitalit të këtyre ndërmarrjeve zotërohet nga subjekte, të cilat, në kuptim të këtij ligji, nuk klasifikohen si ndërmarrje të vogla dhe të mesme.
+1. Ndërmarrjet klasifikohen në: mikrondërmarrje, ndërmarrje të vogla dhe ndërmarrje të mesme.
+2. Kategoria e mikrondërmarrjeve dhe ndërmarrjeve të vogla e të mesme (NVM) përfshin ato ndërmarrje, ku punësohen më pak se 250 veta dhe që realizojnë një shifër afarizmi dhe/ose një bilanc total vjetor jo më të madh se 250 milionë lekë.
+3. Ndërmarrje e vogël quhet një ndërmarrje, ku punësohen më pak se 50 persona dhe e cila ka një shifër afarizmi dhe/ose bilanc total vjetor jo më të madh se 50 milionë lekë.
+4. Mikrondërmarrje quhet një ndërmarrje, ku punësohen më pak se 10 persona dhe e cila ka një shifër afarizmi dhe/ose bilanc total vjetor jo më të madh se 10 milionë lekë.
+5. Për qëllime statistikore ndërmarrjet do të klasifikohen në:
+a) mikrondërmarrje: 0 deri 9 persona, ku brenda këtij grupimi të detajohen në 0-1 persona dhe 2-9 persona;
+b) ndërmarrje të vogla: 10 deri 49 persona;
+c) ndërmarrje të mesme: 50 deri 249 persona.
