@@ -1,0 +1,1 @@
+6. Pagesat e tarifës vërtetohen për përdoruesit në librezën e pagesës së energjisë elektrike ku shënohet “tarifa e paguar në vitin_____, data e pagesës, si dhe firma dhe vula e punonjësit të ngarkuar me vjeljen e kësaj tarife.
