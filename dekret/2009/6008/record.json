@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16744,
+  "title": "Për caktimin e datës së zgjedhjeve për Kuvendin",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "6008",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2009-01-14",
+  "published": "2009-01-15",
+  "in_force": "2009-01-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b1ffb931d940aabecf26e681939d1e8b47ad50fbda24f83bee912a6c2414e2d0.docx",
+  "source_sha256": "b1ffb931d940aabecf26e681939d1e8b47ad50fbda24f83bee912a6c2414e2d0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16744",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2009/01/14/6008",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
