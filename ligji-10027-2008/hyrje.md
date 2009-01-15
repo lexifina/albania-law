@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 027, datë 11.12.2008
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN PËR MBROJTJEN E TRASHËGIMISË KULTURORE NËNUJORE, PARIS 2001
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
