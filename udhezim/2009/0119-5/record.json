@@ -1,0 +1,29 @@
+{
+  "qbz_id": 16755,
+  "title": "“PËR PROCEDURAT E HAPJES DHE MBYLLJES SË SALLAVE TË LOJËRAVE BASTEVE SPORTIVE, KAZINOVE ELEKTRONIKE, BINGOVE TRADICIONALE”",
+  "type": "Udhëzim",
+  "kind": "Akt bazë",
+  "number": "5",
+  "institution": "Ministria e Financave",
+  "adopted": "2009-01-19",
+  "published": "2009-01-22",
+  "in_force": "2009-01-22",
+  "in_force_basis": "\"hyn në fuqi me botimin në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/146dd4633db5fdb116980de841bd4b33e049dff836287591fc5904485cc7377b.docx",
+  "source_sha256": "146dd4633db5fdb116980de841bd4b33e049dff836287591fc5904485cc7377b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16755",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2009/01/19/5",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66219,
+    12307
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
