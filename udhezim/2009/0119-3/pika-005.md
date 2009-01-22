@@ -1,0 +1,1 @@
+5. Vërtetim nga organet përkatëse për detyrimet e natyrës fiskale apo të natyrave të ngjashme kundrejt shtetit e tyre apo shteteve të tjera ku ato ushtrojnë veprimtarinë si për shoqërinë, edhe për çdo subjekt në rast grupimi.
