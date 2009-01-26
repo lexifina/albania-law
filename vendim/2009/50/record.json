@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16762,
+  "title": "PËR DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR.1, DATË 7.1.2009 TË KËSHILLIT TË MINISTRAVE \"PËR PAJISJEN, PËR HERË TË PARË, ME LETËRNJOFTIM, TË SHTETASVE SHQIPTARË DHE PËR PERCAKTIMIN E AFATEVE E TË MASAVE SHTRËNGUESE, PËR ATA, QË NUK APLIKOJNË BRENDA KËTYRE AFATEVE\"",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "50",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2009-01-23",
+  "published": "2009-01-26",
+  "in_force": "2009-01-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4656761bfeb49b93ea40b85c17db47a9b6849cd58dc1ae1cfdbd3545110c1590.docx",
+  "source_sha256": "4656761bfeb49b93ea40b85c17db47a9b6849cd58dc1ae1cfdbd3545110c1590",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16762",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/01/23/50",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
