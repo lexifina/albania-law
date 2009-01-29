@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomik dhe të treguesve fiskalë, për periudhën 2010-2012, sipas lidhjes nr.1 “Treguesit kryesorë makroekonomikë” dhe lidhjeve nr.2 e nr.2/1 “Treguesit fiskalë, sipas buxhetit të konsoliduar”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
