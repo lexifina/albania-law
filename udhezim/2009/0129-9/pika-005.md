@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Tatimeve nëpërmjet strukturave kontrolluese bën kontrolle për efekt të zbatimit të kontratave të depozitura nga Subjektet Importuese. Për rastet kur ajo konstaton shkelje të kontratave informon IQT.

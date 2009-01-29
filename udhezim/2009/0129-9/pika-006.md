@@ -1,0 +1,2 @@
+6. Inspektorati Qendror Teknik monitoron përdorimin në Shqipëri të sasive të importuara të kësaj lënde djegëse gazoil (diezel).
+Në rast, të verifikimit të ndryshimit të destinacionit të përdorimit nga kontrata e shitjes dhe identifikimit të ndryshimit të destinacionit në tregtim, IQT aplikon masa penalizuese, sekuestron sasinë e importuar, dhe/ose i propozon Ministrit të Ekonomisë Tregtisë dhe Energjitikës heqjen e lejeve të tregtimit.
