@@ -1,1 +1,1 @@
-7. Ngarkohen ministritë e përmendura në pikën 1, që, brenda muajit prill 2006, të paraqesin, për miratim, te Kryeministri, propozimet për implementimin e këtyre njësive në strukturat e tyre.
+7. Ngarkohen institucionet e përmendura në pikat 1 e 2 të këtij vendimi, të cilat nuk i kanë implementuar, brenda strukturës së tyre, këto njësi të integrimit, të paraqesin, për miratim, te Kryeministri, propozimet për ngritjen e këtyre njësive, brenda muajit janar 2009.

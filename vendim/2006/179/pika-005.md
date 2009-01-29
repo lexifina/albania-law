@@ -6,3 +6,5 @@ c) bashkërendimin e brendshëm institucional për përgatitjen e raporteve për
 d) shpërndarjen e të dhënave për procesin e integrimit europian ndërmjet ministrisë ku bën pjesë, Ministrisë së Integrimit dhe njësive të integrimit europian në ministritë e tjera të linjës;
 dh) vlerësimin e veprimtarisë së institucionit në raport me ecurinë e procesit të integrimit europian, propozimin e mekanizmave funksionalë për lehtësimin e zbatimit të reformave sektoriale, nga zbatimi i marrëveshjes së Stabilizim-Asociimit, përmes procesit të përafrimit të legjislacionit vendas me acquis communautaire, dhe ngritjes së kapaciteteve administrative;
 e) rekomandimin e përparësive, shpërndarjen e burimeve njerëzore dhe planifikimin e veprimtarive për mbështetjen institucionale të procesit të integrimit europian.
+ë) bashkërendimin dhe monitorimin e programimit të ndihmës komunitare, që mund të ofrohet, në kuadër të integrimit europian;
+f) mbështetjen teknike të mbledhjeve të grupeve të punës të përhershme, sipas kapitujve të acquis communautaire-GPKA;
