@@ -1,0 +1,4 @@
+4. Çmimet e shitjes, të negociuara nga ARMO, sha-ja, dhe subjektet tregtare, të licencuara për produktin gazoil (diezel), që, në nomenklaturën e mallrave, përshkruhet në kodin 27101945 dhe që plotëson kërkesat e standardit S SH 31:1997 ose të standardeve të tjera, të barazvlefshme me të, duhet:
+a) të jenë të orientuara drejt kostos së këtij produkti;
+b) të reflektojnë luhatjet e çmimit për këtë produkt në tregun evropian të bursës PLATTS dhe në tregun rajonal;
+c) të respektojnë raportin e ndryshimit të çmimit, ndërmjet produktit gazoil (diezel), që, në nomenklaturën e mallrave, përshkruhet në kodin 27101945 e që plotëson kërkesat e standardit S SH 31:1997, dhe të produktit gazoil (diezel), që, në nomenklaturën e mallrave, përshkruhet në kodin 27101941 e që plotëson kërkesat e standardit S SG EN 590 ose të standardeve të tjera, të barazvlefshme me të.
