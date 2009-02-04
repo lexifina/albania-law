@@ -1,0 +1,1 @@
+7. Organizatori është i detyruar të depozitojë në NJMLF regjistrin e shpërndarjes së biletave, sipas sallave apo pikave të shitjes në të gjithë territorin e vendit përpara hedhjes në qarkullim të biletës dhe të njoftojë në vazhdimësi për çdo parti të re furnizimi në këto pika shitjeje.
