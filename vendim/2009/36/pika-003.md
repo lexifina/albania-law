@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në procedurën konkurruese, për dhënien me koncesion të hidrocentraleve “Meshanik dhe Guvë“, të kërkojë shprehje interesi dhe të pranojë oferta, për të gjithë pjesën e lirë të skemës, ku përfshihet ndërtimi i tyre.
