@@ -1,0 +1,5 @@
+5. Personi fizik apo juridik, privat, i cili do ta blejë truallin e ndërmarrjes ose të objekteve, që ka privatizuar më parë, sipas përcaktimeve në pikat 1 e 2 të këtij vendimi, duhet të paraqesë në dy kopje, në Ministrinë e Financave (Drejtoria e Administrimit dhe Shitjes së Pronave Publike), dokumentet e mëposhtme:
+- Kërkesën me shkrim për blerje të truallit;
+- Vërtetimin hipotekor, certifikatën e pronësisë, të noterizuar, nëse ka, kartelën e pasurisë etj., për objektin, të lëshuar nga zyra vendore e regjistrimit të pasurive të paluajtshme, si dhe hartën treguese të pasurive të paluajtshme, në zonën përkatëse, nëse është e përditësuar jo më pak se 15 ditë nga data e paraqitjes së kërkesës;
+- Fotokopjen e noterizuar të kontratës së shitjes së objektit apo ndërmarrjes, lëshuar nga ish-AKP-ja, ish-AQRNB-ja, Ministria e Financave (DASHPP-ja) dhe nga ndërmarrjet përkatëse, përpara krijimit të agjencive, fotokopje të noterizuar të genplanit apo planimetrisë së objektit (në çastin e privatizimit);
+- Deklaratën noteriale origjinale, në dy kopje, që vërteton se nuk ka proces gjyqësor për objektin dhe truallin përkatës.

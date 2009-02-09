@@ -1,0 +1,1 @@
+7. Zyra rajonale e Agjencisë së Kthimit dhe Kompensimit të Pronave dhe zyrat vendore të regjistrimit të pasurive të paluajtshme kthejnë përgjigje Drejtorisë së Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, brenda 15 ditëve nga data e marrjes së kërkesës.
