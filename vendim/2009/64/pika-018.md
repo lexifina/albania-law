@@ -1,0 +1,1 @@
+18. Tregtari vë në dijeni konsumatorin, në mënyrë të përshtatshme, përpara lidhjes së kontratës, për vlerën, në bazë të së cilës është llogaritur çmimi, që do të paguhet nga konsumatori, sipas shkronjës “b” të pikës 17 të këtij vendimi.

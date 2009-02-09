@@ -1,0 +1,1 @@
+19. Nëse tregtari nuk provon se ai e ka vënë në dijeni konsumatorin për çmimin e shërbimit financiar, konsumatori nuk është i detyruar të paguajë shërbimet e dhëna nga tregtari, në rast se ai ushtron të drejtën e heqjes dorë nga kontrata në largësi për këto shërbime.

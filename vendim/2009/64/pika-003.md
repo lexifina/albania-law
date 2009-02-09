@@ -1,0 +1,1 @@
+3. Mjetet e komunikimit në largësi, që e lejojnë tregtarin për të pasur një komunikim individual me konsumatorin, përveç atyre të përcaktuara në nenin 39 të ligjit “Për mbrojtjen e konsumatorit”, do të përdoren nga tregtari, me kusht që konsumatori të mos ketë shprehur qartë mospëlqimin e tij për përdorimin e tyre.

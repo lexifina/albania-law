@@ -1,0 +1,4 @@
+17. Kur konsumatori ushtron të drejtën e heqjes dorë nga kontrata në largësi për shërbimet financiare, ai paguan tregtarin, brenda 14 ditëve kalendarike, vetëm nëse:
+a) shuma i përgjigjet çmimit të shërbimit financiar, të dhënë efektivisht nga shitësi, përpara ushtrimit të së drejtës së heqjes dorë, pavarësisht nga çasti i heqjes dorë;
+b) kostoja e shërbimit financiar, e dhënë efektivisht nga tregtari, varet nga koha në të cilën është ushtruar e drejta e heqjes dorë, një shumë që i jep mundësi konsumatorit të llogarisë çmimin, që duhet paguar mbi një normë bazë, për periudhën ndërmjet datës në të cilën është lidhur kontrata dhe datës në të cilën konsumatori ushtron të drejtën e tij të heqjes dorë.
+Në të dyja rastet e përshkruara në shkronjat “a” e “b” të kësaj pike, shuma për t’u paguar nuk duhet të jetë e tillë, që të interpretohet si penalizim.

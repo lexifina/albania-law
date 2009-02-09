@@ -1,0 +1,1 @@
+11. Në rastet kur tregtari nuk arrin të përmbushë detyrimet e veta, për dhënie informacioni, të përcaktuara në pikën 7 të këtij vendimi, ka të drejtë të heqë dorë nga kontrata brenda tri muajve nga data e marrjes së mallrave ose nga data e lidhjes së kontratës, për ofrimin e shërbimit.

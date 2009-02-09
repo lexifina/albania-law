@@ -1,0 +1,1 @@
+23. Barra e provës për detyrimet e tregtarit për ta vënë në dijeni konsumatorin, sipas pikave 4, 7, 18, 20 e 21, të këtij vendimi, për miratimin e nga ana e këtij të fundit për lidhjen e kontratës dhe, kur është e arsyeshme, për përmbushjen e saj, bien mbi tregtarin.

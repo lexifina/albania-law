@@ -1,0 +1,1 @@
+13. Kur konsumatori ushtron të drejtën e heqjes dorë, të përcaktuar në pikën 3 të nenit 37 të ligjit “Për mbrojtjen e konsumatorit”, tregtari është i detyruar të kthejë shumën e paguar nga konsumatori brenda 30 ditëve, duke filluar nga data në të cilën konsumatori ka ushtruar të drejtën e heqjes dorë.

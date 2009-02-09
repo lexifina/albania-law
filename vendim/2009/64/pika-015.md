@@ -1,0 +1,1 @@
+15. Në rast anulimi të marrëveshjes së kredisë, sipas përcaktimit në pikën 4 të nenit 37 të ligjit “Për mbrojtjen e konsumatorit”, konsumatori nuk i paguan tregtarit ose palës kredituese asnjë shpenzim a kompensim.

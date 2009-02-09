@@ -1,0 +1,1 @@
+9. Dispozitat e pikave 7 e 8, shkronjat “c” e “ç”, nuk zbatohen ndaj shërbimeve, të cilat janë kryer nëpërmjet përdorimit të mjeteve të komunikimit në largësi, kur ato janë siguruar vetëm në një rast dhe janë faturuar nga operatori i mjeteve të komunikimit në largësi.

@@ -1,0 +1,1 @@
+16. Çdo kusht i kontratës, për të cilin është rënë dakord ndërmjet palëve, që kundërshton dispozitat e pikës 4 të nenit 37 të ligjit “Për mbrojtjen e konsumatorit”, është i pavlefshëm dhe shfuqizohet.

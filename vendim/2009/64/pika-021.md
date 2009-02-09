@@ -1,0 +1,1 @@
+21. Tregtari mund t’i sigurojë konsumatorit mallra dhe shërbime me cilësi dhe çmim ekuivalent, me kusht që kjo mundësi të ishte marrë parasysh qartësisht përpara lidhjes së kontratës ose të ishte përfshirë në kontratë. Në këtë rast, tregtari vë në dijeni konsumatorin për këtë mundësi, në mënyrë të qartë dhe të kuptueshme.

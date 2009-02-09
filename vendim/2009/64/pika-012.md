@@ -1,0 +1,1 @@
+12. Kur informacioni, sipas pikës 7 të këtij vendimi, i është dhënë konsumatorit brenda një periudhe trimujore, sipas pikës 11 të këtij vendimi, afati prej 14 ditësh kalendarike, i përcaktuar në pikën 3 të nenit 37 të ligjit “Për mbrojtjen e konsumatorit”, do të fillojë në çastin e marrjes së informacionit.

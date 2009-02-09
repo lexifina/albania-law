@@ -1,0 +1,1 @@
+20. Nëse një tregtar nuk arrin të përmbushë, nga ana e tij, një kontratë, mbi bazën që mallrat ose shërbimet e porositura janë të padisponueshme, ai vë në dijeni konsumatorin dhe i kompenson çdo shumë të paguar, brenda 30 ditëve, duke filluar nga data në të cilën tregtari duhej të kishte përmbushur detyrimet kontraktuale.

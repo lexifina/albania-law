@@ -1,0 +1,1 @@
+22. Kostoja e kthimit të mallrave, në vijim të ushtrimit të së drejtës të heqjes dorë, për rastet e përmendura në pikën 21 të këtij vendimi, i ngarkohet tregtarit dhe konsumatori duhet të njoftohet për këtë.
