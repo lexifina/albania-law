@@ -1,0 +1,3 @@
+2. Dispozitat e pjesës VI të kreut I të ligjit “Për mbrojtjen e konsumatorit”, do të zbatohen edhe për kontratat:
+a) e furnizimit me mallra ose shërbime, përveç atyre, për të cilat konsumatori ka kërkuar vizitën e tregtarit, me kusht që, kur e ka kërkuar vizitën nuk dinte ose, në mënyrë të arsyeshme, nuk mund të dinte, se furnizimi me këto mallra a shërbime të tjera ishte pjesë e veprimtarisë, tregtare apo profesionale, të tregtarit;
+b) për të cilat është bërë një ofertë nga konsumatori, sipas kushteve të ngjashme me ato të parashikuara në pikën 1 të nenit 34 të ligjit “Për mbrojtjen e konsumatorit”, pavarësisht nëse konsumatori është i lidhur ose jo nga oferta e tij, përpara pranimit të ofertës nga tregtari.

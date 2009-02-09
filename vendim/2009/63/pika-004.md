@@ -1,0 +1,1 @@
+4. Njoftimi i konsumatorit për heqjen dorë nga kontrata bëhet me shkrim dhe ka të shënuar datën. Njoftimi dërgohet në adresën e treguar nga tregtari, përpara mbarimit të afatit, prej 14 ditësh kalendarike.

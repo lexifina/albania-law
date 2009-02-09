@@ -1,0 +1,1 @@
+7. Kur çmimi i mallrave ose i shërbimeve është plotësisht a pjesërisht i mbuluar nga një kredi, të dhënë nga tregtari ose nga një person tjetër, dhe ka një lidhje të ngushtë tregtare ndërmjet kredidhënësit dhe tregtarit, marrëveshja e kredisë anulohet, pa shpenzim dhe penalizim për konsumatorin, nëse konsumatori ushtron të drejtën e tij, të heqjes dorë.
