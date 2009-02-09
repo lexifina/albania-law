@@ -1,0 +1,1 @@
+2. Kohëzgjatja normale e programeve të studimit, të ciklit të dytë, do të jetë 2 vite akademike, me plotësimin, së paku, të 120 krediteve. Në përfundim të këtyre programeve të studimit lëshohet diplomë e nivelit të dytë (DND), në fushën e arsimimit të kryer.
