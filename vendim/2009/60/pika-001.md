@@ -1,0 +1,1 @@
+1. Shërbim financiar, në kuptim të këtij vendimi, është letërkredia, e nxjerrë nga banka, agjente për Operatorin e Sistemit të Shpërndarjes, si pjesë e transanksionit financiar të marrëveshjes së garancisë pjesore të riskut, që do të lidhet ndërmjet Republikës së Shqipërisë dhe Bankës Botërore për Rindërtim dhe Zhvillim (IBRD).
