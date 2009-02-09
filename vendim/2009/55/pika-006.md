@@ -1,0 +1,1 @@
+6. Shkolla e lartë universitare private “Kristal”, filiali Fier, duhet t’u nënshtrohet procesit të akreditimit institucional dhe të programeve të studimit, brenda afateve të përcaktuara në ligjin në fuqi.
