@@ -1,0 +1,1 @@
+3. Autoritetet kontraktore, institucionet e përmendura në pikën 1 të këtij vendimi, brenda datës 31 janar, të dërgojnë në Ministrinë e Brendshme, si organi qendror blerës, të dhënat, teknike e sasiore, dhe fondin përkatës, për çdo prokurim.
