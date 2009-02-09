@@ -1,0 +1,1 @@
+6. Filiali i shkollës së lartë universitare private “Kristal” në Korçë, duhet t’i nënshtrohet procesit të akreditimit institucional dhe të programeve të studimit, brenda afateve të përcaktuara në ligjin në fuqi.
