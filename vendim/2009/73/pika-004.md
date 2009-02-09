@@ -1,0 +1,2 @@
+4. Kolegji profesional privat “Dentarium-AL”, do ta fillojë veprimtarinë mësimore për programin e studimit, të përcaktuar në pikën 2 të këtij vendimi, pasi të ketë marrë, jo më vonë se tri javë para fillimit të veprimtarisë mësimore, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
+Ministri e lëshon lejen pasi vlerëson se institucioni privat i arsimit të lartë ka përmbushur angazhimet e deklaruara, në përputhje me udhëzimin e tij, për këtë qëllim.

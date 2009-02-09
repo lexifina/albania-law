@@ -1,0 +1,1 @@
+2. Kolegji profesional privat “Dentarium-AL”, do të ofrojë programin e studimit, të ciklit të parë, në “Protezist stomatolog”, në formën e studimit me kohë të plotë. Programi i studimit realizohet me 180 kredite dhe kohëzgjatja e tij do të jetë tri vite akademike. Në përfundim të programit të studimit lëshohet diploma e nivelit të parë (DNP), në fushën e arsimimit të kryer.
