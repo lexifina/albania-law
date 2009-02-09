@@ -1,1 +1,0 @@
-12. Organet përkatëse të qeverisjes vendore, brenda 7 ditëve, pas marrjes së kërkesës nga Ministria e Financave, i përcjellin kësaj ministrie (Drejtorisë së Administrimit dhe Shitjes së Pronave Publike), vërtetimin nëse subjekti kërkues ka paguar qiranë e truallit, të shoqëruar me një kopje të mandatpagesave.

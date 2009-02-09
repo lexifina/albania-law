@@ -1,1 +1,0 @@
-3. Të gjitha subjeket, të cilat kanë privatizuar objektet apo ndërmarrjet, sipas pikës 1 të këtij kreu dhe që nuk kanë privatizuar sipërfaqen e truallit, sipas genplanit të dokumentacionit të privatizimit, duhet të paguajnë qiranë dhe ta blejnë këtë truall deri më 30 qershor 2008.

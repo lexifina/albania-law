@@ -1,1 +1,0 @@
-7. Agjencia e Kthimit dhe Kompensimit të Pronave dhe zyra e regjistrimit të pasurive të paluajtshme i kthen përgjigje Ministrisë së Financave brenda një periudhe 15-ditore nga data e marrjes së kërkesës përkatëse.

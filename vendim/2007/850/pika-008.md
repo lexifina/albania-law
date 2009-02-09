@@ -1,1 +1,0 @@
-8. Në rastet kur konfirmohet se trualli i objekteve të shitura ka pronar trualli apo ka pronar shtetin, atëherë Ministria e Financave (Drejtoria e Administrimit dhe Shitjes së Pronave Publike) kryen shitjen e truallit dhe lidhjen e kontratës.
