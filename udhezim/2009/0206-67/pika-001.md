@@ -1,0 +1,1 @@
+1. DPGJC, bazuar në të dhënat e RKGJC, vë në dispozicion të të gjitha bashkive/komunave/njësive bashkiake për Tiranën, listat e zgjedhësve për çdo ZGJC. Listat janë të vlefshme në ndërfaqen grafike të RKGJC dhe shkarkohen online nga RKGJC. Një kopje elektronike e listave i vihet në dispozicion çdo ZGJC-je, së bashku me aplikimin kompjuterik të listës së zgjedhësve.

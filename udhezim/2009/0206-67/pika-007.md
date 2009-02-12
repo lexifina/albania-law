@@ -1,0 +1,1 @@
+7. Kryetari i bashkisë/komunës/njësisë bashkiake bën shpalljen e listës paraprake brenda datës 6 mars, pranë zyrave përkatëse dhe për çdo qendër votimi, sipas rregullave të përcaktuara në pikën (c) të nenit 49 të Kodit Zgjedhor.

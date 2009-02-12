@@ -1,0 +1,2 @@
+12. Drejtoria e Përgjithshme e Gjendjes Civile, pasi ka marrë listat nga bashkitë/komunat/njësitë bashkiake, për zgjedhësit në institucionet e posaçme, brenda datës 25.5.2009, u dërgon listën emërore të zgjedhësve që janë përfshirë në listën e zgjedhësve të institucioneve të veçanta dhe u kërkon heqjen e tyre nga lista e zgjedhësve në njësinë përkatëse, (njofton njësitë vendore për heqjen e tyre nga lista përkatëse).
+Ndërsa për zgjedhësit e parashikuar në germën (c) të pikës 6, ky veprim do të kryhet brenda datës 29.5.2009.

@@ -1,0 +1,1 @@
+3. Në aplikimin kompjuterik të listës së zgjedhësve janë evidentuar zgjedhësit që e kanë qendrën e tyre të votimit të pasaktë; numri i qendrës së votimit nuk është në numrin e qendrave të votimit që i përkasin bashkisë/komunës/njësisë bashkiake, apo dhe gabime të tjera të konstatuara gjatë vendosjes së adresës zgjedhore; bosh, karaktere joshifrore.

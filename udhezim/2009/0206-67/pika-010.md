@@ -1,0 +1,5 @@
+10. Hartimi i listave të zgjedhësve në institucionet e posaçme do të ndjekë këtë kalendar veprimi:
+a) Komandantët e reparteve brenda datës 14.5.2009 përgatisin dhe i dorëzojnë kryetarit të bashkisë/komunës/njësisë bashkiake, brenda territorit të së cilës ndodhen, listën emërore të zgjedhësve, që do të ndodhen në repart gjatë ditës së zgjedhjeve.
+b) Drejtuesit e burgjeve dhe të vendeve të paraburgimit brenda datës 19.05.2009 përgatisin dhe i dorëzojnë kryetarit bashkisë/komunës/njësisë bashkiake, brenda territorit të së cilës ndodhet ky institucion, listën emërore të të gjithë zgjedhësve, që do të ndodhen në institucion gjatë ditës së zgjedhjeve.
+c) Drejtuesit e institucioneve shëndetësore që pranojnë pacientë për një periudhë më shumë se 10 ditë, brenda datës 28 maj 2009 përgatisin dhe i dorëzojnë kryetarit të bashkisë/komunës/njësisë bashkiake listën emërore te zgjedhësve, që do të ndodhen në institucion gjatë ditës së zgjedhjeve.
+Lista emërore e zgjedhësve sipas pikave (a), (b) dhe (c) do të hartohet në letër dhe elektronikisht në përputhje me aplikimin elektronik dhe formularin model 4, bashkëlidhur këtij udhëzimi.

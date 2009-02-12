@@ -1,0 +1,3 @@
+5. Zyra e gjendjes civile në bashki/komunë/njësi bashkiake, me urdhër të kryetarit, printon, nga RKGJC-ja, listën paraprake të shtetasve, sipas përcaktimeve të bëra në pikën b të nenit 49, të cilët në datën 28.6.2009 mbushin moshën 18 vjeç. Lista paraprake përmban: emër, atësi, mbiemër, datëlindje, kodin e banesës (kodin 10 shifror).
+Lista paraprake do të gjenerohet në sistemin online të Regjistrit Kombëtar të Gjendjes Civile. Nga sistemi i RKGJC-së përgjegjësi i ZGJC-së shkarkon listën paraprake dhe e printon atë. Detajet jepen në aneksin 3 “Lista e zgjedhësve”.
+Kjo listë do t’i dorëzohet, e nënshkruar nga përgjegjësi i ZGJC-se, kryetarit të bashkisë/komunës/njësisë bashkiake përkatëse, brenda datës 28.2.2009, sipas modelit nr.1, bashkëlidhur këtij udhëzimi.

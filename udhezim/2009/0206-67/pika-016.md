@@ -1,0 +1,1 @@
+16. Për zbatimin e këtij udhëzimi ngarkohen kryetarët e bashkive/komunave/njësive bashkiake, Drejtoria e Përgjithshme e Gjendjes Civile, punonjësit e ZGJC-ve në bashki/komuna/njësi bashkiake dhe institucionet e tjera shtetërore, që parashikohen në Kodin Zgjedhor.
