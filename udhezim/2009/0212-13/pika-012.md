@@ -1,0 +1,1 @@
+12. Për shërbimin e kryer, institucionet përkatëse të gjykatës, Ministrisë së Drejtësisë dhe prokurorisë përfitojnë 10% komision të llogaritur mbi masën e tarifave që kanë arkëtuar dhe kanë transferuar në llogarinë përkatëse të thesarit, ndërsa Posta Shqiptare sh.a. përfiton komision në masën 3%.

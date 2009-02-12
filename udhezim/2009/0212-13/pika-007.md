@@ -1,0 +1,1 @@
+7. Në rast se personi kërkon kopje të akteve apo dokumenteve të lëshuara nga organet gjyqësore apo noteriale, vlera e pullës është përcaktuar në shtojcën nr.1, me kusht që tek akti ose dokumenti të jetë shënuar fjala ”kopje”. Në rast të kundërt merret vlera e plotë e tarifës.

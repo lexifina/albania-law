@@ -1,0 +1,1 @@
+1. Tarifat për veprime e shërbime nga administratat gjyqësore dhe Ministrisë së Drejtësisë, prokurori, noteri caktohen sipas shtojcës nr.1, që i bashkëlidhet këtij udhëzimi dhe është pjesë përbërëse e tij.
