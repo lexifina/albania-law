@@ -1,0 +1,2 @@
+4. Me hyrjen në fuqi të këtij vendimi, “Gruppo Minerario Albanese” sh.p.k., të pyllëzojë, përpara se të fillojë veprimtarinë, me fondet e veta, 15 (pesëmbëdhjetë) ha, me pyje, në ngastrat e përcaktuara nga drejtoria përkatëse e shërbimit pyjor.
+Lloji i drurëve, që do të mbillen, grafiku i mbjelljeve, mënyra e përmirësimit të kullotës caktohen nga drejtoria përkatëse e shërbimit pyjor, e cila do të ndjekë realizimin e mbjelljeve deri në marrjen në dorëzim me procesverbal, të sipërfaqes së pyllëzuar dhe të përmirësuar, sipas marrëveshjes, që do të lidhë me kërkuesin.

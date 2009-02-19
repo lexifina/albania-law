@@ -1,0 +1,1 @@
+3. Vlera e kësaj sipërfaqeje pyjore të paguhet nga “Gruppo Minerario Albanese” sh.p.k. para hyrjes në fuqi të këtij vendimi. Llogaritja e tarifave për heqjen nga fondi pyjor të bëhet sipas lidhjes 4 të vendimit nr.391, datë 21.6.2006 “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”.
