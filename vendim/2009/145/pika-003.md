@@ -1,0 +1,1 @@
+3. Shpenzimet, në vlerën 30 000 000 (tridhjetë milionë) lekë, për zhvillimin e procedurave të përzgjedhjes së konsulentit, për shërbimet, që do të kryejë konsulenti, si dhe për shpenzime të tjera, të nevojshme për realizimin e transferimit të paketës, të mbulohen nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës, deri në përfundim të procesit të shitjes.

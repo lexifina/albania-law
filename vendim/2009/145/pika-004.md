@@ -1,0 +1,1 @@
+4. Pas përfundimit të procesit të shitjes, Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës t’i rimbursohen shpenzimet e përmendura në pikën 3 të këtij vendimi, nga të ardhurat e realizuara nga shitja e paketës së aksioneve shtetërore, sipas raportit financiar, të paraqitur nga kjo ministri.
