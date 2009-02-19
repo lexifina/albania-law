@@ -1,0 +1,1 @@
+1. Përcaktimin e Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit si autoritet kontraktues, për dhënien e koncesionit, të formës “BOT” (ndërtim, shfrytëzim dhe transferim), shoqërisë “ZUMAX”, AG, për ndërtimin e portit të kontenierëve, në Pyllin e Sodës, Vlorë.
