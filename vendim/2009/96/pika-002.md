@@ -1,0 +1,1 @@
+2. Programet e studimeve “Master i nivelit të parë” synojnë arsimim dhe trajnim të mëtejshëm profesional. Këto programe studimi do të realizohen me, së paku, 60 kredite e me kohëzgjatje normale 1 vit. Në përfundim të këtyre studimeve lëshohet diploma “Master i niveli të dytë” (MND), në fushat e arsimimit dhe trajnimit të kryer.

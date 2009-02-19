@@ -1,0 +1,1 @@
+3. Ngarkohet shkolla e lartë universitare private “Universiteti “Marin Barleti”” që, për çdo program studimi, nëpërmjet marrëdhënieve kontraktuale, të sigurojë zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, nga një personel akademik me kualifikimin e nevojshëm dhe sipas specialitetit.
