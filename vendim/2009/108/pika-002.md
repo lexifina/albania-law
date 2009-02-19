@@ -1,0 +1,1 @@
+2. Shkeljet e tjera, të parashikuara, shprehimisht, në pikën 1 të nenit 38 të ligjit nr.9385, datë 4.5.2005 “Për pyjet dhe shërbimin pyjor”, të ndryshuar, kur nuk përbëjnë asnjërin nga rastet e parashikuara në pikën 1, të këtij vendimi, vlerësohen me pasoja të lehta.
