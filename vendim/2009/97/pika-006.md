@@ -1,0 +1,1 @@
+6. Tarifa vjetore e shkollimit për studentët, që do të regjistrohen me kohë të plotë, në vitin akademik 2008-2009, në programin e studimit “Master i nivelit të parë”, në zhvillimin e integruar rural, do të jetë 60 000 (gjashtëdhjetë mijë) lekë.

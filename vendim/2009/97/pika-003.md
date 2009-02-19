@@ -1,0 +1,1 @@
+3. Kuota e pranimeve në programet e studimit “Master i nivelit të parë”, në zhvillimin e integruar rural, me kohë të plotë, në universitetin “Fan S. Noli”, Korçë, për vitin akademik 2008-2009, të jetë 40.

@@ -1,0 +1,1 @@
+1. Hapjen në Universitetin “Fan S. Noli”, Korçë, në Fakultetin e Bujqësisë, të programit të studimit “Master i nivelit të parë”, në zhvillimin e integruar rural, në përfundim të të cilit lëshohet diplomë “Master i nivelit të parë” (MNP), në profilin “Zhvillim i integruar rural”.
