@@ -1,0 +1,1 @@
+1.Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit t’i shtohet fondi 15 000 000 (pesëmbëdhjetë milionë) lekë, në buxhetin e miratuar për vitin 2009, për kryerjen e studimit të plotë, në shkallë vendi, për gjendjen aktuale të kulturës së ullirit dhe për perspektivën e zhvillimit.
