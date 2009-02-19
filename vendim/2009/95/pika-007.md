@@ -1,0 +1,1 @@
+7. Shpronësimi të bëhet në favor të bashkisë së Elbasanit dhe regjistrimi i ri i pasurisë, të përmendur në pikën 1 të këtij vendimi, të bëhet brenda 30 ditëve nga data e hyrjes në fuqi e këtij vendimi.

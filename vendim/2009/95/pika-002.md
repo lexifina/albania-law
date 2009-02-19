@@ -1,0 +1,1 @@
+2. Vlera e përgjithshme e shpronësimit për pasuritë në sipërfaqe 872 (tetëqind e shtatëdhjetë e dy) m2, tokë truall, dhe sipërfaqe ndërtese 898,25 (tetëqind e nëntëdhjetë e tetë presje njëzet e pesë) m2, është 30 714 285,5 (tridhjetë milionë e shtatëqind e katërmbëdhjetë mijë e dyqind e tetëdhjetë e pesë pikë pesë) lekë, sipas listës, që i bashkëlidhet këtij vendimi.
