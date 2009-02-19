@@ -1,0 +1,1 @@
+2. Vlera e shpërblimit, për sipërfaqen 4770 (katër mijë e shtatëqind e shtatëdhjetë) m2, tokë/arë, në masën 4 770 000 (katër milionë e shtatëqind e shtatëdhjetë mijë) lekë, të përballohet nga të ardhurat e bashkisë së Fierit, miratuar në buxhetin e vitit 2008.

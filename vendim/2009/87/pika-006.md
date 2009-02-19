@@ -1,0 +1,1 @@
+6. Shpronësimi të bëhet në favor të bashkisë së Fierit dhe regjistrimi i ri i pasurisë prej 4 770 (katër mijë e shtatëqind e shtatëdhjetë) m2 tokë/arë, të bëhet brenda 30 ditëve nga data e hyrjes në fuqi të këtij vendimi.
