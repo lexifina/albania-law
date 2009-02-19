@@ -1,1 +1,0 @@
-20. Procedurat e shitjes për të gjitha asetet që janë publikuar para daljes së këtij udhëzimi, do të bëhen sipas këtij udhëzimi ndërsa për asetet e publikuara dhe që nuk janë shitur të zbatohet pika e udhëzimit nr.185, datë 26.3.2007 “Për shoqëritë anonime në likuidim e sipër, me kapital tërësisht shtetëror”.
