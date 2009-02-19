@@ -1,0 +1,1 @@
+2. Vlera e dëmshpërblimit, në shumën 26 705 454 (njëzet e gjashtë milionë e shtatëqind e pesë mijë e katërqind e pesëdhjetë e katër) lekë, do të shpërndahet nga komuna Qelëz e rrethit Pukë, për kryefamiljarët, sipas tabelës nr.2, që i bashkëlidhet këtij vendimi.
