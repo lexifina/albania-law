@@ -1,0 +1,2 @@
+# Neni 6
+Drejtoria e Përgjithshme e Rrugëve njofton organet e kontrollit në rrugë sipas nenit 12 të Kodit Rrugor (Policinë Rrugore, Drejtorinë e Përgjithshme të Shërbimeve të Transportit Rrugor, etj.) dhe Drejtorinë e Përgjithshme të Doganave për transportuesit e huaj, që nuk e kanë selinë në Shqipëri, së bashku me një numër të konsiderueshëm specimenesh të autorizimeve për t’u shpërndarë në të gjithë territorin e Shqipërisë.
