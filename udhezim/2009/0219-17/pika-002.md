@@ -1,0 +1,1 @@
+2. Ky formular do të shtypet në dy (2) kopje, me letër vetëkopjuese. Dimensioni i formatit është A4. Formulari do të prodhohet në faqe të formatit “letër” si formularët e tjerë. Shënimet sqaruese për plotësimin e këtij formulari do të jenë vetëm në pjesën e prapme të kopjes së dytë.
