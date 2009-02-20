@@ -1,0 +1,3 @@
+# Neni 1
+Qëllimi
+Qëllimi i këtij udhëzimi është parandalimi i përdorimit të subjekteve raportuese për pastrim parash dhe për financim të terrorizmit. Kjo arrihet përmes zbatimit prej subjekteve raportuese të kërkesave për raportim të transaksioneve financiare ose të aktivitetit të dyshimtë tek “autoriteti përgjegjës”, në përputhje me kërkesat e ligjit. Subjektet duhet të marrin masat e nevojshme dhe të zbatojnë procedura të standardeve të kërkuara, për të siguruar raportim të saktë dhe në kohë të formularëve që i bashkëngjiten këtij udhëzimi, sipas përcaktimit të nenit 12 të ligjit, si dhe raportin e vetëkontrollit.
