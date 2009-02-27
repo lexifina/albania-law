@@ -1,0 +1,1 @@
+2. Efektet financiare për pagesën e shpërblimit të anëtarëve të Këshillit Kombëtar të Barazisë Gjinore, në shumën prej 130 000 (njëqind e tridhjetë mijë) lekë në vit, të përballohet nga fondet e programuara në buxhetin vjetor të Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
