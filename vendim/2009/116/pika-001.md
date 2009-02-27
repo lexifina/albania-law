@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i nënstacionit 110/10 KV, në qytetin e Bajram Currit, sipas tabelës, që i bashkëlidhet këtij vendimi.
