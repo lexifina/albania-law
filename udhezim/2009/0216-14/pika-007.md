@@ -1,0 +1,3 @@
+7. Në zbatim të kreut te II-të, pika 2, nuk do të zbatohen procedurat e vlerësimit të trojeve të objekteve si me poshtë:
+a) Për trojet e objekteve që nga ish-Agjencia Kombëtare e Privatizimit dhe DASHPP në Ministrinë e Financave, kanë filluar procedurat e shitjes së tyre (janë publikuar për shitje). Pra, janë publikuar për shitje në fazën me VAM fillestar dhe do të vazhdojë publikimi edhe sipas fazës me “ulje VAM-i” .
+b) Trojet e objekteve të privatizuara sipas kërkesave të depozituara nga subjektet përkatëse për blerje dhe për të cilat janë depozituar aktet e vlerësimit të truallit pranë Ministrisë së Financave , Drejtoria e Administrimit dhe Shitjes së Pronave Publike sipas legjislacionit në periudhën përkatëse.
