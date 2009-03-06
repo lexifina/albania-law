@@ -1,0 +1,12 @@
+8. Kërkuesi, me marrjen e njoftimit për të drejtën e tjetërsimit me shpërblim, paguan, në numrin e llogarisë së caktuar nga AKKP-ja, për llogari të fondit të kompensimit të pronave, të krijuar sipas pikës 1 nenit 23 të ligjit nr.9235, datë 29.7.2004 “Për kthimin dhe kompensimin e pronës”, të ndryshuar, kundërvlerën në lekë, të sipërfaqes, që do të tjetërsohet në pronësi të tij. Kjo pagesë bëhet jo më vonë se 30 ditë nga data e marrjes së njoftimit prej AKKP-së. Shkelja e këtij afati përbën shkak për mospranimin, nga AKKP-ja, të kërkesës për tjetërsim.
+V. Vendimi i tjetërsimit
+1. Drejtori i Përgjithshëm i AKKP-së vendos kalimin e pronësisë së oborrit në përdorim brenda 10 ditëve nga data e mbërritjes së mandatit, që vërteton pagimin e vlerës, në rastin e tjetërsimit me kundërshpërblim.
+2. Drejtori i Përgjithshëm i AKKP-së vendos kalimin e pronësisë së oborrit në përdorim brenda 10 ditëve nga data e njoftimit të kërkuesit për të drejtën e tjetërsimit pa kundërshpërblim.
+3. Forma e vendimit përcaktohet sipas modeleve, të paraqitura në aneksin 3, që i bashkëlidhet këtij vendimi.
+4. Vendimi i Drejtorit të Përgjithshëm i njoftohet kërkuesit dhe ZRPP-së për regjistrin.
+VI. Dispozita të fundit
+1. Vendimi nr.541, datë 22.8.2007 i Këshillit të Ministrave “Për përcaktimin e procedurave të kalimit në pronësi të trojeve, mbi të cilat janë bërë ndërtime të ligjshme, para datës 10.8.1991 dhe të sipërfaqeve, në dokumentin e pronësisë, për të cilat është bërë shënimi “Oborr në përdorim””, shfuqizohet.
+2. Në rastin e kërkesave të paraqitura pranë AKKP-së, në mbështetje të vendimit të sipërpërmendur, dhe për të cilat AKKP-ja nuk ka dhënë ende vendim, deri në datën e hyrjes në fuqi të këtij vendimi, kërkuesit duhet të pohojnë vullnetin e tyre, nëpërmjet një kërkese të re, për tjetërsim, të shoqëruar me dokumentet, që nuk i kanë paraqitura, apo nëpërmjet tërheqjes me shkrim të kërkesës së parë. Në rast të tërheqjes së kërkesës, AKKP-ja vendos mospranimin e saj, për këtë shkak.
+3. Në rast se AKKP-ja ka vendosur mospranimin e kërkesës për tjetërsim, në mbështetje të vendimit nr.541 datë 22.8.2007 të Këshillit të Ministrave, për shkak të mospagimit të çmimit nga kërkuesi, atëhere kërkuesi mund t’i drejtohet AKKP-së me kërkesë të re, në përputhje me përcaktimet e këtij vendimi.
+4. Ngarkohen Ministria e Drejtësisë, Agjencia e Kthimit dhe Kompensimit të Pronave dhe Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
