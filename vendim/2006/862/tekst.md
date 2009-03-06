@@ -4,7 +4,7 @@ Nr. 862, datë 20.12.2006 
 
 Për KRIJIMIN E SHOQËRISË “OPERATORI I SISTEMIT TË SHPËRNDARJES” SHA
 
-(Ndryshuar me VKM nr. 436, datë 8.4.2008)
+(Ndryshuar me VKM nr. 436, datë 8.4.2008; nr. 218, datë 6.3.2009)
 
 (i përditësuar)
 
@@ -32,9 +32,23 @@ d) shërbime të tjera për klientët, të nevojshme për të përmbushur detyri
 
 5. KESH sh.a. gëzon të drejtën si pjesëmarrës në asetet e OSSH sh.a. deri në çastin e kalimit të tyre në kapitalin e shoqërisë së krijuar, me këtë vendim. Të drejtat dhe detyrimet më 31.12.2006 mbeten për llogari të KESH sh.a., me përjashtim të pjesës së detyrimeve, që lidhen me huatë/kreditë afatgjata nga donatorët e huaj, që janë, disbursuar dhe materializuar, dhe që do të materializohen në të ardhmen si pjesë e aseteve të OSSH sha-së, në kuadër dhe në zbatim të projekteve e të marrëveshjeve përkatëse me kreditorët e huaj, sipas të cilave KESH sh.a.-ja do të mbetet në rolin e kredimarrësit ose të nënkredimarrësit, kur kredimarrëse është qeveria.
 
+Nga ky rregull bëjnë përjashtim kreditë, ndërmjet KESH, sh.a.-së, dhe Bankës Europiane të Investimit, në shumën 2,3 (dy presje tre) miliardë lekë, dhe ndërmjet Republikës së Shqipërisë dhe Bankës Botërore, në shumën 2,68 (dy presje gjashtëdhjetë e tetë) miliardë lekë, sipas specifikimeve, të përcaktuara në shtojcën 1, që i bashkëlidhet këtij vendimi, detyrimet e të cilave nuk do t’i transferohen OSSH, sh.a.-së.
+
 5/1 Asetet në administrim të KESH sh.a.-së, që i kalojnë Operatorit të Sistemit të Shpërndarjes (OSSH), sha, të regjistrohen në pronësi të këtij operatori.
 
  5/2. Pronësia e aksioneve të OSSH sh.a.-së, transferohet nga KESH sh.a.-ja, te Ministria e Ekonomisë, Tregtisë dhe Energjetikës, me urdhër të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës.
+
+5/3. Asetet e financuara nga kreditë afatgjata, të përfunduara gjatë vitit 2008, nga KESH, sh.a., për OSSH, sh.a.-në, në shumën 1,1 (një presje një) miliard lekë, t’i transferohen Operatorit të Sistemit të Shpërndarjes (OSSH), sh.a.-së, dhe të regjistrohen në pronësi të këtij operatori.
+
+ Autorizohet Ministri i Ekonomisë, Tregtisë dhe Energjetikës ta pasqyrojë këtë transferim në formën e uljes së kapitalit të KESH, sh.a.-së, dhe të rritjes së kapitalit të OSSH, sh.a.-së, përkatësisht në vlerën e përcaktuar më lart.
+
+ 5/4. Detyrimet afatshkurtra, për blerjen e energjisë elektrike dhe tarifën e transferimit, që OSSH, sh.a., ka, respektivisht, ndaj KESH, sh.a.-së, dhe Operatorit të Sistemit të Transmetimit (OST), sh.a.-së, deri në shumën 1 (një) miliard lekë, të shuhen dhe të pasqyrohen si rritje kapitali e OSSH, sh.a.-së.
+
+ Autorizohet Ministri i Ekonomisë, Tregtisë dhe Energjetikës të kryejë veprimet e nevojshme, për pasqyrimin e këtij veprimi.
+
+ 5/5. Shuma prej 0,53 (zero presje pesëdhjetë e tre) miliardë lekë, që i korrespondon pagimit të huave afatgjata, në vitin 2008, nga KESH, sh.a., të pasqyrohet si rritje kapitali për OSSH, sh.a.-në.
+
+ Autorizohet Ministri i Ekonomisë, Tregtisë dhe Energjetikës të kryejë veprimet e nevojshme, për pasqyrimin e këtij veprimi.
 
 6. Ngarkohen Ministria e Ekonomisë, Tregtisë dhe Energjetikës dhe KESH sh.a. për zbatimin e këtij vendimi.
 
@@ -43,3 +57,13 @@ Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 KRYEMINISTRI
 
 Sali Berisha
+
+(Shtuar me VKM nr. 218, datë 6.3.2009)
+
+Shtojca 1
+
+Specifikimet e kredive:
+
+1. Marrëveshja e kredisë (numër 3671) së zhvillimit ndërmjet Qeverisë së Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA) për projektin e ristrukturimit dhe të rehabilitimit të sektorit të energjisë elektrike e datës 26 qershor 2002, në shumën ekuivalente me njëzet e katër milionë të drejta të veçanta të tërheqjes (SDR) (24 000 000) ose 2,68 miliardë lekë, në periudhë maturimi njëzet (20) vjet dhe interes të barabartë me Libor plus 0,75% e ratifikuar me ligjin numër 8941, datë 19.9.21002.
+
+2. Marrëveshja e kredisë ndërmjet Korporatës Elektroenergjetike Shqiptare (KESH sh.a.) dhe Bankës Europiane të Investimit për projektin e përmirësimit të kapacitetit të rrjetit të transmetimit dhe shpërndarjes, e datës  30  tetor 2001, në shumën  tridhjetë  milionë  euro (EUR) (30 000 000) ose 2.3 miliardë lekë, me periudhë maturimi tetëmbëdhjetë (18)vjet dhe interes të barabartë me Euribor plus 0.75%.
