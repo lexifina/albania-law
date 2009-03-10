@@ -1,0 +1,1 @@
+6. Shpronësimi tё bëhet në favor të bashkisë së Shkodrës dhe regjistrimi i pasurisë, 456.2 (katërqind e pesëdhjetë e gjashtë pikë dy) m², tokë/truall, dhe 434.34 (katërqind e tridhjetë e katër pikë tridhjetë e katër) m² ndërtesë, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
