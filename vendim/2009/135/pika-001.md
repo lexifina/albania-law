@@ -1,0 +1,1 @@
+1. Mbylljen e Akademisë së Policisë “Arben Zylyftari”, si institucion i arsimit të lartë, për shkollimin e punonjësve të Policisë së Shtetit, dhe riorganizimin e arsimit policor si pjesë përbërëse e Drejtorisë së Përgjithshme të Policisë së Shtetit.
