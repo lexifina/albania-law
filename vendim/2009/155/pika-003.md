@@ -1,0 +1,1 @@
+3. Miratimin e bonusit prej 8.3 përqindësh të pikëve, për rezultatin, teknik, financiar dhe mjedisor, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), që i jepet shoqërisë “Ener Alb-Projects” sh.p.k.

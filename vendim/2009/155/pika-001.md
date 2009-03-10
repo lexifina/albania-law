@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion, të ndërtimit të portit të jahteve në Kepin e Rodonit, Gjiri i Lalzit, Durrës, është Ministria e Punëve Publike, Transportit dhe Telekomunikacionit.
