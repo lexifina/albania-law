@@ -1,0 +1,1 @@
+1. Ministrisë së Brendshme, në buxhetin e miratuar për vitin 2009, për programin “Shërbimi i Gjendjes Civile”, t’i shtohet fondi 16 000 000 (gjashtëmbëdhjetë milionë) lekë, në zërin “Shpenzime korrente”, për mbulimin e shpenzimeve të fushatës publicitare, për nxitjen e shtetasve shqiptarë për t’u pajisur me letërnjoftim dhe pasaportë elektronike.
