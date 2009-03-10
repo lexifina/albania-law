@@ -1,0 +1,56 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E PUNËVE PUBLIKE, TRANSPORTIT DHE TELEKOMUNIKACIONIT
+DREJTORIA E PËRGJITHSHME E RRUGËVE
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR RRËSHEN - KALIMASH
+Nr.
+Pronari
+ZK
+Nr. Pas.
+Objekti
+vlera
+lekë
+Qyteti/
+fshati
+Shënime
+Emri
+Atësia
+Mbiemri
+1
+Eridan
+Fran
+Skana
+2610
+214/1
+1052755
+Mashterkor
+Konfirmuar nga ZRPP
+2
+Nikoll
+Ndue
+Biba
+2162
+81/10
+1395498
+Klos
+Konfirmuar nga ZRPP
+3
+Tonin
+Mark
+Prenga
+3598
+243
+2618565
+Thirre
+Konfirmuar nga ZRPP
+4
+Nikoll
+Gjon
+Prenga
+3598
+244
+2271564
+Thirre
+Konfirmuar nga ZRPP
+TOTALI
+7338382
