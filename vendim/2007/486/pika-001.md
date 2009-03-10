@@ -1,1 +1,1 @@
-1. Ndërprerjen e veprimtarisë së përpunimit të anijeve, që transportojnë naftë, gaz dhe nënprodukte të tyre, në portet e Durrësit dhe të Shëngjinit, brenda 18 muajve nga hyrja në fuqi e këtij vendimi.
+1. Ndërprerjen e veprimtarisë së përpunimit të anijeve, që transportojnë naftë, gaz dhe nënprodukte të tyre, në portet e Durrësit dhe të Shëngjinit, deri më 30 qershor 2009.
