@@ -1,1 +1,0 @@
-8. Emërimi i drejtorit të Akademisë së Policisë bëhet në përputhje me nenet 8 dhe 20 të ligjit, “Për Arsimin e Lartë në Republikën e Shqipërisë”, dhe përzgjidhet ndër funksionarët me gradë të rolit madhor.

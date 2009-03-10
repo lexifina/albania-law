@@ -1,1 +1,0 @@
-16. Në zbatim të nenit 43 të ligjit, “Për Arsimin e Lartë në Republikën e Shqipërisë”, dhe nenit 18, pika 3 të ligjit, “Për Policinë e Shtetit”, Akademia e Policisë bën njëvlerfshmërinë e çertifikatave, diplomave dhe gradave shkencore të fituara në shkollat e huaja, në fushën e policisë, në përputhje me vendimin përkatës të Këshillit të Ministrave.

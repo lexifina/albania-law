@@ -1,2 +1,0 @@
-18. Vendimi nr.405, datë 15.9.1992 i Këshillit të Ministrave, “Për krijimin e Akademisë së Rendit Publik” dhe vendimi nr.437, datë 12.9.1994, i Këshillit të Ministrave, “Për disa ndryshime e shtesa në vendmin nr.405, datë 15.9.1992, të Këshillit të Ministrave”, si dhe aktet e tjera nënligjore që bien në kundërshtim me dispozitat e këtij vendimi shfuqizohen.
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

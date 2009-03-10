@@ -1,1 +1,0 @@
-14. Buxheti i Akademisë së Policisë është zë më vete në buxhetin e ministrisë. Në të përfshihen shpenzimet për Akademinë, kërkimet shkencore, botimet, Institutin e Policisë dhe kualifikimin e punonjësve të policisë të të gjitha niveleve.

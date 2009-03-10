@@ -1,1 +1,0 @@
-10. Akademia e Policisë për realizimin e misionit të saj, vendos marrëdhënie me shkollat e tjera të larta të vendit tonë për shkëmbim përvoje e bashkëpunimi në procesin mësimor, shkencor dhe në kualifikimin e personelit mësimdhënës. Me shkollat simotra të huaja zbatohet paragrafi 3 i nenit 8 të ligjit, “Për Arsimin e Lartë në Republikën e Shqipërisë”.
