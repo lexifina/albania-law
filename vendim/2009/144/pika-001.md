@@ -1,0 +1,1 @@
+1. Miratimin e formularëve të vetëdeklarimit, për të ushtruar veprimtarinë e tregtimit me shumicë të barnave, të tregtimit në farmaci dhe agjenci farmaceutike, si dhe të import-eksportit të tyre, sipas modeleve, që i bashkëlidhen këtij vendimi.
