@@ -1,0 +1,1 @@
+3. Kuota e pranimeve në programin e studimit “Master i nivelit të parë” në “Operacione industriale dhe navale”, me kohë të plotë, në universitetin “Ismail Qemali”, në Vlorë, për vitin akademik 2008-2009, të jetë 30.

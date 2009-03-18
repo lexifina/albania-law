@@ -1,0 +1,1 @@
+7. Kandidatët, që u përkasin shtresave sociale, si: të verbrit, të shurdhët, invalidët, paraplegjikë dhe tetraplegjikë, studentët me aftësi të kufizuar, fëmijët romë apo fëmijët e policëve, të rënë a të plagosur për shkak të detyrës, fëmijët e ish-të përndjekurve politikë, që fitojnë të drejtën për të ndjekur këtë program studimi, të paguajnë 50 për qind të tarifës së shkollimit.

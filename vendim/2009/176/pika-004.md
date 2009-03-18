@@ -1,0 +1,1 @@
+4. Tarifa vjetore e shkollimit, për studentët, që do të regjistrohen me kohë të plotë, në vitin akademik 2008-2009, në programin e studimit “Master i nivelit të parë” në “Operacione industriale dhe navale”, do të jetë 100 000 (njëqind mijë) lekë.

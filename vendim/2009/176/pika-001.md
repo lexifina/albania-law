@@ -1,0 +1,1 @@
+1. Hapjen, në universitetin “Ismail Qemali”, në Vlorë, në Fakultetin e Shkencave Teknike, të programeve të studimit “Master i nivelit të parë” në “Operacione industriale dhe navale”, në përfundim të të cilit lëshohet diplomë “Master i nivelit të parë” (MNP) në “Operacione industriale dhe navale”.

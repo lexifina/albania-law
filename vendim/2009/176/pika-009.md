@@ -1,0 +1,1 @@
+9. Në çdo program studimi “Master i nivelit të parë”, me kohë të plotë, në vitin akademik 2008-2009, studentët e shkëlqyer nga cikli i parë nuk e paguajnë tarifën e shkollimit, në vitin akademik pasardhës.
