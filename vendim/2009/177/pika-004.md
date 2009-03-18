@@ -1,0 +1,1 @@
+4. Ngarkohet “Shkolla e Lartë Private Mesdhetare e Shqipërisë” që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga një personel akademik і huaj, me kualifikimin e nevojshëm dhe sipas specialiteteve.
