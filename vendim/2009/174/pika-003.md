@@ -1,0 +1,1 @@
+3. Hapjen, pranë shkollës së lartë universitare private “Justiniani I”, të programit të studimit të ciklit të dytë, me kohë të plotë, në fushën e drejtësisë, i cili do të realizohet me, së paku, 120 kredite dhe me kohëzgjatje normale 2 vite. Në përfundim të studimit lëshohet “Diplomë e nivelit të dytë”, (DND), në drejtësi.

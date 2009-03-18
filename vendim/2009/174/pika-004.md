@@ -1,0 +1,1 @@
+4. Hapjen, pranë shkollës së lartë universitare private “Justiniani I”, të programit të studimit “Master i nivelit të parë”, në degën “Jurist administrate”. Ky program studimi do të realizohet me, së paku, 60 kredite e me kohëzgjatje normale 1 vit. Në përfundim të këtij studimi lëshohet diplomë “Master i nivelit të parë” (MNP) në “Jurist administrate”.

@@ -1,0 +1,1 @@
+5. Ngarkohet shkolla e lartë universitare private “Justiniani I” që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit nga personel akademik, me kualifikimin e nevojshëm dhe sipas specialitetit.
