@@ -1,0 +1,1 @@
+6. Kolegji profesional privat “Ivoclar Vivadent&Partners” duhet t’u nënshtrohet procesit të akreditimit institucional dhe të këtij programi të studimit, brenda afateve të përcaktuara në ligjin në fuqi.

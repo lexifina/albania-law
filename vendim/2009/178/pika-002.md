@@ -1,0 +1,1 @@
+2. Kolegji profesional privat “Ivoclar Vivadent&Partners” do të ofrojë program studimi, të ciklit të parë, në formën e studimit me kohë të plotë, në “Teknik i lartë dentar”, i cili do të zgjasë 3 vite. Në mbarim të studimeve do të lëshojë “Diplomë të nivelit të parë” (DNP), në “Teknik i lartë dentar”.

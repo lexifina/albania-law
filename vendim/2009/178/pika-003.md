@@ -1,0 +1,1 @@
+3. Ngarkohet kolegji profesional privat “Ivoclar Vivadent&Partners” që, për programin e studimit, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga një personel akademik і huaj, me kualifikimin e nevojshëm.
