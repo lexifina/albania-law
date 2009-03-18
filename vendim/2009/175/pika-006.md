@@ -1,0 +1,1 @@
+6. Shkolla e lartë universitare private “Sevasti & Parashqevi Qiriazi”, duhet t’u nënshtrohet procesit të akreditimit institucional dhe të këtyre programeve të studimit, brenda afateve të përcaktuara në ligjin në fuqi.
