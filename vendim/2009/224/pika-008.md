@@ -1,0 +1,1 @@
+8. Ky vendim i komisionit vendor titullohet “Vendim për korrigjimin e aktit të marrjes së tokës në pronësi” dhe hartohet në dy kopje origjinale, njëra nga të cilat, së bashku me dokumentacionin e krijuar, mbetet pranë komisionit vendor.

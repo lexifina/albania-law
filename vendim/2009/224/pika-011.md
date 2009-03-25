@@ -1,0 +1,2 @@
+11. SAMT-ja, në këshillin e qarkut, në bazë të këtij vendimi dhe të dokumentacionit, që disponon, kontrollon aktin e ri të marrjes së tokës në pronësi dhe planvendosjet përkatëse të ngastrës/ngastrave dhe kur i gjen ato në përputhje me kërkesat e ligjit nr.9948, datë 7.7.2008 “Për shqyrtimin e vlefshmërisë ligjore të krijimit të titujve të pronësisë mbi tokën bujqësore”, i miraton.
+Akti i ri i marrjes së tokës në pronësi dhe planvendosja numërtohen e nënshkruhen nga përgjegjësi i SAMT-së, dhe mbi nënshkrim vendoset vula e këshillit të qarkut.

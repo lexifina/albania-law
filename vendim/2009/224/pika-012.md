@@ -1,0 +1,1 @@
+12. SAMT-ja, brenda 5 ditëve, plotëson aktet e mësipërme, në katër kopje, nga të cilat, njërën e mban në arkiv, një tjetër ia përcjell, zyrtarisht, ZVRPP-së për regjistrim, dhe dy të tjerat ia përcjell komisionit vendor.

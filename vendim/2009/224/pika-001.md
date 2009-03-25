@@ -1,0 +1,3 @@
+1. Për qëllime të zbatimit të këtij vendimi, me termin “ngastra të tokës bujqësore, të pandara”, kuptohen parcelat e tokës bujqësore që:
+a) janë ndarë nga komisionet e tokës, të krijuara sipas ligjit nr.7501, datë 19.7.1991 “Për tokën”, të cilat janë objekt mosmarrëveshjesh, por që gjykata, me vendim gjyqësor, të formës së prerë, ka vendosur rishqyrtimin në rrugë administrative;
+b) janë në përdorim dhe shfrytëzim faktik nga subjektet ligjore të trajtimit me tokë në pronësi, për të cilat komisioni i tokës ende nuk ka përfunduar plotësimin e dokumentacionit ligjor dhe nuk ka lëshuar aktin e marrjes së tokës në pronësi.

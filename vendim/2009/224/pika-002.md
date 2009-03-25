@@ -1,0 +1,1 @@
+2. Në rastet kur kërkohet korrigjimi i aktit të marrjes së tokës në pronësi, pranë komisionit vendor të vlerësimit të titujve të pronësisë (KV), krijohet dokumentacioni i ri ligjor, në bazë të të cilit lëshohet akti i ri i marrjes së tokës në pronësi.
