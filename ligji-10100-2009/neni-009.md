@@ -1,0 +1,2 @@
+# Neni 9
+Palët caktojnë këtu një këshill, në të cilin do të përfaqësohet secila prej tyre, për të shqyrtuar çështjet në lidhje me zbatimin e këtij Traktati. Këshilli do të jetë i organizuar në një mënyrë të tillë që të jetë i aftë të mblidhet në çdo kohë. Këshilli do të ngrejë organe ndihmëse siç mund të jetë e nevojshme; në veçanti ai do të ngrejë menjëherë një komitet të mbrojtjes, i cili do të rekomandojë masa për zbatimin e neneve 3 dhe 5.

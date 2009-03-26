@@ -1,0 +1,2 @@
+# Neni 10
+Palët, në marrëveshje të plotë, mund të ftojnë çdo shtet tjetër europian në një pozitë të tillë të nxisë më tej parimet e këtij Traktati dhe të kontribuojë në sigurinë e zonës së Atlantikut të Veriut që të aderojë në këtë Traktat. Çdo shtet i ftuar në këtë mënyrë mund të bëhet palë në Traktat duke depozituar instrumentin e tij të aderimit pranë Qeverisë së Shteteve të Bashkuara të Amerikës. Qeveria e Shteteve të Bashkuara të Amerikës do të informojë secilën nga palët për depozitimin e çdo instrumenti të tillë aderimi.

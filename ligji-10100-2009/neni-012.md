@@ -1,0 +1,2 @@
+# Neni 12
+Pasi Traktati të ketë qenë në fuqi për dhjetë vjet, ose në çdo kohë të mëvonshme, palët, nëse cilado nga ato kështu kërkon, do të këshillohen së bashku me qëllimin e rishikimit të Traktatit, duke patur parasysh faktorët që në atë kohë do të prekin paqen dhe sigurinë në zonën e Atlantikut të Veriut, duke përfshirë këtu zhvillimin e rregullimeve universale, si dhe rajonale sipas Kartës së Kombeve të Bashkuara për ruajtjen e paqes dhe sigurisë ndërkombëtare.
