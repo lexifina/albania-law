@@ -1,0 +1,9 @@
+# Neni 11
+Shoqërimi i kutive të votimit dhe i materialeve zgjedhore
+1. Me mbylljen e votimit, kryetari i KQV-së njofton komisariatin e policisë dhe KZAZ-në, duke i kërkuar të dërgojë në KQV punonjësin e policisë i cili është efektiv i përhershëm i Policisë së Shtetit, përjashtuar POLICINË KRIMINALE (Departamentin e Hetimit të Krimeve) që do të shoqërojë kutitë e votimit dhe kutinë e materialeve zgjedhore.
+2. Punonjësi i policisë paraqitet në kohën e caktuar nga KQV-ja dhe pret në hyrje të saj, derisa të dalin anëtarët dhe sekretari, së bashku me kutitë e votimit dhe kutinë e materialeve zgjedhore.
+3. Shoqërimi i kutive tё votimit dhe i kutisë së materialeve zgjedhore nga KQV-ja në vendin e numёrimit tё votave bëhet me automjet në të cilin ndodhen anёtarёt e KQV-së, sekretari i KQV-sё dhe një punonjës i Policisë së Shtetit.
+4. Gjatë shoqërimit, kutia dhe materialet e tjera zgjedhore administrohen vetëm prej kryetarit, zëvendëskryetarit dhe anëtarëve të KQV-së. Punonjësi i forcave të policisë nuk ka të drejtë, në asnjë rast, që të posedojë apo të ketë kontakt me materialet e mësipërme.
+5. Punonjёsi i policisё, i ngarkuar me detyrën e shoqërimit të kutive të votimit dhe kutisë së materialeve zgjedhore nga qendra e votimit nё vendin e numërimit të votave, garanton shoqërimin dhe mosprekjen e kutive të votimit nga të tretët.
+6. Punonjësi i policisë i ngarkuar me shoqërimin e kutive të votimit dhe kutive të materialeve zgjedhore, sipas pikës 3 dhe 4 të këtij neni, për çdo parregullsi të konstatuar gjatë procesit të shoqërimit nga KQV-ja në vendin e numërimit tё votave, përpilon një raport shërbimi, si dhe informon njëkohësisht eprorin e tij dhe ky i fundit njofton shefin e komisariatit të policisë dhe KZAZ-në.
+7. Pas procesit të dorëzimit të materialeve zgjedhore, punonjësi i policisë firmos procesverbalin e marrjes në dorëzim, sipas modelit të miratuar nga KQZ-ja, merr një kopje të procesverbalit dhe largohet menjëherë nga ndërtesa e KZAZ-së.
