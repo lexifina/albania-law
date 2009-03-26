@@ -1,0 +1,3 @@
+# Neni 3
+a) Kjo Marrëveshje do të jetë e hapur për nënshkrim nga shtetet anëtare dhe do t’i nënshtrohet ratifikimit, pranimit apo miratimit. Instrumentet e ratifikimit, pranimit apo miratimit do të depozitohen pranë Qeverisë së Mbretërisë së Belgjikës e cila do të njoftojë të gjitha shtetet nënshkruese mbi depozitimin e çdo instrumenti të tillë;
+b) Sapo dy ose më shumë shtete nënshkruese, duke përfshirë këtu shtetin anëtar në territorin e të cilit Organizata ka selinë e saj, të kenë depozituar instrumentet e tyre të ratifikimit, pranimit apo miratimit, kjo Marrëveshje do të hyjë në fuqi në lidhje me ato shtete. Ajo do të hyjë në fuqi në lidhje me secilin shtet tjetër nënshkrues në datën e depozitimit të instrumentit të tij.
