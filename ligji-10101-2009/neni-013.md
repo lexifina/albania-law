@@ -1,0 +1,5 @@
+# Neni 13
+1. Me qëllim që të parandalojnë shkeljet ndaj ligjeve dhe rregullave doganore dhe fiskale, autoritetet e Shteteve dërguese dhe pritëse do të ndihmojnë njëri - tjetrin në kryerjen e hetimeve dhe mbledhjen e provave.
+2. Autoritetet e një force do të japin të gjithë ndihmën brenda kompetencës së tyre për të siguruar që artikujt e prirur për tu konfiskuar nga ose në emër të doganave ose autoriteteve fiskale të Shtetit pritës t’u dorëzohen atyre autoriteteve.
+3. Autoritetet e një force do të japin të gjithë ndihmën brenda kompetencës së tyre për të siguruar pagesën e detyrimeve, taksave dhe dënimeve të pagueshme nga anëtarët e forcës ose përbërësit civilë apo personat në varësi të tyre.
+4. Automjetet e shërbimit dhe artikujt që i takojnë një force ose përbërësit të saj civil dhe jo një anëtari të një force të tillë apo të përbërësit civil, të konfiskuara nga autoritetet e Shtetit pritës në lidhje me një shkelje ndaj ligjeve ose rregullave doganore ose fiskale, duhet t’u dorëzohen autoriteteve përkatëse të forcës së interesuar.

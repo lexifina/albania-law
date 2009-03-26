@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 101, datë 26.3.2009
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË “MARRËVESHJEN NDËRMJET PALËVE TË TRAKTATIT TË ATLANTIKUT TË VERIUT PËR STATUSIN E FORCAVE TË TYRE”
+Në mbështetje të neneve 2 pika 3, 83 pika 1, 84 pika 4 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:

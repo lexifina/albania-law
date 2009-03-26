@@ -1,0 +1,2 @@
+# Neni 16
+Të gjitha mosmarrëveshjet mes Palëve Kontraktuese në lidhje me interpretimin apo zbatimin e kësaj Marrëveshjeje do të zgjidhen me bisedime midis tyre, pa kërkuar ndihmë tek ndonjë juridiksion i jashtëm. Me përjashtim kur dispozita e shprehur bëhet në kundërshtim me këtë Marrëveshje, mosmarrëveshjet që nuk mund të zgjidhen me bisedime të drejtpërdrejta duhet t’i referohen Këshillit të Atlantikut të Veriut.
