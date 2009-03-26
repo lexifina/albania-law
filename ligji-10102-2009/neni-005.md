@@ -1,0 +1,2 @@
+# Neni 5
+Organizata, pasuritë dhe pronat e saj, kudo që të ndodhen e nga kushdo që të mbahen, do të gëzojnë imunitet nga çdo formë e procesit ligjor përveç kur në çdo rast të veçantë Kryetari i Përfaqësuesve në Këshill, duke vepruar në emër të organizatës, mund të autorizojë shprehimisht heqjen e këtij imuniteti. Vetëkuptohet sidoqoftë, se asnjë heqje e imunitetit nuk do të shtrihet deri në ndonjë mase ekzekutimi apo ndalimi të pasurisë.

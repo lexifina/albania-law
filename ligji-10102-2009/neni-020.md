@@ -1,0 +1,2 @@
+# Neni 20
+Përveç imuniteteve dhe privilegjeve të përcaktuara në nenet XVIII dhe XIX, Sekretarit Ekzekutiv të Organizatës, Koordinatorit të Prodhimit të Mbrojtjes së Atlantikut të Veriut dhe zyrtarëve të tjerë të përhershëm me gradë të ngjashme siç mund të bihet dakord ndërmjet Kryetarit të Përfaqësuesve në Këshill dhe Qeverive të Shteteve Anëtare, do t’u jepen privilegje dhe imunitete që i jepen normalisht personelit diplomatik në gradë të krahasueshme.

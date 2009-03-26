@@ -1,0 +1,2 @@
+# Neni 10
+Ndërsa organizata, si rregull i përgjithshëm, nuk do të kërkojë përjashtim nga detyrimet për taksat indirekte dhe nga taksat mbi shitjen e pasurisë të luajtshme apo të paluajtshme që përbëjnë pjesë të çmimit për tu paguar, sidoqoftë, kur Organizata është duke bërë blerje të rëndësishme për përdorimin zyrtar të pronave mbi të cilat janë vënë apo është e mundur të vihen detyrimet dhe taksa të tilla, Shtetet Anëtare kurdoherë që është e mundur do të bëjnë rregullimet e përshtatshme administrative për shlyerjen apo kthimin e shumës së detyrimit apo taksës.

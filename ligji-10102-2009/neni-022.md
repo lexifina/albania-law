@@ -1,0 +1,2 @@
+# Neni 22
+Privilegjet dhe imunitetet i jepen zyrtarëve dhe ekspertëve në interes të organizatës jo për përfitimin personal të vetë individëve. Kryetari i Përfaqësuesve në Këshill ka të drejtën dhe detyrimin për të hequr imunitetin e cilitdo zyrtar apo ekspert në cilindo rast kur, sipas mendimit të tij, imuniteti do të pengonte rrjedhën e drejtësisë dhe mund të hiqet pa cenuar interesat e organizatës.

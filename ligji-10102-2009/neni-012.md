@@ -1,0 +1,2 @@
+# Neni 12
+Çdo person i përcaktuar nga një Shtet Anëtar si përfaqësuesi i tij kryesor i përhershëm në organizatë në territorin e një Shteti tjetër Anëtar, dhe anëtarë të tjerë të personelit të tij zyrtar që banojnë në atë territor siç mund të bihet dakord ndërmjet Shtetit që i ka caktuar ata dhe organizatës, si edhe ndërmjet organizatës dhe shtetit në të cilën ata do të banojnë, do të gëzojë imunitetet dhe privilegjet që i janë dhënë përfaqësuesve diplomatikë dhe personelit të tyre zyrtar në një gradë të krahasueshme.

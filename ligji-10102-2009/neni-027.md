@@ -1,0 +1,3 @@
+# Neni 27
+Kjo Marrëveshje mund të denoncohet nga cilido Shtet Kontraktues duke dhënë një njoftim me shkrim për këtë denoncim drejtuar Qeverisë së Shteteve të Bashkuara të Amerikës, e cila do të njoftojë të gjitha Shtetet nënshkruese për çdo njoftim të tillë. Denoncimi do të hyjë në fuqi një vit pas marrjes së njoftimit nga ana e Qeverisë së Shteteve të Bashkuara të Amerikës.
+Në dëshmi të kësaj, nënshkruesit e plotfuqishëm kanë nënshkruar këtë Marrëveshje. Bërë në Otava, më 20 shtator 1951, në gjuhët anglisht dhe frëngjisht, duke qenë të dy tekstet me të njëjtin autoritet, në një origjinal të vetëm, i cili do të depozitohet në arkivat e Qeverisë së Shteteve të Bashkuara të Amerikës, e cila do t’i përcjellë një kopje të vërtetuar secilit nga shtetet nënshkruese.
