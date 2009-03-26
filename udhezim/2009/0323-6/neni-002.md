@@ -1,0 +1,8 @@
+# Neni 2
+Parime të përgjithshme
+1. Sistemi unik i numërimit të zonave të qendrave të votimit (SUN) realizon numërtimin e vazhdueshëm të zonave të qendrave të votimit të ngritura në territorin e Republikës së Shqipërisë. Me anë të këtij sistemi bëhet i mundur identifikimi i zonës së qendrës së votimit nëpërmjet një numri të papërsëritshëm, në përkatësi të çdo njësie të qeverisjes vendore.
+2. Numërtimi i zonës së qendrës së votimit bëhet me anë të një numri katërshifror. Numërtimi fillon nga njësia e qeverisjes vendore në veri të vendit, dhe konkretisht nga zona e QV-së nr.0001 e komunës Gruemirë të qarkut të Shkodrës dhe vazhdon në mënyrë progresive në drejtimin veri-jug të vendit, deri në zonën e QV-së nr.4734 të komunës Xarë të qarkut të Vlorës.
+3. Numrat që përdoren për numërtimin e zonave të QV-ve për çdo njësi të qeverisjes vendore jepen në pasqyrën 1, bashkëlidhur këtij udhëzimi.
+4. Zona e qendrës së votimit duhet të jetë brenda një territori kompakt e të pashkëputur gjeografik dhe numri i zgjedhësve për çdo qendër votimi nuk mund të jetë më i vogël se 150 dhe më i madh se 1000 zgjedhës, me përjashtim të institucioneve të posaçme, ku qendra e votimit mund të ngrihet edhe kur në të ndodhen, të paktën, 15 zgjedhës.
+5. Kufijtë e zonave të qendrave të votimit dhe numërtimi i tyre caktohen nga kryetari i njësisë së qeverisjes vendore duke vepruar sipas këtij udhëzimi.
+6. Kufijtë ekzistues të zonës së qendrës së votimit ruhen edhe në zgjedhjet pasardhëse, me përjashtim të rastit kur bëhet i domosdoshëm ndryshimi për shkak të mosplotësimit të kushteve të përcaktuara në Kodin Zgjedhor.

@@ -1,0 +1,6 @@
+# Neni 3
+Mënyra e numërtimit të zonave të qendrave të votimit kur ka ndryshime
+Kryetari i njësisë së qeverisjes vendore, në rast se:
+a) në njësinë e qeverisjes vendore krijohet një zonë e re qendre votimi, atëherë numërtimi i kësaj zone të re do të realizohet duke i vendosur një numër pesëshifror. Katër shifrat e para do të jenë të njëjta me katër shifrat e para të numrit të zonës së qendrës së votimit më të afërt, brenda njësisë vendore përkatëse, ndërsa shifra e fundit, e pesta, do të jetë 1 (një). Ne rastet kur ky numër me shifër të pestë 1 (një) ekziston, atëherë si shifër e fundit do të caktohet numri pasardhës (duhet pasur parasysh që shifra e fundit mund të jetë nga 1 deri në 9).
+b) ngrihet një qendër e re votimi brenda një zone qendre votimi ekzistuese, numri që i jepet kësaj qendre të re votimi do të ketë një numër pesëshifror. Katër shifrat e para do të jenë të njëjta me katër shifrat e para të numrit të zonës së qendrës së votimit në të cilën ngrihet, ndërsa shifra e pestë do të jetë numri 1 (një) ose një numër tjetër më i madh (deri në 9), sipas rastit, me rend rritës.
+c) shkrihet një zonë qendre votimi, atëherë numri i kësaj zone qendre votimi hiqet nga përdorimi, duke mos ndryshuar numrat e zonave të tjera të qendrave të votimit.
