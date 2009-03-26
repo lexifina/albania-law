@@ -1,0 +1,7 @@
+# Neni 6
+1. Detyrimet për të hequr dorë nga kërkesat mbi Palët Kontraktuese sipas nenit VIII të Marrëveshjes do t’i jepen si Shtabit Aleat edhe çdo pale të përfshirë në këtë Protokoll.
+2. Për qëllimin e paragrafit 1 dhe 2 të nenit VIII të Marrëveshjes,
+a) pronat e zotëruara nga një Shtab Aleat ose nga një palë e këtij Protokolli dhe të përdorura nga Shtabi Aleat do të quhen si prona në zotërim të një Pale Kontraktuese dhe të përdorura nga shërbimet e saj të armatosura.
+b) dëmtimi i shkaktuar nga një anëtar i një force apo përbërësi civil siç përcaktohet në paragrafin 1 të nenit III të këtij Protokolli ose i shkaktuar nga persona të punësuar në Shtabin Aleat do të quhen si dëme të shkaktuara nga anëtarë ose të punësuar të shërbimeve të armatosura të Palës Kontraktuese
+c) përkufizimi i shprehjes “në zotërim të Palës Kontraktuese” në paragrafin 3 të nenit VIII do të zbatohet lidhur me Shtabin Aleat.
+3. Kërkesat për të cilat zbatohet paragrafi 5 i nenit VIII të Marrëveshjes do të përfshijnë pretendime (përveç kërkesave kontraktore dhe atyre që gjejnë zbatim në paragrafin 6 dhe 7 të atij neni) që rrjedhin nga veprime a mosveprime të punonjësve të Shtabit Aleat, ose që rrjedhin nga çdo veprim a mosveprim ose ngjarje të tjera për të cilat Shtabi Aleat është përgjegjës ligjërisht, të shkaktuara në territorin e një shteti pritës ndaj palëve të treta, të ndryshme nga çdo palë në këtë Protokoll.

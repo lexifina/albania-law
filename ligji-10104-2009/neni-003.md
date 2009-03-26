@@ -1,0 +1,6 @@
+# Neni 3
+1. Për qëllim të zbatimit të Marrëveshjes për një Shtab Aleat, shprehjet “Forcë”; “Përbërës civil” dhe “Person në ngarkim”, sa herë që shfaqen në Marrëveshje do të kenë kuptimet e mëposhtme:
+a) “Forcë”, nënkupton personelin e atashuar në Shtabin Aleat, i cili i përket forcave tokësore, detare apo ajrore të secilës nga Palët në Traktatin e Atlantikut të Veriut.
+b) “Përbërës civil”, nënkupton personelin civil që nuk janë persona pa shtetësi e as shtetas të ndonjë shteti i cili nuk është Palë në Traktat, dhe që nuk janë me kombësi ose banorë të zakonshëm në Shtetin pritës dhe që janë (i) të atashuar në Shtabin Aleat dhe të punësuar në shërbimin ushtarak të ndonjërës nga Palët e Traktatit të Atlantikut të Veriut ose (ii) në kategori të tilla të personelit civil të punësuar në Shtabet Aleate siç do të vendosë Këshilli i Atlantikut të Veriut.
+c) “Persona në ngarkim”, nënkupton bashkëshortin/en e një anëtari të një force ose personelit civil, të përcaktuar në nën-paragrafin a dhe b, të këtij paragrafi ose fëmija që është në varësi të këtyre personave.
+2. Një Shtab Aleat do të quhet si forcë për qëllimet e nenit II, paragrafit 2 të nenit V, paragrafit 10 të nenit VII, paragrafëve 2, 3, 4, 7 dhe 8 të nenit IX dhe nenit XIII të Marrëveshjes.

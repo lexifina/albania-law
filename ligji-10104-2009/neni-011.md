@@ -1,0 +1,3 @@
+# Neni 11
+1. Sipas dispozitave të nenit VIII të Marrëveshjes, një Shtab Suprem mund të përfshihet në procedime ligjore si paditës ose i paditur. Megjithatë Shteti pritës dhe Shtabi Suprem apo ndonjë Shtab Aleat vartës i autorizuar prej tij, mund të bien dakord që shteti pritës do të veprojë në emër të Shtabit Suprem në çdo procedurë ligjore për të cilën ky shtab është palë përpara gjykatave të shtetit pritës.
+2. Asnjë masë ekzekutimi apo masë e drejtuar për sekuestrimin ose ndalimin e pronave dhe fondeve të tij nuk do të merret ndaj cilitdo Shtab Aleat, përveçse për qëllimet e paragrafit 6a të nenit VII dhe nenit VIII të Marrëveshjes.

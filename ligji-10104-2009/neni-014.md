@@ -1,0 +1,3 @@
+# Neni 14
+1. I gjithë ose cilado pjesë e këtij Protokolli ose e Marrëveshjes mund të zbatohet, me vendim të Këshillit të Atlantikut të Veriut, ndaj çdo shtabi ushtarak ndërkombëtar apo organizate (që nuk është e përfshirë në përkufizimet e paragrafit b) dhe c) të nenit I të këtij Protokolli) që është ngritur në përputhje me Traktatin e Atlantikut të Veriut.
+2. Kur të jetë krijuar Bashkësia Europiane e Mbrojtjes, ky Protokoll mund të zbatohet për personelin e Forcave të Mbrojtjes Evropiane të atashuar në një Shtab Aleat, si dhe personave të tyre në ngarkim në kohën dhe mënyrën e përcaktuar nga Këshilli i Atlantikut të Veriut.

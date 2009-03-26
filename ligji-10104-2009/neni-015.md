@@ -1,0 +1,2 @@
+# Neni 15
+Të gjitha ndryshimet midis palëve në këtë Protokoll ose midis palëve dhe ndonjë Shtabi Aleat lidhur me interpretimin ose zbatimin e Protokollit do të zgjidhen përmes negociatave midis Palëve në mosmarrëveshje, pa iu drejtuar ndonjë juridiksioni të jashtëm. Përveçse aty ku dispozita përcakton të kundërtën në këtë Protokoll ose në Marrëveshje, ndryshimet të cilat nuk mund të zgjidhen me negociata të drejtpërdrejta do t’i referohen Këshillit të Atlantikut të Veriut.

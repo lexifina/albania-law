@@ -1,0 +1,2 @@
+# Neni 13
+Arkivat dhe dokumentet e tjera zyrtare të një Shtabi Aleat të mbajtura në mjediset e përdorura nga ato Shtabe ose në zotërim të cilitdo personi të autorizuar në mënyrën e duhur nga Shtabet do të jenë të paprekshme përveç kur Shtabi ka hequr dorë nga ky imunitet. Shtabet, me kërkesë të shtetit pritës dhe në prani të një përfaqësuesi të atij shteti, do të verifikojnë natyrën e dokumenteve për të konfirmuar se ato kanë të drejtë të gëzojnë këtë imunitet sipas këtij neni
