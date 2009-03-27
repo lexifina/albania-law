@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19901,
+  "title": "Për shpallje ligji",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "6116",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2009-03-26",
+  "published": "2009-03-27",
+  "in_force": "2009-03-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a42a36fa77ae2ba104856976ea1b573e17c4c864d42d5ff0894fa3b7cdb9283b.docx",
+  "source_sha256": "a42a36fa77ae2ba104856976ea1b573e17c4c864d42d5ff0894fa3b7cdb9283b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19901",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2009/03/26/6116",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
