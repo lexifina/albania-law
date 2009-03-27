@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19902,
+  "title": "Për shpallje ligji",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "6117",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2009-03-26",
+  "published": "2009-03-27",
+  "in_force": "2009-03-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/48a0d8a22c4399fb6c0799c9b0f4911ba61de394c95431276d5ddd33ff668c25.docx",
+  "source_sha256": "48a0d8a22c4399fb6c0799c9b0f4911ba61de394c95431276d5ddd33ff668c25",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19902",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2009/03/26/6117",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
