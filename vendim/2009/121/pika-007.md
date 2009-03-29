@@ -1,0 +1,1 @@
+7. Dokumentacioni i të gjitha takimeve përkatëse të procesit të negociatave për përzgjedhjen e kontraktuesit, si prezantime, protokolle, regjistrime etj., përfshirë të dhëna specifike për pjesëmarrësit, palët negociuese të pranishme, kohën dhe qëllimin e takimeve, do të ruhen, në përputhje me legjislacionin në fuqi për informacionin e klasifikuar “Sekret shtetëror”.

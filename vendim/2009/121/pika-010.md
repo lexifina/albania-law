@@ -1,0 +1,1 @@
+10. Në raste emergjence, aksidenti, prishjeje automjeti, katastrofe natyrore apo të ngjashme me to, materiali i klasifikuar ruhet gjatë të gjithë kohës së ndalesës në vendin e caktuar, nga rojet e sigurimit, të armatosura, dhe nga personat shoqërues.
