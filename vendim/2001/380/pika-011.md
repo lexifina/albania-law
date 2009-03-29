@@ -1,1 +1,0 @@
-11. Procedura e verifikimit për një kontraktues, të cilit nuk i është pranuar kërkesa për pajisjen me certifikatë të sigurisë industriale, mund të rifillojë pas kalimit të një periudhe 6-mujore deri në një vit nga data e mospranimit, duke vlerësuar shkaqet që kanë sjellë këtë.
