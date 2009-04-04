@@ -1,0 +1,1 @@
+2. Masa e shpërblimit të pronarit të pasurisë, pronë private, me sipërfaqe 80 (tetëdhjetë) m2, tokë/arë, dhe 40 (dyzet) m2 ndërtesë, që shpronësohet, është 1 800 000 (një milion e tetëqind mijë) lekë.

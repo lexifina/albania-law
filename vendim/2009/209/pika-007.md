@@ -1,0 +1,1 @@
+7. Shpronësimi të bëhet në favor të bashkisë së Rrogozhinës. Regjistrimi i ri i pasurisë, 80 (tetëdhjetë) m2, tokë/arë, dhe 40 (dyzet) m2, ndërtesë, të bëhet brenda 30 ditëve nga data e hyrjes në fuqi të këtij vendimi.
