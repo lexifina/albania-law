@@ -1,0 +1,44 @@
+# Shtojca
+TË DHËNAT MBI LISTËN EMËRORE TË PRONARËVE DHE PRONAVE QË DO TË SHPRONËSOHEN PËR ZGJERIMIN E VARREZAVE PUBLIKE, NË BASHKINË RROGOZHINË
+Nr.
+Emër, mbiemër
+Sipërfaqja në
+m2
+Çmimi
+në lekë
+Vlera në
+lekë
+N/K
+Zona
+kadastrale
+1
+Rifat Kasa
+760
+551
+418760
+249/1
+3235
+2
+Skënder Kasa
+800
+551
+440800
+249/2
+3235
+3
+Beqir Kasa
+578
+551
+318478
+249/3
+3235
+4
+Tahir Toska
+1116
+551
+614916
+216
+3235
+SHUMA
+3254
+1792954
