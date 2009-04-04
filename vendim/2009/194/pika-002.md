@@ -1,0 +1,1 @@
+2. Dhënien e bonusit prej 3 për qind të pikëve shoqërisë “REJ”, sh.p.k., për rezultatin teknik e financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), për dhënien me koncesion të këtyre hidrocentraleve.
