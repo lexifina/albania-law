@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme (objekte), që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelёn, qё i bashkёlidhet kёtij vendimi, për objektet, me vlerë të përgjithshme shpronësimi 17 449 088 (shtatëmbëdhjetë milionë e katërqind e dyzet e nëntë mijë e tetëdhjetë e tetë) lekë.
