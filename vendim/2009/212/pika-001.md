@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të bashkisë së Elbasanit të pasurive truall, në zonën kadastrale 8525, parcelat nr.13/36, 13/57, 13/58, 13/59, 13/72, 13/76, pjesë të pronës nr.639, në listën e inventarit të pronave të paluajtshme shtetërore, në bashkinë e Elbasanit, për ngritjen e banesave sociale, sipas formularit, që i bashkëlidhet këtij vendimi.
