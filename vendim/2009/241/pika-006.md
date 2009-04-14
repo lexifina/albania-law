@@ -1,0 +1,1 @@
+6. Për llojet e specifikuara në pikën 2 të këtij vendimi, që tashmë janë në vendin tonë, dhe për llojet e shtojcës I, që gjenden në vend, të merren masat e menaxhimit të rrezikut, në përputhje me dispozitat e ligjit nr.9587, datë 20.7.2006 “Për mbrojtjen e biodiversitetit”.

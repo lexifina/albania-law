@@ -1,0 +1,1 @@
+3. Lejimin ose ndalimin, për rastet e tjera, të një lloji të huaj, për t’u importuar ose për t’u introduktuar në territorin e vendit tonë, mbështetur në vlerësimin e rrezikut, që mbart importimi ose introduktimi i tij, i cili vlerëson shkallën e invazionit të llojit të huaj.
