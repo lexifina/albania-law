@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, për pasuritë pronë private me sipërfaqe 105 000 (njëqind e pesë mijë) m2, tokë/arë, truall, banesë, ndërtim industrial, është 340 757 924 (treqind e dyzet milionë e shtatëqind e pesëdhjetë e shtatë mijë e nëntëqind e njëzet e katër) lekë.

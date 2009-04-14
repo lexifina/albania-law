@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i nënstacionit elektrik 400/220/110 KV, në komunën e Kasharit, sipas tabelës, që i bashkëlidhet këtij vendimi.
