@@ -1,0 +1,1 @@
+2. Procedurat për licencimin e spitaleve jopublike janë ato të përcaktuara në kreun VI të ligjit nr.9106, datë 17.7.2003 “Për shërbimin spitalor në Republikën e Shqipërisë”, si dhe në aktet e tjera ligjore e nënligjore në fuqi.
