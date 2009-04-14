@@ -1,0 +1,1 @@
+7. Pronarët, për të cilët është bërë shënimi “Konfirmim ZRPP” dhe “Plotësim dokumentacioni”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë, pranë Drejtorisë së Përgjithshme të Rrugëve.
