@@ -1,0 +1,1 @@
+5. Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonat e përmendura në pikat 2 e 3 të këtij vendimi, është pika e kalimit të kufirit porti i Durrësit dhe pika e daljes është pika e kalimit të kufirit Qafë-Thanë.
