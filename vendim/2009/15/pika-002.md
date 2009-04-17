@@ -1,1 +1,0 @@
-2. Pagesa e kompensimit është rimbursim i pagesës së bërë dhe të dokumentuar për marrjen e letërnjoftimit dhe kryhet për aplikimet e bëra deri në 30 maj 2009. Pas kësaj date nuk kompensohet asnjë pagesë.

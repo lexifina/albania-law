@@ -1,1 +1,0 @@
-4. Pagesa e kompensimit bëhet në mënyrë të menjëhershme, pasi personi përfitues paraqet, në zyrat e përmendura në pikën 3 të këtij vendimi, fotokopje të dokumentit, të dhënë nga zyra e gjendjes civile, pas aplikimit për pajisjen me letërnjoftim, të shoqëruar me mandatin e pagesës, së bërë nga përfituesi.
