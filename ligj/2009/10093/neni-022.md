@@ -1,0 +1,5 @@
+# Neni 22
+Vënia në dijeni e publikut dhe format e komunikimit
+1. Planifikimi dhe zbatimi i procedurave të shpërndarjes së fondeve, sipas këtij ligji, procedurat e përzgjedhjes, kontratat e nënshkruara ndërmjet autoritetit financues e kandidatit përfitues, si dhe raportimet për shpenzimin e fondeve të dhëna, sipas këtij ligji, janë informacion me interes publik, në përputhje me kuadrin ligjor për të drejtën e informimit për dokumentet zyrtare.
+2. Të gjitha njoftimet për procedurat e konkurrimit, sipas përcaktimeve të këtij ligji, shpallen në faqen e internetit të autoritetit financues dhe në të paktën dy gazeta kombëtare ose vendore, sipas nivelit të autoritetit financues. Autoritetet financuese përdorin, sipas mundësive, çdo mjet tjetër për botimin e procedurave të konkurrimit.
+3. Autoritetet financuese shpallin në faqen e tyre të internetit emrat e të gjithë përfituesve të projekteve, përmbledhjen e projekteve të financuara dhe shumat përkatëse të granteve. Autoritetet financuese, për projektet e financuara prej tyre, sipas këtij ligji, i dërgojnë informacionin përkatës AMSHC-së, e cila e shpall atë në faqen e saj të internetit.
