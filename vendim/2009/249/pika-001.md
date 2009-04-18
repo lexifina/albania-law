@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit, territorial dhe administrativ, të komunës Dropull i Poshtëm, të qarkut të Gjirokastrës, që transferohen, në pronësi ose në përdorim, të kësaj komune, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 96 (nëntëdhjetë e gjashtë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 570 (pesëqind e shtatëdhjetë).
