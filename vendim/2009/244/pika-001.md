@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit, territorial dhe administrativ, të komunës Kutalli, të qarkut të Beratit, që transferohen, në pronësi ose në përdorim, të kësaj komune, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 201 (dyqind e një) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 1407 (një mijë e katërqind e shtatë).
