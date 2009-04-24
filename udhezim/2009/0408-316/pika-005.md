@@ -1,0 +1,1 @@
+5. Në zbatim të pikës 6-a të kapitullit të I-rë, ndërmarrja, shoqëria apo institucioni shtetëror mund të lidhë kontrata qiraje mbi një vit, por jo më shumë se 5 vjet, pas miratimit me shkrim nga organi i varësisë administrative.
