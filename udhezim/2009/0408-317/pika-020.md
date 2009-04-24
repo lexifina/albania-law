@@ -1,0 +1,1 @@
+20. Anulohen të gjitha miratimet e privatizimit të aseteve të përfshira në kapitalin e shoqërisë që nuk kanë filluar procedurën e përgatitjes së dokumentacionit para datës së shpalljes së shoqërisë në likuidim me vendim gjyqi.

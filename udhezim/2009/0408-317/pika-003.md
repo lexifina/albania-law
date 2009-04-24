@@ -1,0 +1,1 @@
+3. Me kalimin e shoqërisë në likuidim hartohet bilanci i likuidimit, i cili verifikohet dhe vërtetohet nga eksperti kontabël i autorizuar. Bilanci, për efekt likuidimi, miratohet nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës dhe shërben si pikënisje për identifikimin e aseteve, elemente të pasurisë, që do të likuidohet.

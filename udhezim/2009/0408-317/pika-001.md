@@ -1,0 +1,1 @@
+1. Me shpalljen e shoqërisë në likuidim, procedurat bëhen në përputhje me seksionin V, “Likuidimi”, të kreut VI “Dispozita të përbashkëta për të gjitha format e shoqërive”, të ligjit nr.9901, datë 14.4.2008 “Për tregtarët dhe shoqëritë tregtare”.
