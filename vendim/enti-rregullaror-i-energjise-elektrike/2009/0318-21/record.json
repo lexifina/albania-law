@@ -1,0 +1,28 @@
+{
+  "qbz_id": 17063,
+  "title": "PËR MIRATIMIN E NDRYSHIMEVE TË RREGULLAVE TË PRAKTIKËS DHE PROCEDURAVE TË ENTIT RREGULLATOR TË ENERGJISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "21",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2009-03-18",
+  "published": "2009-04-25",
+  "in_force": "2009-04-25",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b5e8fbdbaf4d7800c74aba44012f2875e7a3f6e0e0c5d6e2bd6d272dd110ccf8.docx",
+  "source_sha256": "b5e8fbdbaf4d7800c74aba44012f2875e7a3f6e0e0c5d6e2bd6d272dd110ccf8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17063",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/03/18/21",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    13938
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
