@@ -1,0 +1,1 @@
+5. Vlera për dhomat frigoriferike, të linjave të përpunimit të qumështit e të fruta-perimeve, që do të financohen nga ky fond, të shlyhen, nga subjektet përfituese, me këste, si fonde kundërparti, pa interes dhe për një afat 7-vjeçar, duke filluar nga data e livrimit të fondit.

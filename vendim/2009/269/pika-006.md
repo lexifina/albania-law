@@ -1,0 +1,1 @@
+6. Procedurat dhe mënyrat e administrimit të fondit (disbursimet dhe arkëtimet) të përcaktohen me udhëzim të përbashkët të Ministrit të Financave dhe të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit
