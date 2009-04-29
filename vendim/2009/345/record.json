@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17091,
+  "title": "PER DISA NDRYSHIME NË VENDIMIN NR.824, DATË 5.12.2007 TË KËSHILLIT TË MINISTRAVE “PËR KRIJIMIN E DISA NJËSIVE KRYESORE, FAKULTETE, NË UNIVERSITETIN POLITEKNIK TË TIRANËS”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "345",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2009-04-08",
+  "published": "2009-04-29",
+  "in_force": "2009-04-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/0516cabd0dcfeb6d635180383730d9314027e832cd2f5e965711dfbe135de1a4.docx",
+  "source_sha256": "0516cabd0dcfeb6d635180383730d9314027e832cd2f5e965711dfbe135de1a4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17091",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/04/08/345",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
