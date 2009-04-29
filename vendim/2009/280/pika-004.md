@@ -1,0 +1,2 @@
+4. Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonën e përmendur në pikën 1 të këtij vendimi, është pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes është Porti i Durrësit.
+Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonat, që do të kalojnë në datat 25 e 26 mars 2009 është Porti i Durrësit dhe pika e daljes është pika e kalimit të kufirit Qafë-Thanë.
