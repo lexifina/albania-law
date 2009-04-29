@@ -1,0 +1,1 @@
+5. Nëse është e nevojshme bashkërendimi i punës me institucione të tjera të interesuara, afati i kryerjes së ekspertizës dhe kontrollit është 60 (gjashtëdhjetë) ditë nga data e sigurimit të dokumentacionit të plotë nga këto institucione.
