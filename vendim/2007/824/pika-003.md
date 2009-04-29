@@ -1,1 +1,1 @@
-3. Diplomat e inxhinierisë fizike dhe inxhinierisë matematike të konsiderohen si diploma ndërdisiplinore. Përcaktimi i fakulteteve, që do të bëjnë administrimin e tyre, përcaktohet nga vetë Universiteti Politeknik i Tiranës.
+3. Shfuqizuar.
