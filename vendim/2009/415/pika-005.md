@@ -1,0 +1,1 @@
+5. Rritjen, sipas përcaktimeve në pikat 1, 2, 3 e 4, të këtij vendimi, e përfitojnë edhe pensionet, të cilat caktohen nga data 1.5.2009 e në vazhdim, me kusht që data e fillimit të pensionit apo trajtimit të jetë deri më 30.4.2009, përfshirë edhe këtë datë.

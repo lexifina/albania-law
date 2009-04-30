@@ -1,0 +1,1 @@
+3. Rritjen, në masën 10 për qind, të shtesave mbi pension, të dhëna në përputhje me nenet 38 e 39, të ligjit nr.7703‚ datë 11.5.1993‚ “Për sigurimet shoqërore në Republikën e Shqipërisë”‚ të ndryshuar, dhe me nenin 24, të ligjit nr.4171, datë 3.9.1966, “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë”.

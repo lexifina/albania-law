@@ -1,0 +1,1 @@
+12. Pas rritjes së pensioneve, sipas pikave 1 e 4, të këtij vendimi, dhe zbatimit të kompensimeve, sipas pikave 8, 9 e 10, të këtij vendimi, të ardhurat minimale nga pensionet e plota të pleqërisë, në qytet, nuk mund të jenë më të vogla se 12 226 lekë në muaj, ndërsa të ardhurat minimale nga pensionet e plota, në fshat, nuk mund të jenë më pak se 7 234 lekë në muaj.
