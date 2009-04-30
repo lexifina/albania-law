@@ -1,0 +1,2 @@
+5. Detyrimet, që ndërmarrja shtetërore, “Qendra Ndërkombëtare e Kulturës “Arbnori””, ka ndaj institucioneve buxhetore dhe ndërmarrjeve të tjera shtetërore, sipas aneksit nr.1, që i bashkëlidhet këtij vendimi, të shuhen. Palët, që përfshihen nga shuarja e këtij detyrimi, të bëjnë reflektimet përkatëse në kontabilitetet e tyre dhe në pasqyrat financiare.
+Të drejtat e detyrimet e ndërmarrjes shtetërore “Qendra Ndërkombëtare e Kulturës “Arbnori””, vërtetohen në llogaritë financiare, të audituara e miratuara në vitin 2008.
