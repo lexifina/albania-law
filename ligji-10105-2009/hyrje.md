@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 105, datë 30.3.2009
+PËR RATIFIKIMIN E “MARRËVESHJES SË THEMELIMIT TË KORPORATËS ISLAMIKE PËR ZHVILLIMIN E SEKTORIT PRIVAT”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
