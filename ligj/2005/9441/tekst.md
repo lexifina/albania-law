@@ -4,7 +4,7 @@ Nr. 9441, datë 11.11.2005
 
 PËR PRODHIMIN, GRUMBULLIMIN, PËRPUNIMIN DHE TREGTIMIN E QUMËSHTIT DHE TË PRODUKTEVE ME BAZË QUMËSHTI
 
-(Ndryshuar me ligjin nr. 9863, datë 28.1.2008)
+(Ndryshuar me ligjet nr. 9863, datë 28.1.2008; nr. 10137, datë 11.5.2009)
 
 (i përditësuar)
 
@@ -28,7 +28,7 @@ Ky ligj ka për qëllim:
 
 Të sigurojë prodhimin e qumështit në ferma, grumbullimin, përpunimin dhe tregtimin e qumështit të papërpunuar, të qumështit për konsum dhe të produkteve me bazë qumështi, prodhimin dhe tregtimin me cilësi të kontrolluar, sipas kërkesave dhe standardeve të tregut të brendshëm dhe të jashtëm.
 
-Të realizojë kontroll për pajisjen me leje të fermave të prodhimit të qumështit dhe të qendrave të grumbullimit, standardizimit dhe përpunimit të tij.
+Të realizojë kontroll për pajisjen me licencë të fermave të prodhimit të qumështit dhe të qendrave të grumbullimit, standardizimit dhe përpunimit të tij.
 
 Të garantojë sigurinë e konsumatorit për qumështin dhe produktet me bazë qumështi.
 
@@ -92,53 +92,55 @@ Në këto produkte, qumështi ose një produkt i tij përbën pjesën   kryesore
 
 17. “Këshilli i Ekspertëve të Qumështit” është organi këshillimor i Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
 
-18. “Leje për tregtimin e qumështit” është leja për tregtimin e qumështit të papërpunuar nga një fermë e kontrolluar qumështi në qendrat e grumbullimit, të standardizimit dhe të përpunimit.
+18. “Licencë për tregtimin e qumështit” është licenca për tregtimin e qumështit të papërpunuar nga një fermë e kontrolluar qumështi në qendrat e grumbullimit, të standardizimit dhe të përpunimit.
 
-19. “Leje për qendër grumbullimi të qumështit” është leja për vënien në përdorim të një qendre të kontrolluar grumbullimi të qumështit.
+19. “Licencë për qendër grumbullimi të qumështit” është licenca për vënien në përdorim të një qendre të kontrolluar grumbullimi të qumështit.
 
-20. “Leje për qendër standardizimi të qumështit” është leja për vënien në përdorim të një qendre të kontrolluar standardizimi të qumështit.
+20. “Licencë për qendër standardizimi të qumështit” është licenca për vënien në përdorim të një qendre të kontrolluar standardizimi të qumështit.
 
-21. “Leje për qendër përpunimi të qumështit” është leja për vënie në përdorim të një qendre të kontrolluar përpunimi ose trajtimi të qumështit.
+21. “Licencë për qendër përpunimi të qumështit” është licenca për vënie në përdorim të një qendre të kontrolluar përpunimi ose trajtimi të qumështit.
 
 Neni 4
 
 Subjektet
 
+	(Ndryshuar pika 2 me ligjin nr. 10137, datë 11.5.2009)
+
 1. Të gjithë personat fizikë dhe juridikë, vendas dhe të huaj, të cilët ushtrojnë veprimtari në prodhimin, grumbullimin, standardizimin, përpunimin dhe tregtimin e qumështit dhe produkteve me bazë qumështi, u nënshtrohen kërkesave të këtij ligji.
 
-2. Subjektet që ushtrojnë veprimtari, sipas pikës 1 të këtij neni, pajisen me leje përkatëse.
+2. Veprimtaritë e përmendura në pikën 1 të këtij neni përfshihen në kategorinë II.1 shtojcës së ligjit për licencat. Licencimi i këtyre veprimtarive, për çdo operator e për çdo stabiliment, bëhet sipas ligjit për licencat.
 
 KREU II
 
-KËRKESAT PËR PAJISJE ME LEJE
+KËRKESAT PËR PAJISJE ME licencë
 
 Neni 5
 
-Leje për tregtim qumështi
+Licencë për tregtim qumështi
 
-Një fermë qumështi pajiset me leje tregtimi kur plotëson kërkesat e shtojcës A të këtij ligji me titull “Kërkesat për pranimin e qumështit të papërpunuar në qendrat e përpunimit”.
+Një fermë qumështi pajiset me licencë tregtimi kur plotëson kërkesat e shtojcës A të këtij ligji me titull “Kërkesat për pranimin e qumështit të papërpunuar në qendrat e përpunimit”.
 
 Neni 6
 
-Leje për qendër grumbullimi
+Licencë për qendër grumbullimi
 
-Leja për qendër grumbullimi jepet kur plotësohen kushtet e krerëve I, II e III të shtojcës B, që i bashkëlidhet këtij ligji.
+Licenca për qendër grumbullimi jepet kur plotësohen kushtet e krerëve I, II e III të shtojcës B, që i bashkëlidhet këtij ligji.
 
 Neni 7
 
-Leje për qendër standardizimi
+Licencë për qendër standardizimi
 
-Leja për qendër standardizimi jepet kur plotësohen kushtet e krerëve I, II dhe IV të shtojcës B, që i bashkëlidhet këtij ligji.
+Licenca për qendër standardizimi jepet kur plotësohen kushtet e krerëve I, II dhe IV të shtojcës B, që i bashkëlidhet këtij ligji.
 
 Neni 8
 
-Leje për qendër përpunuese
+Licencë për qendër përpunuese
 
-Leja për qendër përpunuese jepet kur plotësohen kushtet e krerëve I, II, V dhe VI të shtojcës B, që i bashkëlidhet këtij ligji.
+Licenca për qendër përpunuese jepet kur plotësohen kushtet e krerëve I, II, V dhe VI të shtojcës B, që i bashkëlidhet këtij ligji.
 
 Neni 9
 
-Organet përgjegjëse për dhënien e lejeve
+Organet përgjegjëse për dhënien e licencave
 
                                (Shfuqizuar me ligjin nr. 9863, datë 28.1.2008)
 
@@ -162,11 +164,11 @@ Neni 11
 
 Shitja e qumështit të papërpunuar nga fermat e prodhimit të qumështit
 
-Prodhuesi i qumështit lejohet të tregtojë qumështin e prodhuar në fermën e tij, në rast se është pajisur paraprakisht me leje tregtimi nga organet kompetente.
+Prodhuesi i qumështit lejohet të tregtojë qumështin e prodhuar në fermën e tij, në rast se është pajisur paraprakisht me licencë tregtimi nga organet kompetente.
 
 Qumështi i këtij prodhuesi duhet të plotësojë kërkesat e dispozitave të përcaktuara në nenin 10 të këtij ligji. 
 
-3. Qumështi lëndë e parë lejohet të tregtohet vetëm kur i është nënshtruar një përpunimi termik në qendrat e pajisura me leje për këtë qëllim.
+3. Qumështi lëndë e parë lejohet të tregtohet vetëm kur i është nënshtruar një përpunimi termik në qendrat e pajisura me licencë për këtë qëllim.
 
 KREU IV
 
@@ -194,7 +196,7 @@ përmbajtje të lëndës së thatë, pa yndyrë, jo më pak se 8,5 për qind.
 
 2. Kërkesat teknike për prodhimin e qumështit për konsum përcaktohen me vendim të Këshillit të Ministrave.
 
-3. Veprimtaria në qendrat e grumbullimit, të standardizimit dhe përpunimit të qumështit ushtrohet me leje, sipas kërkesave të përcaktuara në kreun II të këtij ligji dhe në shtojcën B, që i bashkëlidhet këtij ligji.
+3. Veprimtaria në qendrat e grumbullimit, të standardizimit dhe përpunimit të qumështit ushtrohet me licencë, sipas kërkesave të përcaktuara në kreun II të këtij ligji dhe në shtojcën B, që i bashkëlidhet këtij ligji.
 
 4. Qumështi për konsum duhet të përmbushë kërkesat e sigurisë, të përcaktuara në nenin 16 të këtij ligji. Kërkesat për ngarkesat mikrobike përcaktohen me vendim të Këshillit të Ministrave.
 
@@ -222,7 +224,7 @@ Qumështi i papërpunuar ose i termizuar, që përdoret për prodhimin e produkt
 
 të jetë në përputhje me nenin 10 të këtij ligji;
 
-b) qendrat e grumbullimit ose të standardizimit, nëpër të cilat kalon qumështi i papërpunuar, të jenë të pajisura me leje, sipas kërkesave të shtojcës B, që i bashkëlidhet këtij ligji;
+b) qendrat e grumbullimit ose të standardizimit, nëpër të cilat kalon qumështi i papërpunuar, të jenë të pajisura me licencë, sipas kërkesave të shtojcës B, që i bashkëlidhet këtij ligji;
 
 c) të jetë etiketuar, magazinuar e transportuar sipas neneve 18, 19, 21 dhe 22 të këtij ligji.
 
@@ -232,7 +234,7 @@ Kërkesat për tregtimin e produkteve me bazë qumështi
 
 Produktet me bazë qumështi, të prodhuara nga qumështi, që plotëson kërkesat e nenit 10, ose nga një produkt tjetër qumështi, tregtohen kur:
 
-a) prodhohen në një qendër përpunimi, të pajisur me leje përkatëse, sipas ligjit nr.7941, datë 31.5.1995 “Për ushqimin” dhe kërkesave të krerëve I, II, III dhe VI të shtojcës B, që i bashkëlidhet këtij ligji;
+a) prodhohen në një qendër përpunimi, të pajisur me licencë përkatëse, sipas ligjit nr.7941, datë 31.5.1995 “Për ushqimin” dhe kërkesave të krerëve I, II, III dhe VI të shtojcës B, që i bashkëlidhet këtij ligji;
 
 b) të jenë në përputhje me normat për përmbajtjen, cilësinë dhe sigurinë ushqimore për qumështin e konsumit dhe produktet me bazë qumështi, të përcaktuara me vendime të Këshillit të Ministrave;
 
@@ -332,7 +334,7 @@ Sipas këtij ligji, në rastet kur nuk përbëjnë vepër penale, përbëjnë ku
 
 Mosrespektimi i kërkesave për qumështin e papërpunuar, sipas përcaktimeve të nenit 10 të këtij ligji.
 
-2. Tregtimi i qumështit të papërpunuar nga fermat e prodhimit, pa lejen e tregtimit, të lëshuar nga organet përkatëse, të parashikuara në nenin 11 të këtij ligji.
+2. Tregtimi i qumështit të papërpunuar nga fermat e prodhimit, pa licencën e tregtimit, të lëshuar nga organet përkatëse, të parashikuara në nenin 11 të këtij ligji.
 
 3. Mosrespektimi i kërkesave për qumështin për konsum, sipas përcaktimeve të neneve 12 e 13 të këtij ligji.
 
@@ -344,7 +346,7 @@ Mosrespektimi i kërkesave për qumështin e papërpunuar, sipas përcaktimeve t
 
 7. Mosrespektimi i kërkesave për magazinimin e qumështit dhe të produkteve të tij, sipas përcaktimeve të nenit 22 të këtij ligji.
 
-8. Prodhimi, grumbullimi, përpunimi dhe standardizimi i qumështit pa lejet përkatëse, të përcaktuara në nenet 5, 6, 7 e 8 të këtij ligji.
+8. Prodhimi, grumbullimi, përpunimi dhe standardizimi i qumështit pa licencat përkatëse, të përcaktuara në nenet 5, 6, 7 e 8 të këtij ligji.
 
 Neni 32
 
@@ -378,9 +380,9 @@ Neni 35
 
 Afatet
 
-Prodhuesit e qumështit të papërpunuar pajisen me leje brenda 1 viti nga hyrja në fuqi e këtij ligji.
+Prodhuesit e qumështit të papërpunuar pajisen me licencë brenda 1 viti nga hyrja në fuqi e këtij ligji.
 
-Në qendrat e grumbullimit dhe të përpunimit, brenda 1 viti nga hyrja në fuqi e këtij ligji, të plotësohen kushtet e përgjithshme dhe të veçanta higjienike, sipas kërkesave të përcaktuara në shtojcën B, që i bashkëlidhet këtij ligji, për marrjen e lejes për ushtrimin e veprimtarisë përkatëse.
+Në qendrat e grumbullimit dhe të përpunimit, brenda 1 viti nga hyrja në fuqi e këtij ligji, të plotësohen kushtet e përgjithshme dhe të veçanta higjienike, sipas kërkesave të përcaktuara në shtojcën B, që i bashkëlidhet këtij ligji, për marrjen e licencës për ushtrimin e veprimtarisë përkatëse.
 
 Neni 36
 
@@ -435,7 +437,7 @@ b)  Dele e dhi:
 
 b1) Të cilat i përkasin një tufe të paprekur ose zyrtarisht të paprekur nga bruceloza.
 
-b2) Të cilat përmbushin kërkesat e pikës (a) më sipër, me përjashtim të pikave a1 dhe a6.
+b2) Të cilat përmbushin kërkesat e pikës (a) më sipër, me përjashtim të pikave  a1 dhe a6.
 
 2. Nëse mbahen në një fermë së bashku me kafshë të llojeve të ndryshme, atëherë çdo lloj i tyre duhet të përmbushë kërkesat për kushtet shëndetësore, të cilat do të kërkoheshin edhe për mbarështim të veçantë të tyre.
 
@@ -540,9 +542,9 @@ SHTOJCA B
 
 KREU I
 
-KUSHTE TË PËRGJITHSHME PËR DHËNIEN E LEJES QENDRAVE TË PËRPUNIMIT
+KUSHTE TË PËRGJITHSHME PËR DHËNIEN E licencës QENDRAVE TË PËRPUNIMIT
 
-Qendrat përpunuese të qumështit, që të pajisen me leje, duhet të plotësojnë kushtet si më poshtë:
+Qendrat përpunuese të qumështit, që të pajisen me licencë, duhet të plotësojnë kushtet si më poshtë:
 
 1. Repartet e punës të kenë hapësira të mjaftueshme, të cilat mundësojnë kryerjen e proceseve të punës në kushte higjienike të përshtatshme. Këto hapësira pune të projektohen dhe të paraqiten në atë mënyrë që të përjashtojnë çdo ndotje të lëndës së parë dhe produkteve të përkufizuara si produkte qumështi në këtë ligj. 
 
@@ -568,13 +570,13 @@ e) të ketë një numër të mjaftueshëm pajisjesh hidrosanitare, të cilat të
 
 Në qendrat e përpunimit të plotë duhet të ketë dhoma për depozitimin e lëndëve të para e produkteve me të njëjtat kushte si në pikën 2, si dhe:
 
-a)  dhoma për ruajtje në të ftohtë, ku dyshemeja të jetë me material të pastrueshëm e  të dezinfektueshëm lehtë dhe ku uji mund të rrjedhë e të largohet lehtë;
+a)  dhoma për ruajtje në të ftohtë, ku dyshemeja të jetë me material të pastrueshëm e të dezinfektueshëm lehtë dhe ku uji mund të rrjedhë e të largohet lehtë;
 
  b) dhoma për depozitim në ngrirje ose tejngrirje, ku dyshemeja të jetë nga material i papërshkueshëm nga uji, i pandryshkshëm dhe i pastrueshëm lehtësisht.
 
 Në këtë rast duhet të jetë në dispozicion një pajisje me rendiment të mjaftueshëm ftohjeje, e cila garanton që lënda e parë dhe produktet të ruhen në temperaturat që parashikohet në këtë ligj.
 
-Përdorimi i mureve të drurit në dhomat e prodhimit, të cilat janë ndërtuar para daljes së këtij ligji, nuk justifikon heqjen e lejes së prodhimit (licencës). Për ndërrimin e tyre lihet një afat 1-3 vjeçar.
+Përdorimi i mureve të drurit në dhomat e prodhimit, të cilat janë ndërtuar para daljes së këtij ligji, nuk justifikon heqjen e licencës së prodhimit. Për ndërrimin e tyre lihet një afat 1-3 vjeçar.
 
 4. Kapaciteti i dhomave depozituese duhet të jetë i mjaftueshëm për depozitimin e lëndëve të para dhe produkteve. Ato duhet të kenë:
 
@@ -640,9 +642,7 @@ Të gjithë personat që trajtojnë produktet e përkufizuara nga ky ligj, të p
 
 KREU III
 
-KUSHTE TË VEÇANTA PËR PAJISJEN ME LEJE 
-
-TË QENDRAVE TË GRUMBULLIMIT TË QUMËSHTIT
+KUSHTE TË VEÇANTA PËR PAJISJEN ME licencë TË QENDRAVE TË GRUMBULLIMIT TË QUMËSHTIT
 
 Përveç kushteve të përcaktuara në kreun I pika 2 shkronjat “a”, “b”, “c”, “ç” dhe pika 4 shkronjat “b”, “c”, “d”, “dh”, “g” e “gj” të kësaj Shtojce, qendrat e grumbullimit të qumështit të disponojnë të paktën dhe:
 
@@ -652,7 +652,7 @@ b) mjete ose mënyra filtruese të përshtatshme për pastrimin fizik të qumës
 
 KREU IV
 
-KUSHTE TË VEÇANTA PËR PAJISJEN ME LEJE TË QENDRAVE TË STANDARDIZIMIT
+KUSHTE TË VEÇANTA PËR PAJISJEN ME licencë TË QENDRAVE TË STANDARDIZIMIT
 
 Përveç kushteve të përcaktuara në kreun I pika 2 shkronjat “a”, “b”, “ç”, “dh” dhe pika 4 shkronjat “b”, “c”, “d”, “dh”, “g” e “gj” të kësaj Shtojce, qendrat e grumbullimit të qumështit të disponojnë të paktën:
 
@@ -662,7 +662,7 @@ b) centrifuga ose pajisje të tjera filtruese të përshtatshme për pastrimin f
 
 KREU V
 
-KUSHTE TË VEÇANTA PËR PAJISJEN ME LEJE TË QENDRAVE PËRPUNUESE
+KUSHTE TË VEÇANTA PËR PAJISJEN ME licencë TË QENDRAVE PËRPUNUESE
 
 Përveç kushteve të përgjithshme të parashikuara në kreun I, qendrat e përpunimit të plotë të disponojnë të paktën edhe:
 
