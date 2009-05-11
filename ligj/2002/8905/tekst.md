@@ -4,6 +4,10 @@ Nr. 8905, datë 6.6.2002
 
 PËR MBROJTJEN E MJEDISIT DETAR NGA NDOTJA DHE DËMTIMI
 
+(Ndryshuar me ligjin nr. 10 137, datë 11.5.2009)
+
+(I përditësuar)
+
 Në mbështetje të neneve 78, 81 pika 1 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 K U V E N D I 
@@ -20,7 +24,7 @@ Neni 1
 
 Qëllimi
 
-Ky ligj ka për qëllim mbrojtjen e mjedisit detar të Republikës së Shqipërisë nga ndotjet e dëmtimet, parandalimin dhe shmangien e tyre, të shkaktuara nga veprimtaritë njerëzore në det e në zonën bregdetare, të cilat prishin cilësinë e ujit, dëmtojnë burimet e detit e të bregdetit, rrezikojnë faunën dhe florën, kërcënojnë shëndetin e njeriut, si dhe vështirësojnë zhvillimin normal të veprimtarive  në këtë mjedis.
+Ky ligj ka për qëllim mbrojtjen e mjedisit detar të Republikës së Shqipërisë nga ndotjet e dëmtimet, parandalimin dhe shmangien e tyre, të shkaktuara nga veprimtaritë njerëzore në det e në zonën bregdetare, të cilat prishin cilësinë e ujit, dëmtojnë burimet e detit e të bregdetit, rrezikojnë faunën dhe florën, kërcënojnë shëndetin e njeriut, si dhe vështirësojnë zhvillimin normal të veprimtarive në këtë mjedis.
 
 Neni 2
 
@@ -196,11 +200,15 @@ Neni 11
 
 Subjektet që largojnë mbeturinat
 
+(Shtuar pika 4 me ligjin nr. 10 137, datë 11.5.2009)
+
 1. Largimi i mbeturinave dhe i hidrokarbureve të përdorura, që rrjedhin nga kryerja e veprimtarive në mjedisin detar, bëhet nga persona fizikë e juridikë të specializuar për pastrim.
 
 2. Personat fizikë dhe juridikë që administrojnë këto mbeturina pajisen me leje mjedisore. 
 
 3. Licencimi mbështet përdorimin e teknologjive më të mira, të mundshme për pastrim.
+
+4. Veprimtaria e largimit të mbeturinave dhe hidrokarbureve të përdorura, e përcaktuar në këtë nen, përfshihet në kategorinë VII.5, të ligjit për licencat. Kjo veprimtari licencohet sipas dispozitave në vijim, të këtij ligji.
 
 Neni 12
 
