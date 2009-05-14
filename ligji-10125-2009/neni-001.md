@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet “Marrëveshja e huasë ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Këshilli i Ministrave, që vepron nëpërmjet Ministrit të Financave, Alpha Bank A.E. e Deutsche Bank A.G., dega e Londrës, si rregullues, institucioneve financiare, të listuara si huadhënësit fillestarë dhe Alpha Bank A.E., dega e Londrës, si agjent, për financimin e shpenzimeve kapitale për vitin 2009, në përputhje me strategjinë kombëtare për zhvillimin dhe integrimin e Shqipërisë”.
