@@ -1,0 +1,1 @@
+4. Drejtorisë së Përgjithshme të Burgjeve, në varësi të Ministrisë së Drejtësisë, t’i shtohet fondi 7 278 040 (shtatë milionë e dyqind e shtatëdhjetë e tetë mijë e dyzet) lekë, nga fondi rezervë i Buxhetit të Shtetit.
