@@ -1,0 +1,2 @@
+# Neni 7
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
