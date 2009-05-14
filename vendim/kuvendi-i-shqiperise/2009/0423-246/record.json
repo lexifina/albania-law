@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17107,
+  "title": "Për zgjedhjen e një anëtari të këshillit TÊ LARTË të Drejtësisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "246",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2009-04-23",
+  "published": "2009-05-14",
+  "in_force": "2009-05-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6f91773e7469f2d3cf1372d64f50ebd7a8c2e610c0c5858f8d6a15305ef3ad79.docx",
+  "source_sha256": "6f91773e7469f2d3cf1372d64f50ebd7a8c2e610c0c5858f8d6a15305ef3ad79",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17107",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/04/23/246",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
