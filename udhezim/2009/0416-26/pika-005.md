@@ -1,0 +1,1 @@
+5. Pavarësisht nga deklarimi dhe pagesa e kontributeve si më sipër, secili prej subjekteve, në mënyrë të pavarur, për tatimin mbi të ardhurat nga punësimi (TAP) për personin e punësuar në dy subjekte bën deklarimin dhe pagimin mbi pagën e plotë, në masën që i takon, njësoj sikur personi të mos ishte i punësuar në subjekt tjetër.
