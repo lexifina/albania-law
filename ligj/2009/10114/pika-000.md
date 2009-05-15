@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr.1, datë 2.4.2009, i Këshillit të Ministrave “Për dërgimin e një kompanie të Forcave të Armatosura në Republikën e Çadit dhe në Republikën e Afrikës Qendrore, në kuadër të kontributit të Republikës së Shqipërisë në misionin “MINURCAT” të Organizatës së Kombeve të Bashkuara”.
