@@ -1,0 +1,1 @@
+3. Institucionet e përmendura në pikën 1 të këtij vendimi, mbajnë shënim numrin personal dhe numrin e letërnjoftimit, si dhe mund të bëjnë fotokopje të letërnjoftimit të shtetasve, të cilëve u shërbejnë, nëse u nevojitet ky dokument si pjesë përbërëse e praktikës përkatëse.

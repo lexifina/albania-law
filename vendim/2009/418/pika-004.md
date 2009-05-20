@@ -1,0 +1,1 @@
+4. Në rastet kur shtetasit nuk disponojnë letërnjoftim për arsye të justifikuara, lejohet përdorimi i certifikatës personale me fotografi, si dokument identifikimi, deri më 31 dhjetor 2009, në përputhje me dispozitat e parashikuara në aktet e tjera, ligjore dhe nënligjore.

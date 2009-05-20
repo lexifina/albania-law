@@ -1,0 +1,1 @@
+5. Ndaj punonjësve të institucioneve, publike dhe jopublike, vendase, në rast të moszbatimit të dispozitave të parashikuara në këtë vendim, do të merren masa disiplinore fillimisht me gjobë, në vlerën e gjysmës së pagës, në rast përsëritjeje gjobë në vlerën e një page dhe nëse ripërsëritet pezullim nga detyra.

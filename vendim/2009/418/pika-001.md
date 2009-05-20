@@ -1,0 +1,1 @@
+1. Institucionet, publike dhe jopublike, vendase dhe të huaja, brenda dhe jashtë territorit të Republikës së Shqipërisë, do ta njohin si dokument identifikimi letërnjoftimin, sipas modelit të paraqitur në lidhjen nr.1, që i bashkëlidhet këtij vendimi.
