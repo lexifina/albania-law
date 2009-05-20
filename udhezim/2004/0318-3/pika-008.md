@@ -1,1 +1,0 @@
-8. Organet licencuese të njoftojnë ”autoritetin përgjegjës” në të njëjtën mënyrë, në çdo rast kur kanë të dhëna ose dyshime për implikime ose qëllime, që veprimtaria do të përdoret për të mbështetur, lehtësuar, ruajtur, nxitur ose fshehur akte terroriste apo do të financojë terrorizmin.

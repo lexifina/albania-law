@@ -1,1 +1,0 @@
-13. Në përputhje me detyrimet përkatëse ligjore dhe sipas fushës së veprimtarisë, organet licencuese të përgatisin dhe të zbatojnë rregullore dhe udhëzime të brendshme, për të vlerësuar dhe identifikuar transaksionet e lidhura me veprimtari të paligjshme.

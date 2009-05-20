@@ -1,1 +1,0 @@
-16. Organet licencuese detyrohen t’i mbajnë dhe t’i ruajnë raportimet për veprimin financiar të subjektit që do të licencohet, për një periudhë jo më pak se 5 vjet nga data e kryerjes së veprimit financiar.
