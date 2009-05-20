@@ -1,0 +1,1 @@
+2. Mbulimin e shpenzimeve të udhëtimit vetëm për personat pa pasaportë, që banojnë në fshatrat me mbi 5 km larg qendrës së aplikimit. Kryetarët e komunave, të përfshirë në listën, që i bashkëlidhet këtij vendimi, të evidentojnë listën me emrat e shtetasve për çdo fshat, që plotësojnë kushtet e mësipërme dhe që nuk kanë pasaportë.

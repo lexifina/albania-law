@@ -1,0 +1,1 @@
+1. Ministrisë së Brendshme, në buxhetin e miratuar për vitin 2009, t’i shtohet fondi 10 000 000 (dhjetë milionë) lekë, për mbulimin e shpenzimeve të udhëtimit për zgjedhësit pa pasaportë, që aplikojnë për letërnjoftim, në komunat e përcaktuara në listën, që i bashkëlidhet këtij vendimi.

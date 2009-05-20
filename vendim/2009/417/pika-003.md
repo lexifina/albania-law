@@ -1,0 +1,1 @@
+3. Çdo zgjedhës pa pasaportë, që vjen për të aplikuar për letërnjoftim, pas aplikimit merr nga zyra e financës së komunës pagesën për transportin, por, në çdo rast, jo më shumë se 100 (njëqind) lekë kur qendra e aplikimit ndodhet në të njëjtën komunë, dhe jo më shumë se çmimi publik, i miratuar nga prefekti përkatës dhe i bërë publik për banorët jo më vonë se data 8.5.2009.

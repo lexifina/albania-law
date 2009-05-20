@@ -1,0 +1,1 @@
+4. Kryetarët e komunave të evidentojnë mjetet e transportit të udhëtarëve dhe të kujdesen që, gjatë kohës së aplikimit për letërnjoftim, të ketë mjete transporti në të gjitha fshatrat, që ndodhen më shumë se 5 km larg dhe ku rrjeti rrugor e lejon.
