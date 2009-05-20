@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Topojë të qarkut të Fierit, që transferohen, në pronësi ose në përdorim të kësaj komune, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 48 (dyzet e tetë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 253 (dyqind e pesëdhjetë e tre).
