@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit, territorial dhe administrativ të komunës Vreshtas të qarkut të Korçës, që transferohen, në pronësi ose në përdorim të kësaj komune, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 66 (gjashtëdhjetë e gjashtë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 362 (treqind e gjashtëdhjetë e dy).
