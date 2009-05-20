@@ -1,0 +1,1 @@
+1. Kategoritë e personelit akademik ndahen në nivele, të cilat emërtohen e renditen sipas përcaktimeve të këtij vendimi. Ndarja në nivele bëhet për shpërndarjen e personelit akademik në institucionet e arsimit të lartë, sipas vendeve të punës, që ka çdo njësi, mbështetur në veprimtaritë, që do të zhvillojë dhe kualifikimin e kërkuar.

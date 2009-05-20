@@ -1,0 +1,1 @@
+8. Ministri i Arsimit dhe Shkencës nxjerr udhëzim për kategoritë e personelit ndihmës, mësimor e shkencor, të institucioneve të arsimit të lartë dhe përshtatjen e tyre me kategoritë e personelit akademik.
