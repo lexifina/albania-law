@@ -1,0 +1,1 @@
+5. Pika e hyrjes në territorin e Republikës së Shqipërisë për trupat dhe automjetet tranzituese sipas pikës 1 dhe 3 të këtij vendimi është pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes është Porti i Durrësit.
