@@ -1,0 +1,1 @@
+4. Personat e përcaktuar në pikën 2 të këtij vendimi, paraqesin kërkesën dhe dokumentacionin e përcaktuar në pikën 3 të këtij vendimi në përfaqësinë diplomatike të Republikës së Shqipërisë në vendin e tij të origjinës.
