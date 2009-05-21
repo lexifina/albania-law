@@ -1,0 +1,1 @@
+9. Zyra përkatëse e punësimit i refuzon të huajit kërkesën për pajisje me leje pune, të tipit A/NK, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikat 1 e 6 të këtij vendimi ose është në kushtet e përcaktuara në pikën 13 të këtij vendimi.

@@ -1,0 +1,1 @@
+5. Zyra përkatëse e punësimit, pasi shqyrton dokumentacionin e paraqitur dhe vlerëson se ai nuk është në përputhje me kërkesat e pikës 3 të këtij vendimi, i kërkon të huajit plotësimin e dokumentacionit, brenda 10 ditëve pune.
