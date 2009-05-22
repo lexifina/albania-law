@@ -1,0 +1,1 @@
+11. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit i refuzon kërkesën për pajisje ose ripërtëritje të lejes së punës, të tipit A/S, studentit, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikat 1 ose 2 të këtij vendimi ose është në kushtet e pikës 15 të këtij vendimi.

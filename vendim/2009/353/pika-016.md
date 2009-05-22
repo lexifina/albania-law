@@ -1,0 +1,1 @@
+16. I huaji, të cilit i refuzohet ose anulohet leja e punës, e tipit A/S, ka të drejtën e ankimimit, sipas procedurës së përcaktuar në pikën 2 të nenit 65 të ligjit nr.9959, datë 17.7.2008 “Për të huajt”.
