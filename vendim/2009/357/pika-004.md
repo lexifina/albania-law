@@ -1,0 +1,1 @@
+4. Personat e përcaktuar në pikën 2 të këtij vendimi, për t’u pajisur me leje pune të tipit D, paraqesin dokumentacionin e përcaktuar në pikën 3 të këtij vendimi, në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit.
