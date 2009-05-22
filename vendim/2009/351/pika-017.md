@@ -1,0 +1,3 @@
+17. Drejtoria e Përgjithshme e Shërbimit Kombëtar ta Punësimit/zyra përkatëse e punësimit, pas paraqitjes së kërkesës nga investitori, për ripërtëritjen e lejes së punës, të tipit B/VP:
+a) verifikon shlyerjen e detyrimeve në organet tatimore, sigurimet shoqërore dhe shëndetësore, të punëdhënësit, ku ai është i vetëpunësuar;
+b) kërkon nga drejtoritë rajonale të inspektimit në punë/zyrat vendore të inspektimit në punë një vlerësim, nëse i vetëpunësuari ka zbatuar legjislacionin e punës, për periudhën e vlefshmërisë së lejes së mëparshme të punës, të tipit B/VP, ose ka shlyer shkeljet e konstatuara në aktin e fundit të inspektimit në punë.

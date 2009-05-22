@@ -1,0 +1,3 @@
+16. Personat e përcaktuar në pikën 3 të këtij vendimi, për ripërtëritjen e lejes së punës, të tipit B/VP, paraqesin, 15 ditë para mbarimit të afatit të lejes ekzistuese, dokumentacionin e përcaktuar në pikën 5 të këtij vendimi:
+a) në zyrën përkatëse të punësimit, në territorin e së cilës i huaji do ta ushtrojë veprimtarinë ekonomike, nëse është me qëndrim të ligjshëm në territorin e Republikës së Shqipërisë;
+b) në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit, nëse i huaji do ta ushtrojë veprimtarinë ekonomike në më shumë se një rajon gjeografik, nëse është me qëndrim të ligjshëm, në territorin e Republikës së Shqipërisë.
