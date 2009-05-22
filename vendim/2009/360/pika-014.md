@@ -1,0 +1,1 @@
+14. I huaji, të cilit i refuzohet ose anulohet përjshtimi nga detyrimi për pajisjen me leje pune, ka të drejtën e ankimimit, sipas procedurës së përcaktuar në pikën 2 të nenit 65 të ligjit nr.9959, datë 17.7.2008 “Për të huajt”.

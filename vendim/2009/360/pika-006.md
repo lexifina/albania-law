@@ -1,0 +1,1 @@
+6. Drejtoria, që ka në përgjegjësi çështjet e migracionit, në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, ia kthen kërkesën dhe dokumentacionin e paraqitur personit të përcaktuar në pikën 1 të këtij vendimi, nëse ai nuk e ka plotësuar atë brenda afatit të përcaktuar në pikën 4 të këtij vendimi.

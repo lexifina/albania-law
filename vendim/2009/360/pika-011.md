@@ -1,0 +1,1 @@
+11. Ministria e Punëve të Jashtme njofton përfaqësinë diplomatike të Republikës së Shqipërisë, në vendin e origjinës së të huajit, për pranimin/refuzimin e kërkesës së të huajit, për përjashtimin nga detyrimi për t’u pajisur me leje pune.
