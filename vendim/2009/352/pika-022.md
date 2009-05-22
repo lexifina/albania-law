@@ -1,0 +1,1 @@
+22. Drejtoria, që ka në përgjegjësi çështjet e migracionit në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, monitoron, në mënyrë periodike, procedurën e ndjekur nga Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit dhe zyrat përkatëse të punësimit, për dhënien e lejes së punës.
