@@ -1,0 +1,1 @@
+14. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, për pajisjen/refuzimin të huajit të lejes së punës, të tipit A/S, ndjekin procedurat e përcaktuara në pikat 7, 8, 9, 10 e 11 të këtij vendimi,

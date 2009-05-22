@@ -1,0 +1,1 @@
+20. I huaji, i cili pajiset me leje pune, të tipit C, dhe i përket kategorive të përcaktuara në shkronjat “b”, “ç”, “d”, “dh” e “e” të pikës 1 të nenit 60 të ligjit nr.9959, datë 17.7.2008 “Për të huajt”, para marrjes se lejes së punës, detyrohet të paguajë tarifën prej 6 000 (gjashtë mijë) lekësh.
