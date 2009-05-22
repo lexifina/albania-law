@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, nëse vlerëson se dokumentacioni i paraqitur është i plotë apo pas plotësimit të tij, brenda afatit të përcaktuar, është i rregullt, vlerëson nëse i huaji i përmbush kriteret e përcaktuara në pikat 1 e 6 të këtij vendimi dhe e pajis atë brenda 10 ditëve pune me leje pune, të tipit A/SHV.

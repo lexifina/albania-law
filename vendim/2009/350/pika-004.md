@@ -1,0 +1,4 @@
+4. Personat e përcaktuar në pikën 2 të këtij vendimi, paraqesin kërkesën dhe dokumentacionin e përcaktuar në pikën 3 të këtij vendimi:
+a) në zyrën përkatëse të punësimit, në territorin e së cilës organizatë jofitimprurëse ushtron veprimtarinë, dhe nëse i huaji, që do të marrë pjesë në shërbimin vullnetar, është me qëndrim të ligjshëm në territorin e Republikës së Shqipërisë;
+b) në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit, nëse organizata jofitimprurëse e ushtron veprimtarinë në më shumë se një rajon gjeografik, dhe nëse i huaji, që do të marrë pjesë në shërbimin vullnetar, është me qëndrim të ligjshëmin në territorin e Republikës së Shqipërisë;
+c) pranë përfaqësisë diplomatike të Republikës së Shqipërisë, në vendin e tij të origjinës, për të huajin, i cili është në vendin e origjinës dhe do të vijë për shërbim vullnetar apo në kuadër të shkëmbimeve rinore.
