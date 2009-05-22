@@ -1,0 +1,3 @@
+17. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, pas paraqitjes së kërkesës nga investitori për ripërtëritjen e lejes së punës, së tipit B/I;
+a) verifikon shlyerjen e detyrimeve në organet tatimore, sigurimet shoqërore dhe shëndetësore, të punëdhënësit, ku ai është investitor;
+b) kërkon nga drejtoritë rajonale të inspektimit në punë/zyrat vendore të inspektimit në punë një vlerësim nëse punëdhënësi, pranë të cilit i huaji është investitor, ka zbatuar legjislacionin e punës, për periudhën e vlefshmërisë së lejes së mëparshme të punës të tipit B/I, ose ka shlyer shkeljet e konstatuara në aktin e fundit të inspektimit në punë.

@@ -1,0 +1,1 @@
+8. Nëse Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit vlerëson se dokumentacioni i paraqitur është i plotë apo pas plotësimit të tij nga i huaji, brenda afatit të caktuar, përmbush kriteret e përcaktuara në pikën 1 të këtij vendimi, e pajis të huajin me leje pune, të tipit B/I, për herë të pare brenda 10 ditëve.

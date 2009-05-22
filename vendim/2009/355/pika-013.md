@@ -1,0 +1,1 @@
+13. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, për pajisjen/refuzimin të huajit të lejes së punës, të tipit B/I, ndjek procedurat e përcaktuara në pikat 7, 8, 9 e 10 të këtij vendimi.
