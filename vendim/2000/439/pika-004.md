@@ -1,3 +1,0 @@
-4. Shtetasit e huaj hyjnë në territorin e Republikës së Shqipërisë, duke i paraqitur policisë kufitare, dokumente udhëtimi të vlefshme, si pasaportë, kartë identiteti, dokument kufitar, lejekalimi, lejekalimi të Organizatës së Kombeve të Bashkuara dhe filialeve të saj, Këshillit të Europës, Bashkimit Europian, NATO-s dhe dokument udhëtimi.
-Shtetasit e huaj, mund të hyjnë në territorin e Republikës së Shqipërisë pa vizë, me vizë të lëshuar në kufi nga policia kufitare ose me vizë të lëshuar nga Zyra konsullore e Republikës së Shqipërisë jashtë shtetit, sipas përcaktimit të bërë në lidhjen nr. 8, që i bashkëlidhet këtij vendimi.
-Ministria e Rendit Publik i bën të ditur Ministrisë së Punëve të Jashtme çdo ndryshim në regjimin e hyrjes dhe të vizës për vende të ndryshme.

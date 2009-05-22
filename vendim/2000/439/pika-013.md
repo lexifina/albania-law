@@ -1,1 +1,0 @@
-13. Të huajt, që kanë ndihmuar në interesat tona kombëtare, dhe që kërkojnë lejeqëndrim të përhershëm në Republikën e Shqipërisë rekomandohen nga Akademia e Shkencave e Republikës së Shqipërisë dhe nga institucionet qendrore të shtetit shqiptar.

@@ -1,3 +1,0 @@
-3. Policia kufitare në PKKK-re u bën të ditur shtetasve të huaj, se ata duhet të paraqiten në komisariatin vendor të policisë, ku i huaji do të qëndrojë.
-Në komisariatin e policisë paraqiten vettëm ata shtetas të huaj, që do të qëndrojnë më shumë se 20 ditë në territorin e Republikës së Shqipërisë. Shtetasi i huaj në komisariat të policisë plotëson deklaratën, sipas modelit tip, që i bashkëlidhet këtij vendimi.
-Nuk paraqiten në polici personeli i përfaqësive të huaja, të punësuarit nga diplomatët e huaj, personat nën moshën 16-vjeç, fetarët, pjesëtarët e një ekuipazhi (të anijes ose avionit), si dhe të huajt që janë veprimtarë pranë institucioneve publike.

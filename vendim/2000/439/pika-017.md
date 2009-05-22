@@ -1,1 +1,0 @@
-17. Ministria e Rendit Publik bashkëpunon për problemet e të huajve me Ministrinë e Punëve të Jashtme, Ministrinë e Pushtetit Lokal, Prokurorinë e Përgjithshme, Shërbimin Informativ Shtetëror, Ministrinë e Punës dhe të Çështjeve Sociale dhe Ministrinë e Drejtësisë. Ky bashkëpunim rregullohet me akte të përbashkëta, që dalin në zbatim të ligjit.
