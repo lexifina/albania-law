@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17171,
+  "title": "Për miratimin e dekretit të Presidentit të Republikës për shkarkim ministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "250",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2009-05-15",
+  "published": "2009-05-27",
+  "in_force": "2009-05-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b91bfb96c48538188b0694254cefccb16b6614a1cbb74ce8c569afd68f2abc22.docx",
+  "source_sha256": "b91bfb96c48538188b0694254cefccb16b6614a1cbb74ce8c569afd68f2abc22",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17171",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/05/15/250",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
