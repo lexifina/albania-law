@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17172,
+  "title": "Për miratimin e dekretit të Presidentit të Republikës për emërim ministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "251",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2009-05-15",
+  "published": "2009-05-27",
+  "in_force": "2009-05-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/901c345a8862722f1cd72599870e0594babe998b6e4dfd145db70ddc635cb087.docx",
+  "source_sha256": "901c345a8862722f1cd72599870e0594babe998b6e4dfd145db70ddc635cb087",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17172",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/05/15/251",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
