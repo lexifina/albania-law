@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në procedurën konkurruese përzgjedhëse, për dhënien me koncesion të hidrocentralit “Llanga 1”, të kërkojë shprehje të interesit dhe të pranojë oferta, për të gjithë pjesën e lirë të skemës, ku përfshihet ndërtimi i këtij hidrocentrali.
