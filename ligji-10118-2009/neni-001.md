@@ -1,0 +1,2 @@
+# Neni 1
+Dhënien e së drejtës së përdorimit, për 15 vjet, kundrejt çmimit 7 200 000 (shtatë milionë e dyqind mijë) euro, në brezin e frekuencave E-GSM dhe GSM 1800, bashkimit të ofertuesve, të përfaqësuar nga Postë Telekomunikacioni i Kosovës sha, sipas kushteve të ofertës, të dorëzuar tek Autoriteti i Komunikimeve Elektronike dhe Postare, në përputhje me kërkesat e dokumentacionit standard të procedurës “Tender i hapur ndërkombëtar” të datës 20.2.2009.
