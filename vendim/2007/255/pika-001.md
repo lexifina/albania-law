@@ -3,3 +3,4 @@ a) bursa të posaçme, për studentë, që bëjnë studimet e doktoratës, jasht
 b) bursa të posaçme, për shkencëtarë të rinj, që bëjnë studimet e postdoktoratës, jashtë shtetit;
 c) çmime për studentë, fitues në konkurse dhe olimpiada ndërkombëtare;
 ç) mbështetje për botime shkencore, me nivel të lartë shkencor.
+d) bursa të posaçme për studentë, që ndjekin jashtë shtetit ciklin e parë, ciklin e dytë dhe ciklin e tretë të studimeve, në njërin prej 10 universiteteve më të mira të botës

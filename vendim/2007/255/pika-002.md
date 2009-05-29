@@ -11,3 +11,7 @@ c) autorët e botimeve me nivel të lartë shkencor, si të:
 i) artikujve shkencorë origjinalë dhe analizave shkencore (review), pranuar në revistat shkencore të huaja, që janë të indeksuara;
 ii) monografive, të shkruara në gjuhë të huaj dhe që kërkohen edhe nga institucione jashtë shtetit;
 ii) veprave fondamentale, që vlerësohen të një rëndësie të veçantë për shkencën dhe kulturën mbarëshqiptare.
+ç) Studentët, që ndjekin jashtë shtetit ciklin e parë, ciklin e dytë dhe ciklin e tretë të studimeve në njërin prej 10 universiteteve më të mira të botës kur:
+i) janë pranuar në njërin nga 10 universitetet më të mira të botës për të ndjekur njërën nga tri ciklet e studimit;
+ii) pranojnë të punojnë, së paku, 5 vjet në Shqipëri, pas përfundimit të ciklit përkatës të studimeve, për të cilin përfitojnë bursën;
+iii) nuk janë, njëkohësisht, përfitues të ndonjë burse tjetër nga shteti shqiptar dhe nuk kanë të ardhura personale mbi 100 000 (njëqind mijë) lekë në muaj.
