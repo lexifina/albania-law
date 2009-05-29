@@ -1,0 +1,1 @@
+4. Punonjësit e njësive të hetimit tatimor për gjurmimin dhe hetimin e veprave penale, fiksimin dhe dokumentimin e provave, përdorin mjete teknike dhe elektronike, të posaçme. Llojet e mjeteve dhe rregullat e përdorimit të tyre përcaktohen nga Drejtori i Përgjithshëm i Tatimeve.

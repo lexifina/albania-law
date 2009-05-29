@@ -1,0 +1,1 @@
+6. Fondi për shpërblimin e burimeve njerëzore me të cilët ka marrëveshje për bashkëpunim të fshehtë, caktohet zë më vete në buxhetin vjetor të Drejtorisë së Përgjithshme të Tatimeve. Rregullat dhe masat e shpërblimit përcaktohen me vendim të Këshillit të Ministrave.

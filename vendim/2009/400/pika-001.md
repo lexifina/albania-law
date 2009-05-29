@@ -1,0 +1,1 @@
+1. Drejtoria e Hetimit Tatimor, në Drejtorinë e Përgjithshme të Tatimeve është përgjegjëse për drejtimin në mënyrë të unifikuar të strukturave të hetimit tatimor. Drejtoria e Hetimit Tatimor varet nga zëvendësdrejtori i Përgjithshëm Operacional dhe përgjigjet para drejtorit të Përgjithshëm të Tatimeve për të gjithë veprimtarinë e strukturave të hetimit tatimor.

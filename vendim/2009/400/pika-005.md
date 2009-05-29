@@ -1,0 +1,1 @@
+5. Drejtuesit e strukturave të tjera, brenda sektorit tatimor, bashkëveprojnë me Drejtorinë e Hetimit Tatimor, duke dërguar atje materiale dhe informacione për subjekte të veçanta tatimpaguese, për të cilat dyshohet se mund të kryejnë ose kanë kryer evazion fiskal ose mashtrim tatimor.
