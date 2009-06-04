@@ -1,0 +1,1 @@
+1. Objekt i këtij udhëzimi është përcaktimi i kritereve dhe procedurave për prokurimin e shërbimit të përkthimit të legjislacionit europian në gjuhën shqipe dhe të legjislacionit shqiptar në një nga gjuhët e Bashkimit Europian (në vijim BE) me qëllim përzgjedhjen e subjekteve të licencuara që mund ta kryejnë këtë shërbim, si dhe tarifat e shpërblimit për këtë shërbim.

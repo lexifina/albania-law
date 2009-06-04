@@ -1,0 +1,1 @@
+2. Përkthimi i legjislacionit të BE-së dhe i legjislacionit shqiptar në një nga gjuhët zyrtare të BE-së do të kryhet nga përkthyes të jashtëm, të cilët do të përzgjidhen në përputhje me procedurat dhe rregullat e përcaktuara në kuadrin ligjor ekzistues të prokurimit publik edhe në këtë udhëzim.
