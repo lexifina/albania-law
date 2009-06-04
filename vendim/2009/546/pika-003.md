@@ -1,0 +1,1 @@
+3. Territori i kaluar në administrim të Autoritetit Portual, Durrës, sipas pikës 2 të këtij vendimi, të destinohet për shërbime portuale, si terminal çimentoje, kontenierësh ose tragetesh, sipas marrëveshjes, që do të lidhet për këtë qëllim.

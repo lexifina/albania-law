@@ -1,0 +1,1 @@
+2. Ministria e Punëve Publike, Transportit dhe Telekomunikacionit, autorizohet që, në zbatim të pikës 10, faqe XXIII, të masterplanit, të negociojë, me shoqërinë “Durrës Kurum Shipping”, sh.a. brenda 3 muajve nga hyrja në fuqi e këtij vendimi, kalimin e territorit të kantierit, në administrimin e Autoritetit Portual, Durrës.
