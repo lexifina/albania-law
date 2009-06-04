@@ -1,0 +1,1 @@
+1. Shtetasit e kategorive të përcaktuara në pikën 1 të vendimit nr.366, datë 15.4.2009 që janë mbi 18 vjeç ose që deri në 28 qershor 2009 mbushin 18 vjeç, dhe që nuk disponojnë pasaportë udhëtimi për jashtë shtetit.

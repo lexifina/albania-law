@@ -1,0 +1,1 @@
+7. Ministria e Punës dhe Çështjeve Sociale bazuar në listëpagesat e marra nga njësitë e qeverisjes vendore, paraqet menjëherë në Ministrinë e Financave, kërkesat e detajuara për fonde, sipas strukturës buxhetore ku çelet dhe përdoret pagesa e paaftësisë.

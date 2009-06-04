@@ -1,0 +1,1 @@
+4. Personave që e kanë kryer aplikimin apo e kanë marrë letërnjoftimin deri në hyrjen në fuqi të vendimit të sipërcituar, kompensimi u jepet në masën e njohur në muajin pasaardhës, pasi të kenë dorëzuar kopjen e formularit të aplikimit ose kopjen e letërnjoftimit të marrë.

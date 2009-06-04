@@ -1,0 +1,1 @@
+6. Në fund të çdo muaji, çdo njësi e qeverisjes vendore dërgon në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta listëpagesën, të shoqëruar me fotokopje të aplikimeve dhe të letërnjoftimeve të përfituesve të kompensimit të paguar, për muajin përkatës, për personat që përfitojnë pagesën e aftësisë së kufizuar.

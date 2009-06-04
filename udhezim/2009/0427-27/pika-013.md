@@ -1,0 +1,1 @@
+13. Shpenzimet për pagesat e kryera nga Posta Shqiptare, për kompensimin e çmimit të kuponit të aplikimit për letërnjoftimin elektronik, të vërtetuar në listëpagesat si më lart, evidentohen në llogarinë « Debitorë të vitit në vazhdim » dhe do të mbyllen me fondet e përcaktuara për këtë qëllim.
