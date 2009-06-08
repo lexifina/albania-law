@@ -1,0 +1,4 @@
+# Neni 5
+KQZ-ja me vendim do t’u rishpërndajë partive politike, të cilat do të përfitojnë mandate në Kuvend, sipas vendimit të KQZ-së për shpalljen e rezultatit përfundimtar të zgjedhjeve për Kuvendin, 2009, shumën e fondeve të kthyera sipas nenit 4 të këtij udhëzimi, duke u bazuar në rregullat më poshtë:
+a) Shuma e fondeve të kthyera nga subjektet zgjedhore sipas nenit 4 të këtij udhëzimi, pjesëtohet me shumën e mandateve të fituara në Kuvend në zgjedhjet e radhës nga partitë politike, e përcaktuar kjo, sipas vendimit të KQZ-së për shpalljen e rezultatit përfundimtar të zgjedhjeve për Kuvendin, 2009.
+b) Çdo partie politike që përfiton fonde publike sipas këtij neni, i jepet ajo sasi nga fondi publik që del nga shumëzimi i numrit të mandateve të fituara prej saj në Kuvend me numrin e dalë nga pjesëtimi, sipas germës “a” të këtij neni.

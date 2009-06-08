@@ -1,0 +1,4 @@
+# Neni 2
+KQZ-ja me vendim cakton sasinë e fondeve që do të marrë secila prej partive politike, që plotëson kushtet e përcaktuara në germën “a” të pikës 2 të nenit 87 të Kodit Zgjedhor (të jetë regjistruar si subjekt zgjedhor, të ketë mandate në Kuvend dhe të ketë regjistruar listat shumemërore për zgjedhjet për Kuvendin 2009), sipas rregullave më poshtë:
+a) 50 për qind e fondit publik të vënë në dispozicion për subjektet zgjedhore pjesëtohet me shumën e mandateve të fituara në zgjedhjet pararendëse nga partitë politike të përcaktuara në këtë nen, sipas vendimit të KQZ-së për shpalljen e rezultatit përfundimtar të zgjedhjeve 2005.
+b) Çdo partie politike, të përcaktuar në këtë nen, i jepet ajo sasi nga fondet publike, që del nga shumëzimi i numrit të mandateve që ka marrë në zgjedhjet pararendëse me numrin e dalë nga pjesëtimi sipas germës “a” të këtij neni.
