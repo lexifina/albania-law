@@ -1,0 +1,1 @@
+2. Kapaku dhe fleta e parë e personalizuar e dokumenteve të udhëtimit për të huajt të kenë ngjyrën dhe mbishkrimet, sipas specimenteve, të përcaktuara në anekset 1 e 2, që i bashkëlidhen këtij vendimi.
