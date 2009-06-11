@@ -5,10 +5,9 @@ NR.811 Rep
 NR.142 Kol
 KONTRATË KONCESIONI
 E FORMËS “BOT” (NDËRTIM, OPERIM, TRANSFERIM)
-PËR NDËRTIMIN E HIDROCENTRALEVE LENGARICA 1 DHE
-LENGARICA 2
+PËR NDËRTIMIN E hidrocentrali/n/t “Lengarica
 Në Tiranë, në datën 17, muaji prill, viti 2008 (dy mije e tetë), u paraqiten para meje notere Fatime B.Meta, e regjistruar në dhomën e noterisë Tiranë me adresë: rruga e Durrësit u paraqiten palët kontraktuese si më poshtë:
-Ministria e Ekonomisë, Tregtisë dhe Energjetikës, përcaktuar si “Autoritet Kontraktues”, me vendimin e Këshillit te Ministrave nr.136, datë 14.3.2007 “Për përcaktimin e autoritetit kontraktues për ndërtimin me koncesion të hidrocentraleve “Lengarica 1” dhe “Lengarica 2””, që më poshtë do të quhet i tillë, përfaqësuar me autorizimin nr.1806/7, datë 14.9.2007, nga z.Kristo Rodi, i biri i Stefanit, i datëlindjes 11.6.1957, madhor dhe me zotësi të plotë juridike për të vepruar, për identitetin e të cilit u sigurova nga letërnjoftim NF nr.489018
+Ministria e Ekonomisë, Tregtisë dhe Energjetikës, përcaktuar si “Autoritet Kontraktues”, me vendimin e Këshillit te Ministrave nr.136, datë 14.3.2007 “Për përcaktimin e autoritetit kontraktues për ndërtimin me koncesion të hidrocentrali/n/t “Lengarica”, që më poshtë do të quhet i tillë, përfaqësuar me autorizimin nr.1806/7, datë 14.9.2007, nga z.Kristo Rodi, i biri i Stefanit, i datëlindjes 11.6.1957, madhor dhe me zotësi të plotë juridike për të vepruar, për identitetin e të cilit u sigurova nga letërnjoftim NF nr.489018
 dhe
 Shoqëria “Hasi Energji” sh.p.k., regjistruar si person juridik me vendimin nr.35241, datë 20.3.2006 të Gjykatës së Rrethit Tiranë, që më poshtë do të quhet “Koncesionari”, përfaqësuar nga administratori z.Hasan Leka, i biri i Selmanit, i datëlindjes 11.1.1959, lindur në Durrës dhe banues në Tiranë, rruga “Naim Frashëri”, nr.47, për identitetin e të cilit u sigurova nga pasaporta nr.Z1575804, madhor dhe me zotësi të plotë juridike për të vepruar.
 Hyrje
@@ -18,9 +17,9 @@ Duke pasur parasysh që Qeveria e Shqipërisë:
 3. vlerëson formën “BOT” të koncesionit si një formë koncesioni që bën të mundur stimulimin e investitorëve private për ndërtimin e hidrocentraleve të rinj me anën e kapitalit privat;
 4. është e angazhuar për krijimin dhe zhvillimin e tregut të brendshëm të energjisë elektrike brenda vendit;
 5. mirëpret investitorët vendas ose të huaj në ndërtimin e kapaciteteve të reja prodhuese të energjisë elektrike;
-5.1. legjislacioni në fuqi rregullon dhënien me koncesion të hidrocentraleve dhe me vendimin e Këshillit të Ministrave nr.136, datë 14.3.2007 “Për përcaktimin e autoritetit kontraktues për ndërtimin me koncesion të hidrocentraleve “Lengarica 1” dhe “Lengarica 2””, autorizohet Ministria e Ekonomisë, Tregtisë dhe Energjetike për negocimin dhe nënshkrimin e kontratës së koncesionit.
+5.1. legjislacioni në fuqi rregullon dhënien me koncesion të hidrocentraleve dhe me vendimin e Këshillit të Ministrave nr.136, datë 14.3.2007 “Për përcaktimin e autoritetit kontraktues për ndërtimin me koncesion të hidrocentrali/n/t “Lengarica”, autorizohet Ministria e Ekonomisë, Tregtisë dhe Energjetike për negocimin dhe nënshkrimin e kontratës së koncesionit.
 Koncesionari
-1. është i interesuar të investojë në ndërtimin e hidrocentraleve Lengarica 1 dhe Lengarica 2, komuna Petran, rrethi Përmet, me qëllimin prodhimin e energjisë elektrike dhe rritjen e sigurisë së furnizimit me energji elektrike të zonës;
+1. është i interesuar të investojë në ndërtimin e hidrocentrali/n/t “Lengarica, komuna Petran, rrethi Përmet, me qëllimin prodhimin e energjisë elektrike dhe rritjen e sigurisë së furnizimit me energji elektrike të zonës;
 2. shoqëria “Hasi Energji” sh.p.k. zotëron kapacitetet e nevojshme tekniko-financiar, për të realizuar projektin e miratuar sipas objektit të kësaj marrëveshjeje;
 3. ka kryer studimin tekniko-ekonomik dhe mjedisor për ndërtimin dhe shfrytëzimin e hidrocentralit, objekt i këtij koncesioni;
 4. zotëron aftësitë drejtuese, financiare dhe teknike të kërkuara, si dhe aftësitë për të plotësuar këtë iniciative në përputhje me standardet ndërkombëtare.
@@ -30,7 +29,7 @@ Kudo që në këtë Marrëveshje përdoren termat e mëposhtëm, ato do të ken�
 1.1 Marrëveshja e koncesionit: kjo marrëveshje dhe aneksi bashkëlidhur.
 1.2 Autoriteti Kontraktues: Ministria e Ekonomisë, Tregtisë dhe Energjetikes.
 1.3 Koncesionari: shoqëria “Hasi Energji” sh.p.k., me seli në qytetin e Gjirokastrës.
-1.4 Hidrocentral: tërësia e objekteve që shërbejnë për prodhimin e energjisë elektrike, ku përfshihen vepra e marrjes, kanali i devijimit, baseni i presionit, tubacioni që dërgon ujin në turbina, ndërtesa e centralit së bashku me makineritë dhe pajisjet e instaluara në të, që në rastin konkret janë hidrocentralet “Lengarica 1” dhe “Lengarica 2”, komuna Petran, rrethi Përmet, me fuqi të instaluar për “Lengarica 1” 3700 kW dhe “Lengarica 2” 2500 kW, për prodhim të energjisë elektrike për 14 200 000 kW/h dhe 21 500 000 kW/h, së bashku me të gjitha objektet që përmenden më sipër.
+1.4 Hidrocentral: tërësia e objekteve që shërbejnë për prodhimin e energjisë elektrike, ku përfshihen vepra e marrjes, kanali i devijimit, baseni i presionit, tubacioni që dërgon ujin në turbina, ndërtesa e centralit së bashku me makineritë dhe pajisjet e instaluara në të, që në rastin konkret edhe hidrocentrali “Lengarica”, komuna Petran, rrethi Përmet, me fuqi të instaluar 8,906 kW, për prodhim të energjisë elektrike prej 36,000,000 kW/h së bashku me të gjitha objektet që përmenden më sipër.
 1.5 Kontratat: të gjitha kontratat e nënshkruara nga Koncesionari, me sipërmarrësit për realizimin e punimeve.
 1.6 Licencë: është akti administrativ, që lëshohet nga autoriteti përkatës publik për të ushtruar një veprimtari, bazuar në kritere objektive të kualifikimit.
 1.7 Tarifa koncesionare: sasia e energjisë elektrike që i ofrohet pa pagesë shtetit.
@@ -40,12 +39,12 @@ Objekti i kësaj kontrate koncesioni është:
 Ndërtimi, operimi dhe transferimi i hidrocentraleve tek Autoriteti Kontraktues, konform termave dhe kushteve të kësaj kontrate.
 Neni 3
 Periudha e koncesionit
-Autoriteti Kontraktues i jep Koncesionarit me koncesion ndërtimin e hidrocentraleve “Lengarica 1” dhe “Lengarica 2” për një periudhë 35-vjeçare sipas shkronjës “b” të nenit 27 të ligjit nr.9663, datë 18.6.2006 “Për koncensionet”. Kjo periudhë do të fillojë nga hyrja në fuqi e kësaj kontrate.
+Autoriteti Kontraktues i jep Koncesionarit me koncesion ndërtimin e hidrocentrali/n/t “Lengarica ” për një periudhë 35-vjeçare sipas shkronjës “b” të nenit 27 të ligjit nr. 9663, datë 18.6.2006 “Për koncensionet”. Kjo periudhë do të fillojë nga hyrja në fuqi e kësaj kontrate.
 Neni 4
 Të drejtat dhe detyrimet e Autoritetit Kontraktues
 Autoriteti Kontraktues merr përsipër detyrimet e mëposhtme:
 4.1 Të asistojë pranë çdo institucioni shtetëror dhe organi vendor, kur është e nevojshme, për marrjen e licencave dhe të lejeve të nevojshme për koncesion.
-4.2 Të dërgojë për miratim projektin e zbatimit të veprës hidroenergjetike. Koha e nevojshme për miratimin e projektit nuk bën pjesë në grafikun e punimeve të parashikuara në aneksin 2 bashkëlidhur.
+4.2 Të miratojë projektin e zbatimit të hidrocentralit, të përgatitur nga vetë koncesionari.
 4.3 Të kontrollojë rregullisht ecurinë e kontratës, sipas kushteve të përcaktuara në të.
 4.4 Të garantojë blerjen e prodhimit të energjisë elektrike nga shoqëria KESH sh.a. për 15 vitet e para të prodhimit të energjisë elektrike.
 Neni 5
@@ -53,29 +52,25 @@ Detyrimet dhe të drejtat e Koncesionarit
 Koncesionari është i detyruar të zbatojë projektin dhe objektin e kontratës konform termave dhe kushteve të saj.
 Veçanërisht Koncesionari duhet që:
 5.1 Brenda 30 (tridhjetë) ditësh nga hyrja në fuqi e kontratës se koncesionit koncesionari të formojë shoqërinë koncesionare, që do të ketë si objekt të veprimtarisë së saj projektimin, ndërtimin, shfrytëzimin dhe transferimin e hidrocentraleve tek Autoriteti Kontraktues. Shoqëria do t’i nënshtrohet të gjitha dispozitave ligjore, që rregullojnë veprimtarinë e shoqërive tregtare në Shqipëri, si dhe në rast transferimi të aksioneve apo pjesëve të kapitalit të saj te të tretët, duhet të marrë pëlqimin e Autoritetit Kontraktues.
-5.2 Të fillojë punën brenda 30 ditëve nga data e miratimit të projektit të zbatimit.
-5.3 Të zbatojë punimet dhe planin e investimit sipas aneksit 1, bashkëlidhur kontratës.
+5.2 Të fillojë punën brenda 30 ditëve nga data e lëshimit të lejes së ndërtimit.
+5.3 Të zbatojë punimet dhe planin e investimit sipas aneksit 1, bashkëlidhur kësaj marrëveshjeje.
 5.4 Të respektojë të gjitha dispozitat ligjore shqiptare që rregullojnë veprimtarinë e shoqërisë koncesionare.
-5.5 Të marrë masa me qëllim që çdo investim të jetë sipas afateve në këtë kontrate dhe me cilësinë e kërkuar.
+5.5 Të marrë masa me qëllim që çdo investim të jetë sipas afateve në këtë marrëveshje dhe me cilësinë e kërkuar.
 5.6 Të administrojë projektin për periudhën e koncesionit.
 5.7 Të përballojë të gjitha shpenzimet që lidhen me dëmet që eventualisht mund t’i shkaktohen palëve të treta.
 5.8 Të mbajë të informuar Autoritetin Kontraktues për çdo rrethanë që mund të ketë ndikim në ecurinë e projektit.
 5.9 Në veprimtarinë e tij të zbatojë legjislacionin shqiptar në fuqi.
 5.10 Të marra masa për të garantuar kushtet teknike për punëtorët dhe të tretët, për të shmangur dëmet ndaj pronës publike dhe private, të respektojë legjislacionin në fuqi për të parandaluar çdo dëm e fatkeqësi në punë.
 5.11 Koncesionari detyrohet të paguajë të gjitha shpenzimet për publikimet e bëra, si dhe ato noteriale.
-5.12 Të paraqesë pranë Autoritetit Kontraktues projektin e zbatimit sipas grafikut të punimeve, aneksi 1, bashkëlidhur.
-5.13 Të zbatojë projektin për ndërtimin e HEC-eve Lengarica 1 dhe Lengarica 2 me fuqi të vendosur prej 6200 kW.
+5.12 Të paraqesë pranë Autoritetit Kontraktues, për miratim projektin e zbatimit brenda gjashtë muajve nga hyrja në fuqi e kësaj marrëveshjeje.
+5.13 Të zbatojë projektin për ndërtimin e hidrocentrali/n/t “Lengarica me fuqi të vendosur prej 8,906 kW.
 Neni 6
 Vlerësimi i investimeve
-Mbi bazën e të dhënave të projektit, investimet që duhet të kryhen nga Koncesionari për të dy hidrocentralet janë në vlerën totale prej 1 980 904 000 (një miliard e nëntëqind e tetëdhjetë milionë nëntëqind e katër mijë) lekësh të ndara sipas aneksit 1 bashkëlidhur, nga të cilat 417 875 000 (katërqind e shtatëmbëdhjetë milionë e tetëqind e shtatëdhjetë e pesë mijë) lekë do të investohen në makineri e pajisje.
-Vlerësimi i mësipërm mund të pësojë ndryshime të mundshme me marrëveshje ndërmjet palëve:
-- pas variantit përfundimtar të projëktzbatimit;
-- në çdo kohë gjatë zbatimit të projektit në ndërtimin e veprës, sipas efektivitetit të ofertave.
-Vlera e ndryshuar e investimit mund të jetë më e madhe se 1 980 904 000 (një miliard e nëntëqind e tetëdhjetë milionë e nëntëqind e katër mijë) lekë, por jo më e vogël se 1 881 858 800 (një milard e tetëqind e tetëdhjetë e një milionë e tetëqind e pesëdhjetë e tetë mijë tetëqind) lekë, që përfaqëson një ndryshim të investimit në vlerën 5% të investimit total të parashikuar.
+Mbi bazën e të dhënave të projektit, investimet që duhet të kryhen nga koncesionari për hidrocentralin “Lengarica” janë në vlerën totale, jo më pak se 1,908,714,000 (një miliard e nëntëqind e tetë milionë e shtatëqind e katëmbëdhjetë mijë) lekë, të ndara sipas aneksit 1 bashkëlidhur kësa marrëveshjeje.
 Neni 7
 Programi i punimeve
 Koncesionari merr përsipër të zbatojë programin e mëposhtëm të punimeve:
-7.1 Koncesionari merr përsipër të vërë në punë hidrocentralin “Lengarica 1” dhe “Lengarica 2” brenda 36 (tridhjetë e gjashtë) muajve nga marrja e lejes së ndërtimit,
+7.1 Koncesionari merr përsipër të vërë në punë hidrocentrali/n/t “Lengarica brenda 36 (tridhjetë e gjashtë) muajve nga hyrja në fuqi e kësaj marrëveshjeje.
 7.2 Këto afate mund të ndryshohen me marrëveshje midis Autoritetit Kontraktues dhe Koncesionarit, nëse marrja e lejeve nga institucionet përkatëse është vonuar përtej kohës së rregullt procedurale për marrjen e tyre.
 Neni 8
 Zgjidhja e kontratës së koncesionit
@@ -131,7 +126,7 @@ Në këtë rast, kur një detyrim i kësaj kontrate do të prishet ose do të hi
 Kufijtë e ndërprerjes së punës dhe të shtyrjes në kohë të punimeve, do të përcaktohen nga palët në një procesverbal të ngjarjes.
 Neni 16
 Hyrja në fuqi e kontratës së koncesionit
-Kontrata e koncesionit do të hyjë në fuqi mbasi të jetë miratuar nga Këshilli i Ministrave të Republikës së Shqipërisë, në përputhje me ligjin nr.9663, datë 18.12.2006 “Për koncensionet”.
+Kontrata e koncesionit do të hyjë në fuqi mbasi të jetë miratuar nga Këshilli i Ministrave të Republikës së Shqipërisë, në përputhje me ligjin nr. 9663, datë 18.12.2006 “Për koncensionet”.
 Neni 17
 Zgjidhja e mosmarrëveshjeve
 Problemet ose mosmarrëveshjet midis palëve që kanë lidhje me zbatimin dhe interpretimin e kësaj kontrate koncesioni, nuk do të anulojnë detyrimet e palëve sipas kësaj kontrate.
@@ -139,11 +134,11 @@ Palët janë të angazhuara të zgjidhin çdo mosmarrëveshje duke u bazuar në 
 Në të kundërt, çdo mosmarrëveshje që lidhet me këtë kontratë koncesioni, do të zgjidhet përfundimisht nga Gjykata e Rrethit Gjyqësor Tiranë.
 Neni 18
 Sanksionet
-Mosrespektimi i afateve dhe kushteve të kësaj kontrate, ne përfundim të periudhës 36-mujore për hidrocentralet “Lengarica 1” dhe “Lengarica 2” penalizon Koncesionarin si më poshtë:
+Mosrespektimi i afateve dhe kushteve të kësaj kontrate, ne përfundim të periudhës 36-mujore për hidrocentrali/n/t “Lengarica penalizon Koncesionarin si më poshtë:
 18.1 Për shkelje të afatit të ndërtimit, 0,05 % në ditë të vlerës së investimeve të munguara.
 18.2 Për moskryerje të investimeve në vlerën e marre përsipër në konkurrim, Koncesionari penalizohet me 10 % të vlerës së investimeve të parealizuara.
 18.3 Për çdo ditë vonesë për fillimin e punimeve penalizohet me 10 000 lekë.
-18.4 Në rast mosrealizimi, për faj të Koncesionarit, të prodhimit të energjisë elektrike prej 35.7 milionësh KWh/vit, Koncesionari penalizohet me 5% të vlerës së prodhimit të parealizuar për periudhën raportuese.
+18.4 Në rast mosrealizimi, për faj të Koncesionarit, të prodhimit të energjisë elektrike prej 36 milionë kW/h vit, Koncesionari penalizohet me 5% të vlerës së prodhimit të parealizuar për periudhën raportuese.
 18.5 Për mosrealizim deri në 10% të fuqisë së vendosur sipas projektit të propozuar nga Koncesionari, ai do të penalizohet me 5% të vlerës së prodhimit të energjisë elektrike të munguar, si pasojë e zvogëlimit të fuqisë së instaluar.
 18.6 Nëse mosrealizimi i fuqisë së vendosur është më shumë se 10% e fuqisë së vendosur sipas projektit të propozuar nga Koncesionari, Autoriteti Kontraktues ka të drejtë të prishe kontratën në mënyrë të njëanshme.
 Neni 19
@@ -167,3 +162,55 @@ Tregtisë dhe Energjetikës,
 Drejtor i Drejtorisë së
 Përgjithshme Rregullatore
 Nga z.Kristo Rodi
+PREVENTIVI I PUNIMEVE
+Aneksi 1
+Në tabelën nr.VIII, janë dhënë sasitë dhe çmimet për çdo zë si dhe vlera totale e hidrocentralit
+Nr.
+Përshkrimi
+Sasia (lekë)
+A
+Tubacioni sjellës
+Punë civile
+51,000,000
+Pajisjet hidromekanike
+24,000,000
+B
+Dekantuesi
+Punë civile
+79,625,000
+Pajisjet hidromekanike
+7,000,000
+C
+Tuneli
+Punë civile
+705,625,000
+D
+Kulla e ekuilibrit
+Punë civile
+16,250,000
+E
+Tubacioni i presionit
+Punë civile
+10,375,000
+Punimet e strukturave prej çeliku
+72,125,000
+F
+Ndërtesa e hidrocentralit
+Punë civile
+21,250,000
+Pajisjet elektromekanike
+710,750,000
+G
+Linjat e transmetimit dhe lidhja
+27,500,000
+H
+Rrugë lidhëse
+7,375,000
+TOTALI
+1,732,875,000
+Pasiguritë 10%
+142,250,000
+Planifikim dhe përgatitja 10%
+64,625,000
+Investimi total
+1,939,750,000
