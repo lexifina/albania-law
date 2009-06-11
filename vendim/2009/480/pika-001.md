@@ -1,0 +1,1 @@
+1. Gjyqtarëve të gjykatës së shkallës së parë për krime të rënda dhe të gjykatës së apelit për krime të rënda u sigurohet mbrojtje e veçantë personale, të familjes dhe të pronës, sipas parashikimeve të këtij vendimi, kur, për shkak të detyrës, u rrezikohet jeta, familja dhe prona.

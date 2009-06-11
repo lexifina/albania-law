@@ -1,0 +1,1 @@
+12. Sigurimi i mbrojtjes së veçantë zbatohet me kërkesë të gjyqtarit, i cili kërkon mbrojtje dhe, në rastin e gjyqtarëve të tjerë të sistemit të drejtësisë, sipas kritereve e kushteve të përcaktuara në këtë vendim.
