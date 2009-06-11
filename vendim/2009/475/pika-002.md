@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 pikëve shoqërisë “Shushica”, sh.p.k., për rezultatin teknik e financiar, në procedurën përzgjedhëse konkurruese (propozim i pakërkuar), për dhënien me koncesion të këtyre hidrocentraleve.
