@@ -1,0 +1,1 @@
+9. Vendimi nr.601, datë 2.11.2001 i Këshillit të Ministrave “Për funksionet në Ministrinë e Rendit Publik, që kanë të drejtën e mbajtjes së gradës së Policisë së Shtetit”, i ndryshuar, nuk zbatohet për punonjësit e SHKB-së.

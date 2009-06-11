@@ -1,0 +1,1 @@
+1. Funksionet korresponduese, për çdo gradë, sipas ligjit nr.10 002, datë 6.10.2008 “Për shërbimin e kontrollit të brendshëm, në Ministrinë e Brendshme”, në vijim SHKB, si dhe barazvlefshmëria e gradave të vjetra policore me gradat e reja, përcaktohen në lidhjen nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

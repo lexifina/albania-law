@@ -1,0 +1,1 @@
+5. Për punonjësit ekzistues të SHKB-së, për 3 vitet e para pas kalimit në sistemin e ri të gradave, afati i qëndrimit në gradë, për efekt të konkurrimit për ecje në karrierë, do të llogaritet nga data e marrjes së gradës së vjetër policore, kur grada e re është e barasvlefshme ose një më e ulët.

@@ -1,0 +1,1 @@
+8. Punonjësit e SHKB-së, që do të punësohen në strukturat e Policisë së Shtetit, rifitojnë gradën policore të mbajtur më parë, të ekuivalentuar sipas ligjit nr.9749, datë 4.6.2007 “Për Policinë e Shtetit”.

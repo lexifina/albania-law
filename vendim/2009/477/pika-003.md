@@ -1,0 +1,1 @@
+3. Në funksionet e këshilltarit të drejtorit të përgjithshëm të SHKB-së mund të caktohet çdo punonjës nga personeli hetues, pavarësisht gradës, që mban. Gjatë periudhës në këtë funksion, punonjësi ka të drejtë të fitojë gradën pasardhëse, sipas kritereve e procedurave të përcaktuara, i pakushtëzuar nga ekzistenca e funksioneve të lira për gradë.

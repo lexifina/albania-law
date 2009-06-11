@@ -1,0 +1,1 @@
+2. Në sistemin e ri të gradave, ngritja në gradë bëhet sipas afateve dhe kritereve, të përcaktuara në nenin 69 të ligjit nr.10 002, datë 6.10.2008 “Për shërbimin e kontrollit të brendshëm, në Ministrinë e Brendshme”.
