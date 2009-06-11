@@ -1,0 +1,1 @@
+1. Klasifikimi i niveleve, sipas funksioneve, të pesonelit inspektues dhe mbështetës të shërbimit të kontrollit të brendshëm, në Ministrinë e Brendshme, do të jetë sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
