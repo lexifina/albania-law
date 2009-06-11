@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve, për vitin 2009, për Autoritetin e Komunikimeve Elektronike dhe Postare, në shumën 200 000 000 (dyqind milionë) lekë, të ndarë sipas zërave, që paraqiten në lidhjen nr.1, që i bashkëlidhet këtij vendimi.
