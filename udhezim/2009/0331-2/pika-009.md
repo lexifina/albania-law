@@ -1,0 +1,1 @@
+9. AZHBR-ja ka të drejtë të bllokojë disbursimin e kredisë dhe të kërkojë ndjekjen ligjore pranë organeve kompetente (gjykatë, përmbarim), në rastet kur përfituesi devijon qëllimin e përdorimit të kredisë.

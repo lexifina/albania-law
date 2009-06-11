@@ -1,0 +1,1 @@
+8. Kur subjekti përfitues, pagues i rregullt i kësteve nuk paguan 2 këste të radhës, të cilat janë pasqyruar në kontratë, organet tatimore në bashkëpunim me AZHBR kryejnë bllokimin e aktivitetit ekonomik të subjektit/shoqërisë, si dhe AZHBR-ja ndjek dispozitat ligjore në fuqi duke iu drejtuar organeve gjyqësore dhe atyre të përmbarimit për ekzekutimin e kolateralit të bllokuar.
