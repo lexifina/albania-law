@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, për Institutin e Sigurisë Ushqimore dhe të Veterinarisë, sipas listës, me 1 (një) fletë, që i bashkëlidhet këtij vendimi.
