@@ -1,0 +1,1 @@
+2. Dhënien e bonusit prej 2 pikëve shoqërisë “C&S Construction”, sh.p.k., për rezultatin teknik e financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), për dhënien me koncesion të këtij hidrocentrali.
