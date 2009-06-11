@@ -1,0 +1,1 @@
+2. Punonjësit e Policisë së Burgjeve pajisen me armatim personal (brezi). Plotësimi organik me armatim tjetër bëhet në përputhje me funksionet e strukturave të Policisë së Burgjeve. Normat e plotësimit me armatim e municion miratohen me urdhër të veçantë të Ministrit të Drejtësisë.
