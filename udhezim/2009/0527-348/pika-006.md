@@ -1,0 +1,2 @@
+6. Për zbatimin e këtij udhëzimi ngarkohen prefektët, kryetarët e njësive të përfshira në listën bashkëlidhur vendimit të Këshillit të Ministrave nr.417, datë 22.4.2009 “Për mbulimin e shpenzimeve të udhëtimit për zgjedhësit pa pasaportë, të cilëve u duhet të udhëtojnë nga zona të largëta për të aplikuar për letërnjoftim, “Drejtoria e Përgjithshme e Gjendjes Civile dhe Drejtoria e Politikave Financiare.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

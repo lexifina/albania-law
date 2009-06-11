@@ -1,0 +1,1 @@
+3. Pas dorëzimit të listave dhe shumave përkatëse nga kryetarët e komunave, prefektët bëjnë vlerësimin e dokumentacionit të paraqitur dhe në bazë të këtij dokumentacioni (tarifa e paguar dhe lloji i mjetit të transportit, sipas zonës përkatëse), paraqesin kërkesën pranë Ministrisë së Brendshme për shtesë fondi, të shoqëruar me relacion të hollësishëm.
