@@ -1,0 +1,1 @@
+1. Fondi i kompensimit të pronave, i krijuar me ligjin nr.9235, datë 29.7.2004 “Për kthimin dhe kompensimin e pronës”, trajtohet si fond special dhe administrohet në një llogari të veçantë, në thesarin e Bankës së Shqipërisë.

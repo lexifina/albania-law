@@ -1,0 +1,1 @@
+4. Fondi i kompensimit të pronave përdoret për kompensimin në vlerë të ish-pronarëve, që kanë fituar të drejtën e kompensimit financiar, në kushtet kur kthimi fizik i pronës së tyre ka qenë i pamundur.

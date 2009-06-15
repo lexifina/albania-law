@@ -1,0 +1,1 @@
+7. Për pronarët e tjerë, të cilët kanë fituar të drejtën e kompensimit monetar nga komisioni i kthimit të pronave, shuma e pagesës dhe mënyra e dhënies së saj bëhet në përputhje me kriteret e përcaktuara me vendime të veçanta të Këshillit të Ministrave.

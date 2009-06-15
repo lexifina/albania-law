@@ -1,0 +1,1 @@
+6. Për pronarët e shpronësuar nga procesi i legalizimit të ndërtimeve informale, shuma e pagesës për secilin përfitues përcaktohet me vendim të veçantë të Këshillit të Ministrave. Dhënia e pagesës bëhet me këste të barabarta dhe të shtrira në kohë, në varësi të të ardhurave të arkëtuara nga pronat e legalizuara.

@@ -1,0 +1,1 @@
+5. Burimet, që përbëjnë fondin e kompensimit të pronave, sipas pikës 3 të këtij vendimi, të arkëtohen dhe administrohen, sipas natyrës së tyre, nëpërmjet sistemit të thesarit, në përputhje me udhëzimin e Ministrit të Financave, të nxjerrë në zbatim të këtij vendimi.
