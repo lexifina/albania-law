@@ -1,0 +1,1 @@
+4. Ministria e Ekonomisë, Tregtisë dhe Energjetikës dhe OSSH-sh.a., të marrin të gjitha masat, për të garantuar furnizimin e pandërprerë me energji elektrike të institucioneve të përmendura në pikat 1 e 2 të këtij urdhri, për periudhën respektive.

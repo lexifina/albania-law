@@ -1,0 +1,1 @@
+3. Ministria e Brendshme të marrë masat për shoqërimin e transportimit të të gjitha materialeve të provimit, në të gjitha shkollat, në katër qendrat e përmendura në pikën 2 të këtij urdhri, në mjediset e caktuara, për këtë qëllim.
