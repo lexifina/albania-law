@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror bën vlerësimin e kërkesave të ardhura nga njësitë vendore dhe mendimin e saj me shkrim ku përcaktohet edhe vlerësimi për nivelin e financimit, së bashku me projektet e propozuara i përcjell në komisionin e MPÇSSHB për shqyrtim e miratim.
