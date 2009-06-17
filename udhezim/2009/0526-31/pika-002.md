@@ -1,0 +1,2 @@
+2.Në pikën 50.2 shtohet germa “e” me këtë përmbajtje:
+e) sigurohet konfirmimi i blerjes së sasisë së pullave me akcizë, pagesës së akcizës, të sasisë së importeve të pijeve alkoolike të pajisura me pullë, dhe gjendja e sasisë së pullave të papërdorura, kjo e fundit për prodhimin e pijeve alkoolike, mbasi janë ngjitur në gjithë sasinë e mallrave gjendje mbas falimentimit ose mbylljes së aktivitetit.
