@@ -1,0 +1,32 @@
+# Neni 14
+Rregulla të përbashkëta
+1. Operimi i çelësit të mënyrës ose butoni
+1.1 Drejtuesi i mjetit duhet të sigurohet që ndërruesi i mënyrës në një tahograf analog ose butoni i mënyrës së operimit në një tahograf dixhital vendoset në mënyrë korrekte për regjistrimin e veprimtarive të tij.
+1.2. Simbolet janë si vijon:
+Simboli i drejtimit “Periudha e drejtimit” nënkupton regjistrimin që kryhet automatikisht në shumicën e tahograve;
+Punë tjetër “Punë tjetër” nënkupton të gjithë veprimtaritë e përcaktuara në shkronjën “dh”, të rregullores, të miratuar me VKM-në/AETR-së. Ajo mbulon të gjithë veprimtaritë e përcaktuara si punë tjetër, përveç periudhës së drejtimit. Përfshin të gjithë punët për të njëjtin ose tjetër punëdhënës, brenda ose jashtë sektorit të transportit.
+Gatishmëria “Periudha e gatishmërisë” nënkupton përcaktimin e bërë në pikën 5, të VKM-së/AETR-së. Ajo mbulon periudhat e kohës së pritjes, kohëzgjatja e të cilave njihet më parë. Shembujt e llogaritjes si një periudhë e gatishmërisë (PeG) janë shoqërimi mjetit në një traget ose koha e pritjes gjatë ngarkimit/shkarkimit të mjetit. Për punëtorët e lëvizshëm që drejton mjetin në ekip, një PeG do të përfshinte kohën e qëndrimit pranë drejtuesit tjetër ndërsa mjeti është në lëvizje (po të mos marrin një periudhë ndërprerje ose kryejnë punë tjetër, d.m.th. drejtimin e mjetit.).
+Periudha e ndërprerjes
+ose pushimit ”Periudhë ndërprerje ose pushimi” nënkupton përcaktimet e bëra në pikat 7, 8 dhe 9, të VKM-së/AETR-së. Këto periudha mbulojnë periudhat e ndërprerjes në punë dhe periudhat e pushimit ditor ose pushimit javor.
+Drejtuesit nuk kryejnë drejtim mjeti ose punë tjetër.
+Periudhat e ndërprerjes përdoren vetëm për rikuperim. Gjatë një periudhe pushimi një drejtues mjeti duhet të jetë i lirë për të vendosur për kohën e tij.
+1.3 Nëse për ndonjë arsye tahografi nuk bën një regjistrim të saktë të veprimtarive (d.m.th. nëse drejtuesi i pavëmendshëm bën një regjistrim manual jokorrekt, në tahografin dixhital, ose gabon te operimi korrekt i butonit të mënyrës ose çelësit), për këtë shkak, fuqishëm rekomandohet që drejtuesi të bëjë një regjistrim manual tahografi. Për pajisjen dixhitale, drejtuesi duhet të bëjë dhe nënshkruajë një printim për periudhën përkatëse me një shënim me detajet e gabimit dhe arsyes në këtë kohën e gabimit të bërë. Për pajisjet analoge regjistrimi duhet të bëhet në pjesën e pasme të fletës së tahografit.
+2. Drejtimi në ekip - drejtuesi i dytë
+Disa pajisje analoge dhe të gjithë tahografët dixhitalë do të regjistrojnë automatikisht të gjithë kohën e shpenzuar për drejtuesin e dytë kur mjeti është në lëvizje, si një periudhë e gatishmërisë dhe nuk lejon mënyrën të ndryshohet te ose “ndërprerja” ose “puna tjetër”. Nëse drejtuesi i dytë nuk kërkohet për kryerjen e ndonjë pune gjatë kësaj kohe, nëpunësit e kontrollit do t’i pranojnë 45 minutat e para të kësaj kohe si një ndërprerje nga drejtimi. Të gjitha periudhat e punës tjetër, megjithatë, duhet të jenë të regjistruara manualisht (me dorë) në një printim ose fletë tahografi nga drejtuesi.
+3. Regjistrime të përziera (kombinuara) - pajisje dixhitale dhe analoge
+Gjatë punës, drejtuesi i një mjeti mund të ndodhë që gjatë një dite të drejtojë dy ose më shumë mjete ku përdoren të dy llojet e pajisjeve të regjistrimit. Drejtuesi në një situatë të tillë duhet të përdorë një kartë drejtuesi për regjistrim ndërsa drejton një mjet me tahograf dixhital dhe fletë tahografi kur drejton një mjet të pajisur me një pajisje analoge.
+Një drejtues mjeti i cili nuk është i pajisur me kartë nuk mund të drejtojë një mjet të pajisur me tahograf dixhital.
+4. Regjistrimi i punës tjetër
+4.1 Drejtuesit duhet të regjistrojnë të gjithë punën tjetër dhe periudhat e gatishmërisë - përfshirë punën për punëdhënësit e tjerë - në të gjithë ditët që drejton ose nuk - drejton brenda javës ku ai ka ndërmarrë drejtimin që është brenda fushës së rregullores, të miratuar me VKM-në për sa i përket rregullave për orët të drejtuesve.
+Për shembull, një drejtues i cili punon në një depo (magazinë) të hënën, martën dhe të mërkurën, dhe dëshiron të drejtoj një mjet brenda fushës së rregullores të miratuar me VKM-në të enjten e të njëjtës javë, duhet të plotësoj regjistrimet për të hënën, martën, dhe të mërkurën.
+4.2 Regjistrimi duhet të bëhet ose:
+a) me shkrim, në mënyrë manuale, në fletën e tahografit;
+b) me shkrim, në mënyrë manuale, në një printim nga një tahograf dixhital;
+c) i bërë nga përdorimi i lehtësisë së futjes manuale të informacionit prej një tahografi dixhital; ose
+ç) për ditët, ku një drejtues ka qenë subjekt i rregullave të veçanta për orët e drejtuesve dhe një regjistrim ligjor kërkohet i regjistruar në një libër udhëtimi.
+4.3 Për ditët që nuk - drejton, regjistrimi mund të tregoj vetëm emrin e drejtuesit, datën, dhe nisjen dhe përfundimin e turnit. Këto regjistrime duhet të mbarten në mjet nga drejtuesi për t’ia paraqitur nëpunësve të kontrollit për periudhën përkatëse (shiko seksionet e veçanta se si bëhen regjistrimet manuale).
+5. Informimi i drejtuesve të veprimtarisë ose punëdhënësve
+Një drejtues mjeti që punon në më shumë se një ndërmarrje transporti duhet t’i sigurojë secilës ndërmarrje informacion e mjaftueshëm, për t’u lejuar atyre, që të sigurohen që rregullat janë plotësuar.
+6 Periudha e pushimit dhe ditët e tjera të pushimit
+6.1 Periudha e kohës e pallogaritur ndërmjet fletëve të njëpasnjëshme të tahografit, të paraqitura nga drejtuesi, duhet normalisht të konsiderohet (po të mos ketë në të kundërt një evidencë) si periudhë pushimi kur drejtuesit janë të aftë të vendosin lirisht për kohën e tyre. Drejtuesit e mjeteve nuk janë të prirur për llogaritjen e kësaj periudhe, prandaj edhe autoritetet e kontrollit kanë arsye që të besojnë se ata kanë qenë në punë. Megjithatë, në udhëtimet brenda vendit dhe ndërkombëtare rekomandohen vërtetimet, që lëshohen nga punëdhënësit, për drejtuesit e mjeteve, sipas pikës 32, të rregullores, të miratuar me VKM-në nr. 207, datë 25.02. 2009 për të mbuluar raportin mjekësor, ose lejen e pushimit vjetor, ose kohën e shpenzuar për drejtimin e një mjeti, i cili është jashtë rregullave të fushës së rregullores, të miratuar me VKM-në/AETR-në gjatë 28 ditëve të mëparshme. Modeli i vërtetimit ndodhet në shtojcën III të këtij udhëzimi.
+Nuk kërkohet vërtetim, nëse regjistrimet e tahografit tregojnë drejtimin e mjetit jashtë fushës së zbatimit të AETR-së dhe, ose rregullores, të miratuar me VKM-në

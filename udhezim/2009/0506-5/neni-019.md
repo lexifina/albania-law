@@ -1,0 +1,38 @@
+# Neni 19
+Periudhat referencë për llogaritjen e kohës së punës mesatare, javore
+1. Periudhat referencë që duhet të përdoren
+Punëdhënësi dhe punëmarrësi mund të bien dakord, më parë, se çfarë periudhë referencë do të përdoret. Por nëse nuk arrihet marrëveshje, atëherë rregullat do të kërkojnë që punëdhënësi të përdorë ose variantin e parë ose të dytë.
+2. Variantet:
+2.1 Për cilëndo metodë që është e rregullt, punëdhënësi dhe punëtori duhet të njihen më parë si monitorohet koha e punës dhe kur nis dhe kur përfundon periudha referencë.
+2.2 Ka disa metoda që mund të përdoren për monitorimin e përputhshmërisë me mesataren javore. E para prej dy varianteve ëperiudha referencë e kalendarit fiks, bazë dhe periudha e referencë standarde (me ritëm të rregullt)] mund të përdoren pa pasur nevojën për një marrëveshje përkatëse. Megjithatë, punëdhënësit do të kenë nevojë për t’u treguar punëtorëve të tyre rreth cilës metodë do të përdorin ata. Në mënyrë të veçantë ata duhet të japin njoftim me shkrim nëse zgjedhin variantin 2, periudhën referencë me ritëm të rregullt. Varianti i tretë i siguron punëdhënësit fleksibilitet të veçantë dhe kërkon marrëveshje kolektive.
+2.3 Varianti 1: Kalendari i fiksuar, bazë
+2.3.1 Shoqëritë kërkojnë një model të gatshëm për t’u përshtatur me rregullat që mund pëlqejnë në përdorimin e këtij varianti. Ai do të jetë, për çdo rast, njëri prej dy rrugëve të hapura te një punëdhënës nëse marrëveshja kolektive është e rregullt.
+2.3.2 Periudhat referencë bazë do të fillojnë në 00.00 në mëngjesin e së hënës më të afërt më ose pas 1 prillit, 1 gushtit dhe 1 dhjetorit të çdo viti. Kështu për vitin 2007/08 datat e nisjes dhe të përfundimit për periudhat referencë janë si vijon.
+2 prill 2007 - 5 gusht 2007 (periudhë 18 javore)
+6 gusht 2007 - 2 dhjetor 2007 (periudhë 17 javore)
+3 dhjetor 2007 - 7 prill 2008 (periudhë 18 javore)
+2.3.4 Të paktën një prej periudhave referencë të çdo viti do të përmbajë 18 javë. Kur kjo ndodh, java mesatare 48 orë do të ndahet me 18 javë, më tepër, se me 17 javë.
+2.4 Varianti 2: Periudha referencë të vijueshme (standarde)
+2.4.1 Kjo është një metodë normale e përdorur sipas pikës 2 të nenit 18, për monitorimin e kohës së punës.
+2.4.2 Sipas një mesatare me ritëm të rregullt (standarde), periudhat reference të vijueshme, nuk do të rezultojnë në një javë pune mesatare në kapërcimin e 48 orëve. Për një periudhë referencë 17 javë për shembull, kjo do të nënkuptoj që veç periudhës 3 prill-30 korrik 2006 nuk kalon mesataren 48 orë, periudha nga 10 prill - 6 gusht 2006 nuk duhet të kalojë mesataren 48 orë, - e kështu vazhdon. Në të vërtetë nuk duhet ndonjë periudhë tjetër e vijueshme për 17 - 26 javë në regjistrimin javor që kalon javën e punës, mesatare 48 orë (shiko aneksin 3 të shtojcës II për vendosjen e periudhave referencë).
+2.4.3 Metoda e kompensimit për pushimin është e ndryshme. Koha e punës aktuale nga jashtë periudhës referencë përdoret për të kompensuar lejen (pushimin) e parashikuar me ligj të marrë brenda periudhës referencë. Kështu nëse 1 javë + 2 ditë leje ishin marrë brenda periudhës referencë 17 javë, koha e punës aktuale prej javës së 18të + 2 ditë nga java 19të përdoret për kompensimin e kësaj leje. Për qëllime të këtyre rregullave, punëdhënësit që përdorin këtë variant mund të zgjedhin për kompensim lejen e parashikuar me ligj për secilën metodë. Kjo ndodh, nga përdorimi kohës së punës aktuale, ose nga përdorimi i modeleve imagjinare të 48 orë/8 orë të përshkruar më sipër.
+2.4.5 Kërkesa për të shtuar në “kohën e punës” modelet imagjinare zbatohet vetëm për shkronjat “a”, “b” dhe “c” të pikës 1 të nenit 18. Modelet imagjinare nuk do të përfshijnë arsye të tjera, p.sh. kur personi është pjesëmarrës në ndonjë komision, në ndonjë detyrim të sindikatave, ose pezullim disiplinor etj.
+2.5 Varianti 3: Periudha referencë e fiksuar nga marrëveshja
+2.5.1 Ky variant ofron fleksibilitet shtesë për punëdhënësin dhe punëmarrësin në sajë të një marrëveshjeje të përshtatshme (përkatëse) që kanë:
+a) datë nisje dhe përfundimi të ndryshme për periudhën referencë, dhe
+b) periudhë referencë më të gjatë (deri në 26 javë).
+2.5.2 Për shembull, tri periudha referencë që fillojnë të hënën më të afërt më ose pas 1 maj; 1 shtator dhe 1 janar, mund të zgjidhen, ose mund të pranohen dy periudha referencë 26 javë. Megjithatë, kur pranohet çfarëdo datë nisje, periudha referencë duhet të fillojë në fillim të javës; nga 00.00 të mëngjesit të së hënës (shiko variantin 3 të aneksit 3 të shtojca II).
+2.5.2 Një marrëveshje e përshtatshme nuk duhet të zbatohet te të gjithë punëtorët në një ndërmarrje. Për shembull:
+a) Marrëveshje të ndryshme mund të pranohen ndërmjet grupeve të ndryshme të punëtorëve në të njëjtën ndërmarrje (kështu data e nisjes dhe kohëzgjatja e periudhës referencë mund të luhatet (ndryshojë) brenda të njëjtës organizatë).
+b) Një marrëveshje mund të lejojë periudhat referencë të zbatohen te disa individë. Për shembull, ajo mund të jetë më e mirë nëse drejtuesit e mjeteve të cilët punojnë për dy punëdhënës të kenë periudhën referencë vetjake të tyre.
+3. Metodat e llogaritjes të periudhës referencë që përdoren varen nga rrethanat, si vijon:
+Varianti 1: Fiksimi i periudhës referencë mund të thjeshtojë monitorimin dhe kontrollin e përputhshmërisë. Ajo gjithashtu jep më shumë fleksibilitet: d.m.th. punëtori mund të punojë sipër orëve mesatare për gjysmën e dytë të periudhës së parë dhe gjysmën e parë të periudhës së dytë, pa shkelur kufizimin prej 48 orësh.
+Varianti 2: Shoqëritë e transportit, të cilat janë të kënaqura me përdorimin e orientimit të punës përkundrejt për sa i përket punëtorëve ekzistues jo - të lëvizshëm, mund të zbatojnë të njëjtën metodë për punëtorët e tyre të lëvizshëm. Megjithëse, kjo jep më pak fleksibilitet për punëdhënësit.
+Varianti 3: Punëtorët, të cilët punojnë për dy ose më shumë punëdhënës, mund të preferojnë një periudhë me ritëm të rregullt ose kanë periudhën e tyre referencë, të fiksuar, unike.
+Nëse një punëtor i lëvizshëm, i rastësishëm tejkalon kufizimin në përkufizimin (shiko pikën 3 të nenit 17 për punëtorin e lëvizshëm, të rastësishëm), metoda më e thjeshtë do të ishte përdorimi i variantit 3. Gjatë periudhës referencë bihet dakord me punëdhënësin, që individi nuk duhet të kalojë një kohë mesatare prej 48 orë në një javë, as kalimit të kufizimit 60 orë mbi kohën e punës vetëm në një javë të vetme gjatë kësaj periudhe.
+Për ata të cilët përdorin periudhën referencë me ritëm të rregullt sipas rregullave të kohës të punës, kryesore, punëdhënësit mund të gjejnë (sigurojnë) më lehtë të vazhdojnë duke përdorur këtë për punëtorë të tillë - më mirë se të ndryshojnë sistemin që ata punojnë aktualisht.
+4. Aspekte të tjera mbi punëmarrësin dhe punëdhënësin:
+a) nëse një punëmarrës punon për dy ose më shumë punëdhënës, atëherë koha e punës - (d.m.th. puna përjashton ndërprerjet, periudhat e pushimit dhe të gatishmërisë) është koha e punës e kryer për të gjithë punëdhënësit;
+b) punëdhënësit duhet t’i kërkojnë punëtorit të lëvizshëm, të interesuar me shkrim, për llogari të kohës së punuar për punëdhënësin tjetër, një regjistrim me shkrim që është i nevojshëm mbahet nga punëdhënësi për çdo kohë pune të shpenzuar diku tjetër. Punëtori i lëvizshëm duhet ta deklarojë me shkrim këtë informacion;
+c) nëse një punëtor ka punuar për një punëdhënës më pak se periudha e plotë referencë (p.sh. 12 javë), atëherë mesatarja llogaritet gjatë kohës së përgjithshme që nga nisja e punësimit të tij. Nëse një i punësuar ka qenë më parë i përfshirë në veprimtarinë e transportit rrugor për punëdhënësin e tij të mëparshëm, koha e punës mesatare duhet të llogaritet gjatë periudhës referencë të plotë.
+KAPITULLI VI

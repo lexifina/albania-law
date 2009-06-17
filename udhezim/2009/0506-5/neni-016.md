@@ -1,0 +1,9 @@
+# Neni 16
+Tahografët dixhital - kartat e kompanive (ndërmarrjeve)
+1. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor (degët e saj) lëshon karta në emër të kompanive. Kartat e kompanive kryesisht nuk mbajnë të dhëna por veprojnë si një çelës elektronik për mbrojtjen dhe hyrjen në të dhënat në tahografin dixhital.
+2. Kartat e kompanisë janë të nevojshme për transferimin e të dhënave nga NjM - ato mund të vendosen në folenë e kartës së drejtuesit. Kartat e kompanive nuk janë të nevojshme kur merret informacion nga karta e drejtuesit dhe transferohet direkt nga NjM.
+3. Operatorë mundet gjithashtu të përdorin kartën e kompanisë për të mbrojtur detajet e drejtuesve të tyre. Pasi, një operator ka kyçur, të gjithë të dhënat pasuese mbrohen dhe detajet e plota mundet të transferohen vetëm nga futja e kartës së kompanisë me të njëjtin numër. Kyçja rekomandohet në mënyrë të veçantë pasi një operator nuk mund t’i transferoje të dhënat e tij, nëse ato janë të mbrojtura nga një kartë përdoruesi të mëparshëm.
+4. Kartat mundet të përdoren për të çkyçur kur ato kanë përfunduar shërbimin me një mjet - për shembull, nëse ai shitet ose operatori ka përdorur një mjet me qira. Kjo tregon fundin e interesit të tyre për mjetin dhe operacionet e tij, në të kundërt nuk mund të ndalojë një kompani tjetër të mbrojë të dhënat e saj duke i mbyllur, meqenëse kyçja do të çkyçë automatikisht mbrojtjen e mëparshme.
+5. Operatorët, të cilët përdorin mjete me qira, mund të kenë nevojë për trajnim të drejtuesve të tyre, dhe t’i pajisin ato me mjete për të transferuar të dhënat e NjM nga mjetet në pikën dorëzimit qiradhënësit kur ndodhet larg bazës.
+6. Kartat e kompanive (ndërmarrjeve): Operatorët mund të aplikojnë për kartën e kompanisë pranë Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor (DPSHTRR-së).
+KAPITULLI V
