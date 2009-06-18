@@ -1,0 +1,1 @@
+5. Mbledhja e parë e KMRR-së duhet të thirret jo më vonë se 45 ditë nga data e hyrjes në fuqi të këtij vendimi dhe në këtë mbledhje zgjidhet protokolluesi i komisionit, i cili mban procesverbalin e mbledhjeve të KMRR-së.

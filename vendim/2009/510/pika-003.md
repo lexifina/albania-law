@@ -1,0 +1,1 @@
+3. Komisioni i Mbrojtjes nga Rrezatimet (KMRR) është autoriteti kombëtar rregullator, i cili mbikëqyr dhe siguron zbatimin e ligjit nr.8025, datë 9.11.1995 “Për mbrojtjen nga rrezatimet jonizuese”, të ndryshuar, dhe të akteve të tjera ligjore dhe nënligjore, në fushën e mbrojtjes nga rrezatimet jonizuese.

@@ -1,0 +1,1 @@
+4. Komisioni mblidhet, si rregull, një herë në 2 muaj, sipas njoftimit të kryetarit dhe mbledhjet zhvillohen me jo më pak se 2/3 e anëtarëve. Njoftimi përmban rendin e ditës dhe materialet, që do të diskutohen në mbledhje. Ai u dërgohet anëtarëve të komisionit të paktën 7 ditë përpara datës së caktuar për mbledhje.
