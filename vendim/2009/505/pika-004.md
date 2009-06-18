@@ -1,0 +1,4 @@
+4. “Seasif Group”, sh.p.k.-ja, brenda 3 (tre) viteve nga hyrja në fuqi e këtij vendimi, të pyllëzojë, me fondet e veta, 53 (pesëdhjetë e tre) ha me pyje, si dhe të përmirësojë 38 (tridhjetë e tetë) ha kullotë, në ngastrat e përcaktuara nga drejtoria përkatëse e shërbimit pyjor.
+Lloji i drurëve, që do të mbillen, dhe grafiku i mbjelljeve të caktohen nga drejtoritë përkatëse të shërbimit pyjor, në bashkëpunim me njësitë e qeverisjes vendore, të cilat i ndjekin mbjelljet deri në marrjen në dorëzim, me procesverbal, të sipërfaqes së pyllëzuar, sipas marrëveshjes, që do të lidhin me kërkuesin.
+4. Ngarkohen Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, kryeregjistruesi i Pasurive të Paluajtshme të Republikës së Shqipërisë, komuna Balldre e qarkut të Lezhës, e komuna Bushat e qarkut të Shkodrës, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

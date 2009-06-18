@@ -1,0 +1,1 @@
+3. Vlera e kësaj sipërfaqeje pyjore dhe kullosore të paguhet nga “Seasif Group”, sh.p.k., sipas akteve ligjore në fuqi. Llogaritja e tarifave për heqjen nga fondi pyjor të bëhet sipas lidhjes 4, që i bashkëlidhet vendimit nr.391,datë 21.6.2006 të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”.
