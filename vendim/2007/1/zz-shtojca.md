@@ -18,7 +18,7 @@ Nëse autoritetet kontraktore, në përcaktimin e të dhënave sasiore, kanë ma
 dh) Organi qendror blerës mund të kërkojë, në çdo fazë të prokurimit, ndihmën e autoritetit kontraktor, si dhe duhet t’i sigurojë këtij të fundit, sa herë që i kërkohet, akses të plotë për çdo informacion për procedurën e prokurimit.
 e) Organi qendror blerës është plotësisht përgjegjës për kryerjen e të gjithë procedurës së prokurimit (që nga njoftimi i kontratës e deri te botimi i njoftimit të shpalljes së fituesit), ndërsa nënshkrimi i kontratës bëhet nga autoriteti kontraktor.
 3. Buletini i Njoftimeve Publike
-a) APP-ja boton çdo të hënë Buletinin e Njoftimeve Publike. Në të botohen, në përputhje me ligjin për prokurimin publik dhe rregullat e prokurimit publik,:
+a) APP-ja boton çdo ditë të hënë Buletinin e Njoftimeve Publike, si dhe në çdo rast tjetër, me vendim të drejtorit të APP-së. Në të botohen, në përputhje me ligjin për prokurimin publik dhe rregullat e prokurimit publik,:
 regjistri kombëtar i parashikimeve të prokurimit publik, bazuar në informacionet e dorëzuara nga autoritetet kontraktore;
 regjistri kombëtar i realizimeve të prokurimeve publike, bazuar në informacionet e dorëzuara nga autoritetet kontraktore;
 njoftimet e prokurimit, për ato kontrata, që kanë një vlerë mbi dhe nën kufijtë e ulët monetarë, siç parashikohet në pikën 1, të kreut II, të rregullave të prokurimit publik;
@@ -466,7 +466,7 @@ SANKSIONET ADMINISTRATIVE DHE MASAT DISIPLINORE
 Në zbatim të nenit 72, të LPP-së, titullari i APP-së mund të vendosë gjobë apo të propozojë masa disiplinore për çdo person përgjegjës që:
 nuk dërgon, sipas afatit dhe përmbajtjes së kërkuar, njoftimet dhe informacionet, që parashikohen në nenet 38, 39 e 58, të LPP-së, dhe në pikën 3, të kreut I, të rregullave të prokurimit publik;
 nuk skualifikon një ofertues/kandidat, kur ekzistojnë rrethanat e parashikuara në nenet 45 e 47, të LPP-së;
-nuk zbaton afatet e parashikuara në në nenin 42 dhe nenin 43, të LPP-së, dhe në pikën 4, të kreut V, të rregullave të prokurimit publik;
+nuk zbaton afatet e parashikuara në nenin 42 dhe në nenin 43, të LPP-së, dhe në pikën 4, të kreut V, të rregullave të prokurimit publik;
 përdor procedurat e parashikuara në nenet 31, 32 e 33, të LPP-së, në kundërshtim me rrethanat, që përcaktohen në ligj dhe në rregullat e prokurimit publik;
 pjesëton vlerën e kontratës për shmangien nga kufijtë monetarë, të parashikuar në kreun II, të rregullave të prokurimit publik;
 nuk mban dokumentacionin e plotë të prokurimit, në përputhje me kërkesat e pikës 2, të nenit 12, të LPP-së;”
