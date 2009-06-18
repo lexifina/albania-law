@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Thumanë të qarkut të Durrësit, që transferohen, në pronësi ose në përdorim, të kësaj komune sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 135 (njëqind e tridhjetë e pesë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 929 (nëntëqind e njëzet e nëntë).
