@@ -1,0 +1,1 @@
+7. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Proces gjyqësor”, të kompensohen, për efekt shpronësimi, pasi të ketë përfunduar procesi gjyqësor dhe pasi të paraqesin dokumentacionin e plotë të pronësisë dhe vendimin e formës së prerë të gjykatës, pranë bashkisë së Bajram Currit.
