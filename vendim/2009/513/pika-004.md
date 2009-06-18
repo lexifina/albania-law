@@ -1,0 +1,1 @@
+4. Ky fond prej 10 436 170 (dhjetë milionë e katërqind e tridhjetë e gjashtë mijë e njëqind e shtatëdhjetë) lekësh, të përballohet nga llogaria e veçantë e Ministrisë së Financave në Bankën e Shqipërisë “Fondi i shpronësimeve”.
