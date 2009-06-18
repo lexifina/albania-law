@@ -1,1 +1,0 @@
-3. Enti Rregullator i Telekomunikacioneve, me fondet e veta dhe brenda vitit 2002, të ngrejë “Qendrën Kombëtare të Mbikqyrjes së Radiofrekuencave” për shmangien e interferencave dhe shfrytëzimin e frytshëm të të gjithë spektrit të radiofrekuencave.
