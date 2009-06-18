@@ -1,0 +1,1 @@
+1. Miratimin, në parim, të memorandumit të bashkëpunimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit Qendror të Zgjedhjeve, për zgjedhjet për në Kuvendin e Republikës së Shqipërisë, që do të zhvillohen më 28.6.2009.
