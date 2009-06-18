@@ -1,0 +1,12 @@
+# Neni 6
+Procedura e shortit
+1. Dy enë transparente, ku në njërën është vënë etiketa “Partia politike e cila tërheq shortin për anëtarin e tretë“ dhe në tjetrën “Partia Politike e cila tërheq shortin për anëtarin e katërt”, vendosen në një tavolinë, e cila shikohet qartë nga të gjithë anëtarët e KQZ-së, dhe përfaqësuesit e partive politike.
+2. Dy enë të tjera transparente, ku në njerën është vënë etiketa “Anëtari i tretë i GNV-ve dhe në tjetrën “Anëtari i katërt i GNV-ve“, vendosen në një tavolinë, e cila shikohet qartë nga të gjithë anëtarët e KQZ-së dhe përfaqësuesit e partive politike.
+3. Emri i çdo partie politike, së cilës i lind e drejta për të marrë pjesë në short, për anëtarin e tretë të GNV-ve shënohet në shirita letre dhe mbyllet në gogla të njëjta nga ngjyra dhe forma e jashtme dhe hidhen në enët transparente ku është shënuar “Patrtia politike, e cila tërheq shortin për anëtarin e tretë“ dhe “Anëtari i tretë i GNV-ve”.
+4. Emri i çdo partie politike, së cilës i lind e drejta për të marrë pjesë në short, për anëtarin e katërt të GNV-ve shënohet në shirita letre dhe mbyllet në gogla të njëjta nga ngjyra dhe forma e jashtme dhe hidhet në enët transparente ku është shënuar “Partia politike e cila tërheq shortin për anëtarin e katërt” dhe “Anëtari i katërt i GNV-ve”.
+5. Një përfaqësues i KQZ-së tërheq njërën nga goglat e hedhura në enët e para ku është shënuar “Partia politike, e cila tërheq shortin për anëtarin e tretë” dhe “Partia politike, e cila tërheq shortin për anëtarin e katërt”.
+6. Pas përcaktimit të bërë në këtë parashort, shiriti i letrës futet sërish në gogël dhe hidhet në enën nga ku u tërhoq.
+7. Përfaqësuesi i partisë, emri i së cilës ndodhet në shiritin e letrës brenda goglës së tërhequr nga ena ku është shënuar “Partia politike, e cila tërheq shortin për anëtarin e tretë“, ka të drejtën të tërheqë shortin për anëtarin e tretë të GNV-ve në enën e dytë ku është shënuar “Anëtari i tretë i GNV-ve”.
+8. Partia e cila fiton nga ky short, ka të drejtë të propozojë anëtarin e tretë të grupeve të numërimit të ZAZ-së përkatëse.
+9. Përfaqësuesi i partisë, emri i së cilës ndodhet në shiritin e letrës brenda goglës së tërhequr nga ena ku është shënuar “Partia politike, e cila tërheq shortin për anëtarin e katërt” ka të drejtë ta tërheqë shortin për anëtarin e katërt të GNV-ve në enën e dytë ku është shënuar “Anëtari i katërt i GNV-ve”.
+10. Partia e cila fiton nga ky short, ka të drejtë të propozojë anëtarin e katërt të grupeve të numërimit të ZAZ-së përkatëse.
