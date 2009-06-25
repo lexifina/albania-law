@@ -1,3 +1,0 @@
-3. Për trajtimin e kamatëvonesave, penaliteteve dhe/apo gjobave të transferuara në ATK
-i) Për debitorët që nga ish-bankat shtetërore të nivelit të dytë, janë transferuar vetëm interesa, penalitete dhe/apo kamatëvonesa, falen tërësisht në masën 100%. Këtu përfshihen edhe ata debitorë të cilëve iu janë transferuar nga bankat e nivelit të dytë në ATK vetëm interesa, penalitete dhe/apo kamatëvonesa, pas datës së dorëzimit të detyrimit nga ish-bankat e nivelit të dytë.
-ii) ATK-ja pasi të ketë verifikuar dhe të jetë paguar nga debitori shpenzimet gjyqësore dhe ato përmbarimore, nëse ka, duhet të njoftojë debitorin për kryerjen e procedurave për çlirimin e barrës hipotekore.
