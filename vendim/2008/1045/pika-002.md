@@ -1,6 +1,0 @@
-2. Në funksion të përllogaritjeve të parashikuara në pikën 1 të këtij kreu :
-a) për të gjithë debitorët, me shumën e principalit të transferuar nga bankat deri në 3 (tre) milionë lekë, të gjitha pagesat e kryera nga çasti i transferimit përllogariten si shuma të paguara për shlyerjen e principalit dhe do të zbriten nga shuma e principalit të transferuar;
-b) për të gjithë debitorët, me shumën e principalit të transferuar nga bankat mbi 3 (tre) milionë lekë, të gjitha pagesat e kryera nga çasti i transferimit do të zbriten nga shuma e principalit të transferuar;
-c) për debitorët, të cilëve u kanë përfunduar procedurat e shitjes së kolateralit dhe janë sërish debitorë të Agjencisë së Trajtimit të Kredive, kërkohet likuidimi i vetëm 50 për qind e detyrimit të mbetur;
-ç) debitorët, që kanë lidhur kontrata ristrukturimi, në bazë të akteve, ligjore e nënligjore në fuqi, para datës së hyrjes në fuqi të këtij vendimi, gëzojnë të drejtën e trajtimit, sipas këtij vendimi;
-d) kur në marrëveshjen ekzistuese të kredisë janë përcaktuar norma interesi më të ulëta se ato të përcaktuara në shkronjat “c” e “ç” të pikës 1 të kreut të këtij vendimi, do të zbatohen normat e interesave, të përcaktuara në marrëveshjen ekzistuese.
