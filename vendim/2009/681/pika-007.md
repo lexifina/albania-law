@@ -1,0 +1,1 @@
+7. ATK-ja ka të drejtën e rivlerësimit të pronës, para fillimit të procedurave të shitjes me ankand, me kusht rritjen e vlerës fillestare, kur e gjykon të arsyeshme se kanë ndryshuar pozitivisht kushtet e tregut, në zonën ku kjo pronë ndodhet.
