@@ -15,7 +15,7 @@ si një njësi e tërë, e cila nuk ndryshon gjatë shumëzimit.
 9. “Zotërues ose pronar” nënkupton personin, të cilit i është dhënë e drejta e seleksionerit, sipas dispozitave të këtij ligji.
 10. “Aplikant” është personi që ka dorëzuar një aplikim pranë organit përgjegjës për dhënien e së drejtës të seleksionerit.
 11. “Pasues në titull” nënkupton trashëgimtarin e së drejtës të seleksionerit.
-12. “Licencë e detyrueshme” nënkupton licencën e dhënë në mbështetje të këtij ligji.
+12. “Njohje e detyrueshme” nënkupton licencën e dhënë në mbështetje të këtij ligji.
 13. “UPOV” është Unioni Ndërkombëtar për Mbrojtjen e Varieteteve të Reja.
 14. “Mutant” nënkupton një bimë të re të përftuar nga një varietet i njohur më parë, si rezultat i ndryshimeve thelbësore të ndodhura në rrugë natyrore ose të nxitura artificialisht.
 15. “Somaklonal” janë klone të rrjedhura nga zhvillimi i qelizave somatike ose vegjetative.

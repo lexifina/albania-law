@@ -1,3 +1,3 @@
 # Neni 14
-1. Kujdesi dhe shërbimet shëndetësore për shëndetin riprodhues ofrohen nga shërbimet mjekësore shtetërore, nga persona juridikë publikë dhe privatë, si dhe nga personat që kanë të drejtë të ushtrojnë këtë veprimtari në përputhje me legjislacionin në fuqi, që janë të licencuar nga Ministria e Shëndetësisë për këtë lloj veprimtarie.
+1. Veprimtaritë e përcaktuara në këtë ligj përfshihen në kategorinë II.6, të shtojcës së ligjit për licencat. Këto veprimtari licencohen sipas ligjit për licencat.
 2. Shërbimet mjekësore shtetërore, personat juridikë publikë dhe privatë, si dhe personat që kanë të drejtë të ushtrojnë këtë veprimtari në përputhje me legjislacionin në fuqi, detyrohen të ruajnë konfidencialitetin dhe anonimitetin e të dhënave, për të cilat vihen në dijeni për shkak të veprimtarisë që ato ushtrojnë.
