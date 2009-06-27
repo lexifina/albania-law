@@ -5,7 +5,7 @@ Në kuptim të këtij ligji:
 2. ”Certifikim” është përkufizimi i dhënë në ligjin nr.8464, datë 11.3.1999 ”Për standardizimin”.
 3. ”Etiketim” është çdo fjalë, markë tregtare, emër tregtar, përmbajtje piktoreske dhe shenja në ambalazhim, dokument, shënim, etiketë, kapak ose qafore, që shoqëron ose i referohet një produkti të specifikuar në nenin 9 të këtij ligji.
 4. ”Inspektim” është procedura e kontrollit dhe e verifikimit, e realizimit të kushteve të prodhimit organik, të përcaktuara në këtë ligj, e realizuar nga trupat inspektuese.
-5. ”Leje e përkohshme” është leja që jepet nga KSHPO-ja, me propozimin e organizmit certifikues, për një periudhë kohe të caktuar, për përdorimin e materialeve që nuk përfshihen në anekset II dhe III të këtij ligji.
+5. ” Autorizim i përkohshëm ” është leja që jepet nga KSHPO-ja, me propozimin e organizmit certifikues, për një periudhë kohe të caktuar, për përdorimin e materialeve që nuk përfshihen në anekset II dhe III të këtij ligji.
 6. ”Notifikim” është procedura e njoftimit në KSHPO për njësitë e prodhimit organik dhe njohjes së konformitetit të produkteve organike, të propozuara nga organizmat certifikues.
 7. ”Njësi e prodhimit organik” është njësia ose ndërmarrja apo ferma që ushtron një veprimtari prodhimi, përpunimi, certifikimi dhe tregtimi të produkteve ”Bio”, në përputhje me këtë ligj.
 8. ”Organizëm certifikues” është çdo organizëm shtetëror, privat, vendas ose i huaj, i cili vërteton përputhshmërinë e produkteve, proceseve, shërbimeve dhe të sistemeve të cilësisë, sipas kërkesave të standardeve dhe specifikimeve teknike të përcaktuara në këtë ligj.
