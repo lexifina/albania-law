@@ -1,1 +1,0 @@
-4. Nëpunësve/punonjësve, pagat e të cilëve caktohen sipas lidhjes nr.I dhe lidhjes nr.II, pas çdo viti pune u jepet shtesë për vjetërsi në punë, 1 për qind mbi pagën bazë për klasë, por jo më shumë se 25 për qind. Për llogaritjen e kësaj shtese njihet vjetërsia e përgjithshme në punë.

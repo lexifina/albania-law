@@ -1,1 +1,0 @@
-17. Punonjësit, që përfshihen në njësitë ose drejtoritë e zbatimit të projekteve, kredive a ndihmave, që përfiton Republika e Shqipërisë nga institucione ndërkombëtare ose qeveri të vendeve të ndryshme, të trajtohen si pjesë e strukturave të ministrive të linjës.
