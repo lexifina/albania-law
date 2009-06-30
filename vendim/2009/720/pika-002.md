@@ -1,0 +1,1 @@
+2. Vlera e sipërfaqeve, që tjetërsohen, të përllogaritet sipas vendimit nr.139, datë 13.2.2008 të Këshillit të Ministrave “Për miratimin e çmimeve të trojeve, të përcaktuara në hartat përkatëse, për qarqet e Fierit, të Elbasanit, Tiranës, Vlorës, Durrësit dhe Shkodrës.

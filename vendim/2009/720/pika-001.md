@@ -1,0 +1,1 @@
+1. Kalimin e së drejtës së pronësisë së pasurive të paluajtshme me nr.737 (vol.5, f.81, zona kadastrale 2529), me sipërfaqe 7 000 (shtatë mijë) m2, dhe nr.863 (vol.4, f.62, zona kadastrale 2529), me sipërfaqe 2 400 (dy mijë e katërqind) m2, të regjistruara në ZRVPP, Tiranë, në favor të subjektit kërkues “MANE TCI” sh.p.k.
