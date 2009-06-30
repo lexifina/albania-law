@@ -1,0 +1,2 @@
+12. Vendimi nr.20, datë 14.1.2009 i Këshillit të Ministrave “Për miratimin e strukturës dhe të niveleve të pagave të punonjësve të administratës gjyqësore, të gjykatave të shkallës së parë dhe të gjykatave të apelit”, si dhe dispozitat e tjera, që bien në kundërshtim me këtë vendim, shfuqizohen.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1 maj 2009.

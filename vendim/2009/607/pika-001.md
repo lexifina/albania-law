@@ -1,0 +1,1 @@
+1. Në fushën e veprimit të këtij vendimi përfshihen punonjësit me arsim të lartë të administratës gjyqësore, në gjykatat e shkallës së parë dhe gjykatat e apelit, si dhe punonjësit e administratës së prokurorive, pranë gjykatave të shkallës së parë dhe gjykatave të apelit.

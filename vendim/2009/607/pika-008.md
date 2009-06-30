@@ -1,0 +1,1 @@
+8. Punonjësit, që nuk përmbushin kriterin e arsimit të lartë, kur vendi i punës e kërkon, do të trajtohen në pagë në përputhje me vendimin e Këshillit të Ministrave, për pagat e punonjësve mbështetës të institucioneve buxhetore.

@@ -1,0 +1,1 @@
+9. Punonjësit e tjerë mbështetës, të administratës së gjykatave dhe të administratës së prokurorive, pranë gjykatave, që nuk përfshihen në lidhjen nr.1, që i bashkëlidhet këtij vendimi, do të trajtohen në pagë, në përputhje me vendimin e Këshillit të Ministrave, për pagat e punonjësve mbështetës të institucioneve buxhetore.
