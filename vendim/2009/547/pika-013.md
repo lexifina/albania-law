@@ -1,0 +1,1 @@
+13. Për kategoritë ujore të përcaktuara në pikën 2 të këtij vendimi, çmimi i qirasë vjetore është 1 (një) euro për ha. Ky çmim do të zbatohet dhe për kontratat ekzistuese të qirasë, për periudhën që ka mbetur deri në mbarim të kontratës.

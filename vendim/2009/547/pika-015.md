@@ -1,0 +1,1 @@
+15. Të ardhurat e siguruara nga dhënia me qira e sipërfaqeve ujore administrohen, në përputhje me shkronjën “b” të pikës 1 të vendimit nr.432, datë 28.6.2006 të Këshillit të Ministrave “Për krijimin dhe administrimin e të ardhurave, që krijojnë institucionet buxhetore”.

@@ -1,0 +1,1 @@
+16. Vendimi nr.135, datë 8.3.2006 i Këshillit të Ministrave “Për procedurat dhe çmimet e dhënies me qira të sipërfaqeve ujore për ushtrimin e veprimtarisë së akuakulturës intensive”, me hyrjen në fuqi të këtij vendimi, shfuqizohet.

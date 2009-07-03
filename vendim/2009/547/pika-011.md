@@ -1,0 +1,1 @@
+11. Pas përfundimit të procedurave të mësipërme dhe pajisjes me leje mjedisore, ministria ose përfaqësuesi i pronës shtetërore lidh kontratën e qirasë dhe miraton kohëzgjatjen e projektit, i cili nuk mund të jetë më shumë se për 10 vjet.
