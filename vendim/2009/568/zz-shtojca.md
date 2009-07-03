@@ -1,0 +1,451 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E PUNËVE PUBLIKE, TRANSPORTIT DHE TELEKOMUNIKACIONIT
+DREJTORIA E PËRGJITJSHME E SHËRBIMEVE MBËSHTETËSE
+DREJTORIA JURIDIKE
+SEKTORI I SHPRONËSIMEVE
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR “RRUGA VOSKOPOJË”
+Komuna Voskopojë Fshati Gjonomadh Z.K.1760
+N.
+Emri
+Atësia
+Mbiemri
+Z.K.
+Nr.
+pasurisë
+Lloji i Pasurisë
+Vlera
+Totale/lekë
+Shënime
+ARË
+TRUALL
+Sip.m2
+Çmimi
+Vlera
+Sip.m2
+Çmimi
+Vlera
+1
+Osman
+Etem
+Stopani
+1760
+1004
+993
+89.8
+89171.4
+89171.4
+Konfirmim nga ZVRPP
+2
+Nazmi
+Istref
+Metellari
+1760
+656/4
+64
+89.8
+5747.2
+5747.2
+Konfirmim nga ZVRPP
+3
+Ladin
+Amet
+Metellari
+1760
+656/3
+196
+89.8
+17600.8
+17600.8
+Konfirmim nga ZVRPP
+4
+Afrim
+Xhafer
+Selimllari
+1760
+656/2
+21
+89.8
+1885.8
+1885.8
+Konfirmim nga ZVRPP
+5
+Seit
+Ramadan
+Xhaxhamani
+1760
+1088/8
+311
+89.8
+27927.8
+27927.8
+Konfirmim nga ZVRPP
+6
+Faik
+Asllan
+Allisha
+1760
+1094/57
+347
+89.8
+31160.6
+31160.6
+Konfirmim nga ZVRPP
+7
+Pajazit+Sami
+Xhindi
+1760
+1094/48
+507
+89.8
+45528.6
+45528.6
+Konfirmim nga ZVRPP
+8
+Ramadan
+Syrja
+Allisha
+1760
+1094/47
+171
+89.8
+15355.8
+15355.8
+Konfirmim nga ZVRPP
+9
+Faik
+Allisha
+1760
+1094/34
+203
+89.8
+18229.4
+18229.4
+Konfirmim nga ZVRPP
+10
+Islam
+Syrja
+Allisha
+1760
+1094/33
+145
+89.8
+13021
+13021
+Konfirmim nga ZVRPP
+2958
+265628.4
+265628.4
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E PUNËVE PUBLIKE, TRANSPORTIT DHE TELEKOMUNIKACIONIT
+DREJTORIA E PËRGJITJSHME E SHËRBIMEVE MBËSHTETËSE
+DREJTORIA JURIDIKE
+SEKTORI I SHPRONËSIMEVE
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR “RRUGA VOSKOPOJË”
+Komuna Voskop Fshati Voskop Z.K.3818
+N.
+Emri
+Atësia
+Mbiemri
+Z.K.
+Nr.
+pasurisë
+Lloji i Pasurisë
+Vlera
+Totale/lekë
+Shënime
+ARË
+TRUALL
+Sip.m2
+Çmimi
+Vlera
+Sip.m2
+Çmimi
+Vlera
+1
+Ramadan
+Myrdinasi
+3818
+94/10
+42
+268.6
+11281.2
+11281.2
+Konfirmim nga ZVRPP
+2
+Engjellusha
+Nurçe
+3818
+94/9
+35
+268.6
+9401
+9401
+Konfirmim nga ZVRPP
+3
+Ramadan
+Myrdinasi
+3818
+94/8
+15
+268.6
+4029
+4029
+Konfirmim nga ZVRPP
+4
+Fiqiri
+Myrdinasi
+3818
+94/7
+27
+268.6
+7252.2
+7252.2
+Konfirmim nga ZVRPP
+5
+Seit
+Nurçe
+3818
+46/33
+123
+268.6
+33037.8
+33037.8
+Konfirmim nga ZVRPP
+6
+Kastriot
+Sejdolli
+3818
+46/34
+170
+268.6
+45662
+45662
+Konfirmim nga ZVRPP
+7
+Shpëtim
+Nurçe
+3818
+46/32
+223
+268.6
+59897.8
+59897.8
+Konfirmim nga ZVRPP
+8
+Kudret
+Lemellari
+3818
+46/31
+168
+268.6
+45124.8
+45124.8
+Konfirmim nga ZVRPP
+803
+215685.8
+215685.8
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E PUNËVE PUBLIKE, TRANSPORTIT DHE TELEKOMUNIKACIONIT
+DREJTORIA E PËRGJITHSHME E SHËRBIMEVE MBËSHTETËSE
+DREJTORIA JURIDIKE
+SEKTORI I SHPRONËSIMEVE
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR “RRUGA VOSKOPOJË”
+Komuna Voskopojë Fshati Voskopojë Z.K.3819
+N.
+Emri
+Atësia
+Mbiemri
+Z.K.
+Nr.
+pasurisë
+Lloji i pasurisë
+Vlera
+Totale/lekë
+Shënime
+ARË
+TRUALL
+Sip.m2
+Çmimi
+Vlera
+Sip.m2
+Çmimi
+Vlera
+1
+Nisi
+Kosta
+Kallulla
+3819
+1035/1
+114.4
+5
+1575
+7875
+7875
+Konfirmim nga ZVRPP
+2
+Ilia
+Koçi
+Bardhi
+3819
+1035/2
+12
+1575
+18900
+18900
+Konfirmim nga ZVRPP
+3
+Baki
+Hariz
+Shalca
+3819
+1037/1
+47
+114.4
+5376.8
+1575
+5376.8
+Konfirmim nga ZVRPP
+4
+Marjanthi
+Qosa+Bp.
+3819
+1037/20
+114.4
+46
+1575
+72450
+72450
+Konfirmim nga ZVRPP
+5
+Jovan
+Llambi
+Paco
+3819
+1037/9
+47
+114.4
+5376.8
+1575
+5376.8
+Konfirmim nga ZVRPP
+6
+Kristaq
+Sandri
+Bani
+3819
+1037/10
+200
+114.4
+22880
+1575
+22880
+Konfirmim nga ZVRPP
+7
+Anton+Gjergji
+Vani
+3819
+992/2
+38
+114.4
+4347.2
+1575
+4347.2
+Konfirmim nga ZVRPP
+8
+Meladin
+Beqo
+3819
+1113/23
+82
+114.4
+9380.8
+1575
+9380.8
+Konfirmim nga ZVRPP
+9
+Guri
+Vangjo
+Fili
+3819
+1113/19
+50
+114.4
+5720
+1575
+5720
+Konfirmim nga ZVRPP
+10
+Flamur
+Cukali
+3819
+1113/18
+43
+114.4
+4919.2
+1575
+4919.2
+Konfirmim nga ZVRPP
+11
+Bajram
+Rakip
+Nazemllari
+3819
+1113/7
+183
+114.4
+20935.2
+1575
+20935.2
+Konfirmim nga ZVRPP
+12
+Sotiraq
+Ndrio
+Bani
+3819
+1113/8
+104
+114.4
+11897.6
+1575
+11897.6
+Konfirmim nga ZVRPP
+13
+Jonus
+Bezhani
+3819
+1120/4
+30
+114.4
+3432
+1575
+3432
+Konfirmim nga ZVRPP
+14
+Fatjon
+Mersin
+Bezhani
+3819
+1120/3
+64
+114.4
+7321.6
+1575
+7321.6
+Konfirmim nga ZVRPP
+15
+Raimonda
+Zguri
+3819
+1120/2
+170
+114.4
+19448
+1575
+19448
+Konfirmim nga ZVRPP
+1058
+63
+121035.2
+99225
+220260.2
