@@ -1,0 +1,1 @@
+1. Pjesëmarrjen e 200 (dyqind) forcave ushtarake të huaja në stërvitjen e përbashkët, të koduar “ADRION LIVEX-09”, që do të zhvillohet në hapësirën detare të Republikës së Shqipërisë dhe ujërat ndërkombëtare, nga data 7 deri 12 qershor 2009.
