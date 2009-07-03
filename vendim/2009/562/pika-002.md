@@ -1,0 +1,1 @@
+2. Programi i studimit “Master i nivelit të dytë” do të jetë program studimi i ciklit të tretë, në plotësimin e të paktën 60 krediteve. Në përfundim të programit të studimit do të lëshohet diplomë “Master i nivelit të dytë”, (MND), në shkenca juridiko-penale.
