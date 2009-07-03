@@ -1,1 +1,0 @@
-1. Dhënien me qira të sipërfaqeve ujore në zonat detare, në ujërat e brendshme (pa përfshirë ujëmbledhësit e bujqësisë, që shërbejnë për ujitje) dhe në liqenet natyrore, për ushtrimin e veprimtarive të akuakulturës intensive.
