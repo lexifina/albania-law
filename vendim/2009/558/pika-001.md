@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rezervave Materiale të Shtetit të shesë makineritë dhe pajisjet e fabrikës së ushqimeve për fëmijë “BABY FOOD”, sipas vlerësimit të kryer nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
