@@ -1,0 +1,1 @@
+1. Shpërblimi ditor për ushtarakët shqiptarë, të dërguar në Republikën e Çadit dhe Republikën e Afrikës Qendrore, në misionin “Minurcat” të Organizatës së Kombeve të Bashkuara, të jetë 60 (gjashtëdhjetë) euro për çdo ditë qëndrimi në këtë mision. Trajtimi financiar të fillojë nga data e dërgimit me mision të kontingjentit ushtarak.
