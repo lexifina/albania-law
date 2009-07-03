@@ -1,0 +1,1 @@
+5. Shkolla e lartë universitare, private, “Universiteti Marin Barleti” duhet t’u nënshtrohet procesit të akreditimit institucional dhe këtyre programeve të studimit, brenda afateve të përcaktuara në ligjin në fuqi.

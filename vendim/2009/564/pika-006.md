@@ -1,0 +1,1 @@
+6. Shkolla e lartë universitare, private, “Universiteti Marin Barleti”, pas marrjes së lejes përkatëse nga Ministri i Arsimit dhe Shkencës, për hapjen e programeve të ciklit të tretë, të strukturohet si universitet.

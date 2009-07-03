@@ -1,0 +1,2 @@
+3. Shkolla e lartë universitare, private, “Universiteti Marin Barleti” ta fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikën 1 të këtij vendimi, pasi të ketë marrë lejen përkatëse nga Ministri i Arsimit dhe Shkencës, por jo më vonë se dy javë para fillimit të vitit akademik.
+Ministri e lëshon lejen pasi vlerëson se institucioni mësimor ka përmbushur angazhimet e deklaruara, në përputhje me udhëzimin e tij për këtë qëllim.
