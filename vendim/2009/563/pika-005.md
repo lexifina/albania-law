@@ -1,0 +1,1 @@
+5. Ngarkohet shkolla e lartë universitare, private, “Kristal”, që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, me kualifikimin e nevojshëm.

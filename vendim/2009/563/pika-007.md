@@ -1,0 +1,1 @@
+7. Programi i studimit “Master i nivelit të parë” është pjesë e studimeve të ciklit të dytë, me, së paku, plotësimin e 60 krediteve. Në mbarim të programit të studimit lëshohet diplomë “Master i nivelit të parë (MNP) në “Shëndet publik dhe menaxhim spitalor”.
