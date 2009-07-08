@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda jurudiksionit territorial dhe administrativ të bashkisë Cërrik të qarkut të Elbasanit, që transferohen në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 261 (dyqind e gjashtëdhjetë e një) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 1979 (një mijë e nëntëqind e shtatëdhjetë e nëntë).
