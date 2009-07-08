@@ -1,0 +1,1 @@
+1. Lejimin e kalimit tranzit, përmes territorit të Republikës së Shqipërisë, në itinerarin Qafë-Thanë-porti i Durrësit, në datën 3 qershor 2009, të 1 (një) autokolone ushtarake italiane, të përbërë nga 6 (gjashtë) automjete dhe 25 (njëzet e pesë) trupa.
