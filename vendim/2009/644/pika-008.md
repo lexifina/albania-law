@@ -1,0 +1,1 @@
+8. Pronari i objektit, për të cilin është bërë shënimi “Konfirmim nga ZRPP-ja vetëm për truall” të kompensohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin e plotë tekniko-ligjor, pranë Drejtorisë së Përgjithshme të Rrugëve.
