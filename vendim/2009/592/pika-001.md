@@ -1,0 +1,1 @@
+1. Dhënien në përdorim Autoritetit të Kontrollit Shtetëror të Eksporteve të disa mjediseve, konkretisht, katin e pestë teknik të ndërtesës, në adresën “Pallati nr.4, rruga “Skënderbej”, Tiranë, në administrim të Drejtorisë së Shërbimit Diplomatik, sipas planimetrisë, që i bashkëlidhet këtij vendimi.

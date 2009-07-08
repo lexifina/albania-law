@@ -1,0 +1,1 @@
+2. Për ndërhyrjet në konstruksion ose për përshtatjen e mjediseve, të dhëna në përdorim, Autoriteti i Kontrollit Shtetëror të Eksporteve duhet të marrë detyrimisht miratimin e administratorit të pasurisë.
