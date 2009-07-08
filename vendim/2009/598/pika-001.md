@@ -1,0 +1,8 @@
+1. Në vendimin nr.1619, datë 2.7.2008 të Këshillit të Ministrave, bëhen këto ndryshime:
+a) Lidhja nr.1 “Struktura dhe nivelet e pagave për nëpunësit civilë të bashkisë së Tiranës”, që përmendet në pikën 2, zëvendësohet me lidhjen me të njëjtin numër dhe emërtim, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+b) Lidhja nr.2 “Struktura dhe nivelet e pagave për nëpunësit civilë në bashkitë e tjera, në njësitë bashkiake të Tiranës dhe për nëpunësit e komunave”, që përmendet në pikën 3, zëvendësohet me lidhjen me të njëjtin numër dhe emërtim, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+c) Lidhja nr.3 “Struktura dhe nivelet e pagave për nëpunësit civilë të këshillit të qarkut”, që përmendet në pikën 4, zëvendësohet me lidhjen me të njëjtin numër dhe emërtim, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+ç) Në pikën 5, paga e grupit bëhet 12 000 lekë në muaj.
+d) Lidhja nr.4 “Klasifikimi i vendeve të punës në shërbimin civil, për organet e qeverisjes vendore”, që përmendet në pikën 10, zëvendësohet me lidhjen nr.4 “Klasifikimi i vendeve të punës për nëpunësit civilë të bashkive e të qarqeve dhe për nëpunësit e komunave”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+dh) Lidhja nr.5 “Struktura dhe kufijtë e pagave për punonjësit e policisë së bashkive e të komunave”, që përmendet në pikën 13, zëvendësohet me lidhjen me të njëjtin numër dhe emërtim, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+e) Në pikën 19, vlerat “…nga 17 000 lekë deri në 28 000 lekë në muaj.” bëhen “… nga 18 000 lekë deri në 30 000 lekë në muaj.”.
