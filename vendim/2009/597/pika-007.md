@@ -1,0 +1,1 @@
+7. Programi i studimit “Master i nivelit të dytë” të jetë program i studimit të ciklit të tretë, me, së paku, plotësimin e 60 krediteve. Në mbarim të programit lëshohet diplomë “Master i nivelit të dytë” (MND) në “Studime për sigurinë”.

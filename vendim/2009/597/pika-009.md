@@ -1,0 +1,2 @@
+9. Universiteti privat “Ufo University” ta fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikat 2, 4 e 6 të këtij vendimi, pasi të ketë marrë lejen përkatëse nga Ministri i Arsimit dhe i Shkencës, por jo më vonë se dy javë para fillimit të veprimtarisë mësimore.
+Ministri e lëshon lejen pasi vlerëson se institucioni mësimor ka përmbushur angazhimet e deklaruara, në përputhje me udhëzimin e tij për këtë qëllim.

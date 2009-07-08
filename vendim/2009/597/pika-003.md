@@ -1,0 +1,1 @@
+3. Kohëzgjatja normale e programit të studimit të ciklit të dytë të jetë 2 vite akademike, me plotësimin, së paku, të 120 krediteve. Në përfundim të këtij programi studimi lëshohet diplomë e nivelit të dytë (DND) në psikologji klinike.
