@@ -1,0 +1,1 @@
+1. Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve të kryejë pagesën 2 700 000 ( dy milionë e shtatëqind mijë) lekë, për mundësimin e kthimit në Republikën e Shqipërisë të kokës së Zeusit-Asklepius, objekt arkeologjik, me vlera kombëtare dhe unikale, i grabitur nga Muzeu Arkeologjik i Butrintit në vitin 1991.
