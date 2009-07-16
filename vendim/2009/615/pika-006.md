@@ -1,0 +1,1 @@
+6. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i vitit 2009, miratuar, respektivisht, për Akademinë e Arteve, universitetin “Aleksandër Xhuvani”, Elbasan dhe universitetin “ Fan S. Noli”, Korçë.
