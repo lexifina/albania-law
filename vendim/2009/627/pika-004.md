@@ -1,0 +1,1 @@
+4. Lista kombëtare e profesioneve ndryshon dhe përshtatet, në bazë të rekomandimeve të Agjencisë Kombëtare të Arsimit dhe Formimit Profesional, në përputhje me kushtet e reja të zhvillimit dhe në bashkëpunim me partnerët socialë.
