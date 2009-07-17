@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondet e parashikuara në buxhetin e vitit 2009, miratuar për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, në grupin 25, titulli 10550 “Tregu i punës”.
