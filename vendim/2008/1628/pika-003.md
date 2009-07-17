@@ -1,1 +1,0 @@
-3. Vendimi nr.731, datë 7.11.2007 i Këshillit të Ministrave “Për përcaktimin e koeficientëve të indeksimit të bazës së vlerësimit vjetor, individual, për llogaritjen fillestare të pensioneve”, shfuqizohet.
