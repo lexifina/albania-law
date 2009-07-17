@@ -1,0 +1,1 @@
+5. Ngarkohet Ministri i Brendshëm për nxjerrjen e udhëzimit përkatës, për përcaktimin e procedurave të hollësishme, që duhen zbatuar, dhe të dokumentacionit që duhet hartuar për përdorimin e këtij fondi.

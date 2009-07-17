@@ -1,0 +1,1 @@
+1. Shërbimi i Kontrollit të Brendshëm (SHKB), në Ministrinë e Brendshme ka dhe përdor fondin e posaçëm të shpenzimeve, në funksion të veprimtarisë informative dhe procedurale penale, brenda fondeve të buxhetit vjetor, miratuar për Ministrinë e Brendshme.
