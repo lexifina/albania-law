@@ -1,0 +1,1 @@
+8. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministria e Ekonomisë, Tregtisë dhe Energjetikës të ndërmarrin dhe të ndjekin procedurat për heqjen nga fondi pyjor të sipërfaqes së zonës “Pyll”, në zbatim të legjislacionit në fuqi për fushën pyjore.
