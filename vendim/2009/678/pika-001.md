@@ -1,0 +1,1 @@
+1. Objektet e ish-kombinatit të tekstileve të pambukta, Tiranë, të ndërmarrjes mekanike-tekstili, Tiranë, të ish-shkollës së partisë, Tiranë, sipas listës, që i bashkëlidhet këtij vendimi, t’i kalojnë Entit Kombëtar të Banesave për fond banesash.

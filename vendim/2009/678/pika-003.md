@@ -1,0 +1,1 @@
+3. Enti Kombëtar i Banesave të bashkëpunojë me ish-kombinatin e tekstileve të pambukta, Tiranë, me ndërmarrjen mekanike-tekstili, Tiranë, dhe njësinë bashkiake nr.11, Tiranë, për saktësimin e listave përkatëse.
