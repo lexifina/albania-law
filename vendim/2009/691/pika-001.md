@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 3.2.2009, për çështjen nr.19206/05, “Dauti kundër Shqipërisë”, në shumën 6 000 (gjashtë mijë) euro, si dhe pagesën e tatimit për dëmshpërblimin, në masën 10 për qind të kësaj shume.
