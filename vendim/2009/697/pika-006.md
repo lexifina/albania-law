@@ -1,0 +1,1 @@
+6. Ngarkohet universiteti privat “UFO University”, që, për çdo program studimi, sipas pikës 2 të këtij vendimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga një personel akademik, me kualifikimet e nevojshme.
