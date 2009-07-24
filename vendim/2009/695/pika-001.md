@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e Teknologjisë së Informacionit, të Universitetit Politeknik të Tiranës, të programit të studimit të ciklit të tretë, të doktoratës, në “Teknologjitë e informacionit dhe komunikimit”.
