@@ -1,0 +1,1 @@
+4. Të gjitha pajisjet e sistemit qendror, si dhe pajisjet e tjera (sistemi i ndriçimit, i kondicionimit, sistemi telefonik), të vendosura në dhomën e kompjuterave, duhet të furnizohen, në mënyrë të pandërprerë, me energji dhe të jenë të pajisura me sistem tokëzimi.

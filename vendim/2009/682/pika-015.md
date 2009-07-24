@@ -1,0 +1,1 @@
+15.Të gjitha aparatet, që shërbejnë për lojërat e fatit, duhet të sigurojnë që të mos ketë humbje të të dhënave pas një ndërprerjeje të energjisë. Lidhja dhe komunikimi me aparatet e sistemet e tjera nuk duhet të ndikojë, në asnjë rast, në faktet dhe rezultatet e lidhura me lojërat e fatit, të propozuara nga automati.

@@ -1,0 +1,2 @@
+9. I licencuari për veprimtarinë e lotarisë kombëtare lejohet të përdorë software-in, versioni i të cilit është miratuar nga DPM-ja. Nëse i licencuari kërkon ndryshimin e software-it, ky ndryshim duhet të reflektohet në kodin e burimit të këtij software-i.
+Të gjitha të dhënat, si dhe çdo e dhënë për ngjarjet e sigurisë, ruhen jo më pak se 2 (dy) vjet, në rastin e ngjarjeve të veçanta, dhe jo më pak se 5 (pesë) vjet, për të dhënat financiare.

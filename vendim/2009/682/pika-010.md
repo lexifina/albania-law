@@ -1,0 +1,3 @@
+10. Sistemi funksional i file-ve dhe i database-ve duhet të jenë të mbrojtur me pasword si dhe duhet të ruajnë historikun e hyrje-daljeve në kompjuter. Pasword-et duhet të jenë individuale për të gjithë personat e autorizuar. I licencuari i lotarive duhet të mbajë një regjistër për ndryshimet eventuale të pasword-eve të tyre.
+Për të siguruar besueshmërinë dhe integritetin e sistemit qendror, të gjitha file-t duhet të jenë të dubluara.
+Në rast dëmtimi apo shkatërrimi (p.sh. nga zjarri) të sistemit qendror, i licencuari për veprimtarinë e lotarisë kombëtare duhet të sigurojë një mënyrë për rikthimin e të dhënave.
