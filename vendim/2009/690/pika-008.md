@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Rrugëve të bëjë likuidimin e pronarëve, sipas listës, që i bashkëlidhet këtij vendimi, në përputhje me dokumentacionin e pronësisë, që do t’i vihet në dispozicion nga pronarët.
