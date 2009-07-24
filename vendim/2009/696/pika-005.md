@@ -1,0 +1,1 @@
+5. Tarifa e shkollimit për këtë program të plotë studimi është 400 000 (katërqind mijë) lekë, dhe likuidohet, për çdo vit të kohëzgjatjes normale, me këste të caktuara nga fakulteti përkatës. Kandidatët, që do të ndjekin programet e studimit të doktoratës, nga stafi akademik i brendshëm i institucioneve të arsimit të lartë, paguajnë 50 për qind të tarifës së shkollimit.
