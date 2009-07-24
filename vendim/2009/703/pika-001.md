@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues, për kryerjen e procedurës ligjore, për dhënien me koncesion, të formës “BOT” (ndërtim, operim, transferim) të hidrocentralit “Spatharë”, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
