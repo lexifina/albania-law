@@ -1,12 +1,14 @@
 VENDIM 
 
-Nr.248, datë 27.4.2007 
+Nr. 248, datë 27.4.2007 
 
 PËR  KRIJIMIN E AGJENCISË KOMBËTARE TË SHOQËRISË SË 
 INFORMACIONIT 
+(Ndryshuar me VKM nr. 837, datë 29.7.2009)
 
+(i përditësuar)
 
-Në mbështetje të nenit 100 të Kushtetutës, të nenit 10 të ligjit nr.9000, datë 30.1.2003 “Për organizimin dhe funksionimin e Këshillit të Ministrave”, të neneve 21 e 27 të ligjit nr.8379, datë 29.7.1998 “Për hartimin dhe zbatimin e Buxhetit të Shtetit të Republikës së Shqipërisë”, të ndryshuar, dhe të nenit 12 të ligjit nr.9645, datë 27.11.2006 “Për Buxhetin e Shtetit të vitit 2007”, me propozimin e Kryeministrit, Këshilli i Ministrave 
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 10 të ligjit nr. 9000, datë 30.1.2003 “Për organizimin dhe funksionimin e Këshillit të Ministrave”, të neneve 21 e 27 të ligjit nr. 8379, datë 29.7.1998 “Për hartimin dhe zbatimin e Buxhetit të Shtetit të Republikës së Shqipërisë”, të ndryshuar, dhe të nenit 12 të ligjit nr. 9645, datë 27.11.2006 “Për Buxhetin e Shtetit të vitit 2007”, me propozimin e Kryeministrit, Këshilli i Ministrave 
 
 VENDOSI: 
 
@@ -32,7 +34,9 @@ b) Përgatit bazën ligjore për zhvillimin e SHI-së;
 
 c) Bashkërendon reformat, programet dhe projektet në fushën e SHI-së, që zbatohen në të gjitha institucionet publike; 
 
-ç) Përcakton standardet e TIK-së për administratën publike; 
+ç) Përcakton standardet TIK, që do të përdorin Kryeministria, ministritë dhe institucionet në varësi të Këshillit të Ministrave, Kryeministrit/ministrit. Këto standarde publikohen në Buletinin e Njoftimeve Publike.
+
+Në rastet kur standardet mungojnë dhe/ose janë të pazbatueshme, institucionet  e mësipërme janë të detyruara, në çdo rast, të marrin, përpara fillimit  të procedurave të prokurimit publik, mendimin e AKSHI-t; 
 
 d) Zhvillon një rrjet të brendshëm të TIK-së për administratën publike, përfshi krijimin e rrjetit qeveritar (GovNet) dhe të portalit qeveritar; 
 
@@ -53,6 +57,8 @@ h) Promovon përhapjen e internetit dhe aksesin e publikut në shërbimet on lin
 i) Promovon dhe mbështet rritjen e aftësive për përdorimin e kompjuterit dhe të internetit nga qytetarët; 
 
 k) Bashkëpunon në fushën e SHI-së me institucione të tjera shtetërore dhe ndërkombëtare, shoqërinë civile dhe sektorin privat. 
+
+l)Gjatë planifikimit të projektbuxhetit të shtetit, Ministria e Financave duhet të marrë  mendimin e AKSHI-t, i cili është organ teknik-këshillimor i institucioneve, të përmendura në shkronjën “ç”, për kërkesat e tyre, për financimin me fonde buxhetore të projekteve në fushën e teknologjisë së informacionit dhe komunikimit.
 
 4. Struktura dhe organika e Agjencisë miratohen me urdhër të Kryeministrit. 
 

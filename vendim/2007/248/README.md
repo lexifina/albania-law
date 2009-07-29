@@ -1,9 +1,9 @@
 # PËR  KRIJIMIN E AGJENCISË KOMBËTARE TË SHOQËRISË SË  INFORMACIONIT
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 248, datë 27.4.2007](https://qbz.gov.al/api/v1/acts/5323).
+Official source: [Vendimi i Këshillit të Ministrave nr. 248, datë 27.4.2007](https://qbz.gov.al/api/v1/acts/5323); [QBZ versions](https://qbz.gov.al/api/v1/acts/5323/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2007-04-27; published 2007-05-09; in force 2007-05-09.
+Status of this text: `official consolidated version 1`, applying from 2009-07-29; after QBZ act 17564 (nr. 837).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
