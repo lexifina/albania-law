@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme, shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Ulëz të qarkut të Dibrës, që transferohen, në pronësi ose në përdorim, të kësaj komune, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 63 (gjashtëdhjetë e tre) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 427 (katërqind e njëzet e shtatë).
