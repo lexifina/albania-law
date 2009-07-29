@@ -1,0 +1,1 @@
+3. Shuma 450 000 (katërqind e pesëdhjetë mijë) euro, bashkë me pagesën e tatimit mbi të ardhurat, në vlerën 10 për qind, të depozitohet në njërën nga bankat e nivelit të dytë, në emër të ankuesve “Vrioni dhe të tjerë”. Kjo shumë të konvertohet në lekë, sipas kursit të këmbimit të bankës, ku është depozituar shuma, në datën e çeljes së kësaj llogarie.

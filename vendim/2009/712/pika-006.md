@@ -1,0 +1,1 @@
+6. Pagesa e tatimit mbi të ardhurat, në favor të personave të përmendur në pikën 5 të këtij vendimi, të depozitohet në bankën e nivelit të dytë, ku është depozituar shuma përkatëse e dëmshpërblimit, dhe të konvertohet në lekë, sipas kursit të këmbimit të bankës ku është depozituar shuma, në datën kur do të çelet llogaria.

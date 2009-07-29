@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 24.3.2009, për çështjen nr.2141/03 “Vrioni dhe të tjerë kundër Shqipërisë”, në vlerën 450 000 (katërqind e pesëdhjetë mijë) euro. Tatimi mbi të ardhurat, në vlerën 10 për qind të kësaj shume, paguhet nga shteti.
