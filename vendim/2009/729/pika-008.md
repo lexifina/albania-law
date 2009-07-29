@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Rrugëve, brenda afateve të përcaktuara në pikën 6 të këtij vendimi, të bëjë likuidimin e pronarëve të përmendur në listën, që i bashkëlidhet këtij vendimi, në përputhje me dokumentacionin e pronësisë, që do t’i vihet në dispozicion nga pronarët.
