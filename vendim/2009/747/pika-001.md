@@ -1,0 +1,1 @@
+1. Kalimin e së drejtës së pronësisë së pasurisë së paluajtshme, me nr.74, (zona kadastrale 2679, Mëzez, Kashar, Tiranë) me sipërfaqe 1550 (njëmijë e pesëqind e pesëdhjetë) m2, të regjistruar në ZRVPP-në, Tiranë, në favor të subjektit kërkues “MANE TCI”, sh.p.k.
