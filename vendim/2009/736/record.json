@@ -1,0 +1,26 @@
+{
+  "qbz_id": 60030,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.808, DATË 4.12.2003 TË KËSHILLIT TË MINISTRAVE “PËR DHËNIEN E LEJEVE TË MANOVRIMIT PËRDORUESVE TË MAKINERIVE TË RËNDA TË NDËRTIMIT”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "736",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2009-07-01",
+  "published": "2009-07-31",
+  "in_force": "2009-07-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/bf0a8389cc7b6047a1da78448a39ec83fde5b121ab13e9f71f236f9d59b1f740.docx",
+  "source_sha256": "bf0a8389cc7b6047a1da78448a39ec83fde5b121ab13e9f71f236f9d59b1f740",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60030",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/07/01/736",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
