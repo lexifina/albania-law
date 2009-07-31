@@ -1,0 +1,1 @@
+2. Procedurat për mënyrën e kryerjes së pagesës, si dhe për lidhjen e kontratës për sipërfaqet e hequra nga fondi pyjor dhe kullosor, që do të përdoren sipas pikës 1 të këtij vendimi, përcaktohen me udhëzim të përbashkët të Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës.
