@@ -1,0 +1,3 @@
+Paragrafi i parë, i shkronjës “a” të pikës 2 të vendimit nr.255, datë 27.4.2007 të Këshillit të Ministrave, të ndryshuar, ndryshohet, si më poshtë vijon:
+“a) studentët, që ndjekin studimet e doktoratës, jashtë shtetit, pasi kanë përfunduar ciklin e parë e të dytë të studimeve universitare brenda vendit, me notë mesatare mbi 9, për shkencat natyrore, inxhinierike e të jetës, dhe mbi 9.5, për shkencat ekonomike e shoqërore, ose, përkatësisht, mbi 8, për shkencat natyrore, inxhinierike e të jetës, dhe mbi 8.5, për shkencat ekonomike e shoqërore, për studimet e kryera jashtë shtetit në secilin cikël studimi, si dhe shkencëtarët e rinj, pasi kanë përfunduar studimet e doktoratës, me vlerësim maksimal, kur:”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
