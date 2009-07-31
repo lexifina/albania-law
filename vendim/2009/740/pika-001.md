@@ -1,0 +1,1 @@
+1. Kompensimin në të holla të subjektit të shpronësuar, ambasada franceze në Republikën e Shqipërisë, për sipërfaqen e njohur 557,75 (pesëqind e pesëdhjetë e shtatë presje shtatëdhjetë e pesë) m2, në vlerën 17 332 500 (shtatëmbëdhjetë milionë e treqind e tridhjetë e dy mijë e pesëqind) lekë.
