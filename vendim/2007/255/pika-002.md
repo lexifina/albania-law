@@ -1,5 +1,5 @@
 2. Të drejtën, për t’u mbështetur financiarisht, sipas pikës 1 të këtij vendimi, e kanë:
-a) studentët që ndjekin, jashtë shtetit, studimet e doktoratës, pasi kanë përfunduar ciklin e parë dhe të dytë të studimeve universitare, me notë mesatare mbi 9.5, për studime të kryera brenda shtetit, ose, përkatësisht, mbi 8.5 për studime të kryera jashtë shtetit, në secilin cikël studimi, si dhe shkencëtarët e rinj, pasi kanë përfunduar studimet e doktoratës me vlerësim maksimal kur:
+a) studentët, që ndjekin studimet e doktoratës, jashtë shtetit, pasi kanë përfunduar ciklin e parë e të dytë të studimeve universitare brenda vendit, me notë mesatare mbi 9, për shkencat natyrore, inxhinierike e të jetës, dhe mbi 9.5, për shkencat ekonomike e shoqërore, ose, përkatësisht, mbi 8, për shkencat natyrore, inxhinierike e të jetës, dhe mbi 8.5, për shkencat ekonomike e shoqërore, për studimet e kryera jashtë shtetit në secilin cikël studimi, si dhe shkencëtarët e rinj, pasi kanë përfunduar studimet e doktoratës, me vlerësim maksimal, kur:
 i) janë pranuar në një universitet të huaj, për studimet e doktoratës apo postdoktoratës;
 ii) kanë përgatitur një projekt për kërkim gjatë studimeve të doktoratës apo postdoktoratës jashtë shtetit;
 iii) pranojnë të punojnë, së paku 5 vjet në Shqipëri, pas përfundimit të studimeve të doktoratës apo postdoktoratës jashtë shtetit;
