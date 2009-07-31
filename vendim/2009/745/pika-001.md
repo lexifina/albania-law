@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues, për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës “BOT” (ndërtim, operim dhe transferim), të kaskadës së hidrocentraleve në lumin “Zalli i Tarit” është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
