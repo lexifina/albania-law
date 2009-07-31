@@ -1,1 +1,1 @@
-4. Kurset teorike e praktike për përgatitjen e manovruesve të makinerive të rënda të ndërtimit të zhvillohen nga subjektet juridike që kanë në përdorim këto makineri, me autorizim të Ministrit të Rregullimit të Territorit dhe të Turizmit.
+4. Kurset teorike e praktike, për përgatitjen e manovratorëve të makinerive të rënda të ndërtimit të zhvillohen nga subjektet juridike private, që plotësojnë kushtet e parashikuara në rregulloren e përmendur në shkronjën “b” të pikës 3 të këtij vendimi.
