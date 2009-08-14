@@ -1,0 +1,1 @@
+9. Kur subjekti përmbush kushtet për marrjen e autorizimit, pas miratimit nga Ministri i Financave, një kopje e tij i jepet subjektit, një kopje i përcillet njësisë së mbikëqyrjes së lojërave të fatit (NJMLF) dhe një kopje drejtorisë rajonale tatimore, ku është i regjistruar.

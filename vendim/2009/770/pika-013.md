@@ -1,0 +1,1 @@
+13. Në rast se organizatori e kryen ndarjen e çmimeve pa njoftuar drejtoritë përkatëse, subjektit i hiqet e drejta për autorizim, për një periudhë 3-vjeçare, pas përfundimit të afatit të autorizimit të lëshuar, dhe organet tatimore kryejnë rivlerësimin e situatës së tij financiare, sipas ligjit nr.9920, datë 19.5.2008 “Për procedurat tatimore në Republikën e Shqipërisë”.

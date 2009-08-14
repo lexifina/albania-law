@@ -1,0 +1,1 @@
+14. Organizatori i lojës duhet të mbajë, për një periudhë jo më pak se 6 vjet, të gjithë dokumentacionin për lojën promocionale të fatit (mënyrën e zhvillimit, numrin e pjesëmarrësve, çmimet e shpërndara, emrat dhe adresat e fituesve etj.).

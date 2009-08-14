@@ -1,0 +1,1 @@
+7. Kohëzgjatja e lojës promocionale përcaktohet me autorizim, bazuar në kërkesën e organizatorit të lojës dhe në gjykimin objektiv të autoritetit, që merr në shqyrtim dokumentacionin, në varësi të llojit dhe formës së lojës, që do të organizohet.

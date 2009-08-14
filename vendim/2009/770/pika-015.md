@@ -1,0 +1,1 @@
+15. Ministri i Financave, me udhëzim, përcakton hollësisht procedurat, që duhet të ndjekë autoriteti, i cili do të merret me shqyrtimin e dokumentacionit të subjekteve, aplikues e për autorizim, si dhe mënyrën e kontrollit, që do të ushtrohet nga organet tatimore dhe Njësia e Mbikëqyrjes së Lojërave të Fatit, në zbatim të dispozitave të këtij vendimi.

@@ -1,0 +1,1 @@
+12. Titullarët e organeve përkatëse pajisin me autorizim personat e caktuar prej tyre, për të asistuar në ndarjen e çmimeve. Mosparaqitja e tyre, në rastin kur është depozituar kërkesa nga subjekti organizues i lojës, i ngarkon me përgjegjësi administrative.
