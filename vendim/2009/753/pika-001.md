@@ -1,0 +1,1 @@
+1. Kalimin në pronësi, nga “Albpetrol”, sh.a., bashkisë Patos, të ndërtesës së ish-Institutit Teknologjik të Naftës dhe Gazit (ITNG), me vendndodhje në qytetin e Patosit, sipas genplanit dhe fletinventarit, që i bashkëlidhen këtij vendimi.

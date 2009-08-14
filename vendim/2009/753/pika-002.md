@@ -1,0 +1,1 @@
+2. Në listën, që i bashkëlidhet vendimit nr.813, datë 29.11.2007 të Këshillit të Ministrave, pas numrit 210 shtohet numri 211, me këtë emërtim “Ndërtesa e ish-Institutit Teknologjik të Naftës e Gazit (ITNG), me vendndodhje në Patos.”.
