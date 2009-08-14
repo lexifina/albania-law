@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të pronës nr.265 “Ish-shtëpia e ushtarakëve”, Elbasan, nga Ministria e Mbrojtjes te Ministria e Arsimit dhe Shkencës, për universitetin “Aleksandër Xhuvani”, Elbasan.
