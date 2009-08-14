@@ -1,0 +1,1 @@
+1. Kalimin e përgjegjësisë së administrimit, nga Ministria e Mbrojtjes Ministrisë së Brendshme, të sipërfaqes 600 (gjashtëqind) m2, pjesë e pronës nr.837 “Shtabi i brigadës së këmbësorisë”, Fier, për t’u përdorur nga komisariati i policisë, Fier.
