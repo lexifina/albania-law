@@ -1,0 +1,5 @@
+VENDIM
+Nr.758, datë 8.7.2009
+PËR MIRATIMIN, NË PARIM, TË MARRËVESHJES, NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË REPUBLIKËS SË KOSOVËS, PËR RIPRANIMIN E PERSONAVE
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 5 e 7 të ligjit nr.8371, datë 9.7.1998 “Për lidhjen e traktateve dhe marrëveshjeve ndërkombëtare”, me propozimin e Ministrit të Brendshëm, Këshilli i Ministrave
+VENDOSI:
