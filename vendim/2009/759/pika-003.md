@@ -1,0 +1,1 @@
+3. Kur oficeri i kontaktit shtrohet për kurim në institucionet shëndetësore të shtetit, ku kryen detyrën ose në ndonjë shtet tjetër, ai vazhdon ta përfitojë pagesën përkatëse dhe trajtimin financiar, të dhënë për përkujdesjen ndaj familjes së tij.
