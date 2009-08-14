@@ -1,0 +1,2 @@
+4. Pika e hyrjes në territorin e Republikës së Shqipërisë për automjetet dhe trupat ushtarake italiane, që do të kalojë në datën 19 korrik 2009, është pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes është pika e kalimit të kufirit Porti i Durrësit.
+Pika e hyrjes në territorin e Republikës së Shqipërisë për automjetet dhe trupat ushtarake italiane, që do të kalojë në datat 21 e 24 korrik 2009, është pika e kalimit të kufirit Porti i Durrësit dhe pika e daljes është pika e kalimit të kufirit Qafë-Thanë.
