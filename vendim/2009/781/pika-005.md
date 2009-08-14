@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, 14 170 000 (katërmbëdhjetë milionë e njëqind e shtatëdhjetë) mijë lekë, të përballohet nga buxheti i vitit 2009, miratuar për Ministrinë e Arsimit dhe Shkencës.
