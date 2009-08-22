@@ -1,1 +1,1 @@
-2. Lejimin e ARMO, sha-së, t’ua shesë produktin e vet gazoil (diezel), që në nomenklaturën e mallrave përshkruhet në kodin 27101945 dhe që plotëson kërkesat e standardit S SH 31:1997 ose të standardeve të tjera, të barazvlefshme me të, vetëm subjekteve, që ushtrojnë veprimtarinë e tregtimit me shumicë të naftës, gazit dhe nënprodukteve të tyre, të pajisura me “leje tregtimi të llojit A”, sipas legjislacionit në fuqi.
+2. Shfuqizuar.

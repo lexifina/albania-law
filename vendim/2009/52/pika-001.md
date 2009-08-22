@@ -1,1 +1,1 @@
-1.Lejimin e përdorimit në territorin e Republikës së Shqipërisë deri më 31 dhjetor 2009 të lëndës djegëse gazoil (diezel), për automjetet rrugore dhe gjeneratorë, e cila në nomenklaturën e mallrave, përshkruhet në kodin 27101945 dhe plotëson kërkesat e standardit S SH 31:1997 ose të standardeve të tjera, të barazvlefshme me të, vetëm për lëndën, që prodhohet në rafineritë e vendit nga rafinimi i naftës bruto, të nxjerrë nga vendburimet brenda territorit të Republikës së Shqipërisë.
+1. Shfuqizuar.
