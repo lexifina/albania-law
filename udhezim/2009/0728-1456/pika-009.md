@@ -1,0 +1,1 @@
+9. Në rast se kërkesa miratohet, vendimi miratues, së bashku me arsyetimin ligjor përkatës përcillet në Qendrën Kombëtare të Licencimit, e cila pajis me licencë subjektin ofrues të shërbimeve të përkujdesit rezidencial me kodin X.1.B.

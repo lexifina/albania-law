@@ -1,0 +1,1 @@
+11. Nëse subjekti nuk është dakord me vendimin e marrë nga komisioni i shqyrtimit të kërkesave për licencë, për refuzimin e kërkesës për licencim, ai ka të drejtën e ndjekjes së procedurës së ankimimit sipas nenit 30 të ligjit nr.10081, datë 23.2.2009 brenda 10 ditëve pune nga dita e marrjes së njoftimit për refuzimin e kërkesës.
