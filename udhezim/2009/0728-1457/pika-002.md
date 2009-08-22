@@ -1,0 +1,1 @@
+2. Personi përgjegjës pranë kësaj drejtorie bën regjistrimin e kërkesës dhe të dokumentacionit të ardhur në regjistrin elektronik të krijuar për këtë qëllim dhe e përcjell atë në Shërbimin Kombëtar të Punësimit, brenda 3 ditëve pune nga marrja e tij.

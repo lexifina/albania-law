@@ -1,0 +1,1 @@
+8. Komisioni, pasi bën vlerësimin e dokumentacionit, përgatit propozimin për miratimin/refuzimin e kërkesës për pajisjen me licencë dhe arsyetimin ligjor përkatës, dhe ia paraqet atë Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta, brenda 5 ditëve pune nga momenti i marrjes së praktikës nga Shërbimi Kombëtar i Punësimit.
