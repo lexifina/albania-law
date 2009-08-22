@@ -1,0 +1,1 @@
+1. Shpalljen zonë ekonomike, me status “Park industrial”, të sipërfaqes 9.48 (nëntë pikë dyzet e tetë), ha, në zonën rurale, në Laknas, Tiranë, shtrirja dhe kufizmet e së cilës specifikohen në hartën treguese, që i bashkëlidhet këtij vendimi.
