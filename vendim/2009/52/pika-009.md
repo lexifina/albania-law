@@ -1,1 +1,1 @@
-9. Sasitë e lëndës djegëse gazoil (diezel), që në nomenklaturën e mallrave përshkruhet në kodin 27101945 dhe që plotëson kërkesat e standardit S SH 31:1997, të cilat janë importuar para datës 1 janar 2009 dhe janë gjendje në magazinat doganore apo pikat e depozitimit dhe tregtimit, lejohen të tregtohen.
+9. Shfuqizuar.

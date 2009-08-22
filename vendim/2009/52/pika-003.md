@@ -1,1 +1,1 @@
-3. ARMO, sha-ja, për shkak të pozicionit dominues në treg për produktin gazoil (diezel), që, në nomenklaturën e mallrave, përshkruhet në kodin 27101945 dhe që plotëson kërkesat e standardit S SH 31:1997 ose të standardeve të tjera, të barazvlefshme me të, duhet t’u ofrojë, të gjitha subjekteve tregtare të licencuara, çmime dhe kushte të njëjta e transparente tregtimi.
+3. Shfuqizuar.
