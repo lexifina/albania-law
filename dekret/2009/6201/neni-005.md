@@ -1,0 +1,2 @@
+# Neni 5
+Ky dekret hyn në fuqi më 1 shtator 2009.
