@@ -1,10 +1,14 @@
 Vendim
 
-Nr.659, datë 3.10.2007
+Nr. 659, datë 3.10.2007
 
 Për miratimin e rregullave të prokurimit publik, me mjete elektronike
 
-Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 22 e 75 të ligjit nr.9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar, me propozimin e Zëvendëskryeministrit, Këshilli i Ministrave
+(Ndryshuar me VKM nr. 918, datë 2.9.2009)
+
+(i përditësuar)
+
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 22 e 75 të ligjit nr. 9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar, me propozimin e Zëvendëskryeministrit, Këshilli i Ministrave
 
 Vendosi:
 
@@ -168,7 +172,7 @@ b) Sistemi back up i të dhënave të ruhet në një vend tjetër, jashtë mjedi
 
 c) Kopjimi dhe ruajtja e të dhënave bëhen në fillim të çdo ditë pune, në fund të javës dhe në ditën e fundit të punës së muajit dhe kryhen menjëherë pas hapjes publike të ofertave apo kërkesave.
 
-ç) Paralel me sistemin e back up, pranë Këshillit të Ministrave instalohet edhe një server i tretë, i cili regjistron të gjitha proceset dhe ndërhyrjet në sistemin e prokurimit elektronik. Në të lejohet të ndërhyhet vetëm në rast të ndonjë pretendimi apo për qëllime auditimi, me udhëzim të veçantë dhe me pjesëmarrjen e më shumë se të një zyrtari, siç përcaktohet në pikën 19.
+ç) Paralel me sistemin e back-up-it, në mjediset e Kryeministrisë do të instalohet edhe një server i tretë, i cili do të regjistrojë të gjitha proceset dhe ndërhyrjet në sistemin e prokurimit elektronik. Në server lejohet të ndërhyhet, në përputhje me rregulloren e miratuar nga Kryeministri, vetëm në rast të ndonjë pretendimi apo për qëllime auditimi, në prani të sekretarit të Përgjithshëm të Këshillit të Ministrave dhe, të paktën, të dy zyrtarëve të tjerë, të përmendur në pikën 19.
 
 IV. Dispozita të fundit
 
