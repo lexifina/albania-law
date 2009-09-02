@@ -1,0 +1,1 @@
+1. Zbatimin e planit shumëvjeçar të rimëkëmbjes së tonit të kuq në Mesdhe dhe Atlantikun Lindor të Komisionit Ndërkombëtar për Ruajtjen e Peshkut Ton të Atlantikut (ICCAT), [REC. 08-05], që i bashkëngjitet këtij urdhri dhe është pjesë përbërëse e tij.

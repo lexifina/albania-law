@@ -1,0 +1,1 @@
+3. Inspektorati i peshkimit ku ndodhet porti në të cilin janë të regjistruara anijet shqiptare peshkuese të tonit të kuq, është përgjegjës për zbatimin dhe kontrollin e zbatimit të detyrimeve që dalin nga pikat 13, 19-20, 22 - 24, 27 - 30, 32, 33, 35, 37, 39, 45, 61, 64, 65, 68, 75, 91, 92, 94, të këtij plani.

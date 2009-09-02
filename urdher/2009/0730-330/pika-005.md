@@ -1,0 +1,1 @@
+5. Kapitenët e anijeve shqiptare të peshkimit plotësojnë dhe transmetojnë te inspektorati i peshkimit të portit të tyre të regjistrimit, deklaratën e transbordimit të ICCAT jo më vonë se 48 orë pas datës së transbordimit në port në përputhje dhe me formatin e përcaktuar në shtojcën 3 të Rekomandimit.

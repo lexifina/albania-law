@@ -1,0 +1,1 @@
+2. Drejtoria e Politikave të Peshkimit është përgjegjëse për zbatimin e detyrimeve të lindura nga pikat 8 - 12, 18, 21, 26, 31, 34, 36, 38, 40, 41, 46, 47, 49, 55, 56, 58 - 60, 62, 66, 69, 70, 73, 76, 82 - 88, 91 - 94, 96, 97, 100, 101, të këtij plani.
