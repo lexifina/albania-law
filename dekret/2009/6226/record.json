@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17530,
+  "title": "PËR THIRRJEN E KUVENDIT TË REPUBLIKËS SË SHQIPËRISË",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "6226",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2009-08-31",
+  "published": "2009-09-02",
+  "in_force": "2009-09-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d8816c0cbbec942b6d50c35583909cc7eb4debd5c865753fdd682c69729ee173.docx",
+  "source_sha256": "d8816c0cbbec942b6d50c35583909cc7eb4debd5c865753fdd682c69729ee173",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17530",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2009/08/31/6226",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
