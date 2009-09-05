@@ -1,0 +1,1 @@
+4. Të dhënat e përcaktuara në pikat 1 e 3 të nenit 43 të ligjit “Për mbrojtjen e konsumatorëve” dhe në pikën 3 të këtij vendimi, do të përfshihen tërësisht në kontratën për blerjen e së drejtës së përdorimit me afat të pasurisë së paluajtshme dhe do të hartohen në formën e një dokumenti, në gjuhën shqipe.

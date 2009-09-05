@@ -1,0 +1,1 @@
+2. Për qëllime të këtij vendimi, pasuri e paluajtshme është çdo ndërtesë ose pjesë ndërtese, që është trupëzuar, në mënyrë të qëndrueshme e të vazhdueshme, me tokën ose ndërtesën, e drejta e përdorimit e së cilës për akomodim është objekt i lidhjes së kontratës.

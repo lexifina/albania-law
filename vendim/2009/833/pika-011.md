@@ -1,0 +1,1 @@
+11. Kur tregtari, brenda një periudhe tremujore, siguron të dhënat e përcaktuara në pikën 10 të këtij vendimi, konsumatori ka të drejtën e heqjes dorë nga kontrata, brenda një periudhe prej 14 ditësh kalendarike, duke filluar nga data kur është siguruar kjo e dhënë, pa asnjë shpenzim dhe/ose penalizim.

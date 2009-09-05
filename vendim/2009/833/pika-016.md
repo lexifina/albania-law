@@ -1,0 +1,1 @@
+16. Çdo marrëveshje dhe/ose çdo kusht kontraktual, ndërmjet konsumatorit dhe tregtarit, që është në kundërshtim me dispozitat e neneve 42 e 43 të ligjit “Për mbrojtjen e konsumatorëve” dhe të këtij vendimi, dhe në dëm të interesave të konsumatorit, ose që redukton përgjegjësinë e tregtarit, të parashikuar në këtë vendim, vlerësohet e pavlefshme dhe shfuqizohet.

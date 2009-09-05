@@ -1,0 +1,1 @@
+17. Nëse pasuria e paluajtshme ndodhet në një shtet të huaj, ndërkohë që konsumatori është rezident në Republikën e Shqipërisë, ai nuk privohet nga mbrojtja, që i jep ligji “Për mbrojtjen e konsumatorëve” dhe ky vendim, pavarësisht nga ligjet e zbatueshme për kontratën, nëse kontrata lidhet në vendin e rezidencës së konsumatorit.
