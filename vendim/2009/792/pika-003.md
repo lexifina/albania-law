@@ -1,0 +1,1 @@
+3. Bashkëpronarët, e përmendur në listën, që i bashkëlidhet këtij vendimi, të shpronësohen për pasurinë e paluajtshme, objekti “Poligon”, Memaliaj, me vlerë të përgjithshme shpronësimi 8 005 031 (tetë milionë e pesë mijë e tridhjetë e një) lekë, në vlerën përkatëse, sipas pjesës së regjistruar në zyrën e regjistrimit të pasurive të paluajtshme, Tepelenë.

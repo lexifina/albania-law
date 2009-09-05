@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e bashkëpronarëve, në bazë të dokumentacionit të plotë të pronësisë, që do të paraqitet prej tyre, si dhe në bazë të konfirmimit, që do të kërkohet nga kjo drejtori pranë zyrës së regjistrimit të pasurive të paluajtshme, Tepelenë.

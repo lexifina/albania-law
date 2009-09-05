@@ -1,0 +1,1 @@
+6. Bashkëpronarët e objektit “Poligon”, Memaliaj, të kompensohen, për efekt shpronësimi, sipas pjesëve përkatëse, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë, pranë Drejtorisë së Përgjithshme të Rrugëve.
