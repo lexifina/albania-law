@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Shijak të qarkut të Durrësit, që transferohen, në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 24 (njëzet e katër) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 105 (njëqind e pesë).
