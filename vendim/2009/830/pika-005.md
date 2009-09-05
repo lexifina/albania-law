@@ -1,0 +1,1 @@
+5. Ngarkohet “Shkolla e lartë private e edukimit”, që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, nga personel akademik i huaj, me kualifikimin e nevojshëm.

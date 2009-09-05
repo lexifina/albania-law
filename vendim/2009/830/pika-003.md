@@ -1,0 +1,1 @@
+3. “Shkolla e lartë private e edukimit” do të ofrojë programin e studimit të ciklit të dytë, me kohëzgjatje 2 vite akademike, me plotësimin, së paku, të 120 krediteve. Në përfundim të këtij programi studimi lëshohet diplomë e nivelit të dytë (DND), në “Shkencat e edukimit”.
