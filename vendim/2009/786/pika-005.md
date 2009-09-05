@@ -1,0 +1,1 @@
+5. Efekti financiar për ngritjen dhe funksionimin e stacionit të PMNZSH-së, përcaktuar në pikën 1 të këtij vendimi arrin vlerën 10 612 000 (dhjetë milionë e gjashtëqind e dymbëdhjetë mijë) lekë, për shpenzime personeli.

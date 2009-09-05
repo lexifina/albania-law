@@ -1,0 +1,1 @@
+3. Plotësimi me personel shërbimi i këtij stacioni të bëhet nga prefekti i qarkut, me propozimin e shefit të stacionit të PMNZSH-së së objektit, në përputhje me kriteret e përcaktuara në ligjin nr.8766, datë 5.4.2001 “Për mbrojtjen nga zjarri dhe për shpëtimin” dhe me aktet e tjera nënligjore, dalë në zbatim të tij.

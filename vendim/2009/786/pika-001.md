@@ -1,0 +1,1 @@
+1. Në tunelin Thirrë-Kalimash, në anën, që lidhet me qytetin e Kukësit, të ngrihet stacioni i policisë së mbrojtjes nga zjarri dhe shpëtimit, si pjesë e sistemit të Drejtorisë së Policisë së Mbrojtjes nga Zjarri dhe Shpëtimit (PMNZSH).
