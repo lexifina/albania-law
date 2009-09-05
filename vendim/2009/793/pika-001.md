@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit, nga Universiteti i Tiranës Qendrës së Studimeve Albanologjike, të objektit “Palestër sportive” të Universitetit të Tiranës (UT), së bashku me mjediset e tjera ndihmëse, truallin e ndërtesës dhe oborrin e rrethuar, sipas genplanit dhe planimetrisë, që i bashkëlidhen këtij vendimi.
