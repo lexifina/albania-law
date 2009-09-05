@@ -1,0 +1,1 @@
+3. Ngarkohet shkolla e lartë universitare, private, “Aldent”, që, për këtë program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga një personel akademik i huaj, me kualifikimet e nevojshme.
