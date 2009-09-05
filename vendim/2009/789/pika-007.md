@@ -1,0 +1,1 @@
+7. Të gjitha masat e këtij vendimi, që lidhen me procedurën e njoftimit, do të zbatohen edhe për çdo ndryshim ose përmirësim thelbësor të standardeve, rregullave teknike apo procedurave të vlerësimit të konformitetit, me ndikim në tregti, për afatin e adoptimit dhe të zbatimit të tyre, si dhe për radhën e produkteve, për të cilat do të zbatohet.

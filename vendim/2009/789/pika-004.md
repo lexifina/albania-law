@@ -1,0 +1,1 @@
+4. Në rastin e një kërkese të tillë, DPS-ja njofton sekretariatin e OBT-së për masat që po përgatiten, si dhe organin, që ka bërë kërkesën për njoftim, se nuk duhet të adoptojë masat në fjalë 60 ditë pas ditës, që sekretariati i Organizatës Botërore të Tregtisë, në Gjenevë, ka bërë njoftimin.
