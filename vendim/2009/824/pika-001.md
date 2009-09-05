@@ -1,0 +1,1 @@
+1. Organizatave jofitimprurëse, që kryejnë fushata sensibilizuese për promovimin e dhurimit vullnetar, pa pagesë, të gjakut, t’u financohen shpenzimet e promocionit, për dhurim, në masën 1 700 (një mijë e shtatëqind) lekë, sipas marrëveshjeve përkatëse me Ministrinë e Shëndetësisë.
