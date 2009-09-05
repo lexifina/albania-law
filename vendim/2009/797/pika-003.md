@@ -1,0 +1,1 @@
+3. Ngarkohen kolegjet profesionale, private, “Medicom”, që, për programet e studimit, të sigurojnë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga një personel akademik i huaj, me kualifikimin e nevojshëm.
