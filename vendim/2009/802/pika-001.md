@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e Drejtësisë të Universitetit të Tiranës, të programit të përbashkët rajonal të studimit “Master në “EU Business Law”” (Master në të Drejtën e Biznesit të BE-së), i cili, sipas marrëveshjes së lidhur ndërmjet palëve, do të zhvillohet edhe në disa vende të rajonit.

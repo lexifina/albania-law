@@ -1,0 +1,2 @@
+3. Në këtë program studimi do të pranohen kandidatët, që kanë fituar diplomë në përfundim të një programi studimi, të ciklit të parë, me kohëzgjatje normale 4 vjet, me 240 kredite, sipas sistemit të Bolonjës, ose që zotërojnë një diplomë tjetër, ekuivalente me të, të kryer jashtë vendit.
+Gjithashtu, në këtë program studimi mund të pranohen edhe kandidatë, që zotërojnë diplomë të nivelit të dytë, diplomë të integruar të nivelit të dytë ose diplomë tjetër, të fituar jashtë vendit, ekuivalente me to, të cilët kërkojnë të kualifikohen në këtë drejtim.

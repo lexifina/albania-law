@@ -1,0 +1,1 @@
+2. Programi i studimit do të jetë pjesë e studimeve të ciklit të dytë (i përkon nivelit 7, në KEK). Ai do të organizohet me 60 kredite dhe kohëzgjatje normale një vit, përfshirë edhe mikrotezën, dhe në përfundim të studimeve lëshohet një diplomë “Master në “EU Business Law””.
