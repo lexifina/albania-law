@@ -1,0 +1,1 @@
+1. Pasqyra nr.1, që i bashkëlidhet vendimit, ku përcaktoheshin pasuritë, pronarët dhe sipërfaqet, sipas numrave rendorë, zëvendësohet me pasqyrën nr.2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

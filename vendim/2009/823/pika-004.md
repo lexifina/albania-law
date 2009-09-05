@@ -1,0 +1,1 @@
+4. Pronarët e pasurive të paluajtshme të kompensohen, për efekt shpronësimi, në masat respektive, të përcaktuara në pasqyrën nr.2, që i bashkëlidhet këtij vendimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
