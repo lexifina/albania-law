@@ -1,0 +1,1 @@
+4. Hapjen në qytetin e Kukësit, të filialit të këtij universiteti, të Fakulteteve të Drejtësisë, të Shkencave Politike, të Infermierisë dhe të Administrim-biznesit, si pjesë përbërëse e shkollës së lartë universitare, private, “Kristal”, Tiranë.

@@ -1,0 +1,1 @@
+2. Kohëzgjatja normale e programit të studimit, të ciklit të parë, të jetë 3 (tri) vite akademike, me plotësimin, së paku, të 180 krediteve. Në përfundim të këtij programi studimi lëshohet diplomë e nivelit të parë (DNP) në “Mësuesi për arsim fillor”.
