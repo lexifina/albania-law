@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e Inxhinierisë Elektrike të Universitetit Politeknik të Tiranës, të programit të studimeve, të ciklit të tretë, “Master i nivelit të dytë”, në “Automatikë dhe teknologjitë e kontrollit”, në përfundim të të cilit lëshohet diplomë “Master i nivelit të dytë” (MND), në automatikë dhe teknologjitë e kontrollit.
