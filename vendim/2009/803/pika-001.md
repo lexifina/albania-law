@@ -1,0 +1,1 @@
+1. Hapjen e programit të studimeve, të ciklit të tretë, të doktoratës në matematikë, në Fakultetin e Shkencave Teknike të universitetit “Ismail Qemali” të Vlorës, në përfundim të të cilit lëshohet diploma për gradën shkencore “Doktor”.
