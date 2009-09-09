@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17569,
+  "title": "PËR ZGJEDHJEN E KRYETARIT TË KUVENDIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2009-09-08",
+  "published": "2009-09-09",
+  "in_force": "2009-09-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7b2ea86e1e41c12661bdf4358841759c61b950c50adb779b5b5e5a88494a8e9b.docx",
+  "source_sha256": "7b2ea86e1e41c12661bdf4358841759c61b950c50adb779b5b5e5a88494a8e9b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17569",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/09/08/1",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
