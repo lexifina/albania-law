@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 8 për qind të pikëve për rezultatin ekonomik, financiar, teknik dhe mjedisor, në procedurën përzgjedhëse, konkurruese (propozim i pakërkuar), që i jepet shoqërisë “Zumax AG”.

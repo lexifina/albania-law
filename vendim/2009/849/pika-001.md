@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien e statusit të zhvilluesit të zonës ekonomike, me statusin e zonës së lirë, të një territori në Vlorë, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
