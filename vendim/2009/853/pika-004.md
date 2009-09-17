@@ -1,0 +1,1 @@
+4. Shuma e përcaktuar në pikën 1 të këtij vendimi, të depozitohet në njërën nga bankat e nivelit të dytë, në emër të ankuesit, z. Arben Grori, dhe të konvertohet në lekë, sipas kursit të këmbimit të bankës, ku është depozituar shuma, në datën e çeljes së llogarisë.

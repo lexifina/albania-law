@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, të datës 7.7.2009, për çështjen nr.25336/04, “Grori kundër Shqipërisë”, në shumën 15 000 (pesëmbëdhjetë mijë) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
