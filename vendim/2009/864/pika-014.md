@@ -1,0 +1,1 @@
+14. Kandidatët, që dëshirojnë të vijojnë studimet në një program të dytë studimi, e fitojnë këtë të drejtë, brenda numrit të kuotës së përcaktuar nga Ministria e Arsimit dhe Shkencës, sipas kritereve të përcaktuara nga vetë institucionet publike të arsimit të lartë për pranimet në një program të dytë studimi dhe pa iu nënshtruar detyrimeve të “Maturës Shtetërore”.

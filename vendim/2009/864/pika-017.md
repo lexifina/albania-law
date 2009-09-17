@@ -1,0 +1,1 @@
+17. Shtetasit e huaj, që do të vazhdojnë studimet në institucionet publike të arsimit të lartë, i nënshtrohen të njëjtës tarifë shkollimi, si shtetasit shqiptarë, me përjashtim të rasteve kur, me marrëveshje zyrtare shtetërore, janë vendosur mënyra të tjera të përcaktimit të tarifave të shkollimit.

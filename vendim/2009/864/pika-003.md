@@ -1,0 +1,1 @@
+3. Kuotat e pranimeve të reja në programet e studimit të ciklit të parë, me kohë të plotë, ndahet, sipas shkronjës “a’ të pikës 2 të këtij vendimi, ndërmjet institucioneve publike të arsimit të lartë. Këto kuota pranimi, të ndara sipas programeve të studimit dhe institucioneve publike të arsimit të lartë, janë pasqyruar në tabelën nr.1, që i bashkëlidhet këtij vendimi.
