@@ -1,0 +1,1 @@
+6. Programet e studimit të ciklit të parë, në filialin e Shkollës së Lartë Profesionale, përcaktuar në shkronjat “b” e “c”, të pikës 4, realizohen me 120 kredite ECTS dhe kohëzgjatja normale e tyre është dy vite akademike.

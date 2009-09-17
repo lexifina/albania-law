@@ -1,0 +1,1 @@
+5. Programet e studimit të ciklit të parë, në filialet e Fakultetit të Ekonomisë e të Administrimit dhe të Edukimit, në qytetin e Peshkopisë, përcaktuar në pikat 2, 3 e 4, shkronja “a”, realizohen me 180 kredite ECTS dhe kohëzgjatja normale e tyre është tri vite akademike.
