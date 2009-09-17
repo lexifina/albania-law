@@ -1,0 +1,2 @@
+# Neni 3
+Ushtarakët, që do të marrin pjesë, për ditët e qëndrimit në këtë mision, veç pagës mujore, do të marrin, për vështirësi shërbimi, edhe një shpërblim ditor, të njëjtë me atë të ushtarakëve, që dërgohen në mision, në përputhje me ligjin nr.8932, datë 26.7.2002 “Për dërgimin e një force ushtarake shqiptare në Afganistan, në kuadër të koalicionit ndërkombëtar kundër terrorizmit”, të ndryshuar.
