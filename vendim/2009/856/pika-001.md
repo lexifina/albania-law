@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e mësuesisë, të universitetit “Fan S. Noli”, të Korçës, të programit të studimit në “Gjuhë-letërsi shqipe dhe frënge”, në përfundim të të cilit lëshohet “Diplomë e nivelit të parë” DND, në “Gjuhë-letërsi shqipe dhe frënge”.
