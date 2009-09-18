@@ -1,0 +1,1 @@
+2. Programi i studimit “Master i nivelit të parë“ do të jetë program studimi i ciklit të dytë, në plotësimin e, të paktën, 60 krediteve. Në mbarim të tij lëshohet diplomë “Master i nivelit të parë“ (MNP), në “Menaxhim për funksionet e koordinimit”.

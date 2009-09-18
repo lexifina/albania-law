@@ -1,0 +1,1 @@
+5. Ngarkohet shkolla e lartë universitare, private “Zoja e Këshillit të Mirë”, që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, nga një personel akademik i huaj, me kualifikimin e nevojshëm.

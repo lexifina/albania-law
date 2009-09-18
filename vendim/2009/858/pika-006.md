@@ -1,0 +1,2 @@
+6. Shkolla e lartë universitare, private “Zoja e Këshillit të Mirë” do ta fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikat 1 e 3 të këtij vendimi, pasi të ketë marrë, jo më vonë se dy javë para fillimit të vitit akademik, lejen përkatëse, nga Ministri i Arsimit dhe Shkencës.
+Ministri e lëshon lejen pasi vlerëson se institucioni mësimor ka përmbushur angazhimet e deklaruara, në përputhje me udhëzimin e tij për këtë qëllim.
