@@ -1,0 +1,1 @@
+5. Ministri i Financave publikon 1 javë rresht, në faqen zyrtare të internetit të institucionit dhe në dy gazeta me tirazh më të lartë, njoftimin për fillimin e procedurave të përzgjedhjes së anëtarëve të bordit, kriteret, që duhet të përmbushen nga secili kandidat, vendin, si dhe afatin e dorëzimit të dokumentacionit, të kërkuar sipas këtij vendimi.

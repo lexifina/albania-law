@@ -1,0 +1,2 @@
+Ngritjen e bordit të mbikëqyrjes publike (në vijim thjesht “bordi”), si strukturë përgjegjëse për mbikëqyrjen e profesionit të ekspertëve kontabël, të regjistruar, të shoqërive audituese dhe kontabilistit të miratuar, sipas qëllimit dhe mënyrave, të parashikuara në ligjin nr.10091, datë 5.3.2009 “Për auditimin ligjor, organizimin e profesionit të ekspertit kontabël të regjistruar dhe të kontabilistit të miratuar”.
+I. STRUKTURA DHE PËRBËRJA

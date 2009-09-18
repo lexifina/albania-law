@@ -1,0 +1,1 @@
+14. Ministri, në rastet kur shkarkohet, dorëhiqet apo vdes një anëtar bordi, duhet të caktojë zëvendësuesin e tij brenda një afati prej 30 ditësh, duke filluar nga data e njoftimit të shkarkimit, dorëheqjes apo vdekjes, në përputhje me procedurat e përzgjedhjes, të parashikuara në këtë kre.
