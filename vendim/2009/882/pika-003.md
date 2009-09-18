@@ -1,0 +1,1 @@
+3. Vlera e këtyre sipërfaqeve pyjore dhe kullosore të paguhet nga OST, sh.a., sipas lidhjes nr.4, që i bashkëlidhet vendimit nr.391, datë 21.6.2006 të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”.
