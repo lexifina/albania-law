@@ -1,0 +1,1 @@
+3. Për autorizimet e lëshuara nga Sekretari i Përgjithshëm deri në miratimin e këtij urdhri të ri, të cilat janë përdorur ose përdoren për përfaqësim në proceset gjyqësore, efektet e urdhrit nr.1723, datë 15.11.2007 “Për delegim kompetence”, do të shtrihen edhe pas miratimit të këtij urdhri të ri.
