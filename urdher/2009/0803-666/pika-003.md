@@ -1,0 +1,1 @@
+3. Strukturat përgjegjëse për sektorin hidrokarbur në ministri, mund të kërkojnë marrjen e opinionit dhe vlerësimit të Sekretariatit të Komunitetit të Energjisë për propozimin e paraqitur nga subjekti i interesuar, lidhur me rregullat teknike dhe kriteret e sigurisë që do të zbatojë ky subjekt gjatë projektimit teknik, ndërtimit dhe operimit të sistemeve të gazit natyror.

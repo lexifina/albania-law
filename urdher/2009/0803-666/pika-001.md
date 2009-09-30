@@ -1,0 +1,1 @@
+1. Për operimin e sigurt të sistemeve të gazit natyror, kërkesat minimale të projektimit teknik, ndërtimit dhe operimit të sistemeve të transmetimit e të shpërndarjes së gazit natyror, të instalimeve të GNL-së, të hapësirave të depozitimit dhe të linjave direkte, do të bazohen në rregullat dhe kriteret e sigurisë që janë në fuqi në Itali dhe/ose Greqi.

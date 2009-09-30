@@ -1,0 +1,1 @@
+4. Rregullat dhe kriteret e sigurisë të përcaktuara në pikën 1 të këtij urdhri do të zbatohen deri në miratimin e rregullave teknike dhe kritereve të sigurisë nga Këshilli i Ministrave siç parashikohet nga pika 1 e nenit 7 të ligjit nr.9946, datë 30.6.2008 “Për sektorin e gazit natyror”.
