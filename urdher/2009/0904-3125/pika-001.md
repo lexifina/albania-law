@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave dhe procedurave për marrëdhënien e punës, trajnimin, ecurinë në karrierë dhe dhënien e masave disiplinore për punonjësit e Policisë së Burgjeve”, sipas tekstit bashkëlidhur këtij urdhri.
