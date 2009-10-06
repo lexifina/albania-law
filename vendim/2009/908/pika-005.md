@@ -1,0 +1,1 @@
+5. Ngarkohet shkolla e lartë private “Epoka”, Tiranë, që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, nga një person akademik i huaj, me kualifikimin e nevojshëm.
