@@ -1,0 +1,1 @@
+7. Shkolla e lartë private “Universiteti planetar i Tiranës” duhet t’i nënshtrohet procesit të akreditimit institucional dhe të programeve të studimit, brenda afateve të përcaktuara në ligjin në fuqi.
