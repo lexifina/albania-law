@@ -1,0 +1,1 @@
+8. Titullari i QKAE-së lirohet nga detyra për shkaqet dhe sipas procedurave të parashikuara në pikën 1 të nenit 21 të ligjit nr.8549, datë 11.11.1999 “Statusi i nëpunësit civil”. Vendimi për lirimin e titullarit merret nga ministri përgjegjës për ekonominë.

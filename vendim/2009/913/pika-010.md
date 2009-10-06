@@ -1,0 +1,1 @@
+10. Marrëdhëniet e punës të punonjësve të tjerë të QKAE-së që kryejnë detyra të karakterit mbështetës, rregullohen sipas Kodit të Punës dhe dispozitave të tjera, ligjore dhe nënligjore, të dala në mbështetje dhe në zbatim të tij.

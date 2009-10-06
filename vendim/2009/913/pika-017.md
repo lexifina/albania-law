@@ -1,0 +1,1 @@
+17. Deri në datën e hyrjes në fuqi të ndryshimeve të nevojshme ligjore sipas pikës 16 të këtij vendimi, QKAE-ja do të kryejë funksionet e saj, të përcaktuara në këtë vendim, për aq sa kjo lejohet nga legjislacioni në fuqi.

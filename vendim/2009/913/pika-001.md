@@ -1,0 +1,1 @@
+1. Krijimin e Qendrës Kombëtare për Aplikimet Energjetike (në vijim QKAE), si institucion bashkërendues dhe lehtësues, për procedurat e marrjes së lejeve dhe/ose të autorizimeve të nevojshme për ngritjen dhe funksionimin e të gjitha llojeve të projekteve, në fushën e energjisë elektrike.
