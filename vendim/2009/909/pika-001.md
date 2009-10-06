@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e Shkencave të Natyrës, të universitetit “Aleksandër Xhuvani”, Elbasan, të programit të studimit, të ciklit të dytë, matematikë e zbatuar, në përfundim të të cilit lëshohet diplomë e nivelit të dytë, në matematikë e zbatuar.
