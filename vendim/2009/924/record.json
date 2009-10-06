@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17629,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.1672, DATË 24.12.2008, TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN DHE PUBLIKIMIN ZYRTAR TË NOMENKLATURËS SË KOMBINUAR TË MALLRAVE, 2009”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "924",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2009-09-02",
+  "published": "2009-10-06",
+  "in_force": "2009-10-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/95299a60f6b59cf8528820503fba8c15446827ea5c5967cf8333f57576e16d8e.docx",
+  "source_sha256": "95299a60f6b59cf8528820503fba8c15446827ea5c5967cf8333f57576e16d8e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17629",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/09/02/924",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
