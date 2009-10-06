@@ -1,0 +1,1 @@
+6. Shkolla e lartë universitare, private, “Kristal”, Tiranë, duhet t’i nënshtrohet procesit të akreditimit institucional dhe të këtyre programeve të studimit, brenda afateve të përcaktuara në ligjin në fuqi.
