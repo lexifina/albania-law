@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e Inxhinierisë Matematike dhe Inxhinierisë Fizike, të Universitetit Politeknik të Tiranës, të programeve të studimit, të ciklit të dytë, “Inxhinieri matematike” dhe “Inxhinieri fizike”.
