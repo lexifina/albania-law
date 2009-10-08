@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17642,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar në njësinë bashkiake nr.10, tiranë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "6269",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2009-10-02",
+  "published": "2009-10-08",
+  "in_force": "2009-10-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/19416e9ef996b187a96d69335909aa0dcd7dea4e71ebe0cee553f509af848d82.docx",
+  "source_sha256": "19416e9ef996b187a96d69335909aa0dcd7dea4e71ebe0cee553f509af848d82",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17642",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2009/10/02/6269",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
