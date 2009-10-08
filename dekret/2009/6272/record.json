@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17645,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar komune në komunën Fierzë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "6272",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2009-10-02",
+  "published": "2009-10-08",
+  "in_force": "2009-10-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a89e26494a309ef194ebda5cf1a64d6c2431fd822e1489183a8ed4efdc8fa7e8.docx",
+  "source_sha256": "a89e26494a309ef194ebda5cf1a64d6c2431fd822e1489183a8ed4efdc8fa7e8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17645",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2009/10/02/6272",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
