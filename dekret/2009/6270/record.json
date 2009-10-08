@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17643,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar bashkie në bashkinë klos",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "6270",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2009-10-02",
+  "published": "2009-10-08",
+  "in_force": "2009-10-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/940acb7fec21ec9b9d88764e7fd3d1bd78d6806578096061bbb44243ad18b695.docx",
+  "source_sha256": "940acb7fec21ec9b9d88764e7fd3d1bd78d6806578096061bbb44243ad18b695",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17643",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2009/10/02/6270",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
