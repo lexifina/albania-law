@@ -1,1 +1,0 @@
-15. Makineritë dhe pajisjet, që nuk kanë mundur të shiten me vlerat e përcaktuara nga ekspertët vlerësues, publikohen për herë të dytë me 50 për qind të vlerës së përcaktuar në fillim. Në rast se shitja nuk realizohet zbatohen procedurat e nxjerrjes jashtë përdorimit, në përputhje me legjislacionin në fuqi.

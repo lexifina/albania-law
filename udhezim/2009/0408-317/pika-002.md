@@ -1,1 +1,0 @@
-2. Operacionet e likuidimit kryhen nga likuidatori, i cili përfaqëson shoqërinë, dhe ka për objekt mbylljen e llogarive dhe çregjistrimin e shoqërisë, në përputhje me ligjin nr.9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”.

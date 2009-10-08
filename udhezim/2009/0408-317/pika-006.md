@@ -1,1 +1,0 @@
-6. Komisioni i ankandit përbëhet nga jo më pak se 3 veta, të cilët përcaktohen me urdhër të likuidatorit të shoqërisë. Dy të tretat e anëtarëve të komisionit të ankandit caktohen me autorizim të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës.
