@@ -1,0 +1,1 @@
+Në udhëzimin nr.6291, datë 17.8.2005 “Për evidentimin, administrimin dhe ruajtjen e akteve e të dokumenteve noteriale, si dhe për organizimin dhe ruajtjen e arkivave noteriale”, bëhen shtesa dhe ndryshimet si vijon:
