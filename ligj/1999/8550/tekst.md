@@ -4,7 +4,7 @@ Nr. 8550, datë 18.11.1999
 
 STATUSI I DEPUTETIT
 
-(Ndryshuar me ligjin nr. 8988, datë 24.12.2002)
+(Ndryshuar me ligjin nr. 8988, datë 24.12.2002; nr. 10160, datë 15.10.2009)
 
 (i përditësuar)
 
@@ -110,7 +110,7 @@ Gjithashtu, ai gëzon të drejtën e shpërblimit për pjesëmarje në komisione
 
 Neni 14
 
-(Ndryshuar me ligjin nr. 8988, datë 24.12.2002)
+(Ndryshuar me ligjin nr. 8988, datë 24.12.2002; shfuqizuar pika 4 me ligjin nr. 10160, datë 15.10.2009)
 
 1. Deputeti që nuk banon në qytetin e Tiranës përfiton dieta gjatë kohës që merr pjesë në mbledhjet e Kuvendit, të komisioneve e mbledhjet e grupit parlamentar, ndërsa deputetët që banojnë në Tiranë përfitojnë dieta për ditët e shërbimit jashtë Tiranës. Modalitetet e përfitimit të dietave rregullohen me vendim të Kuvendit.
 
@@ -118,7 +118,7 @@ Neni 14
 
 3. Deputeti që shkon me shërbim jashtë shtetit nga Kuvendi përfiton dietë ditore, sipas akteve të miratuara nga Kuvendi. Në rastet kur ai caktohet të marrë pjesë në delegacionet qeveritare ose të institucioneve të tjera, shpenzimet mbulohen nga institucioni që e ka ftuar, duke përfituar dietën sipas akteve të miratuara nga Këshilli i Ministrave.
 
-4. Deputeti ka të drejtë të pajiset me automjete nga Kuvendi. Shpenzimet për transport (shofer, karburant, shërbime teknike) përballohen nga Kuvendi, sipas kuotave të përcaktuara në vendimin e Kuvendit.
+4. Shfuqizuar.
 
 Neni 15
 
