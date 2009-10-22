@@ -1,0 +1,2 @@
+13. Shërbimet e Policisë së Shtetit në procesin e verifikimit dhe shqyrtimit të kërkesës për t’u pajisur me certifikatë apo për licencimin e veprimtarisë së SHRSF-së, fokusohen kryesisht në përmbushjen e kriterit të besueshmërisë, të përshtatshmërisë.
+Për rastet e kërkesave për përtëritje të licencës, kërkohet të bëhet vlerësimi i performancës dhe ligjshmërisë së aktivitetit të subjektit gjatë periudhës së mëparshme të licencimit.

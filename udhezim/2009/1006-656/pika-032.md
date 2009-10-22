@@ -1,0 +1,1 @@
+32. Kontrolli i shërbimeve dhe veprimtarisë së SHRSF-ve nga drejtoria e policisë së qarkut, kryhet i planifikuar ose sa herë që lind nevoja për të verifikuar një informacion, ankesë apo për çështje sigurie.

@@ -1,0 +1,1 @@
+6. Drejtoria e policisë së qarkut, brenda 30 ditëve nga dita e marrjes së kërkesës, dërgon vërtetimin e besueshmërisë pranë DPPSH-së, i cili përpilohet sipas rregullave e procedurave të përcaktuara nga Drejtori i Përgjithshëm i Policisë së Shtetit.

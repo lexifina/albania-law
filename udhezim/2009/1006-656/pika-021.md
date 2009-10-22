@@ -1,0 +1,1 @@
+21. Në përfundim të procesit, sektori që mbulon veprimtarinë e SHRSF-ve, i kalon për shqyrtim KSHKC-së, në DPQ, i cili mblidhet në intervalin e datave 20-25 të çdo muaji, materialin shkresor të grumbulluar, së bashku me dokumentet e dorëzuara nga kandidati për punonjës shërbimi, me një relacion përmbledhës.

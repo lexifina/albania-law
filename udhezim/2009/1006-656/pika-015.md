@@ -1,0 +1,1 @@
+15. Pas miratimit nga Drejtori i Përgjithshëm i Policisë, vendimi përfundimtar i bëhet menjëherë i ditur QKL-së. Ky njoftim (përgjigje) duhet të bëhet brenda 60 ditëve nga dita e paraqitjes së kërkesës nga QKL-ja.

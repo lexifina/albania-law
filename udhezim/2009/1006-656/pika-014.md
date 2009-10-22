@@ -1,0 +1,1 @@
+14. Komisioni i krijuar sipas pikës 2.a të këtij akti, pasi shqyrton dokumentacionin e paraqitur dhe atë të grumbulluar nga struktura përkatëse, gjatë procesit të verifikimit e vlerësimit të veprimtarisë së subjektit përgatit mendimin paraprak dhe ia paraqet për miratim Drejtorit të Përgjithshëm të Policisë së Shtetit.
