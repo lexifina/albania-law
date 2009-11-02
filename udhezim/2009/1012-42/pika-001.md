@@ -1,0 +1,1 @@
+1. Për marrjen e autorizimit për organizimin e lojërave promocionale të fatit, subjekti aplikues duhet të paraqesë dokumentacionin e nevojshëm pranë Ministrisë së Financave, drejtuar Njësisë së Mbikëqyrjes së Lojërave të Fatit.
