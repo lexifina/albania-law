@@ -1,0 +1,1 @@
+10. Pika 11 e vendimit nr.719, datë 18.6.2009 të Këshillit të Ministrave “Për përcaktimin e funksioneve, të përgjegjësive dhe të marrëdhënieve, ndërmjet autoriteteve dhe strukturave të menaxhimit të decentralizuar të asistencës së BE-së, në kuadër të Instrumentit të Parazgjerimit (IPA), komponenti I”, shfuqizohet.

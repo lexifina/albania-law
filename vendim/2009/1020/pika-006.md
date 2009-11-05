@@ -1,0 +1,1 @@
+6. Mënyra e organizimit të brendshëm, autoriteti, mënyra e vendimmarrjes së strukturave të agjencisë, si dhe çështje të tjera, që lidhen me veprimtarinë e kësaj agjencie, përcaktohen në rregulloren e brendshme të saj, propozuar nga drejtori i agjencisë dhe miratuar nga zyrtari përgjegjës akreditues (ZPA/CAO).
