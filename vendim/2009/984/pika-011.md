@@ -1,0 +1,1 @@
+11. Tarifat vjetore të shkollimit për studentët, që do të regjistrohen në vitin e parë, për të gjitha programet e studimit të ciklit të dytë, (DND) dhe master i nivelit të parë me kohë të plotë, në vitin akademik 2009-2010, të jenë, sipas tabelës nr.3, që i bashkëlidhet këtij vendimi.

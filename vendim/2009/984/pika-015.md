@@ -1,0 +1,1 @@
+15. Tarifat vjetore të shkollimit për studentët, që ndjekin një program të dytë studimi, në ciklin e dytë të studimeve DND dhe “Master i nivelit të parë” (MNP) janë sipas tabelës nr.4, që i bashkëlidhen këtij vendimi.
