@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet “Marrëveshja e financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit të Komuniteteve Europiane për programin e financimit të pjesëmarrjes së Shqipërisë në programin ERDF të bashkëpunimit territorial transnacional “Hapësira e Europës Juglindore”, të instrumentit të ndihmës së paraaderimit, IPA, komponenti i bashkëpunimit ndërkufitar për vitin 2008”.
