@@ -1,0 +1,1 @@
+1. Mikrondërmarrjet me statusin e personit fizik, që në vitin e fundit financiar realizojnë një qarkullim vjetor deri në 2 000 000 (dy milionë) lekë në vitin e fundit financiar, do të mbajnë kontabilitetin e thjeshtuar, me regjistrim të njëfishtë, në baza monetare.

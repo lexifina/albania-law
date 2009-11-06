@@ -1,0 +1,1 @@
+2. Të gjitha mikrondërmarrjet e tjera, pavarësisht nga forma juridike, të cilat nuk përfshihen në pikën 1 të këtij vendimi, do ta mbajnë kontabilitetin sipas të drejtave dhe detyrimeve të konstatuara.

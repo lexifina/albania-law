@@ -1,0 +1,1 @@
+3. Mikrondërmarrjet, sipas përcaktimit të bërë në ligjin nr.8957, datë 17.10.2002 “Për ndërmarrjet e vogla e të mesme”, të ndryshuar, nuk janë të detyruara të zbatojnë standardet kombëtare të kontabilitetit.
