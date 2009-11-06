@@ -1,1 +1,0 @@
-2. Ngarkohet Ministria e Punëve Publike, Transportit dhe Telekomunikacionit për administrimin e këtij trualli dhe për mbarëvajtjen e marrëveshjes me shoqërinë malajziane “PSC”, për projektin e strehimit.
