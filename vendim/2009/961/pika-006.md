@@ -1,0 +1,1 @@
+6. Për pasuritë, për të cilat është bërë shënimi “Kufizim pronësie” (proces gjyqësor) dhe “Konflikt gjyqësor”, kompensimi për efekt shpronësimi të bëhet pasi të jetë marrë vendimi, i formës së prerë, nga gjykata dhe pasi të jenë bërë regjistrimet në zyrën përkatëse të regjistrimit të pasurive të paluajtshme.

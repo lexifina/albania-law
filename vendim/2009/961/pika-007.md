@@ -1,0 +1,1 @@
+7. Për pasuritë, për të cilat është bërë shënimi “Urdhër kufizimi”, kompensimi për efekt shpronësimi të bëhet pasi të ketë përfunduar procesi i saktësimit, nga zyra përkatëse e regjistrimit të pasurive të paluajtshme dhe pas konfirmimit, që do të merret nga kjo zyrë.

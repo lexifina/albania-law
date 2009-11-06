@@ -1,0 +1,1 @@
+8. Për pasuritë, për të cilat është bërë shënimi “Proces regjistrimi”, kompensimi për efekt shpronësimi të bëhet pasi të ketë përfunduar ky proces dhe pasi të jetë marrë konfirmimi nga zyra përkatëse e regjistrimit të pasurive të paluajtshme.
