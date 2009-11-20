@@ -1,0 +1,4 @@
+# Neni 63
+Kuptimi dhe përmbajta e obligacioneve me pjesëmarrje
+1. Asambleja e përgjithshme e aksionarëve të emetuesit vendos për emetimin e obligacioneve me pjesëmarrje, sipas dispozitave të ligjit për tregtarët dhe shoqëritë tregtare. Vendimi i asamblesë së përgjithshme të aksionarëve të emetuesit merret sipas kuorumit të anëtarëve dhe me shumicën e votave, të parashikuar në nenin 49 të këtij ligji.
+2. Obligacionet me pjesëmarrje u japin zotëruesve të obligacioneve të drejtën për të marrë, përveç interesit, edhe përqindje të caktuar të fitimit të emetuesit ose përfitim shtesë, të cilat kushtëzohen nga masa e prodhimit, e fitimeve apo e rezultatit ekonomik, në përgjithësi, të emetuesit, sipas një përcaktimi specifik dhe të qartë, në obligacionet, sipas programit të huasë me obligacione. Kushtet e obligacionit sipas programit të huasë përcaktojnë edhe çështjet përkatëse për përparësinë e pjesëmarrjes në fitime të zotëruesve të obligacioneve.

@@ -1,0 +1,7 @@
+# Neni 27
+Miratimi i listës së kandidatëve nga Autoriteti
+1. Autoriteti miraton listën e kandidatëve, të hartuar nga emetuesi, në përputhje me pikën 1 të nenit 26 të këtij ligji, në rastin kur obligacionet shiten me ofertë publike dhe përpara marrjes së vendimit nga grupi i zotëruesve të obligacioneve për emërimin e agjentit të zotëruesve të obligacioneve.
+2. Lista miratohet kur personat e propozuar janë licencuar nga Autoriteti. Në paraqitjen për miratim të kërkesës për kandidaturën e tyre në pozicionin e agjentit të zotëruesit të obligacioneve, personat e përfshirë në listën e sipërpërmendur duhet të dorëzojnë pranë AMF-së një deklaratë konfidenciale, nëpërmjet së cilës sigurojnë Autoritetin se nuk ekziston një konflikt interesash për ushtrimin e përgjegjësive të tyre, si agjentë të zotëruesve të obligacioneve dhe mbrojtjen e interesave të zotëruesve.
+3. Lista vlerësohet e miratohet nga Autoriteti, nëse brenda periudhës 30-ditore nuk refuzohet shprehimisht.
+4. Në rast se lista nuk miratohet, Autoriteti duhet të paraqesë arsyet për vendimin e marrë, duke specifikuar cilët kandidatë nuk përmbushin kërkesat e parashikuara në ligj dhe emetuesi duhet të hartojë një listë të re kandidatësh dhe t’ia dorëzojë përsëri AMF-së për miratim.
+5. Në rastet kur shoqëritë komisionere apo bankat e licencuara nga AMF-ja për të kryer transaksione me tituj bëjnë deklaratë të rreme për konfliktin e interesit, të përmendur në pikën 2 të këtij neni, AMF-ja vendos një gjobë nga 1 000 000 deri në 2 000 000 lekë.

@@ -1,0 +1,5 @@
+# Neni 23
+Rendi i ditës dhe procesverbali i mbledhjes
+1. Zotëruesit e obligacioneve nuk vendosin për çështje, të cilat nuk janë përfshirë në rendin e ditës, me përjashtim të rasteve kur të gjithë zotëruesit e obligacioneve janë të pranishëm dhe asnjëri prej tyre nuk kundërshton shqyrtimin e çështjes në fjalë.
+2. Zotëruesit e obligacioneve, që përfaqësojnë të paktën 1/20 e vlerës totale të obligacioneve, mund t’i kërkojnë personit, që ka thirrur mbledhjen e zotëruesve të obligacioneve, sipas nenit 19 të këtij ligji, ta përfshijë çështjen në rendin shtesë të mbledhjes. Personi, që thërret mbledhjen e zotëruesve të obligacioneve, sipas nenit 19 të këtij ligji, e pranon kërkesën për shtesë në rendin e ditës, në rast se kërkesa është paraqitur të paktën 10 ditë pune para datës së mbledhjes të thirrur. Përfshirja dhe njoftimi i çështjeve shtesë bëhen të paktën 5 ditë pune para mbledhjes të thirrur të zotëruesve të obligacioneve dhe është përgjegjësi e personit që ka thirrur mbledhjen.
+3. Emetuesi mban procesverbalin, ku regjistrohen të gjitha vendimet e mbledhjeve të zotëruesve të obligacioneve.
