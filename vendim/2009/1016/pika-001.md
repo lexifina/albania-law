@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit dhe Shkencës, në buxhetin e miratuar për vitin 2009, në programin 09770 “Fonde për shkencën”, artikulli 230-231, t’i shtohet fondi prej 50 000 000 (pesëdhjetë milionë) lekësh.
