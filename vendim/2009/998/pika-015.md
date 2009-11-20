@@ -1,0 +1,1 @@
+15. Vendimi nr.1211, datë 27.8.2008 i Këshillit të Ministrave “Për kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesat e nxënësve dhe studentëve në institucionet arsimore publike, për vitin shkollor 2008-2009”, shfuqizohet.

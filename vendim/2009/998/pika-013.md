@@ -1,0 +1,1 @@
+13. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për vitin shkollor 2009-2010, të përballohen nga buxheti i vitit 2009, miratuar për Ministrinë e Arsimit dhe Shkencës, për pjesën e vitit 2009, si dhe nga Buxheti i Shtetit, që do të miratohet për vitin 2010, për pjesën e vitit 2010.

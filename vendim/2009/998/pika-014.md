@@ -1,0 +1,1 @@
+14. Afati përfundimtar për shqyrtimin dhe miratimin e bursave për vitet e para është data 15 dhjetor 2009, për të gjitha kategoritë e shkollave, ndërsa për vitet e dyta e lart, është data 15 nëntor 2009.
