@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 155, datë 15.10.2009
+PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE MBRETËRISË SË SPANJËS PËR BASHKËPUNIMIN NË LUFTËN KUNDËR KRIMIT”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
