@@ -1,1 +1,0 @@
-12. Ministrisë së Arsimit dhe Shkencës, për vitin shkollor 2008-2009, i jepen 190 bursa, për nxënësit, dhe 1 600 bursa, për studentët, për të gjitha kategoritë e parashikuara në pikat 1 e 2 të këtij vendimi.

@@ -1,2 +1,0 @@
-4. Ministria e Arsimit dhe Shkencës harton planin e shpërndarjes së bursave, për drejtoritë arsimore rajonale (DAR) dhe zyrat arsimore (ZA), për vitet e para, sipas kuotave të miratuara (për nxënës/studentë).
-DAR-ja/ZA-ja, pas këshillimit me strukturat e pushtetit vendor, bëjnë planin e shpërndarjes së bursave në bashki dhe komuna, në përputhje me kërkesat e paraqitura, paraprakisht, prej tyre për kategoritë sipas pikës 2.1, të këtij vendimi.

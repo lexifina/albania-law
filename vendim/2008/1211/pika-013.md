@@ -1,1 +1,0 @@
-13. Efektet financiare për vitin shkollor 2008-2009 të përballohen nga Buxheti i Shtetit, miratuar për këtë vit, për Ministrinë e Arsimit dhe Shkencës, si dhe nga Buxheti i Shtetit, që do të miratohet për vitin 2009, për pjesën e vitit 2009.
