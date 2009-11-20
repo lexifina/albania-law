@@ -1,0 +1,1 @@
+1. Hapjen, në universitetin “Eqerem Çabej”, Gjirokastër, në Fakultetin e Edukimit dhe Shkencave Shoqërore, në bashkëpunim me Universitetin e Maceratës, Itali, të programit të përbashkët të studimit të ciklit të dytë “Arkeologji dhe administrim i pasurive arkeologjike”.
