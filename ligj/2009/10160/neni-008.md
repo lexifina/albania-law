@@ -1,0 +1,3 @@
+# Neni 8
+Dispozita kalimtare
+Të gjitha automjetet e tepërta, në dispozicion të ministrive, institucioneve qendrore dhe të varësisë shiten me ankand, në të cilin e drejta e parablerjes u takon funksionarëve të kategorive të trajtuara në pikat 2 e 3 të nenit 2 të këtij ligji. Ministritë, institucionet qendrore dhe të varësisë ngrenë, me urdhër të titullarit, komisionet e organizimit të procedurave të ankandit me jo më pak se 5 anëtarë. Rregullat e funksionimit të komisionit të ankandit, procedurat e zhvillimit të ankandit dhe kriteret e vlerësimit të pronës, që do të nxirret në ankand, miratohen me vendim të Këshillit të Ministrave.
