@@ -1,0 +1,1 @@
+1. Hapjen, në universitetin “Luigj Gurakuqi”, Shkodër, në Fakultetin e Gjuhëve të Huaja, të programit të studimit të ciklit të dytë, “Master i nivelit të parë”, në “Përkthim dhe interpretim në gjuhën gjermane”, në përfundim të të cilit lëshohet diploma “Master i nivelit të parë”, MNP, në përkthim dhe interpretim në gjuhën gjermane.
