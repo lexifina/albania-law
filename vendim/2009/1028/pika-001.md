@@ -1,0 +1,1 @@
+1.Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 3.2.2009, për çështjen nr.45264/04 “Hamzaraj kundër Shqipërisë“, në shumën 17 500 (shtatëmbëdhjetë mijë e pesëqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
