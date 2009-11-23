@@ -1,1 +1,1 @@
-4. Studentët, të cilët e përftojnë këtë diplomë, kanë të drejtë të regjistrohen në programe studimi të ciklit të tretë. Ata nuk mund t’i transferojnë kreditet e fituara në këtë program studimi në një program studimi të ciklit të tretë.
+4. Shfuqizuar
