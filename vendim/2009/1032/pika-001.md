@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Përmet, të qarkut të Gjirokastrës, që transferohen në pronësi ose në përdorim, të kësaj bashkie, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 71 (shtatëdhjetë e një) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 415 (katërqind e pesëmbëdhjetë).
