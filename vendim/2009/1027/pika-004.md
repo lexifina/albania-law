@@ -1,0 +1,1 @@
+4.Shuma e përcaktuar si detyrim, në pikën 1 të këtij vendimi, të depozitohet në njërën nga bankat e nivelit të dytë, në emër të ankueses znj.Tefta Nuri, dhe të konvertohet në lekë, me kursin e këmbimit të bankës, ku është depozituar shuma, në datën e çeljes së llogarisë.

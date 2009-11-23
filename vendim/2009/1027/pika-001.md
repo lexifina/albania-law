@@ -1,0 +1,1 @@
+1.Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 3.2.2009, për çështjen nr.12306/04 “Nuri kundër Shqipërisë”, në shumën 76 500 (shtatëdhjetë e gjashtë mijë e pesëqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
