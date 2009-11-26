@@ -1,0 +1,1 @@
+2. Ngarkohen Drejtoria e Përgjithshme e Shërbimeve Mbështetëse dhe Drejtoria e Përgjithshme e Politikave të Zhvillimit dhe Integrimit për hartimin, zbatimin e procedurave mbi programet për pritjen, përcjelljet dhe trajtimin që u bëhet delegacioneve të huaja.

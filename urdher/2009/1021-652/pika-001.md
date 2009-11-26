@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave për miratimin e urdhër/programeve për “pritje, përcjellje dhe trajtimin që u bëhet delegacioneve të huaja”, në bazë të vendimit të Këshillit të Ministrave nr.243, datë 15.5.1995 “Për shpenzimet për pritjen, përcjelljen dhe trajtimin që u bëhet delegacioneve të huaja”, të ndryshuar, Drejtorit të Përgjithshëm të Shërbimeve Mbështetëse.
