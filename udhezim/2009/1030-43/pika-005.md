@@ -1,0 +1,1 @@
+5. Subjektet e shitjes së karburantit nga magazina doganore janë të detyruara të raportojnë periodikisht në Drejtorinë e Përgjithshme të Tatimeve, në përputhje me udhëzimin nr.39, datë 9.12.2008 të Ministrit të Financave, njëlloj sikurse subjektet e tjera përdoruese të pajisjeve fiskale.

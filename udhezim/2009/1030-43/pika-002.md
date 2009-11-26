@@ -1,0 +1,1 @@
+2.Sasia e karburantit të dalë evidentohet nëpërmjet matësve të sasisë së dalë, të cilat janë të certifikuara nga Drejtoria e Kalibrimit dhe e Peshëmatjes dhe që kontrollohen në vazhdimësi për funksionimin normal të tyre.

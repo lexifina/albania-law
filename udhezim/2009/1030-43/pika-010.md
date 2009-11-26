@@ -1,0 +1,2 @@
+10. Drejtoria e Përgjithshme e Tatimeve dhe Drejtoria e Përgjithshme e Doganave, nëpërmjet strukturave të tyre, kryejnë kontrolle të vazhdueshme e të përbashkëta, për zbatimin me korrektësi të këtij udhëzimi. Për zbatimin me korrektësi të këtij udhëzimi, ato vënë në dijeni subjektet që disponojnë magazina doganore për karburantin, dhe subjektin sipas pikës 9 të këtij udhëzimi, si dhe udhëzojnë punonjësit që ngarkohen me kontrollin e zbatimit të detyrave që dalin nga ky udhëzim.
+Ky udhëzim hyn në fuqi me botimin në Fletoren Zyrtare.
