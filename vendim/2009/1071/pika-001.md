@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Doganave të kryejë, brenda datës 30 nëntor 2009, procedurën e prokurimit, me objekt “Blerjen dhe instalimin e 26 kabinave të kontrollit”. Brenda këtij afati të përfshihet edhe lidhja e kontratës përkatëse.
