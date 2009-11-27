@@ -1,0 +1,1 @@
+5. Për çdo program studimi, 10% (dhjetë për qind) e kuotave të mësipërme caktohet për kandidatët nga trojet shqiptare jashtë kufijve të Republikës së Shqipërisë dhe administrohet nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve përkatëse zyrtare të këtyre trojeve.
