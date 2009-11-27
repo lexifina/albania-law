@@ -1,0 +1,1 @@
+4. Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonat e dyta, të përmendura në pikat 1 e 2 të këtij vendimi, që do të hyjnë, përkatësisht, në datat 20 e 28 tetor 2009, është porti i Durrësit dhe pika e daljes është pika e kalimit të kufirit Qafë-Thanë.
