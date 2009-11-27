@@ -1,28 +1,53 @@
 # Shtojca
-Tabela e kuotave të programeve të studimit në filialet e universitetit “Aleksandër Moisiu” të Durrësit në qytetin e Peshkopisë,
-viti akademik 2009-2010
 Tabelë nr.1
+Tabela e kuotave të pranimit të programeve të studimit të ciklit të parë me kohë të plotë të Universitetit “Aleksandër Moisiu”, Durrës (filiali Peshkopi)
 Nr.
-Programi i studimit DNP
-Kuota
+PROGRAMET E STUDIMIT
+KUOTAT
+FAKULTETI I EKONOMISË DHE I ADMINISTRIMIT
 1
-Shkenca të administrimit
-40
+Shkenca të Administrimit (profil Financë-Kontabilitet)
+30
 2
-Mësuesi
-90
+Shkenca të Administrimit (profil Financë- Bankë)
+30
 3
-Proceset e formimit
-15
+Shkenca të Administrimit (profil Menaxhim-Marketing)
+30
 4
-Infermieri e përgjithshme
-20
-Programi i studimit jouniversitar
+Shkenca të Administrimit (profil Administrim-Biznesi)
+30
+FAKULTETI I EDUKIMIT
 1
-Drejtësi (Asistencë Ligjore)
-20
+Informatikë-Anglisht
+30
 2
-Informatikë (Rrjete kompjuterike)
-20
+Gjuhë-Letërsi-Anglisht
+30
+3
+Matematikë-Fizikë
+30
+4
+Matematikë-Informatikë
+30
+5
+Biologji-Kimi
+30
+6
+Psikologji-Sociologji
+30
+7
+Procese formimi
+30
+SHKOLLA E LARTË PROFESIONALE
+1
+Drejtësi (Asistent ligjor)
+30
+2
+Infermieri e përgjithshme (3-vjeçare)
+30
+3
+Informatikë (Specialist Rrjetash Kompjuterike)
+30
 Gjithsej
-205
+420
