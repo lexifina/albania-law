@@ -1,0 +1,1 @@
+2. Këto programe studimi realizohen me 180 kredite (ECTS) dhe kohëzgjatja normale e tyre është tri vite akademike.

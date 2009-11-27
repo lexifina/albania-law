@@ -1,0 +1,1 @@
+10. Shtetasit e huaj, që do të vazhdojnë studimet në njërën nga këto programe studimi të ciklit të parë, me kohë të plotë, i nënshtrohen së njëjtës tarifë shkollimi si shtetasit shqiptarë, me përjashtim të rasteve, kur, në marrëveshjet zyrtare shtetërore, janë vendosur mënyra të tjera të përcaktimit të tarifave të shkollimit.
