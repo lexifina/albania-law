@@ -1,0 +1,1 @@
+1. Dhënien e licencës për hapjen e institucionit arsimor privat, parauniversitar, shkollë 9-vjeçare, e ciklit të lartë “Hafiz Abdulla Zëmblaku”, në qytetin e Korçës, që në programin mësimor do të zhvillojë edhe lëndë fetare.
