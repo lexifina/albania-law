@@ -1,1 +1,2 @@
 3. Kuota e pranimit në këto programe studimi, për vitin akademik 2009-2010, është 15, prej së cilës 2 për kandidatët nga jashtë kufijve të vendit.
+Kuota e pranimit në programin e studimeve “Master i nivelit të dytë”, në “Interpretim”, është 40. Dy kuota prej tyre caktohen për kandidatët nga trojet shqiptare jashtë kufijve të Republikës së Shqipërisë dhe administrohen nga Ministria e Arsimit dhe Shkencës.
