@@ -1,0 +1,1 @@
+4. Ngarkohet shkolla e lartë private “Logos” që, për çdo program studimi, të sigurojë, nëpërmjet marrëdhënieve kontraktuale, zhvillimin e disa prej disiplinave kryesore formuese të specialitetit, pas vitit të parë, nga një personel akademik i huaj, me kualifikimin e nevojshëm.
