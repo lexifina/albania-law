@@ -1,0 +1,2 @@
+# Neni 1
+Të hiqet nga fondi pyjor kombëtar dhe nga kadastra kombëtare e pyjeve sipërfaqja prej 249,0 (dyqind e dyzet e nëntë) ha, që ndodhet në ekonominë “Mali i Rencit”, Lezhë dhe sipërfaqja prej 14,0 (katërmbëdhjetë) ha, që ndodhet në ekonominë pyjore “Bushat-Bërdicë”, Shkodër, gjithsej 263 (dyqind e gjashtëdhjetë e tre) ha, të cilat t’i jepen në përdorim, me kontratë, me afat 99 vjet, shoqërisë “OTTO-AL”, shpk për karriera guri gëlqeror e argjile, sipas tabelave 1, 2 e 3 dhe hartave, që i bashkëlidhen këtij ligji.

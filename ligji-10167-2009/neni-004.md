@@ -1,0 +1,2 @@
+# Neni 4
+“OTTO-AL”, shpk-ja, brenda 3 vjetëve nga hyrja në fuqi e këtij ligji, të pyllëzojë, me fondet e veta, 210 (dyqind e dhjetë) ha ngastra, të përcaktuara nga drejtoria përkatëse e shërbimit pyjor. Procesi i programit të mbjelljeve dhe i marrjes në dorëzim të sipërfaqeve të pyllëzuara ndiqet nga ministria përgjegjëse për pyjet, në bashkëpunim me njësitë e qeverisjes vendore, sipas marrëveshjes me kërkuesin.
