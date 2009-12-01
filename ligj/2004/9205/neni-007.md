@@ -1,7 +1,0 @@
-# Neni 7
-Mbledhjet e Komisionit për Vlerësimin e Masave të Posaçme të Mbrojtjes së dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë
-1. Komisioni për Vlerësimin e Masave të Posaçme të Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë thirret në mbledhje nga Kryetari dhe, në mungesë të tij, nga Zëvendëskryetari, brenda 5 ditëve nga paraqitja e propozimit të Prokurorit të Përgjithshëm për zbatimin e masave të posaçme të mbrojtjes. Në raste të veçanta dhe urgjente ky Komision mblidhet menjëherë.
-2. Mbledhjet e Komisionit për Vlerësimin e Masave të Posaçme të Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë janë të vlefshme kur janë të pranishëm tre anëtarë të tij. Vendimet e tij janë të vlefshme kur miratohen nga tre anëtarë të pranishëm në mbledhje.
-3. Komisioni merr vendim jo më vonë se 10 ditë nga mbledhja e parë dhe, në çdo rast, jo më vonë se 30 ditë nga depozitimi i dokumentacionit përkatës dhe i propozimit të Prokurorit të Përgjithshëm.
-4. Aktet dhe çdo informacion për veprimtarinë e Komisionit për Vlerësimin e Masave të Posaçme të Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë konsiderohen informacion i klasifikuar.
-5. Rregullat e hollësishme për funksionimin dhe procedurat e punës së Komisionit për Vlerësimin e Masave të Posaçme të Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë, si dhe për të drejtat, detyrimet dhe trajtimin e anëtarëve të tij caktohen me udhëzime të përbashkëta të Prokurorit të Përgjithshëm, të Ministrit të Rendit Publik, të Ministrit të Drejtësisë dhe të Ministrit të Financave.

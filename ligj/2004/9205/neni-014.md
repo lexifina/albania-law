@@ -1,5 +1,0 @@
-# Neni 14
-Masa të përkohshme të mbrojtjes
-1. Në raste të veçanta dhe urgjente, Drejtoria e Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë, me kërkesën e prokurorit dhe pasi të ketë marrë miratimin me shkrim të personit të mbrojtur, vendos zbatimin e menjëhershëm të masave të përkohshme të mbrojtjes. Vendimi i Drejtorisë bëhet i zbatueshëm, pasi të jetë miratuar nga Kryetari i Komisionit të Vlerësimit të Masave të Posaçme të Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë dhe Prokurori i Përgjithshëm ose një prokuror i autorizuar posaçërisht prej tij.
-2. Masat e përkohshme të mbrojtjes vendosen në përputhje me shkallën e gjendjes së rrezikut, në forma të tilla që garantojnë përkohësisht dhe paraprakisht nivelin minimal të domosdoshëm të mbrojtjes.
-3. Rregullat e hollësishme për rastet, procedurat dhe mënyrat e mbrojtjes së përkohshme, caktohen me udhëzime të përbashkët të Ministrit të Rendit Publik, të Ministrit të Drejtësisë dhe të Prokurorit të Përgjithshëm.

@@ -1,5 +1,0 @@
-# Neni 12
-Administrimi i akteve, i dokumentacionit dhe i informacionit
-1. Aktet, dokumentacioni dhe çdo informacion që lidhet me propozimin, miratimin dhe zbatimin e masave të posaçme të mbrojtjes konsiderohen informacion i klasifikuar dhe mbahen e administrohen nga Drejtoria e Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë.
-2. Kriteret dhe procedurat për ruajtjen, administrimin dhe klasifikimin e informacionit për masat e posaçme për mbrojtjen e dëshmitarëve dhe bashkëpunëtorëve të drejtësisë caktohen me udhëzime të përbashkëta të Ministrit të Rendit Publik, të Ministrit të Drejtësisë dhe të Prokurorit të Përgjithshëm.
-3. Aktet, dokumentacioni, të dhënat, si dhe çdo informacion që zotërojnë dhe administrojnë ministritë dhe institucionet e tjera qendrore për masat e posaçme të mbrojtjes konsiderohen informacion i klasifikuar. Titullarët e institucioneve miratojnë udhëzimet përkatëse për depozitimin, mbajtjen dhe administrimin e tyre, pasi të kenë marrë mendimin e Ministrit të Rendit Publik, të Ministrit të Drejtësisë dhe të Prokurorit të Përgjithshëm.

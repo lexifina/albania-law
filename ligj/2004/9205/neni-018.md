@@ -1,4 +1,0 @@
-# Neni 18
-Masa mbrojtjeje të jashtëzakonshme
-1. Policia e Shtetit, institucionet ku mbahen të paraburgosurit ose ata që vuajnë dënime penale, sipas shkallës së gjendjes së rrezikut për personin e mbrojtur, mund të urdhërojnë dhe zbatojnë masa mbrojtjeje të jashtëzakonshme, ndërmjet atyre të parashikuara në këtë ligj apo me dispozita të tjera, që rregullojnë veprimtarinë e tyre. Këto masa, jo më vonë se 24 orë nga marrja e tyre, i njoftohen Drejtorisë së Mbrojtjes të Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë dhe prokurorit të çështjes.
-2. Masat e jashtëzakonshme, me pëlqimin e Drejtorisë së Mbrojtjes të Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë dhe të prokurorit të çështjes, mund të zgjaten derisa të mënjanohet rreziku që ka motivuar marrjen e tyre ose deri në marrjen e vendimit përkatës nga Komisioni i Vlerësimit të Masave të Posaçme të Mbrojtjes së Dëshmitarëve dhe Bashkëpunëtorëve të Drejtësisë.
