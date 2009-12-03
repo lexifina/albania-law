@@ -1,0 +1,1 @@
+1. AKU-ja drejtohet nga drejtori i përgjithshëm dhe mbikëqyret nga bordi i këtij autoriteti, i cili është përgjegjës për të siguruar që AKU-ja të kryejë misionin dhe të përmbushë detyrat e ngarkuara nga legjislacioni përkatës.
