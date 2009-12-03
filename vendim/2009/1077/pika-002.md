@@ -1,0 +1,2 @@
+2. Drejtimi dhe bashkërendimi i veprimtarisë gjatë zbatimit të dokumentit strategjik kombëtar të kryhen nga një grup teknik ndërinstitucional, përbërja e të cilit të përcaktohet nga Komiteti për Bashkërendimin e Luftës kundër Pastrimit të Parave, i cili mbikëqyr veprimtarinë e këtij grupi e zbatimin e këtij dokumenti strategjik, si dhe bën rishikimin periodik të tij.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
