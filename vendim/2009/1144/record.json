@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17860,
+  "title": "Për një ndryshim në vendimin nr.205, datë 13.4.1999 të Këshillit të Ministrave “Për dispozitat zbatuese të kodit doganor”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1144",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2009-11-13",
+  "published": "2009-12-08",
+  "in_force": "2009-12-08",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/bbb802befad34b3747b2f58c8ac093fad55d8e72c8f3fe76c230a2d8a59ebe5d.docx",
+  "source_sha256": "bbb802befad34b3747b2f58c8ac093fad55d8e72c8f3fe76c230a2d8a59ebe5d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17860",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/11/13/1144",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
