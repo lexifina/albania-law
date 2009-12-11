@@ -4,7 +4,7 @@ Nr. 659, datë 3.10.2007
 
 Për miratimin e rregullave të prokurimit publik, me mjete elektronike
 
-(Ndryshuar me VKM nr. 918, datë 2.9.2009)
+(Ndryshuar me VKM nr. 918, datë 2.9.2009; nr. 1204, datë 11.12.2009) 
 
 (i përditësuar)
 
@@ -186,6 +186,6 @@ IV. Dispozita të fundit
 
 18. Agjencia e Prokurimit Publik miraton rregullat, udhëzimet dhe manualet e përdorimit, të nevojshme, për të vënë në zbatim këto rregulla, si dhe ofron mbështetjen e nevojshme për autoritetet kontraktore apo operatorët ekonomikë të interesuar.
 
-19. Ngarkohet Agjencia e Prokurimit Publik të nxjerrë udhëzimet e nevojshme për funksionimin dhe administrimin e sistemit dhe të ruajtjes së të dhënave. Në udhëzim të përcaktohen kushtet, procedurat për sigurinë dhe mbrojtjen e sistemit, si dhe të sanksionohet se ndërhyrja në sistem bëhet vetëm me logimin e njëkohshëm të disa personave, që e kanë këtë akses.
+19. Ngarkohet Ministri i Shtetit për Reformat dhe Marrëdhëniet me Kuvendin të nxjerrë udhëzimet e nevojshme për funksionimin dhe administrimin e sistemit dhe të ruajtjes së të dhënave. Në udhëzim të përcaktohen kushtet, procedurat për sigurinë dhe mbrojtjen e sistemit, si dhe të sanksionohet se ndërhyrja në sistem bëhet vetëm me logimin e njëkohshëm të disa personave, që e kanë këtë akses.
 
 Këtë akses e kanë Sekretari i Përgjithshëm i Këshillit të Ministrave, Drejtori i Agjencisë së Prokurimit Publik, Drejtori i Agjencisë për Shoqërinë e Informacionit, si dhe një përfaqësues i zyrës së Avokatit të Prokurimeve Publike.
