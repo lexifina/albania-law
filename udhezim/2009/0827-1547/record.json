@@ -1,0 +1,27 @@
+{
+  "qbz_id": 17602,
+  "title": "Për nivelin e kUotave të shpenzimeve për ushqime, në institucionet publIke rezidenciale e komunitare të përkujdesit shoqëror",
+  "type": "Udhëzim",
+  "number": "1547",
+  "institution": "Ministria e Shëndetësisë dhe Mbrojtjes Sociale",
+  "adopted": "2009-08-27",
+  "version_no": 1,
+  "qbz_version_id": 1943,
+  "in_force": "2009-12-11",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2009-12-11",
+  "changed_by_qbz_id": 18000,
+  "changed_by_number": "1547-1",
+  "changed_by_title": "Për një shtesë në udhëzimin nr.1547, datë 27.8.2009 “për nivelin e kuotave të shpenzimeve për ushqime, në institucionet publike rezidenciale e komunitare të përkujdesit shoqëror”",
+  "source": "https://qbz.gov.al/files/c4651f7dbc5a5ec215e2f743c5319612cc6784a2c0f73ebd3914b048aeee623a.docx",
+  "source_sha256": "c4651f7dbc5a5ec215e2f743c5319612cc6784a2c0f73ebd3914b048aeee623a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17602",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/17602/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
