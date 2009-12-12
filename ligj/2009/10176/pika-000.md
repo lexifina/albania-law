@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr.6, datë 30.9.2009, i Këshillit të Ministrave “Për një ndryshim në ligjin nr.8669, datë 26.10.2000 “Për regjistrimin e përgjithshëm të popullsisë dhe të banesave”, të ndryshuar”.
