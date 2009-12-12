@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr.4, datë 24.9.2009, i Këshillit të Ministrave “Për dërgimin e një toge mjekësore të Forcave të Armatosura të Republikës së Shqipërisë në Kabul, Afganistan”.
