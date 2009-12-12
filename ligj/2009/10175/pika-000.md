@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr.5, datë 30.9.2009, i Këshillit të Ministrave “Për një ndryshim në ligjin nr.9948, datë 7.7.2008 “Për shqyrtimin e vlefshmërisë ligjore të krijimit të titujve të pronësisë mbi tokën bujqësore”, të ndryshuar”.
