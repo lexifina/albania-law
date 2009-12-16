@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rrugëve, që, brenda datës 20 dhjetor të vitit 2009, të zhvillojë procedurat e prokurimit për objektet e përcaktuara në tabelën, që i bashkëlidhet këtij vendimi.
