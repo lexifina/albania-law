@@ -47,3 +47,5 @@ ll) Doktoratë në Shkencat Farmaceutike
 10;
 m) Doktoratë në Sëmundjet e Brendshme
 12.
+4/1. Për kandidatët nga trojet shqiptare, jashtë kufijve të Republikës së Shqipërisë, përcaktohen 10 (dhjetë) kuota në programet e studimeve të doktoratës në Fakultetin e Shkencave Sociale dhe 40 (dyzet) kuota në programet e studimeve të doktoratës në Fakultetin e Mjekësisë. Këto kuota administrohen nga Ministria e Arsimit dhe Shkencës, në përputhje me kërkesat e institucioneve përkatëse zyrtare të vendeve nga vijnë kandidatët.
+4/2. Kuotat e paplotësuara rishpërndahen nga Ministria e Arsimit dhe Shkencës.
