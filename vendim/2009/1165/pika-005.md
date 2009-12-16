@@ -1,0 +1,1 @@
+5. Nga kuota e mësipërme caktohen dy kuota për studentët nga trojet shqiptare, jashtë kufijve të Republikës së Shqipërisë dhe administrohen nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve zyrtare përkatëse.
