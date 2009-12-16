@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Mbrojtjes dhe të strukturave në varësi të saj të përfundojnë, brenda datës 20 dhjetor 2009, procedurat e prokurimit për mallra, shërbime dhe ndërtime, me fondet e parashikuara në Buxhetin e Shtetit të vitit 2009, sipas listës, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati, të përfshihen edhe lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës të nënshkruar, në Buletinin e Njoftimeve Publike.
