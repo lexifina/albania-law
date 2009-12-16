@@ -1,0 +1,1 @@
+1. Hapjen në Fakultetin e Infermierisë të Universitetit të Tiranës, të programit të studimit “Master i nivelit të parë” (MNP), në “Fizioterapi”, në përfundim të të cilit lëshohet diplomë “Master i nivelit të parë (MNP) në fizioterapi”.
