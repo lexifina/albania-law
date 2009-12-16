@@ -1,0 +1,1 @@
+4. NJMLF-ja hap llogari likuiduese në një nga bankat e nivelit të dytë si person juridik publik, ku do të depozitohen të ardhurat nga pagesat që bëjnë shoqëritë e miratuara dhe të licencuara në fushën e lojërave të fatit, sipas nenit 12 të ligjit nr.10 033, datë 11.12.2008, të ndryshuar, si dhe të ardhurat e siguruara nga vjelja e gjobave sipas nenit 49 të ligjit.

@@ -1,0 +1,1 @@
+2. Pagesat e kryera më 31 mars për vitin 2009 dhe çdo 10 prill për vitin 2010 e në vijim, do të shoqërohen patjetër edhe me dorëzimin pranë NJMLF-së të një kopje të bilancit dhe të pasqyrave të tjera financiare.
