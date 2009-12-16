@@ -1,0 +1,2 @@
+6. Ky komision, sipas afateve të përcaktuara në pikën 4 të këtij udhëzimi, kryen inventarizimin (numërimin) e mjeteve për shkatërrim dhe harton procesverbalin e shkatërrimit, ku evidentohen shkatërrimet e kryera sipas llojeve, tipave, numrave serialë. Një kopje e procesverbalit lihet në magazinë dhe një kopje i bashkëlidhet urdhrit e arkivohet në NJMLF.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
