@@ -1,0 +1,1 @@
+3. Ngarkohet Ministria e Brendshme të paraqesë në vazhdimësi listën e përditësuar të personave, që kanë përfituar azil në Republikën e Shqipërisë, dhe të atyre, që kanë aplikuar për azil, pranë Institutit të Sigurimeve të Kujdesit Shëndetësor, për pajisjen e tyre me librezën e shëndetit, dokument ky që vërteton të qenurit e tyre të siguruar.

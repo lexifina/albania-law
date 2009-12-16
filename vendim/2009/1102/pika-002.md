@@ -1,0 +1,1 @@
+2. Të drejtën për trajtim dhe përfitim të shërbimeve shëndetësore e kanë edhe të huajt, që kanë aplikuar për azil dhe që kanë vendbanim ose vendqëndrim të përkohshëm në territorin e Republikës së Shqipërisë.

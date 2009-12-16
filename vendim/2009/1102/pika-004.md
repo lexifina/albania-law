@@ -1,0 +1,1 @@
+4. Të gjithë të huajt, që kanë përfituar azil në Republikën e Shqipërisë dhe që janë në marrëdhënie pune, kanë të drejtë të sigurojnë, vullnetarisht, veten dhe familjen e tyre me skema të sigurimeve shëndetësore suplementare, për mjekime me kosto të lartë, të cilat nuk mbulohen nga skema e detyrueshme e sigurimeve shëndetësore.

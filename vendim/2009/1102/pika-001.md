@@ -1,0 +1,1 @@
+1. Të huajt, që kanë përfituar azil në Republikën e Shqipërisë, sipas ligjit nr.8432, datë 14.12.1998 “Për azilin në Republikën e Shqipërisë”, gjë që vërtetohet nga autoritetet përkatëse, gëzojnë të njëjtat të drejta si shtetasit shqiptarë, për të përfituar shërbim shëndetësor nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor.
