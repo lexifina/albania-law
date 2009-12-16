@@ -1,0 +1,1 @@
+5. Nga numri i secilës prej kuotave të mësipërme të çdo programi studimi, 1(një) kuotë caktohet për studentët nga trojet shqiptare, jashtë kufijve të Republikës së Shqipërisë, dhe administrohet nga Ministria e Arsimit dhe Shkencës, në përputhje me kërkesat e institucioneve zyrtare të këtyre trojeve.

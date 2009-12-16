@@ -1,0 +1,1 @@
+7. Tarifa e shkollimit, për këto programe studimi të doktoratës, është 200 000 (dyqind mijë) lekë dhe likuidohet për çdo vit të kohëzgjatjes normale, në këste, të caktuara nga Fakulteti i Shkencave të Natyrës i Universitetit të Tiranës.
