@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve të pasurive, për të cilat janë bërë shënimet përkatëse “Urdhër kufizimi” dhe “Kufizim i plotë i dokumentacionit ligjor”, në bazë të pikave 6 e 7 të këtij vendimi, dhe të dokumentacionit të pronësisë, ndërsa për pronarët e konfirmuar të kryejë likuidimin e tyre, në bazë të dokumentacionit të pronësisë .

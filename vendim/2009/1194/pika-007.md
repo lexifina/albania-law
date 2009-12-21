@@ -1,0 +1,1 @@
+7. Për pasuritë, për të cilat, në kolonën përkatëse, është bërë shënimi “Urdhër kufizimi” dhe “Kufizim i plotë i dokumentacionit ligjor”, të bëhet kompensimi, për efekt shpronësimi, pasi të ketë përfunduar procesi i saktësimit nga Zyra e Regjistrimit të Pasurive të Paluajtshme, Vlorë, dhe konfirmimi, që do të merret nga kjo zyrë.
