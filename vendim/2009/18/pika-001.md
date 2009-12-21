@@ -1,0 +1,1 @@
+1. Fondet e miratuara në buxhetin e vitit 2009, për Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, zëri “Transfertë në buxhetet familjare”, të përdoren për mbështetjen e prodhimit bujqësor, blegtoral dhe të agropërpunimit.
