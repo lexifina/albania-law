@@ -1,0 +1,1 @@
+3. Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta, në buxhetin e miratuar për vitin 2009, në programin “Mbrojtja sociale” t’i shtohet fondi prej 900 000 000 (nëntëqind milionë) lekësh.
