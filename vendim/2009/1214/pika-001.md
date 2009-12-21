@@ -1,0 +1,1 @@
+1. Lejimin e kalimit tranzit, përmes territorit të Republikës së Shqipërisë në itinerarin Porti i Durrësit-Qafë-Thanë, në datën 17 dhjetor 2009, të një automjeti dhe të 2 (dy) trupave ushatrake italiane.
