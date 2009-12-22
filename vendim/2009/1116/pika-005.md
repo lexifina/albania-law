@@ -1,0 +1,1 @@
+5. Kuota e pranimit në këtë program studimi, për vitin 2009, është 14, nga e cila dy kuota caktohen për kandidatët nga trojet shqiptare jashtë kufijve të Republikës së Shqipërisë dhe administrohen nga Ministria e Arsimit dhe Shkencës.
