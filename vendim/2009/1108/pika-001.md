@@ -1,0 +1,1 @@
+1. Numri i punonjësve mësimorë me kontratë të përkohshme, për sistemin arsimor parauniversitar, për vitin shkollor 2009-2010, për periudhën 14 shtator-31 dhjetor 2009, për Ministrinë e Arsimit dhe Shkencës, të jetë 2 243 (dy mijë e dyqind e dyzet e tre) veta.
