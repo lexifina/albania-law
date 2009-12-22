@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 180, datë 29.10.2009
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË MARRËVESHJEN PËR TË DREJTËN E PATENTAVE TË ORGANIZATËS BOTËRORE TË PRONËSISË INTELEKTUALE (WIPO)
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
