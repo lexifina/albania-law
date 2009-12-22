@@ -1,0 +1,1 @@
+7. Kandidatët, që dëshirojnë të ndjekin studimet, me kohë të pjesshme, në një program të dytë studimi, brenda kuotës së përcaktuar në pikën 2 të këtij vendimi, e fitojnë këtë të drejtë, sipas kritereve të përcaktuara nga vetë institucionet publike të arsimit të lartë e të bëra publike paraprakisht.

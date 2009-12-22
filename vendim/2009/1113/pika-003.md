@@ -1,0 +1,1 @@
+3. Kuotat për transferim studimesh, të përcaktuara në shkronjën “c” të pikës 1 të këtij vendimi, shpërndahen nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve publike të arsimit të lartë.

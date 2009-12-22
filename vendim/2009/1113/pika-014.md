@@ -1,0 +1,1 @@
+14. Shqiptarët nga trojet jashtë kufijve të vendit dhe shtetasit e tjerë të huaj, që do të vazhdojnë studimet në një program studimi, me kohë të pjesshme, në institucionet publike të arsimit të lartë, i nënshtrohen së njëjtës tarifë shkollimi si shtetasit shqiptarë, me përjashtim të rasteve kur me marrëveshje zyrtare shtetërore, janë përcaktuar mënyra të tjera për tarifat.

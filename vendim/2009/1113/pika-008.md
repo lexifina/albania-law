@@ -1,0 +1,1 @@
+8. Tarifat e shkollimit (për 180 kredite) dhe tarifat e shkollimit për çdo kredit për studentët, që do të regjistrohen në vitin e parë, në programet e studimit të ciklit të parë, me kohë të pjesshme, në vitin akademik 2009-2010, të jenë, për çdo program studimi dhe institucion publik të arsimit të lartë, sipas përcaktimeve të bëra në tabelën nr.2, që i bashkëlidhet këtij vendimi.

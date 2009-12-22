@@ -1,0 +1,1 @@
+5. Çdo shtetas shqiptar, i cili ka përfunduar shkollën e mesme dhe zotëron dëftesë pjekurie apo diplomë tjetër studimi, të fituar brenda ose jashtë vendit, ekuivalente me të, ka të drejtë të kandidojë për në programet e studimit të ciklit të parë, me kohë të pjesshme, në institucionet publike të arsimit të lartë.
