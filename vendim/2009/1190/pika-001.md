@@ -1,0 +1,1 @@
+1. Agjencia Kombëtare e Planifikimit të Territorit, në vijim AKPT, është person juridik publik, buxhetor, në varësi të Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit, me seli në Tiranë.

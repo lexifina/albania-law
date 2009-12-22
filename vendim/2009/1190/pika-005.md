@@ -1,0 +1,1 @@
+5. AKPT-ja mbështet dhe ofron këshillimin për autoritetet kombëtare e vendore, të planifikimit, për hartimin, brenda afateve të parashikuara nga ligji për planifikimin e territorit, të planit të përgjithshëm kombëtar, planeve të përgjithshme territoriale vendore dhe planeve të përdorimit të tokës, brenda afateve të parashikuara në nenin 89 të ligjit për planifikimin e territorit.

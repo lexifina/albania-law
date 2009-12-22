@@ -1,0 +1,38 @@
+3. Vula zyrtare e AKPT-së ka formën dhe elementet e përcaktuara në pikën 2 të vendimit nr.390, datë 6.8.1993 të Këshillit të Ministrave “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare”, të ndryshuar. Vula e AKPT-së prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+KREU II
+PËRGJEGJËSITË DHE DETYRAT E AKPT-SË
+1. AKPT-ja e shtrin veprimtarinë në të gjithë territorin e Republikës së Shqipërisë.
+2. AKPT-ja ka këto përgjegjësi dhe detyra:
+2.1. Mbështet bashkërendimin horizontal ndërmjet autoriteteve kombëtare në planifikimin e territorit dhe bashkërendimin vertikal ndërmjet autoriteteve kombëtare dhe atyre vendore të planifikimit, me synim harmonizimin e trajtimit të çështjeve të rëndësisë, kombëtare e vendore, në fushën e planifikimit të territorit:
+a) duke mbledhur autoritetet përgjegjëse të planifikimit e palët e interesuara;
+b) duke asistuar në zgjidhjen e konflikteve ndërmjet tyre dhe duke marrë pjesë në përbërjen e komisionit të ndërrmjetësimit, sipas përcaktimeve të shkronjës “c” të pikës 3 të nenit 19 të ligjit nr.10119, datë 23.4.2009 “Për planifikimin e territorit”;
+c) duke hartuar politika, që lehtësojnë dhe mbështesin bashkëpunimin e bashkërendimin, në çdo nivel, të autoriteteve të planifikimit, për zhvillimin e zbatimin e instrumenteve të planifikimit e të kontrollit të zhvillimit të territorit;
+ç) duke ndërmarrë nismën për përcaktimin e rëndësisë kombëtare të një çështjeje në planifikimin e territorit, siguruar botimin e informimin publik, vendosur pezullimin paraprak të zhvillimit, kryer bashkërendimin, këshillimin e pjesëmarrjen e palëve të interesuara dhe propozuar për miratim në KKT (Këshilli Kombëtar i Territorit), sipas dispozitave përkatëse të ligjit për planifikimin e territorit;
+d) duke :ndihmuar, në bazë të informacionit periodik të marrë, autoritetet kombëtare të planifikimit për procesin e hartimit të instrumenteve të planifikimit dhe duke propozuar përmirësimet e nevojshme të planit të veprimeve e të projektit të instrumentit të planifikimit;
+dh) duke shqyrtuar përputhshmërinë e projektit të paraqitur për miratim, me dispozitat ligjore e nënligjore, në fuqi në fushën e planifikimit të territorit dhe instrumentet e planifikimit në fuqi, sipas nenit 38 të ligjit për planifikimin e territorit dhe mbështetur rishqyrtimin e tij në bashkëpunimin dhe autoritetin propozues të planifikimit;
+e) duke dhënë mbështetje e orientime, në bazë të informacionit periodik të marrë, për autoritetet vendore të planifikimit për procesin e hartimit të instrumenteve të planifikimit dhe rekomanduar përmirësimet e nevojshme të planit të veprimeve dhe projektit të instrumentit të planifikimit;
+ë) duke bashkëvepruar e shkëmbyer të dhëna;
+f) duke nxitur dhe asistuar përgatitjen e projekteve të zhvillimit, që kanë efekte në planifikimin dhe kontrollin e zhvillimit të territorit.
+2.2. Këshillon autoritetet e planifikimit për procedurat dhe rregullat e një procesi planifikimi të territorit.
+2.3. U ofron njësive të qeverisjes vendore mbështetje për hartimin e politikave dhe të akteve për planifikimin e menaxhimin urban, si dhe kontrollin e zhvillimit.
+2.4. Mbështet zhvillimin e cilësive profesionale e teknike të autoriteteve kombëtare e vendore, të planifikimit, nëpërmjet trajnimit dhe ndihmës së drejtpërdrejtë.
+2.5. Përgatit e boton manuale metodologjike për planifikimin e territorit, si dhe përgatit e ofron programe trajnimi për përgatitjen e dokumenteve të planifikimit.
+2.6. Kryen studime dhe vlerësime për zhvillimet në territor dhe u ofron informacion e statistika autoriteteve kombëtare e vendore, të planifikimit, palëve të interesuara dhe publikut.
+2.7. Përgatit dhe boton, brenda fundit të muajit qershor të çdo viti, bazuar në raportet e autoriteteve të tjera të planifikimit dhe të kontrollit të zhvillimit, si dhe në vëzhgimet e kryera prej saj, raportin kombëtar të zhvillimeve në territor të vitit të mëparshëm.
+2.8. Sugjeron, në bazë të studimeve e vlerësimeve të kryera e të informacionit që ka, përrmirësimin e sistemit ligjor për planifikimin e territorit e të instrumenteve të kontrollit të zhvillimit ose ndërmarrjen e proceseve planifikuese apo të masave të tjera të nevojshme.
+2.9. Bashkëpunon me ministritë e tjera për hartimin e përmirësimin e legjislacionit, duke siguruar instrumentet e duhura institucionale dhe ligjore, për të nxitur financimin e infrastrukturës, kryesisht, në mbështetje të zhvillimit në nivel vendor, përmirësimit të partneritetit publik-privat, politikës së taksës për pasurinë, detyrimeve për shkak të zhvillimit, politikave të taksave për përmirësimin e infrastrukturës dhe mekanizmave të tjerë, që sigurojnë burime për financimin e infrastrukturës.
+2.10. Përgatit e propozon aktet nënligjore në zbatim të ligjit për planifikimin e territorit, që lidhen me planifikimin e kontrollin e zhvillimit të territorit dhe me çdo përmirësim të mëtejshëm të tyre e, konkretisht, harton:
+a) sipas përcaktimeve të neneve 24 e 62 të ligjit për planifikimin e territorit, rregulloret uniforme të planifikimit e të kontrollit të zhvillimit dhe kryen bashkërendimin, këshillimin, dëgjimin publik dhe botimin e tyre në regjistrin e planifikimit të territorit, sipas neneve 36 e 37 të ligjit për planifikimin e territorit;
+b) sipas përcaktimeve të nenit 88 të ligjit për planifikimin e territorit, rregulloret model të planifikimit për autoritetet vendore të planifikimit, të cilat nuk kanë miratuar ose nuk përdorin plane territoriale vendore;
+c) aktet nënligjore për regjistrin e planifikimit të territorit dhe shpërndan standardet teknike në fuqi të ngritjes dhe administrimit të regjistrit, sipas përcaktimeve të kreut V të ligjit për planifikimin e territorit.
+2.11. Kryen funksionet e sekretariatit të Këshillit Kombëtar të Territorit (KKT) në organizimin e mbledhjeve dhe përgatit e administron dokumentacionin, që shqyrtohet në to.
+2.12. Mbështet autoritetet e planifikimit për mënyrën e regjistrimit dhe të administrimit në mënyrë të pavarur të të dhënave në regjistër dhe këshillon autoritetet e planifikimit për shpërndarjen efektive të tyre te palët e interesuara dhe procedurat e këshillimit.
+2.13. Mbështet autoritetet vendore, duke u ofruar asistencë teknike, trajnime dhe infrastrukturë, për botimin e të dhënave në regjistër.
+2.14. Informon publikun për proceset e planifikimit dhe siguron aksesin e tij për informacion.
+2.15. Mbështet bashkëpunimin ndërkombëtar në fushën e planifikimit të territorit.
+2.16. Ushtron përgjegjësi të tjera, të parashikuara shprehimisht me ligj e me akte nënligjore.
+KREU III
+ORGANIZIMI, DREJTIMI DHE ADMINISTRIMI I AKPT-SË
+1. AKPT-ja drejtohet nga Drejtori i Përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e kësaj agjencie dhe përgjigjet para Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit.
+2. Drejtori i Përgjithshëm i AKPT-së emërohet, lirohet dhe shkarkohet nga Këshilli i Ministrave, me propozimin e Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit, në përputhje me kriteret dhe procedurat e përcaktuara në vendimin nr.173, datë 7.3.2003 të Këshillit të Ministrave “Për emërimin, lirimin ose shkarkimin nga detyra të drejtuesve të institucioneve, në varësi të Këshillit të Ministrave, Kryeministrit ose të ministrit”. Zëvendësdrejtori i përgjithshëm emërohet, lirohet dhe shkarkohet nga Kryeministri, me propozimin e Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit.
+3. AKPT-ja është institucion buxhetor, që financohet nga Buxheti i Shtetit, donacione të huaja dhe burime të tjera të ligjshme. Buxheti i AKPT-së përbën zë të veçantë në buxhetin e Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit,
