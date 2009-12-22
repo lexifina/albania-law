@@ -11,6 +11,6 @@ Përfaqësues nga agjencitë statistikore të jenë:
 - Z.Kliti Ceca anëtar;
 - Z.Ylber Bezo anëtar;
 - Znj.Besa Peci anëtar;
-- Z.Flojran Nuri anëtar;
+- Z Etion Kapedani. anëtar;
 - Z.Dorian Deltina anëtar.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
