@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive, përkatësisht 105.2 (njëqind e pesë pikë dy)m2, tokë truall, dhe 105.2 (njëqind e pesë pikë dy) m2, objekt, shpronësuar në favor të bashkisë së Peqinit, të bëhet brenda 30 ditëve nga data e hyrjes në fuqi të këtij vendimi.
