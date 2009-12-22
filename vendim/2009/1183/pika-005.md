@@ -1,0 +1,1 @@
+5. Nga kuotat e mësipërme të çdo programi studimi, 9 kuota janë për studentët nga trojet shqiptare jashtë kufijve të Republikës së Shqipërisë dhe administrohen nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve zyrtare të këtyre trojeve.
