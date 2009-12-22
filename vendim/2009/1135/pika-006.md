@@ -1,0 +1,1 @@
+6. Shpronësimi të përfundojë brenda tre muajve nga data e hyrjes në fuqi të këtij vendimi, ndërsa afati i përfundimit të punimeve për këtë objekt të jetë në përputhje me afatet e parashikuara nga bashkia e Shkodrës, për realizimin e projektit.

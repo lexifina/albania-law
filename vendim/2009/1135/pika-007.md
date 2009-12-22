@@ -1,0 +1,1 @@
+7. Regjistrimi i ri i pasurisë prej 724.4 (shtatëqind e njëzet e katër pikë katër) m2, tokë truall, shpronësuar në favor të bashkisë së Shkodrës, të bëhet brenda 30 ditëve nga data e hyrjes në fuqi të këtij vendimi.
