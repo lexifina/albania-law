@@ -1,1 +1,1 @@
-3. Pagesa e përfitimit të paaftësisë kryhet nga bashkia/komuna, ku invalidi ka vendbanimin.
+3. Pagesa e përfitimit të paaftësisë për invalidin bëhet nga shërbimet bankare, që funksionojnë pranë njësisë së qeverisjes vendore, ku ka vendbanimin përfituesi, ose nga shërbimi postar për njësitë e qeverisjes vendore, ku nuk ka një të tillë.
