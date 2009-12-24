@@ -1,0 +1,1 @@
+4. Dokumentacion tatimor, në kuptim të këtij vendimi, do të vlerësohen faturat tatimore me TVSH, faturat e thjeshta tatimore, dëftesat tatimore, faturat e shoqërimit dhe çdo dokument tjetër tatimor, miratuar, përkatësisht, nga Ministri i Financave apo drejtori i Përgjithshëm i Tatimeve për dokumentimin e veprimtarisë tregtare të tatimpaguesit.
