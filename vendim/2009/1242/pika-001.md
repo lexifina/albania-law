@@ -1,0 +1,1 @@
+1.Titullarët e institucioneve, objekt i ligjit nr.10 160, datë 15.10.2009 “Për rregullimin e shërbimit të transportit për funksionarët publikë dhe nëpunësit civilë”, që më poshtë do të quhen titullarët e autoritetit shitës, miratojnë edhe listën e mjeteve të transportit, që do të shiten, pasi kanë miratuar listën e mjeteve, të cilat mbeten në pronësi të institucionit.
