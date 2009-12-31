@@ -1,1 +1,0 @@
-2. Miratimin e lejes nr.3, datë 1.10.2008 të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës “Për ndërtimin dhe shfrytëzimin e linjës tregtare të interkonjeksionit, me rrymë të vazhduar, Porto Romano/Durrës (Shqipëri) - Casamassima/Bari (Itali)”, dhënë shoqërisë “ENEL Produzione S.p.A”, sipas tekstit, që i bashkëlidhet këtij vendimi.
