@@ -1,0 +1,1 @@
+2. Kuotat shtesë të pranimit, të përcaktuara në pikën 1 të këtij vendimi shpërndahen në universitetet, fakultetet dhe programet përkatëse të studimit, sipas tabelës 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

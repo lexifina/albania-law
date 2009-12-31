@@ -1,0 +1,1 @@
+3. Kuotat e paplotësuara në programet e studimeve të ciklit të tretë, “Master i nivelit të dytë”, në Universitetin e Tiranës dhe në Universitetin Bujqësor të Tiranës, rishpërndahen nga Ministria e Arsimit dhe Shkencës.

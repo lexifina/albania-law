@@ -1,0 +1,1 @@
+1. Miratimin e 170 kuotave shtesë për pranimin në programet e studimeve të ciklit të tretë, “Master i nivelit të dytë” (MND), në Universitetin e Tiranës dhe në Universitetin Bujqësor të Tiranës, për vitin akademik 2009-2010.
