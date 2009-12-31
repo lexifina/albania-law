@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTRI I ARSIMIT DHE SHKENCËS
-Genc Pollo
