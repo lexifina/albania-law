@@ -1,0 +1,1 @@
+6. Për regjistrimin e tij, nxënësi paraqet pranë DAR/ZA dëftesë (dëftesat) origjinale të përkthyera dhe noterizuara. DAR/ZA bën konvertimin dhe ekuivalentimin e notave dhe siglon dëftesën e nxënësit. Drejtori i DAR/ZA përcakton shkollën ku do të vazhdojë studimet nxënësi që plotëson kushtet e mësipërme.

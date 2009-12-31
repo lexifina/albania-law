@@ -1,0 +1,1 @@
+2. Fëmijë të moshës 3-6-vjeç të personave të cilët janë azilantë në Republikën e Shqipërisë, por nuk zotërojnë certifikatën e lindjes, të regjistrohen në arsimin parashkollor sipas dëshmisë së prindërve dhe dokumentacionit që ai zotëron në Drejtorinë për Shtetësinë dhe Refugjatët. Ngarkohet DAR/ZA të përcaktojnë institucionet parashkollore për regjistrimin e këtyre fëmijëve.
