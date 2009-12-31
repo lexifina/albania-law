@@ -1,0 +1,1 @@
+3. Ministri, në mbështetje të nevojave të përsosjes së procesit të monitorimit të mjedisit, miraton me urdhër, në përputhje me treguesit e përdorur nga Agjencia Europiane e Mjedisit, tregues të rinj për monitorimin e mjedisit, të cilët përfshihen në programin kombëtar të monitorimit të mjedisit.

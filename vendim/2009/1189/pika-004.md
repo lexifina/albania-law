@@ -1,0 +1,1 @@
+4. Programi kombëtar i monitorimit të mjedisit është vjetor dhe miratohet nga ministri në muajin shtator për vitin pasardhës. Programi i miratuar publikohet në variantin elektronik në website-in e ministrisë dhe shërben si bazë për kërkesat e institucioneve monitoruese për të paraqitur projektet, me ofertat e tyre.

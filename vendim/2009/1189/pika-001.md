@@ -1,0 +1,4 @@
+1.Ministria harton programin kombëtar të monitorimit të mjedisit dhe bashkërendon punën për zbatimin e tij, nëpërmjet Agjencisë së Mjedisit dhe Pyjeve, e cila, për hartimin e këtij programi, bashkëpunon me:
+a) ministritë, në përputhje me fushën, që mbulon ministria konkrete, për të përcaktuar të dhënat dhe treguesit, që ajo do të grumbullojë për mjedisin;
+b) organet e qeverisjes vendore për të përcaktuar të dhënat e treguesit për mjedisin, që ato kanë në administrim, sidomos për mjediset urbane, për administrimin e mbetjeve, për ujërat, për pyjet e kullotat komunale, për shfrytëzimin e pasurive natyrore e të burimeve minerare dhe për rregullimet në infrastrukturë;
+c) institucionet monitoruese për rakordimet, në bazë të mundësive të tyre për të monitoruar treguesit konkretë mjedisorë, rakordime që duhet të përfundojnë brenda muajit maj.

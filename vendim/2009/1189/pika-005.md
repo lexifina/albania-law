@@ -1,0 +1,1 @@
+5. Institucionet monitoruese, në bazë të programit, japin me hollësi dhe hartojnë projekte të veçanta për monitorimin e treguesve mjedisorë, të marrë përsipër prej tyre, të cilët i paraqesin në ministri si oferta, brenda datës 10 nëntor.
