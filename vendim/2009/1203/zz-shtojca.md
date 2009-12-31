@@ -1,0 +1,71 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E PUNËVE PUBLIKE, TRANSPORTIT DHE TELEKOMUNIKACIONIT
+DREJTORIA E PËRGJITHSHME E RRUGËVE
+SEKTORI I SHPRONËSIMEVE
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR “KALIMASH-MORINË”
+Nr.
+Pronari
+Zk
+Nr.pas
+Truall
+Objekte vlera lekë
+Totali lekë
+Vendndodhja
+Shënime
+Emri
+Atësia
+Mbiemri
+Sip.m2
+Çmimi m2
+Vlera lekë
+1
+Abedin
+Rasim
+Oruçi
+1543
+157/2;157/3
+292
+2023
+590716
+25757107
+26347823
+Lagjja drinas
+Konfirmuar nga ZRPP
+2
+Habibe
+Ahmet
+Oruçi
+1543
+157/4
+115
+2023
+232645
+232645
+Lagjja drinas
+Konfirmuar nga ZRPP
+3
+Bashkim
+Selman
+Cenaj
+2315
+41/28
+306238
+306238
+Qytet kukës
+Konfirmuar nga ZRPP
+4
+Vesel
+Adem
+Dida
+1176
+297/4
+2728280.25
+2728280.25
+Breg-lum
+Konfirmuar nga ZRPP
+Totali
+407
+823361
+28791625.25
+29614986.25
