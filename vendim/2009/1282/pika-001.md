@@ -1,0 +1,1 @@
+1. Kuota e pranimit në programet e ciklit të tretë, të studimeve specializuese afatgjata, në Fakultetin e Mjekësisë të Universitetit të Tiranës, që fillojnë studimet në vitin akademik 2009-2010, të jetë 285, e ndarë në specialitete, sipas shtojcës nr.1, që i bashkëlidhet këtij vendimi.

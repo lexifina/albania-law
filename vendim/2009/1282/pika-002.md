@@ -1,0 +1,1 @@
+2. Nga kuotat e përcaktuara në pikën 1 të këtij vendimi, 21 kuota caktohen për kandidatët nga trojet shqiptare, jashtë kufijve të Republikës së Shqipërisë, të cilat administrohen nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve zyrtare të këtyre trojeve.
