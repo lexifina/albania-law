@@ -1,0 +1,1 @@
+8. Kur sasia e instrumenteve matëse të të njëjtit tip, që verifikohet ose kalibrohet është më e madhe se një copë, pagesa llogaritet nga produkti i pagesës përkatëse për copë me numrin e copëve të këtij tipi instrumentit matës, kur nuk paraqitet ndryshe në pasqyrën përkatëse.

@@ -1,0 +1,1 @@
+1. Personat fizikë ose juridikë, që prodhojnë, importojnë ose përdorin instrumente matëse për shërbimet e kryera nga DPM për llogari të tyre, janë të detyruar të paguajnë tarifat dhe pagesat e përcaktuara në këtë udhëzim.

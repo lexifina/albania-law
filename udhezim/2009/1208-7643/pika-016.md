@@ -1,0 +1,1 @@
+16. Për kryerjen e procedurave të autorizimit të subjekteve që kryejnë shërbime në fushën e metrologjisë ligjore, si dhe të inspektimit vjetor të tyre, miratohen tarifat e përcaktuara në pasqyrën nr.7 të këtij udhëzimi.

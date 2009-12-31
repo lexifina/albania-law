@@ -1,0 +1,1 @@
+12. Kur personi fizik ose juridik njofton për moszbatimin e planifikimit të kalibrimit të instrumenteve matëse, ndërkohë që Drejtoria e Përgjithshme e Metrologjisë ka filluar punën përgatitore për kryerjen e kalibrimit, paguhet pagesa sipas pasqyrës nr.5, që i bashkëlidhet këtij udhëzimi.
