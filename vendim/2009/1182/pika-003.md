@@ -1,0 +1,1 @@
+3. Instituti i Studimeve Europiane ka si qëllim të veprimtarisë të tij përgatitjen dhe formimin e vazhduar të specialistëve shqiptarë, në kuadër të proceseve integruese drejt Bashkimit Europian dhe më gjerë.

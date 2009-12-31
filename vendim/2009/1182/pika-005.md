@@ -1,0 +1,1 @@
+5. Struktura dhe mënyra e organizimit të Institutit të Studimeve Europiane përcaktohen në statutin e Universitetit të Tiranës, në përputhje me përcaktimet e bëra në ligjin nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar.
