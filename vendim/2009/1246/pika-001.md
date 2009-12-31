@@ -1,0 +1,2 @@
+1. Lejimin e drejtorisë rajonale rrugore, Lezhë të përfundojë, brenda datës 31 dhjetor 2009, si autoritet kontraktor, procedurat e prokurimit për investime “Riveshje pjesore, Ura e Fanit-Autostradë” dhe “Riveshje pjesore, Kakarriq”, me fondet e parashikuara në buxhetin e vitit 2009, sipas aneksit nr.1, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati të përfshihen edhe lidhja e kontratave përkatëse e publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
