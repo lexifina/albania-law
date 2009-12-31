@@ -1,0 +1,1 @@
+8. Regjistrimi i pasurisë së paluajtshme, në emër të drejtorisë rajonale të kulturës kombëtare, Gjirokastër, i përbërë nga 144 ( njëqind e dyzet e katër) m² truall dhe 96 (nëntëdhjetë e gjashtë) m² ndërtim 3-katësh, të bëhet brenda 30 ditëve nga data e hyrjes në fuqi të këtij vendimi.
