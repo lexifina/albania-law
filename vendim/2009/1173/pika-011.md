@@ -1,0 +1,1 @@
+11. Vendimi nr.309, datë 21.6.1993 i Këshillit të Ministrave “Për shpërblimin e cilësisë artistike në letërsi, artin figurativ, muzikor, kinematografik, ekzekutiv, interpretativ, si dhe për kontributin e angazhimit të përkohshëm në projektet kulturore”, shfuqizohet.

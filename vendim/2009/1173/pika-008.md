@@ -1,0 +1,1 @@
+8. Komisioni, pas analizimit të ofertave të paraqitura, përzgjedh, në bazë të pikëve, operatorët/agjencitë e specializuara, duke u bazuar në kushtet e veçanta, të përcaktuara në pikën 3, të këtij vendimi, si dhe harton një raport të hollësishëm për të gjithë procedurën e ndjekur, raport të cilin ia paraqet titullarit të institucionit.

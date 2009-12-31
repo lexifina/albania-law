@@ -1,0 +1,1 @@
+10. Ankesat për procedurën e blerjes, të shërbimit dhe mallrave, për zhvillimin, prodhimin apo bashkëprodhimin e programeve kulturore, sociale dhe artistike nga operatorët e fushës bëhen te drejtuesi i institucionit.Vendimi i tij është përfundimtar.

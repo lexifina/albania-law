@@ -1,0 +1,1 @@
+6. Në ftesën për negociata duhet të përcaktohen objekti i programit, ngjarjes, nevoja e kryerjes së programit/ngjarjes, fondi limit dhe data përfundimtare për paraqitjen e ofertës nga operatorët dhe agjencitë.

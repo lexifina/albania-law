@@ -1,0 +1,1 @@
+5. Komisioni, brenda një periudhe kohore 5-ditore nga data e daljes së vendimit, u shpërndan, me korrespondencë zyrtare, operatorëve/agjencive të specializuara ftesën për negociata, e cila duhet t’u dërgohet të paktën dy operatorëve.

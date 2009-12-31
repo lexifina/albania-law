@@ -1,0 +1,1 @@
+2. Titullari i institucionit urdhëron, me shkrim, blerjen e shërbimit e të mallrave, për zhvillimin, prodhimin apo bashkëprodhimin e programeve kulturore, sociale dhe artistike nga operatorët e fushës, duke parashikuar, për çdo rast, objektin, nevojën e kryerjes së programit, fondin limit dhe përbërjen e komisionit, për ndjekjen e procedurave.
