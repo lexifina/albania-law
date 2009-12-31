@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga rikonstruksioni i rrugës nga Kopshti Zoologjik në takim me rrugën “Sami Frashëri”, në bashkinë e Tiranës.
