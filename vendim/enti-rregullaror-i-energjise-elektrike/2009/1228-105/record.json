@@ -1,0 +1,26 @@
+{
+  "qbz_id": 18021,
+  "title": "MBI ANKIMIN E OSSH SHA PËR VENDIMET E BORDIT TË KOMISIONERËVE NR.98, DATË 15.12.2009 DHE NR.100, DATË 15.12.2009",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "105",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2009-12-28",
+  "published": "2009-12-31",
+  "in_force": "2009-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d87db97f92db94338cd3162ea3113eeb999c781eaba4cafd1be929c1a3abf12d.docx",
+  "source_sha256": "d87db97f92db94338cd3162ea3113eeb999c781eaba4cafd1be929c1a3abf12d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18021",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2009/12/28/105",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
