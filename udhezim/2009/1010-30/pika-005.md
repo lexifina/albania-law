@@ -1,0 +1,1 @@
+5. Formulari A3 përmban të gjitha kuotat e përcaktuara në listën bashkëngjitur urdhrit nr.323, datë 10.10.2009 të Ministrit të Arsimit dhe Shkencës, për secilin program studimi të ciklit të parë dhe mundëson orientimin dhe aplikimin për programin e studimit të preferuar nga kandidati, në bazë të pikëve të fituara dhe të pikëve të fituesit të fundit.

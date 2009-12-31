@@ -1,0 +1,1 @@
+8. Formulari A3 të shpërndahet në DAR/ZA më 21.10.2009, nga ku do të tërhiqet nga kandidatët e përcaktuar në pikën 4, germat “a”, “b” dhe “c”, të cilët duhet të dorëzojnë formularin e plotësuar në DAR/ZA deri më 26.10.2009.

@@ -1,0 +1,1 @@
+11. APRIAL të dorëzojë, në datën 31.10.2009, në formë të shkruar dhe elektronike, listat përfundimtare të kandidatëve fitues, sipas programeve përkatëse të studimit të ciklit të parë me kohë të plotë, në institucionet publike të arsimit të lartë dhe DAR/ZA. Këto institucione afishojnë menjëherë listat në vende të dukshme në mjediset e tyre.

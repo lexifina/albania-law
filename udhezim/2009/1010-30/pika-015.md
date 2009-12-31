@@ -1,0 +1,1 @@
+15. Sekretaria mësimore të pajisë kandidatin me fletëregjistrimi ku të shënohet numri i regjistrimit, emri i kandidatit, data dhe ora e regjistrimit. Fleta e regjistrimit duhet të jetë e nënshkruar dhe e vulosur nga titullari i institucionit publik të arsimit të lartë/njësisë kryesore që kryen regjistrimin dhe nga kryesekretari mësimor.
