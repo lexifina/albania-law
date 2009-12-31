@@ -1,0 +1,1 @@
+1. Procesi i botimit, shtypjes dhe shpërndarjes së teksteve shkollore të arsimit parauniversitar, në zbatim të vendimit të Këshillit të Ministrave nr.260, datë 18.4.2007 “Për botimin, shtypjen dhe shpërndarjen e teksteve shkollore, të sistemit arsimor parauniversitar” të ndryshuar , realizohet nga shtëpitë botuese.

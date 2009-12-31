@@ -1,0 +1,1 @@
+8. Raportimi i fondeve nga DAR dhe ZA. DAR/ZA në fund të çdo muaji mbajnë aktrakordimi me bankat e nivelit të dytë, si dhe me zyrat e Postës Shqiptare, për gjendjen faktike të përdorimit të fondeve buxhetore “transfertës tek individët”, të kaluara për llogari të përfituesit, nxënësit/prindërit dhe këtë situatë e raportojnë në MASH.

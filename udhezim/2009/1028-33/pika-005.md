@@ -1,0 +1,1 @@
+5. Vlera e fondeve buxhetore, e përcaktuar si kompensim “transfertë tek individët”, do të përdoren nga nxënësi/përdoruesi/prindri për të përballuar diferencën midis çmimit të shitjes së teksteve shkollore dhe masës së caktuar për t’u përdorur si kompensim “transfertë tek individët” nga Buxheti i Shtetit.

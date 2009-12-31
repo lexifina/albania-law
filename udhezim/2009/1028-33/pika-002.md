@@ -1,0 +1,1 @@
+2. Certifikimi i teksteve. Përpara se të shpërndahen ose të dalin për shitje tekstet, duhet të jenë të certifikuara, me certifikatën e lejes për t’u futur në tregun e shitjes, si dhe të pajisura me pullën me hologram nga MASH-i. Pullat me hologram u shiten botuesve kundrejt kostos së blerjes nga MASH-i.

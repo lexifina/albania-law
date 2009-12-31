@@ -1,0 +1,5 @@
+UDHËZIM
+Nr.33, datë 28.10.2009
+PËR PROCEDURAT E PËRDORIMIT TË FONDEVE Të BUXHETIT Të SHTETIT PËR BOTIMIN, SHTYPJEN DHE SHPËRNDARJEN E TEKSTEVE TË ARSIMIT PARAUNIVERSITAR DHE UNIVERSITAR
+Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë, të ligjit nr.9936, datë 26.6.2008 “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ligjit nr.10025, datë 27.11.2008 “Për buxhetin e vitit 2009”, të ndryshuar, të ligjit nr.6942, datë 25.12.1984 “Për administrimin, ruajtjen, dokumentimin dhe qarkullimin e vlerave materiale e monetare”, të vendimit të Këshillit të Ministrave nr.70, datë 11.3.1985 “Për administrimin, ruajtjen, dokumentimin dhe qarkullimin e vlerave materiale e monetare”, të vendimit të Këshillit të Ministrave nr. 260, datë 18.04.2007 “Për botimin, shtypjen dhe shpërndarjen e teksteve shkollore, të sistemit arsimor parauniversitar”, të ndryshuar, si dhe të vendimit të Këshillit të Ministrave nr. 266, datë 22.5.1995 “Për subvencionimin e një pjese të çmimeve të botimeve të Shtëpisë Botuese të Librit Universitar”, Ministri i Financave dhe Ministri i Arsimit dhe i Shkencës
+UDHËZOJNË:
