@@ -1,0 +1,26 @@
+{
+  "qbz_id": 17999,
+  "title": "Për një ndryshim në udhëzimin nr.2365, datë 26.11.2008 “Mbi zbatimin e vendimit të këshillit të ministrave nr.277,d atë 18.6.1997 “Për përfitimin nga statusi i të verbrit”, i ndryshuar”",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "2306",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2009-12-10",
+  "published": "2009-12-31",
+  "in_force": "2009-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/65a4d6644ac21edd4cb0978d8b41f41b39877c761dbef01bbd144fc6cbf1014b.docx",
+  "source_sha256": "65a4d6644ac21edd4cb0978d8b41f41b39877c761dbef01bbd144fc6cbf1014b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/17999",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2009/12/10/2306",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
