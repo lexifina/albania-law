@@ -1,0 +1,1 @@
+15. Pas përfundimit të procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në MASH dhe në APRIAL listat përfundimtare origjinale në formë elektronike, të përgatitura nga APRIAL me regjistrimet përfundimtare në vitin e parë të studentëve të ciklit të parë me kohë të plotë për vitin akademik 2009-2010, brenda datës 10.12.2009.

@@ -1,0 +1,1 @@
+10. APRIAL të përpunojë të dhënat e mara nga formulari A4 dhe në datën 30.11.2009 të shpallë listën përfundimtare të kandidatëve fitues të ndarë, sipas programeve të studimit përkatës, në përputhje me kuotat e rishpërndara dhe njëkohësisht e dorëzon këtë listë në Ministrinë e Arsimit dhe të Shkencës.

@@ -1,0 +1,1 @@
+4. Kanë të drejtë të plotësojnë formularin A4 të gjithë kandidatët, të cilët nuk kanë fituar një vend studimi në listat e fituesve në ciklin e parë të studimeve me kohë të plotë në institucionet publike të arsimit të lartë në vitin akademik 2009 - 2010;

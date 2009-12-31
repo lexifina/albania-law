@@ -1,0 +1,1 @@
+6. Formulari A4 përmban të gjitha kuotat e përcaktuara në listën bashkëngjitur urdhrit nr.389, datë 19.11.2009, për secilin program studimi të ciklit të parë dhe mundëson orientimin dhe aplikimin për programin e studimit të preferuar nga kandidati, në bazë të pikëve të fituara nga ai dhe duke u orientuar nga pikët e fituesit të fundit në atë program studimi në Fazën 3.

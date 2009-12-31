@@ -1,0 +1,1 @@
+1. Të regjistrohen në institucionet publike të arsimit të lartë, në ciklin e parë të studimeve, sipas programeve përkatëse të studimit të shpallura nga MASH-i, kandidatët që shpallen fitues nga APRIAL për kuotat e parealizuara, pas fazës së tretë.
