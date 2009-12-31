@@ -1,0 +1,1 @@
+3. Vendimi nr.1516, datë 19.11.2008 i Këshillit të Ministrave “Për miratimin e lejes për ndërtimin dhe shfrytëzimin e linjës tregtare të interkonjeksionit, me rrymë të vazhduar, Porto Romano/Durrës (Shqipëri) - Casamassima/Bari (Itali)”, shfuqizohet.
