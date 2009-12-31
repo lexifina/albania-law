@@ -1,0 +1,1 @@
+1. Pranimin e kandidatëve në programet e studimit të ciklit të parë, në formën e studimit me kohë të pjesshme dhe edukimin në distancë, në institucionet publike të arsimit të lartë, në vitin akademik 2009-2010, në bazë të përzgjedhjes së bërë nga institucionet publike të arsimit të lartë, sipas kritereve të përcaktuara dhe të bëra publike paraprakisht.
