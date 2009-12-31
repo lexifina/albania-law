@@ -1,0 +1,2 @@
+13. Bordi, në përputhje me natyrën e Akademisë dhe për çështje të lidhura me objektin e punës së Ministrisë së Financave dhe të organeve, në varësi të saj, mund të vendosë edhe organizimin e programeve të tjera me karakter fakultativ.
+Këto programe nuk janë të detyrueshme dhe mund të ndiqen nga persona, që dëshirojnë të bëhen pjesë e administratës tatimore apo nga nëpunës të administratës shtetërore, të cilët dëshirojnë të thellojnë njohuritë në fusha specifike tatimore apo doganore.
