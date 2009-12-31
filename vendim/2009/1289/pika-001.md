@@ -1,0 +1,1 @@
+1. Kalimin në pronësi, pa shpërblim, z.Ismail Kadare, të një prone, truall, me sipërfaqe 3 647 (tre mijë e gjashtëqind e dyzet e shtatë) m2, të ndodhur në zonën kadastrale 3101, Qerret, sipas planvendosjes, që i bashkëlidhet këtij vendimi.
