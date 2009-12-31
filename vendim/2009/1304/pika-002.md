@@ -1,0 +1,1 @@
+2. Ky model mund të zgjerohet ose përshtatet në funksion të specifikave, që mund të jenë vërejtur te zona e shërbimit të furnizimit me ujë dhe kanalizimeve, por pa cenuar e ndryshuar detyrimet kryesore, që rrjedhin prej saj.

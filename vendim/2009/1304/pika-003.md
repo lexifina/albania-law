@@ -1,0 +1,1 @@
+3. Palët që nënshkruajnë këtë rregullore, janë: Asambleja e Aksionarëve e Ujësjellës-Kanalizimeve sh.a., përfaqësuar nga kryetari i saj dhe Shoqëria e Ujësjellës-Kanalizimeve, përfaqësuar nga drejtori i saj.

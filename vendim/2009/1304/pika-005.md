@@ -1,0 +1,1 @@
+5. Enti Rregullator i Ujit, në rast të mosnënshkrimit të kësaj rregulloreje nga palët e sipërpërmendura, nuk miraton tarifat për shërbimin e ujit apo dhënien e licencave për shoqëritë e ujësjellës-kanalizimeve.

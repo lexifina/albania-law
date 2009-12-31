@@ -1,0 +1,1 @@
+1. Miratimin e modelit të rregullores tip “Për furnizimin me ujë të pijshëm dhe për kanalizimet në zonën e shërbimit të ujësjellës-kanalizimeve sh.a.”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
