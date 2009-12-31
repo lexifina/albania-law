@@ -1,0 +1,1 @@
+9. Në rastet kur ka mangësi në dokumentacion, zyra e gjendjes civile, në bashkëpunim me institucionin përkatës, njofton brenda 5 ditëve shtetasit për plotësimin e dokumentacionit. Në rast mosparaqitjeje brenda 5 ditëve, zyra e gjendjes civile dhe institucionet ndërpresin shërbimin për këta shtetas deri në plotësimin e dokumentacionit.

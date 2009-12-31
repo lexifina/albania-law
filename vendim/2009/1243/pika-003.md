@@ -1,0 +1,2 @@
+3. Bashkimi i një personi ose i një familjeje me një familje tjetër bëhet me pëlqimin e të gjithë pjesëtarëve madhorë me anën e deklarimit përpara nëpunësit të shërbimit të gjendjes civile dhe kur plotësohet minimumi i sipërfaqes së banimit, 4 m2 për frymë, përveç bashkimit me martesë dhe birësim.
+II.VEPRIMET QË KRYHEN NGA INSTITUCIONET SHTETËRORE, DOKUMENTACIONI I NEVOJSHËM DHE AFATET E KOMUNIKIMIT

@@ -1,0 +1,1 @@
+2. Pjesëtarët madhorë të familjes, të cilët kërkojnë të ndryshojnë vendbanimin e tyre, më parë duhet të realizojnë veçimin, si familje më vete, në zyrën e gjendjes civile ekzistuese, përveç rasteve të regjistrimit të vendbanimit, të përmendur në pikën 4 të këtij vendimi.
