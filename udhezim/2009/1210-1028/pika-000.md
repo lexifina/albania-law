@@ -1,0 +1,2 @@
+Miratimin e dokumentacionit që duhet të paraqesë personi juridik për t’u pajisur me leje minerare për mineralet e grupit 1, 2, 3 dhe 4. Kërkesa, së bashku me dokumentacionin shoqërues, paraqitet në sportelet e QKL-së. Sipas procedurës së përcaktuar në nenet 17, 31, 32 dhe 33 të ligjit 10 081, datë 23.2.2009 “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”.
+Dokumentacioni duhet të përmbajë:

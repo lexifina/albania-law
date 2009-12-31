@@ -1,0 +1,1 @@
+2. Aktin e verifikimit, të kryer nga Agjencia Kombëtare e Burimeve Natyrore (AKBN), sipas formularit të përgatitur prej saj, për secilën nga llojet e lejes minerare të kërkuar. Në këtë formular të jenë pasqyruar edhe të dhënat nëse ka ose jo efekte të dëmshme për monumentet e kulturës apo të arkeologjisë.
