@@ -1,0 +1,29 @@
+{
+  "qbz_id": 14617,
+  "title": "Për krijimin dhe mënyrën e përdorimit të fondit të emergjencave civile në qarkun e Shkodrës, për të përballuar situatën e shkaktuar nga përmbytjet natyrore",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "2",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-01-09",
+  "published": "2010-01-12",
+  "in_force": "2010-01-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/eca756c06bf9423f17e391c6549feaf212261335626df54fc0d5d9da45296de5.docx",
+  "source_sha256": "eca756c06bf9423f17e391c6549feaf212261335626df54fc0d5d9da45296de5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/14617",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/01/09/2",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    16445,
+    15103
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
