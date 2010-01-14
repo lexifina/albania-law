@@ -1,0 +1,9 @@
+LIGJ
+Nr.10 194, datë 10.12.2009
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN
+“PËR NJOHJEN DHE ZBATIMIN E VENDIMEVE TË HUAJA
+NË FUSHËN CIVILE DHE TREGTARE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
