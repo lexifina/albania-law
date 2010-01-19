@@ -1,0 +1,1 @@
+9. Ankesat e subjekteve ndaj procedurës së zhvilluar i paraqiten, brenda 5 ditëve nga data e njoftimit, titullarit të institucionit. Vendimi i jepet brenda 5 ditëve nga data e paraqitjes së ankesës dhe është përfundimtar. Njoftimi përfundimtar i fituesit do të bëhet me të gjitha mjetet e komunikimit.

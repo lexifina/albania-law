@@ -1,0 +1,1 @@
+2. Termi “Vlerësim i riskut (Credit rating)” në kuptim të këtij vendimi, përfshin shërbimin financiar në formën e procesit vlerësues të riskut të vendit, duke ofruar shërbimin e nevojshëm për realizimin e procesit të transaksioneve të huamarrjes në tregun ndërkombëtar.
