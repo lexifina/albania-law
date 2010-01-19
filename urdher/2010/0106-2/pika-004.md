@@ -1,0 +1,2 @@
+4. ZVRPP-ja e rrethit, sipas formatit të pasqyrës që i bashkëlidhet këtij urdhri dhe si pjesë përbërëse e tij, brenda datës 30 qershor dhe 31 dhjetor të çdo viti përgatit evidencën 6-mujore të shitblerjeve të tokës bujqësore (arë, pemëtore, vreshta, ullishte) dhe ia dërgon SAMT-së së këshillit të qarkut.
+SAMT e këshillit të qarkut, brenda datës 15 korrik dhe 15 janar të çdo viti, i dërgon MBUMK-së evidencën përmbledhëse, 6-mujore të shitblerjeve të tokës bujqësore.
