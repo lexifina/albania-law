@@ -4,7 +4,7 @@ Nr. 248, datë 27.4.2007
 
 PËR  KRIJIMIN E AGJENCISË KOMBËTARE TË SHOQËRISË SË 
 INFORMACIONIT 
-(Ndryshuar me VKM nr. 837, datë 29.7.2009)
+(Ndryshuar me VKM nr. 837, datë 29.7.2009; nr. 28, datë 20.1.2010)
 
 (i përditësuar)
 
@@ -12,59 +12,97 @@ Në mbështetje të nenit 100 të Kushtetutës, të nenit 10 të ligjit nr. 9000
 
 VENDOSI: 
 
-1. Krijimin e Agjencisë Kombëtare të Shoqërisë së Informacionit, si institucion juridik publik, në varësi të Kryeministrit, me seli në Tiranë. 
+1. Krijimin e Agjencisë Kombëtare të Shoqërisë së Informacionit, si institucion juridik publik, në  varësi të Ministrit të Shtetit për Reformat dhe Marrëdhëniet me Kuvendin, me seli në Tiranë. 
 
-2. Agjencia Kombëtare e Shoqërisë së Informacionit (AKSHI) ka objekt të veprimtarisë: 
+2. Agjencia Kombëtare e Shoqërisë së Informacionit (AKSHI) ka objekt të veprimtarisë:
 
-a) Hartimin dhe zbatimin e politikave, të strategjive, akteve, ligjore dhe nënligjore, për zhvillimin e sektorit të shoqërisë së informacionit (SHI); 
+a) Zbatimin e politikave e të strategjive, për zhvillimin e sektorit të shoqërisë së informacionit (më poshtë SHI) dhe në veçanti të teknologjisë së informacionit dhe komunikimit (më poshtë TIK); 
 
-c) Bashkërendimin e politikave dhe të programeve në fushën e SHI-së; 
+b) Bashkërendimin e programeve në fushën e SHI-së dhe në veçanti të TIK-ut; 
 
-ç) Nxitjen e investimeve në fushën e SHI-së; 
+c) Nxitjen e investimeve në fushën e SHI-së; 
 
-d) Promovimin e teknologjive të reja në fushën e SHI-së; 
+ç) Hartimin e praktikave për ushtrimin e kompetencave që i jepen ministrit nga legjislacioni në fushën e komunikimeve elektronike;
 
-dh) Edukimin dhe nxitjen e përdorimit të TIK-së nga publiku. 
+d) Promovimin e teknologjive të reja në fushën e SHI-së; 
+
+dh) Dhënien e kontributit në edukimin dhe nxitjen e përdorimit të TIK-ut nga publiku.
 
 3. Agjencia Kombëtare e Shoqërisë së Informacionit ka këto detyra dhe përgjegjësi specifike: 
 
-a) Harton strategjinë kombëtare për zhvillimin e shoqërisë së informacionit dhe bashkërendon punën për zbatimin e saj; 
+ a) Merr pjesë në hartimin e strategjisë kombëtare për zhvillimin e shoqërisë së informacionit dhe bashkërendon punën për zbatimin e saj; 
 
-b) Përgatit bazën ligjore për zhvillimin e SHI-së; 
+b) Merr pjesë në hartimin e dokumentit të politikës së zhvillimit në  fushën e komunikimeve elektronike;
 
-c) Bashkërendon reformat, programet dhe projektet në fushën e SHI-së, që zbatohen në të gjitha institucionet publike; 
+c) Merr pjesë në përgatitjen e bazës ligjore për zhvillimin e SHI-së dhe të TIK-ut;
 
-ç) Përcakton standardet TIK, që do të përdorin Kryeministria, ministritë dhe institucionet në varësi të Këshillit të Ministrave, Kryeministrit/ministrit. Këto standarde publikohen në Buletinin e Njoftimeve Publike.
+ç) Ndihmon në hartimin e ndryshimeve dhe përmirësimin e kuadrit ligjor dhe nënligjor në fushën e komunikimeve elektronike;
 
-Në rastet kur standardet mungojnë dhe/ose janë të pazbatueshme, institucionet  e mësipërme janë të detyruara, në çdo rast, të marrin, përpara fillimit  të procedurave të prokurimit publik, mendimin e AKSHI-t; 
+d) Bashkërendon reformat, programet dhe projektet në fushën e SHI-së, që zbatohen në të gjitha institucionet publike; 
 
-d) Zhvillon një rrjet të brendshëm të TIK-së për administratën publike, përfshi krijimin e rrjetit qeveritar (GovNet) dhe të portalit qeveritar; 
+dh) Përcakton standardet e TIK-ut, që do të përdorë Kryeministria, ministritë dhe institucionet, në varësi të Këshillit të Ministrave, Kryeministrit/ministrit. Këto standarde botohen në Buletinin e Njoftimeve Publike;
 
-dh) Bashkërendon projektet për kompjuterizimin e të gjithë sektorëve të administratës publike, duke i dhënë përparësi kompjuterizimit të institucioneve, që ofrojnë shërbime të drejtpërdrejta për publikun dhe bizneset; 
+e) Në rastet kur standardet mungojnë dhe/ose janë të pazbatueshme, institucionet e mësipërme janë të detyruara, në çdo rast, të marrin mendimin e AKSHI-t, përpara fillimit të procedurave të prokurimit publik; 
 
-e) Drejton strategjinë dhe projektet për ngritjen e shërbimeve on line të administratës publike, përfshi të gjitha shërbimet e qeverisjes elektronike; 
+ë) Zhvillon një rrjet të brendshëm të TIK-ut për administratën publike, përfshi krijimin e rrjetit qeveritar (GovNet) dhe të portalit qeveritar; 
 
-ë) Mbështet dhe bashkërendon projektet për dixhitalizimin e bazës ligjore, të dokumentacionit, arkivave, bibliotekave, etj; 
+f) Bashkërendon projektet për futjen e kompjuterave në të gjithë sektorët e administratës publike, duke i dhënë përparësi institucioneve, që ofrojnë shërbime të drejtpërdrejta për publikun dhe bizneset; 
 
-f) Nxit dhe mbështet përdorimin e internetit dhe TIK-së në shkolla, përfshi kompjuterizimin dhe aksesin në internet të të gjitha shkollave publike; 
+g) Drejton strategjinë dhe projektet për ngritjen e shërbimeve on line të administratës publike, përfshi të gjitha shërbimet e qeverisjes elektronike; 
 
-g) Nxit dhe mbështet zhvillimin e biznesit on line (ebussiness); 
+gj) Mbështet dhe bashkërendon projektet për dixhitalizimin e bazës ligjore, të dokumentacionit, të arkivave, të bibliotekave etj.; 
 
-gj) Propozon politika, nxitëse dhe mbështetëse, për zhvillimin e infrastrukturës së TIK-së dhe të investimeve private në këtë fushë; 
+h) Nxit dhe mbështet përdorimin e internetit dhe TIK-ut në shkolla, përfshi kompjuterizimin dhe aksesin në internet të të gjitha shkollave publike; 
 
-h) Promovon përhapjen e internetit dhe aksesin e publikut në shërbimet on line; 
+i) Nxit dhe mbështet zhvillimin e biznesit on line (e-bussiness); 
 
-i) Promovon dhe mbështet rritjen e aftësive për përdorimin e kompjuterit dhe të internetit nga qytetarët; 
+j) Nxit dhe mbështet politika për zhvillimin e infrastrukturës së TIK-ut dhe të investimeve private në këtë fushë; 
 
-k) Bashkëpunon në fushën e SHI-së me institucione të tjera shtetërore dhe ndërkombëtare, shoqërinë civile dhe sektorin privat. 
+k) Promovon përhapjen e internetit dhe aksesin e publikut në shërbimet on line; 
 
-l)Gjatë planifikimit të projektbuxhetit të shtetit, Ministria e Financave duhet të marrë  mendimin e AKSHI-t, i cili është organ teknik-këshillimor i institucioneve, të përmendura në shkronjën “ç”, për kërkesat e tyre, për financimin me fonde buxhetore të projekteve në fushën e teknologjisë së informacionit dhe komunikimit.
+l) Promovon dhe mbështet rritjen e aftësive për përdorimin e kompjuterit dhe të internetit nga qytetarët; 
+
+ll) Bashkëpunon në fushën e SHI-së me institucione të tjera shtetërore dhe ndërkombëtare, shoqërinë civile dhe sektorin privat; 
+
+m) Bashkërendon veprimtarinë dhe përgatit praktikat në kuadër të  detyrimeve, konventave dhe marrëveshjeve ndërkombëtare, dypalëshe dhe shumëpalëshe, në fushën e komunikimeve elektronike.
+
+ Ministria e Financave, gjatë planifikimit të projektbuxhetit të shtetit, duhet të marrë mendimin e AKSHI-t, i cili është organ teknik-këshillimor i institucioneve të përmendura në shkronjën “dh” të pikës 3 të këtij vendimi, për kërkesat e tyre, për financimin me fonde buxhetore të projekteve në fushën e teknologjisë së informacionit dhe komunikimit.
+
+3.1. Veprimtaria e AKSHI-it mbështetet nga këshilli koordinativ, si organ kolegjial, i kryesuar nga Ministri i Shtetit për Reformat dhe Marrëdhëniet me Kuvendin, dhe në përbërje të tij janë:
+
+a) zëvendësministri i Brendshëm;
+
+b) zëvendësministri i Arsimit dhe Shkencës;
+
+c) zëvendësministri i Ekonomisë,Tregtisë dhe Energjetikës;
+
+ç) rektori i Universitetit Politeknik të Tiranës;
+
+d)  këshilltari i Kryeministrit për çështjet e shoqërisë së informacionit;
+
+dh) deri në katër funksionarë e personalitete të fushës, të emëruar nga kryetari i tij. 
+
+3.2.  Funksionet kryesore të këshillit koordinativ janë:
+
+a) Shqyrtimi i projektakteve, ligjore e nënligjore, i dokumenteve strategjike dhe akteve të tjera, që lidhen me shoqërinë e informacionit;
+
+b) Diskutimi i projektbuxhetit për shoqërinë e informacionit, përfshirë edhe fondet për funksionimin e AKSHI-t;
+
+c) Vlerësimi i procedurave për përzgjedhjen dhe financimin e projekteve të programit të dixhitalizimit;
+
+ç) Shqyrtimi i raporteve të veprimtarisë së AKSHI-t;
+
+d) Shqyrtimi i raporteve të monitorimit dhe të vlerësimit të programeve, të financuara nga AKSHI.
+
+3.3  Këshilli koordinativ mblidhet jo më pak se gjashtë herë dhe jo më shumë se dhjetë herë në vit.
 
 4. Struktura dhe organika e Agjencisë miratohen me urdhër të Kryeministrit. 
 
 5. Agjencia financohet nga Buxheti i Shtetit dhe nga projekte të ndryshme, nga institucione të huaja, si dhe nga burime të tjera, të ligjshme. 
 
-6. Drejtori i Agjencisë Kombëtare të Shoqërisë së Informacionit emërohet, lirohet ose shkarkohet me urdhër të Kryeministrit. 
+6. AKSHI drejtohet nga Drejtori i Përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e AKSHI-t, dhe raporton para Ministrit të Shtetit për Reformat dhe Marrëdhëniet me Kuvendin.
+
+ Drejtori i Përgjithshëm i AKSHI-t emërohet, lirohet ose shkarkohet me urdhër të Kryeministrit, me propozimin e Ministrit të Shtetit për Reformat dhe Marrëdhëniet me Kuvendin.
 
 7. Marrëdhëniet e punës së punonjësve të kësaj Agjencie rregullohen me Kodin e Punës. Pranimi në punë bëhet sipas procedurave të parashikuara në ligjin nr.8549, datë 11.11.1999 “Statusi i nëpunësit civil”. 
 
