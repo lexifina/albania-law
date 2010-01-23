@@ -1,6 +1,0 @@
-# Neni 37
-Komiteti Këshillues për Masat Kundër Krimit të Organizuar
-1. Për bashkërendimin e veprimtarive në zbatim të këtij ligji, për vlerësimin e ecurisë së administrimit dhe përdorimit të pasurive të sekuestruara dhe të konfiskuara, për dhënien e mendimit për kërkesat për financim të projekteve nga Fondi i Posaçëm për Parandalimin e Kriminalitetit dhe Edukimin Ligjor, si dhe për çështje të tjera që lidhen me parandalimin dhe goditjen e krimit të organizuar, pranë Këshillit të Ministrave ngrihet dhe funksionon Komiteti Këshillues për Masat Kundër Krimit të Organizuar.
-2. Komiteti thirret nga Kryeministri dhe në të marrin pjesë titullarët e institucioneve përgjegjëse për parandalimin dhe goditjen e krimit të organizuar, që janë në varësi të Këshillit të Ministrave, Prokurori i Përgjithshëm, Kryetari i Zyrës së Administrimit të Buxhetit Gjyqësor, Kryeregjistruesi i Pasurive të Paluajtshme të Republikës së Shqipërisë, si dhe drejtuesit e shoqatave kombëtare të bashkive dhe komunave.
-3. Në veprimtaritë e Komitetit mund të ftohen të marrin pjesë edhe përfaqësues nga institucione publike ose organizata të tjera, vendase a të huaja, veprimtarë në fusha me interes për zbatimin e këtij ligji.
-4. Komiteti mblidhet së paku një herë në 3 muaj. Komiteti, me propozimin e Kryeministrit, miraton rregullat e hollësishme për funksionimin e tij.

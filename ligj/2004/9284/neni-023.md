@@ -1,6 +1,0 @@
-# Neni 23
-Përballimi i shpenzimeve të administrimit
-1. Shpenzimet e nevojshme ose të dobishme për ruajtjen dhe administrimin e pasurisë së sekuestruar përballohen nga fondet e siguruara nga administratori, në çdo lloj cilësie a burimi të ligjshëm.
-2. Nëse nëpërmjet administrimit të pasurisë së sekuestruar nuk përfitohen fonde të mjaftueshme për përballimin e shpenzimeve, sipas pikës 1 të këtij neni, ato parapaguhen nga shteti nëpërmjet Agjencisë për Administrimin e Pasurive të Sekuestruara dhe të Konfiskuara.
-3. Në rastet e vendosjes së masës së konfiskimit të pasurisë, shpenzimet e përballuara për administrimin e kësaj pasurie nga administratori ose Agjencia për Administrimin e Pasurive të Sekuestruara dhe të Konfiskuara përfshihen në llogaritë e administrimit të tyre. Nëse fondet e llogarive të administrimit nuk janë të mjaftueshme për të përballuar pagesën e këtyre shpenzimeve, ato paguhen pjesërisht ose plotësisht nga shteti, pa të drejtë kompensimi.
-4. Kur gjykata vendos revokimin e masës së sekuestros, pronari i pasurisë detyrohet të kompensojë përfitimet që ka pasur pasuria e tij gjatë administrimit. Ai ka të drejtë të kërkojë kompensimin në masën e pakësimit të vlerës së pasurisë ose të dëmit që i është shkaktuar pasurisë.
