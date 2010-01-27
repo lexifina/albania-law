@@ -1,1 +1,0 @@
-5. Vendimi nr.764, datë 29.7.1996 i Këshillit të Ministrave “Për shpërblimin e ushtarakëve që marrin pjesë në operacionin e NATO-s “Përpjekja e përbashkët”, në ish-Republikën Jugosllave”, i ndryshuar, shfuqizohet.
