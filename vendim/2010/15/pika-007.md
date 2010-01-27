@@ -1,0 +1,1 @@
+7. Tarifa e shkollimit, për këtë program studimesh të doktoratës, është 2 00 000 (dyqind mijë) lekë dhe likuidohet për çdo vit të kohëzgjatjes normale, në këste të caktuara, nga Fakulteti i Inxhinierisë së Ndërtimit të Universitetit Politeknik të Tiranës.
