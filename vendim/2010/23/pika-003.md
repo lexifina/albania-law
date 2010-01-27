@@ -1,0 +1,11 @@
+3. Detyrat dhe objektivat e AKOB-it janë:
+- Ngritja dhe mirëfunksionimi i infrastrukturës së nevojshme, në mbështetje të programit kombëtar bërthamor.
+- Hartimi i kuadrit të plotë ligjor, i cili do të mbështesë zhvillimin normal të programit.
+- Hartimi i kuadrit të nevojshëm rregullator, në shërbim të programit.
+- Bashkërendimi i punës për përzgjedhjen e vendeve, në të cilat mund të ndërtohet centrali bërthamor.
+- Përzgjedhja dhe sigurimi i përgatitjes profesionale të personelit të nevojshëm, në mbështetje të programit bërthamor, në faza të ndryshme të tij.
+- Hartimi i dokumentacionit dhe ndjekja e procedurave, në bazë të të cilave do të kërkohen oferta për centralin bërthamor.
+- Ndjekja, gjatë të gjitha fazave, e procedurave dhe ecurisë për ndërtimin dhe vënien në funksionim të centralit bërthamor.
+- Sigurimi i ruajtjes, afatshkurtër dhe afatgjatë, së lëndës djegëse bërthamore, si dhe të materialeve radioaktive, të cilat lidhen me procesin e prodhimit të energjisë nga centrali bërthamor.
+- Njohja e popullatës dhe e grupeve të interesit me programin bërthamor, gjatë të gjitha fazave të zhvillimit të tij.
+- Vlerësimi i zhvillimit, sipas planifikimit dhe parashikimit të fazave të ndryshme të programit bërthamor.

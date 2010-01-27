@@ -1,0 +1,1 @@
+1. Krijimin e Agjencisë Kombëtare Bërthamore (më poshtë AKOB), si institucion qendror në varësi të Kryeministrit, me statusin e personit juridik publik, me seli në Tiranë që e zhvillon veprimtarinë në të gjithë territorin e Republikës të Shqipërisë. AKOB-i ka vulën dhe stemën e vet zyrtare.
