@@ -1,0 +1,1 @@
+6. Nga kuota e përcaktuar në pikën 5 të këtij vendimi, caktohet një kuotë për kandidatët nga trojet shqiptare jashtë kufijve të Republikës së Shqipërisë, e cila administrohet nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve zyrtare të këtyre trojeve.
