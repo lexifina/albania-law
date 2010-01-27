@@ -1,0 +1,1 @@
+2. Ky ndryshim të reflektohet në listën e miratuar me vendimin nr.250, datë 24.4.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Rendit Publik”.
