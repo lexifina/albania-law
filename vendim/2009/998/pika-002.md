@@ -14,7 +14,7 @@ c) Studentët, që regjistrohen në vitin e parë të shkollës së lartë, e q�
 d) Studentët, që kanë mbaruar vitin akademik, pararendës, me të gjitha notat 10-ta.
 dh) Studentët, që vazhdojnë studimet në degët matematikë dhe fizikë, në vitet e dyta e lart dhe që e kanë përfunduar vitin akademik, pararendës, me notën mesatare mbi 8-të.
 2.3. Jashtë kriterit ekonomik (nxënës/studentë)
-a) Fëmija, nxënës apo student, i punonjësit të Policisë së Shtetit apo i Forcave të Armatosura, që kanë humbur jetën në krye e për shkak të detyrës. Në fillim të çdo viti akademik, Ministria e Brendshme dhe Ministria e Mbrojtjes dërgojnë në Ministrinë e Arsimit dhe Shkencës listën emërore të tyre.
+a) Fëmija, nxënës apo student, i punonjësit të Policisë së Shtetit, Forcave të Armatosura apo i Shërbimit Informativ të Shtetit, që ka humbur jetën në krye e për shkak të detyrës. Në fillim të çdo viti akademik, Ministria e Brendshme, Ministria e Mbrojtjes dhe Shërbimi Informativ i Shtetit dërgojnë në Ministrinë e Arsimit dhe Shkencës listën emërore të tyre.
 b) Nxënësit, që vijnë nga zonat verilindore dhe juglindore të vendeve (Tropoja, Hasi, Puka, Kukësi, Dibra, Bulqiza, Mati, Mirdita, Malësia e Madhe, Librazhdi, Gramshi, Kolonja, Përmeti, Pogradeci, Skrapari, Tepelena dhe rrethi i Tiranës), të cilët regjistrohen dhe ndjekin studimet në vitin e parë shkollor, 2009-2010, në shkollat e mesme profesionale.
 2.4 Sipas degëve parësore për zhvillimin e ekonomisë (nxënës)
 Nxënësit, që regjistrohen e që ndjekin studimet në vitin e parë shkollor 2009-2010, në shkollat profesionale, në degët bujqësore, veterinare, pyjore dhe në ndërtim.
