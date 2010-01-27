@@ -1,0 +1,1 @@
+1. Shpërblimi ditor për ushtarakët shqiptarë të dërguar në Bosnjë-Hercegovinë, në kuadër të operacionit “ALTHEA” të Bashkimit Europian, të jetë 6 000 (gjashtë mijë) lekë, për çdo ditë qëndrimi në këtë mision.

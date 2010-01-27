@@ -1,0 +1,1 @@
+3. Vendimi nr.477, datë 23.6.2005 i Këshillit të Ministrave “Për shpërblimin e ushtarakëve, pjesëmarrës në operacionin “ALTHEA” të Bashkimit Europian, në Bosnjë-Hercegovinë”, i ndryshuar, shfuqizohet.
