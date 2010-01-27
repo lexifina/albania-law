@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kategorizimin e burimeve radioaktive në Republikën e Shqipërisë në funksion të mbrojtjes nga rrezatimet, për sigurinë dhe sigurimin e burimeve të rrezatimit jonizues”, sipas tekstit, që i bashkëlidhet këtij vendimi.
