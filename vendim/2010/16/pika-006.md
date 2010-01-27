@@ -1,0 +1,1 @@
+6. Kuotat për studentët nga trojet shqiptare jashtë kufijve të Republikës së Shqipërisë administrohen nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve zyrtare të këtyre trojeve.
