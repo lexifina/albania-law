@@ -1,0 +1,1 @@
+1. Lirimin nga detyra e anëtarit të Këshillit Kombëtar të Kontabilitetit të znj.Lindita Lati, për shkak të përfundimit të mandatit, dhe të z.Skënder Uku, për shkak të emërimit të tij në një detyrë tjetër, jashtë sistemit të financave.
