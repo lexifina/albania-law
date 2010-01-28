@@ -1,0 +1,6 @@
+1. Zyrës vendore të regjistrimit të pasurive të paluajtshme, ku i kërkohet:
+a) lista e akteve të marrjes së tokës bujqësore në pronësi që disponon, sipas modelit të paraqitur në lidhjen “A”, që i bashkëlidhet këtij udhëzimi, për sipërfaqen, objekt i kontrollit;
+b) fotokopja e listës së akteve të marrjes së tokës bujqësore në pronësi dhe e hartave treguese të regjistrimit që disponon, për të cilat do të kryhet verifikimi apo shqyrtimi i vlefshmërisë ligjore;
+c) gjendja juridike e pronësisë së ngastrave, sipas listës, të përcaktuar në shkronjën “a” të pikës 1, për të cilat do të kryhet verifikimi apo shqyrtimi i vlefshmërisë ligjore, sipas modelit të paraqitur në lidhjen “A”, që i bashkëlidhet këtij udhëzimi;
+ç) çdo dokumentacion tjetër në lidhje me to, kur komisioni vendor e vlerëson të nevojshëm për shqyrtimin administrativ.
+Me marrjen e kërkesës së komisionit vendor, zyra vendore e regjistrimit të pasurive të paluajtshme, për sipërfaqen, objekt i kontrollit, nuk do të regjistrojë asnjë akt dhe nuk do të japë asnjë shërbim për aktet e marrjes së tokës bujqësore në pronësi, që, në ndonjë rast, nuk janë përfshirë në listën sipas lidhjes “A”, pa e përcjellë më parë në komisionin vendor për verifikim.
