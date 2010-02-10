@@ -1,0 +1,1 @@
+2. Miratimin e lejes nr.4/1, datë 7.12.2009 “Për ndërtimin dhe shfrytëzimin e linjës tregtare të interkonjeksionit me rrymë të vazhduar, Kallmet/Lezhë (Shqipëri)-Zapponeta/ Manfredonia, (Itali), dhënë nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës shoqërisë “Biopower Green Energy” sh.p.k.-së, sipas tekstit që i bashkëlidhet këtij vendimi.

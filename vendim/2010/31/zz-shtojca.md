@@ -1,0 +1,5 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E EKONOMISË, TREGTISË DHE ENERGJETIKËS
+Në mbështetje të neneve 31 dhe 31/1 të ligjit nr.9072, datë 22.5.2003 “Për sektorin e energjisë elektrike”, të ndryshuar, dhe në zbatim të vendimit të Këshillit të Ministrave nr.529, datë 15.8.2007 “Për miratimin e kritereve dhe të procedurave të aplikimit e të miratimit të lejeve të ndërtimit të linjave tregtare të interkonjeksionit”, ndryshuar me vendimin e Këshillit të Ministrave nr.725, datë 7.11.2007 “Për disa ndryshime në vendimin e Këshillit të Ministrave nr.529, datë 15.8.2007 “Për miratimin e kritereve dhe të procedurave të aplikimit e të miratimit të lejeve të ndërtimit të linjave tregtare të interkonjeksionit”,
+i jepet shoqërisë anonime “Biopower Green Energy” sh.p.k, regjistruar në Qendrën Kombëtare të Regjistrimit në Tiranë, me nr. serial SN -004412-12-07, më datë 5.12.2007 dhe në Drejtorinë e Përgjithshme të Tatimeve, me numër nipti: K72405024M, me seli në Tiranë, rruga “Sulejman Delvina”, Qendra e Biznesit Zayed.
