@@ -1,0 +1,1 @@
+13. Efektet financiare të dëmeve të shkaktuara nga reshjet e shiut dhe përmbytjet në qarkun e Shkodrës e atë të Lezhës të përballohen nga fondi i emergjencave civile në qarkun e Shkodrës dhe, në rastet kur ky fond emergjence nuk është i mjaftueshëm, të përballohen nga fondi rezervë i Buxhetit të Shtetit.

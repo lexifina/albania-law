@@ -1,0 +1,2 @@
+14. Ngarkohen Ministri i Financave, Ministri i Brendshëm, Ministri i Punëve Publike, Transportit dhe Telekomunikacionit, Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministri i Ekonomisë, Tregtisë dhe Energjetikës, Ministri i Arsimit dhe Shkencës, Ministri i Shëndetësisë, prefekt i qarkut të Shkodrës e ai i Lezhës dhe njësitë përkatëse të qeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

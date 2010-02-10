@@ -1,0 +1,2 @@
+8. Pas vlerësimit të dëmeve për kategoritë e dëmtimeve në ndërtesat e banimit, në objektet e biznesit, në ndërtesat me karakter bujqësor etj., llogaritja të bëhet me çmimet sipas zërave të punimeve të ndërtimit, miratuar për qytetin e Shkodrës apo Lezhës, për vitin 2008, nga Enti Kombëtar i Banesave.
+Çmimet për të gjitha zërat e punimeve t’i dërgohen zyrtarisht nga Enti Kombëtar i Banesave këshillave të qarqeve përkatëse.

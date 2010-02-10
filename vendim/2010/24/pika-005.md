@@ -1,0 +1,1 @@
+5. Kryerja e evidentimit dhe e vlerësimit të dëmeve në ndërtesa banimi, në objekte të biznesit, objekte sociale dhe publike, të orendive e të pajisjeve elektroshtëpiake, të dëmeve të shkaktuara në kultura bujqësore, në gjënë e gjallë dhe në bazën ushqimore për blegtorinë, të bëhet sipas formularëve tip 1, 2 e 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

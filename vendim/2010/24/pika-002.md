@@ -1,0 +1,12 @@
+2. Grupet e punës, sipas komunave, të kenë në përbërje specialistë, të përcaktuar nga ministritë dhe institucionet e mëposhtme:
+- Ministria e Brendshme, 6 specialistë;
+- Ministria e Punëve Publike, Transportit dhe Telekomunikacionit, 24 specialistë;
+-Minsitria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, 24 specialistë;
+-Ministria e Ekonomisë, Tregtisë dhe Energjetikës, 12 specialistë;
+-Ministria e Arsimit dhe Shkencës, 12 specialistë;
+-Ministria e Shëndetësisë, 12 specialistë;
+-Drejtoria e Përgjithshme e Emergjencave Civile, në Ministrinë e Brendshme, 10 specialistë;
+-ALUIZNI, 24 specialistë;
+-Këshilli i qarkut të Shkodrës, 22 specialistë;
+-Këshilli i qarkut të Lezhës, 6 specialistë;
+-Komunat e prekura nga përmbytja, nga 1 specialist secila.

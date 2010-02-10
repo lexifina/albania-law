@@ -1,0 +1,1 @@
+9. Për objektet e biznesit, vlerësimi i dëmeve në makineri, mallra dhe pajisje të dëmtuara të kryhet në përputhje me dokumentacionin e depozituar pranë organeve tatimore dhe doganore. Vlerësimi të bëhet nga drejtoritë përkatëse rajonale të tatimeve.

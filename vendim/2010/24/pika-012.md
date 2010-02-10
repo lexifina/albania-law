@@ -1,0 +1,2 @@
+12. Vlerësimi i dëmeve të shkaktuara në objekte sociale e publike (shkolla, spitale, qendra shëndetësore, kabina të tensionit të lartë, ujësjellës, hidrovore, argjinatura dhe rrugë), të kryhet nga specialistët përkatës, anëtarë të grupeve të punës, sipas çmimeve të marra nga ministritë e linjës për sektorët e përmendur më lart.
+Efektet financiare, që rrjedhin në këtë rast, të përballohen nga buxhetet përkatëse, miratuara për ministritë e linjës.
