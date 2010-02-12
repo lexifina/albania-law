@@ -1,0 +1,2 @@
+2. Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonën ushtarake italiane, në datën 6 shkurt 2010, të jetë pika e kalimit të kufirit Qafë-Thanë dhe pika e daljes të jetë pika e kalimit të kufirit porti i Durrësit.
+Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonën ushtarake italiane, në datën 12 shkurt 2010, të jetë pika e kalimit të kufirit porti i Durrësit dhe pika e daljes të jetë pika e kalimit të kufirit Qafë-Thanë.
