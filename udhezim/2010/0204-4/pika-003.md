@@ -1,0 +1,1 @@
+3. Regjimi i lejimit të përkohshëm për autoveturat me targa të huaj, në të gjitha rastet kur përfitohet, ka afat jo më shumë se 6 muaj, të vazhdueshme ose jo, të matur për një periudhë 12-mujore (konform pikës 384/5 të dispozitave zbatuese të Kodit Doganor).

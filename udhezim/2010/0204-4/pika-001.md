@@ -1,0 +1,6 @@
+1. Në momentin e hyrjes në territorin e Republikës së Shqipërisë, regjimi i lejimit të përkohshëm zbatohet për automjetet e huaja për përdorim privat, të cilat plotësojnë kushtet për dhënien e këtij regjimi, sipas nenit 384, pikat 3, 4, 6 dhe 7 të vendimit të Këshillit të Ministrave nr.205, datë 13.4.1999 “Për dispozitat zbatuese të Kodit Doganor”, të ndryshuar, si më poshtë:
+- Importohen nga persona të vendosur jashtë territorit të Republikës së Shqipërisë;
+- Përdoren për qëllime private nga këta persona;
+- Janë të regjistruara jashtë territorit të Republikës së Shqipërisë dhe në emër të një personi jashtë këtij territori;
+- Përdoren për qëllime private nga këta persona;
+- Janë të regjistruara jashtë territorit të Republikës së Shqipërisë dhe në emër të një personi jashtë këtij territori. Këtu përfshihen edhe rastet kur automjetet mbërrijnë të pashoqëruara (nëpërmjet formave të transportit rrugor deri në kufi, në traget apo konteniere) vetëm me kusht që pronari të paraqitet personalisht për vendosjen e këtij automjeti nën regjimin e lejimit të përkohshëm. Plotësimi i këtij kushti sjell si domosdoshmëri regjistrimin e automjetit më pranë autoriteteve të Policisë Kufitare dhe Migracionit.
