@@ -1,0 +1,1 @@
+2. Ky formular do të shtypet në dy (2) kopje, shtypja do të bëhet me letër vetëkopjuese. Dimensioni i formatit është: A4, me udhëzues traktor. Formulari do të prodhohet në faqe të formatit ”Letër” si formularët e tjere ”traktor”. Shënimet sqaruese për plotësimin e këtij formulari do të jenë vetëm në pjesën e prapme të kopjes së dytë.
