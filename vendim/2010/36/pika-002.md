@@ -1,0 +1,1 @@
+2. Numri i punonjësve me kontratë të përkohshme, sipas DAR/ZA-ve, dhe afati kohor i kontraktimit të punonjësve jepen sipas tabelës nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

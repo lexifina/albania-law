@@ -1,0 +1,1 @@
+3. Efektet financiare në shumën 290 460 465 (dyqind e nëntëdhjetë milionë e katërqind e gjashtëdhjetë mijë e katërqind e gjashtëdhjetë e pesë) lekë, që rrjedhin nga zbatimi i këtij vendimi, të mbulohen nga fondet e miratuara për Ministrinë e Arsimit dhe Shkencës në buxhetin e vitit 2010.

@@ -1,0 +1,1 @@
+1. Numri i punonjësve mësimorë, me kontratë të përkohshme, për sistemin arsimor parauniversitar, për vitin shkollor 2009 -2010, për muajin janar 2010, të jetë 2011 veta dhe, për periudhën 1 shkurt - 30 qershor 2010, të jetë 704 punonjës.
