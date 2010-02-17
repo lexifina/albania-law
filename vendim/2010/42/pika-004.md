@@ -1,0 +1,1 @@
+4. Stema e SHKB-së vendoset në aktet zyrtare dhe në çdo akt tjetër, që institucioni u drejton të tretëve. Kjo stemë përdoret si shenjë identifikimi në dokumentin e identifikimit të punonjësit, në mjetet e punës së institucionit shtetëror dhe në mjediset e punës.
