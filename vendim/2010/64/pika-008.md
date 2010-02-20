@@ -1,0 +1,1 @@
+8. Pronarët e pasurive, për të cilat është dhënë konfirmimi nga ZRPP-ja, Krujë, me “Barrë hipotekore”, të kompensohen, për efekt shpronësimi, pasi të kenë shlyer detyrimet ligjore dhe pasi pasuria përkatëse të jetë e lirë nga çdo barrë e vendosur mbi të, fakt i cili do të provohet po në bazë të një konfirmimi të dhënë nga ZRPP-ja përkatëse dhe dokumentacioni i pronësisë.

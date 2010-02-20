@@ -1,0 +1,1 @@
+7. Për pasuritë, për të cilat në kolonën përkatëse është bërë shënimi “Proces saktësimi”, të bëhet kompensimi, për efekt shpronësimi, pasi të ketë përfunduar ky proces, në bazë të konfirmimit që do të merret nga zyra e regjistrimit të pasurive të paluajtshme, Krujë, dhe të dokumentacionit të pronësisë.

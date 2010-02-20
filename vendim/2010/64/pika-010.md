@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve të pasurive, për të cilat janë bërë shënimet përkatëse “Proces saktësimi” dhe “Barrë hipotekore”, sipas pikave 6,7 e 8 të këtij vendimi, ndërsa për pronarët e konfirmuar të kryejë likuidimin në bazë të dokumentacionit të pronësisë.
