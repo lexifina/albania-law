@@ -1,0 +1,1 @@
+6. Për qarkun e Tiranës të ketë dy drejtori arsimore rajonale, nga të cilat, DAR-i Tiranë të mbulojë qytetin e Tiranës, dhe DAR-i qarku Tiranë, të mbulojë fshatrat e Tiranës dhe Kavajën e fshatrat e saj.

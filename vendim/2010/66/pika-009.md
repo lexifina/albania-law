@@ -1,0 +1,1 @@
+9. Drejtuesi i zyrës arsimore emërohet ose largohet nga detyra nga drejtori i drejtorisë arsimore rajonale, që ka në varësi zyrën, ndërsa nëpunësit (përgjegjës sektori, specialistë) të këtyre drejtorive e zyrave, nga drejtuesit përkatës.
