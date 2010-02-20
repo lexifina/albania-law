@@ -1,0 +1,1 @@
+9. Për pasurinë, për të cilën në kolonën përkatëse është bërë shënimi “Me leje ndërtimi/i paregjistruar”, të bëhet kompensimi, për efekt shpronësimi, pasi të kenë përfunduar procedurat përkatëse të regjistrimit, fakt i cili të vërtetohet zyrtarisht nga ZRPP-ja përkatëse, si dhe në bazë të dokumentacionit të pronësisë.

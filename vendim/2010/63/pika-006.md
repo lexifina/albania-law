@@ -1,0 +1,1 @@
+6. Për pasuritë, për të cilat në kolonën përkatëse është bërë shënimi “Proces saktësimi nga ZRPP-ja”, të bëhet kompensimi, për efekt shpronësimi, pasi të ketë përfunduar ky proces, fakt i cili të vërtetohet zyrtarisht po nga ZRPP-ja përkatëse, si dhe në bazë të dokumentacionit të pronësisë.

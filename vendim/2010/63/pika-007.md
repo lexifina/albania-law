@@ -1,0 +1,1 @@
+7. Për pasuritë, për të cilat në kolonën përkatëse është bërë shënimi “Legalizim” të bëhet kompensimi, për efekt shpronësimi, pasi të ketë përfunduar procesi i legalizimit dhe pasi të jetë bërë regjistrimi në ZRPP, fakt i cili të vërtetohet zyrtarisht nga ZRPP-ja përkatëse, si dhe në bazë të dokumentacionit të pronësisë.

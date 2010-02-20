@@ -1,0 +1,1 @@
+8. Për pasuritë, për të cilat në kolonën përkatëse është bërë shënimi “Leje ndërtimi”, të bëhet kompensimi, për efekt shpronësimi, pasi të jetë paraqitur dokumentacioni i plotë tekniko - ligjor pranë Drejtorisë së Përgjithshme të Rrugëve.
