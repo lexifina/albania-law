@@ -1,0 +1,1 @@
+12. Pas çdo procesi vlerësimi, lista e fituesve për çdo masë veçmas nga komisioni në qark i përcillet AZHBR. Në rast rialokimesh të fondeve nga një masë në tjetrën, lista e fituesve që do të paguhen përcaktohet nga AZHBR në bazë të radhës sipas listave.

@@ -1,0 +1,1 @@
+10. DRBUMK dhe AZHBR raportojnë në mënyrë periodike për menaxhimin e fondit të mbështetjes së prodhimit bujqësor. MBUMK nga ana e saj raporton çdo tremujor për ecurinë e realizimit te programit të mbështetjes në Ministrinë e Financave për numrin e përfituesve, masën e përfitimit, sipërfaqet e mbjella, prodhimin bujqësor të realizuar etj.
