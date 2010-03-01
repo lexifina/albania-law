@@ -1,0 +1,1 @@
+13. Në rast se shtetasi i huaj të cilit i kanë përfunduar afatet e vizës së lëshuar (afatit të përdorimit dhe afatit të shfrytëzimit) ndodhet jashtë territorit të Republikës së Shqipërisë dhe paraqitet në njërën nga PKK-të për të hyrë në territor, sistemi në mënyrë të automatizuar bën përllogaritjen e këtyre afateve dhe nuk mundëson regjistrimin e hyrjes për këtë shtetas.

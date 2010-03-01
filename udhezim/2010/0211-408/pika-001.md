@@ -1,0 +1,1 @@
+1. Regjistri elektronik kombëtar për të huaj është një bazë të dhënash elektronike, në të cilën hidhet dhe ruhet aktiviteti i strukturave shtetërore të ngarkuara me ligj, lidhur me trajtimin e të huajve që kërkojnë të hyjnë, qëndrojnë, punojnë, tranzitojnë dhe dalin nga territori i Republikës së Shqipërisë.

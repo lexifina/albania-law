@@ -1,0 +1,3 @@
+# Nënshkrimi
+ZëVENDëSKRYEMINISTri DHE MINISTRI I PUNËVE Të JASHTME
+Ilir Meta

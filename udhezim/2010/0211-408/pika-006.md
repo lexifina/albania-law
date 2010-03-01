@@ -1,0 +1,1 @@
+6. Struktura përgjegjëse në Drejtorinë e Teknologjisë së Informacionit u jep të drejtat përdoruesve në regjistrin kombëtar për të huajt, në modulet përkatëse, si dhe klasifikon nivelet e përdorimit të sistemit, bazuar në urdhrat dhe udhëzimet e kësaj strukture, në ligjin për mbrojtjen e të dhënave, si dhe në këtë udhëzim.

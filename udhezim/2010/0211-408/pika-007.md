@@ -1,0 +1,1 @@
+7. Struktura informatike e ruajtjes së të dhënave, platforma e aplikacionit, si dhe vetë aplikacioni janë subjekt i ndryshimeve të mëvonshme, për qëllime mirëmbajtjeje, përmirësimi, shtime të moduleve të tjera lehtësuese apo funksionaliteteve të reja, të cilat nuk prekin integritetin e të dhënave dhe kanë pjesë të tyre të gjitha modulet e përmendura më lart.

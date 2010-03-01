@@ -1,0 +1,3 @@
+5. Moduli i trajtimit të të huajve të parregullt në kufi dhe në territor.
+4. Regjistri elektronik kombëtar për të huaj funksionon si pjesë e sistemit TIMS në Drejtorinë e Përgjithshme të Policisë së Shtetit në Ministrinë e Brendshme, me të gjitha modulet e përshkruara në këtë udhëzimi, deri sa institucionet e tjera përgjegjëse të krijojnë sistemet e tyre me njërin apo disa nga modulet e sipërpërmendura. Me krijimin e këtyre sistemeve, regjistri për të huaj funksionon mbi bazën e këmbimit dhe replikimit të informacionit on line ndërmjet këtyre sistemeve.
+5. Drejtoria e Teknologjisë dhe Menaxhimit të Informacionit është autoriteti kompetent për zhvillimin e regjistrit kombëtar për të huajt, si dhe përqendrimin, administrimin dhe menaxhimin e të dhënave të këtij regjistri.
