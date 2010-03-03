@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të disa mjediseve, përkatësisht, kati i parë teknik dhe kati i dytë teknik të ndërtesës së Institutit të Studimeve të Teknologjisë së Ndërtimit, nga ky institut, Agjencisë së Kthimit dhe Kompensimit të Pronave, sipas planimetrisë, që i bashkëlidhet këtij vendimi.
