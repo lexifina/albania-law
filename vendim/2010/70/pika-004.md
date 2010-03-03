@@ -1,0 +1,2 @@
+4. Lejimin e kalimit tranzit, përmes territorit të Republikës së Shqipërisë, në datën 25 shkurt 2010, në itinerarin porti i Durrësit -Qafë-Thanë, të 1 (një) autokolone ushtarake sllovene, të përbërë nga 4 (katër) mjete dhe 8 (tetë) trupa të armatosura.
+Pika e hyrjes në territorin e Republikës së Shqipërisë për autokolonën ushtarake sllovene, që do të kalojë tranzit në datën 25 shkurt 2010, të jetë porti i Durrësit dhe pika e daljes të jetë pika e kalimit të kufirit Qafë-Thanë.
