@@ -1,0 +1,1 @@
+4. Ky program studimi i ciklit të tretë realizohet me 60 kredite dhe kohëzgjatja normale e tij është 1 (një) vit akademik. Në përfundim të programit të studimit lëshohet diplomë “Master i nivelit të dytë (MND), në inxhinieri ndërtimi”.
