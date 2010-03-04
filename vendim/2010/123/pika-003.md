@@ -1,0 +1,1 @@
+3. Rektori i Akademisë së Edukimit Fizik dhe Sporteve “Vojo Kushi”, është rektor i UST-së deri në përfundim të mandatit të fituar në zgjedhjet e fundit sipas pikës 3 të nenit 21 të ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar.

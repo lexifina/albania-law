@@ -1,0 +1,1 @@
+4. Autoritetet drejtuese të zgjedhura të strukturave ekzistuese kryejnë funksionet përkatëse në përputhje me ligjin nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, si dhe me statutin e UST-së.
