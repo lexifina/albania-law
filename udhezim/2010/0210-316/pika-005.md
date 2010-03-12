@@ -1,0 +1,5 @@
+5. Menaxhimi i brendshëm i qendrës së shërbimit
+5.1 Ofruesi i shërbimit ka një strukturë të nevojshme të personelit, në përputhje me nevojat e përfituesve. Organograma e ofruesit të shërbimeve paraqet në mënyrë grafike të gjithë pozicionet brenda organizatës ose agjencisë që lidhen me funksionimin e qendrës rezidenciale, si dhe marrëdhëniet e varësisë dhe të mbikëqyrjes së saj (Aneks: 5.1 Organograma).
+5.2 Stafi duhet të rekrutohet nëpërmjet një konkurrimi të hapur dhe transparent. Procedurat e përzgjedhjes së stafit dhe afatet kohore gjenden në materialin bashkëlidhur këtij udhëzimi.
+5.3 Ofruesi i shërbimeve duhet të mbajë dosje për të gjithë punonjësit që janë marrë në punë. Secila dosje individuale e punonjësit përfshin: CV e punonjësit, diplomë, dëshmi penaliteti, certifikatat profesionale, rekomandime, përshkrimin e detyrave, kontratën e punës, vlerësimet e performancës, certifikata mjekësore etj.
+5.4 Ofruesi i shërbimeve përgatit dhe shpërndan materiale të shkruara (broshura, fletëpalosje etj.) rreth organizatës/agjencisë dhe shërbimeve të ofruara, në mënyrë që përfituesit të jenë të informuar mirë rreth mundësive që kanë për t’u ndihmuar.
