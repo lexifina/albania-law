@@ -1,0 +1,4 @@
+# Neni 10
+Ndërgjegjja dhe feja
+1. Ndalohet diskriminimi lidhur me ushtrimin e lirisë së ndërgjegjes dhe fesë, veçanërisht kur ka të bëjë me shprehjen e tyre individualisht ose kolektivisht, në publik ose në jetën private, nëpërmjet kultit, arsimimit, praktikave ose kryerjes së riteve.
+2. Përjashtimi nga kjo dispozitë mund të lejohet vetëm kur ekziston një përligjje e arsyeshme dhe objektive. Megjithatë, në çdo rast, lejimi i diskriminimit për shkak të ushtrimit të lirisë së ndërgjegjes dhe fesë mund të vendoset vetëm me ligj për një interes publik ose për mbrojtjen e të drejtave të të tjerëve. Përjashtimi për këtë shkak duhet të jetë në përpjesëtim me gjendjen që e ka diktuar nevojën për diskriminimin. Në çdo rast lejimi i diskriminimit për shkak të ushtrimit të lirisë së ndërgjegjes dhe fesë nuk mund të cenojnë thelbin e lirive dhe të të drejtave dhe në asnjë rast nuk mund të tejkalojnë kufizimet e parashikuara në Konventën Europiane për të Drejtat e Njeriut.

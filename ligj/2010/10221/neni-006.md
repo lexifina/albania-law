@@ -1,0 +1,4 @@
+# Neni 6
+Trajtimi i ndryshëm i përligjur
+1. Ndalimi i diskriminimit i përshkruar nga ky ligj nuk zbatohet në raste kur ka një qëllim objektivisht të justifikueshëm dhe të përligjur në bazë të Kushtetutës, të marrëveshjeve apo akteve ndërkombëtare të ratifikuara nga Republika e Shqipërisë dhe legjislacioni në fuqi.
+2. Trajtimi i ndryshëm që bazohet në një karakteristikë të lidhur me shkaqet e përmendura në nenin 1 të këtij ligji, nuk përbën diskriminim kur për shkak të natyrës së aktiviteteve profesionale, ose të kushteve në të cilat profesioni ose veprimtaria ushtrohet, këto karakteristika përbëjnë një kërkesë të vërtetë dhe profesionale të domosdoshme, me kusht që qëllimi i trajtimit të ndryshëm të jetë i përligjur dhe kërkesa të mos kapërcejë atë çfarë është e domosdoshme për realizimin e saj.
