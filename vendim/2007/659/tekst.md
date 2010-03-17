@@ -4,7 +4,7 @@ Nr. 659, datë 3.10.2007
 
 Për miratimin e rregullave të prokurimit publik, me mjete elektronike
 
-(Ndryshuar me VKM nr. 918, datë 2.9.2009; nr. 1204, datë 11.12.2009) 
+(Ndryshuar me VKM nr. 918, datë 2.9.2009; nr. 1204, datë 11.12.2009; nr. 184, datë 17.3.2010) 
 
 (i përditësuar)
 
@@ -34,7 +34,9 @@ i) kërkesat e nevojshme, funksionale dhe ligjore, nga autoritetet kontraktore, 
 
 ii) kërkesat thelbësore teknike, funksionale dhe të sigurisë, që duhet të plotësojë sistemi apo mjetet elektronike, që do të përdoren për kryerjen e prokurimit.
 
-b) Këto rregulla nuk zbatohen për veprime të tjera administrative, jashtë sferës së prokurimit publik, në procesin e ankimit administrativ, apo kurdoherë, që sipas ligjit dhe këtyre rregullave, kërkohet përdorimi i dokumenteve shkresore.
+b) Këto rregulla nuk zbatohen për veprime të tjera administrative, jashtë sferës së prokurimit publik, ose kurdoherë që sipas ligjit dhe akteve nënligjore, kërkohet përdorimi i dokumenteve shkresore.
+
+c) Këto rregulla zbatohen, për aq sa është e mundur, edhe në procedurat e shqyrtimit të ankesave nga Komisioni i Prokurimit Publik, përveçse kur sipas ligjit dhe akteve nënligjore parashikohet ndryshe.
 
 2. Me termat e mëposhtme do të kuptohet:
 
@@ -189,3 +191,5 @@ IV. Dispozita të fundit
 19. Ngarkohet Ministri i Shtetit për Reformat dhe Marrëdhëniet me Kuvendin të nxjerrë udhëzimet e nevojshme për funksionimin dhe administrimin e sistemit dhe të ruajtjes së të dhënave. Në udhëzim të përcaktohen kushtet, procedurat për sigurinë dhe mbrojtjen e sistemit, si dhe të sanksionohet se ndërhyrja në sistem bëhet vetëm me logimin e njëkohshëm të disa personave, që e kanë këtë akses.
 
 Këtë akses e kanë Sekretari i Përgjithshëm i Këshillit të Ministrave, Drejtori i Agjencisë së Prokurimit Publik, Drejtori i Agjencisë për Shoqërinë e Informacionit, si dhe një përfaqësues i zyrës së Avokatit të Prokurimeve Publike.
+
+20. Këto rregulla zbatohen, për aq sa është e mundur edhe nga Komisioni i Prokurimit Publik.
