@@ -1,0 +1,1 @@
+45. I licencuari ka të drejtë ta fillojë veprimtarinë për kazino nga çasti i marrjes së licencës dhe pas plotësimit të kushteve të përcaktuara në nenin 38 të ligjit, të këtij vendimi dhe të legjislacionit në fuqi për lojërat e fatit, në përgjithësi, në lidhje me kazinotë.

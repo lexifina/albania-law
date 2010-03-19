@@ -1,0 +1,1 @@
+39. Aplikuesi, aplikimi i të cilit është vlerësuar nga komisioni si “Aplikim i refuzuar”, njoftohet nga komisioni brenda 5 ditëve nga data e marrjes së vendimit për refuzim, duke i njoftuar dhe shkaqet e këtij refuzimi.

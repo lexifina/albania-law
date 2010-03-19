@@ -1,0 +1,1 @@
+43. Autoriteti, brenda 5 ditëve nga çasti kur banka ka konfirmuar pagesën në llogarinë e autoritetit dhe kur aplikuesi ka plotësuar kushtet e tjera të përcaktuara në këtë vendim, i jep aplikuesit licencën për kazino, ku përcaktohen dhe kushtet për ushtrimin e kësaj veprimtarie.

@@ -1,0 +1,1 @@
+4. Në këtë vendim, si referencë do të konsiderohet çdo ndryshim ose rimiratim/zëvendësim i aktit, si dhe çdo rregull ose rregullore, nxjerrë në zbatim të atij akti, dhe referencë në një ligj do të konsiderohet referenca në një ligj të tillë, siç mund të jetë ndryshuar ose rimiratuar/zëvendësuar, dhe fjala “ndryshuar” përfshin konceptin “shtuar dhe/ose abroguar”.

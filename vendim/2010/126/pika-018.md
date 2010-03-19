@@ -1,0 +1,1 @@
+18. Aplikuesi ose, nëse aplikuesi është bashkim, të paktën anëtari kryesues, për të plotësuar kriterin e përcaktuar në pikën 12 të këtij vendimi, ka të drejtë të paraqesë një evidencë pasqyrash financiare të “Shoqërisë mëmë”.

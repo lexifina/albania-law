@@ -1,0 +1,2 @@
+20. Në rast se aplikuesi paraqet përvojat e operimit në fushën e lojërave të fatit dhe ato financiare të “Shoqërisë mëmë”, atëherë kjo e fundit do të jetë përgjegjëse solidare me aplikuesin për përmbushjen e detyrimeve që rrjedhin nga licencimi. Garancia, në këtë rast, jepet nga organet drejtuese të “Shoqërisë mëmë” që kanë të drejtë të angazhojnë këtë të fundit në të tilla marrëdhënie. Forma dhe përmbajtja e kësaj garancie duhet të jenë të kënaqshme për autoritetin.
+III. PROCEDURAT PËR MARRJEN E LICENCËS PËR KAZINO

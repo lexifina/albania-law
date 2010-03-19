@@ -1,0 +1,5 @@
+41. Aplikuesi, aplikimi i të cilit është cilësuar nga komisioni si “aplikim i pranuar”, njoftohet nga kryetari i komisionit:
+a) për të paguar tarifën e licencës, brenda 30 ditëve nga data e marrjes së njoftimit, duke i përcaktuar shumën përkatëse dhe numrin e llogarisë a bankën, ku duhet bërë pagesa;
+b) për të dorëzuar fondin e garancisë së fituesit, brenda 30 ditëve nga data e marrjes së njoftimit, në formën e një garancie bankare në favor të Ministrisë së Financave, të lëshuar nga një bankë me seli në territorin e Republikës së Shqipërisë, duke i treguar dhe formën dhe përmbajtjen e kësaj garancie;
+c) për të dorëzuar dokumentacionin, që vërteton krijimin e shoqërisë, që do të marrë licencën, sipas parashikimeve të pikës 5 të nenit 36 të ligjit nr.10 033, datë 11.12.2008 “Për lojërat e fatit”, të ndryshuar, nëse aplikuesi është person juridik i huaj dhe/ose bashkim. Në këtë rast ai duhet të plotësojë edhe kushtet e përcaktuara në shkronjat “a” e “b” të kësaj pike.
+Nëse aplikuesi është bashkim, ai nuk duhet të ndryshojë strukturën e bashkimit, pa miratimin paraprak, me shkrim, të autoritetit.

@@ -1,0 +1,1 @@
+24. Origjinali dhe të gjitha kopjet e aplikimit duhet të jenë të shtypura ose të shkruara me bojë që nuk fshihet. Personi ose personat me të drejtë nënshkrimi duhet ta nënshkruajnë aplikimin, duke nënshkruar origjinalin e aplikimit dhe duke shënuar inicialet në secilën faqe të origjinalit të aplikimit, me përjashtim të materialeve të botuara.

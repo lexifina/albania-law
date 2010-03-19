@@ -1,0 +1,1 @@
+33. Aplikuesit i lind e drejta për ankim për vendimin e komisionit vetëm për afatin për plotësimin e informacionit apo të dokumentacionit, sipas pikës 27 të këtij vendimi, te titullari i autoritetit, i cili merr vendim brenda 5 ditëve nga marrja e ankimit. Ankimi i aplikuesit nuk pezullon afatin që komisioni i ka lënë në dispozicion aplikuesit.

@@ -1,0 +1,1 @@
+29. Në rast se dokumentet nuk janë të plota dhe në formën e kërkuar, komisoni i lë një afat deri në 30 ditë aplikuesit, për të plotësuar aplikimin. Dështimi i aplikuesit për të kthyer përgjigje apo për të plotësuar dokumentacionin sipas kërkesës së komisionit, i jep këtij të fundit të drejtën për të refuzuar aplikimin.

@@ -1,0 +1,1 @@
+8. Aplikuesi do të përballojë të gjitha kostot për përgatitjen dhe dorëzimin e aplikimit, përfshirë, ndër të tjera, të gjitha kostot dhe shpenzimet për përgatitjen e përgjigjeve të pyetjeve apo të kërkesave për sqarime a takime të autoritetit.

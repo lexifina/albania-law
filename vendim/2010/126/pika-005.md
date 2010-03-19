@@ -1,0 +1,1 @@
+5. Aplikimi përbëhet nga tërësia e dokumenteve të përcaktuara në këtë vendim, ku përfshihen dhe dokumentet që i kërkohen aplikuesit nga Komisioni i Shqyrtimit të Aplikimit (në vijim “Komisioni”), si kusht për shqyrtimin dhe marrjen e një vendimi për licencim, në formën dhe sipas kushteve të përcaktuara në këtë vendim.

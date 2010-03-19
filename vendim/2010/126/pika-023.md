@@ -1,0 +1,1 @@
+23. Çdo aplikues duhet të përgatisë dhe të dorëzojë kopjen origjinale të aplikimit dhe 1 (një) kopje tjetër, mbi të cilat të vërë qartë shënimin përkatës “Origjinal” dhe “Kopje”. Në rast mospërputhjeje ndërmjet kopjes dhe origjinalit, do të merret për bazë origjinali.

@@ -1,0 +1,1 @@
+47. Komisioni cakton sekretarin e komisionit, i cili merr pjesë, pa të drejtë vote, në mbledhjet e komisionit dhe është përgjegjës për protokollimin e mbledhjeve, të vendimeve dhe, në përgjithësi, të korrespondencës me aplikuesit.

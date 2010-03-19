@@ -1,0 +1,2 @@
+9. Aplikimi, ku përfshihet dhe e gjithë korrespondenca, dhe dokumentet për këtë aplikim duhet të jenë në gjuhën shqipe dhe/ose angleze, përveç materialeve të botuara (p.sh.broshurat) të paraqitura nga aplikuesi, të cilat mund të jenë edhe në gjuhë të tjera, por të shoqëruara me përkthim, të vërtetuar në gjuhën shqipe ose angleze.
+II. KUSHTET, KRITERET DHE DOKUMENTACIONI PËR PAJISJEN ME LICENCË PËR KAZINO

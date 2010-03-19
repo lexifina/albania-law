@@ -1,0 +1,1 @@
+37. Në rast se autoriteti kërkon verifikimin e një informacioni apo të dokumentacionit pranë organeve, që e kanë lëshuar apo tek organet kompetente shtetërore shqiptare apo të huaja, atëherë afati i shqyrtimit të aplikimit pezullohet për kohën që këtyre organeve u duhet për të kthyer përgjigje.

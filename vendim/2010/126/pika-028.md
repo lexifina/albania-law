@@ -1,0 +1,1 @@
+28. Komisioni kontrollon aplikimin brenda 20 ditëve nga data e protokollimit të tij, për të vendosur nëse dokumentet janë të plota, të nënshkruara siç duhet dhe nëse plotësojnë kërkesat në përgjithësi.
