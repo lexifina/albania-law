@@ -1,0 +1,1 @@
+2. Misioni i IZHA-së është që t’u ofrojë Ministrisë së Arsimit dhe Shkencës dhe institucioneve arsimore të të gjitha niveleve ekspertizë dhe këshillim me nivel të lartë profesional, të mbështetur në rezultatet e punës kërkimore-shkencore studimore dhe praktikës së arsimit.
