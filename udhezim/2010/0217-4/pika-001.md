@@ -1,0 +1,2 @@
+1. Në fund të titullit “Klasa I-nëpunës civilë të nivelit të lartë drejtues” të aneksit nr.2, të shtohet një paragraf, me këtë përmbajtje:
+“Nëpunësit e emëruar në pozicionet, që u përkasin shkallëve 19, 21 e 22, duhet të kenë të paktën një “Diplomë të nivelit të dytë” (DND) ose “Diplomë të integruar të nivelit të dytë” (DIND), ose diploma të barasvlefshme me to, sipas legjislacionit të arsimit të lartë.”.
