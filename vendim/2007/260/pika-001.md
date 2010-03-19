@@ -1,1 +1,0 @@
-1. Ministria e Arsimit dhe Shkencës miraton dhe certifikon tekstet shkollore të arsimit parauniversitar, të cilat konkurrojnë, në barazi të plotë, në përzgjedhje nga përdoruesit. Kriteret dhe procedurat e konkurrimit dhe të përzgjedhjes përcaktohen me udhëzim të Ministrit të Arsimit dhe Shkencës.

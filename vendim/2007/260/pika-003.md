@@ -1,1 +1,0 @@
-3. Drejtoritë arsimore në rrethe dhe zyrat arsimore (DAR/ZA-t) të blejnë drejtpërdrejt nga shtëpitë botuese tekstet shkollore, të cilat do t’u shërbejnë shkollave për përzgjedhje. Këto tekste blihen me fondet e Buxhetit të Shtetit dhe ruhen në bibliotekën e shkollës, si pronë e saj.

@@ -1,1 +1,0 @@
-6. Në rastet e subvencionimit të teksteve shkollore, Ministria e Arsimit dhe Shkencës, fondet, e miratuara për këtë qëllim, ia jep blerësit, si kompensim për blerjen e teksteve ose i vë në dispozicion të tij, për t’i përdorur për këtë qëllim.
