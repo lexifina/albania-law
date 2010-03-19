@@ -1,0 +1,1 @@
+1. Kalimin në pronësi, pa shpërblim, misionit të bamirësisë “Motrat e Nënë Terezës”, të pronës, truall, me sipërfaqe 2 000 (dy mijë) m2, të ndodhur në rrugën “Irfan Tomini”, Tiranë, sipas planvendosjes, që i bashkëlidhet këtij vendimi.
