@@ -1,1 +1,0 @@
-1. Krijimin e Institutit të Kurrikulave dhe Trajnimit (IKT) si institucion në varësi të Ministrit të Arsimit dhe Shkencës dhe shkrirjen e Institutit të Kurrikulave dhe Standardeve (IKS) e të Qendrës së Trajnimit dhe të Kualifikimit për Arsimin (QTKA).

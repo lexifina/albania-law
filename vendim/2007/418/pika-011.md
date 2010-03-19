@@ -1,1 +1,0 @@
-11. Vendimet nr.654, datë 25.9.2003 “Për krijimin e Institutit të Kurrikulave e të Standardeve (IKS) dhe për shkrirjen e Institutit të Studimeve Pedagogjike” dhe nr.655, datë 25.9.2003 “Për krijimin e Qendrës së Trajnimit dhe të Kualifikimit për Arsimin” të Këshillit të Ministrave, shfuqizohen.
