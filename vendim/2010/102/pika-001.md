@@ -1,0 +1,1 @@
+1. Kalimin e së drejtës së pronësisë së pasurisë së paluajtshme me nr.696, zona kadastrale 1167, Bërxullë, Tiranë, me sipërfaqe 866 (tetëqind e gjashtëdhjetë e gjashtë) m2, të regjistruar në zyrën vendore të regjistrimit të pasurive të paluajtshme, Tiranë, në favor të subjektit kërkues “City Park” sh.p.k.
