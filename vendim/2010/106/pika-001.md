@@ -1,0 +1,1 @@
+1. Lejimin e kalimit tranzit, përmes territorit të Republikës së Shqipërisë, në datën 26 shkurt 2010, në itinerarin porti i Durrësit-Qafë-Thanë të 1 (një) autokolone ushtarake sllovene, të përbërë nga 2 (dy) automjete dhe 4 (katër) trupa të armatosur.
