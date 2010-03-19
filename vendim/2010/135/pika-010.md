@@ -1,0 +1,1 @@
+10. INSTAT-i siguron të gjitha të dhënat e nevojshme për sekretariatin e përgjithshëm të Komitetit për Zhvillimin e Rajoneve dhe institucionet e tjera qendrore, të cilat do të shërbejnë për të analizuar projektet e dërguara për financim.

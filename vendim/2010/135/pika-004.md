@@ -1,0 +1,1 @@
+4. Ministritë e linjës, në mbështetje të këtyre kritereve dhe të formulës për shpërndarjen e fondeve ndërmjet qarqeve, bëjnë llogaritjet përkatëse dhe për ndarjen e këtyre fondeve njoftojnë me shkrim Ministrinë e Financave dhe sekretariatin e përgjithshëm të Komitetit për Zhvillimin e Rajoneve.

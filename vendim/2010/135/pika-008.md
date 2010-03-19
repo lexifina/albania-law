@@ -1,0 +1,1 @@
+8. Sekretariati teknik në Ministrinë e Financave përgatit materialin përmbledhës të listës së projektpropozimeve për çdo qark, të cilin ia dërgon sekretariatit të përgjithshëm të Komitetit për Zhvillimin e Rajoneve, të paktën, dy javë para mbledhjes së tij.

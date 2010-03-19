@@ -1,0 +1,1 @@
+9. Ministria e Brendshme paraqet, pranë sekretariatit të përgjithshëm të Komitetit për Zhvillimin e Rajoneve, përparësitë e zhvillimit, në nivel vendor, në përputhje me strategjitë e zhvillimit të qarqeve.

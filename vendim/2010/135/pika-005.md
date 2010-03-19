@@ -1,0 +1,1 @@
+5. Sekretariatet teknike të ministrive të linjës dhe të institucioneve të tjera i dërgojnë sekretariatit teknik, në Ministrinë e Financave, dhe sekretariatit të përgjithshëm të Komitetit për Zhvillimin e Rajoneve listën e projekteve të paraqitura nga njësitë e qeverisjes vendore, të shoqëruar me vlerësimet ekonomiko-teknike.

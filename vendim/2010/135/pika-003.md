@@ -1,0 +1,1 @@
+3. Ministria e Financave, në bazë të kritereve e të peshës së tyre specifike, për ndarjen e Fondit për Zhvillimin e Rajoneve, harton një formulë, të cilën, nëpërmjet një udhëzimi, ua dërgon për zbatim ministrive të linjës, që disponojnë fonde për zhvillimin rajonal.

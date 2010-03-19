@@ -1,0 +1,1 @@
+6. Ministritë e linjës, për projektet e financuara me grantin konkurrues e të papërfunduara dhe për avancimin e punimeve ende të papaguara, përgatisin një listë, të cilën ia dërgojnë Ministrisë së Financave dhe sekretariatit të përgjithshëm të Komitetit për Zhvillimin e Rajoneve, të paktën dy javë pas mbledhjes së tij të parë.
