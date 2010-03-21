@@ -1,0 +1,1 @@
+4. Njësitë kryesore të institucioneve publike të arsimit të lartë, organizojnë procesin e pranimit dhe të regjistrimit të kandidatëve në programet e studimit të ciklit të parë me kohë të pjesshme e të edukimit në distancë. Procesi të monitorohet nga rektoratet përkatëse.

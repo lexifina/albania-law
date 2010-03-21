@@ -1,0 +1,1 @@
+7. Kandidatët që kanë depozituar më parë dosjet e tyre në sekretaritë mësimore të njësive kryesore të institucioneve publike të arsimit të lartë duhet t’i plotësojnë ato në përputhje me pikën 6 të këtij udhëzimi.

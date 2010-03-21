@@ -1,0 +1,1 @@
+11. Regjistrimi i kandidatëve në programet e studimit me kohë të pjesshme e të edukimit në distancë, ku janë shpallur fitues të kryhet në datat 11, 12, 13,14 janar 2009, prej orës 08.00 deri në orën 16.00, pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë.
