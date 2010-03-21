@@ -1,0 +1,1 @@
+7. Tërheqja e testeve të provimeve me shkrim të Maturës Shtetërore të bëhet në bazë të rregullores së Maturës Shtetërore, të miratuar me urdhrin e Ministrit të Arsimit dhe Shkencës nr. 103, datë 17.2.2010 “Për miratimin e rregullores së Maturës Shtetërore 2010”.

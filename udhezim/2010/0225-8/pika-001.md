@@ -1,0 +1,1 @@
+1. Viti shkollor për arsimin e mesëm të përfundojë sipas udhëzimit nr.31, datë 31.8. 2009 të Ministrisë së Arsimit dhe Shkencës “Për zbatimin e planeve, programeve dhe teksteve mësimore të arsimit parauniversitar në vitin shkollor 2009 - 2010”, me përjashtim të viteve të fundit të shkollave të mesme 4 dhe 5-vjeçare.
