@@ -1,0 +1,1 @@
+4. Regjistrimi i kandidatëve në programet e studimit me kohë të pjesshme, e të edukimit në distancë, ku janë shpallur fitues të kryhet nga data 9.2.2010, ora 13.00 deri më 13.2.2010, ora 12.00, pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë.

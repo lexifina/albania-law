@@ -1,0 +1,1 @@
+2. Të rishpërndahen kuotat e parealizuara të pranimeve në ciklin e parë të studimeve me kohë të pjesshme, për vitin akademik 2009-2010, sipas programeve të ndryshme të studimit dhe institucioneve publike të arsimit të lartë, pasqyruar në tabelën nr.1, bashkëlidhur këtij udhëzimi.

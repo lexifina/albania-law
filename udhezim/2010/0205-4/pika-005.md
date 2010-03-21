@@ -1,0 +1,1 @@
+5. Pas mbylljes së procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në Ministrinë e Arsimit dhe Shkencës, në datën 17.2.2010, listat e kandidatëve fitues të regjistruar. Në lista të evidentohet dokumenti shkollor mbi të cilin është bërë regjistrimi.
