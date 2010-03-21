@@ -1,0 +1,1 @@
+1. Rishpërndarja e bonove të privatizimit dhe të letrave të të përndjekurve, të investuara në fondet e investimeve, të krijuara në përputhje me ligjin nr.7979, datë 26.7.1995 “Për fondet e investimeve”, do të kryhet pranë bankave të nivelit të dytë që kanë shërbyer si banka depozitare të fondit përkatës.

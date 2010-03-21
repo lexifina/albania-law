@@ -1,0 +1,1 @@
+6. Në përfundim të afatit të parashikuar në pikën 2 të këtij udhëzimi, banka depozitare paraqet raportin me shkrim pranë Ministrit të Financave, në lidhje me sasinë e rishpërndarë të bonove, si dhe sasinë e mbetur pa shpërndarë. Procedura e asgjësimit të bonove të mbetura, do të rregullohet me një akt të veçantë, në përputhje me legjislacionin e fushës.

@@ -1,0 +1,1 @@
+4. Individët që kanë investuar në fondet e investimit, të krijuara në përputhje me pikën 1 të këtij udhëzimi e që dëshirojnë të rimarrin mbrapsht bonin/bonot e investuar/investuara, duhet të paraqesin pranë sporteleve të bankës përkatëse për t’i tërhequr ato. Dokumentet identifikuese dhe dokumentacioni tjetër i nevojshëm përcaktohet nga banka.

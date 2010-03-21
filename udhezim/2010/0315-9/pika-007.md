@@ -1,0 +1,1 @@
+7. Në rast se individi që ka investuar në fondin e investimit, rezulton i vdekur, kthimi mbrapsht i bonos/bonove të depozituara do të bëhet në përputhje me dispozitat e Kodit Civil që rregullojnë trashëgiminë.
