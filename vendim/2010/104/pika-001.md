@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve, për vitin 2010, për Autoritetin e Komunikimeve Elektronike e Postare, në shumën 230 500 000 (dyqind e tridhjetë milionë e pesëqind mijë) lekë, të ndarë sipas zërave, të paraqitur në lidhjen nr.1, që i bashkëlidhet këtij vendimi.
