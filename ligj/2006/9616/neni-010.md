@@ -4,7 +4,7 @@ Këshilli Kombëtar i Librit dhe i Nxitjes së Leximit kryesohet nga Ministri i 
 1. Kryetari i Akademisë së Shkencave të Republikës së Shqipërisë.
 2. Drejtori i Bibliotekës Kombëtare.
 3. Kryetari i shoqatës/shoqatave të botuesve shqiptarë.
-4. Përfaqësuesi i Lidhjes së Shkrimtarëve të Shqipërisë.
+4. Përgjegjësi i Departamentit të Letërsisë në Universitetin e Tiranës.
 5. Kryetari i Konferencës së Rektorëve të Universiteteve të Shqipërisë.
 6. Përfaqësuesi i Ministrisë së Arsimit dhe Shkencës.
 Gjithashtu, 4 anëtarë të tjerë, personalitete të njohura të fushës, caktohen nga ministri për një periudhë 4-vjeçare.

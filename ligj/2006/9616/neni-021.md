@@ -9,7 +9,7 @@ dh) viti i botimit;
 e) vendi, data e shtypjes dhe emri i shtypshkronjës;
 ë) emri i botuesit dhe adresa e tij;
 f) numri ndërkombëtar i standardizuar i librit (ISBN);
-g) tirazhi (numri i kopjeve);
+g) shfuqizuar;
 gj) çmimi;
 h) e drejta e autorit;
 i) barkodi;
