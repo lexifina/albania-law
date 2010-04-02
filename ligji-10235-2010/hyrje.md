@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 235, datë 18.2.2010
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË TRAKTATIN NDËRKOMBËTAR PËR BURIMET GJENETIKE TË BIMËVE, PËR BUJQËSINË DHE USHQIMIN
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
