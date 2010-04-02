@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private (tokë truall, ndërtim dhe kultura drufrutore), që preken nga ndërtimi i segmentit rrugor “Rruga dytësore Elbasan-Metalurgjik”.
