@@ -1,0 +1,26 @@
+{
+  "qbz_id": 14814,
+  "title": "Për një ndryshim në vendimin nr.1497, datë 19.11.2008 të Këshillit të Ministrave “Për shtypjen e letrave me vlerë”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "150",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-03-03",
+  "published": "2010-04-02",
+  "in_force": "2010-04-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e81644229c80fd33615341be2adbaf2368bb1ea16b4b00a358d83df56db7a97d.docx",
+  "source_sha256": "e81644229c80fd33615341be2adbaf2368bb1ea16b4b00a358d83df56db7a97d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/14814",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/03/03/150",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
