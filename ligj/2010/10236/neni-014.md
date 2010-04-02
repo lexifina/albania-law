@@ -1,0 +1,6 @@
+# Neni 14
+Vlerësimi nga administrata dhe këshilli i punëmarrësve të shoqërisë,
+objekt i ofertës
+1. Administrata e shoqërisë, objekt i ofertës, brenda 10 ditëve nga data e publikimit të dokumentit të ofertës apo të ndryshimeve të bëra në të, harton dhe publikon një dokument, ku paraqet opinionin e vet për ofertën për marrje në kontroll, duke analizuar pasojat që mund të ketë zbatimi i ofertës mbi interesat e shoqërisë, përfshirë dhe pasojat në marrëdhëniet e punës. Ky dokument përmban edhe pasojat që mund të kenë për shoqërinë tregtare, objekt i ofertës, planet strategjike të parashikuara nga ofruesi në dokumentin e ofertës, duke përfshirë këtu edhe pasojat e mundshme të këtyre planeve për marrëdhëniet e punës dhe vendndodhjen e ushtrimit të veprimtarisë së shoqërisë. Në këtë dokument jepen edhe arsyet, për të cilat administrata e shoqërisë tregtare mbështet opinionin e mësipërm.
+2. Administrata ia komunikon, në të njëjtën kohë, këtë opinion edhe këshillit të punëmarrësve, i cili harton një opinion të veçantë për pasojat e ofertës për marrjen në kontroll në marrëdhëniet e punës, që i bashkëlidhet opinionit të hartuar nga administrata.
+3. Dokumenti publikohet në përputhje me pikën 2 të nenit 6 të këtij ligji.

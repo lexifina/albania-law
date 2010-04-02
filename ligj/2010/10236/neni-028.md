@@ -1,0 +1,8 @@
+# Neni 28
+Detyrimi për të bërë një ofertë dhe për ta publikuar atë
+1. Kur ofruesi, vetë ose së bashku me persona, që veprojnë në bashkëpunim me të, merr në zotërim tituj të shoqërisë, objekt i ofertës, të cilët, nëse mblidhen me titujt, që zotëronin para ofertës, i japin atij një përqindje të drejtash vote, të cilat i mundësojnë kontrollin mbi shoqërinë në fjalë, ofruesi, brenda 7 ditëve, në përputhje me nenin 6 të këtij ligji, njofton dhe publikon këtë fakt, si dhe, në mënyrë të saktë, të drejtat e votës që zotëron. Afati i mësipërm fillon nga dita kur ofruesi vihet në dijeni ose, në bazë të rrethanave, duhet të ishte në dijeni për fitimin e kontrollit mbi shoqërinë, objekt i ofertës.
+2. Brenda 10 ditëve nga data e publikimit të parashikuar në pikën 1 të këtij neni, ofruesi i paraqet për miratim Autoritetit një dokument oferte dhe e publikon atë në përputhje me pikën 3 të nenit 7 të këtij ligji.
+3. Oferta u drejtohet të gjithë zotëruesve të mbetur të titujve për të gjithë titujt që zotërojnë.
+4. Kur kontrolli është ndërmarrë në bazë të një oferte vullnetare, të publikuar në përputhje me nenin 7 të këtij ligji dhe drejtuar të gjithë zotëruesve të titujve për të gjithë titujt që zotërojnë, detyrimi i parashikuar në pikën 2 të këtij neni, për publikimin e ofertës, nuk zbatohet.
+5. Të drejtat, që rrjedhin prej aksioneve të zotëruara nga ofruesi ose nga personat që veprojnë në bashkëpunim me të, nuk mund të ushtrohen, nëse nuk janë përmbushur kërkesat e pikave 1, 2 e 3 të këtij neni.
+6. Dispozitat e kreut II të këtij ligji, me përjashtim të parashikimeve të bëra në nenet 11 pika 1, 23 e 27 të tij, zbatohen edhe për kreun III, nëse në to nuk parashikohet ndryshe.

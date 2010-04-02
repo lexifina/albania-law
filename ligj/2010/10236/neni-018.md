@@ -1,0 +1,5 @@
+# Neni 18
+Zbatimi i reciprocitetit
+1. Asambleja e përgjithshme e shoqërisë, objekt i ofertës, e cila ka vendosur moszbatimin e nenit 15 të këtij ligji, mund të vendosë që ky nen të zbatohet, nëse ofruesi ose shoqëria mëmë e ofruesit, në përputhje me nenin 207 të ligjit nr. 9901, datë 14.4.2008 “Për tregtarët dhe shoqëritë tregtare”, nuk i nënshtrohet dispozitave të barazvlefshme me nenin 16 të këtij ligji.
+2. Asambleja e përgjithshme e shoqërisë, objekt i ofertës, e cila ka vendosur për zbatimin e normës së kapërcimit të kufirit, të parashikuar në nenin 17 të këtij ligji, mund të vendosë për moszbatimin e kësaj norme, nëse ofruesi ose shoqëria mëmë e ofruesit, në përputhje me nenin 207 të ligjit nr. 9901, datë 14.4.2008 “Për tregtarët dhe shoqëritë tregtare”, nuk i nënshtrohet një norme të tillë.
+3. Administrata e shoqërisë, objekt i ofertës, njofton menjëherë Autoritetin për vendimin e asamblesë së përgjithshme, sipas pikave 1 e 2 të këtij neni. Vendimi publikohet menjëherë edhe në faqen e internetit të shoqërisë tregtare, objekt i ofertës.

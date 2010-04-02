@@ -1,0 +1,4 @@
+# Neni 32
+Bashkëpunimi ndërkombëtar i autoriteteve
+1. Autoriteti krijon marrëdhënie ose hyn në marrëveshje mirëkuptimi me çdo autoritet mbikëqyrës, vendas apo të huaj, me mbikëqyrës të sektorit financiar, agjenci kundër pastrimit të parave apo çdo institucion tjetër, për bashkëpunimin dhe shkëmbimin e informacionit, si dhe shkëmben informacion me këto autoritete, sa herë e sheh të nevojshme, për arsye të përmbushjes së funksioneve të përcaktuara nga dispozitat e këtij ligji.
+2. Bashkëpunimi përfshin të drejtën për të dhënë dokumentet ligjore të nevojshme për vënien në zbatim të masave të marra nga autoritetet kompetente për ofertat, si edhe ndihmën në fusha të tjera, sipas kërkesës së autoriteteve mbikëqyrëse, në përputhje me dispozitat e marrëveshjeve dy ose shumëpalëshe, të nënshkruara nga Autoriteti.

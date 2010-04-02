@@ -1,0 +1,6 @@
+# Neni 1
+Objekti dhe fusha e zbatimit
+1. Ky ligj përcakton rregullat, që lidhen me kushtet dhe procedurat për marrjen në kontroll të shoqërive me ofertë publike.
+2. Ky ligj zbatohet për ofertat e shpallura publikisht për marrjen në zotërim të titujve, të emetuar nga një shoqëri publike, me seli në territorin e Republikës së Shqipërisë dhe të pranuar për tregtim në tregun e organizuar të titujve të Republikës së Shqipërisë, sipas ligjit nr.9879, datë 21.2.2008 “Për titujt”, si dhe nga shoqëritë publike të huaja, me seli brenda dhe jashtë territorit të Republikës së Shqipërisë, të listuara në bursë në Shqipëri.
+3. Ky ligj nuk zbatohet për ofertat për marrjen në zotërim të titujve të emetuar nga shoqëritë, objekti i të cilave është investimi kolektiv i kapitalit të siguruar nga publiku, që ushtrojnë veprimtari në bazë të parimit të shpërndarjes së rrezikut dhe kuotat e të cilave riblihen ose shlyhen, me kërkesë të mbajtësve të tyre, drejtpërdrejt ose tërthorazi, nga pasuritë e këtyre shoqërive. Masat e marra nga shoqëri të tilla, për t’u kujdesur që vlera në bursë e njësive të tyre të mos ndryshojë ndjeshëm nga vlera e aseteve neto të tyre, vlerësohen si ekuivalente të riblerjes ose të shlyerjes.
+4. Ky ligj nuk zbatohet për titujt e emetuar nga Banka Qendrore e Shqipërisë.

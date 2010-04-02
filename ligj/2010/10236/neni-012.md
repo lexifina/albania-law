@@ -1,0 +1,5 @@
+# Neni 12
+Koha e lejuar për pranimin e ofertës
+1. Koha e lejuar për pranimin e ofertës për marrje në kontroll nuk duhet të jetë më pak se 3 javë dhe më shumë se 10 javë nga data e publikimit të dokumentit të ofertës.
+2. Nëse shoqëria, objekt i ofertës, thërret mbledhjen e asamblesë së përgjithshme për të vendosur për ofertën për marrjen në kontroll, koha e lejuar për pranimin është 10 javë nga data e publikimit të dokumentit të ofertës. Administratori i shoqërisë, objekt i ofertës, njofton menjëherë ofruesin dhe Autoritetin për thirrjen e asamblesë së përgjithshme. Ofruesi publikon menjëherë këtë informacion, në përputhje me pikën 2 të nenit 6 të këtij ligji.
+3. Asambleja e përgjithshme, sipas pikës 2 të këtij neni, thirret jo më vonë se 21 ditë kalendarike para datës së parashikuar për mbajtjen e mbledhjes së kësaj asambleje, por me kusht që mbledhja të mos zhvillohet 21 ditë para datës së publikimit të dokumentit të ofertës. Ky afat është i vlefshëm edhe për informacionin që vihet në dispozicion të aksionarëve, në bazë të pikës 3 të nenit 137 të ligjit nr.9901,datë 14.4.2008 “Për tregtarët dhe shoqëritë tregtare”.
