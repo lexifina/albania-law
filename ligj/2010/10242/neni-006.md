@@ -1,0 +1,4 @@
+# Neni 6
+Bashkërendimi
+1. Instituti është i autorizuar të përdorë të dhëna personale, kur është e domosdoshme, për përmbushjen e detyrave, duke garantuar privatësinë, në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+2. Të gjitha strukturat dhe organet shtetërore, njësitë e qeverisjes vendore, organizatat, tërësisht ose pjesërisht buxhetore, organizatat që financohen nga qeverisja vendore, arkivat dhe të gjitha njësitë apo strukturat e tjera, që disponojnë dokumente e materiale arkivore, që i përkasin periudhës së komunizmit dhe që mund t’i shërbejnë realizimit të veprimtarisë së institutit, janë të detyruara t’ia vënë ato në dispozicion dhe t’i ofrojnë institutit asistencën e nevojshme, pa pagesë dhe pa vonesë të pajustifikuar. Instituti ka të drejtë të bëjë kopje të dokumenteve dhe të materialeve arkivore, në përputhje me legjislacionin në fuqi për arkivat.
