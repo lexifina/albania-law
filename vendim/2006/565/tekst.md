@@ -4,7 +4,7 @@ Nr. 565, datë 9.8.2006
 
 PËR MBROJTJEN E SHTRESAVE NË NEVOJË, NGA RRITJA E ÇMIMIT TË ENERGJISË ELEKTRIKE
 
-(Ndryshuar me VKM nr. 46, datë 31.1.2007)
+                 (Ndryshuar me VKM nr. 46, datë 31.1.2007; nr. 238, datë 7.4.2010)
 
 (i përditësuar)
 
@@ -28,7 +28,7 @@ c) kryefamiljarët, që përfitojnë pension pleqërie, shtetëror, ose që për
 
 4. Përfituesi i kompensimit, në zbatim të pikës 3 të këtij vendimi, detyrohet ta kthejë përfitimin e padrejtë dhe përjashtohet përgjithmonë nga e drejta e përfitimit të kompensimit për energjinë elektrike.
 
-5. Masa e kompensimit, për çdo përfitues, është 500 (pesëqind) lekë në muaj dhe efekti financiar të përballohet nga buxheti i miratuar për ndihmë ekonomike, për vitin 2006, i Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
+5. Masa e kompensimit, për çdo përfitues, është 640 (gjashtëqind e dyzet) lekë në muaj. Efekti financiar i shtesës së kompensimit për çdo përfitues të përballohet nga fondet e miratuara në buxhetin e vitit 2010, për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
 
 6. Rregullat e veçanta të përfitimit të pagesës dhe të zbatimit të skemës së kompensimit përcaktohen me udhëzim të përbashkët të Ministrit të Financave, të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës dhe të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
 
