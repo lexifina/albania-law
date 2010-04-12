@@ -1,0 +1,1 @@
+1. Dhënien në përdorim Agjencisë për Mbështetjen e Shoqërisë Civile të disa mjediseve, konkretisht kati i tretë teknik i ndërtesës së ish-Ministrisë së Transporteve dhe Telekomunikacioneve, përkatësisht, 5 zyra në këtë kat.
