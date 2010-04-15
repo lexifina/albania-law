@@ -1,0 +1,1 @@
+3. Shkolla e lartë private “Sevasti & Parashqevi Qiriazi”, Tiranë, të fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikën 1 të këtij vendimi, pasi të ketë marrë, jo më vonë se tri javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
