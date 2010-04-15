@@ -1,0 +1,1 @@
+2. Ministria e Mbrojtjes, nëpërmjet njësisë shpenzuese, Drejtoria e Administratës dhe Shërbimeve, të kryejë pagesën, në vlerën 7 000 000 (shtatë milionë) lekë, në formë kontributi, në fondin e përbashkët të NATO-s, për të mbështetur nismën “HIP Helicopter Task Force” (HIP HTF).

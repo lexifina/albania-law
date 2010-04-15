@@ -1,0 +1,1 @@
+1. Ministria e Mbrojtjes, nëpërmjet njësisë shpenzuese, Drejtoria e Administratës dhe Shërbimeve, të kryejë pagesën, në vlerën 70 000 000 (shtatëdhjetë milionë) lekë, në formë kontributi, në fondin e përbashkët të NATO-s, për të mbështetur ngritjen e Forcës së Sigurisë në Kosovë.
