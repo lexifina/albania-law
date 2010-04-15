@@ -1,0 +1,158 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+DREJTORIA E PËRGJITHSHME E RRUGËVE
+DREJTORIA JURIDIKE
+SEKTORI I SHPRONËSIMEVE
+LISTA E TROJEVE QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR “LIDHJA E RRUGËS HYRËSE KOMBINAT ME URËN E RE BERAT”
+nNr.
+Pronari
+ZZ.K.
+Nr.
+pas.
+Sip. m2
+Tokë truall
+Vlera
+lekë
+Vlera
+totale
+lekë
+Shënime
+Emri
+Atësia
+Mbiemri
+Çmimi
+lekë/m2
+1
+Fitime
+Fitim
+Molishti
+8501
+10/263
+550
+3100
+1705000
+1705000
+Konf ZRPP
+2
+B/Pronarët
+Drenova
+8501
+10/189
+1041
+3100
+3227100
+3227100
+Konf ZRPP
+3
+B/Pronarët
+Drenova
+8501
+10/185
+143
+3100
+443300
+443300
+Konf ZRPP
+4
+Kamber
+Hajro
+Hasani
+8501
+9/194
+140
+3100
+434000
+434000
+Konf ZRPP
+5
+B/Pronarët
+Kurteshi
+8501
+10/228
+61
+3100
+189100
+189100
+Konf ZRPP
+Shuma
+1935
+5998500
+5998500
+REPUBLIKA E SHQIPËRISË
+DREJTORIA E PËRGJITHSHME E RRUGËVE
+DREJTORIA JURIDIKE
+SEKTORI I SHPRONËSIMEVE
+LISTA E OBJEKTEVE QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR
+“HYRJE BERAT”
+Nr.
+Pronari
+Z.K.
+Nr.
+pasurisë
+Vlera
+totale lekë
+Shënime
+Emri
+Atësia
+Mbiemri
+1
+Kamber
+Hajro
+Hasani
+8501
+9/194
+6611687
+Konf ZRPP
+2
+Shpëtim
+Deli
+Zanaj
+8501
+10/35
+1097745
+Konf ZRPP
+3
+Lulzim
+Myslim
+Balla
+8501
+11/13
+577350
+Konf ZRPP
+4
+Klei
+Edison
+Çobo
+8501
+3444659
+Në proces legalizimi
+5
+Ali
+Hajro
+Hasani
+8501
+2166724
+Në proces legalizimi
+6
+Rushit
+Ibrahim
+Azizi
+8501
+1327105
+Në proces legalizimi
+7
+Ylmi
+Sabri
+Dushku
+8501
+324536
+Në proces legalizimi
+8
+Robert
+Haredin
+Çela
+8501
+1571270
+Në proces legalizimi
+Shuma
+17121076

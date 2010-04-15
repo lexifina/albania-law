@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Rrugëve, do të kryejë likuidimin e pronarëve të pasurive për të cilat janë bërë shënimet përkatëse “Proces legalizimi”, pasi të ketë përfunduar procesi i legalizimit dhe të jetë bërë regjistrimi në ZRPP.
