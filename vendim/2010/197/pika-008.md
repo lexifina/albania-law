@@ -1,0 +1,1 @@
+8. Pronari për të cilin është bërë shënimi “Plotësim dokumentacioni”, të kompensohet për efekt shpronësimi, pasi të ketë përfunduar procedurat e regjistrimit për pasurinë e zërit “Truall” dhe të ketë paraqitur dokumentacionin e pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.

@@ -1,0 +1,154 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E PUNËVE PUBLIKE, TRANSPORTIT DHE TELEKOMUNIKACIONIT
+DREJTORIA E PËRGJITHSHME E SHËRBIMEVE MBËSHTETËSE
+DREJTORIA JURIDIKE
+SEKTORI I SHPRONËSIMEVE
+LISTA EMËRORE E PRONARËVE PASURITË (TOKË+OBJEKTE) E TË CILËVE PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR
+“KODËR KAMËZ-KAMËZ”
+Nr.
+Emri
+Atësia
+Mbiemri
+Zona
+kadast.
+Vërtetim
+pronësie
+nr.pasurisë
+Sip.
+Përgj,m2
+Lloji i pasurisë
+Objektet
+Vlera
+lekë
+Shuma
+në lekë
+Shënime
+Truall
+Arë
+m2
+Çmimi
+Vl.lekë
+m2
+Çmimi
+Vl.lekë
+1
+Shkëlqim
+Marjana
+Hajdari
+8320
+1/81
+Nd.125
+Lokal 1kt
+2037374
+2037374
+Konf.zvrpp
+2
+Enver
+Zyberaj
+2066
+81/11
+2366
+66
+2650
+174900
+174900
+Plotësim.dok.
+3
+Ramazan
+Nika
+2066
+129/148
+Tr.400,
+nd.252
+100
+2650
+265000
+karburant
+2670234
+2935234
+Konf.zvrpp
+4
+Isuf
+Bendo
+2066
+42 dt.23.2.05
+37.5
+5
+2650
+13250
+Lokal 3kt
+1530522
+1543772
+Konf.zvrpp
+5
+Bashkëpronarët
+Ismaili
+8320
+1/142
+440
+237
+20473
+4852101
+4852101
+Konf.zvrpp
+6
+Bashkëpronarët
+Zyberaj
+2066
+953 dt.7.12.05
+172
+Mur.rreth.
+1200644
+1200644
+Konf.zvrpp
+7
+Qemal
+Jonuzi
+2066
+112 dt.28.4.07
+13.5
+lokal
+1001925
+1001925
+Konf.zvrpp
+8
+Petro
+Gjergji
+2066
+81/20
+1064
+62
+626
+38812
+38812
+Konf.zvrpp
+9
+Sabri
+Spahiu
+2066
+81/18
+1024
+35
+626
+21910
+21910
+Konf.zvrpp
+10
+Riza
+Maloku
+2066
+129/241
+2308
+68
+626
+42568
+42568
+Konf.zvrpp
+Shuma
+408
+5305251
+165
+103290
+8440699
+13849240

@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Rrugëve të bëjë likuidimin e pronarit, për të cilin është bërë shënimi “Plotësim dokumentacioni”, pasi të këtë marrë konfirmimin e zyrës respektive të regjistrimit të pasurive të paluajtshme, në bazë të dokumentacionit të pronësisë.
