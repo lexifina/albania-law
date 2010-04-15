@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion, të formës ROT (Rehabilitim-shfrytëzim dhe transferim në pronësi të shtetit), të shërbimit të anijeve detare, është Ministria e Punëve Publike, Transportit dhe Telekomunikacionit.
