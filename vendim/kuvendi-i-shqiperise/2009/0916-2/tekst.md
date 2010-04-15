@@ -4,6 +4,10 @@ Nr.2, datë 16.9.2009
 
 PËR MIRATIMIN E PËRBËRJES DHE PROGRAMIT POLITIK TË KËSHILLIT TË MINISTRAVE
 
+(Ndryshuar me vendimin nr. 27, datë 15.4.2010)
+
+                                                                                                                                                                                               (i përditësuar)
+
 Në mbështetje të neneve 96,97,98 dhe 78 të Kushtetutës, bazuar më dekretin e Presidentit të Republikës nr.6244, datë 14.9.2009 “Për emërimin e Këshillit të Ministrave,
 
 KUVENDI
@@ -30,9 +34,9 @@ I. Miratohet përbërja e Këshillit të Ministrave si më poshtë:
 
 8. Zoti Bujar Nishani, Ministër i Drejtësisë
 
-9. Zoti Sokol Olldashi, Ministër i Punëve Publike, Transportit dhe Telekomunikacionit
+9. Zoti Sokol Olldashi, Ministër i Punëve Publike dhe Transportit.
 
-10. Zoti Myqerem Tafaj, Ministër i Arsimit dhe Shkencës
+10. Zoti Myqerem Tafaj, Ministër i Arsimit dhe Shkencës.
 
 11. Zoti Petrit Vasili, Ministër i Shëndetësisë 
 
@@ -44,7 +48,7 @@ I. Miratohet përbërja e Këshillit të Ministrave si më poshtë:
 
 15. Zoti Fatmir Mediu, Ministër i Mjedisit, Pyjeve dhe Administrimit të Ujërave
 
-16. Zoti Genc Pollo, Ministër Shteti për Reformat dhe Marrëdhëniet me Kuvendin
+16. Zoti Genc Pollo, Ministër për Inovacionin dhe Teknologjinë e Informacionit e të Komunikimit.
 
 II. Miratohet Programi Politik i Këshillit të Ministrave, sipas tekstit bashkëlidhur këtij vendimi.
 
