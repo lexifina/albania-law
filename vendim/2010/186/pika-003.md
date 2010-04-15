@@ -1,0 +1,1 @@
+3. Në mbledhjet e Komisionit, veç anëtarëve, marrin pjesë edhe specialistët e nevojshëm sipas specifikës së çështjes, që do të diskutohet, në përputhje me vendimin që është marrë, paraprakisht, nga Komisioni Qendror i Regjistrimit të Përgjithshëm të Njësive Ekonomike Jobujqësore.

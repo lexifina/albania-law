@@ -1,0 +1,1 @@
+5. Mbledhjen e Komisionit Qendror të Regjistrimit të Përgjithshëm të Njësive Ekonomike Jobujqësore e deklaron të hapur kryetari i Komisionit, pasi ka verifikuar nëse në mbledhje marrin pjesë mbi 50% e anëtarëve. Për të gjitha çështjet, që diskutohen në mbledhje, vendoset me votim me shumicën e thjeshtë të votave të anëtarëve të pranishëm.

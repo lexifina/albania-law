@@ -1,0 +1,1 @@
+2. Komisioni Qendror i Regjistrimit të Përgjithshëm të Njësive Ekonomike Jobujqësore mblidhet çdo muaj. Mbledhjet e tij kryesohen nga kryetari i Komisionit e, në mungesë të tij, nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës. Mbledhjet e këtij Komisioni do të zhvillohen në mjediset e Kryeministrisë.
