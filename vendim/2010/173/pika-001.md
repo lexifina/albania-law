@@ -1,0 +1,1 @@
+1. Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në buxhetin e miratuar për vitin 2010, zëri “Investime”, t’i shtohet fondi prej 229 000 000 (dyqind e njëzet e nëntë milionë) lekësh për ndërhyrjet emergjente në objektet e mbrojtjes nga përmbytja dhe digat e rezervuarëve, sipas listës që i bashkëlidhet këtij vendimi.
