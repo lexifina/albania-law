@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 29.9.2009, për çështjen nr.32907/07 “Gjyli kundër Shqipërisë”, në shumën 4250 (katër mijë e dyqind e pesëdhjetë) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
