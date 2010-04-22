@@ -1,0 +1,1 @@
+1. Ministrisë së Integrimit, në buxhetin e miratuar për vitin 2010, t’i shtohet fondi 4 300 000 (katër milionë e treqind mijë) lekë, për pagesën e kuotës vjetore të bashkëfinancimit të asistencës teknike, në kuadër të programit, IPA, bashkëpunimi ndërkufitar Adriatik.
