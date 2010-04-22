@@ -1,0 +1,1 @@
+10. Gjobat e arkëtuara (edhe ato që u përkasin rretheve) të derdhen në degën e thesarit të rrethit nga operatorët financiarë që kryejnë arkëtimin e gjobave me pjesëmarrje 40% buxheti dhe 60% institucioni.

@@ -1,0 +1,3 @@
+4. Për kundërvajtjet, objekt i të cilave janë mjetet me targa të huaja, arkëtimi i gjobës të bëhet në vend nga punonjësi i Policisë Rrugore, i patrullës së përgjithshme ose, në pamundësi të kryerjes së pagesës, të bëhet bllokimi i dokumentacionit (lejedrejtimi, lejeqarkullimi, siguracion) i konfirmuar me dokument zëvendësimi deri në momentin e shlyerjes së detyrimit.
+Seksioni ose sektori i buxhet-financës merr masat për pajisjen e punonjësve me mandat arkëtimi, i cili hartohet në tri kopje: një kundërvajtësit, një kopje së bashku me procesverbalin dorëzohet në financë dhe një kopje në bllok.
+Derdhja e shumës së vjelur të kryhet në arkën e institucionit, jo më vonë se 24 orë nga momenti (data) i vendosjes.

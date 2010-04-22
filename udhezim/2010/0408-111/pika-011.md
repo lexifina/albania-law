@@ -1,0 +1,1 @@
+11. Çdo muaj seksioni ose sektori i buxhet-financës dhe seksionet e Policisë Rrugore të paraqesin pranë drejtorive përkatëse në DPPSH, statistikën e gjobave të shërbimeve të Policisë Rrugore, patrullës së përgjithshme dhe Komisionit Administrativ të Shqyrtimit të Kundërvajtjeve mujore dhe progresive jo më vonë se data 10 e muajit pasardhës.

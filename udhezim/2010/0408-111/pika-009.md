@@ -1,0 +1,1 @@
+9. Vjelja e gjobës që ka kaluar afatin ligjor të kryhet sipas ligjit nr.7697, datë 7.4.1993 “Për kundërvajtjet administrtive”, neni 19, ndërsa kur shkelësi është pronar dhe drejtues mjeti me motor, zbatohet neni 203 i Kodit Rrugor të Republikës së Shqipërisë.
