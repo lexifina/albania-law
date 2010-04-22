@@ -31,42 +31,22 @@ Burimet e financimit dhe të gjitha të ardhurat e realizuara nga aktiviteti i A
 KAPITULLI III
 STRUKTURA ORGANIZATIVE E AGJENSISË
 Neni 9
-Organet drejtuese të Agjensisë janë:
-(a) Bordi Ekzekutiv,
-(b) Komiteti Ekzekutiv.
+Organet drejtuese të AZHZM-së janë:
+a) Bordi ekzekutiv;
+b) Komiteti ekzekutiv;
+c) Drejtori ekzekutiv.
 Neni 10
-Bordi drejtues përbëhet nga 11 anëtarë, si më poshtë vijon:
-- ministri përgjegjës për ekonominë kryetar
-- një drejtor i përgjithshëm, në ministrinë përgjegjëse
-për bujqësinë anëtar
-- një drejtor i përgjithshëm në ministrinë përgjegjëse
-për çështje të pushtetit vendor anëtar
-- një drejtor i përgjithshëm në Ministrinë e Financave anëtar
-- një drejtor i përgjithshëm në ministrinë përgjegjëse
-për çështje të mjedisit anëtar
-- një përfaqësues i shoqatës së bankierëve anëtar
-- një përfaqësues i dhomave të tregtisë anëtar
-- një përfaqësues i shoqatave kryesore të
-prodhuesve/tregtuese anëtar
-- një përfaqësues i zgjedhur nga Forumi i Zonave
-Malore anëtar
-- një përfaqësues i shoqatës së komunave anëtar
-- një përfaqësues i shoqatës së këshillave të qarqeve anëtar.
-Drejtori i Fondit të Financimit të Zonave Malore ka detyrimin të ndjekë, me cilësinë e vëzhguesit, mbledhjet e Bordit Ekzekutiv.
-Procedura e plotësimi të vendeve të jetë, si më poshtë vijon:
-Procedura për zgjedhjen e përfaqësuesve të nivelit drejtor drejtorie në ministritë përkatëse:
-- Me kërkesë me shkrim të kryetarit të bordit drejtues, ministrat përgjegjës caktojnë drejtorët, përfaqësues të ministrive përkatëse në bord. Drejtorët e përgjithshëm caktohen nga strukturat, që kanë lidhje bashkëpunimi me veprimtarinë e kësaj Agjencie. Drejtorët i raportojnë, me shkrim, ministrit përgjegjës, për çështje të pjesëmarrjes, qëndrimit dhe vendimit të tyre në bord. Drejtori i Përgjithshëm, për çështje të rëndësishme, këshillohet, paraprakisht, me ministrin përgjegjës. Ai është përfaqësues i institucionit. Ministri përgjegjës ka të drejtë të lirojë anëtarin nga detyra e përfaqësuesit në bord dhe ta zëvendësojë atë në çdo kohë.
-Procedura për zgjedhjen e përfaqësuesve të Forumit të Zonave Malore:
-- Me kërkesë me shkrim të kryetarit të Bordit Ekzekutiv, Forumet e Zonave Malore, me rotacion 1 herë në 6 muaj, caktojnë drejtpërdrejt përfaqësuesit e tyre. Kandidaturat preferohen të jenë juristë, ekonomistë, inxhinierë apo agronomë/veterinerë.
-Procedura për zgjedhjen e përfaqësuesve të qeverisjes vendore (mandati 2 vjet):
-Ministri përgjegjës edhe për çështjet e pushtetit vendor përgatit listën emërore të kryetarëve të komunave dhe të qarqeve të zonave malore, sipas strategjisë së MADA-s, dhe i kërkon shoqatave përkatëse të komunave dhe qarqeve paraqitjen e 3 kandidaturave për vendet vakant, për një (1) përfaqësues të shoqatave të komunave dhe një (1) përfaqësues të shoqatave të qarqeve nga këto lista. Këto shoqata, me votim vetëm të anëtarëve përfaqësues të zonave malore, zgjedhin ndërmjet tyre 3 kandidatura përfaqësuese, për vendin vakant në bordin drejtues dhe ia përcjellin ministrit për çështje të pushtetit vendor, brenda 15 ditëve, së bashku me kurrikulumin e tyre.
-Ministri përgjegjës për çështjet e pushtetit vendor cakton njërin prej tyre, për vendin e anëtarit, kandidaturat preferohen të jenë juristë, ekonomistë, inxhinierë apo agronomë/veterinerë. Ministri duhet të përcaktojë si përfaqësues, drejtuesit e komunave dhe të qarqeve, me mundësi të larta zhvillimi. Kur, brenda 15 ditëve nuk paraqitet asnjë propozim, ministri përgjegjës njofton kryetarin e bordit drejtues të organizojë zgjedhjen e përfaqësuesve, nëpërmjet shortit, sipas listës emërore të kryetarëve të komunave dhe të qarqeve të zonave malore, të përgatitur nga ministri përkatës i pushtetit vendor.
-Me “zona malore” kuptohet rrethi i programit, i përcaktuar në nenin 1 të ligjit për marrëveshjen e huasë.
-Procedura për zgjedhjen e kandidaturave, përfaqësues të sektorit privat:
-- Ministri i Financave u kërkon, me shkrim, të gjitha dhomave të tregtisë në zonat malore dhe shoqatave të prodhuesve me shtrirje në këto zona, zgjedhjen e 3 kandidaturave, si përfaqësues të tyre për vendet përkatëse për anëtar në bordin drejtues, të cilat ia përcjellin Ministrit brenda 10 ditëve, së bashku me kurrikulumin e tyre.
-Ministri cakton njërin prej tyre, pasi ka verifikuar më parë pranë zyrave të tatim-taksave, nëse shoqatat kanë anëtarë debitorë ndaj shtetit. Kandidaturat, që i përcillen Ministrit, preferohen të jenë vetëm ekonomistë apo juristë. Mandati është 2 vjet. Shoqatat përkatëse kanë të drejtë që, në çdo kohë, t’i propozojnë ministrit përgjegjës lirimin nga funksioni të anëtarit. Ministri vlerëson propozimin dhe, kur e gjen të motivuar atë, kryen lirimin nga funksioni para afatit.
-- Ministri i Financave i kërkon me shkrim shoqatës së bankierëve përcaktimin e 3 kandidaturave për vendin e anëtarit, përfaqësues të kësaj shoqate në bord. Shoqata e bankierëve, brenda 10 ditësh, dërgon propozimin me emrat e 3 kandidaturave, së bashku me kurrikulumin e tyre.
-Kandidaturat, që i përcillen ministrit, preferohen të jenë vetëm ekonomistë apo juristë. Ministri i Financave, pasi njihet me mendimin e Guvernatorit të Bankës së Shqipërisë, për kandidaturat, cakton njërin prej tyre në funksionin e anëtarit të bordit drejtues. Mandati i tij është 2 vjet. Shoqata e bankierëve ose Banka e Shqipërisë kanë të drejtë, t’i propozojnë ministrit përgjegjës lirimin nga funksioni të anëtarit. Ministri vlerëson propozimin dhe kryen lirimin nga funksioni, kur e gjen të motivuar atë.
+Bordi ekzekutiv është organi më i lartë vendimmarrës i AZHZM-së, i cili kryesohet nga ministri përgjegjës për bujqësinë dhe zhvillimin rural dhe nga 10 anëtarë, si më poshtë vijon:
+1) 4 (katër) anëtarë, përfaqësues të institucioneve qendrore, në nivel drejtor i përgjithshëm ose drejtor drejtorie, nga një për secilën ministri përgjegjëse për: (a) financat; (b) ekonominë; (c) çështjet sociale dhe shanset e barabarta; dhe (d) çështje të pushtetit vendor. Emërimi dhe shkarkimi i tyre bëhen nga kryetari i bordit, me propozimin e ministrit përkatës. Kandidatët për anëtarë caktohen nga strukturat që kanë lidhje bashkëpunimi ose bashkërendimi me veprimtarinë e kësaj Agjencie.
+2) 2 (dy) anëtarë përfaqësues të organeve vendore, nga të cilët një përfaqësues i shoqatës së këshillave të qarqeve dhe një përfaqësues i shoqatës së komunave. Emërimi dhe shkarkimi i tyre bëhen nga kryetari i bordit, me propozimin e shoqatave përkatëse. Kandidatët e propozuar nga shoqatat duhet të jenë të zgjedhur të pushtetit vendor (kryetar qarku, komune ose anëtar këshillash), në qarqet dhe komunat që kanë lidhje bashkëpunimi ose bashkërendimi me veprimtarinë e kësaj Agjencie.
+3) 4 (katër) anëtarë, përfaqësues të sektorit privat, nga të cilët:
+a) 1 (një) nga Shoqata e Bankierëve, i emëruar nga kryetari i bordit, me propozim të saj.
+b) 1 (një) nga Këshilli i Agrobiznesit Shqiptar, i cili emërohet nga kryetari i bordit, ndërmjet tri kandidaturave të propozuara nga KASH-i. Kandidatët e propozuar duhet të jenë drejtues kryesorë të shoqatave të prodhuesve, të përpunuesve apo të tregtarëve në zonat e veprimit të Agjencisë.
+c) 1 (një) nga shoqatat e grave, i cili emërohet nga kryetari i bordit, ndërmjet tri kandidaturave të propozuara nga shoqatat e grave, që veprojnë në zonat e veprimtarisë së Agjencisë. Kandidatet e propozuara duhet të jenë drejtuese kryesore të shoqatave të grave që merren me prodhim, përpunim apo tregtimin e produkteve agro-ushqimore në zonat e veprimit të Agjencisë;
+ç) 1 (një) nga Forumi Kombëtar i Zonave Malore, i cili emërohet nga kryetari i bordit, ndërmjet tri kandidaturave të propozuara nga forumi kombëtar. Kandidatët e propozuar duhet të jenë drejtues kryesorë të Forumit Kombëtar të Zonave Malore ose të forumeve lokale që janë anëtare të Forumit Kombëtar, në zonat e veprimit të Agjencisë.
+Afati i qëndrimit në detyrën e anëtarit të bordit ekzekutiv të AZHZM-së është i papërcaktuar, me përjashtim të përfaqësuesve të pushtetit vendor, afati i të cilëve është i njëjtë me mandatin e tyre si të zgjedhur të pushtetit vendor.
+Titullari i institucionit të përfaqësuar në bord ka të drejtë të propozojë, në çdo kohë, lirimin nga detyra të anëtarit që e përfaqëson dhe të propozojë zëvendësimin e tij, sipas procedurave të përcaktuara më sipër. Kryetari i bordit ekzekutiv, pasi e vlerëson të motivuar propozimin, bën lirimin dhe emërimin e kandidatit të propozuar.
+Kur një anëtar i bordit nuk merr pjesë, pa arsye objektive, në tri mbledhje të njëpasnjëshme, shkarkohet nga kjo detyrë nga kryetari i bordit, i cili i kërkon institucionit të përfaqësuar fillimin e procedurës së zëvendësimit të tij me një përfaqësues tjetër.
 Neni 11
 Bordi do të kryesohet nga Kryetari, dhe në mungesë të tij ose të saj, nga një anëtar i Bordit i cili është ngarkuar për këtë funksion nga Kryetari.
 Neni 12
