@@ -1,0 +1,1 @@
+6. Nëpunësi/punonjësi mund të përzgjedhë, si bankë të preferuar, bankën ku mund të ketë një llogari të hapur bankare ose një bankë tjetër. Në çdo rast, të dhënat për numrin e llogarisë bankare ekzistuese duhet të bëhen të qarta në formularin e plotësuar, sipas pikës 5 të këtij vendimi.

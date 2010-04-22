@@ -1,0 +1,1 @@
+3. Referenca e nëpunësit/punonjësit për përzgjedhjen e bankës jepet pas plotësimit të një formulari standard, të përgatitur dhe të vënë në dispozicion nga strukturat e personelit, brenda çdo institucioni.
