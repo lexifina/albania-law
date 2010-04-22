@@ -1,0 +1,1 @@
+2. Mjediset e përcaktuara në pikën 1 të këtij vendimi, të hiqen nga lista e inventarit të pronave të paluajtshme, që i bashkëlidhet vendimit nr.815, datë 29.11.2007 të Këshillit të Ministrave “Për miratimin e listës shtesë të inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Brendshme, për Gardën e Republikës”.

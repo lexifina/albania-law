@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të disa mjediseve, konkretisht, kati përdhe i ndërtesës së ambulancës, në garnizonin e Gardës së Republikës së Shqipërisë, në administrim të Ministrisë së Brendshme, nga ky institucion Këshillit të Ministrave, për nevojat e Drejtorisë së Sigurimit të Informacionit të Klasifikuar, sipas planimetrisë, që i bashkëlidhet këtij vendimi.
