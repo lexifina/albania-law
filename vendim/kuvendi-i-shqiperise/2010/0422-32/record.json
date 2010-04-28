@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19793,
+  "title": "Për zgjedhjen e  Avokatit të Prokurimeve",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "32",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2010-04-22",
+  "published": "2010-04-28",
+  "in_force": "2010-04-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/43c93254ff97057b7cbe6221e53ba6e6cd3c933fef18f490b4ffe99cc2a58d5d.docx",
+  "source_sha256": "43c93254ff97057b7cbe6221e53ba6e6cd3c933fef18f490b4ffe99cc2a58d5d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19793",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/04/22/32",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
