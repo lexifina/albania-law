@@ -8,6 +8,7 @@ a) Punët në miniera, në nëntokë, dhe në punimet e tjera, në nëntokë, q�
 b) Punët në aviacionin civil, që kryhen nga:
 - komandanti i aviacionit,
 - piloti,
+- kontrollor i trafikut ajror,
 - navigatori,
 - mekaniku,
 - radiotelegrafisti,
