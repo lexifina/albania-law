@@ -1,0 +1,1 @@
+2. Objekti “Ish-parku komunal”, Elbasan, me sipërfaqe 3 937 (tre mijë e nëntëqind e tridhjetë e shtatë) m2, në pronësi të bashkisë Elbasan, t’i kalojë në përgjegjësi administrimi Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit.

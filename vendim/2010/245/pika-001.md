@@ -1,0 +1,1 @@
+1. Objekti “Ofiçinat e filialit të ish-sizmikës”, Fier, me sipërfaqe 1180 (një mijë e njëqind e tetëdhjetë) m2, në pronësi të bashkisë Fier, t’i kalojë në përgjegjësi administrimi Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit.
