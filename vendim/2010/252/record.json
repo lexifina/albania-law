@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19805,
+  "title": "Për ekzekutimin e vendimit të Gjykatës Europiane  për të Drejtat e Njeriut, datë 13.11.2007 për çështjen nr.38222/02, “Rramadhi dhe të tjerë kundër Shqipërisë”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "252",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-04-13",
+  "published": "2010-04-28",
+  "in_force": "2010-04-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f908fc0fdb051c3174ee61fe40f6f03288e52f9f3dc0d8f877aa2c9dbb79f7cc.docx",
+  "source_sha256": "f908fc0fdb051c3174ee61fe40f6f03288e52f9f3dc0d8f877aa2c9dbb79f7cc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19805",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/04/13/252",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
