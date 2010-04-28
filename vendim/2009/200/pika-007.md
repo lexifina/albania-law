@@ -1,1 +1,1 @@
-7. Nëse zyra qendrore e AKKP-së nuk është dakord me vlerësimin ligjor, të propozuar nga zyra rajonale, dhe çmon se kërkesa e paraqitur duhet zgjidhur ndryshe, paraqet, me shkrim, në mënyrë të argumentuar, arsyet e mospranimit, duke përcaktuar zgjidhjen përfundimtare të kërkesës, në mbështetje vetëm të akteve të mbledhura në dosje, nga zyra rajonale.
+7. Shfuqizuar

@@ -1,4 +1,4 @@
-6. Zyra qendrore e AKKP-së, brenda 10 ditëve nga data e mbërritjes së dosjes, verifikon zbatimin e saktë të kërkesave të këtij vendimi, nga zyra rajonale e AKKP-së, në bazë të akteve të mbledhura në dosje dhe pa kryer vetë veprime verifikuese. Në përfundim, zyra qendrore njofton kërkuesin, sipas rastit, për:
+6. Në përfundim, AKKP-ja njofton kërkuesin, sipas rastit, për. Në përfundim, zyra qendrore njofton kërkuesin, sipas rastit, për:
 a) Të drejtën e tjetërsimit me shpërblim dhe detyrimin për të paguar brenda 30 ditëve, për llogari të AKKP-së, për fondin e kompensimit financiar, çmimin e tjetërsimit, duke i treguar edhe numrin e llogarisë. Ky njoftim përmban një paraqitje të kufijve, të sipërfaqes në m2 dhe të vendnndodhjes së oborrit në përdorim, të shoqëruar me planimetrinë përkatëse.
 b) Të drejtën e tjetërsimit pa kundërshpërblim, duke i treguar kërkuesit kufijtë, sipërfaqen në m2 dhe vendndodhjen e oborit në përdorim, shoqëruar me planvendosjen përkatëse.
 c) Mospranimin e kërkesës për tjetërsim, duke arsyetuar, me shkrim, në mënyrë të hollësishme kushtet, e përcaktuara në ndarjen II të këtij vendimi, që nuk plotësohen apo provohen.
