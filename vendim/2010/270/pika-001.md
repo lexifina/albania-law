@@ -1,0 +1,1 @@
+1.Ministrisë së Integrimit, në buxhetin e miratuar për vitin 2010, t’i shtohet fondi 25 250 000 (njëzet e pesë milionë e dyqind e pesëdhjetë mijë) lekë, për pagesën e fondeve të mbajtura nga Komisioni Europian për disa projekte, të financuara nga programi CARDS, me përfitues Ministrinë e Integrimit.
