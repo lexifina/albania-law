@@ -1,0 +1,1 @@
+12. Ministritë e linjës dhe Fondi Shqiptar i Zhvillimit, të përmendura në pikën 8 të këtij udhëzimi, mbështetur në kriteret e përcaktuara në vendimin e Këshillit të Ministrave nr.135, datë 3.2.2010 “Për përcaktimin e kritereve për ndarjen e fondit për zhvillimin e rajoneve” bëjnë një vlerësim të projekteve sipas kritereve në pikën 18 të këtij udhëzimi.

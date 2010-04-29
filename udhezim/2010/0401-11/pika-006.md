@@ -1,0 +1,1 @@
+6. Njësitë e qeverisjes vendore dhe universitetet duhet të dërgojnë një kopje të letrës së aplikimit (vetëm shkresën përcjellëse, pa projektin) në këshillin e qarkut përkatës dhe në sekretariatin e përgjithshëm të Komitetit për Zhvillimin e Rajoneve.

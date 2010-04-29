@@ -1,0 +1,2 @@
+20. Monitorimi i realizimit të fondit të zhvillimit të rajoneve do të bëhet nga ministritë përfituese dhe Fondi Shqiptar i Zhvillimit. Raportet për ecurinë e zbatimit të projekteve të akorduara njësive të qeverisjes vendore nga fondi për zhvillimin e rajoneve do të dërgohen në Ministrinë e Financave, sipas afateve të përcaktuara në udhëzimin për zbatimin e buxhetit.
+Ky udhëzim hyn në fuqi menjëherë.

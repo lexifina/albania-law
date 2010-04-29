@@ -1,0 +1,1 @@
+3. Rolin e sekretariatit të përgjithshëm të Komitetit për Zhvillimin e Rajoneve e kryen Departamenti i Bashkërendimit të Strategjive dhe Koordinimit të Ndihmës së Huaj (DEBASKON), pranë Këshillit të Ministrave.

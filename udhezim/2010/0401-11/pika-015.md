@@ -1,0 +1,1 @@
+15. Ministria e Brendshme paraqet pranë sekretariatit të përgjithshëm të Komitetit për Zhvillimin e Rajoneve, prioritetet e zhvillimit në nivel vendor në përputhje me strategjitë e zhvillimit të qarqeve, brenda datës 15 maj 2010.

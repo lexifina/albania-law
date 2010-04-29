@@ -1,0 +1,1 @@
+11. Sekretariatet teknike në ministritë e linjës përgatisin metodologjitë përkatëse për të kryer vlerësimin teknik të projekteve, të cilat miratohen me urdhër ministri brenda datës 30 prill 2010. Një kopje e urdhrit të ministrit depozitohet pranë sekretariatit të përgjithshëm të fondit për zhvillimin e rajoneve dhe sekretariatit teknik në Ministrinë e Financave.

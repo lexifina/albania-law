@@ -1,0 +1,2 @@
+9. Sekretariati teknik i Ministrisë së Financave përgatit raportet përkatëse mbi detyrimet për t’u paguar, në bazë të informacionit të ministrive të linjës dhe Fondit Shqiptar të Zhvillimit, dhe i dërgon pranë sekretariatit të përgjithshëm të Komitetit për Zhvillimin e Rajoneve brenda datës 10 prill 2010. Vendimi në lidhje me fondin që i akordohet financimit të projekteve në vazhdim merret nga Komiteti për Zhvillimin e Rajoneve, brenda datës 15 prill 2010.
+ii) Për projektet e reja

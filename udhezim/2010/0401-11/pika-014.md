@@ -1,0 +1,1 @@
+14. Këshillat e qarqeve paraqesin në sekretariatin e përgjithshëm dhe sekretariatin teknik të Ministrisë së Financës prioritetet e investimeve, sipas fushave përkatëse, sipas formatit nr.3 (shtojca 2) bashkëlidhur këtij udhëzimi, brenda datës 15 maj 2010.
