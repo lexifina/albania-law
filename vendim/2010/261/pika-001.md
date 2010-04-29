@@ -1,0 +1,1 @@
+1.Ankesa e paraqitur në rrugë elektronike, pranë Komisionit të Prokurimit Publik (KPP), nga çdo person që ka ose ka pasur një interes të ligjshëm në një procedurë prokurimi, në përputhje me kërkesat e përcaktuara në ligjin nr.9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar, duhet të përmbajë dokumentin bankar, që vërteton pagesën paraprake të tarifës përkatëse.
