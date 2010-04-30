@@ -1,0 +1,1 @@
+4. Kryeregjistruesi i barrëve siguruese, brenda 2 ditëve nga marrja e kërkesës, lëshon certifikatën, e cila përmban të dhënat aktive të ruajtura në regjistër, të parashikuara në rregulloren për barrët siguruese dhe të nevojshme për transaksionin.

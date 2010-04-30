@@ -1,0 +1,1 @@
+2. Procedurat që ndiqen për paraqitjen e kërkesës për informacion nga noterët dhe kthimin e përgjigjes nga kryeregjistruesi i barrëve siguruese janë ato të parashikuara në rregulloren për barrët siguruese, miratuar me urdhrin e Ministrit të Ekonomisë, Tregtisë dhe Energjetikës nr.493, datë 6.7.2006 “Për miratimin e rregullores së barrëve siguruese”.

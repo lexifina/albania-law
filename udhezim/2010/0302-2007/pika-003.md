@@ -1,0 +1,1 @@
+3. Noterët kërkojnë informacion nga të dhënat e regjistrit nëpërmjet plotësimit të formularit, njoftimi D-kërkesa për informacion, në përputhje me nenin 3 të rregullores për barrët siguruese, i cili nënshkruhet nga vetë noteri ose një person i autorizuar prej tij.
