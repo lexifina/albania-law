@@ -1,1 +1,0 @@
-9. Procedurat e pajisjes me dokumentacionin e përcaktuar më lart, për rastet e daljeve nga magazinat doganore, detyrohen të zbatohen edhe nga shoqëria “ARMO” sh.a. për daljet e karburanteve nga magazina tatimore.

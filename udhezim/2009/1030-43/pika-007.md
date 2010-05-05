@@ -1,1 +1,0 @@
-7. Kuponi tatimor (pjesë shoqëruese e faturës tatimore) përmban të gjitha elementet e përcaktuara për lëshimin e tij, sidomos sasinë e shitur (të dalë nga magazina doganore), çmimin për njësi pa TVSH, vlerën e TVSH dhe vlerën me TVSH.

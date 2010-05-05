@@ -1,1 +1,0 @@
-1.Shitja e sasive të karburanteve (të specifikuara sipas llojeve) nga magazinat doganore të subjekteve importuese (pasi këto kanë kryer procedurat e zhdoganimit), kryhet në çdo rast nëpërmjet lëshimit të faturës tatimore, e cila shoqëron sasinë e karburantit të shitur.
