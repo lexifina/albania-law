@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 255, datë 25.3.2010
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN E KONFERENCËS SË HAGËS “PËR MARRJEN E PROVAVE JASHTË SHTETIT NË ÇËSHTJET CIVILE OSE TREGTARE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
