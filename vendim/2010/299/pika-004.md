@@ -1,0 +1,1 @@
+4.Emrat e përfaqësuesve të Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe të këshillit të qarkut të Shkodrës për grupet e punës, sipas pikës 2 të këtij vendimi, t’i dërgohen brenda 2 (dy) ditëve nga hyrja në fuqi e vendimit, Ministrisë së Brendshme.

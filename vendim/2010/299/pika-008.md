@@ -1,0 +1,1 @@
+8.Vlerësimi i dëmeve të shkaktuara në të mbjella, në gjënë e gjallë dhe në bazën ushqimore (koncentrate, sanë, njomishte etj.) të kryhet sipas çmimeve të tregut, të marra nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

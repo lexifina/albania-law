@@ -1,0 +1,1 @@
+1.Ngritjen e grupeve të punës për evidentimin, vlerësimin dhe rivlerësimin e dëmeve të shkaktuara nga reshjet e shiut dhe përmbytjet e kohëve të fundit në qarkun e Shkodrës, në komunat Ana e Malit, Dajç, Bërdicë, Bushat, Gur i Zi, Velipojë, si dhe në bashkinë Shkodër.

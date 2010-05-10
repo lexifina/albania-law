@@ -1,0 +1,1 @@
+5.Kryerja e evidentimit, vlerësimit dhe rivlerësimit të dëmeve të shkaktuara në kultura bujqësore, në gjënë e gjallë dhe në bazën ushqimore për blegtorinë të bëhet sipas formularit tip, që i bashkëlidhet këtij vendimi.
