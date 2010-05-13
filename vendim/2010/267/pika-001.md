@@ -1,0 +1,1 @@
+1. Agjencia e Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale (ALUIZNI) bën verifikimi në terren të njësive të ndërtuara menjëherë pas paraqitjes së kërkesës dhe pas kryerjes së parapagesës së tarifës nga subjekti i interesuar apo personi i stimuluar.

@@ -1,0 +1,1 @@
+5. ALUIZNI, pas verifikimeve të mësipërme, harton relacionin shpjegues sipas pikës 3 të nenit 7 të ligjit nr.10 186, datë 5.11.2009 “Për rregullimin e pronësisë mbi truallin shtetëror në zonat me përparësi turizmin”.
