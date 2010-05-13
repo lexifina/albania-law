@@ -1,0 +1,1 @@
+1. Kompensimin financiar të z. Vuksan Vitaj, në vlerën 920 400 (nëntëqind e njëzet mijë e katërqind) lekë, për dëmin e shkaktuar mbi pronën e paluajtshme dhe të luajtshme (veprimtari ekonomike), si rezultat i zbatimit të projektit për ndërtimin e shkollës nëntëvjeçare publike në lagjen “Mark Lula”, bashkia Shkodër.

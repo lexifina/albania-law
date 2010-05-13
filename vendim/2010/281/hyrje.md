@@ -1,0 +1,5 @@
+VENDIM
+Nr.281, datë 28.4.2010
+PËR KOMPENSIMIN FINANCIAR TË PERSONAVE TË DËMTUAR NGA ZBATIMI I PROJEKTIT PËR NDËRTIMIN E SHKOLLËS NËNTËVJEÇARE PUBLIKE NË LAGJEN “MARK LULA”, BASHKIA SHKODËR
+Në mbështetje të nenit 100 të Kushtetutës, të pikave 5.a dhe 5.b të pjesës C të ligjit nr.9603, datë 28.7.2006 “Për ratifikimin e marrëveshjes financiare, ndërmjet Republikës së Shqipërisë dhe Shoqatës Ndërkombëtare për Zhvillim (IDA), për projektin “Cilësi dhe barazi në arsim””, të ligjit nr.9661, datë 18.12.2006 “Për ratifikimin e kontratës financiare, ndërmjet Republikës së Shqipërisë dhe Bankës Europiane të Investimeve, për projektin “Cilësi dhe barazi në arsim””, të ligjit nr.9717, datë 19.4.2007 “Për ratifikimin e marrëveshjes kuadër të huasë, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, dhe Bankës së Këshillit të Europës për Zhvillim”, të nenit 44 të ligjit nr.9936, datë 26.6.2008 “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, dhe të ligjit nr.10 190, datë 26.11.2009 “Për buxhetin e vitit 2010”, me propozimin e Ministrit të Arsimit dhe Shkencës, Këshilli i Ministrave
+VENDOSI:
