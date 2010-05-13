@@ -1,0 +1,1 @@
+6. “Albpetrol” sh.a., do t’i shtohen nga “Uzina mekanike, Patos” sh.p.k. dhe “Uzina mekanike e naftës, Kuçovë”, sh.p.k., të gjitha asetet për zhvillimin e veprimtarisë së shoqërisë sipas inventarëve, të cilat duhet të paraqiten në bilancet e tyre.

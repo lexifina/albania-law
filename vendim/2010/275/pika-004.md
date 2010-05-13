@@ -1,0 +1,1 @@
+4. Fondi i nevojshëm, prej 600,5 (gjashtëqind presje pesë) milionë lekësh, për kryerjen e pagesave të punonjësve, që dalin të papunë nga ristrukturimi i këtyre shoqërive, të përballohet nga likuiditetet e “Albpetrol”, sh.a., e cila do t’i kryejë këto pagesa çdo muaj.
