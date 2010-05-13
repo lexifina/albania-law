@@ -1,0 +1,1 @@
+8. Çdo subjekt i shpronësuar ka të drejtë të pajiset, nga sekretaria e AKKP-së, me vërtetimin përkatës për numrin e protokollit të dosjes së regjistruar, që tregon edhe datën e dorëzimit të kërkesës dhe dokumenteve të tij.
