@@ -1,15 +1,15 @@
-2. Për vërtetimin e gjendjes, juridike apo fizike, të pronës, konfirmimin e dokumentacionit tekniko-ligjor, si dhe të çdo informacioni tjetër të nevojshëm, AKKP-ja dhe zyrat rajonale të saj, kërkojnë në varësi të objektit të kërkesës/ankesës, i cili do të shërbejë si bazë në përcaktimin e kthimit ose kompensimit të pronës, informacion apo konfirmim, pranë institucioneve të mëposhtme:
-- Zyrës së regjistrimit të pasurive të paluajtshme (ZRPP), për vërtetimin për gjendjen juridike të pronës.
+2. Për vërtetimin e gjendjes, juridike apo fizike, të pronës, konfirmimin e dokumentacionit tekniko-ligjor, si dhe të çdo informacioni tjetër të nevojshëm, AKKP-ja kërkon në varësi të objektit të kërkesës/ankesës, i cili do të shërbejë si bazë në përcaktimin e kthimit ose kompensimit të pronës, informacion, dokumentacion apo konfirmim, pranë institucioneve të mëposhtme:
+- Zyrës vendore të regjistrimit të pasurive të paluajtshme (ZVRPP), për vërtetimin për gjendjen juridike të pronës.
 - Këshillit të qarkut (seksioni i administrimit dhe mbrojtjes së tokës), (SAMT), për vërtetimin e gjendjes juridike të sipërfaqeve, që në regjistrin kadastral figurojnë ”tokë bujqësore”.
 - Njësive të qeverisjes vendore, për pronat që i shërbejnë një interesi publik dhe për të cilat bëhet propozimi për tjetërsim.
 - Bashkisë (Drejtoria e Përgjithshme e Urbanistikës), komunës, këshillit të qarkut (Drejtoria e Urbanistikës apo njësitë e legalizimit), për konfirmimin e gjendjes së pronës.
-- Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës apo organeve në varësi të saj, për pronat e përmbytura nga hidrocentralet dhe nëse pronarët kanë përfituar sipas ligjit për shpronësimet për interes publik.
+- Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës apo Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit apo organeve në varësi të tyre, përkatësisht për pronat e përmbytura nga hidrocentralet dhe nëse pronarët kanë përfituar sipas ligjit për shpronësimet për interes publik.
 - Ministrive dhe institucioneve të tjera shtetërore, për pronat të cilat nuk shfrytëzohen për interesa publike.
 - Agjencisë së Legalizimit dhe Urbanizimit dhe Integrimit të Zonave Informale.
 - Entit Kombëtar të Banesave.
 - Ministrisë së Mbrojtjes.
 - Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, për pronat e tjera të paluajtshme, përveç tokës bujqësore, të parashikuara në paragrafin e dytë të kësaj pike.
-- Arkivit Qendror të Shtetit.
+- Drejtorisë së Përgjithshme të Arkivave.
 - Drejtorisë së Shërbimit Pyjor (arkivi i kadastrës pyjore), për zërat kadastralë: ”Tokë pyjore”, ”Pyje”, ”Livadhe” dhe ”Kullota”.
 - Departamentit të shërbimit të tokës dhe ujit, në QTTB, Fushë-Krujë.
-- Çdo institucioni tjetër shtetëror, i cili ka në administrim pronën, objekt shqyrtimi apo që mund të japë informacion për të.
+- Çdo institucioni tjetër shtetëror, i cili ka në administrim pronën, objekt shqyrtimi apo që mund të japë informacion, ose dokumentacion për të.
