@@ -1,0 +1,1 @@
+7. Institucionet e përmendura në pikën 6, brenda 5 (pesë) ditëve nga hyrja në fuqi e këtij vendimi, i dërgojnë Ministrit të Drejtësisë emrat e përfaqësuesve të tyre në këtë komision, të cilët duhet të jenë specialistë të fushës. Kryetari i komisionit njofton anëtarët për datën, orën dhe vendin e mbledhjes.

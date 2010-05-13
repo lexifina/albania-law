@@ -1,0 +1,1 @@
+9. Nëse për ofrimin e shërbimit paraqitet vetëm një subjekt i interesuar, i cili plotëson standardet e kërkuara për pajisjen, si dhe kriteret e tjera të përcaktuara sipas këtij vendimi, komisioni vijon me procedurën e përzgjedhjes së fituesit.

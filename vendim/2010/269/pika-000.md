@@ -1,0 +1,3 @@
+I. Drejtoria e Përgjithshme e Burgjeve, me fondin prej 30 000 000 (tridhjetë milionë) lekësh, të vënë në dispozicion nga Buxheti i Shtetit, të blejë dhe të montojë sistemin e pajisjeve për bllokimin e valëve të telefonisë së lëvizshme në institucionet e ekzekutimit të vendimeve penale.
+II. Përzgjedhjen e jo më pak se dy operatorëve ekonomikë, të njohur për ofrimin e këtij shërbimi, të cilëve u dërgohet ftesa për ofertë, për realizimin e blerjes e të montimit të pajisjeve për bllokimin e valëve të telefonisë së lëvizshme.
+III. Procedura për realizimin e procesit të përcaktuar në pikën 1 të këtij vendimi, është, si më poshtë vijon:

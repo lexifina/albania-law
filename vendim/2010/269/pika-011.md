@@ -1,0 +1,1 @@
+11. Nëse brenda afatit 5-ditor nuk paraqitet ankim, komisioni i dërgon vendimin, së bashku me relacioni shpjegues, Ministrit të Drejtësisë, i cili, brenda 5 (pesë) ditëve, miraton ose refuzon shpalljen e fituesit.

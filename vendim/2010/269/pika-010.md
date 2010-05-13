@@ -1,0 +1,1 @@
+10. Në përfundim të procesit të vlerësimit, vendimi i komisionit u njoftohet operatorëve ekonomikë, të cilët brenda 5 (pesë) ditëve nga data e njoftimit, kanë të drejtë t’i paraqesin ankim Ministrit të Drejtësisë. Ministri i Drejtësisë shqyrton dhe vendos mbi ankesën, brenda 10 (dhjetë) ditëve nga data e paraqitjes së saj.
