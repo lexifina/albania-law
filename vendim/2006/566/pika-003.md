@@ -1,1 +1,0 @@
-3. Agjencia e Kthimit dhe Kompensimit të Pronave përmbush objektivat, kryen detyrat dhe ushtron përgjegjësitë, e përcaktuara në nenet 15 e 16 të ligjit nr.9235, datë 29.7.2004 “Për kthimin dhe kompensimin e pronës”, të ndryshuar.

@@ -1,1 +1,0 @@
-4. Organika dhe struktura e AKKP-së (zyra qendrore dhe zyrat rajonale) përcaktohen me urdhër të Kryeministrit, me propozimin e Ministrit të Drejtësisë, në përputhje me nenin 10 të ligjit nr.9000, datë 30.1.2003 “Për organizimin dhe funksionimin e Këshillit të Ministrave”.
