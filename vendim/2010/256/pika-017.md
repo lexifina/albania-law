@@ -1,0 +1,1 @@
+17. AKKP-ja financohet nga Buxheti i Shtetit dhe nga donacionet e ndryshme. Drejtori i Përgjithshëm bashkërendon punën në vijim me donatorët dhe organizatat ndërkombëtare për asistencën teknike në proces dhe informon Ministrin e Drejtësisë për donacionet.

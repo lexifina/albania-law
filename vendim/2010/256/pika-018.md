@@ -1,0 +1,2 @@
+18. Ngarkohet prefekti i çdo qarku të mbikëqyrë transferimin e arkivit, të logjistikës dhe të mjeteve të punës së zyrave rajonale menjëherë me hyrjen në fuqi të këtij akti dhe njofton me shkrim Kryeministrin për ecurinë e procesit.
+Transferimi të kryhet me procesverbal dhe me inventar të hollësishëm të çdo dokumenti të mëparshëm, ekzistues në dosje, për çdo praktikë të depozituar nga subjektet e shpronësuara.

@@ -1,0 +1,2 @@
+19. Vendimet e Këshillit të Ministrave nr.566, datë 23.8.2006 “Për organizimin dhe funksionimin e Agjencisë së Kthimit dhe Kompensimit të Pronave”, dhe nr.51, datë 7.2.2007 “Për miratimin e modeleve të vendimeve që lëshohen nga Agjencia e Kthimit dhe Kompensimit të Pronave dhe zyrave rajonale të saj, për njohjen, kthimin apo kompensimin e pronës”, shfuqizohen.
+Kërkesat e paraqitura pranë ish-zyrave rajonale të AKKP-së apo ankimet e paraqitura në AKKP, për të cilat ende nuk është dhënë vendim, vazhdojnë të shqyrtohen nga AKKP-ja, sipas rregullave të këtij vendimi.
