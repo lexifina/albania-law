@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2010, zëri “Projekte kulturore”, t’i shtohet fondi 8 400 000 (tetë milionë e katërqind mijë) lekë, për organizimin e veprimtarive kulturore, në kuadër të festës së 1 Majit, Ditës Ndërkombëtare të Punëtorëve.
