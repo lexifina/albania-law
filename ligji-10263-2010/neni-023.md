@@ -1,0 +1,8 @@
+# Neni 23
+Fillimi i ushtrimit të kompetencave
+Fillimi i ushtrimit të kompetencave, në vitin e parë pas hyrjes në fuqi të këtij ligji, është si më poshtë:
+1. Për efekt të zbatimit të nenit 4 të këtij ligji, kryetari i komunës dhe/ose bashkisë krijon komisionin e evidentimit të tokave të pakultivuara brenda 2 muajve nga data e hyrjes në fuqi të këtij ligji.
+2. Për efekt të zbatimit të nenit 5 të këtij ligji, komisioni i evidentimit të tokave të pakultivuara kryen verifikimin e përdorimit dhe shfrytëzimit të tokës bujqësore nga pronarët dhe poseduesit e ligjshëm të saj për vitet 2008 dhe 2009. Verifikimi, evidentimi dhe dorëzimi i dokumentacionit te kryetari i komunës dhe/ose bashkisë bëhet brenda 2 muajve nga data e krijimit të komisionit.
+3. Për efekt të zbatimit të nenit 6 të këtij ligji, kryetari i komunës dhe/ose bashkisë, brenda 15 ditëve nga dorëzimi i dokumentacionit nga komisioni, bën shpalljen e listës së pronarëve me sipërfaqet përkatëse të tokave të pakultivuara, me kohëzgjatje të afishimit prej 45 ditësh.
+4. Për efekt të zbatimit të nenit 7 të këtij ligji, kryetari i komunës dhe/ose bashkisë, 5 ditë pas përfundimit të afatit të shpalljes, i paraqet për shqyrtim dhe vendimmarrje këshillit të komunës dhe/ose bashkisë dokumentacionin e evidentimit të tokave të pakultivuara, të shqyrtuar prej tij, përfshirë edhe ankesat e mundshme të pronarëve ose të poseduesve të ligjshëm.
+5. Për efekt të zbatimit të nenit 7 të këtij ligji, këshilli i komunës dhe/ose bashkisë shqyrton dokumentacionin e paraqitur dhe merr vendime për klasifikimin e tokave bujqësore të pakultivuara brenda një muaji nga data e marrjes së tij. Vendimi i jepet për ekzekutim kryetarit të komunës dhe/ose bashkisë.
