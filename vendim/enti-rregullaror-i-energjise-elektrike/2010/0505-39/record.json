@@ -1,0 +1,29 @@
+{
+  "qbz_id": 18631,
+  "title": "Për licencimin e shoqërisë “Selca Energji” sh.p.k",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "39",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2010-05-05",
+  "published": "2010-05-21",
+  "in_force": "2010-05-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d74066fdad95d6d1f03ec1591d3a6fd965cd0dee01aef03b6adc8580a575f0ee.docx",
+  "source_sha256": "d74066fdad95d6d1f03ec1591d3a6fd965cd0dee01aef03b6adc8580a575f0ee",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18631",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/05/05/39",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10128,
+    9849
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
