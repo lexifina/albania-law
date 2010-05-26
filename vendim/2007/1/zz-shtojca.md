@@ -53,6 +53,7 @@ a) Në përputhje me nenin 27 të ligjit për prokurimin publik, kufijtë moneta
 i) Kufiri i lartë monetar:
 - 1 200 000 000 lekë, për kontratat e punëve publike;
 - 200 000 000 lekë, për kontratat publike të shërbimeve dhe mallrave.
+Përjashtimisht, për Autoritetin Kombëtar Rrugor, vlera e kufirit për kontratat e punëve publike të jetë sa dyfishi i vlerës së mësipërme të kufirit të përcaktuar për të gjitha entet e tjera.
 ii) Kufiri i ulët monetar:
 - 12 000 000 lekë, për kontratat e punëve publike;
 - 8 000 000 lekë, për kontratat publike të shërbimeve dhe të mallrave.
@@ -468,7 +469,7 @@ SANKSIONET ADMINISTRATIVE DHE MASAT DISIPLINORE
 Në zbatim të nenit 72, të LPP-së, titullari i APP-së mund të vendosë gjobë apo të propozojë masa disiplinore për çdo person përgjegjës që:
 nuk dërgon, sipas afatit dhe përmbajtjes së kërkuar, njoftimet dhe informacionet, që parashikohen në nenet 38, 39 e 58, të LPP-së, dhe në pikën 3, të kreut I, të rregullave të prokurimit publik;
 nuk skualifikon një ofertues/kandidat, kur ekzistojnë rrethanat e parashikuara në nenet 45 e 47, të LPP-së;
-nuk zbaton afatet e parashikuara në nenin 42 dhe në nenin 43, të LPP-së, dhe në pikën 4, të kreut V, të rregullave të prokurimit publik;
+nuk zbaton afatet e parashikuara në në nenin 42 dhe nenin 43, të LPP-së, dhe në pikën 4, të kreut V, të rregullave të prokurimit publik;
 përdor procedurat e parashikuara në nenet 31, 32 e 33, të LPP-së, në kundërshtim me rrethanat, që përcaktohen në ligj dhe në rregullat e prokurimit publik;
 pjesëton vlerën e kontratës për shmangien nga kufijtë monetarë, të parashikuar në kreun II, të rregullave të prokurimit publik;
 nuk mban dokumentacionin e plotë të prokurimit, në përputhje me kërkesat e pikës 2, të nenit 12, të LPP-së;”
