@@ -1,0 +1,1 @@
+4. Ky program studimi i ciklit të tretë realizohet me 120 kredite dhe kohëzgjatja normale e tyre është 2 (dy) vite akademike. Në përfundim të këtij programi studimi lëshohet diplomë “Master i nivelit të dytë (MND) në studime europiane”.
