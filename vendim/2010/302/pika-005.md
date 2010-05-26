@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit për tokën bujqësore (pemëtore) dhe kulturat bujqësore, prej 241 428 (dyqind e dyzet e një mijë e katërqind e njëzet e tetë) lekësh, të përballohet nga “Llogaria e veçantë” e Ministrisë së Financave në Bankën e Shqipërisë “Fondi i shpronësimeve”.

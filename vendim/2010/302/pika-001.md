@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, tokë bujqësore (pemëtore) dhe kultura, drufrutore, që preken nga ndërtimi i segmentit rrugor Rragam-Kam-Tropojë.
