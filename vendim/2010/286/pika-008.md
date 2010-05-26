@@ -1,0 +1,1 @@
+8. Tarifa e shkollimit për këtë program studimi të doktoratës është 200 000 (dyqind mijë) lekë dhe likuidohet për çdo vit të kohëzgjatjes normale, në këste të caktuara nga Fakulteti i Historisë dhe i Filologjisë i Universitetit të Tiranës.
