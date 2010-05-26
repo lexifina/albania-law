@@ -1,0 +1,1 @@
+5. Nga kuota e përcaktuar në pikën 4 të këtij vendimi, për këto programe studimi, caktohet 10% për studentët nga trojet shqiptare jashtë kufijve të Republikës së Shqipërisë dhe administrohet nga Ministria e Arsimit dhe Shkencës, sipas kërkesave të institucioneve zyrtare të këtyre trojeve.
