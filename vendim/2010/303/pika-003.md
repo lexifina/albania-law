@@ -1,0 +1,1 @@
+3. Miratimin e bonusit prej 10% të pikëve, për rezultatin teknik, financiar dhe mjedisor, në procedurën përzgjedhëse konkuruese (propozim i pakërkuar), që i jepet shoqërisë “Durrës Kurum Shipping” sh.a.
