@@ -1,1 +1,1 @@
-8. Kryetari është titullari i institucionit dhe përfaqëson AKOB-in në marrëdhënie me të tretët. Emërimi, lirimi dhe shkarkimi nga detyra e kryetarit të AKOB-it bëhen me urdhër të Kryeministrit, me propozimin e Ministrit të Shtetit për Reformat dhe Marrëdhëniet me Kuvendin.
+8. Kryetari është titullari i institucionit dhe përfaqëson AKOB-in në marrëdhënie me të tretët. Emërimi, lirimi dhe shkarkimi nga detyra e kryetarit të AKOB-it bëhen me urdhër të Kryeministrit, me propozimin e Ministrit të Ekonomisë, Tregtisë dhe Energjetikës.
