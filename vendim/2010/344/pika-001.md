@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2010, në programin “Shërbimet e shëndetit publik”, në zërin “shpenzime korrente” (art.602) t’i pakësohet fondi prej 19 000 000 (nëntëmbëdhjetë milionë) lekësh.
