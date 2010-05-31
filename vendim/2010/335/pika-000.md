@@ -1,0 +1,2 @@
+Miratimin e protokollit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Greqisë, për zbatimin e marrëveshjes ndërmjet Qeverisë së Republikës së Shqipërisë dhe Qeverisë së Republikës Greke, për bashkëpunim ndërmjet ministrive përkatëse të rendit publik, mbështetur në kompetencat e tyre, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
