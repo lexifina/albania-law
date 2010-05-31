@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, brenda juridiksionit, territorial dhe administrativ të komunës Qesarat të qarkut të Gjirokastrës, që transferohen në pronësi ose në përdorim të kësaj komune, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 55 (pesëdhjetë e pesë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 353 (treqind e pesëdhjetë e tre).
