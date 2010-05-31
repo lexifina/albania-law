@@ -1,0 +1,1 @@
+4. Shkolla private e arsimit të lartë “Universiteti Metropolitan Tirana” të fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikën 2 të këtij vendimi, pasi të ketë marrë, jo më vonë se tri javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
