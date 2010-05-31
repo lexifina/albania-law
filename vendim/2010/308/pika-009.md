@@ -1,0 +1,1 @@
+9. Pronari i pasurisë për të cilën është bërë shënimi “Leje rrethimi”, do të kompensohet, për efekt shpronësimi, për objektin, pasi të ketë paraqitur dokumentacionin e plotë tekniko-ligjor pranë Drejtorisë së Përgjithshme të Rrugëve.

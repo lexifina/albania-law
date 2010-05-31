@@ -1,0 +1,1 @@
+8. Pronari i pasurisë për të cilën është bërë shënimi “Proces legalizimi”, do të kompensohet, për efekt shpronësimi, në bazë të dokumentacionit të pronësisë, pasi të ketë përfunduar legalizimi dhe të jetë bërë më pas regjistrimi përkatës pranë Zyrës së Regjistrimit të Pasurive të Paluajtshme, Tiranë, fakt i cili do të vërtetohet nga pronari nëpërmjet dokumentacionit të pronësisë.
