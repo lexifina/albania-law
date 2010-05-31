@@ -1,0 +1,1 @@
+2.Prona e paluajtshme shtetërore “Muzeu i Konferencës së Pezës” të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, që janë në juridiksionin territorial dhe administrativ të bashkisë Tiranë të qarkut të Tiranës, miratuar me vendimin nr.834, datë 13.12.2006 të Këshillit të Ministrave.
