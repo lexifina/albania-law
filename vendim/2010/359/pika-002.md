@@ -1,0 +1,1 @@
+2.Kostoja e pjesëmarrjes në këtë program, për secilin vit, do të mbulohet, në masën 90 për qind, nga fondet e programit të Instrumentit të Paraaderimit (IPA) të alokuara nga Bashkimi Europian, për Shqipërinë, dhe në masën 10 për qind nga buxheti i Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi.
