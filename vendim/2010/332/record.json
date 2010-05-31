@@ -1,0 +1,35 @@
+{
+  "qbz_id": 58696,
+  "title": "Për përcaktimin e formës, elementeve përbërëse, mënyrës së mbajtjes e afatit të përdorimit të dokumenteve bazë, që mbahen dhe lëshohen nga Shërbimi i Gjendjes Civile",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "332",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-03-17",
+  "published": "2010-05-31",
+  "in_force": "2010-05-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/aeb5135db97d4db702143b1b32e3e49287163dc08c4b8a8043e792f9b688dc3e.docx",
+  "source_sha256": "aeb5135db97d4db702143b1b32e3e49287163dc08c4b8a8043e792f9b688dc3e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/58696",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/03/17/332",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29316,
+    63685,
+    14176,
+    67327,
+    59797,
+    10215,
+    8119,
+    12939
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
