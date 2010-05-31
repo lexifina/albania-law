@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të IEVP-së (Burgu nr.313), të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Drejtësisë, për Drejtorinë e Përgjithshme të Burgjeve. Lista me 3 (tri) fletë, që i bashkëlidhet këtij vendimi, ka 1 (një) pronë.
