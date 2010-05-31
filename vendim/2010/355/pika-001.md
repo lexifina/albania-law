@@ -1,0 +1,1 @@
+1.Hapjen, në Fakultetin e Inxhinierisë Mekanike të Universitetit Politeknik të Tiranës, të programit të studimeve të ciklit të parë “Inxhinieri ekonomike”. Në përfundim të këtij programi studimi lëshohet “Diplomë e nivelit të parë, DNP, në inxhinieri ekonomike”.
