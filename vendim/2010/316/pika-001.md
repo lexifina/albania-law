@@ -1,0 +1,1 @@
+1. Komunës Milot të qarkut të Lezhës, në buxhetin e vitit 2010, t’i akordohet fondi prej 1 061 800 (një milion e gjashtëdhjetë e një mijë e tetëqind) lekësh, për t’iu dhënë si ndihmë financiare familjes së z.Gjetan Pjetër Lala, së cilës i është dëmtuar banesa nga fatkeqësitë natyrore.
