@@ -1,1 +1,0 @@
-5. Leja e përdorimit civil të lëndëve plasëse jepet brenda 30 ditëve nga data e aplikimit me shkrim të kërkuesit. Kur nuk plotësohen të gjitha kërkesat e pikës 3 të këtij vendimi, kërkesa refuzohet me shkrim.
