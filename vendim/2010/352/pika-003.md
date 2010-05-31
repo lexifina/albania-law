@@ -1,0 +1,1 @@
+3.Në përfundim të këtyre programeve të studimit lëshohet, përkatësisht, “Diplomë e Nivelit të Parë, DNP, në biologji-kimi”, “Diplomë e Nivelit të Parë, DNP, në histori-gjeografi” dhe “Diplomë e Nivelit të Parë, DNP, në cikël të ulët dhe anglisht në ciklin fillor”.
