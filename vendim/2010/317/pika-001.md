@@ -1,0 +1,3 @@
+1. Bashkisë Berat, në buxhetin e vitit 2010, t’i akordohet fondi financiar prej 1 900 000 (një milion e nëntëqind mijë) lekësh, për t’iu dhënë si ndihmë financiare familjes së z.Artur Kaja, së cilës iu shkaktuan dy viktima dhe tre të plagosur rëndë nga zjarri i rënë në banesë, më datë 22.11.2009, të ndarë përkatësisht:
+a) Për viktimat Megi e Kelina Kaja, ndihma financiare të jetë 500 000 (pesëqind mijë) lekë për çdo viktimë. Shuma e ndihmës financiare për të dy viktimat të jetë 1 000 000 (një milion) lekë.
+b) Për të plagosurit rëndë: Hylson, Mimoza e Artur Kaja, ndihma financiare të jetë 300 000 (treqind mijë) lekë për person. Shuma e ndihmës financiare për të tre personat të jetë 900 000 (nëntëqind mijë) lekë.
