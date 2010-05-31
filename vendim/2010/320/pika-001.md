@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të objektit “Godina e konviktit” bashkë me truallin nën godinë, që ndodhet brenda territorit të Universitetit të Sporteve të Tiranës, nga shoqëria “Trajtimi i studentëve nr.2”, sh.a., Tiranë, tek Universiteti i Sporteve të Tiranës, sipas planimetrive dhe planvendosjes që i bashkëlidhen këtij vendimi.

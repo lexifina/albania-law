@@ -1,0 +1,2 @@
+# Shtojca
+PLANI I RILEVIMIT
