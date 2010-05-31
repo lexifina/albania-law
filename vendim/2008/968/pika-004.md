@@ -1,1 +1,0 @@
-4. Agjencia mund të kontraktojë edhe personel të jashtëm, si administratorë të pasurive të sekuestruara dhe të konfiskuara, a ekspertë të fushave të tjera, duke lidhur me ta kontratë pune, me kohë të pjesshme, apo kontratë shërbimi. Procedurat për lidhjen e këtyre kontratave caktohen nga Ministri i Financave, me propozimin e kryeadministratorit të Agjencisë.
