@@ -1,0 +1,1 @@
+9. Tarifa e shkollimit për këtë program studimesh të ciklit të dytë, për vitin akademik 2010-2011, është 60 000 (gjashtëdhjetë mijë) lekë dhe studenti i nënshtrohet vetëm një tarife vjetore shkollimi.
