@@ -1,0 +1,1 @@
+6. Pasuritë e sekuestruara e të konfiskuara, të cilat janë objekt i veprimtarisë së Agjencisë, merren në administrim sipas procedurave të përcaktuara në ligjet përkatëse dhe aktet nënligjore të dala në zbatim të tyre.
