@@ -1,0 +1,1 @@
+1. Ministria e Mbrojtjes, në bashkëpunim me “INSIG” sh.a., të bëjë sigurimin e jetës, nga aksidentet në grup, të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, që janë me mision ushtarak jashtë vendit.
