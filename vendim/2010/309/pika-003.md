@@ -1,0 +1,1 @@
+3. Pronarët e pasurisë së paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për sipërfaqen 3 544 (tre mijë e pesëqind e dyzet e katër) m2, me çmimet konfirmuar nga ZRKKP-ja, me vlerë 4 754 112 (katër milionë e shtatëqind e pesëdhjetë e katër mijë e njëqind e dymbëdhjetë) lekë.
