@@ -1,0 +1,1 @@
+1.Dhënien në huapërdorje delegacionit italian të ekspertëve (DIE), në Tiranë, të disa zyrave, me sipërfaqe trualli, gjithsej, 266 (dyqind e gjashtëdhjetë e gjashtë) m2, në ndërtesën e Ministrisë së Mbrojtjes.
