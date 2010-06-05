@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 272, datë 29.4.2010
+PËR RATIFIKIMIN E PROTOKOLLIT TË PESTË SHTESË TË MARRËVESHJES “PËR FORCËN SHUMËKOMBËSHE TË PAQES NË EUROPËN JUGLINDORE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
