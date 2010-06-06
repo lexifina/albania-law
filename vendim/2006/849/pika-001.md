@@ -1,0 +1,1 @@
+1. Shpërblimin e 12 (dymbëdhjetë) punonjësve të Qendrës Kombëtare Arsimore të Vlerësimit dhe Provimeve, për punën e kryer për realizimin e Maturës Shtetërore, deri në 5 (pesë) paga mujore, në varësi të kontributit të secilit.
