@@ -1,0 +1,3 @@
+2. Në shtojcën X, neni 245, shkronjat “ë” dhe“g” ndryshohen, si më poshtë vijon:
+“ë) Targa e mjeteve të trupit diplomatik mban, sipas radhës, emblemën e flamurit kombëtar, dy karaktere alfabetike “CD”, dy karaktere numerike, vijë lidhëse dhe tri karaktere numerike. Për motomjetet mban dy karaktere alfabetike “CD”, emblemën e flamurit kombëtar, një karakter alfabetik dhe tri karaktere numerike (figura III 4h/1).”.
+“g) Targa e mjeteve të shërbimit të trupit diplomatik mban, sipas radhës, emblemën e flamurit kombëtar, dy karaktere alfabetike “TR”, dy karaktere numerike, vijë lidhëse dhe dy karaktere numerike. Për motomjetet mban dy karaktere alfabetike “TR”, emblemën e flamurit kombëtar, një karakter alfabetik dhe tri karaktere numerike (figura III 4h/2).”.
