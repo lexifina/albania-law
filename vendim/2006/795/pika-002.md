@@ -1,0 +1,1 @@
+2. Ky fond të përballohet nga pjesa e papërdorur e fondeve, të dhëna me vendimin nr.67, datë 9.2.2006 të Këshillit të Ministrave “Për përzgjedhjen e shoqërisë, që do të bëjë kontrollin e procedurave dhe të ligjshmërisë së kontratës për privatizimin e “Albtelecom” sh.a.”.
