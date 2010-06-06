@@ -1,0 +1,1 @@
+2. Nga prona nr.1095 “Dega e mobilizim-rekrutimit”, Kuçovë, të hiqet sipërfaqja 91 m2 nga lista e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes”.

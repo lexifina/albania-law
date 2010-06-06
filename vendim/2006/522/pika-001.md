@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të sipërfaqes 91 m2 komponente e pronës me numër rendor 1095 “Dega e mobilizim-rekrutimit”, Kuçovë, nga Ministria e Mbrojtjes, në pronësi të bashkisë së Kuçovës, në kuadër të zbatimit të projektit CARDS, të financuar nga Banka Botërore, për rikonstruksionin e rrugës “Naftëtari 3.1.1”.
