@@ -1,0 +1,1 @@
+2. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të bashkisë së Divjakës, sipas tabelës në lidhjen nr.1 dhe që i referohet pikës 1 të këtij vendimi.
