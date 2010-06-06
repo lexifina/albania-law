@@ -1,0 +1,1 @@
+6. Drejtoria rajonale e Shërbimit Social Shtetëror, çdo katër muaj, vlerëson, përpunon dhe standardizon të dhënat e grumbulluara nga bashkitë/komunat, sipas pikave 3, 4 e 5 të këtij vendimi, dhe ia dërgon, sipas afateve të përcaktuara në këtë vendim, Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror.
