@@ -1,0 +1,1 @@
+1.Komunës Mbrostar të qarkut të Fierit, në buxhetin e vitit 2010, t’i akordohet fondi prej 2 000 000 (dy milionë) lekësh, për t’iu dhënë si ndihmë financiare familjes së shtetasit Edmond Moçka, punonjës policie, zjarrfikës, i cili ra në krye të detyrës për të shpëtuar jetët njerëzore, në datën 11.5.2010.
