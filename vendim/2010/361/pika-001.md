@@ -1,0 +1,1 @@
+1.Miratimin e tarifave të shërbimeve profesionale që kryhen në fondin pyjor e kullosor publik, për veprimtaritë e shërbimeve të ekspertizës, të studimit, të projektimit dhe të zbatimit, sipas shtojcës 1, që i bashkëlidhet këtij vendimi.
