@@ -1,0 +1,1 @@
+8.Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve të pasurive, për të cilat janë bërë shërbimet “Konfirmuar nga ZRPP-ja”, në bazë të dokumentacionit të pronësisë, brenda afateve të përcaktuara në pikën 6 të këtij vendimi.
