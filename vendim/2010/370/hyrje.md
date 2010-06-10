@@ -1,0 +1,5 @@
+Vendim
+Nr.370, datë 19.5.2010
+Për dhënien e pensionit të posaçëm shtetëror zNJ.Rudina Proda
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 5 të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, me propozimin e Kryeministrit, Këshilli i Ministrave
+Vendosi:
