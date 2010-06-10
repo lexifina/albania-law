@@ -1,0 +1,1 @@
+3. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, në bashkëpunim me Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve, Ministrinë e Mbrojtjes (Roja Bregdetare) dhe institucionet kërkimore-shkencore, merr masa për të siguruar ruajtjen, monitorimin dhe zhvillimin e ekoturizmit nënujor, në “Parkun Kombëtar” Karaburun-Sazan.
