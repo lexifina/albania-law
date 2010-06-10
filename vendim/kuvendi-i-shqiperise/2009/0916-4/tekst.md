@@ -6,6 +6,10 @@ PËR ZGJEDHJEN E  ZËVENDËSKRYETARËVE, BYROSË
 
 DHE PËRBËRJEN E SEKRETARIATEVE TË KUVENDIT
 
+(Ndryshuar me vendimin nr. 39, datë 10.6.2010)
+
+(i përditësuar)
+
 Në mbështetje të neneve 8, 9 dhe 10 të Rregullores së Kuvendit, me propozimin e Kryetares së Kuvendit, pas këshillimit me kryetarët e grupeve parlamentare,
 
 KUVENDI
@@ -16,7 +20,7 @@ VENDOSI:
 
 I. Kuvendi  i Shqipërisë do të ketë tre zëvendëskryetarë. 
 
-II. Zgjidhen në detyrën e zëvendëskryetarëve të Kuvendit deputetët Ardian Turku dhe Nasip Naço.
+II. Zgjidhen në detyrën e zëvendëskryetarëve të Kuvendit deputetët Ardian Turku dhe Nasip Naço dhe Namik Dokle. 
 
 III. Zgjidhen sekretariatet e Kuvendit si më poshtë:
 
@@ -28,9 +32,9 @@ Sekretariati për Buxhetin e Kuvendit:
 
 3. Jemin Gjana				     “
 
-4.____________________ 		Sekretar
+4. Erion Braçe 		                        Sekretar
 
-5.____________________		Anëtar
+5. Mimi Kodheli		                        Anëtar
 
 Sekretariati për Procedurat dhe Votimet:
 
@@ -38,15 +42,15 @@ Sekretariati për Procedurat dhe Votimet:
 
 2. Arenca Trashani			Anëtar
 
-3.___________________		     “
+3. Armando Subashi		             Anëtar
 
 Sekretariati për Statusin e Deputetit:
 
 1. Gent Strazimiri			Sekretar
 
-2. Paulina Hoti 				Anëtar
+2. Paulina Hoti 			Anëtar
 
-3. __________________  		     “
+3. Ermonela Felaj 		            Anëtar
 
 Sekretariati për Kërkimin Shkencor, Bibliotekën dhe Botimet Parlamentare:
 
@@ -54,7 +58,7 @@ Sekretariati për Kërkimin Shkencor, Bibliotekën dhe Botimet Parlamentare:
 
 2. Ledina Aliolli			Anëtar
 
-3. _________________	     		     “		
+3. Fatmir Toçi	     		     	Anëtar	
 
 Sekretariati për Marrëdhëniet me Jashtë:
 
@@ -62,7 +66,7 @@ Sekretariati për Marrëdhëniet me Jashtë:
 
 2. Rajmond Hoxha			Anëtar
 
-3.________________	     		    “	
+3. Qemal Minxhozi	     		Anëtar	
 
 IV. Ky vendim hyn në fuqi menjëherë.
 
