@@ -6,7 +6,7 @@ Për miratimin e rregullave të vlerësimit DHE të dhënies
 
 së koncesioneve
 
-(Ndryshuar me VKM nr. 104, datë 28.2.2007; nr. 87, datë 16.1.2008; nr. 544, datë 1.5.2008; nr. 448, datë 16.6.2010)
+(Ndryshuar me VKM nr. 104, datë 28.2.2007; nr. 87, datë 16.1.2008; nr. 544, datë 1.5.2008; nr. 448, datë 16.6.2010; nr. 469, datë 16.6.2010) 
 
 (i përditësuar)
 
@@ -428,9 +428,9 @@ Personat që përbëjnë konflikt interesi me ofertuesit sipas kuptimit të ligj
 
 4. Anëtarët e komisionit dhe çdo person që ka marrë pjesë në procedurën e hartimit të dokumenteve kanë detyrimin të ruajnë konfidencialitetin e përmbajtjes së ofertës.
 
-5. Njësia e hartimit të dokumenteve përbëhet nga të paktën 4 anëtarë, me të paktën 1 jurist në përbërjen e saj. 2 anëtarë të njësisë së hartimit të dokumenteve janë nga Agjencia eTrajtimit të Koncesioneve (ATRAKO).
+5. Njësia e hartimit të dokumenteve përbëhet nga të paktën 4 anëtarë, me të paktën 1 jurist në përbërjen e saj. 2 anëtarë të njësisë së hartimit të dokumenteve janë nga Agjencia eTrajtimit të Koncesioneve (ATRAKO),.
 
-6. Njësia e hartimit të dokumenteve është përgjegjëse për hartimin e dokumenteve të garës, kërkesave për kualifikim dhe kritereve të vlerësimit. Hartimi i dokumentacionit teknik dhe financiar që ka të bëjë me projektin e koncesionit, bëhet nga struktura të specializuara të autoritetit kontraktues ose të kontraktuara nga ky i fundit, apo Agjencia e Trajtimit të Koncesioneve (ATRAKO).
+6. Njësia e hartimit të dokumenteve është përgjegjëse për hartimin e dokumenteve të garës, kërkesave për kualifikim dhe kritereve të vlerësimit. Hartimi i dokumentacionit teknik dhe financiar që ka të bëjë me projektin e koncesionit, bëhet nga struktura të specializuara të autoritetit kontraktues ose të kontraktuara nga ky i fundit, apo Agjencia e Trajtimit të Koncesioneve (ATRAKO),.
 
 7. Njësia e hartimit të dokumenteve është përgjegjëse për hartimin e regjistrit të koncesionit për projektin konkret, për hartimin dhe dërgimin e njoftimeve brenda afateve të parashikuara nga legjislacioni i koncesioneve, për mbledhjen dhe administrimin e dokumenteve të nevojshme që kanë të bëjnë me procedurën konkurruese, si dhe për detyra që i ngarkohen nga komisioni i vlerësimit të ofertave.
 
@@ -532,6 +532,8 @@ KREU XII
 
 ANKIMIMI
 
-1. Çdo ofertues ka të drejtë të ankimojë në APP vendimet e marra nga autoriteti kontraktues dhe komisioni i vlerësimit të ofertave brenda 5 ditëve nga data e marrjes së njoftimit.
+(Ndryshuar emërtim në pikën 1 me VKM nr. 469, datë 16.6.2010)
+
+1. Çdo ofertues ka të drejtë të ankimojë në Komisionin e Prokurimit Publik vendimet e marra nga autoriteti kontraktues dhe komisioni i vlerësimit të ofertave brenda 5 ditëve nga data e marrjes së njoftimit.
 
 2. Procedurat e ankimimit janë ato të parashikuara në nenin 25 dhe 26 të Ligjit në fuqi për koncesionet.
