@@ -6,7 +6,7 @@ Për miratimin e rregullave të vlerësimit DHE të dhënies
 
 së koncesioneve
 
-(Ndryshuar me VKM nr. 104, datë 28.2.2007; nr. 87, datë 16.1.2008; nr. 544, datë 1.5.2008)
+(Ndryshuar me VKM nr. 104, datë 28.2.2007; nr. 87, datë 16.1.2008; nr. 544, datë 1.5.2008; nr. 448, datë 16.6.2010)
 
 (i përditësuar)
 
@@ -236,7 +236,7 @@ KREU V
 
 UDHËZIME PËR MËNYRËN E ZBATIMIT TË PROCEDURAVE KONKURRUESE
 
-(Ndryshuar shkronja ‘’g’’ e pikës 1dhe paragrafi i pestë i pikës 2, shfuqizuar shkronja ‘’b’’ e ‘’d’’ e pikës 1, fjali në paragrafin e tretë të shkronjës “b” të pikës 2 me VKM nr. 87, datë 16.1.2008; shtuar paragraf në fund të nënndarjes “i” të pikës 1 me VKM nr. 544, datë 1.5.2008)
+(Ndryshuar shkronja ‘’g’’ e pikës 1dhe paragrafi i pestë i pikës 2, shfuqizuar shkronja ‘’b’’ e ‘’d’’ e pikës 1, fjali në paragrafin e tretë të shkronjës “b” të pikës 2 me VKM nr. 87, datë 16.1.2008; shtuar paragraf në pikën 1me VKM nr. 544, datë 1.5.2008; shtuar paragraf në shkronjën ‘’a’’ të pikës 2 me VKM nr. 448, datë 16.6.2010)
 
 1. Informacion i përgjithshëm
 
@@ -302,7 +302,13 @@ Në dokumentet e procedurës konkurruese për projektet e koncesionit, projekti 
 
 Specifikimet teknike shprehin qartë kërkesat e autoritetit kontraktues në lidhje me projektin dhe cilësinë e të gjitha punimeve dhe materialeve që do të përdoren, si dhe kërkesa të tjera që lidhen ngushtë me natyrën dhe përbërësit e projektit. 
 
-Kur është në interes të autoritetit kontraktues ose e lidhur me natyrën e punimeve, në dokumentet e konkurrimit parashikohet grafiku, fazat dhe afatet e ekzekutimit të këtyre punimeve.    
+Kur është në interes të autoritetit kontraktues ose e lidhur me natyrën e punimeve, në dokumentet e konkurrimit parashikohet grafiku, fazat dhe afatet e ekzekutimit të këtyre punimeve.
+
+- Autoriteti kontraktor, në bazë të një vlerësimi, mund të japë një afat deri në 12 muaj, për kontratat e ndërtimit të hidrocentraleve me koncesion me kapacitet deri 5 MW, deri në 18 muaj, për kontratat e ndërtimit të hidrocentraleve me koncension me kapacitet nga 5 deri 20 MW dhe deri në 24 muaj, për kontratat e ndërtimit të hidrocentraleve me koncesion mbi 20 MW, për marrje lejeje dhe përgatitje projekti.
+
+- Të gjitha shoqëritë koncesionare, të cilat, deri në hyrjen në fuqi të këtij vendimi, nuk e kanë parashikuar afatin e nevojshëm të marrjes së këtyre lejeve në kontratat koncesionare përkatëse, kanë të drejtë ta shtyjnë afatin sipas përcaktimeve të paragrafit të mësipërm, nga data e hyrjes në fuqi të kontratës.
+
+- Shtyrja e afatit të pasqyrohet, për çdo rast, në kontratat shtesë të palëve në koncesion. Ministri përgjegjës i miraton këto kontrata, të cilat hyjnë në fuqi me firmosjen e saj nga palët. 
 
 Kriteret specifike të kualifikimit duhet të rendisin të gjitha kërkesat specifike, në përputhje me nenin 19 të ligjit.
 
@@ -424,7 +430,7 @@ Personat që përbëjnë konflikt interesi me ofertuesit sipas kuptimit të ligj
 
 5. Njësia e hartimit të dokumenteve përbëhet nga të paktën 4 anëtarë, me të paktën 1 jurist në përbërjen e saj. 2 anëtarë të njësisë së hartimit të dokumenteve janë nga Agjencia eTrajtimit të Koncesioneve (ATRAKO).
 
-6. Njësia e hartimit të dokumenteve është përgjegjëse për hartimin e dokumenteve të garës, kërkesave për kualifikim dhe kritereve të vlerësimit. Hartimi i dokumentacionit teknik dhe financiar që ka të bëjë me projektin e koncesionit, bëhet nga struktura të specializuara të autoritetit kontraktues ose të kontraktuara nga ky i fundit, apo Agjencia e Trajtimit të Koncesioneve (ATRAKO),.
+6. Njësia e hartimit të dokumenteve është përgjegjëse për hartimin e dokumenteve të garës, kërkesave për kualifikim dhe kritereve të vlerësimit. Hartimi i dokumentacionit teknik dhe financiar që ka të bëjë me projektin e koncesionit, bëhet nga struktura të specializuara të autoritetit kontraktues ose të kontraktuara nga ky i fundit, apo Agjencia e Trajtimit të Koncesioneve (ATRAKO).
 
 7. Njësia e hartimit të dokumenteve është përgjegjëse për hartimin e regjistrit të koncesionit për projektin konkret, për hartimin dhe dërgimin e njoftimeve brenda afateve të parashikuara nga legjislacioni i koncesioneve, për mbledhjen dhe administrimin e dokumenteve të nevojshme që kanë të bëjnë me procedurën konkurruese, si dhe për detyra që i ngarkohen nga komisioni i vlerësimit të ofertave.
 
@@ -500,7 +506,7 @@ KREU XI
 
 SHPALLJA E FITUESIT DHE NEGOCIMI I KONTRATËS
 
-(Shfuqizuar pikat 2, 3, 4, 5, 6 dhe 8 me VKM nr. 87, datë 16.1.2008)
+(Shfuqizuar pikat 2, 3, 4, 5, 6 dhe 8, shfuqizuar togfjalësh dhe shtuar fjalë në pikën 9 me VKM nr. 87, datë 16.1.2008)
 
 1. Negocimet, nënshkrimi, miratimi dhe publikimi i kontratës së koncesionit të bëhen në përputhje me nenin 21, të ligjit për koncesionet.
 
