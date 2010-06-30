@@ -1,0 +1,2 @@
+1.Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Perondi të qarkut të Beratit, që transferohen në pronësi ose në përdorim, të kësaj komune, sipas lidhjes nr.1, që i bashkëlidhen këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 232 (dyqind e tridhjetë e dy) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 1 529 (një mijë e pesëqind e njëzet e nëntë).
