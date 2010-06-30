@@ -1,0 +1,1 @@
+1. Mjediseve, që janë në përdorim të Fondit Shqiptar të Zhvillimit, përkatësisht katet përdhe, i dytë, i tretë e i katërt të ndërtesës, t’u ndryshojë përgjegjësia e administrimit, nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, për te Fondi Shqiptar i Zhvillimit, sipas genplanit dhe planimetrisë, që i bashkëlidhet këtij vendimi.

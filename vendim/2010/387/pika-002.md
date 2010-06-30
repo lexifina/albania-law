@@ -1,0 +1,1 @@
+2. Mjediseve, që janë në përdorim të Drejtorisë së Përgjithshme të Doganave, përkatësisht, kati i parë i ndërtesës, t’u ndryshojë përgjegjësia e administrimit nga Drejtoria e Përgjithshme e Doganave te Fondi Shqiptar i Zhvillimit, dhe këto mjedise t’i jepen në përdorim Zyrës së Komisionerit për Mbrojtjen nga Diskriminimi, sipas planimetrisë, që i bashkëlidhet këtij vendimi.
