@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2010, zëri “Shpenzime operative”, t’i shtohet fondi prej 1 200 000 lekë (një milion e dyqind mijë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të z. Zef Prendi, në Spitalin Amerikan, Tiranë.
