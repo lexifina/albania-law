@@ -1,0 +1,1 @@
+7. Shkolla e lartë private “Illyria”, Tiranë, ta fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikat 1, 3 e 5 të këtij vendimi, pasi të ketë marrë, jo më vonë se tri javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
