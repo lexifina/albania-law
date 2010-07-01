@@ -1,0 +1,1 @@
+3. Efektet financiare, për vitin 2010, që rrjedhin nga zbatimi i këtij vendimi, të llogariten në shumën 98 420 mijë lekë dhe të përballohen nga fondi i kontigjencës, i caktuar në buxhetin e shtetit të vitit 2010, për rritjen e pensioneve.

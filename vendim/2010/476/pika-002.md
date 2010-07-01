@@ -1,0 +1,1 @@
+2. Rritjen, në masën 4 për qind, do ta marrin edhe të gjitha përfitimet e përcaktuara në pikën 1, kur caktohen pas datës së hyrjes në fuqi të këtij vendimi, por me datë fillimi të së drejtës deri më 30.6.2010, përfshirë edhe këtë datë.
