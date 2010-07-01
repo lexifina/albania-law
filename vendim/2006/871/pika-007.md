@@ -1,1 +1,0 @@
-7. Elementet e sigurisë, mënyra e plotësimit dhe e administrimit të lejes së legalizimit, përcaktohen me udhëzim të Drejtorit të Përgjithshëm të Agjencisë së Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale.
