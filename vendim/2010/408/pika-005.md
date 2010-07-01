@@ -1,0 +1,1 @@
+5. Shkolla e lartë private “UFO University”, Tiranë ta fillojë veprimtarinë mësimore për programet e studimeve, të përcaktuara në pikat 1 e 3 të këtij vendimi, pasi të ketë marrë, jo më vonë se tri javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
