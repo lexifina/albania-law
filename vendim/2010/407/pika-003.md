@@ -1,0 +1,1 @@
+3. Filiali në Gjirokastër i shkollës së lartë private “Kristal” ta fillojë veprimtarinë mësimore për programet e studimeve, të përcaktuara në pikën 1 të këtij vendimi, pasi të ketë marrë, jo më vonë se tri javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
