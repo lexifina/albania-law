@@ -1,0 +1,6 @@
+1. Rritjen në masën 4 për qind të:
+a) pensioneve të plota, të pjesshme dhe të parakohshme të pleqërisë, pensioneve për merita të veçanta dhe për vjetërsi shërbimi, të caktuara sipas ligjit nr.4171, datë 13.9.1966 “Për sigurimet shoqërore në Republikën Popullore të Shqipërisë”, dhe ligjit nr.7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, përjashtuar pensionet e caktuara në përputhje me paragrafin e katërt të nenit 96 të ligjit nr. 7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar;
+b) pensioneve të posaçme shtetërore dhe të shtesave të pensioneve të posaçme shtetërore, të caktuara në përputhje me ligjin nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar;
+c) shtesës mujore, të përfituar në përputhje me vendimin nr.326, datë 21.6.1993 të Këshillit të Ministrave “Për kriteret e trajtimit të invalidëve të luftës kundër pushtuesve nazifashistë të popullit shqiptar”;
+ç) pensioneve të caktuara me dekretin nr.758, datë 1.2.1994, të Presidentit “Për një mbrojtje të veçantë të ushtarakut”, miratuar me ligjin nr.7799, datë 24.2.1994;
+d) shtesës mbi pension, të dhënë në përputhje me nenin 33 të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.

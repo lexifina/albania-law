@@ -1,0 +1,1 @@
+5. Rritjen, sipas përcaktimeve të pikave 1, 2, 3 dhe 4 të këtij vendimi, e përfitojnë edhe pensionet të cilat caktohen nga data 1 korrik 2010 e në vazhdim, me kusht që data e fillimit të pensionit apo trajtimit, të jetë deri më 30 qershor 2010, përfshirë edhe këtë datë.

@@ -1,0 +1,1 @@
+14. Shpenzimet për procedurat teknike të zbatimit të këtij vendimi dhe për pagesën e komisioneve të shërbimit të pagesave të pensioneve nga Posta Shqiptare, sh.a., për 0.75 për qind në muaj, përllogariten në shumën 14 milionë lekë dhe përballohen nga fondi i kontingjencës, i caktuar në Buxhetin e Shtetit të vitit 2010.
