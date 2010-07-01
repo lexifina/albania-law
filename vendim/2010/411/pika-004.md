@@ -1,0 +1,1 @@
+4. Drejtoria Qendrore e ALUIZNI-t kontrollon dhe certifikon dokumentacionin e dërguar nga drejtoritë pranë qarqeve, plotëson procesverbalin e certifikimit dhe lëshon lejen e legalizimit, për objektin informal/shtesën pa leje në ndërtime me leje.

@@ -1,0 +1,1 @@
+6. Për objektet informale/shtesat pa leje në ndërtime me leje, që përjashtohen nga procesi i legalizimit, drejtoritë e ALUIZNI-t, pranë qarqeve, i dërgojnë njoftim me shkrim poseduesve të tyre, si dhe organeve të njësive të qeverisjes vendore, ku këto objekte gjenden.
