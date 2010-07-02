@@ -1,0 +1,2 @@
+1.Miratimin e listës përfundimtare (të pjesshme) të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Shkodër, të qarkut të Shkodrës, që transferohen në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 196 (njëqind e nëntëdhjetë e gjashtë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 855 (tetëqind e pesëdhjetë e pesë).
