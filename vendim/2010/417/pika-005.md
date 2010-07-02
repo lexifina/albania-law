@@ -1,0 +1,1 @@
+5. Pas këtyre veprimeve paraprake dhe marrjes në dorëzim të objekteve të rehabilituara, Ministria e Mbrojtjes detyrohet të bëjë dorëzimin sipas legjislacionit në fuqi, për kalimin në administrim të sipërfaqes 4 762.8 (katër mijë e shtatëqind e gjashtëdhjetë e dy pikë tetë) m2, Ministrisë së Punëve Publike dhe Transportit, për Drejtorinë e Përgjithshme të Rrugëve.

@@ -1,0 +1,1 @@
+4. Ministria e Punëve Publike dhe Transportit e Drejtoria e Përgjithshme e Rrugëve, para fillimit të punimeve, detyrohen të bëjnë rrethimin e pronës dhe spostimin e rrjeteve inxhinierike që preken gjatë punimeve, duke rehabilituar infrastrukturën që preket gjatë punimeve, për funksionimin e rrugës sipas parametrave dhe kushteve teknike.
