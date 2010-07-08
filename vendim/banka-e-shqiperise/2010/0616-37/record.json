@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15012,
+  "title": "Për dhënien e miratimit paraprak për kryerjen e veprimtarisë shtesë nga Banka Credins sh.a.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "37",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2010-06-16",
+  "published": "2010-07-08",
+  "in_force": "2010-07-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/68dbab3d9e82223e07c7a1c1c4410c24975c44f14d3d54cf41bcce7c4cc97a00.docx",
+  "source_sha256": "68dbab3d9e82223e07c7a1c1c4410c24975c44f14d3d54cf41bcce7c4cc97a00",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15012",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/06/16/37",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
