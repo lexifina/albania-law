@@ -1,0 +1,1 @@
+3. Agjencia Publike e Akreditimit të Arsimit të Lartë të fillojë procedurat për kryerjen e vlerësimit të saj të parë të brendshëm, si pjesë e procesit të aplikimit për t’u bërë anëtare në Rrjetin Europian për Sigurimin e Cilësisë në Arsimin e Lartë, ENQA ose EQAR.
