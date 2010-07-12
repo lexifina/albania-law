@@ -1,0 +1,1 @@
+3. Kolegji profesional privat “New Generation” (Brezi i Ri), Tiranë, ta fillojë veprimtarinë mësimore për programet e studimit, të përcaktuara në pikën 1 të këtij vendimi, vetëm pasi të ketë marrë, jo më vonë se tri javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
