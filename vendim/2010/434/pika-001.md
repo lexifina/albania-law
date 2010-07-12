@@ -1,0 +1,1 @@
+1. Kalimin në përdorim, pa shpërblim, Ministrisë së Arsimit dhe Shkencës, për Fakultetin e Shkencave Sociale, të objektit nr.35, në Universitetin Ushtarak “Skënderbej”, pjesë e pronës nr.12 “Komanda e Doktrinës dhe Stërvitjes”, pronë në administrim të Ministrisë së Mbrojtjes, me qëllim zhvillimin e programit mësimor për periudhën 12.10.2009-30.9.2010.

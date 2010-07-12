@@ -1,0 +1,1 @@
+2. Ministrisë së Arsimit dhe Shkencës dhe Fakultetit të Shkencave Sociale u ndalohet ta ndryshojnë destinacionin e pronës së përcaktuar në këtë vendim, ta tjetërsojnë atë ose ta japin në përdorim te të tretët.
