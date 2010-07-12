@@ -1,0 +1,1 @@
+3. Rezervati natyror i menaxhuar Kune-Vain-Tale ka sipërfaqe të përgjithshme 4 393.21 (katër mijë e treqind e nëntëdhjetë e tre pikë njëzet e një) ha, ku pjesën kryesore të territorit e zënë sipërfaqet ligatinore, të ndjekura nga sipërfaqet bujqësore, pyjore dhe sipërfaqet me troje, sipas tabelës që i bashkëlidhet këtij vendimi.
