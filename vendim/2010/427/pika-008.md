@@ -1,0 +1,1 @@
+8. Pronarët e listave që i bashkëlidhen këtij projektvendimi, për të cilët është bërë shënimi “Proces legalizimi”, të likuidohen për efekt shpronësimi, pasi të ketë përfunduar ky proces dhe të jenë bërë regjistrimet përkatëse pranë Zyrës së Regjistrimit të Pasurive të Paluajtshme, Mirditë.

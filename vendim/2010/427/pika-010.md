@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Rrugëve të bëjë likuidimin e pronarëve, për të cilët është bërë shënimi “Proces legalizimi”, sipas pikës 8 të këtij vendimi, dhe pasi të ketë marrë një konfirmim zyrtar nga Zyra e Regjistrimit të Pasurive të Paluajtshme, Mirditë.
