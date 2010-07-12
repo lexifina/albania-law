@@ -1,0 +1,1 @@
+2. Misioni dhe qëllimi i bordit drejtues të DPS-së është sigurimi i përfaqësimit të palëve të interesuara në procesin e vendimmarrjes, i transparencës dhe i paanësisë në zhvillimin e veprimtarisë së standardizimit, në nivel kombëtar.
