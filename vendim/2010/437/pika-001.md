@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 8.12.2009 për çështjen nr.44023/01 “Caka kundër Shqipërisë”, në shumën 3 000 (tre mijë) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
