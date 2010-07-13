@@ -1,0 +1,7 @@
+# Neni 3
+Informacioni zonal i hapёsirёs ajrore tё sipёrme europiane (EUIR)
+3.1 Komuniteti dhe Shqipёria si anёtare e tij duhet tё synojnё vendosjen dhe pranimin nga ICAO tё njё EUIR-i tё vetёm. Pёr kёtё arsye, pёr çёshtjet qё do tё kalojnё nё kompetencёn e Komunitetit, Komisioni do t’i paraqesё njё rekomandim Kёshillit nё pёrputhje me nenin 300 tё traktatit brenda njё afati dyvjeçar, pas hyrjes nё fuqi tё kёsaj rregulloreje.
+3.2 EUIR-i duhet projektuar nё mёnyrё tё tillё qё tё pёrfshijё hapёsirёn ajrore qё ёshtё nёn pёrgjegjёsinё e Shqipёrisё nё pёrputhje me nenin 1(3) të këtij udhëzimi dhe mund tё pёrfshijё gjithashtu edhe hapёsirёn ajrore tё vendeve-shteteve tё treta europiane.
+3.3 Vendosja e EUIR-it pa diskutim do tё jetё pёrgjegjёsi e shteteve anёtare pёr pёrcaktimin e ofrimit tё SHTA nёn pёrgjegjёsinё e tyre nё pёrputhje me nenin 8(1) tё udhëzimit të Ministrit të MPPT pёr ofrimin e SHNA.
+3.4 Shqipёria duhet tё mbajё pёrgjegjёsitё e veta kundrejt ICAO, brenda kufijve tё vetё gjeografikё ,pёrsa i pёrket informacionit mbi rajonet e sipёrme tё fluturimit dhe informacionit mbi zonat e fluturimeve qё i janё pёrcaktuar nga ICAO nё ditёn e hyrjes nё fuqi tё kёsaj rregulloreje.
+3.5 Pa cenuar publikimin e informacionit aeronautik nga shteti shqiptar dhe nё pёrputhje me kёto publikime, Komisioni nё bashkёpunim tё ngushtё me Eurocontrol, duhet tё koordinojё pёrgatitjen e publikimit tё njё informacioni tё vetёm aeronautik lidhur me EUIR-in, duke marrё parasysh kёrkesat/dispozitat pёrkatёse tё ICAO.

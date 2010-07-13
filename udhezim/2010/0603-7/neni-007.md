@@ -1,0 +1,5 @@
+# Neni 7
+Pёrdorim fleksibёl i hapёsirёs ajrore
+7.1 Duke marrë nё konsideratё organizimin e aspekteve ushtarake nё Republikёn e Shqipёrisё nёn pёrgjegjёsinё e vet Shqipëria duhet tё sigurojё aplikimin e njёtrajtshёm brenda Qiellit tё Vetёm Europian tё konceptit pёr njё pёrdorim elastik tё hapёsirёs ajrore, ashtu siç pёrshkruhet nga Eurokontrol, me qёllim qё tё lehtёsohet menaxhimi i hapёsirёs ajrore dhe menaxhimi i trafikut ajror nё kontekstin e njё politike tё pёrbashkёt transporti.
+7.2 Shqipëria do tё raportojё çdo vit para Komisionit pёr zbatimin nё kontekst tё politikёs sё pёrbashkёt, lidhur me pёrdorimin e hapёsirёs ajrore qё ёshtё nёn pёrgjegjёsinё e Republikёs sё Shqipёrisё .
+7.3 Aty ku bёhet e nevojshme pёrforcimi dhe harmonizimi i zbatimit tё konceptit tё pёrdorimit fleksibёl tё hapёsirёs ajrore brenda Qiellit tё Vetёm Europian, sidomos nё vijim tё raporteve qё paraqiten nga Republika e Shqipёrisё, futja e rregullave nёn kontekstin e politikёs sё pёrbashkёt tё transportit duhet tё bёhen nё pёrputhje me procedurёn sipas nenit 8 tё udhëzimit të ministrit mbi kuadrin rregullativ.
