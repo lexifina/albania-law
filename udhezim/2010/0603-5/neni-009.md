@@ -1,0 +1,6 @@
+# Neni 9
+Supervizimi, monitorimi dhe metodat e vlerësimit të ndikimit
+1. Supervizimi, monitorimi dhe metodat e vlerësimit të ndikimit do të raportohen me anë të paraqitjes së raporteve vjetore pranë Komisionit Europian nga ana e AAC-së mbi zbatimin e veprimeve të marra në zbatim të kuadrit rregullator për krijimin e QVE-së.
+2. Në mënyrë periodike Komisioni do të rishikojë aplikimin e kësaj rregulloreje dhe të masave të referuara në nenin 3 të këtij udhëzimi dhe do t’ia raportojë Parlamentit Europian çdo 3 vite më pas. Për këtë qëllim, AAC do të paraqesë pranë Komisionit Europian informacione shtesë që mund të kërkojë ky i fundit nga AAC përveç informacionit të dhënë me anë të raporteve të paraqitura nga AAC në përputhje me kërkesat e paragrafit 1.
+3. Për qëllime të draftimit/përpilimit të raporteve referuar në paragrafin 2, Komisioni do të kërkojë opinionin e Komitetit.
+4. Raportet do të përmbajnë një vlerësim të rezultateve të arritura nga veprimet e ndërmarra në vijim të kësaj rregulloreje duke përfshirë informacionin e saktë rreth zhvillimeve në sektor, në veçanti në lidhje me aspektet ekonomike, sociale, të punësimit dhe ato teknologjike, si dhe rreth cilësisë së shërbimit, duke marrë parasysh objektivat fillestarë dhe duke parë nevojat e ardhshme.
