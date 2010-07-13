@@ -1,0 +1,7 @@
+# Neni 16
+Rishikimi i pagesave
+1. Komisioni do të ofrojë për rishikimin në vazhdimësi të pajtimit me parimet dhe rregullat e referuara në nenet 14 dhe 15 të kësaj rregulloreje, që veprojnë në bashkëpunim me AAC e Republikës së Shqipërisë. Komisioni do të përpiqet të vendosë mekanizmat e nevojshëm për përdorimin e ekspertizës së Eurokontrollit.
+2. Me kërkesën e një ose më shumë shteteve anëtare që konsiderojnë se parimet dhe rregullat e përmendura më sipër nuk janë vënë në zbatim siç duhet ose me iniciativën e vet, Komisioni do të bëjë një hetim, për çdo deklaratë për mospërputhshmëri ose moszbatim të parimeve dhe/ose rregullave. Brenda dy muajve nga marrja e një kërkese, pasi të ketë dëgjuar shtetin anëtar përkatës, dhe pasi të jetë konsultuar me Komitetin e Qiellit të Vetëm në përputhje me procedurën e referuar në nenin 5(2) të udhëzimit të ministrit për “Krijimin e strukturës së Qiellit të Vetëm Europian”, kuadrit rregullativ, Komisioni do të marrë një vendim mbi zbatimin e neneve 14 dhe 15 të kësaj rregulloreje dhe nëse praktika mund të vazhdohet apo jo.
+3. Komisioni do t’ia adresojë vendimin e tij shteteve anëtare dhe të informojë ofruesin e shërbimit, përsa i përket anës ligjore. Çdo shtet Anëtar mund t’i referohet vendimit të Komisionit brenda një muaji. Këshilli, që vepron me një mazhorancë të kualifikuar, mund të marrë një vendim të ndryshëm brenda një periudhe njëmujore.
+KAPITULLI IV
+KUSHTET PËRFUNDIMTARE
