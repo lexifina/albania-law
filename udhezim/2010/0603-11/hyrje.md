@@ -1,0 +1,5 @@
+UDHËZIM
+Nr.11, datë 3.6.2010
+Për Software-ët në Sistemet e Menaxhimit të Trafikut Ajror
+Në zbatim të nenit 102 pika 4 të Kushtetutës, në zbatim të ligjit nr.9658, datë 18.12.2006 “Për ratifikimin e marrëveshjes shumëpalëshe midis Komunitetit Evropian dhe shteteve të tij anëtare, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Bullgarisë, Republikës së Kroacisë, ish-Republikës Jugosllave të Maqedonisë, Republikës së Islandës, Republikës së Malit të Zi, Mbretërisë së Norvegjisë, Rumanisë, Republikës së Serbisë dhe Misionit Administrativ të Përkohshëm të Kombeve të Bashkuara në Kosovë, mbi krijimin e një zone të përbashkët europiane të aviacionit”, në zbatim ligjit nr.10 040, datë 22.12.2008 “Kodi Ajror i Republikës së Shqipërisë”, në zbatim të vendimit të Këshillit të Ministrave nr.401, datë 11.7.2007 “Për miratimin e kërkesave rregullative të Eurocontrol për sigurinë në aviacionin civil shqiptar” si dhe të udhëzimeve, nr.18, 20, 21 dhe 22, datë 16.10.2008 të ministrit të MPPT-së;
+UDHËZOJ:
