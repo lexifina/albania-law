@@ -4,13 +4,17 @@ Nr.2, datë 9.1.2010
 
 Për krijimin dhe mënyrën e përdorimit të fondit të emergjencave civile në qarkun e shkodrës, për të përballuar situatën e shkaktuar nga përmbytjet natyrore
 
+(Ndryshuar me VKM nr. 564, datë 14.7.2010)
+
+(i përditësuar)
+
 Në mbështetetje të nenit 100 të Kushtetutës, të neneve 5,7 e 32 të ligjit nr.8756, datë 26.3.2001 “Për emergjencat civile” dhe të nenit 13 të ligjit nr.10 190, datë 26.11.2009 “Për buxhetin e vitit 2010”, me propozimin e Ministrit të Brendshëm, Këshlli i Ministrave 
 
 Vendosi:
 
 1. Krijimin e fondit për emergjencat civile në qarkun e Shkodrës, ku do të përfshihen:
 
-a) Shuma 200 000 000 (dyqind milionë) lekë, nga fondi rezervë i buxhetit;
+a) Shuma prej 10 000 000 (dhjetë milionë) lekësh nga fondi rezervë i buxhetit;
 
 b) Donacionet monetare të mbledhura në llogaritë bankare, të çelura për këtë qëllim;
 
