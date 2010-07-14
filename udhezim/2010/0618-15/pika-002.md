@@ -1,0 +1,1 @@
+2. Kërkesat për kalimin e së drejtës së pronësisë mbi truallin e njësisë së ndërtuar, shoqërohen nga dokumentacioni financiar që vërteton shlyerjen e tarifës së aplikimit dhe paraqiten pranë Drejtorisë Qendrore të ALUIZNI-t, ku regjistrohen.

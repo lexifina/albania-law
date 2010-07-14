@@ -1,0 +1,1 @@
+3. Të dhënat e përftuara nga administrimi i kërkesave për kalimin e së drejtës së pronësisë mbi truallin, pasqyrohen në formularin e të dhënave, që i bashkëlidhet këtij udhëzimi, i cili plotësohet, administrohet dhe ruhet nga një format dixhital.
