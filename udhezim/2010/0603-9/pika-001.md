@@ -1,0 +1,4 @@
+1. Qëllimi
+1.1 Qëllimi i ketij udhëzimi është përcaktimi i kërkesave të përbashkëta për dispozitat e shërbimit të navigimit ajror, për mbikëqyrjen e sigurisë në menaxhimin e trafikut ajror, për ndërtimin e një sistemi automatik (software) të garantimit të sigurisë së shërbimeve të navigimit ajror nga ana e ofruesve të shërbimeve të navigimit ajror dhe kërkesave të përbashkëta mbi metodat e punës dhe procedurat e operimit.
+1.2 Autoriteti përgjegjës për zbatimin e procedurës së mbikëqyrjes së sigurisë në menaxhimin e trafikut ajror është Autoriteti i Aviacionit Civil të Republikës së Shqipërisë.
+1.3 Ky udhëzim është në përputhje me vendimin e Komisionit të Komunitetit Evropian, nr 2096/2005, datë 20 dhjetor 2005, me qëllim harmonizimin e politikave për mbikëqyrjen e sigurisë në menaxhimin e trafikut ajror brenda vendeve të ECAC.

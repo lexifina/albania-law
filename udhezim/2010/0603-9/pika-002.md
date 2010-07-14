@@ -1,0 +1,3 @@
+2. Arsyet themelore
+2.1 Mbikëqyrja e sigurisë në menaxhimin e trafikut ajror është elementi themelor në arritjen e sigurisë, dhe për pasojë, në menaxhimin e sigurisë, në dispozitën e shërbimeve të ofrimit te shërbimit të navigimit ajror. Zbatimi i këtyre kërkesërregulloreve në këtë fushë synon të vendosë nivelet minimale të harmonizuara të sigurisë në shërbimet e navigimit ajror dhe në sigurinë e OSHNA.
+2.2 Përdorimi i këtij udhëzimi dhe procedurave të tij garanton në vazhdimësi dhe në mënyrë efektive e të përshtatshme zbatimin korrekt të rregulloreve të sigurisë në shërbimeve të ofruara në aerodromet dhe hapësirën ajrore të Shqipërisë.
