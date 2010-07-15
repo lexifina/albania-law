@@ -1,0 +1,1 @@
+4. Për përzgjedhjen e institucionit financiar, që do të kryejë shërbimin e mbajtjes së llogarive, titullari i institucionit krijon një komision, i cili në përbërje të ketë një jurist prokurimesh dhe, të paktën, katër punonjës të tjerë, që nuk janë në përbërje të strukturës së shërbimeve mbështetëse të institucionit.

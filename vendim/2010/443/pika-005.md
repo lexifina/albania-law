@@ -1,0 +1,1 @@
+5. Komisioni i ngritur për këtë qëllim, për procedurat e përzgjedhjes, sipas parimeve të përcaktuara në pikën 2 të këtij vendimi, zbaton parimet dhe procedurat e parashikuara në dispozitat e krerëve III, V e VI të ligjit nr.9874, datë 14.2.2008 “Për ankandin publik”.

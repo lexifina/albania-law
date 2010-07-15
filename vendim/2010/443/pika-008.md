@@ -1,0 +1,1 @@
+8. Transfertat për pagesa nga skema e sigurimeve shoqërore dhe shëndetësore mund të bëhet, në institucionin financiar të përzgjedhur nga organet vendimmarrëse përkatëse apo në institucionin financiar të kërkuar nga përfituesi, pas plotësimit, rast pas rasti, të formularit të miratuar për këtë qëllim.

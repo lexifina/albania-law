@@ -1,0 +1,1 @@
+2. Miratimi i këtij vendimi ka për qëllim mirëpërdorimin e fondeve publike, sigurimin e integritetit e të transparencës në procedurat e përzgjedhjes, për çeljen e llogarive të institucioneve të sipërpërmendura, si dhe uljen e kostos së shërbimeve të lidhura me këto llogari.
