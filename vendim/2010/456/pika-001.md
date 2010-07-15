@@ -1,0 +1,5 @@
+1. Në buxhetin e vitit 2010, miratuar për Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, bëhen këto shtesa e pakësime :
+a) Në programin buxhetor 01110 “Planifikim, menaxhim, administrim”, të shtohen fondet 11 000 000 (njëmbëdhjetë milionë) lekë, në artikullin 600 “Paga”, dhe 1 400 000 (një milion e katërqind mijë) lekë, në artikullin 601 “Sigurime shoqërore e shëndetësore”.
+b) Në programin buxhetor 04250, “Zhvillimi rural duke mbështetur bujqësinë, blegtorinë, agroindustrinë dhe marketingun”, të shtohen fondet 5 500 000 (pesë milionë e pesëqind mijë) lekë, në artikullin 600 “Paga”, dhe 4 400 000 (katër milionë e katërqind mijë) lekë, në artikullin 601 “Sigurime shoqërore e shëndetësore”.
+c) Në programin buxhetor 04220 “Siguria ushqimore dhe mbrojtja e konsumatorit”, të pakësohet fondi 16 500 000 (gjashtëmbëdhjetë milionë e pesëqind mijë) lekë, në artikullin 600 “Paga”.
+ç) Në programin buxhetor 04860 “Këshillimi dhe informacioni bujqësor”, të pakësohet fondi 5 800 000 (pesë milionë e tetëqind mijë) lekë, në artikullin 601 “Sigurime shoqërore e shëndetësore”.
