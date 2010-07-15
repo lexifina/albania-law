@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga sistemimi, asfaltimi dhe ndërtimi i trotuareve të rrugës së Shkodrës, në bashkinë e Fushë - Krujës.
