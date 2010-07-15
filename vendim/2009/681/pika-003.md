@@ -1,4 +1,4 @@
-3. Për të gjithë debitorët, që likuidojnë menjëherë principalin e transferuar apo të mbetur brenda muajit dhjetor 2009, faljen e të gjitha interesave, kamatëvonesave dhe gjobave, pavarësisht nga shuma e principalit të transferuar.
+3. Shfuqizuar.
 II. PROCEDURAT E MARRJES NË PRONËSI TË PASURIVE TË LËNA SI GARANCI OSE JO NGA DEBITORËT; TË ADMINISTRIMIT, SHITJES E DHËNIES ME QIRA APO ME ENFITEOZË TË KËTYRE PASURIVE
 1. Këtij vendimi u nënshtrohen të gjitha pasuritë e lëna garanci ose jo nga debitorët e ATK-së, të cilat kalojnë në pronësi të saj, pasi nuk janë shitur në ankandet e zhvilluara nga përmbaruesi gjyqësor, në zbatim të procedurave ligjore për ekzekutim të detyrueshëm.
 2. Marrja në pronësi e pasurive të lëna garanci ose jo nga debitorët bëhet me pëlqimin e ATK-së, si palë kreditore, kundrejt vlerës së ankandit të fundit, të zhvilluar nga përmbaruesi gjyqësor.
