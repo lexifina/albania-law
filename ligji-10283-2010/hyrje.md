@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 283, datë 3.6.2010
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË MARRËVESHJEN E NATO-S “PËR KOMUNIKIMIN E INFORMACIONIT TEKNIK PËR QËLLIME TË MBROJTJES”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
