@@ -1,0 +1,12 @@
+-Ngritjen e shtabeve të punës për marrjen dhe bashkërendimin e masave për garantimin e rendit dhe rritjen e sigurisë publike gjatë sezonit turistik veror 2010, në rang qarku, të kryesuar nga prefektët dhe me përbërje:
+-Kryetarin e Këshillit të Qarkut
+- Drejtorin e Policisë së Qarkut;
+- Komandantin e Batalionit të Mbështetjes Rajonale;
+- Kryetarin e Bashkisë/Komunës;
+- Shefi i Njësisë Rajonale të Policisë Rrugore;
+- Shefin e PMNZSH për qarkun;
+- Përfaqësuesin e emergjencave civile në prefekturë;
+- Drejtorin Rajonal të Shërbimit Parësor;
+- Drejtorin Rajonal të Rrugëve.
+- Hartimin dhe miratimin e një plani masash dhe plani veprimi, të detajuar sipas stukturave përkatëse, për zbatimin e detyrave të caktuara nga shtabi i punës, brenda datës 5.7.2010.
+I.Strukturat e Policisë së Shtetit brenda datës 1 korrik 2010, të marrin këto masa:

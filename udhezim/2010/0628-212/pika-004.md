@@ -1,0 +1,1 @@
+4.Të merren masat tekniko-logjistike për të siguruar gatishmërinë dhe funksionimin e plotë e të pandërprerë të gjithë sistemit TIMS dhe gjeneratorëve të furnizimit me energji elektrike të këtij sistemi, për të siguruar një veprimtari normale dhe pa pengesa në regjistrimin e udhëtarëve në pikat e kalimit kufitar.

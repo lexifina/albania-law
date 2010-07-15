@@ -1,0 +1,1 @@
+5.Strukturat e varësisë së Ministrisë së Brendshme të bashkëpunojnë me agjencitë e tjera të zbatimit të ligjit, si dogana, fitosanitaret, roja bregdetare, kapiteneritë, autoritetet portuale, agjencitë private etj., me qëllim lehtësimin e procedurave të kalimit të shtetasve dhe mjeteve gjatë sezonit veror, nëpërmjet një kontrolli efikas të kufirit dhe pa e cenuar sigurinë.

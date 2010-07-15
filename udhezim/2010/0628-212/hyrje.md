@@ -1,0 +1,5 @@
+Udhëzim
+Nr.212, datë 28.6.2010
+Për marrjen dhe bashkërendimin e masave për garantimin e rendit dhe rritjen e sigurisë publike, gjatë sezonit turistik veror 2010
+Në mbështetje të paragrafit 4 të nenit 102 të Kushtetutës së Shqipërisë, të nenit 7 të ligjit nr.9749, datë 4.6.2007 “Për Policinë e Shtetit”, të ligjit nr.8927, datë 25.7.2002 “Për prefektin”, të ligjit nr.8652, datë 31.7.2000 “Për organizimin dhe funksionimin e qeverisjes vendore”, të ligjit nr.10 220, datë 4.2.2010 “Për shpalljen e moratoriumit për mjetet motorike lundruese të Republikës së Shqipërisë“ dhe të vendimit nr.343, datë 12.5.2010 “Për mjetet motorike lundruese që lejohen të qarkullojnë në zbatim të moratoriumit “Për mjetet motorike lundruese të Republikës së Shqipërisë“ të Këshillit të Ministrave, me qëllim krijimin dhe garantimin për pushuesit të kushteve sa më të mira të sigurisë, ambienteve e standardeve për pushime në zonat turistike dhe përmbushjen e objektivave nga ana e strukturave të Ministrisë së Brendshme, në qendër dhe në bazë për periudhën e sezonit turistik veror 2010
+Udhëzoj:
