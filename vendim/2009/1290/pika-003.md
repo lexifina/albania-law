@@ -7,6 +7,7 @@
 - Pagesa me 10 lekë/litri, qumësht, për fermat blegtorale, që mbarështojnë 10-50 krerë lopë qumështi të racave të pastra dhe kryqëzimet e tyre. Pagesa të bëhet kundrejt sasisë së qumështit të deklaruar në organet tatimore.
 - Pagesa 500 (pesëqind) lekë për kokë dele, për tufat me mbi 50 krerë, të matrikulluara.
 - Prodhimi i vajit të ullirit extra-vergine, 100 (një qind) lekë/litri për sasitë deri në 15 tonë/viti.
+- Pagesa me 5000 (pesë mijë) lekë për kokë, për fermat blegtorale që mbarështojnë mbi 10 krerë njëthundrakë, por jo më shumë se për 30 krerë.
 5. Nxitjen e kreditimit bankar në sektorin e bujqësisë për:
 - mbështetjen, përmes subvencionimit, në masën 70 % të normës së interesit, për 3 vite radhazi, për kreditë, deri në 15 000 000 (pesëmbëdhjetë milionë) lekë, që do të merren për ruajtje dhe përpunim të produkteve, bujqësore dhe blegtorale, si dhe për mjete mekanike bujqësore.
 - krijimin e fondit të garancisë për kreditimin e veprimtarive bujqësore të agroindustrisë dhe të atyre të orientuara për eksport, në masën 50 % të vlerës së principalit të kredisë. Garancia bëhet për kreditë deri në 15 000 000 ( pesëmbëdhjetë milionë) lekë.
