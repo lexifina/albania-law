@@ -1,1 +1,1 @@
-6. Sektori i planifikimit financiar bën vlerësimin e nivelit të financimit të dërguar nga Drejtoria e Përgjithshme e Shërbimit Social Shtetëror dhe i propozon komisionit masën e financimit të projektit.
+6. Drejtoria e Planifikimit të Buxhetit, Analizës dhe Statistikës bën vlerësimin e nivelit të financimit të dërguar nga Drejtoria e Përgjithshme e Shërbimit Social Shtetëror dhe i propozon komisionit masën e financimit të projektit.
