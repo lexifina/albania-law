@@ -1,1 +1,0 @@
-10. Drejtoria e Përgjithshme e Doganave, në bazë të informacionit të dërguar nga Ministria e Punëve Publike, Transportit dhe Telekomunikacionit, sipas pikës 10 të këtij udhëzimi, publikon dhe azhurnon këto tarifa në faqen e saj zyrtare në internet.

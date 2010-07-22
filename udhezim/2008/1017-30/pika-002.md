@@ -1,1 +1,0 @@
-2. Autoveturat e huaja përjashtohen nga pagesa e tarifës së qarkullimit për 60 ditë qëndrimi në vit në territorin e Republikës së Shqipërisë dhe paguajnë vetëm 1 euro në çastin e daljes. Për çdo ditë mbi këtë periudhë, tarifa e qarkullimit llogaritet sipas shtojcës së cituar më lart.
