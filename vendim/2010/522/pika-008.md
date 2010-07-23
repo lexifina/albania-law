@@ -1,0 +1,1 @@
+8. Punimet për qëllim të ndërtimit, pronësisë, shfrytëzimit, mirëmbajtjes dhe transferimit në favor të shtetit të projektit të një hidrocentrali të ri në Ashtë, në qarkun Shkodër të përfundojë brenda 40 muajve nga data e fillimit të punimeve të ndërtimit.

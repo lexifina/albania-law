@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale të shpronësimit, në shumën 1 131 000 (një milion e njëqind e tridhjetë e një mijë) lekë, të përballohet nga shoqëria “Energji Ashta”, sh.p.k., si subjekt kërkues i këtij shpronësimi.

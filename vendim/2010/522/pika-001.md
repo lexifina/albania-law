@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, rponë private, që preken nga shpronësimi për qëllim të ndërtimit, pronësisë, shfrytëzimit, mirëmbajtjes dhe transferimit në favor të shtetit të projektit të një hidrocentrali të ri në Ashtë, në qarkun Shkodër, sipas tabelës që i bashkëlidhet këtij vendimi.
