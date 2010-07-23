@@ -1,0 +1,1 @@
+1. Ky vendim rregullon procedurat që do të ndiqen nga organet e administratës shtetërore, të financuara tërësisht apo pjesërisht nga Buxheti i Shtetit, në rastet e plotësimit, nga ana e nëpunësit/punonjësit të siguruar, të kushteve për pension pleqërie, në përputhje me dispozitat e ligjit “Për sigurimet shoqërore në Republikën e Shqipërisë”.

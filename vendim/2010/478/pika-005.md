@@ -1,0 +1,1 @@
+5. Nëpunësit/punonjësit, marrëdhënia e punës e të cilëve ndërpritet në zbatimin e këtij vendimi, gëzojnë të gjitha të drejtat për përfitimin e pensionit të pleqërisë, sipas legjislacionit në fuqi për sigurimet shoqërore.

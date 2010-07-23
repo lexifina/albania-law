@@ -1,0 +1,1 @@
+4. Organet e parashikuara në pikën 1 të këtij vendimi, me plotësimin e kushteve për pension pleqërie, sipas dispozitave të ligjit nr.7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, ndërpresin menjëherë marrëdhëniet e punës për këtë kategori nëpunësish/punonjësish.
