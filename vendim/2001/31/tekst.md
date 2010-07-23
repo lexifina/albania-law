@@ -4,7 +4,7 @@ Nr. 31, datë 20.1.2001
 
 PËR PËRFITIMET NGA STATUSI I INVALIDIT PARAPLEGJIK DHE TETRAPLEGJIK
 
-(Ndryshuar me VKM nr. 302, datë 27.6.2002; nr. 619, datë 7.9.2006; nr. 871, datë 18.6.2008; nr. 1689, datë 17.12.2008; nr. 326, datë 12.3.2009)
+(Ndryshuar me VKM nr. 302, datë 27.6.2002; nr. 619, datë 7.9.2006; nr. 871, datë 18.6.2008; nr. 1689, datë 17.12.2008; nr. 326, datë 12.3.2009; nr. 1236, datë 16.12.2009; nr. 604, datë 23.7.2010)
 
 (i përditësuar)
 
@@ -28,9 +28,9 @@ II. Grupi i dytë, ku përfshihen të sëmurët paraplegjikë pjesërisht të af
 
 3. Invalidët, paraplegjikë ose tetraplegjikë, pajisen me dëshmi zyrtare identifikimi.
 
-4. Masa e përfitimit për invalidët, paraplegjikë dhe tetraplegjikë, është 8 700 (tetë mijë  e shtatë qind) lekë në muaj dhe kjo masë indeksohet, çdo vit, me ritmet e rritjes së pagës minimale, në shkallë vendi, por masa e indeksuar e pagesës të mos jetë më shumë se masa e pensionit minimal në qytet, në shkallë vendi. Kjo pagesë përfitohet pavarësisht nga mosha dhe të ardhurat, që përfitojnë nga shteti. Kujdestari i invalidit paraplegjik dhe tetraplegjik, i caktuar në përputhje me pikën 1 të këtij vendimi, përfiton një pagesë, në masën 9200 (nëntë mijë e dyqind) lekë në muaj.
+4. Masa e përfitimit për invalidët, paraplegjikë dhe tetraplegjikë, është 8 700 (tetë mijë  e shtatë qind) lekë në muaj dhe kjo masë indeksohet me indeksin e çmimeve të konsumit. Kjo pagesë përfitohet pavarësisht nga mosha dhe të ardhurat, që përfitojnë nga shteti. Kujdestari i invalidit paraplegjik dhe tetraplegjik, i caktuar në përputhje me pikën 1 të këtij vendimi, përfiton një pagesë, në masën 9200 (nëntë mijë e dyqind) lekë në muaj.
 
-Vendi dhe mënyra e dhënies së këtyre pagesave do të përcaktohet në udhëzimin që do të dalë në zbatim të këtij vendimi.
+Pagesa e aftësisë së kufizuar, në masën e përcaktuar në paragrafin e parë të kësaj pike, bëhet nga shërbimet bankare, që funksionojnë pranë njësisë së qeverisjes vendore, ku ka vendbanimin përfituesi, ose nga shërbimi postar për njësitë e qeverisjes vendore, ku nuk ka një të tillë.
 
 4/1. Periudha e shërbimit si kujdestar, për invalidin paraplegjik dhe tetraplegjik, i cili nuk është ekonomikisht aktiv, si dhe nuk përfiton të ardhura nga skema e sigurimit të detyrueshëm shoqëror, vlerësohet periudhë sigurimi, për efekt përfitimi pensioni, barrëlindje, aksidenti në punë dhe sëmundje profesionale, dhe sigurimi shëndetësor.
 
