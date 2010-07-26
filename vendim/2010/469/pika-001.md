@@ -1,0 +1,1 @@
+1. Miratimin e “Rregullores për përcaktimin e rregullave të hollësishme për procedurën e shqyrtimit të ankesave ndaj procedurave të koncesionit apo të vendimeve për përjashtim nga këto procedura”, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
