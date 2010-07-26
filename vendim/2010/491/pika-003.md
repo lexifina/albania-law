@@ -1,0 +1,1 @@
+3. Shkolla e lartë private “Universiteti Elite”, Tiranë do të ofrojë programin e integruar të studimit të ciklit të dytë, me kohëzgjatje 5 (pesë) vite akademike, duke plotësuar, së paku, 300 kredite. Në përfundim të këtij programi studimi lëshohet “Diplomë e integruar e nivelit të dytë” (DIND) në “Stomatologji”.
