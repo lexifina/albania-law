@@ -1,0 +1,1 @@
+5. Hapjen, në shkollën e lartë universitare private “Luarasi”, Tiranë, të programit të studimit “Master i nivelit të parë“ (MNP), në formën e studimeve me kohë të plotë në “Specialist/jurist në administratën publike”.

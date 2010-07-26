@@ -1,0 +1,1 @@
+6. Ky program studimi realizohet me 60 kredite dhe kohëzgjatja normale e tij është 1(një) vit akademik. Në përfundim të programit të studimit lëshohet diplomë “Master i nivelit të parë“ (MNP), në “Specialist/jurist në administratën publike”.

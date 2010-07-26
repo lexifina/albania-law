@@ -1,0 +1,1 @@
+2. Ky program studimi i ciklit të parë realizohet me 180 kredite dhe kohëzgjatja normale e tij është 3 (tri) vite akademike. Në përfundim të programit të studimit lëshohet “Diplomë e nivelit të parë“ (DNP), në “Administrim publik”.

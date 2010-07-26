@@ -1,0 +1,1 @@
+7. Shkolla e lartë universitare private “Luarasi”, Tiranë të fillojë veprimtarinë mësimore për programet e studimeve, të përcaktuara në pikat 1, 3 e 5 të këtij vendimi, pasi të ketë marrë, jo më vonë se dy javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
