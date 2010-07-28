@@ -1,0 +1,1 @@
+8. Studentët dhe shkencëtarët e rinj, që kanë përfituar bursë, sipas këtij vendimi, kur, pas përfundimit të studimeve, refuzojnë të punojnë në Shqipëri, sipas kushteve të përcaktuara në kontratën e lidhur, detyrohen të kthejnë shumën e marrë në formë burse.

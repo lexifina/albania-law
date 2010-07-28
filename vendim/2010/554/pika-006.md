@@ -1,0 +1,1 @@
+6. Lista përfundimtare e kandidatëve të përzgjedhur dhe masa e bursës për secilin prej tyre miratohen nga Ministri i Arsimit dhe Shkencës, pasi kandidati të ketë nënshkruar deklaratën, e miratuar nga ministri, për punësim në Shqipëri. Lista botohet në faqen e internetit të Ministrisë së Arsimit dhe Shkencës.
