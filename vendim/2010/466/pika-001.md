@@ -1,0 +1,1 @@
+1. Miratimin e vlerës së kompensimit të dëmeve, të shkaktuara në kulturat bujqësore, nga përmbytjet dhe reshjet e shiut, në qarkun e Shkodrës në shumën 280 070 564 (dyqind e tetëdhjetë milionë e shtatëdhjetë mijë e pesëqind e gjashtëdhjetë e katër) lekë.

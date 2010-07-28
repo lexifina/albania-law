@@ -1,0 +1,1 @@
+2. Miratimin e listave të familjeve të qarkut të Shkodrës, së bashku me shumën përkatëse të kompensimit të dëmeve, sipas lidhjeve 1A, 1B, 1C; 2A, 2B; 3A, 3B; 4A, 4B; 5A, 5B; 6A, 6B; 7; 8; 9 që i bashkëlidhen këtij vendimi.

@@ -1,0 +1,1 @@
+3. Fondi prej 280 070 564 (dyqind e tetëdhjetë milionë e shtatëdhjetë mijë e pesëqind e gjashtëdhjetë e katër) lekë, të përballohet nga shuma, në të njëjtën vlerë, që do të paguajë Korporata Elektroenergjetike Shqiptare (KESH), në një llogari të veçantë.
