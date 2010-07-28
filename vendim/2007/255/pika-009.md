@@ -1,1 +1,0 @@
-9. Masa e fondit të veçantë “Për mbështetje financiare për shkencëtarë të rinj shqiptarë, të shkëlqyer”, për vitin 2007, është 50 000 000 (pesëdhjetë milionë) lekë, e cila është planifikuar në buxhetin e miratuar për Ministrinë e Arsimit dhe Shkencës.

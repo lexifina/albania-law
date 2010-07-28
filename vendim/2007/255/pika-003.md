@@ -1,1 +1,0 @@
-3. Ministri i Arsimit dhe Shkencës shpjegon, me udhëzim, me hollësi, rregullat për zbatimin e kritereve, për çdonjërën nga bursat e parashikuara, që aplikohen për studentët dhe shkencëtarët e rinj. Ministria e Arsimit dhe Shkencës, para fillimit të procedurave për aplikime për bursë, boton udhëzimin në Fletoren Zyrtare.
