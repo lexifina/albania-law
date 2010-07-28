@@ -1,0 +1,1 @@
+12. Drejtoria e Përgjithshme e Rrugëve të bëjë likuidimin e pronarëve, për të cilët është bërë shënimi “Bllokuar për arsye konflikti”, “Proces legalizimi” dhe “Proces regjistrimi”, sipas pikave 9, 10 dhe 11 të këtij vendimi.

@@ -1,0 +1,1 @@
+15. Vendimi nr.1284, datë 23.12.2009 i Këshillit të Ministrave “Për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, të cilët preken nga ndërtimi i segmentit rrugor Levan-Vlorë“, shfuqizohet.
