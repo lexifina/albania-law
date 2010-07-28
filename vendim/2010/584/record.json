@@ -1,0 +1,28 @@
+{
+  "qbz_id": 15106,
+  "title": "Për një shtesë fondi në buxhetin e vitit 2010, miratuar për Ministrinë e Brendshme, për dhënie ndihme financiare familjeve të viktimave dhe të të mbijetuarve të aksidentit rrugor, të datës 17.7.2010, në aksin Rrëshen-Fushë-Arrëz",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "584",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-07-27",
+  "published": "2010-07-28",
+  "in_force": "2010-07-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/341f1a61eb004e70b0a52243c543184d0547b87f0d7a887adf57a9c0013af938.docx",
+  "source_sha256": "341f1a61eb004e70b0a52243c543184d0547b87f0d7a887adf57a9c0013af938",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15106",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/07/27/584",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    15278
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
