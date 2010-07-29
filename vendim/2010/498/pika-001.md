@@ -1,0 +1,1 @@
+1. Shpërblimin, në masën 1 500 000 (një milion e pesëqind mijë) lekë, të z.Bujar Hoxha, për punën e shkëlqyer, përkushtimin, vetëmohimin dhe skarificën e treguar gjatë kryerjes së detyrës, duke vënë në rrezik jetën.
