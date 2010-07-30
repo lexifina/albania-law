@@ -1,0 +1,1 @@
+1.Të gjitha subjektet juridike apo fizike, të cilat janë pajisur me licencë nga autoriteti kompetent për të ushtruar aktivitete specifike për lojëra fati, të tilla si “lotari çasti”, “lotari me shorte”, keno etj., licenca e të cilave është revokuar me ligj të posaçëm, do të dëmshpërblehen nga organi tatimor, nën juridiksionin e të cilit ato janë të regjistruar.
