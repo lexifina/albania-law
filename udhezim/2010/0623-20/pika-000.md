@@ -1,0 +1,11 @@
+Për të gjitha subjektet, të cilat janë licencuar para hyrjes në fuqi të ligjit nr.10 033, datë 11.12.2008 “Për lojërat e fatit”, i ndryshuar, në kategoritë e lojërave “baste sportive” apo “bingo”, afati i vlefshmërisë së licencës së tyre, do të jetë afati i përcaktuar në çastin e lëshimit të licencës.
+Këto subjekte duhet të paguajnë në organin tatimor “kuotën vjetore të ushtrimit të aktivitetit”. Kuota vjetore do të paguhet një herë në vit, sipas afateve të parashikuara në ligj, dhe sipas mënyrës së mëposhtme:
+“Kuota vjetore e taksës për ushtrimin e aktivitetit” llogaritet si diferencë ndërmjet detyrimit vjetor për t’u paguar për ushtrimin e aktivitetit, sipas masës së parashikuar në ligj, me kuotat proporcionale respektive vjetore, të parapaguara dhe të paamortizuara.
+“Kuota proporcionale respektive vjetore, e parapaguar dhe e paamortizuar” llogaritet si raport i shumës totale të parapaguar nga subjekti, në momentin e marrjes së licencës, me periudhën e vlefshmërisë së licencës, të përcaktuar në momentin e pajisjes me licencë.
+Shembull: Subjekti “X” që operon në kategorinë “baste sportive” apo “bingo” është pajisur me licencë në vitin 2005, duke parapaguar detyrimin për pajisje me licencë, në shumën 10 000 000 lekë, për një afat 10-vjeçar.
+Afati i vlefshmërisë së kësaj licence do të skadojë në vitin 2015.
+“Masa proporcionale respektive vjetore, e parapaguar, por e paamortizuar” llogaritet si më poshtë: 10 000 000:10=1 000 000 lekë çdo vit, pra kjo licencë amortizohet çdo vit, në masën 1 000 000 lekë.
+Në rast se sipas ligjit, detyrimi vjetor për ushtrimin e aktivitetit, për kategoritë e lojërave “baste sportive” apo “bingo” është 2 000 000 lekë në vit, për të llogaritur detyrimin për taksën e ushtrimit të aktivitetit të këtij subjekti, shumës 2 000 000 lekë do t’i zbritet kuota vjetore prej 1 000 000 lekë, e cila është parapaguar në momentin e marrjes së licencës.
+Pra subjekti do të paguajë, për pjesën e mbetur të periudhës deri në përfundimin e afatit të licencës, diferencën prej 1 000 000 lekë.
+3.Ky udhëzim është i zbatueshëm vetëm për ato subjekte, të cilat operojnë për lojërat “baste sportive” ose “bingo” dhe që janë pajisur me licencë përpara hyrjes në fuqi të ligjit nr.10 033, datë 11.12.2008 “Për lojërat e fatit”, i ndryshuar.
+Ky udhëzim hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
