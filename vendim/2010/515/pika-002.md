@@ -1,0 +1,1 @@
+2. Hapjen, në Fakultetin e Shkencave të Lëvizjes, të Universitetit të Sporteve të Tiranës, të programit të studimit të ciklit të parë “Shkenca të lëvizjes”, në bazë të riorganizimit të programit të studimit të ciklit të parë “Edukim fizik dhe sporte”. Në përfundim të studimeve lëshohet “Diplomë e nivelit të parë”, DNP, në “Shkencat e lëvizjes”.

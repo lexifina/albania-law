@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e Veprimtarisë Fizike dhe të Rekreacionit, të Universitetit të Sporteve të Tiranës, të programit të studimit të ciklit të parë “Fushat e veprimtarisë fizike, të shëndetit dhe të rekreacionit”. Në përfundim të këtij programi studimi lëshohet “Diplomë e nivelit të parë”, DNP, në “Fushat e veprimtarisë fizike, të shëndetit dhe të rekreacionit”.

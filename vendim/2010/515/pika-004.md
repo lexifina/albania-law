@@ -1,0 +1,1 @@
+4. Studentët, të cilët ndjekin studimet në programin e studimit “Edukim fizik dhe sporte”, në kohëzgjatjen normale, edhe pas daljes së këtij vendimi, e përfundojnë atë me të njëjtin emërtim të programit të studimit, për të cilin kanë filluar studimet. Studentët përsëritës i nënshtrohen programit të studimit të vitit akademik, në të cilin vazhdojnë studimet.
