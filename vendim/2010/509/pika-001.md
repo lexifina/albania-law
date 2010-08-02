@@ -1,0 +1,1 @@
+1. Komunës Finiq, në buxhetin e vitit 2010, t’i jepet fondi prej 10 919 223 (dhjetë milionë e nëntëqind e nëntëmbëdhjetë mijë e dyqind e njëzet e tre) lekësh, për përballimin e detyrimeve doganore për tubacione dhe materiale të tjera, për ndërtimin e ujësjellësit.
