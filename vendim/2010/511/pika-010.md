@@ -1,0 +1,1 @@
+10. Zyra e regjistrimit të pasurive të paluajtshme, Korçë, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur të realizohen procesi i hedhjes së sipërfaqes së objektit mbi hartën kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.

@@ -1,0 +1,1 @@
+8. Ujësjellës Kanalizime, sh.a., Korçë, të kryejë likuidimin e pronarëve të pasurive, për të cilat janë bërë shënimet “Konfirmim nga ZRPP-ja, Korçë”, në bazë të dokumentacionit të pronësisë, brenda afateve të përcaktuara në pikën 6 të këtij vendimi.
