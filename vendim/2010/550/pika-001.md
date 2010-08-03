@@ -1,0 +1,2 @@
+1. Komunave Qukës e Qendër Librazhd të qarkut të Elbasanit, në buxhetin e miratuar për vitin 2010, t’u jepet fond financiar shtesë, për t’u shpërndarë në ndihmë të familjeve të këtyre komunave, për shkak të dëmtimit të banesave të tyre nga fatkeqësi të ndryshme, si më poshtë vijon: a) Komunës Qukës, 10 900 000 (dhjetë milionë e nëntëqind mijë) lekë.
+b) Komunës Qendër Librazhd, 7 700 000 (shtatë milionë e shtatëqind mijë) lekë.

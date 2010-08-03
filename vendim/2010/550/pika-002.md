@@ -1,0 +1,1 @@
+2. Fondet e përcaktuara në shkronjat “a” dhe “b” të pikës 1 të këtij vendimi, t’u shpërndahen familjeve sipas listës me emrat e kryefamiljarëve, të hartuar për secilën komunë, bashkëlidhur këtij vendimi.
