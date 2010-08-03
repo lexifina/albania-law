@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, tokë arë, truall dhe objekte, që preken nga ndërtimi i segmentit rrugor “By pass Plepa-Kavajë-Rrogozhinë, loti 1, 2, 3, 4, 5 dhe Rrrugët dytësore, loti 1, 2, 3, nga ana e detit”.

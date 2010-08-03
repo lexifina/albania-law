@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve të pasurive, për të cilat janë bërë shënimet “Leje ndërtimi” dhe “Vërtetim hipotekor”, në bazë të dokumentacionit të pronësisë, brenda afateve të konfirmuara në pikën 6.
