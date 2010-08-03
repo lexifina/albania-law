@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit, territorial dhe administrativ të komunës Martanesh të qarkut të Dibrës, që transferohen, në pronësi ose në përdorim, të kësaj komune, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 111 (njëqind e njëmbëdhjetë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 804 (tetëqind e katër).
