@@ -1,0 +1,4 @@
+# Neni 1
+Qëllimi
+1. Ky ligj ka për qëllim trajtimin ekonomik e financiar të familjeve të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit të Kontrollit të Brendshëm, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit, të Forcave të Armatosura, të Shërbimit Informativ Shtetëror dhe të Policisë së Burgjeve, kur punonjësit kanë humbur jetën në krye apo për shkak të detyrës.
+2. Familjet e shtetasve apo të punonjësve të strukturave të tjera shtetërore, të cilët humbin jetën për shkak të kryerjes së detyrave në ndihmë të strukturave të përmendura në pikën 1 të këtij neni, përfitojnë, në mënyrë të ngjashme, çdo ndihmë dhe trajtim të parashikuar nga ky ligj për punonjësit e këtyre strukturave. Përfitimet e ngjashme, për këtë kategori punonjësish, caktohen në bazë të pagës referuese të punonjësit dhe, për shtetasit, në bazë të pagës referuese të gradës më të lartë të rolit zbatues.

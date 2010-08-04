@@ -1,0 +1,3 @@
+# Neni 2
+1. Fëmijët e punonjësve të përmendur në nenin 1 të këtij ligji, që kanë humbur jetën në detyrë apo për shkak të saj, përfitojnë pension familjar të barabartë me pagën referuese të punonjësit në çastin e humbjes së jetës, deri kur secili prej fëmijëve të ketë mbushur moshën 18 vjeç dhe, pas kësaj periudhe, bashkëshortja/bashkëshorti dhe anëtarët e familjes në ngarkim përfitojnë pension familjar e suplementar, sipas dispozitave ligjore në fuqi.
+2. Përfitimet, që jepen në përputhje me këtë nen, vendosen në vlerën 100 për qind të pagës, sa herë që paga, sipas së cilës është llogaritur ky përfitim, ndryshon.
