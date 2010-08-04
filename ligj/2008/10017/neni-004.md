@@ -8,5 +8,9 @@ c) poligoni “Zgarë”, Librazhd;
 d) poligoni “Përroi i Bigazit”, Skrapar;
 dh) poligoni “Fushë Roshaj”, Voskopojë;
 e) poligoni i Trajlarit, Këlcyrë;
-ë) poligoni “Jubë”, Sukth, Durrës.
+ë) poligoni “Jubë”, Sukth, Durrës;
+f) poligoni Kepi i Skënderbeut, Mat;
+g) poligoni Zharrë, Tepelenë;
+gj) poligoni Mali i Tërpanit, Berat;
+h) poligoni Qafa e Barit, Labinot Mal.
 2. Koordinatat e poligoneve të asgjësimit të municioneve të Forcave të Armatosura janë të përcaktuara në genplanet, që i bashkëlidhen këtij ligji.
