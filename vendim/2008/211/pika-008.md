@@ -1,0 +1,1 @@
+8. Ngarkohet Ministri і Brendshëm të nxjerrë udhëzime, ku të përcaktohen rregullat, për t’і bërë të paefektshme për qitje armët e këtij koleksioni, dhe rregullat teknike, për dorëzimin e ruajtjen e tyre, në zbatim të këtij vendimi.

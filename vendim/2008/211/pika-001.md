@@ -1,0 +1,1 @@
+1. Trashëgimtarët e familjes së Mbretit Zog kanë të drejtë të mbajnë, në mjediset e vendbanimit të përhershëm, koleksionin privat të armëve (të lehta) të zjarrit, por pa municion, sipas dispozitave ligjore në fuqi dhe rregullave, të përcaktuara në këtë vendim.

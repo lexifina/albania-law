@@ -1,0 +1,1 @@
+3. Ruajtja e koleksionit të armëve të bëhet në një magazinë të posaçme, e cila të sigurohet me roje të armatosura, me shërbim 24 orësh. Ky shërbim të sigurohet edhe në vendin e ekspozimit të armëve, për sa kohë ato mbahen të ekspozuara.

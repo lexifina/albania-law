@@ -1,0 +1,2 @@
+2. Koleksioni і armëve të zjarrit, përpara se t’u dorëzohet të regjistrohet dhe më pas të mbahet, në vazhdimësi, і inventarizuar, në llogari të veçantë, nga strukturat e Policisë së Shtetit.
+Elemente të këtij koleksioni, të cilësuara nga komisioni і përhershëm і objekteve të trashëgimisë kulturore si objekte të kësaj trashëgimie, të regjistrohen dhe pajisen me pasaportë, nga Qendra Kombëtare e Inventarizimit të Pasurive Kulturore.

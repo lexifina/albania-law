@@ -1,0 +1,1 @@
+6. Për parandalimin e cenimit të rëndë të rendit dhe të sigurisë publike apo në raste kur vërehet mosplotësimi і kushteve dhe і rregullave për ruajtjen dhe administrimin e sigurt të koleksionit, Policia e Shtetit e merr koleksionin në ruajtje të përkohshme, deri në rregullimin e kushteve/të situatës.
