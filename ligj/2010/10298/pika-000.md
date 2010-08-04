@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 2, datë 16.6.2010, i Këshillit të Ministrave “Për një shtesë në ligjin nr. 7746, datë 28.7.1993 “Për hidrokarburet (kërkimi dhe prodhimi)”, të ndryshuar”.
