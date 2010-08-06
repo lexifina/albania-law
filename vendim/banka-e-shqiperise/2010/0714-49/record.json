@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15151,
+  "title": "Për dhënien e miratimit paraprak për kryerjen e veprimtarive shtesë nga Banka raiffeisen sha",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "49",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2010-07-14",
+  "published": "2010-08-06",
+  "in_force": "2010-08-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/71c69f0a1f9f9ad59a49a9260a207212368d0f3aefb9c2aaf5dc2598aedc724c.docx",
+  "source_sha256": "71c69f0a1f9f9ad59a49a9260a207212368d0f3aefb9c2aaf5dc2598aedc724c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15151",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/07/14/49",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
