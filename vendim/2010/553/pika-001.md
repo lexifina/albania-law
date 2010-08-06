@@ -1,0 +1,1 @@
+1. Sezoni i gjuetisë, në të gjithë territorin e Republikës së Shqipërisë, hapet më 1 tetor dhe mbyllet më 15 shkurt. Vetëm për llojet shkurtë (Coturnix coturnix) dhe turtull (Streptopelia turtur), sezoni hapet më 15 gusht, ndërsa për llojin rosë marsatore (Anas querquedula), sezoni mbyllet më 15 mars.
