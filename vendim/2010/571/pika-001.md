@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni i segmentit rrugor që bashkon rrugën “Sali Llani” me rrugën “Dervish Hima”, në bashkinë e Burrelit.

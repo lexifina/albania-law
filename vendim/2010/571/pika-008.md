@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive 38 (tridhjetë e tetë) m² truall dhe 38 (tridhjetë e tetë) m² objekt, shpronësuar në favor të bashkisë së Burrelit, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen, sipas masës përkatëse, paraqitur në tabelën bashkëlidhur këtij vendimi dhe që është pjesë përbërëse e tij, për sipërfaqet 38 (tridhjetë e tetë) m² truall dhe 38 (tridhjetë e tetë) m² objekt, pronë private, në masën 2 173 923 (dy milionë e njëqind e shtatëdhjetë e tre mijë e nëntëqind e njëzet e tre) lekë.
