@@ -1,0 +1,1 @@
+1. Hapjen, në Universitetin e Tiranës, të programit të studimeve, të ciklit të parë, “Teknologji informacioni dhe komunikimi (me drejtim teknologji informacioni) ”. Në përfundim të këtij programi studimi lëshohet “Diplomë e nivelit të parë”, DNP, në “Teknologji informacioni dhe komunikimi (me drejtim teknologji informacioni) ”.
