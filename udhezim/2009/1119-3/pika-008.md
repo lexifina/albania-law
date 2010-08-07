@@ -1,0 +1,1 @@
+8. Shtojcat e këtij udhëzimi, pasi plotësohen, bëhen pjesë e dokumentacionit të dosjes dhe arkivohen së bashku me dokumentet e tjera të miratimit të ushtrimit të veprimtarisë apo projektit të propozuar.

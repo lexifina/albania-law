@@ -1,0 +1,1 @@
+5. Pasi plotësohet pyetësori në shtojcën II, bëhet vlerësimi përfundimtar i cilësisë së raportit, sipas shtojcës III bashkëlidhur, duke identifikuar çështjet që duhet të trajtohen më tej, si dhe çfarë informacioni mungon dhe që duhet të plotësohet nga propozuesi.
