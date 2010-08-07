@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për kontrollin në anë të rrugës dhe në zyrat e ndërmarrjeve, për sa i përket zbatimit të rregullave të kohës së punës, për personat, që kryejnë transport rrugor, dhe për orët e drejtuesve të mjeteve, sipas tekstit, që i bashkëlidhet këtij vendimi.
