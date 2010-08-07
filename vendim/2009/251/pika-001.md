@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes së ndryshuar, ndërmjet Albpetrol, sh.a.-së dhe Bankers Petroleum Albania, Ltd, për marrëveshjen hidrokarbure, të datës 19 qershor 2004, miratuar me vendimin nr.477, datë 16.7.2004 të Këshillit të Ministrave “Për miratimin e marrëveshjes për zhvillimin dhe prodhimin e hidrokarbureve, në vendburimin e Patos-Marinzës””, që i bashkëlidhet këtij vendimi.
