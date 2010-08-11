@@ -1,0 +1,1 @@
+1. Miratimin e vlerës së kompensimit të dëmeve të shkaktuara në kulturat bujqësore, si rrjedhojë e përmbytjeve nga reshjet e shiut, në komunat Libonik, Vreshtas dhe Pirg të qarkut të Korçës, në shumën 50 496 033.50 (pesëdhjetë milionë e katërqind e nëntëdhjetë e gjashtë mijë e tridhjetë e tre presje pesëdhjetë) lekë.
