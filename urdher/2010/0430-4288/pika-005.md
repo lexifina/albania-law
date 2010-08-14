@@ -1,0 +1,2 @@
+5. Rafineritë e naftës dhe impiantet e prodhimit të lëndëve djegëse të lëngshme, në hyrje dhe dalje të çdo rezervuari të produkteve të gatshme për tregtim, të vendosin dhe të mbajnë përherë në funksion, aparate matës sasie të kontrolluara dhe certifikuara më parë nga strukturat e Drejtorisë së Përgjithshme të Metrologjisë.
+Drejtoria e Përgjithshme e Metrologjisë i plumbos këto aparate, duke mbajtur për secilën dokumentacionin përkatës.

@@ -1,0 +1,1 @@
+7. Organet fiskale dhe të Inspektoratit Qendror Teknik kontrollojnë përfundimin e furnizimit dhe depozitimit të secilit rezervuar me nënprodukte të gatshme nga rafineritë dhe impiantet e prodhimit të lëndëve djegëse të lëngshme, dhe në prezencë të përfaqësuesve të këtyre subjekteve mbyllin saraçineskat e hyrjes dhe daljes së tyre, duke i plumbosur ato.

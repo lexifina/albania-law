@@ -1,0 +1,1 @@
+11. Rafineritë e naftës dhe impiantet e prodhimit të lëndëve djegëse të lëngshme, të krijojnë kushtet optimale për realizimin e kontrolleve nga ana e strukturave shtetërore tatimore dhe të Inspektoratit Qendror Teknik.

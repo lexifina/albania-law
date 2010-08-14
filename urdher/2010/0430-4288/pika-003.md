@@ -1,0 +1,3 @@
+3. Rafineritë e naftës dhe impiantet e prodhimit të lëndëve djegëse të lëngshme janë të detyruara të deklarojnë paraprakisht në strukturat përgjejëse të IQT-së dhe të organeve tatimore:
+a) Llojet e nënprodukteve të naftës dhe të lëndëve djegëse të lëngshme, të gatshme për tregtim, që janë të mundshme për t’u prodhuar në këto rafineri nafte ose në impiantet e prodhimit të lëndëve djegëse të lëngshme.
+b) Rezervuarët që do të përdoren për depozitimin e nënprodukteve të naftës dhe të lëndëve djegëse të lëngshme, të gatshme për tregtim, të specifikuara sipas emërtimit të projektit, llojit të produktit që depoziton dhe kapacitetit mbajtës të tyre.

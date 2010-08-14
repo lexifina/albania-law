@@ -1,0 +1,1 @@
+6. Furnizimi për depozitim i nënprodukteve të naftës dhe të lëndëve djegëse të lëngshme, të gatshme për tregtim, nga rafineritë e naftës dhe impiantet e prodhimit të lëndëve djegëse të lëngshme, për në rezervuarët e tregtimit me nënprodukte të gatshme, të bëhet në prani të organeve fiskale dhe IQT, të cilat paraqiten me njoftimin e subjektit.

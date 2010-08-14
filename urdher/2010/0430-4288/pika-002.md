@@ -1,0 +1,1 @@
+2. Ndalohet tregtimi i nënprodukteve të naftës dhe i lëndëve djegëse të lëngshme, të gatshme për tregtim, të prodhuara në rafineritë e naftës dhe në impiantet e prodhimit të lëndëve djegëse të lëngshme, të cilat janë të pacertifikuara për cilësinë e tyre nga IQT dhe janë të pamonitoruara nga ana sasiore prej organeve tatimore.

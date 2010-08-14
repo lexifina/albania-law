@@ -1,0 +1,1 @@
+10. Për çdo rast shitjeje të nënprodukteve të naftës ose të lëndëve djegëse të lëngshme, të gatshme për tregtim, nga ana e rafinerive dhe impianteve të prodhimit të lëndëve djegëse të lëngshme, plotësohet dokumentacioni, faturë tatimore, certifikatë origjine, certifikatë cilësie, duke e shoqëruar edhe me mostër përfaqësuese të nënproduktit që tregtohet.

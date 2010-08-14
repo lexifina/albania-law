@@ -1,0 +1,1 @@
+9. Rafineritë e naftës dhe impiantet e prodhimit të lëndëve djegëse të lëngshme e realizojnë tregtimin e produktit të gatshëm vetëm pas lëshimit të certifikatës nga ana e Inspektoratit Qendror Teknik dhe heqjes së plumbosjes së vendosur më parë nga organet përkatëse.
