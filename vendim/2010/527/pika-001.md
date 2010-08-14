@@ -1,0 +1,1 @@
+1. Kryeministrisë, në buxhetin e miratuar për vitin 2010, zëri “Shpenzime operative”, t’i shtohet fondi prej 27 500 000 (njëzet e shtatë milionë e pesëqind mijë) lekësh, për realizimin, prodhimin, transmetimin e spotit, organizimin e veprimtarive kulturore e të tjera, në kuadër të 20- vjetorit të rënies së komunizmit.
