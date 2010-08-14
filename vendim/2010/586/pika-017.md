@@ -1,0 +1,1 @@
+17. Studentët, që vijojnë një program të dytë studimit i nënshtrohen tarifës vjetore të shkollimit të njëjtë me koston e plotë të studimeve, të përcaktuar në tabelën nr.3, bashkëlidhur këtij vendimi (kolona 3). Nga ky rregull përjashtohen vetëm studentët e shkëlqyer.

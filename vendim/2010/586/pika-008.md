@@ -1,0 +1,1 @@
+8. Tarifat vjetore të shkollimit për studentët, që regjistrohen në vitin e parë, në programet e studimit të ciklit të parë me kohë të plotë, në vitin akademik 2010-2011, pasqyrohen në tabelën nr.3, bashkëlidhur këtij vendimi.

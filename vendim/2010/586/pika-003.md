@@ -1,0 +1,1 @@
+3. Kuotat e pranimit për programet e studimit të ciklti të parë me kohë të plotë, të përcaktuara në shkronjën “a” të pikës 2 të këtij vendimi, të ndara sipas programeve të studimit në institucionet publike të arsimit të lartë, pasqyrohen në tabelën nr.1, bashkëlidhur këtij vendimi.

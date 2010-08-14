@@ -1,0 +1,1 @@
+19. Pranimi i studentëve në shkollat e larta publike bëhet vetëm në një raund dhe mbështetet në rezultatet e shkollës së mesme, të Maturës Shtetërore (Merita), si dhe përzgjedhjes së degëve (preferenca) të bërë nga vetë kandidati/ja. Kuotat, që mbeten të parealizuara, nuk rishpërndahen.
