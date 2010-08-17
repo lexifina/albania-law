@@ -1,0 +1,1 @@
+1. Dhënien e një ndihme financiare prej 78 000 (shtatëdhjetë e tetë mijë) lekësh në muaj, për pagesën e qirasë së banesës, të ushqimit, energjisë elektrike e të ujit, çdo shtetasi të huaj, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi.
