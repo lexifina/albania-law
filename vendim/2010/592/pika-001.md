@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2010, zëri “Shpenzime operative”, t’i shtohet fondi prej 3 000 000 (tre milionë) lekësh, për mbulimin e shpenzimeve të kurimit, në Maqedoni, të shtetasit Sulejman Tafçiu.
