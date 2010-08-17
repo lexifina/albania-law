@@ -1,0 +1,1 @@
+2. Ngarkohet Enti Kombëtar i Banesave të lidhë kontratat e privatizimit me banorët, të përfshirë në listën që i bashkëlidhet këtij vendimi, sipas kushteve të privatizimit, të përcaktuara me udhëzim të veçantë të Ministrit të Punëve Publike dhe Transportit.
