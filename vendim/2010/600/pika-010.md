@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Rrugëve do të kryejë likuidimin e pronarit, për të cilin është bërë shënimi “Konfirmuar nga ZRPP-ja, “Objekti në proces legalizimi” pasi të kenë përfunduar procedurat përkatëse të legalizimit e të regjistrimit, si dhe pasi ky pronar të ketë paraqitur dokumentacionin e pronësisë.

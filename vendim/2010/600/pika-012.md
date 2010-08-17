@@ -1,0 +1,1 @@
+12. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Berat, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur do të realizohen procesi i hedhjes së trupit të rrugës mbi hartat treguese të regjistrimit, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
