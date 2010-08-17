@@ -1,0 +1,1 @@
+1. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministria e Shëndetësisë, nëpërmjet strukturave të tyre qendrore dhe rajonale, të marrin të gjitha masat për monitorimin e situatës në qendrat urbane e turistike në vend, duke ushtruar kontroll në të gjitha veprimtaritë e subjekteve fizike dhe juridike, të cilat janë burim zhurme.
