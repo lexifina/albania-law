@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, për sipërfaqen 160 (njëqind e gjashtëdhjetë) m², tokë arë, pronë private, me vlerë shpronësimi 72 160 (shtatëdhjetë e dy mijë e njëqind e gjashtëdhjetë) lekë.

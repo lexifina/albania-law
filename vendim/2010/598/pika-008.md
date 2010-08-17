@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë, 160 (njëqind e gjashtëdhjetë) m², tokë arë, shpronësuar në favor të bashkisë së Fushë - Krujës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
