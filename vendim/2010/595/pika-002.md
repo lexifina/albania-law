@@ -1,0 +1,1 @@
+2. Kalimin e truallit me nr.pasurie 9/15, zonë kadastrale 8330, me sipërfaqe 11416 m2, sipas planvendosjes që i bashkëlidhet këtij vendimi, si truall në bashkëpronësi të pandarë, në funksion të objekteve të pasqyruara në këtë planvendosje.

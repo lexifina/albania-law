@@ -1,0 +1,1 @@
+3. Ngarkohet Enti Kombëtar i Banesave të bëjë inventarizimin, me qëllim privatizimin në favor të familjeve që banojnë në këto godina, sipas procedurave të përcaktuara në udhëzimin nr.19, datë 13.9.2007 të Ministrit të Punëve Publike dhe Transportit “Për përcaktimin e rregullave të përgjithshme të zbatimit të programit të banesave me kosto të ulët”.

@@ -1,0 +1,1 @@
+1. Kalimin e pasurive të paluajtshme, apartamente, lokale, mjedise shërbimi, në pronësi të “INSIG” sh.a., regjistruar në nr.hipotekor 7792, datë 13.10.1995, të Zyrës Vendore të Regjistrimit të Pasurive të Paluajtshme, Tiranë, në përgjegjësi administrimi të Ministrisë së Punëve Publike dhe Transportit, për Entin Kombëtar të Banesave.

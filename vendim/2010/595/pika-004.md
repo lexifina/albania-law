@@ -1,0 +1,1 @@
+4. Ngarkohet Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Tiranë, për regjistrimin e pasurive të përmendura në pikën 1 të këtij vendimi, sipas ligjit nr.7843, datë 13.7.1994 “Për regjistrimin e pasurive të paluajtshme”, të ndryshuar.
