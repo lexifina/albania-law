@@ -1,1 +1,0 @@
-1. Për t’u pajisur me leje mjedisore për veprimtaritë me ndikim në mjedis, personat fizikë dhe juridikë, vendas ose të huaj, përgatisin dokumentet që kërkohen nga ligji “Për vlerësimin e ndikimit në mjedis” dhe nga vendimi i Këshillit të Ministrave nr.249 “Për miratimin e dokumentacionit për leje mjedisore dhe të elementeve të lejes mjedisore”.
