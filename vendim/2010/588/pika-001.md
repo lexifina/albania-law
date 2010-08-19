@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomik e fiskal, 2011-2013, të rishikuar, dhe të treguesve makroekonomikë e fiskalë të rishikuar, për periudhën 2011-2013, përkatësisht sipas lidhjes nr.1 “Treguesit kryesorë makroekonomikë”, dhe lidhjeve nr.2 e nr.2/1 “Treguesit fiskalë sipas buxhetit të konsoliduar”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

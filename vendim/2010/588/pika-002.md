@@ -1,0 +1,1 @@
+2. Miratimin e tavaneve përfundimtare të programit buxhetor afatmesëm, 2011-2013, sipas lidhjes nr.3 “Tavanet përfundimtare të ministrive të linjës/institucioneve buxhetore, sipas grup-artikujve të shpenzimeve”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
