@@ -1,58 +1,59 @@
 # Shtojca
 LIDHJA NR.1
-Paga mujore
-Pozicioni drejtues
-Grada diplomatike
-Paga individuale
-(paga bazë)
-Shtesa për gradë
+PAGA MUJORE
+POZICIONI DREJTUES
+GRADA DIPLOMATIKE
+PAGA INDIVIDUALE
+(PAGA BAZË)
+SHTESA PËR GRADË
 1
 2
 3
 4
 5
-Paga e grupit (PG) lekë
+Paga e grupit (PG)
+lekë
 Shtesa vjetore për vjetërsi (SHV)
-Shtesa për kualifikim (SHK) lekë
+Shtesa për kualifikim (SHK)
+lekë
 Shtesa për pozicion (SHP) lekë
 Sekretar i Përgjithshëm
 Ambasador
-12 000
+1
 2%
 115 000
 Drejtor i Përgjithshëm
-Ministër Fuqiplotë
-Ministër
-Këshilltar
+Ministër fuqiplotë.
+Ministër këshilltar.
 Konsull i Përgjithshëm
-12 000
+1
 2%
 105 000
 Drejtor
 Këshilltar
-12 000
+1
 2%
 88 000
 Përgjegjës sektori
-Sekretar i parë
-Konsull
-12 000
+Sekretar i Parë.
+Konsull.
+1
 2%
-69 000
-Sekretar i dytë
-Zëvendëskonsull
-12 000
+71 000
+Sekretar i Dytë.
+Zëvendëskonsull.
+1 ose 2
 2%
-52 000
-Sekretar i tretë
-Agjent konsullor
-12 000
+54 000
+Sekretar i Tretë.
+Agjent Konsullor.
+1 ose 2 ose 3
 2%
-41 000
+43 000
 Atashe
-12 000
+1 ose 2 ose 3
 2%
-31 000
+33 000
 LIDHJA NR.2
 POZICIONI
 KUALIFIKIMI/GRADA/
@@ -82,3 +83,20 @@ pasuniversitare/master i
 nivelit të dytë
 20 000
 Shënim. Vlerat 20 000 lekë, për diplomat “Master i nivelit të dytë/studime të thelluara pasuniversitare”, dhe 25 000 lekë, për gradën shkencore “Doktor i shkencave”, zbatohen për nëpunësit, që i kanë përfituar diplomat përkatëse në universitetet apo shkollat e arsimit të lartë në vendet e përcaktuara në listën, që i bashkëlidhet udhëzimit të përbashkët të Ministrisë së Arsimit dhe Shkencës, Ministrisë së Financave dhe Departamentit të Administratës Publike.
+Lidhja nr.3
+VLERA E PAGËS SË GRUPIT PËR GRUPET E DIPLOMAVE TË ARSIMIT UNIVERSITAR
+Grupi i diplomës
+Lloji i diplomës
+Vlera
+1
+Diplomë e Nivelit të Dytë (DND).
+Diplomë e Integruar e Nivelit të Dytë (DIND).
+Të barasvlershme me to, sipas legjislacionit të arsimit të lartë.
+12 000 lekë
+2
+Diplomë e Nivelit të Parë (DNP) apo të barasvlershme me to, sipas legjislacionit të arsimit të lartë + Master i Nivelit të Parë (MNP)
+11 000 lekë
+3
+Diplomë e Nivelit të Parë (DNP).
+Të barasvlershme me to, sipas legjislacionit të arsimit të lartë.
+10 000 lekë
