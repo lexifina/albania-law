@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 303, datë 15.7.2010
+PËR KRIJIMIN DHE MËNYRËN E ORGANIZIMIT E TË FUNKSIONIMIT TË AGJENCISË SHQIPTARE TË ZHVILLIMIT TË INVESTIMEVE
+Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
