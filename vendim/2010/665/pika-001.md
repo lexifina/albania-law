@@ -1,0 +1,5 @@
+1. Përbërja e Këshillit Tatimor:
+a) Këshilli Tatimor përbëhet nga 18 (tetëmbëdhjetë) anëtarë, prej të cilëve 12 (dymbëdhjetë) janë përfaqësues të tatimpaguesve dhe 6 (gjashtë) janë përfaqësues të institucioneve publike, sipas rregullave të përcaktuara në këtë vendim.
+b) Përfaqësuesit e tatimpaguesve përbëhen nga përfaqësues të dhomave të tregtisë dhe industrisë, të shoqatave të tjera të biznesit, të shoqatave profesionale të ekspertëve kontabël, të shoqatave të tjera të organizuara mbi bazë profesioni, të rregulluara me ligj të veçantë, si dhe të organizatave të tjera jofitimprurëse, që përfaqësojnë grupe të mëdha tatimpaguesish.
+c) Përfaqësuesit e institucioneve publike përbëhen nga përfaqësues të Ministrisë së Financave dhe Drejtorisë së Përgjithshme të Tatimeve.
+ç) Me propozimin e, të paktën, dy prej anëtarëve të Këshillit Tatimor dhe me miratimin e bashkëkryetarëve, me shkrim dhe/ose përmes postës elektronike, Këshilli mund të krijojë grupe pune të përkohshme, për të shqyrtuar çështje që do të diskutohen në mbledhjet e tij dhe për të përgatitur materiale me shkrim për t’u shqyrtuar në këto mbledhje.
