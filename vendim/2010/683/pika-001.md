@@ -1,0 +1,1 @@
+1.Hapjen, në Fakultetin e Shkencave të Lëvizjes të Universitetit të Sporteve, Tiranë, të programit të studimeve të ciklit të dytë, në “Shkenca sportive”, në përfundim të të cilit lëshohet Diplomë e Nivelit të Dytë, (DND), në “Shkenca sportive”.
