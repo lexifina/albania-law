@@ -1,0 +1,1 @@
+1.Hapjen, në fakultetin e drejtësisë të universitetit “Luigj Gurakuqi”, Shkodër, të programit të studimeve të ciklit të dytë “E drejta kushtetuese dhe administrative”, në përfundim të të cilit lëshohet Diplomë e Nivelit të Dytë, (DND), në “E drejta kushtetuese dhe administrative”.
