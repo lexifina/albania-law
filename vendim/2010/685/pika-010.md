@@ -1,0 +1,1 @@
+10. Fakulteti i Studimeve të Integruara me Praktikën (FASTIP) do të vijojë të funksionojë në përputhje me vendimin nr.827, datë 11.6.2008 të Këshillit të Ministrave “Për hapjen pranë universitetit “Aleksandër Moisiu”, Durrës, të Fakultetit të Studimeve të Integruara me Praktikën (FASTIP), dhe për mënyrën e funksionimit të tij për periudhën kalimtare”.
