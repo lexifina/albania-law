@@ -1,0 +1,1 @@
+1. Hapjen, në Fakultetin e Shkencave të Lëvizjes të Universitetit të Sporteve, Tiranë, të programit të studimeve të ciklit të dytë, “Master i Nivelit të Parë” (MNP), në “Stërvitje Sportive”, në përfundim të të cilit lëshohet diploma Master i Nivelit të Parë (MNP), në “Stërvitje Sportive”.
