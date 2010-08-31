@@ -1,0 +1,2 @@
+18. Përfaqësuesi i Drejtorisë së Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave dhe përfaqësuesi i AAPSK-së janë të detyruar të përfundojnë dorëzimin, me procesverbal, të objektit që shitet, brenda 35 (tridhjetë e pesë) ditëve nga data e dhënies së autorizimit, nga Ministria e Financave, blerësit.
+Dorëzimi i objektit bëhet, në mënyrë të detyrueshme, nga përfaqësuesi i Ministrisë së Financave dhe përfaqësuesi i institucionit administrues (sipas komisionit të vlerësimit të ngritur) në prani të blerësit.

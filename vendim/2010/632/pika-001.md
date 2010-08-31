@@ -1,0 +1,1 @@
+1. Procedurave, të parashikuara në këtë vendim, do t’i nënshtrohen të gjitha pasuritë e konfiskuara me vendim gjykate, në zbatim të dispozitave të ligjit nr.10 192, datë 3.12.2009 “Për parandalimin dhe goditjen e krimit të organizuar dhe trafikimit nëpërmjet masave parandaluese kundër pasurisë”.

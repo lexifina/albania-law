@@ -1,0 +1,1 @@
+2. Agjencia e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara, brenda 90 (nëntëdhjetë) ditëve nga data e njoftimit të vendimit gjyqësor të konfiskimit, i paraqet Ministrit të Financave raportin e vlerësimit tekniko-financiar, për pasurinë e konfiskuar.
