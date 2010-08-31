@@ -1,0 +1,1 @@
+4. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen, është 50 734 800 (pesëdhjetë milionë e shtatëqind e tridhjetë e katër mijë e tetëqind) lekë. Vlera e përgjithshme e shpronësimit të përballohet nga të ardhurat e komunës së Farkës, planifikuar në buxhetin e vitit 2010.
