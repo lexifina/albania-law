@@ -1,0 +1,1 @@
+1. Ministrisë së Drejtësisë, në buxhetin e miratuar për vitin 2010, t’i shtohet fondi prej 1 111 000 (një milion e njëqind e njëmbëdhjetë mijë) lekësh, për pagesën e pagës dhe kontributeve të sigurimeve shoqërore e shëndetësore të kryetarit të Komisionit Shtetëror për Ndihmën Juridke.
