@@ -1,0 +1,1 @@
+3. Pasuritë, në sipërfaqen prej 3996 (tre mijë e nëntëqind e nëntëdhjetë e gjashtë) m² tokë arë, pronë private që shpronësohen, si dhe pronarët që shpronësohen, janë sipas tabelës bashkëlidhur këtij vendimi dhe pjesë përbërëse e tij.

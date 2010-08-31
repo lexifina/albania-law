@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë prej 3 996 (tre mijë e nëntëqind e nëntëdhjetë e gjashtë) m² tokë arë, shpronësuar në favor të bashkisë së Përmetit, të bëhet brenda 30 ditëve, nga data e hyrjes në fuqi të këtij vendimi.

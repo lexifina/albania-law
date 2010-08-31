@@ -1,0 +1,1 @@
+4. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen, është 2 197 800 (dy milionë e njëqind e nëntëdhjetë e shtatë mijë e tetëqind) lekë. Vlera e përgjithshme e shpronësimit të përballohet nga të ardhurat e bashkisë së Përmetit, planifikuar në buxhetin e vitit 2010.
