@@ -1,0 +1,38 @@
+{
+  "qbz_id": 56441,
+  "title": "PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME, SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI DREJTORISË SË PËRGJITHSHME TË ARKIVAVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "660",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-08-04",
+  "published": "2010-09-02",
+  "in_force": "2010-09-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9c047a4aa16d7563e784c0c1b02ec3502238287bc40e125ddd642a0992391765.docx",
+  "source_sha256": "9c047a4aa16d7563e784c0c1b02ec3502238287bc40e125ddd642a0992391765",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56441",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/08/04/660",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33503,
+    55578,
+    59544,
+    64971,
+    21250,
+    64541,
+    15605,
+    67644,
+    11893,
+    55855,
+    54942
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
