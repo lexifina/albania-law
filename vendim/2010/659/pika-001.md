@@ -1,0 +1,1 @@
+1. Komunës Kukur, të qarkut të Elbasanit, në buxhetin e vitit 2010, t’i jepet fondi prej 20 097 000 (njëzet milionë e nëntëdhjetë e shtatë mijë) lekësh, si ndihmë për familjet e kësaj komune, të cilave u janë dëmtuar banesat nga rrëshqitja masive e tokës.
