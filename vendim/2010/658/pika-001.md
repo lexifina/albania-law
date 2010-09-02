@@ -1,0 +1,1 @@
+1. Bashkisë Bulqizë, qarku Dibër, në buxhetin e vitit 2010, t’i jepet fondi shtesë në shumën prej 6 999 974 (gjashtë milionë e nëntëqind e nëntëdhjetë e nëntë mijë e nëntëqind e shtatëdhjetë e katër) lekësh, për zbatimin e projektit të rikonstruksionit të Qendrës së Kulturës, Bulqizë.
