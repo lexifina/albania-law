@@ -1,0 +1,5 @@
+VENDIM
+Nr.643, datë 3.8.2010
+PëR ZHVENDOSJEN E DISA MJETEVE DETARE LUFTARAKE, Të FUNDOSURA DHE Të DALA JASHTë PëRDORIMIT DHE ARMATIMIT Të FORCAVE Të ARMATOSURA, Të DORëZUARA MINISTRISë Së TURIZMIT, KULTURëS, RINISë DHE SPORTEVE, ME qëLLIM USHTRIMIN E VEPRIMTARIVE Të ZHYTJEVE ÇLODHëSE
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 32 e 401 të ligjit nr.9251, datë 8.7.2004 “Kodi Detar”, me propozimin e Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve, Këshilli i Ministrave
+VENDOSI:

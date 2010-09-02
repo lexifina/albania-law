@@ -1,0 +1,1 @@
+1. Zhvendosjen e disa mjeteve detare luftarake, të fundosura dhe të dala jashtë përdorimit dhe armatimit të Forcave të Armatosura, të dorëzuara Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në zonat e përcaktuara sipas hartave dhe koordinatave bashkëlidhur këtij vendimi, me qëllim ushtrimin e veprimtarive zhytëse çlodhëse.
