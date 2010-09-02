@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve Publike dhe Transportit, në buxhetin e miratuar për vitin 2010, në programin “Ujësjellës-Kanalizime”, shpenzime korrente, t’i shtohet fondi prej 1 730 000 000 (një miliard e shtatëqind e tridhjetë milionë ) lekësh, për pagesën e detyrimeve për energji elektrike, të shoqërive të ujësjellësve, sipas lidhjes 1, që i bashkëlidhet këtij vendimi.

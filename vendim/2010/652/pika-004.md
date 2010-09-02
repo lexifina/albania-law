@@ -1,0 +1,1 @@
+4. Shuma e paguar për detyrimet e energjisë elektrike të shoqërive të ujësjellësve, që i korrespondon detyrimeve për energji elektrike të këtyre shoqërive, të zbritet nga transfertat e pakushtëzuara të vitit 2010, të njësive të qeverisjeve vendore, ku këto shoqëri ushtrojnë veprimtarinë e tyre.

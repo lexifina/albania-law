@@ -1,0 +1,1 @@
+3. Për pagesën e detyrimeve për energji elektrike, të shoqërive të ujësjellësve, sipas lidhjes 1 të këtij vendimi, të përdoret dhe fondi i padetajuar prej 340 000 000 (treqind e dyzet milionë) lekësh, nga zëri subvencione për ujësjellës, miratuar në buxhetin e Ministrisë së Punëve Publike dhe Transportit.
