@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës së kompensimit përkatës, që paraqitet në tabelën bashkëlidhur këtij vendimi, për sipërfaqen kullotë 2531 m2, me vlerë të përgjithshme shpronësimi prej 507 465 (pesëqind e shtatë mijë e katërqind e gjashtëdhjetë e pesë) lekësh.

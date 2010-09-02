@@ -1,0 +1,1 @@
+11. Zyra e Regjistrimit të Pasurive të Paluajtshme, Vlorë të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur të realizohet procesi i hedhjes së trupit të rrugës mbi hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
