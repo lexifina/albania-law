@@ -1,0 +1,1 @@
+1. Lejimin e Kryeministrisë, si autoritet kontraktor, për kryerjen e procedurave të prokurimit, me fondet e miratuara në buxhetin e këtij viti, me objekt “Abonimi i shtypit të brendshëm”, për nevojat e veta, si dhe për të lidhur kontratën përkatëse.
