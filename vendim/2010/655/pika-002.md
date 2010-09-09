@@ -1,0 +1,3 @@
+2.“Subjekte të interesuara për kalimin e kategorive të resurseve”:
+a) personat fizikë apo juridikë të cilët e kanë në pronësi private tokën bujqësore, tokën pyjore, pyllin, kullotën, livadhin, tokën e pafrytshme dhe që shprehin interes apo kërkojnë kalimin nga një kategori resursi në një kategori tjetër;
+b) organet e qeverisjes vendore apo institucione të tjera shtetërore që, bazuar në akte ligjore ose nënligjore, kanë në administrim/përdorim apo në pronësi tokën bujqësore, tokën pyjore, kullotën, livadhin, tokën e pafrytshme, sipërfaqe të brigjeve të lumenjve, sipërfaqe këto në pronësi shtetërore (publike) dhe që shprehin interes apo kërkojnë kalimin e një kategorie resursi në një kategori tjetër.

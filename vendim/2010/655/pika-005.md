@@ -1,0 +1,1 @@
+5. DAMT-ja në këshillin e qarkut, verifikon kërkesat apo propozimet e paraqitura sipas pikave 2 dhe 4 të këtij kreu, për saktësinë e përmbajtjes së tyre dhe, kur ato i gjen në përputhje me të dhënat e dokumentacionit kadastral që ajo disponon, ia kalon për shqyrtim këshillit të qarkut, bashkë me një relacion shpjegues, që miratohet nga kryetari.
