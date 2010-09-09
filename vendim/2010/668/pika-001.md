@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2010, t’i shtohet fondi prej 24 928 000 (njëzet e katër milionë e nëntëqind e njëzet e tetë mijë) lekësh, për realizimin e veprimtarive në kuadër të festimeve të 100-vjetorit të lindjes së Nënë Terezës.
