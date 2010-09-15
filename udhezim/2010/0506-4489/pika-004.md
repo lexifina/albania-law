@@ -1,0 +1,1 @@
+4.Përjashtohen nga zbatimi i këtij udhëzimi lëndët djegëse të kategorisë V, neni 10 i ligjit nr.8450, datë 24.2.1999 “Për përpunimin, transportimin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre”, i ndryshuar.

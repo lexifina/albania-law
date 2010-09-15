@@ -1,0 +1,1 @@
+3.Organi tatimor dhe/ose doganor do të kryejë procedurat për lejimin e tregtimit dhe/ose zhdoganimit të lëndës djegëse për qëllime industriale dhe publike, me emërtimin e kodeve dhe cilësisë sipas pikës 1, pasi subjekti të paraqesë certifikatën e cilësisë së mallit të lëshuar nga IQT dhe konfirmimin për ngjyrosjen e tij sipas pikës 2.
