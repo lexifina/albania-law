@@ -1,1 +1,0 @@
-7. Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, në buxhetin e miratuar për vitin 2007, t’i shtohet fondi prej 15 950 000 (pesëmbëdhjetë milionë e nëntëqind e pesëdhjetë mijë) lekësh, për të përballuar pagesat e grupit të ekspertëve deri në fund të vitit 2007.

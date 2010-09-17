@@ -1,1 +1,0 @@
-4. Grupi i ekspertëve, pas përfundimit të oponencës, harton raportin përkatës, i cili shqyrtohet dhe miratohet, me shumicë votash, nga këshilli drejtues i Agjencisë Kombëtare të Burimeve Natyrore. Materiali i oponencës, së bashku me raportin e miratuar, është pjesë e dokumenteve, që i dërgohen Autoritetit Kontraktues, për vazhdimin e procedurave.

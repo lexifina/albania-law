@@ -1,1 +1,0 @@
-3. Grupi i ekspertëve do të bëjë vlerësimin e projekteve për shfrytëzimin optimal të burimeve ujore, si dhe do të kryejë kontrollin teknik të projekteve, sipas kërkesave të parashikuara në ligjet nr.8093, datë 1.3.1996 “Për rezervat ujore”, të ndryshuar, dhe nr.8402, datë 10.9.1998 “Për kontrollin dhe disiplinimin e punimeve të ndërtimit”.
