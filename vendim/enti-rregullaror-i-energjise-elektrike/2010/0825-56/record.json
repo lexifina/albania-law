@@ -1,0 +1,28 @@
+{
+  "qbz_id": 15309,
+  "title": "PËR SHTYRJEN E AFATIT PËR REALIZIMIN E KUSHTEVE Të VENDOSURA NGA ERE SHOQËRISË “HERA” SHPK",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "56",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2010-08-25",
+  "published": "2010-09-17",
+  "in_force": "2010-09-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/0270707fb69fed20ac50db6d08fe571bed454663120bdec959475ef55f0a2b86.docx",
+  "source_sha256": "0270707fb69fed20ac50db6d08fe571bed454663120bdec959475ef55f0a2b86",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15309",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/08/25/56",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10271
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
