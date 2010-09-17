@@ -1,0 +1,28 @@
+{
+  "qbz_id": 15308,
+  "title": "PËR SHTYRJEN E AFATIT PËR REALIZIMIN E KUSHTEVE Të VENDOSURA NGA ERE SHOQËRISË “E-VENTO SRL ALBANIA” SHPK",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "55",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2010-08-25",
+  "published": "2010-09-17",
+  "in_force": "2010-09-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/143ddf6e13257d59412c174301b2e0c4e50d5fb2c7ccc0f0e2fa90d8330d0289.docx",
+  "source_sha256": "143ddf6e13257d59412c174301b2e0c4e50d5fb2c7ccc0f0e2fa90d8330d0289",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15308",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/08/25/55",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10269
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
