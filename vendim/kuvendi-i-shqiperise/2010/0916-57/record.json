@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15313,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR SHKARKIM MINISTRI",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "57",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2010-09-16",
+  "published": "2010-09-20",
+  "in_force": "2010-09-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b203a97b62dde02d5709800d7ddd79d8d73e32828aa00cf8cf736173da2174a2.docx",
+  "source_sha256": "b203a97b62dde02d5709800d7ddd79d8d73e32828aa00cf8cf736173da2174a2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15313",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/09/16/57",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
