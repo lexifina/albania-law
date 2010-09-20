@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen, në qytetin e Tiranës, të institucionit arsimor privat, parauniversitar, shkollë 9-vjeçare “Akademia Botërore e Tiranës” (World Academy of Tirana), që do ta zhvillojë mësimin edhe në gjuhën angleze.
