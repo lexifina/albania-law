@@ -1,0 +1,1 @@
+1. Kalimin në përdorim të Ministrisë së Arsimit dhe Shkencës, për universitetin “Ismail Qemali”, të objektit “Departamenti i Detarisë”, pjesë e pronës nr.904, me emërtesë “Akademia e Detarisë”, në Vlorë, për zhvillimin e programit mësimor, deri më datën 30.9.2017.

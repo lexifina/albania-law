@@ -1,0 +1,1 @@
+2. Ministrisë së Arsimit dhe Shkencës dhe universitetit “Ismail Qemali” Vlorë, i ndalohet ta ndryshojë destinacionin e pronës së përcaktuar në këtë vendim, ta tjetërsojë atë ose t’ua japë në përdorim të tretëve.
