@@ -1,0 +1,2 @@
+Miratimin, në parim, të marrëveshjes financiare, ndërmjet KfW, Frankufurt am Main dhe Ministrisë së Punëve Publike dhe Transportit (përfituesi), për shumën 975 475 euro, për shërbimet e ekspertizës së marrësit, në kuadër të studimit të fizibilitetit për programin “Infrastruktura vendore II”, financuar nga fondi i veçantë (Studien-und Beratungsfonds) 6021, dhënë nga Qeveria Gjermane.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
