@@ -1,0 +1,1 @@
+2. Objekti i veprimtarisë së Organit Kombëtar të Investigimit të Aksidenteve/Incidenteve Ajrore është investigimi i plotë i çdo aksidenti/incidenti ajror, në zbatim të ligjit nr.10 040, datë 22.12.2008 “Kodi Ajror i Republikës së Shqipërisë”, nëpërmjet kryerjes së shpejtë të procesit të investigimit dhe nxjerrjes së shkaqeve të aksidenteve/incidenteve ajrore.

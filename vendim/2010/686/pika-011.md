@@ -1,0 +1,1 @@
+11. Organi Kombëtar për Investigimin e Aksidenteve/Incidenteve Ajrore ka, të paktën, një investigues të aftë për të kryer funksionin e investiguesit në detyrë, në rastin e një aksidenti apo incidenti të rëndë në aviacion, i cili duhet të jetë i kualifikuar dhe me përvojë pune në aviacion, sipas përcaktimeve në rregulloren bashkëlidhur.

@@ -1,0 +1,1 @@
+8. Organi Kombëtar i Investigimit të Aksidenteve/Incidenteve Ajrore drejtohet nga kryetari dhe ka në përbërje gjashtë inspektorë. Kryetari është titullari i institucionit dhe përfaqëson Organin Kombëtar të Investigimit të Aksidenteve/Incidenteve Ajrore, në marrëdhënie me të tretët. Struktura dhe organika e tij miratohen me urdhër të Kryeministrit, me propozimin e ministrit.

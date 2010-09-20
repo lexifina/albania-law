@@ -1,0 +1,1 @@
+1. Krijimin e Organit Kombëtar të Investigimit të Aksidenteve/Incidenteve Ajrore në Aviacionin Civil, si një institucion juridik publik, në varësi të ministrit përgjegjës për transportet, me seli në Tiranë. Organi Kombëtar i Investigimit të Aksidenteve/Incidenteve Ajrore ka vulën dhe stemën e vet zyrtare.

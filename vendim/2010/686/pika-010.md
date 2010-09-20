@@ -1,0 +1,2 @@
+10. Kryetari dhe inspektorët e Organit Kombëtar të Investigimit të Aksidenteve/Incidenteve Ajrore në aviacion emërohen, lirohen dhe shkarkohen nga detyra me urdhër të ministrit përgjegjës për transportin, në përputhje me kriteret dhe procedurat e përcaktuara në vendimin nr.173, datë 7.3.2003 të Këshillit të Ministrave “Për emërimin, lirimin ose shkarkimin nga detyra të drejtuesve të institucioneve në varësi të Këshillit të Ministrave, Kryeministrit ose të ministrit”.
+Mandati i kryetarit është 4 (katër) vjet, me të drejtë rizgjedhjeje.

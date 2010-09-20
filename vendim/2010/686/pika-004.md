@@ -1,0 +1,1 @@
+4. Organi Kombëtar i Investigimit të Aksidenteve/Incidenteve Ajrore, për veprimtarinë e tij, i raporton ministrit përgjegjës për transportin. Organi i paraqet ministrit, në çdo kohë, me kërkesë të tij, çdo të dhënë ose informacion në lidhje me veprimtarinë e tij.

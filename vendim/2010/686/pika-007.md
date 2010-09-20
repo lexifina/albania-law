@@ -1,0 +1,1 @@
+7. Organi Kombëtar i Investigimit të Aksidenteve/Incidenteve Ajrore është institucion buxhetor dhe financohet nga Buxheti i Shtetit. Këshilli i Ministrave akordon fondet përkatëse, të mjaftueshme, për të realizuar procesin e plotë të investigimit, në rastin e ngjarjeve të caktuara.

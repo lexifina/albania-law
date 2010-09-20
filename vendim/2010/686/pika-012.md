@@ -1,0 +1,1 @@
+12. Marrëdhëniet e punës së punonjësve të Organit Kombëtar të Investigimit të Aksidenteve/Incidenteve Ajrore rregullohen me Kodin e Punës. Niveli i pagave të punonjësve të tij përcaktohet me vendim të Këshillit të Ministrave, sipas legjislacionit në fuqi.
