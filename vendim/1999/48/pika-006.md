@@ -1,1 +1,0 @@
-6. Për realizimin e përgjegjësive dhe të qëllimeve të ngarkuara e që kanë të bëjnë me grumbullimin, hetimin dhe ekzaminimin e të gjitha provave materiale, të gjithë institucionet shtetërore të mbështesin punën e bordit të hetimit, duke vënë në dispozicion të tij të gjitha mjetet e kërkuara, për realizimin e detyrave të përcaktuara në këtë vendim.
