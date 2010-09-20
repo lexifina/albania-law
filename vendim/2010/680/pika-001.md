@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen në qytetin e Tiranës, të institucionit arsimor privat parauniversitar, shkollë e mesme “Gjimnazi Kristian i Tiranës “Gjerasim D.Qirjazi””, që do ta zhvillojë mësimin edhe në gjuhën angleze.
