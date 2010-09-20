@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15316,
+  "title": "Për miratimin e dekretit të Presidentit të Republikës për emërim ministri",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "60",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2010-09-16",
+  "published": "2010-09-20",
+  "in_force": "2010-09-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/77e595b466a9e2425d3e92e3372634baec518bdfd1844e3952745a742cd15359.docx",
+  "source_sha256": "77e595b466a9e2425d3e92e3372634baec518bdfd1844e3952745a742cd15359",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15316",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/09/16/60",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
