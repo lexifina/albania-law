@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 3 pikëve për rezultatin teknik dhe financiar, në procedurën përzgjedhëse konkurruese (propozim i pakërkuar), që i jepet shoqërisë “Sheriff Builders”, sh.p.k., për dhënien me koncesion të këtij hidrocentrali.
