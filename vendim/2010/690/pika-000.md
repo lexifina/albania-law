@@ -1,0 +1,2 @@
+Miratimin, në parim, të marrëveshjes financiare, ndërmjet KfW-së, Frankfurt am Main dhe Republikës së Shqipërisë, përfaqësuar nga Ministria e Punëve Publike dhe Transportit (përfituesi), për shumën 949 750 euro për shërbimet e ekspertizës së marrësit, në kuadër të studimit të fizibilitetit të programit “Infrastruktura vendore I”, financuar nga fondi i veçantë (Studien-und Beratungsfonds) 6021, dhënë nga Qeveria Gjermane.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
