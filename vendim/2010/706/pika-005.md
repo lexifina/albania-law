@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale të shpronësimit, në shumën 2 533 000 (dy milionë e pesëqind e tridhjetë e tre mijë) lekë, të përballohet nga OST sh.a., si subjekt që garanton shpenzimet procedurale të këtij shpronësimi.
