@@ -1,0 +1,1 @@
+26. Veprimtaria e subjekteve, të pajisura me leje për ndërtimin dhe përdorimin e infrastrukturës së sistemeve të gazit, monitorohet nga strukturat e ministrisë përgjegjëse për energjinë dhe nga institucione e struktura të tjera shtetërore, të ngarkuara me ligj.

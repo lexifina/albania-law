@@ -1,0 +1,1 @@
+25. Kryerja e pagesave për ndërtimin dhe përdorimin e infrastrukturës së sistemeve të gazit, shlyerja e detyrimeve të tjera kontraktore, si dhe çdo detyrim doganor dhe fiskal, për këto veprimtari bëhen nëpërmjet dokumentacionit bankar.

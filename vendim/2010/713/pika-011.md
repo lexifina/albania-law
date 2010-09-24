@@ -1,0 +1,1 @@
+11. Kryetari i komisionit dhe tre anëtarët përfaqësues të ministrisë përgjegjëse për energjinë dhe për ekonominë, caktohen nga ministri përgjegjës për energjinë. Anëtarët e tjerë të komisionit caktohen nga ministrat përkatës.

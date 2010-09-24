@@ -1,0 +1,1 @@
+20. Kontrata hartohet në katër kopje, nga të cilat një kopje i dorëzohet zyrtarisht subjektit, të cilit i jepet leja, dhe nga një kopje u dërgohet, përkatësisht, Këshillit të Ministrave, ministrisë përgjegjëse për energjinë dhe Ministrisë së Financave.

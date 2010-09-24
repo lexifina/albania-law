@@ -1,0 +1,1 @@
+21. Në rast mosmiratimi nga Këshilli i Ministrave të lejes, kontrata e negociuar sipas përcaktimeve të bëra në shkronjën “b” të pikës 17 të këtij vendimi, konsiderohet e pavlefshme dhe kërkesa për leje konsiderohet e refuzuar.
