@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kV, Tiranë-Podgoricë, qarku Tiranë, sipas tabelës që i bashkëlidhet këtij vendimi.
