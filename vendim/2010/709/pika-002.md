@@ -1,0 +1,1 @@
+2. Për institucionet ku, sipas ligjit, siguria dhe shëndeti në punë është detyrë e tyre, ISHP-ja do të kontrollojë zbatimin e dispozitave që lidhen me kushtet e punës, kohëzgjatjen e punës e të pushimit, pagat, si dhe punësimin e të miturve.
