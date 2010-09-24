@@ -1,0 +1,1 @@
+3. Inspektorati Shtetëror i Punës bashkëpunon me Kapitanerinë e Përgjithshme të Porteve, për të pajisur me leje inspektorët e punës, me qëllim ushtrimin e kontrolleve për punëmarrësit që punojnë në porte, lidhur me zbatimin e legjislacionit të punës.
