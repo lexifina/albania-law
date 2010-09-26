@@ -1,0 +1,1 @@
+1. Dhënien me qira, me çmimin 1 (një) euro/kontrata, të një sipërfaqeje prej 87 586.8 (tetëdhjetë e shtatë mijë e pesëqind e tetëdhjetë e gjashtë pikë tetë) m², të Ndërmarrjes së Prodhimit të Çeliqeve, Elbasan, për zhvillimin e një veprimtarie prodhuese.
