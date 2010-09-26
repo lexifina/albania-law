@@ -1,0 +1,1 @@
+2. Inspektorati Shtetëror i Punës bashkëpunon me Institutin e Mjekësisë Ligjore për vënien në dispozicion të një kopjeje të procesverbalit që mbahet nga mjekësia ligjore për të evidentuar shkakun e aksidentit në punë.
