@@ -1,0 +1,1 @@
+23. Udhëzimi nr.5, datë 13.9.2006 “Për kërkesat teknike të caktimit të ngastrave e grupngastrave për shfrytëzim, të damkosjes së drurëve, të prerjes e asortimit, të transportit e stivimit së materialit drusor në anë të rrugës” dhe udhëzimi nr.4, datë 23.8.2007 “Për organizimin e ankandit të shitjes së lëndës drusore në pyjet publike”, shfuqizohen.

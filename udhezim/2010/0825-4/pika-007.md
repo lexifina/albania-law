@@ -1,0 +1,1 @@
+7. Shfrytëzimi i ngastrave/nënngastrave pyjore fillon pasi është hartuar projekti teknologjik i trajtimit/shfrytëzimit, subjekti ka lidhur kontratën e shfrytëzimit, janë marrë në dorëzim me procesverbal ngastrat e kontraktuara dhe është pajisur me lejen përkatëse të shfrytëzimit nga DSHP-ja.

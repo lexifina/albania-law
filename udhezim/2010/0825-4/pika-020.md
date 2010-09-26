@@ -1,0 +1,1 @@
+20. Subjekti juridik fitues i ankandit, gëzon të drejtën e trajtimit e shfrytëzimit të ngastrave/ grupngastrave pa ankand, deri në prerjet përfundimtare, të përcaktuara në planin e mbarështimit, të vendosura në studim.

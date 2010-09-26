@@ -1,0 +1,1 @@
+1. Trajtimi dhe shfrytëzimi i fondit pyjor publik janë veprimtari që përgatiten nga drejtoritë e shërbimit pyjor, duke përcaktuar masa teknike, teknologjike e financiare që mundësojnë realizimin e tyre në përputhje me kërkesat e ligjit nr.9385, datë 4.5.2005 “Për pyjet dhe shërbimin pyjor”, të ndryshuar.

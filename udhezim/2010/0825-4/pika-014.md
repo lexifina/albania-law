@@ -1,0 +1,1 @@
+14. Caktimi i ngastrave për t’u shfrytëzuar, shënimi i drurëve me damkë dhe matja e tyre, përpilimi i listëdamkave dhe hartimi i projektit teknologjik dhe tekniko-ekonomik të shfrytëzimit për secilën ngastër pyjore, së bashku me fondet që nevojiten për prodhimin e asortimenteve drusore, që dalin nga shfrytëzimi i drurëve në këmbë, bëhet deri më 30 korrik të vitit paraardhës.
