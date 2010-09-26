@@ -1,1 +1,0 @@
-5. Me nënshkrimin e kontratës, DSHP-ja i jep subjektit lejen e shfrytëzimit për pjesën e parë, në të cilën shënohen ngastra apo nënngastra, sasia dhe lloji i lëndës e asortimentet që do të prodhohen, si dhe datat e fillimit dhe të përfundimit të shfrytëzimit. Leja përpilohet në tre kopje, nga të cilat një i jepet subjektit, një sektorit pyjor dhe një qëndron në seksionin teknik.

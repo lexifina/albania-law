@@ -1,1 +1,0 @@
-4. Përpara lidhjes së kontratës, subjekti mund të kontrollojë në vend dhe t’u paraqesë me shkrim organeve pyjore vërejtjet që mund të ketë për sasinë e vëllimit drusor dhe asortimenteve që do të prodhojë. DSHP-ja, me komision, verifikon vërejtjet dhe, kur këto janë me vend, bën ndryshimet përkatëse.

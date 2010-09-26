@@ -1,1 +1,0 @@
-17. Përcaktimi i llojeve dhe sasive të bimëvë mjekësore, eterovajore e tanifere, që do të grumbullohen në një vit kalendarik, mbështetet në planet përkatëse të inventarizimit të përditësuara, duke iu referuar 10-20 llojeve kryesore të tyre.

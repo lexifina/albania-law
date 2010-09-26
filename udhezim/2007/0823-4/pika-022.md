@@ -1,1 +1,0 @@
-22. Me subjektin që shpallet fitues, përpilohet procesverbali, ku shënohen asortimentet e fituara sipas llojit, sasitë e vlefta totale, si dhe sasitë e vleftat totale të fituara të lëndës drusore në këmbë, për çdo ngastër/nënngastër. Procesverbali, në dy kopje firmoset nga palët dhe një kopje qëndron në DSHP, ndërsa tjetra i jepet subjektit fitues.

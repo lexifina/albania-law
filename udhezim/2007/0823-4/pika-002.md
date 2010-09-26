@@ -1,2 +1,0 @@
-2. Me ankand shiten edhe asortimentet e sekuestruara nga strukturat e shërbimit pyjor e institucione të tjera shtetërore jashtë ngastrave apo nënngastrave pyjore. Në këtë rast procesverbali i sekuestrimit, është pjesë përbërëse e dokumenteve të ankandit. Ankandet për lëndën e sekuestruar zhvillohen sa herë paraqitet nevoja, 5 ditë pas datës së shpalljes së njoftimit për zhvillimin e tyre.
-Shitja e asortimenteve drusore brenda ngastrës/nënngastrës pyjore, kur nuk gjendet autori i prerjes, nuk lejohet.

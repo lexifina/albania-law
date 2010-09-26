@@ -1,1 +1,0 @@
-6. Me miratim të ministrit, përveç ankandit të parashikuar në pikën 4, zhvillohen dhe ankande të tjerë, si në rastet emergjente, dëmtimet nga katastrofat natyrore e zjarret, gjatë ndërtimit të veprave të ndryshme, si rrugë auto, hidrocentrale, linja tensioni të lartë etj., pavarësisht nëse janë pyje të vjetër, të rinj apo në zonat e mbrojtura.

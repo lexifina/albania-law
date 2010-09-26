@@ -1,1 +1,0 @@
-2. Me subjektin që shpallet fitues nga tenderimi për trajtim apo shfrytëzim të fondit pyjor, lidhet kontrata. Ajo firmoset nga Drejtori i DSHP-së, përpilohet në tre kopje nga të cilat dy qëndrojnë në seksionin e administrim-menaxhimit dhe financë-marketingut, kurse e treta i jepet subjektit.

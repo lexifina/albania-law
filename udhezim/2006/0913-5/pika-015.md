@@ -1,1 +1,0 @@
-15. Materiali drusor, që rezulton nga hapja e rrugëve të brendshme e transporti i brendshëm dhe ai i rrëzuar e dëmtuar nga shkaqe natyrore, përfshihet në sasinë e materialit drusor të damkosur dhe të dhënë për shfrytëzim.

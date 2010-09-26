@@ -1,1 +1,0 @@
-15. Pas shpalljes së fituesit, DSHP-ja lidh me të kontratën, përgatit autorizimin dhe e dërgon menjëherë në llogarinë bankare të blerësit, duke kërkuar që blerësi të bëjë pagesën, sipas dokumentit bankar të lëshuar nga banka për ata konkurrues, në llogarinë bankare të DSHP-ja.

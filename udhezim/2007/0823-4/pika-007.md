@@ -1,1 +1,0 @@
-7. Pasqyra përmbledhëse e ngastrave e nënngastrave të damkosura, për lëndën drusore që do të nxirret për shitje, miratohen nga ministri, brenda datave 25 korrik dhe 25 shkurt. Diferencat e lejuara ndërmjet vëllimit të ngastrës/nënngastrës në kadastër dhe vëllimit të damkosur, merren të mirëqena kur janë plus-minus 10%.
