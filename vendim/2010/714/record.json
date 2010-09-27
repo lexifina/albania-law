@@ -1,0 +1,31 @@
+{
+  "qbz_id": 15354,
+  "title": "Për miratimin e dëmshpërblimit financiar për ish-të dënuarit politikë të regjimit komunist",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "714",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-08-25",
+  "published": "2010-09-27",
+  "in_force": "2010-09-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f2e3b5d9a15c1c327dc16804fa186ab2427c7a71ba1988be541b58c18a516ef6.docx",
+  "source_sha256": "f2e3b5d9a15c1c327dc16804fa186ab2427c7a71ba1988be541b58c18a516ef6",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15354",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/08/25/714",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56697,
+    8319,
+    9744,
+    8018
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
