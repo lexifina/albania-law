@@ -1,1 +1,0 @@
-4. Në rastet kur subjekti kërkon truall shtesë funksional për një objekt të veçuar, sipërfaqja, që do të përfitojë, do të jetë në masën e përcaktuar në tabelën, që i bashkëlidhet këtij vendimi, dhe e verifikuar nga komisioni, sipas pikës 3 të këtij vendimi.

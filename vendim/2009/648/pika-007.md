@@ -1,1 +1,0 @@
-7. Shitja e truallit shtesë funksional, sipas përcaktimit të pikës 1 të këtij vendimi, kryhet me lekë dhe të ardhurat e realizuara nga kjo shitje i kalojnë Agjencisë së Kthimit dhe Kompensimit të Pronës, për llogari të kompensimit financiar të ish-pronarëve.

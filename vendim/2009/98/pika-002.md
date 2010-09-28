@@ -1,1 +1,0 @@
-2. Ministria e Financave (Drejtoria e Administrimit dhe Shitjes së Pronave Publike) kryen edhe shitjen e trojeve të ndërmarrjeve e objekteve të tjera shtetërore, të privatizuara para krijimit të këtyre agjencive.
