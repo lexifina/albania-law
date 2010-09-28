@@ -1,0 +1,1 @@
+7. Organet e qeverisjes vendore apo çdo organ tjetër shtetëror, me të cilët subjektet kanë lidhur kontratë qiraje për truallin në përdorim, brenda 7 (shtatë) ditëve nga data e marrjes së kërkesës nga Drejtoria e Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, i përcjellin kësaj drejtorie vërtetimin, nëse subjekti kërkues ka paguar qiranë e truallit.
