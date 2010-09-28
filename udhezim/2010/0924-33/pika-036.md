@@ -1,0 +1,1 @@
+36. Në raste të veçanta, pas konsultimeve paraprake me organet e pushtetit vendor ose institucione të tjera shtetërore, që shprehin interes publik për marrjen me transferim kapital të sendeve në pronësi të ATK-së, i kërkohet Ministrit të Financave të ushtrojë autoritetin e tij ligjor për të mundësuar kryerjen e këtyre veprimeve.

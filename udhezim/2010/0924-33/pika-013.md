@@ -1,0 +1,1 @@
+13. Shitja me ankand e sendeve të kaluara në pronësi të ATK-së fillon pasi drejtoria vendos për një procedurë të tillë, duke përgatitur dhe publikuar njoftimin përkatës në Buletinin e Njoftimeve Publike, në faqen e internetit, në njësinë e organit të pushtetit vendor dhe në vende të dukshme pranë zyrave qendrore dhe atyre rajonale të ATK-së, si dhe në vendin ku ndodhet sendi.

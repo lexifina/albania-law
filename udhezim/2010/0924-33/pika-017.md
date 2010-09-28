@@ -1,0 +1,1 @@
+17. Pjesëmarrësit në ankand, pas regjistrimit të kërkesës në Drejtorinë e Përgjithshme të ATK-së, kanë të drejtë të verifikojnë dokumentacionin e pronësisë së sendit që do të shitet, i cili ndodhet i depozituar në këtë institucion, si dhe të njihen me gjendjen fizike të sendit në terren.

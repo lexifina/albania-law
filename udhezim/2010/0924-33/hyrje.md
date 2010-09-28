@@ -1,0 +1,5 @@
+UDHËZIM
+Nr.33, datë 24.9.2010
+PËR TRAJTIMIN E KREDIVE TË TRANSFERUARA NGA BANKAT E NIVELIT TË DYTË ME KAPITAL TËRËSISHT SHTETËROR NË AGJENCINË E TRAJTIMIT TË KREDIVE, KRITERET DHE KUSHTET PËR NDRYSHIMIN E MARRËVESHJES SË KREDISË, SI DHE PROcEDURAT E MARRJES NË PRONËSI TË PASURIVE TË LËNA SI GARANCI OSE JO NGA HUAMARRËSIT, TË ADMINISTRIMIT, SHITJES DHE DHËNIES ME QIRA APO ME ENFITEOZË TË KËTYRE PASURIVE
+Në mbështetje të pikës 4 të nenit 102 të Kushtetutës së Republikës së Shqipërisë, ligjit nr. 9731, datë 10.5.2007 “Për disa ndryshime dhe shtesa në ligjin nr.8894, datë 14.5.2002 “Për Agjencinë e Trajtimit të Kredive”, të ndryshuar, dhe pikës 1 kreu IV të vendimit nr.681, datë 11.6.2009 të Këshillit të Ministrave “Për trajtimin e kredive të transferuara nga bankat e nivelit të dytë me kapital tërësisht shtetëror në Agjencinë e Trajtimit të Kredive, për kriteret dhe kushtet për ndryshimin e marrëveshjes së kredisë, si dhe procedurat e marrjes në pronësi të pasurive të lëna si garanci ose jo nga huamarrësit, të administrimit, shitjes dhe dhënies me qira apo me enfiteozë të këtyre pasurive ”, të ndryshuar, Ministri i Financave
+UDHËZON:

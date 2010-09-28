@@ -1,0 +1,1 @@
+29. Pjesëmarrësit në ankand, që tërhiqen pa dhënë asnjë ofertë për vlerën e sendit të shpallur për shitje, u konfiskohet garancia bankare. Pjesëmarrësve të tjerë në ankand, që kanë dhënë oferta, por nuk janë shpallur fitues, u kthehet garancia bankare.

@@ -1,0 +1,1 @@
+34. Sendi që rezulton i pashitur për shkak se personi i shpallur fitues, nuk paguan brenda afatit ligjor diferencën e çmimit të mbetur, pas zbritjes së vlerës së garancisë bankare, rishpallet për shitje duke zbatuar procedurat e publikimit të shitjes me ankand nga e para.

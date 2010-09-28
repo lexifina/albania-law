@@ -1,0 +1,1 @@
+15. Zyrat rajonale të ATK-së ose specialisti i Drejtorisë së Përgjithshme të ATK-së, dërgojnë zyrtarisht në drejtori, procesverbalin për vendosjen e afisheve brenda afatit të botimit të njoftimit në Buletinin e Njoftimeve Publike.

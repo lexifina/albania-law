@@ -1,0 +1,1 @@
+11. Procedura e rivlerësimit miratohet nga drejtoria e ATK-së pas një vlerësimi paraprak që kryen eksperti përkatës i këtij institucioni. Akti i ri i vlerësimit përgatitet nga eksperti i licencuar dhe shpenzimet i ngarkohen debitorit.

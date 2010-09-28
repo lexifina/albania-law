@@ -1,0 +1,1 @@
+38. ATK-ja, në përputhje me kërkesat e vendimit të Këshillit të Ministrave nr.681, datë 11.6.2009, ndryshuar me vendimin e Këshillit të Ministrave nr.450, datë 16.6.2010 dhe këtij udhëzimi, ka të drejtë të hartojë rregulloren e brendshme për zhvillimin e ankandit, e cila miratohet me vendim të Këshillit Mbikëqyrës.

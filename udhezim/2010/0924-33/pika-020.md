@@ -1,0 +1,1 @@
+20. Kur për sendet e shpallura për shitje, sipas procedurave të këtij vendimi, nuk paraqitet asnjë kërkesë për blerjen e tyre, ATK-ja cakton një vlerë tjetër, më të ulët se vlera e shpalljes së ankandit të parë dhe zhvillon ankandin e dytë.

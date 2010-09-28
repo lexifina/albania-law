@@ -1,0 +1,1 @@
+30. Brenda 10 ditëve nga zhvillimi i ankandit, personi që ka fituar të drejtën e blerjes së sendit, njoftohet zyrtarisht për vendimin e marrë nga drejtoria e ATK-së për këtë qëllim dhe procedurat e mëtejshme të pajisjes me autorizim për kalim pronësie.
