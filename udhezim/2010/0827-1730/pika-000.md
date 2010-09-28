@@ -1,0 +1,1 @@
+Qendra rezidenciale dhe ditore, publike dhe jopublike, të përkujdesit shoqëror për personat me aftësi të kufizuara (PAK) ofrojnë shërbime në përputhje me standardet e miratuara dhe procedurat e mëposhtme:

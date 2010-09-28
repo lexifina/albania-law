@@ -1,0 +1,8 @@
+1. Deklarata e qëllimit
+1.1 Të gjitha institucionet rezidenciale dhe ditore, publike dhe jopublike, të kujdesit për PAK, hartojnë deklaratën e qëllimit, ku parashtrohet filozofia, synimet dhe objektivat e institucionit.
+1.2 Në deklaratën e qëllimit përcaktohen misioni, objektivat dhe vlerat e shtëpisë/qendrës, shërbimet që ofrohen, struktura organike e qendrës, të dhënat për personelin, procedurat e shërbimeve, mbrojtja dhe siguria e PAK, lidhja me familjarët dhe të afërmit, procedura e ankimimit, largimit nga qendra etj. (Moduli 1: Udhëzues për deklaratën dhe standardet).
+1.3 Deklarata e qëllimit. Ndihmon personelin dhe profesionistët të vlerësojnë nevojat e PAK dhe sistemimin e tyre në institucion; informon stafin, PAK dhe familjarët e tij për strukturën e qendrës dhe shërbimet që ofrohen; ndihmon drejtuesin për të marrë vendime për sistemimin e PAK dhe menaxhimin e institucionit.
+1.4 Deklarata e qëllimit ekspozohet në një vend të dukshëm për personelin, PAK, familjarët, vizitorët, inspektorët e shërbimeve etj.
+1.5 PAK, familjarët, të afërmit (vëllezërit, motrat etj.) duhet të konfirmojnë se janë njohur me deklaratën dhe disponojnë një kopje të saj.
+1.6 Një udhëzues që përmban objektivat e institucionit, shërbimet social-mjekësore që ofrohen, respektimin e të drejtave dhe plotësimin e kërkesave të PAK, format e menaxhimit të institucionit, kërkesat strukturore, ambientale, organizative e funksionale dhe burimet njerëzore të qendrës, vihet në disozicion të përfituesve dhe familjarëve.
+1.7 Deklarata e qëllimit dhe udhëzuesi për PAK, hartohen duke përfshirë stafin e qendrës, profesionistët dhe familjarët e PAK (Moduli 2: Shembulli i një deklarate).
