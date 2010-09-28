@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2010, zëri “Shpenzime operative”, t’i shtohet fondi prej 1 100 000 (një milion e njëqind mijë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të znj. Naida Kapo, në Itali.
