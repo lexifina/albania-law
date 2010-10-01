@@ -1,0 +1,1 @@
+8. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, me marrjen e dokumentacionit të sipërpërmendur, kryen procedurat e nevojshme në zbatim të ligjit nr.9901, datë 14.4.2008 “Për tregtarët dhe shoqëritë tregtare”, dhe, pas kryerjes së këtyre procedurave, ia dërgon dokumentacionin Drejtorisë së Administrimit dhe Shitjes së Pronave Publike në Ministrinë e Financave.

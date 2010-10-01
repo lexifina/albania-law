@@ -1,0 +1,1 @@
+2. Ministri përgjegjës për ekonominë nxjerr urdhrin për shitjen e truallit të domosdoshëm të shoqërisë tregtare, në të cilën shteti zotëron aksione apo kuota dhe së cilës trualli i është dhënë në përdorim apo me qira.

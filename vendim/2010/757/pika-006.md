@@ -1,0 +1,1 @@
+6. Ekspertët vlerësues hartojnë genplanin përkatës për sipërfaqen e domosdoshme për kryerjen e veprimtarisë së shoqërisë, si dhe genplanin e pjesës së mbetur të sipërfaqes, nisur nga genplani ekzistues i shoqërisë dhe dokumentet e tjera të saj, në 5 (pesë) kopje origjinale, brenda 30 (tridhjetë) ditëve nga data e marrjes së informacionit përkatës për shoqërinë.

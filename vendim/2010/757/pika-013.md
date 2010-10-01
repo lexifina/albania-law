@@ -1,0 +1,1 @@
+13. Në rastin e konfirmimit nga shoqëria të blerjes së sipërfaqes së domosdoshme për veprimtarinë e saj, Drejtoria e Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, brenda 5 (pesë) ditëve lëshon autorizimin përkatës, për kryerjen e pagesës së truallit, sipas legjislacionit në fuqi.

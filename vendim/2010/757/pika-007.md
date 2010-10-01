@@ -1,0 +1,1 @@
+7. Komisioni, pas përgatitjes së këtyre genplaneve, i drejton institucionit të prefektit në territorin, ku ndodhet shoqëria, kërkesën për konfirmimin e tyre nga prefektura, e cila, brenda 20 (njëzet) ditëve nga data e marrjes së kërkesës përkatëse, konfirmon genplanin e paraqitur në pesë kopje origjinale dhe e përcjell dokumentacionin të nënshkruar dhe të vulosur nga ana e saj.

@@ -1,0 +1,1 @@
+12. Shoqëria, brenda 20 (njëzet) ditëve nga data e marrjes së kërkesës, i kthen përgjigje Drejtorisë së Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, ku shprehet se është dakord për blerjen e sipërfaqes së domosdoshme për ushtrimin e veprimtarisë së saj dhe, në të kundërt, nëse refuzon ta blejë këtë truall, ajo duhet të argumentojë arsyet e mosblerjes.

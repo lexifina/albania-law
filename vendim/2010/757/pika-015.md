@@ -1,0 +1,1 @@
+15. Në rastet e blerjes së truallit nga shoqëria, vlera e paguar nga ajo u kalon drejtpërdrejt subjekteve të shpronësuara, për kompensimin, nëse ka të tillë, sipas vendimeve përkatëse, të konfirmuara nga Agjencia e Kthimit dhe Kompensimit të Pronave.

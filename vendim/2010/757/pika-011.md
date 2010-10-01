@@ -1,0 +1,1 @@
+11. Pas marrjes së këtij informacioni, Drejtoria e Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, i dërgon një shkresë shoqërisë tregtare, ku i kërkon konfirmimin për blerjen e sipërfaqes së domosdoshme për ushtrimin e veprimtarisë së saj, sipas genplanit të konfirmuar nga prefektura.

@@ -1,0 +1,1 @@
+16. Në rastet kur, sipas konfirmimit të Agjencisë së Kthimit dhe Kompensimit të Pronave, nuk ka subjekte të shpronësuara për sipërfaqen përkatëse, vlera e truallit, e paguar nga shoqëria, kalon në fondin e kompensimit financiar për ish-pronarët.
