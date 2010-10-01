@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik “Për kërkesat thelbësore dhe vlerësimin e konformitetit të pajisjeve të gazit”, që përafron me direktivën europiane EUR-lex 31990L0396, datë 29 qershor 1990 “Mbi përafrimin e ligjeve të vendeve anëtare, të lidhura me pajisjet që përdorin lëndë djegëse të gaztë”, sipas tekstit, që i bashkëlidhet këtij vendimi.
