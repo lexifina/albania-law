@@ -1,0 +1,6 @@
+4. Pagesa e taksës mbi të drejtën e përdorimit të truallit shtetëror
+4.1 Taksa mbi të drejtën e përdorimit të truallit shtetëror paguhet në bankë, për llogari të organeve tatimore, brenda datës 15 shkurt të vitit pasardhës. Ekzekutimi i marrëveshjes së pagesës me këste nuk pezullon pagesën e plotë të taksës vjetore mbi të drejtën e përdorimit të truallit shtetëror.
+4.2 Në rastet kur trualli në përdorim privatizohet dhe bëhet kërkesë për pagesë të menjëhershme të vlerës së truallit, sipas dispozitave të nenit 18 të ligjit, pezullohet detyrimi për pagesën e taksës vjetore mbi të drejtën e përdorimit të truallit.
+4.3 Pezullimi i detyrimit hiqet në rastin kur individi heq dorë nga kërkesa e tij për blerjen dhe pagesën e menjëhershme të truallit, apo kur nuk paguan menjëherë detyrimin në ditën e caktuar nga Drejtoria e Administrimit dhe Shitjes së Pronës Publike.
+4.4 Në rastet e heqjes së pezullimit të detyrimit, llogaritja e taksës bëhet sikur pezullimi të mos ishte vendosur asnjëherë. Urdhri i pezullimit të detyrimit për pagesën e taksës dhe urdhri për heqjen e pezullimit bëhen nga Ministri i Financave.
+4.5 Për vjeljen e taksës mbi të drejtën e përdorimit të truallit shtetëror ngarkohen drejtoritë rajonale tatimore.

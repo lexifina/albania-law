@@ -1,0 +1,4 @@
+2. Detyrimi për pagimin e taksës mbi të drejtën e përdorimit të truallit ndaj personit fizik tregtar, bëhet për llogari të individit.
+2. Detyrimi për raportimin e të dhënave
+2.1 Personat që detyrohen ta paguajnë taksën mbi të drejtën e përdorimit të truallit shtetëror duhet të raportojnë në drejtoritë rajonale tatimore të dhënat për sipërfaqen e truallit në përdorim, vendndodhjen, si dhe aktin, në bazë të të cilit e gëzojnë të drejtën e përdorimit të truallit shtetëror. Për raportimin e të dhënave sa më sipër për personat juridikë ngarkohen administratorët e personave juridikë, tregtarë, si dhe drejtuesit e ndërmarrjeve shtetërore.
+2.2 Administrata tatimore qendrore, për të saktësuar rastet që përfshihen në fushën e zbatimit të ligjit nr.10 270, datë 22.4.2010, mund të kërkojë informacione shtesë në lidhje me truallin apo të dhëna të tjera që i nevojiten.
