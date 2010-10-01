@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Kryevidh të qarkut të Tiranës, që transferohen në pronësi ose në përdorim të kësaj komune, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 113 (njëqind e trembëdhjetë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 794 (shtatëqind e nëntëdhjetë e katër).
