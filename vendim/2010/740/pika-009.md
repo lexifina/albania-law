@@ -1,0 +1,1 @@
+9. Regjistrimi i ri i pasurisë prej 1800 (një mijë e tetëqind) m2 tokë arë, shpronësuar në favor të bashkisë së Bilishtit, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

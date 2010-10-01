@@ -1,0 +1,1 @@
+3. Pasuritë, në sipërfaqen prej 1800 (njëmijë e tetëqind) m2 tokë arë, pronë private, që shpronësohen, si dhe lista e pronarëve që shpronësohen, janë sipas tabelës bashkëlidhur këtij projektvendimi dhe pjesë përbërëse e tij.
