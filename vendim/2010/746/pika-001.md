@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2010, në artikullin “Shpenzime operative”, i shtohet fondi prej 2 500 000 (dy milionë e pesëqind mijë) lekësh, për përballimin e shpenzimeve të kurimit të z. Niko Verushi, në Francë.
