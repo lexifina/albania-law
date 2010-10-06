@@ -1,0 +1,1 @@
+13. Pas asgjësimit të vulave si më sipër, Ministria e Drejtësisë vë në dijeni institucionet, të cilave u është dërguar më parë modeli i vulës dhe firmës së përmbaruesit, se personi nuk e ushtron më veprimtarinë, se ato vula nuk janë më në përdorim dhe se dokumentacioni i paraqitur me vula sipas modelit të treguar, pas datës kur janë asgjësuar vulat duhet konsideruar i pavërtetë.

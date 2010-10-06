@@ -1,0 +1,1 @@
+6. Institucioneve qendrore më të rëndësishme, si dhe subjekteve të tjera që vlerësohen nga Ministri i Drejtësisë se kanë lidhje të ngushtë me veprimtarinë e përmbaruesve gjyqësorë privatë u dërgohet zyrtarisht, për çdo përmbarues gjyqësor privat, një fletë e bardhë e nënshkruar dhe e vulosur me vulën e tij.

@@ -1,0 +1,1 @@
+11. Përmbaruesi, i cili kërkon të rifillojë veprimtarinë përmbarimore, duhet të paraqesë kërkesë, për pajisjen me vulë të re, pranë strukturës përgjegjëse të Ministrisë së Drejtësisë. Në këtë rast, zbatohen rregullat e parashikuara në pikat 3 dhe 4 të këtij urdhri për marrjen në dorëzim të vulës.

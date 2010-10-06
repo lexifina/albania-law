@@ -1,0 +1,1 @@
+1. Pas certifikimit nga Ministri i Drejtësisë dhe marrjes së aktit administrativ përkatës nga Qendra Kombëtare e Licencimit për ushtrimin e veprimtarisë, përmbaruesi gjyqësor privat paraqet kërkesë pranë strukturës përgjegjëse në Ministrinë e Drejtësisë, për pajisjen me vulën e njomë.

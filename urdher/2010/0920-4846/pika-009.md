@@ -1,0 +1,1 @@
+9. Vulat e përmbaruesve gjyqësorë privatë, që nuk e ushtrojnë më detyrën, në përputhje me nenin 21 të ligjit nr.10 031, datë 11.12.2008 “Për shërbimin përmbarimor gjyqësor privat”, kërkohen e merren nga Ministria e Drejtësisë.
