@@ -1,0 +1,8 @@
+2. Në zbatim të nenit nr.11 dhe 12 të ligjit, llogaritja, caktimi dhe pagesa e përfitimeve suplementare bëhet nga Instituti i Sigurimeve Shoqërore. Përfitimet suplementare për personat me tituj shkencorë, jepen me kërkesën e të interesuarit, i cili paraqet në drejtorinë rajonale të sigurimeve shoqërore përkatëse, dokumentacionin, si më poshtë:
+a) Kërkesa për pension suplementar, sipas modelit bashkëlidhur;
+b) Një fotokopje e kartës së identitetit e nënshkruar nga personi i interesuar, me emër, mbiemër, firmë dhe me adresën e vendbanimit ose certifikatë personale me fotografi;
+c) Fotokopje e noterizuar e dëshmisë për shenjën e titullit;
+d) Vërtetim për tituj shkencorë, lëshuar nga Komisioni i Kualifikimit Shkencor;
+e) Vërtetim nga qendra e punës për kontributet suplementare të paguara nga data 1.1.2010 dhe deri në datën e lindjes të së drejtës.
+Formulari i kërkesës për pension (a) dhe vërtetimi për kontributet e paguara (e) gjendet në agjencinë e sigurimeve shoqërore të qytetit ku i interesuari ka vendbanimin.
+Për çdo përfitues, drejtoria rajonale e sigurimeve shoqërore krijon një dosje me dokumente. Rregullat e pranimit të dokumenteve, regjistrimit të kërkesës për përfitim suplementar, plotësimit të dosjes së pensionit me vërtetime të brendshme që lëshohen nga strukturat e sigurimeve shoqërore, rregullat dhe procedurat e plotësimit të vendimit të caktimit të përfitimit, të plotësimit të kartelës financiare dhe urdhërpagesës, veprimet për ndryshimin, pezullimin, mbylljen apo transferimin e përfitimit, janë të njëjta me ato të përcaktuara nga Instituti i Sigurimeve Shoqërore në rregulloren nr.3, datë 15.8.1996 “Për caktimin, administrimin dhe pagimin e përfitimeve suplementare shtetërore”.

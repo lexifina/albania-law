@@ -1,0 +1,3 @@
+1. Në zbatim të nenit nr.7, si bazë për llogaritjen e pensionit mujor suplementar për personat e përcaktuar në nenin 2 të ligjit të sipërshënuar janë:
+a) Periudha nga data e marrjes së titullit shkencor respektiv, të njohur nga ky ligj dhe deri në datën e lindjes të së drejtës për pension suplementar. Kur e drejta për përfitim suplementar lind pas datës 1.1.2010, periudha e gëzimit të titullit është e vlefshme vetëm në rast se janë paguar kontributet suplementare sipas nenit 4 të ligjit.
+b) Paga referuese, e cila është paga bazë mujore, përjashtuar shtesat për funksion, që zbatohet për të njëjtin titull në momentin kur personi ka plotësuar kushtet e përfitimit, sipas nenit 6 të ligjit të sipërshënuar.
