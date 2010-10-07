@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme e Policisë së Shtetit (Drejtoria e Rendit dhe Sigurisë Publike), pas shqyrtimit të kërkesës, lëshon autorizimet përkatëse dhe ia dërgon subjektit kërkues dhe një kopje për dijeni Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave.

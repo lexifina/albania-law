@@ -1,0 +1,1 @@
+3. Drejtoritë e shërbimit pyjor, pas përfundimit të procedurave të konkurrimit, para çdo sezoni, dërgojnë pranë Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave listën e subjekteve dhe personave fizikë, juridikë apo shoqatave që kanë fituar të drejtën e përdorimit të zonave të gjuetisë apo të mbarështimit të faunës së egër objekt gjuetie.

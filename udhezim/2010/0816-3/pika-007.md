@@ -1,0 +1,1 @@
+7. Subjektet fizike, juridike apo shoqatat që kanë zona në përdorim dhe mbarështojnë faunën e egër, dorëzojnë në komisariatin e policisë të rrethit dhe DSHP-në përkatëse një kopje të autorizimit të përkohshëm për mbajtje dhe përdorim arme gjahu.
