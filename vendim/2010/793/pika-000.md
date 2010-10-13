@@ -1,0 +1,4 @@
+Përcaktimin, në zbatim të ligjit nr.10 142, datë 15.5.2009, të vjetërsisë në shërbim, të pagës referuese, të procedurave të përfitimeve, të dokumentacionit, të kontributeve dhe të periudhave të sigurimit e të financimit të përfitimeve, si më poshtë vijon:
+I. VJETËRSIA NË SHËRBIM
+Në mbështetje të ligjeve nr.9210, datë 23.3.2004 “Për statusin e ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë”, nr.9749, datë 4.6.2007 “Për Policinë e Shtetit”, nr.8869, datë 22.5.2003 “Për Gardën e Republikës së Shqipërisë”, të ndryshuar, nr.9357, datë 17.3.2005 “Për Shërbimin Informativ të Shtetit”, nr.10 032 datë 11.12.2008 “Për Policinë e Burgjeve”, nr.8766, datë 5.4.2001 “Për mbrojtjen nga zjarri dhe për shpëtimin”, nr.10 002, datë 6.10.2008 “Për Shërbimin e Kontrollit të Brendshëm në Ministrinë e Brendshme” dhe të nenit 3 e për zbatimin e neneve 12, 13, 14, 16, 18 dhe 26 të ligjit nr.10 142, datë 15.5.2009,
+A. Njihet si vjetërsi në shërbim:

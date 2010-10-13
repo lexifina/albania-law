@@ -1,0 +1,5 @@
+VENDIM
+Nr.793, datë 24.9.2010
+PËR ZBATIMIN E LIGJIT NR.10 142, DATË 15.5.2009 “PËR SIGURIMIN SHOQËROR SUPLEMENTAR TË USHTARAKËVE TË FORCAVE TË ARMATOSURA, TË PUNONJËSVE TË POLICISË SË SHTETIT, TË GARDËS SË REPUBLIKËS, TË SHËRBIMIT INFORMATIV TË SHTETIT, TË POLICISË SË BURGJEVE, TË POLICISË SË MBROJTJES NGA ZJARRI DHE TË SHPËTIMIT E TË PUNONJËSVE TË SHËRBIMIT TË KONTROLLIT TË BRENDSHËM NË REPUBLIKËN E SHQIPËRISË”
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 3, 4, 5, pika 1, 11, 22, 23, pika 1, 26 e 29, të ligjit nr.10 142, datë 15.5.2009 “Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura, të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit Informativ të Shtetit, të Policisë së Burgjeve, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit e të punonjësve të Shërbimit të Kontrollit të Brendshëm në Republikën e Shqipërisë”, me propozimin e Ministrit të Financave, të Ministrit të Mbrojtjes, të Ministrit të Brendshëm e të Ministrit të Drejtësisë, Këshilli i Ministrave
+VENDOSI:
