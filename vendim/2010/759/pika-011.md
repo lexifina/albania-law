@@ -1,0 +1,1 @@
+11. Niveli i bursës, për nxënësit dhe studentët, jepet sipas pasqyrave nr.2 e nr.3 dhe kuota financiare ushqimore ditore jepet sipas pasqyrave nr.4 e nr.5, që i bashkëlidhen këtij vendimi. Drejtuesit e fakulteteve dërgojnë zyrtarisht, çdo muaj, pranë njësive/departamentit të financës, frekuentimin e shkollës për studentët që përfitojnë bursë.

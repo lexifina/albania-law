@@ -1,0 +1,2 @@
+6. Bursat e nxënësve, për vitet e dyta e lart, rishqyrtohen dhe miratohen, çdo vit, nga këshilli i bashkisë dhe i komunës, sipas vendndodhjes territoriale dhe administrative të konvikteve ku janë vendosur nxënësit konviktorë.
+Nxënësit që vitin e parë kanë përfituar bursë, me vendim të këshillit të bashkisë apo komunës ku ata kanë vendbanimin e përhershëm, e marrin këtë bursë deri në përfundim të viteve të shkollimit, nëse atyre nuk u ndryshojnë kriteret ekonomike dhe nuk rezultojnë mbetës.

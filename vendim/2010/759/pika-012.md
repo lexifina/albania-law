@@ -1,0 +1,1 @@
+12. Ministria e Arsimit dhe Shkencës, për vitin e ri shkollor 2010-2011, të japë 1950 (një mijë e nëntëqind e pesëdhjetë) bursa për nxënësit dhe 1600 (një mijë e gjashtëqind) bursa për studentët, për hyrjet e reja në vitin e parë në sistemin arsimor publik, për të gjitha kategoritë e parashikuara në pikën 2 të këtij vendimi.

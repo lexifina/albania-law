@@ -1,0 +1,1 @@
+13. Efektet financiare të vitit shkollor 2010-2011 të përballohen nga Buxheti i Shtetit, miratuar për Ministrinë e Arsimit dhe të Shkencës për vitin 2010, për pjesën e vitit 2010, si dhe nga Buxheti i Shtetit që do të miratohet për vitin 2011, për pjesën e vitit 2011.
