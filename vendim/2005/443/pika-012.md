@@ -1,1 +1,0 @@
-12. Në rastet kur shuma e shpenzuar për përfitimet nga kjo skemë rezulton më e ulët se shuma e kontributit të grumbulluar, pjesa e fondit të pashpenzuar ruhet në fondin e sigurimit suplementar për punonjësit e policisë, në llogarinë e ISSH-së.

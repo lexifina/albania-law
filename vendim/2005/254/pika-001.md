@@ -1,1 +1,0 @@
-1. Periudha e përfitimit të trajtimit financiar nga ushtarakët e Forcave të Armatosura, në përputhje me vendimin nr.225, datë 29.5.1992 të Këshillit të Ministrave, të njihet, duke filluar nga data 1.10.1993 e në vazhdim, si periudhë sigurimi, për efekt pensioni pleqërie, invaliditeti dhe familjar.

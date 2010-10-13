@@ -1,1 +1,0 @@
-I. Personat përfitues

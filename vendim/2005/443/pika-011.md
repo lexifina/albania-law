@@ -1,2 +1,0 @@
-11. Kontributi për punonjësit e policisë, për periudhën gjatë së cilës përfitojnë pagesë kalimtare dhe pension të parakohshëm, llogaritet mbi pagën bazë për gradën “Asistent” për policët, dhe “Nënkomisar” për specialistët e lartë të policisë, por gjithnjë brenda kufijve të pagës së miratuar për efekt të pagimit të kontributit.
-Paga mbi të cilën është derdhur kontributi përbën edhe bazën e vlerësuar për këta përfitues, për efekt të përfitimeve nga sigurimet shoqërore.

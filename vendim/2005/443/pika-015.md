@@ -1,2 +1,0 @@
-15. Kur përfituesi i të ardhurave suplementare arrestohet për një vepër penale, që lidhet me ushtrimin e detyrës si punonjës i Policisë së Shtetit, strukturat përkatëse të Ministrisë së Rendit Publik dhe të Drejtorisë së Përgjithshme të Policisë së Shtetit njoftojnë drejtoritë rajonale të sigurimeve shoqërore dhe bëhet pezullimi i të ardhurave deri në marrjen e vendimit të formës së prerë nga organet përkatëse.
-VII. Efektet financiare

@@ -1,1 +1,0 @@
-4. Paga mesatare ditore e realizuar, për efekt të zbatimit të përcaktimeve në nenin 7 të ligjit nr.8661, datë 18.9.2000, për punonjësin e policisë është paga mujore (paga bazë dhe shtesat me karakter të përhershëm) që ka përfituar ose do të përfitonte punonjësi i policisë, e pjesëtuar me ditët e punës mujore, të përcaktuara në aktet normative përkatëse.
