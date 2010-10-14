@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 20.4.2010, për çështjet nr.12315/04 dhe nr.17605/04 “Laska dhe Lika kundër Shqipërisë”, në shumën 4 800 (katër mijë e tetëqind) euro, për secilin ankues, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
