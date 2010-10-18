@@ -1,0 +1,1 @@
+10. Ministri, nëpërmjet marrëveshjeve dypalëshe, mund të kërkojë që inspektimet fitosanitare, të cilat lidhen me pikën 7, të kryhen në shtetin eksportues, në bashkëpunim me autoritetet fitosanitare të këtij shteti.

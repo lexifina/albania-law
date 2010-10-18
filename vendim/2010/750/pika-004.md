@@ -1,0 +1,1 @@
+4. “Rieksport” (ngarkesë e rieksportuar), një ngarkesë, e cila është importuar në një shtet, nga i cili pastaj eksportohet pa u ekspozuar ndaj infektimeve ose kontaminimeve nga parazitët edhe nëse ngarkesa ruhet, ndahet, kombinohet me ngarkesa të tjera ose i ndryshohet ambalazhi.

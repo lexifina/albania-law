@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të parandalojë hyrjen dhe përhapjen e parazitëve karantinorë në territorin e Republikës së Shqipërisë, për të siguruar një mbrojtje sa më të mirë të bimëve e të produkteve bimore.

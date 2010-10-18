@@ -1,0 +1,1 @@
+19. Certifikatë fitosanitare dhe certifikatë fitosanitare rieksporti lëshohen pas inspektimit, kur gjykohet nga inspektori se ngarkesa i plotëson të gjitha kërkesat e veçanta të përcaktuara nga shteti importues.

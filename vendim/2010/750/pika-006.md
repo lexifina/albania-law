@@ -1,0 +1,1 @@
+6. “Vend origjine”, për bimët, vendi ku bimët janë kultivuar; për produkte bimore, vendi ku janë kultivuar bimët, prej të cilave janë përftuar produktet bimore; dhe për objekte të tjera, vendi ku këto objekte janë ekspozuar për herë të parë ndaj parazitëve dhe mund të jenë infektuar ose kontaminuar prej tyre.

@@ -1,0 +1,1 @@
+16. Në rastet kur importuesi refuzon ndërmarrjen e masave të parashikuara në pikën 14 të këtij kreu, inspektori vendos në certifikatën fitosanitare vulën e shërbimit të mbrojtjes së bimëve dhe me ngjyrë të kuqe vulën me mbishkrimin “certifikate cancelled”, me emrin e inspektorit, si dhe datën e refuzimit.

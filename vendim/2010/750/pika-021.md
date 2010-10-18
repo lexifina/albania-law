@@ -1,0 +1,32 @@
+21. Kushtet e parashikuara në shkronjat “c” dhe “d” të pikës 8, janë të vlefshme edhe për certifikatë fitosanitare të eksportit dhe rieksportit, modeli i të cilave jepet ne anekset VII e VIII, bashkëlidhur këtij vendimi.
+IV. MASAT FITOSANITARE PËR LËVIZJEN E BIMËVE E TË PRODUKTEVE BIMORE TË PRODHUARA NË SHQIPËRI, SI DHE TË OBJEKTEVE TË TJERA, TË CILAT TRAJTOHEN NË KËTË VENDIM
+1. Lëvizja brenda territorit të Republikës së Shqipërisë e bimëve, produkteve bimore dhe e objekteve të tjera, të prodhuara në vend, të përmendura në aneksin V, pjesa A, bashkëlidhur këtij vendimi, lejohet vetëm nëse ato, ambalazhet e tyre dhe, nëse është e nevojshme, edhe mjeti i transportit, i janë nënshtruar inspektimit fitosanitar.
+2. Inspektimi fitosanitar i përmendur në pikën 1 të këtij kreu, kryhet nga inspektorët e mbrojtjes së bimëve të rrethit nga kanë origjinën bimët dhe produktet bimore. Inspektimi mund të kryhet me vrojtim të përgjithshëm apo me marrje mostre.
+Në varësi të objektit që inspektohet, ekzaminimet e nevojshme mund të kryhen edhe gjatë vegjetacionit në parcelën e kultivimit apo gjatë magazinimit.
+3. Bimët, produktet bimore dhe objektet e tjera të parashikuara në këtë vendim, të prodhuara në vend dhe të përmendura në aneksin V, pjesa A, pajisen me certifikatë fitosanitare të brendshme, sipas aneksit IX, bashkëlidhur këtij vendimi, nëse pas inspektimit të kryer sipas pikës 1 të këtij kreu, rezulton se:
+a) janë të painfektuara ose të pakontaminuara me parazitë të përmendur në aneksin I, seksioni 2.
+b) janë të painfektuara ose të pakontaminuara me parazitë të përmendur në aneksin II, seksioni 2.
+c) plotësojnë kushtet e veçanta që kërkohen në aneksin IV, seksioni 2.
+4. Kur pas inspektimit fitosanitar të bimëve, produkteve bimore dhe objekteve të tjera të parashikuara në këtë vendim rezulton se kushtet e përcaktuara në pikën 3 të këtij kreu, nuk plotësohen, atëherë, sipas rastit, merren këto masa:
+a) bërja e trajtimit fitosanitar me metoda, të cilat garantojnë dezinfektimin e tyre dhe pajisja me certifikatë fitosanitare të brendshme;
+b) largimi i pjesëve të infektuara dhe bërja e asgjësimit të tyre me metoda, të cilat garantojnë shkatërrimin e plotë të parazitëve dhe bëjnë të pamundur përhapjen e tyre në territorin e vendit dhe, më pas, pajisja me certifikatë fitosanitare të brendshme;
+c) lejimi i transportimit, nën kontrollin e inspektorëve, në zona që nuk paraqesin rrezik të mëtejshëm ose në vende ku do të bëhet përpunimi industrial, kur ky përpunim garanton shkatërrimin e plotë të parazitëve dhe bën të pamundur përhapjen e tyre në territorin e vendit;
+ç) asgjësimi i plotë me metoda, të cilat garantojnë shkatërrimin e plotë të parazitëve dhe bëjnë të pamundur përhapjen e tyre në territorin e vendit.
+Të gjitha shpenzimet, që lidhen me masat e përmendura në shkronjat “a” - “ç” të kësaj pike, bëhen me shpenzimet e zotëruesit të ngarkesës.
+5. Bimët, produktet bimore ose objektet e tjera, që hyjnë në një zonë të paprekur, duhet të jenë të shoqëruara me certifikatë fitosanitare të brendshme, e cila duhet të deklarojë pastërtinë fitosanitare nga një ose disa parazitë të përmendur në këtë vendim, që infektojnë ose prekin bimët/kulturat, produktet bimore ose objektet e tjera, për të cilat ajo zonë e paprekur është vendosur/njohur si e tillë.
+Rregullat për njohjen e zonave të paprekura dhe për lëvizjen e bimëve, të produkteve bimore e të objekteve të tjera brenda një zone të paprekur miratohen me akt nënligjor të ministrit që mbulon fushën e bujqësisë.
+6. Kushtet e parashikuara në pikat 1, 2, 3, e 4 të këtij kreu, nuk zbatohen në rastet e sasive të vogla të bimëve apo të produkteve bimore të përmendura në aneksin V, pjesa A, kur ato janë të destinuara për konsum vetjak, jo për qëllime tregtimi ose riprodhimi dhe kur gjykohet se ato nuk mund të jenë a nuk mund të bëhen burim i përhapjes së parazitëve të përmendur në anekset I dhe II, bashkëlidhur këtij vendimi.
+7. “Certifikatë fitosanitare”, “certifikatë fitosanitare e rieksportit” e “certifikatë fitosanitare e brendshme” përgatiten dhe shpërndahen nga struktura përgjegjëse e mbrojtjes së bimëve.
+8. Inspektorët e mbrojtjes së bimëve, në zbatim të këtij vendimi, kanë të drejtë të kryejnë inspektime në bimë, produkte bimore dhe objekte të tjera të parashikuara në këtë vendim pa asnjë dallim apo paragjykim mbi origjinën e tyre, në çdo vend ku ato mbillen, kultivohen, prodhohen, magazinohen, ofrohen për shitje e blerje.
+V. REGJISTRIMI I IMPORTUESVE, EKSPORTUESVE, PRODHUESVE, QENDRAVE TË GRUMBULLIMIT DHE ATYRE TË SHITJES ME SHUMICË
+1. Personat fizikë dhe juridikë, që merren me importimin, prodhimin, grumbullimin dhe shitjen me shumicë të bimëve, produkteve bimore e të objekteve të tjera që trajtohen në këtë vendim, ndaj të cilave kërkohet të kryhen inspektime fitosanitare, sipas pikës 1 të kreut III, duhet të regjistrohen në drejtoritë rajonale të bujqësisë, ushqimit dhe mbrojtjes së konsumatorit, sipas udhëzimit të ministrit që mbulon fushën e bujqësisë.
+2. Rregullat për regjistrimin e personave fizikë dhe juridikë, që merren me importimin, prodhimin, grumbullimin dhe shitjen me shumicë të bimëve, produkteve bimore dhe objekteve të tjera, miratohen me akt nënligjor të ministrit që mbulon fushën e bujqësisë.
+VI. DISPOZITA PËRFUNDIMTARE
+1. Në rastet e shfaqjes në territorin e Republikës së Shqipërisë të parazitëve të përmendur në aneksin I, seksioni 1 ose në aneksin II, seksioni 1, struktura përgjegjëse e mbrojtjes së bimëve njofton menjëherë organizmat ndërkombëtarë dhe shtetet kufitare, duke marrë njëkohësisht të gjitha masat për ndalimin e përhapjes së mëtejshme dhe çrrënjosjen e tyre.
+2. Në rastet e shfaqjes në territorin e Republikës së Shqipërisë të parazitëve karantinorë të papërmendur në aneksin I, seksioni 1 ose në aneksin II, seksioni 1, struktura përgjegjëse e mbrojtjes së bimëve njofton menjëherë organizmat ndërkombëtarë dhe shtetet kufitare, duke marrë, njëkohësisht të gjitha masat për ndalimin e përhapjes së mëtejshme dhe çrrënjosjen e tyre.
+3. Anekset janë pjesë përbërëse e këtij vendimi. Ndryshimet e anekseve bëhen me vendim të Këshillit të Ministrave, me propozim të ministrit që mbulon fushën e bujqësisë.
+4. Ngarkohet ministria që mbulon fushën e bujqësisë për zbatimin e këtij vendimi.
+VII. SHFUQIZIME
+Vendimi nr.72, datë 6.2.2003 i Këshillit të Ministrave “Për miratimin e rregullave të inspektimit karantinor fitosanitar”, shfuqizohet.
+VIII. HYRJA NË FUQI
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

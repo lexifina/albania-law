@@ -1,0 +1,1 @@
+9. Kushtet e parashikuara në pikat 2 e 7 të këtij kreu, nuk zbatohen për bimët, produktet bimore dhe objektet e tjera që kalojnë tranzit në territorin e Republikës së Shqipërisë, të cilat i nënshtrohen inspektimit fitosanitar, gjatë të cilit rezulton se ambalazhimi i tyre është bërë në kushte të tilla sigurie që garanton mospërhapjen e parazitëve karantinorë.
