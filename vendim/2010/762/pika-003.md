@@ -1,0 +1,1 @@
+3. Agjencia Kombëtare e Shoqërisë së Informacionit kryen pagesën prej 270 000 000 (dyqind e shtatëdhjetë milionë) lekësh, si pjesë e fondit të përgjithshëm prej 950 000 000 (nëntëqind e pesëdhjetë milionë) lekësh, për mbulimin e kostove financiare të vitit të parë të kësaj marrëveshjeje (qershor 2010-qershor 2011).
