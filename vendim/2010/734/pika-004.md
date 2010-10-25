@@ -1,0 +1,5 @@
+4. Procedurat që duhet të ndiqen për krijimin e rezervave strategjike janë:
+a) Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe njësitë e qeverisjeve vendore përcaktojnë ngastrat dhe nënngastrat që do të shërbejnë si rezerva strategjike të lëndës drusore në këmbë;
+b) Ngastrat dhe nënngastrat që do të shërbejnë si rezervë strategjike të lëndës drusore në këmbë, miratohen nga Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, në bazë të studimit dhe të planeve të mbarështimit, që do të kryhen për këtë qëllim nga strukturat në varësi të saj, brenda një viti nga dalja e këtij vendimi, dhe rishikohen çdo 10 (dhjetë) vjet;
+c) Rezervat strategjike të miratuara duhet të menaxhohen sipas objektivave të përcaktuara në këto plane;
+ç) Në pyjet e përcaktuara si rezerva strategjike ndalohet të kryhen ndërhyrje silvikulturore, me përjashtim të prerjeve sanitare, ndalohet kullotja, ndezja e zjarreve, dhënia në përdorim, heqja nga fondi pyjor, si dhe ushtrimi i veprimtarive të tjera të çfarëdolloji.
