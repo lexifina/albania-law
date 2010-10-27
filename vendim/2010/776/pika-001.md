@@ -1,0 +1,1 @@
+1. Kryetari dhe anëtarët e këshillit drejtues të Autoritetit të Aviacionit Civil, të shpërblehen, përkatësisht, në masën 30% dhe 20%, të pagës së Sekretarit të Përgjithshëm të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, për çdo pjesëmarrje në mbledhje, por jo më shumë se një herë në muaj.
