@@ -1,0 +1,1 @@
+1. Instituti i Shëndetit Publik është institucioni kryesor kombëtar, përgjegjës për zbatimin e Rregullores Ndërkombëtare të Shëndetit (RRNSH), si dhe institucioni që raporton e informon Ministrinë e Shëndetësisë e Organizatën Botërore të Shëndetësisë për çdo ngjarje të pazakontë, të përcaktuar në rregullore.

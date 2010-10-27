@@ -1,0 +1,2 @@
+5. Ngarkohen të gjitha institucionet, autoritete përgjegjëse për zbatimin e Rregullores Ndërkombëtare të Shëndetit, që të fillojnë menjëherë dhe brenda 5 (pesë) vjetëve nga miratimi i këtij vendimi, të përfundojnë marrjen e masave për zhvillimin, forcimin dhe mbajtjen e kapaciteteve të domosdoshme për të zbuluar, vlerësuar, njoftuar e raportuar ngjarjet shëndetësore në përputhje me RRNSH-në dhe për t’u përgjigjur rreziqeve e emergjencave të shëndetit publik.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
