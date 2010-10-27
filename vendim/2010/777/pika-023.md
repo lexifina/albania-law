@@ -1,0 +1,1 @@
+23. Kryesia është e detyruar të thërrasë mbledhjen e asamblesë së bashkëpronarëve jo më vonë se 3 (tri) ditë pas datës së marrjes dhe shpalljes së aktit të inspektimit e të vendosë për procedurën që duhet ndjekur, si dhe të përcaktojë masën e financimit që detyrohet secili nga bashkëpronarët.

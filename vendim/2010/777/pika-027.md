@@ -1,0 +1,1 @@
+27. Nëse administratori ose shoqëria e administrimit nuk zbaton aktin e inspektimit për ndreqjen e të metave brenda afatit të përcaktuar, atëherë inspektori vendos gjoba e sanksione, në përputhje me ligjin nr.9780, datë 16.7.2007 “Për inspektimin e ndërtimit” dhe me nenin 42 të ligjit nr.10 112, datë 27.4.2009 “Për administrimin e bashkëpronësisë në ndërtesat e banimit”.

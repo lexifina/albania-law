@@ -1,0 +1,1 @@
+28. Organet e qeverisjes vendore dhe inspektoratet vendore, të parashikuara në këtë vendim, bëjnë publike në vende të dukshme në njësitë vendore respektive, numrat e telefonit dhe adresat e institucioneve vendore, të ngarkuara për inspektim nga ky vendim.

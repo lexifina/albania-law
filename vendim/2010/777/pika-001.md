@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është përcaktimi i çështjeve që janë subjekt i inspektimeve, i rregullave, i metodologjisë, i frekuencave dhe i mënyrës së njoftimit për kryerjen e inspektimeve, lënien e detyrave e caktimin e afateve kohore, si dhe i procedurave që ndjek administratori për zbatimin e tyre.

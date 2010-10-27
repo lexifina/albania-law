@@ -1,0 +1,1 @@
+2. Qëllimi i inspektimit është kontrolli i kushteve të përgjithshme të ndërtesës, identifikimi dhe zbulimi i defekteve e mangësive të sistemeve të kontrolluara dhe të elementeve të tjera që ekzistojnë në kohën e kontrollit, të cilat janë të dukshme dhe mund të konstatohen gjatë kryerjes së procedurës së inspektimit.

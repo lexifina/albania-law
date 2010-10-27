@@ -1,0 +1,1 @@
+8. Çdo procedurë inspektimi fillon me nismën e organit inspektues, pas paraqitjes së kërkesës me shkrim nga kryesia e asamblesë së bashkëpronarëve ose të kërkesës së çdo pronari të interesuar dhe që ka shkak të ligjshëm mbi bashkëpronësinë përkatëse. Organet e inspektimit, në përmbushje të përgjegjësive të tyre, mbështeten nga policia e bashkisë/komunës.

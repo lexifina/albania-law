@@ -1,0 +1,1 @@
+3. Inspektimi i përditshëm i gjendjes së pronës dhe objekteve në bashkëpronësi kryhet nga administratori, i cili është përgjegjës për respektimin e rregullores së administrimit të bashkëpronësisë dhe zbatimin e vendimeve që merr asambleja.

@@ -1,0 +1,1 @@
+21. Gjendja e konstatuar gjatë inspektimit pasqyrohet në aktin e inspektimit. Mbajtja e aktit të inspektimit është i detyrueshëm në çdo akt kontrolli dhe nënshkruhet nga grupi i inspektimit, që kryen kontrollin dhe nga subjekti i kontrolluar, administratori. Një kopje e këtij akti i jepet subjektit të kontrolluar, administratorit.

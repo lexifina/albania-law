@@ -1,0 +1,1 @@
+14. Kontrolli i themeleve të ndërtesës kryhet vetëm një herë, me nismën e inspektoratit dhe më pas, me kërkesë të asamblesë ose të çdo bashkëpronari, i cili konstaton se në themele janë bërë ndërhyrje.

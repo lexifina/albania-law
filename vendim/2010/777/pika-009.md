@@ -1,0 +1,1 @@
+9. Inspektimi kryhet në bazë të planit të inspektimit. Njoftimi për kryerjen e inspektimit bëhet me shkrim nga inspektorati vendor, të paktën 10 (dhjetë) ditë përpara datës së caktuar për kryerjen e këtij inspektimi dhe i drejtohet administratorit/shoqërisë së administrimit e kryetarit të asamblesë së bashkëpronarëve.

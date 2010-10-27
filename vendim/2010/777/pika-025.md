@@ -1,0 +1,1 @@
+25. Shoqëria administruese/administratori është e detyruar të përfundojë brenda afatit të vendosur nga asambleja ndreqjet dhe rregullimet apo rinësimet e nevojshme, sipas detyrave të lëna nga akti i inspektimit.

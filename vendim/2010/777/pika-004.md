@@ -1,0 +1,1 @@
+4. Inspektimi në fushën e ndërtimit kryhet nga Inspektorati Ndërtimor e Urbanistik, në nivel bashkie/komune, sipas kompetencave të përcaktuara për këto struktura, në përputhje me ligjet nr.9780, datë 16.7.2007 dhe nr.10 112, datë 9.4.2009 dhe sipas procedurave të përcaktuara në këtë vendim.

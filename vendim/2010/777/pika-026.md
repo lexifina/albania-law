@@ -1,0 +1,1 @@
+26. Kur inspektori ndërtimor urbanistik vendor konstaton e vlerëson se ka vend për mbajtjen e plotësimin e procesverbalit përkatës, përveç aktit të inspektimit, ai përmbush detyrimet e tij ligjore, sipas ligjit nr.9780, datë 16.7.2007 “Për inspektimin e ndërtimit”.

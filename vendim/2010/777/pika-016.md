@@ -1,0 +1,1 @@
+16. Inspektimi i gjendjes teknike të çështjeve sipas shkronjave “b”, “ç”, “d”, “dh”, “e” dhe “ë”, të pikës 6 të këtij vendimi, bëhet nga inspektorati vendor, me kërkesë me shkrim të asamblesë, administratorit dhe çdo bashkëpronari, në çdo kohë, por jo më shumë se një herë në vit për të njëjtën çështje, përveç rasteve kur nga inspektori është lënë detyrë për riparimin e dëmit.
