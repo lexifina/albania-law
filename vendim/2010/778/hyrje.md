@@ -1,0 +1,6 @@
+VENDIM
+Nr.778, datë 24.9.2010
+PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, TOKË ARË, QË PREKEN NGA NDËRTIMI I SEGMENTIT RRUGOR “BY PASS, PLEPA - KAVAJË - RROGOZHINË,
+LOTET 9, 10, 11 e 12”
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 5, pika 1, 20 e 21 të ligjit nr.8561, datë 22.12.1999 “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë, pronë private, për interes publik”, dhe të nenit 8 të ligjit nr.9836, datë 26.11.2007 “Për Buxhetin e Shtetit, për vitin 2008”, të ndryshuar, me propozimin e Ministrit të Punëve Publike dhe Transportit, Këshilli i Ministrave
+VENDOSI:

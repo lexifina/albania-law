@@ -1,0 +1,1 @@
+10. Zyra e Regjistrimit të Pasurive të Paluajtshme, Kavajë, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur do të realizohet procesi i hedhjes së trupit të rrugës në hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
