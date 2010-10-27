@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen, në qytetin e Tiranës, të institucionit arsimor privat, parauniversitar, kopsht “École Française, Jules Verne” (shkolla franceze “Zhyl Vern”), që do ta zhvillojë mësimin edhe në gjuhën frënge.
