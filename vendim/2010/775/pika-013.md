@@ -1,0 +1,1 @@
+13. Institucionet përfituese (qendrore dhe vendore), janë përgjegjëse për të parashikuar në buxhetin e tyre të gjitha detyrimet financiare që rrjedhin nga marrëveshjet përkatëse të financimit, të miratuara.

@@ -1,0 +1,1 @@
+24. Ngarkohet Ministria e Financave për nxjerrjen e udhëzimeve të hollësishme lidhur me procedurat që duhen ndjekur gjatë fazave të ndryshme të livrimit, shpenzimit, raportimit dhe shlyerjes së kredive dhe granteve.

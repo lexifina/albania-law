@@ -1,0 +1,1 @@
+5. Marrëveshje financimi janë marrëveshjet e huas/kredisë apo grantit që lidhen ndërmjet Republikës së Shqipërisë apo Këshillit të Ministrave të Republikës së Shqipërisë dhe kreditorëve ose donatorëve të huaj, për financimin e projekteve të investimeve publike në Republikën e Shqipërisë.

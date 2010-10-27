@@ -1,0 +1,1 @@
+4. Marrëveshje qeveritare janë marrëveshjet që lidhen ndërmjet Republikës së Shqipërisë apo Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverive të shteteve të huaja, për sigurimin e financimit të projekteve të investimeve publike në Republikën e Shqipërisë.

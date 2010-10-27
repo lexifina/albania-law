@@ -1,0 +1,1 @@
+14. Pas nënshkrimit të marrëveshjeve qeveritare kuadër, marrëveshjeve të financimit dhe marrëveshjeve qeveritare, institucioni nënshkrues ndjek procedurat e nevojshme ligjore për hyrjen në fuqi të marrëveshjeve përkatëse.

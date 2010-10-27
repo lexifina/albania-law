@@ -1,0 +1,1 @@
+3. Marrëveshje qeveritare kuadër janë marrëveshjet/protokollet që lidhen ndërmjet Republikës së Shqipërisë apo Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverive të shteteve të huaja, për sigurimin e bashkëpunimit financiar apo bashkëpunimit për zhvillim ndërmjet dy vendeve.

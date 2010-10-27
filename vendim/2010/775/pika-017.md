@@ -1,0 +1,1 @@
+17. Ministria e Financave ndjek, regjistron dhe raporton të gjitha transaksionet që lidhen me huat dhe grantet. Ministritë dhe institucionet qendrore e vendore janë të detyruara t’i raportojnë Ministrisë së Financave të gjitha të dhënat e kërkuara, brenda afateve të caktuara. Realizimi i huave dhe granteve nga jashtë do të jenë pjesë përbërëse e buxhetit faktik vjetor.

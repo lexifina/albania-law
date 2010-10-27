@@ -1,0 +1,1 @@
+21. Ministritë/institucionet qendrore dhe vendore, kur përfitojnë për projekte të ndryshme hua, grante apo ndihma materiale, rregullisht një herë në muaj, sipas afateve, raportojnë të dhënat në Ministrinë e Financave.

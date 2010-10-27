@@ -1,0 +1,1 @@
+2. Financime të huaja janë të gjitha huat, kreditë dhe grantet që merr Këshilli i Ministrave i Republikës së Shqipërisë dhe Republika e Shqipërisë nga shtetet e huaja, organizmat ndërkombëtarë, institucionet financiare ndërkombëtare, bankat e huaja, organizatat joqeveritare etj.
