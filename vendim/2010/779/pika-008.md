@@ -1,0 +1,1 @@
+8. Pronarët e përmendur në listën e objekteve që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Leje ndërtimi”, të kompensohen për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin tekniko-ligjor dhe atë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
