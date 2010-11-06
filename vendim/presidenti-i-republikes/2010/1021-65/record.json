@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16302,
+  "title": "PËR DËRGIMIN E ÇËSHTJES NË GJYKATËN KUSHTETUESE PËR TË KONSTATUAR PAPAJTUESHMËRINË ME MANDATIN TË DEPUTETIT ILIR BEQJA",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "65",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2010-10-21",
+  "published": "2010-11-06",
+  "in_force": "2010-11-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a36c009e5e287c36fd99519de4d112cf7889d3fbb352ea5f52b3b1792dd78e58.docx",
+  "source_sha256": "a36c009e5e287c36fd99519de4d112cf7889d3fbb352ea5f52b3b1792dd78e58",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16302",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/10/21/65",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
