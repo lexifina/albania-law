@@ -1,0 +1,1 @@
+3. Përmbaruesi gjyqësor detyrohet të bashkërendojë me administratorin veprimet procedurale që lidhen me vendin, datën dhe orën e ekzekutimit të vendimit, brenda afateve të parashikuara në pikën 2 të këtij kreu.
