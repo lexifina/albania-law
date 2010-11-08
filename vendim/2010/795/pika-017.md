@@ -1,0 +1,1 @@
+17. Studentët, që transferojnë studimet nga një program studimi apo nga programe të mëparshme studimi të ciklit të dytë në një program tjetër studimi në institucionet publike të arsimit të lartë, i nënshtrohen tarifës së përgjithshme vjetore të shkollimit të programit të studimit përkatës, në të cilin ata kanë kërkuar të transferojnë studimet.

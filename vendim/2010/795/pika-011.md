@@ -1,0 +1,1 @@
+11. Tarifat vjetore të shkollimit për studentët, që do të regjistrohen në vitin e parë, për të gjitha programet e studimit të ciklit të dytë “Master profesional”, në vitin akademik 2010-2011, si dhe tarifat vjetore të shkollimit për studentët, që ndjekin një program të dytë studimi, janë sipas tabelës nr.2, bashkëlidhur këtij vendimi.

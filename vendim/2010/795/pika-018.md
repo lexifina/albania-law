@@ -1,0 +1,1 @@
+18. Rishpërndarja e kuotave të përcaktuara në pikën 1 të këtij vendimi, të cilat mbeten të parealizuara, bëhet nga Ministria e Arsimit dhe Shkencës, në bashkëpunim me institucionet publike të arsimit të lartë.

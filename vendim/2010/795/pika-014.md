@@ -1,0 +1,1 @@
+14. Në çdo program studimi, të ciklit të dytë të studimeve “Master profesional”, në vitin akademik 2010-2011, studentët e vitit të parë, që kanë përfunduar me medalje të artë ciklin e parë të studimeve, dhe studentët e vitit të dytë që kanë përfunduar shkëlqyeshëm vitin e parë, nuk e paguajnë tarifën e shkollimit në vitin akademik 2010-2011.

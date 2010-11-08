@@ -1,0 +1,1 @@
+6. Kuotat e pranimeve për romët dhe ballkano-egjiptianët ndahen nga MASH-i, në bazë të listës së hartuar të shoqatave respektive, Shoqatës Kombëtare të Romëve dhe Shoqatës Kombëtare të Ballkano-Egjiptianëve.

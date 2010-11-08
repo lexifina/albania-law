@@ -1,0 +1,1 @@
+13. Studenti i nënshtrohet vetëm një tarife shkollimi, pagesa e së cilës bëhet me këste të përcaktuara nga institucioni i arsimit të lartë. Studentët përsëritës i nënshtrohen tarifës së shkollimit të vitit akademik, në të cilin vazhdojnë rregullisht studimet.

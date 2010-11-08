@@ -1,0 +1,1 @@
+16. Transferimet e studimeve, në numrin përkatës të kuotës së përcaktuar nga Ministria e Arsimit dhe Shkencës, sipas shkronjës “c” të pikës 1 të këtij vendimi, bëhet nga vetë institucionet publike të arsimit të lartë, në përputhje me kriteret e përcaktuara në aktet nënligjore, në statutin dhe rregulloret e tyre.
