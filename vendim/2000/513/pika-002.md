@@ -1,1 +1,0 @@
-2. Kanë të drejtë të konkurrojnë, pa përmbushur detyrimin e mësipërm, ata mjekë të përgjithshëm, që kërkojnë të specializohen në degët “Mjek i familjes”, “Mjek i shëndetit publik”, dhe “Anatomi Pathollogjike”.
