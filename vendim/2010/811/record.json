@@ -1,0 +1,28 @@
+{
+  "qbz_id": 16333,
+  "title": "PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI TË MINISTRISË SË  ARSIMIT DHE SHKENCËS, PËR UNIVERSITETIN “ISMAIL QEMALI”, VLORË, PËR NDËRTIMIN E NJË KAMPUSI TË RI UNIVERSITAR, TË PRONËS, TOKË BUJQËSORE, TË NDODHUR NË FSHATIN AKËRNI, KOMUNA NOVOSELË, NË QARKUN E VLORËS, AKTUALISHT NË DISPOZICION TË AGJENCISË SË KTHIMIT DHE KOMPENSIMIT TË PRONAVE, SI FOND PËR KOMPENSIMIN FIZIK, DHE PËR NJË NDRYSHIM NË VENDIMIN NR.868, DATË 18.6.2008 TË KËSHILLIT TË MINISTRAVE “PËR KRIJIMIN E FONDIT TË KOMPENSIMIT FIZIK NGA FONDI I TOKËS BUJQËSORE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "811",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-10-06",
+  "published": "2010-11-08",
+  "in_force": "2010-11-08",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/81d4ff1fb5375ef026aba6b2bc9ccc8c1dfd25328d5a7d244fa4d80c3c59fe95.docx",
+  "source_sha256": "81d4ff1fb5375ef026aba6b2bc9ccc8c1dfd25328d5a7d244fa4d80c3c59fe95",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16333",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/10/06/811",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    29680
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
