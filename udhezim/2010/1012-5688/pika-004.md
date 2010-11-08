@@ -1,0 +1,1 @@
+4. Organet e kontrollit të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor të bashkëpunojnë me organet e qeverisjes vendore për njoftimin e publikut, në median elektronike dhe të shkruar, lidhur me kriteret e funksionimit të shërbimit taksi, organet e kontrollit, kompetencat, si dhe sanksionet ligjore për shkeljet.

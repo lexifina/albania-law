@@ -1,0 +1,1 @@
+3. Organet e kontrollit të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor të bashkëpunojnë me organet vendore të Policisë së Shtetit dhe organet e qeverisjes vendore për evidentimin e mjeteve të pajisura me licencë, si dhe të pajisjes së drejtuesve të këtyre mjeteve me dëshminë përkatëse të aftësisë profesionale.

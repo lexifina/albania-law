@@ -1,0 +1,1 @@
+1. Policia e Shtetit të intensifikojë masat në drejtim të rritjes së sigurisë në rrugë, parandalimit të aksidenteve dhe krijimit të kushteve për një lëvizje e qarkullim pa pengesa të mjeteve e këmbësorëve në zonat urbane dhe rurale.
