@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16324,
+  "title": "Për shfuqizimin e vendimit nr.513, datë 21.9.2000 të këshillit të ministrave “Për detyrimin e mjekëve që duan të specializohen”",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "801",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-09-29",
+  "published": "2010-11-08",
+  "in_force": "2010-11-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2b35c283b5c5ad622143968d62a605c376b5469356fdf50ea2eeb08ac9a7a489.docx",
+  "source_sha256": "2b35c283b5c5ad622143968d62a605c376b5469356fdf50ea2eeb08ac9a7a489",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16324",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/09/29/801",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
