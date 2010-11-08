@@ -1,0 +1,1 @@
+8. Pronarët e listave që i bashkëlidhen këtij vendimi, për të cilët është bërë shënimi “Konfirmuar nga ZRPP/ Detyrime ndaj të tretëve”, do të kompensohen, për efekt shpronësimi, pasi të kenë përmbushur detyrimet ligjore dhe të kenë paraqitur dokumentacionin e pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.

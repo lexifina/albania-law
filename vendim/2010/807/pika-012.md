@@ -1,0 +1,1 @@
+12. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, për të cilët është bërë shënimi “Konfirmuar nga ZRPP/ Detyrime ndaj të tretëve”, pasi të kenë përmbushur detyrimet ligjore dhe të kenë paraqitur dokumentacionin e pronësisë.

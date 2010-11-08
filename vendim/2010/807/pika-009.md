@@ -1,0 +1,1 @@
+9. Pronarët e listave që i bashkëlidhen këtij vendimi, për të cilët është bërë shënimi “Leje ndërtimi”, do të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë tekniko - ligjor pranë Drejtorisë së Përgjithshme të Rrugëve.

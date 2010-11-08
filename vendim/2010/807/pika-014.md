@@ -1,0 +1,1 @@
+14. Zyrat e regjistrimit të pasurive të paluajtshme Fier, Mallakastër dhe Tepelenë të pezullojnë të gjitha transaksionet për pasuritë e shpronësuara deri në çastin që realizohet procesi i hedhjes së trupit të rrugës në hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
