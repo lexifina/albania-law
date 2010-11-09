@@ -9,6 +9,8 @@ iv) nuk vendos markën e konformitetit në produktin e ndërtimit, në përputhj
 v) në kundërshtim me pikën 2 të nenit 18, vendos në produktin e ndërtimit një markë konformiteti ose çdo markë tjetër, të ngjashme me një markë tjetër ekzistuese, që krijon pështjellim në treg ose mashtron konsumatorin;
 vi) miraton një organ certifikimi për vërtetimin e konformitetit në kundërshtim me nenin 19 të këtij ligji;
 vii) në kundërshtim me nenin 20 të këtij ligji, nuk vepron në përputhje me vendimet e strukturave përkatëse;
+viii) vendos pezullimin e veprimtarisë deri në shlyerjen e detyrimit nga subjekti fizik dhe juridik;
+ix) vendos sekuestrimin e mjeteve dhe të makinerive, të cilat punojnë gjatë kohës që subjekti është i pezulluar.
 b) personi fizik gjobitet me 50 000 deri në 500 000 lekë për të njëjtat kundërvajtje të përmendura në shkronjën ”a” të këtij neni.
 2. Gjobat vendosen dhe vilen nga Inspektorati Ndërtimor e Urbanistik Kombëtar.
 3. Shfuqizuar.
