@@ -1,0 +1,1 @@
+2. Ngarkohen Ministria e Shëndetësisë, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Punëve Publike dhe Transportit dhe autoritetet e pushtetit vendor për zbatimin e këtij vendimi.

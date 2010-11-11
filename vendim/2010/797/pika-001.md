@@ -1,0 +1,1 @@
+1. Miratimin e rregullores higjieno-sanitare “Për administrimin e cilësisë së ujërave të larjes”, sipas tekstit që i bashkëlidhet këtij vendimi, në përafrim me direktivën 2006/7/KE të Parlamentit dhe të Këshillit të Europës, të datës 15 shkurt 2006, për administrimin e cilësisë së ujërave të larjes, që shfuqizon direktivën 76/160/KEE.
