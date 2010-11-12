@@ -1,0 +1,1 @@
+3. Pasuritë, në sipërfaqen prej 100 m² tokë truall, pronë private që shpronësohen, si dhe pronarët që shpronësohen, janë sipas tabelës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
