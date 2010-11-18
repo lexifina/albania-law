@@ -1,0 +1,1 @@
+7. Mbetjet e lejuara për importim, sipas këtij vendimi, ruhen në vende të posaçme dhe në kushte të përshtatshme magazinimi, brenda territorit ku kryhet veprimtaria e miratuar për përdorimin, përpunimin dhe riciklimin e tyre.

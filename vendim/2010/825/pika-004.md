@@ -1,0 +1,1 @@
+4. Ndalohet importimi i mbetjeve të listave të mësipërme në rastet kur ato përmbajnë mbetje e materiale të rrezikshme, në atë masë që përcaktohen sipas ligjit nr.9537, datë 18.5.2006 “Për administrimin e mbetjeve të rrezikshme”.

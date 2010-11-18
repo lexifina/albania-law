@@ -1,0 +1,1 @@
+8. Importi bëhet sipas rregullave të përcaktuara në vendimin nr.806, datë 4.12.2003 të Këshillit të Ministrave “Për miratimin e rregullave e procedurave për importimin e mbetjeve me qëllim përdorimi, përpunimi e riciklimi”, duke plotësuar fillimisht formularët e anekseve 3 dhe 4, bashkëlidhur këtij vendimi.
