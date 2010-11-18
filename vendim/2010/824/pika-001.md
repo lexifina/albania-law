@@ -1,0 +1,1 @@
+1. Pjesëmarrjen e 2 (dy) kompanive të forcave tokësore të Forcave të Armatosura të Republikës së Shqipërisë, me personel, të përbërë nga 200 (dyqind) ushtarakë, në stërvitjen e përbashkët në Qendrën e Bashkuar Ndërkombëtare të Gatishmërisë (JMRC), në Hohenfels, Gjermani.
