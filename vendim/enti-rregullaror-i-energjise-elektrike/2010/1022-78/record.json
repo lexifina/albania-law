@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65347,
+  "title": "MBI LIDHJEN E KONTRATAVE të NEGOCIUARA NGA SHOQERIA “CEZ SHPËRNDARJA” SHA ME SHOQëRITë “CEZ AS” DHE “EFT AG”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "78",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2010-10-22",
+  "published": "2010-11-18",
+  "in_force": "2010-11-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/38b19e3ec840eb12658748931f59b2d6feeb99505f4d171b1995f750b2dfd191.docx",
+  "source_sha256": "38b19e3ec840eb12658748931f59b2d6feeb99505f4d171b1995f750b2dfd191",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65347",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/10/22/78",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
