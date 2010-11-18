@@ -6,4 +6,4 @@ c) Zbatimi i teknologjive moderne të ujitjes.
 d) Prodhimi blegtoral.
 dh) Prodhimi i produkteve bio.
 e) Prodhimi i vajit të ullirit.
-ë) Nxitja e kreditimit bankar në sektorin e bujqësisë.
+ë) Nxitja e kreditimit bankar në sektorin e bujqësisë peshkimit dhe përpunimit të produkteve ujore .
