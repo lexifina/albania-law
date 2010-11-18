@@ -1,0 +1,1 @@
+5. Ky shërbim mund t’u ofrohet, edhe me dalje ndërkombëtare, por jo më shumë se 50 000 (pesëdhjetë mijë) lekë në muaj, funksionarëve, sipas lidhjes nr.4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+15. Në çdo rast, shërbimi i ofruar nga institucioni paguhet sipas faturës mujore për vlerën e shpenzuar. Çdo tejkalim i limitit mujor, të përcaktuar sipas pikave 3-9 të këtij vendimi, nuk kompensohet me limitin e muajit pasardhës dhe përballohet nga vetë personi zyrtar.

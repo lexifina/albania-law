@@ -1,0 +1,1 @@
+9. Ky shërbim mund t’u ofrohet, dhe me dalje ndërkombëtare, por jo më shumë se 4 000 (katër mijë) lekë në muaj, për funksionin “drejtor drejtorie në ministri” (niveli II-b), si dhe çdo funksionari të barazuar në pagë apo me pagë përkatëse më të madhe se ky funksion. Në këtë kategori përfshihen edhe funksionet “këshilltar” apo “zëdhënës shtypi” që kanë pagë të këtij niveli.

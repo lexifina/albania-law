@@ -1,0 +1,1 @@
+10. Shërbimi i telefonisë “Roaming” ofrohet pa pagesë për të gjitha telefonatat zyrtare të kryera nga jashtë vendit, për funksionin: “zëdhënës shtypi/këshilltar për median” i Presidentit, i Kryetarit të Kuvendit, i Këshillit të Ministrave dhe i Kryeministrit.
