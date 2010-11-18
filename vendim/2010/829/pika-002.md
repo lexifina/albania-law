@@ -1,0 +1,1 @@
+2. Kalimin në përgjegjësi administrimi, nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, te Ministria e Mbrojtjes, të pronës “Laborator ushqimi”, me vendndodhje në zonën kadastrale nr.8525 në Elbasan, me sipërfaqe 133 (njëqind e tridhjetë e tre) m2.
