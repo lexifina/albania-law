@@ -4,6 +4,10 @@ Nr.9128, datë 29.7.2003
 
 PËR NJË TRAJTIM TË VEÇANTË FINANCIAR TË PILOTËVE FLUTURUES NË PENSION
 
+(Ndryshuar me ligjin nr. 10 135, date 11.5.2009; nr. 10 353, datë 18.11.2010)
+
+(i përditësuar)
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
 
 K U V E N D I
@@ -16,15 +20,41 @@ Neni 1
 
 Qëllimi
 
+(Shtuar paragraf me ligjin nr. 10 135, datë 11.5.2009; shfuqizuar paragrafi i dytë me ligjin nr. 10 353, datë 18.11.2010)
+
 Qëllimi i këtij ligji është të rregullojë një trajtim financiar të pilotëve, që kanë fluturuar me avionë reaktivë e me avionë me helikë, në shtesë të pensionit të pleqërisë, të cilin e përfitojnë nga sigurimi shoqëror i detyrueshëm, në momentin e lindjes së të drejtës së përfitimit të këtij trajtimi.
+
+Neni 1/1
+
+(Shtuar me ligjin nr. 10 353, datë 18.11.2010)
+
+Të njëjtat përfitime, të parashikuara nga ky ligj, për subjektet e treguara në nenin 1, i përfitojnë edhe:
+
+a) pilotët/teknikët e Forcave të Armatosura, të cilët kanë fluturuar me helikopterë;
+
+b) pilotët/teknikët e njësisë së transportit mjekësor me helikopter, të cilët kanë fluturuar me helikopterë;
+
+c) pilotët/teknikët e repartit të helikopterëve të Policisë së Shtetit, të cilët kanë fluturuar me helikopterë;
+
+ç) pilotët/teknikët e Gardës së Republikës, të cilët kanë fluturuar me helikopterë.
 
 Neni 2
 
 Baza e llogaritjes
 
+(Shtuar paragraf me ligjin nr. 10 135, datë 11.5.2009; ndryshuar me ligjin nr. 10 353, datë 18.11.2010)
+
 Paga referuese është bazë për llogaritjen e këtij trajtimi financiar të veçantë.
 
-Me pagë referuese, për efekt të këtij ligji, kuptohet paga bazë për funksionin, plus shpërblimin për gradën, të njësuar me pagën referuese të funksionit organik të ushtarakut aktiv në të njëjtën detyrë me përfituesin, në momentin e lindjes së të drejtës për trajtim financiar të veçantë.
+Me pagë referuese, për efekt të këtij ligji, kuptohet:
+
+a) për pilotët/teknikët e Forcave e Armatosura, paga bazë për funksionin, plus shpërblimin për gradën, të njësuar me pagën referuese të funksionit organik të ushtarakut aktiv, në të njëjtën detyrë me përfituesin, në çastin e lindjes së të drejtës për trajtim financiar të veçantë;
+
+b) për pilotët/teknikët e njësisë së transportit mjekësor me helikopter, paga e grupit, plus pozicionin dhe shtesat për fluturime, të njësuara me pagën referuese të funksionit organik të pilotit/teknikut të kësaj njësie, në të njëjtën detyrë me përfituesin, në çastin e lindjes së të drejtës për trajtim të veçantë financiar;
+
+c) për pilotët/teknikët e repartit të helikopterëve të Policisë së Shtetit, paga bazë për gradë apo funksion, plus shtesën për natyrë të veçantë pune e shërbimi, të njësuar me pagën referuese të funksionit organik të pilotit/teknikut, në të njëjtën detyrë me përfituesin, në çastin e lindjes së të drejtës për trajtim të veçantë financiar;
+
+ç) për pilotët/teknikët e Gardës së Republikës, paga bazë për gradë, plus shtesën për kushte të veçanta pune e shërbimi, të njësuar me pagën referuese të funksionit organik të pilotit/teknikut, në të njëjtën detyrë me përfituesin, në çastin e lindjes së të drejtës për trajtim të veçantë financiar
 
 Neni 3
 
@@ -40,21 +70,23 @@ Neni 4
 
 Kushtet e përfitimit
 
-Pilotët, të cilët kanë fluturuar me avionë reaktivë e avionë me helikë dhe që kanë plotësuar ose plotësojnë kushtet për pension pleqërie, përfitojnë, përveç pensionit të pleqërisë, një trajtim të veçantë financiar në shtesë të pensionit në masën:
+(Ndryshuar me ligjin nr. 10 353, datë 18.11.2010)
+
+Pilotët, të cilët kanë fluturuar me avionë reaktivë, avionë me helikë dhe helikopterë dhe që kanë plotësuar ose plotësojnë kushtet për pension pleqërie, përfitojnë, përveç pensionit të pleqërisë, një trajtim të veçantë financiar, në shtesë të pensionit, në masën:
 
 1. 50 për qind të pagës referuese që ka pasur përfituesi në çastin e daljes në rezervë, lirim ose pension pleqërie:
 
-a) kur piloti ka fluturuar me avionë reaktivë jo më pak se 12,5 vjet kalendarikë;
+a) kur piloti ka fluturuar me avionë reaktivë jo më pak se 12,5 (dymbëdhjetë vjet e gjashtë muaj) vite kalendarike;
 
-b) kur piloti ka fluturuar me avionë me helikë jo më pak se 16,5 vjet kalendarikë.
+b) kur piloti ka fluturuar me avionë me helikë dhe me helikopterë jo më pak se 16,5 (gjashtëmbëdhjetë vjet e gjashtë muaj) vite kalendarike.
 
 2. 35 për qind të pagës referuese që ka pasur përfituesi në çastin e daljes në rezervë, lirim ose pension pleqërie:
 
-a) kur piloti ka fluturuar me avionë reaktivë jo më pak se 8,5 vjet kalendarikë;
+a) kur piloti ka fluturuar me avionë reaktivë jo më pak se 8,5 (tetë vjet e gjashtë muaj) vite kalendarike;
 
-b) kur piloti ka fluturuar me avionë me helikë jo më pak se 12,5 vjet kalendarikë.
+b) kur piloti ka fluturuar me avionë me helikë dhe me helikopterë jo më pak se 12,5 (dymbëdhjetë vjet e gjashtë muaj) vite kalendarike.
 
-3. 25 për qind të pagës referuese që ka pasur përfituesi në çastin e daljes në rezervë, lirim ose pension pleqërie, për funksionet aviondrejtues fluturues, qitës-radist, radist, teknik, fluturues bordi, me jo më pak se 15 vjet vjetërsi në shërbim, pavarësisht nga koha e daljes në pension.
+3. 25 për qind të pagës referuese që ka pasur përfituesi në çastin e daljes në rezervë, lirim ose pension pleqërie, për funksionet aviondrejtues fluturues, qitës-radist, radist, teknik, fluturues bordi, me jo më pak se 15 vite vjetërsi në shërbim, pavarësisht nga koha e daljes në pension.
 
 Neni 5
 
@@ -68,7 +100,13 @@ Neni 6
 
 Njësimi i funksioneve
 
+(Shtuar paragraf me ligjin nr. 10 135, datë 11.5.2009; ndryshuar me ligjin nr. 10 353, datë 18.11.2010))
+
 Kur funksionet organike, në çastin kur piloti fluturues ka dalë në rezervë, lirim ose pension pleqërie, nuk ekzistojnë më në strukturën e Forcave të Armatosura, Ministri i Mbrojtjes bën njësimin e tyre, për efekt të pagës referuese, me funksionet organike që ekzistojnë në Forcat e Armatosura, në çastin kur pilotit i lind e drejta e përfitimit të këtij trajtimi.
+
+Kur funksionet organike, në çastin kur piloti/tekniku i njësisë së transportit mjekësor me helikopter ka dalë në pension pleqërie, nuk ekzistojnë më në strukturën e Ministrisë së Shëndetësisë, Ministri i Shëndetësisë bën njësimin e tyre, për efekt të pagës referuese, me funksionet organike, që ekzistojnë në çastin kur pilotit/teknikut i lind e drejta e përfitimit të këtij trajtimi.
+
+Kur funksionet organike, në çastin kur piloti/tekniku i repartit apo seksionit të helikopterëve ka dalë në pension pleqërie, nuk ekzistojnë më në strukturën e Policisë së Shtetit apo të Gardës së Republikës, Ministri i Brendshëm, me propozimin e Drejtorit të Përgjithshëm të Policisë së Shtetit apo të Komandantit të Gardës së Republikës, bën njësimin e tyre, për efekt të pagës referuese, me funksionet organike që ekzistojnë në Policinë e Shtetit apo Gardën e Republikës, në çastin kur pilotit/teknikut i lind e drejta e përfitimit të këtij trajtimi.
 
 Neni 7
 
