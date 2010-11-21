@@ -1,0 +1,1 @@
+4. Informacion mbi numrin e familjeve që përfitojnë ndihmë ekonomike për fëmijët të lindur njëherësh, si: trinjakë, katërnjakë apo pesënjakë, për jetimët që kanë përfituar statusin e jetimit, dhe për kryefamiljarët që përfitojnë kompensim për rritjen e çmimit të energjisë elektrike sipas mod.1, tab.4, bashkëlidhur këtij udhëzimi.
