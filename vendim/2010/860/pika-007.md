@@ -1,0 +1,1 @@
+7. Pronarët e përmendur në listën që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Proces legalizimi”, do të kompensohen, për efekt shpronësimi, pasi të kenë përfunduar procedurat e legalizimit dhe regjistrimit në ZRPP-në, Durrës dhe pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
