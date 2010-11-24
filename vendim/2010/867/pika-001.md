@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2010, t’i shtohet fondi prej 70 000 000 (shtatëdhjetë milionë) lekësh, për blerjen e një automjeti të blinduar, për parkun e delegacioneve.
