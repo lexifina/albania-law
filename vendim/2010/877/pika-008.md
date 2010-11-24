@@ -1,0 +1,1 @@
+8. Pronarët e përmendur në listën që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konfirmuar nga ZRPP-ja, Korçë (bashkëpronësi)”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Ujësjellës-Kanalizimeve sh.a., Korçë.
