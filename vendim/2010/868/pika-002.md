@@ -1,0 +1,1 @@
+2. Procedurat, efektet financiare dhe kostoja ekonomike për shpenzimet e çmontimit, për transportimin, magazinimin dhe ruajtjen e serrave me ngrohje e të linjave të përpunimit, të përcaktohen me udhëzim të përbashkët të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe të Ministrit të Financave.
