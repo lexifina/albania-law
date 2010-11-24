@@ -1,0 +1,1 @@
+2. Ky fond të përballohet nga zëri “Investimet e parashikuara për kosto lokale, për Drejtorinë e Përgjithshme të Rrugëve”, për vitin 2010. Lista e projekteve, që preken nga pakësimi i fondeve është sipas tabelës 1, bashkëlidhur këtij vendimi.
