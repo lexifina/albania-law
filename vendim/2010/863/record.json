@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16365,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR.66, DATË 3.2.2010 TË KËSHILLIT TË MINISTRAVE “PËR RIORGANIZIMIN E DREJTORIVE ARSIMORE RAJONALE DHE ZYRAVE ARSIMORE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "863",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-10-27",
+  "published": "2010-11-24",
+  "in_force": "2010-11-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7d4f5f1bae9ad8827483c95bcaed98206d2474fc328e8a52cb1cb5dca6c3ca33.docx",
+  "source_sha256": "7d4f5f1bae9ad8827483c95bcaed98206d2474fc328e8a52cb1cb5dca6c3ca33",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16365",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/10/27/863",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
