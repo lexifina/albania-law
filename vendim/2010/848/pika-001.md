@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës së tensionit të lartë 400 kV, Tiranë 2-Elbasan 2, qarku i Elbasanit, sipas tabelës që i bashkëlidhet këtij vendimi.

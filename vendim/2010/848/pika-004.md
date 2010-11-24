@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 137 461 707 (njëqind e tridhjetë e shtatë milionë e katërqind e gjashtëdhjetë e një mijë e shtatëqind e shtatë) lekësh të përballohet nga fondet e OST sh.a.
