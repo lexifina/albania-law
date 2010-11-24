@@ -1,0 +1,5 @@
+UDHËZIM
+Nr.6, datë 21.10.2010
+PËR ZBATIMIN E LIGJIT NR.10289, DATË 17.6.2010 “PËR MËNYRËN E TRAJTIMIT EKONOMIK E FINANCIAR DHE PËR DHËNIE NDIHME TË MENJËHERSHME FAMILJEVE TË PUNONJËSVE TË POLICISË SË SHTETIT, TË GARDËS SË REPUBLIKËS, TË SHËRBIMIT TË KONTROLLIT TË BRENDSHËM, TË POLICISË SË MBROJTJES NGA ZJARRI DHE TË SHPËTIMIT, TË FORCAVE TË ARMATOSURA, TË SHËRBIMIT INFORMATIV TË SHTETIT DHE TË POLICISË SË BURGJEVE, QË HUMBIN JETËN NË KRYE APO PËR SHKAK TË DETYRËS”
+Në mbështetje të nenit 100 të Kushtetutës, të pikës 1 të nenit 8 të ligjit nr.10289, datë 17.6.2010 “Për mënyrën e trajtimit ekonomik e financiar dhe për dhënie ndihme të menjëhershme familjeve të punonjësve të Policisë së Shtetit, Gardës së Republikës, të Shërbimit të Kontrollit të Brendshëm, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit, të Forcave të Armatosura, të Shërbimit Informativ të Shtetit dhe të Policisë së Burgjeve, që humbin jetën në krye apo për shkak të detyrës” dhe të ligjit nr.9936, datë 26.6.2008 “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, me propozimin e Ministrit të Brendshëm, Këshilli i Ministrave
+UDHËZON:

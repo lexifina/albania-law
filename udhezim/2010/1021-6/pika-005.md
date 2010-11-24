@@ -1,0 +1,1 @@
+5. Në zbatim të nenit 5 të ligjit, për çdo vit akademik strukturat e përmendura në nenin 1 të ligjit, i paraqesin Ministrisë së Arsimit dhe Shkencës, listën e fëmijëve që kanë fituar të drejtën e ndjekjes së studimeve të larta, për trajtimin e tyre me bursë.

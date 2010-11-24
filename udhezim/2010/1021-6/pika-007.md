@@ -1,0 +1,1 @@
+7. Në zbatim të nenit 7 të ligjit, masa e ndihmës me rastin e ditës përkujtimore të punonjësit, miratohet me urdhër të titullarit të institucionit qendror dhe përballohet nga buxheti i miratuar për njësinë shpenzuese përkatëse.

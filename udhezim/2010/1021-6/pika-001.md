@@ -1,0 +1,4 @@
+1. Në zbatim të nenit 1 të ligjit nr.10 289, datë 17.6.2010 “Për mënyrën e trajtimit ekonomik e financiar dhe për dhënie ndihme të menjëhershme familjeve të punonjësve të Policisë së Shtetit, Gardës së Republikës, të Shërbimit të Kontrollit të Brendshëm, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit, të Forcave të Armatosura, të Shërbimit Informativ të Shtetit dhe të Policisë së Burgjeve, që humbin jetën në krye apo për shkak të detyrës”, në vijim i referuar si ligji, konsiderohen “Humbje e jetës në krye apo për shkak të detyrës”, rastet që ndodhin:
+a) gjatë kohës së kryerjes së detyrës apo shërbimit, kur ngjarja ka ndodhur për arsye që lidhen me detyrën;
+b) jashtë kohës së kryerjes së detyrës, kur shkak për ndodhjen e ngjarjes janë veprimet e ligjshme të punonjësit në kryerjen e detyrës.
+Rrethanat e mësipërme duhet të vërtetohen nga organet e drejtësisë, prokurori, gjykata, sipas juridiksionit të tyre.

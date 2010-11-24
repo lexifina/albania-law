@@ -1,0 +1,1 @@
+4. Në zbatim të nenit 4 të ligjit, organizimi i ceremonisë dhe shpenzimet e varrimit për punonjësit, që kanë humbur jetën në krye apo për shkak të detyrës, miratohen nga titullari i institucionit qendror dhe përballohen nga buxheti i miratuar për njësinë shpenzuese përkatëse, sipas dokumenteve që justifikojnë shpenzimet.
