@@ -1,0 +1,1 @@
+3. Njësitë kryesore të institucioneve publike të arsimit të lartë organizojnë procesin e pranimit dhe të regjistrimit të aplikantëve në programet e studimit të ciklit të dytë me kohë të plotë. Procesi të monitorohet nga rektorati dhe Ministria e Arsimit dhe Shkencës.

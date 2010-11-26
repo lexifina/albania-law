@@ -1,0 +1,1 @@
+6. Pranë njësive kryesore përgjegjëse të institucioneve publike të arsimit të lartë për çdo program studimi të ciklit të dytë me kohë të plotë të ngrihen komisione ad-hoc sipas fushave përkatëse, për përzgjedhjen e aplikantëve fitues në përputhje me kriteret e pranimit të vendosura dhe të shpallura publikisht nga këto institucione.

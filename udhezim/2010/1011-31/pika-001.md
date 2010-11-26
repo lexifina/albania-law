@@ -1,0 +1,1 @@
+1. Pranimin e aplikantëve në programet e studimit të ciklit të dytë me kohë të plotë, në institucionet publike të arsimit të lartë, në vitin akademik 2010-2011, në bazë të përzgjedhjes së bërë nga institucionet publike të arsimit të lartë.
