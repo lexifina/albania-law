@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, për truall dhe objekte, prej 43 183 104 (dyzet e tre milionë e njëqind e tetëdhjetë e tre mijë e njëqind e katër) lekësh, të përballohet nga “Llogaria e veçantë” e Ministrisë së Financave në Bankën e Shqipërisë “Fondi i shpronësimeve”.
