@@ -1,0 +1,1 @@
+7. Institucionet publike të arsimit të lartë, në përfundim të regjistrimit përfundimtar të kandidatëve fitues, të dërgojnë në drejtorinë e konvikteve listën e studentëve të regjistruar, sipas programeve të studimit dhe fakulteteve përkatëse.

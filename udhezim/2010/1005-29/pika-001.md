@@ -1,0 +1,1 @@
+1. Viti akademik 2010-2011 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të parë dhe programet e integruara të ciklit të dytë me kohë të plotë, të fillojë më 11 tetor 2010 dhe të përfundojë më 30 shtator 2011.

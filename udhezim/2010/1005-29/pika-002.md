@@ -1,0 +1,1 @@
+2. Viti akademik 2010-2011 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të dytë “Master Profesional” dhe “Master i Shkencave”, me kohë të plotë, të fillojë në datën 25 tetor 2010 dhe të përfundojë më datën 30 shtator 2011.

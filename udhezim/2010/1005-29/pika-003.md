@@ -1,0 +1,1 @@
+3. Viti akademik 2010-2011 në institucionet publike të arsimit të lartë, në programet e studimit me kohë të pjesshme dhe edukim në distancë, të fillojë në datën 1 nëntor 2010 dhe të përfundojë në 30 shtator 2011.
