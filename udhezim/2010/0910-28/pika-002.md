@@ -1,0 +1,3 @@
+2. Kandidatët fitues të përcaktohen nga APRIAL në bazë të dy parimeve:
+a) Parimi i meritës: sipas pikëve të grumbulluara në bazë të rezultateve të shkollës së mesme, të provimeve të “Maturës Shtetërore”, të detyruara dhe me zgjedhje, dhe për disa programe studimi, edhe të rezultateve të konkursit të zhvilluar në bazë të udhëzimit nr.19, datë 15.7.2010 të Ministrit të Arsimit dhe Shkencës “Për zhvillimin e konkurseve të pranimit, tarifën e regjistrimit për konkurrim, në disa programe studimi në ciklin e parë me kohë të plotë në institucionet publike të arsimit të lartë, për vitin akademik 2010-2011”.
+b) Parimi i vullnetit të kandidatëve, i shprehur nëpërmjet preferencës më të lartë për programin e studimit të përzgjedhur nga ata vetë në formularin A2.

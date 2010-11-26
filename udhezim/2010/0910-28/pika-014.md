@@ -1,0 +1,1 @@
+14. Kandidatët, të cilët nuk kryejnë regjistrimin e ndërmjetëm brenda datave të përcaktuara në këtë udhëzim, për çfarëdo lloj arsyeje, humbasin të drejtën e regjistrimit dhe nuk do të përfshihen në listën përfundimtare të fituesve.

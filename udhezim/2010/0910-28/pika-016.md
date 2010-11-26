@@ -1,0 +1,1 @@
+16. Listat përfundimtare të kandidatëve fitues, në formë të shkuar dhe elektronike, t’u dorëzohen institucioneve publike të arsimit të lartë, sipas programeve përkatëse të studimit, në datën 6 tetor 2010 nga APRIAL-i, nëpërmjet Drejtorisë së Arsimit të Lartë dhe Kërkimit Shkencor në MASH. Këto institucione t’i afishojnë listat, brenda datës 6 tetor 2010.

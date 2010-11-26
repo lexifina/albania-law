@@ -1,0 +1,1 @@
+11. Listat e ndërmjetme të kandidatëve fitues, në formë të shkuar dhe elektronike, t’u dorëzohen institucioneve publike të arsimit të lartë, sipas programeve përkatëse të studimit, në datën 26 shtator 2010 nga APRIAL-i, nëpërmjet Drejtorisë së Arsimit të Lartë dhe Kërkimit Shkencor në MASH. Këto institucione t’i afishojnë listat brenda datës 25 shtator 2010.

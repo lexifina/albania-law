@@ -1,0 +1,1 @@
+10. Në bazë të regjistrimeve paraprake të kryera dhe të vendeve të paplotësuara, APRIAL-i, në datën 25 shtator 2010, të shpallë listën e ndërmjetme të kandidatëve fitues, duke ruajtur parimet e shprehura në pikën 2 të këtij udhëzimi. Lista shpallet edhe në website të APRIAL-it dhe MASH-it.

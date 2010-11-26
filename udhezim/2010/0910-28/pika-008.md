@@ -1,0 +1,1 @@
+8. Institucionet publike të arsimit të lartë, deri në orën 14:00 të datës 21.9.2010, të dorëzojnë në MASH dhe në APRIAL, listën origjinale të përgatitur nga APRIAL-i me regjistrimet paraprake të kryera, në formë të shkruar dhe elektronike, në dy kopje, sipas udhëzimit të përgatitur nga APRIAL-i.
