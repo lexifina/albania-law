@@ -1,1 +1,0 @@
-3. Vendimi nr.1628, datë 17.12.2008 i Këshillit të Ministrave “Për përcaktimin e koeficientëve të indeksimit të bazës së vlerësimit vjetor individual, për llogaritjen fillestare të pensioneve”, shfuqizohet.
