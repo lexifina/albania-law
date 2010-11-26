@@ -1,0 +1,1 @@
+2. Kandidatët që aplikojnë vetëm për vendet e shpallura nga Ministria e Arsimit dhe Shkencës në tabelën bashkëngjitur vendimit nr.586, datë 7.7.2010 të Këshillit të Ministrave “Për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë, për ciklin e parë të studimeve me kohë të plotë, për vitin akademik 2010-2011”, të ndryshuar.

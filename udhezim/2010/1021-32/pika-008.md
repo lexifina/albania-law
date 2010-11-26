@@ -1,0 +1,1 @@
+8. Kandidatët/maturantët e përcaktuar në pikën 4 ta tërheqin formularin A3 në shkollat respektive ku kanë tërhequr formularin A2 dhe ta kthejnë atë të plotësuar me preferencat e tyre brenda datës 27.10.2010.

@@ -1,0 +1,1 @@
+17. Pas përfundimit të procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në APRIAL listat përfundimtare origjinale, të përgatitura nga APRIAL-i, me regjistrimet e kryera, në formë të shkruar dhe elektronike, brenda datës 10.11.2010.
