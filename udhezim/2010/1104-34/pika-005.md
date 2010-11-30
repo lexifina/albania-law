@@ -1,0 +1,2 @@
+5. Ministri i Arsimit dhe Shkencës miraton kërkesën për angazhimin me kohët të pjesshme në veprimtari mësimdhënieje në institucionet e tjera të arsimit të lartë, publik ose privat, brenda ose jashtë vendit, për çdo vit akademik.
+Kërkesa për angazhim me kohë të pjesshme në veprimtari kërkimore apo në veprimtari të tjera në institucionet e tjera të arsimit të lartë, publik ose privat, brenda ose jashtë vendit, miratohet për periudhën e vlerësuar nga Ministri i Arsimit dhe Shkencës, mbështetur në kohëzgjatjen e përcaktuar nga institucioni pritës.

@@ -1,0 +1,1 @@
+1. Autoritetet drejtuese, rektor dhe ato të njësuar me to, mund të angazhohen me kohë të pjesshme në veprimtari mësimdhënieje, kërkimi apo në veprimtari të tjera në institucionet e tjera të arsimit të lartë, publik ose privat, brenda ose jashtë vendit, pas miratimit të Ministrit të Arsimit dhe Shkencës.

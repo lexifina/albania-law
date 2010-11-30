@@ -1,0 +1,1 @@
+3. Dosja i paraqitet Ministrit të Arsimit dhe Shkencës jo më vonë se 30 ditë përpara fillimit të veprimtarisë mësimdhënëse, kërkimore apo veprimtarive të tjera në institucionet e tjera të arsimit të lartë, publik ose privat, brenda ose jashtë vendit.
