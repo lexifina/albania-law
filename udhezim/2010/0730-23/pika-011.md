@@ -1,0 +1,1 @@
+11. Nxënësit të cilët transferojnë studimet nga jashtë shtetit në Shqipëri, në vitet e ndërmjetme, ekuivalentojnë studimet e kryera në shkollën e mesme pranë DAR/ZA të qendrave ku ata banojnë në bazë të dokumentacionit origjinal të përkthyer dhe noterizuar.

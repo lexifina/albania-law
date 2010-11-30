@@ -1,0 +1,1 @@
+5. Kur një nxënës transferohet nga një gjimnaz në një tjetër, plani mësimor që ai ka zhvilluar, duhet të përputhet me shkollën pritëse. Në rastin kur shkolla pritëse nuk siguron vazhdimësinë e lëndëve me zgjedhje dhe moduleve kurrikulare të nxënësit që kërkon të transferohet, atëherë transferimi bëhet vetëm në përfundim të vitit shkollor.

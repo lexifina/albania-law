@@ -1,0 +1,1 @@
+2. Nxënësit, të cilët kanë përfunduar tre vite të shkollës profesionale, mund të regjistrohen në klasën pasardhëse të shkollës së mesme me kohë të shkurtuar. Në këtë rast, këta nxënës janë të detyruar të bëjnë njëvlershmërinë e planit mësimor të kryer në shkollën e tyre, me planin mësimor të shkollës së mesme me kohë të shkurtuar.

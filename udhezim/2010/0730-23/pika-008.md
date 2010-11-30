@@ -1,0 +1,1 @@
+8. Për nxënësit të cilët janë në shkolla me konkurrim (shkollat sportive, shkollat e mesme të muzikës dhe shkollat koreografike), lejohet transferimi i studimeve brenda së njëjtës degë dhe në marrëveshje mes dy drejtorive të shkollave.

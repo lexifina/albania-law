@@ -1,0 +1,1 @@
+6. Transferimi i nxënësit nga një shkollë e mesme profesionale ose gjimnaz në një shkollë tjetër të të njëjtit profil ose të profileve të ndryshme, bëhet me kërkesë të prindit ose të kujdestarit të nxënësit dhe me miratim të drejtorive arsimore rajonale/zyrave arsimore.
