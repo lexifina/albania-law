@@ -1,0 +1,1 @@
+4. DAR/ZA-të, sipas afateve të përcaktuara në formularin operativ “Lëvizja dhe balancimi i kontingjenteve të nxënësve” dhe detyrimeve për reduktimin në zero të braktisjes shkollore, të dërgojnë në MASH të dhënat mbi lëvizjet e nxënësve të arsimit bazë.
