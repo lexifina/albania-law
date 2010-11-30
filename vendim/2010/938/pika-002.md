@@ -1,0 +1,1 @@
+2. Kjo pronë hiqet nga lista e inventarit që i bashkëlidhet vendimit nr.250, datë 24.3.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Rendit Publik”, të ndryshuar.

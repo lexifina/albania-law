@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Brendshme te Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, për Agjencinë e Shërbimit të Sporteve, të pronës “Klubi sportiv “Dinamo”” dhe të komponentëve të saj me nr.1-9, sipas formularit nr.3 bashkëlidhur këtij vendimi.

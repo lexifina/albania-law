@@ -1,0 +1,1 @@
+3. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve dhe Agjencisë së Shërbimit të Sporteve u ndalohet t’ua ndryshojnë destinacionin e pronës së përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojnë ose t’ua japin në përdorim të tretëve.
