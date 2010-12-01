@@ -1,0 +1,1 @@
+2. Dokumentacioni i krijuar prej përmbaruesit gjyqësor privat të çregjistruar dhe vula e tij i dorëzohen punonjësit të strukturës përgjegjëse të ngarkuar nga Ministri i Drejtësisë në urdhrin e këtij të fundit, të nxjerrë sipas pikës 1 të këtij udhëzimi.

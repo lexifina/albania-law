@@ -1,0 +1,1 @@
+5. Në rast se edhe pas njoftimeve sipas pikave 3 dhe 4 të këtij udhëzimi, përmbaruesi gjyqësor privat nuk bashkëpunon për dorëzimin e arkivit, atëherë struktura përgjegjëse në Ministrinë e Drejtësisë, në bashkëpunim me Dhomën Kombëtare të Përmbaruesve Gjyqësorë Privatë, marrin masat e nevojshme për marrjen në dorëzim të dokumentacionit.

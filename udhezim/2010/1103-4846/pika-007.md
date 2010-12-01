@@ -1,0 +1,1 @@
+7. Pas dorëzimit të dokumentacionit dhe vulës, struktura përgjegjëse në Ministrinë e Drejtësisë, bën shënimet përkatëse në regjistrin e përmbaruesve gjyqësorë privatë, në kolonat e emërtuara “Arkiva e përmbaruesit privat” dhe “Marrja e vulave dhe asgjësimi i tyre”, sipas përcaktimeve të urdhrit të Ministrit të Drejtësisë me nr.4864/26, datë 8.10.2010.
