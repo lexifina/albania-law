@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, për të cilët është bërë shënimi “Konfirmuar nga ZRPP-ja sipas të dhënave të regjistrit hipotekor”, pasi të kenë përfunduar procedurat e regjistrimit të pasurisë, e cila shpronësohet, dhe në bazë të dokumentacionit të plotë të pronësisë.
