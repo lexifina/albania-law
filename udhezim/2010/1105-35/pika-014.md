@@ -1,0 +1,1 @@
+14. Regjistrimi i aplikantëve në programet e studimit të ciklit të parë në formën e studimit me kohë të pjesshme dhe të edukimit në distancë ku janë shpallur fitues, të zhvillohet prej orës 8:00 të datës 25.11.2010 deri në orën 16:00 të datës 27.11.2010, pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë.

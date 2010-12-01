@@ -1,0 +1,1 @@
+17. Aplikimi dhe regjistrimi i kandidatëve, për transferim studimesh, kryhet pas shpërndarjes nga Ministri i Arsimit dhe Shkencës, të kuotave të përcaktuar në shkronjën “c” të pikës 1, të vendimit nr.826, datë 13.10.2010 të Këshillit të Ministrave, sipas përcaktimeve në statutet dhe rregulloret e IAL-ve publike.

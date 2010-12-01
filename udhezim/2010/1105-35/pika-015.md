@@ -1,0 +1,1 @@
+15. Regjistrimi i aplikantëve fitues të bëhet vetëm me dëftesën e pjekurisë së shkollës së mesme, origjinale, me përjashtim të rasteve të parashikuara në pikat 6 dhe 7 të këtij udhëzimi. Dokumentet e aplikantëve jofitues t’u kthehen atyre kundrejt kërkesës.

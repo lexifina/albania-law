@@ -1,0 +1,1 @@
+6. Në qoftë se aplikanti fitues nuk ka dëftesë pjekurie të shkollës së mesme, duhet të paraqesë dublikatë të saj, të lëshuar nga drejtoria e shkollës së mesme dhe të sigluar në Drejtorinë Arsimore rajonale/Zyrën arsimore përkatëse, ose listën e notave të shkollës së mesme të lëshuar nga Arkivi i Shtetit.

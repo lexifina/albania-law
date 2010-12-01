@@ -1,0 +1,1 @@
+11. Aplikimi i kandidatëve për t’u pranuar në programet e studimit të ciklit të parë në formën e studimit me kohë të pjesshme dhe të edukimit në distancë, të zhvillohet nga data 15.11.2010 deri në datën 19.11.2020, prej orës 8:00 deri në orën 16:00 pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë.

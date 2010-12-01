@@ -1,0 +1,1 @@
+16. Pas mbylljes së procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në Ministrinë e Arsimit dhe Shkencës dhe në APRIAL, listat përfundimtare të kandidatëve fitues të regjistruar në datën 30.11.2010.
