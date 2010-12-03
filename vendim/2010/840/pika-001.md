@@ -1,0 +1,1 @@
+1. Miratimin, në parim, të vendosjes, në ujërat tona territoriale, të kabllos nëndetare ndërkombëtare me fibër optike Bari (Itali) - Gjiri i Lalzit (Shqipëri), projekti “Balkans - Italy Network”, sipas aneksit 1, që i bashkëlidhet këtij vendimi.

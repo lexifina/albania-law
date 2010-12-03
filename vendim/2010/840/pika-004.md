@@ -1,0 +1,1 @@
+4. Autorizohen Ministria e Punëve Publike dhe Transportit, Ministria e Mbrojtjes dhe Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave për dhënien e lejeve e të informacioneve përkatëse për pikën hyrëse, në Gjirin e Lalzit, të kabllos nëndetare ndërkombëtare sipas rregullave në fuqi.

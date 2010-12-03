@@ -1,0 +1,1 @@
+2. Lejimin e shoqërisë UNIFI Holdings Inc. - dega Shqipëri, për të kryer studimin përkatës dhe për shtrirjen e kabllos nëndetare ndërkombëtare me fibër optike Bari (Itali) - Gjiri i Lalzit (Shqipëri).
