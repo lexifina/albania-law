@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rrugëve, si autoritet kontraktor, të zhvillojë procedurën e prokurimit, me objekt “Ndërtimi i rrugës Komuna e Parisit - Rruga e Re, Tiranë - Elbasan”, brenda vitit 2010.
