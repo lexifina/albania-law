@@ -1,0 +1,1 @@
+1. Miratimin e një fondi, deri në kufirin prej 300 000 000 (treqind milionë) lekësh, për t’u përdorur nga Ministria e Brendshme, në programin buxhetor “Emergjenca civile”, për përballimin e situatës emergjente, të krijuar nga përmbytjet natyrore. Ky fond klasifikohet si shpenzim nga të ardhurat jashtë limitit (kapitulli 6).

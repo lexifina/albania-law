@@ -1,0 +1,1 @@
+2. Fondi prej 300 000 000 (treqind milionë) lekësh mbulohet nga Korporata Elektroenergjetike Shqiptare (KESH) dhe kalimi i tij, për llogari të Ministrisë së Brendshme, bëhet në bazë të shpenzimeve faktike, të kryera për përballimin e kësaj situate.
