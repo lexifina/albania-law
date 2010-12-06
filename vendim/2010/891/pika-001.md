@@ -1,0 +1,1 @@
+1. Përcaktimin e standardeve të harmonizuara shqiptare, që kanë karakter referues për prezumimin e sigurisë të produkteve për konsumatorin, sipas listës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

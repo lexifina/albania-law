@@ -1,0 +1,1 @@
+2. Standardet e harmonizuara shqiptare, numrat dhe titujt e të cilave janë përfshirë në listën e përmendur në pikën 1 të këtij vendimi, shërbejnë si dokumente reference për prezumimin e sigurisë të produkteve për konsumatorin, në përputhje me kërkesat e sigurisë së përgjithshme, të përcaktuara në ligjin nr.9779, datë 16.7.2007.
