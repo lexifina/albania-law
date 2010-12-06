@@ -1,0 +1,2 @@
+Miratimin, në parim, të marrëveshjeve, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Kosovës, për kryerjen e procedurave të përbashkëta të kontrollit të hyrje-daljeve, nëpërmjet pikave të kalimit kufitar Morinë (Kukës) - Vërmicë (Prizren), Qafë Morinë (Tropojë) - Qafë Morinë (Gjakovë) dhe Qafë Prush (Has) - Qafë Prush (Gjakovë), ndërmjet Republikës së Shqipërisë dhe Republikës së Kosovës dhe protokolleve të kryerjes së veprimtarive të përbashkëta në këto pika të kalimit kufitar.
+Ky vendim hyn në fuqi menjëherë.
