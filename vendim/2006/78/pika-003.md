@@ -1,3 +1,3 @@
 3. Kanë të drejtë të kërkojnë që të vazhdojnë studimet në shkollat e larta publike, vetëm ata kandidatë, të cilët kanë kryer provimet e maturës shtetërore ose ekuivalentet e saj, për nxënësit, që kanë kryer arsimin e mesëm jashtë vendit.
-3.1 Përjashtohen nga provimet me zgjedhje kandidatët, që kërkojnë të vazhdojnë studimet në Akademinë e Edukimit Fizik dhe Sporteve, në Akademinë e Arteve dhe në Fakultetin e Edukimit Fizik dhe Sporteve, në universitetin “Luigj Gurakuqi”, Shkodër. Në këtë rast, pranimi i kandidatëve bëhet me konkurs të organizuar nga institucioni publik i arsimit të lartë përkatës. Në rast aplikimi për programe të tjera studimi, këta kandidatë u nënshtrohen provimeve me zgjedhje të maturës shtetërore.
-3.2 Përjashtohen nga provimet me zgjedhje kandidatët që kanë mbaruar arsimin e mesëm dhe të lartë përpara vitit 2006 dhe kërkojnë të vazhdojnë studimet në institucionet publike të arsimit të lartë, në formën e studimit me kohë të pjesshme.
+3.1 Shfuqizuar.
+3.2 Shfuqizuar.

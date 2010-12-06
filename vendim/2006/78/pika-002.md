@@ -1,1 +1,1 @@
-2. Arsimi i mesëm quhet i përfunduar kur nxënësi arrin rezultate kaluese në provimet e detyruara.
+2. Arsimi i mesëm quhet i përfunduar kur nxënësi arrin rezultate kaluese në provimet e detyruara dhe ato me zgjedhje. Në përfundim të provimeve të detyruara dhe të atyre me zgjedhje të Maturës Shtetërore, nxënësi pajiset me Diplomë të Maturës Shtetërore. Provimet e detyruara dhe ato me zgjedhje të Maturës Shtetërore zhvillohen në përfundim të vitit shkollor në një sesion të vetëm.
