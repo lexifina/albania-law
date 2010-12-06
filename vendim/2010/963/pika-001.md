@@ -1,0 +1,1 @@
+1. Shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të kontratës së lidhur për përfundimin e procedurave të prokurimit, me objekt “Shtypjen e “Fletores Zyrtare” për vitin 2010”, të kryera nga Qendra e Publikimeve Zyrtare, si autoritet kontraktor, deri më 31.12.2010.
