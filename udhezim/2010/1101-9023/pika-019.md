@@ -1,0 +1,1 @@
+19. Urdhri nr.8047, datë 2.12.2004 “Për formën, përmbajtjen dhe administrimin e regjistrave të noterëve dhe asistentëve, si dhe për dokumentacionin që përmbajnë dosjet e noterëve e asistentëve” shfuqizohet.

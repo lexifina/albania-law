@@ -1,0 +1,1 @@
+7. Numri i regjistrave manualë përcaktohet në bazë të numrit total të noterëve dhe asistentëve. Në rast se hapen dy e më shumë regjistra të noterëve/asistentëve, këta regjistra mund të numërtohen në faqen e parë të tyre. Numërtimi bëhet nga punonjësi i strukturës përgjegjëse në Ministrinë e Drejtësisë.

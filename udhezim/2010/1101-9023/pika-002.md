@@ -1,0 +1,1 @@
+2. Regjistri manual dhe ai elektronik kanë të njëjtin format standard të miratuar me këtë urdhër. Elementet e veçanta që karakterizojnë regjistrin elektronik nuk përbëjnë shmangie nga forma standarde e regjistrit dhe lidhen vetëm me paraqitjen elektronike të të dhënave. Rregullat e plotësimit të regjistrit manual dhe atij elektronik janë të njëjta.

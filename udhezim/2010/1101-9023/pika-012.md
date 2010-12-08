@@ -1,0 +1,1 @@
+12. Dokumentacioni i ndodhur në dosje, i cili pasqyron në mënyrë kronologjike të gjithë procesin e ndjekur nga asistenti dhe noteri në përputhje me legjislacionin në fuqi, numërtohet dhe pasqyrohet në fletën e pasqyrës së dokumenteve të dosjes të ngjitur në pjesën e brendshme të kapakut të saj ose të bashkëlidhur në kapak me vulën e Ministrisë së Drejtësisë.

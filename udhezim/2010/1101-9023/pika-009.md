@@ -1,0 +1,1 @@
+9. Regjistrat administrohen nga struktura përgjegjëse në Ministrinë e Drejtësisë dhe plotësohen me të dhënat e nevojshme, në sistemin elektronik ose me shkrim dore në regjistrin manual, prej personit të ngarkuar.
