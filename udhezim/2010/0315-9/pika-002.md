@@ -1,1 +1,1 @@
-2. Procesi i rishpërndarjes do të fillojë në datën 1 prill 2010 dhe do të mbyllet në 30 shtator 2010.
+2. Procesi i rishpërndarjes do të fillojë në datën 1 prill 2010 dhe do të mbyllet në 31.3.2011.
