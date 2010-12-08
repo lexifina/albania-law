@@ -1,1 +1,0 @@
-5. Numri, data dhe vendi i lejes (shënohen të dhëna mbi numrin e lejes, dita, muaji, viti i dhënies së saj, vendi i ushtrimit të veprimtarisë dhe kur është rasti, fjalët “hequr” ose “hequr përkohësisht” kur ka masa të tilla);
