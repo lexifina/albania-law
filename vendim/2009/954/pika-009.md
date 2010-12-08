@@ -1,6 +1,6 @@
 9. QNOD-ja mbledh informacion nga sistemi i vëzhgimit së hapësirës detare dhe nga sensorë të tjerë, pajisje ose mjete detare, të përfshira në operacione për kontrollin e hapësirës detare.
 IV.Operacionet e QNOD-së
-1. Operacionet e QNOD-së përcaktohen në manualin e procedurave standarde operacionale, të miratuar nga Ministri i Brendshëm dhe Ministri i Mbrojtjes, pas bashkërendimit me institucionet e tjera pjesëmarrëse. Në të njëjtën mënyrë miratohet edhe plani vjetor operacional i QNOD-së.
+1. Veprimtaria operacionale e Qendrës Ndërinstitucionale Operacionale Detare përcaktohet në dokumentin “Politikat dhe procedurat e funksionimit të Qendrës Ndërinstitucionale Operacionale Detare”, i cili miratohet me vendim të Këshillit të Ministrave.
 2. QNOD-ja drejton dhe bashkërendon operacionet detare të institucioneve të mëposhtme:
 a) Ministrisë së Brendshme:
 i) Operacionet detare për kontrollin e kufirit dhe të luftës kundër trafikut të paligjshëm.
@@ -46,5 +46,5 @@ V. Bashkërendimi, planifikimi dhe përgjegjësitë e institucioneve pjesëmarr�
 7. Për çështjet, të cilat nuk rregullohen nga ky vendim, institucionet pjesëmarrëse mbështeten në marrëveshjet përkatëse, të nënshkruara në zbatim të nenit 10 të ligjit nr.8875, datë 4.4.2002 “Për Rojën Bregdetare Shqiptare”, të ndryshuar.
 VI. Të fundit
 1. Ngarkohen Ministria e Mbrojtjes, Ministria e Brendshme, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, Ministria e Financave dhe Ministria e Punëve Publike, Transportit dhe Telekomunikacionit për zbatimin e këtij vendimi.
-2. Ngarkohen Ministria e Brendshme dhe Ministria e Mbrojtjes për bashkërendimin e procesit të hartimit të procedurave operacionale standarde brenda 6 muajve nga hyrja në fuqi e këtij vendimi.
+2. Shfuqizuar.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
