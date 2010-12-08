@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit, territorial dhe administrativ të bashkisë Belsh të qarkut të Elbasanit, që transferohen, në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes 1 që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 177 (njëqind e shtatëdhjetë e shtatë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 1306 (një mijë e treqind e gjashtë).
