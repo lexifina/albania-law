@@ -1,0 +1,3 @@
+1. Rishpërndarjen e fondeve, për shpenzime kapitale, ndërmjet programeve brenda buxhetit të vitit 2010, miratuar për Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave, si më poshtë vijon:
+a) Në programin “Mbrojtje mjedisi” të shtohen fondet, përkatësisht për TVSH-në, në vlerën 9 720 500 (nëntë milionë e shtatëqind e njëzet mijë e pesëqind) lekë, dhe, për kosto lokale, në vlerën 7 579 500 (shtatë milionë e pesëqind e shtatëdhjetë e nëntë mijë e pesëqind) lekë.
+b) Në programin “Administrimi i pyjeve” të pakësohen fondet, përkatësisht për TVSH-në, në vlerën 10 400 000 (dhjetë milionë e katërqind mijë) lekë dhe, për kosto lokale, në vlerën 6 900 000 (gjashtë milionë e nëntëqind mijë) lekë.
