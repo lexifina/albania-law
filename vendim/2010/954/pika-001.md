@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe të institucioneve të saj të varësisë, si autoritete kontraktore, që brenda datës 20 dhjetor 2010, të përfundojnë procedurat e prokurimit për mallra, shërbime dhe punë civile, me fondet e parashikuara në Buxhetin e Shtetit, për vitin 2010, sipas aneksit 1, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati përfshihen edhe lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
