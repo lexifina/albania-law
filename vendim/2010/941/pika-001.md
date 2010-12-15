@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2010, zëri “Mallra e shërbime”, i shtohet fondi prej 1 200 000 (një milion e dyqind mijë) lekësh, për përballimin e shpenzimeve të kurimit, në Itali, të z.Gudar Beqiraj.
