@@ -1,0 +1,1 @@
+2. Afati i paraqitjes së kërkesave të familjarëve të viktimave të ekzekutuara padrejtësisht, pa gjyq, për motive politike, është deri 6 muaj pas hyrjes në fuqi të këtij vendimi. Mosparaqitja e kërkesës brenda këtij afati sjell humbjen e të drejtës së dëmshpërblimit për familjarin e viktimës së ekzekutuar padrejtësisht, pa gjyq, për motive politike.

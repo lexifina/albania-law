@@ -1,0 +1,1 @@
+7. Kërkesat për përfitimin e dëmshpërblimit financiar përcillen pranë Ministrisë së Drejtësisë, nëpërmjet Postës Shqiptare sh.a. dhe Ministrisë së Punëve të Jashtme, për dërguesin me vendndodhje jashtë vendit, sipas parashikimeve të ligjit nr.9831, datë 12.11.2007 “Për dëmshpërblimin e ish-të dënuarve politikë të regjimit komunist”, të ndryshuar.

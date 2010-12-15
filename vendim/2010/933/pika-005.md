@@ -1,0 +1,1 @@
+5. Kërkesa paraqitet nga paraardhësit, bashkëshortja, pasardhësit, vëllezërit dhe motrat e viktimës së ekzekutuar padrejtësisht, pa gjyq, për motive politike, si dhe fëmija/fëmijët e vëllezërve dhe motrave. Familjarët në shkallë më të parë, sipas Kodit Civil, përjashtojnë familjarët e tjerë. E drejta e familjarëve për të kërkuar dëmshpërblim është e drejtë jopasurore vetjake.
