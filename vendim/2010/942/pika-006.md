@@ -1,0 +1,1 @@
+6. Shqyrtimi i kërkesave për leje minerare për zonat e hapura bëhet në bazë të parimit “i pari në kohë, i pari në të drejta”, dhe akti i miratimit të ministrit i jepet subjektit që ka aplikuar i pari dhe ka plotësuar kushtet e lejimit dhe dokumentacionin shoqërues sipas pikës 10 të këtij vendimi.

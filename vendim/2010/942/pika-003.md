@@ -1,0 +1,1 @@
+3. QKL-ja i përcjell në mënyrë elektronike Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dokumentacionin e plotë të aplikimit për leje minerare dhe bën të mundur aksesin në këtë dokumentacion për institucionet shqyrtuese, Agjencinë Kombëtare të Burimeve Natyrore (AKBN) dhe Shërbimin Gjeologjik Shqiptar (SHGJSH).

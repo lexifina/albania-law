@@ -1,0 +1,1 @@
+11. Pranimi i aplikimeve sipas procedurave të përcaktuara në këtë vendim fillon pas hyrjes në fuqi të vendimit të Këshillit të Ministrave për miratimin e programit 3-vjeçar minerar dhe të planit vjetor minerar.

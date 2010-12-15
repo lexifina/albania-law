@@ -1,0 +1,1 @@
+7. Subjektet që aplikojnë për leje minerare të kërkim-zbulimit, të shfrytëzimit apo të kërkim-zbulim-shfrytëzimit, bashkë me dosjen e dokumentacionit për leje minerare, janë të detyruar të deklarojnë me shkrim burimin ligjor të të gjithë informacionit gjeologjik apo gjeologo-minerar, të përdorur në ndërtimin e dokumentacionit aplikues.
