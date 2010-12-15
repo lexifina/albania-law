@@ -1,0 +1,6 @@
+# Neni 1
+Subjekti dhe fushëveprimi
+1. Ky udhëzim përcakton kriteret për përdorimin e koordinuar të komunikimit zanor ajër-tokë e të bazuar në ndarjen, në frekuencën 8,33 kHz të kanalit të komunikimit.
+2. Ky udhëzim do të zbatohet për sistemet e komunikimit zanor ajër-tokë të bazuar në ndarjen, në frekuencën 8,33 kHz të kanalit të komunikimit brenda brezit të shërbimit të radio-komunikimit mobil aeronautik 117,975-137 mhz, përbërësit e tyre dhe procedurat që lidhen me to sikurse dhe sistemeve të përpunimit të të dhënave të fluturimit në shërbim të njësive të trafikut ajror që ofrojnë shërbime të përgjithshme të trafikut ajror, përbërësit e tyre dhe procedurat që lidhen me to.
+3. Ky udhëzim do të zbatohet për të gjitha fluturimet operative të trafikut të përgjithshëm ajror mbi FL 195, në hapësirën ajrore të rajonit ICAO EUR, ku Republika e Shqipërisë është përgjegjëse për ofrimin e shërbimeve të trafikut ajror në përputhje me udhëzimin e ministrit nr.6 “Mbi dispozitën e shërbimeve të lundrimit ajror nën një Qiell të Vetëm Europian”, përveç nenit 4 i cili do të vlejë edhe poshtë FL 195.
+4. Në kuadër të rregullores së Komisionit (EC) nr.730/2006, paragrafit të parë të nenit 4 të shteteve anëtare mund të nxjerrin shmangie nga detyrimet për transportit ajror të përcaktuar në këtë udhëzim për fluturime që operojnë nën rregullat e fluturimit vizual.
