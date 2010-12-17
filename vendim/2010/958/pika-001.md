@@ -1,0 +1,1 @@
+1. Miratimin e kontratës me ndarje prodhimi për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në Shqipëri, në tokë, blloqet “4,5 dhe Dumre”, ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të Shqipërisë, përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore (AKBN), dhe Sky Petroleum, Inc., sipas tekstit që i bashkëlidhet këtij vendimi.
