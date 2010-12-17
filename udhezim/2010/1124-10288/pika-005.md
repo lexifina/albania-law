@@ -1,0 +1,1 @@
+5. Me miratimin e urdhrit, komisioni mblidhet dhe përcakton programin e punës lidhur me kryerjen e kësaj procedure brenda afateve të përcaktuara në vendimin e Këshillit të Ministrave nr.757, datë 15.9.2010.

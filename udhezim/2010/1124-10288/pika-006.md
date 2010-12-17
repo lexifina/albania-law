@@ -1,0 +1,1 @@
+6. Ekspertët vlerësues të pasurisë së paluajtshme, anëtarë të komisionit, do të marrin një pagesë prej 300 000 lekësh, ndërsa anëtarët e tjerë të komisionit do të paguhen me 5000 lekë secili. Kjo pagesë do të kryhet nga Ministria e Ekonomisë Tregtisë dhe Energjetikës në zbatim të vendimit të Këshillit të Ministrave nr.428, datë 9.6.2010.

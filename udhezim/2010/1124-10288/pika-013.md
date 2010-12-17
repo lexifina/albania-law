@@ -1,0 +1,2 @@
+13. Në zbatim të pikës 18 të vendimit në rastet kur shoqëria nuk pranon të blejë truallin, marrëdhëniet ndërmjet shoqërisë dhe pronarëve të truallit të njohur me vendim të Agjencisë së Kthimit dhe Kompensimit të Pronave rregullohen me anë të një kontrate konform dispozitave të Kodit Civil. Në këtë rast shoqëria duhet të marrë një vendim të asamblesë.
+Ky udhëzim hyn në fuqi me botimin në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+11. Me marrjen e dokumentacionit përkatës, Drejtoria e Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave kryen verifikimin e tij dhe nëse e gjen në rregull kryen procedurat e përcaktuara në pikat 9 deri 14 të vendimit të Këshillit të Ministrave nr.757, datë 15.9.2010.

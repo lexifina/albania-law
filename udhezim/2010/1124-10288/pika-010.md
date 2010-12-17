@@ -1,0 +1,1 @@
+10. Me kryerjen e këtyre procedurave Ministra e Ekonomisë, Tregtisë dhe Energjetikës të gjithë dokumentacionin ia dërgon Drejtorisë së Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave.

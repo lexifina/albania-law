@@ -1,0 +1,1 @@
+3. Në zbatim të pikës 3 të këtij vendimi, përfaqësuesit e institucioneve përkatëse, të cilët janë anëtarë të komisionit, duhet të jenë persona që punojnë në drejtoritë që merren me menaxhimin e këtyre shoqërive dhe kryetar i komisioni për përcaktimin e sipërfaqes së domosdoshme që i nevojitet shoqërisë do të jetë përfaqësuesi i institucionit administrues.

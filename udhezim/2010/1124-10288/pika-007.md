@@ -1,0 +1,1 @@
+7. Me kryerjen e procedurave të përcaktuara në pikat 4 deri 7 të vendimit, komisioni harton raportin përkatës, i cili duhet të jetë i firmosur nga të gjithë anëtarët dhe ia dërgon atë për miratim Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, së bashku me të gjithë dokumentacionin përkatës. Për çdo vendim të kundërt, ato duhet të jenë bashkëlidhur këtij raporti.

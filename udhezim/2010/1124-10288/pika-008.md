@@ -1,0 +1,1 @@
+8. Me marrjen e këtij dokumentacioni, Ministria e Ekonomisë, Tregtisë dhe Energjetikës bën shqyrtimin e tij dhe nëse e gjen atë të rregullt, e miraton. Nëse nuk e gjen të rregullt, ia kthen atë komisionit. Kthimi i dokumentacionit do të bëhet me firmë të titullarit të Ministrisë. Komisioni duhet të bëjë rregullimet përkatëse brenda një afati 30-ditor (tridhjetë) nga marrja e tij.

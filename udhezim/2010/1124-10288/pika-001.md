@@ -1,0 +1,1 @@
+1. Në zbatim të pikës 1 të vendimit të Këshillit të Ministrave nr.757, datë 15.9.2010, Ministria e Ekonomisë, Tregtisë dhe Energjetikës harton listën e shoqërive ku shteti zotëron kuota apo aksione, në të cilat trualli është dhënë në përdorim apo me qira, të cilat vazhdojnë aktivitetin e tyre dhe afati i tyre nuk ka përfunduar.

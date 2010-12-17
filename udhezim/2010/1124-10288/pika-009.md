@@ -1,0 +1,1 @@
+9. Me miratimin e këtij dokumentacioni, Ministri i Ekonomisë, Tregtisë dhe Energjetikës i bën me dije shoqërisë kryerjen e procedurave për shitjen e truallit të domosdoshëm që i nevojitet asaj për ushtrimin e veprimtarisë së tij.

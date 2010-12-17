@@ -1,0 +1,1 @@
+2. Me hartimin e kësaj liste Ministri i Ekonomisë, Tregtisë dhe Energjetikës nxjerr urdhrin përkatës për ngritjen e komisionit, rast pas rasti, për çdo shoqëri, për përcaktimin e sipërfaqes së domosdoshme që i nevojitet asaj për ushtrimin e veprimtarisë.
