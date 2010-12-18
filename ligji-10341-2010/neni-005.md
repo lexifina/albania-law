@@ -1,0 +1,6 @@
+# Neni 5
+Autoritetet, organizmat e standardizimit ushtarak në Forcat e Armatosura
+dhe përgjegjësitë kryesore të tyre
+1. Ministri i Mbrojtjes është autoriteti më i lartë civil në sistemin e standardizimit në Forcat e Armatosura. Ai përgjigjet, në emër të Republikës së Shqipërisë, për miratimin e politikave të zhvillimit të standardizimit në Forcat e Armatosura dhe pranimin e STANAG-ut/AP-ve të NATO-s.
+2. Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura është autoriteti më i lartë ushtarak, që përgjigjet për funksionimin e sistemit të standardizimit në Forcat e Armatosura.
+3. Bordi i standardizimit në Ministrinë e Mbrojtjes është organ i posaçëm (ad hoc), i cili shqyrton, për t’u miratuar nga Ministri i Mbrojtjes, planet për pranimin e standardeve të NATO-s, të standardeve civile për përdorim nga njësitë e Forcave të Armatosura, si dhe praktikat dokumentare të paraqitura nga organizmat e përcaktuar në sistemin e standardizimit në Forcat e Armatosura. Planet për pranimin e STANAG-ut/AP-ve i propozohen Ministrit të Mbrojtjes nëpërmjet Shefit të Shtabit të Përgjithshëm. Mënyra e organizimit dhe e funksionimit të bordit të standardizimit përcaktohet me urdhër të Ministrit të Mbrojtjes.

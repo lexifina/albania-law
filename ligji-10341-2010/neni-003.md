@@ -1,0 +1,17 @@
+# Neni 3
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+1. “Standardizim” është zhvillimi dhe zbatimi i koncepteve, i procedurave dhe i rregullave të përbashkëta, me synimin për të zhvilluar e për të mbajtur kapacitetet e duhura operacionale në tri nivelet e standardizimit në fushën ushtarake; të përafrueshmërisë, të ndërkëmbyeshmërisë, të përputhshmërisë, në fushat e operacioneve, të procedurave, të materialeve, si dhe ato teknike e administrative, për të arritur ndërveprimin optimal të tyre.
+2.“Marrëveshje standardizimi (STANAG)” është arritja e një marrëveshjeje ndërmjet disa shteteve ose të gjitha shteteve anëtare të Aleancës, për të adoptuar përdorimin e pajisjeve ushtarake të njëjta ose të përafërta, përfshirë municione, materiale furnizimi dhe rezerva, si dhe të procedurave operacionale, logjistike dhe administrative të njëjta. Pranimi nga vendet pjesëmarrëse i një publikimi të Aleancës nga Agjencia e NATO-s për Standardizimin emërtohet si një marrëveshje standardizimi.
+3. “Përafrueshmëria” është ngjashmëria e produkteve, proceseve ose e shërbimeve që ofrohen për përdorim të përbashkët, nga vendet e Aleancës, në kushte të caktuara, për të përmbushur kërkesa të paracaktuara, pa shkaktuar efekte të padëshiruara.
+4. “Ndërkëmbyeshmëria” është aftësia e një produkti, e një procesi ose e një shërbimi, për t’u përdorur në mënyrë të shkëmbyeshme në vend të një produkti, procesi a shërbimi tjetër që përmbush kërkesa të njëjta.
+5. “Përputhshmëria” është gjendja fundore e arritur kur vendet përdorin doktrina, procedura ose pajisje të njëjta.
+6. “Publikimi i Aleancës (AP)” është dokumenti zyrtar i standardizimit në NATO, për të cilin disa ose të gjitha vendet e NATO-s bien dakord ta përdorin, si një dokument autoritar të zbatimit të përbashkët, dhe që u jepet për zbatim të gjithë përdoruesve të të gjitha niveleve.
+7.“Autoriteti propozues i STANAG-ut” është komanda/drejtoria/institucioni që propozon fillimin e procesit të ratifikimit të një STANAG-u.
+8. “Autoriteti kujdestar” është komanda/drejtoria/institucioni që nis procesin e ratifikimit të një STANAG-u/AP-je.
+9. “Grupi i ekspertëve” është një organizëm ose një grup pune në varësi të një autoriteti kujdestar, të cilit i jepet detyrë nga ky i fundit për zhvillimin e projekteve të dokumenteve normative të standardizimit.
+10. “Personi përgjegjës i standardizimit” është personi mbikëqyrës dhe që shërben si pikë kontakti për zhvillimin e projekteve të dokumenteve normative të standardizimit. Ai është, në përgjithësi, kryetari i grupit të ekspertëve për vlerësimin, zbatimin dhe rishikimin e tyre.
+11. “Raporti i vlerësimit” është një raport i hollësishëm i vlerësimit për secilin STANAG/AP, që shpreh implikimet e mundshme strukturore e infrastrukturore të pajisjeve e të sistemeve, të trajnimit e të arsimimit, të koncepteve e doktrinave, si dhe ato financiare për zbatimin e tij në një periudhë kohore të caktuar.
+12. “Propozimi” është faza e fillimit për përpunimin e një STANAG-u. Propozimet e standardizimit i paraqiten, nga vendet dhe organizmat e NATO-s, autoritetit përgjegjës të detyrës, duke përdorur një formular të standardizuar.
+13. “Pranimi” është deklarimi, me anë të cilit një vend i NATO-s pranon zyrtarisht, me ose pa rezerva, përmbajtjen e një marrëveshjeje standardizimi të NATO-s (STANAG).
+14. “Shpallja” është një deklarim zyrtar nga autoriteti kompetent, i cili i jep STANAG-ut një efekt zbatimi në të gjitha vendet e NATO-s. Shpallja bëhet nga Drejtori i Agjencisë së NATO-s për Standardizimin (NSA) kur plotësohen kushtet e tij.
