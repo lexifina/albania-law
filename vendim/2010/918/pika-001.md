@@ -1,0 +1,1 @@
+1. Lejimin e zyrës së Prokurorit të Përgjithshëm të përfundojë, brenda datës 30 dhjetor 2010, procedurën e prokurimit, me objekt “Blerje pajisjesh kompjuterike”, të ndarë me lote, me fondet e parashikuara në Buxhetin e Shtetit për vitin 2010. Brenda këtij afati përfshihet edhe nënshkrimi i kontratës.
