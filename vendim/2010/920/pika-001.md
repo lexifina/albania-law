@@ -1,0 +1,1 @@
+1. Lejimin e Muzeut Historik Kombëtar, si autoritet kontraktor, për shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të kontratës së lidhur, deri më 30 nëntor 2010, për procedurën e prokurimit, me objekt “Shërbim me rojë civile”.
