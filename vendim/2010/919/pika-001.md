@@ -1,0 +1,1 @@
+1. Lejimin e Gjykatës së Lartë të përfundojë, brenda datës 30 dhjetor 2010, procedurën e prokurimit me objekt “Rikonstruksion i mjediseve në Gjykatën e Lartë”, me fondet e parashikuara në Buxhetin e Shtetit për vitin 2010, si dhe të nënshkruajë kontratën me ofertuesit fitues.
