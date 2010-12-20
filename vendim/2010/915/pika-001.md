@@ -1,0 +1,1 @@
+1. Lejimin e Institutit të Statistikave (INSTAT), si autoritet kontraktor, të përfundojë procedurat e prokurimit me objekt “Materiale për regjistrimin” dhe “Publikime për njësinë e regjistrimit”, me fondet e parashikuara në Buxhetin e Shtetit për vitin 2010, si dhe të nënshkruajë kontratën me ofertuesit fitues brenda datës 30 dhjetor 2010.
