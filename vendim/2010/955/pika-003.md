@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë, sipas tabelës bashkëlidhur këtij vendimi dhe pjesë përbërëse e tij, për sipërfaqen prej 50 (pesëdhjetë) m2, tokë truall, pronë private, në masën 893 350 (tetëqind e nëntëdhjetë e tre mijë e treqind e pesëdhjetë) lekë.
