@@ -1,0 +1,1 @@
+2. Instituti i Statistikës ngarkohet të kryejë anketimin dhe regjistrimin e përfituesve të ndihmës ekonomike, për llogari të Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta, si dhe të kryejë të gjitha procedurat administrative për kryerjen e këtij procesi.

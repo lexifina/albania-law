@@ -1,0 +1,1 @@
+1. Kryerjen e anketimit dhe të regjistrimit të përfituesve të ndihmës ekonomike, me fondin prej 83 751 000 (tetëdhjetë e tre milionë e shtatëqind e pesëdhjetë e një mijë) lekësh, sipas preventivit bashkëlidhur këtij vendimi.
