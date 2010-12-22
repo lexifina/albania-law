@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 27.5.2010, për çështjen nr.847/05 “Berhani kundër Shqipërisë”, në shumën 4 800 (katër mijë e tetëqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
