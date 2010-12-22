@@ -1,0 +1,1 @@
+7. Kur kërkesa për shtyrjen e afateve është në kushtet e rastit (b) të pikës 5, afati shtesë do të jetë sa diferenca ndërmjet afatit të parashikuar për marrjen e lejeve sipas kontratës dhe afatit të përcaktuar në vendimin e Këshillit të Ministrave nr.448, datë 16.6.2010, në përputhje me kapacitetin përkatës të hidrocentralit/eve.

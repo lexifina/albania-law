@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Projekteve dhe Bashkëpunimit Ekonomik, në bashkëpunim me Drejtorinë e Shërbimeve Juridike, përgatitin informacionin e nevojshëm mbi procedurën e ndjekur për trajtimin e kërkesës dhe e përcjellin për miratim te titullari i autoritetit kontraktor, së bashku me kontratën shtesë për shtyrjen e afateve, e cila do të hyjë në fuqi me nënshkrimin nga palët.
