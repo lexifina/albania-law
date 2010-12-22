@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë në buxhetin e miratuar për vitin 2010, në zërin “Mallra dhe shërbime”, i shtohet fondi 2 500 000 (dy milionë e pesëqind mijë) lekë, për përballimin e shpenzimeve të kurimit të z.Bardhyl Lleshi, në Pakistan.
