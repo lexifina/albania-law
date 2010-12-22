@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2010, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 3 000 000 (tre milionë) lekësh, për mbulimin e shpenzimeve të kurimit të shtetases Jorgjie Meko, në Turqi.
