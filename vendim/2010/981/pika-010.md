@@ -1,0 +1,1 @@
+10. Zyra e Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyra vendore e regjistrimit të pasurive të paluajtshme, Berat, të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara, deri në çastin kur do të realizohet procesi i hedhjes së trupit të rrugës në hartat treguese të regjistrimit, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
