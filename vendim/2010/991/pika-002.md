@@ -1,0 +1,1 @@
+2. Vendimi nr.718 datë 3.9.2010 i Këshillit të Ministrave “Për një shtesë fondi në buxhetin e vitit 2010, miratuar për Ministrinë e Turizmit, Kulturës, Rinisë e Sporteve, si kontribut për ndërtimin e Parkut Kombëtar Shqiptar “Nënë Tereza”, në Kleveland-Ohio, SHBA”, shfuqizohet.
