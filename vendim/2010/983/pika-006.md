@@ -1,0 +1,1 @@
+6. IMK-ja përcakton kriteret e veçanta për punonjësit që angazhohen në veprimtaritë me trashëgiminë kulturore. Marrëdhëniet e punës rregullohen në bazë të ligjit nr.7961, datë 12.7.1995 “Kodi i Punës i Republikës së Shqipërisë”, të ndryshuar. Të drejtat dhe detyrat e stafit drejtues dhe të punonjësve që varen prej tyre përcaktohen në rregulloret e brendshme të IMK-së.
