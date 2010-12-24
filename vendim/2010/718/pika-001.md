@@ -1,1 +1,0 @@
-1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2010, t’i shtohet fondi prej 10 000 000 (dhjetë milionë) lekësh, si kontribut për ndërtimin e Parkut Kombëtar Shqiptar “Nënë Tereza”, në Kleveland-Ohio, SHBA.
