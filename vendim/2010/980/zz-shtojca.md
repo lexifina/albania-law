@@ -1,0 +1,31 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+DREJTORIA E PËRGJITHSHME E RRUGËVE
+DREJTORIA E SHPRONËSIMEVE
+LISTA EMËRORE E PRONARIT QË SHPRONËSOHET NË SEGMENTIN RRUGOR LUSHNJË-FIER
+Nr.
+Emri
+Atësia
+Mbiemri
+Z.K.
+Nr.Pas.
+Tokë arë
+Shënime
+Sip.m2
+Çmimi
+Lekë/m2
+Vlera
+lekë
+1
+Luis
+Dervish
+Veliu
+2636
+72/36
+1725
+1200
+2 070 000
+Konfirmuar nga ZRPP-ja
+Totali
+1725
+2 070 000
