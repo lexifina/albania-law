@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të katit përdhe të ndërtesës së Spitalit Infektiv, Elbasan, nga Ministria e Shëndetësisë te Ministria e Arsimit dhe Shkencës, për funksionimin e Fakultetit të Infermieristikës të Universitetit “Aleksandër Xhuvani”, Elbasan, sipas genplanit që i bashkëlidhet këtij vendimi.
