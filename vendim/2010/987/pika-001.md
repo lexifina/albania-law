@@ -1,0 +1,1 @@
+1. Dhënien, pa shpërblim, të 30 000 (tridhjetë mijë) automatikëve 7.62 mm, model 56, dhe të 50 000 000 (pesëdhjetë milionë) fishekëve 7.62 mm, model 56, Qeverisë Afgane, për Policinë Kombëtare Afgane, si kontribut i Këshillit të Ministrave të Republikës së Shqipërisë, në kuadër të përpjekjeve të koalicionit ndërkombëtar kundër terrorizmit.
