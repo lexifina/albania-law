@@ -1,0 +1,1 @@
+7. ARM-ja miraton me leje të thjeshtë mjedisore (autorizim mjedisor) vetëm veprimtaritë që sigurojnë zbatimin e normave të lejuara të zhurmës në mjedis dhe garantojnë qetësinë publike në përputhje me aktet ligjore përkatëse.

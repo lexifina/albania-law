@@ -1,0 +1,1 @@
+9. ARM-ja brenda 5 ditëve nga data e marrjes së vendimit informon me shkrim njësinë e qeverisjes vendore (NJQV) ku do të ushtrohet veprimtaria, duke i bërë të ditur vendimin e marrë, si dhe kushtet që duhet të zbatojë subjekti për mbrojtjen e mjedisit dhe qetësisë publike nga zhurmat.

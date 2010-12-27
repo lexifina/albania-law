@@ -1,0 +1,1 @@
+4. Drejtoria e Mbrojtjes së Mjedisit brenda 2 ditëve pas marrjes së dokumentacionit të aplikimit nga QKL-ja e përcjell atë elektronikisht për shqyrtim pranë Agjencisë Rajonale të Mjedisit (ARM) në qarkun përkatës.
