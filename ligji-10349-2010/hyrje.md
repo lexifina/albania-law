@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 349, datë 11.11.2010
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KARTËN E ORGANIZATËS PËR MIRËMBAJTJEN DHE FURNIZIMIN E NATO-S (NAMSO), 1958
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
