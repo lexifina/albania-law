@@ -1,1 +1,0 @@
-3. Qëllimi i veprimtarisë së APRIAL-it është krijimi i një sistemi kombëtar, unik dhe transparent, për përcaktimin e fituesve ndërmjet maturantëve kandidatë për studime në programet e studimit, që ofrohen nga institucionet e arsimit të lartë.

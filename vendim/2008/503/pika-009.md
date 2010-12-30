@@ -1,1 +1,0 @@
-9. Struktura dhe niveli i pagave të nëpunësve në pozicionet “Specialist” deri në “Titullar i institucionit” caktohen në bazë të vendimit nr.478, datë 18.7.2007 të Këshillit të Ministrave “Për miratimin e strukturës dhe të niveleve të pagave të nëpunësve të disa institucioneve, në varësi të ministrave të linjës”, të ndryshuar.
