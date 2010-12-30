@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion të Rrjetit Kombëtar me Brez të Gjerë të Shqipërisë REKAB (National Broadband Network), është Ministri për Inovacionin dhe Teknologjinë e Informacionit e të Komunikimit.
