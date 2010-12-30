@@ -1,0 +1,33 @@
+{
+  "qbz_id": 16615,
+  "title": "PËR TRAJTIMIN FINANCIAR TË PUNONJËSVE QË DËRGOHEN ME SHËRBIM JASHTË QENDRËS SË PUNËS, BRENDA VENDIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "997",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-12-10",
+  "published": "2010-12-30",
+  "in_force": "2010-12-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2296bfbab3008526e5cc91ef744d8671629a11b5329b5719d2e5953003d90382.docx",
+  "source_sha256": "2296bfbab3008526e5cc91ef744d8671629a11b5329b5719d2e5953003d90382",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16615",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/12/10/997",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62386,
+    56466,
+    18098,
+    63352,
+    9752,
+    8871
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
