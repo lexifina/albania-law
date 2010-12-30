@@ -1,0 +1,1 @@
+5. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave në bashkëpunim me ministritë e tjera të linjës, njësitë e qeverisjes vendore, institucionet kërkimore-shkencore, organizatat jofitimprurëse, përfaqësuesit e biznesit dhe pronarët privatë, merr masa për të hartuar planin e menaxhimit të rezervatit natyror të menaxhuar.

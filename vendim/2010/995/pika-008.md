@@ -1,0 +1,1 @@
+8. Autoritet shtetëror, që ngarkohet me administrimin e zonës së mbrojtur, janë strukturat e Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave, ndërsa administrata ekzistuese e zonës së mbrojtur Patok-Fushëkuqe kryen funksionet e administratës së rezervatit natyror të menaxhuar të Patok-Fushëkuqe-Ishëm.
