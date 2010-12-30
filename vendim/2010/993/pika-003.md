@@ -1,0 +1,1 @@
+3. Pronarët e pasurive që shpronësohen të kompensohen në vlerë të plotë sipas masës përkatëse, dhënë në tabelën bashkëlidhur këtij vendimi dhe që është pjesë përbërëse e tij, për sipërfaqen 300 (treqind) m² tokë truall, në vlerën e përgjithshme të shpronësimit 240 000 (dyqind e dyzet mijë) lekë.
