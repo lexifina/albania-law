@@ -1,0 +1,1 @@
+9. Për objektet e banimit, të regjistruara në ZRPP, akti i bashkëpronësisë hartohet nga asambleja, sipas pikës 3, të nenit 8 të ligjit nr.10 112, datë 9.4.2009 “Për administrimin e bashkëpronësisë në ndërtesat e banimit” dhe regjistrohet brenda një viti nga hyrja në fuqi e këtij vendimi.

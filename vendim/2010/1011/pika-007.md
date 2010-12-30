@@ -1,0 +1,1 @@
+7. Aktit të bashkëpronësisë i bashkëlidhet një kopje e rregullores, që përcakton procedurat e formimit e të funksionimit të asamblesë së pronarëve të njësive, e cila hartohet bazuar në rregulloren tip të administrimit të bashkëpronësisë, të miratuar me vendim të Këshillit të Ministrave.

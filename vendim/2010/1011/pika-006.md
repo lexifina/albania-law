@@ -1,0 +1,1 @@
+6. Në rastet kur ndryshimet në pjesët e përbashkëta a individuale sjellin vetëm ndryshim të të drejtave të përdorimit, së bashku me detyrimet për mirëmbajtje, siç janë rastet e përmendura në shkronjat “c” dhe “ç”, të pikës 4, të këtij vendimi, në aktin e bashkëpronësisë reflektohet vetëm ndryshimi fizik në planimetrinë e katit, ku ka ndodhur ndryshimi.

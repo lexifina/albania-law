@@ -1,0 +1,1 @@
+1. Miratimin e formatit tip të aktit të bashkëpronësisë, sipas aneksit A, bashkëlidhur këtij vendimi, i cili përbëhet nga tre fletë. Shpjegimet analitike për çdo fletë vendosen pas fletëve përkatëse të aneksit A.

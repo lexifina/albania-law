@@ -1,0 +1,1 @@
+3. Për objektet e regjistruara në Zyrën e Regjistrimit të Pasurive të Paluajtshme përpara hyrjes në fuqi të këtij vendimi, dokumentacioni përmban vetëm dokumentet e përcaktuara në shkronjën “b”, të pikës 2, të këtij vendimi.
