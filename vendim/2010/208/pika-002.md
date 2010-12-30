@@ -1,1 +1,2 @@
-2. Kundërvlera në lekë e shumës së sipërpërmendur t’i shtohet buxhetit të miratuar për vitin 2010, për Fondin Shqiptar të Zhvillimit, për t’u përdorur në formën e transfertës.
+2. Kundërvlefta në lekë për 200 000 (dyqind mijë) euro t’i shtohet buxhetit të miratuar për vitin 2010, për Fondin Shqiptar të Zhvillimit, për t’u përdorur në formën e transfertës.
+2/1. Fondet e pashpenzuara prej 200 000 (dyqind mijë) eurosh nga fondi rezervë i Buxhetit të Shtetit, për vitin 2010, të përdoren nga Fondi Shqiptar i Zhvillimit për rimbursimin e TVSH-së për kontratat e financuara nga IPA-ja, 2008.
