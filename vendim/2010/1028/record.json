@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16672,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.500, DATË 6.7.2010 TË KËSHILLIT TË MINISTRAVE “PËR EMËRIMIN E KRYETARIT DHE TË ANËTARËVE TË KËSHILLIT DREJTUES TË AUTORITETIT TË AVIACIONIT CIVIL”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1028",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2010-12-15",
+  "published": "2010-12-31",
+  "in_force": "2010-12-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b9b89e2c3230e0ea0b9852bec469fffff80b00de029d2b1612ad6d4d27302bee.docx",
+  "source_sha256": "b9b89e2c3230e0ea0b9852bec469fffff80b00de029d2b1612ad6d4d27302bee",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16672",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2010/12/15/1028",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
