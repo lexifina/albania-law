@@ -1,0 +1,1 @@
+1. Të jetë sipërfaqe e veshur me bimësi pyjore e kullosore, drurë e shkurre natyrore, e mjaftueshme për të garantuar strehimin dhe ushqimin e llojeve që do të mbarështohen gjatë gjithë vitit, duke pranuar një ushqim plotësues në një periudhë të caktuar të vitit.
