@@ -1,0 +1,7 @@
+1. Për parandalimin dhe zbulimin në kohë të rreziqeve nga zjarret në pyje e kullota, si dhe për shuarjen e tyre, drejtoritë përkatëse të shërbimit pyjor kryejnë këto detyra:
+a) Hartojnë planet e masave për parandalimin dhe menaxhimin e zjarreve në pyjet dhe kullotat, në pronësi e në administrim të qeverisjes qendrore, në përputhje me planin e masave për parandalimin dhe menaxhimin e zjarreve në pyjet dhe kullotat, të miratuar nga ministri përgjegjës, dhe me udhëzimet e Drejtorisë së Emergjencave Civile. Në këto plane të jepen në mënyrë të hollësishme masat e veprimet e domosdoshme për parandalimin e rreziqeve nga zjarri, veprimet për zbulimin e shuarjen e zjarreve dhe për rehabilitimin e sipërfaqeve të dëmtuara nga zjarri.
+b) Organizojnë sistemin e vrojtim-sinjalizimit, i cili funksionon gjatë gjithë vitit në shkallë të ndryshme gatishmërie, në varësi të sezonit të zjarreve.
+c) Organizojnë, për shuarjen e zjarreve dhe eliminimin e pasojave të tyre, njësitë vullnetare të shuarjes së zjarreve (NJVSHZ), me 5-15 vullnetarë, të cilët veprojnë gjatë periudhës 1 maj-15 tetor, për pyjet në pronësi të qeverisjes qendrore.
+ç) Planifikojnë pajisjen, shpërndarjen dhe përdorimin efektiv të burimeve njerëzore e të materialeve që kanë në dispozicion.
+d) Drejtojnë fushata për informimin dhe ndërgjegjësimin e publikut për rrezikun e zjarreve dhe mbrojtjen nga zjarri.
+dh) Në bashkëpunim me strukturat e Policisë Pyjore dhe të emergjencave civile, organizojnë trajnimin dhe kualifikimin e punonjësve të NJVSHZ-ve, për shuarjen e zjarreve.

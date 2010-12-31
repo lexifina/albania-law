@@ -1,0 +1,1 @@
+7. Për pyjet komunale dhe për pyjet private, masat parandaluese zbatohen nga njësitë e qeverisjes vendore e pronarët privatë, në përputhje me kërkesat e planit, të miratuara sipas pikës 3 të këtij vendimi. Zbatimi i tyre kontrollohet nga Policia Pyjore.

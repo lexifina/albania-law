@@ -1,0 +1,1 @@
+9. Shpenzimet për funksionimin dhe përmirësimin e infrastrukturës për shuarjen e zjarreve në fondin pyjor dhe kullosor kombëtar, si dhe për ngritjen e njësive vullnetare të shuarjes së zjarreve (NJVSHZ) përballohen nga personat juridikë dhe/ose fizikë, që i kanë në pronësi/përdorim, në zbatim të detyrimeve që rrjedhin nga ligji nr.8756, datë 26.3.2001 “Për emergjencat civile”.

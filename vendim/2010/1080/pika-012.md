@@ -1,0 +1,1 @@
+12. Djegia e kullotave të infektuara nga barërat e këqija dhe parazitët bëhet me miratimin me shkrim të drejtorisë përkatëse të shërbimit pyjor, sipas nenit 22 të ligjit nr.9693, datë 19.3.2007 “Për fondin kullosor”, të ndryshuar.

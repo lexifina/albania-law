@@ -1,0 +1,1 @@
+2. Kërkesat e pikës 1 të këtij vendimi janë të detyrueshme edhe për njësitë e qeverisjes vendore për pyjet e kullotat komunale në pronësi/përdorim të tyre, pyjet e kullotat private, si dhe për subjektet që ushtrojnë veprimtari në fondin pyjor e kullosor publik, të cilat përballohen me shpenzimet e tyre.

@@ -1,0 +1,1 @@
+3. Prefekti miraton planin e masave për parandalimin dhe menaxhimin e zjarreve në fondin pyjor e kullosor kombëtar, për të gjitha format e pronësisë dhe/ose të përdorimit për qarkun, duke marrë më parë vlerësimin e Policisë Pyjore të rrethit në rajonin përkatës.

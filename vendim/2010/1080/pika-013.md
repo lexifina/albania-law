@@ -1,0 +1,1 @@
+13. Ndezja e zjarreve në brendësi të zonave të mbrojtura bëhet vetëm në zona të përcaktuara nga administrata e këtyre zonave, pasi të jenë marrë masat e nevojshme për krijimin e kushteve të përshtatshme që parandalojnë përhapjen e zjarrit.

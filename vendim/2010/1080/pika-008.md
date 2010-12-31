@@ -1,0 +1,1 @@
+8. Njësitë e qeverisjes vendore dhe pronarët privatë ngrenë infrastrukturën për mbrojtjen nga zjarri, raportojnë në drejtorinë përkatëse të shërbimit pyjor me kërkesë të saj dhe kontrollohen nga Policia Pyjore për zbatimin e masave parandaluese e të masave për ndërhyrje në raste zjarresh.

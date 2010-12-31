@@ -1,0 +1,1 @@
+18. Mënyra e pagesës dhe e shpenzimeve për shuarjen e zjarreve në pyje dhe kullota bëhet sipas akteve ligjore dhe nënligjore në fuqi, që përcaktojnë mënyrën e lëvrimit të fondeve në rastet e emergjencave civile.

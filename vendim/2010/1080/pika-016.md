@@ -1,0 +1,1 @@
+16. Drejtimi organizativ dhe teknik i operacionit për shuarjen e zjarreve në pyje dhe kullota bëhet nga inspektori i Policisë Pyjore, përgjegjës për zonën, në rastet kur është e nevojshme vendimmarrja për zgjidhjen e situatave konkrete.
