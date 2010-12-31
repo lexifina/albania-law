@@ -1,0 +1,1 @@
+18. Pas verifikimit, administratori/shoqëria administruese përgatit raportin e verifikimit dhe ia paraqet kryesisë së asamblesë së bashkëpronarëve, e cila duhet që brenda 30 ditëve të përgatitë edhe propozimin për tarifën e administrimit për secilin bashkëpronar dhe ta paraqesë për miratim në mbledhjen e asamblesë së bashkëpronarëve, e cila duhet të mblidhet brenda 10 ditëve.

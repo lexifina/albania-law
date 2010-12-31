@@ -1,0 +1,1 @@
+17. Mbi bazën e pretendimeve të pronarëve të njësive të veçanta, administratori verifikon nëse ata përdorin ose jo pjesë a pajisje të veçanta, si: hyrje/dalje në objekt, aparat për matjen e konsumit të ujit dhe të energjisë elektrike për pjesët e përbashkëta, shkarkime të ujërave të zeza e tubacione të ujit të pijshëm, oxhaqe të dala jashtë ndërtesës, shkallë, ashensor etj.

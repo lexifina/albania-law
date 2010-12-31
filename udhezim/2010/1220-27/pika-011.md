@@ -1,0 +1,1 @@
+11. Në tarifën e administrimit dhe të mirëmbajtjes përfshihen vetëm shpenzimet e nevojshme për mirëmbajtjen rutinë, dhe jo ato për mirëmbajtje të jashtëzakonshme ose për punime që synojnë rritjen e cilësisë së objektit dhe të pajisjeve në bashkëpronësi.

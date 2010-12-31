@@ -1,0 +1,1 @@
+2. Tarifa e administrimit për secilin bashkëpronar, si rregull, përcaktohet bazuar në shpenzimet e administrimit dhe në kuotën e pjesëmarrjes në bashkëpronësi të pronarëve të njësive dhe mund të korrektohet për njësitë e veçanta sipas pikës 1, për numrin e kateve dhe për masën e përdorimit të objekteve të veçanta, siç përcaktohen në këtë udhëzim.
