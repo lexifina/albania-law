@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Mbrojtjes dhe të repartit ushtarak nr.1010, Shkodër, si institucion varësie, si autoritete kontraktore, për të vijuar normalisht dhe për të përfunduar, brenda datës 31 dhjetor 2010, procedurat e prokurimit me objekt “Blerje ushqimesh që prishen”.
+Brenda këtij afati të përfshihen lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
