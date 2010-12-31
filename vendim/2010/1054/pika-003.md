@@ -1,0 +1,1 @@
+3. Në rregulloren “Mbi kontrollin në anë të rrugës dhe në zyrat e ndërmarrjeve, për sa i përket zbatimit të rregullave të kohës së punës për personat që kryejnë transport rrugor, dhe për orët e drejtuesve të mjeteve”, që i bashkëlidhet vendimit nr.207, datë 25.2.2009 të Këshillit të Ministrave, shkronjat “e” dhe “f” të pikës 13 dhe pikat 33 e 34 shfuqizohen.
