@@ -1,0 +1,1 @@
+5. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, në zbatim të kërkesave të mësipërme ligjore, merr masat e nevojshme për kontrollin e procesit të riciklimit të mbetjeve metalike të hekurit dhe çelikut, nga Kurum International, sh.a., pas miratimit të këtij vendimi, për të siguruar mbrojtjen e mjedisit dhe të shëndetit të njeriut.
