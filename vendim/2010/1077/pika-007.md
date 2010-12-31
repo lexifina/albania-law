@@ -1,0 +1,1 @@
+7. Çdo shtetas shqiptar, që zotëron një diplomë universitare, së paku “Bachelor”, të fituar brenda ose jashtë vendit, të barasvlershme me të, ka të drejtë të aplikojë në programet e studimit të ciklit të dytë, me kohë të pjesshme, dhe edukimin në distancë, në institucionet publike të arsimit të lartë.

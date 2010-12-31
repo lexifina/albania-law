@@ -1,0 +1,1 @@
+2. Kuota e pranimeve të reja, për programet e studimit të ciklit të dytë, me kohë të pjesshme, dhe edukimin në distancë, e përcaktuar në shkronjën “a” të pikës 1 të këtij vendimi, të shpërndahet sipas tabelës nr.1, bashkëlidhur.

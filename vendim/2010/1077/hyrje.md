@@ -1,0 +1,6 @@
+VENDIM
+Nr.1077, datë 29.12.2010
+PëR KUOTAT E PRANIMIT DHE TARIFAT E SHKOLLIMIT PëR CIKLIN E DYTë Të STUDIMEVE, ME KOHë Të PJESSHME, DHE EDUKIMIN në DISTANCë, Në INSTITUCIONET PUBLIKE Të ARSIMIT Të LARTë, PëR VITIN AKADEMIK
+2010 - 2011
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 33, 35, 36 e 75 të ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, të ligjit nr.7889, datë 14.12.1994 “Për statusin e invalidëve të punës”, të ndryshuar, të ligjit nr.8626, datë 22.6.2000 “Për statusin e invalidit paraplegjik dhe tetraplegjik”, të ndryshuar, të ligjit nr.10289, datë 17.6.2010 “Për mënyrën e trajtimit ekonomik e financiar dhe për dhënie ndihme të menjëhershme familjeve të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit të Kontrollit të Brendshëm, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit, të Forcave të Armatosura, të Shërbimit Informativ Shtetëror dhe të Policisë së Burgjeve, që humbin jetën në krye apo për shkak të detyrës”, të ligjit nr.8153, datë 31.10.1996 “Për statusin e jetimit”, të ndryshuar, të ligjit nr.8098, datë 28.3.1996 “Për statusin e të verbrit” dhe të ligjit nr.7748, datë 29.7.1993 “Për statusin e ish-të dënuarve dhe të përndjekurve politikë nga sistemi komunist”, të ndryshuar, me propozimin e Ministrit të Arsimit dhe Shkencës, Këshilli i Ministrave
+VENDOSI:

@@ -1,0 +1,1 @@
+12. Studentët e shkëlqyer nuk e paguajnë tarifën e shkollimit.

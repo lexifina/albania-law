@@ -1,0 +1,1 @@
+11. Studentët e paguajnë tarifën e shkollimit, të ndarë në këste, në përputhje me kreditet e lëndëve që do të frekuentojnë në çdo vit akademik. Studenti i nënshtrohet tarifës së shkollimit për një lëndë sa herë e frekuenton atë.
