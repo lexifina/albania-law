@@ -1,0 +1,1 @@
+3. Zgjedhjet e organeve të dhomave zhvillohen me votim të fshehtë sipas grupeve të biznesit të regjistruar në dhomë. Asnjë subjekt tjetër, përveç anëtarëve të dhomës, nuk mund të marrë pjesë në votim.

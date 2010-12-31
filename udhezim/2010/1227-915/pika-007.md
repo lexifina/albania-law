@@ -1,0 +1,1 @@
+7. Bazuar në vendimin e asamblesë ekzistuese, brenda 15 ditëve pas hyrjes në fuqi të këtij udhëzimi, komisioni i zgjedhjeve cakton datën, orën dhe vendin e zhvillimit të zgjedhjeve për asamblenë e re të dhomës dhe e shpall atë.

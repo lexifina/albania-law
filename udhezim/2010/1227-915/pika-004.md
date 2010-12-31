@@ -1,0 +1,2 @@
+4. Nga propozimet e bëra nga çdo grup biznesi (5 grupe), me përzgjedhje dhe votim, vendoset përbërja e komisionit të zgjedhjeve, që administron procesin e zgjedhjeve për organet e dhomës, i cili mbështetet nga sekretari i dhomës dhe grupi i punës, i ngritur për këtë proces.
+Komisioni zgjedhor përbëhet nga kryetari dhe 4 (katër) anëtarë, si dhe një sekretar komisioni, i zgjedhur nga stafi i dhomës. Sekretari përgjigjet për mbajtjen e procesverbalit dhe dokumentacionit zgjedhor, si dhe ushtron çdo detyrë tjetër që përcaktohet në këtë udhëzim apo që i ngarkohet nga komisioni.

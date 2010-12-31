@@ -1,0 +1,1 @@
+10. Me mbylljen e votimit, komisioni fillon procesin e numërimit të votave. Më pas kalohet në renditjen përfundimtare të kandidatëve, duke i klasifikuar ata në bazë të numrit të votave të marra dhe në përputhje me numrin që i takon për çdo grup biznesi.

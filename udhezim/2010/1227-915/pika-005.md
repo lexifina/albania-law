@@ -1,0 +1,1 @@
+5. Sekretari i dhomës krijon grupin e punës, që është pjesë e stafit të dhomës dhe ndihmon komisionin zgjedhor për procedurat e zgjedhjes së organeve të dhomave të tregtisë dhe industrisë, sipas ligjit për dhomat dhe statutit.
