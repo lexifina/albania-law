@@ -1,0 +1,1 @@
+2. Programet e studimeve specializuese afatgjata në “Mjekësi urgjence” dhe “Neurokirurgji”, në Fakultetin e Mjekësisë të UT-së, realizohen me jo më pak se 120 kredite dhe kohëzgjatja normale e tyre është jo më pak se 2 vite akademike, në përputhje me ligjin e profesioneve të rregulluara.

@@ -1,0 +1,1 @@
+3. Në përfundim të programeve të studimeve specializuese afatgjata në “Mjekësi urgjence” dhe “Neurokirurgji”, në Fakultetin e Mjekësisë të UT-së, lëshohet diplomë universitare specializimi me titullin në fushën përkatëse.
