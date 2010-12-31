@@ -1,0 +1,1 @@
+3. Ministria në bazë të dokumentacionit që disponon për “Masterplanin”, të vërë në dispozicion të shoqërive të interesuara informacionin e nevojshëm për hartimin e projekteve, kundrejt një pagese prej 10 000 (dhjetë mijë) lekësh.

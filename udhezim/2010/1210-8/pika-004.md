@@ -1,0 +1,2 @@
+4. Objektet energjetike dhe industriale që do të kërkohen për t’u ndërtuar në “Zonë” duhet të jenë të njëjta ose brenda natyrës dhe fushave të veprimtarive në përputhje me parashikimet në “Studim”, dhe në “Masterplan”.
+Në “Zonë”, në përputhje me kapacitetet e parashikuara në “Masterplan” për një objekt energjetik ose industrial, mund të ndërtohen dhe shfrytëzohen nga subjekte të ndryshme disa objekte të së njëjtës natyrë, kapaciteti i përbashkët i të cilave është i përafërt me kapacitetin e parashikuar në “Masterplan” për këtë lloj veprimtarie.

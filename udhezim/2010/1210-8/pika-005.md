@@ -1,0 +1,1 @@
+5. Në sipërfaqet e tokës që janë përfshirë brenda kontureve të “Zonës”, sipas “Masterplanit”, nuk do të lejohet dhënia e lejeve dhe miratimeve për ndërtimin e objekteve për veprimtari prodhuese ose shërbimesh, të cilat nuk u përkasin fushave të energjetikës, industrisë dhe shërbimeve, sikurse përcaktohen në qëllimin dhe objektin e “Studimit”.
