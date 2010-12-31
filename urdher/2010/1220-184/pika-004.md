@@ -1,0 +1,1 @@
+4. Konsiderohet shkak i arsyeshëm sinjalizimi nga një inspektor/nëpunës i Autoritetit të Aviacionit Civil me anë të një raport inspektimi/raport auditivi, që evidenton qartë mospërputhjen me dispozitat ligjore në fuqi.

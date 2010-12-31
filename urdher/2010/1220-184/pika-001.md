@@ -1,0 +1,1 @@
+1. Komisioni i Shqyrtimit të Kundërvajtjeve Administrative në Aviacionin Civil (KSHKA) të përbëhet nga 5 veta dhe përbërja e tij të krijohet me urdhër të brendshëm të drejtorit ekzekutiv të Autoritetit të Aviacionit Civil, i cili është edhe kryetari i KSHKA-së.
