@@ -1,0 +1,2 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të IEVP burgu nr.325, Burgu Vaqar, Burgu nr.302, Spitali i Burgut Tiranë, IEVP Shënkoll, Lezhë, IEVP Bënçë, Tepelenë, IEVP Rrogozhinë, IEVP Lushnjë (fshati Kosovë, komuna Fierzë, Elbasan) dhe të godinës së Drejtorisë së Përgjithshme të Burgjeve, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Drejtësisë, për Drejtorinë e Përgjithshme të Burgjeve.
+Lista me 22 (njëzet e dy) fletë, që i bashkëlidhet këtij vendimi, ka 9 (nëntë) prona.
