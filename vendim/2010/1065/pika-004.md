@@ -1,0 +1,1 @@
+4. Brenda 30 (tridhjetë) ditëve nga afati i pagesës së këstit pasardhës të taksës së biznesit të vogël, drejtoritë rajonale të taksave, në varësi të Drejtorisë së Përgjithshme të Tatimeve, rakordojnë me zyrat e taksave të bashkive dhe të komunave për shumat e pagesave të pajisjeve fiskale të biznesit të vogël për t’u rimbursuar nëpërmjet taksës së biznesit të vogël.

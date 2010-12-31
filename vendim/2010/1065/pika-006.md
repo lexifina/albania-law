@@ -1,0 +1,2 @@
+6. Bizneseve, subjekt i biznesit të vogël, që operojnë në fushën e transportit sipas përcaktimeve të bëra në aneksin 5 të ligjit për taksat vendore dhe që kanë detyrimin për t’u pajisur me taksimetër, u rimbursohet pagesa e bërë për blerjen e taksimetrit, sipas faturës përkatëse, deri në shumën 30 000 (tridhjetë mijë) lekë, pa TVSH.
+Dokumentacioni dhe procedura e këtij rimbursimi është e njëjtë si në rastin e rimbursimit për pajisjet fiskale, të përcaktuar në këtë vendim.

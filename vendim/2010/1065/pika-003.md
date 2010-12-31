@@ -1,0 +1,3 @@
+3. Zyrat e taksave të bashkive ose të komunës, ku është i regjistruar tatimpaguesi, bëjnë përllogaritjen e detyrimit të kësteve të taksës së biznesit të vogël, sipas nenit 11 të ligjit nr.9632, datë 30.10.2006. Në rast se plotësohen kushtet e përcaktuara në pikën 2 të këtij vendimi, rimbursimi fillon me këstin e tremujorit të katërt të vitit 2010, i cili paguhet deri në datën 20 janar 2011, dhe në rast se:
+a) diferenca ndërmjet këstit për t’u paguar dhe shumës së rimbursueshme është pozitive, tatimpaguesi paguan këtë diferencë;
+b) diferenca ndërmjet këstit për t’u paguar dhe shumës së rimbursueshme është negative, mbartet për t’u rimbursuar nga këstet pasardhëse.

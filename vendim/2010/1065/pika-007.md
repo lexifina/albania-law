@@ -1,0 +1,2 @@
+7. Ngarkohen Ministria e Financave, Drejtoria e Përgjithshme e Tatimeve, Ministria e Brendshme dhe njësitë e qeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

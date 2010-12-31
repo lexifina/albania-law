@@ -1,0 +1,1 @@
+1. Bizneseve, objekt i ligjit nr.9632, datë 30.10.2006 “Për sistemin e taksave vendore”, të ndryshuar, që kanë bërë pagesën e blerjes së pajisjes së parë fiskale deri në datën 28.2.2011, nga “Shoqëritë e autorizuara”, sipas kontratës përkatëse, u rimbursohet kjo pagesë deri në shumën 44 000 (dyzet e katër mijë) lekë, pa TVSH.
