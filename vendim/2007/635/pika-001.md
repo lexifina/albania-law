@@ -1,1 +1,0 @@
-1. Ndryshimin e përgjegjësisë së administrimit të pjesës dykatëshe të ndërtesës së Ndërmarrjes Gjeologjike, Korçë, nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës te Ministria e Financave, për t’u përdorur nga drejtoria rajonale e sigurimeve shoqërore, Korçë, sipas planvendosjes, që i bashkëlidhet këtij vendimi.
