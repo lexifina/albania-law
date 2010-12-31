@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës së kompensimit përkatës, që paraqitet sipas listave bashkëlidhur këtij vendimi, për sipërfaqe 74 167m2 tokë arë, vlerësuar me çmimet e konfirmuara nga AKKP-ja, me vlerë 32 031 605 (tridhjetë e dy milionë e tridhjetë e një mijë e gjashtëqind e pesë) lekë.
