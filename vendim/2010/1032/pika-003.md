@@ -1,0 +1,1 @@
+3. Vendimi nr.635, datë 29.9.2007 i Këshillit të Ministrave “Për ndryshimin e përgjegjësisë së administrimit të ndërtesës së Ndërmarrjes Gjeologjike, Korçë, nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës në Ministrinë e Financave”, shfuqizohet.
