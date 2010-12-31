@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive, 668.2 (gjashtëqind e gjashtëdhjetë e tetë pikë dy) m² truall, dhe 402 (katërqind e dy) m² objekt, shpronësuar në favor të bashkisë së Fierit, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
