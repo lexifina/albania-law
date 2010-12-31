@@ -1,0 +1,1 @@
+4. Kërkesa për oponencë teknike bëhet nga investitori. Me miratimin e kërkesës, palët lidhin një aktmarrëveshje ndërmjet tyre, kushtet e së cilës miratohen nga Ministri i Punëve Publike dhe Transportit.
