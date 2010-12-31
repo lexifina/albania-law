@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë, 323 (treqind e njëzet e tre) m2, tokë truall, shpronësuar në favor të bashkisë së Divjakës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
