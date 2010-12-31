@@ -1,0 +1,1 @@
+2. Kuota e pranimit, e përmendur në pikën 1, e ndarë sipas institucioneve publike të arsimit të lartë dhe programeve të studimeve të doktoratës, paraqitet në tabelën nr.1, që i bashkëlidhet këtij vendimi.
