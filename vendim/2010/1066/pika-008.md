@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive, 103 (njëqind e tre) m2, truall dhe 86 (tetëdhjetë e gjashtë) m2, objekt, shpronësuar në favor të bashkisë së Vorës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
