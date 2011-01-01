@@ -1,0 +1,1 @@
+2. Vendimi i Këshillit të Ministrave nr.1263, datë 23.12.2009 “Për miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2010”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.
