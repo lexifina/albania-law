@@ -1,0 +1,1 @@
+3. Struktura dhe organika e Agjencisë përcaktohen me urdhër të Kryeministrit, me propozimin e Ministrit të Drejtësisë. Paga e drejtorit dhe e punonjësve të Agjencisë përcaktohet me vendim të Këshillit të Ministrave.
