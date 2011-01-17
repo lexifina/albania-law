@@ -1,0 +1,2 @@
+5. Ngarkohen Ministri i Financave, Ministri i Brendshëm, Ministri i Punëve Publike dhe Transportit, Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministri i Ekonomisë, Tregtisë dhe Energjetikës, Ministri i Arsimit dhe Shkencës, Ministri i Shëndetësisë, prefektët e qarqeve Shkodër, Lezhë dhe Durrës, si dhe njësitë përkatëse të qeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

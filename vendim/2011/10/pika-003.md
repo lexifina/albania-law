@@ -1,0 +1,1 @@
+3. Emrat e përfaqësuesve të ministrive dhe të institucioneve për grupet e punës, sipas pikës 2 të këtij vendimi, t’u dërgohen, brenda 2 (dy) ditëve nga hyrja në fuqi e vendimit, Ministrisë së Brendshme (Drejtorisë së Përgjithshme të Emergjencave Civile) dhe Komitetit Ndërministror të Emergjencave Civile.
