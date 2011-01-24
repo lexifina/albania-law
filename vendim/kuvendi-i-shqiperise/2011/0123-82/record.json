@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12926,
+  "title": "Për ngritjen e komisionit hetimor të kuvendit për hetimin e veprimtarisë së institucioneve shtetërore për zbulimin, identifikimin, përballimin, neutralizimin, pengimin dhe ndëshkimin e veprimit të organizuar kriminal për dhunimin e institucioneve dhe përmbysjen e rendit kushtetues në datën 21 janar 2011",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "82",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-01-23",
+  "published": "2011-01-24",
+  "in_force": "2011-01-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d16ef2c6feb46b031932036eab24dc9df0ace9dff5febb01815f8d454124cb30.docx",
+  "source_sha256": "d16ef2c6feb46b031932036eab24dc9df0ace9dff5febb01815f8d454124cb30",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12926",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/01/23/82",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    13499
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
