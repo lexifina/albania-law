@@ -1,0 +1,9 @@
+# PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E ZËVENDËSKRYEMINISTRIT DHE MINISTRIT TË PUNËVE TË JASHTME
+
+Official source: [Vendim nr. 79, datë 17.1.2011 (Kuvendi i Shqipërisë)](https://qbz.gov.al/api/v1/acts/12923).
+
+Status of this text: `as-enacted`. Adopted 2011-01-17; published 2011-01-24; in force 2011-01-24.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
