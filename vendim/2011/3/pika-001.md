@@ -1,0 +1,4 @@
+1. Njësive të qeverisjes vendore, të cilave, me vendimin nr.3, datë 2.11.2010 të Këshillit të Ministrave “Për shpërndarjen e fondeve të zhvillimit të rajoneve”, u është miratuar financimi i objekteve në arsim, për:
+a) projektin “Rikonstruksioni i shkollës së mesme “Faik Trungu”, Zgosht, komuna Lunik, Librazhd;
+b) ndërtimin e shkollës 9-vjeçare dhe të kopshtit, Vukatanë, komuna Guri i Zi, Shkodër;
+c) shtesën anësore, përfundimin e punimeve dhe sistemimin e oborrit të shkollës 9 - vjeçare, Topojë, komuna Topojë, Fier, dhe që kanë filluar procedurat e prokurimit për këto objekte, gjatë vitit 2010, u lejohet përfundimi i procedurës së prokurimit edhe pas datës 31 dhjetor 2010. Këtu përfshihen lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.

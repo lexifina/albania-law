@@ -1,0 +1,5 @@
+VENDIM
+Nr.3, datë 6.1.2011
+PËR SHTYRJEN E AFATIT TË BOTIMIT TË NJOFTIMIT TË FITUESIT DHE TË NJOFTIMIT TË KONTRATËS SË LIDHUR, PËR PROCEDURAT E PROKURIMIT, TË KRYERA NGA MINISTRIA E ARSIMIT DHE SHKENCËS E NJËSITË E PUSHTETIT VENDOR, SI AUTORITETE KONTRAKTORE, PËR PUNIMET E PROJEKTEVE TË REJA NË ARSIM
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 75 të ligjit nr.9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar, me propozimin e Ministrit të Financave, Këshilli i Ministrave
+VENDOSI:
