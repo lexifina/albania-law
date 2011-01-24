@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12921,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR SHKARKIMIN E ZËVENDËSKRYEMINISTRIT DHE MINISTRIT TË EKONOMISË, TREGTISË DHE ENERGJETIKËS",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "77",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-01-17",
+  "published": "2011-01-24",
+  "in_force": "2011-01-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2ae9a9d28c5927b649a095884b3e09526d13a149af5f1610647dc0eb91d557fb.docx",
+  "source_sha256": "2ae9a9d28c5927b649a095884b3e09526d13a149af5f1610647dc0eb91d557fb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12921",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/01/17/77",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
