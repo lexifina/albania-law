@@ -1,0 +1,1 @@
+3. Rakordimi i njësive të qeverisjes vendore me degët rajonale të tatim-taksave të bëhet në përputhje me kërkesat e pikës 4 të vendimit të Këshillit të Ministrave nr.1065, datë 29.12.2010 “Për kriteret dhe procedurat e kryerjes së rimbursimit nga taksa e biznesit të vogël të pagesës për pajisjet fiskale dhe taksimetrat.”.

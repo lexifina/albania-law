@@ -1,0 +1,1 @@
+4. Kërkesat për rimbursim dërgohen në Drejtorinë e Përgjithshme të Buxhetit pranë Ministrisë së Financave, e cila i administron këto kërkesa deri në përfundimin e procedurës për rimbursimin e njësive vendore, që kanë bërë kërkesë. Dokumentet origjinale do të arkivohen në protokollin e Ministrisë së Financave.

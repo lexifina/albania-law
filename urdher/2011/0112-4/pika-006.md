@@ -1,0 +1,1 @@
+6. Pas miratimit nga Këshilli i Ministrave të vendimit për kompensim të njësive të qeverisjes vendore, Ministria e Financave (Drejtoria e Përgjithshme e Buxhetit dhe Drejtoria e Përgjithshme e Thesarit), bëjnë alokimin e fondeve për rimbursim sipas njësive të qeverisjes vendore, te degët përkatëse të thesarit.

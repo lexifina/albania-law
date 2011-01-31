@@ -1,0 +1,3 @@
+2. Kërkesa e njësive të qeverisjes vendore duhet të përmbajë:
+a) Kërkesën me shkrim të firmosur nga nëpunësi i autorizuar i njësisë, me vlerën e fondit që kërkohet për t’u rimbursuar deri në atë periudhë.
+b) Listën e subjekteve të biznesit të vogël që kanë përfituar rimbursim për pajisjen fiskale dhe taksimetrin (vlerën e saj, përfshirë edhe TVSH-në, por jo më shumë se vlera e përcaktuar në vendimin e Këshillit të Ministrave nr.1065, datë 29.12.2010) për ato subjekte që nuk janë të përfshirë në skemën e TVSH-së dhe që nuk regjistrohen në këtë skemë brenda 6 muajve nga hyrja në fuqi e ligjit nr.10 354, datë 18.11.2010, të rakorduar me degën rajonale të tatim-taksave.

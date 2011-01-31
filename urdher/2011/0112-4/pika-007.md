@@ -1,0 +1,1 @@
+7. Transferimi i fondeve do të kryhet te degët e thesarit: Ministria 10, kapitulli 01, programi 01120, artikulli 6870000 (Shpenzime të jashtëzakonshme), me kodet përkatëse të degës së thesarit. Shkresa do të shoqërohet me listën e njësive dhe fondeve përfituese.
