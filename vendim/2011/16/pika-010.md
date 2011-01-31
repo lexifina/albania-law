@@ -1,0 +1,1 @@
+10. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyra vendore e regjistrimit të pasurive të paluajtshme, Kukës, të pezullojnë të gjitha transaksionet me pronarët e pasurive të shpronësuara deri në çastin që do të realizohet procesi i hedhjes së trupit të rrugës në hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
