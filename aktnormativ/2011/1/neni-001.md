@@ -1,0 +1,2 @@
+# Neni 1
+Lejimin e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, që për financimet e planifikuara në buxhetin e vitit 2011, për objektet e mbrojtjes nga përmbytja dhe të kullimit, në zonat e Shkodrës e të Lezhës, të prekura nga përmbytja, të përdorë procedurën e prokurimit me negocim, pa shpallje paraprake të njoftimit, në përputhje me nenin 33 të ligjit nr.9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar.
