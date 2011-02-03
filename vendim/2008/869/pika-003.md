@@ -1,1 +1,1 @@
-3. Pagesa e përfitimit të paaftësisë për invalidin bëhet nga shërbimet bankare, që funksionojnë pranë njësisë së qeverisjes vendore, ku ka vendbanimin përfituesi, ose nga shërbimi postar për njësitë e qeverisjes vendore, ku nuk ka një të tillë.
+3. Pagesa e përfitimit të paaftësisë, për invalidin, paguhet nga shërbimet bankare ose Posta Shqiptare, pranë njësive të qeverisjes vendore ku ka vendbanimin përfituesi.
