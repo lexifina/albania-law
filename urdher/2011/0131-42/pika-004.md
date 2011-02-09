@@ -1,0 +1,41 @@
+4. Specifikimet teknike të letrës për modelet të miratuara me vendim të Këshillit të Ministrave nr.332, datë 17.3.2010, të ndryshuar “Për përcaktimin e formës, elementeve përbërëse, mënyrës së mbajtjes e afatit të përdorimit të dokumenteve bazë që mbahen dhe lëshohen nga shërbimi i gjendjes civile”, të ndryshuar, do të jenë:
+a) Specifikimet teknike të letrës për printimin e akteve dhe procesverbaleve:
+- pesha: 80-83 g/m2;
+- lagështia: 3.5-4.5%;
+- trashësia: 103-110 um;
+- lëmueshmëria e sipërfaqes 80-100 ml/min;
+- ashpërsia në përkulje: >110 mN MD;
+- ashpërsia në përkulje: >54 mN CD;
+- patejdukshmëria: >94%;
+- shkëlqimi: 101-104%;
+- CIE bardhësia: 148-152;
+- përmasat e letrës: A4, 210 x 297 mm;
+- letra A4 të mos shkaktojë bllokimin e printerit;
+- të qëndrojë e rrafshët pas kopjimit/printimit;
+- të mos lëshojë pluhur letre në printer;
+- të jetë e lëmuar dhe e rëndë;
+- e përshtatshme për printim në të dyja anët;
+- të përballojë shpejtësinë e printimit jo më pak se 120-130 faqe në minutë;
+- të plotësojë standardet ISO 97006, standard që plotëson kushtet për letrat që mbahen për një kohë të gjatë në arkiva, ISO 9001 dhe ISO 14001;
+- nuk pranohet letër e ricikluar;
+- ambalazhimi në risma me 500 fije letër/kuti me 5 risma.
+b) Specifikimet teknike të letrës për modelet:
+- mod. nr.13, 13/1, 13/2, 13/3, 13/4,13/5, certifikatë “për përdorim brenda vendit”;
+- mod. nr.14, certifikatë lindjeje “për përdorim nga autoritetet e huaja”;
+- mod. nr.15, certifikatë “për lidhje martese, për përdorim nga autoritetet e huaja”;
+- mod. nr.16, certifikatë martesë “për përdorim nga autoritetet e huaja”;
+- formati: 21 x 30 cm;
+- lloji i letrës ofset: 80 gr/m2;
+- trashësia: 0.9 -0.102 mikron;
+- lagështia: 5.4-7%;
+- opaciteti: 87%;
+- ashpërsia: 130-250 ml/min;
+- shkëlqimi: 105 - 107%;
+- shtypja në një anë të fletës, sipas modelit bashkëlidhur.
+- germat me bojë të zezë, stema e Republikës së Shqipërisë, e paraprintuar, sipas ngjyrave të miratuara me ligj.
+- Në sfondin e certifikatës vendoset harta e Shqipërisë, me madhësi sa sipërfaqja e letrës, një kornizë dyngjyrëshe me katër shirita të gjelbër të ndërprerë nga trekëndësha ngjyrë blu (si ngjyrat e logos së DPGJC-së) dhe si sfond reliev në ngjyrë gri të lehtë vetëm në një anë të certifikatës.
+- Numri serial progresiv nëntëshifror vendoset i paraprintuar.
+- Të gjitha përmasat e elementeve dhe rubrikave të paraprintuara për certifikatat që do të plotësohen dhe lëshohen nga nëpunësit e zyrave të gjendjes civile në bashki/njësi bashkiake/komuna janë si në modelin bashkëlidhur.
+- Të dhënat e tjera që përmbajnë modelet e certifikatave do të plotësohen dhe printohen direkt nga RKGJC.
+- Certifikatat që do të plotësohen dhe lëshohen nga nëpunësit e zyrave të gjendjes civile në degët e qarkut (arkivi), do të paraprintohen plotësisht, sipas modelit bashkëlidhur.
+- Elemente sigurie. Në pjesën e sipërme, në të djathtë, të vendoset, e paraprintuar, një pullë holografike 2D, me kënde të rrumbullakosura, me tonalitet të argjendtë, me natyrë retroflektive me përmasa 2,5 x 2,5 cm, që ka në sfond shqiponjën dykrenore dhe në gjithë fushën të jetë stampuar SHGJC, Ministria e Brendshme, Republika e Shqipërisë (përkatësisht të shkruar sipas modelit bashkëlidhur).
