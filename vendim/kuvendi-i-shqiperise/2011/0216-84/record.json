@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12991,
+  "title": "Për dhënien e autorizimit për fillimin e ndjekjes penale ndaj deputetit Ilir Meta",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "84",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-02-16",
+  "published": "2011-02-17",
+  "in_force": "2011-02-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fd92dac6417e2b2fc8f4aebeacf68530005bc6ad43af72867242599f30dd3214.docx",
+  "source_sha256": "fd92dac6417e2b2fc8f4aebeacf68530005bc6ad43af72867242599f30dd3214",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12991",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/02/16/84",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
