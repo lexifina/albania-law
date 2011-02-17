@@ -1,0 +1,2 @@
+1. Miratimin e fondit limit të shpenzimeve të Këshillit Kombëtar të Radios dhe Televizionit, për vitin 2011, në shumën 89.07 (tetëdhjetë e nëntë pikë zero shtatë) milionë lekë, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, ndarë, si më poshtë vijon:
+a) Për shpenzime korente, 77.06 (shtatëdhjetë e shtatë pikë zero gjashtë) milionë lekë; b) Për shpenzime për investime, 12.01 (dymbëdhjetë pikë zero një) milionë lekë.
