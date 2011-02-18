@@ -1,0 +1,1 @@
+5. Në mbledhjet e Komitetit Kombëtar të Sigurisë së Aviacionit Civil ftohen të marrin pjesë si anëtarë këshillues, pa të drejtë vote, përfaqësues të organizatave të ndryshme ndërkombëtare, që merren me çështje të administrimit të kufirit, misioni i asistencës doganore për Shqipërinë, si dhe misioni i asistencës policore të Bashkimit Europian për Shqipërinë.
