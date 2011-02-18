@@ -1,0 +1,1 @@
+2. Fondi prej 295 029 876 (dyqind e nëntëdhjetë e pesë milionë e njëzet e nëntë mijë e tetëqind e shtatëdhjetë e gjashtë) lekësh të përballohet nga KESH sh.a. (Korporata Elektroenergjetike Shqiptare).
