@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13002,
+  "title": "PËR DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR.303, DATË 25.3.2009 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLORES SË PËRGJITHSHME TË BURGJEVE”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "73",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-02-02",
+  "published": "2011-02-18",
+  "in_force": "2011-02-18",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/c305aec80264d8e9bee9a5d7d8385f80126d698c3d1aac27e8ebf622e30e29b2.docx",
+  "source_sha256": "c305aec80264d8e9bee9a5d7d8385f80126d698c3d1aac27e8ebf622e30e29b2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13002",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/02/02/73",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
