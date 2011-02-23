@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Shërbimit të Trupit Diplomatik, që me fondet e saj të kryejë rikonstruksionin e plotë të godinës së Ambasadës së Republikës së Shqipërisë, në Uashington, pronë e shtetit shqiptar.
