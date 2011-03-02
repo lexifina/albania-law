@@ -1,0 +1,1 @@
+7. Ujitjen me pika në pemëtoret, agrumishtat, ullishtat (intensive), ekzistuese dhe mbjelljet e reja, si dhe në vreshtat e serrat me ngrohje diellore dhe teknike 300,000 (treqind mijë) lekë/ha. Sipërfaqja minimale të jetë jo më pak se 2 (dy) dynymë.

@@ -1,0 +1,1 @@
+10. Pagesën me 10 lekë/litër qumësht për fermat blegtorale që mbarështojnë jo më pak se 10 krerë lopë qumështi të matrikulluara të racave të pastra apo kryqëzimet e tyre, por jo më shumë se 50 (pesëdhjetë) krerë. Pagesa të bëhet kundrejt sasive të qumështit të deklaruara në organet tatimore.

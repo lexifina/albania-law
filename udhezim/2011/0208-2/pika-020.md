@@ -1,0 +1,1 @@
+20. Aplikuesit, të cilët nuk kanë përfituar nga përzgjedhja e bërë nga komisioni i vlerësimit paraqesin ankesën e tyre brenda 5 ditëve nga shpallja e fituesve në DPPB të MBUMK, e cila brenda 10 ditëve nga marrja e ankesës bën verifikimin përkatës dhe i jep përgjigje ankuesit.

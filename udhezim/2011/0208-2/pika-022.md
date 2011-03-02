@@ -1,0 +1,1 @@
+22. Kur aplikanti skualifikohet gjatë kontrollit administrativ në AZHBR qendër, drejtoria/sektori përkatës që ka skualifikuar projektin njofton palën e interesuar për vendimin dhe shkaqet e këtij vendimi brenda 30 ditëve nga marrja e vendimit.

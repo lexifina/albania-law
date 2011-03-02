@@ -1,0 +1,1 @@
+23. Në rast se konstatohen shkelje të rregullave në administrimin e fondit nga personat përgjegjës në DRBUMK apo në AZHBR, merren masa disiplinore apo zhdëmtim për çdo rast sipas dispozitave ligjore në fuqi.

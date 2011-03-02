@@ -1,0 +1,1 @@
+21. Aplikuesit, të cilët nuk kanë përfituar nga përzgjedhja e bërë nga grupi i verifikimit të projekteve, paraqesin ankesën e tyre brenda 15 ditëve nga shpallja e vendimit të grupit të verifikimit në AZHBR qendër, e cila brenda 30 ditëve nga marrja e ankesës bën verifikimin përkatës dhe i kthen përgjigje ankuesit.

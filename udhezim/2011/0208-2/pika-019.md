@@ -1,0 +1,1 @@
+19. Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe Ministri i Financave, kur e gjykojnë të nevojshme, kërkojnë ngritjen e grupit të përbashkët të auditimit për të verifikuar administrimin e fondit.

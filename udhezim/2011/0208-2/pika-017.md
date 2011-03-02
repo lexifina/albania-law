@@ -1,0 +1,1 @@
+17. AZHBR qendër me një rregullore të brendshme jep në mënyrë të detajuar procedurat dhe qarkullimin e dokumentacionit ndërmjet drejtorive dhe sektorëve të AZHBR-së deri në ekzekutimin dhe likuidimin përfundimtar të përfituesit.
