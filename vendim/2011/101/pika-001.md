@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për lejet e transportit dhe kryerjen e operacioneve të transportit nga transportuesit e huaj, që nuk kanë selinë në Shqipëri (jorezidentë), për mallra dhe udhëtarë, sipas tekstit që i bashkëlidhet këtij vendimi.
