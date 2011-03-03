@@ -1,9 +1,9 @@
 # Për emigrimin e shtetasve shqiptarë për motive punësimi
 
-Official source: [Ligji nr. 9668](https://qbz.gov.al/api/v1/acts/61902).
+Official source: [Ligji nr. 9668](https://qbz.gov.al/api/v1/acts/61902); [QBZ versions](https://qbz.gov.al/api/v1/acts/61902/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2006-12-18; published 2006-12-31; in force 2007-01-15.
+Status of this text: `official consolidated version 1`, applying from 2011-03-03; after QBZ act 13120 (nr. 10389).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.

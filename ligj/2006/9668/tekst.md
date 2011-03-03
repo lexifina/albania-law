@@ -1,8 +1,12 @@
 LIGJ
 
-Nr.9668, datë 18.12.2006
+Nr. 9668, datë 18.12.2006
 
 PËR EMIGRIMIN E SHTETASVE SHQIPTARË PËR MOTIVE PUNËSIMI
+
+(Ndryshuar me ligjin nr. 10389, datë 3.3.2011)
+
+(i përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -40,6 +44,8 @@ Neni 2
 
 Përkufizime 
 
+(Ndryshuar pikat 14 dhe 16, shtuar pika 23 me ligjin nr. 10389, datë 3.3.2011)
+
 Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
 1. “Emigrim për motive punësimi” është largimi me dëshirë i shtetasit shqiptar nga territori i Republikës së Shqipërisë për t’u punësuar, vetëpunësuar, për t’u formuar profesionalisht nëpërmjet punës në një shtet tjetër ose për t’u ribashkuar me pjesëtarin e familjes që ka emigruar.
@@ -50,7 +56,7 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
 4. “Emigrant afatgjatë” është emigranti, i cili qëndron jashtë shtetit për një periudhë kohore më të gjatë se një vit.
 
-5. “Emigrant afatshkurtër”  është emigranti, i cili qëndron jashtë shtetit për një periudhë kohore më të shkurtër se një vit.
+5. “Emigrant afatshkurtër” është emigranti, i cili qëndron jashtë shtetit për një periudhë kohore më të shkurtër se një vit.
 
 6. “Shteti shqiptar” janë të gjitha autoritetet shtetërore përgjegjëse dhe institucionet e tjera shtetërore, të cilat mund të lidhen, drejtpërdrejt ose tërthorazi, me aspektet e punësimit, të formimit profesional nëpërmjet punës, punësimit ndërkufitar, punësimit sezonal, si dhe me aspektet e përkujdesjes ndaj shtetasve shqiptarë gjatë emigrimit.
 
@@ -66,15 +72,15 @@ Ministria e Punës, Çështjeve Sociale dhe Shanseve të të Barabarta është a
 
 11. “Punësim stinor” është punësimi i shtetasve shqiptarë, që kryhet vetëm gjatë një periudhe të vitit dhe në varësi të kushteve stinore.
 
-12. “Punëdhënës” është çdo shtetas, shqiptar ose i huaj, me seli brenda ose  jashtë territorit të Republikës së Shqipërisë, i cili ka nënshkruar një kontratë pune me emigrantin shqiptar. 
+12. “Punëdhënës” është çdo shtetas, shqiptar ose i huaj, me seli brenda ose jashtë territorit të Republikës së Shqipërisë, i cili ka nënshkruar një kontratë pune me emigrantin shqiptar. 
 
 13. “I vetëpunësuar” është emigranti, i cili ka qenë, është ose do të angazhohet në një veprimtari fitimprurëse, duke siguruar jetesën nëpërmjet kësaj veprimtarie, duke punuar, vetëm ose bashkë me pjesëtarët e familjes, si dhe çdo emigrant tjetër, i përcaktuar si i vetëpunësuar nga legjislacioni i shtetit ku ai është punësuar nga marrëveshjet dypalëshe ose shumëpalëshe.
 
-14. “Emigrant i rikthyer” është emigranti shqiptar i rikthyer në Republikën e Shqipërisë, për t’u larguar përsëri ose jo, pasi ka kaluar të paktën një vit në shtetin pritës dhe ka qëndruar të paktën një vit në Republikën e Shqipërisë. Të tillë janë edhe refugjatët e riatdhesuar, me dëshirë apo me detyrim, viktimat e trafikimit, të miturit, të burgosurit e luftës dhe diplomatët në kohë krizash.
+14.“Emigrant i rikthyer” është shtetasi shqiptar i rikthyer në Republikën e Shqipërisë, për t'u larguar përsëri ose jo, pasi ka kaluar të paktën një vit jashtë territorit të Republikës së Shqipërisë. Të tillë janë edhe refugjatët e riatdhesuar, me dëshirë apo me detyrim, viktimat e trafikimit, fëmijët e pashoqëruar, të burgosurit e luftës, si dhe anëtarët e familjes së tyre. Emigrant i rikthyer është dhe shtetasi shqiptar i rikthyer me dëshirë apo detyrim nga vendet pritëse në Republikën e Shqipërisë, për shkak të mosplotësimit të dokumentacionit e të kushteve për hyrjen, praninë apo qëndrimin e rregullt në shtetet pritëse, në zbatim të marrëveshjeve të ripranimit, si dhe anëtarët e familjes së tyre.
 
  15. “Shtet pritës” është shteti ku është ose do të punësohet një shtetas shqiptar, pavarësisht nga lloji i kontratës së punës. 
 
- 16. “Regjistri për emigrantët” është dokumenti zyrtar në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, që përmban të dhëna të  hollësishme për shtetasit shqiptarë, të punësuar jashtë shtetit ose që shprehin dëshirën të punësohen, të formohen nëpërmjet punës jashtë territorit të Republikës së Shqipërisë, si dhe emigrantët shqiptarë të rikthyer.
+ 16.“Regjistri për emigrantët” është dokumenti zyrtar në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit, në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, i cili përmban një bazë të dhënash për shtetasit shqiptarë që dëshirojnë të emigrojnë e për shtetasit shqiptarë që janë kthyer nga emigrimi, të cilët janë objekt i këtij ligji.
 
  17. “Kurse formimi orientuese” janë kurset për formim profesional, gjuhësor dhe njohuri të tjera, për të drejtat dhe detyrimet e punëtorëve emigrantë, si dhe për kulturën dhe kushtet e punës në vendin pritës, në territorin e Republikës së Shqipërisë, para nisjes, deri në tri javë, intensive, vetëm për shtetasit, që kanë siguruar një kontratë pune jashtë vendit dhe janë në pritje të largimit nga territori i Republikës së Shqipërisë, si dhe për pjesëtarët e familjes së tyre, që do të emigrojnë apo do të ribashkohen me ta.
 
@@ -88,11 +94,13 @@ Ministria e Punës, Çështjeve Sociale dhe Shanseve të të Barabarta është a
 
 22. “Kontrabandim” është ndërmjetësimi për të arritur, drejtpërdrejt apo tërthorazi, përfitim financiar ose përfitim tjetër material, nga hyrja e paligjshme e një personi në territorin e Republikës së Shqipërisë, duke shkelur legjislacionin përkatës. 
 
+23. “Grupe vulnerabël” janë kategoria e emigrantëve më të prekshëm për t'u bërë objektiv i trafikimit.
+
 Neni 3
 
 Politikat shtetërore të emigrimit
 
-1. Shteti shqiptar  menaxhon emigrimin e shtetasve shqiptarë, duke e vlerësuar atë si një zgjedhje të individit dhe në respekt të lirisë së lëvizjes së lirë të shtetasve. 
+1. Shteti shqiptar menaxhon emigrimin e shtetasve shqiptarë, duke e vlerësuar atë si një zgjedhje të individit dhe në respekt të lirisë së lëvizjes së lirë të shtetasve. 
 
 2. Autoritetet shtetërore përgjegjëse krijojnë lehtësi ligjore dhe administrative, të nevojshme për shtetasit shqiptarë, që dëshirojnë të emigrojnë në mënyrë të ligjshme ose që dëshirojnë të rikthehen.  
 
@@ -150,7 +158,11 @@ Neni 8
 
 E drejta për të përfituar nga shërbimet shtetërore
 
-1. Autoritetet shtetërore përgjegjëse ose agjencitë private të punësimit duhet t`u sigurojnë shtetasve shqiptarë, që dëshirojnë të emigrojnë, përfshirë edhe emigrantët e rikthyer, të drejtën e informimit dhe të këshillimit falas në fushën e formimit profesional, të shërbimeve të ndërmjetësimit për punësim, të mbrojtjes sociale, të organizimit në sindikata, të mundësive për strehim, arsimim dhe sigurime shoqërore, si dhe të njohjes së kushteve të jetesës e të punës në vendin pritës, nëpërmjet mjeteve mediatike, broshurave etj.
+                             (Shtuar pika 1/1 me ligjin nr. 10389, datë 3.3.2011)
+
+1.Autoritetet shtetërore përgjegjëse ose agjencitë private të punësimit duhet t`u sigurojnë shtetasve shqiptarë, që dëshirojnë të emigrojnë, përfshirë edhe emigrantët e rikthyer, të drejtën e informimit dhe të këshillimit falas në fushën e formimit profesional, të shërbimeve të ndërmjetësimit për punësim, të mbrojtjes sociale, të organizimit në sindikata, të mundësive për strehim, arsimim dhe sigurime shoqërore, si dhe të njohjes së kushteve të jetesës e të punës në vendin pritës, nëpërmjet mjeteve mediatike, broshurave etj.
+
+1/1. Në zyrat përkatëse të punësimit ngrihen dhe funksionojnë sportelet e migracionit, të cilat ofrojnë shërbim informimi për shtetasit shqiptarë që dëshirojnë të emigrojnë, si dhe mbështetje për riintegrimin e emigrantëve të rikthyer.
 
 2. Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta ndihmon në organizimin e kurseve të formimit orientues, pa pagesë, për mësimin e gjuhës ose të njohurive bazë për profesionet e kërkuara nga shteti pritës për shtetasit shqiptarë, që dëshirojnë të emigrojnë, si dhe për pjesëtarët e familjes së tyre, që do të emigrojnë apo do të ribashkohen me ta, me kusht që të jenë të regjistruar  në “Regjistrin për emigrantët”.
 
@@ -158,7 +170,9 @@ Neni 9
 
 Pagesat doganore dhe taksat
 
-1. Autoritetet shtetërore përgjegjëse përjashtojnë nga pagesat doganore dhe taksat emigrantët shqiptarë, që kanë fituar statusin e emigrantit të rikthyer në shtetin e origjinës, për:
+                         (Hequr fjalë në pikën 1 me ligjin nr. 10389, datë 3.3.2011)
+
+1. Autoritetet shtetërore përgjegjëse përjashtojnë nga pagesat doganore dhe taksat emigrantët shqiptarë për:
 
 a) sendet vetjake dhe pronësitë e luajtshme të punëtorëve migrantë dhe pjesëtarëve të familjes, që i përkasin njësisë familjare;
 
@@ -176,9 +190,11 @@ Neni 10
 
 Detyrimi për t`iu përmbajtur motivit të punësimit
 
+                          (Shfuqizuar pika 2 me ligjin nr. 10389, datë 3.3.2011)
+
 1. Emigrantët në vendet pritëse kanë detyrimin t’i përmbahen motivit të punësimit, për të cilin kanë emigruar.
 
-2. Kalimi në situatë të parregullt, si dhe kryerja e veprave dhe e kundërvajtjeve penale në vendin pritës vlerësohen vepra të dënueshme penalisht, sipas përcaktimeve të bëra në nenin 297 të Kodit Penal të Republikës së Shqipërisë. 
+2. Shfuqizuar.
 
 Neni 11 
 
@@ -190,21 +206,33 @@ Neni 12
 
 Regjistrimi i shtetasve
 
-Çdo shtetas shqiptar, që kërkon të emigrojë për qëllime punësimi, si dhe emigrantët e rikthyer regjistrohen në “Regjistrin për emigrantët” pranë Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta. Forma, përmbajtja e regjistrit dhe procedurat e regjistrimit përcaktohen me urdhër të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
+(Ndryshuar me ligjin nr. 10389, datë 3.3.2011)
+
+1. Çdo shtetas shqiptar, që kërkon të emigrojë për qëllime punësimi, si dhe shtetasit shqiptarë të rikthyer regjistrohen në “Regjistrin për emigrantët”, pranë sporteleve të migracionit në zyrat përkatëse të punësimit.
+
+2. Regjistri qendror për emigrantët administrohet nga struktura përgjegjëse për çështjet e migracionit në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit.
+
+3. Shtetasit shqiptarë të rikthyer, të regjistruar në “Regjistrin për emigrantët”, përfitojnë shërbim informimi dhe referimi në autoritetet shtetërore, përgjegjëse për ofrimin e shërbimeve për riintegrim.
+
+4. Forma, përmbajtja e regjistrit, dokumentacioni dhe procedurat e regjistrimit përcaktohen me urdhër të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
 
 Neni 13
 
 Përfitimi i statusit të emigrantit
 
-1. Përfiton statusin e emigrantit çdo emigrant i regjistruar në “Regjistrin për emigrantët”, që ka:
+                                 (Ndryshuar me ligjin nr. 10389, datë 3.3.2011)
 
-a) depozituar një kontratë pune, të nënshkruar nga palët;
+1. Përfiton “Statusin e emigrantit” çdo emigrant i regjistruar në “Regjistrin për emigrantët” në zyrat e punësimit dhe që plotëson kushtet e parashikuara në këtë ligj për të përfituar “Dokumentin e statusit të emigrantit”.
 
-b) dokumentin përkatës, i cili vërteton statusin e tij si i vetëpunësuar në vendin pritës; 
+2. Statusi i emigrantit krijon mundësinë që mbajtësi/titullari i këtij statusi të përfitojë nga kurset e formimit orientues, pa pagesë, për mësimin e gjuhës, ose të njohurive bazë për profesionet e kërkuara nga shteti pritës, për shtetasit shqiptarë që dëshirojnë të emigrojnë dhe për pjesëtarët e familjes së tyre, si dhe nga programet e nxitjes së punësimit dhe kurset e formimit profesional publik falas, për emigrantët e rikthyer.
 
-c) dokumentin, që provon se është pjesëtar i familjes së njërës prej kategorive migratore, të sipërpërmendura në këtë nen.
+3. “Dokumenti i statusit të emigrantit” është dokument identifikues për mbajtësin/titullarin e tij edhe për përfitimin nga shërbimet e tjera specifike, si në fushën e strehimit, të shëndetësisë, të arsimit, të mbrojtjes shoqërore, të investimeve në vend etj.
 
- 2. Forma, përmbajtja e dokumentit dhe procedurat për përfitimin e statusit të emigrantit përcaktohen me urdhër të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
+Kriteret për përfitimin e këtyre shërbimeve nga titullari/mbajtësi i statusit të emigrantit përcaktohen me urdhër të ministrave përgjegjës, sipas fushave që ata mbulojnë.
+
+4. “Dokumenti i statusit të emigrantit” është një dokument identifikimi dhe lëshohet nga zyra përkatëse e punësimit pranë njësisë së qeverisjes vendore.
+
+5. Forma dhe përmbajtja e dokumentit, dokumentacioni përkatës dhe procedurat për përfitimin e statusit të emigrantit përcaktohen me urdhër të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
 
 KREU IV
 
@@ -292,7 +320,7 @@ Neni 25
 
 Përjashtimi nga taksat e udhëtimit dhe tarifat aeroportuale
 
-Përjashtohen nga taksat e udhëtimit dhe tarifat aeroportuale personat, të cilët kanë përfituar statusin e emigrantit, me përjashtim të rasteve kur parashikohet ndryshe. 
+(Shfuqizuar me ligjin nr. 10389, datë 3.3.2011)
 
 Neni 26
 
@@ -334,6 +362,8 @@ Detyrat dhe përgjegjësitë e Ministrisë së Punës, Çështjeve Sociale
 
 dhe Shanseve të Barabarta 
 
+ (Shtuar shkronjat “dh“, “e“, “ë“,“f“ dhe “g“ me ligjin nr. 10389, datë 3.3.2011)
+
 Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta është autoriteti përgjegjës kombëtar, që harton politikat dhe propozon ndryshime në legjislacionin e fushës së emigrimit për qëllime punësimi dhe ka këto detyra e përgjegjësi: 
 
  a) në bashkëpunim me Ministrinë e Brendshme dhe Ministrinë e Punëve të Jashtme menaxhon dhe mbikëqyr të gjitha aspektet e emigrimit për motive punësimi;
@@ -346,9 +376,21 @@ Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta është autor
 
 d) nënshkruan marrëveshje, dypalëshe ose shumëpalëshe, në fushën e emigrimit për punësim dhe për formim profesional nëpërmjet punës me ministritë homologe  të shteteve pritëse.
 
+dh) harton dhe miraton programet aktive dhe pasive të punësimit e të formimit profesional në vend, për emigrantët e rikthyer, të cilët janë regjistruar si punëkërkues të papunë në zyrën përkatëse të punësimit;
+
+e) bashkërendon procesin e informimit me autoritetet shtetërore përgjegjëse, sipas fushave përkatëse, si dhe informon për çështjet që i përkasin veprimtarisë së ministrisë, shtetasit shqiptarë që dëshirojnë të emigrojnë në mënyrë të rregullt, si dhe ata që rikthehen e dëshirojnë të riintegrohen e të qëndrojnë në Shqipëri;
+
+ë) përgjigjet për bashkërendimin e punës për zbatimin e politikave në fushën e riintegrimit të emigrantëve të rikthyer;
+
+f) bashkërendon punën në procesin e negociatave dypalëshe dhe/ose shumëpalëshe, ndërmjet Shqipërisë dhe vendeve të tjera, për nënshkrimin e marrëveshjeve ndërkombëtare në fushën e punësimit e të formimit profesional, në bashkëpunim me Ministrinë e Punëve të Jashtme, sipas parashikimeve të ligjit nr.8371, datë 9.7.1998 “Për lidhjen e traktateve dhe marrëveshjeve ndërkombëtare”;
+
+g) në bashkëpunim me Shërbimin Social Shtetëror dhe njësitë e qeverisjes vendore, përgjigjet për sigurimin e shërbimeve të përkujdesit shoqëror, si dhe për mbështetjen për plotësimin e kërkesës për përfitimin e ndihmës ekonomike, për emigrantët e rikthyer.
+
 Neni 29
 
 Detyrat dhe përgjegjësitë e Ministrisë së Punëve të Jashtme 
+
+ (Shfuqizuar shkronja ‘‘c‘‘, ndryshuar shkronjat ‘‘ç‘‘ ,‘‘dh‘‘ dhe shtuar shkronjat ‘‘f‘‘, ‘‘g‘‘, ‘‘gj‘‘ me ligjin nr. 10389, datë 3.3.2011)
 
 Ministria e Punëve të Jashtme, në zbatim të këtij ligji, ushtron këto detyra dhe përgjegjësi për: 
 
@@ -356,21 +398,29 @@ a) mbrojtjen e të drejtave dhe të interesave të emigrantëve shqiptarë, kudo
 
 b) zgjidhjen e problemeve të emigrantëve shqiptarë, përmes rritjes së cilësisë së shërbimit konsullor në shtetet pritëse;
 
-c) hartimin dhe përcaktimin e programeve të bashkëpunimit me komunitetet emigratore shqiptare;
+c) shfuqizuar;
 
-ç) mbledhjen dhe shpërndarjen e informacionit për legjislacionin e punës dhe të mbrojtjes shoqërore, për mbrojtjen e të drejtave të punëtorëve emigrantë;
+ç) mbledhjen në vendin pritës dhe shpërndarjen e informacionit për legjislacionin e punës dhe të mbrojtjes shoqërore, për mbrojtjen e të drejtave të punëtorëve emigrantë, bazuar në legjislacionin shqiptar, nëpërmjet pajisjes së përfaqësive diplomatike dhe konsullore me materiale publicistike, për publikimin e tyre në mjedise të dukshme, në formën e ekspozitave fotografike dhe temave, në interes të grupimeve të emigrantëve shqiptarë;
 
 d) kryerjen e studimeve kërkimore për prirjet e zhvillimit të tregjeve të punës në vendet kryesore pritëse dhe mundësitë e zgjerimit të këtyre tregjeve në ato vende, ku kushtet e trajtimit dhe të punësimit për fuqi emigratore të huaj janë të pranueshme, duke ia bërë të njohura Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta;
 
-dh) mbështetjen dhe krijimin e shoqatave të emigrantëve shqiptarë në frymën e partneritetit, duke i bërë pjesë aktive në hartimin dhe përmirësimin e politikave dhe të legjislacionit shqiptar të kësaj fushe;
+dh) mbështetjen e shoqatave të emigrantëve shqiptarë dhe sigurimin e informacionit, nëpërmjet shoqatave e grupimeve të emigrantëve shqiptarë, për nevojat që ato kanë për hapjen e shkollave, për mësimin e gjuhës shqipe. Kjo mbështetje realizohet nëpërmjet bashkëpunimit me Ministrinë e Arsimit dhe Shkencës, Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve, si dhe autoritetet shtetërore përgjegjëse të vendit pritës;
 
 e) vendosjen dhe fuqizimin e komunikimit me institucionet dhe strukturat përkatëse të vendeve pritëse;
 
 ë) mbikëqyrjen e zbatimit të marrëveshjeve me shtete të tjera për emigrimin për punësim dhe formim profesional nëpërmjet punës. 
 
+f) bashkërendimin e procesit të negociatave dypalëshe dhe/ose shumëpalëshe, ndërmjet Shqipërisë dhe vendeve të tjera, për nënshkrimin e marrëveshjeve të ripranimit;
+
+g) në bashkëpunim me strukturat e Ministrisë së Brendshme, është përgjegjëse për lëshimin e dokumenteve dhe të lejekalimeve të shtetasve shqiptarë, që kthehen përmes marrëveshjeve të ripranimit, si edhe për informimin për të drejtat dhe detyrimet e tyre;
+
+gj) shpërndarjen e informacionit, për shërbimet që lehtësojnë riintegrimin e emigrantëve të rikthyer nëpër përfaqësitë e Republikës së Shqipërisë, të akredituara jashtë vendit.
+
 Neni 30
 
 Detyrat dhe përgjegjësitë e Ministrisë së Brendshme 
+
+(Ndryshuar shkronja “c” e pikës 1, shtuar fjalë në shkronjën “ç”, shkronjat “d”, “dh” dhe “e” dhe pika 3 me ligjin nr. 10389, datë 3.3.2011)
 
 1. Ministria e Brendshme, në zbatim të këtij ligji, ushtron këto detyra dhe përgjegjësi për: 
 
@@ -378,15 +428,25 @@ Detyrat dhe përgjegjësitë e Ministrisë së Brendshme 
 
  b) trajtimin me përparësi për pajisjen me dokumentacionin e nevojshëm të shtetasve shqiptarë që kërkojnë të emigrojnë; 
 
- c) monitorimin e sistemit të regjistrimit dhe të kontrollit kufitar për emigrantët shqiptarë, në bashkëpunim me Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe me Ministrinë e Punëve të Jashtme;
+ c)  monitorimin nëpërmjet konsultimit elektronik të regjistrimit dhe kontrollit kufitar për emigrantët shqiptarë, në bashkëpunim me Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe me Ministrinë e Punëve të Jashtme;
 
- ç) shkëmbimin e informacionit për numrin, shtetet dhe kohëzgjatjen e qëndrimit të emigrantëve shqiptarë.
+ ç) mbledhjen dhe shkëmbimin e informacionit për numrin, shtetet dhe kohëzgjatjen e qëndrimit të emigrantëve shqiptarë.
+
+d) informimin e emigrantëve të rikthyer në pikat e kalimit kufitar për shërbimet e riintegrimit në vend; 
+
+dh) lehtësimin e kthimit të emigrantëve të rikthyer, nëpërmjet krijimit të kushteve për transport të të kthyerve nga pikat e kalimit kufitar deri në qendrat më të afërta të banimit; 
+
+e) sigurimin e nevojave me ushqim, ujë dhe medikamente, për grupet vulnerabël të emigrantëve të rikthyer në pikat e kalimit kufitar.
 
  2. Emigrantët, shtetas shqiptarë, të cilët largohen për një kohë më të gjatë se 6 muaj nga vendbanimi i tyre në Shqipëri, deklarojnë vendbanimin dhe kohën e qëndrimit në shtetin ku ato shkojnë në zyrat përkatëse në Ministrinë e Brendshme.
+
+ 3. Mënyra e konsultimit, regjistrimit dhe kontrollit kufitar për emigrantët shqiptarë, si dhe mbledhja e shkëmbimi i informacionit për numrin, shtetet dhe kohëzgjatjen e qëndrimit të emigrantëve shqiptarë përcaktohen me vendim të Këshillit të Ministrave.
 
 Neni 31
 
 Detyrat dhe përgjegjësitë e Ministrisë së Arsimit dhe Shkencës 
+
+(Shtuar shkronjat “dh”, “e”, “ë”, “f”, “g” dhe “gj” me ligjin nr. 10389, datë 3.3.2011)
 
 Ministria e Arsimit dhe Shkencës, në zbatim të këtij ligji, ushtron këto detyra e përgjegjësi për: 
 
@@ -400,13 +460,69 @@ c) zbatimin e programeve kombëtare për arsimimin e emigrantëve shqiptarë në
 
 d) bashkëpunimin me autoritetet përgjegjëse të shteteve pritëse për njohjen e diplomave dhe të kualifikimeve.
 
+dh) hartimin e politikave dhe të legjislacionit, për lehtësimin e riintegrimit të fëmijëve të emigrantëve të rikthyer/fëmijëve të pashoqëruar në sistemin arsimor shqiptar pas kthimit, dhe njohjen e kualifikimeve të fituara jashtë;
+
+e) hartimin e kurrikulave të veçanta, për mësimin plotësues të gjuhës shqipe nga emigrantët e rikthyer deri në moshën 18 vjeç ose 25 vjeç, nëse është duke ndjekur studimet e larta;
+
+ë) organizimin e shkollave verore për fëmijët e emigrantëve të rikthyer/fëmijëve të pashoqëruar, për mësimin plotësues të gjuhës shqipe;
+
+f) hartimin e programeve të veçanta në fushën e arsimit për t'u ardhur në ndihmë fëmijëve të emigrantëve të rikthyer/fëmijëve të pashoqëruar;
+
+g) përshtatjen e politikave kurrikulare me nevojat e emigrantëve të rikthyer për arsimim;
+
+gj) ofrimin e shërbimit psikologjik në sistemin arsimor ndaj fëmijëve të emigrantëve të rikthyer/fëmijëve të pashoqëruar dhe përshtatjen e tyre me shkollën, në marrëdhëniet ndërmjet komunitetit të nxënësve, si dhe në marrëdhëniet ndërmjet tyre dhe personelit mësimdhënës.
+
+Neni 31/1
+
+(Shtuar me ligjin nr. 10389, datë 3.3.2011)
+
+Ministria e Punëve Publike dhe Transportit, në zbatim të këtij ligji, ushtron detyrat e përgjegjësitë për:
+
+a) sigurimin e ofrimit të informacionit të nevojshëm për emigrantët e rikthyer për programet sociale të strehimit;
+
+b) hartimin e politikave dhe të legjislacionit për riintegrimin e emigrantëve të rikthyer të pastrehë, nëpërmjet përfshirjes së tyre në programet sociale të strehimit.
+
+Neni 31/2
+
+(Shtuar me ligjin nr. 10389, datë 3.3.2011)
+
+Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në zbatim të këtij ligji, ushtron detyrat e përgjegjësitë për:
+
+a) zbatimin e politikave mbështetëse për emigrantët e rikthyer në Shqipëri, të cilët banojnë në zona rurale, sipas përcaktimeve me vendim të Këshillit të Ministrave;
+
+b) përfshirjen e emigrantëve të rikthyer nga zonat rurale në programet për nxitjen e investimeve në sektorin e bujqësisë, sipas përcaktimeve me vendim të Këshillit të Ministrave;
+
+c) sigurimin e ofrimit të informacionit të nevojshëm për emigrantët e rikthyer për skemat mbështetëse, sipas shkronjës “a” të këtij neni.
+
+Neni 31/3
+
+(Shtuar me ligjin nr. 10389, datë 3.3.2011)
+
+Ministria e Financave, në zbatim të këtij ligji, ushtron detyrat e përgjegjësitë për:
+
+a) sigurimin e zbatimit të parashikimeve të Kodit Doganor, për përjashtime nga taksat doganore, për mjetet personale dhe veglat e punës për emigrantët e kthyer;
+
+b) sigurimin e ofrimit të informacionit të nevojshëm, për emigrantët e rikthyer për skemat e sigurimeve shoqërore në Republikën e Shqipërisë.
+
+Neni 31/4
+
+(Shtuar me ligjin nr. 10389, datë 3.3.2011)
+
+Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në zbatim të këtij ligji, ushtron detyrat e përgjegjësitë për:
+
+a) informimin e emigrantëve të rikthyer për hapjen e një veprimtarie ekonomike në Shqipëri, si dhe për programe mbështetëse për ndërmarrjet e vogla dhe të mesme në Shqipëri;
+
+b) krijimin e mundësive dhe dhënien e informacionit të nevojshëm për shtetasit shqiptarë investitorë, që jetojnë jashtë kufirit shqiptar, të investojnë në vend në fushat me përparësi për vendin.
+
 Neni 32
 
 Bashkëpunimi i strukturave shtetërore
 
+(Ndryshuar togfjalësh në shkronjën “a” të pikës 1 dhe shtuar emërtime në pikën 2 me ligjin nr. 10389, datë 3.3.2011)
+
 1. Autoritetet shtetërore përgjegjëse duhet të bashkëpunojnë për:
 
-a) shkëmbimin e informacionit për shtetasit emigrantë, në përputhje me legjislacionin në fuqi;
+a) shkëmbimin e informacionit për emigrantët dhe emigrantët e rikthyer, në përputhje me legjislacionin në fuqi;
 
 b) hartimin e programeve të përbashkëta për zbatimin e këtij ligji.
 
@@ -416,13 +532,15 @@ c) rikthimin e shtetasve shqiptarë;
 
 d) krijimin e kushteve konkrete për riintegrimin e emigrantëve shqiptarë në shoqërinë vendase.
 
-2. Bashkëpunimi i autoriteteve shtetërore përgjegjëse për çështjet e përcaktuara në pikën 1 të këtij neni bëhet me udhëzim të përbashkët të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministrit të Punëve të Jashtme, Ministrit të Brendshëm, Ministrit të Arsimit dhe Shkencës, Ministrit të Financave dhe Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve.  
+2. Bashkëpunimi i autoriteteve shtetërore përgjegjëse për çështjet e përcaktuara në pikën 1 të këtij neni bëhet me udhëzim të përbashkët të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministrit të Punëve të Jashtme, Ministrit të Brendshëm, Ministrit të Arsimit dhe Shkencës, Ministrit të Financave, Ministrit të Punëve Publike dhe Transportit, Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministrit të Ekonomisë, Tregtisë dhe Energjetikës dhe Ministrit të Shëndetësisë dhe Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve.  
 
 Neni 33
 
 Krijimi i lehtësive për emigrantët
 
-Ngarkohen Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministria e Financave, Ministria e Punëve të Jashtme, Ministria e Brendshme, Ministria e Arsimit dhe Shkencës që, me hyrjen në fuqi të këtij ligji, të përmirësojnë legjislacionin përkatës dhe të hartojnë programe kombëtare të veçanta për riintegrimin e shtetasve shqiptarë dhe orientimin e dërgesave të tyre drejt investimeve produktive për zhvillimin e vendit.
+(Shtuar emërtime me ligjin nr. 10389, datë 3.3.2011)
+
+Ngarkohen Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministria e Financave, Ministria e Punëve të Jashtme, Ministria e Brendshme, Ministria e Arsimit dhe Shkencës, Ministria e Punëve Publike dhe Transportit, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministria e Shëndetësisë, Ministria e Ekonomisë, Tregtisë dhe Energjetikës  që, me hyrjen në fuqi të këtij ligji, të përmirësojnë legjislacionin përkatës dhe të hartojnë programe kombëtare të veçanta për riintegrimin e shtetasve shqiptarë dhe orientimin e dërgesave të tyre drejt investimeve produktive për zhvillimin e vendit.
 
 Neni 34 
 
@@ -434,15 +552,15 @@ Neni 35
 
 Fondi i emigrimit
 
-1. Për të përballuar nevojat për krijimin e kushteve dhe të lehtësive të parashikuara në dispozitat e këtij ligji  krijohet fondi i emigrimit. Ky fond krijohet dhe funksionon si zë i veçantë në buxhetin e autoriteteve shtetërore përgjegjëse dhe  përdoret për:
+1. Për të përballuar nevojat për krijimin e kushteve dhe të lehtësive të parashikuara në dispozitat e këtij ligji krijohet fondi i emigrimit. Ky fond krijohet dhe funksionon si zë i veçantë në buxhetin e autoriteteve shtetërore përgjegjëse dhe përdoret për:
 
 a) prodhimin dhe shpërndarjen e materialeve informuese dhe orientuese për aspektet ligjore, kulturore, etnike të shteteve pritëse, që do t’u ofrohen shtetasve që dëshirojnë të emigrojnë për qëllime punësimi, emigrantëve të rikthyer, si dhe pjesëtarëve të familjeve të tyre, që do të emigrojnë apo do të ribashkohen me to;
 
 b) kurse orientuese formimi gjuhësor dhe profesional; 
 
-c) raste të emergjencës, përveç rasteve të parashikuara në ligjin nr.8372, datë 9.7.1998 “Për ushtrimin e funksioneve konsullore nga përfaqësitë diplomatike ose konsullore”;
+c) raste të emergjencës, përveç rasteve të parashikuara në ligjin nr. 8372, datë 9.7.1998 “Për ushtrimin e funksioneve konsullore nga përfaqësitë diplomatike ose konsullore”;
 
-ç)  riatdhesimin e shtetasve.
+ç) riatdhesimin e shtetasve.
 
  2. Burimet e këtij fondi janë Buxheti i Shtetit, 1 për qind e të ardhurave nga shërbimet që u ofrohen emigrantëve brenda dhe jashtë vendit dhe donacionet e ndryshme. 
 
@@ -454,7 +572,7 @@ Shteti, në respekt të emigrantëve të larguar, cakton datën 2 korrik “Dit�
 
 KREU V
 
-SHËRBIMET  PRIVATE TË EMIGRIMIT
+SHËRBIMET PRIVATE TË EMIGRIMIT
 
 Neni 37
 
@@ -480,7 +598,7 @@ e) përfitimin e një kuote të përcaktuar për punësimin e shtetasve shqiptar
 
 Neni 38
 
-Detyrimet  e agjencive private të punësimit
+Detyrimet e agjencive private të punësimit
 
 1. Agjencitë private të punësimit përkujdesen në çdo kohë për shtetasit shqiptarë, për të cilët ato kanë qenë ndërmjetësuese për punësimin jashtë territorit të Republikës së Shqipërisë, për respektimin e kushteve të kontratës, mosdiskriminimin dhe respektimin e të drejtave të tyre. 
 
@@ -516,7 +634,7 @@ Neni 43
 
 Shfuqizime
 
-1. Ligji nr.9034, datë 20.3.2003 “Për emigrimin e shtetasve shqiptarë për motive punësimi”, shfuqizohet.
+1. Ligji nr. 9034, datë 20.3.2003 “Për emigrimin e shtetasve shqiptarë për motive punësimi”, shfuqizohet.
 
 2. Çdo akt nënligjor, në zbatim të ligjit të mësipërm, që nuk bie në kundërshtim me dispozitat e këtij ligji, vazhdon të jetë në fuqi deri në daljen e akteve të reja.
 
@@ -524,4 +642,4 @@ Neni 44
 
 Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
 
-Shpallur me dekretin nr.5181, datë 12.1.2007 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
+Shpallur me dekretin nr. 5181, datë 12.1.2007 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
