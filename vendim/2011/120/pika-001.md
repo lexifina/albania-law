@@ -1,0 +1,1 @@
+1. Shpërblimin e pronarëve për sipërfaqet takuese të pasurive të paluajtshme, pronë private, të zëna nga ndërtimet informale në qarqet e Tiranës, të Gjirokastrës, të Lezhës, të Elbasanit, të Korçës, të Durrësit të Fierit, të Beratit dhe të Shkodrës.
