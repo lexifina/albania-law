@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë ekonomike, me statusin park industrial”, të një territori me sipërfaqe prej 16.52 ha, në përbërje të parcelave të pasurive nr.1 dhe nr.2, në zonën kadastrale nr.2591, në fshatin Manskuri, komuna Rrashbull, Durrës.
