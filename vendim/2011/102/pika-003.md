@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, pronë private, që shpronësohet, të kompensohet në vlerë të plotë, sipas listës bashkëlidhur këtij vendimi, për objektin me vlerë 2 517 319 (dy milionë e pesëqind e shtatëmbëdhjetë mijë e treqind e nëntëmbëdhjetë) lekë.

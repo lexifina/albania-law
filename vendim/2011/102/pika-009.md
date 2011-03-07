@@ -1,0 +1,1 @@
+9. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyra vendore e regjistrimit të pasurive të paluajtshme, Mirditë, të pezullojnë transaksionet me pasurinë e shpronësuar deri në çastin kur do të realizohen procesi i hedhjes së trupit të rrugës në hartat kadastrale, si dhe kalimi i pronësisë për pasurinë e shpronësuar.
