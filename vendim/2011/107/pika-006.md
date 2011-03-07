@@ -1,0 +1,1 @@
+6. Pas paraqitjes së kandidaturave, sipas pikës 5 të këtij kreu, punëdhënësi bën publik, duke e afishuar në mënyrë të dukshme në mjediset e ndërmarrjes/institucionit, njoftimin për zhvillimin e votimit të fshehtë për zgjedhjen e përfaqësuesve të punëmarrësve në këshillin e sigurisë dhe shëndetit në punë.

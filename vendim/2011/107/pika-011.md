@@ -1,0 +1,1 @@
+11. Listat emërore të punëmarrësve, që marrin pjesë në votim, përgatiten nga punëdhënësi, i cili i vë ato në dispozicion të komisionit të votimit, të paktën 7 ditë para datës së votimit, si dhe afishohen në një vend të dukshëm në ndërmarrje.

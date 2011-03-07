@@ -1,0 +1,1 @@
+18. Komisioni i votimit, pasi vërteton identitetin dhe përfshirjen e punëmarrësit në listën e votimit, e pajis atë me fletën e votimit. Punëmarrësi, i pajisur me fletën e votimit, futet në dhomën e fshehtë dhe vendos shenjën “X” mbi numrin e kandidatit, të cilit i jep votën. Fleta e votimit vlerësohet e pavlefshme, nëse shenja është vënë në më shumë se një numër ose jashtë tij.

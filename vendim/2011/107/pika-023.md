@@ -1,0 +1,1 @@
+23. Kryetari i komisionit të votimit kërkon parapagimin e shpenzimeve të votimit, për infrastrukturën e votimit. Nëse parapagimi nuk bëhet në afatin e caktuar, votimi nuk kryhet. Në këtë rast komisioni i votimit, nëpërmjet kryetarit, i drejtohet punëdhënësit për shtyrjen e datës së votimit.

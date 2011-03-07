@@ -1,0 +1,1 @@
+2. Kur këshilli ngrihet në nivel profesional apo ndërprofesional, çdo subjekt, i cili ka më pak se 50 punëmarrës, zgjedh nga punëmarrësit e tij, përfaqësuesin në këshillin e sigurisë dhe shëndetit në punë. Punëdhënësi në këto ndërmarrje cakton përfaqësuesin e tij në këtë këshill.

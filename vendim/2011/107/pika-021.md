@@ -1,0 +1,1 @@
+21. Nëse kandidati punëmarrës, pjesëmarrës në votim, kundërshton rezultatet e votimit, ai ka të drejtë të ankohet në gjykatën e rrethit gjyqësor përkatës, brenda 30 ditëve nga shpallja e rezultateve të votimit.

@@ -1,0 +1,1 @@
+20. Rezultatet e votimit shpallen deri 24 orë pas përfundimit të votimit, nga kryetari i komisionit të votimit. Kandidati/kandidatët, që fiton/jnë shumicën e votave, në krahasim me kandidatët e tjerë, pjesëmarrës në votim, konsiderohen përfaqësues të punëmarrësve në këshillin e sigurisë dhe shëndetit në punë.

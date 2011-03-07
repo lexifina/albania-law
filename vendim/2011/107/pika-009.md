@@ -1,0 +1,1 @@
+9. Punëdhënësi/organizata e punëdhënësve cakton përfaqësuesin e tij apo të organizatës së punëdhënësve, që do të jetë anëtar i komisionit të votimit, ndërsa organizata/t e punëmarrësit dhe punëmarrësve, të cilët nuk janë të organizuar/a në organizata të punëmarrësve, caktojnë përfaqësuesin e tyre në komision. Kryetari i komisionit të votimit zgjidhet nga anëtarët e tij.

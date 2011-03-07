@@ -1,0 +1,1 @@
+3. Në subjektet ku veprimtaria dhe proceset e punës kanë rrezikshmëri të lartë për sigurinë dhe shëndetin në punë, përfaqësuesi zgjidhet pavarësisht nga numri i punëmarrësve, sipas përcaktimit të pikës 1 të këtij vendimi.
