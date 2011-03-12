@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Agjencisë së Kthimit e Kompensimit të Pronave jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km të lëshohen nga Drejtori i Agjencisë së Kthimit e Kompensimit të Pronave.
