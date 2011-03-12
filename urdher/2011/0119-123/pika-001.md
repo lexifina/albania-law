@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Zyrës së Regjistrimit të Pasurive të Paluajtshme jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km të lëshohen nga Kryeregjistruesi.
