@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Shërbimit Përmbarimor jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km të lëshohen nga Drejtori i Përgjithshëm i Shërbimit Përmbarimor.
