@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 371, datë 10.2.2011
+PËR RATIFIKIMIN E MEMORANDUMIT PËR GARANCITË LIGJORE DHE JURIDIKE KUNDËR PËRPUNIMIT TË PALIGJSHËM TË TË DHËNAVE PERSONALE
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
