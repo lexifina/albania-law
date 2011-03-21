@@ -1,0 +1,1 @@
+9. I gjithë procesi i trajtimit të kërkesave të subjekteve të shpronësuara duhet të kryhet në përputhje me këtë vendim dhe me afatin ligjor, të përcaktuar në nenin 17, paragrafi 2, të ligjit nr.9235, datë 29.7.2004 “Për kthimin dhe kompensimin e pronës”, të ndryshuar.
