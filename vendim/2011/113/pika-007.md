@@ -1,0 +1,3 @@
+7. Informacioni për një parandalim të përshtatshëm përfshin:
+a) ofrimin e informacionit për abstinencën nga marrëdhëniet seksuale, përdorimin e prezervativit, besnikërinë ndaj partnerit, sigurimin e trajtimit të përshtatshëm mjekësor për infeksionet seksualisht të transmetueshme, shmangien e kontaktit me gjakun dhe aplikimin e masave universale lidhur me ndihmën e parë;
+b) sigurimin e informacionit për rolin e drogave, abuzimin seksual dhe përdhunimin, rolin e infeksioneve seksualisht të transmetueshme në transmetimin e HIV/AIDS-it, si dhe krijimin e mundësisë që këto çështje të jenë të qarta e të kuptueshme.

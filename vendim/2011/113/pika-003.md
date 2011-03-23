@@ -1,0 +1,1 @@
+3. Mospërjashtimi i personave që jetojnë me HIV/AIDS nga rrjeti i institucioneve të arsimit, institucionet e trajtimit mjekësor, institucionet rezidenciale të përkujdesit social, për shkak të statusit të tyre HIV/AIDS.

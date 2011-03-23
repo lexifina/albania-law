@@ -1,0 +1,1 @@
+10. Të gjitha institucionet arsimore, në bashkëpunim me strukturat lokale të shëndetit publik, sigurojnë trajnime lidhur me ndihmën e parë për nxënësit/studentët, mësuesit dhe punonjësit e institucionit. Gjithashtu, sigurohen edhe mjetet mbrojtëse të përshtatshme, duke përdorur pajisjet e përcaktuara në shtojcën 2.
