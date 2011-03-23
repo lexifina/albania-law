@@ -1,0 +1,2 @@
+Miratimin e protokollit të mirëkuptimit dhe të marrëveshjes së lidhur, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Organi Shtetëror i Autorizuar (OSHA), i përbërë nga Ministri i Ekonomisë, Tregtisë dhe Energjetikës, Ministri i Punëve Publike dhe Transportit, Ministri i Financave dhe Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, dhe shoqërisë “La Petrolifera Italo-Albanese” sh.a., “PIA”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
