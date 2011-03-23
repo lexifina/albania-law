@@ -1,0 +1,1 @@
+11. Subjektet e interesuara për ndryshimin e kategorisë së tokës sipas bonitetit, si dhe subjektet e interesuara për kryerjen e studimit të bonitetit për tokat bujqësore, në të cilat ky studim nuk është kryer apo nuk ekzistojnë të dhëna për kategorinë e tokës bujqësore sipas bonitetit, kryejnë paraprakisht likuidimin e shpenzimeve me tarifat e përcaktuara për QTTB-në.

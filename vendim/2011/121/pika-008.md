@@ -1,0 +1,1 @@
+8. Sistemi i Informacionit për Tokën është unik dhe si njësi bazë në pasqyrimin e të dhënave dhe të treguesve ka ngastrën (parcelën) e tokës bujqësore në pronësi private apo në pronësi shtetërore (publike).

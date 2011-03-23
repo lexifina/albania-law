@@ -1,0 +1,1 @@
+3. Numri i punonjësve të administrimit të tokës për çdo zyrë të DAMT-së në rreth, brenda numrit të përgjithshëm të punonjësve të DAMT-së, të miratuar me vendim të Këshillit të Ministrave dhe në varësi me madhësinë e çdo rrethi, miratohet nga Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, me propozimin e kryetarit të këshillit të qarkut.

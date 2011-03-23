@@ -1,0 +1,1 @@
+4. Drejtori i DAMT-së dhe punonjësit e zyrave të DAMT-së në nënndarjet e qarkut, të caktuar për administrimin e tokës, janë pjesë e organikës së punonjësve të përcaktuar nga ligji, si funksion i deleguar, i detyrueshëm, i Këshillit të Ministrave.

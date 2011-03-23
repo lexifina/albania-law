@@ -1,0 +1,2 @@
+10. Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, pas shqyrtimit të tërësishëm të kërkesës së ardhur nga DAMT-ja, kur këtë e gjen në përshtatje me procedurat e përcaktuara, ia dërgon QTTB-së, Fushë-Krujë, e cila lidh marrëveshje me subjektet kërkuese të përcaktuara në pikat 3 e 5 të këtij kreu. Për lidhjen e marrëveshjes, MBUMK-ja njofton përkatësisht QTTB-në dhe subjektet kërkuese.
+10.1. Në rast se kërkesa nuk rezulton në përshtatje me procedurat e përcaktuara, i rikthehet DAMT-së.

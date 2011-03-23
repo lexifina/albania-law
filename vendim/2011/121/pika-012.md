@@ -1,0 +1,1 @@
+12. QTTB-ja, brenda një muaji nga data e lidhjes së aktmarrëveshjes me subjektin kërkues, kryen analizat dhe, bazuar në të dhënat e tyre, harton raportin teknik, të cilin bashkë me aktvlerësimet përkatëse ia dërgon MBUMK-së.

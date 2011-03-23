@@ -1,0 +1,2 @@
+6. DAMT-ja bashkëpunon me institucionet e tjera shtetërore për këmbimin e informacioneve, të treguesve dhe të të dhënave, që krijohen nga zbatimi i programeve dhe projekteve me objekt tokën bujqësore dhe disa kategori të resurseve të tjera, të realizuara nëpërmjet GIS-it, matjeve të thjeshta të ndryshme, inventarizimeve, rilevimeve topografike, fotografimeve ajrore, pamjeve satelitore etj.
+6.1. Këmbimi i ndërsjellë i informacioneve, treguesve dhe i të dhënave ndërmjet institucioneve shtetërore bëhet pa pagesë.
