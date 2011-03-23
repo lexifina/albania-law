@@ -1,2 +1,2 @@
-1.Ndërprerjen e veprimtarisë së përpunimit të anijeve, që transportojnë naftë, gaz dhe nënprodukte të tyre, në portet e Durrësit dhe të Shëngjinit, deri më 30 qershor 2009.
+1.Ndërprerjen e veprimtarisë së përpunimit të anijeve, që transportojnë naftë, gaz dhe nënprodukte të tyre, në portet e Durrësit, deri më 30 qershor 2009.
 Afati i përcaktuar sipas paragrafit të mësipërm shtyhet deri më 30 dhjetor 2009 për përpunimin vetëm të anijeve, që transportojnë nënproduktet e naftës: bitum i lëngët, mazut, solar, vajra lubrifikante, benzinë mjetesh të fluturimit ajror dhe lëndë djegëse për mjetet e fluturimit ajror, reaktive.
