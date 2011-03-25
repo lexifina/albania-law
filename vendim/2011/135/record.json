@@ -1,0 +1,31 @@
+{
+  "qbz_id": 18100,
+  "title": "PËR MIRATIMIN E DËMSHPËRBLIMIT FINANCIAR PËR ISH-TË DËNUARIT POLITIKË TË REGJIMIT KOMUNIST",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "135",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-02-23",
+  "published": "2011-03-25",
+  "in_force": "2011-03-25",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/68f8915fbc2b4afce6e83308e7eda214f670d3132194d5b659a27f68a7d2e818.docx",
+  "source_sha256": "68f8915fbc2b4afce6e83308e7eda214f670d3132194d5b659a27f68a7d2e818",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18100",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/02/23/135",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56697,
+    8319,
+    9744,
+    8018
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
