@@ -1,0 +1,1 @@
+4. Komisioni mblidhet periodikisht dhe vlerëson kërkesat që vijnë nga njësitë e qeverisjes vendore, për mbështetjen e individëve, familjeve, grupimeve që konsiderohen në nevojë dhe vendos për shpërndarjen e këtij fondi.

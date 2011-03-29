@@ -1,0 +1,1 @@
+14. Komisioni në përcaktimin e mbështetjes financiare sipas pikës 8 shkronja “a” të këtij udhëzimi, mban në konsideratë, por nuk kufizohet vetën në to, elemente të tilla si: gjendjen social-ekonomike të individit, numrin e anëtarëve të familjes që kanë në ngarkim, rëndesën e ngjarjes/fatkeqësisë/sëmundjes.

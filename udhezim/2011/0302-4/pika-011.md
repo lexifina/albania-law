@@ -1,0 +1,1 @@
+11. Drejtoria e Politikave të Shërbimeve Sociale, dosjen e plotësuar dhe të dërguar nga Drejtoria e Përgjithshme e Shërbimit Social Shtetëror, me vlerësimet dhe dokumentacionet sipas pikave 9 dhe 10 të këtij udhëzimi, ia paraqet për kryerjen e vlerësimit sipas pikës 12 të këtij udhëzimi, Drejtorisë së Planifikimit të Buxhetit, Analizës dhe Statistikës.

@@ -1,0 +1,1 @@
+7. Njësitë e qeverisjes vendore, për mbështetjen e individëve dhe familjeve sipas pikës 1 shkronja “a”, paraqesin një informacion për gjendjen social-ekonomike të familjes, dokumentacion për numrin e anëtarëve të familjes, informacion për rëndesën e ngjarjes/fatkeqësisë/sëmundjes.

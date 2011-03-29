@@ -1,0 +1,1 @@
+16. Të gjitha shpenzimet e tjera të nevojshme për funksionimin e shërbimeve sociale komunitare për personelin administrativ dhe shpenzimet operative, si: energji, ujë, kancelari etj., mbulohen nga vetë njësia e qeverisjes vendore.

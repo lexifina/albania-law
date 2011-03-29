@@ -1,0 +1,1 @@
+17. Fondi i miratuar nga Komisioni, për mbështetje sipas germave “a”, “b” dhe “c” të pikës 1, delegohet si transfertë e kushtëzuar në njësitë e qeverisjes vendore nga MPÇSSHB-ja, së bashku me një kopje të vendimit të Komisionit.
