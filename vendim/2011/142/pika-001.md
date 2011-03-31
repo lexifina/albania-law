@@ -1,0 +1,1 @@
+1. Miratimin e “Planit kombëtar të veprimit për luftën kundër trafikimit të qenieve njerëzore” dhe të dokumentit plotësues “Plani i veprimit për luftën kundër trafikimit të fëmijëve dhe mbrojtjen e fëmijëve, viktima të trafikimit”, sipas teksteve që i bashkëlidhen këtij vendimi.
