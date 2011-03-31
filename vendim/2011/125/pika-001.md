@@ -1,0 +1,1 @@
+1. Miratimin e “Strategjisë kombëtare të sigurisë rrugore 2011-2020” dhe “Planit të veprimit për sigurinë rrugore 2011-2015”, që i bashkëlidhen këtij vendimi, në zbatim të objektivave të Qeverisë për përmirësimin e sigurisë rrugore dhe uljen e numrit të aksidenteve rrugore.
