@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Brendshme, Zëvendësministrit të Brendshëm, z. Avenir Peka, nga data 24.3.2011 deri në caktimin e një zëvendësuesi në funksionin e Ministrit të Brendshëm.
