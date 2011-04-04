@@ -1,0 +1,1 @@
+2. Institucionet e lartpërmendura, për shërbimet e tjera, të cilat janë në përputhje me veprimtarinë e “Posta Shqiptare” sh.a., si ofrues i parë, t’i drejtohen kësaj poste. Në rast se këto shërbime nuk realizohen nga “Posta Shqiptare” sh.a., atëherë mund t’u ofrohen operatorëve të tjerë.

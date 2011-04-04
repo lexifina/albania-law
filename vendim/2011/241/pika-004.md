@@ -1,0 +1,1 @@
+4. Vendimi nr.414, datë 7.6.2006 i Këshillit të Ministrave “Për kryerjen nga “Posta Shqiptare” sh.a., të shërbimeve postare dhe financiare të ministrive, institucioneve buxhetore, ndërmarrjeve dhe shoqërive me kapital shtetëror”, shfuqizohet.
