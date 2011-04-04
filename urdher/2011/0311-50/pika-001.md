@@ -1,0 +1,1 @@
+1. Autorizimet për përfaqësimin ligjor të Ministrisë së Brendshme më proceset gjyqësore, të lëshohen nga Drejtori i Përgjithshëm i Shërbimeve Mbështetëse, në emër të personit që do të përfaqësojë Ministrinë.

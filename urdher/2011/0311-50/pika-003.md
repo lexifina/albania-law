@@ -1,0 +1,1 @@
+3. Kompetencat e tjera procedurale, të parashikuara për titullarin e institucionit nga “Kodi i Procedurës Civile i Republikës së Shqipërisë”, i delegohen Drejtorit të Përgjithshëm të Shërbimeve Mbështetëse.
