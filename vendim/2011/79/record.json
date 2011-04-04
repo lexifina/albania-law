@@ -1,0 +1,30 @@
+{
+  "qbz_id": 13127,
+  "title": "Për krijimin e shoqërisë aksionAre ndërmjet federatës shqiptare të futbollit dhe ministrisë së turizmit, kulturës, rinisë dhe sporteve, me qëllim rindërtimin, modernizimin dhe administrimin e stadiumit kombëtar “Qemal Stafa”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "79",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-02-02",
+  "published": "2011-04-04",
+  "in_force": "2011-04-04",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/cd65cfec05a85d48c06ce3e63373a8c7da9c0816f1147a2ea1de228a8ccd4b70.docx",
+  "source_sha256": "cd65cfec05a85d48c06ce3e63373a8c7da9c0816f1147a2ea1de228a8ccd4b70",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13127",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/02/02/79",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    54812,
+    12867,
+    8756
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
