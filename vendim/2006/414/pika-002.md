@@ -1,1 +1,0 @@
-2. Shpërndarja e faturave të konsumatorëve, të lëshuara nga KESH sh.a, Albtelecom, sh.a., dhe shoqëritë tregtare të ujësjellës-kanalizimeve, sh.a., të bëhet nga Posta Shqiptare sh.a., me tarifa të reduktuara, deri në 50 për qind, të postës së letrave.
