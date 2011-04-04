@@ -1,1 +1,0 @@
-2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, fillojnë nga data e emërimit të punonjësve, pas miratimit të strukturës, dhe do të përballohen nga buxheti i vitit 2008, miratuar për Agjencinë e Administrimit të Pasurive të Sekuestruara dhe Konfiskuara.
