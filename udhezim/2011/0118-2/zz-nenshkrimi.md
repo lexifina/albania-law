@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI I ARSIMIT DHE SHKENCËS MINISTRI I FINANCAVE
+Myqerem Tafaj Ridvan Bode
