@@ -1,0 +1,1 @@
+3. Tarifa e shkollimit, për çdo program të studimeve të doktoratës në Institutin e Studimeve Europiane të Universitetit të Tiranës është 204 600 (dyqind e katër mijë e gjashtëqind) lekë, e cila paguhet në këste, të përcaktuara nga Universiteti i Tiranës.
