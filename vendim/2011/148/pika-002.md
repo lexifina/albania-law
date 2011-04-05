@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 pikëve, për rezultatin teknik dhe financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar) për dhënien me koncesion të këtyre hidrocentraleve, që i jepet shoqërisë “Geo Consult”, sh.p.k.
