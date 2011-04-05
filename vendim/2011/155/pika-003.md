@@ -1,0 +1,1 @@
+3. Ministrisë së Punëve Publike dhe Transportit (Drejtorisë së Përgjithshme të Rrugëve) i ndalohet ta ndryshojë destinacionin e pronës së përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojë ose t’ua japë në përdorim të të tretëve.

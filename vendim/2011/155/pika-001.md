@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve Ministrisë së Punëve Publike dhe Transportit, për Drejtorinë e Përgjithshme të Rrugëve, të mjediseve të punës të Institutit të Monumenteve të Kulturës “Gani Strazimiri”, sipas formularit dhe planimetrisë që i bashkëlidhen këtij vendimi.
