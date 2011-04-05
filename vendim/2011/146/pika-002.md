@@ -1,0 +1,1 @@
+2. Drejtoria e Përgjithshme e Policisë së Shtetit nënshkruan aktmarrëveshje të përbashkët, për përcaktimin e të drejtave dhe të detyrimeve të ndërsjella, përkatësisht, me Gjykatën Kushtetuese, Gjykatën e Lartë, Drejtorinë e Përgjithshme të Arkivave dhe Qendrën e Fizikës Bërthamore të Zbatuar.
