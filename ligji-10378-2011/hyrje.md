@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 378, datë 24.2.2011
+PËR RATIFIKIMIN E “MARRËVESHJES NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE MBRETËRISË SË BELGJIKËS PËR TRANSFERIMIN E PERSONAVE TË DËNUAR”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
