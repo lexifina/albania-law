@@ -1,0 +1,28 @@
+{
+  "qbz_id": 13172,
+  "title": "PËR MIRATIMIN E RREGULLAVE PËR ALOKIMIN E KAPACITETEVE TË INTERKONjEKSIONIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "13",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2011-02-22",
+  "published": "2011-04-09",
+  "in_force": "2011-04-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1b9a9e0c3c69d28f3fbf7cd846a5ff92f6d465c8c65d8f41c8c6c08fb8f946e8.docx",
+  "source_sha256": "1b9a9e0c3c69d28f3fbf7cd846a5ff92f6d465c8c65d8f41c8c6c08fb8f946e8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13172",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/02/22/13",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    14115
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
