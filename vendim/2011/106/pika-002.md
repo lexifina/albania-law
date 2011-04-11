@@ -1,0 +1,1 @@
+2. Vendimi nr.1569, datë 19.11.2008 i Këshillit të Ministrave “Për miratimin e listës së mallrave ushtarake dhe të listës së mallrave e teknologjive, me përdorim të dyfishtë, që i nënshtrohen kontrollit shtetëror import-eksporteve”, shfuqizohet.
