@@ -1,1 +1,0 @@
-1. Miratimin e listës së mallrave ushtarake dhe të listës së mallrave e teknologjive, me përdorim të dyfishtë, përkatësisht, sipas shtojcave nr.1 e nr.2, që i bashkëlidhen këtij vendimi, të cilat i nënshtrohen kontrollit shtetëror të import-eksporteve.
