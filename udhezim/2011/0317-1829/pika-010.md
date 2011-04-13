@@ -1,0 +1,1 @@
+10. Pas përfundimit të procedurave të mësipërme, komisioni i ndjekjes së procedurave të rijetëzimit, fillon procedurat për hartimin dhe lidhjen e kontratës së shfrytëzimit e rijetëzimit të monumentit të kulturës.

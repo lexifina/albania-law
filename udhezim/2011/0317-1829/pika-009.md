@@ -1,0 +1,1 @@
+9. Subjektet konkurruese, brenda 5 ditëve nga shpallja e subjektit fitues, kanë të drejtën e ankimimit te ministri përgjegjës për trashëgiminë kulturore, i cili brenda 10 ditësh i përgjigjet ankuesit me shkrim; vendimi i ministrit përgjegjës për trashëgiminë kulturore është përfundimtar.

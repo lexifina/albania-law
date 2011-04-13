@@ -1,0 +1,1 @@
+8. Në përcaktimin e fituesit rëndësi e veçantë i kushtohet cilësisë së projektit më të përshtatur me monumentin dhe funksionin e tij. Rast pas rasti do të merren në konsideratë dhe parametrat për infrastrukturën dhe elementet e vizitueshmërisë të lidhura me monumentin (rrugë, ndriçim, tabela etj.). Njoftimi për shpalljen fitues vendoset në këndin e njoftimeve të MTKRS-së.
