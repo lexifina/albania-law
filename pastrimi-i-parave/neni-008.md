@@ -1,10 +1,11 @@
 # Neni 8
 Kategoritë e klientëve, ndaj të cilëve zbatohet vigjilenca e zgjeruar
-1. Subjektet duhet të verifikojnë, sipas listës së përcaktuar në nenin 28 pika 2 të këtij ligji, nëse një klient ose një pronar përfitues është person i ekspozuar politikisht dhe nëse po:
-a) të marrin miratimin nga instancat më të larta të administrimit ose drejtimit, përpara se të vendosin një marrëdhënie biznesi me të;
-b) të marrin deklaratën për burimin e pasurisë së tij, e cila i përket këtij veprimi financiar;
-c) të kryejnë një monitorim në rritje dhe të vazhdueshëm të marrëdhënieve të biznesit.
-2. Kur një klient bëhet më pas një person i ekspozuar politikisht, duhet të zbatohen masat e parashikuara në pikën 1 të këtij neni.
+1. Subjektet e përcaktuara në shkronjën “a” të nenit 3 të këtij ligji, përveç procedurave të vigjilencës së zgjeruar ndaj klientit, duhet:
+a) të hartojnë dhe të zbatojnë sisteme efektive të menaxhimit të riskut për të përcaktuar nëse një klient ekzistues apo potencial ose pronari përfitues është një person i ekspozuar politikisht;
+b) të marrin miratimin e drejtuesve të lartë për vendosjen e marrëdhënieve të biznesit me personat e ekspozuar politikisht;
+c) të kërkojnë dhe të marrin miratimin e drejtuesve të lartë për vazhdimin e marrëdhënies së biznesit, në rastet kur marrëdhënia e biznesit me klientin është vendosur dhe subjekti konstaton që klienti apo pronari përfitues është bërë ose bëhet më pas person i ekspozuar politikisht;
+ç) të marrin masa të arsyeshme për të kuptuar burimin e pasurisë dhe të fondeve të klientëve e të pronarëve përfitues, të identifikuar si persona të ekspozuar politikisht.
+2. Në rastet kur subjektet kanë një marrëdhënie biznesi me personat e ekspozuar politikisht, ata duhet të mbikëqyrin me vigjilencë të zgjeruar këtë marrëdhënie.
 3. Për klientët, të cilët janë organizata jofitimprurëse, subjektet duhet:
 a) të mbledhin informacione të mjaftueshme për to, për të kuptuar plotësisht burimet e financimit, natyrën e veprimtarisë dhe mënyrën e administrimit dhe drejtimit të tyre;
 b) të përcaktojnë nëpërmjet informacionit publik ose me mjete të tjera reputacionin e tyre;

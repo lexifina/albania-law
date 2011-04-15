@@ -4,7 +4,7 @@ Masat parandaluese të ndërmarra nga subjektet
 a) të hartojnë dhe të zbatojnë rregulloret dhe udhëzimet e brendshme, të cilat marrin parasysh rrezikun e pastrimit të parave dhe financimit të terrorizmit, që mund të lindë nga klientë ose biznese, duke përfshirë por jo duke u kufizuar në:
 i) një politikë për pranimin e klientit;
 ii) një politikë për zbatimin e procedurave për vigjilencën e zgjeruar në rastin e klientëve dhe transaksioneve të kategorive që paraqesin rrezik të lartë;
-b) të emërojnë një person përgjegjës dhe një zëvendëspërgjegjës për parandalimin e pastrimit të parave në nivele administrimi/drejtimi në zyrën qendrore dhe në çdo zyrë përfaqësimi, filial, degë ose agjenci, tek të cilat të gjithë punonjësit raportojnë çdo fakt që mund të përbëjë dyshim për pastrim parash ose financim terrorizmi;
+b) të emërojnë një person përgjegjës dhe një zëvendëspërgjegjës për parandalimin e pastrimit të parave në nivele administrimi/drejtimi në zyrën qendrore dhe në çdo zyrë përfaqësimi, filial, degë ose agjenci, tek të cilat të gjithë punonjësit raportojnë çdo fakt që mund të përbëjë dyshim për pastrim parash ose financim terrorizmi. Personat përgjegjës kanë akses të vazhdueshëm ndaj të gjitha të dhënave, të parashikuara në nenin 16 të këtij ligji;
 c) të krijojnë një sistem të centralizuar përgjegjës për grumbullimin dhe analizimin e të dhënave;
 ç) të zbatojnë procedurat përzgjedhëse për punonjës të rinj, për t’u siguruar për integritetin e tyre;
 d) të trajnojnë punonjësit për parandalimin e pastrimit të parave dhe të financimit të terrorizmit përmes organizimit periodik të programeve të kualifikimit;

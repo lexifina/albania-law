@@ -13,9 +13,9 @@ b) personat juridikë: nga 2 000 000 lekë deri në 5 000 000 lekë.
 5. Për rastet kur nuk zbatojnë masat parandaluese të parashikuara në nenin 11 të këtij ligji, subjektet gjobiten:
 a) personat fizikë: nga 300 000 lekë deri në 1 500 000 lekë;
 b) personat juridikë: nga 1 000 000 lekë deri në 3 000 000 lekë.
-6. Për rastet kur nuk zbatojnë kërkesat për raportim, të parashikuara në nenin 12 të këtij ligji, subjektet gjobiten:
-a) personat fizikë: nga 5 për qind deri në 20 për qind të shumës së transaksionit të paraportuar;
-b) personat juridikë: nga 10 për qind deri në 50 për qind të shumës së transaksionit të paraportuar.
+6. Për rastet kur nuk zbatojnë kërkesat për raportim, të parashikuara në pikat 3 e 4 të nenit 12 të këtij ligji, subjektet gjobiten:
+a) personat fizikë nga 300 000 lekë deri në 1 500 000 lekë;
+b) personat juridikë nga 1 000 000 lekë deri në 5 000 000 lekë.
 7. Në rast shkeljeje të kërkesave të parashikuara në nenet 15 dhe 16 të këtij ligji, subjektet gjobiten:
 a) personat fizikë me 2 500 000 lekë;
 b) personat juridikë me 5 000 000 lekë.
@@ -24,5 +24,6 @@ a) nga një punonjës ose jo administrues i subjektit, personi që ka kryer shke
 b) nga një administrator ose drejtues i subjektit, personi që ka kryer shkeljen gjobitet nga 100 000 lekë deri në 500 000 lekë.
 9. Gjobat përcaktohen dhe vendosen nga autoriteti përgjegjës.
 10. Autoriteti përgjegjës informon autoritetet licencuese dhe/ose mbikëqyrëse mbi sanksionet e vendosura.
-11. Procedurat e ankimit kundër vendimeve të tyre zbatohen në përputhje me ligjin nr.7697, datë 4.7.1993 “Për kundërvajtjet administrative”, të ndryshuar.
+11. Këshilli i Ministrave përcakton me vendim procedurat e konstatimit, të shqyrtimit, të propozimit dhe të vendosjes së masave administrative nga autoriteti përgjegjës. Procedurat e ankimit dhe të ekzekutimit të gjobave, të vendosura me vendim të autoritetit përgjegjës, bëhen në përputhje me ligjin “Për kundërvajtjet administrative”.
 Procedurat e ekzekutimit të masave administrative bëhen në përputhje me nenet 510 deri 526/a të Kodit të Procedurës Civile.
+12. E drejta për shqyrtimin e kundërvajtjeve administrative, të parashikuara në këtë nen, nuk mund të ushtrohet kur kanë kaluar 2 vjet nga çasti i kryerjes së kundërvajtjes administrative.
