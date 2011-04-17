@@ -1,1 +1,0 @@
-5. Vendimi nr.86, datë 12.3.1992 i Këshillit të Ministrave “Për disa të drejta e detyrime të ushtarakëve, të cilat rrjedhin nga ligji “Për statusin e ushtarakut të Forcave të Armatosura të Republikës së Shqipërisë”, nuk zbatohet për punonjësit e Policisë së Shtetit.
