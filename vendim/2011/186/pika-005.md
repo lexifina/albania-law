@@ -1,0 +1,1 @@
+5. Shuma e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të ankuesve, z.Refat Puto, znj.Violeta Puto, znj.Saime Puto, z.Pandi Allabashi, znj.Ermira Allabashi dhe znj.Roza Allabashi, dhe të konvertohet në lekë me kursin e këmbimit të bankës, ku është depozituar shuma, në datën e kryerjes së pagesës.

@@ -1,0 +1,1 @@
+6. Pagimi i shumës së depozituar, sipas pikës 5 të këtij vendimi, në favor të ankuesve, z.Refat Puto, znj.Violeta Puto, znj.Saime Puto, z.Pandi Allabashi, znj.Ermira Allabashi dhe znj.Roza Allabashi, të bëhet nga Ministria e Financave, pas paraqitjes së të gjithë dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga Buxheti i Shtetit.
