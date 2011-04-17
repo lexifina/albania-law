@@ -1,0 +1,1 @@
+1. Ngritjen e Monumentit të Heroit të Demokracisë dhe Pluralizmit, Azem Hajdari, në parkun midis godinës së Kryeministrisë dhe lumit Lana, me shikim nga bulevardi “Dëshmorët e Kombit”, pranë ndërtesës së parlamentit të ri.
