@@ -1,0 +1,31 @@
+{
+  "qbz_id": 13197,
+  "title": "PËR PJESËMARRJEN E FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË NË OPERACIONIN USHTARAK NDËRKOMBËTAR KFOR, KOSOVË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "197",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-03-16",
+  "published": "2011-04-17",
+  "in_force": "2011-04-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b2ae7427e94bd57c45040407c184ecf161d31bd241e7c6f12397dd2d5fc37af6.docx",
+  "source_sha256": "b2ae7427e94bd57c45040407c184ecf161d31bd241e7c6f12397dd2d5fc37af6",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13197",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/03/16/197",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    19582,
+    9311,
+    8369,
+    7949
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
