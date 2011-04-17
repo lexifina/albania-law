@@ -1,0 +1,1 @@
+5. Punonjësi i policisë, në përpjesëtim me kohën e shpenzuar gjatë ushtrimit të detyrës shtesë të trajnuesit në terren të punonjësve të policisë që kanë përfunduar periudhën e shkollimit në shkollën bazë të policisë, përfiton shtesë mbi pagën mujore në masën 40 lekë/orë, por jo më shumë se 7000 (shtatë mijë) lekë.

@@ -1,0 +1,1 @@
+7. Punonjësi i policisë, që përfiton sipas pikave 1 e 3 të këtij vendimi, nënkupton punonjësin e përcaktuar në pikën 1 të nenit 11 të ligjit nr.9749, datë 4.6.2007 “Për Policinë e Shtetit”, duke mos përfshirë punonjësin e emëruar për herë të parë, por vetëm atë efektiv.
