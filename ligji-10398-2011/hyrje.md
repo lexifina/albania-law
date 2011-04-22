@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 398, datë 17.3.2011
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË KONVENTËN “PËR NJOHJEN DHE ZBATIMIN E VENDIMEVE NË LIDHJE ME DETYRIMET USHQIMORE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
