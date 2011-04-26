@@ -1,0 +1,26 @@
+{
+  "qbz_id": 18120,
+  "title": "PËR RRËZIMIN E DEKRETIT NR. 6975, DATË 12.4.2011 TË PRESIDENTIT TË REPUBLIKËS “PËR KTHIMIN PËR RISHQYRTIM TË LIGJIT NR. 10 404, DATË 24.3.2011 “PËR DISA NDRYSHIME DHE SHTESA NË LIGJIN NR. 8976, DATË 12.12.2002 “PËR AKCIZAT NË REPUBLIKËN E SHQIPËRISË”, TË NDRYSHUAR””",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "98",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-04-25",
+  "published": "2011-04-26",
+  "in_force": "2011-04-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ae7fe82e9a1348635b08ba932e236b1aa9965e9c30823b990e869dcd22208230.docx",
+  "source_sha256": "ae7fe82e9a1348635b08ba932e236b1aa9965e9c30823b990e869dcd22208230",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18120",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/04/25/98",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
