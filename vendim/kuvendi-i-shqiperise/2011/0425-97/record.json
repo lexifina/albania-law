@@ -1,0 +1,26 @@
+{
+  "qbz_id": 18119,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS PËR EMËRIMIN E MINISTRIT TË BRENDSHËM",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "97",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-04-25",
+  "published": "2011-04-26",
+  "in_force": "2011-04-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1c7beeafecda92fd4d8b0bb00eb5e5d33cc91b011a3c63ac4f8048ac7b768a10.docx",
+  "source_sha256": "1c7beeafecda92fd4d8b0bb00eb5e5d33cc91b011a3c63ac4f8048ac7b768a10",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18119",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/04/25/97",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
