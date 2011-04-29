@@ -1,0 +1,1 @@
+1. Përcaktimin e listës së testeve të gjuhës angleze të njohura ndërkombëtarisht (shih shtojcën 1), si kërkesë për përfundimin e programeve të studimeve të ciklit të dytë dhe të tretë të ofruara në institucionet e arsimit të lartë.

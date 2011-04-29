@@ -1,0 +1,1 @@
+6. Institucionet e arsimit të lartë të përcaktojnë në statutet dhe në rregulloret e studimeve procedurat dhe modalitetet e dhënies së provimit të gjuhës angleze, mbi bazën e testeve të njohura ndërkombëtare dhe niveleve të kompetencës gjuhësore të përcaktuar në këtë udhëzim.

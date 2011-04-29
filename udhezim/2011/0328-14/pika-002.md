@@ -1,0 +1,1 @@
+2. Klasifikimi i aftësive gjuhësore dhe niveleve të kompetencave gjuhësore sipas Kuadrit të Përbashkët Europian të Referencave për Gjuhët (KPERGJ) (shih shtojcën 2), shërben si standard në Republikën e Shqipërisë për gjuhët e huaja dhe testet gjuhësore.
