@@ -1,1 +1,4 @@
-2. Fondi prej 295 029 876 (dyqind e nëntëdhjetë e pesë milionë e njëzet e nëntë mijë e tetëqind e shtatëdhjetë e gjashtë) lekësh të përballohet nga KESH sh.a. (Korporata Elektroenergjetike Shqiptare).
+2. Fondi prej 295 029 876 (dyqind e nëntëdhjetë e pesë milionë e njëzet e nëntë mijë e tetëqind e shtatëdhjetë e gjashtë) lekësh, të përballohet si më poshtë:
+a) 125 029 876 (njëqind e njëzet e pesë milionë e njëzet e nëntë mijë e tetëqind e shtatëdhjetë e gjashtë) lekë nga KESH sh.a., për Ministrinë e Brendshme, në programin “Emergjenca civile”;
+b) Fondi prej 170 000 000 (njëqind e shtatëdhjetë milionë) lekësh nga buxheti i vitit 2011, miratuar për Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
+2.1. Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit nga fondi i mbështetjes për bujqësinë, artikulli 606 “Transferta në buxhetet familjare”, të kryejë rialokimin në artikullin buxhetor 602 të shumës prej 170 000 000 (njëqind e shtatëdhjetë milionë) lekësh, e cila të përdoret nga aparati i ministrisë, për përfundimin e pagesave të detyrimeve, sipas shkronjës “a” të pikës 1 të këtij vendimi.
