@@ -1,0 +1,1 @@
+9. Raporti përmbledhës për zbatimin e Nismës për Transparencë në Industrinë Nxjerrëse diskutohet me shoqërinë civile, median dhe komunitetet e rajoneve minerare dhe reflekton opinionin e tyre në raportet pasardhëse.

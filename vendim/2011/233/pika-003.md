@@ -1,0 +1,1 @@
+3. Bërja publike e raportit të Nismës për Transparencë në Industrinë Nxjerrëse (EITI) bëhet çdo 6 (gjashtë) muaj, në formë broshure, në faqen e internetit të ministrisë përgjegjëse për industrinë nxjerrëse dhe atë të Nismës për Transparencë për Industrinë Nxjerrëse dhe realizohet në përputhje me kërkesat e kësaj nisme.

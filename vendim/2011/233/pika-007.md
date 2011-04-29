@@ -1,0 +1,1 @@
+7. Një ekspert i pavarur, i përzgjedhur në përputhje me legjislacionin shqiptar në fuqi dhe kërkesat e Sekretariatit Ndërkombëtar të Nismës për Transparencë në Industrinë Nxjerrëse (EITI), harton raportin përmbledhës për zbatimin e Nismës për Transparencë në Industrinë Nxjerrëse.

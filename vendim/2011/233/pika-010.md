@@ -1,0 +1,1 @@
+10. Raporti përmbledhës për zbatimin e Nismës për Transparencë në Industrinë Nxjerrëse auditohet nga ekspertë të pavarur, të përzgjedhur sipas procedurave tenderuese në përputhje me legjislacionin shqiptar në fuqi dhe me kërkesat e sekretariatit të EITI-së.
