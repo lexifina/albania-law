@@ -1,0 +1,1 @@
+1. Bashkisë Tiranë t’i shtohet fondi prej 96 494 030 (nëntëdhjetë e gjashtë milionë e katërqind e nëntëdhjetë e katër mijë e tridhjetë) lekësh, për kryerjen e kompensimit të vlerës së taksës së biznesit të vogël, të cilën e ka përdorur për rimbursimin e vlerës së pajisjeve fiskale dhe taksimetrave.
