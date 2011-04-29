@@ -1,0 +1,4 @@
+9. Drejtoria përkatëse në Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, që trajton problemet e veprimtarisë minerare, ka të drejtë:
+a) të kërkojë nga institucionet e AKBN-së, SHGJSH-së, RISHM-së të kryejnë inspektime për ndjekjen e respektimit të dispozitave ligjore, të lërë detyra për to për rastet kur ka ankesa, të bëjë vlerësime për moszbatim të ligjit, të marrë masa administrative apo të propozojë marrjen e tyre nga ministri;
+b) të kërkojë nga institucionet e AKBN-së, SHGJSH-së, RISHM-së e QKL-së të respektojnë afatet procedurale për dhënien e të drejtave minerare për ndjekjen e respektimit të dispozitave të këtij ligji, të kërkojë përgjigje për rastet kur ka ankesa, vlerësime për moszbatim të ligjit;
+c) të kërkojë informacion nga institucionet e AKBN-së, SHGJSH-së, RISHM-së e QKL-së, sa herë ka dyshime se prej tyre ka shkelje të rregullave të përcaktuara në këtë ligj.
