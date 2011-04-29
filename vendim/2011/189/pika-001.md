@@ -1,0 +1,1 @@
+1. Ndryshimin e përgjegjësisë së administrimit të mjediseve të katit të parë, të vilës 2-katëshe, në rrugën “Xhorxh W. Bush”, nga Instituti i Integrimit të të Përndjekurve Politikë tek Instituti i Studimeve për Krimet dhe Pasojat e Komunizmit në Shqipëri, sipas planimetrisë së dhënë në aneksin 1, që i bashkëlidhet këtij vendimi.
