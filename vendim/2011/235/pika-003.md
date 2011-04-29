@@ -1,0 +1,1 @@
+3. Në listën paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të bashkisë Sarandë, të qarkut të Vlorës, që i bashkëlidhet vendimit nr.20, datë 9.1.2008 të Këshillit të Ministrave, të shtohet prona me nr.206/1, me sipërfaqe 9200 (nëntë mijë e dyqind) m².

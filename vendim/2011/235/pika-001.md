@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të bashkisë Sarandë, të qarkut të Vlorës, të sipërfaqes 9200 (nëntë mijë e dyqind) m² nga trualli funksional i pronës nr.206, me emërtim “Rezidenca qeveritare Sarandë”, sipas studimit pjesor urbanistik bashkëlidhur, i cili ndodhet në përgjegjësi administrimi të Këshillit të Ministrave, për ta përdorur për ndërtimin e një shkolle 9-vjeçare.
