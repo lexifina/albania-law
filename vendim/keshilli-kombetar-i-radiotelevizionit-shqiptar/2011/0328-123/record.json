@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13284,
+  "title": "Mbi shqyrtimin e kërkesës së paraqitur nga shoqëria “Fokus Cable” shpk",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "123",
+  "institution": "Këshilli Kombëtar i Radiotelevizionit Shqiptar",
+  "adopted": "2011-03-28",
+  "published": "2011-05-07",
+  "in_force": "2011-05-07",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b963785c5e9a3aaf298ccc7222500953c6c1df1362311770b872cfb39d58a4ae.docx",
+  "source_sha256": "b963785c5e9a3aaf298ccc7222500953c6c1df1362311770b872cfb39d58a4ae",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13284",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/03/28/123",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
