@@ -1,1 +1,0 @@
-4. Ngarkohen Ministria e Kulturës, Rinisë dhe Sporteve, Ministria e Rregullimit të Territorit dhe e Turizmit, Ministria e Pushtetit Vendor dhe e Decentralizimit, bashkia e Korçës dhe institucionet e specializuara për zbatimin e këtij vendimi.
