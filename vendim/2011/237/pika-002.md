@@ -1,0 +1,1 @@
+2. Në pikën 1 të vendimit nr.6, datë 7.1.2005 të Këshillit të Ministrave “Për miratimin e zonave arkeologjike brenda qendrave të banuara Shkodër, Lezhë, Krujë, Durrës, Elbasan, Berat, Vlorë, Sarandë”, të ndryshuar, zonifikimi për qytetin e Durrësit shfuqizohet.
