@@ -1,0 +1,1 @@
+12. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, për të cilët është bërë shënimi “Proces regjistrimi”, pasi pronarët të kenë përfunduar procedurat e regjistrimit, si dhe pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.

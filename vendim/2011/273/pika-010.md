@@ -1,0 +1,1 @@
+10. Pronarët e listës që i bashkëlidhen këtij vendimi, për të cilët është bërë shënimi “Konfirmuar nga ZRPP-ja, kufizim pronësie”, do të kompensohen, për efekt shpronësimi, pasi të hiqet urdhri i kufizimit dhe zyra e regjistrimit të pasurive të paluajtshme, Shkodër, të ketë konfirmuar titullin e pronësisë.
