@@ -1,0 +1,1 @@
+11. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve për të cilët është bërë shënimi “Saktësim dokumentacioni”, në bazë të pikës 9 të këtij vendimi, pasi të jenë kryer të gjitha verifikimet në terren.
