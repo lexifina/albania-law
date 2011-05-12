@@ -1,0 +1,1 @@
+2. Prona nr.542, me emërtim “Shtabi i brigadës së këmbësorisë”, në Korçë, të hiqet nga lista e inventarit të pronave paluajtshme shtetërore, e cila i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave.
