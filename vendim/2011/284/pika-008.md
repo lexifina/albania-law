@@ -1,0 +1,1 @@
+8. Bashkia Lezhë, si përfituesi për të cilin kryhet procedura e shpronësimit, të kryejë regjistrimin e pasurive së paluajtshme që shpronësohen pranë Zyrës Qendrore të Regjistrimit të Pasurive të Paluajtshme, Tiranë.
