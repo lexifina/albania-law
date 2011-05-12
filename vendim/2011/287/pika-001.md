@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2011, t’i shtohet një fond prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh, për financimin e fushatës së subjekteve zgjedhore për zgjedhjen e organeve të qeverisjes vendore, më 8 maj 2011.
