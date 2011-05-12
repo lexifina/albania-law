@@ -1,0 +1,1 @@
+8. Punimet për ndërtimin e rrugës që lidh ndërtesën e re të qendrës dispeçer dhe zyrat të Operatorit të Sistemit të Transmetimit (OST) sh.a., me nënstacionin 400 kV, Kashar, Tiranë, të përfundojnë brenda muajit nëntor 2011.

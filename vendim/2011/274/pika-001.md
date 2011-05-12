@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës që lidh ndërtesën e re të qendrës dispeçer dhe zyrat e Operatorit të Sistemit të Transmetimit (OST) sh.a., me nënstacionin 400 kV, Kashar, Tiranë, sipas tabelës, që i bashkëlidhet këtij vendimi.
