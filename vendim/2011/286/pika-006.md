@@ -1,0 +1,1 @@
+6. Shkolla e lartë private “Hëna e plotë” (Bedër), Tiranë, duhet t’i nënshtrohet procesit të vlerësimit dhe akreditimit institucional e të programeve të studimit, si dhe të zbatimit të ligjshmërisë në institucion.

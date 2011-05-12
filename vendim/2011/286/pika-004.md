@@ -1,0 +1,1 @@
+4. Shkolla e lartë private “Hëna e plotë” (Bedër), Tiranë, fillon veprimtarinë mësimore për programet e studimit, të përcaktuara në pikën 3 të këtij vendimi, pasi të ketë marrë, jo më vonë se 3 (tri) javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.
