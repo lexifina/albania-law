@@ -1,0 +1,1 @@
+7. Ora mësimore në Shkollën e Magjistraturës do të jetë 60 minuta dhe, për efekt të pagesës, do të konvertohet jo më pak se koeficienti më i lartë i konvertimit të orës mësimore në arsimin pasuniversitar, sipas legjislacionit të arsimit të lartë. “Orë mësimore”, në kuptim të këtij vendimi, konsiderohen si veprimtaria teorike, ashtu edhe ajo praktike.

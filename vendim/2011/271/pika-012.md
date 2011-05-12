@@ -1,0 +1,1 @@
+12. Me fondet e planifikuara për Shkollën e Magjistraturës, për vizitën studimore jashtë vendit, paguhen shpenzimet e transportit, vajtje jashtë shtetit e kthim, shpenzimet e transportit nga aeroporti në destinacion e anasjellas, si dhe shpenzimet e fjetjes. Për çdo rast, këto shpenzime njihen si të tilla sipas dokumentit përkatës (faturës, biletës etj.).

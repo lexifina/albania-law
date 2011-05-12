@@ -1,0 +1,1 @@
+3. “Veprimtari mbështetëse”, në kuptim të këtij vendimi, konsiderohen veprimtaritë për hartimin e programeve të mësimit, hartimin e rregulloreve apo dokumentacioneve, përgatitjen e botimeve, moderimin e veprimtarive trajnuese, pjesëmarrjen në komisione ad hoc, si dhe veprimtari të tjera, të realizuara nga trupi pedagogjik.

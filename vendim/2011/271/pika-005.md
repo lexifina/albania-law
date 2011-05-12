@@ -1,0 +1,1 @@
+5. Veprimtaria e mësimdhënies dhe ajo mbështetëse e pedagogëve me kohë të pjesshme konvertohet sipas lidhjes nr.1, që i bashkëlidhet dhe është pjesë përbërëse e këtij vendimi. Për pedagogët të cilët kanë ushtruar, për një periudhë kohe jo më pak se 10 vjet, detyrën si gjyqtar, prokuror apo avokat, vlera e 1 ore mësimore 60-minutëshe është 1000 (një mijë) lekë.

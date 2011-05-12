@@ -1,0 +1,1 @@
+10. Anëtarët e komisionit të provimit të pranimit në Shkollën e Magjistraturës, do të shpërblehen, sipas koeficientit, 1 (një) kandidat me 0.3-0.5 orë mësimore, e konvertuar në varësi të formës së provimit të pranimit.

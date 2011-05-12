@@ -1,0 +1,1 @@
+1. Trupi pedagogjik i Shkollës së Magjistraturës kryen veprimtari mësimdhënieje dhe mbështetëse, që i shërbejnë përmbushjes së misionit të saj për të siguruar formimin profesional të magjistratëve (gjyqtarë, prokurorë) dhe të operatorëve të tjerë të sistemit të drejtësisë, në rastet e parashikuara në ligj.

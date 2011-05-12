@@ -1,0 +1,1 @@
+6. Anëtarë të tjerë të trupit pedagogjik me kohë të pjesshme, që aktivizohen nga fusha të ndryshme, për nevoja të procesit mësimor, japin orë mësimore, të miratuara me aktet përkatëse, dhe për çdo orë mësimi të kryer, shpërblehen sipas kritereve të përcaktuara me vendimin e Këshillit të Ministrave që rregullon pagat për institucionet e arsimit të lartë.
