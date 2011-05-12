@@ -1,0 +1,2 @@
+1. Pika 7 e urdhrit nr.4, datë 12.1.2011 “Për kriteret dhe proceduat e kryerjes së rimbursimit të njësive të qeverisjes vendore, të pagesës për pajisjet fiskale dhe taksimetrat”, shfuqizohet dhe bëhet:
+“Transferimi i fondeve do të kryhet te llogaria buxhetore: Entiteti i Qeverisjes 001”, Ministria 10, njësia shpenzuese 1010001, kapitulli 01, program 01130 (ekzekutimi i pagesave të ndryshme), artikulli 603.3 me emërtimin “Rimbursim për subjektet e biznesit të vogël për vlerën e pajisjeve fiskale”, Kodi i Degës së Thesarit 3535.”.
