@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64912,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.1497, DATË 19.11.2008 TË KËSHILLIT TË MINISTRAVE “PËR SHTYPJEN E LETRAVE ME VLERË”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "277",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-04-06",
+  "published": "2011-05-12",
+  "in_force": "2011-05-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2b48ea972fb75ba3babbca0d9a6805f8b13fe79c661e8e7d1bdbb21d0a8c9ce0.docx",
+  "source_sha256": "2b48ea972fb75ba3babbca0d9a6805f8b13fe79c661e8e7d1bdbb21d0a8c9ce0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64912",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/04/06/277",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
