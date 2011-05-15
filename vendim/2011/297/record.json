@@ -1,0 +1,31 @@
+{
+  "qbz_id": 13307,
+  "title": "PËR MIRATIMIN E DËMSHPËRBLIMIT FINANCIAR PËR  ISH-TË DËNUARIT POLITIKË TË REGJIMIT KOMUNIST",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "297",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-04-14",
+  "published": "2011-05-15",
+  "in_force": "2011-05-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/0477198448559d61f1d3fda69129cf1609acee5a266ab87d8382c0c72a578da0.docx",
+  "source_sha256": "0477198448559d61f1d3fda69129cf1609acee5a266ab87d8382c0c72a578da0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13307",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/04/14/297",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56697,
+    8319,
+    9744,
+    8018
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
