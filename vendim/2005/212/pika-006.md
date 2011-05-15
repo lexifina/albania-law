@@ -1,1 +1,1 @@
-6. Shpronësimi të përfundojë brenda datës 30.4.2006.
+6. Shpronësimi të përfundojë brenda datës 15.7.2011.

@@ -1,1 +1,1 @@
-5. Vlera e përgjithshme e shpronësimit prej 39 016 684 (tridhjetë e nëntë milionë e gjashtëmbëdhjetë mijë e gjashtëqind e tetëdhjetë e katër) lekësh, të përballohet nga fondet e aeroportit “Nënë Tereza” sh.a.
+5.Vlera e përgjithshme e shpronësimit prej 38 811 252 (tridhjetë e tetë milionë e tetëqind e njëmbëdhjetë mijë e dyqind e pesëdhjetë e dy) lekësh, të përballohet nga “Llogaria e veçantë” e Ministrisë së Financave pranë Bankës së Shqipërisë “Fondi i shpronësimeve.
