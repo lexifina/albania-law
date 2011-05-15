@@ -1,0 +1,1 @@
+6. Ministritë e linjës, institucionet e varësisë dhe Departamenti i Administratës Publike, për përcaktimin e pozicioneve, detyrave funksionale, si dhe të kritereve të veçanta të nëpunësve të njësive të teknologjisë së informacionit e të komunikimit, marrin paraprakisht edhe mendimin e Ministrit për Inovacionin dhe Teknologjinë e Informacionit e të Komunikimit.

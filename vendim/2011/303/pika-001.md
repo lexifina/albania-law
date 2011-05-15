@@ -1,0 +1,1 @@
+1. Krijimin e njësive të teknologjisë së informacionit e të komunikimit (NJTIK), si strukturë organizativo-teknike për projektimin, zbatimin dhe administrimin e qeverisjes elektronike, nëpërmjet teknologjisë së informacionit e të komunikimit (TIK), si struktura të veçanta në ministritë e linjës dhe institucionet e varësisë.

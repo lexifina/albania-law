@@ -1,0 +1,1 @@
+5. Rregullat e organizimit dhe të funksionimit të Këshillit Teknik për qeverisjen elektronike (e-Gov) përcaktohen me vendim të Këshillit të Ministrave, me propozimin e Ministrit për Inovacionin dhe Teknologjinë e Informacionit e të Komunikimit.
