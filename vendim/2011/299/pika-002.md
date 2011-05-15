@@ -1,0 +1,1 @@
+2. Zyra e Sistemit Kombëtar të të Dhënave për Drogën është në përbërje të strukturës dhe të organikës së drejtorisë së Institutit të Shëndetit Publik, që miratohet me urdhër të Kryeministrit. Numri i punonjësve të Zyrës së Sistemit Kombëtar të të Dhënave për Drogën përfshihet brenda numrit të miratuar për Institutin e Shëndetit Publik.

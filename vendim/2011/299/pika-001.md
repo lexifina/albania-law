@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për funksionimin e Komitetit Kombëtar të Bashkërendimit të Luftës kundër Drogës, sekretarisë së këtij Komiteti dhe Zyrës së Sistemit Kombëtar të të Dhënave për Drogën”, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
