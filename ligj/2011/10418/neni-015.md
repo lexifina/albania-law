@@ -1,0 +1,7 @@
+# Neni 15
+Transferimi i shumave në të holla përpara afatit
+1. Në rastet kur subjektet/individët, që kanë deklaruar shuma në të holla, dëshirojnë të transferojnë këto shuma ose ekuivalentin e tyre jashtë shtetit, përpara afatit 3-vjeçar nga data e legalizimit të tyre, u mbahet si penalitet:
+a) 13 për qind e shumës së legalizuar, kur kjo bëhet brenda një viti nga data e legalizimit. Kur transferohen shuma më të mëdha ose më të vogla, shuma e penalitetit përllogaritet në raport me shumën e transferuar, por, në çdo rast, nuk mund të kalojë 13 për qind të shumës së legalizuar që transferohet jashtë shtetit;
+b) 6 për qind e shumës së legalizuar, kur kjo bëhet pas një viti, por brenda dy vjetëve nga data e legalizimit. Kur transferohen shuma më të mëdha ose më të vogla, shuma e penalitetit përllogaritet në raport me shumën e transferuar, por, në çdo rast, nuk mund të kalojë 6 për qind të shumës së legalizuar, që transferohet jashtë shtetit;
+c) 3 për qind e shumës së legalizuar, kur kjo bëhet pas dy vjetëve, por brenda tre vjetëve nga data e legalizimit. Kur transferohen shuma më të mëdha ose më të vogla, shuma e penalitetit përllogaritet në raport me shumën e transferuar, por, në çdo rast, nuk mund të kalojë 3 për qind të shumës së legalizuar që do të transferohet jashtë shtetit.
+2. Penalitetet e parashikuara në pikën 1 të këtij neni kalojnë në llogari të thesarit në Ministrinë e Financave, nga bankat, dhe janë në shtesë të shumës fillestare të paguar në çastin e legalizimit.

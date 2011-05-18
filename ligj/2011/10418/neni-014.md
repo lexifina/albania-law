@@ -1,0 +1,3 @@
+# Neni 14
+Kufizimet që pasojnë legalizimin e kapitalit
+Bankat, në të cilat janë depozituar shuma në të holla, sipas këtij ligji, informojnë subjektet që deklarojnë për kushtet e parashikuara në këtë paragraf dhe në nenin 15 të këtij ligji, për rastet kur ata, pas legalizimit, mund të dëshirojnë të kryejnë transferta bankare për shumat e deklaruara, sipas këtij ligji, ose ekuivalentin monetar të tyre në shuma më të vogla apo të barabarta me sasinë e legalizuar, jashtë shtetit, për tre vjet që nga data e legalizimit të tyre, si nga banka ku kanë legalizuar kapitalin, ashtu edhe nga banka të tjera, në të cilat kanë depozituar shuma në të holla.
