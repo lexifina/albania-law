@@ -1,2 +1,0 @@
-2. Agjencia Kombëtare e Arsimit dhe Formimit Profesional ka objekt kryesor të veprimtarisë krijimin e një sistemi kombëtar e unik të kualifikimeve profesionale, të njohura në nivel kombëtar dhe ndërkombëtar.
-Agjencia Kombëtare e Arsimit dhe Formimit Profesional harton programe për realizimin e politikave për zhvillimin e arsimit dhe formimit profesional, të miratuara nga Ministria e Arsimit dhe Shkencës dhe nga Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.

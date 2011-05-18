@@ -1,1 +1,0 @@
-5. Funksionimi i Agjencisë Kombëtare të Arsimit dhe Formimit Profesional bëhet në përputhje me rregulloren, e cila, pas këshillimit me Këshillin Kombëtar të Arsimit dhe Formimit Profesional, miratohet nga Ministri i Arsimit dhe Shkencës dhe nga Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
