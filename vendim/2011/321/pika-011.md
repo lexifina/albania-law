@@ -1,0 +1,1 @@
+11. Funksionimi i Agjencisë Kombëtare të Arsimit, Formimit Profesional dhe Kualifikimeve bëhet në përputhje me rregulloren, e cila, pas këshillimit me KKAFP-në dhe KKSHK-në, miratohet nga Ministri i Arsimit dhe Shkencës dhe nga Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta.

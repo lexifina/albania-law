@@ -1,0 +1,1 @@
+6. Drejtori emërohet, lirohet ose shkarkohet nga detyra me urdhër të Ministrit të Arsimit dhe Shkencës, sipas kritereve dhe procedurave të caktuara në vendimin nr.173, datë 7.3.2003 të Këshillit të Ministrave “Për emërimin, lirimin ose shkarkimin nga detyra të drejtuesve të institucioneve në varësi të Këshillit të Ministrave, Kryeministrit ose ministrit”.

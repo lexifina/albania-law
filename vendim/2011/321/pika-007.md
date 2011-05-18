@@ -1,0 +1,1 @@
+7. Ministri i Arsimit dhe Shkencës, para nxjerrjes së aktit të emërimit, lirimit ose shkarkimit nga detyra të Drejtorit të Agjencisë Kombëtare të Arsimit, Formimit Profesional dhe Kualifikimeve, këshillohet me Këshillim Kombëtar të AFP-së dhe me këshillin e KSHK-së.
