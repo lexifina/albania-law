@@ -1,0 +1,1 @@
+2. Drejtoria e Përgjithshme e Rrugëve të marrë masat për fillimin e ekzekutimit të punimeve të zbatimit të projektit “Ndërtim rruga Unaza e Re e Tiranës (segmenti Komuna e Parisit-rruga e re, Tiranë-Elbasan)”, në sipërfaqen e caktuar sipas pikës 1 të këtij vendimi, pasi të ketë përfunduar rrethimi i ri i Kopshtit Botanik.

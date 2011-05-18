@@ -1,0 +1,1 @@
+5. Kopshtit Botanik, për mbulimin e shpenzimeve operative për transferim të vlerave bimore sipas pikës 2 të këtij vendimi, t’i jepet nga buxheti i Ministrisë së Punëve Publike dhe Transportit, në buxhetin e institucionit të miratuar për vitin 2011, zëri “Shpenzime korente”, shuma 200 000 (dyqind mijë) lekë.

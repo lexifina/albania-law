@@ -1,0 +1,1 @@
+4. Të gjitha shpenzimet për lirimin e sheshit sipas planimetrisë 1, që i bashkëlidhet këtij vendimi, pronë shtetërore, dhe përfundimin e punimeve të përcaktuara në pikën 2 të këtij vendimi, të përballohen nga buxheti i vitit 2011, miratuar për Drejtorinë e Përgjithshme të Rrugëve.
