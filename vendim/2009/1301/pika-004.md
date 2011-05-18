@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e shpronësimit, 76 258 044 (shtatëdhjetë e gjashtë milionë e dyqind e pesëdhjetë e tetë mijë e dyzet e katër) lekë, të përballohet nga fondet e OST, sh.a.
+4. Fondi, prej 84 444 549 (tetëdhjetë e katër milionë e katërqind e dyzet e katër mijë e pesëqind e dyzet e nëntë) lekësh, të përballohet nga fondet e OST sh.a.
