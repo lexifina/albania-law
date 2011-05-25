@@ -1,0 +1,1 @@
+11. Programi i veprimit për zbatimin e strategjisë minerare pas miratimit publikohet në faqen e internetit të METE-s, në Fletoren Zyrtare dhe pasqyrohet në hartën minerare digjitale jo më vonë se 30 (tridhjetë) ditë kalendarike përpara përfundimit të vitit kalendarik që korrespondon me përfundimin e programit të veprimit për zbatimin e strategjisë minerare të mëparshme.

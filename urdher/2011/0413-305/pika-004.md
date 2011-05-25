@@ -1,0 +1,1 @@
+4. Programi i veprimit për zbatimin e strategjisë minerare hartohet nga institucionet e Shërbimit Gjeologjik Shqiptar (SHGJSH) dhe Agjencia Kombëtare e Burimeve Natyrore (AKBN) mbi bazën e informacioneve ekzistuese dhe studimeve përgjithësuese që realizojnë këto struktura përgjegjëse.

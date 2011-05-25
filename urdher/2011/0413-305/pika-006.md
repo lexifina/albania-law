@@ -1,0 +1,7 @@
+6. Institucioni i SHGJSH-së në programin e veprimit për zbatimin e strategjisë minerare përcakton:
+a) Zonat minerare të përcaktuara sipas hartës gjeologjike pa informacion gjeologjik të mjaftueshëm ku dhënia e të drejtave minerare do të zhvillohet sipas procedurave të zonave të hapura;
+b) Zonat minerare të përcaktuara sipas hartës gjeologjike, ku sipas informacionit gjeologjik kemi të bëjmë me minerale të grupit të mineraleve metalore, jometalore, qymyret dhe bitumet dhe grupit të mineraleve radioaktive, ku dhënia e të drejtave minerare do të zhvillohet sipas procedurave konkurruese.
+c) Zonat minerare, për të cilat kanë informacionin e nevojshëm gjeologjik për të zhvilluar veprimtari minerare shfrytëzimi bazuar në informacionet ekzistuese dhe studimet përgjithësuese të realizuara ku dhënia e të drejtave minerare do të zhvillohet sipas procedurave konkurruese.
+d) Zonat minerare, për të cilat është realizuar kërkim-zbulimi nga subjektet minerare dhe që nuk janë shndërruar nga këto subjekte në zona minerare shfrytëzimi, dhe SHGJSH-ja ka informacion të mjaftueshëm dhe i vlerëson si zona për të zhvilluar veprimtari minerare shfrytëzimi, ku dhënia e të drejtave minerare do të zhvillohet sipas procedurave konkurruese.
+e) Zonat minerare të rrezikshme nga ana gjeologjike, në të cilat veprimtaria minerare mund të ndikojë në jetën e komunitetit dhe ku duhet të ndalohet dhënia e të drejtave minerare;
+f) Zonat minerare perspektive për zhvillimin e veprimtarive minerare.

@@ -1,0 +1,1 @@
+2. Programi i veprimit për zbatimin e strategjisë minerare duhet të realizohet mbi bazën e informacionit gjeologo-minerar, dhe në përputhje me drejtimet e zhvillimit të sektorit minerar, të përcaktuara në strategjinë minerare të Republikës së Shqipërisë.
