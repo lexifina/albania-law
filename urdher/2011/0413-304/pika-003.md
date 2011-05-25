@@ -1,0 +1,1 @@
+3. Forma dhe përmbajtja e projektit të zhvillimit të veprimtarisë minerare për kërkesat për leje minerare të shfrytëzimit për grupin e mineraleve metalore, jometalore, qymyret dhe bitumet përshkruhen në aneksin 2 të këtij urdhri.

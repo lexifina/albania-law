@@ -1,0 +1,1 @@
+10. Institucioni i SHGJSH-së ose AKBN-së në rastet e kërkesave për leje minerare të kërkim-zbulimit ose shfrytëzimit për grupin e mineraleve radioaktive, për vlerësimin e projekteve të paraqitura kanë të drejtë të kërkojnë asistencë teknike për vlerësimin e tyre.

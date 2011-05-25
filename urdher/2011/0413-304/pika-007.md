@@ -1,0 +1,1 @@
+7. Forma dhe përmbajtja e projektit të zhvillimit të veprimtarisë minerare për kërkesat për leje minerare të kërkim-zbulimit dhe shfrytëzimit për grupin e mineraleve radioaktive përshkruhen në aneksin 6 të këtij urdhri.

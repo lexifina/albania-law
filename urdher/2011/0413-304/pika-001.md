@@ -1,0 +1,1 @@
+1. Hartimi i projektit të zhvillimit të veprimtarisë minerare realizohet nga persona të licencuar dhe të regjistruar si të tille nga institucioni i QKL-së për veprimtari studimore-projektuese në fushën minerare, në përputhje me kërkesat e nenit 33 të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”, dhe akteve nënligjore të dala në zbatim të tij.

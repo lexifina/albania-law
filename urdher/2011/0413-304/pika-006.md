@@ -1,0 +1,1 @@
+6. Forma dhe përmbajtja e projektit të zhvillimit të veprimtarisë minerare për kërkesat për leje minerare të kërkim-zbulim-shfrytëzimit për grupin e mineraleve të çmuara dhe gjysmë të çmuara përshkruhen në aneksin 5 të këtij urdhri.

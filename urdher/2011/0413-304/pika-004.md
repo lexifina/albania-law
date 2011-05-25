@@ -1,0 +1,1 @@
+4. Forma dhe përmbajtja e projektit të zhvillimit të veprimtarisë minerare për kërkesat për leje minerare të kërkim-zbulimit për grupin e mineraleve ndërtimore përshkruhen në aneksin 3 të këtij urdhri.
