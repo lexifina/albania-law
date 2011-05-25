@@ -1,0 +1,1 @@
+1. Plani vjetor minerar duhet të realizohet mbi bazën e informacionit gjeologo-minerar, dhe në përputhje me drejtimet e zhvillimit të sektorit minerar, të përcaktuara në programin e veprimit të strategjisë minerare për periudhën 3-vjeçare (tre).

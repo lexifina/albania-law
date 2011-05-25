@@ -1,0 +1,1 @@
+4. Institucionet e SHGJSH-së dhe AKBN-së duhet të përfundojnë hartimin e planit vjetor minerar dhe ta paraqesin për shqyrtim në drejtorinë përgjegjëse për veprimtarinë minerare të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës (METE) jo më vonë se 70 (shtatëdhjetë) ditë kalendarike përpara përfundimit të vitit kalendarik.

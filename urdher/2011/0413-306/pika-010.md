@@ -1,0 +1,1 @@
+10. Plani vjetor minerar pas miratimit publikohet në faqen e internetit të METE-s, në Fletoren Zyrtare dhe pasqyrohet në hartën minerare digjitale jo më vonë se 30 (tridhjetë) ditë kalendarike përpara përfundimit të vitit kalendarik.
