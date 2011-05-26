@@ -1,0 +1,1 @@
+6. Subjektet minerare të pajisura me leje minerare të shfrytëzimit për grupin e mineraleve metalore, jometalore, qymyret dhe bitumet duhet të realizojnë planin e mbylljes së veprimtarisë minerare dhe planin e rehabilitimit përfundimtar të zonës së tyre të lejuar në përputhje me kërkesat e ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.
