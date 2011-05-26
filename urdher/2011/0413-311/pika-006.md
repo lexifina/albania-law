@@ -1,0 +1,1 @@
+6. Subjektet minerare të pajisura me leje minerare të kërkimit-zbulimit-shfrytëzimit për grupin e mineraleve të çmuara dhe gjysmë të çmuara, duhet të realizojnë planin e mbylljes së veprimtarisë minerare dhe planin e rehabilitimit përfundimtar të zonës së tyre të lejuar në përputhje me kërkesat e ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.
