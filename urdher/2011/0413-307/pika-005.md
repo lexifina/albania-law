@@ -1,0 +1,1 @@
+5. Subjektet minerare të cilat përmbajtjen e planit vjetor të punës nuk e kanë realizuar në përputhje me pikën 4 të këtij urdhri, kanë të drejtë që brenda periudhës së përcaktuar në pikën 4 më sipër të bëjnë përmirësimin e tij.
