@@ -1,0 +1,1 @@
+8. Institucioni i SHGJSH-së vlerëson raportin përfundimtar të veprimtarisë minerare të kërkim-zbulimit për grupin e mineraleve ndërtimore dhe realizimin e planit të rehabilitimit të çdo subjekti minerar dhe i paraqet për miratim ministrit vlerësimin e tij në respekt të kërkesave të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.

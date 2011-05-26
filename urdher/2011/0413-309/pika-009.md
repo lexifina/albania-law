@@ -1,0 +1,1 @@
+9. Institucioni i SHGJSH-së vlerëson dhe miraton vlerat e garancive financiare vjetore për realizimin e programit minimal të punës dhe planit të rehabilitimit progresiv e përfundimtar të mjedisit jo më vonë se 30 (tridhjetë) ditë nga data e paraqitjes së tyre. Tejkalimi i këtij afati i konsideron këto vlera të miratuara.

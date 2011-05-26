@@ -1,0 +1,1 @@
+3. Subjektet minerare të pajisura me leje minerare të kërkim-zbulimit për grupin e mineraleve ndërtimore, duhet të realizojnë planin e mbylljes të veprimtarisë minerare dhe planin e rehabilitimit përfundimtar të zonës së tyre të lejuar, në përputhje me kërkesat e ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.
