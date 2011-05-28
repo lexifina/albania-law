@@ -1,0 +1,1 @@
+3. Ndërmarrjet e ujësjellësve, në varësi të pushtetit vendor apo vetë njësitë e pushtetit vendor, në zbatim të ligjit nr.10 340, datë 28.10.2010 “Për pagesën e detyrimeve ndaj të tretëve të ndërmarrjeve dhe sh.a.-ve, në pronësi të pushtetit vendor”, të jenë përgjegjëse për çdo detyrim tjetër që do të krijohet gjatë vitit 2011.

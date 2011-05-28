@@ -1,0 +1,1 @@
+2. Ndërmarrjet e ujësjellësve, sipas lidhjes që i bashkëlidhet këtij vendimi, të paguajnë detyrimet e energjisë elektrike, në masën 573 000 000 (pesëqind e shtatëdhjetë e tre milionë) lekë, të cilat të përballohen nga fondi i papërdorur në programin “Ujësjellës-kanalizime”, zëri “Subvencione”.
