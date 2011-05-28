@@ -1,0 +1,2 @@
+# Neni 5
+Në këtë stërvitje angazhohen 3500 trupa, 10 anije luftarake, 1 nëndetëse bërthamore, 25 helikopterë sulmues dhe transporti dhe 100 mjete transporti të Forcave të Armatosura Mbretërore Britanike, të cilat do të kryejnë lëvizje gjatë 24 orëve në rajonin e përcaktuar të stërvitjes, sipas nenit 4 të këtij akti normativ. Në rajonin e Karaburunit do të kryejnë veprimtari 400 marinsa të Forcave të Armatosura Mbretërore Britanike, të cilët do të stimulojnë stërvitjen nga deti në tokë.
