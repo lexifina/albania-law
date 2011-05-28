@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13353,
+  "title": "Për një ndryshim në vendimin nr.31, datë 19.1.2011 të këshillit të ministrave “për një ndryshim në vendimin nr.332, datë 17.3.2010 të këshillit të ministrave “për përcaktimin e formës, elementeve përbërëse, mënyrës së mbajtjes e afatit të përdorimit të dokumenteve bazë, që mbahen dhe lëshohen nga shërbimi i gjendjes civile””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "325",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-04-29",
+  "published": "2011-05-28",
+  "in_force": "2011-05-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/cd20a2d952c3f0f062d9656018d3d0a5a44d93c3bc528a47d6ae2319a0835691.docx",
+  "source_sha256": "cd20a2d952c3f0f062d9656018d3d0a5a44d93c3bc528a47d6ae2319a0835691",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13353",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/04/29/325",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
