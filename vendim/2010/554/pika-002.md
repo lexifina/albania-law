@@ -5,9 +5,9 @@ ii) janë pranuar në një universitet të huaj për studimet e doktoratës apo 
 iii) kanë përgatitur një projekt për kërkim, gjatë studimeve të doktoratës apo postdoktoratës, jashtë shtetit;
 iv) pranojnë të punojnë, së paku 3 (tre) vjet në Shqipëri, pas përfundimit të studimeve të doktoratës apo postdoktoratës jashtë shtetit;
 v) nuk janë, njëkohësisht, përfitues të ndonjë burse tjetër nga shteti shqiptar dhe nuk kanë të ardhura personale mbi 200 000 (dyqind mijë) lekë në muaj.
-b) Studentët që ndjekin jashtë shtetit ciklin e parë dhe ciklin e dytë të studimeve në njërin prej 15 universiteteve më të mira të botës, kur:
-i) janë pranuar në njërin nga 15 universitetet më të mira të botës për të ndjekur njërin nga dy ciklet e studimit, si dhe ata që janë pranuar dhe kanë përfituar bursë të pjesshme në shkencat inxhinierike, teknologji informacioni, matematikë, fizikë dhe bioteknologji në universitetet e njohura perëndimore;
-ii) pranojnë të punojnë, së paku, 3 (tre) vjet në Shqipëri, ose të bashkëpunojnë me institucionet publike a me sektorin privat të vendit, në forma të ndryshme, pas përfundimit të ciklit përkatës të studimeve, për të cilin përfitojnë bursën, ose pas përfundimit të të gjithë ciklit të studimeve, nëse kandidati përfitues vijon studimet;
+b) Studentët, që ndjekin jashtë shtetit ciklin e parë dhe ciklin e dytë të studimeve kur:
+i) janë pranuar në njërin nga 15 universitetet më të mira të botës për të ndjekur njërin nga dy ciklet e studimit ose janë pranuar dhe kanë përfituar bursë të pjesshme në shkencat inxhinierike, teknologji informacioni, matematikë, fizikë dhe bioteknologji në universitetet e njohura perëndimore, si dhe ata që janë pranuar të ndjekin studimet në artet e bukura;
+ii) pranojnë të punojnë, së paku, 3 (tre) vjet në Shqipëri, ose të bashkëpunojnë me institucionet publike ose me sektorin privat të vendit, në forma të ndryshme, pas përfundimit të ciklit përkatës të studimeve, për të cilin përfitojnë bursën, ose pas përfundimit të të gjithë ciklit të studimeve, nëse kandidati përfitues vijon studimet;
 iii) nuk janë, njëkohësisht, përfitues të ndonjë burse tjetër nga shteti shqiptar dhe nuk kanë të ardhura personale mbi 120 000 (njëqind e njëzet mijë) lekë në muaj.
 c) Fituesit në konkurse dhe olimpiada ndërkombëtare, me reputacion, në formë çmimesh:
 i) nxënës dhe studentë të klasifikuar në tri vendet e para;
