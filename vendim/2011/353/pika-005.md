@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit për tokë arë dhe objekt, është 2 381 866 (dy milionë e treqind e tetëdhjetë e një mijë e tetëqind e gjashtëdhjetë e gjashtë) lekë, e cila do të përballohet nga “Llogaria e veçantë” e Ministrisë së Financave në Bankën e Shqipërisë “Fondi i shpronësimeve”.
