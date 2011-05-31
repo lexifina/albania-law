@@ -1,0 +1,1 @@
+1. Miratimin e planveprimit për zgjidhjen e problematikës së çështjeve të pronësisë, e identifikuar në memorandumin e Komitetit të Ministrave të Këshillit të Europës, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
