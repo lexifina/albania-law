@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për organizimin dhe funksionimin e Agjencisë Shtetërore për Mbrojtjen e të Drejtave të Fëmijës”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
