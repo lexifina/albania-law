@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13384,
+  "title": "PËR NGRITJEN E NËNKOMISIONIT PËR TË DREJTAT E NJERIUT NË PËRBËRJE TË KOMISIONIT TË PËRHERSHËM PARLAMENTAR PËR ÇËSHTJET LIGJORE, ADMINISTRATËN PUBLIKE DHE TË DREJTAT E NJERIUT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "100",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-05-26",
+  "published": "2011-06-06",
+  "in_force": "2011-06-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/47ff30e548226b36355a315d2bfd00f01ef3d909a8772ede7de894c1ecde1193.docx",
+  "source_sha256": "47ff30e548226b36355a315d2bfd00f01ef3d909a8772ede7de894c1ecde1193",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13384",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/05/26/100",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
