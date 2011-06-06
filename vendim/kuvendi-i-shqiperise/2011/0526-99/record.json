@@ -1,0 +1,28 @@
+{
+  "qbz_id": 13383,
+  "title": "PËR NGRITJEN E NËNKOMISIONIT PËR ÇËSHTJET GJINORE DHE MBROJTJEN E FËMIJËVE NË PËRBËRJE TË KOMISIONIT TË PËRHERSHËM PARLAMENTAR PËR PUNËN, ÇËSHTJET SOCIALE DHE SHËNDETËSINË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "99",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-05-26",
+  "published": "2011-06-06",
+  "in_force": "2011-06-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7a5b52a4fd7169996297b093d71e2b822484a33ddc54c7a33aefc4eb3aaaabf2.docx",
+  "source_sha256": "7a5b52a4fd7169996297b093d71e2b822484a33ddc54c7a33aefc4eb3aaaabf2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13383",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/05/26/99",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    8924
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
