@@ -1,0 +1,1 @@
+2. Enti Kombëtar i Banesave në truallin sipas pikës 1 të këtij vendimi, të fillojë zbatimin dhe ndërtimin e “Banesave sociale tip, me mjedise rekreative për komunitetin rom”, në kuadër të projektidesë “Përmirësimi i kushteve të banimit për komunitetin rom - dekada e romëve”.
