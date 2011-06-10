@@ -1,0 +1,1 @@
+1. Përfshirjen në programin social të strehimit të familjeve që banojnë në godinat e Universitetit Bujqësor të Tiranës, sipas listave të aneksit A, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
