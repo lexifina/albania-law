@@ -1,0 +1,1 @@
+2. Personat juridikë, vendas dhe/ose të huaj, të pajisur me leje minerare, në zbatim të dispozitave ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”, mund të transferojnë lejen minerare te persona të tjerë juridikë, sipas kritereve të përcaktuara në këtë vendim.

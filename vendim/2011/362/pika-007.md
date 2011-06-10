@@ -1,0 +1,1 @@
+7. Ministri, brenda një afati prej 60 (gjashtëdhjetë) ditëve kalendarike nga data e paraqitjes së dokumentacionit, nxjerr aktin e miratimit ose refuzimit të transferimit të lejes minerare, të cilin e dërgon në Qendrën Kombëtare të Licencimit (QKL), për të reflektuar ndryshimet përkatëse.
