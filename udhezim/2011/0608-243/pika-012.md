@@ -1,0 +1,1 @@
+12. Strukturat e Policisë Kufitare dhe Migracionit, në bashkëpunim me drejtoritë e policisë së qarkut dhe kapitaneritë e porteve të marrin masa për evidentimin, regjistrimin dhe pajisjen me dokumentacionin e nevojshëm të të gjithë motorëve të ujit.

@@ -1,0 +1,1 @@
+8. Strukturat vendore të Policisë së Shtetit, ato të qeverisjes vendore dhe agjencitë e tjera të bashkëpunojnë për planifikimin dhe zbatimin e masave të përbashkëta për dhënien e lejeve dhe monitorimin e aktivitetit të lokaleve të natës, si: disko, pub-e, duke evidentuar dhe mos lejuar shkaktimin e zhurmave të cilat përbëjnë shqetësim për komunitetin etj.

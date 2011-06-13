@@ -1,0 +1,1 @@
+15. Drejtoritë e policive në qarqe, drejtoritë rajonale të PKM-së dhe bashkitë ose komunat të marrin të gjitha masat për të ndaluar plotësisht aktivitetin e motorëve të ujit deri në plotësimin e kritereve të parashikuara në pikat 11, 12 e 13 të këtij udhëzimi.

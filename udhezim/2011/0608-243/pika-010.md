@@ -1,0 +1,1 @@
+10. Të bashkëpunohet ngushtë mes strukturave të linjës së Ministrisë së Brendshme me ato të Ministrisë së Mjedisit dhe Ujërave, për zbatimin e vendimeve të marra ndaj subjekteve që gjenerojnë zhurmë në kundërshtim dhe kapërcim të ligjit.
