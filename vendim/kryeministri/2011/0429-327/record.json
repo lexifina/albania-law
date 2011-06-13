@@ -1,0 +1,28 @@
+{
+  "qbz_id": 54397,
+  "title": "PËR KALIMIN NË FOND BANESASH TË ISH-OBJEKTEVE TË DALA NGA RISTRUKTURIMI i MINISTRISË SË BRENDSHME (REPARTI USHTARAK NR.5715), TIRANË, ME QËLLIM PRIVATIZIMI, NË EMËR TË BANORËVE, NGA ENTI KOMBËTAR i BANESAVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "327",
+  "institution": "Kryeministri",
+  "adopted": "2011-04-29",
+  "published": "2011-06-13",
+  "in_force": "2011-06-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/750dc7d56fb29e9b8d56796aa1dab375b58447cc7d9df9bf60edf1932191a3ee.docx",
+  "source_sha256": "750dc7d56fb29e9b8d56796aa1dab375b58447cc7d9df9bf60edf1932191a3ee",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54397",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/04/29/327",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    55492
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
