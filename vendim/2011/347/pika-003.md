@@ -1,0 +1,1 @@
+3. Zonat minerare, të cilat kalojnë në procedurë konkurruese, si dhe zonat e hapura përcaktohen në planin vjetor minerar. Përcaktimi i zonave në zona konkurruese dhe të hapura bëhet në bazë të vlerësimit të strukturave përgjegjëse (AKBN, SHGJSH dhe METE) dhe në përputhje me kërkesat e tabelës për vlerat minimale të sipërfaqes së zonës së lejuar minerare dhe atyre të investimit.

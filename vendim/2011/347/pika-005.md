@@ -1,0 +1,1 @@
+5. Zonat minerare të rrezikshme, për të cilat ndalohet dhënia e lejeve minerare, janë të përcaktuara me koordinata në aneksin 2, bashkëlidhur këtij vendimi. Kjo hartë përditësohet nga strukturat përgjegjëse (AKBN, SHGJSH dhe RISHM).

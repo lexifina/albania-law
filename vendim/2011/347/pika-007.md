@@ -1,0 +1,1 @@
+7. Dhënia e të drejtave minerare për këto zona do të realizohet sipas legjislacionit për dhënien e të drejtave minerare, për zonat e hapura dhe zonat konkurruese, dhe plotësimi i dokumentacionit përkatës do të fillojë pas publikimit të tyre.
