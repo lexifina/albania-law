@@ -1,0 +1,1 @@
+4. Zyrat urbanistike të organeve të qeverisjes vendore (bashki/komuna) i konfirmojnë degës së shoqërive publike, nëse trualli që do të shitet, shtrihet në zonën industriale të miratuar me vendim të KRRT-së ose KRRTRSH-së.
