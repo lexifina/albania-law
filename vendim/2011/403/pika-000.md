@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës, për kryerjen e procedurave të përbashkëta të kontrollit të hyrje/daljeve nëpërmjet pikave të kalimit kufitar Qafëprush (Has) - Qafëprush (Gjakovë), ndërmjet Republikës së Shqipërisë dhe Republikës së Kosovës, dhe të protokollit të kryerjes së veprimtarive të përbashkëta në këtë pikë të kalimit kufitar, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
