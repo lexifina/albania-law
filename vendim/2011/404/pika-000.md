@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës, për kryerjen e procedurave të përbashkëta të kontrollit të hyrje/daljeve nëpërmjet pikave të kalimit kufitar Qafë-Morinë (Tropojë) - Qafë-Morinë (Gjakovë), ndërmjet Republikës së Shqipërisë dhe Republikës së Kosovës, dhe protokollit të kryerjes së veprimtarive të përbashkëta në këtë pikë të kalimit kufitar.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
