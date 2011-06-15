@@ -1,0 +1,1 @@
+2. Masa e mbulimit të çmimeve të barnave së listës së barnave që rimbursohen, sipas klasifikimit ATC, të jetë në masën 50 për qind deri në 100 për qind, sipas grupeve terapeutike dhe barnave (pasqyra I), që i bashkëlidhet këtij vendimi.
