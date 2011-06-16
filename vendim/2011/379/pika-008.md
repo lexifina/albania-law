@@ -1,0 +1,1 @@
+8. Komuna Petran, Përmet, si përfituesi për të cilin kryhet procedura e shpronësimit, të kryejë regjistrimin e pasurisë së paluajtshme që shpronësohet pranë zyrës vendore të regjistrimit të pasurive të paluajtshme, Përmet.
