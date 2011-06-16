@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Agjencia e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara te Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, të pasurive të paluajtshme të ish-shoqërisë “Laguna e Karavastasë” sh.p.k., të identifikuara sipas listës që i bashkëlidhet këtij vendimi.
