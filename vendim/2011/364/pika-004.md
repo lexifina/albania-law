@@ -1,0 +1,1 @@
+4. Vlera minimale e sipërfaqes të zonës së lejuar minerare, vlera minimale e investimeve për realizimin e prodhimit minimal vjetor dhe vlera minimale e prodhimit vjetor për lejet e shfrytëzimit dhe kërkim-zbulim-shfrytëzimit jepen në aneksin 2, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+2. Vlera minimale e sipërfaqes së zonës së lejuar minerare dhe vlera minimale e investimeve për çdo kilometër katror të kësaj zone për lejet e kërkim-zbulimit, sipas grupeve të mineraleve, jepen në aneksin 1, bashkëlidhur këtij vendimi.
