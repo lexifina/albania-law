@@ -1,0 +1,1 @@
+Në udhëzimin nr.12, datë 18.5.2011 “Për procedurat e zbatimit të ligjit nr.10 418, datë 21.4.2011 “Për legalizimin e kapitalit dhe faljen e një pjese të borxhit tatimor dhe doganor””, të ndryshuar, bëhen shtesat e mëposhtme:
