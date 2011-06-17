@@ -1,0 +1,5 @@
+# Neni 22
+Transferimi i të dhënave të pajisjes regjistruese
+1. Kur bëhet riparimi (sipas përkufizimit përkatës të nenit 2 të këtij udhëzimi) ose heqja e pajisjes, qendrat teknike të miratuara të tahografit duhet të jenë të afta të transferojnë të dhënat nga pajisja regjistruese për t’ia dhënë operatorit të transportit përkatës.
+2. Qëllimi i plotësimit të kërkesës së pikës 260 të apendiksit 1B të AETR-së është t’i bëjë të mundur operatorëve të transportit të kenë mundësinë të mbajnë të regjistruara aktivitetin e drejtuesve të mjeteve dhe mjeteve, si dhe për t’ua paraqitur inspektorëve të kontrollit sa herë kërkohet prej tyre.
+3. Operatorët e transportit duhet të transferojnë të dhënat e tyre nga NJM përpara mbylljes dhe kalimit të NJM -së te një operator tjetër. Kjo kërkesë zbatohet edhe nëse NJM nuk është përshtatur akoma te një mjet, i cili është shitur ose, nëse NJM thjesht është hequr nga mjeti për t’u zëvendësuar. Megjithatë në rastet kur një NJM bëhet me defekt nga kushtet normale, ose kur nuk kanë qenë transferuar, mund të jetë e nevojshme që të dhënat të transferohen nga ofiçina.
