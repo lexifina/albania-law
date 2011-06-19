@@ -1,0 +1,7 @@
+# Neni 6
+Certifikata e përputhshmërisë dhe marka e miratimit të tipit KE
+1. Në cilësinë e tij si mbajtës i një certifikate të miratimit të tipit KE të automjeteve, prodhuesi lëshon një certifikatë përputhshmërie.
+Kjo certifikatë, modele të të cilave jepen në shtojcën III, shoqëron çdo automjet, qoftë i plotë ose i paplotë, të prodhuar në pajtim me tipin e miratuar të automjetit.
+2. Për qëllime të taksimit ose regjistrimit të automjetit, shtetet anëtare, pas dhënies së një njoftimi, të paktën tre muaj përpara, Komisionit dhe shteteve të tjera anëtare, mund të kërkojnë që të dhëna, të cilat nuk përmenden në shtojcën III t’i shtohen certifikatës së përputhshmërisë, me kusht që këto të dhëna të deklarohen qartë në paketën e informacionit ose të mund të rrjedhin nga ajo me anë të një llogaritjeje të thjeshtë.
+3. Në cilësinë e tij si mbajtës i një certifikate të miratimit të tipit KE për një sistem, pjesë përbërëse ose njësi të veçantë teknike, prodhuesi i bashkëngjit çdo pjese përbërëse ose njësie të prodhuar në përputhje me tipin e miratuar emrin ose markën tregtare, tipin dhe/ose, nëse direktiva e veçantë e parashikon këtë, markën ose numrin e miratimit të tipit KE.
+4. Në cilësinë e tij si mbajtës i një certifikate të miratimit të tipit KE që, në përputhje me nenin 4(1)(c), përfshin kufizime mbi përdorimin e sistemit, pjesës përbërëse ose njësisë së veçantë teknike përkatëse, prodhuesi i jep çdo sistemi, pjesë përbërëse ose njësie të veçantë teknike informacion të hollësishëm mbi këto kufizime dhe përcakton kushtet për përshtatjen e tij.

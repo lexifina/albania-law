@@ -1,0 +1,5 @@
+# Neni 13
+Masat për garantimin e përputhshmërisë së prodhimit
+1. Një shtet anëtar që jep një miratim të tipit KE merr masat e përmendura në shtojcën IV në lidhje me atë miratim për të verifikuar sipas rastit, në bashkëpunim me autoritetet e miratimit të tipit KE në shtetet e tjera anëtare, se janë marrë masat e mjaftueshme për të garantuar që automjetet, sistemet, pjesët përbërëse ose njësitë e veçanta teknike të prodhuara pajtohen me tipin e miratuar.
+2. Një shtet anëtar që ka dhënë një miratim të tipit KE merr masat e përmendura në shtojcën IV në lidhje me atë miratim për të verifikuar sipas rastit, në bashkëpunim me autoritetet e miratimit të tipit KE në shtetet e tjera anëtare, se masat e përmendura në paragrafin 1 vazhdojnë të jenë të mjaftueshme dhe se pajisjet, sistemet, pjesët përbërëse ose njësitë e veçanta teknike të prodhuara vazhdojnë të pajtohen me tipin e miratuar.
+Verifikimi për të garantuar se produktet pajtohen me tipin e miratuar kufizohet në procedurat e përcaktuara në seksionin 2 të shtojcës IV.

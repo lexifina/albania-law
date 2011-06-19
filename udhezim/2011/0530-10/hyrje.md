@@ -1,0 +1,5 @@
+UDHËZIM
+Nr.10, datë 30.5.2011
+PËR MIRATIMIN E TIPIT TË TRAKTORËVE BUJQËSORË OSE TË PYLLTARISË, RIMORKIOVE DHE RIMORKIATORËVE TË TYRE TË NDËRKËMBYESHËM, SË BASHKU ME SISTEMET, PJESËT PËRBËRËSE DHE NJËSITË E TYRE TË NDARA TEKNIKE
+Në mbështetje të pikës 4, neni 102 të Kushtetutës së Republikës së Shqipërisë, neneve 105, 106, 107 dhe 108 të ligjit nr.8378, datë 22.7.1998 “Kodi Rrugor i Republikës së Shqipërisë”, të ndryshuar, neneve 257 - 276 të vendimit të Këshillit të Ministrave nr.153, datë 7.4.2000 “Rregullorja e zbatimit të Kodit Rrugor të Republikës së Shqipërisë”, të ndryshuar; direktivës 2003/37/KE, datë 26.5.2003 të Parlamentit Europian dhe të Këshillit “Për miratimin e tipit të traktorëve bujqësorë ose të pylltarisë, rimorkiove dhe rimorkiatorëve të tyre të ndërkëmbyeshëm, së bashku me sistemet, pjesët përbërëse dhe njësitë e tyre të ndara teknike, dhe që shfuqizon direktivën 74/150/KEE” dhe të Marrëveshjes së Stabilizim-Asociimit midis Republikës së Shqipërisë dhe Komuniteteve Europiane dhe shteteve të tyre anëtare, protokolli 5 “Mbi transportin tokësor”, Ministri i Punëve Publike dhe Transportit
+UdhËZoN:

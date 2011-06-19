@@ -1,0 +1,4 @@
+# Neni 9
+Automjetet e prodhuara në seri të vogla
+Për automjetet e prodhuara në seri të vogla, numri i automjeteve të regjistruara, të ofruara për shitje ose të vëna në shërbim çdo vit në çdo shtet anëtar, kufizohet në numrin maksimal të njësive të treguara në shtojcën V, seksioni A.
+Çdo vit shtetet anëtare i dërgojnë Komisionit një listë të miratimeve të tipave KE të këtyre automjeteve. Shteti anëtar që jep këtë miratim të tipit KE dërgon një kopje të dokumenteve informative dhe certifikatën e miratimit të tipit KE dhe të gjitha shtojcat e tyre, autoriteteve miratuese në shtetet e tjera anëtare të caktuara nga prodhuesi, duke deklaruar natyrën e përjashtimeve që janë dhënë. Brenda tre muajve këto shtete anëtare vendosin nëse duhet të pranojnë miratimin e tipit KE për automjetet që duhet të regjistrohen brenda territorit të tyre dhe, nëse po, vendosin për numrin e automjeteve.
