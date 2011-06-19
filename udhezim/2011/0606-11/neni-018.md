@@ -1,0 +1,11 @@
+# Neni 18
+Certifikata e përputhshmërisë
+1. Prodhuesi, në kapacitetin e tij si mbajtës i miratimit të tipit KE për një mjet, lëshon një certifikatë përputhshmërie për të shoqëruar çdo mjet, qoftë i përfunduar, i pakompletuar ose i kompletuar, që është prodhuar në pajtim me tipin e mjetit të miratuar.
+Në rastin e një mjeti të pakompletuar ose të kompletuar, prodhuesi kompleton vetëm ata artikuj në faqen 2 të certifikatës së përputhshmërisë, që janë shtuar ose ndryshuar në fazën e tashme të miratimit dhe, sipas rastit, i bashkëngjit certifikatës të gjitha certifikatat e përputhshmërisë të lëshuara në fazën e mëparshme.
+2. Certifikata e përputhshmërisë përpilohet në një prej gjuhëve zyrtare të Komunitetit. DPSHTRR-ja mund të kërkojë që certifikata e përputhshmërisë të jetë edhe në gjuhën shqipe.
+3. Certifikata e përputhshmërisë projektohet për të parandaluar falsifikimin. Për këtë qëllim, letra duhet të jetë e mbrojtur me grafikë me ngjyra ose me një shenjë në formën e shenjës së identifikimit të prodhuesit.
+4. Certifikata e përputhshmërisë kompletohet në tërësinë e saj dhe nuk përmban kufizime në lidhje me përdorimin e mjeteve të ndryshme nga ato të parashikuara në aktin rregullator.
+5. Certifikata e përputhshmërisë e parashikuar në pjesën I të shtojcës IX për mjetet e miratuara në pajtim me dispozitat e nenit 20(2) përmban në titullin e saj shprehjen “Për mjetet e plota/kompletuara, të miratuara si tip në pajtim me nenin 20 (miratim i përkohshëm)”.
+6. Certifikata e përputhshmërisë, sipas parashikimit në pjesën I të shtojcës IX për mjetet e miratuara si tip në pajtim me nenin 22 përmbajnë në titullin e tyre shprehjen “Për mjetet e plota/kompletuara të miratuara si tip në seri të vogla”, dhe pranë saj vitin e prodhimit e pasuar nga një numër rendor, ndërmjet 1 dhe kufirit të treguar në tabelën e përcaktuar në shtojcën XII, duke treguar, në lidhje me çdo vit prodhimi, pozicionin e atij mjeti brenda prodhimit të dhënë për atë vit.
+7. Pa cenuar dispozitat e paragrafit 1, prodhuesi mund të transmetojë të dhënat ose informacionin që gjendet në certifikatën e përputhshmërisë me mjete elektronike në autoritetin e regjistrimit.
+8. Një dublikatë e certifikatës së përputhshmërisë mund të lëshohet vetëm nga prodhuesi. Fjala “dublikatë” duhet të jetë qartësisht e dukshme në krye të çdo dublikate certifikate.

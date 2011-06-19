@@ -1,0 +1,9 @@
+# Neni 27
+Regjistrimi, shitja dhe vënia në shërbim e mjeteve fund serie
+1. Në pajtim me kufijtë e përcaktuar në seksionin B të shtojcës XII dhe në lidhje me vetëm një periudhë të kufizuar kohe, shtetet anëtare mund të regjistrojnë dhe lejojnë shitjen ose vënien në shërbim të mjeteve që përputhen me një tip mjeti, miratimi i tipit KE të të cilit nuk vazhdon të mbetet i vlefshëm.
+Nënparagrafi i parë zbatohet vetëm për mjetet brenda territorit të Komunitetit që janë mbuluar nga një miratim të tipit KE i vlefshëm në momentin e prodhimit të tyre, por që nuk janë regjistruar ose vënë në shërbim para se miratimi i tipit KE të ketë humbur vlefshmërinë.
+2. Opsioni i parashikuar në paragrafin 1 ofrohet, në rastin e mjeteve të përfunduara, për një periudhë prej dymbëdhjetë muajsh nga data në të cilën skadon vlefshmëria e miratimit të tipit KE dhe, në rastin e mjeteve të kompletuara, për një periudhë prej tetëmbëdhjetë muajsh nga ajo datë.
+3. Një prodhues që dëshiron të përfitojë nga dispozitat e paragrafit 1, i paraqet një kërkesë autoritetit kompetent të çdo shteti anëtar të prekur nga hyrja në shërbim e mjeteve në fjalë. Kërkesa duhet të specifikojë çdo shkak teknik ose ekonomik që pengon ato mjete në respektimin e kërkesave të reja teknike.
+Shtetet anëtare të interesuara, brenda tre muajve nga marrja e një kërkese të tillë, vendosin nëse dhe në cilën shifër të lejohet regjistrimi i atyre mjeteve brenda territorit të tyre.
+4. Paragrafët 1, 2 dhe 3 zbatohen me ndryshimet e bëra për mjetet që mbulohen nga një miratim tipi kombëtar por që nuk janë regjistruar ose vënë në shërbim para se ai miratim të ketë pushuar së qeni i vlefshëm, në pajtim me nenin 45, për shkak të ekzekutimit të detyrueshëm të procedurës së miratimit të tipit KE.
+5. Shtetet anëtare zbatojnë masa të përshtatshme për të siguruar që numri i mjeteve për t’u regjistruar ose vënë në shërbim në kuadrin e procedurës së parashikuar në këtë nen të mbikëqyren me efektivitet.

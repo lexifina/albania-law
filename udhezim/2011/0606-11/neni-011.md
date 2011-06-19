@@ -1,0 +1,10 @@
+# Neni 11
+Testet e kërkuara për miratimin e tipit KE
+1. Respektimi i përcaktimeve teknike të parashikuara në këtë udhëzim, në harmoni të plotë me direktivën 2007/46/KE, dhe në aktet rregullatore të renditura në shtojcën IV, demonstrohen nëpërmjet testeve të përshtatshme që kryhen nga shërbimet e caktuara teknike.
+Procedurat e testit, pajisjet dhe veglat teknike të nevojshme për kryerjen e këtyre testeve përcaktohen në secilin prej këtyre akteve rregullatore.
+2. Testet e kërkuara kryhen në mjetet, pjesët përbërëse dhe njësitë teknike të veçanta që janë përfaqësuese të tipit që aprovohet.
+Megjithatë, prodhuesi, në marrëveshje me autoritetin miratues, mund të zgjedhë një mjet, sistem, pjesë përbërëse apo njësi teknike të veçantë që, megjithëse nuk është përfaqësuese e tipit që miratohet, kombinon një numër tiparesh më të pafavorshme në lidhje me nivelin e kërkuar të funksionimit. Metodat e testimit virtual mund të përdoren për të ndihmuar vendimmarrjen gjatë procesit të përzgjedhjes.
+3. Si alternativa për procedurat e testeve të përmendura në paragrafin 1 dhe në marrëveshje me autoritetin e miratimit, metodat e testimit virtual mund të përdoren me kërkesë të prodhuesit në lidhje me aktet rregullatore të renditura në shtojcën XVI.
+4. Kushtet e përgjithshme që duhet të përmbushen nga metodat e testimit virtual janë përcaktuar në shtojcën 1 të shtojcës XVI.
+Për secilin prej akteve rregullatore të renditura në shtojcën XVI, kushtet specifike të testimit dhe dispozitat administrative në lidhje me to janë përcaktuar në shtojcën 2 të asaj shtojce.
+5. Ministria e Punëve Publike dhe Transportit vendos listën e akteve rregullatore për të cilat lejohen metodat e testimit virtual, kushtet specifike dhe dispozitat administrative në lidhje me to. Këto masa, të planifikuara për të ndryshuar elementet jothelbësore të këtij udhëzimi, në harmoni të plotë me direktivën 2007/46/KE, ndër të tjera duke e plotësuar atë, vendosen dhe përditësohen në pajtim me procedurën rregullatore me verifikimin e përmendur në nenin 40(2).

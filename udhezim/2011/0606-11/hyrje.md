@@ -1,0 +1,5 @@
+UDHËZIM
+Nr.11, datë 6.6.2011
+PËR MIRATIMIN E TIPIT TË MJETEVE MOTORIKE DHE RIMORKIOVE TË TYRE, TË SISTEMEVE, PJESËVE PËRBËRËSE DHE NJËSIVE TË VEÇANTA TEKNIKE TË DESTINUARA PËR KËTO MJETE
+Në mbështetje të pikës 4, neni 102 të Kushtetutës së Republikës së Shqipërisë; nenit 71, 72, 74 75 dhe 76 të ligjit nr.8378, datë 22.7.1998 “Kodi Rrugor i Republikës së Shqipërisë”, të ndryshuar; nenit 223, 224, 225, 226, 227, 228, 230, 232 dhe 233 të vendimit të Këshillit të Ministrave nr.153, datë 7.4.2000 “Rregullorja e zbatimit të Kodit Rrugor të Republikës së Shqipërisë”, të ndryshuar; direktivës 2007/46/KE, datë 5.9.2007 të Parlamentit Europian dhe të Këshillit “Për miratimin e mjeteve motorike dhe rimorkiove të tyre, dhe të sistemeve, pjesëve përbërëse dhe njësive të veçanta teknike të destinuara për këto mjete” dhe të Marrëveshjes së Stabilizim-Asociimit midis Republikës së Shqipërisë dhe Komuniteteve Europiane dhe shteteve të tyre anëtare, protokolli 5 “Mbi transportin tokësor”, Ministri i Punëve Publike dhe Transportit
+UdhËZoN:

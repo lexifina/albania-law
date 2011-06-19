@@ -1,0 +1,10 @@
+# Neni 8
+Dispozita të përgjithshme
+1. DPSHTRR-ja, në harmoni të plotë me direktivën 2007/46/KE, nuk mund të japë asnjë miratim të tipit KE pa siguruar së pari që janë zbatuar në mënyrë të rregullt dhe të pranueshme procedurat e përmendura në nenin 12.
+2. DPSHTRR-ja, në harmoni të plotë me direktivën 2007/46/KE, jep miratime të tipit KE në pajtim me nenet 9 dhe 10.
+3. Nëse DPSHTRR-ja, në harmoni të plotë me direktivën 2007/46/KE, konstaton që një tip mjeti, sistemi, pjese përbërëse apo njësie teknike e veçantë, megjithëse në pajtim me dispozitat e kërkuara, paraqet një rrezik serioz për sigurinë rrugore ose dëmton seriozisht ambientin apo dëmton seriozisht shëndetin publik, ai mund të refuzojë dhënien e miratimit të tipit KE. Në këtë rast, ai u dërgon menjëherë shteteve të tjera anëtare dhe Komisionit një dosje të hollësishme duke shpjeguar arsyet për vendimin e tij dhe duke përcaktuar provat për konstatimet e tij.
+4. Certifikatat e miratimit të tipit KE numërtohen në pajtim me metodën e përcaktuar në shtojcën VII.
+5. Autoriteti miratues, brenda 20 ditëve pune, u dërgon autoriteteve miratuese të shteteve të tjera anëtare një kopje të certifikatës së miratimit të tipit KE për mjetin, së bashku me shtojcat, për secilin tip të mjeteve që ai ka aprovuar. Kopja në letër mund të zëvendësohet me kopje elektronike.
+6. Autoriteti miratues informon pa vonesë autoritetet miratuese të shteteve të tjera anëtare për refuzimin apo tërheqjen e çdo miratim mjeti, së bashku me shkaqet për vendimin e tij.
+7. Autoriteti miratues, në intervale tremujore, u dërgon autoriteteve miratuese të shteteve të tjera anëtare një listë të miratimeve të tipit KE të sistemit, pjesës përbërëse ose njësisë teknike të veçantë që ai ka dhënë, ndryshuar, refuzuar të japë apo tërhequr gjatë periudhës pararendëse. Kjo listë përmban hollësitë e specifikuara në shtojcën XIV.
+8. Nëse kjo kërkohet nga një shtet tjetër anëtar, shteti anëtar që ka dhënë miratimin e tipit KE, brenda 20 ditëve pune nga marrja e asaj kërkese, i dërgon një kopje të certifikatës së miratimit të tipit KE në fjalë, së bashku me shtojcat. Kopja në letër mund të zëvendësohet me kopje elektronike.
