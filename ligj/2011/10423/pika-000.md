@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 2, datë 29.4.2011 i Këshillit të Ministrave “Për zhvillimin dhe pjesëmarrjen e Forcave Ushtarake të Britanisë së Madhe në stërvitjen e përbashkët detare-amfibe “Albanian Lion, 2011””.
