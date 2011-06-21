@@ -1,0 +1,1 @@
+12. Pronarët e objekteve, për të cilët është bërë shënimi “Proces legalizimi”, të likuidohen, për efekt shpronësimi, pasi të ketë përfunduar procesi i legalizimit dhe i regjistrimit në ZVRPP-në Tiranë, si dhe në bazë të dokumentacionit të pronësisë, që do të dorëzojnë pranë Drejtorisë së Përgjithshme të Rrugëve.

@@ -1,0 +1,1 @@
+7. Pronarët e pasurive, të ndodhura në zonën kadastrale 8270, për të cilët është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të kompensohen, për efekt shpronësimi, pasi të dorëzojnë dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.

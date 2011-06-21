@@ -1,0 +1,1 @@
+15. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Tiranë, të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur të realizohet procesi i hedhjes së trupit të rrugës në hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.

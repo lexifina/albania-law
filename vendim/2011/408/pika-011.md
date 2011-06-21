@@ -1,0 +1,1 @@
+11. Pronarët e objekteve, për të cilët është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të likuidohen, për efekt shpronësimi, në bazë të dokumentacionit të pronësisë, që do të dorëzojnë pranë Drejtorisë së Përgjithshme të Rrugëve.
