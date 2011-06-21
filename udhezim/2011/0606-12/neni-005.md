@@ -1,0 +1,4 @@
+# Neni 5
+1. Autoriteti kompetent në një shtet anëtar plotëson formularin e miratimit të tipit që përfshihet në shtojcat dhe nënshtojcat III për të gjithë tipat e automjeteve në lidhje me të cilat ai kryen miratimin e tipit dhe përveç kësaj, hyn në rezultatet e testimit sipas titujve përkatës në formularin e bashkëlidhur formularit të miratimit të automjetit, modeli i të cilit jepet në shtojcën VII.
+2. Autoriteti kompetent në një shtet anëtar plotëson formularin e miratimit të tipit që përfshihet në një aneks ose shtojcë të çdo direktive të veçantë përkatëse për çdo tip sistemi, njësie të veçantë teknike ose komponenti në lidhje me të cilin ai kryen miratimin e tipit.
+3. Certifikatat e miratimit të tipit të një sistemi, njësie të veçantë teknike ose komponenti numërtohen në përputhje me metodën e përshkruar në shtojcën V, pjesa A.

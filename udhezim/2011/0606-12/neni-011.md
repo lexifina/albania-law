@@ -1,0 +1,2 @@
+# Neni 11
+Duke vepruar me shumicë të cilësuar mbi një propozim nga Komisioni, Këshilli mund të pranojë barasvlershmërinë midis kushteve ose dispozitave për miratimin e tipit të automjeteve, sistemeve, njësive të veçanta teknike dhe komponentëve të krijuar nga direktiva 2002/24/KE, së bashku me direktivat e veçanta dhe procedurat e krijuara nga rregulloret ndërkombëtare ose rregulloret e vendeve të treta në kuadër të marrëveshjeve shumëpalëshe ose dypalëshe ndërmjet Komunitetit dhe vendeve të treta.

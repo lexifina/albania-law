@@ -1,0 +1,2 @@
+# Neni 12
+Nëse një shtet anëtar konstaton se automjetet, sistemet, njësitë e veçanta teknike ose komponentët përbëjnë rrezik për sigurinë në rrugë, megjithëse janë të një tipi të përshtatshëm, për një periudhë maksimale prej gjashtë muajsh, ai mund të ndalojë në territorin e tij shitjen, hyrjen në shërbim ose përdorimin e tyre. Ai informon menjëherë shtetet e tjera anëtare, duke dhënë arsyet për vendimin e tij.

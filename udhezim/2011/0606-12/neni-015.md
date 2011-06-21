@@ -1,0 +1,13 @@
+# Neni 15
+1. Shtetet anëtare nuk ndalojnë hedhjen në treg, shitjen, hyrjen në shërbim ose përdorimin e automjeteve të reja që pajtohen me direktivën 2002/24/KE. Vetëm automjetet që pajtohen me direktivën 2002/24/KE mund të paraqiten për regjistrim fillestar.
+2. Shtetet anëtare nuk ndalojnë hedhjen në treg, shitjen ose përdorimin e njësive të reja të veçanta teknike ose komponentëve të rinj që pajtohen me direktivën 2002/24/KE. Vetëm njësitë e veçanta teknike dhe komponentët që pajtohen me direktivën 2002/24/KE, mund të hidhen në treg dhe shiten për herë të parë për përdorim në Republikën e Shqipërisë.
+3. Duke devijuar nga paragrafët 1 dhe 2:
+a) Shtetet anëtare mund të përjashtojnë automjetet, sistemet, njësitë e veçanta teknike dhe komponentët e synuar:
+i) ose për prodhimin në seri të vogla, deri maksimumi 200 njësi në vit për tip automjeti, sistem, komponent ose njësi të veçantë teknike;
+ii) ose për forcat e armatosura, agjencitë e zbatimit të ligjit, shërbimet e mbrojtjes civile, brigadat e zjarrfikëses ose organet e punëve publike, nga pajtueshmëria me ndonjë prej kërkesave të direktivave të veçanta.
+Shtetet e tjera anëtare informohen për këto përjashtime brenda një muaji nga dhënia e tyre. Brenda tre muajve këto shtete anëtare vendosin nëse do të pranojnë miratimin e tipit për automjetet që duhet të regjistrohen brenda territorit të tyre. Certifikata e këtij miratimi të tipit nuk mund të mbajë titullin “certifikata e miratimit të tipit KE”.
+b) Certifikatat e miratimit të tipit, të lëshuara në nivel kombëtar para datës 17 qershor 1999, mbeten të vlefshme brenda shteteve anëtare që i lëshojnë ato për një periudhë prej katër vitesh nga data në të cilën ligjet kombëtare duhet të pajtohen me direktivat përkatëse.
+E njëjta periudhë shtrihet, gjithashtu, për tipat e automjeteve, sistemeve, komponentëve ose njësive teknike që pajtohen me kërkesat kombëtare të shteteve anëtare, të cilat zbatojnë sisteme legjislative të ndryshme nga ato për miratimin e tipit në fuqi para zbatimit të direktivave përkatëse.
+Automjetet e trajtuara nga përjashtimi i fundit mund të hidhen në treg, shiten ose hyjnë në shërbim gjatë kësaj periudhe pa afat në përdorimin e tyre.
+Hedhja në treg, shitja dhe përdorimi i sistemeve, njësive të veçanta teknike dhe komponentëve për këto automjete nuk kanë afat kohor.
+4. Direktiva 2002/24/KE, nuk cenon të drejtën e shteteve anëtare për të parashtruar, në përputhje me Traktatin, kërkesat që ata i konsiderojnë të nevojshme për të garantuar mbrojtjen e përdoruesve gjatë përdorimit të automjeteve në fjalë, me kusht që kjo të mos përfshijë modifikime në automjete.

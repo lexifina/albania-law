@@ -1,0 +1,2 @@
+# Neni 22
+Deri në harmonizimin e sistemeve të regjistrimit dhe tatimit në shtetet anëtare në lidhje me automjetet e mbuluara nga direktiva 2002/24/KE, shtetet anëtare mund të përdorin sisteme të kodit kombëtar, me qëllim lehtësimin e regjistrimit dhe tatimit në territorin e tyre. Shtetet anëtare mund të kërkojnë, gjithashtu, që certifikata e përputhshmërisë të plotësohet nga numri i kodit kombëtar.

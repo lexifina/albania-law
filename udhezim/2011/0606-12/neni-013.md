@@ -1,0 +1,2 @@
+# Neni 13
+Çdo vendim në lidhje me refuzimin ose tërheqjen e miratimit të tipit, një ndalim mbi shitjen ose përdorimin e një automjeti, njësie të veçantë teknike ose komponenti, i marrë në përputhje me dispozitat e miratuara në zbatim të direktivës 2002/24/KE, deklaron hollësisht arsyet mbi të cilat është bazuar. Ai i njoftohet palës përkatëse, e cila në të njëjtën kohë informohet për mjetet ligjore të vëna në dispozicion sipas ligjeve në fuqi në shtetet anëtare dhe për afatet kohore të lejuara për ushtrimin e këtyre mjeteve ligjore.
