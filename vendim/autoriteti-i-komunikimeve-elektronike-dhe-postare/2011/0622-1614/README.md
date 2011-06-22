@@ -1,0 +1,9 @@
+# Vendim nr. 1614, datë 22.6.2011 (Autoriteti i Komunikimeve Elektronike dhe Postare)
+
+Title on the official site: Vendim-Nr-1614-date-22-6-2011
+
+Official file: <https://akep.al/wp-content/uploads/2021/07/Vendim-Nr-1614-date-22-6-2011.pdf>. Official media record: <https://akep.al/wp-json/wp/v2/media/4082> (listed 2021-07-27T13:57:14 UTC).
+
+Number and date read from the official title (“_” and “-” read as spaces): “Vendim Nr 1614 date 22 6 2011”.
+
+Metadata record: the decision text is not reproduced here yet; it can follow as its own commit.
