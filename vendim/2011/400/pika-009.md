@@ -1,0 +1,1 @@
+9. Pronarët e pasurive për të cilët është bërë shënimi në kolonën përkatëse “Konfirmuar nga ZRPP-ja/konflikt pronësie”, të kompensohen, për efekt shpronësimi, pasi të zgjidhet konflikti, fakt për të cilin do të jepet konfirmim zyrtar nga zyra vendore e regjistrimit të pasurive të paluajtshme, Librazhd, si dhe në bazë të dokumentacionit të pronësisë.

@@ -1,0 +1,1 @@
+7. Për pasurinë në listën që i bashkëlidhet këtij vendimi, për të cilën në kolonën përkatëse është bërë shënimi “Proces gjyqësor”, të kompensohet, për efekt shpronësimi, personi apo personat që do të rezultojnë pronarë, pasi të jetë marrë vendim i formës së prerë nga gjykata dhe pas regjistrimit, në bazë të këtij vendimi, pranë ZVRPP-së, Librazhd.

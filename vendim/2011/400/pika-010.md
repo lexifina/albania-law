@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve të pasurive, për të cilët janë bërë shënimet përkatëse “Konfirmohet nga ZVRPP-ja”, “Proces gjyqësor” dhe “Konfirmuar nga ZVRPP-ja/konflikt pronësie”, në bazë të pikave 7, 8 dhe 9 të këtij vendimi.
