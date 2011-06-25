@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit gjyqësor të Gjykatës Ndërkombëtare të Arbitrazhit nr. 14869/AVHJEM, për çështjen “Rohde Nielsen vs Ministria e Punëve Publike dhe Transportit”, në shumën prej 2 374 880,59 (dy milionë e treqind e shtatëdhjetë e katër mijë e tetëqind e tetëdhjetë pikë pesëdhjetë e nëntë) eurosh.
