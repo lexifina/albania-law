@@ -1,0 +1,26 @@
+{
+  "qbz_id": 58974,
+  "title": "PËR NJË SHTESË NË VENDIMIN NR.1087, DATË 23.7.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE NË KOMUNËN MOLLAS TË QARKUT TË KORÇËS”, DHE PËR NJË SHTESË NË VENDIMIN NR.604, DATË 14.5.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE, PYJE DHE KULLOTA, QË TRANSFEROHEN NË PRONËSI TË KOMUNËS MOLLAS TË QARKUT KORÇË”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "389",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-05-18",
+  "published": "2011-06-25",
+  "in_force": "2011-06-25",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/08bcee37c6f4d1bc2b0f2049dd7eaba8c94e9ea71f50b78034afcec527d3700f.docx",
+  "source_sha256": "08bcee37c6f4d1bc2b0f2049dd7eaba8c94e9ea71f50b78034afcec527d3700f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/58974",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/05/18/389",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
