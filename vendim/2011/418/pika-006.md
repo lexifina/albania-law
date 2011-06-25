@@ -1,0 +1,1 @@
+6. Kundër vendimit të Komisionit, kërkuesit mund të paraqesin ankim pranë Ministrit të Drejtësisë. Kundër vendimit të Ministrit të Drejtësisë mund të bëhet ankim në gjykatë. Paraqitja dhe shqyrtimi i ankimeve bëhen sipas rregullave dhe afateve të parashikuara në ligj për shqyrtimin e mosmarrëveshjeve administrative.

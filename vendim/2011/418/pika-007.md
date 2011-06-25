@@ -1,0 +1,1 @@
+7. Pas heqjes së licencës së ushtrimit të profesionit, Komisioni i paraqet strukturës përgjegjëse në Ministrinë e Drejtësisë për administrimin e Regjistrit të Ndërmjetësve, vendimin për heqjen e licencës me qëllim bërjen e shënimit përkatës në regjistër, si dhe në Regjistrin Kombëtar të Lejeve dhe Licencave, i cili mbahet nga Qendra Kombëtare e Licencimit.
