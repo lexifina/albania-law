@@ -1,0 +1,1 @@
+9. Kundër vendimit të komisionit, agjencia ndërmjetësuese e huaj ka të drejtë të paraqesë, brenda 10 ditëve, ankim pranë Ministrit të Drejtësisë, i cili shprehet me vendim brenda 10 ditëve nga data e marrjes së ankimit.

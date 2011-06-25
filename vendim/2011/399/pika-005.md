@@ -1,0 +1,1 @@
+5. Komisioni merr në shqyrtim kërkesat e depozituara dhe, pasi verifikon përmbushjen e kritereve të parashikuara në ligj, merr vendim brenda një afati prej 10 (dhjetë) ditësh nga data e paraqitjes së kërkesës.

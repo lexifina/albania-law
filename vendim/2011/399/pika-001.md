@@ -1,0 +1,1 @@
+1. Ngritjen e Komisionit të Miratimit të Agjencive Ndërmjetësuese të Huaja, me qëllim njohjen dhe miratimin e agjencive ndërmjetësuese të huaja për ushtrimin e veprimtarisë në fushën e birësimit (më poshtë Komisioni).

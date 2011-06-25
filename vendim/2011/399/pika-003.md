@@ -1,0 +1,1 @@
+3. Kërkesa plotësohet sipas formularit tip, i cili miratohet nga komisioni me propozimin e kryetarit. Ajo shoqërohet me dokumentet e nevojshme, të cilat vërtetojnë përmbushjen e kritereve të parashikuara në ligj dhe depozitohet pranë komisionit.
