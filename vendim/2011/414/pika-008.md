@@ -1,0 +1,1 @@
+8. Nëse komisioni, gjatë shqyrtimit të kërkesës, konstaton se kërkuesi nuk ka paraqitur një dokument të nevojshëm apo dokumenti i paraqitur është i paqartë vendos njoftimin e kërkuesit për sqarimin e tyre brenda një afati gjer në 20 (njëzet) ditë.

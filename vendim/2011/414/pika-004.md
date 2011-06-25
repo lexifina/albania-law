@@ -1,0 +1,1 @@
+4. Kryetari i komisionit zgjidhet nga anëtarët. Pas mbarimit të mandatit të kryetarit, kryetari i radhës zgjidhet nga përfaqësuesit e institucionit, i ndryshëm nga ai prej ku është zgjedhur kryetari i mëparshëm.
