@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2011, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 1 500 000 (një milion e pesëqind mijë) lekësh, për mbulimin e shpenzimeve të kurimit të z.Ylli Asllani.
