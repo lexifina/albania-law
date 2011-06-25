@@ -1,0 +1,2 @@
+2. Ngarkohet bashkia Durrës të depozitojë pranë zyrës vendore të regjistrimit të pasurive të paluajtshme, Durrës, dokumentacionin e nevojshëm, teknik dhe ligjor, të kalimit të një pjese të mjediseve të ish-Ndërmarrjes së Prodhimit Artizanal (NPA) sipas pikës 1 të këtij vendimi, për regjistrimin e këtij dokumentacioni dhe pajisjen e qytetarëve të caktuar në aneksin 1, bashkëlidhur këtij vendimi, me aktin e pronësisë së ambientit të ndërtimit.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
