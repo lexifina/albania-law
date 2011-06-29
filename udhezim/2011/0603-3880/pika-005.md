@@ -1,0 +1,1 @@
+5. Policia e Shtetit detyrohet t’i përgjigjet kërkesës së bërë brenda 2 ditëve nga marrja e saj, me përjashtim të rasteve, të cilat çmohet se paraqesin urgjencë të veçantë apo legjislacioni në fuqi e parashikon ndryshe.

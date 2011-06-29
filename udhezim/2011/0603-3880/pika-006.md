@@ -1,0 +1,1 @@
+6. Me qëllim dhënien e ndihmës së kërkuar, Policia e Shtetit në varësi të situatës përcakton e vlerëson shkallën e rrezikshmërisë që mund të paraqitet gjatë procesit të ekzekutimit dhe mbi këtë bazë planifikon personelin, mjetet, pajisjet dhe mbështetjen teknike të nevojshme.

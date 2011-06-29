@@ -1,0 +1,1 @@
+4. Në kërkesën për bashkëpunim, zyrat vendore të përmbarimit gjyqësor shtetëror paraqesin çdo informacion të nevojshëm lidhur me situatat e krijuara në përputhje me pikën 2 të këtij udhëzimi, me qëllim marrjen e masave parandaluese dhe mundësimin e ekzekutimit të titujve ekzekutivë në përputhje me legjislacionin në fuqi.

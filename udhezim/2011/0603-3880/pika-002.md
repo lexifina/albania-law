@@ -1,0 +1,1 @@
+2. Kërkesat për bashkëpunim kufizohen vetëm në ato raste kur strukturat e përmbarimit gjyqësor shtetëror çmojnë që gjatë kryerjes së procedurave të ekzekutimit të titujve ekzekutivë do të ketë pengesa apo rezistencë për kryerjen e detyrës apo kur ka arsye të besueshme prej të cilave rrezikohet jeta e personave të pranishëm dhe ndërhyrja policore është e domosdoshme.

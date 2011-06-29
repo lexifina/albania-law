@@ -1,0 +1,1 @@
+10. Për çdo informacion të marrë gjatë ushtrimit të veprimtarisë, i cili mund të jetë me interes për strukturat e Policisë së Shtetit, përmbaruesit gjyqësorë kanë detyrimin e ruajtjes së fshehtësisë në raport me të tretët, përveç strukturave të Policisë së Shtetit, organit të prokurorisë apo gjykatës.

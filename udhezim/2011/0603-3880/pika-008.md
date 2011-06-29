@@ -1,0 +1,1 @@
+8. Gjatë ekzekutimit të titujve ekzekutivë Policia e Shtetit eviton rastet e ndërhyrjeve nga të tjerët, si dhe merr masa për të ndaluar rastet e shpërdorimit të detyrës nga ana e punonjësve të Policisë së Shtetit, duke favorizuar padrejtësisht ndonjërën nga palët.

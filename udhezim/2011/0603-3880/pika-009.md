@@ -1,0 +1,1 @@
+9. Përmbaruesi gjyqësor, pas ekzekutimit të titujve ekzekutivë, përpilon procesverbalin për ekzekutimin pa probleme, të nënshkruar nga palët pjesëmarrëse në ekzekutim, si dhe përfaqësuesi i Policisë së Shtetit. Një kopje e procesverbalit i dorëzohet përfaqësuesit të Policisë së Shtetit të pranishëm në ekzekutim.

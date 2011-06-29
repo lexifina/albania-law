@@ -1,0 +1,1 @@
+1. Policia e Shtetit bashkëpunon me Drejtorinë e Përgjithshme të Përmbarimit dhe zyrat vendore të përmbarimit gjyqësor shtetëror për të siguruar rendin dhe qetësinë publike para, gjatë dhe pas ekzekutimit të titujve ekzekutivë, me qëllim zbatimin e legjislacionit në fuqi, duke respektuar pavarësinë e tyre dhe shmangien e konflikteve civile që mund të gjenerojnë vepra penale.
