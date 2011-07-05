@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13451,
+  "title": "PËR RRITJEN E PENSIONEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "471",
+  "institution": "Kryeministri",
+  "adopted": "2011-07-02",
+  "published": "2011-07-05",
+  "in_force": "2011-07-05",
+  "in_force_basis": "\"hyn në fuqi pas botimin në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.7.2011\": the publication day (its effects reach back to 1.7.2011)",
+  "source": "https://qbz.gov.al/files/f28ba08e723c01d8bd8e49e04c8ab21337bafc4ae288d89705d01989b3caf46d.docx",
+  "source_sha256": "f28ba08e723c01d8bd8e49e04c8ab21337bafc4ae288d89705d01989b3caf46d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13451",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/07/02/471",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
