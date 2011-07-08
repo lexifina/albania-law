@@ -1,0 +1,1 @@
+1. Lejimin e ekspozimit jashtë territorit të Republikës së Shqipërisë të tri veprave në pikturë: “Fshatari” e Sadik Kacelit; “Venecia” e Vangjush Mios; “Portret gruaje” e Zef Kolombit, pjesë e koleksionit të Galerisë Kombëtare të Arteve, në Cetinjë të Malit të Zi, në kuadër të samitit të krerëve të shteteve të Europës Juglindore, nga data 30 qershor - 30 korrik, 2011.
