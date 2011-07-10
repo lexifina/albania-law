@@ -1,0 +1,2 @@
+6. DAMT-ja e qarkut, pasi ka marrë “akt verifikimin” nga DRB-ja, mbi bazën e tij kryen veprimet e ndryshimit në dokumentacionin kadastral ekzistues dhe i lëshon me shkrim “vërtetimin” e këtij ndryshimi, ushtruesit të kërkesës për ndryshim të zërit kadastral, brenda 15 ditëve nga koha e marrjes së “aktit të verifikimit”.
+Përmbajtja e vërtetimit pasqyrohet në lidhjen nr.3 të këtij udhëzimi dhe është pjesë përbërëse e tij.
