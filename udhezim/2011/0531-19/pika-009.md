@@ -1,0 +1,1 @@
+9. Përgjegjësi i njësisë bazë organizon një mbledhje të anëtarëve të njësisë në të cilën i bën të ditur anëtarëve të njësisë buxhetin e akorduar nga ky fond dhe përcakton një afat deri në 4 javë për të dorëzuar aplikimet për projekte kërkimore në bazë të grupeve kërkimore mësimore. Mbledhja mund të marrë vendim për prioritetet dhe numrin e projekteve që do të dorëzohen.

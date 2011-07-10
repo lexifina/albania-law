@@ -1,0 +1,1 @@
+1. Shpërndarja e burimeve financiare në programin buxhetor “Për kërkim fondamental dhe ekselencë”, dhe përdorimi i tyre të bëhen në përputhje me rregullat dhe standardet e programimit buxhetor dhe menaxhimin financiar publik.

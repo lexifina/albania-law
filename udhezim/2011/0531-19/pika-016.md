@@ -1,0 +1,1 @@
+16. Institucionet publike të arsimit të lartë hartojnë dhe miratojnë në organet e tyre kolegjiale raportet vjetore për përdorimin e fondeve të tyre në programin “Për kërkim fondamental dhe ekselencë”, si pjesë e raportit vjetor financiar të IAL-së.

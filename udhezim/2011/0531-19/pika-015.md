@@ -1,0 +1,1 @@
+15. Modalitetet e tjera të zbatimit të projekteve, që mbështeten nga ky fond dhe nuk përcaktohen në këtë udhëzim, janë të njëjta me ato të projekteve kërkimore në kuadër të programeve kombëtare të kërkimit dhe zhvillimit.

@@ -1,0 +1,1 @@
+12. Projektet prezantohen dhe diskutohen në një mbledhje të njësisë bazë. Në përfundim të saj, grupi i vlerësimit shpall projektet që do të financohen nga fondi për kërkim i njësisë bazë. Lista e projekteve fituese i dërgohet për dijeni dekanatit të njësisë kryesore.

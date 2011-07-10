@@ -1,0 +1,1 @@
+13. Drejtuesit e projekteve fituese bëjnë, brenda një jave, përmirësimet e kërkuara nga grupi i vlerësimit në projekt dhe i dorëzojnë ato së bashku me një plan të hollësishëm të implementimit, si dhe atë të kostos/shpenzimeve te përgjegjësi i njësisë bazë, kancelari i njësisë kryesore dhe kancelari i IAL-së.
