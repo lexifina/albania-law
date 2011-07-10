@@ -1,0 +1,29 @@
+{
+  "qbz_id": 61954,
+  "title": "PËR LICENCIMIN E SHOQËRISË “dN & NAT ENERGJI” SHPK NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "58",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2011-06-22",
+  "published": "2011-07-10",
+  "in_force": "2011-07-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e7ac488da4abc8f5ca1e6788d2b1dab06286d836d143224287b58b8d04d157b0.docx",
+  "source_sha256": "e7ac488da4abc8f5ca1e6788d2b1dab06286d836d143224287b58b8d04d157b0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61954",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/06/22/58",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10057,
+    9700
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
