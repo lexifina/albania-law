@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTRI
-Agron Duka
