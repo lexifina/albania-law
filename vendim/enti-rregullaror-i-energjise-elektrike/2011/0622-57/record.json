@@ -1,0 +1,28 @@
+{
+  "qbz_id": 61953,
+  "title": "PËR LICENCIMIN E SHOQËRISË “GSA” SHPK NË AKTIVITETIN E TREGTIMIT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "57",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2011-06-22",
+  "published": "2011-07-10",
+  "in_force": "2011-07-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/0f5def280c49c1d65c8ea4f3458144439423f001788372df0f3a9f57016b562d.docx",
+  "source_sha256": "0f5def280c49c1d65c8ea4f3458144439423f001788372df0f3a9f57016b562d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61953",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/06/22/57",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56245
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
