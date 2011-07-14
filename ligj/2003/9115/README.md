@@ -1,9 +1,9 @@
 # PËR TRAJTIMIN MJEDISOR TË UJËRAVE TË NDOTURA
 
-Official source: [Ligji nr. 9115](https://qbz.gov.al/api/v1/acts/2282).
+Official source: [Ligji nr. 9115](https://qbz.gov.al/api/v1/acts/2282); [QBZ versions](https://qbz.gov.al/api/v1/acts/2282/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2003-07-24; published 2003-09-22; in force 2003-10-07.
+Status of this text: `official consolidated version 1`, applying from 2011-07-14; after QBZ act 13529 (nr. 10448).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.

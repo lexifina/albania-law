@@ -4,6 +4,10 @@ Nr.9115, datë 24.7.2003
 
 PËR TRAJTIMIN MJEDISOR TË UJËRAVE TË NDOTURA
 
+(Ndryshuar me ligjin nr. 10 448, datë 14.7.2011)
+
+                                                                                                                         (i përditësuar)
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 K U V E N D I 
@@ -302,39 +306,7 @@ Neni 18
 
 Kushtet e lejes mjedisore
 
-1. Në lejen mjedisore të personave fizikë ose juridikë, veprimtaritë e të cilëve krijojnë ujëra të ndotura, përcaktohen:
-
-a) kushtet e veçanta për respektimin e normave të shkarkimeve të lëngëta në pajtim me llojin e veprimtarisë;
-
-b) kërkesat për ndërtimin dhe funksionimin e rrjetit të brendshëm të kanalizimeve;
-
-c) kërkesat për trajtimin parësor të ujërave të përdorura; 
-
-ç) masat për parandalimin e ndotjes së mjedisit prej tyre; 
-
-d) kolektorin ku duhet t'i shkarkojnë ujërat e trajtuara dhe regjimin e shkarkimit të tyre;
-
-dh) mbajtjen e regjistrave;
-
-e) kryerjen e monitorimit dhe publikimin e rezultateve të tij.
-
-2. Personat fizikë dhe juridikë, që marrin përsipër trajtimin dhe pastrimin e ujërave të ndotura, pajisen me leje mjedisore përkatëse, në të cilën kanë të përcaktuar:
-
-a) kërkesat dhe kushtet e vendit të ndërtimit të impianteve dhe instalimeve për pastrimin e ujërave;
-
-b) llojin e impiantit ose impianteve që do të përdorin;
-
-c) metodat, teknikat dhe teknologjitë, që përdor impianti dhe rregullat e funksionimit të tij:
-
-ç) normat e lejuara të shkarkimeve të lëngëta, që duhet të plotësojnë ujërat pas trajtimit;
-
-d) mjedisin pritës ku do të derdhen ujërat e pastruara dhe regjimin e derdhjes së tyre;
-
-dh) kërkesat për trajtimin mjedisor të llumrave, që rezultojnë nga trajtimi i ujërave të ndotura, në përputhje me natyrën, përbërjen dhe sasitë e tyre;
-
-e) mbajtjen e regjistrave;
-
-ë) kryerjen e monitorimit dhe publikimin e rezultateve të tij.
+(Shfuqizuar me ligjin nr. 10 448, datë 14.7.2011)
 
 Neni 19
 
