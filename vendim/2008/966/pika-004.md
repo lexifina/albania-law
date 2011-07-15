@@ -1,1 +1,0 @@
-4. Personat, fizikë dhe juridikë, të cilët janë pajisur me leje profesionale projektimi dhe drejtimi teknik të veprimtarisë minerare, sipas kritereve të mëparshme, në përfundim të afatit të vlefshmërisë së lejes, u nënshtrohen procedurave të këtij vendimi.
