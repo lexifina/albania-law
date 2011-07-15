@@ -1,0 +1,1 @@
+7. Ministri, brenda 60 (gjashtëdhjetë) ditëve kalendarike nga data e aplikimit në AKBN, nxjerr aktin e dhënies ose të mosdhënies së autorizimit për tregtimin e mineraleve të çmuara dhe gjysmë të çmuara. Në këtë rast, nuk zbatohet parimi i miratimit në heshtje. Forma e autorizimit përcaktohet në rregulloren që miratohet nga ministri.

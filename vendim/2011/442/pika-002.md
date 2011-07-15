@@ -1,0 +1,1 @@
+2. Dhënia e autorizimit të tregtimit të mineraleve të çmuara dhe gjysmë të çmuara personave juridikë bëhet nga ministri përgjegjës për veprimtaritë minerare në përputhje me kërkesat e nenit 32 të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.

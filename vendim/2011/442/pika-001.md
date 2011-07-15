@@ -1,0 +1,1 @@
+1. Për kryerjen e tregtimit të mineraleve të çmuara dhe gjysmë të çmuara, personat juridikë, vendas dhe të huaj, të regjistruar si të tillë në Qendrën Kombëtare të Regjistrimit (QKR), duhet të pajisen me autorizimin përkatës.

@@ -1,0 +1,1 @@
+4. Dokumentacioni i plotë i kërkesës për autorizim për tregtimin e mineraleve të çmuara dhe gjysmë të çmuara paraqitet në Agjencinë Kombëtare të Burimeve Natyrore (AKBN). Data e aplikimit shpallet në web site-in e këtij institucioni.

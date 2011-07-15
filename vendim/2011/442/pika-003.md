@@ -1,0 +1,1 @@
+3. Autorizimi për tregtimin e mineraleve të çmuara dhe gjysmë të çmuara jepet me afat vlefshmërie deri në 10 (dhjetë) vjet nga data e hyrjes në fuqi, me të drejtë deri në 2 (dy) vjet, me kusht që kjo shtyrje afati të kërkohet nga zotëruesi i autorizimit të paktën 60 (gjashtëdhjetë) ditë kalendarike para përfundimit të afatit të vlefshmërisë.
