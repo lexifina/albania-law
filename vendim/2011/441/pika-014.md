@@ -1,0 +1,1 @@
+14. Vendimi nr.966, datë 2.7.2008 i Këshillit të Ministrave “Për kriteret që duhet të plotësojnë personat fizikë e juridikë për t’u pajisur me leje profesionale për projektim, konsulencë, vlerësim, monitorim dhe drejtim teknik të veprimtarisë së shfrytëzimit të burimeve minerare”, shfuqizohet.

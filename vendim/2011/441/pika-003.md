@@ -1,0 +1,1 @@
+3. Për kryerjen e veprimtarive studimore-projektuese dhe zbatuese në fushën e veprimtarisë minerare licencohen personat fizikë dhe/ose juridikë, vendas dhe të huaj, të regjistruar si të tillë në Qendrën Kombëtare të Regjistrimit, që kanë aftësi teknike dhe përvojën e nevojshme për kryerjen e këtyre veprimtarive.
