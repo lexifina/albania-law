@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit “Politikat dhe procedurat e funksionimit të Qendrës Ndërinstitucionale Operacionale Detare (QNOD)”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
