@@ -1,0 +1,1 @@
+2. Masa e dëmshpërblimit për ish-të dënuarit politikë dhe familjarët e të dënuarve, me dënim kapital të bëhet me këste, sipas kritereve e kufijve të përcaktuar në nenin 12 të ligjit nr.9831, datë 12.11.2007 “Për dëmshpërblimin e ish-të dënuarve politikë të regjimit komunist”, të ndryshuar.

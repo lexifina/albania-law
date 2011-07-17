@@ -1,0 +1,1 @@
+1. Miratimin e dëmshpërblimit financiar për ish-të dënuarit politikë dhe për familjarët e të dënuarve me dënim kapital, sipas listës së përfshirë në anekset “A”, “B” dhe “C”, që i bashkëlidhen këtij vendimi.
