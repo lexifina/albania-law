@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Arkivave të marrë pjesë dhe të ekspozojë dokumentet origjinale, në ekspozitën “Shkëlqimi i Bizantit. Dorëshkrime bizantine të dekoruara në Ballkan, shek.VI-XII”, që hapet në Galerinë Kombëtare të Arteve në Sofje, Bullgari, sipas listës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
