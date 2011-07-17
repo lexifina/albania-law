@@ -1,0 +1,1 @@
+3. Pas kryerjes së verifikimit të mësipërm, Ministri i Financave, me anë të një shkrese, i kërkon njësisë së qeverisjes vendore, marrjen e masave për zgjidhjen e problematikës së krijuar me ndërmarrjen publike dhe/ose sh.a.-të, në pronësi të saj, duke e vënë në dijeni të sanksioneve ligjore të cilave do t’u nënshtrohet në rast të moszgjidhjes së problemit.

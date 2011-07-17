@@ -1,0 +1,1 @@
+4. Njësia e qeverisjes vendore, me marrjen e shkresës, është e detyruar që brenda një afati kohor prej 30 ditësh, të marrë masa për zgjidhjen e problemit, si dhe të raportojë pranë Ministrit të Financave, në lidhje me masat dhe afatin kohor të zgjidhjes së problemit.

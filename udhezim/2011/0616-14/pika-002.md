@@ -1,0 +1,1 @@
+2. Për rastet kur ndërmarrjet dhe/ose sh.a.-të subvencionohen nga pushteti qendror dhe/ose vendor, Ministri i Financave, nëpërmjet degëve të thesarit në rrethe, verifikon arsyet e mospagesës së detyrimit ndaj të tretëve vetëm për çështjet që lidhen me interesat jetikë dhe bazë të komunitetit (furnizimin me ujë të pijshëm, pastrimin e mbeturinave, kanalizimet etj.).
