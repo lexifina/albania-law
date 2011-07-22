@@ -1,1 +1,0 @@
-4. Për dhënien e lejes së importimit, të eksportimit dhe të prodhimit të lëndëve plasëse për përdorim civil, në Ministrinë e Mbrojtjes të krijohet Komisioni i Dhënies së Lejeve, përbërja dhe funksionimi i të cilit përcaktohen në rregulloren e miratuar nga Ministri i Mbrojtjes.
