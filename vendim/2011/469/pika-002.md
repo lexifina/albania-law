@@ -1,0 +1,1 @@
+2. Licenca e importit dhe eksportit të lëndëve plasëse për përdorim civil jepet brenda 30 ditëve nga data e paraqitjes së kërkesës, me shkrim, të shoqëruar me dokumentacionin e plotë, ndërsa licenca e prodhimit të lëndëve plasëse për përdorim civil jepet brenda 6 muajve nga data e paraqitjes së kërkesës, me shkrim, të shoqëruar me dokumentacionin e plotë.

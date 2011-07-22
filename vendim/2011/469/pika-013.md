@@ -1,0 +1,1 @@
+13. Personat e interesuar mund të ankohen kundër vendimeve të komisionit të dhënies së licencave te Ministri i Mbrojtjes, në përputhje me ligjin nr.8485, datë 12.5.1999 “Kodi i Procedurave Administrative të Republikës së Shqipërisë”.

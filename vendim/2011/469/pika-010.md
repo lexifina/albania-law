@@ -1,0 +1,1 @@
+10. Subjekti tregtar i pajisur me licencë prodhimi duhet që, çdo fund muaji, të raportojë për sasinë e mallrave të prodhuara, pranë komisionit të dhënies së licencave, në Ministrinë e Mbrojtjes dhe, brenda datës 15 dhjetor të çdo viti, të raportojë për sasinë e mallit të prodhuar, shitjet, harxhimet, eksportet, të shoqëruara me fatura.
