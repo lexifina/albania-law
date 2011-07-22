@@ -1,0 +1,1 @@
+34. Departamenti i Administratës Publike nuk shqyrton dhe nuk përgatit për Kryeministrin asnjë propozim, që nuk paraqitet në përputhje me pikën 34 të kreut II të këtij vendimi, dhe që nuk shoqërohet me mendimin e Ministrisë së Financave në rastet e përcaktuara në pikën 32 të kreut II të këtij vendimi.

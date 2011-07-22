@@ -1,0 +1,1 @@
+47. Kontrolli i Lartë i Shtetit dhe Kryeministria, për institucionet në varësi të qeverisë, janë përgjegjëse për kontrollin e zbatimit të parashikimeve për sistemimin e punonjësve në strukturën e re të miratuar.

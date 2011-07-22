@@ -1,0 +1,1 @@
+20. Një sektor mund të krijohet si njësi organizative e veçantë kur në të janë të paktën një pozicion shef sektori dhe dy vartës. Një sektor mund të krijohet edhe pa pozicionin e shefit, nëse është në kuadër të një drejtorie dhe ka të paktën dy nëpunës.

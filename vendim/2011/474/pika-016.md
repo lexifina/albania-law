@@ -1,0 +1,1 @@
+16. Pozicioni i sekretarit të përgjithshëm krijohet vetëm në Kryeministri, aparatet e ministrive dhe në institucionet e pavarura, në rast se në këto të fundit anëtarët e emëruar në drejtimin e institucionit nuk janë të punësuar me kohë të plotë.

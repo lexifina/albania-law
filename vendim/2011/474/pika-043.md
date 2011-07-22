@@ -1,0 +1,1 @@
+43. Në rast të mendimit negativ të Departamentit të Administratës Publike, institucioni fillon procedimin administrativ nga e para. Pikat 40-42 të kreut II të këtij vendimi, zbatohen edhe në këtë rast.

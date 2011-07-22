@@ -1,0 +1,1 @@
+5. Funksionet rregullatore dhe funksionet e ofrimit të shërbimeve, si rregull, kryhen nga degët e ministrive dhe/ose institucionet në varësi të tyre. Në rast se për funksionet përkatëse nuk ekziston një institucion varësie ose degë ministrie, funksioni mund të vendoset në aparatin e ministrisë.

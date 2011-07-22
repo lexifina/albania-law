@@ -1,0 +1,2 @@
+28. Funksionet e marrëdhënieve me publikun nuk organizohen si njësi organizative e veçantë, me përjashtim të rastit kur misioni i institucionit e kërkon një funksion të tillë të veçuar. Si rregull, marrëdhëniet me publikun mbahen nga drejtuesit e njësive organizative të institucionit, ndërsa funksioni i zëdhënësit kryhet nga kabineti i titullarit të institucionit ose nga vetë ky i fundit.
+II. Procedura e hartimit dhe miratimit të strukturave organizative të institucioneve të administratës publike, në nivel qendror

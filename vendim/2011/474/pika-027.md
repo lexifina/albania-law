@@ -1,0 +1,1 @@
+27. Funksionet e marrëdhënieve me jashtë nuk organizohen si njësi organizative e veçantë, me përjashtim të rastit kur institucioni e ka këtë funksion një ndër misionet kryesore të punës së tij. Si rregull, ky funksion kryhet nga drejtuesit e njësive organizative të institucionit dhe nga titullari i tij.

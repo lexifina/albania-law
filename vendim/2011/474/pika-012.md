@@ -1,0 +1,1 @@
+12. Departamentet janë njësi organizative të veçanta, të cilat mbulojnë një funksion të rëndësishëm vetëm të politikëbërjes dhe krijohen vetëm në Kryeministri, ndërsa në institucionet e tjera, në rastet kur përmenden në një ligj të veçantë.

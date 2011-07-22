@@ -1,0 +1,1 @@
+8. Nëse aparati i ministrisë/institucionit qendror ofron shërbime mbështetëse për institucionet e varësisë, atëherë në përcaktimin e raportit të pozicioneve mbështetëse merret në konsideratë edhe numri i pozicioneve të institucionit të varësisë apo degës.

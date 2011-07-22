@@ -1,0 +1,1 @@
+13. Në aparatet e ministrive, sektorët nuk mund të krijohen si njësi të veçanta që raportojnë drejtpërdrejt te sekretari i përgjithshëm. Sektorët e veçantë vendosen në kuadrin e drejtorisë me të cilën kanë ngjashmërinë më të madhe të misionit.

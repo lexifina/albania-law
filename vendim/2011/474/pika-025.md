@@ -1,0 +1,1 @@
+25. Në institucionet, që kanë më shumë se 30 (tridhjetë) pozicione pune, duhet të ekzistojë një pozicion pune për menaxhimin e burimeve njerëzore. Në varësi të madhësisë së institucionit, ky pozicion mund të jetë i dedikuar ose të ketë përgjegjësinë edhe për kryerjen e funksioneve të tjera.
