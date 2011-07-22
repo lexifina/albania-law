@@ -1,0 +1,1 @@
+1. Dhënien e licencës për hapjen, në qytetin e Lezhës, të institucionit arsimor privat, parauniversitar, shkollë e mesme e përgjithshme “Rogacionistët”, që do të përfshijë në programin mësimor edhe lëndë fetare.
