@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13500,
+  "title": "PËR MIRATIMIN E DEKRETIT TË PRESIDENTIT TË REPUBLIKËS  PËR SHKARKIMIN E MINISTRIT TË TURIZMIT, KULTURËS, RINISË DHE SPORTEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "119",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-07-21",
+  "published": "2011-07-25",
+  "in_force": "2011-07-25",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/bf4ada7765034fc885850d3b15729509e40fa93b4068c2410a33137923b7f366.docx",
+  "source_sha256": "bf4ada7765034fc885850d3b15729509e40fa93b4068c2410a33137923b7f366",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13500",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/07/21/119",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
