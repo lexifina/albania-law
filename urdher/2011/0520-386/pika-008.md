@@ -1,0 +1,1 @@
+8. Përcaktimet e pikës 6 nuk mund të kufizojnë të drejtën e shtetit për të përdorur një informacion të tillë për përgatitjen e raporteve ekonomiko-financiare apo dhe tekniko-shkencore që i nevojiten atij.

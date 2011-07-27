@@ -1,0 +1,1 @@
+6. Çdo aplikues për një të drejtë minerare mund të përdorë të dhënat e marra nga strukturat përgjegjëse apo zotërues të mëparshëm të lejeve minerare, duke ruajtur konfidencialitetin e tyre dhe duke deklaruar burimin e tyre në momentin e aplikimit.

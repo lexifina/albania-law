@@ -1,0 +1,1 @@
+2. Të dhënat teknike dhe provat studimore, që zotërohen nga strukturat përgjegjëse si rezultat i punës së këtyre strukturave, të cilat i përkasin shtetit shqiptar disponohen dhe përdoren në përputhje me legjislacionin shqiptar në fuqi.

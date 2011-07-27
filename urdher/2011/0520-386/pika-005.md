@@ -1,0 +1,1 @@
+5. Të dhënat për pagesat e taksave vendore dhe kombëtare nuk quhen konfidenciale. Të dhënat për pagesat e taksave vendore dhe kombëtare publikohen në kuadër të transparencës me publikun për veprimtaritë minerare.

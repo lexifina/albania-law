@@ -1,0 +1,1 @@
+1. Të gjitha të dhënat për burimet minerare në Republikën e Shqipërisë, pavarësisht nga mënyra e ruajtjes së tyre, i përkasin shtetit shqiptar dhe i vihen në dispozicion strukturës përgjegjëse, me kërkesë të kësaj të fundit, dhe në përputhje me dispozitat e ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.
