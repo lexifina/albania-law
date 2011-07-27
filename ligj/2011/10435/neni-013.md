@@ -1,0 +1,4 @@
+# Neni 13
+1. Leja për hyrjen në vendin tonë të mjeteve ajrore, lundruese dhe mjeteve e njësive tokësore të huaja të shërbimit të kërkim-shpëtimit, me mision kërkim-shpëtimin, pas kërkesës për ndërhyrje nga autoritetet kompetente të vendeve të huaja, me të cilat kemi marrëveshje, jepet nga Qendra Kombëtare e Kërkim-Shpëtimit.
+2. Leja për daljen jashtë vendit të mjeteve ajrore, lundruese, si dhe mjeteve e njësive tokësore të shërbimit të kërkim-shpëtimit shqiptar, me mision kërkim-shpëtimin, pas kërkesës për ndërhyrje nga autoritetet kompetente të vendeve të huaja, me të cilat kemi marrëveshje, jepet nga Qendra Kombëtare e Kërkim-Shpëtimit.
+3. Në të dyja rastet operacionet e kërkim-shpëtimit drejtohen nga strukturat operacionale të kërkim-shpëtimit të vendeve ku kryhen misionet e kërkim-shpëtimit.
