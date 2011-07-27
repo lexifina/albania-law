@@ -1,0 +1,7 @@
+LIGJ
+Nr.10 437, datë 28.6.2011
+PËR RATIFIKIMIN E MARRËVESHJES “PËR KRIJIMIN E AKADEMISË NDËRKOMBËTARE ANTIKORRUPSION, SI ORGANIZATË NDËRKOMBËTARE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
