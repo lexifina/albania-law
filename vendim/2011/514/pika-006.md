@@ -1,0 +1,1 @@
+6. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes nga shoqëria “Prendi-02” sh.p.k., sipërfaqja e rehabilituar në pyll të hiqet nga kadastra minerare dhe të riregjistrohet fond pyjor.
