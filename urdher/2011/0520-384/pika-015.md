@@ -1,0 +1,1 @@
+15. Institucioni i QKL-së mban kadastrën minerare, duke lidhur të gjitha të dhënat për një zonë minerare me të dhënat e pasurive të paluajtshme, pronësisë së tokës të kësaj zone minerare dhe realizon administrimin e këtyre të dhënave për strukturat përgjegjëse të veprimtarisë minerare në bazë të akteve ligjore të funksionimit të kësaj qendre.

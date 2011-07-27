@@ -1,0 +1,1 @@
+3. Të dhënat për zotëruesin e lejeve minerare pas aktit të miratimit të ministrit, dërguar pranë institucionit të QKL-së, nga drejtoria përgjegjëse në METE për veprimtarinë minerare mbahen po nga ky institucion.

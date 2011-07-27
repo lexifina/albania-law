@@ -1,0 +1,1 @@
+17. Regjistrat regjistrohen në formë elektronike në institucionin e QKL-së. Niveli i konfidencialitetit të të dhënave realizohet në respekt të kërkesave të legjislacionit minerar dhe legjislacionit shqiptar në fuqi.

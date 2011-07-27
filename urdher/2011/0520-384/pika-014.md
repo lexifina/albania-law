@@ -1,0 +1,1 @@
+14. Të dhënat për pronësinë e tokës merren nga institucionet përkatëse të vërtetimit të kësaj pronësie dhe regjistrohen në kadastrën minerare nga QKL-ja, ku bëhet regjistrimi i tyre për çdo objekt minerar apo zonë minerare.

@@ -1,0 +1,1 @@
+9. Ndryshimet për zotëruesin e lejes minerare që realizohen nga transferimi i lejes, duhet të reflektohen në regjistrin minerar brenda një periudhe jo më shumë se 30 (tridhjetë) ditësh kalendarike nga data e aktit të transferimit.

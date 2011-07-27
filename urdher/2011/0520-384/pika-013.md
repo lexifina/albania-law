@@ -1,0 +1,1 @@
+13. Të dhënat që përfshihen në kadastrën minerare dhe kanë të bëjnë me pasuritë e paluajtshme të krijuara nga ish-ndërmarrjet shtetërore minerare, regjistrohen në kadastrën minerare pas vlerësimeve të institucioneve minerare dhe paraqitjes së këtyre vlerësimeve në QKL, ku bëhet regjistrimi i tyre për çdo objekt minerar apo zonë minerare.

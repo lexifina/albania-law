@@ -1,0 +1,1 @@
+12. Të dhënat që kanë të bëjnë me pasuritë e paluajtshme të krijuara nga zotëruesi i lejes minerare që përfshihen në kadastrën minerare regjistrohen në këtë kadastër pas kërkesës së zotëruesit të lejes minerare që vërteton pronësinë e tyre në përputhje me kërkesat e legjislacionit në fuqi për pronësinë e paluajtshme.

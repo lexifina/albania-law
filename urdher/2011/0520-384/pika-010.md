@@ -1,0 +1,1 @@
+10. Ndryshimet e administratorit dhe drejtuesit teknik të realizuara në Qendrën Kombëtare të Regjistrimit (QKR) nga ana e subjektit minerar dhe të reflektuara në ekstraktin e subjektit minerar në QKR, duhet të reflektohen automatikisht nga QKL-ja në regjistrin minerar.

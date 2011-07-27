@@ -1,0 +1,5 @@
+URDHËR
+Nr.384, datë 20.5.2011
+PËR MIRATIMIN E PROCEDURAVE TË REGJISTRIMIT DHE DOKUMENTACIONIT QË REGJISTROHET NË KADASTRËN MINERARE DHE NË REGJISTRIN MINERAR, SI DHE FORMA DHE PROCEDURAT E RAPORTIMIT TË KËTIJ DOKUMENTACIONI NGA ANA E ZOTËRUESVE TË LEJEVE MINERARE
+Në zbatim të nenit 102, pika 4 të Kushtetutës së Republikës së Shqipërisë, të nenit 44, pika 2 dhe nenit 56, pika 2, të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”,
+URDHËROJ:

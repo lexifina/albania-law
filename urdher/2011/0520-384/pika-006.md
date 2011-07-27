@@ -1,0 +1,1 @@
+6. Regjistri minerar për çdo leje minerare përfshin, gjithashtu, të dhëna për kundërvajtjet administrative të zotëruesit të lejes minerare, statusin e lejes minerare, pezullimi apo në procedurë revokimi.

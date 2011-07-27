@@ -1,0 +1,1 @@
+5. Drejtoria përgjegjëse në METE për veprimtarinë minerare, Shërbimi Gjeologjik Shqiptar (SHGJSH) dhe Agjencia Kombëtare e Burimeve Natyrore (AKBN) kanë të drejtë të disponojnë on-line të dhënat që lidhen me objektin e punës së veprimtarisë së tyre.
