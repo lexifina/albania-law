@@ -1,0 +1,1 @@
+1. Plani i menaxhimit të mbetjeve minerare është pjesë e planit të rehabilitimit të zonës minerare, si kapitull i veçantë i tij dhe përgatitet nga aplikuesi për marrjen e një leje minerare. Ky plan hartohet në përputhje me parimet bazë për hartimin e planit të menaxhimit të mbetjeve minerare të veprimtarisë minerare që mbështeten në legjislacionin minerar dhe mjedisor në fuqi.

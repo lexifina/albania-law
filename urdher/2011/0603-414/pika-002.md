@@ -1,0 +1,1 @@
+2. Procedurat e trajtimit të mbetjeve minerare, ulja e nivelit të shkarkimeve të elementeve të dëmshëm prej tyre, riciklimi, mënyrat e depozitimit dhe trajtimit të mbetjeve me përmbajtje toksike dhe të rrezikshme, bëhen në pajtim me kërkesat e ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.
