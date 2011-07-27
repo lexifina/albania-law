@@ -1,0 +1,1 @@
+11. Sipas shkallës së rrezikshmërisë aktuale të vrojtuar dhe përcaktuar në terren dhe asaj të pritshme për shkak të ndryshimit në kohë të parametrave të ndryshëm që lidhen me të, zonat e rrezikshme mund të klasifikohen sipas aneksit 3, bashkëlidhur këtij urdhri.

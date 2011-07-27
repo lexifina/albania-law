@@ -1,0 +1,1 @@
+5. Procedurat e monitorimit postminerar të një objekti minerar, që është mbyllur ose që ka përfunduar veprimtarinë minerare, realizohen sipas planit të monitorimit postminerar të miratuar, në zbatim të kërkesave të nenit 54 të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.
