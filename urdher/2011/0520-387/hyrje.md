@@ -1,0 +1,5 @@
+URDHËR
+Nr.387, datë 20.5.2011
+PËR MIRATIMIN E FORMËS DHE PËRMBAJTJES SË PROJEKTIT TË KONSERVIMIT TË MINIERËS
+Në zbatim të nenit 102, pika 4 të Kushtetutës së Republikës së Shqipërisë, të nenit 55, pika 8 dhe nenit 56, pika 2 të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”,
+URDHËROJ:

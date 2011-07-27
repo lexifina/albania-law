@@ -1,0 +1,1 @@
+3. Projekti i konservimit për zonat e lejeve minerare të minierave të braktisura zbatohet nga subjekte të specializuara shtetërore ose private, të përzgjedhura sipas procedurave të prokurimit, në përputhje me legjislacionin në fuqi.

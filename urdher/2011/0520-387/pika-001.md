@@ -1,0 +1,1 @@
+1. Të gjitha minierat e braktisura që sipas përcaktimeve të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”, vlerësohen si të tilla, kalojnë në regjim konservimi dhe monitorimi postminerar pas studimeve vlerësuese të Agjencisë Kombëtare të Burimeve Natyrore (AKBN) dhe miratimit me vendim të Këshillit të Ministrave.

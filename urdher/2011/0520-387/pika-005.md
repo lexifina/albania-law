@@ -1,0 +1,1 @@
+5. Procedurat e konservimit të një objekti minerar të braktisur, bëhen sipas projektit të konservimit të miratuar, në zbatim të kërkesave të nenit 55 të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.
