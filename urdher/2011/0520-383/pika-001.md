@@ -1,0 +1,1 @@
+1. Plani për mbylljen e veprimtarisë minerare është pjesë e planit të rehabilitimit të zonës minerare, si kapitull i veçantë i tij dhe përfshin tërësinë e dokumentacionit teknik, ekonomik dhe të mjedisit.

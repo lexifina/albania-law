@@ -1,0 +1,1 @@
+3. Plani për mbylljen e veprimtarisë minerare së një miniere të braktisur, të shfrytëzuar nga ish-ndërmarrjet shtetërore, apo të një objekti minerar kërkim-zbulimi me puse shpimi të realizuar nga shteti, hartohet nga strukturat përgjegjëse, Shërbimi Gjeologjik Shqiptar (SHGJSH) për zonat e kërkim-zbulimit dhe Agjencia Kombëtare e Burimeve Natyrore (AKBN) për zonat e shfrytëzimit.

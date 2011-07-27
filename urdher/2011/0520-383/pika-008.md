@@ -1,0 +1,1 @@
+8. Procedurat për mbylljen e veprimtarisë minerare të një objekti minerar bëhet sipas planit për mbylljen e veprimtarisë minerare të miratuar, në zbatim të kërkesave të nenit 53 të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”.

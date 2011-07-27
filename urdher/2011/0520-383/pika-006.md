@@ -1,0 +1,1 @@
+6. Të gjitha minierat e braktisura nga zotëruesit e lejeve minerare, kalojnë në regjim mbyllje dhe monitorimi postminerar pas studimeve vlerësuese të Agjencisë Kombëtare të Burimeve Natyrore (AKBN) dhe miratohen me vendim të Këshillit të Ministrave. Garancia financiare për rehabilitimin e mjedisit përdoret për realizimin e këtij plani.
