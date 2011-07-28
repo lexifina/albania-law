@@ -1,0 +1,1 @@
+7. Forma dhe përmbajtja e aktit të miratimit të ministrit për çdo aplikim për leje minerare kërkim-zbulimi-shfrytëzimi për grupin e mineraleve të çmuara dhe gjysmë të çmuara, dhe shtyrjen e afatit të kësaj lejeje përshkruhen në aneksin 5 të këtij urdhri.

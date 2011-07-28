@@ -1,0 +1,1 @@
+1. Forma dhe përmbajtja e aktit të miratimit të ministrit, për çdo aplikim për leje minerare kërkim-zbulimi për grupin e mineraleve metalore, jometalore, qymyret dhe bitumet dhe shtyrjen e afatit të kësaj leje, përshkruhen në aneksin 1 të këtij urdhri.

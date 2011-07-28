@@ -1,0 +1,1 @@
+11. Për lejet që përfshijnë shfrytëzimin, vendimi përfundimtar i miratimit, përveç rasteve kur parashikohet miratimi nga Këshilli i Ministrave ose nga Kuvendi, njoftohet nëpërmjet publikimit në Regjistrin Kombëtar të Licencave dhe Lejeve, në përputhje me legjislacionin në fuqi, data e publikimit konsiderohet data efektive e dhënies së lejes minerare.

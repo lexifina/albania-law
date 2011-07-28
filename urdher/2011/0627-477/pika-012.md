@@ -1,0 +1,1 @@
+12. Për rastet e parashikuara në pikën 5 të nenit 15; pikën 10, neni 24 dhe pikën 6, neni 26 të ligjit nr.10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”, kur kërkohet që zona e lejuar e shfrytëzimit të hiqet nga fondi pyjor e kullosor, leja hyn në fuqi për zbatimin e detyrimeve të saj në datën e ndryshimit të zërit kadastral.

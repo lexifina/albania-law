@@ -1,0 +1,1 @@
+5. Forma dhe përmbajtja e aktit të miratimit të ministrit për çdo aplikim për leje minerare shfrytëzimi për grupin e mineraleve ndërtimore dhe shtyrjen e afatit të kësaj lejeje, përshkruhen në aneksin 4 të këtij urdhri.

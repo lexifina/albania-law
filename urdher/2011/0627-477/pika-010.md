@@ -1,0 +1,1 @@
+10. Për lejet minerare, vendimi përfundimtar i miratimit të lejes njoftohet dhe hyn në fuqi në datën e publikimit në Regjistrin Kombëtar të Licencave dhe Lejeve, sipas legjislacionit në fuqi, data e publikimit konsiderohet data efektive e dhënies së lejes minerare.

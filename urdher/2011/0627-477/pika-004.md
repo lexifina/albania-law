@@ -1,0 +1,1 @@
+4. Forma dhe përmbajtja e aktit të miratimit të ministrit për çdo aplikim për leje minerare shfrytëzimi për grupin e mineraleve metalore, jometalore, qymyret dhe bitumet, dhe shtyrjen e afatit të kësaj lejeje përshkruhen në aneksin 3 të këtij urdhri.
