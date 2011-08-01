@@ -1,0 +1,1 @@
+5. Pagimi i shumës së depozituar sipas pikës 4 të këtij vendimi, në favor të ankuesve: z. Shahin Vrioni, z. Oliver Vrioni, z.Dario La Francesca dhe z. Gherardo La Francesca, të bëhet nga Ministria e Financave, pas paraqitjes së të gjithë dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga Buxheti i Shtetit.

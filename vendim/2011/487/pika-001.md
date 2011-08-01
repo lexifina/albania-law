@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 7.12.2010, për çështjen nr.35720/04 dhe nr.42832/06 “Vrioni dhe të tjerë kundër Shqipërisë”, në shumën 1 900, 000 (një milion e nëntëqind mijë) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin, në masën 10 për qind të kësaj shume.
