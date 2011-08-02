@@ -1,0 +1,1 @@
+11. Subjekti i pajisur me “autorizim të përkohshëm” paraqet në Ministri, brenda afatit të përcaktuar në këtë “autorizim të përkohshëm”, dokumentacionin e plotë të përcaktuar në pikën 16 të vendimit të Këshillit të Ministrave nr.713, datë 25.8.2010, për marrjen e lejes për ndërtimin e përdorimin e infrastrukturës së sistemeve të gazit.

@@ -1,0 +1,1 @@
+2. Komisioni mblidhet për shqyrtimin e kërkesave brenda një periudhe prej 15 ditë pune nga data e depozitimit të kërkesës nga ana e shoqërive të interesuara. Data e mbledhjes caktohet nga kryetari i komisionit dhe njoftimi i anëtarëve bëhet jo më vonë se 5 ditë para zhvillimit të mbledhjes.

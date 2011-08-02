@@ -1,0 +1,1 @@
+13. Anëtarët e komisionit shpërblehen për çdo mbledhje të shqyrtimit të kërkesave në vlerën 10.000 lekë, kurse kryetari 15.000 lekë. Ky shpërblim do të sigurohet nga të ardhurat e Ministrisë, në mbështetje të vendimit nr.424, datë 9.7.1998 të Këshillit të Ministrave “Për krijimin dhe administrimin e të ardhurave që krijojnë institucionet buxhetore”.

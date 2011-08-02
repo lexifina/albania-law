@@ -1,0 +1,3 @@
+8. Komisioni shqyrton dokumentacionin e paraqitur sipas pikës 6 të vendimit të Këshillit të Ministrave nr.713, datë 25.8.2010, duke pasur në konsideratë që:
+a) në vlerësim për kredibilitetin financiar të subjektit, ai do të vlerësojë burimet e financimit, përfshirë edhe gjendjen në llogarinë bankare në momentin kur paraqitet kërkesa.
+b) në vlerësimin për dokumentacionin e përvojës në fushën e ndërtimit dhe përdorimit të instalimeve bregdetare, ai do të vlerësojë dokumentacionin ku pasqyrohet eksperienca dhe aktiviteti i deritanishëm në këtë fushë i shoqërisë kërkuese apo i bashkimit të shoqërive, ose i shoqërisë që do të zbatojë projektin, qoftë kjo joint-venture me shoqërinë investitore apo kontraktor i deklaruar nga shoqëria investitore.

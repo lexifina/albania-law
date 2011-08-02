@@ -1,0 +1,1 @@
+12. Komisioni me marrjen e dokumentacionit të paraqitur nga subjekti i interesuar, mblidhet dhe shqyrton atë në përputhje me detyrat e përcaktuara në pikën 17 të vendimit të Këshillit të Ministrave nr.713, datë 25.8.2010, duke marrë vendimet përkatëse.

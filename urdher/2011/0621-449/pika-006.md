@@ -1,0 +1,1 @@
+6. Anëtarët e komisionit nuk mund të përfaqësohen në mbledhje nga persona të tjerë. Në rastet kur për arsye të pashmangshme ndonjë nga anëtarët e komisionit nuk mund ta kryejë këtë funksion, komisioni plotësohet me anëtarin e caktuar nga ministri përkatës.

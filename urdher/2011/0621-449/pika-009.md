@@ -1,0 +1,1 @@
+9. Vendimi i komisionit është i vlefshëm në qoftë se për këtë vendim votojnë më shumë se gjysma e anëtarëve të komisionit. Anëtarët e komisionit të cilët votojnë kundër shprehin qëndrimin e tyre në procesverbalin e mbledhjes.
