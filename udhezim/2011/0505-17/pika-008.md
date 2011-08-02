@@ -1,0 +1,1 @@
+8. DAR Tiranë, DAR Elbasan, DAR Shkodër, DAR Fier dhe DAR Korçë të marrin masa për lirimin e mjediseve për vlerësimin e testeve në godinat e shkollave të përmendura në pikën 6 të këtij kreu dhe për ruajtjen e tyre me shërbim 24-orësh me rojë të Policisë së Shtetit, gjatë periudhës 1 qershor - 15 korrik 2011.

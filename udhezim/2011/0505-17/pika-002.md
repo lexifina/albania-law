@@ -1,0 +1,1 @@
+2. Testi për secilin nga provimet e detyruara përmban 25 pyetje, nga të cilat 13 kërkesa janë me përgjigje alternative dhe përbëjnë 13 pikë, dhe 12 kërkesa janë me zhvillim, të cilat vlerësohen me 37 pikë.

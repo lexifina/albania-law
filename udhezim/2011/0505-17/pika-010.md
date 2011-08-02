@@ -1,0 +1,1 @@
+10. AKP-ja të bëjë intervistimin dhe përzgjedhjen e vlerësuesve për çdo provim të Maturës Shtetërore dhe dërgon listat në DAR/ZA-të përkatëse brenda datës 15 prill 2011. Vlerësuesit e përzgjedhur të trajnohen nga AKP-ja sipas një programi e grafiku të posaçëm dhe të certifikohen në mbarim të këtij trajnimi.

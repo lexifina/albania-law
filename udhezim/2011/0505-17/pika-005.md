@@ -1,0 +1,1 @@
+5. Provimet me zgjedhje zgjasin 4 orë. Procedurat e hartimit të testeve të provimeve me zgjedhje përcaktohen në rregulloren “Për zhvillimin e provimeve të Maturës Shtetërore 2011 në Republikën e Shqipërisë”, nr.33, datë 6.1.2011.

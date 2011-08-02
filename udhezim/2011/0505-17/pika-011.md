@@ -1,0 +1,1 @@
+11. Për drejtimin teknik të procesit të vlerësimit, AKP-ja të caktojë në çdo qendër e për secilin provim dy specialistë, të cilët do të përzgjidhen e trajnohen prej saj në periudhën 15 prill - 15 maj 2011.

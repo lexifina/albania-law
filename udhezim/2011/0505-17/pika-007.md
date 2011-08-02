@@ -1,0 +1,1 @@
+7. Vlerësimi i testeve të Maturës Shtetërore 2011 të ndjekë procedurat e përcaktuara në nenin 58 të rregullores “Për zhvillimin e provimeve të Maturës Shtetërore 2011 në Republikën e Shqipërisë”, nr.33, datë 6.1.2011.

@@ -1,0 +1,1 @@
+4. Provimet e detyruara zgjasin 2 orë e 30 minuta secila. Procedurat e hartimit të testeve të provimeve të detyruara përcaktohen në rregulloren “Për zhvillimin e provimeve të Maturës Shtetërore 2011 në Republikën e Shqipërisë”, nr.33, datë 6.1.2011.
