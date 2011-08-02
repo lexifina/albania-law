@@ -1,0 +1,1 @@
+1. Forma dhe përmbajtja e vendimit të Këshillit Teknik të institucionit të Shërbimit Gjeologjik Shqiptar (SHGJSH), për çdo aplikim të ri për leje minerare të kërkim-zbulimit përshkruhen në aneksin 1 të këtij urdhri.

@@ -1,0 +1,1 @@
+6. Forma dhe përmbajtja e vendimit të Këshillit Teknik të institucionit të Agjencisë Kombëtare të Burimeve Natyrore (AKBN) për kërkesat për shtyrje të afatit të një lejeje minerare të shfrytëzimit ose kërkim-zbulim-shfrytëzimit përshkruhen në aneksin 4 të këtij urdhri.

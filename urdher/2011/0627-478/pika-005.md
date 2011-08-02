@@ -1,0 +1,1 @@
+5. Forma dhe përmbajtja e vendimit të Këshillit Teknik të institucionit të Agjencisë Kombëtare të Burimeve Natyrore (AKBN) për çdo aplikim të ri për leje minerare të shfrytëzimit ose kërkim-zbulim-shfrytëzimit përshkruhen në aneksin 3 të këtij urdhri.

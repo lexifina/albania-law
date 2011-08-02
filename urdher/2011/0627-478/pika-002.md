@@ -1,0 +1,1 @@
+2. Forma dhe përmbajtja e vendimit të Këshillit Teknik të institucionit të Shërbimit Gjeologjik Shqiptar (SHGJSH), për kërkesat për shtyrje të afatit të një lejeje minerare të kërkim-zbulimit përshkruhen në aneksin 2 të këtij urdhri.
