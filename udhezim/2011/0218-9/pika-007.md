@@ -1,0 +1,1 @@
+7. Komisioni, pasi njeh vlefshmërinë e dëftesës/diplomës shkollore, mbi bazën e dokumentacionit të paraqitur, përcakton provimet që do të japë shtetasi shqiptar sipas rasteve të parashikuara në pikat 5 dhe 6 të këtij udhëzimi dhe përcjell zyrtarisht dokumentacionin në KMSH-në e DAR/ZA-së ku shtetasi shqiptar ka vendbanimin, deri në datën 30 prill 2011.

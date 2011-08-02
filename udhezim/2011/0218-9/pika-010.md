@@ -1,0 +1,1 @@
+10. Shtetasit shqiptarë që duan të studiojnë në programet e studimit të IAL-së me kohë të pjesshme, përveç kritereve të parashikuara nga ky udhëzim, u nënshtrohen edhe kritereve të parashikuara nga udhëzimi i posaçëm i MASH-it për këto programe studimi.

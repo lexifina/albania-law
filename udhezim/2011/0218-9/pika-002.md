@@ -1,0 +1,1 @@
+2. Nga detyrimi i dhënies së provimit të gjuhës shqipe përjashtohen të gjithë ata shtetas, të cilët kanë vazhduar studimet në shkollën e mesme në institucione arsimore, që kanë program mësimor në gjuhën shqipe, ose ata shtetas që e japin gjuhën shqipe dhe letërsinë si provim të detyruar të Maturës Shtetërore.
