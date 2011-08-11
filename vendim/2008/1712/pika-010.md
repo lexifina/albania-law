@@ -1,1 +1,0 @@
-10. Monumentet e Kulturës jepen me qira ose enfiteozë nga Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, në përputhje me ligjin nr.9048, datё 7.4.2003 “Pёr trashëgiminë kulturore”, të ndryshuar, sipas udhëzimit të ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve.

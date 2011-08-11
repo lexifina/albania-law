@@ -1,1 +1,0 @@
-8. Pasuritё, nё administrim tё Drejtorisё sё Shёrbimeve Qeveritare, jepen me qira prej saj, me afat deri nё njё vit, pa kufizim pёr sipёrfaqen, sipas tarifave tё pёrcaktuara nё tabelёn, qё i bashkёlidhet kёtij vendimi. Mbi këtë afat kontrata lidhet nga pёrfaqёsuesi i pronarit tё pronёs shtetёrore, duke zbatuar tarifat e këtij vendimi.

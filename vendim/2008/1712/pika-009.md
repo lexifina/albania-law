@@ -1,1 +1,0 @@
-9. Pasuritё, nё administrim tё Autoritetit Portual, Durrёs, jepen me qira ose enfiteozё prej tij, nё pёrputhje me ligjin nr.9130, datё 8.9.2003 “Pёr Autoritetin Portual”, sipas procedurave tё kёtij vendimi. Të gjitha kontratat e lidhura para hyrjes në fuqi të ligjit nr.9130, datё 8.9.2003 “Pёr autoritetin portual”, i kalojnë autoritetit portual.
