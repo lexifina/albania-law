@@ -1,0 +1,1 @@
+9. Pasuritë në administrim të Autoritetit Portual Durrës jepen me qira ose enfiteozë prej tij, në përputhje me ligjin nr.9130, datë 8.9.2003 “Për Autoritetin Portual”, sipas procedurave të këtij vendimi.

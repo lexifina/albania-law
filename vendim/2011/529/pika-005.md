@@ -1,0 +1,7 @@
+5. Përjashtohen nga konkurrimi:
+a) dhënia me qira e sipërfaqeve deri në 200 (dyqind) m2, të cilat jepen me afat deri në 1 (një) vit;
+b) makineritë e pajisjet e shkëputura, me afat deri në 1 (një) vit;
+c) dhënia me qira e pasurive të ndërmarrjeve e të shoqërive shtetërore, subjekteve të pajisura me leje të shfrytëzimit të pasurive natyrore minerare, të peshkimit, të ujërave e të veprimtarive të tjera, të ngjashme, kur këto pasuri i jepen subjektit në ndihmë të zhvillimit të veprimtarisë, për të cilën është licencuar;
+ç) subjekti i licencuar, i cili, në rastet kur me ligj janë miratuar marrëveshje minerare të shfrytëzimit, ka të drejtën e lidhjes së kontratës së huapërdorjes për sipërfaqen e ndërtimit të fabrikave (sipërfaqe kjo e konfirmuar nga biznesplani i paraqitur për marrjen e lejes së shfrytëzimit), me të drejtë përsëritjeje deri në përfundim të periudhës së licencimit;
+d) zgjatja e marrëdhënieve kontraktore deri në 10 (dhjetë) vjet për kontratat e lidhura pa konkurrim, kur subjektet qiramarrëse në objektin e marrë me qira zhvillojnë veprimtari prodhuese, shërbime ose veprimtari me interes publik dhe kanë përmbushur kushtet e kontratës. Në rast se për këto objekte ka vendime të KKKP-së ose ZRKPP-së për ish-pronarët e truallit, do të zbatohen dispozitat e ligjit nr.9235, datë 29.7.2004 “Për kthimin dhe kompensimin e pronës”, të ndryshuar.
+dh) dhënia me qira e objekteve shtetërore, për institucionet shtetërore, shoqëritë tregtare apo ish-ndërmarrjet, kur do të përdoren për nevoja dhe veprimtari të mëtejshme shtetërore.

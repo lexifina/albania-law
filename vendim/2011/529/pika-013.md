@@ -1,0 +1,1 @@
+13. Fituesit, që refuzon lidhjen e kontratës, i konfiskohet sigurimi i ofertës në vlerën e një detyrimi mujor dhe procedurat e lidhjes se kontratës vazhdojnë me subjektin e klasifikuar në vend të dytë.

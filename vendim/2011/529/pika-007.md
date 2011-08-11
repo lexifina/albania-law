@@ -1,0 +1,1 @@
+7. Të drejtën e lidhjes së kontratës së enfiteozës për pasuritë shtetërore, me afat deri në 20 (njëzet) vjet e ka ministria përgjegjëse për ekonominë ose organi i qeverisjes vendore, që ushtron të drejtën e përfaqësuesit të pronarit mbi pronën.
