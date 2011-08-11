@@ -1,0 +1,1 @@
+3. Kapitulli IV “Zhvillimi i industrisë minerare” i dokumentit të Strategjisë së Zhvillimit të Biznesit dhe të Investimeve, miratuar me vendimin nr.795, datë 11.7.2007 të Këshilli të Ministrave “Për miratimin e Strategjisë së Zhvillimit të Biznesit dhe Investimeve”, shfuqizohet.
