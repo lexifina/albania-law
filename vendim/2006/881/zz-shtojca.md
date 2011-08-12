@@ -11,49 +11,58 @@ SHTESA PËR GRADË
 3
 4
 5
-Paga e grupit (PG)
-lekë
-Shtesa vjetore për vjetërsi (SHV)
-Shtesa për kualifikim (SHK)
-lekë
-Shtesa për pozicion (SHP) lekë
+Paga e grupit
+(PG) lekë
+Shtesa vjetore për vjetërsi
+(SHV)
+Shtesa për kualifikim
+(SHK) lekë
+Shtesa për pozicion
+(SHP) lekë
 Sekretar i Përgjithshëm
 Ambasador
 1
 2%
-115 000
+0
+117.300
 Drejtor i Përgjithshëm
-Ministër fuqiplotë.
-Ministër këshilltar.
-Konsull i Përgjithshëm
+Ministër Fuqiplotë.
+Ministër Këshilltar.
+Konsull i Përgjithshëm.
 1
 2%
-105 000
+0
+107.100
 Drejtor
 Këshilltar
 1
 2%
-88 000
+0
+89.800
 Përgjegjës sektori
 Sekretar i Parë.
 Konsull.
 1
 2%
-71 000
+0
+72.500
 Sekretar i Dytë.
 Zëvendëskonsull.
 1 ose 2
 2%
-54 000
+0
+55.100
 Sekretar i Tretë.
 Agjent Konsullor.
 1 ose 2 ose 3
 2%
-43 000
+0
+43.900
 Atashe
 1 ose 2 ose 3
 2%
-33 000
+0
+33.700
 LIDHJA NR.2
 POZICIONI
 KUALIFIKIMI/GRADA/
