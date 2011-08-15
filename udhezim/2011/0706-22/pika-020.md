@@ -1,0 +1,1 @@
+20. Rezultatet e konkurseve të pranimit të dërgohen në MASH e në AKP në letër dhe CD, brenda 3 ditëve nga përfundimi i tyre. Për konkurrentët nga Republika e Kosovës, vetë IAL-të publike përkatëse të shpallin kandidatët fitues, sipas kuotave të miratuara për çdo program studimi.

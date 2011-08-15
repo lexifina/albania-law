@@ -1,0 +1,3 @@
+3. Në Universitetin e Sporteve të Tiranës
+3.1 Në programin e studimit “Shkencat e lëvizjes”, rezultatet e shkollës së mesme (nota mesatare e të katër ose pesë viteve të shkollimit dhe katër provimet e Maturës Shtetërore), të llogariten në masën 50%, kurse rezultatet e konkursit të pranimit në masën 50%, sipas tabelës nr.1, bashkëngjitur këtij udhëzimi.
+3.2 Në programin e studimit “Fushat e veprimtarisë fizike, të shëndetit dhe të rekreacionit”, rezultatet e shkollës së mesme (nota mesatare e të katër ose pesë viteve të shkollimit dhe katër provimet e Maturës Shtetërore) të llogariten në masën 50%, kurse rezultatet e konkursit të pranimit në masën 50%, sipas tabelës nr.1, bashkëngjitur këtij udhëzimi.

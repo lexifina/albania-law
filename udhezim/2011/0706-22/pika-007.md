@@ -1,0 +1,1 @@
+7. Në programet e studimit të “Edukim fizik dhe sporte” të universitetit “Aleksandër Xhuvani”, Elbasan, rezultatet e shkollës së mesme (nota mesatare e të katër ose pesë viteve të shkollimit dhe katër provimet e Maturës Shtetërore) të llogariten në masën 50%, kurse rezultatet e konkursit të pranimit në masën 50%, sipas tabelës nr.1, bashkëngjitur këtij udhëzimi.
