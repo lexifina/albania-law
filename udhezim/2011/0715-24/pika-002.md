@@ -1,0 +1,1 @@
+2. Në çdo vit, Ministria e Arsimit dhe e Shkencës (MASH) dërgon në SHBLU listën e teksteve të kërkuara për botim. Për secilin tekst dërgohen planet mësimore, tirazhet respektive dhe specifikime të tjera.

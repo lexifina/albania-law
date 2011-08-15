@@ -1,0 +1,1 @@
+7. Vetëm pas miratimit të tekstit nga këshilli botues i SHBLU-së, nënshkruhet kontrata me autorët dhe bëhet shpërblimi i autorësisë, sipas tarifave të vendimit të Këshillit të Ministrave nr.120, datë 27.1.1997 “Për shpërblimin e autorëve të veprave shkencore, teksteve shkollore dhe materialeve të tjera të dokumentacionit shkollor”.

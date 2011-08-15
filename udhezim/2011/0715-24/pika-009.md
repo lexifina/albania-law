@@ -1,0 +1,1 @@
+9. Kur tirazhi i teksteve të kërkuara për botim (ose procese të veçanta të tij) nuk realizohet me mundësitë dhe pajisjet teknologjike të SHBLU-së, ajo kooperon me shtëpi botuese apo shtypshkronja të tjera, duke zbatuar procedurat ligjore në fuqi.

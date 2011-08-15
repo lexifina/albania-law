@@ -1,0 +1,1 @@
+1. Shtëpia Botuese e Librit Universitar (SHBLU) do të realizojë botimin, shtypjen, shpërndarjen dhe shitjen e teksteve të sistemit parauniversitar, ku përfshihen tekstet për shkollat profesionale (teknike, social-kulturore e të gjuhëve të huaja), si dhe tekstet e pakicave kombëtare greke dhe maqedonase.

@@ -1,0 +1,1 @@
+13. Shpërndarja dhe shitja e teksteve do të bëhet nga SHBLU-ja. Drejtoritë e shkollave do të lejojnë shitjen e teksteve në mjediset e tyre dhe sipas kushteve do të vënë në dispozicion të SHBLU-së mjedise magazinuese për tekstet.
