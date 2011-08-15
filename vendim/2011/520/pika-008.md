@@ -1,0 +1,1 @@
+8. Kryetari dhe, në mungesë të tij, nënkryetari i Komisionit të Censusit të Popullsisë dhe të Banesave në Qark, prefekti, pasi shqyrton propozimin për rend dite dhe dokumentacionin e paraqitur, vendos datën e mbledhjes së komisionit, e cila, në asnjë rast, nuk mund të jetë më vonë se tre ditë nga dita e paraqitjes së kërkesës nga zyra e INSTAT-it në rrethin qendër të qarkut.

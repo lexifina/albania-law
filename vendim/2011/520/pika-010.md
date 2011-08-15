@@ -1,0 +1,1 @@
+10. Vendimet në Komisionin e Censusit të Popullsisë dhe të Banesave në Qark merren me shumicën e votave të anëtarëve të pranishëm në mbledhje. Në rast se votat janë të barabarta, vota e kryesuesit të mbledhjes vendos.

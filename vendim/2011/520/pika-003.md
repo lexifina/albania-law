@@ -1,0 +1,1 @@
+3. Mbledhja e Komisionit të Censusit të Popullsisë dhe të Banesave në Qark drejtohet nga kryetari dhe, në mungesë apo pamundësi të tij, nga nënkryetari i komisionit, prefekti i qarkut, dhe, në mungesë të këtij të fundit, nga nënkryetari tjetër, si dhe është e vlefshme kur janë të pranishëm më shumë se gjysma e anëtarëve të Komisionit.

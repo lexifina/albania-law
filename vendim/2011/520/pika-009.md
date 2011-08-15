@@ -1,0 +1,1 @@
+9. Komisioni i Censusit të Popullsisë dhe të Banesave në Qark, për çështje të veçanta, mund të krijojë grupe pune, të cilat bëjnë vlerësime, vërejtje dhe rekomandime për çështje, të cilat janë në kompetencën e tyre, sipas detyrave të përcaktuara në pikën 1 të kreut II të këtij vendimi.

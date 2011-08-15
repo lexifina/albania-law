@@ -1,0 +1,1 @@
+7. Rendi i ditës, së bashku me dokumentacionin e çështjeve, të cilat do të paraqiten për shqyrtim, i propozohet kryetarit, në mungesë të tij nënkryetarit të Komisionit të Censusit të Popullsisë dhe të Banesave në Qark, prefektit, nga zyra e INSTAT-it në rrethin qendër të qarkut.
