@@ -1,0 +1,1 @@
+9. Kandidatët të cilët nuk kryejnë regjistrimin paraprak brenda datave të përcaktuara në këtë udhëzim, për çfarëdolloj arsye, humbasin të drejtën e regjistrimit dhe të vazhdimit të procesit. Këta kandidatë nuk do të përfshihen në listën përfundimtare të fituesve.

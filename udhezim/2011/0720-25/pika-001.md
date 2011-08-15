@@ -1,0 +1,1 @@
+1. Pranimi i kandidatëve në ciklin e parë të studimeve me kohë të plotë në institucionet publike të arsimit të lartë (IAL), në vitin akademik 2011-2012, të bëhet sipas listave emërore të renditura nga Agjencia Kombëtare e Provimeve (AKP), pranë Ministrisë së Arsimit dhe Shkencës (MASH).

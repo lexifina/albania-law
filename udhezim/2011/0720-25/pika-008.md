@@ -1,0 +1,1 @@
+8. Institucionet publike të arsimit të lartë deri në orën 14:00 të datës 20 shtator 2011, të dorëzojnë në MASH dhe në AKP listën origjinale të përgatitur nga AKP-ja me regjistrimet paraprake të kryera në formë të shkruar dhe elektronike, në dy kopje, sipas udhëzimit të përgatitur nga AKP-ja.

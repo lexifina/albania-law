@@ -1,0 +1,1 @@
+11. Listat përfundimtare e kandidatëve fitues në formë të shkruar dhe elektronike, t’u dorëzohen institucioneve publike të arsimit të lartë, sipas programeve përkatëse të studimit në datën 24 shtator 2011 nga Agjencia Kombëtare e Provimeve. Institucionet publike të arsimit të lartë t’i afishojnë listat brenda datës 25 shtator 2011.
