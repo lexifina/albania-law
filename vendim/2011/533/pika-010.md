@@ -1,0 +1,1 @@
+10. Vendimet në zyrën e censusit të popullsisë dhe të banesave në bashki/komunë merren e shumicën e votave të anëtarëve të pranishëm në mbledhje. Në rast se votat janë të barabarta, vota e kryesuesit të mbledhjes vendos.

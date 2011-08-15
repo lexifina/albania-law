@@ -1,0 +1,1 @@
+8. Kryetari dhe, në mungesë të tij, nënkryetari, pasi shqyrton propozimin për rend dite dhe dokumentacionin e paraqitur, vendos datën e mbledhjes së Komisionit, e cila në asnjë rast nuk mund të jetë më vonë se tri ditë nga dita e paraqitjes së kërkesës nga punonjësi i INSTAT-it, sipas përcaktimit në pikën 7 të këtij kreu.

@@ -1,0 +1,1 @@
+1. Ngritjen e zyrave të censusit të popullsisë dhe të banesave në çdo bashki e komunë, për organizimin dhe realizimin e censusit të popullsisë dhe të banesave brenda territorit përkatës së bashkisë dhe komunës.

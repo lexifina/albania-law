@@ -1,0 +1,1 @@
+7. Rendi i ditës së bashku me dokumentacionin e çështjeve, të cilat do të paraqiten për shqyrtim, i propozohet nga punonjësi i INSTAT-it në rreth kryetarit dhe, në mungesë të tij, nënkryetarit. Për komunat, propozimi i rendit të ditës bëhet nga punonjësi i INSTAT-it në rrethin, në juridiksionin e të cilit është komuna.
