@@ -1,0 +1,2 @@
+1. Hapjen pranë Fakultetit të Administrimit të Biznesit të shkollës së lartë universitare jopublike “Universiteti “Kristal””, Tiranë, dhe fillimin e veprimtarisë akademike për programin e ri të studimit të ciklit të parë, që realizohet me 180 kredite, me kohëzgjatje normale 3 vite akademike, në formën e studimit me kohë të plotë dhe në përfundim të të cilit lëshohet diplomë universitare “Bachelor” në:
+i) Menaxhim-biznesi.
