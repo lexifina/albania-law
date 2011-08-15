@@ -1,0 +1,1 @@
+6. Instituti i Energjisë, Ujit dhe Mjedisit të lirojë objektin “Ndërtesa Qendrore e Institutit të Hidrometereologjisë”, Tiranë dhe të transferohet në godinën ekzistuese të Institutit të Gjeoshkencave, brenda datës 31.8.2011.

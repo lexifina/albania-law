@@ -1,0 +1,1 @@
+5. Procesi i bashkimit dhe riorganizimit të Institutit të Gjeoshkencave dhe Institutit të Energjisë, Ujit dhe Mjedisit në Institutin e Gjeoshkencave, Energjisë, Ujit dhe Mjedisit të përfundojë brenda datës 15.9.2011.

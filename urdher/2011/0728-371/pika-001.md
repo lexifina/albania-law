@@ -1,0 +1,1 @@
+1. Krijimin e Institutin e Gjeoshkencave dhe Energjisë, Ujit dhe Mjedisit, si njësi kryesore, pranë Universitetit Politeknik të Tiranës nga bashkimi dhe riorganizimi i Institutit të Gjeoshkencave dhe Institutit të Energjisë, Ujit dhe Mjedisit.
