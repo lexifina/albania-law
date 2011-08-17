@@ -1,1 +1,0 @@
-1. Miratimin e uniformave, të gradave dhe të shenjave, që mbahen në uniformën ushtarake të strukturave të Forcave të Armatosura të Republikës së Shqipërisë, sipas albumit, që i bashkëlidhet këtij vendimi.
