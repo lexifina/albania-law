@@ -1,0 +1,1 @@
+7. Vendimi nr.401, datë 1.6.2011 i Këshillit të Ministrave “Për miratimin e listës së barnave që rimbursohen nga Instituti i Sigurimeve të Kujdesit Shëndetësor dhe masën e mbulimit të çmimit të tyre”, shfuqizohet.
