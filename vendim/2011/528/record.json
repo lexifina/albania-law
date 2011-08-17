@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13595,
+  "title": "Për një ndryshim në vendimin nr.69, datë 2.2.2011 të Këshillit të Ministrave “Për miratimin e kuadrit makroekonomik e fiskal për periudhën 2012-2014”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "528",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-07-20",
+  "published": "2011-08-17",
+  "in_force": "2011-08-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/0f3d190b5ef5b451b79aecaf99b41d910376587b002b5dbe7b9476ba2b5f729c.docx",
+  "source_sha256": "0f3d190b5ef5b451b79aecaf99b41d910376587b002b5dbe7b9476ba2b5f729c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13595",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/07/20/528",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
