@@ -1,1 +1,0 @@
-14. Për përmbushjen e detyrave të shërbimit sizmologjik, IGJEO-ja angazhon punëtorë, vrojtues-regjistrues, jashtë organikës, kundrejt një pagese, sipas tarifave të përcaktuara në vendimin nr.406, datë 19.6.1995 të Këshillit të Ministrave, të ndryshuar.

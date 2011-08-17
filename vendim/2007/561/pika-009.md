@@ -1,1 +1,0 @@
-9. Për periudhën kalimtare, Ministri i Arsimit dhe Shkencës emëron dhe shkarkon drejtorin, në bazë të propozimit të bërë nga Këshilli i Arsimit të Lartë dhe Shkencës. Nëndrejtori emërohet dhe shkarkohet nga drejtori i IGJEO-s. Kancelari emërohet dhe shkarkohet nga rektori i UPT-së, në bazë të propozimit të këshillit drejtues.

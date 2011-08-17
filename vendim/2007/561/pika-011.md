@@ -1,1 +1,0 @@
-11. IGJEO-ja përfaqësohet në senatin e Universitetit Politeknik të Tiranës nga drejtori i tij dhe 2 (dy) anëtarë, personel akademik, që kanë, së paku, gradën “Doktor”, të cilët përzgjidhen nga këshilli drejtues, në bazë të propozimeve të bëra nga departamentet e këtij instituti.
