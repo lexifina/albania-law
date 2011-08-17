@@ -1,0 +1,1 @@
+2. Ministria e Mbrojtjes në bashkëpunimin me organet e qeverisjes vendore në bashkinë Këlcyrë, rrethi Përmet, dhe në komunën Dropulli i Sipërm, rrethi Gjirokastër, të qarkut të Gjirokastrës, të ndjekë zhvillimin e punimeve të këtyre vendprehjeve në përputhje me legjislacionin në fuqi.
