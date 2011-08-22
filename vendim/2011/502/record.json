@@ -1,0 +1,33 @@
+{
+  "qbz_id": 13604,
+  "title": "PËR MIRATIMIN E RREGULLORES UNIFORME TË KONTROLLIT TË ZHVILLIMIT TË TERRITORIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "502",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-07-13",
+  "published": "2011-08-22",
+  "in_force": "2011-08-22",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 30 shtator 2011\": the publication day (its effects reach back to 30 shtator 2011)",
+  "source": "https://qbz.gov.al/files/415c26fdf3e9afeddd24ab9d0a4cc9720369ca6b1542bb696e589dc2b0841df3.docx",
+  "source_sha256": "415c26fdf3e9afeddd24ab9d0a4cc9720369ca6b1542bb696e589dc2b0841df3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13604",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/07/13/502",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10857,
+    9689,
+    9459,
+    8201,
+    54953,
+    7840
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
