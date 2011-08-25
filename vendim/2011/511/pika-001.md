@@ -1,0 +1,1 @@
+1. Adoptimin e eurokodeve-standardeve europiane të projektimit, së bashku me anekset kombëtare (Eurokodi 0-3), për plotësimin e kërkesave themelore që kanë të bëjnë me: rezistencën dhe qëndrueshmërinë mekanike; sigurinë nga zjarri; higjienën, shëndetin dhe mjedisin; sigurinë në përdorim; mbrojtjen nga zhurmat; kursimin e energjisë dhe ruajtjen e ngrohtësisë.

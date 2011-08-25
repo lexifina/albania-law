@@ -1,0 +1,1 @@
+2. Shpenzimet operative prej 20 (njëzet) milionë lekësh për përkthimin, redaktimin, përshtatjen dhe hartimin e anekseve kombëtare të eurokodeve, të përballohen nga shpenzimet korente të miratuara për Ministrinë e Punëve Publike dhe Transportit, në programin “Strehimi dhe urbanistika”, të cilat t’i kalojnë Entit Kombëtar të Banesave për këtë qëllim.
