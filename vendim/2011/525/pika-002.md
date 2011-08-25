@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 6 (gjashtë) pikësh, për rezultatin ekonomik, financiar, teknik dhe mjedisor, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), që i jepet shoqërisë “GRUPPOMAIO. AL” sh.p.k., Tiranë.
