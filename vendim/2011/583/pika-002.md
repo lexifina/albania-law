@@ -1,0 +1,1 @@
+2. Pasuria e paluajtshme me emërtimin ish-Kantieri Detar Durrës dhe Akutorium, t’i nënshtrohet përmirësimeve në dobi të zhvillimit të masterplanit të miratuar me vendimin nr.546, datë 28.5.2009 të Këshillit të Ministrave “Për miratimin e masterplanit për zhvillimin e Portit të Durrësit”, dhe zgjidhjeve efektive që rrisin rentabilitetin e portit.
