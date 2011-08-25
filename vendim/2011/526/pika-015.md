@@ -1,0 +1,1 @@
+15. Ministri i Arsimit dhe Shkencës për raste të veçanta, kur vendimet e këshillave të njësive të qeverisjes vendore dërgohen jashtë afatit të përcaktuar në këtë vendim, ka të drejtë të shqyrtojë dhe të rivendosë në afat përfitimin e bursës për nxënësin/studentin.
