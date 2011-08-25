@@ -1,0 +1,5 @@
+VENDIM
+Nr.532, datë 13.7.2011
+PËR MIRATIMIN E KONTRATËS SË KONCESIONIT “PËR MENAXHIMIN, OPERIMIN, MIRËMBAJTJEN DHE PËRMIRËSIMIN TEKNIK TË TERMINALIT TË KONTEInERËVE NË POrTIN E DURRËSIT”, TË LIDHUR NDËRMJET MINISTRISË SË PUNËVE PUBLIKE DHE TRANSPORTIT DHE BASHKIMIT TË PËRKOHSHËM TË SHOQËRIVE “DURRËS KURUM SHIPPING” SHA DHE “GLOBAL PORTS HOLDING” SHA
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 21, pika 4 e 27 të ligjit nr.9663, datë 18.12.2006 “Për koncesionet”, të ndryshuar, me propozimin e Ministrit të Punëve Publike dhe Transportit, Këshilli i Ministrave
+VENDOSI:
