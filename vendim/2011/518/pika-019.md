@@ -1,0 +1,2 @@
+19. Zyra përkatëse e punësimit për ripërtëritjen e lejes së punës të tipit C/PSH apo refuzimin e saj brenda një periudhe prej 30 (tridhjetë) ditësh pune, ndjek procedurat e parashikuara në pikat 8, 9, 10, 11 dhe 12 të këtij vendimi, ndërsa vlerësimi për kriteret dhe dokumentacionin do të bëhet sipas përcaktimeve në pikat 2, 5 ose 6, 9 dhe 20 të këtij vendimi.
+Afati i vlefshmërisë së lejes së ripërtërirë të punës për punëtorët shtëpiakë është njëvjeçar.

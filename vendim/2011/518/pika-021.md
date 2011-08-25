@@ -1,0 +1,2 @@
+21. Të huajit i anulohet leja e punës e tipit C/PSH, nëse vërtetohet njëra nga situatat e përcaktuara në pikën 1 të nenit 64 të ligjit nr.9959, datë 17.7.2008.
+Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, pasi njoftohen nga autoritetet shtetërore përgjegjëse për vërtetimin e njërës nga situatat e përcaktuara në pikën 1 të nenit 64 të ligjit nr.9959, datë 17.7.2008 “Për të huajt”, merr vendim për anulimin e lejes së punës.

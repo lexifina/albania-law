@@ -1,0 +1,1 @@
+14. Drejtoria përgjegjëse për çështjet e migracionit në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta ia përcjell dokumentacionin e paraqitur zyrës përkatëse të punësimit, sipas kompetencës territoriale që ato kanë.

@@ -1,0 +1,1 @@
+16. Zyra përkatëse e punësimit, nëpërmjet drejtorisë përgjegjëse për çështjet e migracionit në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, përcjell në Ministrinë e Punëve të Jashtme njoftimin për pajisjen/refuzimin e lejes së punës të tipit C/PSH.
