@@ -1,0 +1,1 @@
+1. Miratimin e disa ndryshimeve në autorizimin dhënë “Enpower Albania” sh.p.k., filiali “Moncada Energy Group”, Itali të miratuar me vendimin nr.512, datë 13.5.2009 të Këshillit të Ministrave “Për miratimin e autorizimit të ndërtimit të centralit elektrik me erë (parqe eolike) për “Enpower Albania” sh.p.k., të ndryshuar, sipas tekstit që i bashkëlidhet këtij vendimi.
