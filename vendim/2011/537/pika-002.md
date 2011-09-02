@@ -1,0 +1,1 @@
+2. Dhënien e bonusit prej 2 (dy) pikëve për rezultatin teknik dhe financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar) që i jepet shoqërisë “Hidrotimb” sh.p.k., për dhënien me koncesion të këtyre hidrocentraleve.
