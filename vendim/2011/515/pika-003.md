@@ -1,0 +1,1 @@
+3. “W.E.T-T” sh.p.k., të paguajë për sipërfaqen që hiqet nga fondi pyjor dhe kullosor, si pasojë e ushtrimit të veprimtarive të parashikuara, tarifat e llogaritura sipas lidhjes 4 të vendimit nr.391, datë 21.6.2006 të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.
