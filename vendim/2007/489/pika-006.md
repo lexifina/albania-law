@@ -1,1 +1,1 @@
-6. Albinvest do të luaj rolin e sekretarisë teknike të Komitetit të Vlerësimit dhe Miratimit të Garancive dhe do të përgjigjet për përmbushjen e kushteve të dhënies së garancive nga ndërmarrjet përfituese.
+6. Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA) do të luaj rolin e sekretarisë teknike të Komitetit të Vlerësimit dhe Miratimit të Garancive dhe do të përgjigjet për përmbushjen e kushteve të dhënies së garancive nga ndërmarrjet përfituese.
