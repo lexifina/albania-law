@@ -1,0 +1,1 @@
+5. IAL-të private i dërgojnë Agjencisë Kombëtare të Provimeve (AKP), brenda datës 24 dhjetor 2011, një listë të studentëve të regjistruar, në formë shkresore dhe elektronike (hardcopy dhe në CD). AKP-ja, brenda datës 25 janar 2012, u dërgon IAL-ve private listën përkatëse me numrat e matrikullimit të studentëve.

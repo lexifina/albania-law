@@ -1,0 +1,1 @@
+7. IAL-të private i dërgojnë AKP-së një listë të studentëve të regjistruar, në formë shkresore dhe elektronike (hardcopy dhe në CD). AKP-ja, brenda 3 javësh, u dërgon IAL-ve private listën përkatëse me numrat e matrikullimit të studentëve.

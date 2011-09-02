@@ -1,0 +1,1 @@
+9. IAL-të private regjistrojnë studentët në regjistrin bazë në përputhje me përcaktimet e udhëzimit nr.19, datë 18.7.2007 të Ministrit të Arsimit dhe Shkencës “Për gjenerimin dhe dhënien e numrave të matrikullimit” dhe të urdhrit nr.150, datë 7.4.2008 të Ministrit të Arsimit dhe Shkencës “Për përcaktimin e kodit të regjistrave të studentëve në IAL”.
