@@ -1,0 +1,2 @@
+4. Me hyrjen në fuqi të këtij vendimi, “Hydro Energy”, sh.p.k., brenda 3 (tre) viteve, me fondet e veta, të pyllëzojë 10 (dhjetë) ha me pyje, në ngastrat e përcaktuara nga drejtoria përkatëse e shërbimit pyjor, në bashkëpunim me njësinë e qeverisjes vendore.
+Lloji i drurëve që do të mbillen dhe grafiku i mbjelljeve caktohen nga drejtoria përkatëse e shërbimit pyjor, në bashkëpunim me njësinë e qeverisjes vendore, e cila ndjek mbjelljet deri në marrjen në dorëzim me procesverbal të sipërfaqes së pyllëzuar, sipas marrëveshjes që do të lidhë me kërkuesin.

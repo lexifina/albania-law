@@ -1,0 +1,1 @@
+3. Të përfundojë procedura e pagesës për sipërfaqen e hequr nga fondi pyjor e kullosor, që do të përdoret prej shoqërisë “Hydro Energy”, sh.p.k., në bazë të lidhjes nr.4 të vendimit nr.391, datë 21.6.2006 të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe të kullotave”, të ndryshuar.
