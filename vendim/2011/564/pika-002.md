@@ -1,0 +1,1 @@
+2. Miratimin e bounsit prej 2% të pikëve, për rezultatin teknik dhe financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar), që i jepet shoqërive “Pashkashesh” sh.p.k., dhe “Arilta B” sh.p.k., për dhënien me koncesion të këtij hidrocentrali.
