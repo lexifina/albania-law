@@ -1,1 +1,0 @@
-3. Tarifa për çdo vlerësim, e llogaritur sipas pikës 1 dhe pikës 2 të këtij udhëzimi, arkëtohen para procesit të vlerësimit, pranë bankave të nivelit të dytë ose zyrave të Postës Shqiptare, për degën e thesarit Tiranë, për llogari të Agjencisë Publike të Akreditimit të Arsimit të Lartë.
