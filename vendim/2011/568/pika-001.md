@@ -1,0 +1,1 @@
+1. Dhënien e licencës për hapjen, në qytetin e Tiranës, të institucionit arsimor privat, parauniversitar, shkollë e mesme e përgjithshme “Gjimnazi franko-shqiptar “Ernest Koliqi”, që do të përfshijë në programin mësimor edhe lëndë në gjuhë të huaj.
