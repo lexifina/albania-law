@@ -1,0 +1,1 @@
+11. Udhëzimi i përbashkët nr.2, datë 18.1.2011 i Ministrit të Arsimit dhe Shkencës dhe Ministrit të Financave “Për përcaktimin e tarifave të vlerësimit dhe akreditimit për shkollat e larta jopublike”, shfuqizohet.

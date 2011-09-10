@@ -1,0 +1,1 @@
+6. Tarifa për çdo vlerësim, e llogaritur sipas pikës 2 dhe 3 të këtij udhëzimi, arkëtohet para fillimit të procesit të aplikimit në APAAL, pranë bankave të nivelit të dytë ose zyrave të postës shqiptare, për Degën e Thesarit Tiranë, për llogari të Agjencisë Publike të Akreditimit të Arsimit të Lartë.

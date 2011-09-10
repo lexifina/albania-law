@@ -1,0 +1,3 @@
+4.Konsulenca të Agjencisë të Akreditimit të Arsimit të Lartë që nuk përfshihen në kategoritë e lartëpërmendura
+93,000
+4. Kur pas vlerësimit paraprak në varësi të pikës 1 të këtij udhëzimi (pikat a-ç) ose pas vlerësimit të jashtëm, në varësi të pikës 2 të këtij udhëzimi (pikat a-ç), Këshilli i Akreditimit ose Ministri i Arsimit dhe i Shkencës, respektivisht sipas kompetencave, vendos kushte për vlerësimin paraprak përfundimtar apo për akreditimin përfundimtar pozitiv dhe nëse institucionit i duhet t’i nënshtrohet sërish procesit të vlerësimit paraprak apo vlerësimit të jashtëm, subjekti paguan sërish por vetëm 35% të tarifës të përcaktuar në varësi të pikave 1 dhe 2 të këtij udhëzimi (pikat a-ç).

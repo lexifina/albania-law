@@ -1,0 +1,1 @@
+8. Pjesa e të ardhurave që i takon Agjencisë Publike të Akreditimit të Arsimit të Lartë evidentohet, autorizohet dhe përdoret me strukturë të veçantë buxhetore në kapitullin 06, “Të ardhurat jashtë limitit”.
