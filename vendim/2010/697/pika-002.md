@@ -1,1 +1,0 @@
-2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondet e parashikuara në buxhetin e vitit 2010, miratuar për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve te Barabarta, në grupin 25, titull 10 550 kap.1, art 606 “E ardhura nga papunësia”.
