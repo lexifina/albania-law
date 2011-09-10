@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në procedurën konkurruese, për dhënien me koncesion të hidrocentraleve “Quku nr.1” dhe “Quku nr.2”, të pranojë oferta për të gjithë pjesën e lirë të skemës, ku përfshihet ndërtimi i këtyre hidrocentraleve.
