@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, janë vetëm për pensionet që caktohen me datë fillimi nga 1.1.2011 dhe përballohen nga buxheti i vitit 2011, miratuar për Institutin e Sigurimeve Shoqërore.
