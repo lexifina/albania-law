@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2011, institucionit të prefektit të qarkut të Korçës, t’i akordohet fondi financiar shtesë prej 300 000 (treqind mijë) lekësh, për dhënie ndihme financiare familjes së viktimës Liljana Albert Arapi, për mbulimin e shpenzimeve të ceremonisë mortore të viktimës.
