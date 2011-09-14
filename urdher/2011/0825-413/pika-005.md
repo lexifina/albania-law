@@ -1,0 +1,1 @@
+5. Institucionet Publike të Arsimit të Lartë që zhvillojnë konkurse pranimi për të gjitha ose disa programe studimi të ciklit të parë, me kohë të plotë, të pranojnë për konkurrim aplikantë nga trojet shqiptare jashtë vendit, edhe në rastet kur ndonjëra prej trojeve nuk ka kuotë të përcaktuar në tabelën nr.1, bashkëngjitur këtij urdhri.
