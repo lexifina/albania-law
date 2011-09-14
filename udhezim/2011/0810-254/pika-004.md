@@ -1,0 +1,1 @@
+4. Në rast se këshilli i qarkut nuk konstituohet deri 90 ditë pas shpalljes së rezultatit të zgjedhjeve vendore, prefekti ushtron të gjitha funksionet dhe kompetencat e këtij këshilli deri në çastin e konstituimit.

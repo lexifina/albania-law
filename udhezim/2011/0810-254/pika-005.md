@@ -1,0 +1,1 @@
+5. Prefekti dërgon te kryetari i bashkisë, qendër e qarkut, dhe sekretari i këshillit të qarkut, vendimet e këshillave përkatës për përfaqësuesit që ata kanë caktuar në këshillin e qarkut, si dhe listën e kryetarëve të bashkive e komunave të juridiksionit të qarkut.

@@ -1,0 +1,1 @@
+3. Mbledhja duhet të thirret menjëherë sapo kryetari i bashkisë, qendër e qarkut ka marrë dokumentacionin e nevojshëm nga prefekti dhe jo me vonë se 50 ditë nga shpallja e rezultatit përfundimtar të zgjedhjeve nga KQZ-ja.
