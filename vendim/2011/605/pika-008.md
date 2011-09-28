@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë prej 41.2 (dyzet e një pikë dy) m2 truall 34 (tridhjetë e katër) m2 objekt dhe mure rrethuese, shpronësuar në favor të bashkisë së Shkodrës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
