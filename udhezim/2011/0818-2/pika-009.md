@@ -1,0 +1,1 @@
+9. Njësia shpenzuese, me përparësi në vitet e ardhshme, planifikon fondet e nevojshme për shlyerjen e këtyre detyrimeve të mbartura, duke ndjekur procedurat përkatëse të planifikimit të fondeve buxhetore, të përcaktuara në aktet ligjore e nënligjore përkatëse. Këto parashikime i bëhen të njohura edhe njësisë së qeverisjes së përgjithshme nga e cila varet.
