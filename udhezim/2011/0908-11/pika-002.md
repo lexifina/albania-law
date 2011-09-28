@@ -1,0 +1,1 @@
+2. Ky udhëzim zbatohet për përpunimin e të dhënave personale të punonjësve që mbartin informacionet që merr punëdhënësi në procedurën e marrjes në punë të punonjësve, si dhe gjatë procesit të punës në zbatim të kontratave të punës me punëmarrësit.

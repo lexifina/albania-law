@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave mbi përpunimin e të dhënave personale të punonjësve (grumbullimi, regjistrimi, ruajtja, renditja, përshtatja, ndreqja, këshillimi, shfrytëzimi, përdorimi, bllokimi, fshirja ose shkatërrimi, transmetimi etj.) të punësuar në sektorin privat.

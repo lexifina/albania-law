@@ -1,0 +1,3 @@
+13. Informacioni
+13.1 Punëdhënësi është i detyruar t’i japë punonjësit, para se të procedojë në përpunimin e të dhënave lidhur me të (edhe në lidhje me raste të cilat ligji nuk kërkon pëlqimin), një informacion individual të plotësuar me elementet e treguara në nenin 18 të ligjit nr.9887, datë 10.3.2008 “Për mbrojtjen e të dhënave personale”.
+13.2 Për subjektet private, në të cilat, për arsye organizative ose të përmasave, mund të rezultojë e vështirë për punonjës të veçantë ushtrimi i të drejtave të tyre (sipas neneve 12-17 të ligjit nr.9887 datë 10.3.2008 “Për mbrojtjen e të dhënave personale”), mund të caktohet një përgjegjës posaçërisht për trajtimin e të tilla rasteve duke e shprehur qartësisht në informacionin e dhënë.

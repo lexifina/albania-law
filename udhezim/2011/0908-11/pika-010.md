@@ -1,0 +1,6 @@
+10. Kamera vëzhgimi në vendin e punës
+10.1 Punëdhënësi mund të përdorë një sistem të vëzhgimit të vazhdueshëm në ambientet e punës bazuar në përdorimin e pajisjeve teknike që transmetojnë imazhe ose të dhëna (kamera survejimi) për qëllim të sigurisë personale të punonjësve dhe të personave të tjerë në këto ambiente për mbrojtjen e pronës dhe për parandalimin ose hetimin e situatave që rrezikojnë sigurinë.
+10.2 Kamera e vëzhgimit nuk mund të përdoret për mbikëqyrjen e një punonjësi në vendin e punës. Kamera e vëzhgimit nuk mund të përdoret në tualete, dhomat e ndërrimit apo vende të tjera të ngjashme, ose në dhomat e punës të caktuara për përdorim personal të punonjësve.
+10.3 Pavarësisht nga paragrafi 10.1, punëdhënësi mundet të drejtojë kamerën e vëzhgimit në një vend pune të veçantë, në të cilin punonjësit janë në punë në qoftë se vëzhgimi është thelbësor:
+a) për të parandaluar një kërcënim të dukshëm të dhunës në lidhje me punën e punonjësve, një dëm të dukshëm, rrezik për sigurinë e punonjësve ose të shëndetit të tyre;
+b) për mbrojtjen e interesave dhe të drejtave të punonjësve, kur kamera e vëzhgimit është e bazuar në kërkesën e punonjësit, i cili është subjekt i mbikëqyrjes dhe çështja është rënë dakord midis punëdhënësit dhe punonjësit.
