@@ -1,0 +1,1 @@
+11. Në shtojcat e këtij udhëzimi, “sasi e dëshirueshme” do të thotë që niveli maksimal nuk është specifikuar. Megjithatë, aditivët do të përdoren në përputhje me praktikat e mira të prodhimit, në një nivel jo më të lartë sa është e domosdoshme për të arritur qëllimin dhe të sigurohet që kjo nuk do të çorientojë konsumatorin.
