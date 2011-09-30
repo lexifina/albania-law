@@ -1,0 +1,4 @@
+# Neni 12
+Detyrimet e ruajtjes së të dhënave
+Subjektet duhet të ruajnë dokumentacionin për identifikimin, llogaritë, si edhe korrespodencën me klientin për 5 vjet nga data e mbylljes së llogarisë apo përfundimit të marrëdhënies së biznesit ndërmjet klientit dhe subjektit. Me kërkesën e autoritetit përgjegjës, dokumentacioni ruhet nga subjektet për më shumë se 5 vjet.
+Të dhënat e siguruara për klientët nga subjektet dhe masat e marra prej tyre në zbatim të neneve 4, 5, 6, 7 dhe 8 të ligjit nr.9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar, dokumentohen, administrohen rregullisht dhe vihen në dispozicion të autoritetit përgjegjës mbi bazë të kërkesës së këtij të fundit, jo më vonë se 15 ditë kalendarike, apo si dokumente shtesë për arsyetimin e dyshimeve rast pas rasti.
