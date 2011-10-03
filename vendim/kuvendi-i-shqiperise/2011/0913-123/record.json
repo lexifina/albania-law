@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13716,
+  "title": "PËR ZGJEDHJEN E NJË ANËTARI TË BORDIT TË AUTORITETIT TË MBIKËQYRJES FINANCIARE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "123",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-09-13",
+  "published": "2011-10-03",
+  "in_force": "2011-10-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/04d87c28d5dde6a0f85232e8d2cc70934726c1ccc6e16a27c830018b775dec90.docx",
+  "source_sha256": "04d87c28d5dde6a0f85232e8d2cc70934726c1ccc6e16a27c830018b775dec90",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13716",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/09/13/123",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
