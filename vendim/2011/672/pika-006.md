@@ -1,0 +1,1 @@
+6. Kuotat e pranimeve për romët dhe ballkano-egjiptianët ndahen nga Ministria e Arsimit dhe Shkencës, në bazë të listës së hartuar nga shoqatat përkatëse: Shoqata Kombëtare e Romëve dhe Shoqata Kombëtare e Ballkano-Egjiptianëve.

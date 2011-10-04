@@ -1,0 +1,1 @@
+15. Shtetasit e huaj, që do të vazhdojnë studimet e ciklit të dytë në institucionet publike të arsimit të lartë, i nënshtrohen së njëjtës tarifë shkollimi, si shtetasit shqiptarë, me përjashtim të rasteve kur, me marrëveshje ndërshtetërore, është parashikuar ndryshe.

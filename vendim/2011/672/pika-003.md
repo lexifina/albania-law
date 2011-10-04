@@ -1,0 +1,1 @@
+3. Kuotat e pranimeve të reja për programet e studimit “Master profesional” sipas shkronjës “a” të pikës 1 të këtij vendimi, sipas programeve të studimit dhe institucioneve publike të arsimit të lartë, pasqyrohen në kolonën D të tabelës nr.1, bashkëlidhur këtij vendimi.
