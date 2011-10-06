@@ -4,7 +4,7 @@ Nr.8386, datë 30.7.1998
 
 PËR MËNYRËN DHE PROCEDURAT E SHITJE SË PASURIVE TË PERSONAVE JURIDIKË JOBANKARË QË KANË MARRË HUA NGA PUBLIKU I GJERË
 
-(Ndryshuar me ligjin nr. 9553 datë 5.6.2006)
+(Ndryshuar me ligjin nr. 9553 datë 5.6.2006; nr.10 466, datë 6.10.2011)
 
 (I përditësuar)
 
@@ -96,9 +96,9 @@ Neni 9
 
 Vlerësimi
 
-(Shfuqizuar pika 9.2 me ligjin nr. 9553 datë 5.6.2006)
+(Shfuqizuar pika 9.2 me ligjin nr. 9553 datë 5.6.2006; hequr fjalë me ligjin nr.10 466, datë 6.10.2011)
 
-9.1 Pasuria e shoqërisë vlerësohet nga grupi i vlerësimit, i cili përcakton edhe çmimin fillestar të shitjes, çmimi publikohet vetëm kur hapet ankandi.
+9.1 Pasuria e shoqërisë vlerësohet nga grupi i vlerësimit, i cili përcakton edhe çmimin fillestar të shitjes, çmimi publikohet.
 
 9.2 Shfuqizuar.
 
