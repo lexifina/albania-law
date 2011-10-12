@@ -1,0 +1,1 @@
+11. Tarifat e shkollimit për të gjitha programet e studimit të ciklit të parë, me kohë të pjesshme dhe edukimit në distancë, për vitin akademik 2011-2012, përcaktohen me urdhër të përbashkët të Ministrit të Arsimit dhe Shkencës dhe të Ministrit të Financave.
