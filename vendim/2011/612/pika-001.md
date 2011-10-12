@@ -1,0 +1,1 @@
+1. Përcaktimin e kërkesave të hollësishme, që duhet të plotësojnë plehrat me bazë nitrat amoni, me përmbajtje mbi 28 për qind në masë të azotit, sipas aneksit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
