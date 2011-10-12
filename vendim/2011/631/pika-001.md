@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2011, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 1 200 000 (një milion e dyqind mijë) lekësh, për përballimin e shpenzimeve të kurimit të z. Musa Ulqini.
