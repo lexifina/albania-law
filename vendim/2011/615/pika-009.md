@@ -1,0 +1,1 @@
+9. Informacioni i përcaktuar sipas pikës 7 të këtij vendimi, i sigurohet konsumatorit në kohën e duhur, përpara se ai të ngarkohet me ndonjë detyrim sipas kontratës. Informacioni jepet në gjuhën shqipe.

@@ -1,0 +1,1 @@
+6. Për rastet sipas pikës 3 të këtij vendimi, dhe kur nuk është kryer asnjë veprim i së njëjtës natyrë për më shumë se një vit, veprimi pasues në një seri të re veprimesh konsiderohet të jetë i pari dhe, në këtë rast, zbatohen pikat 7, 8, 9 dhe 10 të këtij vendimi.

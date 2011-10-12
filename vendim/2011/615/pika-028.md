@@ -1,0 +1,1 @@
+28. Tregtari, jo më vonë se 30 (tridhjetë) ditë kalendarike duke filluar nga data, kur ai merr njoftimin e heqjes dorë së konsumatorit, i kthen konsumatorit çdo shumë dhe/ose pronë që ai ka marrë prej tij, në përputhje me kontratën në largësi, me përjashtim të shumës së përcaktuar në pikat 23 dhe 24 të këtij vendimi.

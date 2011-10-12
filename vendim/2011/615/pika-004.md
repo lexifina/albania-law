@@ -1,0 +1,1 @@
+4. Dispozitat e këtij vendimi zbatohen edhe për kontratat në largësi, që shtojnë elemente të reja në marrëveshjen fillestare, sipas pikës 3 të këtij vendimi, për ofrimin e një shërbimi financiar në largësi.

@@ -1,0 +1,1 @@
+23. Kur konsumatori ushtron të drejtën e tij të heqjes dorë nga një kontratë për shërbimet financiare në largësi, sipas përcaktimeve në pikat 17 dhe 18 të këtij vendimi, konsumatorit i kërkohet t’i paguajë tregtarit vetëm vlerën e shërbimit financiar, të ofruar sipas kontratës.

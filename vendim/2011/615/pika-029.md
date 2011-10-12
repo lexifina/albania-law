@@ -1,0 +1,1 @@
+29. Konsumatori i kthen tregtarit çdo shumë dhe/ose pronë, që ai ka marrë sipas kontratës në largësi, jo më vonë se 30 (tridhjetë) ditë kalendarike nga data kur konsumatori njofton për heqjen dorë nga kontrata në largësi.

@@ -1,0 +1,1 @@
+3. Dispozitat e këtij vendimi, për rastin e kontratave të shërbimeve financiare në largësi, që përmbajnë një marrëveshje fillestare shërbimi, të ndjekur nga veprime të njëpasnjëshme ose një numër veprimesh të veçanta të së njëjtës natyrë, të kryera me kalimin e kohës, zbatohen vetëm për marrëveshjen fillestare.

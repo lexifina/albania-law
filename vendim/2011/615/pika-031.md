@@ -1,0 +1,1 @@
+31. Nëse kërkesat e përcaktuara në pikat 7, 9, 10, 11, 12 dhe 13 të këtij vendimi, nuk janë zbatuar, konsumatori mund të anulojë kontratën, pa penalizim, brenda një muaji nga mbarimi i periudhës së përcaktuar në pikat 17 dhe 18 të këtij vendimi.

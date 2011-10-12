@@ -1,0 +1,1 @@
+11. Tregtari e njofton konsumatorin për të gjitha kushtet e kontratës dhe për informacionin e përcaktuar në pikat 7, 8, 9 dhe 10 të këtij vendimi, me shkrim apo me një mjet tjetër të qëndrueshëm, të disponueshëm dhe të arritshëm për konsumatorin, në një kohë të arsyeshme përpara se konsumatori të pranojë ndonjë ofertë ose të lidhë kontratën për shërbimet financiare në largësi.

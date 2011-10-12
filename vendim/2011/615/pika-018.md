@@ -1,0 +1,3 @@
+18. Konsumatori ka të drejtë, që, për pensionin vullnetar ose për sigurimin e jetës, sipas përcaktimeve në shkronjën “c” të pikës 3 të nenit 37 të ligjit nr.9902, datë 17.4.2008 “Për mbrojtjen e konsumatorëve”, të ndryshuar, të heqë dorë nga një kontratë në largësi, brenda një afati prej 30 (tridhjetë) ditësh, pa penalizim dhe pa dhënë arsye, duke filluar nga:
+a) data e lidhjes së kontratës për pensionin vullnetar ose nga çasti që personi i siguruar është i informuar nga siguruesi për lidhjen e kontratës së sigurimit të jetës;
+b) data, kur konsumatori merr informacion për kushtet e kontratës dhe informacionin, sipas pikave 11 dhe 12 të këtij vendimi, në rast se kjo datë është pas datës së lidhjes së kontratës.

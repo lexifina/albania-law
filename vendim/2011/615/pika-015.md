@@ -1,0 +1,1 @@
+15. Informacioni për detyrimet kontraktuale, që u komunikohet konsumatorëve përpara lidhjes së kontratës, duhet të jetë në përputhje me detyrimet e kontratës, të vendosura nga dispozitat e zbatueshme ligjore për kontratën e tregtimit në largësi të shërbimeve financiare, të cilat, me lidhjen e kontratës, prezumohen të zbatueshme në këtë kontratë.

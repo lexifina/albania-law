@@ -1,0 +1,1 @@
+30. Kur konsumatori merr një shërbim financiar pa kërkesën e tij paraprake e të qartë, ai përjashtohet nga çdo detyrim për të paguar tregtarin. Mungesa e përgjigjes nga konsumatori nuk përbën miratim.

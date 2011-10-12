@@ -1,0 +1,1 @@
+5. Pikat 7, 8, 9 dhe 10 të këtij vendimi në rast se nuk ka marrëveshje fillestare për ofrimin e një shërbimi financiar në largësi, por veprime pasuese ose veprime të veçanta të së njëjtës natyrë, të kryera me kalimin e kohës ndërmjet të njëjtave palë kontraktuese, zbatohen vetëm kur është kryer veprimi i parë.

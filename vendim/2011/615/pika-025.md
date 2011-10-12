@@ -1,0 +1,1 @@
+25. Tregtari nuk mund të kërkojë pagesën për shërbimin financiar të ofruar, nëse ai ka filluar zbatimin e kontratës, përpara mbarimit të periudhës së heqjes dorë, sipas përcaktimeve në pikat 17 dhe 18 të këtij vendimi, dhe pa një kërkesë paraprake të konsumatorit.

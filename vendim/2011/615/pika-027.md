@@ -1,0 +1,1 @@
+27. Nëse konsumatori ka ushtruar të drejtën e tij të heqjes dorë nga kontrata në largësi, tregtari nuk mund t’i kërkojë konsumatorit të paguajë për shërbimin e marrë, përderisa ai të mund të provojë se konsumatori është njoftuar në mënyrën e duhur, për shumën që duhet të paguajë.

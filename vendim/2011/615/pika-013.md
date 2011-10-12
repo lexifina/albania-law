@@ -1,0 +1,1 @@
+13. Konsumatorit i jepet e drejta që në çdo kohë gjatë marrëdhënieve kontraktuale, me kërkesën e tij, të marrë me shkrim informacion për kushtet e kontratës. Konsumatorit i jepet e drejta për të ndryshuar mjetin e përdorur të komunikimit në largësi, vetëm në rast se kjo është e papajtueshme me kontratën e lidhur ose me natyrën e shërbimit financiar të ofruar.

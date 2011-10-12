@@ -1,0 +1,1 @@
+36. Informacioni i dhënë përpara lidhjes së kontratës në largësi dhe deklarimet e bëra përmes telefonit, mjeteve të tjera të komunikimit në largësi me zë, lidhjeve video apo postës elektronike regjistrohen me pëlqimin e palës tjetër dhe do të kenë fuqinë e provës, për verifikimin e rrethanave që përmbahen në to.

@@ -1,0 +1,1 @@
+20. Nëse konsumatori ushtron të drejtën e tij të heqjes dorë, njofton tregtarin, përpara mbarimit të afatit të përcaktuar në pikat 17 dhe 18 të këtij vendimi. Afati i fundit konsiderohet të ketë qenë i vënë re nga tregtari, nëse njoftimi, me shkrim apo me një mjet tjetër të qëndrueshëm e të disponueshëm dhe të arritshëm për marrësin, është dërguar përpara mbarimit të afatit.

@@ -1,0 +1,1 @@
+12. Tregtari përmbush detyrimet e tij, sipas pikës 11 të këtij vendimi, menjëherë pas lidhjes së kontratës në largësi, nëse kontrata është lidhur me kërkesën e konsumatorit, duke përdorur një mjet të komunikimit në largësi, që nuk mundëson sigurimin e kushteve të kontratës dhe të informacionit, në përputhje me pikën 11 të këtij vendimi.
