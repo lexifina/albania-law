@@ -1,0 +1,2 @@
+Miratimin e shtesës nr.1 të marrëveshjes së financimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit Europian, për programin kombëtar IPA, 2008, në kuadër të Instrumentit për Asistencën e Parazgjerimit, komponenti I - Asistenca e tranzicionit dhe mbështetjes institucionale, miratuar me vendimin nr.248, datë 6.3.2009 të Këshillit të Ministrave, në kuadër të Instrumentit për Asistencën e Parazgjerimit, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.
