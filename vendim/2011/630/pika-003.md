@@ -1,0 +1,1 @@
+3. Inspektori i Përgjithshëm emërohet, lirohet dhe shkarkohet nga Kryeministri, sipas procedurave të parashikuara në vendimin nr.173, datë 7.3.2003 të Këshillit të Ministrave “Për emërimin, lirimin ose shkarkimin nga detyra të drejtuesve të institucioneve, në varësi të Këshillit të Ministrave, Kryeministrit ose të Ministrit”.
