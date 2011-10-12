@@ -1,0 +1,1 @@
+7. Kuotat e pranimit për shtetasit e huaj, që do të studiojnë në institucionet publike të arsimit të lartë të Republikës së Shqipërisë, në ciklin e dytë të studimeve, sipas shkronjës “ç”, të pikës 1, të këtij vendimi, administrohen nga Ministria e Arsimit dhe Shkencës. Ato shpërndahen në bazë të marrëveshjeve dy apo shumëpalëshe ndërmjet vendeve.

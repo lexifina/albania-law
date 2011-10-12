@@ -1,0 +1,1 @@
+5. Kuotat e pranimeve për personat që nuk shikojnë ndahen për kandidatët me statusin e personave që nuk shikojnë nga Ministria e Arsimit dhe Shkencës, në bazë të listës së hartuar nga Shoqata Kombëtare e të Verbërve.

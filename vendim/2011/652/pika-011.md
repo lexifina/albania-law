@@ -1,0 +1,1 @@
+11. Tarifat e shkollimit për çdo kredit, për studentët, që do të regjistrohen në vitin e parë, për të gjitha programet e studimit të ciklit të dytë “Master i shkencave”/“Master i arteve të bukura”, në vitin akademik 2011-2012, përcaktohen në kolonën F, të tabelës nr.1, bashkëlidhur këtij vendimi.
