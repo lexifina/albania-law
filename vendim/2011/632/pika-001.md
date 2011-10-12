@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2011, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 3 000 000 (tre milionë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të znj. Valentina Londo.
