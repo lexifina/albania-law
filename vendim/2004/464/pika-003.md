@@ -1,1 +1,0 @@
-3. Ushtarakët që dalin në pension apo largohen nga ushtria për arsye shëndetësore ose për shkak të ristrukturimit, kur bëhen ndryshime në strukturë e shkurtime në numrin e personelit të Forcave të Armatosura dhe kanë fituar statusin e ushtarakut, përfitojnë kostum ceremonial, të shoqëruar me shenjat, emblemat dhe dekoracionet përkatëse.
