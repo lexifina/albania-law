@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13755,
+  "title": "Për një ndryshim në vendimin nr.545, datë 11.8.2011 të Këshillit të Ministrave “Për miratimin e strukturës dhe të niveleve të pagave të nëpunësve civilë/nëpunësve, zëvendësministrit dhe nëpunësve të kabineteve, në kryeministri, aparatet e ministrive të linjës, administratën e presidentit, kuvendit, komisionit qendror të zgjedhjeve, prokurorinë e përgjithshme, disa institucione të pavarura, institucionet në varësi të këshillit të ministrave/kryeministrit, institucionet në varësi të ministrave të linjës dhe administratën e prefektit””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "681",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-10-05",
+  "published": "2011-10-14",
+  "in_force": "2011-10-14",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/27789f2f7a71d8b7dfe9fb99d71d473e210246451549028c9955ae9d795f9ceb.docx",
+  "source_sha256": "27789f2f7a71d8b7dfe9fb99d71d473e210246451549028c9955ae9d795f9ceb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13755",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/10/05/681",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
