@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13756,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.922, DATË 19.12.2007 TË KËSHILLIT TË MINISTRAVE “PËR SIGURIMIN E INFORMACIONIT TË KLASIFIKUAR “SEKRET SHTETËROR”, QË PRODHOHET, RUHET, PËRPUNOHET APO TRANSMETOHET NË SISTEMET E KOMUNIKIMIT (INFOSEC)”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "686",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-10-05",
+  "published": "2011-10-14",
+  "in_force": "2011-10-14",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/c2f4fc6ff6f539e91e1dbbf200a7a65e837c368315df1ea65e9dd3f3526a27bf.docx",
+  "source_sha256": "c2f4fc6ff6f539e91e1dbbf200a7a65e837c368315df1ea65e9dd3f3526a27bf",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13756",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/10/05/686",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
