@@ -1,0 +1,1 @@
+6. Akademia Profesionale e Biznesit, Tiranë fillon veprimtarinë mësimore për programet e studimit, të përcaktuara në pikat 3 dhe 4 të këtij vendimi, pasi të ketë marrë jo më vonë se tri javë para fillimit të vitit akademik, lejen përkatëse nga Ministri i Arsimit dhe Shkencës.

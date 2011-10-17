@@ -1,0 +1,1 @@
+8. Akademia Profesionale e Biznesit, Tiranë, duhet t’i nënshtrohet procesit të akreditimit institucional dhe të programeve të studimit, brenda afateve të përcaktuara në ligjin nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, dhe në aktet nënligjore në fuqi.
