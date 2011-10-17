@@ -1,0 +1,1 @@
+2. Fondi, në vlerën 27 677 213 lekë (njëzet e shtatë milionë e gjashtëqind e shtatëdhjetë e shtatë mijë e dyqind e trembëdhjetë) lekë përballohet nga Fondi i Kontigjencës, i miratuar në buxhetin e vitit 2011.
