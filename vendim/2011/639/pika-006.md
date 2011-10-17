@@ -1,0 +1,1 @@
+6. Specialistët e ZKT-së përzgjidhen nga EACEA-ja, nëpërmjet procedurave të saj të brendshme, në bashkëpunim me koordinatorin lokal të ZKT-së. Marrëdhëniet e punës së specialistëve të ZKT-së rregullohen në bazë të Kodit të Punës të Republikës së Shqipërisë.

@@ -1,0 +1,1 @@
+1. Riorganizimin e Zyrës Kombëtare Tempus (ZKT), si person juridik, jobuxhetor, në varësi të Ministrit të Arsimit dhe Shkencës, e cila përfaqëson palën shqiptare pranë Komisionit Europian (KE) për Programin Tempus, në kuadër të marrëveshjes së nënshkruar për këtë qëllim.

@@ -1,0 +1,1 @@
+5. Drejtor i Zyrës Kombëtare Tempus (ZKT) është koordinatori lokal i programit Tempus, i cili emërohet nga EACEA-ja, si kandidaturë e përzgjedhur nëpërmjet procedurave të saj të brendshme në konsultim me Ministrinë e Arsimit dhe Shkencës.

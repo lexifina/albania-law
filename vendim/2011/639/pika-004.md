@@ -1,0 +1,1 @@
+4. Struktura dhe rregullorja e funksionimit të ZKT-së miratohen me urdhër të Ministrit të Arsimit dhe Shkencës, në përputhje me termat e referencës së KE-së për zyrat kombëtare Tempus, pas konsultimit me EACEA-në.
