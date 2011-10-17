@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Pogon, të qarkut të Gjirokastrës, që transferohen në pronësi ose në përdorim të kësaj komune, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista me 136 (njëqind e tridhjetë e gjashtë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 978 (nëntëqind e shtatëdhjetë e tetë).
