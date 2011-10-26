@@ -1,0 +1,1 @@
+8. Bashkia Kamëz, si përfituesi për të cilin kryhet procedura e shpronësimit, të kryejë regjistrimin e pasurisë së paluajtshme që shpronësohet pranë Zyrës Qendrore të Regjistrimit të Pasurive të Paluajtshme, Tiranë.
