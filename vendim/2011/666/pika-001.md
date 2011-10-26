@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion të formës “BOT” (ndërtim, operim dhe transferim) të hidrocentraleve “Kaskada e HEC-eve të Hotolishtit”, është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.

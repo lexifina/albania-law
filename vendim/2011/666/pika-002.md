@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 pikëve për rezultatin teknik dhe financiar, në procedurën përzgjedhëse konkurruese (propozim i pakërkuar), që i jepet shoqërisë “Electral” sh.p.k., për dhënien me koncesion të kësaj kaskade.
