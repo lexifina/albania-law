@@ -1,0 +1,1 @@
+6. Pronari i pasurisë, për të cilën është bërë shënimi “Konfirmuar nga ZVRPP-ja+leje ndërtimi”, të kompensohet, për efekt shpronësimi, në bazë të dokumentacionit të pronësisë, si dhe atij tekniko-ligjor.

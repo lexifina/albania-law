@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 52 457 763 (pesëdhjetë e dy milionë e katërqind e pesëdhjetë e shtatë mijë e shtatëqind e gjashtëdhjetë e tre) lekësh, të përballohet nga buxheti i vitit 2011, “Zëri investime”, miratuar për Ministrinë e Punëve Publike dhe Transportit.
