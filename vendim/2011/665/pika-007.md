@@ -1,0 +1,1 @@
+7. Pronarët e objekteve, për të cilët është bërë shënimi “Konfirmim nga ZVRPP-ja”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
