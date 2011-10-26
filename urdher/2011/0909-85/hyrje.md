@@ -1,0 +1,5 @@
+URDHËR
+Nr.85, datë 9.9.2011
+PËR MIRATIMIN E RREGULLORES “PËR PËRGJEGJËSINË E TRANSPORTUESIT AJROR NË LIDHJE ME TRANSPORTIN AJROR TË PASAGJERËVE DHE BAGAZHEVE TË TYRE”
+Në zbatim të nenit 102, pika 4 të Kushtetutës, të kreut XI të ligjit nr.10 040, datë 22.12.2008 “Kodi Ajror i Republikës së Shqipërisë” dhe në përputhje me ligjin nr.9255, datë 15.7.2004 “Për aderimin e Republikës së Shqipërisë në konventën “Për unifikimin e disa rregullave për transportin ajror ndërkombëtar” (Konventa e Montrealit)” dhe ligjin nr.9658, datë 18.12.2006 “Për ratifikimin e marrëveshjes shumëpalëshe midis Komunitetit Europian dhe shteteve anëtare, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Islandës, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Serbisë, Republikës së Malit të Zi, ish-Republikës Jugosllave të Maqedonisë, Mbretërisë së Norvegjisë, Republikës së Rumanisë dhe Misionit Administrativ të Kombeve të Bashkuara në Kosovë, mbi krijimin e një zone të përbashkët europiane të aviacionit””,
+URDHËROJ:

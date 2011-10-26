@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përgjegjësinë e transportuesit ajror në lidhje me transportin ajror të pasagjerëve dhe bagazheve të tyre”, sipas tekstit dhe aneksit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
