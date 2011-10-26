@@ -1,0 +1,1 @@
+8. Procedurat e aplikimit dhe kriteret për përzgjedhjen e përfituesve përcaktohen në rregulloren e funksionimit të Fondit të Inovacionit, e cila miratohet nga Bordi i Agjencisë Shqiptare të Zhvillimit të Investimeve (më poshtë AIDA).

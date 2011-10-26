@@ -1,0 +1,1 @@
+4. Fondi i Inovacionit u jep ndihmë, në formë subvencioni të drejtpërdrejtë, ndërmarrjeve mikro, të vogla dhe të mesme, deri në 400 000 (katërqind mijë) lekë. Në varësi të vlerësimit për projektin e dorëzuar nga aplikanti/tët, skema mbulon nga 30% deri 50% të kostove të pranueshme dhe të miratuara, brenda kufirit të lartpërmendur.
