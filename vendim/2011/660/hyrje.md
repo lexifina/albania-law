@@ -1,0 +1,5 @@
+VENDIM
+Nr.660, datë 28.9.2011
+PËR KALIMIN NË PRONËSI, NGA MINISTRIA E MBROJTJES Te KOMUNA BËRXULL, TIRANË, TË NJË SIPËRFAQEJE 540 M2, NGA TRUALLI FUNKSIONAL i PRONËS NR.207, ME EMËRTIM “BATERIA 57 MM E REPARTIT USHTARAK NR.3030” NË DOMJE, TIRANË, DHE PËR NJË NDRYSHIM NË VENDIMIN NR.515, DATË 18.7.2003 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË MBROJTJES”, TË NDRYSHUAR
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 2, shkronja “c”, 3, 5, 7 e 8 të ligjit nr.8744 “Për transferimin e pronave të paluajtshme të shtetit në njësitë e qeverisjes vendore”, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:

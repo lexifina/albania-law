@@ -1,0 +1,1 @@
+2. Në listën e inventarit të pronave të paluajtshme, që i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave, të hiqet sipërfaqja truall 540 (pesëqind e dyzet) m2, nga trualli funksional i pronës nr.207, me emërtim “Bateria 57 mm e repartit ushtarak nr.3030” në Domje, Tiranë.

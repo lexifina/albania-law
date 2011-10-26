@@ -1,0 +1,1 @@
+4. Komuna Bërxull, para fillimit të punimeve, të ndërtojë portën hyrëse dhe rrethimin në kufijtë e rinj të pronës, të kryejë spostimin e rrjeteve inxhinierike që prek gjurma e rrugës, sipas parametrave dhe kushteve teknike, duke i kthyer në gjendjen e tyre të mëparshme. Për këtë qëllim, të hartohet aktmarrëveshje e përbashkët me Komandën e Forcës Ajrore.

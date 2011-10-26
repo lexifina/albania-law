@@ -1,0 +1,1 @@
+1. Kalimin në pronësi, nga Ministria e Mbrojtjes te komuna Bërxull, Tiranë, të sipërfaqes truall (S2), 540 (pesëqind e dyzet) m2, nga trualli funksional i pronës nr.207, me emërtim “Bateria 57 mm e repartit ushtarak nr.3030” në Domje, Tiranë, sipas genplanit që i bashkëlidhet këtij vendimi, për ta përdorur për nevoja urbanistike, ndërtim rruge publike.
