@@ -1,0 +1,1 @@
+1. Dhënien e një ndihme financiare, prej 4 000 000 (katër milionë) lekësh, familjes së të ndjerit, rreshter Agim Mekollari, ish-efektiv i Qendrës së Asgjësimit të Municioneve dhe Eksplozivëve, në Brigadën Logjistike të Forcave të Armatosura, i cili ka humbur jetën në krye të detyrës, në poligonin e asgjësimit të municioneve në Bigaz, Skrapar.
