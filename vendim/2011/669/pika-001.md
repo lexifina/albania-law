@@ -1,0 +1,1 @@
+1. Përcaktimin e të dhënave që jepen në etiketën e vendosur në paketimin për detergjentin, që bëhet i disponueshëm për konsumatorin, dhe informacionin që jepet për të dhënat e përbërësve në detergjente.

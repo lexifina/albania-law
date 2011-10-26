@@ -1,0 +1,1 @@
+10. Kërkesat e parashikuara në pikën 9 të këtij vendimi, nuk zbatohen për detergjentet industriale që përmbajnë lëndë tensioaktive ose për lëndët tensioaktive për detergjentet industriale, për të cilat ekziston një pasqyrë e të dhënave teknike ose një pasqyrë e të dhënave të sigurisë.

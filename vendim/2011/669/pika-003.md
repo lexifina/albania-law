@@ -1,0 +1,1 @@
+3. Për detergjentet industriale, të cilat nuk bëhen të disponueshme për konsumatorin, nuk është i nevojshëm plotësimi i kërkesave të parashikuara në pikën 2 të këtij vendimi, në qoftë se informacioni i njëvlershëm me to është dhënë në pasqyrën e të dhënave teknike, të dhënave të sigurisë apo në një mënyrë tjetër të përshtatshme.
