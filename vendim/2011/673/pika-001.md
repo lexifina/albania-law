@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2011, t’i shtohet fondi prej 4 000 000 (katër milionë) lekësh, për riparimin e mbulesës së sallës së madhe të koncerteve, në Pallatin e Kongreseve.
