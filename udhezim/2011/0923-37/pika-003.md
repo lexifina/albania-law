@@ -1,0 +1,1 @@
+3. Viti akademik 2011-2012 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të dytë “Master Profesional” dhe “Master i Shkencave/Master i Arteve të Bukura”, të fillojë jo më vonë se 2 nëntor 2011 dhe të përfundojnë me realizimin e plotë të programit mësimor në varësi të krediteve të miratuara për programin e studimit.
