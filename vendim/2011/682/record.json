@@ -1,0 +1,26 @@
+{
+  "qbz_id": 54888,
+  "title": "Për një shtesë në vendimin nr.472, datë 2.7.2011 të Këshillit të Ministrave “Për disiplinimin e fondeve buxhetore, për vitin 2011”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "682",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-10-05",
+  "published": "2011-11-01",
+  "in_force": "2011-11-01",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3bdd3d36a37202ebc52374b145402a0a781cf28e6a6bb55209c225935e272c44.docx",
+  "source_sha256": "3bdd3d36a37202ebc52374b145402a0a781cf28e6a6bb55209c225935e272c44",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54888",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/10/05/682",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
