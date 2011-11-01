@@ -1,0 +1,1 @@
+5. Në qoftë se kandidati nuk ka diplomë të Maturës Shtetërore apo dëftesë pjekurie të shkollës së mesme, duhet të paraqesë dublikatë të saj të lëshuar nga drejtoria e shkollës së mesme dhe të vërtetuar në drejtorinë arsimore rajonale/zyra arsimore përkatëse, ose listën e notave të shkollës së mesme lëshuar nga Arkivi i Shtetit.

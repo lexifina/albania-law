@@ -1,0 +1,1 @@
+12. Regjistrimi i kandidatëve fitues të bëhet vetëm me diplomën e Maturës Shtetërore dhe dëftesën e pjekurisë origjinale të shkollës së mesme, me përjashtim të rasteve të parashikuara në pikën 5 të këtij udhëzimi. Dokumentet e kandidatëve jofitues t’u kthehen personave kundrejt kërkesës.

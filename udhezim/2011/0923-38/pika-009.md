@@ -1,0 +1,1 @@
+9. Aplikimi i kandidatëve në programin e studimit me kohë të pjesshme dhe edukimin në distancë, të zhvillohet nga data 17.10.2011 deri në datën 21.10.2011, prej orës 8:00 deri në orën 16:00, pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë.

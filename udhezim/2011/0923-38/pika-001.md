@@ -1,0 +1,4 @@
+1. Pranimin e aplikantëve në programet e studimit të ciklit të parë, në formën e studimit me kohë të pjesshme dhe edukimin në distancë, në institucionet publike të arsimit të lartë, në vitin akademik 2011-2012, në bazë të përzgjedhjes së bërë nga institucionet publike të arsimit të lartë, sipas kritereve të përcaktuara dhe të bëra publike paraprakisht. Kriteret duhet të jenë të afërta me ato që respektohen për pranimin në programet respektive me kohë të plotë. Nuk pranohen aplikime nga kandidatë të shpallur fitues me formularët A2 dhe A3, të regjistruar në listat përfundimtare.
+Kuotat e miratuara me vendimin nr.627, datë 31.8.2011 të Këshillit të Ministrave do të përdoren:
+a) në masën 80% për studentë që nuk janë regjistruar në asnjë program studimi ose nuk kanë përfunduar një të tillë në IAL-të publike, me kohë të plotë ose të pjesshme;
+b) në masën 20% si program i dytë studimi për kandidatë që kanë përfunduar një program studimi universitar.
