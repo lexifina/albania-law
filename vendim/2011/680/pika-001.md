@@ -1,0 +1,1 @@
+1. Masa e shpërblimit të kryetarit dhe anëtarëve të Bordit të Menaxhimit për Kontrollin e Brendshëm Financiar Publik është, përkatësisht, 20 000 (njëzet mijë) lekë dhe 15 000 (pesëmbëdhjetë mijë) lekë, për çdo pjesëmarrje në mbledhje, por jo më shumë se 4 (katër) herë në vit.
