@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi harmonizimin e kërkesave teknike dhe procedurave administrative në fushën e aviacionit civil”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
