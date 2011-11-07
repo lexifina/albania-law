@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 3, datë 7.9.2011, i Këshillit të Ministrave “Për heqjen e mjeteve motorike, të rimorkiove, si dhe të pjesëve të tyre të këmbimit, të dala jashtë përdorimit, që ndodhen pranë rrugëve kombëtare”.
