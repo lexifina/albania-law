@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës në procedurën konkurruese përzgjedhëse për dhënien me koncesion të hidrocentraleve “Iballë 1, 2, 3” dhe “Sapaç 1, 2” të pranojë oferta për të gjithë pjesën e lirë të skemës, ku përfshihet ndërtimi i këtyre hidrocentraleve.
