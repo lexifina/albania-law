@@ -1,1 +1,0 @@
-1. Shtetasit shqiptarë aplikojnë për pasaportë biometrike në zyrat e gjendjes civile pranë bashkive/komunave/njësive bashkiake ku ndodhet regjistri themeltar i shtetasit që do të aplikojë dhe duhet të kenë me vete një fotografi me përmasa 4x5 cm, e cila vendoset nga punonjësi i gjendjes civile në formularin e aplikimit.

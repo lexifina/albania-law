@@ -1,1 +1,0 @@
-9. Formularët e vetëdeklarimit të verifikuar, komisariati i policisë i dërgon me shkresë përcjellëse të listuar, të firmosur e të vulosur nga shefi i komisariatit të policisë brenda tre ditëve, në zyrat e gjendjes civile për fillimin e procedurave të aplikimit dhe pajisjes me pasaportë biometrike dhe brenda 24 orëve për formularët e vetëdeklarimit për aplikimet me emergjencë.

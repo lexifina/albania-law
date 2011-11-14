@@ -1,1 +1,0 @@
-4. Punonjësi i zyrës së gjendjes civile për formularët e vetëdeklarimit, në çdo rast dërgon për verifikim brenda ditës në komisariatin e policisë, ku ka vendbanimin shtetasi aplikues, formularët e vetëdeklarimit për aplikimet e shtetasve të cilët kërkojnë të pajisen me pasaportë biometrike.

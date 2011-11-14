@@ -1,1 +1,0 @@
-6. Gjatë verifikimit punonjësi i policisë, nëpërmjet numrit të telefonit të vendosur nga shtetasi në formularin e vetëdeklarimit apo me njoftime të tjera, kur ka dyshime, për sqarim mund të thërrasë shtetasin në organin e policisë, i cili është i detyruar që t’i përgjigjet thirrjes së policisë për t’u paraqitur dhe të japë sqarimet e kërkuara nga policia.
