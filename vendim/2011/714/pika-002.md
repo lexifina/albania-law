@@ -1,0 +1,1 @@
+2. Sipërfaqja 46 266 (dyzet e gjashtë mijë e dyqind e gjashtëdhjetë e gjashtë) m2, përmendur në pikën 1 të këtij vendimi, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr.120, datë 4.3.2004 të Këshillit të Ministrave.
