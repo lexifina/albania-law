@@ -1,1 +1,0 @@
-2. Shërbimi i transportimit të mësuesve dhe nxënësve kryhet vetëm në rastet e linjave interurbane. Drejtoritë arsimore rajonale dhe zyrat arsimore përcaktojnë hartën e linjave për distancat e përmendura në pikën 1 të këtij vendimi, si dhe listën e mësuesve dhe të nxënësve, që do të lëvizin në këto linja, të miratuar nga drejtorët e shkollave.

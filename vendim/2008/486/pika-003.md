@@ -1,1 +1,0 @@
-3. Shpenzimet dhe fondi limit për këto shërbime prokurohen në mbështetje të ligjit nr.9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar, nga çdo drejtori arsimore rajonale dhe zyrë arsimore, sipas hartës së miratuar të linjave.

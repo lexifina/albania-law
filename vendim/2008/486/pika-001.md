@@ -1,1 +1,0 @@
-1. Shpenzimet e transportimit të mësuesve që punojnë larg vendbanimit, në distancë mbi 4 km, dhe kthehen brenda ditës, si dhe shpenzimet e transportimit të nxënësve që ndjekin arsimin e detyrueshëm larg vendbanimit, në distancë mbi 2 km, të përballohen nga fondet e Buxhetit të Shtetit.
