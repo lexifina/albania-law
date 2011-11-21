@@ -1,0 +1,1 @@
+3. Miratimin e bonusit prej 6.3% të pikëve për rezultatin teknik, financiar dhe mjedisor në procedurën përzgjedhëse konkurruese (propozim i pakërkuar) që i jepet bashkimit të shoqërive “Çabej sh.p.k. dhe ABG, ndërtim sh.p.k.”.

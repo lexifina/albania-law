@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion të ndërtimit dhe shfrytëzimit të Portit të Jahteve në Spille, Kavajë, është Ministria e Punëve Publike dhe Transportit.
