@@ -1,0 +1,1 @@
+1. Shpenzimet për transportin e mësuesve që punojnë jashtë qendrave urbane, larg vendbanimit të përhershëm të tyre, në distancën mbi 5 km, dhe kthehen brenda ditës, si dhe shpenzimet për transportin e nxënësve që ndjekin arsimin bazë larg vendbanimit, në distancën mbi 2 km, të përballohen nga fondet publike.

@@ -1,0 +1,1 @@
+2. Drejtoritë arsimore rajonale dhe zyrat arsimore realizojnë procedurat e prokurimit për shërbimin e transportit të mësuesve dhe nxënësve vetëm në raste të mungesës së linjave qytetase apo linjave rrethqytetase të shërbimit të transportit publik, të licencuara në bazë qarku nga njësitë e qeverisjes vendore/qendrore.
