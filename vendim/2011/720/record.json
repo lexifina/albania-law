@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13906,
+  "title": "PËR DISA SHTESA NË VENDIMIN NR.37, DATË 16.1.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, NË KOMUNËN ZAPOD TË QARKUT TË KUKËSIT”, DHE PËR DISA SHTESA NË VENDIMIN NR.112, DATË 3.2.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE, PYJE DHE KULLOTA, QË DO TË TRANSFEROHEN NË PËRDORIM TË NJËSISË SË QEVERISJES VENDORE KOMUNA ZAPOD TË QARKUT TË KUKËSIT”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "720",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-10-20",
+  "published": "2011-11-21",
+  "in_force": "2011-11-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/5ec539725f1f307df43a2ce584a9cbe40d05cb7fca3f0f6b42084abd977c1f60.docx",
+  "source_sha256": "5ec539725f1f307df43a2ce584a9cbe40d05cb7fca3f0f6b42084abd977c1f60",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13906",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/11/20/720",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
