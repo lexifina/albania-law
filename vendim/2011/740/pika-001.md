@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2011, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 2 000 000 (dy milionë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të z. Drini Karagjozi.
