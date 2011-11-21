@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13907,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.902, DATË 19.2.2007 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE NË KOMUNËN BRADASHESH, TË QARKUT TË ELBASANIT” DHE PËR DISA NDRYSHIME NË VENDIMIN NR.403, DATË 8.4.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE, PYJE DHE KULLOTA, QË DO TË TRANSFEROHEN NË PRONËSI TË NJËSISË SË QEVERISJES VENDORE, KOMUNA BRADASHESH, TË QARKUT TË ELBASANIT”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "721",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-10-20",
+  "published": "2011-11-21",
+  "in_force": "2011-11-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/128209f109c382a7faca71c1c87c756b12f3a593fac26269f5df0426127fd18e.docx",
+  "source_sha256": "128209f109c382a7faca71c1c87c756b12f3a593fac26269f5df0426127fd18e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13907",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/11/20/721",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
