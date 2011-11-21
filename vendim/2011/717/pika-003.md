@@ -1,0 +1,1 @@
+3. Vlera e transferimit të 100% të aksioneve të përcaktohet me ekspertë vlerësues dhe kontabël të autorizuar, të licencuar, dhe miratohet nga Ministri i Financave dhe Ministri i Ekonomisë, Tregtisë dhe Energjetikës. Pagesa e kësaj pakete të aksioneve të bëhet me lekë.

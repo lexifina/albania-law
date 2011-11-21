@@ -1,0 +1,1 @@
+7. Pas nënshkrimit të kontratës së shitblerjes, ngarkohet shoqëria “Ujësjellës-kanalizime” sh.a., Tiranë, të kryejë procedurat përkatëse, sipas legjislacionit në fuqi, në Qendrën Kombëtare të Regjistrimit dhe në shoqërinë “Qendra e Regjistrimit të Aksioneve” sh.a., Tiranë.

@@ -1,0 +1,1 @@
+1. Transferimin e 100% të aksioneve të shoqërisë “HEC, Lanabregas” sh.a., Tiranë, me aksionar të vetëm Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, shoqërisë “Ujësjellës-kanalizimeve” sh.a., Tiranë.
