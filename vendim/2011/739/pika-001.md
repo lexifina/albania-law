@@ -1,0 +1,1 @@
+1. Kryeministrisë, në buxhetin e miratuar për vitin 2011, zëri “Shpenzime korente”, t’i shtohet fondi prej 20 000 000 (njëzet milionë) lekësh, për përballimin e shpenzimeve për shtesën e marrëveshjes së angazhimit, ndërmjet Këshillit të Ministrave dhe studios ligjore “Patton Boggs LTD”, lidhur më datë 12.7.2010, me nr.2711 prot.
