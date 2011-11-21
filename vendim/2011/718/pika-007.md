@@ -1,0 +1,1 @@
+7. Pronarët e objekteve të ndodhura në zonën kadastrale 8270, për të cilat është bërë shënimi “Konfirmuar nga ZVRPP-ja “Kufizohet deri në rregullimin e marrëdhënieve me truallin””, të likuidohen, për efekt shpronësimi, pasi të jetë hequr kufizimi përkatës, si dhe në bazë të dokumentacionit të rifreskuar të pronësisë, që do të dorëzojnë pranë Drejtorisë së Përgjithshme të Rrugëve.

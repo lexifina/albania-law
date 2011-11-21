@@ -1,0 +1,1 @@
+10. Pronarët e pasurive, tokë, për të cilat në kolonën përkatëse është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të likuidohen, për efekt shpronësimi, në bazë të dokumentacionit të rifreskuar të pronësisë, që do të dorëzojnë pranë Drejtorisë së Përgjithshme të Rrugëve.

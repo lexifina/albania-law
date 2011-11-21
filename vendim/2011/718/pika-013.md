@@ -1,0 +1,1 @@
+13. Drejtoria e Përgjithshme e Rrugëve të likuidojë pronarët e pasurive, tokë, për të cilat është bërë shënimi “Konfirmuar nga ZVRPP-ja” dhe pronarët e “objekteve në proces legalizimi”, sipas pikave 9 dhe 10 të këtij vendimi.
