@@ -1,0 +1,1 @@
+2. Ministrisë së Arsimit dhe Shkencës, në buxhetin e miratuar për vitin 2011, në programin buxhetor 09240 “Arsimi profesional”, zëri “Shpenzime korente”, t’i shtohet fondi prej 50 000 000 (pesëdhjetë milionë) lekësh.

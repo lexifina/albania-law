@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit dhe Shkencës, në buxhetin e miratuar për vitin 2011, në programin buxhetor 09230 “Arsimi i mesëm i përgjithshëm”, zëri “Shpenzime korente”, t’i shtohet fondi prej 46 000 000 (dyzet e gjashtë milionë) lekësh.

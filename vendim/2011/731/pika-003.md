@@ -1,0 +1,1 @@
+3. Ministrisë së Arsimit dhe Shkencës, nga buxheti i miratuar për vitin 2011, në programin buxhetor 01110 “Planifikim menaxhim”, zëri “Shpenzime korente”, t’i zbritet fondi prej 79 000 000 (shtatëdhjetë e nëntë milionë) lekësh.

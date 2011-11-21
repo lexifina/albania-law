@@ -1,0 +1,1 @@
+5. Ministrisë së Arsimit dhe Shkencës, nga buxheti i miratuar për vitin 2011, në programin buxhetor 09450 “Arsimi i lartë”, zëri “Shpenzime korente”, t’i zbritet fondi prej 15 000 000 (pesëmbëdhjetë milionë) lekësh.

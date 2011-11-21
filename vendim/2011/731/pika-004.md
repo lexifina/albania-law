@@ -1,0 +1,1 @@
+4. Ministrisë së Arsimit dhe Shkencës, nga buxheti i miratuar për vitin 2011, në programin buxhetor 09120 “Arsimi bazë”, zëri “Shpenzime korente”, t’i zbritet fondi prej 2 000 000 (dy milionë) lekësh.
