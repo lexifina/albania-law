@@ -1,1 +1,0 @@
-1. Miratimin e manualeve teknike të çmimeve të punimeve të ndërtimit dhe të analizave teknike të tyre, të rishikuara, sipas tabelave, që i bashkëlidhen këtij vendimi, që do të përdoren për përcaktimin e fondit limit të objekteve në ndërtim.
