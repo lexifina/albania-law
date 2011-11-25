@@ -1,0 +1,1 @@
+1. Licencimin e shkollës së lartë universitare private “Instituti Kanadez i Teknologjisë”, Tiranë, në emër të shoqërisë “T.A.L.M.-Albania”, sh.p.k., e cila do ta ushtrojë veprimtarinë në qytetin e Tiranës.
