@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit nr.13205-FM, datë 14.2.2006 të Gjykatës Ndërkombëtare të Arbitrazhit, për çështjen “Italstrade s.p.a., kundër Republikës së Shqipërisë”, në vlerën 4 000 000 (katër milionë) euro, vlerë për të cilën është rënë dakord sipas marrëveshjes së negocimit me kompaninë “Italstrade” s.p.a., bashkëlidhur këtij vendimi.
