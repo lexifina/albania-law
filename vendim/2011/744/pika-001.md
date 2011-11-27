@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitin 2011, t’i shtohet kundërvlera e fondit 50 000 (pesëdhjetë mijë) dollarë amerikanë, për t’u dhënë si ndihmë financiare për Qeverinë e Republikës Demokratike të Somalisë, për lehtësimin e pasojave të shkaktuara nga thatësira e tejzgjatur.
