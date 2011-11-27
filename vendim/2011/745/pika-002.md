@@ -1,0 +1,1 @@
+2. Këshilli Teknik i Përhershëm i Digave (KTPD) përbëhet nga 5 (pesë) anëtarë, që emërohen, për një mandat 5-vjeçar (pesëvjeçar), nga Ministri i Punëve Publike dhe Transportit, nga të cilët 1 (një) anëtar është përfaqësues i Sekretariatit Teknik të Ujërave, i propozuar nga Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave.

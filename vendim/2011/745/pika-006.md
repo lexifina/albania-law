@@ -1,0 +1,1 @@
+6. Vendimi nr.3, datë 5.1.2002 i Këshillit të Ministrave “Për strukturën e Komitetit Kombëtar të Digave të Mëdha (KKDM)”, i ndryshuar, dhe çdo akt nënligjor, që bie në kundërshtim me këtë vendim, shfuqizohen.
