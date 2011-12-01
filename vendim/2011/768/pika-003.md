@@ -1,0 +1,1 @@
+3. Kuotat e pranimit për kandidatët nga brenda territorit të vendit, gjithsej 1203, pasqyrohen në kolonën D të tabelës nr.1 dhe për kandidatët nga trojet jashtë kufijve të vendit, gjithsej 164, pasqyrohen në kolonën D, të tabelës nr.1, bashkëlidhur këtij vendimi.

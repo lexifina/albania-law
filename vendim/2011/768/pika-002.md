@@ -1,0 +1,1 @@
+2. Kuotat e pranimit, sipas pikës 1 të këtij vendimi, të ndara sipas programeve të studimeve, për çdo institucion publik të arsimit të lartë, pasqyrohen në kolonën F të tabelës nr.1, bashkëlidhur këtij vendimi.

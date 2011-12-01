@@ -1,0 +1,1 @@
+4. Tarifa e shkollimit për programet e studimeve të ciklit të tretë, të doktoratës, për çdo institucion publik të arsimit të lartë, sipas pikës 1, të këtij vendimi, është 208 000 (dyqind e tetë mijë) lekë. Tarifa e shkollimit paguhet në këste të përcaktuar nga institucioni publik i arsimit të lartë.
