@@ -1,0 +1,1 @@
+2. Gjatë ushtrimit të këtij funksioni stafi përkatës duhet të veprojë në përputhje me rregullat transparente, asnjanëse dhe jodiskriminuese, dhe ngarkohet të japë lejë për të përdorur gamën e plotë të infrastrukturës aeroportuale, të nevojshme për të operuar një shërbim ajror, në një datë dhe kohë të caktuar, për qëllimin e uljes apo të ngritjes së avionëve.

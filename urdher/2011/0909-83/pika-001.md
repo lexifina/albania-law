@@ -1,0 +1,1 @@
+1. Funksionet e koordinimit të sloteve apo të rregullimit të orareve në aeroporte do të kryhen nga stafi i Drejtorisë së Politikave të Transportit Ajror në Ministri, e cila është struktura e vetme përgjegjëse për alokimin e sloteve apo rregullimin e orareve në aeroportet e Republikës së Shqipërisë.
