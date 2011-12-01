@@ -1,0 +1,1 @@
+1. Drejtoritë rajonale të Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor (DRSHTRR), të cilat janë agjent tatimor të mbledhjes së taksës vjetore të mjeteve të përdorura, mbledhin këtë taksë dhe e derdhin, brenda datës 30 të çdo muaji, për llogari të organeve tatimore të administratës qendrore dhe njësive të qeverisjes vendore.

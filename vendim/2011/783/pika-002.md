@@ -1,0 +1,1 @@
+2. Drejtoria rajonale e shërbimeve të transportit rrugor i ndan të ardhurat nga taksa e mjeteve të përdorura sipas njësive të qeverisjes vendore, mbështetur në vendbanimin (komunë, bashki) të taksapaguesit që zotëron mjetin e transportit.

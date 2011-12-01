@@ -1,0 +1,1 @@
+4. Rakordimi i pagesës së taksës ndërmjet strukturave të DRSHTRR-së me organet tatimore të administratës qendrore dhe vendore kryhet në bazë të regjistrit ditor të taksës vjetore të mjeteve të përdorura, formati i të cilit është i përcaktuar me udhëzim të Ministrit të Financave.
