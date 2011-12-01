@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe të Largimit e Përpunimit të Ujërave të Ndotura, për vitin 2012, në shumën 36 345 000 (tridhjetë e gjashtë milionë e treqind e dyzet e pesë mijë) lekë, sipas pasqyrës nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
