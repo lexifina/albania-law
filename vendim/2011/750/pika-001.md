@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitin 2011, t’i shtohet kundërvlera e fondit 100 000 (njëqind mijë) dollarë amerikanë, për t’u dhënë si ndihmë financiare për Qeverinë e Republikës së Turqisë, për lehtësimin e pasojave të shkaktuara nga tërmeti i datës 23.10.2011.
