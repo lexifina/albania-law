@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurës ligjore për dhënien me koncesion të shërbimit të skanimit të kontejnerëve dhe automjeteve të tjera në Republikën e Shqipërisë është Ministria e Financave.
