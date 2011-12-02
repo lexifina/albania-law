@@ -1,0 +1,1 @@
+4. Vendimi nr.970, datë 30.9.2009 i Këshillit të Ministrave “Për ndryshimin e përgjegjësisë së administrimit, nga Ministria e Punëve Publike, Transportit dhe Telekomunikacionit Ministrisë së Financave, të një sipërfaqeje trualli, në kthesën e Kamzës, Tiranë”, shfuqizohet.

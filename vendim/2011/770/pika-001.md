@@ -1,0 +1,1 @@
+1. Transferimin e truallit me sipërfaqe 85 000 (tetëdhjetë e pesë mijë) m2, me nr.parcele 68, në zonën kadastrale 2 679, në fshatin Mëzez, të regjistruar në vëllimin 4, faqe 161, zona kadastrale 2 697, ndodhur në kthesën e Kamzës, Tiranë, aktualisht në përgjegjësi administrimi të Ministrisë së Financave, në pronësi të Bashkisë së Tiranës.
