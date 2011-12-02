@@ -1,0 +1,1 @@
+9. Brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Kukës, në bashkëpunim me Drejtorinë e Përgjithshme të Doganave, të fillojnë procedurat për të bërë kalimin e pronësisë për pasuritë e shpronësuara në favor të shtetit.

@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Doganave të kryejë likuidimin e pronarëve të pasurive, për të cilat janë bërë shënimet përkatëse “Konfirmuar nga ZVRPP-ja” dhe “I pakonfirmuar nga ZVRPP-ja”, në bazë të pikave 6 dhe 7 të këtij vendimi.

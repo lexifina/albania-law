@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 8 060 014.36 (tetë milionë e gjashtëdhjetë mijë e katërmbëdhjetë pikë tridhjetë e gjashtë) lekësh, të përballohet nga fondet e programuara në buxhetin e Drejtorisë së Përgjithshme të Doganave.

@@ -1,0 +1,1 @@
+10. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Kukës, të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara, deri në çastin kur do të realizohet procesi i kalimit të pronësisë për pasuritë e shpronësuara.
