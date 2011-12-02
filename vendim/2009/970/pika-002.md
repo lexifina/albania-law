@@ -1,1 +1,0 @@
-2. Vendimi nr.11, datë 10.1.2007 i Këshillit të Ministrave “Për kalimin në përgjegjësi administrimi Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit të sipërfaqes së truallit në kthesën e Kamzës, Tiranë”, shfuqizohet.
