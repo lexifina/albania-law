@@ -1,0 +1,1 @@
+1. Organizimin e ceremonisë funebre shtetërore, në nderim të të ndjerit Leka ZOGU I (pretendent i Fronit Mbretëror të Shqiptarëve), i cili, pas një sëmundjeje të rëndë, ndërroi jetë në datën 30.11.2011.
