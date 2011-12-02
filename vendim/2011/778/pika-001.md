@@ -1,0 +1,1 @@
+1. Lejimin e Shërbimit Informativ të Shtetit, si autoritet kontraktor, për të kryer procedurën e prokurimit, me objekt “Blerje pjesësh ndërrimi, për shërbime profilaktike, gomash dhe lubrifikantësh për automjete”, si dhe për të lidhur kontratat përkatëse, brenda datës 15.12.2011.
