@@ -1,0 +1,1 @@
+2. Ngarkohet Ministria e Ekonomisë, Tregtisë dhe Energjetikës, që, në bashkëpunim me institucionet përkatëse, në përmbushje të detyrave të Taks Forcës Rregullatore, të hartojë propozime konkrete për eliminimin, thjeshtimin dhe futjen e autorizimeve, brenda trajtimit të institucionit të QKL-së.

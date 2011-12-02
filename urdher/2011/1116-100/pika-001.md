@@ -1,0 +1,4 @@
+1. Të gjitha ministritë dhe institucionet qendrore të dërgojnë në Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, brenda datës 30.11.2011, informacionin e nevojshëm, si më poshtë vijon:
+a) Listën me të gjitha llojet e autorizimeve, të cilat nuk kalojnë nëpërmjet Qendrës Kombëtare të Licencimit (QKL), të lëshuara nga ministrat dhe titullarët e institucioneve qendrore, sipas legjislacionit në fuqi, në përmbushje të veprimtarisë së tyre funksionale, për subjektet e ndryshme tregtare, që operojnë në Republikën e Shqipërisë.
+b) Të dhëna për bazën ligjore përkatëse, nga ligji deri tek udhëzimet, si dhe për kriteret e formularët e aplikimeve.
+c) Listën me të gjitha subjektet e identifikuara, llojin e autorizimeve, sipas fushës së veprimtarive dhe me afatet e vlefshmërisë së tyre, etj., me të cilat këto subjekte janë pajisur për vitet 2009, 2010 dhe 2011.
