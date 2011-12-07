@@ -1,0 +1,1 @@
+1. Kuotat e parealizuara, pas mbylljes së fazës përfundimtare të regjistrimeve në programet e studimit të ciklit të parë me kohë të plotë për vitin akademik 2011-2012 (raundi i parë i konkurrimit me formularin A2), të shpërndahen sipas tabelës nr.1, bashkëlidhur.
