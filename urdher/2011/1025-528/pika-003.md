@@ -1,0 +1,1 @@
+3. Tarifa për kreditë e shkollimit, për ata që kryejnë një program të dytë studimi, për çdo program studimi të ciklit të parë me kohë të pjesshme dhe të edukimit në distancë të jetë sipas kolonës H të tabelës nr.1.

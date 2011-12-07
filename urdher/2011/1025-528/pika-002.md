@@ -1,0 +1,1 @@
+2. Tarifa totale e shkollimit (180 kredite), për ata që kryejnë një program të parë studimi, për çdo program studimi të ciklit të parë me kohë të pjesshme dhe të edukimit në distancë të jetë sipas kolonës G të tabelës nr.1 bashkëlidhur këtij urdhri.
