@@ -1,0 +1,1 @@
+1. Pranimin e aplikantëve në programet e studimit të ciklit të dytë, “Master profesional” dhe “Master shkencor/master i arteve të bukura”, në institucionet publike të arsimit të lartë, në vitin akademik 2011-2012, në bazë të përzgjedhjes së bërë nga institucionet publike të arsimit të lartë.
