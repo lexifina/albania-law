@@ -1,0 +1,1 @@
+12. Fakulteti i Studimeve të Integruara me Praktikën (FASTIP) i universitetit “Aleksnadër Moisiu” Durrës, të dërgojë në Drejtorinë e Pranimeve pranë AKP-së rezultatet e testimit deri më datë 24.10.2011 ora 16:00.

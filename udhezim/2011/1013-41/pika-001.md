@@ -1,0 +1,1 @@
+1. Të regjistrohen në institucionet publike të arsimit të lartë, në ciklin e parë të studimeve me kohë të plotë, për vitin akademik 2011-2012, sipas programeve përkatëse të studimit, maturantët/kandidatët që shpallen fitues nga rishpërndarja e kuotave të parealizuara, pas përfundimit të regjistrimeve në të dyja fazat e raundit të parë të konkurrimit me formularin A2.

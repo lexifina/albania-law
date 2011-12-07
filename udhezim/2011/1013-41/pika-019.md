@@ -1,0 +1,1 @@
+19. Pas përfundimit të procesit të regjistrimit, institucionet publike të arsimit të lartë të dorëzojnë në Drejtorinë e Pranimeve në AKP listat përfundimtare origjinale të përgatitura nga Drejtoria e Pranimeve, me regjistrimet e kryera, në formë të shkruar dhe elektronike, brenda datës 7.11.2011, ora 14.00.

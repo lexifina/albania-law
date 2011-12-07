@@ -1,0 +1,1 @@
+15. Drejtoria e Pranimeve në AKP të dërgojë, në datë 31.10.2011, në formë të shkruar dhe elektronike, listat përfundimtare të fituesve, sipas programeve përkatëse të studimit të ciklit të parë me kohë të plotë, në institucionet publike të arsimit të lartë dhe DAR/ZA-të. Këto institucione të afishojnë menjëherë listat në vende të dukshme në mjediset e tyre.

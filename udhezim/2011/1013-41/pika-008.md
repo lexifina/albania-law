@@ -1,0 +1,1 @@
+8. Maturantët/kandidatët që nuk kanë plotësuar më parë formularin A2, e marrin formularin A3 pasi të bëjnë pagesën prej 2000 lekësh pranë zyrave të “Postës Shqiptare”. Për këtë kontigjent maturantët/kandidatët drejtoritë e shkollave i dorëzojnë mandatpagesat përkatëse, së bashku me formularët A3 në DAR/ZA.
