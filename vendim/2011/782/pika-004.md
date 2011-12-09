@@ -1,0 +1,1 @@
+4. Ministri i Mbrojtjes, Ministri i Arsimit dhe Shkencës dhe Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve të krijojnë nënkomisionet e veçanta, sipas fushave, për organizimin e veprimtarive gjatë gjithë vitit jubilar.

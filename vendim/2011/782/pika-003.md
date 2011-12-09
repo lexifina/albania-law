@@ -1,0 +1,1 @@
+3. Komisioni të marrë të gjitha masat për hartimin e planit të veprimit dhe kalendarin e festimeve, si dhe të përcaktojë llojet e veprimtarive festive, në kuadër të vitit jubilar “Viti i 100-vjetorit të Pavarësisë së Shqipërisë”.
