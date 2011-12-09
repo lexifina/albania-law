@@ -1,0 +1,26 @@
+{
+  "qbz_id": 14005,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.148, DATË 11.2.2009 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS  SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE  NË KOMUNËN MARTANESH, TË QARKUT TË DIBRËS ”, DHE PËR NJË SHTESË NË VENDIMIN NR.523, DATË 30.6.2010 TË KËSHILLIT  TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE  TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE,  QË TRANSFEROHEN NË PRONËSI OSE NË PËRDORIM TË KOMUNËS MARTANESH, TË QARKUT TË DIBRËS”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "802",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-11-16",
+  "published": "2011-12-09",
+  "in_force": "2011-12-09",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/6db3c2d623f5d20d9a6ad0da9e08666b27babd65dd0dec5107193f8b4fbf5c3f.docx",
+  "source_sha256": "6db3c2d623f5d20d9a6ad0da9e08666b27babd65dd0dec5107193f8b4fbf5c3f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/14005",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/11/16/802",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
