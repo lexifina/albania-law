@@ -1,0 +1,26 @@
+{
+  "qbz_id": 13991,
+  "title": "PËR ZGJEDHJEN E GUVERNATORIT TË BANKËS SË SHQIPËRISË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "142",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2011-11-17",
+  "published": "2011-12-09",
+  "in_force": "2011-12-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d3fcc8903a3f2adb99cc88226f59e5aeaab7cc9b040c8fff23aa9a37275d0fe3.docx",
+  "source_sha256": "d3fcc8903a3f2adb99cc88226f59e5aeaab7cc9b040c8fff23aa9a37275d0fe3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/13991",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/11/17/142",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
