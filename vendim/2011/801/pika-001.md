@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe të institucioneve të saj të varësisë, si autoritete kontraktore, për të përfunduar, brenda datës 20 dhjetor 2011, procedurat e prokurimit për shërbime dhe punë civile, me fondet e parashikuara në buxhetin e shtetit për vitin 2011, sipas listës që i bashkëlidhet këtij vendimi.
+Brenda këtij afati të përfshihen dhe lidhja e kontratave përkatëse dhe botimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
