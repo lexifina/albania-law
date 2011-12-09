@@ -1,0 +1,1 @@
+1. Bashkisë Korçë, të qarkut të Korçës, në buxhetin e vitit 2011, t’i jepet fondi financiar shtesë 4 905 000 (katër milionë e nëntëqind e pesë mijë) lekë, për rikonstruksionin e pallatit nr.10, lagjja nr.6, rruga “M. Shkodrani”, Korçë, djegur nga zjarri.
