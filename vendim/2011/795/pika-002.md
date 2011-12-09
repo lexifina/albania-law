@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2% të pikëve për rezultatin, teknik e financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar) për dhënien me koncesion të këtij hidrocentrali,që i jepet shoqërisë “Romela Energy”, sh.p.k.
