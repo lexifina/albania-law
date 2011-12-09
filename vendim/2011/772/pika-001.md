@@ -1,0 +1,2 @@
+1. Lejimin e Agjencisë Kombëtare të Shoqërisë së Informacionit, si autoritet kontraktor, për kryerjen e procedurave të prokurimit dhe lidhjen e kontratave, brenda datës 10.12.2011, me fondet e miratuara në buxhetin e vitit 2011, për objektin e mëposhtëm të prokurimit:
+“Ndërtimi i infrastrukturës (Public Kery Infrastructure), PKI, dhe kuotimi i mirëmbajtjes së sistemit për një periudhë prej 4 (katër) vjetësh, e aplikueshme pas përfundimit të garancisë 1 (një) vit”, me fond limit 86 000 000 (tetëdhjetë e gjashtë milionë) lekë, pa TVSH.
