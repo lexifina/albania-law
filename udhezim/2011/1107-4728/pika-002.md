@@ -1,0 +1,1 @@
+2. Në kontratat individuale, palët mund të parashikojnë çdo përcaktim, i cili nuk përmbahet në kontratën tip, mjafton që mos të bjerë ndesh me standardet dhe përmbajtjen e Kodit Civil, ligjit nr.10 112, datë 9.4.2009 “Për administrimin e bashkëpronësisë në ndërtesat e banimit”, dhe kontratës tip të miratuar me këtë udhëzim.
