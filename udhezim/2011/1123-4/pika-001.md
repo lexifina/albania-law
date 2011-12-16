@@ -1,0 +1,1 @@
+1. Kostoja mesatare e ndërtimit të banesave nga Enti Kombëtar i Banesave, në shkallë republike, për vitin 2011, të jetë 36 526 (tridhjetë e gjashtë mijë e pesëqind e njëzet e gjashtë) lekë/m2, për sipërfaqe shfrytëzimi.
