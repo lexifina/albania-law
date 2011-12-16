@@ -1,0 +1,2 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Doganave, degës së doganës Kapshticë dhe degës së doganës Korçë, si autoritete kontraktore, të përfundojnë procedurat e prokurimit për mallra e ndërtime me fondet e parashikuara në buxhetin e shtetit për vitin 2011, sipas aneksit 1, që i bashkëlidhet këtij vendimi, brenda datës 15 dhjetor 2011.
+Brenda këtij afati të përfshihen edhe lidhja e kontratave përkatëse dhe botimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
