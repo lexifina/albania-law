@@ -1,1 +1,1 @@
-3. Ngarkohet Fondi Shqiptar i Zhvillimit për të ndjekur realizimin e projekteve, në përputhje me një marrëveshje, që do të lidhet ndërmjet palës përfituese dhe asaj zbatuese.
+3. Ngarkohet Fondi Shqiptar i Zhvillimit që në bashkëpunim me komunën Graçanicë, të përcaktojë projektet që do të financohen me ndihmën financiare të sipërpërmendur. FSHZH-ja ngarkohet, gjithashtu, me ndjekjen e realizimit të këtyre projekteve, në përputhje me një marrëveshje që do të lidhet ndërmjet palës përfituese dhe asaj zbatuese.
