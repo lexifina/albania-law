@@ -1,0 +1,1 @@
+2. Tarifat për provimin e shtetit, të llogaritura sipas pikës 1 të këtij vendimi, arkëtohen para procesit të regjistrimit për provim, pranë bankave të nivelit të dytë ose zyrave të Postës Shqiptare, për Degën e Thesarit Tiranë, për llogari të Agjencisë Kombëtare të Provimeve.
