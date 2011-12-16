@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Këshillit Kombëtar të Radios dhe Televizionit (KKRT), për vitin 2012, në shumën 98 400 000 (nëntëdhjetë e tetë milionë e katërqind mijë) lekë, sipas pasqyrës nr.1, që i bashkëlidhet këtij vendimi.
