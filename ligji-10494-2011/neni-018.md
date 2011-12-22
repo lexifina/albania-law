@@ -1,0 +1,8 @@
+# Neni 18
+Veprime në rast të shkeljes së vendimit gjyqësor
+1. Kur informacioni në hartë evidenton daljen nga zona e lejuar ose hyrjen në zonën e ndaluar të lëvizjes, si edhe dëmtimin ose heqjen e pajisjes, salla operative kontakton menjëherë subjektin. Nëse ky i fundit nuk mund të kontaktohet, atëherë salla operative kontakton personin e afërt të përcaktuar në vendimin e gjykatës për përdorimin e ME-së.
+2. Nëse subjekti kthehet në zonën e lejuar ose largohet nga zona e ndaluar brenda 30 minutave nga çasti që ai ose personi i afërt i tij kontaktohen nga salla operative, atëherë nuk ndërmerret asnjë veprim i mëtejshëm. Në këtë rast salla operative e evidenton këtë fakt në një regjistër të posaçëm.
+3. Nëse subjekti dhe personi i afërt nuk mund të kontaktohen, salla operative njofton menjëherë Policinë e Shtetit, së cilës i përcjell informacionin për vendndodhjen e subjektit. Salla operative, brenda 24 orëve, njofton Shërbimin e Provës për shkeljen dhe veprimet e kryera prej saj në zbatim të këtij ligji.
+4. Informacionet e marra në rastet e parashikuara nga ky nen ruhen për një periudhë gjashtëmujore, duke filluar nga çasti i evidentimit të shkeljes. Prokurori ose gjykata mund të urdhërojë që informacionet të ruhen për një kohë më të gjatë se gjashtë muaj.
+5. Nuk evidentohet si shkelje e kushteve të përdorimit të ME-së rasti kur Shërbimi i Provës i ka komunikuar me shkrim sallës operative autorizimin e lëshuar ndaj subjektit për të dalë nga zona e lejuar ose për të hyrë në zonën e ndaluar. Autorizimi duhet të përmbajë përcaktimin e saktë të zonës ku lejohet të lëvizë subjekti dhe afatin e lejimit të lëvizjes.
+6. Rregulla të hollësishme për kriteret e dhënies së autorizimeve përcaktohen me udhëzim të Ministrit të Drejtësisë.
