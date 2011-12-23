@@ -1,0 +1,1 @@
+1. Delegimin Drejtorit të Përgjithshëm të Policisë së Shtetit të autoritetit për miratimin e përdorimit të fondit të veçantë, për shpërblimin për rezultate të mira në punë, të punonjësve të Policisë së Shtetit.
