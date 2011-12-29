@@ -1,0 +1,1 @@
+1. Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta, në buxhetin e vitit 2011, në programin “Sigurimi shoqëror”, t’i shtohet fondi 800 000 000 (tetëqind milionë) lekë, për trasfertën e bredshme korente, për Institutin e Sigurimeve Shoqërore.
