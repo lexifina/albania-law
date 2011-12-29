@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Arsimit dhe Shkencës, të institucioneve në varësi të saj dhe të njësive të qeverisjes vendore, si autoritete kontraktore, që, për punimet e projekteve të reja në arsim, të realizojnë, brenda datës 10 dhjetor 2011, procedurat e prokurimit për mallra, shërbime dhe ndërtime, me fondet e parashikuara në buxhetin e shtetit, për vitin 2011, sipas aneksit nr.1, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati të përfshihen lidhja e kontratave përkatëse dhe botimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
