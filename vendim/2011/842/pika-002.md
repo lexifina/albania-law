@@ -1,0 +1,3 @@
+2. Miratimin e listave të familjeve dhe subjekteve të biznesit të qarkut të Shkodrës, së bashku me shumën përkatëse të ndihmës për dëmet në kulturat bujqësore dhe në biznese, sipas listave të njësive të qeverisjes vendore, si më poshtë:
+a) Lista e familjeve të qarkut të Shkodrës, me shumën përkatëse të ndihmës për dëmet në kultura bujqësore, për bashkinë Shkodër; komunat Bushat, Dajç, Velipojë, Bërdicë, Ana e Malit, Rrethina, Qendër Koplik, Gur i Zi, Kastrat, Gruemirë dhe të tjera, bashkëlidhur këtij vendimi.
+b) Lista e subjekteve të biznesit të qarkut të Shkodrës, me shumën përkatëse të ndihmës për dëmet në biznese, bashkëlidhur këtij vendimi.

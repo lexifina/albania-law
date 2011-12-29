@@ -1,0 +1,1 @@
+3. Fondi prej 1 112 303 342 (një miliard e njëqind e dymbëdhjetë milionë e treqind e tre mijë e treqind dyzet e dy) lekësh të përballohet nga shuma, në të njëjtën vlerë, që do të paguajë Korporata Elektroenergjetike Shqiptare (KESH), në buxhetin e shtetit, në një llogari të veçantë.
