@@ -1,0 +1,1 @@
+3. Nëpërmjet deklaratës, nëpunësi autorizues merr përsipër përgjegjësinë për menaxhimin me efiçencë, efektivitet dhe ekonomi të burimeve financiare dhe jofinanciare të njësisë, si dhe pohon se sistemi i kontrollit të brendshëm mbështet arritjen e objektivave, politikave dhe qëllimeve të njësisë së tij.

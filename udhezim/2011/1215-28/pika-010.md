@@ -1,0 +1,1 @@
+10. Njësia qendrore e harmonizimit të auditimit të brendshëm harton pjesën e dytë të raportit të konsoliduar sipas paragrafit 6 të këtij udhëzimi, e cila përmbledh monitorimin e veprimtarisë së strukturave audituese, aktivitetet për ngritjen e kapaciteteve të audituesve të brendshëm dhe hartimin e metodologjisë së auditimit të brendshëm.
