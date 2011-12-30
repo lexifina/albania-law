@@ -1,0 +1,3 @@
+1. Në buxhetin e vitit 2011, miratuar për Ministrinë e Punëve Publike dhe Transportit, të bëhet rishpërndarja e fondeve, si më poshtë vijon:
+a) Në programin buxhetor 04550 “Transporti hekurudhor”, “Shpenzime kapitale”, të zbritet fondi prej 12 350 000 (dymbëdhjetë milionë e treqind e pesëdhjetë mijë) lekësh.
+b) Në programin buxhetor 06180 “Strehimi dhe urbanistika”, “Shpenzime kapitale”, të shtohet fondi prj 12 350 000 (dymbëdhjetë milionë e treqind e pesëdhjetë mijë) lekësh, për pagesat e kontributeve të bashkisë Himarë dhe komunës Lukovë, në kuadër të projektit “Menaxhimi i integruar dhe pastrimi i zonës bregdetare” (ICZMP).
