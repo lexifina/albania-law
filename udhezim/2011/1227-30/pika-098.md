@@ -1,0 +1,1 @@
+98. Komisioni i vlerësimit dhe komisioni i nxjerrjes nga përdorimi përgjigjen për zbatimin e ligjshmërisë dhe të kritereve të miratuara në këtë udhëzim respektivisht për vlerësimin në paragrafin 103 dhe për nxjerrjen nga përdorimi të aktiveve publike në paragrafët 107, 108 dhe 109.

@@ -1,0 +1,1 @@
+66. Paradhënia shlyhet menjëherë pas mbarimit të afatit të caktuar nga nëpunësi zbatues, duke paraqitur dokumente justifikuese për shpenzimet e kryera te nëpunësi zbatues ose i deleguari i tij. Kur paradhënia nuk shlyhet në afatin e caktuar, bëhet menjëherë ndalimi nga paga e punonjësit. Paradhënia tjetër nuk jepet pa u shlyer ajo që është dhënë më parë.

@@ -1,0 +1,1 @@
+97. Në të gjitha rastet komisioni i vlerësimit të aktiveve ka përbërje tjetër nga komisioni i nxjerrjes nga përdorimi në njësi të aktiveve. Titullari mund të ngrejë një komision të vetëm për kryerjen e inventarizimit dhe vlerësimit të aktiveve.

@@ -1,0 +1,2 @@
+33. Për nevoja të plotësimit të të dhënave në regjistër, dhe analizës njësia publike, brenda muajit qershor të çdo viti, i kërkon shoqërive koncesionare me të cilat ka kontrata koncesioni, të depozitojnë në autoritetin kontraktor një kopje të pasqyrave financiare vjetore, pasqyrën e llogaritjes dhe shlyerjes se detyrimeve ndaj shtetit, të shoqëruar me dokumentacionin që vërteton pagesën, si dhe llogaritjen e parashikimit të detyrimeve për vitin ushtrimor në vazhdim.
+Dokumentimi i lëvizjes së aktiveve

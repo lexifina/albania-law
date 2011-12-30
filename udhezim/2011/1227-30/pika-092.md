@@ -1,0 +1,1 @@
+92. Në rast se pranohen si të drejta këto kundërshtime, komisioni i inventarizimit, pasi i verifikon, bën ndreqjet përkatëse. Kur ka bazë të mjaftueshme dhe nëse magazina apo lokali nuk është hapur pas përfundimit të inventarit, me urdhër të titullarit, bëhet inventarizimi i dytë dhe shpenzimet e bëra përballohen nga persona që kanë kryer inventarin e pasaktë.

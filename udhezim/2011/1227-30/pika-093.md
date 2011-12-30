@@ -1,0 +1,1 @@
+93. Nëpunësi autorizues i njësisë jep urdhër zhdëmtimin për mungesat e konstatuara në ngarkim të personave me përgjegjësi materiale. Nëpunësi zbatues ndjek procesin dhe kryen regjistrimet kontabël përfundimtare.

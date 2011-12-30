@@ -1,0 +1,2 @@
+51. Transportuesi ka përgjegjësinë e dërgimit të aktiveve nga dërguesi te marrësi brenda afatit dhe pa dëmtim. Transporti i aktiveve kryhet në bazë të dokumenteve përkatëse që janë plotësuar për çdo dërgesë dhe në përputhje me urdhrin dhe dispozitat e caktuara. Dokumenti bazë që konfirmon transportin e aktiveve është fletë-ngarkesa. Transportuesi merr në ngarkesë aktivet me anë të një fletë-daljeje që plotësohet nga dërguesi dhe nënshkruhet nga të dyja palët (furnitori dhe transportuesi).
+Veprimet që kryejnë strukturat e nëpunësit zbatues:

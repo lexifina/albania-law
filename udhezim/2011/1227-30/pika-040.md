@@ -1,0 +1,1 @@
+40. Magazinieri dorëzon te nëpunësi përgjegjës për financat e njësisë nga një kopje origjinale për fletëhyrjet, faturën e furnizuesit (shitësit), si dhe fletëdaljen, si dhe hedh në kartelat e magazinës lëvizjet përkatëse në sasi dhe në vlerë sipas afateve të përcaktuara nga njësitë publike në funksion të specifikës së aktivitetit të tyre.

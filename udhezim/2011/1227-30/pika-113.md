@@ -1,0 +1,1 @@
+113. Inventar specifik sensitiv ose me vlerë të konsiderueshme dhe ndërtime të përkohshme nxirren jashtë përdorimit me miratim të nëpunësit autorizues të njësisë publike sipas përcaktimeve të titullarit të njësisë.

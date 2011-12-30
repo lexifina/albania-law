@@ -1,0 +1,1 @@
+12. Aktivet jepen në ngarkim të punonjësve të cilët kanë përgjegjësi ligjore për humbjet, dëmtimet e shpërdorimet, pasqyrimin me saktësi në dokumentacionin përkatës të të dhënave, si dhe për gjendjen e lëvizjen e aktiveve që kanë në ngarkim.

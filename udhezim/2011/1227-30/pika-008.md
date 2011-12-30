@@ -1,0 +1,1 @@
+8. Nëpunësi autorizues i njësisë publike është përgjegjës për monitorimin e sistemeve për ruajtjen dhe mbrojtjen e aktiveve dhe të dokumentacionit të njësisë publike dhe jep llogari te titullari për mënyrën e funksionimit të tyre.

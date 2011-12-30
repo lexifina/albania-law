@@ -1,0 +1,2 @@
+109. Aktivet që pas vlerësimit nxirren jashtë përdorimit, kur mund të përdoren si vjetërsira/mbeturina/materiale të riciklueshme, hiqen nga regjistri i aktiveve në përdorim, bëhen hyrje në magazinë dhe u shiten me ankand ndërmarrjeve që i grumbullojnë (me përjashtim të rasteve kur sipas rregullave të shëndetësisë duhet të asgjësohen), kurse të tjerat asgjësohen nga komisioni i nxjerrjes nga përdorimi duke ndryshuar formën e tyre fillestare, groposur ose djegur.
+Procesverbali për dhënien në përdorim/tjetërsimin e aktiveve dhe nxjerrjen jashtë përdorimit të aktiveve

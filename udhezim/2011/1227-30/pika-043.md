@@ -1,0 +1,1 @@
+43. Komisioni përbëhet nga specialistë të fushës sipas llojit të aktiveve dhe, në rast nevoje, edhe nga ekspertë të jashtëm. Në komision bëjnë pjesë jo më pak se tri veta, duke përfshirë edhe punonjësin me përgjegjësi materiale.

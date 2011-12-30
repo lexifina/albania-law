@@ -1,0 +1,1 @@
+28. Regjistri i aktiveve të një njësie, duhet të përfshijë si aktivet afatgjata ashtu edhe aktivet afatshkurtra materiale dhe monetare, si dhe të specifikojë aktivet të cilat gjenden në pronësi të njësisë dhe ato që gjenden nën administrimin e njësisë në formën e pjesëmarrjeve në kapital.

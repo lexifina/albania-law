@@ -1,0 +1,1 @@
+78. Kur inventarizimi i sasisë brenda ambalazhit dëmton aktivet, lejohet, me autorizim të titullarit, të bëhet verifikimi vetëm si peshë bruto duke caktuar peshën neto me anë të zbritjes së peshës së ambalazhit në masën e caktuar me rastin e marrjes në dorëzim të aktiveve.

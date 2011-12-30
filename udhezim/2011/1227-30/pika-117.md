@@ -1,0 +1,1 @@
+117. Procedurat specifike për menaxhimin dhe ruajtjen e rrugëve, rrjeteve dhe veprave ujore, si dhe kritere shtese specifike për nxjerrjen nga përdorimi të tyre përcaktohen nga ministri përgjegjës për punët publike dhe transportin.

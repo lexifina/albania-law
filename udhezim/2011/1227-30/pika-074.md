@@ -1,0 +1,1 @@
+74. Çdo njësi publike duhet të kontrollojë të paktën një herë në vit ekzistencën dhe vlerësimin e aktiveve afatgjata materiale dhe jomateriale, aktiveve afatshkurtra, të detyrimeve dhe të drejtave, nëpërmjet inventarizimit të këtyre elementeve dhe dokumentacionit mbështetës.

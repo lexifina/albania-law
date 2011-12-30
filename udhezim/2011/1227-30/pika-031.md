@@ -1,0 +1,5 @@
+31. Njësia publike e qeverisjes së përgjithshme duhet të mbajë një regjistër të veçantë për secilën nga pronat e dhëna me qira, shoqëritë tregtare në të cilat shteti zotëron aksione dhe kontratat e koncesionit dhe enfiteozës, me të dhënat si vijon:
+a) Emërtimi i pronës, NIPTI dhe vendndodhja (shoqëri koncesionare, objekti i dhënë me qira, shoqëri tregtare).
+b) Për kontratat e koncesionit dhe enfiteozës - Objekti i koncesionit, afati në vite, kushti bazë i pagesës, fillimi i pagesës, arkëtuar deri në vitin xxxx, viti aktual (planifikuar, derdhur), parashikimi për vitin e ardhshëm, akti që ka miratuar kontratën koncesionare apo të enfiteozës.
+c) Për aksionet apo të drejtat e tjera që shteti zotëron në shoqëritë tregtare, në administrim të njësisë publike - Statusi i shoqërisë, % e pjesëmarrjes në kapital, dividendi për vitin raportues (planifikuar, derdhur) dhe parashikimi për vitin e ardhshëm.
+d) Për objektet e dhëna me qira - Sipërfaqja e objektit në m2, numri dhe data e kontratës së qirasë, afati i vlefshmërisë së kontratës, afati i qirasë, veprimtaria që kryhet, subjekti përfitues, qiraja mujore, arkëtimet sipas muajve të vitit kalendarik.

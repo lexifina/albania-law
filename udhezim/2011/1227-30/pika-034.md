@@ -1,0 +1,1 @@
+34. Veprimet ekonomike që kryhen në njësitë publike, si dhe faktet që kanë sjellë ose mund të sillnin ndryshime në pasurinë që ato kanë në administrim e ruajtje, pasqyrohen kurdoherë në dokumentet përkatëse dhe menjëherë pasi kryhet veprimi.

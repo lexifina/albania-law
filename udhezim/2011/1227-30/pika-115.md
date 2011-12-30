@@ -1,0 +1,1 @@
+115. Aktivet ushtarake dhe policore në magazinë ose në përdorim të ushtrisë, policisë, shërbimit informativ shqiptar (SHISH) dhe Gardës së Republikës, për të cilat janë caktuar afate përdorimi, nxirren jashtë përdorimit sipas përcaktimit që bën Ministri i Mbrojtjes, Ministri i Brendshëm dhe Drejtori i Përgjithshëm i SHISH, sipas përkatësisë.

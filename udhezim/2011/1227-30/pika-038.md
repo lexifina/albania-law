@@ -1,0 +1,1 @@
+38. Dalja e aktiveve nga magazina bëhet mbi bazën e urdhërdorëzimit, fletëkërkesës, planit të shpërndarjes e kartelës limit dhe dokumentohet me fletëdaljen ose me dokument tjetër të njehsuar me të sipas specifikave të aktiveve.

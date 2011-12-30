@@ -1,0 +1,1 @@
+7. Nëpunësit autorizues të të gjitha niveleve të njësisë publike janë përgjegjës për përgatitjen dhe monitorimin e sistemeve për ruajtjen dhe mbrojtjen e aktiveve dhe të dokumentacionit të njësive që mbulojnë kundrejt humbjeve, vjedhjeve, keqpërdorimit dhe përdorimit të paautorizuar të tyre dhe japin llogari në linjë hierarkike deri të nëpunësi autorizues i njësisë publike.

@@ -1,0 +1,1 @@
+91. Në rast se punonjësi me përgjegjësi materiale ka kundërshtim për rezultatet e inventarizimit, për gjendjen fizike, cilësinë dhe çmimin, kërkesa e tij shqyrtohet nga nëpunësi autorizues pas përfundimit të inventarizimit.

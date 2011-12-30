@@ -1,0 +1,1 @@
+82. Komisioni nuk duhet të jetë me më pak se 3 punonjës. Anëtarët e komisionit nuk duhet të kenë konflikt interesi. Në komision nuk merr pjesë punonjësi që ka në ngarkim/përdorim aktivin, por ai duhet të jetë i pranishëm kur bëhet inventarizimi dhe, në mungesë të tij, zbatohen kriteret e përcaktuara në paragrafin 13 dhe 14 të këtij udhëzimi.

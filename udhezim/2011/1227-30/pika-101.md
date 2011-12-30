@@ -1,0 +1,2 @@
+101. Për vlerësimin dhe nxjerrjen nga përdorimi të aktiveve afatgjata me rëndësi të veçantë për institucionin, komisioni i vlerësimit dhe komisioni i nxjerrjes nga përdorimi përbëhen nga jo më pak se 7 anëtarë dhe në përbërjen e tyre marrin pjesë detyrimisht dy specialistë të lartë të fushës. Kur këto specialistë të lartë nuk mund të sigurohen nga strukturat përkatëse, aktivizohen specialistë të jashtëm sipas procedurave ligjore.
+Lista e aktiveve të identifikuara për vlerësim

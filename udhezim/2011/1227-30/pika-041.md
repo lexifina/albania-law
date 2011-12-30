@@ -1,0 +1,2 @@
+41. Në raste të caktuara sipas nevojave të njësisë publike, bëhet dërgimi i aktiveve drejtpërdrejt nga furnizuesi ose dhuruesi te përdoruesi (p.sh. direkt në njësinë shpenzuese të njësisë publike) dhe bëhen hyrje e dalje pa kaluar në magazinë (p.sh. Në magazinën qendrore të njësisë publike). Në këtë rast duhet të miratohen nga nëpunësi autorizues i njësisë publike procedura të qarta të lëvizjes, të shoqëruara me përgjegjësitë respektive. Veprimet bëhen në prani të punonjësve të ngarkuar me administrimin e aktiveve.
+Marrja në dorëzim e aktiveve të furnizuara

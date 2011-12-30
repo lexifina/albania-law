@@ -1,0 +1,1 @@
+69. Listëpagesat plotësohen nga punonjësi i caktuar për pagat, duke u mbështetur në të dhënat e dokumentacionit bazë (listëprezenca e firmosur nga menaxheri i strukturës përkatëse) për shërbimin e kryer. Ato kontrollohen dhe nënshkruhen nga punonjësi i caktuar me menaxhimin e burimeve njerëzore dhe nëpunësi zbatues ose i deleguari i tij.

@@ -1,0 +1,1 @@
+116. Procedurat specifike për menaxhimin dhe ruajtjen e aktiveve biologjike, si dhe kriteret specifike për nxjerrjen nga përdorimi të tyre përcaktohen nga ministri përgjegjës për bujqësinë dhe ushqimin.

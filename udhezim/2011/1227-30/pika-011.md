@@ -1,0 +1,1 @@
+11. Nëpunësit/punonjësit e caktuar përgjegjës për menaxhimin e aktiveve duhet të plotësojnë kriteret e punësimit të shprehura në ligjin “Për statusin e nëpunësit civil”, Kodit të Punës, ligjeve të tjera specifike, si dhe sipas dispozitave të rregulloreve të brendshme të njësisë.

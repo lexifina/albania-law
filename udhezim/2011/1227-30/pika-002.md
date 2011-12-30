@@ -1,0 +1,1 @@
+2. Të gjitha njësitë e sektorit publik kanë detyrimin të marrin masat e nevojshme për dokumentimin, mbrojtjen, qarkullimin dhe nxjerrjen nga përdorimi të aktiveve, me qëllim menaxhimin me efektivitet dhe ruajtjen e tyre nga dëmtimi dhe keqpërdorimi.

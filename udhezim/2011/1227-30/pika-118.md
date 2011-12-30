@@ -1,0 +1,1 @@
+118. Nxjerrja nga përdorimi i ndërtesave ekonomike dhe administrative, aktiveve financiare në formën e pjesëmarrjes në kapital, aktiveve afatgjata jomateriale si koncesione, patenta, licenca; rezervat shtetërore; terrenet dhe aktivet natyrore bëhet sipas dispozitave të veçanta ligjore në fuqi.

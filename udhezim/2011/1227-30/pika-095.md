@@ -1,0 +1,1 @@
+95. Është një proces që kryhet gjate ose pas procesit të inventarizimit. Mbi bazën e të dhënave kontabël për vitin e vënies në punë, kohën e përdorimit, vlerën fillestare, vlerën e mbetur, vlerën e rivënies dhe mbajtjes në punë, vlerësimin kosto-përfitim, bëhet vlerësimi i aktiveve afatgjata dhe afatshkurtra materiale.

@@ -1,0 +1,1 @@
+18. Çdo njësi e sektorit publik duhet të plotësojë planin e vet me një njohje të mirë të bazës së aktiveve që duhen për të përmbushur objektivat e saj. Strategjitë e menaxhimit të aktiveve duhet të synojnë që të krijojnë, të ruajnë dhe sipas nevojave, të përmirësojnë strukturën e aktiveve, brenda një periudhe të caktuar, nëse parashikohen ndryshime.

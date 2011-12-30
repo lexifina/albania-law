@@ -1,0 +1,2 @@
+15. Menaxheri që urdhëron për hyrjen dhe daljen e aktiveve nuk mund të ngarkohet edhe me detyrën e arkëtarit dhe/ose të magazinierit. Në institucione të vogla me personel deri në 10 punonjës, ku nuk justifikohet ekzistenca e një pozicioni të veçantë pune për arkëtarin dhe magazinierin, mund të vendoset në çdo pozicion tjetër pune. Nëpunësi i ngarkuar me mbajtjen e kontabilitetit financiar të njësisë nuk duhet të ngarkohet me detyrën e arkëtarit dhe/ose të magazinierit.
+Përgjegjësitë e grupit të menaxhimit strategjik

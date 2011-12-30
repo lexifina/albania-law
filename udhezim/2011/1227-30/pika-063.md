@@ -1,0 +1,1 @@
+63. Veprimet me para në dorë kryhen vetëm brenda limitit ditor të arkës, të miratuar nga nëpunësi i parë autorizues me propozim të sistemit të thesarit, me akte të veçanta sipas specifikave të njësive publike.

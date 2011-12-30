@@ -1,0 +1,1 @@
+26. Çdo njësi publike duhet të krijojë dhe të përditësojë një regjistër kontabël të të gjitha aktiveve që zotëron apo ka në administrim, përfshi dhe pronat publike nga të cilat siguron të ardhura. Regjistri mbahet në formën e kartelave ose në formë të sintetizuar.

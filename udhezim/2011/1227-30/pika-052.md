@@ -1,0 +1,1 @@
+52. Strukturat e nëpunësit zbatues para marrjes në dorëzim të dokumenteve nga personat me përgjegjësi materiale, kryejnë kontrollin paraprak të tyre. Ky kontroll përfshin kontrollin e rregullshmërisë së jashtme, kontrollin nga pikëpamja e zbatimit të ligjshmërisë dhe kontrollin e saktësisë së veprimeve aritmetike.

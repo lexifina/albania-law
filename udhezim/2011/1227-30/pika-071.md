@@ -1,0 +1,1 @@
+71. Të dhënat për të përcaktuar të drejtën e punonjësit për pagë, kur ai nuk punon për shkak ndërprerjeje në punë jo për fajin e tij, të lejes së zakonshme, të pjesëmarrjes në kurse trajnimi, për paaftësi të përkohshme në punë, për kryerjen e detyrave të tjera shtetërore ose shoqërore, vërtetohen me dokumente të miratuara me akte të tjera ligjore dhe nënligjore në fuqi.

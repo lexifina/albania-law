@@ -1,0 +1,1 @@
+10. Çdo menaxher, nëpunës apo punonjës i njësisë publike është përgjegjës për ruajtjen dhe mbrojtjen e aktiveve dhe të dokumentacionit të njësisë kundrejt humbjeve, vjedhjeve, keqpërdorimit dhe përdorimit të paautorizuar të tyre sipas kompetencave që mbulon, duke dokumentuar veprimet e ndërmarra prej tij për të siguruar ruajtjen dhe mirëmbajtjen e aktivit që ka nën përgjegjësi.

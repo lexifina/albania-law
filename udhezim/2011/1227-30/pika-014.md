@@ -1,0 +1,1 @@
+14. Në këtë mënyrë veprohet edhe për hyrjen ose daljen e aktiveve nga magazina kur mungon përkohësisht personi që i ka ato në ngarkim dhe për këtë shkak pengohet funksionimi normal i punës së institucionit. Në rast mungese të përkohshme të punonjësit që ka në ngarkim aktive, veprimet me këto vlera kryhen nga një komision i caktuar nga nëpunësi autorizues i njësisë respektive.

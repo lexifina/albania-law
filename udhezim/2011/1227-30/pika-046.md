@@ -1,0 +1,1 @@
+46. Kur shitësi nuk paraqitet brenda afatit për të parë gjendjen dhe për t’i dhënë rrugë veprimit, komisioni vazhdon verifikimin rregullisht. Verifikimi nuk ndërpritet kur mospërputhjet mund të provohen edhe në mbarim të verifikimit.

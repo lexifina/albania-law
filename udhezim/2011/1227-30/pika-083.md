@@ -1,0 +1,1 @@
+83. Para fillimit të inventarit fiksohet numri rendor i fletëhyrjes dhe fletëdaljeve nëpërmjet një proces verbali të mbajtur midis përgjegjësit material dhe komisionit të inventarizimit dhe bëhet mbyllja dhe dyllosja e magazinës. Hapja dhe mbyllja bëhet në prani të komisionit dhe përgjegjësit material.

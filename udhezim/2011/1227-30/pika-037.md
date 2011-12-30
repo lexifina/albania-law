@@ -1,0 +1,1 @@
+37. Hyrja e aktiveve në magazinë dokumentohet në çdo rast me fletëhyrjen përkatëse, të hartuar sipas gjendjes fizike të tyre. Fletëhyrjet lëshohen nga magazinieri, pasi të jetë bërë më parë verifikimi fizik i sasisë, i cilësisë dhe i çmimit (Procesi i marrjes në dorëzim të aktiveve, referuar kushteve të përcaktuara në kontratë).

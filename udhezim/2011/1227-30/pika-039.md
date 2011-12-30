@@ -1,0 +1,1 @@
+39. Çdo hyrje-dalje në magazinë dokumentohet menjëherë. Aktivet që hyjnë pjesë-pjesë për në vendmbërritje, pasqyrohen me dokumente të përkohshme, por fletëhyrja ose fletëdalja për gjithë sasinë plotësohet me mbërritjen e gjithë sasisë së aktivit, duke u bashkëlidhur edhe dokumentet e përkohshme.

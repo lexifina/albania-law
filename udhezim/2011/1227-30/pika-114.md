@@ -1,0 +1,1 @@
+114. Aktivet afatshkurtra si inventari i imët, ambalazhet, materialet dhe mallrat nxirren jashtë përdorimit me miratimin e nëpunësit autorizues të nivelit të dytë, sipas përcaktimeve të nëpunësit autorizues të njësisë publike.

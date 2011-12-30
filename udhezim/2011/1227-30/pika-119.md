@@ -1,0 +1,1 @@
+119. Njësitë e qeverisjes së përgjithshme, në bazë të kritereve të mësipërme, caktojnë rregulla të hollësishme për nxjerrjen nga përdorimi të llojeve të ndryshme të aktiveve, duke treguar edhe kufirin monetar ose rastet kur nxjerrja jashtë përdorimit duhet të provohet me analiza laboratorike.

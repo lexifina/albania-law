@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i procedurave standarde dhe gjurmën e auditit për dokumentimin, ruajtjen, qarkullimin dhe nxjerrjen nga përdorimi të aktiveve në njësitë e sektorit publik.

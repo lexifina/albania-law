@@ -1,0 +1,1 @@
+56. Për të gjitha hyrjet që bëhen pa pagesë, njësia publike pritëse e aktivit i përcjell akt-konfirmimin dërguesit brenda datës 20 të muajit pasardhës. Akt konfirmimi firmoset nga nëpunësi zbatues dhe nëpunësi autorizues i njësisë pritëse.

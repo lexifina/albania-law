@@ -1,0 +1,15 @@
+23. Masat që duhet të ndërmerren në raport me riskun për kufizimin e humbjeve financiare, mund të përfshijnë:
+a) Mbrojtjen fizike kundër vjedhjes, vandalizmit, dëmtimeve natyrore, nëpërmjet instalimit të kasafortave, drynave të sigurisë/alarmet/patrullat, sistemit të pompave për parandalimin e zjarrit, kontrollet e inventarëve dhe siguracionet, etj.
+b) Aksesin e kontrolluar dhe ruajtjen e informacionit mbi aktivet, të dhënat e personelit, të dhënat financiare, sistemet e kompjuterizuara të informacionit, etj.
+c) Depozitimi në llogaritë e sistemit të thesarit të vlerave monetare të arkëtuara nga të gjitha nivelet e njësisë së qeverisjes së përgjithshme, menjëherë pas pranimit të tyre.
+d) Përcaktimin e sistemeve dhe të procedurave për zëvendësimin apo shtimin e aktiveve afatgjata. Planifikimi në avancë për zëvendësimin e aktiveve që janë në përfundim të ciklit të tyre të jetës është një tjetër mënyrë për parandalimin e mosfunksionimin e papritur të ndonjë aktivi. Jetëgjatësia standarde që jepet në regjistrin e aktiveve afatgjata nëpërmjet normave të amortizimit është një tregues se kur një aktiv duhet të zëvendësohet. Është e rëndësishme që jetëgjatësia standarde të mos ndiqet verbazi, pasi aktivi mund të vazhdojë të jetë në gjendje pune dhe njëkohësisht i nevojshëm ose i dobishëm për plotësimin e objektivave të njësisë. Dobishmëria e çdo aktivi duhet vlerësuar nga komisioni i vlerësimit të aktiveve, i cili ngrihet dhe funksionon sipas kritereve të këtij udhëzimi.
+e) Riparim i menjëhershëm i dëmeve. Duhet të kryhen inspektime të rregullta dhe të ekzistojë një sistem për regjistrimin e dëmeve dhe për garantimin se veprimet e duhura po merren me shpejtësi.
+f) Shërbime të rregullta mirëmbajtjeje për minimizimin e avarive të mundshme. Për t’u siguruar për efiçencën e aktiveve është e nevojshme të ekzistojnë sistemet përkatëse të kontrollit.
+g) Mirëmbajtja e planifikuar. Aktivet afatgjata materiale duhen mbikëqyrur rregullisht në drejtim të jetëgjatësisë së pjesëve përbërëse të tyre (p.sh. çatisë, sistemit të ngrohjes, etj.). Në një program mirëmbajtjeje të planifikuar, ky informacion përdoret për t’i orientuar shpenzimet drejt punës parandaluese sesa drejt riparimit të avarive. Çdo njësi publike duhet të hartojë planin e mirëmbajtjes së aktiveve me qëllim planifikimin e fondeve të nevojshme, si dhe sigurimin e efiçencës në përdorimin e aktiveve.
+h) Trajnimi i punonjësve për përdorimin dhe mbrojtjen e aktiveve.
+i) Përshtatshmëria për përdorim e aktiveve, nëse është e mundur, për minimizimin e riskut që vjen nga mospërputhja e aktivit me objektivin në rast të ndryshimit të kushteve të punës.
+j) Planet e emergjencës për vlerësimin e të gjitha pasojave potenciale të riskut nga faktorë të jashtëm si fatkeqësi natyrore, epidemi e të tjera të ngjashme, nëpërmjet katër fazave të mëposhtme:
+- Rishikimi i rreziqeve dhe vlerësimi i ndikimeve potenciale mbi veprimtarinë, duke regjistruar dhe analizuar humbjet për të identifikuar prirjet dhe problemet e reja
+- Zhvillimi, azhurnimi, auditimi dhe testimi i planit
+- Menaxhimi i krizave-zbatimi i planit gjatë dhe pas një incidenti
+- Rikthimi në operacionet normale

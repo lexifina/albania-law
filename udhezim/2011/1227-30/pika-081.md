@@ -1,0 +1,1 @@
+81. Inventarizimi kryhet nga një komision i posaçëm që krijohet me urdhër të titullarit të njësisë publike ose nëpunësit autorizues të çdo niveli të njësisë publike. Lista e aktiveve për inventarizim hartohet nga nëpunësi zbatues në bazë të të dhënave të regjistrave kontabël të aktiveve të njësisë.

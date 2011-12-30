@@ -1,0 +1,1 @@
+24. Masat e sipërpërmendura shoqërohen me kosto, por nga vetësigurimi ka përfitime direkte të konsiderueshme nga pikëpamja e uljes së çmimeve të siguracioneve apo e humbjeve, si dhe indirekte nga përmirësimi i marrëdhënieve të punës.
