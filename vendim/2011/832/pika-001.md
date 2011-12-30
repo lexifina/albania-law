@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2011, në zërin “mallra dhe shërbime”, t’i shtohet fondi prej 1 250 000 (një milion e dyqind e pesëdhjetë mijë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të z.Sadik Dobi.
