@@ -1,0 +1,1 @@
+4. Akademia Pedagogjike, Tiranë do të ofrojë program studimi të ciklit të dytë, me kohë të plotë, me kohëzgjatje normale 1.5 (një pikë pesë) vit akademik dhe që realizohet me 90 kredite. Në përfundim të këtij programi studimi lëshohet diplomë universitare “Master profesional” në “Studime të thelluara në mjeshtëritë e mësimdhënies”.
