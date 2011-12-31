@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Tatimeve, si autoritet kontraktor, të shpallë brenda datës 20 dhjetor 2011, në Buletinin e Njoftimeve Publike, njoftimin e fituesit dhe njoftimin e kontratës së nënshkruar, për tenderin, me objekt “Blerje software-i për sistemin e kalimit të të dhënave nga pajisjet fiskale”.
