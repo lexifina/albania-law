@@ -1,0 +1,1 @@
+1. Hapjen në universitetin “Fan S. Noli” të Korçës të programit të studimeve të ciklit të tretë, të Doktoratës, në “Hortikulturë e qëndrueshme” në Fakultetin e Bujqësisë, në përfundim të të cilit lëshohet diplomë për gradën shkencore “Doktor” (Dr) në “Hortikulturë e qëndrueshme”.
