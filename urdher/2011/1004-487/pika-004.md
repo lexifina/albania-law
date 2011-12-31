@@ -1,0 +1,1 @@
+4. Institucioni privat i arsimit të lartë “Shkolla e lartë “Illyria””, do t’i nënshtrohet vlerësimit dhe akreditimit periodik institucional dhe të programit të studimit të përcaktuar në pikën 2 të këtij urdhri, çdo 6 vjet, sipas pikës 4, neni 62 i ligjit nr.9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar.

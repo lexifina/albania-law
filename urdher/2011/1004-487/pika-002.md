@@ -1,0 +1,1 @@
+2. Akreditimin e programit të studimit të ciklit të parë, në përfundim të të cilit lëshohet diplomë “Bachelor” në: “Shkenca politike”, në përputhje me vendimin nr.242, datë 16.9.2011 të Këshillit të Akreditimit të Arsimit të Lartë, bashkëlidhur këtij urdhri.

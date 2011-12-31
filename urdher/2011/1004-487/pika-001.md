@@ -1,0 +1,1 @@
+1. Akreditimin institucional të Fakultetit të Shkencave Politike të institucionit privat të arsimit të lartë “Shkolla e lartë “Illyria”” në përputhje me vendimin nr.242, datë 16.9.2011 të Këshillit të Akreditimit të Arsimit të Lartë, bashkëlidhur këtij urdhri.
