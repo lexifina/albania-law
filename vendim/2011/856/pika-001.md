@@ -1,0 +1,2 @@
+1. Lejimin e Autoritetit Shëndetësor Rajonal (ASHR), Tiranë, të përfundojë brenda datës 26 dhjetor 2011, procedurën e prokurimit me objekt “Blerje aparati Echo-je portabël për Sobin dhe shërbimin parësor të ASHR-së”, me fond limit 4 583 333 (katër milionë e pesëqind e tetëdhjetë e tri mijë e treqind e tridhjetë e tre) lekësh, pa TVSH.
+Brenda këtij afati të përfshihen lidhja e kontratës dhe botimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
