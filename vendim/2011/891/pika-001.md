@@ -1,0 +1,3 @@
+1. Shtyrjen e afatit të botimit të njoftimit të fituesit dhe të njoftimit të kontratës së lidhur për procedurat e prokurimit të Drejtorisë së Përgjithshme të Ujësjellës-Kanalizimeve, si autoritet kontraktor, deri në datën 26.12.2011, për tenderat me objektet e prokurimit, si më poshtë vijon:
+a) “Përfundimi i rrjetit të kanalizimeve të ujërave të zeza në zonën Përroi i Agait - Qerret, loti I (fshati Golem, linjat KUZ, stacioni i pompave nr.2 deri te stacioni i pompave nr.4)”;
+b) “Përfundimi i rrjetit të kanalizimeve të ujërave të zeza në zonën Përroi i Agait - Qerret, loti II (linjat KUZ, Përroi i Agait, stacioni i pompave nr.1 deri te stacioni i pompave nr.2)”.
