@@ -1,0 +1,1 @@
+1. Lejimin e Agjencisë së Prokurimit Publik për të botuar, në Buletinin e Prokurimit Publik, njoftimin e lidhjes së kontratës ndërmjet Drejtorisë së Përgjithshme të Metrologjisë, si autoritet kontraktor, dhe subjektit ekonomik fitues në tenderin me objekt: “Ndërtimi i sistemit të rrjetit IT të DPM-së”.
