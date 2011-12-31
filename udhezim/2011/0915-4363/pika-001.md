@@ -1,0 +1,1 @@
+1. Fondi gjendje prej 17.000.000 lekë të përdoret për mbulimin e shpenzimeve që do të kryhen gjatë procedurave për mbledhjen e detyrimeve nga subjektet debitore të financuara nga fondi kundërparti dhe “Non projekt Grand Aidi”.

@@ -1,0 +1,1 @@
+3. Për subjektet debitore, të cilat nuk kanë paguar detyrimet kontraktuale, në mbështetje të kontratës së nënshkruar, kryhet sekuestrimi i mallrave, pajisjeve, linjave të përpunimit ose serrave me ngrohje.
