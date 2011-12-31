@@ -22,7 +22,9 @@ Drejtorin e Përgjithshëm të Arkivave të Shtetit;
 gj)
 Drejtorin e Bibliotekës Kombëtare;
 h)
-Drejtorin e Qendrës së Studimeve Albanologjike.
+Drejtorin e Qendrës së Studimeve Albanologjike;
+i)
+Guvernatorin e Bankës së Shqipërisë.
 Me ftesë të kryetarit në këtë grup ftohen të marrin pjesë edhe:
 - Zëvendëskryeministri i Republikës së Kosovës;
 - Zëvendëskryeministri shqiptar i Republikës së Maqedonisë;
