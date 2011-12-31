@@ -1,0 +1,1 @@
+2. Masa e shpërblimit të anëtarëve të Komisionit Disiplinor është 10 000 (dhjetë mijë) lekë për çdo mbledhje. Masa e shpërblimit mbulohet nga llogaria e Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë.
