@@ -1,0 +1,1 @@
+2. DPPPP-ja është njësia e inteligjencës financiare shqiptare dhe funksionon si qendër kombëtare e ngarkuar me mbledhjen, analizimin dhe shpërndarjen tek agjencitë e zbatimit të ligjit dhe autoritetet e tjera kompetente të të dhënave për veprimtaritë e mundshme të pastrimit të parave dhe financimit të terrorizmit.

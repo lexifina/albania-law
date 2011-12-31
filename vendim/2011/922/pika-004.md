@@ -1,0 +1,1 @@
+4. DPPPP-ja bashkëpunon me agjencitë e zbatimit të ligjit dhe institucionet përkatëse, brenda dhe jashtë vendit, në funksion të zbatimit të standardeve ndërkombëtare në fushën e parandalimit të pastrimit të parave dhe financimit të terrorizmit dhe për harmonizimin e legjislacionit me këto standarde.

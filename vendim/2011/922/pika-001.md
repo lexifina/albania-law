@@ -1,0 +1,1 @@
+1. Organizimin e Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave, më poshtë e quajtur DPPPP, si institucion qendror buxhetor, me qendër në Tiranë, në varësi të Ministrit të Financave.
