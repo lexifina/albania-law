@@ -1,0 +1,1 @@
+4. Periudha e lejimit të importit të mbetjeve metalike të hekurit dhe çelikut, nga “Kurum Internacional” sh.a., të jetë për një afat kohor njëvjeçar, që do të fillojë me hyrjen në fuqi të këtij vendimi.
