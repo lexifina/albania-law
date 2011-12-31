@@ -1,1 +1,1 @@
-9. Çdo program studimi i ciklit të dytë “Master profesional”, funksionon në vitin e parë për vitin akademik 2011-2012, në rast se atë e ndjekin të paktën 10 studentë.
+9. Çdo program studimi i ciklit të dytë “Master profesional”, funksionon në vitin e parë për vitin akademik 2011-2012, në rast se atë e ndjekin të paktën 10 (dhjetë) studentë. Përjashtim nga ky rregull bëjnë programet e studimit të ciklit të dytë “Master profesional”, të ofruara nga Universiteti i Arteve.
