@@ -1,0 +1,1 @@
+3. Efektet financiare për pagesën e sigurimeve shoqërore dhe shëndetësore, për vitin 2012, në shumën 39 078 000 (tridhjetë e nëntë milionë e shtatëdhjetë e tetë mijë) lekë, që rrjedhin nga zbatimi i këtij vendimi, të mbulohen nga fondet e miratuara për Ministrinë e Arsimit dhe Shkencës në buxhetin e vitit 2012.

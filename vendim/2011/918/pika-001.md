@@ -1,0 +1,1 @@
+1. Numri i praktikantëve për kryerjen e praktikës profesionale, me kontratë të përkohshme, për sistemin arsimor parauniversitar, për vitin shkollor 2011-2012 dhe 2012-2013, për periudhën 1 janar-15 qershor 2012 dhe për periudhën 15 shtator-31 dhjetor 2012, të jetë 1 300 (një mijë e treqind) veta.
