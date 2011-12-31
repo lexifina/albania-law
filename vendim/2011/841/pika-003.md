@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen është 9 721 269 (nëntë milionë e shtatëqind e njëzet e një mijë e dyqind e gjashtëdhjetë e nëntë) lekë. Vlera e përgjithshme e shpronësimit të përballohet nga të ardhurat e bashkisë së Tiranës, planifikuar në buxhetin e saj.
