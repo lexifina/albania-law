@@ -1,0 +1,31 @@
+{
+  "qbz_id": 18202,
+  "title": "PËR PËRCAKTIMIN E NUMRIT TË PUNONJËSVE ME KONTRATË TË PËRKOHSHME, PËR VITIN 2012, NË NJËSITË E QEVERISJES QENDRORE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "916",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-12-28",
+  "published": "2011-12-31",
+  "in_force": "2011-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3c45df58a4c840b3fd9b7dd14f4743c78f276ef4fd9cdc7e226e4a1561eda90e.docx",
+  "source_sha256": "3c45df58a4c840b3fd9b7dd14f4743c78f276ef4fd9cdc7e226e4a1561eda90e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18202",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/12/28/916",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    8874,
+    8457,
+    8179,
+    7878
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
