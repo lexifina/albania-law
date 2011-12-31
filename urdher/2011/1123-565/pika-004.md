@@ -1,0 +1,1 @@
+4. Programi i studimeve “Master profesional” në “Marketing” të plotësojë kushtet e përcaktuara në vendimin nr.254, datë 16.9.2011 të Këshillit të Akreditimit, bashkëlidhur këtij urdhri, brenda 6 muajve nga hyrja në fuqi tij.

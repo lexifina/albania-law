@@ -1,0 +1,1 @@
+2. Programet e studimeve të ciklit të dytë “Master profesional” kanë kohëzgjatje normale prej 1,5 (një vit e gjashtë muaj) vit akademik dhe realizohen me 60 kredite “Master profesional në “Mësimdhënie”” dhe me 90 kredite “Master profesional” dhe “Marketing””.
