@@ -1,0 +1,1 @@
+1. Të pranojë rritjen e kuotës së anëtarësimit të Republikës së Shqipërisë në Fondin Monetar Ndërkombëtar për shumën 11.3 (njëmbëdhjetë pikë tre) milionë SDR, sipas rezolutës nr.63-2, datë 28.4.2008 të Këshillit të Guvernatorëve të Fondit Monetar Ndërkombëtar.
