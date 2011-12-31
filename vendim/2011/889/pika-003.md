@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen, sipas tabelës bashkëlidhur këtij vendimi, është 10 008 000 (dhjetë milionë e tetë mijë) lekë. Vlera e përgjithshme e shpronësimit përballohet nga të ardhurat e bashkisë së Shkodrës, planifikuar në buxhetin e saj.

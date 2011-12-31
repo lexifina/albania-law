@@ -1,0 +1,1 @@
+7. Shpronësimi bëhet në favor të bashkisë së Shkodrës. Regjistrimi i ri i pasurisë prej 417 (katërqind e shtatëmbëdhjetë) m² truall, shpronësuar në favor të bashkisë së Shkodrës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
