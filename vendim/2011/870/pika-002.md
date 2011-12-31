@@ -1,0 +1,1 @@
+2. Trajtim financiar përfitojnë edhe punonjësit e përfaqësive tona jashtë vendit, kur emërohen, transferohen, dërgohen me shërbim jashtë përfaqësisë ose në një vend tjetër të huaj, si dhe kur kthehen në atdhe me shërbim.

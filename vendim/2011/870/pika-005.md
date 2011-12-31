@@ -1,0 +1,1 @@
+5. Trajtimi financiar i punonjësve miratohet me urdhër të brendshëm shërbimi nga drejtuesi i institucionit, pas marrjes së autorizimit nga titullari i institucionit qendror, nga i cili varet njësia shpenzuese, i specifikuar sipas pikës 3 të këtij vendimi.
