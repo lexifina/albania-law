@@ -1,0 +1,1 @@
+1. Lejimin e botimit të njoftimit të kontratës së nënshkruar të Drejtorisë së Përgjithshme të Rrugëve dhe të drejtorive rajonale rrugore në qarqe, si autoritete kontraktore, brenda datës 20 dhjetor 2011, për objektet e caktuara sipas listave 1 dhe 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
