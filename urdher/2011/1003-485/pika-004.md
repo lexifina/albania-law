@@ -1,0 +1,1 @@
+4. Hapjen, në përputhje me vendimin nr.253, datë 16.9.2011 të Këshillit të Akreditimit, në shkollën e lartë private “Justicia”, e programeve të studimit të ciklit të parë bachelor në “Studime për zhvillimin human dhe familjen”.

@@ -1,0 +1,1 @@
+6. Programet e studimeve të përcaktuara në pikën 2 të këtij urdhri, realizohen me 120 kredite dhe kohëzgjatja normale e tyre është 2 vite akademike. Në përfundim të tyre lëshohet diplomë universitare “Master i shkencave” në fushën e arsimit të kryer.

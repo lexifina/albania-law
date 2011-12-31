@@ -1,0 +1,1 @@
+7. Programet e studimeve të përcaktuara në pikën 4 të këtij urdhri, realizohen me 180 kredite dhe kohëzgjatja normale e tyre është 3 vite akademike. Në përfundim të tyre lëshohet diplomë universitare “Bachelor” në fushën e arsimit të kryer.
