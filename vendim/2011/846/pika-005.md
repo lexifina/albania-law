@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimeve, prej 6 044 803 (gjashtë milionë e dyzet e katër mijë e tetëqind e tre) lekësh, do të përballohet nga buxheti i vitit 2011, zëri “Investime”, miratuar për Ministrinë e Punëve Publike dhe Transportit.

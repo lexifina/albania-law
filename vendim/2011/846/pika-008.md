@@ -1,0 +1,1 @@
+8. Lidhur me objektin, pronari i tij do të likuidohet pasi të ketë përfunduar procesi i regjistrimit, si dhe pasi të ketë dorëzuar dokumentacionin e pronësisë, lëshuar nga Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Tiranë, pranë DPRR-së.
