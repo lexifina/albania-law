@@ -1,0 +1,1 @@
+2. Administrimi i aplikimeve dhe përzgjedhja e kandidatëve nga Republika e Kosovës, si dhe i kandidatëve shqiptarë të Maqedonisë, Malit të Zi, Preshevës, Bujanovcit dhe Medvegjës bëhet nga institucionet publike të arsimit të lartë (IAL) pritëse, në bazë të përzgjedhjes së bërë nga vetë IAL-të publike, sipas kritereve të përcaktuara dhe të bëra publike paraprakisht.

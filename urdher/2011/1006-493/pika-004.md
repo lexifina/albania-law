@@ -1,0 +1,1 @@
+4. Institucionet publike të arsimit të lartë, deri në datë 30.10.2011, të dërgojnë kuotat e parealizuara nga regjistrimet e kandidatëve fitues, në mënyrë që Ministria e Arsimit dhe Shkencës të bëjë rishpërndarjen e tyre.

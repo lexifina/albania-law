@@ -1,0 +1,1 @@
+3. Kandidatët fitues, sipas programeve të ndryshme të studimit, midis aplikantëve nga Republika e Kosovës, si dhe kandidatëve shqiptarë të Maqedonisë, Malit të Zi, Preshevës, Bujanovcit dhe Medvegjës, shpallen në përputhje me kuotat e përcaktuara sipas tabelës nr.1, bashkëlidhur këtij urdhri.
