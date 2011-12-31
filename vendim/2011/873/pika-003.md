@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, pasuritë pronë private të cilët shpronësohen, është 5 000 000 (pesë milionë) lekë. Vlera e përgjithshme e shpronësimit përballohet nga të ardhurat e bashkisë së Fierit, planifikuar në buxhetin e saj.

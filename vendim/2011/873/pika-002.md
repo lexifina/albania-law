@@ -1,0 +1,1 @@
+2. Pronarët e pasurive të paluajtshme, që shpronësohen, për sipërfaqen prej 5000 (pesë mijë) m² tokë arë, pronë private, paraqiten sipas tabelës bashkëlidhur këtij vendimi, e cila është pjesë përbërëse e tij.
