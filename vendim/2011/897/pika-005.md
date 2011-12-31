@@ -1,0 +1,1 @@
+5. Rezultatet e vlerësimit dhe të dhënat për çdo zonë u nënshtrohen diskutimeve me publikun, në përputhje me parashikimet e vendimit nr.994, datë 2.7.2008 të Këshillit të Ministrave “Për tërheqjen e mendimit të publikut në vendimmarrjen për mjedisin”.

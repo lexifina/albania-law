@@ -1,0 +1,1 @@
+6. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave përgatit dokumentacionin për çdo zonë, në të cilin përfshihen edhe mendimet e siguruara dhe ia paraqet për mendim zyrtar ministrive të linjës, prefektëve dhe shoqatave të të zgjedhurve vendorë dhe njësive të qeverisjes vendore.

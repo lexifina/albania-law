@@ -1,0 +1,1 @@
+3. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, mbi bazën e të dhënave ekzistuese, harton një listë paraprake të zonave që potencialisht plotësojnë kriteret për t’u shpallur si ZVR. Lista paraprake e ZVR-ve i nënshtrohet vlerësimit të mëtejshëm, sipas kërkesave të përcaktuara në shtojcën 1, bashkëlidhur këtij vendimi si pjesë përbërëse e tij.
