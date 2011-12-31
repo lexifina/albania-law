@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjës 400 kV Tiranë 2 - Elbasan 2, qarku Tiranë, komunat Vaqar, Kërrabë dhe Petrelë, sipas tabelës që i bashkëlidhet këtij vendimi.
