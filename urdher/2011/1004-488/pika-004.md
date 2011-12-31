@@ -1,0 +1,1 @@
+4. Programi i studimit i ciklit të dytë “Master i shkencave”, referuar pikës 2 të këtij urdhri, realizohet me 120 kredite dhe kohëzgjatja normale e tyre është 2 vite akademike. Në përfundim të programit të studimit të ciklit të dytë, lëshohet diplomë universitare “Master i shkencave” në fushën “Inxhinieri mekatronike”.

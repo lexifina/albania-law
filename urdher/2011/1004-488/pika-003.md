@@ -1,0 +1,1 @@
+3. Programi i studimit të ciklit të parë Bachelor, referuar pikës 1 të këtij urdhri, realizohet me 180 kredite dhe kohëzgjatja normale e tyre është 3 vite akademike. Në përfundim të programit të studimit të ciklit të parë, lëshohet diplomë universitare “Bachelor” në fushën “Inxhinieri mekatronike”.

@@ -1,0 +1,1 @@
+5. Shkolla e lartë universitare private “Albanian University”, të dërgojë në Ministrinë e Arsimit dhe Shkencës, brenda 6 muajve nga data e hyrjes në fuqi të këtij urdhri, një raport për plotësimin e kushteve të vëna nga Këshilli i Akreditimit në vendimin nr.241, datë 16.9.2011 të tij.

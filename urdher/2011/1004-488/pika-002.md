@@ -1,0 +1,1 @@
+2. Hapjen, në përputhje me vendimin nr.241, datë 16.9.2011 të Këshillit të Akreditimit, në shkollën e lartë universitare private “Albanian University”, e programit të studimit të ciklit të dytë “Master i shkencave” në “Inxhinieri mekatronike”.
