@@ -1,0 +1,2 @@
+1. Lejimin e Autoritetit Shëndetësor Rajonal (ASHR), Tiranë, për përfundimin e procedurës së prokurimit me objekt “Rikonstruksioni i Urgjencës së Tiranës”, me fond limit 6 562 500 (gjashtë milionë e pesëqind e gjashtëdhjetë e dy mijë e pesëqind) lekë, pa TVSH, brenda datës 26 dhjetor 2011.
+Brenda këtij afati përfshihen lidhja e kontratës dhe botimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
