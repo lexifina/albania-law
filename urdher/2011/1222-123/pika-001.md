@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për integrimin në një bazë qendrore të informacionit për ngjarjet në aviacionin civil dhe shpërndarjen e këtij informacioni te palët e interesuara”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
