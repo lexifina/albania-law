@@ -1,0 +1,1 @@
+2. Vendimi nr.465, datë 6.10.1999 i Këshillit të Ministrave “Për miratimin e rregullores “Për bashkërendimin e veprimeve të organeve të kontrollit shtetëror dhe subjekteve që veprojnë në portet detare të Republikës së Shqipërisë””, shfuqizohet.
