@@ -1,0 +1,1 @@
+1. Hapjen në Fakultetin Ekonomik të Universitetit “Aleksandër Xhuvani” Elbasan, të programit të studimit të ciklit të dytë “Master profesional” në “Marketing”, në përfundim të të cilit lëshohet diplomë universitare “Master profesional” në “Marketing”.
