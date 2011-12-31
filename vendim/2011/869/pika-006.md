@@ -1,0 +1,1 @@
+6. Ndërmarrja e Ujësjellës-Kanalizimeve, Tiranë (kredi e BKT-së; fondet e veta), me detyrim aktual 2 097 535 296.3 (dy miliardë e nëntëdhjetë e shtatë milionë e pesëqind e tridhjetë e pesë mijë e dyqind e nëntëdhjetë e gjashtë pikë tre) lekë.

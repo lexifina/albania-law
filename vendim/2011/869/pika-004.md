@@ -1,0 +1,1 @@
+4. Ministria e Industrisë së Lehtë (Ekonomisë dhe Energjetikës) (kredi e BKT-së; COMAID1+2), me detyrim aktual 211 381 643.20 (dyqind e njëmbëdhjetë milionë e treqind e tetëdhjetë e një mijë e gjashtëqind e dyzet e tre pikë njëzet) lekë.

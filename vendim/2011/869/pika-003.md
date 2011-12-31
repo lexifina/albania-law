@@ -1,0 +1,1 @@
+3. Ministria e Ndërtimit dhe Rregullimit të Territorit (kredi e BKT-së; kredi austriake), me detyrim aktual 111 546 025.50 (njëqind e njëmbëdhjetë milionë e pesëqind e dyzet e gjashtë mijë e njëzet e pesë pikë pesëdhjetë) lekë.

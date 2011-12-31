@@ -1,0 +1,1 @@
+2. Ministria e Brendshme (Rendit) (kredi e BKT-së; kredi austriake), me detyrim aktual 21 698 400.15 (njëzet e një milionë e gjashtëqind e nëntëdhjetë e tetë mijë e katërqind pikë pesëmbëdhjetë) lekë.

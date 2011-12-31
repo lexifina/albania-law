@@ -1,0 +1,1 @@
+1. Ministria e Financave (kredi e BKT-së; fondet e veta), me detyrim aktual 161 778 950.58 (njëqind e gjashtëdhjetë e një milionë e shtatëqind e shtatëdhjetë e tetë mijë e nëntëqind e pesëdhjetë pikë pesëdhjetë e tetë) lekë.
