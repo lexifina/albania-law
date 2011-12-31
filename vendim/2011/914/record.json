@@ -1,0 +1,26 @@
+{
+  "qbz_id": 18200,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.313, DATË 1.7.2002 TË KËSHILLIT TË MINISTRAVE “PËR CAKTIMIN E STRUKTURËS, TË NUMRIT TË PUNONJËSVE DHE SHPENZIMEVE BUXHETORE TË POLICISË SË BASHKISË DHE KOMUNËS”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "914",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2011-12-21",
+  "published": "2011-12-31",
+  "in_force": "2011-12-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/5cf43cd1142735dd883d01fe1adf0197e5123b228b82cab74bbd55885bd910e9.docx",
+  "source_sha256": "5cf43cd1142735dd883d01fe1adf0197e5123b228b82cab74bbd55885bd910e9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18200",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/12/21/914",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
