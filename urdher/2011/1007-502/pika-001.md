@@ -1,0 +1,1 @@
+1. Hapjen në Akademinë e Mbrojtjes “Spiro Moisiu”, të Tiranës, të programit të studimeve të ciklit të tretë, të Doktoratës, në “Fusha e sigurisë dhe e mbrojtjes”, në përfundim të të cilit lëshohet diplomë për gradën shkencore “Doktor” (Dr) në “Fusha e sigurisë dhe e mbrojtjes”.
