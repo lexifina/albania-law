@@ -1,2 +1,0 @@
-1. Përfitojnë shpenzime udhëtimi dhe dieta në valutë të huaj:
-Punonjësit e ministrive, të institucioneve, ndërmarrjeve shtetërore etj., që dërgohen me shërbim si anëtarë delegacionesh për konferenca, veprimtari të ndryshme ndërkombëtare, bisedime për marrëveshje, biznes, anëtarë të ekipeve kulturore dhe sportive dhe punonjësit e përfaqësive tona jashtë shtetit, kur emërohen, transferohen, dërgohen me shërbim jashtë përfaqësisë ose në ndonjë shtet tjetër të huaj dhe kur kthehen në atdhe me shërbim ose kur transferohen.

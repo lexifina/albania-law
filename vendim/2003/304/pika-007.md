@@ -1,1 +1,0 @@
-7. Kur punonjësit e përfaqësive tona jashtë shtetit emërohen ose transferohen, marrin dietën e kategorisë përkatëse, ndërsa kur shoqërohen nga bashkëshortja/bashkëshorti, këta të fundit marrin dietën e kategorisë së tretë.

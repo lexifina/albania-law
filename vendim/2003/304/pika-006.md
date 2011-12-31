@@ -1,1 +1,0 @@
-6. Kur shpenzimet janë në ngarkim të palës pritëse, që do të thotë se paguan tërësisht ose pjesërisht në cash dhe pjesërisht hotelin dhe restorantin, pavarësisht nga masa e dietës që paguan shteti ynë për këto raste, personat nuk përfitojnë asgjë nga buxheti i institucionit të tyre dhe nuk i detyrohen asgjë këtij institucioni.
