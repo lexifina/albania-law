@@ -1,0 +1,1 @@
+I. Konstatimi, shqyrtimi, propozimi dhe vendosja e masave administrative për shkeljet e kryera nga subjektet e ligjit nr.9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimin e terrorizmit”, të ndryshuar, të bëhen nga Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave (DPPPP), sipas kritereve të mëposhtme:

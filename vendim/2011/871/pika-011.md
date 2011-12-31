@@ -1,0 +1,1 @@
+11. Vendimi për kundërvajtjen administrative, i vendosur nga DPPPP-ja, përbën titull ekzekutiv dhe ekzekutimi i këtij vendimi bëhet në përputhje me ligjin nr.10 279, datë 20.5.2010 “Për kundërvajtjet administrative”.

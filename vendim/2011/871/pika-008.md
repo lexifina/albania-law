@@ -1,0 +1,1 @@
+8. Drejtori i Përgjithshëm, pasi vlerëson dhe analizon praktikën e inspektimit dhe propozimin e komisionit të shqyrtimit të kundërvajtjes administrative, merr vendim për vendosjen e masës administrative ndaj subjektit ose pushimin e procedimit të kundërvajtjes administrative dhe njofton zyrtarisht subjektin.
