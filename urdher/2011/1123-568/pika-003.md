@@ -1,0 +1,1 @@
+3. Hapjen në Fakultetin e Shkencave Sociale, të Universitetit të Tiranës, programin e studimit të ciklit të dytë “Master profesional” në “Pedagogji e specializuar sociale”, në përfundim, të të cilit lëshohet diplomë universitare “Master profesional” në “Pedagogji e specializuar sociale”.
