@@ -1,0 +1,1 @@
+6. Data, ora dhe vendi i ditës së mbledhjes u njoftohen me shkrim anëtarëve, të paktën 10 (dhjetë) ditë para mbledhjes, duke u dërguar atyre edhe materialet përmbledhëse që do të shqyrtohen në mbledhje.
