@@ -1,0 +1,1 @@
+1. Kalimin në pronësi nga Ministria e Mbrojtjes te bashkia Kamëz, Tiranë, të pronës nr.198, me emërtim “QZE (PRT) e repartit ushtarak nr.3030”, me vendndodhje në Frutikulturë Kamëz, Tiranë, për ta përdorur për kryerjen e investimeve publike për ngritjen e një qendre shëndetësore dhe për ndërtimin e një shkolle të re.

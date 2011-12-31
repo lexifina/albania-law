@@ -1,0 +1,1 @@
+3. Bashkisë Kamëz, Tiranë, i ndalohet ta ndryshojë destinacionin e përdorimit të pronës nr.198, me emërtim “QZE (PRT) e repartit ushtarak nr.3030”, në Frutikulturë, Kamëz, Tiranë, të përcakuar në pikën 1 të këtij vendimi, ta tjetërsojë ose t’ua japë në përdorim të tretëve.
