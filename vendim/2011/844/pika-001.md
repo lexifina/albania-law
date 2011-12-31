@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2011, njësisë bashkiake nr.2, Tiranë t’i akordohet fondi financiar shtesë prej 500 000 (pesëqind mijë) lekësh, për dhënie ndihme financiare familjes së viktimave Genc Mehmet Spahiu, Florida Niko Spahiu dhe Jona Genc Spahiu, për mbulimin e shpenzimeve të ceremonisë mortore të viktimave.
