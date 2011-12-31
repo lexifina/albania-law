@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 10 562 424 (dhjetë milionë e pesëqind e gjashtëdhjetë e dy mijë e katërqind e njëzet e katër) lekësh, të përballohet nga buxheti i vitit 2011, zëri “Investime”, miratuar për Ministrinë e Punëve Publike dhe Transportit për programin “Rrugët nacionale”.

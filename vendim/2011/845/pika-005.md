@@ -1,0 +1,1 @@
+5. Pronarët e listave që i bashkëlidhen këtij vendimi të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur, brenda afateve ligjore, dokumentacionin e plotë të pronësisë, të rifreskuar, pranë Drejtorisë së Përgjithshme të Rrugëve.

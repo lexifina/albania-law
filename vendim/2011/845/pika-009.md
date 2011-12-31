@@ -1,0 +1,1 @@
+9. Zyrat vendore të regjistrimit të pasurive të paluajtshme të pezullojnë të gjitha transaksionet me pronarët e pasurive të shpronësuara deri në çastin kur do të realizohet procesi i hedhjes së trupit të rrugës në hartat treguese të regjistrimit dhe kalimi i pronësisë për pasuritë e shpronësuara.

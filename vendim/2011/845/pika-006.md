@@ -1,0 +1,1 @@
+6. Pronari i objektit të cilit i është bërë shënimi “Leje ndërtimi”, të likuidohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin e plotë tekniko-ligjor pranë Drejtorisë së Përgjithshme të Rrugëve.
