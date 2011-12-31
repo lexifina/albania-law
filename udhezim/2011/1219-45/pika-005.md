@@ -1,0 +1,1 @@
+5. Çdo regjistër të ketë një kod të vetin, unikal në sistemin e arsimit të lartë në Shqipëri, i përbërë nga gjashtë germa dhe dy shifra. Germa e gjashtë e kodit të regjistrit përcaktohet në bazë të ciklit të studimit dhe formës së studimit, sipas shtojcës nr.2 bashkëlidhur këtij udhëzimi.

@@ -1,0 +1,1 @@
+1. Çdo student në momentin e pranimit duhet të regjistrohet në regjistrin bazë të studentëve. Çdo studenti, në regjistrimin fillestar në një institucion të arsimit të lartë (IAL), i jepet një numër unik matrikullimi, që e shoqëron deri në marrjen e diplomës ose certifikatës.

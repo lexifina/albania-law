@@ -1,0 +1,1 @@
+8. Brenda një fakulteti regjistrat bazë të studentëve të organizohen më vete për çdo formë studimi (sistemi me kohë të plotë, kohë të pjesshme, edukim në distancë, etj.) dhe për secilin cikël studimi (cikli I, cikli II dhe cikli III).
