@@ -1,0 +1,1 @@
+4. Programi i studimeve të ciklit të tretë të Doktoratës në “Shkenca politike”, të plotësojë kushtet e përcaktuara në vendimin nr.260, datë 16.9.2011 të Këshillit të Akreditimit, bashkëlidhur këtij urdhri, brenda 6 muajve nga hyrja në fuqi e tij.

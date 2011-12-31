@@ -1,0 +1,1 @@
+1. Hapjen në Fakultetin e Shkencave Sociale, të Universitetit të Tiranës, të programit të studimit të ciklit të tretë të Doktoratës në “Shkenca politike”, në përfundim të të cilit lëshohet diplomë për gradën shkencore “Doktor” në “Shkenca politike”.
