@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Brendshme, si organ qendror blerës, të realizojë, brenda datë 31 dhejtor 2011, procedurat e prokurimit, me fondet e miratuara në buxhetin e këtij viti, të përcaktuara bashkëlidhur këtij vendimi. Brenda këtij afati të përfshihen lidhja e kontratave dhe botimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
