@@ -1,0 +1,1 @@
+1. Shpërndarjen e kuotave për transferim studimesh dhe kuotave për program të dytë studimi, për ciklin e parë, me kohë të plotë, në institucionet publike të arsimit të lartë për vitin akademik 2011-2012, sipas tabelës nr.1, bashkëlidhur këtij urdhri.
