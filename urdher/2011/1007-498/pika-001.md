@@ -1,0 +1,1 @@
+1. Hapjen në universitetin “Luigj Gurakuqi” të Shkodrës, në Fakultetin e Shkencave Shoqërore, të programit të studimeve të ciklit të tretë, të Doktoratës në “Gjuhë shqipe”, në përfundim të të cilit lëshohet diplomë për gradën shkencore “Doktor” (Dr) në “Gjuhë shqipe”.
