@@ -1,0 +1,28 @@
+{
+  "qbz_id": 18183,
+  "title": "PËR LICENcIMIN E SHOQËRISË “HEC ULËZ SHKOPET” SHA NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC ULËZ DHE HEC SHKOPET",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "132",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2011-12-06",
+  "published": "2011-12-31",
+  "in_force": "2011-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/33a5f041c7b95385fde15084767c2c33c341b141fe0cfcf5278388bc65ad68f1.docx",
+  "source_sha256": "33a5f041c7b95385fde15084767c2c33c341b141fe0cfcf5278388bc65ad68f1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18183",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/12/06/132",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26025
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
