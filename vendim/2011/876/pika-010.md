@@ -1,0 +1,1 @@
+10. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Mat, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara, deri në çastin kur do të realizohen procesi i hedhjes së trupit të rrugës në hartat treguese të regjistrimit, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
