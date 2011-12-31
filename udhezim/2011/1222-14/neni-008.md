@@ -1,0 +1,3 @@
+# Neni 8
+Konfidencialiteti i komunikimeve
+Kontrolluesit garantojnë konfidencialitetin e komunikimeve dhe të të dhënave qarkulluese që kanë të bëjnë me të, sipas qëllimit të një rrjeti të komunikimit publik dhe shërbimit të komunikimit elektronik publikisht të disponueshëm, sipas legjislacionit kombëtar. Kontrolluesit ndalojnë dëgjimin, shtypjen, magazinimin ose lloje të tjera përgjimi ose mbikëqyrje të komunikimeve dhe të dhënat qarkulluese në fjalë nga persona të ndryshëm nga përdoruesit, pa dhënien e pëlqimit të përdoruesve të interesuar, përveç kur janë ligjërisht të autorizuar për të vepruar kështu.

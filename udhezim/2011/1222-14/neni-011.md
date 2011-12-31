@@ -1,0 +1,5 @@
+# Neni 11
+Numëratori i abonentëve
+1. Kontrolluesit sigurojnë që abonentët janë të informuar, pa pagesë, dhe para se ata të jenë përfshirë në numëratorë, në lidhje me qëllimin e një numëratori të shtypur apo elektronik të abonentëve, në dispozicion të publikut në të cilin përfshihen të dhënat e tyre personale dhe në çdo mundësi të mëtejshme të shfrytëzimit, bazuar në funksionet e kërkimit të përfshira në versionet elektronike të numëratorit.
+2. Kontrolluesit sigurojnë që abonentëve u është dhënë mundësia për të përcaktuar nëse të dhënat e tyre personale janë të përfshira në një numërator publik dhe nëse po, masën për të cilat të dhëna të tilla janë relevante për qëllimin e numëratorit të përcaktuar nga dhënësi i numëratorit, dhe për të verifikuar, korrigjuar ose për të tërhequr të dhëna të tilla.
+3. Për çdo qëllim të një numëratori publik ndryshe nga kërkimi i detajuar i kontaktit të personave në bazë të emrit të tyre dhe, kur është e nevojshme, një minimum prej identifikuesve të tjerë, t’i kërkohet pëlqim shtesë abonentëve.
