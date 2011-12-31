@@ -1,0 +1,28 @@
+{
+  "qbz_id": 18185,
+  "title": "PËR LICENCIMIN E SHOQËRISË “HEC LANABREGAS” SHA NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC LANABREGAS",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "134",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2011-12-06",
+  "published": "2011-12-31",
+  "in_force": "2011-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ea8d3d125031e096282019616b4e50a701f0cb34cbc527c863eb522f2c061298.docx",
+  "source_sha256": "ea8d3d125031e096282019616b4e50a701f0cb34cbc527c863eb522f2c061298",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18185",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2011/12/06/134",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10087
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
