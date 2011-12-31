@@ -1,0 +1,1 @@
+1. Hapjen, në Qendrën e Studimeve Albanologjike (QSA) të Tiranës, të programit të studimeve të ciklit të tretë, të Doktoratës, në “Historia e arteve shqiptare”, në përfundim të të cilit lëshohet diplomë për gradën shkencore “Doktor” (Dr) në “Historia e arteve shqiptare”.
