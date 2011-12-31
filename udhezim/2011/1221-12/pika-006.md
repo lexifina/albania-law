@@ -1,0 +1,1 @@
+6. Të dhënat personale do të fshihen menjëherë pasi të mos jenë më të nevojshme për qëllimet e mbrojtjes së pronës ose drejtimit dhe sigurisë së ndërtesës me hyrje të kufizuar. Nevoja për të vazhduar ruajtjen e të dhënave personale, do të rivlerësohet çdo 14 ditë.
