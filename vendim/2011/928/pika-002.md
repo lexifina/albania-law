@@ -1,0 +1,1 @@
+2. Kriteret dhe procedurat e përdorimit të të ardhurave të përcaktohen në udhëzimin e përbashkët të Ministrit të Financave, Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe të Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve.
