@@ -1,0 +1,1 @@
+2. Vendimi nr.1040, datë 22.12.2010 i Këshillit të Ministrave “Për miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2011”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.
