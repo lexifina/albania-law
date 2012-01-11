@@ -1,0 +1,11 @@
+# Neni 21
+Procedurat e miratimit të organizmave europianë të notifikuar
+1. Organizmi europian i notifikuar, që dëshiron të ushtrojë veprimtarinë e tij në Shqipëri, përveç dokumenteve të listuara në pikën 3 të nenit 20 të këtij ligji, duhet që:
+a) të jetë i notifikuar për këtë qëllim nga një shtet anëtar i Bashkimit Europian ku është regjistruar zyra qendrore e këtij organizmi, si dhe të sigurojë evidencë të notifikimit të tij;
+b) certifikata e tij e akreditimit të mbulojë funksionimin/veprimtarinë e tij në territorin shqiptar.
+2. Ministri përgjegjës mbështetet nga organizmi kombëtar i akreditimit dhe nga një punonjës i strukturës administrative, sipas përcaktimit të bërë në pikën 2 të nenit 17 të këtij ligji, për vlerësimin e dokumentacionit të paraqitur nga aplikanti si organizëm i notifikuar europian.
+3. Organizmi kombëtar i akreditimit dhe punonjësi i strukturës administrative, sipas përcaktimit të bërë në pikën 2 të nenit 17 të këtij ligji, i zgjedhur nga ministri përgjegjës, paraqesin një opinion për përmbushjen e kërkesave të sipërpërmendura.
+4. Ministri përgjegjës vendos për kualifikimet dhe kompetencat e aplikantit në bazë të opinionit, referuar në pikën 3 të këtij neni.
+5. Ministri përgjegjës konsideron se organizmi i notifikuar europian është kompetent, kur ka evidenca se aplikanti përmbush të gjitha kërkesat e zbatueshme ndaj tij. Në këtë rast, ministri përgjegjës lëshon për aplikantin vendimin e miratimit për kryerjen e detyrave të veçanta në procedurat e vlerësimit të konformitetit, sipas këtij ligji. Organizmi i notifikuar europian dhe i miratuar nga ministri përgjegjës ka të njëjtat të drejta dhe detyrime si organet e vlerësimit të konformitetit të miratuara në Shqipëri, të ngritura sipas këtij ligji.
+6. Shpenzimet e sigurimit të evidencave për kualifikimet dhe kompetencat mbulohen nga organizmi i notifikuar europian.
+7. Procedurat e miratimit për organizmat europianë të notifikuar janë të zbatueshme edhe në rastin e organizmave të huaj të vlerësimit të konformitetit, që ushtrojnë veprimtari të inspektimeve periodike për produktet/instalimet e vëna në shërbim kur ato janë të akredituara nga një organizëm akreditues, nënshkrues i marrëveshjes shumëpalëshe me Organizatën Europiane për Akreditimin në fushën përkatëse.
