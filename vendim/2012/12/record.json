@@ -1,0 +1,28 @@
+{
+  "qbz_id": 7698,
+  "title": "PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT, NGA MINISTRIA E BRENDSHME TE MINISTRIA E TURIZMIT, KULTURËS, RINISË DHE SPORTEVE, TË OBJEKTEVE “POSTA E POLICISË KUFITARE, VIVAR”, SARANDË DHE “POSTA E POLICISË KUFITARE, KSAMIL” DHE PËR NJË NDRYSHIM NË VENDIMIN NR.250, DATË 24.4.2003 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË RENDIT PUBLIK”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "12",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-01-04",
+  "published": "2012-01-19",
+  "in_force": "2012-01-19",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/af151db9c7f50f70e3e7cb927ca1b0caef28925c814f8e8d739e00bfa0c400f1.docx",
+  "source_sha256": "af151db9c7f50f70e3e7cb927ca1b0caef28925c814f8e8d739e00bfa0c400f1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7698",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/01/04/12",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    65890
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
