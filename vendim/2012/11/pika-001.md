@@ -1,0 +1,1 @@
+1. Kalimin në pronësi, nga Ministria e Mbrojtjes te bashkia Berat, të pronës nr.1048, me emërtimin “Shtëpia e ushtarakëve”, në Berat, për sistemimin me zyra të kësaj bashkie, sipas formularit bashkëlidhur këtij vendimi.
