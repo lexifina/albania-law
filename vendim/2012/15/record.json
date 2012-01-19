@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7700,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR.140, DATË 17.2.2010 TË KËSHILLIT TË MINISTRAVE “PËR FINANCIMIN E SHËRBIMEVE SHËNDETËSORE SPITALORE NGA SKEMA E  DETYRUESHME  E  SIGURIMEVE TË KUJDESIT SHËNDETËSOR”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "15",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-01-11",
+  "published": "2012-01-19",
+  "in_force": "2012-01-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë, botohet në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1 janar 2012\": the publication day (its effects reach back to 1 janar 2012)",
+  "source": "https://qbz.gov.al/files/84fbf307d449ff545a048d47b8599caf5d852a81d9830633b9a62d04245b4e6e.docx",
+  "source_sha256": "84fbf307d449ff545a048d47b8599caf5d852a81d9830633b9a62d04245b4e6e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7700",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/01/11/15",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
