@@ -3,4 +3,6 @@ a) Ndërron vendbanim së bashku me familjen, të vërtetuar me certifikatën fa
 b) Bashkëshorti/ja humbet vendin e punës;
 c) Në vendbanimin e ri nuk ka mundësi punësimi;
 ç) Nuk ushtron veprimtari fitimprurëse;
-d) Nuk trajtohet me ndihmë ekonomike.
+d) Nuk trajtohet me ndihmë ekonomike;
+dh) Bashkëshorti/ja ka paguar rregullisht kontributet për sigurimet shoqërore deri në momentin e përfitimit të pagesës së papunësisë.
+1/1 Dokumentacioni që vërteton përmbushjen e kritereve të përcaktuara në pikën 1 të këtij vendimi, përtërihet çdo vit nga vetë përfituesi dhe dorëzohet në strukturën ku përfiton këtë pagesë.
