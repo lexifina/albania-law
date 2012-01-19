@@ -1,0 +1,1 @@
+1. Miratimin e listës paraprake të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të komunës Ballaban, të qarkut të Gjirokastrës, sipas lidhjes nr.1, e cila i bashkëlidhet këtij vendimi.
