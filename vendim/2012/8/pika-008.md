@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë, prej 151 (njëqind e pesëdhjetë e një) m2 truall, shpronësuar në favor të komunës Livadhja të qarkut të Vlorës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

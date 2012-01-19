@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet në lekë, në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, për sipërfaqen prej 151 (njëqind e pesëdhjetë e një) m2, truall, në shumën e përgjithshme të shpronësimit 236 013 (dyqind e tridhjetë e gjashtë mijë e trembëdhjetë) lekësh.

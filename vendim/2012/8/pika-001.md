@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga sistemimi i sheshit dhe vendparkimit të makinave të zyrave, në komunën Livadhja të qarkut të Vlorës.
