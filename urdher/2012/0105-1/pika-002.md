@@ -1,0 +1,1 @@
+2. Kuotat e parealizuara dhënë institucioneve publike të arsimit të lartë, sipas shkronjës “a” të pikës 1 të vendimit të sipërcituar, të shpërndahen sipas programeve dhe institucioneve publike të arsimit të lartë, sipas tabelës nr.1, bashkëlidhur këtij urdhri.
