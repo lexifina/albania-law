@@ -1,0 +1,1 @@
+3. Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta i ndalohet ta ndryshojë destinacionin e sipërfaqes së pronës, të përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojë ose t’ua japë në përdorim të tretëve.

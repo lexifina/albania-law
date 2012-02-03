@@ -1,0 +1,1 @@
+2. Sipërfaqja e truallit dhe e ndërtesave, pjesë të pronës nr.117, me emërtim “Kompania e zbulimit, raketave KT, të BRRSH”, Sharrë, Tiranë, sipas pikës 1, të këtij vendimi, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, e cila i bashkëlidhet vendimit nr.515, datë 18.7.2003 të Këshillit të Ministrave.
