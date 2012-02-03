@@ -1,0 +1,1 @@
+2. Përfaqësuesi i bashkisë/njësisë bashkiake/komunës dhe punonjësi i Policisë së Shtetit që kanë gjetur/konstatuar rastin, bëjnë dokumentimin e tij, sipas përcaktimeve në pikën 1/a., b., c., duke plotësuar përkatësisht formularin tip Mod.1/Mod.2 Mod.3 në tri kopje.

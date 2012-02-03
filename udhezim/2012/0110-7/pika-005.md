@@ -1,0 +1,1 @@
+5. Nëpunësi i zyrës së gjendjes civile zbaton rast pas rasti të gjitha procedurat e parashikuara në ligjin nr.10 129, datë 11.5.2009 “Për gjendjen civile”, për këto kategori fëmijësh dhe për çdo akt të mbajtur njofton Drejtorinë e Përgjithshme të Gjendjes Civile.

@@ -1,0 +1,4 @@
+4. Përfaqësuesi i bashkisë/njësisë bashkiake/komunës dhe punonjësi i Policisë së Shtetit, si dhe pala e interesuar nëse ka, së bashku me fëmijën, paraqiten para nëpunësit të shërbimit të gjendjes civile për të bërë deklarimin e lindjes së fëmijës pas plotësimit të praktikave, sipas përcaktimeve në pikën 1:
+a) për rastin e përcaktuar në pikën 1.a., do të plotësohet procesverbali Mod.1, të cilit i bashkëlidhet “certifikata e asistencës në lindje”/“procesverbali i hartuar në kohën e lindjes”, që disponojnë të afërmit e fëmijës;
+b) për rastin e përcaktuar në pikën 1.b., do të plotësohet procesverbali Mod.2., të cilit i bashkëlidhet “certifikata e asistencës në lindje”;
+c) për rastin e përcaktuar në pikën 1.c të këtij udhëzimi, do të plotësohet procesverbali Mod.3., të cilit i bashkëlidhet “raporti mjekësor”, i plotësuar nga mjeku i zonës ku është gjetur fëmija.

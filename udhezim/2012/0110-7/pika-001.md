@@ -1,0 +1,4 @@
+1. Përfaqësuesi i bashkisë/njësisë bashkiake/komunës dhe punonjësi i Policisë së Shtetit, të cilët duhet të përcaktohen më parë nga titullari përkatës, kur konstatojnë sipas rastit:
+a) fëmijë, të cilët janë të pajisur me “certifikatën e asistencës në lindje”/“procesverbalin e hartuar në kohën e lindjes”, por që për shkaqe të ndryshme nuk janë të regjistruar dhe nënat e tyre i kanë lënë nën kujdesin e të afërmve;
+b) fëmijë të lindur dhe të pajisur me dokumentacion, por që nuk janë regjistruar në kohë për arsye subjektive;
+c) fëmijë të gjetur, të paregjistruar, të cilët nuk janë të pajisur me dokumentacion, “certifikatën e asistencës në lindje”/“procesverbalin e hartuar në kohën e lindjes”; duhet të hartojnë menjëherë procesverbalin dhe të ndjekin regjistrimin e fëmijës në zyrën e gjendjes civile, nën juridiksionin territorial të së cilës është gjetur/deklaruar si i paregjistruar fëmija.
