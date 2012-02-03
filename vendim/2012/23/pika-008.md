@@ -1,0 +1,1 @@
+8. Transferimet e studentëve në numrin përkatës të kuotës, të përcaktuar në shkronjën “b” të pikës 1 të këtij vendimi, bëhen nga vetë institucionet publike të arsimit të lartë, në përputhje më kriteret e përcaktuara e të bëra publike paraprakisht.

@@ -1,0 +1,1 @@
+6. Kuota e pranimeve për ish-të përndjekurit politikë, e përcaktuar në shkronjën “ç” të pikës 1 të këtij vendimi, ndahet nga Ministria e Arsimit dhe Shkencës, në bazë të listës së hartuar nga Instituti i Integrimit të të Përndjekurve Politikë. Pranimet do të bëhen vetëm në rastet e plotësimit të kritereve të vendosura nga institucionet publike të arsimit të lartë.

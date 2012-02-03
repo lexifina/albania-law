@@ -1,0 +1,1 @@
+7. Çdo shtetas shqiptar që zotëron një diplomë universitare, së paku “Bachelor”, të fituar brenda ose jashtë vendit, të barasvlershme me të, ka të drejtë të aplikojë në programet e studimit të ciklit të dytë “Master profesional”, me kohë të pjesshme, në institucionet publike të arsimit të lartë.

@@ -1,0 +1,1 @@
+9. Tarifat e shkollimit dhe tarifat e shkollimit për çdo kredit, për aplikantët që do të regjistrohen në vitin e parë, në programe të para studimi të ciklit të dytë, me kohë të pjesshme, në vitin akademik 2011-2012, të jenë, për çdo program studimi dhe institucion publik të arsimit të lartë, sipas përcaktimeve të bëra në tabelën nr.2, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+2. Kuota e pranimeve të reja për programet e studimit të ciklit të dytë, me kohë të pjesshme, e përcaktuar në shkronjën “a” e pikës 1 të këtij vendimi, shpërndahet sipas tabelës nr.1, bashkëlidhur këtij vendimi.
