@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7708,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR.662, DATË 11.6.2009 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME PUBLIKE, TË SHTETIT, NË BASHKINË KONISPOL” DHE “PËR NJË NDRYSHIM NË VENDIMIN NR.894, DATË 11.6.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE, PYJE DHE KULLOTA, QË TRANSFEROHEN NË PRONËSI TË BASHKISË KONISPOL, TË QARKUT TË VLORËS””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "17",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-01-04",
+  "published": "2012-02-03",
+  "in_force": "2012-02-03",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/1bedae4bb79b2c70133cb1d172d59693ab824643ba6e3ad27f5aea40082ff1ea.docx",
+  "source_sha256": "1bedae4bb79b2c70133cb1d172d59693ab824643ba6e3ad27f5aea40082ff1ea",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7708",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/01/04/17",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
