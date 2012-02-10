@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7733,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR.545, DATË 11.8.2011 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E STRUKTURËS DHE TË NIVELEVE TË PAGAVE TË NËPUNËSVE CIVILË/NËPUNËSVE, ZËVENDËSMINISTRIT DHE NËPUNËSVE TË KABINETEVE, NË KRYEMINISTRI, APARATET E MINISTRIVE TË LINJËS, ADMINISTRATËN E PRESIDENTIT, KUVENDIT, KOMISIONIT QENDROR TË ZGJEDHJEVE, PROKURORINË E PËRGJITHSHME, DISA INSTITUCIONE TË PAVARURA, INSTITUCIONET NË VARËSI TË KËSHILLIT TË MINISTRAVE/KRYEMINISTRIT, INSTITUCIONET NË VARËSI TË MINISTRAVE TË LINJËS DHE ADMINISTRATËN E PREFEKTIT”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "52",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-02-01",
+  "published": "2012-02-10",
+  "in_force": "2012-02-10",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/995145b012734376750f43a5ed91b18028800ef3bf1361a4507de5bfbc913444.docx",
+  "source_sha256": "995145b012734376750f43a5ed91b18028800ef3bf1361a4507de5bfbc913444",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7733",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/02/01/52",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
