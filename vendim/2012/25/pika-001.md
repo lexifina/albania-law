@@ -1,0 +1,1 @@
+1. Miratimin e kritereve të vlerësimit të garës, të dokumenteve standarde dhe strukturës së Komisionit të Vlerësimit të Aplikimeve, për dhënien e licencës për lotarinë kombëtare, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
