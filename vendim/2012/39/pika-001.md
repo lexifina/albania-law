@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Mbrojtjes te Ministria e Brendshme, për prefektin e qarkut të Kukësit, të pronës nr.481, me emërtim “Dega e mobilizimit”, në Krumë, Has, sipas formularit që i bashkëlidhet këtij vendimi, për t’u përdorur për vendosjen dhe sistemimin e stacionit të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit (PMNZSH), të rrethit Has.
