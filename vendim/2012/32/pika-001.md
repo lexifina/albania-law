@@ -1,0 +1,1 @@
+1. Kalimin e së drejtës së pronësisë të pasurisë së paluajtshme me nr.737/3, në zonën kadastrale 2529, me indeks harte K-35-100 (45-B), Lundër, Tiranë, me sipërfaqe 900 (nëntëqind) m2, të regjistruar në Zyrën Vendore të Regjistrimit të Pasurive të Paluajtshme, Tiranë, në favor të subjektit kërkues “Union Group” sh.p.k.
