@@ -1,0 +1,1 @@
+2. Me garancinë financiare si institucion qeveritar, Agjencia Kombëtare për Shoqërinë e Informacionit siguron pajtueshmërinë me nenin 19 të ligjit nr.9880, datë 25.2.2008 “Për nënshkrimin elektronik.”.
