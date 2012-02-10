@@ -1,0 +1,1 @@
+3. Procedura e pagesës dhe afati të jetë sipas marrëveshjes së negocimit të datës 7.10.2011, ndërmjet investitorëve italianë I.C.M.A. s.r.l., dhe AGRI.BEN. s.a.s., dhe Republikës së Shqipërisë, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

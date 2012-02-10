@@ -1,0 +1,1 @@
+1. Pagesën e detyrimit financiar investitorëve italianë I.C.M.A. s.r.l. dhe AGRI.BEN. s.a.s., ortakë në ish-shoqërinë e përbashkët “Pranvera” sh.p.k., Sukth, Durrës, në vlerën 1 857 001 (një milion e tetëqind e pesëdhjetë e shtatë mijë e një) USD, vlerë për të cilën është rënë dakord sipas marrëveshjes së negocimit me këta investitorë, bashkëlidhur këtij vendimi.
