@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2012, miratuar për Ministrinë e Financave, të shtohet fondi prej 200 000 (dyqind mijë) USD në programin “Planifikim, menaxhim, administrim”, për të përballuar kontributin e qeverisë shqiptare në asistencën teknike të ofruar nga PNUD-i për ngritjen e sistemit të monitorimit dhe fiskalizimit të lojërave të fatit në Shqipëri.
