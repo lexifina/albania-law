@@ -1,1 +1,0 @@
-2. Kur kontrata e punës është me një kohëzgjatje të paktën dyvjeçare, punëdhënësi përfiton financimin mujor sipas pikës 1 të këtij vendimi dhe një financim mujor të barabartë me 85 për qind të shumës së shpenzimeve për sigurimet e detyrueshme (kontributi i punëdhënësit), financim i cili fillon në vitin e dytë të zbatimit të kontratës së punës dhe zgjat gjatë të gjithë vitit.

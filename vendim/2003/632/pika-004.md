@@ -1,4 +1,0 @@
-4. Kur punësohen femra të trafikuara, femra mbi 35 vjeç, femra rome, femra me aftësi të kufizuara, vajza nëna, femra të divorcuara, me probleme sociale, financimi, sipas pikave 1, 2 dhe 3, i shtohet, sipas rastit, financimi si më poshtë vijon:
-a) Në rastin e punësimit sipas pikës 1 financimi mujor shtohet deri në nivelin e katër pagave minimale në shkallë vendi;
-b) Në rastin e punësimit sipas pikës 2, përveç përfitimit sipas shkronjës ”a” të kësaj pike, financimi mujor shtohet deri në nivelin e gjashtë pagave minimale në shkallë vendi, financim i cili fillon vitin e dytë të kontratës;
-c) Në rastin e punësimit sipas pikës 3, përveç përfitimit sipas shkronjave ”a” dhe ”b” të kësaj pike, financimi mujor shtohet deri në nivelin e tetë pagave minimale në shkallë vendi, financim i cili fillon vitin e tretë të kontratës.

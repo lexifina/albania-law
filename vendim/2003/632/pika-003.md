@@ -1,1 +1,0 @@
-3. Kur kontrata e punës është me një kohëzgjatje të paktën trevjeçare, punëdhënësi përfiton financim mujor sipas pikave 1 e 2 të këtij vendimi dhe një financim të barabartë me 100 për qind të shumës së shpenzimeve për sigurime të detyrueshme (kontributi i punëdhënësit), financim i cili fillon në vitin e tretë të zbatimit të kontratës së punës dhe zgjat gjatë të gjithë vitit.
