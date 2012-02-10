@@ -1,1 +1,0 @@
-2. Pagat e funksioneve politike dhe të punonjësve të administratës së Avokaturës së Përgjithshme të Shtetit dhe të zyrave vendore të Avokaturës së Shtetit të jenë sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi.
