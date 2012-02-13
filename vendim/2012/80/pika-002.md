@@ -1,0 +1,13 @@
+2. Ngritjen e Komitetit Ndërministror të Emergjencave Civile, i cili të kryesohet nga Kryeministri dhe në përbërje të ketë këta anëtarë:
+- Ministrin e Brendshëm;
+- Ministrin e Mbrojtjes;
+- Ministrin e Financave;
+- Ministrin e Punëve Publike dhe Transportit;
+- Ministrin e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit;
+- Ministrin e Ekonomisë, Tregtisë dhe Energjetikës;
+- Ministrin e Shëndetësisë;
+- Ministrin e Arsimit dhe Shkencës;
+- Ministrin e Mjedisit, Pyjeve dhe Administrimit të Ujërave;
+- Shefin e Shtabit të Përgjithshëm të Forcave të Armatosura;
+- Drejtorin e Përgjithshëm të Policisë së Shtetit;
+- Drejtorin e Përgjithshëm të Emergjencave Civile.

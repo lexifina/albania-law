@@ -1,0 +1,1 @@
+1. Shpalljen e gjendjes së emergjencës civile (fatkeqësisë natyrore), si pasojë e përkeqësimit të kushteve natyrore të motit në njësitë e qeverisjes vendore të qarqeve Shkodër, Kukës, Dibër, Korçë dhe rrethin e Librazhdit.
