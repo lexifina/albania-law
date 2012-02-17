@@ -1,0 +1,29 @@
+{
+  "qbz_id": 7754,
+  "title": "PËR KRITERET BAZË, SEKTORËT QË DO TË MBËSHTETEN DHE MASËN E PËRFITIMIT NGA FONDI I PROGRAMIT PËR BUJQËSINË  DHE ZHVILLIMIN RURAL, PËR VITIN 2012",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "41",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-01-11",
+  "published": "2012-02-17",
+  "in_force": "2012-02-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d215023e559601a51123292640f455ad9d8129a8213e2772484f99a7becfd962.docx",
+  "source_sha256": "d215023e559601a51123292640f455ad9d8129a8213e2772484f99a7becfd962",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7754",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/01/11/41",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    8843,
+    8141
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
