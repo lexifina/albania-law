@@ -1,0 +1,1 @@
+1. Ministrisë së Brendshme në buxhetin e miratuar për vitin 2012, t’i shtohen fondet, në programin buxhetor “Rezerva e shtetit”, 20 000 000 (njëzet milionë) lekë, për mbulimin e disa shpenzimeve të nevojshme për blerje mallrash ushqimore për plotësimin e nevojave të banorëve në zonat e bllokuara, dhe në programin buxhetor “Emergjenca civile”, 10 000 000 (dhjetë milionë) lekë.
