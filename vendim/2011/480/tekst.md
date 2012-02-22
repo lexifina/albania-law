@@ -4,6 +4,10 @@ Nr.480, datë 22.6.2011
 
 PËR MIRATIMIN E RREGULLORES MODEL TË PLANIFIKIMIT
 
+(Ndryshuar me VKM nr. 140, datë 22.2.2012)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 6, të nenit 88, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar, me propozimin e ministrit të Punëve Publike dhe  transportit, Këshilli i Ministrave 
 
 VENDOSI:
@@ -30,7 +34,9 @@ Neni 1
 
 Qëllimi
 
-Kjo rregullore nxit planifikimin dhe zhvillimin e qëndrueshëm të territorit, duke shërbyer si instrumenti i vetëm, mbi të cilin mbështetet autoriteti vendor i planifikimit, për shqyrtimin e kërkesave për zhvillim dhe dhënien e lejeve për punime, deri në miratimin e instrumenteve vendore të planifikimit dhe të kontrollit të zhvillimit për territorin e tyre administrativ.
+(Shtuar fjalë me VKM nr. 140, date 22.2.2012)
+
+Kjo rregullore nxit planifikimin dhe zhvillimin e qëndrueshëm të territorit, duke shërbyer si instrumenti i vetëm me përjashtim të vendimeve të KRRTRSH-së, të cilat mbeten në fuqi sipas përcaktimeve në Rregulloren Uniforme të Kontrollit të Zhvillimit, mbi të cilin mbështetet autoriteti vendor i planifikimit, për shqyrtimin e kërkesave për zhvillim dhe dhënien e lejeve për punime, deri në miratimin e instrumenteve vendore të planifikimit dhe të kontrollit të zhvillimit për territorin e tyre administrativ.
 
 Neni 2
 
@@ -105,6 +111,14 @@ f) përmbledhja e vërejtjeve, propozimeve dhe vendimeve sipas germës “ë” 
 g) dhjetë ditë pas realizimit të dëgjimit publik të parashikuar në gërmën “ë” të kësaj pike, grupi teknik dorëzon pranë autoritetit përgjegjës për hartimin e projektit, projektin e rishikuar. Autoriteti përgjegjës e shqyrton projektin dhe vendos ta miratojë atë dhe të nisë procedurën për lejen e infrastrukturës, ose ta rishikojë bazuar në një dëgjim publik të fundit, që duhet organizuar 5 ditë pas shqyrtimit të projektit; 
 
 gj) projekti përfundimtar i miratuar botohet në regjistër dhe në mjetet tradicionale të komunikimit dhe informimit zyrtar, 15 ditë nga miratimi i tij nga autoriteti përgjegjës. 
+
+Neni 5/1
+
+Zhvillimi i infrastrukturave publike në kushtet e zbatimit të rregullores model të planifikimit
+
+(Shtuar me VKM nr. 140, date 22.2.2012)
+
+Pavarësisht nga sa përcaktohet në nenin 4 të kësaj rregulloreje, autoriteti vendor i planifikimit, subjekt i kësaj rregulloreje, jep leje zhvillimi në përputhje me procedurën e parashikuar në ligjin nr. 10 119, datë 23.4.2009 “Për planifikimin e territorit”, për projekte të rëndësishme të infrastrukturës publike sipas përcaktimeve të pikës 30 të nenit 3 të ligjit të sipërpërmendur, pa ndryshuar përdorimin ekzistues të tokës dhe/ose strukturave në të, të realizuara me investime, publike ose private, në zbatim të kushteve teknike të kërkuara sipas përcaktimit të legjislacionit të posaçëm në fuqi.
 
 Neni 6
 
