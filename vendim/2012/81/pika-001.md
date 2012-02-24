@@ -1,0 +1,1 @@
+1. Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, në buxhetin e miratuar për vitin 2012, në programin “Mbështetje për energjinë”, zëri “Transferta”, t’i shtohet fondi 2 000 000 000 (dy miliardë) lekë, për shoqërinë me kapital 100 për qind shtetëror, Korporatën Elektroenergjetike Shqiptare, në formën e një huaje afatshkurtër.
