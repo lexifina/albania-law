@@ -1,0 +1,1 @@
+1. Riorganizimin e njësive kryesore të shkollës së lartë universitare private “Medikadent”, në përputhje me vendimin nr. 294, datë 20.12.2011 të Këshillit të Akreditimit të Arsimit të Lartë “Për riorganizimin e institucional të shkollës së lartë universitare private “Medikadent””, bashkëlidhur këtij urdhri.
