@@ -1,0 +1,1 @@
+11. Çmimet “CIF”, të deklaruara në Shqipëri, do të krahasohen me çmimet e “CIF” të shteteve referente: Itali, Greqi dhe Maqedoni. Kur mungon informacioni për çmimet “CIF” nga shtetet referente, krahasimi do të bëhet me çmimet e shitjes me pakicë të barit. Çmimet e shitjes me pakicë në Shqipëri do të krahasohen me çmimet e shitjes me pakicë të barit në shtetet referente.

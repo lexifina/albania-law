@@ -1,0 +1,1 @@
+7. Komisioni i Çmimit të Barnave, brenda datës 5 nëntor, mblidhet për të shqyrtuar informacionin e përpunuar nga specialistët e çmimeve të barnave në Drejtorinë Farmaceutike, për barnat e listës që rimbursohen nga ISKSH-ja. Në këtë mbledhje, komisioni miraton çmimet që do të shpallen zyrtarisht.

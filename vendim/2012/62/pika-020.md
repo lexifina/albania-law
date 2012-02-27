@@ -1,0 +1,1 @@
+20. Kundër vendimit të Komisionit të Çmimit të Barnave, subjektet kanë të drejtën e ankimit te Ministri i Shëndetësisë, brenda 10 (dhjetë) ditësh nga data e marrjes së vendimit. Kundër vendimit përfundimtar bëhet ankim në gjykatë, brenda 30 (tridhjetë) ditëve nga data e marrjes së vendimit.

@@ -1,0 +1,1 @@
+18. Barnat, për të cilat nuk është deklaruar çmim ose nuk janë regjistruar deri më 30 nëntor të vitit aktual, humbasin të drejtën për t’u futur në listën e barnave të rimbursuara për vitin pasardhës. Bëhet përjashtim vetëm për barnat që janë alternativa të vetme në treg dhe barnat që janë në proces riregjistrimi.

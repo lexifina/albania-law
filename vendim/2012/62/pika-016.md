@@ -1,0 +1,1 @@
+16. Komisioni i Çmimit të Barnave miraton çmimet, që nuk e kalojnë “Çmimin e referencës për Shqipërinë”. Kur çmimi i barnave, që janë alternativë e vetme, del më i lartë se “Çmimi i referencës për Shqipërinë” bëhet negocim për uljen e çmimit.
