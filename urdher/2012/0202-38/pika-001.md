@@ -1,0 +1,1 @@
+1. Hapjen pranë institucionit privat “Shkolla e Lartë Ndërkombëtare e Tiranës”, të programit të ri të studimit të ciklit të parë në “Psikologji”, që realizohet me 180 kredite, me kohëzgjatje normale 3 vite akademike, në formën e studimit me kohë të plotë dhe në përfundim të të cilit lëshohet diplomë universitare “Bachelor” në “Psikologji”.

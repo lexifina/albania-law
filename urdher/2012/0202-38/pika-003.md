@@ -1,0 +1,1 @@
+3. Hapjen pranë institucionit privat “Shkolla e Lartë Ndërkombëtare e Tiranës”, të programit të ri të studimit të ciklit të dytë “Master i shkencave” në “Shkenca edukimi”, që realizohet me 120 kredite, me kohëzgjatje normale 2 vite akademike, në formën e studimit me kohë të plotë dhe në përfundim të të cilit lëshohet diplomë universitare “Master i shkencave” në “Shkenca edukimi”.
