@@ -1,0 +1,1 @@
+2. Kjo pronë “Moli i Radhimës, Orikum”, Vlorë, t’i shtohet listës së inventarit të pronave shtetërore, të miratuar e që i bashkëlidhet vendimit nr. 250, datë 24.4.2003 të Këshillit të Ministrave, të ndryshuar.

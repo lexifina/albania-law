@@ -1,0 +1,1 @@
+1. Kalimin e pronës “Moli i Radhimës, Orikum”, Vlorë, në përgjegjësi administrimi të Ministrisë së Brendshme, për Drejtorinë e Përgjithshme të Policisë së Shtetit, sipas formularit që i bashkëlidhet këtij vendimi.
