@@ -4,6 +4,10 @@ Nr.585, datë 24.8.2011
 
 PËR PJESËMARRJEN E FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË ME PËRFAQËSUES NË EKIPIN OPERACIONAL TË PATRONAZHIT DHE KOORDINIMIT POLICOR (POMLT) TË VENDEVE TË KARTËS SË ADRIATIKUT, NË OPERACIONIN USHTARAK “ISAF”, AFGANISTAN
 
+(Ndryshuar me VKM nr. 164, datë 29.2.2012)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës, të neneve 6, pika 5, e 7 të ligjit nr.9363, datë 24.3.2005 “Për mënyrën dhe procedurat e vendosjes dhe kalimit të forcave ushtarake të huaja në territorin e Republikës së Shqipërisë, si dhe për dërgimin e forcave ushtarake shqiptare jashtë vendit”, të ndryshuar, të pikave 6 e 11 të nenit 14 të ligjit nr.8671, datë 26.10.2000 “Për pushtetet dhe autoritetet e komandimit e të drejtimit strategjik të Forcave të Armatosura të Republikës së Shqipërisë”, të ndryshuar, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
 
 VENDOSI:
@@ -20,7 +24,7 @@ a) Marrja në patronazh për trajnimin, drejtimin, mbështetjen dhe zhvillimin o
 
 b) Pjesëmarrja në kryerjen e operacioneve luftarake dhe mbështetëse për plotësimin e misionit të Shkollës së Policisë Ushtarake të Ushtrisë Kombëtare Afgane (SHPUUKA), në qytetin e Kabulit, rrethinat e tij, si dhe zonën e operacioneve (ZO), e cila mund t’i jepet kësaj shkolle në patronazh nga NATO-ja, me qëllim zhvillimin e një force të aftë, kompetente dhe profesionale për dhënien e kontributit dhe sigurisë së mirëqeverisjes së popullsisë afgane në Kabul apo rrethinat e tij.
 
-4. Kohëzgjatja e këtij misioni është 2 (dy) vjet, afat, i cili fillon të llogaritet nga data e dërgimit të përfaqësuesit ushtarak në Afganistan. Kohëzgjatja për çdo rotacion është 6 (gjashtë) muaj.
+4. Kohëzgjatja e këtij misioni është 2 (dy) vjet, afat, i cili fillon të llogaritet nga data e dërgimit të përfaqësuesit ushtarak në Afganistan. Kohëzgjatja për çdo rotacion është 6 (gjashtë) muaj së cilës i shtohet edhe periudha e qëndrimit për ndërrimin me kontingjentin e radhës.
 
 5. Ministria e Mbrojtjes të përballojë, për përfaqësuesin ushtarak pjesëmarrës në këtë operacion, shpenzimet për:
 
