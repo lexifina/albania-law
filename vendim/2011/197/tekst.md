@@ -4,6 +4,10 @@ Nr.197, datë 16.3.2011
 
 PËR PJESËMARRJEN E FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË NË OPERACIONIN USHTARAK NDËRKOMBËTAR KFOR, KOSOVË
 
+(Ndryshuar me VKM nr. 172, datë 6.3.2012)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës, të nenit 7 të ligjit nr.9363, datë 24.3.2005 “Për mënyrën dhe procedurat e vendosjes dhe kalimit të forcave ushtarake të huaja në territorin e Republikës së Shqipërisë, si dhe për dërgimin e forcave ushtarake shqiptare jashtë vendit”, të  ndryshuar, dhe të pikës 6 të nenit 14 të ligjit nr.8671, datë 26.10.2000 “Për pushtetet dhe autoritetet e komandimit e të drejtimit strategjik të Forcave të Armatosura të Republikës së Shqipërisë”, të ndryshuar, me propozimin e Ministrit të Mbrojtjes, Këshilli i Ministrave
 
 VENDOSI:
@@ -12,7 +16,7 @@ VENDOSI:
 
 2. Misioni është planizimi, monitorimi, komandimi dhe kontrolli i aktivitetit operacional të seksioneve dhe njësive të KFOR-it.
 
-3. Kohëzgjatja e misionit është deri 2 (dy) vjet, me rotacion 6 (gjashtë) muaj, me venddislokim në Prishtinë, Kosovë. 
+3. Kohëzgjatja e misionit është deri 2 (dy) vjet, me rotacion 6 (gjashtë) muaj, së cilës i shtohet edhe periudha e qëndrimit për ndërrimin me kontingjentin e radhës me venddislokim në Prishtinë, Kosovë. 
 
 4. Mbështetja logjistike, shëndetësore dhe transporti strategjik Tiranë-Prishtinë dhe anasjellas është përgjegjësi e palës shqiptare.
 
@@ -34,7 +38,9 @@ e) trajtim mjekësor;
 
 ë)  mbështetje shëndetësore;
 
-f) çdo shpenzim tjetër për mbarëvajtjen e kryerjes së operacionit.
+f) çdo shpenzim tjetër për mbarëvajtjen e kryerjes së operacionit;
+
+g) shpenzime për zhvillimin e aktiviteteve social - kulturore në rastet e festave kombëtare, gjatë kohës së kryerjes së misionit.
 
  6. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i Ministrisë së Mbrojtjes.
 
