@@ -1,0 +1,7 @@
+LIGJ
+Nr. 1/2012
+PËR RATIFIKIMIN E KONVENTËS RAJONALE PËR RREGULLAT PREFERENCIALE PAN-EURO-MEDITERIANE TË ORIGJINËS
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
