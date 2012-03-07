@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2012, miratuar për Ministrinë e Drejtësisë, të shtohet fondi 100 000 (njëqind mijë) USD, për të përballuar shpenzimet administrative të arbitrazhit ndërkombëtar, për çështjen “Burimi S.r.l. e Eagle Games, sh.a., kundër Republikës së Shqipërisë”, që zhvillohet në Qendrën Ndërkombëtare për Zgjidhjen e Konflikteve në Investimet (ICSID).
