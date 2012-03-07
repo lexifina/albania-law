@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes shtesë të marrëveshjes së financimit, nënshkruar më 23 dhjetor 2010, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main, për financimin e programit “Infrastruktura bashkiake I” (Fondet e grandit IPA, 2010), sistemi i furnizimit me ujë dhe kanalizime për qytetet Fier, Gjirokastër, Lezhë dhe Sarandë”, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

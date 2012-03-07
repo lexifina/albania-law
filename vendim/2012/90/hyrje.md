@@ -1,0 +1,5 @@
+VENDIM
+Nr. 90, datë 7.2.2012
+PËR MIRATIMIN E MARRËVESHJES SHTESË TË MARRËVESHJES SË FINANCIMIT, NËNSHKRUAR MË 23 DHJETOR 2010, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE, DHE KFW FRANKFURT AM MAIN, PËR FINANCIMIN E PROGRAMIT “INFRASTRUKTURA BASHKIAKE I” (FONDET E GRANdIT IPA, 2010), SISTEMI I FURNIZIMIT ME UJË DHE KANALIZIME PËR QYTETET FIER, GJIROKASTËR, LEZHË DHE SARANDË”
+Në mbështetje të nenit 100 të Kushtetutës dhe neneve 17 e 23 të ligjit nr. 8371, datë 9.7.1998 “Për lidhjen traktateve dhe marrëveshjeve ndërkombëtare”, me propozimin e Zëvendëskryeministrit dhe Ministër i Punëve të Jashtme, Këshilli i Ministrave
+VENDOSI:
