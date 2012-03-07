@@ -1,0 +1,1 @@
+2. Ky fond, në vlerë 16 486 455 (gjashtëmbëdhjetë milionë e katërqind e tetëdhjetë e gjashtëmijë e katërqind e pesëdhjetë e pesë) lekë, përballohet nga fondi i kontigjencës, i miratuar në buxhetin e vitit 2012.
