@@ -1,0 +1,2 @@
+2. Pasuria e paluajtshme sipas pikës 1, me emërtimin “Zona e karburanteve”, t’i nënshtrohet përmirësimeve në dobi të zhvillimit të masterplanit, të miratuar me vendimin nr. 546, datë 28.5.2009 të Këshillit të Ministrave “Për miratimin e masterplanit për zhvillimin e Portit të Durrësit” dhe të zgjidhjeve efektive që rrisin rentabilitetin e portit.
+Kostot e zbatimit të projektit të përballohen nga Autoriteti Portual Durrës.
