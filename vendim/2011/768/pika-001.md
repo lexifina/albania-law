@@ -1,1 +1,1 @@
-1. Miratimin e kuotave të pranimit, gjithsej 1367, për programet e studimeve të ciklit të tretë të studimeve, të doktoratës, në institucionet publike të arsimit të lartë, për vitin akademik 2011-2012.
+1. Miratimin e kuotave të pranimit, gjithsej 1377, për programet e studimeve të ciklit të tretë të studimeve, të doktoratës, në institucionet publike të arsimit të lartë, për vitin akademik 2011-2012.
