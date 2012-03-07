@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomike e fiskal, për periudhën 2013-2015, sipas lidhjes nr.1 “Treguesit kryesorë makroekonomikë”, dhe lidhjeve nr. 2/1 e nr. 2/2 “Treguesit fiskalë sipas buxhetit të konsoliduar”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
