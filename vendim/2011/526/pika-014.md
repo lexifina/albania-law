@@ -1,1 +1,1 @@
-14. Afati përfundimtar për shqyrtimin dhe miratimin e bursave, për vitet e para, është data 15 dhjetor 2011, për të gjitha kategoritë e shkollave, ndërsa për vitin e dytë e lart është data 15 nëntor 2011.
+14. Afati përfundimtar për shqyrtimin dhe miratimin e bursave për vitet e para është data 31 janar 2012 për të gjitha kategoritë e shkollave, ndërsa për vitin e dytë e lart është data 30 dhjetor 2011.
