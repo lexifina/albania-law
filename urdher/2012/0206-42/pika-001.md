@@ -1,0 +1,1 @@
+1. Akreditimin institucional të Fakultetit të Shkencave të Edukimit dhe të Fakultetit të Menaxhimit dhe të Administrimit, në përputhje me vendimin nr. 283, datë 20.12.2011 të Këshillit të Akreditimit të Arsimit të Lartë, bashkëlidhur këtij urdhri.

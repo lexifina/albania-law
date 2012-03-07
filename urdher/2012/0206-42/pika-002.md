@@ -1,0 +1,1 @@
+2. Akreditimin e programit të studimit të ciklit të dytë “Master profesional” në “Menaxhim dhe administrim arsimi” me kohëzgjatje normale 1 vit akademik dhe me 60 kredite, në përfundim të të cilit lëshohet diplomë “Master profesional” në “Menaxhim dhe administrim arsimi”, në përputhje me vendimin nr. 283, datë 20.12.2011 të Këshillit të Akreditimit, bashkëlidhur këtij urdhri.

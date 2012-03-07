@@ -1,0 +1,1 @@
+3. Akreditimin e programit të studimit të ciklit të dytë “Master i shkencave”, në “Shkencat e edukimit”, me kohëzgjatje normale 2 vite akademike dhe me 120 kredite, në përfundim të të cilit lëshohet diplomë “Master i shkencave”, në “Shkencat e edukimit”, në përputhje me vendimin nr. 283, datë 20.12.2011 të Këshillit të Akreditimit, bashkëlidhur këtij urdhri.
