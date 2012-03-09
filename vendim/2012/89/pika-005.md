@@ -1,0 +1,1 @@
+5. Aplikantët, të cilët dëshirojnë të përfshihen në shërbimin e kujdestarisë, i nënshtrohen trajnimit për prindër kujdestarë dhe gjatë këtij procesi identifikohen kapaciteti, aftësitë dhe shprehitë e tyre si prind kujdestar.

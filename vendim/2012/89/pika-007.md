@@ -1,0 +1,1 @@
+7. Komisioni multidisiplinar i kujdestarisë i ngritur pranë bashkisë/komunës, mbështetur në dokumentacionin dhe raportet e paraqitura, vlerëson paraprakisht, nëse familja plotëson ose jo kushtet për të ofruar shërbimin e kujdestarisë.
