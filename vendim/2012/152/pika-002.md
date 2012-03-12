@@ -1,0 +1,1 @@
+2. Ngarkohet Ministria e Ekonomisë, Tregtisë dhe Energjetikës për kryerjen e procedurave të privatizimit të 100% të aksioneve të shoqërisë aksionare “Hec Bistrica 1 dhe Bistrica 2” në zbatim të pikës 1 të këtij vendimi.
