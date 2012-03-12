@@ -1,0 +1,1 @@
+1. Procedurat dhe kriteret e përzgjedhjes së investitorëve strategjikë për shitjen e 100% të aksioneve të shoqërisë aksionare “Hec Ulëz-Shkopet”, të jenë sipas shtojcës 1 që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
