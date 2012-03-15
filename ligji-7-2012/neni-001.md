@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohen vendimet e Këshillit Administrativ dhe të Bordit Drejtues të Bankës për Zhvillim të Këshillit të Europës (CEB), rezoluta nr.1532 “Propozimi i Këshillit Administrativ mbi rritjen e kapitalit të Bankës” (shtojca A), dhe rezoluta nr.386 “Vendim mbi rritjen e kapitalit të Bankës” (shtojca B), si dhe dokumenti “Letra e Guvernatorit të Bankës, datë 8.4.2011, mbi fazat e rritjes së kapitalit”.
