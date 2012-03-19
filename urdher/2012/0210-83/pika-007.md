@@ -1,0 +1,1 @@
+7. Për nxjerrjen e të dhënave, sipas pikës 6, krijohet grup ekspertësh të fushës, të propozuar nga “Albpetrol” sh.a., dhe të miratuar nga Ministri. Grupi i ekspertëve duhet të përbëhet nga 3 deri në 5 persona.

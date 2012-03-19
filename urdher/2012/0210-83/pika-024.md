@@ -1,0 +1,1 @@
+24. Deri më datë 10 të çdo muaji, kryetari i autoritetit shitës paraqet në METE një raport analitik argumentues mbi efektin fitimprurës të transaksioneve financiare të kryera në muajin paraardhës në zbatim të këtij urdhri.

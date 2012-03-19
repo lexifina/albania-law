@@ -1,0 +1,1 @@
+5. Shitja e produkteve hidrokarbure (naftës bruto) për tregun vendas me qëllim përpunimin e tyre dhe/ose për eksport, do të bëhet sipas çmimit të Bursës Ndërkombëtare për hidrokarburet (Bursës Ndërkombëtare Brent).

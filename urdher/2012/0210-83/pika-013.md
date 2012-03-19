@@ -1,0 +1,7 @@
+13. Ofertat e shoqërive vendase apo të huaja që kërkojnë të marrin pjesë në procedurën konkurruese për blerjen e produkteve hidrokarbure do të paraqiten në Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, në ambientin, datën dhe orën e përcaktuar në ofertën e publikuar dhe njoftuar.
+Drejtoria e Përgjithshme e Shërbimeve Mbështetëse në METE, me marrjen e njoftimit nga shoqëria “Albpetrol” sh.a. Patos, merr të gjitha masat për sigurimin e ambientit dhe kushteve të përshtatshme për zhvillimin e ankandit.
+Menjëherë pas skadimit të afatit përfundimtar, komisioni i shitjes fton përfaqësuesit e ofertuesve/kandidatëve të dorëzojnë ofertat të mbyllura në zarf dhe verifikon ato që janë dorëzuar më parë në njërën nga mënyrat e parashikuara në dokumentet e ankandit.
+Çdo ofertë e dorëzuar pas afatit të përcaktuar në njoftimin e autoritetit shitës nuk shqyrtohet dhe i kthehet e pahapur ofertuesit/kandidatit.
+Me paraqitjen e ofertave, ofertuesit/kandidatët ftohen të nënshkruajnë deklaratën, përmes së cilës deklarojnë se nuk ndodhen në kushtet e konfliktit të interesit me anëtarët e komisionit të shitjes.
+Dorëzimi i ofertave do të bëhet në praninë e komisionit të shitjes dhe nëpunësit të protokollit të shoqërisë “Albpetrol” sh.a. Patos në ambientet e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës.
+Oferta duhet të përmbajë dokumentet kualifikuese të ofertuesit/kandidatit dhe ofertën ekonomike.

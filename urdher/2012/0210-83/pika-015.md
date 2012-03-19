@@ -1,0 +1,2 @@
+15. Që të vazhdojë procesi i përzgjedhjes së fituesit në vijim të procedurës së hapur, me përzgjedhje të blerësve duhet të pranohet të paktën 1 (një) ofertë e vlefshme .
+Në të kundërt, autoriteti shitës ndërpret procedurën dhe fillon një procedurë të re. Autoriteti shitës, përpara se të fillojë një procedurë të re, analizon shkaqet, që shkaktuan dështimin e procedurës, dhe i korrigjon ato në mënyrë, që të bëjë të mundur rritjen e konkurrencës.

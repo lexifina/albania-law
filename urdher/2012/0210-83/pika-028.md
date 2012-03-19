@@ -1,0 +1,1 @@
+28. Urdhrat nr. 515, datë 5.7.2010 “Për rregullat dhe procedurat e shitjes së produkteve hidrokarbure” dhe nr. 581, datë 19.8.2010 “Për disa ndryshime dhe shtesa në urdhrin nr. 515, datë 5.7.2010 “Për rregullat dhe procedurat e shitjes së produkteve hidrokarbure””, të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, shfuqizohen.

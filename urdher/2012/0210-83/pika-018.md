@@ -1,0 +1,1 @@
+18. Pagesa nga ofertuesi fitues për sasinë e kontraktuar do të bëhet sipas grafikut të livrimit të mallit të rënë dakord midis palëve, por me sasi jo më të vogël se 10 000 (dhjetë mijë) tonë produkt hidrokarbur (naftë bruto) të shitur, me transfertë bankare, në CASH, me letër krediti të parevokueshme, para fillimit të lëvrimit të secilës sasi .
