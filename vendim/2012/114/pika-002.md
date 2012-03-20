@@ -1,0 +1,2 @@
+2. Ngarkohet Ministri i Turizmit, Kulturës, Rinisë dhe Sporteve për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.
