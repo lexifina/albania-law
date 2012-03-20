@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve, për vitin 2012, për Autoritetin e Komunikimeve Elektronike e Postare, në shumën 266 000 000 (dyqind e gjashtëdhjetë e gjashtë milionë) lekë, të ndarë sipas zërave, të paraqitura në lidhjen nr. 1 që i bashkëlidhet këtij vendimi.
