@@ -1,0 +1,6 @@
+VENDIM
+Nr. 111, datë 15.2.2012
+PËR MIRATIMIN E KONTRATËS SHTESË TË KONCESIONIT “PËR NJË NDRYSHIM NË KONTRATËN E KONCESIONIT TË FORMËS “BOT”, TË LIDHUR NDËRMJET MINISTRISË SË EKONOMISË, TREGTISË DHE ENERGJETIKËS DHE SHOQËRISË “AURORA KONSTRUKSION” SHPK, PËR NDËRTIMIN E HIDROCENTRALIT VLUSHË, MIRATUAR ME VENDIMIN NR. 713, DATË 21.5.2008 TË KËSHILLIT
+TË MINISTRAVE”
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 21 pika 4, e 27 të ligjit nr. 9663, datë 18.12.2006 “Për koncesionet”, me propozimin e Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, Këshilli i Ministrave
+VENDOSI:

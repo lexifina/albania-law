@@ -1,0 +1,1 @@
+1. Miratimin e kontratës shtesë të koncesionit “Për një ndryshim në kontratën e koncesionit të formës “BOT”, të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Aurora Konstruksion” sh.p.k., për ndërtimin e hidrocentralit Vlushë, të miratuar me vendimin nr. 713, datë 21.5.2008 të Këshillit të Ministrave”.
