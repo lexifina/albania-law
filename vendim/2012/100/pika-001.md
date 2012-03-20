@@ -1,0 +1,1 @@
+1. Kati i parë i ndërtesës, dhënë në përdorim për selinë qendrore të ish-Partisë Demokrate, Tiranë, i ndodhur në rrugën “Myslym Shyri”, sipas planimetrisë që i bashkëlidhet këtij vendimi, të jepet si ndërtesë për selinë qendrore të Partisë për Drejtësi, Integrim dhe Unitet.
