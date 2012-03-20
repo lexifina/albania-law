@@ -1,0 +1,1 @@
+2. Masa e pagesës së rimbursueshme, për efekt të shlyerjes me bono privatizimi, do të jetë në përputhje me përqindjet e përcaktuara në nenet 19 e 20 të ligjit nr. 9482, datë 3.4.2006 “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, të ndryshuar.

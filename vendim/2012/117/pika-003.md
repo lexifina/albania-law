@@ -1,0 +1,1 @@
+3. Procedurat përkatëse të hollësishme për rimbursimin e personave që përfitojnë nga e drejta e pagesës me bono privatizimi, përcaktohen me udhëzim të përbashkët të Ministrit të Punëve Publike dhe Transportit dhe të Ministrit të Financave.

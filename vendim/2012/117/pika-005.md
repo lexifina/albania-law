@@ -1,0 +1,1 @@
+5. Personat, që përfitojnë, janë të detyruar të bëjnë pagesën me bono privatizimi të vlerës së rimbursueshme dhe të dorëzojnë pranë drejtorive të ALUIZNI-t, në qarqe, dokumentacionin financiar, që vërteton kryerjen e kësaj pagese, brenda 10 (dhjetë) ditëve nga data e marrjes së njoftimit me shkrim.

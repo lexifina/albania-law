@@ -1,0 +1,1 @@
+8. Brenda 15 (pesëmbëdhjetë) ditëve nga data e depozitimit të dokumentacionit financiar, që vërteton kryerjen e pagesës me bono privatizimi, pranë drejtorive të ALUIZNI-t, në qarqe, bëhet i mundur transferimi i shumave të rimbursueshme në numrat e llogarive.
