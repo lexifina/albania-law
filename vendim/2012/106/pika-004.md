@@ -1,0 +1,1 @@
+4. Përjashtohen nga përfitimi i të drejtave të parashikuara në këtë vendim ata punonjës, të cilët zhvillojnë veprimtari ekonomike, në formën e punësimit apo të vetëpunësimit. Punonjësve u ndërpritet kompensimi që përfitojnë sipas këtij vendimi në rast se vërtetohet që ata zhvillojnë veprimtari ekonomike si më sipër.

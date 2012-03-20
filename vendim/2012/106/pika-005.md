@@ -1,0 +1,1 @@
+5. Të gjitha fondet e nevojshme për kompensimin e këtyre punonjësve dhe detyrimet për sigurimet, shoqërore e shëndetësore, të mbulohen nga të ardhurat e shoqërisë “Albpetrol” sh.a., Patos, përpara përfundimit të procesit të privatizimit. Pas përfundimit të procesit të privatizimit, këto fonde do të mbulohen nga të ardhurat e privatizimit.

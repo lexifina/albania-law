@@ -1,0 +1,1 @@
+3. Përfitojnë nga ky vendim të gjithë punonjësit aktualë të shoqërisë “Albpetrol” sh.a., Patos, që kanë qenë të punësuar në këtë shoqëri për një periudhë jo më pak se 2 (dy) vjet pa ndërprerje, deri në datën e hyrjes në fuqi të këtij vendimi.
