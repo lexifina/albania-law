@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për paraqitjen, hapjen dhe vlerësimin e ofertave për privatizimin e shoqërisë “Albpetrol” sh.a., Patos, sipas shtojcave 1, 2 dhe 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
