@@ -1,0 +1,5 @@
+2. Transferimi i kompetencave për statistikat bujqësore, nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit tek INSTAT-i, do të bëhet në dy faza, si më poshtë vijon:
+a) Faza e parë do të jetë ngritja e strukturës së statistikave të bujqësisë pranë qendrës së INSTAT-it, e përbërë nga 27 (njëzet e shtatë) punonjës. Kjo fazë mbyllet tre muaj pas hyrjes në fuqi të këtij vendimi.
+b) Në përfundim të fazës së parë, struktura aktuale e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit (sektorët e statistikave) pakësohet me 27 (njëzet e shtatë) punonjës dhe fondi i pagave për këta punonjës i transferohet INSTAT-it.
+c) Faza e dytë do të jetë ngritja e strukturave të statistikave bujqësore në varësi të INSTAT-it, në çdo qark të vendit. Kjo fazë mbyllet brenda datës 31 dhjetor 2012.
+ç) Në përfundim të fazës së dytë, struktura aktuale e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit (sektorët e statistikave) pakësohet me 20 (njëzet) punonjës. Fondi i pagave për këta punonjës i transferohet qendrës së INSTAT-it.

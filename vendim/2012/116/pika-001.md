@@ -1,0 +1,1 @@
+1. Instituti i Statistikave (në vijim INSTAT) do të jetë institucioni i vetëm përgjegjës në vend për grumbullimin, prodhimin, analizën dhe përhapjen e statistikave të bujqësisë dhe shkëmbimeve tregtare për produktet bujqësore dhe blegtorale.
