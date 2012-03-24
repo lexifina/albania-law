@@ -1,0 +1,1 @@
+9. Pronarët e listës, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Proces legalizimi”, do të kompensohen, për efekt shpronësimi, nga Drejtoria e Përgjithshme e Rrugëve, në përputhje me vendimin nr. 563, datë 3.8.2011 të Këshillit të Ministrave.

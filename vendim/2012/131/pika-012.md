@@ -1,0 +1,1 @@
+12. Drejtoria e Përgjithshme e Rrugëve të kryejë likuidimin e pronarëve, për të cilët është bërë shënimi “Proces legalizimi”, në përputhje me vendimin nr. 563, datë 3.8.2011 të Këshillit të Ministrave.
