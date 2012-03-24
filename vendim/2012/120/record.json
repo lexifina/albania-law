@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7883,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 33, DATË 19.1.2011 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLORES “PËR PROCEDURËN E SHQYRTIMIT, NGA KOMISIONI I PROKURIMIT PUBLIK, TË ANKESAVE NDAJ PROCEDURAVE TË ANKANDIT APO VENDIMEVE PËR PËRJASHTIM NGA KËTO PROCEDURA” DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 1719, DATË 17.12.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLAVE TË ANKANDIT PUBLIK””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "120",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-02-22",
+  "published": "2012-03-24",
+  "in_force": "2012-03-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/97202a1415674c0e2741b8e130d465f1217614ec6213748cfae5746dc1e1acdc.docx",
+  "source_sha256": "97202a1415674c0e2741b8e130d465f1217614ec6213748cfae5746dc1e1acdc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7883",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/02/22/120",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
