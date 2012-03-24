@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7885,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 184, DATË 17.3.2010 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLORES “PËR ORGANIZIMIN DHE FUNKSIONIMIN E KOMISIONIT TË PROKURIMIT PUBLIK” DHE PËR DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 659, DATË 3.10.2007 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLAVE TË PROKURIMIT PUBLIK, ME MJETE ELEKTRONIKE””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "122",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-02-22",
+  "published": "2012-03-24",
+  "in_force": "2012-03-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8a7384638777a7a48201e392e11cf7a098b874448f9e41cba98890d23d0d5e63.docx",
+  "source_sha256": "8a7384638777a7a48201e392e11cf7a098b874448f9e41cba98890d23d0d5e63",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7885",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/02/22/122",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
