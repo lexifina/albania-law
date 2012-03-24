@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 6 891 530.5 (gjashtë milionë e tetëqind e nëntëdhjetë e një mijë e pesëqind e tridhjetë pikë pesë) lekësh, të përballohet nga buxheti i vitit 2012, zëri “Investime”, miratuar për Drejtorinë e Përgjithshme të Rrugëve.
