@@ -1,0 +1,1 @@
+1. Institutit të Statistikave, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi me shumën 28 000 000 (njëzet e tetë milionë) lekë, për shpenzime për paga personeli (anketues) për organizimin dhe zbatimin e projektit të regjistrimit të përgjithshëm të njësive ekonomike bujqësore.
