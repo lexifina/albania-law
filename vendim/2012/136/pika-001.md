@@ -1,0 +1,1 @@
+1. Punonjësit e shoqërive “Hec Ulëz-Shkopet” sh.a., dhe “Hec Bistrica 1 dhe Bistrica 2” sh.a., të cilët janë në marrëdhënie pune deri më 31.1.2012, për efekt të privatizimit 100% të aksioneve të zotëruara nga shteti në këto shoqëri, i nënshtrohen procedurave të ristrukturimit nga ana e blerësit strategjik.
