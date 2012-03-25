@@ -1,0 +1,1 @@
+7. Për pasuritë, për të cilat në kolonën përkatëse është bërë shënimi “Konfirmuar nga ZRPP-ja”, pronarët do të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
