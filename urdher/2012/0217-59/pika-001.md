@@ -1,0 +1,1 @@
+1. Riorganizimin e njësive kryesore “Fakulteti i Farmacisë dhe Stomatologjisë” e “Fakulteti i Infermierisë” në “Fakulteti i Shkencave Mjekësore” të shkollës së lartë universitare jopublike “Universiteti Kristal”, në përputhje me vendimin nr. 275, datë 4.11.2011 të Këshillit të Akreditimit të Arsimit të Lartë, bashkëlidhur këtij urdhri.
