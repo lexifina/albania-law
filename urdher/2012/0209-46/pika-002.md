@@ -1,0 +1,1 @@
+2. Programet e studimit të ciklit të dytë të përcaktuara në pikën 1 të këtij urdhri realizohen me 120 kredite dhe kohëzgjatja normale e tyre është 2 vite akademike. Në përfundim të këtyre programeve të studimit lëshohet diplomë universitare “Master i shkencave” në fushën e arsimit të kryer.
