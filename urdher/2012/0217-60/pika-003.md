@@ -1,0 +1,1 @@
+3. Lejimin e fillimit të veprimtarisë akademike të Akademisë Pedagogjike, Tiranë, për programin e studimit të ciklit të dytë “Master profesional” në “Studime të thelluara në mjeshtëritë e mësimdhënies”.

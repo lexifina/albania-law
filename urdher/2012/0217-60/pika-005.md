@@ -1,0 +1,1 @@
+5. Programi i studimeve “Master profesional” të përcaktuar në pikën 3 të këtij urdhri realizohet me 90 kredite dhe kohëzgjatja normale e tyre është 1.5 vite akademike. Në përfundim të tij lëshohet diplomë “Master profesional” në “Studime të thelluara në mjeshtëritë e mësimdhënies”.
