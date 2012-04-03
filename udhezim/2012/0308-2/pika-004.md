@@ -1,0 +1,1 @@
+4. Njësitë e qeverisjes vendore paraqesin projektet dhe nivelin e financimit për financimin nga fondet e mbrojtjes sociale, sipas germës “d” të pikës 1, pranë Drejtorisë së Përgjithshme të Shërbimit Social.
