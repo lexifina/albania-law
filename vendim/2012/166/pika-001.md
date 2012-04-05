@@ -1,0 +1,1 @@
+1. Përfundimin e gjendjes së emergjencës civile (fatkeqësisë natyrore), si rezultat i përmirësimit të kushteve natyrore të motit, në njësitë e qeverisjes vendore në qarqet Shkodër, Kukës, Dibër, Korçë dhe në rrethin e Librazhdit.
