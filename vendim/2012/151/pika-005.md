@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 719 040 (shtatëqind e nëntëmbëdhjetë mijë e dyzet) lekësh, të përballohet nga buxheti i vitit 2012, zëri “Kosto lokale”, miratuar për Drejtorinë e Përgjithshme të Ujësjellës-Kanalizimeve.

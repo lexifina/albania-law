@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Ujësjellës-Kanalizimeve të kryejë likuidimet për efekt shpronësimi për pronarët sipas listës bashkëlidhur këtij vendimi, në bazë të dokumentacionit të rifreskuar që do të dorëzojnë pronarët.

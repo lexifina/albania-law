@@ -1,0 +1,1 @@
+10. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyra vendore e regjistrimit të pasurive të paluajtshme, Lezhë, të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur do të realizohen procesi i hedhjes së gjurmës së shpronësimit në hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.

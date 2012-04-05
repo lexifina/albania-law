@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i linjave kryesore të dërgimit të sistemeve të kanalizimeve të ujërave të zeza të Lezhës dhe Shëngjinit për në ITUP-in e qytetit të Lezhës.
