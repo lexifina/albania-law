@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të bashkisë së Beratit të pasurisë nr. 20/81, truall, në zonën kadastrale nr. 8502, me sipërfaqe 7663 (shtatë mijë e gjashtëqind e gjashtëdhjetë e tre) m2, pjesë e pronës nr. 1317, në listën e inventarit të pronave të paluajtshme shtetërore, në bashkinë e Beratit, sipas formularit dhe planvendosjes bashkëlidhur, për ngritjen e tregut industrial.
