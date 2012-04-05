@@ -1,0 +1,2 @@
+2. Ministria e Financave autorizohet të përdorë të gjitha procedurat shtrënguese ligjore, me qëllim që të shlyhen në një kohë sa më të shkurtër detyrimet e institucioneve buxhetore dhe jobuxhetore të marra përsipër nga KESH-i dhe OST-ja, sipas kësaj marrëveshje, si dhe të gjitha detyrimet e tjera që nuk janë pjesë e kësaj marrëveshjeje.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

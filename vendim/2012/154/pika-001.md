@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes për fillimin e procedurave për shuarjen, me kompensim, të detyrimeve të ndërsjella ndërmjet institucioneve buxhetore dhe jobuxhetore, ndërmarrjeve dhe shoqërive të kontrolluara nga shteti dhe “CEZ Shpërndarje”, sh.a., sipas tekstit që i bashkëlidhet këtij vendimi.
