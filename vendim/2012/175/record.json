@@ -1,0 +1,30 @@
+{
+  "qbz_id": 7952,
+  "title": "PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN NË PRONËSI OSE NË PËRDORIM TË BASHKISË LUSHNJË, TË QARKUT TË FIERIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "175",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-03-06",
+  "published": "2012-04-05",
+  "in_force": "2012-04-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/360a10288506f51cb3e8d276644e5dda58adb6765f3edcc138ed26062db37d63.docx",
+  "source_sha256": "360a10288506f51cb3e8d276644e5dda58adb6765f3edcc138ed26062db37d63",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7952",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/03/06/175",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    21582,
+    67322,
+    63660
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
