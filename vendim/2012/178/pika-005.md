@@ -1,0 +1,1 @@
+5. “Leje mjedisi” ka kuptimin e dhënë në ligjin nr. 10 448, datë 14.7.2011 “Për lejet e mjedisit”, e lëshuar në përputhje me kërkesat dhe kushtet e parashtruara në përmbushje të të gjitha kërkesave të këtij vendimi.

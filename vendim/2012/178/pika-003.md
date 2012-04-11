@@ -1,0 +1,1 @@
+3. “Kapacitet nominal”, shuma e kapaciteteve të bashkincinerimit të furrave prej të cilave përbëhet impianti i bashkincinerimit, ashtu siç specifikohet nga ndërtuesi dhe konfirmohet nga operatori, duke marrë parasysh, në veçanti, vlerën kalorifike të mbetjeve, të shprehur në sasinë e mbetjeve të incineruara në orë.

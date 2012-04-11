@@ -1,0 +1,1 @@
+9. “Ujëra të ndotura” ka kuptimin e dhënë në pikat 1, 2 dhe 3, të nenit 3, të ligjit nr. 9115, datë 24.7.2003 “Për trajtimin mjedisor të ujërave të ndotura”, dhe çdo ujë tjetër i ndotur që i nënshtrohet rregulloreve sipas legjislacioneve të tjera, për shkak të substancave apo objekteve që përmban.
