@@ -1,6 +1,6 @@
 # Neni 9
 Statusi dhe financimi i INSTAT-it
-1. INSTAT-i është person juridik publik.
+1. INSTAT-i është person juridik publik në varësi të Kryeministrit.
 2. Organet drejtuese të INSTAT -it janë:
 a) Këshilli i Statistikave;
 b) Drejtori i Përgjithshëm.
