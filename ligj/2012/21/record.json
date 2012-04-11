@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7907,
+  "title": "PËR NJË NDRYSHIM NË LIGJIN NR. 9180, DATË 5.2.2004 “PËR STATISTIKAT ZYRTARE”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "21",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2012-03-01",
+  "published": "2012-03-27",
+  "in_force": "2012-04-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/6eecc6b26c953746b0a463906dc9c5dc4d8443e15e974e50dc9ac96965528b61.docx",
+  "source_sha256": "6eecc6b26c953746b0a463906dc9c5dc4d8443e15e974e50dc9ac96965528b61",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7907",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2012/03/01/21",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
