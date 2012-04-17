@@ -1,0 +1,1 @@
+1. Transferimin e infrastrukturës së ujitjes dhe kullimit, nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit (Bordi i Kullimit, Shkodër), në pronësi të komunës Bushat, Shkodër, pa ndryshuar destinacionin, sipas listës nr. 1, bashkëlidhur këtij vendimi.

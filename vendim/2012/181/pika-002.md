@@ -1,0 +1,1 @@
+2. Lista e inventarit të pronave të paluajtshme shtetërore, të Bordit të Kullimit Shkodër, për komunën Bushat, e përcaktuar me vendimin nr. 1157, datë 25.11.2009 të Këshillit të Ministrave, zëvendësohet me listën nr. 2, që i bashkëlidhet këtij vendimi.

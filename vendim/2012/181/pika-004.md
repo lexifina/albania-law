@@ -1,0 +1,1 @@
+4. Me hyrjen në fuqi të këtij vendimi, komuna Bushat është përgjegjëse për operimin, mirëmbajtjen, rehabilitimin dhe sigurinë e infrastrukturës ujitëse e kulluese të transferuar, për të realizuar ujitjen dhe kullimin në këtë komunë sipas parametrave teknikë të projektit dhe legjislacionit në fuqi.

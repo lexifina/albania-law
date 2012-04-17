@@ -1,0 +1,1 @@
+3. Listës së inventarit të pronave të paluajtshme shtetërore, që i transferohen në pronësi komunës Bushat, që i bashkëlidhet vendimit nr. 68, datë 28.1.2008 të Këshillit të Ministrave, i shtohen pronat sipas listës nr. 1, që i bashkëlidhet këtij vendimi.

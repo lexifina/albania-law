@@ -1,0 +1,1 @@
+5. Çdo projektzbatim i hartuar nga komuna Bushat, që lidhet me rehabilitimin / rikonstruksionin e objekteve të infrastrukturës ujitëse e kulluese sipas listës nr. 1, para zbatimit, duhet të miratohet nga Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
