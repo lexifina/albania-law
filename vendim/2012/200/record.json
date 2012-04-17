@@ -1,0 +1,26 @@
+{
+  "qbz_id": 7986,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR. 839, DATË 5.12.2007 TË KËSHILLIT TË MINISTRAVE “PËR PËRCAKTIMIN E KUSHTEVE DHE TË PROCEDURAVE PËR RIMBURSIMIN E AKCIZËS SË PAGUAR DHE KRIJIMIN E KUSHTEVE LEHTËSUESE, PËR NDËRTIMIN E BURIMEVE TË PRODHIMIT TË ENERGJISË ELEKTRIKE, ME FUQI TË INSTALUAR JO MË PAK SE 5 MW”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "200",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-03-21",
+  "published": "2012-04-17",
+  "in_force": "2012-04-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/700f00a9ba82a1cb114b9c1531b0cdf5bb640d3b2cc96453474c1eed76cfe1d4.docx",
+  "source_sha256": "700f00a9ba82a1cb114b9c1531b0cdf5bb640d3b2cc96453474c1eed76cfe1d4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/7986",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/03/21/200",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
