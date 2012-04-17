@@ -9,3 +9,4 @@ b) shpenzime administrative, në funksion të forcave tona pjesëmarrëse në k�
 - shpenzimet për siguracion automjeti, mirëmbajtjeje dhe riparime;
 - shpenzimet për siguracion shëndetësor;
 - shpenzimet për shërbimet telefonike fiks dhe të lëvizshme.
+c) shpenzime për zhvillimin e aktiviteteve social-kulturore në rastet e festave kombëtare, gjatë kohës së kryerjes së misionit.
