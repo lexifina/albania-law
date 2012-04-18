@@ -1,0 +1,1 @@
+4. Subjekti i cili paraqet kërkesën, si dhe materiali mbjellës dhe shumëzues bimor mbi të cilin paraqitet kërkesa, duhet të plotësojnë të gjitha kërkesat e tjera për tregtim të përcaktuar në ligjin nr. 10 416, datë 7.4.2011 “Për materialin mbjellës dhe shumëzues bimor”.
