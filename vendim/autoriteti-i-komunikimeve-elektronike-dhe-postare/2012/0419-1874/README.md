@@ -1,0 +1,9 @@
+# Vendim nr. 1874, datë 19.4.2012 (Autoriteti i Komunikimeve Elektronike dhe Postare)
+
+Title on the official site: VendimNr-1874date-19-4-2012
+
+Official file: <https://akep.al/wp-content/uploads/2021/07/VendimNr-1874date-19-4-2012.pdf>. Official media record: <https://akep.al/wp-json/wp/v2/media/3824> (listed 2021-07-27T10:59:18 UTC).
+
+Number and date read from the official title (“_” and “-” read as spaces): “VendimNr 1874date 19 4 2012”.
+
+Metadata record: the decision text is not reproduced here yet; it can follow as its own commit.
