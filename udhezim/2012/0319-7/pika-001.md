@@ -1,0 +1,1 @@
+1. Përdorimi i aditivit ushqimor “E 960 Steviol Glykoside” në produktet ushqimore të prodhuara ose të importuara në Republikën e Shqipërisë, të bëhet sipas kritereve të përcaktuara në shtojcën I, bashkëlidhur këtij udhëzimi.
