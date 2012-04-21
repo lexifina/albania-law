@@ -1,0 +1,4 @@
+# Neni 4
+1. Personi i interesuar për të hyrë në prova për leje drejtimi të mjetit rrugor, në zbatim të nenit 119 të Kodit Rrugor, paraqet nëpërmjet drejtuesit teknik të autoshkollës, në sektorin përkatës të DRSHTRR-së, dëshminë e kursit të trajnimit për dhënien e ndihmës së shpejtë mjekësore në rast aksidenti rrugor, së bashku me dokumentet e përcaktuara për marrjen në provën e njohurive teorike.
+2. Sektori përkatës i DRSHTRR-së, pasi verifikon dëshminë e kursit të trajnimit për dhënien e ndihmës së shpejtë mjekësore në rast aksidenti rrugor, plotëson dokumentet e personit të interesuar për të hyrë në prova për lejedrejtimi të mjetit rrugor me fotokopjen e nënshkruar nga punonjësi i pranimit.
+3. Komisioni i kontrollit të njohurive teorike për lejedrejtimi të mjetit rrugor, realizon provën e testimit vetëm për personat e interesuar të cilët në dokumentet e paraqitura është e fotokopja e nënshkruar e dëshmisë së kursit të lëshuar nga Kryqi i Kuq Shqiptar.
