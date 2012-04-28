@@ -1,0 +1,7 @@
+# Neni 47
+Regjistrimi i punimeve të reja në fazën e karabinasë
+1. Pas përfundimit të objektit në fazën e karabinasë, regjistruesi bën regjistrimin e përkohshëm të karabinasë në një regjistër të veçantë, të ndryshëm nga regjistri ku është regjistruar leja e ndërtimit, duke kryer lidhjen me truallin, në të cilin po kryhet ndërtimi, regjistrim i cili është i vlefshëm deri në përfundimin e strukturës, për efekt të kreditimit të zhvillimit në cilësinë e investitorit dhe/ose subjekteve, me të cilat investitori ka lidhur aktet noteriale, të përmendura në pikën 2 të nenit 45 të këtij ligji dhe të pikës 2 të këtij neni.
+2. Në regjistrin e veçantë të karabinasë regjistrohen aktet noteriale, të përmendura në pikën 2 të nenit 46 të këtij ligji, dhe ato të cilat nuk janë regjistruar në regjistrin e lejes së ndërtimit, por paraqiten për regjistrim nga subjektet e interesuara pas regjistrimit të karabinasë.
+3. Pas regjistrimit të karabinasë, regjistruesi lëshon dokumente të përkohshme në favor të zhvillimit në cilësinë e investitorit dhe të subjekteve, me të cilat ky i fundit ka nënshkruar aktet noteriale, të përmendura në pikën 2 të nenit 46 të këtij ligji. Regjistrimi i karabinasë dhe certifikatat e përkohshme janë të vlefshme deri në regjistrimin përfundimtar të ndërtimit të ri, sipas nenit 48 të këtij ligji.
+4. Parimi i përparësisë së regjistrimit, sipas nenit 37 të këtij ligji, zbatohet edhe për regjistrimet e kryera në fazën e karabinasë.
+5. Kriteret dhe procedurat për regjistrimin e karabinasë miratohen me udhëzim të Këshillit të Ministrave.

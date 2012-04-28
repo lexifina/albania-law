@@ -1,0 +1,3 @@
+# Neni 26
+Njoftimi publik
+Informacioni për regjistrimin e kryer, sipas nenit 25 të këtij ligji, duhet të afishohet për 45 ditë në një vend të përshtatshëm për konsultim publik, brenda zonës kadastrale ku këto pasuri janë të lokalizuara. Ky afishim duhet të shoqërohet edhe me kryerjen e një njoftimi publik, për të lajmëruar individët që mund të kenë ndonjë pretendim për pasuritë e paluajtshme të regjistruara. Të gjitha gabimet e konstatuara apo pretendimet e paraqitura gjatë kohës së afishimit duhet t’i bëhen të ditura regjistruesit. Çdo pretendim i paraqitur pas kësaj periudhe 45-ditore të afishimit nuk do të pranohet për shqyrtim nga regjistruesi.
