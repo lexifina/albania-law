@@ -1,0 +1,1 @@
+1. Kalimin e pronës “Muzeu Historik Kombëtar”, me numër pasurie 0-11, në zonën kadastrale nr. 8350, Tiranë, në përgjegjësi administrimi të Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, sipas formularit që i bashkëlidhet këtij vendimi.
