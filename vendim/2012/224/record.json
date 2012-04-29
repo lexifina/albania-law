@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8043,
+  "title": "PËR NJË SHTESË NË VENDIMIN NR. 473, DATË 16.7.2004 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE NË KOMUNËN E ISHMIT” DHE PËR NJË SHTESË NË VENDIMIN NR. 284, DATË 12.3.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PYJEVE DHE KULLOTAVE QË DO TË TRANSFEROHEN NË PRONËSI TË NJËSISË SË QEVERISJES VENDORE, KOMUNA ISHËM, TË QARKUT TË DURRËSIT”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "224",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-03-28",
+  "published": "2012-04-29",
+  "in_force": "2012-04-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b3d9a7e7d10235fc4a53febd84c6bfb156995c82b20badf61e187b13cd5e8778.docx",
+  "source_sha256": "b3d9a7e7d10235fc4a53febd84c6bfb156995c82b20badf61e187b13cd5e8778",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8043",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/03/28/224",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
