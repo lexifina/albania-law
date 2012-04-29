@@ -1,0 +1,1 @@
+4. Programet e studimit të akredituara, të përcaktuara në pikën 2 të këtij urdhri, u nënshtrohen vlerësimit dhe akreditimit periodik. Bazuar në pikën 4 të nenit 62 të ligjit nr. 9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, vlerësimi dhe akreditimi periodik kryhet çdo 6 vjet.

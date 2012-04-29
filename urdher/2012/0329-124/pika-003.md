@@ -1,0 +1,1 @@
+3. “Shkolla e Lartë Private Mesdhetare e Shqipërisë” të plotësojë rekomandimet e përcaktuara në vendimin nr. 303, datë 13.1.2012 të Këshillit të Akreditimit, bashkëlidhur këtij urdhri dhe të raportojë në Ministrinë e Arsimit dhe Shkencës, për plotësimin e tyre, brenda 6 muajve, nga data e hyrjes në fuqi të këtij urdhri.
