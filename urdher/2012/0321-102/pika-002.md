@@ -1,0 +1,1 @@
+2. Programi i studimit i përcaktuar në pikën 1 të këtij urdhri, realizohet me 180 kredite, dhe kohëzgjatja normale është 3 vite akademike. Në përfundim të tij lëshohet diplomë universitare “Bachelor”, në “Psikologji”.

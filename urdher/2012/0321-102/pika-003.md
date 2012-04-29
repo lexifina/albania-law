@@ -1,0 +1,1 @@
+3. Hapjen, në përputhje me vendimin nr. 267, datë 4.11.2011 të Këshillit të Akreditimit, në institucionin e arsimit të lartë privat “Universiteti Amerikan i Tiranës”, i programit të studimit të ciklit të dytë “Master i shkencave” në “Arkitekturë” pranë Fakultetit të Arkitekturës dhe Arteve Figurative.

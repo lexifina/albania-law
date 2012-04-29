@@ -1,0 +1,1 @@
+4. Programi i studimeve i përcaktuar në pikën 3 të këtij urdhri, realizohet me 300 kredite dhe kohëzgjatja normale e tij është 5 vite akademike. Në përfundim të tij lëshohet diplomë universitare “Master i shkencave” në “Arkitekturë”.
