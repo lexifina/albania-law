@@ -1,0 +1,1 @@
+1. Autorizimin për magazinimin, transferimin dhe asgjësimin e lëndëve plasëse për përdorim civil, për personat fizikë ose juridikë, privatë apo publikë, vendas ose të huaj, jepet nga komisariati i policisë së rrethit, ku subjekti zhvillon aktivitetin me lëndë plasëse.

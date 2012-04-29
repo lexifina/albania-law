@@ -1,0 +1,1 @@
+10. Shqyrtimi i dokumentacionit për pajisjen me autorizim për transferimin e lëndëve plasëse për përdorim civil, sipas pikës 9 të këtij vendimi, bëhet nga komisariati i policisë brenda 25 (njëzet e pesë) ditëve nga data e aplikimit për marrjen e tij.

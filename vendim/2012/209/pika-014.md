@@ -1,0 +1,1 @@
+14. Policia e Shtetit, për qëllimet e përcaktuara në këtë vendim, ka të drejtë të kryejë kontrolle dhe verifikime, rast pas rasti, në depot e magazinimit, gjatë transferimit dhe asgjësimit të lëndëve plasëse për përdorim civil.

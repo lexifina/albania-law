@@ -1,0 +1,1 @@
+13. Shqyrtimi i dokumentacionit për asgjësimin e lëndëve dhe materialeve plasëse të përdorimit civil të skaduara, si dhe të mbeturinave të tyre dhe kthimi i përgjigjes bëhen nga komisariati i policisë brenda 10 (dhjetë) ditëve nga data e aplikimit për marrjen e tij.
