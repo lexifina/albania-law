@@ -2,18 +2,21 @@
 Lidhja nr.1
 Struktura e Komisionit shtetëror për ndihmëN juridike
 Lidhja nr.2
-Organika e sekretariatit të komisionit shtetëror për ndihmën juridike
-Pozicioni
-Numri
-Specialist jurist
+ORGANIKA E SEKRETARIATIT TË KOMISIONIT SHTETËROR PËR NDIHMËN JURIDIKE
+POZICIONI
+KATEGORIZIMI
+NUMRI
+SPECIALIST ARKIV PROTOKOLL/SEKRETAR
+IV-a
 1
-Specialist shërbimi dhe kontrolli
+SPECIALIST JURIST
+IV-a
 1
-Specialist buxheti dhe finance
+SPECIALIST SHËRBIMI DHE KONTROLLI
+IV-a
 1
-Specialist arkivi dhe protokolli
+SPECIALIST EKONOMIST
+IV-a
 1
-Sekretar i kryetarit
-1
-Punonjës gjithsej
-5
+PUNONJËS GJITHSEJ
+4
