@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes së koncesionit të formës “ROT”, ndërmjet Ministrisë së Ekonomisë e Ministrisë së Industrisë dhe të Energjetikës nga njëra anë, dhe shoqërisë “Emikel” sh.p.k., për hidrocentralet vendore, Lenie, Çorovodë, Tuçep, sipas tekstit që i bashkëlidhet këtij vendimi.
