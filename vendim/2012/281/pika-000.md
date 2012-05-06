@@ -1,0 +1,2 @@
+Autorizimin e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit për vendosjen e së drejtës së servitutit të kalimit në favor të shoqërisë “Tirana Business Park”, sh.p.k., mbi pasuritë e paluajtshme, pronë shtetërore, me numër 88, 84/14, 84/16 dhe 218, të zonës kadastrale 1669, Fushë-Prezë, Tiranë, si dhe nënshkrimin e marrëveshjes përkatëse për këtë qëllim.
+Ky vendim hyn në fuqi menjëherë.
