@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi kushtet dhe metodat e përdorimit të deltaplaneve dhe të parashutave”, sipas tekstit dhe shtojcave përkatëse që i bashkëlidhen këtij urdhri dhe janë pjesë përbërëse e tij.
