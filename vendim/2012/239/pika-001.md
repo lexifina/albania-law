@@ -1,0 +1,1 @@
+1. Kalimin e të drejtës së pronësisë të pasurisë së paluajtshme me nr. 29/19, në zonën kadastrale 2735, fshati Mullet, komuna Petrelë, Tiranë, me indeks harte K-34-100 (44-D), me sipërfaqe 940 (nëntëqind e dyzet) m², të regjistruar në Zyrën Vendore të Regjistrimit të Pasurive të Paluajtshme, Tiranë, në favor të subjektit kërkues “Mane TCI” sh.p.k.
