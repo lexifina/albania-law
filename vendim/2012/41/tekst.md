@@ -4,6 +4,10 @@ Nr.41, datë 11.1.2012
 
 PËR KRITERET BAZË, SEKTORËT QË DO TË MBËSHTETEN dhe MASËN E PËRFITIMIT NGA FONDI I PROGRAMIT PËR BUJQËSINË  DHE ZHVILLIMIN RURAL, PËR VITIN 2012
 
+(Ndryshuar me VKM nr. 306, datë 9.5.2012; nr. 800, 14.11.2012)
+
+(I përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës, të pikës 3 të nenit 6 të ligjit nr.9817, datë 22.10.2007 “Për bujqësinë dhe zhvillimin rural” dhe të nenit 15 të ligjit nr.10 487, datë 5.12.2011 “Për buxhetin e vitit 2012”, me propozimin e Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Këshilli i Ministrave  
 
 VENDOSI:
@@ -92,9 +96,11 @@ V. Projektet  e shpallura fituese gjatë vitit 2011, për mbjelljen e arroreve,
 
 VI. Në komisionin e vlerësimit të projekteve për  skemat mbështetëse të pemëtarisë do të marrë pjesë një përfaqësues i pushtetit vendor.
 
-VII. 70 000 000 (shtatëdhjetë milionë) lekë do të përdoren për bashkëfinancimin me projektin e IPA-s, 2011 “Bujqësia dhe zhvillimi rural”.
+VII. 100 000 (njëqind mijë) lekë do të përdoren për bashkëfinancimin me projektin e IPA-s, 2011 “Bujqësia dhe zhvillimi rural’.
 
-VIII. Për informimin mediatik të publikut lidhur me masat e mbështetjes së programit për bujqësinë dhe zhvillimin rural, për vitin 2012, të përdoren nga ky fond 5 000 000 (pesë milionë) lekë. 
+VII/1. Shuma prej 69 900 000 (gjashtëdhjetë e nëntë milionë e nëntëqind mijë) lekësh do të kalojë për të financuar skemat kombëtare të mbështetjes së fermerëve në prodhimin bujqësor, blegtoral dhe të agropërpunimit.
+
+VIII. Për informimin e publikut, si edhe për aktivitete të tjera promovuese të përdoren nga ky fond 15 000 000 (pesëmbëdhjetë milionë) lekë.
 
 IX. Kriteret, procedura dhe mënyra e administrimit të fondit të programit përcaktohen në udhëzimin e përbashkët të Ministrisë së Financave dhe të Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
 
