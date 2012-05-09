@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8057,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 180, DATË 31.3.2005 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, NË KOMUNËN E KOZARËS TË QARKUT TË BERATIT”, DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 326, DATË 19.3.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PYJEVE DHE KULLOTAVE QË DO TË TRANSFEROHEN NË PRONËSI TË NJËSISË SË QEVERISJES VENDORE, KOMUNA KOZARË, TË QARKUT TË BERATIT”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "225",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-03-28",
+  "published": "2012-05-09",
+  "in_force": "2012-05-09",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/14e82f279f0fa75bc53aec92a05a2eae9595157ff1895e13d6ed22de18be1195.docx",
+  "source_sha256": "14e82f279f0fa75bc53aec92a05a2eae9595157ff1895e13d6ed22de18be1195",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8057",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/03/28/225",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
