@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kriteret dhe procedurat e licencimit të ekuipazhit fluturues, organizatave të trajnimit dhe seksioneve aeromjekësore AMC dhe AME”, sipas tekstit që i bashkëlidhet këtij urdhri dhe procedurave përkatëse që janë pjesë përbërëse e tij.
