@@ -1,0 +1,5 @@
+# Neni 31
+Transferimi i procedimeve penale nga Task Forca Hetimore Speciale e EULEX-it tek autoritetet kompetente shqiptare
+1. Çdo procedim që fillon nga operacionet e Task Forcës Hetimore Speciale të EULEX-it, që vendoset t’u dorëzohet autoriteteve gjyqësore vendore, ose çdo informacion i rëndësishëm për fillimin e një procedimi penal, sipas rregullave të parashikuara nga Kodi i Procedurës Penale të Shqipërisë, i transmetohet Ministrit të Drejtësisë.
+2. Ministri i Drejtësisë, nëse procedimi është i pranueshëm, bazuar në kushtet e përcaktuara në nenin 71 dhe nenet vijuese të ligjit nr. 10 193, datë 3.12.2009 “Për marrëdhëniet juridiksionale me autoritetet e huaja për çështjet penale”, siguron referimin e procedimit përkatës tek autoritetet kompetente gjyqësore vendore, në përputhje me legjislacionin në fuqi në Republikën e Shqipërisë.
+3. Task Forca Hetimore Speciale e EULEX-it ose organi që e pason ka të drejtën të kërkojë informacione të rregullta për ecurinë e procedimit të transferuar ose procedimit të filluar, mbi bazën e informacionit të marrë nga Task Forca Hetimore Speciale e EULEX-it dhe që kryhet nga autoritetet gjyqësore vendore.

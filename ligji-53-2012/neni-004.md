@@ -1,0 +1,5 @@
+# Neni 4
+Bashkërendimi i bashkëpunimit
+1. Në emër të Republikës së Shqipërisë, Ministri i Drejtësisë është bashkërenduesi i bashkëpunimit me Task Forcën Hetimore Speciale të EULEX-it dhe vepron si autoriteti kompetent qendror për marrjen dhe sigurimin e ndjekjes së duhur të kërkesave për bashkëpunim gjyqësor nga Task Forca Hetimore Speciale e EULEX-it.
+2. Këshilli i Ministrave i Republikës së Shqipërisë, me propozimin e Ministrit të Drejtësisë, me vendim, mund të ngrejë organe të veçanta për zbatimin e bashkëpunimit me Task Forcën Hetimore Speciale të EULEX-it. Në vendimin për ngritjen e një organi të tillë përcaktohen më hollësisht detyrat dhe detyrimet e tij.
+3. Pas transmetimit të një letërkërkese dhe nëse nuk vendoset ndryshe nga Këshilli i Ministrave i Republikës së Shqipërisë, autoritetet e Republikës së Shqipërisë vazhdojnë komunikimin me Task Forcën Hetimore Speciale të EULEX-it, nëpërmjet Prokurorit të Përgjithshëm ose drejtpërdrejt, nëse këtë e kërkon Task Forca Hetimore Speciale e EULEX-it. Komunikimi me Task Forcën Hetimore Speciale të EULEX-it kryhet në gjuhën shqipe dhe/ose në gjuhën angleze.

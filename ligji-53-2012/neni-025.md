@@ -1,0 +1,7 @@
+# Neni 25
+Kontrolli dhe sekuestrimi i materialeve
+1. Me kërkesë të Task Forcës Hetimore Speciale të EULEX-it, autoritetet gjyqësore vendore mund të vendosin të lejojnë këqyrjen e mjediseve private ose sekuestrimin e materialeve që janë në territorin e Republikës së Shqipërisë, në lidhje me provat e përcaktuara në letërkërkesat.
+2. Këqyrja dhe sekuestrimi ekzekutohen nga autoriteti kompetent gjyqësor vendor, në pajtim me dispozitat e Kodit të Procedurës Penale. Prania e anëtarëve të personelit të Task Forcës Hetimore Speciale të EULEX-it dhe personelit tjetër, të renditur sipas pikave 1 dhe 2 të nenit 14, rregullohet në këtë ligj.
+3. Nëse një palë e tretë ka përftuar të drejta në mirëbesim dhe një autoritet shtetëror ose palë e dëmtuar, që ka vendbanimin apo qëndrimin në Shqipëri, pretendon pronësinë mbi materialet, dokumentet ose të ardhurat nga krimet e dyshuara, materialet e parashikuara në pikën 1 të këtij neni jepen vetëm nëse Task Forca Hetimore Speciale e EULEX-it garanton kthimin e tyre pas përfundimit të procedimit të lidhur me provat.
+4. Nëse në Shqipëri tashmë ka filluar procedimi penal, në lidhje me materialet, dokumentet ose të ardhurat nga krimi, ky procedim shtyhet për sa kohë materialet janë të nevojshme për procedimin nga Task Forca Hetimore Speciale e EULEX-it.
+5. Procedura e parashikuar në këtë nen nuk cenon prerogativat e parashikuara në nenin 15 të këtij ligji.

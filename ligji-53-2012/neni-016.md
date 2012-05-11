@@ -1,0 +1,5 @@
+# Neni 16
+Dispozita procedurale në lidhje me ekzekutimin e kërkesave për ndihmë të ndërsjellë
+1. Një kërkesë nga Task Forca Hetimore Speciale e EULEX-it, për të përmbushur kriteret formale, pranohet nëse është në pajtim me parimet themelore të legjislacionit shqiptar për procedurën penale dhe rregullat ndërkombëtare detyruese për autoritetet shqiptare. Pjesëmarrja e avokatit mbrojtës në veprimet e ndihmës së ndërsjellë, si dhe regjistrimi audio ose video i këtyre veprimeve lejohet, nëse këtë e kërkon Task Forca Hetimore Speciale e EULEX-it.
+2. Me kërkesë, anëtarët dhe punonjësit hetues të Task Forcës Hetimore Speciale të EULEX-it vihen në dijeni për kohën dhe vendin e veprimeve të ndihmës së ndërsjellë, që kërkohen të kryhen nga autoritetet shqiptare. Për më tepër, ata mund të marrin pjesë dhe të kontribuojnë për ekzekutimin e atyre kërkesave për ndihmë të ndërsjellë pa autorizim të veçantë.
+3. Në pajtim me legjislacionin shqiptar, ekzekutimi i një kërkese nga Task Forca Hetimore Speciale e EULEX-it për transmetimin e informacionit policor mund të trajtohet drejtpërdrejt nga Ministri i Brendshëm.
