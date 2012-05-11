@@ -1,0 +1,8 @@
+# Neni 4
+Objekti i veprimtarisë dhe tipat e shoqërive të bashkëpunimit bujqësor
+Shoqëritë, në bazë të objektit të veprimtarisë që ushtrojnë, ndahen në disa tipa si më poshtë:
+a) Shoqëri të bashkëpunimit në fushën e prodhimit bujqësor dhe në marketing. Këto shoqëri mund të prodhojnë, të manipulojnë, të përpunojnë, të ruajnë, të klasifikojnë, të transportojnë, të shpërndajnë, si dhe të tregtojnë produktet bujqësore ose blegtorale në gjendjen e tyre natyrale ose të përpunuar më parë.
+b) Shoqëri të bashkëpunimit në veprimtarinë e punës bujqësore. Këto shoqëri mund të kryejnë veprimtari të punës bujqësore për anëtarët ose të tretët, duke përfshirë dhe anëtarët punëtorë.
+c) Shoqëri të bashkëpunimit për konsumin e lëndëve dhe mallrave. Këto shoqëri mund të kryejnë veprimtari të furnizimit me mallra dhe shërbime të blera nga anëtarët, të tretët ose të prodhuara nga vetë shoqëria, për përdorim dhe konsum të anëtarëve ose të tretëve.
+ç) Shoqëri të bashkëpunimit për inputet. Këto shoqëri mund të blejnë, të përpunojnë, të prodhojnë dhe të fabrikojnë me çfarëdo lloj procesi ushqime për bagëtinë, plehra kimike, bimë, farëra, produkte fitosanitare, materiale, instrumente, makineri, impiante, produkte me prejardhje nga kafshët dhe çfarëdo lloj produktesh të tjera, të nevojshme dhe të përshtatshme për zhvillimin e prodhimit, bujqësor dhe blegtoral.
+d) Shoqëri të bashkëpunimit për qëllime të tjera në fushën e bujqësisë. Këto shoqëri mund të ushtrojnë çdo lloj veprimtarie tjetër të nevojshëm që favorizon dhe lehtëson përmirësimin ekonomik, teknik, ekologjik dhe të kushteve të punës të çfarëdo lloj fermeri apo operatori ekonomik, i cili operon në fushën e bujqësisë dhe të blegtorisë.

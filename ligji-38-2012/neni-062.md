@@ -1,0 +1,5 @@
+# Neni 62
+Transformimi i shoqatave të fermerëve dhe shoqërive të bashkëpunimit të ndërsjellë në shoqëri të bashkëpunimit bujqësor
+1. Shoqëritë e bashkëpunimit të ndërsjellë dhe shoqatat e fermerëve, të krijuara sipas legjislacionit në fuqi, brenda gjashtë muajve nga data e hyrjes në fuqi të këtij ligji, mund të transformohen në shoqëri të bashkëpunimit bujqësor, sipas këtij ligji. Ky transformim në shoqëri të bashkëpunimit bujqësor nuk shoqërohet me likuidim të shoqërisë ose shoqatës.
+2. Organet drejtuese të shoqërisë ose shoqatave, të cilat do të transformohen, duhet të hartojnë një projekt transformimi dhe një relacion shpjegues të aspekteve juridike dhe ekonomike të këtij transformimi, si dhe të pasojave që do të kenë anëtarët dhe të punësuarit.
+3. Asambleja e përgjithshme e shoqërisë ose e shoqatës, e cila do të transformohet, miraton projektin e transformimit dhe statutin e ri të shoqërisë së bashkëpunimit bujqësor, si dhe bën regjistrimin e ndryshimeve përkatëse në Qendrën Kombëtare të Regjistrimit.
