@@ -1,0 +1,2 @@
+# Neni 8
+Të gjitha proceset gjyqësore në ngarkim të debitorëve të shoqërive, subjekt kontrolli, do të vijojnë të ndiqen nga administratori, i cili do të kryejë edhe ekzekutimin e vendimeve gjyqësore të formës së prerë, deri në çastin që veprimtaria e tij do të vazhdojë. Me shpalljen të mbyllur të veprimtarisë së administratorit, ekzekutimi i vendimeve gjyqësore të formës së prerë do të kryhet nga Ministria e Financave.
