@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe KfW Frankfurt am Main, për financimin e programit “Infrastruktura bashkiake II (Fondet e grandit IPA 2009 dhe 2010), furnizimi me ujë dhe kanalizimet për qytetet e Beratit, Fierit, Kamzës, Kuçovës, Lushnjës dhe Sarandës”, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
