@@ -1,0 +1,1 @@
+13. ASHMDF-ja përfundon procedurat e parashikuara në pikën 10 brenda 30 (tridhjetë) ditëve nga data e marrjes së ankesës ose, nëse është zhvilluar një seancë dëgjimore publike, brenda 90 (nëntëdhjetë) ditëve nga data e marrjes së ankesës. ASHMDF-ja shprehet me vendim të kryetarit, për të cilin njoftohen palët brenda 8 (tetë) ditëve nga data e marrjes së vendimit.

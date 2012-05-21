@@ -1,0 +1,1 @@
+9. Me marrjen e ankesës, ASHMDF-ja verifikon faktet. Për këtë qëllim, ASHMDF-ja mund t’u kërkojë ankuesit dhe personit, kundër të cilit është drejtuar ankesa, të paraqesin parashtrime me shkrim brenda (dhjetë) 10 ditëve nga data që palët marrin njoftimin.

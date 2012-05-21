@@ -1,0 +1,1 @@
+18. Vendimi i kryetarit të ASHMDF-së hartohet në tri kopje, nga të cilat një kopje i dërgohet organit të administratës publike/personit në funksione publike, personit, fizik ose juridik, i cili është vlerësuar se ka kryer kundërvajtjen administrative, një kopje i dërgohet ASHMDF-së dhe një kopje ministrit që bashkërendon punën për çështjet e mbrojtjes së të drejtave të fëmijëve.

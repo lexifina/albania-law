@@ -1,0 +1,1 @@
+12. ASHMDF-ja pasqyron në një relacion përmbledhës veprimet që kryen lidhur me çështjen sipas pikave 7, 8, 9, 10 e 11 të këtij vendimi, veprime të cilat i dokumenton në dosjen që do të arkivojë për këtë çështje.

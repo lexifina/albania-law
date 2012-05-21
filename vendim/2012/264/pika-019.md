@@ -1,0 +1,1 @@
+19. Nëse ASHMDF-ja urdhëron kryerjen e rregullimeve ose marrjen e masave, organi i administratës publike/personi në funksione publike, personi, fizik ose juridik, kundër të cilit është paraqitur ankesa, raporton brenda 30 (tridhjetë) ditëve para ASHMDF-së për veprimet e ndërmarra për zbatimin e vendimit.

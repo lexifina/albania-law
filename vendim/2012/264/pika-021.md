@@ -1,0 +1,1 @@
+21. Në rastet kur konstatohet se shkelja e të drejtave të parashikuara në nenin 40 të ligjit nr. 10 347, datë 4.11.2010 nuk përbën kundërvajtje administrative, por mund të përbëjë vepër penale, ASHMDF-ja ka detyrimin të vërë në lëvizje prokurorinë pranë gjykatës kompetente për të shqyrtuar çështjen.
