@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë në buxhetin e miratuar për vitin 2012, zëri “mallra dhe shërbime”, t’i shtohet fondi prej 2 000 000 (dy milionë) lekësh, për mbulimin e shpenzimeve të mjekimit, të z.Mehmet Xheka.
