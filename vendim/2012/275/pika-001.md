@@ -1,0 +1,1 @@
+1. Lejimin e hyrjes dhe të qëndrimit të përkohshëm në territorin e Republikës së Shqipërisë të një force ushtarake amerikane, të përbërë nga 685 (gjashtëqind e tetëdhjetë e pesë) trupa, ekuipazh i anijes ushtarake zbarkuese të Shteteve të Bashkuara të Amerikës “USS GUNSTON HALL” (LSD-44).
