@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen, është 124, 422 (njëqind e njëzet e katër mijë e katërqind e njëzet e dy) lekë. Vlera e përgjithshme e shpronësimit të përballohet nga të ardhurat e komunës së Bubqit, planifikuar në buxhetin e saj.

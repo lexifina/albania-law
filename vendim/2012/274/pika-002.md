@@ -1,0 +1,1 @@
+2. Pasuritë, në sipërfaqen prej 534 (pesëqind e tridhjetë e katër) m2 tokë arë, pronë private, që shpronësohen, si dhe pronarët që shpronësohen, janë sipas tabelës bashkëlidhur këtij projektvendimi dhe pjesë përbërëse e tij.

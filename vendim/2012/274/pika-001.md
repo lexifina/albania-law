@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës hyrëse të shkollës 9-vjeçare Bilaj, në komunën e Bubqit, të qarkut të Durrësit.

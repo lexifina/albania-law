@@ -1,0 +1,1 @@
+7. Shpronësimi bëhet në favor të komunës së Bubqit. Regjistrimi i ri i pasurisë prej 534 (pesëqind e tridhjetë e katër) m2 tokë arë, shpronësuar në favor të komunës së Bubqit, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
