@@ -1,0 +1,1 @@
+4. Periudha e lejimit të importit të mbetjeve metalike të aluminit dhe të bakrit nga “AMA RECYCLING”, sh.p.k. do të jetë për një periudhë kohore njëvjeçare që do të fillojë me hyrjen në fuqi të këtij vendimi.

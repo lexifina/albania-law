@@ -1,0 +1,1 @@
+6. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave komunikon me shkrim me shtetet eksportuese dhe ato që dalin transit të kësaj sasie të mbetjeve metalike të aluminit dhe të bakrit në përmbushje të kërkesave të konventës së Bazelit “Për kontrollin e lëvizjeve ndërkufitare të mbetjeve të rrezikshme dhe asgjësimit të tyre” në të cilën Republika e Shqipërisë është palë.
