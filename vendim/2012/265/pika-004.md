@@ -1,0 +1,1 @@
+4. Në takimet e komitetit drejtues ftohen të marrin pjesë edhe përfaqësues të organeve të drejtësisë, të cilët ushtrojnë veprimtarinë e tyre në territorin ku e shtrin juridiksionin e tij këshilli i qarkut.

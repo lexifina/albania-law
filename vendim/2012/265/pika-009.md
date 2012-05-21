@@ -1,0 +1,1 @@
+9. Në takimet e grupit teknik multidisiplinar ftohen të marrin pjesë edhe përfaqësues të organeve të drejtësisë, të cilët ushtrojnë veprimtarinë e tyre në territorin e qarkut, ku bën pjesë edhe bashkia/komuna, si dhe persona ose institucione, pjesëmarrja e të cilave gjykohet si e domosdoshme për menaxhimin e rastit.

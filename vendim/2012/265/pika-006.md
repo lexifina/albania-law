@@ -1,0 +1,1 @@
+6. Përfaqësuesit e autoriteteve shtetërore, në nivel vendor u raportojnë çdo 6 (gjashtë) muaj institucioneve qendrore për aktivitetin e tyre në komitetin drejtues. Në këto raportime, anëtarët e komitetit drejtues nuk paraqesin të dhëna konfidenciale dhe kujdesen që të ruhet fshehtësia e të dhënave të fëmijëve.

@@ -1,0 +1,7 @@
+5. Komiteti drejtues ka këto detyra:
+a) Miraton marrëveshje bashkëpunimi ndërmjet institucioneve shtetërore apo personave juridikë, privatë, për realizimin e detyrave në funksion të zbatimit të ligjit nr. 10 347, datë 4.11.2010 “Për mbrojtjen e të drejtave të fëmijës”;
+b) Mbështet menaxhimin e rasteve të fëmijëve në rrezik, të referuar nga njësia për mbrojtjen e fëmijës, në bashki/komunë, kur nevojat e rastit nuk adresohen plotësisht nga shërbimet ekzistuese në bashkinë/komunën përkatëse, ose të fëmijëve në rrezik, të referuar nga bashkia/komuna që ende nuk ka ngritur njësinë e mbrojtjes së fëmijës. Në mbledhjen e komitetit drejtues thirren të marrin pjesë anëtarët e nevojshëm për menaxhimin e rastit të fëmijës në rrezik.
+Në këto rrethana, komiteti drejtues vepron si një komitet koordinues “ad hoc”, i cili mblidhet çdo herë, sipas rastit që trajtohet;
+c) Mblidhet e diskuton problematikën e mbrojtjes së fëmijëve në rrezik çdo 6 (gjashtë) muaj;
+ç) Harton çdo 6 (gjashtë) muaj një raport për aktivitetin e tij, për të dhënat për rastet e trajtuara të fëmijëve dhe problematikën e mbrojtjes së fëmijëve në rrezik, në territorin ku ai shtrin juridiksionin dhe një kopje të këtij raporti ia dërgon Agjencisë Shtetërore për Mbrojtjen e të Drejtave të Fëmijës;
+d) Paraqet propozime dhe strategji konkrete për mbështetjen e zhvillimin e shërbimeve dhe të politikave në mbrojtje të fëmijëve, në nivel qarku, të cilat ua përcjell institucioneve shtetërore përgjegjëse, në nivel qendror dhe vendor.
