@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2012, në zërin “mallra dhe shërbime”, t’i shtohet fondi prej 750 000 (shtatëqind e pesëdhjetë mijë) lekësh, për mbulimin e shpenzimeve të mjekimit të z. Rezar Veseli.
