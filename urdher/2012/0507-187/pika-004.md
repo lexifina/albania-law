@@ -1,0 +1,1 @@
+4. Fakulteti i Infermierisë të ofrojë programin ekzistues të studimit të ciklit të dytë, që realizohet me 90 kredite me kohëzgjatje normale 1.5 (një vit e gjashtë muaj) vit akademik në përfundim të të cilit lëshohet diplomë “Master profesional”, në “Menaxhim Infermieror”.
