@@ -1,9 +1,9 @@
 # Për kontrollin dhe mbikëqyrjen e kufirit shtetëror
 
-Official source: [Ligji nr. 9861](https://qbz.gov.al/api/v1/acts/6138).
+Official source: [Ligji nr. 9861](https://qbz.gov.al/api/v1/acts/6138); [QBZ versions](https://qbz.gov.al/api/v1/acts/6138/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2008-01-24; published 2008-02-13; in force 2008-02-28.
+Status of this text: `official consolidated version 1`, applying from 2012-05-24; after QBZ act 8238 (nr. 60).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.

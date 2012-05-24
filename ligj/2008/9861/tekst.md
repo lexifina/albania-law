@@ -1,8 +1,12 @@
 LIGJ
 
-Nr.9861, datë 24.1.2008 
+Nr. 9861, datë 24.1.2008 
 
 PËR KONTROLLIN DHE MBIKËQYRJEN E KUFIRIT SHTETËROR
+
+(Ndryshuar me ligjin nr. 60/2012, datë 24.5.2012)
+
+(i përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -854,7 +858,9 @@ Neni 53
 
 Shfuqizime
 
-Ligjet nr.8771, datë 19.4.2001 “Për kufirin shtetëror të Republikës së Shqipërisë”, nr.8772, datë 19.4.2001 “Për ruajtjen dhe kontrollin e kufirit shtetëror të Republikës së Shqipërisë” dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë ligj, shfuqizohen.
+(Ndryshuar me ligjin nr. 60/2012, datë 24.5.2012)
+
+Nenet 1, 2, 4 dhe 5 të ligjit nr. 8771, datë 19.4.2001 “Për kufirin shtetëror të Republikës së Shqipërisë”, ligji nr. 8772, datë 19.4.2001 “Për ruajtjen dhe kontrollin e kufirit shtetëror të Republikës së Shqipërisë”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë ligj, shfuqizohen.
 
 Neni 54
 
@@ -862,4 +868,4 @@ Hyrja në fuqi
 
 Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
 
-Shpallur me dekretin nr.5612, datë 11.2.2008 të Presidentit të Republikës së Shqipërisë, Bamir Topi
+Shpallur me dekretin nr. 5612, datë 11.2.2008 të Presidentit të Republikës së Shqipërisë, Bamir Topi
