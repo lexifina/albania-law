@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 3,5 % të pikëve, për rezultatin, teknik dhe financiar, në procedurën konkurruese përzgjedhëse (propozim i pakërkuar) për dhënien me koncesion të ish-Uzinës së Rafinimit të Bakrit, Rubik, që i jepet shoqërisë “AMG Group Albania”, sh.p.k.
