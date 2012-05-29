@@ -1,0 +1,1 @@
+1. Miratimin e planit kombëtar të veprimit 2012-2014 “Për parandalimin dhe goditjen e veprimtarisë kriminale të trafikimit të mjeteve motorike të vjedhura, të kontrabanduara dhe me shkelje të tjera ligjore”, sipas tekstit që i bashkëlidhet këtij veprimi.
