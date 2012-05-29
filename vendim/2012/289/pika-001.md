@@ -1,0 +1,1 @@
+1. Komunës Qendër Bilisht, në qarkun e Korçës, në buxhetin e vitit 2012, t’i jepet fondi financiar shtesë prej 44 934 000 (dyzet e katër milionë e nëntëqind e tridhjetë e katër mijë) lekësh, për zbatimin e projektit emergjent për ndërtimin e urës së Poloskës.
