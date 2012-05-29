@@ -1,0 +1,2 @@
+Miratimin e rishpërndarjes së fondeve dhe shtyrjes së afatit të programit, sipas marrëveshjes kuadër të huas, ndërmjet Këshillit të Ministrave, që përfaqëson Republikën e Shqipërisë, dhe Bankës për Zhvillim të Këshillit të Europës (CEDB), për financimin e programit “Punët e komunitetit, faza e tretë”, sipas tabelës që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
