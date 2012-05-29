@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion të hidrocentraleve “Shkopeti 2” dhe “Shkopeti 3”, të formës “BOT” (ndërtim, operim dhe transferim) është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
