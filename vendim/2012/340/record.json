@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8119,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR. 332, DATË 17.3.2010 TË KËSHILLIT TË MINISTRAVE “PËR PËRCAKTIMIN E FORMËS, ELEMENTEVE PËRBËRËSE, MËNYRËS SË MBAJTJES E AFATIT TË PËRDORIMIT TË DOKUMENTEVE BAZË, QË MBAHEN DHE LËSHOHEN NGA SHËRBIMI I GJENDJES CIVILE”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "340",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-05-23",
+  "published": "2012-05-31",
+  "in_force": "2012-05-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet nga data 1.6.2012\": the publication day (its effects reach back to 1.6.2012)",
+  "source": "https://qbz.gov.al/files/956425099ea515352ad53994f204d56ab8200dbbd6670e5e92ddf3b87832fd46.docx",
+  "source_sha256": "956425099ea515352ad53994f204d56ab8200dbbd6670e5e92ddf3b87832fd46",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8119",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/05/23/340",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
