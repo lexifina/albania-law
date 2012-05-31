@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 1, datë 30.3.2012, i Këshillit të Ministrave “Për një ndryshim në ligjin nr. 10 418, datë 21.4.2011 “Për legalizimin e kapitalit dhe faljen e një pjese të borxhit tatimor dhe doganor”, të ndryshuar”.
