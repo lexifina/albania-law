@@ -1,0 +1,1 @@
+1. Bashkisë Kukës, në buxhetin e vitit 2012, t’i akordohet fondi prej 3 460 000 (tre milionë e katërqind e gjashtëdhjetë mijë) lekësh për shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme ku janë vendosur varrezat publike të qytetit të Kukësit.
