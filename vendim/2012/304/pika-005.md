@@ -1,0 +1,1 @@
+5. Organizon inspektime periodike, në bashkëpunim me kontrollorët, gjatë procesit të anketimit dhe ndjek në vazhdimësi, nëpërmjet mbikëqyrësve dhe kontrollorëve, mbarëvajtjen dhe cilësinë e regjistrimit, me qëllim plotësimin e standardeve të përcaktuara nga legjislacioni, si dhe metodologjitë e udhëzimet e INSTAT-it për regjistrimin e përgjithshëm të njësive ekonomike bujqësore;

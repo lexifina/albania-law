@@ -1,0 +1,1 @@
+8. Siguron ambientet e nevojshme për koordinimin e punës ndërmjet anketuesve, kontrollorëve e mbikëqyrësve për të realizuar plotësimin me cilësi të anketave dhe zgjidhjen e problemeve të tjera që lindin gjatë procesit të regjistrimit në terren;

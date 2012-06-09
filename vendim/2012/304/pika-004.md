@@ -1,0 +1,1 @@
+4. Organizon punën për ofrimin e asistencës teknike për anketuesit, nëpërmjet ekspertëve dhe profesionistëve të tjerë të INSTAT-it, në përputhje me vlerësimet në terren dhe nevojat e paraqitura prej tyre;
