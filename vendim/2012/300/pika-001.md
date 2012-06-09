@@ -1,0 +1,1 @@
+1. Dhënien në përdorim Këshillit të Qarkut të Beratit të disa ambienteve ku ushtron veprimtarinë administrative prefekti i qarkut të Beratit dhe administrata e tij, sipas formularit dhe planimetrisë 1 që i bashkëlidhen këtij vendimi.

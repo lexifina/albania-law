@@ -1,0 +1,1 @@
+2. Dhënien në përdorim Drejtorisë së Shërbimit të Provës, Berat, të disa ambienteve ku ushtron veprimtarinë administrative prefekti i qarkut të Beratit dhe administrata e tij, sipas formularit dhe planimetrisë 2 që i bashkëlidhen këtij vendimi.
