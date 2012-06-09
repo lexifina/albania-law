@@ -1,0 +1,1 @@
+5. Likuidimi i faturës për botimin e njoftimit publik kryhet brenda 30 (tridhjetë) ditëve kalendarike nga plotësimi i kërkesës, sipas pikës 4 të këtij vendimi. Kostot mbulohen nga kërkuesi i procedurës së shpronësimit.

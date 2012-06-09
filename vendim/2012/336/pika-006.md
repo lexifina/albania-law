@@ -1,0 +1,1 @@
+6. Ministritë kompetente për shpronësimin, sipas pikës 1 të këtij vendimi, të përfshijnë në vendimin e propozuar për miratim në Këshillin e Ministrave për shpronësimin edhe koston e publikimeve në përputhje me faturën, sipas pikës 4 të këtij vendimi.

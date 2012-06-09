@@ -1,0 +1,1 @@
+1. Ministritë kompetente për shpronësimin, në kuptim të nenit 11 e në vijim, të ligjit nr. 8561, datë 22.12.1999, për botimet e njoftimeve publike për subjektet që preken nga shpronësimi, ngarkohen të zbatojnë kriteret sipas pikave 2, 3, 4, 5 dhe 6 të këtij vendimi.
