@@ -1,0 +1,29 @@
+{
+  "qbz_id": 8175,
+  "title": "PËR LICENcIMIN E SHOQËRISË “HENZ ENERGY” SHPK NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-ET “DARSI 1”, “DARSI 2”, “DARSI 3”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "65",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2012-05-28",
+  "published": "2012-06-13",
+  "in_force": "2012-06-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/30b7732df070e10c697b1fec544c7b2b94cb11b3672e46b58bca25408374a667.docx",
+  "source_sha256": "30b7732df070e10c697b1fec544c7b2b94cb11b3672e46b58bca25408374a667",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8175",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/05/28/65",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    20493,
+    20203
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
