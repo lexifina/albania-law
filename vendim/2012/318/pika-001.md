@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit nr. 9074/07, datë 18.10.2011 të Gjykatës Europiane për të Drejtat e Njeriut, për çështjen “Mullai dhe të tjerë kundër Shqipërisë”, në shumën 15 000 (pesëmbëdhjetë mijë) euro në favor të ankuesve Mullai etj. dhe 19 000 (nëntëmbëdhjetë mijë) euro në favor të shoqërisë “Teknoproject” sh.p.k., plus çdo tatim që mund të vendoset.

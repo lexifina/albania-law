@@ -1,0 +1,1 @@
+3. Vlefshmëria e lejes së ndërtimit nr. 766, datë 22.12.1998 të Bashkisë Tiranë, të zgjatet edhe për dy vjet, nga data e hyrjes në fuqi të këtij vendimi, si dhe të garantojë kryerjen e pandërprerë të punimeve të ndërtimit gjatë kësaj periudhe.
