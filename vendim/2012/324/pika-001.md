@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Kuvendit të Republikës së Shqipërisë. Kjo listë me 3 (tre) fletë i bashkëlidhet këtij vendimi.
