@@ -1,0 +1,1 @@
+1. Lejimin e ekspozimit jashtë territorit të Republikës së Shqipërisë të disa dokumenteve origjinale dhe objekteve të rralla me vlera historike, ikona dhe kodikë, në Strasburg, në kuadër të marrjes së kryesisë së Komitetit të Ministrave të Këshillit të Europës, nga data 23-25 maj 2012, sipas lidhjes nr. 1 që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
