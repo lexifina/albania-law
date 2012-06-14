@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes me ndarje prodhimi për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në det në Shqipëri, blloqet 2, 3 dhe 4 të Adriatikut, ndërmjet “Albpetrol”, sh.a.-së dhe shoqërisë “Emanuelle Adriatic Energy Limited”, sipas tekstit që i bashkëlidhet këtij vendimi.
