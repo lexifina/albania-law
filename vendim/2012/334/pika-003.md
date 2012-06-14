@@ -1,0 +1,1 @@
+3. Shuma totale e shpronësimit, prej 9 172 800 (nëntë milionë e njëqind e shtatëdhjetë e dy mijë e tetëqind) lekësh, të përballohet nga zëri “Investime”, miratuar për Drejtorinë e Përgjithshme të Rrugëve, për vitin 2012.
