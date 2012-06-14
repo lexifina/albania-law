@@ -1,0 +1,1 @@
+7. Pronari i përmendur në listën që i bashkëlidhet këtij vendimi, për të cilin është bërë shënimi “Konfirmuar nga ZRPP-ja, Shkodër”, do të kompensohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë së Përgjithshme të Rrugëve.
