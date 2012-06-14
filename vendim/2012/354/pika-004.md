@@ -1,0 +1,1 @@
+4. Shkolla e lartë universitare jopublike, universiteti “Kristal”, ndërmerr masat e duhura që studentët e regjistruar pranë këtij institucioni të vijojnë apo të përfundojnë studimet në programet përkatëse, sipas kohëzgjatjes normale.

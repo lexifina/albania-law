@@ -1,0 +1,1 @@
+6. Në përfundim të periudhës së pezullimit të licencës, shkolla e lartë universitare jopublike, universiteti “Kristal”, i nënshtrohet akreditimit institucional sipas përcaktimeve të legjislacionit në fuqi.

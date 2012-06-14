@@ -1,0 +1,1 @@
+5. Ministria e Arsimit dhe Shkencës, gjatë periudhës së pezullimit, merr masat për ushtrimin e inspektimit periodik, çdo 3 (tre) muaj, në këtë institucion, për përmirësimet e bëra në përmbushjen e standardeve shtetërore të cilësisë.

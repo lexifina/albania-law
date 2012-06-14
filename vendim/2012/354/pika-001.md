@@ -1,0 +1,1 @@
+1. Pezullimin e pjesshëm dhe të përkohshëm të licencës së shkollës së lartë universitare jopublike, universiteti “Kristal”, për të gjitha programet në të dyja ciklet e studimit, që ofron ky institucion i arsimit të lartë.
