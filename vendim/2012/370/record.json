@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8212,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 90, DATË 31.1.2007 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME PUBLIKE NË TERRITORIN ADMINISTRATIV TË KOMUNËS SHEZË, TË QARKUT ELBASAN”, DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 131, DATË 3.2.2008 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË PYJEVE DHE KULLOTAVE QË TRANSFEROHEN NË PËRDORIM TË KOMUNËS SHEZË, TË QARKUT ELBASAN”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "370",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-05-30",
+  "published": "2012-06-20",
+  "in_force": "2012-06-20",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7f5fd826a73f2fddc0b13955f6825247cacb5e9a674750ebec162d872f8ccd3e.docx",
+  "source_sha256": "7f5fd826a73f2fddc0b13955f6825247cacb5e9a674750ebec162d872f8ccd3e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8212",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/05/30/370",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
