@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të sistemit të prodhimit të energjisë elektrike, të cilat i kalojnë në përgjegjësi administrimi shoqërisë “HEC Ulëz - Shkopet” sh.a., sipas lidhjeve (gjithsej 3 (tre) fletë) që i bashkëlidhen këtij vendimi.
