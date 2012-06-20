@@ -1,0 +1,1 @@
+1. Kryeministrisë, në buxhetin e miratuar për vitin 2012, zëri “Shpenzime korente (602)”, t’i shtohet fondi prej 50 000 000 (pesëdhjetë milionë) lekësh, për financimin e Konferencës V të nivelit të lartë të Organizatës së Kombeve të Bashkuara, që do të zhvillohet në Tiranë, në datat 27 - 29 qershor 2012.
