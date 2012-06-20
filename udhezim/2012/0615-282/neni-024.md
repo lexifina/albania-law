@@ -1,0 +1,5 @@
+# Neni 24
+Kontrolli dhe korigjimi i transkriptit zyrtar
+1. Kur palët në një gjykim kanë dyshime apo kundërshtime në lidhje me saktësinë e transkriptit, ato paraqesin një kërkesë me shkrim në sekretarinë gjyqësore, në të cilën evidentojnë në mënyrë specifike orën dhe datën e atyre pjesëve të regjistrimit që vihen në diskutim.
+2. Me marrjen e kërkesës me shkrim për korrigjim, sekretari gjyqësor kontrollon regjistrimin dhe bën korrigjimet në transkript, kur është rasti. Kur pjesët e diskutuara të transkriptit kanë të bëjnë me përkthimin, sekretari kërkon kontrollin nga përkthyesi para bërjes së korrigjimeve. Kur sekretari konstaton se nuk ka vend për korrigjim, ai njofton me shkrim për këtë fakt personin që kërkoi korrigjimin.
+3. Transkripti i korrigjuar mban shënimin përkatës për datën e korrigjimit dhe konsiderohet versioni përfundimtar i transkriptit. Palët dhe personat e tjerë të interesuar marrin kopje të versionit të korrigjuar, sipas kërkesës së tyre dhe përkundrejt pagesës përkatëse. Kur kopje të transkriptit janë dorëzuar në gjykata të shkallëve të tjera, këto kopje zëvendësohen me kopjen e korrigjuar.
