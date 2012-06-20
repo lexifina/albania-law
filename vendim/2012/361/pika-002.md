@@ -1,0 +1,1 @@
+2. Struktura dhe nivelet e pagave për punonjësit mbështetës të administrimit të shoqërive huamarrëse janë të njëjta me ato të punonjësve mbështetës në institucionet buxhetore dhe llogariten në përputhje me vendimin nr. 717, datë 23.6.2009 të Këshillit të Ministrave “Për pagat e punonjësve mbështetës të institucioneve buxhetore dhe të nëpunësve të disa institucioneve buxhetore”.
