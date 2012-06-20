@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8201,
+  "title": "PËR NJË SHTESË NË VENDIMIN NR. 502, DATË 13.7.2011 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E RREGULLORES UNIFORME TË KONTROLLIT TË ZHVILLIMIT TË TERRITORIT”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "345",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-05-09",
+  "published": "2012-06-20",
+  "in_force": "2012-06-20",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2a20f23a2e9b0d9541c0cd1ff4554bd2fd7fb0d67017b0ec78a96fe2d975934f.docx",
+  "source_sha256": "2a20f23a2e9b0d9541c0cd1ff4554bd2fd7fb0d67017b0ec78a96fe2d975934f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8201",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/05/09/345",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
