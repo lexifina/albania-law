@@ -45,6 +45,7 @@ Indeksimi i përfitimit financiar mujor për shërbime transporti bëhet një he
 XIII. Dispozita të tjera
 1. Të ardhurat e mbledhura nga shitja e automjeteve të tepërta në dispozicion të ministrive dhe institucioneve të varësisë, do të derdhen në Buxhetin e Shtetit.
 2. Mjetet e mbetura të pashitura në përfundim të procedurave të ankandit grumbullohen në rezervat e shtetit. Kur vlerësohet se procedurat e ankandit të parë kanë dështuar, vijohet me procedurat e ankandit të dytë.
+Për mjetet e grumbulluara në rezervat e shtetit, të cilat nuk janë shitur pasi u janë nënshtruar procedurave të shitjes me ankand publik për tri herë me radhë, Drejtoria e Përgjithshme e Rezervave Materiale të Shtetit vijon me procedurat e transferimit pa pagesë të tyre e më pas vijon me procedurat e tjetërsimit, sipas kritereve dhe rregullave për menaxhimin e aktiveve në njësitë e sektorit publik, të përcaktuara në aktet, ligjore e nënligjore, përkatëse, dhe njofton Drejtorinë e Përgjithshme të Shërbimeve të Transportit Rrugor për heqjen nga qarkullimi dhe çregjistrimin e këtyre mjeteve.
 3. Shoferët, të cilët dalin të papunë nga zbatimi i këtyre procedurave, trajtohen në përputhje me Kodin e Punës, në varësi të kontratave individuale.
 XIV. Hyrja në fuqi
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
