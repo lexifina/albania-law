@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, t’i shtohet kundërvlefta e fondit prej 50 000 (pesëdhjetë mijë) eurosh, për t’iu dhënë si ndihmë financiare qeverisë së Republikës së Italisë për lehtësimin e pasojave të shkaktuara nga tërmeti në veri të Italisë.
