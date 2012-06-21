@@ -1,0 +1,1 @@
+7. Ministri përkatës i propozon Kryeministrit jo më pak se 3 (tri) nga kandidaturat e paraqitura, që plotësojnë kriteret e përcaktuara në pikën 4 të këtij kreu, emërimi i të cilave nuk çon në një gjendje të pazgjidhshme konflikti interesi sipas legjislacionit në fuqi për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike.

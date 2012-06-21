@@ -1,0 +1,1 @@
+5. Në shqyrtimin e kandidaturave për vendin vakant të kryeinspektorit, ministri përkatës merr në konsideratë edhe rekomandime të shkruara nga persona publikë të shquar, veçanërisht në fusha që i shërbejnë pozicionit të punës.
