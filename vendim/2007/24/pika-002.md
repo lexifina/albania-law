@@ -1,2 +1,0 @@
-2. Çdo kërkesë, sipas datës së paraqitjes, regjistrohet në regjistrin elektronik të kërkesave, ku shënohen numri dhe data e paraqitjes së kërkesës, si dhe data e përfundimit të aplikimit, sipas rendit kronologjik.
-Regjistri elektronik i kërkesave kontrollohet çdo ditë nga regjistruesi i zyrës, i cili është përgjegjës për përmbajtjen dhe zbatimin e radhës në trajtimin e praktikave. Të dhënat e këtij regjistri ruhen për një vit nga data e hedhjes së tyre.
