@@ -1,0 +1,1 @@
+3. Ministria e Drejtësisë, për realizimin e mbikëqyrjes elektronike, kontrakton, në përputhje me dispozitat e ligjit nr. 9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar, nëpërmjet procedurës së hapur, tender ndërkombëtar, shërbimet e një subjekti që ka eksperiencën e nevojshme në fushën e mbikëqyrjes elektronike.
