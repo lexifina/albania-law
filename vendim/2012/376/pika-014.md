@@ -1,0 +1,1 @@
+14. Çdo regjistrues është i detyruar të raportojë me shkrim, jo më pak se dy herë në muaj te Kryeregjistruesi, të dhënat që lidhen me trajtimin e kërkesave dhe dinamikën e përfundimit të tyre, indeksin e trajtimit të ankesave, si dhe zbatimin e urdhrave të organit epror.

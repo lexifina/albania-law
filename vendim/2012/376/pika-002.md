@@ -1,0 +1,1 @@
+2. Në formularin e kërkesës, subjektet e përmendura në pikën 1 të këtij vendimi, shënojnë qartë emrin, mbiemrin, adresën e saktë dhe/ose orientimin faktik të vendndodhjes, numrin e telefonit dhe/ose numrin e telefonit celular, si dhe adresën e postës elektronike.

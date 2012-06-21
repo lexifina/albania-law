@@ -1,0 +1,1 @@
+11. Në rast ankese kundrejt Zyrës së Regjistrimit të Pasurive të Paluajtshme, kërkuesit, përveç të dhënave të përmendura në pikën 2 të këtij vendimi, duhet të përmendin edhe numrin e identifikimit personal me të cilin janë pajisur nga Zyra e Regjistrimit të Pasurive të Paluajtshme.

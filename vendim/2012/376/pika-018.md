@@ -1,0 +1,1 @@
+18. Vendimi nr. 24, datë 19.1.2007 i Këshillit të Ministrave “Për procedurën e lëshimit të dokumenteve nga disa zyra të regjistrimit të pasurive të paluajtshme dhe ndryshimin e tarifave për to”, shfuqizohet.

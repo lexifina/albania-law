@@ -1,0 +1,1 @@
+13. Kthimi i përgjigjes detyrimisht duhet të përmbajë emrin dhe mbiemrin e kërkuesit, numrin e kërkesës, datën e regjistrimit të saj dhe datën e kthimit të përgjigjes së kërkesës. Kthimi i përgjigjes, duke përjashtuar dokumentet autentike që e shoqërojnë, kryhet në mënyrë elektronike, nëpërmjet postës elektronike dhe shpallet në mënyrë elektronike.
