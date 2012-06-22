@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2012, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 5 000 000 (pesë milionë) lekësh, për mbulimin e shpenzimeve të mjekimit të zotit Agron Aliaj.
