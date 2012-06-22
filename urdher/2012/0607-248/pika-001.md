@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e mënyrave, procedurave dhe kushteve për përdorimin e sistemit elektronik “One Stop Shop-Sistemi i noterisë””, sipas tekstit bashkëlidhur këtij urdhri dhe që është pjesë përbërëse e tij.
