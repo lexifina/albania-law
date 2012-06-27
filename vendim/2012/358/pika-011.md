@@ -1,0 +1,1 @@
+11. Njësitë e qeverisjes vendore duhet të përgatitin dhe të mbajnë një inventar të lejeve të dhëna, datave të inspektimit për kontrollin e përmbushjes së kushteve dhe përcaktimin e qartë të vendndodhjes së veprimtarive të lejuara sipas këtij vendimi.

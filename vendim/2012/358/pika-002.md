@@ -1,0 +1,1 @@
+2. Kriteret e parashikuara në këtë vendim janë të vlefshme për të gjitha zonat bregdetare dhe ujërat e brendshme (në thellësi të territorit), në të cilat plazhet përdoren si zona çlodhëse dhe janë të autorizuara për përdorim publik.

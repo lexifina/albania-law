@@ -1,0 +1,1 @@
+6. Policia e Shtetit dhe Roja Bregdetare janë përgjegjëse për kontrollin e zbatimit të këtij vendimi në det. Policia e Shtetit përgjigjet për ujërat e brendshme dhe për ujërat në brendësi të territorit dhe Roja Bregdetare për detin territorial.
