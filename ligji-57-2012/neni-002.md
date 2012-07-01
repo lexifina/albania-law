@@ -1,0 +1,4 @@
+# Neni 2
+Ky ligj vepron për:
+a) Familjet bujqësore apo individët, të cilët janë përfitues të tokës bujqësore, sipas vendimit nr. 452 datë 17.10.1992 të Këshillit të Ministrave “Për ristrukturimin e ndërmarrjeve bujqësore”, të ndryshuar, që, në momentin e hyrjes në fuqi të këtij ligji, janë banorë të komunës apo bashkisë dhe në asnjë rast që nga data 1.10.1992 nuk kanë ndryshuar vendbanimin e tyre, sipas regjistrit të gjendjes civile, dhe e përdorin tokën për veprimtari bujqësore, por kanë mungesa në plotësimin e dokumentacionit të përdorimit apo pronësisë.
+b) Familjet bujqësore apo individët, të cilët janë lëvizur nga qendrat e tyre të banimit dhe janë vendosur në territoret e ish-ndërmarrjeve bujqësore me vendime të veçanta të Këshillit të Ministrave, sipas të cilave ata janë përfitues të tokës bujqësore në përdorim apo në pronësi dhe e përdorin tokën për veprimtari bujqësore, por kanë mungesa në plotësimin e dokumentacionit të përdorimit apo pronësisë.

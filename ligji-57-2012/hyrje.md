@@ -1,0 +1,7 @@
+LIGJ
+Nr. 57/2012
+PËR PËRFUNDIMIN E PROCESIT TË KALIMIT NË PRONËSI PËRFITUESVE TË TOKËS BUJQËSORE TË ISH-NDËRMARRJEVE BUJQËSORE
+Në mbështetje të neneve 78 e 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
