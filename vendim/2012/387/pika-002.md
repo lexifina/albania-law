@@ -1,0 +1,1 @@
+2. Rritjen, në masën 5 për qind, të pensioneve të caktuara në përputhje me ligjin nr. 4976, datë 29.6.1972 “Për pensionet e anëtarëve të kooperativave bujqësore në Republikën Popullore të Shqipërisë” dhe të pensioneve të caktuara në përputhje me paragrafin e katërt të nenit 96 të ligjit nr. 7703, datë 11.5.1993 “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.
