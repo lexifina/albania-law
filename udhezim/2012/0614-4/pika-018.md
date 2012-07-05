@@ -1,0 +1,1 @@
+18. Në zbatim të pikave 3 dhe 4 të kreut V të vendimit, kontratat me tarifën simbolike 1 euro që lidhen për dhënien në përdorim të pronave të paluajtshme të shtetit për subjektet koncesionare në fushën e ndërtimit të burimeve të reja energjetike, në funksion të ushtrimit të aktivitetit të autorizuar, si garanci kontrate do të shërbejë garancia e kontratës së koncesionit.

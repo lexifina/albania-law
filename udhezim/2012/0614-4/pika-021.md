@@ -1,0 +1,1 @@
+21. Në zbatim të pikës 7 të kreut VI “Monitorimi i kontratave”, genplanet e ndryshuara përgatiten nga njësia që ka në administrim objektet e dhëna me qira dhe ndryshimi i tyre në kontratë, bëhet me aneks kontrate, pa ndryshuar asnjë nga termat e kontratës, që nuk lidhen me sipërfaqen e marrë me qira.
