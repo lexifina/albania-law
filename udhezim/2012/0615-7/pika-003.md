@@ -1,0 +1,1 @@
+3. Mjetet transportuese të ushqimeve delikate në transportin ndërkombëtar specifikohen si mjete transporti “izotermike”, “të ftohtë”, “frigoriferike” ose “kaloriferike”, kur ato plotësojnë përcaktimet dhe standardet e vendosura në aneksin 1 të marrëveshjes ATP.
