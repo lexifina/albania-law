@@ -1,6 +1,8 @@
 2. Ky komision të kryesohet nga Kryeministri dhe në përbërje të ketë këta anëtarë:
 a)
-Zëvendëskryeministrin dhe Ministrin e Punëve të Jashtme;
+Zëvendëskryeministrin dhe Ministër i Ekonomisë, Tregtisë dhe Energjetikës
+a/1)
+Ministrin e Punëve të Jashtme
 b)
 Ministrin e Financave;
 c)
