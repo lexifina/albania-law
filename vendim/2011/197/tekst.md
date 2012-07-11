@@ -4,7 +4,7 @@ Nr.197, datë 16.3.2011
 
 PËR PJESËMARRJEN E FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË NË OPERACIONIN USHTARAK NDËRKOMBËTAR KFOR, KOSOVË
 
-(Ndryshuar me VKM nr. 172, datë 6.3.2012)
+(Ndryshuar me VKM nr. 172, datë 6.3.2012; nr. 447, datë 11.7.2012)
 
 (i përditësuar)
 
@@ -12,7 +12,7 @@ Në mbështetje të nenit 100 të Kushtetutës, të nenit 7 të ligjit nr.9363, 
 
 VENDOSI:
 
-1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar KFOR, Kosovë, të   5 (pesë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
+1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar KFOR, Kosovë, të   10 (dhjetë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
 
 2. Misioni është planizimi, monitorimi, komandimi dhe kontrolli i aktivitetit operacional të seksioneve dhe njësive të KFOR-it.
 
