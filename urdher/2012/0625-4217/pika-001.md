@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave të hollësishme për procedurat dhe afatet e organizimit të provimit për licencimin e administratorëve të falimentit”, sipas tekstit bashkëlidhur këtij urdhri, që është pjesë përbërëse e tij.
