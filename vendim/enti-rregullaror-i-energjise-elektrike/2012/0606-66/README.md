@@ -1,0 +1,9 @@
+# MBI MIRATIMIN E STANDARDEVE TË TRAJTIMIT TË ANKESAVE TË KLIENTËVE TË ENERGJISË ELEKTRIKE NGA TË LICENCUARIT PËR AKTIVITETET E SHPËRNDARJES DHE FURNIZIMIT ME PAKICË TË ENERGJISË ELEKTRIKE
+
+Official source: [Vendim nr. 66, datë 6.6.2012 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/64161).
+
+Status of this text: `as-enacted`. Adopted 2012-06-06; published 2012-07-13; in force 2012-07-13.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
