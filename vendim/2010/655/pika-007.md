@@ -1,4 +1,0 @@
-7. Struktura që mbulon administrimin e tokave në MBUMK shqyrton mbështetjen ligjore, dokumentacionin përbërës, efektivitetin ekonomik që rrjedh nga kalimi, përshtatjen me orientimet e strategjisë së miratuar për bujqësinë etj.
-Në çdo rast të vlerësimit pozitiv të kërkesës apo propozimit dhe pasi ka harmonizuar dhe bashkërenduar veprimet me strukturën përkatëse që mbulon administrimin e fondit pyjor dhe kullosor në Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave (MMPAU), përgatit:
-a) urdhrin e përbashkët të të dy ministrave, për kalimin e tokës bujqësore në kategorinë e resursit pyll, tokë pyjore, kullotë dhe livadh, kur sipërfaqja që propozohet për kalim është deri në 1(një) ha;
-b) vendimin e Këshillit të Ministrave, si propozim i përbashkët i dy ministrave, kur sipërfaqja e tokës bujqësore që propozohet për kalim është mbi 1(një) ha.
