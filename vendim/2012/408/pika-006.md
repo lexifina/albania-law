@@ -1,0 +1,1 @@
+6. Për pasurinë nr. 8/507, në pronësi të bashkëpronarëve Burreli, të bëhet likuidimi pas paraqitjes së dokumentacionit të pronësisë, si dhe pasi të jetë liruar prona nga barrët përkatëse hipotekore, fakt, i cili do të konfirmohet zyrtarisht nga ZVRPP-ja.

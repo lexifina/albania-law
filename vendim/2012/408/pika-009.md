@@ -1,0 +1,1 @@
+9. Pronarët e listës që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konfirmim nga ZRPP-ja”, do të kompensohen për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Bashkisë së Tiranës.

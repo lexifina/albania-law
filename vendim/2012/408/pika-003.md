@@ -1,0 +1,3 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës së kompensimit përkatës, që paraqitet në tabelën bashkëlidhur këtij vendimi, si më poshtë vijon:
+- për sipërfaqen 930 (nëntëqind e tridhjetë) m2 (tokë truall), me vlerë 27 740 970 (njëzet e shtatë milionë e shtatëqind e dyzet mijë e nëntëqind e shtatëdhjetë) lekë;
+- për objekte me sipërfaqe 767 (shtatëqind e gjashtëdhjetë e shtatë) m2, me çmimet e konfirmuara prej ZRPP-së, me vlerë 94 987 734.4 (nëntëdhjetë e katër milionë e nëntëqind e tetëdhjetë e shtatë mijë e shtatëqind e tridhjetë e katër pikë katër) lekë.

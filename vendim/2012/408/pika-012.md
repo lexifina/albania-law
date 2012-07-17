@@ -1,0 +1,1 @@
+12. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Tiranë, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur do të realizohen procesi i hedhjes së trupit të rrugës në hartat treguese të regjistrimit dhe kalimi i pronësisë për pasuritë e shpronësuara.

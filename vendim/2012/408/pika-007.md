@@ -1,0 +1,1 @@
+7. Për pasurinë nr. 8/271, në pronësi të bashkëpronarëve Puci, të bëhet likuidimi pas mbarimit të regjistrimit të pasurisë në ZVRPP dhe pas paraqitjes së dokumentacionit të plotë të pronësisë, me të gjitha të dhënat, sipas listës bashkëlidhur.
