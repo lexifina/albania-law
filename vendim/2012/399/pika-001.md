@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 15.3.2012, për çështjen nr. 10810/05 “Çaush Driza kundër Shqipërisë”, për kompensimin fizik të pronës me sipërfaqe 360 (treqind e gjashtëdhjetë) m².
