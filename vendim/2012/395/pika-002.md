@@ -1,0 +1,1 @@
+2. Kontributi në fondin e sigurimeve shëndetësore për viktimat e trafikimit paguhet nga shteti në përputhje me nenin 34 të ligjit nr. 7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”, të ndryshuar.

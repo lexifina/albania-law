@@ -1,0 +1,1 @@
+1. Viktimat e trafikimit përfshihen në kategorinë e personave ekonomikisht joaktivë, në kuptim të ligjit nr. 7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”, të ndryshuar.

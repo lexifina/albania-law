@@ -1,0 +1,1 @@
+3. Ngarkohen Ministria e Brendshme dhe Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta për pajisjen e viktimave të trafikimit me dokumentin zyrtar sipas formatit të përcaktuar në aneksin nr. 1, që i bashkëlidhet këtij vendimi.
