@@ -1,0 +1,28 @@
+{
+  "qbz_id": 19640,
+  "title": "PËR PËRCAKTIMIN E RREGULLAVE DHE TË PROCEDURAVE TË NDRYSHIMIT TË KATEGORIVE TË RESURSEVE TË TOKËS",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "410",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-06-27",
+  "published": "2012-07-17",
+  "in_force": "2012-07-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a1097a9605f94efd0708e3314a13d474e6b9e93358f45d41156483421f73e14d.docx",
+  "source_sha256": "a1097a9605f94efd0708e3314a13d474e6b9e93358f45d41156483421f73e14d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19640",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/06/27/410",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    21734
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
