@@ -1,0 +1,28 @@
+{
+  "qbz_id": 19638,
+  "title": "PËR PËRCAKTIMIN E MASËS SË KRITEREVE E TË PROCEDURAVE TË PËRFITIMIT TË KOMPENSIMIT FINANCIAR, NGA PERSONAT ME STATUSIN E TË VERBRIT DHE INVALIDIT, PARAPLEGJIK DHE TETRAPLEGJIK, PËR FATURËN E ENERGJISË ELEKTRIKE DHE FATURËN E TELEFONISË FIKSE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "404",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-06-20",
+  "published": "2012-07-17",
+  "in_force": "2012-07-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/81eb7f9e8307c9c91998e985cc95c9fd5c3b41f4ed10862ac3fb89c3055aa322.docx",
+  "source_sha256": "81eb7f9e8307c9c91998e985cc95c9fd5c3b41f4ed10862ac3fb89c3055aa322",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19638",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/06/20/404",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56511
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
