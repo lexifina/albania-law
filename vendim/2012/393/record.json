@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19632,
+  "title": "PËR REVOKIMIN E VENDIMIT NR. 285, DATË 4.5.2007 TË KËSHILLIT TË MINISTRAVE “PËR PËRCAKTIMIN E PAGËS REFERUESE MUJORE, PËR EFEKT TË LLOGARITJES SË KONTRIBUTEVE TË SIGURIMEVE SHOQËRORE DHE SHËNDETËSORE DHE TË TATIMIT MBI TË ARDHURAT PERSONALE, SIPAS NOMENKLATURËS SË VEPRIMTARISË EKONOMIKE, PËR TË PUNËSUARIT NË SEKTORIN JOPUBLIK, QË KRYEJNË PUNË TË PAKUALIFIKUARA E TË KUALIFIKUARA, SI DHE PËR PERSONELIN DREJTUES E TEKNIKO-EKONOMIK TË TYRE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "393",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-06-20",
+  "published": "2012-07-17",
+  "in_force": "2012-07-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletore Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7b537b61b4d1341f3463610e933325fe58ccc5e86604a515fe2533c9de9aea86.docx",
+  "source_sha256": "7b537b61b4d1341f3463610e933325fe58ccc5e86604a515fe2533c9de9aea86",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19632",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/06/20/393",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
