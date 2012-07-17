@@ -1,0 +1,1 @@
+1. Avokatit të Popullit, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi 20 000 (njëzet mijë) euro, për financimin e Konferencës së Ombudsmanëve të vendeve frëngjishtfolëse, që zhvillohet në Tiranë në tetor të vitit 2012.
