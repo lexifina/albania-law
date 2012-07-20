@@ -1,0 +1,3 @@
+# Neni 22
+Shpërndarja e të ardhurave
+Të ardhurat nga gjobat i kalojnë në masën 60 për qind Buxhetit të Shtetit dhe 40 për qind organit që ka verifikuar shkeljen, për t’i përdorur sipas mënyrës së përcaktuar me udhëzim të përbashkët të Ministrit të Financave, Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit dhe Ministrit të Brendshëm, për përmirësimin e shërbimit, në zbatim të ligjit nr. 9537, datë 3.7.2006 “Për autoriparimin, shitblerjen, depozitimin e mjeteve rrugore me motor, të rimorkiove dhe pjesëve të tyre të dala jashtë përdorimit ose të braktisura dhe për veprimtaritë që lidhen me to”, kurse 60 për qind i kalojnë Buxhetit të Shtetit.
