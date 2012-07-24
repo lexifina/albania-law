@@ -1,0 +1,1 @@
+2. Institucionet përgjegjëse për zbatimin e kësaj strategjie, brenda 3 (tre) muajve nga hyrja në fuqi e këtij vendimi, të miratojnë planin e veprimit për zbatimin e Strategjisë Kombëtare kundër Drogës, 2012 - 2016.

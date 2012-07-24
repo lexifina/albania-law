@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Brendshme, Ministria e Shëndetësisë, Ministria e Drejtësisë, Ministria e Financave, Ministria e Arsimit dhe Shkencës, Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave për ndjekjen dhe zbatimin e kësaj strategjie.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
