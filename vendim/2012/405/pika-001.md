@@ -1,0 +1,1 @@
+1. Miratimin e strategjisë ndërsektoriale “Reforma në fushën e të drejtave të pronësisë, 2012-2020” dhe të planit të saj të veprimit, sipas teksteve që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
