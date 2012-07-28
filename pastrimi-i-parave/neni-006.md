@@ -1,4 +1,8 @@
 # Neni 6
-Monitorimi i marrëdhënies së biznesit me klientët
-1. Subjektet duhet të kryejnë monitorime të vazhdueshme të marrëdhënieve të biznesit me klientët e tyre, për t’u siguruar se ato janë në përputhje me njohuritë e subjektit për klientin, objektin e veprimtarisë dhe kategorizimin e tij, sipas shkallës së rrezikut që paraqet.
-2. Subjektet duhet të rifreskojnë të dhënat për klientin në mënyrë të vazhdueshme, në përputhje me pikën 1 të këtij neni, si dhe menjëherë, kur kanë arsye për të dyshuar se kushtet dhe gjendja faktike e klientit kanë ndryshuar.
+Zhvillimet teknologjike dhe palët e treta
+1. Subjektet duhet të zbatojnë politika dhe të marrin masat e duhura, sipas rastit, për identifikimin dhe vlerësimin e rrezikut të pastrimit të parave dhe financimit të terrorizmit, që lidhen me:
+a) zhvillimet e produkteve të reja, praktikat e biznesit, mënyrat e ofrimit apo kanalet e shpërndarjes;
+b) përdorimin e teknologjive të reja apo atyre që janë në zhvillim.
+Këto masa duhet të zbatohen përpara futjes në përdorim të produkteve të reja, praktikave të biznesit apo teknologjive të reja, në mënyrë që të administrohen dhe të ulen rreziqet e identifikuara.
+2. Subjektet duhet të zbatojnë procedura specifike dhe të marrin masat e duhura e të efektshme për të parandaluar rrezikun që lidhet me transaksionet apo marrëdhëniet e biznesit, të kryera pa praninë fizike të klientit.
+3. Masat e vigjilencës së duhur duhet të zbatohen nga vetë subjektet e këtij ligji dhe mbështetja në palë të treta nuk është e lejuar.

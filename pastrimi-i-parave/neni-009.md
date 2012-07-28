@@ -1,23 +1,14 @@
 # Neni 9
-Kategoritë e transaksioneve, ndaj të cilave zbatohet vigjilenca e zgjeruar
-1. Për shërbimet bankare korrespondente ndërkufitare, të ofruara nga bankat subjekte të këtij ligji, përpara se të vendosin një marrëdhënie biznesi, ato duhet:
+Kategoritë e transaksioneve dhe marrëdhënieve të biznesit, ndaj të cilave zbatohet vigjilenca e zgjeruar
+1. Subjektet duhet t’u kushtojnë vëmendje të veçantë të gjitha transaksioneve komplekse, me vlera të larta dhe të pazakonta, të cilat nuk kanë qëllim të dukshëm ekonomik ose ligjor. Subjektet duhet të analizojnë arsyet dhe qëllimin e kryerjes së transaksioneve të tilla dhe të mbajnë të dhëna me shkrim për konkluzionet, për një periudhë 5-vjeçare, të cilat duhet t’u vihen në dispozicion autoritetit përgjegjës dhe audituesve, nëse kërkohet.
+2. Për shërbimet bankare korrespondente ndërkufitare, të ofruara nga bankat subjekte të këtij ligji, përpara se të vendosin një marrëdhënie biznesi, ato duhet:
 a) të grumbullojnë informacion të mjaftueshëm rreth institucionit pritës, për të kuptuar plotësisht natyrën e biznesit;
-b) të përcaktojnë nëpërmjet informacionit publik, reputacionin e institucionit pritës dhe cilësinë e mbikëqyrjes së tij;
+b) të përcaktojnë, nëpërmjet informacionit publik, reputacionin e institucionit pritës, cilësinë e mbikëqyrjes së tij, përfshirë faktin nëse ka qenë subjekt hetimi apo masash administrative që lidhen me pastrimin e parave dhe/ose financimin e terrorizmit;
 c) të vlerësojnë se procedurat e kontrollit të brendshëm të institucionit pritës kundër pastrimit të parave dhe financimit të terrorizmit janë të mjaftueshme dhe efektive;
 ç) të marrin miratimin e instancave më të larta të administrimit/drejtimit dhe të dokumentojnë respektivisht për çdo institucion përgjegjësitë për parandalimin e pastrimit të parave dhe të financimit të terrorizmit;
 d) të hartojnë procedura të veçanta për monitorimin e vazhdueshëm të transaksioneve të drejtpërdrejta elektronike.
-2. Subjektet nuk duhet të kryejnë shërbime bankare korrespondente me banka, llogaritë e të cilave përdoren nga bankat guaskë. Subjektet duhet të ndërpresin marrëdhëniet e biznesit dhe t’i raportojnë autoritetit përgjegjës kur vlerësojnë se llogaritë e bankës korrespondente përdoren nga bankat guaskë. Subjektet duhet të marrin masat e duhura në mënyrë që të krijojnë bindjen se bankat e huaja korrespondente nuk lejojnë që llogaritë e tyre të përdoren nga bankat guaskë.
-3. Subjektet duhet t’u kushtojnë vëmendje të veçantë të gjitha transaksioneve komplekse, me vlera të larta dhe të pazakonta, të cilat nuk kanë qëllim të dukshëm ekonomik ose ligjor. Subjektet duhet të analizojnë arsyet dhe qëllimin e kryerjes së transaksioneve të tilla dhe të mbajnë të dhëna për konkluzionet, të cilat duhet të mbahen për një periudhë prej pesë vjetësh dhe t’u vihen në dispozicion autoritetit përgjegjës dhe auditorëve.
-4. Subjektet duhet t’u kushtojnë vigjilencë të zgjeruar marrëdhënieve të biznesit dhe transaksioneve me klientët jorezidentë.
-5. Subjektet duhet të verifikojnë dhe t’u kushtojnë vigjilencë të zgjeruar marrëdhënieve të biznesit dhe transaksioneve me klientë, të cilët banojnë ose e ushtrojnë veprimtarinë në vende që nuk zbatojnë ose që zbatojnë pjesërisht standardet përkatëse ndërkombëtare, për të parandaluar e luftuar pastrimin e parave dhe financimin e terrorizmit. Subjektet duhet të analizojnë arsyet dhe qëllimin e kryerjes së transaksioneve të tilla dhe të mbajnë të dhëna për konkluzionet, të cilat duhet t’u vihen në dispozicion autoritetit përgjegjës dhe auditorëve.
-6. Subjektet duhet t’u kushtojnë vigjilencë të zgjeruar marrëdhënieve të biznesit dhe transaksioneve me klientë, siç janë trustet dhe shoqëritë anonime.
-7. Subjektet duhet të përcaktojnë për të gjithë klientët nëse ata janë duke vepruar në emër të një personi tjetër dhe duhet të marrin masa të arsyeshme për të siguruar të dhëna të mjaftueshme për identifikimin e atij personi.
-8. Subjektet duhet të zbatojnë politika ose të marrin masat e duhura, sipas rastit, për të parandaluar keqpërdorimin e produkteve dhe të zhvillimeve të reja teknologjike, për pastrim të parave ose financim të terrorizmit.
-8/1. Për klientët, që janë persona juridikë, subjektet duhet të marrin masa për të kuptuar strukturën e pronësisë e të kontrollit të klientit dhe për të përcaktuar se cilët janë personat që kanë në pronësi apo kontrollojnë klientin. Këtu përfshihen ata persona që ushtrojnë kontrollin e fundit efektiv mbi personin juridik.
-8/2. Subjektet duhet të sigurojnë informacion për qëllimin dhe natyrën e synuar të marrëdhënies së biznesit.
-8/3. Subjektet duhet të përcaktojnë procedurat dhe mjetet e menaxhimit të riskut për rastet kur klienti lejohet të vendosë dhe të përdorë marrëdhënien e biznesit para verifikimit të identitetit. Këto procedura duhet të përfshijnë një sërë masash, si kufizimin e numrit, të llojit dhe/ose të shumës së transaksioneve që mund të kryhen.
-8/4. Në rastet kur subjekti ka filluar marrëdhënien e biznesit dhe është i paaftë të zbatojë detyrimin e vigjilencës së zgjeruar, të përshkruar në këtë nen, duhet të përfundojë marrëdhënien e biznesit dhe të dërgojë një raport të veprimtarisë së dyshimtë tek autoriteti përgjegjës.
-8/5. Për klientët ekzistues, subjektet duhet të zbatojnë masat për vigjilencën e zgjeruar ndaj klientit, bazuar në prova, fakte dhe rrezikun.
-9. Nëse subjektet nuk mund të zbatojnë detyrimin e vigjilencës së zgjeruar të përshkruar në këtë nen:
-a) nuk duhet të hapin llogari, të fillojnë një marrëdhënie biznesi apo të kryejnë transaksionin;
-b) duhet të dërgojnë një raport të veprimtarisë së dyshimtë tek autoriteti përgjegjës.
+3. Subjekteve u ndalohet që të vendosin apo të vazhdojnë marrëdhënie bankare korrespondente me banka guaskë.
+4. Subjektet duhet të marrin masat e duhura, në mënyrë që të krijojnë bindjen se bankat e huaja korrespondente nuk lejojnë që llogaritë e tyre të përdoren nga bankat guaskë. Subjektet duhet të ndërpresin marrëdhëniet e biznesit dhe t’i raportojnë autoritetit përgjegjës, kur vlerësojnë se llogaritë e bankës korrespondente përdoren nga bankat guaskë.
+5. Për rastet kur marrëdhënia korrespondente përfshin mbajtjen e llogarive transitore, subjektet duhet të sigurohen që banka korrespondente:
+a) ka ndërmarrë masat e vigjilencës së duhur për klientët që kanë akses të drejtpërdrejtë në këto llogari;
+b) është në gjendje, nëse i kërkohet, të paraqesë dokumentet e identifikimit të klientit.
