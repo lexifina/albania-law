@@ -1,1 +1,0 @@
-2. Ministria e Shëndetësisë të angazhojë Institutin e Shëndetit Publik për kryerjen e matjeve dhe vlerësimin e nivelit të zhurmës, sipas udhëzimit të përbashkët nr.8, datë 27.11.2007 të Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave e të Ministrit të Shëndetësisë “Për nivelet kufi të zhurmave në mjedise të caktuara”.

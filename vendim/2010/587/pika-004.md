@@ -1,1 +1,0 @@
-4. Ministria e Brendshme, nëpërmjet strukturave të Policisë së Shtetit, të marrë të gjitha masat për mbështetjen e organeve e të strukturave shtetërore që ushtrojnë monitorimin e kontrollin e zhurmave në mjedis, si dhe të monitorojë zbatimin e orarit të përcaktuar në piken 3.1 të këtij vendimi.

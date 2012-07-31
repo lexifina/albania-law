@@ -1,1 +1,0 @@
-6. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministria e Shëndetësisë, brenda një afati 6-mujor nga hyrja në fuqi e këtij vendimi dhe në zbatim të nenit 20 të ligjit nr.9774, datë 12.7.2007 “Për vlerësimin dhe administrimin e zhurmës në mjedis”, të marrin të gjitha masat për hartimin e miratimin e Planit Kombëtar të Veprimit për Menaxhimin e Zhurmave.
