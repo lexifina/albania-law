@@ -1,0 +1,2 @@
+# Neni 5
+Njësitë e inspektimit të Inspektoratit të Mjedisit në qarqe, strukturat ekzekutive të njësive të qeverisjes vendore, strukturat vendore të shëndetit publik dhe Institutit të Shëndetit Publik, si dhe strukturat e Policisë së Shtetit, marrin masa të menjëhershme për zbatimin e kërkesave ligjore në përputhje me legjislacionin në fuqi dhe me këtë akt normativ, duke bashkëpunuar dhe duke bashkërenduar punën për garantimin e qetësisë publike në këto zona.

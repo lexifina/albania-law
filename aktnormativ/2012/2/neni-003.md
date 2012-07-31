@@ -1,0 +1,4 @@
+# Neni 3
+1. Task-forca ushtron aktivitetin e saj në çdo ditë të javës, duke ndaluar ushtrimin pas orarit të lejuar të veprimtarive të subjekteve, fizike e juridike, të cilat janë burim zhurme, si dhe në rastet e njoftimit nga institucionet shtetërore apo komuniteti për tejkalim të normave të lejuara të nivelit të zhurmës në mjedis.
+2. Për mjediset e hapura, orari i lejimit të veprimtarive për ditët e premte dhe të shtunë të jetë nga ora 19:00 deri në orën 24:00, ndërsa për ditët e tjera të javës të jetë nga ora 19:00 deri në orën 23:30, sipas normave të lejuara të zhurmës, të përcaktuara në udhëzimin e përbashkët nr.8, datë 27.11.2007 të Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe të Ministrit të Shëndetësisë “Për nivelet kufi të zhurmave në mjedise të caktuara”.
+3. Për mjediset e mbyllura, veprimtaria lejohet duke respektuar nivelin e lejuar të zhurmës, të përcaktuar në udhëzimin e përmendur në pikën 2 të këtij neni.
