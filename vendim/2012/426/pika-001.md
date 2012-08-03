@@ -1,0 +1,3 @@
+1. Rishpërndarjen e fondeve për shpenzime kapitale, ndërmjet programeve brenda buxhetit të vitit 2012, miratuar për Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave, si më poshtë vijon:
+a) Në programin “Administrimi i pyjeve”, për projektin “Zhvillimi i burimeve natyrore”, për kosto lokale, të shtohet fondi në vlerën 1 657 705 (një milion e gjashtëqind e pesëdhjetë e shtatë mijë e shtatëqind e pesë) lekë.
+b) Në programin “Mbrojtja e mjedisit”, për projektin “Transformimi i tregut për panelet diellore (ndryshimet klimatike)”, për kosto lokale, të pakësohet fondi në vlerën 1 657 705 (një milion e gjashtëqind e pesëdhjetë e shtatë mijë e shtatëqind e pesë) lekë.
