@@ -1,0 +1,1 @@
+5. Kuotat e pranimit për të verbrit, të përcaktuara në shkronjën “c” të pikës 2 të këtij vendimi, ndahen për kandidatët më statusin e të verbrit, nga Ministria e Arsimit dhe Shkencës, sipas propozimit të Shoqatës Kombëtare të të Verbërve.

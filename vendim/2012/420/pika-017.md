@@ -1,0 +1,1 @@
+17. Studentët, që vijojnë një program të dytë studimi, i nënshtrohen tarifës vjetore të shkollimit të njëjtë me koston e plotë të studimeve, të përcaktuar në tabelën nr. 1, që i bashkëlidhet këtij vendimi.

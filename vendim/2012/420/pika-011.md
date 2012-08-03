@@ -1,0 +1,1 @@
+11. Në çdo program studimi në ciklin e parë të studimeve me kohë të plotë, në vitin akademik 2012-2013, 3 (tre) studentët e vitit të parë, me rezultatet më të larta në plotësimin e kritereve të pranimit (pikët e fituara në sistemin meritë-preferencë), në programin e studimit përkatës, përjashtohen nga tarifa vjetore e shkollimit.

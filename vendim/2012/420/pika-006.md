@@ -1,0 +1,1 @@
+6. Kuotat e pranimit për romët dhe ballkano-egjiptianët, të përcaktuara në shkronjën “ç” të pikës 2 të këtij vendimi, ndahen nga Ministria e Arsimit dhe Shkencës, sipas propozimeve të Shoqatës Kombëtare të Romëve dhe asaj të ballkano-egjiptianëve.

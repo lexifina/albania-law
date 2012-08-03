@@ -1,0 +1,1 @@
+13. Transferimet e studentëve në numrin përkatës të kuotës së përcaktuar nga Ministria e Arsimit dhe e Shkencës bëhen nga vetë institucionet publike të arsimit të lartë, sipas kritereve të përcaktuara në aktet nënligjore dhe në statutin e rregulloret e tyre.
