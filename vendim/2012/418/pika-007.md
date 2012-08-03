@@ -1,0 +1,1 @@
+7. Çdo përcaktim i masës së shpërblimit apo pagesës për pjesëmarrje në një këshill, bord, komision apo grup pune në njësitë e qeverisjes qendrore, i parashikuar me akte të tjera nënligjore, shfuqizohet.
