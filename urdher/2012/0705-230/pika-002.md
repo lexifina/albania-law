@@ -1,0 +1,1 @@
+2. Draftet përfundimtare të këtyre projektakteve paraqiten për shqyrtim dhe miratim në Këshillin e Ministrave nga titullari i institucionit, në bazë të kreut VI, neni 43 të vendimit të Këshillit të Ministrave nr. 584, datë 28.8.2003 “Për miratimin e rregullores së Këshillit të Ministrave”, të ndryshuar.
