@@ -1,0 +1,7 @@
+# Neni 3
+Kur lirimi dhe dorëzimi i banesës sipas nenit 1, të këtij akti normativ, nuk ndodh brenda datës 1 nëntor 2012, pronari i pronës ose një përfaqësues ligjor i ngarkuar prej tij, me autorizim të posaçëm, i dërgon Entit Kombëtar të Banesave njoftimin respektiv.
+Enti Kombëtar i Banesave, brenda 2 (dy) ditëve pune nga marrja e njoftimit me shkrim, konfirmon, me shkrim, se qytetari/ët i/e pastrehë është/janë në listën e botuar për trajtim me kredi me 0 (zero) % interes në vit, për një afat kohor deri në 30 vjet.
+Ky konfirmim, në kuptim të këtij akti normativ, përbën titull ekzekutiv sipas nenit 510, shkronja “e”, të Kodit të Procedurës Civile dhe Enti Kombëtar i Banesave, brenda 1 (një) dite pune, regjistron kërkesën për lëshimin e urdhrit të ekzekutimit, në gjykatën ku ndodhet pasuria e paluajtshme, në favor të kreditorit.
+E gjithë procedura e lëshimit të urdhrit të ekzekutimit, në gjykatë, në emër të kreditorit, kryhet nga punonjës të Entit Kombëtar të Banesave dhe informacioni publikohet në faqen zyrtare të këtij enti.
+Enti Kombëtar i Banesave i dorëzon me procesverbal me shkrim, pronarit të tokës apo përfaqësuesit ligjor të ngarkuar prej tij me autorizim të posaçëm, urdhrin e ekzekutimit.
+Pronari i pronës ose një përfaqësues i ngarkuar prej tij me autorizim të posaçëm ka të drejtë t’i drejtohet shërbimit përmbarimor gjyqësor, pas lëshimit të urdhrit të ekzekutimit nga gjykata, që të bëjë lirimin e banesës. Gjykatat e Shkallës së Parë nuk mund të kryejë pezullimin e këtij urdhri ekzekutimi.

@@ -1,0 +1,2 @@
+# Neni 2
+Ngarkohet Enti Kombëtar i Banesave të dorëzojë në BKT, deri më 5 shtator 2012, listën e qytetarëve të pastrehë, banues në banesat ish-pronë e subjekteve të shpronësuara, që kanë aplikuar apo nuk kanë aplikuar ende në Entin Kombëtar të Banesave, me gjithë njoftimin publik të bërë më 4.11.2009. Lista publikohet e plotë edhe në faqen zyrtare të Entit Kombëtar të Banesave, brenda datës 5 shtator 2012.
