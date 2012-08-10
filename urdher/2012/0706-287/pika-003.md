@@ -1,0 +1,1 @@
+3. Programet e studimeve të ciklit të parë “Bachelor” dhe programi i studimeve të ciklit të dytë “Master profesional”, me kohë të pjesshme, të pikës 1 dhe 2 të këtij urdhri, të fillojnë në vitin akademik 2012-2013.
