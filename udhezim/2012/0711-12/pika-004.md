@@ -1,0 +1,1 @@
+4. Në Universitetin Politeknik të Tiranës, në programet e studimit “Arkitekturë” dhe “Arkitekturë-Urbanist”, rezultatet e shkollës së mesme (nota mesatare e viteve të shkollimit dhe gjithë provimet e Maturës Shtetërore), të llogariten në masën 40% kurse rezultatet e konkursit të pranimit në masën 60%, sipas tabelës nr. 1, bashkëngjitur këtij udhëzimi.

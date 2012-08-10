@@ -1,0 +1,1 @@
+12. Rektoratet dhe dekanatet e IAL-të Publike të shpallin në mjedise të dukshme të institucioneve të tyre deri në datën 10 gusht 2012: datat dhe oraret e veprimeve të regjistrimit, procedurat përkatëse, listën e dokumenteve të nevojshme për të siguruar një ecuri normale të procesit të regjistrimeve në konkursin e pranimit në ciklin e parë të studimeve me kohë të plotë.

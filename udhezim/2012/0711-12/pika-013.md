@@ -1,0 +1,1 @@
+13. Sekretaritë mësimore të fakulteteve përkatëse, të programeve të studimit të pikës 1 dhe 2, pas verifikimit të listave të të regjistruarve, me listën e dorëzuar nga AKP dhe nga MASH, në datën 17 gusht 2012, ora 12:00 të shpallin listat e konkurrentëve të regjistruar dhe t’i afishojnë ato në vende të dukshme, në mjediset e fakulteteve të tyre.
