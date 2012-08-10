@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi kriteret e përbashkëta në përcaktimin e një liste të BE-së për transportuesit ajrorë, të cilëve u ndalohet operimi brenda BE-së dhe ZPAE-së, si dhe mbi informimin e pasagjerëve ajrorë për identitetin e këtyre transportuesve ajrorë”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
