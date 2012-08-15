@@ -1,0 +1,8 @@
+# Neni 12
+Mbledhja, përpunimi dhe përditësimi i të dhënave gjeohapësinore
+1. Mbledhja, përpunimi dhe përditësimi i të dhënave gjeohapësinore për secilën nga temat e përcaktuara nga neni 11 i këtij ligji, kryhen në përputhje me vendimet e ASIG-ut për secilën temë.
+2. Në vendimin e ASIG-ut për secilën temë identifikohen autoritetet publike përgjegjëse për mbledhjen, përpunimin dhe përditësimin e të dhënave gjeohapësinore përkatëse, si dhe përcaktohen afatet për mbledhjen e të dhënave dhe depozitimin e tyre pranë këtij autoriteti.
+3. Autoritetet publike, të identifikuara sipas pikës 2 të këtij neni, mbledhin, përpunojnë dhe përditësojnë të dhëna gjeohapësinore, në përputhje me legjislacionin në fuqi dhe vendimet e ASIG-ut, si dhe depozitojnë pranë këtij autoriteti të dhënat gjeohapësinore të mbledhura në afatin e përcaktuar prej tij.
+4. ASIG-u, pasi të ketë marrë më parë mendimin e BIG-ut për përputhshmërinë e tyre me kërkesat/kushtet e përcaktuara, miraton ose refuzon përfshirjen në GIS-in Kombëtar të të dhënave të mbledhura në përputhje me këtë nen.
+5. Vendimi i ASIG-ut për miratimin e të dhënave gjeohapësinore dhe përfshirjen e tyre në GIS-in Kombëtar publikohet në Gjeoportalin Kombëtar, si dhe u komunikohet me shkrim autoriteteve publike përgjegjëse, brenda 15 ditëve nga data e marrjes së këtij vendimi.
+6. Vendimi i ASIG-u për refuzimin e përfshirjes së të dhënave gjeohapësinore në GIS-in Kombëtar shoqërohet me arsyetimin përkatës dhe u përcillet me shkrim autoriteteve publike përgjegjëse, duke përcaktuar afatin, brenda të cilit këto autoritete duhet të adresojnë shkaqet e refuzimit, të sqaruara në arsyetimin e vendimit.
