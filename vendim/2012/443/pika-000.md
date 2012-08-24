@@ -1,0 +1,2 @@
+Për miratimin e marrëveshjes së grantit nr. TF 011176, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim/Shoqatës Ndërkombëtare për Zhvillim, si administratore të Fondit të Besimit Multidonator për lehtësimin e qeverisjes me partneritet, për financimin e projektit “Mbështetja për rritjen e sigurisë së sistemit të prokurimit elektronik në Shqipëri”, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
