@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8321,
+  "title": "Ligj Nr.62 Dt.24.05.2012",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "62",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2012-05-24",
+  "published": "2012-08-09",
+  "in_force": "2012-08-24",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/92d59339cc887bccffeed2eb6e36276e58bc80eba7537526b0b31fbd2b87eff7.docx",
+  "source_sha256": "92d59339cc887bccffeed2eb6e36276e58bc80eba7537526b0b31fbd2b87eff7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8321",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2012/05/24/62",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
