@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit të institucionit privat të arsimit të lartë “New York University of Tirana” nga shkollë e lartë universitare në universitet, me emërtimin “Universiteti i New York-ut në Tiranë (University of New York, Tirana)”.
