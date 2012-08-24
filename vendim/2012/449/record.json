@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8371,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 545, DATË 11.8.2011 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E STRUKTURËS DHE TË NIVELEVE TË PAGAVE TË NËPUNËSVE CIVILË/NËPUNËSVE, ZËVENDËSMINISTRIT DHE NËPUNËSVE TË KABINETEVE NË KRYEMINISTRI, APARATET E MINISTRIVE TË LINJËS, ADMINISTRATËN E PRESIDENTIT, KUVENDIT, KOMISIONIT QENDROR TË ZGJEDHJEVE, PROKURORINË E PËRGJITHSHME, DISA INSTITUCIONE TË PAVARURA, INSTITUCIONET NË VARËSI TË KRYEMINISTRIT, INSTITUCIONET NË VARËSI TË MINISTRAVE TË LINJËS DHE ADMINISTRATËN E PREFEKTIT”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "449",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-07-11",
+  "published": "2012-08-24",
+  "in_force": "2012-08-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/5353815120e3b5d0f48fd2359e9c41901ec8952322ca658fa6978e50de532c40.docx",
+  "source_sha256": "5353815120e3b5d0f48fd2359e9c41901ec8952322ca658fa6978e50de532c40",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8371",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/07/11/449",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
