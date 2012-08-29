@@ -1,0 +1,1 @@
+1. Ministrisë së Brendshme, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 200 000 (dyqind mijë) eurosh, e barabartë me kundërvleftën e saj në lekë, për përballimin e situatës emergjente, të krijuar nga zjarret në vendin tonë.
