@@ -1,0 +1,1 @@
+6. Pas dorëzimit të veprave, boceteve, projektideve, nga ana e artistëve, titullari i institucionit porositës, brenda 5 ditëve pune, ngre jurinë për vlerësimin e veprës, boceteve dhe projektidesë më të mirë, e cila në përbërje të saj ka jo më pak se 3 dhe jo më shumë se 9 anëtarë.

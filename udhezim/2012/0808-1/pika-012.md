@@ -1,0 +1,1 @@
+12. Nëse juria e ka të pamundur të marrë një vendim për të shpallur një fitues, pasi ka dyshime në cilësinë artistike të veprës, ajo i propozon titullarit përsëritjen e procedurave të konkursit. Titullari i institucionit porositës miraton ose jo procedurat e ndjekura nga juria, si dhe vendimmarrjen e saj.

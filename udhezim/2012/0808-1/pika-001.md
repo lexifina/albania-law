@@ -1,0 +1,1 @@
+1. Organet e qeverisjes qendrore dhe vendore (më poshtë institucioni porositës), pas miratimit nga ministri përgjegjës për artet i përjetësimit të një figure kombëtare, me fonde të vëna në dispozicion nga Buxheti i Shtetit kanë të drejtë të shpallin një konkurs kombëtar a ndërkombëtar për realizimin e veprave monumentale të artit pamor.

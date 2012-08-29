@@ -1,0 +1,1 @@
+13. Nëse juria konstaton se ka shmangie nga detyra e projektimit, atëherë (ajo), juria mund të përzgjedhë jo më pak se 1 ose jo më shumë se 5 artistë nga artistët pjesëmarrës në konkurrim, vepra e të cilëve përmbush më mirë disa prej elementeve të detyrës së projektimit, si dhe i përafrohet cilësisë artistike të kërkuar, për një fazë të dytë.

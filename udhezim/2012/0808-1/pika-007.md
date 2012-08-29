@@ -1,0 +1,1 @@
+7. Anëtarët e jurisë nuk duhet të kenë konflikt interesi me pjesëmarrësit në konkurs, në përputhje me dispozitat e ligjit nr. 9376, datë 7.4.2005 “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”.

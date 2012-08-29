@@ -1,0 +1,1 @@
+14. Juria përcakton afate të reja kohore për artistët e përzgjedhur për fazën e dytë. Përgjatë kësaj faze të dytë, juria duhet t’u paraqesë me shkrim artistëve ndryshimet, vërejtjet, si dhe kërkesat e saj, të cilat duhet të reflektohen nga artistët në fazën e dytë dhe finale.
