@@ -1,0 +1,4 @@
+# Neni 20
+Sanksionet për strukturat përgjegjëse për zbatimin e këtij akti normativ
+1. Moszbatimi i detyrave të parashikuara në këtë akt normativ nga secili prej punonjësve të caktuar në strukturat përgjegjëse, konsiderohet shkelje e rëndë disiplinore dhe sjell fillimin e ecurisë disiplinore për nëpunësin e ngarkuar dhe drejtuesin e strukturës përgjegjëse, në rast se ky i fundit nuk vepron për të siguruar zbatimin e aktit normativ.
+2. Në rast se kryetari i njësisë së qeverisjes vendore nuk zbaton detyrat e parashikuara apo strukturat vartëse që janë nën mbikëqyrjen e tij nuk zbatojnë përgjegjësitë e parashikuara në këtë akt normativ dhe nëse kryetari i njësisë së qeverisjes vendore nuk merr masa për këtë qëllim, ky mosveprim konsiderohet shkelje e rëndë e ligjit, në kuptim të pikës 1 të nenit 115 të Kushtetutës, dhe Ministri i Brendshëm, pas njoftimit të strukturave përgjegjëse, fillon procedurën për shkarkimin e tij nga detyra.

@@ -1,0 +1,6 @@
+# Neni 12
+Detyrat e Policisë së Shtetit
+1. Punonjësit e Policisë së Shtetit, në bazë të njoftimit verbal të strukturave përgjegjëse për zbatimin e këtij akti normativ, janë të detyruar të marrin menjëherë masat për mbështetjen e veprimtarisë së inspektorëve të AKU-së, të ARM-së apo të strukturave vendore të shëndetit publik, në kuadër të zbatimit të dispozitave të këtij akti normativ. Gjithsesi, brenda 24 (njëzet e katër) orëve nga njoftimi verbal, struktura përgjegjëse, e cila ka bërë njoftimin verbal, i dërgon Policisë së Shtetit edhe njoftimin me shkrim.
+2. Drejtuesi i strukturës vendore të Policisë së Shtetit, nën përgjegjësinë e tij personale, merr masat që punonjës policie në numër të mjaftueshëm të mbështetin veprimtarinë inspektuese të strukturave të parashikuara në pikën 1 të këtij neni.
+3. Në rast mosveprimi të strukturave të Policisë së Shtetit, titullari i AKU-së, i ARM-së apo i strukturave vendore të shëndetit publik njoftojnë menjëherë drejtorin e Përgjithshëm të Policisë së Shtetit, duke vënë në dijeni edhe Ministrin e Brendshëm, ministrin përgjegjës për bujqësinë dhe ushqimin, ministrin përgjegjës për mjedisin dhe ministrin përgjegjës për shëndetësinë.
+4. Zbatimi i detyrimit nga Policia e Shtetit mbikëqyret edhe nga prefekti, i cili, në çdo rast, njofton Ministrin e Brendshëm për mënyrën e përmbushjes së detyrave nga Policia e Shtetit.
