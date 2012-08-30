@@ -1,0 +1,1 @@
+1. Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në kërkesat buxhetore të programit buxhetor afatmesëm 2013-2015, brenda një ose dy programeve buxhetore, të përcaktojnë minimalisht një objektiv të politikës gjinore për të zbatuar integrimin gjinor në buxhetim.

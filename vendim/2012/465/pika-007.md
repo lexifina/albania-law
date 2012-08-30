@@ -1,0 +1,1 @@
+7. Ministria e Financave dhe Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta të nxjerrin udhëzimin e përbashkët për përcaktimin e procedurave më të hollësishme për zbatimin e këtij vendimi.

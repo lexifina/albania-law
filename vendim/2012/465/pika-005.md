@@ -1,0 +1,1 @@
+5. Përcaktimi i programeve buxhetore, për të cilat do të zbatohet integrimi gjinor në buxhetim, të bëhet mbështetur në objektivat e strategjisë kombëtare për barazinë gjinore dhe reduktimin e dhunës me bazë gjinore dhe dhunës në familje, 2011-2015.
