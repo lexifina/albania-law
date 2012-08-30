@@ -1,0 +1,1 @@
+6. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave komunikon, me shkrim, me shtetet eksportuese dhe ato në të cilat do të transitojë kjo sasi e mbetjeve të polietilenit, në përmbushje të kërkesave të Konventës së Bazelit “Për kontrollin e lëvizjeve ndërkufitare të mbetjeve të rrezikshme dhe asgjësimin e tyre”, në të cilën Republika e Shqipërisë është palë.

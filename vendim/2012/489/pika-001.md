@@ -1,0 +1,1 @@
+1. Autorizimin e “EVEREST IE” sh.p.k. për importin e mbetjeve të polietilenit me Kodin Doganor GH 011 ex 391510 dhe Kodin e Konventës së Bazelit B3-B3010, sipas anekseve 1 e 2, bashkëlidhur vendimit nr. 825, datë 13.10.2010 të Këshillit të Ministrave “Për miratimin e listave të mbetjeve që lejohen të importohen, për qëllime përdorimi, riciklimi dhe përpunimi”.
