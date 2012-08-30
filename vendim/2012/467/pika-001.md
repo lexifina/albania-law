@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Laç të qarkut të Lezhës, që transferohen në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 207 (dyqind e shtatë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 1454 (një mijë e katërqind e pesëdhjetë e katër).
