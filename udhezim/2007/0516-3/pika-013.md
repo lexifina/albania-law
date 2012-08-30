@@ -1,1 +1,0 @@
-13. Konkurruesit në ankand kanë të drejtë ankimimi ndaj vendimit të BQTBP-së te Ministri i Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, brenda 5 ditëve nga dalja e vendimit. Shqyrtimi i ankesës bëhet brenda 10 ditëve. Akti i Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit është përfundimtar.
