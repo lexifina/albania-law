@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion, të formës BOT (ndërtim-shfrytëzim dhe transferim në pronësi të shtetit), të ndërtimit dhe shfrytëzimit të portit të jahteve në qytetin e Durrësit është Ministria e Punëve Publike dhe Transportit.
