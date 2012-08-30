@@ -1,0 +1,1 @@
+4. Vendimi nr. 655, datë 28.9.2011 i Këshillit të Ministrave “Për dhënien në përdorim Inspektoratit Qendror të një pjese të godinës së ish-Ministrisë së Transporteve e Telekomunikacioneve”, shfuqizohet.

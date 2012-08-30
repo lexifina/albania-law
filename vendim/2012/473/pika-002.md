@@ -1,0 +1,1 @@
+2. Dhënien në përdorim Agjencisë Kombëtare për Sigurinë Kompjuterike të katit zero teknik të godinës së ish-Ministrisë së Transporteve dhe Telekomunikacioneve, sipas planimetrisë bashkëlidhur këtij vendimi.

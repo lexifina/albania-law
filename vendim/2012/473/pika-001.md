@@ -1,0 +1,1 @@
+1. Dhënien në përdorim Inspektoratit Qendror të katit zero teknik të godinës së observatorit të Institutit të Gjeoshkencave dhe Energjisë, Ujit e Mjedisit, sipas planimetrisë bashkëlidhur këtij vendimi.
