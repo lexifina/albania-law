@@ -1,0 +1,2 @@
+Miratimin e Marrëveshjes së financimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Bankës Europiane të Investimeve (BEI), për financimin me grant, në kuadër të asistencës teknike të Instrumentit të Investimeve të Ballkanit Perëndimor, të projektit të ujësjellësit të Durrësit, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
