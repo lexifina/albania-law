@@ -1,0 +1,1 @@
+10. Çmimi dysheme i dhënies së tokës bujqësore me qira, si në rastin e paraqitjes së një kërkese, ashtu dhe në rastin e paraqitjes së dy ose më shumë kërkesave për të njëjtën sipërfaqe, nuk mund të jetë më i ulët se 6 000 (gjashtë mijë) lekë/ha, në një vit kalendarik.

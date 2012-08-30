@@ -1,0 +1,1 @@
+3. Kryetari i komunës ose bashkisë ku ndodhet toka bujqësore, objekt i pikës 1 të këtij kreu, nё cilësinë e autoritetit qiradhёnёs, krijon Komisionin e Qiradhënies së Tokёs Bujqёsore të Pandarё (KQTBP).

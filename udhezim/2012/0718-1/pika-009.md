@@ -1,0 +1,1 @@
+9. Mënyra e përllogaritjes së kritereve të vlerësimit të kërkesë-ofertave për marrjen me qira të tokës bujqësore, përcaktohet me udhëzim të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
