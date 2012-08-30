@@ -1,1 +1,0 @@
-11. Të bashkëpunohet ngushtë mes strukturave të linjës së Ministrisë së Brendshme me ato pushtetit vendor, që veprimtaritë në det, liqene dhe lumenj, për kanotazh dhe veprimtari të ngjashme, të kryhen vetëm nga persona të autorizuar dhe anëtarësuar në federatat përkatëse.

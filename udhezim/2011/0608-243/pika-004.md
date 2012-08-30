@@ -1,1 +1,0 @@
-4. Të merren masat tekniko-logjistike për të siguruar gatishmërinë dhe funksionimin e plotë e të pandërprerë të të gjithë sistemit TIMS, për të siguruar një veprimtari normale dhe pa pengesa në regjistrimin e udhëtarëve në pikat e kalimit kufitar.

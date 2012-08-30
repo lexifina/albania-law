@@ -1,1 +1,0 @@
-3. Në varësi të fluksit të udhëtarëve dhe mjeteve në PKKK-të, drejtuesit e drejtorive rajonale të kufirit dhe të migracionit të zhvillojnë takime dypalëshe me strukturat homologe të kufirit, me qëllim shtimin e sporteleve për përballimin dhe menaxhimin e fluksit dhe zgjidhjen e problemeve që mund të lindin.
