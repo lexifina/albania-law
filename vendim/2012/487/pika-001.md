@@ -1,0 +1,1 @@
+1. Fondin prej 10 për qind të transfertës së pakushtëzuar, të ndarë sipas ligjit nr. 10 487, datë 5.12.2011 “Për buxhetin e vitit 2012”, që komunat dhe bashkitë nuk e kanë përdorur për skemën e financimit të pemëtarisë, duhet ta përdorin për gjelbërim, me qëllim përmirësimin e treguesve të mjedisit.

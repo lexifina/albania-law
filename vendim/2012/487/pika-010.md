@@ -1,0 +1,1 @@
+10. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave të bashkëpunojë me njësitë e qeverisjes vendore, duke monitoruar punimet që do të kryhen sipas fazave deri në realizimin e plotë të tyre dhe të hartojë një raport për Ministrinë e Financave.

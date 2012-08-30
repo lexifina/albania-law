@@ -1,0 +1,1 @@
+6. Në rastet kur sipërfaqet që do të pyllëzohen për t’u kthyer në park apo zonë të gjelbëruar janë fond pyjor në pronësi shtetërore, Ministria e Mjedisit Pyjeve dhe Administrimit të Ujërave, në zbatim të akteve ligjore, t’i kalojë këto sipërfaqe në pronësi të komunave dhe bashkive.

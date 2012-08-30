@@ -1,0 +1,1 @@
+7. Komunat apo bashkitë fondin e transfertës së pakushtëzuar duhet ta planifikojnë për t’u përdorur brenda vitit buxhetor, duke realizuar projektet përkatëse për pyllëzimin e sipërfaqeve, për krijimin e parqeve dhe zonave të gjelbëruara dhe mbrojtjen e tokës nga erozioni.

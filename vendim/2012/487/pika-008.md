@@ -1,0 +1,1 @@
+8. Skema e financimit të projekteve me fondin e transfertës së pakushtëzuar të jetë në përputhje me nivelin e realizimit të punimeve për pyllëzimin dhe ripyllëzimin e sipërfaqeve për t’u kthyer në parqe dhe zona të gjelbëruara.
