@@ -1,1 +1,0 @@
-3. Ministritë dhe institucionet e tjera qendrore, në varësi të Këshillit të Ministrave, raportojnë pranë Ministrisë së Integrimit, në fillim të çdo muaji, për realizimin e detyrimeve, që rrjedhin nga plani kombëtar për zbatimin e marrëveshjes së Stabilizim-Asociimit.

@@ -1,1 +1,0 @@
-4. Ngarkohet Ministria e Financave të monitorojë përfshirjen, në programin buxhetor afatmesëm, të nevojave financiare, të pambuluara nga institucionet përgjegjëse për zbatimin e përparësive afatshkurtra, afatmesme dhe afatgjata, të parashikuara në planin kombëtar për zbatimin e marrëveshjes së Stabilizim-Asociimit.

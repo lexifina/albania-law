@@ -1,2 +1,0 @@
-6. Vendimet nr.634, datë 30.8.2004 “Për miratimin e planit të veprimit në zbatim të përparësive të partneritetit europian” dhe nr.317, datë 13.5.2005 “Për miratimin e planit kombëtar të përafrimit të legjislacionit vendas me atë të Bashkimit Europian dhe zbatimit të angazhimeve, që rrjedhin nga marrëveshja e Stabilizim-Asociimit”, të Këshillit të Ministrave, shfuqizohen.
-Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
