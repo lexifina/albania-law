@@ -1,0 +1,1 @@
+2. Ngarkohen Qendra Ndërinstitucionale Operacionale Detare (QNOD), Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Mbrojtjes, Ministria e Brendshme, Ministria e Punëve Publike dhe Transportit, Ministria e Financave dhe institucionet e tjera shtetërore, si dhe organet që kanë interesat e tyre në det për kontrollin dhe zbatimin e këtij plani kombëtar.
