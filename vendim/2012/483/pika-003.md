@@ -1,0 +1,1 @@
+3. Misioni i ekipit shëndetësor të Forcave të Armatosura të Republikës së Shqipërisë është mbështetja dhe këshillimi i personelit shëndetësor afgan, në Akademinë e Shkencave Mjekësore të Forcave të Armatosura Afgane.

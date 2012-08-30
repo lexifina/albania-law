@@ -1,0 +1,1 @@
+2. Autoriteti i drejtimit operacional për ekipin shëndetësor të Forcave të Armatosura të Republikës së Shqipërisë, për kohën e qëndrimit në mision, është Komanda e Ekipit Këshillues Mjekësor të NATO-s (NTM-A), që vepron në Komandën Rajonale Qendrore të Operacionit “ISAF”, në Kabul, Afganistan.

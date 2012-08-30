@@ -1,0 +1,1 @@
+5. Kohëzgjatja e këtij misioni është 1 (një) vit, afat i cili fillon të llogaritet nga data e dërgimit të ekipit të parë shëndetësor në mision. Kohëzgjatja për çdo rotacion është 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët për ndërrimin me kontingjentin e radhës.
