@@ -1,0 +1,1 @@
+4. Ngarkohet Ministria e Financave që, në bashkëpunim me Ministrinë e Integrimit, të monitorojë përfshirjen në programin buxhetor afatmesëm të nevojave financiare për zbatimin e përparësive, afatshkurtra dhe afatmesme, të parashikuara në PKZMSA 2012-2015, nga ministritë dhe institucionet e tjera qendrore.

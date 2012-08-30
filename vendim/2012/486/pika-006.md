@@ -1,0 +1,1 @@
+6. Rregullat më të hollësishme për mënyrën e përcaktimit të përgjegjësive institucionale, për përafrimin e çdo akti të legjislacionit të BE-së në legjislacionin e brendshëm, me propozimin e Ministrit të Integrimit, të miratohen nga KNIE-ja, brenda 1 (një) muaji nga hyrja në fuqi e këtij vendimi.

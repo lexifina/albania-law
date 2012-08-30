@@ -1,0 +1,1 @@
+3. Ministritë dhe institucionet e tjera qendrore raportojnë pranë Ministrisë së Integrimit, çdo 3 muaj (java e tretë e muajit të fundit), për realizimin e detyrimeve, që rrjedhin nga PKZMSA, 2012-2015 dhe për ecurinë e procesit të përafrimit të acquis communautaire.
