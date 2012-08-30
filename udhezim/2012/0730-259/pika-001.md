@@ -1,0 +1,1 @@
+1. Task Forca ushtron aktivitetin e saj çdo ditë të javës, duke ndaluar ushtrimin pas orarit të lejuar të veprimtarive të subjekteve, fizike dhe juridike, të cilat janë burim zhurme, si dhe në rastet e njoftimit nga institucionet shtetërore apo komuniteti për tejkalim të normave të lejuara të nivelit të zhurmës në mjedis.
