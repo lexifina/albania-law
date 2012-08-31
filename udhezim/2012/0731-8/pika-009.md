@@ -1,0 +1,1 @@
+9. Në përcaktimin e çmimit të fillimit të ankandit, komisioni bazohet edhe në ligjin nr. 9874, datë 14.2.2008 “Për ankandin publik”, në çmimet e tregut, të dhënat e INSTAT-it apo të organeve të tjera shtetërore. Komisioni ka përgjegjësi për përcaktimin e saktë të çmimit të fillimit të ankandit për çdo objekt të ankandit.

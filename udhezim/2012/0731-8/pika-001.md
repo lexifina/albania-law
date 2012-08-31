@@ -1,0 +1,2 @@
+1 . DISPOZITA TË PËRGJITHSHME
+1. Kjo rregullore ka për qëllim përcaktimin e hapave dhe procedurave teknike për t’u ndjekur në rastin e ankandit për shitjen e traktorëve, makinerive, serrave me ngrohje, linjave të përpunimit, pjesëve të këmbimit, si dhe pajisjeve të tjera të cilat janë përfituar nga përdoruesit me anë të granteve japoneze, sipas projektit “Rritja e prodhimit ushqimor 2KR” dhe i janë rimarrë atyre për shkak të cilësisë si debitore (më tej “objekti i ankandit”).

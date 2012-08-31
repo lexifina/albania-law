@@ -1,0 +1,1 @@
+2. Kjo rregullore zbatohet në përputhje me kriteret e vlerësimit, të përcaktuara nga aktet ligjore dhe nënligjore në fuqi për ankandin, si dhe nga aktet e veçanta që rregullojnë objektet e përmendura në pikën 1 më lart.

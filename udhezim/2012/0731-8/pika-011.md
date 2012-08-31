@@ -1,0 +1,1 @@
+11. Komisioni i shitjes përcaktohet me urdhër të drejtorit të AZHBR-së brenda strukturës së këtij projekti. Komisioni i shitjes pajisjet me inventarin e objekteve të ankandit, si dhe çmimet respektive të ankandit të fundit dhe zhvillon procedurat e shitjes së tyre, sipas kërkesave të paraqitura me çmimin e ankandit të fundit të publikuar.

@@ -1,0 +1,1 @@
+8. Komisioni i vlerësimit për llogaritjen e vlerës së fillimit të shitjes me ankand mbështetet në vlerën fillestare të kontabilitetit, orët e punës dhe gjendjen aktuale teknike në momentin e vlerësimit, për çdo objekt të ankandit.
