@@ -1,1 +1,0 @@
-12. Në rastet kur edhe pas zhvillimit të procedurave të ankandeve mbeten pa u shitur traktorë, makineri, pajisje dhe pjesë këmbimi dhe paraqiten kërkesa për blerjen e tyre apo pjesëve të veçanta, gjatë një periudhe 2-mujore, ato shiten pa ankand me komision shitjeje të ngritur nga projekti 2KR me çmimin e ankandit të fundit.

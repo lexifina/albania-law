@@ -1,1 +1,0 @@
-4. Projekti 2KR vë në dispozicion të komisionit të vlerësimit, listën e traktorëve, makinerive dhe pjesëve të këmbimit që do të vlerësohen dhe shiten, si dhe të gjithë informacionin e kërkuar prej tij.
