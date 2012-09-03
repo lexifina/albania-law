@@ -1,0 +1,1 @@
+6. Standardet e dhënies së pëlqimit nga ana e klientit janë në përputhje me pikën 24 të nenit 3, nenin 12 dhe nenin 18 të ligjit nr. 9887, datë 10.3.2008 “Për mbrojtjen e të dhënave personale”, të ndryshuar.

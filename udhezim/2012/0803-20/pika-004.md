@@ -1,0 +1,1 @@
+4. Bankat mbledhin vetëm ato të dhëna personale të klientëve dhe/ose palëve të treta me të cilët ajo, banka, hyn në marrëdhënie kontraktore për shkak të aktivitetit të saj tregtar dhe që janë të nevojshme për realizimin e aktiviteteve për të cilat ajo është licencuar nga Banka e Shqipërisë apo për plotësimin e nevojave të saj si person juridik tregtar.

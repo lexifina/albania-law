@@ -1,0 +1,1 @@
+8. Kujdes i veçantë në lidhje më saktësinë e të dhënave ushtrohet në rastin e informacionit negativ. Nëse informacioni negativ i regjistruar rezulton të jetë tërësisht ose pjesërisht i pasaktë ose jo i plotë, ai fshihet dhe zëvendësohet zyrtarisht me të dhëna të sakta të korrigjuara nga raportuesi i të dhënave.

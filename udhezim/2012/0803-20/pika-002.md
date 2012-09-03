@@ -1,0 +1,1 @@
+2. Ky udhëzim zbatohet nga të gjitha subjektet financiare, të cilat gjatë aktivitetit të tyre financiar mbajnë, administrojnë dhe kontrollojnë të dhëna personale për qëllime të aktivitetit bankar dhe financiar.

@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i të drejtave dhe detyrimeve të subjekteve bankë, degë e bankës së huaj, si dhe subjekt financiar jobankë (më poshtë referuar “subjekte financiare”) në kuadrin e përpunimit të të dhënave personale gjatë aktivitetit të tyre bankar.

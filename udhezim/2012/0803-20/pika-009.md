@@ -1,0 +1,1 @@
+9. Banka merr masa sigurie të posaçme për mbrojtjen e të dhënave personale që ajo përpunon. Masat e sigurisë duhet të jenë të qarta, si dhe krijohen procedura standarde veprimi të detyrueshme për të gjithë punonjësit. Masat e sigurisë duhet të jenë në përputhje me llojin dhe natyrën e të dhënave personale që përpunohen, dhe mbrojtjen që ato duhet të kenë.

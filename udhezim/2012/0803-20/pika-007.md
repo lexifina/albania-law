@@ -1,0 +1,1 @@
+7. Të gjitha të dhënat e subjekteve të të dhënave që përpunohen në regjistrin e kredive dhe nga bankat duhet të jenë të sakta dhe të përditësuara në mënyrë të tillë që të sigurojnë një reflektim të vërtetë të gjendjes aktuale të subjektit të të dhënave.
