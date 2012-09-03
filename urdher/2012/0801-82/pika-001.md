@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi shërbimet meteorologjike në navigimin ajror” sipas tekstit, shtojcave, materialeve udhëzuese dhe ilustruese përkatëse, që i bashkëlidhen këtij urdhri dhe janë pjesë përbërëse e tij.
