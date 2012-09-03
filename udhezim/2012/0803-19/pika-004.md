@@ -1,0 +1,1 @@
+4. Çdo kontratë përpunimi (outsourcing) që ka për qëllim përpunimin e të dhënave personale përmban dispozita që vendosin rregulla për përpunimin e të dhënave personale sipas legjislacionit shqiptar. Çdo kontratë e tillë parashikon çdo masë që merr përpunuesi për të siguruar mbrojtjen e mjaftueshme të të dhënave, si dhe hapat që do të ndërmerren në rast cenimi të të dhënave.

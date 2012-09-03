@@ -1,0 +1,1 @@
+7. Përpunuesi është i detyruar të njoftojë kontrolluesin në rast cenimi të të dhënave personale. Përpunuesi nuk ka detyrimin që në këtë rast të njoftojë subjektin e të dhënave. Nëse përpunimi bëhet me nënkontraktim, kompania nënkontraktuese ka detyrimin që të njoftojë si kompaninë kontraktuese ashtu edhe kontrolluesin.

@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave në lidhje me marrëdhënien mes kontrolluesit dhe përpunuesit në rastet e delegimit të përpunimit të të dhënave, si dhe miratimi i një kontrate tip që palët duhet të përdorin në rast të këtij delegimi. Kontrata tip është pjesë e aneksit I të këtij udhëzimi.
