@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për procedurat e fluturimit duke përfshirë instrumentet standarde në nisje dhe në mbërritje në aeroport (SID-STAR)” sipas tekstit dhe anekseve 1, 2, 3 dhe 4 që i bashkëlidhen këtij urdhri dhe janë pjesë përbërëse e tij.
