@@ -1,0 +1,1 @@
+3. Miratimin e bonusit prej 8.3 (tetë pikë tri) pikësh, për rezultatin teknik, financiar dhe mjedisor në procedurën përzgjedhëse konkurruese (propozim i pakërkuar), që i jepet shoqërisë “EMS Shipping and Trading Gmbh”, Gjermani.

@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion të menaxhimit, operimit dhe mirëmbajtjes së terminalit lindor në Portin e Durrësit, është Ministria e Punëve Publike dhe Transportit.
