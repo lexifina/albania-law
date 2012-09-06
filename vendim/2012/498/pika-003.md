@@ -1,0 +1,1 @@
+3. Komunës Farkë, Tiranë, i ndalohet ta ndryshojë destinacionin e përdorimit të pronës nr. 193, me emërtim “Group Depo M (Ish-Reparti Ushtarak nr. 5011/53)”, në Lundër, Tiranë, të përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojë ose ta japë në përdorim te të tretë.
