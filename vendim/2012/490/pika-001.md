@@ -1,0 +1,1 @@
+1. Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në buxhetin e miratuar për vitin 2012, në programin buxhetor 04220 “Siguria ushqimore dhe mbrojtja e konsumatorit”, t’i zbritet nga shpenzimet e personelit fondi prej 7 766 000 (shtatë milionë e shtatëqind e gjashtëdhjetë e gjashtë mijë) lekësh.

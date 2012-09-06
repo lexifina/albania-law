@@ -1,0 +1,1 @@
+2. INSTAT-it, në buxhetin e miratuar për vitin 2012, në programin buxhetor “Veprimtaria statistikore”, t’i shtohet në shpenzimet e personelit fondi prej 7 766 000 (shtatë milionë e shtatëqind e gjashtëdhjetë e gjashtë mijë) lekësh.
