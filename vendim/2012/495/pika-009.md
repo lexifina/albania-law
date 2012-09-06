@@ -1,0 +1,1 @@
+9. Efektet financiare të mbulohen nga buxheti i Ministrisë së Drejtësisë. Masa e shpërblimit, e përcaktuar në pikën 5, të përballohet nga shpenzimet korente të buxhetit të Ministrisë së Drejtësisë. Masa e shpërblimit, e përcaktuar në pikat 6 dhe 7 të këtij vendimi, të përballohen nga fondi i veçantë i planifikuar në buxhetin e vitit 2012, miratuar për Ministrinë e Drejtësisë.

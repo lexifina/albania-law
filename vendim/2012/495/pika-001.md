@@ -1,0 +1,1 @@
+1. Vlerësimin publik të z. Aristotel Agaraj për krijimin e sistemit elektronik “One-Stop Shop-Sistemi i Noterisë” dhe për kalimin në pronësi, pa kundërshpërblim, të këtij sistemi Ministrisë së Drejtësisë, me qëllim vënien në përdorim në shërbim të publikut.

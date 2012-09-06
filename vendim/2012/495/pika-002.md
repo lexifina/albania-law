@@ -1,0 +1,1 @@
+2. Vlerësimin publik të z. Xhevair Llakaj për krijimin e portalit elektronik të kërkesave për shërbime pranë Zyrës së Regjistrimit të Pasurive të Paluajtshme dhe vënien e këtij sistemi në shërbim të publikut.
