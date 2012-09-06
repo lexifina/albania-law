@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8450,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR. 413, DATË 26.5.2010 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E STRUKTURËS, TË ORGANIKËS, SI DHE TË STRUKTURËS DHE TË NIVELEVE TË PAGAVE TË NËPUNËSVE TË AUTORITETIT TË AVIACIONIT CIVIL”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "501",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-08-01",
+  "published": "2012-09-06",
+  "in_force": "2012-09-06",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 15 korrik 2012\": the publication day (its effects reach back to 15 korrik 2012)",
+  "source": "https://qbz.gov.al/files/46577b215c5d02ac865c8f38fe80ad38fb9a1dbfa4da4a4b13cc173f66e38cda.docx",
+  "source_sha256": "46577b215c5d02ac865c8f38fe80ad38fb9a1dbfa4da4a4b13cc173f66e38cda",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8450",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/08/01/501",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
