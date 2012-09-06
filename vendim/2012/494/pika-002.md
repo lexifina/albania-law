@@ -1,0 +1,1 @@
+2. “Kolegji Profesional i Sporteve, Fier” të ketë njësi përbërëse organizative Fakultetin e Edukimit Fizik dhe Sporteve, i cili do të ofrojë programin e studimit të ciklit të parë, në “Edukim fizik dhe sporte”.

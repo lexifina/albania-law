@@ -1,0 +1,1 @@
+3. “Kolegji Profesional i Sporteve, Fier” të ofrojë programin e studimit të ciklit të parë, në “Edukim fizik dhe sporte”, me kohë të plotë, me kohëzgjatje normale 3 (tri) vite akademike, që realizohet me 180 kredite. Në përfundim të këtij programi studimi lëshohet diplomë universitare “Bachelor” në “Edukim fizik dhe sporte”.

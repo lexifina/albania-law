@@ -1,0 +1,1 @@
+1. Licencimin e institucionit privat të arsimit të lartë “Kolegji Profesional i Sporteve, Fier”, në emër të shoqërisë “Akademia e Sporteve, Fier” sh.p.k., e cila do ta ushtrojë veprimtarinë në këtë qytet.
