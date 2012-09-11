@@ -1,0 +1,1 @@
+1. Ministrisë së Drejtësisë, në buxhetin e miratuar për vitin 2012, në programin e sistemit të burgjeve, t’i shtohet fondi në masën 123 000 000 (njëqind e njëzet e tre milionë) lekë, për shpenzime operative.
