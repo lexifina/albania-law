@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Policisë së Shtetit përcakton në çdo rast oficerët e policisë që do të kryejnë vlerësimin dhe që do të marrin vendimin për vazhdimin e mbajtjes apo të fshirjes së të dhënave personale të përpunuara.

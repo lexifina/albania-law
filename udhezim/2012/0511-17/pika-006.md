@@ -1,0 +1,4 @@
+6. Nëse koha e mbajtjes së të dhënave personale rishikohet tri herë pas këtij afati, vendimi për rishikim miratohet nga Drejtori i Përgjithshëm i Policisë së Shtetit ose Drejtori i Drejtorisë së Policisë së Qarkut (qarqeve), ose Drejtori Rajonal i Policisë Kufitare, përveç rasteve kur aplikohet një nga kushtet e mëposhtme:
+a) Kur të dhënat për personin janë përditësuar ose konsultuar (aksesuar) vazhdimisht, veçanërisht nëse informacione të reja janë shtuar gjatë gjashtë muajve të fundit;
+b) Kur ka të dhëna të qarta, bazuar në fakte, se personi i përket ose është i lidhur ngushtë me një organizatë kriminale ose terroriste;
+c) Kur, sipas studimeve përkatëse shkencore apo statistikore, lloji i krimit, lidhur me të dhënat e mbajtura mbi personin, ka shumë të ngjarë që të kryhet sërish prej tij. Një listë e qartë e këtyre kategorive krimesh duhet të miratohet nga Ministri i Brendshëm.

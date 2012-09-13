@@ -1,0 +1,1 @@
+2. Personeli i policisë duhet të respektojë të gjitha procedurat e kohës së mbajtjes së të dhënave personale për të siguruar që të dhënat personale janë përpunuar, janë përditësuar dhe ato që nuk janë më të nevojshme, janë fshirë nga banka e të dhënave.
