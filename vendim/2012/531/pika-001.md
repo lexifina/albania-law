@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen, në qytetin e Tiranës, të ciklit fillor në institucionin arsimor jopublik “Shkolla Franceze e Tiranës”, që do të përfshijë në programin mësimor edhe lëndë në gjuhë të huaj.
