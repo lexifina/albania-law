@@ -1,0 +1,2 @@
+12. Tarifat e përgjithshme të shkollimit për studentët që do të regjistrohen në vitin e parë, për të gjitha programet e studimit të ciklit të dytë “Master i shkencave”/“Master i arteve të bukura”, në vitin akademik 2012-2013, përcaktohen në tabelën nr. 1, bashkëlidhur këtij vendimi.
+Pagesa e tarifës bëhet me këste të përcaktuara nga institucioni i arsimit të lartë. Pas përfundimit të kohëzgjatjes së paracaktuar të programit të studimit, studentët, të cilët nuk e kanë përfunduar ende programin përkatës, paguajnë vetëm tarifën për kredit të lëndëve të prapambetura.

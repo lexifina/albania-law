@@ -1,0 +1,1 @@
+5. Kuotat e pranimeve për personat që nuk shikojnë, të përcaktuara në shkronjën “d” të pikës 1 të këtij vendimi, ndahen për kandidatët me statusin e personave që nuk shikojnë nga MASH-i, në bazë të listës së hartuar nga Shoqata Kombëtare e të Verbërve.

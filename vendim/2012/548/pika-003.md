@@ -1,0 +1,1 @@
+3. Kuotat e pranimeve të reja për programet e studimit “Master i shkencave”/“Master i arteve të bukura”, sipas shkronjës “a” të pikës 2 të këtij vendimi, që shpërndahen sipas programeve të studimit dhe institucioneve publike të arsimit të lartë, përcaktohen në tabelën nr. 1, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+6. Kuotat e pranimeve për romët dhe ballkano-egjiptianët, të përcaktuara në shkronjën “dh” të pikës 1 të këtij vendimi, ndahen nga MASH-i, në bazë të listës së hartuar nga shoqatat respektive, përkatësisht Shoqata Kombëtare e Romëve dhe Shoqata Kombëtare e Ballkano-Egjiptianëve.
