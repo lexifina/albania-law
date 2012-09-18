@@ -1,0 +1,1 @@
+1. Dhënien nga Ministria e Arsimit dhe Shkencës të 84 (tetëdhjetë e katër) bursave të studimit, nga të cilat 24 (njëzet e katër) për nxënësit e viteve përgatitore dhe 60 (gjashtëdhjetë) për nxënësit e viteve të para, deri në vitin e katërt të shkollës së mesme profesionale “Peter Mahringer”, Shkodër, për vitin shkollor 2012-2013.

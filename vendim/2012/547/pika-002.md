@@ -1,0 +1,1 @@
+2. Vlera e bursës të jetë 680 euro për nxënës në vit, me qëllim shlyerjen e tarifës mujore të shkollimit dhe për mbulimin e kostos së teksteve mësimore. Vlera e bursës të paguhet, për çdo nxënës, në lekë.
