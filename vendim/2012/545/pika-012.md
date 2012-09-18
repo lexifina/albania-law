@@ -1,0 +1,1 @@
+12. Ministria e Arsimit dhe Shkencës për vitin e ri akademik 2012-2013, të japë 1650 (një mijë e gjashtëqind e pesëdhjetë) bursa për nxënësit dhe 1900 (një mijë e nëntëqind) bursa për studentët, për hyrjet e reja në vitin e parë në sistemin arsimor publik për të gjitha kategoritë e parashikuara në pikën 2 të këtij vendimi.
