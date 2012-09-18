@@ -1,0 +1,2 @@
+12. Tarifat e përgjithshme të shkollimit për studentët që do të regjistrohen në vitin e parë, për të gjitha programet e studimit të ciklit të dytë “Master profesional”, me kohë të plotë, në vitin akademik 2012-2013, përcaktohen në tabelën nr. 1, bashkëlidhur këtij vendimi.
+Pagesa e tarifës bëhet me këste, të përcaktuara nga institucioni i arsimit të lartë. Pas përfundimit të kohëzgjatjes normale të programit të studimit, studentët që nuk e kanë përfunduar ende programin përkatës, paguajnë vetëm tarifën për kredit të lëndëve të prapambetura.

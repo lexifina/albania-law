@@ -1,0 +1,1 @@
+3. Kuotat e pranimeve të reja për programet e studimit të ciklit të dytë “Master profesional”, me kohë të plotë, sipas shkronjës “a” të pikës 2 të këtij vendimi, sipas programeve të studimit dhe institucioneve publike të arsimit të lartë që i ofrojnë këto programe, pasqyrohen në tabelën nr. 1, bashkëlidhur këtij vendimi.

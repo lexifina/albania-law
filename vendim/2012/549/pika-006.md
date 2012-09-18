@@ -1,0 +1,1 @@
+6. Kuotat e pranimeve sipas shkronjës “dh” të pikës 1 të këtij vendimi, për romët dhe ballkano-egjiptianët, administrohen nga Ministria e Arsimit dhe Shkencës në bazë të listës së hartuar të shoqatave respektive, Shoqatës Kombëtare të Romëve dhe Shoqatës Kombëtare të Ballkano-Egjiptianëve.

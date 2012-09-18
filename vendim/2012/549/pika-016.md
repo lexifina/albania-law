@@ -1,0 +1,1 @@
+16. Transferimet e studimeve sipas shkronjës “c” të pikës 1 të këtij vendimi, në numrin përkatës të kuotave për program, të përcaktuara nga Ministria e Arsimit dhe Shkencës, bëhen nga vetë institucionet publike të arsimit të lartë, sipas kritereve të përcaktuara në aktet nënligjore, në statutet dhe rregulloret e tyre.
