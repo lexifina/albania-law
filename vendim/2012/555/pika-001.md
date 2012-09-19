@@ -1,0 +1,1 @@
+1. Dhënien e licencës për hapjen, në qytetin e Tiranës, të institucionit arsimor privat, parauniversitar, shkollë 9-vjeçare “Shkolla Ndërkombëtare e Shqipërisë” (Albanian International School), që do të përfshijë në programin mësimor edhe lëndë në gjuhë të huaj dhe do të administrohet nga “Albanian International School” sh.p.k.
