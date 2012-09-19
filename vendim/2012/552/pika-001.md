@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 8.3.2010 për çështjen nr. 6397/04 “Bushati dhe të tjerë kundër Shqipërisë”, në shumën 11 500 (njëmbëdhjetë mijë e pesëqind) euro, si dhe pagimin e tatimit mbi të ardhurat për dëmshpërblimin.
