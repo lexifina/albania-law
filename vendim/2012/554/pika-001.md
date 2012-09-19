@@ -1,0 +1,1 @@
+1. Dhënien e licencës për hapjen, në qytetin e Lezhës, të institucionit arsimor privat, parauniversitar, shkollë 9-vjeçare “Qendra Akademike e Lezhës”, që do të përfshijë në programin mësimor edhe lëndë në gjuhë të huaj dhe do të administrohet nga fondacioni “Albanian Mennonite Education” (Arsimi Menonit Shqiptar).
