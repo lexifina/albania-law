@@ -1,1 +1,1 @@
-3. Shuma totale e shpronësimit, prej 9 172 800 (nëntë milionë e njëqind e shtatëdhjetë e dy mijë e tetëqind) lekësh, të përballohet nga zëri “Investime”, miratuar për Drejtorinë e Përgjithshme të Rrugëve, për vitin 2012.
+3. Shuma e palikuiduar prej 640 800 (gjashtëqind e dyzet mijë e tetëqind) lekësh nga vlera e përgjithshme e shpronësimit prej 8 532 000 (tetë milionë e pesëqind e tridhjetë e dymijë) lekësh, do të përballohet nga “Llogaria e veçantë” e Ministrisë së Financave, pranë Bankës së Shqipërisë “Fondi i shpronësimeve”.
