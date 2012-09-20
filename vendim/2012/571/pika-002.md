@@ -1,0 +1,1 @@
+2. Këto të ardhura të përdoren për zhvillimin, mirëmbajtjen dhe njohjen ndërkombëtare të etaloneve shqiptare të matjeve, sipas përcaktimeve në udhëzimin e përbashkët të Ministrit të Financave dhe të Ministrit të Ekonomisë, Tregtisë dhe Energjetikës.
