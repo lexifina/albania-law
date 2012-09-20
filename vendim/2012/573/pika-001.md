@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, në artikullin 231 “Shpenzime kapitale të trupëzuara”, t’i shtohet fondi i përgjithshëm prej 20 825 999 (njëzet milionë e tetëqind e njëzet e pesë mijë e nëntëqind e nëntëdhjetë e nëntë) lekësh, për ndërtimin e objektit “Mauzoleu i Familjes Mbretërore”, Tiranë.
