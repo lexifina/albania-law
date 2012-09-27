@@ -1,0 +1,1 @@
+6. Nuk janë objekt shqyrtimi nga AKKP-ja, sipas këtij vendimi, oborret në përdorim, brenda të cilave ose në lidhje funksionale me to gjendet vetëm ndërtim informal. Ato të trajtohen në përputhje me aktet, ligjore e nënligjore, në fuqi.

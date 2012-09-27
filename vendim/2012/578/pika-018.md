@@ -1,0 +1,1 @@
+18. Në rast se AKKP-ja ka vendosur mospranimin e kërkesës për tjetërsim, në mbështetje të vendimit nr. 200, datë 19.2.2009 të Këshillit të Ministrave, për shkak të mospagimit të çmimit nga kërkuesi, atëherë kërkuesi mund t’i drejtohet AKKP-së me kërkesë të re, në përputhje me përcaktimet e këtij vendimi.

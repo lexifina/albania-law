@@ -1,0 +1,1 @@
+4. Autoriteti shtetëror i ngarkuar për tjetërsimin e oborreve në përdorim është Agjencia e Kthimit dhe Kompensimit të Pronave. AKKP-ja vepron gjatë procedurave të regjistrimit fillestar me kërkesë të regjistruesit apo të një personi ose çdo grupi të ngarkuar nga kryeregjistruesi (kërkuesi) sipas nenit 25 të ligjit nr. 33/2012 “Për regjistrimin e pasurive të paluajtshme”.
