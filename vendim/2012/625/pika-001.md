@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 5 460 180 (pesë milionë e katërqind e gjashtëdhjetë mijë e njëqind e tetëdhjetë) lekësh, për realizimin e procedurës dhe të veprës monumentale, shtatore, kushtuar figurës historike të Mbretit Zog I.
