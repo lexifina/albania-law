@@ -1,0 +1,1 @@
+4. Shuma e përgjithshme e shpronësimit, prej 11 210 646 (njëmbëdhjetë milionë e dyqind e dhjetë mijë e gjashtëqind e dyzet e gjashtë) lekësh, të përballohet nga “Llogaria e veçantë” e Ministrisë së Financave, pranë Bankës së Shqipërisë “Fondi i shpronësimeve”.

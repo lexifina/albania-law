@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Rrugëve të likuidojë pronarët, për të cilët është bërë shënimi “Proces saktësimi, proces saktësimi + regjistrimi dhe proces regjistrimi”, pasi të kenë përfunduar proceset e saktësimit e të regjistrimit dhe të jetë dhënë konfirmimi zyrtar nga ZRPP-ja lidhur me këtë fakt, si dhe në bazë të dokumentacionit të pronësisë.
