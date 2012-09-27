@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 5 365 020 (pesë milionë e treqind e gjashtëdhjetë e pesë mijë e njëzet) lekësh, për realizimin e procedurës dhe veprës monumentale, shtatore, kushtuar figurës historike të Hasan Prishtinës.
