@@ -1,1 +1,0 @@
-6. Komisioni i strehimit, brenda një afati kohor prej 6-muajsh nga hyrja në fuqi e këtij vendimi, të shqyrtojë kërkesat dhe dokumentacionin e dorëzuar dhe të vendosë pikët, sipas sistemit të pikëzimit, të miratuar nga këshilli bashkiak.

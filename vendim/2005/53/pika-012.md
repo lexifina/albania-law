@@ -1,1 +1,0 @@
-12. Zyra e strehimit në bashki bën verifikimin e dokumentacionit dhe të informacionit për të ardhurat e familjes, brenda 30 ditëve nga data e dorëzimit. Nëse vërtetohet se deklarimi, dhënia e informacionit dhe faktet janë të rreme, familjes i hiqet e drejta për t’u trajtuar me banesë sociale me qira.
