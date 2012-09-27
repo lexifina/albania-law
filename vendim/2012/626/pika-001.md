@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 12 013 258 (dymbëdhjetë milionë e trembëdhjetë mijë e dyqind e pesëdhjetë e tetë) lekësh, për realizimin e procedurës dhe të monumentit kushtuar Kongresit të Lushnjës, që do të vendoset në qytetin e Lushnjës.
