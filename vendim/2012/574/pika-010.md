@@ -1,0 +1,2 @@
+10. Familjet, që nuk kanë përfituar, brenda 30 (tridhjetë) ditëve kalendarike nga data e njoftimit, kanë të drejtën e ankimimit pranë organeve të qeverisjes vendore.
+Familjet mund ta refuzojnë formën e strehimit dhe të mbeten përsëri në listën e pritjes, vetëm kur nuk u janë plotësuar kushtet e strehimit, sipas normave në fuqi. Në rast të kundërt, u hiqet e drejta për aplikim dhe u fshihet emri nga lista e pritjes.

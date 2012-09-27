@@ -1,0 +1,1 @@
+9. Zyrat e strehimit në njësitë e qeverisjes vendore, brenda 10 (dhjetë) ditëve nga data e seleksionimit të përfituesve, njoftojnë familjet, që përfitojnë nga programet specifike të strehimit, si dhe ato që nuk kanë përfituar.

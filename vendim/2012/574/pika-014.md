@@ -1,0 +1,1 @@
+14. Zyra përkatëse në njësinë e qeverisjes vendore ia dërgon listën përfundimtare për miratim këshillit të njësisë së qeverisjes vendore, i cili e miraton atë brenda 30 (tridhjetë) ditëve nga data e marrjes në dorëzim.

@@ -1,0 +1,1 @@
+13. Zyra e strehimit në njësinë e qeverisjes vendore bën verifikimin e dokumentacionit dhe të informacionit për të ardhurat e familjes, brenda 10 (dhjetë) ditëve nga data e dorëzimit. Nëse vërtetohet se deklarimi, dhënia e informacionit dhe faktet janë të rreme, familjes i hiqet e drejta për t’u trajtuar me programe sociale strehimi.

@@ -1,0 +1,1 @@
+11. Kryetari i njësisë së qeverisjes vendore ose personi i autorizuar prej tij, brenda 10 (dhjetë) ditëve nga përfundimi i afatit 30-ditor për ankimim, trajton ankesat e paraqitura dhe komisioni i strehimit harton listën përfundimtare të familjeve përfituese, të cilën ia paraqet zyrës së strehimit.

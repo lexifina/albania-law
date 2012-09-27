@@ -1,0 +1,1 @@
+7. Komisioni i strehimit, sa herë që në njësinë vendore zbatohet një projekt strehimi, sipas ligjit nr. 9232, datë 13.5.2004, të ndryshuar, dhe akteve nënligjore në zbatim të tij, shqyrton kërkesat dhe dokumentacionin brenda 10 (dhjetë) ditëve nga data e marrjes në dorëzim të tij nga zyra përkatëse e njësisë së qeverisjes vendore dhe vendos pikët për secilin aplikues.

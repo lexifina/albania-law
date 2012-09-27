@@ -1,0 +1,1 @@
+18. Vendimi nr. 53, datë 28.1.2005 i Këshillit të Ministrave “Për përcaktimin e dokumentacionit të nevojshëm, afateve dhe procedurave për të përfituar strehim nga programet e banesave sociale me qira”, shfuqizohet.

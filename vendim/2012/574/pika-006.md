@@ -1,0 +1,1 @@
+6. Klasifikimi i kërkesave për strehim bëhet nëpërmjet sistemit të pikëzimit, i cili miratohet nga këshilli i njësisë së qeverisjes vendore për çdo projekt më vete. Formati tip i sistemit të pikëzimit jepet bashkëlidhur këtij vendimi dhe është pjesë përbërëse e tij.
