@@ -1,0 +1,1 @@
+6. Autoritet doganore, në kuadër të marrëdhënieve të ndërsjella dhe marrëveshjeve të ndryshme në fuqi me autoritetet doganore homologe apo strukturat e tjera kompetente, mund të bëjnë verifikimin e këtyre vërtetimeve.

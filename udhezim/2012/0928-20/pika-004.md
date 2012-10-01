@@ -1,0 +1,1 @@
+4. Niveli përkatës i taksimit të akcizës gjatë deklarimit në procedurat e importit apo të deklarimit nga prodhuesit vendas, do të jepet pas paraqitjes dhe pranimit të dokumentit të vërtetimit si të vlefshëm.

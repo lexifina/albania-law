@@ -1,0 +1,1 @@
+5. Në rast të mosparaqitjes së këtij vërtetimi ose të paraqitjes së një vërtetimi që nuk i plotëson kriteret si i tillë, nga organet doganore do të aplikohet shkalla më e lartë e nivelit të akcizës për çdo kategori produktesh duke informuar importuesin apo prodhuesin për arsyet e refuzimit.
