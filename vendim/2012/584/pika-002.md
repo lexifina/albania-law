@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 (dy) pikësh për rezultatin teknik dhe financiar në procedurën konkurruese përzgjedhëse (propozim i pakërkuar) për dhënien me koncesion të këtij hidrocentrali që i jepet shoqërisë “Ukrometal” sh.p.k.
