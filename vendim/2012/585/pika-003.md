@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në procedurën konkurruese për dhënien me koncesion të hidrocentraleve “Babjen” dhe “Lozhan 2”, të pranojë oferta për të gjithë pjesën e lirë të pellgut ujëmbledhës, i cili përfshihet në skemën e shfrytëzimit të këtyre hidrocentraleve.

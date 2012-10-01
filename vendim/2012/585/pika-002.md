@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 pikësh për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese për dhënien me koncesion të këtij hidrocentrali, që i jepet shoqërisë “Favina 1” sh.p.k.
