@@ -1,0 +1,1 @@
+3. Shkolla e lartë private “Universiteti Planetar i Tiranës” të plotësojë rekomandimet e paraqitura në vendimin e Këshillit të Akreditimit, bashkëlidhur këtij urdhri, përpara fillimit të vitit të ri akademik 2012-2013.
