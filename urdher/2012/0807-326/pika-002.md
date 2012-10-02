@@ -1,0 +1,1 @@
+2. Shkolla e lartë universitare jopublike “Aldent”, bazuar në vendimin nr. 353, datë 13.7.2012 të Këshillit të Akreditimit, bashkëlidhur këtij urdhri, të plotësojë rekomandimet e paraqitura në të përpara fillimit të vitit të ri akademik 2012-2013.

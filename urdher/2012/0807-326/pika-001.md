@@ -1,0 +1,1 @@
+1. Akreditimin e programit të studimit të ciklit të parë “Bachelor” në “Fizioterapi” të shkollës së lartë universitare jopublike “Aldent” në përputhje me vendimin nr. 353, datë 13.7.2012 të Këshillit të Akreditimit.
