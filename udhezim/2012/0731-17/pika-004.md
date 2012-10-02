@@ -1,0 +1,1 @@
+4. Në qoftë se kandidati nuk ka dëftesë pjekurie të shkollës së mesme, duhet të paraqesë dublikatë të dëftesës së pjekurisë, të lëshuar nga drejtoria e shkollës së mesme ku ka përfunduar shkollën dhe të konfirmuar nga drejtoria arsimore rajonale/zyra arsimore ose listën e notave të shkollës së mesme lëshuar nga Arkivi Qendror i Shtetit.

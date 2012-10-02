@@ -1,0 +1,1 @@
+10. Transferimi i studimeve nga institucionet publike të arsimit të lartë në institucionet private të arsimit të lartë dhe anasjelltas të bëhet, sipas kritereve të përcaktuara në statutet e institucioneve dhe rregulloren e njësisë kryesore ku bëhet transferimi i studimeve.

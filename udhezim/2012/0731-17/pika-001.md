@@ -1,0 +1,1 @@
+1. Institucionet private të arsimit të lartë organizojnë procesin e pranimit dhe të regjistrimit të kandidatëve në programet e studimit të ciklit të parë dhe/ose të ciklit të dytë. Procesi monitorohet nga rektori i institucionit privat të arsimit të lartë (IAL private).

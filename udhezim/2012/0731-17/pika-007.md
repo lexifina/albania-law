@@ -1,0 +1,1 @@
+7. IAL-të private i dërgojnë AKP-së, brenda datës 30 nëntor 2012, një listë të studentëve të regjistruar në programet e studimit të ciklit të dytë, në formë shkresore dhe elektronike (hardcopy dhe në CD). AKP-ja brenda datës 30.12.2012, u dërgon IAL-ve private listën përkatëse me numrat e matrikullimit të studentëve.

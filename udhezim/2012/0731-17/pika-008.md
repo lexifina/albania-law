@@ -1,0 +1,1 @@
+8. Pas procesit të regjistrimit në programet e studimit të ciklit të parë dhe/ose të ciklit të dytë, IAL-të private përpilojnë një raport të hollësishëm në lidhje me regjistrimet e studentëve në afatet dhe formatet e kërkuara sipas udhëzimit nr. 9, datë 25.2.2010 “Për mbledhjen, përpunimin dhe raportimin e të dhënave statistikore”.
