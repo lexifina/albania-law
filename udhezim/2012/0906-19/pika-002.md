@@ -1,0 +1,1 @@
+2. Viti akademik 2012-2013 në institucionet publike të arsimit të lartë, në programet e studimit me kohë të pjesshme dhe edukim në distancë, të fillojë në datën 22 tetor 2012 dhe të përfundojë në datën 30 shtator 2013.

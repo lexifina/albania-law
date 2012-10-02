@@ -1,0 +1,1 @@
+1. Viti akademik 2012-2013 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të parë dhe programet e integruara të ciklit të dytë me kohë të plotë, të fillojë në datën 8 tetor 2012 dhe të përfundojë në datën 30 shtator 2013.
