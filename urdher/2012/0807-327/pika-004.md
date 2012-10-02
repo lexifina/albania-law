@@ -1,0 +1,1 @@
+4. Universiteti “Albanian University” do t’i nënshtrohet vlerësimit dhe akreditimit periodik të programeve të studimit të përcaktuar në pikën 1 dhe 2 të këtij urdhri, çdo 6 vjet, sipas pikës 4 neni 62 të ligjit nr. 9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar.

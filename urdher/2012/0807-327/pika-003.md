@@ -1,0 +1,1 @@
+3. Universiteti “Albanian University” të plotësojë rekomandimet e paraqitura në vendimin nr. 355, datë 13.7.2012 të Këshillit të Akreditimit bashkëlidhur këtij urdhri, përpara fillimit të vitit të ri akademik 2012-2013.
