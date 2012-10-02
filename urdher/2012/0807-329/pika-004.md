@@ -1,0 +1,1 @@
+4. Shkolla e lartë universitare jopublike “Universiteti Marin Barleti” të plotësojë rekomandimet e paraqitura në vendimin e Këshillit të Akreditimit, bashkëlidhur këtij urdhri, përpara fillimit të vitit të ri akademik 2012-2013.
