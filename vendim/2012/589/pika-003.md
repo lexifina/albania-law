@@ -1,0 +1,1 @@
+3. Çdo funksion në njësitë e qeverisjes së përgjithshme, i miratuar në organikë dhe i paplotësuar ende, të ngrijë deri në fund të vitit. Përjashtohen nga ky kufizim vendet e paplotësuara, për të cilat është realizuar konkursi, si dhe raste tepër specifike, për të cilat merret miratimi i Ministrit të Financave.

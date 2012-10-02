@@ -1,0 +1,3 @@
+1. Pas datës 7 shtator 2012, botimi i çdo lloj njoftimi për prokurim të fondeve buxhetore për shpenzime operative të njësive të qeverisjes qendrore, sipas përcaktimeve në ligjin nr. 9643, datë 20.11.2006 “Për prokurimin publik”, të bëhet me miratimin paraprak të Ministrit të Financave, pas vlerësimit të burimit të financimit.
+Nuk kërkohet miratimi paraprak i Ministrit të Financave për botimin e njoftimeve të kontratave të nënshkruara.
+Përjashtohen nga rregulli i parashikuar në paragrafin e parë të pikës 1 të këtij vendimi, fondet buxhetore, që shkojnë për shërbimin e ushqimit apo medikamenteve në ato njësi të qeverisjes qendrore, në të cilat kryhet ky shërbim dhe prokurimet me vlerë të vogël.

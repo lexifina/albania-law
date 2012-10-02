@@ -1,0 +1,1 @@
+7. Trajnimet/seminaret/kurset jashtë vendit për nëpunësit e njësive të qeverisjes së përgjithsme, të parashikuara për t’u mbuluar plotësisht apo pjesërisht me fondet buxhetore të miratuara për vitin 2012, bllokohen.

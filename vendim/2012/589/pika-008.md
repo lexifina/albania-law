@@ -1,0 +1,1 @@
+8. Fondet buxhetore të papërdorura deri në miratimin e këtij vendimi për trajnimet/seminaret/kurset, përfshirë këtu edhe trajnimet e ITAP-it brenda vendit për nëpunësit e njësive të qeverisjes së përgjithshme, të parashikuara për t’u mbuluar plotësisht apo pjesërisht me fondet buxhetore të miratuara për vitin 2012, të reduktohen në masën mbi 50%.

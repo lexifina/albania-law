@@ -1,0 +1,1 @@
+2. Masa e mbulimit të shërbimit të telefonisë celulare të reduktohet 20%, për çdo përfitues sipas përcaktimeve të vendimit nr. 864, datë 23.7.2010 të Këshillit të Ministrave “Për pajisjen me numër telefoni celular të personave juridikë publikë”.
