@@ -1,0 +1,1 @@
+4. Listat paraprake të kandidatëve fitues shpallen në faqen zyrtare elektronike të MASH-it dhe u dërgohen, në formë të shkruar dhe elektronike, institucioneve publike të arsimit të lartë nëpërmjet Agjencisë Kombëtare të Provimeve në datën 13 shtator 2012. Këto institucione, duke filluar nga kjo datë, t’i afishojnë listat në vende të dukshme në mjediset e fakulteteve përkatëse.

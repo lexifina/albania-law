@@ -1,0 +1,1 @@
+8. Institucionet publike të arsimit të lartë, deri në orën 14:00 të datës 22 shtator 2012, të dorëzojnë në MASH dhe në AKP listën origjinale të përgatitur nga AKP-ja, me regjistrimet paraprake të kryera në formë të shkruar dhe elektronike, në dy kopje, sipas shtojcës nr. 3 të udhëzimit nr. 45, datë 19.12.2011 “Për gjenerimin dhe dhënien e numrave të matrikullimit”, të ndryshuar.

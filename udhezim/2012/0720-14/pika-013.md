@@ -1,0 +1,1 @@
+13. Në përfundim të procesit të regjistrimit, studentët e regjistruar në regjistrin e veçantë të regjistrohen në regjistrin bazë të studentëve sipas udhëzimit të Ministrit të Arsimit dhe Shkencës nr. 45, datë 19.12.2011 “Për gjenerimin dhe dhënien e numrave të matrikullimit”, i ndryshuar.
