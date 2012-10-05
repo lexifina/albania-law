@@ -1,0 +1,1 @@
+3. Urdhri nr. 195, datë 9.5.2012 i Ministrit të Drejtësisë “Për rishpërndarjen sipas njësive vendore të numrit të përgjithshëm të noterëve të caktuar në vitin 2011 dhe shpalljen e vendeve vakante”, shfuqizohet.
