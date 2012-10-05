@@ -1,0 +1,1 @@
+12. Agjencia e Mbikëqyrjes së Falimentit është struktura përgjegjëse për krijimin dhe administrimin e regjistrit të administratorëve të certifikuar të falimentit. Agjencia përditëson të paktën një herë në 3 muaj regjistrin dhe/ose në përfundim të çdo procesi certifikimi, si dhe siguron publikimin e tij në faqen zyrtare të internetit të Agjencisë së Mbikëqyrjes së Falimentit.

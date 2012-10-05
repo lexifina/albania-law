@@ -1,0 +1,1 @@
+2. Agjencia e Mbikëqyrjes së Falimentit është organi përgjegjës për krijimin dhe administrimin e Regjistrit të Administratorëve të Certifikuar të Falimentit. Në këtë regjistër mbahen të dhënat e Administratorëve të Certifikuar të Falimentit.

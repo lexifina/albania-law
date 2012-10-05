@@ -1,0 +1,1 @@
+9. Në rastin e regjistrit elektronik, kur bëhen gabime në hedhjen e informacionit, rreshti elektronik i shkruar gabim nuk fshihet, por vendoset statusi gabim dhe regjistrohet një rresht i ri me të dhëna të sakta, i cili reflektohet në formatin elektronik të regjistrit.
