@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Tiranë të sipërfaqes 2661 (dy mijë e gjashtëqind e gjashtëdhjetë e një) m², truall, ndodhur në zonën kadastrale 8160, pjesë e pasurisë 7/2, sipas formularit 1 dhe planimetrisë, që i bashkëlidhen këtij vendimi, për t’u përdorur për interesa vendorë.
