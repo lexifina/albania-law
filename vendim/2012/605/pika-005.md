@@ -1,0 +1,1 @@
+5. Komisioni vendor (KV), gjatë kryerjes së njoftimeve, sipas pikave 1 dhe 4 të këtij vendimi, respekton procedurat e njoftimit, të përcaktuara në nenin 60 të ligjit nr. 8485, datë 12.5.1999 “Kodi i Procedurave Administrative të Republikës së Shqipërisë”.
