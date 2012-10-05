@@ -1,1 +1,0 @@
-3. Pika 2 e urdhrit të Ministrit të Drejtësisë nr. 2140, datë 18.3.2011 “Për caktimin e numrit të përgjithshëm të noterëve dhe numrit të tyre sipas njësive vendore” dhe urdhri nr. 9025, datë 30.12.2011 i Ministrit të Drejtësisë “Për shpalljen e vendeve vakant, për ushtrimin e veprimtarisë së noterëve, sipas njësisë vendore”, shfuqizohen.
