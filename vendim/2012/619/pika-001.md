@@ -1,0 +1,1 @@
+1. Ndryshimin e destinacionit të përdorimit të rezervuarit të Farkës, nga rezervuar uji për nevojat e bujqësisë, në rezervuar uji për nevojat e bujqësisë dhe furnizimin me ujë të pijshëm, për familjet e komunës Farkë.
