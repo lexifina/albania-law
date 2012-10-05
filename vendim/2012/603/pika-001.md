@@ -1,0 +1,1 @@
+1. Dhënien e licencës për hapjen, në komunën Velipojë, të institucionit arsimor privat parauniversitar, shkollë fillore “Don Alfons Tracki”, që do të përfshijë në programin mësimor edhe lëndë fetare dhe do të administrohet nga famullia Shën Nikolla, Velipojë.
