@@ -1,0 +1,1 @@
+2. Subjekti i interesuar dhe komuna/bashkia përkatëse, brenda 30 (tridhjetë) ditëve nga marrja dijeni e vendimit të KV-së, kanë të drejtë të paraqesin ankim ndaj këtij vendimi në KQT. Ankimi paraqitet në formë shkresore, i cili përmban të gjitha elementet e përcaktuara në nenin 143 të ligjit nr. 8485, datë 12.5.1999, dhe depozitohet pranë KV-së.
