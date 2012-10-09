@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, në zërin “Investime”, t’i jepet fondi prej 39 006 704 (tridhjetë e nëntë milionë e gjashtë mijë e shtatëqind e katër) lekësh, për financimin e projektit “Rikonceptimi i Sheshit të Flamurit”.
