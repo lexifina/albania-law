@@ -1,1 +1,0 @@
-17. Pas procesit të regjistrimit në programet e studimit të ciklit të parë, IAL-të të përpilojnë një raport të hollësishëm në lidhje me regjistrimet e studentëve në aleatet dhe formatet e kërkuara sipas udhëzimit nr. 9, datë 25.2.2010 “Për mbledhjen, përpunimin dhe raportimin e të dhënave statistikore”.

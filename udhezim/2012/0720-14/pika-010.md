@@ -1,1 +1,0 @@
-10. Në bazë të regjistrimeve paraprake të kryera dhe të vendeve të paplotësuara, AKP-ja, në datën 26 shtator 2012, të shpallë listën përfundimtare të kandidatëve fitues, duke ruajtur parimet e shprehura në pikën 2 të këtij udhëzimi. Lista shpallet edhe në faqen zyrtare elektronike të MASH-it.
