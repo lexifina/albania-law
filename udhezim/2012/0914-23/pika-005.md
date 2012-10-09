@@ -1,0 +1,1 @@
+5. AKP-ja dhe sekretaritë mësimore të fakulteteve në institucionet publike të arsimit të lartë të ngarkohen për organizimin dhe realizimin e procesit të pranimit dhe të regjistrimit të kandidatëve në ciklin e parë të studimeve me kohë të plotë.

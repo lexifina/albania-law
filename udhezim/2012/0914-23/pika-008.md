@@ -1,0 +1,1 @@
+8. AKP-ja shpall, në datën 1 tetor 2012, listën përfundimtare të kandidatëve fitues. Lista shpallet edhe në faqet zyrtare elektronike të MASH-it dhe AKP-së. Institucionet publike të arsimit të lartë dhe DAR/ZA-të të shpallin në vende të dukshme listat përfundimtare brenda datës 2 tetor 2012.

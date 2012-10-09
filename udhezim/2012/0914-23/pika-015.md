@@ -1,0 +1,1 @@
+15. Udhëzimi nr. 14, datë 20.7.2012 “Për procedurat e pranimit dhe të regjistrimit në ciklin e parë të studimeve me kohë të plotë dhe institucionet publike të arsimit të lartë, si dhe transferimin e studimeve”, shfuqizohet.
