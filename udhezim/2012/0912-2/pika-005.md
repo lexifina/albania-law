@@ -1,0 +1,4 @@
+5. Kur akti, që njeh ose përmban fitimin e së drejtës së pronësisë, është akt administrativ, punonjësit e ZRPP-së, që përpunojnë kërkesat individuale për regjistrim, procedojnë duke verifikuar, sipas shtojcës 3 të këtij udhëzimi:
+a) elementet e formës, në përputhje me përcaktimet e pjesës VI të Kodit të Procedurave Administrative, dhe të ligjeve apo akteve nënligjore përkatëse, që rregullojnë regjimin e tyre;
+b) ekzistencën e regjistrimeve të mundshme ekzistuese të pronësisë mbi pasurinë e paluajtshme, që është objekt i kërkesës për regjistrim, në favor të personave të tjerë, fizikë ose juridikë, përveç palëve të përcaktuara në aktin administrativ, të cilat nuk kanë qenë palë në procesin administrativ;
+c) nëse në aktin administrativ të dhënat për pronën, pasuri e paluajtshme, janë të plota dhe lejojnë regjistrimin e saj.

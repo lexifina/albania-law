@@ -1,0 +1,1 @@
+9. Kur, në bazë të pikës 8 të këtij udhëzimi, propozohet pranimi i kërkesës, atëherë kërkesa regjistrohet dhe kërkuesi pajiset me dokumentacionin, që vërteton regjistrimin, sipas procedurave dhe afateve në fuqi.
