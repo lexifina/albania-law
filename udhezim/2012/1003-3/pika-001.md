@@ -1,0 +1,1 @@
+1. Objekti i këtij udhëzimi është përcaktimi i kritereve dhe procedurave për regjistrimin e lejes së ndërtimit dhe akteve noteriale të lidhura për zhvillimin, në cilësinë e investitorit dhe pronarëve të truallit apo blerësve/porositësve të njësive individuale, të objektit në fazën e karabinasë dhe të objektit të përfunduar.

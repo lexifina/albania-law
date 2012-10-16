@@ -1,0 +1,1 @@
+6. Në rastet kur nuk plotësohet një prej kushteve të parashikuara në shkronjat “a”, “b” ose “c” të pikës 5 të këtij kreu, regjistruesi procedon me refuzimin e regjistrimit të aktit sipas dispozitave të ligjit nr.33/2012.

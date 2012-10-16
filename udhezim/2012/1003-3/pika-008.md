@@ -1,0 +1,20 @@
+8. Regjistruesi, brenda 10 (dhjetë) ditëve nga data e regjistrimit të lejes së ndërtimit, informon organet e administratës tatimore për këtë regjistrim.
+KREU III
+REGJISTRIMI I PUNIMEVE TË REJA NË FAZËN E KARABINASË
+1. Autoriteti shtetëror, i ngarkuar për të përcjellë kërkesën për regjistrimin e punimeve të reja në fazën e karabinasë në zyrën përkatëse vendore të regjistrimit të pasurive të paluajtshme, është autoriteti përkatës i planifikimit të territorit, sipas përcaktimeve në ligjin nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar, në territorin e të cilit po kryhet ndërtimi. Afati, brenda të cilit kërkesa dërgohet për regjistrim, është 10 (dhjetë) ditë nga data e lëshimit të certifikatës përkatëse nga ana e autoritetit përkatës të planifikimit.
+2. Krahas kërkesës për kryerjen e regjistrimit të karabinasë, autoriteti shtetëror, sipas pikës 1 të këtij kreu, duhet të paraqesë edhe dokumentet e mëposhtme:
+a) Konfirmimin e përfundimit të punimeve të karabinasë, në përputhje me projektin dhe kushtet urbanistike, të miratuara në lejen e ndërtimit.
+b) Vendimin për sheshin e zhvillimit;
+c) Lejen e ndërtimit dhe lejen e zhvillimit;
+ç) Planin e vendosjes së objektit;
+d) Aktin e piketimit të objektit.
+3. Regjistrimi i karabinasë bëhet nga regjistruesi në një regjistër të veçantë, sipas modelit të pasqyruar në aneksin nr.2, që i bashkëlidhet këtij udhëzimi dhe është pjesë përbërëse e tij. Në këtë regjistër, ZRPP-ja pasqyron lidhjen e karabinasë me truallin në të cilin është ndërtuar karabinaja, duke iu referuar kartelës përkatëse të truallit në regjistrin e truallit. Ky regjistrim ka karakter të përkohshëm dhe është i vlefshëm deri në momentin e regjistrimit përfundimtar të ndërtimit të ri, sipas kreut IV të këtij udhëzimi.
+4. Menjëherë me regjistrimin e karabinasë, regjistruesi kryen regjistrimin e akteve noteriale të regjistruara në regjistrin e lejes së ndërtimit dhe/ose zhvillimit sipas pikës 4 të kreut II të këtij udhëzimi, pa qenë nevoja të paraqitet kërkesë nga subjektet e interesuara, duke bërë njëkohësisht transferimin e akteve noteriale të regjistruara nga regjistri i lejes së ndërtimit në regjistrin e karabinasë.
+5. Në regjistrin e veçantë të karabinasë, pas kryerjes së regjistrimit të karabinasë, regjistruesi kryen edhe regjistrimin e akteve noteriale, të cilat nuk janë regjistruar në regjistrin e lejes së ndërtimit, por paraqiten për regjistrim nga subjektet e interesuara, brenda 30 (tridhjetë) ditëve nga momenti i realizimit të këtyre akteve.
+6. Për regjistrimin e akteve noteriale, të cilat nuk janë të regjistruara në regjistrin e lejes së ndërtimit, por paraqiten për regjistrim për herë të parë pas regjistrimit të karabinasë, punonjësit e ZRPP-së, që përpunojnë kërkesat individuale për regjistrim, procedojnë duke verifikuar:
+a) elementet e formës së akteve noteriale, në përputhje me ligjin nr.7829, datë 1.6.1994, “Për noterinë”, të ndryshuar, dhe akteve, ligjore e nënligjore në fuqi, për regjistrimin e akteve noteriale;
+b) nëse karabinaja është e regjistruar;
+c) nëse në aktin noterial të dhënat për njësinë janë të plota dhe në bazë të tyre lejohet individualizimi i saj në objektin për të cilin është lëshuar leja e ndërtimit;
+ç) nëse për njësinë e individualizuar rezulton të jetë paraqitur kërkesë për regjistrim apo të jetë regjistruar ndonjë akt tjetër noterial i lidhur ndërmjet zhvilluesit të pronës dhe një subjekti tjetër, i regjistruar ose jo në regjistrin e lejes së ndërtimit apo të karabinasë.
+7. Për regjistrimin e akteve noteriale të lidhura ndërmjet zhvilluesit të pronës, në cilësinë e investitorit dhe pronarëve të truallit apo blerësve/porositësve të njësive individuale, zbatohet parimi i përparësisë së regjistrimit, sipas nenit 37, të ligjit nr.33/2012, datë 23.3.2012.
+8. Me kryerjen e regjistrimit të karabinasë dhe transferimin e akteve noteriale të regjistruara në regjistrin e lejes së ndërtimit, regjistruesi mbyll regjistrin e lejes së ndërtimit dhe mbi të nuk mund të kryhet asnjë veprim tjetër.
