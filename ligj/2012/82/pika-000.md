@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 3, datë 1.8.2012, i Këshillit të Ministrave “Për lirimin e banesave pronarëve të ligjshëm nga qytetarët e pastrehë, banues në banesat ish-pronë e subjekteve të shpronësuara”.
