@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit dhe Shkencës, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 16 794 188 (gjashtëmbëdhjetë milionë e shtatëqind e nëntëdhjetë e katër mijë e njëqind e tetëdhjetë e tetë) lekësh, për Qendrën e Studimeve Albanologjike për organizimin e Konferencës Ndërkombëtare “100 Vjet Pavarësi”.
