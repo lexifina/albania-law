@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8620,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 23, DATË 20.1.2010 TË KËSHILLIT TË MINISTRAVE “PËR KRIJIMIN E AGJENCISË KOMBËTARE BËRTHAMORE”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "637",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-09-19",
+  "published": "2012-10-18",
+  "in_force": "2012-10-18",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/d21c721c8738841cd0dd8c7d1ed0a4dac8bb2199612ef541a49b3cb1f4e85914.docx",
+  "source_sha256": "d21c721c8738841cd0dd8c7d1ed0a4dac8bb2199612ef541a49b3cb1f4e85914",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8620",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/09/19/637",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
