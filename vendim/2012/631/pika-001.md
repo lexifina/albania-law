@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, në artikullin 602, aparati “Shpenzime operative”, t’i shtohet fondi prej 2 827 440 (dy milionë e tetëqind e njëzet e shtatë mijë e katërqind e dyzet) lekësh, për mbulimin e shpenzimeve për sjelljen në Shqipëri të “Mesharit” të Gjon Buzukut, me rastin e 100-Vjetorit të Pavarësisë.
