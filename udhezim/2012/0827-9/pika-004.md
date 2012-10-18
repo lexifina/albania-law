@@ -1,0 +1,1 @@
+4. Magazinat të ngrihen në vende që nuk mbajnë ujë apo që kanë afër ujëra nëntokësore dhe dyshemeja të shtrohet me zhavorr të trashë me trashësi 30-40 cm, ku mbi të hidhet beton ose të shtrohet me dërrasë.

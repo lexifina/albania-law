@@ -1,0 +1,1 @@
+5. Për të penguar krijimin e degëzimeve të ujërave nëntokësore, muret e magazinës ose të ambientit ku ruhen plehrat, duhet të lyhen me bitum, në lartësi deri në 1 m. Në këtë mënyrë, përmirësohen kushtet e ruajtjes, ngurtësimit dhe lëngëzimit të plehrave, të cilat janë shumë të ndjeshëm ndaj lagështirës.
