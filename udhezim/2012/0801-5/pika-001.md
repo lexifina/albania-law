@@ -15,4 +15,4 @@ e)
 Për të moshuarit e vendosur në shtëpitë e të moshuarve
 300 lekë;
 f)
-Për klientët në qendrat pritëse, rehabilituese dhe riintegruese për viktimat e trafikimit dhe të dhunës sipas kategorive të përfituesve të përcaktuar në germat “a”,”b”,”c”,”d” dhe “e” të këtij udhëzimi.
+Për klientët në qendrat pritëse, rehabilituese dhe riintegruese për viktimat e trafikimit dhe të dhunës sipas kategorive të përfituesve të përcaktuar në germat “a”,”b”,”c”,”d” dhe “e” të këtij udhëzimi. Për klientët e grup-moshës 16 vjeç deri në moshën e daljes në pension, sipas kategorisë së përfituesve të përcaktuar në germën “e” të këtij udhëzimi.
