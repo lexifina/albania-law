@@ -1,1 +1,1 @@
-4. Fondi, prej 84 444 549 (tetëdhjetë e katër milionë e katërqind e dyzet e katër mijë e pesëqind e dyzet e nëntë) lekësh, të përballohet nga fondet e OST sh.a.
+4. Fondi prej 78 497 611 (shtatëdhjetë e tetë milionë e katërqind e nëntëdhjetë e shtatë mijë e gjashtëqind e njëmbëdhjetë) lekësh të përballohet nga fondet e OST sh.a.
