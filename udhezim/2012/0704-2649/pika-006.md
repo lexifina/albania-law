@@ -1,0 +1,1 @@
+6. Konsultat ambulatore të specializuara, si dhe ekzaminimet laboratorike ose imazherike të të dënuarve me burgim dhe të paraburgosurve realizohen në institucionet shëndetësore të kontraktuara nga ISKSH-ja, sipas niveleve përkatëse, në zbatim të sistemit të referimit.

@@ -1,0 +1,1 @@
+7. Trajtimi me barna të listës së barnave të rimbursueshme, realizohet në bazë të recetës me rimbursim të plotë, të plotësuar nga mjeku i institucionit në farmacinë e IEVP-së. Në recetat e rimbursuara plotësohen dhe rimbursohen 100% vetëm alternativat e para të listës së barnave të rimbursuara të miratuara me VKM.

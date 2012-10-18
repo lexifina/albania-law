@@ -1,0 +1,1 @@
+8. Për furnizimin dhe rimbursimin e barnave të listës së barnave të rimbursuara, DRSKSH-ja dhe IEVP-ja lidhin kontratë trepalëshe me depon distributore të barnave të rajonit ku ato ushtrojnë aktivitetin. Nëse në atë rajon nuk ka depo distributor, kontrata lidhet me depon distributor të barnave të rajonit më të afërt.

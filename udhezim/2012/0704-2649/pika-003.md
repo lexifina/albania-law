@@ -1,0 +1,1 @@
+3. Afati i vlefshmërisë së librezës së shëndetit për personat e dënuar me burgim, llogaritet në bazë të kohës së mbetur të dënimit, të vërtetuar nga drejtori i IEVP-së, ndërsa për të paraburgosurit afati i vlefshmërisë është 3 muaj.
