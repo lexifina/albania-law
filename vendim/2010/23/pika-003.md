@@ -9,3 +9,6 @@
 - Sigurimi i ruajtjes, afatshkurtër dhe afatgjatë, së lëndës djegëse bërthamore, si dhe të materialeve radioaktive, të cilat lidhen me procesin e prodhimit të energjisë nga centrali bërthamor.
 - Njohja e popullatës dhe e grupeve të interesit me programin bërthamor, gjatë të gjitha fazave të zhvillimit të tij.
 - Vlerësimi i zhvillimit, sipas planifikimit dhe parashikimit të fazave të ndryshme të programit bërthamor.
+- inspekton dhe verifikon gjendjen dhe inventarin e raportuar nga përdoruesit dhe zotëruesit e lëndëve e të materialeve, të parashikuara në protokollin shtesë dhe në vetë marrëveshjen e garancive;
+- harton raportet për materialet e sipërpërmendura dhe përdorimin paqësor të energjisë dhe teknologjisë bërthamore;
+- informon në vazhdimësi Agjencinë Ndërkombëtare të Energjisë Atomike (IAEA) për gjithçka dhe sa herë është parashikuar në protokollin shtesë të marrëveshjes së garancive.
