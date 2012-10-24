@@ -1,0 +1,1 @@
+2. Ministri përgjegjës për artin dhe kulturën urdhëron me shkrim shpalljen e realizimit të konkurrimit për realizimin e veprimtarive artistike-kulturore, duke përcaktuar, për çdo rast, objektin e konkurrimit për realizimin e veprimtarisë artistike e kulturore.
