@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 20 140 400 (njëzet milionë e njëqind e dyzet mijë e katërqind) lekësh, për organizimin dhe realizimin e ekspozitës “Thesare të kulturës shqiptare”, nga data 20 nëntor 2012 deri në datën 6 janar 2013.
