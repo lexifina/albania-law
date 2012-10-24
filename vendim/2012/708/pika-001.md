@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, në zërin “projekte”, artikulli 604, t’i shtohet fondi prej 48 456 224 (dyzet e tetë milionë e katërqind e pesëdhjetë e gjashtë mijë e dyqind e njëzet e katër) lekësh, për mbulimin e shpenzimeve të realizimit të projektit “Dekori i 100-Vjetorit të Pavarësisë së Shqipërisë”.
