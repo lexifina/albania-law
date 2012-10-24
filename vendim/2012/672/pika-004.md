@@ -1,0 +1,1 @@
+4. Periudha e lejimit të importit të mbetjeve metalike të aluminit, bakrit, bronzit, tunxhit dhe zinkut nga “ZODIAC” sh.p.k., do të jetë për një afat kohor 1-vjeçar (njëvjeçar), nga data e miratimit në Këshillin e Ministrave.
