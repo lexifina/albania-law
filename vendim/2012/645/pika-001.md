@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 7.2.2012, për çështjen nr. 20134/05 “Alimuçaj kundër Shqipërisë”, në shumën 8000 (tetë mijë) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin.

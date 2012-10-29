@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të ankuesit z. Vehbi Alimuçaj, dhe të konvertohet në lekë me kursin e këmbimit të bankës ku është depozituar shuma, në datën e kryerjes së pagesës.

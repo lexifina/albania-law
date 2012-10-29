@@ -1,0 +1,2 @@
+4. Pagimi i shumës së depozituar, sipas pikës 4 të këtij vendimi, në favor të ankuesit z. Vehbi Alimuçaj, të bëhet nga Ministria e Financave, pas paraqitjes së të gjithë dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga Buxheti i Shtetit, brenda datës 9.10.2012.
+Në rast mospagimi brenda këtij afati, mbi shumën e mësipërme, paguhen interesa të thjeshtë të barabartë me kursin margjinal të huas së Bankës Qendrore Europiane, gjatë periudhës së mospagimit, plus tre për qind.
