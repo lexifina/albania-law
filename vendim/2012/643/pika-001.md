@@ -1,0 +1,1 @@
+1. Dhurimin qeverisë së Republikës së Kosovës të një sasie armatimi jashtë nevojave të Forcave të Armatosura të Republikës së Shqipërisë, si kontribut i qeverisë shqiptare, me qëllim ngritjen e Muzeut të Luftës së UÇK-së.
