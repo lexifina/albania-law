@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 6.3.2012, për çështjen nr. 11006/06 “Cani kundër Shqipërisë”, në shumën 6 700 (gjashtë mijë e shtatëqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin.
