@@ -1,0 +1,1 @@
+3. Dorëzimi i mjediseve dhe i truallit funksional të pronës të bëhet pas mbylljes nga Shtëpia Qendrore e Forcave të Armatosura, Tiranë, të veprimtarisë ekonomiko-financiare të filialit të saj, “Shtëpia e Ushtarakëve” në Fier dhe pas heqjes së materialeve dhe të pajisjeve të magazinuara në këtë pronë.
