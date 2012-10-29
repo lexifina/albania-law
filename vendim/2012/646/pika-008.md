@@ -1,0 +1,1 @@
+8. Kuotat e pranimeve, sipas shkronjës “ë” të pikës 1 të këtij vendimi, për ish-të përndjekurit politikë, administrohen nga Ministria e Arsimit dhe Shkencës, në bazë të listës së hartuar nga Instituti i Integrimit të të Përndjekurve Politikë.

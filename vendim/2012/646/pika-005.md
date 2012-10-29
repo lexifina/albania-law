@@ -1,0 +1,1 @@
+5. Kuotat e pranimit për shtetasit e huaj, që do të studiojnë në institucionet publike të arsimit të lartë të Republikës së Shqipërisë, në ciklin e dytë të studimeve “Master profesional”, me kohë të pjesshme, sipas shkronjës “d” të pikës 1 të këtij vendimi, administrohen nga Ministria e Arsimit dhe Shkencës, sipas marrëveshjeve dy- apo shumëpalëshe ndërmjet vendeve.

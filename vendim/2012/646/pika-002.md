@@ -1,0 +1,1 @@
+2. Kuotat e pranimeve të reja për programet e studimit “Master profesional”, me kohë të pjesshme, sipas shkronjës “a” të pikës 1 të këtij vendimi, sipas programeve të studimit dhe institucioneve publike të arsimit të lartë, pasqyrohen në tabelën nr. 1, bashkëlidhur këtij vendimi.

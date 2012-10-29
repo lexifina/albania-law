@@ -1,0 +1,1 @@
+14. Studentët, që përfitojnë nga kuotat e përcaktuara në shkronjën “c” të pikës 1 të këtij vendimi, i nënshtrohen tarifës së shkollimit të programit përkatës të studimit, në të cilin do të vazhdojnë studimet.
