@@ -1,0 +1,1 @@
+5. Ministria e Shëndetësisë dhe strukturat përkatëse në varësi të saj të asistojnë Drejtorinë e Protokollit të Shtetit gjatë procedurës së qëndrimit të eshtrave të Mbretit Zog I pranë morgut dhe përcjelljes së tyre sipas traditës në Pallatin e Kongreseve, ku do të kryhen homazhet.

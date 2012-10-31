@@ -1,0 +1,1 @@
+3. Ministria e Punëve të Jashtme, nëpërmjet përfaqësisë diplomatike të Republikës së Shqipërisë në Republikën Franceze, të kontaktojë me autoritetet përkatëse dhe të ndjekë procedurat e zhvarrosjes së eshtrave të Mbretit Zog I, të cilat ndodhen në varrezat “Thiais” në Paris, Francë, dhe përcjelljen e tyre deri në Aeroportin “Nënë Tereza”, Tiranë, brenda datës 16.11.2012.

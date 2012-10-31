@@ -1,0 +1,1 @@
+6. Aspektet ceremoniale me rastin e kthimit në atdhe të eshtrave të personalitetit të shquar, Mbretit Zog I, përmbushen sipas parashikimeve të vendimit nr. 229, datë 23.4.2004 të Këshillit të Ministrave “Për miratimin e ceremonialit zyrtar të Republikës së Shqipërisë”, të ndryshuar.

@@ -1,0 +1,1 @@
+4. Drejtoria e Protokollit të Shtetit, bazuar në Ceremonialin Zyrtar të Republikës së Shqipërisë, të marrë në dorëzim pranë Aeroportit “Nënë Tereza” Tiranë, eshtrat e Mbretit Zog I, të cilat më pas të përcillen pranë morgut të qytetit të Tiranës.
