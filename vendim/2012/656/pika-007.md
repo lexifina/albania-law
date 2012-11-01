@@ -1,0 +1,1 @@
+7. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, të kompensohen, për efekt shpronësimi, pranë Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, në bashkëpunim me shoqërinë “Devoll Hydropower” sh.a.

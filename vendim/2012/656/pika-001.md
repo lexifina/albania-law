@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi, pronësia, shfrytëzimi, mirëmbajtja dhe transferimi në favor të shtetit të projektit të hidrocentralit në lumin Devoll, sipas tabelës që i bashkëlidhet këtij vendimi.
