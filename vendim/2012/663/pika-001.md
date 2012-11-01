@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik, të pasurive të paluajtshme pronë private, që preken nga masterplani i miratuar me vendimin nr. 546, datë 28.5.2009 të Këshillit të Ministrave “Për miratimin e masterplanit për zhvillimin e Portit të Durrësit”.
