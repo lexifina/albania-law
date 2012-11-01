@@ -1,1 +1,0 @@
-2. Kontributi i Qeverisë shqiptare si bashkëthemeluese e “ECAT Tirana”, duke filluar nga viti 2003 e në vazhdim, të jetë 1 200 000 (një milion e dyqind mijë) lekë në vit, i cili të përballohet nga buxheti vjetor i Ministrisë së Mjedisit, për mbulimin e shpenzimeve operative (qira, drita, ujë dhe telefon) të kësaj qendre.

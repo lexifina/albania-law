@@ -1,1 +1,0 @@
-1. Miratimin e ndryshimit të formës së organizimit të “ECAT Tirana”, nga fondacion në qendër, si organ këshillimor i Ministrisë së Mjedisit, për hartimin dhe realizimin e projekteve dhe të programeve të ndryshme për administrimin e mjedisit, si dhe miratimin e statutit të qendrës, i cili i bashkëlidhet këtij vendimi.
