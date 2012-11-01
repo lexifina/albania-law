@@ -1,0 +1,28 @@
+{
+  "qbz_id": 8611,
+  "title": "PËR ORGANIZIMIN DHE FUNKSIONIMIN \nE ADMINISTRATËS SHTETËRORE",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "90",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2012-09-27",
+  "published": "2012-10-17",
+  "in_force": "2012-11-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/1060c6225afdcf0ade3b54aea3f2f7d94d7889a9c04247a71e76c3a6f8c3da07.docx",
+  "source_sha256": "1060c6225afdcf0ade3b54aea3f2f7d94d7889a9c04247a71e76c3a6f8c3da07",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8611",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2012/09/27/90",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33900
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
