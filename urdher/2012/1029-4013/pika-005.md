@@ -1,0 +1,1 @@
+5. Në rast mungese në detyrë të drejtorit të zyrës/kryetarit të degës rajonale respektive sipas pikës 1 të këtij urdhri, përgjegjës deri në caktimin e përfaqësuesit që e zëvendëson për ushtrimin e kompetencës me delegim, do të jetë punonjësi i zyrës apo degës rajonale që kryen detyrën e financierit të zyrës. Ky përfaqësim kryhet menjëherë dhe është në përputhje me këtë urdhër.
