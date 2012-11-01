@@ -1,0 +1,1 @@
+1. Lejimin e ekspozimit në Romë, Itali të disa objekteve të rralla me vlera unike, në kuadër të realizimit të ekspozitës “Thesare të kulturës shqiptare”, nga data 20 nëntor 2012 deri më 6 janar 2013, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
