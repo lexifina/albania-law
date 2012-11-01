@@ -1,0 +1,1 @@
+2. Shkolla e lartë private “Universiteti Europian i Turizmit” të ofrojë mjetet e nevojshme financiare dhe mundësitë për përfundimin e studimeve të filluara për të gjithë studentët që janë të regjistruar në institucion, në përputhje me përcaktimet ligjore në fuqi.
