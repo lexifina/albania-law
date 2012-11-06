@@ -1,0 +1,1 @@
+7. Procedura, kriteret e përfitimit të kredisë dhe mënyra e administrimit të fondit të përcaktohen me udhëzim të përbashkët të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe të Ministrit të Financave.

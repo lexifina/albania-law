@@ -1,0 +1,2 @@
+1. Fondet kundërparti, të dhëna nga qeveria japoneze dhe të mbledhura nga Agjencia për Zhvillim Bujqësor dhe Rural, si agjenci e pagesave, në shumën 200 000 000 (dyqind milionë) lekë të derdhen pjesë-pjesë në buxhetin e shtetit, në përputhje dhe në varësi të fondit të kontraktuar.
+1.1 Shuma e kontraktuar të përballohet nga buxheti i vitit 2012, artikulli 606, zëri “Transfertë në buxhetet familjare”, planifikuar për skemën mbështetëse në bujqësi.

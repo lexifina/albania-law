@@ -1,0 +1,1 @@
+2. Fondet e kontraktuara të përdoren gjatë vitit 2012 nga AZHBR-ja në formën e kredimit pa interes, me qëllim nxitjen dhe rritjen e prodhimit bujqësor e blegtoral, si dhe përpunimin e këtyre produkteve.
