@@ -1,0 +1,1 @@
+8. Për objektet, për të cilat në kolonën përkatëse është bërë shënimi “Proces legalizimi”, poseduesit e këtyre objekteve të kompensohen, për efekt shpronësimi nga DPRR-ja, në bazë të vendimit nr. 563, datë 3.8.2011 të Këshillit të Ministrave, të ndryshuar.

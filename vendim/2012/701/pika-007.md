@@ -1,0 +1,1 @@
+7. Për objektin, për të cilin në kolonën përkatëse është bërë shënimi “Leje ndërtimi”, pronari të kompensohet, për efekt shpronësimi, pasi të ketë dorëzuar pranë Autoritetit Rrugor Shqiptar dokumentacionin e plotë tekniko-ligjor.

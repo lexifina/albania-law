@@ -1,0 +1,1 @@
+9. Për objektet, për të cilat në kolonën përkatëse është bërë shënimi “Konfirmuar nga ZVRPP-ja”, pronarët të kompensohen, për efekt shpronësimi, në bazë të dokumentacionit të plotë të rifreskuar të pronësisë që do të dorëzojnë pranë Autoritetit Rrugor Shqiptar.

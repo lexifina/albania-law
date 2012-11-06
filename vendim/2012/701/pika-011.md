@@ -1,0 +1,1 @@
+11. Për pasuritë e trajtuara në pikën 10 të këtij vendimi, Autoriteti Rrugor Shqiptar, para likuidimit të pronarëve, të mbajë përsëri korrespondencë me zyrën vendore të regjistrimit të pasurive të paluajtshme, për të vërtetuar përfundimin e procesit të regjistrimit.

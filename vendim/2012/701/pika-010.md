@@ -1,0 +1,1 @@
+10. Për pasuritë, për të cilat në kolonën përkatëse është bërë shënimi “Proces regjistrimi”, pronarët respektivë të likuidohen, për efekt shpronësimi, pasi të përfundojë procesi i regjistrimit dhe në bazë të dokumentacionit të plotë dhe të rifreskuar të pronësisë, që do të dorëzojnë pranë Autoritetit Rrugor Shqiptar.
