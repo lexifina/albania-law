@@ -1,0 +1,1 @@
+8. Autoriteti Rrugor Shqiptar të kryejë likuidimin e pronarëve për të cilët është bërë shënimi “Proces legalizimi”, në bazë të vendimit nr. 563, datë 3.8.2011 të Këshillit të Ministrave, të ndryshuar.
