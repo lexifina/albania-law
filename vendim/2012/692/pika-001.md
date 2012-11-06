@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi 15 996 288 (pesëmbëdhjetë milionë e nëntëqind e nëntëdhjetë e gjashtë mijë e dyqind e tetëdhjetë e tetë) lekë, për Bashkinë e Tiranës për dekorimin e qytetit në muajin nëntor, me rastin e 100-Vjetorit të Pavarësisë.
