@@ -1,0 +1,1 @@
+17. “Certifikatë çregjistrimi”, dokumenti zyrtar që lëshohet nga autoriteti përgjegjës për transportin për të treguar që një mjet është hequr nga qarkullimi dhe është çregjistruar nga regjistri përkatës.

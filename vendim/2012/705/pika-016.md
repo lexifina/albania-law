@@ -1,0 +1,1 @@
+16. “Informacion për çmontimin”, çdo informacion që nevojitet për trajtimin korrekt dhe të duhur mjedisor të automjeteve të dala jashtë përdorimit. Ky informacion do t’u jepet njësive të autorizuara për trajtim nga prodhuesit e automjeteve dhe prodhuesve të pjesëve përbërëse në formën e manualeve ose nëpërmjet pajisjeve elektronike (p.sh. CD-ROM, internet etj.).

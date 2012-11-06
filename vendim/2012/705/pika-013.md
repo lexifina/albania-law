@@ -1,0 +1,1 @@
+13. “Operatorë ekonomikë”, një prodhues, shpërndarës, mbledhës, kompani për sigurimin e automjeteve motorike, çmontues, riparues, riciklues ose çdo operator tjetër trajtimi për automjetet e dala jashtë përdorimit.

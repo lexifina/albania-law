@@ -1,0 +1,1 @@
+1. Miratimin e kërkesave për parandalimin, minimizimin dhe ripërdorimin e mbetjeve që dalin nga automjetet në fund të jetës, si dhe komponentëve të tyre, duke kontribuar në këtë mënyrë në mbrojtjen, ruajtjen dhe përmirësimin e cilësisë së mjedisit.
