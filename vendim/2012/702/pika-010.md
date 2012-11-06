@@ -1,0 +1,1 @@
+10. Pronarët e objekteve, të përmendur në listën bashkëlidhur këtij vendimi, për të cilët është bërë shënimi “Konfirmuar nga ZVRPP-ja”, do të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Autoritetit Rrugor Shqiptar.

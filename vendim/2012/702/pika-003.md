@@ -1,0 +1,1 @@
+3. Vlera e përgjithshme e shpronësimit, prej 77 664 466 (shtatëdhjetë e shtatë milionë e gjashtëqind e gjashtëdhjetë e katër mijë e katërqind e gjashtëdhjetë e gjashtë) lekësh, të përballohet nga llogaria e veçantë e Ministrisë së Financave, pranë Bankës së Shqipërisë “Fondi i shpronësimeve”.
