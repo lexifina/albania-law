@@ -1,0 +1,1 @@
+1. Autoriteti i Aviacionit Civil të mbajë kontakte të vazhdueshme me strukturat përkatëse të ICAO-s dhe të marrë dijeni për ndryshimet e vazhdueshme që mund të pësojnë standardet dhe praktikat e rekomandimit të ICAO-s.

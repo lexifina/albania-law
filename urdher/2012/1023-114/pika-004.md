@@ -1,0 +1,1 @@
+4. Autoriteti i Aviacionit Civil, pas hyrjes në fuqi të akteve ligjore të reja, si dhe për të gjitha aktet e tjera që aktualisht janë në fuqi, të cilat adaptojnë standardet e ICAO-s, të marrë masa për kryerjen e notifikimeve në Organizatën Ndërkombëtare të Aviacionit Civil, lidhur me ndryshimet e evidentuara.

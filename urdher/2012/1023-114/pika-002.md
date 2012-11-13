@@ -1,0 +1,1 @@
+2. Autoriteti i Aviacionit Civil, në bashkëpunim me strukturat përkatëse të Ministrisë së Punëve Publike dhe Transportit të koordinojnë punën për inicimin e projekteve përkatëse, me qëllim përshtatjen e tyre në kuadrin ligjor rregullator të vendit tonë.
