@@ -1,0 +1,28 @@
+{
+  "qbz_id": 8736,
+  "title": "MBI KËRKESËN E SHOQËRISË KESH SHA PËR ALOKIMIN E KAPACITETEVE TË INTERKONJEKSIONIT PËR MUAJIN NËNTOR 2012",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "143",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2012-10-24",
+  "published": "2012-11-13",
+  "in_force": "2012-11-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/cc1be21f082e3020fa599ae19e37c4c17934d03aad0b8e4127088516b3111959.docx",
+  "source_sha256": "cc1be21f082e3020fa599ae19e37c4c17934d03aad0b8e4127088516b3111959",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8736",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/10/24/143",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    8742
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
