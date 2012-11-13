@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 9.1 pikësh, për rezultatin teknik, financiar dhe mjedisor në procedurën përzgjedhëse konkurruese (propozim i pakërkuar) që i jepet shoqërisë “Konstruktor-Inzenjering d.d” Split, Kroaci.

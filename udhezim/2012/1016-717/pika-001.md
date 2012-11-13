@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion, të formës DFBOT (projektim-financim-ndërtim-shfrytëzim-transferim në pronësi të shtetit), të ndërtimit të autostradës Fushë-Krujë-Ura e Gjolës-Tiranë-Rrogozhinë-Konjat është Ministria e Punëve Publike dhe Transportit.
