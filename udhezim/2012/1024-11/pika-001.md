@@ -1,0 +1,1 @@
+1. Administratori shoqëror në bashki/komunë, në përputhje me kriteret dhe treguesit, programon kërkesat për fonde për pagesat për personat me aftësi të kufizuar e dërgon në zyrat rajonale të Shërbimit Social Shtetëror.

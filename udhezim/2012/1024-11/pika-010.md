@@ -1,0 +1,1 @@
+10. Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta bën transferimin e fondeve si grante të kushtëzuara për çdo bashki/komunë për vitin pasardhës në përputhje me ligjin e buxhetit dhe udhëzimin e Ministrit të Financave në zbatim të këtij ligji.

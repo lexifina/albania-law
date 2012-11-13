@@ -1,0 +1,2 @@
+11. Udhëzimi nr. 2474, datë 6.12.2006 i Ministrit të Punës, Çështjeve sociale she Shanseve të Barabarta “Për zbatimin e vendimit nr. 617, datë 7.9.2006 të Këshillit të Ministrave “Për zbatimin e treguesve të vlerësimit dhe monitorimit të programeve të ndihmës ekonomike, të pagesës për personat me aftësi të kufizuara dhe të shërbimeve shoqërore”, shfuqizohet.
+Ky udhëzim hyn në fuqi me botimin në Fletoren Zyrtare.
