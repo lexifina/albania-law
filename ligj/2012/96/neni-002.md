@@ -1,0 +1,3 @@
+# Neni 2
+Qëllimi
+Ky ligj ka për qëllim përcaktimin e rregullave për botimin e ligjeve, të akteve normative të Këshillit të Ministrave, ministrave dhe drejtuesve të institucioneve qendrore, vendimeve të Gjykatës Kushtetuese, vendimeve për njësimin ose ndryshimin e praktikës gjyqësore të Gjykatës së Lartë, si dhe të gjitha akteve të tjera, botimi i të cilave është i detyrueshëm me ligj, në funksion të bërjes së mundur të hyrjes në fuqi të tyre, si dhe për të garantuar njohjen e legjislacionit dhe garantimin e së drejtës për informim të personave fizikë dhe juridikë, si dhe institucioneve shtetërore.
