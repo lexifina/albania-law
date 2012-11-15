@@ -1,0 +1,13 @@
+# Neni 8
+Publikimi
+1. Përfaqësuesit ligjorë të secilës shoqëri shqiptare pjesëmarrëse, të paktën një muaj përpara datës së caktuar për mbledhjen e asamblesë së përgjithshme, të referuar në nenin 9 të këtij ligji, publikojnë pranë QKR-së dhe në faqen e internetit të shoqërisë, nëse ka:
+a) kushtet e përbashkëta të projektmarrëveshjes së bashkimit ndërkufitar, të hartuara sipas nenit 5 të këtij ligji;
+b) raportin e përfaqësuesve ligjorë të shoqërisë, të përgatitur sipas përcaktimeve të nenit 6 të këtij ligji, së bashku me pasqyrat financiare dhe raportet e ecurisë së veprimtarisë së shoqërisë, për tre vitet e fundit, apo të gjitha pasqyrat financiare dhe raportet e ecurisë së veprimtarisë, nëse shoqëria është regjistruar prej më pak se tre vjetësh;
+c) raportet e ekspertit/ekspertëve të pavarur, të përgatitur sipas përcaktimeve të nenit 7 të këtij ligji;
+ç) nëse përfaqësuesit ligjorë të secilës shoqëri shqiptare pjesëmarrëse, përpara përfundimit të afatit të përcaktuar në pikën 1 të këtij neni, marrin nga përfaqësuesit e punëmarrësve një opinion në lidhje me bashkimin ndërkufitar, atëherë përfaqësuesit ligjorë të këtyre shoqërive janë të detyruar të publikojnë, sipas kërkesave të pikës 1 të këtij neni, edhe opinionin e dhënë nga përfaqësuesit e punëmarrësve.
+2. QKR-ja, në bazë të aplikimit për publikim të secilës shoqëri shqiptare pjesëmarrëse, regjistron dhe publikon, sipas dispozitave të ligjit që rregullon organizimin dhe funksionimin e Qendrës Kombëtare të Regjistrimit:
+a) shënimin, ku të vërtetohet se janë depozituar për publikim kushtet e përbashkëta të projektmarrëveshjes së bashkimit ndërkufitar, përfaqësuesve ligjorë të shoqërisë, pasqyrat financiare dhe raportet e ecurisë së veprimtarisë së tre viteve të fundit, apo të gjitha pasqyrat financiare e raportet e ecurisë së veprimtarisë, nëse shoqëria është regjistruar prej më pak se tre vjetësh, si dhe raportet e ekspertit/ekspertëve të pavarur;
+b) formën ligjore, emërtimin dhe selinë e regjistruar të secilës shoqëri pjesëmarrëse;
+c) regjistrin tregtar, në të cilin janë regjistruar shoqëritë pjesëmarrëse, dhe numrin e tyre të regjistrimit;
+ç) shënimin për masat e marra nga shoqëritë shqiptare pjesëmarrëse për ushtrimin e të drejtave të kreditorëve dhe të ortakëve/aksionarëve të tyre të pakicës, nëse ka, dhe adresën ku mund të merret informacioni i plotë, pa pagesë, për këto masa.
+3. Ministria, në përputhje me kërkesat e parashikimeve të ligjit që rregullon organizimin dhe funksionimin e Qendrës Kombëtare të Regjistrimit, miraton formatin dhe përmbajtjen e dokumenteve të nevojshme për kryerjen e aplikimeve dhe regjistrimeve, sipas këtij neni.

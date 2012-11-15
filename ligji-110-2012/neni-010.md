@@ -1,0 +1,5 @@
+# Neni 10
+Certifikata e parabashkimit
+1. Përfaqësuesit ligjorë të shoqërisë shqiptare pjesëmarrëse caktojnë, bashkërisht, një noter të autorizuar për lëshimin e certifikatave të parabashkimit. Në rastin kur përfaqësuesit ligjorë të shoqërive shqiptare pjesëmarrëse nuk bien dakord për caktimin e noterit të autorizuar, atëherë secila prej tyre mund t’i kërkojë Dhomës Kombëtare të Noterëve caktimin e një noteri të autorizuar. Përfaqësuesit ligjorë të secilës shoqëri shqiptare, që merr pjesë në bashkimin ndërkufitar, publikojnë caktimin e noterit të autorizuar, në përputhje me kërkesat e nenit 8 të këtij ligji.
+2. Noteri i autorizuar shqyrton kushtet juridike të bashkimit ndërkufitar dhe zbatimin e dispozitave ligjore, sipas kërkesave të këtij ligji, nga secila shoqëri shqiptare pjesëmarrëse dhe lëshon, për secilën prej tyre, certifikatën e parabashkimit, duke konfirmuar në mënyrë përfundimtare realizimin e rregullt të formaliteteve të parabashkimit nga këto shoqëri.
+3. Noteri i autorizuar është i detyruar të bëjë publik çdo konflikt interesi që mund të ketë në çdo moment gjatë ndjekjes së procedurave të lëshimit të certifikatave të parabashkimit.
