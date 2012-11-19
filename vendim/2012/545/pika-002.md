@@ -16,6 +16,7 @@ dh) studentët që vazhdojnë studimet në programin e studimit “Matematikë�
 2.3 Jashtë kriterit ekonomik (nxënës/studentë):
 - Nxënës apo studentë, fëmijë të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit të Kontrollit të Brendshëm, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit, të Forcave të Armatosura, të Shërbimit Informativ Shtetëror dhe të Policisë së Burgjeve, që kanë humbur jetën në krye dhe për shkak të detyrës.
 Në fillim të çdo viti akademik, Ministria e Brendshme, Shërbimi Informativ Shtetëror, Ministria e Drejtësisë dhe Ministria e Mbrojtjes dërgojnë në Ministrinë e Arsimit dhe Shkencës listën për këtë kategori nxënësish/studentësh.
+Nxënësve të klasës së 13-të të shkollave profesionale, drejtimi “Termohidraulikë”, që nuk kanë përfituar bursë me vendim të këshillave të njësive të qeverisjes vendore, për periudhën e zhvillimit të praktikës profesionale, mbështetur në kërkesën e drejtorisë arsimore rajonale u akordohet/miratohet bursë nga Ministri i Arsimit dhe Shkencës.
 2.4 Sipas degëve prioritare për zhvillimin e ekonomisë (nxënës):
 - Nxënësit që regjistrohen në shkollat e mesme profesionale në degët bujqësore, veterinare, pyjore, ndërtim dhe teknologji informacioni.
 Nxënësit me vendbanim të përhershëm në zonat verilindore dhe juglindore të vendit: Tropoja, Hasi, Puka, Kukësi, Dibra, Bulqiza, Mati, Mirdita, Malësia e Madhe, Librazhdi, Gramshi, Kolonja, Përmeti, Pogradeci, Skrapari dhe rrethi Tepelenë, kanë përparësi në trajtimin me bursë.
