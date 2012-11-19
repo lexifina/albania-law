@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi në shumën 2 500 000 (dy milionë e pesëqind mijë) lekë, për mbulimin e shpenzimeve të realizimit të spotit televiziv të 100 - Vjetorit të Pavarësisë.
