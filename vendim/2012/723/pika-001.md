@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 7 281 540 (shtatë milionë e dyqind e tetëdhjetë e një mijë e pesëqind e dyzet) lekësh, për shpërblimin artistik të arkitektëve fitues, z. Visar Obrija dhe z. Kai R. Kiklas, në konkursin ndërkombëtar për veprën monumentale “100 Vjet Pavarësi”.
