@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 6 493 200 (gjashtë milionë e katërqind e nëntëdhjetë e tri mijë e dyqind) lekësh, për mbulimin e shpenzimeve të projektit kulturor “Baleti Preljocaj” me rastin e 100 - Vjetorit të Pavarësisë.
