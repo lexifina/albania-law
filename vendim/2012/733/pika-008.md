@@ -1,0 +1,1 @@
+8. Pas miratimit të kontratës së lidhur nga Ministri i Drejtësisë, Avokati i Përgjithshëm cakton një avokat shteti për ndjekjen e çështjes deri në përfundim të saj, i cili do të ketë kryesisht funksione mbikëqyrjeje, koordinimi dhe komunikimi me subjektin e përzgjedhur.

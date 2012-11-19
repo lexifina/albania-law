@@ -1,0 +1,1 @@
+9. Pas lidhjes së kontratës, Avokati i Përgjithshëm i Shtetit njofton menjëherë Ministrin e Ekonomisë, Tregtisë dhe Energjetikës, i cili merr masa për të pajisur avokatin/zyrën e avokatisë së përzgjedhur me autorizimin përkatës për përfaqësim.
