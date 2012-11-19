@@ -1,0 +1,1 @@
+1. Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, në buxhetin e miratuar për vitin 2012, në programin buxhetor 04240 “Infrastruktura e ujitjes dhe e kullimit”, në artikullin 231 “Investime”, t’i zbritet fondi prej 2 520 000 (dy milionë e pesëqind e njëzet mijë) lekësh.
