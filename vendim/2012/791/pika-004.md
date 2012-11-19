@@ -1,0 +1,1 @@
+4. Paga e grupit (kolona 1), e lidhjes nr.3, bashkëlidhur këtij vendimi, përcaktohet sipas lidhjes nr.5, bashkëlidhur këtij vendimi dhe vlera e saj është sipas lidhjes nr.4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
