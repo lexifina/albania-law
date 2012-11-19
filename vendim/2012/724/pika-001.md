@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, në zërin “Investime”, t’i shtohet fondi prej 5 070 646 (pesë milionë e shtatëdhjetë mijë e gjashtëqind e dyzet e gjashtë) lekësh, për bashkinë Lushnjë, për financimin e bazamentit të monumentit kushtuar Kongresit të Lushnjës, që do të vendoset në këtë qytet.
