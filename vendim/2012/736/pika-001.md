@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, zëri “projekte”, artikulli 604, t’i shtohet fondi prej 4 130 719 (katër milionë e njëqind e tridhjetë mijë e shtatëqind e nëntëmbëdhjetë) lekësh, për “Westminster Council” për realizimin e projektit “Vendosja e bustit të Skënderbeut në Londër, në nëntor 2012”.
