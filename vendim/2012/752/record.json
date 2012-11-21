@@ -1,0 +1,29 @@
+{
+  "qbz_id": 8785,
+  "title": "Për përcaktimin e procedurës dhe të kritereve për caktimin e anëtarëve të bordit drejtues të zyrës së regjistrimit të pasurive të paluajtshme, si dhe të masës së shpërblimit të tyre",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "752",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-11-02",
+  "published": "2012-11-21",
+  "in_force": "2012-11-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/42ff256d825c281476422f66de30021680a3fb88fc95d9dda0eb7912a50743c5.docx",
+  "source_sha256": "42ff256d825c281476422f66de30021680a3fb88fc95d9dda0eb7912a50743c5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8785",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/11/02/752",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10232,
+    9018
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
