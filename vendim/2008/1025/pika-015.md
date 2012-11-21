@@ -1,1 +1,0 @@
-15. Brenda 30 ditëve kalendarike nga data e paraqitjes së kërkesës, me përjashtim të rasteve të afishimit të parashikuara në pikën 10 të këtij vendimi, regjistruesi merr vendim për regjistrimin ose refuzimin e regjistrimit të pasurisë.

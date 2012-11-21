@@ -1,1 +1,0 @@
-12. Kur pronën kufitare e kanë në pronësi dy a më shumë bashkëpronarë, kërkuesi paraqet deklaratat noteriale të bashkëpronarëve, për të cilët është e mundur marrja e kësaj deklarate. Për bashkëpronarët e tjerë, për të cilët nuk është e mundur objektivisht marrja e deklaratës noteriale, zbatohen procedurat e përcaktuara në pikën 10 të këtij vendimi.
