@@ -1,0 +1,4 @@
+4. Procedurat e bashkëpunimit dhe të bashkërendimit të veprimtarisë së Ministrisë së Drejtësisë me institucionet që trajtojnë çështjet e të drejtave të pronësisë përfshijnë:
+a) dhënien dhe shkëmbimin e informacionit apo të dokumentacionit të kërkuar që lidhen me procesin e njohjes, kthimit dhe kompensimit të pronave;
+b) dhënien dhe shkëmbimin e informacionit apo të dokumentacionit të kërkuar që lidhen me zbatimin e masave strategjike të parashikuara në vendimin nr. 405, datë 27.6.2012 të Këshillit të Ministrave “Për miratimin e strategjisë ndësektoriale “Reforma në fushën e të drejtave të pronësisë, 2012-2020” dhe të planit të saj të veprimit”;
+c) dhënien dhe shkëmbimin e informacionit apo të dokumentacionit të kërkuar për çështje që lidhen me të drejtat e pronësisë dhe që janë të nevojshme për përmbushjen nga Ministria e Drejtësisë të përgjegjësive të parashikuara nga legjislacioni në fuqi.

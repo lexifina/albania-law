@@ -1,0 +1,1 @@
+6. Informacioni apo dokumentacioni i kërkuar sipas afateve të përcaktuara në pikën 5 të këtij vendimi, i dërgohet Ministrisë së Drejtësisë, Drejtorisë së Koordinimit të Çështjeve të Pronësisë, me shkrim në rrugë zyrtare, i nënshkruar nga titullari i institucionit.
