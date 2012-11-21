@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 157 836 000 (njëqind e pesëdhjetë e shtatë milionë e tetëqind e tridhjetë e gjashtë mijë) lekësh, për realizimin e tri koncerteve që do të zhvillohen në datën 28 nëntor 2012, me rastin e 100-Vjetorit të Pavarësisë.
