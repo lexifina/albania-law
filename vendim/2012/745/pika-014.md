@@ -1,0 +1,1 @@
+14. Vendimi i regjistruesit duhet të jetë në formë të shkruar, i arsyetuar, i nënshkruar dhe të përmbushë kërkesat për aktin administrativ të parashikuara në Kodin e Procedurës Administrative të Republikës së Shqipërisë.

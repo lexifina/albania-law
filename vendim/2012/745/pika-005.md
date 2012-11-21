@@ -1,0 +1,1 @@
+5. Kur në kufi të pronës, për të cilën është paraqitur kërkesë regjistrimi, janë prona shtetërore, si: rrugë, rrugica, sheshe publike, lulishte, ndërtesa publike etj., deklarata noteriale zëvendësohet nga konfirmimi zyrtar i dhënë nga institucioni, i cili është pronar apo administron pronën shtetërore.

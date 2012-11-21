@@ -1,0 +1,1 @@
+16. Vendimi nr. 1025, datë 9.7.2008 “Për procedurat e regjistrimit të pasurive të paluajtshme, për të cilat zotërohen dokumente të ligjshme pronësie, por që nuk kanë të përcaktuar sipërfaqen”, shfuqizohet.
