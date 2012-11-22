@@ -1,0 +1,1 @@
+6. Kur krijuesi i VP-ve është person që ka në përdorim vetjak automjete dhe kur ndërrimin e vajit e bën vetë, vajin e përdorur e depoziton në enë të veçanta dhe e dorëzon te subjekti që është pajisur me licencën III.2.B, për transportimin, rikuperimin dhe/ose asgjësimin e VP-ve.
