@@ -1,0 +1,1 @@
+2. Ministrisë së Arsimit dhe Shkencës, nga buxheti i miratuar për vitin 2012, në programin buxhetor 09450 “Arsimi i lartë”, në shpenzime kapitale, t’i shtohet fondi prej 30 709 547 (tridhjetë milionë e shtatëqind e nëntë mijë e pesëqind e dyzet e shtatë) lekësh.

@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit dhe Shkencës, nga buxheti i miratuar për vitin 2012, në programin buxhetor 09120 “Arsimi bazë”, në shpenzime kapitale, t’i zbritet fondi prej 30 709 547 (tridhjetë milionë e shtatëqind e nëntë mijë e pesëqind e dyzet e shtatë) lekësh.
