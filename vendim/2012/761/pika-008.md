@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë prej 3 788.6 (tri mijë e shtatëqind e tetëdhjetë e tetë pikë gjashtë) m², truall, shpronësuar në favor të Bashkisë së Tiranës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

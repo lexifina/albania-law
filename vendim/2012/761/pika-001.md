@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga sistemimi i rrugëve dhe lulishteve në të dyja anët e rrugës kryesore të Kombinatit, në Bashkinë e Tiranës.
