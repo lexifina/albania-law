@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2012, zëri “Mallra e shërbime”, t’i shtohet një fond prej 5 000 000 (pesë milionë) lekësh, për pagesën e ekspertëve kontabël të licencuar për shërbimin e auditimit të fondeve të subjekteve zgjedhore, për zgjedhjet vendore të datës 8 maj 2011.
