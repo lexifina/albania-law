@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2012, zëri “Projekte”, artikulli 604, t’i shtohet fondi prej 1 995 000 (një milion e nëntëqind e nëntëdhjetë e pesë mijë) lekësh, për ekspozitën e bukinistëve dhe të koleksionistëve të Shqipërisë, me rastin e 100-Vjetorit të Pavarësisë, sipas preventivit, që i bashkëlidhet këtij vendimi.
