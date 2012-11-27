@@ -1,0 +1,2 @@
+1. Lejimin e disa institucioneve në varësi të Ministrisë së Shëndetësisë të përfundojnë, brenda datës 15.12.2012, procedurat e prokurimit për mallra, shërbime dhe ndërtime, me fondet e parashikuara në Buxhetin e Shtetit, për vitin 2012, sipas aneksit 1 bashkëlidhur këtij vendimi.
+Brenda këtij afati përfshihen dhe lidhja e kontratave përkatëse e njoftimi i këtyre kontratave të nënshkruara në Agjencinë e Prokurimit Publik.
