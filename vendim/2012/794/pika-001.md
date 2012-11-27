@@ -1,0 +1,1 @@
+1. Lejimin e Kuvendit të Shqipërisë, si autoritet kontraktor, për kryerjen e procedurave të prokurimit, si dhe për të lidhur kontratat përkatëse, për investimet sipas aneksit 1, deri më 24 dhjetor 2012. Brenda kësaj periudhe të përfshihen edhe publikimi i fituesit dhe i njoftimit të kontratës së lidhur në buletinin e Agjencisë së Prokurimit Publik.
