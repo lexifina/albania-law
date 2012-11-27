@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitit 2012, në programin “Menaxhimi i të ardhurave tatimore”, në kategorinë e shpenzimeve korente, t’i shtohet fondi prej 25 000 000 (njëzet e pesë milionë) lekësh.
