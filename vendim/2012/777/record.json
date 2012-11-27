@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8819,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR. 693, DATË 10.10.2012 TË KËSHILLIT TË MINISTRAVE \"PËR MIRATIMIN E GARANCISË QEVERITARE, QË LËSHOHET NË FAVOR TË RAIFFEISEN BANK SHA, ALBANIA DHE INTESA SANPAOLO SHA, ALBANIA, NË KUADËR TË KONTRATAVE PËRKATËSE NDËRMJET KËTYRE BANKAVE DHE KESH SHA",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "777",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2012-11-16",
+  "published": "2012-11-27",
+  "in_force": "2012-11-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ea94a45372983bd4871bf483b774cdb4d33eb298816f3dba1cab55bfcfbc79ce.docx",
+  "source_sha256": "ea94a45372983bd4871bf483b774cdb4d33eb298816f3dba1cab55bfcfbc79ce",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8819",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2012/11/16/777",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
