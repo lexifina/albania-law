@@ -1,0 +1,1 @@
+2. Pasuritë, në sipërfaqen prej 2 598 (dy mijë e pesëqind e nëntëdhjetë e tetë) m² truall dhe 48 (dyzet e tetë) m² objekt, pronë private, që shpronësohen, si dhe pronarët që shpronësohen, janë sipas tabelës bashkëlidhur këtij vendimi, e cila është pjesë përbërëse e tij.

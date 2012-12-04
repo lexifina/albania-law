@@ -1,0 +1,1 @@
+7. Shpronësimi bëhet në favor të Bashkisë së Tiranës. Regjistrimi i ri i pasurisë prej 2 598 (dy mijë e pesëqind e nëntëdhjetë e tetë) m² truall dhe 48 (dyzet e tetë) m² objekt, shpronësuar në favor të Bashkisë së Tiranës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

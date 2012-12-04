@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga sistemimi i shtratit të Lanës dhe ndërtimi i rrugëve paralel saj (segmenti nga Materniteti i Ri në gjatësinë 400 m në drejtim të kundërt të rrjedhës së Lanës) në Bashkinë e Tiranës.
