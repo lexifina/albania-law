@@ -1,0 +1,1 @@
+1. Miratimin e standardeve të përgjithshme, minimale, të personelit NJTIK për strukturimin organizativ të njësive të teknologjisë së informacionit e të komunikimit, sipas anekseve 1 dhe 2, që i bashkëlidhen këtij vendimi.

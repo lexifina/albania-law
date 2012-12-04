@@ -1,0 +1,1 @@
+3. Ngarkohen ministri që mbulon departamentin e administratës publike, në bashkërendim me Ministrin e Financave dhe Ministrin për Inovacionin dhe Teknologjinë e Informacionit e të Komunikimit, të përgatitin, për propozim, strukturën, masën e pagës dhe të shtesave mbi pagë të nëpunësve të njësive të teknologjisë së informacionit e të komunikimit.
