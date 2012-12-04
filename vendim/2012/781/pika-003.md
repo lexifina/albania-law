@@ -1,0 +1,10 @@
+3. a) Në territorin e Republikës së Shqipërisë do të lejohet, për përdorim termik civil e industrial, vetëm tregtimi i lëndës djegëse të lëngët të rëndë (heavy fuel oil), që në nomenklaturën e mallrave, përshkruhet në kodet CN 2710 19 51 deri CN 2710 19 55; CN 2710 19 62 deri CN 2710 19 68; CN 2710 20 31 deri CN 2710 20 39, që plotëson kërkesat e standardit shqiptar SSH UNI 6579 ose të standardeve të tjera të barasvlershme me të, me përjashtim të kushtit për përmbajtjen e squfurit, siç parashikohet në aneksin 2, që i bashkëlidhet këtij vendimi.
+b) Përmbajtja e squfurit, në lëndët djegëse të lëngëta të rënda:
+b.1) pas datës 31 dhjetor 2013 nuk duhet të të kalojë 3% ndaj masës;
+b.2) pas datës 31 dhjetor 2014 nuk duhet të kalojë 1% ndaj masës.
+Kërkesat që u referohen paragrafëve b.1 dhe b.2 të shkronjës “b”, nuk zbatohen ndaj subjekteve që i kontrollojnë shkarkimet në ajër:
+i) Impiantet e reja me djegie, që përdorin lëndë djegëse të lëngët, të cilat respektojnë normat e shkarkimeve të SO2 sipas shtojcës 4 të ligjit nr. 10 448, datë 14.7.2011 “Për lejet mjedisore”.
+ii) Impiantet ekzistuese me djegie, që përdorin lëndë djegëse të lëngët, ku shkarkimet e SO2 janë më të vogla ose të barabarta me 1700 mg/Nm3, me një përmbajtje vëllimore oksigjeni në gazet e shkarkuara 3%, në kushte të thata.
+iii) Impiantet me djegie, që përdorin lëndë djegëse të lëngët, të cilat nuk janë sipas përcaktimeve të nënndarjeve, as “i” dhe as “ii”, por që nuk kalojnë shkarkimet e SO2 mbi 1700 mg/Nm3, me një përmbajtje vëllimore oksigjeni në gazet e shkarkuara 3%, në kushte të thata.
+iv) Impiantet me djegie, që përdorin lëndë djegëse të lëngët në rafineri, ku vlera mesatare mujore e shkarkimeve të SO2 nuk kalon 1700 mg/Nm3. Kjo nuk zbatohet në rast se impiantet, që përdorin lëndë djegëse në rafineri, përfshihen në përcaktimet e nënndarjeve “i” ose “ii”.
+v) Të gjitha impiantet me djegie që rregullohen sipas nënndarjeve “i”-“iv” më sipër të shkronjës “b” të pikës 3, duhet të operojnë në bazë të kushteve të përcaktuara në lejen e integruar mjedisore, të lëshuar nga autoriteti përkatës.

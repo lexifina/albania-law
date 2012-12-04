@@ -1,0 +1,1 @@
+9. Ngarkohen Ministria e Ekonomisë, Tregtisë dhe Energjetikës, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministria e Financave të nxjerrin udhëzimet përkatëse, në zbatim të përcaktimeve të pikave 7 shkronja “b”, dhe 8 të këtij vendimi.
