@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2012, zëri “Mallra dhe shërbime”, t’i shtohet fondi 3 235 680 (tre milionë e dyqind e tridhjetë e pesë mijë e gjashtëqind e tetëdhjetë) lekë, për mbulimin e pjesshëm të shpenzimeve të mjekimit të fëmijës Besnik Cuni, aksidentuar nga shpërthimi i një granate.
