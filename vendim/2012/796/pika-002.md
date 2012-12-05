@@ -1,0 +1,1 @@
+2. Fondi, në vlerën 44 128 447 lekë (dyzet e katër milionë e njëqind e njëzet e tetë mijë e katërqind e dyzet e shtatë) lekë përballohet nga fondi i kontingjencës, i miratuar në buxhetin e vitit 2012.
