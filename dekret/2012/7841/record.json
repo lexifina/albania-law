@@ -1,0 +1,26 @@
+{
+  "qbz_id": 8837,
+  "title": "PËR CAKTIMIN E DATËS SË ZGJEDHJEVE PËR KUVENDIN",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "7841",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2012-12-03",
+  "published": "2012-12-05",
+  "in_force": "2012-12-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/70bf97f672cc0d666dcbea180b3b56dbfb0f4aa70b5283efbe10b4c164d76ac0.docx",
+  "source_sha256": "70bf97f672cc0d666dcbea180b3b56dbfb0f4aa70b5283efbe10b4c164d76ac0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8837",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2012/12/03/7841",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
