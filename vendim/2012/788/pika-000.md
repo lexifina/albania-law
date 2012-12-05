@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit nr. TF 012148 të Fondit të Mirëbesimit të Shumë Dhuruesve, ndërmjet Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), që vepron si administratore e këtij fondi, për financimin e fazës së dytë të mbështetjes për zbatimin e nismës për transparencë në industrinë nxjerrëse në Shqipëri (EITI).
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
