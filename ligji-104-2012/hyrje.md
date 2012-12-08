@@ -1,0 +1,7 @@
+LIGJ
+Nr. 104/2012
+PËR RATIFIKIMIN E KONVENTËS SË KËSHILLIT TË EUROPËS “PËR PARANDALIMIN DHE LUFTËN KUNDËR DHUNËS NDAJ GRAVE DHE DHUNËS NË FAMILJE”
+Në mbështetje të neneve 78, 83 pika 1 dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
