@@ -1,1 +1,0 @@
-2. Ngarkohet Drejtoria e Shëndetit të Kafshëve të njoftojë autoritetet kompetente të vendeve importuese mbi kërkesat e këtij urdhri, si dhe Autoritetin Kombëtar të Ushqimit mbi certifikatat e përditësuara.
