@@ -1,0 +1,1 @@
+2. Përjashtohet nga ky delegim autoriteti i komunikimit të drejtpërdrejtë me shefin e Shtabit të Përgjithshëm të FA-së, zëvendësshefin e Shtabit të Përgjithshëm të FA-së dhe komandantët e forcave dhe ato mbështetëse.
