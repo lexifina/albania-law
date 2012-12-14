@@ -1,0 +1,1 @@
+7. Procedurat e botimit, shpërndarjes dhe shitjes së teksteve të arsimit profesional, teksteve në gjuhën amtare dhe teksteve të veçanta historike e kulturore për shkollat e pakicave kombëtare, si edhe të teksteve të veçanta për diasporën, përcaktohen me udhëzim të Ministrit të Arsimit dhe Shkencës.

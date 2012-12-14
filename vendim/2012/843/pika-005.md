@@ -1,0 +1,1 @@
+5. Për secilin tekst mësimor, Shtëpia Botuese e Teksteve Mësimore (BOTEM) formon grupet e autorëve, komisionet e posaçme për diskutimin dhe miratimin e teksteve, si dhe organizon fillimin e procedurës së botimit. Anëtarët e grupeve dhe komisioneve paguhen sipas akteve nënligjore në fuqi.
