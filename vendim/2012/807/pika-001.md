@@ -1,0 +1,2 @@
+1. Lejimin e Drejtorisë së Shërbimeve Qeveritare, si autoritet kontraktor, të përfundojë brenda datës 20 dhjetor 2012, realizimin e procedurave të prokurimit, me objekt “Rikonstruksion i vilës qeveritare nr. 4, Tiranë” dhe “Rikonstruksion i pjesshëm i Pallatit të Kongreseve”, me fondet e parashikuara në Buxhetin e Shtetit, për vitin 2012, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
+Brenda këtij afati të përfshihen shpallja e njoftimit të fituesit, lidhja e kontratave përkatëse dhe publikimi i njoftimit të kontratave të nënshkruara në Buletinin e Njoftimeve Publike.
