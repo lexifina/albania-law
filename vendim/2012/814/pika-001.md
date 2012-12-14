@@ -1,0 +1,2 @@
+1. Lejimin e Këshillit të Lartë të Drejtësisë, si autoritet kontraktor, të përfundojë, brenda datës 20.12.2012, realizimin e procedurave të prokurimit për objektet “Blerje pajisjesh kompjuterike”, “Riparim automjetesh” dhe “Blerje karburanti”, me fondet e akorduara në buxhetin e vitit 2012.
+Brenda këtij afati përfshihen shpallja e njoftimit të fituesit, lidhja e kontratave përkatëse dhe njoftimet e kontratave të nënshkruara.
