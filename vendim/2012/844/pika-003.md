@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në procedurën përzgjedhëse konkurruese për dhënien me koncesion të hidrocentraleve “Vërmik 1, 2 dhe 3”, të pranojë oferta për të gjithë pjesën e lirë të pellgut ujëmbledhës, i cili përfshihet në skemën e shfrytëzimit të këtyre hidrocentraleve.

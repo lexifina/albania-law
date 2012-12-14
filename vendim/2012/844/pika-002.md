@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 pikëve për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese që i jepet shoqërisë “SOPI” sh.p.k., për dhënien me koncesion të këtyre hidrocentraleve.
