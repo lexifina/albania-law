@@ -1,0 +1,1 @@
+1. Lejimin e autoriteteve kontraktore për kryerjen e procedurave të prokurimit publik, si dhe për lidhjen e kontratave përkatëse për investimet sipas vendimeve të Komitetit të Zhvillimit të Rajoneve, deri më 31 dhjetor 2012.
