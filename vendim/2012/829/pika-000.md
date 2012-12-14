@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit nr. TF012599 të Fondit Global të Mjedisit (GEF) ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), për financimin e projektit “Rishikimi i strategjisë kombëtare të biodiversitetit e planit të veprimit (SPVB) dhe të raportit të pestë kombëtar për Konventën e Biodiversitetit”, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren zyrtare.
