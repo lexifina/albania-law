@@ -1,0 +1,6 @@
+9. Drejtuesi i Autoritetit Menaxhues
+a) Drejtuesi i Autoritetit Menaxhues duhet të jetë brenda Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe do të jetë përgjegjëse për programimin dhe mbikëqyrjen e procesit të zbatimit të programit IPARD. Në të njëjtën kohë, ai/ajo do të jetë përgjegjës për bashkërendimin e aktiviteteve dhe përgjegjësitë e Autoritetit Menaxhues.
+b) Drejtuesi i Autoritetit Menaxhues do të jetë përgjegjës për monitorimin, kontrollin dhe miratimin e aktiviteteve të Autoritetit Menaxhues, të menaxhimit të burimeve njerëzore dhe të delegimit
+të detyrave të caktuara tek organet e veçanta, të përmendura në pikën 2 të nenit 6 të marrëveshjes kuadër dhe duhet të marrë vendime bazuar në ushtrimin e funksioneve të përmendura në piken 8 të këtij vendimi, për të cilat nuk ka vendosur Komiteti Monitorues i IPARD-së.
+c) Drejtuesi i Autoritetit Menaxhues do të jetë ekskluzivisht përgjegjës për komunikimin me organet menaxhuese plotësisht të decentralizuara dhe do të bashkërendojë aktivitetet që lidhen me marrjen e akreditimit nga ZKA-ja/NAO-ja dhe transferimin e kompetencave menaxhuese nga Komisioni Europian.
+ç) Drejtuesi i Autoritetit Menaxhues i dorëzon ZKA-së/NAO-së dhe KKIPA-së/NIPAC-së raporte të rregullta për zbatimin e aktiviteteve dhe përgjegjësive të Autoritetit Menaxhues.

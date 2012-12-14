@@ -1,0 +1,16 @@
+8. Funksionet dhe përgjegjësitë e Autoritetit Menaxhues (MA)
+a) Autoriteti menaxhues është përgjegjës për menaxhimin e programit IPARD, në përputhje me parimin e eficencës dhe efektivitetit të përdorimit të fondeve IPA.
+b) Autoriteti menaxhues kryen këto detyra:
+i) Përgatit programin e IPARD;
+ii) Siguron që veprimet miratohen e financohen në përputhje me kriteret e mekanizmat që aplikohen për programet e IPARD-së dhe që ato janë në përputhje me rregullat përkatëse të Komisionit Europian e ato kombëtare, duke vlerësuar programin IPA nëpërmjet përmirësimit të cilësisë, të efektivitetit dhe të vijueshmërisë së fondeve IPA, si dhe në përputhje me strategjinë për implementimin e këtyre fondeve;
+iii) Monitoron programin e IPARD-së dhe asiston punën e Komitetit Monitorues të IPARD-së, kryesisht duke dhënë dokumentet e nevojshme për monitorimin cilësor të implementimit të këtij programi;
+iv) Përgatit raportet vjetore dhe finale të implementimit, duke u konsultuar me Agjencinë e IPARD-së dhe, pas verifikimit nga Komiteti Monitorues i IPARD-së, i dorëzon ato te Komisioni Europian, KKIPA-ja/NIPAC-ja dhe ZKA-ja/NAO-ja;
+v) Jep informacion për ekzistencën e programit të IPARD-së dhe rregullat për zbatimin e tij, veçanërisht duke theksuar rolin e Komunitetit Europian dhe siguron transparencë për ndihmën e dhënë nga Bashkimi Europian;
+vi) Krijon, mirëmban dhe përditëson sistemin e raportimit e të informacionit.
+c) Autoriteti Menaxhues krijon një sistem për grumbullimin e informacionit financiar e statistikor mbi progresin e programit të IPARD-së, në qoftë se një sistem i tillë nuk është ngritur nga Agjencia e IPARD-së dhe ia dërgon këto të dhëna Komitetit Monitorues të IPARD-së, duke përdorur, kur është e mundur, sistemin kompjuterik për shkëmbimin e të dhënave me Komisionin Europian.
+ç) Autoriteti Menaxhues i propozon Komisionit Europian dhe NIPAC-së, rregullimet e programit të IPARD-së pas konsultimeve me Agjencinë e IPARD-së dhe pas miratimit nga Komiteti Monitorues i IPARD-së. Autoriteti Menaxhues përgjigjet për sigurimin e informimimit të autoriteteve përkatëse për të bërë ndryshimet administrative të nevojshme, kur duhet, si rezultat i një vendimi të Komisionit për të amenduar programin e IPARD-së.
+d) Autoriteti Menaxhues harton, çdo vit, një plan pune për veprimet e parashikuara nën asistencën teknike, i cili i dorëzohet Komitetit Monitorues të IPARD-së për miratim.
+dh) Autoriteti Menaxhues, çdo vit, i këshilluar nga Komiteti Monitorues i IPARD-së, konsultohet dhe informon Komisionin për nismat që janë marrë dhe ato që do të merren në të ardhmen lidhur me informimin e publikut për rolin e luajtur nga Bashkimi Europian në programin e IPARD-së dhe rezultatet e tij.
+e) Autoriteti Menaxhues siguron që vlerësimet e programit të IPARD-së janë kryer në kohën e duhur, sipas marrëveshjes dhe në përputhje me kuadrin e monitorimit dhe vlerësimit të përbashkët.
+ë) Autoriteti Menaxhues siguron përputhshmërinë lidhur me detyrimet për publicitetin, sipas nenit 24 të marrëveshjes kuadër.
+f) Edhe kur një pjesë e detyrave i delegohen ndonjë organi tjetër, Autoriteti Menaxhues mban përgjegjësitë e plota për eficencën e korrektësinë e menaxhimit dhe implementimin e atyre detyrave.

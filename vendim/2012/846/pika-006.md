@@ -1,0 +1,11 @@
+6. Fondi Kombëtar
+a) Fondi Kombëtar është organ qendror thesari në Ministrinë e Financave, njësia e vetme nëpërmjet së cilës fondet e parazgjerimit të Bashkimit Europian do të transferohen në Republikën e Shqipërisë, sipas shkronjës “a” të pikës 4 dhe pikës 5 të aneksit A të marrëveshjes kuadër.
+b) Drejtori i Fondit Kombëtar do të raportojë drejtpërdrejt te ZKA-ja/NAO-ja dhe është përgjegjës për funksionimin e performancën e veprimtarisë së Fondit Kombëtar.
+c) Fondi Kombëtar, veprimet e të cilit menaxhohen nga ZKA-ja/NAO-ja, është përgjegjës për menaxhimin financiar të IPA-s dhe, brenda kompetencave të tij, kryen detyrat e mëposhtme:
+i) hapjen dhe menaxhimin e llogarive bankare;
+ii) kërkesën për fonde nga Komisioni Europian;
+iii) miratimin e transferimit të fondeve nga Komisioni Europian te struktura operative ose te përfituesit përfundimtarë; si dhe
+iv) dorëzimin e raporteve financiare në Komisionin Europian.
+ç) Gjatë kryerjes së kompetencave të veta në lidhje me menaxhimin financiar të IPA-s, Fondi Kombëtar bashkëpunon me Bankën e Shqipërisë, ku ZKA-ja/NAO-ja hap llogari në monedhë të huaj, për kalimin e fondeve nga Komisioni Europian për secilin komponent të IPA-s. Marrëdhëniet e ndërsjella ndërmjet ZKA-së/NAOsë, Fondit Kombëtar, strukturës operative të IPARD-së dhe Bankës së Shqipërisë do të rregullohen nga një marrëveshje e veçantë, që përcakton termat dhe kushtet për funksionimin e llogarive të hapura në monedhë të huaj, me Bankën e Shqipërisë.
+d) Ndarja e roleve dhe e përgjegjësive ndërmjet ZKA-së/NAO-së, Fondit Kombëtar dhe strukturës operative, në kuadër të menaxhimit plotësisht të decentralizuar të IPA-s, komponenti V, dhe marrëdhëniet e tyre të ndërsjella, do të përcaktohen në memorandumin e mirëkuptimit, të nënshkruar ndërmjet Agjencisë së IPARD-së e ZKA-së/NAO-së dhe Autoritetit Menaxhues e ZKA-së/NAO-së, ku përshkruhen rolet dhe përgjegjësitë e palëve kontraktuese, procedurat e transferimit dhe metodat për shfrytëzimin e fondeve, dispozitat për bashkëfinancimin, mekanizmat e kontrollit financiar, menaxhimin e llogarive bankare, të kontabilitetit e të auditimit.
+dh) Gjatë kryerjes së funksioneve, të listuara në këtë vendim, punonjësit e Fondit Kombëtar do të ndjekin dispozitat e Manualit të Brendshëm të Procedurave të Fondit Kombëtar, të miratuar nga ZKA-ja/NAO-ja dhe të konfirmuar nga ZPA-ja/CAO-ja.
