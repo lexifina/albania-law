@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2012, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 600 000 (gjashtëqind mijë) lekësh, për përballimin e shpenzimeve të kurimit të z. Myzafer Zaimi.
