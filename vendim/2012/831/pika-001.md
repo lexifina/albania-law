@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2012, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 1 658 950 (një milion e gjashtëqind e pesëdhjetë e tetë mijë e nëntëqind e pesëdhjetë) lekësh, për përballimin e shpenzimeve të kurimit të z. Albert Kryemadhi.
