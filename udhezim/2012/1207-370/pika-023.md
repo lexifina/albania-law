@@ -1,0 +1,1 @@
+23. Zyra e gjendjes civile, e cila ka marrë listë për dublime të dyshuara nga DPGJC, brenda 60 ditëve nga data e marrjes së listës paraqet në Drejtorinë e Përgjithshme të Gjendjes Civile listën e individëve/familjeve që ka çregjistruar sipas procedurës së mësipërme, si dhe listën e atyre që nuk ka çregjistruar me arsyen përkatëse.

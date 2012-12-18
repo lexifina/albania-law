@@ -1,0 +1,1 @@
+16. Për rastet kur në regjistrin themeltar nuk kemi shënime në rubrikën “Burimi i informacionit”, atëherë kjo zyrë duhet t’i kërkojë informacion zyrës ku kjo familje figuron e dubluar sipas listës bashkëlidhur.

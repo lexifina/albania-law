@@ -1,0 +1,1 @@
+17. Zyra që merr kërkesën për informacion, brenda 5 ditëve, plotëson të dhënat që rezultojnë në të gjitha rubrikat e regjistrit (nga rubrika 1-32, ose fotokopje të fletës së familjes) dhe ia dërgon këto zyrës që ka kërkuar informacion.

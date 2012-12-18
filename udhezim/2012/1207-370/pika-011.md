@@ -1,0 +1,1 @@
+11. Secila zyrë e gjendjes civile do të ballafaqojë nëse të dhënat e individit/familjes, që gjendet në listën e sjellë nga DPGJC, janë në përputhje me të dhënat e individit/familjes që ka të regjistruar në regjistrat themeltarë.

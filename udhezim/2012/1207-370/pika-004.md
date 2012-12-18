@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Gjendjes Civile, listën e ardhur nga institucionet shtetërore të përfshira në proces, të hartuar sipas aneksit nr. 2, do ta ballafaqojë me RKGJC. Listën që përftohet nga ky proces, do ta ballafaqojë me listën sipas aneksit nr. 3.

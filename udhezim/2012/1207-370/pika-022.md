@@ -1,0 +1,1 @@
+22. Në çdo rast pastrim dublimi, nëpunësi i gjendjes civile për çdo shtetas të listës së ardhur nga DPGJC, verifikon edhe të dhënat për çdo pjesëtar të familjes së tij në regjistrin themeltar dhe në Regjistrin Kombëtar të Gjendjes Civile.

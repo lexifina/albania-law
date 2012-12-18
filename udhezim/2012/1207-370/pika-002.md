@@ -1,0 +1,1 @@
+2. Drejtoria e Përgjithshme e Gjendjes Civile, listën sipas aneksit nr. 1 do ta ballafaqojë me listën emërore, sipas aneksit nr. 3, në të cilën përfshihen binjakët dhe personat e ndryshëm të identifikuar nga zyrat e gjendjes civile nga zbatimi i udhëzimit nr. 359, datë 11.10.2010 të Ministrit të Brendshëm.
