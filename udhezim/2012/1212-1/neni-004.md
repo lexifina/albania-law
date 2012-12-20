@@ -1,0 +1,6 @@
+# Neni 4
+Bashkimi i qendrave të votimit
+1. Kur një zonë qendre votimi ka më pak se 200 zgjedhës, kryetari i njësisë së qeverisjes vendore vendos që ajo t’i bashkohet zonës së qendrës së votimit me numër më të madh zgjedhësish, më të afërt dhe me mundësi komunikimi rrugor.
+1.1 Kur shuma e numrit të zgjedhësve të dy zonave të qendrave të votimit të bashkuara është jo më shumë se 1000 zgjedhës, zgjedhësit votojnë në qendrën e re të votimit, të krijuar pas bashkimit të zonave të qendrave të votimit.
+1.2 Kur shuma është më e madhe se 1000 zgjedhës, krijohen dy qendra votimi me numër përafërsisht të barabartë zgjedhësish. Në këtë rast, qendra e re e votimit ngrihet, për sa është e mundur, në të njëjtën godinë me qendrën ekzistuese të votimit dhe numërtohet sipas sistemit unik kombëtar të numërtimit të qendrave të votimit.
+2. Si rregull, qendra e re e votimit, për zonat rurale, nuk është më larg se 5 km nga qendra e votimit që shkrihet. Në rast se nuk është e mundur të zbatohen të dyja kriteret, ai i numrit minimal dhe largësisë, kriteri i numrit minimal të zgjedhësve ka përparësi. Numri i qendrës së votimit të shkrirë pezullohet dhe ky pezullim nuk ndikon në numërtimin ekzistues të qendrave të tjera të votimit.
