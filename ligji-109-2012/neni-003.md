@@ -1,0 +1,2 @@
+# Neni 3
+Në përputhje me paragrafin e parë të nenit 19 të konventës, Republika e Shqipërisë rezervon të drejtën të refuzojë njohjen e një divorci ose të një ndarjeje ligjore ndërmjet dy bashkëshortëve, të cilët, në kohën e divorcit ose të ndarjes ligjore, kanë qenë shtetas të Republikës së Shqipërisë dhe të asnjë shteti tjetër, në rast se është aplikuar një ligj i ndryshëm nga ligji që referon legjislacioni shqiptar për të drejtën ndërkombëtare private, përveçse kur rezultati i arritur është i njëjtë me atë që është arritur duke zbatuar ligjin e referuar prej tij.
