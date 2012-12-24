@@ -1,0 +1,1 @@
+3. Rregullat e hollësishme për zbatimin e kritereve, si dhe për masën e financimit për çdonjërën nga bursat e parashikuara, që aplikohen për studentët dhe shkencëtarët e rinj, përcaktohen me udhëzim të Ministrit të Arsimit dhe Shkencës, i cili botohet në Fletoren Zyrtare.
