@@ -1,0 +1,1 @@
+17. Çdo zyrë e gjendjes civile në bashki/njësi bashkiake/komuna, më datë 13.5.2013 printon nga RKGJC-ja dhe firmos listën e zgjedhësve për çdo qendër votimi, duke përfshirë edhe institucionet e posaçme, nën juridiksionin territorial të saj dhe ia dorëzon kryetarit.

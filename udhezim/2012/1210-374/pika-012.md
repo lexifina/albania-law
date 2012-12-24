@@ -1,0 +1,3 @@
+12. Zyrat e gjendjes civile në bashki/komuna/njësi bashkiake, brenda datës 3 janar 2013, printojnë dhe publikojnë, pasi të firmoset nga kryetari përkatës, ekstraktin e parë të përbërësve zgjedhorë të të gjithë zgjedhësve, sipas vendbanimit dhe qendrave të votimit, nën juridiksionin e tyre territorial.
+Ekstrakti i përbërësve zgjedhorë, me të njëjtat kritere, do të printohet dhe do të publikohet edhe çdo 30 ditë sipas përcaktimit të Kodit Zgjedhor.
+DPGJC-ja publikon këto ekstrakte në shkallë vendi, në faqen e saj zyrtare, si dhe ia dërgon KQZ-së për publikim në faqen e saj zyrtare. Në momentin e publikimit të ekstraktit të radhës, nga faqet zyrtare fshihet ekstrakti i mëparshëm.

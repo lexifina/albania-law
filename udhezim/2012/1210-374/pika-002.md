@@ -1,0 +1,1 @@
+2. RKGJC-ja gjeneron formatin elektronik të ekstraktit të përbërësve zgjedhorë brenda datës 18 dhjetor 2012, të ndarë sipas qendrave të votimit të zgjedhjeve të datës 8.5.2011 për çdo bashki/njësi bashkiake/komunë.
