@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2012, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 6 600 000 (gjashtë milionë e gjashtëqind mijë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të së ndjerës Esmeralda Uruçi.
