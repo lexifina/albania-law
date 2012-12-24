@@ -1,0 +1,1 @@
+1. Lejimin e Qendrës së Botimeve Zyrtare, si autoritet kontraktor, për kryerjen e procedurave të prokurimit dhe lidhjen e kontratës me fondet e miratuara në buxhetin e vitit 2012, për objektin “Shtypja e Fletores Zyrtare te të tretët, për vitin 2012”, me fond limit 10 285 440 (dhjetë milionë e dyqind e tetëdhjetë e pesë mijë e katërqind e dyzet) lekë, pa TVSH.
