@@ -1,0 +1,2 @@
+# Neni 4
+Mjetet lundruese, të cilat nuk janë të regjistruara e të pajisura me leje lundrimi dhe certifikatën e përdorimit të mjetit lundrues nga organet kompetente shqiptare (me ose pa leje lundrimi nga një shtet i huaj) dhe plotësojnë kushtet e përcaktuara në nenin 1 të këtij ligji, pas rikonfirmimit të verifikimeve me shtetet e origjinës, kalojnë dhe administrohen nga Rezervat Materiale të Shtetit, për vijimësinë e procedurave të mëtejshme, sipas administrimit të parashikuar në legjislacionin në fuqi.

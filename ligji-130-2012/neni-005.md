@@ -1,0 +1,2 @@
+# Neni 5
+Kalimi i këtyre mjeteve nga mjediset e drejtorive të policisë së qarqeve përkatëse dhe ato të Policisë Kufitare dhe Migracionit bëhet pranë mjediseve të drejtorisë rajonale të Rezervave Materiale të Shtetit, që korrespondon me territorin respektiv. Procedurat e kalimit dhe të çregjistrimit rregullohen me akt nënligjor të Ministrit të Brendshëm, Ministrit të Financave dhe Ministrit të Punëve Publike dhe Transporteve.

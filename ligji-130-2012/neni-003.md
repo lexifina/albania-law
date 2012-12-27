@@ -1,0 +1,2 @@
+# Neni 3
+Mjetet lundruese, të regjistruara e të pajisura me leje lundrimi dhe me certifikatën e përdorimit të mjetit lundrues nga organet kompetente shqiptare, të konfiskuara si pasojë e sekuestrimit, ndalimit apo bllokimit nga organet e Policisë së Shtetit deri në datën 30.12.2010, për të cilat nuk ka probleme në ndjekje, në hetim ose verifikime të ndryshme, kalojnë dhe administrohen nga Rezervat Materiale të Shtetit, për vijimësinë e procedurave të mëtejshme, sipas administrimit të parashikuar në legjislacionin në fuqi.
