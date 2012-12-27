@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Doganave raporton në agjenci, brenda muajit mars të çdo viti, importet dhe eksportet e baterive e akumulatorëve portativë, si dhe eksportet e mbetjeve nga bateritë dhe akumulatorët për vitin paraardhës, sipas legjislacionit në fuqi.

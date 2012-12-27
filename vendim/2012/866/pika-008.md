@@ -1,0 +1,1 @@
+8. Njësitë e qeverisjes vendore llogarisin përqindjet e grumbullimit, të realizuara në territorin ku shtrijnë juridiksionin e tyre gjatë vitit kalendarik paraardhës dhe i regjistrojnë ato në regjistrat e tyre të krijuar për këtë qëllim.

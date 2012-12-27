@@ -1,0 +1,1 @@
+9. Njësitë e qeverisjes vendore raportojnë në agjenci, brenda muajit prill të çdo viti, përqindjet e realizuara të grumbullimit për vitin paraardhës, sipas tabelës së paraqitur në aneksin I, bashkëlidhur këtij vendimi.

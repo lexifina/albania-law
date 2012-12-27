@@ -1,0 +1,1 @@
+5. Subjektet e përcaktuara në pikën 1, kur pushojnë aktivitetin e tyre të prodhimit të baterive dhe akumulatorëve dhe nuk e ushtrojnë më këtë veprimtari në Republikën e Shqipërisë, kërkojnë me anë të një kërkese me shkrim, drejtuar agjencisë, çregjistrimin nga regjistri i prodhuesve të baterive dhe akumulatorëve.

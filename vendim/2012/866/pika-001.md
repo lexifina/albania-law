@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është mbrojtja, ruajtja e përmirësimi i cilësisë së mjedisit, si dhe mbrojtja e shëndetit publik, përmes minimizimit të ndikimeve negative nga bateritë, akumulatorët dhe mbetjet e tyre.
