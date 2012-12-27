@@ -1,0 +1,26 @@
+{
+  "qbz_id": 67922,
+  "title": "PËR SHPALLJE LIGJI DHE DHËNIEN E PËLQIMIT PËR HYRJEN NË FUQI MENJËHERË TË LIGJIT",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "7896",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2012-12-27",
+  "published": "2012-12-27",
+  "in_force": "2012-12-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/92a09c2f26be0c99ece04ff766ab462eae2b1a78e32e5626ce76dc5c3ba44d6d.docx",
+  "source_sha256": "92a09c2f26be0c99ece04ff766ab462eae2b1a78e32e5626ce76dc5c3ba44d6d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67922",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2012/12/27/7896",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
