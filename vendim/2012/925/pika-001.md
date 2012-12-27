@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2012, në programin 07340 “Mbështetja shëndetësore”, në artikullin 602 “Mallra e shërbime”, t’i shtohet fondi prej 90 000 000 (nëntëdhjetë milionë) lekësh, për përballimin e detyrimeve kontraktore të Spitalit Ushtarak Qendror Universitar ndaj “Univers-Alb” sh.a.
