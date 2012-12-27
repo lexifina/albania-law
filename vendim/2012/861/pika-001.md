@@ -1,0 +1,2 @@
+1. Lejimin e Qendrës së Kulturës, Medias dhe Botimeve të Mbrojtjes, si autoritet kontraktor të realizojë, brenda datës 31.12.2012, lidhjen e kontratës shtesë për objektin “Rikonstruksion i hotelit të ish-ushtarakëve ESKU”, me fond limit 41 515 922 (dyzet e një milion e pesëqind e pesëmbëdhjetë mijë e nëntëqind e njëzet e dy) lekë me TVSH.
+Brenda këtij afati përfshihet edhe njoftimi i kontratës së nënshkruar.
