@@ -5,4 +5,4 @@ b) të mos jetë ndërhyrë në jetën private të punonjësve më shumë se ës
 c) përdorimi dhe përpunimi i regjistrimeve të tjera të njerëzve të marra nëpërmjet mbikëqyrjes të jetë planifikuar dhe kryer në përputhje me dispozitat e ligjit për mbrojtjen e të dhënave personale;
 ç) regjistrimet të jenë përdorur vetëm për qëllimin për të cilin është kryer mbikëqyrja;
 d) punonjësit të jenë të informuar kur mbikëqyrja me kamera do të fillojë, si do të zbatohet, si dhe për vendet e kamerave.
-11.2 Periudha e mbajtjes së regjistrimit duhet të përcaktohet sipas shkronjës “c” të pikës 4 të udhëzimit nr.3, datë 5.3.2010 Mbi sistemin e videosurvejimit në ndërtesa, lokale e ambiente të ndryshme” i nxjerrë nga zyra e Komisionerit.
+11.2 Periudha e mbajtjes së të dhënave në një sistem vëzhgimi me kamera përcaktohet sipas shkronjës “c” të pikës 4 të udhëzimit nr. 13, datë 22.12.2011 “Për disa shtesa dhe ndryshime në udhëzimin nr. 3, datë 5.3.2010 “Mbi sistemin e videosurvejimit në ndërtesa, lokale e ambiente të ndryshme”, miratuar nga Komisioneri për Mbrojtjen e të Dhënave Personale.
