@@ -1,0 +1,1 @@
+4. Përjashtimisht, për instruktorët e kontraktuar për qendrat e formimit profesional nga Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, miratimi i numrit të tyre, afatet kohore dhe të tjera specifikime, bëhen sipas udhëzimit të përbashkët të Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe Ministrisë së Financave.

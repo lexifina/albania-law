@@ -1,0 +1,1 @@
+1. Numri i punonjësve me kontratë të përkohshme, për vitin 2013, në njësitë e qeverisjes qendrore, është 691 punonjës, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

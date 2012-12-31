@@ -1,0 +1,1 @@
+5. Përjashtimisht, për qendrat e transferimit të teknologjisë, në Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, për shkak të veçorisë së punës, pagesa e punonjësve të kontraktuar përllogaritet sipas volumit të punës së kryer.

@@ -1,0 +1,1 @@
+3. Përjashtimisht, për punonjësit e kontraktuar nga Instituti i Statistikave, të cilët do të merren me anketimet, miratimi i numrit të tyre, afatet kohore dhe të tjera specifikime bëhen sipas udhëzimit të përbashkët të INSTAT-it dhe Ministrisë së Financave.
