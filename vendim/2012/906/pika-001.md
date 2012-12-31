@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2012, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 700 000 (shtatëqind mijë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të z. Bardhyl Agasi.
