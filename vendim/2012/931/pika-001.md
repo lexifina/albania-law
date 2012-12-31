@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2012, t’i shtohet fondi prej 2 500 000 (dy milionë e pesëqind mijë) lekësh, për shpërblimin e punonjësve të saj për festat e fundvitit.
