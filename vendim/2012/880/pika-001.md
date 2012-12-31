@@ -1,0 +1,2 @@
+1. Lejimin e Qendrës Spitalore Universitare “Nënë Tereza”, në varësi të Ministrisë së Shëndetësisë, që brenda datës 25.12.2012, të përfundojë procedurat e prokurimit për furnizimin me mallra, me fondet e parashikuara në buxhetin e shtetit, për vitin 2012, sipas aneksit 1 bashkëlidhur këtij vendimi.
+Brenda këtij afati përfshihen edhe lidhja e kontratave përkatëse dhe njoftimi i këtyre kontratave të nënshkruara në Agjencinë e Prokurimit Publik.
