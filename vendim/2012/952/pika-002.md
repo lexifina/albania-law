@@ -1,0 +1,1 @@
+2. Profesionisti, që përfiton nga përcaktimi i pikës 1 të këtij vendimi, duhet të ketë përfunduar arsimin universitar përkatës, sipas përcaktimeve të legjislacionit në fuqi për profesionet e rregulluara në Republikën e Shqipërisë.
