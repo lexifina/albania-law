@@ -1,0 +1,1 @@
+4. “MPEE nga përdoruesit joshtëpiakë”, MPEE-të që vijnë nga burimet tregtare, industriale, institucionale dhe të tjera, që, për shkak të natyrës dhe sasisë së tyre, janë të ndryshme me ato që vijnë nga përdoruesit shtëpiakë.

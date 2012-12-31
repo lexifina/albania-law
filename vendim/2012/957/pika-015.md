@@ -1,0 +1,1 @@
+15. Substancë ose preparat i rrezikshëm”, çdo substancë ose preparat që është shpërthyes, oksidues, shumë i djegshëm apo i djegshëm, toksik, dëmtues, gërryes apo irritues, sipas përkufizimeve që u bëhen këtyre vetive në aneksin III të ligjit nr. 10 463, datë 22.9.2011 “Për menaxhimin e integruar të mbetjeve”.

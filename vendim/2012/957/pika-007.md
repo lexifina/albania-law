@@ -1,0 +1,1 @@
+7. “MPEE shtëpiake”, mbetjet nga pajisjet elektrike dhe elektronike, që vijnë nga sektori privat familjar dhe nga burimet tregtare, industriale, të institucioneve dhe të tjera, që, për shkak të natyrës e të sasisë së tyre, janë të ngjashme me mbetjet shtëpiake.
