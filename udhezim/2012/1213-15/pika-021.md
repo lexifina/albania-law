@@ -1,0 +1,1 @@
+21. Materialet dhe artikujt e mbuluara nga masat specifike të dhëna në pikën 11 të shoqërohen me një dokument ku deklarohet se ato janë në përputhje me rregullat e zbatueshme për to. Dokumentacioni duhet t’i vihet në dispozicion Autoritetit Kombëtar të Ushqimit (AKU) me kërkesën e tyre.

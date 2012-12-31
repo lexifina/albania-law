@@ -1,0 +1,5 @@
+5. Gjithashtu, në këtë udhëzim termat e mëposhtëm kanë këto kuptime:
+a) “materiale dhe artikuj aktivë në kontakt me ushqimin” (më poshtë materiale dhe artikuj aktivë) janë materialet dhe artikujt që kanë për qëllim të zgjatin jetëgjatësinë dhe të mbajnë ose të përmirësojnë gjendjen e ushqimit të paketuar. Ato janë projektuar qëllimisht që të bashkojnë komponentët që do të çlirohen ose të absorbojnë substancat në/ose nga ushqimet e paketuara apo mjedisi përreth ushqimit;
+b) “materialet dhe artikujt inteligjentë në kontakt me ushqimin” (më poshtë materialet dhe artikujt inteligjentë) janë materialet dhe artikujt të cilat monitorojnë gjendjen e ushqimeve të paketuara apo mjedisin përreth ushqimit;
+c) “biznes” nënkupton çdo ndërmarrje, me qëllim përfitimi ose jo, publike apo private, që kryen ndonjë nga aktivitetet e lidhura me çdo fazë të prodhimit, përpunimit dhe shpërndarjes së materialeve dhe artikujve;
+d) “operatori i biznesit” nënkupton personat fizikë ose juridikë, përgjegjës, për të siguruar që kërkesat e këtij udhëzimi janë plotësuar në biznesin nën kontrollin e tyre.

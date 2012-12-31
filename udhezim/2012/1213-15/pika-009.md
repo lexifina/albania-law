@@ -1,0 +1,1 @@
+9. Materialet dhe artikujt aktiv të mos shkaktojnë ndryshime në karakteristikat e përbërjes apo organoleptike të ushqimit, duke maskuar, për shembull, prishjen e ushqimit, që mund të mashtrojë konsumatorët.

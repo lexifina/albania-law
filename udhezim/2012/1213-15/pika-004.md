@@ -1,0 +1,3 @@
+4. Për qëllime të këtij udhëzimi, termat e përcaktuar në nenin 3 të ligjit nr. 9863, datë 28.1.2008 “Për ushqimin”, kanë të njëjtin kuptim, me përjashtim të përcaktimeve të “gjurmueshmërisë” dhe “vendosjes në treg”, të cilat do të kenë kuptimet e mëposhtme:
+a) “gjurmueshmëria” është aftësia për të gjurmuar dhe për të ndjekur një material ose artikull gjatë të gjitha fazave të prodhimit, përpunimit dhe shpërndarjes;
+b) “vendosje në treg” është mbajtja e materialeve dhe artikujve për qëllim shitjeje, duke përfshirë ofertën për shitje ose ndonjë formë tjetër transferimi, me pagesë ose jo, si dhe shitjen, shpërndarjen dhe format e tjera të transferimit.

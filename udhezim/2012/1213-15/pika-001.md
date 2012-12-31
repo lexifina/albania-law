@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është të sigurojë funksionimin efektiv të tregut të brendshëm në lidhje me nxjerrjen në treg të materialeve dhe artikujve të destinuar për të qenë në kontakt të drejtpërdrejtë ose jo të drejtpërdrejtë me ushqimin, duke garantuar bazën për sigurimin e një niveli të lartë të mbrojtjes së shëndetit të njerëzve dhe interesave të konsumatorëve.
