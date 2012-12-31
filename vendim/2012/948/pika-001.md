@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Ujësjellës-Kanalizimeve për vazhdimin/kryerjen/përfundimin e procedurave të prokurimit, me objekt “Furnizimi me ujë i plazheve Durrës-Kavajë, nga pusshpimet e Çermës, loti II (linjat me presion nga Rrogozhina, PIK 426, deri te pusndërprerje Kavajë, linja pusndërprerje deri në depon ekzistuese Kavajë)”, si autoritet kontraktor.
