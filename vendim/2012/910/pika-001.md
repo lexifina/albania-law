@@ -1,0 +1,1 @@
+1. Lejimin e Hekurudhave Shqiptare sh.a., të vazhdojë/kryejë procedurat e prokurimit me objekt “Faza II e projektit “Riaktivizimi i stacionit hekurudhor Kashar”” dhe për supervizion punimesh për fazën II të projektit “Riaktivizimi i stacionit hekurudhor Kashar”, brenda datës 30.12.2012.

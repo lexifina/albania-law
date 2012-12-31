@@ -1,0 +1,5 @@
+VENDIM
+Nr. 910, datë 19.12.2012
+PËR LEJIMIN E HEKURUDHAVE SHQIPTARE SHA, SI AUTORITET KONTRAKTOR, PËR KRYERJEN E PROCEDURAVE TË PROKURIMIT “FAZA II E PROJEKTIT “RIAKTIVIZIMI I STACIONIT HEKURUDHOR KASHAR”” DHE PËR SUPERVIZION PUNIMESH PËR FAZËN II, TË PROJEKTIT “RIAKTIVIZIMI I STACIONIT HEKURUDHOR KASHAR”
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 75 të ligjit nr. 9643, datë 20.11.2006 “Për prokurimin publik”, të ndryshuar, me propozimin e Ministrit të Punëve Publike dhe Transportit, Këshilli i Ministrave
+VENDOSI:
