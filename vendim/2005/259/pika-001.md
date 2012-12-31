@@ -1,1 +1,0 @@
-1. Komisioni i posaçëm, pranë Ministrisë së Rregullimit të Territorit dhe të Turizmit, të pajisë me licencë personat fizikë e juridikë, publikë e privatë, që kërkojnë të ushtrojnë veprimtarinë e vlerësimit të pasurive të paluajtshme.

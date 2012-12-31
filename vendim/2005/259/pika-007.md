@@ -1,1 +1,0 @@
-7. Rregullorja për kriteret, procedurat e dhënies së licencave profesionale për vlerësimin e pasurive të paluajtshme, organizimi, funksionimi dhe shpërblimi i anëtarëve të komisionit të posaçëm miratohen nga Ministri i Rregullimit të Territorit dhe i Turizmit.
