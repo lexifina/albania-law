@@ -1,0 +1,1 @@
+2. Mjediset dhe sipërfaqja 2735 (dy mijë e shtatëqind e tridhjetë e pesë) m2, të truallit funksional të pronës nr. 100, me emërtim “Grup Depo Rep. Usht. nr. 5011/25”, Tujan, Tiranë, sipas planvendosjes bashkëlidhur këtij vendimi, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, e cila i bashkëlidhet vendimit nr. 515, datë 18.7.2003 të Këshillit të Ministrave.
