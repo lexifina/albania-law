@@ -1,0 +1,2 @@
+1. Lejimin e Ministrisë së Brendshme, si organ qendror blerës, të realizojë, brenda datës 31 dhjetor 2012, procedurën e prokurimit, me objekt “Rrjeti i komunikimeve on-line i shërbimit të Gjendjes Civile”, me fondet e miratuara në buxhetin e këtij viti, të përcaktuara në aneksin bashkëlidhur këtij vendimi.
+Brenda këtij afati të përfshihet publikimi i njoftimit të kontratës së nënshkruar në Buletinin e Njoftimeve Publike.
