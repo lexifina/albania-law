@@ -1,0 +1,1 @@
+2. Materiali mbjellës dhe shumëzues bimor me paketim origjinal që mund të importohet për përdorim vetjak, duhet të jetë i etiketuar në përputhje me kërkesat e legjislacionit për materialin mbjellës dhe shumëzues bimor.
