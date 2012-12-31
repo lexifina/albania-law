@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve të pronës së paluajtshme shtetërore “Kalaja Lezhë” dhe zonës arkeologjike përreth saj, me numër rendor 1-44, në zonën kadastrale nr. 8631, sipas formularit që i bashkëlidhet këtij vendimi.

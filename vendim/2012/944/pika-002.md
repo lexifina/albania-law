@@ -1,0 +1,1 @@
+2. Në vendimin nr. 414, datë 11.7.2007 të Këshillit të Ministrave “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen, në pronësi ose përdorim të Bashkisë Lezhë, të qarkut Lezhë”, hiqen pronat që përmenden në pikën 1 të këtij vendimi.
