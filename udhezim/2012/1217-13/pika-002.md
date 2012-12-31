@@ -1,0 +1,16 @@
+2. Vlerësimi i nevojave dhe plani i përkujdesjes për përfitueset
+i) Vlerësimi i nevojave
+2.1. Nevojat e personave të dhunuar vlerësohen nga një ekip multidisiplinar, ku profesionistët punojnë së bashku për të diskutuar rastin, në përputhje me moshën dhe nevojat e tyre respektive, me qëllim hartimin e planit përkatës të ndihmës.
+2.2. Për çdo përfitues caktohet një punonjës social, i cili menaxhon rastin. Menaxheri i rastit udhëheq procesin e vlerësimit të nevojave të përfitueses, hartimin e planit të ndihmës dhe zbatimin e tij. Ajo takohet rregullisht me përfituesen për të diskutuar progresin e përgjithshëm në arritjen e qëllimeve të saj individuale dhe planit të ndihmës. Ajo drejton organizimin e referimeve dhe e ndihmon përfituesen për të identifikuar dhe arritur burimet e nevojshme.
+2.3. Vlerësimi i nevojave përfshin këto fusha: vlerësimin e nevojave shëndetësore, psikosociale, ligjore, arsimore, profesionale, të punësimit, të sigurisë, të akomodimit afatgjatë, të lidhjeve me familjen etj. (anekset: 4, 5, 6, 7, 8, 9, 10, 11).
+2.4. Vlerësimi i nevojave individuale për përfituesen duhet të përfundojë brenda dy javësh nga dita e hyrjes së përfitueses në qendër.
+2.5. Pasi kryhet vlerësimi i nevojave, ekipi multidisiplinar mblidhet si një grup për të diskutuar rastin dhe për të hartuar planin përkatës të ndihmës.
+ii) Planifikimi i ndihmës
+2.6. Plani i ndihmës hartohet pas vlerësimit të nevojave dhe përfshin masat afatmesme dhe afatgjata të nevojave të identifikuara për përfituesen.
+2.7. Plani i ndihmës hartohet brenda 30 ditësh nga dita e akomodimi të përfitueses në qendër.
+2.8. Përfituesja përfshihet në procesin e hartimit të planit të ndihmës në përputhje me grupmoshën, kapacitetin dhe aftësitë individuale të saj.
+2.9. Menaxheri i rastit është përgjegjës për grumbullimin e informacionit dhe hartimin e planit të ndihmës. Menaxheri i rastit bashkëpunon për këtë me ekipin multidisiplinar. Ai përdor rezultatet e diskutimit, si dhe formularët e vlerësimit të nevojave për të hartuar së bashku me përfituesen një plan ndihme tërësor. Plani i ndihmës është formatuar në përputhje me formularët e vlerësimit të nevojave, në mënyrë që t’i korrespondojë me lehtësi procesit të vlerësimit të nevojave (anekset: 4, 5, 6, 7, 8, 9, 10,11).
+2.10. Përfituesja dhe menaxheri i rastit duhet të nënshkruajnë planin për të treguar që të dyja palët janë të angazhuar për zbatimin e tij.
+2.11. Për përfituesit e mitur, nën moshën 18 vjeç, hartohen plane të ndihmës të përshtatur me nevojat e tyre, duke përdorur formularët e planit të ndihmës të dhënë në manualin për zbatimin e standardeve për fëmijë në institucionet rezidenciale publike dhe jopublike në Shqipëri.
+2.12. Plani i ndihmës përditësohet e përshtatet me ndryshimet e nevojave dhe rrethanave të përfitueses. Menaxheri e rastit dhe përfituesja duhet të takohen për të diskutuar progresin e bërë deri në atë moment dhe ndonjë ndryshim të nevojshëm të planit.
+2.13 Nëse përfituesja transferohet në një qendër tjetër përkujdesjes shoqërore, një kopje e planit të ndihmës duhet t’i dërgohet ofruesit të ri të shërbimeve (me pëlqimin e përfitueses), në mënyrë që ndihma e filluar të vazhdojë të ofrohet, si dhe ofruesi i ri të kuptojë se cilat shërbimet i janë ofruar përfitueses deri në atë moment.
