@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Ujësjellës - Kanalizimeve, si autoritet kontraktor, të vazhdojë të kryejë, brenda datës 31 dhjetor 2012, procedurat e prokurimit, me objekt “Furnizimi me ujë i plazheve Durrës - Kavajë, nga pusshpimet e Çermës, loti III (linjat e ujësjellësit nga PIK 235 (degëzimi në Kavajë) deri në depon e re 4000 m3 në Arapaj, depo Arapaj 4000 m3)”.
