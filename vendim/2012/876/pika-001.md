@@ -1,0 +1,1 @@
+1. Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, nga fondet e vitit 2012 të programit të Mbrojtjes Sociale, artikulli 602 “Mallra e shërbime të tjera”, t’i paguajë “Albtelecom” sh.a., shumën prej 51 206 371 (pesëdhjetë e një milionë e dyqind e gjashtë mijë e treqind e shtatëdhjetë e një) lekësh.

@@ -1,0 +1,1 @@
+3. Likuidimi i vlerës prej 51 206 371 (pesëdhjetë e një milionë e dyqind e gjashtë mijë e treqind e shtatëdhjetë e një) lekësh të kryhet mbi bazën e dokumentacionit justifikues, të paraqitur nga “Albatelecom” sh.a., dhe të miratuar nga Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
