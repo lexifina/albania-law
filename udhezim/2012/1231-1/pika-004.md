@@ -1,0 +1,1 @@
+4. Kopja në letër e dokumentit elektronik ka të njëjtën vlerë ligjore me dokumentin elektronik kur realizohet në përputhje me nenin 10 të ligjit nr. 10 273/2010 “Për dokumentin elektronik” dhe këtë udhëzim.

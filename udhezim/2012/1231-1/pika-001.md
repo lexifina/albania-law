@@ -1,0 +1,1 @@
+1. Autoriteti kompetent për lëshimin e kopjes në letër të dokumentit elektronik është institucioni, i cili krijon dokumentin elektronik, në përputhje me kërkesat e ligjit nr. 10 273/2010 “Për dokumentin elektronik”.
