@@ -1,0 +1,1 @@
+1. Kompensimin e vlerës se taksës së biznesit të vogël, të përdorur për rimbursimin e vlerës së pajisjeve fiskale e të taksimetrave, për njësitë e qeverisjes vendore, për 8 bashki dhe 30 komuna, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
