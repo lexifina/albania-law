@@ -1,0 +1,2 @@
+1. Lejimin e Prokurorisë së Rrethit Gjyqësor Korçë, si autoritet kontraktor, të përfundojë, brenda datës 30 dhjetor 2012, procedurën e prokurimit, me objekt “Ndërtimi i linjës kabllore 20 kV për ndërtesën e re të Prokurorisë së Rrethit Gjyqësor Korçë”, me fondet e parashikuara në buxhetin e shtetit për vitin 2012.
+Brenda këtij afati përfshihen botimi i njoftimit të kontratës së nënshkruar, realizimi i kontratës dhe ekzekutimi i pagesave për këtë kontratë.
