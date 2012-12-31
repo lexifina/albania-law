@@ -1,0 +1,1 @@
+10. Kontrolli fiziko-shëndetësor i personelit të Forcave të Armatosura dhe personeli ushtarak mjekësor i mbetur i Spitalit Universitar Qendror Ushtarak, me qëllim ruajtjen e aftësive profesionale, të vazhdojë të angazhohet në veprimtaritë e Spitalit Universitar të Traumës, bazuar në një marrëveshje të lidhur ndërmjet Ministrisë së Shëndetësisë dhe Ministrisë së Mbrojtjes.

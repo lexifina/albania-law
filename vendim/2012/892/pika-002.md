@@ -1,0 +1,1 @@
+2. Spitali Universitar i Traumës është person juridik, publik, buxhetor, në varësi administrative të Ministrisë së Shëndetësisë, i cili do të shërbejë si qendër kombëtare e traumës me funksion mjekësor, pedagogjik dhe kërkimor-shkencor.

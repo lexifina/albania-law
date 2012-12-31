@@ -1,0 +1,1 @@
+12. Prona me nr. 51 “Reparti ushtarak 7010 SUQU”, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, e cila i bashkëlidhet vendimit nr. 515, datë 18.7.2003 të Këshilli të Ministrave, të ndryshuar.

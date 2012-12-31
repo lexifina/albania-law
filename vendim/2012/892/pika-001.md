@@ -1,0 +1,1 @@
+1. Ndryshimin e emërtimit të Spitalit Ushtarak Qendror Universitar në “Spitali Universitar i Traumës” dhe kalimin e përgjegjësisë së administrimit të tij nga Ministria e Mbrojtjes te Ministria e Shëndetësisë.

@@ -1,0 +1,1 @@
+11. Të gjitha kontratat e lidhura nga Ministria e Mbrojtjes me palë të treta apo që kanë për objekt ambiente të caktuara të saj të vazhdojnë të zbatohen nga Ministria e Shëndetësisë, konform dispozitave përkatëse të Kodit Civil.

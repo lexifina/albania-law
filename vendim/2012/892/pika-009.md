@@ -1,0 +1,1 @@
+9. Të ardhurat dytësore të realizuara nga veprimtaria e spitalit dhe nga dhurimet, të përdoren totalisht nga vetë spitali, sipas udhëzimit të Ministrisë së Shëndetësisë. Këto të ardhura të vlerësohen si të ardhura jashtë limitit.

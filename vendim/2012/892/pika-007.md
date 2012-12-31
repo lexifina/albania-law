@@ -1,0 +1,1 @@
+7. Ministrisë së Shëndetësisë, në numrin e përgjithshëm të punonjësve, miratuar për vitin 2013, t’i shtohen 310 veta, numër i cili zbritet nga numri i përgjithshëm i punonjësve, miratuar për Ministrinë e Mbrojtjes.

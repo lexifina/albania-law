@@ -1,0 +1,5 @@
+Vendim
+Nr. 892, datë 24.12.2012
+PËR NDRYSHIMIN E EMËRTIMIT TË SPITALIT USHTARAK QENDROR UNIVERSITAR NË “SPITALI UNIVERSITAR I TRAUMËS” DHE KALIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT TË TIJ NGA MINISTRIA E MBROJTJES TE MINISTRIA E SHËNDETËSISË, SI DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 515, DATË 18.7.2003 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË MBROJTJES”
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 10 të ligjit nr. 9000, datë 30.1.2003 “Për organizimin dhe funksionimin e Këshillit të Ministrave”, të ligjit nr. 9106, datë 17.7.2003 “Për shërbimin spitalor në Republikën e Shqipërisë”, të ligjit nr. 9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, dhe të neneve 13 e 15 të ligjit nr. 8743, datë 22.2.2001 “Për pronat e paluajtshme të shtetit”, të ndryshuar, me propozimin e Ministrit të Shëndetësisë dhe Ministrit të Mbrojtjes, Këshilli i Ministrave
+Vendosi:
