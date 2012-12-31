@@ -1,0 +1,1 @@
+1. Objekt i këtij udhëzimi është përcaktimi i rregullave të hollësishme për zhvillimin e ankandit nga përmbaruesi gjyqësor për shitjen e sendeve të debitorit, të cilat janë sekuestruar, për të garantuar ekzekutimin e vendimit gjyqësor të gjykatës apo të titujve të tjerë ekzekutivë, si dhe mbrojtja e të drejtave dhe interesave të pjesëmarrësve në procedurën e ankandit.

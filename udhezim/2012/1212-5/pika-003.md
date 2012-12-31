@@ -1,0 +1,2 @@
+3. Përmbaruesi gjyqësor është përgjegjës për realizimin e ankandit në përputhje me dispozitat e Kodit të Procedurës Civile dhe të këtyre rregullave.
+Përmbaruesi gjyqësor duhet të mbajë procesverbale dhe dokumentacion të plotë për procedurat e kryera në përcaktimin e fituesit të ankandit, në mënyrë të tillë që të lejojë kontrollin nga strukturat përgjegjëse të zbatimit të ligjit. Këto procesverbale dhe dokumente janë pjesë e dosjes përmbarimore.

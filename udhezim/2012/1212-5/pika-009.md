@@ -1,0 +1,2 @@
+9. Shitja e sendit në ankand është e pavlefshme nëse në procedurën e ankandit marrin pjesë si ofertues debitori, përfaqësuesi i tij ligjor, përmbaruesi gjyqësor, si dhe personat e përcaktuar në nenin 709 të Kodit Civil, dhe që sipas nenit 572 të Kodit të Procedurës Civile, nuk kanë të drejtë të marrin pjesë në ankand.
+Në këtë rast, shuma e lënë si garanci nga blerësi kalon në dobi të shtetit dhe sendi, me kërkesë të secilit kreditor, mund të shitet përsëri në ankand, duke vepruar në përputhje me rregullat e përcaktuara në Kodin e Procedurës Civile dhe në këtë udhëzim.
