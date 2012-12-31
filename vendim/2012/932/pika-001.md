@@ -1,0 +1,1 @@
+1. Ministrisë së Drejtësisë, në buxhetin e miratuar për vitin 2012, zëri “Mallra dhe shërbime”, në favor të Avokaturës së Shtetit, t’i shtohet fondi 320 000 (treqind e njëzet mijë) euro + TVSH, për mbulimin e pagesës së shpenzimeve për kontraktimin e konsulentit ndërkombëtar për asistencën për rastin e shoqërisë “CEZ shpërndarje” sh.a.
