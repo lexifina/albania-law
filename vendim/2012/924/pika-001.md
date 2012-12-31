@@ -1,0 +1,1 @@
+1. Lejimin e shoqërisë “KESH” sh.a. Tiranë të importojë energji elektrike, për periudhën nga data 1.1.2013 deri më 1.3.2013, për garantimin e furnizimit të pandërprerë të konsumatorëve me energji elektrike në vend dhe mbulimin e humbjeve në sistemin e shpërndarjes.

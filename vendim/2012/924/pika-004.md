@@ -1,0 +1,1 @@
+4. Ngarkohet Ministria e Financave për sigurimin e burimeve financiare për kryerjen e importit të energjisë elektrike nga shoqëria “KESH” sh.a. Tiranë, sipas pikës 1 të këtij vendimi, si dhe për shlyerjen e detyrimeve të prapambetura për importin e energjisë elektrike, të realizuar nga KESH sh.a., në periudhat e mëparshme.
