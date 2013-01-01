@@ -13,7 +13,7 @@ Në territorin e Republikës së Shqipërisë, gjykatat e rretheve gjyqësore or
 12.Gjykata e rrethit gjyqësor Lezhë, me kompetencë tokësore në rrethet Lezhë e Mirditë dhe me qendër të ushtrimit të veprimtarisë në qytetin Lezhë.
 13.Gjykata e rrethit gjyqësor Lushnjë, me kompetencë tokësore në rrethin Lushnjë dhe me qendër të ushtrimit të veprimtarisë në qytetin Lushnjë.
 14.Gjykata e rrethit gjyqësor Mat, me kompetencë tokësore në rrethin Mat dhe me qendër të ushtrimit të veprimtarisë në qytetin Burrel.
-15.Gjykata e rrethit gjyqësor Përmet, me kompetencë tokësore në rrethin Përmet e në bashkinë Leskovik dhe me qendër të ushtrimit të veprimtarisë në qytetin Përmet.
+15.Gjykata e rrethit gjyqësor Përmet, me kompetencë tokësore në rrethin Përmet dhe me qendër të ushtrimit të veprimtarisë në qytetin Përmet.
 16.Gjykata e rrethit gjyqësor Pogradec, me kompetencë tokësore në rrethin Pogradec dhe me qendër të ushtrimit të veprimtarisë në qytetin Pogradec.
 17.Gjykata e rrethit gjyqësor Pukë, me kompetencë tokësore në rrethin Pukë dhe me qendër të ushtrimit të veprimtarisë në qytetin Pukë.
 18.Gjykata e rrethit gjyqësor Sarandë, me kompetencë tokësore në rrethet Delvinë e Sarandë dhe me qendër të ushtrimit të veprimtarisë në qytetin Sarandë.
