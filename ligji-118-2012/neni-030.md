@@ -1,0 +1,7 @@
+# Neni 30
+Raportet në rastin e aksidenteve
+1. Kur ndodh një aksident me pasojë dëme në persona, pronë ose mjedis, gjatë kryerjes së ngarkimit, mbushjes, transportit ose shkarkimit, këshilltari i sigurisë, pas mbledhjes së të gjithë informacionit përkatës, përgatit raportin e aksidentit për drejtimin dhe administrimin e subjektit.
+2. Raporti i aksidentit, i përgatitur sipas pikës 1 të këtij neni, ruhet nga subjekti për 5 vjet dhe është i vlefshëm për personat e autorizuar për kontroll, sipas nenit 39 të këtij ligji, për ministritë e interesuara ose institucionet e tjera të ngarkuara me ligj, sa herë kërkohet prej tyre.
+3. Raporti i aksidentit nuk zëvendësohet me raportin periodik vjetor, sipas shkronjës “c” të pikës 1 të nenit 29 të këtij ligji, i cili mund të kërkohet në bazë të një legjislacioni tjetër kombëtar ose ndërkombëtar.
+4. Organet e mbikëqyrjes dhe ato inspektuese, sipas nenit 51 të këtij ligji, për çdo rast, caktojnë një ose disa persona për të hetuar rrethanat, në të cilat ka ndodhur një incident ose aksident, me pasojë dëme në persona, pronë ose mjedis ose çdo veprimtari tjetër që ka lidhje me transportin e mallrave të rrezikshme, e të parashikuar në dispozitat e këtij ligji.
+5. Personi ose personat e caktuar, sipas pikës 4 të këtij neni, hartojnë një raport, të cilin ia paraqesin ministrit dhe Kryeinspektorit të Inspektoratit Shtetëror ose titullarit të organit mbikëqyrës përkatës, kur ai nuk është inspektorat shtetëror, sipas nenit 51 të këtij ligji.

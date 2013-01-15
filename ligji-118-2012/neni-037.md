@@ -1,0 +1,9 @@
+# Neni 37
+Inspektimi i mjetit
+1. Konformiteti i mjeteve për transportin e disa mallrave të rrezikshme, sipas nenit 12 të këtij ligji, është subjekt i certifikatës së miratimit ADR, e cila lëshohet nga personi juridik, i autorizuar nga ministri.
+2. Personi juridik i përmendur në pikën 1 të këtij neni kryen inspektimin e mjeteve, përpunimin e dokumenteve dhe lëshimin e certifikatës së miratimit ADR për mjetet që transportojnë disa mallra të rrezikshme, në përputhje me dispozitat e ADR-së.
+3. Inspektimi i mjetit për qëllime të përpunimit të dokumentacionit, në bazë të të cilit lëshohet certifikata e miratimit ADR për mjetet që transportojnë disa mallra të rrezikshme, sipas pikës 1 të këtij neni, kryhet nga inspektuesit teknikë, të cilët zotërojnë të paktën diplomën e arsimit të lartë të inxhinierisë mekanike.
+Personi juridik i licencuar nga ministri, sipas pikës 1 të këtij neni, ka personel të trajnuar ose ka të drejtën e trajnimit të personelit, që kryen inspektimin e mjeteve të transportit të disa mallrave të rrezikshme.
+4. Përpunimi vetëm i dokumentacionit, në bazë të të cilit lëshohet certifikata e miratimit ADR për mjetet që transportojnë disa mallra të rrezikshme, sipas pikës 1 të këtij neni, mund të kryhet nga persona që kanë përfunduar të paktën arsimin e shkollës së mesme të përgjithshme ose shkollës së mesme mekanike për transport.
+5. Procedurat dhe vendet për inspektimin e mjeteve që transportojnë disa mallra të rrezikshme dhe lëshimi i certifikatës së miratimit ADR për mjetet për transportin e disa mallrave të rrezikshme, në përputhje me dispozitat e ADR-së, si dhe kushtet që duhet të plotësohen nga personi juridik i përmendur në pikën 1 të këtij neni, përcaktohen me udhëzim të ministrit.
+6. Tarifat për inspektimin e mjetit për transportin e mallrave të rrezikshme përcaktohen me udhëzim të ministrit.

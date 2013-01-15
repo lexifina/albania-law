@@ -1,0 +1,7 @@
+# Neni 32
+Trajnimi profesional i personave të përfshirë në transport
+1. Personat e punësuar nga pjesëmarrësit në transportin e mallrave të rrezikshme duhet të kenë, të paktën, arsimin e mesëm, të kenë përfunduar programin e trajnimit profesional, në varësi të detyrave dhe përgjegjësive të pozicionit që kanë në punë, dhe të kenë kaluar provimin e formimit profesional.
+2. Trajnimi profesional i personave, sipas pikës 1 të këtij neni, si dhe shtrirja e njohurive të tyre për sigurinë e operacioneve të rëndësishme që ata kryejnë është periodik në raste të parashikuara, me qëllim rifreskimin e njohurive dhe kontrollet ndaj tyre janë të paparalajmëruara. Dokumentacioni për trajnimin e çdo punonjësi mbahet nga punëdhënësi në dosjen personale të çdo punëmarrësi, si dhe nga vetë punëmarrësi.
+3. Kushtet, procedurat e rregullat për trajnimin, provimin dhe vlefshmërinë e certifikatave për personat e përmendur në pikën 1 të këtij neni, në përputhje me dispozitat e ADR-së ose RID-it, miratohen me udhëzimin e ministrit.
+4. Trajnimi profesional i personave të parashikuar në pikën 1 të këtij neni kryhet nga institucioni i licencuar nga ministri për këtë qëllim. Kriteret për licencimin e këtyre institucioneve miratohen me vendim të Këshillit të Ministrave.
+5. Tarifat për trajnimin dhe provimin e personave të përmendur në pikën 1 të këtij neni përcaktohen me udhëzimin e përbashkët të ministrit dhe ministrit përgjegjës për financat.

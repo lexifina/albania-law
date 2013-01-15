@@ -1,0 +1,6 @@
+# Neni 43
+Hyrja e mjeteve të huaja në territorin e Republikës së Shqipërisë
+1. Personat e autorizuar për kontroll në pikën e kalimit të kufirit lejojnë hyrjen e një mjeti të regjistruar në një shtet tjetër, nëse nuk konstatojnë shkelje, sipas dokumentit të përmendur në pikën 3 të nenit 45 të këtij ligji.
+2. Nëse gjatë kontrollit personat e autorizuar për kontroll në pikën e kalimit të kufirit konstatojnë shkelje, sipas dokumentit të përmendur në pikën 3 të nenit 45 të këtij ligji, në një mjet të regjistruar në një shtet tjetër, ndalojnë hyrjen e mjetit në territorin e Republikës së Shqipërisë, si dhe marrin masa të tjera të përshtatshme. Hyrja në territorin e Republikës së Shqipërisë do të lejohet vetëm nëse të metat e konstatuara riparohen.
+3. Personat e autorizuar për kontrollin në rrugë përjashtojnë nga qarkullimi mjetet, sipas pikës 2 të këtij neni, dhe veprojnë në përputhje me masat e parashikuara në pikën 2 të nenit 44 të këtij ligji.
+4. Masat e marra nga personi i autorizuar për kontroll, sipas pikave 2 dhe 3 të këtij neni, përbëjnë masa urgjente dhe, si të tilla, për ato veprohet në përputhje me ligjin nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.

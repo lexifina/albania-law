@@ -1,0 +1,5 @@
+# Neni 42
+Kontrolli i dërguesit, transportuesit ose marrësit
+1. Nëse gjatë kontrollit në rrugë, personat e autorizuar për kontroll identifikojnë të meta, ata duhet të mbikëqyrin sjelljen e dërguesit, transportuesit ose marrësit të mallrave të rrezikshme ose personave të tjerë pjesëmarrës, juridikë ose fizikë, të përfshirë në transportin e mallrave të rrezikshme.
+2. Subjektet janë të detyruara të lejojnë personat e autorizuar për kontroll të inspektojnë mjetin dhe t’i dorëzojnë për njohje të gjitha dokumentet që kanë lidhje me transportin e mallrave të rrezikshme. Të drejtat dhe detyrimet e subjektit janë parashikuar në dispozitat e këtij ligji dhe dispozitat e ligjit nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.
+3. Qëllimi i kontrollit, sipas pikës 1 të këtij neni, është plotësimi i kërkesave të sigurisë në transportin e mallrave të rrezikshme nga subjektet, si dërguesi, transportuesi ose marrësi i mallrave të rrezikshme apo nga subjektet e tjera, pjesëmarrëse në transportin e mallrave të rrezikshme.
