@@ -1,0 +1,1 @@
+1. Miratimin e çmimeve të teksteve shkollore për nxënësit që ndjekin arsimin profesional, nxënësit e pakicave kombëtare, si dhe për nxënësit shqiptarë që jetojnë e arsimohen në diasporë, sipas tabelës nr.1, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+2. Çmimet e shitjes së teksteve shkollore të certifikuara, të miratuara sipas tabelës nr.1, bashkëlidhur këtij vendimi, të vendosen në kopertinën e tyre. Për çdo ribotim, çmimet e teksteve shkollore të miratuara indeksohen në përputhje me rritjen vjetore të inflacionit, të publikuar nga INSTAT-i.

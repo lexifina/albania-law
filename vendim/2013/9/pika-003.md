@@ -1,0 +1,1 @@
+3. Tekstet shkollore u shiten ose u jepen falas nxënësve që ndjekin shkollat e arsimit profesional, nxënësve të pakicave kombëtare dhe nxënësve të familjeve shqiptare që jetojnë e arsimohen në diasporë, në përputhje me aktet ligjore dhe nënligjore në fuqi.
