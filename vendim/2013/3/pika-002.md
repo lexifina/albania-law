@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 (dy) % të pikëve, për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese për dhënien me koncesion të këtij hidrocentrali, që i jepet shoqërisë “Al-Can Hydropower Energy” sh.p.k.
