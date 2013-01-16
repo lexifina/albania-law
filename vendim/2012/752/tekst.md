@@ -4,6 +4,10 @@ Nr. 752, datë 2.11.2012
 
 Për përcaktimin e procedurës dhe të kritereve për caktimin e anëtarëve të bordit drejtues të zyrës së regjistrimit të pasurive të paluajtshme, si dhe të masës së shpërblimit të tyre
 
+(Ndryshuar me VKM nr. 36, datë 16.1.2013)
+
+(I përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 3 të nenit 12 të ligjit nr. 33/2012 “Për regjistrimin e pasurive të paluajtshme”, me propozimin e Ministrit të Drejtësisë, Këshilli i Ministrave
 
 Vendosi:
@@ -116,7 +120,7 @@ V. Dispozita të fundit
 
 3. Ministri i Drejtësisë, brenda 5 (pesë) ditëve nga marrja e njoftimit, sipas pikës 2 të këtij kreu, ushtron përgjegjësitë e përcaktuara në pikën 5 të kreut II të këtij vendimi.
 
-4. Bordi drejtues fillon veprimtarinë e tij menjëherë pas fillimit të funksionimit të Zyrës së Regjistrimit të Pasurive të Paluajtshme si një institucion me vetëfinancim.
+4. Shfuqizuar.
 
 5. Ngarkohen Kryeministri, Ministri i Drejtësisë, Ministri i Financave dhe Zyra e Regjistrimit të Pasurive të Paluajtshme për zbatimin e këtij vendimi.
 
