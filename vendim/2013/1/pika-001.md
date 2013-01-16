@@ -1,0 +1,1 @@
+1. Miratimin e garancisë qeveritare, të lëshuar në favor të Intesa Sanpaolo, sh.a., Albania, në kuadër të kontratës së huas, ndërmjet kësaj banke dhe KESH, sh.a., për shumën 4 200 000 000 (katër miliardë e dyqind milionë) lekë.
