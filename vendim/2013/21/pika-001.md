@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Rubik, të qarkut të Lezhës, që transferohen në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 177 (njëqind e shtatëdhjetë e shtatë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 1327 (një mijë e treqind e njëzet e shtatë).
