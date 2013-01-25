@@ -1,0 +1,1 @@
+1. Miratimin e raportit përfundimtar të vlerësimit të ofertave, paraqitur nga Komisioni i Vlerësimit të Ofertave për privatizimin e shoqërisë “HEC Ulëz - Shkopet” sh.a., i cili i bashkëlidhet këtij vendimi.

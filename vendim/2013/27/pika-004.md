@@ -1,0 +1,1 @@
+4. Ngarkohet Ministria e Financave, që, nëpërmjet Drejtorisë së Përgjithshme të Tatimeve, të bëjë identifikimin e vlerës së TVSH-së së rimbursueshme për shoqërinë “Kurum International” sh.a., përpara nënshkrimit të kontratës.

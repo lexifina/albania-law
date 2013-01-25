@@ -1,0 +1,1 @@
+2. Miratimin e ofertës së shoqërisë “Kurum International” sh.a., si fituese, për blerjen e 100 për qind të aksioneve të shoqërisë “HEC Ulëz - Shkopet” sh.a., me vlerë 57 500 000 (pesëdhjetë e shtatë milionë e pesëqind mijë) euro.
