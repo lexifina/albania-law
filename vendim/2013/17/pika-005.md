@@ -1,0 +1,1 @@
+5. Vlera e shpenzimeve procedurale të shpronësimit, në shumën 1 327 000 (një milion e treqind e njëzet e shtatë mijë) lekë, të përballohet nga “Operatori i Sistemit të Transmetimit” sh.a., si subjekt që garanton shpenzimet procedurale të këtij shpronësimi.
