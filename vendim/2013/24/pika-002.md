@@ -1,0 +1,1 @@
+2. Kuotat e pranimit për kandidatët brenda territorit të vendit, të përcaktuara në shkronjën “a” të pikës 1 të këtij vendimi, të ndara sipas programeve të studimit, pasqyrohen në kolonën D të tabelës nr. 1, bashkëlidhur këtij vendimi.

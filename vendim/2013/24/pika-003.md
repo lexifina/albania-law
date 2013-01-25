@@ -1,0 +1,1 @@
+3. Kuotat e pranimit për kandidatët nga trojet jashtë kufijve të vendit, të përcaktuara në shkronjën “b” të pikës 1 të këtij vendimi, të ndara sipas programeve të studimit, pasqyrohen në kolonën E të tabelës nr. 1, bashkëlidhur këtij vendimi.
