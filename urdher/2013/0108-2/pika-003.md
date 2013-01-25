@@ -1,0 +1,1 @@
+3. Arkivi do të merret në dorëzim me procesverbal në bashkëpunim me Dhomën e Noterisë Vlorë. Arkivi do t’i jepet në ruajtje dhe administrim, brenda një afati 3-mujor, noteres Anila Bardhi, e cila plotëson kushtet teknike për mirëmbajtjen e dokumenteve të arkivit dhe që kryen një shërbim sa më të shpejtë e cilësor të interesuarve, për lëshimin e kopjeve dhe shkurtimin e akteve.
