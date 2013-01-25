@@ -1,0 +1,1 @@
+4. Efektet financiare për pagesën e sigurimeve shoqërore dhe shëndetësore, për vitin 2013, në shumën 47 344 500 (dyzet e shtatë milionë e treqind e dyzet e katër mijë e pesëqind) lekë, që rrjedhin nga zbatimi i këtij vendimi, të mbulohen nga fondet e miratuara për Ministrinë e Arsimit dhe Shkencës në buxhetin e vitit 2013.
