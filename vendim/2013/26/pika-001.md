@@ -1,0 +1,1 @@
+1. Miratimin e raportit përfundimtar të vlerësimit të ofertave, paraqitur nga Komisioni i Vlerësimit të Ofertave, për privatizimin e shoqërisë “HEC Bistrica 1 dhe Bistrica 2” sh.a., që i bashkëlidhet këtij vendimi.

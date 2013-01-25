@@ -1,0 +1,1 @@
+2. Miratimin e ofertës së shoqërisë “Kurum International” sh.a., si fituese për blerjen e 100 për qind të aksioneve të shoqërisë “HEC Bistrica 1 dhe Bistrica 2” sh.a., me vlerë 52 000 000 (pesëdhjetë e dy milionë) euro.
