@@ -1,0 +1,1 @@
+2. Kalimin në përdorim të Komisionit të Prokurimit Publik të disa mjediseve të ndërtesës (godinës) së ish-INIMA-s, të cilat kanë qenë në përdorim nga Avokati i Prokurimeve, sipas planimetrisë bashkëlidhur këtij vendimi.
