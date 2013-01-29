@@ -1,0 +1,1 @@
+3. Urdhri nr. 195/2, datë 3.10.2012 i Ministrit të Drejtësisë “Për rishpërndarjen sipas njësive vendore të numrit të përgjithshëm të noterëve të caktuar në vitin 2011 dhe shpalljen e vendeve vakante”, revokohet.
