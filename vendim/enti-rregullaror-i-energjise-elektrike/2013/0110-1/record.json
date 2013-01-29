@@ -1,0 +1,29 @@
+{
+  "qbz_id": 54373,
+  "title": "Për miratimin e rregullores “Mbi procedurat e emërimit të administratorit dhe kompetencat e tij, në zbatim të nenit 18, pika 4/c të ligjit nr. 9072, datë 22.5.2003 “Për sektorin e energjisë elektrike”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-01-10",
+  "published": "2013-01-29",
+  "in_force": "2013-01-29",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7771209b3a8724d00d43206b90bee606fdf3e1d3085489cfa222142398dbdfef.docx",
+  "source_sha256": "7771209b3a8724d00d43206b90bee606fdf3e1d3085489cfa222142398dbdfef",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54373",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/01/10/1",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62360,
+    10130
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
