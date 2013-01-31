@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9000,
+  "title": "Për disa shtesa në udhëzimin nr. 26, datë 4.9.2008 “Për taksat kombëtare”, të ndryshuar",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "3",
+  "institution": "Ministria e Financave",
+  "adopted": "2013-01-22",
+  "published": "2013-01-31",
+  "in_force": "2013-01-31",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9afbab222495703a823075a14ce16db463effd1dfda786d33d6e41eb692ea9ed.docx",
+  "source_sha256": "9afbab222495703a823075a14ce16db463effd1dfda786d33d6e41eb692ea9ed",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9000",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2013/01/22/3",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
