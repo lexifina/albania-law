@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve të Jashtme, në buxhetin e miratuar për vitin 2013, zëri “Shpenzime korente”, t’i shtohet fondi prej 100 000 (njëqind mijë) USD, për t’ia dhënë qeverisë turke si ndihmë humanitare për përballimin e kostove të strehimit të refugjatëve sirianë.
