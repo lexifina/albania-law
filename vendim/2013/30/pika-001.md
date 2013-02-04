@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2013, t’i shtohet fondi prej 48 802 075 (dyzet e tetë milionë e tetëqind e dy mijë e shtatëdhjetë e pesë) lekësh, për rikonstruksionin e plotë të vilës nr. 4 në Tiranë.
