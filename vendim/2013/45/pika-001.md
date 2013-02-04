@@ -1,0 +1,1 @@
+1. Ministrisë së Drejtësisë, në buxhetin e vitit 2013, t’i shtohet fondi 50 000 (pesëdhjetë mijë) USD, për të përballuar shpenzimet administrative të arbitrazhit ndërkombëtar për çështjen “Burimi s.r.l. & Eagle Games sh.a. kundër Republikës së Shqipërisë”, që zhvillohet në Qendrën Ndërkombëtare për Zgjidhjen e Mosmarrëveshjeve nga Investimet (ISCID).
