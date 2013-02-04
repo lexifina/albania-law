@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9010,
+  "title": "Për një shtesë në vendimin nr. 45, datë 21.1.2009 të Këshillit të Ministrave “Për kryerjen e procedurave të prokurimit publik në mënyrë elektronike”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "47",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-01-23",
+  "published": "2013-02-04",
+  "in_force": "2013-02-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a8778df6c3925b7585bc1619412ceaf7f38a20636a8eae35096e9553a1549920.docx",
+  "source_sha256": "a8778df6c3925b7585bc1619412ceaf7f38a20636a8eae35096e9553a1549920",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9010",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/01/23/47",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
