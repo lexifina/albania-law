@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Këshillit Kombëtar të Radios dhe Televizionit (KKRT), për vitin 2013, për shumën 108 100 000 (njëqind e tetë milionë e njëqind mijë) lekë, sipas pasqyrës nr. 1 që i bashkëlidhet këtij vendimi.
