@@ -1,0 +1,30 @@
+{
+  "qbz_id": 9011,
+  "title": "Për krijimin e Universitetit të Mjekësisë, Tiranë (UMT)",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "48",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-01-23",
+  "published": "2013-02-04",
+  "in_force": "2013-02-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a8bf9beb8cac2014a1638d0433f4e476cebb80239f563a548752cfba9daf1308.docx",
+  "source_sha256": "a8bf9beb8cac2014a1638d0433f4e476cebb80239f563a548752cfba9daf1308",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9011",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/01/23/48",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    15822,
+    65380,
+    9300
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
