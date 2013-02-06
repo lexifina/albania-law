@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion, të formës “ROT” (reabilitim, operim dhe transferim), të Rafinerisë së Naftës Cërrik është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.

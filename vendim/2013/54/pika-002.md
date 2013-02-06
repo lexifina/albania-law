@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 3 (tre) pikësh për rezultatin teknik dhe financiar, në procedurën përzgjedhëse konkurruese (propozim i pakërkuar) për dhënien me koncesion të Rafinerisë së Naftës Cërrik, që i jepet konsorciumit të shoqërive “DAST” sh.a., Durrës, “DELTA” sh.a., Durrës dhe “S.T.N.P.M” sh.p.k., Tiranë.
