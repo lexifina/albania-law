@@ -1,0 +1,4 @@
+15. Monitorimi i pullave të kontrollit të barnave
+15.1 Të gjitha barnat që qarkullojnë në vend, kontrollohen nëpërmjet procesit të monitorimit të pullës së kontrollit, me të cilën pajisen këto barna. Inspektimet kryhen në pikat doganore të hyrjes, depon e importuesit të autorizuar, farmaci, agjenci farmaceutike, si dhe farmacitë e spitaleve/klinikave shtetërore e private etj., nga inspektorët e Autoritetit.
+15.2 Skanerët Sicpamobile duhet të sigurojnë on-line të gjitha të dhënat e hedhura në bazën e të dhënave të sistemit qendror të monitorimit të gjurmëve dhe shenjave, duke garantuar informacionin për çdo bar të pajisur me pullë, pas skanimit të kodit.
+15.3 Pullat e kontrollit të barnave me defekt, pullat e dëmtuara gjatë procesit të aplikimit dhe pullat e tepërta të paaplikuara në paketim, dërgohen për t’u shkatërruar pranë Autoritetit, në përputhje me procedurat e përcaktuara nga legjislacioni në fuqi për administrimin e vlerave materiale dhe monetare.
