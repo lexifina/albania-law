@@ -1,0 +1,1 @@
+1. Kuota e anëtarësimit të Republikës së Shqipërisë në Fondin Monetar Ndërkombëtar, në përputhje me dispozitat e ligjit nr. 105/2012 “Për aderimin e Republikës së Shqipërisë në ndryshimet e neneve të marrëveshjes së Fondit Monetar Ndërkombëtar (FMN)”, rritet për shumën 79.3 (shtatëdhjetë e nëntë pikë tre) milionë SDR.
