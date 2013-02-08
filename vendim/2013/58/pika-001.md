@@ -1,0 +1,1 @@
+1. Sipërfaqet në ngastrat 48/e dhe 49/b të ekonomisë pyjore Milot-Lester, Kurbin, gjithsej 6 (gjashtë) ha, që do të përdoren nga shoqëria “Ndërtimi Kristian” sh.p.k., për shfrytëzimin me karrierë të gëlqerorëve të mermerizuar, të hiqen nga fondi pyjor dhe Kadastra Kombëtare e Pyjeve dhe Kullotave, sipas tabelës 1, që i bashkëlidhet këtij vendimi.

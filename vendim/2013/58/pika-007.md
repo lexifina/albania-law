@@ -1,0 +1,1 @@
+7. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes, sipërfaqja e rehabilituar nga shoqëria “Ndërtimi Kristian” sh.p.k., të riregjistrohet në kadastrën kombëtare si fond pyjor.

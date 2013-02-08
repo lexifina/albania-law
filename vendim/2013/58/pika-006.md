@@ -1,0 +1,2 @@
+6. Me hyrjen në fuqi të këtij vendimi, shoqëria “Ndërtimi Kristian” sh.p.k., në bashkërendim me komunën, të pyllëzojë, me fondet e veta, brenda 2 (dy) viteve 6 (gjashtë) ha fond pyjor, në ngastrat e përcaktuara nga drejtoria përkatëse e shërbimit pyjor.
+Grafiku i punimeve dhe ndjekja deri në marrjen në dorëzim me procesverbal të sipërfaqes së pyllëzuar caktohen nga drejtoria përkatëse e shërbimit pyjor dhe komuna, sipas marrëveshjes që do të lidhet me kërkuesin.
