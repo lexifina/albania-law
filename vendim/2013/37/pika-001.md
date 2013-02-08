@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Brendshme te Ministria e Drejtësisë, të objektit nr. 867/18, me emërtim “Depo nr. 5”, me sipërfaqe të përgjithshme 960 (nëntëqind e gjashtëdhjetë) m², në zonën kadastrale 2529, sipas planvendosjes dhe planimetrive që i bashkëlidhen këtij vendimi, për ta përdorur për sistemimin e arkivave të gjykatave.
