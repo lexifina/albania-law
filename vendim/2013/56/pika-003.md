@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës, në procedurën përzgjedhëse konkurruese për dhënien me koncesion të hidrocentraleve “Bigas dhe Veleshnjë”, duhet të pranojë oferta për të gjithë pjesën e lirë të pellgjeve ujëmbledhëse, të cilat përfshihen në skemën e shfrytëzimit të këtyre hidrocentraleve.
