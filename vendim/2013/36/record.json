@@ -1,0 +1,33 @@
+{
+  "qbz_id": 9018,
+  "title": "Për caktimin e anëtarëve të bordit drejtues të Zyrës së Regjistrimit të Pasurive të Paluajtshme",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "36",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-01-16",
+  "published": "2013-02-08",
+  "in_force": "2013-02-08",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7fe4930f8ae19e7b153474dd331febe891a503c249b7bb7cfd07fc14e033db92.docx",
+  "source_sha256": "7fe4930f8ae19e7b153474dd331febe891a503c249b7bb7cfd07fc14e033db92",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9018",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/01/16/36",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    65220,
+    55620,
+    14220,
+    62155,
+    11839,
+    64242
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
