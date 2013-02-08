@@ -1,0 +1,1 @@
+1. Revokimin e urdhrit nr. 2 të datës 3.12.2004 “Për sekuestrimin e aseteve të shtetasit arab YASIN AL-QADI i njohur dhe si: A) SHAYKH YASSIN ABDULLAH B) YASIN KAHDI C) YASSIN KADI Ç) KADI JASSIN D) YASSIN ABDULLAH KADI” të Ministrit të Financave, i ndryshuar me urdhrat nr. 27, datë 5.7.2006 dhe nr. 36, datë 27.11.2006.

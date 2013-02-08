@@ -1,0 +1,1 @@
+4. Ngarkohet Agjencia e Administrimit të Pasurive të Sekuestruara dhe Konfiskuara për kthimin e pasurive të identifikuara dhe të marra në dorëzim, si dhe të ardhurave të siguruara nga administrimi i tyre, pasi t’i zbriten shpenzimet e lejuara.

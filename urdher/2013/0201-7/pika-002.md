@@ -1,0 +1,1 @@
+2. Ky revokim përfshin të gjitha fondet, llogaritë, asetet, pasuritë e paluajtshme, trojet, investimet në shoqëri tregtare dhe mjetet financiare në emër të shtetasit YASIN AL-QADI të sekuestruara me urdhrat e mësipërm.
