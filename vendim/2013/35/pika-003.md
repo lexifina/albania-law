@@ -1,0 +1,1 @@
+3. Kohëzgjatja e këtij misioni është deri në 2 (dy) vjet, afat i cili fillon të llogaritet nga data e dërgimit të 5 (pesë) përfaqësuesve të parë ushtarakë në Afganistan. Kohëzgjatja për çdo rotacion është 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me përfaqësuesit e radhës.

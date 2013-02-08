@@ -1,0 +1,1 @@
+1. Dërgimin e 5 (pesë) përfaqësuesve ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë në ekipin trajnues të Komandës së Forcave Speciale të NATO-s, në Qendrën e Trajnimit të Policisë Speciale Afgane, në Komandën Rajonale Lindore në Wardak, Afganistan, në kuadër të operacionit ushtarak “ISAF”.
