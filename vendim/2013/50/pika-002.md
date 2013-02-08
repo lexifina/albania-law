@@ -1,0 +1,1 @@
+2. Sipërfaqja 3538 (tremijë e pesëqind e tridhjetë e tetë) m2, pjesë e pronës truall me nr. 8/45, të zonës kadastrale 1420, sipas genplanit përkatës, të hiqet nga lista e inventarit, që i bashkëlidhet vendimit nr. 902, datë 21.12.2011 të Këshillit të Ministrave.

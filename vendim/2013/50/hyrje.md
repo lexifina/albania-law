@@ -1,0 +1,5 @@
+VENDIM
+Nr. 50, datë 16.1.2013
+PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI, NGA BASHKIA ÇOROVODË TE MINISTRIA E EKONOMISË, TREGTISË DHE ENERGJETIKËS, TË SIPËRFAQES PREJ 3538 M2, PJESË E PRONËS TRUALL ME NR. 8/45, TË ZONËS KADASTRALE 1420, ÇOROVODË, DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 902, datë 21.12.2011 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E LISTËS PËRFUNDIMTARE TË PRONAVE TË PALUAJTSHME PUBLIKE, SHTETËRORE, QË TRANSFEROHEN NË PRONËSI OSE NË PËRDORIM TË BASHKISË ÇOROVODË TË QARKUT TË BERATIT”
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 8, 13 e 15 të ligjit nr. 8743, datë 22.2.2001 “Për pronat e paluajtshme të shtetit”, të ndryshuar, me propozimin e Zëvendëskryeministrit dhe Ministër i Ekonomisë, Tregtisë dhe Energjetikës, Këshilli i Ministrave
+VENDOSI:

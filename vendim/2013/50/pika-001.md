@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga bashkia Çorovodë te Ministria e Ekonomisë, Tregtisë dhe Energjetikës, të sipërfaqes prej 3538 (tre mijë e pesëqind e tridhjetë e tetë) m2, pjesë e pronës truall me nr. 8/45, të zonës kadastrale 1420, Çorovodë, për t’u përdorur për ndërtimin e godinës së centralit të HEC-it Vlushë.
