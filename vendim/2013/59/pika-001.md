@@ -1,0 +1,1 @@
+1. Heqjen nga fondi kullosor kombëtar të sipërfaqeve në ngastrat 20 dhe 24, të ekonomisë kullosore “Dhëmbel”, Përmet, që do të përdoren nga subjekti “Flutone” sh.p.k., për karrierë guri, dhe çregjistrimin nga zëri kadastral “kullotë” të sipërfaqes prej 7 (shtatë) ha, sipas tabelës 1, që i bashkëlidhet këtij vendimi.
