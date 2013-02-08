@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 (dy) pikësh për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese (propozim i pakërkuar) për dhënien me koncesion të hidrocentraleve “Prishta 1, 2”, që i jepet shoqërisë “DESTAXHEI” sh.p.k.
