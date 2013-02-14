@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit suedez nr. TF012392, ndërmjet Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), e cila vepron si administratore e fondeve grant të siguruara nga Suedia, për bashkëfinancimin e projektit të menaxhimit dhe administrimit të tokës, nëpërmjet një granti prej 18 711 000 SEK (tetëmbëdhjetë milionë e shtatëqind e njëmbëdhjetë mijë korona suedeze)”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
