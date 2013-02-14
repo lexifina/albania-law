@@ -1,0 +1,1 @@
+3. Në listën e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr. 515, datë 18.7.2003 të Këshillit të Ministrave, të ndryshuar, të hiqet prona nr. 830, me emërtim “Batalioni i tankeve”, Frakull, Fier.

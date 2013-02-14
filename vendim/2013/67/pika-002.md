@@ -1,0 +1,1 @@
+2. Komunës Frakull i ndalohet ta ndryshojë destinacionin e përdorimit, ta tjetërsojë ose t’ua japë në përdorim të tretëve pronën nr. 830, me emërtim “Batalioni i tankeve”, në Frakull, Fier, të përcaktuar në pikën 1 të këtij vendimi.

@@ -1,0 +1,1 @@
+1. Transferimin në pronësi, nga Ministria e Mbrojtjes te komuna Frakull, Fier, të pronës nr. 830, me emërtim “Batalioni i tankeve”, në Frakull, Fier, sipas formularit standard të inventarizimit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, për ta përdorur për nevoja të komunës.
