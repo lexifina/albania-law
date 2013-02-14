@@ -4,7 +4,7 @@ Nr.9115, datë 24.7.2003
 
 PËR TRAJTIMIN MJEDISOR TË UJËRAVE TË NDOTURA
 
-(Ndryshuar me ligjin nr. 10 448, datë 14.7.2011)
+(Ndryshuar me ligjin nr. 10 448, datë 14.7.2011; nr. 34/2013, datë 14.2.2013)
 
                                                                                                                          (i përditësuar)
 
@@ -86,7 +86,7 @@ Neni 4
 
 Detyrat e organeve shtetërore
 
-1. Ministria e Mjedisit, agjencitë rajonale dhe Inspektorati i Mjedisit, krahas organeve të ngarkuara me ligj për administrimin e rezervave ujore, ndihmojnë funksionimin e procesit të trajtimit mjedisor të ujërave të ndotura dhe kontrollojnë zbatimin e tij në të gjitha nivelet.
+1. Ministria e Mjedisit, agjencitë rajonale dhe Inspektorati që mbulon fushën e mbrojtjes së mjedisit, krahas organeve të ngarkuara me ligj për administrimin e rezervave ujore, ndihmojnë funksionimin e procesit të trajtimit mjedisor të ujërave të ndotura dhe kontrollojnë zbatimin e tij në të gjitha nivelet.
 
 2. Organet shtetërore, qendrore e vendore, secili në linjën e vet, bashkëpunojnë me Ministrinë e Mjedisit për:
 
@@ -156,7 +156,7 @@ v) trajtimit të llumrave dhe të lëndëve të ngurta, që dalin nga impiantet 
 
 vi) zbatimit të normave të lejuara të shkarkimeve të lëngëta dhe të metodave e teknologjive bashkëkohore të trajtimit të ujërave të ndotura.
 
-2. Për plotësimin e këtyre detyrimeve, personi fizik ose juridik, veprimtaria e të cilit shkarkon ujëra të ndotura, harton programin e masave teknike, teknologjike e organizative të trajtimit të tyre, i cili kontrollohet nga Inspektorati i Mjedisit, organi që e ka licencuar veprimtarinë dhe nga organet e qeverisjes vendore të zonës.
+2. Për plotësimin e këtyre detyrimeve, personi fizik ose juridik, veprimtaria e të cilit shkarkon ujëra të ndotura, harton programin e masave teknike, teknologjike e organizative të trajtimit të tyre, i cili kontrollohet nga Inspektorati që mbulon fushën e mbrojtjes së mjedisit, organi që e ka licencuar veprimtarinë dhe nga organet e qeverisjes vendore të zonës.
 
 Neni 7
 
@@ -260,7 +260,7 @@ Trajtimi i ujërave të ndotura urbane në zonat më pak të ndjeshme
 
 1. Shkarkimet e lëngëta urbane në zonat më pak të ndjeshme u nënshtrohen procedurave të trajtimit parësor, me kusht që të mos ketë rritje të ndikimeve negative në mjedisin pritës.
 
-2. Nëse Inspektorati i Mjedisit vëren se ka dhe vazhdon të ketë ndikime negative në mjedisin pritës, urdhëron trajtimin dytësor të shkarkimeve të lëngëta urbane.
+2. Nëse Inspektorati që mbulon fushën e mbrojtjes së mjedisit vëren se ka dhe vazhdon të ketë ndikime negative në mjedisin pritës, urdhëron trajtimin dytësor të shkarkimeve të lëngëta urbane.
 
 Neni 14
 
@@ -296,7 +296,7 @@ Neni 17
 
 Rehabilitimi i mjedisit pritës
 
-Kur Inspektorati i Mjedisit vëren tejkalime të normave të lejuara të shkarkimeve të lëngëta në mjedisin pritës, urdhëron ndërprerjen e shkarkimeve të mëtejshme, deri në rehabilitimin e mjedisit të ndotur dhe respektimin e normave.
+Kur Inspektorati që mbulon fushën e mbrojtjes së mjedisit vëren tejkalime të normave të lejuara të shkarkimeve të lëngëta në mjedisin pritës, urdhëron ndërprerjen e shkarkimeve të mëtejshme, deri në rehabilitimin e mjedisit të ndotur dhe respektimin e normave.
 
 KREU IV
 
@@ -340,9 +340,9 @@ KONTROLLI
 
 Neni 21
 
-1. Inspektorati i Mjedisit, organi që ka lincencuar veprimtarinë, inspektorati sanitar dhe inspektorati bashkiak ushtrojnë kontrolle për respektimin e normave të shkarkimeve të lëngëta.
+1. Inspektorati që mbulon fushën e mbrojtjes së mjedisit, organi që ka lincencuar veprimtarinë, Inspektorati që mbulon fushën e shëndetit dhe inspektorati bashkiak ushtrojnë kontrolle për respektimin e normave të shkarkimeve të lëngëta.
 
-2. Inspektorati i Mjedisit kontrollon zbatimin e rregullave dhe të kërkesave për trajtimin mjedisor të ujërave të ndotura dhe kushtet e vendosura në lejen mjedisore.
+2. Inspektorati që mbulon fushën e mbrojtjes së mjedisit kontrollon zbatimin e rregullave dhe të kërkesave për trajtimin mjedisor të ujërave të ndotura dhe kushtet e vendosura në lejen mjedisore.
 
 KREU VII
 
@@ -370,7 +370,7 @@ Neni 23
 
 Kundërvajtjet administrative
 
-1. Kur shkeljet e kërkesave të këtij ligji përbëjnë vepër penale, sipas kreut “Vepra penale kundër mjedisit” të Kodit Penal, Inspektorati i Mjedisit bën kallëzim për ndjekje penale.
+1. Kur shkeljet e kërkesave të këtij ligji përbëjnë vepër penale, sipas kreut “Vepra penale kundër mjedisit” të Kodit Penal, Inspektorati që mbulon fushën e mbrojtjes së mjedisit bën kallëzim për ndjekje penale.
 
 2. Shkeljet e kërkesave të këtij ligji, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative, për rastet si më poshtë:
 
@@ -396,27 +396,31 @@ g) mosvënia në dijeni e popullatës për ndotjen e ujërave, për rreziqet e m
 
 Neni 24
 
-Masat e gjobës për kundërvajtjet administrative dhe sanksione të tjera
+Dënimet dhe masat urgjente 
 
-1. Për kundërvajtjet administrative, të parashikuara në nenin 23 të këtij ligji, Inspektorati i Mjedisit jep dënime me gjobë:
+(Ndryshuar me ligjin nr. 34/2013, datë 14.2.2013)
 
-a) për shkronjat "e", "ë", "f " dhe "g" nga 100 000 deri në 300 000 lekë; 
+1. Për kundërvajtjet administrative, të parashikuara në nenin 23 të këtij ligji, inspektorati që mbulon fushën e mbrojtjes së mjedisit jep dënim kryesor me gjobë si më poshtë:
 
-b) për shkronjat "a", "b", "c" dhe "dh" nga 300 000 deri në 500 000 lekë;
+a) Për shkronjat “e”, “ë”, “f” dhe “g” nga 100 000 deri në 300 000 lekë; 
 
-c) për shkronjat "ç" dhe "d" nga 500 000 deri në 1 000 000 lekë.
+b) Për shkronjat “a”, “b”, “e” dhe “dh” nga 300 000 deri në 500 000 lekë;	 
 
-2. Krahas dënimit me gjobë, Inspektorati i Mjedisit mund të vendosë mbylljen e përkohshme ose të përhershme të veprimtarisë, në varësi të ndotjes dhe dëmtimit të shkaktuar.
+c) Për shkronjat “ç” dhe “d” nga 500 000 deri në 1 000 000 lekë.
 
-3. Shqyrtimi i kundërvajtjeve administrative bëhet në përputhje me ligjin nr.7697, datë 7.4.1993 “Për kundërvajtjet administrative”, i ndryshuar.
+2. Krahas dënimit me gjobë, inspektorati që mbulon fushën e mbrojtjes së mjedisit mund të vendosë edhe dënimin plotësues të mbylljes së përkohshme ose të përhershme të veprimtarisë, në varësi të ndotjes dhe dëmtimit të shkaktuar.
+
+3. Shqyrtimi dhe marrja përfundimtare e vendimit bëhen në përputhje me ligjin nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.
+
+4. Sipas nevojave të rastit, në përputhje me këtë ligj dhe ligjin për inspektimin, inspektorati merr masa urgjente.
 
 Neni 25
 
 Ankimi
 
-1. Kundër vendimit të Inspektoratit të Mjedisit mund të bëhet ankim te Ministri i Mjedisit brenda 10 ditëve nga marrja e njoftimit. Ministri i përgjigjet ankimit brenda 15 ditëve nga depozitimi i tij.
+(Ndryshuar me ligjin nr. 34/2013, datë 14.2.2013)
 
-2. Kundër vendimit të Ministrit të Mjedisit ose kur ky i fundit nuk përgjigjet brenda afatit 15-ditor, mund të bëhet ankim brenda 30 ditëve nga marrja e njoftimit në gjykatën e rrethit ku është bërë kundërvajtja.
+Kundër vendimit të inspektoratit mund të bëhet ankim në përputhje me ligjin për inspektimin.
 
 Neni 26
 
@@ -425,6 +429,12 @@ Nxjerrja e akteve nënligjore
 1. Ngarkohet Këshilli i Ministrave të nxjerrë aktet nënligjore në zbatim të neneve 11 pika 1 shkronja "b", 14 pika 2 dhe 16 pika 2 të këtij ligji, brenda 3 muajve pas miratimit të tyre nga Kuvendi.
 
 2. Ngarkohet Ministri i Mjedisit të nxjerrë aktet nënligjore në zbatim të pikës 2 të nenit 7 të këtij ligji, brenda 3 muajve pas miratimit të tyre nga Kuvendi.
+
+Dispozitë kalimtare
+
+(e ligjit nr. 34/2013, datë 14.2.2013)
+
+Organi ekzistues inspektues vazhdon të ushtrojë funksionin e vet sipas organizimit aktual deri në krijimin e organit të ri, sikurse parashikohet në ndryshimet e bëra në këtë ligj.
 
 Neni 27
 
