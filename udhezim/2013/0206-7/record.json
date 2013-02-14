@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9042,
+  "title": "Për një shtesë në udhëzimin nr. 17, datë 13.5.2008 “Për tatimin mbi vlerën e shtuar”, të ndryshuar",
+  "type": "Udhëzim",
+  "kind": "Akt ndryshues",
+  "number": "7",
+  "institution": "Ministria e Financave",
+  "adopted": "2013-02-06",
+  "published": "2013-02-14",
+  "in_force": "2013-02-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b24838562360961c7edf5dd8b0d9d538d8d5461a966e48b62130549ea10c4e4c.docx",
+  "source_sha256": "b24838562360961c7edf5dd8b0d9d538d8d5461a966e48b62130549ea10c4e4c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9042",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2013/02/06/7",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
