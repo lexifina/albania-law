@@ -1,0 +1,1 @@
+10. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Durrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në çastin kur të realizohet procesi i hedhjes së trupit të rrugës në hartat treguese (kadastrale) të regjistrimit, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
