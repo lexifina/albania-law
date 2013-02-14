@@ -1,0 +1,1 @@
+1. Të shpallë të mbyllura negocimet e kontratës së shitjes së aksioneve ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë fituese të tenderit të privatizimit “Vetro Energy PTE Ltd.”, për shkak të dështimit të kësaj shoqërie në nënshkrimin brenda afateve ligjore të kontratës së shitjes së aksioneve të shoqërisë “Albpetrol” sh.a.
