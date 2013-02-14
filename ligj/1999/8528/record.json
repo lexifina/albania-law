@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123822,
+  "title": "PËR NXITJEN DHE MBROJTJEN E të USHQYERIT ME GJI",
+  "type": "Ligj",
+  "number": "8528",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-09-23",
+  "version_no": 1,
+  "qbz_version_id": 10822,
+  "in_force": "2013-02-14",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2013-02-14",
+  "changed_by_qbz_id": 9193,
+  "changed_by_number": "58-2013",
+  "changed_by_title": "Për disa ndryshime në ligjin nr. 8528, datë 23.9.1999 “Për nxitjen dhe mbrojtjen e të ushqyerit me gji”",
+  "source": "https://qbz.gov.al/files/323fb1e5224dbc2fff5986e2062247d1b6ca546d1007b206f999ab4140747089.docx",
+  "source_sha256": "323fb1e5224dbc2fff5986e2062247d1b6ca546d1007b206f999ab4140747089",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123822",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123822/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
