@@ -1,0 +1,21 @@
+1. Miratimin e kalimit në pronësi të poseduesve të objekteve informale, të sipërfaqeve të parcelave ndërtimore, sipas listës që i bashkëlidhet këtij vendimi, përkatësisht për:
+a) Drejtorinë e ALUIZNI-t Tirana 1, 39 (tridhjetë e nëntë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 10 415,3 (dhjetë mijë e katërqind e pesëmbëdhjetë presje tre) m²;
+b) Drejtorinë e ALUIZNI- t Tirana 2, 14 (katërmbëdhjetë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 5 729 (pesë mijë e shtatëqind e njëzet e nëntë) m²;
+c) Drejtorinë e ALUIZNI-t Tirana 3, 40 (dyzet) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 2 059,47 (dy mijë e pesëdhjetë e nëntë presje dyzet e shtatë) m²;
+ç) Drejtorinë e ALUIZNI-t Kavajë, 13 (trembëdhjetë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 3 775,09 ( tri mijë e shtatëqind e shtatëdhjetë e pesë presje zero nëntë) m²;
+d) Drejtorinë e ALUIZNI-t Durrës, 47 (dyzet e shtatë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 16 443 (gjashtëmbëdhjetë mijë e katërqind e dyzet e tre) m²;
+dh) Drejtorinë e ALUIZNI-t Vlora 1, 92 (nëntëdhjetë e dy) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 32 708 ( tridhjetë e dy mijë e shtatëqind e tetë ) m²;
+e) Drejtorinë e ALUIZNI-t Vlora 2, 86 (tetëdhjetë e gjashtë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 31 680 (tridhjetë e një mijë e gjashtëqind e tetëdhjetë ) m²;
+ë) Drejtorinë e ALUIZNI-t Sarandë, 212 (dyqind e dymbëdhjetë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 85 734,5 (tetëdhjetë e pesë mijë e shtatëqind e tridhjetë e katër presje pesë) m²;
+f) Drejtorinë e ALUIZNI-t Berat, 59 (pesëdhjetë e nëntë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 13 230,81 (trembëdhjetë mijë e dyqind e tridhjetë presje tetëdhjetë e një) m²;
+g) Drejtorinë e ALUIZNI-t Shkodër, 99 (nëntëdhjetë e nëntë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 15 986,56 (pesëmbëdhjetë mijë e nëntëqind e tetëdhjetë e gjashtë presje pesëdhjetë e gjashtë) m²;
+gj) Drejtorinë e ALUIZNI-t Fier 1, 15 (pesëmbëdhjetë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 4 168,9 (katër mijë e njëqind e gjashtëdhjetë e tetë presje nëntë) m²;
+h) Drejtorinë e ALUIZNI-t Fier 2, 231 (dyqind e tridhjetë e një) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 83 993,2 (tetëdhjetë e tri mijë e nëntëqind e nëntëdhjetë e tri presje dy) m²;
+i) Drejtorinë e ALUIZNI-t Lushnjë, 70 (shtatëdhjetë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 15 329,89 (pesëmbëdhjetë mijë e treqind e njëzet e nëntë presje tetëdhjetë e nëntë) m²;
+j) Drejtorinë e ALUIZNI- t Elbasan 1, 33 (tridhjetë e tri) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 6 473.7 (gjashtë mijë e katërqind e shtatëdhjetë e tri presje shtatë) m²;
+k) Drejtorinë e ALUIZNI-t Elbasan 2, 36 (tridhjetë e gjashtë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 9 483,2 (nëntë mijë e katërqind e tetëdhjetë e tri presje dy) m²;
+l) Drejtorinë e ALUIZNI-t Dibër, 20 (njëzet) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 1 464,71 (një mijë e katërqind e gjashtëdhjetë e katër presje shtatëdhjetë e një) m²;
+ll) Drejtorinë e ALUIZNI-t Gjirokastër, 13 (trembëdhjetë) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 512,1 (pesëqind e dymbëdhjetë presje një) m²;
+m) Drejtorinë e ALUIZNI-t Korçë, 3 (tri) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 491,1 (katërqind e nëntëdhjetë e një presje një) m²;
+n) Drejtorinë e ALUIZNI-t Pogradec, 3 (tri) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 870 (tetëqind e shtatëdhjetë) m²;
+nj) Drejtorinë e ALUIZNI-t Krujë, 122 (njëqind e njëzet e dy) parcela ndërtimore, me sipërfaqe të përgjithshme trualli 33 098,8 (tridhjetë e tri mijë e nëntëdhjetë e tetë presje tetë) m²;
