@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave dhe veprimeve që duhet të kryejnë nëpunësit e shërbimit të gjendjes civile në bashki/njësi bashkiake/komuna, për ndryshimin e vendbanimit/adresës së shtetasve”, të hartuar nga Drejtoria e Përgjithshme e Gjendjes Civile.
