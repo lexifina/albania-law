@@ -1,0 +1,1 @@
+3. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme, në përputhje me këtë vendim, të kryejë ndryshimet përkatëse në regjistrat e pasurive të paluajtshme, për kalimin e pasurisë së paluajtshme të kompesuar, në pronësi të shtetit.
