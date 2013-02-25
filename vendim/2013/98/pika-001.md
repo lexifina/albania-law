@@ -1,0 +1,1 @@
+1. Miratimin e listës së Standardeve të Harmonizuara Shqiptare, që kanë karakter referues për prezumimin e konformitetit të produkteve të ndërtimit, sipas listës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
