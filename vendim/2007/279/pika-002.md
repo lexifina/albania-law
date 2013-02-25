@@ -1,1 +1,0 @@
-2. Çdo person fizik e juridik, vendas dhe i huaj, që prodhon dhe tregton materiale ndërtimi, sipas listës, që i bashkëlidhet këtij vendimi, përpara hedhjes në treg të tyre, duhet të kryejë vlerësimin e konformitetit, në rast se nuk janë të shoqëruara me markën e konformitetit.
