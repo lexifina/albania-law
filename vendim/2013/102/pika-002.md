@@ -1,0 +1,1 @@
+2. Mbulimi i çmimeve të barnave të listës së barnave që rimbursohen, sipas klasifikimit ATC, të jetë në masën 50 për qind deri në 100 për qind, sipas grupeve terapeutike dhe barnave të përcaktuara në pasqyrën I, që i bashkëlidhet këtij vendimi.
