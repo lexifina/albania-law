@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9104,
+  "title": "Për një shtesë në vendimin nr. 424, datë 2.6.2010 të Këshillit të Ministrave “Për miratimin e rregullores për sistemin e akreditimit, organizimin dhe veprimtarinë e institucioneve të sigurimit të jashtëm të cilësisë”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "101",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-02-06",
+  "published": "2013-02-27",
+  "in_force": "2013-02-27",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f10e051d4c6a30474ce6d863d69606b326c41eac3bb48a9d9626ae55b5e2d42c.docx",
+  "source_sha256": "f10e051d4c6a30474ce6d863d69606b326c41eac3bb48a9d9626ae55b5e2d42c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9104",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/02/06/101",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
