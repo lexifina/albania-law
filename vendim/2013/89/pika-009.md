@@ -1,0 +1,1 @@
+9. Për informimin mediatik të publikut, lidhur me masat e mbështetjes nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2013, të përdoret nga ky fond vlera prej 5 000 000 (pesë milionë) lekësh.

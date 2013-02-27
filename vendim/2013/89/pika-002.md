@@ -1,0 +1,1 @@
+2. Fondet e transfertës së pakushtëzuar, që do të përdoren për pemëtari, sipas ligjit nr. 119/2012 “Për buxhetin e vitit 2013”, do t’i bashkëngjiten këtij fondi dhe për këto fonde do të ndiqen të gjitha procedurat e vlerësimit, të përcaktuara për këtë qëllim në udhëzimin e përbashkët të Ministrit të Financave dhe të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

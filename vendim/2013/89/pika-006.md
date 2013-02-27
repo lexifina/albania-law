@@ -1,0 +1,1 @@
+6. Projektet e vlerësuara dhe të papaguara gjatë vitit 2012, për mbjelljen e arrorëve, shegëve, subtropikaleve, ullinjve, pemëve frutore, vreshtave dhe bimëve medicinave, që plotësojnë kushtet për pagesë, të financohen nga fondet e planifikuara të vitit 2013, sipas pagesave të përcaktuara në këtë vendim.
