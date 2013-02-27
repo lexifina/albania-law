@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, e Shoqatës Rajonale për Menaxhimin e Mbetjeve të Ngurta, Korçë (KRWM) dhe KfW Frankfurt am Main, për financimin e masave shoqëruese të projektit “Menaxhimi i mbetjeve të ngurta në Shqipërinë Juglindore”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
