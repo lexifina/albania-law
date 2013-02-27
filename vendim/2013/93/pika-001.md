@@ -1,0 +1,1 @@
+1. Hapjen e pikës së përbashkët të kalimit kufitar në Grabon të rrethit të Malësisë së Madhe, në kufirin shtetëror tokësor të Republikës së Shqipërisë me Malin e Zi, për qarkullimin ndërkombëtar të shtetasve dhe autoveturave.
