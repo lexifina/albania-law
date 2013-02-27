@@ -1,0 +1,1 @@
+1. Hapjen e pikës së përbashkët të kalimit ndërkufitar (lokale) në Trebisht të rrethit të Bulqizës, në kufirin shtetëror tokësor të Republikës së Shqipërisë me Maqedoninë, për qarkullim lokal të shtetasve dhe autoveturave.
