@@ -1,0 +1,1 @@
+1. Fillimin e realizimit të procesit të mbikëqyrjes elektronike ndaj subjekteve të parashikuara nga neni 4 i ligjit nr. 10 494, datë 22.12.2011 “Për mbikëqyrjen elektronike të personave, të cilëve u kufizohet lëvizja me vendim gjyqësor”, gjykimi i të cilave është në kompetencë të Gjykatës së Rrethit Gjyqësor, Tiranë dhe Gjykatës së Apelit, Tiranë.

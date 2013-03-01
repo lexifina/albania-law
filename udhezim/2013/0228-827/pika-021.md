@@ -1,0 +1,1 @@
+21. Drejtoria e Përgjithshme e Shërbimit të Provës, Prokuroria dhe Drejtoria e Përgjithshme e Policisë së Shtetit, brenda 5 ditëve nga hyrja në fuqi e këtij udhëzimi, i njoftojnë njëra-tjetrës dhe shkëmbejnë të dhënat e kontaktit për punonjësit përgjegjës për një komunikim të drejtpërdrejtë lidhur me procesin e mbikëqyrjes elektronike, në rastet kur paraqitet nevoja dhe urgjenca.

@@ -1,0 +1,3 @@
+3. Gjatë zbatimit të projektit pilot ndaj subjekteve që gjykohen në Gjykatën e Shkallës së Parë, Tiranë dhe Gjykatën e Apelit, Tiranë, mbikëqyrja elektronike vendoset vetëm ndaj subjekteve të parashikuara nga neni 4 i ligjit nr. 10 494, datë 22.12.2011 “Për mbikëqyrjen elektronike të personave, të cilëve u kufizohet lëvizja me vendim gjyqësor”:
+a) të cilët paraqesin rrezikshmëri të ulët shoqërore, ku përfshihen personat e mitur dhe personat që akuzohen për një vepër penale që dënohet në maksimum jo më shumë se 5 vjet;
+b) ndaj të cilëve është lëshuar, me vendim gjyqësor, një urdhër mbrojtjeje ose një urdhër i menjëhershëm mbrojtjeje, sipas neneve 17 dhe 19 të ligjit nr. 9669, datë 18.12.2006 “Për masat ndaj dhunës në marrëdhëniet familjare”, të ndryshuar.

@@ -1,0 +1,1 @@
+4. Prokurori, në kuptim të nenit 6 të ligjit nr. 10 494, datë 22.12.2011 “Për mbikëqyrjen elektronike të personave, të cilëve u kufizohet lëvizja me vendim gjyqësor”, mund të kërkojë përdorimin e mbikëqyrjes elektronike vetëm për kategorinë e subjekteve të parashikuara në pikën 3.

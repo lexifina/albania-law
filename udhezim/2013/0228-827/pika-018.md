@@ -1,0 +1,1 @@
+18. Drejtoria e Policisë së Qarkut angazhohet duke vënë në dispozicion të punonjësve përgjegjës, për realizimin e mbikëqyrjes elektronike, numrat e tyre të kontaktit, të cilët duhet të jenë të disponueshëm në çdo kohë, duke mos cenuar procesin e mbikëqyrjes elektronike.

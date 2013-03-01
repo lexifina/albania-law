@@ -1,0 +1,1 @@
+11. Prokurori mbikëqyr procedurën e vendosjes dhe të heqjes së pajisjes, rregullshmërinë e funksionimit të saj, si dhe kërkon informacione mbi ekzekutimin e vendimit gjyqësor. Shërbimi i Provës informon prokurorin mbi ecurinë e mbikëqyrjes elektronike sa herë që kërkohet prej tij.

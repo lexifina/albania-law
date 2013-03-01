@@ -1,0 +1,1 @@
+5. Vendimi gjyqësor për vendosjen e mbikëqyrjes elektronike ekzekutohet vullnetarisht nga subjekti në mënyrën, kohën dhe vendin e caktuar nga gjykata. Vetëm në rastet e mosekzekutimit vullnetar, bëhet ekzekutimi i detyrueshëm, konform kërkesave të ligjit nr. 8331, datë 21.4.1998 “Për ekzekutimin e vendimeve penale”, të ndryshuar.

@@ -1,0 +1,1 @@
+7. Urdhri i ekzekutimit të vendimit gjyqësor, i nxjerrë nga prokurori apo gjykata, i cili përmban vendin dhe kohën për vendosjen dhe heqjen e pajisjes, i njoftohet subjektit dhe Shërbimit të Provës. Subjekti është i detyruar të paraqitet në vendin dhe kohën e përcaktuar për vendosjen e pajisjes.

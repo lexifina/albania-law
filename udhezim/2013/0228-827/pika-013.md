@@ -1,0 +1,1 @@
+13. Kur subjekti nuk është në gjendje të përmbushë detyrimet e vendosura nga gjykata, për shkak të ndryshimit të rrethanave, Shërbimi i Provës njofton menjëherë prokurorin. Shërbimi i Provës mund t’i propozojë prokurorit ndryshimin, sipas ligjit, të kushteve dhe detyrimeve të subjektit, pasi verifikon faktet dhe rrethanat e mospërmbushjes së tyre.
