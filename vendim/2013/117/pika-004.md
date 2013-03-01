@@ -1,0 +1,1 @@
+4. Kur ndonjë trajtim që përmendet në seksionin 3.3 të aneksit I ose në seksionin 3.3 të aneksit II, kryhet nga një mbajtës i mëparshëm, prodhuesi do të sigurojë që furnizuesi të zbatojë një sistem menaxhimi cilësie, i cili të përputhet me kërkesat e këtij kreu.

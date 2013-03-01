@@ -1,0 +1,1 @@
+6. Importuesi do t’u kërkojë furnizuesve të tij të zbatojnë një sistem menaxhimi cilësie, i cili të përputhet me kërkesat e pikave 1, 2 e 3 të këtij kreu dhe të verifikuar nga një verifikues i pavarur i jashtëm.

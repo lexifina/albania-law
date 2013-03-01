@@ -1,0 +1,1 @@
+2. Prodhuesi ose importuesi do ta transmetojë deklaratën e konformitetit te mbajtësi tjetër i dërgesës së metalit skrap. Prodhuesi ose importuesi do të mbajë një kopje të deklaratës së konformitetit, për të paktën një vit pas datës së lëshimit dhe do ta vërë atë në dispozicion të autoriteteve kompetente sipas kërkesës së tyre.
