@@ -1,0 +1,3 @@
+1. Ministrisë së Punëve të Jashtme, në buxhetin e miratuar për vitin 2013, në programin 01120 “Mbështetje diplomatike jashtë shtetit”, t’i shtohen fondet për pagesën e kontributeve financiare të fondeve të përbashkëta të NATO-s, respektivisht në shumat, si më poshtë vijon:
+a) Për “Fondin e përbashkët”, për vitin 2012, për ndërtesën e re të selisë së NATO-s, në vlerën 100 415 (njëqind mijë e katërqind e pesëmbëdhjetë) euro, e barasvlershme me vlerën në lekë.
+b) Për “Fondin kombëtar”, për vitin 2012, për ndërtesën e re të selisë së NATO-s, në vlerën 418 943 (katërqind e tetëmbëdhjetë mijë e nëntëqind e dyzet e tre) euro, e barasvlershme me vlerën në lekë.
