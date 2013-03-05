@@ -1,0 +1,3 @@
+# Neni 4
+Shoqëria “Devoll Hydropower”, sh.a., brenda 3 viteve nga data e hyrjes në fuqi të këtij ligji, duhet të pyllëzojë, me fondet e veta, një sipërfaqe prej 1347,8 (një mijë e treqind e dyzet e shtatë presje tetë) ha me pyje dhe të përmirësojë një sipërfaqe prej 73,6 (shtatëdhjetë e tre presje gjashtë) ha kullotë, në ngastrat e përcaktuara nga drejtoria përkatëse e shërbimit pyjor, në bashkëpunim me njësitë e qeverisjes vendore.
+Lloji i drurëve, që do të mbillen, e grafiku i mbjelljeve caktohen nga drejtoria përkatëse e shërbimit pyjor, në bashkëpunim me njësinë e qeverisjes vendore, e cila ndjek mbjelljet deri në marrjen në dorëzim, me procesverbal, të sipërfaqes së pyllëzuar dhe kullotës së përmirësuar, sipas marrëveshjes që do të lidhet ndërmjet tyre.
