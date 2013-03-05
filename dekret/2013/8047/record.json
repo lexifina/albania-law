@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56374,
+  "title": "Për shpallje ligji dhe dhënien e pëlqimit për hyrjen në fuqi menjëherë të ligjit",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8047",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-03-05",
+  "published": "2013-03-05",
+  "in_force": "2013-03-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b4b9b2262ed664f446ea0733cf2d6c6af87be5965495bae82e80011e9846c19e.docx",
+  "source_sha256": "b4b9b2262ed664f446ea0733cf2d6c6af87be5965495bae82e80011e9846c19e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56374",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/03/05/8047",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
