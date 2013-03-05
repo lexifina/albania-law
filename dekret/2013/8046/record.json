@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56372,
+  "title": "Për shpallje ligji dhe dhënien e pëlqimit për hyrjen në fuqi menjëherë të ligjit",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8046",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-03-05",
+  "published": "2013-03-05",
+  "in_force": "2013-03-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/dcb29f8f66f73bef5db9f05cf0ba74376b23d76d21957359eb348b7a85aa784d.docx",
+  "source_sha256": "dcb29f8f66f73bef5db9f05cf0ba74376b23d76d21957359eb348b7a85aa784d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56372",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/03/05/8046",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
