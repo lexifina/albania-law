@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9045,
+  "title": "Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Kosovës për transferimin e personave të dënuar",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "1-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-01-31",
+  "published": "2013-02-18",
+  "in_force": "2013-03-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/8792dcfe4932a92fc0db56bd086817f5503fc07caf2b9a15383d8e5751877668.docx",
+  "source_sha256": "8792dcfe4932a92fc0db56bd086817f5503fc07caf2b9a15383d8e5751877668",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9045",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/01/31/1-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
