@@ -4,7 +4,7 @@ Nr.197, datë 16.3.2011
 
 PËR PJESËMARRJEN E FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË NË OPERACIONIN USHTARAK NDËRKOMBËTAR KFOR, KOSOVË
 
-(Ndryshuar me VKM nr. 172, datë 6.3.2012; nr. 447, datë 11.7.2012)
+(Ndryshuar me VKM nr. 172, datë 6.3.2012; nr. 447, datë 11.7.2012; nr. 196, datë 6.3.2013)
 
 (i përditësuar)
 
@@ -12,35 +12,41 @@ Në mbështetje të nenit 100 të Kushtetutës, të nenit 7 të ligjit nr.9363, 
 
 VENDOSI:
 
-1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar KFOR, Kosovë, të   10 (dhjetë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
+1. Pjesëmarrjen në operacionin ushtarak ndërkombëtar KFOR, Kosovë, të   9 (nëntë) ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë.
 
 2. Misioni është planizimi, monitorimi, komandimi dhe kontrolli i aktivitetit operacional të seksioneve dhe njësive të KFOR-it.
 
-3. Kohëzgjatja e misionit është deri 2 (dy) vjet, me rotacion 6 (gjashtë) muaj, së cilës i shtohet edhe periudha e qëndrimit për ndërrimin me kontingjentin e radhës me venddislokim në Prishtinë, Kosovë. 
+3. Kohëzgjatja e këtij misioni, me venddislokim Prishtinë, Kosovë, është deri më 31 dhjetor 2014. Kohëzgjatja për çdo rotacion është 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me përfaqësuesit e radhës.
 
 4. Mbështetja logjistike, shëndetësore dhe transporti strategjik Tiranë-Prishtinë dhe anasjellas është përgjegjësi e palës shqiptare.
 
-5. Ministria e Mbrojtjes të përballojë, për ushtarakët pjesëmarrës në këtë operacion, shpenzimet, si më poshtë vijon, për:
+5. Ministria e Mbrojtjes të përballojë për ushtarakët pjesëmarrës në këtë operacion shpenzimet për:
 
-a)  shpërblimin që do të marrin këta ushtarakë për vështirësi shërbimi, në masën 4000 (katër mijë) lekë në ditë, përveç pagës mujore;
+a) shpërblimin për vështirësi shërbimi, në masën 4 000 (katër mijë) lekë në ditë, përveç pagës mujore;
 
-b) siguracion jete;
+b) sigurimin e jetës; 
 
-c) akomodim;
+c) siguracion shëndetësor;
 
-ç)  ushqim;
+ç) mbështetje shëndetësore;
 
-d) laventeri;
+d) shërbim telefonik;
 
-dh)  shpenzime ndërlidhjeje emergjente;
+dh) transport;
 
-e) trajtim mjekësor;
+e) transportimin e individëve të shkëputur të misionit për në atdhe, në raste vdekjeje ose sëmundjeje; 
 
-ë)  mbështetje shëndetësore;
+ë) akomodim (fjetje, ngrohje, ujë);
 
-f) çdo shpenzim tjetër për mbarëvajtjen e kryerjes së operacionit;
+f) ushqim;
 
-g) shpenzime për zhvillimin e aktiviteteve social - kulturore në rastet e festave kombëtare, gjatë kohës së kryerjes së misionit.
+g) energji elektrike, ujë të pijshëm, lavanderi;
+
+gj) aktivitete social-kulturore në rastet e festave kombëtare, gjatë kryerjes së misionit;
+
+h) çdo shpenzim tjetër për mbarëvajtjen e kryerjes së operacioni.
+
+5/1. Ministria e Mbrojtjes të bëjë sigurimin e jetës nga aksidentet në grup të ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, të cilët do të marrin pjesë në këtë mision.
 
  6. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i Ministrisë së Mbrojtjes.
 
