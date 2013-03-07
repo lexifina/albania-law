@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 2 000 000 (dy milionë) lekësh, për përballimin e shpenzimeve të kurimit të fëmijës Endrit Hysenbelliu.
