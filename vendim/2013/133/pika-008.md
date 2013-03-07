@@ -1,0 +1,1 @@
+8. Për objektet për të cilat në kolonën përkatëse është bërë shënimi “Kualifikuar nga ALUIZNI”, poseduesit e këtyre objekteve të kompensohen, për efekt shpronësimi, nga Autoriteti Rrugor Shqiptar, në bazë të vendimit nr. 563, datë 3.8.2011 të Këshillit të Ministrave, të ndryshuar.

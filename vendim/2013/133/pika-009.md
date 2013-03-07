@@ -1,0 +1,1 @@
+9. Për objektet për të cilat në kolonën përkatëse është bërë shënimi “Proces regjistrimi”, pronarët përkatës të kompensohen, për efekt shpronësimi, pas përfundimit të këtij procesi, fakt, i cili do të konfirmohet zyrtarisht nga ZVRPP-ja, si dhe në bazë të dokumentacionit të pronësisë që dorëzojnë pranë Autoritetit Rrugor Shqiptar.
