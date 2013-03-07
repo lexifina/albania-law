@@ -1,0 +1,1 @@
+7. Për objektet për të cilat në kolonën përkatëse është bërë shënimi “leje ndërtimi”, pronarët të kompensohen, për efekt shpronësimi, pasi të kenë dorëzuar pranë ARSH-së dokumentacionin e plotë tekniko-ligjor.
