@@ -1,0 +1,1 @@
+2. Objekt i shtesës së kontratës të jetë përfaqësimi i Republikës së Shqipërisë/METE, nga ana e studios ligjore, në arbitrazhin ndërkombtëar kundër shoqërisë “CEZ”, a.s., në cilësinë e paditësit ose të paditurit kundërpaditës.

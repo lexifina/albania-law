@@ -1,0 +1,1 @@
+1. Autorizimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës (METE) për lidhjen e shtesës së kontratës me studion ligjore ndërkombëtare “Derains&Gharavi”, e cila është përzgjedhur përmes një procedure konkurruese për të ofruar këshillim ligjor për këtë ministri.
