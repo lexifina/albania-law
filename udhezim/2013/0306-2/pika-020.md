@@ -1,0 +1,1 @@
+20. Kompania juridike fituese e ankandit, gëzon të drejtën e trajtimit e vjeljes së materialit drusor të ngastrave/grup-ngastrave pa ankand, deri në prerjet përfundimtare, të përcaktuara në planin e mbarështimit, të vendosura në studim.

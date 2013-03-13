@@ -1,0 +1,1 @@
+10. Trajtimet dhe vjelja e materialit drusor fillon pasi është hartuar projekti tekniko-organizativ i trajtimit, lidhur kontrata, është marrë në dorëzim me procesverbal fondi pyjor përkatës dhe është pajisur me lejen përkatëse të trajtimit nga DSHP-ja ose certifikatën nga organizata të specializuara për certifikim.

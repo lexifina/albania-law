@@ -1,0 +1,1 @@
+11. Sektori pyjor lejon kompaninë të kryejë aktivitetet e trajtimit, vjeljes dhe transportin e brendshëm të materialit drusor, vetëm në atë ekonomi pyjore/pjesët e ekonomisë pyjore për të cilën është dhënë leja përkatëse. Kompania është e detyruar të vjelë vetëm vëllimin drusor, që është damkosur dhe cilësuar në lejen e shfrytëzimit.

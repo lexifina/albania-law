@@ -1,0 +1,1 @@
+9. Kompania është e detyruar të respektojë fazat e përcaktuara në projektin tekniko-organizativ dhe t’i përgjigjet kërkesave periodike të shërbimit dhe policisë pyjore për deklarimin vullnetar, monitorimeve dhe auditimeve të parashikuar në kontratë apo të rasteve specifike, kur këto kërkohen.

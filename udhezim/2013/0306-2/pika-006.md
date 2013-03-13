@@ -1,0 +1,1 @@
+6. Në kontratë pasqyrohen vëllimet e lëndës drusore në këmbë sipas llojeve dhe asortimenteve, që do të prodhohen për çdo ngastër pyjore, datat e fillimit e përfundimit të prerjes, nxjerrjes e stivimit të materialit drusor në anë të rrugës dhe të kolaudimit të ngastrave/nënngastrave.

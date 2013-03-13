@@ -1,0 +1,1 @@
+2. Hedhja e ngastrave në ankand për trajtimin e grumbujve pyjore do të bëhet me ekonomi pyjore, me lote. Vetëm në rastet e domosdoshme të ndërhyrjeve dhe kur nuk ka mundësi të krijohen grup ngastrash, do të bëhet me ngastër të veçantë.
