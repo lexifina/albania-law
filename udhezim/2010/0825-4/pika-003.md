@@ -1,1 +1,0 @@
-3. Në kontratë pasqyrohen vëllimet e lëndës drusore në këmbë (lëndë punimi e dru zjarri) sipas llojeve dhe asortimenteve, që do të prodhohen për çdo pjesë e ngastër pyjore, datat e fillimit e përfundimit të prerjes, nxjerrjes e stivimit së materialit drusor në anë të rrugës dhe të kolaudimit të çdo pjese të ngastrave/nënngastrave.

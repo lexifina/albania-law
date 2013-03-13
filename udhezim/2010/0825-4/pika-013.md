@@ -1,2 +1,0 @@
-13. Projekti teknologjik dhe tekniko-ekonomik i shfrytëzimit përpilohet në tri kopje, nga të cilat një i jepet sektorit pyjor, një subjektit fitues të shfrytëzimit të ngastrës/nënngastrës pas tenderit dhe një ruhet në seksionin e administrim menaxhimit, së bashku me dokumentet e ankandit apo tenderit.
-Ndalohet fillimi i punimeve për prerjen e materialit drusor pa hartuar projektin teknologjik dhe tekniko-ekonomik të shfrytëzimit të ngastrës apo nënngastrës pyjore.
