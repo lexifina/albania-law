@@ -1,0 +1,1 @@
+12. Komisioni për përcaktimin e financimit të mirëmbajtjes së ambienteve të qendrave të përkujdesjes sociale do të marrë në konsideratë edhe orientimet e Avokatit të Popullit, si dhe sugjerimet e subjekteve jopublike, të specializuara në këto shërbime.

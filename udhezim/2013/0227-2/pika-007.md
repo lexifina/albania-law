@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror bën vlerësimin e dokumentacionit dhe kërkesave të paraqitura nga njësia e qeverisjes vendore, sipas pikës 4 të këtij udhëzimi, vlerëson prioritetin e projektit, si dhe nivelin e financimit. Vlerësimi të bëhet pas verifikimit mbi gjendjen aktuale të ambienteve të qendrave të përkujdesjes shoqërore.

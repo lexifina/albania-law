@@ -1,0 +1,1 @@
+10. Drejtoria e Politikave të Shërbimeve Sociale, dosjen e dërguar nga Drejtoria e Përgjithshme e Shërbimit Social Shtetëror, sipas pikës 4 dhe 7 të këtij udhëzimi, e verifikon plotësimin e saj dhe e përcjell në komisionin e ngritur, sipas pikës 2 të këtij udhëzimi, duke informuar me shkrim për çdo projekt që do të financohet.

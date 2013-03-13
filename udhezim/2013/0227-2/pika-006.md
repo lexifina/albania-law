@@ -1,0 +1,1 @@
+6. Njësitë e qeverisjes vendore, për mbështetje financiare, sipas germës “d” të pikës 1, paraqesin një informacion mbi gjendjen aktuale të ambienteve të qendrave të përkujdesjes shoqërore, për të cilën kanë paraqitur projekt.

@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror, vlerësimin e bërë me shkrim, sipas pikës 6 dhe 7 të këtij udhëzimi, së bashku me projektin dhe kërkesën e paraqitur nga njësitë e qeverisjes vendore për financimin e mirëmbajtjes së ambienteve të qendrave të përkujdesjes shoqërore, i përcjell në MPÇSSHB.

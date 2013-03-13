@@ -1,0 +1,1 @@
+8. Nëse projekti dhe kërkesa e paraqitur nga njësia e qeverisjes vendore është i plotë, Drejtoria e Përgjithshme e Shërbimit Social Shtetëror bën vlerësimin e nivelit të financimit dhe të gjendjes aktuale të ambienteve, me qëllim sigurimin dhe ofrimin e standardeve në qendrat e pakujdesjes shoqërore.
