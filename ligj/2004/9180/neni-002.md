@@ -3,7 +3,7 @@ Përkufizime dhe shkurtime
 Për qëllim të këtij ligji, termat e mëposhtëm kanë këto kuptime:
 a) ”statistika” janë të dhëna të përftuara nga përpunimi i të dhënave, për të karakterizuar fenomene kolektive në një popullim të dhënë;
 b) ”statistika zyrtare” është informacion sasior dhe përfaqësues për situatën ekonomike, demografike, sociale dhe mjedisore në Shqipëri, i prodhuar nga ose nën autoritetin e INSTAT-it, në kuadrin e programit të statistikave zyrtare;
-c) ”statistika administrative” janë statistika të tjera, të ndryshme nga statistikat zyrtare, të prodhuara nga organet dhe agjencitë publike;
+c) Sistemi Kombëtar Statistikor” është tërësia e institucioneve dhe organizatave që ushtrojnë aktivitet brenda Republikës së Shqipërisë, të cilat mbledhin, përpunojnë dhe publikojnë statistika zyrtare sipas programit;
 ç) ”programi i statistikave zyrtare” është programi i miratuar nga Kuvendi Republikës së Shqipërisë;
 d) ”popullatë” është bashkësi e njësive statistikore, pa dallim nëse janë persona fizikë e juridikë, familje ose çdo lloj njësie ekonomike;
 dh) ”nxjerrje e statistikave” janë të gjitha veprimtaritë e nevojshme për përgatitjen, mbledhjen, ruajtjen, përpunimin, përmbledhjen, analizimin, interpretimin dhe shpërndarjen e të dhënave statistikore;

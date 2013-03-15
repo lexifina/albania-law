@@ -4,7 +4,7 @@ Programi i statistikave zyrtare
 2. Kuvendi miraton programin e statistikave zyrtare, i cili mbulon periudhën e pesë viteve kalendarike. Programi botohet në Fletoren Zyrtare.
 3. Programi përfshin të paktën:
 a) përshkrimin e statistikave kryesore dhe treguesit që vihen në dispozicion;
-b) institucionet përgjegjëse për prodhimin dhe shpërndarjen e rezultateve;
+b) institucionet përgjegjëse për prodhimin dhe shpërndarjen e statistikave zyrtare;
 c) klasifikimet që përdoren;
 ç) nivelin në të cilin statistikat dhe treguesit bëhen të disponueshëm (nivel kombëtar, prefekture, rrethi dhe kështu me radhë);
 d) frekuencën me të cilën statistikat dhe treguesit bëhen të disponueshëm;

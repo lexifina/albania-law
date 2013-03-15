@@ -5,6 +5,6 @@ a) përgatit propozime për t’u miratuar nga Këshilli i Statistikave mbi stru
 b) propozon emërimin e stafit në nivel drejtori, për t’u miratuar nga Këshilli i Statistikave;
 c) përfaqëson INSTAT-in në marrëdhëniet me të tretët;
 ç) përgatit çdo vit propozimet për modifikime në program, të cilat paraqiten për miratim në Këshillin e Statistikave;
-d) miraton emërimin e shefit të departamentit të statistikave të çdo agjencie statistikore; kriteri për miratim duhet të jetë kompetenca profesionale e personit të propozuar;
+d) shfuqizuar;
 dh) ndjek të gjitha mbledhjet e Këshillit të Statistikave dhe merr pjesë në diskutim, por pa të drejtë vote;
 e) zbaton detyra të tjera që përcaktohen me vendim të Këshillit të Ministrave.
