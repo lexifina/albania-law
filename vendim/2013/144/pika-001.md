@@ -1,0 +1,1 @@
+1. Dërgimin me mision të një ekipi këshillues ushtarak (MAT-A), të përbërë nga 12 (dymbëdhjetë) ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë, në Kabul, Afganistan, në Komandën Rajonale Qendrore (RC-C/Regional Command Capital), në kuadër të operacionit ushtarak “ISAF”.

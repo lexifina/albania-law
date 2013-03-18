@@ -1,0 +1,1 @@
+4. Kohëzgjatja e këtij misioni është deri më 31 dhjetor të vitit 2014. Kohëzgjatja për çdo rotacion është 9 (nëntë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me ekipin e radhës.
