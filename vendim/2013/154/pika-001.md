@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore për dhënien me koncesion, të formës “BOT” (ndërtim, operim dhe transferim), të hidrocentralit “Ballenjë” është Ministria e Ekonomisë, Tregtisë dhe Energjetikës.
