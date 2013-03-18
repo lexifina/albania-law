@@ -11,8 +11,9 @@ si dhe në aktet e tjera ligjore e nënligjore në fuqi.
 2. Kjo rregullore ka si qëllim, përcaktimin e kufijve dhe rregullave për mënyrën e administrimit të parqeve arkeologjike të Shkodrës, Lezhës, Apolonisë, Bylisit Amantias, Orikumit, Antigonesë dhe Finiqit.
 3. Në zbatim të kësaj rregulloreje, termat e mëposhtëm kanë këtë kuptim:
 a) “PA” janë parqet arkeologjike të Shkodrës, Lezhës, Apolonisë, Bylisit, Amantias, Orikumit, Antigonesë, Finiqit dhe Butrintit.
-b) “ZAKPA” është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik” , e cila është struktura përgjegjëse për administrimin dhe menaxhimin e parkut arkeologjik të Shkodrës, Lezhës, Apolonisë, Bylisit, Amantias, Orikumit, Antigonesë, Finiqit, sipas kufijve të përcaktuar në kreun II të kësaj rregulloreje.
+b) “ZAKPA” është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik” , e cila është struktura përgjegjëse për administrimin dhe menaxhimin e parkut arkeologjik të Shkodrës, Lezhës, Apolonisë, Bylisit, Antigonesë, Finiqit, sipas kufijve të përcaktuar në kreun II të kësaj rregulloreje.
 c) “BKPA” është Bordi Kombëtar i Parqeve Arkeologjike, i cili harton, shqyrton dhe miraton strategjinë dhe koordinon projektet e programet e mbrojtjes, zhvillimit dhe administrimit të PA-ve.
+d) Struktura përgjegjëse për administrimin e Parkut Arkeologjik Amantia-Orikum, sipas kësaj rregulloreje, është Drejtoria Rajonale e Kulturës Kombëtare Vlorë.
 KREU II
 BORDI KOMBËTAR I PARQEVE ARKEOLOGJIKE
 5. Krijohet Bordi Kombëtar i Parqeve Arkeologjike (BKPA), organ vendimmarrës, i cili mbikëqyr veprimtarinë e ZAKPA-ve dhe harton e miraton strategjinë dhe programet e zhvillimit të PA-ve.
