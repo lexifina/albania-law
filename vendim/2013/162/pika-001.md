@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 870 000 (tetëqind e shtatëdhjetë mijë) lekësh, për mbulimin e shpenzimeve të kurimit të shtetases Manushaqe Stana.
