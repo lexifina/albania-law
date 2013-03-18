@@ -1,0 +1,1 @@
+1. Miratimin e tavaneve përgatitore të shpenzimeve të programit buxhetor afatmesëm, 2014 - 2016, sipas lidhjes nr. 1 “Tavanet e ministrive dhe institucioneve buxhetore”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
