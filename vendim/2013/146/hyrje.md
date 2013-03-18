@@ -1,0 +1,5 @@
+Vendim
+Nr. 146, datë 20.2.2013
+Për kalimin e pasurisë së ndodhur në zonën kadastrale nr. 8380 të bashkisë Tiranë në përgjegjësi administrimi të ministrisë së punëve publike dhe transportit, për entin kombëtar të banesave dhe për një ndryshim në vendimin nr. 143, datë 18.1.2012 të këshillit të ministrave, “për miratimin e listës paraprake (pjesa e parë+pjesa e dytë) të pronave të paluajtshme publike shtetërore, që transferohen në pronësi ose në përdorim të bashkisë tiranë të qarkut të tiranës”
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 8 pika 3, 10, 12, 13, 15/c e 16 të ligjit nr. 8743, datë 22.2.2001 “Për pronat e paluajtshme të shtetit”, të ndryshuar, të nenit 8/a të ligjit nr. 8744, datë 22.2.2001 “Për transferimin e pronave të paluajtshme publike të shtetit në njësitë e qeverisjes vendore”, të ndryshuar, dhe të ligjit nr. 9232, datë 13.5.2004 “Për programet sociale për strehimin e banorëve të zonave urbane”, të ndryshuar, me propozimin e Ministrit të Brendshëm, Këshilli i Ministrave
+Vendosi:

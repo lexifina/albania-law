@@ -1,0 +1,1 @@
+1. Kalimin e pasurisë me numër rendor 402 (pjesa e parë), me emërtimin “Ish-kopshti nr. 9”, ndodhur në zonën kadastrale nr. 8380, me numër pasurie 7/102, në përgjegjësi administrimi të Ministrisë së Punëve Publike dhe Transportit, për Entin Kombëtar të Banesave, për ndërtimin dhe shitjen e banesave, në zbatim të politikave sociale të Ministrisë së Punëve Publike dhe Transportit.
