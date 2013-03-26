@@ -4,7 +4,7 @@ Organet e miratuara
 a) kryen objektivisht shqyrtimin/ekzaminimin teknik me profesionalitet dhe mban parasysh nivelin e shkencës dhe të teknologjisë në kohën e kryerjes së ekzaminimit;
 b) lëshon certifikata ose harton raporte për testimet dhe vlerësimin e konformitetit, bazuar në ekzaminimin teknik, duke ndjekur procedurat e vlerësimit të konformitetit të përshkruara në rregullat teknike/rregullat e sigurisë në shërbim;
 c) tërheq certifikatat ose dokumentet e tjera, referuar në shkronjën “b” të kësaj pike, në rast se produkti nuk është më në konformitet me kërkesat e përcaktuara në rregullat teknike për këto produkte;
-ç) siguron kopje të certifikatave, raporteve të testeve dhe të vlerësimit të konformitetit, përfshirë dokumentet për to dhe informacionin për lëshimin, refuzimin ose tërheqjen e certifikatave ministrit përgjegjës, strukturës përgjegjëse dhe autoriteteve të tjera, sipas kërkesës;
+ç) informon menjëherë ministrin përgjegjës për çdo veprimtari të vlerësimit të konformitetit, duke siguruar kopje të certifikatave, raporteve të testimit dhe të vlerësimit të konformitetit, përfshirë dokumentet për to dhe informacion për lëshimin, refuzimin ose tërheqjen e certifikatave, si dhe strukturës përgjegjëse dhe autoriteteve të tjera me kërkesë të këtyre të fundit;
 d) informon ministrin përgjegjës pa vonesë për çdo rast, në të cilin ky organ është i paaftë të sigurojë përmbushjen e kushteve të vendosura për ushtrimin e miratimit.
 2. Organi i miratuar informon ministrin përgjegjës për:
 a) çdo refuzim, kufizim, pezullim ose tërheqje certifikate;
@@ -17,3 +17,4 @@ c) çdo kërkesë për informacion, të cilën ai ka marrë nga struktura përgj
 6. Organi i miratuar duhet të lejojë punonjësit zyrtarë, të pajisur me urdhër të ministrit përgjegjës, që të evidentojnë të gjitha të dhënat për përmbushjen e kërkesave të vlerësimit të konformitetit dhe të hyjnë në vendet/ndërmarrjet ku janë kryer detyrat e përfshira në objektin e vlerësimit të konformitetit, siç është përcaktuar në miratimin e lëshuar.
 7. Organi i miratuar, për qëllime të inspektimit periodik të produkteve/instalimeve të vëna në shërbim, i dërgon strukturës përgjegjëse certifikata ose dëshmi të tjera të lëshuara, me kërkesë të kësaj strukture.
 8. Në fund të çdo periudhe katërmujore, organi i miratuar i dërgon ministrit përgjegjës listën e inspektimeve ose certifikatave të lëshuara për periudhën në fjalë.
+9. Organi i miratuar për qëllime të inspektimit periodik të produkteve/instalimeve të vëna në shërbim informon menjëherë ministrin përgjegjës për listën e planifikimit të inspektimeve periodike dhe çdo ndryshim të saj.
