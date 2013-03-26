@@ -1,4 +1,5 @@
 # Neni 6
-Ndërprerja e veprimtarisë minerare
-1. Kur RISHM-ja vëren se një minierë ose karrierë rrezikon sigurinë e njerëzve dhe të mjedisit pezullon punën dhe i dërgon ministrisë përkatëse një relacion të motivuar për marrjen e masave të nevojshme për heqjen e lejes minerare.
-2. Masa e marrë i bëhet e njohur zotëruesit të lejes minerare. Kundër masës së marrë mund të bëhet ankim brenda 5 ditëve te ministri që mbulon veprimtarinë minerare.
+Masat urgjente
+(Ndyshuar me ligjinn nr. 8/2013, datë 14.2.2013)
+1. Kur Inspektorati Shtetëror që mbulon fushën minerare vëren se një minierë ose karrierë rrezikon sigurinë e njerëzve dhe të mjedisit, me vendim të ndërmjetëm, sipas nevojave të rastit, merr masa urgjente, në përputhje me ligjin për inspektimin.
+2. Kundër vendimit që vendos masa urgjente mund të bëhet ankim i veçantë në përputhje me ligjin për inspektimin.

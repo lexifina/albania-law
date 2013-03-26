@@ -1,2 +1,2 @@
 KREU V
-REPARTI I INSPEKTIM-SHPËTIMIT TË MINIERAVE (RISHM)
+Inspektorati dhe struktura përgjegjëse
