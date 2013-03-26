@@ -17,3 +17,4 @@ Në kuptim të këtij ligji, termat e mëposhtëm nënkuptojnë:
 14. ”Laborator testimi” është organi që mat, ekzaminon, teston, kalibron ose përcakton karakteristikat apo cilësinë e materialeve a të produkteve të ndërtimit.
 15. ”Vlerësim konformiteti” është çdo veprimtari, e drejtpërdrejtë ose e tërthortë, që përcakton nëse është plotësuar tërësia e kërkesave teknike të dokumentacionit përkatës.
 16. ”Vërtetim konformiteti” është pranimi paraprak i përputhshmërisë së produktit me kërkesat teknike.
+17. “Inspektim” është çdo lloj forme kontrolli për verifikimin e respektimit të kërkesave ligjore, i kryer në zbatim të këtij ligji dhe në përputhje me ligjin nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.

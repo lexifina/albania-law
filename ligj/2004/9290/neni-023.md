@@ -12,5 +12,5 @@ vii) në kundërshtim me nenin 20 të këtij ligji, nuk vepron në përputhje me
 viii) vendos pezullimin e veprimtarisë deri në shlyerjen e detyrimit nga subjekti fizik dhe juridik;
 ix) vendos sekuestrimin e mjeteve dhe të makinerive, të cilat punojnë gjatë kohës që subjekti është i pezulluar.
 b) personi fizik gjobitet me 50 000 deri në 500 000 lekë për të njëjtat kundërvajtje të përmendura në shkronjën ”a” të këtij neni.
-2. Gjobat vendosen dhe vilen nga Inspektorati Ndërtimor e Urbanistik Kombëtar.
-3. Shfuqizuar.
+2. Gjobat vendosen nga Inspektorati Ndërtimor e Urbanistik Kombëtar dhe janë dënim administrativ kryesor.
+3. Shqyrtimi, marrja e vendimit përfundimtar dhe ankimi ndaj vendimit me gjobë bëhen në përputhje me ligjin për inspektimin.

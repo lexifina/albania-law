@@ -9,3 +9,4 @@ c) merr mostra të produkteve të ndërtimit për testim;
 d) ndalon hedhjen në treg të produkteve të ndërtimit në rast moskonformiteti;
 dh) ndalon përkohësisht, deri në kryerjen e ekzaminimeve ose të provave, çdo furnizim, ofertë ose ekspozim të produkteve të ndërtimit, kur dyshohet se këto produkte nuk janë në përputhje me rregullat;
 e) urdhëron zhdukjen e produkteve të ndërtimit në rast moskonformiteti kur ky është thelbësor për mbrojtjen e shëndetit dhe të jetës së njerëzve.
+3. Masat e parashikuara në shkronjat “ç”, “d”, “dh” dhe “e” të këtij neni janë masa urgjente dhe mund të vendosen krahas masave urgjente që parashikon ligji për inspektimin.
