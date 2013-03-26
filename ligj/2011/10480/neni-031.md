@@ -1,3 +1,5 @@
 # Neni 31
 Dispozitë kalimtare
-Deri në krijimin e strukturës përgjegjëse për mbikëqyrjen e tregut, sipas nenit 9 të këtij ligji, ngarkohet Inspektorati Qendror Teknik për mbikëqyrjen e zbatimit të këtij ligji.
+Dispozitë kalimtare
+(Parashikuar me ligjin nr. 16/2013, datë 14.2.2013)
+Organi ekzistues inspektues vazhdon të ushtrojë funksionin e vet sipas organizimit aktual deri në krijimin e organit të ri, sikurse parashikohet në ndryshimet e bëra në këtë ligj.

@@ -10,3 +10,4 @@ Struktura përgjegjëse organizon ose urdhëron masat e parashikuara në nenin 1
 a) prodhuesi;
 b) shpërndarësit, brenda sferës së veprimtarisë përkatëse të tyre, dhe në veçanti, pala përgjegjëse për fazën e parë të shpërndarjes në treg;
 c) çdo person tjetër, kur është e nevojshme, me qëllim bashkëpunimin në veprimin e ndërmarrë për të shmangur rreziqet që rrjedhin nga produkti.
+7. Krahas masave të parashikuara në këtë nen dhe në nenin 10 të këtij ligji, struktura përgjegjëse merr çdo masë tjetër urgjente të nevojshme, në përputhje me ligjin për inspektimin.

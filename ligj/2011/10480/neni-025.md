@@ -6,3 +6,4 @@ Shkeljet e dispozitave të këtij ligji, kur nuk përbëjnë vepër penale, për
 4. Shkeljet e dispozitave të parashikuara në nenin 4 pika 1, si dhe moszbatimi i masave referuar në nenet 10 shkronjat “a” e “b” dhe 21 të këtij ligji me gjobë 3 për qind të xhiros vjetore të vitit financiar paraardhës, por jo më pak se 500 000 lekë.
 5. Shkelja e dispozitave apo moszbatimi i masave referuar në nenin 6 pika 4 shkronja “c” dhe pika 5, në nenin 14 pika 1, në nenin 19, në nenin 20 pika 1 dhe në nenin 22 të këtij ligji, me gjobë 300 000 lekë.
 6. Shkelja e masave të parashikuara në nenin 13 të këtij ligji me gjobë 300 000 lekë.
+7. Gjoba është dënim kryesor dhe ajo mund të shoqërohet edhe me një apo disa dënime plotësuese, të përcaktuara në nenet 10 dhe 11 të këtij ligji.

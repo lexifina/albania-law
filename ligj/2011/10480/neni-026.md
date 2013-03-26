@@ -1,2 +1,3 @@
 # Neni 26
-Shkeljet me karakter administrativ verifikohen dhe dënohen nga struktura përgjegjëse.
+Shqyrtimi i shkeljeve
+Shkeljet me karakter administrativ shqyrtohen dhe dënohen nga struktura përgjegjëse për mbikëqyrjen e tregut, në përputhje me dispozitat në fuqi.
