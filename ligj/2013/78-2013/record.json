@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9213,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 9380, datë 28.4.2005 “Për të drejtën e autorit dhe të drejtat e tjera të lidhura me të”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "78-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-02-14",
+  "published": "2013-03-12",
+  "in_force": "2013-03-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/247434dabcd03473fe1c12743d9fa091851f607cdbceec9c3bef2cfda900cf68.docx",
+  "source_sha256": "247434dabcd03473fe1c12743d9fa091851f607cdbceec9c3bef2cfda900cf68",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9213",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/02/14/78-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
