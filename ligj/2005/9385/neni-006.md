@@ -4,3 +4,4 @@ Funksionimi i shërbimit pyjor
 2. Shërbimi pyjor ka këto funksione:
 a) menaxhuese;
 b) kontrolluese.
+3. Funksioni kontrollues ushtrohet nga Policia Pyjore, në përputhje me këtë ligj dhe ligjin nr. 10 433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”.

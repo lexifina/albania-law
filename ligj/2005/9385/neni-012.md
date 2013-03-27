@@ -1,6 +1,6 @@
 # Neni 12
 Funksioni dhe detyrat e Policisë Pyjore
-1. Policia Pyjore është organ i specializuar i shërbimit pyjor, me funksione teknike e kontrolluese, në përbërje të Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave. Struktura e Policisë Pyjore, gjatë kryerjes së shërbimit, përfiton status të njëjtë me atë të Policisë së Shtetit.
+1. Policia Pyjore është organ i specializuar i shërbimit pyjor, me funksione kontrolluese. Struktura e Policisë Pyjore, gjatë kryerjes së shërbimit, përfiton status të njëjtë me atë të Policisë së Shtetit.
 2. Policia Pyjore kryen këto detyra:
 a) kontrollon zbatimin e dispozitave ligjore dhe të akteve nënligjore në fuqi për pyjet, kullotat, zonat e mbrojtura, florën e faunën e egër, veprimtarinë e gjuetisë dhe veprimtaritë e tjera që zhvillohen në fondin pyjor kombëtar nga subjektet private e publike, juridike e fizike, si dhe propozon heqjen e licencave kur subjektet veprojnë në kundërshtim me këto dispozita;
 b) parandalon, zbulon dhe lufton dëmtimin, pushtimin, shpërdorimin, tjetërsimin, shkretimin dhe degradimin e pyjeve e të tokës pyjore, cenimin nga ndërhyrjet e pakontrolluara në fondin pyjor dhe në mjedisin natyror;
