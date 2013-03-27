@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9168,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr. 9108, datë 17.7.2003 “Për substancat dhe preparatet kimike”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "33-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-02-14",
+  "published": "2013-03-12",
+  "in_force": "2013-03-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/c2dd432ef1097a2909e24b3300f6448cb45e6104e932ab61104499061f5a6656.docx",
+  "source_sha256": "c2dd432ef1097a2909e24b3300f6448cb45e6104e932ab61104499061f5a6656",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9168",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/02/14/33-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
