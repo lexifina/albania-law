@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9203,
+  "title": "Për disa ndryshime në ligjin nr. 8880, datë 15.4.2002 “Për të drejtat e seleksionerit të bimëve”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "68-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-02-14",
+  "published": "2013-03-12",
+  "in_force": "2013-03-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/d6a5aa1c265d3232b27974ee9c9674f52e078cd43bd4d99441a44d4763147afe.docx",
+  "source_sha256": "d6a5aa1c265d3232b27974ee9c9674f52e078cd43bd4d99441a44d4763147afe",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9203",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/02/14/68-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
