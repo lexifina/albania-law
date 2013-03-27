@@ -5,3 +5,4 @@ a) nivelet e shërbimit të transfuzionit në institucionet shëndetësore, sipa
 b) standardet kombëtare për produktet e prodhuara dhe të ofruara nga strukturat e këtij shërbimi.
 c) mënyrën e lëvrimit të fondeve për veprimtaritë promovuese dhe edukative në fushën e transfuzionit të gjakut.
 2. Ministri i Shëndetësisë përcakton kërkesat e bazës organizative e teknike të strukturave, si dhe të veprimtarive promovuese e edukative të shërbimit të transfuzionit.
+3. Instituti i Shëndetit Publik monitoron zbatimin e rregullave të cilësisë dhe sigurisë së gjakut e të produkteve të tij.
