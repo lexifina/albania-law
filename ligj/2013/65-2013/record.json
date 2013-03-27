@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9200,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 8691, datë 16.11.2000 “Për prodhimin dhe tregtimin e duhanit dhe të cigareve”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "65-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-02-14",
+  "published": "2013-03-12",
+  "in_force": "2013-03-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/739a1b0a65dfb555b80a4b4d5d69aed4adf1b9c556eea4809972f35a5c28c0e4.docx",
+  "source_sha256": "739a1b0a65dfb555b80a4b4d5d69aed4adf1b9c556eea4809972f35a5c28c0e4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9200",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/02/14/65-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
