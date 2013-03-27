@@ -1,0 +1,6 @@
+# Neni 88
+Stafi profesional
+1. Personat fizikë, të cilët mund të jenë inspektorë, seleksionues, mbikëqyrës, vlerësues të kafshëve, që bëjnë trajnimin profesional, sipas këtij ligji, duhet të kenë diplomë universitare ose njohuri dhe përvojë, por jo më pak se 5 vjet në fushën e blegtorisë.
+2. Personat fizikë, që sigurojnë veprimtari të specializuara profesionale, sipas këtij ligji, të tilla si menaxhimin e realizimit të programeve racore, parashikimin e vlerave racore të kafshëve, procedurat e provës dhe të tjera të këtij niveli, duhet të kenë diplomë universitare dhe përvojë në fushën e zooteknisë dhe, nëse është e nevojshme, edhe nga ndonjë fushë tjetër e ngjashme, duke iu nënshtruar më parë vlerësimit të njohurive profesionale.
+3. Vlerësimi i njohurive profesionale bëhet nga një komision, i cili ngrihet me urdhër të ministrit. Kriteret për vlerësimin e njohurive profesionale bëhen me rregullore të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
+4. Përmbajtja e detyrueshme, niveli minimal i programeve të trajnimit profesional, procedurat dhe metodat e vlerësimit e të kontrollit të njohurive, si dhe libri i regjistrimit të personave, që u janë nënshtruar vlerësimit të njohurive profesionale, përcaktohen me rregullore të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

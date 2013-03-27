@@ -1,0 +1,4 @@
+# Neni 2
+Objekti dhe fusha e zbatimit të ligjit
+1. Objekt i këtij ligji janë përcaktimi i kushteve dhe praktikave blegtorale, për një mbarështim të mirë të kafshëve në fermë, metodat dhe teknologjitë e mbarështimit të kafshëve, baza ushqimore, kushtet për hartimin dhe miratimin e programeve racore, ndryshimet dhe ruajtja e cilësive të blegtorisë, ruajtja e ndryshueshmërisë gjenetike, gjenofondet dhe racat autoktone, shërbimet profesionale në blegtori, banka gjenetike për kafshët, organizatat e mbarështuesve të kafshëve, trajnimi në blegtori, tregu dhe tregtimi i materialeve racore, inspektimi zooteknik dhe fondet e nevojshme për këtë qëllim.
+2. Ky ligj zbatohet për gjedhët, buajt, njëthundrakët, derrat, dhentë, dhitë, lepujt, shpendët, bletët dhe krimin e mëndafshit, në vazhdim të përmendur si “kafshët e fermës”, dhe për kafshët e egra, që janë subjekt i mbarështimit.

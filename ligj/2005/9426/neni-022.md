@@ -1,0 +1,7 @@
+# Neni 22
+Baza e të dhënave në blegtori
+1. Mbarështuesit e kafshëve, zbatuesit e shërbimeve publike e private dhe organizatat e mbarështimit të kafshëve mbajnë regjistra dhe të dhëna të tjera të përcaktuara, të lidhura me sistemin kombëtar e ndërkombëtar të informacionit në fushën e mbarështimit të kafshëve.
+2. Ministria organizon sistemin kombëtar të grumbullimit dhe të përdorimit të të dhënave për tiparet e prodhimtarisë së kafshëve dhe siguron lidhjen e mundësinë e hyrjes në baza të tjera të të dhënave të bujqësisë që lidhen me të dhënat e blegtorisë. Autoriteti kompetent në ministri përcakton mënyrën e mbajtjes dhe të grumbullimit të të dhënave për riprodhimin, matjen e prodhimtarisë, si dhe për tipare të tjera, të përcaktuara në mbarështimin e kafshëve të fermës.
+3. Shpenzimet për mbajtjen e të dhënave, të përcaktuara në këtë ligj, nga zbatuesit e shërbimeve publike financohen nga Buxheti i Shtetit.
+4. E drejta e përdorimit të të dhënave u njihet edhe zbatuesve të shërbimit zooteknik, publik, në fushën e këshillimit bujqësor, që realizohet nëpërmjet një kontrate dypalëshe.
+5. Mënyra e komunikimit të të dhënave nga fusha e mbarështimit të kafshëve, metoda e marrjes së të dhënave, përdorimi i tyre, si dhe rregullat e hollësishme për mirëmbajtjen e regjistrave dhe të dhënave të tjera përcaktohen me rregullore të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit dhe mbështeten në procedurat dhe metodat e përcaktuara nga organizatat ndërkombëtare kompetente në mbarështimin e kafshëve.
