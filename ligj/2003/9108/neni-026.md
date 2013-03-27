@@ -22,7 +22,7 @@ c) nuk plotëson kushtet për importin ose eksportin e substancave dhe të prepa
 d) i jep të pasakta të dhënat e kërkuara nga ky ligj.
 6. Inspektoratet përkatëse, për shkelje të përsëritura, e gjobisin personin juridik ose fizik, të autorizuar për kryerjen e veprimtarisë tregtare, me dyfishin e vlerës së caktuar më sipër, si dhe me mbylljen e veprimtarisë, heqjen e licencës dhe sekuestrimin e produkteve të rrezikshme.
 7. Shkelje e përsëritur është shkelja e detyrimeve, e kryer brenda një periudhe dyvjeçare nga data e hyrjes në fuqi të vendimit të mëparshëm për vënien e gjobës.
-8. Gjoba vendoset nga organi administrativ, i cili fillon i pari procesin. Në qoftë se procesi fillon njëkohësisht, në të njëjtën datë, nga më shumë se një organ administrativ, procesi i vënies së gjobës realizohet nga Inspektorati Shtetëror i Mjedisit. Gjoba ekzekutohet nga zyra financiare përkatëse.
-9. Kundër vendimit të dënimit me gjobë mund të bëhet ankim brenda 10 ditëve nga njoftimi i vendimit, te ministri përkatës, i cili duhet t’i përgjigjet ankimit brenda 15 ditëve nga depozitimi i tij.
-10. Kundër vendimit të ministrit ose kur ky i fundit nuk përgjigjet brenda afatit 15-ditor, mund të bëhet ankim në gjykatë brenda 30 ditëve.
-11. Gjobat e vëna nga inspektoratet derdhen në Buxhetin e Shtetit dhe likuidohen brenda 30 ditëve nga data e vendimit të formës së prerë. Për çdo ditë vonesë, pas plotësimit të këtij afati, kundërvajtësi detyrohet të paguajë, përveç gjobës, një shumë të barabartë me 2 për qind të gjobës.
+8. Shfuqizuar.
+9. Shfuqizuar.
+10. Shfuqizuar.
+11. Shfuqizuar.
