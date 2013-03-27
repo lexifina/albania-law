@@ -10,4 +10,4 @@ c) frekuencën e matjeve;
 d) përcaktimin e rregullave e të procedurave për ekspertizën e procesit monitorues;
 dh) miratimin e regjistrave, ku pasqyrohen të dhënat e monitorimit.
 4. Personat fizikë e juridikë, të pajisur me leje mjedisore për të ushtruar veprimtari në liqene, në bregun e tyre ose në zonën ujëmbledhëse, janë të detyruar të monitorojnë veprimtarinë që ushtrojnë, sipas programit të monitorimit, të regjistrojnë të dhënat në regjistrin vetjak dhe të bëjnë publikimin e tyre jo më rrallë se një herë në tre muaj. Shpenzimet për monitorimin e veprimtarisë i përballon vetë subjekti.
-5. Inspektorati i Mjedisit dhe administrata e mbrojtjes së zonës kontrollojnë regjistrin e të dhënave të monitorimit dhe, kur dyshojnë në vërtetësinë e tyre, urdhërojnë ekspertizën e monitorimit. Shpenzimet për ekspertizën janë në ngarkim të subjektit.
+5. Inspektorati që mbulon fushën e mbrojtjes së mjedisit dhe administrata e mbrojtjes së zonës kontrollojnë regjistrin e të dhënave të monitorimit dhe, kur dyshojnë në vërtetësinë e tyre, urdhërojnë ekspertizën e monitorimit. Shpenzimet për ekspertizën janë në ngarkim të subjektit.
