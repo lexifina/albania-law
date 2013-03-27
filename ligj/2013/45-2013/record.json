@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9180,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr. 7643, datë 2.12.1992 “Për shëndetin publik dhe Inspektoratin Sanitar Shtetëror”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "45-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-02-14",
+  "published": "2013-03-12",
+  "in_force": "2013-03-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/bd82bf800bbceb06276cab3c6304830d4de337a97143762e9c884a2a3c62e665.docx",
+  "source_sha256": "bd82bf800bbceb06276cab3c6304830d4de337a97143762e9c884a2a3c62e665",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9180",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/02/14/45-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
