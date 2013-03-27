@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9193,
+  "title": "Për disa ndryshime në ligjin nr. 8528, datë 23.9.1999 “Për nxitjen dhe mbrojtjen e të ushqyerit me gji”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "58-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-02-14",
+  "published": "2013-03-12",
+  "in_force": "2013-03-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/86e098a5946aa80cb794eecca617ef3e57e0db27ba3226821880d6908bef9d1c.docx",
+  "source_sha256": "86e098a5946aa80cb794eecca617ef3e57e0db27ba3226821880d6908bef9d1c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9193",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/02/14/58-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
