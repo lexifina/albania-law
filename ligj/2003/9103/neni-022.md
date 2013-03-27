@@ -1,5 +1,5 @@
 # Neni 22
-l. Kur shkeljet e kërkesave të këtij ligji përbëjnë vepër penale, Inspektorati i Mjedisit dhe administrata e liqenit bëjnë kallëzim për ndjekje penale.
+l. Kur shkeljet e kërkesave të këtij ligji përbëjnë vepër penale, Inspektorati që mbulon fushën e mbrojtjes së mjedisit dhe administrata e liqenit bëjnë kallëzim për ndjekje penale.
 2. Shkeljet e mëposhtme, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative:
 a) kryerja e veprimeve të ndaluara, të përcaktuara në pikën 1 të nenit 14 të këtij ligji;
 b) ushtrimi i veprimtarive pa leje mjedisore;
