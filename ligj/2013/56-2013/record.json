@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9191,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr. 8876, datë 4.4.2002 “Për shëndetin riprodhues”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "56-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-02-14",
+  "published": "2013-03-12",
+  "in_force": "2013-03-27",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a19b90090395774c38d16101921e4ba34c86690975f08eee577f22172c638a0c.docx",
+  "source_sha256": "a19b90090395774c38d16101921e4ba34c86690975f08eee577f22172c638a0c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9191",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/02/14/56-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
