@@ -1,0 +1,2 @@
+2. Procedura e nxjerrjes së kartës së papunësisë të jetë si vijon:
+Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit, në grup pune me specialistë të fushës së punësimit dhe ekspertë të fushës së prodhimit të dokumenteve të sigurtë, të përgatisë formatin e kartës së papunësisë. “Karta e papunësisë” duhet të përmbajë, përveç të dhënave për identitetin, edhe të dhëna për punësimet, kualifikimet dhe pagesat për shkak të papunësisë, si dhe të dhëna të tjera që lidhen me marrëdhëniet e punësimit.

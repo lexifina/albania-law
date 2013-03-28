@@ -1,0 +1,1 @@
+3. Pasi përgatitet “ekzemplari”, sipas përcaktimeve në pikën 2, të llogaritet kostoja e prodhimit dhe e çmimit të shitjes për çdo kartë papunësie. Ky “ekzemplar”, pasi të merret mendimi i dikastereve që shfrytëzojnë këtë dokument, t’i dërgohet për miratim ministrit.

@@ -1,0 +1,1 @@
+7. Një punëkërkuesi të papunë i jepet vetëm një kartë papunësie. Në rast të humbjes dhe dëmtimi të dokumentit, Shërbimi Kombëtar i Punësimit lëshon një “dublikatë”, e cila do të jetë e prodhuar me të njëjtat të dhëna, por me ngjyrë tjetër, dhe të ketë shënim në kopertinë “dublikatë”.
