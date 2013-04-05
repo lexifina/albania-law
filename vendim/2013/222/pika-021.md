@@ -1,0 +1,1 @@
+21. AMTP-ja ka ngjyrë të verdhë, si dhe përmban të gjitha elementet dhe formën sipas lidhjes nr. 1 bashkëlidhur këtij vendimi. Këto akte prodhohen me shpenzimet e komunës/bashkisë, sipas modelit të AMTP-së, i cili merret zyrtarisht në Komisionin Vendor të Vlerësimit të Titujve të Pronësisë, pranë prefektit të qarkut. Komuna/bashkia është e detyruar të përdorë vetëm këtë model.

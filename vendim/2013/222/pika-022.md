@@ -1,0 +1,1 @@
+22. Secila kopje e AMTP-së shoqërohet bashkëlidhur me planvendosjen e ngastrës, e përgatitur nga një subjekt i licencuar, sipas kërkesave të sistemit të regjistrimit të pasurive të paluajtshme, ku pasqyrohen sipërfaqja, kufijtë e saj dhe kufitarët, si dhe përmban nënshkrimin e kryetarit të komunës/bashkisë dhe vulën e komunës/bashkisë.

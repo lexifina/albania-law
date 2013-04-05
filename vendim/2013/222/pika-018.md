@@ -1,0 +1,6 @@
+18. Kryetari i komunës/bashkisë, Brenda 7 (shtatë) ditëve pas realizimit të procedurave ligjore për miratimin e vendimit të këshillit të komunës nga prefekti i qarkut, formon dosjen e secilit përfitues, e cila përmban:
+a) certifikatën e gjendjes familjare, të lëshuar nga zyra e gjendjes civile e komunës dhe/ose bashkisë, ku të pasqyrohet numri i frymëve të familjes përfituese ose individit, në favor të të cilit do të lëshohet AMTP-ja, sipas gjendjes më 1 gusht 1991, me ndryshimet deri më 1 tetor 1992 dhe që prej kësaj date nuk kanë ndryshuar vendbanimin e tyre;
+b) dokumentacionin që vërteton se është përfitues i tokës bujqësore në pronësi, si rezultat i lëvizjes nga qendrat e tyre të banimit, me vendime të veçanta të Këshillit të Ministrave;
+c) dokumentacionin kadastral, hipotekor, arkivor apo gjyqësor që provon pronësinë mbi tokën bujqësore para reformës agrare, i cili vërteton se është përfitues i tokës bujqësore në pronësi, si bashkëthemelues i ish - ndërmarrjes bujqësore, si dhe certifikatën e gjendjes familjare në kohën e dorëzimit të tokës bujqësore;
+ç) planvendosjen e ngastrës/ave, që subjekti përfitues përdor për qëllime bujqësore, me nënshkrimin e kryetarit të komunës/bashkisë dhe e vulosur me vulën e komunës/bashkisë.
+d) korrespondencën shkresore të realizuar me institucinet sipas pikës 11, të këtij vendimi.

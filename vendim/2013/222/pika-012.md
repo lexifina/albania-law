@@ -1,0 +1,1 @@
+12. Institucionet e përcaktuara në pikën 11, të këtij vendimi, kanë detyrimin t’i përgjigjen me shkrim komunës/bashkisë, jo më vonë se 30 (tridhjetë) ditë nga data e marrjes së kërkesës. Në çdo rast të mosrespektimit të afatit të mësipërm, prefekti i qarkut njofton ministrat përgjegjës që mbulojnë fushat e veprimtarisë së këtyre institucioneve.

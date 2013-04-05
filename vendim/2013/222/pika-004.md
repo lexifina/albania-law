@@ -1,0 +1,1 @@
+4. Administrata e komunës/bashkisë regjistron në një regjistër të veçantë të gjitha kërkesat e paraqitura nga përdoruesit faktikë të tokës bujqësore të ish - ndërmarrjeve bujqësore, të cilët nuk janë pajisur me AMTP.

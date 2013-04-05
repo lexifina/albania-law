@@ -1,0 +1,1 @@
+19. Kryetari i komunës/bashkisë, plotëson AMTP-të për subjektet përfituese të përcaktuara në vendimin e këshillit të komunës/bashkisë, i cili është konfirmuar si në përputhje me ligjin nga prefekti i qarkut.

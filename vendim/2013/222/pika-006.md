@@ -1,0 +1,2 @@
+6. Komuna/bashkia, brenda 60 (gjashtëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, evidenton në hartat kadastrale ngastrat e tokës në përdorim faktik, sipas kërkesave të paraqitura, vetëm për përdoruesit që plotësojnë kushtin e subjektit përfitues, sipas nenit 2 të ligjit nr. 57/2012.
+Harta kadastrale përmbledhëse përgatitet në dy kopje origjinale, nga të cilat njëra kopje mbetet në arkivin e komunës/bashkisë dhe tjetra i përcillet zyrtarisht kryesisë së secilit fshat, që ndodhet nën juridiksionin territorial të komunës/bashkisë.

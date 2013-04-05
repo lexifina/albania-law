@@ -1,0 +1,1 @@
+16. Prefekti shprehet për rregullshmërinë ligjore të vendimit të këshillit të komunës/bashkisë, në përputhje me pikën 2 të nenit 14 të ligjit nr. 8927, datë 25.7.2002 “Për prefektin”, pasi ka marë mendimin e kryetarit të komunës/bashkisë, brenda afatit të përcaktuar në pikën 14, të këtij vendimi.

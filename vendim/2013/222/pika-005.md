@@ -1,0 +1,4 @@
+5. Komuna/bashkia, në bazë të dokumentacionit që disponon:
+a) kontrollon nëse për ngastrat e tokës bujqësore, për të cilat është paraqitur kërkesë sipas pikës 2 apo 3, të këtij vendimi, është lëshuar më parë AMTP për përfitues të tjerë, individë apo familje bujqësore. Në rastet kur vërtetohet ky fakt, sipas përcaktimit të nënndarjes “iv” të shkronjës “b” të nenit 3 të ligjit nr. 57/2012, komuna/bashkia njofton me shkresë kërkuesin, duke i refuzuar kërkesën;
+b) verifikikon qenien përfitues i tokës bujqësore në pronësi, sipas përcaktimeve të nenit 2 të ligjit nr. 57/2012. Kryetari i komunës/bashkisë u kthen përgjigje për refuzim të kërkesës kërkuesve, të cilët nuk plotësojnë këtë kusht;
+c) refuzon pranimin e kërkesës, në çdo rast kur është vënë në dijeni zyrtarisht nga gjykata se për ngastrat e tokës bujqësore të paraqitura në kërkesë ka një konflikt gjyqësor.

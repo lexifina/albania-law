@@ -1,0 +1,2 @@
+7. Komuna/bashkia afishon për konsultim publik, për 15 (pesëmbëdhjetë) ditë, në vendet publike të fshatit dhe të komunës/bashkisë, listën e përdoruesve në fakt të tokës bujqësore, vendndodhjen e saj, sipërfaqen dhe kufitarët për çdo ngastër.
+Gjatë periudhës së afishimit, çdo pretendues si përdorues që nuk e gjen emrin në listë, paraqet ankesë me shkrim pranë kryetarit të komunës/bashkisë, i cili pas shqyrtimit bën korrigjimet përkatëse.

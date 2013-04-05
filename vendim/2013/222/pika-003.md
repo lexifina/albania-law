@@ -1,0 +1,6 @@
+3. Subjektet e përcaktuara si bashkëthemeluese të ish - ndërmarrjes bujqësore, sipas vendimit nr. 452, datë 17.10.1992 të Këshillit të Ministrave “Për ristrukturimin e ndërmarrjeve bujqësore”, të ndryshuar, të cilat nuk janë pajisur me AMTP, për tokën bujqësore që kanë në përdorim faktik, paraqesin në komunë/bashki, brenda 45 (dyzetepesë) ditëve nga hyrja në fuqi e këtij vendimi:
+a) kërkesën, sipas së cilës kërkojnë të pajisen me AMTP për tokën që e kanë marrë në përdorim nga komisionet e ndarjes së tokës;
+b) dokumentacionin kadastral, hipotekor, arkivor apo gjyqësor që provon pronësinë mbi tokën bujqësore apo rrënjët e ullinjve para reformës agrare dhe qenien e tyre si themelues të ish - kooperativës apo ish - ndërmarrjes bujqësore;
+c) planvendosjen e ngastrës/ave, që subjekti përdor për qëllime bujqësore, të përgatitur nga një subjekt i licencuar, sipas kërkesave të sistemit të regjistrimit të pasurive të paluajtshme, ku të pasqyrohen sipërfaqja, kufijtë e saj dhe kufitarët;
+ç) certifikatën e trungut të familjes (përbërja e familjes) në momentin e dorëzimit të tokës bujqësore dhe çdo dokument tjetër në përputhje me përcaktimet e vendimit nr. 452, datë 17.10.1992 të Këshillit të Ministrave, të ndryshuar;
+d) aktin e marrjes së tokës bujqësore në përdorim, nëse e disponojnë.
