@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9298,
+  "title": "Për caktimin e datës për referendum të përgjithshëm",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8093",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-04-08",
+  "published": "2013-04-09",
+  "in_force": "2013-04-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/03323013aab4c4650af33aa655a135e6cf28749aa98bcd1621acadfd9b82f5bc.docx",
+  "source_sha256": "03323013aab4c4650af33aa655a135e6cf28749aa98bcd1621acadfd9b82f5bc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9298",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/04/08/8093",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
