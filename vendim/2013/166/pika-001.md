@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e përzgjedhjes së shoqërisë implementuese të projektit për ndërtimin e rrjeteve numerike (digjitale) të operatorit publik (RTSH), të formës “FDNT” (financim, dizenjim, ndërtim dhe transferim) është Ministria për Inovacionin, Teknologjinë e Informacionit e të Komunikimit.
