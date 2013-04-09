@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve të Jashtme, në buxhetin e miratuar për vitin 2013, zëri “Shpenzime korente”, t’i shtohet fondi prej 20 291 162 (njëzet milionë e dyqind e nëntëdhjetë e një mijë e njëqind e gjashtëdhjetë e dy) lekësh, për shlyerjen e detyrimeve të prapambetura për organizimin e veprimtarive të 100-Vjetorit të Pavarësisë.
