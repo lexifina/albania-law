@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë prej 3186 (tre mijë e njëqind e tetëdhjetë e gjashtë) m², tokë arë, shpronësuar në favor të bashkisë së Divjakës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrjetit ujësjellës me puse shpimi në plazhin e Divjakës dhe zgjerimi i rrjetit të Divjakës, në bashkinë e Divjakës.
