@@ -1,0 +1,1 @@
+1. Kufiri i shpenzimeve kapitale, miratuar në ligjin nr. 119/2012, datë 17.12.2012 “Për buxhetin e vitit 2013”, shtohet me 12 (dymbëdhjetë) miliardë lekë dhe shpërndahet në nivel programi, sipas lidhjes 1 bashkëlidhur këtij vendimi.

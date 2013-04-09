@@ -1,0 +1,1 @@
+2. Niveli i deficitit buxhetor, miratuar me ligjin nr. 119/2012, datë 17.12.2012 “Për buxhetin e vitit 2013”, shtohet me 12 (dymbëdhjetë) miliardë lekë dhe, njëkohësisht, financimi i deficitit buxhetor nga të ardhurat e privatizimit shtohet me 12 (dymbëdhjetë) miliardë lekë.
