@@ -1,0 +1,1 @@
+6. Regjistrimi i ri i pasurisë, një kat dhe tokë truall, me sipërfaqe 27 (njëzet e shtatë) m2, shpronësuar në favor të Drejtorisë Rajonale të Kulturës Kombëtare, Gjirokastër, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
