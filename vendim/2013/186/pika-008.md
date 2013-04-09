@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive prej 197 (njëqind e nëntëdhjetë e shtatë) m², truall, 500 (pesëqind) m², tokë arë dhe 60 (gjashtëdhjetë) m², objekt, shpronësuar në favor të komunës së Velabishtit, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
