@@ -1,0 +1,1 @@
+16. Frigorifer medikamentesh;

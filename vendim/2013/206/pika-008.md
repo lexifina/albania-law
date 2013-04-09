@@ -1,0 +1,1 @@
+8. Salla e transplantimit ajroset dhe kondicionohet me një sistem kondicionimi qendror me filtra biologjikë. Presioni pozitiv i ajrit në sallën e kryerjes së transplantit të jetë më i lartë se në dhomat që kanë lidhje me të.
