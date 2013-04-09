@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë 32.5 (tridhjetë e dy pikë pesë) m², truall, shpronësuar në favor të bashkisë së Orikumit, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
