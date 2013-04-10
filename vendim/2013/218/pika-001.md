@@ -1,0 +1,1 @@
+1. Në buxhetin vjetor të Zyrës së Regjistrimit të Pasurive të Paluajtshme krijohet fondi rezervë, për të garantuar shpenzimet që rrjedhin nga dëmshpërblimet për dëmet e shkaktuara si rezultat i regjistrimit të një informacioni jo të rregullt mbi një pasuri të paluajtshme.
