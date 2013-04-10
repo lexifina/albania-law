@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65523,
+  "title": "Për transferim prokurori",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8077",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-04-01",
+  "published": "2013-04-10",
+  "in_force": "2013-04-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2b2a239310f8d29bbd0b0a120a023d91440a6412e63b5932d9b9d01761ecb850.docx",
+  "source_sha256": "2b2a239310f8d29bbd0b0a120a023d91440a6412e63b5932d9b9d01761ecb850",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65523",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/04/01/8077",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
