@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të përcaktojë kriteret për tregtimin e materialeve të shumëzimit dhe të fidanëve të bimëve drufrutore, për kategoritë, identitetin dhe cilësinë e tyre, rregullat e paketimit dhe të etiketimit, si dhe kriteret e procedurat e kryerjes së certifikimit.

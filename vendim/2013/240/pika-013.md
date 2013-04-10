@@ -1,0 +1,1 @@
+13. “Pastërti varietore dhe e species”, kërkesa për gjendjen e materialeve të shumëzimit pa përzierje të varieteteve dhe specieve që nuk janë deklaruar në dokumentacionin përkatës ose dhe nuk janë shënjuar si të tilla.

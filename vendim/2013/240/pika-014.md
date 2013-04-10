@@ -1,0 +1,1 @@
+14. “Pastërti shëndetësore”, kërkesa për gjendjen e materialeve të shumëzimit dhe fidanëve të bimëve drufrutore pa infeksione ose dhe pa simptoma të organizmave të dëmshëm dhe sëmundjeve të listuara në aneksin 2 të këtij vendimi dhe në legjislacionin për mbrojtjen e bimëve.

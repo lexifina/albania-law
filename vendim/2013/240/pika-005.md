@@ -1,0 +1,1 @@
+5. “Fidanë frutorë të kategorisë “të certifikuar””, fidanët që janë prodhuar nga shumëzimi në mënyrë vegjetative direkt nga materialet e shumëzimit të certifikuara, të prodhuara nga bimët mëmë të kategorisë së certifikuar.
