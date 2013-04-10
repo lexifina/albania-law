@@ -1,0 +1,1 @@
+5. Niveli i pagave të nëpunësve, të cilët punojnë në Drejtorinë e Teknologjisë së Informacionit dhe Komunikimit në Zyrën Qendrore të Regjistrimit të Pasurive të Paluajtshme, është sipas lidhjes nr. 4 që i bashkëlidhet këtij vendimi.

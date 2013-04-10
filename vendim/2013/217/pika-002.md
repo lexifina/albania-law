@@ -1,0 +1,1 @@
+2. Kategoria e pagave të nëpunësve, në pozicionet “Specialist” deri në “Titullar i institucionit”, në Zyrën Qendrore të Regjistrimit të Pasurive të Paluajtshme, të jetë sipas lidhjes nr. 1 që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

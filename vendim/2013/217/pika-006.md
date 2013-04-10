@@ -1,0 +1,1 @@
+6. Për punonjësit mbështetës të Zyrës së Regjistrimit të Pasurive të Paluajtshme, struktura e pagës dhe përllogaritja e saj është e njëjtë me atë të punonjësve mbështetës të administratës publike, sipas vendimit përkatës të Këshillit të Ministrave.

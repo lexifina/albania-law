@@ -1,0 +1,1 @@
+3. Kategoria e pagave të nëpunësve, në pozicionet “Specialist” deri në “Titullar i institucionit”, në zyrat vendore të regjistrimit të pasurive të paluajtshme, të jetë sipas lidhjes nr. 2 që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
