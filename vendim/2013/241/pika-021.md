@@ -1,0 +1,1 @@
+21. Kryeinspektori i ISHSH-së, mbështetur nga njësitë përgjegjëse për shërbimet mbështetëse të Ministrisë së Shëndetësisë dhe në përputhje me kërkesat specifike për arsimimin e inspektorëve, të miratuara nga Inspektorati Qendror, miraton kërkesat specifike për çdo vend pune në ISHSH.

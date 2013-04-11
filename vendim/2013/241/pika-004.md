@@ -1,0 +1,1 @@
+4. Kryeinspektori i ISHSH-së i raporton drejtpërdrejt ministrit përgjegjës për shëndetësinë, përveç rasteve kur ministri ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi në aparatin e ministrisë përgjegjëse për shëndetësinë.

@@ -1,0 +1,1 @@
+12. Degët rajonale të ISHSH-së drejtohen nga kryeinspektorët rajonalë. Kryeinspektori rajonal përfaqëson degën rajonale në marrëdhënie me të tretët në nivelin e qarkut përkatës dhe është përgjegjës për organizimin, funksionimin, cilësinë dhe efektivitetin e veprimtarisë së degës së tij.

@@ -1,0 +1,1 @@
+10. Degët rajonale të ISHSH-së ushtrojnë veprimtarinë e tyre në territorin e qarkut përkatës dhe janë përgjegjëse për inspektimin. Me urdhër të kryeinspektorit të ISHSH-së, inspektorët e një dege rajonale mund të ushtrojnë veprimtarinë e tyre edhe në territorin e një qarku tjetër, në bashkëpunim me degën rajonale përkatëse.

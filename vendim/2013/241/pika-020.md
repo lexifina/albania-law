@@ -1,0 +1,1 @@
+20. Ngarkohet Ministri i Shëndetësisë që, brenda 1 (një) muaji nga hyrja në fuqi e këtij vendimi, të marrë masat për emërimin e kryeinspektorit të ISHSH-së dhe përgatitjen e strukturës e të organikës së ISHSH-së, në nivel qendror dhe rajonal, sipas akteve ligjore dhe nënligjore në fuqi.

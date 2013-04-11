@@ -1,0 +1,1 @@
+24. ISHSH-ja fillon punën sipas organizimit dhe funksionimit të përcaktuar në këtë vendim, nga data e emërimit të kryeinspektorit dhe miratimit të urdhrit përkatës të Kryeministrit për miratimin e strukturës dhe të organikës së ISHSH-së, sipas legjislacionit në fuqi për organizimin edhe funksionimin e administratës shtetërore.

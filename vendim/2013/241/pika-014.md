@@ -1,0 +1,1 @@
+14. Kryeinspektori rajonal i raporton dhe i jep llogari drejtpërdrejt kryeinspektorit të ISHSH-së, përveç rasteve kur kryeinspektori ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi pranë ISHSH-së në nivel qendror.
