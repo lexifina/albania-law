@@ -1,0 +1,1 @@
+5. Urdhri t’u njoftohet menjëherë ministrive, Dhomës Kombëtare të Noterisë, gjykatave të shkallës së parë dhe apelit, Gjykatës së Lartë, Gjykatës Kushtetuese, Prokurorisë së Përgjithshme dhe institucioneve në varësi të Ministrisë së Drejtësisë.
