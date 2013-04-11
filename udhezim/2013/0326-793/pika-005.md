@@ -1,0 +1,1 @@
+5. Mbi tarifat për veprimet dhe shërbimet që kryen Ministria e Drejtësisë, nëpërmjet Komisionit të Miratimit të Agjencive Ndërmjetësuese të Huaja, për miratimin e agjencive ndërmjetësuese të huaja, nuk aplikohet TVSH.

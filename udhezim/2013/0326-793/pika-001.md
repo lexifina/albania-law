@@ -1,0 +1,1 @@
+1. Tarifat për veprimet dhe shërbimet që kryen Ministria e Drejtësisë, nëpërmjet Komisionit të Miratimit të Agjencive Ndërmjetësuese të Huaja, për njohjen dhe miratimin e agjencive ndërmjetësuese të huaja, caktohet në masën 5 000 (pesë mijë) lekë.
