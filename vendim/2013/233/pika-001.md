@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 25.9.2012 për çështjen nr. 58555/10 “Rrapo kundër Shqipërisë”, në shumën 1 500 (një mijë e pesëqind) euro, si dhe çdo taksë që mund të jetë e ngarkueshme për dëmin moral.
