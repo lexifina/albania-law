@@ -1,0 +1,1 @@
+2. Miratimin e buxhetit të programit të Shërbimit të Regjistrimit të Pasurive të Paluajtshme, për vitin 2013, sipas tabelave nr. 2 e nr. 3, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
