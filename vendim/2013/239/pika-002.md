@@ -1,0 +1,1 @@
+2. Këto fonde të përdoren nga AZHBR-ja në formën e kreditimit pa interes, me qëllim nxitjen dhe rritjen e prodhimit bujqësor e blegtoral, si dhe përpunimin e këtyre produkteve. AZHBR-ja mund të fillojë disa herë në vit procedurën e pranimit dhe vlerësimit të aplikimeve, deri në përdorimin e plotë të fondeve të mbledhura.

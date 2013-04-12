@@ -1,0 +1,1 @@
+1. Fondet kundërparti, të dhëna nga qeveria japoneze dhe të mbledhura nga Agjencia për Zhvillim Bujqësor dhe Rural, si agjenci e pagesave, në shumën 173 095 454 (njëqind e shtatëdhjetë e tre milionë e nëntëdhjetë e pesë mijë e katërqind e pesëdhjetë e katër) lekë të trajtohen si të ardhura jashtë limiti dhe të përdoren nëpërmjet llogarisë së thesarit, brenda vitit 2013.
