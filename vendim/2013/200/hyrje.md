@@ -1,0 +1,5 @@
+VENDIM
+Nr. 200, datë 13.3.2013
+PËR MIRATIMIN E KONTRATËS SË KONCESIONIT PËR SHËRBIMIN E MARKIMIT DHE MONITORIMIT TË KARBURANTEVE të LIDHUR NDËRMJET MINISTRISË SË FINANCAVE të REPUBLIKËS SË SHQIPËRISË DHE BASHKIMIT TË PËRKOHSHËM TË SHOQËRIVE “GLOBAL FLUIDS INTERNATIONAL” S.A. DHE “PETROLEUM CONSULTING PARTNERS” A.G.
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 21 pika 4, e 27 të ligjit nr. 9663, datë 18.12.2006 “Për koncesionet”, të ndryshuar, me propozimin e Ministrit të Financave, Këshilli i Ministrave
+VENDOSI:

@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit për shërbimin e markimit dhe monitorimit të karburanteve, të lidhur ndërmjet Ministrisë së Financave të Republikës së Shqipërisë dhe bashkimit të përkohshëm të shoqërive “Global Fluids International” S.A. dhe “Petroleum Consulting Partners” A.G., sipas tekstit dhe shtojcave, që i bashkëlidhen këtij vendimi.
