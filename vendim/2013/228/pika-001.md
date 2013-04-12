@@ -1,0 +1,1 @@
+1. Ministrisë së Brendshme, në buxhetin e miratuar për vitin 2013, zëri “Shpenzime operative”, t’i shtohet fondi prej 832 000 (tetëqind e tridhjetë e dy mijë) lekësh, për mbulimin e shpenzimeve të kurimit të punonjësit të policisë, z. Sherif Maliq Lami.
