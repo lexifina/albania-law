@@ -1,0 +1,1 @@
+3. Mbledhjet e përbashkëta të Këshillit Kombëtar të Punës dhe të Këshillit Konsultativ të Biznesit bashkëdrejtohen nga Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe Ministri i Ekonomisë, Tregtisë dhe Energjetikës.

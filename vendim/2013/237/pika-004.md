@@ -1,0 +1,1 @@
+4. Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe Ministri i Ekonomisë, Tregtisë dhe Energjetikës informojnë Kryeministrin për konkluzionet dhe rekomandimet e dala nga mbledhjet e përbashkëta të Këshillit Kombëtar të Punës dhe Këshillit Konsultativ të Biznesit.

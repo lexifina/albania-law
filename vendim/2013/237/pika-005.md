@@ -1,0 +1,2 @@
+5. Bashkërendimi i veprimtarisë së Këshillit Kombëtar të Punës dhe të Këshillit Konsultativ të Biznesit, zhvillohet në vazhdimësi nëpërmjet shkëmbimit të informacionit, përgatitjes së materialeve për mbledhjen e këshillave përkatës dhe për mbledhjet e përbashkëta, dhe gjatë veprimtarisë së komisioneve të specializuara të Këshillit Kombëtar të Punës.
+Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe Ministri i Ekonomisë, Tregtisë dhe Energjetikës nxjerrin udhëzimet e nevojshme për mënyrën e bashkërendimit të veprimtarisë.
