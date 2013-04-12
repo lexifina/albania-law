@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të objektit “Baza prodhuese”, së bashku me truallin nën objekt, që ndodhet brenda territorit të shkollës së mesme bujqësore “Irakli Terova”, Korçë, nga bashkia Korçë tek Universiteti “Fan S. Noli”, Korçë, sipas planimetrive dhe planvendosjes, që i bashkëlidhet këtij vendimi.
