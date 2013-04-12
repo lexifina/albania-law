@@ -1,0 +1,1 @@
+1. Krijimin e Inspektoratit Shtetëror të Mjedisit, Pyjeve, Ujërave dhe Peshkimit, në vijim “ISHMPUP”, si institucion qendror buxhetor, në varësi të ministrit përgjegjës për mjedisin, pyjet, ujërat dhe peshkimin.

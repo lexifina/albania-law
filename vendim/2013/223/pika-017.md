@@ -1,0 +1,1 @@
+17. Stema e ISHMPUP-së përbëhet nga stema e Republikës dhe shënimet: “Republika e Shqipërisë, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Inspektorati Shtetëror i Mjedisit, Pyjeve, Ujërave dhe Peshkimit”.

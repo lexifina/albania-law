@@ -1,0 +1,1 @@
+6. Inspektorati Shtetëror i Mjedisit, Pyjeve, Ujërave dhe Peshkimit drejtohet nga kryeinspektori, i cili është titullari i institucionit. Kryeinspektori përfaqëson institucionin në marrëdhënie me të tretët dhe është përgjegjës për organizimin e bashkërendimin e punës për funksionimin dhe për cilësinë e efektivitetin e veprimtarisë së ISHMPUP-së.

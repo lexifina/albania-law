@@ -1,0 +1,1 @@
+13. Dega territoriale, në nivel qarku, drejtohet nga kryeinspektori i degës përkatëse të Inspektoratit Shtetëror të Mjedisit, Pyjeve, Ujërave dhe Peshkimit. Kryeinspektori është përgjegjës për organizimin dhe bashkërendimin e punës për funksionimin dhe për cilësinë e efektivitetin e veprimtarisë së degës.

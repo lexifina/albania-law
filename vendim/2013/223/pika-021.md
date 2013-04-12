@@ -1,0 +1,1 @@
+21. Kryeinspektori i ISHMPUP-së, mbështetur nga njësitë përgjegjëse për shërbimet mbështetëse të ministrisë dhe në përputhje me kërkesat specifike për arsimin e inspektorëve, të miratuara nga Inspektorati Qendror, miraton kërkesat specifike për çdo vend pune.
