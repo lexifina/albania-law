@@ -1,0 +1,13 @@
+8. Në planifikimin e territorit, sipas specifikave të çdo zone të brezit të gjelbër, të përcaktohen:
+- kategoritë dhe strukturat e lejuara, të kushtëzuara, të ndaluara, kushtet dhe normat e përdorimit të tyre brenda secilës zonë të brezit të gjelbër;
+- llojet e punimeve, të veprimtarive, të shërbimeve dhe të pritjes e të argëtimit të vizitorëve;
+- kushtet e sigurisë së jetës publike dhe të përshtatshmërisë për lëvizje për personat madhorë, me aftësi të kufizuar dhe kategori të tjera;
+- nënzonat e veçanta pa ndërtime, por vetëm për shëtitjet në natyrë të lirë dhe të strukturave përkatëse, si shtigjet, stolat, belvedere, çezma, nyje sanitare etj., në shërbim të vizitorëve;
+- nënzonat e veçanta e të kufizuara për ngritjen e strukturave të shërbimeve mbështetëse, shëndetësore e të nyjave sanitare, të tregtisë dhe të biznesit;
+- nënzonat e kufizuara për parkimin e çdo lloj automjeti;
+- nënzonat e veçanta për argëtim dhe veprimtari sportive;
+- veprimtaritë dhe ndërtimet e çfarëdolloji, që kanë ndikim të ndjeshëm në mjedis dhe që nuk janë në përputhje me qëllimin dhe funksionimin e zonave të brezit të gjelbër, të cilat duhet të pezullohen e të prishen;
+- planifikimi dhe administrimi i territorit për sipërfaqet e tokave, sipas përcaktimeve të ligjit nr. 8752, datë 26.3.2001 “Për krijimin dhe funksionimin e strukturave për administrimin dhe mbrojtjen e tokës”, të ndryshuar;
+- masat për rehabilitimin e digave dhe të pasqyrës ujëmbledhëse të liqeneve/rezervuarëve, për të rritur sigurinë dhe kthimin e tyre në mjedise çlodhëse, argëtuese, sportive dhe të peshkimit sportiv;
+- masat për rigjallërimin e pyjeve, të ripyllëzimit me lloje vendase dhe dekorative, në përputhje me funksionet e brezit, të pranueshme për peizazhin dhe të pëlqyer nga banorët dhe vizitorët;
+- masat që duhet të merren për rehabilitimin e mjedisit natyror të dëmtuar dhe ndaj erozionit.
