@@ -1,0 +1,1 @@
+2. Ngarkohet Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta të nxjerrë udhëzimin përkatës për zbatimin e standardeve të shërbimeve të përkujdesjes shoqërore për fëmijët në nevojë, në qendrat ditore publike dhe jopublike.
