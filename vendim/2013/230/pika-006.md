@@ -1,0 +1,1 @@
+6. Kafshët që largohen nga tregu duhet të shoqërohen me një certifikatë lëvizjeje, të lëshuar nga mjeku veterinar i njësisë së qeverisjes vendore, i pranishëm në treg, sipas autorizimit të lëshuar për këtë rast nga autoriteti kompetent.

@@ -1,0 +1,1 @@
+4. Subjekti, i cili ka në administrim tregun e kafshëve të gjalla, dorëzon te mjeku veterinar i njësisë së qeverisjes vendore, të pranishëm në treg, dokumentacionin e shoqërimit të kafshëve, numrat e identifikimit apo matrikujt e tyre.
