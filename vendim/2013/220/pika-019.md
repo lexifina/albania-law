@@ -1,0 +1,1 @@
+19. Nëpunësi i administratës publike mund të kryejë trajnime jashtë vendit, me nismën e tij, por për detyrën që ai kryen, për jo më shumë se 6 (gjashtë) muaj, me propozimin e përbashkët të eprorit, të drejtuesit të njësisë së menaxhimit të burimeve njerëzore të institucionit dhe me miratimin e titullarit të institucionit.

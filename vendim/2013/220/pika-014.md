@@ -1,0 +1,2 @@
+14. Trajnerët me të cilët lidhen kontratat e parashikuara në shkronjën “c” të pikës 11 të këtij vendimi, zgjidhen ata individë që kanë një diplomë “Master i shkencave” apo “Master i arteve” apo të barasvlershme me të sipas legjislacionit të arsimit të lartë dhe një përvojë pune në fushën përkatëse më të madhe se 11 vjet ose individët, të cilët kanë një gradë apo titull shkencor.
+II. Trajnimi në Shkollën Shqiptare të Administratës Publike

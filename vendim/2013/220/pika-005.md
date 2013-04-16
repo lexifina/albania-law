@@ -1,0 +1,1 @@
+5. Bordi këshillimor është organi këshillimor i ASPA-së dhe përbëhet nga sekretarët e përgjithshëm të të gjitha ministrive, drejtori i Departamentit të Administratës Publike, dy përfaqësues nga shoqatat e qeverisjes vendore dhe dy përfaqësues të Universitetit të Tiranës, të caktuar nga rektori i këtij universiteti, me kërkesë të ASPA-së.

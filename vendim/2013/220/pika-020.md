@@ -1,0 +1,1 @@
+20. Nëpunësi civil mund të kryejë trajnime mbi 6 (gjashtë) muaj jashtë apo brenda vendit, të ndërmarra me nismën e vet, por për detyrën që ai kryen. Gjatë kësaj kohe, ai pezullohet nga shërbimi civil.

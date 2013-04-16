@@ -1,0 +1,1 @@
+26. Vendimi nr. 315, datë 23.6.2000 i Këshillit të Ministrave “Për krijimin dhe funksionimin e Institutit të Trajnimit të Administratës Publike dhe trajnimin e nëpunësit civil”, i ndryshuar, shfuqizohet.
