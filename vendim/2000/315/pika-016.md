@@ -1,2 +1,0 @@
-16. Nëpunësi civil, mund të trajnohet jashtë vendit, në kuadrin e programeve të trajnimit, të organizuara nga institucioni, në përputhje me programet e përgjithshme të trajnimit, të hartuara nga Departamenti i Administratës Publike. Në mbarim të këtyre trajnimeve, punonjësi duhet të kthehet dhe të punojë në vendin e tij të mëparshëm, por jo më pak se dy vjet.
-Kur nëpunësi refuzon të kthehet në vendin e mëparshëm, ai duhet të dëmshpërblejë institucionin për shpenzimet e kualifikimit.

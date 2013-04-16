@@ -1,1 +1,0 @@
-5. Bordi këshillimor është organi këshillimor i institutit dhe përbëhet nga sekretarët e përgjithshëm të gjithë ministrive, dy përfaqësues të Qendrës së Trajnimit të Administratës Vendore dhe dy përfaqësues të Universitetit të Tiranës, të caktuar nga rektorati i tij, me kërkesën e drejtorit të Departamentit të Administratës Publike.
