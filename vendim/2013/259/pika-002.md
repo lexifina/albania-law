@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 pikëve për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese, për dhënien me koncesion të këtij hidrocentrali, që i jepet shoqërisë “M.C.Inerte” sh.p.k.
