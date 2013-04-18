@@ -1,0 +1,1 @@
+13. Në rast se përpunimi i të dhënave kryhet me anë të platformës “cloud computing” ose me anë të përpunimit të lëvizshëm, do të zbatohen masa sigurie shtesë (p.sh.: aktivizimi i shërbimit kundër vjedhjes në kompjuterin portabël ose në telefonin smart). Të gjitha pajisjet që shërbejnë si mbartës të dhënash do të kodohen.

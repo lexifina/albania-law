@@ -1,0 +1,1 @@
+45. Komisioneri, mbi këtë bazë, mund t’i kërkojë personit të kontaktit të kryejë një pjesë të procedurave të inspektimit, përfshirë kontrollin paraprak të dosjeve të të dhënave personale që përmbajnë të dhëna sensitive.

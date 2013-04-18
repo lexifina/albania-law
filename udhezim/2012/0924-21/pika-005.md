@@ -1,0 +1,1 @@
+5. Dispozitat në lidhje me sigurinë e sistemit TIK janë të detyrueshme për ato subjekte që përpunojnë të dhëna personale në mënyrë elektronike. Për ato që përpunojnë të dhëna personale në mënyrë manuale, do të zbatohen vetëm dispozitat përkatëse për sigurinë fizike, sigurinë e ambientit dhe të personelit.

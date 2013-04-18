@@ -1,0 +1,1 @@
+32. Në rast se pas njoftimit të personit të kontaktit, subjekti përpunues i të dhënave personale, dështon në marrjen e masave të duhura për trajtimin e problemit në kohën e duhur, personi i kontaktit njofton Komisionerin pa vonesë.

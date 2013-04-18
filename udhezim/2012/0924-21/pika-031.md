@@ -1,0 +1,1 @@
+31. Personi i kontaktit, në kohën e duhur, njofton me shkrim subjektin përpunues të të dhënave për çdo rrezik shkelje të të drejtave të subjekteve të të dhënave, përfshirë shkeljen e legjislacionit për mbrojtjen e të dhënave personale.

@@ -1,0 +1,1 @@
+44. Përpara se të lidhë një marrëveshje kontraktore, që përfshin përpunimin e të dhënave personale, kontrolluesi ka detyrimin të kontrollojë përpunuesin për pajtueshmërinë e tij me ligjin për mbrojtjen e të dhënave personale.

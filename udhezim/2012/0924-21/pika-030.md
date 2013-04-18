@@ -1,0 +1,1 @@
+30. Përpara fillimit të përpunimit të të dhënave personale në sistemin e arkivimit, personi i kontaktit vlerëson riskun e shkeljes së të drejtave dhe lirive të subjekteve të të dhënave. Kjo analizë është pjesë përbërëse e analizës së ndikimit në të dhënat personale.
