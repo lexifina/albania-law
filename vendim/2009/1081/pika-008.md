@@ -1,4 +1,11 @@
 8. Drejtoritë rajonale ushtrojnë veprimtarinë e tyre në territorin e qarkut përkatës. Me urdhër të drejtorit të përgjithshëm, punonjës të drejtorisë rajonale mund të ushtrojnë veprimtarinë e tyre edhe në territorin e një qarku tjetër, në bashkëpunim me drejtorinë rajonale përkatëse, që mbulon territorin e atij qarku.
+8/1. Kryeinspektori rajonal përfaqëson drejtorinë rajonale në marrëdhënie me të tretët në nivelin e qarkut përkatës dhe është përgjegjës për organizimin e koordinimin e funksionimin, si dhe për cilësinë e efektivitetin e veprimtarisë së drejtorisë.
+8/2. Përveç sa parashikohet në pikën 5 të këtij vendimi, kryeinspektori rajonal:
+a) lëshon autorizimin e inspektimit, në përputhje dhe në bazë të programit të miratuar të inspektimit;
+b) vendos për shtyrjen e kohëzgjatjes së autorizimit në përputhje me legjislacionin në fuqi për inspektimin;
+c) vendos për zëvendësimin e inspektorëve, gjatë inspektimit, sipas ligjit;
+ç) shqyrton ankimin e veçantë ndaj vendimeve për masat urgjente të marra nga inspektorët e drejtorisë përkatëse.
+8/3. Kryeinspektori rajonal i raporton dhe i jep llogari drejtpërdrejt drejtorit të përgjithshëm të AKU-së, kryeinspektorit, përveçse kur ai ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi në Drejtorinë e Përgjithshme të AKU-së.
 II. KRITERET E EMËRIMIT, TË SHKARKIMIT TË ANËTARËVE TË BORDIT TË AKU-SË, SI DHE TË DREJTAT, DETYRAT DHE FUNKSIONIMI I BORDIT
 1. Përbërja e bordit dhe zgjedhja e kryetarit përcaktohen në përputhje me nenin 64 të ligjit nr.9863, datë 28.1.2008 “Për ushqimin”.
 2. Anëtar i bordit zgjidhet shtetasi shqiptar, që plotëson kriteret e mëposhtme:

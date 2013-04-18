@@ -1,12 +1,20 @@
 4. Drejtoria e Përgjithshme ka këto funksione:
-a) Planifikon dhe bashkërendon kontrollin zyrtar të ushqimeve dhe ushqimeve për kafshë, të mbrojtjes së bimëve dhe mbrojtjes së shëndetit të kafshëve;
-b) Siguron unifikimin e praktikave të kontrollit të sigurisë së ushqimeve dhe ushqimeve për kafshë, të mbrojtjes së bimëve dhe mbrojtjes së shëndetit të kafshëve, në shkallë vendi;
-c) Bashkërendon veprimtarinë e laboratorëve të autorizuar të sistemit të kontrollit zyrtar të ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve dhe mbrojtjes së shëndetit të kafshëve;
-ç) Siguron kryerjen e analizave nga laboratorë të tjerë të akredituar, në rastin e pamundësisë së kryerjes së tyre nga laboratorët e autorizuar të kontrollit zyrtar të ushqimit;
-d) Drejton procesin e vlerësimit të riskut në fushën e ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve dhe mbrojtjes së shëndetit të kafshëve;
-dh) Kryen studime shkencore të nevojshme për vlerësimin e riskut në fushën e sigurisë së ushqimit dhe ushqimit për kafshë, mbrojtjes së bimëve dhe mbrojtjes së shëndetit të kafshëve;
+a) Bashkërendon kontrollin zyrtar të ushqimeve dhe ushqimeve për kafshë, të mbrojtjes së bimëve, të të drejtave të seleksionerit të bimëve, të veprimtarive për prodhimin dhe tregtimin e duhanit dhe cigareve, si dhe të fushës së veprimtarisë së prodhimit e tregtimit të materialit mbjellës dhe shumëzues bimor, sipas planifikimeve të kontrollit, të përcaktuara në legjislacionin e fushës përkatëse, si dhe të atij për inspektimin;
+b) Siguron unifikimin e praktikave të kontrollit të sigurisë së ushqimeve dhe ushqimeve për kafshë, të mbrojtjes së bimëve, në shkallë vendi të kontrollit për zbatimin e kërkesave ligjore në fushën e mbrojtjes të të drejtave të seleksionerit të bimëve, fushën e veprimtarive për prodhimin dhe tregtimin e duhanit dhe cigareve, si dhe në fushën e veprimtarisë së prodhimit dhe tregtimit të materialit mbjellës e shumëzues bimor;
+c) Bashkërendon veprimtarinë e laboratorëve të autorizuar të sistemit të kontrollit zyrtar të ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve të kontrollit për zbatimin e kërkesave ligjore në fushën e mbrojtjes të të drejtave të seleksionerit të bimëve, fushën e veprimtarive për prodhimin dhe tregtimin e duhanit dhe cigareve, si dhe në fushën e veprimtarisë së prodhimit dhe tregtimit të materialit mbjellës e shumëzues bimor;
+ç) Siguron kryerjen e analizave nga laboratorë të tjerë të akredituar, në rastin e pamundësisë së kryerjes së tyre nga laboratorët e autorizuar të kontrollit zyrtar të ushqimit të kontrollit për zbatimin e kërkesave ligjore në fushën e mbrojtjes të të drejtave të seleksionerit të bimëve, fushën e veprimtarive për prodhimin dhe tregtimin e duhanit dhe cigareve, si dhe në fushën e veprimtarisë së prodhimit dhe tregtimit të materialit mbjellës e shumëzues bimor;
+d) Drejton procesin e vlerësimit të riskut në fushën e ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve të kontrollit për zbatimin e kërkesave ligjore në fushën e mbrojtjes të të drejtave të seleksionerit të bimëve, fushën e veprimtarive për prodhimin dhe tregtimin e duhanit dhe cigareve, si dhe në fushën e veprimtarisë së prodhimit dhe tregtimit të materialit mbjellës e shumëzues bimor;
+dh) Kryen studime shkencore të nevojshme për vlerësimin e riskut në fushën e sigurisë së ushqimit dhe ushqimit për kafshë, mbrojtjes së bimëve të kontrollit për zbatimin e kërkesave ligjore në fushën e mbrojtjes të të drejtave të seleksionerit të bimëve, fushën e veprimtarive për prodhimin dhe tregtimin e duhanit dhe cigareve, si dhe në fushën e veprimtarisë së prodhimit dhe tregtimit të materialit mbjellës e shumëzues bimor;
 e) Përgatit mendimin shkencor paraprak për nxjerrjen në treg të OMGJ-ve dhe/ose ushqimeve të reja;
-ë) Informon publikun për fushën e sigurisë së ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve dhe mbrojtjes së shëndetit të kafshëve;
+ë) Informon publikun për fushën e sigurisë së ushqimeve dhe ushqimeve për kafshë, mbrojtjes së bimëve të kontrollit për zbatimin e kërkesave ligjore në fushën e mbrojtjes të të drejtave të seleksionerit të bimëve, fushën e veprimtarive për prodhimin dhe tregtimin e duhanit dhe cigareve, si dhe në fushën e veprimtarisë së prodhimit dhe tregtimit të materialit mbjellës e shumëzues bimor;
 f) Jep mbështetje teknike, administrative dhe shkencore, për të siguruar veprimtarinë e komitetit shkencor dhe të paneleve shkencore;
 g) Përgatit raportin vjetor për vlerësimin e funksionimit të AKU-së;
 gj) Përgatit planin e punës e buxhetin afatshkurtër dhe afatmesëm të AKU-së, që miratohet nga bordi.
+4/1. Përveç sa parashikohet në pikën 4 të këtij vendimi, Drejtoria e Përgjithshme është përgjegjëse për kryerjen e këtyre funksioneve të brendshme për të gjithë institucionin:
+a) menaxhimin e burimeve njerëzore, çështjet ligjore, teknologjinë e informacionit, mirëmbajtjen dhe shërbimet e tjera mbështetëse;
+b) përgatitjen dhe zbatimin e buxhetit, mbajtjen e kontabilitetit dhe kryerjen e auditimit të brendshëm.
+4/2. Në Drejtorinë e Përgjithshme të AKU-së krijohet Komisioni i Ankimit të AKU-së, i cili drejtohet nga kryeinspektori dhe ka në përbërje:
+a) një përfaqësues të njësisë që mbulon çështjet juridike;
+b) një përfaqësues nga sektori përkatës që mbulon çështjen e inspektimit që ankimohet;
+c) dy specialistë të tjerë të Drejtorisë së Përgjithshme.
+4/3. Lista emërore e Komisionit të Ankimit miratohet me urdhër të kryeinspektorit dhe bëhet publike me mjete të përshtatshme.
