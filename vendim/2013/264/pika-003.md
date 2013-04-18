@@ -1,0 +1,1 @@
+3. Miratimin e planit të trajnimit për punonjësit e administratës publike për ngritjen e kapaciteteve administrative në fushën e së drejtës së vendosjes dhe lëvizjes së lirë të shërbimeve, sipas aneksit 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

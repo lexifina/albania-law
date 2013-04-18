@@ -1,0 +1,1 @@
+1. Miratimin e planit të veprimit për përafrimin e legjislacionit në fushën e së drejtës së vendosjes dhe lëvizjes së lirë të shërbimeve dhe transpozimin e direktivës “Për shërbimet në tregun e brendshëm 2006 123 EC”, sipas aneksit 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

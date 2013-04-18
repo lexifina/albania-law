@@ -1,0 +1,1 @@
+2. Miratimin e metodologjisë për identifikimin, shqyrtimin, ndryshimin, shfuqizimin apo hartimin e akteve, ligjore e nënligjore, që lidhen me të drejtën e vendosjes dhe lëvizjen e lirë të shërbimeve dhe përafrimin e tyre me legjislacionin e Bashkimit Europian në këtë fushë, sipas aneksit 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
