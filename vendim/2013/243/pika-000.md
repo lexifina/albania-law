@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit nr. TF13972, ndërmjet Shqipërisë dhe Bankës për Rindërtim dhe Zhvillim (IBRD), që vepron si administratore e fondeve grant, të siguruara nga disa donatorë, për financimin e projektit “Ngritje e kapaciteteve dhe mbështetje për zbatimin e sistemit të planifikimit të integruar (SPI)”, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
