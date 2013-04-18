@@ -1,0 +1,1 @@
+5. Struktura përgjegjëse kërkon nga shpërndarësit të mbajnë dhe të sigurojnë menjëherë dokumentacionin e nevojshëm që bën të mundur identifikimin e çdo personi prej të cilit ata janë furnizuar me çakmakët që kanë vendosur në treg, në mënyrë që të sigurohet gjurmueshmëria e prodhuesve të çakmakëve nëpërmjet zinxhirit të furnizimit.

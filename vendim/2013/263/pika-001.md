@@ -1,0 +1,1 @@
+1. Ndalimin e vendosjes në treg dhe ofrimit te konsumatorët të çakmakëve me modele imituese, tërheqës ndaj fëmijëve, si dhe garantimin e vendosjes në treg dhe ofrimit te konsumatorët vetëm të çakmakëve rezistentë ndaj fëmijëve.

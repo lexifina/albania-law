@@ -1,0 +1,1 @@
+6. Në rastet kur prodhuesit dhe shpërndarësit nuk sigurojnë dokumentacionin e përmendur në pikat 4 dhe 5, brenda afatit kohor të vendosur nga struktura përgjegjëse e mbikëqyrjes së tregut, kjo e fundit kërkon me urdhër me shkrim, ndalimin dhe tërheqjen nga tregu të çakmakëve.
