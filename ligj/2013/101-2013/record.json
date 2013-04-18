@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9282,
+  "title": "Për një ndryshim në ligjin nr. 8653, datë 31.7.2000 “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "101-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-03-18",
+  "published": "2013-04-03",
+  "in_force": "2013-04-18",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/1d530e5722684b01bcce0a3cad6372383b9cdad22fbb9b8c7fca170af7d0c988.docx",
+  "source_sha256": "1d530e5722684b01bcce0a3cad6372383b9cdad22fbb9b8c7fca170af7d0c988",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9282",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/03/18/101-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
