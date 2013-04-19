@@ -1,0 +1,2 @@
+5. Zyrtari/struktura përgjegjëse, sipas organizimit dhe funksionimit të institucionit publik, nuk përmbush detyrimin ligjor, të përcaktuar në nenin 42/3, paragrafi i tretë, për njoftim paraprak të Inspektoratit të Përgjithshëm në rastet e emërimit, lëvizjes apo largimit nga funksioni të autoritetit përgjegjës për parandalimin e konfliktit të interesave.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

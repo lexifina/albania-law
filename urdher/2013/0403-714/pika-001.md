@@ -1,0 +1,1 @@
+1. Autoriteti përgjegjës për parandalimin e konfliktit të interesave, i ngritur në zbatim të nenit 41/2 pika “b” të ligjit nr. 9367, datë 7.4.2005, të ndryshuar, nuk dokumenton dhe regjistron në regjistrin e konfliktit të interesit, të dhënat e kërkuara në nenin 11 të këtij ligji lidhur me rastet e konfliktit të interesave në institucionin publik përkatës.

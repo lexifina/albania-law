@@ -1,0 +1,1 @@
+4. Autoriteti përgjegjës për parandalimin e konfliktit të interesave, nuk përmbush në afatet e caktuara detyrimet ligjore të përcaktuara në nenin 42/3, paragrafi i dytë të këtij ligji, si dhe detyrat e lëna nga Inspektorati i Lartë, për problematikat që rezultojnë nga kontrollet e ushtruara mbi veprimtarinë dhe zbatimin e ligjit.

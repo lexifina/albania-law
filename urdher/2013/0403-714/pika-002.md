@@ -1,0 +1,1 @@
+2. Zyrtari, eprori apo struktura përgjegjëse në institucionin epror, në kundërshtim me kërkesat e nenit 37/9 të ligjit nr. 9367, datë 7.4.2005, të ndryshuar, nuk njofton në kohë Inspektoratin e Lartë, mbi masat e marra rast pas rasti në kompetencë të tyre, për trajtimin apo zgjidhjen e konfliktit të interesit sipas përcaktimit të bërë në nenin 37 të këtij ligji.
