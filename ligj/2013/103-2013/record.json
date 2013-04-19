@@ -1,0 +1,28 @@
+{
+  "qbz_id": 9284,
+  "title": "Për ratifikimin e marrëveshjes së huas ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) për financimin e projektit të përmirësimit të sigurisë së digës në hidrocentralin e Komanit",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "103-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-03-25",
+  "published": "2013-04-04",
+  "in_force": "2013-04-19",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/1b8a423444717b4d1e7892eac33da9d88c4bfe4658a6e230f253feb2e46ac92f.docx",
+  "source_sha256": "1b8a423444717b4d1e7892eac33da9d88c4bfe4658a6e230f253feb2e46ac92f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9284",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/03/25/103-2013",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61930
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
