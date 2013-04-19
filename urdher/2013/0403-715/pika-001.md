@@ -1,0 +1,1 @@
+1. Deklarimi i pasurive, burimeve të krijimit të tyre, detyrimeve financiare nga subjekti apo personi i lidhur me të, nuk bëhet sipas kërkesave të parashikuara në ligj dhe në formën e përcaktuar nga Inspektori i Përgjithshëm.

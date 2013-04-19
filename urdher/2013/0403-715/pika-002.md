@@ -1,0 +1,1 @@
+2. Subjekti deklarues, apo personi i lidhur me të, nuk merr masa për të rregulluar brenda afatit ligjor pasaktësitë e konstatuara gjatë përpunimit paraprak të deklaratës së interesave privatë, sipas kërkesave të parashikuara në nenin 24 të ligjit nr. 9049, datë 10.4.2003, të ndryshuar.
