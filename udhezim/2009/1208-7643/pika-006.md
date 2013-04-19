@@ -1,1 +1,0 @@
-6. Për kalibrimin e instrumenteve matëse zbatohen pagesat e përcaktuara në pasqyrën nr.4, bashkëlidhur këtij udhëzimi. Për rastet kur kërkohet kopje (dublikate) e certifikatës/raportit të kalibrimit, paguhet vlera fikse prej 500 lekësh.

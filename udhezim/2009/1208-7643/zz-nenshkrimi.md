@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINSTRI I EKONOMISË, TREGTISË DHE ENERGJITIKËS
-Dritan Prifti

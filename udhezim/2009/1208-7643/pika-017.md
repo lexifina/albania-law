@@ -1,1 +1,0 @@
-17. Për shërbimet, të cilat nuk përfshihen në pasqyrat bashkëlidhur, tarifa ose pagesa do të përllogaritet me kohën e punës në orë, të nevojshme për shërbimin e kryer, shumëzuar me tarifën 1 500 lekë.

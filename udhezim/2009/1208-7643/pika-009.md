@@ -1,1 +1,0 @@
-9. Kur puna verifikuese ose kalibruese ndërpritet për shkak të pronarit ose administruesit, pagesa për copë llogaritet mbi bazën e numrit të instrumenteve matëse që janë verifikuar ose kalibruar faktikisht nga ai tip.

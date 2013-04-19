@@ -1,1 +1,0 @@
-7. Pagesat e verifikimit fillestar ose periodik, si dhe pagesat e kalibrimit llogariten për copë, për çdo pronar ose administrues të marrë veç e veç, si dhe për instrumente matëse të të njëjtit tip dhe që verifikohen ose kalibrohen në të njëjtin vend dhe në të njëjtën kohë.
