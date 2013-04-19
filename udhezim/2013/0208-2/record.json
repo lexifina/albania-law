@@ -1,0 +1,28 @@
+{
+  "qbz_id": 9381,
+  "title": "Për tarifat dhe pagesat e shërbimeve të Drejtorisë së Përgjithshme të Metrologjisë",
+  "type": "Udhëzim",
+  "kind": "Akt shfuqizues",
+  "number": "2",
+  "institution": "Ministria e Financave",
+  "adopted": "2013-02-08",
+  "published": "2013-04-19",
+  "in_force": "2013-04-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/162d52f8a2cfb03e03920cc53bc5ea1a10bfc565bd1307c77da31da562f53344.docx",
+  "source_sha256": "162d52f8a2cfb03e03920cc53bc5ea1a10bfc565bd1307c77da31da562f53344",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9381",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2013/02/08/2",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    12503
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
