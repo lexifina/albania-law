@@ -1,0 +1,1 @@
+3. Subjekti “Albanera” sh.p.k. detyrohet të rehabilitojë sipërfaqen e marrë në përdorim sipas kushteve të përcaktuara në pikën 2 të këtij vendimi. Të ndërpritet dhënia në përdorim e pjesës tjetër dhe vazhdimi i punimeve në vitin pasardhës, në qoftë se subjekti “Albanera” sh.p.k., nuk ka rehabilituar sipërfaqen e shfrytëzuar në vitin paraardhës.

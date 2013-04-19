@@ -1,0 +1,1 @@
+1. Heqjen nga Fondi Pyjor Kombëtar dhe çregjistrimin nga zëri kadastral “pyll” të sipërfaqes prej 7.5 (shtatë pikë pesë) ha, pjesë e ngastrës 39/a të ekonomisë pyjore “Dhëmbel - Kala”, që do të përdoret nga subjekti “Albanera” sh.p.k., për karrierë guri, sipas hartës përkatëse që i bashkëlidhet këtij vendimi.
