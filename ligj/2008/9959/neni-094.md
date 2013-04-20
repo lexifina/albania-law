@@ -1,7 +1,0 @@
-# Neni 94
-Pajisja me dokument udhëtimi
-1. Përfaqësitë diplomatike të Republikës së Shqipërisë lëshojnë dokumente të vlefshme udhëtimi, me një hyrje për të huajin, i cili ka emigruar në mënyrë të rregullt ose ka leje qëndrimi, dokumentet e të cilit kanë humbur ose janë dëmtuar jashtë e nuk mund të zëvendësohen atje dhe, për rrjedhojë, nuk mund të kthehet në Republikën e Shqipërisë.
-2. Autoriteti qendror i Policisë Kufitare dhe Migracionit i lëshon, me kërkesën e të interesuarit, dokument udhëtimi të huajit, i cili ka leje qëndrimi dhe do të udhëtojë jashtë vendit, për një afat deri në 2 vjet, duke i dhënë të drejtë atij të kthehet në vend edhe pse nuk ka një dokument të vlefshëm udhëtimi të vendit të origjinës e nuk mund ta zëvendësojë atë, për arsye që nuk varen prej tij.
-3. Autoriteti qendror i Policisë Kufitare dhe Migracionit lëshon dokument udhëtimi, duke i dhënë të drejtën e një hyrjeje të huajit, për t’u rikthyer në vendin e qëndrimit të tij të përhershëm, kur ky dokument ka humbur ose është shkatërruar dhe nuk mund të zëvendësohet.
-4. Për qëllime udhëtimi jashtë, autoriteti qendror i Policisë Kufitare dhe Migracionit i lëshon një dokument udhëtimi personit pa shtetësi, i cili jeton në Republikën e Shqipërisë, duke i dhënë të drejtën të rikthehet në vend brenda periudhës së vlefshmërisë. Ky dokument është i vlefshëm për një periudhë dyvjeçare nga data e lëshimit.
-5. Dokumentet e udhëtimit miratohen me vendim të Këshillit të Ministrave.

@@ -1,3 +1,0 @@
-# Neni 62
-Rregullimi i çështjeve që lidhen me rezidentët afatgjatë
-Këshilli i Ministrave, me propozimin e Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministrit të Brendshëm, Ministrit të Punëve të Jashtme, Ministrit të Integrimit, Ministrit të Arsimit dhe Shkencës dhe Ministrit të Turizmit, Kulturës, Rinisë dhe Sporteve, rregullon të gjitha çështjet për dokumentacionin e nevojshëm dhe procedurat për fitimin e statusit të rezidentit afatgjatë, si dhe çështjet përkatëse për anulimin ose humbjen e këtij statusi, duke siguruar të drejtat që lindin prej tij, përcaktimin e së drejtës së lëvizjes së lirë dhe kushtet e posaçme për mbrojtjen nga dëbimi.

@@ -1,2 +1,0 @@
-KREU V
-LEJET E PUNËS
