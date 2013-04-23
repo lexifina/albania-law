@@ -1,0 +1,1 @@
+9. Në rast se bëhen gabime materiale në hedhjen e informacionit në regjistër, rreshti elektronik dhe shkresor i shkruar gabim nuk fshihet, por vendoset statusi gabim/jo aktiv dhe regjistrohet një rresht i ri me të dhëna të sakta, i cili reflektohet në formatin elektronik dhe atë shkresor të regjistrit.

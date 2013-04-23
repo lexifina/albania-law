@@ -1,0 +1,1 @@
+5. Regjistri manual përbëhet nga 100 fletë formati “A3” të lidhura, të numërtuara e të vulosura në çdo faqe me vulën e Ministrisë së Drejtësisë. Kur një rresht nuk është i mjaftueshëm për të pasqyruar të dhënat e aktit, kalohet në faqen tjetër duke bërë shënimin përkatës në kolonën “shënime”.

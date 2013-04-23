@@ -1,0 +1,1 @@
+12. Në rastin e regjistrit në formën elektronike, germat “f” dhe “g” të pikës së mësipërme nuk do të paraqiten në formë kolone, por në rresht, me numër me fraksion poshtë aktit që ndryshojnë ose shfuqizojnë, në përputhje me shtojcën 2, bashkëlidhur.
