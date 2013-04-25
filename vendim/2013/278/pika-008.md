@@ -1,0 +1,1 @@
+8. Përveç raporteve të përcaktuara në pikat 6 dhe 7, nëse Njësia e Mbikëqyrjes së Lojërave të Fatit e gjykon të arsyeshme, i licencuari duhet të gjenerojë edhe raporte të tjera për të dhënat e ruajtura në sistemin e Lotarisë Kombëtare.
