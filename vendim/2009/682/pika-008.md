@@ -1,1 +1,0 @@
-8. Të gjitha pajisjet, ku ruhen programet, përfshi ROMs, EPROMs, FLASH ROMs, DVD, CD-ROM, Compact Flash dhe çdo pajisje tjetër, të cilat nuk duhet të ndryshojnë gjatë funksionimit të serverit, duhet të kenë të shënuar qartësisht një informacion të mjaftueshëm për identifikimin e softit dhe nivelin e rishikimit të informacionit të ruajtuar në pajisje.

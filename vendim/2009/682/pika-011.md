@@ -1,2 +1,0 @@
-11. Të gjitha kodet dhe pasword-et e përdorura nga i licencuari për lotari duhet të jenë të koduara në formë të patjetërsueshme. Çelësat e kodimit dhe të dekodimit duhet të kodohen në formë të kthyeshme.
-Në rastet kur lojtarët dhe personeli i të licencuarit për veprimtarinë e lotarisë kombëtare identifikohen me numër personal identifikimi “PIN”, atëherë algoritmi, që gjeneron numrat PIN, si dhe procedura përkatëse e ndryshimit, ruajtjes së bazës së të dhënave, sigurisë dhe shpërndarjes së PIN-it, duhet të jenë të testuara nga DPM-ja, përpara miratimit nga NJMLF-ja.

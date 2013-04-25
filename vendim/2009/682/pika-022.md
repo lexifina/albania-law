@@ -1,1 +1,0 @@
-22. Zona e autorizuar e kontaktit lejon përdorimin e të dhënave statistikore të lojës, vetëm nga persona të autorizuar, të cilët mund të kontrollojnë parametrat e konfiguracionit të lojës dhe të të dhënave statistikore, brenda kufijve të përcaktuar nga prodhuesi.

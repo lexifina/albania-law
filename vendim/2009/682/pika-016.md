@@ -1,1 +1,0 @@
-16.Të gjitha aparatet, që shërbejnë për lojërat e fatit, duhet të sigurojnë që tokëzimi i aparatit të jetë më i vogël se 4 omh. Kryerja e testit ka të bëjë me sigurinë e jetës së lojtarit gjatë lojës.

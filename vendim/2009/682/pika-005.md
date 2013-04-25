@@ -1,1 +1,0 @@
-5. I licencuari për veprimtarinë e lotarisë kombëtare nuk mund të ndërhyjë në sistemin qendror komjuterik apo në komponentët e tij dhe të sistemit të hardware-it dhe të software-it pa miratimin e Njësisë së Mbikëqyrjes së Lojërave të Fatit.

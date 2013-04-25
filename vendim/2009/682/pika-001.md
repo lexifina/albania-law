@@ -1,1 +1,0 @@
-1. Pajisjet e lotarive kombëtare, për të qenë të ligjshme për përdorim, duhet të përmbushin specifikimet teknike, sipas këtij vendimi. Asnjë pajisje nuk do të përdoret nga i licencuari për veprimtarinë e lotarisë kombëtare, nëse ajo nuk është certifikuar dhe miratuar si pajisje nga Njësia e Mbikëqyrjes së Lojërave të Fatit.
