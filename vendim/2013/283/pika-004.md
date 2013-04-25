@@ -1,0 +1,2 @@
+4. Pagimi i shumës së depozituar sipas pikës 4 të këtij vendimi, në favor të ankuesit, z.Stefanaq Cale, të bëhet nga Ministria e Financave, pas paraqitjes së të gjithë dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga Buxheti i Shtetit, brenda datës 6 maj 2013.
+Në rast mospagimi brenda këtij afati, mbi shumën e mësipërme paguhen interesa të thjeshta të barabarta me kursin marzhinal të huas së Bankës Qendrore Europiane, gjatë periudhës së mospagimit, plus tre për qind.
