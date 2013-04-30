@@ -1,0 +1,1 @@
+30. Certifikata e zënieve vërteton se ato (zëniet) janë bërë në përputhje me ligjet, rregulloret dhe masat e rëndësishme menaxhuese e mbrojtëse kombëtare dhe ndërkombëtare në fuqi. Certifikatat e importit e marrin vlefshmërinë nga autoritetet përgjegjëse të vendeve eksportuese, të përcaktuara në shtojcën IX bashkëlidhur këtij vendimi.

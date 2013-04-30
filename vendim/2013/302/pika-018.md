@@ -1,0 +1,1 @@
+18. Inspektorati i Peshkimit kryen inspektime në portet e përcaktuara, në së paku 5% të veprimeve të zbarkimit e të transbordimit që kryhen në një vit, të anijeve me flamur të huaj, në bazë të menaxhimit të riskut, me përjashtim të rasteve kur janë përcaktuar nivele më të larta nga organizatat rajonale të menaxhimit të peshkimit.

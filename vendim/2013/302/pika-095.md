@@ -1,0 +1,1 @@
+95. Ministria shqyrton, gjithashtu, informacionet e dokumentuara për anijet e peshkimit, që janë objekt vëzhgimi, të dërguara nga qytetarët, nga organizatat e shoqërisë civile, përfshirë ato që veprojnë në fushën e mjedisit, si dhe nga përfaqësues të grupeve të interesit në sektorin e peshkimit apo të tregtisë së prodhimeve të peshkimit.

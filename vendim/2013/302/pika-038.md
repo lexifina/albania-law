@@ -1,0 +1,1 @@
+38. Dokumentet dhe deklarata e parashikuar respektivisht në pikat 36 shkronja “b” dhe 37 të këtij vendimi, mund të komunikohen me anë të mjeteve elektronike brenda kuadrit të bashkëpunimit me vendet e BE-së.

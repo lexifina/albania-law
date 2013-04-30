@@ -1,0 +1,1 @@
+29. Certifikata e zënieve, e parashikuar në pikën 28 të këtij vendimi, merr vlefshmëri pas vulosjes nga Inspektorati i Peshkimit i portit përkatës, i anijes apo anijeve të peshkimit, të cilat kanë kryer zëniet nga janë përfituar produktet peshkore.

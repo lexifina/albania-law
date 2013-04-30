@@ -1,0 +1,1 @@
+84. Ministria publikon listën e vendeve jobashkëpunuese në faqen e saj në internet, si dhe merr të gjitha masat për bërjen publike të saj. Ministria përditëson në mënyrë periodike listën, si dhe parashikon një sistem automatik njoftimi për organizatat rajonale të menaxhimit të peshkimit, FAO-n si dhe për anëtarët e shoqërisë civile që bëjnë kërkesë.

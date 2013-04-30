@@ -1,0 +1,1 @@
+83. Ministria heq nga lista e vendeve jobashkëpunuese, vendin i cili demonstron që ka përmirësuar situatën, e cila ishte shkak për regjistrimin e tij si vend jobashkëpunues. Vendimi për heqjen nga lista merret edhe në rastet kur vendi në fjalë demonstron se ka marrë masa konkrete që sigurojnë një përmirësim afatgjatë të situatës.

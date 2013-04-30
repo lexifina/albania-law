@@ -1,0 +1,5 @@
+57. Në rastin e alarmit, sipas pikës 56 të këtij vendimi, drejtoria, bazuar në menaxhimin e riskut:
+a) identifikon dërgesat e prodhimeve të peshkimit të importuara, për të cilat është vendosur alarmi, si dhe kryen verifikimin e certifikatave të zënieve, si dhe të dokumentacionit të përcaktuar në pikat 36-37 të këtij vendimi, sipas procedurave të referuara në pikat 42-43 të këtij vendimi;
+b) merr masat e nevojshme për të siguruar që në të ardhmen dërgesat e prodhimeve peshkore të importuara të përfshira nga ky alarm, t’i nënshtrohen verifikimit të certifikatave të zënieve dhe, nëse është e nevojshme, të dokumentacionit të kërkuar nga pikat 36-37, sipas procedurës së pikave 42-43 të këtij vendimi;
+c) identifikon dërgesat e mëparshme të prodhimeve peshkore, të përfshira nga ky alarm, dhe kryen verifikimet e nevojshme, përfshirë verifikimin e certifikatave të zënieve të paraqitura më parë;
+ç) kontrollon anijet e peshkimit që përfshihen nga ky alarm, duke kryer verifikime, hetime ose inspektime në det ose në vendet e tjera të zbarkimit, në zbatim të legjislacionit kombëtar dhe ndërkombëtar.

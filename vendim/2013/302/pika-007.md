@@ -1,0 +1,1 @@
+7. Anijet e peshkimit me flamur të huaj mund të kenë akses në shërbime ose të kryejnë operacione zbarkimi vetëm në portet e përcaktuara sipas nenit 98 të ligjit nr. 64/2012, datë 31.5.2012 “Për peshkimin”.

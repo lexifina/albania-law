@@ -1,0 +1,1 @@
+10. Formati i njoftimit paraprak ndodhet në shtojcën VI/A bashkëlidhur këtij vendimi. Në rast se zëniet janë të shoqëruara me një certifikatë zënieje, është i vlefshëm formati i njoftimit paraprak që ndodhet në shtojcën VI/B bashkëlidhur këtij vendimi.

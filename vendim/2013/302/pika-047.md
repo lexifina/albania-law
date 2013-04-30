@@ -1,0 +1,1 @@
+47. Në rastet kur importimi i produkteve peshkore refuzohet sipas pikës 45 ose 46 të këtij vendimi, prodhimet peshkore mund të konfiskohen dhe të shkatërrohen, të eliminohen apo të shiten në përputhje me legjislacionin përkatës në fuqi.

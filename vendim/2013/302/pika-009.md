@@ -1,0 +1,1 @@
+9. Kapitenët e anijeve të peshkimit me flamur shqiptar ose përfaqësuesit e tyre njoftojnë paraprakisht autoritetet përgjegjëse të vendit anëtar të Bashkimit Europian të porteve të përcaktuara, që kanë qëllim të përdorin së paku 3 (tri) ditë pune përpara orës së parashikuar për mbërritjen në port, informacionet sipas pikës 8 të këtij vendimi.

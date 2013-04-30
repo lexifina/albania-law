@@ -1,0 +1,3 @@
+50. Me qëllim pranimin e certifikatave shqiptare të zënies nga një vend i Bashkimit Europian, ministria dërgon në Komisionin Europian njoftim në të cilin vërteton që:
+a) ka një sistem kombëtar që garanton zbatimin, kontrollin dhe forcimin e ligjit, rregulloreve dhe të masave menaxhuese që duhet të zbatojnë anijet shqiptare të peshkimit;
+b) Inspektorati i Peshkimit është në gjendje të certifikojë vërtetësinë e informacionit të certifikatave të zënieve dhe që drejtoria është në gjendje të verifikojë këto certifikata në rast kërkese nga vendet anëtare të BE-së. Në këtë njoftim përcaktohen, gjithashtu, autoritetet e ngarkuara për këtë qëllim.

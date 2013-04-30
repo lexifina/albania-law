@@ -1,0 +1,1 @@
+24. Nëse inspektimi jep elemente të provës se një anije peshkimi me flamur të huaj ka zhvilluar peshkim PPP, sipas përcaktimeve të nenit 117 të ligjit nr. 64/2012, datë 31.5.2012 “Për peshkimin”, Inspektorati i Peshkimit nuk e autorizon këtë anije të kryejë zbarkimin ose transbordimin e zënieve.

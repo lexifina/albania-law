@@ -1,0 +1,1 @@
+98. Me miratimin e këtij vendimi, Drejtoria e Peshkimit njofton Komisionin Europian për miratimin e tij, si dhe detyrimin e paraqitjes së certifikatave të zënieve edhe për prodhimet peshkore të vendeve të BE-së.

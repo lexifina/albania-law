@@ -1,0 +1,1 @@
+78. Mund të klasifikohen si vende jobashkëpunuese ato vende që nuk plotësojnë detyrimet e së drejtës ndërkombëtare, si shtete flamur, shtete bregdetare ose tregtare dhe që nuk kanë marrë masat e nevojshme me qëllim parandalimin, shkurajimin dhe ndalimin e peshkimit PPP.

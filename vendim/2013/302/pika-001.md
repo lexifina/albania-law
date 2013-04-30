@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim vendosjen e rregullave dhe përgatitjen e një sistemi masash për inspektimin me synim parandalimin, moslejimin dhe eliminimin e peshkimit të paligjshëm, të parregulluar e të paraportuar (peshkimi PPP), si dhe vendosjen e një skemë certifikimi të zënieve për importimin dhe eksportimin e produkteve peshkore.

@@ -1,0 +1,1 @@
+54. Drejtoria mban një regjistër të vendeve dhe të autoriteteve të tyre kompetente që kanë njoftuar sipas pikës 51 të këtij vendimi. Ky regjistër publikohet në faqen në internet dhe përditësohet në vazhdimësi.

@@ -1,0 +1,1 @@
+68. Masat e marra sipas pikave 66 dhe 67, të këtij vendimi, nuk lidhen me masat e marra nga shteti flamur, kundrejt anijes së peshkimit dhe zbatohen vetëm në rast se janë qartësisht të nevojshme për të identifikuar pronarin ose përdoruesin e anijes së peshkimit. Ministria, gjithashtu, njofton shtetin flamur për vendimin e saj së bashku me motivacionin përkatës.
