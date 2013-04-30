@@ -1,2 +1,1 @@
-2. Autorizimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të fillojë, në përputhje me parashikimet e vendimit nr. 107, datë 1.2.2012 të Këshillit të Ministrave “Për miratimin e rregullave për paraqitjen, hapjen dhe vlerësimin e ofertave për privatizimin e shoqërisë “Albpetrol” sh.a. Patos”, negocimet e kontratës së shitjes së aksioneve me kandidatët e tjerë sipas klasifikimit të përcaktuar në vendimin nr. 634, datë 3.10.2012 të Këshillit të Ministrave “Për miratimin e raportit përfundimtar të vlerësimit të ofertave dhe shpalljen e fituesit të tenderit për privatizimin e shoqërisë “Albpetrol” sh.a. Patos”.
-Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
+2. Shfuqizuar.
