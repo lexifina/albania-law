@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 3 500 000 (tre milionë e pesëqind mijë) lekësh, për mbulimin e shpenzimeve të kurimit të z. Gentian Demaliaj.
