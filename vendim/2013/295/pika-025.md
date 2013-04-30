@@ -1,0 +1,1 @@
+25. Verifikimi i plotësimit të kërkesave të përgjithshme dhe atyre specifike sipas pikës 23 dhe propozimi i transferimit për çdo nëpunës, kryhet nga një komision ad hoc i krijuar posaçërisht për risistemimin e nëpunësve. Akti i transferimit miratohet nga kryeinspektori.

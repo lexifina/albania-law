@@ -1,0 +1,1 @@
+7. Kryeinspektori i ISHPSHSH-së i raporton drejtpërdrejt ministrit përgjegjës për punën dhe çështjet sociale, përveçse kur ministri ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi në aparatin e ministrisë përgjegjëse.
