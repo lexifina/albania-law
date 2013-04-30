@@ -1,1 +1,0 @@
-6. Pas shqyrtimit të propozimeve të DSHP-ve, drejtoria përkatëse teknike në ministri, i përcjell ato te ministri për miratim dhe pas miratimit, njoftohet drejtoria përkatëse e shërbimit pyjor dhe komisioni i vlerësimit të kërkesave i ngritur me urdhër të ministrit për të vazhduar procedurat e konkurrimit publik.
