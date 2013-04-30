@@ -1,0 +1,1 @@
+9. Drejtoria merr masa që të dhënat e nevojshme, të hollësishme dhe të përpunuara për t’u dërguar mbi baza të rregullta, t’u dërgohen menjëherë organizatave rajonale të menaxhimit të peshkimit, në të cilat Shqipëria është palë ose vëzhguese, si dhe organizmave shkencorë ndërkombëtarë, në bazë të detyrimeve ndërkombëtare të Republikës së Shqipërisë.
