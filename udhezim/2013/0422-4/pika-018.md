@@ -1,0 +1,1 @@
+18. Pas përfundimit të procedurave të mësipërme, me fituesin lidhet brenda 10 ditëve kontrata e qirasë tip e miratuar nga ministri. Nëse fituesi nuk e lidh kontratën brenda këtij afati, kontrata lidhet me subjektin që është renditur i dyti në listën e konkurrimit.
