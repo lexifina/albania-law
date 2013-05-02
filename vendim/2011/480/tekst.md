@@ -4,7 +4,7 @@ Nr.480, datë 22.6.2011
 
 PËR MIRATIMIN E RREGULLORES MODEL TË PLANIFIKIMIT
 
-(Ndryshuar me VKM nr. 140, datë 22.2.2012)
+(Ndryshuar me VKM nr. 140, datë 22.2.2012; nr. 371, datë 2.5.2013)
 
 (i përditësuar)
 
@@ -42,6 +42,8 @@ Neni 2
 
 Objekti
 
+(Shtuar shkronja “dh” dhe “e” në pikën 2 me VKM nr. 371, datë 2.5.2013)
+
 1. Kjo rregullore përcakton rregullat model dhe kushtet e zhvillimit të tokës ose të strukturave në të, rastet e zbatimit të saj si dhe hapat që ndiqen nga autoritetet e planifikimit për të orientuar zhvilluesit në procesin e zhvillimit në mungesë të instrumenteve vendore të planifikimit.
 
 2. rregullorja model e planifikimit normon:
@@ -50,11 +52,15 @@ a) përcaktimin e përdorimeve ekzistuese të tokës në një zonë;
 
 b) përcaktimin e intensitetit të ndërtimit dhe të treguesve të tjerë të zhvillimit të gjendjes ekzistuese në një zonë;
 
-c) përcaktimin e kufijve të zonës, ku përcaktohen përdorimi dhe treguesit sipas germave “a”               dhe “b” të kësaj pike;
+c) përcaktimin e kufijve të zonës, ku përcaktohen përdorimi dhe treguesit sipas germave “a” dhe “b” të kësaj pike;
 
 ç) përcaktimin e rasteve të zbatimit të kësaj rregulloreje, dhe të kushteve përkatëse;
 
-d) përcaktimin e hapave që ndiqen për të zhvilluar në kushtet e përdorimit të kësaj rregulloreje. 
+d) përcaktimin e hapave që ndiqen për të zhvilluar në kushtet e përdorimit të kësaj rregulloreje;
+
+ dh) përcaktimin e përdorimit të lejuar të tokës deri në hartimin e instrumentit të përgjithshëm vendor të planifikimit;
+
+e) përcaktimin e parametrave zhvillimorë të lejuar deri në hartimin e instrumentit të përgjithshëm vendor të planifikimit.
 
 Neni 3
 
@@ -70,19 +76,23 @@ Neni 4
 
 Rastet e zbatimit të rregullores model të planifikimit
 
+(Shtuar shkronja “ç” në pikën 1, me VKM nr. 371, datë 2.5.2013)
+
 1. Dispozitat e kësaj rregulloreje zbatohen vetëm për:
 
-a) zhvillimin në zonat e sistemit territorial urban, sipas përcaktimit të “Rregullores Kombëtare të Planifikimit”, dhe gjithmonë vetëm për parcelat e kategorizuara si “truall” në Regjistrin e Pasurive të Paluajtshme;
+a) zhvillimin në zonat e sistemit territorial urban, sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit”, dhe gjithmonë vetëm për parcelat e kategorizuara si “truall” në Regjistrin e Pasurive të Paluajtshme;
 
-b) zhvillimin në zonat me kategori ekzistuese të përdorimit të tokës A. Banim, sipas përcaktimit të “Rregullores Kombëtare   të Planifikimit”, për kategoritë bazë të përdorimit të tokës dhe të strukturave në të, si edhe për struktura të tipit “infrastrukturë publike” sipas përcaktimit të pikës 30 të nenit 3, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”;
+b) zhvillimin në zonat me kategori ekzistuese të përdorimit të tokës A. Banim, sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit”për kategoritë bazë të përdorimit të tokës dhe të strukturave në të, si edhe për struktura të tipit “infrastrukturë publike” sipas përcaktimit të pikës 30 të nenit 3, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”;
 
-c) zhvillimin e strukturave me funksione në shërbim të banimit, si garazh familjar, njësi shitjeje me pakicë brenda nën-njësisë strukturore të banimit, bare dhe restorante në nivel nënnjësie strukturore banimi.
+c) zhvillimin e strukturave me funksione në shërbim të banimit, si garazh familjar, njësi shitjeje me pakicë brenda nën-njësisë strukturore të banimit, bare dhe restorante në nivel nënnjësie strukturore banimi;
+
+ç) zhvillimin e strukturave me funksion administrativ në arsim, bujqësi, industri ushqimore, ekonomi ndihmëse bujqësore, shëndetësi, infrastrukturë, transport, e strukturave ushtarake, institucioneve fetare, shërbimeve tregtare, magazinave tregtare, shërbimeve sociale.
 
 2. Dispozitat e kësaj rregulloreje nuk zbatohen për zhvillimin e strukturave me funksione shërbimi: 
 
 - pika karburanti, 
 
-- të gjitha strukturat sipas kategorive bazë të përdorimit të tokës dhe të strukturave të përcaktuara në “Rregulloren Kombëtare  të Planifikimit”, të cilat nuk përmenden në pikën 1 të këtij neni.
+- të gjitha strukturat sipas kategorive bazë të përdorimit të tokës dhe të strukturave të përcaktuara në “Rregullore uniforme e instrumenteve të planifikimit” të cilat nuk përmenden në pikën 1 të këtij neni.
 
 Neni 5
 
@@ -126,25 +136,27 @@ Kushtet e përgjithshme për autoritetet vendore të planifikimit
 
 1. Autoritetet vendore të planifikimit, subjekt i kësaj rregulloreje, nuk mund të ndryshojnë:
 
-a) përdorimin ekzistues të tokës dhe të strukturave në të, për kategoritë bazë të përdorimit të tokës, sipas përkufizimit të tyre në “Rregulloren Kombëtare të Planifikimit”, 
+a) përdorimin ekzistues të tokës dhe të strukturave në të, për kategoritë bazë të përdorimit të tokës, sipas përkufizimit të tyre në “Rregullore uniforme e instrumenteve të planifikimit”, 
 
-b) intensitetin e ndërtimit dhe të treguesve të tjerë të zhvillimit, sipas përcaktimit të  kësaj rregulloreje dhe të “Rregullores  Kombëtare  të Planifikimit ”. 
+b) intensitetin e ndërtimit dhe të treguesve të tjerë të zhvillimit, sipas përcaktimit të  kësaj rregulloreje dhe të “Rregullore uniforme e instrumenteve të planifikimit”.
 
 Neni 7
 
 Hapat paraprake që ndërmerren nga autoriteti i planifikimit për zbatimin e Rregullores model të planifikimit
 
-1. Autoriteti vendor i planifikimit përgatit hartën e detyrueshme të kategorive ekzistuese të përdorimit të tokës dhe të strukturave në të për territorin adminsitrativ të njësisë së qeverisjes vendore, në përputhje me kategoritë bazë të përdorimit të tokës sipas përcaktimeve të “Rregullores Kombëtare të Planifikimit”.
+(Zëvendësuar fjalë në pikat 2, 3, 4 dhe 6 me VKM nr. 371, datë 2.5.2013)
 
-2. Harta e kategorive ekzistuese të përdorimit të tokës dhe strukturave në të, sipas përcaktimit të pikës 1 të këtij neni, miratohet me vendim të këshillit të njësisë së qeverisjes vendore dhe publikohet përmes regjistrit dhe mjeteve tradicionale të informimit dhe komunikimit publik dhe zyrtar. 
+1. Autoriteti vendor i planifikimit përgatit hartën e detyrueshme të kategorive ekzistuese të përdorimit të tokës dhe të strukturave në të për territorin adminsitrativ të njësisë së qeverisjes vendore, në përputhje me kategoritë bazë të përdorimit të tokës sipas përcaktimeve të “Rregullore uniforme e instrumenteve të planifikimit”.
 
-3. Këshilli i njësisë së qeverisjes vendore, mund të organizojë një seancë të dëgjimit publik para se të miratojë hartën e kategorive ekzistuese të tokës dhe strukturave në të, sipas përcaktimit të pikës 1 të këtij neni, nëse e gjykon të arsyeshme.
+2. Harta e kategori ekzistuese dhe të lejuara të përdorimit të tokës dhe strukturave në të, sipas përcaktimit të pikës 1 të këtij neni, miratohet me vendim të këshillit të njësisë së qeverisjes vendore dhe publikohet përmes regjistrit dhe mjeteve tradicionale të informimit dhe komunikimit publik dhe zyrtar. 
 
-4. Autoriteti vendor i planifikimit, njëkohësisht me procesin e hartimit të hartës së kategorive ekzistuese të përdorimit të tokës dhe strukturave në të, sipas përcaktimit të pikës 1 të këtij neni, përgatit hartën e detyrueshme të nënnjësive strukturore ekzistuese në territorin administrativ të njësisë së qeverisjes vendore, në përputhje me kriteret dhe mënyrën e përcaktimit të nënnjësive strukturore sipas përcaktimit të “Rregullores kombëtare të planifikimit”.
+3. Këshilli i njësisë së qeverisjes vendore, mund të organizojë një seancë të dëgjimit publik para se të miratojë hartën e kategorive ekzistuese dhe të lejuara të përdorimit të tokës dhe strukturave në të, sipas përcaktimit të pikës 1 të këtij neni, nëse e gjykon të arsyeshme.
+
+4. Autoriteti vendor i planifikimit, njëkohësisht me procesin e hartimit të hartës së kategorive ekzistuese dhe të lejuara të përdorimit të tokës dhe strukturave në të, sipas përcaktimit të pikës 1 të këtij neni, përgatit hartën e detyrueshme të nënnjësive strukturore ekzistuese në territorin administrativ të njësisë së qeverisjes vendore, në përputhje me kriteret dhe mënyrën e përcaktimit të nënnjësive strukturore sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit”.
 
 5. Harta e nënnjësive strukturore ekzistuese miratohet dhe publikohet sipas proçedurës së përcaktuar në pikën 2 të këtij neni. 
 
-6. Përdorimi ekzistues i tokës në çdo nën-njësi strukturore caktohet duke u mbështetur në hartën e kategorive ekzistuese të përdorimit të tokës dhe strukturave në të. 
+6. Përdorimi ekzistues i tokës në çdo nën-njësi strukturore caktohet duke u mbështetur në hartën e kategorive ekzistuese dhe të lejuara të përdorimit të tokës dhe strukturave në të. 
 
 7. Në rast se në momentin e zhvillimit përmes zbatimit të instrumenteve të përcaktuara në këtë rregullore, njësia e qeverisjes vendore ka vendosur dhe ka informacion për zhvillime sipas nenit 5 të kësaj rregulloreje, ajo njofton publikun dhe zhvilluesit përmes një harte të detyrueshme publike që përmban llojet dhe vendosjen në territor të këtyre zhvillimeve. Kjo hartë botohet në regjistër dhe në mjetet e komunikimit dhe informimit publik.  
 
@@ -168,11 +180,13 @@ Neni 9
 
 Treguesit e zhvillimit 
 
+(Zëvendësuar fjalë në shkronjën “a” të pikës 2 me VKM nr. 371, datë 2.5.2013)
+
 1. Autoriteti vendor i planifikimit, për çdo nën-njësi strukturore banimi dhe/ose infrastrukturë të krijuar në përputhje me këtë rregullore, në momentin e marrjes së një kërkese për zhvillim dhe/ose ndërtim, llogarit treguesit e zhvillimit të cilët mbeten të pandryshuar në zonë ose përmirësohen sipas përcaktimeve të pikës 3 të këtij neni, për t’u zbatuar nga zhvilluesi ose kërkuesi i zhvillimit në hartimin e projektit të zhvillimit. 
 
 2. Treguesit sipas përcaktimit të pikës 1 të këtij neni, janë:
 
-a) Intensiteti i ndërtimit të nënnjësisë strukturore;
+a)Intensiteti i ndërtimit të nënnjësisë strukturore për kategorinë e tokës A. Banim;
 
 b) Koeficienti i shfrytëzimit të tokës për ndërtime të nënnjësisë strukturore;
 
@@ -182,7 +196,7 @@ c) Koeficienti i shfrytëzimit për rrugë;
 
 d) Specifikime të tjera për llojin dhe cilësinë e strukturës së re, që njësia e qeverisjes vendore ose qendrore kërkon të vendosë, në përputhje me dispozitat ligjore në fuqi, dhe veçanërisht me rregulloren kombëtare të ndërtimit, sipas nenit 25, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”.
 
-3. Treguesit, sipas përcaktimit të pikës 2 të këtij neni, llogariten sipas përcaktimeve për këta tregues në “Rregulloren kombëtare  të planifikimit ” dhe në përputhje me përcaktimet e këtij neni. 
+3. Treguesit, sipas përcaktimit të pikës 2 të këtij neni, llogariten sipas përcaktimeve për këta tregues në “Rregullore uniforme e instrumenteve të planifikimit” dhe në përputhje me përcaktimet e këtij neni. 
 
 4. Treguesit e përcaktuar në gërmat “a” dhe “b”, të pikës 2, të këtij neni, llogariten vetëm për strukturat banim ekzistuese dhe për parcelat me zhvillim banimi ekzistues, duke mos përfshirë në llogaritje sipërfaqen e parcelës ku do të kryhet zhvillimi dhe strukturën që mund të ekzistojë në të. 
 
@@ -190,7 +204,7 @@ d) Specifikime të tjera për llojin dhe cilësinë e strukturës së re, që nj
 
 6. Parcelat e nënnjësisë strukturore, në të cilat ka struktura ekzistuese me përdorim shërbime publike, nuk përfshihen në llogaritjen e treguesve sipas përcaktimit të gërmës “a” dhe “b”, të pikës 2 të këtij neni. 
 
-7. Zhvillimi i ri, sipas përcaktimit të dispozitave të këtij neni, siguron gjithashtu hapësirën e nevojshme të parkimit sipas përcaktimit të “ Rregullores kombëtare të planifikimit”.
+7. Zhvillimi i ri, sipas përcaktimit të dispozitave të këtij neni, siguron gjithashtu hapësirën e nevojshme të parkimit sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit”.
 
 Neni 10
 
@@ -198,7 +212,7 @@ Kushte për zhvillim
 
 1. Strukturat e reja që ndërtohen bazuar në përcaktimet e kësaj rregulloreje, duhet të kenë lidhje të drejtpërdrejtë me infrastrukturat publike dhe nuk duhet të cënojnë hapësirat ekzistuese publike në zonën ku kryhet zhvillimi i ri.  
 
-2. Fasadat e strukturës së re që ndërtohet duhet të respektojnë vijat përkatëse mbizotëruese të ndërtimit, por në çdo rast, fasada e orientuar nga rruga e hierarkisë më të lartë që ndodhet në kufi të parcelës me zhvillimin e ri, nuk duhet të jetë më afër se sa 5 (pesë) metra nga kufiri ndarës i trotuarit të rrugës ekzistuese me pronën ku kryhet zhvillimi i ri. Strukturat konsol në këtë fasadë, mund të tejkalojnë kufirin e përmendur në këtë pikë vetëm me 2 (dy) metra. Treguesit e distancave për fasadat e tjera duhet të respektojnë treguesit e distancave sipas përcaktimit të “Rregullores kombëtare të planifikimit”, si dhe të jenë në përputhje me përcaktimet e kësaj rregulloreje për treguesit e zhvillimit. 
+2. Fasadat e strukturës së re që ndërtohet duhet të respektojnë vijat përkatëse mbizotëruese të ndërtimit, por në çdo rast, fasada e orientuar nga rruga e hierarkisë më të lartë që ndodhet në kufi të parcelës me zhvillimin e ri, nuk duhet të jetë më afër se sa 5 (pesë) metra nga kufiri ndarës i trotuarit të rrugës ekzistuese me pronën ku kryhet zhvillimi i ri. Strukturat konsol në këtë fasadë, mund të tejkalojnë kufirin e përmendur në këtë pikë vetëm me 2 (dy) metra. Treguesit e distancave për fasadat e tjera duhet të respektojnë treguesit e distancave sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit”si dhe të jenë në përputhje me përcaktimet e kësaj rregulloreje për treguesit e zhvillimit. 
 
 3. Në çdo rast, zhvillimi i ri duhet të jetë në përputhje me kushtet dhe kërkesat e posaçme të përcaktuara në legjislacionin në fuqi.
 
@@ -224,7 +238,7 @@ c) distancat nga kufiri i pronës, nga rruga dhe nga strukturat e tjera, sikurse
 
 11. Infrastruktura e nevojshme që mundëson funksionimin e një zhvillimi të ri dhe e lidh zhvillimin e ri me rrjetet ekzistuese të infrastrukturave, realizohet nga zhvilluesi dhe leja e përdorimit jepet vetëm pasi kjo infrastrukturë regjistrohet në Regjistrin e Pasurive të Paluajtshme sipas përcaktimit të legjislacionit në fuqi. 
 
-12. Çdo zhvillim i miratuar në bazë të kësaj rregulloreje, zbaton kushtet, rregullat dhe normat e detyrueshme të përcaktuara në “Rregulloren kombëtare të planifikimit”.
+12. Çdo zhvillim i miratuar në bazë të kësaj rregulloreje, zbaton kushtet, rregullat dhe normat e detyrueshme të përcaktuara në “Rregullore uniforme e instrumenteve të planifikimit”
 
 SEKSIONI 3
 
