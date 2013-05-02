@@ -1,0 +1,1 @@
+1. Lejimin e ekspozimit të disa objekteve të rralla me vlera unike, në kuadër të realizimit të ekspozitës “Thesare të kulturës shqiptare”, në Prishtinë, Kosovë, nga data 20 prill 2013 deri në datën 21 gusht 2013, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
