@@ -1,4 +1,0 @@
-6. Komisioni i ndjekjes së procedurave për rijetëzimet e monumenteve të kulturës kryen këto detyra:
-a) Bën protokollimin e kërkesave dhe hap në prani të konkurrentëve dokumentacionin e paraqitur prej tyre. Kur dokumentacioni i paraqitur nuk është i plotë, konkurrenti skualifikohet në prani të tij. Komisioni lexon dhe bën të njohur, në prani të konkurrentëve të kualifikuar për pjesëmarrje në konkurrim, të dhënat kryesore e për çdo ofertë të paraqitur.
-b) Harton procesverbalin e zhvillimit të konkurrimit, ku përshkruan pjesëmarrësit, konkurrentët e skualifikuar dhe shkakun, konkurrentët e kualifikuar dhe listën e dokumenteve të paraqitura prej tyre.
-c) Brenda 5 ditëve i paraqet Këshillit Kombëtar të Restaurimit një raport përmbledhës për zhvillimin e konkurrimit dhe të gjithë dokumentacionin përkatës, së bashku me procesverbalin e zhvillimit të konkurrimit dhe listën e konkurruesve të kualifikuar.
