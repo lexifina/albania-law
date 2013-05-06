@@ -1,0 +1,1 @@
+2. Pas kalimit në përgjegjësi administrimi të Entit Kombëtar të Banesave, ngarkohet ky ent të bëjë kalimin në pronësi të këtyre objekteve për banorët e pastrehë, sipas përcaktimit të pikës 1 të këtij vendimi.
