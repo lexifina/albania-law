@@ -1,0 +1,1 @@
+1. Autorizimin e shoqërisë “ANSA” sh.p.k., për importin e mbetjeve të polietilenit, me kodet GH 011ex 391510 dhe B1-B3010 të Konventës së Bazelit, aneksi 1 “Mbetjet e listës së gjelbër”, referuar vendimit nr. 825, datë 13.10.2010 të Këshillit të Ministrave “Për miratimin e listave të mbetjeve që lejohen të importohen, për qëllime përdorimi, riciklimi dhe përpunimi”, të ndryshuar.
