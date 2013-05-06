@@ -1,0 +1,1 @@
+1. Ministrisë së Brendshme, në buxhetin e miratuar për vitin 2013, zëri “Shpenzime operative”, t’i shtohet fondi prej 980 000 (nëntëqind e tetëdhjetë mijë) lekësh, për mbulimin e shpenzimeve të transportit, për kthimin në atdhe nga Ankaraja (Turqi), si dhe shpenzimeve të tjera të lidhura me humbjen e jetës së zonjës Linda Ihsani.
