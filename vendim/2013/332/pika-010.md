@@ -1,0 +1,1 @@
+10. Në rastin e paketave të vogla të farës së certifikuar, identiteti i farës mund të vërtetohet, në veçanti, në kohën kur lotet e farës janë të ndara. Për këtë rast, mund të kërkohet që paketat e vogla, të prodhuara brenda vendit, të paketohen zyrtarisht.

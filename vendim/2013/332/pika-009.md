@@ -1,0 +1,1 @@
+9. Përjashtuar rastin e paketave të vogla të farës standarde, informacioni i përshkruar sipas pikës 8 duhet të mbahet në mënyrë të qartë, i ndarë nga çdo informacion tjetër i dhënë në etiketë ose në paketë.
