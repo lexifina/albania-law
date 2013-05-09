@@ -1,1 +1,0 @@
-2. IKAP-ja është institucion i posaçëm i inspektimit, monitorimit, vlerësimit e këshillimit të cilësisë së arsimit parauniversitar dhe funksionimit të strukturave menaxhuese të tij (shkolla, drejtoria arsimore rajonale, zyra arsimore).
