@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9512,
+  "title": "Për një ndryshim në vendimin nr. 934, datë 26.12.2012 të Këshillit të Ministrave “Për përcaktimin e numrit të punonjësve me kontratë të përkohshme, për vitin 2013, në njësitë e qeverisjes qendrore”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "355",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-04-24",
+  "published": "2013-05-09",
+  "in_force": "2013-05-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/56b5e03e51b925c64181d9a9a8b7c9fc2ab05f8d1049081688b7b8937b69679c.docx",
+  "source_sha256": "56b5e03e51b925c64181d9a9a8b7c9fc2ab05f8d1049081688b7b8937b69679c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9512",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/04/24/355",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
