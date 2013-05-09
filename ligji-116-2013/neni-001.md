@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja me qeverinë e vendit pritës ndërmjet Republikës së Shqipërisë, duke vepruar nëpërmjet Këshillit të Ministrave, dhe Trans Adriatik Pipeline AG, lidhur me projektin e gazsjellësit Trans Adriatik (projekti TAP), si dhe marrëveshja ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, dhe Trans Adriatik Pipeline AG, në lidhje me projektin e gazsjellësit Trans Adriatik (projekti TAP).
