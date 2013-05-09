@@ -1,0 +1,2 @@
+Autorizimin e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit për dhënien e së drejtës së servitutit të vendosjes së gypave për kalimin e ujërave në favor të shoqërisë “Tirana Business Park” sh.p.k., mbi pasuritë e paluajtshme, pronë shtetërore, me numër 63 dhe 218, të zonës kadastrale 1669, Fushë-Prezë, Tiranë, si dhe nënshkrimin e marrëveshjes për këtë qëllim.
+Ky vendim hyn në fuqi menjëherë.
