@@ -1,0 +1,1 @@
+1. Autoritete kontraktuese për kryerjen e procedurave ligjore dhe dhënien me koncesion të menaxhimit të mbetjeve të automjeteve në fund të jetës janë: Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministria e Punëve Publike dhe Transportit.
