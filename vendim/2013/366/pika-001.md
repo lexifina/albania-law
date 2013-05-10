@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Autoriteti i Mbikëqyrjes Financiare te Ministria e Financave për Njësinë e Mbikëqyrjes së Lojërave të Fatit të disa ambienteve, sipas planimetrisë dhe formularit bashkëlidhur këtij vendimi.
