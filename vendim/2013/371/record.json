@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66077,
+  "title": "Për disa shtesa dhe ndryshime në vendimin nr. 480, datë 22.6.2011 të Këshillit të Ministrave “Për miratimin e rregullores model të planifikimit”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "371",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-05-02",
+  "published": "2013-05-10",
+  "in_force": "2013-05-10",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ce70672cef2446af1ac927837ca39c7e21f5855fc54da4a0f71d01c919b22465.docx",
+  "source_sha256": "ce70672cef2446af1ac927837ca39c7e21f5855fc54da4a0f71d01c919b22465",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66077",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/02/371",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
