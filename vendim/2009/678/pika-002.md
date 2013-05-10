@@ -1,1 +1,1 @@
-2. Enti Kombëtar i Banesave të bëjë privatizimin e këtyre objekteve për personat, të cilët i kanë aktualisht në përdorim, sipas akteve ligjore dhe nënligjore, në fuqi.
+2. Enti Kombëtar i Banesave të bëjë kalimin në pronësi, pa kundërshpërblim, të këtyre objekteve, për personat, të cilët i kanë aktualisht në përdorim.
