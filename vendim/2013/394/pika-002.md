@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 6% të pikëve, për rezultatin teknik, financiar dhe mjedisor, në procedurën përzgjedhëse konkurruese, si propozim i pakërkuar, që i jepet shoqërisë “Albania Landfill Energy A.L.E.”.

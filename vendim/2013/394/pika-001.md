@@ -1,0 +1,1 @@
+1. Autoritete kontraktuese për kryerjen e procedurave ligjore dhe dhënien me koncesion të ndërtimit të landfillit për trajtimin e mbetjeve të ngurta urbane të qarkut të Durrësit janë: Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe Ministria e Punëve Publike dhe Transportit.
