@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9572,
+  "title": "Për kriteret dhe mënyrën e delegimit të gjyqtarëve për shqyrtimin e një çështjeje gjyqësore",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "319",
+  "institution": "Këshilli i Lartë i Drejtësisë",
+  "adopted": "2013-05-03",
+  "published": "2013-05-16",
+  "in_force": "2013-05-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/cf4f84e58013548da31ffda4c1d918f7c3f578b39b14c702ffea48a024554b05.docx",
+  "source_sha256": "cf4f84e58013548da31ffda4c1d918f7c3f578b39b14c702ffea48a024554b05",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9572",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/03/319",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
