@@ -1,0 +1,28 @@
+{
+  "qbz_id": 9561,
+  "title": "Për një shtesë në vendimin nr. 89, datë 16.1.2013 të Këshillit të Ministrave “Për caktimin e kritereve bazë të sektorëve që do të mbështeten dhe të masës së përfitimit nga fondi i programit për bujqësinë dhe zhvillimin rural për vitin 2013”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "380",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-05-02",
+  "published": "2013-05-16",
+  "in_force": "2013-05-16",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/fb8d648db557db9003c1e0b73f44b3a99bf29f1392969523717d852cc865d0a7.docx",
+  "source_sha256": "fb8d648db557db9003c1e0b73f44b3a99bf29f1392969523717d852cc865d0a7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9561",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/02/380",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    9692
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
