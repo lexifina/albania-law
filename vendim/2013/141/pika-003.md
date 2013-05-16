@@ -1,1 +1,1 @@
-3. Shpenzimet për pagimin e studios së huaj të avokatisë, në vlerën 900 000 (nëntëqind mijë) euro, të përballohen nga fondi rezervë i buxhetit të shtetit, për vitin 2013.
+3. Shpenzimet për pagimin e studios së avokatisë, në vlerën 900 000 (nëntëqind mijë) euro, për kontratën “Për ofrimin e shërbimeve nga studioja ligjore “Derains & Gharavi””, si dhe për shtesën e kontratës, të përballohen nga fondi rezervë i Buxhetit të Shtetit për vitin 2013.
