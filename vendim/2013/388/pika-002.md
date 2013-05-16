@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2% të pikëve, për rezultatin teknik dhe financiar, në procedurën përzgjedhëse konkurruese, që i jepet shoqërisë “Zaloshnja HL” sh.p.k., për dhënien me koncesion të këtij hidrocentrali.
