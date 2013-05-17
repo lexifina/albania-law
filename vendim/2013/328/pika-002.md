@@ -1,0 +1,1 @@
+2. Pjesa e pronës “Ish-Zyrat e Drejtorisë së Doganave”, që përmendet në pikën 1 të këtij vendimi, hiqet nga lista e pronave që i bashkëlidhet vendimit nr. 586, datë 10.9.2004 të Këshillit të Ministrave.
