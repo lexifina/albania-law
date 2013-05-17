@@ -1,0 +1,1 @@
+2. Inspektorët e ushqimit dhe ushqimit për kafshë, si dhe specialistët e laboratorëve të kontrollit të ushqimeve në varësi të Autoritetit Kombëtar të Ushqimit dhe të Institutit të Sigurisë Ushqimore dhe Veterinarisë, të trajnohen për procedurat e kontrollit dhe të përcaktimit të KPP në vajrat e përdorura për skuqje.
