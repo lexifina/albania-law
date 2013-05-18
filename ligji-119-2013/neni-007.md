@@ -1,0 +1,3 @@
+# Neni 7
+l. Dhënia në përdorim e këtij trualli institucioneve arsimore, shëndetësore, qendrave të përkujdesjes shoqërore, publike ose private, miratohet paraprakisht nga Këshilli i Ministrave, me propozimin e Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, të ngarkuar me funksionin e menaxhimit të këtij fondi truall me pronësi publike. Kuvendi i Shqipërisë ratifikon kontratën e dhënies në përdorim të truallit.
+2. Institucioni publik ose privat, të cilit i është dhënë në përdorim truall nga ky fond, nuk mund ta ndryshojë në asnjë rast destinacionin e përdorimit dhe statusin juridik të tyre. Në rast ndryshimi, trualli dhe investimi i bërë në të i kthehen shtetit.
