@@ -1,0 +1,1 @@
+25. Ministria, brenda 31 majit 2013, publikon modalitetet e zbatimit të këtyre shtyrjeve të afatit. Ky publikim duhet të përmbajë një listë të anijeve të peshkimit, të autorizuara dhe të zonave të autorizuara, së bashku me koordinatat respektive gjeografike, si detare ashtu dhe tokësore.

@@ -1,0 +1,1 @@
+21. Si përjashtim i pikës 18 të këtij kreu, tratat mund të përdoren përkohësisht deri më 31 janar 2013 në një largësi nga bregu më të vogël se 1,5 milje, me kusht që thellësia të jetë më e madhe se izobata 50 metra.

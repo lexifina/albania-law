@@ -1,0 +1,1 @@
+7. Masat teknike të parashikuara në pikën 6 të këtij kreu, duhet të jenë jo më pak shtrënguese sesa ato të parashikuara nga legjislacioni në fuqi, në lidhje me mjetet e peshkimit të autorizuara në këto zonat e mbrojtura.

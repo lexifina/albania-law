@@ -1,0 +1,1 @@
+5. Me qëllim që të ruhen dhe të menaxhohen burimet ujore të gjalla apo të ruhet apo të përmirësohet gjendja e ekosistemeve detare, ministria, brenda tre vjetësh nga miratimi i këtij vendimi, përcakton zonat e mbrojtura të peshkimit brenda ujerave territoriale, në të cilat aktiviteti i peshkimit mund të jetë i ndaluar ose i kufizuar.

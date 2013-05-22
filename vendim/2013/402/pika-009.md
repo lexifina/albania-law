@@ -1,0 +1,1 @@
+9. Ministria, bazuar në informacione të reja shkencore, mund të përcaktojë zonat e tjera të mbrojtura të peshkimit apo të ndryshojë kufijtë apo masat e menaxhimit të parashikuara në pikën 6 të këtij kreu.

@@ -1,0 +1,1 @@
+18. Ndalohet përdorimi i rrjetave me tërheqje në një largësi më të vogël se 1.5 milje detare nga vija bregdetare. Ndalohet përdorimi i dragave të tërhequra nga mjete lundruese dhe i dragave hidraulike në një largësi më të vogël se 0,3 milje detare nga vija bregdetare.

@@ -1,0 +1,1 @@
+13. Ndalohet bllokimi i syzeve apo reduktimi faktik i dimensioneve në pjesë të rrjetës, përveçse në rastet kur përcaktohet me rregullore të veçantë të ministrit ose sipas rasteve të parashikuara në shtojcën I shkronja “a”, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+16. Ndalohet përdorimi i veglave të peshkimit me tërheqje në një largësi më të vogël se 3 milje detare nga vija bregdetare ose në brendësi të izobatës 50 metra, kur një thellësi e tillë arrihet në një largësi më të vogël nga bregu.

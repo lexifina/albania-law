@@ -1,0 +1,1 @@
+17. Si përjashtim nga dispozita e pikës 16 të këtij kreu, lejohet përdorimi i dragave në një largësi më të vogël se 3 milje detare, pavarësisht nga thellësia, me kusht që llojet e ndryshme nga molusqet e zëna të mos kalojnë 10% të peshës së gjallë të zënieve.
