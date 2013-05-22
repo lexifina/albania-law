@@ -1,2 +1,0 @@
-22. Ministria organizon, në bazë sondazhi, monitorimin e veprimtarive të anijeve të peshkimit, të përjashtuara nga kërkesat e përcaktuara në pikat 20 e 21 të këtij vendimi, për të garantuar respektimin nga këto anije, të legjislacionit në fuqi për peshkimin.
-Për këtë qëllim, Inspektorati i Peshkimit programon planin e sondazheve. Rezultatet e monitorimit të kryer i dërgohen, rregullisht, drejtorisë.

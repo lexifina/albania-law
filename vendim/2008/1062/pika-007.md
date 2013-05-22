@@ -1,1 +1,0 @@
-7. Inspektorati i Peshkimit monitoron veprimtaritë e anijeve shqiptare të peshkimit, që ushtrohen jashtë zonës së sovranitetit ose juridiksionit të tij të peshkimit, në rastet kur ky kontroll është i nevojshëm për të garantuar zbatimin e ligjshmërisë në këto ujëra.

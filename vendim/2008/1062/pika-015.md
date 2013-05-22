@@ -1,1 +1,0 @@
-15. Personat përgjegjës për anijen e peshkimit, ndërtesat apo mjetet e transportit, të inspektuara, bashkëpunojnë me Inspektoratin e Peshkimit për lehtësimin e inspektimeve, që kryhen në përputhje me pikën 13 të këtij vendimi.

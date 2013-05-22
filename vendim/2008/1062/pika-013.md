@@ -1,2 +1,0 @@
-13. Të dhënat e transmetuara nga anijet, që mbajnë flamurin shqiptar, ndaj të cilave zbatohet SVA-ja, regjistrohen dhe ruhen në format elektronik, për një periudhë trevjeçare. Kjo kërkesë zbatohet edhe për anijet, që mbajnë flamurin e një vendi tjetër, ndaj të cilave zbatohet SVA-ja.
-Këto të dhëna informatike mund t’i vihen në dispozicion, pas paraqitjes së një kërkese me shkrim Komisionit Europian, sipas mënyrave të përcaktuara në pikat 115-125 të këtij vendimi.

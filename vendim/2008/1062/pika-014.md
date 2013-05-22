@@ -1,2 +1,0 @@
-14. Shpenzimet për inspektimin, kontrollin dhe vëzhgimin e veprimtarisë së anijeve të peshkimit nga Inspektorati i Peshkimit, sipas pikave 5 dhe 6 të këtij vendimi, përballohen nga buxheti i planifikuar për ministrinë.
-Inspektorati i Peshkimit garanton, që masat e marra prej tij janë në përputhje me pikat 5 dhe 6 të këtij vendimi, mënjanojnë ndërhyrjet e panevojshme në veprimtarinë normale të peshkimit, si dhe nuk diskriminojnë sektorë apo anije të caktuara peshkimi.

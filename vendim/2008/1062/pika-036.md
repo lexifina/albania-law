@@ -1,1 +1,0 @@
-36. Deklarata e shitjes, deklarata e marrjes në ngarkim dhe një kopje e dokumentit të transportit duhet të paraqiten, brenda 48 orëve nga çasti i hedhjes në treg, për herë të parë ose nga zbarkimi, tek Inspektorati i Peshkimit apo te ndonjë organizëm tjetër, i autorizuar, në mënyrë elektronike ose të shkruar.
