@@ -1,0 +1,1 @@
+3. Barnat që kalojnë në Rezervat e Shtetit si pasojë e konfiskimit administrativ apo veprës penale, të cilat pas konfirmimit nga Qendra Kombëtare e Kontrollit të Barnave plotësojnë kushtet për përdorim me dokumentacion të rregullt, kalojnë në administrim të Ministrisë së Shëndetësisë.

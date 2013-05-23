@@ -1,0 +1,1 @@
+1. Drejtoria e Përgjithshme e Rezervave Materiale të Shtetit njofton dhe i dërgon rast pas rasti Qendrës Kombëtare të Kontrollit të Barnave, listën e barnave që kalojnë në Rezervat e Shtetit si pasojë e konfiskimit administrativ apo veprës penale.
