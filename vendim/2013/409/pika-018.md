@@ -1,0 +1,1 @@
+18. “Treguesit e cilësisë”, kërkesat për gjendjen e materialeve të shumëzimit vegjetativ të hardhisë, në lidhje me pastërtinë varietore, pastërtinë shëndetësore dhe pastërtinë teknike, në përputhje me përcaktimet e bëra në aneksin 2 të këtij vendimi.

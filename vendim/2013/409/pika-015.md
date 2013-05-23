@@ -1,0 +1,1 @@
+15.“Identitet varietor”, tërësia e veçorive botanike, morfologjike, biologjike dhe agroteknologjike, që zotëron një varietet ose një klon në rastin e nënshartesave, një specie ose hibrid ndërmjet specieve, vlera e të cilit është e njohur dhe plotëson qëllimet e përdorimit.

@@ -1,0 +1,1 @@
+16. “Pastërti varietore”, kërkesa për gjendjen e materialeve të shumëzimit vegjetativ të hardhisë pa përzierje të varieteteve, që nuk janë deklaruar në dokumentacionin përkatës ose nuk janë shenjuar si të tillë.

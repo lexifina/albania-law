@@ -1,0 +1,1 @@
+17. “Pastërti shëndetësore”, kërkesa për gjendjen e materialeve të shumëzimit vegjetativ të hardhisë pa infeksione ose simptoma të organizmave të dëmshëm dhe sëmundjeve të listuara në aneksin 1 të këtij vendimi dhe në legjislacionin në fuqi për mbrojtjen e bimëve.

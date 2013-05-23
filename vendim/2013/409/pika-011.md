@@ -1,0 +1,1 @@
+11. “Materiale shumëzimi standard”, materialet e shumëzimit vegjetativ të hardhisë të përftuara nga bimët e mbjella në vreshtin e bimëve mëmë të kategorisë standard dhe që plotësojnë kërkesat për materialet e shumëzimit standard, të përcaktuara në anekset 1 dhe 2 të këtij vendimi.

@@ -1,0 +1,3 @@
+8. “Vreshti mëmë ose vreshti i bimëve mëmë” janë:
+a) “Vreshti mëmë antifilokserik” është mjedisi ku kultivohen hardhitë mëmë të disa specieve të gjinisë Vitis ose të hibrideve ndërmjet tyre, të qëndrueshme ndaj filokserës. Destinimi i vreshtit mëmë antifilokserik është prodhimi i copave ose talee-ve për nënshartesa në procesin e shartimit dhe i copave për fidanë të pashartuar, ku pastërtia e species apo e hibridit ndërmjet specieve është e siguruar;
+b) “Vreshti mëmë i kalemave” është mjedisi ku kultivohen hardhitë mëmë të varieteteve ose sipas rastit, të kloneve të parapëlqyera, të species Vitis Vinifera, të mirëmbajtura me destinim kryesor prodhimin e kalemave për mbishartesa në procesin e shartimit, ku pastërtia varietore është e siguruar.

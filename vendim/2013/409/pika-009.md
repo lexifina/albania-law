@@ -1,0 +1,1 @@
+9. “Vreshtë prove”, një sipërfaqe vreshti për kryerjen e disa fazave përzgjedhëse të materialeve kandidate për përftimin e materialeve të shumëzimit vegjetativ parabazë dhe për ruajtjen e të gjitha të dhënave për nevojat e vreshtit mëmë.
