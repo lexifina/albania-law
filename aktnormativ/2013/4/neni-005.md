@@ -1,0 +1,2 @@
+# Neni 5
+Në këtë stërvitje angazhohen 3000 (tre mijë) trupa, 2 (dy) helikoptermbajtës, 2 (dy) anije tip frigatë, 2 (dy) anije zbarkuese, 1 (një) anije civile, 3 (tre) anije të tjera mbështetëse, 2 (dy) avionë ushtarakë dhe 1 (një) avion transporti, të cilët do të kryejnë lëvizje në rajonin e përcaktuar të stërvitjes, sipas nenit 4 të këtij akti normativ. Nga 3000 (tre mijë) trupat britanike, 800 (tetëqind) - 1000 (një mijë) forca do të zbarkojnë në operacione tokësore.
