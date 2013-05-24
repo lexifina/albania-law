@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65380,
+  "title": "Për një shtesë në vendimin nr. 48, datë 23.1.2013 të Këshillit të Ministrave “Për krijimin e Universitetit të Mjekësisë, Tiranë (UMT), të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "410",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-04-18",
+  "published": "2013-05-24",
+  "in_force": "2013-05-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/df8d2923a7f58af59467d079c43bd81c0f0f4d60a1f44dbdef0045550c7a6ea2.docx",
+  "source_sha256": "df8d2923a7f58af59467d079c43bd81c0f0f4d60a1f44dbdef0045550c7a6ea2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65380",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/04/18/410",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
