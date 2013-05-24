@@ -1,0 +1,1 @@
+2. Përcaktimi i anëtarëve të Këshillit, sipas shkronjave “c”, “ç”, “d” dhe “dh”, kryhet nga institucionet përgjegjëse që marrin pjesë në këtë Këshill, me kërkesën e përbashkët të Zëvendëskryeministrit dhe Ministër i Arsimit dhe Shkencës dhe të Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
