@@ -1,0 +1,30 @@
+{
+  "qbz_id": 65379,
+  "title": "Për dëmshpërblimin për kafshët e eliminuara",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "408",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-05-08",
+  "published": "2013-05-24",
+  "in_force": "2013-05-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a95a2580b12e2e585b0bccbd7762804d90406ba2b101d740faa231e7f6acb0b9.docx",
+  "source_sha256": "a95a2580b12e2e585b0bccbd7762804d90406ba2b101d740faa231e7f6acb0b9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65379",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/08/408",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    64267,
+    14491,
+    65027
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
