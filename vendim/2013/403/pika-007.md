@@ -1,0 +1,1 @@
+7. Pronari i listës që i bashkëlidhet këtij vendimi, për të cilin është bërë shënimi “Konfirmuar nga ZVRPP-ja, sipas të dhënave të regjistrit hipotekor”, të kompensohet, për efekt shpronësimi, pasi të ketë përfunduar procesi i regjistrimit dhe në bazë të dokumentacionit të plotë të pronësisë, që do të dorëzohet pranë Autoritetit Rrugor Shqiptar.

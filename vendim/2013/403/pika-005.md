@@ -1,0 +1,1 @@
+5. Vlera totale e shpronësimit, prej 667 987 (gjashtëqind e gjashtëdhjetë e shtatë mijë e nëntëqind e tetëdhjetë e shtatë) lekësh, të përballohet nga buxheti i miratuar për Autoritetin Rrugor Shqiptar, zëri “Investime”.

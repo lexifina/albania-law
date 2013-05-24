@@ -1,0 +1,1 @@
+8. Autoritetit Rrugor Shqiptar të kryejë likuidimin e pronarit për të cilin është bërë shënimi “Konfirmuar nga ZVRPP-ja, sipas të dhënave të regjistrit hipotekor”, pasi të përfundojë procesi i regjistrimit, fakt, i cili do të konfirmohet nga ZVRPP-ja, si dhe në bazë të dokumentacionit të plotë të pronësisë, që do të dorëzohet nga pronari.
