@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga sistemimi, asfaltimi, ndërtimi i trotuarëve dhe ndriçimi rrugor i bllokut nr. 4, në qytetin e Fushë-Krujës, në bashkinë e Fushë-Krujës të qarkut të Durrësit.

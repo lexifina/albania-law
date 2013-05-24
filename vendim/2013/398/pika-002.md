@@ -1,0 +1,1 @@
+2. Pasuritë, në sipërfaqen prej 24 (njëzet e katër) m2 objekt, pronë private që shpronësohet, si dhe pronarët që shpronësohen, janë sipas tabelës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

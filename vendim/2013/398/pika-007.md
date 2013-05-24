@@ -1,0 +1,1 @@
+7. Shpronësimi bëhet në favor të bashkisë së Fushë-Krujës. Regjistrimi i ri i pasurisë prej 24 (njëzet e katër) m2 objekt, shpronësuar në favor të bashkisë së Fushë-Krujës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

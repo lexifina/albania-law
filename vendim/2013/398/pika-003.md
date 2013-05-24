@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen, është 518 400 (pesëqind e tetëmbëdhjetë mijë e katërqind) lekë. Vlera e përgjithshme e shpronësimit përballohet nga buxheti i bashkisë së Fushë-Krujës.
