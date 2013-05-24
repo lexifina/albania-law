@@ -1,0 +1,1 @@
+1. Kishës Katolike Shqiptare t’i kalohet në pronësi, pa shpërblim, prona truall me nr. pasurie 186/59, 186/60, 186/12 dhe 186/13, në zonën kadastrale nr. 3981, fshati Sheq i Madh, Fier, sipas planvendosjes që i bashkëlidhet këtij vendimi.
