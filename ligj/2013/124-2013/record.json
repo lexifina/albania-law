@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9530,
+  "title": "Për një shtesë në ligjin nr. 8438, datë 28.12.1998 “Për tatimin mbi të ardhurat”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "124-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-04-25",
+  "published": "2013-05-10",
+  "in_force": "2013-05-25",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9ed92b8f94e0ebc369fc5ded3e13aa480859221d54a0725b8d84d1e952440f1b.docx",
+  "source_sha256": "9ed92b8f94e0ebc369fc5ded3e13aa480859221d54a0725b8d84d1e952440f1b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9530",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/04/25/124-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
