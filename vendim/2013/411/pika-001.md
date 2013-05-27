@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes, ndërmjet Ministrisë së Financave, Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës e Drejtorisë së Përgjithshme të Tatimeve të Republikës së Shqipërisë dhe shoqërisë “Kurum International” sh.a., për pagimin e rimbursimit të tatimit mbi vlerën e shtuar (TVSH), sipas tekstit bashkëlidhur këtij vendimi.
