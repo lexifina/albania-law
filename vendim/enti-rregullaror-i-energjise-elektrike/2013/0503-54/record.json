@@ -1,0 +1,28 @@
+{
+  "qbz_id": 9602,
+  "title": "Për shtyrjen e afatit të vendimit nr. 161, datë 7.12.2012 të bordit të komisionerëve të ERE-s",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "54",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-05-03",
+  "published": "2013-05-27",
+  "in_force": "2013-05-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c61de8c771f2915b40e621a3b5eaadb51df6b029bc96e7fd2f6027aad3367a6e.docx",
+  "source_sha256": "c61de8c771f2915b40e621a3b5eaadb51df6b029bc96e7fd2f6027aad3367a6e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9602",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/03/54",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62364
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
