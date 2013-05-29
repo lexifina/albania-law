@@ -1,0 +1,27 @@
+{
+  "qbz_id": 9406,
+  "title": "Për miratimin e disa ndryshimeve në Rregullat e Tregut Shqiptar të Energjisë Elektrike",
+  "type": "Vendim",
+  "number": "33",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-04-10",
+  "version_no": 1,
+  "qbz_version_id": 898,
+  "in_force": "2013-05-29",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2013-05-29",
+  "changed_by_qbz_id": 9695,
+  "changed_by_number": "58",
+  "changed_by_title": "Mbi shtyrjen e zbatimit të rregullave të balancimit",
+  "source": "https://qbz.gov.al/files/67cb882f6e9c38590a1d5db648ccdb76c43d96a914153aeef6dbae42fc0369fe.docx",
+  "source_sha256": "67cb882f6e9c38590a1d5db648ccdb76c43d96a914153aeef6dbae42fc0369fe",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9406",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/9406/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
