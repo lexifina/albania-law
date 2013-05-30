@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen, është 800 000 (tetëqind mijë) lekë. Vlera e përgjithshme e shpronësimit të përballohet nga buxheti i komunës së Kryevidhit.

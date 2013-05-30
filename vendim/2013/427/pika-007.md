@@ -1,0 +1,1 @@
+7. Shpronësimi bëhet në favor të komunës së Kryevidhit. Regjistrimi i ri i pasurisë prej 66 (gjashtëdhjetë e gjashtë) m2 objekt, shpronësuar në favor të kësaj komune, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

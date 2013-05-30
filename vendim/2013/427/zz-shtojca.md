@@ -1,0 +1,21 @@
+# Shtojca
+TË DHËNAT MBI LISTËN EMËRORE TË PERSONAVE DHE PRONAVE QË DO TË SHPRONËSOHEN PËR RIKONSTRUKSIONIN E RRUGËS QENDËR KRYEVIDH, SHKOLLA 9-VJEÇARE NË KOMUNËN E KRYEVIDHIT, QARKU TIRANË
+Nr.
+Emër, mbiemër
+Sip. objekt m2
+Çmimi lekë/m2
+Vlera lekë
+Numri i pasurisë
+Zona kadast.
+Dok. i pronësisë
+1
+Bahri Pjeçi
+66
+12 121
+800 000
+142/24
+2292
+Në proces
+TOTALI
+66
+800 000
