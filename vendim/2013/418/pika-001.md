@@ -1,0 +1,1 @@
+1. Aksionet e Republikës së Shqipërisë në kapitalin e Bankës së Detit të Zi për Tregti dhe Zhvillim rriten për shumën 20 (njëzet) milionë SDR, në përputhje me dispozitat e ligjit nr. 113/2013 “Për aderimin në rezolutën e bordit të guvernatorëve të Bankës së Detit të Zi për Tregti dhe Zhvillim (BSTDB)”.
