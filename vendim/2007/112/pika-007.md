@@ -1,1 +1,0 @@
-7. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, do të përballohen nga buxheti i Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, e cila do të krijojë një zë të veçantë për këtë qëllim, për llogari të ALBINVEST-it.

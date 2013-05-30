@@ -1,1 +1,0 @@
-8. Për vitin 2007, Ministria e Ekonomisë, Tregtisë dhe Energjetikës të kalojë për institucionin e varësisë, ALBINVEST, shumën 25 000 000 (njëzet e pesë milionë) lekë, në nënzërin “Fondi i konkurrueshmërisë”, i cili zëvendëson nënzërin “Studime në fushën e investimeve” të zërit “Mbështetje për zhvillim ekonomik”.
