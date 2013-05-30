@@ -8,3 +8,4 @@ c) të veprimtarisë me pagesë për pjesëmarrjen e lojtarëve në bastet, lota
 a) në fushën e tatim-taksave;
 b) për mbrojtjen e të dhënave personale;
 c) për çështjet, që lidhen me praktika e marrëveshje, të rregulluara nga ligji i konkurrencës.
+d) për çështjet që lidhen me të drejtat e pronësisë intelektuale dhe industriale.

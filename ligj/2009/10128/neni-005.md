@@ -6,7 +6,7 @@ a) të mos cenojnë të drejtat e njeriut;
 b) të garantojnë mbrojtjen e konsumatorit dhe të investitorëve, sipas parashikimeve të legjislacionit në fuqi;
 c) të sigurojnë mbrojtjen e minorenëve;
 ç) të vendosin masa mbrojtëse për mosndërhyrjen në shërbimet e tij dhe mospërdorimin e tyre për qëllime kriminale;
-d) të ofrohen për të gjithë klientët njëlloj, pa dallime ndërmjet sekseve, racave, besimit apo bindjeve të personave që i përfitojnë ato;
+d) të ofrohen për të gjithë klientët njëlloj, pa dallime ndërmjet sekseve, racave, besimit, etnisë apo bindjeve të personave që i përfitojnë ato;
 dh) të mos cenojnë sigurinë kombëtare dhe sigurinë e publikut;
-e) të mos cenojnë shëndetin e klientëve;
+e) të mos cenojnë shëndetin publik;
 ë) të ofrohen, në çdo rast, me pëlqimin paraprak të përfituesit të shërbimit.

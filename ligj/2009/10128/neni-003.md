@@ -11,7 +11,7 @@ Shërbimet e shoqërisë së informacionit përfshijnë, në veçanti, shitjen e
 b) “Ofruesi i shërbimit” është çdo person fizik ose juridik, që ofron një shërbim të shoqërisë së informacionit.
 c) “Ofrues shërbimi të themeluar” është personi fizik apo juridik, që ofron shërbimin dhe që ushtron veprimtarinë ekonomike në mënyrë të përhershme e që ka një seli të vet të regjistruar. Ekzistenca dhe përdorimi i mjeteve teknike dhe i teknologjive të kërkuara për ofrimin e shërbimit nuk përbën, në vetvete, themelim të ofruesit.
 ç) “Marrësi i shërbimit” çdo person fizik ose juridik, i cili, për qëllime profesionale a të ndryshme, në mënyrë të veçantë, për qëllime të kërkimit të informacionit dhe bërjen e tij të aksesueshëm, përdor një shërbim të shoqërisë së informacionit.
-d) “Ndërmjetës i shërbimit” është çdo person fizik ose juridik, i cili mundëson transmetimin e mesazheve apo të dokumenteve të ofruesit të shërbimit të shoqërisë së informacionit tek të tretët, apo që çon mesazhe a informacione nga marrësit e shërbimit dhe të mallrave nga të tretët tek ofruesi i shërbimit të shoqërisë së informacionit.
+d) Shfuqizuar.
 dh) “Konsumator” është çdo person fizik, i cili blen ose përdor mallra a shërbime për plotësimin e nevojave vetjake, për qëllime, të cilat nuk kanë lidhje me veprimtarinë tregtare, biznesin ose ushtrimin e profesionit.
 e) “Komunikimi tregtar” është çdo mënyrë komunikimi e dizenjuar për nxitjen e drejtpërdrejtë ose të tërthortë të mallrave, të shërbimeve ose imazhin e një tregtari a shoqërie tregtare, organizate jofitimprurëse apo personi që kryen një veprimtari tregtare, industriale a zejtarie ose ushtron një profesion të rregulluar.
 Nuk janë komunikime tregtare, në kuptim të këtij ligji:
@@ -19,3 +19,8 @@ i) informacionet, që lejojnë akses të drejtpërdrejtë në veprimtarinë e sh
 ii) komunikimet, që lidhen me mallra, shërbime ose me imazhin e tregtarit a të shoqërisë tregtare, organizatës joftimprurëse ose personit, të grumbulluara në mënyrë të pavarur, në ato raste kur kjo është bërë pa kosto financiare.
 ë) “Profesione të rregulluara” janë të gjitha ato profesione, mënyra e ushtrimit e të cilave është rregulluar me ligj të veçantë.
 f) “Tregti elektronike” është kryerja nga subjektet e këtij ligji të një veprimtarie, nëpërmjet shkëmbimit të dokumenteve elektronike, për tregtimin e mallrave dhe/ose të shërbimeve.
+g) “Fusha e koordinuar” janë rregullat e përcaktuara në legjislacionin në fuqi për shërbimet e shoqërisë së informacionit dhe ofruesit e shërbimit, si dhe rregullat për krijimin e operimin e shërbimeve të shoqërisë së informacionit, pavarësisht nëse ato janë të natyrës së përgjithshme apo të projektuara specifikisht për to.
+gj) “Regjistri i përjashtimeve” është regjistri që ofruesi i shërbimit mban për regjistrimin e personave, të cilët nuk kanë dëshirë të marrin komunikime tregtare të pakërkuara.
+h) “Transmetimi i thjeshtë” (mere conduit) është shërbimi i ofruar nga një ofrues shërbimi për sigurimin e aksesit në rrjetin e komunikimit ose për sigurimin e shërbimit të transmetimit të të dhënave.
+i) “Caching” është ruajtja e përkohshme, automatike e të dhënave të ofruara nga përdoruesi, me qëllim transmetimin në mënyrë më të efektshme të informacionit dhe për aksesimin më të shpejtë të informacionit në rast ripërdorimi nga përdoruesi.
+j) “Hosting” është shërbimi i ruajtjes së të dhënave nga ofruesi i shërbimit, ku të dhënat e ruajtura zgjidhen dhe ngarkohen nga marrësi i shërbimit.
