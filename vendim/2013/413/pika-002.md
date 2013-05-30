@@ -1,0 +1,1 @@
+2. Në buxhetin e miratuar për vitin 2013, në programin “Shërbime për shoqërinë e informacionit”, të shtohet fondi 25 000 000 (njëzet e pesë milionë) lekë për shpenzime korente për ASIG-un, i cili të përballohet nga reduktimi, në të njëjtën masë, i shpenzimeve korente të programit “Mbështetja e luftimit” (Reparti Ushtarak nr. 6010) të Ministrisë së Mbrojtjes.
