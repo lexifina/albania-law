@@ -1,0 +1,29 @@
+{
+  "qbz_id": 55497,
+  "title": "Për krijimin e Fondit Shqiptar të Konkurrueshmërisë",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "419",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-05-15",
+  "published": "2013-05-30",
+  "in_force": "2013-05-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/04758a63a8bc34185d26143103ffb96ee3ebf96cbf51eefb3c624acd98e40464.docx",
+  "source_sha256": "04758a63a8bc34185d26143103ffb96ee3ebf96cbf51eefb3c624acd98e40464",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55497",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/15/419",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    11299,
+    19536
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
