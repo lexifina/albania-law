@@ -1,0 +1,1 @@
+6. Kryeministri zgjedh njërin prej tre kandidatëve brenda 10 (dhjetë) ditëve nga data e paraqitjes së kandidaturave të propozuara nga Këshilli i Statistikave. Për këtë qëllim, Kryeministri zhvillon paraprakisht një bashkëbisedim me secilin nga tre kandidatët e propozuar nga Këshilli.

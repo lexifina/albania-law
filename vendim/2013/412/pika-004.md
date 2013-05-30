@@ -1,0 +1,1 @@
+4. Krahas kërkesave të përgjithshme, të parashikuara në pikën 3/1 të nenit 9 të ligjit të statistikave zyrtare, kandidatët duhet të plotësojnë edhe kërkesat e përgjithshme për t’u punësuar në shërbimin civil, sipas nenit 12 të ligjit nr. 8549, datë 11.11.1999 “Statusi i nëpunësit civil”.
