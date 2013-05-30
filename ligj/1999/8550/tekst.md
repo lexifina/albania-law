@@ -4,7 +4,7 @@ Nr. 8550, datë 18.11.1999
 
 STATUSI I DEPUTETIT
 
-(Ndryshuar me ligjin nr. 8988, datë 24.12.2002; nr. 10160, datë 15.10.2009)
+(Ndryshuar me ligjin nr. 8988, datë 24.12.2002; nr. 10160, datë 15.10.2009; nr. 153/2013, datë 30.5.2013)
 
 (i përditësuar)
 
@@ -48,7 +48,9 @@ Neni 4
 
 Neni 5 
 
-Deputeti merr takim periodikisht vetë me zgjedhësit ose kur e kërkojnë ata. Ai i përfaqëson ata duke iu marrë mendime për projektligje, amendamente, vendime dhe materiale të tjera që shqyrton Kuvendi, si dhe mund të marrë pjesë në zbërthimin dhe shpjegimin e tyre.
+(Ndryshuar me ligjin nr. 153/2013, datë 30.5.2013)
+
+Deputeti takohet periodikisht me zgjedhësit ose kur e kërkojnë ata. Deputeti i përfaqëson ata duke iu marrë mendime apo duke iu dhënë shpjegime për projektligje, amendamente, vendime, rezoluta apo deklarata që shqyrtohen dhe miratohen në Kuvend.
 
 KREU II
 
@@ -56,9 +58,11 @@ MARRËDHËNIET ME ORGANET SHTETËRORE QENDRORE E VENDORE
 
 Neni 6
 
+(Ndryshuar pika 2 me ligjin nr. 153/2013, datë 30.5.2013)
+
 1. Deputeti ka të drejtë të marrë pjesë në mbledhjet dhe analizat që organizohen nga organet e qeverisjes vendore.
 
-2. Organet e përmendura më lart, si dhe prefektura, në fillim të çdo muaji i vënë në dispozicion deputetëve të rrethit (qarkut) pranë zyrave të tyre kalendarin e mbledhjeve, duke përfshirë ndryshimet e mundshme që mund t’i bëhen atij.
+2. Organet e qeverisjes vendore dhe prefekturat, në fillim të çdo muaji, njoftojnë deputetët e qarkut ku ata janë zgjedhur për kalendarin e mbledhjeve, duke përfshirë ndryshimet e mundshme që mund t'i bëhen atij.
 
 Neni 7
 
@@ -66,21 +70,33 @@ Drejtuesit kryesorë të ministrive dhe të institucioneve të tjera qendrore de
 
 Neni 8
 
-Deputeti ka të drejtë të kërkojë shpjegime për çdo çështje që ka të bëjë me përmbushjen e detyrës së tij, të ministrave ose të drejtuesve të institucioneve të tjera qendrore, si dhe të çdo institucioni tjetër në administratën shtetërore të qeverisjes vendore. Drejtuesit ose stafet e tyre janë të detyruar t’i përgjigjen deputetit brenda 15 ditëve nga data e paraqitjes së kërkesës.
+(Ndryshuar me ligjin nr. 153/2013, datë 30.5.2013)
 
-Për shkeljet e kësaj procedure njoftohet Kabineti i Kryeministrit për të nxjerrë përgjegjësitë përkatëse.
+1. Deputeti ka të drejtë të kërkojë shpjegime për çdo çështje që ka të bëjë me përmbushjen e detyrës së tij, nga ministrat ose nga drejtuesit e institucioneve të tjera qendrore, si dhe nga drejtuesit e çdo institucioni tjetër në administratën publike ose të qeverisjes vendore. 
+
+2. Drejtuesit e institucioneve të përmendura në pikën 1 të këtij neni janë të detyruar t’i përgjigjen deputetit brenda 15 ditëve nga data e paraqitjes së kërkesës.
+
+3. Në rast shkeljeje të pikës 2 të këtij neni, njoftohet Kryeministri për të nxjerrë përgjegjësitë përkatëse. Në rastet e enteve apo institucioneve të tjera qendrore, njoftohet organi prej të cilit ato janë zgjedhur.
 
 Neni 9
 
-Deputetit i bëhet ftesë dhe  mund të marrë pjesë në mbledhjet e Këshillit të Ministrave, në Ministri ose në institucione të tjera qendrore, kur në to shqyrtohen probleme të ngritura prej tij dhe që lidhen me rrethin, qarkun ose zonën e tij elektorale.
+(Ndryshuar me ligjin nr. 153/2013, datë 30.5.2013)
+
+Deputeti ka të drejtë të marrë pjesë në mbledhjet e Këshillit të Ministrave, në ministri ose në institucione të tjera qendrore dhe vendore, kur në to shqyrtohen probleme të ngritura prej tij dhe që lidhen me qarkun ku është zgjedhur.
 
 Neni 10
 
-Organet shtetërore janë të detyruar të marrin në shqyrtim kërkesat, ankesat dhe propozimet e bëra nga zgjedhësit nëpërmjet deputetit dhe brenda 1 muaji, nga data e paraqitjes së tyre, detyrohen të njoftojnë deputetin për mënyrën e trajtimit të tyre.
+(Ndryshuar me ligjin nr. 153/2013, datë 30.5.2013)
+
+1. Organet shtetërore dhe vendore janë të detyruara të marrin në shqyrtim kërkesat, ankesat dhe propozimet e bëra nga zgjedhësit, të cilat i paraqiten atyre nëpërmjet deputetit.
+
+2. Këto organe, brenda 1 muaji nga data e paraqitjes së tyre, detyrohen të njoftojnë deputetin për mënyrën e trajtimit apo zgjidhjes së tyre.
 
 Neni 11 
 
-1. Kur deputeti vlerëson se një akt nënligjor i nxjerrë nga Këshilli i Ministrave, ministritë, institucionet qendrore, organet e qeverisjes vendore, dhe të administratës shtetërore është i kontestueshëm, propozon me shkrim pranë organit përkatës rishikimin ose shfuqizimin e tij, duke njoftuar për këtë Kabinetin e Kryeministrit ose Prefekturën.
+(Ndryshuar pika 1 me ligjin nr. 153/2013, datë 30.5.2013)
+
+1. Kur deputeti konstaton se një akt normativ i Këshillit të Ministrave, ministrive, institucioneve qendrore, organeve të qeverisjes vendore ose i administratës publike është i kontestueshëm, i propozon me shkrim organit përkatës rishikimin ose shfuqizimin e tij.
 
 2. Organet drejtuese përkatëse detyrohen të shqyrtojnë propozimin e bërë nga deputeti në mbledhjen më të afërt të radhës dhe brenda 15 ditëve njoftojnë me shkrim për përfundimin e shqyrtimit.
 
@@ -96,7 +112,9 @@ MARRËDHËNIET FINANCIARE
 
 Neni 13
 
-1. Në klasifikim paga e deputetit vjen menjëherë pas pagës së ministrit, paga e Kryetarit të Kuvendit menjëherë pas pages së Presidentit të Republikës dhe ajo e zëvendëskryetarëve barazohet me zëvendëskryeministrin. 
+(Ndryshuar pika 5 me ligjin nr. 153/2013, datë 30.5.2013)
+
+1. Në klasifikim paga e deputetit vjen menjëherë pas pagës së ministrit, paga e Kryetarit të Kuvendit menjëherë pas pagës së Presidentit të Republikës dhe ajo e zëvendëskryetarëve barazohet me zëvendëskryeministrin. 
 
 2. Paga e deputetit përbëhet nga paga për pjesëmarrjen e tij në seancë, në komisione dhe në veprimtari të tjera  parlamentare.
 
@@ -106,7 +124,7 @@ Gjithashtu, ai gëzon të drejtën e shpërblimit për pjesëmarje në komisione
 
 4. Raportet e pagës, masës së dietës, të shpërblimit, si dhe norma për transportin që përfiton deputeti, kryetari i komisionit, nënkomisionit dhe kryetari i grupit parlamentar përcaktohen me vendim të Kuvendit. 
 
-5. Efektet dhe përfitimet financiare që parashikohen në këtë nen fillojnë nga data 1.1.2000
+5. Mospjesëmarrja pa shkaqe të përligjura e deputetit në seancë, në komisione ose në veprimtari të tjera parlamentare sjell ndalesën e pagës ditore.
 
 Neni 14
 
@@ -138,13 +156,15 @@ Deputetit i lejohet që vetëm në një rast gjatë mandatit të tij të mos pag
 
 Neni 18
 
-(Ndryshuar pika 3 me ligjin nr. 8988, datë 24.12.2002)
+(Ndryshuar pika 3 me ligjin nr. 8988, datë 24.12.2002; ndryshuar me ligjin nr. 153/2013, datë 30.5.2013)
 
-1. Komisionet dhe grupet parlamentare kanë zyrat e tyre pranë Kuvendit me stafet e tyre ndihmëse.
+1. Komisionet, grupet parlamentare dhe deputetët kanë zyrat e tyre pranë selisë së Kuvendit me stafet e tyre ndihmëse.
 
-2. Gjithashtu, pranë çdo zone elektorale, organet e qeverisjes vendore hapin zyra të veçanta pune për deputetët. Kryetari i Kuvendit, me pëlqimin e deputetëve, emëron në shërbim të deputetëve në këto zyra një sekretar, si rregull me arsim të lartë juridik, i cili pajiset me mjetet e nevojshme të punës.
+2. Kuvendi, në bashkëpunim me organet e pushtetit vendor, hap në çdo rreth zyra të veçanta për deputetët e maxhorancës dhe opozitës, për çdo rast që ato kanë përfaqësim. Në rrethet ku ka përfaqësim vetëm të njërës palë hapet vetëm një zyrë. 
 
-3. Fondet për nevojat e mësipërme përballohen nga buxheti i Kuvendit.
+3. Kryetari i Kuvendit, me propozimin e kryetarëve të grupeve parlamentare, emëron në  zyrat përkatëse një specialist, si rregull me arsim të lartë juridik. Kuvendi pajis zyrat me mjetet e nevojshme të punës.
+
+4. Fondet për nevojat e mësipërme përballohen nga buxheti i Kuvendit.
 
 Neni 19 
 
@@ -174,9 +194,9 @@ Institucionet e administratës publike, në të cilat deputetët kanë qenë të
 
 Neni 23
 
-Deputetit i sigurohet mbrojtje e veçantë nga organet e Ministrisë së Rendit Publik, i ruhet banesa dhe i sigurohet shoqërimi në territorin e Republikës së Shqipërisë, kur ai i kërkon këto.
+(Shfuqizuar paragrafi i dytë me ligjin nr. 153/2013, datë 30.5.2013)
 
-Ministria e Rendit Publik përcakton shenjën e veçantë dalluese që duhet të kenë makinat e Kuvendit.
+Deputetit i sigurohet mbrojtje e veçantë nga organet e Ministrisë së Rendit Publik, i ruhet banesa dhe i sigurohet shoqërimi në territorin e Republikës së Shqipërisë, kur ai i kërkon këto.
 
 KREU IV
 
