@@ -1,0 +1,7 @@
+2. Pronat e sipërpërmendura, të cilat kalojnë në përgjegjësi administrimi të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, të hiqen nga listat e inventarit, që i bashkëlidhen respektivisht vendimeve të mëposhtme të Këshillit të Ministrave:
+a) nr. 1157, datë 25.11.2009 “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të bordeve të kullimit, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit”.
+b) nr. 507, datë 13.7.2011 “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të komunës Sult, të qarkut të Elbasanit”;
+c) nr. 273, datë 18.4.2012 “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të komunës Pishaj, të qarkut të Elbasanit”;
+ç) nr. 703, datë 5.10.2011 “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të komunës Kodovjat, të qarkut të Elbasanit”;
+d) nr. 734, datë 26.10.2011 “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të komunës Moglicë, të qarkut të Korçës”.
+dh) nr. 431, datë 11.7.2007 “Për miratimin e listës përfundimtare të pronave të paluajtshme publike, që transferohen në pronësi ose në përdorim të bashkisë Gramsh, të qarkut të Elbasanit”;

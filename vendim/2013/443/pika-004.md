@@ -1,0 +1,1 @@
+4. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyrat vendore të regjistrimit të pasurive të paluajtshme Elbasan, Gramsh dhe Korçë të pezullojnë të gjitha transaksionet me pasuritë, sipas listës bashkëlidhur këtij vendimi, deri në përfundimin e regjistrimit të pronave në përgjegjësi administrimi të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës.

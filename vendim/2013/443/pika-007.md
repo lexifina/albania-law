@@ -1,0 +1,2 @@
+7. Ngarkohen Ministria e Ekonomisë, Tregtisë dhe Energjetikës, Ministria e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit, Ministria e Brendshme, Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme e zyrat vendore të regjistrimit të pasurive të paluajtshme Elbasan, Gramsh e Korçë dhe shoqëria “Devoll Hydropower” sh.a. për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

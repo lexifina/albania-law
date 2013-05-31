@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të pronave shtetërore, që preken nga zhvillimi i projektit hidroenergjetik në kaskadën mbi lumin Devoll, sipas tabelës bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+5. Autorizohet dhe ngarkohet Ministria e Ekonomisë, Tregtisë dhe Energjetikës të lidhë me koncesionarin/shoqërinë “Devoll Hydropower”, sh.a., marrëveshjen e uzufruktit për pasuritë shtetërore, sipas listës bashkëlidhur.
