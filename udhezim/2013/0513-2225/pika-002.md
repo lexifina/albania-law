@@ -1,0 +1,1 @@
+2. Të ardhurat, që realizohen nga shërbimet, të administrohen nga Autoriteti i Aviacionit Civil, në masën dhe sipas kritereve të përcaktuara në ligjin nr. 10 233, datë 11.02.2010 “Për Autoritetin e Aviacionit Civil”, të ndryshuar.
