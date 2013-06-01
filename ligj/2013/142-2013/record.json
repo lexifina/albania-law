@@ -1,0 +1,26 @@
+{
+  "qbz_id": 60974,
+  "title": "Për shfuqizimin e ligjit nr. 111/2013 “Për disa shtesa dhe ndryshime në ligjin nr. 7928, datë 27.4.1995 “Për tatimin mbi vlerën e shtuar”, të ndryshuar”",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "142-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-05-02",
+  "published": "2013-05-17",
+  "in_force": "2013-06-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/dfe37c0125f12476f5d95206367812732c8aef383d811b40ee00248ed6ae923a.docx",
+  "source_sha256": "dfe37c0125f12476f5d95206367812732c8aef383d811b40ee00248ed6ae923a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60974",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/05/02/142-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
