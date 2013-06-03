@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 (dy), pikësh për rezultatin teknik e financiar, që i jepet shoqërisë “Info Metal Plast-AL” sh.p.k., në procedurën përzgjedhëse konkurruese për dhënien me koncesion të këtij hidrocentrali.
