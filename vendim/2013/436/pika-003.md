@@ -1,0 +1,1 @@
+3. Kryetarit të Bashkisë së Tiranës i delegohet përgjegjësia për menaxhimin e projektit, nënshkrimin e të gjitha kontratave për punë, mallra, shërbime, për zbatimin e projektit, si dhe për përcaktimin e strukturës përgjegjëse për menaxhimin financiar e teknik, për bashkërendimin dhe mbikëqyrjen e aktiviteteve për zbatimin e projektit.
