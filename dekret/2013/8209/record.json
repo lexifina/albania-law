@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9604,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar komune, komuna Thumanë, qarku Durrës",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8209",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-05-31",
+  "published": "2013-06-03",
+  "in_force": "2013-06-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b88750e98830061e53f9dbf2f7ad8c12ceb278b9e19bf0f8a078734d60923260.docx",
+  "source_sha256": "b88750e98830061e53f9dbf2f7ad8c12ceb278b9e19bf0f8a078734d60923260",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9604",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/05/31/8209",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
