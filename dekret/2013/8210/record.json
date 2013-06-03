@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9605,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar në njësinë bashkiake nr.1, Tiranë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8210",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-05-31",
+  "published": "2013-06-03",
+  "in_force": "2013-06-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ac2c9106458d42315faaa46b448ad09408dfe44e613df6ee111bdbe51f53f949.docx",
+  "source_sha256": "ac2c9106458d42315faaa46b448ad09408dfe44e613df6ee111bdbe51f53f949",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9605",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/05/31/8210",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
