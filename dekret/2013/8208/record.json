@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9603,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar bashkie, bashkia Bulqizë, qarku Dibër",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8208",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-05-31",
+  "published": "2013-06-03",
+  "in_force": "2013-06-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8681382b56e5a4f61710597887d1f3323c59060bf9a3fffce78193a15c6a8171.docx",
+  "source_sha256": "8681382b56e5a4f61710597887d1f3323c59060bf9a3fffce78193a15c6a8171",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9603",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/05/31/8208",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
