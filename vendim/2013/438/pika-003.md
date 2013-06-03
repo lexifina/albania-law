@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të pronarëve, pasuritë pronë private të të cilëve shpronësohen, është 17 965 060 (shtatëmbëdhjetë milionë e nëntëqind e gjashtëdhjetë e pesë mijë e gjashtëdhjetë) lekë. Vlera e përgjithshme e shpronësimit përballohet nga të ardhurat e bashkisë së Vlorës, planifikuar në buxhetin e saj.

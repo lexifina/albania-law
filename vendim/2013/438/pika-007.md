@@ -1,0 +1,1 @@
+7. Shpronësimi bëhet në favor të Bashkisë së Vlorës. Regjistrimi i ri i pasurisë prej 737.84 (shtatëqind e tridhjetë e shtatë pikë tetëdhjetë e katër) m2 truall dhe 236.25 (dyqind e tridhjetë e gjashtë pikë njëzet e pesë) m2 objekt, shpronësuar në favor të bashkisë së Vlorës, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

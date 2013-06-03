@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni dhe sistemimi i rrugës “Jeronim de Rada”, blloku te shkolla “Marigo Poziu”, lagjeve “Rilindja”, “Lef Sallata”, “1 Maji” dhe “24 Maji” në bashkinë e Vlorës.
