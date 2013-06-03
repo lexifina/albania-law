@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitin 2013, në programin “Menaxhimi i sigurimeve shoqërore”, në kategorinë e shpenzimeve korente, i shtohet fondi prej 118 249 000 (njëqind e tetëmbëdhjetë milionë e dyqind e dyzet e nëntë mijë) lekësh.

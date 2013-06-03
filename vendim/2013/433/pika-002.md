@@ -1,0 +1,1 @@
+2. Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta, në buxhetin e miratuar për vitin 2013, në programin “Sigurimi shoqëror” në kategorinë e shpenzimeve korente, i pakësohet fondi prej 118 249 000 (njëqind e tetëmbëdhjetë milionë e dyqind e dyzet e nëntë mijë) lekësh.
