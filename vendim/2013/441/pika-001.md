@@ -1,0 +1,1 @@
+1. Ndalimin e vendosjes dhe bërjes së disponueshme në treg, si dhe importit apo eksportit të imitimeve të rrezikshme, të cilat, duke u paraqitur ndryshe nga çfarë janë, rrezikojnë shëndetin apo sigurinë e konsumatorëve.
