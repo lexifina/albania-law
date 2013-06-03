@@ -1,0 +1,1 @@
+2. Emërtesa e komisionit, numri i anëtarëve për çdo komision dhe masa e pagesës së anëtarëve të komisioneve përcaktohen sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
