@@ -1,0 +1,1 @@
+7. Komiteti Kombëtar i Shëndetit Mendor shqyrton vlerësimet, komentet dhe sugjerimet e bëra nga misione të ndryshme vendase e ndërkombëtare dhe këshillon ministrin për zgjidhjet e problemeve që prekin të drejtat e personave me çrregullime të shëndetit mendor.

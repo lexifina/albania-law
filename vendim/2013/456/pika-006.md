@@ -1,0 +1,1 @@
+6. Komiteti Kombëtar i Shëndetit Mendor mblidhet rregullisht 2 herë në vit ose, për çështje të veçanta, thirret nga kryetari apo shumica e anëtarëve. Ai drejtohet nga kryetari ose zëvendësi i deleguar prej tij. Mbledhjet e KKSHM-së zhvillohen kur janë të pranishëm 2/3 e anëtarëve.

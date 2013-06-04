@@ -1,0 +1,1 @@
+2. Në mbledhjet e KKSHM-së ftohen të marrin pjesë përfaqësues nga përdoruesit/familjarët e përdoruesve të shërbimeve të shëndetit mendor, si dhe nga organizma të ndryshëm ndërkombëtarë, që kanë zyrat e përfaqësimit në Shqipëri dhe janë të interesuar për çështje të shëndetit mendor.

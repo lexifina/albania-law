@@ -1,0 +1,15 @@
+1. Ngritjen e Komitetit Kombëtar të Shëndetit Mendor, në vijim KKSHM, i cili të kryesohet nga Zëvendësministri i Shëndetësisë dhe në përbërje të ketë këta anëtarë:
+- Drejtuesin e njësisë që mbulon çështje të shëndetit publik në Ministrinë e Shëndetësisë;
+- Drejtuesin e njësisë që mbulon çështje të planifikimit spitalor në Ministrinë e Shëndetësisë;
+- Drejtuesin e njësisë që mbulon çështje të planifikimit financiar në Ministrinë e Shëndetësisë;
+- Drejtuesin e njësisë që mbulon çështjet juridike;
+- Shefin e Shërbimit të Psikiatrisë në QSUT;
+- Drejtorin e Spitalit Psikiatrik Elbasan;
+- Drejtorin e Spitalit Psikiatrik, Vlorë;
+- Drejtorin e Drejtorisë Rajonale të Shëndetësisë Shkodër;
+- Përfaqësues nga qendrat komunitare të shëndetit mendor, ASHR-së Tiranë;
+- Përfaqësuesin e Fondit të Sigurimeve të Detyrueshme të Kujdesit Shëndetësor;
+- Përfaqësues nga Drejtoria e Përgjithshme e Burgjeve;
+- Përfaqësues nga Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta;
+- Përfaqësuesin e Avokatit të Popullit;
+- Përfaqësues nga Policia e Shtetit.
