@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 1 650 000 (një milion e gjashtëqind e pesëdhjetë mijë) lekësh, për mbulimin e shpenzimeve të kurimit të znj. Marjana Prendi.
