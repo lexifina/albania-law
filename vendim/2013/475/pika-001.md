@@ -1,0 +1,1 @@
+1. ISHMT-ja është struktura përgjegjëse për mbikëqyrjen e tregut, sipas legjislacionit për sigurinë e përgjithshme të produkteve joushqimore dhe për tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore, për të gjitha produktet apo grup-produktet joushqimore, me përjashtim të atyre që janë shprehimisht në përgjegjësinë e një inspektorati apo institucioni tjetër shtetëror.

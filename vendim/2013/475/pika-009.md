@@ -1,0 +1,1 @@
+9. Përveç sa parashikohet në pikën 7 të këtij vendimi, ISHMT-ja në nivel qendror është përgjegjëse për kryerjen e funksioneve të shërbimeve të brendshme mbështetëse, të menaxhimit financiar dhe të auditimit të brendshëm, për të gjithë institucionin, duke përfshirë edhe degët në degët rajonale.

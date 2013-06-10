@@ -1,0 +1,1 @@
+25. Komisioni ad hoc, sipas pikës 24 të këtij vendimi, përbëhet nga dy përfaqësues të Departamentit të Administratës Publike, dy përfaqësues të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, një përfaqësues nga Inspektorati Qendror dhe mbështetet në punën e tij nga njësia përgjegjëse për shërbimet mbështetëse në këtë ministri.

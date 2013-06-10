@@ -1,0 +1,1 @@
+26. Nëpunësit ekzistues, të përcaktuar sipas pikës 25 të këtij vendimi, që nuk mund të transferohen në ISHMT, mbeten në institucionet përkatëse që vazhdojnë të ekzistojnë, të cilat riorganizohen brenda një periudhe 2-mujore nga hyrja në fuqi e këtij vendimi.

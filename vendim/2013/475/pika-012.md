@@ -1,0 +1,1 @@
+12. Degët rajonale të ISHMT-së janë përgjegjëse për inspektimin në territorin e qarqeve përkatëse në juridiksionin e tyre, përveçse kur parashikohet shprehimisht ndryshe në këtë vendim. Me urdhër të kryeinspektorit, inspektorët e një dege rajonale mund të ushtrojnë veprimtarinë e tyre edhe në territorin e një dege tjetër rajonale, në bashkëpunim me këtë të fundit.
