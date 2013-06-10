@@ -1,0 +1,1 @@
+7. Afati i realizimit të investimit është periudha nga hyrja në fuqi e kontratës së qiramarrjes deri në momentin e realizimit të plotë të investimit. Afati më i shkurtër i realizimit të investimit vlerësohet me maksimumin e pikëve.

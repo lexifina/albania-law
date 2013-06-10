@@ -1,0 +1,1 @@
+5. Kthimi nga investimi - Return on Investment (ROI) shpreh eficencën e investimit të realizuar dhe llogaritet si raport i kthimit të një investimi me koston e investimit. Rezultati shprehet me përqindje. Vlera më e lartë e ROI do të vlerësohet me maksimumin e pikëve.

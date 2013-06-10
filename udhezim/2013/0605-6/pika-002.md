@@ -1,0 +1,1 @@
+2. Bordi i Qiradhënies së Tokës Bujqësore (BQTB) zhvillon procedurën konkurruese, si dhe garanton barazinë për subjektet pjesëmarrëse, kur për të njëjtën tokë bujqësore është paraqitur më shumë se një ofertë për qiramarrje.

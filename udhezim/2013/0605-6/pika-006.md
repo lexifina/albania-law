@@ -1,0 +1,1 @@
+6. Përputhja me prioritetet e politikave të zhvillimit bujqësor nënkupton që në rast se ofertuesi aplikon për kultivimin e kulturave bujqësore pjesë e programeve kombëtare të qeverisë shqiptare, ai vlerësohet me 5 pikë.
