@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të komunës Petrelë të qarkut të Tiranës, që transferohen në pronësi ose në përdorim të kësaj komune, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 80 (tetëdhjetë) fletë, që i bashkëlidhet këtij vendimi, përfundon me numrin rendor 529 (pesëqind e njëzet e nëntë).
