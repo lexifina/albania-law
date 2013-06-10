@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të sipërfaqes prej 1827 (një mijë e tetëqind e njëzet e shtatë) m2, e ndodhur në zonën kadastrale 8591, me nr. pasurie 4/210, indeks harte SH-Q-5, Sh-P-5, pronë shtetërore, sipas planimetrisë dhe planvendosjes bashkëlidhur Prokurorisë së Përgjithshme për ndërtimin e godinës së Prokurorisë së Rrethit Gjyqësor Shkodër.
