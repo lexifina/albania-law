@@ -1,0 +1,26 @@
+{
+  "qbz_id": 19598,
+  "title": "Për ratifikimin e Konventës për Ndihmën Administrative të Ndërsjellë në Çështjet Tatimore",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "146-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-05-06",
+  "published": "2013-05-27",
+  "in_force": "2013-06-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b3e6b7a50566f6a1feb1fd9b94720e014583988b04342524f646ef736ba1897d.docx",
+  "source_sha256": "b3e6b7a50566f6a1feb1fd9b94720e014583988b04342524f646ef736ba1897d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/19598",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/05/06/146-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
