@@ -1,0 +1,8 @@
+LIGJ
+Nr. 149/2013
+PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR. 2, DATË 2.5.2013, TË KËSHILLIT TË MINISTRAVE “PËR RIVLERËSIMIN E PASURISË
+SË PALUAJTSHME”
+Në mbështetje të neneve 78 dhe 101 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
