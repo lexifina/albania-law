@@ -1,0 +1,1 @@
+7. Policia e Shtetit, në bashkëpunim me INSIG sh.a., të bëjë sigurimin e jetës nga aksidentet të punonjësve të Policisë së Shtetit të Republikës së Shqipërisë që do të marrin pjesë në këtë mision, për shumën totale të përfitimit nga sigurimi i jetës në masën 10 000 000 (dhjetë milionë) lekë, për çdo punonjës policie.

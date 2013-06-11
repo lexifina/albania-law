@@ -1,0 +1,1 @@
+8. Efektet financiare, të ndara përkatësisht, në shumën 26 450 (njëzet e gjashtë mijë e katërqind e pesëdhjetë) lekë, të përballohen nga Policia e Shtetit dhe në shumën 22 000 (njëzet e dy mijë) lekë, nga fondi rezervë i Këshillit të Ministrave, sipas tabelës bashkëlidhur këtij vendimi.

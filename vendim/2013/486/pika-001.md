@@ -1,0 +1,1 @@
+1. Dërgimin e një grupi ekspertësh nga Policia e Shtetit, në kuadër të kontributit të NATO-s, në Afganistan, si pjesë përbërëse e misionit trajnues, në kuadrin e operacionit “ISAF” të NATO-s, në Afganistan.

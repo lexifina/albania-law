@@ -1,0 +1,1 @@
+4. Transporti strategjik është përgjegjësi e palës shqiptare dhe italiane, e cila rregullohet nga marrëveshja teknike, ndërmjet Ministrisë së Mbrojtjes së Republikës së Shqipërisë dhe Ministrisë së Mbrojtjes së Republikës së Italisë, për mbështetjen logjistike të bazës së avancuar mbështetëse të Heratit dhe të Komandës Rajonale të Perëndimit në territorin e Afganistanit.

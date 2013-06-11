@@ -1,0 +1,1 @@
+3. Misioni dhe detyrat e punonjësve të Policisë së Shtetit janë të trajnojnë dhe të këshillojnë punonjësit e Policisë Afgane në Komandën Rajonale Perëndimore (RC-W), pranë Policisë Kombëtare Afgane (ANP), Provinca Herat-Afganistan, me qëllim zhvillimin e një force policore afgane të pavarur dhe profesionale.
