@@ -1,0 +1,1 @@
+1. Miratimin e memorandumit të bashkëpunimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit Qendror të Zgjedhjeve, për zgjedhjet për Kuvendin e Republikës së Shqipërisë, që do të zhvillohen më 23.6.2013, sipas tekstit që i bashkëlidhet këtij vendimi.
