@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2013, t’i shtohet fondi prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh, për financimin e fushatës zgjedhore të subjekteve përkatëse për zgjedhjet për Kuvendin e Republikës së Shqipërisë, më 23 qershor 2013.
