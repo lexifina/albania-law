@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 3, datë 3.5.2013, i Këshillit të Ministrave “Për ratifikimin e marrëveshjes së huas ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit për Zhvillim Abu Dhabi për financimin e projektit të bulevardit verior dhe të rehabilitimit të Lumit të Tiranës”.
