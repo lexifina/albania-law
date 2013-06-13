@@ -4,7 +4,7 @@ Nr. 70, datë 11.2.1999
 
 PËR EVIDENTIMIN E PUNËKËRKUESVE TË PAPUNË
 
-(Ndryshuar me VKM nr. 907, datë 19.12.2007; nr. 992, datë 2.7.2008)
+(Ndryshuar me VKM nr. 907, datë 19.12.2007; nr. 992, datë 2.7.2008; nr. 523, datë 13.6.2013)
 
 (i përditësuar)
 
@@ -24,11 +24,13 @@ Librezat e punësimit kanë numër serie dhe elementë sigurie. Një personi i j
 
 4. Zyra përkatëse e punësimit vlerëson dhe regjistron si të papunë çdo person i cili paraqitet pranë saj, deklaron se nuk është në marrëdhënie pune, nuk është i vetëpunësuar dhe që depoziton pranë saj librezën e punësimit.
 
-Zyra përkatëse e punësimit pajis me vërtetim çdo punëkërkues të papunë, që përfiton ose do të përfitojë nga ofrimi i shërbimeve dhe programet aktive të punësimit, si edhe nga programet e tjera shtetërore të mbështetjes me të ardhura.
+Zyra përkatëse e punësimit pajis me kartë papunësie çdo punëkërkues të papunë që përfiton ose do të përfitojë nga ofrimi i shërbimeve dhe programeve aktive të punësimit, si dhe nga programet e tjera shtetërore të mbështetjes me të ardhura.
 
 5. Zyra përkatëse e punësimit vlerëson dhe regjistron si punëkërkues të papunë çdo person të papunë, i cili kërkon punë dhe është i gatshëm të paraqitet sa herë që i kërkohet një gjë e tillë. Një pretendues mund të vlerësohet si punëkërkues i papunë të paktën një muaj kalendarik pas ditës së paraqitjes së tij të parë në zyrën përkatëse e punësimit për këtë qëllim.
 
-6. Shërbimi Kombëtar i Punësimit nxjerr dhe pajis me kartë personale papunësie tërë personat që pranojnë një gjë të tillë. Në kartën e papunësisë bëhet vërtetimi nga zyra përkatëse e punësimit e të qenit punëkërkues i papunë i mbajtësit të kartës. Pajisja me kartë papunësie bëhet kundrejt depozitimit në zyrën përkatëse e punësimit të librezës së punësimit dhe anasjelltas.
+6. Shërbimi Kombëtar i Punësimit nxjerr dhe pajis falas me kartë personale papunësie të gjithë personat që regjistrohen si punëkërkues të papunë. Zyrat e punësimit kryejnë procesin e pajisjes me kartë papunësie dhe bëjnë vërtetimin e të qenit punëkërkues i papunë të mbajtësit të kartës. Pajisja me karta papunësie për punëkërkuesit e papunë fillon menjëherë pas hyrjes në fuqi të këtij vendimi dhe përfundon brenda tre muajve. Karta e papunësisë është dokumenti i vetëm zyrtar, i cili paraqitet për përfitimet e shërbimeve të punësimit dhe përfitimet nga skemat e mbrojtjes shoqërore.
+
+Pas përfundimit të afatit tremujor, shërbimet e sipërpërmendura do t’u ofrohen vetëm punëkërkuesve që janë pajisur me kartë papunësie.
 
 Karta e papunësisë përmban numër serie dhe ka elemente sigurie. Një personi i jepet vetëm një kartë papunësie. Dublikatat për humbjen e origjinalit ose për arsye të tjera të pranueshme shënohen në regjistra dhe janë të ndryshme në formë nga origjinali.
 
