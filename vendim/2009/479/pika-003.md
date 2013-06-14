@@ -1,1 +1,0 @@
-3. Autoriteti i Komunikimeve Elektronike dhe Postare dhe Këshilli Kombëtar i Radios dhe Televizionit të vënë në dispozicion të publikut, në formë elektronike dhe të shkruar, në çdo kohë, gjendjen e brezave të frekuencave, që kanë në administrim.
