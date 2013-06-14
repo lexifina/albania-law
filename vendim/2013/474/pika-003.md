@@ -1,0 +1,1 @@
+3. Ministria e Mbrojtjes, Ministria e Brendshme, Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve dhe Drejtoria e Përgjithshme e Arkivave të marrin masat e duhura për ngritjen e një grupi të përbashkët pune, i cili të kryesohet nga Zëvendësministri i Mbrojtjes, me qëllim studimin dhe vlerësimin e formës, përmasave dhe modelit të këtij memoriali.
