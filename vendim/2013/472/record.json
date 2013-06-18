@@ -1,0 +1,35 @@
+{
+  "qbz_id": 9681,
+  "title": "Për miratimin e kalimit të pronësisë së disa parcelave ndërtimore në favor të poseduesve të objekteve informale",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "472",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-05-30",
+  "published": "2013-06-18",
+  "in_force": "2013-06-18",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/98326376d56c96b643c10153133bbd2509ecea53312a8f31a9167b47e9e5bb92.docx",
+  "source_sha256": "98326376d56c96b643c10153133bbd2509ecea53312a8f31a9167b47e9e5bb92",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9681",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/30/472",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62736,
+    20515,
+    18613,
+    16101,
+    64294,
+    67577,
+    65894,
+    55680
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
