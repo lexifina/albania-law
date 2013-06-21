@@ -1,0 +1,1 @@
+1. Autorizimin e Ministrit për Inovacionin dhe Teknologjinë e Informacionit e të Komunikimit për negocimin dhe nënshkrimin e rinovimit të marrëveshjes së partneritetit strategjik, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë “Microsoft Corporation”.
