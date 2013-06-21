@@ -1,0 +1,28 @@
+{
+  "qbz_id": 9695,
+  "title": "Mbi shtyrjen e zbatimit të rregullave të balancimit",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "58",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-05-29",
+  "published": "2013-06-21",
+  "in_force": "2013-06-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b28b9a0d72ac869f66d20d87c7a01f43f31782af3e225238de8b41537af31cbb.docx",
+  "source_sha256": "b28b9a0d72ac869f66d20d87c7a01f43f31782af3e225238de8b41537af31cbb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9695",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/05/29/58",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    9807
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
