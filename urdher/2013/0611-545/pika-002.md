@@ -1,0 +1,1 @@
+2. Në ushtrimin e kësaj kompetence, Drejtori Ekzekutiv i Agjencisë Shqiptare të Zhvillimit të Investimeve, të zbatojë kriteret e përcaktuara në vendimin e Këshillit të Ministrave nr. 870, datë 14.12.2011 “Për trajtimin financiar të punonjësve që dërgohen me shërbim jashtë vendit”.
