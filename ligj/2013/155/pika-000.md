@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 4, datë 21.5.2013, i Këshillit të Ministrave “Për zhvillimin dhe pjesëmarrjen e forcave ushtarake të Britanisë së Madhe në stërvitjen e përbashkët detare - amfibe “Albanian Lion, 2013””.
