@@ -1,0 +1,26 @@
+{
+  "qbz_id": 67260,
+  "title": "Për disa ndryshime në ligjin nr. 8550, datë 18.11.1999 “Statusi i deputetit”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "153-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-05-30",
+  "published": "2013-06-07",
+  "in_force": "2013-06-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/d37ff95288137c627ae2e342af6cd0a9703a5be8c88f245e49848f13dcd350c5.docx",
+  "source_sha256": "d37ff95288137c627ae2e342af6cd0a9703a5be8c88f245e49848f13dcd350c5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67260",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/05/30/153-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
