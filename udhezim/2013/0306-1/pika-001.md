@@ -1,0 +1,1 @@
+1. Mbështetur në hartën e zonës së gjuetisë, menaxhuesi i zonës së gjuetisë, në bashkëpunim me drejtorinë e shërbimit pyjor përkatës, vendosin në terren shenjat dalluese të kufijve të zonës së gjuetisë, bazuar në kufijtë e përcaktuar në hartë.
