@@ -1,0 +1,1 @@
+2. Sipërfaqet ligatinore bregdetare, sipas shtojcës të pikës 1, në përputhje me dispozitat e pikës 1/ë dhe 2 të nenit 11 të ligjit “Për gjuetinë”, në rast se janë përfshirë në zonat e gjuetisë të miratuara, duhet të përjashtohen si të tilla.
