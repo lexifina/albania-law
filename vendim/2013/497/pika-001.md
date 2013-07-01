@@ -1,0 +1,1 @@
+1. Kalimin e sipërfaqes prej 300 (treqind) m2, truall e përfshirë brenda pronës me nr. pasurie 3/127, vol. 2, faqe 173, e ndodhur në zonën kadastrale 8240, në pronësi të Myftinisë Tiranë, me qëllim ndjekjen e procedurave ligjore që nevojiten për ndërtimin e xhamisë “Selitë”, për Komunitetin Mysliman Shqiptar.
