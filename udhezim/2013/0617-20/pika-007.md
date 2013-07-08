@@ -1,0 +1,1 @@
+7. Shoqëria koncesionare, kontraktori i nivelit 1 apo kontraktori i nivelit 2 nëse kryejnë furnizime të mallrave apo shërbimeve për palë të treta për të cilat nuk zbatohet regjimi specifik i TVSH-së, siç përcaktohet në këtë udhëzim, do të lëshojnë faturë tatimore në përputhje me dispozitat e ligjit për TVSH-në.

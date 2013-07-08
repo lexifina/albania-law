@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 20, datë 17.6.2013
+PËR ZBATIMIN E LIGJIT NR. 105/2013, DATË 28.3.2013 “PËR DISA SHTESA DHE NDRYSHIME NË LIGJIN NR. 10 083, DATË 23.2.2009 “PËR MIRATIMIN E KONTRATËS SË KONCESIONIT NDËRMJET MINISTRISË SË EKONOMISË, TREGTISË DHE ENERGJETIKËS, SI AUTORITET KONTRAKTUES DHE EVN AG, STATKRAFT AS E DEVOLL HYDROPOwER SHA, SI BASHKËKONCESIONARË PËR PROJEKTIMIN, FINANCIMIN, NDËRTIMIN, MARRJEN NË PRONËSI, SHFRYTËZIMIN, MIRËMBAJTJEN DHE TRANSFERIMIN E PROJEKTIT TË HIDROCENTRALIT NË LUMIN DEVOLL, NË REPUBLIKËN E SHQIPËRISË””
+Në mbështetje të nenit 102 pika 4 të Kushtetutës së Republikës së Shqipërisë dhe të nenit 3 të ligjit nr. 105/2013, datë 28.3.2013 “Për disa shtesa dhe ndryshime në ligjin nr. 10 083, datë 23.2.2009 “Për miratimin e kontratës së koncesionit ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoritet kontraktues dhe EVN AG, Statkraft AS e Devoll Hydropower sh.a., si bashkëkoncesionarë për projektimin, financimin, ndërtimin, marrjen në pronësi, shfrytëzimin, mirëmbajtjen dhe transferimin e projektit të hidrocentralit në lumin Devoll, në Republikën e Shqipërisë””, të ndryshuar, Ministri i Financave
+UDHËZON:
