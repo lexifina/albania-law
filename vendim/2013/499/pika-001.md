@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2013, t’i shtohet fondi prej 27 570 126 (njezet e shtatë milionë e pesëqind e shtatëdhjetë mijë e njëqind e njëzet e gjashtë) lekësh, për mobilimin e plotë të vilës nr. 4, Tiranë.
