@@ -1,0 +1,1 @@
+2. Ky revokim përfshin të gjitha fondet, llogaritë, asetet, pasuritë e paluajtshme, trojet, investimet në shoqëri tregtare dhe mjetet financiare në emër të fondacionit “Taibah International”, e njohur si Shoqata Ndërkombëtare e Ndihmave të sekuestruara me urdhrat e parashikuar në pikën 1.

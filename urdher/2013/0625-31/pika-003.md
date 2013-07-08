@@ -1,0 +1,1 @@
+3. Për lirimin dhe dorëzimin e pasurive të revokuara me këtë urdhër, të ngrihet një grup pune në përbërje të të cilit të ketë përfaqësues nga Agjencia e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara dhe Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave.

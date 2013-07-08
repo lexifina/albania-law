@@ -1,0 +1,1 @@
+1. Revokimin e urdhrit nr. 9, datë 10.3.2005 të Ministrit të Financave “Për sekuestrimin e pasurive të fondacionit “Taibah International”, e njohur dhe si Shoqata Ndërkombëtare e Ndihmave, i cili rezulton i shpallur në listën e financuesve të terrorizmit”, të ndryshuar me urdhrat nr. 20, datë 13.6.2006 dhe nr. 29, datë 5.7.2006.
