@@ -1,0 +1,1 @@
+8. Drejtoria e Integrimit Evropian (DIE) në MASH të sigurojë përditësimin e tabelës së konvertimit të notave të shteteve të huaja me sistemin e vlerësimit në Republikën e Shqipërisë. DIE të mundësojë mbështetjen për modalitetet që do të ndiqen në njehsimin e diplomave të shkollës së mesme për shtetasit e huaj që kërkojnë të vazhdojnë studimet universitare në Shqipëri.

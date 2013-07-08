@@ -1,0 +1,1 @@
+1. Për shqyrtimin e kërkesave të shtetasve shqiptarë dhe të huaj, që kanë diplomën e shkollës së mesme të fituar jashtë shtetit, në lidhje me njehsimin e dokumenteve shkollore, ngrihet një komision i posaçëm në MASH me urdhër të Ministrit të Arsimit dhe Shkencës.

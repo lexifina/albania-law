@@ -1,0 +1,2 @@
+9. Ngarkohen për zbatimin e këtij udhëzimi Zëvendësministri i Arsimit dhe Shkencës, Sekretari i Përgjithshëm, Drejtoria e Edukimit Parauniversitar, Drejtoria e Zhvillimit të Arsimit Privat, Drejtoria e Arsimit të Lartë dhe Kërkimit Shkencor, Drejtoria e Integrimit Evropian, Drejtoria e Marrëdhënieve me Median dhe Publikun, drejtoritë arsimore rajonale dhe zyrat arsimore.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

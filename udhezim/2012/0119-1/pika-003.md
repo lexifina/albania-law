@@ -1,0 +1,5 @@
+3. Shtetasit shqiptarë apo të huaj, që kanë fituar diplomë të shkollës së mesme jashtë shtetit dhe duan të ndjekin programet e studimit universitar dhe jouniversitar në institucionet e arsimit të lartë (IAL) në vend, duhet të paraqesin dokumentet plotësuese të mëposhtme:
+a) Kërkesën me shkrim për të vazhduar një program studimi në IAL.
+b) Dokumentin zyrtar nga vendi që vijnë, i cili vërteton se cikli i studimeve të kryera u jep të drejtën të vazhdojnë studimet universitare ose shkolla të larta jouniversitare në vendin ku kanë studiuar.
+c) Certifikatën e njohjes së gjuhës shqipe. Zotërimi i gjuhës shqipe vërtetohet nëpërmjet dëshmisë së provimit që zhvillohet mbi bazën e programit për të huajt në Fakultetin e Histori-Filologjisë të Universitetit të Tiranës.
+Nga detyrimi i dhënies së provimit të gjuhës shqipe përjashtohen të gjithë ata shtetas të cilët kanë vazhduar studimet në shkollën e mesme në institucione arsimore që kanë program mësimor në gjuhën shqipe, ose shtetasit që e japin gjuhën shqipe dhe letërsinë si provim të detyruar të Maturës Shtetërore.
