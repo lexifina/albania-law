@@ -1,0 +1,20 @@
+1. Qëllimi, fusha e zbatimit dhe përkufizimet
+1.1 Udhëzimi do të zbatohet për kontrollet e kryera nga personat e autorizuar për kontrollin në rrugë të mallrave të rrezikshme me mjete të regjistruara në Republikën e Shqipërisë dhe mjete të regjistruara në një shtet tjetër, palë kontraktuese ose jo në Marrëveshjen Europiane të Transportit Ndërkombëtar Rrugor të Mallrave të Rrezikshme.
+1.2 Udhëzimi do të zbatohet edhe për kontrollet në mjediset e ndërmarrjeve pjesëmarrëse në transportin e mallrave të rrezikshme.
+1.3 Udhëzimi nuk zbatohet për transportin e mallrave të rrezikshme:
+a) me mjete që i përkasin ose janë nën përgjegjësinë e Forcave të Armatosura të Republikës së Shqipërisë, si dhe forcave të armatosura të shteteve të tjetra në përputhje me marrëveshjen/et në fuqi;
+b) brenda perimetrit të një zone të mbyllur, ku mallrat mund të prodhohen, trajtohen përpunohen, ruhen, sistemohen apo transferohen në hapësirën e brendshme.
+c) kur janë në përputhje me dispozitat përjashtuese të ADR-së.
+1.4 Për qëllime të këtij udhëzimi do të përdoren përkufizimet e mëposhtme:
+a) “ADR” nënkupton anekset A dhe B të Marrëveshjes Europiane për Transportin Ndërkombëtar Rrugor të Mallrave të Rrezikshme, të rishikuar ose të ribotuar herë pas here;
+b) “Direktiva për kontrollin e mallrave të rrezikshme” nënkupton direktivën nr. 95/50/EC e Këshillit e 24 shtatorit 2008 “Mbi procedurat uniforme për kontrollet në transportin e mallrave të rrezikshme me rrugë”, me amendime të herëpashershme;
+c) “Kategoria e rrezikut” nënkupton kategorinë e shkeljes të klasifikuar në përputhje me nivelin e rrezikut të përshkruar në anekset I dhe II të direktivës 95/50/EC dhe/ose anekset II dhe III të këtij udhëzimi.
+ç) “Kontroll” nënkupton çdo kontroll, inspektim, verifikim ose formalitet të kryer nga organet përgjegjëse në rrugë, mjediset e subjektit dhe pikat e kalimit të kufirit, për arsye të sigurisë që lidhen me transportin e mallrave të rrezikshme;
+d) “Ligji për transportin e mallrave të rrezikshme” nënkupton ligjin nr. 118/2012, datë 13.12.2012, i cili ka për qëllim rritjen e sigurisë në transportin rrugor të mallrave të rrezikshme;
+dh) “Mallra të rrezikshme” nënkupton ato substanca ose artikuj, transporti me rrugë i të cilëve është i ndaluar ose i autorizuar vetëm në rrethana të caktuar nga ADR-ja;
+e) “Mjet” nënkupton çdo mjet motorik të destinuar për përdorimin në rrugë, nëse komplet ose jo komplet, i cili ka të paktën katër rrota dhe një shpejtuesi të caktuar që e kalon 25 km/orë, së bashku me rimorkion e tij, me përjashtim të mjeteve, të cilat udhëtojnë mbi shina, të traktorëve bujqësorë dhe pyjorë dhe/ose makineritë e lëvizshme;
+ë) “Njësi transporti” nënkupton një mjet motorik pa rimorkio bashkëlidhur, ose një kombinim të përbërë prej një mjeti motorik dhe një rimorkio bashkëlidhur;
+f) “Person i autorizuar për kontrollin në rrugë” nënkupton personin ose grupin e personave të autorizuar nga organet e kontrollit në rrugë, sipas nenit 12 të ligjit nr. 8378, datë 22.7.1998 “Kodi Rrugor i Republikës së Shqipërisë”, nenit 30 të ligjit nr. 10 433 “Për inspektimin në Republikën e Shqipërisë dhe nenit 7 të ligjit nr. 7986 “Për inspektoratin shtetëror të punës”;
+g) “Pjesëmarrës” nënkupton personin ose subjektin e përfshirë në transportin e mallrave të rrezikshme dhe i lidhur me veprimtarinë e ngarkimit, shkarkimit, paketimit dhe mbushjes dhe përfshin dërguesin, transportuesin, marrësin, ngarkuesin, mbushësin, paketuesin, shkarkuesin, operatorin e cisternës-transferueshme ose kontejnerit-cisternës, e vagonit-cisternë, drejtuesin e mjetit, këshilltarin e sigurisë, organin inspektues;
+h) “Transport” nënkupton operacionin e transportit, të kryer me anë të një mjeti, plotësisht ose pjesërisht në rrugët publike, i drejtuar plotësisht ose pjesërisht brenda Shqipërisë, në të cilët përfshihen veprimtaritë e ngarkimit, shkarkimit, ambalazhimit dhe mbushjes, por nuk përfshin transportin e kryer plotësisht brenda perimetrit të një zone të mbyllur, e cila nuk është e hapur për publikun.
+Kreu II
