@@ -1,0 +1,1 @@
+1. Shpalljen e kompleksit natyror të liqeneve të Prespës së Madhe e të Vogël dhe të territoreve përreth zonë natyrore veçanërisht e mbrojtur dhe përfshirjen në listën e Konventës së Ramsarit “Për ligatinat me rëndësi ndërkombëtare, veçanërisht si habitate të shpendëve ujorë”, sipas hartës që i bashkëlidhet këtij vendimi.
