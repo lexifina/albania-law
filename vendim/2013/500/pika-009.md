@@ -1,0 +1,1 @@
+9. Shpenzimet për pagesën e primit të sigurimit të jetës nga aksidentet në punë, për nxënësit praktikantë gjatë periudhës së kryerjes së praktikës profesionale, mbulohen nga fonde të miratuara për Ministrinë e Arsimit dhe Shkencës në programin buxhetor të arsimit profesional.

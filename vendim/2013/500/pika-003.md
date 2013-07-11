@@ -1,0 +1,1 @@
+3. Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve përzgjedh shoqëritë tregtare që do të përfshihen në sistemin e AFP-së, sipas listës së publikuar nga Qendra Kombëtare e Regjistrimeve.

@@ -1,0 +1,1 @@
+4. Përfshirja e shoqërive tregtare në këtë veprimtari realizohet me anë të një kontrate që lidhet ndërmjet institucioneve arsimore ofruese të arsimit profesional ose prindërve të nxënësve dhe shoqërive tregtare. Praktika profesionale mund t’u ofrohet përfituesve/institucioneve arsimore nëpërmjet kontratave të sponsorizimit të nënshkruara me shoqëritë tregtare.

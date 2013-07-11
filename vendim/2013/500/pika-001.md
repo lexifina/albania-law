@@ -1,0 +1,1 @@
+1. Nxënësit që ndjekin arsimin profesional publik kryejnë praktikën profesionale pranë shoqërive tregtare nën udhëheqjen e një mentori të saj, për një periudhë prej 30 (tridhjetë) ditësh ose 6 (gjashtë) javësh mësimore, konform programit dhe kurrikulës përkatëse të miratuar nga Ministria e Arsimit dhe Shkencës.

@@ -1,0 +1,1 @@
+2. Numri i nxënësve për kryerjen e praktikës profesionale me kontratë të përkohshme, në sistemin publik të arsimit dhe formimit profesional, përcaktohet nga Ministria e Arsimit dhe Shkencës, përkatësisht brenda muajit shtator të çdo viti shkollor, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi.
