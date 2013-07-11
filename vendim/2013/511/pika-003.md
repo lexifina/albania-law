@@ -1,0 +1,1 @@
+3. Vlera e sipërfaqes, që tjetërsohet, të paguhet nga subjekti kërkues “K & M-Oil” sh.p.k., para lidhjes së kontratës dhe të derdhet për llogari të fondit të kompensimit financiar, të hapur pranë Agjencisë së Kthimit dhe Kompensimit të Pronave.

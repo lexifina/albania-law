@@ -1,0 +1,1 @@
+1. Kalimin e së drejtës së pronësisë të pasurisë së paluajtshme me nr. 1281, në zonën kadastrale 2105, fshati Kashar, komuna Kashar, Tiranë, me indeks harte K-34-38 (232-C), me sipërfaqe 1000 (një mijë) m², të regjistruar në Zyrën Vendore të Regjistrimit të Pasurive të Paluajtshme, Tiranë, në favor të subjektit kërkues “K & M-Oil” sh.p.k.

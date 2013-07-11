@@ -1,0 +1,1 @@
+2. Vlera e sipërfaqes, që tjetërsohet, të përllogaritet sipas vendimit nr. 187, datë 6.3.2013 të Këshillit të Ministrave “Për miratimin e vlerës së pronës për secilin qark të Republikës së Shqipërisë”, duke pasur parasysh edhe vlerën e kaparit, të paguar nga subjekti kërkues.
