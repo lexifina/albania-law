@@ -1,0 +1,1 @@
+7. Ministri i Brendshëm propozon dhënien e shtetësisë shqiptare personit me origjinë shqiptare, në bazë të pikës 7 të nenit 9 të ligjit nr. 8389, datë 5.8.1998, të ndryshuar, jo më vonë se 30 (tridhjetë) ditë pas paraqitjes së mendimit sipas pikës 6 të këtij kreu. Vendimi i Ministrit të Brendshëm i dërgohet menjëherë Presidentit të Republikës.

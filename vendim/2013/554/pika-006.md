@@ -1,0 +1,1 @@
+6. Strukturat përgjegjëse të Ministrisë së Brendshme, së bashku me zyrat e Gjendjes Civile, shqyrtojnë dokumentacionin që provon origjinën shqiptare të të paralindurit, bazuar në dokumentacionin e paraqitur nga kërkuesi dhe paraqesin mendimin e tyre me shkrim pranë Ministrit të Brendshëm jo më vonë se 30 (tridhjetë) ditë pas marrjes së kërkesës në përputhje me këtë vendim.
