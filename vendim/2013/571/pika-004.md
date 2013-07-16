@@ -1,0 +1,1 @@
+4. Çdo ndryshim i zonës së lejuar minerare, në lidhje me parashikimet e shkronjave “b” e “c” të këtij vendimi, miratohet me urdhër të ministrit që mbulon çështjet minerare. Të gjitha ndryshimet reflektohen në aneksin përkatës të lejes minerare.

@@ -1,0 +1,4 @@
+1. Në rastin kur një e drejtë minerare jepet me koncesion, zona e lejuar minerare përfshin sipërfaqen e shprehur me koordinata, për:
+a) tërësinë e trupave, punimeve dhe objekteve ekzistuese minerare në momentin e dhënies së të drejtës minerare me koncesion;
+b) tërësinë e trupave dhe objekteve minerare sipas vazhdimësisë së trupave minerare që shfrytëzohen në mënyrë racionale nga punimet kapitale minerare, të miratuara në kuadrin e marrëveshjes koncesionare dhe sipas punës kërkimore zbuluese të realizuar më pas nga koncesionari;
+c) burimet minerare që janë në vazhdimësi dhe/ose të trupave dhe objekteve minerare të së njëjtës strukturë minerare të vendburimit minerar, që përfshijnë tektonikat, tektonikat shkëputëse etj., duke mundësuar shfrytëzimin racional dhe eficent në përputhje me zhvillimin e qëndrueshëm dhe mbrojtjen e mjedisit.

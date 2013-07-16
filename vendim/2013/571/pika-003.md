@@ -1,0 +1,1 @@
+3. Me qëllim lejimin e veprimtarisë minerare dhe plotësimin e programit koncesionar në zonën e lejuar, të përcaktuar sipas shkronjës “a” të këtij vendimi, ministri që mbulon çështjet minerare pajis koncesionarin për herë të parë me leje minerare, bazuar në procedurat standarde përkatëse për përgatitjen dhe paraqitjen e dokumentacionit për pajisjen me leje minerare.
