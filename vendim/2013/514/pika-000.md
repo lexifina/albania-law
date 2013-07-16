@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Republikës së Kosovës, për hapjen e pikave të përbashkëta të kalimit ndërkufitar Borje-Glloboçicë, Orgjost (Kukës) - Orçush (Dragash) e Shishtavec (Kukës) - Krushevë (Dragash) dhe protokolleve të kryerjes së veprimtarive të përbashkëta në këto pika të kalimit kufitar, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
