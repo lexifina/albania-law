@@ -1,0 +1,1 @@
+4. Shuma e përgjithshme e shpronësimit, prej 4 248 108 (katër milionë e dyqind e dyzet e tetë mijë e njëqind e tetë) lekësh, të përballohet nga buxheti i vitit 2013, zëri “Investime”, miratuar për Autoritetin Rrugor Shqiptar.
