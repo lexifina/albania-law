@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive prej 455,35 (katërqind e pesëdhjetë e pesë presje tridhjetë e pesë) m2 truall, dhe 543,85 (pesëqind e dyzet e tre presje tetëdhjetë e pesë) m2, objekt, shpronësuar në favor të bashkisë së Belshit, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

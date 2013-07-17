@@ -1,0 +1,1 @@
+9. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Në proces”, të kompensohen, për efekt shpronësimi, pasi të kenë dorëzuar dokumentacionin e pronësisë, pranë bashkisë së Belshit. Deri në këtë çast, paratë të qëndrojnë të bllokuara në bankë.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni dhe asfaltimi i rrugëve kryesore të qytetit të Belshit, në bashkinë e Belshit të qarkut të Elbasanit.
