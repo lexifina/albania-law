@@ -1,0 +1,1 @@
+38. Dokumentacioni shoqërues i kërkesës duhet të vërtetojë se kërkuesi rezulton të jetë i paslindur me lidhje familjare deri në tri shkallë nga një person me origjinë shqiptare, por që nuk ka shtetësi shqiptare në momentin e paraqitjes së kërkesës.

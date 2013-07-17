@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI I BRENDSHËM MINISTRI I PUNËVE TË JASHTME
+Flamur Noka Aldo Bumçi

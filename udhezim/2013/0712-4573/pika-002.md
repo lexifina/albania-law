@@ -1,0 +1,1 @@
+2. Kërkesa paraqitet pranë Ministrisë së Brendshme/komisariateve vendore të Policisë së Shtetit të vendqëndrimit të personit ose, në rast se personi banon jashtë shtetit, pranë përfaqësive diplomatike ose konsullore të Republikës së Shqipërisë jashtë shtetit ose në përfaqësi të tjera në vendin ku i interesuari banon apo ndodhet fizikisht.

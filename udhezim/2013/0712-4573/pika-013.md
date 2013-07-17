@@ -1,0 +1,1 @@
+13. Gjatë depozitimit të kërkesës pranë komisariateve të Policisë vendore dhe përfaqësive diplomatike ose konsullore të Republikës së Shqipërisë jashtë shtetit, funksionari i autorizuar para se të pranojë kërkesën, kujdeset për identifikimin e subjektit aplikues dhe vërteton nënshkrimin e kërkuesit.

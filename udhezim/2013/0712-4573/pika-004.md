@@ -1,0 +1,1 @@
+4. Brenda çdo viti kalendarik, strukturat e Ministrisë së Brendshme në bashkëpunim me ato të Ministrisë së Punëve të Jashtme takohen të paktën një herë në vit për përmbushjen e këtij detyrimi dhe pas kësaj hartojnë një relacion drejtuar ministrave përgjegjës në lidhje me problematikat e hasura, masat e marra dhe përmbushjen e këtij detyrimi.

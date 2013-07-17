@@ -1,0 +1,1 @@
+18. Ministria e Brendshme, brenda 7 ditëve nga mbërritja e praktikës pranë saj shqyrton të dhënat e deklaruara dhe përbërësit familjarë që provojnë gëzimin e shtetësisë shqiptare të prindit apo të paralindurit të subjektit kërkues në momentin e lindjes së kërkuesit.

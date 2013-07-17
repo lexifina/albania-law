@@ -1,0 +1,1 @@
+33. Fakti i zotërimit të shtetësisë shqiptare mund të provohet me çdo certifikatë zyrtare, pasaportë, vendim gjyqësor apo çdo dokument tjetër zyrtar që provon shtetësinë shqiptare të të paralindurit ku mbështetet kërkuesi.
