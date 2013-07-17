@@ -1,0 +1,1 @@
+1. Autoriteti kontraktues për kryerjen e procedurave ligjore, për dhënien me koncesion të ndërtimit të portit të jahteve pranë Urës së Dajlanit, Durrës, është Ministria e Punëve Publike dhe Transportit.
