@@ -1,0 +1,1 @@
+1. Objektet “Ish-posta e policisë, Leskovik”, “Ish-depo e pikës autonome, Vlorë”, “Stallë e ish-ekonomisë ndihmëse, Orikum”, “Reparti i objekteve, Korçë” dhe “Ish-lavanteri, Vaqarr, Tiranë”, të dala të lira nga ristrukturimi i Ministrisë së Brendshme, kalojnë në fond banesash për Entin Kombëtar të Banesave.
