@@ -1,0 +1,1 @@
+1. Ish-objektet ushtarake në ish-Komandën e Forcave Detare (reparti ushtarak nr. 2001), në Laprakë, Tiranë, sipas listës, t’i kalojnë në përgjegjësi administrimi Ministrisë së Punëve Publike dhe Transportit, për Entin Kombëtar të Banesave, me qëllim privatizimin në favor të banorëve të pastrehë, të cilët banojnë në këto objekte, sipas listës që i bashkëlidhet këtij vendimi.
