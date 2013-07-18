@@ -1,0 +1,1 @@
+4. Në mbledhjet e Komisionit merr pjesë dhe sekretari i Komisionit, i cili është përgjegjësi i sektorit të testimit të varieteteve në Entin Shtetëror të Farave dhe Fidanëve (ESHFF) dhe nuk ka të drejtë vote.
