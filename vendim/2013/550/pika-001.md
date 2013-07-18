@@ -1,0 +1,1 @@
+1. Ish-Konvikti i Shkollës së Rezervave, në rrugën “Kristo Floqi”, Tiranë, t’i kalojë në përgjegjësi administrimi Ministrisë së Punëve Publike dhe Transportit, për Entin Kombëtar të Banesave, me qëllim privatizimin në favor të banorëve të pastrehë, të cilët banojnë në këto objekte, sipas listës që i bashkëlidhet këtij vendimi.
