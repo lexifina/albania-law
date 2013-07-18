@@ -596,6 +596,7 @@ Manualet shpjeguese dhe trajnimi
 a) APP-ja harton udhëzime shpjeguese dhe manuale prokurimi, të detyrueshme për përdorim nga çdo autoritet kontraktor gjatë kryerjes së veprimtarive të prokurimit.
 b) Në fillim të çdo viti, APP-ja, në bazë të të dhënave apo kërkesave të autoriteteve kontraktore, planifikon nevojat e trajnimit të zyrtarëve, të përfshirë në veprimtarinë e prokurimit publik.
 c) APP-ja, vetë ose në bashkëpunim me institucione të tjera trajnimi dhe formimi profesional, që kanë ekspertizë në praktikat më të mira të BE-së në fushën e prokurimit, zhvillon programe dhe ndërmerr trajnimet e nevojshme.
+ç) Në përputhje me rregullat e prokurimit publik, të përcaktuara në ligj dhe në këtë vendim, ministritë e linjës mund të nxjerrin rregullore apo udhëzime për hartimin e termave të referencës dhe të specifikimeve teknike për projekte në fushat specifike që ata mbulojnë, ndër të tjera, në shërbimet për teknologjinë e informacionit e të komunikimit, në ekonomi, në arsim, në shërbimet sociale e në shëndetësi.
 KREU XII
 DISPOZITA TRANZITORE
 Autoritetet kontraktore, për plotësimin e nevojave, në fillim të vitit, deri sa të kryhen procedurat e prokurimit, lejohen të përdorin procedurën me negociim pa njoftim, në përputhje me pikat 3, shkronja ”b”, e 5, shkronja ”a”, të nenit 33, të LPP-së, për kontratë shtesë me kontraktuesit e tyre të fundit, për mallrat apo shërbimet, me afat, deri në 30 maj 2007. Fondet për këto kontrata të përballohen nga fondet e vëna në dispozicion në buxhetin e këtij viti, për të njëjtin shërbim apo mall.
