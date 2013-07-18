@@ -1,0 +1,1 @@
+7. Pronarët e pasurive, për të cilat është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të kompensohen, për efekt shpronësimi, pasi të dorëzojnë dokumentacionin e plotë të pronësisë pranë Autoritetit Rrugor Shqiptar.

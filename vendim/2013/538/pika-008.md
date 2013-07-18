@@ -1,0 +1,1 @@
+8. Për objektin, për të cilin është bërë shënimi “Proces legalizimi”, të bëhet kompensimi, për efekt shpronësimi, pas përfundimit të këtij procesi, si dhe atij të regjistrimit pranë Zyrës Vendore të Regjistrimit të Pasurive të Paluajtshme, Fier.

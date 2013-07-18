@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Punëve Publike dhe Transportit, Ministria e Financave, Autoriteti Rrugor Shqiptar, zyra qendrore e regjistrimit të pasurive të paluajtshme, zyra vendore e regjistrimit të pasurive të paluajtshme Fier, zyra vendore e regjistrimit të pasurive të paluajtshme, Mallakastër, dhe zyra vendore e regjistrimit të pasurive të paluajtshme, Tepelenë, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
