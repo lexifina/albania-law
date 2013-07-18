@@ -1,0 +1,1 @@
+4. Shuma e përgjithshme e shpronësimit prej 20 865 792 (njëzet milionë e tetëqind e gjashtëdhjetë e pesë mijë e shtatëqind e nëntëdhjetë e dy) lekësh, të përballohet nga llogaria e veçantë e Ministrisë së Financave në Bankën e Shqipërisë “Fondi i shpronësimeve”.
