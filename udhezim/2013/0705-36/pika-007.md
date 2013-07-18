@@ -1,0 +1,1 @@
+7. Në veprimtarinë statistikore mbahet inventar për çdo bazë të dhënash duke përfshirë klasifikimin e informacionit që përmbajnë të dhëna personale, si të dhëna jopersonale dhe informacion statistikor apo kërkimor, informacion publik, informacion që mund të përhapet tek organet publike/private etj., në përputhje me bazën ligjore që zbatohet në çdo rast.

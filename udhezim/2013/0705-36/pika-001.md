@@ -1,0 +1,1 @@
+1. Të dhënat personale dhe të dhënat sensitive për kontrolluesit që ushtrojnë veprimtari statistikore përpunohen duke respektuar ligjin nr. 9887, datë 10.3.2008 “Për mbrojtjen e të dhënave personale”, i ndryshuar.
