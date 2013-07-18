@@ -1,0 +1,5 @@
+VENDIM
+Nr. 529, datë 13.6.2013
+PËR MIRATIMIN E AMENDAMENTIT NR. 1 TË KONTRATËS ME NDARJE PRODHIMI PËR KËRKIMIN, ZHVILLIMIN DHE PRODHIMIN E HIDROKARBUREVE NË SHQIPËRI, BLLOKU “JONI-5”, NË DET, NDËRMJET MINISTRISË SË EKONOMISË, TREGTISË DHE ENERGJETIKËS, PËRFAQËSUAR NGA AGJENCIA KOMBËTARE E BURIMEVE NATYRORE DHE CAPRICORN ALBANIA LIMITED (MË PARË MEDOIL PLC) DHE DYAS ALBANIA B.V.
+Në mbështetje të pikës 2 të nenit 100 të Kushtetutës dhe të neneve 5 e 13 të ligjit nr. 7746, datë 28.7.1993 “Për hidrokarburet (kërkimi dhe prodhimi)”, me propozimin e Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, Këshilli i Ministrave
+VENDOSI:
