@@ -1,0 +1,1 @@
+5. Vlera totale e shpronësimit, prej 21 658 456 (njëzet e një milionë e gjashtëqind e pesëdhjetë e tetë mijë e katërqind e pesëdhjetë e gjashtë) lekësh, të përballohet nga zëri i shpronësimeve, miratuar për Autoritetin Rrugor Shqiptar, për vitin 2013.

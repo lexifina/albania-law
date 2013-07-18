@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor Tiranë-Elbasan (loti I + loti III), kultura bujqësore, drurë frutorë dhe drurë dekorativë.

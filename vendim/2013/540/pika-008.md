@@ -1,0 +1,1 @@
+8. Pronarët e listës, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Proces regjistrimi”, të kompensohen, për efekt shpronësimi, pasi të ketë përfunduar ky proces, fakt, i cili do të konfirmohet zyrtarisht nga ZVRPP-ja, si dhe në bazë të dokumentacionit të plotë të pronësisë, që do të dorëzojnë pranë Autoritetit Rrugor Shqiptar.
