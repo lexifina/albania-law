@@ -1,0 +1,1 @@
+2. Miratimin e bonusit prej 2 (dy) pikësh në procedurën përzgjedhëse konkurruese për rezultatin teknik dhe financiar (propozim i pakërkuar) për dhënien me koncesion të këtij hidrocentrali, që i jepet shoqërisë “Lita Construction” sh.p.k.
