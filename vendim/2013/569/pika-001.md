@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Autoritetit Portual Durrës të pasurisë së paluajtshme me emërtim “Sipërfaqe shtesë në zonën lindore të portit”, pronë publike e shtetit shqiptar, me sipërfaqe prej 29 300 (njëzet e nëntë mijë e treqind) m2, sipas planit të rilevimit bashkëlidhur këtij vendimi.
