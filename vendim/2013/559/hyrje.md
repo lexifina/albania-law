@@ -1,0 +1,6 @@
+VENDIM
+Nr. 559, datë 3.7.2013
+PËR MIRATIMIN E MARRËVESHJES “PËR DISA NDRYSHIME DHE SHTESA NË KONTRATËN E KONCESIONIT TË FORMËS “BOT”, TË LIDHUR NDËRMJET MINISTRISË SË EKONOMISË, TREGTISË DHE ENERGJETIKËS DHE BASHKIMIT TË PËRKOHSHËM TË SHOQËRIVE “ENDI -E” SHPK, DHE “EKO A2” SHPK, PËR NDËRTIMIN E HIDROCENTRALEVE “PRELLË 1” DHE “PRELLË 2””, MIRATUAR ME VENDIMIN
+NR. 1159, DATË 13.8.2008 TË KËSHILLIT TË MINISTRAVE
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 27 të ligjit nr. 9663, datë 18.12.2006 “Për koncesionet”, të ndryshuar, me propozimin e Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, Këshilli i Ministrave
+VENDOSI:
