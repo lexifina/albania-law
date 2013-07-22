@@ -1,0 +1,1 @@
+1. Autoritete kontraktuese për kryerjen e procedurave ligjore për dhënien me koncesion të ndërtimit të portit të jahteve në Porto-Palermo, Himarë, janë Ministria e Punëve Publike dhe Transportit dhe Ministria e Mbrojtjes.
