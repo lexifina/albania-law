@@ -1,0 +1,1 @@
+1. Shpërblimi ditor për punonjësit e Agjencisë së Inteligjencës së Mbrojtjes (AIM), që do të dërgohen në Qendrën e Inteligjencës (NIC), në Kosovë, përveç pagës mujore, të jetë në masën 8 000 (tetë mijë) lekë.
