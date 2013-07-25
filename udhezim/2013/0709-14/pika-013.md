@@ -1,0 +1,1 @@
+13. IAL-të i dërgojnë një listë të studentëve të transferuar, në formë shkresore dhe elektronike (hardcopy dhe në CD) AKP-së. AKP-ja bën përditësimin e të dhënave dhe transferimin e numrit individual të matrikullimit.

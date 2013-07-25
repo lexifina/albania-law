@@ -1,0 +1,1 @@
+2. Institucionet private të arsimit të lartë shpallin hapjen e procedurës së pranimit të kërkesave të kandidatëve që dëshirojnë të vazhdojnë programet e studimit të ciklit të parë dhe/ose të ciklit të dytë dhe kriteret e pranimit të tyre. Shpallja e hapjes së procedurës së regjistrimit bëhet jo më parë se data 1 gusht 2013.

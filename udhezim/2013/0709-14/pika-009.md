@@ -1,0 +1,1 @@
+9. IAL-të private i dërgojnë AKP-së një listë të studentëve të regjistruar në ciklin e dytë, në formë shkresore dhe elektronike (hardcopy dhe në CD), jo më vonë se dy javë pas përfundimit të regjistrimit. AKP-ja u dërgon IAL-ve private listën përkatëse me numrat e matrikullimit të studentëve.

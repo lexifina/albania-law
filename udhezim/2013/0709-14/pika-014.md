@@ -1,0 +1,1 @@
+14. Për zbatimin e këtij udhëzimi ngarkohen Zëvendësministri, Sekretari i Përgjithshëm, Drejtoria për Zhvillimin Arsimit Jopublik, Agjencia Kombëtare e Provimeve, si dhe institucionet private të arsimit të lartë.
