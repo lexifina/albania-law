@@ -1,0 +1,1 @@
+11. Në institucionin publik, kushdo që vihet në dijeni me të dhënat e përpunuara, gjatë ushtrimit të funksioneve të tyre, detyrohen të ruajnë konfidencialitetin dhe besueshmërinë edhe pas përfundimit të funksionit. Këto të dhëna nuk përhapen, përveç rasteve të parashikuara me ligj.

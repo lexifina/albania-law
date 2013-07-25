@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave të detyrueshme nga institucionet publike për mbledhjen dhe përpunimin e shenjave të gishtave të punonjësve për vërtetimin e prezencës në punë (hyrjen apo daljen nga institucioni).

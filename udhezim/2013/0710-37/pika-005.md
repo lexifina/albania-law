@@ -1,0 +1,1 @@
+5. Institucioni publik pajiset me autorizim pasi paraqet pranë Autoritetit të Komisionerit aktin e përcaktuar në pikën 3 të këtij udhëzimi dhe çdo dokument tjetër shtesë në përputhje me arsyetimin e aktit.

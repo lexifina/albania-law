@@ -1,0 +1,1 @@
+10. Çdo punonjës, në rastet kur pretendon se mbledhja dhe përpunimi i shenjave të gishtave është në kundërshtim me kuadrin ligjor për mbrojtjen e të dhënave personale, legjitimohet që të paraqesë ankesë pranë Komisionerit për Mbrojtjen e të Dhënave Personale.

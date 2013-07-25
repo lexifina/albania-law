@@ -1,0 +1,1 @@
+9. Çdo punonjësi të cilit i është mbledhur kjo e dhënë ka të drejtë që, pa pagesë, me kërkesë me shkrim, të marrë nga institucioni publik informacion mbi procesin e përpunimit të shenjave të gishtave si dhe qëllimin e përpunimit e tyre.
