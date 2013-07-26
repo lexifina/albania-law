@@ -1,0 +1,1 @@
+3. Rritjen, sipas përcaktimeve në pikat 1 dhe 2 të këtij vendimi, e përfitojnë edhe pensionet, të cilat caktohen nga data 1.8.2013 e në vazhdim, me kusht që data e fillimit të pensionit apo trajtimit të jetë deri më 30.7.2013, përfshirë edhe këtë datë.
