@@ -1,0 +1,1 @@
+21. Kuotat, që mbeten të parealizuara për çdo program studimi pas aplikimit me formularin A2, rishpërndahen nga Ministria e Arsimit dhe Shkencës, në bazë të propozimeve të institucioneve publike të arsimit të lartë.
