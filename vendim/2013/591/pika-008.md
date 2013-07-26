@@ -1,0 +1,1 @@
+8. Fondet buxhetore të papërdorura deri në miratimin e këtij vendimi për trajnimet/seminaret/kurset brenda vendit për nëpunësit e njësive të qeverisjes së përgjithshme, të parashikuara për t’u mbuluar plotësisht apo pjesërisht me fondet buxhetore të miratuara për vitin 2013, reduktohen në masën 50%.

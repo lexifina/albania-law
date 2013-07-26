@@ -1,0 +1,1 @@
+2. Shpenzimet operative dhe të mirëmbajtjes (602 dhe 605) të njësive të qeverisjes qendrore, të pakontraktuara deri në datën 15 korrik, pasi të zbriten fondet për pagesën e energjisë elektrike, ujit dhe telefonisë, ngurtësohen në masën 20 për qind të pjesës së mbetur.

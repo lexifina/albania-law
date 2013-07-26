@@ -1,0 +1,1 @@
+4. Fondet e papërdorura për pagesën e telefonisë fikse, për periudhën e mbetur, reduktohen në masën 50 për qind në të gjitha njësitë e qeverisjes së përgjithshme, nëpërmjet përgjysmimit të limiteve mujore për çdo përdorues.
