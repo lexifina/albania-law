@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Transportit Rrugor (DPSHTRR) nëpërmjet DRSHTRR-së, mbi bazën e listave të dërguara nga Policia e Shtetit, bën ndryshimet (çregjistrimet) në arkivin kombëtar të mjeteve. Listat si më sipër vlerësohen edhe si vërtetime për humbjen e targave apo lejet e qarkullimit, për rastet kur ato nuk janë dërguar nga policia.

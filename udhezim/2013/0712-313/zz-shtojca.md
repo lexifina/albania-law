@@ -1,0 +1,3 @@
+# Shtojca
+MINISTRI I PUNËVE PUBLIKE DHE TRANSPORTEVE
+Sokol Olldashi

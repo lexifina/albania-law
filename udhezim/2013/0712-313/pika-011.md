@@ -1,0 +1,1 @@
+11. DPPSH-ja, me DPQ-në dhe DRPKM-në, të kryejë dorëzimin e të gjitha mjeteve rrugore e lundruese dhe përgatitjen e dokumentacionit përfundimtar me DPRMSH-në, brenda 6-mujorit të parë të vitit 2013. Në këtë dokumentacion të përfshihet dhe fatura përfundimtare e shpenzimeve të bëra sipas zërave për realizimin e kalimit të mjeteve në Rezervat Materiale të Shtetit.

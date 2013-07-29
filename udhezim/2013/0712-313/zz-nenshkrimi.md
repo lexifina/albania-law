@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI I BRENDSHËM MINISTRI I FINANCAVE
+Flamur Noka Ridvan Bode

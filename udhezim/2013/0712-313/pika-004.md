@@ -1,0 +1,1 @@
+4. DPRMSH-ja i dërgon Zyrës Qendrore Kombëtare të Interpol Tirana listën e mjeteve të kategorizuara për qarkullim me numrat e shasisë për konfirmim nëse mjeti është në kërkim. Në rast se mjeti nuk rezulton në kërkim u nënshtrohet procedurave të shitjes me ankand publik. Në rast se mjeti rezulton në kërkim, vijon gjendje pranë Rezervave të Shtetit për procedura të mëtejshme.

@@ -1,0 +1,1 @@
+3. Për vlerësimin dhe kategorizimin e mjeteve të dorëzuara nga Policia në Rezervat Materiale të Shtetit, Drejtori i Përgjithshëm i Rezervave Materiale të Shtetit ngre komisionin përkatës për vijimin e procedurave të mëtejshme të administrimit.
