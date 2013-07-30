@@ -1,0 +1,1 @@
+2. Personi i autorizuar përgjegjës për administrimin e regjistrit, regjistron të dhënat për agjencitë ndërmjetësuese të huaja, të licencuara, të paraqitura nga Komisioni për Miratimin të Agjencive Ndërmjetësuese të Huaja, pas miratimit për dhënien e licencës.

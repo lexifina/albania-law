@@ -1,0 +1,1 @@
+6. Personi i autorizuar përgjegjës, i caktuar me urdhër të Ministrit të Drejtësisë, për administrimin e Regjistrit për depozitimin e të dhënave për agjencitë ndërmjetësuese të huaja, të licencuara përditëson të paktën një herë në vit Regjistrin dhe siguron publikimin e tij në Regjistrin Kombëtar të Lejeve dhe Licencave.
