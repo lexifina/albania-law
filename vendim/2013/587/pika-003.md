@@ -1,0 +1,1 @@
+3. Ministria e Ekonomisë, Tregtisë dhe Energjetikës në procedurën përzgjedhëse konkurruese për dhënien me koncesion të hidrocentralit “Shengjun”, duhet të pranojë oferta për të gjithë pjesën e lirë të pellgut ujëmbledhës, i cili përfshihet në skemën e shfrytëzimit të këtij hidrocentrali.
