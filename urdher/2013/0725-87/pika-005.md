@@ -1,0 +1,1 @@
+5. Bordi për Informacionin Gjeohapësinor e ushtron veprimtarinë e tij në përputhje me rregulloren e brendshme “Për organizimin dhe funksionimin e Bordit për Informacionin Gjeohapësinor”, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
