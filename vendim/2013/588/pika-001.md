@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes hidrokarbure, shtesa e dytë e marrëveshjes me ndarje prodhimi, ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës së Republikës së Shqipërisë, përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore (AKBN) dhe San Leon Durrësi B.V., për bllokun “Durrësi” (në det), Shqipëri, sipas tekstit që i bashkëlidhet këtij vendimi.
