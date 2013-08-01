@@ -1,0 +1,1 @@
+1. Qëllimi i sistemit të zhvillimit të vazhdueshëm profesional të punonjësve arsimorë (drejtor, nëndrejtor, mësues) është përditësimi i njohurive dhe zhvillimi i aftësive të tyre, në mënyrë që t’u sigurojnë të gjithë nxënësve shërbim arsimor më cilësor.
