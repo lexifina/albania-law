@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 840 000 (tetëqind e dyzet mijë) lekësh, për mbulimin e shpenzimeve të kurimit të znj. Jorilda Kola.
