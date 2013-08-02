@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 18.3.2013, për çështjen nr. 26872/05 “Ceka kundër Shqipërisë”, në shumën 10 000 (dhjetë mijë) euro, si dhe për pagesën e tatimit mbi të ardhurat për dëmshpërblimin.
