@@ -1,0 +1,28 @@
+{
+  "qbz_id": 9807,
+  "title": "Për miratimin e një ndryshimi në Rregullat e Tregut Shqiptar të Energjisë Elektrike",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "71",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-07-07",
+  "published": "2013-08-02",
+  "in_force": "2013-08-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3ff7aac8fd09bd91a8ee3a2fcfa11df4134f47f96bb90e6f7bcd056cf2c7b5eb.docx",
+  "source_sha256": "3ff7aac8fd09bd91a8ee3a2fcfa11df4134f47f96bb90e6f7bcd056cf2c7b5eb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9807",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/07/07/71",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    62362
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
