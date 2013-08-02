@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 2 (dy) pikësh për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese për dhënien me koncesion të hidrocentralit “Driza 1”, që i jepet shoqërisë “Gerti Metal” sh.p.k.
