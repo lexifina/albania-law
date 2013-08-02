@@ -1,1 +1,0 @@
-9. Të drejtën e mbylljes apo pezullimit të përkohshëm të aktivitetit, deri në 1 vit kalendarik, të institucionit arsimor privat parauniversitar, e ka QKL-ja me kërkesë të vetë subjektit ose me propozim të Ministrisë së Arsimit dhe Shkencës, në rast shkeljeje të kritereve të përcaktuara në dokumentacionin përkatës ligjor e nënligjor.

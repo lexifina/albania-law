@@ -1,1 +1,0 @@
-10. Në rast pezullimi të përkohshëm të veprimtarisë së institucionit arsimor privat parauniversitar, sistemimi i nxënësve do të bëhet në bazë të nenit 48, të ligjit nr.7952, datë 21.6.1995 “Për sistemin arsimor parauniversitar”, të ndryshuar.
