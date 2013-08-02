@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 2 (dy) pikësh për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese për dhënien me koncesion të hidrocentralit “Gjadër”, që u jepet shoqërive “Rafaelo 2002” sh.p.k. dhe “S.P.E Energy” sh.p.k.
