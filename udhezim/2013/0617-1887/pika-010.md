@@ -1,0 +1,2 @@
+10. Hapësirat për çaj (zona e burgimit/zona e interrogimit/dhomat e përbashkëta)
+Seksionet individuale duhet të kenë një vend gatimi e çaji. Ato duhet të jenë të përshtatshme për përgatitjen e ushqimeve të thjeshta (të këtë frigorifer, mundësi gatimi, mikrovalë, makinë kafeje etj.). Në zonën e këtyre hapësirave të gatimit duhet të ketë një vend të mjaftueshëm për t’u ulur dhe për ngrënie. Duhet pasur kujdes që zgjedhja e veshjes së dyshemesë, të bëhet sipas kërkesave të dhomës.

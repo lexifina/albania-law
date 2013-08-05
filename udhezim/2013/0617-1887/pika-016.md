@@ -1,0 +1,3 @@
+16. Zona e vizitorëve
+a) Pozicioni i zonës së vizitorëve duhet të zgjidhet i tillë që rrugët e kalimit të vizitorëve duhet të jenë detyrimisht të ndara nga rrugët e kalimit të të burgosurve në qeli. Zona e vizitorëve duhet të jetë në afërsi me hyrje-daljen e paraburgimit dhe lëvizja e të dënuarve duhet të bëhet në rrugë sa më të shkurtra për në qeli. Hyrjet duhet të ruhen respektivisht me detektorë metali.
+b) Ndarja ndërmjet vizitorëve dhe të burgosurve në zonën e vizitave kryhet me anë të një xhami. Aparatet telefonike vendosen në të dyja anët. Duhet të kihet kujdes për masat që merren gjatë bisedave të të burgosurve.

@@ -1,0 +1,3 @@
+14. Palestra (dhoma e gjimnastikës me madhësi standarde) dhe dhomat e ushtrimeve fizike
+a) Këto ambiente duhet të vendosen në një zonë të mbyllur sa më në qendër të jetë e mundur. Dhoma e gjimnastikës duhet të jetë e përshtatshme për lojëra me top, konstruksioni i dyshemesë duhet të jetë elastik, muret duhet të jenë të forta. Dhoma e ushtrimeve fizike duhet të krijohet me një dysheme, e cila të mundësojë instalimin e pajisjeve të ndryshme sportive.
+b) Duhet të ketë tualetet e veta dhe një dhomë për vendosjen e pajisjeve sportive. Dhoma e gjimnastikës duhet të ketë edhe një hyrje shtesë dhe një dalje.

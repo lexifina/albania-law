@@ -1,0 +1,4 @@
+1. Dispozita të përgjithshme
+a) Rregullat dhe kriteret e hollësishme për kushtet teknike, që duhet të plotësojnë ndërtesat e reja të institucioneve të ekzekutimit të vendimeve penale kanë për qëllim përcaktimin e rregullave të përbashkëta, të cilat do të përbëjnë parimet bazë të ndërtimit dhe të menaxhimit të sistemit të burgjeve.
+b) Këto rregulla synojnë të rrisin mundësinë për të arritur rezultatet që janë përcaktuar më parë dhe mbështesin vizionin e institucionit, duke përmirësuar dhe siguruar ngritjen e vazhdueshme të cilësisë së jetesës, shëndetit, sigurisë dhe arritjeve, duke mundësuar monitorimin e shërbimeve të mirëmbajtjes dhe rikonstruksioneve, me qëllim që çdo institucion të arrijë një vlerësim të drejtë e të qartë për hartimin e planeve vjetore me synim përmirësimin e politikave të investimeve drejt përmirësimit të mëtejshëm të cilësisë së jetesës, kushteve të punës për të gjithë.
+KREU II

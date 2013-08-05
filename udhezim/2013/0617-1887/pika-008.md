@@ -1,0 +1,3 @@
+8. Qelitë e ndara të burgimit
+a) Një numër i mjaftueshëm qelish duhet të krijohet si qeli të veçanta burgimi (qeli izolimi me minimumin e pajisjeve), si edhe qeli veçanërisht të mbrojtura nga burgimi. Në këto qeli nuk duhet të vendosen kaloriferë, por duhet të ngrohen nëpërmjet sistemit qendror të ngrohjes me tubacione që kalojnë nëpër mure ose nën dysheme, ose me fryrje nga korridori, nëpërmjet grilave të fryrjes.
+b) Për të parandaluar plagosjet, muret duhet të jenë me sipërfaqe të lëmuara. Mobiliet duhet të jenë të fiksuara në mure ose me tokën. Pajisjet sanitare të jenë shumë të sigurta dhe të inkastruara mirë. Këto qeli të veçanta duhet të jenë të integruara nëpër seksione.
