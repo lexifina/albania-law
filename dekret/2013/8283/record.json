@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63345,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar komune, komuna Rrethina, qarku Shkodër",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8283",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-08-02",
+  "published": "2013-08-06",
+  "in_force": "2013-08-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/43b246a0ff39180619ec2cc11da59a0c4f3dc91b1ff39b293f878c8f031f2879.docx",
+  "source_sha256": "43b246a0ff39180619ec2cc11da59a0c4f3dc91b1ff39b293f878c8f031f2879",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63345",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/08/02/8283",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
