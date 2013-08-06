@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit të formës “ROT” (rehabilitim, operim, transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Kurum International” sh.a., për rehabilitimin e rafinerisë së Cërrikut, rrethi Elbasan, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
