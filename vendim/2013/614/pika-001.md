@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare prej 4 000 000 (katër milionë) lekësh familjes së të ndjerit Selman Hajredin Lena, ish-punonjës policie në Drejtorinë e Policisë së Qarkut Tiranë, i cili humbi jetën në krye të detyrës.
