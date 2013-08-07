@@ -1,0 +1,1 @@
+2. Për dhënien me qira të zbatohen procedurat e përcaktuara në kreun II dhe kreun V të vendimit nr. 529, datë 8.6.2011 të Këshillit të Ministrave “Për përcaktimin e kritereve, të procedurës dhe mënyrës së dhënies me qira, enfiteozë apo kontratave të tjera të pasurisë shtetërore”, të ndryshuar.
