@@ -1,0 +1,2 @@
+Miratimin e rishpërndarjes së fondeve të akorduara nëpërmjet marrëveshjes së huas dhe projektit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, Fondit Shqiptar të Zhvillimit (FSHZH) dhe KfW Frankfurt am Main, për financimin e projektit “Programi i furnizimit me ujë i zonave rurale (faza 2)”, sipas tabelës bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
