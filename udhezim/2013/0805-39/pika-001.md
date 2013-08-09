@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave të detyrueshme për zbatim nga institucionet publike në lidhje me mbledhjen, përpunimin dhe publikimin e të dhënave personale që përmbajnë regjistrat publikë.

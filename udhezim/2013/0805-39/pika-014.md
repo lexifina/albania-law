@@ -1,0 +1,1 @@
+14. Institucioni publik duhet të marrë masa për të shmangur komunikimin te palët e treta të të dhënave personale, të cilat janë të përfshira në një regjistër publik dhe që kanë të bëjnë me të dhënat personale të subjekteve të të dhënave, privatësia apo konfidencialiteti i të cilave mund të cenohet në mënyrë të veçantë.

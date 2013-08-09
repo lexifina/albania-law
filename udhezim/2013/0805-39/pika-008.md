@@ -1,0 +1,1 @@
+8. Bërja publike e të dhënave nga regjistrat publikë dhe qëllimi i mbledhjes duhet të jetë i parashikuar shprehimisht në ligjin ose aktin nënligjor të veprimtarisë së kontrolluesit dhe informacioni që bëhet i aksesueshëm për publikun duhet të jetë në përputhje me qëllimin fillestar për të cilin janë mbledhur të dhënat personale.

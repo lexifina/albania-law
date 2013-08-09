@@ -1,0 +1,1 @@
+2. Ky udhëzim i drejtohet dhe është i detyrueshëm për zbatim nga të gjitha institucionet publike, të cilat në bazë të një akti ligjor ose nënligjor administrojnë dhe bëjnë publike të dhëna personale që përmbahen në një regjistër publik.

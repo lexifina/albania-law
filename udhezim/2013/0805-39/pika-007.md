@@ -1,0 +1,1 @@
+7. Të dhënat personale që përmbajnë regjistrat publikë duhet të përdoren sipas qëllimit fillestar për të cilin janë mbledhur dhe nuk duhet të renditen ose kombinohen me të dhëna personale që përmbahen në një tjetër regjistër publik, me qëllimin e bërjes së disponueshme të një informacioni që nuk mund të merret drejtpërdrejt nga ky regjistër.

@@ -1,0 +1,1 @@
+11. Të dhënat personale që përmban një regjistër publik nuk duhet të bëhen të disponueshme për publikun nëpërmjet mjeteve elektronike apo internetit, përveç rastit kur bërja publike në këtë mënyrë është e parashikuar në mënyrë të shprehur në ligjin ose aktin nënligjor specifik.

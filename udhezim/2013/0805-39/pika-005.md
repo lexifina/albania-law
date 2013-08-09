@@ -1,0 +1,1 @@
+5. Lista mbi llojet e regjistrave të përmendura në pikën 4, nuk është shteruese dhe subjekt i këtij udhëzimi do të jenë të gjitha llojet e regjistrave që përmbushin kriteret e përkufizimit të termit të paraqitur në pikën 3 germa “a”.

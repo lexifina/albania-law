@@ -1,0 +1,1 @@
+6. Çdo institucion publik, gjatë administrimit të regjistrit, nuk duhet të kryejë veprime ose të përfshihet në praktika që mund të vijnë në kundërshtim me parimet e përpunimit të të dhënave personale dhe me qëllimin fillestar për të cilin është bërë mbledhja e tyre, në lidhje me të dhënat që ata mbledhin, përpunojnë, përhapin apo transferojnë nga ky regjistër.

@@ -1,0 +1,1 @@
+10. Në rastet kur ligji ose akti nënligjor nuk shprehet për mënyrën, mjetet dhe format e bërjes publike të të dhënave personale nga regjistri publik ose e lë këtë në diskrecion të institucionit publik, duhet zgjedhur mënyra më e përshtatshme e publikimit, për të shmangur komunikimin te palët e treta, që nuk kanë interes të drejtpërdrejtë me informacionin që përmban ky regjistër.

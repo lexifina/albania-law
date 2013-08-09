@@ -1,0 +1,1 @@
+9. Në rastet kur ligji ose akti nënligjor nuk shprehet për qëllimin e mbledhjes së të dhënave dhe përfshirjen në regjistrat publikë, por shprehet vetëm për detyrimin e bërjes publike të këtij informacioni është detyrë e kontrolluesve që në frymën e ligjit të vlerësojnë se cila pjesë e informacionit që përmbajnë këta regjistra duhet të bëhet publike në përputhje me qëllimin.
