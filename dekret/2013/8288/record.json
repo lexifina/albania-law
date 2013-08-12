@@ -1,0 +1,28 @@
+{
+  "qbz_id": 9834,
+  "title": "Për mbledhjen e Kuvendit të Republikës së Shqipërisë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8288",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-08-07",
+  "published": "2013-08-12",
+  "in_force": "2013-08-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/542bc421b816bf7df39bd29e86991c34c8e14b68524efe68062a82637058cd2c.docx",
+  "source_sha256": "542bc421b816bf7df39bd29e86991c34c8e14b68524efe68062a82637058cd2c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9834",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/08/07/8288",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    9835
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
