@@ -1,0 +1,1 @@
+8. Kur, për qëllimet e pikës 6 të këtij kreu, kafshët janë vrarë pa u trullosur, personat përgjegjës për therjen do të kryejnë kontrolle sistematike për të siguruar se kafshët nuk paraqesin ndonjë shenjë të vetëdijes apo ndjeshmërisë para se t’i nënshtrohen rrjepjes ose përvëlimit.

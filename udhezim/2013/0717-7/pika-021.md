@@ -1,0 +1,1 @@
+21. Operatorët e biznesit sigurojnë që kafshët të mos vendosen në pajisjet e fiksimit, duke përfshirë fiksimet në kokë, derisa personi përgjegjës për trullosjen ose çgjaksimin të jetë gati për të kryer trullosen ose çgjaksimin e tyre sa më shpejt që të jetë e mundur.

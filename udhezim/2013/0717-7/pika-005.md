@@ -1,0 +1,1 @@
+5. Aneksi I mund të ndryshohet në lidhje me metodat e përcaktuara duke marrë parasysh progresin teknik dhe shkencor. Çdo ndryshim i tillë të sigurojë një nivel të mirëqenies së kafshëve në përputhje të paktën me atë që sigurohet nga metodat ekzistuese.

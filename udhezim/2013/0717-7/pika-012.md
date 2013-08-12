@@ -1,0 +1,4 @@
+12. Operatorët e biznesit do të hartojnë dhe do të zbatojnë procedura operative standarde për të siguruar që vrasja dhe operacionet e ngjashme të kryhen në përputhje me pikën 1 të këtij kreu. Për sa i përket trullosjes, procedurat standarde operative duhet që:
+a) të marrin parasysh rekomandimet e prodhuesit të pajisjeve të thertoreve;
+b) të përcaktojnë, për secilën metodë të trullosjes të përdorur, parametrat kyç të përcaktuar në kapitullin I të aneksit I të këtij udhëzimi për të siguruar efektivitetin e tyre në trullosjen e kafshës;
+c) të përcaktojnë masat që merren kur gjatë kontrolleve të referuara në pikat 7 deri 10 të këtij kreu rezulton ndonjë kafshë që nuk është trullosur siç duhet ose, në rastin e kafshëve të therura në përputhje me pikën 6 të këtij kreu, kafsha paraqet ende shenja jete.

@@ -1,0 +1,1 @@
+26. Kërkesat e përcaktuara në kapitujt II dhe III të këtij udhëzimi do të zbatohen në përputhje me urdhrin e Ministrit nr. 1, datë 8.1.2007 “Për miratimin e rregullores që përcakton normat specifike për organizimin e kontrolleve zyrtare mbi produktet me origjinë shtazore të destinuara për konsum human”.

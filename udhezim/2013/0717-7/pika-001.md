@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është vendosja e rregullave për vrasjen e kafshëve që mbarështohen ose mbahen për prodhimin e ushqimit, leshit, lëkurëve ose produkte të tjera, si dhe vrasja e kafshëve për qëllime depopullimi dhe për operacione të tjera të ngjashme. Për sa i përket peshkut, do të zbatohen vetëm kërkesat e parashtruara në pikën 1 të kreut II të këtij udhëzimi.

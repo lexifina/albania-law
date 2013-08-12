@@ -1,0 +1,1 @@
+2. Kreu II, përveç pikës 1 dhe 2 të tij, kreu III dhe kreu IV, përveç pikës 7 të tij, nuk do të zbatohen për vrasjet jashtë thertoreve në rast të emergjencave ose në rastet e një rreziku të menjëhershëm dhe serioz për shëndetin apo sigurinë e njeriut.

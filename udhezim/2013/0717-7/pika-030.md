@@ -1,0 +1,1 @@
+30. Shoqatat e operatorëve përgatisin dhe dërgojnë të gjitha udhëzimet e praktikës së mirë të vlefshme pranë Drejtorisë së Shërbimit Veterinar, AKU-së dhe shërbimit veterinar në njësitë e qeverisjes vendore.

@@ -1,0 +1,1 @@
+9. Për qëllimet e pikave 7 dhe 8 të këtij kreu, operatorët e biznesit mund të përdorin procedurat e kontrollit, siç përshkruhet në udhëzimet e praktikës së mirë të përmendura në pikat 27 deri 31 të këtij kreu.

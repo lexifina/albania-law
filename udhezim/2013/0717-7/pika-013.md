@@ -1,0 +1,1 @@
+13. Për qëllime të pikës 12 të këtij kreu, një operator biznesi mund të përdorë procedurat operative standarde, siç përshkruhet në udhëzimet e praktikave të mira të përmendura në pikat 27 deri 31 të këtij kreu.

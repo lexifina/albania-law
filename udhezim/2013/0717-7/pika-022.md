@@ -1,0 +1,1 @@
+22. Vetëm kërkesat e pikave 1, 4 dhe 15 të këtij kreu do të zbatohen për therjen e kafshëve të ndryshme nga shpendët, lepujt dhe lepuj të egër, dhe operacione të ngjashme jashtë një thertoreje nga pronari i tyre, ose nga një person nën përgjegjësinë edhe mbikëqyrjen e pronarit, për konsum të brendshëm privat.

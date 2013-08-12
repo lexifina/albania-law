@@ -1,0 +1,1 @@
+20. Operatorët e biznesit sigurojnë që gjatë operacioneve të trullosjes së kafshës, në rastin e dështimit të pajisjes për trullosjen të përdorur fillimisht, të kenë në dispozicion një pajisje tjetër rezervë për trullosjen, të cilën duhet ta përdorin menjëherë. Metodat rezervë mund ndryshojnë nga ajo parësore.

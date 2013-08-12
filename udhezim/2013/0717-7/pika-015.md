@@ -1,0 +1,1 @@
+15. Vrasja dhe operacionet e ngjashme do të kryhen vetëm nga persona me kompetencë të një niveli të përshtatshëm të tillë që veprimet të kryhen pa shkaktuar ndonjë dhimbje ose ankth të shmangshëm të kafshëve.
