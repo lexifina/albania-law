@@ -1,0 +1,1 @@
+1. Mbulimin e pjesshëm të shpenzimeve të kurimit të z. Gjergji Pihoni, me detyrë përgjegjës i sektorit të përfaqësimit gjyqësor në Drejtorinë Juridike në Ministrinë e Mbrojtjes, në masën 1 020 000 (një milion e njëzet mijë) lekë.
