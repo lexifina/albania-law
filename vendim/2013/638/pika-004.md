@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar sipas pikës 3 të këtij vendimi, në favor të ankuesve, të bëhet nga Ministria e Financave, pas paraqitjes të të gjithë dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga Buxheti i Shtetit.

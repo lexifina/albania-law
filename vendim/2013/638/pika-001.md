@@ -1,0 +1,1 @@
+1. Ekzekutimin e pjesshëm të vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 31.7.2012, për ankimet nr. 604/07, nr. 43628/07, nr. 46684/07 dhe nr. 34770/09, “Manushaqe Puto dhe të tjerë kundër Shqipërisë”, në masën 100 000 000 (njëqind milionë) lekë, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin.
