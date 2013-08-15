@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9841,
+  "title": "Për një ndryshim në vendimin nr. 372, datë 3.5.2013 të Këshillit të Ministrave “Për një shtesë fondi në buxhetin e vitit 2013, miratuar për Komisionin Qendror të Zgjedhjeve, për financimin e shpenzimeve për zgjedhjet për Kuvendin e Republikës së Shqipërisë, më 23 qershor 2013”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "637",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-07-31",
+  "published": "2013-08-15",
+  "in_force": "2013-08-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/dec7d9e8f9d4a63813f4eb3d2770e6ef86bf8b2aa53c2143cbb1ca9fc8891323.docx",
+  "source_sha256": "dec7d9e8f9d4a63813f4eb3d2770e6ef86bf8b2aa53c2143cbb1ca9fc8891323",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9841",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/07/31/637",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
