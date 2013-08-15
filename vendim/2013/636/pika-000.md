@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit suedez nr. TF 014255, ndërmjet Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), që vepron si administratore e fondeve grant të siguruara nga Suedia, e përfaqësuar nga Agjencia Suedeze për Bashkëpunim dhe Zhvillim Ndërkombëtar (SIDA), për bashkëfinancimin e projektit të burimeve ujore dhe ujitjes, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
