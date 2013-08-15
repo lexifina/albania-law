@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 11 200 000 (njëmbëdhjetë milionë e dyqind mijë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të z. Berti Xhambazi.
