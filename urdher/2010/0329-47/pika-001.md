@@ -1,1 +1,0 @@
-1. Miratimin e rregullores “Për kushtet, kriteret dhe programet për përgatitjen teoriko-praktike të kandidatëve, si dhe dhënien e dëshmisë së aftësisë profesionale për përdoruesit e makinerive të rënda për punime ndërtimi dhe toke, si dhe disiplinimi i përdorimit të makinerive të ndërtimit”, sipas tekstit, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
