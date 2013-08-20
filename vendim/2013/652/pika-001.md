@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve Publike dhe Transportit, në buxhetin e miratuar për vitin 2013, në programin “Transporti rrugor”, t’i shtohet fondi prej 200 000 000 (dyqind milionë) lekësh, për financimin e punimeve të kryera dhe të pafinancuara të objektit “Sistemim-asfaltim, rruga Kukës-Krumë, loti 2”.
