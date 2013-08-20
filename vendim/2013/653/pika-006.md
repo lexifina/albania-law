@@ -1,0 +1,1 @@
+6. Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, në zbatim të kërkesave të mësipërme ligjore dhe për të siguruar mbrojtjen e mjedisit dhe të shëndetit publik, merr masat e nevojshme për kontrollin e procesit të riciklimit të mbetjeve nga shoqëria “V.A.L.E. Recycling” sh.p.k., pas miratimit të këtij vendimi.
