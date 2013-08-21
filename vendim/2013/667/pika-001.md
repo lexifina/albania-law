@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta për publikimin e njoftimeve për procedurën e prokurimit, me objekt “Rehabilitimi i ish-repartit ushtarak në qendër pritëse për të pastrehët”.
