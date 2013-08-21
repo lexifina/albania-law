@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 4 000 000 (katër milionë) lekësh, për mbulimin e shpenzimeve të kurimit të shtetases Dalina Murana.
