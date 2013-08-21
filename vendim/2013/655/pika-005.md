@@ -1,0 +1,2 @@
+5. Me hyrjen në fuqi të këtij vendimi, shoqëria “Colacem Albania” sh.p.k., të përmirësojë me fondet e veta, brenda 3 (tri) viteve, 95 (nëntëdhjetë e pesë) ha, fond kullosor, në ngastrat e përcaktuara nga drejtoria përkatëse e shërbimit pyjor në bashkërendim me komunën Balldre.
+Mënyra e përmirësimit të kullotës, grafiku i punimeve caktohen nga drejtoria përkatëse e shërbimit pyjor dhe komuna Balldre, të cilat ndjekin punimet deri në marrjen në dorëzim me procesverbal të sipërfaqes së përmirësuar, sipas marrëveshjes që do të lidhet me kërkuesin.

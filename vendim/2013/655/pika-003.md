@@ -1,0 +1,1 @@
+3. Shoqëria “Colacem Albania” sh.p.k., detyrohet të rehabilitojë sipërfaqen e marrë në përdorim sipas kushteve të përcaktuara në pikën 2 të këtij vendimi. Të ndërpriten dhënia në përdorim e pjesës tjetër dhe vazhdimi i punimeve në vitin pasardhës në qoftë se shoqëria “Colacem Albania” sh.p.k., nuk ka kryer rehabilitimin e sipërfaqes së shfrytëzuar më parë.
