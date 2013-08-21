@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë prej 3 499 (tri mijë e katërqind e nëntëdhjetë e nëntë) m², tokë arë, shpronësuar në favor të komunës së Fushë-Kuqes, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

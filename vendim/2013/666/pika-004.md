@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 1 179 163 (një milion e njëqind e shtatëdhjetë e nëntë mijë e njëqind e gjashtëdhjetë e tre) lekësh, të përballohet nga buxheti i planifikuar për komunën e Fushë-Kuqes.
