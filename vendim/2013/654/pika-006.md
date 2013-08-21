@@ -1,0 +1,1 @@
+6. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes nga shoqëria “Shpresa-Al” sh.p.k., sipërfaqja e rehabilituar të riregjistrohet fond pyjor sipas mënyrës së rehabilitimit.

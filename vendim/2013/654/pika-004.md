@@ -1,0 +1,1 @@
+4. Shoqëria “Shpresa-Al” sh.p.k., të paguajë për sipërfaqen që hiqet nga fondi pyjor tarifat e llogaritura sipas lidhjes 4, bashkëlidhur vendimit nr. 391, datë 21.6.2006 të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.
