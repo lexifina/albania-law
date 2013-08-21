@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 8 435 000 (tetë milionë e katërqind e tridhjetë e pesë mijë) lekë, për mbulimin e pjesshëm të shpenzimeve të kurimit të shtetasit Erblin Micaj.
