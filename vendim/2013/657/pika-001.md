@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2013, t’i shtohet fondi total prej 6 680 000 (gjashtë milionë e gjashtëqind e tetëdhjetë mijë) lekësh, për realizimin e procedurës së veprës monumentale, shtatore, kushtuar figurës historike të Ismail Qemalit me rastin e 100-Vjetorit të Pavarësisë.
