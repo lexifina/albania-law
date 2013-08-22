@@ -1,0 +1,1 @@
+2. Vlera e përgjithshme e shpërblimit të përballohet nga fondi i kompensimit të pronave, të parashikuar nga ligji nr.10 239 datë 25.2.2010 “Për krijimin e fondit special të kompensimit të pronave”.
