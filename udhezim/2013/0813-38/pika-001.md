@@ -1,0 +1,1 @@
+1. Individët, nën kujdesin e institucioneve të përkujdesjes shoqërore, arsimohen me kohë të plotë ose të pjesshme në shkollën më të afërt me institucionin përkujdesës ose në një shkollë të arsimit publik të caktuar nga DAR/ZA-ja përkatëse.

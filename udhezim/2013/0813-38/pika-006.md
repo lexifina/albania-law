@@ -1,0 +1,1 @@
+6. Kur përfituesi i përkujdesjes shoqërore nuk është në moshën e detyrimit shkollor, institucioni përkatës i përkujdesjes shoqërore dhe DAR/ZA-ja, bashkëpunojnë për ta regjistruar përfituesin në një shkollë të arsimit bazë me kohë të pjesshme.
