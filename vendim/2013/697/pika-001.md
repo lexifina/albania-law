@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2013, t’i shtohet fondi prej 1 652 000 (një milion e gjashtëqind e pesëdhjetë e dy mijë) lekësh, për mbulimin e shpenzimeve për realizimin në bronz të bustit kushtuar figurës së Skënderbeut, sipas preventivit që i bashkëlidhet këtij vendimi.
