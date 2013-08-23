@@ -1,0 +1,1 @@
+6. Për shkollën bazë dhe për shkollën fillore kur është më vete, kryetari i qeverisë zgjidhet një anëtar i qeverisë, me shumicën e thjeshtë të votave të anëtarëve të saj, me konkurrimin e më shumë se një kandidati për rolin e kryetarit.

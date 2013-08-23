@@ -1,0 +1,1 @@
+7. Për arsimin e mesëm të lartë, kryetari i qeverisë zgjidhet një nga anëtarët e qeverisë, me votë të drejtpërdrejtë dhe të fshehtë të nxënësve të shkollës, me konkurrimin e më shumë se një kandidati për rolin e kryetarit.
