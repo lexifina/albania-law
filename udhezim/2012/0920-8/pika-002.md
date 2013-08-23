@@ -1,1 +1,0 @@
-2. Efektet financiare, për zbatimin e këtij udhëzimi, fillojnë nga 1 shtatori i vitit 2012 dhe përballohen me fondet e akorduara për vitin 2012 për Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta në programin “Mbrojtja sociale”, tit. 10430, kap. 1, art.606.
