@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit, të formës “BOT” (ndërtim, operim dhe transferim), të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, si autoritet kontraktues dhe shoqërisë “Gener 2” sh.p.k., për ndërtimin e hidrocentraleve në lumin Zalli i Qarrishtës, sipas tekstit dhe anekseve, që i bashkëlidhen këtij vendimi.
