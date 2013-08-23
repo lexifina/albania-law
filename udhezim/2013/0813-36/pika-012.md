@@ -1,0 +1,1 @@
+12. Pagesa e orëve mësimore për mësuesit bëhet në përputhje me udhëzimin nr. 21, datë 23.7.2010 “Për normat e punës mësimore-edukative dhe numrin e nxënësve për klasë në institucionet e arsimit parauniversitar”.

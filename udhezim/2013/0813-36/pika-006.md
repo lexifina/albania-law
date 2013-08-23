@@ -1,0 +1,1 @@
+6. Në çdo dy mjedise mësimore të arsimit të mesëm të ulët, që janë pranë njëra-tjetrës, jep mësim një mësues i lëndëve shoqërore dhe një mësues i lëndëve natyrore, duke u këmbyer, me qëllim që të mbulohet mësimdhënia në këto dy fusha të nxëni.
