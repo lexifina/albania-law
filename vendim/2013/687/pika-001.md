@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes “Për disa ndryshime dhe shtesa në kontratën e koncesionit të formës “BOT”, të lidhur ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe shoqërisë “Aurora Konstruksion” sh.p.k., për ndërtimin e hidrocentralit Vlushë, miratuar me vendimin nr. 713, datë 21.5.2008, të ndryshuar të Këshillit të Ministrave”.
