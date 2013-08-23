@@ -1,0 +1,1 @@
+10. Mësuesit që punojnë në “shansin e dytë” kur e shohin të nevojshme, hartojnë dhe zbatojnë programe lëndore të individualizuara me synim realizimin e objektivave bazë të programeve të zakonshme lëndore.

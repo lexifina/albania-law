@@ -1,0 +1,1 @@
+9. Shkolla, që realizon “shansin e dytë” u vë në dispozicion klasave të shansit të dytë mjetet mësimore, laboratorët dhe kabinetet e TIK-ut, si dhe i përfshin nxënësit e këtyre klasave në veprimtaritë jashtëshkollore që organizohen me klasat e zakonshme.
