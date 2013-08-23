@@ -1,0 +1,1 @@
+2. Ministri i Brendshëm të lidhë kontratën e huapërdorjes sipas Kodit Civil, me Partinë Demokratike të Shqipërisë, në përputhje me nenet 22 shkronja “b” dhe 22/1 të ligjit nr. 8580, datë 17.2.2000, të ndryshuar, për periudhën derisa partia politike plotëson kushtet e parashikuara në këto nene.

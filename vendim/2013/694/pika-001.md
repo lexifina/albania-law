@@ -1,0 +1,1 @@
+1. Kati i pestë i ndërtesës me emërtimin “Shtëpia e Ushtarakëve”, me vendndodhje në Fier, t’i jepet për mjedise Partisë Demokratike të Shqipërisë, për zyra vendore në Fier të Qarkut të Fierit, sipas formularit 1 që i bashkëlidhet këtij vendimi.
