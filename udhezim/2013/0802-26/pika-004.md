@@ -1,0 +1,1 @@
+4. Drejtori i institucionit arsimor vendos që në mbledhje të caktuara të këshillit të mësuesve të bëjnë pjesë, mësuesit ndihmës dhe instruktorët, si dhe nga personeli i konviktit dhe personeli ndihmës (nëse ka të tillë).
