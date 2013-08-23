@@ -1,0 +1,1 @@
+2. Rregullorja e brendshme e institucionit arsimor është në përputhje me ligjin nr. 69/2012, datë 21.6.2012 “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, aktet nënligjore të nxjerra në zbatim të tij dhe dispozitat normative.
