@@ -1,0 +1,1 @@
+5. DAR/ZA-ja përllogarit sipas formulës “nxënës të regjistruar në fillim të vitit shkollor” fondin për bibliotekën e çdo institucioni arsimor publik në juridiksionin e saj dhe njofton zyrtarisht çdo institucion arsimor për këtë fond.
