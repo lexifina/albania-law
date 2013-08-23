@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 2 (dy) pikësh, për rezultatin teknik dhe financiar, në procedurën përzgjedhëse konkurruese, për dhënien me koncesion të hidrocentralit “Blac”, që i jepet shoqërisë “Preng Bip Perkeqi” sh.p.k.
