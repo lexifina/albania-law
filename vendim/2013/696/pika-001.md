@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim krijimin e kuadrit rregullues për bashkërendimin dhe mbështetjen e veprimtarisë së inspektorateve shtetërore dhe, në raste të veçanta, të ministrive të linjës, nga Inspektorati Qendror, si dhe rregullat për përmbajtjen dhe administrimin e portalit unik të inspektimit.

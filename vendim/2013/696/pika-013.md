@@ -1,0 +1,1 @@
+13. Përdoruesit e autorizuar mbajnë përgjegjësi për respektimin e afateve kohore dhe procedurave, të cilat në këtë vendim përcaktohen për t’u bërë me mjete elektronike në Portal, sipas të njëjtave afate kohore dhe procedurave të përcaktuara në legjislacionin në fuqi për inspektimin dhe në këtë vendim.

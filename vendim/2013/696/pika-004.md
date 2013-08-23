@@ -1,0 +1,6 @@
+4. Në rastet kur nga aktet ligjore dhe nënligjore parashikohet se hartimi dhe miratimi i rregullave specifike të përcaktuara në pikën 1 të këtij kreu, duhet të bëhet nga ministritë e linjës së inspektorateve shtetërore, detyrimet e përcaktuara në këtë kre bien mbi ministritë e linjës.
+IV. Bashkërendimi dhe mbështetja PËr programet e inspektimit
+1. Programet vjetore të inspektimit të inspektorateve shtetërore hartohen mbi bazë tematike dhe mbështetur në metodologjitë e vlerësimit të rrezikut e në detyrimin për inspektimin periodik, në rastet e parashikuara nga ligji i posaçëm, dhe i dërgohen për mendim Inspektoratit Qendror brenda datës 15 tetor të vitit paraardhës.
+2. Programet mujore të inspektimit të inspektorateve shtetërore hartohen mbi bazë subjektesh inspektimi dhe i dërgohen për mendim Inspektoratit Qendror brenda datës 15 të muajit paraardhës.
+3. Inspektorati Qendror jep mendim këshillimor mbi programet e inspektimit brenda 5 (pesë) ditëve pune nga afati maksimal i përcaktuar për dërgimin e programeve të përmendura në pikat 1 dhe 2 të këtij kreu.
+4. Inspektoratet shtetërore reflektojnë mendimin këshillimor të dhënë nga Inspektorati Qendror sipas pikës 3 të këtij kreu ose, në rast të kundërt, duhet të kthejnë përgjigje të motivuar.

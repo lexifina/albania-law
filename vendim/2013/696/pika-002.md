@@ -1,0 +1,4 @@
+2. Ky vendim është i zbatueshëm nga institucionet qendrore të ngarkuara me një apo disa funksione inspektimi në juridiksionin e pushtetit ekzekutiv, të përcaktuara sipas dispozitave në fuqi të ligjit për inspektimin, që në vijim do të referohen si inspektorate shtetërore.
+II. Bashkërendimi dhe mbështetja për harmonizimin e kuadrit ligjor për inspektimet
+1. Ministritë e linjës dhe inspektoratet shtetërore dërgojnë për mendim pranë Inspektoratit Qendror, në një afat të përshtatshëm, çdo nismë ligjore dhe nënligjore në fushën e inspektimit përpara miratimit të këtyre të fundit.
+2. Inspektorati Qendror evidenton, analizon dhe u jep mendim ministrive të linjës apo inspektorateve shtetërore në formë shkresore, jo më vonë se 7 (shtatë) ditë pune nga data e marrjes së tij. Në rastin e projektligjeve dhe akteve nënligjore voluminoze ky afat është 10 (dhjetë) ditë pune.

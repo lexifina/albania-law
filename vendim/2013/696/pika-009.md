@@ -1,0 +1,4 @@
+9. Inspektorati Qendror, bazuar në informacionin e marrë nga inspektoratet shtetërore, sipas pikës 4 të këtij kreu, dhe raportit përfundimtar të inspektimit, sipas pikës 8 të këtij kreu, ka të drejtë që:
+a) të kërkojë nga inspektoratet shtetërore marrjen e masave për përmirësimin e gjendjes, në përputhje me rekomandimet e raportit përfundimtar;
+b) t’i propozojë eprorit të drejtpërdrejtë përkatës marrjen e masave disiplinore ndaj inspektorëve shtetërorë, kryeinspektorit ose drejtuesve të degëve territoriale, në rast të konstatimit të shkeljes nga këta të fundit;
+c) të informojë eprorin e drejtpërdrejtë përkatës, në rast se shkeljet e konstatuara vijnë si rrjedhojë e shkeljeve të punonjësve të tjerë të inspektorateve shtetërore, të ndryshëm nga ata të përcaktuar në shkronjën “b” të pikës 9 të këtij kreu.

@@ -1,0 +1,1 @@
+7. Inspektorati shtetëror, afati i të cilit përcaktohet me përparësi më të lartë, sipas pikës 6, të këtij kreu, është përgjegjës për bashkërendimin e inspektorëve të caktuar nga inspektoratet e tjera shtetërore për kryerjen e procedimit të inspektimit të subjektit.
