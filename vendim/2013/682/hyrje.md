@@ -1,0 +1,5 @@
+VENDIM
+Nr. 682, datë 16.8.2013
+PËR RISHPËRNDARJE FONDESH NDËRMJET PROGRAMEVE, BRENDA BUXHETIT TË VITIT 2013, MIRATUAR PËR MINISTRINË E MJEDISIT, PYJEVE DHE ADMINISTRIMIT TË UJËRAVE
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 44 të ligjit nr. 9936, datë 26.6.2008 “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, dhe të ligjit nr. 119/2012 “Për buxhetin e vitit 2013”, me propozimin e Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave, Këshilli i Ministrave
+VENDOSI:
