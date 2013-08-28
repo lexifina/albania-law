@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Shëndetësisë, si autoritet kontraktues, për kryerjen e procedurave të prokurimit publik me fondet e miratuara në buxhetin e saj për vitin 2013, sipas listës në aneksin 1 që i bashkëlidhet këtij vendimi.
