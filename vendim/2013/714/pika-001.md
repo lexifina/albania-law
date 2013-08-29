@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Tiranë, të pasurisë nr. 1/242, ndërtesë, me sipërfaqe 801.4 m2, pasurisë nr. 1/66, truall, me sipërfaqe 1266.6 m2 dhe ndërtesë me sipërfaqe 183 m2, të ndodhur në zonën kadastrale 8150, Tiranë, sipas planimetrisë që i bashkëlidhet këtij vendimi, për t’u përdorur për interesa vendore.

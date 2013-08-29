@@ -1,0 +1,1 @@
+2. Pronat e përcaktuara në pikën 1 të këtij vendimi, t’i shtohen listës së inventarit të pronave të paluajtshme shtetërore të Bashkisë Tiranë, e cila i bashkëlidhet vendimit nr. 834, datë 13.12.2003 të Këshillit të Ministrave.
