@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi, vënia në punë, administrimi e mirëmbajtja e hidrocentraleve të Gojanit, Gjegjanit, Peshqeshit, Ura e Fanit, Fangut, sipas tabelës që i bashkëlidhet këtij vendimi.

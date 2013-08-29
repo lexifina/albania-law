@@ -1,0 +1,1 @@
+6. Pronarët e listës që i bashkëlidhet këtij vendimi do të kompensohen, për efekt shpronësimi, pranë Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës në bashkëpunim me shoqërinë “AYEN AS Energji” sh.a.
