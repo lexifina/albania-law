@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2013, t’i shtohet fondi prej 29 100 000 (njëzet e nëntë milionë e njëqind mijë) lekësh, si subvecion (603), për garantimin e vazhdimësisë normale të funksionimit të këtij institucioni.
