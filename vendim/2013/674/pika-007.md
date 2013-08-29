@@ -1,0 +1,1 @@
+7. Kuotat e pranimeve për të përndjekurit politikë ndahen nga Ministria e Arsimit dhe Shkencës, në bazë të listës së hartuar nga Instituti i Integrimit të të Përndjekurve Politikë dhe plotësimit të kritereve të vendosura nga institucionet publike të arsimit të lartë.

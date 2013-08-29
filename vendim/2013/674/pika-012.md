@@ -1,0 +1,1 @@
+12. Tarifat e shkollimit për të gjitha programet e studimit të ciklit të parë, me kohë të pjesshme, për vitin akademik 2013-2014, të përcaktohen me udhëzim të përbashkët ndërmjet Ministrisë së Financave dhe Ministrisë së Arsimit dhe Shkencës.

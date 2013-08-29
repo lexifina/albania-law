@@ -1,0 +1,2 @@
+2. Kuotat e pranimeve të reja për programet e studimit të ciklit të parë, me kohë të pjesshme e të edukimit në distancë, sipas shkronjave “a” dhe “b” të pikës 1 të këtij vendimi, shpërndahen sipas tabelës nr. 1, që i bashkëlidhet këtij vendimi.
+Kuotat e çdo programi studimi ndahen në raportin 7:3, përkatësisht 70% të tyre, për pranimet e reja, për programe të para studimi të ciklit të parë, me kohë të pjesshme, dhe 30%, për pranimet e reja për programe të dyta studimi të ciklit të parë, me kohë të pjesshme.
