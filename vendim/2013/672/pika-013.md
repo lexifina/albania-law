@@ -1,0 +1,1 @@
+13. Efektet financiare të vitit akademik 2013-2014 të përballohen nga fondet e Buxhetit të Shtetit, miratuar për Ministrinë e Arsimit dhe Shkencës për vitin 2013, për pjesën e vitit 2013, si dhe nga fondet e Buxhetit të Shtetit që do të miratohet për vitin 2014, për pjesën e vitit 2014.
