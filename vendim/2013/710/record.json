@@ -1,0 +1,29 @@
+{
+  "qbz_id": 9906,
+  "title": "Për krijimin dhe funksionimin e sistemeve të ruajtjes së informacionit, vazhdueshmërisë së punës dhe marrëveshjeve të nivelit të shërbimit",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "710",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-08-21",
+  "published": "2013-09-05",
+  "in_force": "2013-09-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/56895a2c992edabd1e933be8dba9f8027a2864d1fa96f5cf4ce02f3a6e6ed9d2.docx",
+  "source_sha256": "56895a2c992edabd1e933be8dba9f8027a2864d1fa96f5cf4ce02f3a6e6ed9d2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9906",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/08/21/710",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    67868,
+    61463
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
