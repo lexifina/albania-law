@@ -1,0 +1,1 @@
+10. Institucionet publike të arsimit të lartë të dorëzojnë pranë AKP-së deri në datën 14 tetor 2013 listat përfundimtare të studentëve të regjistruar, për çdo program studimi, të ciklit të parë me kohë të plotë, sipas udhëzimit nr. 45, datë 19.12.2011 “Për gjenerimin dhe dhënien e numrave të matrikullimit”, i ndryshuar, në formë shkresore dhe elektronike.

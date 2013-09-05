@@ -1,0 +1,1 @@
+7. Kandidati, i cili nuk kryen regjistrimin brenda datave të përcaktuara në këtë udhëzim, për çfarëdo lloj arsyeje, humbet të drejtën e regjistrimit dhe të vazhdimit të procesit. Ky kandidat nuk përfshihet në listën përfundimtare të fituesve.
