@@ -1,0 +1,1 @@
+10. Pajisjet e organizatorit duhet t’i japin mundësinë lojtarit të shohin të gjithë historikun e luajtjes së tyre që nga momenti i hapjes së llogarisë së lojës së bashku me shumat e luajtura dhe të fituara në çdo lojë, kohën e kaluar duke luajtur dhe transaksionet me datën dhe orën e kryer nga llogaria e tij bankare.

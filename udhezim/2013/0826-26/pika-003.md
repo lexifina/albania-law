@@ -1,0 +1,1 @@
+3. “Regjistri i lojërave” nënkupton të gjitha të dhënat direkt ose indirekt të lidhura me lojërat e fatit online, bet-et e ofruara nga një zotërues licence, si dhe me llogarinë informuese të lojtarit, bet-et e vendosura dhe rezultatet e lojërave të luajtura.

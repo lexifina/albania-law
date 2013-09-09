@@ -1,0 +1,1 @@
+11. Pajisjet nuk mund të instalojnë te lojtari (në PC apo telefonin e tij) asnjë software, pa i vënë në disponim në mënyrë të qartë këtij të fundit të gjithë informacionin e domosdoshëm për të kuptuar se për çfarë nevojitet instalimi i software-it dhe pa kërkuar miratimin e instalimit nga lojtari.

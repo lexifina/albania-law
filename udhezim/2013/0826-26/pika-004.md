@@ -1,0 +1,1 @@
+4. “Sistemi i lojërave” nënkupton një sistem kompjuterik apo një sistem të kompjuterëve me anë të të cilëve kryen lojërat e fatit online, si dhe do të përfshijë të gjithë komponentët e lidhur me sistemin, sistemet operative dhe software të aplikimit.
