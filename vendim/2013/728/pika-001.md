@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të pasurisë “Ofiçina e Automjeteve, Tiranë”, me sipërfaqe prej 14 502 m2, nga Ministria e Ekonomisë, Tregtisë dhe Energjetikës te Ministria e Punëve të Jashtme, sipas planvendosjes së objektit dhe dokumentacionit ligjor të pronës, bashkëlidhur këtij vendimi.
