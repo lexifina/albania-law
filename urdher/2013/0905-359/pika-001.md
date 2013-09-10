@@ -1,0 +1,1 @@
+1. Procesverbali i seancës gjyqësore apo i veprimeve të tjera procedurale që zhvillohen jashtë seance, të mbajtura nëpërmjet regjistrimit audio ose audioviziv apo në formën e një përmbledhjeje të saktë me shtypshkrim apo dorëshkrim, si pjesë përbërëse e dosjes gjyqësore, arkivohet dhe ruhet për aq kohë sa ruhet vetë dosja gjyqësore.

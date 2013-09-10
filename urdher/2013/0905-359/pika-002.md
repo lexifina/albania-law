@@ -1,0 +1,1 @@
+2. Rregullat për ruajtjen dhe arkivimin e procesverbalit të mbajtur nëpërmjet regjistrimit audio ose audioviziv, përcaktohen në udhëzimin nr. 353, datë 3.9.2013 të Ministrit të Drejtësisë “Për përcaktimin e rregullave të hollësishme për mbajtjen, ruajtjen dhe arkivimin e procesverbalit të seancës gjyqësore me mjete audio”.
