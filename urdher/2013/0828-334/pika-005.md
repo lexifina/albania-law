@@ -1,0 +1,3 @@
+5. Çështjet e ardhura pranë zyrës përmbarimore shtetërore regjistrohen brenda 5 ditëve nga depozitimi i tyre nga Kryetari i Zyrës së Përmbarimit Shtetëror, pas kontrollit ligjor të dokumentacionit, si dhe në përputhje me nenin 515 të Kodit të Procedurës Civile.
+5.1 Kryetari i Zyrës së Përmbarimit Gjyqësor Shtetëror, brenda 2 ditëve pas regjistrimit të çështjes në sistem, përcakton përmbaruesin gjyqësor shtetëror përgjegjës për ekzekutimin e titullit ekzekutiv.
+5.2 Nëse përmbaruesi gjyqësor ndodhet në kushtet e konfliktit të interesit, sipas legjislacionit në fuqi, çështja rindahet, duke evidentuar nëpërmjet një shënimi në sistem për arsyet e ekzistencës së konfliktit të interesit.

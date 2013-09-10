@@ -1,0 +1,1 @@
+16. Inspektorët e Ministrisë së Drejtësisë dhe të Drejtorisë së Përgjithshme të Përmbarimit, anëtarët e këshillit përmbarimor dhe anëtarët e komisionit disiplinor kanë të drejtë aksesi në çështjet që inspektojnë apo verifikojnë.

@@ -1,0 +1,3 @@
+7. Përmbaruesi gjyqësor pas regjistrimit të çështjes fillon menjëherë me trajtimin e saj sipas legjislacionit në fuqi, si dhe me procedimin e çështjes në sistemin elektronik.
+7.1 Procedimi i një çështjeje në sistemin elektronik përfshin mbledhjen dhe hedhjen e informacioneve të nevojshme, përcaktimin e palëve, kontakteve, dokumenteve të punës dhe ndjekjes së të gjitha fazave dhe proceseve të punës që lidhen me të.
+7.2 Një çështje procedohet duke kaluar nëpër disa faza teknike të programuara në sistem. Përmbaruesi gjyqësor, në përputhje me dispozitat e parashikuara në Kodin e Procedurës Civile përfundon çdo fazë me shënimin përkatës në sistem, si dhe duke hedhur të gjitha dokumentet e punës brenda 10 ditëve nga marrja e çdo vendimi apo përpilimit të çdo akti.

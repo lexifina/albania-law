@@ -1,0 +1,1 @@
+6. Përmbaruesi gjyqësor privat, regjistron çështjen në sistemin ALBIS, pasi merr përsipër ekzekutimin e një titulli ekzekutiv, duke respektuar nenin 515 të Kodit të Procedurës Civile. Përmbaruesi gjyqësor privat bën regjistrimin e çështjes brenda 10 ditëve nga nënshkrimi i kontratës me palën kreditore.

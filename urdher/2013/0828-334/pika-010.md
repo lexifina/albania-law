@@ -1,0 +1,3 @@
+10. Të gjitha të dhënat e çështjeve përmbarimore ruhen në një bankë qendrore të dhënash. Baza e sistemit të ruajtjes së informacionit përfshin një tërësi të plotë të të gjitha informacioneve që janë të nevojshme për procedimin e çështjeve.
+10.1 Çdo zyrë përmbarimore/përmbarues ka hapësirën e vet të mbyllur në sistemin e ruajtjes së informacionit. Aksesi në këtë hapësirë është i ndaluar për përdorues të tjerë të të njëjtit nivel.
+10.2 Veprimet e çdo përmbaruesi gjyqësor në sistemin ALBIS pasqyrohen dhe ruhen në Regjistrin e Veprimeve Elektronike me Sistemin (RIV). RIV ruhet dhe nuk fshihet nga sistemi ALBIS.

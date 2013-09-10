@@ -1,0 +1,4 @@
+1. Objekt i këtij urdhri është përcaktimi:
+a) i detyrimeve të Shërbimit Përmbarimor Gjyqësor, lidhur me zbatimin me përpikëri të rregullave për regjistrimin, ruajtjen, ndryshimin, transferimin dhe arkivimin e të dhënave në formë elektronike, në sistemin ALBIS, të krijuar me vendimin nr. 443, datë 16.6.2011 të Këshillit të Ministrave “Për krijimin, regjistrimin, mënyrën e funksionimit, të administrimit e të ndërveprimit dhe për sigurinë e sistemit të menaxhimit elektronik të çështjeve të përmbarimit gjyqësor (ALBIS)”;
+b) i rregullave për kontrollin e veprimtarisë së Shërbimit Përmbarimor Gjyqësor për zbatimin e detyrimit për hedhjen e të dhënave në sistemin ALBIS, si dhe sanksioneve të zbatueshme në rastin e evidentimit të shkeljeve të përcaktimeve të bëra në këtë urdhër;
+c) i subjekteve që kanë të drejtë të aksesojnë sistemin ALBIS, si dhe nivelin e aksesit të tyre.

@@ -1,0 +1,1 @@
+4. Përmbaruesi gjyqësor përdor detyrimisht sistemin ALBIS për regjistrimin e të dhënave të përcaktuara në pikën 3 të vendimit nr. 443, datë 16.6.2011 të Këshillit të Ministrave “Për krijimin, regjistrimin, mënyrën e funksionimit, të administrimit e të ndërveprimit dhe për sigurinë e sistemit të menaxhimit elektronik të çështjeve të përmbarimit gjyqësor (ALBIS)”.
