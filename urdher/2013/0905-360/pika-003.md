@@ -1,0 +1,1 @@
+3. Njoftimi elektronik bëhet me mjete të komunikimit elektronik që mundësojnë marrjen e konfirmimit për mbërritjen/marrjen e njoftimit ose nëse kjo është e pamundur përsoni i thirrur duhet të konfirmojë personalisht që ka marrë njoftimin.

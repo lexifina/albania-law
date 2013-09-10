@@ -1,0 +1,1 @@
+4. Njoftimi elektronik i paditësit ose përfaqësuesit të tij, bëhet vetëm në rastin kur në kërkesëpadi janë paraqitur të dhënat elektronike të kontaktit, si dhe deklarata e pranimit të njoftimit me mjete të komunikimit elektronik.

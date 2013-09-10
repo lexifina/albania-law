@@ -1,0 +1,1 @@
+1. Njoftimi elektronik, si një ndër mënyrat e njoftimit të akteve gjyqësore bëhet nga nëpunësi gjyqësor nëpërmjet mjeteve të komunikimit elektronik dhe ndiqet nga gjyqtari ose kryetari i trupit gjykues të çështjes, i cili kontrollon dhe kujdeset për procesin e zhvillimit të tij në përputhje me rregullat e parashikuara në Kodin e Procedurës Civile.

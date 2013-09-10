@@ -1,0 +1,1 @@
+9. Për arkivimin dhe ruajtjen e procesverbalit të njoftimit ndiqen të njëjtat rregulla si për ruajtjen dhe arkivimin e procesverbalit të seancës gjyqësore të mbajtur në formën e një përmbledhjeje me shtypshkrim apo dorëshkrim.
