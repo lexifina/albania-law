@@ -1,0 +1,1 @@
+1. Marrja e shërbimeve publike të qeverisjes elektronike nëpërmjet portalit qeveritar dhe/ose sistemeve të tjera elektronike nga çdo përdorues, person fizik ose juridik, kalon në procesin e autentifikimit dhe identifikimit për garantimin e besueshmërisë dhe sigurisë në ofrimin e shërbimeve individuale.

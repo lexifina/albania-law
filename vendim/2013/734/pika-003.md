@@ -1,0 +1,1 @@
+3. Procesi i regjistrimit kryhet nëpërmjet portalit qeveritar dhe të dhënat e plotësuara nga përdoruesit, gjatë procesit të regjistrimit, verifikohen elektronikisht me të dhënat e Regjistrit Kombëtar të Gjendjes Civile për individët dhe Regjistrit Kombëtar Tregtar për bizneset (QKR).

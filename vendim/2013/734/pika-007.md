@@ -1,0 +1,1 @@
+7. Specifikimet teknike të ndërveprimit të bazave të të dhënave shtetërore për regjistrimin dhe autentifikimin përcaktohen nga Autoriteti Rregullator Koordinues (ARK) dhe botohen në Buletinin e Njoftimeve Publike.
