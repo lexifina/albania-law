@@ -1,0 +1,1 @@
+1. Lejimin e Qendrës Kombëtare të Kontrollit të Barnave, ai autoritet kontraktor, për kryerjen e procedurës së prokurimit publik me objekt “Blerje pullash kontrolli me element sigurie për barnat dhe aksesorë për shtypjen e tyre” me fond limit 8 400 000 (tetë milionë e katërqind mijë) lekë.
