@@ -1,0 +1,1 @@
+1. Lejimin e komunës Grekan të qarkut të Elbasanit, si autoritet kontraktor, të vijojë normalisht kryerjen e procedurave të prokurimit me objekt “Sistemimi i kanalizimeve të ujërave të zeza për fshatin Dëshiran, komuna Grekan, Elbasan”.
