@@ -1,0 +1,1 @@
+2. Fondet e lira në programin “Mbështetje për zhvillim ekonomik”, në zërin “Shpenzime operative”, në QKL, prej 3 000 000 (tre milionë) lekësh, të transferohen në programin “Planifikim, menaxhim dhe administrim”, për mbulimin e shpenzimeve për vendimet gjyqësore.

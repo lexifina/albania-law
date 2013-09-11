@@ -1,0 +1,4 @@
+1. Në buxhetin e miratuar për Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës, për vitin 2013, në programin “Planifikim, menaxhim dhe administrim”, të shtohen “Shpenzimet operative” për 11 000 000 (njëmbëdhjetë milionë) lekë, duke pakësuar përkatësisht:
+a) Në programin “Mbështetje për zhvillim ekonomik”, në zërin “Pagat”, pakësohet fondi në shumën 8 700 000 (tetë milionë e shtatëqind mijë) lekë, ndërsa në zërin “Sigurime shoqërore” pakësohet fondi në shumën 1 000 000 (një milion) lekë;
+b) Në programin “Mbështetje për energjinë”, në zërin “Pagat”, pakësohet fondi në shumën 400 000 (katërqind mijë) lekë, ndërsa në zërin “Sigurime shoqërore” pakësohet në shumën 400 000 (katërqind mijë) lekë;
+c) Në programin “Mbështetje për mbikëqyrjen e tregut, infrastrukturë cilësie dhe pronësi industriale”, në zërin “Paga”, pakësohet fondi në shumën 500 000 (pesëqind mijë) lekë.
