@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, në zërin “Mallra dhe shërbime”, t’i shtohet fondi 350 000 (treqind e pesëdhjetë mijë) lekë, për mbulimin e shpenzimeve të kurimit të znj. Drita Pelingu.
