@@ -1,0 +1,1 @@
+10. Institucionet publike të arsimit të lartë të shpallin dhe të afishojnë listat e kandidatëve fitues në vende të dukshme, në mjediset e njësive kryesore përkatëse, brenda orës 16:00 të datës 20.10.2013 të ndarë sipas programeve të studimit përkatës.

@@ -1,0 +1,1 @@
+3. Institucionet publike të arsimit të lartë të shpallin menjëherë hapjen e procedurës së aplikimit të kërkesave për kandidatët që dëshirojnë të studiojnë programet e studimit të ciklit të parë me kohë të pjesshme dhe edukimin në distancë. Këto njoftime të bëhen publike në median e shkruar dhe elektronike nga institucionet publike të arsimit të lartë.

@@ -1,0 +1,1 @@
+15. Për kandidatët nga Republika e Kosovës, si dhe kandidatët shqiptarë nga Maqedonia, Mali i Zi, Presheva, Bujanovci dhe Medvegja, të cilët do të aplikojnë direkt pranë IAL-ve publike, ndiqet e njëjta procedurë, si dhe për kandidatët brenda vendit.

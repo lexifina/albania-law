@@ -1,0 +1,1 @@
+9. Aplikimi i kandidatëve në programin e studimit me kohë të pjesshme dhe edukimin në distancë, të zhvillohet nga data 18.9.2013 deri në datën 16.10.2013, prej orës 08:00 deri në orën 16:00, pranë sekretarive mësimore të njësive kryesore të IAL-ve publike.

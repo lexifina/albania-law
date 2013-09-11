@@ -1,0 +1,4 @@
+1. Pranimin e aplikantëve në programet e studimit të ciklit të parë, në formën e studimit me kohë të pjesshme dhe edukimin në distancë në institucionet e arsimit të lartë (IAL) publike, në vitin akademik 2013-2014, në bazë të përzgjedhjes së bërë nga IAL-të publike, sipas kritereve të përcaktuara dhe të bëra publike paraprakisht. Nuk pranohen aplikime nga kandidatë të shpallur fitues me formularët A2 dhe A3, të regjistruar në listat përfundimtare.
+Kuotat e miratuara me vendimin nr. 674, datë 7.8.2013 të Këshillit të Ministrave do të përdoren:
+a) Në masën 70% për studentë që nuk janë regjistruar në asnjë program studimi ose nuk kanë përfunduar një të tillë në IAL-të publike me kohë të plotë ose të pjesshme;
+b) Në masën 30%, si program i dytë studimi, për kandidatë që kanë përfunduar një program studimi universitar.

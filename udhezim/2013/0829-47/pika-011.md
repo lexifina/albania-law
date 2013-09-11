@@ -1,0 +1,1 @@
+11. Regjistrimi i kandidatëve në programet e studimit me kohë të pjesshme dhe edukimin në distancë ku janë shpallur fitues, të zhvillohet nga data 21.10.2013 deri në datën 24.10.2013, prej orës 08:00 deri në orën 16:00, pranë sekretarive mësimore të njësive kryesore të institucioneve publike të arsimit të lartë.
