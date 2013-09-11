@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, në zërin “Mallra dhe shërbime”, t’i shtohet fondi 414 000 (katërqind e katërmbëdhjetë mijë) lekë për mbulimin e shpenzimeve të kurimit të z. Klodian Seferaj.
