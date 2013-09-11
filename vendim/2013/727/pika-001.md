@@ -1,0 +1,1 @@
+1. Ndryshimin e kategorisë së tokës bujqësore me numër pasurie 198/15, zona kadastrale nr. 1288, volumi 3, faqja 103, me sipërfaqe 1000 m2 , regjistruar në Zyrën e Regjistrimit të Pasurive të Paluajtshme, Mat, në tokë urbane (truall) për ndërtimin e hidrocentralit “Prellë”.
