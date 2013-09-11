@@ -1,0 +1,1 @@
+5. Bordi i Fondacionit Shkollor Austriak, pas miratimit të bursave, dërgon dokumentacionin përkatës në Drejtorinë Arsimore Rajonale Shkodër, e cila, pas konfirmimit të nxënësve që përfitojnë bursë, kalon masën e bursës në llogarinë personale të secilit nxënës.
