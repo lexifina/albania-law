@@ -1,0 +1,26 @@
+{
+  "qbz_id": 9950,
+  "title": "Për një ndryshim në vendimin nr. 638, datë 31.7.2013 të Këshillit të Ministrave “Për ekzekutimin e vendimit të Gjykatës Europiane për të Drejtat e Njeriut, datë 31.7.2012, për ankimet nr. 604/07, nr. 43628/07, nr. 46684/07 dhe nr. 34770/09 “Manushaqe Puto dhe të tjerë kundër Shqipërisë””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "747",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-09-05",
+  "published": "2013-09-12",
+  "in_force": "2013-09-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7d305a8d4ee97c694056c03580d3a9917328ecd63dfd54f01da571b1857dc83c.docx",
+  "source_sha256": "7d305a8d4ee97c694056c03580d3a9917328ecd63dfd54f01da571b1857dc83c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/9950",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/09/05/747",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
