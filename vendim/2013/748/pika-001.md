@@ -1,0 +1,1 @@
+1. Lejimin e zhbllokimit të fondeve për kryerjen e procedurave të prokurimit publik, të cilat i përkasin fondit të investimeve të parashikuara në Buxhetin e Shtetit për vitin 2013, e të përfshirë në aneksin nr. 1 që i bashkëlidhet këtij vendimi, për Prokurorinë e Përgjithshme, Prokurorinë e Rrethit Gjyqësor Shkodër dhe Prokurorinë e Rrethit Gjyqësor Pogradec.
