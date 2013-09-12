@@ -1,1 +1,1 @@
-5. Efekti financiar, i parashikuar në pikën 1 të këtij vendimi, të përballohet nga fondet e papërdorura të KQZ-së për mosaplikimin e dy projekteve të teknologjisë për procedurat zgjedhore sipas vendimit nr. 372, datë 3.5.2013 të Këshillit të Ministrave “Për një shtesë fondi në buxhetin e vitit 2013, miratuar për Komisionin Qendror të Zgjedhjeve, për financimin e shpenzimeve për zgjedhjet për Kuvendin e Republikës së Shqipërisë, më 23 qershor 2013”.
+5. Efekti financiar, i parashikuar në pikën 1 të këtij vendimi, përballohet nga fondi rezervë i Buxhetit të Shtetit.
