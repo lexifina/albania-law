@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, brenda juridiksionit territorial dhe administrativ të bashkisë Kamëz të qarkut të Tiranës, që transferohen në pronësi ose në përdorim të kësaj bashkie, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit me 241 (dyqind e dyzetë e një) fletë që i bashkëlidhet këtij vendimi përfundon me numrin rendor 1809 (një mijë e tetëqind e nëntë).
