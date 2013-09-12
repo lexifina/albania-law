@@ -1,0 +1,1 @@
+15. QSHAFP-ja ushtron veprimtarinë në mjediset e Shkollës së Mesme Profesionale Kamëz dhe, për të plotësuar standardet e nevojshme për mësimdhënie, përdor bazën materiale, didaktike dhe laboratorët e kësaj shkolle.

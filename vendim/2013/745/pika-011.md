@@ -1,0 +1,1 @@
+11. QSHAFP-ja Kamëz vepron si njësi ekonomike me llogari më vete, sipas legjislacionit në fuqi. Ajo kryen veprimtari ekonomike jo për qëllime përfitimi, por vetëm me synim realizimin e shërbimeve arsimore dhe të formimit profesional sipas legjislacionit në fuqi.

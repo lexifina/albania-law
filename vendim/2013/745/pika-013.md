@@ -1,0 +1,1 @@
+13. Të gjitha aspektet e funksionimit të QSHAFP-së Kamëz, gjatë periudhës kalimtare, të cilat nuk janë parashikuar në këtë vendim, rregullohen në bazë të legjislacionit në fuqi dhe statutit të kësaj qendre.

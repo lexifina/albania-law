@@ -1,0 +1,1 @@
+1. Krijimin e Qendrës Shumëfunksionale të Arsimit dhe Formimit Profesional (QSHAFP) në Kamëz, mbi bazën e Shkollës së Mesme Profesionale Kamëz, si një institucion publik për arsimin dhe formimin profesional (AFP), që gëzon statusin e personit juridik, të veçantë për drejtimet e veprimtarisë, që përcaktohen në këtë vendim.

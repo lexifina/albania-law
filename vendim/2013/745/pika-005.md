@@ -1,0 +1,1 @@
+5. QSHAFP-ja, gjatë periudhës kalimtare, e mbështet veprimtarinë në ligjin nr. 8872, datë 29.3.2002 “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”, të ndryshuar, ligjin nr. 69/2012 “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë” dhe ligjin nr.10 247, datë 4.3.2010 “Për kornizën shqiptare të kualifikimeve”, në statut dhe në këtë vendim.

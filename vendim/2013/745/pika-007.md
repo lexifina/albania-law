@@ -1,0 +1,1 @@
+7. Gjatë fazës kalimtare, bordi i QSHAFP-së quhet bordi i drejtimit. Detyrat dhe funksionet e tij përcaktohen me udhëzimin përkatës të Ministrit të Arsimit dhe Shkencës dhe Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta, i përshtatur gjatë fazës kalimtare, sipas kërkesave të veçanta të QSHAFP-së.
