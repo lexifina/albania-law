@@ -1,0 +1,12 @@
+1. Lejimin e Autoritetit Rrugor Shqiptar, si autoritet kontraktor, të publikojë njoftimin e kontratës së nënshkruar për disa procedura të prokurimit publik, si më poshtë:
+- Ndërtimi i rrugëve paralele superstrada Tiranë - Vorë, krahu i majtë, vazhdimi (shtesë kontrate);
+- Rikonstruksioni dhe zgjerimi i Rrugës së Elbasanit, segmenti F. F-Unaza Tiranë (shtesë punimesh);
+- Ndërtim, Rruga Unaza e Re e Tiranës (segmenti Komuna e Parisit - rruga e re Tiranë - Elbasan (shtesë punimesh)),
+- Sistemim-asfaltim, rruga Kukës - Krumë, loti 2 (shtesë punimesh);
+- Ndërtim i Rrugës së Arbërit (segmenti Ura e Brarit - Hyrje tuneli Qafë-Murrizë), loti 1 (shtesë punimesh));
+- Sistemim-asfaltim, rruga Qafë-Thanë - Lin - Pogradec, loti 2 (shtesë punimesh);
+- Supervizion punimesh, rikonstruksioni dhe zgjerimi i Rrugës së Elbasanit, segmenti F. F-Unaza Tiranë (shtesë punimesh);
+- Supervizion punimesh, ndërtim rruga Unaza e Re e Tiranës (segmenti Komuna e Parisit - rruga e re Tiranë - Elbasan (shtesë punimesh));
+- Supervizion punimesh, sistemim-asfaltim rruga Kukës - Krumë, loti 2 (shtesë punimesh);
+- Supervizion punimesh, ndërtim i Rrugës së Arbërit (segmenti Ura e Brarit - Hyrje tuneli Qafë-Murrizë), loti 1 (shtesë punimesh);
+- Supervizion punimesh, sistemim-asfaltim rruga Qafë-Thanë - Lin - Pogradec, loti 2 (shtesë punimesh).
