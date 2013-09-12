@@ -1,0 +1,1 @@
+2. DAR/ZA-ja përllogarit për çdo institucion arsimor publik, sipas formulës “Për nxënës të regjistruar në fillim të vitit shkollor”, fondin e planifikuar për blerje të mjeteve mësimore dhe njofton zyrtarisht çdo institucion arsimor publik për fondin që i takon.
