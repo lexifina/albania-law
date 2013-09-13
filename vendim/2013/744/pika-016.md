@@ -1,0 +1,1 @@
+16. Studentët, që përfitojnë nga kuotat e përcaktuara përkatësisht në shkronjat “c” dhe “ç” të pikave 1 dhe 2 të këtij vendimi, u nënshtrohen tarifës së shkollimit të programit përkatës të studimit që ata kanë kërkuar.

@@ -1,0 +1,1 @@
+9. Çdo program studimi i ciklit të dytë, me kohë të plotë, “Master profesional” dhe “Master i shkencave”/“Master i arteve të bukura”, funksionon në vitin e parë, për vitin akademik 2013 - 2014, në rast se atë e ndjekin të paktën 10 studentë, përjashtuar Universitetin e Arteve Tiranë.

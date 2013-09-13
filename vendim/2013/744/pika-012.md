@@ -1,0 +1,1 @@
+12. Tarifat e përgjithshme të shkollimit për studentët që do të regjistrohen në vitin e parë, për të gjitha programet e studimit të ciklit të dytë, me kohë të plotë, “Master profesional” dhe “Master i shkencave”/“Master i arteve të bukura”, në vitin akademik 2013 - 2014, pasqyrohen përkatësisht në tabelën nr. 1 dhe tabelën nr. 2, bashkëlidhur këtij vendimi.

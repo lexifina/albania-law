@@ -1,0 +1,1 @@
+10. Institucionet publike të arsimit të lartë përcaktojnë kriteret e pranimit të kandidatëve të rinj për programet e studimeve të ciklit të dytë, me kohë të plotë, “Master profesional” dhe “Master i shkencave”/“Master i arteve të bukura”, për vitin akademik 2013 - 2014, dhe i bëjnë publike paraprakisht.
