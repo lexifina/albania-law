@@ -1,0 +1,1 @@
+6. Kuotat e pranimeve, sipas shkronjës “d” të pikës 1 të këtij vendimi, për kandidatët me statusin e personave që nuk shikojnë, administrohen nga Ministria e Arsimit dhe Shkencës, mbi bazën e listës së hartuar nga Shoqata Kombëtare e të Verbërve.

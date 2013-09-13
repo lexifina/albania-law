@@ -1,0 +1,1 @@
+13. Pagesa e tarifës bëhet me këste të përcaktuara nga institucioni publik i arsimit të lartë. Pas përfundimit të kohëzgjatjes normale të programit të studimit, studentët, të cilët nuk e kanë përfunduar ende programin përkatës, paguajnë vetëm tarifën për kredit, sipas tarifës së vitit, në të cilin zhvillon provimin/provimet e lëndëve të prapambetura.

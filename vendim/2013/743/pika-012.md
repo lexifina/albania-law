@@ -1,0 +1,1 @@
+12. Tarifat e përgjithshme të shkollimit për studentët që do të regjistrohen në vitin e parë, për të gjitha programet e studimit të ciklit të dytë “Master profesional”, me kohë të pjesshme, në vitin akademik 2013 - 2014, përcaktohen në tabelën nr.1, që i bashkëlidhet këtij vendimi.
