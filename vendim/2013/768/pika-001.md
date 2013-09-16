@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 650 000 (gjashtëqind e pesëdhjetë mijë) lekësh, për mbulimin e shpenzimeve të kurimit të shtetases Oriana Nusha.
