@@ -1,0 +1,1 @@
+1. Dhënien në përdorim Autoritetit Shtetëror për Informacionin Gjeohapësinor (ASIG) të ambienteve 1, 2, 3, 4, 5, 6 dhe 7 të katit të parë teknik të godinës së Observatorit të Institutit të Gjeoshkencave dhe Energjisë, Ujit e Mjedisit, sipas planimetrisë bashkëngjitur këtij vendimi.
