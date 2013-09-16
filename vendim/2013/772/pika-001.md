@@ -1,0 +1,1 @@
+1. Miratimin e fillimit të procedurës së prokurimit të fondit prej 200 000 (dyqind mijë) eurosh, akorduar nga qeveria e Republikës së Italisë, në kuadër të marrëveshjes së bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë për mbrojtjen e mjedisit.

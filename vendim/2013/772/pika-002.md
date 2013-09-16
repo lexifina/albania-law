@@ -1,0 +1,1 @@
+2. Përgjegjësia e kryerjes së procedurave të prokurimit nga Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave të kalojë te Drejtoria e Përgjithshme e Financimeve dhe Kontraktimeve, në Ministrinë e Financave.
