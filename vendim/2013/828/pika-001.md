@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2013, t’i shtohet fondi prej 7 700 000 (shtatë milionë e shtatëqind mijë) lekësh, për financimin e Federatës Shqiptare të Alpinizmit për realizimin e aktivitetit në kuadër të 100-Vjetorit të Pavarësisë së Shqipërisë “Everest 2012”.
