@@ -1,0 +1,1 @@
+1. Titulli ekzekutiv vihet në ekzekutim nëpërmjet lëshimit të urdhrit të ekzekutimit, i cili për rastet e parashikuara nga shkronjat “a” dhe “b” të nenit 510 të Kodit të Procedurës Civile, lëshohet nga gjykata që ka dhënë vendimin. Në këtë rast, kancelari konfirmon urdhrin e ekzekutimit brenda pesë ditëve nga marrja formë të prerë e vendimit gjyqësor.
