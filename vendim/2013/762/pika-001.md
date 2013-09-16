@@ -1,0 +1,1 @@
+1. Lejimin e Komandës së Forcës Detare, si autoritet kontraktor, për kryerjen e procedurës së prokurimit publik, me objekt “Blerje nafte - F76”, me fond limit 28 105 560 (njëzet e tetë milionë e njëqind e pesë mijë e pesëqind e gjashtëdhjetë) lekë pa TVSH, me fondet e miratuara në buxhetin e këtij viti.
