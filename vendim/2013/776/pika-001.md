@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve Publike dhe Transportit në buxhetin e miratuar për vitin 2013, në programin buxhetor 06370 “Furnizimi me ujë dhe kanalizime”, zëri “Investime”, objekti “TVSH, projekti i kanalizimeve të Tiranës së madhe”, t’i zbritet fondi prej 107 000 000 (njëqind e shtatë milionë) lekësh.
