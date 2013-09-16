@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, zëri “Mallra dhe shërbime”, t’i shtohet fondi prej 3 287 000 (tre milionë e dyqind e tetëdhjetë e shtatë mijë) lekësh, për mbulimin e pjesshëm të shpenzimeve të kurimit të z. Shpëtim Saraçi.
