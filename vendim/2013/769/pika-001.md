@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit për vazhdimin e procedurave të prokurimit për objektin “Mbrojtje nga lumi i Semanit i bregut dhe argjinaturës së krahut të majtë të rrjedhës në vendin e quajtur Gropa e Rrodhes, Fier”, me fondin limit 9 942 232 (nëntë milionë e nëntëqind e dyzet e dy mijë e dyqind e tridhjetë e dy) lekë.
