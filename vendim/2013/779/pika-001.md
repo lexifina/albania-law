@@ -1,0 +1,1 @@
+1. Lejimin e Ujësjellës-Kanalizimeve sh.a. Mallakastër, si autoritet kontraktor, të vijojë normalisht kryerjen e procedurave të prokurimit, me objekt: “Ndërtim depoje uji V=1000 m3, për qytetin e Ballshit” dhe “Supervizion punimesh për objektin ndërtim depoje uji V=1000 m3, për qytetin e Ballshit”.
