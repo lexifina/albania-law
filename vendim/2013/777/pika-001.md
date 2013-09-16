@@ -1,0 +1,3 @@
+1. Rishpërndarje fondesh ndërmjet ministrive në buxhetin e miratuar për vitin 2013, si më poshtë vijon:
+a) Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, në buxhetin e miratuar për vitin 2013, në programin buxhetor 08140 “Zhvillimi i sportit”, në artikullin 231 “Investime”, t’i zbritet fondi prej 30 000 000 (tridhjetë milionë) lekësh.
+b) Ministrisë së Punëve Publike dhe Transportit në buxhetin e miratuar për vitin 2013, në programin buxhetor 04520 “Transporti rrugor”, t’i shtohet në zërin “Investime” fondi prej 30 000 000 (tridhjetë milionë) lekësh për financimin e punimeve të kryera dhe të pafinancuara në objektin “Rikonstruksion dhe zgjerim i Rrugës së Elbasanit, segmenti Fakulteti i Historisë dhe i Filologjisë - Unaza e Madhe e Tiranës”.
