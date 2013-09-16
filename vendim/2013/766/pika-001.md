@@ -1,0 +1,1 @@
+1. Ministrisë së Shëndetësisë, në buxhetin e miratuar për vitin 2013, në zërin “Mallra dhe shërbime”, t’i shtohet fondi prej 8 170 000 lekë (tetë milionë e njëqind e shtatëdhjetë mijë) lekësh, për mbulimin e shpenzimeve të kurimit të z. Gëzim Dibra.
