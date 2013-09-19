@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 49, datë 6.9.2013
+PËR PROCEDURAT E PRANIMIT DHE TË REGJISTRIMIT NË CIKLIN E DYTË TË STUDIMEVE, ME KOHË TË PLOTË, “MASTER PROFESIONAL” DHE “MASTER SHKENCOR/MASTER I ARTEVE TË BUKURA”, NË INSTITUCIONET PUBLIKE TË ARSIMIT TË LARTË, NË VITIN AKADEMIK 2013-2014
+Në mbështetje të nenit 102 të Kushtetutës, të nenit 34 të ligjit nr. 9741, datë 21.5.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar, vendimit nr. 744, datë 5.9.2013 të Këshillit të Ministrave “Për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë, për ciklin e dytë të studimeve, me kohë të plotë, “Master profesional” dhe “Master i shkencave/ Master i arteve të bukura”, për vitin akademik 2013-2014”, si dhe vendimit të Këshillit të Ministrave nr. 241, datë 31.3.2011 “Për kryerjen nga Posta Shqiptare sh.a. të shërbimeve postare, financiare dhe shërbimeve të tjera, që janë në përputhje me veprimtarinë e kësaj poste, për institucionet e qeverisjes qendrore e vendore, institucionet e tjera publike, si dhe shoqëritë tregtare me kapital shtetëror”,
+UDHËZOJ:

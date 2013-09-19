@@ -1,0 +1,1 @@
+5. Pranë njësive kryesore përgjegjëse të institucioneve publike të arsimit të lartë për çdo program studimi të ciklit të dytë me kohë të plotë të ngrihen komisione të posaçme, sipas fushave përkatëse, për përzgjedhjen e aplikantëve fitues në përputhje me kriteret e pranimit, të vendosura dhe te shpallura publikisht nga këto institucione.
