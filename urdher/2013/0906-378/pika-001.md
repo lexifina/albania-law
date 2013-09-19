@@ -1,0 +1,1 @@
+1. Hapjen në Universitetin Politeknik të Tiranës të programit të studimeve të ciklit të dytë “Master profesional” në “Inxhinieri mekatronike” në përfundim të të cilit lëshohet diplomë universitare “Master profesional” në “Inxhinieri mekatronike”.
