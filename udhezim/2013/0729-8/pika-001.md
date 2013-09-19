@@ -1,0 +1,1 @@
+1. Shpenzimet që përballohen nga komuna/bashkia për përgatitjen e planvendosjes së ngastrës/ave, nga subjekt i licencuar i angazhuar nga komuna/bashkia, për rastet kur planvendosja nuk është paraqitur nga përdoruesit faktik të tokës bujqësore, janë 3000-5000 (tre mijë-pesë mijë) lekë/dynymë.
