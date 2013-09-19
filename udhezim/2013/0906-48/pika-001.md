@@ -1,0 +1,1 @@
+1. Viti akademik 2013-2014 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të parë dhe programet e integruara të studimit të ciklit të dytë me kohë të plotë, të fillojë në datën 7 tetor 2013 dhe të përfundojë në datën 30 shtator 2014.

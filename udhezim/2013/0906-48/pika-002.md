@@ -1,0 +1,1 @@
+2. Viti akademik 2013-2014 në institucionet publike të arsimit të lartë, në programet e studimit të ciklit të dytë “Master profesional” dhe “Master shkencor/Master i arteve të bukura”, të fillojë në datën 7 tetor 2013 dhe të përfundojë në datën 30 shtator 2014.

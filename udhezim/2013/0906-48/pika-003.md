@@ -1,0 +1,1 @@
+3. Viti akademik 2013-2014 në institucionet publike të arsimit të lartë, në programet e studimit me kohë të pjesshme dhe edukim në distancë, të fillojë në datën 21 tetor 2013 dhe të përfundojë në datën 30 shtator 2014.
