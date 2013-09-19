@@ -1,0 +1,5 @@
+# Shtojca
+MINISTRI I MJEDISIT, PYJEVE DHE ADMINISTRIMIT TË UJËRAVE
+Genc Ruli
+Halim Kosova
+Fatmir Mediu
