@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10036,
+  "title": "Për një ndryshim në vendimin nr. 229, datë 23.4.2004 të Këshillit të Ministrave “Për miratimin e ceremonialit zyrtar të Republikës së Shqipërisë”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "832",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-09-15",
+  "published": "2013-09-20",
+  "in_force": "2013-09-20",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7e63d3964266a7a71c7b9cf07bbcc5c81863c52bc12171e22e04a70c40b65d8b.docx",
+  "source_sha256": "7e63d3964266a7a71c7b9cf07bbcc5c81863c52bc12171e22e04a70c40b65d8b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10036",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/09/15/832",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
