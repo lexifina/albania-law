@@ -1,0 +1,1 @@
+2. Fondet për shpenzimet e domosdoshme të përdoren për “Shpenzime personeli” për stafin shtesë të kabineteve, gjithsej 22 veta, të cilët përballohen nga numri i punonjësve rezervë të Këshillit të Ministrave dhe për shpenzime të tjera operative.
