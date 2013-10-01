@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10048,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar bashkie, komuna Karbunarë, qarku Fier",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8333",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-09-27",
+  "published": "2013-10-01",
+  "in_force": "2013-10-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/833a757d7b5570ec3b102fee3f883cecda356d585eaba273120d98b2a67eee95.docx",
+  "source_sha256": "833a757d7b5570ec3b102fee3f883cecda356d585eaba273120d98b2a67eee95",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10048",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/09/27/8333",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
