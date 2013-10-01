@@ -1,0 +1,30 @@
+{
+  "qbz_id": 67259,
+  "title": "Për nëpunësin civil",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "152-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-05-30",
+  "published": "2013-06-07",
+  "in_force": "2013-10-01",
+  "in_force_basis": "\"hyn në fuqi më 1 tetor 2013\"",
+  "source": "https://qbz.gov.al/files/ed6e6b56ae3a5c2365d36da01a092336742444f6f1decb144fcfbc5c1cf75ddf.docx",
+  "source_sha256": "ed6e6b56ae3a5c2365d36da01a092336742444f6f1decb144fcfbc5c1cf75ddf",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67259",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/05/30/152-2013",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61061,
+    11513,
+    10043
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
