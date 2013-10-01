@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10047,
+  "title": "Për caktimin e datës së zgjedhjeve për kryetar bashkie, bashkia Korçë, qarku Korçë",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8332",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-09-20",
+  "published": "2013-10-01",
+  "in_force": "2013-10-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/cefb49e7a2d3ac7239486ec8ae86470de27ba434c9e313f386b2e9edb52fe511.docx",
+  "source_sha256": "cefb49e7a2d3ac7239486ec8ae86470de27ba434c9e313f386b2e9edb52fe511",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10047",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/09/20/8332",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
