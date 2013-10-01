@@ -1,0 +1,1 @@
+2. Njësitë kryesore të institucioneve publike të arsimit të lartë organizojnë procesin e pranimit dhe të regjistrimit të aplikantëve në programet e studimit të ciklit të dytë “Master profesional” me kohë të pjesshme. Procesi monitorohet nga rektoratet dhe Drejtoria e Përgjithshme e Arsimit të Lartë në Ministrinë e Arsimit dhe Sportit.
