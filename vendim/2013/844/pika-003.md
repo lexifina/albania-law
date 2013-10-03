@@ -1,0 +1,1 @@
+3. Harton politikat, mbrojtëse dhe promovuese, për trashëgiminë kulturore, materiale ose shpirtërore, si dhe krijon hapësirat e nevojshme, ligjore e mbështetëse, për ruajtjen e kultivimin e kulturës së shkruar, për krijimtarinë artistike në përgjithësi, si dhe për të promovuar arritjet e kulturës shqiptare e për të rritur konkurrencën e produktit shqiptar kulturor përtej kufijve.

@@ -1,0 +1,1 @@
+6. Nëpërmjet strukturave të varësisë realizon regjistrimin, mbikëqyrjen dhe monitorimin e respektimit të të drejtave të autorëve dhe të të drejtave të tjera, të lidhura me të, nga subjektet, persona fizikë/juridikë, privatë a publikë, përdorues të pronësisë letrare, artistike e shkencore.

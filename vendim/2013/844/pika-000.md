@@ -1,0 +1,3 @@
+I. Miratimin e fushave të përgjegjësisë shtetërore të Ministrisë së Kulturës, si dhe të kompetencave për realizimin e tyre, sipas përcaktimeve të këtij vendimi.
+II. Ministri i Kulturës, në përputhje me Kushtetutën dhe kuadrin ligjor në fuqi, ushtron funksione dhe ka në kompetencë hartimin dhe ndjekjen e politikave, përgatitjen e akteve, ligjore dhe nënligjore, si dhe ushtrimin e shërbimeve të nevojshme në fushën e kulturës e të trashëgimisë kulturore.
+III. Ministria e Kulturës, në përputhje me drejtimet kryesore të politikës së përgjithshme shtetërore dhe me programin e Këshillit të Ministrave, ushtron veprimtarinë e saj në këto fusha përgjegjësie shtetërore:

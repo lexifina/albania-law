@@ -1,0 +1,1 @@
+1. Harton, programon dhe zhvillon politikat kombëtare të kulturës, të trashëgimisë kulturore, materiale dhe shpirtërore, të rritjes së tolerancës fetare e të dialogut kulturor dhe integrimit kulturor në familjen, evropiane dhe botërore, në përputhje me programin e qeverisë së Republikës së Shqipërisë.
