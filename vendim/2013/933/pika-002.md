@@ -1,0 +1,1 @@
+2. Përfaqësuesi ushtarak i Forcave të Armatosura të Republikës së Shqipërisë të jetë i emëruar me detyrë në strukturat e kohës së paqes (PE), të Shtabit të Operacioneve Speciale të NATO-s (NSHQ), në Chever, Mons, Belgjikë.

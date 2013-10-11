@@ -1,0 +1,1 @@
+1. Dërgimin me mision të 1 (një) përfaqësuesi ushtarak të Forcave të Armatosura të Republikës së Shqipërisë, në Kabul, Afganistan, në seksionin e zbulimit të Forcave të Operacioneve Speciale (SOFFC), të Shtabit të Operacioneve Speciale të NATO-s (NSHQ), në kuadër të operacionit ushtarak “ISAF”.

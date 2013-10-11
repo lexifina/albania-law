@@ -1,0 +1,1 @@
+4. Kohëzgjatja e këtij misioni është deri në 6 (gjashtë) muaj, afat i cili fillon të llogaritet nga data e dërgimit të përfaqësuesit ushtarak në Afganistan. Kohëzgjatjes së misionit i shtohen edhe ditët e qëndrimit për marrjen dhe dorëzimin e detyrës në zonën e operacionit.
