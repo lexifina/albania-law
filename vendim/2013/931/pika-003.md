@@ -1,0 +1,6 @@
+3. Task - Forca për Mbrojtjen e Territorit ka këto funksione:
+a) Analizimin e problematikës së ndërtimit dhe vlerësimin e nevojës për ndërhyrje emergjente, për masa të mbrojtjes në të gjithë territorin, si dhe në veçanti dhe me përparësi në zonat e përcaktuara, si zona të rëndësisë kombëtare, me ligj, akte nënligjore apo me vendim të Këshillit Kombëtar të Territorit (KKT).
+b) Evidentimin e zonave me interes kombëtar, në të cilat do të zbatohen masat e ndërhyrjes emergjente për rehabilitimin dhe mbrojtjen mjedisore të territorit.
+c) Miratimin projektplanit të veprimit të ndërhyrjeve në këto zona dhe në të gjithë territorin dhe bashkërendimin e punës për zbatimin e tij.
+ç) Përcaktimin e përparësive për zbatimin e ndërhyrjeve emergjente në të gjitha zonat dhe objektet, të cilat paraqesin karakteristika të veçanta kulturore, historike, sociale, arsimore, shëndetësore, mjedisore, turistike, industriale apo infrastrukturore etj., mjedisi i të cilave është dëmtuar/shkatërruar nga zhvillimi i ndërtimeve.
+d) Përcaktimin e objektivave e të masave për bashkërendimin e punës me organet e qeverisjes vendore dhe me strukturat e tjera, të specializuara, për monitorimin dhe analizimin e problematikës për realizimin e ndërhyrjeve konkrete.

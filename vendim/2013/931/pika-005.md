@@ -1,0 +1,1 @@
+5. Në mbledhjet e Task - Forcës për Mbrojtjen e Territorit ftohen të marrin pjesë përfaqësues të organeve të qeverisjes vendore dhe të institucioneve të tjera të interesuara, kur çmohet se pjesëmarrja e tyre do të jetë e vlefshme për përmbushjen e misionit të saj.
