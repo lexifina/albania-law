@@ -1,1 +1,0 @@
-5. Vendimi nr. 836, datë 3.12.2004 i Këshillit të Ministrave “Për përbërjen, organizimin dhe funksionimin e Këshillit të Rregullimit të Territorit të Republikës së Shqipërisë”, i ndryshuar, shfuqizohet.

@@ -1,1 +1,0 @@
-4. Brenda 15 ditëve kalendarike nga dita e zhvillimit të mbledhjes, Agjencia Kombëtare e Planifikimit të Territorit (AKPT), zbardh vendimet e KKT-së, të cilat ua dërgon për nënshkrim Ministrit të Punëve Publike dhe Transportit dhe Kryeministrit, me cilësinë e kryetarit të Komitetit.
