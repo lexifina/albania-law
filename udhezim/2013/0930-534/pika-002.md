@@ -1,0 +1,1 @@
+2. Brenda datës 7 tetor 2013, RKGJC-ja gjeneron formatin elektronik të ekstraktit të përbërësve zgjedhorë të zgjedhjeve të 3.11.2013, të ndarë sipas qendrave të votimit, duke shtuar dhe të gjithë shtetasit me vendbanim në bashkinë Korçë dhe komunën Karbunarë, të cilët në datën 3.11.2013 mbushin moshën 18 vjeç.

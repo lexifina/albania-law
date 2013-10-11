@@ -1,0 +1,1 @@
+12. Në rast se kryetari nuk përmbush detyrimet sipas pikës 4, 5, 6 dhe 7 të këtij udhëzimi deri në printimin e listës të datës 23 tetor 2013, DPGJC-ja kryen menjëherë ndarjen dhe/ose bashkimin e qendrave të votimit sipas kritereve të përcaktuara në ligj, të cilat reflektohen në listat e zgjedhësve të datës 3 nëntor 2013.

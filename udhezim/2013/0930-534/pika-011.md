@@ -1,0 +1,1 @@
+11. Zgjedhësit, të cilët kanë marrë njoftimin me shkrim nga ana e bashkisë/komunës dhe konstatojnë se në përbërësit e tyre zgjedhorë ka mospërputhje, i drejtohen zyrës së gjendjes civile përkatëse për të bërë rregullimet e mundshme brenda datës 23.10.2013, datë kur duhet të printohet lista përfundimtare e zgjedhësve.

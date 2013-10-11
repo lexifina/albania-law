@@ -1,0 +1,1 @@
+18. Për zbatimin e këtij udhëzimi ngarkohen Drejtoria e Përgjithshme e Gjendjes Civile, kryetari i bashkisë Korçë, i komunës Karbunarë, zyrat e gjendjes civile përkatëse dhe institucionet e tjera shtetërore që parashikohen në Kodin Zgjedhor.

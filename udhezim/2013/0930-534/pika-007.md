@@ -1,0 +1,1 @@
+7. Vendimet e kryetarit për ndarjen ose bashkimin e qendrave të votimit, si dhe ndryshimet e adresave të qendrave të votimit, nëse ka të tilla, do t’i dërgohen në formë shkresore zyrës së gjendjes civile për zbatim dhe Ministrisë së Brendshme, Drejtorisë së Përgjithshme të Gjendjes Civile për dijeni, jo më vonë se 2 ditë nga marrja e informacionit nga zyra e gjendjes civile.
