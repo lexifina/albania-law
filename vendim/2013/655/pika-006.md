@@ -1,1 +1,0 @@
-6. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes nga shoqëria “Colacem Albania” sh.p.k., sipërfaqja e rehabilituar të hiqet nga kadastra minerare dhe të riregjistrohet fond pyjor dhe kullosor sipas mënyrës së rehabilitimit.

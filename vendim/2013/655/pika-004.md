@@ -1,1 +1,0 @@
-4. Vlera e sipërfaqes kullosore të hequr dhe e infrastrukturës së saj paguhet nga shoqëria “Colacem Albania” sh.p.k., në bazë të lidhjes 4 bashkëlidhur vendimit nr. 1064, datë 22.12.2010 të Këshillit të Ministrave “Për disa ndryshime në vendimin nr. 391, datë 21.6.2006 të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe të kullotave””.
