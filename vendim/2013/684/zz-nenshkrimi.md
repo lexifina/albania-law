@@ -1,3 +1,0 @@
-# Nënshkrimi
-Kryeministri
-Sali Berisha

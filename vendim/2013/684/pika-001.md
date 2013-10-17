@@ -1,1 +1,0 @@
-1. Lejimin e Ministrisë së Drejtësisë, si autoritet kontraktues, për kryerjen e procedurave të prokurimit publik me objekt “Mirëmbajtja e sistemit të mbikëqyrjes elektronike”, me fondet e miratuara në buxhetin e vitit 2013.
