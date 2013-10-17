@@ -1,1 +1,0 @@
-1. Dhënien e miratimit paraprak për lejimin e z. Sokol Ramadani, kryetar i Bordit të Komisionerëve të Entit Rregullator të Energjisë (ERE), që, pas lirimit nga detyra, të punësohet në funksione tekniko-menaxhuese pranë kompanisë “Energji Ashta” sh.a., Tiranë, Shqipëri.
