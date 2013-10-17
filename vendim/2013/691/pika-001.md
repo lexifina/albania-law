@@ -1,1 +1,0 @@
-1. Miratimin e bonusit prej 2 (dy) pikësh, për rezultatin teknik dhe financiar, në procedurën përzgjedhëse konkurruese për dhënien me koncesion të hidrocentralit “Selca 2 dhe Mesmal”, që i jepet shoqërisë “Kutrolli Nima” sh.p.k.
