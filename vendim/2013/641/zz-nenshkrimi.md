@@ -1,2 +1,0 @@
-# Nënshkrimi
-KRYEMINISTRI Sali Berisha
