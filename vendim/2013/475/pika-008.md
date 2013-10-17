@@ -1,1 +1,0 @@
-8. Përcaktimi i kategorisë së subjekteve të parashikuara në shkronjën “e” të pikës 7 të këtij vendimi, bëhet nga kryeinspektori, pas miratimi paraprak të inspektorit të përgjithshëm të Inspektoratit Qendror.

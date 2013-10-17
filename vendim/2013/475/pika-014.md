@@ -1,1 +1,0 @@
-14. Degët rajonale të ISHMT-së drejtohen nga kryeisnpektorët rajonalë. Kryeinspektori rajonal përfaqëson degën rajonale në marrëdhënie me të tretët, në nivelin e qarkut përkatës dhe është përgjegjës për organizimin dhe koordinimin e funksionimit, si dhe për cilësinë e efektivitetin e veprimtarisë së degës së tij.

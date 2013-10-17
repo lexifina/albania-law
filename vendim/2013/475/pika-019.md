@@ -1,1 +1,0 @@
-19. Vula e ISHMT-së në nivel qendror përmban dhe shënimin identifikues “Inspektorati Shtetëror i Mbikëqyrjes së Tregut, Drejtoria e Përgjithshme”, ndërsa vulat e degëve rajonale përmbajnë shënimin identifikues: Inspektorati Shtetëror i Mbikëqyrjes së Tregut, Dega Rajonale-(emrat përkatës të qarqeve)”.

@@ -1,1 +1,0 @@
-5. Kryeinspektori i ISHMT-së i raporton drejtpërdrejt ministrit përgjegjës për tregtinë, përveçse kur ministri ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi në aparatin e ministrisë përgjegjëse për tregtinë.

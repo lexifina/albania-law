@@ -1,1 +1,0 @@
-13. Degët rajonale që kanë në territorin e tyre pika të kalimit të kufirit bashkëpunojnë me organet e administratës doganore dhe organet e tjera përkatëse për arritjen e qëllimeve të inspektimit, sipas ligjit.

@@ -1,1 +1,0 @@
-22. Kryeinspektori i ISHMT-së, mbështetur nga njësitë përgjegjëse për shërbimet mbështetëse të Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës dhe në përputhje me kërkesat specifike për arsimin e inspektorëve, të miratuara nga Inspektorati Qendror, miraton kërkesat specifike për çdo vend pune në ISHMT.

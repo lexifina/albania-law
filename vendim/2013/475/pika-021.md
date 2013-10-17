@@ -1,1 +1,0 @@
-21. Ngarkohet Ministri i Ekonomisë, Tregtisë dhe Energjetikës që brenda një muaji nga hyrja në fuqi e këtij vendimi të marrë masat për propozimin e kryeinspektorit të ISHMT-së dhe të propozojë strukturën dhe organikën e ISHMT-së, sipas legjislacionit në fuqi.
