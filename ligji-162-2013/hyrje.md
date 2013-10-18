@@ -1,0 +1,7 @@
+LIGJ
+Nr. 162/2013
+PËR MIRATIMIN E MARRËVESHJES PËR KRYERJEN E SHËRBIMIT TË AUDITIMIT TË BORXHIT TË MINISTRIVE KUNDREJT BIZNESIT VENDAS DHE TË HUAJ
+Në mbështetje të neneve 81, pika 1, 83, pika 2, dhe 84, pika 4 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
