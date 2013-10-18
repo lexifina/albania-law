@@ -1,0 +1,1 @@
+1. Dhënien në përdorim Agjencisë së Kërkimit, Teknologjisë dhe Inovacionit të një pjese të katit të parë të ndërtesës së Agjencisë Telegrafike Shqiptare, sipas vendndodhjes së përcaktuar në planimetrinë që i bashkëlidhet këtij vendimi.
