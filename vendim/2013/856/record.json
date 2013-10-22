@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10096,
+  "title": "Për shfuqizimin e vendimit nr. 724, datë 28.8.2013 të Këshillit të Ministrave “Për miratimin e bonusit, në procedurën përzgjedhëse konkurruese që i jepet shoqërisë, për dhënien me koncesion të hidrocentralit “Katund i Vjetër dhe Reja e Velës””",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "856",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-09-30",
+  "published": "2013-10-22",
+  "in_force": "2013-10-22",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3fe7aa7ded8f18b57fdc6a0cbd07d0e2e04d1ab4d35d7797436b01e1a7a65ceb.docx",
+  "source_sha256": "3fe7aa7ded8f18b57fdc6a0cbd07d0e2e04d1ab4d35d7797436b01e1a7a65ceb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10096",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/09/30/856",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
