@@ -1,0 +1,1 @@
+13. Ndjekjen e procedurave për realizimin e të drejtave për arsimimin, punësimin, kujdesin shëndetësor e shoqëror, strehimin dhe bashkimin familjar të personave, që kanë përfituar azil në Republikën e Shqipërisë.

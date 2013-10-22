@@ -1,0 +1,1 @@
+23. Kryerjen e procedurave të prokurimit, në emër dhe për llogari të Kryeministrisë, ministrive, institucioneve në varësi të Kryeministrit dhe të ministrave të linjës, për blerjen e mallrave dhe të shërbimeve.

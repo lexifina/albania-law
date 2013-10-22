@@ -1,0 +1,1 @@
+15. Pajisjen e të gjithë shtetasve shqiptarë, personave pa shtetësi dhe shtetasve të huaj me qëndrim të përhershëm, brenda territorit të Republikës së Shqipërisë, me një dokument identifikues unik, me pasaportë, si dhe përcaktimin e kuptimit, të mënyrës së formimit e të sferës së përdorimit të numrit personal.

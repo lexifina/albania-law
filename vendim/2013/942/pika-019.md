@@ -1,0 +1,1 @@
+19. Ministria e Punëve të Brendshme, nëpërmjet institucionit të prefektit bashkërendon veprimtarinë e institucioneve qendrore në nivel vendor dhe funksionet e deleguara të tyre me njësitë e qeverisjes vendore në komuna, bashki e qarqe.

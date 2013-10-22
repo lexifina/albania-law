@@ -1,0 +1,3 @@
+I. Miratimin e misionit dhe të fushës së përgjegjësisë shtetërore të Ministrisë së Punëve të Brendshme, sipas përcaktimeve të këtij vendimi.
+II. Ministria e Punëve të Brendshme është organi përgjegjës për zbatimin e politikës së punëve të brendshme në Republikën e Shqipërisë, është aparati organizativ dhe profesional, që i shërben interesit publik me paanësi, duke zbatuar legjislacionin në fuqi, duke kryer shërbimet publike dhe duke hartuar e zbatuar politikat e përgjithshme shtetërore në fushën e punëve të brendshme.
+III. Ministria e Punëve të Brendshme ushtron veprimtarinë e saj në këto fusha përgjegjësie shtetërore në përputhje me legjislacionin përkatës:

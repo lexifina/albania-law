@@ -1,0 +1,1 @@
+20. Vendosjen e bazave juridike dhe administrative për rregullimin e marrëdhënieve që lindin, ekzistojnë dhe shuhen gjatë administrimit, mirëmbajtjes dhe kontrollit të pronësisë në rezervat materiale të shtetit.
