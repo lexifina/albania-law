@@ -1,0 +1,1 @@
+13. Siguron, administron dhe shpërndan informacionin bujqësor, duke vendosur një marrëdhënie të qëndrueshme dhe bashkëpunuese me fermerët. Kujdeset për transferimin e teknologjive bujqësore dhe planifikon zbatimin e teknologjive të reja.

@@ -1,0 +1,3 @@
+I. Miratimin e misionit, të fushave të përgjegjësisë shtetërore të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave dhe të kompetencave në përmbushje të tyre, sipas përcaktimeve të këtij vendimi.
+II. Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave ka për mision zbatimin e programit politik të Këshillit të Ministrave në fushat e bujqësisë, zhvillimit rural, sigurisë ushqimore e mbrojtjes së konsumatorit, administrimit të ujërave, peshkimit dhe akuakulturës.
+III. Për të përmbushur misionin e sipërpërmendur, në përputhje me Kushtetutën e Shqipërisë dhe legjislacionin në fuqi, Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave ushtron këto kompetenca:
