@@ -1,0 +1,1 @@
+10. Bashkërendon, programon dhe monitoron ndihmën e Bashkimit Evropian për Republikën e Shqipërisë (fondet IPA, instrumenti TAIEX, si dhe programe të tjera ndihme, që mund t’i ofrohen Republikës së Shqipërisë), sipas përparësive të vendit tonë, në kuadër të procesit të integrimit evropian.

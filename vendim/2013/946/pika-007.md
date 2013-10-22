@@ -1,0 +1,1 @@
+7. Vlerëson përputhshmërinë e projektakteve normative të propozuara nga ministritë e linjës dhe institucionet e tjera qendrore me të drejtën e Bashkimit Evropian, të cilat duhet të pasqyrojnë në relacionin shoqërues shkallën e përafrimit dhe referencat për legjislacionin përkatës dhe jurisprudencën e Bashkimit Evropian.

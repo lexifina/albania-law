@@ -1,0 +1,1 @@
+6. Harton, në bashkëpunim me ministritë e linjës dhe institucionet e tjera qendrore, planin kombëtar për përafrimin e legjislacionit shqiptar me atë të Bashkimit Evropian, si dhe kontrollon zbatimin e këtij plani dhe të programeve të tjera të lidhura me partneritetin evropian.
