@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10132,
+  "title": "Për emërimin e administratorit të përkohshëm të shoqërisë “CEZ Shpërndarje” sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "118",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-10-18",
+  "published": "2013-10-24",
+  "in_force": "2013-10-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5ae8a36fcb22b60aef5e67742af06245a846b359e238736a13ab47d88edc8cf3.docx",
+  "source_sha256": "5ae8a36fcb22b60aef5e67742af06245a846b359e238736a13ab47d88edc8cf3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10132",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/10/18/118",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
