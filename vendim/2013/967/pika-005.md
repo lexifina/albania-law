@@ -1,0 +1,1 @@
+5. Komiteti i Menaxhimit të Integruar të Mbetjeve, me anë të anëtarëve të tij pranë ministrive, siguron që çdo ministri të ketë një politikë të përbashkët dhe të unifikuar për administrimin e mbetjeve dhe mbrojtjen e mjedisit.

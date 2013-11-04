@@ -1,0 +1,1 @@
+3. Komiteti i Menaxhimit të Integruar të Mbetjeve mblidhet me thirrjen e kryetarit dhe mbledhjet e këtij Komiteti zhvillohen sipas rregullave të përcaktuara në ligjin nr. 8480, datë 25.8.1999 “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”.

@@ -1,0 +1,13 @@
+2. Komiteti i Menaxhimit të Integruar të Mbetjeve kryesohet nga zëvendësministri i Mjedisit dhe në përbërje ka këta anëtarë:
+- Zëvendësministrin e Punëve të Brendshme;
+- Zëvendësministrin e Mbrojtjes;
+- Zëvendësministrin e Financave;
+- Zëvendësministrin e Transportit dhe Infrastrukturës;
+- Zëvendësministrin e Arsimit dhe Sportit;
+- Zëvendësministrin e Zhvillimit Urban dhe Turizmit;
+- Zëvendësministrin e Drejtësisë;
+- Zëvendësministrin e Shëndetësisë;
+- Zëvendësministrin e Energjisë dhe Industrisë;
+- Zëvendësministrin e Integrimit Evropian;
+- Zëvendësministrin e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave;
+- Përfaqësuesin e kabinetit të Ministrit të Shtetit për Çështjet Vendore.

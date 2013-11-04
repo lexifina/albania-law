@@ -1,0 +1,1 @@
+7. Në rastet kur ka një kosto të menaxhimit të mbetjeve, që lidhet me përputhshmërinë me standardet mjedisore, Ministria e Mjedisit siguron që ministria e prekur të llogaritë dhe t’i raportojë paraprakisht Komitetit për koston përkatëse.

@@ -1,0 +1,1 @@
+6. Komiteti i Menaxhimit të Integruar të Mbetjeve garanton një konsultim ndërministror, gjatë të cilit trajtohen administrimi i mbetjeve dhe mjedisi në një nivel të lartë politik, duke siguruar që këto çështje të merren parasysh nga të gjitha ministritë.
