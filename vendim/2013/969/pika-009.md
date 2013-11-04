@@ -1,0 +1,1 @@
+9. Grupi i punës ngarkohet t’i dërgojë shoqërisë CEZ a.s., njoftimin për fillimin e procedurave të negociatave për zgjidhjen e mosmarrëveshjeve, si dhe t’i kërkojë shoqërisë CEZ a.s., pezullimin e procedurave të arbitrazhit deri në përfundimin e negociatave për zgjidhje me mirëkuptim, sipas afateve për të cilat është rënë dakord ndërmjet palëve.

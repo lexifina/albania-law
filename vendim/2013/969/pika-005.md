@@ -1,0 +1,1 @@
+5. Tërësia e përfaqësuesve dhe ekspertëve, sipas pikave 2 dhe 3, do të përbëjë grupin e punës, i cili do të përfaqësojë Republikën e Shqipërisë në negocimin dhe mbrojtjen e interesave në mosmarrëveshjen me shoqërinë CEZ a.s.

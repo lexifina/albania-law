@@ -1,0 +1,1 @@
+1. Ngrirjen e grupit ndërinstitucional të punës për nisjen e procedurës së negocimit dhe mbrojtjen e interesave të Republikës së Shqipërisë në mosmarrëveshjen me shoqërinë CEZ a.s., që lidhet me Traktatin e Kartës së Energjisë dhe Marrëveshjen e Shitjes së Aksioneve, të miratuar me ligjin nr. 10 116, datë 23.4.2009.

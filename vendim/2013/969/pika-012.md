@@ -1,0 +1,1 @@
+12. Shpenzimet, që do të nevojiten për ndjekjen e kësaj procedure, ku përfshihen tarifat e studios ligjore, tarifat e ekspertëve, kostot e procedimeve të arbitrazhit ndërkombëtar, si dhe shpenzimet e tjera për grupin e punës, të përballohen nga fondi rezervë i buxhetit.

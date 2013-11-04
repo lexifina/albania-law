@@ -1,0 +1,1 @@
+7. Grupi i punës do të këshillohet nga studioja ligjore ndërkombëtare “Derains & Gharavi”, e kontraktuar për përfaqësimin e shtetit shqiptar në çështjen e arbitrazhit ndërkombëtar të filluar nga shoqëria CEZ a.s., si dhe nga ekspertë ose shoqëri të tjera teknike, financiare, që janë kontraktuar ose do të kontraktohen në funksion të këtij procesi.
