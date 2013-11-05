@@ -1,0 +1,1 @@
+4. Për autorizimet e lëshuara nga Sekretari i Përgjithshëm deri në miratimin e këtij urdhri të ri, të cilat janë përdorur ose përdoren për përfaqësim në proceset gjyqësore, efektet e urdhrit nr. 254, datë 26.7.2012 “Për delegim kompetence”, do të shtrihen edhe pas miratimit të këtij urdhri, deri në përfundimin e procesit gjyqësor.
