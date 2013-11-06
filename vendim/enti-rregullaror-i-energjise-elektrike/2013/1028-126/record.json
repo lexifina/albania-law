@@ -1,0 +1,28 @@
+{
+  "qbz_id": 10173,
+  "title": "Mbi shqyrtimin e kërkesës së shoqërive “Hec Ulëz-Shkopet” sh.a. dhe “Hec Bistrica 1, Bistrica 2” sh.a., për transferimin e licencave të prodhimit, tregtimit dhe furnizuesit të kualifikuar të energjisë elektrike nga këto shoqëri te shoqëria “Kurum International” sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "126",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-10-28",
+  "published": "2013-11-06",
+  "in_force": "2013-11-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/66b5c554fd882812f68ea8777e9d02e1157199293a10f7ee6252d6d8bbee5f6c.docx",
+  "source_sha256": "66b5c554fd882812f68ea8777e9d02e1157199293a10f7ee6252d6d8bbee5f6c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10173",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/10/28/126",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26025
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
