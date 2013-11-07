@@ -1,0 +1,1 @@
+2. Në ushtrimin e kësaj kompetence, Drejtori i Përgjithshëm i Rezervave Materiale të Shtetit të zbatojë kriteret e përcaktuara në vendimin e Këshillit të Ministrave nr. 997, datë 10.12.2010 “Për trajtimin financiar të punonjësve që dërgohen me shërbim jashtë qendrës së punës, brenda vendit”, të ndryshuar. 7639

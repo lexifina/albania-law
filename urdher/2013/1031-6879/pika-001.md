@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Drejtorisë së Përgjithshme të Rezervave Materiale të Shtetit jashtë qendrës së punës, brenda vendit në largësi mbi 100 km, të lëshohen nga Drejtori i Përgjithshëm i Rezervave Materiale të Shtetit, z. Irfan Dashi.
