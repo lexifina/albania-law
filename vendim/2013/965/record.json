@@ -1,0 +1,29 @@
+{
+  "qbz_id": 10177,
+  "title": "Për  ndryshimin  e  përgjegjësisë  së  administrimit,  nga Ministria e Mbrojtjes te Ministria e Financave dhe Ministria e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes,  të pronës nr.  37,  me  emërtimin  “Ministria  e  Mbrojtjes”,  me vendndodhje në bulevardin “Dëshmorët  e Kombit”,  Tiranë, dhe për një ndryshim në vendimin nr. 515, datë 18.7.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi    administrimi    Ministrisë    së    Mbrojtjes”,    të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "965",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-10-25",
+  "published": "2013-11-07",
+  "in_force": "2013-11-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/c6bb5984edcde6172bc9a2443fe2db52a34f21a047b727cdf0bb5c173ab73538.docx",
+  "source_sha256": "c6bb5984edcde6172bc9a2443fe2db52a34f21a047b727cdf0bb5c173ab73538",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10177",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/10/25/965",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    59897,
+    11068
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
