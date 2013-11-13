@@ -1,0 +1,7 @@
+# Neni 4
+Masat për sigurinë
+1. Ministri, nëpërmjet autoritetit, siguron dhe monitoron që tunelet rrugore, të ndodhura në territorin e Republikës së Shqipërisë, brenda fushës së zbatimit të këtij ligji, të plotësojnë kërkesat administrative dhe teknike në një nivel të mjaftueshëm të sigurisë, të parashtruara në shtojcën I, që i bashkëlidhet këtij ligji.
+2. Kur disa kërkesa strukturore të parashikuara në shtojcën I, që i bashkëlidhet këtij ligji, mund të plotësohen vetëm nëpërmjet zgjidhjeve teknike, të cilat ose nuk mund të arrihen ose mund të arrihen vetëm me kosto më të lartë, autoriteti mund të pranojë zbatimin e masave për parandalimin dhe uljen e incidenteve apo aksidenteve rrugore, si një alternativë e zbatimit të këtyre kërkesave, duke u siguruar që këto masa alternative do të rezultojnë në një mbrojtje të barasvlershme ose më të lartë. Efektshmëria e këtyre masave tregohet me anë të një analize të rreziqeve, realizuar në përputhje me nenin 14 të këtij ligji.
+Rastet e zgjidhjeve teknike vetëm me kosto me të lartë përcaktohen në aktet nënligjore, që do të dalin në zbatim të këtij ligji.
+Autoriteti informon ministrin për masat e uljes së rreziqeve të pranuara si një zgjidhje alternative dhe justifikon vendimin e tij. Ky paragraf nuk duhet të aplikohet për tunelet në fazën e projektimit, siç përcaktohet në nenin 10 të këtij ligji.
+3. Ministri i kërkon autoritetit të specifikojë masa më strikte, të cilat rritin sigurinë në tunelet rrugore, në përputhje me dispozitat e këtij ligji.

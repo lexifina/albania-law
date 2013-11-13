@@ -1,0 +1,6 @@
+# Neni 22
+Raportet e incidenteve, aksidenteve dhe menaxhimi i të dhënave
+1. Autoriteti/menaxheri i tunelit dhe oficeri i sigurisë, pas mbledhjes së informacionit, marrin masat e nevojshme për të përgatitur një raport për çdo aksident fatal të ndodhur në një tunel rrugor, sipas standardit ligjor në fuqi. Oficeri i sigurisë përfshin në këtë raport fotot dhe diagramet vizive të vendit të aksidentit dhe çdo informacion në lidhje me periudhën kohore mes aksidentit e regjistrimit të tij dhe për ardhjen e shërbimeve emergjente.
+2. Raporti i aksidentit, i përgatitur sipas pikës 1 të këtij neni, ruhet për 10 vjet dhe është i vlefshëm për ministrinë/autoritetin, për personat e autorizuar për kontroll e institucionet e tjera të ngarkuara me ligj sa herë kërkohen prej tyre.
+3. Raporti i aksidentit nuk zëvendësohet me një raport tjetër, i cili mund të ketë lidhje me menaxhimin e dëmit, i cili kërkohet nga legjislacioni kombëtar ose ai ndërkombëtar.
+4. Sa herë që ndodh ndonjë incident që dëmton pronën ose mjedisin në tunelet rrugore oficeri i sigurisë, pas mbledhjes së informacionit, përgatit një raport dhe ia dorëzon nga një kopje të tij menaxherit të tunelit. Dëmtuesi ua paguan dëmin menjëherë, sipas akteve ligjore dhe nënligjore në fuqi, organeve kompetente të tunelit rrugor.

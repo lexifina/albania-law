@@ -1,0 +1,3 @@
+# Neni 2
+Objekti dhe fusha e veprimit të ligjit
+Ligji rregullon, disiplinon dhe monitoron menaxhimin e trafikut dhe të sigurisë rrugore në tunelet rrugore, të ndodhura në territorin shqiptar, përcakton kompetencat, përgjegjësitë dhe detyrimet e enteve pronare të rrugëve, përdoruesve të rrugës, si dhe operatorëve publikë/privatë dhe mbikëqyrjen e zbatimit të ligjit. Ky ligj zbatohet për të gjitha tunelet rrugore të rrjetit rrugor kombëtar, si pjesë integrale e rrjetit rrugor transeuropian-Rrjeti Ndërkombëtar i Rrugëve E, me gjatësi mbi 500 m, qofshin ata në fazë planifikimi, projektimi, ndërtimi apo operimi. Për sigurinë në tunelet rrugore zbatohet ky ligj dhe aktet e tjera ligjore në fuqi.

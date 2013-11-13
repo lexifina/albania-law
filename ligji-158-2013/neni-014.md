@@ -1,0 +1,4 @@
+# Neni 14
+Analizat e rrezikut
+1. Analizat e rrezikut, kur është e nevojshme, duhet të kryhen nga një subjekt që ka një pavarësi funksionale nga menaxheri i tunelit. Përmbajtja dhe rezultatet e analizave të rrezikut duhet të jenë përfshirë në dokumentet e dosjes së sigurisë që i paraqitet autoritetit. Bëhet fjalë për analizat e rrezikut për një tunel të dhënë, që merr parasysh tërësinë e faktorëve të projektimit dhe kushteve të qarkullimit që kanë një ndikim mbi sigurinë, sidomos karakteristikat dhe lloji i qarkullimit, gjatësia dhe gjeometria e tunelit, si dhe numri i mjeteve të rënda të parashikuara në ditë.
+2. Autoriteti duhet të sigurojë që është përdorur një metodologji e detajuar dhe e mirëpërcaktuar në nivel kombëtar, e cila korrespondon me praktikat më të mira të mundshme, e miratuar nga aktet nënligjore në zbatim të këtij ligji.
