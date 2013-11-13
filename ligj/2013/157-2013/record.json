@@ -1,0 +1,30 @@
+{
+  "qbz_id": 10148,
+  "title": "Për masat kundër financimit të terrorizmit",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "157-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-10-10",
+  "published": "2013-10-29",
+  "in_force": "2013-11-13",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/33da721ca346870b7cfcc68e8a8b3fff0568b0e7494ad797505595bce59f3b7f.docx",
+  "source_sha256": "33da721ca346870b7cfcc68e8a8b3fff0568b0e7494ad797505595bce59f3b7f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10148",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/10/10/157-2013",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26399,
+    20301,
+    61063
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
