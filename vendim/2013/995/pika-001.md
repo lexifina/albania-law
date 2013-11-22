@@ -1,0 +1,1 @@
+1. Ministrisë së Mirëqenies Sociale dhe Rinisë, në buxhetin e vitit 2013, t’i shtohet fondi prej 500 000 (pesëqind mijë) lekësh, për dhënien e ndihmës financiare familjes së të ndjerit Lirak Bejko, ish-i dënuar politik, i vetëflijuar gjatë grevës së urisë në nëntor 2012.
