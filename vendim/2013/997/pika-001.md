@@ -1,0 +1,1 @@
+1. Lejimin e Muzeut Kombëtar të Artit Mesjetar, Korçë, të vazhdojë kryerjen e procedurës së prokurimit publik, me fond limit 387 000 (treqind e tetëdhjetë e shtatë mijë) lekë, pa TVSH, për shërbimin me roje civile, me fondet e miratuara në buxhetin e këtij viti.
