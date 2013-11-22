@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Mbrojtjes të zhvillojë procedurën e prokurimit, me objekt “Mirëmbajtje e sistemit të vëzhgimit të integruar të hapësirës detare”, me fond limit 85 000 000 (tetëdhjetë e pesë milionë) lekë, pa TVSH.
