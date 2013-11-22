@@ -1,1 +1,0 @@
-2. IMK-ja ka për objekt të veprimtarisë së tij mbrojtjen, konservimin, restaurimin, rijetëzimin dhe propagandimin e trashëgimisë kulturore materiale në të gjithë territorin e Republikës së Shqipërisë, në përputhje me ligjin nr.9048, datë 7.4.2003 “Për trashëgiminë kulturore”.
