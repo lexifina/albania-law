@@ -1,0 +1,1 @@
+1. Objekti me emërtimin “Dampa e hirave-TEC”, pjesë përbërëse e pronës “Kombinati Energjetik sh.a. Elbasan”, të kalojë në pronësi të bashkisë Elbasan të qarkut të Elbasanit, për trajtimin e mbetjeve urbane, sipas planvendosjes dhe formularit bashkëlidhur këtij vendimi.
