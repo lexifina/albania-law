@@ -1,1 +1,0 @@
-8. Këshilli i Statistikave, gjatë ushtrimit të funksionit të vet udhëhiqet nga qëllimi i rritjes së cilësisë së statistikave zyrtare dhe i ruajtjes së besimit të publikut në punën e Institutit të Statistikave.
