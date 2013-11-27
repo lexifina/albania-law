@@ -1,0 +1,7 @@
+LIGJ
+Nr. 159/2013
+PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË SHTETIT TË KUVAJTIT PËR SHËRBIMIN AJROR
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e të Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
