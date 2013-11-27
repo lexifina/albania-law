@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10217,
+  "title": "Për dhënien e miratimit paraprak për kryerjen e veprimtarisë shtesë nga Banka Raiffeisen sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "63",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2013-10-30",
+  "published": "2013-11-27",
+  "in_force": "2013-11-27",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/e82292147f234593b619ab860540a3bfa67f77d5db20e7eecb0398fec3ae46c0.docx",
+  "source_sha256": "e82292147f234593b619ab860540a3bfa67f77d5db20e7eecb0398fec3ae46c0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10217",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/10/30/63",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
