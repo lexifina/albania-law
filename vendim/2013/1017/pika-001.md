@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitin 2013, në programin “Ekzekutimi i pagesave të ndryshme”, në kategorinë e shpenzimeve korente, t’i shtohet fondi prej 85 000 (tetëdhjetë e pesë mijë) eurosh, për kryerjen e pagesave ndaj “Deloitte Albania” sh.p.k., për shërbimin e auditimit të borxhit të ministrive kundrejt biznesit vendas dhe të huaj.
