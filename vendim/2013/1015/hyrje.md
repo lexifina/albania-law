@@ -1,0 +1,5 @@
+VENDIM
+Nr. 1015, datë 27.11.2013
+PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, OBJEKTE, QË PREKEN NGA REHABILITIMI MJEDISOR I VIJËS SË MBROJTUR BREGDETARE, UJË I FTOHTË - TUNELI, BASHKIA E VLORËS
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 5, pika 1, 8, shkronjat “ç” e “ë”, 20 e 21 të ligjit nr. 8561, datë 22.12.1999 “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë, pronë private, për interes publik”, të vendimit nr. 1, datë 8.10.2013 të Këshillit Kombëtar të Territorit “Për masat emergjente të ndërhyrjes mbrojtëse dhe rehabilituese mjedisore në disa zona me rëndësi kombëtare dhe procedurën e hartimit të planit të integruar sektorial për brezin bregdetar” dhe të vendimit nr. 1, datë 23.6.2004 të Këshillit të Rregullimit të Territorit në Republikën e Shqipërisë (KRRTRSH) “Për miratimin e planit të qendrës së Vlorës”, me propozimin e ministrit të Zhvillimit Urban dhe Turizmit dhe të ministrit të Mjedisit, Këshilli i Ministrave
+VENDOSI:
