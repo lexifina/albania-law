@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Financave, si autoritet kontraktues, për kryerjen e procedurave të prokurimit publik, me fondet e miratuara në buxhetin e vitit 2013 për këtë ministri, për objektin sipas aneksit 1 që i bashkëlidhet këtij vendimi.
