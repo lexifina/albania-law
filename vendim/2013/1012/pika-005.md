@@ -1,0 +1,1 @@
+5. Bashkëpunon dhe bashkërendon veprimtarinë e organeve e të institucioneve shtetërore të pavarura, në qendër dhe në nivel vendor, për parandalimin dhe luftën kundër korrupsionit, si dhe përfaqëson qeverinë në marrëdhëniet me organet kushtetuese, në kuadër të bashkërendimit të punës në këtë fushë.

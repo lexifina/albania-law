@@ -1,0 +1,3 @@
+I. Miratimin e fushave të përgjegjësisë shtetërore të ministrit të Shtetit për Çështjet Vendore, si dhe të kompetencave për realizimin e tyre, sipas përcaktimeve të këtij vendimi.
+II. Ministri i Shtetit për Çështjet Vendore, në përputhje me Kushtetutën dhe legjislacionin në fuqi, bashkërendon punën për hartimin e politikave dhe përgatitjen e akteve ligjore e nënligjore për parandalimin dhe luftën kundër korrupsionit, reformën e decentralizimit të qeverisjes dhe reformën administrativo-territoriale.
+III. Ministri i Shtetit për Çështjet Vendore, për realizimin e fushës së përgjegjësisë së tij, ushtron këto kompetenca:

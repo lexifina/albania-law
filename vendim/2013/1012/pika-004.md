@@ -1,0 +1,1 @@
+4. Në cilësinë e Koordinatorit Kombëtar kundër Korrupsionit, është përgjegjës për hartimin e Strategjisë Kombëtare kundër Korrupsionit e të planit të veprimit në kuadër të kësaj strategjie, si dhe monitoron e raporton për progresin e zbatimit të këtyre dy dokumenteve të politikave shtetërore antikorrupsion.

@@ -1,0 +1,1 @@
+1. Në cilësinë e Koordinatorit Kombëtar kundër Korrupsionit, bashkërendon punën, ndjek dhe përgjigjet për realizimin e politikës së përgjithshme shtetërore në fushën e parandalimit dhe luftimit të korrupsionit.

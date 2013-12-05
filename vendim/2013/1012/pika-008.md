@@ -1,0 +1,1 @@
+8. Bashkërendon punën dhe mbështet veprimtaritë shtetërore dhe/ose të subjekteve të tjera për trajnimin, përgatitjen profesionale, aftësimin dhe specializimin e organeve shtetërore dhe të administratës publike në parandalimin dhe luftën ndaj korrupsionit.

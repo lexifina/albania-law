@@ -1,0 +1,1 @@
+3. Jep mendime dhe opinione të specializuara për projektaktet ligjore dhe aktet nënligjore me karakter normativ të Këshillit të Ministrave, të ministrave dhe të drejtuesve të institucioneve të tjera qendrore, që kanë të bëjnë me parandalimin dhe luftën kundër korrupsionit.
