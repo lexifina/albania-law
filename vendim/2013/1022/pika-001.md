@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Shëndetësisë, si autoritet kontraktues, për kryerjen e procedurave të prokurimit publik për disa institucione të varësisë, me fondet e miratuara në buxhetin e vitit 2013 për këtë ministri, për objektet sipas aneksit 1 që i bashkëlidhet këtij vendimi.
