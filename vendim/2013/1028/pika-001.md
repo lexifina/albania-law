@@ -1,0 +1,1 @@
+1. Pjesëmarrjen në stërvitjen shumëkombëshe të një kompanie këmbësorie të Komandës së Forcës Tokësore dhe të një toge të Policisë Ushtarake të Forcave të Armatosura të Republikës së Shqipërisë, me personel 150 ushtarakë, në Qendrën e Bashkuar Ndërkombëtare të Gatishmërisë (JMRC) në Hohenfels, Gjermani.
