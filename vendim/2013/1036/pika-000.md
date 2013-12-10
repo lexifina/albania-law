@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim (BERZH), në lidhje me grantet e investimit nga llogaria EU/IPA 2011 dhe llogaria EU/IPA 2010 për projektin e rrugëve rajonale dhe lokale, me një grant prej 34 068 750 (tridhjetë e katër milionë e gjashtëdhjetë e tetë mijë e shtatëqind e pesëdhjetë) eurosh, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
