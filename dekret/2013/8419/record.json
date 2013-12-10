@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10257,
+  "title": "Për një ndryshim në dekretin nr. 8389, datë 13.11.2013 “Për dhënie të shtetësisë shqiptare”",
+  "type": "Dekret",
+  "kind": "Akt ndryshues",
+  "number": "8419",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2013-12-02",
+  "published": "2013-12-10",
+  "in_force": "2013-12-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9a3fad852fd73ace2a0b6b59cb3ea102b0232454c04fb43bb9e780e3a9305b73.docx",
+  "source_sha256": "9a3fad852fd73ace2a0b6b59cb3ea102b0232454c04fb43bb9e780e3a9305b73",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10257",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2013/12/02/8419",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
