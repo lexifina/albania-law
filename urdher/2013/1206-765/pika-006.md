@@ -1,0 +1,1 @@
+6. Komiteti ad hoc i propozon Ministrit të Drejtësisë emërimin e kandidatit të vlerësuar maksimalisht, bazuar në përvojën profesionale, publikimet shkencore dhe aftësitë e veçanta të tij. Përzgjedhja e kandidatit bëhet nëpërmjet një procesi transparent e të drejtë, si dhe duke respektuar parimet e shanseve të barabarta, të meritës, aftësive profesionale e mosdiskiriminimit.
