@@ -1,0 +1,1 @@
+1. Zëvendësministrit të Mbrojtjes, zotit Dritan Hila, i delegohet kompetenca për nënshkrimin e autorizimeve për përfaqësimin e Ministrisë së Mbrojtjes në proceset gjyqësore, të padive të ngritura nga Ministria e Mbrojtjes, të ankimeve në gjykatën e apelit dhe rekurseve në Gjykatën e Lartë, ku palë e paditur/paditëse është Ministria e Mbrojtjes.
