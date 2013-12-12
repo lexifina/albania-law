@@ -1,0 +1,28 @@
+{
+  "qbz_id": 10273,
+  "title": "Për shtyrjen e afatit për realizimin e kushteve të vendosura nga ERE shoqërisë “Albanian Green Energy” sh.p.k",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "138",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2013-11-15",
+  "published": "2013-12-12",
+  "in_force": "2013-12-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5ddd94f66183b911fedf5ace04893fe0d1e20b3c9321373cbe46001e05380300.docx",
+  "source_sha256": "5ddd94f66183b911fedf5ace04893fe0d1e20b3c9321373cbe46001e05380300",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10273",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/11/15/138",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    10373
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
