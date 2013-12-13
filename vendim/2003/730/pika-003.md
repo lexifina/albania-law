@@ -1,0 +1,1 @@
+3. KKP-së, nga organizatat e punëdhënësve dhe të punëmarrësve, si dhe nga administrata publike, t’i vihen në dispozicion të gjitha informacionet dhe të dhënat e nevojshme, që kanë lidhje me objektin e funksionimit të saj për zhvillimin e këshillimeve.

@@ -1,0 +1,1 @@
+15. Për funksionimin e KKP-së, në Ministrinë e Punës dhe të Çështjeve Sociale, ngrihet sekretariati, i përbërë nga tre sekretarë, të cilët janë nëpunës të administratës të kësaj ministrie, respektivisht nga një për çdo palë të përfaqësuar në këtë këshill. Për emërimin e sekretarëve të KKP-së merret dhe mendimi i partnerëve socialë.

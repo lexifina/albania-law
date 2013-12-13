@@ -1,0 +1,1 @@
+8. KKP-ja mblidhet, në përputhje me programin e miratuar prej tij ose me kërkesën me shkrim të çdo pale, drejtuar kryetarit të KKP-së, sipas përcaktimit të bërë në rregulloren e brendshme të funksionimit.
