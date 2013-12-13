@@ -1,0 +1,32 @@
+{
+  "qbz_id": 10283,
+  "title": "Për funksionimin e Këshillit Kombëtar të punës dhe për caktimin e përfaqësuesve të Këshillit të Ministrave në këtë këshill",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "1039",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-12-04",
+  "published": "2013-12-13",
+  "in_force": "2013-12-13",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/6c2214b4e1be013e60455adcf55157417d5cc46d850484823a1838b4c8919920.docx",
+  "source_sha256": "6c2214b4e1be013e60455adcf55157417d5cc46d850484823a1838b4c8919920",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10283",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/12/04/1039",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    32237,
+    28050,
+    64026,
+    64528,
+    68033
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
