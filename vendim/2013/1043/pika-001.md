@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Mbrojtjes, si autoritet kontraktues, për zhvillimin e procedurës së prokurimit, me objekt “Blerje karburanti dhe vajrash lubrifikante”, me fond limit 55 827 570 (pesëdhjetë e pesë milionë e tetëqind e njëzet e shtatë mijë e pesëqind e shtatëdhjetë) lekë, pa TVSH, brenda datës 31 dhjetor 2013.
