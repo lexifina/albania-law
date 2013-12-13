@@ -1,0 +1,1 @@
+1. Lejimin e Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave (bordet e kullimit), si autoritet kontraktues, për vazhdimin e procedurave të prokurimit për disa ndërhyrje emergjente në objektet e kullimit dhe mbrojtjes nga përmbytja, sipas listës bashkëlidhur këtij vendimi.
