@@ -1,1 +1,0 @@
-18. Fondi i mbledhur nga kontributet e organizatave të punëdhënësve dhe të punëmarrësve të përdoret për financimin në masën 50 për qind të shpenzimeve, që parashikohen për kryerjen e studimeve, seminareve për çështjet në interes të këtyre organizatave, si dhe veprimtari të tjera brenda dhe jashtë vendit, të ngjashme me to.
