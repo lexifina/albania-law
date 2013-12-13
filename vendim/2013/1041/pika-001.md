@@ -1,0 +1,4 @@
+1. Rishpërndarje fondesh ndërmjet programeve, në buxhetin e vitit 2013, miratuar për Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, si më poshtë vijon:
+a) Në programin buxhetor 04250 “Zhvillimi rural duke mbështetur prodhimin bujqësor, blegtoral, agroindustrinë dhe marketingun”, artikulli 606, “Transfertë në buxhetet familjare”, të pakësohet fondi prej 89 500 000 (tetëdhjetë e nëntë milionë e pesëqind mijë) lekësh.
+b) Në programin buxhetor 04240 “Menaxhimi i infrastrukturës së kullimit dhe ujitjes”, artikulli 602, të shtohet fondi prej 85 500 000 (tetëdhjetë e pesë milionë e pesëqind mijë) lekësh për shlyerjen e detyrimeve të energjisë elektrike për hidrovorët.
+c) Në programin buxhetor 01110 “Planifikim, menaxhim administrimi” të shtohet fondi prej 4 000 000 (katër milionë) lekësh për pagesën e vendimeve gjyqësore të pashlyera.
