@@ -1,0 +1,5 @@
+VENDIM
+Nr. 1033, datë 27.11.2013
+PËR MIRATIMIN E MARRËVESHJES SË GRANTIT NR. TF014761 NDËRMJET SHQIPËRISË DHE BANKËS NDËRKOMBËTARE PËR RINDËRTIM DHE ZHVILLIM (IBRD) E SHOQATËS NDËRKOMBËTARE PËR ZHVILLIM (IDA), QË VEPROJNË SI ADMINISTRATORE TË FONDEVE GRANT TË SIGURUARA NGA DISA DONATORË, PËR PËRGATITJEN E PROJEKTIT TË BAZUAR NË REZULTATE PËR MIRËMBAJTJEN DHE SIGURINË RRUGORE
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 17 e 23 të ligjit nr. 8371, datë 9.7.1998 “Për lidhjen traktateve dhe marrëveshjeve ndërkombëtare”, me propozimin e ministrit të Punëve të Jashtme, Këshilli i Ministrave
+VENDOSI:

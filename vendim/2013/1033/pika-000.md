@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit nr. TF014761 ndërmjet Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD) e Shoqatës Ndërkombëtare për Zhvillim (IDA), që veprojnë si administratore të fondeve grant të siguruara nga disa donatorë, për përgatitjen e projektit të bazuar në rezultate për mirëmbajtjen dhe sigurinë rrugore, nëpërmjet një granti prej 700 000 (shtatëqind mijë) USD, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
