@@ -1,0 +1,1 @@
+1. Zotëruesit e lejeve minerare të shfrytëzimit të minierave apo zonave të veçanta të tyre, të përfituara konform parashikimeve të ligjit nr. 10 304, datë 15.7.2010 “Për sektorin minerar në Republikën e Shqipërisë”, mund të procedojnë me nënkontraktimin e së drejtës së shfrytëzimit, vetëm me miratim paraprak nga Ministria e Energjisë dhe Industrisë (MEI).

@@ -1,0 +1,1 @@
+5. Nëse zotëruesit e lejeve minerare nuk kërkojnë dhe nuk marrin miratimin e nënkontraktorëve, sipas parashikimeve më sipër nga ana e MEI-t do të merren masa administrative deri në revokimin e lejes minerare.

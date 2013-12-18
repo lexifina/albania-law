@@ -1,0 +1,1 @@
+4. Kërkesa për miratimin e nënkontraktorit sipas pikave 1, 2 dhe 3 të këtij urdhri, duhet të shoqërohet me dokumentecionin që provon kapacitetin ligjor, teknik e financiar të nënkontraktorit, në përputhje me kriteret ligjore të përcaktuara për zotëruesin e lejes minerare të shfrytëzimit.
