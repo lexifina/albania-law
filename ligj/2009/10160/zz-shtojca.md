@@ -46,79 +46,53 @@ Drejtues i Prokurorisë pranë Gjykatës së Apelit të Krimeve të Rënda
 Guvernator i Bankës së Shqipërisë
 22
 Komandant i Gardës së Republikës
-Lidhja 2: Për përfitimin financiar mujor të shërbimit të transportit, për disa funksione në institucionet e pavarura dhe pushtetin vendor
+Lidhja nr. 2
+Për përfitimin financiar mujor të shërbimit të transportit për disa funksione publike
 Nr.
-Kategoria e dytë
-Përfitimi financiar mujor
-(në lekë)
+Funksionet përfituese të kategorisë së dytë
+Përfitimi maksimal financiar mujor në lekë
 1
 Deputet
+40 000
 2
-Kryetar i bashkisë qendër qarku
-45 000
-3
 Kryetar i Autoritetit të Mbikëqyrjes Financiare
-35 000
+20 000
+3
+Kryetar i Autoritetit të Konkurrencës
+20 000
 4
-Kryetar i Komisionit të Konkurrencës
-35 000
+Kryetar i Komisionerit të Mbrojtjes së të Dhënave Personale
+20 000
 5
-Kryetar i Komisionit të Mbrojtjes së të Dhënave Personale
-35 000
+Kryetar i Komisionerit të Mbrojtjes nga Diskriminimi
+20 000
 6
 Kryetar i Komisionit të Shërbimit Civil
-35 000
+20 000
 7
-Kryetar i Këshillit Kombëtar të Radios dhe Televizionit
-35 000
+Kryetar i Autoritetit të Mediave Audiovizive
+20 000
 8
 Kryetar i Autoritetit të Komunikimeve Elektronike dhe Postare
-35 000
+20 000
 9
 Kryetar i Entit Rregullator të Energjisë
-35 000
+20 000
 10
 Kryetar i Entit Rregullator të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura
-35 000
+20 000
 11
-Kryetar i Inspektoratit të Deklarimit të Pasurive
-35 000
+Kryetar i Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive
+20 000
 12
 Kryetar i Komisionit Qendror të Zgjedhjeve
-35 000
-13
-Kryetar i Akademisë së Shkencave
-35 000
-14
-Rektor i universiteteve
-35 000
-15
-Zëvendëskryetar i Këshillit të Lartë të Drejtësisë
-35 000
-16
-Kryetar i Këshillit të Qarkut
-35 000
-17
-Gjyqtarë të Gjykatës së Lartë dhe të Gjykatës Kushtetuese
-35 000
-18
-Anëtarë të Komisionit Qendror të Zgjedhjeve
-35 000
-19
-Kryetar i Gjykatës Shkallës së Parë/Kryetar i Gjykatës së Apelit
-35 000
-20
-Drejtues i Prokurorisë pranë Gjykatës së Shkallës së Parë, Apelit
-35 000
-21
-Kryetar bashkie
-30 000
-22
-Dekan i universiteteve
 20 000
-23
-Avokat i Prokurimit Publik
-30 000
+13
+Zëvendëskryetar i Këshillit të Lartë të Drejtësisë
+20 000
+14
+Zëvendësministër
+15 000
 Lidhja 3: Për përfitimin financiar mujor të shërbimit të transportit, për disa funksione në institucionet e varësisë së Këshillit të Ministrave dhe ministrive
 Nr.
 Kategoria e dytë
