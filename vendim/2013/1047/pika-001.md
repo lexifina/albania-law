@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Policisë së Shtetit, si autoritet kontraktues, për kryerjen e procedurave të prokurimit, me objekt “Blerje e pajisjeve për mirëmbajtjen e sistemit datacom”, me fond limit 30 000 000 (tridhjetë milionë) lekë, me TVSH, të miratuar në buxhetin e vitit 2013.
