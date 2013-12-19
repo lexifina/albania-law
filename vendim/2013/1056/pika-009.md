@@ -1,0 +1,1 @@
+9. Për objektet, për të cilat është bërë shënimi “Proces legalizimi”, Autoritetit Rrugor Shqiptar të likuidojë, për efekt shpronësimi, vetëm pas përfundimit të procesit të legalizimit dhe atij të regjistrimit pranë Zyrës Vendore të Regjistrimit të Pasurive të Paluajtshme Fier, në bazë të dokumentacionit të plotë të pronësisë që do të paraqitet nga pronarët.
