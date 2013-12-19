@@ -6,7 +6,7 @@ Anëtarët e bordit, përveç kritereve të parashikuara në ligjin nr.10091, da
 a) Anëtarët e bordit, persona, që nuk e ushtrojnë profesionin në praktikë, duhet:
 i) të kenë figurë të pastër morale;
 ii) të zotërojnë njohuri të mjaftueshme dhe të kenë përvojë, së paku, 5 vite, për çështjet e auditimit ligjor dhe të kontabilitetit;
-iii) të mos kenë qenë anëtarë të organizatës profesionale të ekspertëve kontabël, të autorizuar, së paku, prej një periudhe prej tri vitesh para emërimit në pozicionin e anëtarit të bordit;
+iii) të mos kenë kryer auditime dhe të mos kenë qenë të punësuar apo të angazhuar në forma të tjera në një shoqëri auditimi prej të paktën tre vitesh para emërimit në pozicionin e anëtarit të bordit;
 iv) të mos kenë pasur të drejtë vote në një shoqëri auditimi, së paku, për një periudhë prej tri vitesh përpara emërimit në pozicionin e anëtarit të bordit;
 v) të mos kenë qenë anëtarë të organeve të qeverisjes dhe/ose të drejtimit të një shoqërie auditimi, së paku, prej një periudhe prej tri vitesh, para emërimit në pozicionin e anëtarit të bordit;
 vi) të mos kenë lidhje të afërta, deri në shkallë të dytë, me personat në organet e zgjedhura të organizatës profesionale të ekspertëve kontabël, të autorizuar.
