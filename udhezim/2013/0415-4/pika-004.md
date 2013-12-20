@@ -1,1 +1,0 @@
-4. Dokumentacioni i aplikimit dërgohet elektronikisht nga QKL-ja në Ministrinë e Mjedisit, Pyjeve dhe Administrimit të Ujërave dhe vendimi i miratimit ose i refuzimit publikohet nga institucioni tjetër vendimmarrës në Regjistrin Kombëtar të Licencave dhe Lejeve.
