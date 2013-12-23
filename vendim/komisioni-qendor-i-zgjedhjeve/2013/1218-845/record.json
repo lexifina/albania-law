@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10309,
+  "title": "Për dhënien e mandatit të deputetit të Kuvendit, kandidatit të listës shumemërore të Partisë Lëvizja Socialiste për Integrim në qarkun Tiranë, për plotësimin e vakancës së njoftuar nga Kuvendi i Shqipërisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "845",
+  "institution": "Komisioni Qendor i Zgjedhjeve",
+  "adopted": "2013-12-18",
+  "published": "2013-12-23",
+  "in_force": "2013-12-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/1efbdea29c47b407d1e168ecde42b5c4e96e9bfb9122ea241e2652bf8d92db5a.docx",
+  "source_sha256": "1efbdea29c47b407d1e168ecde42b5c4e96e9bfb9122ea241e2652bf8d92db5a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10309",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/12/18/845",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
