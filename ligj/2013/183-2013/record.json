@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10324,
+  "title": "Për një ndryshim në ligjin nr. 7811, datë 12.4.1994, “Për miratimin me ndryshime të dekretit nr. 782,  datë 22.2.1994, “Për sistemin fiskal në sektorin  e hidrokarbureve (kërkim-prodhim)””",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "183-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-12-28",
+  "published": "2013-12-30",
+  "in_force": "2013-12-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë, botohet në Fletoren Zyrtare dhe i shtrin efektet nga data 1 janar 2014\": the publication day (its effects reach back to 1 janar 2014)",
+  "source": "https://qbz.gov.al/files/6490538ef1f49c2327e076db40f007bf25d806fe4faa6e6de99a352fbec77f38.docx",
+  "source_sha256": "6490538ef1f49c2327e076db40f007bf25d806fe4faa6e6de99a352fbec77f38",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10324",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/12/28/183-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
