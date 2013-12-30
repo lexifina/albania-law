@@ -1,0 +1,1 @@
+1. Miratimin e garancisë qeveritare, të lëshuar në favor të Raiffeisen Bank Albania sh.a., në kuadër të kontratës së huas, ndërmjet kësaj banke dhe KESH sh.a., për shumën ekuivalente në lekë të shumës 40 000 000 (dyzet milionë) euro.
