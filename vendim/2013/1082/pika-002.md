@@ -1,0 +1,1 @@
+2. Kostot financiare të ndërtimit të linjës së interkonjeksionit 110 kV Kukës (Shqipëri) - Prizren (Kosovë), në territorin shqiptar, përballohen nga fondet e shoqërisë “Operatori i Sistemit të Transmetimit” sh.a.
