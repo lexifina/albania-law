@@ -1,0 +1,33 @@
+{
+  "qbz_id": 10339,
+  "title": "Vendim Nr.1086 Dt.14.12.2013",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1086",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-12-14",
+  "published": "2013-12-31",
+  "in_force": "2013-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/529d500f8c889a4bb7607586ff54e0ca6ae50b8e729ff78d4c401f86af696691.docx",
+  "source_sha256": "529d500f8c889a4bb7607586ff54e0ca6ae50b8e729ff78d4c401f86af696691",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10339",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/12/14/1086",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63869,
+    14515,
+    55121,
+    66216,
+    12099,
+    56711
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
