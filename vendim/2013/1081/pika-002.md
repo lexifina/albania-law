@@ -1,0 +1,14 @@
+2. Komisioni Ndërinstitucional për Projektin TAP kryesohet nga ministri i Energjisë dhe Industrisë dhe në përbërje ka këta anëtarë:
+- Zëvendësministrin e Energjisë dhe Industrisë;
+- Zëvendësministrin e Punëve të Brendshme;
+- Zëvendësministrin e Financave;
+- Zëvendësministrin e Drejtësisë;
+- Zëvendësministrin e Mjedisit;
+- Zëvendësministrin e Zhvillimit Urban dhe Turizmit;
+- Zëvendësministrin e Transportit dhe Infrastrukturës;
+- Zëvendësministrin e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes;
+- Zëvendësministrin e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave;
+- Drejtorin e Politikave dhe Zhvillimit të Hidrokarbureve pranë Ministrisë së Energjisë dhe Industrisë;
+- Zëvendësdrejtorin e Përgjithshëm të Doganave;
+- Zëvendësdrejtorin e Përgjithshëm të Tatimeve;
+- Zëvendëskryeregjistruesin e Zyrës së Regjistrimit të Pasurive të Paluajtshme.

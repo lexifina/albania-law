@@ -1,0 +1,1 @@
+6. Kryetari i Komisionit Ndërinstitucional për Projektin TAP i raporton Kryeministrit për ecurinë e realizimit të projektit TAP, problematikat e hasura, masat e ndërmarra dhe rezultatet konkrete të arritura, si dhe për çështje të veçanta.

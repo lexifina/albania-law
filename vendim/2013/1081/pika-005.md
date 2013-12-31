@@ -1,0 +1,1 @@
+5. Në mbledhjet e Komisionit Ndërinstitucional për Projektin TAP mund të ftohen të marrin pjesë përfaqësues të organeve të qeverisjes vendore dhe të institucioneve të tjera të interesuara, kur çmohet se pjesëmarrja e tyre do të jetë e vlefshme për përmbushjen e misionit të bashkërendimit të punës në zbatimin e projektit TAP.

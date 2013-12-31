@@ -1,0 +1,1 @@
+1. Krijimin e Komisionit Ndërinstitucional për bashkërendimin e punës në zbatimin e projektit të Gazsjellësit Trans Adriatik Pipeline (TAP), i emërtuar “Komisioni Ndërinstitucional për Projektin TAP”.
