@@ -1,0 +1,1 @@
+1. Pjesëmarrjen e Republikës së Shqipërisë, me një përfaqësues nga Policia e Shtetit, në Misionin e Kombeve të Bashkuara në Sudanin e Jugut (UNMISS), Departamenti i Misioneve Paqeruajtëse të OKB-së, Divizioni i Policisë, në kuadër të kontributit të Organizatës së Kombeve të Bashkuara.
