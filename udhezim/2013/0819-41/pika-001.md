@@ -1,1 +1,0 @@
-1. Kandidati për mësuesin e ri duhet të jetë në përputhje me nenin 57 të ligjit nr. 69/2012, datë 21.6.2012 dhe të plotësojë kriteret që përcaktohen në Kontratën Kolektive të Punës të nivelit të parë.
