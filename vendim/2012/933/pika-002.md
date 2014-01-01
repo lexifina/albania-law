@@ -1,1 +1,0 @@
-2. Vendimi nr. 910, datë 28.12.2011, i Këshillit të Ministrave “Për miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2012”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.
