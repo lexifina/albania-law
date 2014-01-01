@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10225,
+  "title": "Për miratimin e përqindjes së pagesës rregullatore për vitin 2014",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "35",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2013-10-14",
+  "published": "2013-12-02",
+  "in_force": "2014-01-01",
+  "in_force_basis": "\"hyn në fuqi më 1 janar 2014\"",
+  "source": "https://qbz.gov.al/files/83ffe33f41567cb3b631d6360343af740dec9ddb92c0d313cb38177b53d8cb3d.docx",
+  "source_sha256": "83ffe33f41567cb3b631d6360343af740dec9ddb92c0d313cb38177b53d8cb3d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10225",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/10/14/35",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
