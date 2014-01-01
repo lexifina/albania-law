@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10329,
+  "title": "Për një ndryshim në vendimin nr. 1067, datë 14.12.2013 të Këshillit të Ministrave “Për miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2014”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1100",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2013-12-27",
+  "published": "2013-12-30",
+  "in_force": "2014-01-01",
+  "in_force_basis": "\"hyn në fuqi më 1 janar 2014 dhe botohet në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e939fdb7e75b0e324ff12faa2590095cdacbc9a33e50cd51a44c44e8cd04a477.docx",
+  "source_sha256": "e939fdb7e75b0e324ff12faa2590095cdacbc9a33e50cd51a44c44e8cd04a477",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10329",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2013/12/27/1100",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
