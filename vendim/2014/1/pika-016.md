@@ -1,0 +1,1 @@
+16. Rishpërndarja e buxhetit midis spitaleve mund të bëhet vetëm brenda një kufiri prej 3% të buxhetit të spitaleve me vendim të Këshillit Administrativ të Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.

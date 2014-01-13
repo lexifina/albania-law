@@ -1,0 +1,1 @@
+13. Spitalet janë të detyruara të llogarisin shpenzimet faktike të çdo shërbimi, në përputhje me standardet e caktuara nga Ministria e Shëndetësisë. Shpenzimet mujore dhe progresive raportohen nga spitalet në Fondin e Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, i cili bën monitorimin e tyre.
