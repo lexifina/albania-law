@@ -1,1 +1,0 @@
-4. Spitali organizohet, administrohet dhe vepron sipas ligjit nr.9106, datë 17.7.2003 “Për shërbimin spitalor në Republikën e Shqipërisë”, si dhe në bazë të ligjeve në fuqi e të rregullores së funksionimit.

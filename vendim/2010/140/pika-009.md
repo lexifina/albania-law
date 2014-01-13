@@ -1,1 +1,0 @@
-9. Mënyra e pagesës dhe e shpërblimit të punës së punonjësve të spitaleve, që kanë lidhur kontratë me ISKSH-në, sipas këtij vendimi, miratohet me vendim të Këshillit të Ministrave.
