@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10346,
+  "title": "Për një ndryshim në ligjin nr. 9363, datë 24.3.2005, “Për mënyrën dhe procedurat e vendosjes dhe kalimit të forcave ushtarake të huaja në territorin e Republikës së Shqipërisë, si dhe për dërgimin e forcave ushtarake shqiptare jashtë vendit”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "175-2013",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2013-12-12",
+  "published": "2013-12-31",
+  "in_force": "2014-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3d4af6bc5ef5b4cccfd5d10753bde1ec29805a8de983146359c9686f1b9a7cad.docx",
+  "source_sha256": "3d4af6bc5ef5b4cccfd5d10753bde1ec29805a8de983146359c9686f1b9a7cad",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10346",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2013/12/12/175-2013",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
