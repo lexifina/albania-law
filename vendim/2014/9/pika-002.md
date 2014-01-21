@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, shtojcat e përcaktuara në shkronjat “a” - “ë”, të pikës 1 të këtij vendimi, bëhen pjesë përbërëse e marrëveshjes së miratuar me ligjin nr. 170/2013, datë 14.11.2013.
