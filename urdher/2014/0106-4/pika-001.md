@@ -1,0 +1,1 @@
+1. Z. Koli Bele, sekretar i përgjithshëm në Ministrinë e Energjisë dhe Industrisë, i delegohet kompetenca të nënshkruajë të gjitha aktet që kanë të bëjnë me veprimtarinë e Ministrisë, me përjashtim të atyre akteve që ligji ia atribuon shprehimisht ministrit.
