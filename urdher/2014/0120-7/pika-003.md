@@ -1,0 +1,1 @@
+3. Subjektet që do të kryejnë oponencën teknike për projektet e veprave të ndërtimit, para kryerjes së oponencës, lidhin një marrëveshje me porositësin, sipas marrëveshjes tip bashkëlidhur këtij urdhri.

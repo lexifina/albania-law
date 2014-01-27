@@ -1,0 +1,1 @@
+4. Pagesa për oponencën teknike të projekteve të bëhet sipas pikës 5 të vendimit të Këshillit të Ministrave nr. 1055, datë 22.12.2010 “Për vendosjen e oponencës teknike për projektet e veprave të ndërtimit”.

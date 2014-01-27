@@ -1,0 +1,1 @@
+2. Oponenca teknike për projektet e veprave të ndërtimit, për objekte që nuk janë të përcaktuara në pikën 1 të këtij urdhri, të kryhet nga Instituti i Ndërtimit ose Fakulteti i Inxhinierisë së Ndërtimit.

@@ -1,0 +1,1 @@
+1. Oponenca teknike për projektet e veprave të ndërtimit, të kryhet nga Instituti i Ndërtimit për të gjitha objektet publike që pajisen me leje zhvillimore ndërtimi, infrastrukture dhe komplekse, sipas përcaktimeve në ligjin nr. 10 119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar.
