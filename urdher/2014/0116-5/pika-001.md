@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor, sekretarit të përgjithshëm të MZHUT-së, z. Robert Gjini, për procedurat e prokurimeve me vlerë të vogël dhe lidhjen e kontratave të shërbimeve në përmbushje të procedurës së prokurimit dhe kontratave të tjera për shërbimet e aparatit të Ministrisë së Zhvillimit Urban dhe Turizmit.
