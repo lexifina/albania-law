@@ -1,1 +1,1 @@
-8. Anëtarët e jashtëm të KKA-së, që nuk janë punonjës të Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve apo të institucioneve, në varësi të saj, përfitojnë, për pjesëmarrje në çdo mbledhje, një shpërblim prej 5000 (pesë mijë) lekësh.
+8. Anëtarët e jashtëm të KKA-së, që nuk janë punonjës të Ministrisë së Kulturës apo të institucioneve, në varësi të saj, përfitojnë, për pjesëmarrje në çdo mbledhje, një shpërblim prej 5000 (pesë mijë) lekësh.
