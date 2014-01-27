@@ -1,1 +1,0 @@
-1. Autoriteti kontraktues për kryerjen e procedurave ligjore për zhvillimin e një projekti koncesionar në zonat plazh Dhërmi dhe plazh Perivoll, me karakter turistik, panoramik dhe informues dhe ndërtimin e infrastrukturës përkatëse është bashkia Himarë.
