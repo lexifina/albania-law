@@ -1,10 +1,20 @@
-1. Këshilli Kombëtar i Arkeologjisë (KKA) ka në përbërje përfaqësues të institucioneve të specializuara dhe personalitete të fushës së kulturës së trashëguar. Numri i anëtarëve të KKA-së është 11 veta. KKA-a kryhesohet nga ministri përgjegjës për trashëgiminë kulturore dhe ka anëtarë:
-a) Drejtorin e Agjencisë së Shërbimit Arkeologjik;
-b) Drejtorin e drejtorisë përgjegjëse për trashëgiminë kulturore, në Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve;
-c) Përgjegjësin e sektorit, në drejtorinë përgjegjëse për trashëgiminë kulturore, në Ministrinë e Turizmit, Kulturës, Rinisë dhe Sporteve;
-ç) Një personalitet të fushës së arkeologjisë, të përcaktuar nga ministri përgjegjës për trashëgiminë kulturore;
-d) Drejtorin e Institutit të Arkeologjisë;
-dh) Dy përfaqësues (arkeologë), të përcaktuar nga Instituti i Arkeologjisë;
-e) Një përfaqësues (arkeolog), të përcaktuar nga Agjencia e Shërbimit Arkeologjik;
-ë) Drejtorin e Institutit të Monumenteve të Kulturës “Gani Strazimiri”;
-f) Një jurist të ministrisë përgjegjëse për trashëgiminë kulturore.
+1. Këshilli Kombëtar i Arkeologjisë (KKA) ka në përbërje përfaqësues të institucioneve të specializuara dhe personalitete të fushës së kulturës së trashëguar. Numri i anëtarëve të KKA-së është 11 (njëmbëdhjetë) veta. Këshilli Kombëtar i Arkeologjisë kryesohet nga ministri i Kulturës dhe ka në përbërje:
+- Drejtorin e Agjencisë së Shërbimit Arkeologjik
+sekretar;
+- Drejtorin e Përgjithshëm të Planifikimit Strategjik për Trashëgiminë dhe Diversitetin Kulturor
+anëtar;
+- Drejtorin e Trashëgimisë Materiale në Ministrinë e Kulturës
+anëtar;
+- Drejtorin e Institutit të Monumenteve të Kulturës
+anëtar;
+- Drejtorin e Institutit të Arkeologjisë
+anëtar;
+- 2 (dy) personalitete nga fusha e arkeologjisë, të përcaktuar nga ministri i Kulturës
+anëtar;
+- 1 (një) përfaqësues (arkeolog), i përcaktuar nga Instituti i Arkeologjisë,
+anëtar;
+- 1 (një) përfaqësues nga Departamenti i Arkeologjisë, në Universitetin e Tiranës
+anëtar;
+- 1 (një) përfaqësues nga grupet e interesit të fushës së arkeologjisë
+anëtar.
+Drejtori juridik i Ministrisë së Kulturës asiston në të gjitha mbledhjet e Këshillit Kombëtar të Arkeologjisë, pa të drejtë vote.
