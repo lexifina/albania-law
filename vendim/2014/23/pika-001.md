@@ -1,0 +1,1 @@
+1. Përcaktimin e Federatës së Sindikatave të Punonjësve të Shëndetësisë së Shqipërisë, si përfaqësuese të sindikatës së të punësuarve, në përbërje të Këshillit Administrativ të Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.
