@@ -1,0 +1,3 @@
+# Nënshkrimi
+Kryetari
+Bashkim Dedja
