@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për përcaktimin e rregullave të hollësishme për funksionimin e klinikave ligjore vendore, si dhe ofrimin e ndihmës juridike parësore”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është përbërëse e tij.
