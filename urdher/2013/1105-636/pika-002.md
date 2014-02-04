@@ -1,1 +1,0 @@
-2. Përfaqësimi ligjor i Ministrisë së Punëve të Brendshme në proceset gjyqësore, sipas pikës 1 të këtij urdhri, i jep të drejtë përfaqësuesit të caktuar të kryejë çdo veprim procedural, të parashikuar nga ligji nr. 8116, datë 29.3.1996 “Kodi i Procedurës Civile i Republikës së Shqipërisë” (të ndryshuar), në kuadër të përfaqësimit në shkallën përkatëse të gjykimit.
