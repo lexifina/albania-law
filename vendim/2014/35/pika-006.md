@@ -1,0 +1,2 @@
+6. Ngarkohen ministritë dhe institucionet buxhetore të përmendura sipas lidhjes nr. 1 bashkëlidhur, të depozitojnë pranë Ministrisë së Financave detajimin e numrit të punonjësve të përcaktuar brenda kritereve të vendimit nr. 1703, datë 24.12.2008 “Për vendosjen e standardeve të shërbimeve dhe aktiviteteve sezonale/të përkohshme për ministritë dhe institucionet buxhetore”.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

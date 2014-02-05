@@ -1,0 +1,1 @@
+3. Përjashtimisht, për qendrat e transferimit të teknologjisë në Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, për shkak të veçorisë së punës, pagesa e punonjësve të kontraktuar përllogaritet sipas volumit të punës së kryer dhe paguhet sipas preventivit përkatës.

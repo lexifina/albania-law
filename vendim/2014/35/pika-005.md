@@ -1,0 +1,1 @@
+5. Ngarkohet Ministria e Mirëqenies Sociale dhe Rinisë të depozitojë një kopje të kontratës së lidhur për punonjësit që ushtrojnë profesionin “mjek” në institucionet e përcaktuara në lidhjen nr. 1, pranë këtyre institucioneve, si dhe në Ministrinë e Shëndetësisë.
