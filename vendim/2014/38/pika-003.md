@@ -1,0 +1,1 @@
+3. Të drejtat dhe detyrimet të përcaktohen në kontratën e huapërdorjes që do të lidhet ndërmjet palëve, në përputhje me kërkesat e ligjit nr. 7850, datë 29.7.1994 “Kodi Civil i Republikës së Shqipërisë”, të ndryshuar.

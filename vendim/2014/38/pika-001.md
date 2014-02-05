@@ -1,0 +1,1 @@
+1. Dhënien në huapërdorje, pa kundërshpërblim, në favor të Bashkisë së Korçës, të pasurisë shtetërore nr. 30/2, ZK 8561, vol. 30, f. 70 dhe nr. 31/1, ZK 8561, vol. 30, f. 98, tokë arë, me sipërfaqe të përgjithshme 23 000 m², në qytetin e Korçës, për realizimin e projektit të impiantit fotovoltaik.
