@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të mjediseve, nga Komisioneri për Mbrojtjen e të Dhënave Personale, Agjencia për Mbështetjen e Shoqërisë Civile dhe Komiteti Shtetëror i Minoriteteve te Ministria e Zhvillimit Urban dhe Turizmit, sipas planimetrive bashkëlidhur këtij vendimi, për t’u përdorur si mjedise pune nga kjo ministri.
