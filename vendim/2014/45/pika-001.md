@@ -1,0 +1,1 @@
+1. Kalimin në administrim të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave të fondit të tokës bujqësore me sipërfaqe 18 076 (tetëmbëdhjetë mijë e shtatëdhjetë e gjashtë) ha të ish-ndërmarrjeve bujqësore dhe ish-institucioneve kërkimore-shkencore të kësaj ministrie, e cila aktualisht është në dispozicion të Agjencisë së Kthimit dhe Kompensimit të Pronave.
