@@ -1,0 +1,1 @@
+12. Degët rajonale të ISHMPU-së drejtohen nga drejtuesi i degës rajonale. Drejtuesi i degës rajonale përfaqëson degën rajonale në marrëdhënie me të tretët në nivelin e qarkut përkatës dhe është përgjegjës për organizimin dhe bashkërendimin e punës për funksionimin, cilësinë dhe efektivitetin e veprimtarisë së degës së tij.
