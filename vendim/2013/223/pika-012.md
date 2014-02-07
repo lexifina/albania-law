@@ -1,1 +1,0 @@
-12. Në degët që kanë në territorin e tyre pika të kalimit të kufirit, inspektorët bashkëpunojnë me organet doganore dhe organet e tjera shtetërore për parandalimin e hyrjes së faktorëve të rrezikshëm për mjedisin, ujërat, pyjet dhe peshkimin.

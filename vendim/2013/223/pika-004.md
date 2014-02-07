@@ -1,1 +1,0 @@
-4. Përveç sa parashikohet në pikën 3 të këtij vendimi, Inspektorati Shtetëror i Mjedisit, Pyjeve, Ujërave dhe Peshkimit është përgjegjës për çdo funksion apo kompetencë tjetër të përcaktuar nga legjislacioni në fuqi për Inspektoratin Shtetëror, që mbulon fushën e mjedisit.

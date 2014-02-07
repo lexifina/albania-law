@@ -1,1 +1,0 @@
-20. Ngarkohet Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, që, brenda 1 (një) muaji nga hyrja në fuqi e këtij vendimi, të marrë masat për realizimin e emërimit të kryeinspektorit dhe përgatitjen e strukturës e të organikës së Inspektoratit Shtetëror të Mjedisit, Pyjeve, Ujërave dhe Peshkimit.
