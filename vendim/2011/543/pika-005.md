@@ -1,1 +1,0 @@
-5. Për barnat që blihen nga institucionet shëndetësore publike, çmimi maksimal i tregtimit caktohet duke shtuar deri në 10 (dhjetë) për qind mbi çmimin CIF ose EXW dhe për disa nga këto barna zbatohen marzhe të diferencuara, të cilat miratohen me vendim të Këshillit të Ministrave.
