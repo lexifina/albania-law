@@ -1,0 +1,2 @@
+2. Çmimi maksimal i tregtimit me shumicë të barnave nga importuesit dhe shpërndarësit farmaceutikë caktohet duke shtuar deri në 11 (njëmbëdhjetë) për qind mbi çmimin CIF të importit të barit, e konvertuar në lekë sipas kursit mesatar të njoftuar nga Banka e Shqipërisë, për çdo 6-mujor.
+Marzhi 11 (njëmbëdhjetë) për qind ndahet ndërmjet importuesit dhe shpërndarësit, përkatësisht 8 (tetë) për qind dhe 3 (tre) për qind.
