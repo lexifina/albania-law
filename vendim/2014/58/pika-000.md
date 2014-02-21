@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit nr. TF013194, të Fondit Global të Mjedisit (GEF), ndërmjet Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), për financimin e projektit “Raportimi për konventat, harmonizimi i Planit Kombëtar të Veprimit për të luftuar shkretëtirëzimin në Shqipëri dhe përgatitjen e raportit kombëtar”, nëpërmjet një granti prej 150 000 (njëqind e pesëdhjetë mijë) USD, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
