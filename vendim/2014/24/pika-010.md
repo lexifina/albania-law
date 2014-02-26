@@ -1,0 +1,1 @@
+10. Të gjitha autorizimet e importimit të barnave të paregjistruar, që jepen nga Drejtoria Farmaceutike, në Ministrinë e Shëndetësisë, publikohen në faqen zyrtare të kësaj ministrie, jo më vonë se 10 (dhjetë) ditë nga data e lëshimit të tyre.

@@ -1,0 +1,1 @@
+11. Çmimi i barit, për të cilin është dhënë autorizim importi, nuk duhet të ndryshojë për një periudhë 1-vjeçare nga data e hyrjes së barit në Republikën e Shqipërisë. Përjashtimisht, brenda vitit do të pranohet kërkesa dhe do të lëshohet autorizim vetëm për importimin e barnave me çmim të njëjtë ose më të ulët se ai i deklaruar për herë të parë në atë vit.
