@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123183,
+  "title": "PËR INSTITUTIN E INTEGRIMIT TË TË PËRNDJEKURVE",
+  "type": "Ligj",
+  "number": "8246",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1997-10-01",
+  "version_no": 1,
+  "qbz_version_id": 10729,
+  "in_force": "2014-03-20",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2014-03-20",
+  "changed_by_qbz_id": 10587,
+  "changed_by_number": "23",
+  "changed_by_title": "PËR DISA NDRYSHIME NË LIGJIN NR. 8246, DATË 1.10.1997, “PËR INSTITUTIN E INTEGRIMIT TË TË PËRNDJEKURVE”, TË NDRYSHUAR",
+  "source": "https://qbz.gov.al/files/407a0b1ab6c45cf2f269d15a3113979149205f1d3067c6d58cf47bc214d89640.docx",
+  "source_sha256": "407a0b1ab6c45cf2f269d15a3113979149205f1d3067c6d58cf47bc214d89640",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123183",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123183/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
