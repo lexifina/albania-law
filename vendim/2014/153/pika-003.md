@@ -1,0 +1,1 @@
+3. Vlera e shpërblimit, për sipërfaqen 65.2 (gjashtëdhjetë e pesë pikë dy) m², truall, në masën 7 781 000 (shtatë milionë e shtatëqind e tetëdhjetë e një mijë) lekë, të përballohet nga të ardhurat e bashkisë së Orikumit, miratuar në buxhetin e vitit 2014.
