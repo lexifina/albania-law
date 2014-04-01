@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror vlerëson kërkesat e ardhura nga rajonet dhe programon fondet për projektbuxhetin e vitit pasardhës në nivel kombëtar, të cilët i përcjell në Ministrinë e Mirëqenies Sociale dhe Rinisë.

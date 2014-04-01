@@ -1,0 +1,1 @@
+10. Ministria e Mirëqenies Sociale dhe Rinisë bën transferimin e fondeve si grante të kushtëzuara për dymujorin e parë, sipas pikës 8 të këtij udhëzimi dhe, për vazhdimësinë, transferta do të bëhet për çdo dymujor.

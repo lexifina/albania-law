@@ -1,0 +1,1 @@
+9. Shërbimi Social Shtetëror bën detajimin e fondeve të programuara për PAK sipas ligjit të buxhetit të vitit pasardhës për çdo bashki/komunë dhe i përcjell në Ministrinë e Mirëqenies Sociale dhe Rinisë.

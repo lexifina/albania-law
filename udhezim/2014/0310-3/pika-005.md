@@ -1,0 +1,1 @@
+5. Drejtoritë rajonale të Shërbimit Social Shtetëror vlerësojnë kërkesat në përputhje me kriteret në fuqi dhe hartojnë nevojat për fondet e pagesës së PAK në nivel qarku dhe së bashku me mod. 1 për secilën bashki/komunë, brenda datës 10 korrik i dërgojnë në Drejtorinë e Përgjithshme të Shërbimit Social Shtetëror.
