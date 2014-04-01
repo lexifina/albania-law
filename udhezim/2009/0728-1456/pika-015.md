@@ -1,2 +1,0 @@
-15. Nëse gjatë kontrollit të subjekteve të licencuara konstatohet se janë paraqitur deklarime të rreme, nuk janë respektuar standardet e kërkuara ose veprimtaria kryhet jo në përputhje me legjislacionin në fuqi, Inspektorati i Kontrollit i propozon komisionit të shqyrtimit të kërkesave për licencim të vendosë lidhur me revokimin e licencës. Bazuar në vendimin e komisionit, Ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta kërkon nga QKL-ja revokimin e licencës.
-Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

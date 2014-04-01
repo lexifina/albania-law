@@ -1,1 +1,0 @@
-6. Drejtoria e Politikave të Shërbimeve Sociale informon me shkrim kryetarin e komisionit të shqyrtimit të kërkesave për licenca, duke i propozuar datën për mbledhjen e komisionit. Kryetari i komisionit vendos për datën e mbledhjes së komisionit.
