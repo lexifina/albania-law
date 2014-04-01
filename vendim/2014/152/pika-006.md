@@ -1,0 +1,1 @@
+6. Regjistrimi i ri i pasurisë prej 10 604 m², truall, Sharrë, faza IV, 5 729 m², truall, Tufinë, faza III, si dhe 15 688 m², truall, Tufinë, faza IV, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

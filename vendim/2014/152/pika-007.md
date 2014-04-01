@@ -1,0 +1,1 @@
+7. Afati i përfundimit të punimeve të objektit “Rehabilitimi dhe zgjerimi i varrezave publike, Sharrë, faza IV, dhe Tufinë, fazat III dhe IV”, në bashkinë e Tiranës, të jetë në përputhje me afatet e parashikuara nga kjo bashki.

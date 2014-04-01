@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, që preken nga rehabilitimi dhe zgjerimi i varrezave publike, Sharrë, faza IV, dhe Tufinë, fazat III dhe IV, në bashkinë e Tiranës.
