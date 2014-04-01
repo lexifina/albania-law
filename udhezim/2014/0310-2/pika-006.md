@@ -1,0 +1,1 @@
+6. Drejtoria e Përkujdesit Shoqëror dhe Shërbimeve të Integruara informon me shkrim kryetarin e komisionit të shqyrtimit të kërkesave për licenca, duke i propozuar datën për mbledhjen e komisionit. Kryetari i Komisionit vendos për datën e mbledhjes së komisionit.

@@ -1,0 +1,1 @@
+12. Ministri i Mirëqenies Sociale dhe Rinisë shqyrton ankimimin dhe merr vendim brenda 10 ditëve nga data e depozitimit të tij. Në rast se ky afat tejkalohet, si dhe në rastet kur ministri lë në fuqi vendimin për mosmiratimin e kërkesës për licencë, subjekti fizik/juridik i drejtohet gjykatës brenda 30 ditëve nga përfundimi i afatit të shqyrtimit të ankimimit.

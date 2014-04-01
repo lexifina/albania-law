@@ -1,0 +1,1 @@
+2. Personi përgjegjës pranë kësaj drejtorie, bën regjistrimin e kërkesës dhe të dokumentacionit të ardhur në regjistrin elektronik të krijuar për këtë qëllim dhe e përcjell atë në Inspektoratin Shtetëror të Punës dhe Shërbimeve Shoqërore menjëherë.
