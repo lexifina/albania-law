@@ -1,1 +1,0 @@
-6. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror, vlerëson kërkesat e ardhura nga rajonet dhe programon fondet për projketbuxhetin e vitit pasardhës në nivel kombëtar, të cilat i përcjell në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.

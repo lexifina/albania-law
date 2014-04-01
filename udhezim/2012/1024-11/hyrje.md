@@ -1,5 +1,0 @@
-Udhëzim
-Nr. 11, datë 24.10.2012
-Për planifikimin e fondeve të pagesave për aftësinë e kufizuar
-Mbështetur në pikën 4 të nenit 102 të Kushtetutës së Republikës së Shqipërisë, në zbatim të ligjit nr. 9355, datë 10.3.2005 “Për ndihmën dhe shërbimet shoqërore”, të ndryshuar”, të pikës 27 të vendimit nr. 618, datë 7.9.2006 të Këshillit të Ministrave “Për përcaktimin e kritereve, dokumentacionit dhe masës së përfitimit të pagesës për personat me aftësi të kufizuar”, të ndryshuar, të vendimit nr. 277, datë 18.6.1997 të Këshillit të Ministrave “Për përfitimet nga statusi i të verbrit”, të ndryshuar, të vendimit nr. 31, datë 20.1.2001 të Këshillit të Ministrave “Për përfitimet nga statusi i invalidit paraplegjik dhe tetraplegjik, të ndryshuar dhe pikës 11 të vendimit nr. 404, datë 20.6.2012 të Këshillit të Ministrave “Për përcaktimin e masës, të kritereve e të procedurave të përfitimit të kompensimit financiar, nga personat me statusin e të verbrit, dhe invalidit paraplegjik e tetraplegjik, për faturën e energjisë elektrike dhe faturën e telefonisë fikse”,
-Udhëzoj:
