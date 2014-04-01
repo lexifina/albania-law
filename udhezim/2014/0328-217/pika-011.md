@@ -1,0 +1,1 @@
+11. Kërkesa për leje zhvillimore komplekse, i dërgohet menjëherë për shqyrtim Komisionit Teknik. Brenda 5 (pesë) ditëve pune nga dorëzimi i kërkesës, Komisioni Teknik kryen shqyrtimin e kërkesës për çështje të formës.

@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton rregullat dhe procedurat e shqyrtimit të kërkesave për leje zhvillimore, që miratohen në Këshillin Kombëtar të Territorit (KKT), nga Ministria e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes (MZHETS), si dhe ngritjen e Komisionit për shqyrtimin e tyre.

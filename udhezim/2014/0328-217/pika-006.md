@@ -1,0 +1,1 @@
+6. Përcaktimi i emrave në përbërje të “Komisionit Teknik” për shqyrtimin e kërkesave për leje zhvillimore në MZHETS dhe “Sekretariatit Teknik”, bëhet nëpërmjet urdhrit të ministrit të Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes.
