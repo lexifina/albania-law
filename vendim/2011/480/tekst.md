@@ -4,11 +4,11 @@ Nr.480, datë 22.6.2011
 
 PËR MIRATIMIN E RREGULLORES MODEL TË PLANIFIKIMIT
 
-(Ndryshuar me VKM nr. 140, datë 22.2.2012; nr. 371, datë 2.5.2013)
+(Ndryshuar me VKM nr. 140, datë 22.2.2012; nr. 371, datë 2.5.2013; nr. 199, datë 2.4.2014)
 
 (i përditësuar)
 
-Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 6, të nenit 88, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar, me propozimin e ministrit të Punëve Publike dhe  transportit, Këshilli i Ministrave 
+Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 6, të nenit 88, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar, me propozimin e ministrit të Punëve Publike dhe transportit, Këshilli i Ministrave 
 
 VENDOSI:
 
@@ -76,17 +76,21 @@ Neni 4
 
 Rastet e zbatimit të rregullores model të planifikimit
 
-(Shtuar shkronja “ç” në pikën 1, me VKM nr. 371, datë 2.5.2013)
+(Shtuar shkronja “ç” në pikën 1, me VKM nr. 371, datë 2.5.2013; shtuar shkronjat “d” dhe “e” me VKM nr. 199, date 2.4.2014)
 
 1. Dispozitat e kësaj rregulloreje zbatohen vetëm për:
 
 a) zhvillimin në zonat e sistemit territorial urban, sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit”, dhe gjithmonë vetëm për parcelat e kategorizuara si “truall” në Regjistrin e Pasurive të Paluajtshme;
 
-b) zhvillimin në zonat me kategori ekzistuese të përdorimit të tokës A. Banim, sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit”për kategoritë bazë të përdorimit të tokës dhe të strukturave në të, si edhe për struktura të tipit “infrastrukturë publike” sipas përcaktimit të pikës 30 të nenit 3, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”;
+b) zhvillimin në zonat me kategori ekzistuese të përdorimit të tokës A. Banim, sipas përcaktimit të “Rregullore uniforme e instrumenteve të planifikimit” për kategoritë bazë të përdorimit të tokës dhe të strukturave në të, si edhe për struktura të tipit “infrastrukturë publike” sipas përcaktimit të pikës 30 të nenit 3, të ligjit nr.10 119, datë 23.4.2009 “Për planifikimin e territorit”;
 
 c) zhvillimin e strukturave me funksione në shërbim të banimit, si garazh familjar, njësi shitjeje me pakicë brenda nën-njësisë strukturore të banimit, bare dhe restorante në nivel nënnjësie strukturore banimi;
 
-ç) zhvillimin e strukturave me funksion administrativ në arsim, bujqësi, industri ushqimore, ekonomi ndihmëse bujqësore, shëndetësi, infrastrukturë, transport, e strukturave ushtarake, institucioneve fetare, shërbimeve tregtare, magazinave tregtare, shërbimeve sociale.
+ç) zhvillimin e strukturave me funksion administrativ në arsim, bujqësi, industri ushqimore, ekonomi ndihmëse bujqësore, shëndetësi, infrastrukturë, transport, e strukturave ushtarake, institucioneve fetare, shërbimeve tregtare, magazinave tregtare, shërbimeve sociale;
+
+d) Zhvillimin e strukturave me funksion prodhues, industrial, përfshirë këtu edhe ato me material porositës, ndërtime të mbështetura nga programe kombëtare investimesh, prodhimi, përpunimi dhe distribucionesh bujqësore e blegtorale të ndryshme.
+
+e) Lejet e ndërtimit për kategoritë e përcaktuara në këtë nen, edhe nëse janë në zonat e pezulluara, jepen nga bashkitë dhe komunat, por pasi të jetë shprehur më parë AKPT-ja dhe duke vënë në dijeni Këshillin Kombëtar të Territorit për konformitetin e lejes me instrumentet kombëtare dhe/ose vendore të planifikimit të miratuara ose në proces.
 
 2. Dispozitat e kësaj rregulloreje nuk zbatohen për zhvillimin e strukturave me funksione shërbimi: 
 
