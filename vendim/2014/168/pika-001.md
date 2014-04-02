@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 15.1.2013, për çështjen nr. 63756/09, “Themeli kundër Shqipёrisё ”, në shumën 3 900 (tre mijë e nëntëqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin.

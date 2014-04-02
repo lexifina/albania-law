@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të ankuesit, z. Jorgji Themeli, në vlerën që shteti shqiptar i detyrohet ankuesit, sipas vendimit të Gjykatës Evropiane të të Drejtave të Njeriut, datë 15.1.2013, për çështjen nr. 63756/09, “Themeli kundër Shqipёrisё”.
