@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 31.7.2012, për ankimet nr. 604/07, nr. 43628/07 dhe nr. 46684/07, “Manushaqe Puto dhe të tjerë kundër Shqipërisë”, për pjesën e mbetur të detyrimit.
