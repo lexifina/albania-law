@@ -1,0 +1,1 @@
+8. Procedura dhe mënyra e administrimit të fondit të programit për bujqësinë dhe zhvillimin rural përcaktohen në udhëzimin e përbashkët të Ministrisë së Financave dhe Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave.

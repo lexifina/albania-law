@@ -1,0 +1,1 @@
+7. Financimi i masës mbështetëse për prodhimin në serra me ngrohje qendrore, sipas rastit, të bëhet edhe në tremujorin e parë të vitit pasardhës, me fondet e caktuara për vitin përkatës buxhetor, por gjithnjë sipas masës së përfitimit të përcaktuar për vitin 2014.

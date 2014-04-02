@@ -1,0 +1,1 @@
+1. Nga fondet e miratuara në buxhetin e vitit 2014 për Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, zëri “Transfertë në buxhetet familjare” të përdoret për mbështetjen e prodhimit bujqësor, blegtoral dhe të agropërpunimit.
