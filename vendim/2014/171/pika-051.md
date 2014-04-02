@@ -1,0 +1,1 @@
+51. Dorëzimi i detyrës, i dokumentacionit, i pajisjeve dhe i mjeteve të punës në inventar bëhet, si rregull, brenda 5 (pesë) ditëve nga data e marrjes së vendimit të lirimit. Në raste të veçanta, me urdhër të eprorit direkt, ky afat mund të zgjatet edhe me 5 (pesë) ditë të tjera.

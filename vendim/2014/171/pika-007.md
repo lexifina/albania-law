@@ -1,0 +1,2 @@
+7. Nëpunësi civil mund të transferohet për përmirësimin e rezultateve të tij në bazë të planeve vjetore të mobilitetit brenda institucionit dhe në bazë të planeve vjetore të mobilitetit të përgjithshëm për administratën shtetërore. Transferimi bëhet me kërkesë të tij dhe të eprorit direkt ose me kërkesë të secilit prej tyre dhe miratohet nga njësia përgjegjëse.
+Plani vjetor i mobilitetit, në kuptim të kësaj pike, është plani i transferimeve të përkohshme në rast të nevojës së institucionit ose përmirësimit të rezultateve në punë.

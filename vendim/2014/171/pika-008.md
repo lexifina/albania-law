@@ -1,0 +1,1 @@
+8. Transferimi për arsye të përkohshme shëndetësore apo gjatë shtatzënisë bëhet me kërkesë të nëpunësit civil apo njësisë së menaxhimit të burimeve njerëzore të institucionit, me qëllim sigurimin e kushteve të përshtatshme të punës për këta nëpunës dhe miratohet nga njësia përgjegjëse.

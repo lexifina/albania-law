@@ -1,0 +1,1 @@
+46. Nëpunësi civil, brenda 5 (pesë) ditëve nga data e marrjes dijeni për vendimin e lirimit, ka të drejtë të dëgjohet nga DAP-i apo njësia përgjegjëse për institucionet e pavarura dhe qeverisjen vendore lidhur me procedurën e lirimit.

@@ -1,0 +1,1 @@
+39. Nëpunësi civil me kërkesën e tij mund të kërkojë pezullimin e marrëdhënies në shërbimin civil. Kërkesa për pezullim bëhet me shkrim 15 (pesëmbëdhjetë) ditë përpara datës së kërkuar për pezullim. Kërkesa i drejtohet njësisë së burimeve njerëzore, ndërsa në rastin e anëtarëve të TND-së kërkesa i drejtohet DAP-it.

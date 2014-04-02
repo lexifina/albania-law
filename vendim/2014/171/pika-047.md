@@ -1,0 +1,1 @@
+47. Departamenti i Administratës Publike apo njësia përgjegjëse ka të drejtë të vendosë pranimin e ankesës nga nëpunësi dhe ta kthejë procedurën për rishqyrtim pranë njësisë për burimet njerëzore të institucionit përkatës, pasi dëgjon nëpunësin civil dhe eprorin direkt.

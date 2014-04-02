@@ -1,0 +1,1 @@
+25. Nëpunësi civil që kërkon të transferohet, i paraqet njësisë përgjegjëse një kërkesë me shkrim dhe vërtetim të gjendjes shëndetësore, të siguruar sipas legjislacionit në fuqi. Njësia përgjegjëse njofton eprorin direkt për kërkesën e nëpunësit.
