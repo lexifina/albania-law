@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të ankuesit, z. Lekë Tushaj, në vlerën që shteti shqiptar i detyrohet atij, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 15.1.2013, për ankimin nr. 13620/10, “Tushaj kundër Shqipёrisё”.
