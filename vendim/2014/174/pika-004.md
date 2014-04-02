@@ -1,0 +1,1 @@
+4. Në programin “Shërbime të tjera”, në buxhetin e miratuar të vitit 2014, për Sekretariatin Teknik të Këshillit Kombëtar të Ujit, shtohet fondi prej 20 000 000 (njëzet milionë lekësh), në zërin “Shpenzime korrente”.

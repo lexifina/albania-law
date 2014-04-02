@@ -1,0 +1,1 @@
+3. Në programin “Mbështetje diplomatike jashtë shtetit”, në buxhetin e vitit 2014, miratuar për Ministrinë e Punëve të Jashtme, pakësohet fondi prej 20 000 000 (njëzet milionë) lekësh, në zërin “Shpenzime korrente”.
