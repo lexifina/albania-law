@@ -1,0 +1,1 @@
+5. Komisioni harton, shqyrton dhe i propozon ministrit të Mjedisit marrëveshje bashkëpunimi me secilin vend fqinj, duke trajtuar të gjitha çështjet që lidhen me menaxhimin e integruar të burimeve ujore ndërmjet vendeve respektive.
