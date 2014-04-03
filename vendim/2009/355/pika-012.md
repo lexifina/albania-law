@@ -1,1 +1,0 @@
-12. Drejtoria, që ka në përgjegjësi çështjet e migracionit në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, e përcjell dokumentacionin e paraqitur në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit/zyrën përkatëse të punësimit, sipas kompetencës territorale, që ato kanë.

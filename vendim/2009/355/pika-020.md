@@ -1,1 +1,0 @@
-20. Zyra përkatëse e punësimit, pas paraqitjes së kërkesës për ripërtëritjen e lejes së mëparshme të punës, të tipit B/I, e pajis të huajin me dokumentin zëvendësues të lejes së punës, sipas përcaktimeve të nenit 46 të ligjit nr.9959, datë 17.7,2008, “Për të huajt”.

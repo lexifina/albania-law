@@ -1,1 +1,0 @@
-10. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit zyra përkatëse e punësimit ia refuzon kërkesën për pajisje me leje pune, të tipit B/I, investitorit, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikën 1 të këtij vendimi ose është në kushtet e pikës 21 të këtij vendimi.
