@@ -1,1 +1,0 @@
-9. Drejtoria, që ka në përgjegjësi çështjet e migracionit, në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, për pranimin/refuzimin e të huajit për përjashtim nga detyrimi për t’u pajisur me leje pune, ndjek procedurat e përcaktuara në pikat 4,5,6,7 të këtij vendimi.
