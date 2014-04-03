@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit, për pajisjen me leje pune të vazhdueshme të tipit “D”, për personat e parashikuar në nenin 51 të ligjit nr. 108/2013 “Për të huajt”, ndjek procedurat e parashikuara në pikat 5, 6, 7 e 8 të këtij vendimi, ndërsa për kriteret dhe dokumentacionin, vlerësimi bëhet sipas përcaktimeve në pikat 1 e 3 të këtij vendimi.

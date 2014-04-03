@@ -1,0 +1,1 @@
+6. Nëse Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit vlerëson se dokumentacioni i paraqitur është i plotë apo pas plotësimit brenda afatit të caktuar, përmbush kriteret e përcaktuara në pikën 1 të këtij vendimi, e pajis të huajin, brenda 10 (dhjetë) ditëve pune me leje pune, të tipit “D”, sipas formatit të dhënë në aneksin 2 që i bashkëlidhet këtij vendimi.
