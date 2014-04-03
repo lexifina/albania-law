@@ -1,1 +1,0 @@
-21. I huaji, të cilit i rinovohet leja e punës, e tipit C, dhe i përket kategorive të përcaktuara në shkronjat “b”, “ç’, “d”, “dh” e “e” të pikës 1 të nenit 60 të ligjit nr.9959, datë 17.7.2008 “Për të huajt”, para marrjes së lejes së punës, detyrohet të paguajë tarifën prej 3 000 (tre mijë) lekësh.

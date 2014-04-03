@@ -1,1 +1,0 @@
-10. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit i kthen të huajit kërkesën dhe dokumentacionin e paraqitur, nëse ai nuk e ka plotësuar atë brenda afatit të përcaktuar në pikën 7 të këtij vendimi.
