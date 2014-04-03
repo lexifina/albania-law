@@ -1,0 +1,1 @@
+13. Ministria e Mirëqenies Sociale dhe Rinisë, nëpërmjet drejtorisë që ka në përgjegjësi çështjet e migracionit, ia përcjell dokumentacionin e paraqitur Drejtorisë së Përgjithshme të Shërbimit Kombëtar të Punësimit/zyrës përkatëse të punësimit, sipas kompetencës territoriale, që ato kanë.

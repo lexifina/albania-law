@@ -1,0 +1,1 @@
+15. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, nëpërmjet Ministrisë së Mirëqenies Sociale dhe Rinisë ia përcjell Ministrisë së Punëve të Jashtme njoftimin për pajisjen/refuzimin e lejes së punës të tipit “A/AF”.
