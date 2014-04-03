@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, pasi shqyrton dokumentacionin dhe vlerëson se ai nuk është në përputhje me kërkesat e pikës 3 të këtij vendimi, i kërkon të huajit plotësimin e këtij dokumentacioni brenda 10 (dhjetë) ditëve pune.
