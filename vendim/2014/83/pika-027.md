@@ -1,0 +1,1 @@
+27. Vendimi nr. 351, datë 6.3.2009 i Këshillit të Ministrave “Për përcaktimin e kritereve, të dokumentacionit e të procedurës, për pajisjen, refuzimin, ripërtëritjen dhe anulimin e lejes së punës, për veprimtari të pavarur ekonomike, si i vetëpunësuar”, shfuqizohet.
