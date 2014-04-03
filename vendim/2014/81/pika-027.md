@@ -1,0 +1,1 @@
+27. Vendimi nr. 359, datë 6.3.2009 i Këshillit të Ministrave “Për përcaktimin e kritereve, të dokumentacionit dhe të procedurës për pajisjen, refuzimin dhe anulimin e lejes së punës të tipit “A/P””, shfuqizohet.
