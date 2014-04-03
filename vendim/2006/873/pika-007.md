@@ -1,1 +1,1 @@
-7. Punëdhënësit privatë, të cilët pranojnë në mjediset e tyre punëkërkues, të përfshirë në programet e praktikave profesionale, përfitojnë një financim mujor, nga zyra përkatëse e punësimit, në masën 100 për qind të nivelit bazë të pagesës së papunësisë, për çdo muaj praktikë të punëkërkuesit.
+7. Punëdhënësit mund të aplikojnë për programin në mënyrë elektronike apo pranë zyrave të punësimit.
