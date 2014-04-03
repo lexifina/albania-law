@@ -1,0 +1,1 @@
+7. Drejtoria që ka në përgjegjësi çështjet e migracionit, në Ministrinë e Mirëqenies Sociale dhe Rinisë, ia kthen kërkesën dhe dokumentacionin e paraqitur personit të përcaktuar në pikën 2 të këtij vendimi, nëse ai nuk e ka plotësuar atë brenda afatit të përcaktuar në pikën 5 të tij.

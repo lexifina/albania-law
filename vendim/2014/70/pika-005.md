@@ -1,0 +1,1 @@
+5. Nëse kërkesa paraqitet në drejtorinë që ka në përgjegjësi çështjet e migracionit, në Ministrinë e Mirëqenies Sociale dhe Rinisë, ajo, pasi shqyrton dokumentacionin e paraqitur dhe vlerëson se nuk është në përputhje me kërkesat e pikës 2 të këtij vendimi, i kërkon të huajit plotësimin e tij, brenda 10 (dhjetë) ditëve pune.

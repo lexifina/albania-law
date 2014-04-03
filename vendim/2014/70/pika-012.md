@@ -1,0 +1,1 @@
+12. Ministria e Punëve të Jashtme njofton përfaqësinë diplomatike të Republikës së Shqipërisë, në vendin e origjinës së të huajit, për pranimin/refuzimin e kërkesës së të huajit, për pajisje me certifikatë regjistrimi në punë.

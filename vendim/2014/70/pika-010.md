@@ -1,0 +1,1 @@
+10. Drejtoria që ka në përgjegjësi çështjet e migracionit, në Ministrinë e Mirëqenies Sociale dhe Rinisë, për pranimin/refuzimin e të huajit për pajisje me certifikatë regjistrimi në punë, ndjek procedurat e përcaktuara në pikat 5, 6, 7 e 8 të këtij vendimi.
