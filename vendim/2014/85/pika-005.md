@@ -1,0 +1,1 @@
+5. Nëse kërkesa paraqitet pranë Drejtorisë se Përgjithshme të Shërbimit Kombëtar të Punësimit/zyrës përkatëse të punësimit, autoriteti përkatës, pasi shqyrton dokumentacionin e paraqitur dhe vlerëson se ai nuk është në përputhje me kërkesat e pikës 3 të këtij vendimi, i kërkon të huajit plotësimin e tij, brenda 10 (dhjetë) ditëve pune.

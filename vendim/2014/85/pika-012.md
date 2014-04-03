@@ -1,0 +1,1 @@
+12. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, për pajisjen/refuzimin e të huajit të lejes së punës të tipit “A/TN”, ndjek procedurat e përcaktuara në pikat 5, 6, 7, 8 e 9 të këtij vendimi, ndërsa për kriteret dhe dokumentacionin, vlerësimi bëhet sipas përcaktimeve në pikat 1, 3, 6 e 15 të tij.
