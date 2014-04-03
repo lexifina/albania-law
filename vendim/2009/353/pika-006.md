@@ -1,4 +1,0 @@
-6. Personat e përcaktuar në pikën 3 të këtij vendimi, paraqesin kërkesën dhe dokumentacionin e përcaktuar në pikën 4 të këtij vendimi, për pajisjen, për herë të parë, me leje pune, ose të përcaktuar në pikën 5 të këtij vendimi, në rast të ripërtëritjes së lejes së punës:
-a) në zyrën përkatëse të punësimit, në territorin e së cilës punëdhënësi, pranë të cilit do të punësohet, ushtron veprimtarinë ekonomike, nëse është me qëndrim të ligjshëm në territorin e Republikës së Shqipërisë;
-b) në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit, nëse punëdhënësi, pranë të cilit do të punësohet, e ushtron veprimtarinë ekonomike në më shumë se një rajon gjeografik, nëse është me qëndrim të ligjshëm në territorin e Republikës së Shqipërisë;
-c) në përfaqësinë diplomatike të Republikës së Shqipërisë, në vendin e tij të origjinës.

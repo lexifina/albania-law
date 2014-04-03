@@ -1,1 +1,0 @@
-12. Nëse kërkesa është paraqitur pranë përfaqësisë diplomatike të Republikës së Shqipërisë, në vendin e origjinës së të huajit, ajo, nëpërmjet Ministrisë së Punëve të Jashtme (Qendrës Kombëtare të Vizave), e përcjell dokumentacionin e paraqitur pranë saj në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit.
