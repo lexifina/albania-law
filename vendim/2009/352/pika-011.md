@@ -1,1 +1,0 @@
-11. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit i refuzon kërkesën për pajisje me leje pune, të tipit A/AF, ose ripërtëritjen e saj të huajit, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikat 1, 2 ose 17 të këtij vendimi.
