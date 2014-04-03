@@ -1,0 +1,1 @@
+4. Personat e përcaktuar në pikën 2 të këtij vendimi, paraqesin kërkesën dhe dokumentacionin e përcaktuar në pikën 3 të këtij vendimi, në zyrën përkatëse të punësimit, në territorin e së cilës është punëdhënësi apo ushtrohet veprimtaria ekonomike, nëse i huaji ka hyrë në mënyrë të ligjshme në territorin e Republikës së Shqipërisë.

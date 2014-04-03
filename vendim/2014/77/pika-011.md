@@ -1,0 +1,1 @@
+11. Zyra përkatëse e punësimit, për ripërtëritjen e lejes së punës të tipit “A/NK” apo për refuzimin e saj ndjek, brenda një periudhe prej 30 (tridhjetë) ditësh pune, procedurat e parashikuara në pikat 5, 6, 7, 8 e 9 të këtij vendimi, ndërsa për kriteret dhe dokumentacionin, vlerësimi bëhet sipas përcaktimeve të pikave 1 e 10 të këtij vendimi.
