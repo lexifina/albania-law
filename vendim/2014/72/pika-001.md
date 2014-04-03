@@ -1,0 +1,1 @@
+1. Në fondin e kompensimit fizik, në dispozicion të Agjencisë së Kthimit dhe Kompensimit të Pronave, do të kalojë një sipërfaqe toke prej 25 000 (njëzet e pesë mijë) ha, në pronësi shtetërore, dhënë në përdorim njësive të qeverisjes vendore.

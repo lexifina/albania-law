@@ -1,0 +1,1 @@
+3. Lista për sipërfaqen e tokës në përdorim të njësive të qeverisjes vendore, që do të kalojë në fondin e kompensimit fizik, në dispozicion të Agjencisë së Kthimit dhe Kompensimit të Pronave, duhet t’i paraqitet për miratim Këshillit të Ministrave pas përfundimit të saj.
