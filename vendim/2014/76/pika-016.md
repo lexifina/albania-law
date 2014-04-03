@@ -1,0 +1,1 @@
+16. Anulimi dhe refuzimi i lejes së punës të tipit “A/S” apo ripërtëritja e saj bëhen kur i huaji është në njërën nga situatat e parashikuara në nenet 77 e 80, pika 1 të ligjit nr. 108/2013 “Për të huajt”.

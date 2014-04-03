@@ -1,0 +1,1 @@
+14. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit, nëpërmjet Ministrisë së Mirëqenies Sociale dhe Rinisë, e përcjell në Ministrinë e Punëve të Jashtme njoftimin për pajisjen/refuzimin e lejes së punës të tipit “A/S”.
