@@ -1,0 +1,1 @@
+17. Anulimi dhe refuzimi i lejes së punës të tipit “A/FP”, apo ripërtëritja e saj bëhen edhe nëse vërtetohet njëra nga situatat e përcaktuara në pikën 1 të nenit 80, apo në nenin 77 të ligjit nr. 108/2013 “Për të huajt”.

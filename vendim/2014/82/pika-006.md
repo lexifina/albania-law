@@ -1,0 +1,4 @@
+6. Personat e përcaktuar në pikën 3 të këtij vendimi, paraqesin kërkesën dhe dokumentacionin për pajisjen për herë të parë me leje pune të tipit “A/FP”, për formimin profesional ose për ripërtëritjen e lejes së punës, sipas parashikimeve, përkatësisht, të pikave 4 e 5 të këtij vendimi:
+a) në zyrën përkatëse të punësimit, në territorin e së cilës zhvillon veprimtarinë subjekti, ofrues i kursit të formimit, nëse është me qëndrim të ligjshëm, në territorin e Republikës së Shqipërisë;
+b) në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit, nëse subjekti, ofrues i kursit të formimit, e zhvillon veprimtarinë në më shumë së një rajon gjeografik e nëse është me qëndrim të ligjshëm, në territorin e Republikës së Shqipërisë;
+c) në përfaqësinë diplomatike të Republikës së Shqipërisë, në vendin e tij të origjinës ose në përfaqësinë diplomatike që mbulon vendin e tij të origjinës.
