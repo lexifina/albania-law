@@ -1,0 +1,1 @@
+22. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, pasi njoftohet nga autoritetet shtetërore përgjegjëse për vërtetimin e njërës nga situatat e përcaktuara në pikën 1 të nenit 80 të ligjit nr. 108/2013 “Për të huajt”, merr vendim për anulimin e lejes së punës.

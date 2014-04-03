@@ -1,0 +1,1 @@
+11. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit ia refuzon kërkesën për pajisje me leje pune të tipit “A/SP” punëmarrësit, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikat 1 e 8 të këtij vendimi, ose është në kushtet e parashikuara në pikën 21 të këtij vendimi.

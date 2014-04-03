@@ -1,0 +1,1 @@
+28. Vendimi nr. 467 datë 29.6.2011 i Këshillit të Ministrave “Për përcaktimin e kritereve, të dokumentacionit e të procedurave për pajisjen, refuzimin, ripërtëritjen dhe anulimin e lejes së tipit “C/SP””, shfuqizohet.

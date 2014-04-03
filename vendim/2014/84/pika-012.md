@@ -1,0 +1,1 @@
+12. Nëse kërkesa është paraqitur pranë përfaqësisë diplomatike të Republikës së Shqipërisë, në vendin e origjinës të të huajit ose në përfaqësinë diplomatike që mbulon vendin e tij të origjinës, kjo e fundit, nëpërmjet Ministrisë së Punëve të Jashtme, ia përcjell dokumentacionin drejtorisë që ka në përgjegjësi çështjet e migracionit, në Ministrinë e Mirëqenies Sociale dhe Rinisë.
