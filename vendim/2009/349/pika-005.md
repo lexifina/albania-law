@@ -1,1 +1,0 @@
-5. Përfaqësia diplomatike e Republikës së Shqipërisë në vendin e origjinës së të huajit, nëpërmjet Ministrisë së Punëve të Jashtme (Qendrës Kombëtare të Vizave) e përcjell dokumentacionin e paraqitur pranë saj në drejtorinë, që ka në përgjegjësi çështjet e migracionit në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta.
