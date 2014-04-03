@@ -1,0 +1,1 @@
+26. Drejtoria përgjegjëse për çështjet e migracionit, në Ministrinë e Mirëqenies Sociale dhe Rinisë, monitoron, në mënyrë periodike, procedurën e ndjekur nga zyrat përkatëse të punësimit për dhënien e lejes së punës të tipit “A/PSH”.

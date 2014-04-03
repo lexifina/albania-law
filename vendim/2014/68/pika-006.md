@@ -1,0 +1,1 @@
+6. Nëse punëtori shtëpiak, i cili kërkon të pajiset me leje pune të ripërtëritur të tipit “A/PSH”, ndryshon punëdhënësin, personat e përmendur në pikën 3 të këtij vendimi, për ripërtëritjen e lejes së punës, paraqesin dokumentacionin e përcaktuar në pikën 4 të tij.

@@ -1,0 +1,1 @@
+27. Vendimi nr. 518, datë 6.7.2011 i Këshillit të Ministrave “Për përcaktimin e kritereve, të dokumentacionit dhe të procedurave për pajisjen, refuzimin, ripërtëritjen e anulimin e lejes së punës të tipit “C/PSH”, shfuqizohet.
