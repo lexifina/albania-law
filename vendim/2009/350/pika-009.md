@@ -1,1 +1,0 @@
-9. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit ia refuzon kërkesën për pajisje me leje pune, të tipit A/SHV, punëmarrësit, i cili, megjithëse ka plotësuar dokumentacionin e kërkuar, vlerësohet se nuk plotëson kriteret e përcaktuara në pikat 1 e 6 të këtij vendimi ose është në kushtet e përcaktuara në pikën 15 të këtij vendimi.

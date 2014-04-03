@@ -1,1 +1,0 @@
-12. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit, për pajisjen/refuzimin e të huajit me leje pune, të tipit A/SHV, ndjekin procedurat e përcaktuara në pikat 5, 6, 7, 8 e 9 të këtij vendimi.
