@@ -1,0 +1,1 @@
+21. I huaji, të cilit i rinovohet leja e punës e tipit “C/SHK” dhe i përket kategorisë së përcaktuar në pikën 5 të nenit 102 të ligjit nr. 108/2013 “Për të huajt”, para marrjes së lejes së punës, detyrohet të paguajë tarifën prej 2 000 (dy mijë) lekësh.
