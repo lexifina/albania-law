@@ -1,1 +1,0 @@
-6. Rregullave për furnizimin me mallrat e parashikuara në pikën 1 të këtij vendimi, dhe të tarifave të shërbimit sipas pikës 3 të këtij vendimi, i nënshtrohen edhe furnizimit me destinacion magazinat doganore, të tipit “C” (magazina furnizimi dhe Duty Free Shops).
