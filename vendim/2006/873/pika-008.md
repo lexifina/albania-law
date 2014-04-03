@@ -1,1 +1,1 @@
-8. Masa e përfitimit, sipas pikës 7 të këtij vendimi, i jepet punëdhënësit, në rast se cakton një kujdestar, i cili do të jetë përgjegjës për mbarëvajtjen e praktikës profesionale dhe dhënien e vlerësimit përfundimtar. Punëdhënësi lëshon një vlerësim pune për periudhën e praktikës profesionale, si dhe njofton zyrën e punësimit për përfundimin e programit.
+8. Punëdhënësi lëshon një vlerësim pune për periudhën e praktikës profesionale dhe njofton zyrën e punësimit për përfundimin e programit.
