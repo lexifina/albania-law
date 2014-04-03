@@ -1,0 +1,1 @@
+17. Anulimi ose refuzimi i lejes së punës të tipit “C” apo i ripërtëritjes së saj bëhen kur i huaji është në njërën nga situatat e parashikuara në nenet 80, pika 1, dhe 81, pika 2 të ligjit nr. 108/2013 “Për të huajt”.

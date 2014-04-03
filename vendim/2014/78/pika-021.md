@@ -1,0 +1,1 @@
+21. I huaji, të cilit i rinovohet leja e punës e tipit “C” dhe i përket kategorive të përcaktuara në shkronjat “b” e “c” të nenit 101 të ligjit nr. 108/2013 “Për të huajt”, para marrjes së lejes së punës detyrohet të paguajë tarifën prej 3000 (tri mijë) lekësh.
