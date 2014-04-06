@@ -93,3 +93,16 @@ Lloji i transferimit
 4, 9, 12- 13, 15,16
 Pyll dhe kullotë
 Pronësi
+(SHTOJCA 2)
+FORMULAR PËR TRANSFERIMIN E PRONAVE TË TIPIT PYJE DHE KULLOTA
+(SHTOJCA 3)
+Komuna: Libofshë
+Qarku: Fier Lidhja nr. 1
+Numrat e pronave në listën e
+inventarit
+Fusha e përdorimit të pronës
+Lloji i
+transferimit
+1-3, 34, 36-37, 40, 43-54
+Pyje prodhues dhe monument natyre
+Pronësi
