@@ -1,0 +1,1 @@
+6. Drejtori i përgjithshëm i burgjeve, pas shqyrtimit të listës së të dënuarve që plotësojnë kriteret ligjore për t’u trajtuar me leje shpërblyese, bën planifikimin vjetor të tyre për të gjitha IEVP-të.

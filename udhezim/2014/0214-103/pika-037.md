@@ -1,0 +1,1 @@
+37. Leja shpërblyese apo e veçantë miratohet nga drejtori i IEVP-së, vetëm pasi të jetë i planifikuar nga DPB-ja dhe të ketë marrë të paktën dy mendime në favor të miratimit të saj, sipas raporteve të përgatitura nga sektori i sigurisë, ligjor dhe kujdesit social.

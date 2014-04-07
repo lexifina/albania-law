@@ -1,0 +1,1 @@
+39. Të gjitha lejet shpërblyese dhe të veçanta të dhëna regjistrohen në një regjistër të veçantë, të krijuar për këtë qëllim, i cili titullohet “Regjistri i lejeve shpërblyese dhe të veçanta të IEV Penale”. Formati i këtij regjistri është sipas formatit nr. 1, që i bashkëlidhet këtij udhëzimi.

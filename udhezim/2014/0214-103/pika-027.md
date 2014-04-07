@@ -1,0 +1,1 @@
+27. Mendimi me shkrim nga përgjegjësi i sektorit të shëndetësisë ose mjeku në IEVP ose në mungesë të tij, nga mjeku i IEVP-së për sëmundjen e anëtarit të familjes së të burgosurit që kërkon leje të veçantë, duhet të jetë në përputhje me formatin në aneksin nr.6, që i bashkëlidhet këtij udhëzimi.

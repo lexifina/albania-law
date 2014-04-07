@@ -1,0 +1,1 @@
+22. IEV Penale njofton me shkrim (dhe në komunikim me telefon) brenda 24-orësh drejtorinë e policisë së qarkut dhe komisariatin e policisë së rrethit që ka në juridiksion vendbanimin e të burgosurit për dhënien e lejes së veçantë të burgosurit, sipas formatit në aneksin nr. 11, që i bashkëlidhet këtij udhëzimi.

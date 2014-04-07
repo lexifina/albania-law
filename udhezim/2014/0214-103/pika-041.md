@@ -1,0 +1,1 @@
+41. Drejtori i IEV Penale i dërgon drejtorit të përgjithshëm të burgjeve dhe Ministrit të Drejtësisë brenda 24 orëve nga miratimi i lejes, njoftimin për dhënien e lejes shpërblyese ose të veçantë dhe brenda 5 ditëve, të gjithë dokumentacionin që ka shërbyer për të miratuar këtë leje.

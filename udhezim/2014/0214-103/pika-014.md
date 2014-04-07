@@ -1,0 +1,1 @@
+14. Punonjësit e kujdesit social, përpara hartimit të raporteve për lejet shpërblyese, duhet të marrin në konsideratë masat e marra (të paktën një vit pa masa), takimet me të afërmit, sjelljet me të burgosurit dhe punonjësit në institucion, natyrën dhe llojin e veprës së kryer.

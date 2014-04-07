@@ -1,0 +1,1 @@
+19. Sektori i kujdesit social dhe i sigurisë në IEVP, gjatë periudhës së lejeve shpërblyese apo të veçanta, vëzhgon dhe regjistron sjelljet e veçanta të çdo të burgosuri në një regjistër të posaçëm, që përditësohet çdo javë nga këta sektorë. Shënimet e regjistrit administrohen në dosjen personale të të burgosurit.
