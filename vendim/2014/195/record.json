@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10584,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 42, DATË 17.1.1998 TË KËSHILLIT TË MINISTRAVE “PËR MIRATIMIN E STATUTIT TË SHËRBIMIT KOMBËTAR TË PUNËSIMIT”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "195",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2014-04-02",
+  "published": "2014-04-08",
+  "in_force": "2014-04-08",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/cb4f51f3f8db535866da74c22fd4a67e73a99e8ebe3d6add61fbe2c96bb4e243.docx",
+  "source_sha256": "cb4f51f3f8db535866da74c22fd4a67e73a99e8ebe3d6add61fbe2c96bb4e243",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10584",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/04/02/195",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
