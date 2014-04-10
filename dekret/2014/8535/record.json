@@ -1,0 +1,26 @@
+{
+  "qbz_id": 10596,
+  "title": "PËR SHPALLJE LIGJI DHE DHËNIEN E PËLQIMIT PËR HYRJEN NË FUQI MENJËHERË TË LIGJIT",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8535",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2014-04-08",
+  "published": "2014-04-10",
+  "in_force": "2014-04-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/bd856325f1c8b1bf22b5c7343f83ac1be9e803737c3ad75d0d7f3547c0c4e033.docx",
+  "source_sha256": "bd856325f1c8b1bf22b5c7343f83ac1be9e803737c3ad75d0d7f3547c0c4e033",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10596",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2014/04/08/8535",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
