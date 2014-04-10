@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes shtesë të financimit dhe projektit, të nënshkruar më 13 dhjetor 2007, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave e Ujësjellës-Kanalizime Shkodër, dhe KfW Frankfurt am Main, për financimin e programit “Mbrojtja mjedisore e liqenit të Shkodrës”, sipas tekstit dhe relacionit që i bashkëlidhen këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
