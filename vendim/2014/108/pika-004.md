@@ -1,0 +1,1 @@
+4. Çdo institucion i administratës shtetërore përgatit planin e nevojave të tij për rekrutim në shërbimin civil për vitin e ardhshëm. Departamenti i Administratës Publike përgatit planin e nevojave të rekrutimit për TND-në.

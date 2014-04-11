@@ -1,0 +1,1 @@
+1. Përcaktimin e përmbajtjes, të afatit të miratimit e të mënyrës së bërjes publike të planeve të pranimit për institucionet e administratës shtetërore, institucionet e pavarura dhe njësitë e qeverisjes vendore, si dhe të procedurave të hollësishme për përgatitjen e miratimin e planit të përgjithshëm të pranimit për institucionet e administratës shtetërore.

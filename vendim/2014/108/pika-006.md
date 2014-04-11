@@ -1,0 +1,1 @@
+6. Njësia e menaxhimit të burimeve njerëzore në Kryeministri dhe çdo ministri hartojnë planin e konsoliduar të nevojave për rekrutim për të gjithë sistemin përkatës që përfshin aparatin e tij dhe institucionet e varësisë.

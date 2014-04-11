@@ -1,0 +1,1 @@
+7. Sekretari i Përgjithshëm i Këshillit të Ministrave apo ministrive, brenda muajit nëntor, i dërgon Departamentit të Administratës Publike planin e konsoliduar të nevojave për pranim për të gjithë sistemin përkatës.

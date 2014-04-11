@@ -1,0 +1,1 @@
+5. Institucionet në varësi të Kryeministrit apo të ministrave, jo më vonë se muaji tetor i çdo viti kalendarik, e paraqesin planin e nevojave për rekrutim, përkatësisht te Sekretari i Përgjithshëm i Këshillit të Ministrave apo te ministri përkatës deri në fund të muajit tetor.
