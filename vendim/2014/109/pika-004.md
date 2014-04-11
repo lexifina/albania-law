@@ -1,0 +1,1 @@
+4. Vlerësimi i rezultateve në punë për anëtarët e TND-së kryhet nga Komisioni Kombëtar i Përzgjedhjes (në vijim KKP) për TND-në, i krijuar sipas nenit 31 të ligjit nr. 152/2013 “Për nëpunësin civil”, ndërsa për nëpunësit civilë të kategorisë së lartë drejtuese në institucionet e pavarura dhe njësitë e qeverisjes vendore nga eprori direkt.

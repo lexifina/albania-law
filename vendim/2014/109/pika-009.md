@@ -1,0 +1,1 @@
+9. Gjatë vlerësimit të rezultateve në punë sipas pikës 8 të këtij kreu, zyrtarët mund të mbajnë parasysh rrethana të veçanta apo faktorë, që nuk varen nga individi, të cilat mund të kenë ndikuar direkt ose indirekt në rezultatin e punës së nëpunësit.

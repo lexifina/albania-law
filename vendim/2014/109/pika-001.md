@@ -1,0 +1,1 @@
+1. Ky vendim përcakton procedurën e vlerësimit të rezultateve në punë të nëpunësve civilë në institucionet e administratës shtetërore, institucionet e pavarura e njësitë e qeverisjes vendore dhe kompetencat për vlerësimin.
