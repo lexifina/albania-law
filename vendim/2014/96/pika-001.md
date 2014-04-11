@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Ministrisë së Drejtësisë bëhet, gjithsej, 4 345 veta. Shtesa prej 8 vetash i kalon Avokaturës së Shtetit dhe numri i përgjithshëm i punonjësve të saj bëhet, gjithsej, 63 veta.

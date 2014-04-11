@@ -1,0 +1,1 @@
+2. Numri i punonjësve të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave bëhet, gjithsej, 2 168 veta. Shtesa prej 26 vetash i kalon Drejtorisë së Shërbimit të Peshkimit dhe Akuakulturës.
