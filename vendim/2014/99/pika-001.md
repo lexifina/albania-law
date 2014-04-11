@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të disa ambienteve, nga Njësia e Mbikëqyrjes së Lojërave të Fatit te Ministria e Financave, për Agjencinë e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara, sipas planimetrisë dhe formularit bashkëlidhur këtij vendimi.
