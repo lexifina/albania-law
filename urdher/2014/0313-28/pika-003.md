@@ -1,0 +1,1 @@
+3. Eprori, apo çdo zyrtar tjetër, nuk bën prezent pranë autoritetit përgjegjës për parandalimin e konfliktit të interesit, informacionin që disponon lidhur me interesat privatë, të cilat bëhen shkak për konflikt të interesit për zyrtarët.

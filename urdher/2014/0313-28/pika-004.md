@@ -1,0 +1,1 @@
+4. Struktura përgjegjëse në institucionin publik, gjatë mbledhjes së informacionit për interesat privatë të zyrtarëve, nuk ruan konfidencialitetin e të dhënave sipas përcaktimit të pikës 2/1 të nenit 10 të ligjit nr. 9367, datë 7.4.2005, të ndryshuar.

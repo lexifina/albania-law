@@ -1,0 +1,1 @@
+6. Titullari dhe autoriteti përgjegjës nuk përmbushin detyrimin e përcaktuar në nenin 46 të ligjit, për nxjerrjen e akteve nënligjore për parandalimin e konfliktit të interesave në institucionet publike.

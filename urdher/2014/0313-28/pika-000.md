@@ -1,0 +1,1 @@
+Përcaktimin e shkeljeve të tjera të ligjit nr. 9367, datë 7.4.2005 “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”, të ndryshuar, që konstatohen gjatë veprimtarisë kontrolluese të Inspektoratit të Lartë, të cilat do të sanksionohen sipas masës së parashikuar në pikën 1, germa “e” të nenit 44 të këtij ligji, në rastet kur:

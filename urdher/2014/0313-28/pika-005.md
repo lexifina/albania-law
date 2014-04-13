@@ -1,0 +1,1 @@
+5. Vërtetohet se eprori ka ushtruar kompetenca administrative me efekte ndëshkuese ndaj subjektit/zyrtarit, për shkak të informacionit të dhënë nga ky i fundit, lidhur me ekzistencën e interesave privatë të eprorit apo çdo zyrtari tjetër në institucionin publik.
