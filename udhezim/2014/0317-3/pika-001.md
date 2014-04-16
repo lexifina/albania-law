@@ -1,0 +1,1 @@
+1. Njësitë e qeverisjes vendore, të cilat shprehin interesin e tyre për përfitimin nga programi i banesave me kosto të ulët për komunitetin rom, të paraqesin pranë Ministrisë së Zhvillimit Urban dhe Turizmit, kërkesën dhe projektet përkatëse të hartuara sipas termave të referencës që i bashkëlidhen këtij udhëzimi.

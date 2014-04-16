@@ -1,0 +1,1 @@
+2. Fondi prej 30,000,000 (tridhjetë milionë) lekësh, planifikuar në planin e investimeve të buxhetit të MZHUT-së për vitin buxhetor 2014, të jepet në formë granti për njësinë vendore, projekti i së cilës do të vlerësohet mes të gjitha projekteve të paraqitura.
