@@ -1,0 +1,1 @@
+2. Në ushtrimin e kësaj kompetence, drejtori i përgjithshëm i Agjencisë Kombëtare të Turizmit të zbatojë kriteret e përcaktuara në vendimin nr. 997, datë 10.12.2010 të Këshillit të Ministrave “Për trajtimin financiar të punonjësve që dërgohen me shërbim jashtë qendrës së punës, brenda vendit”, të ndryshuar.
