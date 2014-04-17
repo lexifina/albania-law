@@ -1,0 +1,1 @@
+2. Ky vendim dhe aktrakordimi, të nënshkruar ndërmjet palëve, përbëjnë dokumentacionin bazë financiar për kryerjen e veprimeve kontabël dhe mbylljen e llogarive të pagueshme (kreditorët) apo të arkëtueshme (debitorët).
