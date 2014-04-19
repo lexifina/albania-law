@@ -1,0 +1,1 @@
+6. Nëpunësi/punonjësi është i detyruar t’u përgjigjet menjëherë kërkesave të njësisë së menaxhimit të burimeve njerëzore, për të gjitha të dhënat e përcaktuara në pikën 3 të kreut I të këtij vendimi, si dhe të njoftojë menjëherë për ndryshimin e tyre.

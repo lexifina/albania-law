@@ -1,0 +1,1 @@
+12. Departamenti i Administratës Publike është administratori i vetëm dhe fuqiplotë i Regjistrit Qendror të Personelit dhe përgjegjës i drejtpërdrejtë për strukturën e bazës së të dhënave, anën funksionale dhe operacionale.

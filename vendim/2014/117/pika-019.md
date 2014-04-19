@@ -1,0 +1,1 @@
+19. Nëpërmjet ministrit përgjegjës për administratën publike ose drejtpërdrejt, Departamenti i Administratës Publike nxjerr udhëzime më të hollësishme në lidhje me elementet elektronike përbërëse, funksionet, përdorimin dhe administrimin e Regjistrit Qendror të Personelit, të cilat janë të detyrueshme për t’u zbatuar nga institucionet të cilave u drejtohen.
