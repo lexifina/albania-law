@@ -1,0 +1,1 @@
+18. Në rastet e parashikuara në pikën 16 të këtij vendimi, përfaqësuesi i DAP-it dhe përfaqësuesi nga TND-ja zëvendësohen nga nëpunësi më i vjetër i institucionit të tyre, që vjen drejtpërdrejt pas tij në shkallën e hierarkisë së këtij institucioni.

@@ -1,0 +1,1 @@
+13. Në rast se asnjë prej kandidatëve nuk emërohet nga Këshilli i Ministrave, ministri përgjegjës për administratën publike shpall përsëri hapjen e procedurës së përzgjedhjes, sipas pikave 8, 9, 10 e 11 të këtij vendimi.

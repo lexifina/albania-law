@@ -1,0 +1,1 @@
+10. Ministri përgjegjës për administratën publike, pasi verifikon plotësimin e kritereve formale të kandidatëve, bën dëgjesa publike me të ftuar nga institucionet qendrore, shoqëria civile, bota akademike apo shoqatat e biznesit, me qëllim përzgjedhjen e kandidatëve.

@@ -1,0 +1,1 @@
+21. Procedura e lirimit nga detyra për anëtarët që vijnë nga ASPA dhe personalitetet e shquara, fillon nga KKP-ja. Komisioni Kombëtar i Përzgjedhjes (KKP) përgatit një raport dhe bashkë me komentet e personit të interesuar ia dërgon organit respektiv për vendim.

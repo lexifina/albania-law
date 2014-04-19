@@ -1,0 +1,1 @@
+16. Rastet e papajtueshmërisë, të pamundësisë dhe të konfliktit të interesit për anëtarët e KKP-së zgjidhen në bazë të parashikimeve të Kodit të Procedurave Administrative dhe legjislacionit në fuqi për konfliktin e interesit.

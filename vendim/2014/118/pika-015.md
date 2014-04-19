@@ -1,0 +1,1 @@
+15. KKP-ja mblidhet, organizohet dhe funksionon me pjesëmarrjen e të paktën 2/3 e anëtarëve të tij. Mbledhjet e KKP-së thirren nga 1/3 e anëtarëve të tij. KKP-ja merr vendime me 2/3 e të gjithë anëtarëve, me përjashtim të rasteve kur parashikohet ndryshe në këtë vendim. Mbledhjet e KKP-së janë të mbyllura. Procesverbali i mbledhjes mbahet nga përfaqësuesi i sekretariatit teknik.

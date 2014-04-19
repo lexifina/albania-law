@@ -1,0 +1,1 @@
+11. Pas realizimit të procedurës së mësipërme, ministri përgjegjës për administratën publike brenda 20 (njëzet) ditëve nga depozitimi i dokumenteve, propozon në Këshillin e Ministrave kandidaturat e përzgjedhura nga procesi i parashikuar sipas pikës 10 të këtij vendimi.
