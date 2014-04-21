@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga zgjerimi i varrezave publike, fazat I dhe II, në Bashkinë e Shkodrës, sipas tabelës që i bashkëlidhet këtij vendimi.
