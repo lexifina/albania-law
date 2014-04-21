@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i objektit “Furnizimi me ujë i plazheve Durrës-Kavajë (nga pusshpimet e Çermës, degëzimi në Kavajë, deri në depon e re, Arapaj, loti III)”.

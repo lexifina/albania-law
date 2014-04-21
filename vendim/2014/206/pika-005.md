@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 1 858 229 (një milion e tetëqind e pesëdhjetë e tetë mijë e dyqind e njëzet e nëntë) lekësh, të përballohet nga buxheti i vitit 2014, miratuar për Drejtorinë e Përgjithshme të Ujësjellës-Kanalizimeve, zëri “Investime”.

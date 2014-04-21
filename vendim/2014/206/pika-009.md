@@ -1,0 +1,1 @@
+9. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, Durrës, të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së planit të objektit mbi hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
