@@ -1,0 +1,1 @@
+1. Ministrisë së Kulturës, në buxhetin e miratuar për vitin 2014, zëri 604, aparati “Projekte në art”, t’i shtohet fondi prej 7 740 900 (shtatë milionë e shtatëqind e dyzet mijë e nëntëqind) lekë, me qëllim mbulimin e shpenzimeve të qirasë për përfaqësimin e Shqipërisë në Bienalen e Arkitekturës, që do të mbahet në Venecia, Itali, në periudhën 7.6.2014-23.11.2014.
