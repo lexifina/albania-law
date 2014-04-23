@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Agjencisë së Legalizimit, Urbanzimit dhe Integrimit të Zonave/Ndërtimeve Informale, jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km, të lëshohen nga drejtori i përgjithshëm i Agjencisë së Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale.
