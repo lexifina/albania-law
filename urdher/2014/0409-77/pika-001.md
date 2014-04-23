@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Arkivit Qendror Teknik të Ndërtimit jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km, të lëshohen nga drejtori i përgjithshëm i Arkivit Qendror Teknik, të Ndërtimit.
