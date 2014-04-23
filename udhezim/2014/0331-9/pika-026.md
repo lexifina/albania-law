@@ -1,0 +1,1 @@
+26. Në përfundim të punimeve të ndërtimit, të kryera në përputhje me lejen/lejet e dhëna, sipas këtij udhëzimi, mbi bazën e një kërkese të paraqitur nga subjekti i pajisur me leje nëpërmjet shërbimit postar në MAS dhe dokumentacionin sipas shtojcës 2 të këtij udhëzimi, lëshohet “leja e përdorimit” nga ministri i MAS-it.

@@ -1,0 +1,1 @@
+30. Sekretariati i Komisionit, nëpërmjet zyrës së protokollit në MAS, i dorëzon përfaqësuesit ligjor të subjektit aplikues, apo të autorizuarit të tij, një kopje origjinale të dokumentit të lejes së përdorimit, të firmosur nga ministri.

@@ -1,0 +1,1 @@
+23. Pas dërgimit në MAS të vendimit të KKT-së për miratimin e lejes zhvillimore, sekretariati përgatit dokumentin administrativ teknik për zbardhjen e lejes, sipas formularit përkatës të vendimit të Këshillit të Ministrave nr. 502, datë 13.7.2011 “Për miratimin e rregullores uniforme të kontrollit të zhvillimit të territorit”, të ndryshuar.

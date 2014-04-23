@@ -1,0 +1,1 @@
+15. Nëse dokumentacioni është i plotë, për kërkesën dhe dokumentacionin shoqërues të këtij aplikimi, nëpërmjet kryetarit të Komisionit, përcillet nga sekretariati njoftim në Agjencinë Kombëtare të Planifikimit të Territorit (AKPT) për vlerësim dhe pasqyrim në regjistër, si dhe përcillet kërkesa për marrje mendimi oponent nga institucione ose ekspertë të fushës.

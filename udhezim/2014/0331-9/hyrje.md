@@ -1,0 +1,5 @@
+Udhëzim
+Nr. 9, datë 31.3.2014
+Për përcaktimin e rregullave dhe procedurave të trajtimit të kërkesave për leje zhvillimore, si dhe ngritjen e komisionit për shqyrtimin dhe dhënien e këtyre lejeve
+Në mbështetje të nenit 102 të Kushtetutës, të pikës 1/a të nenit 72, pikës 2 të nenit 76, nenit 79 të ligjit nr. 10119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar, nenit 8, nenit 10, nenit 13 dhe nenit 14 të ligjit nr. 110/2013, miratuar në datën 1.4.2013 “Për disa shtesa dhe ndryshime në ligjin nr. 10119, datë 23.4.2009 “Për planifikimin e territorit””, të ligjit nr. 8402, datë 10.9.1998 “Për kontrollin dhe disiplinimin e punimeve të ndërtimit”, të ndryshuar, si dhe të nenit 11, pikës 1/b të nenit 12, nenit 16 dhe nenit 18 të vendimit të Këshillit të Ministrave nr. 502, datë 13.7.2011 “Për miratimin e rregullores uniforme të kontrollit të zhvillimit të territorit”, të ndryshuar, si dhe vendimit të Këshillit të Ministrave nr. 843, datë 27.9.2013 “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Arsimit dhe Sportit”,
+Udhëzoj:
