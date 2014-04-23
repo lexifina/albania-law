@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Entit Kombëtar të Banesave jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km, të lëshohen nga drejtori i përgjithshëm i Entit Kombëtar të Banesave.
