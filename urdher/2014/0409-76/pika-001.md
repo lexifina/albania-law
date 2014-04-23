@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Agjencisë Kombëtare të Bregdetit jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km, të lëshohen nga drejtori i përgjithshëm i Agjencisë Kombëtare të Bregdetit.
