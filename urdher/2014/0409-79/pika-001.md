@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Inspektoratit Ndërtimor Urbanistik Kombëtar jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km, të lëshohen nga drejtori i përgjithshëm i Inspektoratit Ndërtimor Urbanistik Kombëtar.
