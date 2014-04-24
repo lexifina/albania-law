@@ -1,1 +1,0 @@
-29. Efektet financiare të këtij vendimi, për vitin 2013, në masën 10 578 680 (dhjetë milionë e pesëqind e shtatëdhjetë e tetë mijë e gjashtëqind e tetëdhjetë) lekë, të cilat i shtohen programit “Menaxhimi dhe zhvillimi i administratës publike”, në Ministrinë e Brendshme, në zërin “Shpenzime për investime”, të përballohen nga fondi rezervë i Këshillit të Ministrave.

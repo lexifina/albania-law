@@ -1,1 +1,0 @@
-6. Ministritë e linjës dhe institucionet e tjera të administratës publike përcaktojnë, deri në muajin qershor të çdo viti, nevojat për trajnime për nëpunësit e tyre gjatë vitit pasardhës, të cilat ia paraqesin për veprim ASPA-së.

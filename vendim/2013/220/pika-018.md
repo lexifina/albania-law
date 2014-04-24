@@ -1,2 +1,0 @@
-18. Nëpunësi i administratës publike mund të trajnohet jashtë vendit, në kuadrin e përgjithshëm të programeve të trajnimit, të organizuara nga institucioni, në përputhje me programet e përgjithshme të trajnimit. Në mbarim të këtyre trajnimeve, nëpunësi duhet të rikthehet të punojë në vendin e mëparshëm, por jo më pak se pesë vjet.
-Kur nëpunësi refuzon të kthehet në vendin e mëparshëm, ai duhet të dëmshpërblejë institucionin për shpenzimet e kualifikimit.

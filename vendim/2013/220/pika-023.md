@@ -1,3 +1,0 @@
-23. Trajnimi jashtë vendit i organizuar nga institucioni është me shkëputje nga puna. Gjatë periudhës së trajnimit deri në 6 (gjashtë) muaj, nëpunësi merr pagën e plotë, përjashtuar shtesat për vështirësi dhe kushte pune. Për periudhën e trajnimit që kalon 6 (gjashtë) muaj, nëpunësit i ndërpritet paga dhe familjes së tij i jepet një shpërblim i përcaktuar, si më poshtë vijon:
-a) Për nëpunësit pa ose me një pjesëtar në ngarkim, 40% të pagës së plotë, përjashtuar shtesat për vështirësi dhe kushte pune;
-b) Për nëpunësit me më shumë pjesëtarë në ngarkim, 50% të pagës së plotë, përjashtuar shtesat për vështirësi dhe kushte pune.

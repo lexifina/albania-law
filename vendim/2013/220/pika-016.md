@@ -1,1 +1,0 @@
-16. Trajnimi i parashikuar në shkronjën “a” të pikës 15 të këtij vendimi, përfshin veprimtaritë e trajnimit të përgjithshëm dhe të posaçëm për pozicionin e specialistëve në periudhë prove dhe veprimtaritë e trajnimit të posaçëm (për vendin e punës) për pozicionet e tjera të nëpunësit civil.
