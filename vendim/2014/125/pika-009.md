@@ -1,0 +1,1 @@
+9. Në buxhetin e vitit 2014, miratuar për Ministrinë e Punëve të Brendshme, në programin “Policia e Shtetit”, në zërin “Shpenzime korrente”, pakësohet fondi prej 13 000 000 (trembëdhjetë milionë) lekësh.

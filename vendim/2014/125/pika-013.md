@@ -1,0 +1,1 @@
+13. Në buxhetin e vitit 2014, miratuar për Ministrinë e Mirëqenies Sociale dhe Rinisë, në programin “Inspektimi në punë”, në zërin “Shpenzime korrente”, pakësohet fondi prej 4 000 000 (katër milionë) lekësh.

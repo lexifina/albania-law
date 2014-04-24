@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2014, miratuar për Ministrinë e Zhvillimit Urban dhe Turizmit, në programin “Planifikimi urban dhe strehimi”, në zërin “Shpenzime korrente”, shtohet fondi prej 70 000 000 (shtatëdhjetë milionë) lekësh.

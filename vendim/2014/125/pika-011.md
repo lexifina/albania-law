@@ -1,0 +1,1 @@
+11. Në buxhetin e vitit 2014, miratuar për Ministrinë e Mbrojtjes, në programin “Planifikimi, menaxhimi dhe administrimi”, pakësohet fondi prej 6.5 000 000 (gjashtë pikë pesë milionë) lekësh, dhe në programin “Mbështetja e luftimit”, pakësohet fondi prej 6.5 000 000 (gjashtë pikë pesë milionë) lekësh, në zërin “Shpenzime korrente”.

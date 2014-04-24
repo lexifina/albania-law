@@ -1,0 +1,1 @@
+6. Në buxhetin e vitit 2014, miratuar për Agjencinë Telegrafike Shqiptare, në programin “Veprimtaria telegrafike e ATSH-së”, në zërin “Shpenzime korrente”, pakësohet fondi prej 3 000 000 (tre milionë) lekësh.

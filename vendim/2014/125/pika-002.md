@@ -1,0 +1,1 @@
+2. Në buxhetin e vitit 2014, miratuar për Ministrinë e Zhvillimit Urban dhe Turizmit, në programin “Planifikimi, menaxhimi dhe administrimi”, në zërin “Shpenzime korrente”, shtohet fondi prej 10 000 000 (dhjetë milionë) lekësh.

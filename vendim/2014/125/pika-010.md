@@ -1,0 +1,1 @@
+10. Në buxhetin e vitit 2014, miratuar për Ministrinë e Drejtësisë, në programin “Planifikimi, menaxhimi dhe administrimi”, në zërin “Shpenzime korrente”, pakësohet fondi prej 3 000 000 (tre milionë) lekësh.

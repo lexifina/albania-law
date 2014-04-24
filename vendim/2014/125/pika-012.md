@@ -1,0 +1,1 @@
+12. Në buxhetin e vitit 2014, miratuar për Ministrinë e Arsimit dhe Sportit, në programin “Arsimi i mesëm profesional”, në zërin “Shpenzime korrente”, pakësohet fondi prej 6 000 000 (gjashtë milionë) lekësh.

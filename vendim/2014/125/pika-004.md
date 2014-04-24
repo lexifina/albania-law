@@ -1,0 +1,1 @@
+4. Në buxhetin e vitit 2014, miratuar për Ministrinë e Punëve të Jashtme, në programin “Aktiviteti diplomatik dhe konsullor”, në zërin “Shpenzime korrente”, pakësohet fondi prej 20 000 000 (njëzet milionë) lekësh.

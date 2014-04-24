@@ -1,0 +1,1 @@
+3. Në buxhetin e vitit 2014, miratuar për Ministrinë e Zhvillimit Urban dhe Turizmit, në programin “Planifikimi urban dhe strehimi”, kapitulli 05 “Nga të ardhurat e veta”, zëri “Shpenzime korrente”, fondi prej 100 000 000 (njëqind milionë) lekësh, rialokohet në kapitullin 01 “Çelje nga buxheti”, të po të njëjtit program dhe zë shpenzimi.
