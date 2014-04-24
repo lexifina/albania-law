@@ -1,0 +1,1 @@
+4. Për institucionet e administratës shtetërore, shpallja e procedurës së pranimit për secilin grup publikohet në portalin “Shërbimi Kombëtar i Punësimit” dhe faqen zyrtare të DAP-it dhe qëndron e publikuar deri në përfundimin e procedurës së pranimit.

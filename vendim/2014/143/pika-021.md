@@ -1,0 +1,1 @@
+21. Në rast refuzimi të kandidatit fitues për vendet vakante të propozuara apo në rast të mosemërimit të tij në një pozicion vakant ekzistues, kandidati vazhdon të qëndrojë në listën e fituesve për një periudhë dyvjeçare. Këtyre kandidatëve iu propozohen vendet e lira që mund të krijohen gjatë kësaj periudhe.
