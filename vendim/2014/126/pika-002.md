@@ -1,0 +1,1 @@
+2. Ministria e Punëve të Jashtme, nëpërmjet misionit diplomatik të Republikës së Shqipërisë në Republikën Austriake, të organizojë procedurat e nevojshme ndërshtetërore për të sjellë në atdhe eshtrat e Ekrem bej Vlorës.
