@@ -1,0 +1,2 @@
+8. Ngarkohen Ministria e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, Ministria e Financave, Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, Ministria e Kulturës, Ministria e Zhvillimit Urban dhe Turizmit, Agjencia Shqiptare e Zhvillimit të Investimeve dhe Komisari i Përgjithshëm i Shqipërisë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

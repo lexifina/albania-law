@@ -1,0 +1,1 @@
+4. Autorizohet Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA) për menaxhimin dhe administrimin e projektit “EXPO Milano 2015”, si dhe të veprimeve financiare nën mbikëqyrjen e grupit të punës, të kryesuar nga Komisari, i emëruar sipas pikës 3 të këtij vendimi.
