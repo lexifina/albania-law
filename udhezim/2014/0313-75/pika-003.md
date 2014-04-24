@@ -1,0 +1,1 @@
+3. Në marrëveshje mes palëve, dorëzimi mund të bëhet edhe direkt “de jure” në pikat ekzistuese të ruajtjes së mjeteve në përputhje me dokumentacionin respektiv të dosjes së secilit mjet të konfiskuar dhe mjetet do të vijojnë të ruhen pranë pikave ekzistuese të ruajtjes deri në përfundimin e procedurave të tjetërsimit nga Drejtoria e Përgjithshme e Rezervave Materiale të Shtetit.
