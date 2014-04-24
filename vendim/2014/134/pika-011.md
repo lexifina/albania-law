@@ -1,0 +1,1 @@
+11. Në buxhetin e vitit 2014, miratuar për Drejtorinë e Përgjithshme të Arkivave së Shtetit, në programin “Planifikimi, menaxhimi dhe administrimi”, zëri “Shpenzime personeli”, pakësohet fondi prej 8 000 mijë lekësh.

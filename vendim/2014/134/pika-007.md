@@ -1,0 +1,1 @@
+7. Në buxhetin e vitit 2014, miratuar për Departamentin e Administratës Publike, në programin “Menaxhimi dhe zhvillimi i administratës publike”, zëri “Shpenzime personeli”, shtohet fondi prej 9 390 mijë lekësh.
