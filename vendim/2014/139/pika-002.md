@@ -1,0 +1,1 @@
+2. Heqjen e pronës së përcaktuar në pikën 1 të këtij vendimi, nga lista e inventarit të pronave të paluajtshme shtetërore, e cila i bashkëlidhet vendimit nr. 834, datë 13.12.2006 të Këshillit të Ministrave.
