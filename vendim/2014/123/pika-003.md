@@ -1,0 +1,1 @@
+3. KMRR-ja është autoriteti kombëtar rregullator, i cili mbikëqyr dhe siguron zbatimin e ligjit nr. 8025, datë 9.11.1995 “Për mbrojtjen nga rrezatimet jonizuese”, të ndryshuar, të ligjit nr. 10469, datë 13.10.2011 “Për mbrojtjen nga rrezatimet jojonizuese” dhe të akteve të tjera ligjore e nënligjore në fushën e mbrojtjes nga rrezatimet jonizuese dhe jojonizuese.

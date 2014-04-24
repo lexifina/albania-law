@@ -1,0 +1,1 @@
+11. Shpërblimi për pjesëmarrje në mbledhje, për çdo anëtar dhe për sekretarin e Komisionit të Mbrojtjes nga Rrezatimi, bëhet sipas përcaktimeve të bëra në vendimin nr. 418, datë 27.6.2012 të Këshillit të Ministrave “Për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose komisioneve të njësive të qeverisjes qendrore”.

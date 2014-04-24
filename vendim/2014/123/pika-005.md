@@ -1,0 +1,1 @@
+5. KMRR-ja mblidhet, si rregull, një herë në 2 (dy) muaj, sipas njoftimit të kryetarit dhe mbledhjet zhvillohen me jo më pak se 2/3 e anëtarëve. Njoftimi, ku përcaktohen rendi i ditës dhe materialet që do të diskutohen në mbledhje, u dërgohet anëtarëve të komisionit të paktën 7 (shtatë) ditë përpara datës së caktuar për mbledhje.

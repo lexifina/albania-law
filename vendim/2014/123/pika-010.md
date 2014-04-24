@@ -1,0 +1,1 @@
+10. KMRR-ja miraton çdo vit raportin vjetor për sigurinë dhe sigurimin e burimeve të rrezatimit jonizues dhe jojonizues në Republikën e Shqipërisë, të përgatitur nga Zyra e Mbrojtjes nga Rrezatimet në bashkëpunim me institucione të tjera të fushës.

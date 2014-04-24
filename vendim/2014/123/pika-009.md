@@ -1,0 +1,1 @@
+9. Mandati i anëtarëve të komisionit është katërvjeçar. Nëse institucioni përkatës nuk paraqet ndryshim, pas skadimit të afatit të mandatit, atëherë mandati i personit është i vlefshëm dhe për katër vite të tjera.
