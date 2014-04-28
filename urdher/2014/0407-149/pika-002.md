@@ -1,0 +1,1 @@
+2. Udhëzimi nr. 109, datë 2.10.2012 “Mbi përcaktimin e rregullave të zbatimit të vlefshmërisë ajrore dhe të certifikimit mjedisor të avionëve dhe të produkteve që kanë lidhje me ta, pjesëve dhe pajisjeve, si dhe për certifikimin e organizatave të projektimit dhe prodhimit”, shfuqizohet.

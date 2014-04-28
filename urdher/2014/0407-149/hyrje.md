@@ -1,0 +1,5 @@
+URDHËR
+Nr. 149, datë 7.4.2014
+PËR MIRATIMIN E RREGULLORES PËR PËRCAKTIMIN E RREGULLAVE TË ZBATIMIT TË VLEFSHMËRISË AJRORE DHE TË cERTIFIKIMIT MJEDISOR TË AVIONËVE DHE TË PRODUKTEVE QË KANË LIDHJE ME TA, PJESËVE DHE PAJISJEVE, SI DHE PËR cERTIFIKIMIN E ORGANIZATAVE TË PROJEKTIMIT DHE PRODHIMIT
+Në zbatim të nenit 102, pika 4, të Kushtetutës së Republikës së Shqipërisë, të nenit 7, pika “ç” të ligjit nr. 10040, datë 22.12.2008 “Kodi Ajror i Republikës së Shqipërisë”, të ndryshuar, dhe në përputhje me ligjin nr. 9658, datë 18.12.2006 “Për ratifikimin e “Marrëveshjes shumëpalëshe ndërmjet Komunitetit Evropian dhe shteteve anëtare të tij, Republikës së Shqipërisë, Bosnjës dhe Hercegovinës, Republikës së Bullgarisë, Republikës së Kroacisë, Republikës së Maqedonisë, Republikës së Islandës, Republikës së Malit të Zi, Mbretërisë së Norvegjisë, Republikës së Rumanisë, Republikës së Serbisë dhe Misionit Administrativ të Përkohshëm të Kombeve të Bashkuara në Kosovë, për krijimin e një Zone të Përbashkët të Aviacionit Evropian”,
+URDHËROJ:
