@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për “Vlerësimin e sigurisë së avionëve të vendeve të huaja që operojnë në aeroportet ndërkombëtare të Republikës së Shqipërisë (SAFA), sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë e tij.
