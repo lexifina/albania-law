@@ -1,0 +1,28 @@
+{
+  "qbz_id": 10513,
+  "title": "PËR NJË SHTESË NË LIGJIN NR. 8580 DATË 17.2.2000, “PËR PARTITË POLITIKE”, TË NDRYSHUAR",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "17",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2014-02-20",
+  "published": "2014-04-13",
+  "in_force": "2014-04-28",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/9a831f54224e7566232b1c7d447582584fd7cf2d81aedbbf60ec418cf1fd3839.docx",
+  "source_sha256": "9a831f54224e7566232b1c7d447582584fd7cf2d81aedbbf60ec418cf1fd3839",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10513",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2014/02/20/17",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    11125
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
