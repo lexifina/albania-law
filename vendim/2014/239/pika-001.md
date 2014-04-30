@@ -1,0 +1,1 @@
+1. Shlyerjen e detyrimit doganor të prapambetur të Ministrisë së Mbrojtjes ndaj Drejtorisë së Përgjithshme të Doganave, për vitin 2013, në shumën 478 714 581 (katërqind e shtatëdhjetë e tetë milionë e shtatëqind e katërmbëdhjetë mijë e pesëqind e tetëdhjetë e një) lekë, deklaruar në listën e detyrimeve për artikullin 231, shpenzime kapitale për TVSH-në e papaguar.
