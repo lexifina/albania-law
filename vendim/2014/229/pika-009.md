@@ -1,0 +1,1 @@
+9. Transporti i mbetjeve jo të rrezikshme bëhet në bazë të kontratës ndërmjet palëve, në të cilën përcaktohet detyrimisht përgjegjësia për rastin e kthimit mbrapsht, pjesërisht ose plotësisht, të mbetjeve nga pritësi, duke plotësuar seksionin C të aneksit 1, bashkëlidhur këtij vendimi.

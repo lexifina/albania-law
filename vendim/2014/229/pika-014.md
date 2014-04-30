@@ -1,0 +1,1 @@
+14. Dokumenti i transferimit përmban kodin unik, i cili përbëhet nga dy pjesë. Pjesa e parë e kodit unik miratohet nga Agjencia Kombëtare e Mjedisit, pas paraqitjes së kërkesës me shkrim nga personi që transferon mbetjet jo të rrezikshme te pritësi. Kërkesa shoqërohet me kopje të ekstraktit të Qendrës Kombëtare të Regjistrimit.

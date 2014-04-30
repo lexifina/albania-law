@@ -1,0 +1,1 @@
+12. Mënyra e administrimit dhe formati i Regjistrit të Transfertave Individuale dhe formati i Regjistrit Kombëtar të Transfertave të Mbetjeve jo të Rrezikshme miratohen me urdhër të ministrit përgjegjës për mjedisin.

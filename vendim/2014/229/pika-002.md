@@ -1,0 +1,1 @@
+2. Mbetje jo të rrezikshme klasifikohen mbetjet që nuk shënohen me shenjën yll “*”, të miratuara me vendimin nr. 99, datë 18.2.2005 të Këshillit të Ministrave, “Për miratimin e katalogut shqiptar të mbetjeve”, të cilit më poshtë i referohemi me emërtimin “Katalogu i mbetjeve”.

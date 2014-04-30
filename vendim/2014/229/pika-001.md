@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për transferimin në mënyrë profesionale të mbetjeve jo të rrezikshme nga një person te një tjetër brenda territorit të Republikës së Shqipërisë dhe të informacionit që duhet të përfshihet në dokumentin e transferimit.

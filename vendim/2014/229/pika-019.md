@@ -1,0 +1,1 @@
+19. Mospërmbushja e detyrimeve të përcaktuara në këtë vendim dhe në aneksin 1, bashkëlidhur këtij vendimi, përbëjnë kundërvajtje administrative dhe dënohen sipas përcaktimeve të nenit 62 të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar.

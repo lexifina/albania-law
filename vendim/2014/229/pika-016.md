@@ -1,0 +1,1 @@
+16. Pjesa e parë e kodit unik është individuale dhe e papërsëritshme për çdo subjekt që transferon mbetje jo të rrezikshme, ndërsa pjesa e dytë e këtij kodi vendoset nga vetë personi që transferon mbetjet te pritësi dhe ndryshon për çdo transfertë.

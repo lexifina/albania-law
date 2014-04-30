@@ -1,0 +1,1 @@
+10. Çdo transfertë e mbetjeve jo të rrezikshme shoqërohet me dokumentin e transferimit të mbetjeve deri në destinacionin përfundimtar dhe të dhënat regjistrohen në Regjistrin e Transfertave Individuale që krijohet për këtë qëllim.

@@ -1,0 +1,1 @@
+6. Dokumenti i transferimit të mbetjeve jo të rrezikshme plotësohet dhe nënshkruhet nga krijuesi i mbetjeve, grumbulluesi, transportuesi dhe pritësi që merr në dorëzim mbetjet, sipas aneksit 1 bashkëlidhur, në aq kopje sa janë personat që nënshkruajnë dokumentin.
