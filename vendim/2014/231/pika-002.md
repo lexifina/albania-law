@@ -1,0 +1,1 @@
+2. Numri i praktikantëve për kryerjen e praktikës profesionale me kontratë të përkohshme sipas drejtorive arsimore rajonale/zyrave arsimore dhe afati kohor i kontraktimit të punonjësve jepen sipas tabelës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
