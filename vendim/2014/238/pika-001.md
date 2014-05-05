@@ -1,0 +1,1 @@
+1. Shpalljen e lagunës së Karavastasë si zonë bashkëmenaxhuese e peshkimit, duke pasur parasysh statusin mbrojtës të lagunës, si pjesë e Parkut Kombëtar Divjakë - Karavasta e zonë natyrore, veçanërisht e mbrojtur, dhe si habitate të shpendëve ujorë, të përfshirë në listën e Konventës Ramsar.

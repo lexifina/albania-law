@@ -1,0 +1,1 @@
+2. Veprimtaritë dhe investimet që do të kryhen në lagunën e Karavastasë të jenë në përputhje me dispozitat e ligjit nr. 8906, datë 6.6.2002, “Për zonat e mbrojtura”, të ndryshuar, dhe me objektivat e planit të menaxhimit të Parkut Kombëtar Divjakë - Karavasta.
