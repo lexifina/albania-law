@@ -1,0 +1,1 @@
+1. Miratimin e planit të veprimit për zbatimin e vendimit pilot të Gjykatës Europiane për të Drejtat e Njeriut “Manushaqe Puto dhe të tjerë kundër Shqipërisë”, sipas tekstit që i bashkëlidhet këtij vendimi.
