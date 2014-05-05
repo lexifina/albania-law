@@ -1,0 +1,1 @@
+5. Përmirësimi dhe përditësimi i të dhënave të regjistrit të pasurive të paluajtshme është një proces që përfshin të gjitha pasuritë e paluajtshme në territorin brenda kufirit të një zone kadastrale dhe do të quhet përmirësim sistematik.
