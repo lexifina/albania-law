@@ -12,3 +12,4 @@
 - autoveturat me 8+1 vende, duke përfshirë dhe vendin e drejtuesit të mjetit;
 - autobusët;
 - mjetet rrugore që përdoren për transportin e mallrave të rrezikshme.
+6. Drejtuesit e mjeteve rrugore duhet të dorëzojnë te subjekti i licencuar për kryerjen e shërbimit të kontrollit teknik vjetor KTV kontratën e sigurimit të mjetit. Në të kundërt ky shërbim nuk kryhet.
