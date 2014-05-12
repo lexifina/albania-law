@@ -1,1 +1,0 @@
-6. Përbërja e Komisionit të Vlerësimit të Titujve Akademikë përcaktohet në përputhje me vendimin nr.599, datë 31.8.2006 të Këshillit të Ministrave “Për përbërjen e komisionit të kualifikimit shkencor”.
