@@ -1,0 +1,1 @@
+7. Agjencia Kombëtare e Mjedisit, në kryerjen e analizës së referuar në pikën 6, i kushton kujdes të veçantë substancave me numër 2, 5, 6, 7, 12, 15, 16, 17, 18, 20, 21, 26, 28 dhe 30, të përmendura në pjesën A të aneksit I, që i bashkëlidhet këtij vendimi.

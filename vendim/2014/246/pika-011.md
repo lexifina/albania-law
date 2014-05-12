@@ -1,0 +1,1 @@
+11. Agjencia Kombëtare e Mjedisit harton inventarët, përfshirë hartat e emetimeve, shkarkimeve dhe humbjeve të të gjitha substancave prioritare dhe ndotësve të tjerë të listuar në pjesën A të aneksit I, që i bashkëlidhet këtij vendimi, përfshirë përqendrimet e tyre në sediment dhe biotë, sipas rastit, në qoftë se janë të disponueshme.

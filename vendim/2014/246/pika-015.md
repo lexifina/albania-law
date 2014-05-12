@@ -1,0 +1,1 @@
+15. Inventarët e përmendur në pikën 12 përditësohen, si pjesë e rishqyrtimit të analizës së karakteristikave të basenit ujor përkatës, në përputhje me nenin 36 të ligjit nr. 111/2012, “Për menaxhimin e integruar të burimeve ujore”.

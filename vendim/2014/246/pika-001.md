@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është vendosja e normave të cilësisë së mjedisit të trupave ujorë sipërfaqësore, për substancat prioritare dhe ndotës të tjerë, me qëllim arritjen e statusit të mirë kimik të ujërave sipërfaqësorë dhe në përputhje me objektivat mjedisorë, sipas nenit 25 të ligjit nr. 111/2012, “Për menaxhimin e integruar të burimeve ujore”.

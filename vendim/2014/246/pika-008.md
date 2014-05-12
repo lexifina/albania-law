@@ -1,0 +1,1 @@
+8. Agjencia Kombëtare e Mjedisit, në përputhje me objektivat mjedisorë, të përcaktuar në nenin 25 të ligjit nr. 111/2012, “Për menaxhimin e integruar të burimeve ujore”, merr masat e nevojshme për të siguruar që përqendrimet e substancave prioritare, të listuara në pjesën A të aneksit I, që i bashkëlidhet këtij vendimi, në sediment dhe/ose biotën përkatëse, të mos rriten shumë.

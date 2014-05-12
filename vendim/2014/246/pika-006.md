@@ -1,0 +1,1 @@
+6. Agjencia Kombëtare e Mjedisit kryen analizën e tendencës afatgjatë për substancat prioritare të listuara në pjesën A të aneksit I, të cilat kanë tendencë të akumulohen në sediment dhe/ose në biotë, bazuar në monitorimin e statusit të ujërave, të kryer në përputhje me nenin 85 të ligjit nr. 111/2012, datë 15.12.2012, “Për menaxhimin e integruar të burimeve ujore”.

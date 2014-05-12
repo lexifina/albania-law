@@ -1,0 +1,1 @@
+18. Inventarët dhe të gjitha përditësimet e tyre, përfshirë periudhat përkatëse të referencës, vihen në dispozicion të publikut, në përputhje me nenin 43 të ligjit nr. 10 431, datë 9.6.2011, “Për mbrojtjen e mjedisit”.
