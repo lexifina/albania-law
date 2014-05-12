@@ -9,27 +9,24 @@ b) ligjin nr.8906, datë 6.6.2002 “Për zonat e mbrojtura”,
 c) ligjin nr.8934, datë 5.9.2002 “Për mbrojtjen e mjedisit”,
 si dhe në aktet e tjera ligjore e nënligjore në fuqi.
 2. Kjo rregullore ka si qëllim, përcaktimin e kufijve dhe rregullave për mënyrën e administrimit të parqeve arkeologjike të Shkodrës, Lezhës, Apolonisë, Bylisit Amantias, Orikumit, Antigonesë dhe Finiqit.
-3. Në zbatim të kësaj rregulloreje, termat e mëposhtëm kanë këtë kuptim:
-a) “PA” janë parqet arkeologjike të Shkodrës, Lezhës, Apolonisë, Bylisit, Amantias, Orikumit, Antigonesë, Finiqit dhe Butrintit.
-b) “ZAKPA” është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik” , e cila është struktura përgjegjëse për administrimin dhe menaxhimin e parkut arkeologjik të Shkodrës, Lezhës, Apolonisë, Bylisit, Antigonesë, Finiqit, sipas kufijve të përcaktuar në kreun II të kësaj rregulloreje.
-c) “BKPA” është Bordi Kombëtar i Parqeve Arkeologjike, i cili harton, shqyrton dhe miraton strategjinë dhe koordinon projektet e programet e mbrojtjes, zhvillimit dhe administrimit të PA-ve.
-d) Struktura përgjegjëse për administrimin e Parkut Arkeologjik Amantia-Orikum, sipas kësaj rregulloreje, është Drejtoria Rajonale e Kulturës Kombëtare Vlorë.
+3. Strukturat përgjegjëse të administrimit të parqeve arkeologjike janë si më poshtë vijon:
+- Struktura përgjegjëse për administrimin e Parkut Arkeologjik Shkodër-Lezhë, sipas kësaj rregulloreje është Drejtoria Rajonale e Kulturës Kombëtare Shkodër;
+- Struktura përgjegjëse për administrimin e Parkut Arkeologjik Antigone, sipas kësaj rregulloreje është Drejtoria Rajonale e Kulturës Kombëtare Gjirokastër;
+- Struktura përgjegjëse për administrimin e Parkut Arkeologjik Amantia-Orikum-Finiq, sipas kësaj rregullore është Drejtoria Rajonale e Kulturës Kombëtare Vlorë;
+- Struktura përgjegjëse për Administrimin e Parkut Arkeologjik, Apoloni, është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik, Apoloni.
+- Struktura përgjegjëse për administrimin e Parkut Arkeologjik, Bylis, është Zyra e Administrimit dhe Koordinimit të Parkut Arkeologjik, Bylis.
 KREU II
 BORDI KOMBËTAR I PARQEVE ARKEOLOGJIKE
-5. Krijohet Bordi Kombëtar i Parqeve Arkeologjike (BKPA), organ vendimmarrës, i cili mbikëqyr veprimtarinë e ZAKPA-ve dhe harton e miraton strategjinë dhe programet e zhvillimit të PA-ve.
-BKPA kryesohet nga Ministri i Kulturës, Rinisë dhe Sporteve dhe përbëhet nga përfaqësues të:
-a) Ministrisë së Mjedisit anëtar
-b) Ministrisë së Pushtetit Vendor anëtar
-c) Ministrisë së Rregullimit të Territorit
-dhe të Turizmit anëtar
-ç) Ministrisë së Punëve të Jashtme,
-që mbulon çështjet e UNESCO-s anëtar
-ç) Drejtorisë së Trashëgimisë Kulturore anëtar
-d) Institutit të Arkeologjisë anëtar
-dh) Institutit të Monumenteve të Kulturës anëtar
-Në bord marrin pjesë, pa të drejtë vote, drejtorët e ZAKPA-ve.
+5. Krijohet Bordi Kombëtar i Parqeve Arkeologjike (BKPA), organ vendimmarrës, i cili mbikëqyr veprimtarinë e ZAKPA-ve dhe strukturave përkatëse pranë drejtorive rajonale të kulturës kombëtare. BKPA-ja kryesohet nga ministri i Kulturës dhe përbëhet nga përfaqësues të:
+- Ministrisë së Mjedisit;
+- Ministrisë për Çështjet Vendore;
+- Ministrisë së Zhvillimit Urban dhe Turizmit;
+- Drejtorisë së Përgjithshme të Planifikimit Strategjik për Trashëgiminë dhe Diversitetin Kulturor;
+- Institutit të Monumenteve të Kulturës;
+- Agjencisë së Shërbimit Arkeologjik.
+Drejtorët e drejtorive rajonale të kulturës kombëtare të Gjirokastrës, Shkodrës, Vlorës dhe drejtori i ZAPA-së Apoloni-Bylis marrin pjesë në mbledhjet e Bordit, pa të drejtë vote.
 6. BKPA funksionon, mblidhet dhe merr vendime, në bazë të rregullores së miratuar për këtë qëllim nga kryetari i tij në mbledhjen e tij të parë.
-7. Shpërblimi i anëtarëve të BKPA për çdo mbledhje është 5000 lekë për çdo anëtar dhe përballohet nga vetë institucionet përfaqësuese në Bord.
+7. Shfuqizuar.
 8. BKPA ka këto kompetenca:
 a) Harton, shqyrton dhe miraton strategjinë e zhvillimit të gjithë parqeve arkeologjike.
 b) Miraton programet dhe projektet e paraqitura nga ZAKPA-të dhe përcakton mënyrat e bashkëpunimit me institucionet e tjera përgjegjëse për mbrojtjen dhe ruajtjen e vlerave të trashëgimisë kulturore dhe atyre natyrore e mjedisore.
@@ -39,16 +36,10 @@ c) Aprovon planet vjetore të parqeve arkeologjike.
 10. Pranë BKPA-së ngrihet Sekretaria e Bordit, e cila përgatit mbledhjet dhe të gjithë dokumentacionin në funksion të veprimtarisë së tij. Funksionin e sekretarisë e kryen Sektori i Trashëgimisë Materiale në Drejtorinë e Trashëgimisë Kulturore, pranë Ministrisë së Kulturës, Rinisë dhe Sporteve.
 KREU III
 ZYRAT E ADMINISTRIMIT DHE KOORDInIMIT TË PARQEVE ARKEOLOGJIKE
-11. Për realizimin dhe zbatimin e programeve dhe projekteve, si dhe për drejtimin e veprimtarisë administruese të parqeve arkeologjike, krijohen zyrat e administrimit dhe koordinimit të parqeve arkeologjike, ZAKPA-të, përkatësisht, të Shkodrës, Lezhës, Apollonisë, Bylisit, Amantias, Orikumit, Antigonesë dhe Finiqit.
+11. Shfuqizuar.
 12. Zyrat e administrimit dhe koordinimit të PA-ve krijohen dhe kryejnë funksionet e tyre brenda territorit të parqeve arkeologjike, me qëllim përmbushjen e kompetencave të tyre. Ato kanë vulën dhe logon e tyre, e cila shërben si element identifikues i PA-së.
-13. ZAKPA-të janë struktura buxhetore në varësi të Ministrisë së Kulturës, Rinisë dhe Sporteve dhe përbëhen nga:
-a) Drejtori;
-b) Financieri;
-c) Specialist, arkeolog;
-d) Specialist, restaurator;
-e) Specialist, mjedisit;
-f) Specialist, menaxher.
-14. Drejtori i ZAKPA-ve emërohet, lirohet dhe shkarkohet nga Ministri i Kulturës, Rinisë dhe Sporteve, sipas kritereve të përcaktuara për këtë pozicion nga Bordi Kombëtar i Parqeve Arkeologjike.
+13. ZAKPA-të janë struktura buxhetore në varësi të ministrit të Kulturës. Struktura dhe organika e tyre miratohet me urdhër të Kryeministrit.
+14. Drejtori i ZAKPA-së emërohet, lirohet dhe shkarkohet nga detyra nga ministri i Kulturës.
 15. Specialistët, punonjës efektivë të ZAKPA-së, emërohen, lirohen dhe shkarkohen nga drejtori i zyrës, sipas dispozitave ligjore në fuqi të Kodit të Punës.
 16. Për përmbushjen e detyrave dhe funksioneve të tjera administrative ZAKPA-të punësojnë me anë të kontratave edhe punonjës shtesë, të cilët paguhen nga të ardhurat e realizuara nga veprimtaria e ZAKPA-ve, sipas rregullave ligjore në fuqi.
 KREU IV
