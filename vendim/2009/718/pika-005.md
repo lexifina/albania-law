@@ -1,0 +1,1 @@
+5. Punonjësit e personelit hetues, të cilët emërohen këshilltarë të drejtorit të përgjithshëm të SHKB-së dhe që në çastin e emërimit kanë të drejtë të fitojnë gradën pasardhëse, të trajtohen në pagë, sipas kësaj grade të fituar.

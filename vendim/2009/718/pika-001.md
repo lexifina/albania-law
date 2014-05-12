@@ -1,0 +1,1 @@
+1. Struktura dhe nivelet e pagave për punonjësit e personelit hetues me grada, të Shërbimit të Kontrollit të Brendshëm, të jenë sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

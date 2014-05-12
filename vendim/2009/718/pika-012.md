@@ -1,0 +1,1 @@
+12. Kategorizimi i pozicioneve “Specialist”, të cilët trajtohen në pagë sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi, miratohet me urdhrin e miratimit të strukturës dhe të organikës së këtij institucioni.

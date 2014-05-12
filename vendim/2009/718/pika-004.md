@@ -1,0 +1,2 @@
+4. Punonjësi hetues me grada, për kohën e qëndrimit në gradë, përfiton shtesë për vjetërsi në punë, në masën 1 për qind, pas çdo viti pune. Masa e shtesës për vjetërsi në punë të jetë deri në nivelin e pagës bazë të gradës pasardhëse.
+Përllogaritja e shtesës për vjetërsi në punë të fillojë në çastin e marrjes së gradës së re, sipas ligjit nr.10 002, datë 6.10.2008 “Për Shërbimin e Kontrollit të Brendshëm, në Ministria e Punëve të Brendshme.
