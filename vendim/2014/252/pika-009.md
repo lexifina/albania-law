@@ -1,0 +1,1 @@
+9. Vendimet e Këshillit të Ministrave nr. 633, datë 23.5.2008, “Për funksionimin, të drejtat dhe detyrat e Komisionit të Vlerësimit të Titujve Akademikë” dhe nr. 599, datë 31.8.2006, “Për përbërjen e Komisionit të Kualifikimit Shkencor”, shfuqizohen.
