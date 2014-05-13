@@ -1,0 +1,1 @@
+2. Karta e inspektorit të tërhiqet pranë Inspektoratit Qendror nga personi i autorizuar i Inspektoratit Shtetëror përkatës ose nga vetë inspektori në detyrë me paraqitjen e kartës së identitetit (ID).
