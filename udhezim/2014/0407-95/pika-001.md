@@ -1,0 +1,1 @@
+1. Institucionet/organet që mund të marrin të dhëna personale nga Regjistri Kombëtar i Gjendjes Civile, nga regjistrat themeltarë dhe nga aktet e gjendjes civile, janë ato, të cilave kjo e drejtë u njihet me ligj të veçantë. Mënyra, lloji dhe sasia e informacionit që duhet të marrin, është sipas aneksit I, bashkëlidhur këtij udhëzimi.

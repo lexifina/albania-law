@@ -1,0 +1,1 @@
+3. Institucionet dhe organet, të cilat sipas aneksit I, bashkëlidhur këtij udhëzimi, do të marrin informacion në formë shkresore, do t’i drejtohen me kërkesë të motivuar Drejtorisë së Përgjithshme të Gjendjes Civile, ose zyrës përkatëse të gjendjes civile, që administron dokumentacionin për vënien në dispozicion të informacionit të kërkuar.

@@ -1,0 +1,1 @@
+7. Institucionet dhe organet, që marrin të dhëna personave, në asnjë rast nuk duhet t’i përhapin ato tek institucione apo organe të treta, pavarësisht faktit se këto të fundit mund të jenë të legjitimuara për t’i pasur këto të dhëna.
