@@ -1,0 +1,1 @@
+2. Vendimi nr. 702, datë 10.11.2005, i Këshillit të Ministrave, “Për përzgjedhjen e organizatave të punëdhënësve dhe të sindikatave më të përfaqësuara në Këshillin Administrativ të Institutit të Sigurimeve Shoqërore”, shfuqizohet.
