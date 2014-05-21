@@ -1,0 +1,1 @@
+5. Komiteti Ndërministror mblidhet jo më pak se një herë në 6 (gjashtë) muaj. Me kërkesën e kryetarit ose të njërit prej anëtarëve të tij, mund të mblidhet para afatit të caktuar. Mbledhja e këtij Komiteti zhvillohet kur në të marrin pjesë jo më pak se pesë anëtarë.

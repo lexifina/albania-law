@@ -1,0 +1,1 @@
+6. Komiteti Ndërministror, në mbledhjet e tij, merr në shqyrtim materialet e rendit të ditës, të parapërgatitura nga sekretaria teknike, e caktuar nga ministri, ose probleme të tjera që mund të dalin gjatë diskutimeve.

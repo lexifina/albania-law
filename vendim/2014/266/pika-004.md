@@ -1,0 +1,1 @@
+4. Me kërkesën e kryetarit ose të pesë prej anëtarëve, në mbledhjet e Komitetit Ndërministror, në varësi të problemeve që përmban rendi i ditës ose në varësi të problemeve të ndryshme që mund të dalin, mund të thirren ekspertë të institucioneve studimore-shkencore, që lidhen me çështjet e mallrave të rrezikshme dhe ekspertë të industrisë në transportin e mallrave të rrezikshme.
