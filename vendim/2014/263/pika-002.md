@@ -1,0 +1,1 @@
+2. Vendimi nr. 562, datë 12.8.2005, i Këshillit të Ministrave, “Për caktimin e funksioneve të përfaqësuesve të institucioneve shtetërore në përbërje të Këshillit Administrativ të Institutit të Sigurimeve Shoqërore”, i ndryshuar, shfuqizohet.
