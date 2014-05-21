@@ -1,0 +1,1 @@
+13. Ndalohet nxjerrja apo transferimi i individëve të faunës së egër nga qendra e shpëtimit, përveçse me miratimin paraprak të ministrit të Mjedisit, referuar kërkesës dhe qëllimit për të cilin kërkohet.

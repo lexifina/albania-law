@@ -1,0 +1,1 @@
+16. Monitorimi dhe kontrolli i funksionimit të qendrës së shpëtimit kryhet nga inspektorati përgjegjës për mjedisin, referuar kërkesave të udhëzimit të ministrit, të përmendur në pikën 4 të këtij vendimi.

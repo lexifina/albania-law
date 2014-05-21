@@ -1,0 +1,1 @@
+2. Krijimi i qendrave të shpëtimit realizohet nga persona fizikë ose juridikë, apo organizata jofitimprurëse, vendase ose të huaja, që merren me mbrojtjen e faunës së egër, në përputhje me legjislacionin në fuqi dhe aktet ndërkombëtare ku Republika e Shqipërisë është palë.

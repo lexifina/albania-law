@@ -1,0 +1,1 @@
+4. Rregullat për paraqitjen e kërkesës, dokumentet shoqëruese, kriteret që duhen përmbushur për dhënien në përdorim të sipërfaqeve për krijimin e qendrave të shpëtimit, procedura e miratimit apo refuzimit të kërkesës, si dhe procedura e miratimit të rregullores së organizimit dhe funksionimit të qendrës së shpëtimit përcaktohen me udhëzim të ministrit përgjegjës për mjedisin.

@@ -1,0 +1,1 @@
+5. Ministri njofton kërkuesin, brenda një afati maksimal prej 30 (tridhjetë) ditëve pune nga data e paraqitjes së kërkesës në ministri, për miratimin apo refuzimin e kërkesës për krijimin e qendrës së shpëtimit. Në rastin e refuzimit të saj shpjegohen dhe arsyet e refuzimit.

@@ -1,0 +1,1 @@
+12. Kërkuesi, pas miratimit të kërkesës për krijimin e qendrës, është përgjegjës për shëndetin, sigurinë, përkujdesjen dhe mirëqenien e individëve të faunës së egër, që do të trajtohen në këtë qendër shpëtimi, si dhe njofton shërbimin veterinar rajonal në rast sëmundjeje në kafshë.

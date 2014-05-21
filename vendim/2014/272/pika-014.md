@@ -1,0 +1,1 @@
+14. Personi fizik, juridik apo organizata jofitimprurëse, vendase apo e huaj, që ka krijuar qendrën, merr masa ruajtjeje dhe është përgjegjës/e në rast se individë të faunës së egër dalin nga qendra e shpëtimit dhe përbëjnë kërcënim për sigurinë e jetës e të shëndetit të njerëzve jashtë saj.

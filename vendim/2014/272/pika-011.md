@@ -1,0 +1,1 @@
+11. Qendra regjistrohet sipas përcaktimeve të legjislacionit veterinar, ndërsa individët e faunës së egër që mbahen në të matrikullohen në mënyrë të posaçme, në varësi të llojit, dhe regjistrohen në sistemin kombëtar të identifikimit dhe regjistrimit të kafshëve. Individët e faunës së egër që mbahen në qendër janë pasuri kombëtare.
