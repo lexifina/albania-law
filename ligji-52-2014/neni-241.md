@@ -1,0 +1,5 @@
+# Neni 241
+Tarifa e mbikëqyrjes dhe tarifa të tjera
+1. Shoqëritë e sigurimit, degët e shoqërive të sigurimit të vendeve të huaja/anëtare, për veprimtarinë e tyre gjatë periudhës së vlefshmërisë së licencës, paguajnë në Autoritet një tarifë mbikëqyrjeje, që përllogaritet kundrejt volumit të primeve të shkruara bruto, sipas parashikimeve të ligjit nr. 9572 datë 3.7.2006, “Për Autoritetin e Mbikëqyrjes Financiare”. Tarifa e mbikëqyrjes paguhet çdo muaj brenda datës 15 të muajit pasardhës. Pagesa bëhet në llojin e monedhës, me të cilën arkëtohet primi i sigurimit. Autoriteti miraton procedurat e arkëtimit dhe rakordimit të tarifës së mbikëqyrjes.
+2. Përveç tarifës së mbikëqyrjes, të përcaktuar në pikën 1, të këtij neni, shoqëritë e sigurimit, risigurimit, degët e shoqërive të sigurimit të vendeve të huaja/anëtare, ndërmjetësit, aktuarët, vlerësuesit e dëmeve që veprojnë në Republikën e Shqipërisë paguajnë në Autoritet tarifa për aplikim për dhënie apo rinovim licence, miratimi apo autorizimi.
+3. Nëse licencimi, miratimi apo autorizimi refuzohet nga Autoriteti, tarifa e paguar nuk kthehet.

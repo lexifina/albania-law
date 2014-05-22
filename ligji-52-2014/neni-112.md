@@ -1,0 +1,3 @@
+# Neni 112
+Raporti dhe opinioni i aktuarit të autorizuar
+Shoqëria e sigurimit, brenda 14 ditëve kalendarike nga data e depozitimit të dokumenteve kontabël, të përcaktuara në nenin 111, të këtij ligji, gjithashtu paraqet në Autoritet raportin e aktuarit të autorizuar, të përcaktuar në nenin 225, të këtij ligji, së bashku me opinionin e tij që tregon se llogaritja e tarifave të primit, krijimi i provigjoneve teknike, aktivet në mbulim të provigjoneve teknike, fondi i garancisë, niveli i kërkuar i aftësisë paguese dhe risigurimi i ceduar janë në përputhje me dispozitat e këtij ligji dhe rregulloret në zbatim të tij.

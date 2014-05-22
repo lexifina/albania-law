@@ -1,0 +1,6 @@
+# Neni 135
+Inspektimi i veprimtarisë së shoqërisë së sigurimit
+1. Subjekti i mbikëqyrur, me kërkesë të punonjësit të autorizuar të Autoritetit, i mundëson inspektimin e veprimtarive në selinë qendrore dhe në çdo ambient tjetër të tij apo me kërkesë të personit, të cilit subjekti i mbikëqyrur i ka deleguar veprimtaritë që Autoriteti mbikëqyr.
+2. Subjekti i mbikëqyrur, me kërkesë të punonjësit të autorizuar të Autoritetit, i mundëson inspektimin e dokumentacionit të veprimtarisë së shoqërisë së sigurimit, si dhe të dhënat tregtare e administrative të saj, në masën e nevojshme për kryerjen e inspektimit apo në masën e përcaktuar nga ligji, metodologjia, manualet ose udhëzuesit për kryerjen e funksioneve mbikëqyrëse, të miratuara nga Autoriteti.
+3. Subjekti i mbikëqyrur, me kërkesë të punonjësit të autorizuar të Autoritetit, i vë në dispozicion dokumentet e mbajtura në mënyrë elektronike dhe të printuara nga kompjuteri ose kopje të librave tregtarë/kontabël, dokumenteve dhe të dhëna të tjera administrative dhe tregtare.
+4. Pas përfundimit të inspektimit të shoqërisë së sigurimit, punonjësi i autorizuar i Autoritetit harton një raport për inspektimin e kryer dhe i dorëzon shoqërisë së sigurimit një letër për drejtuesit, ku paraqiten rezultatet e inspektimit.

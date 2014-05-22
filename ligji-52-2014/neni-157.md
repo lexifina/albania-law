@@ -1,0 +1,4 @@
+# Neni 157
+Paralajmërim për revokim licence
+1. Autoriteti, për rastet e përmendura në nenin 155, pika 1, shkronjat “b” dhe “ç”, të këtij ligji, mund të paralajmërojë shoqërinë e sigurimit për revokim licence, me kusht që shoqëria e sigurimit, brenda periudhës kohore të përcaktuar nga Autoriteti me vendim, të mos kryejë shkelje apo parregullsi të tjera, të njëjta me ato për të cilat është marrë vendimi për paralajmërim të revokimit të licencës.
+2. Përveç sa është parashikuar në pikën 1, të këtij neni, Autoriteti, në vendimin për paralajmërimin e revokimit të licencës, mund të urdhërojë shoqërinë e sigurimit brenda afatit të përcaktuar në vendim të eliminojë shkeljet dhe parregullsitë ose të zbatojë masat, të cilat kanë qenë shkak për marrjen e vendimit të paralajmërimit të revokimit të licencës. Autoriteti përcakton kufizimet apo kushtet për t’u përmbushur nga shoqëria e sigurimit gjatë periudhës kohore të përcaktuar nga Autoriteti.
