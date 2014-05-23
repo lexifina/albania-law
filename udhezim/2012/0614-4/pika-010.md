@@ -1,5 +1,0 @@
-10. Në zbatim të pikave të kapitullit IV “Nxitja e biznesit”, për përfitimin e zbritjes së detyrimit mujor të qirasë, qiramarrësi ose enfiteozmarrësi i paraqet qiradhënësit kërkesë të shoqëruar me dokumentacionin:
-a) vërtetim për punësimin mesatar vjetor të realizuar në vitin përkatës, të lëshuar nga institucionet shtetërore përkatëse;
-b) raport i ekspertit kontabël për investimet e realizuara nga qiramarrësi ose enfiteozëmarrësi në objektin e marrë me qira dhe të paraqitura në bilancet financiare të asaj shoqërie;
-c) bilancin financiar të shoqërisë qiramarrëse ose enfiteozëmarrëse për vitin përkatës.
-Zbritja e detyrimit mujor për nivelin e punësimit të realizuar mbrohet çdo vit nga qiramarrësi ose enfiteozëmarrësi, me dokumentacionin përkatës, ndërsa zbritja e detyrimit mujor për nivelin e investimit të realizuar vlen deri në përfundim të kontratës. Kur niveli i punësimit ndryshon nga viti paraardhës dhe përfshihet në grup tjetër, miratohet koeficienti zbritës i ri, sipas akteve ligjore në fuqi në atë moment.

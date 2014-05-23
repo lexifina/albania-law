@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTRI I EKONOMISË, TREGTISË DHE ENERGJETIKËS
-Nasip Naço
