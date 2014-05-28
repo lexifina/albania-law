@@ -1,0 +1,1 @@
+2. Objekt i këtij vendimi është krijimi i bazës së të dhënave elektronike të akteve, i cili përcakton të dhënat parësore dhe dytësore, dhënësin/dhënësit e informacionit, ndërveprimin me baza të tjera të të dhënave, si dhe nivelin e aksesimit për subjektet e interesuara.

@@ -1,0 +1,1 @@
+11. Rubrika “Akte të botuara” përfshin një nënrubrikë të veçantë, e cila përmban të gjitha aktet e botuara, të nxjerra në bazë dhe për zbatim të një akti tjetër të botuar. Kjo nënrubrikë do të përfshijë, dhe jo vetëm, të gjitha aktet nënligjore të nxjerra në bazë dhe për zbatim të një akti tjetër të botuar.

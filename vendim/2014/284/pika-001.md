@@ -1,0 +1,1 @@
+1. Baza e të dhënave elektronike të akteve administrohet nga Qendra e Botimeve Zyrtare (QBZ), me qëllim krijimin e bazës së të dhënave elektronike të akteve, duke përfshirë në të pasqyrimin në format elektronik të fletoreve zyrtare, akteve të botueshme dhe të akteve të përditësuara, së bashku me ndryshimet.
