@@ -1,0 +1,1 @@
+7. Regjistrimi i ri i pasurive për sipërfaqet 4 850.18 (katër mijë e tetëqind e pesëdhjetë pikë tetëmbëdhjetë) m² truall, dhe 1 823.24 (një mijë e tetëqind e njëzet e tre pikë njëzet e katër) m² banesë, të bëhet brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

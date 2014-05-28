@@ -1,0 +1,1 @@
+8. Afati i përfundimit të punimeve të objektit, hapja dhe sistemimi i rrugës “11 Nëntori”, segmenti nga shkolla “Jorgji Dilo” deri te “Rotonda tek Posta”, në bashkinë e Elbasanit, të jetë në përputhje me afatet e parashikuara nga kjo bashki.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga hapja dhe sistemimi i rrugës “11 Nëntori”, segmenti nga shkolla “Jorgji Dilo” deri te “Rotonda tek Posta”, të bashkisë së Elbasanit, sipas tabelës që i bashkëlidhet këtij vendimi.
