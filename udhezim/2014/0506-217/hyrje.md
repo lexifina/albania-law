@@ -1,0 +1,4 @@
+UDHËZIM Nr. 217, datë 6.5.2014
+PËR RREGULLAT DHE PROCEDURAT E SHQYRTIMIT TË KËRKESAVE PËR LEJE ZHVILLIMORE NDËRTIMORE PËR OBJEKTE TË LLOJIT BUJQËSORE DHE BLEGTORALE, QË MIRATOHEN NË KËSHILLIN KOMBËTAR TË TERRITORIT, SI DHE PËR NGRITJEN E KOMISIONIT PËR SHQYRTIMIN E TYRE
+Në mbështetje të nenit 102 të Kushtetutës, të ligjit nr. 10119, datë 23.4.2009, “Për planifikimin e territorit”, të ndryshuar, vendimit të Këshillit të Ministrave nr. 939, datë 9.10.2013, “Për përcaktimin e fushës së përgjegjësisë shtetërore të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave”, si dhe vendimit të Këshillit të Ministrave nr. 502, datë 13.7.2011, “Për miratimin e rregullores uniforme të kontrollit të zhvillimit të territorit”, të ndryshuar, vendimit të Këshillit të Ministrave nr. 199, datë 2.4.2014, “Për disa shtesa në vendimin nr. 480, datë 22.6.2011 të Këshillit të Ministrave, “Për miratimin e rregullores model të planifikimit””, të ndryshuar,
+UDHËZOJ:

@@ -1,0 +1,1 @@
+16. Mbledhja e komisionit teknik, për shqyrtimin e kërkesave për leje zhvillimore që miratohet në KKT, sipas objektit të veprimtarisë së MBZHRAU-së, bëhet jo më vonë se 5 ditë nga paraqitja e dosjes me të gjitha materialet dhe dokumentacionin përkatës, përfshirë edhe opinionet e drejtorive përkatëse teknike. Komisioni shqyrton kërkesën dhe merr vendimin brenda 10 ditë pune.
