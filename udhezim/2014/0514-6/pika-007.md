@@ -1,0 +1,1 @@
+7. Në përjashtim nga paragrafi 1 të pikës 6, të dhënat e përcaktuara në germat “c”, “d”, “e” dhe “f” më sipër, mund të paraqiten vetëm në dokumentet tregtare që kanë të bëjnë me ngarkesën ose lot-in në rastet kur ato duhet të paraqiten para shpërndarjes.

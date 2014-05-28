@@ -1,0 +1,1 @@
+4. Uji në të cilin mund të jenë shtuar substanca që rregullojnë aciditetin ose alkalinitetin, si dhe substanca të tjera ushqimore, të cilat kanë veti tretëse, lejohen të përdoren si tretës ekstraktues në prodhimin e produkteve ushqimore ose përbërësve ushqimorë.

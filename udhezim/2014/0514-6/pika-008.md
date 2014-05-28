@@ -1,0 +1,1 @@
+8. Pika 6 dhe 7 nuk do të cenojë dispozitat më të plota ose më të detajuara në fuqi në lidhje me peshat dhe masat apo dispozitat në fuqi që zbatohen për klasifikimin, paketimin dhe etiketimin e substancave dhe përzierjeve të rrezikshme.

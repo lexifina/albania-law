@@ -1,0 +1,1 @@
+9. Aditivët ushqimorë, vitaminat dhe aditivët e tjerë ushqyes (nutricional) të përdorur në produktet ushqimore, nuk duhet të përmbajnë nivele të rrezikshme për shëndetin e njeriut të mbetjes së tretësve ekstraktues.

@@ -1,0 +1,3 @@
+2. Për qëllim të këtij udhëzimi, termat e mëposhtëm kanë këtë kuptim:
+a) “Tretës” nënkupton çdo substancë për tretjen e një produkti ushqimor ose çdo komponent të tij, duke përfshirë çdo papastërti të pranishëm në ose mbi atë produkt ushqimor.
+b) “Tretës ekstraktues” nënkupton një tretës që është përdorur në një procedurë ekstraktimi gjatë përpunimit të lëndëve të para ose produkteve ushqimore, ose të komponentëve, ose përbërësve të këtyre produkteve dhe të cilat janë larguar, por që mund të rezultojë prania e mbetjeve ose derivateve në produktet ushqimore apo përbërësit ushqimorë, pasi teknikisht është e pashmangshme.

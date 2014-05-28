@@ -1,0 +1,1 @@
+3. Përdorimi i tretësve ekstraktues në prodhimin e produkteve ushqimore ose përbërësve ushqimorë të listuar në shtojcën I, të bëhet nën kushtet e përdorimit dhe në maksimumin e kufijve të mbetjeve të përcaktuara në këtë shtojcë.
