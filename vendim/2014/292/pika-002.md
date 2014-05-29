@@ -1,0 +1,1 @@
+2.Autori i veprës, pas lidhjes së kontratës me operatorin ekonomik, të shpallur fitues sipas pikës 5 të këtij vendimi, i dorëzon operatorit ekonomik manualin e veprës dhe ndjek prodhimin e shumëfishimin e saj. Përpara dorëzimit të punimeve nga operatori ekonomik, autori i veprës certifikon respektimin e modelit të miratuar në pikën 1 të këtij vendimi.

@@ -1,0 +1,2 @@
+5. Ngarkohet Drejtoria e Përgjithshme e Doganave, që, në zbatim të këtij vendimi, të realizojë uniformën dhe emblemën e miratuar, brenda afateve minimalisht të mundshme sipas ligjit, duke vlerësuar rrethanat e veçanta, në përputhje me procedurat dhe dispozitat e parashikuara në ligjin nr. 9643, datë 20.11.2006, “Për prokurimin publik”, të ndryshuar, dhe aktet nënligjore në zbatim të tij.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
