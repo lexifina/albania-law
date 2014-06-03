@@ -1,0 +1,1 @@
+1. Miratimin e zbatimit të Nomenklaturës së Veprimtarive Ekonomike (Rev.2), të miratuar paraprakisht nga Komisioni Kombëtar për Nomenklaturën, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

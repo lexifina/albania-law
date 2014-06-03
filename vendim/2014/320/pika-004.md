@@ -1,0 +1,1 @@
+4. Kodet statistikore të veprimtarive ekonomike, të përdorura deri para hyrjes në fuqi të këtij vendimi, zëvendësohen me kodet e parashikuara në Nomenklaturën e Veprimtarive Ekonomike (Rev.2), bashkëlidhur këtij vendimi.

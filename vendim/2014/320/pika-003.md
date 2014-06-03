@@ -1,0 +1,1 @@
+3. Nomenklatura e Veprimtarive Ekonomike (Rev.2) zbatohet nga agjencitë statistikore, ministritë e linjës, institucionet qendrore dhe vendore, personat fizikë dhe juridikë, të cilët ushtrojnë veprimtari ekonomike brenda territorit të Republikës së Shqipërisë.
