@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, përfaqësuar nga Organi Shtetëror i Autorizuar, i përbërë nga ministri i Energjisë dhe Industrisë, ministri i Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, ministri i Financave, ministri i Transportit dhe Infrastrukturës dhe ministri i Mjedisit, dhe shoqërive “La Petrolifera Italo - Rumena”, S.p.A. dhe “La Petrolifera Italo - Albanese” sh.a., sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

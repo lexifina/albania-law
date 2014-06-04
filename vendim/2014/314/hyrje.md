@@ -1,0 +1,5 @@
+VENDIM
+Nr. 314, datë 21.5.2014
+PËR MIRATIMIN E MARRËVESHJES, NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË, PËRFAQËSUAR NGA ORGANI SHTETËROR I AUTORIZUAR, I PËRBËRË NGA MINISTRI I ENERGJISË DHE INDUSTRISË, MINISTRI I ZHVILLIMIT EKONOMIK, TREGTISË DHE SIPËRMARRJES, MINISTRI I FINANCAVE, MINISTRI I TRANSPORTIT DHE INFRASTRUKTURËS DHE MINISTRI I MJEDISIT, SI DHE SHOQËRIVE “LA PETROLIFERA ITALO - RUMENA” SPA DHE “LA PETROLIFERA ITALO - ALBANESE” SHA
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 17, të ligjit nr. 9231, datë 13.5.2004, “Për ratifikimin e marrëveshjes së koncesionit, të formës “BOO”, për ndërtimin dhe shfrytëzimin e terminalit bregdetar për depozitimin e naftës dhe të nënprodukteve të saj në gjirin e Vlorës, si dhe për ratifikimin e marrëveshjes së koncesionit, të formës “BOT”, për ndërtimin dhe shfrytëzimin e infrastrukturës portuale në shërbim të terminalit bregdetar në gjirin e Vlorës”, me propozimin e ministrit të Energjisë dhe Industrisë, Këshilli i Ministrave
+VENDOSI:
