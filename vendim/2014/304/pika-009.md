@@ -1,0 +1,1 @@
+9. Ndërveprimi me bazat e tjera të të dhënave shtetërore, proceset elektronike të punës në baza të dhënash të tjera të Shërbimit Noterial Shqiptar, RNSH, si dhe procedurat përkatëse përcaktohen me urdhër të ministrit të Drejtësisë, në përputhje me rregullat e miratuara në zbatim të ligjit nr. 10325, datë 23.9.2010, “Për bazën e të dhënave shtetërore”.
