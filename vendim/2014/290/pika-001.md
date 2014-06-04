@@ -1,0 +1,1 @@
+1. Miratimin e raportit të përbashkët të Ministrisë së Zhvillimit Urban dhe Turizmit, Ministrisë së Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes dhe Ministrisë së Financave për realizimin e platformës multimediatike “Branding Albania”, sipas tekstit që i bashkëlidhet këtij vendimi.

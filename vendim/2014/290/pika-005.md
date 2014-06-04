@@ -1,0 +1,1 @@
+5. Komisioni/juria të bëjë vlerësimin e platformave të paraqitura nga kompanitë në përputhje me kriteret e përcaktuara, të shpallë kompaninë fituese dhe të njoftojë zyrtarisht Ministrinë e Zhvillimit Urban dhe Turizmit për shpalljen e fituesit.

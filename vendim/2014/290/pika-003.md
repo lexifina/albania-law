@@ -1,0 +1,4 @@
+3. Periudha e realizimit të këtij prodhimi dhe transmetimi është 1 (një) vit. Realizimi i platformës multimediatike “Branding Albania” të bëhet në 2 faza, si më poshtë vijon:
+a) Në fazën e parë do të mbulohen shpenzimet e nevojshme dhe çmimet për konkurrentët, me vlerë 40 000 (dyzet mijë) euro, nga buxheti i vitit 2014, përkatësisht, në vlerën 20 000 (njëzet mijë) euro, miratuar për Ministrinë e Zhvillimit Urban dhe Turizmit, dhe 20 000 (njëzet mijë) euro, miratuar për Ministrinë e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes.
+Ky fond t’i rimbursohet nga fondi rezervë i buxhetit të shtetit, në çastin e bërjes efektiv të tij, buxhetit të miratuar për vitin 2014, për këto ministri.
+b) Faza e dytë, me vlerë 500 000 (pesëqind mijë) euro, do të realizohet pas lidhjes së kontratës me kompaninë fituese dhe do të përballohet nga buxheti i Ministrisë së Zhvillimit Urban dhe Turizmit për vitin 2015.
