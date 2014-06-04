@@ -1,1 +1,0 @@
-4.Të siguruarit janë të detyruar të pranojnë në çdo kohë kontrollin nga specialistët e Institutit të Sigurimeve të Kujdesit Shëndetësor për të gjitha shërbimet e përfituara, që mbulohen nga skema e sigurimeve shëndetësore.

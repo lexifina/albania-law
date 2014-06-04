@@ -1,1 +1,0 @@
-1. Libreza e shëndetit është dokumenti që vërteton se mbajtësi i saj është person i siguruar, sipas ligjit nr.7870, datë 13.10.1994 “Për sigurimet shëndetësore në Republikën e Shqipërisë”, i ndryshuar.
