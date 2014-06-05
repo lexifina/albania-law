@@ -89,8 +89,7 @@ III. SPITALET NË NIVEL BASHKIE (RRETHI)
 10. Shërbimi ambulator i specializuar (poliklinika).
 IV. SPITALET DITORE
 1. Shërbimi i ndihmës së parë mjekësore për trajtim dhe kurim 24 orë.
-Shtojca nr. 2
-DETAJIMI I BUXHETIT PËR SHËRBIMIN SPITALOR - VITI 2014 000 lekë
+Shtojca 2
 Shtojca nr. 3
 LISTA E INSTITUCIONEVE QË NUK DO TË FINANCOHEN NGA FONDI I SIGURIMIT
 TË DETYRUESHËM TË KUJDESIT SHËNDETËSOR

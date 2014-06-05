@@ -1,1 +1,2 @@
 2. Spitali është person juridik, publik, me buxhet të pavarur, me cilësinë e autoritetit kontraktor, i cili organizohet, administrohet dhe vepron sipas ligjit nr. 9106, datë 17.7.2003 “Për shërbimin spitalor në Republikën e Shqipërisë”.
+2.1. Ministria e Shëndetësisë, për raste të vlerësuara nga ajo ose me kërkesë të autoriteteve kontraktuese (spitaleve), mund të zhvillojë procedura të përqendruara prokurimi për disa mallra dhe shërbime.
