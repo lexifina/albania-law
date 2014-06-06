@@ -1,0 +1,1 @@
+5. Institucioni shëndetësor, publik ose privat, është përgjegjës për informacionin e raportuar. Institucioni, nëpërmjet rregulloreve të brendshme, përcakton përgjegjësitë individuale për saktësinë e informacionit të raportuar, si dhe përgjegjësitë individuale në zbatim të legjislacionit për mbrojtjen e të dhënave personale.

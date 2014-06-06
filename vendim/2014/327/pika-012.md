@@ -1,0 +1,1 @@
+12. Të dhënat e raportuara, të cilat e bëjnë personin të identifikueshëm, të kodohen/të anonimizohen menjëherë si dhe të informohen paraprakisht personat e përfshirë në këtë përdorim. Këto të dhëna nuk përhapen, përveç rasteve të parashikuara nga legjislacioni në fuqi.

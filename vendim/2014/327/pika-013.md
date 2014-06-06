@@ -1,0 +1,1 @@
+13. Ofruesit e kujdesit shëndetësor, publik dhe privat, përfshirë dhe institucionet e ngarkuara për zbatimin e këtij vendimi që vihen në dijeni për të dhënat personale gjatë ushtrimit të funksioneve të tyre, detyrohen të ruajnë konfidencialitetin dhe besueshmërinë edhe pas përfundimit të funksionit.
