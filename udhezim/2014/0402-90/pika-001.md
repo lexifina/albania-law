@@ -1,0 +1,1 @@
+1. Forma dhe përmbajtja e shpalljes për kërkesën e ndryshimit të emrit/mbiemrit, e cila duhet t’u njoftohet nëpërmjet publikimit, personave të interesuar për ndryshimin e emrit/mbiemrit të kërkuesit, apo atyre personave që mund të preken nga ndryshimi i kërkuar, të jetë sipas modelit, bashkëlidhur këtij udhëzimi.
