@@ -1,0 +1,1 @@
+2. Ministria e Integrimit Evropian është përgjegjëse për bashkërendimin dhe monitorimin e zbatimit të udhërrëfyesit dhe raporton në Këshillin e Ministrave dhe Komitetin Ndërministror për Integrimin Evropian për ecurinë e procesit.
