@@ -1,0 +1,1 @@
+1. Hapjen e pikës së përkohshme të kalimit kufitar në Molin e Pogradecit, në kufirin shtetëror liqenor të Republikës së Shqipërisë me Republikën e Maqedonisë, për komunikacion ndërkombëtar të shtetasve gjatë periudhës 15 qershor - 15 shtator nga ora 9:00-19:00.
