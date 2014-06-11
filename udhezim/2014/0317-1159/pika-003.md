@@ -1,0 +1,1 @@
+3. Institucionet, të cilat janë duke zhvilluar sisteme të reja në fushën e TIK-ut, detyrimisht, të parashikojnë MNSH-në, si pjesë të procedurës së realizimit të investimit për këto sisteme. Kohëzgjatja e kësaj marrëveshjeje duhet të jetë jo më e shkurtër se 4 (katër) vjet.

@@ -1,0 +1,1 @@
+6. Institucionet, gjatë hartimit të MNSH-së, duhet të marrin në konsideratë elementet e paraqitura në aneksin 1, që i bashkëlidhet këtij udhëzimi dhe për çdo procedurë prokurimi për investimet për sisteme ose për shërbime të TIK-ut, duhet të kenë parasysh që marrëveshjen t’ia bashkëlidhin si aneks kontratës administrative, të lidhur ndërmjet palëve.
