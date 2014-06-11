@@ -1,1 +1,0 @@
-9. Drejtoria e Përgjithshme Detare duhet të hartojë dhe të zbatojë rregulla për përdorimin e sigurt të mjeteve lundruese që përdoren për argëtim, licencimin e përdoruesve të varkave që do të përdoren për argëtim, përdorimin e sigurt të varkave të vogla me motor dhe lundrimin e sigurt në ujërat e brendshme në thellësi të territorit.

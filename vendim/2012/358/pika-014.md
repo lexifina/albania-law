@@ -1,1 +1,0 @@
-14. Për shkeljet e kryera në përdorimin e mjeteve lundruese me motor, zbatohen sanksionet e parashikuara nga nenet 19-30, të ligjit nr. 8663, datë 18.9.2000 “Për regjistrimin, klasifikimin, mënyrën e përdorimit dhe kontrollin e mjeteve lundruese me motor, me tonazh nën 20 NT”.
