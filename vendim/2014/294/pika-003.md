@@ -1,0 +1,1 @@
+3. Fondi shtesë prej 195 milionë lekësh të përballohet nga pakësimi i fondeve buxhetore të institucioneve për shpenzimet kapitale dhe korrente, për vitin 2014, sipas tabelës nr. 1, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+2. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2014, në programin “Forcat e luftimit”, artikulli 602, reparti ushtarak 1001, Forca Tokësore, t’i shtohet fondi prej 30 milionë lekësh, me qëllim mbulimin e shpenzimeve me ushqim dhe fjetje, karburant dhe shpenzime transporti, si dhe nukle sanitare dhe tualete portabël për Forcat e Armatosura.
