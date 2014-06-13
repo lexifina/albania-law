@@ -1,0 +1,1 @@
+1. Miratimin e listës së inventarit të pronave të paluajtshme shtetërore të sistemit të ujësjellës-kanalizimeve, në përdorim të shoqërisë “Elber”, sh.p.k., Elbasan, të cilat kalojnë në pronësi të bashkisë Elbasan, që i bashkëlidhet këtij vendimi.
