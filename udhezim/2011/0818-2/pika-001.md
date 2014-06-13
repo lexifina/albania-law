@@ -1,1 +1,0 @@
-1. Ky udhëzim ka si qëllim përcaktimin e mënyrës së ekzekutimit nga llogaria e thesarit të detyrimeve monetare të njësive të qeverisjes së përgjithshme, që rrjedhin nga vendimet gjyqësore të formës së prerë.

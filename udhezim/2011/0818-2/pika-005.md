@@ -1,1 +1,0 @@
-5. Në rastin kur njësia shpenzuese nuk ka ekzekutuar në mënyrë vullnetare vendimin gjyqësor të formës së prerë, sipas afateve të parashikuara në nenin 517 të Kodit të Procedurës Civile, përmbaruesi gjyqësor fillon procedurat e ekzekutimit të detyruar.
