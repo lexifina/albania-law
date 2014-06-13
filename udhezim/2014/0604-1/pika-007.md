@@ -1,0 +1,1 @@
+7. Nëse gjatë vitit buxhetor ka fonde të papërdorura, përpara mbylljes së vitit buxhetor këto fonde mund të përdoren, për aq sa është e mundur, për shlyerjen e një pjese të vendimeve gjyqësore të formës së prerë, duke respektuar radhën e paraqitjes.
