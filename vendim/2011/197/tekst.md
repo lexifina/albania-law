@@ -4,7 +4,7 @@ Nr.197, datë 16.3.2011
 
 PËR PJESËMARRJEN E FORCAVE TË ARMATOSURA TË REPUBLIKËS SË SHQIPËRISË NË OPERACIONIN USHTARAK NDËRKOMBËTAR KFOR, KOSOVË
 
-(Ndryshuar me VKM nr. 172, datë 6.3.2012; nr. 447, datë 11.7.2012; nr. 196, datë 6.3.2013)
+(Ndryshuar me VKM nr. 172, datë 6.3.2012; nr. 447, datë 11.7.2012; nr. 196, datë 6.3.2013; nr. 399, datë 18.6.2014)
 
 (i përditësuar)
 
@@ -22,7 +22,7 @@ VENDOSI:
 
 5. Ministria e Mbrojtjes të përballojë për ushtarakët pjesëmarrës në këtë operacion shpenzimet për:
 
-a) shpërblimin për vështirësi shërbimi, në masën 4 000 (katër mijë) lekë në ditë, përveç pagës mujore;
+a) dieta për ditët e qëndrimit, në masën 4 000 (katër mijë) lekë në ditë, përveç pagës mujore;
 
 b) sigurimin e jetës; 
 
