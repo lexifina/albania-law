@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 840, datë 17.12.2004](https://qbz.gov.al/api/v1/acts/3213); [QBZ versions](https://qbz.gov.al/api/v1/acts/3213/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2006-09-15; after QBZ act 4738 (nr. 631).
+Status of this text: `official consolidated version 2`, applying from 2014-06-18; after QBZ act 19587 (nr. 407).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

@@ -1,10 +1,10 @@
 Vendim 
 
-Nr. 840, datë 17.12.2004
+Nr. 840, datë 17.12.2004 
 
 Për veprimtarinë e drejtorisë së shërbimit të trupit diplomatik
 
-(Ndryshuar me VKM nr. 631, datë 15.9.2006)
+(Ndryshuar me VKM nr. 631, datë 15.9.2006; nr. 407, datë 18.6.2014)
 
 (i përditësuar)
 
@@ -20,11 +20,13 @@ a) Administrimi dhe mirëmbajtja e pasurive, të luajtshme e të paluajtshme, pr
 
 b) Administrimi dhe mirëmbajtja e pasurive, të luajtshme e të paluajtshme, pronë e shtetit shqiptar në shtete të tjera, të cilat shërbejnë për ushtrimin e veprimtarisë së përfaqësive diplomatike të Republikës së Shqipërisë.
 
+c) Mirëmbajtja e godinës, ambienteve të brendshme dhe të jashtme të Ministrisë së Punëve të Jashtme, si dhe përmirësimi i inventarit material të kësaj ministrie.
+
 3. Të njëjtat shërbime, që DSHTD-ja kryen për trupin diplomatik, mund t’ua ofrojë edhe subjekteve, shtetërore ose private, shqiptare, si veprimtari dytësore, por që i shërbejnë objektit kryesor të veprimtarisë së saj. Në çdo rast, ushtrimi i këtyre veprimtarive në favor të këtyre subjekteve nuk duhet të pengojë apo cenojë shërbimin ndaj trupit diplomatik.
 
 3/1. Përcaktimi i çmimeve dysheme të qirasë, që Drejtoria e Shërbimit të Trupit Diplomatik zbaton për subjektet shqiptare jodiplomatike, dhe procedurat përkatëse bëhen në përputhje me aktet, ligjore dhe nënligjore, në fuqi, për përcaktimin e tarifave të qirasë për objektet e ndërmarrjeve shtetërore.
 
-4. Për të krijuar, garantuar dhe përmirësuar kushtet e qëndrimit dhe të ushtrimit të veprimtarisë për Trupin Diplomatik të huaj, të akredituar në Republikën e Shqipërisë, si dhe për përfaqësitë diplomatike të Republikës së Shqipërisë, të akredituara në shtete të tjera, DSHTD-ja përdor burimet e veta financiare. Gjithashtu, DSHTD-ja përballon, tërësisht apo pjesërisht, edhe shpenzimet e nevojshme për ndërtimin apo blerjen e objekteve të reja.
+4. Për të krijuar, garantuar dhe përmirësuar kushtet e veprimtarisë së Shërbimit të Jashtëm të Republikës së Shqipërisë, të Ministrisë së Punëve të Jashtme, Trupit Diplomatik të akredituar në Republikën e Shqipërisë, si dhe përfaqësive diplomatike të Republikës së Shqipërisë në shtetet e tjera apo pranë organizatave ndërkombëtare, DSHTD-ja përdor burimet e veta financiare. Gjithashtu, DSHTD-ja përballon me fondet e saj, tërësisht apo pjesërisht, shpenzimet për ndërtimin apo blerjen e objekteve të reja, pronë e shtetit shqiptar, të cilat shërbejnë për ushtrimin e veprimtarisë së përfaqësive diplomatike të Republikës së Shqipërisë.
 
 5. Burimet financiare të DSHTD-së janë:
 
