@@ -1,0 +1,1 @@
+3. Shoqëria TAP-AG, pas përfundimit të punimeve për ndërtimin e rrjetit rrugor pjesor, sipas pikës 2 të këtij vendimi, është e detyruar të realizojë rehabilitimin mjedisor të territorit pyjor dhe kullosor.

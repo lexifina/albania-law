@@ -1,0 +1,1 @@
+2. Heqja nga fondi pyjor dhe kullosor për ndërtimin e rrjetit rrugor të gazsjellësit TAP-AG, të bëhet me pjesë sipas territoreve administrative të njësive të qeverisjes vendore, bazuar në grafikun e parashikuar për realizimin e këtij projekti.

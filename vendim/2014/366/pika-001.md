@@ -1,0 +1,2 @@
+1. Heqjen nga fondi pyjor dhe kullosor dhe çregjistrimin nga kadastra e pyjeve dhe kullotave të sipërfaqes pyjore e kullosore prej 51,93 (pesëdhjetë e një presje nëntëdhjetë e tre) ha, që do të përdoret nga shoqëria TAP-AG për ndërtimin e rrjetit rrugor në funksion të ndërtimit të gazsjellësit TAP-AG.
+Sipërfaqja pyjore e kullosore që hiqet nga fondi pyjor dhe kullosor jepet në lidhjen 1 (një) që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

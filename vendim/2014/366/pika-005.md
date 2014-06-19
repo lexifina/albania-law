@@ -1,0 +1,1 @@
+5. Me hyrjen në fuqi të këtij vendimi, shoqëria TAP-AG, brenda 5 (pesë) viteve, të pyllëzojë me fondet e veta 50,23 (pesëdhjetë presje njëzet e tre) ha sipërfaqe me drurë pyjorë, në ekonomitë pyjore dhe kullosore të përcaktuara në marrëveshjen e lidhur ndërmjet shoqërisë TAP-AG dhe Ministrisë së Mjedisit.
