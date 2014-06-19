@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për kultura bujqësore, dru frutorë, me vlerë 1 303 800 (një milion e treqind e tre mijë e tetëqind) lekë.
