@@ -1,0 +1,1 @@
+22. Pjesa e parë e kodit unik është individuale dhe e papërsëritshme për çdo subjekt që transferon mbetje të rrezikshme. Pjesa e dytë e kodit unik vendoset nga vetë dorëzuesi dhe ndryshon për çdo transfertë.

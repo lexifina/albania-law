@@ -1,0 +1,1 @@
+17. Dokumenti i dorëzimit të mbetjeve të rrezikshme shoqëron çdo dorëzim të këtyre mbetjeve deri në destinacionin përfundimtar dhe të dhënat regjistrohen në Regjistrin e Transfertave Individuale, që krijohet për këtë qëllim.

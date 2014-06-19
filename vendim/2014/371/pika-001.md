@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për dorëzimin e mbetjeve të rrezikshme dhe të dokumentit të dorëzimit të tyre, në mënyrë profesionale, nga një person tek një tjetër brenda territorit të Republikës së Shqipërisë.

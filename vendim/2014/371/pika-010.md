@@ -1,0 +1,1 @@
+10. Dorëzuesi plotëson të dhënat që kërkohen në pjesët “A”, “B” dhe “D” të dokumentit të dorëzimit; transportuesi plotëson të dhënat që kërkohen në pjesën “C” të këtij dokumenti, dhe marrësi plotëson ato që kërkohen në pjesën “E” të dokumentit të dorëzimit.

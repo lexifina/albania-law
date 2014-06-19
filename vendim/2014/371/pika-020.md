@@ -1,0 +1,1 @@
+20. Dokumenti i dorëzimit përmban kodin unik, i cili përbëhet nga dy pjesë. Pjesa e parë e kodit unik miratohet nga Agjencia Kombëtare e Mjedisit, pas paraqitjes së kërkesës me shkrim nga dorëzuesi. Kërkesa shoqërohet me kopje të ekstraktit të Qendrës Kombëtare të Regjistrimit.

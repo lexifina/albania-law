@@ -1,0 +1,1 @@
+13. Marrësi në dorëzim, brenda 30 (tridhjetë) ditëve nga data e marrjes së mbetjeve të rrezikshme, i dërgon dorëzuesit konfirmimin me shkrim për marrjen e mbetjeve dhe dokumentin e dorëzimit në dy kopje, të plotësuar dhe të nënshkruar nga personat e përcaktuar në pikën 8 të këtij vendimi.

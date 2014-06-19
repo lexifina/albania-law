@@ -1,0 +1,1 @@
+14. Komunikimi ndërmjet personave që angazhohen në procesin e dorëzimit të mbetjeve të rrezikshme bëhet në formë shkresore ose në formë elektronike. Dokumenti i dorëzimit është i vlefshëm në formë elektronike vetëm nëse është plotësuar dhe nënshkruar nga personat e përcaktuar në pikën 8 të këtij vendimi.
