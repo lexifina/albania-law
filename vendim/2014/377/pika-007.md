@@ -1,0 +1,1 @@
+7. Drejtori i Përgjithshëm i SHKR-së i raporton drejtpërdrejt ministrit përgjegjës, përveçse kur ministri ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi në aparatin e ministrisë përgjegjëse për politikat dhe çështjet rinore.

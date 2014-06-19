@@ -1,0 +1,1 @@
+9. Qendrat rajonale rinore drejtohen nga drejtuesi i qendrës, i cili e përfaqëson atë në marrëdhënie me të tretët dhe është përgjegjës për organizimin dhe koordinimin e funksionimit, si dhe për cilësinë dhe efektivitetin e veprimtarive.
