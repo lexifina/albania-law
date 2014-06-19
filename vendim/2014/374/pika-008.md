@@ -1,0 +1,1 @@
+8. Procedurat, kriteret e përfitimit të huas, shlyerjes së detyrimeve dhe mënyra e administrimit të fondit të përcaktohen me udhëzim të përbashkët të ministrit të Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave dhe të ministrit të Financave.

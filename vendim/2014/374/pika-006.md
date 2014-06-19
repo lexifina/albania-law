@@ -1,0 +1,3 @@
+6. Masa e financimit për këto investime të jetë në varësi të llojit dhe të vlerës së vetë investimit, përkatësisht:
+a) Për ndërtim/rikonstruksion të stallave, pularive apo modernizim të komplekseve blegtorale dhe instalim të impianteve të tyre ndihmëse, deri në 70% të vlerës së përllogaritur të investimit, por jo më shumë se 25 000 000 (njëzet e pesë milionë) lekë;
+b) Për ndërtim/rikonstruksion (përfshirë edhe serrat), blerje dhe instalim të linjave për ruajtje, përpunim dhe ambalazhim të produkteve bujqësore e blegtorale, deri në 80% të vlerës së përllogaritur të investimit, por jo më shumë se 25 000 000 (njëzet e pesë milionë) lekë.
