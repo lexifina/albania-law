@@ -1,0 +1,3 @@
+7. Lejohet transferimi ndërkombëtar në një shtet që nuk ka nivel të mjaftueshëm të mbrojtjes së të dhënave personale, kur është i nevojshëm për mbrojtjen e interesave jetësore të subjektit të të dhënave.
+7.1 Mbrojtja e interesave jetësore mund të jetë interesi individual i subjektit në rast të një emergjence mjekësore si drejtpërdrejtë e domosdoshme me qëllim dhënien e kujdesit mjekësor të kërkuar;
+7.1.1 Nuk lejohet transferimi ndërkombëtar i të dhënave personale mjekësore, nëse qëllimi nuk është trajtimi i rastit të veçantë të subjektit, si kryerja e kërkimeve të përgjithshme mjekësore që nuk do të sillnin rezultate deri në një kohë të caktuar në të ardhmen.

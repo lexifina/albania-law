@@ -1,0 +1,1 @@
+2. Vendet që nuk kanë nivel të mjaftueshëm të mbrojtjes së të dhënave personale janë vendet jashtë listës së përcaktuar me vendim të Komisionerit “Për përcaktimin e shteteve me nivel të mjaftueshëm të mbrojtjes së të dhënave personale”.

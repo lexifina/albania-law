@@ -1,0 +1,1 @@
+5. Lejohet transferimi ndërkombëtar në një shtet që nuk ka nivel të mjaftueshëm të mbrojtjes së të dhënave personale, kur transferimi autorizohet nga akte ndërkombëtare, të ratifikuara nga Republika e Shqipërisë dhe që janë të zbatueshme në mënyrë të drejtpërdrejtë.

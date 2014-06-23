@@ -1,0 +1,2 @@
+9. Lejohet transferimi ndërkombëtar në një shtet që nuk ka nivel të mjaftueshëm të mbrojtjes së të dhënave, kur është bërë nga një regjistër, i cili është i hapur për këshillime dhe siguron informacion për publikun në përgjithësi.
+9.1 Në këtë rast, kontrolluesit publikë dhe privatë duhet të respektojnë parashikimet e udhëzimit nr. 39, datë 5.8.2013, të Komisionerit, në lidhje me përpunimin e të dhënave personale që merren nga një regjistër publik.

@@ -1,0 +1,3 @@
+10. Lejohet transferimi ndërkombëtar i një kategorie të të dhënave personale në një shtet që nuk ka nivel të mjaftueshëm të mbrojtjes së të dhënave, kur kontrolluesi paraqet mbrojtje të përshtatshme të privatësisë, të drejtave themelore dhe lirive të individëve, në bazë të klauzolave standarde kontraktuale dhe rregullave të detyrueshme të kompanive.
+10.1 Kontrolluesit publikë ose privatë mund të aplikojnë 2 (dy) standarde të klauzolave kontraktuale, sipas vendimit të Komisionit Evropian, që reflektojnë kërkesat e direktivës 95/46/KE, në lidhje me përpunimin e të dhënave personale;
+10.2 Organizatat ndërkombëtare, në cilësinë e kontrolluesve që transferojnë të dhënave personale brenda grupit ose grup kompanish, mund të përdorin rregullat e detyrueshme të kompanive.

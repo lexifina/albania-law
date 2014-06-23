@@ -1,0 +1,1 @@
+3. Rastet e lejimit të transferimit ndërkombëtar në vende që nuk kanë nivel të mjaftueshëm të mbrojtjes së të dhënave personale, të përcaktuara në këtë udhëzim, duhet të konsiderohen si raste përjashtimore dhe të interpretohen në mënyrë të ngushtë.

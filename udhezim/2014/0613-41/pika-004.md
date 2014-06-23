@@ -1,0 +1,3 @@
+4. Lejohet transferimi ndërkombëtar në një shtet që nuk ka nivel të mjaftueshëm të mbrojtjes së të dhënave personale kur subjekti i këtyre të dhënave jep pëlqimin.
+4.1 Pëlqimi duhet të jetë një tregues i qartë i vullnetit të subjektit për transferimin e të dhënave personale, specifik dhe i dhënë lirisht;
+4.2 Pëlqimi përfshin informimin paraprak të subjektit të të dhënave personale në lidhje me rrethanat specifike të transferimit, qëllimin e transferimin dhe rrezikun specifik që lind nga fakti se të dhënat e tij do të transferohen në një vend që nuk ofron mbrojtje të mjaftueshme të këtyre të dhënave.

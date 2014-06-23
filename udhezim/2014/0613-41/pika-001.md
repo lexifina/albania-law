@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave të detyrueshme për zbatim nga kontrolluesit publikë dhe privatë në lidhje me rastet e transferimit ndërkombëtar të të dhënave personale (këtej e tutje “transferim ndërkombëtar”) në vende që nuk kanë nivel të mjaftueshëm të mbrojtjes së të dhënave personale.
