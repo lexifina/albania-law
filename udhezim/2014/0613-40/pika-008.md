@@ -1,0 +1,3 @@
+8. Nëse punonjësi largohet nga detyra apo përfundon kontratën e punës, strukturat përkatëse në institucionin publik marrin këto masa:
+a) Njoftojnë punonjësin që para largimit të tij nga puna të aktivizojë një mesazh automatik (Out of Office) për të njoftuar të gjithë dërguesit për pamundësinë e komunikimit të mëtejshëm;
+b) Respektojnë afatet kohore të përcaktuara në aktet nënligjore të miratuara nga Agjencia Kombëtare e Shoqërisë së Informacionit, lidhur me aksesin në postën elektronike pas largimit nga vendi i punës të punonjësit dhe për rishikimin e arkivit për fshirjen përfundimtare të adresës së postës elektronike zyrtare të punonjësit.

@@ -1,0 +1,7 @@
+2. Në përputhje me ligjin për mbrojtjen e të dhënave personale dhe qëllimin e këtij udhëzimi, termat e mëposhtëm do të kenë kuptimin si vijon:
+a) “Institucion publik” është kontrolluesi, i cili në bazë të një akti ligjor ose nënligjor përcakton qëllimet dhe mënyrat e përpunimit të të dhënave personale në zbatim të veprimtarisë së tij;
+b) “Llogaria e punonjësit” përbëhet nga një emër dhe fjalëkalim i personalizuar, me anë të së cilës punonjësi autorizohet të aksesojë postën elektronike të institucionit;
+c) “Monitorim i të dhënave” është regjistrimi i aktivitetit të punonjësit në kompjuterin e tij të punës përmes programeve që përcaktojnë sa kohë një punonjës harxhon në kryerjen e aktiviteteve të caktuara në këtë kompjuter;
+d) “Postë elektronike”, konsiderohet çdo mesazh në formën e tekstit, tingullit apo imazhit të dërguar nëpërmjet rrjetit publik të komunikimeve, i cili mund të ruhet në rrjet ose në pajisjen fundore të marrësit derisa marrësi ta marrë atë;
+e) “Sistemet e informacionit” nënkuptojnë çdo pajisje ose grup pajisjesh të ndërlidhura ose të ngjashme, një ose më shumë nga të cilat, në bazë të një programi, kryhen përpunimin automatik të të dhënave kompjuterike;
+f) “Të dhëna personale” do të ketë të njëjtin kuptim me atë të parashikuar në nenin 3 të ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, i ndryshuar. Adresa zyrtare e postës elektronike nuk konsiderohet e dhënë personale, por në përmbajtje të saj mund të ketë të dhëna personale.

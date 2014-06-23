@@ -1,0 +1,1 @@
+9. Punëdhënësi duhet të lajmërojë punëmarrësin përpara se t’i çaktivizohet adresa elektronike, në mënyrë që ai të fshijë të dhënat personale të tij, që mund të ketë mbajtur në këtë adresë, të cilat nuk cenojnë marrëdhënien me punëdhënësin apo t’i marrë apo me mjetet e duhura në prezencë të strukturës përkatëse.

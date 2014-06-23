@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave të detyrueshme për zbatim nga institucionet publike dhe strukturat përkatëse, të cilat administrojnë sistemet e informacionit gjatë përdorimit të internetit dhe postës elektronike në vendin e punës nga ana e punonjësve.

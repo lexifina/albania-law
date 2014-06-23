@@ -1,0 +1,1 @@
+5. Institucionet publike, në përmbushje të qëllimit të përcaktuar në pikën 1 të udhëzimit, duhet të shmangin ndërhyrjen e pajustifikueshme dhe të paarsyeshme në të drejtën e punonjësit për jetën private.

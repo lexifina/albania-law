@@ -1,0 +1,1 @@
+4. Punonjësit informohen qartë nga institucioni publik, nëpërmjet politikës së privatësisë mbi aksesin e lejuar në internet. Politika e privatësisë përditësohet në përputhje me opinionet e publikuara nga Komisioneri.

@@ -1,0 +1,1 @@
+11. Institucioni publik përcakton masat e sigurisë, në përputhje me vendimin nr. 6, datë 5.8.2013, “Për përcaktimin e rregullave të hollësishme për sigurimin e të dhënave personale” dhe udhëzimin nr. 21, datë 24.9.2012, “Për përcaktimin e rregullave për ruajtjen e sigurisë së të dhënave personale të përpunuara nga kontrolluesit e mëdhenj”, i ndryshuar.
