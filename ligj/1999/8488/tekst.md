@@ -2,9 +2,9 @@ L I G J
 
 Nr.8488, datë 13.5.1999
 
-PËR MBROJTJEN E TOPOGRAFISË SË QARQEVE TË INTEGRUARA
+PËR MBROJTJEN E TOPOGRAFISË SË produktit gjysmëpërçues 
 
-(Ndryshuar me ligjin nr. 9957, datë 17.7.2008)
+(Ndryshuar me ligjin nr. 9957, datë 17.7.2008; nr. 66/2014, datë 26.06.2014)
 
 (I përditësuar)
 
@@ -14,31 +14,49 @@ K U V E N D I
 
 I REPUBLIKËS SË SHQIPËRISË
 
-V E N D O S I :
+V E N D O S I:
 
 I. DISPOZITA KRYESORE
 
 Neni 1
 
-Ky ligj rregullon mbrojtjen e topografisë së qarqeve të integruara.
+(Ndryshuar togfjalësh me ligjin nr. 66/2014, datë 26.06.2014)
+
+Ky ligj rregullon mbrojtjen e topografisë së produktit gjysmëpërçues.
 
 Neni 2
 
+(Ndryshuar shkronjat “a” dhe “b” dhe togfjalësh dhe shtuar fjalë në fund me ligjin nr. 66/2014, datë 26.06.2014)
+
 Në këtë ligj, përsa nuk thuhet ndryshe në përmbajtje:
 
-a) “një qark i integruar” është forma finale ose e ndërmjetme e një produkti i cili realizon ekzekutimin e një funksioni elektronik, ku të paktën njëri prej elementeve është aktiv dhe njëri ose të gjithë elementet ndërmjetës janë vendosur integralisht në pjesë materiali ose prej pjese materiali, pra në pjesën e brendshme ose të jashtme të materialit;
+a) “një produkt gjysmëpërçues” është forma përfundimtare ose e ndërmjetme e një produkti, i cili plotëson të gjitha kushtet e mëposhtme:
 
-b) “topografia e qarkut të integruar” (më poshtë: topografi) është një vendosje tridimensionale e çfarëdoshme, e shprehur prej elementesh, ku të paktën njëri është aktiv dhe ndërmjetësohet në qarqet e integruara, apo ato vendosje tridimensionale të përgatitura  për prodhimin e një qarku të integruar;
+i) përbëhet nga një masë materiali, e cila përfshin një shtresë materiali gjysmëpërçues;
 
-c) “shfrytëzimi tregtar” i topografive nënkupton prodhim, shitje, qiradhënie ose ndonjë metodë tjetër të përhapjes tregtare, e lidhur drejtpërdrejt me një topografi apo qark të integruar, prodhuar në bazë të topografisë respektive.
+ii) ka një ose më shumë shtresa të tjera që përbëhen nga material përcjellës, izolues apo gjysmëpërçues, të cilat vendosen sipas një modeli të paracaktuar tredimensional;
+
+iii)  ka për qëllim  të  kryejë, vetëm  ose  së bashku me funksionet e tjera, një funksion elektronik;
+
+b) “topografia e një produkti gjysmëpërçues” është një seri imazhesh të lidhura, pavarësisht nga mënyra e fiksimit apo kodimit të tyre:
+
+i) të cilat përfaqësojnë modelin tredimensional të shtresave, nga të cilat përbëhet një produkt gjysmëpërçues; 
+
+ii) ku në secilën seri, çdo imazh ka modelin ose një pjesë të modelit të sipërfaqes së produktit gjysmëpërçues në çdo fazë të prodhimit të tij.
+
+c) “shfrytëzimi tregtar” i topografive nënkupton prodhim, shitje, qiradhënie ose ndonjë metodë tjetër të përhapjes tregtare, e lidhur drejtpërdrejt me një topografi apo produktit gjysmëpërçues, prodhuar në bazë të topografisë respektive ose çdo ofertë për këtë qëllim.
 
 II. SUBJEKTET E MBROJTJES
 
 Neni 3
 
+(Shtuar paragraf në fund me ligjin nr. 66/2014, datë 26.06.2014)
+
 E drejta e mbrojtjes së një topografie garantohet për të gjithë krijuesit.
 
 Kur topografia është krijuar si rrjedhojë e punës së krijuesit apo në bazë të porosisë, e drejta e mbrojtjes garantohet në favor të punëdhënësit të krijuesit apo të personit që ka dhënë porosinë, me përjashtim të rasteve kur në kontratë parashikohet ndryshe.
+
+Të drejtën e mbrojtjes e gëzojnë, gjithashtu, edhe trashëgimtarët e personave të përmendur në paragrafët e parë dhe të dytë të këtij neni.
 
 Neni 4
 
@@ -80,25 +98,31 @@ IV. PËRMBAJTJA, TË DREJTAT DHE KUFIZIMI I TYRE
 
 Neni 9
 
+(Shtuar paragrafi i dytë me ligjin nr. 66/2014, datë 26.06.2014)
+
 Pronari i topografisë së mbrojtur lejon të drejtat ekskluzive të shfrytëzimit tregtar, duke përfshirë të drejtën e autorizimit apo të ndalimit të ndonjërës prej akteve të mëposhtme:
 
 a) Riprodhimi i topografisë, në kuptim apo formë; 
 
-b) importimi, shitja apo ndonjë formë tjetër e përhapjes e topografisë ose e produkteve që përfshijnë qarkun e integruar, i cili ka lidhje me topografinë respektive.
+b) importimi, shitja apo ndonjë formë tjetër e përhapjes e topografisë ose e produkteve që përfshijnë produktin gjysmëpërçues, i cili ka lidhje me topografinë respektive.
+
+E drejta ekskluzive për të autorizuar apo ndaluar ndonjë prej veprimeve të parashikuara në shkronjën “b”, të paragrafit të parë, të këtij neni, nuk zbatohet për veprimet e kryera, pasi topografia ose produkti gjysmëpërçues është hedhur në treg në Republikën e Shqipërisë nga personi që ka të drejtën të autorizojë tregtimin e saj ose me pëlqimin e tij.
 
 Të drejtat ekskluzive, të parashikuara në paragrafin e parë të këtij neni nuk shtrihen në ndonjë koncept, proces, sistem apo mishërim teknik në topografi, me përjashtim të vetë topografisë.
 
 Neni 10
 
+(Ndryshuar fjalia e parë e paragrafit të dytë dhe të tretë dhe paragrafi i pestë, shtuar paragraf pas paragrafit të katërt dhe ndryshuar togfjalësh me ligjin nr. 66/2014, datë 26.06.2014)
+
 Një topografi konsiderohet e mbrojtur kur ajo regjistrohet në regjistrin e topografisë.
 
-Të drejtat ekskluzive për pronarin e topografisë së mbrojtur hyjnë në fuqi në datat e mëposhtme:
+Të drejtat ekskluzive për pronarin e topografisë së mbrojtur lindin në njërën prej datave të mëposhtme, cilado është më e hershmja:
 
 a) Data e depozitimit e kërkesës për mbrojtje, në bazë të nenit 12 të këtij ligji;
 
 b) data kur topografia respektive është tregtuar për herë të parë kudo në botë.
 
-Të drejtat ekskluzive kanë afat deri në 10 vjet nga datat e mëposhtme:
+Të drejtat ekskluzive mbarojnë me kalimin e 10 vjetëve nga njëra prej datave të mëposhtme, cilado është më e hershmja:
 
 a) Fundi i vitit kalendarik, në të cilin topografia është tregtuar për herë të parë kudo në botë;
 
@@ -106,9 +130,11 @@ b) fundi i vitit kalendarik në të cilin kërkesa për mbrojtje është depozit
 
 Të drejtat ekskluzive mund të humbasin edhe para periudhës së përcaktuar në paragrafin e tretë të këtij vendimi, nëse nuk janë shlyer, në përputhje me ligjin, tarifat respektive ose pronari i së drejtës të topografisë së mbrojtur heq dorë me shkrim nga mbrojtja.
 
-Në qoftë se një topografi nuk është shfrytëzuar komercialisht, të drejtat ekskluzive shfuqizohen 15 vjet pas datës së fiksimit apo kodimit.
+Pa cenuar mjetet juridike në dispozicion për të zbatuar të drejtat ekskluzive që burojnë nga neni 9, personi që gëzon të drejtën e mbrojtjes dhe që provon se një person tjetër me mashtrim ka riprodhuar, shfrytëzuar në treg ose importuar për këtë qëllim një topografi, ka të drejtë t’i kërkojë gjykatës të parandalojë shkeljen, si dhe shpërblimin e dëmit për periudhën para se ato të drejta të lindin.
 
-Sipas termit të mbrojtur, mbajtësi i së drejtës është i autorizuar të shënojë qarkun respektiv të integruar me shkronjën “T”.
+Në qoftë se një topografi nuk është shfrytëzuar për qëllime tregtare askund në botë, të drejtat ekskluzive shfuqizohen 15 vjet pas datës së fiksimit apo kodimit. Një e drejtë e re ekskluzive mund të lindë vetëm pas depozitimit, brenda kësaj periudhe, të një kërkese për regjistrim në formën e kërkuar nga ky ligj.
+
+Sipas termit të mbrojtur, mbajtësi i së drejtës është i autorizuar të shënojë produktin respektiv gjysmëpërçues me shkronjën “T”.
 
 Neni 11
 
@@ -120,11 +146,15 @@ Neni 12
 
 Aplikimi
 
+(Shtuar paragrafi i fundit dhe ndryshuar togfjalësh me ligjin nr. 66/2014, datë 26.06.2014)
+
 Procedura për regjistrimin e së drejtës së mbrojtjes fillon me një kërkesë për hyrjen në regjistër, i cili shoqërohet nga të gjithë termat përshkrues (më poshtë: aplikimi).
 
-Aplikimi përmban emrin e aplikantit dhe të krijuesit, imazhet për topografinë respektive të shoqëruara me përmendjen e sekuencave të tyre, një ekstrakt që përmban funksionet elektronike ose funksionet e një qarku të integruar, prodhimin në bazë të topografisë së mbrojtur, një dokument të shkruar që vërteton datën kur topografia respektive është shfrytëzuar për herë të parë komercialisht.
+Aplikimi përmban emrin e aplikantit dhe të krijuesit, imazhet për topografinë respektive të shoqëruara me përmendjen e sekuencave të tyre, një ekstrakt që përmban funksionet elektronike ose funksionet e një produkti gjysmëpërçues, prodhimin në bazë të topografisë së mbrojtur, një dokument të shkruar që vërteton datën kur topografia respektive është shfrytëzuar për herë të parë komercialisht.
 
 Për çdo topografi depozitohet një kërkesë e veçantë.
+
+Materiali i depozituar në përputhje me kërkesat e këtij ligji nuk vihet në dispozicion për publikun, kur ai është sekret tregtar. Kjo dispozitë nuk cenon zbulimin e këtij materiali, në zbatim të një urdhri nga një gjykatë ose autoritet tjetër kompetent, ndaj personave të përfshirë në çështje gjyqësore, lidhur me vlefshmërinë ose shkeljen e të drejtave ekskluzive të përmendura në nenin 9.
 
 Neni 13
 
@@ -160,13 +190,15 @@ Neni 15
 
 Shkelja e së drejtës
 
+(Shtuar fjalë në shkronjën “a”, paragrafi i tretë me ligjin nr. 66/2014, datë 26.06.2014)
+
 Një person, të drejtat e të cilit janë shkelur, mundet që në bazë të dëmit, të kërkojë që personi i cili e ka shkaktuar atë, të ndalohet nga vazhdimi i akteve të dhunimit.
 
 Nëse personi që shkel të drejtat të mbrojtjes së një topografie të mbrojtur mashtron për dëmin e shkaktuar, sipas parimeve të përgjithshme, ai përgjigjet me shpërblimin e dëmit, në përputhje me dispozitat ligjore në fuqi.
 
 Nuk konsiderohen shkelje të të drejtave për mbrojtje rastet kur:
 
-a) riprodhohet  një topografi e mbrojtur për qëllime jofitimprurëse;
+a) riprodhohet  një topografi e mbrojtur për qëllime private jofitimprurëse;
 
 b)  riprodhohet  një topografi e mbrojtur për qëllim të analizës apo të vlerësimit të konceptit të saj, të proceseve, sistemeve dhe të teknikave të mishëruara në topografi apo për qëllime kërkimi ose arsimimi;
 
@@ -178,7 +210,9 @@ Neni 16
 
 Shpërblimi i dëmit
 
-Një person, i cili shfrytëzon komercialisht një qark të integruar, që ka të inkorporuar topografinë e mbrojtur dhe nuk di apo nuk ka baza të arsyeshme të besojë se topografia e produktit është e mbrojtur, nuk privohet nga e drejta e shfrytëzimit tregtar të qarkut të integruar.
+(Ndryshuar togfjalësh me ligjin nr. 66/2014, datë 26.06.2014)
+
+Një person, i cili shfrytëzon komercialisht një produkt gjysmëpërçues, që ka të inkorporuar topografinë e mbrojtur dhe nuk di apo nuk ka baza të arsyeshme të besojë se topografia e produktit është e mbrojtur, nuk privohet nga e drejta e shfrytëzimit tregtar të produktit gjysmëpërçues.
 
 Dëmshpërblimi, shuma e të cilit varet nga qëllimi i shfrytëzimit komercial të topografisë së mbrojtur, pretendohet ndaj personit të referuar në paragrafin e parë nga pronari i topografisë së mbrojtur, që nga data kur personi i referuar në paragrafin e parë nuk e ka ditur apo nuk ka pasur baza të arsyeshme të besojë se topografia është e mbrojtur.
 
