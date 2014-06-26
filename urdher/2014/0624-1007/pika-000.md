@@ -1,0 +1,1 @@
+Kategoria e zyrtarëve të administratës doganore që do të përfshihen në kufizimet e parashikuara në nenin 32 të ligjit nr. 9367, datë 7.4.2005, të ndryshuar, të cilët nuk mund të zotërojnë në mënyrë aktive, asnjë aksion ose pjesë në kapital në shoqëritë tregtare, që kryejnë veprimtari import-eksporti, kategorizuar sipas funksionit do të jenë:
