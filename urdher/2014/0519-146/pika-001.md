@@ -1,0 +1,1 @@
+1. Tarifa për paraqitjen e kërkesës për ndryshimin e emrit/mbiemrit të shtetasve do të jetë 200 (dyqind) lekë. Kjo tarifë parapaguhet nga kërkuesi në kohën e depozitimit të kërkesës, pranë zyrës së gjendjes civile, ku kërkuesi ka vendbanimin.

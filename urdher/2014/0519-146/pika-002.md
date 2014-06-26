@@ -1,0 +1,1 @@
+2. Tarifa për afishimin e shpalljes pranë zyrës së gjendjes civile ku është depozituar kërkesa, ku kërkuesi ka vendbanimin do të jetë 400 (katërqind) lekë. Kjo tarifë parapaguhet nga kërkuesi në momentin e depozitimit të kërkesës, pranë zyrës së gjendjes civile, pasi kjo e fundit të jetë urdhëruar nga prefekti për afishimin e shpalljes së kërkesës.
