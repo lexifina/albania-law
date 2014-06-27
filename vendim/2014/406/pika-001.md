@@ -1,0 +1,1 @@
+1. Fillimin e zbatimit të mbikëqyrjes elektronike të personave, të cilëve u kufizohet lëvizja me vendim gjyqësor, në kuptim të pikës 2, të nenit 20, të ligjit nr. 10494, datë 22.12.2011, “Për mbikëqyrjen elektronike të personave, të cilëve u kufizohet lëvizja me vendim gjyqësor”.

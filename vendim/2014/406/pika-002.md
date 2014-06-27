@@ -1,0 +1,1 @@
+2. Mbikëqyrja elektronike e personave, të cilëve u kufizohet lëvizja me vendim gjyqësor, të parashikuar në nenin 4, të ligjit nr. 10494, datë 22.12.2011, shtrihet në të gjithë territorin e Republikës së Shqipërisë dhe realizohet nga të gjitha gjykatat sipas parashikimeve të këtij ligji.
