@@ -1,0 +1,1 @@
+3. Anëtarët e Komisionit Kombëtar kundër Dhunës në Sport përfitojnë, për çdo pjesëmarrje në mbledhje, një shpërblim prej 5 000 (pesë mijë) lekësh. Pagesat për shpërblimet të përballohen nga buxheti i miratuar për Ministrinë e Arsimit dhe Sportit (“Programi i sportit”).
