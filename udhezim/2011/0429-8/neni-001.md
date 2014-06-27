@@ -1,5 +1,0 @@
-# Neni 1
-Qëllimi dhe shtrirja e udhëzimit
-a) Marrëveshja europiane “Për punën e ekuipazheve të mjeteve të përfshira në transportin ndërkombëtar rrugor AETR”, ligji nr.9514, datë 18.4.2006 dhe/ose rregullorja e Këshillit (EEC) nr.3821/85 mbi pajisjen regjistruese në transportin rrugor, kërkojnë nga shtetet anëtare miratimin e ofiçinave, të cilat instalojnë, inspektojnë dhe riparojnë pajisjen regjistruese, e njohur si tahograf.
-b) Në legjislacionin shqiptar, vendimi i Këshillit të Ministrave nr.1054, datë 22.12.2010 ngarkon MPPT-në për nxjerrjen e këtij udhëzimi për kërkesat teknike, të cilat duhet të plotësohen dhe standardet e operimit të ofiçinës së autorizuar të tahografit.
-c) Kërkesat e vendosura në këtë udhëzim përcaktojnë kushtet e miratimit të ofiçinave të tahografit, që duhet të plotësohen gjatë gjithë kohës nga ofiçinat dhe stafet e tyre, kur drejtojnë operacionet e punës në tahograf. Udhëzimi dhe manualet duhet të mbahen në përdorim nga stafi i ofiçinave të miratuara gjatë punës, për të qenë në dijeni me kërkesat që duhet të plotësohen prej tyre dhe, që në rast të kundërt, janë subjekt i veprimeve disiplinore në përputhje me këtë udhëzim.

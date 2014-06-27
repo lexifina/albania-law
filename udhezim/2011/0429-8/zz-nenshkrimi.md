@@ -1,3 +1,0 @@
-# Nënshkrimi
-MINISTRI I PUNËVE PUBLIKE DHE TRANSPORTIT
-Sokol Olldashi
