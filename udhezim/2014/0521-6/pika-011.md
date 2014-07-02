@@ -1,0 +1,1 @@
+11. Një kopje origjinale e vendimeve të gjykatës për vendosjen në kujdestari të fëmijëve në institucionet rezidenciale të përkujdesit shoqëror, publik apo jopublik, si dhe një kopje origjinale e vendimit për heqjen e kujdestarisë nga institucioni, do të mbeten në institucionet e fundit të qëndrimit së bashku me dosjet e fëmijës.

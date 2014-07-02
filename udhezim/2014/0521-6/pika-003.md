@@ -1,0 +1,1 @@
+3. Drejtuesi i institucionit, kur gjykata me vendim të formës së prerë ka vendosur sistemimin e fëmijës në institucion, brenda 10 ditëve dërgon në gjykatë emrin e punonjësit të cilit i delegohet e drejta e ushtrimit të funksioneve të kujdestarit. Ky dokument depozitohet në dosjen gjyqësore dhe pasqyrohet në regjistrin e kujdestarisë së gjykatës.

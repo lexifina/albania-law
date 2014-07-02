@@ -1,0 +1,1 @@
+5. Për fëmijët, të vendosur me vendim gjykate në institucionin e përkujdesit shoqëror, publik apo jopublik, të cilët janë shpallur të braktisur me vendim gjykate, përgatitet dokumentacioni në përputhje me listën sipas modularit nr. 1, bashkëngjitur këtij udhëzimi dhe dërgohet, rast pas rasti, në Komitetin Shqiptar të Birësimeve për fillimin e procedurave për birësim.
