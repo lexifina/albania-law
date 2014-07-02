@@ -1,0 +1,1 @@
+5. Për kryerjen e monitorimit të respektimit të kushteve dhe kritereve ligjore në terren gjatë ushtrimit të veprimtarisë turistike “stacion plazhi”, AKB-ja ngre grupe pune me punonjës të saj ose kërkon nga MZHUT-ja ngritjen e grupeve të përbashkëta të punës.

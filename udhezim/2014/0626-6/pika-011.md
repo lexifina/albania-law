@@ -1,0 +1,1 @@
+11. Për shkeljet e përsëritura nga njësitë e qeverisjes vendore, AKB-ja bashkëpunon me prefektin e qarkut përkatës mbi ndjekjen e procedurave për marrjen e masave ndaj personave përgjegjës, kryetarit të njësisë së qeverisjes vendore dhe deri në përgatitjen e propozimeve për shkarkimin e tyre.

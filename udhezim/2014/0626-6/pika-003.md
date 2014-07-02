@@ -1,0 +1,1 @@
+3. AKB-ja të monitorojë zbatimin e kërkesave dhe kushteve të përcaktuara në vendimin nr. 321, datë 28.5.2014 të Këshillit të Ministrave, për respektimin nga njësitë vendore të lënies në dispozicion të publikut të plazheve publike, pa pagesë për përdoruesit, në masën 20% të territorit të përgjithshëm të plazhit.

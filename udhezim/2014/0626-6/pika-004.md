@@ -1,0 +1,1 @@
+4. AKB-ja, në mbështetje të vendimit nr. 321, datë 28.5.2014 të Këshillit të Ministrave, i kërkon njësive të qeverisjes vendore t’i vënë në dispozicion inventarin e lejeve të dhëna për subjektet fizike dhe juridike për ushtrimin e veprimtarisë turistike si “stacion plazhi”.
