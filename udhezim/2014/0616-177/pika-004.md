@@ -1,0 +1,1 @@
+4. Për rastet e përmendura në pikën 3 të këtij udhëzimi, punonjësi i policisë që ka bërë konstatimin zbaton procedurat e parashikuara në ligjin nr. 8663, datë 18.9.2000, të ndryshuar dhe kur nuk konstatohen elemente të veprës penale, merr masat administrative të parashikuara sipas legjislacionit në fuqi.

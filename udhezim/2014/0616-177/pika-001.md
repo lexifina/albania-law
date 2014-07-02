@@ -1,0 +1,1 @@
+1. Në zbatim të ligjit nr. 8663, datë 18.9.2000, “Për regjistrimin, klasifikimin, mënyrën e përdorimit dhe kontrollin e mjeteve lundruese me motor, me tonazh nën 20 NT”, të ndryshuar, objekt i këtij udhëzimi janë ato mjete me motor me tonazh nën 20 NT, që ushtrojnë aktivitet në det, liqene, lumenj, rezervuarë dhe përrenj në thellësi të territorit.

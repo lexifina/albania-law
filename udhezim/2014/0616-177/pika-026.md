@@ -1,0 +1,1 @@
+26. Regjistrat përkatës sipas këtij udhëzimi protokollohen dhe ruhen 10 vjet pas mbylljes, ndërsa dokumentet e përpiluara për masa administrative apo penale për shkeljet që bëhen me mjetet lundruese, ruhen 1 (një) vit pas përfundimit të ekzekutimit të vendimit.

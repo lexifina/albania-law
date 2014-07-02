@@ -1,0 +1,1 @@
+13. Procesverbali i dorëzimit përpilohet në 3 (tri) kopje, një kopje e procesverbalit i dorëzohet kundërvajtësit, një tjetër qëndron në pikën e bllokimit, ndërsa kopja e tretë dorëzohet brenda ditës në stacionin e Policisë Kufitare (e cila arkivohet në sekretarinë e Drejtorisë Rajonale të Kufirit dhe Migracionit).

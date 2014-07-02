@@ -1,0 +1,1 @@
+2. Mjetet lundruese kur dalin në lundrim, pavarësisht nga qëllimi i daljes, fuqia motorike apo tonazhi, të respektojnë rregullat e regjimit të lundrimit në det, liqene, lumenj, rezervuarë dhe përrenj, si dhe të jenë të pajisura me mjetet e shpëtimit, GPS, sinjalet ndriçuese për lundrim natën, si dhe me mjete komunikimi e sinjalizimi, sipas përcaktimeve të legjislacionit në fuqi.

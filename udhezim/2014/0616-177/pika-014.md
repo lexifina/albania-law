@@ -1,0 +1,1 @@
+14. Mjeti i bllokuar apo i sekuestruar lihet në ruajtje, kundrejt konfirmimit të marrjes në dorëzim, në pikën e bllokimit deri në përfundim të procedurave të marrjes së vendimit përfundimtar. Kur dënimi është me gjobë, mjeti mbahet i bllokuar deri në likuidimin e vlerës së gjobës, e cila bëhet nëpërmjet bankave të nivelit të dytë ose nëpërmjet zyrave postare.

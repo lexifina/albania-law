@@ -1,0 +1,1 @@
+21. Kur konstatohen shkelje të ligjit në fabrikat e kantieret e prodhimit apo riparimit të mjeteve lundruese, agjenti i Policisë Kufitare dhe Migracionit bën mbylljen e përkohshme të fabrikës dhe harton procesverbalin sipas modelit nr. 16 bashkëlidhur këtij udhëzimi dhe sa më shpejt, por jo më vonë se 48 (dyzet e tetë) orë ia dërgon prokurorit pranë gjykatës së rrethit gjyqësor.

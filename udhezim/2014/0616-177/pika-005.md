@@ -1,0 +1,1 @@
+5. Për të gjitha daljet në det, liqene, rezervuarë, lumenj dhe përrenj, drejtuesi apo pronari i mjetit plotëson një deklaratë, sipas modelit nr. 10 bashkëlidhur këtij udhëzimi, një kopje të së cilës e dorëzon pranë stacionit të Policisë Kufitare dhe Migracionit.

@@ -1,0 +1,1 @@
+8. Për mjetet lundruese që qarkullojnë në liqene, lumenj, rezervuarë dhe përrenj në thellësi të territorit, të cilat nuk mbulohen nga shërbimet e Policisë Kufitare, procedurat për regjistrimin, kontrollin dhe kundërvajtjet që kryhen nga ana e tyre, zbatohen nga shërbimet e rendit në qarqe.

@@ -1,0 +1,1 @@
+17. Formulari i procesverbalit të vendosjes së gjobës, sipas modelit nr. 3 bashkëlidhur, plotësohet në dy pjesë. Pjesa e parë, për masën e gjobës referuar shkeljes së bërë nga kundërvajtësi, ndërsa pjesa e dytë shërben për llogaritjen e detyrimeve për shpenzimet e kryera nga policia, si shpenzimet e ndërhyrjes, të transportit, parkimit dhe zhbllokimit të mjetit lundrues.

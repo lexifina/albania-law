@@ -1,0 +1,1 @@
+24. Pas shlyerjes së detyrimeve financiare, shefi i stacionit të Policisë Kufitare dhe Migracionit pajis kundërvajtësin me formularin e zhbllokimit sipas modelit nr. 8 bashkëlidhur këtij udhëzimi, të cilin e paraqet në pikën e zhbllokimit së bashku me mandat-arkëtimet.
