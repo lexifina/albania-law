@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Drejtësisë, nga data 29.6.2014 deri në datën 3.7.2014, zëvendësministrave të Drejtësisë z.Arben Isaraj dhe z. Idlir Peçi, brenda fushës së kompetencave të deleguara me urdhrin nr. 7, datë 8.1.2014, të Ministrit të Drejtësisë.
