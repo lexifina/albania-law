@@ -1,0 +1,1 @@
+3. Titullarët e ministrive të linjës dhe institucioneve të tjera qendrore, të sigurojnë zhvillimin e procesit, bashkëpunimin e nevojshëm, si dhe të përgatisin me cilësi dhe në afat të gjitha materialet e kërkuara për politikat sektoriale dhe të koordinuara nga Departamenti i Programimit të Zhvillimit, Financimeve dhe Ndihmës së Huaj (DEPZHFND), në Kryeministri.

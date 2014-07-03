@@ -1,0 +1,1 @@
+1. Përgatitjen dhe finalizimin e Strategjisë Kombëtare për Zhvillim dhe Integrim (SKZHI) 2014 - 2020, si sintezë e të gjitha politikave publike sektoriale e ndërsektoriale. Struktura e SKZHI-së 2014-2020 përcaktohet sipas shtojcës 2, bashkëlidhur këtij urdhri.

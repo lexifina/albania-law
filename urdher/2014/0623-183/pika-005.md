@@ -1,0 +1,1 @@
+5. Zbatimi i procesit dhe metodologjisë, si dhe respektimi i afateve të përcaktuara për përgatitjen e Strategjisë Kombëtare për Zhvillim dhe Integrim (SKZHI 2014-2020), të bëhen sipas shtojcave 1 dhe 4, bashkëlidhur të këtij urdhri.

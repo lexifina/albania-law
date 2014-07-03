@@ -1,0 +1,1 @@
+2. Departamenti i Programimit të Zhvillimit, Financimeve dhe Ndihmës së Huaj (DEPZHFND), në Kryeministri, të udhëheqë procesin dhe të koordinojë institucionet qendrore për finalizimin e dokumentit të Strategjisë Kombëtare për Zhvillim dhe Integrim 2014 -2020.
