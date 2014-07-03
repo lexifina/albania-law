@@ -1,0 +1,1 @@
+3. Financimin, në masën 200 000 000 (dyqind milionë) lekë, për vitin 2014, për Ministrinë e Arsimit dhe Sportit, në programin buxhetor 08140 “Programi për sportin”, llogaria ekonomike 231, për financimin e pjesshëm të projektit të ndërtimit të Parkut Olimpik të Tiranës.

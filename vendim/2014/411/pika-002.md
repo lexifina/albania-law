@@ -1,0 +1,1 @@
+2. Fondet e destinuara për bashkëfinancimin e projektit të stadiumit “Ruzhdi Bizhuta”, Elbasan, do të transferohen në formë granti, në llogarinë ekonomike 604, programi buxhetor 08140, “Programi për sportin”, në llogarinë bankare, në një bankë të nivelit të dytë, me përfitues Federatën Shqiptare të Futbollit.
