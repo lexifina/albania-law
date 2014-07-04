@@ -1,0 +1,7 @@
+# Neni 105
+Ndarja e aktiveve në mbulim të provigjoneve matematike nga aktivet e tjera të shoqërisë së sigurimit
+1. Shoqëria e sigurimit ndan aktivet në mbulim të provigjoneve matematike nga aktivet e tjera, sipas mënyrës së përcaktuar në nenet e mëposhtme të këtij ligji, në përputhje me llojet e aktiveve.
+2. Përdorimi i aktiveve në mbulim të provigjoneve matematike, referuar pikës 1, të këtij neni, lejohet vetëm për të mundësuar zgjidhjen e kërkesave për dëmshpërblim të të siguruarve, sipas kontratës së sigurimit të jetës, për të cilën janë krijuar aktivet përkatëse në mbulim të provigjoneve matematike.
+3. Në rast të klasave të sigurimit të jetës dhe të klasave të tjera të sigurimit, për të cilat përdoren tabelat e probabilitetit dhe llogaritje të njëjta me ato të jetës, përdorimi i aktiveve në mbulim të provigjoneve matematike kufizohet vetëm për atë pjesë të aktiveve, vlera e të cilave:
+a) është në raport të njëjtë me pjesën e mbulimit të kërkuar në lidhje me kontratat e sigurimit të jetës, nga të cilat rrjedh e drejta për dëmshpërblim, ashtu sikurse vlera totale e aktiveve në mbulim të provigjoneve matematike i korrespondon vlerës së mbulimit të kërkuar për të gjitha kontratat e sigurimit të jetës, të nënshkruara nga shoqëria e sigurimit, sipas klasave të sigurimit të jetës, për të cilat janë krijuar aktivet përkatëse në mbulim të provigjoneve matematike;
+b) nuk tejkalon mbulimin e kërkuar në lidhje me kontratën e sigurimit të jetës, nga e cila ka lindur e drejta për dëmshpërblim.

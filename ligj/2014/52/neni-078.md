@@ -1,0 +1,9 @@
+# Neni 78
+Investimet
+1. Shoqëria e sigurimit harton, miraton dhe zbaton politika investimi dhe huadhënieje, standarde dhe procedura, që një person profesionist i arsyeshëm dhe i kujdesshëm do të zbatonte në lidhje me portofolin e investimeve dhe huave, me qëllim shmangien e rrezikut të tepërt të humbjes dhe arritjen e një kthimi të arsyeshëm nga investimi. Këto politika duhet të jenë të shkruara, të disponueshme për inspektim dhe shqyrtohen të paktën një herë në vit.
+2. Shoqëria e sigurimit investon vetëm në aktive dhe instrumente në lidhje me portofolin e aktiveve në tërësi, rreziqet e të cilave shoqëria mund t’i identifikojë në mënyrën e duhur, t’i masë, t’i monitorojë, t’i administrojë, t’i kontrollojë e t’i raportojë, si dhe t’i marrë parasysh në mënyrë të përshtatshme në vlerësimin e kërkesave të aftësisë paguese.
+3. Të gjitha aktivet investohen në mënyrë që të garantohen siguria, cilësia, likuiditeti dhe fitueshmëria e portofolit si i tërë dhe të jenë lehtësisht të disponueshme për inspektim nga Autoriteti.
+4. Aktivet duhet të jenë të diversifikuara në mënyrë të përshtatshme për të shmangur përqendrimin e tepërt mbi një aktiv, emetues ose grup shoqërish, ose hapësirë gjeografike të veçantë, si dhe grumbullimin e tepërt të rrezikut në portofolin si i tërë.
+5. Investimet dhe aktivet, të cilat nuk janë të tregtueshme në tregjet financiare të rregulluara, mbahen në një nivel të kujdesshëm, sipas kufizimeve të përcaktuara në rregulloret e Autoritetit.
+6. Autoriteti miraton rregulla, në lidhje me kategoritë e investimeve të lejuara, si dhe kufijtë që zbatohen për investimin e aktiveve.
+7. Përjashtimisht, nga pikat 1 deri 6, të këtij neni, në rastin e aktiveve të mbajtura për kontratat e sigurimit të jetës, ku rreziku i investimit mbahet nga vetë i siguruari, zbatohen përcaktimet e nenit 104 të këtij ligji.

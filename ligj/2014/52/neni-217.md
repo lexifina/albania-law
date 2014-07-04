@@ -1,0 +1,7 @@
+# Neni 217
+Raportet dhe librat tregtarë
+1. Shoqëria e agjentëve dhe shoqëria e brokerimit mbajnë librat tregtarë, hartojnë dokumentet e kontabilitetit, vlerat e aktiveve e përgjegjësive dhe përgatisin pasqyrat financiare, sipas ligjeve nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar, nr. 9228, datë 29.4.2004, “Për kontabilitetin dhe pasqyrat financiare”, e akteve të tjera ligjore e nënligjore, dhe në përputhje me standardet e kontabilitetit e ato financiare, si dhe me parimet e metodat e përgjithshme të kontabilitetit, përveç rasteve kur është parashikuar ndryshe në këtë ligj.
+2. Shoqëria e agjentëve dhe shoqëria e brokerimit përgatisin pasqyra financiare 6-mujore dhe vjetore, si dhe raporte statistikore.
+3. Shoqëria e agjentëve dhe shoqëria e brokerimit depozitojnë në Autoritet pasqyrat financiare vjetore, jo më vonë se 3 muaj pas mbarimit të vitit kalendarik, për të cilin po hartohen këto pasqyra, dhe pasqyrat financiare 6-mujore, jo më vonë se 30 ditë kalendarike nga data e përfundimit të periudhës për të cilën po hartohen këto pasqyra.
+4. Shoqëria e agjentëve dhe shoqëria e brokerimit depozitojnë në Autoritet një raport statistikor jo më vonë se 30 ditë kalendarike nga përfundimi i periudhës 3-mujore, për të cilën është përgatitur ky raport. Raporti statistikor vjetor paraqitet brenda 3 muajve pas mbarimit të vitit kalendarik.
+5. Autoriteti mund të përcaktojë, me rregullore, formën dhe përmbajtjen e pasqyrave dhe raporteve të referuara në pikat 2 dhe 4 të këtij neni.

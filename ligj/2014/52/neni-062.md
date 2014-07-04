@@ -1,0 +1,3 @@
+# Neni 62
+Pasojat juridike në rast të mospërmbushjes së detyrimit për informim
+Nëse siguruesi ose ndërmjetësit nuk përmbushin detyrimin për informim, japin informacion të natyrës mashtruese dhe çorientuese, nuk japin informacionin e duhur, në përputhje me nenin 63, të këtij ligji, ose informacioni i dhënë është në kundërshtim me faktet e ndodhura përpara nënshkrimit apo gjatë periudhës së vlefshmërisë së kontratës, si dhe nëse dhënia e këtij informacioni ndikon në vendimmarrjen e të siguruarit, ky i fundit ka të drejtë të zgjidhë kontratën dhe të kërkojë pagesën e dëmshpërblimit për dëmin e shkaktuar.

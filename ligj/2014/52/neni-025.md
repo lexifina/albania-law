@@ -1,0 +1,6 @@
+# Neni 25
+Ndryshimi i anëtarit të këshillit të administrimit/mbikëqyrës dhe administratorit/anëtarit të bordit të drejtorëve
+1. Shoqëria e sigurimit njofton dhe merr miratimin nga Autoriteti për çdo ndryshim të administratorit/anëtarit të bordit të drejtorëve dhe anëtarit të këshillit të administrimit/mbikëqyrës.
+2. Shoqëria e sigurimit njofton me shkrim Autoritetin për çdo ndryshim të të dhënave, mbi bazën e të cilave është vlerësuar dhe miratuar anëtari i këshillit të administrimit/mbikëqyrës dhe administratori/anëtari i bordit të drejtorëve. Në këtë rast, Autoriteti, nëse e gjykon të nevojshme, rivlerëson personin në fjalë, në përputhje me parashikimet e neneve 17 dhe 20 të këtij ligji.
+3. Shoqëria e sigurimit njofton Autoritetin në rastin e riemërimit të administratorit/anëtarit të bordit të drejtorëve dhe anëtarit të këshillit të administrimit/mbikëqyrës dhe në rastin e përfundimit apo marrjes të detyrës si anëtar i një organi drejtues apo kontrollues të një shoqërie tjetër.
+4. Autoriteti përcakton me rregullore procedurat, afatet dhe informacionin shtesë në rastin e miratimit të ndryshimit të administratorit/anëtarit të bordit të drejtorëve dhe anëtarit të këshillit të administrimit/mbikëqyrës, në rastin e rivlerësimit të tij, si dhe në rastin e riemërimit, përfundimit apo marrjes së një detyre tjetër drejtuese.

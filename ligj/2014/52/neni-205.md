@@ -1,0 +1,5 @@
+# Neni 205
+Sigurimi i përgjegjësisë profesionale dhe garancia financiare e brokerit/shoqërisë së brokerimit në sigurime
+1. Brokeri/shoqëria e brokerimit siguron në një shoqëri sigurimi përgjegjësitë profesionale të tij/të saj ndaj palëve të treta, në një shumë jo më të vogël se 30 000 000 lekë, për çdo dëm të shkaktuar si rezultat i ushtrimit të veprimtarisë së brokerimit, dhe jo më të vogël se 100 000 000 lekë, për të gjitha dëmet në një vit kalendarik.
+2. Brokeri/shoqëria e brokerimit ka të drejtë të grumbullojë prime nga i siguruari dhe t’i arkëtojë ato për llogari të shoqërisë së sigurimit. Brokeri/shoqëria e brokerimit përdor një llogari bankare të veçantë, të hapur për këtë qëllim dhe të ndarë veçmas nga llogaria e tij e biznesit.
+3. Brokeri/shoqëria e brokerimit në sigurime detyrohet të ketë, në mënyrë të vazhdueshme, një garanci financiare në masën 4 për qind të shumës të primeve vjetore të mbledhura, e cila nuk duhet të jetë më e vogël se 1 000 000 lekë. Garancia financiare depozitohet në një llogari qëllimore në një nga bankat dhe/ose degët e bankave të huaja që veprojnë në territorin e Republikës së Shqipërisë.

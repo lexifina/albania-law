@@ -1,0 +1,6 @@
+# Neni 70
+Zgjidhja e mosmarrëveshjeve
+1. Shoqëria e sigurimit harton dhe miraton procedura të brendshme të përshtatshme që do të zbatohen nga shoqëria e sigurimit në rastet kur palët bien dakord që mosmarrëveshjet ndërmjet të siguruarve apo konsumatorëve me shoqërinë e sigurimit apo ndërmjetësit të zgjidhen në mënyrë jashtëgjyqësore.
+2. Shoqëria e sigurimit publikon informacionin për rregullat e zgjidhjes jashtëgjyqësore të mosmarrëveshjeve si pjesë e kushteve të kontratës së sigurimit.
+3. Në rastet e lindjes së mosmarrëveshjes, për shkak të paqartësive të krijuara nga gjuha e përdorur në hartimin e kushteve të kontratës së sigurimit, të hartuara nga siguruesi, zgjidhja e mosmarrëveshjeve do të bëhet duke interpretuar kushtet në favor të të siguruarit.
+4. Ekzekutimi i vlerës së dëmshpërblimit, që rrjedh nga kontrata e sigurimit vullnetar e të detyrueshëm dhe deklarimi formal i pranimit të vlerës nga pala e dëmtuar apo përfituese, shuajnë përfundimisht detyrimin e shoqërisë siguruese. Pala përfituese e dëmshpërblimit nuk ka të drejtë të kërkojë vlerë tjetër dëmshpërblimi, të ndryshme nga ajo që ka pranuar me vullnet të lirë nëpërmjet nënshkrimit të marrëveshjes dhe/ose deklaratës së pranimit të vlerës.
