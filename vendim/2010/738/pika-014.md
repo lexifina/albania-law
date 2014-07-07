@@ -1,1 +1,0 @@
-14. Subjektet, të cilat kanë bërë kërkesën për privatizimin e truallit në përdorim, sipërfaqe të domosdoshme, përpara datës 7.6.2010, të vazhdojnë procedurën për privatizimin e tij, sipas procedurave të përcaktuara në këtë vendim, por me kusht që të përsëritet kërkesa vetëm për mënyrën e realizimit të pagesës së vlerës së truallit, brenda datës 7.6.2011.

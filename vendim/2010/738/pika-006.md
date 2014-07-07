@@ -1,1 +1,0 @@
-6. Në rastet kur konfirmohet se trualli i objekteve apo ndërmarrjeve të shitura ka pronarë, të njohur me vendim të Komisionit të Kthimit dhe Kompensimit të Pronave, apo ka pronar shtetin, Drejtoria e Administrimit dhe Shitjes së Pronave Publike, në Ministrinë e Financave, kryen shitjen e truallit dhe lidhjen e kontratës.
