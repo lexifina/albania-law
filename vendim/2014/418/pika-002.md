@@ -1,0 +1,1 @@
+2. Njësitë e qeverisjes vendore, të tjera nga ato të përcaktuara në pikën 1 të kësaj ndarjeje, marrin, brenda 31 dhjetorit 2018, masat e përshtatshme për grumbullimin e diferencuar të mbetjeve, të paktën për rrymat e mbetjeve të përcaktuara në pikën 1 të kësaj ndarjeje.

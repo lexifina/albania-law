@@ -1,0 +1,1 @@
+4. Njësitë e qeverisjes vendore, brenda datës 31 dhjetor 2020, duhet që, për përgatitjen, ripërdorimin dhe riciklimin e mbetjeve të ngurta, ku përfshihen letra, metali, plastika dhe qelqi, të arrijnë objektivin, minimumi në 50% të peshës së përgjithshme të mbetjeve të gjeneruara në vitin 2014.
