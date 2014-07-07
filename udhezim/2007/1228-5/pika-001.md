@@ -1,1 +1,0 @@
-1. Angazhimet e agjencive rajonale të mjedisit dhe të Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave për shqyrtimin e kërkesës dhe marrjen e vendimit për lejet mjedisore, vlerësohen si shërbime ndaj të tretëve dhe paguhen nga kërkuesi në formën e tarifave të shërbimeve.

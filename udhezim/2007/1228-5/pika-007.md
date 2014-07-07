@@ -1,1 +1,0 @@
-7. Shpenzimet e përgatitjes së raportit të vlerësimit të ndikimit në mjedis, të diskutimit publik, të shqyrtimit dhe këshillimit, përballohen nga propozuesi. Këto shpenzime nuk janë pjesë e tarifës së shërbimit.
