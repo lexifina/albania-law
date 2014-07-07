@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitin 2014, në programin “Menaxhimi i të ardhurave tatimore”, në zërin “Shpenzime kapitale”, t’i shtohet fondi 198 000 000 (njëqind e nëntëdhjetë e tetë milionë) lekë.
