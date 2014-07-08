@@ -1,0 +1,1 @@
+9. Degët doganore dërgojnë rregullisht në vazhdimësi të dhënat në Bazën e të Dhënave për numrat IMEI, të deklaruar nga importuesit, në përputhje me nenin 26 të ligjit nr. 7928, datë 27.4.1995, “Për tatimin mbi vlerën e shtuar”, të ndryshuar.

@@ -1,0 +1,1 @@
+8. Të gjithë importuesit, në çastin e deklarimit dhe të pagesës së detyrimeve fiskale pranë shërbimit doganor, duhet të deklarojnë edhe listën e numrave IMEI të aparateve të importuara sipas nenit 26 të ligjit nr. 7928, datë 27.4.1995, “Për tatimin mbi vlerën e shtuar”, të ndryshuar.
