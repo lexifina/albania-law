@@ -1,0 +1,1 @@
+5. Nënndarja 2.5, e pikës 2, “Përdorimi i sallës VIP të Aeroportit”, të kapitullit V, “Vizita dhe takime”, të ceremonialit zyrtar në Republikën e Shqipërisë, bashkëlidhur vendimit nr. 229, datë 23.4.2004, të Këshillit të Ministrave, të ndryshuar, shfuqizohet.

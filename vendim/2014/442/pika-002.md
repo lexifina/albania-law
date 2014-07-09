@@ -1,0 +1,1 @@
+2. Salla VIP e Aeroportit “Nënë Tereza”, brenda destinacionit të saj, do të përdoret nga “ALBCONTROL”, sh.a-ja, e cila do të ofrojë edhe shërbimet që ofrohen aktualisht nga Drejtoria e Shërbimeve Qeveritare, sipas rregullave të miratuara nga ministri i Punëve të Jashtme dhe ministri i Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes.

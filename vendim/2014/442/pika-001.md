@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi Ministrisë së Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, për “ALBCONTROL”, sh.a.-në, të objektit “Salla VIP e Aeroportit “Nënë Tereza”, pjesë e pasurisë numër 201/3, në zonën kadastrale nr. 3183, Rinas.
