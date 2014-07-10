@@ -1,0 +1,1 @@
+5. Masa e ndihmës ekonomike për viktimat e dhunës në marrëdhëniet familjare që nuk trajtohen në institucionet e përkujdesjes shoqërore, është 3000 (tre mijë) lekë në muaj. Kjo ndihmë ekonomike përfitohet gjatë periudhës së vlefshmërisë të urdhrit të mbrojtjes ose urdhrit të menjëhershëm të mbrojtjes, të përcaktuar në vendimin e gjykatës.
