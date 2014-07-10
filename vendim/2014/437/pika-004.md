@@ -1,0 +1,1 @@
+4. Anëtarët e Këshillit Kombëtar të Sportit përfitojnë për pjesëmarrje në çdo mbledhje një shpërblim prej 5 000 (pesë mijë) lekësh. Pagesat për shpërblimet përballohen nga “Programi i sportit”, në Ministrinë e Arsimit dhe Sportit.
