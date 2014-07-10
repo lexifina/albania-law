@@ -1,0 +1,1 @@
+9. Vlerësimi i qëndrueshmërisë konstruktive për ndërtimet pa leje, shtesat anësore apo në lartësi, të ndërtuara nga shoqëria “Hawai-Alb” sh.p.k., bëhet nga Instituti i Ndërtimit, pa pagesë, dhe i bashkëngjitet praktikës dokumentare të legalizimit.

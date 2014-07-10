@@ -1,0 +1,1 @@
+6. Në rast se çështja është në proces gjyqësor sipas pikës 5 të këtij vendimi, procedurat e legalizimit për apartamentin ose ambientin me funksion social- ekonomik pezullohen, me paraqitjen e vërtetimit gjyqësor nga pala e interesuar apo me vendim gjyqësor të lejimit të masës së sigurimit.

@@ -1,0 +1,1 @@
+11. Subjekti “Hawai-Alb” sh.p.k., ka detyrimin e pagesës së penaliteteve të parashikuara nga neni 43 i ligjit nr. 9482, datë 3.4.2006, të ndryshuar, të cilat do t’i njoftohen personit të ngarkuar me zbatimin e procedurave të likuidimit të shoqërisë tregtare, përfaqësuesit të saj, Drejtorisë së Përgjithshme të Tatimeve dhe Agjencisë së Mbikëqyrjes së Falimentit.

@@ -1,0 +1,1 @@
+8. Detyrimet financiare të lidhura me tarifën e shërbimit shlyhen nga poseduesit e ambienteve me funksion social-ekonomik, sipas paragrafit të fundit të nenit 27, të ligjit nr. 9482, datë 3.4.2006, të ndryshuar.
