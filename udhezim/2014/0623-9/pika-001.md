@@ -1,0 +1,1 @@
+1. Familjarët dhe individët në qarkun e Tiranës, Elbasanit dhe Durrësit mund të aplikojnë për ndihmë ekonomike përmes administratorëve shoqërorë në njësitë e pushtetit vendor në të cilën ata janë të regjistruar brenda 10 ditëve (dhjetë) të para të muajit. Për muajin e parë dhe të dytë të zbatimit të këtij udhëzimi, aplikimi do të jetë deri në datën 20 të muajit përkatës.

@@ -1,0 +1,1 @@
+2. Aplikojnë për ndihmë ekonomike kryefamiljari dhe bashkëshortja e kryefamiljarit, të cilët plotësojnë dhe nënshkruajnë aplikimin për familjen. Bashkëshortja është përgjegjëse për tërheqjen dhe marrjen në dorëzim të përfitimit të ndihmës ekonomike.

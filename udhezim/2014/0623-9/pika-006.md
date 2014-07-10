@@ -1,0 +1,1 @@
+6. Individët që kanë marrë statusin e jetimit që nuk jetojnë në institucionet e përkujdesjes në muajt e parë të pretendimit për ndihmë ekonomike, duhet të paraqesin pranë administratorit shoqëror: i) Certifikatën familjare; ii) Një kopje të noterizuar të statusit të jetimit; iii) Vërtetim si punëkërkues i papunë, të lëshuar nga zyra e punës, për jetimët mbi moshën 18 vjeç.

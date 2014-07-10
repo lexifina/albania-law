@@ -1,0 +1,1 @@
+18. Administratori shoqëror i hedh aplikimet në Regjistrin Kombëtar brenda 10 ditëve të para të muajit. Çdo aplikim i hedhur pas kësaj date, nuk do të ndjekë procedurat për të përfituar ndihmë ekonomike për muajin aktual, por do të mbarten në listën e muajit tjetër.

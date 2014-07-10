@@ -1,0 +1,1 @@
+31. Në rastet kur familja/individi ndryshon vendbanimin jashtë zonave të pilotimit të përcaktuara sipas vendimit nr. 904, krahas ndryshimit të gjendjes civile, duhet të paraqitet pranë administratorit të njësisë vendore ku është transferuar, duke aplikuar sipas legjislacionit përkatës në fuqi.

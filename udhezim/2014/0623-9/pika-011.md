@@ -1,0 +1,1 @@
+11. Për familjet me persona me aftësi të kufizuar, një kopje/fotokopje e vendimit të Komisionit Mjekësor të Caktimit të Aftësisë për Punë për familjet e përbëra nga persona invalidë të punës apo persona me aftësi të kufizuar, të cilët marrin pagesë paaftësie.

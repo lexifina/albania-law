@@ -1,0 +1,1 @@
+5. Për familjet kur kryefamiljarët janë në proces ndarje duhet të paraqesin edhe vërtetim nga gjykata, që vërteton se kryefamiljari dhe bashkëshortja, të cilët po aplikojnë veçmas njëri nga tjetri për ndihmë ekonomike, janë në një proces të zgjidhjes së martesës dhe akoma nuk ka një vendim të formës së prerë.

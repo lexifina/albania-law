@@ -1,0 +1,1 @@
+20. Për muajin e dytë për listën e gjenuar nga sistemi i Regjistrit Elektronik numri i protokollit do të ishte 1.1.2 e kështu deri në fund të vitit kalendarik. Në vitin e dytë do të ndiqet i njëjti rregull.

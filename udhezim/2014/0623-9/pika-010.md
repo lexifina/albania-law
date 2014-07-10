@@ -1,0 +1,1 @@
+10. Aplikuesit duhet, gjithashtu, të shoqërojnë aplikimin e tyre me një fotokopje të kartës së identitetit të aplikuesit dhe një fotokopje të kartave të identitetit të anëtarëve të tjerë të familjes, të cilët kanë kartë identiteti.
