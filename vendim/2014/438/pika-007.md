@@ -1,0 +1,1 @@
+7. Vendimi nr.486, datë 25.7.2012, i Këshillit të Ministrave, “Për miratimin e Planit Kombëtar për Zbatimin e Marrëveshjes së Stabilizim - Asociimit, 2012 - 2015, dhe përcaktimin e përgjegjësisë institucionale për përafrimin në legjislacionin shqiptar të çdo akti të legjislacionit të Bashkimit Evropian”, shfuqizohet.

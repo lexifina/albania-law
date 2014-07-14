@@ -1,0 +1,1 @@
+6. Plani Kombëtar për Integrimin Evropian është përpiluar në të njëjtën linjë me Planin Legjislativ Vjetor të qeverisë, si dhe me Strategjinë për Zhvillim dhe Integrim. PKIE-ja është hartuar në gjuhën shqipe dhe anglisht.
