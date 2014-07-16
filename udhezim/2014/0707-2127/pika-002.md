@@ -1,0 +1,1 @@
+2. Autoriteti i Aviacionit Civil duhet të evidentojë, në pasqyrat financiare vjetore të veprimtarisë së vet, shpenzimet faktike të kryera për konservim, si shpenzimet për ruajtjen e objektit me rojë private, pagat, sigurimet shoqërore, detyrimet tatimore, faturat për blerje e shërbime të kryera nga të tretë etj.
