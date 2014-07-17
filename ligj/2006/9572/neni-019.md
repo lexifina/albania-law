@@ -1,8 +1,8 @@
 # Neni 19
 Inspektimi
-Inspektimi ushtrohet nga nëpunësit e Autoritetit, sipas përcaktimit të bërë në urdhrin e nënshkruar nga Kryetari ose, në mungesë dhe me autorizimin e lëshuar prej tij, nga njëri prej nënkryetarëve. Inspektimi bëhet me ose pa lajmërim.
+Inspektimi ushtrohet nga nëpunësit e Autoritetit, sipas përcaktimit të bërë në urdhrin e nënshkruar nga Drejtori i Përgjithshëm Ekzekutiv, ose, në mungesë dhe me autorizimin e lëshuar prej tij, nga nëndrejtori ekzekutiv. Inspektimi bëhet me ose pa paralajmërim.
 Nëpunësit e urdhëruar, në përputhje me paragrafin e parë të këtij neni, inspektojnë për:
-1. Respektimin e dispozitave ligjore e nënligjore në fuqi, që rregullojnë veprimtarinë e tregjeve financiare jobankare.
+1. Respektimin e dispozitave ligjore e nënligjore në fuqi, që rregullojnë veprimtarinë e tregjeve financiare që mbikëqyren.
 2. Parandalimin dhe identifikimin e shkeljeve.
 Për ushtrimin e inspektimit, subjekti i mbikëqyrur është i detyruar t’u sigurojë nëpunësve të Autoritetit kushte normale pune, si dhe t’u ofrojë dokumentacion ose çdo të dhënë tjetër, të shkruar në gjuhën shqipe.
 Nëpunësit e administratës së Autoritetit, para fillimit të procedurave të inspektimit, janë të detyruar të paraqesin urdhrin e përmendur në paragrafin e parë të këtij neni.

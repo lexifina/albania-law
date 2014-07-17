@@ -1,47 +1,28 @@
 # Neni 14
 Kompetencat e Bordit
-Bordi ka këto kompetenca:
-1. Harton, në përputhje me strukturën, rregullat për përshkrimin dhe qëllimin e punës së çdo departamenti dhe njësie.
-2. Harton dhe miraton parimet bazë të veprimtarisë së tij.
-3. Harton dhe miraton rregulla dhe udhëzime të parashikuara në ligj.
-4. Shpërndan udhëzues të shkruar për interpretimin dhe zbatimin e ligjeve, që rregullojnë fushën e veprimtarisë dhe të akteve nënligjore, të dala në zbatim të tyre.
-5. Miraton formatin e licencave, që lëshohen për ushtrimin e veprimtarive të mbikëqyrura nga Autoriteti.
-6. Lëshon, refuzon, pezullon apo heq licencat për ushtrimin e veprimtarisë në njërin prej tregjeve financiare jobankare, të mbikëqyrura nga Autoriteti. Në zbatim të kësaj kompetence, Bordi:
-a) miraton ose refuzon, në përputhje me afatet, kushtet dhe procedurat e parashikuara në legjislacionin në fuqi për titujt, prospektusin për ofertën publike ose për regjistrimin e emetimeve të reja për shitje, sipas rregullave të tregut të titujve;
-b) mbikëqyr zbatimin e vendimeve të përkohshme apo përfundimtare për botimin e ofertave publike të titujve;
-c) miraton licencat e individëve apo të personave fizikë ose juridikë, që kërkojnë të ushtrojnë veprimtari në tregun e titujve, përfshirë këtu veprimtari, si treg titujsh, tregtarë të titujve, regjistrues, depozitarë, ndërmjetës apo këshilltarë investimesh, si dhe të subjekteve të tjera të përfshira në treg;
-ç) miraton licencat e shoqërive, që kërkojnë të ushtrojnë veprimtari, si administrues të fondeve të investimit dhe licencat për ushtrimin e veprimtarisë si shoqëri investimi;
-d) jep pëlqimin për statutin, organet e larta drejtuese, si dhe ndryshimet e statutit të shoqërive, që kërkojnë të ushtrojnë veprimtari në tregun e titujve, përpara se të paraqiten në gjykatë;
-dh) miraton, në përputhje me ligjin që rregullon veprimtarinë e sigurimit, të risigurimit dhe ndërmjetësimit në sigurime dhe risigurime, licencat për ushtrimin e veprimtarisë së sigurimit e të veprimtarisë së ndërmjetësimit në sigurime dhe operacionet që rrjedhin drejtpërdrejt nga këto veprimtari;
-e) shqyrton kërkesat për zgjerim veprimtarie, të bëra nga subjektet e licencuara;
-ë) shqyrton kërkesat për ushtrim veprimtarie jashtë territorit të Republikës së Shqipërisë, si dhe ato për hapjen e zyrave të përfaqësimit të shoqërive të huaja që ushtrojnë veprimtari të lidhura me objektin e funksionimit të Autoritetit;
-f) shqyrton kërkesat për transferim portofoli, si dhe për dhënien në sipërmarrje të disa prej funksioneve të shoqërisë së sigurimit;
-g) miraton bashkimin ose ndarjen e shoqërive të licencuara të sigurimit;
-gj) miraton organet e larta drejtuese, statutin e shoqërive të sigurimit dhe ndryshimet në statut, përpara se ai të paraqitet për miratim në asamblenë e përgjithshme të aksionerëve;
-h) shqyrton kërkesat për pjesëmarrje influencuese në shoqëritë e sigurimit dhe në investimet e kapitalit të shoqërive të sigurimit;
-i) miraton likuidimin vullnetar dhe vendos fillimin e procedurave të falimentimit për shoqëritë e sigurimit;
-j) miraton organet e larta drejtuese, statutin dhe ndryshimet në statutin e shoqërive, që kërkojnë të ushtrojnë veprimtari si institute private pensionesh, përpara regjistrimit të tyre në gjykatë;
-k) ndërmerr masa korrigjuese, të përshtatshme dhe në kohën e duhur, në rastet kur shoqëria e sigurimit apo e risigurimit nuk arrin nivelin e kërkuar të aftësisë paguese ose kur vërehen raste të mosplotësimit të aftësisë paguese, siç është përcaktuar në legjislacionin në fuqi për fushën e sigurimeve dhe të risigurimeve;
-l) miraton udhëzues metodologjikë, formën e kontratës së sigurimit, lista, tipe shkresash dhe dokumente te tjera për veprimtarinë e instituteve private të pensioneve;
-ll) miraton rregulloret e instituteve private të pensioneve suplementare dhe ndryshimet në këto rregullore, si dhe kontrollon zbatimin e tyre;
-m) miraton llojin, formën dhe përmbajtjen e raporteve, që i paraqiten Bordit nga subjektet e licencuara;
-n) miraton transferimin e paketës kontrolluese të subjekteve të mbikëqyrura.
-7. Kufizon ose ndalon investimet e shoqërisë së sigurimit dhe të shoqërisë së risigurimit, kur vërtetohet se investimet nuk janë në përputhje me raportet rregullatore të vendosura apo kur rrezikojnë pozicionin financiar të shoqërisë.
-8. Shqyrton, brenda 1 muaji nga paraqitja e kërkesës, kushtet e përgjithshme dhe të veçanta të kontratës së sigurimit, që shoqëria e sigurimit kërkon të hedhë në treg.
-9. Miraton pasqyrat financiare të shoqërive të sigurimit dhe të shoqërive të risigurimit.
-10. Miraton dhe shpërndan standarde kontabël dhe formatet e njoftimit financiar, të detyrueshme për t’u zbatuar nga të licencuarit.
-11. Miraton listën e ekspertëve kontabël, që mund ta ushtrojnë këtë funksion në shoqëritë që veprojnë në tregjet financiare jobankare.
-12. Merr vendim për rastet e parashikuara në ligj, për fillimin e procedurave të falimentimit për subjektet e mbikëqyrura dhe kur kjo parashikohet nga ligji, emëron likuidatorin.
-13. Miraton politikën e pagave dhe të shpërblimeve të nëpunësve dhe të të punësuarve të tjerë të Autoritetit.
-14. Merr vendime për lidhjen e memorandumeve të bashkëpunimit dhe shkëmbimit të informacionit me autoritete brenda dhe jashtë vendit, në funksion të veprimtarisë së Autoritetit.
-15. Diskuton periodikisht raportet për veprimtarinë e departamenteve kryesore të Autoritetit.
-16. Miraton projektbuxhetin dhe raportin vjetor të Autoritetit.
-17. Miraton, brenda muajit qershor të çdo viti, raportin për industrinë, në lidhje me gjendjen dhe perspektivën e tregut, të mbikëqyrur nga Autoriteti.
-18. Miraton, në rregulloret për procedurat e brendshme administrative, afatet për paraqitjen e çështjeve për shqyrtim.
-19. Miraton manualet e inspektimit.
-20. Përcakton politikat e mbikëqyrjes, të kontrollit të subjekteve të mbikëqyrura dhe të zhvillimit të tregut financiar jobankar.
-21. Vendos për blerjen e shërbimit të këshillimit nga ekspertë të fushës.
-22. Miraton rregulla për emërimin dhe shkarkimin e nëpunësve dhe punonjësve të tjerë të administratës.
-23. Kompetenca të tjera, të parashikuara nga ky ligj apo nga ligjet e fushës.
-Vendimet e marra janë objekt ankimimi në gjykatë.
-Vendimet administrative të Bordit botohen në format e vendosura nga Bordi për botimin e njoftimeve zyrtare.
+Bordi ushtron në mënyrë të pavarur këto kompetenca:
+1. Miraton politikat e licencimit, të rregullimit dhe të mbikëqyrjes, për të nxitur zhvillimin e tregjeve financiare që mbikëqyren nga Autoriteti, sipas përcaktimeve të këtij ligji dhe të legjislacionit në fuqi.
+2. Miraton rregullat, rregulloret, vendimet dhe udhëzimet për mbikëqyrjen dhe rregullimin e institucioneve e personave që ushtrojnë veprimtari në tregjet financiare që mbikëqyren nga Autoriteti, si dhe udhëzues për interpretimin dhe zbatimin e ligjeve, sipas përcaktimeve të këtij ligji e të legjislacionit në fuqi.
+3. Miraton të gjitha raportet që dërgon Autoriteti në Kuvendin e Republikës së Shqipërisë.
+4. Miraton, refuzon, pezullon apo heq licencat ose autorizimet për ushtrimin e veprimtarisë së subjekteve në tregjet financiare që mbikëqyren, si dhe rregullat përkatëse, sipas përcaktimeve të këtij ligji dhe të legjislacionit në fuqi.
+5. Miraton ekspertin kontabël ose shoqërinë audituese për subjektet e mbikëqyrura.
+6. Miraton standarde kontabël dhe format e raportimit financiar, të detyrueshme për t’u zbatuar nga subjektet e mbikëqyrura.
+7. Miraton kodin e etikës, rregulloren e funksionimit të Bordit dhe rregulloret për organizimin dhe funksionimin e Autoritetit, që nxirren në zbatim të këtij ligji.
+8. Miraton strategjitë, politikat dhe rregulloret e administrimit të përgjithshëm të Autoritetit, politikën e investimit në depozitat bankare apo në titujt e Qeverisë së Republikës së Shqipërisë, si dhe përcakton mënyrat dhe procedurat e përdorimit të mjeteve financiare për realizimin e veprimtarisë së Autoritetit.
+9. Miraton rregulloren për krijimin, investimin dhe përdorimin e fondit të rezervës së Autoritetit.
+10. Miraton strukturën organizative të Autoritetit dhe numrin e punonjësve si dhe përshkrimet e punës dhe ndarjet funksionale.
+11. Miraton pagën, shpërblimet si dhe trajtimet financiare të anëtarëve joekzekutivë të Bordit, Drejtorit të Përgjithshëm Ekzekutiv, nëndrejtorit ekzekutiv, si dhe të punonjësve.
+12. Miraton politikën e burimeve njerëzore dhe rregullat e punësimit.
+13. Miraton rregullat për përcaktimin e elementeve të përllogaritjes dhe nivelet e tarifave që u ngarkohen subjekteve të mbikëqyrura, si dhe procedurat e arkëtimit dhe rakordimit të tyre.
+14. Miraton buxhetin e Autoritetit, llojet e shpenzimeve, si dhe alokimet e përdorimin e fondit të rezervës.
+15. Miraton pasqyrat financiare të Autoritetit.
+16. Emëron drejtuesin e njësisë së auditimit të brendshëm dhe miraton ekspertin kontabël ose shoqërinë audituese të Autoritetit.
+17. Vendos për blerjen e shërbimit të këshillimit nga ekspertë të fushës.
+18. Miraton nënshkrimin e memorandumeve të mirëkuptimit, të marrëveshjeve të shkëmbimit të informacionit me autoritete të tjera brenda dhe jashtë vendit.
+19. Miraton raportin vjetor të veprimtarisë së Autoritetit për vitin e mëparshëm, i cili paraqitet në Kuvend në muajin prill të çdo viti, së bashku me pasqyrat financiare të audituara.
+20. Miraton raportin e mbikëqyrjes, ku paraqitet gjendja dhe perspektiva e tregjeve që mbikëqyren, i cili botohet në muajin korrik të çdo viti.
+21. Vendos për masat e mbikëqyrjes dhe sanksionet ndaj subjekteve të mbikëqyrura.
+22. Ushtron çdo kompetencë tjetër dhënë Autoritetit, sipas përcaktimeve të këtij ligji dhe të legjislacionit në fuqi.
+Vendimet e marra janë objekt ankimi në gjykatë.
+Vendimet e Bordit arsyetohen dhe publikohen në mënyrën e caktuar prej tij për publikimin e njoftimeve zyrtare.
+Vendimet e Bordit me karakter individual i njoftohen menjëherë subjekteve të interesuara.

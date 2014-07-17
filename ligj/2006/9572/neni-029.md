@@ -10,4 +10,4 @@ Autoriteti mban regjistra të hapura për publikun për:
 7. Shoqëritë e sigurimeve.
 8. Agjentët e sigurimeve.
 9. Shoqëritë që ushtrojnë veprimtari si institute private të pensioneve.
-Bordi, me propozimin e Kryetarit, miraton regjistra të tjerë dhe procedura për regjistrimin fillestar, mbajtjen dhe ruajtjet e regjistrave, si dhe procedurat që sigurojnë mirëfunksionimin e regjistrit, si një sistem informativ i plotë.
+Bordi, me propozimin e Drejtorit të Përgjithshëm Ekzekutiv, miraton regjistra të tjerë dhe procedura për regjistrimin fillestar, mbajtjen dhe ruajtjet e regjistrave, si dhe procedurat që sigurojnë mirëfunksionimin e regjistrit, si një sistem informativ i plotë.

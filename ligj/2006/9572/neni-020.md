@@ -1,7 +1,7 @@
 # Neni 20
 Organizimi dhe detyrimet
-Veprimtaria e Autoritetit mbështetet nga një administratë, që funksionon në përputhje me rregulloren e brendshme të përshkrimit të punës dhe me rregulloret e tjera për funksionimin e administratës, të cilat miratohen nga Bordi, sipas propozimit të Kryetarit.
-Marrëdhëniet e punës me nëpunësit dhe punonjësit e tjerë të kësaj administrate rregullohen sipas Kodit të Punës.
+Veprimtaria e Autoritetit mbështetet nga një administratë, që funksionon në përputhje me rregulloren e brendshme të përshkrimit të punës dhe me rregulloret e tjera për funksionimin e administratës, të cilat miratohen nga Bordi, sipas propozimit të Drejtorit të Përgjithshëm Ekzekutiv.
+Marrëdhëniet e punës për punonjësit e Autoritetit rregullohen sipas dispozitave të Kodit të Punës, të këtij ligji, si dhe të akteve të Autoritetit.
 Nuk mund të punësohen në strukturat e Autoritetit persona:
 a) të dënuar me vendim gjykate të formës së prerë;
 b) të cilët janë ortakë apo aksionerë të subjekteve të mbikëqyrura;

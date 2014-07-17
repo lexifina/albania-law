@@ -1,13 +1,14 @@
 # Neni 27
-Pagesat
-Autoriteti mbledh pagesa për:
-1. Dhënien e licencave për ushtrimin e veprimtarive, në përputhje me ligjin “Për letrat me vlerë”, ligjin “Për veprimtarinë e sigurimit, të risigurimit dhe ndërmjetësimit në sigurime dhe risigurime” dhe ligjin “Për pensionet suplementare dhe institutet private të pensioneve”.
-2. Miratimin e prospektit të ofertës publike.
-3. Miratimin e vendimit të mbledhjes së përgjithshme të aksionerëve, për vënien në likuidim të një shoqërie, që ushtron veprimtari si institut pensionesh.
-4. Miratimin e lejes shtesë për ushtrim të veprimtarive, që përfshijnë një tip të ri ose paketë të re sigurimi.
-5. Shoqëritë e sigurimit, si kontribute në masën deri në 1,5 për qind të primeve bruto, të arkëtuara nga veprimtaria e sigurimit dhe risigurimit të jojetës dhe kuotave të fituara nga veprimtaria e sigurimit dhe risigurimit të jetës. Prime bruto, të arkëtuara nga veprimtaria e sigurimit dhe risigurimit të jojetës dhe kuotat e fituara nga veprimtaria e sigurimit dhe risigurimit të jetës, certifikohen nga auditi i jashtëm, i pavarur, i shoqërisë së sigurimit. Rakordimi i kontributeve të kësaj pike, sipas shifrave të certifikuara nga auditi i jashtëm, i pavarur, kryhet brenda 30 ditëve nga nënshkrimi i certifikatës së auditimit.
-6. Shoqëritë e pensioneve suplementare si prim vjetor, i cili duhet të jetë në një përqindje të caktuar, jo më shumë se 1,5 për qind e kontributeve.
-7. Rishikimin e dokumentacionit për botimin e deklaratave apo të njoftimeve për çështjet e përmendura në pikat 1, 2, 3 dhe 4 të këtij paragrafi.
-Lista e pagesave miratohet me ligj nga Kuvendi.
-Pagesa, për efekte tatimore, raportohet si një llogari shpenzimesh të subjektit të mbikëqyrur.
-Kryetari i Bordit nxjerr urdhrin për mbledhjen e pagesave, që u ka kaluar afati i likuidimit. Ankimimi i vendimit të Bordit nuk e pezullon ekzekutimin e tij. Pagesat, nëse vlerësohen të tepërta, i kthehen subjektit të mbikëqyrur.
+Përcaktimi i tarifave për subjektet e mbikëqyrura
+Autoriteti mbledh nga subjektet e mbikëqyrura:
+1. Tarifa për aplikim, dhënie e rinovime licencash, miratimesh dhe autorizimesh, sipas përcaktimeve të këtij ligji, të legjislacionit në fuqi apo rregulloreve të Autoritetit.
+2. Tarifa për mbikëqyrjen e subjekteve të mbikëqyrura, të licencuara nga Autoriteti.
+3. Tarifa për projekte të veçanta, prej të cilave përfitojnë subjektet e mbikëqyrura. Të ardhurat nga këto tarifa përdoren vetëm për financimin dhe mirëmbajtjen e këtyre projekteve.
+Tarifa për mbikëqyrjen e subjekteve të mbikëqyrura caktohet në nivelin deri në 1,5 për qind të:
+a) volumit të primeve të shkruara bruto vjetore nga veprimtaria e sigurimit dhe risigurimit të jojetës;
+b) volumit të primeve të shkruara, pasi janë zbritur elementet e kursimit, vjetore, nga veprimtaria e sigurimit dhe risigurimit të jetës;
+c) vlerës së përgjithshme të aseteve të fondit të pensioneve vullnetare dhe sipërmarrjeve të investimeve kolektive;
+ç) volumit të përgjithshëm të transaksioneve vjetore të realizuara në bursë apo në një treg të rregulluar;
+d) treguesit të përzgjedhur si bazë në këtë ligj, në legjislacionin në fuqi apo në rregulloret e Autoritetit për subjektet e tjera të mbikëqyrura, që nuk përcaktohen në shkronjat “a” deri në “ç” të këtij paragrafi.
+Rakordimi përfundimtar i shumës së tarifës së mbikëqyrjes për t’u paguar kryhet brenda një muaji nga paraqitja në Autoritet e pasqyrave financiare të audituara të subjektit të mbikëqyrur ose nga paraqitja e pasqyrave financiare vjetore përfundimtare, për ato subjekte që nuk kanë detyrim auditimi ligjor.
+Tarifat e paguara nga subjekti i mbikëqyrur llogariten si shpenzim i zbritshëm për efekte tatimore, kur plotësojnë kushtet e përcaktuara në nenin 20, të ligjit nr. 8438, datë 28.12.1998, “Për tatimin mbi të ardhurat”, të ndryshuar. Kur fondi i rezervës është në nivelin e përcaktuar në shkronjën “c”, të nenit 26, të këtij ligji, çdo tepricë që mbetet nga të ardhurat vjetore të Autoritetit njihet dhe regjistrohet si paradhënie e subjekteve të mbikëqyrura për periudhën pasardhëse, duke e shpërndarë në mënyrë përpjesëtimore me kontributin e tyre.

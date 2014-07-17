@@ -1,6 +1,5 @@
 # Neni 9
-Kompetenca në miratimin e strukturës dhe të pagave të Autoritetit
-Paga mujore e Kryetarit të Bordit, e nënkryetarëve dhe shpërblimi për anëtarët e tjerë, që nuk kryejnë funksione ekzekutive në Autoritet, miratohet nga Kuvendi, me propozimin e Bordit të Autoritetit.
-Struktura e Autoritetit miratohet nga Kuvendi, me propozimin e Bordit të Autoritetit.
-Autoriteti, përveç njësive të tjera, është i përbërë nga 2 departamente kryesore. Emërtimi i këtyre departamenteve dhe i njësive të tjera të Autoritetit përcaktohet në përputhje me strukturën e Autoritetit.
-Bordi miraton rregulloren për organizimin e brendshëm administrativ, funksionet e veçanta dhe përgjegjësitë e departamenteve dhe të drejtorive, procedurat e komunikimit ndërmjet tyre, si dhe përgjegjësitë e nëpunësve dhe të punonjësve të tjerë.
+Struktura organizative, pagat dhe trajtimet e tjera të Autoritetit
+Bordi përcakton strukturën organizative të Autoritetit, numrin e punonjësve, pagën, shpërblimet dhe trajtimet financiare të anëtarëve joekzekutivë të Bordit, Drejtorit të Përgjithshëm Ekzekutiv, nëndrejtorit ekzekutiv, si dhe të punonjësve. Trajtimet financiare përfshijnë mbulimin e shpenzimeve të kryera në përmbushje të detyrës, pagesat për trajnimet profesionale, për sigurimin e jetës dhe të shëndetit dhe të tjera të ngjashme. Bordi, në përcaktimin e masës së pagës, shpërblimeve dhe trajtimeve financiare apo jofinanciare të administratës, bazohet në një metodologji të qartë, që merr parasysh kushtet e tregut, përvojat e autoriteteve të tjera që kryejnë aktivitetin e rregullatorit financiar në Shqipëri dhe nevojat e vetë institucionit.
+Autoriteti, mund të krijojë një plan të pensionit profesional për punëmarrësit e tij.
+Përcaktimet e bëra në dispozitat e ligjit nr. 9584, datë 17.7.2006, “Për pagat, shpërblimet dhe strukturat e institucioneve të pavarura kushtetuese dhe të institucioneve të tjera të pavarura të krijuara me ligj”, dhe çdo përcaktim tjetër ligjor, si edhe përcaktimet e akteve nënligjore në fuqi për zbatimin e këtyre dispozitave, që bien në kundërshtim me këtë nen, nuk zbatohen për Autoritetin.
