@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55680,
+  "title": "PËR DISA NDRYSHIME NË VENDIMET E KËSHILLIT TË MINISTRAVE PËR MIRATIMIN E KALIMIT TË SË DREJTËS SË PRONËSISË TË PARCELAVE NDËRTIMORE NGA SHTETI NË FAVOR  TË POSEDUESVE TË OBJEKTEVE INFORMALE",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "466",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2014-07-09",
+  "published": "2014-07-21",
+  "in_force": "2014-07-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/5e9229fa2d4cdc13a9611e2b2944871eadbe415e44916c234601919871b9e5f4.docx",
+  "source_sha256": "5e9229fa2d4cdc13a9611e2b2944871eadbe415e44916c234601919871b9e5f4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55680",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/07/09/466",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
