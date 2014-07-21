@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të ankueses, znj. Shero Vogli, në vlerë proporcionale me detyrimin që ka shteti shqiptar ndaj ankueses, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 15.10.2013, për ankimin nr. 18343/11, “Vogli kundër Shqipёrisё”.

@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 15.10.2013, për çështjen nr. 18343/11, “Vogli kundër Shqipёrisё”, në shumën 7 500 (shtatë mijë e pesëqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin.
