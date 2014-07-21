@@ -1,1 +1,0 @@
-6. Juristi, anëtar i KSHM-së, është sekretar teknik i këtij komisioni dhe ka për detyrë të administrojë dokumentacionin e punës së KSHM-së, të mbajë procesverbalet e mbledhjeve dhe të zbardhë vendimet e KSHM-së.

@@ -1,1 +1,0 @@
-4. KSHM-ja i zhvillon mbledhjet në prani të shumicës së anëtarëve. Kur nuk sigurohet kjo shumicë, mbledhja e KSHM-së shtyhet, por jo më vonë se një javë nga data e njoftimit të ri. Në mbledhjet e KSHM-së, mund të marrin pjesë, pa të drejtë vote, edhe specialistë të fushës.
