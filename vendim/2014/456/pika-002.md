@@ -1,0 +1,1 @@
+2. Rritjen, sipas përcaktimeve në pikën 1, të këtij vendimi, e përfitojnë edhe pensionet dhe trajtimet e veçanta, të cilat caktohen nga data 1.8.2014 e në vazhdim, me kusht që data e fillimit të pensionit apo trajtimit të jetë deri më 31.7.2014, përfshirë edhe këtë datë.
