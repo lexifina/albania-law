@@ -1,0 +1,11 @@
+1. Komisioni Shtetëror i Muzeve (KSHM) kryesohet nga ministri i Kulturës dhe ka në përbërje 10 anëtarë, përfaqësues të institucioneve të specializuara dhe personalitete të fushës së trashëgimisë kulturore, si më poshtë vijon:
+- Drejtorin e Përgjithshëm të Planifikimit Strategjik për Trashëgiminë dhe Diversitetin Kulturor;
+- Drejtorin e Drejtorisë së Trashëgimisë Materiale dhe të Muzeve;
+- Drejtorin e Muzeut Historik Kombëtar;
+- Drejtorin e Institutit të Monumenteve të Kulturës;
+- Drejtorin e Galerisë Kombëtare të Arteve;
+- Përfaqësuesin e Institutit të Historisë (QSA);
+- Përfaqësuesin e Institutit të Arkeologjisë (QSA);
+- Përfaqësuesin e Institutit të Antropologjisë Kulturore (QSA);
+- Përfaqësuesin e Akademisë së Shkencave;
+- Përfaqësuesin e Universitetit të Tiranës, Fakulteti i Histori - Filologjisë.
