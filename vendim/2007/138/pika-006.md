@@ -21,7 +21,11 @@ VI. Shitja e pjesëve të këmbimit të teknikës dhe i pajisjeve i nënshtrohet
 VII. Ministri i Mbrojtjes, nëpërmjet një komisioni të posaçëm, përcakton kategorizimin e kontingjentit të armëve, teknikës, pajisjeve, municioneve dhe lëndëve eksplozive, të hequra nga armatimi e përdorimi, sipas qëllimit të trajtimit, të përcaktuara në krerët I, II, III, IV, V, duke pasur parasysh kohën e prodhimit, gjendjen faktike të tyre, kërkesat e tregut dhe leverdinë ekonomike. Mënyra e funksionimit të komisionit përcaktohet me rregullore, të miratuar nga Ministri i Mbrojtjes.
 VIII. Ministria e Mbrojtjes mund të lidhë marrëveshje teknike ndërkombëtare me subjekte shtetërore apo donatorë të ndryshëm, të cilët investojnë për shkatërrimin dhe asgjësimin e armëve e të municioneve stoqe, të trashëguara nga e kaluara e të hequra nga përdorimi e armatimi.
 IX. Ministria e Mbrojtjes mund të asgjësojë e të shkatërrojë edhe nëpërmjet strukturave të veta armë, teknikë, pajisje, municione, lëndë eksplozive, të nxjerra nga armatimi dhe përdorimi, me fondet buxhetore, të vëna në dispozicion, si dhe me fonde të donatorëve.
-X. Të ardhurat që do të krijohen, të trajtohen në përputhje me vendimin nr.432, datë 26.6.2006 të Këshillit të Ministrave ”Për krijimin dhe administrimin e të ardhurave, që krijojnë institucionet buxhetore”.
+X. Nga të ardhurat që do të sigurohen nga shitja e armëve, teknikës, pajisjeve, municioneve dhe lëndëve eksplozive të Forcave të Armatosura për përdorim ushtarak, për përdorim joushtarak, për çmontim e çmilitarizim, nga shitja e pjesëve të këmbimit të teknikës dhe pajisjeve, shitja e materialeve që përfitohen nga asgjësimi e shkatërrimi i armëve, teknikës, pajisjeve, municioneve dhe lëndëve eksplozive, 10 (dhjetë) për qind do të derdhet në buxhetin e shtetit dhe 90 (nëntëdhjetë) për qind do të përdoret nga Ministria e Mbrojtjes, si të ardhura jashtë limitit, për:
+a) përballimin e kostove të parashikuara për këto veprimtari;
+b) përballimin e kostove të pastrimit të poligoneve dhe hotspoteve;
+c) investime për modernizimin e Forcave të Armatosura të Republikës së Shqipërisë;
+ç) ndërtime e rikonstruksione të objekteve të Forcave të Armatosura.
 XI. Masa e përfitimit të ndërmarrjes MEICO, për kryerjen e procedurave të shitjes, në interes të Ministrisë së Mbrojtjes, përcaktohet me udhëzim të përbashkët të Ministrit të Mbrojtjes dhe të Ministrit të Financave.
 XII. Ngarkohet Ministria e Mbrojtjes për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
