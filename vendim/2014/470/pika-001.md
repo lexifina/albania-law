@@ -1,0 +1,1 @@
+1. Financimin e Federatës Shqiptare të Peshëngritjes, në masën 14 000 000 (katërmbëdhjetë milionë) lekë, për të bërë të mundur përgatitjen dhe pjesëmarrjen në Kampionatin Botëror të Peshëngritjes, që do të zhvillohet në periudhën 4 - 16 nëntor 2014, në Kazakistan.

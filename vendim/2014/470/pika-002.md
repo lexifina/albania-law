@@ -1,0 +1,1 @@
+2. Fondet e destinuara për financimin e aktivitetit të akordohen në buxhetin e Ministrisë së Arsimit dhe Sportit, si transfertë e pakushtëzuar, në llogarinë ekonomike 604, programi buxhetor 08140 “Programi për sportin”.
