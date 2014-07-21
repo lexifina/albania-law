@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë në emër të ankuesit, z. Izet Haxhia, në vlerë proporcionale me detyrimin që ka shteti shqiptar ndaj ankuesit, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 5.11.2013, për çështjen nr. 34783/06, “Izet Haxhia kundër Shqipёrisё”.

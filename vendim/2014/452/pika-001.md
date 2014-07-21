@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 5.11.2013, për çështjen nr. 34783/06, “Izet Haxhia kundër Shqipёrisё”, në shumën 1 400 (një mijë e katërqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin.
