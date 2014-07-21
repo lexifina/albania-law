@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni i rrugës “Ajasëm”, në bashkinë e Shkodrës, sipas tabelës që i bashkëlidhet këtij vendimi.
