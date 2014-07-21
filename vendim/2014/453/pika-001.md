@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 25.6.2013, për çështjet nr. 33192/07 dhe nr. 33194/07, “Kaçiu dhe Kotorri kundër Shqipёrisё”, në shumën 15 600 (pesëmbëdhjetë mijë e gjashtëqind) euro, si dhe pagesën e tatimit mbi të ardhurat për dëmshpërblimin.
