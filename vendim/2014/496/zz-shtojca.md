@@ -1,0 +1,48 @@
+# Shtojca
+RREGULLAT DHE PROCEDURAT
+E RINOVIMIT TË AUTORIZIMIT INDIVIDUAL PËR PËRDORIMIN E FREKUENCAVE TË DHËNA ME KONKURRIM
+KREU I
+KUSHTET LIGJORE PËR RINOVIMIN E AUTORIZIMIT INDIVIDUAL
+1. Autorizimi individual për përdorimin e frekuencave të dhëna nga Autoriteti i Komunikimeve Elektronike dhe Postare (AKEP) me konkurrim (ose tender) publik mund të rinovohet vetëm nëse në përfundim të afatit të vlefshmërisë së tij, nga mbajtësi i autorizimit individual për këto frekuenca (sipërmarrësi), janë përmbushur të gjitha kushtet e përdorimit të këtyre frekuencave të përcaktuara në autorizimin individual dhe ato të autorizimit të përgjithshëm në zbatim të përcaktimeve ligjore për këtë qëllim.
+2. Për rinovimin e autorizimit individual para përfundimit të afatit të vlefshmërisë, sipërmarrësi duhet të paraqesi në AKEP, brenda afatit të përcaktuar në pikën 2 të nenit 73 të ligjit nr. 9918, datë 19.5.2008, “Për Komunikimet Elektronike në Republikën e Shqipërisë”, i ndryshuar, aplikimin për zgjatjen e afatit të vlefshmërisë së autorizimit individual për përdorimin e frekuencave.
+3. Aplikimi për rinovim i paraqitur nga sipërmarrësi shoqërohet me një informacion të sipërmarrësit mbi përmbushjen e kushteve të autorizimit individual sipas përcaktimeve të kësaj rregulloreje.
+4. Nëse sipërmarrësi nuk paraqet në AKEP aplikimin për zgjatjen e afatit të vlefshmërisë së autorizimit individual për përdorimin e frekuencave brenda afatit të parashikuar në nenin 73 të ligjit nr. 9918, datë 19.5.2008, “Për komunikimet elektronike në Republikën e Shqipërisë”, i ndryshuar, AKEP-i i kërkon sipërmarrësit për t’u shprehur mbi gatishmërinë për rinovimin e autorizimit jo më vonë se 10 ditë nga skadimi i afatit sipas nenit 73.
+KREU II
+APLIKIMI I SIPËRMARRËSIT DHE RAPORTI I VLERËSIMIT TË AKEP
+1. Me marrjen e aplikimit për zgjatjen e afatit të vlefshmërisë/rinovimin e autorizimit individual për përdorimin e frekuencave nga sipërmarrësi, AKEP-i menjëherë fillon procedurën për vlerësimin e përmbushjes të të gjitha kushteve të përdorimit të këtyre frekuencave sipas autorizimit individual dhe atij të përgjithshëm, për:
+a) Mbulimin e territorit dhe popullsisë me shërbim si dhe fortësinë e sinjalit (fuqinë e transmetimit);
+b) Zbatimin e kushteve teknike të funksionimit, të nevojshme për shmangien e interferencave të dëmshme dhe kufizimin e ekspozimit të publikut ndaj fushave elektromagnetike;
+c) Përdorimin dhe shfrytëzimin efektiv të frekuencave në përputhje me rregullat dhe standardet e përcaktuara, si dhe afatin e vlefshmërisë së përdorimit;
+d) Cilësinë e shërbimit/ve dhe tarifat për shërbimet e ofruara nëpërmjet rrjetit që operon, sipas rregulloreve përkatëse të nxjerra nga AKEP-i;
+e) Kryerjen e pagesave;
+f) Transferimin e të drejtave të pronësisë për përdorimin e frekuencave dhe kushtet për këtë transferim;
+g) Detyrime për aktet dhe marrëveshjet ndërkombëtare, ku Republika e Shqipërisë është palë;
+h) Detyrime të tjera, të marra përsipër nga sipërmarrësi gjatë pjesëmarrjes në tenderin/konkurrimin publik.
+2. AKEP-i analizon, gjithashtu, investimet e kryera nga sipërmarrësi për shtrirjen dhe konfigurimin e rrjetit të ndërtuar për të operuar në frekuencën/brezin e frekuencave, gjendjen ekonomike dhe financiare, impaktin social dhe ekonomik të veprimtarisë së tij, që vërtetojnë se sipërmarrësi mbajtës i autorizimit ka kapacitetet për të vijuar përmbushjen e detyrimeve të autorizimit individual.
+3. Gjithashtu, AKEP-i verifikon që rinovimi i autorizimit individual përjashton rrethanat e parashikuara në pikën 7 të nenit 67 të ligjit nr. 9918/2008.
+4. Për kryerjen e vlerësimit të përmbushjes të të gjitha kushteve të përdorimit të frekuencave sipas autorizimit individual dhe atij të përgjithshëm, si dhe sa përcaktohet në pikat 2 dhe 3 më sipër, AKEP-i menjëherë me marrjen e aplikimit dhe informacionit nga sipërmarrësi për zgjatjen e afatit të vlefshmërisë së autorizimit individual për përdorimin e frekuencave, mund t’i kërkojë me shkrim sipërmarrësit paraqitjen e informacionit plotësues, më të detajuar lidhur me përmbushjen e kushteve të përdorimit të këtyre frekuencave sipas përcaktimeve të parashikuara në pikën 1 më sipër, si dhe të dhëna të nevojshme në referencë me përcaktimet në pikat vijuese 2 (dy) dhe 3 (tre).
+5. Sipërmarrësi aplikues, me marrjen e kërkesës së AKEP-it për informacion, sipas pikës 4 të këtij kreu, i kthen përgjigje AKEP-it brenda 10 (dhjetë) ditëve pune nga data e marrjes së kërkesës, duke i vënë në dispozicion informacionin dhe të dhënat e kërkuara.
+6. Me marrjen e informacionit dhe të dhënave nga sipërmarrësi, brenda 10 (dhjetë) ditëve pune nga data e depozitimit të tij, AKEP-i, kryen vlerësimin e përmbushjes të të gjitha kushteve të përdorimit të këtyre frekuencave sipas autorizimit individual dhe atij të përgjithshëm, si dhe të dhënave të përcaktuara në pikat e mësipërme 1, 2 dhe 3, si dhe miraton raportin përmbledhës të vlerësimit të paraqitur nga grupi i punës të ngritur për këtë qëllim.
+7. Menjëherë pas miratimit të raportit përmbledhës të vlerësimit, AKEP-i ia paraqet atë ministrit, duke i propozuar vijimin e procedurës sipas këtyre rregullave, nëse rezulton se sipërmarrësi aplikues i ka përmbushur të gjitha kushtet e përdorimit të këtyre frekuencave sipas Autorizimit Individual dhe atij të Përgjithshëm, si dhe nëse nuk ndodhet në kushtet e refuzimit të autorizimit individual.
+8. Raporti përmbledhës i vlerësimit shoqërohet me një propozim mbi çmimin referencë minimal për rinovimin e autorizimit individual. Ky propozim bazohet në parimin e objektivitetit, transparencës, jo diskriminimit dhe proporcionalitetit.
+9. Propozimi i AKEP mbi çmimin referencë minimal merr në konsideratë praktikat e zbatuara në rajon dhe në vendet e Bashkimit Europian për procedurat e ngjashme.
+10. AKEP-i në kriteret dhe metodologjitë e përcaktimit të çmimit referencë duhet të marrë në konsideratë zhvillimin e konkurrencës, interesin publik dhe mbrojtjen e konsumatorit, rrethanat e tregut dhe përdorimin efektiv të frekuencave, si dhe mendimin paraprak të palëve të interesuara.
+11. Propozimi për çmimin referencë minimal shoqërohet me argumentimin e AKEP-it për caktimin e tij.
+KREU III
+PROCEDURA E NEGOCIMIT
+1. Ministri, me marrjen e raportit të vlerësimit dhe propozimin mbi çmimin referencë minimal nga AKEP-i, në rrethanat që sipërmarrësi plotëson kushtet e parashikuara në kuadrin ligjor dhe atë rregullator për këtë qëllim, brenda 10 (dhjetë) ditëve pune nga data e depozitimit të tij, urdhëron ngritjen e Komisionit ad-hock për Negocimin e Rinovimit të autorizimit individual (Komisioni i Negocimit).
+2. Komisioni i negocimit drejtohet nga ministri përgjegjës për komunikimet elektronike dhe përbëhet nga jo më pak se 5 (pesë) anëtarë, përfaqësues të ministrit përgjegjës për komunikimet elektronike, Ministrisë së Financave, Ministrisë së Drejtësisë, Ministrisë së Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes dhe Autoritetit të Komunikimeve Elektronike dhe Postare.
+3. Nuk mund të marrin pjesë në Komisionin për Negocimin e Rinovimit të autorizimit individual, personat që përbëjnë konflikt interesi me sipërmarrësin aplikues, sipas kuptimit të ligjit “Për konfliktin e interesit”.
+4. Çdo anëtar i Komisionit nënshkruan një deklaratë, përmes së cilës deklaron se nuk ndodhet në kushtet e konfliktit të interesit.
+5. Në urdhrin e ministrit për ngritjen e Komisionit të Negocimit përcaktohen tagrat e Komisionit, duke përfshirë përcaktimin e afatit të fillimit dhe përfundimit të periudhës së negocimit.
+6. Komisioni fillon negocimin mbi bazën e çmimit minimal referencë të propozuar nga AKEP-i. Komisioni gjatë negocimit mban parasysh përmbushjen e objektivave të politikës së sektorit dhe programin e zhvillimit ekonomik të vendit.
+7. Gjatë negocimit Komisioni i Negocimit mban parasysh që frekuencat janë një pasuri kombëtare me vlerë ekonomike dhe rëndësi sociale e kulturore.
+8. Palët në negocim përveç çmimit mund të negociojnë edhe për mënyrën e pagesës.
+9. Komisioni i Negocimit mban procesverbal për të gjitha takimet e negocimit. Me përfundimin e negocimit palët nënshkruajnë aktin e dakordësisë në tre ekzemplarë origjinalë.
+10. Ministri, mbi bazën e aktit të dakordësisë, brenda 3 (tri) ditëve nga data e depozitimit të tij nga Komisioni, njofton AKEP-in dhe sipërmarrësin aplikues për kryerjen e procedurave standarde sipas rregullores për autorizimin e përgjithshëm dhe atë individual të AKEP-it, për regjistrimin e njoftimit dhe pajisjen e sipërmarrësit me autorizimin individual për përdorimin e frekuencave të aplikuara sipas legjislacionit në fuqi.
+11. Pagesa e rinovimit të autorizimit individual derdhet në buxhetin e shtetit.
+KREU IV
+TË TJERA
+1. Në mungesë të shprehjes së interesit nga mbajtësi i autorizimit individual, ose në rast të dështimit të negocimit për pagesën e rinovimit, AKEP-i ndjek procedurat e parashikuara sipas nenit 68 dhe 69 të ligjit nr. 9918, datë 19.5.2008, “Për komunikimet elektronike në Republikën e Shqipërise”, për dhënien në përdorim të frekuencave.
+2. AKEP-i në rastet kur procedura e rinovimit ka filluar brenda afateve ligjore, por nuk ka përfunduar para përfundimit të vlefshmërisë së autorizimit individual, si dhe në rastin e mungesës së aplikimit për rinovim brenda afatit ligjor, AKEP-i mund të marrë vendim të ndërmjetëm, bazuar në nenin 78 të Kodit të Procedurës Administrative për shtyrjen e afatit të vlefshmërisë së autorizimit individual. Afati i shtyrjes në çdo rast nuk kapërcen afatin ligjor për vendimin e ndërmjetëm.
+3. I gjithë procesi për fillimin e procedurës së rinovimit të autorizimit individual, rezultatet e vlerësimit së përmbushjes se detyrimeve dhe aktet e ministrit janë të hapura për publikun.
