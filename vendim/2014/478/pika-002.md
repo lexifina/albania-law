@@ -1,0 +1,1 @@
+2. Pronari i pasurisë së paluajtshme që shpronësohet, të kompensohet sipas masës së dhënë në tabelën që i bashkëlidhet këtij vendimi, për sipërfaqen 850 (tetëqind e pesëdhjetë) m² tokë bujqësore, me vlerë 172 550 (njëqind e shtatëdhjetë e dy mijë e pesëqind e pesëdhjetë) lekë, si dhe për një sasi pemësh drufrutore me vlerë 135 000 (njëqind e tridhjetë e pesë mijë) lekë.
