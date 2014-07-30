@@ -1,0 +1,1 @@
+5. Komisioni teknik ka në përbërje pesë anëtarë të caktuar nga ministri për shqyrtimin e kërkesave për dhënie lejeje zhvillimore komplekse me marrjen e aplikimit. Në komision ftohen të marrin pjesë dy përfaqësues të AKEP-it.

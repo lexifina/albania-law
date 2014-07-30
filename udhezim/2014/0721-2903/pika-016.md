@@ -1,0 +1,1 @@
+16. Në rast refuzimi të kërkesës, MIAP-i njofton subjektin aplikues brenda pesë ditësh nga data e marrjes së vendimit, duke dhënë edhe argumentet përkatëse për shkaqet e refuzimit. Subjekti aplikues ka të drejtën të aplikojë përsëri pasi të ketë plotësuar mangësitë e evidentuara.

@@ -1,0 +1,1 @@
+6. Komisioni mblidhet me kërkesë të kryetarit sa herë që kërkohet shqyrtimi i praktikave për dhënie lejeje në zbatim të dispozitave të ligjit nr. 10119, datë 23.4.2009, “Për planifikimin e territorit”, të ndryshuar.

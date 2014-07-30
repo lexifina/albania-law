@@ -1,0 +1,1 @@
+8. Për çdo aplikim të paraqitur në MIAP për leje zhvillimore komplekse, Komisioni, brenda 5 (pesë) ditëve pune, shqyrton dokumentacionin e paraqitur nga subjekti aplikues vetëm për çështje të përmbushjes së formës së kërkesave (për të parë nëse ka mangësi në dokumentacion) dhe njofton aplikuesin për përmbushjen e formës.

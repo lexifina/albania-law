@@ -1,0 +1,1 @@
+14. Komisioni merr vendim me shumicë votash. Gjatë procesit të shqyrtimit, komisioni harton procesverbalin përkatës, i cili duhet të nënshkruhet nga të gjithë anëtarët pjesëmarrës në mbledhje. Çdo mendim i ndryshëm i anëtarëve të komisionit reflektohet në procesverbal duke dhënë dhe arsyet e qëndrimit të ndryshëm.

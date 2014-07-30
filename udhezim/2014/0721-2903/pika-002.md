@@ -1,0 +1,1 @@
+2. Aplikimi për leje zhvillimore komplekse për struktura apo punime brenda fushës së veprimtarisë shtetërore që mbulon ministri i Shtetit për Inovacionin dhe Administratën Publike (MIAP) paraqitet nga subjektet e interesuara pranë ministrit të Shtetit për Inovacionin dhe Administratën Publike (MIAP), nëpërmjet shërbimit postar.

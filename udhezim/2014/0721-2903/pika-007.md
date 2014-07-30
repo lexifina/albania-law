@@ -1,0 +1,1 @@
+7. Në njoftimin e dhënë nga kryetari i komisionit përcaktohen rendi i ditës i mbledhjes së komisionit, si dhe vendi, data e ora e zhvillimit të mbledhjes. Mbledhja e komisionit zhvillohet vetëm në rast se janë prezentë jo më pak se 2/3 e anëtarëve të tij.

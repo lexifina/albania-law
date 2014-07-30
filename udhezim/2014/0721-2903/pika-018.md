@@ -1,0 +1,1 @@
+18. Pas dërgimit të vendimit të KKT-së për miratimin e lejes zhvillimore komplekse në MIAP përgatitet dokumenti administrativ teknik për zbardhjen e lejes, sipas formularit përkatës të vendimit nr. 502, datë 13.7.2011, të Këshillit të Ministrave, “Për miratimin e rregullores uniforme të kontrollit të zhvillimit të territorit”, të ndryshuar.

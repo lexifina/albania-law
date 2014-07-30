@@ -1,0 +1,1 @@
+4. Për shqyrtimin e kërkesave dhe të aplikimeve që paraqiten pranë MIAP-it, ngrihet komisioni teknik për shqyrtimin e kërkesave për dhënie lejeje zhvillimore komplekse brenda fushës së veprimtarisë shtetërore që mbulon MIAP-i.

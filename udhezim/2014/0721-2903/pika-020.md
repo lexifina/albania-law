@@ -1,0 +1,2 @@
+20. Nëpërmjet zyrës së protokollit të MIAP-it i dorëzohet përfaqësuesit ligjor të subjektit aplikues apo të autorizuarit të tij një kopje origjinale e nënshkruar e lejes zhvillimore komplekse, që i referohet vendimit të KKT-së për miratimin e lejes zhvillimore komplekse, jo më vonë se 10 (dhjetë) ditë nga data e paraqitjes së vendimit nga KKT-ja në MIAP.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

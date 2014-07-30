@@ -1,0 +1,1 @@
+12. Në përfundim të shqyrtimit, komisioni përgatit opinionin tekniko-ligjor për aplikimin për leje dhe ia paraqet ministrit për të vijuar ose jo praktikën me AKPT-në dhe paraqitjen në mbledhjen e radhës së KKT-së.
