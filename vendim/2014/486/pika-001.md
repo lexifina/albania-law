@@ -1,0 +1,1 @@
+1. Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, në buxhetin e miratuar për vitin 2014, në programin “Siguria ushqimore dhe mbrojtja e konsumatorit”, t’i shtohet fondi 8 000 000 (tetë milionë) lekë, për luftimin e karkalecit.
