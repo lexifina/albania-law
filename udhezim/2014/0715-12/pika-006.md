@@ -1,0 +1,1 @@
+6. Mielli i grurit nuk duhet të ketë mbetje pesticidesh më shumë se vlera maksimale e lejuar për këtë produkt e vendosur në udhëzimin nr. 5, datë 14.5.2014, “Për nivelin maksimal të mbetjeve të pesticideve në banane, domate, grurë, kastravecë, mollë, patate, rrush tavoline, rrush për verë, speca, ullinj tavoline”.
