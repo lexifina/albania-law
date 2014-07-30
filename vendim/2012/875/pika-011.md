@@ -1,1 +1,0 @@
-11. Vendimi nr. 554, datë 7.7.2010 i Këshillit të Ministrave “Për fondin e ekselencës për mbështetje financiare të studentëve e shkencëtarëve të rinj të shkëlqyer”, i ndryshuar, do të vazhdojë të zbatohet për studentët që janë shpallur fitues përpara vitit 2012 deri në përfundimin e studimeve përkatëse.

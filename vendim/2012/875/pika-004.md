@@ -1,1 +1,0 @@
-4. Kriteret për përzgjedhjen e shkollave të larta jashtë shtetit, në raport me koston e kualifikimit, fushat parësore, numrin e bursave për secilën kategori, në varësi edhe të fondit të vënë në dispozicion për këtë qëllim, konsultohen me Këshillin e Arsimit të Lartë dhe Shkencës.

@@ -1,1 +1,0 @@
-8. Studentët dhe shkencëtarët e rinj, që kanë përfituar bursë, sipas këtij vendimi, dhe nuk kanë realizuar detyrimet e programit përkatës, i ndërpresin ato ose kur, pas përfundimit të studimeve, refuzojnë të punojnë në Shqipëri, sipas kushteve të përcaktuara në kontratën e lidhur, detyrohen t’i kthejnë Ministrisë së Arsimit dhe Shkencës shumën e marrë në formë burse.
