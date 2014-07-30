@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të truallit, të ndërtesës së korpusit qendror dhe sipërfaqes funksionale të tij, “Ish-Kinostudio”, nga “Alba Film” sh.a., te Ministria e Kulturës, sipas planimetrive dhe genplaneve që i bashkëlidhen këtij vendimi.
