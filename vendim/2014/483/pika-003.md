@@ -1,0 +1,1 @@
+3. Të gjithë përfituesit, të cilët, në përfundim të vitit akademik, nuk kanë plotësuar kriteret e parashikuara në udhëzimin e ministrit të Arsimit dhe Sportit, detyrohen të kthejnë financimin e përfituar shtetit shqiptar, brenda 6 (gjashtë) muajsh nga përfundimi i vitit akademik.

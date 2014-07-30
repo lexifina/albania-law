@@ -1,0 +1,1 @@
+4. Rregullat e hollësishme për afatet e aplikimit, zbatimin e kritereve, procedurave dhe përcaktimin e masës e të mënyrës së financimit për secilën nga bursat e parashikuara në pikën 2 të këtij vendimi, përcaktohen me udhëzim të ministrit të Arsimit dhe Sportit.
