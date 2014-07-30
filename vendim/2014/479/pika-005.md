@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 129 864 774 (njëqind e njëzet e nëntë milionë e tetëqind e gjashtëdhjetë e katër mijë e shtatëqind e shtatëdhjetë e katër) lekësh, të përballohet nga buxheti i vitit 2014, miratuar për Ministrinë e Transportit dhe Infrastrukturës.
