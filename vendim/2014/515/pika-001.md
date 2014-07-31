@@ -1,0 +1,4 @@
+1. Ministrisë së Kulturës, në kuadër të organizimit të punëve në vijim të ardhjes në Shqipëri të Papa Françeskut, në buxhetin e miratuar për vitin 2014, t’i shtohen fondet, si më poshtë vijon:
+a) Fondi 56 376 734 (pesëdhjetë e gjashtë milionë e treqind e shtatëdhjetë e gjashtë mijë e shtatëqind e tridhjetë e katër) lekësh, me qëllim mbulimin e shpenzimeve që do të kryhen për pastrimin e fasadave të godinave rreth sheshit “Nënë Tereza”, prishjen dhe transportin e mbetjeve të ndërtimit;
+b) Fondi prej 44 729 936 (dyzet e katër milionë e shtatëqind e njëzet e nëntë mijë e nëntëqind e tridhjetë e gjashtë) lekësh, me qëllim mbulimin e shpenzimeve që do të kryhen për rikonstruksionin e Muzeut Historik;
+c) Fondi prej 32 626 127 (tridhjetë e dy milionë e gjashtëqind e njëzet e gjashtë mijë e njëqind e njëzet e shtatë) lekësh, me qëllim mbulimin e shpenzimeve për punime rehabilituese që do të kryhen në Pallatin e Kongreseve.

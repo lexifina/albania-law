@@ -1,0 +1,1 @@
+2. Qendrës Kombëtare të Kinematografisë, në buxhetin e miratuar për vitin 2014, t’i shtohet fondi prej 7 383 000 (shtatë milionë e treqind e tetëdhjetë e tre mijë) lekësh, me qëllim mbulimin e shpenzimeve të produksionit të dokumentarit “Pritja” në kuadër të organizimit të punëve në vijim të ardhjes në Shqipëri të Papa Françeskut.
