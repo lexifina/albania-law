@@ -1,0 +1,1 @@
+11. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Kavajë të pezullojë të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin që do të realizohet procesi i hedhjes së trupit të rrugës në hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.

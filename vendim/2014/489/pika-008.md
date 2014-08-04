@@ -1,0 +1,1 @@
+8. Pronarët e listës që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konflikt pronësie”, të kompensohen, për efekt shpronësimi, pasi të dorëzojnë dokumentacionin e plotë të pronësisë pranë Autoritetit Rrugor Shqiptar.
