@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit, prej 173 753 243 (njëqind e shtatëdhjetë e tre milionë e shtatëqind e pesëdhjetë e tre mijë e dyqind e dyzet e tre) lekësh, të përballohet nga buxheti i vitit 2014, zëri “Detyrimet e prapambetura” (detyrimet e infrastrukturës).
