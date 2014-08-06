@@ -1,0 +1,1 @@
+11. Pas përfundimit të provimit, AP-ja i dorëzon me procesverbal PAP testet e plotësuara nga çdo nxënës. PAP, testet e grumbulluara, testet e papërdorura dhe të gjitha materialet e tjera të provimit, i mbyll në kuti në prani të përfaqësuesit të DAR/ZA-së, e cila vuloset nga drejtori i shkollës ku zhvillohet provimi dhe i dorëzohet KSHMSH-së.
