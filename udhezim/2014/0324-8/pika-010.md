@@ -1,0 +1,1 @@
+10. Një kopje e procesverbalit përmbledhës afishohet në shkollë; një kopje me shkresë përcjellëse nga drejtori i shkollës i dërgohet DAR/ZA-së, një kopje mbahet në arkivin e shkollës dhe ruhet për dy vjet.

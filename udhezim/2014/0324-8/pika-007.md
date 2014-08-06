@@ -1,0 +1,1 @@
+7. Në shkollat ku ka dy a më shumë mësues për një lëndë dhe dy a më shumë në klasa paralele, mësuesit t’i unifikojnë propozimet duke u mbledhur në bazë klasash, komisionesh lëndore ose grup-lëndësh. Propozimet duhet të jenë konsensuale. Në rast mosdakordësie, të bëhet votim i thjeshtë dhe i hapur.
