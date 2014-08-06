@@ -1,1 +1,0 @@
-5. Shtëpia botuese është e detyruar që, në kopertinën e çdo kopjeje të tekstit, të shënojë çmimin, të vendosë barkodin dhe pullën me hologramën e certifikimit nga MAS-i, përpara nxjerrjes së tij në shitje.
