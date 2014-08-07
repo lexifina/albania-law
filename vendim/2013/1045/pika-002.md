@@ -2,5 +2,5 @@
 - Znj. Majlinda Dhuka;
 - Znj. Gelardina Prodani;
 - Znj. Elira Kokona;
-- Znj. Itena Ndroqi.
+- Z. Endri Fuga.
 Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
