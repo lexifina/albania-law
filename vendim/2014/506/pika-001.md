@@ -1,0 +1,3 @@
+1. Në buxhetin e vitin 2014, miratuar për Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, të bëhet rishpërndarja e fondeve ndërmjet programeve, si më poshtë vijon:
+a) Në programin buxhetor 04220 “Siguria ushqimore dhe mbrojtja e konsumatorit”, në artikullin 602, të shtohet fondi prej 18 830 420 (tetëmbëdhjetë milionë e tetëqind e tridhjetë mijë e katërqind e njëzet) lekësh, për luftimin e karkalecit;
+b) Në programin buxhetor 04250 “Zhvillimi rural, duke mbështetur bujqësinë, blegtorinë, agroindustrinë dhe marketingun”, artikulli 606, “Transferta në buxhetet familjare dhe individët”, të pakësohet fondi prej 18 830 420 (tetëmbëdhjetë milionë e tetëqind e tridhjetë mijë e katërqind e njëzet) lekësh.
