@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave dhe procedurave për shqyrtimin e kërkesave për leje zhvillimore, të paraqitura pranë Ministrisë së Mjedisit, referuar fushës së përgjegjësisë shtetërore të saj, si dhe ngritjen e komisionit të përhershëm për shqyrtimin e këtyre kërkesave.

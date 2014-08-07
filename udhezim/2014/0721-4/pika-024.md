@@ -1,0 +1,4 @@
+24. Leja e përdorimit, në përfundim të punimeve, jepet nga ministri i Mjedisit pas vlerësimit nga komisioni teknik të dokumentacionit të depozituar si vijon:
+- procesverbalit dhe aktit të kolaudimit;
+- relacionit të mbikëqyrësit të punimeve;
+- aktet e kontrollit të përpiluara nga specialistët e komisionit teknik, aktet e kolaudimit dhe/ose procesverbalet nga institucionet e rrjeteve të infrastrukturës.

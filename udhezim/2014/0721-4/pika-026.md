@@ -1,0 +1,1 @@
+26. Sekretariati i komisionit teknik, nëpërmjet zyrës së protokollit në Ministrisë e Mjedisit, i dorëzon përfaqësuesit ligjor të subjektit aplikues apo të autorizuarit të tij një kopje origjinale të dokumentit të lejes së përdorimit, të firmosur nga ministri.

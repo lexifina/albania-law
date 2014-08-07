@@ -1,0 +1,1 @@
+2. Shqyrtimi i kërkesave të subjekteve të interesuara për t’u pajisur me leje zhvillimore për struktura apo punime brenda fushës shtetërore të përgjegjësisë së Ministrisë së Mjedisit, bëhet nga komisioni teknik, referuar kërkesës së subjektit.

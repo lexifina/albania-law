@@ -1,0 +1,1 @@
+9. Mbledhja e komisionit zhvillohet vetëm nëse janë të pranishëm jo më pak se 6 anëtarë të komisionit. Përjashtimisht, në pamundësi të pranisë së shumicës së anëtarëve, si më sipër, dhe vetëm për shqyrtimin e kërkesave për çështje të formës, mbledhja mund të kryhet me praninë e jo më pak se 4 anëtarëve të komisionit, së bashku me kryetarin.

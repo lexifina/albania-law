@@ -1,0 +1,1 @@
+6. Komisioni teknik asistohet nga sekretariati teknik, që përbëhet nga përfaqësues të Drejtorisë së Përgjithshme të Politikave dhe Jetësimit të Prioriteteve, referuar urdhrit të ministrit të Mjedisit për ngritjen e tij.

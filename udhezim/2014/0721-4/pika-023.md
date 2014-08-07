@@ -1,0 +1,1 @@
+23. Sekretariati i komisionit teknik, nëpërmjet zyrës së protokollit të Ministrisë së Mjedisit, i dorëzon përfaqësuesit ligjor të subjektit aplikues apo të autorizuarit të tij, një kopje origjinale të firmosur të dokumentit administrativ teknik që i referohet vendimit të KKT-së për miratimin e lejes zhvillimore, jo më vonë se 10 ditë nga data e marrjes së vendimit nga KKT-ja.
