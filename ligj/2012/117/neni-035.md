@@ -1,7 +1,0 @@
-# Neni 35
-Pranimi i punonjësit të Agjencisë së Inteligjencës së Mbrojtjes
-1. Përzgjedhja e punonjësit civil të Agjencisë së Inteligjencës së Mbrojtjes në këtë agjenci bëhet me konkurrim të hapur.
-2. Shpallja e vendit të lirë të punës bëhet nga Drejtoria e Përgjithshme e Agjencisë së Inteligjencës së Mbrojtjes në dy gazeta me qarkullim të madh kombëtar, të paktën 30 ditë para datës së caktuar për konkurrim. Shpallja përmban kërkesat e përgjithshme, që duhet të plotësojë kandidati, dhe përcakton fushën në të cilën do të zhvillohet konkurrimi.
-3. Punonjësi civil i Agjencisë së Inteligjencës së Mbrojtjes përzgjidhet nga Komisioni i Testimit në Agjencinë e Inteligjencës së Mbrojtjes, pas shqyrtimit dhe verifikimit paraprak të dokumentacionit, testimit me shkrim dhe intervistës me gojë.
-4. Punonjësi ushtarak i Agjencisë së Inteligjencës së Mbrojtjes përzgjidhet nga komisioni i testimit në bazë të përmbushjes së kritereve të përgjithshme dhe të veçanta. Drejtori i Përgjithshëm i Agjencisë së Inteligjencës së Mbrojtjes propozon për emërim nga kontingjenti i përzgjedhur, kandidatin që plotëson më së miri kushtet.
-5. Pranimi në Agjencinë e Inteligjencës së Mbrojtjes mund të kryhet pa konkurrim, në raste të veçanta, me propozimin e Drejtorit të Përgjithshëm dhe me urdhër të Ministrit të Mbrojtjes. Rastet e veçanta, kriteret dhe procedura e pranimit përcaktohen me udhëzim të Ministrit të Mbrojtjes.
