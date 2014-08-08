@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të objektit me emërtim “Konvikti i Gjuhëve të Huaja “Asim Vokshi”, Tiranë”, ndodhur në zonën kadastrale 8160, S-13, me numër pasurie 5/74, nga Ministria e Mirëqenies Sociale dhe Rinisë te Ministria e Arsimit dhe Sportit, për Qendrën e Studimeve Albanologjike, sipas genplanit dhe planimetrisë që i bashkëlidhen këtij vendimi.
