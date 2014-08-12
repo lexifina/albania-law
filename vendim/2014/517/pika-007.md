@@ -1,0 +1,1 @@
+7. Tarifat vjetore të shkollimit për studentët që regjistrohen në vitin e parë, në programet e studimeve të ciklit të parë me kohë të plotë, si dhe në programet e integruara të studimit të ciklit të dytë me kohë të plotë, të vitit akademik 2014 - 2015, pasqyrohen në tabelën nr. 1, bashkëlidhur këtij vendimi.

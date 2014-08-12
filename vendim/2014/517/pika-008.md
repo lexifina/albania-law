@@ -1,0 +1,1 @@
+8. Studenti i nënshtrohet vetëm një tarife vjetore shkollimi. Raste të përjashtimit apo reduktimit të tarifës së shkollimit përcaktohen me vendim të Këshillit të Ministrave. Studenti, i cilësuar në bazë të rregullores së institucionit publik të arsimit të lartë si përsëritës, i nënshtrohet tarifës vjetore të shkollimit të vitit akademik, në të cilin do të vazhdojë studimet.

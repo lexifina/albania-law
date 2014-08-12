@@ -1,0 +1,1 @@
+13. Kandidatët, që kanë përfunduar me sukses një program studimi, kanë të drejtë të ndjekin një program të dytë studimi, brenda numrit të kuotës së përcaktuar nga Ministria e Arsimit dhe Sportit, sipas kritereve të përcaktuara nga vetë institucionet publike të arsimit të lartë për pranimet në një program të dytë studimi.

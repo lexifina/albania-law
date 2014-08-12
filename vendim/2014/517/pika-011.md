@@ -1,0 +1,1 @@
+11. Transferimet e studentëve në numrin përkatës të kuotës të përcaktuar nga Ministria e Arsimit dhe e Sportit bëhen sipas përcaktimeve në udhëzimin përkatës të ministrit të Arsimit dhe Sportit dhe akteve ligjore e nënligjore në fuqi.
