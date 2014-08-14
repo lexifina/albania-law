@@ -1,2 +1,0 @@
-# Neni 20
-Pranë Ministrit të Mbrojtjes krijohet këshilli i politikës së mbrojtjes si organ këshillimor. Anëtarë të këtij këshilli janë: Zëvendësministri i Mbrojtjes, Shefi i Shtabit të Përgjithshëm, Zëvendësshefi i Shtabit të Përgjithshëm, komandantët e forcave tokësore, detare dhe ajrore, Komandanti i Stërvitjes dhe Doktrinave, Komandanti i Mbështetjes Logjistike, Drejtori i Drejtorisë Juridike, si dhe persona të tjerë të ftuar nga Ministri.
