@@ -1,0 +1,1 @@
+1. Miratimin e tavaneve përfundimtare të shpenzimeve për programin buxhetor afatmesëm 2015-2017, sipas lidhjes nr. 1, “Tavanet e ministrive dhe institucioneve buxhetore”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
