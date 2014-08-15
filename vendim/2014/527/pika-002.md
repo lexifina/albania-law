@@ -1,0 +1,1 @@
+2. Njësitë e qeverisjes vendore, brenda datës 30 janar të çdo viti, paraqesin kërkesat për grante të menjëhershme për banesat me kosto të ulët, pranë ministrisë që mbulon çështjet e strehimit, të shoqëruar me kostot financiare për çdo familje.

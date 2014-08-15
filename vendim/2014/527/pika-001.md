@@ -1,0 +1,1 @@
+1. Miratimin e procedurave, kritereve dhe përparësive që zbatohen nga njësitë e qeverisjes vendore dhe organet qendrore për akordimin dhe përfitimin e grantit të menjëhershëm për banesat me kosto të ulët.
