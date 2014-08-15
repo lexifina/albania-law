@@ -1,1 +1,1 @@
-2. Ky fond të përballohet nga fondi rezervë i buxhetit të shtetit.
+2. Ky fond të përballohet nga fondi i kontingjencës për vitin 2014.
