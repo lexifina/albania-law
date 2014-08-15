@@ -1,0 +1,1 @@
+3. Ministrisë së Punëve të Brendshme, në buxhetin e miratuar për vitin 2014, në programin “Policia e Shtetit”, zëri “Shpenzime korrente”, t’i shtohet fondi prej 1 000 000 (një milion) lekësh, për organizimin e përgjegjësive të Ministrisë së Punëve të Brendshme në realizimin e ceremonisë ushtarake me rastin e 70 - Vjetorit të Çlirimit.

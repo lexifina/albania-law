@@ -1,0 +1,1 @@
+5. Drejtorisë së Përgjithshme të Arkivave, Arkivit Qendror të Shtetit, në buxhetin e miratuar për vitin 2014, në programin “Planifikim, menaxhim, administrim”, zëri “Shpenzime korente”, t’i shtohet fondi prej 2 100 000 (dy milionë e njëqind mijë) lekësh, për realizimin e albumit fotografik me fotografi nga Lufta Antifashiste Nacionalçlirimtare.

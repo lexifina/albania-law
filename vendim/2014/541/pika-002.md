@@ -1,0 +1,1 @@
+2. Ministrisë së Mirëqenies Sociale dhe Rinisë, në buxhetin e miratuar për vitin 2014, në programin “Planifikim, menaxhim, administrim”, zëri “Shpenzime korrente”, t’i shtohet fondi prej 5 000 000 (pesë milionë) lekësh, për organizimin e koncertit me rastin e përvjetorit të Konferencës së Pezës.

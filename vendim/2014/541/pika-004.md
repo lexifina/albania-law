@@ -1,0 +1,1 @@
+4. Ministrisë së Kulturës, në buxhetin e miratuar për vitin 2014, në programin “Arti dhe kultura”, zëri “Shpenzime korrente”, t’i shtohet fondi prej 5 300 000 (pesë milionë e treqind mijë) lekësh, për organizimin e ekspozitës “Shqipëria 70 vjet imazhe, 1944 - 2014”.

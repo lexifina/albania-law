@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2014, në programin “Planifikim, menaxhim, administrim”, zëri “Shpenzime korrente”, t’i shtohet fondi prej 10 066 000 (dhjetë milionë e gjashtëdhjetë e gjashtë mijë) lekësh, për prodhimin e medaljeve përkujtimore dhe organizimin e ceremonisë ushtarake për 70-Vjetorin e Çlirimit.

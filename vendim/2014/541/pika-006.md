@@ -1,0 +1,1 @@
+6. Efektet financiare prej 23 466 000 (njëzet e tre milionë e katërqind e gjashtëdhjetë e gjashtë mijë) lekësh, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondi i kontingjencës, i miratuar në buxhetin e vitit 2014.
