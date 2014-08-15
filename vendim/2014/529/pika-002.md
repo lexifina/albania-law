@@ -1,0 +1,1 @@
+2. Misioni dhe detyrat e ekspertëve të Policisë së Shtetit do të jenë këshillimi dhe trajnimi i punonjësve të Policisë Kombëtare në Sudanin e Jugut, në mënyrë që të zhvillohet një forcë policore kombëtare e pavarur dhe profesionale, në përputhje me normat dhe standardet ndërkombëtare të OKB-së.
