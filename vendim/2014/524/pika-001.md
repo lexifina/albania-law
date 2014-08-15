@@ -1,0 +1,1 @@
+1. Dhënien në përdorim të përkohshëm, pa shpërblim, për një periudhë 6-mujore, nga Ministria e Mbrojtjes Ministrisë së Punëve të Brendshme, të katit të parë e të dytë të objektit nr. 3 dhe të tre poligonëve që ndodhen në repartin ushtarak nr. 5010, në Bunavi, Vlorë, për zhvillimin e kurseve bazë të policisë, për vitin 2014.

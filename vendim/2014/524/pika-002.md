@@ -1,0 +1,1 @@
+2. Ministrisë së Punëve të Brendshme i ndalohet ta ndryshojë destinacionin e ambienteve të repartit ushtarak të përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojë ose t’ua japë në përdorim të tretëve.
