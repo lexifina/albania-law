@@ -1,0 +1,1 @@
+2. Kategorive të përcaktuara në pikën 1, të këtij vendimi, u jepet prioritet duke i pikëzuar në formatin tip të sistemit të pikëzimit, i cili miratohet nga këshilli i njësisë së qeverisjes vendore për çdo program strehimi dhe që shërben për klasifikimin e kërkesave për strehim nga organet e qeverisjes vendore.
