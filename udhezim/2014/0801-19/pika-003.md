@@ -1,0 +1,1 @@
+3. Ministria e Arsimit dhe Sportit të ngrejë komisionin me specialistë të fushës për të bërë vlerësimin e përshtatshmërisë së teksteve me kurrikulën përkatëse. Komisioni të përbëhet nga së paku dy mësues me përvojë të gjuhës frënge, si dhe një pedagog i gjuhës frënge i Universitetit të Tiranës.

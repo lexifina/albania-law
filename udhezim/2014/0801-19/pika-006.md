@@ -1,0 +1,1 @@
+6. Në procesin e shpërndarjes dhe shitjes, tekstet e miratuar sipas këtij udhëzimi të jenë të pajisura me pullën me hologramë të certifikimit nga Ministria e Arsimit dhe Sportit. Shitja e teksteve të bëhet nëpërmjet njësive tregtare të shitjes së librave ose në pika të tjera shitjeje pranë shkollave nga subjekte të licencuara deri në 15 shtator 2014.

@@ -1,0 +1,1 @@
+2. Kërkesa, datat dhe detaje të tjera të procesit të konkurrimit të publikohen në faqen zyrtare elektronike të Ministrisë së Arsimit dhe Sportit sipas aneksit “Për shpalljen e kërkesës për tekste të botuesve të huaj për gjuhën frënge”, bashkëlidhur këtij udhëzimi.

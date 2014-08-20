@@ -1,0 +1,1 @@
+1. Shpalljen e konkurrimit për pranim alternativash të teksteve të gjuhës frënge për klasat 11 dhe 12, në përputhje me kurrikulën bërthamë dhe kurrikulën me zgjedhje të gjimnazit, në sistemin e arsimit parauniversitar në Republikën e Shqipërisë, për shkak të mungesës së teksteve dhe për të mundësuar pajisjen e nxënësve me tekste të botuesve të huaj.

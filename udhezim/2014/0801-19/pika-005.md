@@ -1,0 +1,1 @@
+5. Çmimet e shitjes me pakicë të këtyre teksteve në Shqipëri, të ofruara nga botuesit ose distributorët e autorizuar, të pranohen jo më lart se mesatarja e çmimeve aktuale të teksteve të gjuhëve të huaja për klasën dhe kurrikulën përkatëse, të përllogaritura nga MAS.

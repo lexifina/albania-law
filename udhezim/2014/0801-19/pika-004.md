@@ -1,0 +1,1 @@
+4. Përzgjedhja e teksteve të miratuara sipas këtij udhëzimi të bëhet nga mësuesit në shkolla sipas modaliteteve të udhëzimit të kësaj ministrie nr. 8, datë 24.3.2014 “Për përzgjedhjen dhe shitjen e teksteve shkollore për vitin shkollor 2014-2015”, të ndryshuar, por pa cenuar përzgjedhjen e realizuar sipas tij.
