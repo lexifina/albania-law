@@ -1,0 +1,6 @@
+13. Për verifikimin e procedurave të mësipërme, si dhe menaxhimin e të gjithë procesit në vijim të hyrjes në fuqi të vendimit nr. 539, datë 6.8.2014, të Këshillit të Ministrave, “Për heqjen e licencës disa institucioneve private të arsimit të lartë”, pranë Ministrisë së Arsimit dhe Sportit, me urdhër të ministrit të Arsimit dhe Sportit, ngrihet një Komision i Posaçëm me këto kompetenca:
+a) Të kërkojë informacion dhe të verifikojë procedurat e ndjekura për transferimin e studimeve nga institucionet e arsimit të lartë të cilave iu është hequr licenca, si dhe institucionet pritëse;
+b) Të mbikëqyrë procedurat e ndjekura nga komisionet e vlerësimit, njohjes dhe ekuivalentimit të ngritura pranë IAL-ve pritëse;
+c) Të monitorojë zbatimin e sa parashikohet në vendimin nr. 539, datë 6.8.2014, të Këshillit të Ministrave, “Për heqjen e licencës disa institucioneve private të arsimit të lartë”;
+d) Të informojë Ministrinë e Arsimit dhe Sportit brenda ditës për shkeljet, parregullsitë dhe abuzimet e konstatuara;
+e) Të organizojë veprimtari informuese, në bashkëpunim me zyrën e marrëdhënieve me publikun në Ministrinë e Arsimit dhe Sportit, për kuadrin ligjor dhe procedurat që duhen ndjekur nga studentët që do të transferojnë studimet.

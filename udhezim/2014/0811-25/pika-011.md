@@ -1,0 +1,1 @@
+11. Lista përfundimtare e kandidatëve të regjistruar i dërgohet Ministrisë së Arsimit dhe Sportit, e shoqëruar me argumentimin mbi mënyrën e përzjedhjes së kandidateve, brenda datës 16 tetor 2014, në formë shkresore dhe elektronike në adresën vkl@arsimi.gov.al. Një kopje e listës i dërgohet Agjencisë Kombëtare të Provimeve për gjenerimin e numrave të matrikullimit.

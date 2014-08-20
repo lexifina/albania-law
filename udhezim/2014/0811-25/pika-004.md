@@ -1,0 +1,1 @@
+4. Institucionet e arsimit të lartë, të cilave iu është hequr licenca, kanë detyrimin të përgatisin dosjen me dokumentacionin e nevojshëm për çdo student, brenda datës 1 shtator 2014, dhe t’ia vënë atë në dispozicion çdo studenti pa asnjë detyrim financiar shtesë nga ana e studentit.

@@ -1,0 +1,1 @@
+16. IAL-të që u është hequr licenca të kryejnë likuidimin e studentëve sipas parashikimeve të vendimit nr. 539, të Këshillit të Ministrave, “Për heqjen e licencës disa institucioneve private të arsimit të lartë” dhe këtij udhëzimi.

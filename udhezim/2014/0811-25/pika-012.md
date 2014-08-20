@@ -1,0 +1,1 @@
+12. Listat e kandidatëve që i përcillen Ministrisë së Arsimit dhe Sportit në zbatim të pikës 10 dhe 11 të këtij udhëzimi të përmbajnë të dhënat sipas shtojcës 2 bashkëlidhur dhe të përcillet sipas specifikimeve me sipër në formë shkresore dhe /ose elektronike sipas rastit. Përcjellja në formë elektronike duhet të bëhet në format Excel.

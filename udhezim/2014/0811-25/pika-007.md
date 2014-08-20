@@ -1,0 +1,1 @@
+7. Plani i plotë i programit të studimit, pjesë e dosjes së studentit, është plani i dorëzuar nga IAL-ja në kërkesën për licencimin/hapjen e programit të studimit ose ai i ndryshuar dhe miratuar më pas sipas procedurave të parashikuara në aktet ligjore e nënligjore në fuqi. Në këtë dokument të shënohen kreditet (ECTS) për çdo lëndë/syllabus.
