@@ -1,0 +1,1 @@
+2. Provimet e Maturës Shtetërore 2014, sesioni i dytë, të ndiqen procedurat e përcaktuara në rregulloren nr. 895 prot., datë 7.2.2014, “Për procesin e Maturës Shtetërore 2014 në Republikën e Shqipërisë”, të ndryshuar.

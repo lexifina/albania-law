@@ -1,0 +1,1 @@
+6. Për provimin e detyruar të gjuhës së huaj testi të hartohet nga AKP-ja, ndërsa administrimi dhe vlerësimi të bëhet nga DAR/ZA-të. Për provimin D1, D2 dhe Z1, Z2, hartimi i testeve dhe vlerësimi i tyre të bëhet nga AKP-ja.
