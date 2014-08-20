@@ -1,0 +1,1 @@
+8. MAS-i procedon me përcaktimin e emrave të kandidatëve në programet ku janë rishpërndarë kuotat dhe brenda datës 3 tetor 2014 i përcjell IAL-ve respektive listat e kandidatëve fitues. MAS-i publikon në faqen web listën e kandidatëve dhe afatet e regjistrimit të tyre në IAL-të përkatëse.

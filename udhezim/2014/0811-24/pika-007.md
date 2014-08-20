@@ -1,0 +1,1 @@
+7. Në përfundim të procedurave të seleksionimit, MAS-i vlerëson mundësinë e rishpërndarjes së kuotave të mbetura bosh. Mund të përfitojnë nga kuotat e rishpërndara kandidatët, të cilët kanë aplikuar pranë IAL-ve brenda datës 10 shtator 2014 dhe nuk kanë rezultuar fitues në raundin e parë të shpërndarjes së kuotave.
