@@ -1,0 +1,1 @@
+3. Për provimet kombëtare të arsimit bazë 2014, sesioni i dytë, të ndiqen procedurat e përcaktuara në rregulloren nr. 2481, datë 9.4.2014, “Për procesin e organizimit dhe zhvillimit të provimeve kombëtare të arsimit bazë (Provime të Lirimit) 2014”.

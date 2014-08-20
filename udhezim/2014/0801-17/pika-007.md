@@ -1,0 +1,1 @@
+7. Për shkollat e pakicës kombëtare maqedonase, testi për provimin në lëndën “Gjuhë amtare”, sesioni i dytë, të përgatitet nga DAR Korçë dhe tërhiqet ditën e provimit nga drejtori i shkollës, shoqëruar nga përfaqësuesi i DAR-së Korçë.

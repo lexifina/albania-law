@@ -1,0 +1,1 @@
+6. Për shkollat e pakicës kombëtare greke, testi për provimin në lëndën “Gjuhë anëtare”, sesioni i dytë, të përgatitet nga DAR Gjirokastër. Zyra Arsimore Delvinë dhe Zyra Arsimore Sarandë tërheqin në DAR Gjirokastër testin, ditën e provimit.
