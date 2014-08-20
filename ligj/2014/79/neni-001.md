@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e kredisë për eksport ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, që vepron në emër të Republikës së Shqipërisë dhe përfaqësohet nga Ministria e Financave, dhe UniCredit Bank Austria AG, lidhur me financimin e projektit “Modernizimi i sistemit arsimor në Shqipëri nëpërmjet e-edukimit”, me një hua të butë prej 3 500 000 (tre milionë e pesëqind mijë) eurosh.
