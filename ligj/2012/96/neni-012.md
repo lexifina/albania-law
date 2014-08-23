@@ -1,5 +1,0 @@
-# Neni 12
-Administrimi i Arkivit Elektronik të Akteve
-1. Arkivi Elektronik i Akteve administrohet nga Qendra e Botimeve Zyrtare, në përputhje me këtë ligj dhe rregullat e përcaktuara nga legjislacioni në fuqi. Ministri i Drejtësisë, në përputhje me standardet, rregullat dhe procedurat e përcaktuara, sipas legjislacionit në fuqi për bazat e të dhënave shtetërore, i propozon Këshillit të Ministrave miratimin e rregullave të hollësishme për organizimin dhe funksionimin e brendshëm të Arkivit Elektronik të Akteve.
-2. Aktet e botueshme përbëjnë të dhëna parësore të Arkivit Elektronik të Akteve, por në këtë arkiv botohen edhe të dhëna dytësore, të cilat paraqesin interes publik dhe që merren nga një bazë tjetër të dhënash, ku ato janë parësore. Të dhënat dytësore, që botohen në Arkivin Elektronik të Akteve, si dhe mënyra e ndërveprimit me bazat e tjera të të dhënave, përcaktohen me urdhër të Ministrit të Drejtësisë.
-3. Dhënës të informacionit në Arkivin Elektronik të Akteve janë të gjitha institucionet shtetërore që miratojnë aktet e botueshme.

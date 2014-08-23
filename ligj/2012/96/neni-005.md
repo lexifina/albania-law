@@ -1,9 +1,0 @@
-# Neni 5
-Dërgimi i akteve për botim
-1. Teksti i akteve të botueshme i dërgohet Qendrës së Botimeve Zyrtare në formatin e shkruar në letër dhe në format elektronik brenda 5 ditëve pas miratimit nga institucionet shtetërore përkatëse.
-2. Në rastin e dërgimit për botim të ligjeve, akti i botueshëm dërgohet për botim nga Kuvendi brenda 5 ditëve nga njoftimi i dekretit të Presidentit për shpalljen e ligjit, por në çdo rast jo më vonë se 10 ditë nga data e dekretit.
-3. Nëse Presidenti e kthen ligjin për rishqyrtim në Kuvend dhe dekreti i tij e humbet fuqinë, akti i botueshëm dërgohet për botim nga Kuvendi brenda 5 ditëve nga votimi kundër tij prej shumicës së të gjithë anëtarëve të Kuvendit.
-4. Nëse Presidenti nuk ushtron të drejtën e parashikuar në paragrafin 1 të nenit 84 dhe në paragrafin 1 të nenit 85 të Kushtetutës, akti i botueshëm dërgohet për botim nga Kuvendi brenda 5 ditëve nga kalimi i afatit kushtetues për shpalljen ose kthimin për rishqyrtim të ligjit. Në këtë rast, Kuvendi shënon edhe datën e dërgimit të ligjit të miratuar te Presidenti i Republikës.
-5. Në rastin e dërgimit për botim të ligjeve, të miratuara sipas procedurës së përcaktuar në paragrafin 4 të nenit 84 të Kushtetutës, Kuvendi e dërgon aktin e botueshëm menjëherë. Ky ligj botohet në numrin më të parë të Fletores Zyrtare.
-6. Institucioni shtetëror, që dërgon aktin e botueshëm, kujdeset që formati elektronik të nënshkruhet elektronikisht. Të dyja formatet kanë vlerë të njëjtë juridike. Në rast mospërputhjeje të dy formateve, Qendra e Botimeve Zyrtare i kërkon institucionit të konfirmojë përmbajtjen e saktë të aktit të botueshëm dhe vetëm pas përgjigjes zyrtare të institucionit dërgues vijon me botimin e aktit.
-7. Këshilli i Ministrave përcakton me udhëzim mënyrën, format dhe procedurën e dërgimit të tekstit të akteve të botueshme në Fletoren Zyrtare, si dhe formatin e shkruar në letër dhe formatin elektronik të tyre.
