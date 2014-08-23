@@ -1,0 +1,14 @@
+# Neni 8
+Dërgimi i akteve për botim
+1. Aktet e botueshme, të parashikuara në nenin 6, të këtij ligji, publikohen në Fletoren Zyrtare, vetëm atëherë kur versioni përfundimtar në origjinal i aktit është nënshkruar nga organi që e ka nxjerrë atë dhe me kërkesën e tij.
+2. Teksti i akteve të botueshme në Fletoren Zyrtare i dërgohet Qendrës së Botimeve Zyrtare në formatin e shkruar në letër dhe në formatin elektronik nga institucionet shtetërore përkatëse që kanë miratuar aktin.
+3. Në rastin e dërgimit për botim të ligjeve, akti i botueshëm dërgohet për botim nga Kuvendi brenda 5 ditëve nga njoftimi i dekretit të Presidentit për shpalljen e ligjit, por, në çdo rast, jo më vonë se 10 ditë nga data e dekretit.
+4. Nëse Presidenti e kthen ligjin për rishqyrtim në Kuvend dhe dekreti i tij e humbet fuqinë, akti i botueshëm dërgohet për botim nga Kuvendi brenda 5 ditëve nga data e votimit kundër tij prej shumicës së të gjithë anëtarëve të Kuvendit.
+5. Nëse Presidenti nuk ushtron të drejtën e parashikuar në pikën 1, të nenit 84, dhe në pikën 1, të nenit 85, të Kushtetutës, akti i botueshëm dërgohet për botim nga Kuvendi brenda 5 ditëve nga kalimi i afatit kushtetues për shpalljen ose kthimin për rishqyrtim të ligjit. Në këtë rast, Kuvendi shënon edhe datën e dërgimit të ligjit të miratuar te Presidenti i Republikës.
+6. Në rastin e dërgimit për botim të ligjeve, të miratuara sipas procedurës së përcaktuar në pikën 4, të nenit 84, të Kushtetutës, Kuvendi e dërgon aktin e botueshëm menjëherë. Ky ligj botohet në numrin më të parë të Fletores Zyrtare.
+7. Vendimet e Gjykatës Kushtetuese dërgohen për botim brenda 5 ditëve nga data e nënshkrimit të tyre.
+8. Vendimet e Kolegjeve të Bashkuara të Gjykatës së Lartë, për njësimin ose ndryshimin e praktikës gjyqësore, dërgohen për botim brenda 5 ditëve nga data e nënshkrimit të tyre.
+9. Aktet normative të Këshillit të Ministrave, dërgohen për botim brenda 5 ditëve nga data e nënshkrimit të tyre.
+10. Në rastin e dërgimit për botim të akteve të tjera, të parashikuara në nenin 6, të këtij ligji, subjektet përgjegjëse për dërgimin e akteve të tyre për botim në Fletoren Zyrtare, e dërgojnë aktin e botueshëm brenda 5 ditëve nga data kur versioni përfundimtar në origjinal i aktit është nënshkruar nga organi që e ka nxjerrë atë.
+11. Institucioni shtetëror, që dërgon aktin e botueshëm, kujdeset që formati elektronik të nënshkruhet elektronikisht, sipas legjislacionit në fuqi. Të dyja formatet kanë vlerë të njëjtë juridike. Në rast mospërputhjeje të të dyja formateve, Qendra e Botimeve Zyrtare i kërkon institucionit të konfirmojë përmbajtjen e saktë të aktit të botueshëm dhe, vetëm pas përgjigjes zyrtare të institucionit dërgues, vijon me botimin e aktit.
+12. Këshilli i Ministrave përcakton me udhëzim mënyrën, format dhe procedurën e dërgimit të tekstit të akteve të botueshme në Fletoren Zyrtare, si dhe formatin e shkruar në letër dhe formatin elektronik të tyre.
