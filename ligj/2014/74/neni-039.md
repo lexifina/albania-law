@@ -1,0 +1,5 @@
+# Neni 39
+Tjetërsimi në kushtet e përdorimit vetjak
+1. Veprimet për tjetërsimin ose transferimin e të drejtave të tjera mbi armët e gjahut e sportive në pronësi private, të kryera brenda vendit, ose me origjinë importi/eksporti, kur motivohen nga nevoja për përdorimin e vetë subjektit, nuk ushtrohen mbi bazën e një licence. Në rastin e çdo veprimi të tillë juridik, organi përgjegjës i Policisë së Shtetit lëshon autorizim të veçantë në favor të personit fizik.
+2. Veprimet për tjetërsimin ose transferimin e të drejtave të tjera mbi armët e gjahut e sportive, të kryera brenda vendit, kur motivohen nga nevoja për përdorim e vetë subjektit, nuk ushtrohen mbi bazën e një licence. Në rastin e çdo veprimi të tillë juridik, organi përgjegjës i Policisë së Shtetit lëshon autorizim në favor të personit juridik.
+3. Personat që fitojnë dhe ata që humbasin të drejtën e përdorimit ose një të drejtë tjetër më të lartë mbi armët, të përcaktuara në pikat 1 e 2, të këtij neni, brenda një afati dhjetëditor nga humbja apo vendosja në mënyrë faktike në posedim mbi armën, njoftojnë organin përgjegjës vendor të Policisë së Shtetit për të kryer regjistrimin e armës.
