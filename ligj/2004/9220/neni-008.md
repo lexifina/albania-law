@@ -1,5 +1,9 @@
 # Neni 8
 Projektimi i varrezave
-1. Çdo projekt për zgjerimin e varrezave ekzistuese dhe ndërtimin e varrezave të reja bëhet në bazë të një studimi të plotë të zonës, të miratuar nga këshilli bashkiak ose komunal, veçanërisht, për sa i përket vendndodhjes, shtrirjes së tokës e natyrës fiziko-kimike të saj, thellësisë dhe drejtimit të shtresës hidrike.
-2. Në projektet e ndërtimit të varrezave të reja mund të parashikohen edhe parcela të ndara sipas komuniteteve fetare, në funksion të përbërjes fetare të popullsisë së rajonit.
-3. Normat teknike për projektimin dhe ndërtimin e varrezave përcaktohen me udhëzim të ministrit që mbulon veprimtarinë e shërbimeve publike.
+1. Çdo projekt për zgjerimin e varrezave ekzistuese dhe ndërtimin e varrezave të reja bëhet në bazë të një studimi të plotë të zonës, të miratuar nga këshilli I njësisë bazë të qeverisjes vendore, veçanërisht, për sa i përket vendndodhjes, shtrirjes së tokës e natyrës fiziko-kimike të saj, thellësisë dhe drejtimit të shtresës hidrike kushteve teknike të ndërtimit të varrezave.
+1/1. Zgjerimi i varrezave ekzistuese dhe ngritja e varrezave të reja është pjesë përbërëse e planit të përgjithshëm vendor. Plani për zhvillimin e varrezave hartohet mbështetur në kapacitetet ekzistuese, nevojat e planifikuara, sipas rritjes së popullsisë, në prirjet e zhvillimit territorial, si dhe sipërfaqet e lira dhe përshtatshmërinë funksionale të tyre. Plani konsultohet me komunitetet fetare dhe subjektet e interesuara.
+1/2. Në planin për zhvillimin e varrezave duhet të përcaktohen edhe parashikimet për mbylljen apo prishjen e varrezave ekzistuese dhe destinacioni i tyre. Si rregull, destinacioni i varrezave të prishura duhet të jetë sipërfaqe e gjelbër. Përdorimi për qëllime të tjera mund të justifikohet vetëm për motive të interesit publik.
+2. Ndërtimi, zgjerimi, mbyllja apo prishja e varrezave apo parcelave të varrezave bëhen në pajtim me planin për zhvillimin e varrezave, planin e përgjithshëm vendor dhe vlerësimin strategjik të ndikimit në mjedis. Në projektet e ndërtimit të varrezave të reja mund të parashikohen edhe parcela të ndara sipas komuniteteve fetare, në funksion të përbërjes fetare të popullsisë së rajonit.
+2/1. Në projektimin e varrezave mbahen parasysh rregullat në fuqi për rendin dhe sigurinë publike, si dhe ato për shëndetin publik.
+2/2. Natyra fiziko-kimike e tokës dhe thellësia dhe drejtimi i shtresave hidrike duhet të dokumentohen shkencërisht.
+3. Shfuqizuar.

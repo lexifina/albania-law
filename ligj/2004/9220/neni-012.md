@@ -1,4 +1,8 @@
 # Neni 12
-E drejta e prishjes së varrezave
-1. Prishja e varrezës vendoset nga një komision i posaçëm, i ngritur nga këshilli bashkiak ose komunal, i cili harton dokumentin përkatës për verifikimin e gjendjes së plotë të varrezës, pasi është marrë mendimi i Inspektoratit Sanitar Shtetëror.
-2. Ndalohet prishja e varrezave, që janë në përputhje me kushtet e përcaktuara në këtë ligj, përveç rasteve kur bëhet e domosdoshme për interesa publikë.
+Mbyllja dhe prishja e varrezave
+1. Varreza ose pjesë të caktuara të saj mund të mbyllen për varrime të reja, në rast se kjo nevojë lind për një shkak ose interes publik. Kjo dispozitë zbatohet edhe për lloje të veçanta varrimi apo varresh.
+2. Për të drejtat e përdorimit, të cilat nuk janë ushtruar deri në momentin e mbylljes, me mirëkuptimin e palës, bëhet zëvendësimi me të drejta të reja përdorimi në pjesë të tjera të varrezës apo, sipas rastit, në varreza të tjera, ose bëhet kthimi i pagesave, në rastet kur është bërë prenotimi i varrit.
+3. Vendimi për mbylljen e varrezës merret nga këshilli i njësisë së qeverisjes vendore dhe bëhet publik.
+4. Kur mbyllja e varrezës bëhet për shkak të nevojës për ndërtime me destinacion tjetër, atëherë varreza i nënshtrohet procedurës së prishjes. Prishja kryhet në përfundim të afatit sipas nenit 13 të ligjit. Prishja e varrezës vendoset nga një komision i posaçëm, i ngritur nga këshilli i njësisë bazë të qeverisjes vendore, i cili harton dokumentin përkatës për verifikimin e gjendjes së plotë të varrezës, pasi është marrë mendimi i strukturës rajonale të shëndetit publik.
+5. Vendimi për prishjen e varrezës merret nga këshilli i njësisë së qeverisjes vendore dhe bëhet publik.
+6. Për të drejtat e përdorimit, të cilat janë në fuqi deri në momentin e prishjes, bëhet zëvendësimi me të drejta të reja përdorimi në pjesë të tjera të varrezës apo, sipas rastit, në varreza të tjera. Në këtë rast, të vdekurit zhvendosen në varre të reja. Shpenzimet për zhvendosjen, rivarrimin dhe veshjen e dekorimin e ri të varreve nuk u ngarkohen familjarëve.
