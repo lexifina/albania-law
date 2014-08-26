@@ -1,0 +1,12 @@
+# Neni 4
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+a) “Profesion i rregulluar” është një veprimtari apo grup veprimtarish profesionale, e drejta e ushtrimit të të cilave ose njëra nga format e ushtrimit rregullohet me ligj apo me akte nënligjore dhe kushtëzohet me një nivel të caktuar formimi ose me zotërimin e kualifikimeve profesionale të veçanta.
+b) “Kualifikime profesionale” janë kualifikimet e certifikuara me një titull studimi, një dëshmi aftësie ose një përvojë profesionale.
+c) “Dokument zyrtar i formimit apo kualifikimit profesional” është diploma, certifikata ose dëftesa, lëshuar nga autoriteti kompetent, në përputhje me rregullat dhe procedurat e parashikuara nga legjislacioni në fuqi, që certifikon përfundimin e suksesshëm të një formimi apo kualifikimi profesional, të zhvilluar brenda apo jashtë territorit të Republikës së Shqipërisë.
+ç) “Autoritet kompetent” është çdo autoritet, i ngarkuar me akt ligjor apo nënligjor, si përgjegjës e rregullator për një apo më shumë profesione të rregulluara, për njohjen e së drejtës së ushtrimit të tyre, për pranimin e aplikimeve, të deklarimeve dhe marrjen e vendimeve.
+d) “Përvojë profesionale” është ushtrimi i ligjshëm i një profesioni, për një periudhë të caktuar kohe, të parashikuar në marrëveshje ndërkombëtare të ratifikuara nga Republika e Shqipërisë, me ligj apo me akt nënligjor.
+dh) “Praktikë profesionale” është ushtrimi i një profesioni të rregulluar për një periudhë të caktuar kohe nga ana e praktikantit, në drejtimin e përgjegjësinë e një profesionisti të kualifikuar, që mund të shoqërohet me një formim shtesë, sipas mënyrës së përcaktuar nga autoriteti kompetent, në bashkëpunim me urdhrin profesional përkatës.
+e) “Provim i shtetit” është kontrolli vetëm për njohuritë profesionale të kandidatit, që organizohet në përputhje me legjislacionin në fuqi. Ky provim kryhet sipas përcaktimeve të parashikuara në këtë ligj dhe vlerëson njohuritë dhe aftësitë e kandidatit për ushtrimin e një profesioni të rregulluar.
+ë) “Kandidat” është personi, i cili gëzon një dokument zyrtar të formimit apo kualifikimit profesional dhe që kandidon për të marrë titullin e një profesioni të rregulluar.
+f) “Urdhër profesional”, më poshtë UP, është enti publik kombëtar, i cili përfaqëson interesat e përbashkëta të profesioneve në një fushë të caktuar dhe rregullon marrëdhëniet ndërmjet tyre, në funksion të publikut.
