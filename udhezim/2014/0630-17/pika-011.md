@@ -1,0 +1,1 @@
+11. Për të gjitha gjobat që përfitojnë nga falja sipas ligjit nr. 39/2014, nëse kanë filluar, administrata tatimore qendrore dhe vendore ndërpresin procedurat e mbledhjes me forcë për çdo gjobë për shumën që është objekt i faljes sipas këtij ligji.

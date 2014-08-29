@@ -1,0 +1,1 @@
+14. Ngarkohet Drejtoria e Përgjithshme e Tatimeve dhe strukturat e saj në varësi, si dhe drejtoritë/zyrat e taksave të qeverisjes vendore dhe strukturat përkatëse të tyre që, sipas afateve të përcaktuara, të bëjnë pasqyrimet konkrete të gjobave të falura sipas ligjit në regjistrat përkatës.
