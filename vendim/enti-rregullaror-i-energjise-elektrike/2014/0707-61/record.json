@@ -1,0 +1,30 @@
+{
+  "qbz_id": 60613,
+  "title": "MBI DISA NDRYSHIME DHE SHTESA TË RREGULLAVE TË ALOKIMIT TË KAPACITETEVE TË INTERKONJEKSIONEVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "61",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2014-07-07",
+  "published": "2014-08-11",
+  "in_force": "2014-09-01",
+  "in_force_basis": "\"hyn në fuqi në datën 1.9.2014\"",
+  "source": "https://qbz.gov.al/files/dada8c2d39f87ad87b12217288af3b94d66231d473dee3b86d87cbf937921289.docx",
+  "source_sha256": "dada8c2d39f87ad87b12217288af3b94d66231d473dee3b86d87cbf937921289",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60613",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/07/07/61",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    16186,
+    64926,
+    59032
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
