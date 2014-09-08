@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 12 025 090 (dymbëdhjetë milionë e njëzet e pesë mijë e nëntëdhjetë) lekësh të përballohet nga buxheti i shtetit, zëri “Detyrimet e prapambetura” (detyrimet e infrastrukturës).

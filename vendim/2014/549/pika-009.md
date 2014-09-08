@@ -1,0 +1,1 @@
+9. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Korçë, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së sipërfaqes së objektit mbi hartën kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
