@@ -1,1 +1,1 @@
-4. Shpenzimet procedurale, në shumën 2 090 000 ( dy milionë e nëntëdhjetë mijë) lekë, të përballohen nga Drejtoria e Përgjithshme e Rrugëve.
+4. Shpenzimet procedurale, në shumën 2 140 000 (dy milionë e njëqind e dyzet mijë) lekë, të përballohen nga Autoriteti Rrugor Shqiptar.
