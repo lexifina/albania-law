@@ -1,0 +1,1 @@
+1. Miratimin e preventivit paraprak, për efekt të llogaritjes së fondit limit për zbatimin e projektit me natyrë të veçantë zhvillimi për kompleksin sportiv “Tirana Olimpik Park” (godina e Pallatit të Sportit dhe godina e administratës), sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
