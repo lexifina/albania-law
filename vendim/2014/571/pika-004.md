@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 3 901 334 (tre milionë e nëntëqind e një mijë e treqind e tridhjetë e katër) lekësh, të përballohet nga të ardhurat e bashkisë së Fushë - Krujës, planifikuar në buxhetin e saj.

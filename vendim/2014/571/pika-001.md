@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga zgjerimi i varrezave ekzistuese të qytetit, ndërtimi i nyjës së rrethrrotullimit Luz, si dhe mbrojtja nga përmbytjet e lumit Zezë, të bashkisë së Fushë - Krujës, sipas tabelave që i bashkëlidhen këtij vendimi.
