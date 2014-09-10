@@ -1,0 +1,1 @@
+1. Heqjen nga Fondi Pyjor dhe Kadastra Kombëtare e Pyjeve dhe Kullotave të sipërfaqes prej 52.525 (pesëdhjetë e dy pikë pesëqind e njëzet e pesë) ha, e cila është pjesë e Fondit Pyjor/Kullosor Kombëtar në ekonomitë pyjore “Curraj i Epërm” dhe “Nikaj - Mërtur 1”, sipas tabelës dhe hartës përkatëse që i bashkëlidhen këtij vendimi.
