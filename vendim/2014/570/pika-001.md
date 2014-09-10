@@ -1,0 +1,1 @@
+1. Ministrisë së Punëve të Brendshme, në buxhetin e miratuar për vitin 2014, në programin “Shërbimi i Gjendjes Civile”, t’i shtohet fondi 7 000 000 (shtatë milionë) lekë, për mbulimin e shpenzimeve të shërbimit të konsulencës së projektit “Ndërtimi i sistemit të ruajtjes së informacionit dhe vazhdueshmërisë së punës së Regjistrit Kombëtar të Gjendjes Civile”.
