@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga “Alba Film”, sh.a.-ja, te Ministria e Kulturës, të pasurisë “Godina 4-katëshe, magazina e kostumografisë”, në ish-Kinostudio, sipas planimetrive që i bashkëlidhen këtij vendimi.
