@@ -1,1 +1,0 @@
-11. Shqyrtimi dhe miratimi i kufirit për bllokbanimet/ndërtimet informale dhe territoret e tjera, kufiri dhe sipërfaqja e parcelës për secilin objekt realizohet nga KRRT-të e njësive të qeverisje vendore me një vendimmarrje të vetme.

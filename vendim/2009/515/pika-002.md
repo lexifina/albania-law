@@ -1,1 +1,0 @@
-2. ALUIZNI, brenda 90 ditëve nga hyrja në fuqi e këtij vendimi, të kryejë evidentimin në terren të objekteve informale/objekteve me leje, me shtesë informale në objekt, si dhe të bëjë përditësimin e të dhënave të gjendjes ndërtimore dhe të hartojë procesverbalin e konstatimit të tipit A ose A1, sipas modeleve, që i bashkëlidhen këtij vendimi.

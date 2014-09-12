@@ -1,1 +1,0 @@
-14. Në rastet kur njësia e qeverisjes vendore nuk ushtron përgjegjësitë, për shkaqet e parashikuara në pikën “d” neni 4 të ligjit nr.9482, datë 3.4.2006 “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, kompetencat e njësisë së qeverisjes vendore, me vendim të Këshillit të Ministrave, i kalojnë ALUIZNI-t.
