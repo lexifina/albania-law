@@ -1,0 +1,28 @@
+{
+  "qbz_id": 61364,
+  "title": "PËR KRIJIMIN E FONDIT NË MBËSHTETJE TË SIPËRMARRJEVE TË REJA “START-UP”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "593",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2014-09-10",
+  "published": "2014-09-18",
+  "in_force": "2014-09-18",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b4f200284786900630bb98d8ce36cc821d11c56f3314b6e18dfa56bb2cbba85c.docx",
+  "source_sha256": "b4f200284786900630bb98d8ce36cc821d11c56f3314b6e18dfa56bb2cbba85c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61364",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/09/10/593",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63211
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
