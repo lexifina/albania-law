@@ -1,0 +1,28 @@
+{
+  "qbz_id": 61363,
+  "title": "PËR KRIJIMIN E FONDIT NË MBËSHTETJE TË GRAVE SIPËRMARRËSE",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "592",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2014-09-10",
+  "published": "2014-09-18",
+  "in_force": "2014-09-18",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/cbff1e059c3752c2cc6b0e9047be2f4127418f4962ad817cadd688d68b014cbe.docx",
+  "source_sha256": "cbff1e059c3752c2cc6b0e9047be2f4127418f4962ad817cadd688d68b014cbe",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61363",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/09/10/592",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63210
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
