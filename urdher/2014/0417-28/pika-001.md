@@ -1,0 +1,1 @@
+1. Miratimin e “Kodit të Etikës për punonjësit e inspektorateve shtetërore në Republikën e Shqipërisë”, sipas lidhjes “Kodi i Etikës për punonjësit e inspektorateve shtetërore në Republikën e Shqipërisë”, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

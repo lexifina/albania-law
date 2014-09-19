@@ -1,0 +1,1 @@
+2. Kodi i Etikës për punonjësit e inspektorateve shtetërore në Republikën e Shqipërisë është i detyrueshëm për t’u zbatuar nga të gjithë punonjësit e Inspektoratit Qendror dhe inspektorateve shtetërore gjatë ushtrimit të funksioneve dhe detyrave të tyre zyrtare.
