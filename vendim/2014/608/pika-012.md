@@ -1,0 +1,4 @@
+12. Masat e përcaktuara në këtë vendim, për grumbullimin dhe trajtimin e mbetjeve bio, përfshijnë:
+a) analizën dhe vlerësimin e situatës fillestare dhe/ose përmirësimin e skemës ekzistuese, ose planit vendor/rajonal të menaxhimit të mbetjeve;
+b) vlerësimin e volumit dhe përcaktimin e origjinës së mbetjeve që do të menaxhohen. Informacioni përfshin të dhënat aktuale dhe trendet e mëparshme, për një periudhë 5-8 vjeçare, në lidhje me numrin e banorëve, numrin e shtëpive, llojin dhe madhësinë e fermave, numrin e kopshteve, parqeve publike dhe ndërtesat sociale ose kulturore, brenda territorit që kanë në juridiksion njësitë e qeverisjes vendore, të cilat mund të prodhojnë mbetje bio;
+c) informacion shtesë për shtëpitë në qytet dhe fshat, duke specifikuar llojin e rezidencës (të përhershme ose të përkohshme).

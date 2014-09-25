@@ -1,0 +1,1 @@
+14. Njësia e qeverisjes vendore në zonat rurale përcakton, për banorët brenda territorit që ka nën juridiksion, mënyrat, vendet dhe afatet kohore për trajtimin e mbetjeve bio në shtëpi ose në nivel lagjeje.

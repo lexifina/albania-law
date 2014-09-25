@@ -1,0 +1,1 @@
+11. Masat, kriteret dhe rregullat që duhen zbatuar për grumbullimin dhe menaxhimin e mbetjeve bio përcaktohen në planin vendor të menaxhimit të mbetjeve, të përgatitur në përputhje me Planin Rajonal dhe Planin Kombëtar të Menaxhimit të Mbetjeve.

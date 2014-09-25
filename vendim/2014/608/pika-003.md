@@ -1,0 +1,1 @@
+3. Termat e përdorur në këtë vendim kanë të njëjtin kuptim me termat e përcaktuar në nenin 3, të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar, nenin 5, të ligjit nr. 10431, datë 9.6.2011, “Për mbrojtjen e mjedisit”, të ndryshuar, dhe në ligjin nr. 8652, datë 31.7.2000, “Për organizimin dhe funksionimin e qeverisjes vendore”.

@@ -1,0 +1,1 @@
+17. Çdo njësi e qeverisjes vendore raporton, brenda fundit të muajit dhjetor të çdo viti, në këshillin e qarkut përkatës, të dhëna mbi grumbullimin e mbetjeve bio dhe objektivat e trajtimit, si pjesë e raportimit për zbatimin e planit vendor të menaxhimit të integruar të mbetjeve.

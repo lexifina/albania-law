@@ -1,0 +1,1 @@
+21. Ministria harton raportin mbi zbatimin e këtij vendimi, si pjesë integrale të raportit për zbatimin e ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar, të parashikuar në nenin 66 të tij, i cili publikohet në faqen elektronike zyrtare të saj dhe bëhet i disponueshëm për publikun.

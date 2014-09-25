@@ -1,0 +1,1 @@
+18. Çdo qark i raporton, brenda fundit të muajit shkurt të çdo viti, Agjencisë Kombëtare të Mjedisit të dhënat e grumbulluara nga njësitë e qeverisjes vendore, siç përcaktohet në pikën 17, të këtij vendimi.
