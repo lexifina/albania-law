@@ -1,0 +1,3 @@
+1. Rishpërndarjen e fondeve në buxhetin e vitit 2014 për shpenzime korrente, ndërmjet programeve të miratuara për Ministrinë e Mirëqenies Sociale dhe Rinisë, si më poshtë vijon:
+a) Programit të Përkujdesit Social, për vitin 2014, tit. 10430, kap. 1, art. 606, “Transferta për buxhetet familjare dhe individët”, t’i shtohet fondi prej 150 000 000 (njëqind e pesëdhjetë milionë) lekësh.
+b) Programit për punësim, formim dhe arsim profesional 2014, tit.10550, kap. 1, art. 606, “Transferta për buxhetet familjare dhe individët”, t’i pakësohet fondi prej 150 000 000 (njëqind e pesëdhjetë milionë) lekësh.
