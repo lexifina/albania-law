@@ -1,0 +1,4 @@
+# Neni 3
+1. Organet e njësive të qeverisjes vendore, të konstituuara pas zgjedhjeve vendore të vitit 2011 dhe me juridiksion territorial sipas ndarjes administrativo-territoriale, të përcaktuar me ligjin nr. 8653, datë 31.7.2000, “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”, të ndryshuar, dhe me ligjin nr. 8654, datë 31.7.2000, “Për organizimin dhe funksionimin e Bashkisë së Tiranës”, vazhdojnë funksionimin e tyre deri në konstituimin e organeve përfaqësuese dhe ekzekutive të njësive të qeverisjes vendore në zgjedhjet e vitit 2015.
+2. Zgjedhjet për organet e qeverisjes vendore të vitit 2015 do të organizohen dhe zhvillohen mbi bazën e ndarjes administrativo-territoriale të përcaktuar në këtë ligj.
+3. Organet e qeverisjes vendore, të konstituuara pas zgjedhjeve vendore të vitit 2015, do të organizohen dhe funksionojnë bazuar në ndarjen administrativo-territoriale të përcaktuar në këtë ligj.
