@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga zbatimi i projektit “Ndërhyrje të përkohshme dhe rehabilituese në sheshin “Nënë Tereza””, miratuar me vendimin nr.27/2014, të Këshillit Kombëtar të Restaurimeve (KKR).

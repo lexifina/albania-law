@@ -1,0 +1,1 @@
+9. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Bllokuar nga bankat”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë Rajonale të Kulturës Kombëtare, Durrës.
