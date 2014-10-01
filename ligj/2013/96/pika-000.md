@@ -1,1 +1,0 @@
-Miratohet akti normativ, me fuqinë e ligjit, nr. 1, datë 6.2.2013, i Këshillit të Ministrave “Për pajisjen me leje përdorimi të strukturave të ndërtuara me shkelje të kushteve të lejes së ndërtimit përpara fillimit me efekte të plota të ligjit nr. 10 119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar”.
