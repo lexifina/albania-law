@@ -1,8 +1,12 @@
 LIGJ
 
-Nr.9901, datë 14.4.2008
+Nr. 9901, datë 14.4.2008
 
 PËR TREGTARËT DHE SHOQËRITË TREGTARE
+
+(Ndryshuar me ligjin nr. 10475, dat 27.10.2011; nr. 129/2014, datë 2.10.2014)
+
+(i përditësuar)
 
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -22,7 +26,7 @@ DISPOZITA TË ZBATUESHME PËR TREGTARIN
 
 DHE SHOQËRITË TREGTARE
 
-Neni 1
+Neni 1[^fn1]
 
 Objekti i ligjit, përkufizime, regjistrime të detyrueshme
 
@@ -65,6 +69,38 @@ Shoqëritë tregtare
 2. Shoqëritë tregtare duhet të regjistrohen sipas nenit 22 të ligjit nr.9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”, si dhe neneve në vijim, sipas formës përkatëse të shoqërisë tregtare.
 
 3. Shoqëritë tregtare fitojnë personalitetin juridik në datën kur kryhet regjistrimi i tyre në Qendrën Kombëtare të Regjistrimit. Shoqëritë përgjigjen me të gjitha aktivet e tyre për detyrimet, që rrjedhin nga veprimtaritë e ushtruara.
+
+Neni 3/1
+
+Shkaqet e pavlefshmërisë
+
+(Shtuar me ligjin nr. 129/2014, datë 2.10.2014)
+
+	1. Shkaqe të pavlefshmërisë së themelimit të një shoqërie tregtare, pas regjistrimit të saj në Qendrën Kombëtare të Regjistrimit (në vazhdim QKR), janë:
+
+	a) dokumentacioni për regjistrimin fillestar të shoqërisë, sipas nenit 28, të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar, nuk është hartuar në formë shkresore;
+
+	b) mungesa e zotësisë juridike për të vepruar e të gjithë themeluesve të shoqërisë;
+
+	c) objekti i veprimtarisë së shoqërisë është në kundërshtim me ligjin;
+
+	ç) në statutin e shoqërisë nuk përcaktohen emri i shoqërisë, vlera e kontributeve të nënshkruara nga secili themelues, vlera e përgjithshme e kapitalit të nënshkruar nga të gjithë themeluesit, apo statuti nuk përmban dispozita në lidhje me objektin e shoqërisë;
+
+	d) vlera e përgjithshme e kapitalit të shoqërisë, nënshkruar nga të gjithë themeluesit, është më e ulët se vlera e kapitalit minimal, të kërkuar për shoqërinë tregtare, sipas parashikimeve të këtij ligji;
+
+	dh) kapitali i nënshkruar i shoqërive aksionare nuk është shlyer nga themeluesit përpara regjistrimit të shoqërisë në Qendrën Kombëtare të Regjistrimit, në mënyrat dhe në masën e kërkuar nga ky ligj.
+
+	2. Shkaqet e pavlefshmërisë, të parashikuara në pikën 1, janë të vetmet shkaqe, të cilat sjellin pavlefshmërinë e themelimit të shoqërisë, pas regjistrimit të saj në QKR.
+
+	3. Pavlefshmëria absolute, parashikuar në një nga shkaqet e pikës 1, konstatohet nga gjykata dhe sjell për pasojë prishjen e shoqërisë tregtare dhe hapjen e procedurave të likuidimit në gjendjen e aftësisë paguese, sipas parashikimeve të nenit 190, pika 1, ose të nenit 192, të këtij ligji, me përjashtim të rasteve kur është nisur një procedurë falimentimi.
+
+	4. Pavlefshmëria relative, e parashikuar në një nga shkaqet e pikës 1, shpallet nga gjykata. Shpallja e pavlefshmërisë së themelimit të shoqërisë tregtare nuk do të ketë si pasojë prishjen e shoqërisë dhe hapjen e procedurave të likuidimit, nëse përpara vendimit gjyqësor, të përmendur në pikën 3, të këtij neni, rrethana që shkakton pavlefshmërinë është korrigjuar, dhe ky korrigjim është publikuar nga shoqëria në regjistrin tregtar, sipas parashikimeve të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+	5. Gjykata që shqyrton padinë e ngritur në lidhje me pavlefshmërinë e themelimit të shoqërisë tregtare, gjatë të njëjtit proces gjyqësor, vlerëson nëse rrethana, që shkakton pavlefshmërinë, është korrigjuar dhe publikuar sipas kërkesave të pikës 4 të këtij neni.
+
+	6. Pavlefshmëria e shoqërisë tregtare, sipas parashikimeve të këtij neni, nuk mund t’u kundrejtohet palëve të treta që kanë fituar të drejta nga shoqëria pas regjistrimit të saj në Qendrën Kombëtare të Regjistrimit, dhe nuk çliron themeluesit e shoqërisë nga detyrimi për të paguar kontributet e nënshkruara prej tyre, të paktën deri në vlerën e nevojshme për të përballuar detyrimet e marra përsipër ndaj kreditorëve.
+
+	7. Padia për të kërkuar që shoqëria tregtare të shpallet e pavlefshme parashkruhet brenda tre vjetëve nga data e regjistrimit të shoqërisë në Qendrën Kombëtare të Regjistrimit. Në çdo rast, padia e lidhur me pavlefshmërinë e themelimit të shoqërisë tregtare nuk mund të ngrihet pas publikimit të korrigjimit të rrethanës që shkakton pavlefshmërinë, sipas këtij neni, nëse kjo rrethanë mund të korrigjohet.
 
 Neni 4
 
@@ -140,6 +176,8 @@ Neni 11
 
 Të dhënat në korrespondencat dhe dokumentet e tjera të veprimtarisë
 
+(Shtuar shkronja ‘’d’’ e pikës 1 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Të gjitha shkresat, formularët e urdhrave apo çdo dokument tjetër korrespondence, nxjerrë nga shoqëria, degët apo zyrat e përfaqësimit, nëpërmjet përdorimit të letrës ose mjeteve elektronike, të cilat u drejtohen palëve të treta, duhet të përmbajnë të dhënat e mëposhtme:
 
 a) numrin unik të identifikimit;
@@ -149,6 +187,8 @@ b) formën ligjore të shoqërisë;
 c) vendndodhjen e selisë së regjistruar dhe të zyrës qendrore të saj;
 
 ç) të dhëna nëse shoqëria është në likuidim.
+
+d) vlera e kapitalit të regjistruar të shoqërisë dhe vlera e pjesës së paguar të kapitalit.
 
 Nëse shoqëria ka faqe interneti, këto të dhëna duhet të pasqyrohen aty. Edhe në këtë rast zbatohet pika 5 e nenit 1 të këtij ligji.
 
@@ -160,11 +200,13 @@ PËRFAQËSIMI
 
 Neni 12
 
-Përfaqësuesit ligjorë
+Kompetencat e organeve të shoqërisë dhe përfaqësimi ligjor 
 
-1. Shoqëritë tregtare përfaqësohen sipas rregullave të përcaktuara nga ky ligj dhe dispozitave të statutit. Përfaqësimi ligjor i shoqërisë është i vlefshëm për çdo veprim gjyqësor apo jashtëgjyqësor.
+(Ndryshuar titulli, pikat 1 dhe 2 me ligjin nr. 129/2014, datë 2.10.2014)
 
-2. Përfaqësuesit ligjorë zbatojnë të gjitha kufizimet e tagrave të përfaqësimit, të përcaktuara në statut apo të miratuara nga organet përkatëse të shoqërisë. Me përjashtim të rastit kur shoqëria provon se i treti ka pasur dijeni për kufizimin, apo në bazë të rrethanave të qarta nuk mund të mos kishte pasur dijeni për të, kufizimi i kompetencave nuk mund t’i kundrejtohet palëve të treta, edhe nëse këto kufizime janë bërë publike në mënyrë të ndryshme nga ato të parashikuara nga ligji nr.9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”. Publikimi i kufizimit nëpërmjet publikimit të vendimeve të organit përkatës të shoqërisë apo statutit nuk përbën provë të mjaftueshme për dijeninë e të tretëve, nëse ky kufizim është bërë publik në mënyrë të ndryshme nga ato të parashikuara nga ligji për Qendrën Kombëtare të Regjistrimit.
+1. Statuti apo vendimet e shoqërisë nuk mund të ndryshojnë apo të kufizojnë kompetencat që ky ligj përcakton për organet e ndryshme të shoqërisë tregtare. Çdo veprim, që ka për qëllim ndryshimin apo kufizimin e kompetencave të organeve të shoqërisë, të cilat nuk lejohen shprehimisht, sipas këtij ligji, nuk mund t’u kundrejtohen palëve të treta edhe nëse janë bërë publike në statut apo sipas mënyrave të parashikuara nga ligji nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+2. Shoqëritë tregtare përfaqësohen në marrëdhëniet me të tretët nga përfaqësuesit e tyre ligjorë, të cilët veprojnë në përputhje me rregullat e përcaktuara nga ky ligj dhe nga dispozitat e statutit. Përfaqësimi ligjor i shoqërisë është i vlefshëm për çdo veprim gjyqësor apo jashtëgjyqësor, me përjashtim të rastit kur statuti parashikon kufizime në tagrin e përfaqësuesit ligjor për të vepruar i vetëm për disa apo për të gjitha marrëdhëniet e shoqërisë me të tretët. Përfaqësuesit ligjorë mbeten të detyruar ndaj shoqërisë për të zbatuar të gjitha kufizimet e tagrave të përfaqësimit në marrëdhëniet me të tretët, të përcaktuara në statut apo të miratuara nga organet e shoqërisë. Me përjashtim të rastit kur shoqëria provon se i treti ka pasur dijeni për kufizimin e tagrit të përfaqësuesit ligjor për të vepruar i vetëm për disa apo për të gjitha marrëdhëniet e shoqërisë me të tretët apo në bazë të rrethanave të qarta, nuk mund të mos kishte pasur dijeni për të, ky kufizim i tagrave të përfaqësimit mund t’u kundrejtohet palëve të treta vetëm nëse është bërë publik në mënyrat e parashikuara nga ligji nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
 
 3. Veprimet e kryera nga përfaqësuesit ligjorë të shoqërisë janë të detyrueshme për shoqërinë edhe nëse këto tejkalojnë objektin e saj, me përjashtim të rastit kur këto veprime shkojnë përtej tagrave të përfaqësimit që u jep ligji apo lejon t’u jepen përfaqësuesve. Këto veprime nuk janë detyruese për shoqërinë nëse shoqëria provon se i treti ka pasur dijeni se akti tejkalon objektin e saj, apo në bazë të rrethanave të qarta nuk mund të mos kishte pasur dijeni për të. Publikimi nëpërmjet ndryshimit të statutit nuk përbën provë të mjaftueshme për dijeninë e të tretëve, nëse ky ndryshim është bërë publik në mënyrë të ndryshme nga ato të parashikuara nga ligji për Qendrën Kombëtare të Regjistrimit.
 
@@ -173,6 +215,8 @@ Përfaqësuesit ligjorë
 Neni 13
 
 Ndalimi, konflikti i interesit dhe personat e lidhur
+
+(Ndryshuar pika 5 me ligjin nr. 129/2014, datë 2.10.2014)
 
 1. Personat, që janë dënuar me vendim të formës së prerë për kryerjen e veprave penale, të parashikuara në kreun III të pjesës së posaçme të Kodit Penal, për një afat deri në 5 vjet nga data e këtij dënimi, nuk mund të mbajnë funksionet e përfaqësuesit ligjor të një shoqërie tregtare, nuk mund të jenë anëtarë të këshillit të administrimit apo të këshillit mbikëqyrës dhe as përfaqësues të aksionarëve në asamblenë e përgjithshme.
 
@@ -200,7 +244,7 @@ b) fëmijët, prindërit, vëllezërit, motrat, fëmijët e fëmijëve ose bashk
 
 4. Personat, të cilët kërkojnë miratim për një transaksion, sipas pikave 2 e 3 të këtij neni, nuk mund të marrin pjesë në votimin për miratimin e veprimit e nuk llogariten në kuorum.
 
-5. Aksionarët njoftohen për miratimin e dhënë sipas pikave 2 e 3 të këtij neni, si dhe për kushtet e veprimit e natyrën e objektin e interesit. Brenda 6 muajve nga njoftimi, asambleja mund t’i kërkojë gjykatës të shpallë veprimin juridik si të pavlefshëm, në rastet kur miratimi është dhënë me shkelje të rëndë të ligjit apo statutit. Dispozitat e nenit 151 të këtij ligji mbeten të zbatueshme. 
+5. Këshilli i administrimit ose këshilli mbikëqyrës i shoqërisë aksionare, që ka dhënë miratimin e një veprimi, sipas pikave 2 e 3, të këtij neni, duhet që pa vonesa, por në çdo rast brenda 72 orëve, t’i njoftojë asamblesë së përgjithshme aktin e miratimit të këtij veprimi, së bashku me kushtet e veprimit, si dhe natyrën e objektin e interesit të personave të përfshirë. Në rastin e shoqërive aksionare me ofertë publike, ky njoftim duhet të publikohet brenda afatit të sipërpërmendur edhe në faqen e internetit të shoqërisë, pavarësisht nga detyrimet e tjera për publikimin e miratimit të dhënë, që këto shoqëri mund të kenë, sipas parashikimeve të ligjit nr. 9879, datë 21.2.2008, “Për titujt”. Brenda 6 muajve nga data e kryerjes së njoftimit për dhënien e autorizimit, sipas pikave 2 e 3, të këtij neni, asambleja e përgjithshme mund t’i kërkojë gjykatës të shpallë veprimin juridik të miratuar si të pavlefshëm, nëse miratimi është dhënë në shkelje të rëndë të ligjit apo të statutit.
 
 6. Çdo veprim që kërkon miratim, sipas pikave 2 dhe 3 të këtij neni, publikohet në pasqyrat financiare dhe raportet e ecurisë së veprimtarisë, së bashku me kushtet e veprimit, si dhe natyrën e objektin e interesit të personave të përfshirë.
 
@@ -232,15 +276,31 @@ Neni 16
 
 Abuzimi me detyrën dhe formën e shoqërisë
 
-1. Ortakët, aksionarët e shoqërisë tregtare, administratorët dhe anëtarët e këshillit të administrimit, që kryejnë një apo më shumë nga veprimet ose mosveprimet vijuese, përgjigjen personalisht e në mënyrë solidare për detyrimet e shoqërisë, me të gjithë pasurinë e tyre nëse:
+(Ndryshuar me ligjin nr. 129/2014, datë 2.10.2014)
 
- a) abuzojnë me formën e shoqërisë tregtare për arritjen e qëllimeve të paligjshme;
+	1. Individi, i cili gëzon cilësinë e ortakut, aksionarit apo përfaqësuesit të ortakut ose aksionarit, të administratorit apo të anëtarit të këshillit të administrimit të shoqërisë tregtare, i cili, me veprimet apo mos veprimet e tij, i siguron vetes apo të tretëve një përfitim ekonomik të padrejtë, apo i shkakton një të treti pakësimin e pasurisë me dashje, është përgjegjës personalisht ndaj të tretëve, përfshi autoritetet publike, me pasurinë e tij, për shlyerjen e detyrimeve të shoqërisë kur:
 
- b) trajtojnë pasuritë e shoqërisë tregtare si të ishin pasuritë e tyre; 
+	a) ka abuzuar me formën dhe/ose përgjegjësinë e kufizuar që ofron shoqëria tregtare; ose
 
- c) në çastin kur kanë marrë apo duhet të kishin marrë dijeni për gjendjen e paaftësisë paguese të shoqërisë, nuk marrin masat e nevojshme, për të siguruar që shoqëria, në varësi të llojit të veprimtarisë së ushtruar, të ketë kapitale të mjaftueshme, për të përmbushur detyrimet e marra përsipër ndaj palëve të treta.
+b) ka trajtuar pasuritë e shoqërisë tregtare si të ishin pasuritë e tij/të saj personale; ose
 
-2. Palët e treta nuk mund të ngrenë padi për përmbushjen e detyrimeve, sipas pikës 1 të këtij neni, nëse shoqëria provon se i treti kishte pasur dijeni për abuzimin apo në bazë të rrethanave të qarta nuk mund të mos kishte pasur dijeni për të. Padia duhet të ngrihet brenda 3 vjetëve nga kryerja e shkeljes.
+c) në çastin kur ka marrë dijeni apo duhet të kishte marrë dijeni që shoqëria nuk ka kapital të mjaftueshëm për të përmbushur detyrimet ndaj palëve të treta, nuk mori masat e nevojshme, të përfshira në kompetencat e tij/të saj, sipas këtij ligji, për të mos lejuar që, në varësi të rrethanave, shoqëria të vazhdonte ushtrimin e veprimtarisë tregtare, dhe/ose marrjen përsipër të detyrimeve të reja ndaj palëve të treta, përfshirë autoritetet publike. 
+
+2. Në rastet e parashikuara në pikën 1, të këtij neni, përgjegjësia personale për detyrimet e shoqërisë kufizohet deri në vlerat e përcaktuara në vijim:
+
+	a) në rastin e parashikuar në shkronjën “a”, të pikës 1, të këtij neni, deri në vlerën e përgjithshme të detyrimeve të papaguara të shoqërisë; ose
+
+	b) në rastin e parashikuar në shkronjën “b”, të pikës 1, të këtij neni, për detyrimet e papaguara të shoqërisë, deri në vlerën e tregut të pasurisë apo pasurive të shoqërisë tregtare, të cilat i ka trajtuar si të ishin pasuritë e tij/të saj personale; ose
+
+	c) në rastin e parashikuar në shkronjën “c”, të pikës 1, të këtij neni, deri në vlerën e përgjithshme të detyrimeve të papaguara të shoqërisë, të cilat kanë lindur pas marrjes dijeni për gjendjen e parashikuar sipas shkronjës “c”, të pikës 1, të këtij neni.
+
+	3. Nëse një apo më shumë nga shkeljet e sipërpërmendura kryhen së bashku nga më shumë se një prej personave të përmendur në pikën 1, të këtij neni, atëherë këta persona përgjigjen në mënyrë solidare ndaj të tretëve, përfshi autoritetet publike.
+
+	4. Personi i përcaktuar sipas pikës 1, të këtij neni, mban përgjegjësi personale ndaj palëve të treta, përfshi autoritetet publike, vetëm nëse kryerja e shkeljeve të përcaktuara në këtë nen vërtetohet me vendim gjyqësor të formës së prerë.
+
+	5. Personi i përcaktuar sipas pikës 1, të këtij neni, nuk mban përgjegjësi personale ndaj palëve të treta, të cilat, në momentin e marrjes përsipër të detyrimit nga shoqëria, kishin dijeni për shkeljet e përcaktuara në këtë nen apo, në bazë të rrethanave të qarta, nuk mund të mos kishin dijeni për to.
+
+6. Padia ndaj personave të përcaktuar sipas pikës 1, të këtij neni, duhet të ngrihet brenda 3 vjetëve nga data e kryerjes së shkeljes.
 
 Neni 17
 
@@ -344,7 +404,9 @@ Neni 24
 
 Liria kontraktore
 
-Marrëdhëniet ndërmjet ortakëve rregullohen nga statuti. Nenet 25 deri në 36 të këtij ligji zbatohen vetëm në rastin kur në statut nuk parashikohet ndryshe.
+(Ndryshuar togfjalësh në fjalinë e dytë me ligjin nr. 129/2014, datë 2.10.2014)
+
+Marrëdhëniet ndërmjet ortakëve rregullohen nga statuti. Nenet 25 deri në 37 të këtij ligji zbatohen vetëm në rastin kur në statut nuk parashikohet ndryshe. 
 
 Neni 25
 
@@ -504,19 +566,35 @@ Neni 43
 
 Shkaqet e prishjes së shoqërisë
 
-Shoqëria kolektive prishet:
+(Ndryshuar me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Shoqëria kolektive prishet:
 
 a) kur mbaron kohëzgjatja, për të cilën është themeluar;
 
-b) me vendim të ortakëve;
+	b) me përfundimin e procedurave të falimentimit apo në rast të pamjaftueshmërisë së pasurive për të mbuluar shpenzimet e procedurës së falimentimit;
 
-c) me hapjen e procedurave të falimentimit;
+	c) në rast se objekti bëhet i parealizueshëm për shkak të mosfunksionimit të vazhduar të organeve të shoqërisë apo për shkaqe që tjera që e bëjnë absolutisht të pamundur vazhdimin e veprimtarisë tregtare;
 
-ç) me vendim gjykate;
+	ç) në rastet e pavlefshmërisë së themelimit të shoqërisë, të parashikuara nga neni 3/1 i këtij ligji;
 
-d) nëse nuk ka kryer veprimtari tregtare për dy vjet dhe nuk ka njoftuar pezullimin e veprimtarisë, sipas pikës 3 të nenit 43 të ligjit nr.9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”;
+d) në rastet e parashikuara sipas nenit 47, të këtij ligji;
 
-dh) në raste të tjera, të parashikuara në statut.
+dh) në raste të tjera, të parashikuara në statut;
+
+e) në raste të tjera, të parashikuara me ligj;
+
+ë) me vendim të ortakëve.
+
+2. Prishja e shoqërisë, si pasojë e një apo më shumë prej shkaqeve të parashikuara nga shkronjat “a”, “c”, “d”, “dh” dhe “e”, të pikës 1, të këtij neni, vendoset nga shumica e ortakëve, ndërsa në rastin e parashikuar sipas shkronjës “ë”, të pikës 1, të këtij neni, është i nevojshëm një vendim unanim i ortakëve.
+
+	3. Në rast mosveprimi të ortakëve për të vendosur prishjen e shoqërisë, për rastet e parashikuara nga shkronjat “a”, “c”, “d”, “dh” dhe “e”, të pikës 1, të këtij neni, çdo person i interesuar mund t’i drejtohet gjykatës, në çdo kohë, për të konstatuar prishjen e shoqërisë.
+
+4. Pavarësisht nga parashikimet e sipër-përmendura, ekzistenca e një a më shumë prej shkaqeve të parashikuara nga shkronjat “a”, “c”, “d”, “dh” dhe “e”, të pikës 1, të këtij neni, nuk do të ketë si pasojë prishjen e shoqërisë dhe hapjen e procedurave të likuidimit, nëse përpara vendimit gjyqësor të formës së prerë, të përmendur në pikën 3, të këtij neni, shkaku i prishjes është korrigjuar, nëse është e mundshme të korrigjohet, dhe korrigjimi është publikuar nga shoqëria në regjistrin tregtar, sipas parashikimeve të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+	5. Prishja e shoqërisë, si pasojë e shkaqeve të parashikuara në shkronjën “b”, të pikës 1, të këtij neni, vendoset nga gjykata kompetente për procedurat e falimentimit, kur, në përfundim të këtyre procedurave, të gjitha pasuritë e shoqërisë janë likuiduar për shlyerjen në mënyrë kolektive të detyrimeve ndaj kreditorëve apo kur gjykata kompetente për procedurat e falimentimit vendos rrëzimin e kërkesës për hapjen e procedurës së falimentimit, për shkak të pamjaftueshmërisë së pasurisë së shoqërisë për të mbuluar shpenzimet e procedurës së falimentimit.
+
+6. Prishja e shoqërisë, si pasojë e rasteve të parashikuara në shkronjën “ç”, të pikës 1, të këtij neni, vendoset nga gjykata kompetente, sipas parashikimeve të nenit 3/1 të këtij ligji.
 
 Neni 44
 
@@ -738,9 +816,11 @@ Neni 68
 
 Përkufizimi
 
+(Ndryshuar pika 2 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Shoqëria me përgjegjësi të kufizuar është një shoqëri tregtare, e themeluar nga persona fizikë ose juridikë, të cilët nuk përgjigjen për detyrimet e shoqërisë tregtare dhe mbulojnë personalisht humbjet e shoqërisë deri në pjesën e pashlyer të kontributeve të nënshkruara. Kontributet e ortakëve përbëjnë kapitalin e regjistruar të shoqërisë me përgjegjësi të kufizuar.
 
-2. Secili ortak gëzon kuotën e tij në shoqëri, në përpjesëtim me kontributin që ka dhënë në kapital. Kapitali i regjistruar i shoqërisë ndahet ndërmjet ortakëve në kuota, sipas këtij raporti. 
+2. Kapitali i shoqërisë me përgjegjësi të kufizuar ndahet në një numër kuotash, në raport me kontributin dhënë nga çdo ortak në shoqëri. Çdo ortak zotëron një kuotë të vetme në shoqëri. Bashkëzotëruesit e një kuote, sipas nenit 72, të këtij ligji, gëzojnë cilësinë si një ortak i vetëm.
 
 3. Shoqëritë me përgjegjësi të kufizuara nuk mund të ofrojnë kuotat e tyre si mjete investimi për publikun e gjerë.
 
@@ -768,7 +848,9 @@ Neni 71
 
 Shoqëria me ortak të vetëm
 
-1. Nëse shoqëria mbetet me një ortak, atëherë ortaku i vetëm detyrohet ta regjistrojë këtë fakt, sipas nenit 43 të ligjit nr.9723, datë 3.5.2007. Nëse ortaku i mbetur nuk përmbush këtë detyrim, atëherë ai përgjigjet personalisht për detyrimet që shoqëria ka marrë përsipër. 
+(Ndryshuar pika 1me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Nëse shoqëria mbetet me një ortak, atëherë ortaku i vetëm detyrohet ta regjistrojë këtë fakt, sipas nenit 43, të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar. Nëse ortaku i mbetur nuk përmbush këtë detyrim, atëherë ortaku përgjigjet personalisht për detyrimet që shoqëria merr përsipër nga data në të cilën duhet të ishte kryer regjistrimi, sipas këtij neni, deri në datën në të cilën ky regjistrim u krye efektivisht.
 
 2. Nga çasti i regjistrimit të ndryshimit, sipas pikës 1 të këtij neni, shoqëria tregtare vijon si shoqëri me përgjegjësi të kufizuar me ortak të vetëm.
 
@@ -796,6 +878,8 @@ Neni 73
 
 Mënyrat e fitimit dhe kalimit të kuotave
 
+(Ndryshuar pika 2 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Kuotat e kapitalit të një shoqërie me përgjegjësi të kufizuar e të drejtat që rrjedhin prej tyre mund të fitohen apo kalohen nëpërmjet:
 
 a) kontributit në kapitalin e shoqërisë;
@@ -808,7 +892,7 @@ c) trashëgimisë;
 
 d) çdo mënyre tjetër të parashikuar me ligj.
 
-2. Në rastin e kalimit të kuotave me kontratë, kontrata duhet të bëhet me shkrim.
+2. Në rastet e kalimit të kuotave me kontratë, kushtet dhe momenti i kalimit të titullit të pronësisë mbi kuotën, si dhe kushtet e tjera të kalimit, përfshirë momentin e pagesës së çmimit, rregullohen nga kontrata. Kontrata për kalimin e kuotës hartohet në formë shkresore dhe noterizimi nuk përbën kusht për vlefshmërinë apo regjistrimin e kontratës. Me përjashtim të rasteve kur parashikohet shprehimisht ndryshe nga ligji apo kur palët bien dakord në kontratë, vlefshmëria e kalimit të titullit të pronësisë mbi kuotat nuk do të kushtëzohet nga kryerja e formaliteteve të ndryshme me efekt deklarativ, përfshi këtu formalitetet e regjistrimit ose të publikimit të kontratës apo të kalimit të titullit.
 
 3. Statuti mund të kushtëzojë kalimin e kuotave, veçanërisht duke përcaktuar miratimin e shoqërisë ose të drejtën e parablerjes në favor të shoqërisë apo të ortakëve të tjerë.
 
@@ -844,6 +928,8 @@ Neni 77
 
 Kufizimet e shpërndarjeve, certifikata e aftësisë paguese
 
+(Ndryshuar pika 3 dhe shtuar pika 4 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Shoqëria mund t’u shpërndajë fitime ortakëve, vetëm nëse pas pagimit të dividendit:
 
 a) aktivet e shoqërisë mbulojnë tërësisht detyrimet e saj;
@@ -852,7 +938,9 @@ b) shoqëria ka aktive likuide të mjaftueshme për të shlyer detyrimet që bë
 
 2. Administratorët lëshojnë një certifikatë të aftësisë paguese, e cila konfirmon shprehimisht se shpërndarja e propozuar e dividentëve përmbush kërkesat e pikës 1 të këtij neni, ndërsa kur gjendja e shoqërisë tregon se shpërndarja e propozuar e dividendëve nuk i përmbush këto kritere, administratorët nuk mund ta lëshojnë këtë certifikatë.
 
-3. Administratorët përgjigjen ndaj shoqërisë për vërtetësinë e certifikatës së aftësisë paguese.
+3. Kërkesat e pikave 1 dhe 2, të këtij neni, zbatohen gjithashtu në rastet kur, pavarësisht nga dhënia e miratimeve të nevojshme, sipas nenit 13, të këtij ligji, shoqëria do të kryejë një pagesë në favor të një prej ortakëve të saj, në bazë të një marrëveshjeje të lidhur mes shoqërisë dhe ortakut, e cila përmban kushte më pak të favorshme për shoqërinë, në krahasim me kushtet normale të tregut.
+
+4. Administratorët përgjigjen ndaj shoqërisë për vërtetësinë e certifikatës së aftësisë paguese që duhet të lëshohet sipas këtij neni.
 
 Neni 78
 
@@ -982,11 +1070,13 @@ Neni 85
 
 Përfaqësimi në asamble
 
+(Ndryshuar pika 3 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Ortaku mund të përfaqësohet në asamblenë e përgjithshme, në bazë të një autorizimi nga një ortak tjetër apo nga një person i tretë.
 
 2. Administratorët e shoqërisë nuk mund të veprojnë si përfaqësues të ortakëve në asamblenë e përgjithshme.
 
-3. Autorizimi mund të jepet vetëm për një mbledhje të asamblesë së përgjithshme, e cila përfshin edhe mbledhjet vijuese me të njëjtin rend dite.
+3. Autorizimi jepet në formë shkresore vetëm për një mbledhje të asamblesë së përgjithshme dhe është i vlefshëm edhe për mbledhjet vijuese me të njëjtin rend dite.
 
 Neni 86
 
@@ -1010,7 +1100,9 @@ Neni 88
 
 E drejta e votës
 
-1. Me përjashtim të rasteve kur parashikohet ndryshe në statut, çdo kuotë jep të drejtën e një vote.
+(Ndryshuar pika 1 me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Me përjashtim të rasteve kur parashikohet ndryshe në statut, çdo ortak ka të drejta vote në përpjesëtim me vlerën nominale të kuotës së tij. Bashkëzotëruesit e një kuote ushtrojnë të drejtat e votës bashkërisht, sipas nenit 72 të këtij ligji.
 
 2. Statuti mund të parashikojë për ortakët, që nuk janë të pranishëm, mundësinë e pjesëmarrjes në mbledhjen e asamblesë së përgjithshme me mjete të ndryshme komunikimi, përfshirë mjetet elektronike, me kusht që të garantohet identifikimi i ortakëve. 
 
@@ -1076,9 +1168,11 @@ Neni 92
 
 Shfuqizimi i vendimeve të parregullta dhe dëmshpërblimi
 
-1. Asambleja e përgjithshme ka të drejtë t’i kërkojë gjykatës përkatëse shfuqizimin e vendimeve të administratorëve, kur këto përbëjnë shkelje të rëndë të ligjit ose të statutit.
+                (Ndryshuar pikat 1 dhe 2 me ligjin nr. 129/2014, datë 2.10.2014)
 
-2. Ortakët, të cilët përfaqësojnë të paktën 5 për qind të totalit të votave në asamblenë e shoqërisë, ose një vlerë më të vogël të parashikuar në statut, apo secili prej kreditorëve të shoqërisë mund t’i kërkojnë asamblesë së përgjithshme ngritjen e padisë si më sipër. Ortakët apo kreditorët e shoqërisë së përcaktuar më sipër, brenda 30 ditëve pas refuzimit nga asambleja për ngritjen e padisë, kanë të drejtë të ngrenë padi drejtpërdrejt përpara gjykatës kompetente për shfuqizimin e vendimit të administratorëve. Nëse asambleja e përgjithshme nuk merr një vendim, brenda 60 ditëve nga data e kërkesës, kërkesa e ortakëve apo kreditorëve vlerësohet e refuzuar.
+1. Asambleja e përgjithshme, në bazë të një vendimi të marrë me shumicën e përcaktuar sipas pikës 2, neni 87, të këtij ligji, ka të drejtë të ngrejë padi përpara gjykatës kompetente për shfuqizimin e vendimeve të administratorëve, si pasojë e shkeljes së rëndë të ligjit ose të statutit dhe/ose padi të tjera që parashikon ky ligj ose statuti ndaj administratorëve apo ortakëve.
+
+2. Ortakët, të cilët përfaqësojnë të paktën 5 për qind të totalit të votave në asamblenë e shoqërisë ose një vlerë më të vogël, të parashikuar në statut, dhe/ose kreditorët e shoqërisë, të cilët pretendojnë se shoqëria ka ndaj tyre detyrime në një vlerë jo më të vogël se 5 për qind të kapitalit, mund t’i kërkojnë asamblesë së përgjithshme ngritjen e padisë për shfuqizimin e vendimeve të administratorëve. Ortakët apo kreditorët e shoqërisë së përcaktuar më sipër, brenda 30 ditëve pas refuzimit nga asambleja për ngritjen e padisë, kanë të drejtë të ngrenë drejtpërdrejt, përpara gjykatës kompetente, padi në emër të shoqërisë, për shfuqizimin e vendimit të administratorëve. Nëse asambleja e përgjithshme nuk merr një vendim, brenda 60 ditëve nga data e kërkesës, kërkesa e ortakëve apo kreditorëve të përcaktuar më sipër vlerësohet e refuzuar.
 
 3. Në rastet kur shoqëria ngre padi si më sipër, ajo merr pjesë në gjykim me anë të një përfaqësuesi të posaçëm, të caktuar nga asambleja e përgjithshme.
 
@@ -1112,7 +1206,9 @@ Neni 95
 
 Emërimi, shkarkimi, të drejtat dhe detyrimet
 
-1. Asambleja e përgjithshme emëron një ose më shumë persona fizikë si administratorë të shoqërisë. Afati i emërimit, i cili caktohet në statut, nuk mund të jetë më i gjatë se 5 vjet, me të drejtë ripërtëritjeje. Emërimi i administratorëve prodhon efekte pas regjistrimit në Qendrën Kombëtare të Regjistrimit. Statuti mund të vendosë rregulla të posaçme për emërimin e administratorëve.
+(Ndryshuar fjalia e tretë e pikës 1, shtuar pikat 7, 8, 9 me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Asambleja e përgjithshme emëron një ose më shumë persona fizikë si administratorë të shoqërisë. Afati i emërimit, i cili caktohet në statut, nuk mund të jetë më i gjatë se 5 vjet, me të drejtë ripërtëritjeje. Emërimi i administratorëve, i cili hyn në fuqi në datën e përcaktuar sipas aktit të emërimit, u kundrejtohet palëve të treta sipas përcaktimeve të nenit 12 të këtij ligji. Statuti mund të vendosë rregulla të posaçme për emërimin e administratorëve.
 
 2. Administratorët e një shoqërie tregtare mëmë, sipas përcaktimit të nenit 207 të këtij ligji, nuk mund të emërohen si administratorë të një shoqërie të kontrolluar e anasjelltas. Çdo emërim i bërë në kundërshtim me këto dispozita është i pavlefshëm.
 
@@ -1139,6 +1235,12 @@ e) raportojnë përpara asamblesë së përgjithshme në lidhje me zbatimin e po
 5. Nëse asambleja e përgjithshme emëron më shumë se një administrator, ata e administrojnë bashkërisht shoqërinë. Statuti ose rregulloret e tjera, të miratuara nga asambleja e përgjithshme, mund të parashikojnë ndryshe.
 
 6. Asambleja e përgjithshme mund të shkarkojë administratorin në çdo kohë me shumicë të zakonshme. Statuti apo marrëveshje të tjera nuk mund të përjashtojnë apo kufizojnë këtë të drejtë. Paditë, që lidhen me shpërblimin e administratorit, në bazë të marrëdhënieve kontraktore me shoqërinë, rregullohen sipas dispozitave ligjore në fuqi.
+
+7. Administratori mund të heqë dorë në çdo kohë nga detyra e tij, nëpërmjet një njoftimi me shkrim drejtuar asamblesë së përgjithshme. Administratori, që jep dorëheqjen, duke pasur parasysh rrethanat e veprimtarisë së shoqërisë, është gjithashtu i detyruar të thërrasë asamblenë e përgjithshme për emërimin e administratorit të ri, përpara datës në të cilën dorëheqja të hyjë në fuqi.
+
+8. Nëse asambleja e përgjithshme nuk vendos emërimin e administratorit të ri në datën e përcaktuar në thirrjen e kryer nga administratori i dorëhequr, atëherë administratori i njofton me shkrim dorëheqjen Qendrës Kombëtare të Regjistrimit, së bashku me kopjen e thirrjes së mbledhjes së asamblesë së përgjithshme dhe Qendra Kombëtare e Regjistrimit regjistron largimin e administratorit, sipas procedurave të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+	9. Dorëheqja e administratorit nuk cenon paditë e shoqërisë për shkelje të detyrimit të besnikërisë që administratori ka ndaj saj, sipas këtij ligji.
 
 Neni 96
 
@@ -1210,19 +1312,33 @@ Neni 99
 
 Shkaqet e prishjes së shoqërisë
 
-Shoqëria me përgjegjësi të kufizuar prishet:
+(Ndryshuar me ligjin nr. 129/2014, datë 2.10.2014)
 
-a) kur mbaron kohëzgjatja e parashikuar në themelimin e saj;
+	1. Shoqëria me përgjegjësi të kufizuar prishet:
 
-b) me vendim të asamblesë së përgjithshme;
+	a) kur mbaron kohëzgjatja, për të cilën është themeluar;
 
-c) me hapjen e procedurave të falimentimit;
+	b) me përfundimin e procedurave të falimentimit apo në rast të pamjaftueshmërisë së pasurive për të mbuluar shpenzimet e procedurës së falimentimit;
 
-ç) nëse nuk ka kryer veprimtari tregtare për dy vjet dhe nuk është njoftuar pezullimi i veprimtarisë në përputhje me pikën 3 të nenit 43 të ligjit nr.9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”; 
+	c) në  rast   se   objekti   bëhet   i   parealizueshëm   për   shkak   të mosfunksionimit të vazhduar të organeve të shoqërisë apo për shkaqe të tjera që e bëjnë absolutisht të pamundur vazhdimin e veprimtarisë tregtare;
 
-d) me vendim të gjykatës;
+	ç) në   rastet  e  pavlefshmërisë   së  themelimit   të shoqërisë,  të   parashikuara nga neni 3/1 i këtij ligj;
 
-dh) për arsye të tjera, të parashikuara në statut.
+	d) në raste të tjera, të parashikuara në statut;
+
+	dh)  në raste të tjera, të parashikuara me ligj;
+
+	e) për çdo shkak tjetër të vendosur nga asambleja e ortakëve.
+
+	2. Prishja e shoqërisë, si pasojë e një apo më shumë prej shkaqeve të përcaktuara në shkronjat “a”, “c”, “d”, “dh” dhe “e”, të pikës 1, të këtij neni, vendoset nga asambleja e ortakëve me shumicën e parashikuar sipas pikës 1, të nenit 87, të këtij ligji.
+
+	3. Në rast mosveprimi të asamblesë së ortakëve për të vendosur prishjen, për shkaqet e përcaktuara në shkronjat “a”, “c”, “d”, dhe “dh”, të    pikës 1, të këtij neni, çdo person i interesuar mund, në çdo kohë, t’i drejtohet gjykatës për të konstatuar prishjen e shoqërisë.
+
+	4. Pavarësisht nga parashikimet e sipërpërmendura, ekzistenca e një a më shumë shkaqeve, të parashikuara nga shkronjat “a”, “c”, “d”, “dh” dhe “e”, të pikës 1, të këtij neni, nuk do të ketë si pasojë prishjen e shoqërisë dhe hapjen e procedurave të likuidimit, nëse përpara vendimit gjyqësor të formës së prerë, të përmendur në pikën 3, të këtij neni, shkaku i prishjes është korrigjuar, nëse është e mundshme të korrigjohet, dhe ky korrigjim është publikuar nga shoqëria në regjistrin tregtar, sipas parashikimeve të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+	5. Prishja e shoqërisë, si pasojë e shkaqeve të parashikuara në shkronjën “b”, të pikës 1, të këtij neni, vendoset nga gjykata kompetente për procedurat e falimentimit, kur, në përfundim të këtyre procedurave, të gjitha pasuritë e shoqërisë janë likuiduar për shlyerjen në mënyrë kolektive të detyrimeve ndaj kreditorëve apo kur gjykata kompetente për procedurat e falimentimit vendos rrëzimin e kërkesës për hapjen e procedurës së falimentimit për shkak të pamjaftueshmërisë së pasurisë së shoqërisë për të mbuluar shpenzimet e procedurës së falimentimit.
+
+6. Prishja e shoqërisë si pasojë e shkaqeve të parashikuara në shkronjën “ç”, të pikës 1, të këtij neni, vendoset nga gjykata kompetente, sipas parashikimeve të nenit 3/1 të këtij ligji.
 
 Neni 100
 
@@ -1316,9 +1432,11 @@ Neni 107
 
 Kapitali minimal
 
-1.  Shoqëria  aksionare  me  ofertë  private  nuk  mund  të  ketë  një  kapital më  të vogël  se  2 000 000 lekë.
+(Ndryshuar pika 1 me ligjin nr. 10475, datë 27.10.2011)
 
- 2. Shoqëria  aksionare  me  ofertë  publike  nuk   mund     të   këtë  një  kapital  më  të  vogël  se  10 000 000 lekë.
+1.  Shoqëria aksionare me ofertë private nuk mund të ketë një kapital më të vogël se 3 500 000 lekë.
+
+2. Shoqëria  aksionare  me  ofertë  publike  nuk   mund     të   këtë  një  kapital  më  të  vogël  se  10 000 000 lekë.
 
 Neni 108
 
@@ -1356,6 +1474,8 @@ Neni 112
 
 Kontributet në natyrë 
 
+(Shtaur pika 6 me ligjin nr. 129/2014, datë 2.10.2014)
+
  1. Kur aksionarët japin kontribute në natyrë, këto kontribute duhet të vlerësohen përpara regjistrimit të shoqërisë nga një apo disa ekspertë të caktuar nga gjykata përkatëse. Këta ekspertë janë persona fizikë apo juridikë, të licencuar sipas dispozitave të posaçme, me kompetenca teknike të nevojshme për kryerjen e këtyre vlerësimeve.
 
  2. Raporti i vlerësimit të ekspertëve duhet të përmbajë një përshkrim të hollësishëm të kontributeve në natyrë, si dhe në të duhet të përcaktohen metodat e vlerësimit që janë zbatuar dhe të shprehet nëse vlera e llogaritur, sipas kësaj metode, i korrespondon të paktën vlerës nominale të aksionit dhe, kur është rasti, edhe primit më të lartë të emetimit të aksionit.
@@ -1366,13 +1486,23 @@ Kontributet në natyrë
 
  5. Dispozitat e mësipërme zbatohen, gjithashtu, edhe kur shoqëria, brenda 2 vjetëve pas themelimit blen pasuri ose të drejta nga një prej themeluesve.
 
+6. Raporti i vlerësimit, i përmendur në paragrafët e mësipërm, nuk është i detyrueshëm në rastet vijuese:
+
+a) shoqëria themelohet në vijim të një bashkimi apo ndarjeje dhe raporti i vlerësimit të ekspertëve, të përcaktuar sipas nenit 217, të këtij ligji, është hartuar;
+
+b) në rastin e një zmadhimi kapitali, të kryer në kuadër të bashkimit apo ndarjes, me qëllim pagimin e aksionarëve të shoqërive që përthithen apo ndahen, dhe nëse raporti i vlerësimit të ekspertëve të përcaktuar sipas nenit 217, të këtij ligji, është hartuar;
+
+c) në rastin e një zmadhimi kapitali, të kryer në kuadrin e një oferte për marrje në kontroll, me objekt blerjen apo shkëmbimin e aksioneve, me qëllim pagimin e aksionarëve të shoqërisë, e cila është objekt i ofertës publike për marrje në kontroll.
+
 Neni 113
 
 Shlyerja dhe kalimi i kontributeve përpara regjistrimit
 
+(Ndryshuar pika 2 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Aksionet e nënshkruara me kontribut në para duhet të shlyhen përpara regjistrimit të shoqërisë, të paktën në një të katërtën e vlerës së tyre nominale. Shumat që mbeten shlyhen në një ose më shumë këste, sipas vendimit të organeve të administrimit të shoqërisë. Vlerat më të larta, sipas pikës 2 të nenit 110 të këtij ligji, duhet të shlyhen plotësisht.
 
-2. Aksionet e nënshkruara me kontribut në natyrë duhet të kalohen tërësisht përpara regjistrimit.
+2. Aksionet e nënshkruara me kontribut në natyrë duhet të paguhen tërësisht përpara regjistrimit, nëpërmjet kalimit në favor të shoqërisë të titullit të pronësisë së kontributit në natyrë. Nëse, sipas ligjit, kërkohet kryerja e formaliteteve të posaçme për regjistrimin e kalimit të titullit të pronësisë të kontributit në natyrë, këto formalitete kryhen nga përfaqësuesit ligjorë të shoqërisë. Kontributi në natyrë do të konsiderohet i paguar në çastin kur aksionari të ketë kryer të gjitha veprimet dhe të ketë nënshkruar të gjitha aktet e kërkuara nga ligji për kalimin e titullit të pronësisë së kontributit në emër të shoqërisë.
 
 3. Themeluesit, të cilët nuk shlyejnë apo kalojnë kontributet e tyre brenda afateve të përcaktuara më sipër, përgjigjen ndaj shoqërisë, në përputhje me përcaktimet e neneve 10 pikat 2 e 3 dhe 124 të këtij ligji. 
 
@@ -1380,9 +1510,11 @@ Neni 114
 
 Dispozitat e posaçme për shoqëritë me aksionar të vetëm
 
+(Ndryshuar pika 2 me ligjin nr. 129/2014, datë 2.10.2014)
+
  1. Nëse përpara regjistrimit të shoqërisë pranë Qendrës Kombëtare të Regjistrimit themeluesi i vetëm nuk ka shlyer apo kaluar tërësisht kontributet e tij në para ose natyrë, atëherë ai duhet garantojë shlyerjen e kontributit, nëpërmjet një garancie bankare, me vlerë të njëjtë me kontributin e nënshkruar me afat vlefshmërie jo më shumë se njëvjeçar e t’ia paraqesë këtë Qendrës Kombëtare të Regjistrimit së bashku me aplikimin për regjistrim. Nëse në përfundim të afatit njëvjeçar të garancisë bankare aksionari nuk i deklaron bankës shlyerjen tërësisht të kontributit të parashikuar në statut, shuma e garancisë bankare kalon automatikisht për llogari të shoqërisë për shlyerjen e kapitalit.
 
- 2. Kur numri i aksionarëve bie në një, aksionari i vetëm duhet t’i njoftojë Qendrës Kombëtare të Regjistrimit zvogëlimin e numrit të aksionarëve, si dhe emrin e tij. Nëse aksionari i vetëm nuk e përmbush këtë detyrim, ai përgjigjet personalisht, në mënyrë të pakufizuar, për detyrimet që shoqëria ndërkohë ka marrë përsipër.
+ 2. Nëse shoqëria mbetet me një aksionar, atëherë aksionari i vetëm detyrohet ta regjistrojë këtë fakt sipas nenit 43, të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar. Nëse aksionari i mbetur nuk e përmbush këtë detyrim, atëherë aksionari përgjigjet personalisht për detyrimet që shoqëria merr përsipër nga data, në të cilën duhet të ishte kryer regjistrimi, sipas këtij neni, deri në datën në të cilën ky regjistrim u krye efektivisht.
 
 Neni 115
 
@@ -1412,6 +1544,8 @@ Neni 117
 
 Mënyrat e fitimit dhe kalimit të aksioneve
 
+(Shtuar pika 3 me ligjin nr. 129/2014, datë 2.10.2014)
+
  1. Aksionet e një shoqërie aksionare dhe të drejtat, që rrjedhin prej tyre, mund të fitohen apo kalohen nëpërmjet:
 
 a) kontributit në kapitalin e shoqërisë, në çastin e formimit të shoqërisë;
@@ -1425,6 +1559,8 @@ c) trashëgimisë;
 d) çdo mënyre tjetër të parashikuar me ligj.
 
 2. Aksionet e të drejtat e fituara si më sipër nuk mund të ushtrohen ndaj asnjë personi apo ndaj shoqërisë, përpara se veprimi të jetë regjistruar në regjistrin e posaçëm të aksioneve, që mban shoqëria, në përputhje me pikën 1 të nenit 119 të këtij ligji. 
+
+3. Në rastet e kalimit të aksioneve me kontratë, kushtet dhe momenti i kalimit të titullit të pronësisë mbi aksionin, si dhe kushtet e tjera të kalimit, përfshi momentin e pagesës së çmimit, rregullohen nga kontrata. Kontrata për kalimin e aksionit hartohet në formë shkresore dhe noterizimi nuk përbën kusht për vlefshmërinë apo regjistrimin e kontratës. Transaksionet në formë elektronike, sipas parashikimeve të ligjit nr. 9879, datë 21.2.2008, “Për titujt”, konsiderohen të kryera në formë shkresore në përputhje me parashikimet e këtij neni. Me përjashtim të rasteve kur parashikohet shprehimisht ndryshe nga ligji apo kur palët bien dakord në kontratë, vlefshmëria e kalimit të titullit të pronësisë mbi aksionet nuk do të kushtëzohet nga kryerja e formaliteteve të ndryshme me efekt deklarativ, përfshi këtu formalitetet e regjistrimit a publikimit të kontratës apo të kalimit të titullit.
 
 Neni 118
 
@@ -1572,6 +1708,8 @@ Neni 133
 
 Ndalimi i nënshkrimit e blerjes së aksioneve
 
+                        (Shtuar pika 6 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Shoqëria nuk mund të nënshkruajë aksionet e veta. Blerja e aksioneve të veta nga shoqëria lejohet vetëm në rastet e parashikuara nga ky ligj. 
 
 2. Një shoqëri e kontrolluar nuk mund të nënshkruajë ose të blejë aksionet e shoqërisë mëmë.
@@ -1581,6 +1719,8 @@ Ndalimi i nënshkrimit e blerjes së aksioneve
 4. Aksionet e fituara, sipas pikës 1 të këtij neni, brenda një viti nga data e fitimit, duhet të shiten nga shoqëria ose të anulohen, sipas nenit 186 të këtij ligji dhe çregjistrohen nga regjistri i aksioneve. 
 
 5. Shoqëria nuk mund të ushtrojë, për aksionet e veta, të drejtat që sipas ligjit rrjedhin nga zotërimi i tyre. 
+
+6. Aksionet e një shoqërie që zotërohen nga një shoqëri tjetër, e cila, në momentin e fitimit të tyre, nuk ishte, por bëhet në vijim shoqëri e kontrolluar, duhet që, në mënyrë alternative, të shiten nga shoqëria e kontrolluar apo të anulohen nga shoqëria mëmë, brenda një viti nga data në të cilën është krijuar mes tyre marrëdhënia shoqëri mëmë - shoqëri e kontrolluar sipas këtij ligji.
 
 TITULLI IV
 
@@ -1744,11 +1884,13 @@ Neni 140
 
 Përfaqësimi në asamble
 
+(Ndryshuar pika 3 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Një aksionar mund të përfaqësohet në asamblenë e përgjithshme, në bazë të një autorizimi nga një aksionar tjetër apo nga një person i tretë.
 
 2. Administratorët dhe anëtarët e këshillit të administrimit apo të këshillit mbikëqyrës nuk mund të veprojnë si përfaqësues të aksionarëve në asamblenë e përgjithshme. 
 
-3. Autorizimi mund të jepet vetëm për një mbledhje të asamblesë së përgjithshme, e cila përfshin edhe mbledhjet vijuese me të njëjtin rend dite.
+3. Autorizimi jepet në formë shkresore vetëm për një mbledhje të asamblesë së përgjithshme dhe është i vlefshëm edhe për mbledhjet vijuese me të njëjtin rend dite.
 
 4. Përfaqësuesi i autorizuar është i detyruar të deklarojë çdo fakt apo rrethanë, të tillë që, sipas gjykimit të aksionarit të përfaqësuar, rrezikon të ndikojë në vendimmarrjen e përfaqësuesit për interesa të tjerë të ndryshëm nga ata të aksionarit përfaqësuar.
 
@@ -1874,9 +2016,11 @@ Neni 151
 
 Shfuqizimi i vendimeve të parregullta dhe dëmshpërblimi
 
-1. Asambleja e përgjithshme ka të drejtë t’i kërkojë gjykatës kompetente shfuqizimin e vendimeve të administratorëve e, sipas rastit, të këshillit të administrimit apo këshillit mbikëqyrës, kur këto vlerësohen si shkelje të rënda të ligjit ose të statutit. 
+(Ndryshuar pikat 1 dhe 2 me ligjin nr. 129/2014, datë 2.10.2014)
 
-2. Aksionarët, që përfaqësojnë të paktën 5 për qind të totalit të votave në asamblenë e shoqërisë apo një vlerë më të vogël, të parashikuar në statut dhe/ose kreditorët e shoqërisë, të cilët pretendojnë se shoqëria ka ndaj tyre detyrime në një vlerë jo më të vogël se 5 për qind të kapitalit të regjistruar, mund t’i kërkojnë asamblesë së përgjithshme ngritjen e padisë si më sipër. Aksionarët apo kreditorët e shoqërisë, të përcaktuar me sipër, brenda 30 ditëve pas refuzimit nga asambleja për ngritjen e padisë, kanë të drejtë të ngrenë padi drejtpërdrejt përpara gjykatës përkatëse për shfuqizimin e vendimit të administratorëve. Nëse asambleja e përgjithshme nuk merr një vendim brenda 60 ditëve nga data e kërkesës, kërkesa e aksionarëve apo e kreditorëve vlerësohet e refuzuar.
+        1. Asambleja e përgjithshme, në bazë të një vendimi të marrë me shumicën e përcaktuar sipas pikës 2, të nenit 145, të këtij ligji, ka të drejtë të ngrejë padi përpara gjykatës kompetente për shfuqizimin e vendimeve të administratorëve e, sipas rastit, të këshillit të administrimit apo këshillit mbikëqyrës dhe/ose për ngritjen e padive të tjera, që parashikon ky ligj ose statuti ndaj administratorëve apo anëtarëve të këshillit të administrimit a këshillit mbikëqyrës.
+
+2. Aksionarët, të cilët përfaqësojnë të paktën 5 për qind të totalit të votave në asamblenë e shoqërisë ose një vlerë më të vogël, të parashikuar në statut, dhe/ose kreditorët e shoqërisë, të cilët pretendojnë se shoqëria ka ndaj tyre detyrime në një vlerë jo më të vogël se 5 për qind të kapitalit, mund t’i kërkojnë asamblesë së përgjithshme ngritjen e padisë për shfuqizimin e vendimeve të administratorëve ose anëtarëve të këshillit të administrimit apo këshillit mbikëqyrës. Aksionarët apo kreditorët e shoqërisë së përcaktuar më sipër, brenda 30 ditëve pas refuzimit nga asambleja për ngritjen e padisë, kanë të drejtë të ngrenë drejtpërdrejt përpara gjykatës kompetente padi në emër të shoqërisë për shfuqizimin e vendimit të administratorëve. Nëse asambleja e përgjithshme nuk merr një vendim, brenda 60 ditëve nga data e kërkesës, kërkesa e ortakëve apo kreditorëve të përcaktuar më sipër vlerësohet e refuzuar.
 
 3. Në varësi të organit të përcaktuar në pikën 1 të këtij neni, vendimi i të cilit paditet për shfuqizim, asambleja e përgjithshme merr pjesë në gjykim me anë të administratorëve, me anë të këshillit të administrimit apo këshillit mbikëqyrës. Shoqëria mund të marrë pjesë në gjykim edhe nëpërmjet një përfaqësuesi të posaçëm, të caktuar nga asambleja e përgjithshme.
 
@@ -1974,7 +2118,9 @@ c) është administrator i një shoqërie tjetër, e cila ka si administrator os
 
 Neni 157
 
-Shkarkimi
+Shkarkimi dhe dorëheqja 
+
+(Ndryshuar titulli, shtuar pikat 4, 5, 6 me ligjin nr. 129/2014, datë 2.10.2014)
 
 1. Asambleja e përgjithshme mund të shkarkojë, në çdo kohë, një anëtar të këshillit të administrimit, me shumicë të thjeshtë votash. Kjo e drejtë nuk mund të përjashtohet nga statuti apo me marrëveshje. Paditë, që lidhen me shpërblimin e anëtarit, në bazë të marrëdhënieve kontraktore me shoqërinë, rregullohen sipas dispozitave ligjore në fuqi.
 
@@ -1982,11 +2128,19 @@ Shkarkimi
 
 3. Këshilli i administrimit, me shumicë të thjeshtë votash, mund t’i kërkojë gjykatës përkatëse të shkarkojë një anëtar, nëse ai ka shkelur detyrat e parashikuara në pikën 3 të nenit 163 të këtij ligji.
 
+4. Anëtari i këshillit të administrimit mund të heqë dorë në çdo kohë nga detyra e tij, nëpërmjet një njoftimi me shkrim drejtuar asamblesë së përgjithshme. Anëtari i këshillit të administrimit që jep dorëheqjen, duke pasur parasysh rrethanat e veprimtarisë së shoqërisë, është gjithashtu i detyruar të thërrasë asamblenë e përgjithshme për emërimin e anëtarit të ri të këtij këshilli, përpara datës kur dorëheqja të hyjë në fuqi.
+
+5. Nëse asambleja e përgjithshme nuk vendos emërimin e anëtarit të ri të këshillit të administrimit në datën e përcaktuar në thirrjen e kryer nga anëtari i dorëhequr, atëherë administratori apo, në mungesë apo mosveprim të tij, anëtari i dorëhequr, i njofton me shkrim dorëheqjen Qendrës Kombëtare të Regjistrimit, së bashku me kopjen e thirrjes së mbledhjes së asamblesë së përgjithshme, dhe Qendra Kombëtare të Regjistrimit regjistron largimin e anëtarit të këshillit të administrimit, sipas procedurave të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+6. Dorëheqja e anëtarit të këshillit të administrimit nuk cenon paditë e shoqërisë për shkelje të detyrimit të besnikërisë që anëtari ka ndaj saj, sipas këtij ligji.
+
 Neni 158
 
 Administratorët
 
-1. Këshilli i administrimit emëron një ose më shumë persona fizikë si administratorë të shoqërisë, për një afat të përcaktuar në statut, i cili nuk mund të jetë më i gjatë se 3 vjet. Administratorët e shoqërisë mund të rizgjidhen. Anëtarët e këshillit të administrimit mund ta kryejnë detyrën e administratorit për sa kohë shumica e anëtarëve të këshillit të administrimit janë anëtarë të pavarur, që nuk kryejnë këtë detyrë. Emërimi prodhon pasoja pas regjistrimit në Qendrën Kombëtare të Regjistrimit dhe të drejtat e të tretëve mbrohen sipas nenit 12 të këtij ligji. Statuti mund të vendosë rregulla të posaçme për emërimin.
+(Ndryshuar fjalia e katërt e pikës 1, shtuar pikat 8, 9, 10, 11 me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Këshilli i administrimit emëron një ose më shumë persona fizikë si administratorë të shoqërisë, për një afat të përcaktuar në statut, i cili nuk mund të jetë më i gjatë se 3 vjet. Administratorët e shoqërisë mund të rizgjidhen. Anëtarët e këshillit të administrimit mund ta kryejnë detyrën e administratorit për sa kohë shumica e anëtarëve të këshillit të administrimit janë anëtarë të pavarur, që nuk kryejnë këtë detyrë. Emërimi i administratorëve hyn në fuqi në datën e përcaktuar sipas aktit të emërimit. Emërimi mund t’u kundrejtohet palëve të treta, sipas parimeve të nenit 12 të këtij ligji. Statuti mund të vendosë rregulla të posaçme për emërimin.
 
 2. Administratori i një shoqërie mëmë nuk mund të zgjidhet si administrator i një shoqërie të kontrolluar dhe anasjelltas. Administratori i një shoqërie mëmë nuk mund të jetë kryetar i këshillit të administrimit të një shoqërie të kontrolluar dhe administratori i një shoqërie të kontrolluar nuk mund të jetë kryetar i këshillit të administrimit të shoqërisë mëmë. Çdo emërim i bërë në kundërshtim me këto dispozita është absolutisht i pavlefshëm. Të drejtat e të tretëve mbrohen sipas nenit 12 të këtij ligji.
 
@@ -2015,6 +2169,14 @@ e) të raportojnë përpara këshillit të administrimit për zbatimin e politik
 6. Nëse shoqëria emëron më shumë se një administrator, ata e administrojnë shoqërinë në mënyrë të përbashkët. Statuti ose rregulloret, të miratuara nga këshilli i administrimit, mund të parashikojnë ndryshe. 
 
 7. Këshilli i administrimit mund t’i shkarkojë administratorët në çdo kohë. Paditë, që lidhen me shpërblimin e anëtarit, në bazë të marrëdhënieve kontraktore me shoqërinë, rregullohen sipas dispozitave ligjore në fuqi.
+
+8. Administratori, i cili nuk është anëtar i këshillit të administrimit, mund të heqë dorë në çdo kohë nga detyra e tij, nëpërmjet një njoftimi me shkrim drejtuar këtij këshilli. Administratori, duke pasur parasysh rrethanat e veprimtarisë së shoqërisë, duhet të përcaktojë në njoftimin e shkruar datën në të cilën dorëheqja hyn në fuqi.
+
+	9. Nëse këshilli i administrimit nuk vendos emërimin e administratorit të ri përpara datës, në të cilën dorëheqja hyn në fuqi, atëherë administratori i njofton me shkrim dorëheqjen Qendrës Kombëtare të Regjistrimit, e cila regjistron largimin e administratorit, sipas procedurave të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+	10. Dorëheqja e administratorit nuk cenon paditë e shoqërisë për shkelje të detyrimeve të besnikërisë që administratori ka ndaj saj, sipas këtij ligji.
+
+            11. Në rastet kur administratori është njëkohësisht anëtar i këshillit të administrimit apo kur, sipas pikës 2, të nenit 167, administratori emërohet nga asambleja e përgjithshme, dispozitat e mësipërme të këtij neni, në lidhje me dorëheqjen e administratorit, nuk zbatohen dhe dorëheqja kryhet sipas pikave 4, 5 dhe 6, të neni 157, të këtij ligji.
 
 Neni 159
 
@@ -2176,9 +2338,11 @@ Neni 169
 
 Regjistrimi dhe publikimi i rritjes së kapitalit
 
+(Ndryshuar togfjalësh në pikën 2 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Administratorët detyrohen të njoftojnë për regjistrim pranë Qendrës Kombëtare të Regjistrimit vendimin për zmadhimin e kapitalit, në përputhje me nenin 43 të ligjit nr.9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”. Vendimi publikohet edhe në faqen e internetit të shoqërisë tregtare.
 
-2. Aplikimi për regjistrimin e vendimit të përmendur në pikën 1 të këtij neni shoqërohet me raportin e ekspertit të autorizuar, ku verifikohet vlera e kontributeve në natyrë, sipas nenit 113 të këtij ligji.
+2. Aplikimi për regjistrimin e vendimit të përmendur në pikën 1 të këtij neni shoqërohet me raportin e ekspertit të autorizuar, ku verifikohet vlera e kontributeve në natyrë, sipas nenit 112 të këtij ligji.
 
 3. Pas realizimit të zmadhimit të kapitalit, administratorët i njoftojnë Qendrës Kombëtare të Regjistrimit realizimin e këtij veprimi. Informacioni shoqërues duhet të përfshijë listën e personave, që kanë nënshkruar aksionet, së bashku me shumat e paguara. Kjo listë nënshkruhet nga administratorët. 
 
@@ -2230,9 +2394,11 @@ Neni 175
 
 Kushtet për zmadhimin e kufizuar të kapitalit
 
-1. Asambleja e përgjithshme mund të vendosë që zmadhimi i kapitalit të kryhet me emetim të aksioneve të reja, për t’u nënshkruar vetëm nga aksionarët ekzistues.
+(Ndryshuar me ligjin nr. 129/2014, datë 2.10.2014)
 
-2. Zmadhimi i kufizuar i kapitalit mund të kryhet vetëm me miratimin unanim të të gjithë aksionarëve.
+	1. Asambleja e përgjithshme mund të vendosë që zmadhimi i kapitalit të kryhet me emetim të aksioneve të reja, të cilat mund t’u ofrohen për nënshkrim vetëm aksionarëve ekzistues, në përpjesëtim me aksionet e zotëruara prej tyre përpara rritjes së kapitalit apo duke rritur vlerën nominale të secilit aksion.
+
+	2. Me përjashtim të rastit kur rritja e vlerës nominale të secilit aksion vendoset të realizohet me përfshirjen e aktiveve të shoqërisë, sipas nenit 177, të këtij ligji, zmadhimi i kufizuar i kapitalit, në rastet e parashikuara sipas pikës 1, të këtij neni, mund të kryhet vetëm me miratimin unanim të të gjithë aksionarëve. 
 
 KREU IV
 
@@ -2242,7 +2408,9 @@ Neni 176
 
 Kushtet për zmadhimin e autorizuar të kapitalit
 
-1. Statuti ose një vendim i asamblesë së përgjithshme për ndryshime në statut mund t’u japë administratorëve të drejtën për të kryer, brenda një afati 5-vjeçar nga regjistrimi i shoqërisë, zmadhim të kapitalit me emetim të aksioneve të reja, për një vlerë maksimale të përcaktuar (kapital i autorizuar). Vlera e zmadhimeve të autorizuara nuk mund të jetë më e madhe se gjysma e kapitalit të regjistruar të shoqërisë në datën në të cilën merret vendimi për zmadhimin e autorizuar.
+(Ndryshuar pika 1 me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Statuti ose një vendim i asamblesë së përgjithshme për ndryshime në statut mund t’u japë administratorëve të drejtën për të kryer një apo disa herë, brenda një afati 5-vjeçar, përkatësisht, nga regjistrimi i shoqërisë apo nga vendimi i asamblesë, zmadhim të kapitalit me emetim të aksioneve të reja, për një vlerë maksimale të përcaktuar (kapital i autorizuar).
 
 2. Në statut mund të parashikohen kushte të tjera e, në veçanti, kushti që nëse administratorët vënë në zbatim autorizimin e zmadhimit, të gjitha ose disa nga aksionet e emetuara mund ose duhet t’u jepen punëmarrësve të shoqërisë apo punëmarrësve të shoqërive të tjera, pjesë të një grupi. 
 
@@ -2384,21 +2552,37 @@ Neni 187
 
 Shkaqet e prishjes së shoqërisë
 
+(Shtuar shkronja “e” e pikës 1 me ligjin nr. 10475, datë 27.10.2011; nr. 129/2014, datë 2.10.2014)
+
 1. Shoqëria aksionare prishet:
 
-a) kur mbaron kohëzgjatja, për të cilën është themeluar;
+a)  kur mbaron kohëzgjatja, për të cilën është themeluar;
 
-b) me vendim të asamblesë së përgjithshme;
+b) me përfundimin e procedurave të falimentimit apo në rast të pamjaftueshmërisë së pasurive për të mbuluar shpenzimet e procedurës së falimentimit;
 
-c) me hapjen e procedurave të falimentimit;
+c) në rast se objekti bëhet i parealizueshëm për shkak të mosfunksionimit të vazhduar të organeve të shoqërisë apo për shkaqe të tjera që e bëjnë absolutisht të pamundur vazhdimin e veprimtarisë tregtare;
 
-ç) nëse nuk ka kryer veprimtari tregtare për dy vjet dhe nuk është njoftuar pezullimi i veprimtarisë, në përputhje me pikën 3 të nenit 43 të ligjit nr. 9723, datë 3.5.2007 “Për Qendrën Kombëtare të Regjistrimit”; 
+ç) në rastet e pavlefshmërisë së themelimit të shoqërisë, të parashikuara nga neni 3/1 i këtij ligji;
 
-d) me vendim gjykate;
+d) kur, si pasojë e humbjeve ushtrimore, kapitalet e veta të shoqërisë janë në vlerë më të ulët se vlera minimale e kapitalit të regjistruar, të përcaktuar sipas nenit 107, të këtij ligji, apo kur vendoset zvogëlimi i kapitalit të regjistruar të shoqërisë nën këtë vlerë minimale dhe hyrja në fuqi e këtij zvogëlimi nuk kushtëzohet me realizimin e një zmadhimi vijues, nëpërmjet të cilit shoqëria të rikapitalizohet me kontribute të reja me vlerë, të paktën, sa vlera e nevojshme për të arritur kapitalin minimal të përcaktuar sipas atij neni;
 
-dh) për arsye të tjera të parashikuara në statut.
+e) kur kapitali i shoqërisë aksionare bie nën minimumin ligjor të kërkuar nga neni 107 i këtij ligji.
 
-2. Zotërimi i të gjitha aksioneve në një dorë të vetme nuk ka si pasojë prishjen e shoqërisë. Në këtë rast janë të zbatueshme dispozitat e pikës 2 të nenit 114 të këtij ligji.
+dh)  në raste të tjera, të parashikuara në statut;
+
+e)  në raste të tjera, të parashikuara me ligj;
+
+ë)  për çdo shkak tjetër të vendosur nga asambleja e aksionarëve.
+
+2. Prishja e shoqërisë si pasojë e një apo më shumë prej shkaqeve të përcaktuara në përputhje me shkronjat “a”, “c”, “d”, “dh”, “e” dhe “ë”, të pikës 1, të këtij neni, vendoset nga asambleja e aksionarëve me shumicën e parashikuar sipas pikës 1, të nenit 145, të këtij ligji.
+
+3. Në rast mosveprimi të asamblesë së aksionarëve për të vendosur prishjen, sipas rasteve të parashikuara nga shkronjat “a”, “c”, “d”, “dh” dhe “e”, të pikës 1, të këtij neni, çdo person i interesuar mund t’i drejtohet gjykatës, në çdo kohë, për të konstatuar prishjen e shoqërisë.
+
+4. Pavarësisht nga parashikimet e sipërpërmendura, ekzistenca e një a më shumë shkaqeve të parashikuara  nga shkronjat “a”, “c”, “d”, “dh” dhe “e”, të pikës 1, të këtij neni, nuk do të ketë si pasojë prishjen e shoqërisë dhe hapjen e procedurave të likuidimit, nëse përpara vendimit gjyqësor të formës së prerë, të përmendur në pikën 3, të këtij neni, shkaku i prishjes është korrigjuar, nëse është e mundshme të korrigjohet, dhe ky korrigjim është publikuar nga shoqëria në regjistrin tregtar, sipas parashikimeve të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+5. Prishja e shoqërisë, si pasojë e shkaqeve të parashikuara në shkronjën “b”, të pikës 1, të këtij neni, vendoset nga gjykata kompetente për procedurat e falimentimit, kur, në përfundim të këtyre procedurave, të gjitha pasuritë e shoqërisë janë likuiduar për shlyerjen në mënyrë kolektive të detyrimeve ndaj kreditorëve apo kur gjykata kompetente për procedurat e falimentimit vendos rrëzimin e kërkesës për hapjen e procedurës së falimentimit për shkak të  pamjaftueshmërisë së pasurisë së shoqërisë për të mbuluar shpenzimet e procedurës së falimentimit.
+
+	6. Prishja e shoqërisë, si pasojë e shkaqeve të parashikuara në shkronjën “ç”, të pikës 1, të këtij neni, vendoset nga gjykata kompetente, sipas parashikimeve të nenit 3/1 të këtij ligji.
 
 Neni 188
 
@@ -2426,7 +2610,9 @@ Neni 190
 
 Dispozita të përgjithshme
 
-1. Prishja e shoqërive tregtare ka si pasojë hapjen e procedurave të likuidimit në gjendjen e aftësisë paguese, me përjashtim të rasteve kur është nisur një procedurë falimentimi.
+(Ndryshuar pika 1 me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Me përjashtim të rasteve kur ky ligj parashikon ndryshe, prishja e shoqërive tregtare ka si pasojë hapjen e procedurave të likuidimit në gjendjen e aftësisë paguese. Nëse shoqëria është në gjendjen e paaftësisë paguese, ajo prishet në bazë të vendimeve të përcaktuara nga pika 5 e nenit 43, pika 5 e nenit 99, dhe pika 5 e nenit 187, të këtij ligji, dhe çregjistrohet nga regjistri tregtar, sipas nenit 51, të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar, pa iu nënshtruar procedurave të likuidimit në gjendjen e aftësisë paguese.
 
 2. Me përjashtim të rasteve kur parashikohet ndryshe në këtë titull, dispozitat e zbatueshme për shoqëritë, që nuk janë prishur, zbatohen edhe për shoqëritë në likuidim e sipër. 
 
@@ -2488,11 +2674,13 @@ Neni 197
 
 Të drejtat e detyrimet e likuiduesit
 
+(Ndryshuar togfjalësh në pikën 3 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Detyra e likuiduesve është mbyllja e të gjitha veprimeve të shoqërisë, mbledhja e kredive të paarkëtuara dhe e kontributeve të pashlyera, shitja e pasurive të shoqërisë dhe shlyerja e kreditorëve duke respektuar radhën e referimit, sipas nenit 605 të Kodit Civil. 
 
 2. Likuiduesi mund të kryejë edhe veprime të reja tregtare, për mbylljen e një veprimi të papërfunduar. 
 
-3. Nëse, në bazë të padive të ngritura nga kreditorët, sipas nenit 194 të këtij ligji, likuiduesit vërejnë se pasuria e shoqërisë tregtare, përfshirë kontributet e pashlyera, nuk është e mjaftueshme për pagesën e këtyre pretendimeve, likuiduesit detyrohen ta pezullojnë procedurën e likuidimit e t’i kërkojnë gjykatës përkatëse nisjen e procedurave të falimentimit.
+3. Nëse, në bazë të pretendimeve të ngritura nga kreditorët, sipas nenit 195 të këtij ligji, likuiduesit vërejnë se pasuria e shoqërisë tregtare, përfshirë kontributet e pashlyera, nuk është e mjaftueshme për pagesën e këtyre pretendimeve, likuiduesit detyrohen ta pezullojnë procedurën e likuidimit e t’i kërkojnë gjykatës përkatëse nisjen e procedurave të falimentimit.
 
 4. Në shoqërinë kolektive e komandite, ortakët përgjigjen për detyrimet e shoqërisë, në përputhje me përgjegjësitë, që ky ligj i cakton secilit, për mbulimin e humbjeve. Nëse një ortak nuk shlyen pjesën e humbjeve që i takon, atëherë ortakët e tjerë detyrohen të paguajnë pjesën e tij në raport me pjesët që secili zotëronte në shoqëri. Ortakët, që kanë shlyer pjesën e ortakut mospërmbushës, kanë ndaj tij të drejtën e regresit. 
 
@@ -2506,7 +2694,9 @@ Neni 199
 
 Mbrojtja e kreditorëve
 
-1. Likuiduesit nuk mund të shpërndajnë aktivet e mbetura përpara përfundimit të afatit 3-mujor nga publikimi i thirrjes së dytë, drejtuar kreditorëve, për të depozituar pretendimet e tyre.
+(Ndryshuar pika 1 me ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Likuiduesi nuk mund të shpërndajë aktivet e mbetura të shoqërisë përpara përfundimit të afatit të depozitimit të pretendimeve të kreditorëve, të përcaktuar sipas nenit 195 të këtij ligji.
 
 2. Nëse një kreditor i shoqërisë, për të cilin likuiduesi është në dijeni, nuk kërkon të drejtat e veta, shumat përkatëse depozitohen pranë gjykatës, ndërsa mallrat depozitohen në një magazinë me shpenzimet e kreditorit. Rregullat e përgjithshme për kontratën e depozitës janë të zbatueshme. 
 
@@ -2544,9 +2734,11 @@ Neni 203
 
 Përgjegjësia e likuiduesit
 
+(Ndryshuar togfjalësh në fjalinë e fundit të pikës 2 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Veprimtaria e likuiduesit nuk mund të kundërshtohet pas çregjistrimit të shoqërisë nga Qendra Kombëtare e Regjistrimit.
 
-2. Likuiduesit përgjigjen ndaj kreditorëve për dëmet e shkaktuara gjatë procedurës së likuidimit, në përputhje me dispozitat që rregullojnë përgjegjësinë e administratorëve. Nëse ka disa likuidues, ata përgjigjen në mënyrë solidare. Krahas likuiduesve, ortakët e shoqërisë me përgjegjësi të kufizuar dhe aksionarët përgjigjen ndaj kreditorëve të shoqërisë në mënyrë solidare deri në vlerën që u është shpërndarë. Kreditorët, të cilët nuk kanë depozituar pretendimet e tyre në afat, sipas nenit 194 të këtij ligji, apo kreditorët, për të cilët likuiduesi nuk ka qenë dhe nuk mund të kishte qenë në dijeni, nuk kanë të drejtë të ngrenë padi, sipas fjalisë së parë dhe të dytë të kësaj pike. 
+2. Likuiduesit përgjigjen ndaj kreditorëve për dëmet e shkaktuara gjatë procedurës së likuidimit, në përputhje me dispozitat që rregullojnë përgjegjësinë e administratorëve. Nëse ka disa likuidues, ata përgjigjen në mënyrë solidare. Krahas likuiduesve, ortakët e shoqërisë me përgjegjësi të kufizuar dhe aksionarët përgjigjen ndaj kreditorëve të shoqërisë në mënyrë solidare deri në vlerën që u është shpërndarë. Kreditorët, të cilët nuk kanë depozituar pretendimet e tyre në afat, sipas nenit 195 të këtij ligji, apo kreditorët, për të cilët likuiduesi nuk ka qenë dhe nuk mund të kishte qenë në dijeni, nuk kanë të drejtë të ngrenë padi, sipas fjalisë së parë dhe të dytë të kësaj pike. 
 
 3. Paditë e përmendura në pikën 2 të këtij neni duhet të ngrihen brenda 3 viteve pas çregjistrimit të shoqërisë nga Qendra Kombëtare e Regjistrimit.
 
@@ -2568,9 +2760,11 @@ Kushtet dhe procedura
 
 Neni 205
 
-Fshirja pas likuidimit të shkurtuar
+Çregjistrimi pas likuidimit të thjeshtëzuar
 
-Dispozitat e parashikuara në nenin 202 të këtij ligji zbatohen edhe në rastin e përfundimit të likuidimit të thjeshtëzuar.
+(Ndryshuar me ligjin nr. 129/2014, datë 2.10.2014)
+
+Pas shpërndarjes së aktiveve të mbetura në vijim të procedurës së likuidimit të thjeshtëzuar, administratori njofton Qendrën Kombëtare të Regjistrimit për përfundimin e likuidimit dhe kërkon çregjistrimin e shoqërisë, në përputhje me nenin 49, të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
 
 PJESA VII
 
@@ -2706,33 +2900,43 @@ Neni 216
 
 Marrëveshja dhe raporti i bashkimit
 
+(Ndryshuar me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Përfaqësuesit ligjorë të shoqërive, të cilat marrin pjesë në bashkim, hartojnë një projektmarrëveshje me shkrim, ku përcaktohen të paktën:
 
-a) emrat e regjistruar dhe selitë e shoqërive, që marrin pjesë në bashkim;
+a) forma, emrat e regjistruar dhe selitë e shoqërive që marrin pjesë në bashkim;
 
-b) pranimi i palëve për kalimin e pasurive të secilës shoqëri që përthithet, në këmbim të aksioneve apo kuotave të shoqërisë përthithëse;
+b) raporti i këmbimit të kuotave apo aksioneve dhe çdo shumë e pagueshme në para;
 
-c) raporti i këmbimit të aksioneve apo kuotave dhe çdo shumë e pagueshme në para;
+c) kushtet e ndarjes së kuotave apo aksioneve të shoqërisë përthithëse;
 
-ç) kushtet e ndarjes së aksioneve apo kuotave në shoqërinë përthithëse;
+ç) data, duke nisur nga e cila zotëruesit e këtyre kuotave apo aksioneve kanë të drejtë të marrin pjesë në ndarjen e fitimit, si dhe çdo kusht i posaçëm që ndikon në ushtrimin e kësaj të drejte;
 
-d) të drejtat, që rrjedhin nga aksionet e shoqërisë përthithëse;
+d) data, duke nisur nga e cila veprimet e shoqërisë që përthithet do të trajtohen nga pikëpamja kontabël si veprime të shoqërisë përthithëse;
 
-dh) të drejtat, që shoqëria përthithëse u njeh zotëruesve të aksioneve, kuotave apo të drejtave të veçanta të shoqërive të përthithura apo çdo mase tjetër në favor të tyre;
+dh) të drejtat që shoqëria përthithëse u njeh zotëruesve të kuotave, aksioneve, të drejtat e veçanta apo titujt e ndryshëm nga aksionet e shoqërive të përthithura apo çdo masë tjetër e parashikuar në lidhje me ta;
 
 e) përparësitë e veçanta, që u jepen administratorëve, anëtarëve të këshillit të administrimit, këshillit mbikëqyrës apo ekspertëve kontabël të autorizuar;
 
 ë) pasojat që bashkimi do të ketë ndaj punëmarrësve e përfaqësuesve të tyre, si dhe masat e propozuara për to.
 
-2. Përfaqësuesit ligjorë të secilës prej shoqërive, që marrin pjesë në bashkim, hartojnë një raport të hollësishëm, ku shpjegohet marrëveshja e bashkimit dhe përshkruhen bazat ligjore dhe ekonomike për të e, në veçanti, raporti i këmbimit të aksioneve, kuotave apo të drejtave të veçanta. Në raport përshkruhen edhe vështirësitë e veçanta të vlerësimit, të cilat janë hasur. Raporti duhet të përshkruajë edhe pasojat e këtij bashkimi mbi punëmarrësit e shoqërive pjesëmarrëse.
+	2. Përfaqësuesit ligjorë të secilës prej shoqërive, që marrin pjesë në bashkim, hartojnë një raport të hollësishëm, ku shpjegohet marrëveshja e bashkimit dhe përshkruhen bazat ligjore dhe ekonomike për të e, në veçanti, raporti i këmbimit të aksioneve, kuotave apo të drejtave të veçanta. Në raport përshkruhen edhe vështirësitë e veçanta të vlerësimit, të cilat janë hasur. Raporti duhet të përshkruajë edhe pasojat e këtij bashkimi mbi punëmarrësit e shoqërive pjesëmarrëse.
 
-3. Çdo shoqëri, që merr pjesë në bashkim, jo më vonë se 1 muaj përpara datës së caktuar për mbledhjen e asamblesë, për vendimin e përcaktuar në nenin 218 të këtij ligji, depoziton pranë Qendrës Kombëtare të Regjistrimit dhe publikon në faqen e internetit të shoqërisë, nëse ka, projektmarrëveshjen dhe raportin e bashkimit, sipas pikës 2 të këtij neni, ndërsa pasqyrat financiare vjetore, raportet e ecurisë së veprimtarisë e dokumentet publikohen, në mënyrë të detyrueshme, për të paktën tri vitet e fundit.
+	3. Çdo shoqëri, që merr pjesë në bashkim, jo më vonë se 1 muaj përpara datës së caktuar për mbledhjen e asamblesë, për vendimin e përcaktuar në nenin 218 të këtij ligji, depoziton pranë Qendrës Kombëtare të Regjistrimit dhe publikon në faqen e internetit të shoqërisë, nëse ka, projekt-marrëveshjen dhe raportin e bashkimit, sipas pikës 2 të këtij neni. Pasqyrat financiare vjetore, raportet e ecurisë së veprimtarisë e dokumentet publikohen në mënyrë të detyrueshme për të paktën tri vitet e fundit.
 
-4. Shoqëritë që përmbushin kërkesën e pikës 3 të nenit 214 të këtij ligji, por që kanë qenë të regjistruara për më pak se tre vjet, paraqesin dokumentacionin, sipas pikës 3 të këtij neni, vetëm për vitet që kanë qenë të regjistruara.
+4. Shoqëritë, që përmbushin kërkesën e pikës 3, të nenit 214, të këtij ligji, por që kanë qenë të regjistruara për më pak se tre vjet, paraqesin dokumentacionin sipas pikës 3, të këtij neni, vetëm për vitet që kanë qenë të regjistruara.
+
+5. Nëse viti i fundit ushtrimor, të cilit i referohen pasqyrat financiare, të përmendura në pikat 3 ose 4, të këtij neni, është mbyllur në një datë e cila është më e hershme se gjashtë muaj përpara datës së hartimit të projektmarrëveshjes së bashkimit, atëherë, me përjashtim të rastit kur sipas ligjit nr. 9879, datë 21.2.2008, “Për titujt”, shoqëria ka hartuar dhe u ka vënë në dispozicion aksionarëve raporte financiare gjashtëmujore, shoqëria harton gjithashtu pasqyra kontabël për gjendjen e shoqërisë në një datë, e cila nuk duhet të jetë më e hershme se dita e parë e muajit të tretë përpara datës së hartimit të projektmarrëveshjes së bashkimit dhe i publikon ato sipas pikës 3 të këtij neni.
+
+6. Përfaqësuesit ligjorë të secilës shoqëri pjesëmarrëse në bashkim duhet të njoftojnë asamblenë e përgjithshme të shoqërisë së tyre, si dhe organet e administrimit të shoqërive të tjera që marrin pjesë në bashkim, më qëllim njoftimin e asambleve të përgjithshme të shoqërive përkatëse në lidhje me çdo ndryshim thelbësor në aktivet dhe pasivet e shoqërisë, nga data në të cilën është hartuar projektmarrëveshja e bashkimit, deri në datat e caktuara për mbledhjet e asambleve të përgjithshme që do të vendosin mbi miratimin e projektmarrëveshjes së bashkimit.
+
+7. Detyrimi për hartimin e raportit të për-mendur në pikën 2, të  pasqyrave kontabël të përmendura në pikën 5, si dhe të njoftimit sipas pikës 6, të këtij neni, mund të përjashtohet me miratimin e të gjithë ortakëve/aksionarëve me të drejtë vote të shoqërive pjesëmarrëse në bashkim.
 
 Neni 217
 
 Raporti i ekspertëve
+
+(Shtuar shkronja ‘’ç’’ e pikës 2 me ligjin nr. 129/2014, datë 2.10.2014)
 
 1. Përfaqësuesit ligjorë të shoqërive, që marrin pjesë në bashkim, caktojnë ekspertë të pavarur të licencuar të fushave të ndryshme, për të vlerësuar kushtet e projektmarrëveshjes së bashkimit. Ekspertët mund të caktohen për secilën shoqëri ose në mënyrë të përbashkët për të gjitha shoqëritë, që marrin pjesë në bashkim. Ata caktohen nga gjykata përkatëse, nëse kjo kërkohet nga përfaqësuesit ligjorë.
 
@@ -2742,7 +2946,9 @@ a) për metodën ose metodat e përdorura për të arritur në raportin e propoz
 
 b) nëse kjo metodë apo këto metoda janë të përshtatshme për rastin në fjalë, duke treguar vlerat e arritura përmes përdorimit të metodës/metodave dhe të japin një mendim për rëndësinë relative të secilës metodë, për të arritur në vlerën e vendosur;
 
-c) për vështirësitë e veçanta të vlerësimit, të cilat janë hasur.
+c) për vështirësitë e veçanta të vlerësimit, të cilat janë hasur. 
+
+ç) në rastin e një zmadhimi kapitali, të kryer në kuadër të bashkimit apo ndarjes, me qëllim pagimin e aksionarëve të shoqërive që përthithen apo ndahen, raporti i vlerësimit duhet të përmbajë një përshkrim të hollësishëm të kontributeve në natyrë, si dhe në të duhet të përcaktohen metodat e vlerësimit që janë zbatuar dhe të shprehet nëse vlera e llogaritur sipas kësaj metode i korrespondon të paktën vlerës nominale të aksionit dhe, kur është rasti, edhe primit më të lartë të emetimit të aksionit.
 
 3. Ekspertët kanë të drejtë të marrin nga shoqëritë që bashkohen të gjithë informacionin dhe dokumentet përkatëse, si dhe të kryejnë të gjitha hetimet e nevojshme.
 
@@ -2754,11 +2960,15 @@ Neni 218
 
 Miratimi i marrëveshjes së bashkimit
 
+(Ndryshuar pika 3, shtuar pika 4 me ligjin nr. 129/2014, datë 2.10.2014)
+
 1. Projektmarrëveshja e bashkimit prodhon efekte vetëm pasi të jetë miratuar nga ortakët apo aksionarët e të gjitha shoqërive, që marrin pjesë në bashkim. Projektmarrëveshja e bashkimit miratohet, përkatësisht, në përputhje me shumicën e parashikuar në pikën 1 të nenit 87 dhe pikën 1 të nenit 145 të këtij ligji.
 
 2. Kur nga projektmarrëveshja e bashkimit preken të drejtat e aksionarëve/ortakëve të veçantë apo të drejtat, që rrjedhin nga aksione të kategorive të veçanta, atëherë projektmarrëveshja i nënshtrohet, sipas rastit, miratimit të ortakëve apo aksionarëve të prekur, ose një votimi të veçantë, i cili merret me shumicën e tre të katërtave të votave të secilës kategori aksionesh të prekura. 
 
-3. Secili aksionar apo ortak i shoqërive, që marrin pjesë në bashkim, ka të drejtë të shqyrtojë dokumentet, në bazë të të cilave kryhet bashkimi, në përputhje me nenin 15 të këtij ligji. Aksionarët apo ortakët mund të kërkojnë informacione për bashkimin gjatë takimit të asamblesë së përgjithshme.
+3. Secili aksionar apo ortak i shoqërive, që marrin pjesë në bashkim, ka të drejtë të kërkojë e të marrë nga shoqëria, pa pagesë, kopje të plotë apo të pjesshme të dokumenteve, në bazë të të cilave kryhet bashkimi, sipas neneve 216 dhe 217. Nëse aksionari apo ortaku ka pranuar kryerjen e njoftimeve nga shoqëria në formë elektronike, këto dokumente mund t’i dërgohen me postë elektronike.
+
+4. Shoqëria do të përjashtohet nga detyrimi për të mbajtur në dispozicion në selinë e saj dokumentacionin që duhet t’u jepet ortakëve apo aksionarëve, sipas pikës 3, nëse për një periudhë të pandërprerë, e cila nis një muaj përpara datës së caktuar për mbajtjen e mbledhjes së asamblesë së përgjithshme për miratimin e projektmarrëveshjes së bashkimit, ky dokumentacion u vihet në dispozicion ortakëve apo aksionarëve, pa pagesë, për t’u parë, shkarkuar apo për të marrë kopje në formë shkresore në faqen e internetit të shoqërisë. Për çdo ndërprerje të përkohshme të mundësisë për të hyrë në faqen e internetit të shoqërisë, për arsye teknike apo arsye të tjera, afati njëmujor i publikimit ndërpritet dhe rinis nga e para në momentin kur faqja e internetit të shoqërisë bëhet sërish e arritshme.
 
 Neni 219
 
@@ -2826,11 +3036,19 @@ Neni 225
 
 Bashkimi me përthithje në raste të veçanta
 
-1. Kur të paktën 90 për qind e kapitalit të regjistruar të një shoqërie aksionare kontrollohet nga mëma, bashkimi me përthithje ndërmjet këtyre shoqërive mund të kryhet pa miratimin e asamblesë së përgjithshme të shoqërisë mëmë, me përjashtim të rasteve kur aksionarët ose ortakët e shoqërisë mëmë, që zotërojnë të paktën 5 për qind të kapitalit të saj, të regjistruar, apo të numrit të përgjithshëm të votave, kërkojnë thirrjen e asamblesë së përgjithshme për miratimin e bashkimit.
+(Ndryshuar me ligjin nr. 129/2014, datë 2.10.2014)
 
-2. Kur mëma zotëron 100 për qind të aksioneve, shoqëria mëmë përthithëse nuk detyrohet të përmbushë kushtet e përcaktuara në nenet 216 pika 1 shkronjat “b”, “c” e “ç”, e 2 dhe 217 të këtij ligji. Gjithashtu, në këtë rast nuk zbatohen as dispozitat e nenit 224 të këtij ligji. 
+1. Nëse shoqëria përthithëse zotëron mbi 90 për qind ose të gjithë kapitalin e shoqërisë aksionare që do të përthithet, atëherë bashkimi me përthithje ndërmjet këtyre shoqërive mund të kryhet pa miratimin e asamblesë së përgjithshme të shoqërisë përthithëse, nëse:
 
-3. Dispozitat e neneve 206 deri në 212 të këtij ligji zbatohen edhe ndaj bashkimeve, sipas parashikimeve të këtij neni.
+a) publikimet, sipas pikës 3, të nenit 216, janë kryer në lidhje me shoqërinë përthithëse, të pakën një muaj përpara datës së caktuar për mbledhjen e asamblesë së përgjithshme të saj apo të shoqërive të tjera, objekt të përthithjes, që do të miratojnë projektmarrëveshjen e bashkimit; dhe
+
+b) të pakën një muaj përpara datës së caktuar sipas shkronjës “a”, të pikës 1, të këtij neni, të gjithë aksionarët apo ortakët e shoqërisë përthithëse kanë të drejtë të njihen me dokumentacionin, në përputhje me nenet 216 dhe 217, në selinë e regjistruar të shoqërisë përthithëse. Parashikimet e pikave 3 dhe 4, të nenit 218, janë të zbatueshme edhe në këtë rast; dhe
+
+c) aksionarët ose ortakët e shoqërisë përthithëse, që zotërojnë të paktën 5 për qind të kapitalit të saj apo të numrit të përgjithshëm të votave, nuk kërkojnë thirrjen e asamblesë së përgjithshme të shoqërisë përthithëse për miratimin e bashkimit.
+
+2. Nëse të gjitha aksionet e shoqërisë, që do të përthithet, që japin të drejta vote në asamblenë e përgjithshme, zotërohen nga shoqëria përthithëse, atëherë kërkesat, sipas parashikimeve të neneve 216, pika 1, shkronjat “b”, “c” dhe “ç”, dhe 2, 217, 218, pikat 3 dhe 4, 220, pika 3, shkronja “b”, të këtij ligji, nuk zbatohen.
+
+3. Nëse shoqëria përthithëse zotëron të paktën 90 për qind, por jo të gjithë kapitalin e shoqërisë aksionare që do të përthithet, atëherë bashkimi ndërmjet këtyre shoqërive mund të kryhet pa miratimin e asamblesë së përgjithshme të shoqërisë përthithëse dhe kërkesat, sipas parashikimeve të neneve 216, pika 2, 217 dhe 218, pikat 3 dhe 4, nuk zbatohen, nëse aksionarët e pakicës së shoqërisë që përthithet kanë të drejtën t’ia shesin aksionet e tyre me vlerë tregu shoqërisë përthithëse. Në rast mosmarrëveshjeje, në lidhje me përcaktimin e kësaj vlere, aksionarët e pakicës së shoqërisë që përthithet kanë të drejtë të kërkojnë që vlera e tregut për shitjen e aksioneve të tyre të përcaktohet nga gjykata.
 
 KREU II
 
@@ -2916,23 +3134,37 @@ Neni 230
 
 Vijimi i funksionimit dhe detyrimi për përshtatje
 
-1. Me hyrjen në fuqi të këtij ligji, shoqëritë tregtare ekzistuese do të vazhdojnë funksionimin, sipas mënyrës dhe kushteve, që kanë qenë të vlefshme në çastin e regjistrimit të tyre.
-
-2. Shoqëritë tregtare, që kanë ekzistuar përpara hyrjes në fuqi të këtij ligji, janë të detyruara të përshtatin organizimin dhe funksionimin e tyre, sipas dispozitave të këtij ligji, brenda 3 vjetëve pas hyrjes së tij në fuqi.
-
-3. Shoqëritë tregtare, të cilat nuk përshtaten me dispozitat e këtij ligji, sipas pikës 2 të këtij neni, vlerësohen të prishura dhe çregjistrohen nga Qendra Kombëtare e Regjistrimit pas përfundimit të procedurës së zbatueshme të likuidimit.
+(Shfuqizuar me ligjin nr. 129/2014, datë 2.10.2014)
 
 Neni 231
 
 Zbatimi i këtij ligji dhe procedurat në vijim
 
-Dispozitat e këtij ligji zbatohen për procedurat e themelimit ose të ndryshimit të një themeluesi, aksionari apo ortaku të shoqërisë, për procedurat e zgjedhjes së organeve, të miratimit të rregulloreve apo statutit dhe për procedura të tjera organizative, të nisura në çastin e hyrjes në fuqi të ligjit.
+                                      (Shfuqizuar me ligjin nr. 129/2014, datë 2.10.2014)
 
 Neni 232
 
 Shfuqizime
 
-Ligjet nr.7632, datë 4.11.1992 “Për pjesën e përgjithshme të Kodit Tregtar”, nr.7638, datë 19.11.1992 “Për shoqëritë tregtare” dhe nr.7512, datë 10.8.1991 “Për sanksionimin dhe mbrojtjen e pronës private, nismës së lirë, të veprimtarive private të pavarura dhe privatizimit” shfuqizohen me hyrjen në fuqi të këtij ligji.
+Ligjet nr. 7632, datë 4.11.1992 “Për pjesën e përgjithshme të Kodit Tregtar”, nr. 7638, datë 19.11.1992 “Për shoqëritë tregtare” dhe nr. 7512, datë 10.8.1991 “Për sanksionimin dhe mbrojtjen e pronës private, nismës së lirë, të veprimtarive private të pavarura dhe privatizimit” shfuqizohen me hyrjen në fuqi të këtij ligji.
+
+Dispozita të fundit dhe kalimtare
+
+(Parashikuar në ligjin nr. 129/2014, datë 2.10.2014)
+
+1. Pas datës së hyrjes në fuqi të këtij ligji, asnjë shoqëri tregtare nuk mund të prishet për shkak të mospërmbushjes përpara kësaj date të kërkesave të nenit 230, të ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar.
+
+2. Shoqëritë tregtare të regjistruara në regjistrin tregtar përpara datës 20.5.2008, të cilat në datën hyrjes në fuqi të këtij ligji ende nuk kanë adaptuar statutin e tyre me parashikimet e ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar, janë të detyruara që jo më vonë se 3 muaj pas datës së hyrjes në fuqi të këtij ligji:
+
+a) të miratojnë ndryshimet e nevojshme në statutin e tyre për ta përputhur atë me kërkesat e ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar;
+
+b) t’i regjistrojnë këto ndryshime të statutit pranë Qendrës Kombëtare të Regjistrimit, sipas ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar.
+
+3. Mospërmbushja e detyrimeve, sipas pikës 2, të këtij neni, përbën kundërvajtje administrative dhe dënohet me gjobë 30 000 lekë. Gjoba aplikohet dhe vilet sipas përcaktimeve të ligjit nr. 9723, datë 3.5.2007, “Për Qendrën Kombëtare të Regjistrimit”, të ndryshuar. Qendra Kombëtare e Regjistrimit ndërpret shërbimin për këto shoqëri deri në kryerjen e veprimeve, sipas përcaktimit të shkronjave “a” ose “b”, të pikës 2, të këtij neni, dhe në pagesën e plotë të gjobës.
+
+4. Afati 3-mujor, i përmendur në pikën 2, është afat për zbatimin e detyrimeve të regjistrimit sipas pikës 2, të këtij neni, dhe, në asnjë rast, nuk mund të përdoret si justifikim për moszbatimin e plotë të dispozitave në fuqi të ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar.
+
+5. Qendra Kombëtare e Regjistrimit ngarkohet të nisë dhe të vazhdojë deri në përfundimin e afatit të përcaktuar në pikën 2, të këtij neni,  fushata informuese për publikun në faqen e saj në internet, si dhe në ambientet e sporteleve të saj në qendër dhe në sportelet e tjera të saj të shërbimit për detyrimet, sipas këtij neni.
 
 Neni 233
 
@@ -2940,4 +3172,8 @@ Hyrja në fuqi
 
 Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
 
-Shpallur me dekretin nr.5694, datë 5.5.2008 të Presidentit të Republikës së Shqipërisë, Bamir Topi
+Shpallur me dekretin nr. 5694, datë 5.5.2008 të Presidentit të Republikës së Shqipërisë, Bamir Topi
+
+---
+
+[^fn1]: Ligji nr. 10475, date 27.10.2011 botuar n F.Z nr. 152 dat 21.11.2011 n nenin 3 t tij shprehet: “Shoqëritë aksionare ekzistuese, me ofertë private, që janë themeluar përpara hyrjes në fuqi të këtij ligji, janë të detyruara të përfundojnë procedurat për regjistrimin e rritjes së kapitalit, të paktën deri në shumën e përcaktuar sipas nenit 1 të këtij ligji, brenda 1 viti pas hyrjes në fuqi të tij.”
