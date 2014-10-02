@@ -1,0 +1,1 @@
+6. Brënda tri ditëve kalendarike nga data e njoftimit, kandidatët që nuk janë kualifikuar kanë të drejtë të paraqesin ankesë pranë sekretarit të përgjithshëm në ministri. Ankuesi merr përgjigje brenda dy ditë pune nga data e depozitimit të saj.

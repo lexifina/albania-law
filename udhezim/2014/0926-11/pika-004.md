@@ -1,0 +1,1 @@
+4. Kur drejtori i një institucioni publik ofrues të AFP-së braktis detyrën e tij, nëndrejtori njofton menjëherë me postë elektronike dhe shkresë zyrtare drejtorin e Drejtorisë së Arsimit dhe Formimit Profesional në ministrinë përgjegjëse për çështjet sociale.
