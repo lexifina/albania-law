@@ -1,9 +1,9 @@
 # PËR KRIJIMIN DHE FUNKSIONIMIN E STRUKTURAVE PËR ADMINISTRIMIN DHE MBROJTJEN E TOKËS
 
-Official source: [Ligji nr. 8752](https://qbz.gov.al/api/v1/acts/702).
+Official source: [Ligji nr. 8752](https://qbz.gov.al/api/v1/acts/702); [QBZ versions](https://qbz.gov.al/api/v1/acts/702/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2001-03-26; published 2001-04-13; in force 2001-04-28.
+Status of this text: `official consolidated version 1`, applying from 2014-10-02; after QBZ act 11153 (nr. 130).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
