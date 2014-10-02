@@ -1,0 +1,1 @@
+8. Për mosrespektim, nga degët e shoqërive të huaja ajrore në Shqipëri, si dhe nga shoqëritë ajrore vendase, të detyrimeve të përcaktuara në dispozitën 4, germat “a”, “b”, “c”, “d” për këto subjekte zbatohen sanksione në përputhje me ligjin nr. 9920, datë 19.5.2008 “Për procedurat tatimore në Republikën e Shqipërisë”.

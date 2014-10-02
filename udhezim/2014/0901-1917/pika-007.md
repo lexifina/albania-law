@@ -1,0 +1,1 @@
+7. Për mosrespektim nga TIA të detyrimeve të përcaktuara në dispozitën 3, germat “a”, “b”, “c”, “d”, “e”, “f”, “g” të këtij udhëzimi, zbatohen sanksione në përputhje me nenin 117 të ligjit nr. 9920, datë 19.05.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar.

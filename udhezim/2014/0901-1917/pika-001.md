@@ -1,0 +1,1 @@
+1. Tarifat e shërbimit, për kalimin me avion të kufirit të Republikës së Shqipërisë, është 10 euro dhe paguhet nga udhëtari në momentin e blerjes së biletës, tek shoqëritë ajrore, pavarësisht vendit apo mënyrës së shitjes së biletës.
