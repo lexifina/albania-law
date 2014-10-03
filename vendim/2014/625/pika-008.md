@@ -1,0 +1,1 @@
+8. Pronarët e pasurive, për të cilat është bërë shënimi “Proces regjistrimi, kufizuar”, të likuidohen, për efekt shpronësimi, pasi të kenë plotësuar dokumentacionin e plotë të pronësisë që do të dorëzojnë pranë Autoritetit Rrugor Shqiptar.
