@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 20 153 080 (njëzet milionë e njëqind e pesëdhjetë e tre mijë e tetëdhjetë) lekësh, të përballohet nga të ardhurat e Bashkisë së Shkodrës, planifikuar në buxhetin e saj.

@@ -1,0 +1,7 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen sipas vlerave të mëposhtme:
+a) për rikonstruksionin e “Rruga e kalasë”, sot “Rruga e qafës”, me sipërfaqe 75 (shtatëdhjetë e pesë) m2 truall, në vlerën 700 275 (shtatëqind mijë e dyqind e shtatëdhjetë e pesë) lekë;
+b) për sistemimin e bllokut të pallateve “Qafë - Hardhi”, me sipërfaqe 177.5 (njëqind e shtatëdhjetë e shtatë pikë pesë) m2 truall, në vlerën 1 597 855 (një milion e pesëqind e nëntëdhjetë e shtatë mijë e tetëqind pesëdhjetë e pesë) lekë;
+c) për rikonstruksionin e rrugës “Nexhip Luli”, me sipërfaqe 70.5 (shtatëdhjetë pikë pesë) m2 truall, në vlerën 764 855 (shtatëqind e gjashtëdhjetë e katër mijë e tetëqind e pesëdhjetë e pesë) lekë;
+ç ) për rikonstruksionin e rrugës “Ali Spahija”, me sipërfaqe 318 (treqind e tetëmbëdhjetë) m2 truall, në vlerën 3 449 982 (tre milionë e katërqind e dyzet e nëntë mijë e nëntëqind e tetëdhjetë e dy) lekë;
+d) për rikonstruksionin e rrugës “Stacioni i trenit”, me sipërfaqe 1 152.65 (njëmijë e njëqind e pesëdhjetë e dy pikë gjashtëdhjetë e pesë) m2 truall, në vlerën 9 460 951 (nëntë milionë e katërqind e gjashtëdhjetë mijë e nëntëqind e pesëdhjetë e një) lekë;
+dh) për rikonstruksionin e trotuarit, segment i rrugës “Bujar Bishanaku”, me sipërfaqe 378 (treqind e shtatëdhjetë e tetë) m2 truall, në vlerën 4 179 162 (katër milionë e njëqind e shtatëdhjetë e nëntë mijë e njëqind e gjashtëdhjetë e dy) lekë.

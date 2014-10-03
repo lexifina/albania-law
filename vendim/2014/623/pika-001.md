@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni i rrugëve “Ali Spahija”, “Nexhip Luli”, “Bujar Bishanaku”, “Stacioni i trenit”, “Rruga e kalasë”, si dhe sistemimi i bllokut të pallateve, “Qafë - Hardhi”, të bashkisë së Shkodrës, sipas tabelës që i bashkëlidhet këtij vendimi.
