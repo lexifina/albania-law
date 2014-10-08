@@ -1,2 +1,0 @@
-16. Të gjitha kompanitë e telefonisë celulare, brenda një jave nga hapja e procesit të regjistrimit të numrave IMEI, dërgojnë pranë Bazës së të Dhënave të Ministrisë së Financave të dhënat e numrave IMEI që kanë të regjistruar.
-Procesi i plotësimit të Bazës së të Dhënave me numrat IMEI, të cilët nuk janë në sistemin e të dhënave të kompanive të telefonisë celulare, në zbatim të dispozitave të këtij vendimi, zgjat 90 (nëntëdhjetë) ditë, pas datës së shpalljes së njoftimit të Ministrisë së Financave për ngritjen e Bazës së të Dhënave.

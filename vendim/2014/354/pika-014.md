@@ -1,3 +1,0 @@
-14. Brenda 2 muajve nga hyrja në fuqi e këtij vendimi, pranë Ministrisë së Financave fillon procedura e formatimit dhe ngritjes së Bazës së të Dhënave për numrat IMEI të aparateve celulare.
-Fondet buxhetore për ngritjen e kësaj Baze të Dhënash përballohen nga Ministria e Financave.
-Ministria e Financave bashkëpunon me njësitë përkatëse, në varësi të ministrit të Shtetit për Inovacionin dhe Administratën Publike dhe operatorët e telefonisë celulare në vend për të bërë plotësimin e Bazës së të Dhënave me numrat IMEI ekzistues, të cilët janë dhe në Bazën e të Dhënave të kompanive të telefonisë celulare.

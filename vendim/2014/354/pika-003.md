@@ -1,1 +1,0 @@
-3. Numri IMEI (The International Mobile Station Equipment Identity) është numri unik 15-shifror, që shërben për të identifikuar aparatet celulare. Ky numër, zakonisht, gjendet i shtypur në çdo kuti paketuese, si dhe në brendësi të aparatit, poshtë vendit ku vendoset bateria ose gjenerohet automatikisht (*#06#).

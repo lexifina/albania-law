@@ -1,1 +1,0 @@
-2. Subjekt i këtij vendimi janë të gjithë personat, fizikë apo juridikë, që importojnë apo tregtojnë aparate celulare, operatorët e telefonisë celulare, si dhe individët, të cilët duan të blejnë apo që vihen në zotërim për përdorim vetjak të aparatit celular apo që, në momentin e hyrjes në fuqi të këtij vendimi, zotërojnë aparate celulare për përdorim vetjak.
