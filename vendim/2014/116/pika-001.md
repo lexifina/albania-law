@@ -1,0 +1,1 @@
+1. “Nëpunësit civilë të nivelit të lartë drejtues”, në Kryeministri, aparatin e një ministrie apo titullarët e institucioneve të varësisë së Kryeministrit apo ministrit, të pranuar në shërbimin civil sipas procedurave të ligjit nr. 8549, datë 11.11.1999 “Statusi i nëpunësit civil”, janë, për shkak të ligjit, anëtarë të TND-së.

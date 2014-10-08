@@ -1,0 +1,1 @@
+2. DAP-i verifikon procedurën e rekrutimit për nëpunësit, sipas pikës 1 të kreut I të këtij vendimi, dhe lëshon për çdo nëpunës aktin e deklarimit të statusit të punësimit sipas ligjit nr. 152/2013, brenda 60 (gjashtëdhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.
