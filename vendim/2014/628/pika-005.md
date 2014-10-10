@@ -1,0 +1,1 @@
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përballohen nga buxheti i dhënë për Ministrinë e Mbrojtjes dhe Ministrinë e Punëve të Brendshme me vendimin nr.541, datë 7.8.2014, të Këshillit të Ministrave, “Për një shtesë fondi në buxhetin e vitit 2014, miratuar për disa institucione për festimet e 70 - Vjetorit të Çlirimit të Vendit”.
