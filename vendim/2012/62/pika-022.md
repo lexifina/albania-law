@@ -1,1 +1,0 @@
-22. Brenda 30 (tridhjetë) ditësh pas hyrjes në fuqi të këtij vendimi, Ministri i Shëndetësisë dhe Ministri i Financave miratojnë rregulloren për metodologjinë dhe mënyrën e administrimit të çmimeve të deklaruara, e cila do të ndiqet për caktimin e çmimeve të barnave.

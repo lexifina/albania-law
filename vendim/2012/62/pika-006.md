@@ -1,1 +1,0 @@
-6. Komisioni i Çmimit të Barnave, brenda datës 5 tetor të çdo viti, mblidhet me njoftim të kryetarit për hapjen e zarfeve të çmimeve të deklaruara, të cilat siglohen nga anëtarët e pranishëm të komisionit.

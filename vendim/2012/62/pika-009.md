@@ -1,1 +1,0 @@
-9. Mbledhjet e Komisionit të Çmimit të Barnave janë të vlefshme kur në to janë të pranishëm më shumë se gjysma e anëtarëve të tij. Miratimi i çmimeve të barnave bëhet me votim të hapur dhe vendimi merret me shumicën e votave të anëtarëve të pranishëm. Në rast se ka barazim votash, vota e kryetarit është vendimtare.

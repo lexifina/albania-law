@@ -1,1 +1,0 @@
-13. Në rast se bari nuk tregtohet në asnjërin nga shtetet referente, mbajtësit e autorizimit të tregtimit të barit ose përfaqësuesit e tyre të autorizuar, përfaqësitë farmaceutike të huaja në Shqipëri, do të vetëdeklarojnë tri çmime krahasuese “CIF” të barit nga vende të tjera ku tregtohet bari, sipas shtetit gjeografikisht më të afërt me Shqipërinë.

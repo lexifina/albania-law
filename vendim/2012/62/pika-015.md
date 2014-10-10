@@ -1,1 +1,0 @@
-15. Informacioni për krahasimin e çmimeve të barnave do të merret nga botimet zyrtare, të publikuara nga institucionet shtetërore të vendit përkatës. Kur nuk arrihet të sigurohet informacion nga këto burime, Ministri i Shëndetësisë bashkë me Ministrin e Financave miratojnë me urdhër të përbashkët burime të tjera informacioni.

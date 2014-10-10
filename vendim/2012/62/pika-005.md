@@ -1,1 +1,0 @@
-5. Drejtoria Farmaceutike njofton, zyrtarisht, mbajtësit e autorizimit të tregtimit të barit, përfaqësitë farmaceutike të huaja në Shqipëri, për dorëzimin e informacionit për çmimet, jo më vonë se dy muaj para datës 30 shtator.

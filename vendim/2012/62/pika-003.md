@@ -1,1 +1,0 @@
-3. Sekretar i komisionit është një specialist në Drejtorinë Farmaceutike, në Ministrinë e Shëndetësisë. Titullarët e institucioneve të përmendura në këtë pikë caktojnë në detyrën e anëtarit të komisionit punonjës, që kanë lidhje me funksionin dhe detyrat e këtij komisioni.

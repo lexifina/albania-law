@@ -1,1 +1,0 @@
-10. Komisioni i Çmimit të Barnave, kur është e nevojshme, mblidhet me njoftim të kryetarit, për të miratuar çmimet e deklaruara për barnat që regjistrohen gjatë vitit kalendarik. Në këto raste, miratimi i çmimit të barnave bëhet brenda 30 (tridhjetë) ditëve pas depozitimit të deklarimit të tyre, pranë Drejtorisë Farmaceutike.
