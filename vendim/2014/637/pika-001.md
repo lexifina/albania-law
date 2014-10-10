@@ -1,0 +1,1 @@
+1. Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën simbolike 1 euro/kontrata, ndërmjet Ministrisë së Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, si qiradhënës, dhe shoqërisë “Liberest” sh.p.k., si qiramarrës, për pasurinë “Agjencia e Rezervave të Shtetit Dorëz, komuna Qendër, Librazhd”, me sipërfaqe të përgjithshme 38 200 (tridhjetë e tetë mijë e dyqind) m².
