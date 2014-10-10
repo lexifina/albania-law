@@ -1,0 +1,1 @@
+1. Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën simbolike 1 euro/kontrata, ndërmjet Ministrisë së Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, si qiradhënës, dhe shoqërisë “Tur-Tekstil” sh.p.k., si qiramarrës, për pasurinë “Ish-Ndërmarrja Gjeofizike, Patos”, me sipërfaqe të përgjithshme 12 507 (dymbëdhjetë mijë e pesëqind e shtatë) m².
