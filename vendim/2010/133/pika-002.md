@@ -1,1 +1,0 @@
-2. Në mbledhjet e Task-Forcës ftohen të marrin pjesë përfaqësues të sistemit të drejtësisë dhe të institucioneve të tjera të interesuara, kur çmohet se pjesëmarrja e tyre do të jetë e vlefshme për përmbushjen e misionit të saj.

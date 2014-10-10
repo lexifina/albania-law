@@ -1,1 +1,0 @@
-6. Kryetari i Task-Forcës raporton me shkrim, pas çdo mbledhjeje, pranë Kryeministrit, lidhur me ecurinë, problematikat e hasura, masat e ndërmarra dhe rezultatet konkrete të arritura. Kryetari i Task-Forcës, me kërkesë të Kryeministrit, raporton pranë Kryeministrit edhe për çështje të veçanta.
