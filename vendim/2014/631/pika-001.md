@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare nga qeveria shqiptare për qeveritë e Bosnjë-Hercegovinës dhe Serbisë, përkatësisht, nga 100 000 (njëqind mijë) euro, për lehtësimin e pasojave të dëmeve të shkaktuara nga përmbytjet në maj 2014.
