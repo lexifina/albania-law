@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrjetit kryesor të kanalizimeve dhe impiantit të përpunimit të ujërave të përdorura në plazhin e Velipojës.

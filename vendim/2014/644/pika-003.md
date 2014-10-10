@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhurkëtij vendimi, për tokë pemëtore, me sipërfaqe prej 17 870 (shtatëmbëdhjetë mijë e tetëqind e shtatëdhjetë) m2, me vlerë të përgjithshme prej 4 681 940 (katër milionë e gjashtëqind e tetëdhjetë e një mijë e nëntëqind e dyzet) lekësh.
