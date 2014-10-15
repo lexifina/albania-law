@@ -1,0 +1,45 @@
+VENDIM 
+
+Nr. 72, datë 22.8.2014
+
+PËR FILLIMIN E PROCEDURAVE PËR KUALIFIKIMIN E IMPIANTEVE PRODHUES të SHOQËRISË “KOMP. ENERGJI” SHPK  PËR HEC-ET “HURDHAS 1”, “HURDHAS 2” DHE “HURDHAS 3” SI BURIM I RINOVUESHëM ENERGJIE 
+
+Në mbështetje të neneve 8 pika 2 germa “ll”, 9 dhe 39, të ligjit nr. 9072, datë 22.5.2003, “Për sektorin e energjisë elektrike”, të ndryshuar,  nenit 3 pika 1 germa “f”, të ligjit nr. 138/2013 “Për burimet e energjive të rinovueshme”, të ndryshuar, nenit 9,  pika 1, dhe 2, germa “a” të Rregullave dhe Procedurave të Certifikimit të Prodhimit të Energjisë Elektrike nga Burimet e Rinovueshme, të miratuar me vendimin e Bordit të Komisionerëve nr. 9, datë 21.2.2007, Bordi i Komisionerëve të Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 22.8.2014,  mbasi shqyrtoi aplikimin e paraqitur nga shoqëria “Komp. Energji” sh.p.k., si dhe relacionin e Drejtorisë së Licencimit dhe Monitorimit të Tregut dhe Drejtorisë Juridike dhe Mbrojtjes së Konsumatorit për kualifikimin e impianteve prodhues të shoqërisë “Komp. Energji” sh.p.k.  për HEC-et “Hurdhas 1”, “Hurdhas 2” dhe “Hurdhas 3” me fuqi të instaluar totale 4.21 MW, si burim i rinovueshem energjie,
+
+Konstatoi se: 
+
+Aplikimi i shoqërisë “Komp. Energji” sh.p.k., plotëson tërësisht kërkesat e parashikuara nga ERE në “Rregullores së procedurave të certifikimit, prodhimit të energjisë elektrike nga burimet e rinovueshme”,  si më poshtë: 
+
+- Neni 7, pika 1 , germat “a”, “b”, “c”, “d”
+
+Përshkrimi i përgjithshëm i centralit 
+
+Ky dokumentacion është dhënë i saktë dhe i plotë. 
+
+- Neni 7, pika 2, germat “a”, “b”, “c”, “d” 
+
+Dokumentacioni vijues grafik, koreografia, planimetria e përgjithshme, skema funksionale etj. 
+
+Ky dokumentacion është paraqitur në mënyrë korrekte. 
+
+- Neni 7 pika 3, germat “a”, “b”, “c”
+
+Përshkrimi i centralit
+
+Ky dokumentacion është dhënë i saktë dhe i plotë. 
+
+Për gjithë sa më sipër cituar, Bordi i Komisionerëve të ERE-s
+
+Vendosi:
+
+1. Të fillojë procedurat për kualifikimin e impianteve prodhues të shoqërisë “Komp. Energji” sh.p.k.  për HEC-et “Hurdhas 1”, “Hurdhas 2” dhe “Hurdhas 3”si burim i rinovueshëm energjie me fuqi të instaluar totale 4.21 MW
+
+2. Ngarkohet Drejtoria e Licencimit dhe Monitorimit të Tregut të njoftojë aplikuesin për vendimin e Bordit të Komisionerëve të ERE-s.     
+
+Ky vendim hyn në fuqi menjëherë.
+
+Ky vendim botohet në Fletoren Zyrtare.
+
+KRYETARI
+
+Petrit Ahmeti
