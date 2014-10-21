@@ -1,0 +1,28 @@
+{
+  "qbz_id": 11146,
+  "title": "PËR PËRCAKTIMIN E KRITEREVE DHE PROCEDURAVE PËR HAPJEN DHE PËR MBYLLJEN E INSTITUCIONEVE ARSIMORE PARAUNIVERSITARE PUBLIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "662",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2014-10-08",
+  "published": "2014-10-21",
+  "in_force": "2014-10-21",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/254143135148ea68bc92aed4b37f4739e66522524e1eed5b992fcdc81ecb5886.docx",
+  "source_sha256": "254143135148ea68bc92aed4b37f4739e66522524e1eed5b992fcdc81ecb5886",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11146",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/10/08/662",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26488
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
