@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 47 415 (dyzet e shtatë mijë e katërqind e pesëmbëdhjetë) lekësh të përballohet nga buxheti i vitit 2014, për Ministrinë e Transportit dhe Infrastrukturës, programi “Furnizimi me ujë dhe kanalizime”, zëri “Kosto lokale”, parashikuar për Njësinë e Menaxhimit të Projekteve (PMU).

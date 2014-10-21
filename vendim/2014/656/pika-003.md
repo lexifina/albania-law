@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për tokë “pemishte” dhe “ullishte”, me vlerë të përgjithshme shpronësimi prej 47 415 (dyzet e shtatë mijë e katërqind e pesëmbëdhjetë) lekësh.
