@@ -1,1 +1,0 @@
-9. Nëse konsumatori është rezident në Republikën e Shqipërisë, kontrata për blerjen e së drejtës së përdorimit me afat të pasurisë së paluajtshme dhe të dhënat e përcaktuara në pikat 1 e 3 të nenit 43 të ligjit “Për mbrojtjen e konsumatorëve” dhe në pikat 3 deri 7 të këtij vendimi, hartohen në gjuhën shqipe.

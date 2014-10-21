@@ -1,1 +1,0 @@
-7. Çdo publicitet për pasurinë e paluajtshme, objekt të kontratës, për blerjen e së drejtës së përdorimit me afat të pasurisë të paluajtshme, do të tregojë mundësinë e sigurimit të të dhënave, të përcaktuara në pikat 3 e 4 të këtij vendimi, si dhe adresën, ku mund të gjendet.
