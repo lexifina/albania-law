@@ -1,0 +1,3 @@
+32. Konsumatori nuk privohet nga mbrojtja që i jep ligji nr.9902, datë 17.4.2008, të ndryshuar, dhe ky vendim, edhe në rastet kur ligji i zbatueshëm në kontratë është ai i një shteti tjetër, sipas parashikimit në dispozitat e legjislacionit shqiptar mbi të drejtën ndërkombëtare private, nëse:
+a) pasuria e paluajtshme, për të cilën bëhet fjalë, gjendet brenda territorit të Republikës së Shqipërisë apo të një shteti anëtar të BE-së;
+b) për kontrata që nuk lidhen drejtpërdrejt me pasurinë e paluajtshme, tregtari ushtron veprimtari tregtare apo profesionale në Republikën e Shqipërisë ose në një shtet anëtar apo me çfarëdo mënyre drejton këto aktivitete për Shqipërinë dhe kontrata është brenda gamës së këtyre aktiviteteve.

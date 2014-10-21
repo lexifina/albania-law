@@ -1,0 +1,1 @@
+11. Nëse konsumatori është rezident në Republikën e Shqipërisë, kontrata hartohet në gjuhën shqipe. Nëse konsumatori ka kombësi tjetër, gjuha e përdorur në kontratë zgjidhet sipas preferencës së konsumatorit, me kusht që kjo gjuhë të jetë gjuhë zyrtare e BE-së.

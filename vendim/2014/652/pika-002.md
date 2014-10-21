@@ -1,0 +1,3 @@
+2. Për qëllime të këtij vendimi, termat e mëposhtëm kanë këto kuptime:
+a) “Kontratë ndihmëse”, kontrata, sipas së cilës konsumatori përfiton shërbimet që lidhen me një kontratë të përdorimit me afat apo me një kontratë të produktit të pushimit afatgjatë dhe të cilat ofrohen nga tregtari ose një palë e tretë sipas një marrëveshjeje midis asaj pale të tretë dhe tregtarit;
+b) “Zotëruesi i kodit”, çdo njësi/entitet, përfshirë një tregtar apo grup tregtarësh, përgjegjës për hartimin dhe rishikimin e kodit të etikës dhe/ose për monitorimin e përputhshmërisë me kodin nga personat që janë zotuar ta respektojnë atë.

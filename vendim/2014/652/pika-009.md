@@ -1,0 +1,1 @@
+9. Tregtari e përgatit informacionin e përcaktuar në pikën 7, të këtij vendimi, në gjuhën shqipe dhe/ose në gjuhën e vendit në të cilin konsumatori është rezident, sipas preferencës së këtij të fundit, me kusht që ajo gjuhë të jetë gjuhë zyrtare e Bashkimit Evropian.

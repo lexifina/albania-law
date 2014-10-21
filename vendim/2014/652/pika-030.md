@@ -1,0 +1,1 @@
+30. Duke nisur nga kësti i dytë e në vijim, konsumatori mund ta përfundojë kontratën pa penalizim, përmes një njoftimi që i bën tregtarit, brenda katërmbëdhjetë ditëve nga data e marrjes së kërkesës së pagesës për çdo këst. Kjo e drejtë nuk ndikon të të drejtat për përfundimin e kontratës, sipas legjislacionit në fuqi.

@@ -1,0 +1,1 @@
+4. Në çdo publicitet për një kontratë apo grup kontratash të përdorimit me afat, të produktit të pushimit afatgjatë, rishitjes apo shkëmbimit duhet të përcaktohet mundësia e marrjes së informacionit të parashikuar në pikën 7, të këtij vendimi, dhe të tregohet burimi për gjetjen e këtij informacioni.

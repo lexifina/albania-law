@@ -1,0 +1,1 @@
+17. Faqja apo faqet korresponduese të kontratës së përdorimit me afat, të produktit të pushimit afatgjatë, rishitjes apo shkëmbimit, që përmbajnë kushtet kontraktuale të lidhura me ushtrimin e së drejtës së heqjes dorë nga kontrata, kohëzgjatjen e periudhës së heqjes dorë dhe ndalimin e parapagesave gjatë kësaj periudhe, do të nënshkruhet/n nga konsumatori.

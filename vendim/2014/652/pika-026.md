@@ -1,0 +1,1 @@
+26. Në rastin kur konsumatori ushtron të drejtën e heqjes dorë nga kontrata, konsumatori nuk ngarkohet me asnjë kosto dhe nuk ka asnjë përgjegjësi për çfarëdo vlere që i korrespondon shërbimit, i cili mund të jetë kryer përpara heqjes dorë.

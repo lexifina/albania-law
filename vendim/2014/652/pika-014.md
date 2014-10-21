@@ -1,0 +1,1 @@
+14. Ndryshimet në kontratën e përdorimit me afat, të produktit të pushimit afatgjatë, rishitjes apo shkëmbimit do t’i komunikohen konsumatorit përpara lidhjes së kontratës në letër ose me një mjet tjetër të qëndrueshëm lehtësisht të arritshëm dhe të disponueshëm prej tij. Kontrata përmban shprehimisht këto ndryshime.

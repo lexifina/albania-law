@@ -1,0 +1,1 @@
+28. Në kontratat e rishitjes është e ndaluar që tregtari ose një palë e tretë të kërkojë apo të marrë nga konsumatori çdo parapagesë, dhënie garancie, rezervim të parave në llogari, njohje të shprehur të borxhit apo çdo pagesë/shpërblim tjetër për tregtarin, përpara shitjes faktike apo përpara përfundimit të kontratës së rishitjes.

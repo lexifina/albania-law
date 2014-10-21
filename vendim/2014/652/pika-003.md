@@ -1,0 +1,1 @@
+3. Në llogaritjen e kohëzgjatjes së një kontrate të përdorimit me afat apo të produktit të pushimit afatgjatë, sipas përcaktimit, përkatësisht, të pikave 1 dhe 2, të nenit 42, të ligjit nr. 9902, datë 17.4.2008, të ndryshuar, do të merret në konsideratë çdo dispozitë e kontratës që mundëson rinovimin apo shtyrjen/zgjatjen e nënkuptuar.

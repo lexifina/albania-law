@@ -1,0 +1,1 @@
+24. Konsumatori mund të përdorë formularin standard të heqjes dorë nga kontrata, të përcaktuar në shtojcën V të këtij vendimi, e cila i është dhënë nga tregtari në përputhje me shkronjën “d”, të pikës 16, të këtij vendimi. Afati konsiderohet i përmbushur nëse njoftimi bëhet përpara se të përfundojë periudha e heqjes dorë nga kontrata.

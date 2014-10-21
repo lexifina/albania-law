@@ -1,0 +1,1 @@
+12. Në rastin e kontratës së përdorimit me afat për një pronë/pasuri specifike të paluajt-shme, e cila gjendet në territorin e një vendi tjetër, tregtari i siguron konsumatorit një përkthim të certifikuar të kontratës në gjuhën e vendit ku gjendet prona/pasuria, me kusht që kjo gjuhë të jetë gjuhë zyrtare e BE-së.

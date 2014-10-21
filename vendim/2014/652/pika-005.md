@@ -1,0 +1,2 @@
+5. Në rastet kur një konsumatori i ofrohet një kontratë e përdorimit me afat, e produktit të pushimit afatgjatë, rishitjes apo shkëmbimit, personalisht, në një aktivitet promovimi apo shitjeje, tregtari duhet të deklarojë qartësisht në ftesë qëllimin tregtar dhe natyrën e aktivitetit.
+Informacioni i përcaktuar në pikën 7, të këtij vendimi, duhet të jetë i disponueshëm për konsumatorin në çdo kohë gjatë aktivitetit.

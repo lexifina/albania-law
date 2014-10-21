@@ -1,0 +1,2 @@
+37. Ngarkohen Ministria e Zhvillimit Urban dhe Turizmit dhe Ministria e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+8. Tregtari i siguron konsumatorit informa-cionin e përcaktuar në pikën 7, të këtij vendimi, pa pagesë, në letër apo nëpërmjet një mjeti tjetër të qëndrueshëm, lehtësisht të arritshëm dhe të disponueshëm për konsumatorin.

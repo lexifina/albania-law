@@ -1,0 +1,1 @@
+27. Në kontratat e përdorimit me afat, produktit të pushimit afatgjatë dhe atyre me shkëmbim është e ndaluar kryerja nga konsumatori e çdo parapagese, sigurim i garancive, rezervim parash në llogari, njohje e qartë/e shprehur e borxhit apo çdo pagesë/shpërblim tjetër për tregtarin apo një palë tjetër, përpara përfundimit të periudhës së heqjes dorë.

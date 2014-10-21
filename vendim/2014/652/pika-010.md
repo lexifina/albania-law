@@ -1,0 +1,1 @@
+10. Tregtari, sipas përcaktimeve të pikës 2, të nenit 43, të ligjit nr. 9902, datë 17.4.2008, të ndryshuar, i siguron konsumatorit kontratën e përdorimit me afat, të produktit të pushimit afatgjatë, rishitjes apo shkëmbimit.

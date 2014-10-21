@@ -1,0 +1,1 @@
+31. Në rastin kur konsumatori ushtron të drejtën e heqjes dorë nga kontrata e përdorimit me afat apo produktit të pushimit afatgjatë, çdo kontratë shkëmbimi që lidhet me të apo çdo kontratë tjetër ndihmëse konsiderohet automatikisht e përfunduar, pa asnjë kosto për konsumatorin.

@@ -1,0 +1,1 @@
+35. Çdo pretendim për ndalimin e shkeljes në bazë të këtij vendimi në lidhje me veprimet ose praktikat tregtare, që prekin interesat e konsumatorëve, do të paraqitet sipas kushteve dhe në zbatim të nenit 55, të ligjit nr. 9902, datë 17.4.2008, i ndryshuar.

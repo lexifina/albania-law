@@ -1,0 +1,1 @@
+22. Në rast se kontrata e shkëmbimit i ofrohet konsumatorit bashkërisht dhe në të njëjtën kohë me kontratën e përdorimit me afat, vetëm një periudhë e heqjes dorë nga kontrata zbatohet për të dyja llojet e kontratave.
