@@ -1,1 +1,0 @@
-2. Ngarkohen Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG) dhe Instituti i Gjeoshkencave dhe Energjisë, Ujit e Mjedisit, që, brenda 5 (pesë) ditëve nga hyrja në fuqi e këtij vendimi, të lirojnë mjediset përkatëse.
