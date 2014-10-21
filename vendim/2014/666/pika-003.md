@@ -1,0 +1,1 @@
+3. Vendimi nr. 771, datë 5.9.2013, i Këshillit të Ministrave, “Për dhënien në përdorim Autoritetit Shtetëror për Informacionin Gjeohapësinor (ASIG) të një pjese të godinës së Observatorit të Institutit të Gjeoshkencave dhe Energjisë, Ujit e Mjedisit”, shfuqizohet.

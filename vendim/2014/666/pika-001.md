@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG) të Këshilli i Ministrave, për Agjencinë e Mbështetjes së Shoqërisë Civile, të godinës së Observatorit të Institutit të Gjeoshkencave dhe Energjisë, Ujit e Mjedisit për t’u përdorur si mjedise pune nga ky institucion, sipas planimetrisë bashkëlidhur këtij vendimi.
