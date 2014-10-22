@@ -1,3 +1,0 @@
-# Neni 16
-Me hyrjen në fuqi të këtij ligji, të gjitha përgjegjësitë, të drejtat dhe detyrimet e Drejtorisë së Akreditimit i kalojnë Drejtorisë së Përgjithshme të Akreditimit. Certifikatat e lëshuara nga Drejtoria e Akreditimit njihen nga Drejtoria e Përgjithshme e Akreditimit dhe kanë të njëjtën vlefshmëri.
-Procedurat e akreditimit, të filluara në përputhje me ligjin nr.9024, datë 6.3.2003 “Për akreditimin e laboratorëve testues, kalibrues dhe organizmave certifikues dhe inspektues në Republikën e Shqipërisë”, do të kryhen në përputhje me këtë ligj dhe me akte të tjera ligjore e nënligjore në fuqi.
