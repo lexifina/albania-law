@@ -1,0 +1,7 @@
+# Neni 12
+Përputhshmëria me kërkesat për organizmat kombëtarë të akreditimit
+1. Drejtoria e Përgjithshme e Akreditimit ndërton, vë në funksionim dhe mirëmban sistemin e menaxhimit të cilësisë së saj, në përputhje me legjislacionin në fuqi, standardet ndërkombëtare dhe dokumentet e organizatave europiane e ndërkombëtare të akreditimit. Ajo demonstron përputhshmërinë me kërkesat e përcaktuara në standardet përkatëse të harmonizuara nëpërmjet rezultateve pozitive nga vlerësimet e ndërsjella.
+2. Ministria siguron që Drejtoria e Përgjithshme e Akreditimit të ketë burime të përshtatshme financiare dhe personeli për kryerjen e saktë të detyrave të saj, duke përfshirë edhe plotësimin e detyrave të veçanta, si veprimtari për akreditimin europian e ndërkombëtar dhe veprimtari që kërkohen për të mbështetur politika publike, të cilat nuk janë të vetëfinancueshme.
+3. Ministria kontrollon veprimtarinë e Drejtorisë së Përgjithshme të Akreditimit për të siguruar përmbushjen në mënyrë të vazhdueshme të kërkesave të referuara në nenet 9, 10 dhe 11 të këtij ligji. Në rastet kur vlerëson se kjo veprimtari nuk përputhet me këto kërkesa, ajo merr masa korrigjuese.
+4. Për vlerësimin e rezultatit të kontrollit, të përmendur në pikën 3, të këtij neni, ministria mbështetet maksimalisht në rezultatet e vlerësimit të kryer nga Organizata Europiane për Akreditimin.
+5. Drejtoria e Përgjithshme e Akreditimit, nëpërmjet bordit, trajton ankesat kundër organeve të vlerësimit të konformitetit, që ajo ka akredituar.
