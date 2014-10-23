@@ -1,0 +1,1 @@
+1. Përjashtimisht për vitin 2014, procedura e pranimit të drejtpërdrejtë në trupën e nëpunësve civilë të nivelit të lartë drejtues (TND) është e hapur edhe për kandidatët e tjerë jashtë shërbimit civil, që plotësojnë kërkesat specifike për pranimin në TND.
