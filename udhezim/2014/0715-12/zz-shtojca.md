@@ -50,7 +50,7 @@ ISO 7305:1986
 Ose
 AOAC 939,05 bot.18
 Proteina (Nx5,7)
-Minimumi 12.5% mbi bazën e peshës së thatë.
+Minimumi 9% mbi bazën e peshës së thatë.
 ICC 105/1 Metoda për përcaktimin e proteinës bruto në drithëra dhe produkte drithërash për ushqim dhe për ushqim për kafshët (metodë e tipit I) katalizator selenium/bakër.
 Ushqyesit:
 - vitaminat;
