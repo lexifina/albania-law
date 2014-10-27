@@ -1,0 +1,1 @@
+4. Kontributi i shtetit, përfaqësuar nga ministria përgjegjëse për sportin, të jetë vlera e pronës nr. 1051, me emërtim “Reparti ushtarak nr. 5013, nënrepart”, me vendndodhje në Bigaz, Skrapar, sipas rivlerësimit që do t’i bëhet kësaj prone para regjistrimit të shoqërisë pranë QKR-së.

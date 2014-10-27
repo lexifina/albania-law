@@ -1,0 +1,1 @@
+1. Dhënien e pëlqimit për krijimin e një shoqërie aksionare, ndërmjet Federatës Shqiptare të Rafting dhe Ministrisë së Arsimit dhe Sportit, me qëllim ndërtimin dhe administrimin e një qendre sportive për sportin e “Rafting”, e cila do të funksionojë në pronën me nr. 1051, me emërtim “Reparti ushtarak nr. 5013, nënrepart”, me vendndodhje në Bigaz, Skrapar.
