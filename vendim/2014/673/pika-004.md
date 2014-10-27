@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 796 514 (shtatëqind e nëntëdhjetë e gjashtë mijë e pesëqind e katërmbëdhjetë) lekësh të përballohet nga buxheti i vitit 2015, zëri “Detyrimet e prapambetura”.
