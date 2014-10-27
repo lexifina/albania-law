@@ -1,0 +1,153 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+AUTORITETI RRUGOR SHQIPTAR
+DREJTORIA E ZHVILLIMIT TË PROJEKTEVE TË HUAJA, TË BRENDSHME DHE SHPRONËSIMEVE
+LISTA EMËRORE E PRONAREVE QË SHPRONËSOHEN NE SEGMENTIN RRUGOR
+”UNAZA VERIORE KORÇE” (DRITAT E VERDHA-KRYQ. RRUGA KORÇE-KAPSHTICE) SHTESAT
+Nr
+Emri
+Atësia
+Mbiemri
+Zona
+Numri i
+Sip.
+Sip.
+TOKË TRUALL
+TOKË ARË
+Vlera
+Shënime
+Kadastr.
+pasurisë
+totale
+(m2)
+Çmimi
+Vlera
+Çmimi
+Vlera
+Totale
+(lekë/m2)
+(lekë)
+(lekë/m2)
+(lekë)
+(lekë)
+1
+Klea
+Sevo +bp.
+8561
+1/751
+2700
+350
+10000
+3500000
+3500000
+Konfirmim ZVRPP
+2
+Mishel
+Stefanllari + bp.
+8562
+6\64
+117.2
+23
+10000
+230000
+230000
+Konfirmim ZVRPP
+3
+Luan
+Shefqet
+Banaj
+8562
+6/190
+74.5
+22
+10000
+220000
+220000
+Konfirmim ZVRPP
+4
+Fiqirije
+Gjata + bp.
+8562
+6/469
+280
+53
+10000
+530000
+530000
+Konfirmim ZVRPP
+5
+Fiqirije
+Gjata + bp.
+8562
+6/334
+16.5
+16.5
+10000
+165000
+165000
+Konfirmim ZVRPP
+6
+Spiro
+Fane
+Gjoni
+1101
+204/22
+1760
+75
+279.4
+20955
+20955
+Konfirmim ZVRPP
+7
+Klea
+Vasillaq
+Spiro
+8561
+11\82
+1163
+86
+10000
+860000
+860000
+Konfirmim ZVRPP
+8
+Ilia
+Ligor
+Tili
+8561
+10/183
+22196
+163
+10000
+1630000
+1630000
+Certifikatë pronësie
+Bertha
+Çili (Tili)
+9
+Theodhora
+Ndili
+8561
+10/181
+2521.3
+72
+10000
+720000
+720000
+Certifikatë pronësie
+10
+Sali
+Tefik
+Ravolli
+1101
+218/10
+8300
+133
+279.4
+37160.2
+37160.2
+Konfirmim ZVRPP
+993.5
+7855000
+58115
+7913115.20

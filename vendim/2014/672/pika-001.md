@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit “Unaza veriore Korçë (Dritat e verdha - kryqëzimi, rruga Korçë - Kapshticë) shtesat”.
