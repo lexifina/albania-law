@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 82 641 127.59 (tetëdhjetë e dy milionë e gjashtëqind e dyzet e një mijë e njëqind e njëzet e shtatë pikë pesëdhjetë e nëntë) lekësh të përballohet nga zëri “Detyrime të prapambetura”, për vitin buxhetor 2015.
