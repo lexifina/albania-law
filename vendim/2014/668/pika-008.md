@@ -1,0 +1,1 @@
+8. Transferimet e studentëve në numrin përkatës të kuotës bëhen bazuar në udhëzimin e ministrit të Arsimit dhe Sportit dhe sipas kritereve të meritës, të përcaktuara nga vetë institucionet publike të arsimit të lartë dhe në këtë vendim.

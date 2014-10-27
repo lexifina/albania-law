@@ -1,0 +1,1 @@
+10. Kuotat e pranimeve për shtetasit e huaj, të përcaktuara përkatësisht në shkronjat “ç”, të pikave 1 dhe 3, të këtij vendimi, administrohen nga Ministria e Arsimit dhe Sportit. Ato shpërndahen në bazë të marrëveshjeve dy- apo shumëpalëshe, si dhe në bazë të kërkesave individuale, të paraqitura në Ministrinë e Arsimit dhe Sportit nga personat e interesuar.

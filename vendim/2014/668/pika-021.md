@@ -1,0 +1,1 @@
+21. Kuotat e parealizuara rishpërndahen nga ministri i Arsimit dhe Sportit, në varësi të prioriteteve dhe politikave shtetërore në arsimin e lartë. Kuotat e parealizuara dhe të pashpërndara deri në 16.12.2014 nuk mund të rishpërndahen më.

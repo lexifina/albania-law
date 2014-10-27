@@ -1,0 +1,1 @@
+17. Tarifat e shkollimit për kredit për studentët që do të regjistrohen në vitin e parë, për të gjitha programet e studimeve të ciklit të dytë me kohë të plotë, “Master Profesional” dhe “Master i Shkencave” apo “Master i Arteve të Bukura”, në vitin akademik 2014 - 2015, pasqyrohen përkatësisht në tabelat nr. 1 dhe nr. 2, bashkëlidhur këtij vendimi.
