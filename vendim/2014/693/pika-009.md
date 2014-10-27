@@ -1,0 +1,1 @@
+9. Në grupin e institucioneve të tjera qeveritare (Gr. 87) në programin “Shërbime të tjera”, shtohet fondi prej 700 000 (shtatëqind mijë) lekësh në zërin “Shpenzime korrente” për ADISA-n, për vitin 2014.

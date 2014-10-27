@@ -1,0 +1,1 @@
+4. ADISA organizohet dhe funksionon në nivel qendror nëpërmjet Drejtorisë së Përgjithshme të Qendrës së Ofrimit të Shërbimeve Publike të Integruara dhe në nivel vendor nëpërmjet qendrave të shërbimeve publike të integruara me një ndalesë. Struktura e kësaj qendre miratohet nga Kryeministri.

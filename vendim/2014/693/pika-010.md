@@ -1,0 +1,1 @@
+10. Në buxhetin e miratuar për vitin 2014, për Kryeministrinë, pakësohet fondi prej 700 000 (shtatëqind mijë) lekësh, në zërin “Shpenzime korrente”, në programin “Planifikim, menaxhim dhe administrim”.
