@@ -1,0 +1,1 @@
+1. Dhënien, nga Ministria e Arsimit dhe Sportit, e 84 (tetëdhjetë e katër) bursash studimi për nxënësit e shkollës së mesme profesionale “Peter Mahringer”, Shkodër, për vitin shkollor 2014-2015, nga të cilat 24 (njëzet e katër) bursa studimi për nxënësit e viteve përgatitore dhe 60 (gjashtëdhjetë) bursa studimi për nxënësit e viteve të para (deri në vitin e katërt).
