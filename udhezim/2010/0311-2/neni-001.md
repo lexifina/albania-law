@@ -13,3 +13,4 @@
 - autobusët;
 - mjetet rrugore që përdoren për transportin e mallrave të rrezikshme.
 6. Drejtuesit e mjeteve rrugore duhet të dorëzojnë te subjekti i licencuar për kryerjen e shërbimit të kontrollit teknik vjetor KTV kontratën e sigurimit të mjetit. Në të kundërt ky shërbim nuk kryhet.
+7.Drejtuesit e mjeteve rrugore që kanë tahograf të instaluar në mjet, duhet të paraqesin te subjekti i licencuar për kryerjen e shërbimit të kontrollit teknik vjetor (KTV) certifikatën e kryerjes së operacionit teknik (inspektim/kalibrim) të tahografit, të lëshuar nga ofiçina e autorizuar. Në të kundërt ky shërbim nuk kryhet.
