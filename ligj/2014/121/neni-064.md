@@ -1,0 +1,10 @@
+# Neni 64
+E drejta e bashkimit familjar të refugjatit dhe procedura e aplikimit
+1. Anëtarët e familjes së refugjatit dhe ata nën mbrojtje plotësuese në Republikën e Shqipërisë gëzojnë të drejtën e bashkimit familjar. Këtë të drejtë mund ta gëzojnë përjashtimisht edhe personat që janë nën mbrojtje të përkohshme.
+2. Refugjati i mitur dhe i pashoqëruar ka të drejtë të kërkojë bashkim familjar me prindërit, motrat, vëllezërit, anëtarë të tjerë të familjes, të cilët bashkëjetojnë me të ligjërisht ose që janë të mitur dhe të pamartuar. Kur këta persona të familjes, të shkallës së parë, në linjë të drejtë, nuk mund të gjenden, i mituri i pashoqëruar ka të drejtë të kërkojë bashkim familjar me kujdestarin ligjor ose me ndonjë të afërm tjetër, jo në linjë të drejtë.
+3. Në rast të një martese poligame, kur një nga bashkëshortët e refugjatit jeton me të në Republikën e Shqipërisë, nuk mund të autorizohet hyrja, qëndrimi dhe dhënia e bashkimit familjar të bashkëshortit ose bashkëshortes tjetër dhe as të fëmijëve të këtij bashkëshorti ose bashkëshorteje, pa paragjykuar dispozitat e konventës “Mbi të drejtat e fëmijës” të vitit 1989.
+4. Në rast të një martese poligame, kur bashkëshortët jetojnë jashtë territorit të Republikës së Shqipërisë, aplikuesi ka të drejtë të kërkojë bashkim familjar me njërin nga bashkëshortët dhe me fëmijët e këtij bashkëshorti ose bashkëshorteje, sipas përcaktimeve të pikës 1 të këtij neni.
+5. Refugjati ka të drejtë të aplikojë për bashkim familjar, vetëm pas dhënies së vendimit përfundimtar.
+6. Gjatë shqyrtimit të aplikimit lidhur me bashkimin familjar të partnerit/partneres, bashkëjetues/e të aplikuesit, do të merren si provë e marrëdhënies familjare faktorë, si fëmijë i përbashkët, banim i përbashkët, regjistrim i partneritetit dhe çdo mjet tjetër prove i besueshëm.
+7. Autoriteti përgjegjës për azilin dhe refugjatët mund të kryejë intervista me aplikuesin dhe anëtarët e tij të familjes, si dhe regjistron të gjitha të dhënat e përfituara gjatë shqyrtimit të aplikimit.
+8. Gjatë procedurës së aplikimit për bashkim familjar aplikuesi mund të ndihmohet, të këshillohet ose të përfaqësohet nga një avokat.
