@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 213 274 868 (dyqind e trembëdhjetë milionë e dyqind e shtatëdhjetë e katër mijë e tetëqind e gjashtëdhjetë e tetë) lekësh të përballohet nga buxheti i vitit 2014, zëri “Shpronësimet”, planifikuar për Autoritetin Rrugor Shqiptar.
