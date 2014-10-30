@@ -1,0 +1,1 @@
+2. Dhënia e medaljeve shoqërohet me certifikatë, formati i së cilës është letër A4 (210 mm x 297 mm), 160 g/m2, me fushë me stemën e institucionit, me kornizë me shirit anash. Specifikimet për certifikatën shoqëruese të medaljes jepen në lidhjen nr.6, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
