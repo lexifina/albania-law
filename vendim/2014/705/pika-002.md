@@ -1,0 +1,1 @@
+2. Institucionet private të arsimit të lartë, të përmendura në pikën 1, të këtij vendimi, të vijojnë veprimtarinë akademike me të gjitha të drejtat dhe detyrimet që burojnë nga ligji për arsimin e lartë dhe aktet nënligjore në zbatim të tij.
