@@ -1,0 +1,1 @@
+9. Struktura dhe organika e AKSHI-it, të miratuara sipas vendimit nr. 248, datë 27.4.2007, të Këshillit të Ministrave, mbeten në fuqi deri në miratimin e strukturës dhe organikës së re sipas këtij vendimi.

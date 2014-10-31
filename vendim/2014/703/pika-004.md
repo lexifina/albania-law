@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për investimet, gjatë planifikimit të projektbuxhetit të shtetit, duhet të marrë mendimin e AKSHI-t, i cili është organ teknik-këshillimor i institucioneve të përmendura në shkronjën “ç”, të pikës 4, të këtij vendimi, për kërkesat e tyre, për financimin me fonde buxhetore të projekteve në fushën e teknologjisë së informacionit dhe komunikimit.

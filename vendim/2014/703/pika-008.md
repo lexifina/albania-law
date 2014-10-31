@@ -1,0 +1,1 @@
+8. Agjencia Kombëtare e Shoqërisë së Informacionit, e krijuar me vendimin nr. 248, datë 27.4.2007, të Këshillit të Ministrave, “Për krijimin e Agjencisë Kombëtare të Shoqërisë së Informacionit”, të ndryshuar, vazhdon funksionimin me miratimin e këtij vendimi.

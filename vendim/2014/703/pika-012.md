@@ -1,0 +1,1 @@
+12. Ngarkohen Kryeministria, ministri i Shtetit për Inovacionin dhe Administratën Publike, Ministria e Financave dhe Ministria e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes për zbatimin e këtij vendimi.
