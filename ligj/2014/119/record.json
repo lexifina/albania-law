@@ -1,0 +1,28 @@
+{
+  "qbz_id": 11120,
+  "title": "PËR TË DREJTËN E INFORMIMIT",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "119",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2014-09-18",
+  "published": "2014-10-17",
+  "in_force": "2014-11-01",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/ea8a541d72e46ffdf9b500755b90f0a59a5af93563497917c19a24667dbf8d53.docx",
+  "source_sha256": "ea8a541d72e46ffdf9b500755b90f0a59a5af93563497917c19a24667dbf8d53",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11120",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2014/09/18/119",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    26747
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
