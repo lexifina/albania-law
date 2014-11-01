@@ -1,0 +1,6 @@
+# Neni 9
+Transferimi ndërkombëtar i të dhënave që duhet të autorizohen
+1. Transferimi ndërkombëtar i të dhënave personale me një shtet, që nuk ka nivel të mjaftueshëm të mbrojtjes së të dhënave, në raste të tjera nga ato të parashikuara në nenin 8 të këtij ligji, bëhet me autorizim të komisionerit kur parashtrohen siguri të mjaftueshme në lidhje me mbrojtjen e privatësisë dhe të të drejtave e lirive themelore të njeriut, si dhe në lidhje me ushtrimin e së drejtës përkatëse.
+2. Komisioneri, pasi bën vlerësimin sipas përcaktimeve të pikës 1 të këtij neni dhe të pikës 1 të nenit 8, mund të japë autorizimin për transferimin e të dhënave personale në shtetin marrës, duke përcaktuar kushte dhe detyrime.
+3. Komisioneri nxjerr udhëzime për lejimin e disa kategorive të transferimeve ndërkombëtare të të dhënave personale në një shtet që nuk ka nivel të mjaftueshëm të mbrojtjes së të dhënave personale. Në këto raste, kontrolluesi përjashtohet nga kërkesa për autorizim.
+4. Kontrolluesi, përpara transferimit të të dhënave, bën kërkesë për autorizim te komisioneri. Në kërkesë kontrolluesi duhet të garantojë respektimin e interesave për ruajtjen e sekretit të subjektit të të dhënave jashtë Republikës së Shqipërisë.
