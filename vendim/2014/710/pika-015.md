@@ -1,0 +1,1 @@
+15. Afati përfundimtar për shqyrtimin dhe miratimin e bursave, për vitet e para, është data 31 dhjetor 2014, për të gjitha kategoritë e shkollave, ndërsa për vitin e dytë e lart është data 15 nëntor 2014. Vendimet e miratuara nga këshillat bashkiakë apo këshillat e komunës, jashtë këtij afati, janë të pavlefshme.

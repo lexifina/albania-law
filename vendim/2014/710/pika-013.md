@@ -1,0 +1,1 @@
+13. Ministria e Arsimit dhe Sportit dhe Ministria e Mirëqenies Sociale dhe Rinisë, për vitin e ri akademik 2014-2015, të japë 1850 (një mijë e tetëqind e pesëdhjetë) bursa për nxënësit dhe 1800 (një mijë e tetëqind) bursa për studentët, për hyrjet e reja në vitin e parë në sistemin arsimor publik, për të gjitha kategoritë e parashikuara në pikën 2, të këtij vendimi.

@@ -1,0 +1,1 @@
+14. Efektet financiare të vitit akademik 2014-2015 të përballohen nga fondet e buxhetit të shtetit, miratuar për Ministrinë e Arsimit dhe Sportit dhe Ministrinë e Mirëqenies Sociale dhe Rinisë për vitin 2014, për pjesën e vitit 2014 si dhe nga fondet e buxhetit të shtetit që do të miratohet për vitin 2015, për pjesën e vitit 2015.

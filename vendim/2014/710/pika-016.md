@@ -1,0 +1,1 @@
+16. Ministri i Arsimit dhe Sportit dhe ministri i Mirëqenies Sociale dhe Rinisë, për raste të veçanta, kur vendimet e këshillave të njësive bazë të qeverisjes vendore janë miratuar brenda afatit të përcaktuar në pikën 14, të këtij vendimi, por dërgohen jashtë afatit të përcaktuar, kanë të drejtë të shqyrtojnë dhe të rivendosin në afat përfitimin e bursës për nxënësin/studentin.
