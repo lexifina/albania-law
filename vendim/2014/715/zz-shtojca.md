@@ -1,0 +1,499 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+Autoriteti Rrugor Shqiptar
+Sektori i Shpronësimeve
+LISTA E PRONARËVE QË SHPRONËSOHEN PËR EFEKT TË NDËRTIMIT TË SEGMENTIT RRUGOR ”LIBRAZHD- Q. STUDE” LOTI 2
+PRONARI
+TOKË ARË
+TOKËTRUALL
+VLERA
+Nr.
+Emri - atësia - mbiemri
+Z.K.
+NR. PAS
+Sip (m2)
+Çmimi (lek/m2)
+Vlera
+(lekë)
+Sip (m2)
+Çmimi (lek/m2)
+Vlera(lekë)
+Totale (lekë)
+Shënime
+Librazhd Z.K. 2446
+1
+Refat Hysen Kurti
+2446
+1/467
+100
+10500
+1050000
+1050000
+Konfirmim ZVRPP
+Fshati Dorëz Komuna Qendër Z.K. 1517
+2
+Shefki Dosku
+1517
+678
+390
+246
+95940
+95940
+Konfirmim ZVRPP
+3
+Xhemal Dosku
+1517
+675
+145
+246
+35670
+35670
+Konfirmim ZVRPP
+4
+Shaban Dosku
+1517
+666/12
+93
+246
+22878
+22878
+Konfirmim ZVRPP
+5
+Sami Dosku
+1517
+666/11
+68
+246
+16728
+16728
+Konfirmim ZVRPP
+6
+Drini Abaz Dosku
+1517
+666/10
+47
+246
+11562
+11562
+Konfirmim ZVRPP
+7
+Gafur Dosku
+1517
+666/9
+92
+246
+22632
+22632
+Konfirmim ZVRPP
+8
+Gafur Dosku
+1517
+664/1
+77
+246
+18942
+18942
+Konfirmim ZVRPP
+9
+Riza Dosku
+1517
+663/9
+53
+246
+13038
+13038
+Konfirmim ZVRPP
+10
+Riza Dosku
+1517
+663/11
+41
+246
+10086
+10086
+Konfirmim ZVRPP
+11
+Drini Abaz Dosku
+1517
+665/1
+30
+246
+7380
+7380
+Konfirmim ZVRPP
+12
+Sami Dosku
+1517
+665/2
+20
+246
+4920
+4920
+Konfirmim ZVRPP
+13
+Idajt Biçaku
+1517
+663/8
+31
+246
+7626
+7626
+Konfirmim ZVRPP
+14
+Bujar Muça
+1517
+650/4
+338
+246
+83148
+83148
+Konfirmim ZVRPP
+15
+Naze Muça
+1517
+650/3
+211
+246
+51906
+51906
+Konfirmim ZVRPP
+16
+Liman Alla
+1517
+110
+139
+246
+34194
+34194
+Konfirmim ZVRPP
+17
+Gafur Dosku
+1517
+1//23
+650
+246
+159900
+159900
+Konfirmim ZVRPP
+18
+Petrit Allushi
+1517
+1//2
+526
+246
+129396
+129396
+Konfirmim ZVRPP
+19
+Petrit Allushi
+1517
+1//3
+76
+246
+18696
+18696
+Konfirmim ZVRPP
+20
+Shyqyri Allushi
+1517
+1//13
+46
+246
+11316
+11316
+Konfirmim ZVRPP
+21
+Selim Biçaku
+1517
+20/2
+61
+246
+15006
+15006
+Konfirmim ZVRPP
+22
+Hamdi Shkurti
+1517
+26/6
+18
+246
+4428
+4428
+Konfirmim ZVRPP
+23
+Muhamet Shkurti
+1517
+26/3
+583
+246
+143418
+143418
+Konfirmim ZVRPP
+24
+Faik Shkurti
+1517
+26/2
+570
+246
+140220
+140220
+Konfirmim ZVRPP
+25
+Shefqet Shkurti
+1517
+566/1
+136
+1073
+145928
+145928
+Konfirmim ZVRPP
+26
+Muhamet Shkurti
+1517
+566/2
+97
+1073
+104081
+104081
+Konfirmim ZVRPP
+Faik Shkurti
+27
+Sefedin Shkurti
+1517
+563/7
+26
+246
+6396
+6396
+Konfirmim ZVRPP
+28
+Jakup Shkurti
+1517
+563/8
+25
+246
+6150
+6150
+Konfirmim ZVRPP
+29
+Faik Shkurti
+1517
+563/9
+59
+246
+14514
+14514
+Konfirmim ZVRPP
+30
+Shpetim Rreshka
+1517
+563/10
+97
+246
+23862
+23862
+Konfirmim ZVRPP
+31
+Nazmi Shkurti
+1517
+563/11
+88
+246
+21648
+21648
+Konfirmim ZVRPP
+Fshati Zgosht Komuna Lunik Z.K. 3913
+32
+Seit All
+3913
+1002/1
+203
+269
+54607
+54607
+Konfirmim ZVRPP
+33
+Beshir Boci
+3913
+710
+11
+269
+2959
+2959
+Konfirmim ZVRPP
+34
+Agim Boci
+3913
+715
+20
+269
+5380
+5380
+Konfirmim ZVRPP
+35
+Beshir Boci
+3913
+716
+543
+269
+146067
+146067
+Konfirmim ZVRPP
+36
+Izet Boci
+3913
+543
+181
+269
+48689
+48689
+Konfirmim ZVRPP
+37
+Ismail Qoshi
+3913
+540
+218
+269
+58642
+58642
+Konfirmim ZVRPP
+38
+Nazmi Qoshi
+3913
+538
+230
+269
+61870
+61870
+Konfirmim ZVRPP
+39
+Dhimiter (Bashkim) Qoshi
+3913
+536
+184
+269
+49496
+49496
+Konfirmim ZVRPP
+40
+Nazmi Qoshi
+3913
+535/1
+483
+269
+129927
+129927
+Konfirmim ZVRPP
+41
+Gjelberim Alla
+3913
+520/1
+149
+269
+40081
+40081
+Konfirmim ZVRPP
+42
+Hamit Shuli
+3913
+520/2
+193
+269
+51917
+51917
+Konfirmim ZVRPP
+43
+Xhezar Alla
+3913
+56
+454
+269
+122126
+122126
+Konfirmim ZVRPP
+44
+Uran Alla
+3913
+57
+448
+269
+120512
+120512
+Konfirmim ZVRPP
+45
+Hamide Alla
+3913
+1233
+156
+269
+41964
+41964
+Konfirmim ZVRPP
+46
+Arben Alla
+3913
+71
+520
+269
+139880
+139880
+Konfirmim ZVRPP
+47
+Hamide Alla
+3913
+72
+132
+269
+35508
+35508
+Konfirmim ZVRPP
+48
+Haki Alla
+3913
+81
+327
+269
+87963
+87963
+Konfirmim ZVRPP
+49
+Hysni Alla
+3913
+85
+78
+269
+20982
+20982
+Konfirmim ZVRPP
+50
+Arben Alla
+3913
+89
+363
+269
+97647
+97647
+Konfirmim ZVRPP
+51
+Xhemal Kaca
+3913
+93
+496
+269
+133424
+133424
+Konfirmim ZVRPP
+52
+Daut Kaca
+3913
+95
+197
+269
+52993
+52993
+Konfirmim ZVRPP
+10186
+2634234
+333
+1300009
+3934243
