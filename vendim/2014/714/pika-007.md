@@ -1,0 +1,1 @@
+7. Pronarët e listës që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konfir-muar ZVRPP”, të likuidohen, për efekt shpro-nësimi, pasi të dorëzojnë dokumentacionin e plotë të pronësisë pranë Autoritetit Rrugor Shqiptar.
