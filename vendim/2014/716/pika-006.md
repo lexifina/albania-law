@@ -1,0 +1,1 @@
+6. Studentët e huaj transferojnë studimet pas plotësimit të kushteve dhe kritereve ligjore për ndjekjen e studimeve në Republikën e Shqipërisë, të cilat bëhen publike pranë institucionit të arsimit të lartë ku kërkojnë të transferojnë studimet.

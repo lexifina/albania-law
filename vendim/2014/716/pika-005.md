@@ -1,0 +1,1 @@
+5. Pagesa e tarifës për të gjitha programet e studimit bëhet me këste të përcaktuara nga institucioni publik i arsimit të lartë. Kësti i parë parashikon pagesën në masën 30% të tarifës totale dhe paguhet menjëherë me regjistrimin e studentit në programin përkatës të studimit.

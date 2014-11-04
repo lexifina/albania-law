@@ -1,0 +1,1 @@
+3. Kuotat e përcaktuara në pikën 2, të këtij vendimi, shpërndahen sipas tabelave nr.1, nr.2 dhe nr.3, përkatësisht, për programet e studimeve të ciklit të parë, programet e integruara të studimeve të ciklit të dytë dhe programet e studimeve të ciklit të dytë, me kohë të plotë, bashkëlidhur këtij vendimi.

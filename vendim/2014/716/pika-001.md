@@ -1,0 +1,1 @@
+1. Studentët, që ndiqnin studimet në institucionet private të arsimit të lartë, të cilave u është hequr licenca, mund të transferojnë studimet e tyre në institucionet publike të arsimit të lartë në një program studimi të njëjtë apo të ngjashëm me atë që ndiqnin në institucionet nga ku transferohen.
