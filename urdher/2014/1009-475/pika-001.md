@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi rregullat që duhet të zbatohen në lidhje me kontrollin dhe survejancën, si dhe masat e bllokimit të lëvizjeve të kafshëve që preken nga sëmundja “Gjuha Blu”, bashkëlidhur këtij urdhri.
