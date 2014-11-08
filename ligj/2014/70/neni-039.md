@@ -1,0 +1,5 @@
+# Neni 39
+Kontrolli i dokumenteve dhe evidencave, kërkimi dhe marrja e të dhënave të mbledhura në mënyrë të ligjshme
+1. Punonjësi i Shërbimit ka të drejtë të hyjë, të kontrollojë dhe të marrë dokumente, evidenca dhe informacione, në formë të shkruar ose elektronike, në të gjitha zyrat, sekretaritë, kartotekat, arkivat e mjediset e strukturave ose t’i marrë ato nga çfarëdo burim tjetër informacioni, sipas rregullave të miratuara nga ministri.
+2. Për nevoja të verifikimit të një informacioni të administruar, për punonjës të veçantë të strukturave, Shërbimi bën verifikime për veprimtaritë e jashtme, dypunësimin, investimet, pasuritë dhe dhuratat ose privilegjet, nga të cilat mund të lindë një konflikt interesi për shkak të funksioneve të tyre si nëpunës publik.
+3. Organet e administratës shtetërore, personat fizikë e juridikë, në përputhje me legjislacionin në fuqi, paraqesin të dhënat identifikuese dhe informacionet e mbledhura në mënyrë të ligjshme, kur kërkohen nga Shërbimi dhe që i përkasin objektit të veprimtarisë së tij.
