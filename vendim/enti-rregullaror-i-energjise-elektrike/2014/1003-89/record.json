@@ -1,0 +1,26 @@
+{
+  "qbz_id": 11239,
+  "title": "MBI MIRATIMIN E KËRKESËS PËR DHËNIEN E AUTORIZIMIT PËR NËNSHKRIMIN E MARRËVESHJEVE NË KUADËR TË SIGURIMIT TË KREDISË NGA BANKA BOTËRORE PËR PROJEKTIN PËR RIMËKËMBJEN E SEKTORIT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "89",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2014-10-03",
+  "published": "2014-11-10",
+  "in_force": "2014-11-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b27c6243b0945587001b8fff660d142b813a4c512f9c22aee05fb70bbd639eb3.docx",
+  "source_sha256": "b27c6243b0945587001b8fff660d142b813a4c512f9c22aee05fb70bbd639eb3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11239",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/10/03/89",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
