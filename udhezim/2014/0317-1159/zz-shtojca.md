@@ -11,11 +11,7 @@ Ky seksion duhet të përmbajë një deklaratë të shkurtër për qëllimin dhe
 Në këtë seksion duhet të specifikohet data e nënshkrimit të marrëveshjes, e cila është data efektive e marrëveshjes ligjore ndërmjet palëve.
 4. Përkufizimet e termave teknikë në dokument
 Në këtë seksion duhet të jenë të specifikuara përkufizimet dhe termat teknikë të përdorur në marrëveshje.
-5. Përshkrimi i shërbimeve
-Në këtë seksion, për secilin shërbim të ofruar, duhet të paraqiten këto të dhëna:
-- përshkrimi i detajuar i shërbimeve;
-- specifikimet teknike;
-- përgjegjësitë që ka secila palë në ofrimin dhe përftimin e shërbimeve.
+5. MNSH-ja për pajisjet hardware, aplikacionet, licencat ose kombinimet e tyre duhet të fillojë menjëherë nga momenti i marrjes në dorëzim nga porositësi të pajisjes hardware, të aplikacionit, licencës apo kombinimit të tyre. Garancia për pajisjet hardware është me kohëzgjatje minimale 1-vjeçare.
 6. Të drejtat dhe detyrimet e institucionit
 Në këtë seksion duhen specifikuar përgjegjësitë që ka institucioni në lidhje me këtë marrëveshje. Veçanërisht të drejtat dhe detyrimet që ka institucioni ndaj ofruesit të shërbimit.
 7. Të drejtat dhe detyrimet e ofruesit të shërbimit
