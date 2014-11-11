@@ -1,0 +1,1 @@
+1. Autorizimet për dërgimin me shërbim të punonjësve të Autoritetit Shtetëror për Infor-macionin Gjeohapësinor-ASIG, jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km, të lëshohen nga drejtori i Përgjithshëm i Autoritetit Shtetëror për Informacionin Gjeohapësinor- ASIG.
