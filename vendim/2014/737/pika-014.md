@@ -1,0 +1,1 @@
+14. Mënyrat e pagesës së paketave të shërbimeve shëndetësore, që ofrohen nga qendrat shëndetësore, si dhe pagat e shpërblime të tjera të personelit të qendrave shëndetësore miratohen me vendim të Këshillit Administrativ të Fondit.

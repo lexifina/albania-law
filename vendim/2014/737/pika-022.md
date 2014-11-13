@@ -1,0 +1,1 @@
+22. Vendimi nr.857, datë 20.12.2006, i Këshillit të Ministrave, “Për financimin e shërbimeve të kujdesit shëndetësor parësor nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor”, të ndryshuar, shfuqizohet.

@@ -1,0 +1,1 @@
+12. Kontrata mbështetet në parimin e së drejtës së popullatës për t’u informuar dhe për të zgjedhur lirisht ofruesin e shërbimeve shëndetësore, jo më shpesh se një herë në vit, përmes regjistrimit në qendrën shëndetësore.

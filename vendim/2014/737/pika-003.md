@@ -1,0 +1,1 @@
+3. Qendra shëndetësore është institucion i shërbimit të kujdesit shëndetësor parësor, publik, jofitimprurës, me llogari bankare të veçantë, që përfshin të gjithë rrjetin e dhënësve të shërbimit në varësi të saj.

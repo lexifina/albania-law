@@ -1,0 +1,1 @@
+16. Burime të tjera financimi për qendrat shëndetësore janë fondet e krijuara nga të ardhurat e realizuara gjatë veprimtarisë së tyre dhe nga dhurimet. Përdorimi i tyre bëhet nga vetë qendra shëndetësore, si pjesë e kostos së shërbimit, sipas një udhëzimi të miratuar nga Këshilli Administrativ i Fondit.

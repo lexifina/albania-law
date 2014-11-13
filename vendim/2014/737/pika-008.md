@@ -1,0 +1,1 @@
+8. Qendra shëndetësore e ushtron veprimtarinë e saj në përputhje me standardet e shërbimit, treguesit e cilësisë dhe të performancës dhe në përputhje me përcaktimet e udhërrëfyesve dhe protokolleve të praktikës klinike kombëtare (PKK).
