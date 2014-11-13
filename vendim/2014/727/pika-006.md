@@ -1,0 +1,1 @@
+6. Pronari i pasurive, për të cilin është bërë shënimi “sipas kartelës së pasurisë”, të likuidohet, për efekt shpronësimi, pasi të ketë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë Rajonale të Kulturës Kombëtare, Durrës.

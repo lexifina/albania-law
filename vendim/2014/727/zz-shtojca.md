@@ -1,0 +1,35 @@
+# Shtojca
+LISTA E PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË DO TË SHPRONËSOHEN, PËR MARRJEN NË PËRDORIM TË PËRKOHSHËM PËR INTERES PUBLIK , TË CILAT PREKEN NGA ZBATIMI I PROJEKTIT “NDËRHYRJE TË PËRKOHSHME DHE REHABILITUESE NË SHESHIN “NËNË TEREZA”” MIRATUAR ME VENDIM TË KKR NR. 27/2014
+Nr.
+Pronari
+Zona kadastrale
+Nr. pasurie
+Sipërfaqe
+Çmimi lekë/m2
+Vlera leke
+SHËNIME
+truall
+ndërtim
+truall
+ndërtim
+truallit
+ndërtesë
+Banesë
+1
+Ornela Mansaku
+8280
+2/335
+135.0
+135.0
+23,955.0
+44,216.007
+3,233,925
+5,969,161
+sipas kartelës së pasurisë
+135
+135.0
+3,233,925
+5,969,161
+-
+9,203,086
+TOTALI Lekë
