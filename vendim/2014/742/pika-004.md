@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 68 787 560.60 (gjashtëdhjetë e tetë milionë e shtatëqind e tetëdhjetë e shtatë mijë e pesëqind e gjashtëdhjetë pikë gjashtëdhjetë) lekësh të përballohet nga të ardhurat e bashkisë së Elbasanit, planifikuar në buxhetin e saj.

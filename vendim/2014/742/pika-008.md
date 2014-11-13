@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i sipërfaqeve “truall” prej 1200.26 (një mijë e dyqind pikë njëzet e gjashtë) m², dhe “njësi” prej 892.65 ((tetëqind e nëntëdhjetë e dy pikë gjashtëdhjetë e pesë) m2, për hapjen dhe sistemimin e sheshit para stadiumit “Ruzhdi Bizhuta” të bëhet në favor të bashkisë së Elbasanit.
