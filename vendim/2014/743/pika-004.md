@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 494 112 (katërqind e nëntëdhjetë e katër mijë e njëqind e dymbëdhjetë) lekësh të përballohet nga të ardhurat e komunës Trebisht, planifikuar në buxhetin e saj.
