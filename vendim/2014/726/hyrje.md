@@ -1,0 +1,5 @@
+VENDIM
+Nr. 726, datë 2.11.2014
+PËR MIRATIMIN E MARRËVESHJES SË DYTË NDRYSHUESE, NDËRMJET “ALBPETROL”, SHA-SË, DHE BANKERS PETROLEUM ALBANIA, LTD, PËR MARRËVESHJEN HIDROKARBURE TË DATËS 19 QERSHOR 2004, MIRATUAR ME VENDIMIN NR.477, DATË 16.7.2004, TË KËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E MARRËVESHJES PËR ZHVILLIMIN DHE PRODHIMIN E HIDROKARBUREVE NË VENDBURIMIN E PATOS-MARINZËS”, TË NDRYSHUAR
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 5 e 13, të ligjit nr.7746, datë 28.7.1993, “Për hidrokarburet (kërkimi dhe prodhimi)”, të ndryshuar, me propozimin e ministrit të Energjisë dhe Industrisë, Këshilli i Ministrave
+VENDOSI:
