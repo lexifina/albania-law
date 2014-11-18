@@ -1,1 +1,0 @@
-1. Objekt i këtij vendimi është rregullimi i marrëdhënieve ndërmjet autoriteteve kontraktore dhe operatorëve ekonomikë për realizimin e prokurimeve të mallrave, punëve dhe të shërbimeve, që kanë lidhje me sigurimin e informacionit të klasifikuar “Sekret shtetëror”, në fushën industriale.

@@ -1,1 +1,0 @@
-4. Certifikata e sigurimit industrial kërkohet edhe për kontratat e klasifikuara me nënkontraktorë, kur parashikohet nënshkrimi i një kontrate të tillë ose kur zbatimi i kontratës kërkon nënshkrimin e kontratave me nënkontraktorë.

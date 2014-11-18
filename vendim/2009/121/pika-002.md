@@ -1,1 +1,0 @@
-2. Ky vendim ka si qëllim plotësimin e standardeve për sigurimin e informacionit të klasifikuar “Sekret shtetëror” në fushën industriale, përcaktimin e kritereve të kontratave të klasifikuara, garancinë, që çdo kontraktues ka aftësinë dhe mundësinë të mbrojë, në mënyrë të përshtatshme, informacionin e klasifikuar “Sekret shtetëror”, në përputhje me dispozitat ligjore përkatëse.
