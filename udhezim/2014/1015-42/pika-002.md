@@ -1,0 +1,1 @@
+2. Procesi mësimor për arsimin bazë në institucionet e paraburgimit/të vuajtjes së dënimit të zhvillohet duke grupuar nxënësit në klasa të bashkuara, sipas grupmoshave përkatësisht në grupin e klasave I-III, IV-VI dhe VII-IX.

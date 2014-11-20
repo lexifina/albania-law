@@ -1,0 +1,1 @@
+6. Mësuesit, që do të realizojnë procesin mësimor në institucionet e paraburgimit/të vuajtjes së dënimit, të sigurohen brenda numrit të mësuesve në organikën e shkollave publike që kanë në varësi klasat në institucionet e paraburgimit/të vuajtjes së dënimit.
