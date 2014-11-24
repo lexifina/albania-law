@@ -1,0 +1,1 @@
+3. Konkurset e pranimit zhvillohen pranë IAL-ve përkatëse në datën 4 tetor 2014, bazuar në aplikimet e paraqitura nga kandidatët sipas afateve të parashikuara në këtë udhëzim. MAS monitoron konkurset e pranimit dhe procedurat e ndjekura për vlerësimin e studentëve. IAL-të dërgojnë në MAS vlerësimin e kandidatit brenda datës 6 tetor 2014.
