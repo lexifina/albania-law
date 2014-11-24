@@ -1,0 +1,1 @@
+10. Mësuesi ndihmës punon me nxënësit me AK krahas mësuesit në të gjitha orët mësimore vjetore apo në një pjesë të tyre, gjithashtu jashtë klasës, me nxënës të veçantë me AK ose me grupe të vogla, duke parapëlqyer grupimet e klasave I- III, IV-VI dhe VII-IX.
