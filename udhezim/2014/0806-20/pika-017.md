@@ -1,0 +1,1 @@
+17. Rezultatet e konkurseve të pranimit hidhen në portalin e Maturës Shtetërore online nga sekretaritë e fakulteteve sipas procedurave të udhëzimit teknik të dërguar nga AKP-ja. Më pas ato dërgohen në MAS e në AKP. Në formë shkresore dhe elektronike (në CD), brenda 3 ditëve nga përfundimi i tyre.

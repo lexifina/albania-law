@@ -1,0 +1,1 @@
+9. Agjencia Kombëtare e Provimeve AKP, deri në datën 19 gusht 2014, të përgatisë listën e konkurrentëve për konkurset e pranimit në programet e studimit sipas pikës 1 të këtij udhëzimi, sipas preferencave të kërkuara prej tyre në formularin A2.

@@ -1,0 +1,1 @@
+15. Të gjitha tarifat e regjistrimit për konkurrim në programet e ndryshme të studimit të ciklit të parë me kohë të plotë të arkëtohen nëpërmjet sistemit bankar ose zyrave të postës shqiptare, për llogari të IAL-së publike përkatëse.
