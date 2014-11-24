@@ -1,0 +1,1 @@
+3. Transferimi i studimeve mund të bëhet në një program studimi të njëjtë ose të ngjashëm të të njëjtit cikël e tipologji. IAL-ja mund të përcaktojë kritere të tjera shtesë të cilat përcaktohen në statut, në rregulloret përkatëse, ose me vendim të senatit akademik.

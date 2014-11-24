@@ -1,0 +1,1 @@
+1. Kandidatët e interesuar aplikojnë për transferim të studimeve dhe për program të dytë studimi nga data 1 tetor deri në orën 12.00 të datës 6 tetor 2014. Për programet e studimit që parashikojnë konkurs për pranimin e tyre, aplikimet kryhen nga data l tetorderi në orën 12.00 të datës 3 tetor 2014.
