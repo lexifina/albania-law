@@ -1,0 +1,1 @@
+6. Dekanati, pas shqyrtimit të dokumentacionit përkatës nga ana e komisioneve ad hoc, shpall dhe afishon listat e kandidatëve që kanë aplikuar për konkurs, në vende të dukshme, në mjediset e njësive kryesore përkatëse, brenda orës 16:00, të datës 4 nëntor 2014.

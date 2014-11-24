@@ -1,0 +1,1 @@
+4. Për të gjitha programet e studimit të ciklit të dytë në Universitetin e Arteve, Tiranë, pikët minimale dhe maksimale të konkurseve përcaktohen në tabelën nr. 2, bashkëngjitur këtij udhëzimi. Rregulloret dhe programet e konkurseve, të miratuara nga Universiteti i Arteve, Tiranë, të bëhen publike, brenda orës 11:00 të datës 23 tetor 2014.
