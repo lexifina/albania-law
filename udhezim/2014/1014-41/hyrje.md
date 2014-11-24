@@ -1,0 +1,6 @@
+UDHËZIM
+Nr. 41, datë 14.10.2014
+PËR PROCEDURAT E PRANIMIT PËR PLOTËSIMIN E KUOTAVE TË PAREALIZUARA NË RAUNDIN E DYTË DHE REGJISTRIMIT TË KANDIDATËVE FITUES NË PROGRAMET E STUDIMIT ME KOHË TË PLOTË, TË CIKLIT TË PARË TË STUDIMEVE, PROGRAMET E STUDIMEVE JOUNIVERSITARE, PROFESIONALE, SI DHE PROGRAMET E INTEGRUARA TË STUDIMEVE TË CIKLIT TË DYTË, NË INSTITUCIONET PUBLIKE TË ARSIMIT TË LARTË, PËR VITIN AKADEMIK
+2014-2015”
+Në mbështetje të nenit 102 të Kushtetutës, të neneve 26, 33, 35, 36 dhe 75 të ligjit nr. 9741, datë 21.5.2007, “ Për arsimin e lartë në Republikën e Shqipërisë”, i ndryshuar, të vendimit nr. 517, datë 1.8.2014 të Këshillit të Ministrave “Për kuotat e pranimit të studimeve me kohë të plotë në institucionet publike të arsimit të lartë, në ciklin e parë të studimeve, në programet e studimeve jouniversitare profesionale dhe në programet e integruara të studimeve të ciklit të dytë, si dhe tarifat e shkollimit për vitin akademik 2014-2015”, vendimit nr. 78, datë 8.2.2006 të Këshillit të Ministrave “ Për krijimin e Maturës Shtetërore dhe pranimet në shkollat e larta publike”, të ndryshuar, vendimit nr. 1013, datë 10.12.2010 të Këshillit të Ministrave “ Për Krijimin e Agjencisë Kombëtare të Provimeve (AKP)”,
+UDHËZOJ:

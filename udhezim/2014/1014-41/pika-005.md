@@ -1,0 +1,1 @@
+5. AKP-ja të shpallë listën e fituesve të raundit të dytë, më datë 23.10.2014, të ndarë sipas programeve përkatëse të studimit, në përputhje me kuotat e rishpërndara nga MAS. Lista e kandidatëve fitues(raundi i dytë) publikohet në faqen elektronike zyrtare të MAS-it dhe AKP-së më datë 23.10.2014.

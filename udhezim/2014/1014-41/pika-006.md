@@ -1,0 +1,1 @@
+6. AKP-ja u dërgon IALP-ve listat e kandidatëve fitues në formë shkresore, brenda datës 23.10.2014. Këto institucione, duke filluar nga kjo datë, t’i publikojnë listat e kandidatëve fitues në vende të dukshme në mjediset e fakulteteve përkatëse.

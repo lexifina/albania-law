@@ -1,0 +1,6 @@
+7. Sekretaritë mësimore të fakulteteve, në datat 24.10.2014 deri në 26.10.2014, prej orës 08:00 deri në orën 18:00, të pranojnë dokumentacionin për të gjithë kandidatët fitues. Kandidatët paraqesin dokumentacionin e mëposhtëm:
+a) Dokument identifikimi (kartë identiteti ose pasaportë). Në dosje mbahet vetëm fotokopja e një prej dokumenteve;
+b) 2 fotografi personale;
+c) Mandatarkëtimi i tarifës së regjistrimit prej 1,600 lekësh, paguar pranë zyrave të Postës Shqiptare ose bankave të nivelit të dytë për llogari të IALP-ve përkatëse, nga të gjithë kandidatët e shpallur fitues në këtë raund;
+d) Deklaratën e paraqitur në shtojcën 1, e cila plotësohet dhe firmoset nga kandidati në prani të punonjëses së sekretarisë mësimore dhe kundërfirmoset nga kjo e fundit.
+Sekretaritë mësimore të fakulteteve mbajnë regjistër të veçantë për dorëzimin e dokumentacionit me të dhënat mbi datën dhe orën e dorëzimit, si dhe nënshkrimin e kandidatëve fitues (në formatin e dërguar nga AKP) dhe konfirmojnë në portalin matura.akp.gov.al dorëzimin e dokumentacionit. Regjistri i veçantë, firmosur dhe vulosur nga titullari i institucionit publik të arsimit të lartë që kryen regjistrimin dhe nga kryesekretari mësimor, dërgohet në AKP brenda datës 28.10.2014.
