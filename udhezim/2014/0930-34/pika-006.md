@@ -1,1 +1,1 @@
-6.Kandidatët fitues regjistrohen pranë sekretarisë mësimore që mbulon programin e studimit ku janë shpallur fitues brenda orës 12:00 të datës 15 tetor 2014, duke paraqitur mandatin e pagesës së tarifës së regjistrimit prej 100 lekësh.
+6. Kandidatët fitues regjistrohen pranë sekretarisë mësimore që mbulon programin e studimit ku janë shpallur fitues brenda orës 12.00 të datës 27 tetor 2014, duke paraqitur mandatin e pagesës së tarifës së regjistrimit prej 100 lekësh.
