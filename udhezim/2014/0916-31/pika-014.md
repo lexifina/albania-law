@@ -1,0 +1,1 @@
+14.Institucionet e arsimit të lartë publik dhe privat, brenda datës 22 shtator 2014 marrin masa për përgatitjen dhe miratimin e rregulloreve të sekretarive mësimore, për regjistrimin e studentëve, plotësimin dhe ruajtjen e regjistrit bazë, sipas përcaktimeve të këtij udhëzimi.

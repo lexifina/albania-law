@@ -1,0 +1,9 @@
+10.Çdo regjistër ka një numër rendor unikal, i cili, së bashku me të dhënat e tjera të regjistrit përkatës mbahen në Agjencinë Kombëtare të Provimeve në një regjistër të veçantë, të shkruar dhe elektronik. Në kopertinën e regjistrave plotësohen nga punonjësi i Agjencisë Kombëtare të Provimeve të dhënat lidhur me:
+1.emërtimin e IAL-së;
+2.emërtiin e fakultetit;
+3.emërtimin e programit të studimit;
+4.llojin e programit të studimit (bachelor, master profesional, master shkencor et);
+5.formën e studimit (me kohë të plotë, me kohë të pjesshme etj.);
+6.numrin e regjistrit.
+Numri i regjistrit përcaktohet në momentin e tërheqjes së regjistrit, bazuar në numrin e regjistrimit të tij në regjistrin e AKP-së.
+Regjistri plotësohet me shkrim dore nga punonjësit e autorizuar të sekretarive mësimore pranë çdo fakulteti/departamenti. Për çdo faqe të re të regjistrit që fillon të plotësohet, personi i autorizuar për hedhjen e të dhënave plotëson të dhënat e parashikuara në pikën 10 të këtij udhëzimi. Për çdo rekord të hedhur firmos në hapësirën përkatëse punonjësi i autorizuar dhe kryesekretarja. Plotësimi i regjistrit me të dhënat e studentëve bëhet në momentin e regjistrimit të studentit duke rezultuar kështu rekordet e plotësuara në renditje kohore të datës së regjistrimit. Në momentin e regjistrimit të të dhënave të studentit, numri i matrikulimit nuk plotësohet. Ai plotësohet jo më vonë se 10 ditë nga përcaktimi i tij me shkresë zyrtare nga Agjencia Kombëtare e Provimeve, nga personi i autorizuar që ka plotësuar rekordin përkatës. Në mungesë të personit të autorizuar, e plotëson kryesekretarja e IAL-së, e cila nënshkruan plotësimin e kryer. Nëse studenti i huajnuk e disponon lejen e qëndrimit në Republikën e Shqipërisë në momentin e regjistrimit, të dhënat përkatëse hidhen nga personi që ka plotësuar rekordin përkatës, jo më vonë se afatet e parashikuara ligjore për qëndrimin e shtetasve të huaj në Republikën e Shqipërisë.

@@ -1,0 +1,1 @@
+6.Pas prodhimit nga Shtëpia Botuese e Teksteve Mësimore dhe dorëzimit në Agjencinë Kombëtare të Provimeve, kjo e fundit pajis IAL-në me regjistra brenda 30 ditëve nga data e depozitimit të kërkesës së IAL-së. Për të mundësuar pajisjen me regjistra brenda fillimit të regjistrimeve për vitin akademik 2014-2015, IAL-të duhet të depozitojnë kërkesën brenda datës 19 shtator 2014.

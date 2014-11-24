@@ -1,0 +1,1 @@
+2.IAL-të të regjistrojnë të gjithë studentët e rinj duke nisur nga viti akademik 2014-2015 e në vazhdim, në formë të shkruar (me dorë) në regjistrat që do të tërheqë IAL-ja, në zbatim të këtij udhëzimi, si dhe në format elektronik sipas formatit të përcaktuar në këtë udhëzim.

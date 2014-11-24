@@ -1,0 +1,1 @@
+8.Regjistrat e shkruar përmbajnë informa-cionet e parashikuara në shtojcën 2 të këtij udhëzimi dhe përgatiten nga Shtëpia Botuese e Teksteve Mësimore, sipas formatit të parashikuar në shtojcën 3 të këtij udhëzimi.
