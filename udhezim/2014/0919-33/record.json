@@ -1,0 +1,31 @@
+{
+  "qbz_id": 11283,
+  "title": "PËR PROCEDURAT E PRANIMIT DHE TË REGJISTRIMIT NË INSTITUCIONET E ARSIMIT TË LARTË PUBLIK E PRIVAT, NË VITIN AKADEMIK 2014-2015, TË STUDENTËVE QË TRANSFEROJNË STUDIMET NGA INSTITUCIONET PRIVATE TË ARSIMIT TË LARTË TË CILAVE IU ËSHTË HEQUR LICENCA",
+  "type": "Udhëzim",
+  "kind": "Akt bazë",
+  "number": "33",
+  "institution": "Ministria e Arsimit, Sportit dhe Rinisë",
+  "adopted": "2014-09-19",
+  "published": "2014-11-24",
+  "in_force": "2014-11-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7aa922745ed58342eed6a229c16323d3a1856b8efa476dea32312f7e59095b78.docx",
+  "source_sha256": "7aa922745ed58342eed6a229c16323d3a1856b8efa476dea32312f7e59095b78",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11283",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2014/09/19/33",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    11592,
+    11296,
+    11293,
+    11287
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
