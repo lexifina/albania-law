@@ -1,0 +1,1 @@
+11. Brenda datës 13.11.2014, IAL-të dorëzojnë në Agjencinë Kombëtare të Provimeve (AKP) listat përfundimtare në formë të shkruar dhe elektronike,me regjistrimet e kryera për çdo program studimi të ciklit të dytë “Master Profesional” dhe “Master i Shkencave”/ “Master i Arteve tëBukura”, të plotësuara për gjenerimin dhe dhënien e numrave të matrikullimit.

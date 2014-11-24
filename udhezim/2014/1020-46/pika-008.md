@@ -1,0 +1,1 @@
+8. Regjistrimi i kandidatëve në programet e studimit ku janë shpallur fitues të zhvillohet nga data 4.11.2014 deri në datën 10.11.2014, prej orës 08:00 deri në orën 16:00 pranë sekretarive mësimore të njësive kryesore të IAL-së.

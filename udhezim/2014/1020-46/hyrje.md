@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 46, datë 20.10.2014
+PËR PROCEDURAT E PRANIMIT DHE TË REGJISTRIMIT NË CIKLIN E DYTË TË STUDIMEVE ME KOHË TË PLOTË “MASTER PROFESIONAL” DHE “MASTER I SHKENCAVE”/ “MASTER I ARTEVE TË BUKURA” NË INSTITUCIONET PUBLIKE TË ARSIMIT TË LARTË, PËR VITIN AKADEMIK 2014-2015
+Në mbështetje të nenit 102 të Kushtetutës, neneve 34, 36 dhe 75 të ligjit nr. 9741, datë 21.05.2007 “Për arsimin e lartë në Republikën e Shqipërisë”, të ndryshuar; vendimin nr. 668, datë 15.10.2014, të Këshillit të Ministrave, “Për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë, për programet e studimit të ciklit të dytë me kohë të plotë, “Master Profesional” dhe “Master i Shkencave”/ “Master i Arteve të Bukura”, për vitin akademik 2014-2015”, vendimin nr. 78, datë 8.2.2006 të Këshillit të Ministrave “Për krijimin e Maturës Shtetërore dhe pranimet në shkollat e larta publike”, të ndryshuar, dhe vendimin nr. 1013, datë 10.12.2010 të Këshillit të Ministrave “Për krijimin e Agjencisë Kombëtare të Provimeve (AKP)”,
+UDHËZOJ:

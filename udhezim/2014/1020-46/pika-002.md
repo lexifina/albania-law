@@ -1,0 +1,1 @@
+2. Njësitë kryesore të IAL-ve publike, organizojnë procesin e pranimit dhe të regjistrimit të kandidatëve në ciklin e dytë të studimeve me kohë të plotë “Master Profesional” dhe “Master i Shkencave”/ “Master i Arteve të Bukura”. Procesi menaxhohet dhe monitorohet nga rektoratet.
