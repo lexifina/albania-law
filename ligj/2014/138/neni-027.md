@@ -1,0 +1,15 @@
+# Neni 27
+Sanksione
+1. Shkeljet e neneve të mëposhtme, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me dënim administrativ kryesor si më poshtë:
+a) Mosrespektimi i kritereve dhe normave të kujdesit paliativ, të përcaktuara në nenin 17 të këtij ligji, nga ofruesit e kujdesit paliativ, si publikë edhe privatë, dënohen me gjobë 50 000 lekë dhe, në rast përsëritjeje, me gjobë 100 000 lekë.
+b) Shkelja e pikës 2, të nenit 9, të këtij ligji, mosofrimi i asistencës në banesë pacientëve që kanë nevojë për kujdes paliativ nga shërbimi i kujdesit shëndetësor parësor, sipas paketës bazë të kujdesit shëndetësor parësor, dënohet me gjobë 20 000 lekë dhe, në rast përsëritjeje, me gjobë 50 000 lekë.
+c) Ofrimi i kujdesit paliativ nga vullnetarët pa kontratë me ofruesit e shërbimeve të kujdesit paliativ, sipas përcaktimeve të bëra në pikën 3, të nenit 20, të këtij ligji, dënohet me gjobë 30 000 lekë.
+ç) Mospërshkrimi i barnave të listës esenciale, sipas përcaktimit të pikës 3, të nenit 22, të këtij ligji, dënohet me gjobë 30 000 lekë dhe, në rast përsëritjeje, me gjobë 50 000 lekë.
+d) Shkelja e pikës 4, të nenit 22, të këtij ligji, dënohet me paralajmërim dhe shoqërohet me urdhërimin e subjektit të inspektimit për korrigjimin e shkeljes, duke përcaktuar dhe një afat të arsyeshëm për këtë qëllim. Në rast moszbatimi brenda afatit të urdhrit për korrigjimin e shkeljes, subjekti dënohet me gjobë 30 000 lekë dhe, në rast përsëritjeje, me gjobë 50 000 lekë.
+dh) Mospërshkrimi i barnave “analgjezikë opioidë”, sipas përcaktimeve të bëra në nenin 23 të këtij ligji, dënohet me gjobë 50 000 lekë.
+2. Autoriteti përgjegjës për vënien dhe ekzekutimin e dënimeve të përmendura në shkronjat “a”, “b”, “c”, “ç” dhe “dh”, të pikës 1, të këtij neni, është inspektorati që mbulon fushën e shëndetit, ndërsa autoriteti përgjegjës për vënien dhe ekzekutimin e dënimeve administrative, të përcaktuara në shkronjën “d”, të pikës 1, të këtij neni, është inspektorati që mbulon fushën farmaceutike.
+3. Kur konstatohet mospërdorimi etik dhe ligjor i të dhënave personale dhe konfidenciale të pacientëve, sipas përcaktimeve të bëra në pikën 2, të nenit 8, të këtij ligji, dhe në tërësinë e ligjit nga ofruesit e shërbimeve të kujdesit paliativ, këta dënohen me heqjen e së drejtës së ushtrimit të profesionit deri 1 vit nga urdhri profesionist përkatës.
+4. Inspektimi i kërkesave ligjore të përcaktuara në këtë ligj kryhet në përputhje me rregullat e parashikuara në ligjin nr. 10 433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”, përveç kur parashikohet ndryshe shprehimisht në këtë ligj.
+5. Ankimi ndaj vendimit të inspektoratit shtetëror që mbulon fushën e shëndetit dhe inspektoratit që mbulon fushën farmaceutike bëhet në përputhje me ligjin për inspektimin, ndërsa kundër vendimit të urdhrave profesionalë, sipas legjislacionit përkatës.
+6. Ekzekutimi i vendimeve bëhet sipas legjisla-cionit në fuqi për kundërvajtjet administrative.
+7. Të ardhurat e mbledhura nga gjobat, sipas përcaktimeve të bëra në pikën 1, të këtij neni, derdhen në Buxhetin e Shtetit.
