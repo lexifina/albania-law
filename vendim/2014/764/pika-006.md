@@ -1,0 +1,1 @@
+6. Vendimi nr. 771, datë 7.11.2012, i Këshillit të Ministrave, “Për miratimin e kritereve për përcaktimin e numrit të personelit dhe kapaciteteve të njësisë së shërbimit në qendrat spitalore universitare”, shfuqizohet.

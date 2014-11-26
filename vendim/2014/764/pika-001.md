@@ -1,0 +1,1 @@
+1. Shërbimi në qendrat spitalore universitare realizon funksione diagnostikuese e trajtuese themelore, në nivel të lartë shkencor, si pjesë e spitalit universitar, si dhe funksione mësimore e kërkimore, si pjesë e institucionit të arsimit të lartë.

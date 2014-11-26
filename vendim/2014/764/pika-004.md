@@ -1,0 +1,1 @@
+4. Specialitetet me regjim të zakonshëm duhet të kenë shfrytëzim shtrati jo më pak se 85%, ndërsa specialitetet me regjim ditor duhet të kenë xhiro shtrati jo më pak se 85%. Shërbimi detyrohet, që, brenda katër viteve nga miratimi i këtij vendimi, të përmbushë këta tregues. Bordi miraton treguesit specifikë të organizimit të çdo shërbimi në qendrat spitalore universitare.
