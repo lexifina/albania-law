@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i venddepozitimit sanitar të mbetjeve në afërsi të Maliqit dhe rrugës hyrëse, qarku Korçë.

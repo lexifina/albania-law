@@ -1,0 +1,1 @@
+7. Pronarët e përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të kompensohen, për efekt shpronësimi, në bazë të dokumentacionit të plotë të pronësisë, që do të dorëzojnë pranë shoqërisë aksionare “Administrimi i mbetjeve të qarkut Korçë”, KRWM sh.a.

@@ -1,0 +1,1 @@
+4. Vlera përgjithshme e shpronësimit, prej 36 021 456 (tridhjetë e gjashtë milionë e njëzet e një mijë e katërqind e pesëdhjetë e gjashtë) lekësh, të përballohet nga buxheti i vitit 2014, nga programi buxhetor “Menaxhimi i mbetjeve urbane”, të Ministrisë së Transportit dhe Infrastrukturës, për vitin 2014.
