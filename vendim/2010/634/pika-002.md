@@ -1,1 +1,0 @@
-2. Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve, Teatrit Kombëtar të Operës dhe Baletit dhe Ansamblit Popullor u ndalohet ta ndryshojnë destinacionin e pronës së përcaktuar në këtë vendim, ta tjetërsojnë atë ose t’ua japin në përdorim të tretëve.
