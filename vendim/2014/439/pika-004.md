@@ -2,3 +2,4 @@
 a) Legalizimi dhe regjistrimi pranë ZVRPP-së i objektit bazë, së bashku me shtesat eventuale anësore dhe/ose në lartësi të kryera nga vetë shoqëria “Hawai-Alb” sh.p.k.
 b) Legalizimi i shtesës anësore dhe/ose në lartësi si ndërtim i bashkëngjitur ndaj objektit bazë, të kryera nga vetë subjektet poseduese.
 “Objekt bazë” konsiderohet pjesa e objektit e parashikuar në projektin e miratuar në lejen e ndërtimit, pa shtesat e realizuara në tejkalim të tij.
+4/1. Kur trualli mbi të cilin është ngritur objekti bazë ose shtesa anësore/në lartësi, apo një pjesë e tij, rezultojnë në pronësi shtetërore, sipas regjistrit të pasurive të paluajtshme, kalimi i pronësisë mbi sipërfaqen përkatëse kryhet pa pagesë, në mbështetje të neneve 3, pika 4, e 4, të ligjit nr. 8743, datë 22.2.2001, “Për pasuritë e paluajtshme të shtetit”, të ndryshuar, dhe të nenit 761, të ligjit nr. 7850, datë 29.7.1994, “Kodi Civil i Republikës së Shqipërisë.
