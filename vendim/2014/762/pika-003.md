@@ -1,0 +1,1 @@
+3. Personat që gjenden në institucionet rezidenciale të përkujdesjes sociale, në nivelin parësor të ofrimit të kujdesit për shëndetin mendor, mund të ndiqen nga mjeku i kontraktuar nga ky institucion, por, në çdo rast, çdo rezident duhet të regjistrohet në qendrën shëndetësore që mbulon territorin e lokalizimit të këtij institucioni.

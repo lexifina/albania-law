@@ -1,0 +1,1 @@
+6. Strukturat rajonale të Shërbimit Social Shtetëror dhe strukturat lokale të shëndetit publik institucionalizojnë bashkëpunimin, përmes miratimit të planeve të përbashkëta të punës, për dhënien e shërbimit shëndetësor konform përcaktimeve të këtij vendimi.

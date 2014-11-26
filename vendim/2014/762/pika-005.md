@@ -1,0 +1,1 @@
+5. Shërbimi i specializuar për shëndetin mendor, për personat në nevojë për këtë shërbim, do të ofrohet nga qendrat komunitare të shëndetit mendor dhe, në mungesë të këtyre të fundit, nga mjeku specialist psikiatër/ neuropsikiatër pranë poliklinikave në rrethet përkatëse.

@@ -1,0 +1,1 @@
+7. Shërbimi psiko-social i institucioneve rezidenciale të përkujdesjes sociale bashkëpunon ngushtësisht me shërbimin psiko-social pranë strukturave lokale të shëndetit publik, pjesë të ekipeve multidisiplinare, pranë qendrave komunitare të shëndetit mendor.

@@ -1,0 +1,1 @@
+8. Shërbimi i specializuar me shtretër, për shëndetin mendor, ofrohet vetëm me referim të qendrave komunitare të shëndetit mendor dhe, në mungesë të tyre, nga mjeku specialist psiki-atër/neuropsikiatër i rrethit dhe vetëm atëherë kur janë shteruar të gjitha mundësitë e trajtimit ambulator/komunitar të pacientit, me qëllim shmangien e institucionalizmit të tij.

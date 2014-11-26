@@ -1,0 +1,1 @@
+4. Ngarkohen ministria përgjegjëse për shëndetësinë dhe Fondi i Sigurimeve të Detyrueshme të Kujdesit Shëndetësor të përcaktojnë ngarkesën për çdo mjek familjeje të qendrave shëndetësore, të parashikuara në pikën 3, të këtij vendimi.

@@ -1,0 +1,1 @@
+1. Personave që gjenden në institucionet rezidenciale të përkujdesjes sociale, me qëllim parandalimin apo trajtimin e çrregullimeve të shëndetit mendor, u ofrohet kujdes për shëndetin mendor nga të gjitha nivelet e ofrimit të këtij kujdesi, parashikuar në pikën 1, të nenit 10, të ligjit 44/2012, “Për shëndetin mendor”.

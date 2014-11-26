@@ -1,0 +1,1 @@
+9. Personat me çrregullime të shëndetit mendor, të cilët kërkojnë vlerësimin e aftësisë për punë, do të paraqiten në komisionet mjekësore, të cilat do t’i rekomandojnë për dërgimin në Komisionin Mjekësor të Caktimit të Aftësisë për Punë (KMCAP), sipas legjislacionit në fuqi.
