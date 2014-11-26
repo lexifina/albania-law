@@ -1,0 +1,1 @@
+11. Formulari-tip, kërkesa-tip dhe dokumenti e formati tip i “Licencës së përpunimit” për impiantet e përpunimit të nënprodukteve të naftës miratohen me urdhër të ministrit përgjegjës për hidrokarburet.

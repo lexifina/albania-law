@@ -1,0 +1,1 @@
+13. Shoqëria e pajisur me “Licencën e përpunimit” ka detyrimin të njoftojë, brenda 30 (tridhjetë) ditëve kalendarike, ministrinë për çdo ndryshim, që i referohet dokumentacionit dhe kushteve të përcaktuara në pikën 2, të këtij vendimi, në bazë të të cilave është dhënë “Licenca e përpunimit”.

@@ -1,0 +1,1 @@
+14. Impiantet e përpunimit janë të detyruara të zbatojnë normat dhe kushtet teknike të projektit. Ndryshimet në skemën dhe kartën teknologjike të funksionimit të impianteve të përpunimit bëhen vetëm me miratimin e ministrisë.

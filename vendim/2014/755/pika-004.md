@@ -1,0 +1,1 @@
+4. Për verifikimin e dokumentacionit dhe plotësimin e kushteve të përcaktuara në pikën 2, të këtij vendimi, me urdhër të ministrit përgjegjës për hidrokarburet ngrihet komisioni i shqyrtimit të aplikimeve, i përbërë nga 7 (shtatë) anëtarë me përvojë në fushën hidrokarbure, juridike dhe ekonomike.

@@ -1,0 +1,1 @@
+1. Ndërtimi dhe funksionimi i impianteve të përpunimit të nënprodukteve të naftës bëhet nga personat juridikë, pasi ato të jenë pajisur me “Licencën e përpunimit”, të lëshuar nga ministria përgjegjëse për hidrokarburet (Ministria), sipas procedurave dhe kushteve të përcaktuara në këtë vendim.
