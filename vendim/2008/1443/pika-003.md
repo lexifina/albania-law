@@ -1,1 +1,0 @@
-3. Drejtori i AZHBR-së emërohet, lirohet ose shkarkohet nga Kryeministri, me propozimin e Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit. Drejtuesit dhe punonjësit e tjerë të kësaj agjencie, përfshirë edhe ata të strukturave vendore, pranohen sipas procedurave të përcaktuara në legjislacionin për shërbimin civil. Numri i punonjësve të agjencisë është 86 veta.
