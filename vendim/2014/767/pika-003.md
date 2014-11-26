@@ -1,0 +1,1 @@
+3. Vendimi nr. 826, datë 28.12.2005, i Këshillit të Ministrave, “Për shpalljen e “Qendrës Historike” të një zonë në qytetin muze të Beratit dhe miratimin e rregullores së administrimit të kësaj qendre”, shfuqizohet.
