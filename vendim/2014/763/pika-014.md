@@ -1,0 +1,1 @@
+14. Kandidatët që përfitojnë nga kuotat e parashikuara në shkronjat “b”, “c” dhe “ç”, të pikës 2, të këtij vendimi, duhet të paraqesin, në momentin e aplikimit, një shkresë mbështetëse nga ministria përkatëse.

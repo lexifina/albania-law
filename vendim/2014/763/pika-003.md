@@ -1,0 +1,1 @@
+3. Kuotat e pranimit për programet e specializimeve afatgjata të ciklit të tretë të studimeve me kohë të plotë, të përcaktuara në shkronjën “a”, të pikës 1, të këtij vendimi, të ndara sipas programeve të studimit, pasqyrohen në tabelën nr. 1, bashkëlidhur këtij vendimi.

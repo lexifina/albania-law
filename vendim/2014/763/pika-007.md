@@ -1,0 +1,1 @@
+7. Aplikojnë për programe studimi specializuese afatgjata të gjithë kandidatët që kanë fituar të drejtën e ushtrimit të profesionit në Republikën e Shqipërisë, sipas përcaktimeve në rregulloren përkatëse të specializimeve afatgjata në fushën e mjekësisë.

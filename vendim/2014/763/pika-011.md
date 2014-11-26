@@ -1,0 +1,1 @@
+11. Studenti, i cilësuar në bazë të rregullores së institucionit të arsimit të lartë publik si përsëritës, i nënshtrohet tarifës së plotë vjetore të shkollimit të vitit akademik në të cilin vazhdon studimet.
