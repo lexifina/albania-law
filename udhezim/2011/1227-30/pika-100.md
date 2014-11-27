@@ -1,1 +1,1 @@
-100. Komisioni i nxjerrjes nga përdorimi përbëhet nga jo më pak se 5 vetë, kryetari i këtij komisioni përcaktohet nga titullari në varësi të kompetencave për nxjerrjen nga përdorimi të dhëna në paragrafët 111 deri 118 të këtij udhëzimi.
+100. Komisioni i nxjerrjes nga përdorimi përbëhet nga jo më pak se 5 vetë, kryetari i këtij komisioni përcaktohet nga Titullari dhe anëtarë përcaktohen nga kryetari, në varësi të kompetencave për nxjerrjen nga përdorimi të dhëna në paragrafët 111 deri 118 të këtij udhëzimi.
