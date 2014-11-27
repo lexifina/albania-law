@@ -1,0 +1,2 @@
+1. Drejtoria e Përgjithshme e Doganave procedon me kthimin e detyrimeve doganore të paguara tepër, duke paraqitur në degën përkatëse të thesarit urdhërpagesën për rimbursim sipas modelit nr. 1 bashkëngjitur këtij udhëzimi, të detajuar sipas klasifikimit ekonomik të të ardhurave doganore, për të cilat bëhet kthimi i detyrimeve doganore të paguara tepër.
+Ky udhëzim hyn në fuqi me botimin në Fletoren Zyrtare.
