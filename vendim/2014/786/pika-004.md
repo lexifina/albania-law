@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 173 091 780 (njëqind e shtatëdhjetë e tre milionë e nëntëdhjetë e një mijë e shtatëqind e tetëdhjetë) lekësh të përballohet nga fondet e buxhetit të shtetit, të miratuara për vitin 2014, për Ministrinë e Kulturës, “Programi i trashëgimisë kulturore dhe muzetë”.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga zbatimi i projektit “Ndërtimi i Muzeut të Bashkëjetesës”, miratuar me vendimin nr. 1/2014, të Komitetit Shtetëror të Muzeve.
