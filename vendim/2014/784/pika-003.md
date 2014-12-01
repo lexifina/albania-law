@@ -1,0 +1,1 @@
+3. Fondi mbështet punëdhënësit e industrisë fasone për nxitjen e punësimit, zhvillimin e aftësive të fuqisë punëtore për këtë industri, si dhe forma të tjera mbështetjeje, të miratuara nga Këshilli i Ministrave.

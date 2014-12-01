@@ -1,0 +1,1 @@
+1. Krijimin e fondit buxhetor (Fondi) në mbështetje të industrisë fasone, si zë i veçantë brenda strukturës programore të ministrisë përgjegjëse për punësimin, nga buxheti i shtetit. Fondi fillon në vitin 2015 dhe do të përdoret për mbështetjen e industrisë fasone. Çdo vit Ministria e Financave përcakton shumën, që derdhet në këtë fond.
