@@ -1,0 +1,1 @@
+7. Punonjësi i Shërbimit, që përfiton sipas pikave 1 e 2, të këtij vendimi, nënkupton punonjësit e përcaktuar në pikën 1, të nenit 21, të ligjit nr. 70/2014, “Për Shërbimin për Çështjet e Brendshme dhe Ankesat, në Ministrinë e Punëve të Brendshme”, duke përjashtuar punonjësit e shërbimeve mbështetëse.
