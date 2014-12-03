@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e garancisë ndërmjet Republikës së Shqipërisë dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) për marrëveshjen e huas ndërmjet Agjencisë Shqiptare të Sigurimit të Depozitave dhe Bankës Europiane për Rindërtim dhe Zhvillim për linjën e kredisë për Agjencinë Shqiptare të Sigurimit të Depozitave, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.
