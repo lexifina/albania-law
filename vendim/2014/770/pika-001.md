@@ -1,0 +1,1 @@
+1. Kalimin në fondin e kompensimit fizik, në dispozicion të Agjencisë së Kthimit dhe Kompensimit të Pronave, të sipërfaqes së tokës bujqësore prej 23 368.8 (njëzet e tre mijë e treqind e gjashtëdhjetë e tetë pikë tetë) ha, në pronësi shtetërore, dhënë në përdorim njësive të qeverisjes vendore, sipas listës dhe materialit hartografik digjital, bashkëlidhur këtij vendimi.
