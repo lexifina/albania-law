@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e kredisë për eksport ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, që vepron në emër të Republikës së Shqipërisë dhe i përfaqësuar nga Ministria e Financave, dhe UniCredit Bank Austria, AG për financimin e projektit të sistemit të ujërave të zeza të Bilishtit, “Kontratë me çelësa në dorë - Loti 1”, me një hua të butë prej 2 998 856 (dy milionë e nëntëqind e nëntëdhjetë e tetë mijë e tetëqind e pesëdhjetë e gjashtë) eurosh, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.
