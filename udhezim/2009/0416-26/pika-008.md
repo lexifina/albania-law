@@ -1,6 +1,0 @@
-8. Shtetasit e huaj dhe personat pa shtetësi, të punësuar, punëdhënës ose të vetëpunësuar, në subjekte të regjistruara për efekte fiskale në Republikën e Shqipërisë, mbrohen dhe sigurohen, në mënyrë të detyrueshme, sipas përcaktimeve në pikën 5 të këtij kreu.
-Nga mbrojtja dhe sigurimi i detyrueshëm përjashtohen shtetasit e huaj:
-a) që punojnë në subjekte, të cilat, në bazë të një akti qeveritar, nuk kanë detyrimin për t’u regjistruar në organet tatimore shqiptare.
-b) pjesëtarë të subjekteve të huaja, që nuk kanë detyrimin për t’u regjistruar në organet tatimore shqiptare, të cilët vijnë në Shqipëri të punojnë në një punë apo shërbim të caktuar, sipas një kontrate shërbimi, të lidhur me një subjekt të regjistruar në organet tatimore shqiptare, i cili nuk është degë apo njësi e subjektit kontraktor.
-c) me rezidencë të përhershme jashtë territorit të Shqipërisë, të cilët kanë veprimtari të regjistruara në emrin e tyre, në të dyja shtetet, do të jenë subjekt i mbrojtjes dhe sigurimit të detyrueshëm, në atë vend, ku kanë rezidencën, vetëm nëse shteti i tyre ka një marrëveshje në fushën e sigurimeve shoqërore me shtetin shqiptar.
-ç) që janë të përjashtuar nga pagimi i kontributeve të sigurimeve, shoqërore e shëndetësore, në Shqipëri, në bazë të një marrëveshjeje, të lidhur me shtetin shqiptar.

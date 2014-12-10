@@ -1,5 +1,0 @@
-9. Për kohën që listëpagesa e sigurimeve shoqërore, shëndetësore dhe tatimit mbi të ardhurat nga punësimi E-SIG 025/a.1 dhe E-SIG 025/a.2, për personin juridik e fizik përkatës, nga drejtoria rajonale tatimore nuk është dërguar akoma në drejtorinë rajonale të sigurimeve shoqërore, vërtetimet për kontributet e paguara, që kërkojnë tatimpaguesit dhe individët kontribues, lëshohen zyrtarisht nga drejtoria rajonale tatimore përkatëse sipas rregullave dhe afateve të miratuara nga Drejtori i Përgjithshëm i Tatimeve. Këto vërtetime, të cilat konfirmojnë situatën e tatimpaguesit dhe individit përkatës lidhur me kontributet, janë si më poshtë:
-- Për kontributet e sigurimeve shoqërore e shëndetësore për pjesëmarrje në tendera, Nr. E-SIG 01/a;
-- Për kontributet e sigurimeve shoqërore e shëndetësore për tatimpaguesin, nr. E-SIG 02/a;
-- Për kontributet e sigurimeve shoqërore e shëndetësore për individët, nr. E-SIG 03/a;
-Modeli i vërtetimeve të mësipërme është sipas formateve bashkëngjitur këtij udhëzimi.
