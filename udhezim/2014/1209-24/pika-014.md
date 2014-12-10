@@ -1,0 +1,5 @@
+14. Detyrimet e administratës tatimore
+14.1 Administrata tatimore nuk mban përgjegjësi për asnjë humbje, e cila ka ardhur si pasojë e rrethanave apo shkaqeve, që nuk janë në kontrollin direkt të tij, ku përfshihet, por pa u kufizuar vetëm në to, dështimi elektronik ose mekanik i pajisjeve si të “e-user”-it ashtu edhe të atyre të shërbimit “e-tax” për të pranuar transmetimin e veprimeve, probleme ne linjën e internetit, probleme të tjera të pajisjeve të transmetimeve elektronike ose fatkeqësi natyrore.
+14.2 Administrata tatimore nuk garanton saktësinë, mjaftueshmërinë ose përsosmërinë e informacionit dhe dokumenteve të siguruara nga shërbimi “e-tax”, dhe në mënyrë të veçantë ajo është e perjashtuar nga përgjegjësia për gabime ose ndryshime në këto dokumente.
+14.3 Administrata tatimore nuk garanton se e drejta e aksesit për në sistemin e shërbimit “e-tax”, ose informacioni apo funksionet do të sigurohen të pandërprera dhe pa gabime, ose pa ndërhyrjen e një pale të tretë të paautorizuar në to.
+14.4 Administrata tatimore, nuk do të jenë përgjegjës në asnjë rast, që ka të bëje me humbje ose dëmtime sido që të jëtë shkaku i ardhjes së tyre.

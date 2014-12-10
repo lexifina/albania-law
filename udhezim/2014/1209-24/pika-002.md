@@ -1,0 +1,3 @@
+2.Kushtet dhe kriteret
+2.1 Kushtet dhe kriteret e përcaktuara në këtë udhëzim, janë të vlefshme për t’u mundësuar tatimpaguesve marrjen e aksesit dhe për të përdorur shërbimin e sistemit elektronik tatimor. Për të pasur akses në shërbimin e sistemit elektronik tatimor dhe për ta përdorur atë, tatimpaguesi është i lejuar të përdorë shërbimet e ofruara nga sistemi elektronik tatimor, vetëm nëse ai bie dakord të pranojë kushtet dhe kriteret e përdorimit të këtij sistemi.
+2.2 Kushtet dhe kriteret për të pasur akses dhe për të përdorur shërbimin e sistemit elektronik tatimor, janë në përputhje me legjislacionin në fuqi dhe aktet nënligjore që rregullojnë detyrimet e tatimpaguesit, të punonjësve të administratës tatimore, si dhe agjentëve tatimorë.

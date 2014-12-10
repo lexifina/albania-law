@@ -1,0 +1,3 @@
+16.Njoftimet e shërbimit “e-tax” për “e-user”-at
+16.1 Çdo njoftim, që bëhet nga administrata tatimore për “e-user”-at, do tu komunikohet nëpërmjet e-mail, dhe/ose postimit të këtyre njoftimeve në website e administratës tatimore dhe/ose në çdo vend të dukshëm në zyrat e Drejtorisë së Përgjithshme të Tatimeve ose në Drejtoritë Rajonale Tatimore, dhe do t’u bëhet i ditur me të gjitha format e komunikimit të akteve që nxjerr administrata tatimore, sipas procedurave dhe mënyrave të përcaktuara në ligjin nr. 9920,datë 19.5.2008 “Për procedurat tatimore në Republikën e Shqipërisë”.
+Ky udhëzim hyn në fuqi me botimin e tij në Fletoren Zyrtare.
