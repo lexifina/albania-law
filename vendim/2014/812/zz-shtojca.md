@@ -1,0 +1,1468 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+Autoriteti Rrugor Shqiptar
+Sektori i Shpronësimeve
+RRUGA PARALELE TIRANË-VORË (KRAHU I MAJTË), VAZHDIMI
+Nr.
+Pronari
+Zona
+Nr. i
+Lloji i
+Sipërfaqja
+Çmimi
+Vlera
+Vlera
+Emri
+Atësia
+Mbiemri
+kadastrale
+pasurisë
+pasurisë
+m2
+l/m2
+(lekë)
+Fshati
+totale
+SHËNIME
+1
+Shoqeria Sakuli
+2183
+103/27
+arë
+138
+420
+57960
+Vore
+57960
+KONFIRMUAR NGA ZRPP
+2
+Shoqeria Sakuli
+2183
+103/25
+arë
+150
+420
+63000
+Vore
+63000
+KONFIRMUAR NGA ZRPP
+3
+Qazim
+Arif
+Gjoka
+2183
+103/2
+arë
+75
+420
+31500
+Vore
+31500
+KONFIRMUAR NGA ZRPP
+4
+Sami
+Bajram
+Gjoka
+2183
+103/3
+arë
+45
+420
+18900
+Vore
+18900
+KONFIRMUAR NGA ZRPP PLOT.DOK. PRONESIE
+5
+Sherif
+Bajram
+Gjoka
+2183
+103/4
+arë
+45
+420
+18900
+Vore
+18900
+KONFIRMUAR NGA ZRPP PLOT.DOK. PRONESIE
+6
+Ardjan+Kujtim
+Maloku
+2183
+103/5
+arë
+75
+420
+31500
+Vore
+31500
+KONFIRMUAR NGA ZRPP PLOT.DOK. PRONESIE
+7
+Qemal
+Haxhi
+Maloku
+2183
+103/29
+arë
+75
+420
+31500
+Vore
+31500
+KONFIRMUAR NGA ZRPP
+8
+Muhamet
+Mustafa
+Gjoka
+2183
+103/7
+arë
+85
+420
+35700
+Vore
+35700
+KONFIRMUAR NGA ZRPP
+9
+Ismail
+Xhemal
+Gjoka
+2183
+103/8
+arë
+80
+420
+33600
+Vore
+33600
+KONFIRMUAR NGA ZRPP
+10
+Shaban
+Xhelal
+Gjoka
+2183
+103/9
+arë
+75
+420
+31500
+Vore
+31500
+KONFIRMUAR NGA ZRPP
+11
+Vaid
+Kadri
+Gjoka
+2183
+103/10
+arë
+70
+420
+29400
+Vore
+29400
+KONFIRMUAR NGA ZRPP
+12
+Feti
+Sefer
+Egra
+2183
+131/8
+arë
+1044
+420
+438480
+Vore
+438480
+KONFIRMUAR NGA ZRPP
+13
+Shaban
+Xhemali
+Gjoka
+2726
+137/48
+arë
+1089
+448
+487872
+Muçaj
+487872
+KONFIRMUAR NGA ZRPP
+14
+Durim
+Sherif
+Muka
+2726
+137/2/46
+arë
+329
+448
+147392
+Muçaj
+147392
+KONFIRMUAR NGA ZRPP
+15
+Durim Beharë
+Haxhi Zeqir
+Korriku Korriku
+2726
+137/2/47
+arë
+389
+448
+174272
+Muçaj
+174272
+KONFIRMUAR NGA ZRPP
+16
+Anila
+Mit’hat
+Selenica
+2726
+137/39
+arë
+680
+448
+304640
+Muçaj
+304640
+KONFIRMUAR NGA ZRPP
+17
+Agron
+Muka
+2726
+137/2/48
+arë
+130
+448
+58240
+Muçaj
+58240
+KONFIRMUAR NGA ZRPP
+18
+Bashpronarët
+Driza
+2726
+137/42
+arë
+360
+448
+161280
+Muçaj
+161280
+KONFIRMUAR NGA ZRPP
+19
+Aleksander
+Asllan
+Shehu
+2726
+137/29
+tr.+ndert
+594
+2395
+1422630
+Muçaj
+1422630
+KONFIRMUAR NGA ZRPP
+20
+Aleksander
+Asllan
+Shehu
+2726
+137/34
+arë
+306
+448
+137088
+Muçaj
+137088
+KONFIRMUAR NGA ZRPP
+21
+Gentjan
+Mustafa
+Shkupi
+2726
+137/41
+arë
+126
+448
+56448
+Muçaj
+56448
+KONFIRMUAR NGA ZRPP
+22
+Arben
+Refik
+Resuli
+2726
+137/37
+arë
+1134
+448
+508032
+Muçaj
+508032
+KONFIRMUAR NGA ZRPP
+23
+Pjeter
+Prendi
+2726
+162/20
+arë
+450
+448
+201600
+Muçaj
+201600
+KONFIRMUAR NGA ZRPP
+24
+Muhamet
+Baftjar
+Hasrama
+2726
+162/26
+arë
+666
+448
+298368
+Muçaj
+298368
+KONFIRMUAR NGA ZRPP
+25
+Selman
+Ali
+Mema
+2726
+162/35
+arë
+450
+448
+201600
+Muçaj
+201600
+KONFIRMUAR NGA ZRPP
+26
+Gjergji
+Leonidha
+Petro
+2726
+162/39
+arë
+486
+448
+217728
+Muçaj
+217728
+KONFIRMUAR NGA ZRPP KONFLIKT GJYQSOR
+27
+Beqir
+Sinan
+Mustafa
+3974
+166/72
+arë
+378
+434
+164052
+Picar
+164052
+KONFIRMUAR NGA ZRPP
+28
+Beqir
+Sinan
+Mustafa
+3974
+166/88
+truall
+1080
+1193
+1288440
+Picar
+1288440
+KONFIRMUAR NGA ZRPP
+29
+Minere
+Mehmet
+Kraja
+3974
+166/83
+arë
+684
+434
+296856
+Picar
+296856
+KONFIRMUAR NGA ZRPP
+30
+Sokol
+Gani
+Kraja
+3974
+166/84
+truall
+691
+1193
+824363
+Picar
+824363
+KONFIRMUAR NGA ZRPP
+31
+Rexhep
+Ismail
+Sula
+3974
+166/77
+arë
+90
+434
+39060
+Picar
+39060
+KONFIRMUAR NGA ZRPP
+32
+Zija
+Nazif
+Hidri
+3974
+166/9/1
+pemtore
+887
+434
+384958
+Picar
+384958
+KONFIRMUAR NGA ZRPP
+33
+Erik Luljeta
+Vincent Gjon
+Granëehr Granëehr
+3974
+166/39
+arë
+1494
+434
+648396
+Picar
+648396
+KONFIRMUAR NGA ZRPP
+34
+Olsjan
+Dedej
+3974
+166/94
+arë
+468
+434
+203112
+Picar
+203112
+KONFIRMUAR NGA ZRPP
+35
+Vasil
+Muça
+3974
+166/96
+arë
+747
+434
+324198
+Picar
+324198
+KONFIRMUAR NGA ZRPP
+36
+Arben
+Refik
+Resuli
+3974
+166/75
+arë
+774
+434
+335916
+Picar
+335916
+KONFIRMUAR NGA ZRPP
+37
+Pashk
+Ndue
+Gjinaj
+3974
+166/55
+arë
+810
+434
+351540
+Picar
+351540
+KONFIRMUAR NGA ZRPP
+38
+Mark
+Ndue
+Gjinaj
+3974
+166/57
+arë
+810
+434
+351540
+Picar
+351540
+KONFIRMUAR NGA ZRPP
+39
+Shoq. ”UKRO METAL” sh.a
+3974
+166/37
+truall
+1152
+1193
+1374336
+Picar
+1374336
+KONFIRMUAR NGA ZRPP
+40
+Helidon Genci
+Gezim Gezim
+Muça Muca
+3974
+166/90
+truall
+750
+1193
+894750
+Picar
+894750
+KONFIRMUAR NGA ZRPP
+41
+Emira Agim
+Haxhi
+Kroi Kroi
+3974
+166/52
+arë
+396
+434
+171864
+Picar
+171864
+KONFIRMUAR NGA ZRPP
+42
+Agim
+Haxhi
+Kroi
+3974
+166/67
+arë
+72
+434
+31248
+Picar
+31248
+KONFIRMUAR NGA ZRPP
+43
+Hektor Refik
+Ismail Ismail
+Brahimi Brahimi
+3974
+166/66
+truall
+477
+1193
+569061
+Picar
+569061
+KONFIRMUAR NGA ZRPP
+44
+Ylli
+Myharrem
+Ferhati
+3974
+166/92
+arë
+522
+434
+226548
+Picar
+226548
+KONFIRMUAR NGA ZRPP
+45
+Gentjan Sitki
+Mustafa Mustafa
+Shkupi Shkupi
+3974
+166/28
+arë
+486
+434
+210924
+Picar
+210924
+KONFIRMUAR NGA ZRPP
+46
+Gentjan Sitki
+Mustafa Mustafa
+Shkupi Shkupi
+3974
+166/41
+arë
+1044
+434
+453096
+Picar
+453096
+KONFIRMUAR NGA ZRPP
+47
+Fatos
+Rushdi
+Picari
+3974
+243/37
+arë
+1260
+434
+546840
+Picar
+546840
+KONFIRMUAR NGA ZRPP
+48
+Fisnik
+Vait
+Picari
+3974
+243/38
+arë
+20
+434
+8680
+Picar
+8680
+KONFIRMUAR NGA ZRPP
+49
+Arben
+Picari
+3974
+243/47
+arë
+268
+434
+116312
+Picar
+116312
+KONFIRMUAR NGA ZRPP
+50
+Zanun
+Ramazan
+Allmeta
+3974
+243/5
+arë
+1620
+434
+703080
+Picar
+703080
+KONFIRMUAR NGA ZRPP
+51
+Kostandin Kristo Papa
+Kristo
+Papa
+3974
+247/84
+arë
+2191
+434
+950894
+Picar
+950894
+KONFIRMUAR NGA ZRPP
+52
+Bashpronarët
+Kandri
+Ref.0730
+3974
+247/52
+arë
+360
+434
+156240
+Picar
+156240
+KONFIRMUAR NGA ZRPP
+53
+Bashpronarët
+Kandri
+Ref.0730
+3974
+247/19
+arë
+342
+434
+148428
+Picar
+148428
+KONFIRMUAR NGA ZRPP
+54
+Shoq.”DUA GAZ” sh.p.k
+3974
+257/13
+arë
+1650
+434
+716100
+Picar
+716100
+KONFIRMUAR NGA ZRPP
+55
+Shoq.”DUA GAZ” sh.p.k
+3974
+257/4
+truall
+780
+1193
+930540
+Picar
+930540
+KONFIRMUAR NGA ZRPP
+56
+Lefter
+Hajderaj
+1751
+40/19
+arë
+117
+434
+50778
+Picar
+50778
+KONFIRMUAR NGA ZRPP
+Fisnik
+Hajderaj
+Afrim
+Hajderaj
+57
+Lefter
+Hajderaj
+1751
+40/22
+arë
+117
+434
+50778
+Picar
+50778
+KONFIRMUAR NGA ZRPP
+Fisnik
+Hajderaj
+Afrim
+Hajderaj
+58
+Lefter
+Hajderaj
+1751
+40/25
+arë
+117
+434
+50778
+Picar
+50778
+KONFIRMUAR NGA ZRPP
+Fisnik
+Hajderaj
+Afrim
+Hajderaj
+59
+Lefter
+Hajderaj
+1751
+40/28
+arë
+117
+434
+50778
+Picar
+50778
+KONFIRMUAR NGA ZRPP
+Fisnik
+Hajderaj
+Afrim
+Hajderaj
+60
+Fatbardha
+Muhamet
+Kadilli
+1751
+40/16
+arë
+252
+434
+109368
+Picar
+109368
+KONFIRMUAR NGA ZRPP
+61
+Kudret Alkion
+Skender Sulejman
+Mersini Dizdari
+3974
+40/46
+arë
+531
+434
+230454
+Picar
+230454
+KONFIRMUAR NGA ZRPP
+62
+Kudret Alkion
+Skender Sulejman
+Mersini Dizdari
+3974
+40/47
+arë
+468
+434
+203112
+Picar
+203112
+KONFIRMUAR NGA ZRPP
+63
+Kudret Alkion
+Skender Sulejman
+Mersini Dizdari
+3974
+40/48
+arë
+486
+434
+210924
+Picar
+210924
+KONFIRMUAR NGA ZRPP
+64
+Kudret Alkion
+Skender Sulejman
+Mersini Dizdari
+3974
+40/58
+arë
+396
+434
+171864
+Picar
+171864
+KONFIRMUAR NGA ZRPP
+65
+Kujtim Ali
+Skender Kadri Sulejman
+Seferi Fejza
+3974
+40/39
+arë
+594
+434
+257796
+Picar
+257796
+KONFIRMUAR NGA ZRPP
+66
+Demir
+Rifat
+Rusi
+3974
+40/32
+arë
+584
+434
+253456
+Picar
+253456
+KONFIRMUAR NGA ZRPP
+67
+Demir
+Rifat
+Rusi
+3974
+40/31
+truall
+414
+1193
+493902
+Picar
+493902
+KONFIRMUAR NGA ZRPP
+68
+Arben
+Demo
+Cakranji
+1751
+40/13
+arë
+1026
+663
+680238
+Gjokaj
+680238
+KONFIRMUAR NGA ZRPP
+69
+Adelina Bashkim
+Beqir Hamid
+Gjoka Gjoka
+1751
+40/17
+arë
+270
+663
+179010
+Gjokaj
+179010
+KONFIRMUAR NGA ZRPP
+70
+Besnik
+Musa
+Picari
+1751
+40/18
+arë
+762
+663
+505206
+Gjokaj
+505206
+KONFIRMUAR NGA ZRPP
+71
+Gezim
+Besnik
+Picari
+1751
+40/1
+arë
+396
+663
+262548
+Gjokaj
+262548
+KONFIRMUAR NGA ZRPP
+72
+Skifter
+Besnik
+Picari
+1751
+40/23
+arë
+10
+663
+6630
+Gjokaj
+6630
+KONFIRMUAR NGA ZRPP
+73
+Petrit
+Xhafer
+Kumi
+2119
+147/57
+arë
+423
+395
+167085
+Katund i Ri
+167085
+KONFIRMUAR NGA ZRPP
+74
+Petrit
+Xhaferr
+Kumi
+2119
+147/61
+arë
+585
+395
+231075
+Katund i Ri
+231075
+KONFIRMUAR NGA ZRPP
+75
+Eglo Albania Sh.p.k.
+2119
+147/48
+arë
+1080
+395
+426600
+Katund i Ri
+426600
+KONFIRMUAR NGA ZRPP
+76
+Lorenc
+Gezim
+Mullaj
+2119
+147/59
+arë
+300
+395
+118500
+Katund i Ri
+118500
+KONFIRMUAR NGA ZRPP
+77
+Fadil
+Ramazan
+Valisi
+2119
+147/60
+arë
+774
+395
+305730
+Katund i Ri
+305730
+KONFIRMUAR NGA ZRPP
+78
+”H.K. AJAKS BALLKAN” sh.p.k
+2119
+147/64
+truall
+314
+2457
+771498
+Katund i Ri
+771498
+KONFIRMUAR NGA ZRPP
+79
+”H.K. AJAKS BALLKAN” sh.p.k
+2119
+147/63
+arë
+253
+395
+99935
+Katund i Ri
+99935
+KONFIRMUAR NGA ZRPP
+80
+Shkelqim
+Xhemal
+Adushi
+2119
+147/3
+arë
+450
+395
+177750
+Katund i Ri
+177750
+KONFIRMUAR NGA ZRPP
+81
+Bujar Rabihane
+Xhemal Refat
+Adushi Adushi
+2119
+147/4
+arë
+800
+395
+316000
+Katund i Ri
+316000
+KONFIRMUAR NGA ZRPP
+82
+Lorenc
+Gezim
+Mullaj
+2119
+147/30
+arë
+607
+395
+239765
+Katund i Ri
+239765
+KONFIRMUAR NGA ZRPP
+83
+Hajdar
+Luftulla
+Murati
+2105
+1171/34
+arë
+270
+415
+112050
+Kashar
+112050
+KONFIRMUAR NGA ZRPP
+84
+Hajdar
+Luftulla
+Murati
+2105
+1171/41
+arë
+720
+415
+298800
+Kashar
+298800
+KONFIRMUAR NGA ZRPP
+85
+Dritan
+Rrapush
+Murati
+2105
+1170/24
+arë
+206
+415
+85490
+Kashar
+85490
+KONFIRMUAR NGA ZRPP
+86
+Ymer
+Murati
+2105
+1170/27
+arë
+414
+415
+171810
+Kashar
+171810
+KONFIRMUAR NGA ZRPP
+87
+Shefqet
+Rrapush
+Murati
+2105
+1170/3
+arë
+206
+415
+85490
+Kashar
+85490
+KONFIRMUAR NGA ZRPP
+88
+Misar
+Rrapush
+Murati
+2105
+1170/4
+arë
+206
+415
+85490
+Kashar
+85490
+KONFIRMUAR NGA ZRPP
+89
+Arben
+Rrapush
+Murati
+2105
+1170/29
+arë
+288
+415
+119520
+Kashar
+119520
+KONFIRMUAR NGA ZRPP
+90
+Adrian Elton Armando
+Haziraj Haziraj Haziraj
+2105
+1170/23
+arë
+1026
+415
+425790
+Kashar
+425790
+KONFIRMUAR NGA ZRPP
+91
+Isuf
+Ramazan
+Kamberi
+2105
+1169/1
+arë
+72
+415
+29880
+Kashar
+29880
+KONFIRMUAR NGA ZRPP
+92
+Baftjar
+.Jusuf
+Kamberi
+2105
+1169/2
+arë
+176
+415
+73040
+Kashar
+73040
+KONFIRMUAR NGA ZRPP
+93
+Ramazan
+Isuf
+Kamberi
+2105
+1169/3
+arë
+317
+415
+131555
+Kashar
+131555
+KONFIRMUAR NGA ZRPP
+94
+Zyber
+Jonuz
+Kamberi
+2105
+1169/4
+arë
+270
+415
+112050
+Kashar
+112050
+KONFIRMUAR NGA ZRPP
+95
+Lulzim
+Baki
+Kamberi
+2105
+1169/5
+arë
+72
+415
+29880
+Kashar
+29880
+KONFIRMUAR NGA ZRPP
+96
+Xhavit
+Muharrem
+Kamberi
+2105
+1169/6
+arë
+244
+415
+101260
+Kashar
+101260
+KONFIRMUAR NGA ZRPP
+97
+Behar
+Shaban
+Kamberi
+2105
+1169/7
+arë
+137
+415
+56855
+Kashar
+56855
+KONFIRMUAR NGA ZRPP
+98
+Muhamet
+Mustafa
+Kamberi
+2105
+1169/8
+arë
+137
+415
+56855
+Kashar
+56855
+KONFIRMUAR NGA ZRPP
+99
+Sulejman
+Mustafa
+Kamberi
+2105
+1169/10
+arë
+134
+415
+55610
+Kashar
+55610
+KONFIRMUAR NGA ZRPP
+100
+Shyqyri
+Mustafa
+Kamberi
+2105
+1169/11
+arë
+198
+415
+82170
+Kashar
+82170
+KONFIRMUAR NGA ZRPP
+101
+Sami
+Hamit
+Kamberi
+2105
+1169/12
+arë
+130
+415
+53950
+Kashar
+53950
+KONFIRMUAR NGA ZRPP
+102
+Lutfi
+Hamit
+Kamberi
+2105
+1169/13
+arë
+125
+415
+51875
+Kashar
+51875
+KONFIRMUAR NGA ZRPP
+103
+Zyhdi
+Hamit
+Kamberi
+2105
+1169/14
+arë
+125
+415
+51875
+Kashar
+51875
+KONFIRMUAR NGA ZRPP
+104
+Haxhire Ilir
+Jusuf Baki
+Kamberi Kamberi
+2105
+1169/15
+arë
+126
+415
+52290
+Kashar
+52290
+KONFIRMUAR NGA ZRPP
+105
+Ritvan
+Baki
+Kamberi
+2105
+1169/16
+arë
+126
+415
+52290
+Kashar
+52290
+KONFIRMUAR NGA ZRPP
+106
+Ali
+Kamberi
+2105
+1169/17
+arë
+225
+415
+93375
+Kashar
+93375
+KONFIRMUAR NGA ZRPP
+107
+Vehip
+Guri
+2105
+168/8
+truall
+99
+2276
+225324
+Kashar
+225324
+KONFIRMUAR NGA ZRPP
+108
+Aleksander
+Doci
+2105
+168/7
+truall
+741
+2276
+1686516
+Kashar
+1686516
+KONFIRMUAR NGA ZRPP
+109
+Eugen
+Karagjos
+Kasneci
+2105
+1168/5
+arë
+252
+415
+104580
+Kashar
+104580
+KONFIRMUAR NGA ZRPP
+110
+Engjell Altin
+Bashkim Agim
+Burimi Gedej
+2105
+1180/35
+arë
+2178
+415
+903870
+Kashar
+903870
+KONFIRMUAR NGA ZRPP
+111
+Shefqet
+Xhemal
+Lamaj
+2105
+1180/38
+arë
+384
+415
+159360
+Kashar
+159360
+KONFIRMUAR NGA ZRPP
+112
+Familja Kamberi
+2105
+.1179/2 deri 1179/34
+arë
+5220
+415
+2166300
+Kashar
+2166300
+I PAKONFIRMUAR
+TOTALI
+58516
+32957260
+32957260
