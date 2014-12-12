@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të pakësimit të volumit të lëndës drusore, produkteve të tjera pyjore e jopyjore, sipërfaqes së hequr dhe e infrastrukturës së saj paguhen nga subjekti “Dobrushi 2010” sh.p.k., në bazë të vendimit nr. 391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.

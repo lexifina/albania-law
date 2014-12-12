@@ -1,0 +1,1 @@
+7. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes sipas lejes mjedisore nga shoqëria “Dobrushi 2010” sh.p.k., sipërfaqja e rehabilituar të regjistrohet si fond pyjor dhe kullosor.

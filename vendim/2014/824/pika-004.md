@@ -1,0 +1,1 @@
+4. Ministria e Mjedisit dhe shoqëria “Dobrushi 2010” sh.p.k., nënshkruajnë marrëveshje të përbashkët për hapat, afatet dhe procedurat për hartimin dhe realizimin e projekteve teknike lidhur me detyrimet sipas pikës 3, të këtij vendimi.

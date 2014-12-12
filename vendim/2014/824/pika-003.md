@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Dobrushi 2010” sh.p.k., detyrohet të rehabilitojë sipërfaqen e marrë në shfrytëzim sipas kushteve të lejes mjedisore dhe, brenda 3 (tri) viteve të para, të pyllëzojë me fondet e veta një sipërfaqe prej 14.14 (katërmbëdhjetë pikë katërmbëdhjetë) ha në ngastrat e përcaktuara në marrëveshjen me Ministrinë e Mjedisit.
