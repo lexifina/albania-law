@@ -1,0 +1,1 @@
+5. Komisioni, pas vlerësimit të dosjes së kandidatëve, kryen një intervistë me gojë, bën renditjen e tyre, përzgjedh dy nga kandidaturat më të mira dhe ia përcjell bordit të Qendrës Spitalore Universitare për të përzgjedhur njërën prej tyre. Kandidaturën e përzgjedhur bordi ia paraqet për emërim drejtorit të Përgjithshëm të Qendrës Spitalore Universitare.
