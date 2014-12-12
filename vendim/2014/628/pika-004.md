@@ -1,1 +1,1 @@
-4. Sasia për “Medaljen e nderit” është 20 (njëzet) copë, gjithsej, nga të cilat10 (dhjetë) copë jepen nga ministri i Mbrojtjes dhe 10 (dhjetë) copë nga ministri i Punëve të Brendshme.
+4. Sasia për “Medaljen e nderit” është 20 (njëzet) copë, gjithsej, nga të cilat 10 (dhjetë) copë jepen nga ministri i Mbrojtjes dhe 10 (dhjetë) copë nga ministri i Punëve të Brendshme. Personelit, që do të marrë këtë medalje, do t’i jepet një shpërblim prej 100 000 (njëqind mijë) lekësh për secilin.
