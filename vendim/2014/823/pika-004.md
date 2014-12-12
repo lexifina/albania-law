@@ -1,0 +1,1 @@
+4. Vlerat përkatëse të pakësimit në volum të lëndës drusore dhe produkteve të tjera pyjore, sipërfaqet dhe investimet e kryera në vite në pyje, objekt i këtij vendimi, paguhen nga shoqëria “Energji Ashta” sh.p.k., në bazë të vendimit nr. 391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.

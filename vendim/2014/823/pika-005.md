@@ -1,0 +1,1 @@
+5. Me hyrjen në fuqi të këtij vendimi, shoqëria “Energji Ashta” sh.p.k., brenda 5 (pesë) viteve, duhet të pyllëzojë me fondet e saj 295.86 (dyqind e nëntëdhjetë e pesë pikë tetëdhjetë e gjashtë) ha, sipërfaqe me drurë pyjorë në ekonomitë pyjore të përcaktuara në marrëveshjen e lidhur ndërmjet shoqërisë “Energji Ashta”, sh.p.k., dhe Ministrisë së Mjedisit.
