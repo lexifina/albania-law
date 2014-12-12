@@ -1,1 +1,1 @@
-5. Drejtor i Zyrës Kombëtare Tempus (ZKT) është koordinatori lokal i programit Tempus, i cili emërohet nga EACEA-ja, si kandidaturë e përzgjedhur nëpërmjet procedurave të saj të brendshme në konsultim me Ministrinë e Arsimit dhe Shkencës.
+5. Zyra Kombëtare Erasmus+ (ZKE) drejtohet nga Koordinatori Kombëtar, i cili është përfaqësuesi ligjor i Zyrës dhe nënshkruan kontratën me Agjencinë Ekzekutive të Arsimit, Kulturës dhe Veprimtarive Audiovizuale të Bashkimit Evropian (EACEA), organ i Komisionit Evropian, si dhe zbaton detyrimet që rrjedhin prej saj.
