@@ -1,0 +1,1 @@
+10. “Komision” është struktura e posaçme administrative, përgjegjëse, që funksionon pranë Ministrisë së Zhvillimit Urban dhe Turizmit, për dhënien e lejes për ushtrimin e veprimtarisë për administrimin në ndërtesat e banimit, ndryshimin, revokimin dhe vendosjen e penaliteteve, sipas këtij udhëzimi.

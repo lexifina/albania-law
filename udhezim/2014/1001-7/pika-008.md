@@ -1,0 +1,1 @@
+8. “Strukturë përkatëse” do të quhet çdo organizim administrativ, ekzistues ose i ri, që krijohet me vendim të kryetarit të njësisë vendore përkatëse, për të kryer procedurat administrative të trajtimit, vlerësimit, për regjistrimin apo heqjen nga libri i administratorëve të subjekteve, si dhe propozimin për marrjen e masave disiplinore, siç parashikohet në këtë udhëzim.

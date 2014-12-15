@@ -1,0 +1,1 @@
+4. “Shoqëria administruese” është personi juridik, privat, i përfshirë në librin përkatës të mbajtur nga njësia vendore përkatëse, për të ushtruar veprimtari në fushën e administrimit në ndërtesat e banimit.
