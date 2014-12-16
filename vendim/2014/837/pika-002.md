@@ -1,0 +1,1 @@
+2. Ministria e Mirëqenies Sociale dhe Rinisë të hartojë platformën me masat për veprim, në zbatim të këtij vendimi, ku të përcaktohen detyrimet për institucionet që duhet të ofrojnë shërbimin e gjuhës së shenjave.

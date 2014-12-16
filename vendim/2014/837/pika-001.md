@@ -1,0 +1,1 @@
+1. Ministria e Mirëqenies Sociale dhe Rinisë është autoriteti përgjegjës për koordinimin e procesit të zbatimit të detyrimeve si dhe të vlerësimit e të bashkërendimit të legjislacionit, politikave, programeve për gjuhën e shenjave në Shqipëri dhe çështjeve që lidhen me respektimin e të drejtave të personave që nuk flasin dhe nuk dëgjojnë.
