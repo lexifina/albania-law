@@ -1,0 +1,1 @@
+1. Konvertimin e sipërfaqes prej 29.8 ha, nga kategoria e resursit “tokë bujqësore” në kategorinë e resursit “tokë urbane”, për t’u përdorur nga Bashkia Fushë- Krujë si zonë me prioritet zhvillimi ekonomik, sipas listës bashkëlidhur këtij vendimi.
