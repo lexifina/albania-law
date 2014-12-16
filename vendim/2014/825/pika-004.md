@@ -1,0 +1,1 @@
+4. Ministria e Mjedisit dhe shoqëria “Heidorn & Binjaku” sh.p.k. të nënshkruajnë marrëveshje të përbashkët për hapat, afatet dhe procedurat për hartimin e projekteve teknike lidhur me detyrimet, sipas pikës 3, të këtij vendimi.
