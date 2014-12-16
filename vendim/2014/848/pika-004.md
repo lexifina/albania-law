@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “arë”, “truall” dhe “pemëtore” prej 24 304 500 (njëzet e katër milionë e treqind e katër mijë e pesëqind) lekësh të përballohet nga buxheti i vitit 2014, zëri “Shpronësimet”, miratuar për Autoritetin Rrugor Shqiptar.
