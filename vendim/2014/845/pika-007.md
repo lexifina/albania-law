@@ -1,0 +1,1 @@
+7. Ministria e Mjedisit dhe shoqëria “Elbesa” sh.p.k., të nënshkruajnë marrëveshje të përbashkët mbi hapat, afatet dhe procedurat për hartimin e projekteve teknike të heqjes së materialit drusor dhe pyllëzimin e sipërfaqeve pyjore, sipas pikës 4, të këtij vendimi.

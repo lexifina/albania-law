@@ -1,0 +1,1 @@
+5.Sipërfaqet pyjore, sipas pikës 1, të këtij vendimi, të mbeten pronë publike e shtetit dhe të regjistrohen në përgjegjësi administrimi të Ministrisë së Energjisë dhe Industrisë, në funksion të lidhjes së marrëveshjes me shoqërinë “Elbesa” sh.p.k.

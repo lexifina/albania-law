@@ -1,0 +1,1 @@
+4. Me hyrjen në fuqi të këtij vendimi, shoqëria “Elbesa” sh.p.k., brenda 2viteve, të pyllëzojë, me fondet e veta, 4.5 ha sipërfaqe me drurë pyjorë, në ngastrat pyjore të përcaktuara në marrëveshjen e lidhur ndërmjet saj dhe Ministrisë së Mjedisit.

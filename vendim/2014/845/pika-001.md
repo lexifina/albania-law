@@ -1,0 +1,1 @@
+1. Sipërfaqja pyjore prej 1.5 ha, në ngastrën 66a, të ekonomisë pyjore “Zaranikë”, që do të përdoret nga shoqëria “Elbesa” sh.p.k., për shfrytëzimin e gurit gëlqeror, të hiqet nga Fondi Pyjor dhe Kullosor dhe të çregjistrohet nga Kadastra Kombëtare e Pyjeve dhe Kullotave. Sipërfaqja, sipas ngastrave pyjore dhe kullosore, jepet në lidhjen 1, që i bashkëngjitet këtij vendimi.
