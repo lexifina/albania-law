@@ -1,0 +1,1054 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+SEKTORI I SHPRONËSIMEVE
+AUTORITETI RRUGOR SHQIPTAR
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR ”BY PASS PLEPA KAVAJË-RROGOZHINË” (LOTI 11 (TOKAT)
+Nr
+Emri
+Atësia
+Mbiemri
+Zona
+Numri
+Sip.
+TOKË ARË
+TOKË TRUALL
+VLERA
+Shënime
+Sipërfaqja
+Çmimi
+Vlera
+Sip.
+Çmimi
+Vlera
+(m2)
+(lekë/m2)
+lekë
+(m2)
+(lekë/m2)
+lekë
+FSHATIGOSË E MADHEZ.K. 1814
+1
+Beqir
+Saraci
+1814
+219/1
+13004
+678
+327
+221706
+221706
+Konfirmim ZVRPP
+2
+Ferhat
+Saraci
+1814
+231/1
+2264
+135
+327
+44145
+44145
+Konfirmim ZVRPP
+3
+Qemal
+Saraci
+1814
+231/2
+11578
+656
+327
+214512
+214512
+Konfirmim ZVRPP
+4
+Ruzhdi
+Saraci
+1814
+231/3
+10400
+636
+327
+207972
+207972
+Konfirmim ZVRPP
+5
+Haki
+Shashi
+1814
+209/1
+2868
+760
+327
+248520
+248520
+Konfirmim ZVRPP
+FSHATIGOSË E VOGËLZ.K. 1815
+6
+Qemal
+Zhupa
+1815
+223/28
+7560
+709
+327
+231843
+231843
+Konfirmim ZVRPP
+7
+Osman
+Zhupa
+1815
+231/20
+3681
+210
+327
+68670
+68670
+Konfirmim ZVRPP
+8
+Qemal
+Zhupa
+1815
+231/6
+1971
+96
+327
+31392
+31392
+Konfirmim ZVRPP
+9
+Mehdi
+Zhupa
+1815
+231/7
+1913
+122
+327
+39894
+39894
+Konfirmim ZVRPP
+10
+Ismet
+Zhupa
+1815
+231/8
+824
+41
+327
+13407
+13407
+Konfirmim ZVRPP
+11
+Namir
+Zhupa
+1815
+231/9
+1260
+60
+327
+19620
+19620
+Konfirmim ZVRPP
+12
+Galip
+Zhupa
+1815
+231/10
+2288
+102
+327
+33354
+33354
+Konfirmim ZVRPP
+13
+Galip
+Zhupa
+1815
+231/11
+1750
+97
+327
+31719
+31719
+Konfirmim ZVRPP
+14
+Muharrem
+Zhupa
+1815
+231/12
+1647
+90
+327
+29430
+29430
+Konfirmim ZVRPP
+15
+Ismail
+Deliu
+1815
+231/13
+3842
+228
+327
+74556
+74556
+Konfirmim ZVRPP
+16
+Isuf
+Deliu
+1815
+231/14
+4339
+194
+327
+63438
+63438
+Konfirmim ZVRPP
+17
+Osman
+Deliu
+1815
+231/15
+3269
+231
+327
+75537
+75537
+Konfirmim ZVRPP
+18
+Besim
+Deliu
+1815
+231/16
+6880
+42
+327
+13734
+13734
+Konfirmim ZVRPP
+19
+Halim
+Balliu
+1815
+244/1
+1400
+251
+327
+82077
+82077
+Konfirmim ZVRPP
+20
+Hider
+Balliu
+1815
+244/2
+3500
+440
+327
+143880
+143880
+Konfirmim ZVRPP
+21
+Ramazan
+Balliu+bp
+1815
+244/3
+6170
+480
+327
+156960
+156960
+Konfirmim ZVRPP
+22
+Halim
+Balliu
+1815
+244/4
+3487
+290
+327
+94830
+94830
+Konfirmim ZVRPP
+23
+Dalip
+Balliu
+1815
+244/5
+4300
+167
+327
+54609
+54609
+Konfirmim ZVRPP
+24
+Nuri
+Deliu
+1815
+244/6
+4300
+185
+327
+60495
+60495
+Konfirmim ZVRPP
+25
+Shazivar
+Seferi
+1815
+244/7/1
+1720
+85
+327
+27795
+27795
+Konfirmim ZVRPP
+26
+Hysen
+Seferi
+1815
+244/7
+4300
+200
+327
+65400
+65400
+Konfirmim ZVRPP
+27
+Bilal
+Seferi
+1815
+244/8
+5627
+315
+327
+103005
+103005
+Konfirmim ZVRPP
+28
+Bajram
+Seferi
+1815
+244/9
+3983
+195
+327
+63765
+63765
+Konfirmim ZVRPP
+29
+Sherbet
+Seferi
+1815
+244/10
+2043
+87
+327
+28449
+28449
+Konfirmim ZVRPP
+30
+Luan
+Shaba
+1815
+244/11
+2580
+117
+327
+38259
+38259
+Konfirmim ZVRPP
+31
+Shkelqim
+Shaba
+1815
+244/40
+900
+81
+327
+26487
+26487
+Konfirmim ZVRPP
+32
+Gezim
+Shaba
+1815
+244/12
+2580
+130
+327
+42510
+42510
+Konfirmim ZVRPP
+33
+Avdulla
+Shaba
+1815
+244/13
+3020
+141
+327
+46107
+46107
+Konfirmim ZVRPP
+34
+Habil
+Shaba
+1815
+244/14
+5544
+248
+327
+81096
+81096
+Konfirmim ZVRPP
+35
+Abedin
+Seferi
+1815
+244/15
+5825
+270
+327
+88290
+88290
+Konfirmim ZVRPP
+36
+Zenel
+Seferi
+1815
+244/16
+3429
+132
+327
+43164
+43164
+Konfirmim ZVRPP
+37
+Alush
+Seferi
+1815
+244/17
+1900
+54
+327
+17658
+17658
+Konfirmim ZVRPP
+38
+Ragip
+Seferi
+1815
+244/39
+2350
+148
+327
+48396
+48396
+Konfirmim ZVRPP
+39
+Rakip
+Seferi
+1815
+244/18
+4645
+90
+327
+29430
+29430
+Konfirmim ZVRPP
+40
+Musa
+Seferi
+1815
+244/19
+4834
+117
+327
+38259
+38259
+Konfirmim ZVRPP
+41
+Shefki
+Seferi
+1815
+244/20
+4290
+236
+327
+77172
+77172
+Konfirmim ZVRPP
+42
+Uluz
+Balliu
+1815
+244/21
+3555
+83
+327
+27141
+27141
+Konfirmim ZVRPP
+43
+Ruzhdi
+Balliu
+1815
+244/22
+1987
+41
+327
+13407
+13407
+Konfirmim ZVRPP
+44
+Lulzim
+Balliu
+1815
+244/23
+1430
+41
+327
+13407
+13407
+Konfirmim ZVRPP
+45
+Bajram
+Balliu
+1815
+244/24
+1850
+65
+327
+21255
+21255
+Konfirmim ZVRPP
+46
+Ejup
+Balliu
+1815
+244/25
+1850
+136
+327
+44472
+44472
+Konfirmim ZVRPP
+47
+Xhevdet
+Proshka
+1815
+244/26
+6170
+232
+327
+75864
+75864
+Konfirmim ZVRPP
+48
+Ali
+Koni
+1815
+244/27
+4318
+136
+327
+44472
+44472
+Konfirmim ZVRPP
+49
+Ramiz
+Balliu
+1815
+244/28
+4265
+200
+327
+65400
+65400
+Konfirmim ZVRPP
+50
+Refat
+Balliu
+1815
+244/29
+3038
+108
+327
+35316
+35316
+Konfirmim ZVRPP
+51
+Nexhmi
+Balliu
+1815
+244/35
+1706
+61
+327
+19947
+19947
+Konfirmim ZVRPP
+52
+Mehmet
+Kullolli
+1815
+244/30
+5160
+232
+327
+75864
+75864
+Konfirmim ZVRPP
+53
+Feta
+Kullolli
+1815
+244/31
+5160
+147
+327
+48069
+48069
+Konfirmim ZVRPP
+54
+Shkelqim
+Shaba
+1815
+244/41
+900
+123
+327
+40221
+40221
+Konfirmim ZVRPP
+55
+Fiqiri
+Kullolli
+1815
+244/43
+477
+40
+327
+13080
+13080
+Konfirmim ZVRPP
+Xhemaile
+Kaja
+56
+Avdi
+Kullolli
+1815
+244/33
+6460
+246
+327
+80442
+80442
+Konfirmim ZVRPP
+57
+Agron
+Kullolli
+1815
+244/34
+4206
+237
+327
+77499
+77499
+Konfirmim ZVRPP
+58
+Ymer
+Deliu
+1815
+245/13
+4264
+23
+327
+7521
+7521
+Konfirmim ZVRPP
+59
+Eqerem
+Deliu
+1815
+245/10
+2000
+640
+732
+468480
+468480
+Konfirmim ZVRPP
+60
+Xhevdet
+Hyka
+1815
+245/5
+5600
+291
+327
+95157
+95157
+Konfirmim ZVRPP
+61
+Zija
+Hyka
+1815
+245/6
+2100
+190
+327
+62130
+62130
+Konfirmim ZVRPP
+62
+Rrahman
+Hyka
+1815
+245/7
+3955
+78
+327
+25506
+25506
+Konfirmim ZVRPP
+63
+Daut
+Balliu
+1815
+261/53
+1453
+557
+327
+182139
+182139
+Konfirmim ZVRPP
+64
+Daut
+Balliu
+1815
+261/54
+1000
+371
+327
+121317
+121317
+Konfirmim ZVRPP
+65
+Daut
+Balliu
+1815
+261/55
+1000
+403
+327
+131781
+131781
+Konfirmim ZVRPP
+66
+Daut
+Balliu
+1815
+261/56
+1000
+307
+327
+100389
+100389
+Konfirmim ZVRPP
+67
+Daut
+Balliu
+1815
+261/57
+150
+65
+327
+21255
+21255
+Konfirmim ZVRPP
+68
+Sherbet
+Murrani
+1815
+261/52
+500
+232
+327
+75864
+75864
+Konfirmim ZVRPP
+69
+Ruzhdi
+Proshka
+1815
+261/45
+1080
+324
+732
+237168
+237168
+Konfirmim ZVRPP
+70
+Ilir
+Kullolli
+1815
+261/47
+1116
+354
+327
+115758
+115758
+Konfirmim ZVRPP
+71
+Nevruz
+Kullolli
+1815
+261/48
+1164
+218
+327
+71286
+71286
+Konfirmim ZVRPP
+FSHATIRROGOZHINË-FSHATZ.K. 3235
+72
+Qazim
+Gjuzi
+3235
+259/14
+500
+65
+327
+21255
+21255
+Konfirmim ZVRPP
+73
+Vath
+Aliu
+3235
+259/13
+2420
+92
+327
+30084
+30084
+Konfirmim ZVRPP
+74
+Muharrem
+Ballabani
+3235
+259/12
+1510
+54
+327
+17658
+17658
+Konfirmim ZVRPP
+75
+Nevruz
+Kullolli
+3235
+259/11
+5950
+171
+327
+55917
+55917
+Konfirmim ZVRPP
+76
+Nevruz
+Kullolli
+3235
+259/10
+1880
+65
+327
+21255
+21255
+Konfirmim ZVRPP
+77
+Shpresa
+Fesati
+3235
+259/9
+2660
+80
+327
+26160
+26160
+Konfirmim ZVRPP
+78
+Elmaz
+Xhafa+bp
+3235
+259/8
+1320
+62
+327
+20274
+20274
+Konfirmim ZVRPP
+79
+Sali
+Xhafa+bp
+3235
+259/7
+1960
+62
+327
+20274
+20274
+Konfirmim ZVRPP
+80
+Ferit
+Xhafa
+3235
+259/6
+3030
+82
+327
+26814
+26814
+Konfirmim ZVRPP
+81
+B.P. Xhafa
+3235
+259/5
+460
+18
+327
+5886
+5886
+Konfirmim ZVRPP
+82
+Hamit
+Xhafa
+3235
+259/4
+450
+45
+327
+14715
+14715
+Konfirmim ZVRPP
+83
+Hazis
+Xhafa
+3235
+259/3
+2550
+137
+327
+44799
+44799
+Konfirmim ZVRPP
+84
+Maliq
+Hajrullah
+Kullolli
+3235
+259/29
+1428
+86
+327
+28122
+28122
+Konfirmim ZVRPP
+85
+Arif
+Daja
+3235
+259/51
+2950
+395
+327
+129165
+129165
+Konfirmim ZVRPP
+86
+Ramazan
+Daja
+3235
+259/52
+1500
+222
+327
+72594
+72594
+Konfirmim ZVRPP
+87
+Sami
+Daja
+3235
+259/53
+1200
+263
+327
+86001
+86001
+Konfirmim ZVRPP
+88
+Llazar
+Angjeli
+3235
+259/54
+3650
+652
+327
+213204
+213204
+Konfirmim ZVRPP
+89
+Gugash
+Magani
+3235
+259/38
+520
+414
+327
+135378
+135378
+Konfirmim ZVRPP
+90
+Llazar
+Angjeli
+3235
+259/37
+2216
+103
+252
+25956
+25956
+Konfirmim ZVRPP
+Gugash
+Magani
+91
+Blerim
+Kasa
+3235
+259/46
+240
+48
+327
+15696
+15696
+Konfirmim ZVRPP
+92
+Nazmi
+Kasa
+3235
+259/47
+384
+423
+327
+138321
+138321
+Konfirmim ZVRPP
+Shuma
+18199
+6E+06
+1067
+7E+05
+7E+06
