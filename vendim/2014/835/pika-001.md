@@ -1,0 +1,1 @@
+1. Dhënien e miratimit për lidhjen e kontratës së qirasë me tarifën 1 euro/kontrata, ndërmjet Ministrisë së Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, si qiradhënës, dhe shoqërisë“The Star” sh.p.k., si qiramarrës, për pasurinë shtetërore “Sallë prodhimi në katin e katërt nëProdhim Veshje, Durrës”, me sipërfaqe të përgjithshme 524 (pesëqind e njëzet e katër) m2.
