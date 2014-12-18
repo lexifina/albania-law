@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123182,
+  "title": "PËR BANKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "number": "8269",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1997-12-23",
+  "version_no": 1,
+  "qbz_version_id": 10728,
+  "in_force": "2014-12-18",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2014-12-18",
+  "changed_by_qbz_id": 11514,
+  "changed_by_number": "179",
+  "changed_by_title": "PËR NJË NDRYSHIM NË LIGJIN NR. 8269, DATË 23.12.1997, “PËR  BANKËN E SHQIPËRISË”, TË NDRYSHUAR",
+  "source": "https://qbz.gov.al/files/50f516ac92142fa6fa2ccc2ef6d14aea7e865a88528f87fc8c451441bc033205.docx",
+  "source_sha256": "50f516ac92142fa6fa2ccc2ef6d14aea7e865a88528f87fc8c451441bc033205",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123182",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123182/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
