@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55406,
+  "title": "PËR NJË NDRYSHIM NË DEKRETIN NR. 8766, DATË 31.10.2014 \"PËR DHËNIE TË SHTETËSISË SHQIPTARE\"",
+  "type": "Dekret",
+  "kind": "Akt ndryshues",
+  "number": "8842",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2014-12-09",
+  "published": "2014-12-19",
+  "in_force": "2014-12-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b56421f9fbafb2fb1fc6e20d5167492a4bab3233dd2e45e145adbb837015df58.docx",
+  "source_sha256": "b56421f9fbafb2fb1fc6e20d5167492a4bab3233dd2e45e145adbb837015df58",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55406",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2014/12/09/8842",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
