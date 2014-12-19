@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55408,
+  "title": "Për caktimin e dAtës së zgjedhjeve për organet e qeverisjes vendore",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8844",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2014-12-15",
+  "published": "2014-12-19",
+  "in_force": "2014-12-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/679d8ab0eddaf4b7ac07ae7423b17fe63dbe9f30310809b1033caac3cb5c3c1b.docx",
+  "source_sha256": "679d8ab0eddaf4b7ac07ae7423b17fe63dbe9f30310809b1033caac3cb5c3c1b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55408",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2014/12/15/8844",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
