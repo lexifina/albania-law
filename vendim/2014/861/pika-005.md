@@ -1,0 +1,1 @@
+5. Mbledhja është e vlefshme edhe kur nuk respektohen procedurat e parashikuara më sipër, vetëm në rast se në atë mbledhje marrin pjesë të gjithë anëtarët, të cilët, paraprakisht, miratojnë zhvillimin e mbledhjes.

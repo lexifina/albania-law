@@ -1,0 +1,1 @@
+14. Procesi i shqyrtimit të propozimit mund të shtyhet apo të pezullohet përkohësisht, për rrethana të paparashikuara, që dëmtojnë reputacionin dhe vlerën e aktit të medaljes ose titullit vendor të nderit në opinionin publik, deri në sqarimin e këtyre rrethanave. Arsyet e shtyrjes apo të pezullimit, si dhe afati, pasqyrohen në procesverbal.

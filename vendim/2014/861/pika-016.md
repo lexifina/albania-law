@@ -1,0 +1,1 @@
+16. Në rast se propozimi miratohet nga autoriteti përgjegjës, urdhri ose vendimi i dërgohet komisionit për përgatitjen e medaljeve, rrathëve të argjendtë dhe certifikatave përkatëse, në përputhje me parashikimet e legjislacionit në fuqi për dhënien e medaljeve dhe titujve vendorë të nderit.

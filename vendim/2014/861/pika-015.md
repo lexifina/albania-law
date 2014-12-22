@@ -1,0 +1,1 @@
+15. Kur propozimi për dhënien e medaljes apo titullit vendor të nderit nuk miratohet, komisioni njofton autoritetin propozues për mosmiratimin. Në çdo rast, vendimi i arsyetuar dhe procesverbali i mbledhjes i përcillen autoritetit përgjegjës për miratimin e propozimit.

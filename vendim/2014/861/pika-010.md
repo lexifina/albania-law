@@ -1,0 +1,1 @@
+10. Në çdo mbledhje mbahet një procesverbal, në të cilin pasqyrohen data dhe vendi i mbledhjes, anëtarët që marrin pjesë, çështjet që diskutohen, vendimet e marra, si dhe mënyra dhe rezultati i votimeve.
