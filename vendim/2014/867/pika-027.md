@@ -1,0 +1,1 @@
+27. Në urdhrin për ngritjen e grupit të përbashkët të punës duhet të përcaktohen periudha kohore, brenda së cilës grupi i përbashkët i punës duhet të realizojë detyrat, dhe objekti për të cilin është krijuar.

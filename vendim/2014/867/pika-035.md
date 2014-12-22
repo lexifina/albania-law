@@ -1,0 +1,1 @@
+35. Në urdhrin për krijimin e njësisë së përbashkët duhet të përcaktohen saktësisht mjediset dhe mjetet e nevojshme materiale, të cilat do t’i shërbejnë njësisë së përbashkët për realizimin e detyrave të saj funksionale. Në rast se janë përfshirë disa institucione, në urdhër përcaktohet përgjegjësia e çdo institucioni.

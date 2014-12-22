@@ -1,0 +1,1 @@
+23. Në urdhrin për ngritjen e grupit të përbashkët të punës duhet të përcaktohen saktësisht mjediset dhe mjetet e nevojshme materiale, të cilat do t’i shërbejnë grupit të përbashkët për realizimin e detyrave të tij funksionale. Në rast se janë përfshirë disa institucione, në urdhër përcaktohet përgjegjësia e çdo institucioni.

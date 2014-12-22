@@ -1,0 +1,1 @@
+15. Në rastin e parashikuar në pikën 14, të kreut II, të këtij vendimi, institucioni pritës, kurdoherë brenda afateve të përcaktuara në këtë vendim, duhet të kthejë një përgjigje zyrtare refuzuese, në të cilën të saktësohet baza ligjore dhe të jepen shpjegimet e nevojshme për refuzimin e kërkesës për bashkëpunim me institucionin kërkues.

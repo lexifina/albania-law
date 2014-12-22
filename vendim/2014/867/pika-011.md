@@ -1,0 +1,1 @@
+11. Kërkesat për bashkëpunim shqyrtohen nga institucioni pritës, sipas radhës së paraqitjes së tyre, me përjashtim të kërkesave për bashkëpunim që vijnë nga Kryeministria, të cilat kanë kurdoherë prioritet.

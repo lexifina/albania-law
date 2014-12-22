@@ -1,0 +1,1 @@
+3. Të gjitha institucionet e administratës shtetërore para, gjatë dhe në përfundim të procesit të bashkëpunimit janë të detyruara të japin ndihmën dhe kontributin e tyre me qëllim realizimin pa vonesa të funksioneve administrative dhe detyrave shtetërore.

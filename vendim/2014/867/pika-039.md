@@ -1,0 +1,1 @@
+39. Në rast se ngritja e njësisë përcaktohet që të jetë me afat, në urdhër përcaktohet periudha kohore, brenda së cilës njësia duhet të realizojë detyrat administrative dhe qëllimin për të cilin është krijuar.

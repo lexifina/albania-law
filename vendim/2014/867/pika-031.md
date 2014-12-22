@@ -1,0 +1,1 @@
+31. Njësitë e përbashkëta të përhershme funksionojnë si struktura ekzekutive /urdhërdhënëse, me qëllim realizimin dhe përmbushjen e detyrave administrative të përbashkëta të institucioneve të përfshira në këtë njësi.

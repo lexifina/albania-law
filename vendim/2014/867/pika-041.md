@@ -1,0 +1,1 @@
+41. Të dhënat e mësipërme mund të ndryshohen në çdo kohë, sipas rastit, nga Kryeministri/ministri përgjegjës me urdhër apo ministrat e përfshirë me urdhër të përbashkët, duke përcaktuar qëllimin, objektin, afatin, personelin, infrastrukturën apo mjetet financiare të tjera, por duke zbatuar në çdo rast kërkesat e pikave 21-41, të kreut IV, të këtij vendimi.

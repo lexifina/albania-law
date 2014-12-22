@@ -1,0 +1,1 @@
+7. Afati për kthimin e përgjigjeve fillon nga e nesërmja e protokollimit të tyre në regjistrin përkatës të institucionit, të cilit i kërkohet informacioni, dhe mbaron në ditën përkatëse sipas afateve përkatëse brenda orarit zyrtar të asaj dite.

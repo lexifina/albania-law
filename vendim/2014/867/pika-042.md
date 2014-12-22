@@ -1,0 +1,1 @@
+42. Titullarët e institucioneve të përfshira në njësinë e përbashkët mblidhen çdo gjashtë muaj për t’u informuar nga drejtuesi i njësisë në lidhje me ecurinë e punës dhe realizimin e detyrave administrative që i janë ngarkuar.

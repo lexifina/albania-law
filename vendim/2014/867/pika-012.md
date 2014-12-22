@@ -1,0 +1,1 @@
+12. Në rast se përgjigjja nuk është e plotë, institucioni dërgues ka të drejtë të kërkojë plotësimin e saj me të dhënat apo informacionin e duhur, duke specifikuar edhe afatin kohor për plotësimin e të metave.

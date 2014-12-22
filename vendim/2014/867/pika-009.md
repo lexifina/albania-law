@@ -1,0 +1,1 @@
+9. Në rastin kur kërkohen të dhëna, informacione apo ndihmë, për të cilat kërkohen njohuri të posaçme shkencore dhe mund të kërkohen ekzaminime apo eksperimente me karakter shkencor, afati për kthimin e përgjigjes nuk mund të jetë më shumë se 20 (njëzet) ditë pune.

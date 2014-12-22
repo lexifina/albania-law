@@ -1,0 +1,1 @@
+14. Institucioni pritës mund të kundërshtojë kërkesën për bashkëpunim, nëse legjislacioni që rregullon fushën e veprimtarisë së tij dhe/apo legjislacioni i fushave të tjera të veçanta e pengon atë për dhënien e të dhënave, të informacionit apo të ndihmës së kërkuar.

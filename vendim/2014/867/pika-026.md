@@ -1,0 +1,1 @@
+26. Në rast se mjetet financiare për grupin e përbashkët mbulohen nga një projekt i huaj, i dhënë nga organizma apo donatorë ndërkombëtarë, përdorimi i tyre bëhet në përputhje me marrëveshjen e arritur me këto subjekte, si edhe me legjislacionin përkatës për buxhetin e shtetit.

@@ -1,0 +1,1 @@
+21. Në rastin e parashikuar në pikën 19, të kreut II, të këtij vendimi, nëse institucioni epror e konsideron të bazuar kërkesën e institucionit të tij vartës, i paraqet Kryeministrit kërkesën për zgjidhjen e mosmarrëveshjes së kompetencës, duke parashtruar rrethanat e faktit, si dhe të gjithë dokumentacionin shoqërues, përfshirë edhe korrespondencën përkatëse.

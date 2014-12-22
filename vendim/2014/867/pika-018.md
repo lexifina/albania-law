@@ -1,0 +1,1 @@
+18. Institucioni epror, në rast se kërkesa e institucionit kërkues i duket e bazuar, mund ta detyrojë institucionin e tij vartës për plotësimin e kërkesës për bashkëpunim ose ta zëvendësojë atë sipas parashikimeve të pikës 4, të nenit 23, të ligjit nr. 90/2012.

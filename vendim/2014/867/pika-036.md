@@ -1,0 +1,1 @@
+36. Në urdhrin për krijimin e njësisë së përbashkët duhet të përcaktohen saktësisht mjetet buxhetore dhe financiare që duhet të mbulojnë veprimtarinë e saj. Në rast se këto mjete nuk mbulohen nga buxhetet e institucioneve të përfshira ose nuk ishin parashikuar në fondet e tyre, atëherë përpara ngritjes së njësisë kërkohet detyrimisht mendimi nga Ministria e Financave.
