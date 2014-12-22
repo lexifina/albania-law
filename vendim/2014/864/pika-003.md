@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Beralb” sh.a., brenda 3 (tre) viteve, duhet të pyllëzojë, me fondet e veta, 57.6 (pesëdhjetë e shtatë pikë gjashtë) ha sipërfaqe me drurë pyjorë, në territorin administrativ ku ushtron aktivitetin, sipas përcaktimit në marrëveshjen e lidhur ndërmjet saj dhe Ministrisë së Mjedisit.
