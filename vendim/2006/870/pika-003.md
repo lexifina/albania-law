@@ -1,2 +1,0 @@
-3. Formula për llogaritjen e vlerës së parcelës ndërtimore (sipërfaqja e bazës së objektit dhe sipërfaqja në funksion të objektit), në rastin kur objekti ka destinacion të përzier, për strehim dhe veprimtari social-ekonomike, do të jetë e barabartë me: vlerën e shitjes së parcelës ndërtimore, plus vlerën e shtuar për veprimtari social-ekonomike:
-Vlera e parcelës ndërtimore për objektin me destinacion të përzier=vlera e parcelës ndërtimore+vlera shtesë.
