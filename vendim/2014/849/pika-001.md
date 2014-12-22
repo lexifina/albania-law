@@ -1,0 +1,1 @@
+1. Pagesat e ndihmës ekonomike për familjet përfituese dhe për personat me aftësi të kufizuar, për vitin 2014, në komunën Shalë, të qarkut të Shkodrës, të bëhen nga Drejtoria Rajonale e Shërbimit Social Shtetëror, në Shkodër, sipas listës së paraqitur nga administratori shoqëror i kësaj komune.
