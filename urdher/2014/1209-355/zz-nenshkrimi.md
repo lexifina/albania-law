@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI I PUNËVE TË BRENDSHME Saimir Tahiri
+MINISTRI I KULTURËS
