@@ -1,0 +1,4 @@
+5. Shkarkimet e gazeve serrë të fluorinuara në lidhje me prodhimin
+5.1 Prodhuesit e komponimeve të fluorinuara marrin të gjitha masat e nevojshme për të kufizuar sa më shumë të jetë e mundur shkarkimet e gazeve serrë të fluorinuara gjatë prodhimit, transportit dhe magazinimit, si edhe në rastet kur gazet serrë të fluorinuara janë prodhuar si nënprodukte.
+5.2 Pa rënë ndesh me pikën 1.1, të kreut IV, vendosja në treg e gazeve serrë të fluorinuara dhe gazeve të listuara në aneksin II ndalohet kur prodhuesit ose importuesit nuk kanë dokumentin ligjor që dëshmon kohën e vendosjes në treg dhe kur vërtetojnë se trifluorometani i prodhuar si një nënprodukt gjatë procesit të prodhimit, përfshirë prodhimin e lëndëve të para për prodhimin e tyre, është shkatërruar ose rikuperuar për përdorim të mëvonshëm, në përputhje me teknikat më të mira të disponueshme.
+5.3 Kjo kërkesë do të zbatohet nga 11 qershori 2019.
