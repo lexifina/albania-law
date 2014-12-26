@@ -1,0 +1,2 @@
+1. Subjektet e shpronësuara, prona e të cilave është njohur për kompensim, të kompensohen sipas radhës kronologjike, të përcaktuar nga numri dhe data e vendimit, vetëm nëse vendimi është përfundimtar, i ekzekutueshëm dhe nuk është trajtuar asnjëherë me kompensim.
+Në rastet kur vendimi është ndryshuar pjesërisht, për efekt klasifikimi, për njohjen, kthimin dhe kompensimin e asaj prone do të merren për bazë numri dhe data e vendimit më të hershëm në radhë kronologjike.

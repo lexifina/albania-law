@@ -1,0 +1,1 @@
+10. Paraqitja e të dhënave të rreme ose fshehja e tyre nga subjektet e shpronësuara, në zbatim të këtij vendimi, sjell përjashtimin e menjëhershëm të këtyre subjekteve nga procedura e kompensimit, në të holla, dhe i ngarkon ata me përgjegjësi penale, sipas legjislacionit në fuqi.

@@ -1,0 +1,1 @@
+2. Kompensimi të bëhet vetëm për sipërfaqe deri 200 m2, të sipërfaqes truall të caktuar për kompensim, në bazë të çmimit të përcaktuar në hartën e vlerës, të miratuar sipas vendndodhjes së pronës që kompensohet.
