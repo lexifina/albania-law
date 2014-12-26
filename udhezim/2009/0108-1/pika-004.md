@@ -1,1 +1,0 @@
-4. Faturat tatimore të energjisë elektrike të OSSH-së, në tremujorin e parë të vitit fiskal do të kenë në fund, si një zë më vete, tarifën e shërbimit për përdorimin e aparateve televizive sipas udhëzimit të Ministrit të Financave nr.17/4, datë 26.12.2008 “Për disa shtesa dhe ndryshime në udhëzimin nr.17, datë 13.5.2008 “Për tatimin mbi vlerën e shtuar”.
