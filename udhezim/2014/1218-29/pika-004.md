@@ -1,0 +1,1 @@
+4. Faturat tatimore të energjisë elektrike të OSHEE-së kanë në fund, si një zë më vete, tarifën e shërbimit për përdorimin e aparateve televizive, sipas udhëzimit të ministrit të Financave për tatimin mbi vlerën e shtuar.

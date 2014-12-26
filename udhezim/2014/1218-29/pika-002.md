@@ -1,0 +1,1 @@
+2. Tarifa paguhet nga përdoruesit familjarë dhe nga përdorues të tjerë jofamiljarë. Përdoruesit familjarë paguajnë tarifën vetëm për një marrës televiziv, pavarësisht nga numri i aparateve që kanë në familje. Përdoruesit e tjerë jofamiljarë paguajnë tarifën për çdo aparat televiziv.

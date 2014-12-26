@@ -1,0 +1,1 @@
+9. Institucionet e përcaktuara në shtojcën nr. 1, bashkëlidhur këtij udhëzimi, i përcjellin kompanisë OSHEE, brenda datës 15 janar të çdo viti, listën emërore të kategorive të përjashtuara nga pagimi i tarifës së shërbimit për përdorimin e aparateve televizive, si dhe gjatë vitit përditësimet përkatëse, nëse ka.
