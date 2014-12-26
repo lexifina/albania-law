@@ -1,0 +1,1 @@
+13. Drejtoria e Përgjithshme e Gjendjes Civile i dërgon këto ekstrakte Komisionit Qendror të Zgjedhjeve dhe publikon ekstraktet e përbërësve zgjedhorë në faqen zyrtare të internetit të Ministrisë së Punëve të Brendshme. Në momentin e publikimit të ekstraktit të radhës, në faqen e internetit fshihet ekstrakti i mëparshëm.

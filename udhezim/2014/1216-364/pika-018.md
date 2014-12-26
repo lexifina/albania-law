@@ -1,0 +1,1 @@
+18. Çdo zyrë e gjendjes civile në bashki / njësi bashkiake / komunë, më datë 13.5.2015, printon nga Regjistri Kombëtar i Gjendjes Civile dhe firmos listën e zgjedhësve për çdo qendër votimi, duke përfshirë edhe institucionet e posaçme, nën juridiksionin territorial të saj dhe ia dorëzon kryetarit.

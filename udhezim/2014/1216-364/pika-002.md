@@ -1,0 +1,1 @@
+2. Nga Regjistri Kombëtar i Gjendjes Civile gjenerohet formati elektronik i ekstraktit të përbërësve zgjedhorë brenda datës 30.12.2014, i ndarë sipas qendrave të votimit të zgjedhjeve të datës 23.6.2013 për çdo bashki/njësi bashkiake/komunë.

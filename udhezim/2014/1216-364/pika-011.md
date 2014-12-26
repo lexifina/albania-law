@@ -1,0 +1,1 @@
+11. Në rast se kryetari nuk përmbush detyrimet sipas pikës 4, 5, 6 dhe 7, të këtij udhëzimi deri në publikimin e ekstraktit të fundit para publikimit të listës së zgjedhësve, DPGJC-ja kryen menjëherë ndarjen dhe/ose bashkimin e qendrave të votimit sipas kritereve të përcaktuara në ligj, të cilat reflektohen në listat e zgjedhësve të datës 21.6.2015.
