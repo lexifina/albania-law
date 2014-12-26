@@ -1,1 +1,0 @@
-4. Tarifa e shërbimit është vjetore, e menjëhershme dhe paguhet brenda tremujorit të parë të vitit në vazhdim. Autoriteti i Komunikimeve Elektronike dhe Postare (AKEP) është i detyruar t’i transferojë të ardhurat e vjelura nga kjo tarifë në Buxhetin e Shtetit, brenda datës 30 të muajit, në të cilin janë arkëtuar.
