@@ -1,0 +1,1 @@
+5. Ministrisë së Mbrojtjes i shtohet fondi prej 1 800 000 (një milion e tetëqind mijë) lekësh, në zërin shpenzime korrente, për shpërblimin e familjeve të ushtarakëve që janë në detyrë në misionet ushtarake jashtë vendit, në masën 10 000 (dhjetë mijë) lekë.

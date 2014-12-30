@@ -1,0 +1,1 @@
+4. Ministrisë së Punëve të Brendshme i shtohet fondi prej 2 200 000 (dy milionë e dyqind mijë) lekësh, në zërin shpenzime korrente, për shpërblimin e familjeve të policëve të rënë në detyrë, në masën 10 000 (dhjetë mijë) lekë.
