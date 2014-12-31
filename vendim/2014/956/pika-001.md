@@ -1,0 +1,1 @@
+1. Përcaktimin e kurorës së gjelbër të Tiranës dhe masat për mbrojtjen e saj, me qëllim parandalimin e ndotjes së ajrit, ruajtjen e natyrës, mbrojtjen e përmirësimin e kushteve të mjedisit dhe nxitjen e planifikimit të qëndrueshëm, bazuar në planet e zhvillimit të kësaj zone.
