@@ -1,0 +1,1 @@
+1. Dhënien e miratimit për sigurimin e financimit të nevojshëm të kontratës së koncesionit për ndërtimin dhe administrimin e impiantit të trajtimit të mbetjeve urbane të qarkut të Elbasanit dhe prodhimin e energjisë, sipas aneksit B, të kësaj kontrate, që i bashkëlidhet këtij vendimi.
