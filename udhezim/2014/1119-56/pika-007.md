@@ -1,0 +1,1 @@
+7. Studenti që aplikon për transferim studimesh apo për program të dytë studimi nuk duhet të jetë duke ndjekur njëkohësisht një program tjetër studimi të çfarëdolloj cikli, në IAL-të publike e private.

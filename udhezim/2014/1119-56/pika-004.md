@@ -1,0 +1,1 @@
+4. Transferimi i studimeve mund të bëhet në një program studimi të njëjtë ose të ngjashëm të të njëjtit cikël dhe tipologji. IAL-ja mund të përcaktojë kritere të tjera shtesë për përzgjedhjen e studentëve që aplikojnë për transferim apo për program të dytë studimi.
