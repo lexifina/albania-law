@@ -1,1 +1,0 @@
-6. Agjencia Kombëtare e Planifikimit të Territorit (AKPT), në bashkëpunim me autoritetet e planifikimit të çdo niveli, duhet të kontrollojë zbatimin dhe përputhshmërinë e këtij vendimi me të gjitha instrumentet e planifikimit vendor dhe kombëtar, të cilat do të hartohen në të ardhmen për zonat e brezit të gjelbër.

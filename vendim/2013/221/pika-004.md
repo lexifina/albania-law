@@ -1,1 +1,0 @@
-4. Brezi i gjelbër krijohet në nivel qarku, bashkie dhe komune, duke përcaktuar sipërfaqen, sipas zonave, që synohet të shpallet brez i gjelbër, kufijtë dhe shkallën e ruajtjes së tij, sipas zonimit të territorit.

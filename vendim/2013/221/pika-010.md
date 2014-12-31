@@ -1,1 +1,0 @@
-10. Inspektorati Ndërtimor Urbanistik Kombëtar (INUK) dhe strukturat inspektuese të ministrive dhe të institucioneve vendore, sipas përkatësisë dhe kompetencave ligjore, në fuqi, ushtrojnë kontrolle për miradministrimin e brezit të gjelbër të qytetit të Tiranës dhe të rrethinave të tij, si dhe për zbatimin e planit të zhvillimit.
