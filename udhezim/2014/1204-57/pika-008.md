@@ -1,0 +1,1 @@
+8. Komisionet e intervistës, pas aprovimit nga dekani, shpallin rezultatet përfundimtare të intervistës me gojë në faqen web të fakultetit përkatës dhe UMT-së, si dhe në ambientet e fakultetit dhe rektoratit brenda 2 ditëve pune nga përfundimi i intervistës me gojë.
