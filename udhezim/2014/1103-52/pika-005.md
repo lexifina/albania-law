@@ -1,0 +1,1 @@
+5. Kandidati me statusin e jetimit, përveç dokumentacionit të parashikuar në pikën 1, duhet të dorëzojë dhe fotokopjen e noterizuar të dokumentit që certifikon statusin e jetimit, të lëshuar nga Shërbimi Social Shtetëror.

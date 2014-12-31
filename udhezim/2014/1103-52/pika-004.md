@@ -1,0 +1,1 @@
+4. Kandidati me statusin e invalidit paraplegjik e tetraplegjik, përveç dokumentacionit të parashikuar në pikën 1, duhet të dorëzojë dhe fotokopjen e noterizuar të librezës së invalidit paraplegjik e tetraplegjik të lëshuar nga Shërbimi Social Shtetëror ose kopje e noterizuar të vendimit të KMCAP-it.

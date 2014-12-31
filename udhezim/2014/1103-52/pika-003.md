@@ -1,0 +1,1 @@
+3. Kandidati me statusin e të verbrit, përveç dokumentacionit të parashikuar në pikën 1, duhet të dorëzojë dhe fotokopjen e noterizuar e librezës së të verbrit të lëshuar nga Shërbimi Social Shtetëror ose kopje të noterizuar të vendimit të Komisionit Mjekësor të Caktimit të Aftësisë për Punë (KMCAP).
