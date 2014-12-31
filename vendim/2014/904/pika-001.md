@@ -1,0 +1,1 @@
+1. Familjet, të cilat janë strehuar në objektet të ish-Ndërmarrjes Shtetërore në rrugën “Siri Kodra”, Tiranë, të cilat shpërngulen nga banesa për efekt të privatizimit të objektit nga pronari, të trajtohen me kredi të lehtësuar me interes 0%, sipas listës bashkëlidhur këtij vendimi.
