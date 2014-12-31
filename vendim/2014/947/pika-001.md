@@ -1,0 +1,1 @@
+1. Të autorizojë Albpetrol sh.a. që të marrë, në para, vlerën korresponduese të sasisë së Prodhimit të Gjykuar dhe të Pjesës së Albpetrol, sh.a., që i takon në bazë të marrëveshjeve hidrokarbure, të lidhura me kontraktorët, për zhvillimin dhe prodhimin e hidrokarbureve nga vendburimet ekzistuese të naftës e të gazit.
