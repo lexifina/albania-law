@@ -1,0 +1,1 @@
+6. Vendimi nr. 55, datë 3.2.2010, i Këshillit të Ministrave, “Për deklarimin e detyrueshëm të deklaratave tatimore dhe të dokumenteve të tjera tatimore, vetëm nëpërmjet formës elektronike”, shfuqizohet.

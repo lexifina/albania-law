@@ -1,0 +1,1 @@
+2. Çdo tatimpagues është i detyruar të bëjë dorëzimin e deklaratave dhe dokumenteve tatimore, të parashikuara në shkronjat “a” dhe “b”, të pikës 1, të këtij vendimi, vetëm nëpërmjet formës elektronike, duke filluar nga data 1 janar 2015, sipas afateve ligjore të përcaktuara dhe formës së deklaratës apo të dokumentit të miratuar me udhëzim të ministrit të Financave.
