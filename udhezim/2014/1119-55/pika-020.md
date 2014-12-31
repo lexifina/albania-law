@@ -1,0 +1,1 @@
+20. Shpenzimet për hartuesit dhe vlerësuesit e testeve mbulohen nga IZHA-ja. Shpenzimet për përfaqësuesit e MAS-it, monitoruesit, përgjegjësit e administrimit të testimit, administratorët dhe sekretuesit mbulohen nga institucionet përkatëse.
