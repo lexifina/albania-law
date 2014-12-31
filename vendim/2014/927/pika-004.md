@@ -1,0 +1,1 @@
+4. Koeficientët e indeksimit të pagave, të përcaktuar në vendimin nr. 582, datë 17.7.2013, të Këshillit të Ministrave, mbeten në fuqi dhe përdoren për indeksimin e pagave mbi të cilat janë paguar kontributet, vetëm për pensionet me datë fillimi deri në 31.12.2014, përfshirë edhe këtë datë.
