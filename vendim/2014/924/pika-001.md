@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve, për vitin 2015, për Autoritetin e Komunikimeve Elektronike Postare, në shumën 306 400 000 (treqind e gjashtë milionë e katërqind mijë) lekë, sipas lidhjes 1 që i bashkëlidhet këtij vendimi.
