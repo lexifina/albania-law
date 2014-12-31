@@ -1,0 +1,1 @@
+7. Udhëzimi nr. 38, datë 21.11.2008, “Për përcaktimin e tarifës së shërbimit për shërbimet konsullore të Ministrisë së Punëve të Jashtme apo të ambasadave tona jashtë vendit dhe tarifa për lëshimin e pasaportave të udhëtimit”, shfuqizohet.

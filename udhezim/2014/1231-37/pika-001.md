@@ -1,0 +1,1 @@
+1. Ministria e Punëve të Jashtme (MPJ), me institucionet e vartësisë, cakton agjentë për mbledhjen e tarifave për shërbimet konsullore, të cilat caktohen në përputhje me shtojcën nr. 1, bashkëlidhur këtij udhëzimi.
