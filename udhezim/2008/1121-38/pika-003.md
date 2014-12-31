@@ -1,1 +1,0 @@
-3. Shtetasit që pajisen me pasaportë për dalje jashtë shtetit, përveç pagimit të vlerës së pasaportës, do të paguajnë edhe tarifën e përcaktuar në pikat 1 dhe 2 të shtojcës nr.1 bashkëlidhur këtij udhëzimi, e cila është pjesë përbërëse e tij.

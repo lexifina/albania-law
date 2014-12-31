@@ -1,1 +1,0 @@
-7. Për vjeljen e tarifave konsullore me anën e pullës, Ministria e Punëve të Jashtme planifikon dhe porosit në Drejtorinë e Përgjithshme të Tatimeve pullat konsullore për nevojat e saj dhe të përfaqësive diplomatike jashtë shtetit.
