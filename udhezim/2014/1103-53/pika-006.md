@@ -1,0 +1,2 @@
+6. Me mbylljen e regjistrimit përfundimtar, institucionet publike të arsimit të lartë të dorëzojnë në AKP, brenda datës 27 nëntor 2014, listat përfundimtare të përgatitura sipas formatit të dërguar nga AKP-ja, me regjistrimet e kryera për çdo program studimi të ciklit të dytë me kohë të plotë, për dhënien e numrave të matrikullimit, në formë të shkruar dhe elektronike.
+Për të gjithë emrat e studentëve të dërguar pas datës 27 nëntor 2014, nuk do të procedohet me dhënien e numrave të matrikullimit dhe do të kërkohet nga AKP-ja çregjistrimi i tyre.

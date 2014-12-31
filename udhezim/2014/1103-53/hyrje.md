@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 53, datë 3.11.2014
+PËR PROCEDURAT E PRANIMIT DHE REGJISTRIMIT PËR KANDIDATËT NGA REPUBLIKA E KOSOVËS, SI DHE KANDIDATËT SHQIPTARË NGA MAQEDONIA, MALI I ZI, PRESHEVA, BUJANOVCI DHE MEDVEGJA, NË CIKLIN E DYTË TË STUDIMEVE ME KOHË TË PLOTË, “MASTER PROFESIONAL” DHE “MASTER I SHKENCAVE”/“MASTER I ARTEVE TË BUKURA” NË INSTITUCIONET PUBLIKE TË ARSIMIT TË LARTË, PËR VITIN AKADEMIK 2014-2015
+Në mbështetje të nenit 102 të Kushtetutës së Republikës së Shqipërisë, të neneve 34 dhe 75, të ligjit nr. 9741, datë 21.5.2007, “Për arsimin e lartë në Republikën e Shqipërisë”, i ndryshuar, vendimit nr. 668, datë 15.10.2014, të Këshillit të Ministrave, “Për kuotat e pranimit dhe tarifat e shkollimit në institucionet publike të arsimit të lartë, për programet e studimeve të ciklit të dytë me kohë të plotë, “Master profesional” dhe “Master i shkencave”/“Master i arteve të bukura”, për vitin akademik 2014-2015, i ndryshuar, të vendimit nr. 1013, datë 10.12.2010, të Këshillit të Ministrave, “Për krijimin e Agjencisë Kombëtare të Provimeve (AKP)”,
+UDHËZOJ:
