@@ -1,1 +1,0 @@
-45. Në rastin e pozicioneve, që nuk i përkasin shërbimit civil në institucionet qendrore, në fushën e ekzekutivit, risistemimi i punonjësve në strukturën e re kryhet mbështetur në legjislacionin që rregullon marrëdhëniet e punës për pozicionet përkatëse, por përfundon brenda afatit të parashikuar në pikën 38 të kreut II të këtij vendimi.

@@ -1,1 +1,0 @@
-15. Në institucionet e varësisë, njësia më e lartë organizative është drejtoria. Në rastin e institucioneve të mëdha, me më shumë se 50 pozicione pune, në institucionin e varësisë mund të krijohen pozicionet e zëvendëstitullarit, me kushtin që ky pozicion të jetë, në njëjtën kohë, edhe drejtuesi i një drejtorie funksionale të institucionit.

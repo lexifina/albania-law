@@ -1,1 +1,0 @@
-6. Funksionet e shërbimeve mbështetëse, si rregull, kryhen nga vetë institucioni, ose dega e tij. Në rastet kur institucioni i varësisë ose dega janë shumë të vegjël dhe me numër personeli të kufizuar, funksionet e shërbimeve mbështetëse ose një pjesë e tyre kryhen për to nga institucioni qendror nga i cili varet institucioni i varësisë apo dega.

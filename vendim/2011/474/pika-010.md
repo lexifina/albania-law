@@ -1,1 +1,0 @@
-10. Pozicionet, që kryejnë funksione të së njëjtës fushë, grupohen në sektorë, drejtori dhe drejtori të përgjithshme, në rast se plotësohet standardi numerik për krijimin e njësisë organizative respektive. Pozicionet, që kryejnë funksione të ngjashme, grupohen në të njëjtën njësi organizative.

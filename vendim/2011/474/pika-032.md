@@ -1,1 +1,0 @@
-32. Ministria e Financave jep mendimin e saj të detyrueshëm për kostot financiare të propozimit përkatës, në rastet kur ndryshimi i strukturës shoqërohet me efekte financiare shtesë mbi buxhetin e miratuar ose edhe kur efektet shtesë mbulohen nga fondet e lira, në dispozicion të institucionit.

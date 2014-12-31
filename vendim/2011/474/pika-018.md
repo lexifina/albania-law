@@ -1,1 +1,0 @@
-18. Në degët e ministrive dhe në institucionet e varësisë, të cilat kanë një numër të reduktuar të stafit deri në 10 (dhjetë) pozicione, struktura e brendshme mund të jetë e sheshtë, me vetëm një pozicion drejtues dhe të gjitha pozicionet e tjera që i raportojnë atij.

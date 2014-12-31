@@ -1,1 +1,0 @@
-11. Në aparatet e ministrive ka vetëm një drejtori të përgjithshme për çdo funksion kryesor, sipas përcaktimit të bërë në pikën 3 të këtij vendimi, me përjashtim të rastit kur një drejtori e përgjithshme është krijuar me një ligj të veçantë.

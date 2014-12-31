@@ -1,1 +1,0 @@
-2. Institucionet e administratës publike, në nivel qendror, organizohen mbështetur në parimin e shkallëzimit, sipas të cilit vartësit, në çdo nivel, duhet të ndjekin zinxhirin vendimmarrës dhe të komunikojnë me eprorët e tyre vetëm nëpërmjet eprorit më të afërt në hierarki.
