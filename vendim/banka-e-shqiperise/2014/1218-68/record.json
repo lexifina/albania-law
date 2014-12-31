@@ -1,0 +1,26 @@
+{
+  "qbz_id": 11526,
+  "title": "PËR DHËNIEN E MIRATIMIT PARAPRAK PËR KRYERJEN E VEPRIMTARISË SHTESË NGA BANKA PROCREDIT SHA",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "68",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2014-12-18",
+  "published": "2014-12-31",
+  "in_force": "2014-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/7bbc97d564e75d8a0af38dd8d4245d260be6f072ca5bb2ed41246a9b2f6aae1c.docx",
+  "source_sha256": "7bbc97d564e75d8a0af38dd8d4245d260be6f072ca5bb2ed41246a9b2f6aae1c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11526",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2014/12/18/68",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
