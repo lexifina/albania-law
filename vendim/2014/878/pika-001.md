@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të zyrave të katit të katërt teknik, me sipërfaqe 748.8 (shtatëqind e dyzet e tetë pikë tetë) m2, dhe të mjediseve rrethuese të godinës nr. 2 të ish-Ministrisë së Tregtisë së Jashtme, për nevoja pune të Institutit të Statistikave, sipas planimetrisë që bashkëlidhet këtij vendimi.
