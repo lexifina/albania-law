@@ -1,0 +1,1 @@
+38. Urdhri për miratimin e strukturës hyn në fuqi menjëherë, por fillon të prodhojë efektet financiare jo më vonë së 30 (tridhjetë) ditë nga data e hyrjes në fuqi, periudhë në të cilën duhet të përfundojnë të gjitha veprimet për sistemimin e punonjësve ekzistues në strukturën e re.

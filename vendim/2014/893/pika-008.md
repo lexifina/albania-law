@@ -1,0 +1,1 @@
+8. Në shërbimin civil, nëpunësi civil përpunon dhe analizon informacionin, në bazë të të cilit formulohen projektet e politikës, duke ndjekur hierarkinë e shërbimit civil. Ky nivel bën edhe monitorimin e zbatimit të vendimeve në fushën përkatëse që mbulon ministria. Përfaqësuesi më i lartë i këtij shërbimi është sekretari i Përgjithshëm.

@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të organizimit dhe të funksionimit të kabineteve ndihmëse, të organizimit të brendshëm të institucioneve të administratës shtetërore, si dhe për procedurat e hollësishme për përgatitjen, propozimin, konsultimin dhe miratimin e organizimit të brendshëm.

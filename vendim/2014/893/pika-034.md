@@ -1,0 +1,1 @@
+34. Departamenti i Administratës Publike nuk shqyrton dhe nuk përgatit për Kryeministrin asnjë propozim, që nuk paraqitet në përputhje me pikën 33, të këtij vendimi, dhe që nuk shoqërohet me mendimin e Ministrisë së Financave për efektet financiare.

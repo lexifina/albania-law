@@ -1,0 +1,2 @@
+2. Dispozitat e këtij vendimi janë të detyrueshme për zbatim për institucionet e administratës shtetërore, sipas përcaktimit të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e administratës shtetërore”.
+Rekomandohen drejtuesit e institucioneve qendrore të pavarura dhe të sistemit gjyqësor e të prokurorisë të zbatojnë të njëjtat standarde gjatë hartimit të strukturave organizative për administratat e institucioneve të tyre.

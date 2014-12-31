@@ -1,0 +1,1 @@
+35. Departamenti i Administratës Publike mund të kërkojë sqarime shtesë nga institucioni propozues për ndryshimin e strukturës ose mund të bëjë komente për propozimin përpara së ta dërgojë për miratim të Kryeministri.

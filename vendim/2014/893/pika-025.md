@@ -1,0 +1,1 @@
+25. Funksioni i auditimit të brendshëm grupohet në një njësi organizative që, në rastin e ministrive, i raporton nga ana funksionale ministrit, ndërsa nga ana administrative varet nga sekretari i përgjithshëm dhe, në rastet e institucioneve të varësisë, i raporton titullarit të institucionit.

@@ -1,0 +1,1 @@
+12. Funksionet rregullatore dhe funksionet e ofrimit të shërbimeve, si rregull, kryhen nga degët e ministrive dhe/ose institucionet në varësi të tyre ose funksioni mund të vendoset në aparatin e ministrisë.

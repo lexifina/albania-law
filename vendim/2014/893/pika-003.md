@@ -1,0 +1,1 @@
+3. Institucionet e administratës shtetërore të organizohen mbështetur në parimin e hierarkisë, sipas të cilit vartësit, në çdo nivel, duhet të ndjekin zinxhirin vendimmarrës dhe të komunikojnë me eprorët e tyre vetëm nëpërmjet eprorit më të afërt në hierarki.

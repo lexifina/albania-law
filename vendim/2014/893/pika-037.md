@@ -1,0 +1,1 @@
+37. Departamenti i Administratës Publike i paraqet Kryeministrit projekturdhrin për miratimin e strukturës dhe të organikës së institucionit, të shoqëruar me relacionin përkatës, ku përcaktohen shkaqet dhe arsyet që kanë çuar në ndryshim dhe objektivat që parashikohen të arrihen.

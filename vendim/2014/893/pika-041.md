@@ -1,0 +1,1 @@
+41. Vendimi nr. 474, datë 16.6.2011, i Këshillit të Ministrave, “Për përcaktimin e standardeve e të procedurës që duhet të ndiqet gjatë hartimit dhe miratimit të strukturave organizative të institucioneve të administratës publike”, shfuqizohet.

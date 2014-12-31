@@ -1,0 +1,1 @@
+39. Menjëherë pas miratimit të urdhrit të Kryeministrit për miratimin apo ndryshimin e strukturës dhe organikës, institucioni, për të cilin është miratuar urdhri, dërgon një kopje të tij në Ministrinë e Financave.
