@@ -1,0 +1,1 @@
+6. Instituti i Sigurimeve Shoqërore dhe Shërbimi Social Shtetëror bashkëpunojnë për vlerësimin e gjendjes ekonomike të përfituesit të pensionit social. Drejtoritë rajonale të Shërbimit Social Shtetëror janë të detyruara që, përveç verifikimeve të veçanta gjatë vitit, brenda muajit janar të viti përkatës të verifikojnë të ardhurat e përfituesit.

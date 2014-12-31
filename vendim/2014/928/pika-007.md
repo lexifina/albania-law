@@ -1,0 +1,1 @@
+7. Efektet financiare që rrjedhin nga zbatimi i këtij vendimi llogariten në shumën 372 (treqind e shtatëdhjetë e dy) milionë lekë dhe parashikohen brenda buxhetit të Institutit të Sigurimeve Shoqërore për vitin 2015.
