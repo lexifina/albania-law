@@ -1,1 +1,0 @@
-3. Për vjeljen e tarifave për kryerjen e veprimeve e të shërbimeve administrative në gjykata, Ministrinë e Drejtësisë, prokurori dhe Zyrën e Regjistrimit të Pasurive të Paluajtshme ngarkohen administratat përkatëse të këtyre institucioneve, ndërsa për tarifën e shërbimit noterial, ngarkohet “Posta Shqiptare” sh.a.

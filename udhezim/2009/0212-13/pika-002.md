@@ -1,1 +1,0 @@
-2. Tarifat për veprime e shërbime që kryhen nga zyrat e regjistrimit të pasurive të paluajtshme, caktohen sipas vendimit të Këshillit të Ministrave nr.549, datë 26.08.1996 “Për caktimin e tarifave të shërbimit të zyrave të regjistrimit të pasurive të paluajtshme”, i ndryshuar”

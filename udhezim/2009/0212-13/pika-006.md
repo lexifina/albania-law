@@ -1,1 +1,0 @@
-6. Pullat vendosen në çdo kopje të dokumentit të lëshuar, për të gjitha dokumentet që, sipas ligjit, duhet të pajisen me pulla. Dokumentet janë të vlefshme kur pulla është e vulosur nga organi që kryen shërbimin. Për plotësimin e vlerës së pullës për aktet që lëshohen mund të përdoren një ose më shumë pulla, me kusht që ato të plotësojne vlerën e tarifës.

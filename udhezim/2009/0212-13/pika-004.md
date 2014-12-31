@@ -1,1 +1,0 @@
-4. Këto tarifa paguhen në momentin e kryerjes së veprimeve dhe bëhen me anën e pullës për tarifat fikse ose me mandatarkëtim për ato raste kur, kjo tarifë sipas shtojcës nr.1, bashkëlidhur, është shprehur në përqindje.
