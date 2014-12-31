@@ -1,1 +1,0 @@
-3. KKRT-ja njofton Drejtorinë e Përgjithshme të Tatimeve, kur subjektet nuk paguajnë tarifën vjetore të shërbimeve të transmetimeve radiotelevizive, kur nuk rinovojnë licencat, si dhe në rastet e identifikimit të transmetimeve të palicencuara. Të gjitha këto tarifa arkëtohen çdo 5 ditë në Buxhetin e Shtetit.
