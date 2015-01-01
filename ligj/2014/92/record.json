@@ -1,0 +1,29 @@
+{
+  "qbz_id": 10985,
+  "title": "PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "number": "92",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2014-07-24",
+  "published": "2014-08-13",
+  "in_force": "2015-01-01",
+  "in_force_basis": "\"hyn në fuqi më 1 janar 2015\" (art. 161; section 4 of chapter XI only: 15 days after publication in the Fletorja Zyrtare of 13.8.2014)",
+  "source": "https://qbz.gov.al/files/bff82a9e2dac0d5fd3a06e6834c4cfa5585916f3eeabe601dd2a201ddd7bf63d.docx",
+  "source_sha256": "bff82a9e2dac0d5fd3a06e6834c4cfa5585916f3eeabe601dd2a201ddd7bf63d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/10985",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2014/07/24/92",
+  "capture_mode": "as-enacted (QBZ base text, version 0)",
+  "rendering": "Rendered from the official Word file: automatic list numbers from its numbering definitions, tables as Markdown tables, superscript/subscript as <sup>/<sub>, footnotes as [^n] notes at the end, text-box text after the paragraph that anchors it; shapes without text are omitted.",
+  "render_stats": {
+    "tables": 0,
+    "numbered_paragraphs": 0,
+    "superscript_runs": 0,
+    "subscript_runs": 0,
+    "footnote_refs": 1,
+    "text_boxes": 0,
+    "shapes_without_text": 0,
+    "images": 0,
+    "symbols": 0
+  },
+  "checked_on": "2026-11-16"
+}
