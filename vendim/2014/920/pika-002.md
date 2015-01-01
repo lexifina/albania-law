@@ -1,0 +1,1 @@
+2. Vendimi nr.1067, datë 14.12.2013, i Këshillit të Ministrave, “Për miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2014”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.
