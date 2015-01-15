@@ -1,0 +1,4 @@
+# Neni 15
+Primi i vitit të parë të aktivitetit
+Primi i vitit të parë të aktivitetit për SHKK-në anëtare të skemës, vlerësohet me 0,3% të mesatares aritmetike të shumës së depozitave të sigurueshme të mbajtura në SHKK në çdo ditë pune të kësaj periudhe sipas aneksit 9 “Mënyra e përllogaritjes së primit të vitit të parë të aktivitetit” të këtij udhëzimi. Agjencia në bashkëpunim me SHKK-në dhe unionin vlerëson në vend depozitat e siguruara në subjekt duke verifikuar plotësimin e kushteve për përllogaritjen e primit, si dhe lëshon një raport verifikimi për këtë qëllim.
+2. Për periudhën e mbetur nga mbarimi i vitit të parë të aktivitetit deri në fund të vitit kalendarik, primi tremujor vijues vlerësohet proporcionalisht dhe paguhet në përputhje me aneksin 10 “Përllogaritja e primit të parë tremujor pas vitit të parë të aktivitetit” të këtij udhëzimi.

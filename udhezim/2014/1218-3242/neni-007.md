@@ -1,0 +1,12 @@
+# Neni 7
+Kërkesa për anëtarësimin në skemën e sigurimit të depozitave
+1. Subjektet, që kanë paraqitur kërkesë për licencim si shkak pranë Autoritetit Mbikëqyrës, drejtpërdrejt ose nëpërmjet Unionit, paraqesin njëkohësisht në Agjenci kërkesën për anëtarësimin në skemë, sipas aneksit 1 të këtij udhëzimi, si dhe planin e veprimeve për përmbushjen e kushteve, njëkohësisht me dorëzimin në Autoritetin Mbikëqyrës të kërkesës për licencë si SHKK.
+2. Unionet, e krijuara nga SHKK-të të anëtarësuara në skemë, njëkohësisht me paraqitjen e kërkesës për licencë si union në Autoritetin Mbikëqyrës, dorëzojnë në Agjenci kërkesën sipas aneksit 2 për përmbushjen e kushteve të përcaktuara në nenin 6 të këtij Udhëzimi, si dhe planin e veprimeve për përmbushjen e tyre, për aq sa Unioni do të kryejë veprimtari për sigurimin e depozitave në emër të SHKK-ve anëtare.
+3. Dokumentacioni i kërkuar në këtë nen duhet të jetë në gjuhën shqipe, në origjinal ose në kopje të noterizuar.
+4. Kur dokumentacioni i paraqitur nuk përputhet me kërkesat e këtij udhëzimi, si dhe kur nuk plotësohen kushtet të përcaktuara në nenin 6 të tij, Agjencia njofton me shkrim subjektin në lidhje me mangësitë, papajtueshmërinë apo për informacion shtesë, brenda dhjetë ditësh pune nga evidentimi i tyre.
+5. Agjencia kryen verifikimin në vend të plotësimit të kushteve nga subjekti, si dhe mund të kërkojë informacion shtesë.
+6. Mangësitë e gjetura dhe vërejtjet e bëra në lidhje me zbatimin e këtij udhëzimi, korrigjohen nga subjekti brenda një muaji nga dita e marrjes së njoftimit nga Agjencia. Në rast të plotësimit të kushteve, mangësive dhe vërejtjeve të bëra, Agjencia njofton SHKK-në dhe unionin për pranimin e kërkesës për shqyrtim dhe pagesën e kontributit fillestar.
+7. SHKK-ja brenda tre ditëve pune nga marrja e njoftimit bën pagesën e kontributit fillestar.
+8. Këshilli Drejtues i Agjencisë vendos për refuzimin ose dhënien e vërtetimit për plotësimin e kërkesave ligjore dhe nënligjore lidhur me sigurimin e depozitave pas arkëtimit të kontributit fillestar.
+9. Agjencia, jo më vonë se shtatë ditë kalendarike nga data e vendimit të Këshillit Drejtues të Agjencisë për dhënien e vërtetimit për plotësimin e kërkesave ligjore dhe nënligjore lidhur me sigurimin e depozitave, njofton subjektin dhe dërgon në Autoritetin Mbikëqyrës këtë vendim.
+10. Agjencia dhe Autoriteti Mbikëqyrës bashkëpunojnë gjatë licencimit dhe anëtarësimit të subjekteve në skemë.

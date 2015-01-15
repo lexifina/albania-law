@@ -1,0 +1,16 @@
+# Neni 6
+Kushtet për t’u pranuar në skemën e sigurimit të depozitave
+1. Për pranimin në skemë SHKK-të plotësojnë kushtet e mëposhtme:
+e) kushtin për krijimin dhe zotërimin e ligjshëm të zyrave për çdo SHKK, të cilat minimalisht të mundësojnë shërbimin e arkës dhe veprimet me klientët, duke garantuar sigurinë fizike të tyre;
+f) në kushtin e aftësimit profesional të personelit dhe organeve drejtuese lidhur me zbatimin e kuadrit ligjor dhe nënligjor për sigurimin e depozitave;
+g) kushtin për krijimin e sistemeve të administrimit dhe operacionale të cilat përfshijnë: mbajtjen e dosjeve për kontratat e depozitave dhe kredive, mandatet etj. të cilat shërbejnë si dokumente justifikuese për regjistrimet kontabël të SHKK-së.
+h) kushtin për mbajtjen e saktë të të dhënave për depozitat dhe depozituesit në format shkresor dhe elektronik me qëllim identifikimin e depozituesit me një person konkret dhe përcaktimin e saktë të shumës që SHKK-ja i detyrohet këtij depozituesi;
+i) kushtin teknik për krijimin e regjistrit elektronik të ruajtjes dhe përpunimit të të dhënave për depozituesit dhe depozitat në funksion të identifikimit unik dhe konkret të depozituesit në këtë regjistër, të vlerësimit të shumës së depozitës së siguruar, përllogaritjes të primit vjetor dhe vlerësimit të shumës së kompensimit, sipas kërkesave të përcaktuara në anekset 4 dhe 5 të këtij udhëzimi;
+j) kushtin e informimit të publikut për dhënien e informacionit të saktë dhe të plotë mbi skemën e sigurimit të depozitave sipas kërkesave të përcaktuara në aneksin 6 të këtij udhëzimi;
+k) kushtin e gjendjes financiare. Për plotësimin e këtij kushti, SHKK-të duhet të dëshmojnë se kanë gjendje financiare, e cila siguron vazhdimësinë e veprimtarisë gjatë vitit të parë të anëtarësimit të SHKK-së në skemë. Për SHKK-të që janë licencuar nga Autoriteti Mbikëqyrës përpara miratimit të këtij udhëzimi, vlerësimi i gjendjes financiare bëhet në bazë të treguesve të zbatueshëm nga Autoriteti Mbikëqyrës lidhur me nivelin e kapitalit, rezultatin financiar dhe nivelin e kredive me probleme. Për SHKK-të e reja, vlerësimi i gjendjes financiare do të bëhet në bazë të planit të veprimtarisë/biznesit, sipas aneksit 1, formularit 6 të këtij udhëzimi;
+l) kushtin e plotësimit të parimeve kryesore të drejtimit të përgjegjshëm, si për shembull: ndarjen e funksioneve dhe përgjegjësive, shmangien e konfliktit të interesit, funksionimin e një komiteti kontrolli efektiv etj.
+m) paguajnë kontributin fillestar;
+2. SHKK-të krijojnë sisteme elektronike, të cilat mundësojnë në çdo kohë ruajtjen dhe gjenerimin e të dhënave për depozitat, depozituesit dhe huat, sipas kërkesave të këtij udhëzimi. Përditësimi i të dhënave në sistemet elektronike kryhet brenda ditës pasardhëse të punës nga momenti i kryerjes së veprimit me klientin.
+3. Agjencia ka të drejtë të kërkojë në çdo moment nga SHKK-të anëtare të skemës, raportimin në formë elektronike të të dhënave mbi depozitat dhe depozituesit në përputhje me aneksin 4 dhe 5 të këtij udhëzimi.
+4. Unioni mund të mbështesë SHKK-në anëtare për qëllime të krijimit të sistemeve elektronike dhe të raportimit të të dhënave mbi depozitat dhe depozituesit në përputhje me kërkesat e këtij udhëzimi.
+5. SHKK-të e anëtarësuara në skemë, duhet të plotësojnë kushtet e parashikuara sipas këtij neni gjatë ushtrimit të veprimtarisë së tyre.
