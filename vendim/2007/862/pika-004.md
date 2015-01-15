@@ -1,3 +1,0 @@
-4. Kryeinspektori/inspektori i inspektoratit ndërtimor e urbanistik vendor, pas kontrollit në objekt, mban procesverbalin, ku pasqyrohen gjendja aktuale, mangësitë dhe detyrat për subjektin ndërtues, si dhe zbaton procedurat ligjore për shkeljet e vëna re, në përputhje me nenin 12 të ligjit nr.9780, datë 16.7.2007 “Për inspektimin e ndërtimit”.
-Inspektorati ndërtimor e urbanistik vendor, brenda 10 ditëve nga dita e njoftimit të subjektit ndërtues nxjerr vendimin përkatës, në përputhje me legjislacionin në fuqi.
-Kur gjatë ushtrimit të kontrollit në objekt kryeinspektori/inspektori i inspektoratit ndërtimor e urbanistik vendor vëren shkelje të dispozitave ligjore në fuqi, ai merr vendimin përkatës, pas kalimit të afatit 10-ditor, të parashikuar në legjislacionin në fuqi.
