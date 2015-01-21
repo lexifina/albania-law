@@ -1,0 +1,3 @@
+# Nënshkrimi
+KRYETARI I GJYKATËS KUSHTETUESE
+Bashkim Dedja
