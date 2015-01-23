@@ -1,0 +1,1 @@
+1. Ndryshimin, nga tokë bujqësore në tokë urbane, truall, të sipërfaqes prej 27.9 (njëzet e shtatë pikë nëntë) ha, në zonën kadastrale nr. 1101, Korçë, sipas të dhënave në listën 1, që i bashkëlidhet këtij vendimi.
