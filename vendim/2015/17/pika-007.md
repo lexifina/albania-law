@@ -1,0 +1,1 @@
+7. Për studentët që përfundojnë vitin e fundit të studimeve të ciklit të parë dhe kanë shlyer të gjitha detyrimet e parashikuara për programin përkatës të studimeve, Akademia e Arteve, Shkodër, të mundësojë diplomimin e tyre brenda vitit akademik 2014 - 2015.

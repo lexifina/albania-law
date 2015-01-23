@@ -1,0 +1,1 @@
+11. Stafi aktual, pa rekrutuar staf të ri të brendshëm apo të jashtëm, do të qëndrojë në detyrë deri në përfundim të veprimtarisë akademike. Stafi aktual, pas kësaj periudhe, të integrohet në universitetin “Luigj Gurakuqi”, Shkodër, sipas nevojave të këtij universiteti.

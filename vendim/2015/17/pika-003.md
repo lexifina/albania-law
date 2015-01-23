@@ -1,0 +1,1 @@
+3. Studentët që do të vijojnë studimet e tyre deri në përfundim të vitit akademik 2014-2015, pranë Akademisë së Arteve, Shkodër, transferohen në vitin akademik 2015 - 2016, në programe të njëjta ose të ngjashme, në Universitetin e Arteve, Tiranë, ose në universitetin “Luigj Gurakuqi”, Shkodër.

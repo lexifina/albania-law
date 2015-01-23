@@ -1,0 +1,1 @@
+10. Akademia e Arteve, Shkodër, të shlyejë të gjitha detyrimet e prapambetura me palët e treta, deri në përfundim të vitit akademik. Asaj i ndalohet prokurimi i mallrave dhe i shërbimeve për vijimin e veprimtarisë operacionale, nëse kontrata nuk është mbuluar 100% nga buxheti i vitit 2015.

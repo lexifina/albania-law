@@ -1,0 +1,1 @@
+2. Studentët e regjistruar në Akademinë e Arteve, Shkodër, kanë të drejtë të transferohen në Universitetin e Arteve, Tiranë, pas përfundimit të semestrit të parë ose në përfundim të vitit akademik 2014 - 2015, në programe të njëjta apo të ngjashme studimi, të ofruara nga institucioni i arsimit të lartë.

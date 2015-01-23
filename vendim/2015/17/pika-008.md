@@ -1,0 +1,1 @@
+8. Me mbylljen e veprimtarisë, Akademia e Arteve, Shkodër, të hartojë pasqyrat financiare, për vitin financiar 2015 dhe, pas konfirmimit të tyre në Degën e Thesarit, Shkodër, të dorëzojë të gjithë dokumentacionin administrativ dhe financiar në Arkivin e Shtetit. Një kopje e tyre duhet të dorëzohet në universitetin “Luigj Gurakuqi”, Shkodër.

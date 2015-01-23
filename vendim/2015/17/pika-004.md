@@ -1,0 +1,1 @@
+4. Akademia e Arteve, Shkodër, detyrohet që brenda afateve, sipas pikave 2 dhe 3, të këtij vendimi, të përgatisë dosjen për çdo student që do të kërkojë të transferohet, me të gjithë dokumentacionin e nevojshëm.
