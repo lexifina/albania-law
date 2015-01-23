@@ -1,0 +1,1 @@
+4. Ushtarakët aktivë, në momentin e daljes në rezervë apo lirim, për arsye shëndetësore, për shkak ristrukturimi apo për shkak të shkurtimeve në numrin e përgjithshëm të personelit të Forcave të Armatosura, përfitojnë falas një uniformë ceremoniale, të shoqëruar me shenjat dhe simbolet përkatëse.

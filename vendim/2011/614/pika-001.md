@@ -1,0 +1,2 @@
+1. Miratimin e kritereve e të normave të trajtimit me uniformë për ushtarakët aktivë (oficerë, nënoficerë, ushtarë profesionistë) të Forcave të Armatosura të Republikës së Shqipërisë dhe studentët e shkollave të larta ushtarake, brenda dhe jashtë vendit, sipas pasqyrave 1-6, që u bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
+Kandidatët (kursantët) për nënoficerë dhe ushtarë profesionistë trajtohen me normat e ushtarit profesionist.
