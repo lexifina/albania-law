@@ -1,0 +1,1 @@
+6. Rregullat e veçanta të përfitimit të pagesës dhe të zbatimit të skemës së kompensimit përcaktohen me udhëzim të përbashkët të ministrit të Financave, ministrit të Energjisë dhe Industrisë dhe ministrit të Mirëqenies Sociale dhe Rinisë.

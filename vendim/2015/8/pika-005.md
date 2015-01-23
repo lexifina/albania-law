@@ -1,0 +1,1 @@
+5. Masa e kompensimit, për çdo përfitues, është 648 (gjashtëqind e dyzet e tetë) lekë në muaj dhe efekti financiar të përballohet nga buxheti i Ministrisë së Mirëqenies Sociale dhe Rinisë, miratuar për ndihmën ekonomike.

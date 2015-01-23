@@ -1,0 +1,1 @@
+4. Përfituesi i kompensimit, në zbatim të pikës 3, të këtij vendimi, detyrohet ta kthejë përfitimin e padrejtë dhe përjashtohet, përgjithmonë, nga e drejta e përfitimit të kompensimit për energjinë elektrike.
