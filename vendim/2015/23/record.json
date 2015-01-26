@@ -1,0 +1,26 @@
+{
+  "qbz_id": 11601,
+  "title": "Për një ndryshim në vendimin nr. 500, datë 6.7.2010, të Këshillit të Ministrave, “Për emërimin e kryetarit dhe anëtarëve të Këshillit Drejtues të Autoritetit të Aviacionit Civil”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "23",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-01-14",
+  "published": "2015-01-26",
+  "in_force": "2015-01-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/74c6d09be66235c81ad43fd69c3fbad3d10620f759138d0c2dc0ad13c4cb8433.docx",
+  "source_sha256": "74c6d09be66235c81ad43fd69c3fbad3d10620f759138d0c2dc0ad13c4cb8433",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11601",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/01/14/23",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
