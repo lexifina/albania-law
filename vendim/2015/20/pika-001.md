@@ -1,0 +1,1 @@
+1. Miratimin e autorizimit të ndërtimit të centralit elektrik fotovoltaik, dhënë shoqërisë “Malësia Solar 1”, sh.p.k., sipas tekstit dhe koordinatave të zonave të përcaktuara në hartën përkatëse, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
