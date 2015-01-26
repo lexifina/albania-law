@@ -1,0 +1,1 @@
+8. Vendimi nr. 53, datë 21.1.2009, i Këshillit të Ministrave, “Për ngarkimin e Ministrisë së Brendshme për kryerjen e procedurave të prokurimit publik, në emër dhe për llogari të Kryeministrisë, ministrive dhe institucioneve të varësisë, për disa mallra e shërbime”, i ndryshuar, shfuqizohet.
