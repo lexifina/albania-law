@@ -1,1 +1,0 @@
-11. Leja e koncesionit hartohet në katër kopje, nga të cilat një kopje i dorëzohet zyrtarisht shoqërisë anonime së cilës i jepet leja e koncesionit dhe nga një kopje u dërgohet Këshillit të Ministrave, ministrisë përgjegjëse për hidrokarburet dhe Ministrisë së Financave.
