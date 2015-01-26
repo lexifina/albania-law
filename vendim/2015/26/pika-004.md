@@ -1,0 +1,1 @@
+4. Vlera totale e shpronësimit prej 6 313 446 (gjashtë milionë e treqind e trembëdhjetë mijë e katërqind e dyzet e gjashtë) lekësh, të përballohet nga buxheti i miratuar për vitin 2015, zëri “Detyrimet e prapambetura”.
