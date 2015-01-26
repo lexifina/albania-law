@@ -1,1 +1,0 @@
-6. Organi qendror blerës, në rast se autoritetet kontraktore kanë kërkesa, pasi është bërë publikimi i njoftimit të kontratës së prokurimit, verifikon arsyet e vonesës dhe vendos për shpalljen ose jo të procedurës së re të prokurimit për këto kërkesa.

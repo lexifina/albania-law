@@ -1,1 +1,0 @@
-5. Organi qendror blerës, në raste përjashtimore, mund të zhvillojë procedurë prokurimi edhe kur kërkohet nga një autoritet a një grup autoritetesh kontraktore, që nuk janë përcaktuar në këtë vendim, apo edhe për mallra a shërbime, që nuk janë përcaktuar në këtë vendim.
