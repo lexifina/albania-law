@@ -1,0 +1,29 @@
+{
+  "qbz_id": 54465,
+  "title": "Për përcaktimin e kritereve bazë të sektorëve që do të mbështeten dhe të masës së përfitimit nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2015",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "52",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-01-21",
+  "published": "2015-01-28",
+  "in_force": "2015-01-28",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a9e45ffa6a9d26339390a7468f82357acaeee5180145ed6d438820038c6a2cfc.docx",
+  "source_sha256": "a9e45ffa6a9d26339390a7468f82357acaeee5180145ed6d438820038c6a2cfc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54465",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/01/21/52",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    12686,
+    11966
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
