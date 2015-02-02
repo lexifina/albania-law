@@ -1,0 +1,26 @@
+{
+  "qbz_id": 11612,
+  "title": "Për disa ndryshime në dekretin nr. 8304,  datë 11.10.2013  “Për emërimin e Këshillit të Ministrave",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8911",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2015-01-27",
+  "published": "2015-02-02",
+  "in_force": "2015-02-02",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/4fc55da52bcf4dec4c56757d38431bbae817cf71623a72a78267eadbd99ca5ca.docx",
+  "source_sha256": "4fc55da52bcf4dec4c56757d38431bbae817cf71623a72a78267eadbd99ca5ca",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11612",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2015/01/27/8911",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
