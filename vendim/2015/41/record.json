@@ -1,0 +1,28 @@
+{
+  "qbz_id": 11624,
+  "title": "Për një ndryshim në vendimin nr. 378, datë 12.8.1999, të Këshillit të Ministrave, “Për kalimin e së drejtës së përfaqësuesit të pronarit për disa objekte, pronë publike, organeve të qeverisjes vendore”, të ndryshuar",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "41",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-01-21",
+  "published": "2015-02-02",
+  "in_force": "2015-02-02",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/f09836bf2d87fe5bd7e7f038506884f3ae24f32637085cd4a1f48e2e16834304.docx",
+  "source_sha256": "f09836bf2d87fe5bd7e7f038506884f3ae24f32637085cd4a1f48e2e16834304",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11624",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/01/21/41",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    12201
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
