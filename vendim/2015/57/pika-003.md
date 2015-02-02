@@ -1,0 +1,1 @@
+3. Ministria e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, Ministria e Energjisë dhe Industrisë dhe Ministria e Transportit dhe Infrastrukturës, brenda 1 (një) muaji nga dalja e këtij vendimi, duhet të marrin masa për sistemimin e institucioneve që aktualisht gjenden brenda godinës.

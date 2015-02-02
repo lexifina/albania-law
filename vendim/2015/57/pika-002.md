@@ -1,0 +1,1 @@
+2. Së bashku me objektin kalojnë në përgjegjësi administrimi edhe mjediset e tjera ndihmëse, trualli i ndërtesës dhe oborri i rrethuar, për t’u përdorur për mjedise pune për nevojat e OSHEE sh.a., të përcaktuara sipas planit të rilevimit që i bashkëlidhet këtij vendimi.

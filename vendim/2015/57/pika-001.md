@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi shoqërisë OSHEE sh.a., të objektit që ndodhet në zonën kadastrale 8250, me adresë bulevardi “Gjergj Fishta”, nr.10, Tiranë, me nr. pasurie 1/27, sipas planrilevimit bashkëlidhur këtij vendimi.
