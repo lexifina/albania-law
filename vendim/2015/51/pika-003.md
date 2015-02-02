@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Vllaznimi Deda Import-Eksport” sh.p.k., detyrohet të rehabilitojë sipërfaqen e marrë në përdorim, sipas planit të rehabilitimit mjedisor dhe, brenda 3 viteve të para të pyllëzojë, me fondet e veta, një sipërfaqe prej 4.1 ha fond pyjor në ngastrat e përcaktuara në marrëveshjen me Ministrinë e Mjedisit.

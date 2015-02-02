@@ -1,0 +1,1 @@
+6. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes pyjore, nga shoqëria “Vllaznimi Deda Import-Eksport” sh.p.k., kjo sipërfaqe të regjistrohet si pjesë e fondit pyjor dhe kullosor publik.

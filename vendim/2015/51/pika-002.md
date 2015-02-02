@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të pakësimit të volumit të lëndës drusore, në sipërfaqen e hequr, dhe të infrastrukturës së saj të paguhen nga subjekti “Vllaznimi Deda Import-Eksport” sh.p.k., bazuar në lidhjen nr. 4, të vendimit nr. 391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.

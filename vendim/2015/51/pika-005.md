@@ -1,0 +1,1 @@
+5. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Kukës të bëjë çregjistrimin e sipërfaqeve pyjore, të identifikuara sipas pikës 1, të këtij vendimi, nga kategoria “tokë e zënë pyjore” në kategorinë “tokë e zënë, objekt shfrytëzimi për aktivitet minerar”.
