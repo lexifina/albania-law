@@ -1,0 +1,1 @@
+1. Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave ngarkohet për realizimin e vrojtimeve statistikore në fushën e bujqësisë, të përcaktuara, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+2. Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave kryen mbledhjen e përpunimin e të dhënave të mbledhura nëpërmjet vrojtimeve statistikore dhe mbledhjen e çmimeve të produkteve bujqësore.

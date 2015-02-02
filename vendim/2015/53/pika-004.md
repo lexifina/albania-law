@@ -1,0 +1,1 @@
+4. INSTAT-i dhe Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave vendosin procedurat për transmetimin e të dhënave nëpërmjet një marrëveshjeje bashkëpunimi ndërmjet dy institucioneve.

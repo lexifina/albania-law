@@ -1,0 +1,1 @@
+5. Të dhënat për llogaritjen e treguesve statistikorë nga INSTAT-i (nga prodhimi i drithërave deri në prodhimin e rrushit), të dalin nga vrojtimi bujqësor i Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave.
