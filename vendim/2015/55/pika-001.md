@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i nënkalimit tek Ura e Dajlanit-Rruga e Plazhit dhe nënkalimit në Plepa Durrës”.
