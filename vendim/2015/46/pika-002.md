@@ -1,0 +1,1 @@
+2. Garancia qeveritare për kontratën e kredisë sipas pikës 1, të këtij vendimi, lëshohet me efekt veprimi nga data 15.1.2015 dhe është e vlefshme me afatet e maturimit të kontratës së kredisë së rinovuar, sipas tekstit bashkëlidhur vendimit.

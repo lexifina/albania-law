@@ -1,0 +1,1 @@
+1. Miratimin e garancisë qeveritare në favor të Raiffeisen Bank sh.a., Albania, në kuadër të kontratës ekzistuese të kredisë që do të rinovohet, ndërmjet kësaj banke dhe KESH sh.a., për shumën 33 000 000 (tridhjetë e tre milionë) euro, e cila maturohet më 15.1.2015.
