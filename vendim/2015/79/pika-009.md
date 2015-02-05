@@ -1,0 +1,2 @@
+9. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Durrës, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, në bashkëpunim me Drejtorinë Rajonale të Kulturës Kombëtare Durrës, të fillojnë procedurat për hedhjen e gjurmës mbi hartën treguese të regjistrimit, sipas planimetrisë së shpronësimit, të miratuar nga Drejtoria Rajonale e Kulturës Kombëtare Durrës dhe të bëjnë kalimin e
+pronësisë për pasuritë e shpronësuara.

@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 21 660 027 (njëzet e një milionë e gjashtëqind e gjashtëdhjetë mijë e njëzet e shtatë) lekësh, të përballohet nga buxheti i vitit 2015, miratuar për Ministrinë e Kulturës.
