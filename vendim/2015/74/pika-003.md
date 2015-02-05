@@ -1,0 +1,1 @@
+3. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Tiranë të bëjë ndryshimin e llojit të pasurive, në certifikatat e pasurive, sipas të dhënave për pasurinë e përcaktuar në pikën 1, të këtij vendimi.

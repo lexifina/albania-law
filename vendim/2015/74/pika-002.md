@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, Drejtoria e Administrimit dhe Mbrojtjes së Tokës, të qarkut Tiranë, të pasqyrojë, në dokumentacionin kadastral përkatës, ndryshimin e kategorisë së resursit, nga tokë bujqësore “arë” në tokë urbane, “truall”, për sipërfaqen prej 15 000 (pesëmbëdhjetë mijë) m2, në zonat kadastrale nr. 2119 dhe nr. 2105, Kashar, Tiranë.

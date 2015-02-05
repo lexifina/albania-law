@@ -1,0 +1,1 @@
+1. Ndryshimin, nga tokë bujqësore “arë” në tokë urbane, “truall”, të sipërfaqes prej 15 000 (pesëmbëdhjetë mijë) m2, në zonat kadastrale nr. 2119 dhe nr. 2105, Kashar, Tiranë, sipas të dhënave në tabelën nr. 1, që i bashkëlidhet këtij vendimi.
