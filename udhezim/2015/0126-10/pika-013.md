@@ -1,0 +1,1 @@
+13. Gjatë mbledhjeve mbahet procesverbal, i cili përmban arsyet e votimit por ose kundër, si dhe rezultatin përfundimtar të votimit. Procesverbali nënshkruhet nga personi që e mban atë dhe nga të gjithë anëtarët që kanë marrë pjesë në mbledhje.

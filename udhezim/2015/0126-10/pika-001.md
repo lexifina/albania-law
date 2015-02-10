@@ -1,0 +1,1 @@
+1. Subjekti ndaj të cilit vendoset masa administrative apo masa e pezullimit të lejes, ka të drejtën e ankimit pranë Ministrisë së Energjisë dhe Industrisë, brenda 30 ditëve kalendarike nga data e njoftimit të vendimit.

@@ -1,0 +1,1 @@
+14. Njësia e vlerësimit të ankimeve të masave administrative, kur gjykon se provat janë të pamjaftueshme për të marrë një vendim, mund të kërkojë prova shtesë nga subjekti ankimues, apo nga struktura përgjegjëse e cila ka vendosur masën administrative.
