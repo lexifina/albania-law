@@ -1,0 +1,1 @@
+3. Zyrtari certifikues nuk duhet të firmosë certifikata bosh ose të paplota, ose certifikata që kanë të bëjnë me kafshë ose produkte, të cilat ai nuk i ka inspektuar ose që kanë kaluar jashtë kontrollit të tij. Kur certifikata është nënshkruar në bazë të një certifikate tjetër apo një vërtetimi, zyrtari certifikues duhet ta posedojë këtë dokument përpara nënshkrimit.

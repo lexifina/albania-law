@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton rregullat që duhet të respektohen në lëshimin e certifikatave shëndetësore të kërkuara nga legjislacioni veterinar dhe ai i ushqimit, për të siguruar plotësisht integritetin e certifikimit dhe funksionimin normal të tregut të kafshëve të gjalla dhe produkteve me origjinë shtazore.
