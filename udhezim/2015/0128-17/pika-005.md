@@ -1,0 +1,1 @@
+5. Drejtoria e Politikave dhe Zhvillimit Minerar përgatit informacionin e nevojshëm mbi procedurën e ndjekur për trajtimin e kërkesës dhe e përcjellin praktikën te ministri/sekretari i përgjithshëm për miratim ose refuzim.
