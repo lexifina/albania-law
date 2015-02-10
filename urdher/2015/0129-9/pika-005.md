@@ -1,0 +1,1 @@
+5. Për autorizimet e lëshuara nga Sekretari i Përgjithshëm deri në miratimin e këtij urdhri, të cilat janë përdoruar ose përdoren për përfaqësim në proceset gjyqësore, efektet e urdhrit të ministrit të Financave nr. 35, datë 17.3.2009, shtrihen edhe pas miratimit të këtij urdhri, deri në përfundimin e procesit gjyqësor përkatës.

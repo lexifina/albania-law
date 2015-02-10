@@ -1,0 +1,1 @@
+1. Sekretari i Përgjithshëm i Ministrisë së Financave është autoriteti të cilit i delegohet kompetenca e përfaqësimit të institucionit, në lidhje me proceset gjyqësore në të gjitha shkallët e gjykimit dhe në Gjykatën Kushtetuese.
