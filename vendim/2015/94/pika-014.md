@@ -1,0 +1,1 @@
+14. Personi fizik e juridik, në rast të humbjes apo vjedhjes së armës, pjesëve të saj apo municionit, duhet të njoftojë, në afatin brenda 24 orëve nga momenti i konstatimit, në komisariatin e policisë ku ka ndodhur ngjarja dhe atje ku arma është e regjistruar.

@@ -1,0 +1,1 @@
+16. Komisioni vendor, në rastet e humbjes apo vjedhjes së armës, shqyrton rrethanat dhe merr vendim për revokimin e autorizimit për mbajtje të armës. Për pronësinë e armës veprohet sipas përcaktimeve të ligjit nr. 74/2014, “Për armët”, dhe këtij vendimi.

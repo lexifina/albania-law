@@ -1,0 +1,1 @@
+11. Armët, pjesët dhe municioni i tyre, të marra për qëllime studimore, nuk lejohet të përdoren jashtë këtij qëllimi. Në armët, objekt studimi shkencor, nuk lejohet të bëhen ndryshime, shënime, zëvendësime e modifikime të pjesëve të tyre.

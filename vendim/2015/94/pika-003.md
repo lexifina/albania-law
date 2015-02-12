@@ -1,0 +1,1 @@
+3. Trashëgimtari i vetëm dhe legjitim i armëve ose ai i përcaktuar si i tillë nga të gjithë bashkëtrashëgimtarët e tjerë të të vdekurit, mund të kërkojë t’i blejë ato, nëse është i autorizuar nga policia për blerje arme, ose të vendosë shitjen e tyre subjekteve (qofshin persona fizikë ose juridikë) të autorizuar për blerjen e armëve.

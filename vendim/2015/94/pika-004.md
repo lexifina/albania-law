@@ -1,0 +1,2 @@
+4. Nëse kalojnë 6 (gjashtë) muaj nga vdekja e personit, pronar të armës, dhe trashëgimtarët nuk kanë vendosur për destinacionin e armës, struktura përgjegjëse e Policisë së Shtetit i dërgon titullin ekzekutiv të revokimit të autorizimit të mbajtjes së armës strukturës së përmbarimit të ekzekutimit të vendimit, e cila realizon tjetërsimin e armës, nëpërmjet procedurave të ankandit publik.
+II. DISPONIMI PËR ARMËT PAS MBYLLJES SË AKTIVITETIT

@@ -1,0 +1,1 @@
+17. Në rast të humbjes apo vjedhjes së autorizimit për blerje/mbajtje armë zjarri apo autorizimit si koleksionist, dhe çdo autorizimi tjetër, qoftë ai i përkohshëm, personi fizik a juridik njofton komisariatin e policisë ku ka ndodhur ngjarja.

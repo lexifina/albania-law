@@ -1,0 +1,1 @@
+10. Armët dhe municionet e sekuestruara e të konfiskuara si provë materiale, pas mbarimit të gjykimit, me vendim të formës së prerë të gjykatës, mund të merren në administrim, për qëllime studimore, nga policia shkencore, pas miratimit nga drejtori i Përgjithshëm i Policisë së Shtetit.

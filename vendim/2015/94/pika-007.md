@@ -1,0 +1,1 @@
+7. Në bazë të vendimit të komisionit qendror për heqjen e licencës, komisariati i policisë ka të drejtë t’i japë subjektit një afat, deri në 6 (gjashtë) muaj, për tjetërsimin e armëve, sipas ligjit në fuqi për armët.

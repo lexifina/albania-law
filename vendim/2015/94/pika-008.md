@@ -1,0 +1,1 @@
+8. Me mbarimin e këtij afati, struktura përgjegjëse e Policisë së Shtetit i dërgon titullin ekzekutiv të revokimit të autorizimit të mbajtjes së armës strukturës së përmbarimit të ekzekutimit të vendimit, e cila realizon tjetërsimin e armës, nëpërmjet procedurave të ankandit publik.

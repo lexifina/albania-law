@@ -1,0 +1,1 @@
+1. Në rast vdekjeje të personit mbajtës ose koleksionues të çdo arme, pjesëtarët e familjes ose të afërmit njoftojnë njësinë e policisë vendore ku janë regjistruar armët, nëse dihet, ose njësinë e policisë më të afërt, brenda 10 (dhjetë) ditëve.

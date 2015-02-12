@@ -1,0 +1,1 @@
+5. Struktura e Policisë së Shtetit, me marrjen dijeni për mbylljen ligjore të aktivitetit, në prezencë të subjektit, bën menjëherë bllokimin e armëve të lejuara, së bashku me municionet e tyre, kundrejt procesverbalit përkatës, ku një kopje e tij i jepet të interesuarit.
