@@ -1,0 +1,1 @@
+10. Në rastet kur koleksionisti kërkon të blejë armë, më parë ai paraqet armën që kërkon të blejë, të dhënat për armën, subjektin ku do të blihet dhe arsyen e vlerat e armës. Blerja dhe shitja e armëve të koleksionit jashtë vendit bëhet me autorizim të policisë.

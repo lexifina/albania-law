@@ -1,0 +1,1 @@
+5. Personi fizik dhe juridik, bashkë me kërkesën dhe dokumentacionin që paraqet në komision, për të marrë autorizimin si koleksionist, ose person i autorizuar për administrimin e armëve në muze, sjell edhe listën me armët që zotëron.

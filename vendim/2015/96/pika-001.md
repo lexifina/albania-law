@@ -1,0 +1,1 @@
+1. Në strukturën përgjegjëse të policisë, armët e koleksionit të kategorive “A”, “B”, “C” e “D”, që plotësojnë kriteret për t’u quajtur armë zjarri, regjistrohen njëlloj si armët e tjera, me të dhënat e numrit të serisë, tipit, kalibrit dhe fabrikën e prodhimit.

@@ -1,0 +1,1 @@
+7. Komisioni, para se të pajisë me autorizim për koleksionim armësh subjektin fizik a juridik, për armët e paraqitura, ushtron kontroll për saktësinë e të dhënave dhe, më pas, lëshon autorizimin për koleksionist armësh, ose si person i autorizuar për administrimin e armëve në muze.

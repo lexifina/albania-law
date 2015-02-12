@@ -1,0 +1,1 @@
+6. Lista e armëve të jetë e ndarë në armë që janë të paaftësuara dhe armë që nuk janë paaftësuar. Për armët që nuk janë paaftësuar jepen të dhënat e armëve, ku përshkruhet tipi, kalibri, modeli dhe numri i serisë së armës.
