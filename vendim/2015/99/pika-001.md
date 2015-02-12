@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe të Largimit e Përpunimit të Ujërave të Ndotura, për vitin 2015, për shumën 39 043 500 (tridhjetë e nëntë milionë e dyzet e tre mijë e pesëqind) lekë, sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi.
