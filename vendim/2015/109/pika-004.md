@@ -1,0 +1,2 @@
+4. Koordinatori kombëtar emërohet me urdhër të Kryeministrit, me propozim të ministrit përgjegjës për mjedisin, për një periudhë prej një muaji, ndërsa koordinatorët rajonalë emërohen nga koordinatori kombëtar, me propozim të ministrit përgjegjës për mjedisin, për të njëjtën periudhë.
+Paga e koordinatorit kombëtar barazohet me pagën e kategorisë II-b, ndërsa e ajo e koordinatorëve rajonalë barazohet me pagën e kategorisë III-b, në institucionet qendrore.

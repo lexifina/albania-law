@@ -1,0 +1,1 @@
+6. Ngarkohet Ministria e Mirëqenies Sociale dhe Rinisë për identifikimin e burimeve njerëzore të nevojshme për realizimin e luftimit mekanik të proçesionares. Punonjësit që do të kryejnë këtë aktivitet do të trajtohen me pagën prej 39 000 (tridhjetë e nëntë mijë) lekë në muaj, për periudhën e kryerjes së këtij procesi.

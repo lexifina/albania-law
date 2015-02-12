@@ -1,0 +1,1 @@
+5. Ngarkohet ministri përgjegjës për mjedisin për miratimin e manualit për procedurën e luftimit, supervizimit, rekrutimit, trajnimit të të punësuarve, detyrimet institucionale dhe çdo element tjetër të nevojshëm për realizimin e luftimit mekanik të proçesionares.

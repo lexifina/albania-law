@@ -1,0 +1,1 @@
+1. Përdorimin e fondit prej 250 000 000 (dyqind e pesëdhjetë milionë) lekësh, nga Agjencia Kombëtare e Mjedisit, për luftimin mekanik të proçesionares së pishës së zezë në shkallë vendi, nga zëri “shpenzime kapitale”. Përdorimi i fondeve do të bëhet sipas aneksit nr.1, bashkëlidhur këtij vendimi.
