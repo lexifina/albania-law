@@ -1,0 +1,1 @@
+2. Drejtoria që mbulon peshkimin grumbullon, regjistron, verifikon kërkesat e ardhura për zhvillim aktiviteti të peshkimit dhe zonave ujore. Zonat ujore, pasi seleksionohen dhe kategorizohen, renditen në listën për shpallje për konkurrim publik.
