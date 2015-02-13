@@ -1,0 +1,4 @@
+Përfitojnë kompensim për efekt të heqjes së fashës së konsumit të energjisë elektrike deri në 300 KwH në muaj: kategoritë e përcaktuara në pikën 1, germat “a”, “b”, “c”, “ç”, “d”, “dh”, të vendimit nr. 8, datë 14.1.2015 “Për mbrojtjen e shtresave në nevojë, për efekt të heqjes së fashës së konsumit të energjisë elektrike deri në 300 KwH në muaj”.
+Fatura e energjisë elektrike për përfituesit e këtij kompensimi do të jetë e njëjtë me faturën e konsumatorëve që nuk e përfitojnë këtë kompensim dhe vlera e saj do të shprehet me çmimin e ri të energjisë elektrike.
+Kompensimi për të përballuar rritjen e çmimit të energjisë elektrike, si rezultat i heqjes së fashës deri në 300 Kwh bëhet vetëm për një kontratë të energjisë elektrike dhe vetëm për një prej kategorive përfituese të përcaktuara në pikën 1 të vendimit.
+I. Familjet, të cilat trajtohen me ndihmë ekonomike, familjet, që kanë në përbërje anëtarë me aftësi të kufizuar, të verbër dhe paraplegjikët e tetraplegjikët.

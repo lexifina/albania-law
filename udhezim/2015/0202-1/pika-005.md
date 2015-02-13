@@ -1,0 +1,1 @@
+5. Zyra e Financës e Njësisë së Qeverisjes Vendore e pasqyron pagesën e kompensimit për të përballuar rritjen e çmimit të energjisë elektrike në një kolonë të veçantë krahas asaj të ndihmës ekonomike. Në rastet kur kompensimin e përfiton direkt personi me aftësi të kufizuar, pagesa pasqyrohet në një kolonë të veçantë në pagesën e kësaj kategorie.

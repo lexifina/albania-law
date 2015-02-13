@@ -1,0 +1,1 @@
+6. Zyra e Financës e Njësisë së Qeverisjes Vendore ku po pilotohet skema e re e Ndihmës Ekonomike e pasqyron pagesën e kompensimit për të përballuar rritjen e çmimit të energjisë elektrike në një bordero të veçantë. Në rastet kur kompensimin e përfiton direkt personi me aftësi të kufizuar, pagesa pasqyrohet në një kolonë të veçantë në pagesën e kësaj kategorie.
