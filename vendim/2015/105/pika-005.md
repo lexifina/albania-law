@@ -1,0 +1,1 @@
+5. Shoqëria TAP-AG, pas përfundimit të punimeve për ndërtimin e rrjetit rrugor, është e detyruar të realizojë rehabilitimin mjedisor të territorit në ato pjesë të parcelave që janë ndikuar nga ndërtimi i rrjetit të rrugëve të kalimit (ndihmëse) për Projektin TAP, por që nuk do të përfshihen si pjesë e këtij rrjeti rrugor.

@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, drejtoritë e administrimit dhe mbrojtjes së tokës të qarqeve Korçë, Berat dhe Fier të pasqyrojnë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit nga tokë bujqësore në tokë urbane (truall) për sipërfaqen prej 153 566 ha, sipas lidhjes 1, bashkëlidhur këtij vendimi.

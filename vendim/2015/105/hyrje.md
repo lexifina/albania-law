@@ -1,0 +1,5 @@
+VENDIM
+Nr. 105, datë 4.2.2015
+PËR MIRATIMIN E NDRYSHIMIT TË STATUSIT, NGA TOKË BUJQËSORE NË TOKË TRUALL PËR NDËRTIM, PËR PARCELAT QË DO TË NDIKOHEN NGA NDËRTIMI PREJ SHOQËRISË TAP AG TË RRUGËVE TË KALIMIT (NDIHMËSE) TË PROJEKTIT TAP
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 11/1, të ligjit nr. 8752, datë 26.3.2001, “Për krijimin dhe funksionimin e strukturave për administrimin dhe mbrojtjen e tokës”, të ndryshuar, të ligjit nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, si dhe të ligjit nr. 116/2013, “Për ratifikimin e marrëveshjes me qeverinë e vendit pritës, ndërmjet Republikës së Shqipërisë, duke vepruar nëpërmjet Këshillit të Ministrave, dhe Trans Adriatik Pipeline AG, lidhur me projektin e Gazsjellësit Trans Adriatik (Projekti TAP), dhe të marrëveshjes, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave dhe Trans Adriatik Pipeline AG, në lidhje me projektin e Gazsjellësit Trans Adriatik (Projekti TAP)”, me propozimin e ministrit të Energjisë dhe Industrisë, Këshilli i Ministrave
+VENDOSI:
