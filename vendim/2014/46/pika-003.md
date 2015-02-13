@@ -1,1 +1,0 @@
-3. Përveç sa parashikohet në pikën 2 të këtij kreu, ISHMPU-ja është përgjegjëse për çdo funksion apo kompetencë tjetër të përcaktuar nga legjislacioni në fuqi për inspektoratin shtetëror që mbulon fushën e mjedisit.

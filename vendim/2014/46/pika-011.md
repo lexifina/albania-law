@@ -1,1 +1,0 @@
-11. Degët rajonale, që kanë në territorin e tyre pika të kalimit të kufirit, bashkëpunojnë me organet doganore dhe organet e tjera përkatëse për parandalimin e dëmtimit të cilësisë së mjedisit apo të përbërësve të tij të veçantë.

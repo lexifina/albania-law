@@ -1,1 +1,0 @@
-9. Komisioni i ankimit të ISHMPU-së ushtron funksionet në përputhje me afatet dhe procedurat e ankimeve të parashikuara në ligjin nr. 10433, datë 16.6.2011 “Për inspektimin në Republikën e Shqipërisë”, të ndryshuar, Kodin e Procedurave Administrative dhe ligjin nr. 10279, datë 20.5.2010 “Për kundërvajtjet administrative”.

@@ -1,1 +1,0 @@
-10. Degët rajonale të ISHMPU-së ushtrojnë veprimtarinë e tyre në territorin e qarkut përkatës dhe janë përgjegjëse për inspektimin në qarkun përkatës. Me urdhër të kryeinspektorit, inspektorët e një dege rajonale mund të ushtrojnë veprimtarinë e tyre edhe në territorin e një qarku tjetër, në bashkëpunim me degën rajonale përkatëse.
