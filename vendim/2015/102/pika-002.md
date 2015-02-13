@@ -1,0 +1,1 @@
+2. AKZM-ja ka për qëllim ruajtjen dhe kujdesin ndaj natyrës e biodiversitetit, nëpërmjet menaxhimit të rrjetit të zonave të mbrojtura me interes kombëtar e ndërkombëtar, mbledhjes dhe shpërndarjes së informacionit, edukimit mjedisor dhe ndërgjegjësimit të publikut për zonat e mbrojtura dhe mbështetjes së aktiviteteve të qëndrueshme ekonomike brenda këtyre zonave.
