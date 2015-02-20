@@ -1,1 +1,0 @@
-1. Dhënien në përdorim Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës të disa mjediseve të ndërtesës (godinës) “Ish-INIMA”, kati përdhe, në administrim të Këshillit të Ministrave, sipas vendndodhjes së përcaktuar në planimetrinë, që i bashkëlidhet këtij vendimi.
