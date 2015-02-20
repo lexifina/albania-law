@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “tokë bujqësore”, “kultura bujqësore”, “drufrutorë”, “truall” dhe “banesë”, prej 45 415 312.62 (dyzet e pesë milionë e katërqind e pesëmbëdhjetë mijë e treqind e dymbëdhjetë pikë gjashtëdhjetë e dy) lekësh të përballohet nga buxheti i miratuar për vitin 2014, zëri “Shpronësimet”, planifikuar për Autoritetin Rrugor Shqiptar.

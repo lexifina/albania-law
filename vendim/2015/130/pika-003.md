@@ -1,0 +1,5 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “tokë bujqësore”, “kultura bujqësore”, “drufrutorë”, “truall” dhe “banesë” me vlerë 45 415 312.62 (dyzet e pesë milionë e katërqind e pesëmbëdhjetë mijë e treqind e dymbëdhjetë pikë gjashtëdhjetë e dy) lekë, nga të cilat:
+a) “tokë bujqësore” dhe “truall”, me sipërfaqe 64 600 (gjashtëdhjetë e katër mijë e gjashtëqind) m2, me vlerë 27 271 572.42 (njëzet e shtatë milionë e dyqind e shtatëdhjetë e një mijë e pesëqind e shtatëdhjetë e dy pikë dyzet e dy) lekë;
+b) “drufrutorë”, me vlerë 9 499 456 (nëntë milionë e katërqind e nëntëdhjetë e nëntë mijë e katërqind e pesëdhjetë e gjashtë) lekë;
+c) “kultura bujqësore”, me vlerë 132 936.2 (njëqind e tridhjetë e dy mijë e nëntëqind e tridhjetë e gjashtë pikë dy) lekë;
+ç) “banesë”, me sip. 250 m2, me vlerë 8 511 348 (tetë milionë e pesëqind e njëmbëdhjetë mijë e treqind e dyzet e tetë) lekë.
