@@ -1,0 +1,1 @@
+10. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyrat vendore të regjistrimit të pasurive të paluajtshme Fier, Tepelenë, të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së trupit të rrugës mbi hartat kadastrale, si dhe kalimi i pronësisë për pasuritë e shpronësuara.
