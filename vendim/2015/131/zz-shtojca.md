@@ -1,0 +1,691 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+Autoriteti Rrugor Shqiptar
+Sektori i shpronësimeve
+LISTA E PASURIVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR ”TIRANË- ELBASAN” (LOTI I + LOTI III) KULTURAT BUJQËSORE DHE DRUFRUTORE (SHTESAT)
+Nr. i
+pasurisë
+Z.K.
+Sip.
+(m2)
+Kultura bujqësore,
+vlera lekë
+Kultura drufrutore,
+vlera lekë
+Totali lekë
+Shënime
+Nr.
+Emër,atësia, mbiemër
+Fshtati Mjull Bathore, Komuna Farkë
+1
+Bilal Begu
+255/15
+2704
+825
+66400
+66400
+Konfirmim ZVRPP
+2
+Latif Begu
+242/21
+2704
+1430
+138200
+138200
+Konfirmim ZVRPP
+Fshtati Lundër, komuna Farkë
+3
+Qazim Bunaca
+575/2
+2704
+1247
+192293
+192293
+Konfirmim ZVRPP
+4
+Qazim Bunaca
+575/22
+2704
+755
+140870
+140870
+Konfirmim ZVRPP
+5
+Shyqyri Bernaca
+575/12
+2704
+213
+73860
+73860
+Konfirmim ZVRPP
+6
+Gezim Grori
+578/7
+2704
+140
+22110
+22110
+Konfirmim ZVRPP
+7
+Shyqyri Bernaca
+578/14
+2704
+1631
+563150
+563150
+Konfirmim ZVRPP
+8
+Lutfi Bernaca
+578/12
+2704
+755
+233500
+233500
+Konfirmim ZVRPP
+9
+Bedri Bernaca
+578/11
+2704
+1357
+477210
+477210
+Konfirmim ZVRPP
+10
+Durim Bernaca
+578/10
+2704
+825
+288070
+288070
+Konfirmim ZVRPP
+11
+Hamit Bernaca
+578/5
+2704
+2169
+404850
+404850
+Konfirmim ZVRPP
+12
+Bajram Bernaca
+578/1
+2704
+571
+200120
+200120
+Konfirmim ZVRPP
+13
+Ramazan Bernaca
+575/1/1
+2704
+194
+30770
+30770
+Konfirmim ZVRPP
+14
+Bajram Bernaca
+575/3/1
+2704
+2502
+365560
+365560
+Konfirmim ZVRPP
+15
+Bajram Bunaca
+575/4
+2704
+1165
+113070
+113070
+Konfirmim ZVRPP
+16
+Sefer Bernaca
+575/21
+2704
+564
+53960
+53960
+Konfirmim ZVRPP
+17
+Bashkim Bernaca
+575/19
+2704
+1400
+134370
+134370
+Konfirmim ZVRPP
+18
+Shpetim Bernaca
+575/17
+2704
+919
+85540
+85540
+Konfirmim ZVRPP
+Fshati Mullet, komuna Petrelë
+19
+Ismail Çeliku
+22/10
+2735
+468
+123460
+123460
+Konfirmim ZVRPP
+20
+Petrit Burnaca
+22/12
+2735
+2964
+185900
+185900
+Konfirmim ZVRPP
+21
+Syrja Dervishi
+127/5
+2735
+4266
+644965
+644965
+Konfirmim ZVRPP
+22
+Syrja Dervishi
+125/15
+2735
+2074
+443310
+443310
+Konfirmim ZVRPP
+23
+Selman Dervishi
+125/13
+2735
+484
+174160
+174160
+Konfirmim ZVRPP
+24
+Selman Dervishi
+127/4
+2735
+4710
+960910
+960910
+Konfirmim ZVRPP
+Fshati Dobresh, komuna Berzhitë
+25
+Bajram Mali
+426/18
+1498
+1514
+201095
+201095
+Konfirmim ZVRPP
+Fshati Berzhitë, Komuna Berzhitë
+26
+Rukije Stafa
+126/103
+1170
+597
+164950
+164950
+Konfirmim ZVRPP
+27
+Rukije Stafa
+223/27
+1170
+235
+810040
+810040
+Konfirmim ZVRPP
+28
+Agim Gjuzi
+222/37
+1170
+1050
+179070
+179070
+Konfirmim ZVRPP
+29
+Skënder Skalaj
+222/38
+1170
+347
+82450
+82450
+Konfirmim ZVRPP
+30
+Ramzan Gjuzi
+126/109
+1170
+710
+211050
+211050
+Konfirmim ZVRPP
+31
+Haxhi Sallaku
+222/49
+1170
+894
+195440
+195440
+Konfirmim ZVRPP
+32
+Festim Stafa
+126/132
+1170
+271
+70080
+70080
+Konfirmim ZVRPP
+33
+Ilir Hoxha
+222/40
+1170
+396
+288500
+288500
+Konfirmim ZVRPP
+34
+Murat Gjuzi
+222/36
+1170
+1442
+83300
+83300
+Konfirmim ZVRPP
+35
+Selim Basha
+222/57
+1170
+391
+105300
+105300
+Konfirmim ZVRPP
+36
+Sabri Tarja
+42/1
+1170
+1156
+257350
+257350
+Konfirmim ZVRPP
+37
+Xhemal Sallaku
+222/27
+1170
+777
+273825
+273825
+Konfirmim ZVRPP
+Fshati Dobresh, komuna Berzhitë
+38
+Bajram Mali
+426/18
+1498
+1514
+479417
+479417
+Konfirmim ZVRPP
+39
+Haxhi Sallaku
+436/13
+1498
+122
+84050
+84050
+Konfirmim ZVRPP
+Fshati Ibë, komuna Berzhitë
+40
+Edmond Sejdarasi
+44/31
+1977
+928
+66900
+66900
+Konfirmim ZVRPP
+41
+Ramazan Proga
+44/64
+1977
+2656
+198950
+198950
+Konfirmim ZVRPP
+42
+Petrit Çoku
+301/13
+1977
+288
+73650
+73650
+Konfirmim ZVRPP
+43
+Petrit Çoku
+300
+1977
+650
+99000
+99000
+Konfirmim ZVRPP
+44
+Emin Kukli
+120/1
+1977
+700
+63050
+63050
+Konfirmim ZVRPP
+45
+Emin Kukli
+122/1
+1977
+1650
+89200
+89200
+Konfirmim ZVRPP
+46
+Genc Drita
+44/13
+1977
+2338
+421800
+421800
+Konfirmim ZVRPP
+47
+Petrit Çoku
+30
+1977
+518
+54390
+54390
+Konfirmim ZVRPP
+48
+Besim Çoku
+47/4
+1977
+400
+154800
+154800
+Konfirmim ZVRPP
+Fshati Mushqeta, komuna Krabë
+49
+Xhemal Lika
+14/1
+2752
+1218
+367000
+367000
+Konfirmim ZVRPP
+50
+Maliq Karafili
+4/2/11,
+2752
+3500
+345381
+345381
+Konfirmim ZVRPP
+Fshati Shëngjin, komuna Gracen
+51
+Myslym Bunga
+382
+3346
+2100
+75500
+75500
+Konfirmim ZVRPP
+52
+Sherif Hasa
+382/1
+3346
+822
+16080
+16080
+Konfirmim ZVRPP
+53
+Aqif Lleshi
+370
+3346
+1370
+26400
+26400
+Konfirmim ZVRPP
+54
+Ramazan Haka
+373/1
+3346
+713
+126750
+126750
+Konfirmim ZVRPP
+Fshati Shtëmaj, komuna Bradashesh
+55
+Arti Allhasa
+111/21
+3419
+645
+208780
+208780
+Konfirmim ZVRPP
+56
+Muhamet Selim Myzyri
+125/2
+3419
+411
+84000
+84000
+Konfirmim ZVRPP
+Fshati Reçan, komuna Bradashesh
+57
+Riza Sharra
+163/2/1
+3161
+2055
+476220
+476220
+Konfirmim ZVRPP
+58
+Aishe Gava
+78/1
+3161
+300
+83100
+83100
+Konfirmim ZVRPP
+59
+RizaVezeli
+80/1
+3161
+660
+541800
+541800
+Konfirmim ZVRPP
+Fshati Shijon, komuna Bradashesh
+60
+Dhimiter Gega
+38/10
+3371
+1511
+47000
+47000
+Konfirmim ZVRPP
+61
+Peter Tereziu
+11/33
+3371
+755
+47600
+47600
+Konfirmim ZVRPP
+62
+Thoma Toli
+11/40
+3371
+599
+54600
+54600
+Konfirmim ZVRPP
+63
+Jani Doka
+9/7
+3371
+1176
+54500
+54500
+Konfirmim ZVRPP
+64
+Llambi Doka
+9/12/1
+3371
+288
+101250
+101250
+Konfirmim ZVRPP
+65
+Kol Gega
+38/6
+3371
+1227
+105000
+105000
+Konfirmim ZVRPP
+66
+Marie Gega
+17/8
+3371
+1003
+73500
+73500
+Konfirmim ZVRPP
+67
+B/P Ranxha
+11/17
+3371
+531
+55200
+55200
+Konfirmim ZVRPP
+68
+Ferdinant Preni
+36/1
+3371
+701
+42845
+42845
+Konfirmim ZVRPP
+69
+Ilija Preni
+36/11
+3371
+765
+60120
+60120
+Konfirmim ZVRPP
+70
+Petraq Preni
+11/35
+3371
+559
+130320
+130320
+Konfirmim ZVRPP
+71
+Ligor Ranxha
+11/18
+3371
+353
+137800
+137800
+Konfirmim ZVRPP
+72
+Kristaq Vladimir Toli
+5/6
+3371
+327
+90000
+90000
+Konfirmim ZVRPP
+73
+Aroland Terziu
+5/12
+3371
+230
+40000
+40000
+Konfirmim ZVRPP
+74
+Dritan Preni
+16/2
+3371
+1115
+352900
+352900
+Konfirmim ZVRPP
+75
+Filip Gjika
+11/23
+3371
+561
+56400
+56400
+Konfirmim ZVRPP
+76
+Grigor Gega
+16/4
+3371
+244
+69800
+69800
+Konfirmim ZVRPP
+77
+Kostandin Preni
+9/14
+3371
+654
+71920
+71920
+Konfirmim ZVRPP
+78
+Bardhyl Terziu
+11/43
+3371
+379
+22000
+22000
+Konfirmim ZVRPP
+79
+Haxhi Barolli
+17/7
+3371
+451
+40000
+40000
+Konfirmim ZVRPP
+80
+Lena Gega
+11/21.
+3371
+700
+44000
+44000
+Konfirmim ZVRPP
+81
+Dhespina Ranxha
+11/9.
+3371
+430
+7740
+7740
+Konfirmim ZVRPP
+82
+Vasil Gega
+17/9.
+3371
+742
+206000
+101600
+307600
+Konfirmim ZVRPP
+315130
+14872241
+15187371
