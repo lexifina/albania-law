@@ -1,0 +1,1 @@
+22. Impiantet e trajtimit të ujërave të ndotura, me kapacitet trajtimi nën 300 kg. BOD5 në ditë, që i korrespondojnë 5000 p.e., të cilët janë projektuar kryesisht për trajtimin e ujërave të ndotura shtëpiake, përjashtohen nga zbatimi i dispozitave të parashikuara në pikën 8, shkronja “a”, dhe pikën 9, të këtij vendimi.

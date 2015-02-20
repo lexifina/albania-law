@@ -1,0 +1,1 @@
+18. Ministri përgjegjës për mjedisin dhe ministri përgjegjës për bujqësinë, me urdhër të përbashkët, miratojnë formatin që do të përdoret për përgatitjen e raportit dhe informacionin që do të përshihet në të.

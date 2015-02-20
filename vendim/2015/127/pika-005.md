@@ -1,0 +1,1 @@
+5. Llumrat nuk duhet të përdoren në tokat ku përqendrimi i një apo më shumë metaleve të rënda i kapërcen vlerat kufi, të përcaktuara në aneksin IA, ose kur përdorimi i llumrave mund të sjellë kapërcimin e këtyre vlerave kufi.

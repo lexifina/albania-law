@@ -1,0 +1,1 @@
+20. Agjencia Kombëtare e Mjedisit, agjencitë rajonale të mjedisit, Inspektorati Shtetëror i Mjedisit, Pyjeve dhe Ujërave, Inspektorati Shtetëror për Mbrojtjen e Tokës dhe Qendra e Transferimit të Teknologjive Bujqësore, si dhe institucionet e tjera përkatëse, u sigurojnë ministrive informacionin e duhur për përgatitjen e raportit të sipërpërmendur.

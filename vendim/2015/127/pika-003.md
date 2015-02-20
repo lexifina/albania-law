@@ -1,0 +1,1 @@
+3. Përveç sa parashikohet në ligjin nr.10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar, llumrat mund të përdoren në bujqësi vetëm në qoftë se janë në përputhje me kërkesat e këtij vendimi.

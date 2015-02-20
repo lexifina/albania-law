@@ -1,0 +1,1 @@
+23. Mospërmbushja e detyrimeve të përcaktuara në këtë vendim, për përdorimin e llumrave të ujërave të ndotura në bujqësi, ndëshkohet sipas pikës 32, të nenit 62, të ligjit nr.10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar.

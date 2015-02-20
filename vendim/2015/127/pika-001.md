@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të rregullojë përdorimin korrekt në bujqësi të llumrave të ujërave të ndotura, duke nxitur ato mënyra që parandalojnë efektet e dëmshme në tokë, bimësi, kafshë dhe tek njerëzit.

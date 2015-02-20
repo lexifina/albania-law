@@ -1,0 +1,1 @@
+4. Vlerat kufi të përqendrimit të metaleve të rënda në tokën ku janë përdorur llumrat, vlerat kufi të përqendrimit të metaleve të rënda në llumra dhe vlerat kufi për sasinë e metaleve të rënda që mund të futen çdo vit në tokën e parashikuar për bujqësi përcaktohen në anekset IA, IB dhe IC, që i bashkëngjiten këtij vendimi dhe janë pjesë përbërëse e tij.

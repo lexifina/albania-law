@@ -1,0 +1,3 @@
+6. Për qëllime të pikës 5, të këtij vendimi:
+a) sasia maksimale e llumrave që mund të përdoret në tokë, e shprehur në ton, lëndë e thatë, për hektar, në vit, do të përcaktohet nga Qendra e Transferimit të Teknologjive Bujqësore (QTTB) pas konsultimeve të detyrueshme me Inspektoratin Shtetëror të Mbrojtjes së Tokës, rast pas rasti, duke pasur parasysh pozicionin gjeografik dhe karakteristikat e tokës, bazuar në rezultatet e analizave të tokës për metalet e rënda, që do të kryhen sipas kërkesave të aneksit IIB, që i bashkëngjitet dhe është pjesë përbërëse e këtij vendimi;
+b) vlerat kufi, të përcaktuara për përqendrimin e metaleve të rënda në llumra, duhet të jenë në përputhje me vlerat e aneksit IA, që i bashkëngjitet dhe është pjesë përbërëse e këtij vendimi.
