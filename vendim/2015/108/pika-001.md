@@ -1,0 +1,1 @@
+1. Komisioni Qendror i Zgjedhjeve, në buxhetin e miratuar për vitin 2015, t’i shtohet fondi prej 57 937 000 (pesëdhjetë e shtatë milionë e nëntëqind e tridhjetë e shtatë mijë) lekësh, për mbulimin e shpenzimeve të rikonstruksionit të godinës së re të KQZ-së.
