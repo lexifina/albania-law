@@ -1,0 +1,1 @@
+5. Ngarkohet ministri i Shtetit për Inovacionin dhe Administratën Publike dhe Sekretari i Përgjithshëm i Këshillit të Ministrave të marrin masat përkatëse për ndarjen dhe organizimin e agjencive të përmendura në pikat 1 dhe 2, të këtij vendimi, në mjediset e godinës.
