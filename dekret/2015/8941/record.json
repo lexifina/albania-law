@@ -1,0 +1,26 @@
+{
+  "qbz_id": 11722,
+  "title": "Për transferim prokurori",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "8941",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2015-02-11",
+  "published": "2015-02-24",
+  "in_force": "2015-02-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d686328b883fab591f39b92f90e2bf418b0c8fdacf5449ee3a894ada719fa618.docx",
+  "source_sha256": "d686328b883fab591f39b92f90e2bf418b0c8fdacf5449ee3a894ada719fa618",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11722",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2015/02/11/8941",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
