@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë tokë “arë”, “truall”, “ullishte (tokë bujqësore)” dhe “objekte”, prej 95 193 711 (nëntëdhjetë e pesë milionë e njëqind e nëntëdhjetë e tre mijë e shtatëqind e njëmbëdhjetë) lekësh, të përballohet nga buxheti i vitit 2015 (zëri “Shpronësimet”), planifikuar për Autoritetin Rrugor Shqiptar.
