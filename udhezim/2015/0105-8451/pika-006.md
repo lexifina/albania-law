@@ -1,0 +1,1 @@
+6. Çmimi i shitjes së botimeve për libraritë dhe agjencitë shpërndarëse llogaritet me një zbritje prej 5% mbi çmimin e llogaritur sipas pikës 1, të këtij urdhri (kur ky aktivitet pasqyrohet në objektin e aktivitetit tregtar të këtij subjekti tregtar).
