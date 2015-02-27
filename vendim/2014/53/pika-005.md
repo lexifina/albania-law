@@ -1,1 +1,0 @@
-5. Për barnat, që blihen nga institucionet shëndetësore publike, çmimi maksimal i tregtimit dhe marzhi i fitimit, që do të zbatohen mbi çmimin CIF ose EXW, do të jetë me marzhe të diferencuara, sipas tabelës nr. 1, që i bashkëlidhet këtij vendimi. Për barnat, të cilat nuk janë përfshirë në listën bashkëlidhur, do të zbatohet një marzh fitimi deri në 8 (tetë) për qind.
