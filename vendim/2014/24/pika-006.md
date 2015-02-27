@@ -1,1 +1,0 @@
-6. Drejtoria Farmaceutike, përpara lëshimit të autorizimit të importimit për barin, ka të drejtë të verifikojë dokumentacionin e paraqitur nga subjekti importues, pranë autoriteteve apo subjekteve private ose publike, nga ku ato janë lëshuar.

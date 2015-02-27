@@ -1,1 +1,0 @@
-1. Për përballimin e gjendjeve emergjente (katastrofa natyrore, epidemi) ose në rast nevojash të shërbimit shëndetësor (alternativa të vetme barnash për mjekim ambulator, spitalor), ministri i Shëndetësisë lëshon autorizim për importimin e barnave të paregjistruar.

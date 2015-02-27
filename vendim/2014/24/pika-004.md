@@ -1,1 +1,0 @@
-4. Drejtoria Farmaceutike, në Ministrinë e Shëndetësisë, publikon në faqen zyrtare të kësaj ministrie, adresën elektronike të kontaktit për çdo komunikim të nevojshëm lidhur me procedurën e dhënies së autorizimit për importimin e barnave të paregjistruar.

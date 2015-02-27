@@ -1,1 +1,0 @@
-8. Dokumentacioni i përmendur në pikën 7 të këtij vendimi, ruhet nga Inspektorati i Qendrës Kombëtare të Kontrollit të Barnave, i cili njofton Drejtorinë e Përgjithshme të Doganave me anë të një autorizimi të veçantë.
