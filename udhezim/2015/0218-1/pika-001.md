@@ -1,0 +1,1 @@
+1. Çdo hyrje e mallrave në magazinë dokumentohet menjëherë. Mallrat, që hyjnë pjesë-pjesë për në vendmbërritje, pasqyrohen me dokumente të përkohshme, por fletëhyrja për gjithë sasinë plotësohet me mbërritjen e gjithë sasisë së mallrave, duke u bashkëlidhur edhe dokumentet e përkohshme.

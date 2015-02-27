@@ -1,0 +1,1 @@
+10. Bëhet kontrolli i artikujve sipas sasisë dhe çmimit (sasia dhe çmimi që ka fatura e furnitorit që bën dalje aktivet duhet të jenë të njëjta me ato të regjistruara nga magazinieri në fletëhyrje), kryhen shumëzimet dhe nxirret vlera totale e fletëhyrjes.

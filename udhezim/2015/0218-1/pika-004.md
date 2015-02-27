@@ -1,0 +1,1 @@
+4. Drejtori i Përgjithshëm i Rezervave Materiale të Shtetit miraton urdhrin për ngritjen e komisionit për marrjen në dorëzim të mallrave të furnizuara për sasinë, cilësinë, llojin, plotësinë e tyre dhe të dokumentacionit shoqërues. Komisioni përbëhet nga jo më pak se tre specialistë të fushës, sipas llojit të mallrave, dhe, në rast nevoje, edhe nga ekspertë të jashtëm.

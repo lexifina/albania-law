@@ -1,0 +1,1 @@
+9. Kur shitësi nuk paraqitet brenda afatit të lajmëruar nga blerësi dhe aktivet prishen shpejt e, për pasojë, nuk mund të vihen në ruajtje, blerësi harton procesverbal, me komision prej jo më pak se tre personash, për diferencat, dëmtimet, apo ndryshimin e cilësisë. Aktivet në gjendje të përdorshme i vë në përdorim, për diferencat në sasi apo çmim përgjegjësia bie mbi shitësin.
