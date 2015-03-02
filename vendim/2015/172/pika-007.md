@@ -1,0 +1,1 @@
+7. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Korçë të pezullojnë të gjitha transaksionet mbi këto pasuri, deri në përfundimin e procesit të kalimit të pronësisë të pasurive të shpronësuara në favor të OST, sh.a-së.
