@@ -1,0 +1,1 @@
+7. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyrat vendore të regjistrimit të pasurive të paluajtshme Ersekë dhe Korçë të marrin masat për pezullimin e të gjitha transaksioneve mbi këto pasuri, deri në përfundimin e procesit të kalimit të pronësisë së pasurive të shpronësuara në favor të OST, sh.a.-së.
