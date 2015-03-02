@@ -1,0 +1,19 @@
+2. Grupet e administrimit të përgjithshëm dhe të posaçëm, në kategorinë ekzekutive, janë si më poshtë:
+- Shkenca Juridike;
+- Shkenca Kompjuterike;
+- Audit i Brendshëm;
+- Shkenca Ekonomike;
+- Shkenca Shoqërore;
+- Shkenca Sociale;
+- Histori-Filologji;
+- Teologji;
+- Shkenca Mjedisore ose të tjera të përshtatshme;
+- Inxhinieri;
+- Arkitekturë;
+- Arkeologji dhe restaurime;
+- Artet e Bukura;
+- Gjeodezi;
+- Shkenca Ekzakte;
+- Shkenca Edukimi;
+- Mësuesi;
+- Arsim i Lartë Ushtarak/policor.
