@@ -1,0 +1,1 @@
+4. Pagesa e shumës së depozituar, sipas pikës 3, të këtij vendimi, në favor të ankuesit, të bëhet nga Ministria e Financave, pas paraqitjes së dokumentacionit të nevojshëm ligjor, për kryerjen e pagesave, nga buxheti i shtetit, brenda një afati 3-mujor, nga dita kur vendimi i gjykatës është bërë përfundimtar.
