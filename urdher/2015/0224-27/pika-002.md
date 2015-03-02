@@ -1,0 +1,13 @@
+2. Grupi ndërinstitucional i punës të kryesohet nga zëvendësministri i Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes dhe të ketë në përbërje anëtarë:
+- 3 përfaqësues nga Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes;
+- 3 përfaqësues nga Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyra përkatëse vendore e regjistrimit të pasurive të paluajtshme;
+- 1 përfaqësues nga Agjencia Kombëtare e Bregdetit;
+- 1 përfaqësues nga Agjencia Kombëtare e Planifikimit të Territorit;
+- 1 përfaqësues nga Task - Forca për verifikimin e ligjshmërisë dhe mënyrës së tjetërsimit të pronave të paluajtshme shtetërore;
+- 3 përfaqësues nga ALUIZNI, qendror dhe vendor;
+- 1 përfaqësues nga Agjencia e Kthimit dhe Kompensimit të Pronave;
+- 1 përfaqësues nga Prefektura Vlorë;
+- 1 përfaqësues nga Bashkia Vlorë;
+- 1 përfaqësues nga Bashkia Himarë;
+- 1 përfaqësues nga Bashkia Sarandë;
+- 1 përfaqësues nga Bashkia Konispol.

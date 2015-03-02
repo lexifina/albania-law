@@ -1,0 +1,1 @@
+1. Ngritjen e grupit ndërinstitucional të punës për verifikimin dhe kontrollin e sipërfaqes shtetërore dhe private në të gjithë zonën bregdetare që përfshihet në territorin e bashkive Vlorë, Himarë, Sarandë dhe Konispol.

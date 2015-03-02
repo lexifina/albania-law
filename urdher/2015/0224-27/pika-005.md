@@ -1,0 +1,1 @@
+5. Grupi ndërinstitucional i punës, për përmbushjen e detyrave të ngarkuara, të shqyrtojë të gjithë dokumentacionin ekzistues dhe atë që do t’u vihet në dispozicion nga institucionet përgjegjëse, të kryejnë vizitat në terren dhe të bashkërendojnë punën me të gjitha institucionet shtetërore që lidhen me këtë veprimtari.

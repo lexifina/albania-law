@@ -1,0 +1,1 @@
+6. Ngarkohet grupi ndërinstitucional i punës, që, brenda 3 (tre) muajve nga hyrja në fuqi e këtij urdhri, të përfundojë detyrën e ngarkuar dhe t’i paraqesë Kryeministrit materialin e përgatitur sipas përcaktimeve të pikave 4 e 5, të këtij urdhri.
