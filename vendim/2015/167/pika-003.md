@@ -1,0 +1,1 @@
+3. Vlera e përcaktuar si detyrim, në pikën 1, të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të ankueses, znj. Zamira Eltari (Sharra), në shumën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 10.6.2014, për çështjen “Eltari kundër Shqipёrisё”.
