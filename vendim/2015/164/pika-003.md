@@ -1,0 +1,1 @@
+3. Vlerat e përcaktuara si detyrim, në pikën 1, të këtij vendimi, të depozitohen në një nga bankat e nivelit të dytë, në emër të ankuesve, sipas listës bashkëlidhur këtij vendimi, në shumat që ka detyrim shteti shqiptar për secilin prej tyre, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 1.4.2014, për çështjen “Luli dhe të tjerë kundër Shqipёrisё”.
