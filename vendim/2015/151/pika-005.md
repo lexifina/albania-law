@@ -1,0 +1,1 @@
+5. Komisioni kontrollon dhe evidenton përputhshmërinë edhe me strategjinë e zhvillimit territorial rajonal të vendit, planet e përgjithshme vendore, si dhe, në rast se zhvillimi i projektit kërkon ndërhyrje dhe reflektim në këto dokumente, propozon hapat dhe rrugën ligjore për përputhshmërinë e tyre.

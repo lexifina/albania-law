@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve dhe të procedurave për varrezat private, të cilat ngrihen nga subjekte private, mbi troje në pronësi të tyre ose në troje në pronësi shtetërore, a të njësisë bazë të qeverisjes vendore, në përputhje me legjislacionin në fuqi.
