@@ -1,0 +1,1 @@
+2. Misioni i personelit që do të marrë pjesë është mbështetja dhe dhënia e kontributit në funksione të ndryshme në Shtabin e Trajnimi-Këshillimit dhe Ndihmës, në operacionin e NATO-s “RSM”, në Afganistan, në kuadër të iniciativës së Kartës së Adriatikut.

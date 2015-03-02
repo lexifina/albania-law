@@ -1,0 +1,1 @@
+1. Dërgimin me mision të personelit të Forcave të Armatosura të Republikës së Shqipërisë në operacionin “RSM”, të përbërë nga 2 (dy) ushtarakë, në Shtabin e Trajnim-Këshillimit dhe Ndihmës, në Mazar-e-Sharif, në Afganistan, në kuadër të iniciativës së Kartës së Adriatikut.
