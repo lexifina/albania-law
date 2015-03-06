@@ -1,0 +1,1 @@
+7. Kandidatëve, të cilët kanë marrë dëftesë pjekurie para vitit 2006 dhe dëshirojnë të aplikojnë për studime universitare, t’u njihen dy nga provimet e detyruara që përputhen me D1 dhe D2, ose provimet e njëvlershme me to, të njehsuara nga DAR/ZA-të.

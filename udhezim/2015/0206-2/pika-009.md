@@ -1,0 +1,1 @@
+9. Provimi i Teorisë Profesionale të Nivelit të III, të Arsimit Profesional, që zhvillohej nga vetë shkollat profesionale, nuk do të zhvillohet më në vijim. Provimet e tjera të teorisë dhe tё praktikës profesionale, në nivelin I dhe II dhe provimi i praktikës profesionale në nivelin III, do të zhvillohen nga shkollat profesionale, si edhe më parë.
