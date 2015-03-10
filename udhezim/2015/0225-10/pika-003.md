@@ -1,0 +1,1 @@
+3. Udhëzime shtesë, për trajtime të rasteve të veçanta si p.sh. lidhur me fëmijët në situatë rruge, fëmijët e trafikuar etj., mund të ofrohen nga institucione të tjera përgjegjëse, për të plotësuar këtë udhëzim.

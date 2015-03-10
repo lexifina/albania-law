@@ -1,0 +1,2 @@
+2. Ky udhëzim përmban procedurat që duhet të ndiqen për të ndihmuar fëmijët të cilët kanë nevojë të mbrohen nga dhuna, abuzimi, neglizhimi apo shfrytëzimi. Udhëzimi u drejtohet njësive për mbrojtjen e fëmijëve, por edhe të gjithë institucioneve dhe organizatave publike apo private të cilat punojnë me fëmijët në rrezik, dhe që kanë përgjegjësi për mbrojtjen e tyre.
+Udhëzimi synon të njehsojë rregullat dhe procedurat në punën për mbrojtjen e fëmijëve, të cilat duhet të njihen, ndiqen dhe zbatohen nga të gjitha institucionet e interesuara.

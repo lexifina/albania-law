@@ -1,0 +1,1 @@
+7. Udhëzimi është i ndarë në dy pjesë: Pjesa e parë përmban rolet dhe përgjegjësitë e institucioneve dhe aktorëve kryesorë lidhur me mbrojtjen e fëmijës dhe Pjesa e dytë e cila përmban udhëzime teknike të rëndësishme në lidhje me procedurat e ndërhyrjes në mbrojtje të fëmijëve në rrezik.

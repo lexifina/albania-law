@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 10, datë 25.2.2015
+pËR Mënyrat, Format e bashkëpunimit dhe PROCEDURAT E NDËRHYRJES NË NDIHMË TË FËMIJËVE NË RREZIK për institucionet dhe strukturat kryesore përgjegjëse për mbrojtjen e fëmijës
+Në mbështetje të pikës 4 të nenit 102 të Kushtetutës së Republikës së Shqipërisë, në zbatim të nenit 35, të ligjit nr. 10347, datë 4.11.2010, “Për mbrojtjen e të drejtave të fëmijës”, të pikës 2 të vendimit nr. 266, datë 12.4.2012, të Këshillit të Ministrave, “Për bashkërendimin e veprimtarisë së mekanizmave në nivel qendror dhe vendor për çështjet që lidhen me mbrojtjen e të drejtave të fëmijës”, si edhe vendimit nr. 265, datë 12.4.2012, të Këshillit të Ministrave, “Për krijimin dhe funksionimin e mekanizmit të bashkërendimit të punës ndërmjet autoriteteve shtetërore përgjegjëse për referimin e rasteve të fëmijëve në rrezik, si dhe mënyrën e procedimit të tij”, ministri i Mirëqenies Sociale dhe Rinisë, ministri i Arsimit dhe Sportit, ministri i Shëndetësisë dhe ministri i Punëve të Brendshme
+UDHËZOJNË:

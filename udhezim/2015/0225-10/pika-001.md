@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i detyrave, përgjegjësive dhe procedurat standarde për institucionet dhe strukturat kryesore përgjegjëse për ofrimin e shërbimeve lidhur me mbrojtjen e të drejtave të fëmijës.

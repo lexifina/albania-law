@@ -1,0 +1,10 @@
+# Shtojca
+Erion Veliaj
+MINISTRI I ARSIMIT
+DHE SPORTIT
+Lindita Nikolla
+MINISTRI I SHËNDETËSISË
+Ilir Beqaj
+MINISTRI I PUNËVE
+TË BRENDSHME
+Saimir Tahiri
