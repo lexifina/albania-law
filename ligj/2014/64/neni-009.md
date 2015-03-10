@@ -1,7 +1,7 @@
 # Neni 9
 Presidenti i Republikës
 1. Presidenti i Republikës, në cilësinë e Komandantit të Përgjithshëm të Forcave të Armatosura, ushtron pushtetin e dhënë nga Kushtetuta dhe legjislacioni në fuqi.
-2. Presidenti i Republikës, në kohë paqeje, e ushtron drejtimin e Forcave të Armatosura nëpërmjet Kryeministrit dhe Ministrit të Mbrojtjes, ndërsa në kohë lufte i drejton Forcat e Armatosura nëpërmjet Komandantit të Forcave të Armatosura.
+2. Presidenti i Republikës, në kohë paqeje, e ushtron drejtimin e Forcave të Armatosura nëpërmjet Kryeministrit dhe Ministrit të Mbrojtjes.
 3. Presidenti i Republikës, si Komandant i Përgjithshëm i Forcave të Armatosura, ushtron këto kompetenca:
 a) jep gradat madhore, me propozimin e Ministrit të Mbrojtjes;
 b) emëron, gradon, shkarkon dhe nxjerr në rezervë ose në lirim, me propozimin e Kryeministrit, Shefin e Shtabit të Përgjithshëm të Forcave të Armatosura;
