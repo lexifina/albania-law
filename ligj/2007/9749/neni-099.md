@@ -1,4 +1,0 @@
-# Neni 99
-Masa e shpërblimit të individit për ndihmën e dhënë
-1. Çdo individ mund të ndihmojë Policinë për kryerjen e detyrave të përcaktuara në ligj.
-2. Nëse gjatë ndihmës që i jep Policisë, individi plagoset, sëmuret, apo humbet aftësitë e tij për punë, ai ka të drejtë të përfitojë çdo ndihmë mjekësore, pension, pagesë për aftësi në punë dhe pagesë në rast vdekjeje, përfitime të cilat i takojnë një punonjësi policie në rast aksidenti në punë. Paga mbi të cilën llogariten përfitimet e mësipërme është ajo që përfitonte individi në vendin e tij të punës ose paga për të cilën është siguruar në mënyrë vullnetare apo si bujk privat, deri në 30 ditë para ndodhjes së ngjarjes, por ajo nuk mund të jetë më e vogël se paga bazë për gradën “Nënkomisar”. Për rastet kur individi nuk është në marrëdhënie pune ose i siguruar, paga mbi të cilën llogariten këto përfitime është paga bazë për gradën “Kryeinspektor”.
