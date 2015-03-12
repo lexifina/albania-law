@@ -1,1 +1,0 @@
-8. Procedura e verifikimit të një personi, të cilit i është hedhur poshtë kërkesa për pajisjen me “certifikatë sigurie”, me kërkesë të titullarit, mund të rifillojë, pas kalimit të një viti nga data e mospranimit të kërkesës, me vlerësimin e shkaqeve që kanë sjellë këtë mospranim.

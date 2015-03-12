@@ -1,1 +1,0 @@
-4. DSIK- ja ka të drejtë t’u kërkojë organeve që lidhen me sigurimin kombëtar e me rendin publik, organeve të drejtësisë dhe ministrive e institucioneve të tjera shtetërore, të dhëna për verifikimin e pastërtisë së figurës së personit.
