@@ -1,1 +1,0 @@
-8. Në rastet kur në mjediset dhe “zonat e sigurisë” së institucionit do të ketë vizitore, ata duhen të mbahen larg këtyre zonave. Rregullat e shoqërimit të tyre, me e pa shoqërues, përcaktohen me udhëzim të titullarit të institucionit.
