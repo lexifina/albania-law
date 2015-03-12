@@ -1,0 +1,1 @@
+10. Hapja e programeve të reja të studimeve të të gjitha cikleve, riorganizimi dhe mbyllja e tyre bëhen me urdhër të përbashkët të ministrit përgjegjës për arsimin dhe të ministrit të Punëve të Brendshme.

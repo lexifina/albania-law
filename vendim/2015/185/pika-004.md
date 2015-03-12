@@ -1,0 +1,1 @@
+4. Organizimi i Akademisë së Sigurisë bëhet në përshtatje me përgjegjësitë ligjore të ngarkuara dhe llojet e programeve mësimore që ofrohen, duke u bazuar në legjislacionin në fuqi për arsimin e lartë dhe për Policinë e Shtetit.
