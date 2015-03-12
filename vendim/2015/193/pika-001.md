@@ -1,0 +1,1 @@
+1. Shpalljen e zonës ekonomike, me statusin “Zonë e lirë”, të territorit me sipërfaqe 22 ha, pjesë e zonës kadastrale nr. 8517, në përbërje të së cilës janë parcelat me nr. pasurie 148/6 dhe nr. 149/1, në Spitallë 2, Durrës.

@@ -1,0 +1,1 @@
+5. Procedura e përzgjedhjes së zhvilluesit të zonës së lirë të bëhet në zbatim të rregullave dhe procedurave konkurruese, të përcaktuara në ligjin nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar.
