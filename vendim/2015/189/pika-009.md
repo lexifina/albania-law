@@ -1,0 +1,1 @@
+9. Titullari i institucionit miraton, me urdhër, ndarjen e zonave të sigurisë, i cili shoqërohet me planin dhe skemën e sigurisë fizike të objektit ku mbahet e administrohet informacioni i klasifikuar “Sekret shtetëror”, i NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare, duke përcaktuar edhe regjimin e hyrje-daljeve të punonjësve e personave të tjerë në këto zona.

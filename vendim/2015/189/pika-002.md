@@ -1,0 +1,1 @@
+2. “Zonat e sigurisë” janë hapësirat (mjediset, ambientet), ndërtesat, dhomat, zyrat, etj., ku prodhohet, regjistrohet, shfrytëzohet, transmetohet, ruhet, arkivohet dhe shkatërrohet informacioni i klasifikuar “Sekret shtetëror” i NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare.

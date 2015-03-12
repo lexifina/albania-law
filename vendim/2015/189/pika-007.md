@@ -1,0 +1,1 @@
+7. Brenda perimetrit të hapësirave të institucionit, ku qarkullon informacioni i klasifikuar “Sekret shtetëror” i NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare, përcaktohen zonat e sigurisë.

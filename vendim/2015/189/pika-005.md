@@ -1,0 +1,1 @@
+5. “Vlerësimi i rrezikut dhe kërcënimi i sigurisë” është procesi periodik i identifikimit të rrezikut të sigurisë të zonave të sigurisë ku prodhohet, regjistrohet, shfrytëzohet, transmetohet, ruhet, arkivohet dhe shkatërrohet informacioni i klasifikuar “Sekret shtetëror” i NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare.

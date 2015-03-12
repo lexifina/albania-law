@@ -1,0 +1,1 @@
+4. “Struktura e sigurisë/oficeri i sigurisë” janë punonjësit/nëpunësit, të cilët ndjekin dhe mbikëqyrin zbatimin e legjislacionit në fuqi për informacionin e klasifikuar “Sekret shtetëror” të NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare në ministritë dhe institucionet shtetërore.

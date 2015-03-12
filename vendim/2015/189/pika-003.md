@@ -1,0 +1,1 @@
+3. “Perimetri i sigurisë” është kufiri fizik i një zone sigurie apo zone administrative ku ruhet apo administrohet informacioni i klasifikuar “Sekret shtetëror” i NATO-s, BE-së, shteteve dhe organizatave të tjera ndërkombëtare në ministritë dhe institucionet shtetërore.
