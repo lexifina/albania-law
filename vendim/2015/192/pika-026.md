@@ -1,0 +1,1 @@
+26. Propozimet fituese do të marrin fillimisht 50% të fondit të miratuar, 40 % pas paraqitjes së raportimit afatmesëm dhe 10% e fondit të miratuar jepet pas miratimit të raportit final. Për projekte afatgjata, këto shifra do të zbatohen për buxhetin vjetor respektiv. Në çdo rast, financimi do të bëhet me vendim të Bordit dhe me miratimin e ministrit të Financave.

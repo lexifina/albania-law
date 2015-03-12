@@ -1,0 +1,1 @@
+21. Për çdo konkurrim, Bordi ofron një kalendar kohor të procesit të përzgjedhjes, ku përfshihen afati i fundit për aplikimin e projektpropozimeve, afati i fundit për vlerësimin e tyre, data e pritshme për nënshkrimin e kontratës dhe koha e pritshme për fillimin e projektit.

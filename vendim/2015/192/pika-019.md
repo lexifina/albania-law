@@ -1,0 +1,1 @@
+19. Vlerësimi mbështetet në përputhjen e projektpropozimit të paraqitur nga aplikuesi në procedurat e konkurrimit me qëllimin e organizatës/aplikuesit dhe programin që zbaton, kapacitetet e aplikuesit, efektshmërinë e aktiviteteve, pritshmërinë dhe koston e tyre.

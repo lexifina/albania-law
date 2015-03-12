@@ -1,0 +1,1 @@
+3. Bordi i Çështjeve të Mira (në vijim “Bordi”) përbëhet nga 3 përfaqësues të të licencuarit për ushtrimin e aktivitetit të Lotarisë Kombëtare (në vijim “I licencuari”) dhe 4 përfaqësues të Ministrisë së Financave.

@@ -1,0 +1,1 @@
+15. Aplikuesit, institucionet publike, buxhetore apo jobuxhetore, persona fizikë apo juridikë jobuxhetorë, që janë regjistruar sipas ligjit dhe kryejnë veprimtari në përputhje me qëllimin e përcaktuar në statutin e tyre, kanë të drejtë të aplikojnë, të konkurrojnë dhe të paraqesin projektpropozimet e tyre.

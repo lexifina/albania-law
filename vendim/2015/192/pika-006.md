@@ -1,0 +1,1 @@
+6. Brenda 15 (pesëmbëdhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi, Bordi, me kërkesë të ministrit të Financave, bën mbledhjen e konstituimit të tij, si dhe zgjedh kryetarin dhe sekretarin e Bordit.

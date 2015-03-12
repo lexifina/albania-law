@@ -1,0 +1,1 @@
+27. Në rastin e mospërmbushjes së aktiviteteve të projektit apo kryerjes së shpenzimeve që nuk kanë qenë të lejuara, pjesa respektive e buxhetit i kthehet Ministrisë së Financave dhe do të jetë pjesë e “Fondit të çështjeve të mira” në raundin e ardhshëm të njoftimit për pjesëmarrje. Për ndryshime mbi 15% në linjat buxhetore është i nevojshëm një miratim paraprak i Bordit.

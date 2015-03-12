@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim përcaktimin e procedurave dhe kritereve për përzgjedhjen e projekteve, organizatave apo eventeve nga Bordi i Çështjeve të Mira të Lotarisë Kombëtare, me qëllim përdorimin sa më të efektshëm të fondit të caktuar për t’u përdorur për çështjet e mira.
