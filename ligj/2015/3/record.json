@@ -1,0 +1,26 @@
+{
+  "qbz_id": 11741,
+  "title": "Për një ndryshim në aktin normativ, me fuqinë e ligjit, nr. 4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros së këtyre ndërmarrjeve”, miratuar me ligjin  nr. 9967, datë 24.7.2008",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "3",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-02-05",
+  "published": "2015-02-25",
+  "in_force": "2015-03-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3c543247cff6394271b6f5a2193b391dd48dba53a36dec3e30bb87386427891f.docx",
+  "source_sha256": "3c543247cff6394271b6f5a2193b391dd48dba53a36dec3e30bb87386427891f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11741",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/02/05/3",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
