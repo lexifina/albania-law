@@ -1,0 +1,1 @@
+2. Vendimi nr. 122, datë 15.3.2001, i Këshillit të Ministrave, “Për shqyrtimin e pastërtisë dhe për dhënien e “Certifikatës së Sigurisë”, personave që do të njihen me informacionin e klasifikuar “Sekret shtetëror””, të ndryshuar, shfuqizohet.
