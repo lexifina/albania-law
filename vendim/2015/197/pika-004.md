@@ -1,0 +1,1 @@
+4. Efektet financiare për pagesën e sigurimeve shoqërore dhe shëndetësore për vitin 2015, në shumën 49 599 000 (dyzet e nëntë milionë e pesëqind e nëntëdhjetë e nëntë mijë) lekë, që rrjedhin nga zbatimi i këtij vendimi, të mbulohen nga fondet e miratuara në buxhetin e vitit 2015 për Ministrinë e Arsimit dhe Sportit.
