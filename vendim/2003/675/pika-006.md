@@ -1,1 +1,0 @@
-6. Në urdhrin ku përcaktohet mbyllja e një institucioni të formimit profesional parashikohen edhe trajtimi i punonjësve të institucionit që dalin të papunë dhe destinacioni i mjeteve, monetare e materiale, në përfundim të likuidimit përkatës.

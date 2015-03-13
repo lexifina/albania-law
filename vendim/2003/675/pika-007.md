@@ -1,1 +1,0 @@
-7. Qendrat e formimit profesional, të cilat funksionojnë para hyrjes në fuqi të ligjit nr.8872, datë 29.3.2002 “Për arsimin dhe formimin profesional në Republikën e Shqipërisë”, brenda 6 muajve nga hyrja në fuqi e këtij vendimi, të riorganizohen dhe funksionojnë mbi bazën e statuteve të miratuara në përputhje me statutin tip, që i bashkëlidhet këtij vendimi.
