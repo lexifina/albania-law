@@ -1,0 +1,1 @@
+2. Ministria e Mirëqenies Sociale dhe Rinisë dhe Qendra Rinore Korçë nuk mund ta ndryshojnë destinacionin e pronës së përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojnë apo t’ua japin në përdorim të tretëve.

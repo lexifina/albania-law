@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Arsimit dhe Sportit te Ministria e Mirëqenies Sociale dhe Rinisë, për Qendrën Rinore Korçë, të katit të parë të objektit, me emërtim “Ish-Shtëpia e Ushtarakëve”, Korçë, për ta përdorur për mjedise pune për krijimin e kushteve për zhvillimin normal të veprimtarisë së funksionimit të këtij institucioni.
