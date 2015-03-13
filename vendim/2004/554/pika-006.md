@@ -1,1 +1,0 @@
-6. Gradat ushtarake, për ushtarakët që shërbejnë në Forcat Ajrore dhe repartet në varësi të tyre, njësohen me funksionet organike, të përcaktuara në lidhjet nr.5 dhe nr.5/1, që i bashkëlidhen këtij vendimi.

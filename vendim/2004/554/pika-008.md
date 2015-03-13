@@ -1,1 +1,0 @@
-8. Gradat ushtarake, për ushtarakët që shërbejnë në Komandën e Doktrinave dhe të Stërvitjes dhe repartet në varësi të saj, njësohen me funksionet organike, të përcaktuara në lidhjet nr.7 dhe nr.7/1, që i bashkëlidhen këtij vendimi.
