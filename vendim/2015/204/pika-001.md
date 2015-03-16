@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të përcaktojë mënyrën e organizimit dhe funksionimit të Entit Shtetëror të Farave dhe Fidanëve (ESHFF), në përputhje me kërkesat e ligjit nr. 10416, datë 7.4.2011, “Për materialin mbjellës dhe shumëzues bimor”.
