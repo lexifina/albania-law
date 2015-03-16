@@ -1,1 +1,0 @@
-7. Vendimi nr. 102, datë 6.2.2013, i Këshillit të Ministrave, “Për miratimin e listës së barnave që rimbursohen nga Instituti i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor dhe të masës së mbulimit të çmimit të tyre”, shfuqizohet.
