@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 8 420 000 (tetë milionë e katërqind e njëzet mijë) lekësh, të përballohet nga buxheti i vitit 2015, miratuar për Ministrinë e Transportit dhe Infrastrukturës, zëri “Shpronësime”, planifikuar për Autoritetin Rrugor Shqiptar.
