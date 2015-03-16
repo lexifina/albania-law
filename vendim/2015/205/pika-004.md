@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 12 639 896 (dymbëdhjetë milionë e gjashtëqind e tridhjetë e nëntë mijë e tetëqind e nëntëdhjetë e gjashtë) lekësh, të përballohet nga buxheti i vitit 2015, miratuar për Drejtorinë e Përgjithshme të Ujësjellës Kanalizimeve, zëri “Kosto lokale për rikonstruksionin e stacionit të Trushit”, me kod projekti M063465.
