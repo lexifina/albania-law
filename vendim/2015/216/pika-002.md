@@ -1,0 +1,1 @@
+2. Fondi prej 125 040 (njëqind e njëzet e pesë mijë e dyzet) dollarësh, i konvertuar në lekë, me kursin e këmbimit të Bankës së Shqipërisë në datën kur do të kryhet pagesa, t’i transferohet Ministrisë së Drejtësisë për të bërë pagesën.
