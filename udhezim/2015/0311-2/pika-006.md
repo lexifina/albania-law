@@ -1,0 +1,1 @@
+6. Të dyja formatet kanë vlerë të njëjtë juridike. Në rast mospërputhjeje të formateve, Qendra e Botimeve Zyrtare i kërkon institucionit të konfirmojë përmbajtjen e saktë të aktit të botueshëm dhe, vetëm pas përgjigjes zyrtare të institucionit dërgues, vijon me botimin e aktit.

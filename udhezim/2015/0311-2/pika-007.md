@@ -1,0 +1,1 @@
+7. Marrëveshjet ndërkombëtare botohen, krahas gjuhës shqipe, edhe në gjuhën angleze, në rast se janë nënshkruar në këtë gjuhë. Botimi bëhet në të njëjtën faqe, të ndarë në dy kolona, ku secilit nen në gjuhën shqipe i korrespondon neni në gjuhën angleze dhe, në pjesën e fundit të tyre, vendoset data e nënshkrimit të tyre.
