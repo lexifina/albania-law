@@ -1,0 +1,1 @@
+1. Qendra e Botimeve Zyrtare pranon ankesat lidhur me gabimet dhe defektet që kanë të bëjnë me botimin dhe publikimin e akteve të botueshme në Fletoren Zyrtare, si dhe të njoftimeve në Buletinin e Njoftimeve Zyrtare, në formë të shtypur ose në formë elektronike.

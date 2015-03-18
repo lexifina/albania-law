@@ -1,0 +1,1 @@
+2. Institucioni që ka nxjerrë aktin ose çdo person i interesuar që identifikon një defekt apo gabim si mospërputhje me origjinalin bën ankesë me shkrim për ndreqjen e tij pranë Qendrës së Botimeve Zyrtare.

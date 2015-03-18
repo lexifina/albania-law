@@ -1,0 +1,1 @@
+3. Qendra e Botimeve Zyrtare, në bashkëpunim me institucionin që ka nxjerrë aktin, verifikon ekzistencën e defektit apo gabimit dhe bën ndreqjen, përkatësisht, në Fletoren Zyrtare apo në Buletinin e Njoftimeve Zyrtare më të parë.

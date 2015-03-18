@@ -1,0 +1,1 @@
+4. Afatet e trajtimit të këtyre ankesave janë brenda 15 (pesëmbëdhjetë) ditëve pune nga data e marrjes së ankesës. Qendra e Botimeve Zyrtare, brenda këtij afati, i dërgon përgjigje institucionit apo personit që ka bërë ankesën, duke dhënë informacion edhe për masat e marra.
