@@ -1,4 +1,4 @@
-2. Komisioni kryesohet nga zëvendësministri i Mjedisit, përgjegjës për fushën e ujërave, dhe ka në përbërje anëtarë, përfaqësues nga:
+2. Komisioni kryesohet nga zëvendësministri i Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, përgjegjës për fushën e ujërave, dhe ka në përbërje anëtarë, përfaqësues nga:
 - Ministria e Punëve të Jashtme;
 - Ministria e Drejtësisë;
 -Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave;
@@ -12,4 +12,6 @@
 - Ministria e Shëndetësisë;
 - Ministria e Arsimit dhe Sportit;
 - Ministria e Kulturës;
-- Akademia e Shkencave e Republikës së Shqipërisë.
+- Akademia e Shkencave e Republikës së Shqipërisë;
+- ministri i Shtetit për Çështjet Vendore;
+- Sekretariati Teknik i Këshillit Kombëtar të Ujit.
