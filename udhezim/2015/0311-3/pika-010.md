@@ -1,0 +1,1 @@
+10. Në rast mospërputhjeje të të dyja formateve, Qendra e Botimeve Zyrtare i kërkon institucionit të konfirmojë përmbajtjen e saktë të aktit të botueshëm dhe, vetëm pas përgjigjes zyrtare të institucionit dërgues, vijon me botimin e aktit.

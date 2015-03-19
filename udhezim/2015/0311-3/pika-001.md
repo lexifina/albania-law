@@ -1,0 +1,1 @@
+1. Buletini i Njoftimeve Zyrtare botohet në formatin A4, bardhezi, letër 80 gr/m2, mat, pa lustër, sipas formatit të përcaktuar në shtojcën nr.1, që i bashkëlidhet këtij udhëzimi dhe është pjesë përbërëse e tij.

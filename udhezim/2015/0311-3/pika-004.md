@@ -1,0 +1,1 @@
+4. Buletini i Njoftimeve Zyrtare botohet çdo të hënë. Në rastet kur është e nevojshme, për shkak të numrit të madh të njoftimeve të institucioneve shtetërore, buletini mund të botohet edhe në ditët e tjera të punës.
