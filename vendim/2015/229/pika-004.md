@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për tokë “arë”, “truall” dhe “objekte”, prej 300 000 000 (treqind milionë) lekësh, të përballohet nga fondi i shpronësimeve, në llogarinë e shpronësimeve në Bankën e Shqipërisë, sipas përcaktimit të bërë në nenin 10, të ligjit nr.185/2013, “Për buxhetin e vitit 2014”, të ndryshuar.

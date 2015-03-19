@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Për rehabilitimin dhe gjelbërimin e zonave pranë rrethrrotullimeve dhe kryqëzimeve në segmentin rrugor Rrogozhinë-Fier”.
