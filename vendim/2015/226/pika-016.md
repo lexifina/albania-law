@@ -1,0 +1,1 @@
+16. Ministrisë së Zhvillimit Urban, në buxhetin e miratuar të vitit 2015, në programin “Planifikim, menaxhim dhe administrim”, i pakësohen fondet, 19 800 000 (nëntëmbëdhjetë milionë e tetëqind mijë) lekë, në zërin “Shpenzime korrente”, dhe 6 000 000 (gjashtë milionë) lekë, në zërin “Investime kapitale të brendshme”.

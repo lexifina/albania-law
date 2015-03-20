@@ -1,0 +1,1 @@
+19. Ngarkohen ministritë e përmendura në këtë vendim, që brenda muajit mars të vitit 2015, të përgatitin dhe të dërgojnë për miratim projektstrukturat e njësive strukturore, sipas numrit organik të miratuar në pikat 1-8, të këtij vendimi.

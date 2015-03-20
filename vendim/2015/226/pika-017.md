@@ -1,0 +1,1 @@
+17. Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, në buxhetin e miratuar të vitit 2015, në programin “Planifikim, menaxhim dhe administrim”, i shtohet fondi prej 8 000 000 (tetë milionë) lekësh, në zërin “Shpenzime korrente”.
