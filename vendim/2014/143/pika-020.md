@@ -1,1 +1,0 @@
-20. Njësia përgjegjëse, brenda 3 (tri) ditëve kalendarike nga data e shpalljes së listës fituese, fton kandidatët fitues, duke respektuar renditjen e tyre, të zgjedhin nga lista e pozicioneve ekzistuese të lira, për të cilat kanë konkurruar.

@@ -1,1 +1,0 @@
-5. Institucionet e pavarura dhe njësitë e qeverisjes vendore bëjnë shpalljen e procedurës së pranimit për secilin grup në portalin “Shërbimi Kombëtar i Punësimit” dhe në stendat e informimit të publikut.

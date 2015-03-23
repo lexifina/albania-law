@@ -1,1 +1,0 @@
-13. Për vlerësimin e rezultateve të konkurrimit për secilin kandidat, secili prej anëtarëve jep pikët e tij. Në përfundim pikët mblidhen dhe më pas nxirret mesatarja e përgjithshme, e cila përbën edhe vlerësimin përfundimtar të kandidatit.

@@ -1,1 +1,0 @@
-3. Bazuar në planin vjetor të pranimit, njësia përgjegjëse njofton procedurën e pranimit për çdo grup, duke bërë të njohur edhe planin e zhvillimit të procedurës për secilin grup, jo më vonë se një muaj pas miratimit të këtij plani nga organet përgjegjëse, ose gjatë vitit kur shfaqet e nevojshme si rezultat i krijimit të vendeve vakante në mënyrë të paparashikuar.
