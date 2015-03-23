@@ -1,0 +1,1 @@
+28. Njësia përgjegjëse, brenda 3 (tri) ditëve kalendarike, pas përfundimit të procedurave të ankimit, shpall fituesin dhe bën aktin e emërimit të kandidatit. Akti i emërimit i prodhon efektet pas 5 (pesë) ditëve pune.

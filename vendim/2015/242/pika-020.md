@@ -1,0 +1,1 @@
+20. Komiteti i Pranimit për Lëvizjen Paralele zhvillon një intervistë të strukturuar, me gojë, me secilin prej kandidatëve, brenda 2 (dy) ditëve kalendarike nga data e krijimit të tij. Komiteti, për intervistën e strukturuar me gojë, përgatit, përpara fillimit të vlerësimit, një grup pyetjesh, të cilat janë të njëjta për të gjithë kandidatët.

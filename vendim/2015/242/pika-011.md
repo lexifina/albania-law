@@ -1,0 +1,1 @@
+11. Njësia përgjegjëse, në bazë të dokumentacionit të paraqitur, jo më vonë se 2 (dy) ditë kalendarike nga data e mbylljes së pranimit të dokumenteve, bën verifikimin paraprak të kandidatëve që përmbushin kushtet dhe kërkesat e posaçme, të përcaktuara në shpalljen për konkurrim.

@@ -1,0 +1,1 @@
+5. Për institucionet e administratës shtetërore shpallja e procedurës së konkurrimit, për secilin pozicion, publikohet në faqen zyrtare të DAP-it e portalin “Shërbimi Kombëtar i Punësimit” dhe qëndron e publikuar deri në përfundimin e procedurës.

@@ -1,0 +1,1 @@
+37. Nëse konkurrohet për më shumë se një pozicion pune, njësia përgjegjëse, brenda 3 (tri) ditëve kalendarike, pas përfundimit të procedurave të ankimit, i/u propozon kandidatit/kandidatëve fitues, duke respektuar renditjen e tyre, listën e pozicioneve të punës.

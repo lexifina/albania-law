@@ -1,0 +1,1 @@
+7. Institucionet, përveç mënyrave detyruese të shpalljeve, të përcaktuara në pikat 5 e 6, të kreut II, të këtij vendimi, mund të përdorin si mënyra alternative të shpalljes së konkurrimit faqen e internetit të institucionit si dhe çdo mjet tjetër të konsideruar të përshtatshëm për shpalljen, të njohur nga legjislacioni në fuqi.

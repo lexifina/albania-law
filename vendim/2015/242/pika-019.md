@@ -1,0 +1,1 @@
+19. DAP-i mund të autorizojë edhe nëpunës të tjerë civilë, të institucioneve të tjera, për të kryer detyrat e përfaqësuesit të DAP-it në Komitetin e Pranimit për Lëvizjen Paralele. Caktimi i nëpunësit bëhet pas komunikimit me institucionin nga do të merret ky nëpunës. Institucioni dhe nëpunësi i emëruar janë të detyruar të bashkëpunojnë me DAP-in.

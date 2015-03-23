@@ -1,0 +1,1 @@
+17. Anëtarët, të caktuar sipas pikës 16, të kreut II, të këtij vendimi, me përjashtim të rasteve të pengesave ligjore, janë të detyruar të marrin pjesë në Komitetin e Pranimit për Lëvizjen Paralele, ku janë caktuar.

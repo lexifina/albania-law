@@ -1,0 +1,1 @@
+31. Shpallja e fituesit/fituesve bëhet në faqen e internetit të DAP-it dhe në portalin “Shërbimi Kombëtar i Punësimit” ndërsa, për institucionet e pavarura dhe njësitë e qeverisjes vendore, përveç portalit, ajo bëhet edhe në stendat e informimit të publikut.

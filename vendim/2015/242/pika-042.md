@@ -1,0 +1,1 @@
+42. Deri në plotësimin e vendit vakant, ky pozicion, për nevojat e institucionit, mund plotësohet nga njësia përgjegjëse, duke respektuar parashikimin e shkronjës “a”, të pikës 1, të nenit 48, të ligjit 152/2013, “Për nëpunësin civil”, të ndryshuar.

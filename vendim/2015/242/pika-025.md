@@ -1,0 +1,1 @@
+25. Komiteti ia komunikon vendimin e përzgjedhjes, apo të përfundimit të procedurës pa asnjë të përzgjedhur, njësisë përgjegjëse, brenda 24 (njëzet e katër) orëve. Ky vendim dërgohet në njësinë përgjegjëse së bashku me listën e kandidatëve që kanë konkurruar, të renditur sipas pikëve.

@@ -1,0 +1,1 @@
+9. Shpallja është e hapur për të gjithë nëpunësit civilë të së njëjtës kategori, në të gjitha institucionet, pjesë të shërbimit civil. Afati i dorëzimit të dokumenteve është 10 (dhjetë) ditë kalendarike nga momenti i shpalljes në portal.

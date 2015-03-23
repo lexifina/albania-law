@@ -1,0 +1,1 @@
+6. Institucionet e pavarura dhe njësitë e qeverisjes vendore bëjnë shpalljen e procedurës së konkurrimit, për secilin pozicion, në portalin “Shërbimi Kombëtar i Punësimit” dhe në stendat e informimit të publikut.

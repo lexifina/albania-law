@@ -1,0 +1,1 @@
+4. Njësia përgjegjëse, nëse është e mundur, bën grupimin e pozicioneve të njëjta dhe organizimin e një procedure konkurruese të vetme për to. Në rastin e degëve territoriale, ky grupim mund të bëhet edhe mbi baza qarku.
