@@ -1,0 +1,1 @@
+3. Autoritetet kontraktore, institucionet e përmendura në lidhjen nr.1, që i bashkëlidhet këtij vendimi, brenda datës 31 mars 2015, të dërgojnë në Gardën e Republikës së Shqipërisë, si organi qendror blerës, fondin përkatës, sipas numrit dhe tipologjisë së automjeteve të përcaktuara në lidhjen nr.1.
