@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave Drejtorit të Përgjithshëm të Punësimit, Arsimit dhe Formimit Profesional, znj. Silva Banushi për dërgimin me shërbim të punonjësve të shkollave të arsimit profesional, jashtë qendrës së punës, brenda vendit, në largësi mbi 100 km.
