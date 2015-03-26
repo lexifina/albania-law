@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64692,
+  "title": "Për dënimin administrativ të shoqërisë “Ujësjellës-Kanalizime Vlorë sh.a”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "6",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2015-02-23",
+  "published": "2015-03-26",
+  "in_force": "2015-03-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d7061ed31c82eaadd76fdbaaac7fe3ed4f97243ccba83b78c8502bbef2e9a05b.docx",
+  "source_sha256": "d7061ed31c82eaadd76fdbaaac7fe3ed4f97243ccba83b78c8502bbef2e9a05b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64692",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/02/23/6",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
