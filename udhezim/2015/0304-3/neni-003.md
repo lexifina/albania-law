@@ -1,0 +1,4 @@
+# Neni 3
+Hedhja e shortit për renditjen e partive politike pjesëtare të koalicionit zgjedhor
+Pas përcaktimit të renditjes në fletën e votimit të partive politike që kandidojnë më vete, koalicioneve zgjedhore dhe kandidatëve të propozuar nga zgjedhësit, KQZ-ja me short përcakton renditjen e partive politike, pjesëtare në koalicionin zgjedhor, brenda hapësirës që i përket koalicionit zgjedhor në fletën e votimit.
+Në rast se në përfundim të hedhjes së shortit, midis partive politike pjesëtare të koalicionit, renditen njëra pas tjetrës parti, të cilat kanë emërtime dhe shkronja nistore të përafërta dhe që mund të konfuzojnë zgjedhësit, shorti përsëritet, por jo më shumë se tri herë. Në rast se edhe pas hedhjes së tretë të shortit përsëri renditen njëra pas tjetrës parti që kanë emërtime apo sigla të përafërta, këto do të zhvendosen në renditje deri në katër radhë.

@@ -1,0 +1,5 @@
+# Neni 2
+Hedhja e shortit për renditjen e subjekteve zgjedhore në fletën e votimit në zgjedhjet për Kuvend
+1. Për përcaktimin e renditjes së partive politike dhe koalicioneve zgjedhore në fletën e votimit për zgjedhjet për Kuvendin hidhet një short.
+2. Në rast se për një zonë zgjedhore regjistrohen kandidat të propozuar nga zgjedhësit, renditja midis këtyre përcaktohet me short. Në renditjen përfundimtare të fletës së votimit, kandidatët e propozuar nga zgjedhësit vendosen pas renditjes së partive politike dhe koalicioneve zgjedhore. Në rast se ka vetëm një kandidat të mbështetur nga zgjedhësit, ky i fundit do të shënohet në fletën e votimit pas partive politike dhe koalicioneve zgjedhore.
+3. Në rast se, në përfundim të hedhjes së shortit renditen njëra pas tjetrës parti, të cilat kanë emërtime dhe shkronja nistore të përafërta dhe që mund të konfuzojnë zgjedhësit, shorti përsëritet, por jo më shumë se tri herë. Në rast se edhe pas hedhjes së tretë të shortit përsëri renditen njëra pas tjetrës parti që kanë emërtime apo sigla të përafërta, këto do të zhvendosen në renditje deri në katër radhë.
