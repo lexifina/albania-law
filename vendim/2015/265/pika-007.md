@@ -1,0 +1,1 @@
+7. Pronarët e listës që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konfirmuar nga ZVRPP” dhe “Plotësim doku-mentacioni”, të kompensohen, për efekt shpronë-simi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Bashkisë Lushnjë.

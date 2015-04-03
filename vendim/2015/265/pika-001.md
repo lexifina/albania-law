@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projekteve “Rivitalizimi i qendrës së qytetit të Lushnjës” dhe “Rikonstruksioni i rrugës Rotondo Plukut-Postblloku, rruga e hyrjes Lushnjë-Tiranë’.
