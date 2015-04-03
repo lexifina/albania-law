@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Kroi i Thanzës” sh.p.k. detyrohet të rehabilitojë sipërfaqen e marrë në përdorim, sipas kushteve të lejes mjedisore dhe, brenda 2 (dy) viteve të para, të pyllëzojë, me fondet e veta, një sipërfaqe prej 7.2 ha fond pyjor, në ngastrat e përcaktuara në marrëveshjen me Ministrinë e Mjedisit.
