@@ -1,0 +1,1 @@
+1. Ngarkimin e Ministrisë së Mjedisit, si organ qendror blerës, për kryerjen e procedurës së prokurimit, në emër dhe për llogari të autoriteteve kontraktore, të përcaktuara në lidhjen nr. 1, që bashkëlidhet këtij vendimi, për pajisjen me kaldaja me lëndë djegëse pelet.

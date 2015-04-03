@@ -1,0 +1,1 @@
+4. Ministria e Mjedisit, si organi qendror blerës, të përcaktojë specifikimet teknike, në përputhje me standardet teknike dhe kërkesat e sigurisë, për përshtatjen e kaldajave ekzistuese dhe për kaldajat e reja.

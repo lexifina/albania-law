@@ -1,0 +1,1 @@
+3. Autoritetet kontraktore, institucionet e përmendura në lidhjen nr. 1, që i bashkëlidhet këtij vendimi, brenda datës 1 prill 2015, të dërgojnë në Ministrinë e Mjedisit, si organi qendror blerës, fondin përkatës, sipas numrit dhe tipologjisë së kaldajave, të përcaktuar në lidhjen nr. 1.

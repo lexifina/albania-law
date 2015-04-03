@@ -1,0 +1,1 @@
+2. Ministria e Mjedisit, si organi qendror blerës, të prokurojë fondin limit të llogaritur si shumë e fondeve buxhetore, të miratuar për çdo institucion të përmendur në lidhjen nr. 1, që i bashkëlidhet këtij vendimi.
