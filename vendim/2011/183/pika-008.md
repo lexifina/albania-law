@@ -1,1 +1,0 @@
-8. Vendimi nr.507, datë 18.7.2003 i Këshillit të Ministrave “Për kompensimin për privacionet dhe humbjet që i shkaktohen punonjësit të Policisë së Shtetit, për shkak të nevojave të punës dhe të shërbimit”, i ndryshuar, shfuqizohet.
