@@ -1,0 +1,26 @@
+{
+  "qbz_id": 59163,
+  "title": "Për shpallje ligji dhe dhënien e pëlqimit për hyrjen në fuqi menjëherë të ligjit",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "9041",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2015-04-06",
+  "published": "2015-04-06",
+  "in_force": "2015-04-06",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9193e0d4433ebfad1b9f8aa02e1dcd35451bcdad24c7d8c4a8595610d2567b55.docx",
+  "source_sha256": "9193e0d4433ebfad1b9f8aa02e1dcd35451bcdad24c7d8c4a8595610d2567b55",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59163",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2015/04/06/9041",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
