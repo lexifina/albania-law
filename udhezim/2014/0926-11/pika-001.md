@@ -1,1 +1,0 @@
-1. Ministria përgjegjëse për çështjet sociale, pasi vihet në dijeni për vendin e lirë të drejtorit (drejtori) në një institucion publik të AFP-së, brenda 10 ditëve pune, shpall njoftimin për vendin e lirë në faqen elektronike zyrtare të ministrisë përgjegjëse për çështjet sociale.
