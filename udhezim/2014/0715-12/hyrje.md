@@ -1,5 +1,0 @@
-UDHËZIM
-Nr. 12, datë 15.7.2014
-PËR PËRCAKTIMIN E TREGUESVE TË SIGURISË DHE CILËSISË SË MIELLIT TË GRURIT TË PARAPAKETUAR, PËR T’U SHITUR TE KONSUMATORI I FUNDIT OSE PËR PRODHIMIN E PRODUKTEVE TË TJERA USHQIMORE
-Në mbështetje të nenit 102, pika 4, të Kushtetutës, nenit 23 pika 2 të ligjit nr. 9863, datë 28.1.2008, “Për ushqimin”, i ndryshuar,
-UDHËZOJ:

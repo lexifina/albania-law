@@ -1,1 +1,0 @@
-5. Mielli i grurit duhet të jetë pa metale të rënda në sasi të dëmshme për shëndetin e njeriut. Ato duhet të jenë në përputhje me nivelet e vendosura në udhëzimin nr. 13, datë 29.9.2010, “Për vendosjen e niveleve maksimale për disa kontaminues në produktet ushqimore”.

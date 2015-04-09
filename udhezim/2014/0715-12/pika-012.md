@@ -1,1 +1,0 @@
-12. Marrja e mostrave dhe analizimi, bëhet në përputhje me rregulloren nr. 220, datë 21.5.1999, “Mbi procedurat e marrjes së mostrave dhe kryerjes së analizave të produkteve ushqimore”, dhe shtojcën 2, “Kufiri i lejuar dhe metoda e analizimit për disa tregues të miellit të grurit”, bashkëlidhur këtij udhëzimi.

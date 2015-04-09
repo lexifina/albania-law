@@ -1,1 +1,0 @@
-2. Mielli i grurit është produkt i përgatitur nga grurë i zakonshëm, Triticum aestivum L, ose grurë i zakonshëm, Triticium compactum Host ose përzierjet e tyre, me anë të copëtimit ose proceseve të bluarjes, në të cilën janë hequr pjesërisht cipa dhe embrioni dhe mbetja bluhet në një shkallë të përshtatshme imtësie.

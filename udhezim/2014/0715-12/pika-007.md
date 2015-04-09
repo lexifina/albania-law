@@ -1,1 +1,0 @@
-7. Mielli i grurit nuk duhet të ketë mykotoksina më shumë se vlera maksimale e lejuar për këtë produkt në përcaktimet e udhëzimit nr. 13, datë 29.9.2010, “Për vendosjen e niveleve maksimale për disa kontaminues në produktet ushqimore”.

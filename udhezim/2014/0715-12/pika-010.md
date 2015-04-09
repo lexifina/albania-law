@@ -1,1 +1,0 @@
-10. Ambalazhet duhet të jenë të sigurta dhe të përshtatshme për qëllimin e përdorimit. Ato nuk duhet të mbartin asnjë substancë toksike dhe nuk duhet të kenë shije dhe erë të padëshirueshme për produktin. Kur produkti është paketuar në thasë, ato duhet të jenë të pastër, të fortë, të qepur shumë mirë ose të ngjitur mirë.
