@@ -1,0 +1,1 @@
+5. Brenda 3 ditëve kalendarike nga data e njoftimit, kandidatët që nuk janë kualifikuar kanë të drejtë të paraqesin ankesë pranë Sekretarit të Përgjithshëm në MMSR. Ankuesi merr përgjigje brenda 5 ditë pune nga data e depozitimit të saj.
