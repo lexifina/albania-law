@@ -1,0 +1,1 @@
+23. Fondi i akorduar për institucionet shtetërore sipas germave “a” dhe “b” të pikës 5 të këtij udhëzimi përdoret prej tyre në përputhje me projektin e miratuar dhe me udhëzimin “Për procedurat standarde të zbatimit të buxhetit”. Fondi i papërdorur nga institucionet shtetërore deri në fund të vitit buxhetor, mbartet në vitin pasardhës.

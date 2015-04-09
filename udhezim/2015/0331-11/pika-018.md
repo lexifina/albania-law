@@ -1,0 +1,1 @@
+18. Agjencia paraqet urdhërshpenzimin në strukturën përgjegjëse për Thesarin në degë për transferimin e shumës së përcaktuar në pikën 17 më sipër në llogarinë bankare të organizatave jofitimprurëse (sipas germës “c” të pikës 5).

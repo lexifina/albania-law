@@ -1,0 +1,1 @@
+4. Kërkesat për financimin e projekteve, paraqiten pranë Agjencisë për t’u shqyrtuar dhe vlerësuar dokumentacioni përkatës sipas njoftimit të publikuar në faqen zyrtare të Agjencisë dhe Ministrisë së Financave.

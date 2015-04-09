@@ -1,0 +1,1 @@
+11. Agjencia e Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara brenda 30 ditëve kalendarike nga paraqitja e kërkesave për financim, harton një listë me projektet e paraqitura, duke i renditur ato sipas rëndësisë dhe nevojës së financimit.

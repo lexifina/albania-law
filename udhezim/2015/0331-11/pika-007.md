@@ -1,0 +1,1 @@
+7. Kërkesat për financim duhet të përmbajnë të dhëna të qarta për qëllimin, objektivat specifikë, veprimtaritë që do të kryhen për realizimin e tyre, buxhetin dhe rezultatet e synuara. Projektet, sipas natyrës së tyre, përgatiten për një periudhë kohore të nevojshme për realizimin, e cila nuk mund të tejkalojë kufirin e një viti financiar.

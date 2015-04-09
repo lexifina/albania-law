@@ -1,0 +1,1 @@
+14. Ministri i Financave, mbështetur në rekomandimin e Komitetit, brenda 15 ditëve kalendarike, nga paraqitja e rekomandimeve, vendos me urdhër të posaçëm, financimin e projektit dhe mënyrat e përdorimit të fondit të vënë në dispozicion të kërkuesit.

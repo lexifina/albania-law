@@ -1,0 +1,1 @@
+8. Institucionet qendrore dhe njësitë e qeverisjes vendore, sipas pikës 5 të këtij udhëzimi, duhet të paraqesin për shqyrtim pranë Agjencisë së Administrimit të Pasurive të Sekuestruara dhe të Konfiskuara kërkesën për financimin nga Fondi i Posaçëm për Parandalimin e Kriminalitetit, projektpropozimin dhe çdo dokument shtesë që mund të kërkojë Agjencia dhe/ose Komiteti.

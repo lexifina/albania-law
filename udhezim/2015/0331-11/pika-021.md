@@ -1,0 +1,1 @@
+21. Subjektet përfituese nga Fondi i Posaçëm për Parandalimin e Kriminalitetit, të parashikuara në germën “c”, të pikës 5, të këtij udhëzimi, përveç informacionit të kërkuar sipas pikës 20, duhet të paraqesin raportet financiare dhe teknike dy herë; në përfundim të gjysmës së parë të projektit (afatmesëm) dhe në fund të projektit (final).

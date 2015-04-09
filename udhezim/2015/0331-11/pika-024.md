@@ -1,0 +1,2 @@
+24. Pjesa e Fondit të Posaçëm në emër të Agjencisë që nuk përdoret për shkak të mungesës së projekteve apo mospërfshirjes së tyre në skemën e financimit, në zbatim të aktit ligjor përkatës (aktit normativ etj.) kontabilizohet në SIFQ në llogarinë e Thesarit të Ministrisë së Financave, si “Mjete në ruajtje” dhe përdoret vetëm me urdhër të ministrit të Financave.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
