@@ -1,0 +1,28 @@
+{
+  "qbz_id": 11853,
+  "title": "Për Policinë Ushtarake në Forcat e Armatosura të Republikës së Shqipërisë",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "13",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-02-26",
+  "published": "2015-03-25",
+  "in_force": "2015-04-09",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/73214c4d57c9a9489f185ff4efc66d36838e1ce668d94e7b4f8c0d6b6cda0341.docx",
+  "source_sha256": "73214c4d57c9a9489f185ff4efc66d36838e1ce668d94e7b4f8c0d6b6cda0341",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11853",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/02/26/13",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    24851
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
