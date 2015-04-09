@@ -1,0 +1,28 @@
+{
+  "qbz_id": 65680,
+  "title": "Për licencimin e shoqërisë “Devoll Hidropower” sh.a. në aktivitetin e tregtimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "35",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2015-03-04",
+  "published": "2015-04-09",
+  "in_force": "2015-04-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/52c2962420c1ece1e90610b0a6ba6476d028c1b9d8bd8bdcf4209c682cff0547.docx",
+  "source_sha256": "52c2962420c1ece1e90610b0a6ba6476d028c1b9d8bd8bdcf4209c682cff0547",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65680",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/03/04/35",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    60953
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
