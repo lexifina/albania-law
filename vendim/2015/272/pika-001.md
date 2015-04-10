@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitin 2015, t’i shtohet fondi prej 37 580 314 (tridhjetë e shtatë milionë e pesëqind e tetëdhjetë mijë e treqind e katërmbëdhjetë) lekësh, në programin 01110, “Planifikim, mena-xhim, administrim”, për shpenzime kapitale.
