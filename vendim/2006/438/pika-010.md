@@ -1,1 +1,0 @@
-10. Pas deklarimit fillestar dhe kualifikimit për legalizim njësia e qeverisjes vendore njofton subjektin deklarues për plotësimin e dokumentacionit. Dosjet për objektet e kualifikuara për përjashtim ose pezullim i dërgohen ALUIZNI-t. Pas shqyrtimit të këtij të fundit brenda një muaji i kthehen njësive të qeverisjes vendore, të cilat i arkivojnë dhe njoftojnë deklaruesit.
