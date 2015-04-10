@@ -1,1 +1,0 @@
-1. Miratimin e rregullores për normat dhe standardet minimale urbanistike, për urbanizimin e zonave informale, që i bashkëlidhet këtij vendimi, miratuar me vendimin nr.1, datë 21.11.2006 të KRRTRSH-së.
