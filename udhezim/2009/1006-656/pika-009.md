@@ -1,1 +1,0 @@
-9. Certifikatat përgatiten në dy kopje, njëra prej të cilave i jepet përkatësisht titullarit të subjektit dhe drejtuesit teknik, ndërsa kopja tjetër kundërfirmoset përkatësisht nga titullari dhe drejtuesi teknik. Këto administrohen së bashku me dokumentet që kanë shërbyer si bazë e dhënies së tyre në kartotekën (sekretarinë) e Departamentit të Sigurisë Publike.

@@ -1,1 +1,0 @@
-33. Drejtoritë e policisë në qarqe, në muajt janar dhe korrik të çdo viti, hartojnë plane të veçanta kontrolli për periudhën 6-mujore, për të gjitha shërbimet e SHRSF-ve dhe të aktivitetit të raportuar për territorin e tyre. Ky plan kontrolli të ndiqet e zbatohet nga sektori përkatës i DPQ-së, në bashkëpunim me strukturat e tjera brenda drejtorisë dhe me komisariatet e policisë.

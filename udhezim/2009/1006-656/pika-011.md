@@ -1,1 +1,0 @@
-11. Drejtoria e Përgjithshme e Policisë, nëpërmjet strukturave të saj, pranon dhe shqyrton dokumentacionin për subjektet që kanë aplikuar për licencim në fushën e “shërbimit të ruajtjes dhe sigurisë fizike”, pranë QKL, sipas përcaktimeve të parashikuara në aktet ligjore e nënligjore e që rregullojnë këtë veprimtari.

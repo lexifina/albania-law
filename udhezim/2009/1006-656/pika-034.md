@@ -1,1 +1,0 @@
-34. Për çdo kontroll të ushtruar ndaj SHRSF-ve përpilohet akti i kontrollit, i firmosur nga të pranishmit; një kopje i lihet drejtuesit teknik dhe një kopje administrohet në dosjen e SHRSF-së. Kur konstatohen shkelje, përpilohet procesverbali i konstatimit dhe më pas procedohet sipas rastit, për masë administrative ose penale.

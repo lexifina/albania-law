@@ -1,1 +1,0 @@
-7. Komisioni i testimit të njohurive profesionale në Departamentin për Trajnimin Policor, në datën e përcaktuar mblidhet dhe zhvillon testimin vlerësues, duke vlerësuar nëse kandidati është ose jo i aftë nga ana profesionale për kryerjen e detyrës së drejtuesit teknik të SHRSF-së. Në përfundim, vlerësimin e dërgon menjëherë pranë KSHKC-së.

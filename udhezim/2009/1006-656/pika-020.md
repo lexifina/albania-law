@@ -1,1 +1,0 @@
-20. Komisioni i testimit të njohurive profesionale në DPQ, jo më pak se një herë në muaj, mblidhet dhe zhvillon testimin vlerësues sipas rregullave të përcaktuara nga Drejtori i Përgjithshëm i Policisë, duke vlerësuar nëse kandidati është ose jo i aftë nga ana profesionale për kryerjen e detyrës së punonjësit të shërbimit të SHRSF-së.

@@ -1,1 +1,0 @@
-36. Komisioni i shqyrtimit të kërkesave për certifikim, në DPQ dhe në DPPSH, është njëkohësisht struktura që do të merret me shqyrtimin e vlerësimin e shkeljeve administrative të ligjit nr.8770, datë 19.4.2001 “Për shërbimin e ruajtjes dhe sigurisë fizike”, të ndryshuar.

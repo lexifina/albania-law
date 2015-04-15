@@ -1,7 +1,0 @@
-5. Për pranimin, verifikimin dhe shqyrtimin e dokumenteve për certifikim, të paraqitura sipas pikave 3 dhe 4 të këtij akti, nga specialistët përkatës, ndiqet kjo radhë pune:
-a) Dokumentet paraqiten në DPPSH, te specialisti i ngarkuar me këtë detyrë, i cili kërkon nga subjekti plotësimin e formularëve përkatës, sipas rubrikave dhe në fund i nënshkruan ato edhe vetë, duke vërtetuar vërtetësinë e plotësimit të tyre nga kandidati.
-b) Me marrjen në dorëzim të dokumentacionit sipas pikave 3, 4 dhe 17 të këtij udhëzimi pranuesi plotëson në dy kopje vërtetimin e pranimit të dokumenteve, sipas formularit model 4, bashkëlidhur dhe pjesë e këtij udhëzimi, ku njërën ia bashkëlidh dokumentacionit dhe tjetrën ia jep aplikuesit.
-c) Së bashku me vërtetimin model 4, aplikuesit i jepet një kopje e programit të testimit të njohurive profesionale.
-d) Dokumentet e pranuara regjistrohen brenda ditës në sekretari dhe njëkohësisht nga specialisti përkatës përgatitet e dërgohet kërkesa për përpilimin e vërtetimit të besueshmërisë së kandidatit, sipas kërkesës së paraqitur, te drejtoria e policisë së qarkut (DPQ), në të cilën ndodhet vendbanimi i përhershëm i tij.
-e) Vetëdeklarimi (për verifikimin e gjendjes gjyqësore) dërgohet me shkresë përcjellëse për verifikim te struktura e policisë e ngarkuar me këtë detyrë, duke sqaruar edhe arsyet e verifikimit.
-f) Për drejtuesin teknik, bëhet kërkesa për testimin e njohurive profesionale.

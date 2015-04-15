@@ -1,1 +1,0 @@
-19. Drejtoria e policisë qarkut dhe komisariati i policisë që ka në juridiksion vendbanimin e përhershëm të kandidatit, brenda 20 ditëve nga dita e marrjes së kërkesës, përgatit dhe dërgon vërtetimin e besueshmërisë sipas procedurave dhe rregullave të përcaktuara nga Drejtori i Përgjithshëm i Policisë.

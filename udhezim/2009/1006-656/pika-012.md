@@ -1,1 +1,0 @@
-12. Struktura përkatëse në DPPSH, pasi merr aplikimin nga QKL-ja, kryen procedurat për verifikimin e kërkesës së subjektit duke u bazuar në materialet që kanë shërbyer për dhënien e certifikatave për drejtues teknik dhe për titullarë të subjektit, si dhe, kur është e nevojshme apo kur ka kaluar një afat mbi 6 muaj nga lëshimi i tyre, kryen veprime të tjera shtesë verifikuese.

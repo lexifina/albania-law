@@ -1,3 +1,0 @@
-18. Për pranimin, verifikimin e shqyrtimit të kërkesave për certifikimin e punonjësve të shërbimit të SHRSF-së, në DPQ ndiqen e zbatohen procedurat e përcaktuara në germat “a”, “b”, “c” dhe “d” të pikës 5 të këtij udhëzimi. Sektori përkatës në drejtorinë e policisë së qarkut kërkon kryerjen edhe të këtyre procedurave:
-a) përgatitjen e dokumentit të vërtetimit të besueshmërisë, nga komisariati i policisë, duke pasqyruar adresën e vendbanimit të kandidatit dhe arsyet e kërkesës;
-b) përgatitjen dhe kryerjen e procedurave të testimit profesional për kandidatin nga komisioni përkatës i ngritur pranë DPQ-së.

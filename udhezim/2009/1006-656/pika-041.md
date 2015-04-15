@@ -1,2 +1,0 @@
-41. Udhëzimi i Ministrit të Brendshëm nr.1487 datë 21.6.2001 “Për procedurat e dhënies dhe heqjes së licencave dhe lejeve për shoqëritë e ruajtjes dhe sigurisë fizike”, të ndryshuar, si dhe udhëzimi i Ministrit të Brendshëm nr.1488, datë 21.6.2001 “Për kontrollin e kryerjes së shërbimit nga shoqëritë e ruajtjes dhe të sigurisë fizike”, shfuqizohen.
-Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
