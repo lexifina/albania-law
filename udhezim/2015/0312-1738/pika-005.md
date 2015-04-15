@@ -1,0 +1,1 @@
+5. Infrastrukturën shtesë që nevojitet për venddepozitimin që do të mbyllet (rrugët, kanalizimet, rrethimin e jashtëm, pemëzimin, ndërtesën e shërbimeve, mjetet dhe makineritë që do të shërbejnë në mirëmbajtje etj.);
