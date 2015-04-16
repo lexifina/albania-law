@@ -1,0 +1,30 @@
+{
+  "qbz_id": 55859,
+  "title": "Për krijimin e Këshillit të Investimeve",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "294",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-04-08",
+  "published": "2015-04-16",
+  "in_force": "2015-04-16",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4013230f2a40ece9416a5e9bba45a6fb314dda3a87c8313af08ed75308d0aad3.docx",
+  "source_sha256": "4013230f2a40ece9416a5e9bba45a6fb314dda3a87c8313af08ed75308d0aad3",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55859",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/04/08/294",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27156,
+    20741,
+    61577
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
