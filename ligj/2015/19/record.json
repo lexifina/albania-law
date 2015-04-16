@@ -1,0 +1,26 @@
+{
+  "qbz_id": 62563,
+  "title": "Për një shtesë dhe ndryshim në ligjin nr. 7746, datë 28.7.1993, “Për hidrokarburet (kërkimi dhe prodhimi)”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "19",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-03-12",
+  "published": "2015-04-01",
+  "in_force": "2015-04-16",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/cf7d142a69e41cfcb28fce553133f3dfb20db706609e32087337226861cb8f8c.docx",
+  "source_sha256": "cf7d142a69e41cfcb28fce553133f3dfb20db706609e32087337226861cb8f8c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62563",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/03/12/19",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
