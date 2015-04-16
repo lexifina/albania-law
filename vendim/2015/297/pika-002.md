@@ -1,0 +1,1 @@
+2. Përcaktimi i anëtarëve të Këshillit, sipas shkronjave “b”, “c”, “ç”, “d” e “dh”, të pikës 1, të këtij vendimi, kryhet nga institucionet përgjegjëse që marrin pjesë në këtë Këshill, me kërkesën e ministrit përgjegjës për çështjet sociale.
