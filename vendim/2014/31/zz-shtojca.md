@@ -1,0 +1,3 @@
+# Shtojca
+Lidhja 1
+TERRITORI I ZONËS BREGDETARE
