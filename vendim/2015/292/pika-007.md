@@ -1,0 +1,1 @@
+7. Të dhënat që administrohen në regjistrin e armëve u vihen në dispozicion, sa herë që kërkohen, organeve të drejtësisë, në përputhje me qëllimin e përpunimit, sipas legjislacionit për mbrojtjen e të dhënave personale.
