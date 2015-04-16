@@ -1,0 +1,1 @@
+1. Miratimin e llojeve të armatimit, lëndëve neuroparalizuese dhe mjeteve të tjera të përdorimit të forcës nga strukturat e Policisë së Shtetit, sipas lidhjes që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
