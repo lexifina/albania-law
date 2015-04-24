@@ -1,0 +1,2 @@
+Miratimin e protokollit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Portugalisë, për zbatimin e marrëveshjes, ndërmjet Republikës së Shqipërisë dhe Komunitetit Evropian, për ripranimin e personave me qëndrim të paautorizuar, nënshkruar në Luksemburg, më 14 prill 2005, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
