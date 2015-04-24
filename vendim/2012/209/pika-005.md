@@ -1,1 +1,0 @@
-5. Shqyrtimi i dokumentacionit për miratimin e depos/depove për magazinimin e lëndëve plasëse për përdorim civil dhe kthimi i përgjigjes bëhet nga komisariati i policisë, brenda 25 (njëzet e pesë) ditëve nga data e aplikimit për marrjen e tij.

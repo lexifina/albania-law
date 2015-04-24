@@ -1,4 +1,0 @@
-9. Subjektet që kërkojnë paraprakisht të pajisen me autorizim për transferimin e lëndëve plasëse për përdorim civil, me qëllim pajisjen nga Ministria e Mbrojtjes me licencë për import, eksport dhe prodhim të lëndëve plasëse për përdorim civil, duhet të paraqesin këto dokumente në komisariatin e policisë;
-a) kërkesën me shkrim, në të cilën të përcaktohen tipi dhe targa e automjetit, si dhe kapaciteti mbajtës i lëndës plasëse, kapsolla dhe fitila;
-b) fotokopjen e lejes së drejtimit të drejtuesit të automjetit, sipas kritereve të përcaktuara në rregulloren e teknikës së sigurimit për përdorimin civil të lëndëve plasëse në Republikën e Shqipërisë;
-c) aktkolaudimin teknik të posaçëm për automjetin e transportit, sipas kritereve të përcaktuara në rregulloren e teknikës së sigurimit për përdorimin civil të lëndëve plasëse në Republikën e Shqipërisë.

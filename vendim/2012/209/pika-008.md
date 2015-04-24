@@ -1,1 +1,0 @@
-8. Shqyrtimi i dokumentacionit për transferimin e lëndëve plasëse për përdorim civil dhe kthimi i përgjigjes bëhet nga komisariati i policisë brenda 7 (shtatë) ditëve, kur transferimi kryhet brenda vendit dhe 10 (dhjetë) ditëve, kur lëndët plasëse vijnë nga jashtë vendit.
