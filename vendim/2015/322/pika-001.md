@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projekteve në parkun e Viroit, “Sistemim i parkut të Viroit, rikonstruksion i rrugës në parkun e Viroit nga ana e qytetit, ndriçim i trotuarit në parkun e Viroit nga ana e qytetit”.
