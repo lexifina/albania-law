@@ -1,0 +1,189 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+Autoriteti Rrugor Shqiptar
+Sektori i Shpronësimeve
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR LEVAN-VLORË (shtesat)
+Lloji i
+Pasurise
+Kultura bujqësore
+Vlera në lekë
+(sipas procesverbalit)
+P R O N A R I
+Sip.
+përgj
+Truall
+Arë
+Kullotë
+Erodive
+Vlera
+Vlera totale në
+NR
+Emri
+Atësia
+Mbiemri
+Z.Kad
+Nr. i pasurisë.
+m2
+m2
+m2
+m2
+m2
+leke/m2
+lekë
+Konfirmimi
+1
+B/P XHEMALI
+8605
+6/242
+210
+28
+8300
+232400
+Konfirmuar nga ZVRPP-ja
+2
+B/P HOXHA
+8605
+6/155
+2700
+588
+8300
+4880400
+Konfirmuar nga ZVRPP-ja
+3
+HYSNI
+BULLA
+1191
+21/63
+200
+200
+393
+78600
+Konfirmuar nga ZVRPP-ja
+4
+ARBEN
+ALIAJ
+1191
+96/24
+200
+200
+393
+78600
+Konfirmuar nga ZVRPP-ja
+5
+THYRJAT
+SAFET
+LIKAJ
+2838
+.6/44
+3000
+1127
+281
+316687
+Konfirmuar nga ZVRPP-ja
+6
+DERVISH
+HOXHA
+2870
+15/2
+1700
+293
+281
+82333
+Konfirmuar nga ZVRPP-ja
+7
+STOLI
+BULLA
+1191
+96/25
+450
+200
+393
+78600
+8
+RRAPI
+QARRI
+2689
+.7/55
+2338
+1976
+281
+555256
+Proces konfirmimi
+`
+9
+VIRJON
+HOXHA
+2870
+32/9
+900
+47382
+47382
+Konfirmuar nga ZVRPP-ja
+10
+AMARILDO
+PETRITAJ
+2765
+111
+4300
+2788
+197
+549236
+Konfirmuar nga ZVRPP-ja
+11
+AMARILDO
+PETRITAJ
+2765
+114
+6200
+3254
+197
+641038
+Konfirmuar nga ZVRPP-ja
+12
+AMARILDO
+PETRITAJ
+2765
+116
+5800
+5800
+197
+1142600
+Konfirmuar nga ZVRPP-ja
+13
+AMARILDO
+PETRITAJ
+2765
+120
+1400
+1400
+197
+275800
+Konfirmuar nga ZVRPP-ja
+14
+REDI
+RAIT
+LLANAJ
+1191
+2
+10000
+2144000
+2144000
+Konfirmuar nga ZVRPP-ja
+15
+MAKSIM
+MOLLA
+8605
+6/264
+91
+91
+8300
+755300
+Konfirmuar nga ZVRPP-ja
+SHUMA
+1307
+3396
+6042
+7200
+2191382
+11858232

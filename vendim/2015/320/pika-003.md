@@ -1,0 +1,3 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “arë”, “truall”, “kullotë”, “erodive” dhe “kultura bujqësore”, me vlerë të përgjithshme shpronësimi prej 11 858 232 (njëmbëdhjetë milionë e tetëqind e pesëdhjetë e tetë mijë e dyqind e tridhjetë e dy) lekësh, nga të cilat:
+a) për tokë “arë”, “truall”, “kullotë”, dhe “erodive”, me sipërfaqe 17 945m2, me vlerën 9 666 850 (nëntë milionë e gjashtëqind e gjashtëdhjetë e gjashtë mijë e tetëqind e pesëdhjetë) lekë;
+b) për “kultura bujqësore”, me vlerë 2 191 382 (dy milionë e njëqind e nëntëdhjetë e një mijë e treqind e tetëdhjetë e dy) lekë.
