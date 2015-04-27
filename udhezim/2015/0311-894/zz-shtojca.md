@@ -1,0 +1,5 @@
+# Shtojca
+MINISTRI I MBROJTJES
+Mimi Kodheli
+PROKURORI I PËRGJITHSHËM
+Adriatik Llalla

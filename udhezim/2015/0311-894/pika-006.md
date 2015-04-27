@@ -1,0 +1,1 @@
+6. Punonjësi i policisë/oficeri i policisë gjyqësore është i detyruar, që brenda ditës së marrjes së armës provë materiale, të bëjë hyrjen e saj, kundrejt dokumentacionit respektiv, në depon e armatimit të drejtorisë së policisë së qarkut apo të komisariatit të policisë, ku ai është efektiv.

@@ -1,0 +1,1 @@
+16. Provat materiale me përbërje eksplozivi dhe që nuk paraqesin rrezik shpërthimi në të gjitha rastet ruhen në magazinën/depon e armatimit të drejtorisë së policisë të qarkut ose të komisariatit të policisë.

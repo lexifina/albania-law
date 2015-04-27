@@ -1,0 +1,2 @@
+3. Oficeri i policisë gjyqësore, që ka kryer këqyrjen e vendit të ngjarjes apo sekuestrimin e provës materiale ose punonjësi i policisë i autorizuar, e dorëzojnë provën materiale, armën, në Drejtorinë e Policisë Shkencore, së bashku me vendimin e ekspertimit kundrejt firmës së marrësit e të dorëzuesit.
+Drejtoria e Policisë Shkencore administrimin e trajtimin e armës provë materiale e kryen sipas rregullave të brendshme të vendosura prej saj.

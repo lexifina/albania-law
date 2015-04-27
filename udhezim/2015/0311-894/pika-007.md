@@ -1,0 +1,1 @@
+7. Provat materiale në njësitë vendore të policisë ruhen në magazina të veçanta nga ato ku ruhet armatimi municioni e pajisjet organike të policisë. Në rastet e vendosjes së mosfillimit të procedimit, pushimit të çështjes ose parashkrimit të procedimit penal, lidhur me provat materiale, veprohet sipas urdhrit të Prokurorit.

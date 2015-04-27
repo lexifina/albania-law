@@ -1,0 +1,1 @@
+5. Arma provë materiale, që kthehet nga Drejtoria e Policisë Shkencore në njësinë policore që e ka dërguar, i dorëzohet së bashku me aktin e ekspertimit, kundrejt firmës punonjësit të policisë/oficerit të policisë gjyqësore që ka kryer këqyrjen e vendit të ngjarjes apo sekuestrimin e provës materiale.

@@ -1,0 +1,1 @@
+20. Provat materiale armatim, municion, lëndë plasëse, pasi ka dalë urdhri i prokurorit, Policia e Shtetit një herë në vit bën dorëzimin e armatimit, municionit, lëndës plasëse në Ministrinë e Mbrojtjes për t’i kaluar në procedura të tjera të asgjësimit, riparimit apo shitjes.

@@ -1,0 +1,1 @@
+10. Punonjësi i policisë/oficeri i policisë gjyqësore, jo më vonë se 24 orë nga dorëzimi i armës provë materiale në magazinë, vendos në dosjen hetimore respektive një kopje të dokumentit, fletëhyrjes së armës provë materiale në magazinë.

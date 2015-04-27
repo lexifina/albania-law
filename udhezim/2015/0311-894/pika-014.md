@@ -1,0 +1,1 @@
+14. Provat materiale me përbërje eksplozivi merren në vendin e ngjarjes, duke respektuar rregullat e shërbimit kriminalistik dhe rregullat e sigurimit teknik nga punonjësi i policisë/oficeri i policisë gjyqësore dhe eksperti kriminalist, që kryejnë këqyrjen e vendit të ngjarjes apo kanë sekuestruar provën materiale.

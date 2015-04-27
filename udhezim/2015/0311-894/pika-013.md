@@ -1,0 +1,2 @@
+13. Drejtoria e Policisë Shkencore mban për qëllime studimore (metodike e didaktike) armë të kapura, të zbuluara e të sekuestruara, vetëm pasi të ketë mbaruar procesi gjyqësor i shprehur në vendimin e formës së prerë. Procedura e mbajtjes së këtyre armëve bëhet sipas vendimit të Këshillit të Ministrave nr. 94, datë 4.2.2015, “Për procedurat për armët, në rastet e deklarimit të vdekjes, deklarimit të mbylljes ligjore të aktivitetit, për qëllime studimore, të humbjes së armës, vjedhjes së saj apo dokumentit/autorizimit”.
+II. Provat materiale me përbërje lëndë plasëse

@@ -1,0 +1,1 @@
+4. Eksperti kriminalist/oficeri i policisë gjyqësore në njësitë vendore të policisë, është përgjegjës për tërheqjen e provës materiale, së bashku me vendimet përkatëse nga Drejtoria e Policisë Shkencore.

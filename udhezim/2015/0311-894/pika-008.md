@@ -1,0 +1,1 @@
+8. Ndalohet mbajtja e armëve, municionit, lëndëve plasëse në zyrat e oficerëve të policisë gjyqësore, ekspertëve kriminalistë apo çdo punonjësi tjetër të policisë, prokurorëve e gjyqtarëve, përveç depos së caktuar për këtë qëllim.

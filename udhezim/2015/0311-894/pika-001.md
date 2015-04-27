@@ -1,0 +1,3 @@
+1. Armët e kapura, e zbuluara e të sekuestruara si provë materiale në vendngjarje apo në rrethana të tjera, të trajtohen me kujdes për mosdëmtimin e gjurmëve, të cilat ndikojnë në dokumentimin ligjor ose jo të veprës penale. Provat materiale merren në vendin e ngjarjes nga oficeri i policisë gjyqësore (OPGJ), i cili ka kryer këqyrjen e vendit të ngjarjes apo ka bërë sekuestrimin e provës materiale. Procesverbali i përshkrimit të armës, duhet të përmbajë detyrimisht:
+a) të dhëna për armën: tipi, kalibri, fabrika e prodhimit, modeli, numri i serisë;
+b) nëse ka shenja të veçanta apo ndryshime të konstruktit, apo sipërfaqes së armës.

@@ -1,0 +1,1 @@
+15. Prova materiale me përbërje eksplozive, që paraqesin rrezik për shpërthim, sekuestrimi dhe transportimi i tyre për në vende të sigurta bëhet me ndihmën e ekspertëve me njohuri të posaçme të specialistëve antieksplozivë.

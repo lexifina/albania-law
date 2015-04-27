@@ -1,0 +1,1 @@
+19. Me marrjen e vendimit të formës së prerë, prokurori nxjerr urdhrin për ekzekutimin e vendimit që kanë lidhje me disponimin e provave materiale armatim, municion, lëndë plasëse. Një kopje e vendimit i dërgohet njësisë së policisë që ruan provat materiale.

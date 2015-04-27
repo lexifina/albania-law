@@ -1,0 +1,1 @@
+2. Armët e sekuestruara si provë materiale, që merren në vendin e ngjarjes apo në rrethana të tjera, dërgohen për t’u ekzaminuar në Drejtorinë e Policisë Shkencore. Titullari i njësisë vendore të policisë merr masa për dërgimin e provës materiale (armë, municion) në Drejtorinë e Policisë Shkencore nën përgjegjësinë e ekspertit kriminalist/oficeri i policisë gjyqësore.
