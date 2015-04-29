@@ -1,0 +1,1 @@
+2. Regjistri i transfertave individuale plotësohet për çdo dokument dorëzimi dhe ruhet për një afat 3-vjeçar. Dorëzuesi dhe marrësi i mbetjeve të rrezikshme dërgojnë kopje të rregjistrit të transfertave individuale pranë Agjencisë Kombëtare të Mjedisit dy herë në vit, nga data 1 deri 15 maj dhe nga data 1 deri 15 nëntor.

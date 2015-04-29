@@ -1,0 +1,1 @@
+1. Regjistri i transfertave individuale të mbetjeve të rrezikshme mbahet nga dorëzuesi dhe marrësi i mbetjeve të rrezikshme në mënyrë të pavarur nga njëri-tjetri, sipas formatit në shtojcën 1 bashkëlidhur këtij urdhri.
