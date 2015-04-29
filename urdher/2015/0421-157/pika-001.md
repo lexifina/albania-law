@@ -1,0 +1,1 @@
+1. Licencimin e Agjencisë së Administrimit Kolektiv për të Drejtat e Artistëve Interpretë dhe/ose Ekzekutues të veprave, me të gjitha format e përcjelljes së interpretim/ekzekutimit të tyre në publik, AKDIE.
