@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni i rrugës “Unaza e jashtme e qytetit”, si dhe sistemimi i rrugës te lagjja “Cfake” pranë kasapit, në Bashkinë e Gjirokastrës.

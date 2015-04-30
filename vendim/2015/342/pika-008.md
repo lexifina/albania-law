@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë prej 1 931 (një mijë e nëntëqind e tridhjetë e një mijë) m², “truall”, dhe 887 (tetëqind e tetëdhjetë e shtatë) m², “kullotë pyjore” e “zallishte”, për rikonstruksionin e rrugës “Unaza e jashtme e qytetit”, si dhe sistemimin e rrugës te lagjja “Cfake” pranë kasapit, të bëhet në favor të Bashkisë së Gjirokastrës.
