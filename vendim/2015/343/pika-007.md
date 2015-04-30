@@ -1,0 +1,1 @@
+7. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyrat vendore të regjistrimit të pasurive të paluajtshme Berat e Skrapar të pezullojnë të gjitha transaksionet mbi këto pasuri deri në përfundim të procesit të kalimit të pronësisë së pasurive të shpronësuara në favor të OST, sh.a.-së.
