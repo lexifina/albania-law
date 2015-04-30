@@ -1,1 +1,0 @@
-2. Në Drejtorinë e Përgjithshme të Policisë së Shtetit të përcaktohen, me urdhër të ministrit të Rendit Publik, struktura që do të merret me çështjet e mbrojtjes së veçantë të personave të kërcënuar dhe detyrat funksionale të kësaj strukture.
