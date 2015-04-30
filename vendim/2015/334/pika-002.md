@@ -1,0 +1,1 @@
+2. Pasuria e mësipërme të përdoret në funksion të ndërtimit të godinës së re të Gjykatës së Rrethit Gjyqësor Elbasan dhe Prokurorisë së Rrethit Elbasan, me qëllim ushtrimin e veprimtarisë së këtyre institucioneve.

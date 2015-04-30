@@ -1,0 +1,1 @@
+1. Kalimin, në përgjegjësi administrimi të Ministrisë së Drejtësisë, të pasurisë së paluajtshme, të ndodhur në zonën kadastrale nr. 8525, me numër pasurie 26/71, me adresë: Lagjja “5 Maji”, Elbasan, për Gjykatën e Rrethit Gjyqësor Elbasan dhe Prokurorinë e Rrethit Elbasan, sipas kartelës dhe planvendosjes që i bashkëlidhen këtij vendimi.
