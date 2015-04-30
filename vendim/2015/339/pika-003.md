@@ -1,0 +1,1 @@
+3. Me pullën e kontrollit të barnave pajisen të gjithë prodhuesit, në Republikën e Shqipërisë, që prodhojnë barna, me destinacion tregun vendas, dhe të gjitha subjektet që, sipas ligjit, importojnë barna, me destinacion tregun vendas.

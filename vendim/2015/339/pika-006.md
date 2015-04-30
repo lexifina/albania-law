@@ -1,0 +1,1 @@
+6. Bari duhet të pajiset me pullën e kontrollit brenda një periudhe kohore prej 15 ditësh kalendarike, pas përfundimit të procedurës doganore në Republikën e Shqipërisë, për barnat e importuara, dhe pas paraqitjes së kërkesës, nga prodhuesit vendas.

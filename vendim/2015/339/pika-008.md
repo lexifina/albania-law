@@ -1,0 +1,1 @@
+8. Hedhja në treg, shitja me shumicë e me pakicë e barnave, nga subjektet, pa pullën e kontrollit, përbën shkelje të rregullave të fabrikimit e të tregtimit dhe ndëshkohet sipas shkronjës “ç”, të nenit 63, të ligjit nr. 105/2014, “Për barnat dhe shërbimin farmaceutik”.
