@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen, sipas vlerës përkatëse për sipërfaqen prej 87 (tetëdhjetë e shtatë) m², “ndërtesë”, në vlerën e përgjithshme 2 830 197 (dy milionë e tetëqind e tridhjetë mijë e njëqind e nëntëdhjetë e shtatë) lekë.

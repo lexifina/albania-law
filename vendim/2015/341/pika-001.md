@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, për rikonstruksionin e bulevardit “Osumi”, faza e parë, në Bashkinë e Beratit, sipas tabelës që i bashkëlidhet këtij vendimi.

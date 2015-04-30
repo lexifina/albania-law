@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 2 830 197 (dy milionë e tetëqind e tridhjetë mijë e njëqind e nëntëdhjetë e shtatë) lekë të përballohet nga të ardhurat e Bashkisë së Beratit, planifikuar në buxhetin e saj.
