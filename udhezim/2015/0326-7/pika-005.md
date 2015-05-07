@@ -1,0 +1,1 @@
+5. Nxënësit e klasave të IX-ta parapërgatitore për seksionet dygjuhëshe: italiane, gjermane dhe franceze, janë të lirë të zgjedhin midis gjuhës së huaj të parë që kanë filluar në klasën e III-të dhe gjuhës së huaj të seksionit përkatës të filluar në klasën e VI-të.

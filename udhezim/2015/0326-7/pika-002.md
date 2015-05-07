@@ -1,0 +1,1 @@
+2. Nxënësit e pakicave kombëtare (greke dhe maqedonase) zhvillojnë edhe provimin kombëtar të arsimit bazë në lëndën “Gjuhë amtare”. Provimi kombëtar i arsimit bazë në lëndën “Gjuhë amtare”, do të zhvillohet më datën 18 qershor 2015.
