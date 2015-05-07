@@ -1,0 +1,1 @@
+1. Katalogu i teksteve shkollore 2014-2015 është dokumenti ku do të mbështetet përzgjedhja e tekstit shkollor më cilësor nga mësuesit, për vitin shkollor 2015-2016, për klasat II - V të nivelit fillor, VII - IX të nivelit të mesëm të ulët dhe X - XII të nivelit të mesëm të lartë.
