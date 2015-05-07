@@ -1,0 +1,2 @@
+9. Ngarkohen për zbatimin e këtij urdhri, Sekretari i Përgjithshëm, Komiteti i Maturës Shtetërore, Drejtoria e Përgjithshme e Politikave Arsimore dhe Planifikimit Strategjik dhe Drejtoria e Arsimit Parauniversitar në MAS, Agjencia Kombëtare e Provimeve, Instituti i Zhvillimit të Arsimit, Inspektorati Shtetëror i Arsimit, drejtoritë arsimore rajonale dhe zyrat arsimore.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
