@@ -1,0 +1,1 @@
+1. Kontrolli, rregullat e hyrjes/daljes dhe regjistrimi i armëve në pikat e kalimit të kufirit shqiptar bëhen nga shërbimi doganor, Autoriteti i Kontrollit Shtetëror të Eksporteve (AKSHE) dhe nga Policia e Shtetit.

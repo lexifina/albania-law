@@ -1,0 +1,1 @@
+5. Kontrolli fizik dhe regjistrimi i armëve të shtetasve që hyjnë/dalin me autorizim për blerje/shitje, sipas shkronjës “a”, të pikës 4, të këtij vendimi, në pikat e kalimit bëhen nga punonjësi i policisë kufitare. Dokumenti i blerjes nënshkruhet nga punonjësi që bën kontrollin dhe regjistrimin.

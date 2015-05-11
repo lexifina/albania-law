@@ -1,0 +1,1 @@
+11. Vulosja realizohet nëpërmjet shtypjes me shkronja e numra. Vula e Shqipërisë shënohet “AL”, në një rreth me diametër 6 mm. Viti i importimit shënohet jashtë rrethit, me madhësi 3mm. Thellësia minimale e brazdës bëhet me, të paktën, 0,1 mm. nëse vendoset në një pjesë metalike, dhe, të paktën, 0,3 mm., nëse realizohet në një pjesë polimer.

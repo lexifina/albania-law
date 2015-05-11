@@ -1,0 +1,1 @@
+6. Në rastet kur punonjësi i policisë kufitare, gjatë kontrollit, gjen armë, pjesë arme dhe municion, të cilat subjekti i licencuar/fizik nuk i ka në dokumente ose ato janë armë dhe municion që nuk përfshihen në licencë/autorizim, punonjësi i policisë /doganës duhet të sekuestrojë armën dhe municionin.

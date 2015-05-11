@@ -1,0 +1,1 @@
+15. Procesi i vulosjes kryhet edhe për armët që çaktivizohen. Një proces i tillë bëhet për armët e kategorive “A”, “B” dhe “C”. Pas procesit teknik të paaftësimit, armët shënohen me shkronjën “D”. Vulosja e këtyre armëve bëhet nga subjekte shtetërore të licencuara për prodhim ose riparim armësh.

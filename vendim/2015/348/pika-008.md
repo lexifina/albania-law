@@ -1,0 +1,3 @@
+8. Regjistrimi i armëve që hyjnë e dalin në pikat e kalimit kufitar bëhet në “Regjistrin e hyrjes/daljes së armëve në pikën e kalimit kufitar në Republikën e Shqipërisë”, regjistri 1, që i bashkëlidhet këtij vendimi. Regjistrimi i të dhënave të armëve në regjistër bëhet nga punonjësi i policisë kufitare, sipas dokumentit të blerjes së armëve, të përmendur në shkronjën “ç”, të pikës 2, të këtij vendimi.
+Regjistrimi i të dhënave të armëve të zjarrit, gjuetisë e atyre sportive për ekspozitë të shtetasve me autorizime të përkohshme, (si armë që hyjnë përkohësisht) bëhet nga punonjësi i policisë kufitare.
+II. PROCEDURA E VULOSJES SË ARMËVE

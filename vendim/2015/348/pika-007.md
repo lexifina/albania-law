@@ -1,0 +1,1 @@
+7. Punonjësi i policisë kufitare kryen veprimet procedurale penale të nevojshme dhe, kur shkelja përbën vepër penale, referon rastin në organin kompetent të prokurorisë. Armët e sekuestruara, në cilësinë e provës materiale, administrohen, në përputhje me rregullat e Kodit të Procedurës Penale dhe aktet ligjore e nënligjore në fuqi.

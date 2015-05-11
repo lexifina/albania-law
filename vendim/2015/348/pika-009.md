@@ -1,0 +1,1 @@
+9. Vulosja për import është shënjimi shtesë që aplikohet mbi armët e zjarrit të kategorive “B” e “C”, të cilat importohen në Republikën e Shqipërisë. Vulosja është detyrim i subjektit të licencuar për import-eksportin e armëve të zjarrit, pjesëve dhe municioneve të tyre.
