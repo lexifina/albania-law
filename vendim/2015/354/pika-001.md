@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private të paluajtshme, që preken nga ndërtimi i segmentit rrugor “Unaza e Madhe e Tiranës” (“Komuna e Parisit” - “Rruga e Kavajës”, shtesat).

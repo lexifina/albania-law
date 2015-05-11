@@ -1,0 +1,1 @@
+4. Vlera përgjithshme e shpronësimit, prej 213 163 617.8 (dyqind e trembëdhjetë milionë e njëqind e gjashtëdhjetë e tre mijë e gjashtëqind e shtatëmbëdhjetë pikë tetë) lekësh, të përballohet nga buxheti i vitit 2015, miratuar për Ministrinë e Transportit dhe Infrastrukturës, zëri “Shpronë-sime”, planifikuar për Autoritetin Rrugor Shqiptar.
