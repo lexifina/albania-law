@@ -1,0 +1,5 @@
+3. Pragjet e vlerësimit
+3.1 Pragjet e sipërme dhe të poshtme të vlerësimit që zbatohen për dyoksidin e squfurit, dyoksidin e azotit dhe oksidet e azotit, lëndën e ngurtë pezull (PM10 dhe PM 2.5), plumbin, benzenin dhe monoksidin e karbonit brenda një zone ose aglomerati janë të përcaktuara në seksionin A, të aneksit II, që i bashkëlidhet këtij vendimi.
+3.2 Agjencia Kombëtare e Mjedisit (AKM) klasifikon zonat dhe aglomeratet sipas kapërcimit ose jo të pragjeve të sipërme ose të poshtme të vlerësimit referuar në pikën 3.1.
+3.3 AKM-ja rishikon klasifikimin e zonave dhe aglomerateve referuar në pikën 3.2, të paktën çdo pesë vjet dhe më shpesh se pesë vjet, në qoftë se ka ndryshime thelbësore në aktivitetet që mund të ndikojnë në nivelet e dyoksidit të squfurit, dyoksidit të azotit dhe oksideve të azotit, lëndës së ngurtë pezull (PM10 dhe PM 2.5), plumbit, benzenit dhe monoksidit të karbonit në ajrin e mjedisit.
+3.4 AKM-ja rishikon zonat dhe aglomeratet referuar në pikën 3.3, në përputhje me procedurat e përcaktuara në seksionin B, të aneksit II, që i bashkëlidhet këtij vendimi.

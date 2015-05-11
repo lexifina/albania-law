@@ -1,0 +1,8 @@
+20. Objektivat afatgjatë për ozonin
+20.1 Ministria, ministritë e linjës sipas rastit dhe njësitë e qeverisjes vendore, duke vepruar sipas kompetencave që kanë për fushat që ato mbulojnë,:
+a) marrin të gjitha masat e nevojshme pa kosto joproporcionale për të siguruar arritjen e vlerave të synuara dhe objektivave afatgjatë për ozonin, përcaktuar në aneksin VII, bashkëlidhur këtij vendimi;
+b) për ato zona dhe aglomerate, ku vlera e synuar, referuar në shkronjën “a”, të kësaj pike, është kapërcyer, sigurojnë që programi përkatës për tavanet kombëtare të shkarkimeve dhe, në qoftë se është e përshtatshme, plani i menaxhimit të cilësisë së ajrit për arritjen e kësaj vlere të synuar të zbatohet për aq sa kjo vlerë e synuar është e arritshme nëpërmjet masave pa kosto joproporcionale duke filluar nga data e përcaktuar në seksionin B, të aneksit VII, bashkëlidhur këtij vendimi;
+c) për ato zona ose aglomerate, ku nivelet e ozonit në ajrin e mjedisit janë më poshtë ose të barabarta me vlerat e synuara, por më lart se objektivat afatgjatë, përgatitin dhe zbatojnë masa me kosto efektive me qëllim arritjen e këtyre objektivave afatgjatë. Masa të tilla duhet, të paktën, të jenë në harmoni me programin dhe të gjitha planet për cilësinë e ajrit të referuara në shkronjën “b”, të kësaj pike;
+ç) për ato zona dhe aglomerate, ku nivelet e ozonit arrijnë objektivat afatgjatë, marrin masat e nevojshme proporcionale:
+i) për të mbajtur nivelet nën objektivat afatgjatë, për aq sa e lejojnë faktorët, përfshirë natyrën ndërkufitare të ndotjes së ozonit dhe kushtet meteorologjike;
+ii) për të ruajtur cilësinë më të mirë të ajrit të mjedisit, në përputhshmëri me zhvillimin e qëndrueshëm dhe nivelin e lartë të mbrojtjes së mjedisit dhe shëndetit publik.

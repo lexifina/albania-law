@@ -1,0 +1,4 @@
+19. Nivelet kritike për mbrojtjen e bimësisë
+19.1 Ministria siguron përputhshmërinë me nivelet kritike për mbrojtjen e bimësisë, të përcaktuara aneksin XIII, siç vlerësohet, në përputhje me kërkesat e përcaktuara në seksionin A, të aneksit III, bashkëlidhur këtij vendimi.
+19.2 Për qëllime të pikës 19.1, kur matjet fikse janë burimi i vetëm i informacionit për vlerësimin e cilësisë së ajrit, numri i pikave të marrjes së mostrave nuk duhet të jetë më i vogël se numri minimal i përcaktuar në seksionin C, të aneksit V, bashkëlidhur këtij vendimi.
+19.3 Për qëllime të pikës 19.1, kur matjet fikse plotësohen nga matjet treguese ose modelimi, numri minimal i pikave të marrjes së mostrave mund të pakësohet deri në 50% për aq kohë sa përqendrimet e vlerësuara të ndotësve përkatës mund të përcaktohen, në përputhje me objektivat për cilësinë e të dhënave, përcaktuar në seksionin A të aneksit I, bashkëlidhur këtij vendimi.

@@ -1,0 +1,3 @@
+7. Kriteret e vlerësimit për ozonin
+7.1 AKM-ja vlerëson nivelin e ozonit në të gjitha zonat dhe aglomeratet ku përqendrimet e ozonit kanë kapërcyer objektivat afatgjatë të përcaktuar në seksionin C, të aneksit VII, bashkëlidhur këtij vendimi, gjatë secilit prej pesëvjeçarëve të mëparshëm të matjeve.
+7.2 Kur janë të disponueshme të dhëna për më pak se pesë vjet, AKM-ja mund të kombinojë rezultatet nga fushatat e matjeve për kohëzgjatje të shkurtra të kryera, ku dhe kur nivelet e ozonit kanë mundësi të jenë më të lartat me rezultatet e përftuara nga inventarët e shkarkimeve dhe modelimi, me qëllim që të përcaktohet në qoftë se objektivat afatgjatë të referuar në pikën 7.1 janë kapërcyer gjatë këtyre pesë vjetëve.

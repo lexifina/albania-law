@@ -1,0 +1,8 @@
+17. Vlerat kufi dhe pragjet e alarmit për mbrojtjen e shëndetit
+17.1 Ministria, ministritë e linjës sipas rastit dhe njësitë e qeverisjes vendore, duke vepruar sipas kompetencave që kanë për fushat që ato mbulojnë, sigurojnë që gjatë zonave dhe aglomerateve nivelet e:
+a) dyoksidit të squfurit, PM10, plumbit dhe monoksidit të karbonit në ajrin e mjedisit të mos kapërcejnë vlerat kufi të përcaktuara në aneksin XI, bashkëlidhur këtij vendimi;
+b) dyoksidit të azotit dhe benzenit në ajrin e mjedisit të mos kapërcejnë vlerat kufi të përcaktuara në aneksin XI, bashkëlidhur këtij vendimi, nga datat e përcaktuara në atë aneks.
+17.2 Përputhshmëria me kërkesat e përcaktuara në shkronjat “a” dhe “b”, të pikës 17.1, vlerësohet në përputhje me përcaktimin e aneksit III, bashkëlidhur këtij vendimi.
+17.3 Për qëllime të shkronjave “a” dhe “b”, të pikës 17.1, zbatohen marzhet e tolerancës të përcaktuara në aneksin XI, bashkëlidhur këtij vendimi.
+17.4 Pragu i alarmit për përqendrimet e dyoksidit të squfurit dhe dyoksidit të azotit në ajrin e mjedisit përcaktohet në seksionin A, të aneksit XII, bashkëlidhur këtij vendimi.
+17.5 Në zona dhe aglomerate, ku nivelet e dyoksidit të squfurit, dyoksidit të azotit, PM10, PM2,5, plumbit, benzenit dhe monoksidit të karbonit në ajrin e mjedisit janë nën vlerat përkatëse kufi, të përcaktuara në anekset XI dhe XIV, bashkëlidhur këtij vendimi, ministria, ministritë e linjës sipas rastit dhe njësitë e qeverisjes vendore, duke vepruar sipas kompetencave që kanë për fushat që ato mbulojnë, sigurojnë mbajtjen e niveleve të këtyre ndotësve nën vlerat kufi dhe përpiqen të ruajnë cilësinë më të mirë të ajrit të mjedisit, në përputhshmëri me zhvillimin e qëndrueshëm.
