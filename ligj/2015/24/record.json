@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56337,
+  "title": "Për një shtesë në ligjin nr. 48/2014, “Për pagesat e vonuara në detyrimet kontraktore e tregtare”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "24",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-03-19",
+  "published": "2015-04-27",
+  "in_force": "2015-05-12",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/197709aa17a3849eaf1f4d0ef9d3a372a9ddf05331e1f01c0efaf86cf6be1e58.docx",
+  "source_sha256": "197709aa17a3849eaf1f4d0ef9d3a372a9ddf05331e1f01c0efaf86cf6be1e58",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56337",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/03/19/24",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
