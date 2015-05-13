@@ -1,0 +1,1 @@
+1. Miratimin e “Manualit të përgjithshëm të inspektimit në Republikën e Shqipërisë”, sipas lidhjes “Manuali i përgjithshëm i inspektimit në Republikën e Shqipërisë”, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

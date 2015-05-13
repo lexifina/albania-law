@@ -1,0 +1,1 @@
+3. Inspektoratet shtetërore të përshtatin proceset e inspektimit, në përputhje me veçoritë dhe kërkesat e “Manualit të përgjithshëm të inspektimit”, brenda gjashtë muajve nga hyrja në fuqi e këtij urdhri.

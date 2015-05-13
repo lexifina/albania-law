@@ -1,0 +1,1 @@
+2. Manuali i përgjithshëm i inspektimit në Republikën e Shqipërisë zbatohet nga të gjithë punonjësit e Inspektoratit Qendror dhe inspektorateve shtetërore, gjatë ushtrimit të funksioneve dhe detyrave të tyre zyrtare.
