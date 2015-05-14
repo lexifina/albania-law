@@ -1,0 +1,1 @@
+1. Autorizimet për përfaqësimin ligjor të Ministrisë së Punëve të Jashtme në proceset gjyqësore, prokurori, zyrat e përmbarimit gjyqësor, të lëshohen nga drejtori i Drejtorisë së Shërbimeve të Brendshme dhe Çështjeve Juridike, në emër të personit që do të përfaqësojë Ministrinë.
