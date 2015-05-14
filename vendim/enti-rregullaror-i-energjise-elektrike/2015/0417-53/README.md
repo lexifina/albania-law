@@ -1,0 +1,9 @@
+# Për disa ndryshime në rregulloren e lidhjeve të reja në sistemin e shpërndarjes
+
+Official source: [Vendim nr. 53, datë 17.4.2015 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/11910).
+
+Status of this text: `as-enacted`. Adopted 2015-04-17; published 2015-05-14; in force 2015-05-14.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
