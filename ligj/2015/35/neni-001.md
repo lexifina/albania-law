@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e financimit dhe projektit ndërmjet Republikës së Shqipërisë, “Marrësi”, të përfaqësuar nga Ministria e Financave, dhe Fondit Shqiptar për Zhvillim, “Agjencia zbatuese e projektit”, dhe KfW Frankfurt am Main, “KfW”, për fondet IPA të Bashkimit Evropian për furnizimin me ujë të zonave rurale III, me një grant në shumën 9 803 922 euro, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.
