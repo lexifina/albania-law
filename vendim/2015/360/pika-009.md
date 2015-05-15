@@ -1,0 +1,1 @@
+9. Eksporti i mbetjeve që kanë në përbërje të tyre NOQ, të referuara në aneksin III, bashkëlidhur këtij vendimi, nga Republika e Shqipërisë drejt vendeve të tjera, lejohet vetëm për qëllime të asgjësimit të sigurt të tyre.

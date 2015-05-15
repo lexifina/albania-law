@@ -1,0 +1,1 @@
+6. Në rastin e eksportimit sipas pikës 3, të seksionit 1, të këtij kreu, eksportuesi pajiset me autorizim eksporti, në përputhje me legjislacionin që rregullon importin dhe eksportin e kimikateve të rrezikshme.

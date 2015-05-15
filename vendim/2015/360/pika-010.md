@@ -1,0 +1,1 @@
+10. Eksportuesi i mbetjeve, sipas pikës 6, të seksionit 1, të këtij kreu, pajiset me autorizim për eksport, në përputhje me legjislacionin në fuqi për mbetjet e rrezikshme dhe marrëveshjet ndërkombëtare për këtë qëllim.
