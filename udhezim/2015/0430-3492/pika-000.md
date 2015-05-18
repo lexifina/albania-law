@@ -1,0 +1,1 @@
+Ndjekjen e procedurave të mëposhtme për koordinimin ndërinstitucional dhe shkëmbimin e informacionit për trajtimin, mbikëqyrjen dhe kontrollin e veprimtarisë së importit, eksportit, prodhimit, depozitimit dhe transportimit të naftës bruto dhe nënprodukteve të saj, me synim parandalimin e shmangieve sasiore, cilësore dhe fiskale.
