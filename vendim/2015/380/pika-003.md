@@ -1,0 +1,1 @@
+3. Ministrisë së Punëve të Brendshme dhe nënprefekturës Pukë, u ndalohet ta ndryshojnë destinacionin e objekteve dhe të sipërfaqes së truallit funksional të pronës, të përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojnë ose t’ua japin në përdorim të tretëve.
