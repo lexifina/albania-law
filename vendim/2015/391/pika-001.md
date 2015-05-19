@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës lidhëse midis rrugëve “Qemal Stafa” dhe “Esat Bordi”, si dhe ndërtimi i lulishtes në pjesën jugore të bulevardit “Aqif Pasha”, te “Xhamlliku para Sahatit”, në Bashkinë e Elbasanit, sipas tabelës që i bashkëlidhet këtij vendimi.
