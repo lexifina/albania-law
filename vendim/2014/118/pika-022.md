@@ -19,7 +19,7 @@ i) Njohuri për sistemin ligjor evropian.
 KREU IV
 PROCEDURAT E PRANIMIT NË TND NËPËRMJET ASPA-s
 1. Pranimi në programin e formimit të thelluar për TND në ASPA bëhet nëpërmjet një konkursi kombëtar, i cili është i hapur për:
-a) nëpunësit civilë të kategorisë së mesme drejtuese dhe që përbëjnë jo më pak se 80% të pranimeve;
+a) nëpunësit civilë të kategorisë së mesme drejtuese dhe të nivelit të lartë drejtues, në institucionet e pavarura dhe që përbëjnë jo më pak se 80% të pranimeve;
 b) çdo individ tjetër, që nuk është pjesë e shërbimit civil dhe që plotëson kërkesat specifike për pranimin në TND dhe që përbëjnë deri në 20% të pranimeve.
 2. Procedura e pranimit realizohet në dy faza, në fazën paraprake të verifikimit të kritereve specifike, të përcaktuara sipas pikave 1 e 2 të kreut III të këtij vendimi dhe në fazën e konkurrimit.
 3. Bazuar në planifikimin vjetor, të miratuar nga Këshilli i Ministrave, procedura e pranimit zhvillohet një herë në vit, sipas kohës së planifikuar nga DAP-i. Nëse është e nevojshme, për shkak të mosplotësimit të numrit të parashikuar sipas planit vjetor të kandidatëve fitues apo për shkak të nevojave të reja që mund të dalin si rezultat i krijimit të vendeve të lira në TND, një procedurë e re pranimi organizohet brenda një periudhe dymujore.
@@ -91,23 +91,29 @@ b) ministri, për çdo pozicion të rregullt në ministri apo në institucionet 
 c) Kryeministri, zëvendëskryeministri apo ministrat respektivë, për pozicionet e koordinatorit të posaçëm në grupet institucionale apo ndërinstitucionale, ose në projekte të posaçme që janë nën përgjegjësinë e tyre.
 5. Lirimi i një anëtari të TND-së nga një pozicion i rregullt apo koordinator i posaçëm bëhet me të njëjtën procedurë të parashikuar në pikën 3 të kreut VII të këtij vendimi.
 6. Nëse nuk parashikohet ndryshe nga ky vendim, një anëtar i TND-së i liruar në përputhje me pikën 5 të këtij kreu, qëndron në pritje për t’u caktuar në një pozicion tjetër të rregullt apo si koordinator i posaçëm.
-7. Një anëtar i TND-së mundet, gjithashtu, të emërohet në një pozicion të nivelit të mesëm drejtues ose në një nivel të lartë drejtues në një institucion të pavarur apo njësi të qeverisjes vendore.
+7. Një anëtar i TND-së mundet, gjithashtu, të emërohet në një pozicion të nivelit të mesëm drejtues në një institucion të administratës shtetërore ose në një nivel të lartë drejtues në një institucion të pavarur apo njësi të qeverisjes vendore.
 8. Emërimi në një pozicion të nivelit të mesëm drejtues në administratën shtetërore, siç parashikohet në pikën 7 të kreut VII të këtij vendimi, vendoset nga DAP-i, sipas kërkesës së institucioneve respektive dhe me pëlqimin paraprak të anëtarit të TND-së të përfshirë në këtë proces.
 9. Emërimi në një pozicion të nivelit të lartë drejtues në një institucion të pavarur apo njësi të qeverisjes vendore, sipas pikës 7 të kreut VII të këtij vendimi vendoset nga institucionet respektive, pas pëlqimit paraprak dhe me shkrim nga DAP-i.
 10. Në rastin e parashikuar në pikën 9 të kreut VII të këtij vendimi, DAP-i mund të japë pëlqimin ose të refuzojë kërkesën, në varësi të nevojave të TND-së dhe vetëm pasi ka marrë pëlqimin e anëtarit të TND-së të përfshirë në këtë proces.
 11. Në rast nevoje të TND-së, mbështetur në kërkesën e titullarit të institucionit, parashikuar në pikën 4 të kreut VII, të këtij vendimi, emërimi në përputhje me pikat 8 dhe 9 të kreut VII të këtij vendimi, përfundon dhe anëtari i TND-së caktohet në një pozicion të rregullt apo si koordinator i posaçëm.
 12. Kohëzgjatja e shërbimit në një pozicion, sipas përcaktimit në pikën 7 të kreut VII të këtij vendimi, konsiderohet si kohë shërbimi në një pozicion të rregullt për qëllimet e pikave 1, 2 e 3 të kreut VII të këtij vendimi dhe të pikës 2 të nenit 66 të ligjit nr. 152/2013.
 13. Një anëtar i TND-së, që emërohet në një pozicion të rregullt, paguhet sipas pozicionit respektiv. Paga paguhet nga institucioni ku është caktuar.
-14. Një anëtar i TND-së, në pritje për t’u caktuar apo i caktuar si koordinator i posaçëm, merr një pagë si më poshtë:
+14. Një anëtar i TND-së, i caktuar si koordinator i posaçëm apo në një pozicion të kategorisë së mesme drejtuese:
 a) për dy vitet e para paguhet me pagën që i përket klasës më të ulët për kategorinë e nëpunësve të lartë drejtues;
 b) nëse nuk emërohet në një pozicion të rregullt për, të paktën, 6 (gjashtë) muaj në dy vitet e para, do të marrë 50% të pagës që i përket klasës më të ulët për kategorinë e nëpunësve të lartë drejtues për dy vitet e ardhshme;
 c) nëse nuk emërohet në një pozicion të rregullt për, të paktën, 8 (tetë) muaj në katër vitet e para, mbetet anëtar i TND-së pa pagë.
-15. Paga në rastin e parashikuar në pikën 13 të kreut VII të këtij vendimi, paguhet nga buxheti i Kryeministrisë.
-16. Një anëtar i TND-së, i emëruar në një pozicion të nivelit të mesëm drejtues në administratën shtetërore, ka pagën e pozicionit respektiv. Paga paguhet nga vetë institucioni.
+15. Paga në rastin e parashikuar në pikën 14 të kreut VII të këtij vendimi, paguhet nga buxheti i Kryeministrisë.
+16. Shfuqizuar.
 17. Një anëtar i TND-së, i emëruar në një pozicion të një niveli të lartë drejtues në institucionet e pavarura apo njësitë e qeverisjes vendore, paguhet me pagën e pozicionit respektiv nga vetë institucioni.
+18. Në rast se prurjet nga ASPA dhe nga procedurat e pranimit të drejtpërdrejtë nuk janë të mjaftueshme, nëpunësit e kategorisë së lartë drejtuese të institucioneve të pavarura, që kanë interes, mund të paraqesin kërkesë për t’u pranuar, drejtpërdrejt, në TND.
+19. Departamenti i Administratës Publike analizon nëse nëpunësi i plotëson kërkesat e përgjithshme, kuadrin e kompetencës dhe kërkesat e posaçme, bazuar në të dhënat e shpallura në procedurën e fundit konkurruese, që është zhvilluar për këtë qëllim, brenda 30 ditëve.
+20. Në rast se nëpunësi që ka bërë kërkesën i plotëson kriteret, Departamenti i Administratës Publike komunikon me njësinë përgjegjëse të institucionit të pavarur dhe, në rast të dhënies së mendimit pozitiv, nga ana e tyre, brenda 5 ditëve emëron nëpunësin në një pozicion TND-je në institucionin e administratës shtetërore.
+21. Nëpunësi, që është emëruar sipas pikës 20, të kreut VII, të këtij vendimi, është i detyruar të ndjekë programin e formimit të thelluar për anëtarët e TND-së, të organizuar nga ASPA.
 KREU VIII
 PROCEDURA E PRANIMIT NË KATEGORINË E NIVELIT TË LARTË DREJTUES PËR INSTITUCIONET E PAVARURA DHE NJËSITË E QEVERISJES VENDORE
-1. Pranimi në kategorinë e nëpunësve civilë të nivelit të lartë drejtues në institucionet e pavarura dhe njësitë e qeverisjes vendore bëhet me konkurrim të organizuar për një apo disa pozicione pune të lira dhe është i hapur vetëm për nëpunësit civilë të kategorisë së mesme drejtuese të shërbimit civil.
+1. Pranimi në kategorinë e nëpunësve civilë të nivelit të lartë drejtues, në institucionet e pavarura dhe njësitë e qeverisjes vendore, bëhet me konkurrim, të organizuar për një apo më shumë pozicione pune të lira, dhe është i hapur për:
+a) nëpunësit civilë të kategorisë së mesme drejtuese të shërbimit civil;
+b) kandidatë të tjerë, jashtë shërbimit civil, që plotësojnë kërkesat specifike për pranimin në këtë kategori, por, në asnjë rast, më shumë se 15% (pesëmbëdhjetë për qind) të numrit të përgjithshëm të anëtarëve të kategorisë së lartë drejtuese, për atë institucion. Të drejtën për të vendosur që kjo procedurë të jetë e hapur edhe për këta kandidatë e ka titullari/organi vendimmarrës i institucionit.
 2. Procedura e pranimit organizohet nga njësia përgjegjëse e institucionit të pavarur/qeverisjes vendore dhe është e organizuar në dy faza, në fazën seleksionuese dhe në atë konkurruese.
 3. Bazuar në planifikimin vjetor për institucionet e pavarura/njësitë e qeverisjes vendore, procedura e pranimit në kategorinë e lartë zhvillohet sipas nevojave të vetë institucionit.
 Faza e parë
