@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2015, miratuar për Ministrinë e Mbrojtjes, të shtohet fondi prej 14 000 000 (katërmbëdhjetë milionë) lekësh, për mbulimin e shpenzimeve të strukturave të angazhuara për pastrimin e zonave bregdetare për sezonin turistik veror, për vitin 2015, në mbështetje të Agjencisë Kombëtare të Bregdetit.

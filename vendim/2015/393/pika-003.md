@@ -1,0 +1,1 @@
+3. Ministria e Mbrojtjes dhe Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes të lidhin marrëveshje, në të cilën të përcaktohen zonat bregdetare që do të pastrohen, koha, mjetet dhe personeli i Forcave të Armatosura që do të vihet në mbështetje të Agjencisë Kombëtare të Bregdetit.
