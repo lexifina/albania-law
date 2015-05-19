@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Zgjerimi i Rrugës së Elbasanit, Fakulteti Filologjik - Unaza e Madhe Tiranë (objekt+truall)”.
