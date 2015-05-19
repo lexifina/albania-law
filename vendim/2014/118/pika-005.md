@@ -5,4 +5,4 @@ c) vërtetimi nga punëdhënësi aktual apo ai i mëparshëm, ku të përcaktohe
 ç) dëshmi penaliteti;
 d) deklaratë personale që nuk ka qenë anëtar i një partie politike për 3 (tre) vitet e fundit;
 dh)vërtetim nga Komisioni Qendror i Zgjedhjeve që nuk ka marrë pjesë në zgjedhjet e përgjithshme apo vendore të zhvilluara në 3 (tre) vitet e fundit, nën siglën e një partie politike;
-e) për kandidatin e huaj, dokumentet e mësipërme duhet të kenë vulën “Apostil”, ose të jenë të legalizuara sipas procedurave të zbatueshme dhe të jenë të përkthyera në gjuhën shqipe.
+e) shfuqizuar;
