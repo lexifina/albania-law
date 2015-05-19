@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i segmentit rrugor “Unaza e Madhe Tiranë” (segmenti Kopshti Botanik - Sauk i Vjetër (shtesat)”.
