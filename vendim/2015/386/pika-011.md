@@ -1,0 +1,1 @@
+11. Degët rajonale të ISHU-së drejtohen nga drejtuesi i degës rajonale, i cili përfaqëson degën rajonale në marrëdhënie me të tretët në nivelin e qarkut përkatës dhe është përgjegjës për organizimin dhe bashkërendimin e punës për funksionimin, cilësinë dhe efektivitetin e veprimtarisë së degës së tij.
