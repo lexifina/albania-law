@@ -173,12 +173,13 @@ Karburant ”Alpet”(pjesërisht),loti 7
 Certifikatë pronësie
 19
 Zyber
-Culhaj
+Daut
+Cullhaj
 8552
 1/153
-Banesë 1kt,loti 7
+Banesë 2kt,loti 7
 434.0
-3,717,743
+11,442,645
 Certifikatë pronësie
 20
 Rustem
@@ -603,7 +604,16 @@ Loti 11 (tokë)
 240640
 240,640
 Certifikatë pronësie
+67
+Xhevat
+Tahir
+Hoxha
+8552
+18/448
+shesh, investim Loti 7
+410,550
+leje ndërtimi
 TOTALI
 1,161.0
 2,594,752.0
-126,660,438
+134 795 890
