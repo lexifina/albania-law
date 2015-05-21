@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, drejtoria e Administrimit dhe Mbrojtjes së Tokës, Qarku Berat, të pasqyrojë në dokumentacionin kadastral përkatës ndryshimin e kategorisë së resursit, nga tokë bujqësore në tokë urbane (truall), për sipërfaqen prej 19 813 (nëntëmbëdhjetë mijë e tetëqind e trembëdhjetë) m2, sipas lidhjes 1, bashkëlidhur këtij vendimi.

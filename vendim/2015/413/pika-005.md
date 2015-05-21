@@ -1,0 +1,1 @@
+5. Shoqëria TAP AG, pas përfundimit të punimeve për ndërtimin e rrugës së kalimit (ndihmëse) “Pronovik-Zgërbonjë-Antena”, është e detyruar të realizojë rehabilitimin mjedisor të territorit, në ato pjesë të parcelave që janë ndikuar nga ndërtimi i kësaj rruge të kalimit (ndihmëse) për projektin TAP, por që nuk do të përfshihen si pjesë e këtij rrjeti rrugor.
