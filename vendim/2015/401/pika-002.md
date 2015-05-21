@@ -1,0 +1,1 @@
+2. Përjashtimisht, kur legjislacioni në fuqi parashikon një mjet tjetër komunikimi, ankesa e paraqitur pranë KKP-së shoqërohet me dokumentin bankar, që vërteton pagesën paraprake të tarifës përkatëse në numrin e llogarisë së KPP-së.
