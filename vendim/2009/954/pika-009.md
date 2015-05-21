@@ -2,26 +2,24 @@
 IV.Operacionet e QNOD-së
 1. Veprimtaria operacionale e Qendrës Ndërinstitucionale Operacionale Detare përcaktohet në dokumentin “Politikat dhe procedurat e funksionimit të Qendrës Ndërinstitucionale Operacionale Detare”, i cili miratohet me vendim të Këshillit të Ministrave.
 2. QNOD-ja drejton dhe bashkërendon operacionet detare të institucioneve të mëposhtme:
-a) Ministrisë së Brendshme:
-i) Operacionet detare për kontrollin e kufirit dhe të luftës kundër trafikut të paligjshëm.
-ii) Operacionet detare të luftës kundër terrorizmit dhe krimit të organizuar.
+a) Ministrisë së Punëve të Brendshme:
+i) Operacionet detare për kontrollin e kufirit dhe të luftës kundër trafikut të paligjshëm;
+ii) Operacionet detare të luftës kundër terro-rizmit dhe krimit të organizuar;
 iii) Operacionet detare për detyra të tjera policore.
 b) Ministrisë së Mbrojtjes:
-i) Operacionet e kërkim-shpëtimit dhe dhënies së ndihmës në det.
-ii) Operacionet detare për kontrollin e legjislacionit për sigurinë hidrolundrimore.
-iii) Me kërkesë të strukturave të Policisë së Shtetit dhe atyre doganore siguron mbështetje për misionet e zbatimit të ligjit.
+i) Operacionet e kërkim-shpëtimit dhe dhënies së ndihmës në det;
+ii) Operacionet detare për kontrollin e legjisla-cionit për sigurinë hidrolundrimore;
+iii) Me kërkesë të strukturave të Policisë së Shtetit dhe atyre doganore siguron mbështetje për misionet e zbatimit të ligjit;
 iv) Kur për veprimet e ndërmarra sipas nënndarjes “ii” më sipër, kërkohen atributet e policisë gjyqësore, vetëm personeli i Rojës Bregdetare apo i Forcës Detare, i cili gëzon këto atribute dhe ka trajnimin e përshtatshëm, mund t’i kryejë këto veprime. Trajnimi i nevojshëm përcaktohet me urdhër të përbashkët të ministrive të përfshira dhe të Prokurorisë së Përgjithshme.
-c) Ministrisë së Punëve Publike, Transportit dhe Telekomunikacionit:
-i) Operacionet detare për kontrollin e legjislacionit për trafikun detar.
+c) Ministrisë së Transportit dhe Infrastrukturës:
+i) Operacionet detare për kontrollin e legjislacionit për trafikun detar;
 ii) Hetimin e incidenteve detare.
-ç) Ministrisë së Financave:
-i) Operacionet detare për kontrollin e legjislacionit fiskal dhe doganor.
-d) Ministrisë së Mjedisit, Pyjeve dhe Administrimit të Ujërave:
-i) Operacionet detare për kontrollin e zbatimit të legjislacionit për peshkimin.
-ii) Operacionet për parandalimin dhe mbrojtjen e mjedisit detar nga ndotja.
-dh) Ministrisë së Turizmit, Kulturës, Rinisë dhe Sporteve:
-i) Operacionet në mbështetje të sporteve ujore dhe nënujore.
+ç)Ministrisë së Financave, opera-cionet detare për kontrollin e legjislacionit fiskal dhe doganor.
+d) Ministrisë së Mjedisit, operacionet për parandalimin dhe mbrojtjen e mjedisit detar nga ndotja.
+dh) Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes:
+i) Operacionet në mbështetje të sporteve ujore dhe nënujore;
 ii) Operacionet në mbështetje të turizmit detar dhe bregdetar.
+e) Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, operacionet detare për kontrollin e zbatimit të legjislacionit për peshkimin.
 3. Procedurat operacionale standarde (POS) përfshijnë çështjet e mëposhtme, por pa u kufizuar në to:
 a) Plani i trajnimit të personelit të QNOD-së;
 b) Proceset e raportimit dhe të menaxhimit të informacionit dhe listat e kontrollit;
@@ -45,6 +43,6 @@ V. Bashkërendimi, planifikimi dhe përgjegjësitë e institucioneve pjesëmarr�
 6. Institucionet pjesëmarrëse në QNOD bashkëveprojnë ngushtë për trajnimin dhe angazhimin, me qëllim që burimet të përdoren në mënyrë racionale dhe të rritet efektshmëria operacionale detare.
 7. Për çështjet, të cilat nuk rregullohen nga ky vendim, institucionet pjesëmarrëse mbështeten në marrëveshjet përkatëse, të nënshkruara në zbatim të nenit 10 të ligjit nr.8875, datë 4.4.2002 “Për Rojën Bregdetare Shqiptare”, të ndryshuar.
 VI. Të fundit
-1. Ngarkohen Ministria e Mbrojtjes, Ministria e Brendshme, Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve, Ministria e Financave dhe Ministria e Punëve Publike, Transportit dhe Telekomunikacionit për zbatimin e këtij vendimi.
+1. Ngarkohen Ministria e Mbrojtjes, Ministria e Punëve të Brendshme, Ministria e Financave, Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Ministria e Transportit dhe Infrastrukturës dhe Ministria e Mjedisit për zbatimin e këtij vendimi.
 2. Shfuqizuar.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
