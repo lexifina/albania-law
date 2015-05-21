@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për hidrokarburet, në procesin e vlerësimit të një kërkese, mund të kërkojë ekspertizë dhe konsulencë nga ekspertë/institucione vendase ose të huaja dhe kostoja e këtij shërbimi mbulohet nga subjekti aplikues.

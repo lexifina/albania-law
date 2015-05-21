@@ -1,0 +1,1 @@
+6. Dhënia e licencës së koncesionit për naftësjellës, për ndërtimin e naftësjellësit, për transportimin, importimin dhe eksportimin e naftës bruto, bëhet kundrejt pagesës së tarifës prej 30 000 000 (tridhjetë milionë) lekësh nga personi juridik, shumë e cila derdhet, tërësisht, në buxhetin e shtetit.
