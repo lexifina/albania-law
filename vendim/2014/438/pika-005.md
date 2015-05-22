@@ -1,1 +1,0 @@
-5. Ngarkohet Ministria e Integrimit Evropian, në bashkëpunim me Ministrinë e Financave, të monitorojë përfshirjen, nga ministritë dhe institucionet e tjera qendrore, në programin buxhetor afatmesëm, të nevojave financiare për zbatimin e përparësive afatshkurtra dhe afatmesme, të parashikuara në PKIE, 2014 - 2020.

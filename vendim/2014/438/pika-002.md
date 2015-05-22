@@ -1,1 +1,0 @@
-2. Ministria e Integrimit Evropian orienton, bashkërendon dhe monitoron zbatimin e PKIE-së, 2014 - 2020, për çdo kapitull, nga grupet ndërinstitucionale të punës (GNP), të ngritura me urdhrin nr.107, datë 28.2.2014, të Kryeministrit, “Për ngritjen, përbërjen dhe funksionimin e grupeve ndërinstitucionale të punës për integrimin evropian”.

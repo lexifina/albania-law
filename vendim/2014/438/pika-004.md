@@ -1,1 +1,0 @@
-4. Ministritë dhe institucionet e tjera qendrore në varësi të Këshillit të Ministrave raportojnë pranë Ministrisë së Integrimit Evropian, çdo 3 (tre) muaj (java e tretë e muajit të fundit), për realizimin e detyrimeve, që rrjedhin nga PKIE-ja, 2014 - 2020.
