@@ -1,0 +1,8 @@
+# Neni 6
+Detyrimi për njoftimin dhe konsultimin publik
+1. Organet publike janë të detyruara të marrin të gjitha masat e nevojshme, në mënyrë që të krijojnë mundësi për pjesëmarrjen e publikut dhe të të gjitha palëve të interesuara në procesin e njoftimit e të konsultimit publik, përfshirë:
+a) publikimin në regjistrin elektronik të projektaktit, të njoftimit për konsultim dhe të dhënave të lidhura me konsultimin e projektakteve;
+b) publikimin në programin e transparencës, sipas ligjit nr. 119/2014 “Për të drejtën e informimit”, të planeve vjetore të organeve publike që lidhen me procesin e vendimmarrjes, në kuptim të këtij ligji;
+c) dhënien e informacionit në lidhje me procesin e njoftimit dhe të konsultimit publik në të gjitha fazat, duke filluar nga publikimi i projektaktit, marrja e komenteve dhe rekomandimeve për përmirësimin e tij, organizimi i debateve publike e deri te miratimi i aktit përfundimtar.
+2. Organi publik, pas publikimit të njoftimit në regjistrin elektronik, mund të organizojë konsultime të drejtpërdrejta dhe takime publike me palët e interesuara. Konsultimet e drejtpërdrejta dhe takimet publike me palët e interesuara dokumentohen me procesverbal. Procesverbali i takimeve publike, të organizuara sipas këtij ligji, është dokument zyrtar. Për konsultime veçanërisht të rëndësishme, si dhe kurdo që është e mundur, me vendim të organit publik, takimet publike transmetohen në median audiovizive publike për të mundësuar ndjekjen e tyre nga publiku i gjerë.
+3. Pavarësisht nga përcaktimet e pikave 1 dhe 2, të këtij neni, organet publike nuk përjashtohen nga detyrimi për publikimin dhe konsultimin e projektakteve, sipas ligjeve të veçanta për funksionimin e tyre.
