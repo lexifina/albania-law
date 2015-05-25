@@ -1,0 +1,1 @@
+4. Dokumentet e certifikimit, në përfundim të arsimit profesional pas të mesëm (arsimi jouniversitar) pasqyrojnë rezultatet e arritjeve të studentëve për programe që u përkasin kualifikimeve të nivelit 5 të KSHK-së.

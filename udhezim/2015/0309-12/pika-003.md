@@ -1,0 +1,1 @@
+3. Dokumentet e certifikimit, në përfundim të nivelit I, II dhe III, të arsimit profesional, pasqyrojnë rezultatet e arritjeve të nxënësit për programe që u përkasin respektivisht kualifikimeve profesionale të nivelit 2, 3, dhe 4 të KSHK-së.

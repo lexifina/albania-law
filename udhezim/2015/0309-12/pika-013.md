@@ -1,0 +1,1 @@
+13. Formati i diplomës së Maturës Shtetërore profesionale përgatitet nga AKP-ja dhe miratohet me urdhër të posaçëm të ministrit përgjegjës për çështjet e arsimit dhe ministrit përgjegjës për çështjet sociale.
