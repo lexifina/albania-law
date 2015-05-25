@@ -1,0 +1,1 @@
+6. Personi ndaj të cilit kërkohet informacioni, brenda 30 ditëve nga data që kërkesa është marrë ose vlerësohet të jetë marrë, paraqet pranë Drejtorisë së Përgjithshme të Tatimeve, në formë shkresore, informacionin e kërkuar.

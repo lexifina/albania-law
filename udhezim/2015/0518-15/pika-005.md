@@ -1,0 +1,1 @@
+5. Në kërkesën e paraqitur ndaj personit, sipas përcaktimeve të pikës 4, specifikohen dhe penalitetet që aplikohen sipas dispozitave të nenit 126, “Mosdhënie e informacionit”, të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar, në rastet e mosdhënies së informacionit nga ky person.

@@ -1,0 +1,2 @@
+1. Drejtoria e Përgjithshme e Tatimeve (DPT), për qëllime të zbatimit të marrëveshjeve ndërkombëtare për çëshjtjet tatimore dhe në zbatim të marrëveshjeve ndërkombëtare, të cilat parashikojnë asistencë administrative në çështjet tatimore dhe janë në fuqi në Republikën e Shqipërisë, kërkon informacion ndaj/dhe për çdo person, përfshirë, por pa u kufizuar, në informacionin e mbajtur
+nga banka dhe institucione të tjera financiare.

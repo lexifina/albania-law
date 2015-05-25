@@ -1,0 +1,1 @@
+7. Në rast të mosdhënies së informacionit brenda afateve të përcaktuara, Drejtoria e Përgjithshme e Tatimeve merr masat për aplikimin e penaliteteve, sipas nenit 126 të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”.

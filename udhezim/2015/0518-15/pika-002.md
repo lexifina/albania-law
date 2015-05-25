@@ -1,0 +1,1 @@
+2. Çdo person, me kërkesë të Drejtorisë së Përgjithshme të Tatimeve, në përputhje me dispozitat e marrëveshjeve ndërkombëtare në fushën tatimore, jep informacionin e kërkuar sipas rregullave dhe procedurave të përcaktuara në këtë udhëzim.

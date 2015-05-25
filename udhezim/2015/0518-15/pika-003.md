@@ -1,0 +1,1 @@
+3. Për informacionin e dhënë, në zbatim të këtij udhëzimi, zbatohen të njëjtat rregulla si për informacionin e dhënë për qëllime të zbatimit të legjislacionit vendës, përveç kur në marrëveshjet ndërkombëtare është parashikuar ndryshe.
