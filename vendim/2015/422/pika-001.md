@@ -1,0 +1,1 @@
+1. Në listën e inventarit të pronave të paluajtshme publike shtetërore, brenda juridiksionit territorial dhe administrativ të Bashkisë Lushnjë, Qarku Fier, bashkëlidhur vendimit nr. 175, datë 6.3.2012, të Këshillit të Ministrave, shtohen pronat me nr. 4271 dhe nr. 4272, gjithsej 2 (dy) prona.

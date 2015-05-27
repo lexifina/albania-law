@@ -1,0 +1,1 @@
+2. Pronat me nr. 4271 dhe nr. 4272, të llojit “truall”, sipas formularit dhe planimetrisë që i bashkëlidhen këtij vendimi, kalojnë në pronësi të Bashkisë Lushnjë për t’u përdorur për ndërtimin e objekteve të sh.a., Ujësjellës-Kanalizime Lushnjë.
