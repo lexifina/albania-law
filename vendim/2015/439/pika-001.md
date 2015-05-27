@@ -1,0 +1,5 @@
+1. Rishpërndarjen e fondeve për shpenzime kapitale, ndërmjet programeve, brenda buxhetit të vitit 2015, miratuar për Ministrinë e Mjedisit, si më poshtë vijon:
+a) Në programin “Administrimi i pyjeve” shtohet fondi nëvlerën12000000 (dymbëdhjetë milionë) lekë, për investim në projektin“Parandalimi i zjarreve dhe prerjeve të paligjshme në pyje në Qarkun e Tiranës”;
+b) Në programin “Mbrojtja e mjedisit” pakësohet fondi në vlerën 4425000 (katër milionë e katër qind e njëzet e pesë mijë) lekë, për kosto lokale për projektin “Kune-Vain/UNEP”, për vitin 2015;
+c) Në programin “Mbrojtja e mjedisit” pakësohet fondi për projektin “IPA 2013-Ndryshimet klimaterike”, në vlerën 2666500 (dy milionë e gjashtëqind e gjashtëdhjetë e gjashtë mijë e pesëqind) lekë, për kosto lokale, dhe TVSH në vlerën 2000000 (dy milionë) lekë;
+ç) Në programin “Mbrojtja e Mjedisit” pakësohet fondi për projektin “IPA 2013-Mbetjet”, në vlerën 2666500 (dy milionë e gjashtëqind e gjashtëdhjetë e gjashtë mijë e pesëqind) lekë, për kosto lokale, dhe TVSH në vlerën 242000 (dyqind e dyzet e dy mijë) lekë.
