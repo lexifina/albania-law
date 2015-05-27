@@ -1,0 +1,1 @@
+6. Riparimi i mjeteve lundruese të Forcave të Armatosura do të kryhet bazuar në kontratat e lidhura midis palëve dhe sipas një grafiku vjetor. Riparimi i mjeteve të Forcave të Armatosura ka prioritet mbi të gjitha subjektet e interesuara.

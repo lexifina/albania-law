@@ -1,0 +1,1 @@
+10. Paga e drejtorit të KNRA-së është në nivelin 108 780 (njëqind e tetë mijë e shtatëqind e tetëdhjetë) lekë, e cila në vijim indeksohet dhe ndryshohet me urdhër të ministrit Mbrojtjes dhe me propozim të Këshillit Drejtues të KNRA-së.
