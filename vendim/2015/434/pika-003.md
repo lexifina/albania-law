@@ -1,0 +1,1 @@
+3. Për duhanin, firot dhe humbjet në procesin e përpunim-manipulimit përllogariten sipas përcaktimeve të bëra në vendimin nr. 687, datë 18.6.2009 të Këshillit të Ministrave “Për përcaktimin e nivelit të firove të lejuara gjatë procesit të përpunim-manipulimit të duhanit”.

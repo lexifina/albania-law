@@ -1,0 +1,2 @@
+6. Nuk do të njihen firo për transportim apo magazinim, me përjashtim të rasteve të produkteve të akcizës të përcaktuara në vendimin nr. 612, datë 5.9.2012 të Këshillit të Ministrave “Për dispozitat zbatuese të ligjit “Për akcizat”, të ndryshuar”.
+Për energjinë elektrike, humbje gjatë shpërndarjes së energjisë elektrike do të konsiderohet përqindja e humbjeve të energjisë elektrike e përcaktuar në vendimin nr. 171, datë 25.2.2015 të Këshillit të Ministrave “Për miratimin e planit të rimëkëmbjes financiare të sektorit të energjisë elektrike”.

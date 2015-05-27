@@ -1,0 +1,1 @@
+8. Firot e miratuara nga drejtoritë rajonale tatimore (DRT), në përputhje me këtë vendim, do të njihen për efekte fiskale për periudha jo më të hershme se data e miratimit zyrtar në DRT, sipas pikës 7, më lart.

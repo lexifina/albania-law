@@ -1,0 +1,1 @@
+2. Për industritë prodhuese, që përdorin lëndë djegëse në procesin e prodhimit, normativat e lëndëve të para djegëse përcaktohen sipas vendimit nr. 612, datë 5.9.2012 të Këshillit të Ministrave “Për dispozitat zbatuese të ligjit “Për akcizat”, të ndryshuar”.

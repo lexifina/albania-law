@@ -1,0 +1,1 @@
+1. Firot, humbjet, dëmtimet dhe skarcot gjatë procesit të prodhimit, magazinimit apo transportimit, për produktet që janë subjekt i akcizës, përcaktohen sipas vendimit nr. 612, datë 5.9.2012 të Këshillit të Ministrave “Për dispozitat zbatuese të ligjit “Për akcizat” , të ndryshuar”.
