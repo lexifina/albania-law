@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë,për 75 (shtatëdhjetë e pesë) m² truall dhe 225(dyqind e njëzet e pesë) m2 ndërtesë, për rikonstruksionin dhe asfaltimin e rrugëve të brendshme, të bëhet në favor të Bashkisë Vorë.

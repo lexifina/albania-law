@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen për pasuritë tokë “truall”, 75 (shtatëdhjetë e pesë) m², dhe “ndërtesë”, 225 (dyqind e njëzet e pesë) m2 , në vlerën 5 815 670 (pesë milionë e tetëqind e pesëmbëdhjetë mijë e gjashtëqind e shtatëdhjetë) lekë, sipas listës bashkëngjitur këtij vendimi.

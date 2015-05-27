@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 5 815 670 (pesë milionë e tetëqind e pesëmbëdhjetë mijë e gjashtëqind e shtatëdhjetë) lekësh të përballohet nga të ardhurat e Bashkisë Vorë, planifikuar në buxhetin e saj.
