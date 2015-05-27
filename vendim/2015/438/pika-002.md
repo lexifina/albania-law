@@ -1,0 +1,1 @@
+2. Procedurat, kriteret dhe kushtet e përfitimit nga Fondi Kombëtar i Garancisë do të përcaktohen me udhëzim të përbashkët të ministrit të Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave dhe ministrit të Financave.

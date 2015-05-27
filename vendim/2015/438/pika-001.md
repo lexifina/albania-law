@@ -1,0 +1,3 @@
+1. Krijimin, në buxhetin e vitit 2015, miratuar për Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, të Fondit Kombëtar të Garancisë, në masën 300 000 000 (treqind milionë) lekë, për nxitjen e kreditimit në bujqësi dhe zhvillimin rural, me burim financimi, si më poshtë vijon:
+a) Në zërin “Transfertë në buxhetet familjare”, të fondit të bujqësisë dhe zhvillimit rural, për vitin 2015, pakësohet fondi prej 100 000 000 (njëqind milionë) lekësh.
+b) Fondet e mbledhura dhe të ricikluara të ish-projektit 2KR, deri në masën 200 000 000 (dyqind milionë) lekë, bëhen pjesë e Fondit Kombëtar të Garancisë, për kreditimin e bujqësisë dhe zhvillimit rural.
