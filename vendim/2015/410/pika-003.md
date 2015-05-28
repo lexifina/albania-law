@@ -1,0 +1,1 @@
+3. Kryeinspektori i raporton ministrit periodikisht dhe sipas kërkesës për veprimtarinë e institucionit, përveçse kur ministri ka përcaktuar shprehimisht, me urdhër, një njësi tjetër raportimi në aparatin e ministrisë përgjegjëse.

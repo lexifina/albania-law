@@ -1,0 +1,1 @@
+5. Pranë ISHTI-së krijohet “Komisioni i ankimit”, që do të shërbejë për shqyrtimin e ankimeve administrative kundër vendimeve përfundimtare të ISHTI-së sipas dispozitave të Kodit të Procedurave Administrative. Përbërja dhe funksionimi i këtij komisioni miratohen me urdhër të ministrit, pas propozimit të ISHTI-së.

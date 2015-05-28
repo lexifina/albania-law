@@ -1,0 +1,1 @@
+1. Inspektorati Shtetëror Teknik dhe Industrial (në vijim ISHTI) është institucioni qendror publik, buxhetor, në varësi të ministrisë përgjegjëse për energjinë dhe industrinë (në vijim ministria) me kompetenca inspektimi.
