@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12013,
+  "title": "Për kushtet dhe procedurat për listimin dhe heqjen nga lista e administratorëve të ndërtesave, penalitetet dhe mbikëqyrja e veprimtarisë së tyre.",
+  "type": "Udhëzim",
+  "kind": "Akt shfuqizues",
+  "number": "2",
+  "institution": "Ministria e Infrastrukturës dhe Energjisë",
+  "adopted": "2015-05-19",
+  "published": "2015-05-29",
+  "in_force": "2015-05-29",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/2dc06a4b85d7456114c5bbfd3dcad802681454baa6fa2f2b48ce8bd03a780917.docx",
+  "source_sha256": "2dc06a4b85d7456114c5bbfd3dcad802681454baa6fa2f2b48ce8bd03a780917",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12013",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2015/05/19/2",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66828
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
