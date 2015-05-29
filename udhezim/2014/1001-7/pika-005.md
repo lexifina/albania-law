@@ -1,1 +1,0 @@
-5. “Libri i Administratorëve” është libri, që mbahet pranë njësisë vendore përkatëse, nën juridiksionin e së cilës do të ushtrojë veprimtarinë për administrimin e ndërtesave administratori/shoqëria administruese.

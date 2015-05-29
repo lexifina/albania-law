@@ -1,1 +1,0 @@
-7. “Lista e administratorëve” është tërësia e administratorëve dhe shoqërive administruese, të cilët janë të regjistruar në librin e administratorëve, listë e cila publikohet dhe shpallet në vendin e njoftimeve, si dhe në faqen zyrtare të njësisë vendore përkatëse.
