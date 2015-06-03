@@ -1,0 +1,2 @@
+19. Rregullorja e brendshme e institucionit arsimor për të dhënat personale të subjekteve
+Një grup pune, i kryesuar nga drejtori i institucionit arsimor dhe i përbërë nga anëtarët e drejtorisë së institucionit arsimor, kryetari i bordit të institucionit, kryetari i këshillit të prindërve të institucionit dhe dy mësues, të zgjedhur nga këshilli i mësuesve, hartojnë rregulloren e brendshme për sigurinë dhe fshehtësinë (konfidencialitetin) e të dhënave personale dhe dosjeve personale të subjekteve.

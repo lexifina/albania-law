@@ -1,0 +1,6 @@
+2. Përkufizime
+a) “Të dhëna personale” është çdo informacion për një person fizik, i cili është i identifikuar ose i identifikueshëm.
+b) “Kontrollues” është çdo person fizik ose juridik, autoritet publik, agjenci apo ndonjë organ tjetër që, vetëm apo së bashku me të tjerë, përcakton qëllimet dhe mënyrat e përpunimit të të dhënave personale, në përputhje me ligjet dhe aktet nënligjore të fushës, dhe përgjigjet për përmbushjen e detyrimeve të përcaktuara me ligj.
+c) “Subjekti i të dhënave personale” është çdo person fizik, të cilit i përpunohen të dhënat personale.
+d) “Përpunues” është çdo person fizik ose juridik, autoritet publik, agjenci apo ndonjë organ tjetër që përpunon të dhëna personale në emër të kontrolluesit.
+e) “Përpunim i të dhënave personale” është çdo veprim ose grup veprimesh, të cilat janë kryer mbi të dhënat personale, me mjete automatike ose jo, të tilla si: mbledhja, regjistrimi, organizimi, ruajtja, përshtatja ose ndryshimi, rikthimi, konsultimi, shfrytëzimi, transmetimi, shpërndarja ose ndryshe, duke vënë në dispozicion, shtrirja ose kombinimi, fotografimi, pasqyrimi, hedhja, plotësimi, seleksionimi, bllokimi, asgjësimi ose shkatërrimi, edhe në qoftë se nuk janë të regjistruara në një bankë të dhënash.

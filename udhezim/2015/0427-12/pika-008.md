@@ -1,0 +1,3 @@
+8. Informimi i subjektit për të dhënat e tij personale
+a) Drejtori i institucionit arsimor ka për detyrë të informojë punonjësit arsimorë të institucionit, nxënësit e moshës mbi 18 vjeç, si dhe prindërit/kujdestarët ligjorë të nxënësve për arsyen e mbledhjes së të dhënave personale të subjekteve, përdorimin dhe mbrojtjen e tyre.
+b) Punonjësi arsimor, prindërit e nxënësit dhe nxënësi i moshës mbi 18 vjeç, pas kërkesës së tyre me shkrim drejtuar drejtorit të institucionit, kanë të drejtë të njihen me të dhënat personale dhe dosjen personale të subjektit përkatës, në prani të kontrolluesit ose përpunuesit.

@@ -1,0 +1,3 @@
+17. Ankimi
+a) Punonjësi arsimor, prindi i nxënësit dhe nxënësi mbi moshën 18 vjeç kanë të drejtë të ankohen me shkrim dhe të kërkojnë takim me kontrolluesin ose përpunuesin përkatës për kushtet e sigurisë, të fshehtësisë, për plotësinë dhe saktësinë e të dhënave personale dhe të dosjes së subjektit dhe të marrin përgjigje me shkrim brenda 30 ditëve pune.
+b) Punonjësi arsimor, prindi i nxënësit dhe nxënësi mbi moshën 18 vjeç, nëse nuk janë të kënaqur nga përgjigjja e kërkesës së tyre, e përshkruar në pikën 17/a, kanë të drejtë t’i ankohen me shkrim dhe të kërkojnë takim me drejtorin e institucionit, duke i paraqitur ankesën dhe përgjigjen paraprake me shkrim, dhe të marrin përgjigje me shkrim brenda 10 ditëve pune.
