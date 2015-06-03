@@ -1,0 +1,3 @@
+7. Për sasitë e prodhimit të gjykuar dhe pjesës së “Albpetrol”, sh.a., që do të merren në kundërvlerën e tyre në para, taksa e rentës minerare që zbatohet ndaj shitjes së sasive të prodhimit të gjykuar dhe pjesës së “Albpetrol”, sh.a.-së, do të paguhet nga kontraktorët në përputhje me ligjin për taksat kombëtare.
+7.1 Në faturën e lëshuar nga “Albpetrol” sh.a. sipas pikës 1 të këtij kreu, nga vlera totale me TVSh e faturës zbritet vetëm vlera e rentës minerare korresponduese e paguar nga kontraktori për sasinë e prodhimit të gjykuar, si detyrim i “Albpetrol” sh.a.
+7.2 Kontraktori ka detyrimin të dokumentojë vlerën e rentës së paguar për sasinë e prodhimit të gjykuar, vlerë e cila do të zbritet në faturë.

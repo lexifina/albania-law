@@ -1,0 +1,1 @@
+6. Kontraktorët do t’i faturojnë “Albpetrol” sh.a., nëse ka, vlerën e kostove të transportit apo kostove të tjera sipas germës “b” dhe/ose “c” të pikës 2 të kreut II të këtij udhëzimi. Në këto fatura do të përfshihet TVSH-ja.

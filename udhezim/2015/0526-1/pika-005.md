@@ -1,0 +1,1 @@
+5. Pagesa e vlerës korresponduese, në para, të sasisë së pjesës së “Albpetrol” sh.a.-së dhe prodhimit të gjykuar, kryhet brenda 10 ditëve nga data e lëshimit të faturës nga “Albpetrol” sh.a. Procedurat përcaktohen në marrëveshjen që do të lidhet midis palëve sipas pikës 2, të kreut I, të këtij udhëzimi.
