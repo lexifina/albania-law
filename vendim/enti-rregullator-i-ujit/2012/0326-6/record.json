@@ -1,0 +1,27 @@
+{
+  "qbz_id": 8350,
+  "title": "PËR LICENCIM PËR HERË TË PARË “UJËSJELLËS HIMARË” SHA",
+  "type": "Vendim",
+  "number": "6",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2012-03-26",
+  "version_no": 1,
+  "qbz_version_id": 836,
+  "in_force": "2015-06-03",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2015-06-03",
+  "changed_by_qbz_id": 12174,
+  "changed_by_number": "22",
+  "changed_by_title": "Për një ndryshim në vendimin nr. 6, datë 26.3.2012 “Licencim për herë të parë ujësjellës Himarë sh.a.”.",
+  "source": "https://qbz.gov.al/files/46d2061373a387165074cdb88e231fb4b73d9e4552244206cce842bd6bf3f7c1.docx",
+  "source_sha256": "46d2061373a387165074cdb88e231fb4b73d9e4552244206cce842bd6bf3f7c1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8350",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/8350/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
