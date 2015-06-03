@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12034,
+  "title": "Për një ndryshim në vendimin nr. 602, datë 21.8.2003, të Këshillit të Ministrave, “Për miratimin e statutit të Qendrës Kombëtare Kinematografike”.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "443",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-05-20",
+  "published": "2015-06-03",
+  "in_force": "2015-06-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9c6ac8288f4f2090598ecaab197e4cf8917f3d4d8500f8433068376170916b7b.docx",
+  "source_sha256": "9c6ac8288f4f2090598ecaab197e4cf8917f3d4d8500f8433068376170916b7b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12034",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/05/20/443",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
