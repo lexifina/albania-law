@@ -1,0 +1,1 @@
+2. Kontrolli mjekësor sipas pikës 1 të këtij udhëzimi, bëhet pranë qendrave shëndetësore lokale kompetente për territorin, bazuar në analizat dhe kontrollet mjekësore të specialistëve, të pasqyruara në certifikatën e anamnezisë, sipas formularit që zotërojnë qendrat shëndetësore.

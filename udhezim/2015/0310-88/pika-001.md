@@ -1,0 +1,1 @@
+1. Subjekti fizik që kërkon autorizim apo licencë për veprimtari të lejuara me armët është i detyruar të bëjë kontrollin mjekësor, për aftësitë fizike e mendore të tij, si dhe të mos jetë përdorues i lëndëve narkotike dhe substancave psikotrope.
