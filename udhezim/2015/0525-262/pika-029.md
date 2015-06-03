@@ -1,0 +1,1 @@
+29. Akademia e Sigurisë të marrë masat për ngritjen dhe funksionimin e komisioneve për testimin e drejtuesve teknikë - administrativë për aftësimin teorik e praktik me armët, me urdhër të drejtorit të Akademisë së Sigurisë.

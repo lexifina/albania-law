@@ -1,0 +1,1 @@
+28. Këto programe zhvillohen si nga vetë Akademia e Sigurisë për testimin e kandidatëve për drejtues teknik-administrativ, ashtu dhe nga subjektet private të licencuara për kurse trajnimi për aftësimin teorik dhe praktik me armët.

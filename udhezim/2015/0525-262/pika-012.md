@@ -1,0 +1,1 @@
+12. Përmbajtja e testit të provimit dhe procedurat e kryerjes së tij, përgatiten nga strukturat përgjegjëse të Akademisë së Sigurisë, mbi bazën e përmbajtjes së moduleve të zhvilluara në kursin e trajnimit privat.
