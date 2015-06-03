@@ -1,0 +1,1 @@
+2. Ministrisë së Zhvillimit Urban, në buxhetin e miratuar për vitin 2015, për Agjencinë Kombëtare të Planifikimit të Territorit, t’i shtohet fondi prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh, për përballimin e pjesshëm të shpenzimeve për realizimin e procedurave të prokurimit, sipas pikës 1, të këtij vendimi.
