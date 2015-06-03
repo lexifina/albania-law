@@ -1,0 +1,1 @@
+8. Në shkollën koreografike nxënësit pranohen mbi bazën e përzgjedhjes së bërë në klasat parapërgatitore (dy klasa të katërta). Përzgjedhja e nxënësve bëhen nga komisioni i ngritur për këtë qëllim. Kriteret e përzgjedhjes së nxënësve përcaktohen nga shkolla dhe miratohen nga drejtoria arsimore rajonale. Procesi i konkurrimit monitorohet nga Ministria e Arsimit dhe Sportit.

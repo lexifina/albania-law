@@ -1,0 +1,1 @@
+1. Shkollat e arsimit të orientuar (artistike, sportive apo për gjuhë të huaja) (në vijim shkollat) afishojnë në një vend të dukshëm të shkollës dhe publikojnë në faqen e tyre të internetit, një muaj para datës së regjistrimit: a) kuotat e pranimeve të reja të nxënësve; b) afatet e aplikimit; c) datat e regjistrimit.

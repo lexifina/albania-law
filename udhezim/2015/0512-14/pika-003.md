@@ -1,0 +1,1 @@
+3. Shkollat pranojnë nxënës jo vetëm nga njësitë arsimore vendore në juridiksionin e të cilëve janë shkollat, por edhe nga njësitë arsimore vendore të tjera që nuk kanë shkolla të profileve të sipërpërmendura.

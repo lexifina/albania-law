@@ -1,0 +1,1 @@
+2. Njësia arsimore vendore (drejtoria arsimore rajonale (DAR)/zyra arsimore (ZA) publikon në faqen e saj zyrtare të internetit dhe në vende të dukshme të DAR/ZA të dhënat e parashikuara në pikën 1 të këtij kreu, për ato shkolla që janë në juridiksionin e saj.
