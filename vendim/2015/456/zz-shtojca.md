@@ -1,0 +1,134 @@
+# Shtojca
+LISTA E PASURIVE TË PALUAJTSHME PRONË PRIVATE QË DO TË SHPRONËSOHEN PËR MARRJEN NË PËRDORIM TË PËRKOHSHËM PËR INTERES PUBLIK , TË CILAT PREKEN NGA ”PROJEKTI PËR REHABILITIMIN E HAPËSIRËS SË AMFITEATRIT TË DURRËSIT ”
+Nr.
+Pronari
+Zona kadastrale
+Nr. pasurie
+Sipërfaqe ( m2)
+Çmimi
+Vlera
+SHËNIME
+Leke/m2
+Leke
+Truall
+Ndërtim
+Truall
+Ndërtim
+Truallit
+Banesë
+1
+Skënder MYSHKETA
+8512
+24/619
+56.133
+51.03
+17,898
+70,093
+1,004,674
+3,576,845.79
+sipas kartelës së pasurisë
+2
+Naxhie BYLYKBASHI
+8512
+24/619
+56.133
+51.03
+17,898
+70,093
+1,004,674
+3,576,845.79
+sipas kartelës së pasurisë
+3
+Lutfie QOSJA
+8512
+24/619
+56.133
+51.03
+17,898
+70,093
+1,004,674
+3,576,845.79
+sipas kartelës së pasurisë
+4
+Myrteza ZAZA
+8512
+24/618
+24.0
+23.714
+17,898
+70,093
+429,552
+1,662,205.43
+sipas kartelës së pasurisë
+5
+Zyra BLLACA
+8512
+24/618
+24.0
+23.714
+17,898
+70,093
+429,552
+1,662,205.43
+sipas kartelës së pasurisë
+6
+Besnik ZAZA
+8512
+24/618
+24.0
+23.714
+17,898
+70,093
+429,552
+1,662,205.43
+sipas kartelës së pasurisë
+7
+Shekibe ZAZA
+8512
+24/618
+24.0
+23.714
+17,898
+70,093
+429,552
+1,662,205.43
+sipas kartelës së pasurisë
+8
+Fatmir ZAZA
+8512
+24/618
+24.0
+23.714
+17,898
+70,093
+429,552
+1,662,205.43
+sipas kartelës së pasurisë
+9
+Shpresa BASHA
+8512
+24/618
+24.0
+23.714
+17,898
+70,093
+429,552
+1,662,205.43
+sipas kartelës së pasurisë
+10
+Abdulla ZAZA
+8512
+24/618
+24.0
+23.714
+17,898
+70,093
+429,552
+1,662,205.43
+sipas kartelës së pasurisë
+336.40
+319.1
+3,014,023
+22,365,975
+25,379,999
+TOTALI : 25,379,999 Lekë

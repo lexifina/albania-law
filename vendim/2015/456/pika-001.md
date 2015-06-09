@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga zbatimi i projektit “Rehabilitimi i Amfiteatrit të Durrësit”, faza 2, miratuar me vendimin nr. 112/2014, të Këshillit Kombëtar të Restaurimeve.
