@@ -1,0 +1,2 @@
+1. Në buxhetin e vitit 2015, miratuar për Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, në programin buxhetor 04240 “Menaxhimi i infrastrukturës së kullimit dhe ujitjes”, në artikullin 602, shtohet fondi 62 200 000 (gjashtëdhjetë e dy milionë e dyqind mijë) lekë, për pastrimin dhe mirëmbajtjen e kanaleve të ujitjes.
+Ky fond të përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2015.
