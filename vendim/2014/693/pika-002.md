@@ -1,3 +1,3 @@
 2. Qendra e Ofrimit të Shërbimeve Publike të Integruara (Albanian Delivery Integrated Services Agency), në vazhdim ADISA, ka si mision të veprimtarisë:
-a) ofrimin e shërbimeve publike nëpërmjet ngritjes dhe administrimit të qendrave të shërbimeve publike të integruara me një ndalesë (one-stop-shop);
+a) ofrimin e shërbimeve publike nëpërmjet ngritjes dhe administrimit të sporteleve pritëse për qytetarët (front office) si dhe qendrave të shërbimeve publike të integruara me një ndalesë (one-stop-shop); për shërbimet që kryhen nga institucionet dhe agjencitë e qeverisë qendrore dhe/ose të njësive të qeverisjes vendore sipas legjislacionit në fuqi ose marrëveshjeve përkatëse;
 b) aplikimin e modelit të ri të ofrimit të integruar të shërbimeve publike me qytetarin në qendër.
