@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2015, t’i shtohet fondi prej 138 000 000 (njëqind e tridhjetë e tetë milionë) lekësh, fond i nevojshëm për organizimin e zgjedhjeve vendore të datës 21 qershor 2015.

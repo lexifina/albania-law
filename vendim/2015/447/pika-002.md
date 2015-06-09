@@ -1,0 +1,1 @@
+2. Partive politike, në programin “Mbështetje për partitë politike”, t’u shtohet fondi prej prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh. Ky fond u shpërndahet partive politike, të regjistruara si subjekte zgjedhore, nga Komisioni Qendror i Zgjedhjeve për zgjedhjet vendore të vitit 2015.
