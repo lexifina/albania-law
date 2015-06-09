@@ -1,0 +1,1 @@
+1. Ministrisë së Mirëqenies Sociale dhe Rinisë, në buxhetin e miratuar për vitin 2015, programi “Planifikim, menaxhim dhe administrim”, t’i shtohet fondi prej 100 000 000 (njëqind milionë) lekësh, për organizimin e aktiviteteve në kuadër të nismës “Lutja e Paqes 2015”, në bashkëpunim me Komunitetin Sant’ Egidio.
