@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12078,
+  "title": "Për një ndryshim në vendimin nr.34, datë 7.1.1999, të Këshillit të Ministrave, “Për Drejtorinë e Shërbimeve Qeveritare dhe trajtimin e personaliteteve të larta”, të ndryshuar, dhe për një shtesë në buxhetin e vitit 2015 për Drejtorinë e Shërbimeve Qeveritare.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "463",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-05-27",
+  "published": "2015-06-09",
+  "in_force": "2015-06-09",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9e6ba9d47ccb75d805dd5c8233c3db91508fe47352b376fca433787edb62559e.docx",
+  "source_sha256": "9e6ba9d47ccb75d805dd5c8233c3db91508fe47352b376fca433787edb62559e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12078",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/05/27/463",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
