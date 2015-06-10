@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet ndryshimi nr.4, i marrëveshjes së ndihmës për objektiva zhvillimi, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Qeverisë së Shteteve të Bashkuara të Amerikës, për forcimin e shtetit të së drejtës dhe qeverisjen e mirë dhe krijimin e kushteve për një rritje ekonomike me bazë të gjerë, të qëndrueshme dhe gjithëpërfshirëse, sipas tekstit që i bashkëlidhet këtij ligji.
