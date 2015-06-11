@@ -1,0 +1,1 @@
+7. Sekretari i komisionit të zgjedhjeve krijon grupin e punës, që është pjesë e stafit të Dhomës apo Bashkimit të Dhomave dhe ndihmon Komisionin Zgjedhor për procedurat e zgjedhjes së organeve të Dhomave apo Bashkimit të Dhomave, sipas ligjit për dhomat dhe statutit.

@@ -1,0 +1,1 @@
+1. Zhvillimin e zgjedhjeve për organet e dhomave të tregtisë dhe industrisë në të gjitha qarqet, më poshtë të quajtura “Dhoma” dhe për organet në Bashkimin e Dhomave të Tregtisë dhe Industrisë, më poshtë i quajtur “Bashkimi i Dhomave”, në bazë ligjit nr. 9640, datë 9.11.2006, “Për dhomat e tregtisë dhe industrisë”, të ndryshuar, më poshtë “Ligji për Dhomat”.

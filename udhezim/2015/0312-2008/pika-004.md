@@ -1,0 +1,1 @@
+4. Asambleja e çdo dhome zgjedh gjithashtu përfaqësuesit e saj për në Asamblenë e Bashkimit të Dhomave. Numri i përfaqësuesve për secilën Dhomë për në Asamblenë e Bashkimit të Dhomave duhet të jetë 30% e numrit të anëtarëve të Asamblesë së Përgjithshme të dalë nga zgjedhjet e reja.

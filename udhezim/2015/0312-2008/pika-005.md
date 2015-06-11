@@ -1,0 +1,1 @@
+5. Asambleja ekzistuese e Dhomave dhe e Bashkimit te Dhomave zgjedh me votim përbërjen e komisionit të zgjedhjeve, që është përgjegjës për administrimin e procesit të zgjedhjeve për organet e Dhomës apo Bashkimit të Dhomave.

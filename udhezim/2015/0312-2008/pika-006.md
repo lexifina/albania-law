@@ -1,0 +1,1 @@
+6. Komisioni Zgjedhor përbëhet nga kryetari, sekretari dhe 3 (tre) anëtarë. Sekretari i komisionit të zgjedhjeve mund të zgjidhet nga stafi i Dhomës/apo Bashkimit të Dhomave. Sekretari i komisionit të zgjedhjeve përgjigjet për mbajtjen e procesverbalit dhe dokumentacionit zgjedhor, si dhe ushtron çdo detyrë tjetër që përcaktohet në këtë udhëzim apo që i ngarkohet nga Komisioni.

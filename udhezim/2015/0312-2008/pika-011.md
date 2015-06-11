@@ -1,0 +1,1 @@
+11. Sekretari i Dhomës verifikon numrin e anëtarësisë së regjistruar në Dhomë deri 3 ditë para datës së zgjedhjeve dhe në bashkëpunim me komisionin e zgjedhjeve përcakton listën përfundimtare të anëtarëve, sipas grupeve të biznesit, që kanë të drejtë të marrin pjesë në votim.
