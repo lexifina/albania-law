@@ -1,0 +1,28 @@
+{
+  "qbz_id": 66323,
+  "title": "Për licencimin sh.a. “Ujësjellës Fshat Korçë”.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "17",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2015-05-12",
+  "published": "2015-06-11",
+  "in_force": "2015-06-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/bd86fae1ae2e472feb5b50571b7dd413b6028019882472c72eedc48186889051.docx",
+  "source_sha256": "bd86fae1ae2e472feb5b50571b7dd413b6028019882472c72eedc48186889051",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66323",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/05/12/17",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    60296
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
