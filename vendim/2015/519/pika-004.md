@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 37 821 663 (tridhjetë e shtatë milionë e tetëqind e njëzet e një mijë e gjashtëqind e gjashtëdhjetë e tre) lekësh të përballohet nga fondi rezervë i buxhetit të shtetit.
