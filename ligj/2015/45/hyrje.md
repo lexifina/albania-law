@@ -1,0 +1,9 @@
+LIGJ
+Nr. 45/2015
+PËR TË DREJTËN E INFORMIMIT PËR DOKUMENTET
+E ISH-SIGURIMIT TË SHTETIT TË REPUBLIKËS POPULLORE
+SOCIALISTE TË SHQIPËRISË
+Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:

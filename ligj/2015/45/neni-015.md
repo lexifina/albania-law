@@ -1,0 +1,4 @@
+# Neni 15
+Dorëzimi i dokumenteve nga personi fizik dhe juridik privat
+1. Çdo person fizik dhe juridik privat i dorëzon menjëherë Autoritetit, me kërkesë të tij, dokumentet e ish-Sigurimit të Shtetit që zotëron, si dhe kopje apo dublikata të tjera, kur këto nuk janë në pronësi të personit fizik apo juridik privat. Vërtetimi i pronësisë i takon personit fizik ose juridik privat. Për qëllime të zbatimit të këtij ligji, konsiderohen në pronësi të personit fizik apo juridik privat dokumentet që ky i fundit, në bashkëpunim me ish-Sigurimin e Shtetit, i ka përgatitur vetë.
+2. Kur dokumentet e ish-Sigurimit të Shtetit, sipas përcaktimeve të pikës 1, të këtij neni, rezultojnë në pronësi të personit fizik apo juridik privat, ky i fundit i vë ato në dispozicion të Autoritetit për të përgatitur kopje ose dublikata të tyre.

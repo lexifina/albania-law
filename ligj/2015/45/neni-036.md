@@ -1,0 +1,12 @@
+# Neni 36
+Informimi për qëllime kërkimore dhe historike
+1. Në funksion të veprimtarisë hulumtuese dhe kërkimit shkencor, me qëllim rishqyrtimin historik të veprimtarisë së ish-Sigurimit të Shtetit apo të edukimit qytetar, Autoriteti vë në dispozicion, mbi bazë kërkese, dokumentet e mëposhtme:
+a) dokumente që nuk përmbajnë të dhëna personale;
+b) dublikata të dokumenteve, në të cilat janë bërë të palexueshme të dhënat personale;
+c) dokumente që përmbajnë të dhëna personale mbi punonjësit, bashkëpunëtorët ose të favorizuarit e ish-Sigurimit të Shtetit, për veprimtari në favor të ish-Sigurimit të Shtetit, të kryera pas mbushjes së moshës 18 vjeç;
+ç) dokumente që përmbajnë të dhëna personale mbi persona të historisë së kohës, mbajtës të funksioneve politike, për aq sa bëhet fjalë për informacione që i përkasin rolit të tyre në historinë e kohës dhe ushtrimit të funksioneve;
+d) dokumente të tjera që përmbajnë të dhëna personale, nëse paraqiten miratimet me shkrim të personave të prekur;
+dh) dokumente që përmbajnë të dhëna personale mbi të vdekurit, vdekja e të cilëve ka ndodhur të paktën 30 vite më parë.
+2. Dokumentet që përmbajnë të dhëna personale vihen në dispozicion vetëm kur nëpërmjet përdorimit të tyre nuk dëmtohen interesat e ligjshëm dhe të drejtat e personave të përmendur në këto dokumente, në përputhje dhe për aq sa nuk vjen në kundërshtim me legjislacionin për mbrojtjen e të dhënave personale.
+3. Për botimin e të dhënave personale, të siguruara sipas pikave 1 dhe 2, të këtij neni, zbatohet legjislacioni në fuqi për mbrojtjen e të dhënave personale.
+4. Në zbatimin e pikave 1 dhe 2, të këtij neni, Autoriteti, kur kjo është e mundur, vë në dijeni personat e prekur për vënien në dispozicion të të dhënave dhe merr në konsideratë kundërshtimet e mundshme të tyre, duke vlerësuar, për çdo rast, interesin privat përkundrejt atij publik.

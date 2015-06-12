@@ -1,0 +1,12 @@
+# Neni 20
+Garantimi i së drejtës për informim
+1. Kërkuesit i njihet e drejta për t’u njohur me dokumentet kur ai ka cilësinë e të prekurit, palës së tretë, bashkëpunëtorit apo të favorizuarit të ish-Sigurimit të Shtetit ose është një përfaqësues me prokurë i këtyre të fundit. Kjo e drejtë përfshin njohjen dhe shqyrtimin e dokumenteve origjinale ose dublikatave të tyre.
+2. Autoriteti mund ta kufizojë pjesërisht ose plotësisht garantimin e së drejtës për informim, kur të dhënat përbëjnë kërcënim real për Sigurinë Kombëtare.
+3. Kur, për shkaqe aftësie të kufizuar, kërkuesi, për të shqyrtuar dokumentet, ka nevojë për ndihmën e një të treti, Autoriteti lejon praninë e të tretit kur kërkuesi deklaron me shkrim se ai është person i besuar dhe ka arsye të mjaftueshme për të besuar nevojën për shoqërim.
+4. Kur dokumentet ose dublikatat, përveç informacioneve personale mbi kërkuesin, përmbajnë edhe të dhëna për të prekur të tjerë apo palë të treta, shqyrtimi i dokumenteve origjinale garantohet vetëm kur:
+a) kjo miratohet nga të prekurit e tjerë apo palët e treta; ose
+b) është e pamundur ndarja e të dhënave mbi të prekurit e tjerë apo palët e treta; ose
+c) është e mundur vetëm me përpjekje të pajustifikuara dhe nuk ka arsye për të prezumuar se të prekurit e tjerë apo palët e treta kanë interes të ligjshëm në mbajtjen e këtyre informacioneve të fshehta.
+5. Kërkuesit i garantohet e drejta për të njohur dhe shqyrtuar edhe dublikata, tek të cilat informacionet personale mbi të prekur të tjerë apo palë të treta janë bërë të palexueshme. Shqyrtimi kryhet në zyrat e Autoritetit.
+6. Kërkuesit i dorëzohen dublikata të dokumenteve vetëm pasi janë bërë të palexueshme të dhënat personale për të prekurit e tjerë apo palët e treta.
+7. E drejta për njohje, shqyrtim dhe dorëzim të dokumenteve nuk zbatohet për mjetet e parashikuara nga neni 3, pika 5, shkronja “a”, nënndarja “iii”, të këtij ligji. Kur dokumentet nuk mund të gjenden, e drejta për shqyrtim dhe dorëzim shtrihet te dublikatat dhe të dhënat e kartelave dhe skedave të kartotekës, të cilat përdoren për interpretimin e dokumenteve dhe përmbajnë të dhëna personale për kërkuesin.

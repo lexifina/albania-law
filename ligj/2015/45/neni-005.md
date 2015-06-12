@@ -1,0 +1,9 @@
+# Neni 5
+Rregulla të përgjithshme për mbledhjen e dokumenteve dhe informimin
+1. Autoriteti mbledh, ruan, administron dhe përdor dokumentet e ish-Sigurimit të Shtetit, sipas këtij ligji, duke përdorur, sipas nevojës, edhe informacionet nga regjistri qendror i gjendjes civile.
+2. Çdo person ka të drejtë të kërkojë nga Autoriteti të informohet nëse në dokumentet e administruara ka informacione për personin e tij dhe t’i marrë këto informacione, kur ka të tilla, sipas këtij ligji.
+3. Autoritetet publike dhe subjektet e tjera, të parashikuara nga ky ligj, kanë akses te dokumentet e ish-Sigurimit të Shtetit, vetëm për aq sa e lejon ligji.
+4. Autoriteti vë në dispozicion të autoriteteve shtetërore përkatëse çdo informacion të siguruar gjatë veprimtarisë së tij, kur kjo kërkohet për qëllime të hetimit dhe ndjekjes penale.
+5. Kur personi i prekur, pala e tretë, të afërmit e të vdekurve apo të të zhdukurve, bashkëpunëtorë ose të favorizuar të ish-Sigurimit të Shtetit paraqesin, në publik, me vullnetin e tyre, dokumente me informacione për personin e tyre, këto informacione lejohet të përdoren për qëllimet për të cilat janë kërkuar, në zbatim të këtij ligji.
+6. Me vendim të veçantë dhe të arsyetuar, Autoriteti korrigjon çdo informacion që rezulton i pasaktë, pas konstatimit nga vetë Autoriteti apo verifikimit me kërkesë të personit të interesuar, duke bërë reflektimet përkatëse në dokumente. Ky vendim është i ankimueshëm në gjykatën kompetente për gjykimin e çështjeve adminis-trative, në përputhje me legjislacionin në fuqi.
+7. Në varësi të kompleksitetit dhe shkallës së vështirësisë së evidentimit të dokumentacionit, për çdo rast, Autoriteti përgjigjet brenda një afati të arsyeshëm. Rregulla të hollësishme mbi afatet për përgjigje ndaj kërkesave përcaktohen në rregulloren e organizimit dhe të funksionimit të Autoritetit.
