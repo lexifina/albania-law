@@ -1,0 +1,2 @@
+11. Ngarkohen Ministria e Transportit dhe Infrastrukturës, Ministria e Financave, Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Autoriteti Rrugor Shqiptar, Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Kukës për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
