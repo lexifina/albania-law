@@ -1,0 +1,1 @@
+2. Në vendimin nr. 556, datë 1.8.2003, të Këshillit të Ministrave, të ndryshuar, dhe në tekstin e marrëveshjes bazë të koncesionit, emërtimi “Ministria e Industrisë dhe Energjetikës” zëvendësohet me “Ministria e Energjisë dhe Industrisë”.
