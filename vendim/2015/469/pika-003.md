@@ -1,0 +1,7 @@
+3. Për dhënien me qira të ndërtesave që nuk janë apartamente banimi, në qytetin e Tiranës, vlera minimale e qirasë mujore, për 1 m2 sipërfaqe ndërtimi, përcaktohet, si më poshtë vijon:
+a) Për 1m2 sipërfaqe për dyqan mallrash apo shërbimesh, vlera minimale e qirasë mujore është 2 (dy) herë më e lartë se vlera minimale e qirasë mujore për 1m2 sipërfaqe të apartamenteve të banimit, sipas zonave të Tiranës;
+b) Për 1m2 sipërfaqe për garazh të mbuluar, vlera minimale e qirasë mujore është 70 për qind e vlerës minimale të qirasë mujore për 1m2 sipërfaqe të apartamenteve të banimit, sipas zonave të Tiranës;
+c) Për 1m2 sipërfaqe për zyrë dhe magazinë, vlera minimale e qirasë mujore është e barabartë me vlerën minimale të qirasë mujore për 1m2 sipërfaqe të apartamenteve të banimit, sipas zonave të Tiranës;
+ç) Për 1m2 sipërfaqe parkim të hapur, vlera minimale e qirasë mujore është 30 për qind e vlerës minimale të qirasë mujore për 1m2 sipërfaqe të apartamenteve të banimit, sipas zonave të Tiranës;
+Për 1m2 sipërfaqe bodrumi, vlera minimale e qirasë mujore është 70 për qind e vlerës minimale të qirasë mujore për 1m2 sipërfaqe të apartamenteve të banimit, sipas zonave të Tiranës;
+dh) Për 1m2 sipërfaqe të ndërtesave të privatizuara me ligjin nr. 7652, datë 23.12.1992, “Për privatizimin e banesave shtetërore”, të ndryshuar, vlera minimale e qirasë mujore është 70 për qind e vlerës minimale të qirasë mujore për 1m2 sipërfaqe të apartamenteve të banimit, sipas zonave të Tiranës.

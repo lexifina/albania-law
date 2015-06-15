@@ -1,0 +1,1 @@
+1. Vlera e dhënies me qira të ndërtesës përcaktohet në kontratën e noterizuar të qirasë, sipas legjislacionit të fushës. Në kontratë, veç të tjerave, duhet, detyrimisht, të përcaktohet qartë adresa ku ndodhet ndërtesa, sipërfaqja, në metër katror, dhe vlera mujore e qirasë së objektit.
