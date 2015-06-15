@@ -1,0 +1,26 @@
+# Shtojca
+MARRËVESHJE
+NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE QEVERISË SË REPUBLIKËS FEDERALE TË GJERMANISË, MBI BASHKËPUNIM FINANCIAR 2011 PËR PROJEKTIN “EFIÇENCA ENERGJETIKE - PROGRAMI PËR SEKTORIN E TRANSMETIMIT TË ENERGJISË ELEKTRIKE”, KËSHILLI I MINISTRAVE I REPUBLIKËS SË SHQIPËRISË DHE QEVERIA E REPUBLIKËS FEDERALE TË GJERMANISË
+Në frymën e marrëdhënieve miqësore ekzistuese ndërmjet Republikës së Shqipërisë dhe Republikës Federale të Gjermanisë,
+duke u nisur nga dëshira për t’i forcuar dhe thelluar këto marrëdhënie miqësore nëpërmjet Bashkëpunimit Financiar si partnerë;
+të ndërgjegjshëm se ruajtja e këtyre marrë-dhënieve përbën bazën e kësaj marrëveshjeje;
+me qëllim për të kontribuar në zhvillimin social dhe ekonomik në Republikën e Shqipërisë;
+duke iu referuar premtimit të ambasadës së Republikës Federale të Gjermanisë (nota verbale nr. 164/2011 e datës 21 shtator 2011);
+ranë dakord si vijon:
+Neni 1
+1. Qeveria e Republikës Federale të Gjermanisë u jep mundësi Këshillit të Ministrave të Republikës së Shqipërisë ose huamarrësve të tjerë, të cilët do të zgjidhen bashkërisht nga të dy Qeveritë, të marrin për projektin “Efiçenca energjetike - Programi për sektorin e transmetimit të energjisë elektrike” një hua me kushte të favorshme nga Kreditanstalt für Wiederaufbau (KfW), e cila akordohet në kuadër të bashkëpunimit publik zhvillimor, me vlerë prej deri në 40.000.000 euro (me fjalë: dyzet milion euro), nëse pas shqyrtimit përkatës është konstatuar se projekti vlen për t’u mbështetur në kuadër të politikës zhvillimore dhe kur Republika e Shqipërisë vazhdon të jetë e besueshme lidhur me kreditë dhe kur Këshilli i Ministrave i Republikës së Shqipërisë jep garanci shtetërore, në rast se ai vetë nuk është huamarrës. Projekti në fjalë nuk mund të zëvendësohet me projekte të tjera.
+2. Në rast se Qeveria e Republikës Federale të Gjermanisë në një kohë të mëvonshme i jep mundësi Këshillit të Ministrave të Republikës së Shqipërisë të marrë nga Kreditanstalt für Wiederaufbau hua ose shuma të tjera financimi për përgatitjen e projektit të përmendur në paragrafin 1 ose shuma të tjera financimi për masa të nevojshme shoqëruese për zbatimin dhe mbikëqyrjen e projektit të përmendur në paragrafin 1, gjen zbatim kjo marrëveshje.
+3. Shumat e financimit për masa përgatitore dhe shoqëruese sipas paragrafit 2 do të kthehen në hua, në rast se ato nuk përdoren për masa të tilla.
+Neni 2
+1. Përdorimi i shumës së përmendur në nenin 1, kushtet me të cilat vihet në dispozicion ajo, si dhe procedura e dhënies së porosisë përcaktohen në kontratat që do të lidhen midis Kreditanstalt für Wiederaufbau dhe marrësve të huave dhe të shumave të financimit, të cilat u nënshtrohen dispozitave ligjore në fuqi në Republikën Federale të Gjermanisë.
+2. Premtimi i shumës së përmendur në nenin 1 bie, në rast se kontratat përkatëse të huadhënies nuk përfundohen brenda një afati prej tetë vjetësh pas vitit të premtimit. Për shumën e përmendur në nenin 1, ky afat mbaron më datë 31 dhjetor 2019.
+3. Këshilli i Ministrave i Republikës së Shqipërisë, kur ai vetë nuk është huamarrës, do të garantojë ndaj Kreditanstalt für Wiederaufbau të gjitha pagesat me euro për shlyerjen e borxheve të huamarrësve në bazë të kontratave, të cilat do të do të lidhen sipas paragrafit 1.
+4. Këshilli i Ministrave i Republikës së Shqipërisë, në rastet kur ai vetë nuk është marrësi i shumave të financimit, do të garantojë ndaj Kreditanstalt für Wiederaufbau pretendimet eventuale lidhur me shlyerjen, që mund të lindin në bazë të kontratave për financim, të cilat do të përfundohen sipas paragrafit 1.
+Neni 3
+Këshilli i Ministrave i Republikës së Shqipërisë e liron Kreditanstalt für Wiederaufbau nga të gjitha tatimet dhe taksat e tjera publike, të cilat merren në Republikën e Shqipërisë në kontekstin e lidhjes dhe zbatimit të kontratave të përmendura në nenin 2 paragraf 1.
+Neni 4
+Këshilli i Ministrave i Republikës së Shqipërisë i lejon pasagjerët dhe furnizuesit të zgjedhin lirisht ndërmarrjet transportuese për transportimin e personave dhe të mallrave në rrugë detare, tokësore dhe ajrore, që rezulton nga dhënia e shumës së financimit, si dhe nuk merr asnjë masë e cila përjashton ose vështirëson pjesëmarrjen me të drejta të barabarta të ndërmarrjeve transportuese me qendër në Republikën Federale të Gjermanisë, dhe nxjerr në rast se duhet lejet e nevojshme për pjesëmarrjen e këtyre ndërmarrjeve transportuese.
+Neni 5
+1. Kjo marrëveshje hyn në fuqi në ditën kur Këshilli i Ministrave i Republikës së Shqipërisë i njofton Qeverisë së Republikës Federale të Gjermanisë se janë përmbushur kushtet brenda-shtetërore për hyrjen e saj në fuqi. Përcaktuese është dita e marrjes së njoftimit.
+2. Regjistrimi i kësaj marrëveshjeje te sekre-tariati i Kombeve të Bashkuara, sipas nenit 102 të Kartës së Kombeve të Bashkuara, do të iniciohet nga Republika Federale e Gjermanisë, menjëherë pas hyrjes së saj në fuqi. Pala tjetër kontraktuese do të njoftohet për regjistrimin e kryer, duke u dhënë numrin e regjistrimit të Kombeve të Bashkuara, sapo ky të jetë i konfirmuar nga sekretariati i Kombeve të Bashkuara.
+Bërë në Tiranë më në dy origjinale, secili në gjuhën shqipe dhe gjermane, duke pasur të dy tekstet fuqi të barabartë.
