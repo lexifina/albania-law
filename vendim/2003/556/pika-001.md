@@ -1,1 +1,1 @@
-1. Miratimin e Marrëveshjes së koncesionit të formës “BOO” ndërmjet Ministrisë së Industrisë dhe të Energjetikës dhe shoqërisë “Teodori” sh.p.k., Tiranë, për ndërtimin e hidrocentraleve në Tërnovë dhe në Zall të Bulqizës, sipas tekstit që i bashkëlidhet këtij vendimi.
+1. Miratimin e Marrëveshjes së koncesionit të formës “BOO” ndërmjet Ministria e Energjisë dhe Industrisë dhe shoqërisë “Teodori” sh.p.k., Tiranë, për ndërtimin e hidrocentraleve në Tërnovë dhe në Zall të Bulqizës, sipas tekstit që i bashkëlidhet këtij vendimi.

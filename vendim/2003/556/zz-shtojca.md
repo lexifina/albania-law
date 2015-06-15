@@ -1,14 +1,14 @@
 # Shtojca
 MARRËVESHJE
 KONCESIONI PËR NDËRTIMIN, PRONËSINË DHE SHFRYTËZIMIN E HIDROCENTRALEVE VENDORE TËRNOVË DHE ZALLI I BULQIZËS, ME KONCESION TË FORMËS BOO (NDËRTIM, PRONËSI, SHFRYTËZIM)
-Ndërmjet Qeverisë së Republikës së Shqipërisë, e përfaqësuar nga Ministria e Industrisë dhe Energjetikës, si “Organ Shtetëror i Autorizuar (OSHA)”, i përcaktuar nga vendimi i Këshillit të Ministrave nr.32, datë 16.1.2003, që më poshtë do të quhet i tillë dhe shoqërisë ”Teodori”, sh.p.k., Tiranë, regjistruar si person juridik me vendimin nr.21820, datë 17.8.1999 të Gjykatës së Rrethit Tiranë, që më poshtë do të quhet “Koncesionari”.
+Ndërmjet Qeverisë së Republikës së Shqipërisë, e përfaqësuar nga Ministria e Energjisë dhe Industrisë si “Organ Shtetëror i Autorizuar (OSHA)”, i përcaktuar nga vendimi i Këshillit të Ministrave nr.32, datë 16.1.2003, që më poshtë do të quhet i tillë dhe shoqërisë ”Teodori”, sh.p.k., Tiranë, regjistruar si person juridik me vendimin nr.21820, datë 17.8.1999 të Gjykatës së Rrethit Tiranë, që më poshtë do të quhet “Koncesionari”.
 Hyrje
 Duke pasur parasysh që Qeveria shqiptare:
 konsideron privatizimin e sektorit elektroenergjetik si një element të rëndësishëm të politikës elektroenergjetike;
 është e angazhuar për ngritjen dhe zhvillimin e tregut të energjisë elektrike brenda vendit;
 mirëpret investitorët vendas në ndërtimin e kapaciteteve të reja prodhuese të energjisë elektrike;
 vlerëson formulën e koncesionit BOO, që bën të mundur ndërtimin e hidrocentraleve vendore pa prekur Buxhetin e Shtetit;
-autorizon, sipas vendimit të Këshillit të Ministrave nr.32, datë 16.1.2003 “Për miratimin e propozimit si projekt i pakërkuar i kërkesës për ndërtimin e hidrocentraleve Tërnovë dhe Zalli i Bulqizës, me koncesion të formës BOO”, Ministrinë e Industrisë dhe të Energjetikës të negociojë dhe të nënshkruajë Marrëveshjen e koncesionit.
+autorizon, sipas vendimit të Këshillit të Ministrave nr.32, datë 16.1.2003 “Për miratimin e propozimit si projekt i pakërkuar i kërkesës për ndërtimin e hidrocentraleve Tërnovë dhe Zalli i Bulqizës, me koncesion të formës BOO”, Ministria e Energjisë dhe Industrisë të negociojë dhe të nënshkruajë Marrëveshjen e koncesionit.
 Koncensionari:
 - është seriozisht i interesuar të investojë në fushën e elektroenergjetikës;
 - ka ndërmarrë studimin tekniko-ekonomik për ndërtimin dhe shfrytëzimin e hidrocentraleve, objekte të këtij koncesioni.
@@ -18,8 +18,7 @@ Neni 1
 Përkufizime
 Kudo që në këtë kontratë përdoren termat e mëposhtëm, ato do të kenë kuptimet përkatëse të mëposhtme:
 Marrëveshja e koncesionit: ky dokument dhe anekset e tij.
-Organi Shtetëror i Autorizuar (OSHA): Ministria e Industrisë dhe e Energjetikës.
-Koncesionari: shoqëria “TEODORI” sh.p.k., Tiranë.
+Organi Shtetëror i Autorizuar (OSHA) Ministria e Energjisë dhe Industrisë: Koncesionari: shoqëria “TEODORI” sh.p.k., Tiranë.
 Hidrocentralet: Përcaktohen në vendimin e Këshillit të Ministrave nr.32, datë 16.1.2003 ”Për miratimin e propozimit si projekt i pakërkuar i kërkesës për ndërtimin e hidrocentraleve Tërnovë dhe Zalli i Bulqizës, me koncesion të formës BOO”.
 Periudhë koncesioni: Periudha kohore deri në marrjen në pronësi të hidrocentraleve nga Koncesionari.
 Projekti: Studimi tekniko-ekonomik për ndërtimin e hidrocentraleve vendore, Tërnovë dhe Zalli i Bulqizës, me koncesion të formës BOO.
@@ -167,7 +166,7 @@ Bashkëpunimi ndërmjet OSHA-së dhe Koncesionarit
 Organi Shtetëror i Autorizuar dhe Koncesionari janë zotuar të bashkëpunojnë në mënyrë që të garantojnë implementimin e projektit. Përveç rasteve kur bien dakord me shkrim për ndonjë formë tjetër, korrespondenca do të dërgohet me letër me postë, telegram ose fax, në adresat e mëposhtme:
 Organi Shtetëror i Autorizuar
 OSHA
-Ministria e Industrisë dhe e Energjetikës
+Ministria e Energjisë dhe Industrisë
 Sheshi ”Skënderbej”, nr.2, Tiranë
 Koncesionari
 Shoqëria ”Teodori” sh.p.k.
