@@ -1,0 +1,1 @@
+3. Ngarkohet Agjencia e Legalizimit, Urbanizimit dhe Integrimit të Zonave / Ndërtimeve Informale për lidhjen e kontratave të kalimit të së drejtës së pronësisë për parcelat ndërtimore, sipas neneve 83 dhe 750, të ligjit nr. 7850, datë 29.7.1994, “Kodi Civil i Republikës së Shqipërisë”, të ndryshuar.

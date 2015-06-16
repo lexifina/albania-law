@@ -1,0 +1,1 @@
+4. Deri në momentin e regjistrimit të ndërtimit të legalizuar, zyrat vendore të regjistrimit të pasurive të paluajtshme të mos kryejnë ndryshime të gjendjes juridike të pasurive të listuara në këtë vendim.
