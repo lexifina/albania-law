@@ -1,0 +1,1 @@
+2. Për të huajt që përmbushin kriteret sipas nenit 53, pika 1/a dhe nenit 61, pika 1/dh, kërkesa për leje qëndrimi dhe dokumentacioni i nevojshëm ligjor depozitohet nga autoriteti përgjegjës për azilin, pranë autoritetit vendor për kufirin dhe migracionin.

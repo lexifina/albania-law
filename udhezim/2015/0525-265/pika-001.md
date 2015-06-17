@@ -1,0 +1,1 @@
+1. Kërkesa për leje qëndrimi ose për ripërtëritjen e saj bëhet pranë njësisë së migracionit të autoritetit përgjegjës vendor për kufirin dhe migracionin, e cila mbulon territorin ku i huaji ka vendbanimin në momentin e aplikimit.

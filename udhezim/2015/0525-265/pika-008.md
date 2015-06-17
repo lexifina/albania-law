@@ -1,0 +1,1 @@
+8. Procedurat e aplikimit për leje qëndrimi për kategoritë e tjera të parashikuara në nenin 34, të ligjit nr. 108/2013, “Për të huajt”, bëhet në bashkëpunim me strukturat përgjegjëse të tjera shtetërore, të angazhuara me trajtimin e tyre dhe në orare të posaçme nga ajo për të huajt e tjerë.

@@ -1,0 +1,1 @@
+4. Në rast të aplikimit për herë të parë, kur dëshmia e penalitetit e të huajit përmban të dhëna për precedent penal, nga ana e autoritetit për kufirin dhe migracionin, kërkohet mendim prej autoriteteve kompetente të rendit dhe të policisë kriminale pranë autoritetit qendror të Policisë së Shtetit për vijimin e procedurës së vlerësimit të aplikimit.
