@@ -1,0 +1,1 @@
+9. Autoritetet përgjegjëse për trajtimin e të huajve, të përcaktuara në nenin 4, të ligjit nr. 108/2013, “Për të huajt”, sipas fushës së tyre të përgjegjësive dhe përcaktimeve në nenin 9 të ligjit nr. 108/2013 “Për të huajt”, i propozojnë Ministrit të Punëve të Brendshme shpalljen e të huajit si “person i padëshiruar”, duke argumentuar arsyen e kërkesës.

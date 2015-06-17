@@ -1,0 +1,1 @@
+8. I huaji, subjekt dëbimi, bazuar në vlerësimin rast pas rasti, ndalohet në Qendrën e Mbyllur ose urdhërohet të zbatojë një ose disa nga masat alternative të parashikuara në ligjin nr. 108/2013, “Për të huajt”.
