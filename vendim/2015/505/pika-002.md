@@ -1,0 +1,1 @@
+2. Për shqyrtimin në afat të ankesave, të ngrihen 10 komisione eprore, nga të cilat 6 komisione ushtrojnë aktivitetin dhe funksionin e tyre pranë Institutit të Sigurimeve Shoqërore dhe 4 komisione ushtrojnë aktivitetin dhe funksionin e tyre pranë Shërbimit Social Shtetëror, sipas aneksit 1 bashkëlidhur këtij vendimi.

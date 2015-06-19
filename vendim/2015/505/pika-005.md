@@ -1,0 +1,5 @@
+5. Anëtarët e komisioneve eprore ushtrojnë funksionet e tyre për:
+a) shqyrtimin dhe zgjidhjen e kërkesave të të sëmurëve, invalidëve apo personave me aftësi të kufizuara, që ankimojnë vendimet e KMCAP-ve të nivelit të parë;
+b) studimin dhe vlerësimin para dhe gjatë zhvillimit të seancës të relacionit të hartuar nga relatori, mjek i ekspertizës së Institutit të Sigurimeve Shoqërore/Shërbimit Social Shtetëror, duke shqyrtuar dokumentacionin mjekësor dhe ligjor të dosjes, duke kryer vizita të drejtpërdrejta të ankimuesit dhe, në raste të caktuara, edhe duke kërkuar ekzaminime të specializuara, përveç atyre të përmendura në dosje;
+c) caktimin e aftësisë për punë dhe të shkallës së invaliditetit, në bazë të gjendjes shëndetësore të ankuesit dhe të kritereve mjekësore, të përcaktuara e të miratuara për nivelin e aftësisë për punë apo të aftësive shëndetësore të kufizuara, dhe marrjen e vendimit;
+ç) kryerjen e studimeve mbi gjendjen dhe ecurinë e invaliditetit/aftësisë së kufizuar, drejtimet dhe zgjidhjet për përmirësimin e treguesve.

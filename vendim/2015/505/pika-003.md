@@ -1,0 +1,2 @@
+3. Anëtari i Komisionit Epror, pas zgjedhjes në detyrë dhe përpara fillimit të ushtrimit të detyrës, betohet në një ceremoni publike, të organizuar nga ministri i Mirëqenies Sociale dhe Rinisë, ministri i Shëndetësisë, ministri i Financave dhe ministri i Drejtësisë, sipas tekstit të dhënë në aneksin 2, bashkëlidhur këtij vendimi.
+Anëtarët e komisioneve eprore, gjatë ushtrimit të mandatit të tyre në komision, nuk mund të jenë pjesë e vendimmarrjes së drejtimit të të sëmurëve, invalidëve dhe personave me aftësi të kufizuara në KMCAP-të e të dyja niveleve.
