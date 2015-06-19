@@ -1,0 +1,1 @@
+1. Miratimin e dëmshpërblimit financiar për ish-të dënuarit politikë dhe për familjarët e të dënuarve me dënim kapital apo ekzekutim pa gjyq, për motive politike, sipas listave A, “Dënim me burg”, dhe B, “Dënim kapital + vrasje pa gjyq”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
