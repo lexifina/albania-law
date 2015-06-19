@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Punëve të Brendshme, për prefektin e Qarkut të Tiranës dhe administratën e tij, të godinës qendrore të Shërbimit Gjeologjik Shqiptar, sipas planimetrive që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, për t’u përdorur për mjedise pune.
