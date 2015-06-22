@@ -1,0 +1,1 @@
+3. Deri në moshën njëzet e një vjeç, nxënësi lejohet të ndjekë arsimin e mesëm profesional katërvjeçar. Nxënësi, që ka mbushur moshën njëzet e dy vjeç, lejohet të vazhdojë vitin e katërt deri në fund të atij viti shkollor.

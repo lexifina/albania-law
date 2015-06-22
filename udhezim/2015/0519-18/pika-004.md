@@ -1,0 +1,1 @@
+4. Shkolla publike profesionale, sipas kuotës së saj të pranimeve, ka të drejtë të pranojë nxënës edhe nga ato zona të tjera të vendit, kur në atë zonë nuk ka shkollë publike profesionale me një drejtim mësimor të caktuar.
