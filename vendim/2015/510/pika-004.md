@@ -1,0 +1,1 @@
+4. “Pasqyrë financiare individuale”, pasqyrat financiare të njësive vendore ekzistuese përpara zgjedhjeve vendore të vitit 2015, që përgatiten në formatin e përcaktuar me udhëzimet nr. 14, datë 28.12.2006, nr. 26, datë 27.12.2007 dhe nr. 29, datë 24.12.2013, të ministrit të Financave.

@@ -1,0 +1,1 @@
+1. “Bashki”, bashkitë e konstituuara pas zgjedhjeve vendore të vitit 2015, me juridiksion territorial sipas ndarjes administrativo-territoriale të përcaktuar me ligjin nr. 115/2014, “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”.

@@ -1,0 +1,1 @@
+2. “Njësi që shkrihet” (NJSH), njësi e qeverisjes vendore, komunë ose bashki, që me ligjin nr. 115/2014, “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”, është shkrirë.
