@@ -1,0 +1,1 @@
+2. Fondi prej 11 800 000 (njëmbëdhjetë milionë e tetëqind mijë) lekësh, sipas shkronjës “a”, të pikës 1, të këtij vendimi, të përdoret për rikonstruksionin e ish-ambienteve të Ministrisë së Integrimit Evropian, në godinën ish-INIMA.
