@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik “Për kërkesat thelbësore, vlerësimin e konformitetit dhe markimin CE të pajisjeve mjekësore të implantueshme aktive”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
