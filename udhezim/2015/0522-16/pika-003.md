@@ -1,0 +1,1 @@
+3. Të drejtën e përzgjedhjes së rastësishme të testit përfundimtar për çdo lëndë, e kanë përzgjedhësit e testit përfundimtar (PTP) të ngarkuar me urdhër të ministrit të Arsimit dhe Sportit dhe specialisti përkatës i përcaktuar në urdhrin e drejtorit të AKP-së dhe me procesverbal.

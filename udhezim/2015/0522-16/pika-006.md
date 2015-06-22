@@ -1,0 +1,1 @@
+6. Pas zhvillimit të çdo provimi, testet të dërgohen nga shërbimi postar në masa sigurie në godinën e shkollës “Sabaudin Gabrani”, Tiranë. AKP-ja kryen inventarizimin dhe shpërndarjen e tyre në qendrat e vlerësimit.
