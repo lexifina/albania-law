@@ -1,0 +1,1 @@
+7. Pronarët e përmendur në listën që i bashkëlidhet këtij vendimi, për të cilët është bërë shënimi “Konfirmuar nga ZVRPP-ja”, “Proces rikonfirmimi”, “Leje ndërtimi”, “Bllokim nga Tatimet”, “Shërbim banke”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë, pranë Autoritetit Rrugor Shqiptar.
