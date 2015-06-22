@@ -3,3 +3,4 @@ a) për pagesat e ekspertëve të jashtëm, vendas ose të huaj, dhe konsulentë
 b) për të mbuluar shpenzimet operative dhe të funksionimit të Këshillit të Akreditimit;
 c) për pagesën e tarifave të anëtarësimit në organizata ose institucione ndërkombëtare;
 ç) për pagesën e anëtarëve të Këshillit të Akreditimit dhe shpenzimet e tjera të tij;
+d) Për pagesat dhe shpenzimet për agjenci vlerësimi të huaja, pjesë e rrjetit evropian të Agjencive të Sigurimit të Cilësisë (ENQA), të angazhuara për vlerësimin e jashtëm të cilësisë.

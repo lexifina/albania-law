@@ -1,4 +1,4 @@
-2. Tarifat për shërbimet që kryen Agjencia Publike e akreditimit të Arsimit të Lartë (APAAL) me angazhimin e ekspertëve të jashtëm, vendas ose të huaj, për vlerësimin e jashtëm dhe akreditimin të jenë si më poshtë në lekë:
+2. Tarifat për shërbimet që kryen Agjencia Publike e akreditimit të Arsimit të Lartë (APAAL) me angazhimin e ekspertëve të jashtëm, vendas ose të huaj, apo agjencive të huaja të vlerësimit, pjesë e rrjetit evropian të Agjencive të Sigurimit të Cilësisë (ENQA) për vlerësimin e jashtëm dhe akreditimin të jenë si më poshtë në lekë:
 Vlerësimet
 Tarifat
 a)
