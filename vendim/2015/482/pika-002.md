@@ -1,0 +1,1 @@
+2. OSHEE,sh.a.-jadhe KESH,sh.a.-ja kanë të drejtëqë të shuajnë me kompensim detyrimin e marrë përsipër nga OSHEE, sha-ja, sipas shkronjës“a”, të pikës 1,të këtij vendimi, me detyrimet që OSHEE,sh.a.-ja ka ndaj KESH, sh.a.-së për energjinë elektrike të blerë për furnizimin e klientëve tariforë.

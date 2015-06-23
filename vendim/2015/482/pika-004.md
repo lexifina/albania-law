@@ -1,0 +1,1 @@
+4. Ky vendim, marrëveshja e nënshkruar, sipas pikës 3, dhe aktrakordimet e nënshkruara ndërmjet palëve përbëjnë dokumentacionin bazë financiar për kryerjen e veprimeve kontabël dhe mbylljen e llogarive të pagueshme (kreditorët) apo të arkëtueshme (debitorët).

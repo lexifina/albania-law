@@ -1,0 +1,1 @@
+3. KESH, sh.a.-ja dhe OSHEE, sh.a.-jatë marrin masa për të nënshkruar marrëveshjen përkatëse për përmbylljen e procesit të kalimit dhe shuarjes me kompensim të detyrimeve dhe Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, në cilësinë e aksionarit të këtyre shoqërive, të vijojë me procedurat e miratimit të këtyre veprimeve juridike.
