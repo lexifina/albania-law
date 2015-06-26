@@ -1,0 +1,8 @@
+1. Qëllimi dhe fusha e veprimit
+a) Ky vendim përcakton funksionet e përgjegjësitë dhe krijon marrëdhënie të ndërsjella ndërmjet autoriteteve dhe strukturave, për të marrë detyrat e zbatimit të buxhetit (këtej e tutje menaxhimi indirekt/MI), për zbatimin e Instrumentit të Asistencës së Paraanëtarësimit të Bashkimit Evropian, Programi IPA II (2014-2020).
+b) Lidhur me dispozitat mbi programet e bashkëpunimit ndërkufitar dhe programin e zhvillimit në fushën e bujqësisë dhe zhvillimit rural, këto programe do të miratohen me vendime të veçanta, të posaçme, të Këshillit të Ministrave.
+c) Ky vendim garanton që, nën menaxhimin indirekt të Programit IPA II, autoriteteve u ngarkohen përgjegjësi për një aktivitet, në lidhje me menaxhimin, zbatimin, kontrollin, mbikëqyrjen, monitorimin, vlerësimin, raportimin apo auditimin e programeve. Autoritetet duhet të mundësojnë ushtrimin e detyrave që shoqërojnë këtë përgjegjësi, duke përfshirë rastet ku nuk ka lidhje hierarkike ndërmjet tyre dhe organeve pjesëmarrëse në atë aktivitet. Në ushtrimin e këtyre funksioneve, këta autoritete duhet të krijojnë:
+i) marrëdhënie formale të punës ndërmjet tyre dhe organeve përkatëse;
+ii) një sistem të përshtatshëm për shkëmbimin e informacionit, duke përfshirë të drejtën për të kërkuar informacion dhe të drejtën e aksesit në dokumentacion dhe në staf, nëse është e nevojshme;
+iii) standardet që duhen përmbushur dhe procedurat që duhen ndjekur.
+Të gjitha raportet, vlerësimet dhe dokumentet e tjera, që lidhen me përgatitjen dhe zbatimin e programeve IPA II, të cilat i dorëzohen Komisionit Evropian, do të hartohen në gjuhën angleze.
