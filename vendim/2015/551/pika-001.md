@@ -1,0 +1,1 @@
+1. Miratimin e kritereve dhe të procedurave për pajisjen me certifikatën e lejes profesionale për veprimtaritë studimore-projektuese dhe zbatuese për kërkimin, prodhimin, përpunimin, transportimin, depozitimin dhe tregtimin e lëndëve hidrokarbure.

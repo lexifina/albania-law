@@ -1,0 +1,1 @@
+5. Pajisja me certifikatën e lejes profesionale e specialistëve, vendas dhe të huaj, për veprimtari studimore-projektuese dhe /ose zbatuese, bëhet nga ministri përgjegjës për hidrokarburet mbi bazën e vendimit të komisionit të vlerësimit për plotësimin e kritereve të pajisjes me certifikatë, i cili ngrihet pranë ministrisë përgjegjëse për hidrokarburet.

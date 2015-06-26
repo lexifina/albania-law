@@ -1,0 +1,2 @@
+12. Për evidentimin e specialistëve të pajisur me certifikatën e lejes profesionale për veprimtari studimore-projektuese dhe/ose zbatuese në fushën e veprimtarive të sektorit hidrokarbur, në ministrinë përgjegjëse për hidrokarburet krijohet regjistri shtetëror i specialistëve të certifikuar, sipas rregullave të miratuara nga ministri.
+Regjistri është i disponueshëm për publikun, sipas rregullave të përcaktuara në rregulloren e administrimit të tij, që miratohet nga ministri përgjegjës për hidrokarburet.

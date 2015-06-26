@@ -1,0 +1,1 @@
+13. Ndaj refuzimit të kërkesës për t’u pajisur me certifikatën e lejes profesionale, pala e interesuar mund të ankohet në rrugë administrative dhe, më pas, në gjykatë, brenda afateve të përcaktuara në Kodin e Procedurave Administrative.

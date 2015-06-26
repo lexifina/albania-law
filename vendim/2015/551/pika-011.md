@@ -1,0 +1,1 @@
+11. Ministri përgjegjës për hidrokarburet përcakton anëtarët e komisionit të vlerësimit për plotësimin e kritereve të pajisjes me certifikatën e lejes profesionale, për veprimtari studimore-projektuese dhe/ose zbatuese në fushën e veprimtarive të sektorit hidrokarbur.

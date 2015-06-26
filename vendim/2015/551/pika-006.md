@@ -1,0 +1,1 @@
+6. Personi juridik, tregtar apo jo, ose fizik, i regjistruar paraprakisht në regjistrin tregtar, që ushtron veprimtarinë studimore-projektuese dhe/ose zbatuese në fushën e veprimtarisë hidrokarbure, duhet të pajiset me licencën “Shërbime ekspertize dhe/ose profesionale lidhur me burimet hidrokarbure”, me kodin IV.4.B.

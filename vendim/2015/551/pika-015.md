@@ -1,0 +1,1 @@
+15. Për shqyrtimin e kërkesës, aplikuesi paguan tarifën e shërbimit, në shumën 10 000 (dhjetë mijë) lekë, e cila paguhet me dorëzimin e kërkesës dhe është e pakthyeshme edhe nëse kërkesa nuk miratohet. Të ardhurat nga tarifat derdhen në buxhetin e shtetit.

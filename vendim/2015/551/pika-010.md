@@ -1,0 +1,1 @@
+10. Përbërja dhe mënyra e funksionimit të komisionit të vlerësimit dhe procedurat e vlerësimit të dokumenteve për dhënien e certifikatave të lejeve profesionale, për kryerjen e veprimtarisë studimore-projektuese dhe/ose zbatuese në fushën e veprimtarisë hidrokarbure përcaktohen në aneksin 2, bashkëlidhur këtij vendimi.
