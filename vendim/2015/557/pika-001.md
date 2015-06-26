@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga zgjerimi i rrugës “Don Gjon Buzuku”, rijetësimi i sheshit të xhamisë “Iljaz bej Mirahori”, rindërtimi i kullës historike të sahatit, rijetësimi i sheshit të hyrjes dhe rikonstruksioni i disa rrugicave të Pazarit Historik.
