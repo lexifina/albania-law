@@ -1,0 +1,1 @@
+6. Në zbatim të ligjit nr. 52/2014, “Për veprimtarinë e sigurimit dhe risigurimit”, për procedurat e privatizimit të shoqërisë “INSIG”, sh.a., dhe për kushtet e kontratës së shitjes me ofertuesin fitues të merren miratimet përkatëse nga Autoriteti i Mbikëqyrjes Financiare.

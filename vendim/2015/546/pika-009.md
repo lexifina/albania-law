@@ -1,0 +1,1 @@
+9. Shuma e prokuruar për realizimin e procedurës së përzgjedhjes së vlerësuesit të aksioneve të shoqërisë “INSIG”, sh.a., të rialokohet në buxhetin e Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, nga të ardhurat që do të përfitohen nga privatizimi i shoqërisë“INSIG”, sh.a.

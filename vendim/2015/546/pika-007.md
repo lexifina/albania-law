@@ -1,0 +1,1 @@
+7. Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, në përputhje me ligjin nr. 9643, “Për prokurimin publik”, të ndryshuar, është autoriteti përgjegjës për zhvillimin e procedurave për përzgjedhjen e vlerësuesit të aksioneve të shoqërisë “INSIG”, sh.a., me qëllim privatizimin.

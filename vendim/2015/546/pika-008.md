@@ -1,0 +1,1 @@
+8. Fondet për përballimin e shpenzimeve për realizimin e procedurës së përzgjedhjes së vlerësuesit të aksioneve të shoqërisë “INSIG”, sh.a., të përballohen nga buxheti i Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, miratuar për vitin 2015, zëri “Shpenzime operative”.

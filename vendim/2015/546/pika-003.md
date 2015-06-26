@@ -1,0 +1,1 @@
+3. Ministri i Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes nxjerr urdhrin për fillimin e procedurës së privatizimit me tender të shoqërisë “INSIG”, sh.a., si dhe për përgatitjen e dokumentacionit të tenderit. Ky dokumentacion nuk do të jetë konfidencial.
