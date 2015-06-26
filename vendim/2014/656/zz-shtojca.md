@@ -31,3 +31,38 @@ Totali i sipërfaqes për shpronësim
 145
 654
 47415
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+SEKTORI I SHPRONËSIMEVE
+DREJTORIA E PËRGJITHSHME UJËSJELLËS KANALIZIME
+Lista e Pasurive që Shpronësohen nga zbatimi i Projektit ”Furnizimi me Ujë dhe Shërbimet Sanitare ne Orikum”
+Nr
+Emër, atësia, mbiemri
+Zona/ Kad
+Nr. Pasurie
+Sip. shpronës.m2
+Lloji i pasurisë
+Çmimi lek/m2
+Vlera
+Shënime
+1
+Bashkëpronësi GJIKOKA
+2832
+126/104
+580.5
+Truall
+7044
+4089042
+Konfirmuar ZVRPP
+2
+Bashkëpronësi MEHILLAJ
+2832
+2/ 15.
+528.7
+Truall
+7044
+3724162.8
+Proces.konfirmimi
+SHUMA
+1109.2
+7813204.8
