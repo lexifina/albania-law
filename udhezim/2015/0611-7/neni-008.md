@@ -1,0 +1,3 @@
+# Neni 8
+Plotësimi i dokumentacionit nga ana e aplikantëve
+Për të filluar aplikimin, një kandidat duhet që të plotësojë me shkrim dore dhe të firmosë formularin e vetëdeklarimit të përcaktuar në aneksin 1 të këtij udhëzimi. Këtij formulari do t’i bashkëlidhet edhe dokumentacioni i parashikuar nga aneksi 1. Së bashku me dokumentet e mësipërme kandidati duhet të dorëzojë një CV me fotografi, në të cilën të përshkruhen në detaje arsimi, kualifikimet dhe eksperienca profesionale të shoqëruar me diplomat dhe certifikatat origjinale ose kopje të noterizuara të tyre. Pas plotësimit të dokumentacionit të nevojshëm, kandidati do t’i dorëzojë ato pranë zyrës së përcaktuar nga drejtuesi i portit ose personi që do t’i propozojë drejtuesit të portit në zbatim të nenit 1, pika 3.
