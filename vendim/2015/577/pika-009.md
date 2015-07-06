@@ -1,0 +1,2 @@
+9. Sekretari i Përgjithshëm i Këshillit të Ministrave, në cilësinë e autoritetit mbikëqyrës dhe kontrollues të procesit të hartimit të legjislacionit, sa herë e gjykon të nevojshme, thërret mbledhjen e komisionit me ekspertë të jashtëm dhe të nëpunësve të ngarkuar me hartimin e legjislacionit, të këtij rrjeti.
+Orientimet, udhëzimet dhe detyrat e lëna prej tij në mbledhjet e punës janë të detyrueshme për zbatim.

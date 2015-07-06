@@ -1,0 +1,1 @@
+1. Ngritjen e rrjetit të njësive të integrimit evropian, si strukturë e veçantë, dhe rrjetit të njësive të hartimit të legjislacionit, në përbërje të të gjitha ministrive, me qëllim përmirësimin dhe rritjen e cilësisë së hartimit të legjislacionit dhe përafrimit të tij me acquis të BE-së.

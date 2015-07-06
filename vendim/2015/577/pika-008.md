@@ -1,0 +1,2 @@
+8. Anëtarët e komisionit me ekspertë të jashtëm përzgjidhen nga Sekretari i Përgjithshëm i Këshillit të Ministrave, duke u bazuar në kritere të tilla, si: përvoja e gjatë në fushën e hartimit të legjislacionit dhe të dokumenteve ligjore, përvoja e gjatë në administratën shtetërore, njohja e legjislacionit ndërkombëtar dhe atij evropian.
+Anëtarët e komisionit me ekspertë të jashtëm bëjnë deklarimin e gjendjes së konfliktit të interesit, sipas rastit.

@@ -1,0 +1,1 @@
+3. Rrjeti i njësive të integrimit evropian dhe rrjeti i njësive të hartimit të legjislacionit bashkërendojnë dhe mbështetin punën e institucioneve respektive për hartimin e një legjislacioni koherent, të qartë dhe transparent, si dhe për transpozimin dhe zbatimin e acquis, sipas kapitujve përkatës, në zbatimin e Marrëveshjes së Stabilizim-Asociimit.

@@ -1,0 +1,1 @@
+7. Rregullat më të hollësishme për mënyrën e organizimit dhe të funksionimit të rrjetit, si dhe të komisionit me ekspertë të jashtëm, të përmendur në pikën 6 të këtij vendimi, përcaktohen në rregulloren e veçantë, miratuar nga Sekretari i Përgjithshëm i Këshillit të Ministrave.
