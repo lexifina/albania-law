@@ -1,0 +1,28 @@
+{
+  "qbz_id": 65913,
+  "title": "Për miratimin e kërkesave për menaxhimin e mbetjeve inerte.",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "575",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-06-24",
+  "published": "2015-07-06",
+  "in_force": "2015-07-06",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/b51e55bc68710854c585a047e3dbf3b0fea285008da68e6808e024387fabd48b.docx",
+  "source_sha256": "b51e55bc68710854c585a047e3dbf3b0fea285008da68e6808e024387fabd48b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65913",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/06/24/575",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    30596
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
