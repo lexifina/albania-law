@@ -1,0 +1,1 @@
+1. Financimin e vlerës së TVSH-së dhe lejeve administrative në shumën 39 400 000 (tridhjetë e nëntë milionë e katërqind mijë) lekë, për zbatimin e komponentit të infrastrukturës dhe të supervizionit për projektin strategjik “Përmirësimi i infra-strukturës ndërkufitare”, në kuadër të programit të bashkëpunimit ndërkufitar IPA, Shqipëri - Mali i Zi, komponenti II.
