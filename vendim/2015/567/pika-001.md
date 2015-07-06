@@ -1,0 +1,1 @@
+1. Financimin e kostos së menaxhimit të projekteve të qeverisë shqiptare që zbatohen nga Fondi Shqiptar i Zhvillimit, në një vlerë, jo më shumë se 98 000 000 (nëntëdhjetë e tetë milionë) lekë, e cila të përballohet nga zëri “Kosto lokale”, miratuar në buxhetin e vitit 2015 për Fondin Shqiptar të Zhvillimit.
