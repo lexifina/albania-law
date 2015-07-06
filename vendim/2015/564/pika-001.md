@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Drejtësisë të truallit me sipërfaqe 2 000 (dy mijë) m2, të ndodhur në zonën kadastrale 8591, sipas formularit dhe planvendosjes që i bashkëlidhen këtij vendimi, që do të shërbejë për ngritjen e ndërtesës së re të Gjykatës së Rrethit Gjyqësor Shkodër.
