@@ -1,1 +1,0 @@
-2. Drejtorisë së Përgjithshme të Arkivave, Degës së Arkivit Shtetëror Vendor në Vlorë, u ndalohet ta ndryshojnë destinacionin e objektit të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojnë ose t’ua japin në përdorim të tretëve.
