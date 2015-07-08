@@ -1,0 +1,1 @@
+4. Tarifa e përcaktuar në pikat 1.3, 1.4 dhe 1.5 të këtij udhëzimi për ripërtëritjen e certifikatës së titullarit, drejtuesit teknik dhe punonjësit të SHPSF-së, bëhet me 50% më pak të vlerës së pajisjes.
