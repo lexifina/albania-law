@@ -1,3 +1,3 @@
 # Neni 9
-Trualli në zonën ekonomike
-Krijimi i zonave ekonomike mund të bëhet në truall dhe në pasuri të tjera të paluajtshme, qofshin këto private ose shtetërore.
+Trualli në zonën e teknologjisë dhe zhvillimit ekonomik
+Krijimi i zonave të teknologjisë dhe zhvillimit ekonomik mund të bëhet në truall dhe në pasuri të tjera të paluajtshme, qofshin këto private ose shtetërore.

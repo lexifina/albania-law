@@ -1,2 +1,2 @@
 KREU V
-LICENCIMI I ZONAVE EKONOMIKE
+LICENCIMI I zonave të teknologjisë dhe zhvillimit ekonomik
