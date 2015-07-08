@@ -1,3 +1,4 @@
 # Neni 20
 Dhënia e licencës
-Ministri përgjegjës për ekonominë, në mbështetje të vendimit të Këshillit të Ministrave për shpalljen e zonës ekonomike, i jep licencën e zhvilluesit personit juridik, që ka paraqitur kërkesën dhe ka fituar garën, për të krijuar dhe vënë në funksionim zonën ekonomike. Procedurat për ndërtimin e ndërtesave në një zonë të lirë bëhen në përputhje me dispozitat e Kodit Doganor.
+1. Institucioni përgjegjës i jep licencën zhvilluesit, në përputhje me procedurat e parashikuara nga ky ligj dhe aktet e tjera ligjore dhe aktet nënligjore në zbatim të tij.
+2. Institucioni përgjegjës nënshkruan marrëveshje me zhvilluesin, në të cilën parashikohen angazhimet reciproke, afatet e realizimit, penalitetet në rast mospërmbushjeje të detyrimeve, vlera, si dhe garancitë e nevojshme dhe instrumentet e sigurisë për realizimin e investimit.
