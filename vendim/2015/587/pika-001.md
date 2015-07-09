@@ -1,0 +1,1 @@
+1. Prokurorisë së Përgjithshme, në buxhetin e miratuar për vitin 2015, në kategorinë e shpenzimeve operative, i shtohet fondi prej 10 000 000 (dhjetë milionë) lekësh për mbulimin e rritjes së pagave të punonjësve të shërbimit privat të sigurisë fizike.

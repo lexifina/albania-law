@@ -1,0 +1,1 @@
+2. Prokurorisë së Përgjithshme, në buxhetin e miratuar për vitin 2015, në kategorinë e shpenzimeve korrente, i shtohet fondi prej 19 000 000 (nëntëmbëdhjetë milionë) lekësh për mirëmbajtjen e sistemit informatik të saj dhe aplikacioneve të konfiguruara në këtë sistem.
