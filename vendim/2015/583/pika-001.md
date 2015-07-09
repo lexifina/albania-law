@@ -1,0 +1,1 @@
+1. Aparatit të Kryeministrisë, në buxhetin e miratuar për vitin 2015, t’i shtohet fondi prej 10 000 000 (dhjetë milionë) lekësh, për bashkëfinancimin e efekteve financiare të vitit 2015 të planit të veprimit të projektit “STAR”, sipas marrëveshjes së bashkëpunimit të lidhur nga ministri i Shtetit për Çështjet Vendore dhe Programi për Zhvillim i Kombeve të Bashkuara (UNDP).
