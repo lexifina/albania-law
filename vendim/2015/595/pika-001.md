@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit nga tokë bujqësore në tokë truall të sipërfaqes prej 1 850 (një mijë e tetëqind e pesëdhjetë) m2, sipas lidhjes 1 dhe hartave përkatëse, bashkëlidhur këtij vendimi.

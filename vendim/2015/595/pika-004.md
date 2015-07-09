@@ -1,0 +1,1 @@
+4. Me hyrjen në fuqi të këtij vendimi, Drejtoria e Administrimit dhe Mbrojtjes së Tokës të Qarkut Elbasan të pasqyrojë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit nga tokë bujqësore në tokë urbane (truall) për sipërfaqen prej 1 850 (një mijë e tetëqind e pesëdhjetë) m2, sipas lidhjes 1 bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+3. Lista e familjeve, që do të përfitojnë shtëpi të ndërtuara sipas programit social që do të zbatohet nga shoqëria “Devoll Hydropower” sh.a., dhe të dhënat për pasurinë ku do të ndërtohen këto shtëpi përcaktohen në lidhjen 3, bashkëlidhur këtij vendimi.
