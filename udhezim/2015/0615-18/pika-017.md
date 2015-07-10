@@ -1,0 +1,1 @@
+17. Diferenca e vlerësuar me çmimet korresponduese të blerjes së karburantit (gazoil) për peshkim, do të mbartet për periudhën e ardhshme ushtrimore dhe do të mbahet në konsideratë për rakordim periodik gjatë 6-mujorit në vijim.

@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Tatimeve dërgon zyrtarisht pranë Drejtorisë së Përgjithshme të Doganave, listën e subjekteve aktive të peshkimit të cilat janë të regjistruar në organet tatimore si subjekte të TVSH-së, jo më vonë se data 31 janar e çdo viti.

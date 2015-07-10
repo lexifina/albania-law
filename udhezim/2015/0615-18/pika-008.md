@@ -1,0 +1,2 @@
+8. Subjektet e peshkimit mundet të furnizohen brenda vendit me karburant (gazoil) me destinacion përdorimi në anijet e peshkimit, vetëm pranë operatorëve ekonomik (shoqëritë furnizuese) të cilat administrojnë magazina të lira, magazina doganore ose magazina fiskale dhe që janë të autorizuara nga autoritetet doganore për të kryer ngjyrosje.
+Magazina e lirë, magazina doganore ose magazina fiskale ndërpret furnizimin me karburant (gazoil) për peshkimin, të subjekteve të peshkimit, sipas njoftimit të autoriteteve doganore.

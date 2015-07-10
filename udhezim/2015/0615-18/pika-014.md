@@ -1,0 +1,1 @@
+14. Vlera totale e karburantit (gazoil) për peshkim, të furnizuar dhe konsumuar gjatë një 6-mujori, nuk mund të jetë më e madhe se 80% e vlerës totale të produktit të peshkimit, të shitur me faturë tatimore me TVSH, gjatë kësaj periudhe.

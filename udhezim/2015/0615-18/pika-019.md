@@ -1,0 +1,1 @@
+19. Çdo dy muaj, brenda datës 10 pasuese, pritësi i regjistruar/subjekt i peshkimit depoziton në zyrën doganore mbikëqyrëse, kopje të faturave tatimore të produktit të peshkimit të shitur, si dhe listën me deklaratat IM4 apo DSHA, të karburantit (gazoil) për peshkim të furnizuar.

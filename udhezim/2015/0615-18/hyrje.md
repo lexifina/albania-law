@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 18, datë 15.6.2015
+për PROCEDURAT dhe kriteret E FURNIZIMIT TË ANIJEVE TË PESHKIMIT ME karburant (GAZOIL) ME PëRJASHTIM NGA taksA E qarkullimiT, taksA E karboniT DHE AKCIZA
+Në mbështetje të nenit 102, pika 4 të Kushtetutës, të ligjit nr. 8449, datë 27.1.1999, “Kodi Doganor i Republikës së Shqipërisë”, të ndryshuar, të ligjit nr. 9975, datë 28.7.2008, “Për taksat kombëtare”, të ndryshuar, të ligjit 61, datë 24.5.2012, “Për akcizat në Republikën e Shqipërisë”, të ndryshuar, të vendimit nr. 612, datë 5.9.2012 të Këshillit të Ministrave, “Për dispozitat zbatuese të ligjit “Për akcizat”, të ndryshuar, të vendimit të nr. 205, datë 13.4.1999, të Këshillit të Ministrave, “Për dispozitat zbatuese të Kodit Doganor, të ndryshuar si dhe të vendimit nr. 29, datë 14.1.2015, të Këshillit të Ministrave, “Për përcaktimin e procedurave, të sasive, të kushteve dhe kritereve të përjashtimit të anijeve të peshkimit nga taksa e qarkullimit dhe taksa e karbonit”, Ministri i Financave dhe Ministri i Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave
+UDHËZOJNË:

@@ -1,0 +1,1 @@
+18. Zyra doganore mbikëqyrëse e pritësit të regjistruar/subjekt i peshkimit, për efekt rakordimi, për të kryer inventarin e gjendjes faktike të karburantit (gazoil) në serbatorin e anijes, bashkëpunon me zyrën doganore pritëse/nisëse sipas rastit.

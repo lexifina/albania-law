@@ -1,0 +1,9 @@
+11. Të gjitha lëvizjet e karburantit (gazoil) me destinacion përdorimi në anijet e peshkimit që do të kryen nga subjektet e peshkimit duhet të shoqërohen;
+- Kur dalin nga magazina doganore/magazina e lirë, nga deklarata doganore IM4 (me TVSH, por pa taksën e qarkullimit, taksën e karbonit dhe akcizën), si dhe dokumentacionin përkatës (faturat e shitjes dhe kuponët fiskalë të lëshuar nga magazina doganore/magazina e lirë).
+- Kur dalin nga magazina fiskale, me DSHA me akcizë të përjashtuar, si dhe dokumentacioni përkatës (faturat e shitjes dhe kuponët fiskalë të lëshuar nga depozituesi i miratuar, magazina fiskale, me TVSH, por pa taksën e qarkullimit, taksën e karbonit).
+Karburanti (gazoil) quhet i çliruar për qarkullim të lirë/hedhur për konsum në mënyrë të rregullt vetëm nëse shkarkimi i autobotit bëhet në serbatorin e anijes së peshkimit. Përgjegjës për këtë procedurë është pritësi i regjistruar/subjekt i peshkimit, përfitues.
+Furnizimi i anijeve të peshkimit bëhet nën mbikëqyrjen e doganierit të kontrollit fizik të zyrës doganore dhe punonjësit të antikontrabandës detare.
+Autoboti me të cilin do të transportohet karburanti (gazoil), duhet të plotësojë kushtet e plumbosjes, sipas kritereve të miratuara në aktet nënligjore në fuqi.
+Karburanti (gazoil) me destinacion përdorimi në anijet e peshkimit, i blerë nga subjektet e peshkimit, nga momenti i daljes nga magazina doganore, magazina e lirë ose magazina fiskale është në ngarkim të pritësit të regjistruar/subjekt i peshkimit.
+Në rast se konstatohet se karburanti (gazoil) nuk ka pasur destinacion përdorimi në anijen e peshkimit për të cilin ka përfituar përjashtimin nga akciza, taksa e qarkullimit dhe taksa e karbonit, pritësi i regjistruar/subjekt i peshkimit detyrohet të paguajë shumën e plotë të detyrimit të akcizës, taksës së qarkullimit dhe taksës së karbonit së bashku me penalitetet respektive.
+B. Jashtë vendit/territorit doganor të Republikës së Shqipërisë
