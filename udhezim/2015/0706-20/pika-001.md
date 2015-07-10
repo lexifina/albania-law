@@ -1,0 +1,5 @@
+1. Të ardhura nga burime të tjera në kuptim të paragrafit të dytë të nenit 5/1, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, si dhe pikës 1/ç të vendimit nr. 928, datë 29.12.2014, të Këshillit të Ministrave, “Për kriteret, procedurat dhe dokumentacionin për pensionin social”, do të konsiderohen, të ardhurat individuale të shtetasit, që aplikon për pension social, të realizuara nga aktivitetet si më poshtë:
+a) Të ardhurat nga toka bujqësore, që siguron familja në përbërje të së cilës është personi, i cili aplikon për të përfituar pension social, të përpjesëtuara sipas numrit të anëtarëve të familjes;
+b) Të ardhurat mujore nga veprimtaria ekonomike, si aksioner i vetëm ose bashkëpronar në një aktivitet ekonomik;
+c) Të ardhurat nga pasuritë e paluajtshme individuale ose në bashkëpronësi me persona të tjerë, të dhëna për qëllime të nxjerrjes së të ardhurave (dhënie me qira ose në përdorim të personave të tjerë për një aktivitet ekonomik fitimprurës, i cili nuk është në emër të kërkuesit të pensionit social);
+d) Të ardhurat mujore nga depozita/t bankare në emër të kërkuesit.

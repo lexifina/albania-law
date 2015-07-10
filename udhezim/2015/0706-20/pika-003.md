@@ -1,0 +1,1 @@
+3. Të ardhurat individuale për shtetasin që aplikon për të përfituar pension social do të llogariten mujore dhe do të rivlerësohen një herë në vit, bazuar në deklaratën e re për gjendjen social-ekonomike të përfituesit, e cila verifikohet nga DRSSH-të dhe krahasohet me deklarimet e verifikimet e mëparshme.

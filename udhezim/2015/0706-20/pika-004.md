@@ -1,0 +1,1 @@
+4. Pensionin social e përfitojnë edhe shtetasit, që janë vendosur në institucionet rezidenciale (siç janë shtëpitë e të moshuarve), të cilët plotësojnë kriteret ligjore. Për shtetasit që plotësojnë kushtet për përfitimin e pensionit social dhe janë të vendosur në institucione rezidenciale njoftohet Shërbimi Social Shtetëror.

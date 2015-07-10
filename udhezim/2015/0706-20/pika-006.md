@@ -1,0 +1,1 @@
+6. Për personat, të cilëve iu ka lindur e drejta për pension social nga data 1.1.2015 - 30.6.2015 dhe nuk kanë paraqitur akoma kërkesën për pensionin social apo dokumentacioni nuk është përpunuar, e drejta e fillimit të pagesës për pension social do të jetë nga data 1.1.2015. Për rastet e tjera, e drejta e përfitimit të pagesës fillon nga data e paraqitjes së kërkesës.

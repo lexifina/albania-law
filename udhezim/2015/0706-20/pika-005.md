@@ -1,0 +1,1 @@
+5. Masa mujore e pensionit social të pjesshëm llogaritet si diferencë midis pensionit social të plotë dhe të ardhurave mujore individuale të deklaruara, të vlerësuara dhe të pranuara. Pensioni social i pjesshëm, që nga llogaritjet rezulton të jetë më pak se 200 lekë në muaj, nuk paguhet.
