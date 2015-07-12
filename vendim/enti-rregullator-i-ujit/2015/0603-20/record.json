@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12172,
+  "title": "Për mosshqyrtim të propozimeve për ndryshim tarife.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "20",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2015-06-03",
+  "published": "2015-07-12",
+  "in_force": "2015-07-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8fd8381e5ffa07ad15f79d12ef9b7d2c480879a6ce7e68e1ead1cc1f1e2adbdf.docx",
+  "source_sha256": "8fd8381e5ffa07ad15f79d12ef9b7d2c480879a6ce7e68e1ead1cc1f1e2adbdf",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12172",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/06/03/20",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
