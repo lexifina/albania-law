@@ -1,0 +1,26 @@
+{
+  "qbz_id": 59620,
+  "title": "Për shpallje ligji dhe dhënien e pëlqimit për hyrjen në fuqi menjëherë të ligjit.",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "9168",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2015-07-13",
+  "published": "2015-07-14",
+  "in_force": "2015-07-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3084ae206c4b7c8d2b4460a2d1a48635d00e153c6c5d078df66a11a2e17ee62d.docx",
+  "source_sha256": "3084ae206c4b7c8d2b4460a2d1a48635d00e153c6c5d078df66a11a2e17ee62d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59620",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2015/07/13/9168",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
