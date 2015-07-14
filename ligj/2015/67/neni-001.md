@@ -1,0 +1,2 @@
+# Neni 1
+Në marrëveshjet që do të lidhen nga Ministri i Financave për emetimin e instrumentit “Eurobond”, në përputhje me ligjin nr.9665, datë 18.12.2006,“Për huamarrjen shtetërore, borxhin shtetëror dhe garancitë shtetërore të huas në Republikën e Shqipërisë”, të ndryshuar, dhe thelbësisht sipas kushteve të përcaktuara në tekstin e tyre, që i bashkëlidhen këtij ligji, lejohen parashikimet për heqjen dorë nga imuniteti.
