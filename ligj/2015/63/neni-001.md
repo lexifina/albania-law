@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e grantit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, si administrator i fondeve grant, të siguruara nga qeveri të ndryshme nën Fondin e Përbashkët Europian të Ballkanit Perëndimor, për projektin e detajuar të linjës hekurudhore Durrës - Tiranë dhe vlerësimin financiar / ekonomik të të gjithë rrjetit hekurudhor në Shqipëri, sipas tekstit bashkëlidhur këtij ligji.
