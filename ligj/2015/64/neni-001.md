@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administrator i fondeve grant, të siguruara nga Agjencia Suedeze për Zhvillimin e Bashkëpunimit Ndërkombëtar (SIDA), nën Fondin Suedez të Besimit, për Fondin e Besimit nr. TF072239, për projektin e shërbimeve mjedisore me Shqipërinë, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.
