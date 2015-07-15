@@ -4,6 +4,10 @@ Nr.108, datë 9.2.2011
 
 Për aftësitë që duhet të plotësojnë punëmarrësit, personat dhe shërbimet e specializuara, që merren me çështjet e sigurisë dhe të shëndetit në punë
 
+(Ndryshuar me VKM nr. 632, datë 15.7.2015)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 7, të nenit 7 të ligjit nr.10 237, datë 18.2.2010 “Për sigurinë dhe shëndetin në punë”, me propozimin e Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Këshilli i Ministrave
 
 Vendosi:
@@ -90,6 +94,8 @@ c) nga 50 deri në 200 persona, që nuk janë të përfshirë në sektorët e in
 
 5. Numri i punëmarrësve përgjegjës për çështjet e sigurisë dhe të shëndetit në punë në ndërmarrje llogaritet duke pjesëtuar numrin e të punësuarve në ndërmarrje me numrin e ditëve të punës në vit.
 
+6. Punëdhënësit e grupeve “A” dhe “B”, në zbatim të pikës 2, të kreut II, të këtij vendimi, për çdo 700 punëmarrës, sigurojnë shërbimin mjekësor në ndërmarrje nëpërmjet mjekut të punës. Ndërsa punëdhënësit e grupeve “C” dhe “D”, për çdo 1500 punëmarrës, sigurojnë shërbimin mjekësor në ndërmarrje nëpërmjet mjekut të  punës të kontraktuar nga jashtë.
+
 III. SHËRBIMI I BRENDSHËM PËR PARANDALIMIN DHE MBROJTJEN NË PUNË
 
 1. Punëdhënësi, i cili vlerëson se kapacitetet e brendshme njerëzore, teknike dhe shkencore të ndërmarrjes/institucionit, janë të mjaftueshme për të organizuar veprimtari për parandalimin dhe mbrojtjen në punë, këshillohet për këtë vlerësim e për mënyrën e strukturimit të personave të ngarkuar përgjegjës për çështjet e sigurisë dhe të shëndetit në punë, të cilët do të realizojnë këtë veprimtari, me punëmarrësit dhe përfaqësuesit e tyre në këshillin e sigurisë e të shëndetit në punë apo me këshillin e sigurisë dhe të shëndetit në punë, të ngritur në ndërmarrje/institucion ose në nivel profesional/ndërprofesional.
@@ -148,23 +154,23 @@ b) hartimin dhe zbatimin e dokumentit të vlerësimit e të parandalimit të rre
 
 10. Personi i ngarkuar përgjegjës për çështjet e sigurisë dhe të shëndetit në punë është përgjegjës:
 
-10.1. Për analizën e rrezikut dhe në këtë rast, duhet:
+10.1 për të marrë pjesë në vlerësimin e riskut dhe, në këtë rast, duhet:
 
-a) të marrë pjesë në identifikimin e rreziqeve;
+a) të ndihmojë në identifikimin e risqeve potenciale që ndikojnë në shëndetin e punëmarrësve;
 
-b) të japë mendimin e tij për rezultatet e analizës së rreziqeve që në burim dhe të propozojë masat që duhen marrë për një analizë të përhershme;
+b) të japë mendime për rezultatet e vlerësimit të riskut dhe të propozojë masat që duhen marrë për parandalimin e dëmtimeve në shëndet (çrregullimeve shëndetësore);
 
-c) të japë këshilla dhe të bëjë propozime për hartimin, zbatimin dhe përshtatjen e planit gjithëpërfshirës për parandalimin e të planit vjetor të veprimit.
+c) të propozojë hartimin, përshtatjen dhe zbatimin e programeve promovuese për shëndetin në vendin e punës si dhe përfshirjen e tyre në planveprimin vjetor.
 
 10.2. Për të marrë pjesë në studimin e faktorëve që ndikojnë në ndodhjen e aksidenteve, si dhe për të studiuar faktorët përcaktues të çdo aksidenti që ka shkaktuar paaftësinë.
 
-10.3. Për të marrë pjesë në analizën e shkaqeve të sëmundjeve profesionale.
+10.3. Për të marrë pjesë në analizimin e shkaqeve të sëmundjeve profesionale dhe sëmundjeve të lidhura me punën, për të dhënë analizë të detajuar të faktorëve të riskut në vendin e punës, që kanë shkaktuar çrregullimet shëndetësore në punë, si dhe për të marrë pjesë në analizën e shkaqeve të aksidenteve në punë, kur  çrregullimet shëndetësore shërbejnë si shkak i mundshëm i aksidentit në punë.
 
 10.4. Për të ndihmuar dhe për të bashkëpunuar në studimin e ngarkesës së punës, në përshtatjen e teknikave dhe të kushteve të punës me fiziologjinë e njeriut dhe parandalimin e lodhjes fizike dhe mendore në punë, si dhe për të marrë pjesë në analizën e shkaqeve të sëmundjeve në lidhje me ngarkesën e punës dhe faktorë të tjerë psikosocialë në vendin e punës.
 
 10.5 Për të dhënë mendime për organizimin e ambientit të punës, vendit të punës dhe përdorimit të agjentëve fizikë, kimikë dhe biologjikë, kancerogjenë, të pajisjeve të punës dhe mjeteve mbrojtëse individuale e kolektive.
 
-10.6. Për të dhënë mendim për higjienën e punës, duke përfshirë edhe kuzhinën, restorantet, ndryshimin e dhomave, objektet sanitare, vendet e punës dhe të pushimit dhe ambientet e tjera sociale për punëmarrësit.
+10.6. Për të dhënë  mendim për çështjet e përgjithshme të higjienës profesionale, duke përfshirë mjedise të tilla si: vendi i posaçëm për ngrënie, dhomat e zhveshjes, tualetet, vendet punës dhe të çlodhjes dhe mjedise të tjera sociale për punëmarrësit.
 
 10.7. Për të asistuar në hartimin e udhëzimeve për:
 
@@ -180,7 +186,7 @@ d) procedurat që do të ndiqen në rast rreziku të menjëhershëm.
 
 10.8. Për të bashkëpunuar për formimin e punëmarrësve:
 
-a) para punësimit të tyre;
+a) para fillimit të punës;
 
 b) gjatë një transferimi ose një ndryshimi të vendit të punës apo detyrës;
 
@@ -194,11 +200,39 @@ c) kur prezantohen pajisje të reja pune ose ndryshohen pajisjet e punës;
 
 10.11. Për të qenë në dispozicion të punëdhënësit dhe të punëmarrësve për të gjitha çështjet lidhur me zbatimin e legjislacionit në fushën e sigurisë dhe të shëndetit në punë dhe, kur është e nevojshme, për t’ua bërë të ditura ato edhe personave apo shërbimeve të specializuara, të jashtme, të kontraktuara nga punëdhënësi.
 
-10.12. Për të marrë pjesë në përgatitjen e procedurave të emergjencës së brendshme dhe të zbatimit të masave që duhet të merren në rast të gjendjes dhe rrezikut të menjëhershëm.
+10.12 Për të marrë pjesë në hartimin e planit të evakuimit dhe shpëtimit gjatë situatave  emergjente dhe në zbatimin e masave që duhen marrë në situatat me risk të rëndë të menjëhershëm dhe të pashmangshëm që mund të shkaktojnë dëmtime profesionale apo gjendje të tjera shëndetësore, si sëmundje.
 
-10.13. Për të marrë pjesë në organizmin e ndihmës së parë dhe të kujdesit të menjëhershëm për viktimat e aksidenteve në punë apo të sëmundjeve.
+10.13. Për të koordinuar organizimin e ndihmës së shpejtë dhe kujdesit shëndetësor në rastet emergjente për viktimat e aksidenteve dhe/ose në rastet urgjente që mund të paraqesin punëmarrësit me sëmundje profesionale.
 
 10.14. Për të asistuar sekretariatin e këshillit të sigurisë dhe të shëndetit në punë, sipas rregullores së funksionimit të këtij të fundit.
+
+10.15. Për të asistuar në zbatimin e dokumenteve ligjore e nënligjore lidhur me kërkesat minimale të sigurisë dhe të shëndetit në punë për punëmarrësit, konkretisht, me:
+
+a) përdorimin e sigurt të substancave kimike, kancerogjenë/mutagenë dhe lëndëve biologjike;
+
+b) procedurat që duhen ndjekur në rastet e risqeve të pashmangshme për shëndetin e punëmarrësve dhe ose personave të tjerë të pranishëm në ndërmarrje.
+
+10.16. Për të siguruar planifikimin dhe realizimin e programeve për vaksinimin e  punëmarrësve për parandalimin e risqeve biologjike të caktuara, sipas përcaktimeve specifike të legjislacionit në fuqi. 
+
+10.17. Për të koordinuar sistemin e mbikëqyrjes shëndetësore në ndërmarrje/institucion, duke siguruar: 
+
+a) testet dhe ekzaminimet  e nevojshme për kontrollin shëndetësor të punëmarrësve, bazuar tek vlerësimi i riskut profesional;
+
+b) përgatitjen e dokumentacionit të nevojshëm për kontrollin fillestar dhe periodik të shëndetit të punëmarrësve; 
+
+c) koordinimin e aktiviteteve të kontrollit shëndetësor brenda ndërmarrjes/institucionit apo në institucionet mjekësore të jashtme; 
+
+ç) analizën e raporteve të kontrollit shëndetësor në punë për të përcaktuar nëse është e përshtatshme që punëmarrësi të vazhdojë aktivitetet e punës apo të bëhen ndryshimet e nevojshme lidhur me ngarkesën  apo përshtatjen e vendit të punës, nëse kërkohet. 
+
+10.18. Për të bashkëpunuar për formimin e punëmarrësve:
+
+a) përpara fillimit të punës;
+
+b) gjatë transferimit apo ndryshimit të procesit të punës ose vendit të punës; 
+
+c) kur prezantohen pajisje të reja apo pajisje të modifikuara pune që shkaktojnë ndryshime në kushtet dhe risqet e punës;
+
+ç) kur përshtatet një teknologji e re në ndërmarrje, që shkakton ndryshime në kushtet e punës dhe risqet në punë.
 
 11. Për të përmbushur përgjegjësitë e përcaktuar në pikën 10 të këtij kreu, personi i ngarkuar përgjegjës për çështjet e sigurisë dhe të shëndetit në punë duhet të kryejë detyrat e mëposhtme:
 
@@ -210,7 +244,7 @@ c) të shqyrtojë herë pas here vendet e punës, me nismën ose me kërkesën e
 
 ç) të zhvillojë të paktën një herë në vit një hetim të plotë të proceseve të punës dhe të vendit të punës;
 
-d) të kryejë hetim në rastin e aksidenteve që ndodhin në vendin e punës;
+d) të kryejë hetim në rastin e aksidenteve dhe sëmundjeve profesionale që ndodhin në vendin e punës;
 
 dh) të kryejë vëzhgime, studime dhe kërkime të rëndësishme, të nevojshme dhe përkatëse për të përmirësuar mirëqenien e punëmarrësve;
 
@@ -220,11 +254,11 @@ e) të ndërmarrë ose të bëjë testime dhe kontrolle në përputhje me ligjet
 
 f) të përgatitë raportin vjetor për detyrat që ka realizuar në zbatim të këtij vendimi;
 
-g) të jetë pjesë e procesit të përmbushjes së formularit të aksidenteve në punë dhe sëmundjeve profesionale, përmbajtja e të cilave përcaktohet me udhëzim të përbashkët nga Ministri i Punës dhe ai i Shëndetësisë;
+g) të jetë pjesë e procesit të plotësimit të formularit të aksidenteve në punë dhe të përgatitë raportin për sëmundjet profesionale të dyshuara, përmbajtja e të cilave përcaktohet me udhëzim të përbashkët të ministrit përgjegjës për çështjet e sigurisë dhe të shëndetit në punë dhe ministrit përgjegjës për shëndetësinë, si dhe të informojë e të rekomandojë punëdhënësin për masat që duhen marrë;
 
 gj) të plotësojë dokumentacionin në rastet e blerjes, përdorimit e mirëmbajtjes së pajisjeve të punës personale dhe kolektive.
 
-12. Punëdhënësi duhet të mbajë në ndërmarrje dhe të vërë në dispozicion të inspektorëve të punës apo të një zyrtari tjetër përgjegjës për kontrollin e dokumentacionit një dokument të veçantë, që i është bashkëngjitur raportit vjetor të paraqitur nga shërbimi i brendshëm, i cili duhet të përmbajë:
+12. Punëdhënësi mban në ndërmarrje dhe vë në dispozicion të autoriteteve shtetërore përgjegjëse për kontrollin e zbatimit të ligjit për sigurinë dhe shëndetin në punë, si dhe organeve kompetente një dokument të veçantë, që i bashkëlidhet raportit vjetor të paraqitur nga shërbimi i brendshëm, me përmbajtje, si më poshtë vijon:
 
 a) identifikimin e punëdhënësit;
 
@@ -264,35 +298,33 @@ d) higjiena industriale;
 
 e) aspektet psikosociale të punës, përfshirë edhe dhunën dhe ngacmimin seksual në punë.
 
-7. Personi i ngarkuar nga shërbimi i specializuar jashtë ndërmarrjes, për menaxhimin e riskut, duhet të plotësojë këto kushte në lidhje me:
+7. Personi përgjegjës, i ngarkuar nga shërbimi i specializuar jashtë ndërmarrjes për menaxhimin e riskut, duhet të plotësojë kriteret e mëposhtme: 
 
-a) çështjet e sigurisë në punë të ketë formim inxhinierik;
+a) për çështjet e sigurisë në punë, të ketë formim profesional të përshtatshëm në fushën e inxhinierisë;
 
-b) mjekësinë e punës të ketë formim si mjek, i cili:
+b) në lidhje me shëndetin në punë të ketë formim profesional në fushën e mjekësisë së përgjithshme dhe i cili:
 
-b.1. të ketë mbaruar specialitetin e mjek/mjek i sëmundjeve profesionale/mjek pune;
+b.1 të jetë kualifikuar si mjek i sëmundjeve profesionale/mjek pune;
 
-b.2. të ketë të drejtën e ushtrimit të profesionit nga Urdhri i Mjekut;
+b.2 të jetë i licencuar nga Urdhri i Mjekut për ushtrimin e profesionit; 
 
-b.3. të ketë përvojë pune jo më pak se pesë vjet.
+c) në lidhje me ergonominë:
 
-c) ergonominë:
+c.1. të jetë diplomuar në fushën e inxhinierisë apo mjekësisë;
 
-c.1. të ketë diploma inxhinierike apo mjeku;
+c.2. të jetë i licencuar në fushën përkatëse;
 
-c.2. një përvojë në fushën e ergonomisë jo më pak se 5 (pesë) vjet.
+ç) në lidhje me higjienën në punë:
 
-ç) higjienën industriale:
+ç.1 të jetë diplomuar në fushën e mjekësisë/inxhinierisë;
 
-ç.1. të ketë diplomë mjeku higjienist;
+ç.2 të jetë i licencuar në fushën përkatëse;
 
-ç.2. të ketë përvojë pesë vjet në fushën e higjienës industriale;
+d) në lidhje me aspektet psikosociale të punës:
 
-d) aspektet psikosociale të punës:
+d.1 të jetë diplomuar në fushën e  psikologjisë, sociologjisë apo të mjekësisë së përgjithshme; 
 
-d.1. të ketë diplomë psikologu ose sociologu apo mjek i përgjithshëm;
-
-d.2. një përvojë pesë vjet në fushën e aspekteve psikosociale.
+d.2 të jetë i licencuar në fushën përkatëse.
 
 8. Për përmbushjen e përgjegjësive lidhur me menaxhimin e rrezikut, një person mund të përfaqësojë jo më shumë se dy disiplina në të njëjtën kohë.
 
@@ -320,9 +352,11 @@ b) për metodat e veçanta të përdorura gjatë kryerjes së shërbimit/ndërhy
 
 V. Dispozita të fundit
 
-1. Ngarkohen të gjithë punëdhënësit që brenda 6 (gjashtë) muajve nga hyrja në fuqi e këtij vendimi, të sigurojnë shërbimet për parandalimin dhe mbrojtjen në punë, sipas dispozitave të këtij vendimi.
+1. Të gjithë punëdhënësit duhet të sigurojnë shërbimet për parandalimin e risqeve dhe mbrojtjen e shëndetit në punë, sipas dispozitave të këtij vendimi.
 
 2. Ngarkohet Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, që nëpërmjet strukturave të Inspektoratit Shtetëror të Punës, të monitorojë zbatimin e këtij vendimi.
+
+3. Vendimi nr. 692, datë 13.13.2001, i Këshillit të Ministrave, “Për masat e veçanta të sigurimit dhe mbrojtjes së shëndetit në punë”, shfuqizohet.
 
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 
