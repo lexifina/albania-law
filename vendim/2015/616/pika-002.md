@@ -1,0 +1,1 @@
+2. Vlera e përgjithshme e kompensimit të jetë 219 918 287,8 (dyqind e nëntëmbëdhjetë milionë e nëntëqind e tetëmbëdhjetë mijë e dyqind e tetëdhjetë e shtatë presje tetë) lekë dhe sipërfaqja që shpronësohet të jetë 21 451,8 (njëzet e një mijë e katërqind e pesëdhjetë e një presje tetë) m², sipas tabelës nr. 1 që i bashkëlidhet këtij vendimi.
