@@ -1,0 +1,1 @@
+2. Vlerësimi strategjik mjedisor në kontekstin ndërkufitar të kryhet për planet dhe programet e përcaktuara në nenin 2, të ligjit nr. 91/2013, “Për vlerësimin strategjik mjedisor”, të cilat vendosin kuadrin për miratimin e ardhshëm të zhvillimit të projekteve të listuara në shtojcat I dhe II, të ligjit nr. 10440/2011, “Për vlerësimin e ndikimit në mjedis”.

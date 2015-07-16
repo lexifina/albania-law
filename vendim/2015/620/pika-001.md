@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është miratimi i rregullave, përgjegjësive dhe procedurave që zbatohen për vlerësimin e planeve apo programeve që mund të kenë pasoja të rëndësishme në mjedisin e vendeve fqinje.

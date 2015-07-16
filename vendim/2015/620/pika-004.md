@@ -1,0 +1,1 @@
+4. Ministria, pas marrjes së vendimit sipas pikës 3, të këtij kreu, njofton zyrtarisht autoritetin propozues se plani apo programi i propozuar duhet t’i nënshtrohet procedurës së VSM-së në kontekst ndërkufitar dhe i kërkon të plotësojë formatin e njoftimit të shtetit fqinj dhe dokumentacionin e kërkuar në të, bazuar në shtojcën 1, bashkëlidhur këtij vendimi.
