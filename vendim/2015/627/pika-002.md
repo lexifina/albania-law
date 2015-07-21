@@ -1,0 +1,4 @@
+2. Në kuptim të ligjit nr.9232, datë 13.5.2004, “Për programet sociale të strehimit”, të ndryshuar, “Ent menaxhues” është personi juridik ose fizik, i cili ka në kompetencë administrimin dhe mbikëqyrjen e banesave sociale të dhëna me qira e të bonusit të strehimit.
+II. KRITERET PËR REGJISTRIMIN E ENTIT MENAXHUES
+1. Personi juridik ose fizik i regjistruar në QKR paraqet pranë njësisë së qeverisjes vendore kërkesën me shkrim për regjistrim për ushtrimin e veprimtarisë për administrimin dhe mbikëqyrjen e banesave sociale e të bonusit të strehimit.
+2. Mënyra e administrimit dhe mirëmbajtjes së banesave sociale me qira përcaktohet nga këshilli i njësisë së qeverisjes vendore. Banesat me qira administrohen në bazë të një kontrate me entet menaxhuese të cilat janë persona juridikë, publikë ose privatë, apo persona fizikë të regjistruar në njërën prej formave të përcaktuara sipas ligjit.
