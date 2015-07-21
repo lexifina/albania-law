@@ -1,0 +1,1 @@
+3. Nëse në përfundim të procesit të vlerësimit rezultojnë më pak se dy tekste të kualifikuar, çmimi i tekstit do të vendoset nga subjekti dhe MAS do të përllogarisë çmimin, duke mbajtur në konsideratë se çmimi i propozuar nga subjekti nuk duhet të kalojë kufirin maksimal prej 5% mbi çmimin më të lartë të tekstit analog për tekstet e printuara dhe 10% për tekstet digjitale.
