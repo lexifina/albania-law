@@ -1,0 +1,1 @@
+3. Shkollat që kanë përzgjedhur tekste shkollore që nuk janë pjesë e katalogut bashkëlidhur këtij udhëzimi, të ripërzgjedhin, në bazë shkolle, tekste shkollore nga ky katalog, sipas udhëzimit të ministrit të MAS nr. 9, datë 26.3.2015 “Për përzgjedhjen e teksteve shkollore më cilësore për vitin shkollor 2015-2016”.

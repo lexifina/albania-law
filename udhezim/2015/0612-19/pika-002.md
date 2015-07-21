@@ -1,0 +1,1 @@
+2. Porositja e teksteve të bëhet mbi bazën e përzgjedhjes së realizuar sipas udhëzimit të ministrit të MAS nr. 9, datë 26.3.2015 “Për përzgjedhjen e teksteve shkollore më cilësore për vitin shkollor 2015-2016”.

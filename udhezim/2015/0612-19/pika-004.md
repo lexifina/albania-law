@@ -1,0 +1,1 @@
+4. Drejtori i shkollës, brenda datës 17 qershor 2015, të porosisë tekstet zyrtarisht në çdo shtëpi botuese/distributor, duke përcjellë një kopje origjinale të tabelës përmbledhëse me titujt dhe sasinë e teksteve shkollore.

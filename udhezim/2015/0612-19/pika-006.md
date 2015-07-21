@@ -1,0 +1,1 @@
+6. Drejtorët e shkollave të pakicave kombëtare dhe të arsimit profesional t’i dërgojnë shtëpisë botuese BOTEM, brenda datës 17 qershor 2015, porosinë e tyre për tekstet shkollore me një alternativë, ku të shënojnë saktësisht numrin e nxënësve të tyre.

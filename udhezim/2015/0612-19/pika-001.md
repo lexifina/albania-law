@@ -1,0 +1,1 @@
+1. Për vitin shkollor 2015-2016, katalogu i teksteve shkollore për klasat II-V dhe VII-XII, bashkëlidhur këtij udhëzimi, të përbëhet nga tekstet shkollore më cilësore të përzgjedhura nga mbi 10% e të gjithë mësuesve në sistemin arsimor parauniversitar në Republikën e Shqipërisë.
