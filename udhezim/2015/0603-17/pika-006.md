@@ -1,0 +1,1 @@
+6. DAR/ZA, brenda 5 ditëve pas nënshkrimit të kontratës, duhet të dërgojnë pranë Ministrisë së Arsimit dhe Sportit njoftimin e kontratës së nënshkruar në formë të shkruar dhe elektronike (CD), i cili do të do të hidhet në sistem elektronik nga Ministria e Arsimit dhe Sportit.

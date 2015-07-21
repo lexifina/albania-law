@@ -1,0 +1,1 @@
+5. Pas njoftimit të fituesit, Ministria e Arsimit dhe Sportit dërgon në çdo DAR/ZA dokumentacionin e plotë, në formë të shkruar dhe elektronike (CD), për të vijuar me nënshkrimin e kontratave përkatëse prej tyre.

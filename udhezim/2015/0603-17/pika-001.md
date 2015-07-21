@@ -1,0 +1,1 @@
+1. Realizimin e procedurave të prokurimit për furnizimin me shërbimin e internetit për sistemin arsimor parauniversitar publik, me procedurën “Prokurim i përqendruar”, nga Ministria e Arsimit dhe Sportit.

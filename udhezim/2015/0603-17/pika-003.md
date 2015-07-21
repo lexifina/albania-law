@@ -1,0 +1,1 @@
+3. Të dhënat teknike/sasiore dhe fondi përkatës për kryerjen e këtij shërbimi përcaktohen dhe dërgohen të miratuara nga MAS, në formë të shkruar dhe elektronike (CD, e-mail), sipas informacionit të marrë nga çdo DAR/ZA.

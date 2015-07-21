@@ -1,0 +1,1 @@
+2. Ministria e Arsimit dhe Sportit merr përsipër rolin e organit qendror blerës për zhvillimin e procedurës së prokurimit në emër dhe për llogari të njësive arsimore vendore (drejtorive arsimore rajonale/zyrave arsimore) për shërbimin e internetit.
