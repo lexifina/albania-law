@@ -1,0 +1,1 @@
+3. Për të realizuar transferimin, nxënësit duhet të plotësojnë lёndёt e detyruara nё planin mësimor të gjimnazit duke dhënë provime të veçanta për lëndët e munguara dhe një provim të integruar për pjesët/orët e munguara të lëndëve të përbashkëta.

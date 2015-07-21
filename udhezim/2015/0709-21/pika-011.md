@@ -1,0 +1,1 @@
+11. Nxënësit që duan të transferojnë studimet e kryera në arsimin profesional jashtë shtetit, në gjimnaz, duhet të plotësojnë kriteret e transfe-rimit të përshkruara në pikat 1, 2 dhe 3 të këtij udhëzimi.

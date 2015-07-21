@@ -1,0 +1,1 @@
+5. Procedurat e transferimit nga arsimi profe-sional në gjimnaz, pёrfshirё dhe dhёnien e provi-meve pёr lёndёt/pjesёt e munguara, fillon në përfundim të vitit shkollor dhe duhet të për-fundojë para fillimit të vitit të ri shkollor.
