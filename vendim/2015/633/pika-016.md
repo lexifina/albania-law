@@ -1,0 +1,1 @@
+16. Audituesit përgatitin një raport auditimi në fund të çdo auditimi ose cikli auditimesh dhe i komunikojnë organizatës gjetjet dhe konkluzionet e auditimit, si dhe rekomandime për përmirësimin e sistemit të menaxhimit mjedisor.

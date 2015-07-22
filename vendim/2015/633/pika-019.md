@@ -1,0 +1,1 @@
+19. Logoja SEMA, e përcaktuar në shtojcën V, bashkëlidhur këtij vendimi, përdoret nga organizatat e regjistruara dhe vetëm gjatë kohës kur regjistrimi i tyre është i vlefshëm. Ajo mban gjithmonë numrin e regjistrimit të organizatës.

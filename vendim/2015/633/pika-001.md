@@ -1,0 +1,1 @@
+1. Objekti i kёtij vendimi ёshtё krijimi i një skeme ekomenaxhimi dhe auditimi (SEMA), si instrument menaxhimi për organizatat e biznesit dhe organizata të tjera për të vlerësuar, për të raportuar e për të përmirësuar performancën e tyre mjedisore.

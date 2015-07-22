@@ -1,0 +1,1 @@
+24. Nëse një organ kompetent merr një raport mbikëqyrjeje, me shkrim, nga një organizëm akreditimi, i cili evidenton që aktivitetet e verifikuesit mjedisor nuk janë kryer në përputhje me kërkesat e këtij vendimi për organizatën, ai refuzon regjistrimin e asaj organizate. Organi kompetent njofton organizatën të dorëzojë një aplikim të ri për regjistrim.

@@ -1,0 +1,1 @@
+21. Në rastin kur një organizatë zgjedh të mos përfshijë të gjitha vendndodhjet e saj në regjistrimin e korporatës, ajo duhet të sigurojë që, në komunikimet e saj me publikun dhe në përdorimin e logos SEMA, të jetë e qartë se cilat vendndodhje mbulohen nga regjistrimi.
