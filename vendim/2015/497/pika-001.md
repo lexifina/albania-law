@@ -1,0 +1,1 @@
+1. Miratimin, në parim, të marrëveshjes së dëmshpërblimit, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, për garancinë e bazuar në politika për financat publike në Shqipëri, me një shumë prej 200 000 000 (dyqind milionë) eurosh, sipas tekstit që i bashkëlidhet këtij vendimi.

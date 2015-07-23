@@ -1,0 +1,5 @@
+VENDIM
+Nr. 497, datë 10.6.2015
+PËR MIRATIMIN NË PARIM, TË MARRËVESHJES SË DËMSHPËRBLIMIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE BANKËS NDËRKOMBËTARE PËR RINDËRTIM DHE ZHVILLIM, PËR GARANCINË E BAZUAR NË POLITIKA PËR FINANCAT PUBLIKE NË SHQIPËRI, dhe Marrëveshjes së Huasë me Afat, ndërmjet Republikës së Shqipërisë, QË VEPRON NËPËRMJET MINISTRISË SË FINANCAVE, si Huamarrës, Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, si Garantues, DHE Deutsche Bank AG, Dega e Londrës, SI HUADHËNËS Fillestar, TË RREGULLUAR NGA Deutsche Bank AG, Dega e Londrës, si RREGULLUES KRYESOR I MANDATUAR, Deutsche Bank AG, Dega e Londrës, SI AGJENT, DHE Deutsche Bank AG, Dega e Londrës, SI AGJENT DOKUMENTACIONI
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 26, të ligjit nr.9665, datë 18.12.2006, “Për huamarrjen shtetërore, borxhin shtetëror dhe garancitë shtetërore të huasë në Republikën e Shqipërisë”, të ndryshuar, dhe të neneve 5 e 7, të ligjit nr.8371, datë 9.7.1998, “Për lidhjen e traktateve dhe marrëveshjeve ndërkombëtare”, me propozimin e ministrit të Financave, Këshilli i Ministrave
+vendosi:
