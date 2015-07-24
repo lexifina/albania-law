@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12267,
+  "title": "Për licencimin e “Ujësjellës-Kanalizime Shkodër” sh.a.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "23",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2015-06-24",
+  "published": "2015-07-24",
+  "in_force": "2015-07-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2359bd8687bc714a0fc8a1785689a681ef628192820bb33ede1424e816ef979d.docx",
+  "source_sha256": "2359bd8687bc714a0fc8a1785689a681ef628192820bb33ede1424e816ef979d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12267",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/06/24/23",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63919
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
