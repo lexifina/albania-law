@@ -4,6 +4,10 @@ Nr.5, datë 19.1.2009
 
 “Për procedurat e hapjes dhe mbylljes së sallave të lojërave basteve sportive, kazinove elektronike, bingove tradicionale”
 
+(Ndryshuar me udhëzimin nr. 20, dt. 30.7.2015)
+
+(i përditësuar)
+
 Në mbështetje të nenit 102/4 të Kushtetutës së Republikës së Shqipërisë, dhe  në zbatim të nenit 10 pika 4, germa (dh) të ligjit nr.10033, datë 11.12.2008 “Për lojërat e fatit” Ministri i Financave
 
 Udhëzon:
@@ -30,6 +34,8 @@ c.3.Vërtetim pronësie, deklaratë zhdoganimi dhe certifikatë origjine për pa
 
 c.4.Rregulloret përkatëse për lojërat që do të zhvillohen në këto salla.
 
+d) Vërtetim për shlyerjen e detyrimeve tatimore. 
+
 2.Shoqëritë e lojërave të fatit, për hapjen e pikave të lojërave të fatit baste sportive duhet të paraqesin në NJMLF dokumentacionin e mëposhtëm:
 
 a)njoftimin për hapjen e pikave dhe aresën e saktë të saj;
@@ -45,6 +51,8 @@ b.3.dëshmi kualifikimi të personelit;
 b.4.kontratë pune të personelit.
 
 c)Vërtetimin e pronësisë së pikave të lojrave të fatit sportive ose kontratën e qirasë.
+
+            d) vërtetim për shlyerjen e detyrimeve tatimore.
 
 3.Shoqëritë e lojërave të fatit për mbylljen e sallave të bingove, kazinove elektronike dhe të pikave të lojërave të fatit sportive duhet të paraqesin në NJMLF dokumentacionin e mëposhtëm:
 
