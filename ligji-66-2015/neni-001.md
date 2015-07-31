@@ -1,0 +1,2 @@
+# Neni 1
+Falen, në masën 100 për qind, gjobat e lidhura me kontributet e sigurimeve shoqërore dhe shëndetësore, të cilat janë evidentuar deri më 31 dhjetor 2014, në zbatim të neneve 113, “Mosdeklarimi në afat”, pavarësisht vlerës së detyrimit, dhe 114, “Mospagimi në afat i detyrimit tatimor apo i kontributit”, të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar, për subjektet juridike dhe fizike, kur kontributi dhe kamatëvonesa është paguar plotësisht deri në datën 30 shtator 2015.
