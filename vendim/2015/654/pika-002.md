@@ -1,0 +1,1 @@
+2. Efekti financiar, prej 146 172 264 (njëqind e dyzet e gjashtë milionë e njëqind e shtatëdhjetë e dy mijë e dyqind e gjashtëdhjetë e katër) lekësh, i parashikuar në shkronjat “a” - “dh”, të pikës 1, të këtij vendimi, të përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2015.
