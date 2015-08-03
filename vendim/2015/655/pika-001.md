@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i rrugës “Robert Shvarc” e i Rrugës së Kosovarëve, si dhe rikualifikimi urban i bllokut nr. 46, të Bashkisë së Tiranës, sipas tabelës që i bashkëlidhet këtij vendimi.

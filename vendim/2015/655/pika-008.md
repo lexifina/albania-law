@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë prej 1 619 (një mijë e gjashtëqind e nëntëmbëdhjetë) m² “truall” për ndërtimin e rrugës “Robert Shvarc”, Rrugës së Kosovarëve, si dhe rikualifikimin urban të bllokut nr. 46 të bëhet në favor të Bashkisë së Tiranës.
