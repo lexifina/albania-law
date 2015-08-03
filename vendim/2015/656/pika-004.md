@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 37 617 626 (tridhjetë e shtatë milionë e gjashtëqind e shtatëmbëdhjetë mijë e gjashtëqind e njëzet e gjashtë) lekësh, të përballohet nga fondi rezervë i buxhetit të shtetit. Shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë, të përballohen nga buxheti i vitit 2015, miratuar për Ministrinë e Zhvillimit Urban.

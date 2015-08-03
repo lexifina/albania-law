@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit, “Ndërtimi i tribunës kryesore në Perëndim dhe në Jug, rikonstruksioni i tribunës ekzistuese në Veri dhe në Lindje, si dhe infrastrukturës përreth stadiumit ’Loro Boriçi’, Shkodër”.
