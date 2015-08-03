@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 10.3.2015, për çështjen “Siliqi dhe të tjerë kundër Shqipërisë” (aplikimet nr. 37295/05 dhe nr. 42228/05), në shumën 1 498 400 (një milion e katërqind e nëntëdhjetë e tetë mijë e katërqind) euro, plus çdo taksë që mund të jetë e aplikueshme.

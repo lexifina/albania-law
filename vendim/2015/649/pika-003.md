@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në njërën nga bankat e nivelit të dytë, në emër të aplikantëve në vlerën që shteti shqiptar detyrohet sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 10.3.2015, për çështjen “Siliqi dhe të tjerë kundër Shqipërisë” (aplikimet nr. 37295/05 dhe nr. 42228/05).
