@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përllogariten në shumën 16 600 mijë lekë dhe përballohen nga fondi i kontingjencës, të parashikuara në buxhetin e shtetit për vitin 2015.
