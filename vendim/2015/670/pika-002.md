@@ -1,0 +1,1 @@
+2. Fondi prej 200 000 000 (dyqind milionë) lekësh për përballimin e pjesshëm të shpenzimeve, për vitin 2015, për realizimin e procedurave të prokurimit, sipas pikës 1, të këtij vendimi, përballohet nga buxheti i miratuar për Ministrinë e Zhvillimit Urban për vitin 2015.

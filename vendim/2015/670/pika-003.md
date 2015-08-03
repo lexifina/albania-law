@@ -1,0 +1,1 @@
+3. Pjesa tjetër e fondeve prej 530 000 000 (pesëqind e tridhjetë milionë) lekësh të përballohet nga buxheti i shtetit për vitin 2016. Kjo vlerë të parashikohet në buxhetin e Ministrisë së Zhvillimit Urban për vitin 2016.

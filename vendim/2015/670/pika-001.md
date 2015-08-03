@@ -1,0 +1,1 @@
+1. Ngarkimin e Ministrisë së Zhvillimit Urban për kryerjen e procedurës së prokurimit për realizimin e konkursit të projektimit për hartimin e planeve të përgjithshme vendore deri për 26 bashki, sipas listës bashkëlidhur këtij vendimi.
