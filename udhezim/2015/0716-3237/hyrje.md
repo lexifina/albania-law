@@ -1,0 +1,5 @@
+UDHËZIM I PËRBASHKËT
+Nr. 3237, datë 16.7.2015
+PËR PROCEDURAT, AFATET KOHORE, STANDARDET DHE KRITERET E PLOTËSIMIT TË DOKUMENTACIONIT TË NEVOJSHËM, PËR RIORGANIZIMIN ADMINISTRATIVO-TERRITORIAL
+Në mbështetje të nenit 102 të Kushtetutës, të nenit 70 pika 3 të ligjit nr.30/2015 “Për disa ndryshime dhe shtesa në ligjin nr.8652, datë 31.7.2000, “Për organizimin dhe funksionimin e qeverisjes vendore” të ndryshuar”, të ligjit nr.115/2014 “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”, të vendimit të Këshillit të Ministrave nr. 510 datë 10.6.2015, “Për miratimin e procedurave për transferimin e të drejtave dhe detyrimeve, personelit, aktiveve të trupëzuara dhe të patrupëzuara, të arkivave dhe çdo dokumenti zyrtar në njësitë e qeverisjes vendore të prekura nga riorganizimi administrativo-territorial”, me qëllim përcaktimin në mënyrë të detajuar të procedurave, afateve kohore, standardeve dhe kritereve të plotësimit të dokumentacionit të nevojshëm, për riorganizimin administrativo-territorial,
+UDHËZOJMË:

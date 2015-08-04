@@ -1,0 +1,2 @@
+3. Brenda muajit nëntor 2015, të gjitha bashkitë duhet të kenë plotësuar “Raportin e Kontrollit të Konsoliduar”, i cili do të japë informacionin e konsoliduar operacional dhe financiar të bashkisë, si: strukturën e re të parashikuar të bashkisë, listat e aktiveve të qëndrueshme, inventarit, debitorëve dhe kreditorëve, etj. (aneks 7).
+Personat përgjegjës për plotësimin e dokumentacionit të nevojshëm
