@@ -1,0 +1,1 @@
+13. Kalimi i pronësisë mbi truallin brenda zonës së stimuluar, sipas pikës 6, të këtij vendimi, bëhet referuar çmimit të truallit, në përputhje me vlerën e pronës së miratuar me vendim të Këshillit të Ministrave.

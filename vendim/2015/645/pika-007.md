@@ -1,0 +1,1 @@
+7. Brenda një muaji nga përfundimi i procesit të parashikuar në nenin 9, të ligjit nr. 10186, datë 5.11.2009, të ndryshuar, ALUIZNI njofton me shkrim personin e stimuluar për blerjen e truallit të lirë brenda zonës së stimuluar. Në përmbajtjen e njoftimit përfshihet edhe informacioni për alternativat e kalimit të pronësisë mbi truallin e lirë.

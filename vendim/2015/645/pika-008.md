@@ -1,0 +1,1 @@
+8. Nëse personi i stimuluar nuk paraqet kërkesë për blerjen e të gjithë truallit të lirë ose për kalimin e tij në bashkëpronësi të detyrueshme, brenda një muaji nga marrja dijeni për njoftimin zyrtar, vijohet me njoftimin e subjekteve të interesuara për të drejtën e tyre për këtë bashkëpronësi.

@@ -1,0 +1,1 @@
+10. Kur personi i stimuluar nuk përmbush kushtet e pikës 3, të nenit 9/1, të ligjit nr. 10186, datë 5.11.2009, të ndryshuar, atëherë ai dhe subjektet e interesuara njoftohen vetëm për mundësinë e kalimit të bashkëpronësisë së detyrueshme mbi truallin e lirë.

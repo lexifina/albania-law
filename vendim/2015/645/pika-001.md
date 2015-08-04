@@ -1,0 +1,1 @@
+1. Procedura e kalimit të pronësisë apo bashkëpronësisë së detyrueshme për truallin e lirë (sipas kuptimit të shkronjës “gj”, të nenit 2, të ligjit nr. 10186, datë 5.11.2009, “Për rregullimin e pronësisë mbi truallin shtetëror në zonat me përparësi turizmin”, të ndryshuar) kryhet nga ALUIZNI, pas përfundimit të shitjes së truallit të njësive ndërtimore.
