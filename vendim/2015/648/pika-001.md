@@ -1,0 +1,2 @@
+1. Drejtuesi teknik i subjektit juridik, përgjegjës për menaxhimin e tunelit, duhet të ketë edukimin arsimor në inxhinieri transporti ose infrastrukturë të transportit dhe të paktën 10 vjet eksperiencë në administrimin e trafikut.
+Gjithashtu, subjekti duhet të ketë personel tjetër në funksione drejtimi/administrimi, të paktën dy persona me edukim arsimor në inxhinieri mekanike ose elektrike dhe eksperiencë të paktën 5-vjeçare në zhvillimin e shfrytëzimin e operacioneve në tunele rrugore dhe procedurave të mirëmbajtjes në to.
