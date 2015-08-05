@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12246,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 107/2014 “Për planifikimin dhe zhvillimin e territorit”.",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "73",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-07-09",
+  "published": "2015-07-21",
+  "in_force": "2015-08-05",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/2be93e78806890e0a0a209acf7f06cff49e40d4335e3a4bca6319c0ad8d971c6.docx",
+  "source_sha256": "2be93e78806890e0a0a209acf7f06cff49e40d4335e3a4bca6319c0ad8d971c6",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12246",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/07/09/73",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
