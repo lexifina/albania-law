@@ -1,0 +1,1 @@
+9. Dokumentacioni i përcaktuar në pikën 1 dhe pikën 7 të këtij udhëzimi administrohen nga shërbimi i PMNZSH-së në dosje të veçanta për çdo objekt, si dhe ruhen dhe administrohen në përputhje me dispozitat e ligjit nr. 9154, datë 6.11.2003 “Për arkivat”.

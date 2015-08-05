@@ -1,0 +1,1 @@
+7. Pas kërkesës për lëshimin e aktit teknik, shërbimi i PMNZSH-së verifikon dokumentacionin e përcaktuar në pikën 2 të këtij udhëzimi, si dhe planifikon verifikimin në terren të objektit dhe këqyr me përgjegjësi zbatimin e projektit për mbrojtjen nga zjarri dhe për shpëtimin.
