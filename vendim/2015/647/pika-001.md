@@ -1,0 +1,1 @@
+1. Furnizimi (hyrja) i mallrave shqiptare në zonën e teknologjisë dhe zhvillimit ekonomik trajtohet si furnizim me shkallë zero të TVSH-së, me kushtin që këto mallra të përdoren vetëm për qëllime të veprimtarisë ekonomike që zhvillohet në zonë dhe për të cilën janë destinuar, të furnizuara për zhvilluesin dhe për përdoruesit e vendosur në zonë.

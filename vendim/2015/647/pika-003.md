@@ -1,0 +1,1 @@
+3. Sipërmarrësit, të cilët ofrojnë dhe kryejnë shërbime ndërtimi, montimi, punë mbikëqyrëse etj. të kësaj natyre për “zhvilluesin e licencuar” në zonën e teknologjisë dhe zhvillimit ekonomik, nuk përfitojnë asnjë reduktim nga tatimi mbi fitimin në lidhje me veprimtarinë që kryejnë në zonën e teknologjisë dhe zhvillimit ekonomik.

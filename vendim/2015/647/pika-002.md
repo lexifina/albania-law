@@ -1,0 +1,10 @@
+2. Furnizimi (hyrja) i mallrave shqiptare në zonën e teknologjisë dhe zhvillimit ekonomik, të cilat nuk përdoren për qëllim të veprimtarisë ekonomike që zhvillohet në zonë, por janë për përdorim apo konsum përfundimtar, nuk trajtohet si furnizim me shkallë zero të TVSH-së. Për këto furnizime zbatohet shkalla tatimore e TVSH-së sipas përcaktimeve të ligjit nr. 92/2014, “Për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë”.
+II. DALJA E MALLRAVE NGA ZONA E TEKNOLOGJISË DHE ZHVILLIMIT EKONOMIK
+Mallrat, që dalin nga një zonë e teknologjisë dhe zhvillimit ekonomik, mund të jenë:
+a) mallra që hidhen në qarkullim të lirë në pjesën tjetër të territorit doganor të Republikës së Shqipërisë, pasi të kenë paguar të gjitha detyrimet e importit, përfshirë TVSH-në, sipas shkallës tatimore në fuqi;
+b) eksporte ose rieksporte, me zero TVSH, kur dalin jashtë territorit doganor të Republikës së Shqipërisë;
+c) mallra që futen në njërën nga procedurat e tjera doganore ose lloje të tjera destinacioni doganor.
+Mallrat apo produktet e transportuara nga një zonë e teknologjisë dhe zhvillimit ekonomik në një tjetër, brenda territorit të Republikës së Shqipërisë, konsiderohen dhe nuk janë subjekt i detyrimeve doganore dhe/ose tatimore.
+III. PËRJASHTIMI NGA TATIMI MBI FITIMIN PËR ZHVILLUESIT E ZONËS SË TEKNOLOGJISË DHE ZHVILLIMIT EKONOMIK
+1. “Zhvilluesit e licencuar” të zonës së teknologjisë dhe zhvillimit ekonomik, persona juridikë të licencuar, vendas ose të huaj, të cilët ndërtojnë, administrojnë dhe monitorojnë funksionimin e zonës së teknologjisë dhe zhvillimit ekonomik, paguajnë për 5 vitet e para nga fillimi i veprimtarisë së tyre në zonë 50 % të normës së tatimit mbi fitimin të përcaktuar në ligjin specifik tatimor.
+2. Lehtësia tatimore llogaritet me fillimin e veprimtarisë ekonomike nga zhvilluesi në zonë. Fillim i veprimtarisë ekonomike në zonë, për zhvilluesin e zonës, konsiderohet data e fillimit të punimeve, sipas përcaktimeve në marrëveshjen e institucionit përgjegjës me zhvilluesin.
