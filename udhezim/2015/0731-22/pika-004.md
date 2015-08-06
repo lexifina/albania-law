@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Doganave, nëpërmjet degëve të saj doganore, caktohet agjent për mbledhjen e kësaj tarife. Derdhja e tarifës bëhet mbi baza mujore në përputhje me procedurat e përcaktuara në këtë udhëzim, si dhe në udhëzimin nr. 26, datë 4.9.2008, “Për taksat kombëtare”, të ndryshuar.

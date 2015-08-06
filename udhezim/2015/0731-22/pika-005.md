@@ -1,0 +1,1 @@
+5. Drejtuesi i mjetit në momentin e hyrjes në territorin e Republikës së Shqipërisë me automjete me targë të huaj, pajiset nga dega doganore me një vërtetim hyrjeje sipas formularit nr. 1, bashkëlidhur këtij udhëzimi.
