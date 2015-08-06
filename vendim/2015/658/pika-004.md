@@ -1,0 +1,1 @@
+4. Miratimi ose refuzimi për lëshimin e licencës për çaktivizimin dhe/ose riparimin e armëve të zjarrit për kategoritë “A”, “B” dhe “C” bëhet me vendim të AKSHE-së, brenda 3 (tre) muajve nga data e plotësimit të dokumentacionit të përcaktuar në pikën 14, të këtij vendimi.

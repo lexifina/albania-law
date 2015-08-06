@@ -1,0 +1,1 @@
+17. Autoriteti i Kontrollit Shtetëror të Eksporteve, në përfundim të procesit të dorëzimit të dokumentacionit nga subjekti aplikues, ngre një komision, me specialistë të fushës, për vlerësimin në ambientet e prodhimit, çaktivizimit dhe/ose riparimit, të kushteve dhe kritereve të paraqitura në dokumentacionin e aplikimit.

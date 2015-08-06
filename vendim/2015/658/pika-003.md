@@ -1,0 +1,1 @@
+3. Miratimi ose refuzimi për lëshimin e licencës së prodhimit të armëve për kategoritë “A”, “B” dhe “C”, të përcaktuara në pikat 1, 2 dhe 3, të nenit 8, të ligjit nr. 74/2014, “Për armët”, bëhet me vendim të AKSHE-së, brenda 6 (gjashtë) muajve nga data e plotësimit të dokumentacionit të përcaktuar në pikën 14, të këtij vendimi.

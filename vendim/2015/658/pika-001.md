@@ -1,0 +1,1 @@
+1. Licenca për prodhimin, çaktivizimin e riparimin e armëve të zjarrit, pjesëve përbërëse dhe municioneve të tyre u jepet personave fizikë ose juridikë, privatë ose publikë, vendas ose të huaj, nga Autoriteti i Kontrollit Shtetëror të Eksporteve (AKSHE), në Ministrinë e Mbrojtjes.

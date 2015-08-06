@@ -1,0 +1,1 @@
+5. Afati i vlefshmërisë së licencës së prodhimit të armëve është 10-vjeçar, me të drejtë rinovimi, ndërsa afati i vlefshmërisë së licencës për çaktivizimin dhe/ose riparimin e armëve është 7-vjeçar, me të drejtë rinovimi.
