@@ -1,0 +1,1 @@
+7. Plotësimi i kërkesave të neneve 9, 10 dhe 11, të ligjit nr. 116/2014, “Për akreditimin e organeve të vlerësimit të konformitetit në Republikën e Shqipërisë”, vlerësohet edhe nëpërmjet auditimeve të kryera nga Drejtoria e Auditit në ministri.

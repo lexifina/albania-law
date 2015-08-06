@@ -1,0 +1,1 @@
+20. DPA-ja ka logon e saj të regjistruar në Drejtorinë e Përgjithshme të Markave dhe Patentave. DPA-ja i jep të drejtën organeve të akredituara prej saj të përdorin simbolin e akreditimit. Simboli i akreditimit përbëhet nga logoja e DPA-së dhe numri i akreditimit. DPA-ja publikon rregullat e përdorimit të simbolit të akreditimit.

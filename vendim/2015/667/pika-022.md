@@ -1,0 +1,1 @@
+22. Për organet e miratuara, mbikëqyrja e akreditimit nga DPA-ja bashkërenditet me atë të organeve përkatëse përgjegjëse, kur këto kryejnë vlerësimet periodike të statusit të miratimit. Nëse ka informacion se një organ i akredituar, i miratuar ose jo, nuk plotëson më kushtet e akreditimit, mbikëqyrja mund të kryhet në çdo kohë edhe pa lajmërim.

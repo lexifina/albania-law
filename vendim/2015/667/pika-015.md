@@ -1,0 +1,1 @@
+15. Organet e vlerësimit të konformitetit, të regjistruara në Shqipëri dhe të akredituara nga organizma akreditues të huaj, informojnë DPA-në brenda muajit janar të çdo viti për statusin e tyre të akreditimit.

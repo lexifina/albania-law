@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Akreditimit siguron që i gjithë aktiviteti i saj akreditues të kryhet në interes publik dhe kërkon përfshirjen e balancuar dhe të ndershme të të gjitha palëve të interesuara në punën e saj.

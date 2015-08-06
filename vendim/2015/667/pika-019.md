@@ -1,0 +1,1 @@
+19. DPA-ja informon organet përgjegjëse të dhënies së miratimit në lidhje me kërkesën për akreditim dhe vendimet për statusin e akreditimit të organeve, të cilat kërkojnë të jenë apo janë të miratuara.

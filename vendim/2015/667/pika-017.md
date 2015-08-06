@@ -1,0 +1,1 @@
+17. Organi i vlerësimit të konformitetit që vepron në fushën vullnetare ose të detyruar, i interesuar për akreditim, aplikon drejtpërdrejt te DPA-ja. Në procesin e vlerësimit për akreditim, aplikanti u përgjigjet kritereve të akreditimit dhe në veçanti standardeve e udhëzuesve të nxjerrë nga organizmat ndërkombëtarë të akreditimit.

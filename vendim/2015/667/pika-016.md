@@ -1,0 +1,1 @@
+16. Për qëllime të miratimit, organi i vlerësimit të konformitetit, i akredituar nga një organizëm akreditues i huaj, i kërkon DPA-së pajisjen me dokument njohjeje për certifikatën e akreditimit dhe dokumentet shoqëruese të certifikatës.

@@ -1,0 +1,1 @@
+14. DPA-ja, brenda 30 (tridhjetë) ditëve nga data e marrjes së informacionit, njofton organet përgjegjëse të dhënies së miratimit për çdo dokument të përditësuar dhe të publikuar në nivel evropian, që ka lidhje me akreditimin.

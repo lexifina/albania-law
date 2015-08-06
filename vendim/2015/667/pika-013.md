@@ -1,0 +1,1 @@
+13. DPA-ja informon organizatat evropiane dhe ndërkombëtare të akreditimit dhe anëtarët e saj për hartimin e legjislacionit të ri në fushën e akreditimit ose që kanë lidhje me akreditimin në Shqipëri.
