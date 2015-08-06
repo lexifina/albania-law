@@ -1,0 +1,1 @@
+1. Shpërndarjen e fondit transitor në vlerën 1 857 683 000 (një miliard tetëqind e pesëdhjetë e shtatë milionë e gjashtëqind e tetëdhjetë e tre mijë) lekë, për zbatimin e reformës së re administrativo-territoriale, për 61 bashkitë, sipas tabelës 1, bashkëlidhur këtij vendimi.
