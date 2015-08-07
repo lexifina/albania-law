@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, nga qeveria shqiptare, për qeverinë e Republikës së Maqedonisë, në masën 50 000 (pesëdhjetë mijë) euro, për lehtësimin e pasojave të dëmeve të shkaktuara nga përmbytjet në gusht 2015, në Tetovë.

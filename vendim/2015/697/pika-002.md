@@ -1,0 +1,1 @@
+2. Ministrisë së Punëve të Jashtme, në buxhetin e miratuar për vitin 2015, në programin buxhetor 01120 ”Mbështetje diplomatike jashtë shtetit”, shpenzime korrente, t’i shtohet kundërvlera në lekë e fondit prej 50 000 (pesëdhjetë mijë) eurosh, për t’u përdorur si ndihmë finnaicare për lehtësimin e pasojave të dëmeve të shkaktuara nga përmbytjet e muajit gusht 2015, në Tetovë.
