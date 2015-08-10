@@ -1,1 +1,0 @@
-4. Institucionet e përmendura në pikat 1 dhe 2 të ndarjes “C”, japin mendimin për projektin e propozuar brenda afatit të përcaktuar dhe nëse nuk i paraqesin ato brenda këtij afati nënkuptohet se ato janë dakord me zhvillimin e projektit dhe nuk kanë komente.

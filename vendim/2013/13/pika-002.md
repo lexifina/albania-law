@@ -1,1 +1,0 @@
-2. QKL-ja, brenda 4 (katër) ditëve nga data e paraqitjes së kërkesës dhe dokumentacionit shoqërues nga zhvilluesi, e përcjell në AKM për të vlerësuar dhe vendosur nëse projekti i propozuar për shkak të ndikimeve të rëndësishme negative në mjedis, që mund të ketë, duhet t’i nënshtrohet apo jo procedurës së thelluar të VNM-së.
