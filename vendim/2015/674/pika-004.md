@@ -1,0 +1,1 @@
+4. ZQRPP-ja dhe Qendra e Ofrimit të Shërbimeve Publike të Integruara, nëpërmjet Shkollës Shqiptare të Administratës Publike (ASPA), të kryejnë trajnimin e punonjësve për kuadrin ligjor të pasurive të paluajtshme.

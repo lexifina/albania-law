@@ -1,0 +1,1 @@
+1. Sportelet pritëse për qytetarët (front-office/FO) të zyrave vendore të regjistrimit të pasurive të paluajtshme kalojnë në administrimin e Qendrës së Ofrimit të Shërbimeve Publike të Integruara (ADISA).
