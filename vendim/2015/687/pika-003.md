@@ -1,0 +1,1 @@
+3. Mbetjet e grumbulluara në mënyrë të diferencuar duhet të trajtohen referuar ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar, me qëllim mbledhjen e përpunimin e të dhënave prej tyre.

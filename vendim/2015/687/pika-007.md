@@ -1,0 +1,1 @@
+7. Ministria përgjegjëse për mjedisin, në bazë të të dhënave të ardhura nga Agjencia Kombëtare e Mjedisit, përgatit dhe publikon në variantin elektronik dhe në website-in e ministrisë raportin 3-vjeçar për statistikat e mbetjeve në territorin e Republikës së Shqipërisë, të cilin ia vë në dispozicion publikut.

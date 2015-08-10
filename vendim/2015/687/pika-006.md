@@ -1,0 +1,1 @@
+6. Agjencia Kombëtare e Mjedisit mbledh, mban dhe përditëson statistikat për mbetjet sipas shtojcës nr. 1, bashkëlidhur këtij vendimi, në bazë të të dhënave të grumbulluara referuar pikave 4 e 5, të këtij vendimi, të cilat ia raporton ministrisë, brenda datës 28 shkurt të çdo viti.

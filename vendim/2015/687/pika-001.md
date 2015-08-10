@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për mbajtjen, përditësimin dhe publikimin e statistikave të mbetjeve që lidhen me krijimin, riciklimin, rikuperimin, eksportin dhe asgjësimin e tyre në territorin e Republikës së Shqipërisë.

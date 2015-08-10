@@ -1,0 +1,2 @@
+8. Ngarkohen ministria përgjegjëse për mjedisin, ministria përgjegjëse për infrastrukturën / trans-portin, ministria përgjegjëse për shëndetësinë, ministria përgjegjëse për industrinë, ministria përgjegjëse për bujqësinë, Agjencia Kombëtare e Mjedisit, këshillat e qarqeve dhe njësitë e qeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i fillon efektet juridike nga data 1 janar 2019.

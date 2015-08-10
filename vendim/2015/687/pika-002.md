@@ -1,0 +1,1 @@
+2. Njësitë e qeverisjes vendore janë përgjegjëse për grumbullimin e diferencuar të mbetjeve në burim, sipas llojit, sasisë dhe përbërjes së tyre, të krijuara në territorin e njësisë së qeverisjes vendore që ato administrojnë.
