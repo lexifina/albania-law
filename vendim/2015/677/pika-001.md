@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 8 (tetë) % të pikëve, që i jepet shoqërisë “Çinar-San Hafriyat Nakliyat Inşaat Turizm Sanayi Ve Ticaret Limited Şirketi” për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese për dhënien me koncesion të hidrocentralit “Poçem”.
