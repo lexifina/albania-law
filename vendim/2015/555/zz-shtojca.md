@@ -5,13 +5,13 @@ I. Niveli i mesëm drejtues dhe të barazvlefshëm
 1. Drejtor i Drejtorisë së Politikave të Burimeve Ujore, në Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave;
 2. Drejtor i Drejtorisë së Krijimtarisë së Fjalës dhe Përkthimit, në Drejtorinë e Përgjithshme të Planifikimit Strategjik për Artin dhe Kulturën, në Ministrinë e Kulturës;
 3. Drejtor i Drejtorisë së Arkivit të Sistemit të MPB, në Drejtorinë e Përgjithshme të Shërbimeve Mbështetëse, në Ministrinë e Punëve të Brendshme;
-4. Drejtor i Drejtorisë së Politikave të Transportit, në Drejtorinë e Përgjithshme të Politikave, në Ministrinë e Transportit dhe Infrastrukturës;
+4. Drejtor i Drejtorisë së Shërbimeve Juridike, në Drejtorinë e Përgjithshme të Shërbimeve Mbështetëse, në Ministrinë e Transportit dhe Infrastrukturës;
 5. Drejtor i Drejtorisë së Projekteve, në Drejtorinë e Përgjithshme të Integrimit, në Ministrinë e Transportit dhe Infrastrukturës;
 6. Drejtor i Drejtorisë së Bashkëpunimit Ekonomik, në Drejtorinë e Përgjithshme të Zhvillimit Ekonomik, në Ministrinë e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes;
 7. Koordinator (2 pozicione) në Departamentin e Jetësimit të Prioriteteve, në Kryeministri;
 8. Koordinator i Zyrës së Sekretarit të Përgjithshëm, në Zyrën e Menaxhimit pranë Sekretarit të Përgjithshëm, në Kryeministri;
 9. Koordinator në Zyrën (Drejtorinë) Operative të Situatës, në Kryeministri;
-10. Drejtor i Sekretariatit Teknik (Drejtorisë) Sektori i Qeverisjes së Mirë dhe Administrimit Publik, në Kryeministri;
+10. Koordinator në Sekretariatin Teknik (Drejtorinë), sektori i qeverisjes së mirë dhe administrimit publik, në Kryeministri;
 11. Drejtor i Drejtorisë së Menaxhimit të Ndihmës së Huaj dhe Instrumenteve nga BE, në Njësinë e Programimit të Financimeve, në Departamentin e Zhvillimit, Financimeve dhe Ndihmës së Huaj, në Kryeministri;
 12. Koordinator në Njësinë për Mbështetjen e Investimeve Strategjike të Biznesit, në Departamentin e Zhvillimit, Financimeve dhe Ndihmës së Huaj, në Kryeministri;
 13. Koordinator në Drejtorinë e Menaxhimit të Ndihmës së Huaj, në Njësinë e Programimit të Financimeve, në Departamentin e Zhvillimit, Financimeve dhe Ndihmës së Huaj, në Kryeministri;
@@ -60,3 +60,15 @@ II. Niveli i ulët drejtues dhe të barazvlefshëm
 36. Përgjegjës i Sektorit të Zhvillimit të Infrastrukturës, në Drejtorinë e Shërbimeve dhe Teknologjisë së Informacionit, në Drejtorinë e Përgjithshme të Shërbimeve Mbështetëse;
 37. Përgjegjës i Sektorit të Kontrollit Tatimor, në Drejtorinë e Kontrollit Tatimor, në Drejtorinë Rajonale të Tatimeve, Elbasan;
 38. Përgjegjës i Sektorit të Verifikimit në Terren, në Drejtorinë e Kontrollit Tatimor, në Drejtorinë Rajonale të Tatimeve Korçë.
+39. Drejtor i Drejtorisë së Mbledhjes së Borxhit, në Drejtorinë Rajonale të Tatimeve Durrës.
+40. Drejtor i Drejtorisë së Mbledhjes së Borxhit, në Drejtorinë Rajonale të Tatimeve Fier.
+41. Drejtor i Drejtorisë së Shërbimit të Tatimpaguesve, në Drejtorinë Rajonale të Tatimeve Elbasan.
+42. Drejtor i Drejtorisë së Kontrollit Tatimor, në Drejtorinë Rajonale të Tatimeve Dibër.
+43. Drejtor i Drejtorisë Rajonale të Tatimeve Elbasan.
+44. Drejtor i Drejtorisë së Mbledhjes së Borxhit, në Drejtorinë Rajonale të Tatimeve Elbasan.
+45. Drejtor i Drejtorisë Rajonale të Tatimeve Korçë.
+46. Drejtor i Drejtorisë Rajonale të Tatimeve Berat.
+47. Drejtor i Drejtorisë së Kontrollit Tatimor, në Drejtorinë Rajonale të Tatimeve Lezhë.
+48. Drejtor i Drejtorisë së Shërbimit të Tatimpaguesve, në Drejtorinë Rajonale të Tatimeve Tiranë.
+49. Drejtor i Drejtorisë së Mbledhjes së Borxhit, në Drejtorinë Rajonale të Tatimeve Tiranë.
+50. Drejtor i Drejtorisë së Funksioneve Mbështetëse, në Drejtorinë Rajonale të Tatimeve Tiranë.
