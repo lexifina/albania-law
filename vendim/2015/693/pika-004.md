@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “arë”, “truall” dhe “objekte”, prej 34 859 089 (tridhjetë e katër milionë e tetëqind e pesëdhjetë e nëntë mijë e tetëdhjetë e nëntë) lekësh, të përballohet nga buxheti i vitit 2015, miratuar për Ministrinë e Transportit dhe Infrastrukturës, zëri “Shpronësimet”, planifikuar për Autoritetin Rrugor Shqiptar.
