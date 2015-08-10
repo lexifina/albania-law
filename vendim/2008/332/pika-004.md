@@ -1,6 +1,6 @@
 4. ALUIZNI është autoriteti përgjegjës për shpërndarjen e produktit fotogrametrik, nga një kopje në formatin elektronik, brenda një muaji nga marrja në dorëzim e tij, në institucionet e mëposhtme:
 a) Ministrinë e Brendshme;
-b) Ministrinë e Punëve Publike, Transportit dhe Telekomunikacionit;
+b) Ministrinë e Zhvillimit Urban;
 c) Ministrinë e Drejtësisë;
 ç) Ministrinë e Mbrojtjes;
 d) Ministrinë e Ekonomisë, Tregtisë dhe Energjetikës;
