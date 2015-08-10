@@ -1,0 +1,1 @@
+1. Shpronësimin dhe marrjen në përdorim të përkohshëm, për interes publik, të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i urave dhe rrugëve hyrëse, në zonat Korçë, Devoll dhe Skrapar, të projektit për ndërtimin e Gazsjellësit Trans Adriatik (Projekti TAP), sipas tabelave 1, 2 dhe 3, bashkëlidhur këtij vendimi.
