@@ -1,0 +1,1 @@
+1. Dhënien nga Ministria e Arsimit dhe Sportit të 289 (dyqind e tetëdhjetë e nëntë) bursave/kuotave ushqimore për nxënësit romë dhe egjiptianë të shkollës 9-vjeçare “Naim Frashëri”, Korçë, për vitin shkollor 2015 - 2016.
