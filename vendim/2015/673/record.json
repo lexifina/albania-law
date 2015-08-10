@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12332,
+  "title": "Për një ndryshim në vendimin nr. 217, datë 11.3.2015, të Këshillit të Ministrave, “Për ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 8.4.2014, për çështjen “Karagjozi dhe të tjerë kundër Shqipërisë” (për ankimet nr. 25408/06, 37419/06; 49121/06; 1504/07; 19772/07; 46685/07; 49411/07; 27242/08; 61912/08 dhe 15075/09), të ndryshuar”.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "673",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-07-29",
+  "published": "2015-08-10",
+  "in_force": "2015-08-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/9df17935c73d844ed004e16aca3b60a602858454e6df29b1d1bc0f5b3208edf7.docx",
+  "source_sha256": "9df17935c73d844ed004e16aca3b60a602858454e6df29b1d1bc0f5b3208edf7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12332",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/07/29/673",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
