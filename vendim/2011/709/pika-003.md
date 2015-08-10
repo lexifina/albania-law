@@ -1,1 +1,0 @@
-3. Drejtoritë arsimore rajonale dhe zyrat arsimore, mbështetur në numrin e mësuesve dhe nxënësve që planifikohen të përfitojnë nga shërbimi i transportit, në bashkëpunim me këshillat e qarqeve, njësitë e qeverisjes vendore dhe Shoqatën e Transportit Publik, miratojnë hartën e linjave, sipas distancave të përmendura në pikën 1 të këtij vendimi.
