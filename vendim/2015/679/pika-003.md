@@ -1,0 +1,1 @@
+3. Në institucionin arsimor privat para-universitar “Albanian College, Tiranë” mësimi do të zhvillohet në gjuhën angleze. Në lëndët: Gjuha shqipe, Letërsia shqipe, Historia e kombit shqiptar dhe Gjeografia e Shqipërisë mësimi do të zhvillohet detyrimisht në gjuhën shqipe.

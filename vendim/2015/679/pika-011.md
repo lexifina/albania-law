@@ -1,0 +1,1 @@
+11. Moszbatimi apo mosrespektimi i këtyre detyrimeve, si dhe mosdhënia apo fshehja e informacioneve ndaj organeve kompetente mbikëqyrëse dhe inspektuese, të cilat do të verifikojnë apo kontrollojnë funksionimin dhe mbarëvajtjen e këtyre institucioneve arsimore, përbën kundërvajtje administrative dhe sanksionohet sipas akteve ligjore e nënligjore në fuqi.

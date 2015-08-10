@@ -1,0 +1,1 @@
+7. Çdo ndryshim në planin mësimor, programet e lëndëve apo tekstet që do të përdorë, si edhe çdo projekt apo eksperimentim psikopedagogjik-didaktik, që kërkon të kryejë institucioni arsimor privat parauniversitar “Albanian College, Tiranë”, miratohet nga Ministria e Arsimit dhe Sportit, sipas rastit.
