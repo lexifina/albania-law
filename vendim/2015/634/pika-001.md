@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për prezantimin e masave për sigurinë dhe shëndetin në punë të grave shtatzëna dhe nënave të reja”, sipas tekstit dhe shtojcave që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
