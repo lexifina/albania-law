@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12357,
+  "title": "Për dhënien e miratimit paraprak për kryerjen e veprimtarisë shtesë nga Banka Alpha Albania sh.a.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "62",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2015-08-06",
+  "published": "2015-08-18",
+  "in_force": "2015-08-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/caa22bcac485dba285cf7cc4581535fd2f35949f7f46ce044a1b4e558b6d9b6d.docx",
+  "source_sha256": "caa22bcac485dba285cf7cc4581535fd2f35949f7f46ce044a1b4e558b6d9b6d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12357",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/08/06/62",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
