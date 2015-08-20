@@ -1,0 +1,1 @@
+10. Testi për secilin nga provimet e lëndëve me zgjidhje përmban 20 pyetje, nga të cilat 10 pyetje janë me përgjigje alternative dhe vlerësohen me 10 pikë, kurse 10 pyetje janë me zgjidhje dhe vlerësohen me 30 pikë.

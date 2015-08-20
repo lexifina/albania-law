@@ -1,0 +1,1 @@
+3. Për provimet kombëtare të arsimit bazë 2015, sesioni i dytë, ndiqen procedurat e përcaktuara sipas urdhrit nr. 119, datë 20.3.2015, të Ministrit të Arsimit dhe Sportit “Për procesin e organizimit dhe zhvillimit të provimeve kombëtare të arsimit bazë (provime të lirimit) 2015”.

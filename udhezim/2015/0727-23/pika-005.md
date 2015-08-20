@@ -1,0 +1,1 @@
+5. Hartimi i testeve kryhet sipas urdhrit nr. 119, datë 20.3.2015, të ministrit të Arsimit dhe Sportit, “Për procesin e organizimit dhe zhvillimit të provimeve kombëtare të arsimit bazë (provime të lirimit) 2015”.
