@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12360,
+  "title": "Për një ndryshim në vendimin nr. 666, datë 29.7.2015, të Këshillit të Ministrave “Për shpalljen e zonës së teknologjisë dhe zhvillimit ekonomik në Spitallë, Durrës”.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "698",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-08-20",
+  "published": "2015-08-20",
+  "in_force": "2015-08-20",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/fb44d846b01acfeab89b75b15b80c5813947cbe77710a75f24265a797dff7f0d.docx",
+  "source_sha256": "fb44d846b01acfeab89b75b15b80c5813947cbe77710a75f24265a797dff7f0d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12360",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/08/20/698",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
