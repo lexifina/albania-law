@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12325,
+  "title": "Për një ndryshim në ligjin nr.92/2014, “Për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë”, të ndryshuar.",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "90",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-07-23",
+  "published": "2015-08-07",
+  "in_force": "2015-08-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/976ce71d32165085dcc4a66839718478c93655b1d31f415b3037ae9a065493ea.docx",
+  "source_sha256": "976ce71d32165085dcc4a66839718478c93655b1d31f415b3037ae9a065493ea",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12325",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/07/23/90",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
