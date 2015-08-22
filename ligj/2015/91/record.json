@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12326,
+  "title": "Për një shtesë dhe ndryshim në ligjin nr.9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar.",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "91",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-07-23",
+  "published": "2015-08-07",
+  "in_force": "2015-08-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/e5902cf673161ad3986943bd995ee9377c5af083642757457fa49e4a81ac5118.docx",
+  "source_sha256": "e5902cf673161ad3986943bd995ee9377c5af083642757457fa49e4a81ac5118",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12326",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/07/23/91",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
