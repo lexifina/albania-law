@@ -1,0 +1,2 @@
+# Neni 3
+Neni 2 i ligjit nr. 123/2013 “Për miratimin e kontratës së koncesionit ndërmjet Ministrisë së Financave, si autoritet kontraktues, dhe shoqërisë “Rapiscan Security, INC.”, si koncesionar, për financimin, ngritjen dhe operimin e shërbimit të skanimit të kontejnerëve e automjeteve të tjera në Republikën e Shqipërisë dhe tarifës së shërbimit të skanimit” shfuqizohet me hyrjen në fuqi të këtij ligji.
