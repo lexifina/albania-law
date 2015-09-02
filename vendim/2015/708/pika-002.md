@@ -1,0 +1,1 @@
+2. Mbledhja dhe ruajtja e të dhënave nga institucionet, sipas pikës 1, të këtij neni, duhet të jenë në përputhje me parashikimet ligjore për mbrojtjen e të dhënave, për garantimin e konfidencialitetit dhe për respektimin e jetës private të tyre. Këto të dhëna janë të aksesueshme nga personat me aftësi të kufizuara.

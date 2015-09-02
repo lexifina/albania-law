@@ -1,0 +1,1 @@
+6. Qarku përpunon të dhënat statistikore për aftësinë e kufizuar, të përcjella nga bashkitë, pjesë e tij, dhe ia përcjell ato, periodikisht, sekretariatit teknik për aftësinë e kufizuar, në Këshillin Kombëtar për Aftësinë e Kufizuar.

@@ -1,0 +1,1 @@
+5. Bashkitë u dërgojnë, periodikisht, nëpunësve që mbulojnë çështjet e aftësisë së kufizuar, në qarkun përkatës, të dhënat statistikore për aftësinë e kufizuar, sipas aneksit 1, bashkëlidhur këtij vendimi.

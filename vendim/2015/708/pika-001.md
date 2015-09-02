@@ -1,0 +1,1 @@
+1. Institucionet e pavarura, institucionet e administratës shtetërore, bashkitë dhe qarqet mbledhin të dhëna statistikore për aftësinë e kufizuar, sipas fushave ku operojnë, me qëllim hartimin, përmirësimin dhe zbatimin e politikave në mbështetje të programeve të aksesit dhe të përfshirjes së personave me aftësi të kufizuara.

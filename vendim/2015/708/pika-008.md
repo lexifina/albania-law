@@ -1,0 +1,1 @@
+8. Ministria, që mbulon çështjet e aftësisë së kufizuar, monitoron përditësimin progresiv të të dhënave, sipas treguesve të përcaktuar në aneksin 1, bashkëlidhur këtij vendimi, dhe i publikon ato në faqen zyrtare të internetit. Të dhënat janë pjesë e raportit që sekretariati teknik dërgon te të gjithë anëtarët e Këshillit Kombëtar të Aftësisë së Kufizuar.

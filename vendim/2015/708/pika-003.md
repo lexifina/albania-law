@@ -1,0 +1,1 @@
+3. Institucionet e pavarura, bazuar në funksionimin e tyre, i dërgojnë, periodikisht, sekretariatit teknik për aftësinë e kufizuar, në Këshillin Kombëtar për Aftësinë e Kufizuar, krijuar pranë ministrisë që mbulon çështjet e aftësisë së kufizuar, të dhënat statistikore për aftësinë e kufizuar.

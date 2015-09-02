@@ -1,0 +1,1 @@
+10. Instituti i Statistikave bën anketime të dedikuara për çështjet e aftësisë së kufizuar. Rezultatet e anketimeve i bën publike dhe informon, zyrtarisht, ministrinë që mbulon çështjet e aftësisë së kufizuar dhe Këshillin Kombëtar për Aftësinë e Kufizuar.

@@ -1,0 +1,1 @@
+4. Institucionet e administratës shtetërore, bazuar në funksionimin e tyre, i dërgojnë, periodikisht, sekretariatit teknik për aftësinë e kufizuar, në Këshillin Kombëtar për Aftësinë e Kufizuar, të dhënat statistikore për aftësinë e kufizuar, sipas aneksit 1, bashkëlidhur këtij vendimi.
