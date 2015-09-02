@@ -1,0 +1,1 @@
+10. Për efekt të zbatimit të kësaj Skeme, Ministria e Financave, nëpërmjet degëve të thesarit, të pajisë me “Voucher” (kuponin e garancisë së pagesës së shërbimit) AIDA-n, aplikantin fitues të skemës dhe ofruesin e shërbimit, kundrejt kontratës së nënshkruar ndërmjet aplikantit fitues dhe ofruesit të shërbimit.

@@ -1,0 +1,1 @@
+12. Procedurat e aplikimit dhe kriteret për përzgjedhjen e përfituesve e ofruesve të shërbimit përcaktohen në rregulloren e funksionimit të skemës “Voucher”, e cila miratohet me një urdhër të përbashkët nga ministri përgjegjës për ekonominë dhe ministri i Financave.

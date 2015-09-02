@@ -1,0 +1,1 @@
+3. Skema u jep ndihmë, në formë granti të drejtpërdrejtë, ndërmarrjeve mikro, të vogla dhe të mesme, nëpërmjet bashkëfinancimit. Në varësi të vlerësimit për projektin e dorëzuar nga aplikanti/tët, skema mbulon 85% të kostove të pranueshme nga buxheti i shtetit, por jo më shumë se 350 000 (treqind e pesëdhjetë mijë) lekë.

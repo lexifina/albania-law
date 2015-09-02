@@ -1,0 +1,1 @@
+11. Pagesa për ofruesin e shërbimeve të realizohet nga vetë aplikanti fitues i Skemës, të cilit, me përfundimin e projektit, i bëhet rimbursimi i vlerës, kundrejt kuponit “Voucher”, nëpërmjet sistemit informatik financiar të qeverisë dhe kundrejt paraqitjes së dokumentacionit justifikues të shpenzimit.

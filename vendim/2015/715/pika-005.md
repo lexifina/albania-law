@@ -1,0 +1,1 @@
+5. Qëllimi i Skemës është rritja dhe zhvillimi i aftësive menaxheriale dhe teknike për krijimin e produkteve të reja, proceseve ose shërbimeve inovative, si dhe mundësimi i krijimit të një lidhjeje të vazhdueshme me ofruesit e këtyre shërbimeve.
