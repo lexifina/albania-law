@@ -1,0 +1,1 @@
+4. Programet e studimit jouniversitare, profe-sionale, të parashikuara në pikën 3, të këtij vendimi, realizohen me 120 kredite. Kohëzgjatja normale e këtyre programeve do të jetë 2 vite akademike (4 semestra) dhe në përfundim të tyre do të lëshohet “Diplomë profesionale” në fushën e arsimimit të kryer.

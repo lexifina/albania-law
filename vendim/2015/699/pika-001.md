@@ -1,0 +1,1 @@
+1. Licencimin e institucionit të arsimit të lartë, privat, me statusin e kolegjit profesional, “Kolegji Profesional i Tiranës”, në emër të shoqërisë “KPT”, sh.p.k., i cili do të ushtrojë veprimtarinë e tij në qytetin e Tiranës.
