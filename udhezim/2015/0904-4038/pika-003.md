@@ -1,0 +1,1 @@
+3. Objektet postare të dërguara nga një person i verbër, ose pjesërisht i verbër, do të përjashtohen nga të gjitha tarifat e shërbimit universal postar, me përjashtim të tarifave shtesë të transportit ajror, në masën që këto objekte postare të jenë të pranueshme si të tilla në shërbimin e brendshëm të ofruesit të shërbimit universal postar të caktuar.

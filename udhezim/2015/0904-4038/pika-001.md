@@ -1,0 +1,1 @@
+1. Çdo person i verbër, ose pjesërisht i verbër, sipas përcaktimeve në legjislacionin në fuqi për statusin e të verbërve, si dhe Shoqata e të Verbërve në Shqipëri, përfitojnë marrjen e shërbimeve universale postare pa pagesë sipas përcaktimeve të këtij udhëzimi.

@@ -1,0 +1,1 @@
+5. Përjashtimi nga tarifat e shërbimit universal postar zbatohet me kusht që dërguesi dhe/ose marrësi të jetë person i verbër sipas pikës 1 të këtij udhëzimi ose kur dërguesi dhe/ose marrësi është një shoqatë e njohur zyrtarisht që vepron në ndihmë të të verbërve sipas pikës 4 të këtij udhëzimi.

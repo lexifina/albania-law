@@ -1,0 +1,1 @@
+7. Objekte postare, paketa, koliposta të dërguara nga vende të tjera, që përmbajnë materiale për personat e verbër apo për Shoqatën e të Verbërve në Shqipëri, do të përjashtohen nga tarifa e magazinimit dhe dorëzimit.
