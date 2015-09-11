@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Mirëqenies Sociale dhe Rinisë te Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, të mjediseve të ish-godinës së Ministrisë së Mjedisit, për mjedise pune për zhvillimin normal të veprimtarisë administrative të Agjencisë Shqiptare të Zhvillimit të Investimeve (AIDA).

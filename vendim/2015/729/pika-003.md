@@ -1,0 +1,1 @@
+3. Vendimi nr. 146, datë 18.2.2015, i Këshillit të Ministrave, “Për kalimin në përgjegjësi administrimi të Ministrisë së Mirëqenies Sociale dhe Rinisë të mjediseve të ish-godinës së Ministrisë së Mjedisit”, shfuqizohet.
