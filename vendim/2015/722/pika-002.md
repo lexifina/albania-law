@@ -1,0 +1,1 @@
+2. Misioni i ushtarakëve, që do të marrin pjesë në këtë mision, është mbështetja dhe dhënia e kontributit në funksione të ndryshme EOD në Kompaninë e Ruajtjes së Bazës dhe në ekipin e “Taskforcës së Stërvitjes”, në operacionin ushtarak të Bashkimit Evropian, me mision trajnues në Republikën e Malit, në Afrikë.

@@ -1,0 +1,1 @@
+1. Dërgimin me mision të personelit të Forcave të Armatosura të Republikës së Shqipërisë në operacionin ushtarak të Bashkimit Evropian, me mision trajnues (EUTM Mali), të përbërë nga 3 (tre) ushtarakë, si pjesë e grupit EOD, në mbështetje të Kompanisë së Ruajtjes së Bazës në Koulikoro, në Republikën e Malit, në Afrikë.
