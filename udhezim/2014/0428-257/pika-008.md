@@ -1,1 +1,0 @@
-8. Me termin “truall të lirë”, të shprehur në pikën 2 të kreut I dhe në pikën 1-c të kreut III, do të kuptohen rastet kur sipërfaqja është shesh i lirë (por jo tokë bujqësore) dhe nuk është pjesë funksionale e ndonjë objekti ndërtimor.

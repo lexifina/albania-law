@@ -1,1 +1,0 @@
-13. Në zbatim të pikës 4 të kreut V, për kontratat me tarifë simbolike 1 euro/kontrata pagesa e garancisë së kontratës bëhet sipas faturës së lëshuar nga qiradhënësi dhe kushtet e kthimit të saj janë pjesë e negociatës së kontratës.

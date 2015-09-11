@@ -1,1 +1,0 @@
-18. Në zbatim të kreut VI “Monitorimi i kontratave”, detyrat e monitorimit të përcaktuara në pikat 1,2 dhe 3 të këtij kreu, ushtrohen për të gjitha format e kontratave të lidhura sipas këtij vendimi.

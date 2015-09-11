@@ -1,1 +1,0 @@
-22. Në zbatim të paragrafit të fundit në pikën 4 të kreut VIII “Vlefshmëria e kontratave”, pagesa e ekspertëve të miratuar, në vlerën 100 000 (njëqind mijë) lekë për çdo ekspert, urdhërohet nga titullari i institucionit urdhërues të misionit, pasi miraton raportin e tyre.

@@ -1,1 +1,0 @@
-21. Në zbatim të pikës 4 të kreut VIII “Vlefshmëria e kontratave”, për rastet kur subjekti kontraktues ka bashkuar disa kontrata në një të vetme, mbështetur në pikën 6 kreu VI i vendimit, në analogji me afatin e hyrjes në fuqi të kontratës bëhet edhe përllogaritja e kohës së konsumimit të saj, që është data e hyrjes në fuqi të kontratës së parë.

@@ -1,1 +1,0 @@
-14. Në zbatim të pikës 5 të kreut V, kur kontrata me tarifë 1 euro kthehet në kontratë qiraje, për shkak të mosrealizimit të kushteve të saj prej qiramarrësit, veprimi bëhet me urdhër të titullarit të institucionit që ka lidhur kontratën. Pas kësaj kontrata nuk kthehet më në kontratën fillestare.
