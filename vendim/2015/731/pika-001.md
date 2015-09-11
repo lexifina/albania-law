@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik “Për kërkesat thelbësore, vlerësimin e konformitetit, klasifikimin dhe markimin CE të pajisjeve mjekësore”, sipas tekstit që i bashkëlidhet dhe është pjesë përbërëse e këtij vendimi.
