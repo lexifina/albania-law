@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12400,
+  "title": "Për një ndryshim në vendimin nr. 429, datë 12.9.2002, të Këshillit të Ministrave, “Për kushtet e përfitimit, shumën dhe procedurën e dhënies së pensioneve të posaçme shtetërore dhe të shtesave të pensioneve të posaçme shtetërore”.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "730",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-09-02",
+  "published": "2015-09-11",
+  "in_force": "2015-09-11",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/5ca1fa0422fd68f1a72e7b6f021ed5fb32adaa6cf468162aacd4d42dd06dd91a.docx",
+  "source_sha256": "5ca1fa0422fd68f1a72e7b6f021ed5fb32adaa6cf468162aacd4d42dd06dd91a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12400",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/09/02/730",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
