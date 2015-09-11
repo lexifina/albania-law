@@ -1,0 +1,1 @@
+1. Fondi në dispozicion të Ministrisë së Arsimit dhe Sportit, në masën 1 500 000 000 (një miliard e pesëqind milionë) lekë, në llogarinë ekonomike 604, programi buxhetor 08140 “Programi për sportin”, të përdoret për bashkëfinancimin e projektit të stadiumit “Loro Boriçi”, Shkodër.
