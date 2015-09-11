@@ -1,0 +1,5 @@
+16. Në zbatim të pikës 1 të kreut të IV-të të VKM-së, për përfitimin të zbritjes së detyrimit mujor të qirasë, Qiramarrësi ose Enfiteozmarrësi i paraqet Qiradhënësit ose Enfiteozëdhënësit kërkesë të shoqëruar me dokumentacionin:
+a) Raport i ekspertit kontabël për investimet e realizuara nga Qiramarrësi ose Enfiteozmarrësi, në objektin e marrë me qira dhe të paraqitura në bilancet financiare të asaj shoqërie.
+b)Bilancin financiar të shoqërisë Qiramarrëse ose Enfiteozmarrëse për vitin përkatës.
+c)Akt-monitorimi i përbashkët me administratorin e pronës së dhënë me qira, si monitorues i kësaj prone, lidhur me përshkrimin e investimeve të pretenduara dhe shlyerjen e detyrimeve kundrejt kontratës.
+Qiradhënësi ose Enfiteozëdhënësi cakton ekspertët e licencuar për verifikimin e vlerave së investimeve, që Qiramarrësi ose Enfiteozmarrësi ka kryer në pasurinë e marrë me qira, për periudhën nga lidhja e kontratës, deri në vitin e fundit ushtrimor. Kur vlera e investimeve është në nivelin e shprehur në vendim, Qiradhënësi ose Enfiteozëdhënësi miraton zbritjen e detyrimit mujor të qirasë, për periudhën në vijim.
