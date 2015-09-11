@@ -1,1 +1,0 @@
-1. Kalimin në përgjegjësi administrimi të Ministrisë së Mirëqenies Sociale dhe Rinisë të mjediseve të ish-godinës së Ministrisë së Mjedisit, për mjedise pune, për zhvillimin normal të veprimtarisë administrative të këtij institucioni.
