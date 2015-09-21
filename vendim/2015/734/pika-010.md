@@ -1,0 +1,7 @@
+10. Ministritë, institucionet qendrore në varësi të Kryeministrit e të ministrave, institucionet e tjera të administratës shtetërore dhe organet e pushtetit vendor, në ushtrimin e veprimtarisë me jashtë, kanë për detyrë:
+a) të njoftojnë, menjëherë, Ministrinë e Punëve të Jashtme për çështjet në fushën e marrëdhënieve me jashtë që trajtohen gjatë takimeve të drejtuesve të institucionit me përfaqësues të trupit diplomatik të shteteve dhe me përfaqësues të organizatave ndërkombëtare, të akredituara në Republikën e Shqipërisë, apo në letrat dhe mesazhet që autoritete të huaja i dërgojnë drejtuesit të institucionit;
+b) të organizojnë, në bashkëpunim me Ministrinë e Punëve të Jashtme, takimet e drejtuesit të institucionit me homologët e tij, brenda dhe jashtë vendit;
+c) të organizojnë protokollin e takimeve të drejtuesit të institucionit me delegacionet e huaja apo me përfaqësues të trupit diplomatik, të akredituar në Republikën e Shqipërisë;
+ç) të njoftojnë Ministrinë e Punëve të Jashtme, çdo tre muaj, për planin e vizitave të delegacioneve të kryesuara nga drejtuesi i institucionit apo nga zyrtarë të lartë, si dhe të delegacioneve të huaja që do të vizitojnë Republikën e Shqipërisë;
+d) të dërgojnë çdo tre muaj në Ministrinë e Punëve të Jashtme një raport për të gjitha veprimtaritë me jashtë të institucionit, duke përfshirë edhe ecurinë e marrëveshjeve dypalëshe e shumëpalëshe;
+dh) të dërgojnë pranë Ministrisë së Punëve të Jashtme të dhëna dhe raportime, sipas kërkesave e afateve, për zbatimin e detyrimeve ndërkombëtare të Republikës së Shqipërisë.

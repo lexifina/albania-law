@@ -1,0 +1,1 @@
+6. Ministritë, institucionet qendrore në varësi të Kryeministrit e të ministrave, institucionet e tjera të administratës shtetërore dhe organet e pushtetit vendor e realizojnë korrespondencën e tyre zyrtare me misionet diplomatike të akredituara në Republikën e Shqipërisë nëpërmjet Ministrisë së Punëve të Jashtme.

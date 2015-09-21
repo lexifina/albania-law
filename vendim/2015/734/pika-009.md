@@ -1,0 +1,1 @@
+9. Drejtuesit e institucioneve qendrore në varësi të Kryeministrit e të ministrave, të institucioneve të tjera të administratës shtetërore dhe të organeve të pushtetit vendor nuk mund të pranojnë ose të refuzojnë ftesa zyrtare nga homologët e tyre si dhe nuk mund të dërgojnë ftesa zyrtare, pa u këshilluar më parë me Ministrinë e Punëve të Jashtme.

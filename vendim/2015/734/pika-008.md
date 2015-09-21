@@ -1,0 +1,1 @@
+8. Në rastin e vizitave urgjente të punës, të paparashikuara, të anëtarëve të Këshillit të Ministrave, miratimi u jepet drejtpërdrejt nga Kryeministri, mbështetur në kërkesën e tyre. Ministria e Punëve të Jashtme vihet në dijeni, në çdo rast, për realizimin e këtyre vizitave.
