@@ -1,0 +1,1 @@
+3. Nuk lejohet përjashtim nga detyrimet e importit për karburantin që mbahet në serbatorë të lëvizshëm, që transportohet nga automjete private dhe motoçikleta që u përkasin banuesve të zonës kufitare.

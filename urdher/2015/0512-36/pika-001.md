@@ -1,0 +1,1 @@
+1. Përjashtohet nga detyrimet e importit, karburanti që mbajnë serbatorët e zakonshëm dhe depozitat e posaçme të automjeteve tregtare, vetëm për sasinë deri në 200 litra për automjet dhe për çdo udhëtim.

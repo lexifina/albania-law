@@ -1,0 +1,1 @@
+2. Përjashtohet nga detyrimet e importit, karburanti që mbajnë serbatorët e zakonshëm dhe depozitat e posaçme të automjeteve tregtare, që kryejnë transport ndërkombëtar nëpër zonën e tyre kufitare me thellësi maksimale prej 15 km në vijë ajrore, me kusht që udhëtimet të kryhen nga banues të zonës kufitare, vetëm për sasinë deri në 150 litra për automjet dhe për çdo udhëtim.

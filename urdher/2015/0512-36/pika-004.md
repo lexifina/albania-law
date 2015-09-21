@@ -1,0 +1,1 @@
+4. Në rast të konstatimit nga administrata doganore të tejkalimit të sasive të karburantit sipas përcaktimeve në këtë urdhër, ndaj subjektit /individit zbatohen të gjitha detyrimet e importit, sipas nivelit tarifor të zbatueshëm në datën kur ndodhi mosrespektimi. Llojit të mallrave dhe të vlerës doganore të konstatuar ose pranuar prej autoriteteve doganore kompetente në atë datë.
