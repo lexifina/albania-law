@@ -1,0 +1,1 @@
+17. Shpenzimet e udhëtimit, akomodimit dhe dietave për vlerësuesit e huaj paguhen nga aplikuesi ose organi i akredituar. DPA-ja përpiqet që shpenzimet e udhëtimit të jenë sa më të ulëta. Shpenzimet për udhëtim brenda vendit, akomodim dhe dieta llogariten sipas legjislacionit në fuqi.

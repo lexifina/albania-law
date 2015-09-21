@@ -1,0 +1,1 @@
+15. Mbulimi i shpenzimeve për pjesëmarrje në krahasime laboratorike ndërkombëtare apo në programet e tjera për testet e zotësisë së organit të akredituar me kërkesë të DPA-së mbulohen nga organi i akredituar.

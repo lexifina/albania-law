@@ -1,0 +1,1 @@
+12. Për çdo proces vlerësimi, numri i ditëve, numri i vlerësuesve dhe ekspertëve të nevojshëm përcaktohet me propozimin e kryevlerësuesit dhe me miratimin e drejtorit të Departamentit të Akreditimit në DPA.

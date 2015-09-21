@@ -1,0 +1,1 @@
+7. Në tarifat për ndryshimin e certifikatës dhe ndryshimin e fushës së akreditimit përfshihen kostot për rishikimin e certifikatës dhe fushës së akreditimit në rastet e ndryshimit të standardit, ndryshimit të adresës së organit të vlerësimit të konformitetit, emërtimit të organit të vlerësimit të konformitetit, zgjerimit dhe reduktimit të akreditimit.

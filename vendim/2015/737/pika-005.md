@@ -1,0 +1,1 @@
+5. Në tarifën për certifikatën e akreditimit përfshihen kostot për përgatitjen e certifikatës, fushës së akreditimit, përgatitjen e CD me simbolin e akreditimit, lëshimin e procedurave për përdorimin e simbolit dhe për të drejtat dhe detyrimet e organit të vlerësimit të konformitetit të akredituar.

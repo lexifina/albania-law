@@ -1,0 +1,1 @@
+22. Kontratat e lidhura ndërmjet Drejtorisë së Përgjithshme të Akreditimit dhe organeve të vlerësimit të konformitetit para hyrjes në fuqi të këtij vendimi mbeten të vlefshme deri në përfundimin e rregullt të afatit të përcaktuar në to.

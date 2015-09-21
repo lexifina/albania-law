@@ -1,0 +1,1 @@
+18. Shpenzimet e vlerësimit të kryera nga një organizëm akreditues i huaj në bazë të pikës 2, të nenit 8, të ligjit nr. 116/2014, “Për akreditimin e organeve të vlerësimit të konformitetit në Republikën e Shqipërisë”, llogariten sipas vendit të origjinës dhe me marrëveshje midis DPA-së dhe organizmit akreditues të huaj.

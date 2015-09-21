@@ -1,0 +1,1 @@
+2. Në tarifat e përcaktuara në shkronjat “a”, “b” dhe “c” përfshihen kostot për shqyrtimin e aplikimeve dhe kryerjen e aktiviteteve përgatitore për fillimin e procedurave të akreditimit fillestar, procedurës së zgjerimit të fushës së akreditimit dhe procedurës së riakreditimit.

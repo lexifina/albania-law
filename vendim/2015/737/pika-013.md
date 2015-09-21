@@ -1,0 +1,1 @@
+13. Normat për shërbimet e ofruara nga DPA-ja (paravlerësimi, vlerësimi fillestar, vëzhgimi, zgjerimi, mbikëqyrja dhe rivlerësimi) llogariten sipas tarifave për vlerësimin në bazë të dispozitave të këtij vendimi dhe përcaktohen nga drejtori i Departamentit të Akreditimit.

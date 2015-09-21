@@ -1,0 +1,1 @@
+6. Në tarifën vjetore përfshihen kostot për përdorimin e simbolit të akreditimit, lajmërimin e organit të vlerësimit të konformitetit të akredituar në lidhje me të rejat për akreditimin në përgjithësi dhe ato në DPA në veçanti, si dhe lajmërimin për pjesëmarrje në krahasimet ndërlaboratorike.

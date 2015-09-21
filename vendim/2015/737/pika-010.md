@@ -1,0 +1,1 @@
+10. Shërbimet, që kryhen jashtë ambienteve të DPA-së për akreditimin e organeve të vlerësimit të konformitetit, të tilla si shpenzimet e udhëtimit (transporti), akomodimit dhe dietave, mbulohen nga aplikuesi për akreditim ose organi i akredituar.
