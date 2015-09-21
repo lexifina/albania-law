@@ -1,21 +1,19 @@
 # Shtojca
-LISTA E PASURIVE TË PALUAJTSHME PRONË PRIVATE QË DO TË SHPRONËSOHEN PËR MARRJEN NË PËRDORIM TË PËRKOHSHËM PËR INTERES PUBLIK , TË CILAT PREKEN NGA ”PROJEKTI PËR REHABILITIMIN E HAPËSIRËS SË AMFITEATRIT TË DURRËSIT ”
-Nr.
+LISTA E PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË DO TË SHPRONËSOHEN PËR MARRJEN NË PËRDORIM TË PËRKOHSHËM PËR INTERES PUBLIK , TË CILAT PREKEN NGA “PROJEKTI PËR REHABILITIMIN E HAPËSIRËS SË AMFITEATRIT TË DURRËSIT”
+Nr
 Pronari
 Zona kadastrale
 Nr. pasurie
 Sipërfaqe ( m2)
-Çmimi
-Vlera
+Çmimi lekë/m2
+Vlera lekë
 SHËNIME
-Leke/m2
-Leke
 Truall
 Ndërtim
 Truall
 Ndërtim
 Truallit
-Banesë
+Banese
 1
 Skënder MYSHKETA
 8512
@@ -26,7 +24,7 @@ Skënder MYSHKETA
 70,093
 1,004,674
 3,576,845.79
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 2
 Naxhie BYLYKBASHI
 8512
@@ -37,7 +35,7 @@ Naxhie BYLYKBASHI
 70,093
 1,004,674
 3,576,845.79
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 3
 Lutfie QOSJA
 8512
@@ -48,7 +46,7 @@ Lutfie QOSJA
 70,093
 1,004,674
 3,576,845.79
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 4
 Myrteza ZAZA
 8512
@@ -59,7 +57,7 @@ Myrteza ZAZA
 70,093
 429,552
 1,662,205.43
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 5
 Zyra BLLACA
 8512
@@ -70,7 +68,7 @@ Zyra BLLACA
 70,093
 429,552
 1,662,205.43
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 6
 Besnik ZAZA
 8512
@@ -81,7 +79,7 @@ Besnik ZAZA
 70,093
 429,552
 1,662,205.43
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 7
 Shekibe ZAZA
 8512
@@ -92,7 +90,7 @@ Shekibe ZAZA
 70,093
 429,552
 1,662,205.43
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 8
 Fatmir ZAZA
 8512
@@ -103,7 +101,7 @@ Fatmir ZAZA
 70,093
 429,552
 1,662,205.43
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 9
 Shpresa BASHA
 8512
@@ -114,7 +112,7 @@ Shpresa BASHA
 70,093
 429,552
 1,662,205.43
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 10
 Abdulla ZAZA
 8512
@@ -125,10 +123,10 @@ Abdulla ZAZA
 70,093
 429,552
 1,662,205.43
-sipas kartelës së pasurisë
+Sipas kartelës së pasurisë
 336.40
 319.1
-3,014,023
+6,020,887
 22,365,975
-25,379,999
-TOTALI : 25,379,999 Lekë
+28,386,863
+TOTALI : 28,386,863 lekë
