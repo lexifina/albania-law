@@ -1,0 +1,1 @@
+3. Në Universitetin e Sporteve të Tiranës rezultatet e shkollës së mesme (nota mesatare e viteve të shkollimit dhe gjithë provimet e Maturës Shtetërore) të llogariten në masën 50%, kurse rezultatet e konkursit të pranimit në masën 50%, sipas tabelës nr. 1, bashkëlidhur këtij udhëzimi.
