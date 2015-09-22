@@ -1,0 +1,2 @@
+13. Institucionet publike të arsimit të lartë të dorëzojnë në AKP në formë shkresore dhe elektronike brenda orës 10.00 të datës 21 shtator 2015 listat përfundimtare të studentëve të regjistruar, për çdo program studimi, të ciklit të parë me kohë të plotë, sipas udhëzimit nr. 45, datë 19. 12.2011 “Për gjenerimin dhe dhënien e numrave të matrikullimit” të ndryshuar, në formë shkresore dhe elektronike, si dhe deklaratën sipas germës “d” të pikës 12.1 të këtij udhëzimi.
+II. Raundi i dytë (aplikimi me formularin A3)

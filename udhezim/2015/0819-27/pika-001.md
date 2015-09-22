@@ -1,0 +1,1 @@
+1. Pranimi i kandidatëve në ciklin e parë të studimeve në programet e studimeve jouniversitare, profesionale dhe në programet e integruara të studimeve të ciklit të dytë, me kohë të plotë, në institucionet publike të arsimit të lartë (IAL), në vitin akademik 2015-2016, të bëhet sipas listave emërore të renditura nga Agjencia Kombëtare e Provimeve (AKP).

@@ -1,0 +1,1 @@
+19. AKP i dërgon IAL-ve publike, listat e kandidatëve fitues në formë shkresore, brenda datës 05.10.2015. Këto institucione, duke filluar nga kjo datë, t’i publikojnë listat në vende të dukshme në mjediset e fakulteteve përkatëse.

@@ -1,0 +1,1 @@
+21. Sekretaria mësimore pajis kandidatin me fletë - regjistrimi ku shënohet numri i regjistrimit, emri i kandidatit, si edhe data dhe ora e regjistrimit. Fletë-regjistrimi i vulosur duhet të jetë i nënshkruar nga dekani dhe kryesekretarja mësimore e fakultetit.

@@ -1,0 +1,3 @@
+9. Kandidati fitues në listat paraprake, për t’u regjistruar dhe ndjekur më pas studimet në programin përkatës të studimit në IAL, ndjek procedurat e parashikuara në dy etapat e mëposhtme:
+- Procedurat e regjistrimit on-line (vetëm për fituesit në listat paraprake);
+- Procedurat e regjistrimit me dokumentacion pranë sekretarive të IAL-ve publike ku janë shpallur fitues me listën përfundimtare (për të gjithë kandidatët e shpallur fitues në listën përfundimtare). Vetëm pas përfundimit të kësaj procedure brenda afateve të parashikuara në këtë udhëzim, kandidati do të rezultojë i regjistruar në programin e studimit ku ishte shpallur fitues në listat paraprake.

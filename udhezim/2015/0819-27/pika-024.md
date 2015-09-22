@@ -1,0 +1,1 @@
+24. IAL-të të përpilojnë një raport të hollësishëm në lidhje me regjistrimet e studentëve në afatet dhe formatet e kërkuara sipas udhëzimit nr. 9, datë 25.2.2010 “Për mbledhjen, përpunimin dhe raportimin e të dhënave statistikore”. Ky raport dërgohet në MAS brenda datës 14 nëntor 2015.

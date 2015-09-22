@@ -1,0 +1,1 @@
+7. Për organizimin dhe realizimin e procesit të pranimit dhe të regjistrimit të kandidatëve në ciklin e parë të studimeve me kohë të plotë ngarkohen AKP dhe sekretaritë mësimore të IAL-ve publike. Ky proces do të jetë nën monitorimin e AKP-së dhe të MAS.
