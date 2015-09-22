@@ -1,0 +1,1 @@
+8. Institucioni i arsimit të lartë shpall listat e kandidatëve që kanë aplikuar për transferim studimesh dhe ato të kandidatëve që kanë aplikuar për program të dytë studimi në vende të dukshme brenda datës 11 shtator 2015 dhe ia përcjell ato Ministrisë së Arsimit dhe Sporti brenda kësaj date.

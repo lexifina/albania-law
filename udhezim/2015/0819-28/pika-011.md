@@ -1,0 +1,1 @@
+11. MAS shqyrton materialet e paraqitura dhe brenda datës 29 shtator 2015, miraton dhe shpall në faqen e saj web të dhënat për kandidatët fitues si dhe renditjen e të gjithë kandidatëve që kanë aplikuar. Këto të dhëna i përcillen institucioneve të arsimit të lartë për regjistrim përfundimtar të kandidatëve brenda të së njëjtës datë.

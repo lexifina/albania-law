@@ -1,0 +1,1 @@
+13. Institucionet e arsimit të lartë i dërgojnë MAS-it dhe AKP-së brenda datës 16 tetor 2015, në rrugë postare, listën e studentëve të regjistruar, në formë shkresore dhe elektronike në format excel, me qëllim pajisjen me numër matrikullimi. Për të gjithë emrat e studentëve të dërguara pas kësaj date nuk do të procedohet me dhënien e numrave të matrikullimit.
