@@ -1,0 +1,1 @@
+3. Institucionet publike të arsimit të lartë, në përfundim të regjistrimit të kandidatëve fitues, të dërgojnë në të gjitha ndërmarrjet “Trajtimi i Studentëve” sh.a., listën e studentëve të regjistruar, sipas programeve të studimit dhe fakulteteve përkatëse.
