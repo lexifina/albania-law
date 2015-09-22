@@ -1,0 +1,1 @@
+4. Ministria e Arsimit dhe Sportit të marrë të gjitha masat sipas parashikimeve të Kodit Civil, ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar, si dhe akteve ligjore e nënligjore në fuqi, për të gjithë personat juridikë, që përfaqësojnë institucionet e përcaktuara në pikën 1, të cilët nuk zbatojnë këtë urdhër.
