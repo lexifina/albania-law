@@ -1,0 +1,1 @@
+1. Kandidatët nga Republika e Kosovës, si dhe kandidatët shqiptarë nga Maqedonia, Mali i Zi, Presheva, Bujanovci dhe Medvegja, të aplikojnë direkt pranë institucioneve publike të arsimit të lartë (IAL), nga data 24 gusht 2015 deri më datë 7 shtator 2015 sipas kuotave të përcaktuara në pikën 2 të vendimit nr. 638, datë 22.7.2015, të Këshillit të Ministrave.
