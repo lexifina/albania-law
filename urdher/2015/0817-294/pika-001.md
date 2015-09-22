@@ -1,0 +1,1 @@
+1. Shpërndarjen e kuotave të pranimit për programet e studimit të ciklit të parë dhe programet e integruara të studimit, për secilin prej institucioneve publike të arsimit të lartë, për kandidatët nga Republika e Kosovës dhe kandidatët shqiptarë nga Maqedonia, Mali i Zi, Presheva, Bujanovci dhe Medvegja, sipas tabelës bashkëlidhur këtij urdhri.
