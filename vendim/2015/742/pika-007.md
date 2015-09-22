@@ -1,0 +1,1 @@
+7. Operatori përfshin në raport, sipas përcaktimeve në pikat 1 deri në 6, kreu III, të këtij vendimi, të dhëna për shkarkimet dhe transferimet që gjenerohen si rezultat i tërësisë së veprimtarive të planifikuara, aksidentale, rutinë dhe jorutinë. Operatori përcakton në raport, në mënyrë të posaçme, të dhënat për shkarkimet aksidentale.

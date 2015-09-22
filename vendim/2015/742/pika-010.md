@@ -1,0 +1,1 @@
+10. Operatori i instalimit mban të dhënat që shërbejnë për raportimin për shkarkimet dhe transferimet e ndotësve apo mbetjeve jashtë territorit të instalimit për një periudhë 5-vjeçare, duke filluar nga viti i fundit kur është bërë raportimi. Në këto të dhëna përshkruhet edhe metodologjia e përdorur për grumbullimin e tyre.

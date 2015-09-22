@@ -1,0 +1,1 @@
+6. Raporti për shkarkimet e përcaktuara në shtojcën 2, bashkëlidhur këtij vendimi, sipas përcaktimeve të pikës 1/a, kreu III, të këtij vendimi, përfshin të gjitha shkarkimet nga të gjitha veprimtaritë e zhvilluara në territorin e instalimit, të përcaktuara në shtojcën 1, bashkëlidhur këtij vendimi.

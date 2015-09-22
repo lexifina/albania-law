@@ -1,0 +1,1 @@
+8. Operatori i instalimit mbledh, sipas një frekuence periodike, informacionin e nevojshëm për të përcaktuar se cilat nga shkarkimet e instalimit dhe nga transferimet jashtë territorit të tij janë subjekt i kërkesave për raportim, sipas përcaktimeve në pikat 1 deri në 6, kreu III, të këtij vendimi.

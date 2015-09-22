@@ -1,0 +1,1 @@
+11. AKM-ja përcakton, për secilin nga operatorët që kërkon të ruhet konfidencialiteti i informacionit të dhënë për impiantin, nëse ky informacion është objekt i legjislacionit në fuqi për informacionin e klasifikuar si sekret shtetëror, tregtar apo për ruajtjen e të dhënave personale.

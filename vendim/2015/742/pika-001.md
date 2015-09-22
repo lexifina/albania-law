@@ -1,0 +1,1 @@
+1. Ky vendim krijon regjistrin e shkarkimit dhe të transferimit të ndotësve në Republikën e Shqipërisë (më poshtë referuar “RSHTN”), në formën e një baze të dhënash elektronike publike, për të lehtësuar pjesëmarrjen e publikut në vendimmarrjen mjedisore, me qëllim parandalimin dhe uljen e ndotjes së mjedisit.
