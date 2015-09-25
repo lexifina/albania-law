@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga sistemimi dhe rikonstruksioni i infrastrukturës ndërmjet rrugëve “Stavri Themeli”, “Babë Rexha” dhe “Ndre Mjeda”, sipas tabelës që i bashkëlidhet këtij vendimi.
