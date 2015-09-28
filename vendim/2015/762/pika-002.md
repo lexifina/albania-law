@@ -1,0 +1,1 @@
+2. Ngarkohen Ministria e Mjedisit të dorëzojë, brenda datës 1 tetor 2015, dokumentin që përcakton Kontributin Kombëtar të Pikësynuar (INDC) në Sekretariatin e Konventës Kuadër të Kombeve të Bashkuara për Ndryshimet Klimatike.

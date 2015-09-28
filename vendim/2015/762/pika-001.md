@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit për përcaktimin e Kontributit Kombëtar të Pikësynuar (INDC) për Shqipërinë për arritjen e objektivit global të Konventës Kuadër të Kombeve të Bashkuara për Ndryshimet Klimatike, për mbajtjen e tempe-raturave nën 2°C, duke kufizuar rrezikun e ardhshëm dhe kostot e përshtatjes ndaj ndryshimeve të klimës, sipas shtojcës bashkëlidhur këtij vendimi.
