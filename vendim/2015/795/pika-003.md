@@ -1,0 +1,3 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse të kompensimit që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “arë”, “truall”, “pyll” dhe “objekte”, në vlerën 129 673 059 (njëqind e njëzet e nëntë milionë e gjashtëqind e shtatëdhjetë e tre mijë e pesëdhjetë e nëntë) lekë, nga të cilat:
+- tokë “arë”, “truall” dhe “pyll”, me sipërfaqe 120 140,3 (njëqind e njëzet mijë e njëqind e dyzet presje tre) m2, me vlerë 53 668 272 (pesëdhjetë e tre milionë e gjashtëqind e gjashtëdhjetë e tetë mijë e dyqind e shtatëdhjetë e dy) lekë;
+- “objekte”, me vlerë 76 004 787 (shtatëdhjetë e gjashtë milionë e katër mijë e shtatëqind e tetëdhjetë e shtatë) lekë.
