@@ -1,0 +1,34 @@
+{
+  "qbz_id": 12169,
+  "title": "Për investimet strategjike në Republikën e Shqipërisë.",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "55",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-05-28",
+  "published": "2015-07-01",
+  "in_force": "2015-10-01",
+  "in_force_basis": "\"hyn në fuqi 3 muaj pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/f70676479391458c2eab1f2444bce6d13cda2648f4ecafe25d0a56b58aaeb2a1.docx",
+  "source_sha256": "f70676479391458c2eab1f2444bce6d13cda2648f4ecafe25d0a56b58aaeb2a1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12169",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/05/28/55",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63160,
+    27882,
+    62971,
+    22427,
+    20959,
+    60567,
+    55830
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
