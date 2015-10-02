@@ -1,0 +1,1 @@
+1. Programi i certifikimit për profesionistët e shëndetësisë ka si qëllim të mbështetë, të fuqizojë dhe të promovojë zhvillimin e vazhdueshëm profesional të punonjësve të shëndetësisë, në mënyrë që ata të ofrojnë një kujdes shëndetësor sa më cilësor për pacientët.
