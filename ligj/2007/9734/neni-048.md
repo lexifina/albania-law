@@ -1,5 +1,0 @@
-# Neni 48
-Dispozita kalimtare
-1. Për subjektet, që kanë lidhur marrëveshje qiraje dhe zhvillimi me ministrinë përgjegjëse për turizmin, sipas ligjit nr. 7665, datë 21. 1. 1993 “Për zhvillimin e zonave, që kanë përparësi turizmin”, të ndryshuar, të zbatohen dispozitat e Kodit Civil. Periudha e përfitimit të stimujve të vazhdojë të llogaritet sipas afateve të përcaktuara në marrëveshjet e qirasë dhe të zhvillimit. Strukturat turistike të ndërtuara të verifikohen nëse janë në përputhje me përcaktimet e bëra në marrëveshjet, standardet për licencimin dhe kategorizimin e tyre. Në të kundërt marrëveshjet do të zgjidhen në mënyrë të njëanshme.
-2. Deri në krijimin e AKT-së, përgjegjësitë dhe kompetencat për kontrollin e zbatueshmërisë së marrëveshjeve do t’i ushtrojë ministria përgjegjëse për turizmin, nëpërmjet Entit të Turizmit.
-3. Subjektet turistike, që ushtrojnë veprimtari në fushën e turizmit, janë të detyruara të riregjistrohen dhe të licencohen pranë ministrisë përgjegjëse për turizmin, në përputhje me dispozitat e këtij ligji, brenda një viti nga hyrja në fuqi e tij.
