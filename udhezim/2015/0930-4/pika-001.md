@@ -1,0 +1,1 @@
+1. Miratimin e kostos mesatare të ndërtimit të banesave nga Enti Kombëtar i Banesave, në shkallë Republike, për vitin 2015, e cila të jetë 39 587 (tridhjetë e nëntë mijë e pesëqind e tetëdhjetë e shtatë) lekë/m2, për sipërfaqe shfrytëzimi.

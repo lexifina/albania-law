@@ -1,0 +1,1 @@
+3. Për qytetet, për të cilat nuk janë nxjerrë vlerat e kostos mesatare të ndërtimit, të merren vlerat e kostos së ndërtimit të qytetit më të afërt, sipas tabelës nr. 1, që i bashkëlidhet këtij udhëzimi.
