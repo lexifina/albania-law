@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Energjisë dhe Industrisë, Ministria e Mjedisit, Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme, zyrat vendore të regjistrimit të pasurive të paluajtshme, si dhe njësitë e qeverisjes vendore, ku kalon projekti i Gazsjellësit Trans Adriatik (Projekti TAP), për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
