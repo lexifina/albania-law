@@ -1,0 +1,3 @@
+8. Me hyrjen në fuqi të këtij vendimi, për sipërfaqet e tokës shtetërore që do të vendosen në dispozicion të shoqërisë TAP AG për ndërtimin e infrastrukturës mbi tokë të projektit të Gazsjellësit Trans Adriatik (Projekti TAP), nga ana e Ministrisë së Energjisë dhe Industrisë:
+a) të kryhen procedurat për ndryshimin e kategorisë së përdorimit të resursit të tokës bujqësore për sipërfaqet e tokës bujqësore që preken nga ndërtimi i infrastrukturës mbi tokë të projektit TAP;
+b) të bëhet njoftimi i Zyrës Qendrore të Regjistrimit të Pasurive të Paluajtshme për kalimin në shoqërinë TAP AG të sipërfaqeve të tokave shtetërore sipas listave të shtojcës 1 që i bashkëlidhet këtij vendimi.

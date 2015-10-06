@@ -1,0 +1,1 @@
+1. Vënien në dispozicion të shoqërisë Trans Adriatic Pipeline AG (TAP AG), nëpërmjet marrjes në përdorim të përhershëm me kompensim të sipërfaqes së tokës shtetërore prej 50 867 (pesëdhjetë mijë e tetëqind e gjashtëdhjetë e shtatë) m2, që preken nga ndërtimi i infrastrukturës mbi tokë të projektit të Gazsjellësit Trans Adriatik (Projekti TAP).
