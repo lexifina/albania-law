@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12429,
+  "title": "Për arsimin e lartë dhe kërkimin shkencor në institucionet  e arsimit të lartë në Republikën e Shqipërisë.",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "80",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-07-22",
+  "published": "2015-09-21",
+  "in_force": "2015-10-06",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3dc4c33fba96d12a4283a9721bbb7c306671944ff27da99df8fc982314f2f29d.docx",
+  "source_sha256": "3dc4c33fba96d12a4283a9721bbb7c306671944ff27da99df8fc982314f2f29d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12429",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/07/22/80",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33302
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
