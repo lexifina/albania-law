@@ -1,0 +1,1 @@
+1. Për transformimin e koordinatave nga korniza referuese gjeodezike globale “ITRF 2005 (Epoka 2007.2)” dhe Sistemi Gjeodezik Shqiptar “ALB86” në Kornizën Referuese Gjeodezike Evropiane “ETRF 2000 (Epoka 2014.177)” dhe ““ETRF 2000” (Epoka 2008)” të përdoret udhëzuesi i propozuar nga Autoriteti Shtetëror për Informacionin Gjeohapësinor dhe që është pjesë e këtij udhëzimi.

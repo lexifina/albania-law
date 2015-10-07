@@ -1,0 +1,1 @@
+2. Ngarkohet Autoriteti Shtetëror për Informa-cionin Gjeohapësinor (ASIG), autoritete për-gjegjëse për krijimin, ruajtjen dhe përditësimin e të dhënave gjeohapësinore, sipas nenit 11 të ligjit nr. 72/2012 dhe çdo institucion tjetër që përdor informacion gjeohapësinor, për ndjekjen dhe zbatimin e këtij udhëzimi.
