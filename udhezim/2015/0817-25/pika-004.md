@@ -1,0 +1,1 @@
+4. Fëmijët që përfundojnë njërin nga tri grupet dhe kanë moshën për të ndjekur klasën e parë, të pajisen me vërtetimin e ndjekjes së kopshtit për grupin përkatës, të nënshkruar nga drejtuesi i kopshtit.

@@ -1,0 +1,1 @@
+12. Marrëveshja e bashkëpunimit nr. 3019 prot, datë 16 prill 2015, midis Ministrisë së Arsimit dhe Sportit dhe Shoqatës Kombëtare Shqiptare të Njerëzve që nuk Dëgjojnë. Çdo DAR/ZA të fillojë identifikimin e fëmijëve me probleme të të dëgjuarit, të cilët nuk frekuentojnë, duke mos realizuar detyrimin shkollor.
