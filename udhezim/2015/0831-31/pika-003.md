@@ -1,0 +1,1 @@
+3. Gjatë procesit të përzgjedhjes së teksteve shkollore digjitale (sisteme mësimore interaktive në shkolla nuk lejohet asnjë veprimtari e shtëpive botuese/subjekti që ka për qëllim publicitetin e teksteve shkollore të tyre.
