@@ -1,0 +1,2 @@
+1. Kandidatët me statusin e të verbrit, të invalidit paraplegjik dhe tetraplegjik, të jetimit, si dhe romët dhe ballkano-egjiptianët, të aplikojnë drejtpërdrejt në Ministrinë e Arsimit dhe Sportit (MAS), nga data 24 gusht deri më 7 shtator 2015.
+Për programet e studimit që parashikojnë konkurs, përveç aplikimit në MAS, kandidatët kryejnë regjistrimin për pranimin e tyre në konkurs pranë institucioneve të arsimit të lartë (IAL) përkatës sipas përcaktimeve në udhëzimin përkatës.

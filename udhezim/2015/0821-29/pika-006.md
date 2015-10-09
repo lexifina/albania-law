@@ -1,0 +1,1 @@
+6. Kandidatët fitues regjistrohen pranë sekretarisë mësimore që mbulon programin e studimit ku janë shpallur fitues brenda datës 25 shtator 2015, duke paraqitur mandatin e pagesës së tarifës së regjistrimit prej 100 lekë.
