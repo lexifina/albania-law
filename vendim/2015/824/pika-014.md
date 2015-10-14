@@ -1,0 +1,1 @@
+14. Të gjithë përdoruesit janë përgjegjës për saktësinë dhe koherencën e të dhënave të hedhura nëpërmjet llogarisë së tyre në Sistemin Elektronik për Regjistrimin dhe Gjurmimin e të Dhënave mbi Rastet e Korrupsionit dhe Statistikave të Harmonizuara.

@@ -1,0 +1,1 @@
+8. Sistemi Elektronik për Regjistrimin dhe Gjurmimin e të Dhënave mbi Rastet e Korrupsionit dhe Statistikave të Harmonizuara nuk përmban të dhëna personale, për veprat penale të korrupsionit, në kuptim të ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar.

@@ -1,0 +1,1 @@
+15. Rregullorja e përdorimit të Sistemit Elektronik për Regjistrimin dhe Gjurmimin e të Dhënave mbi Rastet e Korrupsionit dhe Statistikave të Harmonizuara dhe niveli i aksesit për përdoruesit përcaktohen në Manualin e Përdorimit të Sistemit, të miratuar nga Koordinatori Kombëtar kundër Korrupsionit.
