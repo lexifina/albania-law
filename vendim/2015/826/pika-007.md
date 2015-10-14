@@ -1,0 +1,1 @@
+7. Personat e përcaktuar në pikat 3, 5 dhe 6, të këtij vendimi, aplikojnë pranë Urdhrit të Punonjësve Socialë dhe regjistrohen në një regjistër të posaçëm të tij deri në përfundim të periudhës së detyruar për kryerjen e kursit të kualifikimit profesional apo dhënien e provimit të shtetit.
