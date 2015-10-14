@@ -1,3 +1,3 @@
 # Neni 6
 Sanksionet
-Neni 142 i Kodit Ajror të Republikës së Shqipërisë parashikon sanksionet për shkeljen e kësaj rregulloreje dhe AAC do të marrë të gjitha masat e nevojshme efektive dhe proporcionale të parashikuara në nenin e mësipërm në rastet e shkeljes së këtij udhëzimi nga përdoruesit e hapësirës ajrore dhe ofruesve të shërbimit.
+Sanksionet që AAC-ja zbaton për shkeljet e parashikimeve të këtij udhëzimi dhe masave të përmendura nenin 3, në veçanti nga ana e përdoruesve të hapësirës ajrore dhe ofruesve të shërbimeve ajrore, janë përcaktuar në Kodin Ajror të RSH-së dhe do të jenë efektive, proporcionale dhe bindëse.

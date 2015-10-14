@@ -1,7 +1,12 @@
 # Neni 3
-Informacioni zonal i hapёsirёs ajrore tё sipёrme europiane (EUIR)
-3.1 Komuniteti dhe Shqipёria si anёtare e tij duhet tё synojnё vendosjen dhe pranimin nga ICAO tё njё EUIR-i tё vetёm. Pёr kёtё arsye, pёr çёshtjet qё do tё kalojnё nё kompetencёn e Komunitetit, Komisioni do t’i paraqesё njё rekomandim Kёshillit nё pёrputhje me nenin 300 tё traktatit brenda njё afati dyvjeçar, pas hyrjes nё fuqi tё kёsaj rregulloreje.
-3.2 EUIR-i duhet projektuar nё mёnyrё tё tillё qё tё pёrfshijё hapёsirёn ajrore qё ёshtё nёn pёrgjegjёsinё e Shqipёrisё nё pёrputhje me nenin 1(3) të këtij udhëzimi dhe mund tё pёrfshijё gjithashtu edhe hapёsirёn ajrore tё vendeve-shteteve tё treta europiane.
-3.3 Vendosja e EUIR-it pa diskutim do tё jetё pёrgjegjёsi e shteteve anёtare pёr pёrcaktimin e ofrimit tё SHTA nёn pёrgjegjёsinё e tyre nё pёrputhje me nenin 8(1) tё udhëzimit të Ministrit të MPPT pёr ofrimin e SHNA.
-3.4 Shqipёria duhet tё mbajё pёrgjegjёsitё e veta kundrejt ICAO, brenda kufijve tё vetё gjeografikё ,pёrsa i pёrket informacionit mbi rajonet e sipёrme tё fluturimit dhe informacionit mbi zonat e fluturimeve qё i janё pёrcaktuar nga ICAO nё ditёn e hyrjes nё fuqi tё kёsaj rregulloreje.
-3.5 Pa cenuar publikimin e informacionit aeronautik nga shteti shqiptar dhe nё pёrputhje me kёto publikime, Komisioni nё bashkёpunim tё ngushtё me Eurocontrol, duhet tё koordinojё pёrgatitjen e publikimit tё njё informacioni tё vetёm aeronautik lidhur me EUIR-in, duke marrё parasysh kёrkesat/dispozitat pёrkatёse tё ICAO.
+Rajoni i Sipërm Evropian i Informacionit të Fluturimit (EUIR)
+1. Komuniteti dhe Shtetet e tij Anëtare synojë krijimin dhe njohjen nga ana e ICAO të një EUIR të vetëm.
+2. EUIR është projektuar në një mënyrë që të përfshijë hapësirën ajrore që bie nën përgjegjësinë e Shteteve Anëtare në përputhje me nenin 1 (3) dhe mund të përfshijë edhe hapësirën ajrore të vendeve të tjera evropiane.
+3. Shqipëria mban përgjegjësinë e saj për përcaktimin e ofruesve të shërbimeve të trafikut ajror për hapësirën ajrore nën përgjegjësinë e saj në përputhje me nenin 8 (1) të Rregullores së ofrimit të shërbimeve.
+4. Shqipëria mban përgjegjësinë e saj kundrejt ICAO brenda kufijve gjeografikë të rajoneve të sipërme të informacionit të fluturimeve që i janë besuar atyre nga ICAO në datën e hyrjes në fuqi të këtij udhëzimi.
+Neni 3a
+Informacioni elektronik aeronautik
+Pa cenuar botimin e informacionit aeronautik nga RSH dhe në një mënyrë në pajtim me këtë publikim, Komisioni, duke punuar në bashkëpunim me Eurokontrollin, siguron disponueshmërinë e informacionit elektronik aeronautik të cilësisë lartë, të paraqitur në një mënyrë të harmonizuar dhe që i shërben kërkesave të të gjithë përdoruesve përkatës sa takon cilësisë së të dhënave dhe të afateve kohore.
+Për qëllim të pikës 1, Komisioni:
+a) ka siguruar zhvillimin e një infrastrukture informative aeronautike për të gjithë Komunitetin në formën e një portali elektronik informues të integruar me mundësi të pakufizuar aksesi për palët e interesuara. Kjo infrastrukturë do të integrojë aksesin dhe ofrimin e elementeve të të dhënave të kërkuara të tilla si, duke mos u kufizuar vetëm në to, informacionin aeronautik, informacion e Zyrës së Shërbimit të Raportimit të Trafikut Ajror (ZRA), informacion meteorologjik dhe informacion të menaxhimit të fluksit;
+b) mbështet modernizimin dhe harmonizimin e ofrimit të informacionit aeronautik në kuptimin e tij më të gjerë, në bashkëpunim të ngushtë me Eurokontrollin dhe ICAO.

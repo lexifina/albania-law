@@ -6,7 +6,7 @@ Për qëllime të këtij udhëzimi dhe të masave të parashikuara në nenin 3, 
 2. “Shërbimet e lundrimit ajror (SHLA)”përfshijnë menaxhimin e trafikut ajror (në vazhdim MTA), komunikimin, lundrimin dhe mbikëqyrjen elektronike (në vazhdim KLME), shërbimet meteorologjike për lundrimin ajror (në vazhdim SHMNA) dhe shërbimet e informimit aeronautik (në vazhdim SHIA).
 3. “Ofruesit e SHLA” janë ofrues të pavarur, të cilët përcaktohen, certifikohen dhe mbikëqyren nga AAC-ja. Nënkuptojnë çdo ent publik ose privat që jep shërbime të lundrimit ajror për trafikun ajror të përgjithshëm.
 4. “Menaxhimi i hapësirës ajrore (MHA)” nënkupton një funksion planifikimi me objektiv kryesor maksimizimin e shfrytëzimit të hapësirës ajrore në dispozicion nëpërmjet ndarjes dinamike të kohës, dhe herë-herë ndarjen e hapësirës ajrore mes kategorive të ndryshme të përdoruesve të hapësirës ajrore mbi bazën e nevojave afatshkurtra.
-5. “Menaxhimi i trafikut ajror (MTA)” përmbledh funksionet e bazuara në tokë dhe në ajër, të cilat janë shërbimi i trafikut ajror, menaxhimi i hapësirës ajrore dhe menaxhimi i flukseve të trafikut ajror, të nevojshme për të garantuar lëvizjen e sigurt dhe efiçente të avionëve, gjatë të gjitha fazave të operimit.
+5. “Menaxhimi i trafikut ajror (MTA)” do të thotë agregimi i funksioneve ajrore dhe tokësore (shërbimet e trafikut ajror, menaxhimi i hapësirës ajrore dhe menaxhimi i fluksit të trafikut ajror), i kërkuar për të siguruar lëvizjen e sigurt dhe të efektshme të mjetit fluturues gjatë të gjitha fazave të operimit.
 6. “Shërbimet e trafikut ajror (SHTA)” janë shërbimet e informimit të fluturimeve, të alarmit, ato këshilluese të trafikut ajror dhe shërbimet e SHKTA-së, që përfshijnë shërbimet e kontrollit të aerodromit, të afrimit dhe të zonës.
 7. “Shërbimet e kontrollit të trafikut ajror (KTA)” përfshijnë shërbimet e kontrollit të aerodromit, të afrimit dhe të zonës, me qëllim:
 i) që të parandalohen përplasjet:
@@ -25,17 +25,20 @@ ii) që të niset/shtyhet përpara dhe mbahet një fluks i rregullt i trafikut a
 17. EUROCONTROL është Organizata Europiane për Sigurinë e Lundrimit Ajror e themeluar nga konventa ndërkombëtare, më datë 13.12.1960 në lidhje me bashkëveprimin për sigurinë e lundrimit ajror.
 18. ICAO është Organizata Ndërkombëtare e Aviacionit Civil e themeluar në 1944 nga Konventa e Çikagos mbi Aviacionin Civil.
 19. “Blloku i hapësirës ajrore” nënkupton një hapësirë ajrore me dimensione të përcaktuara në kohë dhe hapësirë, brenda së cilës jepen shërbimet e lundrimit ajror.
-20. “Përdoruesit e hapësirës ajrore” nënkupton të gjithë avionët në funksion, si trafik ajror i përgjithshëm.
+20. Përdorues të hapësirës ajrore” janë operatorët e mjeteve të fluturimit të operuar për trafik i përgjithshëm;
 21. “Shërbimet e kontrollit të zonës” nënkuptojnë një shërbim KTA për fluturimet e kontrolluara në një bllok hapësire ajrore.
+21a. “Master Plani i MTA” do të thotë plani i mbështetur në vendimin e Këshillit Evropian rregullat evropiane mbi përcaktimin e një sipërmarrjeje te përbashkët për te zhvilluar gjeneratën e re të sistemit të menaxhimit të trafikut ajror për krijimin e një sipërmarrjeje të përbashkët për të zhvilluar një gjeneratë të re të sistemit evropian të menaxhimit të trafikut ajror (SESAR);
 22. “Paketa e shërbimeve” nënkupton dy ose më shumë shërbime të lundrimit ajror.
-23. “Certifikata” nënkupton një dokument të lëshuar nga një shtet anëtar në çdo formë që përputhet me ligjin kombëtar, që konfirmon se një sigurues i shërbimit të lundrimit ajror i plotëson kërkesat për sigurimin e një shërbimi specifik.
+23. “Certifikatë” nënkupton një dokument të lëshuar nga autoriteti kombëtar mbikëqyrës në çdo formë që përputhet me rregullat kombëtare, e cila konfirmon se një ofrues i shërbimit të lundrimit ajror i plotëson kërkesat për ofrimin e një shërbimi specifik;
 24. “Rrjeti europian i menaxhimit të trafikut ajror (RREMTA)” nënkupton grupin e listuar të sistemeve në shtojcën 1 në udhëzimin e Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit “Ndërveprimin e rrjetit të menaxhimit të trafikut ajror europian”, që mundëson shërbimet e lundrimit ajror në komunitet që të sigurohen, duke përfshirë ndërfaqet në kufij me shtetet e treta.
 25. “Koncepti i operacionit” nënkupton kriterin për përdorimin operacional të RREMTA ose të pjesëve të saj.
-26. “Përbërësit” nënkuptojnë objektet e prekshme si hardware apo objektet e paprekshme, si software mbi të cilën varet interoperabiliteti i RREMTA.
-27. “Përdorimi fleksibël i hapësirës ajrore” nënkupton një koncept të menaxhimit të hapësirës ajrore të aplikuar në zonën e konferencës europiane të aviacionit civil.
+26. “Përbërësit” nënkuptojnë objektet e prekshme si hardëare apo objektet e paprekshme, si softëare mbi të cilën varet interoperabiliteti i RREMTA.
+27. “Përdorim fleksibël i hapësirës ajrore” do të thotë një koncept i menaxhimit të hapësirës ajrore i zbatuar në hapësirën e RSH-së, dhe atë të ZPEA, sipas përcaktimeve te Marrëveshjes Shumëpalëshe, mbi bazën e “Manualit të menaxhimit të hapësirës ajrore për zbatimin e konceptit të përdorimit fleksibël të hapësirës ajrore” të nxjerrë nga Eurokontroll;”.
 28. “Rajoni i informacionit të fluturimit” nënkupton një hapësirë ajrore të dimensioneve të përcaktuara, brenda së cilës jepen shërbimet e informacionit të fluturimit dhe shërbimet e paralajmërimit/njoftimit.
+28a. “Shërbimi i informacionit aeronautik” do të thotë një shërbim i ofruar me qëllim dhënien e këshillave dhe informacioneve të dobishme për zhvillimin e sigurt dhe efikas të fluturimeve;
+28b. “Shërbimi i paralajmërimit” do të thotë një shërbim i ofruar për të njoftuar organizatat përkatëse apo operatorët ajrorë lidhur me një mjet fluturimi në nevojë për ndihmë kërkimi dhe shpëtimi, dhe për të ndihmuar këto organizata sipas nevojës;
 29. “Niveli i fluturimit (NF)” nënkupton një sipërfaqe të presionit atmosferik konstant, i cili lidhet me karakteristikat e presionit specifik prej 1 013,2 hektopaskal dhe ndahet nga të tilla sipërfaqe të tjera me intervale presioni specifik.
-30. “Bllokimi i hapësirës ajrore funksionale” nënkupton një bllokim të hapësirës ajrore bazuar në kërkesat operacionale, që reflekton nevojën për të siguruar menaxhim më të integruar të hapësirës ajrore, pavarësisht pengesave ekzistuese.
+30. “Blloku funksional ajror” do të thotë një bllok i hapësirës ajrore i bazuar në kërkesat operacionale dhe i përcaktuar pavarësisht kufijve shtetërorë, ku ofrimi i shërbimeve të lundrimit ajror dhe funksionet e lidhura me to orientohen dhe optimizohen nga performanca, me synimin për të prezantuar në secilin bllok funksional të hapësirës ajrore, një bashkëpunim sa më të madh ndërmjet ofruesve të shërbimeve të lundrimit ajror ose, kur është e përshtatshme, një ofruesi të integruar;
 31. “Trafiku ajror i përgjithshëm” nënkupton të gjitha lëvizjet e avionëve civilë, si dhe të gjitha lëvizjet e avionëve shtetërorë (duke përfshirë avionët e policisë, e doganës), kur këto lëvizje bëhen në përputhje me rregullat dhe vendimet e ICAO.
 32. “Ndërveprimi” nënkupton një bashkësi parimesh funksionale, teknike dhe vepruese të kërkuara të sistemit dhe përbërës të RREMTA dhe të procedurave për funksionimin e tij, në mënyrë që të mundësohet funksionimi i tij i sigurt, perfekt në mënyrë konsistente dhe efikase. Ndërveprimi arrihet duke i bërë sistemet dhe përbërësit në përputhje me kërkesat thelbësore.
 33. “Të dhënat operacionale” nënkuptojnë informacionin në lidhje me të gjitha fazat e fluturimit që kërkohen për të marrë vendime operacionale nga siguruesit e shërbimit të lundrimit ajror, përdoruesit e hapësirës ajrore, operatorët e aeroportit dhe veprues të tjerë të përfshirë.
@@ -44,10 +47,11 @@ ii) që të niset/shtyhet përpara dhe mbahet një fluks i rregullt i trafikut a
 36. “Rrjeti i linjës/rrugës” nënkupton një rrjet linjash të specifikuara për kanalizimin e fluksit të trafikut ajror të përgjithshëm siç është e nevojshme për shërbimet e dispozitës/pajisjes së KTA-së.
 37. “Itinerari/routing” nënkupton itinerarin e zgjedhur që do të ndiqet nga një avion gjatë veprimit/operacionit të tij.
 38. “Operacioni/veprimi perfekt në mënyrë konsistente” nënkupton veprimin e RREMTA-s, në mënyrë të tillë që nga perspektiva e përdoruesit ai të veprojë sikur të ishte një organ i vetëm.
-39. “Sektori” nënkupton një pjesë të një zone kontrolli dhe/ose të rajonit të sipërm apo të rajonit të funksionit të fluturimit.
+39. shfuqizuar;
 40. “Shërbimet e mbikëqyrjes/survejimit” nënkuptojnë ato pajisje dhe shërbime të përdorura për të përcaktuar pozicionet përkatëse të avionit për të lejuar ndarjen e sigurt.
 41. “Sistemi” nënkupton mbledhjen e përbërësve të transportit me rrugë ajrore dhe të atij me bazë tokësore, si dhe një pajisje me bazë hapësinore që jep mbështetje për shërbimet e lundrimit ajror për të gjitha fazat e fluturimit.
 42.“Ngjitja/përmirësimi” nënkupton çdo modifikim që ndryshon karakteristikat operacionale të një sistemi.
+43 “Shërbime ndërkufitare” do të thotë çdo rrethanë ku shërbimet e lundrimit ajror ofrohen në një Shtet Anëtar nga një ofrues shërbimi i certifikuar në një tjetër Shtet Anëtar, sipas përcaktimeve të Marrëveshjes Shumëpalëshe;
 SHKURTIME
 AAC Autoriteti i Aviacionit Civil
 AKM Autoriteti Kombëtar i Mbikëqyrjes

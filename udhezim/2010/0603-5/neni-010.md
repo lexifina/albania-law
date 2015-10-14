@@ -6,3 +6,6 @@ Ky udhëzim nuk pengon zbatimin e masave nga Republika e Shqipërisë, të cilat
 - Luftën apo tensionin serioz ndërkombëtar që përbën një kërcënim lufte.
 - Përmbushjen e detyrimeve ndërkombëtare të Republikës së Shqipërisë në lidhje me mbajtjen e paqes dhe sigurisë ndërkombëtare.
 - Drejtimin e operacioneve ushtarake dhe trajnimeve, duke përfshirë mundësitë e nevojshme për ushtrim/praktike.
+Neni 10a
+Agjencia Evropiane e Sigurisë së Aviacionit (EASA)
+Gjatë zbatimit të këtij udhëzimi dhe udhëzimeve të Ministrit nr. 6, nr. 7 dhe nr. 8, datë 3.6.2010, Autoriteti i Aviacionit Civil në përputhje me rolin e tij përkatës, siç parashikohet nga ky udhëzim, koordinohen sipas rastit me Agjencinë Evropiane të Sigurisë së Aviacionit për të siguruar që të gjitha aspektet e sigurisë janë adresuar siç duhet.
