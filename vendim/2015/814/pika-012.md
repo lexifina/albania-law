@@ -1,0 +1,1 @@
+12. Funksionimi i AMQHD-së rregullohet në përputhje me rregulloren e funksionimit të kësaj agjencie e cila përgatitet nga drejtori i Përgjithshëm, në bashkëpunim me Bordin dhe miratohet me urdhër të Kryeministrit.

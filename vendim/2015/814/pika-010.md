@@ -1,0 +1,1 @@
+10. AMQHD-ja, për çështjet e përmbajtjes dhe vlerësimit të programeve e të projekteve mbështetet në ekspertizën e anëtarëve të Bordit Këshillimor ose në ekspertizën e komisioneve të programeve e të projekteve që propozohen nga drejtori i Përgjithshëm në konsulencë me bordin dhe në përputhje me rregulloren e funksionimit të kësaj agjencie.

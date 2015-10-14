@@ -1,0 +1,1 @@
+2. AMQHD-ja ka mision mbështetjen e projekteve e të programeve për një shoqëri të hapur dhe institucione më pranë qytetarëve, shoqërisë civile dhe aktorëve të ndryshëm të fushës së shkencës e të artit.
