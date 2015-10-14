@@ -1,0 +1,1 @@
+8. Të gjitha organet publike të ngarkuara për zbatimin e ligjit nr. 146/2014, “Për njoftimin dhe konsultimin publik”, kanë akses në hedhjen dhe editimin e të dhënave respektive në Regjistrin Elektronik për Njoftimet dhe Konsultimet Publike dhe mbajnë përgjegjësi për përmbajtjen e informacionit të publikuar prej tyre.

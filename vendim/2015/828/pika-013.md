@@ -1,0 +1,1 @@
+13. Personi i caktuar nga çdo organ publik duhet të pajiset nga administratori i Regjistrit Elektronik për Njoftimet dhe Konsultimet Publike me emrin e përdoruesit “user name” dhe fjalëkalimin “password”, si dhe me manualet për hedhjen e të dhënave në sistem, operimin, përdorimin e faqes web etj.

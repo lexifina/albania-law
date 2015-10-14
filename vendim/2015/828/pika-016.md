@@ -1,0 +1,1 @@
+16. Deri në krijimin dhe bërjen funksional të Regjistrit Elektronik për Njoftimet dhe Konsultimet Publike, konsultimi sipas përcaktimeve të ligjit nr. 146/2014, “Për njoftimin dhe konsultimin publik”, bëhet përmes faqes zyrtare të çdo institucioni.

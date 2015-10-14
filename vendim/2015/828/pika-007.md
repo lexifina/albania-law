@@ -1,0 +1,1 @@
+7. Regjistri Elektronik për Njoftimet dhe Konsultimet Publike ofron akses të hapur dhe pa pagesë për informim, printim dhe ripërdorim të dokumenteve të publikuara në të për të gjithë përdoruesit, grupet e interesit.

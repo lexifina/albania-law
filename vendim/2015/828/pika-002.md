@@ -1,0 +1,1 @@
+2. Ministri i Shtetit për Inovacionin dhe Administratën Publike drejton procesin e krijimit, funksionimit, administrimit dhe monitorimit të vazhdueshëm të Regjistrit Elektronik për Njoftimet dhe Konsultimet Publike.

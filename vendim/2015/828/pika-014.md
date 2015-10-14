@@ -1,0 +1,1 @@
+14. Çdo organ publik, që përfshihet në hedhjen e projektakteve në http://www.konsultimipublik.gov.al, është përgjegjës për tërësinë dhe llojshmërinë e akteve të hedhura, cilësinë, integritetin, formatin dhe renditjen hierarkike dhe lidhjen e akteve ndërmjet tyre, vendosjen sipas fushës së veprimtarisë, institucionit etj.

@@ -1,0 +1,1 @@
+10. Të gjitha projektaktet në faqen web duhet të jenë të plota. Çdo projektakt duhet të publikohet si një dosje/file e veçantë në format elektronik të përshtatshëm, për t’u ruajtur, shkarkuar dhe ripërdorur sipas rregullores së miratuar nga AKSHI për të dhëna të hapura.

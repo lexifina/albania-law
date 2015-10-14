@@ -1,0 +1,1 @@
+12. Personi i caktuar nga çdo organ publik ka detyrimin për të pasqyruar të dhënat e kërkuara në Regjistrin Elektronik për Njoftimet dhe Konsultimet Publike, jo më vonë se 48 orë nga momenti i miratimit të dokumentit nga organi publik, përveçse kur me urdhër të organit publik ose nisur nga natyra e informacionit, regjistrimi duhet të kryhet brenda një afati më të shkurtër.

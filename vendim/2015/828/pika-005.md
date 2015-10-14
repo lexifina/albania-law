@@ -1,0 +1,1 @@
+5. Të gjitha organet publike të ngarkuara për zbatimin e ligjit nr. 146/2014, “Për njoftimin dhe konsultimin publik”, janë dhënës të informacionit për Regjistrin Elektronik për Njoftimet dhe Konsultimet Publike.

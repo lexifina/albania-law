@@ -1,0 +1,1 @@
+1. Krijimin, funksionimin, administrimin dhe monitorimin e Regjistrit Elektronik për Njoftimet dhe Konsultimet Publike (RENJK) dhe publikimin e tij në formën e një portali elektronik, faqeje web-i, me adresë elektronike: http://www.konsultimi publik.gov.al.
