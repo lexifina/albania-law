@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të infra-strukturës së informacionit gjeohapësinor në Shqipëri-tema hidrografia”, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
