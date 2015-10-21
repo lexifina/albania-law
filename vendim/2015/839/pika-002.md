@@ -1,0 +1,1 @@
+2. Rregullorja nr. 721, datë 25.6.1998, e ministrit të Rendit Publik, “Për përdorimin e armëve të zjarrit nga Policia e Rendit Publik dhe personat e tjerë të armatosur sipas ligjit” dhe çdo akt tjetër që është në kundërshtim me këtë rregullore shfuqizohen.
