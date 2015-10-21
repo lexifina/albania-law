@@ -1,0 +1,1 @@
+8. Struktura administrative përgjegjëse për mbikëqyrjen e aktivitetit të Qendrës së Grumbullimit dhe Trajtimit të Kimikateve të Rrezikshme është drejtoria e ngarkuar me politikat dhe zhvillimin e industrisë dhe standardeve teknike në ministrinë përgjegjëse për industrinë.

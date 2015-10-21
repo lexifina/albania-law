@@ -1,0 +1,1 @@
+5. Funksionet administrative të Qendrës së Grumbullimit dhe Trajtimit të Kimikateve të Rrezikshme janë ofrimi i shërbimeve për identifikimin dhe evidentimin, grumbullimin, përgatitjen për eliminimin, depozitimin dhe ruajtjen e kimikateve të rrezikshme.
