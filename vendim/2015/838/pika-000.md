@@ -1,0 +1,2 @@
+Miratimin e protokollit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Turqisë, për pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqipërisë, që vepron në Afganistan në kuadër të misionit “Resolute Support” (RSM), nën komponentin e Forcave të Armatosura Turke, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
