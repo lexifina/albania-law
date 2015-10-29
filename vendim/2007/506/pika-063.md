@@ -1,1 +1,0 @@
-63. Çdo veprim i kryer në regjistër, si dhe pamja e plotë elektronike e çdo dokumenti shoqërues janë lirisht të aksesueshëm për publikun, në faqen zyrtare të internetit të QKR-së. Përbën përjashtim aksesi në të dhënat për adresën e individëve.

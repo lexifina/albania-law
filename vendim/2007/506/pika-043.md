@@ -1,1 +1,0 @@
-43. QKR-ja, nëpërmjet sporteleve të shërbimit, u njofton në mënyrë elektronike bashkive dhe komunave të lidhura në rrjet të dhënat e përcaktuara në pikën 44 të këtij vendimi, së bashku me dokumentet shoqëruese të paraqitura.

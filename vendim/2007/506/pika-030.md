@@ -1,1 +1,0 @@
-30. Nëse nëpunësi i autorizuar, pas verifikimeve sipas pikave 21 deri 24 të këtij vendimi, vëren se aplikimi nuk është në përputhje me kërkesat e ligjit, brenda afatit maksimal prej 1 dite nga paraqitja e aplikimit pezullon regjistrimin.

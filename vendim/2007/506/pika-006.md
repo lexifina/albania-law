@@ -1,1 +1,0 @@
-6. Aplikantët, që kryejnë regjistrimin fillestar në regjistrin tregtar, sipas ligjit, deklarojnë në formularët e regjistrimit fillestar edhe të dhënat e detyrueshme, sipas dispozitave, që rregullojnë fushën tatimore, statistikore, të sigurimeve shoqërore e shëndetësore e të inspektimit të punës.

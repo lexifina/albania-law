@@ -1,1 +1,0 @@
-28. QKR-ja, pas autorizimit të regjistrimit e, në rastin e regjistrimit fillestar, pas marrjes së NUIS-it, lëshon, sipas rastit, certifikatat e regjistrimit, sipas formateve të miratuara, apo vërtetimin e kryerjes së regjistrimit.

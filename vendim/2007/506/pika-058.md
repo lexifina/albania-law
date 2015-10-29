@@ -1,1 +1,0 @@
-58. Subjekti, i kaluar në statusin pasiv, sipas parashikimit të nenit 46 të ligjit, mund të kërkojë në çdo kohë heqjen e këtij statusi, duke paraqitur në sportelin e shërbimit të QKR-së aplikimin, sipas formatit të miratuar së bashku me bilancet e padorëzuara, si dhe pas shlyerjes të të gjitha sanksioneve përkatëse.

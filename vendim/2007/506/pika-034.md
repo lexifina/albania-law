@@ -1,1 +1,0 @@
-34. Nëse nëpunësi i autorizuar (regjistruesi), pas verifikimeve sipas pikave 21 deri 24, vëren se të dhënat, që kërkohen të regjistrohen, janë të ndryshme nga të dhënat e kërkuara nga dispozitat e ligjit, regjistrimi refuzohet dhe aplikantit i njoftohet, me shkrim, shkaku i refuzimit.

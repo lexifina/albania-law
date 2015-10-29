@@ -1,1 +1,0 @@
-11. Nëpunësi i sportelit i kërkon personit, që paraqet për aplikim, të dhëna për regjistrimn, që kërkon të kryejë dhe hap dosjen elektronike përkatëse, e cila mban një numër për çdo dosje (ose aplikim), të dhënë automatikisht nga sistemi i informatizuar i QKR-së.

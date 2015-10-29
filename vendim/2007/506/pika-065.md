@@ -1,1 +1,0 @@
-65. Gjithashtu, QKR-ja i mundëson çdo aplikanti kërkimin në faqen zyrtare të internetit të gjendjes në të cilën ndodhet procesi i regjistrimit të aplikimit të tij, nëpërmjet përdorimit të numrit të dhënë, sipas pikës 20 të këtij vendimi.

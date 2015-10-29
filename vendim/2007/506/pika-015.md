@@ -1,1 +1,0 @@
-15. Formulari i plotësuar nënshkruhet nga personi, që aplikon për regjistrim, dhe i dorëzohet nëpunësit të sportelit, së bashku me dokumentet e sipërpërmendura. Nëpunësi i sportelit plotëson rubrikën e formularit të rezervuar për përdorim zyrtar.

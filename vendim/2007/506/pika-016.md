@@ -1,1 +1,0 @@
-16. Të gjitha dokumentet, përfshirë kopjen e dokumenteve të identifikimit dhe formularin e aplikimit, vulosen dhe nënshkruhen nga nëpunësi i sportelit, përkatësisht, në faqe të parë dhe në rubrikën përkatëse të formularit të aplikimit. Më pas merret pamja e tyre elektronike.

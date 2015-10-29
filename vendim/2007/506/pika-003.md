@@ -1,1 +1,0 @@
-3. Aplikimi për regjistrim bëhet në sportelin e Qendrës Kombëtare të Regjistrimit, në qendër ose në çdo sportel shërbimi, në bashki apo komunë, pavarësisht nga selia a vendi i ushtrimit të veprimtarisë nga subjekti, që kërkon regjistrimin.

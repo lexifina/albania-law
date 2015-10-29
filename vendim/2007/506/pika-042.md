@@ -1,1 +1,0 @@
-42. Për çdo subjekt të ri, të regjistruar, në regjistrin tregtar, QKR-ja njofton edhe bashkitë dhe komunat, ku subjektet kanë selinë apo vendet e ushtrimit të veprimtarisë, të gjitha të dhënat e regjistrimit të deklaruara në formularin përkatës dhe të dhënat e detyrueshme, sipas dispozitave, që rregullojnë fushën tatimore.
