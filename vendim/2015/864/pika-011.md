@@ -1,0 +1,1 @@
+11. Nëpunësi i sportelit, në çdo rast, asiston personin që paraqitet për aplikim në plotësimin e të gjitha rubrikave të detyrueshme të formularit edhe kur të dhënat, që duhet të deklarohen në një apo më shumë rubrika, janë të pasakta apo nuk vërtetohen nga dokumentet shoqëruese të paraqitura.

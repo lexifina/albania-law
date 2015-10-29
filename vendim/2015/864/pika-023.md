@@ -1,0 +1,1 @@
+23. Nëpunësi i autorizuar (regjistruesi) miraton kryerjen e regjistrimit sipas shkronjës “a”, të pikës 23, nëse vlerëson se aplikimi i marrë nga nëpunësi i sportelit, në përputhje me pikat15, 17 e 18,të këtij vendimi, është i mbështetur në ligj dhe në dispozitat e këtij vendimi.

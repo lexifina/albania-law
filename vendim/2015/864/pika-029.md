@@ -1,0 +1,1 @@
+29. Aplikanti në çdo kohë, brenda afatit të përcaktuar në pikën 29, mund të plotësojë ose të ndreqë mangësitë, duke plotësuar formularin përkatës e duke dorëzuar dokumentet shoqëruese të nevojshme. QKR-ja vlerëson aplikimin për plotësimin ose ndreqjen e mangësive që pengojnë regjistrimin, në përputhje me pikat 17 deri 22, të këtij vendimi.

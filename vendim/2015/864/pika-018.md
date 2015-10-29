@@ -1,0 +1,1 @@
+18. Aplikimi dhe dokumentet shoqëruese në format elektronik, dërguar sipas parashikimeve të pikave 17e18,të këtij kreu, merren në shqyrtim nga nëpunësit e autorizuar të QKR-së (regjistruesit), sipas radhës së paraqitjes së tyre.

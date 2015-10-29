@@ -1,0 +1,1 @@
+43. Kërkesa për korrigjimin e gabimit mund të bëhet nga çdo person i interesuar, me aplikim, sipas formatit të miratuar. Aplikimi për korrigjimin e gabimit paraqitet në sportelin e shërbimit nga personi i interesuar dhe kryhet pa pagesë.

@@ -1,0 +1,1 @@
+44. Kryerja e korrigjimit dhe të dhënat e korrigjuara shpallen në Buletinin e Njoftimeve Zyrtare të regjistrimit të QKR-së dhe për këto njoftohet subjekti me shkrim në sportel pavarësisht nga vendi i kryerjes së aplikimit.

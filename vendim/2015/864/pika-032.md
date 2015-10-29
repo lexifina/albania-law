@@ -1,0 +1,1 @@
+32. Nëpunësi i autorizuar (regjistruesi) refuzon regjistrimin në rastin kur aplikanti nuk ka plotësuar ose nuk ka ndrequr mangësitë që pengojnë regjistrimin, brenda afatit 21-ditor të përcaktuar, në nenin 56, të ligjit si dhe kur aplikimi për plotësimin ose ndreqjen e mangësive nuk plotëson qoftë edhe njërën nga kërkesat e përcaktuara në ligj.

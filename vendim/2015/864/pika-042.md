@@ -1,0 +1,1 @@
+42. Pasaktësitë, gabimet teknike ose gabimet e tjera të bëra gjatë regjistrimeve, të cilat rezultojnë qartë nga dokumentacioni i depozituar dhe nuk cenojnë vlefshmërinë e regjistrimit, mund të korrigjohen nga vetë QKR-ja, kryesisht apo me kërkesë të personit të interesuar.

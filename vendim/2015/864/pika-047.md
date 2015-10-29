@@ -1,0 +1,1 @@
+47. Nëse një subjekt nuk përmbush detyrimin, sipas këtij neni, atëherë QKR-ja, së bashku me zbatimin e sanksionit të parashikuar në pikën 3, të nenit 74, të këtij ligji, vepron në përputhje me parashikimet e shkronjës “ë”, të nenit 54, të ligjit.

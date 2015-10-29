@@ -1,0 +1,1 @@
+49. Në përputhje me legjislacionin në fuqi, afati përfundimtar për depozitimin e pasqyrave financiare vjetore, të raportit të ecurisë së veprimtarisë dhe të raportit të auditimit, sipas shkronjës “a”, të nenit 43/3, të ligjit, është data 31 korrik e çdo viti.

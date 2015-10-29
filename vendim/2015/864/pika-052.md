@@ -1,0 +1,1 @@
+52. Çdo person ka të drejtë të kërkojë lëshimin e ekstrakteve për një pjesë (ekstrakt i thjeshtë) apo për të gjitha të dhënat e regjistruara, si dhe kopje të vërtetuar të dokumenteve shoqëruese, të depozituara në regjistër, pranë çdo sporteli shërbimi të QKR-së.

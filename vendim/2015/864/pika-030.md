@@ -1,0 +1,1 @@
+30. Në rastin kur pas pezullimit aplikanti ka plotësuar ose ka ndrequr mangësitë, brenda afatit të përcaktuar në nenin 56, të ligjit, QKR-ja kryen regjistrimin. Regjistrimi mban datën e paraqitjes së aplikimit të parë.
