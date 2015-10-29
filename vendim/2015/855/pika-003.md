@@ -1,0 +1,1 @@
+3. Rregullat e masa e shpërblimit të informatorëve dhe procedura e masa e shpenzimit për blerje të mallrave dhe shërbimeve në subjektet tatimpaguese, sipas shkronjave “a” e “b”, të pikës 2, të këtij vendimi, përcaktohen me udhëzim të ministrit të Financave.
