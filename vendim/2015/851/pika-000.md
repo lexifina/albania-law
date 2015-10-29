@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Këshillit Federal Zviceran, për dhënien e ndihmës financiare për projektin “Instalimi i DMFAS 6 të UNCTAD-it në Ministrinë e Financave të Shqipërisë dhe ngritja e kapaciteteve për menaxhimin e integruar të borxhit në Shqipëri”, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
