@@ -1,8 +1,0 @@
-# Neni 19
-Tarifat e balancimit
-1. OST-ja paraqet për miratim në ERE tarifat e balancimit, në bazë të kritereve objektive, që pasqyrojnë nevojat reale të sistemit, në përputhje me burimet e disponueshme të saj. Tarifat e balancimit përcaktohen në përputhje me kriteret e mëposhtme:
-a) me nivelet e tolerancës, të cilat janë jodiskriminuese dhe transparente dhe pasqyrojnë aftësitë teknike të sistemit të transmetimit e nevojat reale të këtij sistemi;
-b) me tarifat e disbalancës, që duhet të jenë, sa të jetë e mundur, të mbështetura në kosto, ndërkohë që sigurojnë incentivat e duhura balancuese, për të balancuar injektimin dhe marrjen e gazit natyror, si dhe shmangin ndërsubvencionimet ndërmjet përdoruesve të rrjetit dhe pengesat e hyrjes për përdoruesit e rinj të rrjetit;
-c) me vlerat e penalizimeve për përdoruesit e rrjetit, që nuk janë në përputhje me rregullat e balancimit, të miratuara nga ERE-ja, të cilat duhet të jenë më të mëdha se kostot aktuale të balancimit, por vetëm deri në atë masë, për të siguruar një operator rrjeti efiçent dhe strukturalisht të ngjashëm me të tjerët. Penalitetet, që kalojnë kostot e balancimit, të realizuara në mënyrë efektive, u rishpërndahen përdoruesve të sistemit pa diskriminim.
-2. OST-ja publikon informacion të mjaftueshëm në kohë dhe të besueshëm për gjendjen e balancimit të përdoruesve të rrjetit, për t’u mundësuar përdoruesve të sistemit ndërmarrjen në kohë të veprimeve korrigjuese. Niveli i informacionit të dhënë reflekton nivelin e informacionit të disponueshëm nga OST-ja.
-3. OST-ja publikon të gjithë termat dhe kushtet, përfshirë rregullat dhe tarifat për sigurimin e shërbimeve të balancimit.

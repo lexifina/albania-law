@@ -1,6 +1,0 @@
-# Neni 54
-Trajtimi i lejeve dhe kërkesave ekzistuese për ndërtimin e gazsjellësve
-dhe të instalimeve të tjera të infrastrukturës së gazit
-1. Lejet e koncesionit për ndërtimin dhe përdorimin e gazsjellësve dhe të instalimeve të tjera të infrastrukturës së gazit, të dhëna nga Këshilli i Ministrave, sipas dispozitave të ligjit nr.8450, datë 24.2.1999 “Për përpunimin, transportin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre”, të ndryshuar, edhe pas hyrjes në fuqi të këtij ligji janë të vlefshme deri në afatin, për të cilin janë dhënë.
-2. Personat e pajisur me leje koncesioni për ndërtimin dhe përdorimin e gazsjellësve dhe të instalimeve të tjera të infrastrukturës së gazit, sikurse përcaktohet në pikën 1 të këtij neni, pajisen nga ERE-ja me licencën përkatëse për kryerjen e një ose më shumë veprimtarive në sektorin e gazit natyror, sipas dispozitave të këtij ligji.
-3. Të gjitha kërkesat për leje koncesioni për ndërtim dhe përdorim gazsjellësi dhe të instalimeve të tjera të infrastrukturës së gazit, që janë paraqitur nga personat e interesuar, përpara datës së hyrjes në fuqi të këtij ligji dhe janë në proces shqyrtimi, trajtohen sipas dispozitave të ligjit nr.8450, datë 24.2.1999 “Për përpunimin, transportin dhe tregtimin e naftës, gazit dhe nënprodukteve të tyre”, të ndryshuar dhe të akteve të tjera nënligjore në fuqi.

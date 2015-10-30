@@ -1,7 +1,0 @@
-# Neni 7
-Rregullat teknike dhe të sigurisë në sektorin e gazit natyror
-1. Këshilli і Ministrave, me propozimin e ministrit, miraton rregullat teknike dhe kriteret e sigurisë, ku përcaktohen kërkesat minimale të projektimit teknik, ndërtimit dhe operimit të sistemeve të transmetimit e të shpërndarjes së gazit natyror, të instalimeve të GNL-së, hapësirave të depozitimit dhe të linjave direkte, për operimin e sigurt të sistemeve.
-2. Përgatitja dhe miratimi i rregullave teknike e i kritereve të sigurisë, sipas pikës 1 të këtij neni, bëhen brenda 4 vjetëve nga data e hyrjes në fuqi të këtij ligji. Deri në çastin e miratimit nga Këshilli i Ministrave të këtyre rregullave, do të zbatohen rregullat dhe kriteret e sigurisë së vendeve të BE-së. Ministri përcakton rregullat që do të zbatohen.
-3. Ministri, brenda 3 vjetëve nga hyrja në fuqi e këtij ligji, përcakton rregullat teknike për kryerjen e operacioneve të depozitimit të gazit natyror në vendburimet hidrokarbure ose në hapësirat e tjera nëntokësore, të përshtatshme për këtë qëllim, në përputhje me normativat europiane në këtë fushë.
-4. Rregullat teknike, të parashikuara në pikën 3 të këtij neni, përditësohen nga ministria, në funksion të zhvillimit teknik dhe teknologjik të sistemit të depozitimit të gazit natyror.
-5. Kontrolli për zbatimin dhe respektimin e rregullave, të parashikuara në pikën 1 të këtij neni, ushtrohet nga strukturat përkatëse, sipas legjislacionit në fuqi.
