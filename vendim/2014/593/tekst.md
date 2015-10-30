@@ -4,6 +4,10 @@ Nr. 593, datë 10.9.2014
 
 PËR KRIJIMIN E FONDIT NË MBËSHTETJE TË SIPËRMARRJEVE TË REJA “START-UP”
 
+(ndryshuar me VKM nr. 875, datë 30.10.2015)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës, të neneve 5, shkronjat “a”, “c”, “ç”, “d” dhe “dh”, 7, pika 2, dhe 8, të ligjit nr. 8957, datë 17.10.2002, “Për ndërmarrjet e vogla e të mesme”, të ndryshuar, të neneve 5 e 7, të ligjit nr. 10303, datë 15.7.2010, “Për krijimin dhe mënyrën e organizimit dhe të funksionimit të Agjencisë Shqiptare të Zhvillimit të Investimeve (AIDA)”, dhe të ligjit nr. 185/2013, “Për buxhetin e vitit 2014”, me propozimin e ministrit të Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, Këshilli i Ministrave
 
 VENDOSI:
@@ -38,7 +42,7 @@ d) procesin e agropërpunimit;
 
 dh)  fushën e disenjimit, modelimit, artizanatit.
 
-Gëzojnë të drejtën e përfitimit nga ky fond ato sipërmarrje të reja, të cilat e ushtrojnë veprimtarinë në sektorët e sipërpërmendur dhe janë të regjistruara pranë Qendrës Kombëtare të Regjistrimit, për një periudhë nga 1 (një) deri në 2 (dy) vjet.
+Gëzojnë të drejtën për të përfituar nga kjo skemë të gjitha sipërmarrjet e reja që zhvillojnë veprimtari për një periudhë nga 0 (zero) deri në 2 (dy) vjet dhe janë të regjistruara në Qendrën Kombëtare të Regjistrimit.
 
 5. Fondi mbulon 70% të kostove të pranuara dhe të miratuara nga komisioni vlerësues, në varësi të projektit konkurrues, por jo më shumë se 300 000 (treqind mijë) lekë.
 
