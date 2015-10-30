@@ -4,6 +4,10 @@ Nr. 592, datë 10.9.2014
 
 PËR KRIJIMIN E FONDIT NË MBËSHTETJE TË GRAVE SIPËRMARRËSE
 
+(ndryshuar me VKM nr. 874, datë 30.10.2015)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës, të neneve 5, shkronjat “a”, “c”, “ç”, “d” dhe “dh”, 7 e 8, të ligjit nr. 8957, datë 17.10.2002, “Për ndërmarrjet e vogla e të mesme”, të ndryshuar, të neneve 5 e 7, të ligjit nr. 10303, datë 15.7.2010, “Për krijimin dhe mënyrën e organizimit e të funksionimit të Agjencisë Shqiptare të Zhvillimit të Investimeve (AIDA)”, dhe të nenit 10, të ligjit nr. 185/2013, “Për buxhetin e vitit 2014”, me propozimin e ministrit të Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, Këshilli i Ministrave
 
 VENDOSI:
@@ -48,7 +52,7 @@ c) Të kenë selinë ose vendin kryesor të prodhimit brenda territorit të vend
 
 ç)  Në planin e tyre të biznesit të parashikohet krijimi minimalisht i 1 (një) deri në 3 (tre) vendeve të reja të punës brenda 12 muajve nga momenti i përfitimit të fondit.
 
-d) Të prodhojnë produkte ose të ofrojnë shërbime, që tregtohen apo që mund të tregtohen në nivel ndërkombëtar dhe që gjatë procesit i japin një vlerë të shtuar, të konsiderueshme, produktit përfundimtar.
+d) Shfuqizuar.
 
 dh) Të argumentojnë se aktivitetet që propozohen për mbështetje nga fondi janë të rëndësishme për zhvillimin e biznesit të tyre, nëpërmjet:
 
@@ -76,11 +80,13 @@ e) rezultatet e pritshme.
 
 8. Ndërmarrjet mikro, të vogla dhe të mesme, përfitojnë nga kjo skemë vetëm një herë.
 
-9.  Ngarkohet Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA) për menaxhimin e fondit që do të përdoret për subvencionin e interesave të kredive dhe për të lidhur marrëveshje me institucionet e mikrokredisë, si:
+9.  Ngarkohet Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA) për menaxhimin e fondit që do të përdoret për subvencionimin e interesave të kredive dhe për të lidhur marrëveshje me qëllim disbursimin e Fondit në Mbështetje të Grave Sipërmarrëse, me institucionet e mikrokredisë, si: 
 
-a) institucionet financiare jobankare;
+a) Institucionet financiare jobankare; 
 
-b) dhe/ose shoqëritë e kursim-kreditit me qëllim disbursimin e Fondit në Mbështetje të Grave Sipërmarrëse.
+b) Shoqëritë e kursim-kreditit; 
+
+c) Bankat e nivelit të dytë që ofrojnë mikrokredi.
 
 10. Procedurat dhe kriteret për përzgjedhjen e përfituesve përcaktohen në rregulloren e funksionimit të Fondit në Mbështetje të Grave Sipërmarrëse, e cila miratohet me urdhër të ministri përgjegjës për ekonominë.
 
