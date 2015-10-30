@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12500,
+  "title": "Për disa shtesa në ligjin nr.10273, datë 29.4.2010, “Për dokumentin elektronik”.",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "101",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-09-23",
+  "published": "2015-10-15",
+  "in_force": "2015-10-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/621e48e29facb9bdc1981fc9a16affba4167acdfbc92f1961a1698d6a0c37dee.docx",
+  "source_sha256": "621e48e29facb9bdc1981fc9a16affba4167acdfbc92f1961a1698d6a0c37dee",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12500",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/09/23/101",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
