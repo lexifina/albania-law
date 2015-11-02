@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12566,
+  "title": "Për shpërndarjen  e fondit për programin “Shqipëria dixhitale”, pjesë e Fondit për Zhvillimin e Rajoneve.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "40",
+  "institution": "Komiteti i Zhvillimit të Rajoneve",
+  "adopted": "2015-10-16",
+  "published": "2015-11-02",
+  "in_force": "2015-11-02",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a8e32b6841c08b863245b13498f0460401bfc7042bea596501867316bb3d8b6b.docx",
+  "source_sha256": "a8e32b6841c08b863245b13498f0460401bfc7042bea596501867316bb3d8b6b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12566",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/10/16/40",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    67429
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
