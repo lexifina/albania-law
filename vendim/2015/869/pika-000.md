@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit nr. TF018931, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), që vepron si administratore e fondeve grant, të siguruara nga qeveria e Konfederatës Zvicerane, përfaqësuar nga Sekretariati Shtetëror Zviceran për Çështjet Ekonomike (SECO), në kuadër të fondit të mirëbesimit SECO, për fuqizimin e kapaciteteve mbikëqyrëse të Autoritetit të Mbikëqyrjes Financiare në Shqipëri, sipas tekstit dhe relacionit që i bashkëlidhen këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
