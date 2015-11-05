@@ -1,0 +1,3 @@
+# Neni 7
+Në nenin 42, pika 1, shkronja “a”ndryshohet si më poshtë:
+“a) të kontrollojë materialin mbjellës dhe shumëzues bimor të furnizuesit, në çdo kohë dhe në çdo vend ku ai magazinohet, përpunohet, përgatitet për treg e tregtohet. Çdo 6 muaj, inspektorati që mbulon fushën përkatëse pranë Autoritetit Kombëtar të Ushqimit duhet të kërkojë që furnizuesit të kryejnë rianalizimin për treguesit e fuqisë mbirëse për çdo specie, varietet dhe lot të materialit mbjellës dhe shumëzues bimor, të importuar apo të prodhuar në vendin tonë në laboratorin e ESHFF-së. Mostrat për rianaliza laboratorike duhet të merren nga specialisti i autorizuar i DB-së.”.
