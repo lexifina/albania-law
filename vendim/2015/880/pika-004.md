@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë “arë”, “truall” dhe “kultura bujqësore”, prej 1 334 830 (një milion e treqind e tridhjetë e katër mijë e tetëqind e tridhjetë) lekësh, të përballohet nga buxheti i vitit 2015, miratuar për Ministrinë e Transportit dhe Infra-strukturës, zëri “Shpronësime”, planifikuar për Autoritetin Rrugor Shqiptar.

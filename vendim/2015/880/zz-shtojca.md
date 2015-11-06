@@ -1,0 +1,117 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+AUTORITETI RRUGOR SHQIPTAR
+SEKTORI SHPRONËSIMEVE
+LISTA EMËRORE E PRONARËVE QË SHPRONËSOHEN PËR EFEKT TË NDËRTIMIT TË SEGMENTIT RRUGOR “KORÇË - QAFË PLLOÇË” (SHTESAT)
+PRONARI
+VLERËSIMET
+Kultura
+VLERA
+Nr.
+Emri i pronarit
+ZK
+Nr. Pas.
+Lloji i pasurisë
+Sip. totale
+Sip (m2)
+Çmimi (lek/m2)
+Vlera (lekë)
+bujqësore
+TOTALE (lekë)
+Shënime
+1
+Bashkëpronarët Hyko
+3047
+11\1
+Arë
+3000
+2500
+200
+500000
+500000
+Konf. ZVRPP
+2
+Lytfi Dilaver Ibi
+1387
+325/45
+Arë
+1500
+300
+200
+60000
+60000
+Konf. ZVRPP
+3
+Rami Nazmi Mulla
+3047
+11\3
+Arë
+2000
+1847
+200
+369400
+369400
+Konf. ZVRPP
+4
+Esat Nazmi Mulla
+5
+Myseret Nazmi Tollozhina
+6
+Edmond Hasimllari
+3553
+52/27
+Truall
+1250
+97
+1490
+144530
+144530
+Pritet konfirmimi
+7
+Urim Mukollari
+3553
+47/31
+Arë
+1789
+75
+212
+15900
+15900
+Pritet konfirmimi
+8
+Andrea Baki Bakollari
+3496
+1600/21
+Arë
+170
+79650
+79650
+Konf. ZVRPP
+9
+Miranda Islam Bakollari
+10
+Baki Halil Bakollari
+3496
+166/20
+Arë
+256
+111950
+111950
+Konf. ZVRPP
+11
+Avdulla Bektash Leka
+2420
+110/59
+Arë
+1610
+267
+200
+53400
+53400
+Pritet konfirmimi
+TOTALI
+5512
+1143230
+191600
+1334830

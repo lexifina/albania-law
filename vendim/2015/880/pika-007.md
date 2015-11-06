@@ -1,0 +1,1 @@
+7. Pronarët e pasurive të listës që i bashkëlidhet këtij vendimi, për të cilat është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të likuidohen, për efekt shpronësimi, pasi të dorëzojnë dokumentacionin e plotë të pronësisë pranë Autoritetit Rrugor Shqiptar.
