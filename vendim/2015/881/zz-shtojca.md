@@ -1,0 +1,84 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+AUTORITETI RRUGOR SHQIPTAR
+SEKTORI I SHPRONËSIMEVE
+LISTA E PRONARËVE QË SHPRONËSOHEN PËR EFEKT TË NDËRTIMIT TË SEGMENTIT RRUGOR”
+SISTEMIM-ASFALTIM RRUGA SHKOZET DURRËS, ZONA E KËNETËS”
+PRONARI
+Nr.
+Emri, atësia, mbiemri
+Nr. pas
+ZK
+Lloji
+Sip (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Shënime
+Spitallë ZK. 8517 (Durrës)
+1
+Spiro Roçi
+171/260
+8517
+are
+45
+3119
+140355
+Konfirmim ZVRPP
+2
+Adile Roçi
+171/261
+8517
+are
+45
+3119
+140355
+Konfirmim ZVRPP
+3
+Agim Roçi
+171/262
+8517
+are
+45
+3119
+140355
+Konfirmim ZVRPP
+4
+Edmod Roçi+bp
+171/254
+8517
+are
+35
+3119
+109165
+Konfirmim ZVRPP
+5
+Edmond Kurti
+171/255
+8517
+are
+20
+3119
+62380
+Konfirmim ZVRPP
+6
+Edi Zeria
+172/128
+8517
+are
+300
+3119
+935700
+Konfirmim ZVRPP
+7
+Fondacioni “Liohana”
+172/129
+8517
+are
+190
+3119
+592610
+Konfirmim ZVRPP
+TOTALI
+680
+2120920
