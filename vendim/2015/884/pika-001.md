@@ -1,0 +1,1 @@
+1. Shpronësimin dhe marrjen në përdorim të përkohshëm, për interes publik, të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i urave dhe rrugëve hyrëse në Fier, Korçë e Skrapar, të projektit të Gazsjellësit Trans Adriatik (Projekti TAP), sipas listave bashkëlidhur këtij vendimi.

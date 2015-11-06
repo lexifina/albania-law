@@ -1,0 +1,1 @@
+6. Çdo pronar, për t’u likuiduar për efekt shpronësimi dhe marrjeje në përdorim të përkohshëm, të dorëzojë dokumentacionin e plotë të pronësisë, vërtetimin nga banka, për numrin e llogarisë dhe IBAN, si dhe kopje të kartës së identitetit pranë shoqërisë TAP AG.

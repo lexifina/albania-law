@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e kompensimit për shpronësimin dhe marrjen në përdorim të përkohshëm si dhe vlera e shpenzimeve procedurale të përballohen nga shoqëria TAP AG, si subjekti kërkues i këtij shpronësimi.
