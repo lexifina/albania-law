@@ -1,0 +1,34 @@
+{
+  "qbz_id": 12579,
+  "title": "Për miratimin e kalimit të pronësisë së disa parcelave ndërtimore në favor të poseduesve të objekteve informale.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "882",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-10-30",
+  "published": "2015-11-06",
+  "in_force": "2015-11-06",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/4c5482b7f663805821231bc1d04287c91b7e99c1b52b7db7a720cf006938e9c1.docx",
+  "source_sha256": "4c5482b7f663805821231bc1d04287c91b7e99c1b52b7db7a720cf006938e9c1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12579",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/10/30/882",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    20515,
+    63297,
+    67577,
+    65944,
+    15846,
+    61778,
+    56465
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
