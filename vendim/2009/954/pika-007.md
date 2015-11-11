@@ -7,7 +7,7 @@ III. Organizimi i QNOD-së
 - Ministria e Mbrojtjes (prani 24-orëshe të Rojës Bregdetare);
 - Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave (prani 24-orëshe të Drejtorisë së Shërbimeve Peshkore dhe Akuakulturës);
 - Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes (kapacitete bashkërenduese sipas nevojës);
-- Ministria e Financave (kapacitete bashkë-renduese sipas nevojës);
+- Ministria e Financave (prani 24-orëshe të autoriteteve doganore);
 - Ministria e Mjedisit (kapacitete bashkë-renduese sipas nevojës).
 3. Mjediset e QNOD-së janë në administrim të Ministrisë së Mbrojtjes.
 4. Pagesa e personelit të QNOD-së bëhet nga institucionet përkatëse, që emërojnë këtë personel.
@@ -28,6 +28,6 @@ d) Oficerët e shërbimit/oficerët civilë të turnit të ministrive të linjë
 - Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave;
 - Ministrisë së Mjedisit;
 - Ministrisë së Transportit dhe Infrastrukturës.
-- Oficerët e shërbimit janë oficerët përgjegjës për personelin, që shërbejnë në sallën operacionale të QNOD-së. Ministria e Mbrojtjes, Ministria e Punëve të Brendshme, Ministria e Transportit dhe Infrastrukturës dhe Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave do të kenë oficerë shërbimi 24 orë në sallën operacionale të QNOD-së. Secili oficer shërbimi është përgjegjës për drejtimin e operacioneve, që janë kompetencë e ministrisë që përfaqëson. Për sigurimin e kontrollit civil mbi të gjitha operacionet policore, oficeri i shërbimit, i caktuar nga Ministria e Punëve të Brendshme, do të marrë përsipër dhe do të ekzekutojë operacionet që lidhen me detyrat e policisë. Përgjegjësitë dhe bashkërendimi i oficerëve të shërbimit përshkruhen në procedurat operacionale të miratuara.
+- Oficerët e shërbimit janë oficerët përgjegjës për personelin, që shërbejnë në sallën operacionale të QNOD-së. Ministria e Mbrojtjes, Ministria e Punëve të Brendshme, Ministria e Financave, Ministria e Transportit dhe Infrastrukturës dhe Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave do të kenë oficerë shërbimi 24 orë në sallën operacionale të QNOD-së. Secili oficer shërbimi është përgjegjës për drejtimin e operacioneve, që janë kompetencë e ministrisë që përfaqëson. Për sigurimin e kontrollit civil mbi të gjitha operacionet policore, oficeri i shërbimit, i caktuar nga Ministria e Punëve të Brendshme, do të marrë përsipër dhe do të ekzekutojë operacionet që lidhen me detyrat e policisë. Përgjegjësitë dhe bashkërendimi i oficerëve të shërbimit përshkruhen në procedurat operacionale të miratuara.
 - Personeli i operacioneve dhe ai i shërbimit të QNOD-së caktohen nga Ministria e Mbrojtjes dhe do të jenë operatorë të trajnuar radarësh dhe/ose personel për ndërlidhje. Personeli i shërbimit të QNOD-së do të shërbejë me turne shërbimi, për të garantuar se personeli është operativ çdo ditë, gjatë të gjithë ditës.
 - Personeli administrativ dhe ai teknik është personel i caktuar nga Ministria e Mbrojtjes dhe siguron mbarëvajtjen e sistemeve e mirëfunksionimin e pajisjeve të QNOD-së.
