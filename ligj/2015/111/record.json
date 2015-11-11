@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12540,
+  "title": "Për Shërbimin Gjeologjik Shqiptar.",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "111",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-10-15",
+  "published": "2015-10-27",
+  "in_force": "2015-11-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/bcd55c5db640687cb978c7b812d5ec1c04f6aba541828102600e37a8301a9093.docx",
+  "source_sha256": "bcd55c5db640687cb978c7b812d5ec1c04f6aba541828102600e37a8301a9093",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12540",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/10/15/111",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
