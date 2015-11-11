@@ -1,0 +1,2 @@
+6. Vendimi i dënimit me gjobë merret në përputhje me legjislacionin në fuqi në fushën e planifikimit, zhvillimit, mbrojtjes së territorit e disiplinimit të punimeve në ndërtim dhe nuk pengon marrjen e një vendimi të dytë për pezullimin e punimeve në ndërtim apo të vendimit për prishjen e ndërtimit të kundërligjshëm.
+Vendimi i dënimit me gjobë mbahet sipas formës së parashikuar në aneksin shoqërues të vendimit.

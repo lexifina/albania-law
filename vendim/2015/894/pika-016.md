@@ -1,0 +1,1 @@
+16. IKMT-ja, në mbështetje të këtyre informacioneve, me grup pune të përbashkët me përfaqësues të ministrive/institucioneve publike të sipërpërmendura, verifikon situatën në vend e, në rast se vëren shkelje, zbaton procedurat ligjore në fuqi, si dhe brenda afateve të përcaktuara në ligj është i detyruar t’u kthejë përgjigje ministrive/institucioneve përkatëse.

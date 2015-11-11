@@ -1,0 +1,7 @@
+10. Kryeinspektori/inspektorët e IKMT-së ushtrojnë përgjegjësitë dhe detyrat e parashikuara në nenet 9, shkronja “c”, dhe 9/2, të ligjit nr. 9780, datë 16.7.2007, “Për inspektimin dhe mbrojtjen e territorit nga ndërtimet e kundërligjshme”, të ndryshuar, në fushën e menaxhimit të integruar të burimeve ujore dhe marrin masat përkatëse, sipas dispozitave ligjore në fuqi.
+Në këtë rast këta inspektorë e ushtrojnë kontrollin në fushën e menaxhimit të integruar të burimeve ujore, në përputhje me procedurën e përcaktuar në nenin 12, të ligjit nr. 9780, datë 16.7.2007, “Për inspektimin dhe mbrojtjen e territorit nga ndërtimet e kundërligjshme”, të ndryshuar, si dhe me dispozitat ligjore në fushën e menaxhimit të integruar të burimeve ujore.
+IKMT-ja realizon kontrolle nëpërmjet:
+a) një grupi inspektimi, i cili ka në përbërje jo më pak se dy inspektorë;
+b) një grupi inspektimi të përbashkët, i cili ka në përbërje inspektorë të IKMT-së dhe inspektorë të Inspektoratit Shtetëror të Mjedisit dhe Pyjeve, dhe/ose të organeve të tjera në varësi të Ministrisë së Mjedisit.
+Në çdo kontroll, inspektorët e IKMT-së, në bashkëpunim me specialistët e autoriteteve të ujit, mbajnë procesverbalet për situatën e kontrolluar, ku pasqyrojnë mangësitë dhe detyrat për subjektin e kontrolluar, duke zbatuar, njëkohësisht, edhe procedurat ligjore përkatëse.
+Vendimet në fushën e menaxhimit të integruar të burimeve ujore merren në përputhje me dispozitat e ligjit nr. 111/2012, “Për menaxhimin e integruar të burimeve ujore”, dhe me legjislacionin në fuqi.

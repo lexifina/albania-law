@@ -1,0 +1,6 @@
+14. Inspektorati i Mbrojtjes së Territorit të njësisë vendore është i detyruar të njoftojë IKMT-në për çdo vendim të marrë për ndërtimet në zonat dhe objektet me rëndësi kombëtare, të përkufizuara nga legjislacioni në fuqi, brenda 5 (pesë) ditëve nga data e marrjes së vendimit. IKMT-ja, nga data e njoftimit të parashikuar më sipër, vlerëson se:
+a) ekzekutimi i vendimit duhet të kryhet vetëm nga IKMT-ja, për mbrojtjen e objekteve dhe zonave me rëndësi kombëtare;
+b) ekzekutimi i vendimit duhet të kryhet nga Inspektorati i Mbrojtjes së Territorit të njësisë vendore në bashkëpunim me IKMT-në;
+c) ekzekutimi i vendimit duhet të kryhet vetën nga Inspektorati i Mbrojtjes së Territorit të njësisë vendore.
+Pas shqyrtimit, IKMT-ja njofton, brenda 5 (pesë) ditëve nga data e marrjes së njoftimit, Inspektoratin e Mbrojtjes së Territorit të njësisë vendore për vlerësimin e bërë sipas paragrafit të dytë të kësaj pike.
+Kur gjatë ushtrimit të kontrollit në fushën e planifikimit, zhvillimit, mbrojtjes së territorit e disiplinimit të punimeve në ndërtim, Inspektorati i Mbrojtjes së Territorit të njësisë vendore vëren shkelje në fushën e rezervave ujore dhe të produkteve të ndërtimit, njofton menjëherë IKMT-në për të verifikuar dhe për të marrë vendimin përkatës.
