@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12541,
+  "title": "Për inspektimin financiar publik.",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "112",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-10-15",
+  "published": "2015-10-27",
+  "in_force": "2015-11-11",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/94767f1103869eacbc0fb03733737b0905f8a002d8cb8cd1d24b066e8f7354cd.docx",
+  "source_sha256": "94767f1103869eacbc0fb03733737b0905f8a002d8cb8cd1d24b066e8f7354cd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12541",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/10/15/112",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
