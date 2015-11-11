@@ -1,1 +1,0 @@
-2. Inspektorati Ndërtimor e Urbanistik Kombëtar e shtrin veprimtarinë në të gjithë territorin e Republikës së Shqipërisë. Struktura dhe organika e Inspektoratit Ndërtimor e Urbanistik Kombëtar përcaktohen me urdhër të Kryeministrit, me propozimin e ministrit përgjegjës në fushën e ndërtimit dhe urbanistikës.

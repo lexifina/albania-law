@@ -1,1 +1,0 @@
-1. Inspektorati Ndërtimor e Urbanistik Kombëtar është institucion qendror, buxhetor, person juridik, publik në varësi të Ministrit të Punëve Publike, Transportit dhe Telekomunikacionit, me seli në Tiranë.
