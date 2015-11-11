@@ -1,3 +1,3 @@
 # Neni 5
 Pagesa e kontributeve
-Afati i derdhjes së kontributeve është jo më vonë se data e fundit e muajit pasardhës.
+Pagesa e kontributeve suplementare bëhet në organet e tatim-taksave dhe ndjek të njëjtat procedura e afate, si për mbledhjen e kontributeve nga skema e sigurimit shoqëror të detyrueshëm.
