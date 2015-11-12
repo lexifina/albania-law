@@ -1,0 +1,1 @@
+2. IAL-të private shpallin hapjen e procedurës së pranimit të kërkesave të kandidatëve që dëshirojnë të vazhdojnë programet e studimit të ciklit të parë dhe/ose të ciklit të dytë dhe kriteret e pranimit të tyre.

@@ -1,0 +1,1 @@
+3. Procedurat e aplikimit dhe të regjistrimit në programet e studimit të ciklit të parë dhe të ciklit të dytë të studimeve, si dhe transferimi i studimeve, për vitin akademik 2015-2016, në institucionet private të arsimit të lartë, të kryhen brenda datës 23 tetor 2015 për ciklin e parë të studimeve dhe brenda datës 13 nëntor 2015 për ciklin e dytë të studimeve.

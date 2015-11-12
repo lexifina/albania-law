@@ -1,0 +1,1 @@
+14. Kandidatët me kombësi shqiptare nga trojet jashtë kufijve të vendit, si: Kosovë, Mal i Zi, Maqedoni, Preshevë, Bujanovc, Medvegjë, u nënshtrohen të njëjtave procedura dhe kritere si dhe kandidatët shqiptarë brenda territorit të vendit.

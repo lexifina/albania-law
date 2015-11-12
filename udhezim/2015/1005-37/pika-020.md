@@ -1,0 +1,4 @@
+20. Kandidati, i cili ka kryer studimet në një institucion privat të arsimit të lartë, të cilit i është hequr licenca, dhe kërkon të vijojë studimet dhe të njohë kreditet e përfituara më parë, dorëzon një kërkesë për regjistrim në një program studimi të njëjtë apo të ngjashëm të të njëjtit cikël e tipologji, në IAL-në private ku aplikon për t’u regjistruar, të shoqëruar me dokumentacionin si më poshtë:
+a) Dokumentacionin e parashikuar në pikën 10 dhe 11 të këtij udhëzimi, respektivisht për regjistrimin në programe studimi të ciklit të parë dhe të ciklit të dytë të studimeve;
+b) Listën e notave dhe krediteve të fituara për çdo lëndë dhe detyrim të shlyer, e cila do të shërbejë për njohjen dhe ekuivalentimin e notave dhe krediteve të lëndëve të shlyera më parë;
+c) Numrin e matrikullimit që ka pasur në IAL-në nga ku transferohet.

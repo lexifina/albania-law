@@ -1,0 +1,3 @@
+9. Për regjistrim në IAL-të private aplikojnë në ciklin e dytë të studimeve, në programe të licencuara nga MAS-i, të gjithë kandidatët të cilët përveç përcaktimeve në pikën 8 të këtij udhëzimi përmbushin një nga kriteret e mëposhtme:
+a) kanë përfunduar në Republikën e Shqipërisë me sukses studimet dhe janë pajisur me diplomën përkatëse, në një program të ciklit të parë “Bachelor” ose në një program të integruar të studimeve të ciklit të dytë, i cili rezulton i akredituar në momentin e diplomimit të studentit;
+b) janë diplomuar jashtë vendit në një program studimi të ciklit të parë “Bachelor” ose në një program të integruar të studimeve të ciklit të dytë dhe kanë kryer njësimin e diplomës pranë MAS.

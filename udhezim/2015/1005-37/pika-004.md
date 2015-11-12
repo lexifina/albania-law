@@ -1,0 +1,1 @@
+4. Në momentin e aplikimit kandidati nënshkruan dokumentin e parashikuar në shtojcën nr.1 në prezencë të punonjësit të sekretarisë mësimore që pranon aplikimin, i cili kundërfirmos dokumentin. Kjo deklaratë ruhet në dosjen personale të studentit.

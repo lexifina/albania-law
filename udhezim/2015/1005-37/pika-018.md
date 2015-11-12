@@ -1,0 +1,2 @@
+18. Aplikojnë për transferimin e studimeve në zbatim të këtij udhëzimi të gjithë studentët të cilët kanë ndjekur studimet e tyre në një IAL publike apo private në Republikën e Shqipërisë apo jashtë saj:
+a) Kandidatët që kanë ndjekur një program studimi në Republikën e Shqipërisë në një IAL publike ose që kanë ndjekur një program studimi të akredituar në një IAL private, si dhe kandidatët që kanë ndjekur një program studimi jashtë vendit, në një institucion të arsimit të lartë të akredituar në vendin e origjinës, si institucion dhe si program studimi.
