@@ -1,0 +1,1 @@
+6. Në rastet kur vlerësimi i këshillit të prindërve apo i komisionit të shërbimit psikosocial nuk është pozitiv për cilësinë e shërbimit arsimor të ofruar nga mësuesi gjatë periudhës së provës, drejtori i institucionit arsimor ndërpret marrëdhëniet e punës me mësuesin.

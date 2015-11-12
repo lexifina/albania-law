@@ -1,0 +1,1 @@
+7. Kandidatët nuk mund të refuzojnë më shumë se tri vende pune të lira në tri njoftime të njëpasnjëshme të komisionit. Në rast se refuzojnë më shumë se tri vende, kandidatët hiqen nga lista e renditjes.

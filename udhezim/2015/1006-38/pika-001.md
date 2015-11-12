@@ -1,0 +1,1 @@
+1. Procedurat për emërimin dhe largimin nga puna të mësuesit administrohen nga njësitë arsimore vendore, institucionet arsimore e përfaqësues të prindërve dhe udhëhiqen nga parimet e ligjshmërisë e të përgjegjshmërisë, si dhe nga vlerat e profesionalizmit, transparencës, meritës, barazisë dhe interesit më të lartë të nxënësve.
