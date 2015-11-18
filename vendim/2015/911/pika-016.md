@@ -1,0 +1,1 @@
+16. Vendimet e njësive bazë të qeverisjes vendore dhe vendimet e institucioneve publike të arsimit të lartë bëhen publike për studentët, komunitetin, median dhe institucionet e tjera vendore apo qendrore, në faqen elektronike.
