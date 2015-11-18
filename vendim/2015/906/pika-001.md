@@ -1,0 +1,1 @@
+1. Ministrisë së Financave, në buxhetin e miratuar për vitin 2015, t’i shtohet fondi prej 12 000 000 (dymbëdhjetë milionë) lekësh, për shpenzime korrente, në programin “Menaxhimi i të ardhurave tatimore”.

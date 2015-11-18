@@ -1,0 +1,1 @@
+4. Rregullat e organizimit e të funksionimit të lojës, kategoritë e përfituesve, masa e përfitimit për çdo kategori dhe specifikime të tjera për këtë lojë rregullohen sipas legjislacionit në fuqi për lojërat e fatit.

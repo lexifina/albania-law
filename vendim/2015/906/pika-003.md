@@ -1,0 +1,1 @@
+3. Fondi i përmendur në pikën 1 të përdoret nga Drejtoria e Përgjithshme e Tatimeve për përballimin e shpenzimeve administrative dhe çmimeve fituese të lojës promocionale, të quajtur “Loja e kuponit tatimor”, që do të organizohet nga data 15.11.2015-31.12.2015, në kuadër të nismës kundër informalitetit.
