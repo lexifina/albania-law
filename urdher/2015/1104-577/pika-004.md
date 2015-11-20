@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Gjendjes Civile të kryejë evidentimin e rasteve të përcaktuara në pikën 3, të këtij urdhri, dhe në bashkëpunim me kryetarët e bashkive, të fillojë procedurën e emërimit sipas kësaj rregulloreje.
