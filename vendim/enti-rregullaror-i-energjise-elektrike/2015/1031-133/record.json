@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12632,
+  "title": "Për përcaktimin e pagesave të rregullimit për vitin 2015 për tё licencuarit në sektorin e energjisë elektrike.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "133",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2015-10-31",
+  "published": "2015-11-20",
+  "in_force": "2015-11-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/1869afc3adbc48d08ee66022351044cf9e7a091abfa1f815e48644b8379411b8.docx",
+  "source_sha256": "1869afc3adbc48d08ee66022351044cf9e7a091abfa1f815e48644b8379411b8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12632",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/10/31/133",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    67190
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
