@@ -1,0 +1,1 @@
+1. Miratimin e metodologjisë kombëtare të procesit të vlerësimit të ndikimit në mjedis, ku përcaktohen metodikat dhe kërkesat për hartimin e raporteve të vlerësimit të ndikimit në mjedis, sipas dokumentit bashkëlidhur këtij vendimi.
