@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12630,
+  "title": "Për miratimin e rregullave të ankandit të zyrës së koordinuar të ankandeve për Evropën Juglindore (SEE CAO), versioni 1.2.",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "131",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2015-10-31",
+  "published": "2015-11-20",
+  "in_force": "2015-11-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/69f0568904ede99532ecc5b7120104624b71419fb7bdc0b53cc4b56dde4a5763.docx",
+  "source_sha256": "69f0568904ede99532ecc5b7120104624b71419fb7bdc0b53cc4b56dde4a5763",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12630",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/10/31/131",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    12637
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
