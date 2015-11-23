@@ -1,0 +1,1 @@
+3. Ekspozimi jashtë territorit të Republikës së Shqipërisë të bëhet në përputhje me udhëzimin nr.2, datë 18.3.2004, të Këshillit të Ministrave, “Për lëvizjen e objekteve të trashëgimisë kulturore të luajtshme, me vlera të veçanta kombëtare dhe unikale, për restaurimin, studimin dhe ekspozimin jashtë territorit të Republikës së Shqipërisë”.
