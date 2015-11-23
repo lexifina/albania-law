@@ -1,1 +1,0 @@
-1. Rrjeti rrugëve rurale, i cili, sipas vendimit nr.405, datë 8.1.1996, të Këshillit të Ministrave, është administruar nga ish-këshillat e rretheve, të kalojë në administrimin e këshillave të qarqeve.

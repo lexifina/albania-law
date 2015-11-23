@@ -1,1 +1,0 @@
-2. Strukturat e njësive ekonomike (ndërmarrjet/sektorët e rrugëve rurale), të ngritura për administrimin e këtij rrjeti rrugor, në bazë rrethi, së bashku me objektet në përdorim, punonjësit, pajisjet, makineritë dhe fondet përkatëse, të kalojnë në përgjegjësi të këshillave të qarqeve.
