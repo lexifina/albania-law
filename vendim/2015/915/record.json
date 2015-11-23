@@ -1,0 +1,29 @@
+{
+  "qbz_id": 64933,
+  "title": "Për transferimin në pronësi, nga këshillat e qarqeve te bashkitë, të rrjetit të rrugëve rurale dhe të aseteve të luajtshme e të paluajtshme të ndërmarrjeve të mirëmbajtjes së këtyre rrugëve.",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "915",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-11-11",
+  "published": "2015-11-23",
+  "in_force": "2015-11-23",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/59217773a234fdddca76f8b77852f223bca9b9290d079d3cd815f550cfcf4c00.docx",
+  "source_sha256": "59217773a234fdddca76f8b77852f223bca9b9290d079d3cd815f550cfcf4c00",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64933",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/11/11/915",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    25575,
+    55454
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
