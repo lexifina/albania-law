@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për zbatimin e marrëveshjes së bashkëpunimit, datë 2.8.2013, “Për identifikimin dhe regjistrimin në shkollë të të gjithë fëmijëve të moshës së detyrimit shkollor”, sipas tekstit bashkëlidhur këtij urdhri.
