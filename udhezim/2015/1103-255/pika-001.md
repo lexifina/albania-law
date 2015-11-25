@@ -1,0 +1,1 @@
+1. Servituti në punimet minerare nëntokësore horizontale, që i përkasin një zone tjetër ekzistuese të lejuar minerare, krijohet vetëm me marrëveshje mes palëve ndërmjet zotëruesit të lejes minerare ekzistuese, në të cilën gjenden punimet nëntokësore horizontale dhe zotëruesit të lejes minerare, i cili kërkon të përfitojë servitutin për bërë të mundur arritjen e trupit minerar.
