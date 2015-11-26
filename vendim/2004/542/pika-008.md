@@ -1,1 +1,0 @@
-8. Në rastet e daljes në lirim sipas shkronjave “b” e “d” të pikës 1 të nenit 25 të ligjit nr.9171, datë 22.1.2004 “Për gradat dhe karrierën ushtarake në Forcat e Armatosura të Republikës së Shqipërisë”, ish-ushtraku me gradë madhore nuk përfiton sipas këtij vendimi.
