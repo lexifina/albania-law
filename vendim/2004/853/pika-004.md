@@ -1,1 +1,0 @@
-4. Afati i vlefshmërisë së lejes për import dhe eksport të lëndëve piroteknike, fishekzjarre, për përdorim civil, është 1-vjeçar, ndërsa afati i vlefshmërisë së lejes për prodhimin e këtyre lëndëve, për përdorim civil, është 5-vjeçar, me të drejtë rinovimi. Procedura e rinovimit të lejes është e njëjtë me atë të dhënies së saj.

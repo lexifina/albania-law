@@ -1,1 +1,0 @@
-13. Të ardhurat e siguruara nga dhënia e lejeve, sipas këtij vendimi, të përdoren në përputhje me vendimin nr.424, datë 9.7.1998 të Këshillit të Ministrave “Për krijimin dhe administrimin e të ardhurave që krijojnë institucionet buxhetore”.

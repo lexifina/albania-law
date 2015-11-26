@@ -1,1 +1,0 @@
-9. Lëndët piroteknike, fishekzjarre, për përdorim civil, importohen në Republikën e Shqipërisë vetëm pasi të jenë kontrolluar nga personat e autorizuar nga komisioni i dhënies së lejeve të lëndëve piroteknike, fishekzjarre, sipas procedurave të konformitetit.
