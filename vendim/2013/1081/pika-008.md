@@ -1,1 +1,2 @@
-8. Përbërja, mënyra e funksionimit dhe detyrat e hollësishme të sekretariatit teknik përcaktohen me urdhër të ministrit të Energjisë dhe Industrisë.
+8. Përbërja, mënyra e funksionimit dhe detyrat e hollësishme të grupit teknik i ekspertëve përcaktohen me urdhër të ministrit të Energjisë dhe Industrisë.
+Çdo anëtar i grupit teknik të ekspertëve, në varësi të ngarkesës, angazhohet deri në 3 (tri) ditë pune në javë, me qëllim përmbushjen e detyrave të caktuara. Titullarët e institucioneve, që dërgojnë anëtarë në grupin teknik të ekspertëve, marrin të gjitha masat e nevojshme për vënien në dispozicion të këtyre nëpunësve.

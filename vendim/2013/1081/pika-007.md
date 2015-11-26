@@ -1,4 +1,4 @@
-7. Komisioni Ndërinstitucional për Projektin TAP ndihmohet nga sekretariati teknik, i cili ka këto detyra kryesore:
+7. Komisioni Ndërinstitucional për projektin TAP ndihmohet nga grupi teknik i ekspertëve, i cili është përgjegjës për detyrat operative në lidhje me zbatimin e projektit TAP dhe zhvillimin e tregut të gazit në Shqipëri. Grupi teknik i ekspertëve ka këto detyra kryesore:
 - përgatitjen e takimeve të këtij Komisioni;
 - raportimin periodik në mbledhjet e këtij Komisioni mbi realizimin e detyrave të përcaktuara në mbledhjet e mëparshme ose që janë në zbatim të marrëveshjeve, të përcaktuara në pikën 3 të këtij vendimi;
 - bashkërendimin e punës ndërmjet institucioneve për zbatimin e detyrave të këtij Komisioni, si dhe monitorimin e zbatimit të këtyre detyrave;
