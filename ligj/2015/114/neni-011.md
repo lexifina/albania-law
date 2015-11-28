@@ -1,0 +1,9 @@
+# Neni 11
+Punësimi i audituesit të brendshëm
+1. Njësia e auditimit të brendshëm përbëhet nga auditues të brendshëm, që punësohen në përputhje me dispozitat e legjislacionit në fuqi për nëpunësin civil, si dhe në përputhje me dispozitat e Kodit të Punës në njësitë publike që nuk janë pjesë e shërbimit civil.
+2. Përveç kushteve të përgjithshme, të parashikuara nga legjislacioni në fuqi për punonjësit që punësohen në njësinë e auditimit të brendshëm, kërkohet plotësimi i kushteve të posaçme si më poshtë:
+a) të kenë diplomë universitare të nivelit të dytë në shkencat ekonomike, juridike dhe disiplina të tjera, sipas nevojave të sektorit që auditohet;
+b) drejtuesi i njësisë së auditimit të brendshëm duhet të jetë i certifikuar si “Auditues i brendshëm” dhe të ketë përvojë pune 5 vjet si auditues i brendshëm ose i jashtëm;
+c) audituesi i brendshëm duhet të jetë i certifikuar si “Auditues i brendshëm” dhe të ketë përvojë pune 5 vjet në profesion ose si auditues i brendshëm apo i jashtëm;
+ç) punonjësi, që nuk zotëron certifikatën si “Auditues i brendshëm”, por ka përvojë pune 3 vjet në profesion, punësohet në njësinë e auditimit të brendshëm dhe gjatë 2 viteve të para punon nën mbikëqyrjen e eprorit të drejtpërdrejtë. Brenda kësaj periudhe ky punonjës duhet t’i nënshtrohet detyrimisht procedurës së certifikimit si “Auditues i brendshëm”. Në rast se brenda këtij afati punonjësi nuk certifikohet si “Auditues i brendshëm”, punonjësit i ndërpriten marrëdhëniet e punës në njësinë e auditimit të brendshëm, të cilat konsiderohen se janë ndërprerë për shkak të këtij ligji.
+3. Punonjësit e strukturës përgjegjëse për harmonizimin e auditimit të brendshëm punë-sohen në përputhje me përcaktimet e legjisla-cionit në fuqi për nëpunësin civil dhe sipas përcak-timeve të shkronjave “b” dhe “c”, të pikës 2, të këtij neni.
