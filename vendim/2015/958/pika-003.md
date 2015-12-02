@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “tokë bujqësore” dhe “ullishte”, me një vlerë të përgjithshme prej 2 753 800 (dy milionë e shtatëqind e pesëdhjetë e tre mijë e tetëqind) lekësh.
