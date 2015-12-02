@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit nr. TF019164, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (IBRD), që vepron si Administratore e fondeve grant, të siguruara nga Federata Ruse, në kuadër të Fondit të Mirëbesimit për Menaxhimin e Financave Publike për Evropën dhe Azinë Qendrore, për financimin e projektit “Përmirësimi i kontrollit të pajtueshmërisë dhe rritja e transparencës në prokurimin publik në Shqipëri”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
