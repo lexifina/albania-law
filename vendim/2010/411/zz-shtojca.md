@@ -1,2 +1,0 @@
-# Shtojca
-NR. SERIAL: 180 000 000
