@@ -1,16 +1,20 @@
-L I G J
+LIGJ*[^fn1]
 
-Nr.9062, datë 8.5.2003
+Nr. 9062, datë 8.5.2003
 
 KODI I FAMILJES
 
+(Ndryshuar me ligjin nr. 134/2015, datë 5.12.2015)
+
+							(I përditësuar)
+
 Në mbështetje të neneve 53, 54, 81 dhe 83 pika 1 të Kushtetutës, me propozimin  e Këshillit të Ministrave,
 
-K U V E N D I
+KUVENDI
 
 I REPUBLIKËS SË SHQIPËRISË
 
-V E N D O S I:
+VENDOSI:
 
 PJESA E PARË
 
@@ -74,9 +78,9 @@ Pëlqimi i bashkëshortëve
 
 Martesa lidhet para nëpunësit të gjendjes civile, me pëlqimin e lirë të dy bashkëshortëve të ardhshëm.
 
-Neni 9
-
 Ndalimet për lidhjen e martesës
+
+Neni 9
 
 Nuk mund të lidhë martesë të re personi që është martuar, derisa martesa e mëparshme nuk është shpallur e pavlefshme ose nuk është zgjidhur.
 
@@ -102,19 +106,19 @@ Neni 14
 
 Ndalohet martesa midis birësuesit e të birësuarit dhe pasardhësve të tyre, të birësuarit dhe bashkëshortit të birësuesit, midis birësuesit e bashkëshortit të të birësuarit, midis të birësuarve, si dhe midis të birësuarit dhe fëmijëve të birësuesit. 
 
-Me birësimin nuk zhduket shkaku që ndalon martesën midis të birësuarit dhe gjinisë së tij të parashikuar nga neni 10 i këtij Kodi.
+	Me birësimin nuk zhduket shkaku që ndalon martesën midis të birësuarit dhe gjinisë së tij të parashikuar nga neni 10 i këtij Kodi.
 
 KREU II
 
 FORMA E LIDHJES SË MARTESËS
 
-Neni 15
-
 Shpallja e martesës
+
+Neni 15
 
 Përpara lidhjes së martesës, nëpunësi i gjendjes civile bën shpalljen e saj, duke afishuar në vende të caktuara nga bashkia ose komuna aktin, ku tregohet identiteti, profesioni, vendbanimi dhe vendqëndrimi i bashkëshortëve të ardhshëm, si dhe vendi ku do të lidhet martesa.
 
-Neni 16
+ Neni 16
 
 Kërkesa për shpallje bëhet nga bashkëshortët e ardhshëm ose nga personi i caktuar nga ata me prokurë të posaçme.
 
@@ -136,9 +140,9 @@ Neni 19
 
 Personi që kërkon shpalljen duhet t’i paraqesë nëpunësit të gjendjes civile certifikatat e lindjes së të dy bashkëshortëve të ardhshëm, si dhe çdo dokument tjetër që është i nevojshëm dhe provon se nuk ekzistojnë pengesa për lidhjen e martesës. 
 
-Neni 20
-
 Kundërshtimet e lidhjes së martesës
+
+Neni 20
 
 Prindërit dhe, në mungesë të tyre, paraardhësit e tjerë dhe të afërmit në vijë të tërthortë deri në shkallë të tretë, mund të kundërshtojnë lidhjen e martesës së të afërmve të tyre për çdo shkak që vjen në kundërshtim me kushtet e parashikuara në këtë Kod për lidhjen e martesës.
 
@@ -186,15 +190,15 @@ Neni 27
 
 Në qoftë se kundërshtimi nuk pranohet, kundërshtuesit, me përjashtim të paraardhësve, mund të detyrohen me dëmshpërblim, sipas dispozitave përkatëse të Kodit Civil.
 
-Neni 28
-
 Lidhja e martesës
+
+Neni 28
 
 Martesa lidhet publikisht përpara nëpunësit të gjendjes civile, të cilit i është bërë kërkesa për shpallje.
 
 Neni 29
 
-Me kërkesë të prokurorit të vendit ku lidhet martesa e bashkëshortëve të ardhshëm, gjykata, për shkaqe me rëndësi, mund të vendosë që martesa të lidhet edhe pa u shpallur. 
+Me kërkesë të prokurorit të vendit ku lidhet martesa e bashkë-shortëve të ardhshëm, gjykata, për shkaqe me rëndësi, mund të vendosë që martesa të lidhet edhe pa u shpallur. 
 
 Neni 30
 
@@ -218,9 +222,9 @@ KREU III
 
 PAVLEFSHMËRIA E MARTESËS
 
-Neni 33
-
 Shkaqet e pavlefshmërisë
+
+Neni 33
 
 Martesa që është lidhur pa pëlqimin e lirë dhe pa vese të të dy bashkëshortëve ose të njërit prej tyre është e pavlefshme.
 
@@ -246,7 +250,7 @@ Martesa e lidhur në kushtet kur njëri nga bashkëshortët gjendet nën ndikimi
 
 Neni 38
 
-Kërkesa për pavlefshmërinë e martesës, në rastet e parashikuara në nenet 34 dhe 37 të këtij Kodi, parashkruhet kur ka pasur një bashkëjetesë të vazhdueshme për 6 muaj që nga çasti që bashkëshorti ka fituar lirinë e plotë ose nga çasti që gjendja e kanosjes ka mbaruar dhe ai ka marrë dijeni për lajthimin. 
+	Kërkesa për pavlefshmërinë e martesës, në rastet e parashikuara në nenet 34 dhe 37 të këtij Kodi, parashkruhet kur ka pasur një bashkëjetesë të vazhdueshme për 6 muaj që nga çasti që bashkëshorti ka fituar lirinë e plotë ose nga çasti që gjendja e kanosjes ka mbaruar dhe ai ka marrë dijeni për lajthimin. 
 
 Neni 39
 
@@ -324,7 +328,9 @@ Fëmijët e lindur nga një martesë që shpallet e pavlefshme, quhen si të lin
 
 TITULLI II
 
-TË DREJTAT DHE DETYRIMET QË LINDIN NGA MARTESA
+TË DREJTAT DHE DETYRIMET QË LINDIN 
+
+NGA MARTESA
 
 KREU I
 
@@ -474,15 +480,15 @@ Secili nga bashkëshortët mund t’i japë të drejtën bashkëshortit tjetër 
 
 Mandati i përfaqësimit mund të revokohet në çdo kohë.
 
-Neni 69
+Forma e kontratës
 
-Forma e Kontratës
+Neni 69
 
 Kontrata martesore bëhet me akt noterial, në prani dhe me pëlqimin e njëkohshëm të dy bashkëshortëve të ardhshëm ose të përfaqësuesve të tyre.
 
 Në çastin e nënshkrimit të kontratës, noteri i lëshon palëve një akt noterial, i cili përmban identitetin e plotë, adresën e bashkëshortëve të ardhshëm dhe datën e lidhjes së kontratës.
 
-Noteri ka detyrimin të depozitojë kopje të kontratës në zyrën e gjendjes civile para lidhjes së martesës.
+	Noteri ka detyrimin të depozitojë kopje të kontratës në zyrën e gjendjes civile para lidhjes së martesës.
 
 Në qoftë se në aktin e martesës tregohet se bashkëshortët nuk kanë lidhur kontratë, ata do të konsiderohen kundrejt të tretëve si të martuar nën regjimin pasuror martesor të bashkësisë ligjore.
 
@@ -508,9 +514,9 @@ KREU  II
 
 REGJIMI PASUROR MARTESOR NË BASHKËSI
 
-Neni 73
-
 Bashkësia ligjore
+
+Neni 73
 
 Regjimi pasuror martesor i bashkësisë ligjore zbatohet kur bashkëshortët nuk kanë lidhur kontratë për regjim tjetër pasuror martesor.
 
@@ -540,9 +546,9 @@ Neni 76
 
 Pasuria e bashkëshortëve prezumohet si e përbashkët, me përjashtim të rastit kur bashkëshorti provon karakterin e saj vetjak.
 
-Neni 77
-
 Pasuria vetjake
+
+Neni 77
 
 Pasuri vetjake e bashkëshortit që nuk bën pjesë në bashkësi është:
 
@@ -566,9 +572,9 @@ Bashkësia mund të përfitojë kompensim, pas mbarimit të saj, për të ardhur
 
 Kërkesa për kompensim duhet të paraqitet nga bashkëshorti i interesuar para mbarimit të procedurës të ndarjes së pasurisë.
 
-Neni 79
-
 E drejta e kompensimit
+
+Neni 79
 
 Pasuria e fituar në shkëmbim të një pasurie, e cila i përkiste individualisht njërit prej bashkëshortëve, është pasuri vetjake, me përjashtim të kompensimit që i bëhet bashkësisë ose e kundërta, kur nga shkëmbimi rezulton të ketë diferenca. 
 
@@ -578,9 +584,9 @@ Neni 80
 
 Të ardhurat e përfituara, si pasojë e një ankandi ose forme tjetër, të një pasurie të paluajtshme, ku njëri nga bashkëshortët është bashkëpronar në pjesë të pandarë, nuk përbën pasuri të fituar gjatë martesës, me përjashtim të kompensimit që duhet t’i bëhet bashkësisë për shpenzimin që ajo ka bërë. 
 
-Neni 81
-
 Detyrimet mbi bashkësinë
+
+Neni 81
 
 Bashkëshortët përgjigjen mbi pasurinë në bashkësi:
 
@@ -608,7 +614,7 @@ Bashkëshortët përgjigjen mbi pasurinë në bashkësi deri në gjysmën e vler
 
 a) detyrimeve që ai ka marrë përsipër vetëm për administrimin e pasurisë në bashkësi, jashtë kufijve të tagrave të tij të administrimit;
 
-detyrimeve të tij vetjake, cilido qoftë çasti i lindjes së tyre.
+b) detyrimeve të tij vetjake, cilido qoftë çasti i lindjes së tyre.
 
 Paragrafi i mësipërm nuk zbatohet, nëse ka pasur mashtrim nga bashkëshorti debitor dhe keqbesim nga kreditori.
 
@@ -620,9 +626,9 @@ Neni 86
 
 Të ardhurat vetjake të një bashkëshorti nuk mund të preken nga kreditorët e bashkëshortit tjetër, vetëm nëse detyrimi ka qenë i kontraktuar për mirëmbajtjen e banesës dhe të familjes, sipas nenit 81 të këtij Kodi.
 
-Neni 87
-
 Detyrimet e kontraktuara veçmas nga bashkëshortët
+
+Neni 87
 
 Në rastin kur detyrimi është kontraktuar në interesin vetjak të njërit prej bashkëshortëve dhe ai është shlyer nga pasuria në bashkësi, bashkëshorti përfitues detyrohet të bëjë kompensimin e bashkësisë.
 
@@ -634,7 +640,9 @@ Bashkësia ka të drejtën për kompensim nëse detyrimi që bashkësia ka shlye
 
 Neni 89
 
-Detyrimet solidare të bashkëshortëve me pasurinë në bashkësi
+Detyrimet solidare të bashkëshortëve me pasurinë 
+
+në bashkësi
 
 Kur një detyrim vjen në bashkësi për shkak të njërit bashkëshort, ai nuk mund të kërkohet mbi pasuritë vetjake të bashkëshortit tjetër. Nëse ka detyrime solidare të të dy bashkëshortëve, ai mund të kërkohet mbi pasurinë në bashkësi.
 
@@ -714,9 +722,9 @@ Pjesëtimi i pasurisë
 
 Pjesëtimi i pasurisë në bashkësi mund të kërkohet në gjykatë në rast paaftësie dhe administrimit të keq të njërit prej bashkëshortëve, kur mënyra e administrimit të pasurisë prej tij vë në rrezik interesat e bashkëshortit tjetër ose të familjes, ose kur njëri nga bashkëshortët nuk kontribuon për nevojat e familjes, në proporcion me gjendjen e tij dhe me aftësinë për punë dhe kur ka ndodhur një pjesëtim faktik i pasurisë në bashkësi.
 
-Ndarja e pasurisë mund të kërkohet nga njëri prej bashkëshortëve ose nga përfaqësuesi i tij ligjor. Kreditorët e njërit bashkëshort nuk mund të kërkojnë vetë ndarjen e pasurisë.
+	Ndarja e pasurisë mund të kërkohet nga njëri prej bashkëshortëve ose nga përfaqësuesi i tij ligjor. Kreditorët e njërit bashkëshort nuk mund të kërkojnë vetë ndarjen e pasurisë.
 
-Vendimi i gjykatës për ndarjen ka fuqi që nga data kur është paraqitur kërkesa dhe i vendos bashkëshortët nën regjimin e pasurive martesore të ndara, të parashikuar në këtë Kod. 
+	Vendimi i gjykatës për ndarjen ka fuqi që nga data kur është paraqitur kërkesa dhe i vendos bashkëshortët nën regjimin e pasurive martesore të ndara, të parashikuar në këtë Kod. 
 
 Neni 99
 
@@ -730,9 +738,9 @@ Kërkesa dhe vendimi i ndarjes së pasurisë duhet të depozitohen pranë zyrës
 
 Vendimi shënohet në regjistrin e gjendjes civile, si dhe në origjinalin e kontratës së martesës. 
 
-Neni 101
-
 Kompensimet
+
+Neni 101
 
 Secili nga bashkëshortët duhet të kompensojë shumat e marra nga pasuria në bashkësi, që janë përdorur për qëllime të ndryshme nga ai i përmbushjes së detyrimeve të parashikuara në nenin 81 të këtij Kodi.
 
@@ -742,15 +750,15 @@ Kompensimet dhe kthimet realizohen në çastin e mbarimit të bashkësisë.
 
 Gjykata mund të autorizojë dhe të urdhërojë për ato në çdo çast nëse e kërkon dhe e lejon interesi i familjes. 
 
-Neni 103
-
 Pjesëtimi i pasurisë në bashkësi
+
+Neni 103
 
 Pjesëtimi i pasurisë në bashkësinë ligjore bëhet duke u nisur nga barazia e aktivit dhe pasivit të saj.
 
- Pasi të jenë zbritur nga bashkësia detyrimet që ajo ka ndaj bashkëshortëve ose të tretëve, pasuria që mbetet ndahet në pjesë të barabarta midis bashkëshortëve.
+ 	Pasi të jenë zbritur nga bashkësia detyrimet që ajo ka ndaj bashkëshortëve ose të tretëve, pasuria që mbetet ndahet në pjesë të barabarta midis bashkëshortëve.
 
-Gjykata, në bazë të nevojave të fëmijëve dhe nga fakti se kujt do t’i besohen ata, mund të vendosë në favor të një bashkëshorti kalimin e një pjese të pasurisë së bashkësisë që i takon bashkëshortit tjetër.
+	Gjykata, në bazë të nevojave të fëmijëve dhe nga fakti se kujt do t’i besohen ata, mund të vendosë në favor të një bashkëshorti kalimin e një pjese të pasurisë së bashkësisë që i takon bashkëshortit tjetër.
 
 Neni 104
 
@@ -762,9 +770,9 @@ Neni 105
 
 Në fillim të procedurës së pjesëtimit të pasurisë në bashkësi, bashkëshortët ose trashëgimtarët e tyre kanë të drejtë të marrin pasurinë e luajtshme vetjake, që u përkiste para bashkësisë ose që ata e kanë fituar gjatë bashkësisë në formë trashëgimie ose dhurimi. Në mungesë të provave të kundërta prezumohet se pasuria e luajtshme bën pjesë në bashkësi.
 
-Neni 106
-
 Marrja e vlerës në rast të mungesës së pasurisë së luajtshme
+
+Neni 106
 
 Nëse pasuria e luajtshme nuk ekziston në natyrë, bashkëshorti ose trashëgimtarët e tij kanë të drejtë të marrin vlerën e saj duke zbritur amortizimin e tij nga përdorimi në bashkësi, me kusht që mungesa e pasurisë të ketë ardhur për shkak të konsumit për përdorim, për shkak të shkatërrimit ose humbjes së saj ose për çdo shkak që nuk mund t’i kundërvihet bashkëshortit tjetër.
 
@@ -784,9 +792,9 @@ Bashkëshortët mund të bien dakord që:
 
 a) bashkësia të përfshijë pasuritë e luajtshme para martesës dhe fitimet nga pasuritë vetjake gjatë martesës;
 
-të ndryshohen rregullat lidhur me administrimin;
+b) të ndryshohen rregullat lidhur me administrimin;
 
-të kenë pjesë jo të barabarta; 
+c) të kenë pjesë jo të barabarta; 
 
 ç)  të ketë ndërmjet tyre bashkësi universale. 
 
@@ -808,9 +816,9 @@ Administrimi i përbashkët
 
 Bashkëshortët mund të bien dakord që ta administrojnë së bashku bashkësinë. Në këtë rast, aktet e administrimit dhe të disponimit të pasurisë së bashkësisë bëhen me nënshkrimin e përbashkët të dy bashkëshortëve dhe përmbajnë  detyrimin solidar të tyre.
 
-Neni 112
-
 Pjesët jo të barabarta
+
+Neni 112
 
 Bashkëshortët, në kontratën e martesës, mund të bien dakord  të caktojnë pjesë jo të barabarta për pasurinë në bashkësi, ndryshe nga bashkësia ligjore.
 
@@ -818,7 +826,7 @@ Neni 113
 
 Në rastet kur bashkëshortët, në kontratën e martesës, kanë përcaktuar pjesë jo të barabarta në bashkësi, ata ose trashëgimtarët e tyre i përballojnë detyrimet në raport me pasurinë që kanë në bashkësi ose që kanë përfituar nga bashkësia.
 
-Çdo klauzolë e kontratës është e pavlefshme nëse detyron bashkëshortin me pjesë të kufizuar ose trashëgimtarët e tij të përballojnë një detyrim më të madh se pjesa e tyre në bashkësi ose të përjashtohen nga përballimi i detyrimit të tyre në raport me këtë pjesë.
+	Çdo klauzolë e kontratës është e pavlefshme nëse detyron bashkëshortin me pjesë të kufizuar ose trashëgimtarët e tij të përballojnë një detyrim më të madh se pjesa e tyre në bashkësi ose të përjashtohen nga përballimi i detyrimit të tyre në raport me këtë pjesë.
 
 Neni 114
 
@@ -846,9 +854,9 @@ Bashkëshortët kontribuojnë në detyrimet që rrjedhin nga martesa, sipas për
 
 Në rast se kontrata e martesës nuk përmban asgjë lidhur me detyrimet që rrjedhin nga martesa, bashkëshortët kontribuojnë sipas nenit 54  të këtij Kodi.
 
-Neni 117
-
 Administrimi i pasurisë
+
+Neni 117
 
 Në rast se gjatë martesës, njëri nga bashkëshortët i beson tjetrit administrimin e pasurisë së tij, zbatohen rregullat e përfaqësimit.
 
@@ -874,7 +882,7 @@ Neni 120
 
 Me mbarimin e martesës për shkak të vdekjes së njërit bashkëshort, pjesëtimi i  pasurisë ndërmjet bashkëshortëve me regjime pasurish të ndara, për sa i përket formës, ruajtjes së pandarë të sendit të papjesëtueshëm, radhës së preferencave, shitjes në ankand të sendeve të papjesëtueshme, efekteve të ndarjes, garancisë dhe diferencave, i nënshtrohet rregullave të trashëgimisë për ndarjen midis trashëgimtarëve.
 
-Të njëjtat rregulla zbatohen dhe pas zgjidhjes së martesës, me përjashtim të radhës së preferencave. Mund të vendoset që  diferenca e mundshme të paguhet me para në dorë. 
+	Të njëjtat rregulla zbatohen dhe pas zgjidhjes së martesës, me përjashtim të radhës së preferencave. Mund të vendoset që  diferenca e mundshme të paguhet me para në dorë. 
 
 Neni 121
 
@@ -884,7 +892,7 @@ Neni 122
 
 E drejta e parashikuar në nenin 121 i kalon trashëgimtarëve të bashkëshortit të vdekur, vetëm nëse njihet në kontratë ose për shkak të vazhdimit të një gjykimi të filluar.
 
-Kjo e drejtë parashkruhet me kalimin e 2 vjetëve nga mbarimi ose shpallja e pavlefshme e martesës.
+	Kjo e drejtë parashkruhet me kalimin e 2 vjetëve nga mbarimi ose shpallja e pavlefshme e martesës.
 
 TITULLI  IV
 
@@ -932,9 +940,9 @@ Në rast se gjykata konstaton se marrëveshja nuk siguron në mënyrë të mjaft
 
 Në qoftë se  edhe pas  afatit të parashikuar në paragrafin e parë nuk janë bërë rregullimet e duhura, gjykata refuzon miratimin dhe rrëzon kërkesën për zgjidhjen e martesës me pëlqim reciprok të bashkëshortëve.
 
-Neni 129
-
 Zgjidhja e martesës për ndërprerje të jetesës së përbashkët
+
+Neni 129
 
 Secili nga bashkëshortët mund të kërkojë zgjidhjen e martesës për shkak të ndërprerjes së jetesës së përbashkët kur bashkëshortët jetojnë të ndarë faktikisht që prej 3 vjetësh. 
 
@@ -942,7 +950,7 @@ Nëse është rasti, bashkëshorti që kërkon zgjidhjen e martesës, sipas para
 
 Neni 130
 
-Gjykata mund të rrëzojë padinë për zgjidhjen e martesës për shkak të ndërprerjes së jetesës së përbashkët, kur bashkëshorti tjetër provon se zgjidhja e martesës do të ketë pasoja veçanërisht të rënda morale dhe materiale për fëmijët ose bashkëshortin tjetër. Padia mund të ringrihet për të njëtat shkaqe nëse ekzistojnë rrethana të reja.
+Gjykata mund të rrëzojë padinë për zgjidhjen e martesës për shkak të ndërprerjes së jetesës së përbashkët, kur bashkëshorti tjetër provon se zgjidhja e martesës do të ketë pasoja veçanërisht të rënda morale dhe materiale për fëmijët ose bashkëshortin tjetër. Padia mund të ringrihet për të njëjtat shkaqe nëse ekzistojnë rrethana të reja.
 
 Neni 131
 
@@ -950,9 +958,9 @@ Ndërprerja e jetesës së përbashkët mund të paraqitet si shkak për zgjidhj
 
 Bashkëshorti i paditur ka të drejtë të paraqesë kundërpadi. Në këtë rast, gjykata mund të rrëzojë padinë dhe të pranojë kundërpadinë, duke zgjidhur martesën.
 
-Neni 132
-
 Zgjidhja e martesës me kërkesën e njërit bashkëshort
+
+Neni 132
 
 Secili nga bashkëshortët mund të kërkojë zgjidhjen e martesës kur, për shkak të grindjeve të vazhdueshme, të keqtrajtimeve, fyerjeve të rënda, shkeljes së besnikërisë bashkëshortore, sëmundjes mendore të pashërueshme, dënimit penal të rëndë të bashkëshortit ose për çdo shkak tjetër që përbën shkelje të përsëritur të detyrimeve që rrjedhin nga martesa, jetesa e përbashkët bëhet e pamundur dhe martesa ka humbur qëllimin e saj për bashkëshortin paditës ose për të dy bashkëshortët. 
 
@@ -960,9 +968,9 @@ Neni 133
 
 Gjykata vendos për fajësinë, në zgjidhjen e martesës, vetëm kur kjo kërkohet prej njërit ose të dy bashkëshortëve. 
 
-Neni 134
-
 Përpjekjet për pajtim
+
+Neni 134
 
 Në shqyrtimin e padisë për zgjidhjen e martesës, gjykata cakton fillimisht një seancë pajtimi, në të cilën duhet të paraqiten personalisht bashkëshortët.
 
@@ -974,7 +982,7 @@ Neni 135
 
 Në rast se në seancën e pajtimit nuk paraqitet paditësi, ndonëse ka pasur dijeni rregullisht, gjyqtari i vetëm vendos pushimin e gjykimit të çështjes.
 
-Kur nuk paraqitet i padituri, ndonëse ka pasur dijeni rregullisht, gjyqtari shtyn seancën e pajtimit, duke i përsëritur njoftimin të paditurit. Nëse edhe në këtë seancë i padituri nuk paraqitet pa ndonjë shkak të arsyeshëm, gjyqtari, pasi dëgjon paditësin dhe krijon bindje se pajtimi i bashkëshortëve nuk mund të arrihet, cakton seancën gjyqësore, duke urdhëruar thirrjen e provave të nevojshme.
+	Kur nuk paraqitet i padituri, ndonëse ka pasur dijeni rregullisht, gjyqtari shtyn seancën e pajtimit, duke i përsëritur njoftimin të paditurit. Nëse edhe në këtë seancë i padituri nuk paraqitet pa ndonjë shkak të arsyeshëm, gjyqtari, pasi dëgjon paditësin dhe krijon bindje se pajtimi i bashkëshortëve nuk mund të arrihet, cakton seancën gjyqësore, duke urdhëruar thirrjen e provave të nevojshme.
 
 Neni 136
 
@@ -1010,9 +1018,9 @@ E drejta e padisë për zgjidhjen e martesës nuk u kalon trashëgimtarëve. Në
 
  Në këtë rast, bashkëshorti pasjetues gëzon të drejtën për të trashëguar bashkëshortin e vdekur.
 
-Neni 141
-
 E drejta e ngritjes së padisë nga kujdestari
+
+Neni 141
 
 Kur bashkëshortit i është hequr zotësia për të vepruar ose për arsye të tjera është vënë në kujdestari, padia për zgjidhjen e martesës mund të ngrihet nga kujdestari i tij. 
 
@@ -1022,7 +1030,7 @@ Në rastin kur bashkëshorti i pazotë për të vepruar ndodhet në kujdestarin�
 
 Neni 142
 
-Në rastin e burgimit të bashkëshortit, e drejta e ngritjes së padisë për zgjidhjen e martesës mund të ushtrohet nga kujdestari ose përfaqësuesi ligjor, vetëm pasi të ketë marrë autorizimin e bashkëshortit që vuan dënimin me burgim. 
+	Në rastin e burgimit të bashkëshortit, e drejta e ngritjes së padisë për zgjidhjen e martesës mund të ushtrohet nga kujdestari ose përfaqësuesi ligjor, vetëm pasi të ketë marrë autorizimin e bashkëshortit që vuan dënimin me burgim. 
 
 Neni 143
 
@@ -1056,9 +1064,9 @@ Bashkëshorti që me lidhjen e martesës ka ndryshuar mbiemrin e tij, pas zgjidh
 
 Gjykata, me kërkesën e bashkëshortit dhe kur është në interes të tij ose të fëmijëve, mund të lejojë që ai të mbajë mbiemrin që ka marrë me  lidhjen e martesës.
 
-Neni 147
-
 Kontributi kompensues
+
+Neni 147
 
 Gjykata mund të detyrojë njërin nga ish-bashkëshortët të derdhë për llogari të tjetrit një kontribut të destinuar për të kompensuar sa të jetë e mundur pabarazinë që mund të shkaktojë në jetën e tjetrit ndarja e pasurisë në zgjidhjen e martesës, përveç detyrimit për ushqim. 
 
@@ -1070,13 +1078,13 @@ Kontributi kompensues caktohet sipas nevojave të ish-bashkëshortit përfitues 
 
 Kohëzgjatja e dhënies së kontributit kompensues caktohet nga gjykata, sipas nevojave të ish-bashkëshortit përfitues.
 
-Nëse ish-bashkëshorti përfitues lidh martesë të re, kontributi kompensues ndërpritet.
+	Nëse ish-bashkëshorti përfitues lidh martesë të re, kontributi kompensues ndërpritet.
 
 Neni 149
 
 Në përcaktimin e nevojave dhe të burimeve, gjykata merr në konsideratë:
 
-moshën dhe gjendjen shëndetësore të ish-bashkëshortëve;
+a) moshën dhe gjendjen shëndetësore të ish-bashkëshortëve;
 
 b) kohën e shpenzuar dhe atë që i duhet të shpenzojnë për edukimin e fëmijëve;
 
@@ -1084,7 +1092,7 @@ c) kualifikimin e tyre profesional;
 
 ç) predispozitën e tyre për punë të reja;
 
-të drejtat që ata gëzojnë dhe ato që parashikohen për të ardhmen; 
+d) të drejtat që ata gëzojnë dhe ato që parashikohen për të ardhmen; 
 
 dh) pasurinë e tyre, si kapital ose si e ardhur, pas likuidimit të regjimit pasuror martesor.
 
@@ -1120,9 +1128,9 @@ Në këto raste gjykata përcakton afatin e përdorimit dhe masën e qirasë që
 
 Në çdo rast gjykata mund të zgjidhë kontratën e qirasë, në qoftë se kjo justifikohet nga rrethana të reja.
 
-Neni 154
-
 Pasojat e zgjidhjes së martesës për fëmijët
+
+Neni 154
 
 Zgjidhja e martesës nuk prek të drejtat dhe detyrimet që kanë prindërit ndaj fëmijëve të tyre, me përjashtim të rasteve të parashikuara në këtë Kod.
 
@@ -1130,7 +1138,7 @@ Neni 155
 
 Para se gjykata të marrë një vendim të përkohshëm ose përfundimtar lidhur me mënyrën e ushtrimit të përgjegjësisë prindërore, të drejtës së vizitës ose të besuarit të fëmijës njërit ish-bashkëshort, duhet të thërrasë një psikolog ose punonjës social, i cili, para se të japë mendimin, duhet të marrë të dhëna për gjendjen materiale dhe morale të familjes, kushtet në të cilat jetojnë dhe ku është më e përshtatshme të jetojë fëmija.
 
-Në rast se gjykata arrin në konkluzionin se fëmija, përkohësisht, duhet t’i besohet një personi të tretë ose një familjeje kujdestare, duhet të marrë mendimin e sektorit të ndihmës dhe shërbimeve sociale pranë bashkisë së vendit ku zhvillohet gjykimi.
+	Në rast se gjykata arrin në konkluzionin se fëmija, përkohësisht, duhet t’i besohet një personi të tretë ose një familjeje kujdestare, duhet të marrë mendimin e sektorit të ndihmës dhe shërbimeve sociale pranë bashkisë së vendit ku zhvillohet gjykimi.
 
 Neni 156
 
@@ -1140,7 +1148,7 @@ Neni 157
 
 Gjyqtari, në këtë rast, merr në konsideratë:
 
-marrëveshjen e bërë ndërmjet ish-bashkëshortëve;
+a) marrëveshjen e bërë ndërmjet ish-bashkëshortëve;
 
 b) mendimin dhe ndjenjat e shprehura nga fëmija i mitur, duke vlerësuar moshën dhe zhvillimin e tij;
 
@@ -1172,9 +1180,9 @@ TITULLI V
 
 BASHKËJETESA
 
-Neni 163
-
 Kuptimi i bashkëjetesës
+
+Neni 163
 
 Bashkëjetesa është një bashkim fakti midis burrit dhe gruas që jetojnë në çift, e karakterizuar nga një jetë e përbashkët, që paraqet një karakter stabiliteti dhe vazhdueshmërie. 
 
@@ -1220,9 +1228,9 @@ Njohja e amësisë dhe atësisë së fëmijës të lindur jashtë martese
 
 Amësia dhe atësia e fëmijës së lindur jashtë martese mund të vendosen me anë të njohjes vullnetare ose nëpërmjet një vendimi gjyqësor dhe për prindërit krijon të drejta dhe detyrime të njëjta, në mënyrë prapavepruese, si për fëmijët e lindur nga martesa.
 
-Neni 171
-
 Mbiemri i fëmijës së lindur jashtë martese
+
+Neni 171
 
 Fëmija i lindur jashtë martese  merr mbiemrin e prindit, amësia ose atësia e të cilit është vendosur më përpara. Në qoftë se amësia dhe atësia vendosen në të njëjtën kohë, prindërit  vendosin me marrëveshje se cilin mbiemër do të mbajë fëmija.  Në rast mosmarrëveshjeje, fëmijës i vendoset mbiemri i të atit.
 
@@ -1236,7 +1244,7 @@ Kundërshtimi i njohjes
 
 Njohja mund të kundërshtohet nga të gjithë personat që kanë një interes të ligjshëm  dhe që kanë dijeni se njohja e bërë është e pavërtetë. Kundërshtimi mund të bëhet edhe nga personi që ka bërë njohjen, kur ajo është bërë në kushtet e mashtrimit ose kanosjes.
 
- Të drejtën e kundërshtimit të njohjes e ka edhe prokurori, në rast se, nga të dhënat që figurojnë në aktet e gjendjes civile, rezulton pavërtetësia e amësisë dhe atësisë së deklaruar.
+ 	Të drejtën e kundërshtimit të njohjes e ka edhe prokurori, në rast se, nga të dhënat që figurojnë në aktet e gjendjes civile, rezulton pavërtetësia e amësisë dhe atësisë së deklaruar.
 
 Neni 174
 
@@ -1246,15 +1254,15 @@ Vendimi i gjykatës që përcakton amësinë ose atësinë ka efekt që nga lind
 
 KREU II
 
-Neni 175
-
 Amësia
+
+Neni 175
 
 Amësia e fëmijës vërtetohet me aktin e lindjes.
 
-Neni 176
-
 Njohja e amësisë
+
+Neni 176
 
 Kur fëmija është regjistruar në aktin e lindjes me prindër të panjohur, nëna mund ta njohë fëmijën. Njohjen e fëmijës mund ta bëjë edhe vetë nëna e mitur. 
 
@@ -1306,9 +1314,9 @@ Fëmija që ka lindur brenda 300 ditëve nga zgjidhja e martesës ose nga shpall
 
 Kur fëmija ka lindur gjatë vazhdimit të martesës së dytë të nënës, prezumohet se ka për atë bashkëshortin e nënës me martesë të dytë, edhe sikur fëmija të ketë lindur brenda 300 ditëve nga zgjidhja e martesës së parë ose nga shpallja e pavlefshmërisë së saj.
 
-Neni 181
-
 Njohja e atësisë
+
+Neni 181
 
 Atë i fëmijës së lindur jashtë martese është personi madhor që e njeh fëmijën si të tij.
 
@@ -1336,9 +1344,9 @@ E drejta e padisë nuk parashkruhet.
 
 Padia për vërtetimin e atësisë mund të ngrihet edhe kundër trashëgimtarëve të atij që kërkohet të vërtetohet se ishte i ati i fëmijës.
 
-Neni 184
-
 Kundërshtimi i atësisë së prezumuar
+
+Neni 184
 
 Burri, që sipas nenit 180 të këtij Kodi, prezumohet se është atë i një fëmije, mund të kundërshtojë atësinë e këtij fëmije.
 
@@ -1362,9 +1370,9 @@ Padia për kundërshtimin e atësisë mund të ngrihet edhe kundër trashëgimta
 
 E drejta e padisë nuk parashkruhet. 
 
-Neni 187
-
 Kundërshtimi i njohjes së atësisë
+
+Neni 187
 
 Fëmija, kur bëhet madhor, mund të kundërshtojë që të jetë i ati i tij burri që e ka njohur.
 
@@ -1380,9 +1388,9 @@ Kjo padi mund të ngrihet edhe kundër trashëgimtarëve të burrit që ka njohu
 
 E drejta e padisë parashkruhet me kalimin e 1 viti nga regjistrimi i atësisë në regjistrin e gjendjes civile.
 
-Neni 189
-
 Vërtetimi i atësisë së fëmijës të lindur jashtë martese
+
+Neni 189
 
 Atësia e një fëmije të lindur jashtë martese mund të vërtetohet me vendim të gjykatës, në rast se gjatë gjykimit provohet se në kohën e zënies së fëmijës i ati bashkëjetonte me nënën e fëmijës, ose ka kryer marrëdhënie seksuale me apo pa  dhunë, ose i ka premtuar martesë, ose nga një gjykim penal apo civil rezulton në mënyrë të drejtpërdrejtë ose tërthorazi atësia e fëmijës së lindur jashtë martese, si dhe kur dihet publikisht se ai e ka njohur fëmijën si të tijin.
 
@@ -1410,13 +1418,13 @@ Detyrim për ushqim kanë, sipas radhës:
 
 a) bashkëshorti ndaj bashkëshortit tjetër dhe fëmijët ndaj prindërve të tyre;
 
-prindërit ndaj fëmijëve të tyre;
+b) prindërit ndaj fëmijëve të tyre;
 
 c) të paslindurit ndaj të paralindurve të tyre, që nuk janë prindër, sipas radhës më të afërt; 
 
 ç) të paralindurit ndaj të paslindurve të tyre, që nuk janë fëmijë të tyre, sipas radhës më të afërt;
 
-d) vëllezërit dhe motrat ndaj vëllezërve dhe motrave të tyre, sipas radhës më të afërt;
+d) vëllezërit dhe motrat ndaj vëllezërve dhe motrave të tyre, sipas radhës më të afërt.
 
 Neni 193
 
@@ -1430,11 +1438,11 @@ Detyrimi midis njerkut, njerkës dhe thjeshtërve të tyre
 
 Kanë detyrim për ushqim edhe njerku e njerka ndaj thjeshtërve të tyre të mitur, përveç rasteve kur këta kanë persona të tjerë që kanë detyrimin për ushqim ndaj tyre dhe janë në gjendje ta japin këtë detyrim.
 
-Thjeshtërit kanë detyrimin për ushqim për njerkun dhe njerkën e tyre, kur këta ia kanë dhënë për një kohë të gjatë këtë detyrim dhe janë kujdesur për ta në mituri, jo më pak se 10 vjet. në këtë rast thjeshtërit ngarkohen me dhënien e detyrimit për ushqim njëlloj si ndaj prindërve të tyre. 
+	Thjeshtërit kanë detyrimin për ushqim për njerkun dhe njerkën e tyre, kur këta ia kanë dhënë për një kohë të gjatë këtë detyrim dhe janë kujdesur për ta në mituri, jo më pak se 10 vjet. në këtë rast thjeshtërit ngarkohen me dhënien e detyrimit për ushqim njëlloj si ndaj prindërve të tyre. 
 
 Neni 195
 
-Detyrimi për ushqim pushon në qoftë se martesa ndërmjet prindit dhe njerkës ose njerkut është zgjidhur.
+	Detyrimi për ushqim pushon në qoftë se martesa ndërmjet prindit dhe njerkës ose njerkut është zgjidhur.
 
 Neni 196
 
@@ -1444,15 +1452,15 @@ Kur personat e ngarkuar për dhënien e detyrimit për ushqim nuk janë në gjen
 
  Prindërit nuk shkarkohen nga detyrimi për ushqim ndaj fëmijëve të tyre, edhe sikur t’u jetë hequr përgjegjësia  prindërore. 
 
-Neni 197
-
 Detyrimi për ushqim ndërmjet prindërve dhe fëmijëve
+
+Neni 197
 
 Prindërit kanë detyrimin për ushqim ndaj fëmijëve të tyre, kur këta nuk kanë mjete të mjaftueshme për të jetuar.
 
-Një fëmijë i mitur mund t’u kërkojë prindërve të tij detyrimin për ushqim edhe kur ka pasuri, kur të ardhurat nga pasuria dhe nga puna e tij nuk i përmbushin nevojat e tij.  
+	Një fëmijë i mitur mund t’u kërkojë prindërve të tij detyrimin për ushqim edhe kur ka pasuri, kur të ardhurat nga pasuria dhe nga puna e tij nuk i përmbushin nevojat e tij.  
 
-Detyrimi për ushqim vazhdon edhe për kohën që fëmijët madhorë ndjekin shkollën e mesme ose të lartë, deri në moshën njëzetepesë vjeç.
+Detyrimi për ushqim vazhdon edhe për kohën që fëmijët madhorë ndjekin shkollën e mesme ose të lartë, deri në moshën njëzet e pesë vjeç.
 
 Neni 198
 
@@ -1464,7 +1472,7 @@ Detyrimi ndërmjet bashkëshortëve
 
 Bashkëshorti që është i paaftë për punë dhe pa mjete të mjaftueshme për të jetuar, ka të drejtë të kërkojë detyrimin për ushqim nga  bashkëshorti tjetër.
 
-Detyrimi për ushqim kërkohet në të njëjtën kohë me padinë për zgjidhjen e martesës.
+	Detyrimi për ushqim kërkohet në të njëjtën kohë me padinë për zgjidhjen e martesës.
 
  Kjo kërkesë mund të paraqitet edhe brenda 6 muajve, nga data që vendimi për zgjidhjen e martesës ka marrë formë të prerë, me kusht që paaftësia dhe mungesa e mjeteve të mjaftueshme për të jetuar të kenë ekzistuar gjatë martesës.
 
@@ -1476,9 +1484,9 @@ Detyrimi për ushqim, sipas nenit 199 të këtij Kodi, caktohet për një kohë 
 
 Ky detyrim pushon para këtij afati, kur bashkëshorti, që e gëzonte këtë të drejtë, lidh martesë të re ose bëhet i aftë për punë, ose siguron mjete të mjafueshme për të jetuar, ose kur gjykata, duke marrë parasysh rrethanat, çmon se nuk është i denjë për të përfituar nga kjo e drejtë.
 
-Neni 201
-
 Kufijtë e detyrimit për ushqim
+
+Neni 201
 
 Detyrimi për ushqim mund të kërkohet vetëm nga ai që është nevojtar dhe nuk është në gjendje të sigurojë nevojat e domosdoshme të tij.
 
@@ -1496,21 +1504,21 @@ Detyrimi për ushqim midis vëllezërve dhe motrave kufizohet vetëm në nevojat
 
 Këtu mund të përfshihen edhe shpenzimet e edukimit dhe arsimimit, kur bëhet fjalë për vëllezërit dhe motrat e mitura.
 
-Neni 204
-
 Konkurrimi i të detyruarve
+
+Neni 204
 
 Nëse për dhënien e detyrimit për ushqim ka shumë të detyruar të së njëjtës shkallë, të gjithë janë të detyruar solidarisht në dhënien e këtij detyrimi, secili në raport me mundësitë e tij ekonomike.
 
-Nëse personat e thirrur në një shkallë të mëparshme nuk janë në gjendje që ta përballojnë plotësisht ose pjesërisht detyrimin për ushqim, ky u kalon plotësisht ose pjesërisht personave të thirrur në një shkallë të mëpasme.
+	Nëse personat e thirrur në një shkallë të mëparshme nuk janë në gjendje që ta përballojnë plotësisht ose pjesërisht detyrimin për ushqim, ky u kalon plotësisht ose pjesërisht personave të thirrur në një shkallë të mëpasme.
 
 Neni 205
 
-Nëse personat e detyruar nuk bien dakord për kufijtë e detyrimit për ushqim, për shpërndarjen dhe mënyrën e dhënies së tij, sipas rrethanave konkrete, vendos gjykata. 
-
-Neni 206
+	Nëse personat e detyruar nuk bien dakord për kufijtë e detyrimit për ushqim, për shpërndarjen dhe mënyrën e dhënies së tij, sipas rrethanave konkrete, vendos gjykata. 
 
 Konkurrimi i personave që marrin detyrimin për ushqim
+
+Neni 206
 
 Kur disa persona marrin detyrimin për ushqim nga i njëjti person i detyruar dhe  kur ky i fundit nuk është në gjendje të përballojë nevojat e secilit prej tyre, gjykata vendos detyrimin për ushqim, duke marrë parasysh shkallën e afërsisë dhe  nevojat që ka secili prej personave që merr këtë detyrim. 
 
@@ -1540,11 +1548,11 @@ Personi që ka detyrimin për ushqim ka të drejtën e zgjedhjes për përmbushj
 
 Gjykata, sipas rrethanave, përcakton mënyrën e dhënies së detyrimit për ushqim.
 
-Në rast nevoje urgjente, gjykata vendos detyrimin për ushqim në ngarkim të njërit prej personave të detyruar. Në këtë rast, personi i detyruar ruan të drejtën e padisë së regresit ndaj personave të tjerë.
-
-Neni 210
+	Në rast nevoje urgjente, gjykata vendos detyrimin për ushqim në ngarkim të njërit prej personave të detyruar. Në këtë rast, personi i detyruar ruan të drejtën e padisë së regresit ndaj personave të tjerë.
 
 Fillimi i detyrimit për ushqim
+
+Neni 210
 
 Detyrimi për ushqim fillon nga data e ngritjes së padisë.
 
@@ -1552,7 +1560,7 @@ Pakësimi ose heqja e detyrimit për ushqim, të caktuar me vendim të formës s
 
 Neni 211
 
-Kur një vendim, që përmban një detyrim për ushqim, vihet në ekzekutim pas 6 muajve nga data që ka marrë formë të prerë, detyrimet e prapambetura për ushqim janë të kërkueshme vetëm për 6 muajt e fundit.
+	Kur një vendim, që përmban një detyrim për ushqim, vihet në ekzekutim pas 6 muajve nga data që ka marrë formë të prerë, detyrimet e prapambetura për ushqim janë të kërkueshme vetëm për 6 muajt e fundit.
 
 Neni 212
 
@@ -1560,15 +1568,15 @@ Pushimi i detyrimit për ushqim
 
 Detyrimi për ushqim pushon me vdekjen e personit të detyruar, personit që e përfiton atë, edhe sikur ky detyrim, që përmbahet në një vendim të formës së prerë, të mos jetë ekzekutuar.
 
-Ndalimi i kompensimit dhe i zëvendësimit të detyrimit për ushqim
+Ndalimi i kompensimit dhe i zëvendësimit të detyrimit 
+
+për ushqim
 
 Neni 213
 
-Ndalimi i kompensimit dhe i zëvendësimit të detyrimit për ushqim
-
 E drejta për të kërkuar detyrimin për ushqim nuk mund t’i kalojë një personi tjetër.
 
-Personi që ka detyrimin për ushqim nuk mund të kërkojë që ky detyrim të shlyhet me një kredi që ka ndaj personit që e përfiton atë, edhe sikur të ketë detyrime të prapambetura për ushqim.
+	Personi që ka detyrimin për ushqim nuk mund të kërkojë që ky detyrim të shlyhet me një kredi që ka ndaj personit që e përfiton atë, edhe sikur të ketë detyrime të prapambetura për ushqim.
 
 Neni 214
 
@@ -1576,7 +1584,7 @@ Heqja dorë
 
 Heqja dorë nga e drejta për të marrë detyrimin për ushqim për kohën e ardhshme është e pavlefshme.
 
-          TITULLI  III
+TITULLI  III
 
 PËRGJEGJËSIA PRINDËRORE
 
@@ -1636,11 +1644,11 @@ Neni 223
 
 Humbja e përgjegjësisë prindërore
 
-Prindërit e fëmijës mund të humbasin përgjegjësinë prindërore nëpërmjet një vendimi penal që i ka dënuar ata si autorë ose si bashkëpuntorë për një vepër penale ndaj fëmijës së tyre, si bashkëpunëtorë në një vepër penale të kryer nga fëmija i tyre ose nëse janë dënuar për ndonjë nga shkaqet e braktisjes së familjes, për sa kohë që ata nuk kanë marrë përsipër detyrimet që kanë ndaj saj. 
-
-Neni 224
+Prindërit e fëmijës mund të humbasin përgjegjësinë prindërore nëpërmjet një vendimi penal që i ka dënuar ata si autorë ose si bashkëpunëtorë për një vepër penale ndaj fëmijës së tyre, si bashkëpunëtorë në një vepër penale të kryer nga fëmija i tyre ose nëse janë dënuar për ndonjë nga shkaqet e braktisjes së familjes, për sa kohë që ata nuk kanë marrë përsipër detyrimet që kanë ndaj saj. 
 
 Pamundësia e ushtrimit të përgjegjësisë prindërore
+
+Neni 224
 
 Në qoftë se prindërit e fëmijës kanë vdekur, janë në pamundësi të ushtrojnë përgjegjësinë prindërore për shkak të pazotësisë për të vepruar, të mungesës ose për arsye veçanërisht të rënda, fëmija mund t’i besohet një anëtari të familjes, një personi të caktuar si kujdestar, një familjeje kujdestare ose edhe një institucioni të përkujdesjes.
 
@@ -1666,9 +1674,9 @@ Me kërkesë të të atit, të nënës ose të prokurorit, gjykata mund të ndry
 
 Gjykata vendos për të drejtën e vizitës dhe të mbikëqyrjes së prindit, me të cilin fëmija nuk banon. 
 
-Neni  228
-
 Heqja e përgjegjësisë prindërore
+
+Neni  228
 
 Kur prindi shpërdoron përgjegjësinë prindërore ose tregon pakujdesi të rëndë në ushtrimin e saj, ose me veprimet e tij ndikon në mënyrë të dëmshme në edukimin e fëmijëve, me kërkesën e prindit tjetër, të të afërmve të fëmijës ose të prokurorit, mund t’i hiqet përgjegjësia prindërore. 
 
@@ -1690,9 +1698,9 @@ KREU  III
 
 PËRGJEGJËSIA PRINDËRORE PËR PASURINË E FËMIJËS
 
-Neni 231
-
 Përfaqësimi dhe administrimi
+
+Neni 231
 
 Prindërit e fëmijës kanë të drejtën  e administrimit dhe të përdorimit të pasurisë së fëmijës së tyre.
 
@@ -1762,9 +1770,9 @@ Interesi i të miturit
 
 Birësimi lejohet vetëm në rast se është në interesin e lartë të të miturit dhe garanton respektimin e të drejtave të tij themelore.
 
-Neni 241
-
 Kushtet e birësimit
+
+Neni 241
 
 Birësohet vetëm i mituri.
 
@@ -1778,9 +1786,9 @@ I mituri nuk mund të birësohet nga shumë persona, përveç rastit kur ata jan
 
 Birësimi i ri lejohet pas vdekjes së birësuesit ose të birësuesve apo pas vdekjes së njërit prej birësuesve, në qoftë se kërkesa është paraqitur nga bashkëshorti i ri i birësuesit.
 
-Neni 243
-
 Ndalimet e birësimit
+
+Neni 243
 
 Nuk mund të birësohet një person nga të paralindurit e tij, si edhe vëllai nga motra dhe anasjelltas.
 
@@ -1798,9 +1806,9 @@ b) vuan nga një sëmundje psikike ose ka zhvillim mendor të metë, si dhe vuan
 
 c) nuk ka garancinë si person, se do të kryejë në rregull detyrën e birësuesit në lidhje me mirërritjen, edukimin dhe arsimimin e atij që do të birësohet.
 
-Neni 246
-
 Pëlqimi për birësim
+
+Neni 246
 
 Për birësimin e të miturit kërkohet pëlqimi i të dy prindërve të tij.
 
@@ -1838,19 +1846,25 @@ Trashëgimtarët e birësuesit mund të paraqesin në gjykatë pretendime për t
 
 Nëse birësimi pranohet nga gjykata, ai sjell efekte që nga çasti i dhënies së pëlqimit nga birësuesi.
 
+Deklarimi i braktisjes
+
 Neni 250
 
-Deklarimi i braktisjes
+(Ndryshuar me ligjin nr. 134/2015, datë 5.12.2015)
 
 Gjykata e rrethit mund të deklarojë të braktisur të miturin që ndodhet pranë një institucioni të përkujdesjes sociale, publik ose privat, ose te personi që e ka në përkujdesje, kur prindërit e tij, në mënyrë të dukshme, nuk janë interesuar për të gjatë një viti, përpara paraqitjes së kërkesës për deklarimin e braktisjes.
 
-Kur i mituri ka qenë strehuar që nga lindja e tij në një institucion, afati prej 1 viti kufizohet në 3 muaj.
+Kur i mituri ka qenë strehuar që nga lindja e tij në një institucion, afati prej 1 viti kufizohet në 3 muaj dhe fillon nga data e lindjes.
 
-Konsiderohen në mënyrë të dukshme të painteresuar për fëmijën prindërit që vullnetarisht nuk kanë mbajtur marrëdhënie të përzemërta të nevojshme për rritjen e tij dhe që kanë treguar pakujdesi të rëndë në ushtrimin e  përgjegjësisë prindërore.
+Kur i mituri është gjetur i braktisur jashtë institucioneve të përkujdesjes sociale publike ose private, spitaleve apo materniteteve publike apo private, afati prej 1 viti kufizohet në 3 muaj dhe fillon nga momenti i gjetjes së tij.
 
-Gjykata i kërkon personit që ka paraqitur kërkesën shpjegime nëse ka bërë përjekje për gjetjen e prindërve biologjikë të fëmijës dhe kthimin e fëmijës në familjen biologjike, nëse kjo është e mundur. 
+Kur i mituri është lënë nën kujdesin e institucioneve të përkujdesjes sociale, publike ose private, përfshirë spitalet publike ose private, nëpërmjet një deklarate noteriale të prindërve biologjikë për dhënien e tij për birësim, afati prej një viti kufizohet në 6 muaj dhe fillon që nga momenti i lënies së të miturit. 
 
-Braktisja nuk deklarohet kur, gjatë afatit të parashikuar në paragrafin e parë të këtij neni, një anëtar i familjes ka kërkuar të marrë përsipër rritjen e fëmijës dhe kjo kërkesë është konsideruar në përputhje me interesin e fëmijës.
+Konsiderohen në mënyrë të dukshme të painteresuar për fëmijën prindërit që vullnetarisht nuk kanë mbajtur marrëdhënie të përzemërta të nevojshme për rritjen e tij dhe që kanë treguar pakujdesi të rëndë në ushtrimin e  përgjegjësisë prindërore.
+
+Gjykata i kërkon personit që ka paraqitur kërkesën shpjegime nëse ka bërë përjekje për gjetjen e prindërve biologjikë të fëmijës dhe kthimin e fëmijës në familjen biologjike, nëse kjo është e mundur. Të tilla përpjekje nuk janë të nevojshme në rastin kur fëmija është lënë nën kujdesin e institucioneve të përkujdesjes sociale publike ose private, përfshirë spitalet publike ose private, nëpërmjet një deklarate noteriale të prindërve biologjikë për dhënien e tij për birësim.
+
+Braktisja nuk deklarohet kur një gjykatë tjetër ka pranuar kërkesën e një të afërmi të fëmijës për caktimin si kujdestar të tij. Nëse gjykimi i një kërkese të tillë nuk ka përfunduar, gjykata pezullon shqyrtimin e kërkesës për deklarimin e braktisjes deri në përfundimin e tij.
 
 Neni 251
 
@@ -1868,7 +1882,7 @@ Personat që dëshirojnë të birësojnë të mitur shqiptarë mund të birësoj
 
 Komiteti Shqiptar i Birësimit është autoritet qendror i pavarur, veprimtaria e të cilit rregullohet me ligj të veçantë.
 
-            Shtetasit e huaj nuk mund t’i drejtohen drejtpërdrejt Komitetit Shqiptar të Birësimit. 
+Shtetasit e huaj nuk mund t’i drejtohen drejtpërdrejt Komitetit Shqiptar të Birësimit. 
 
 Kërkesa e tyre i paraqitet Komitetit Shqiptar të Birësimit  nëpërmjet autoriteteve publike kompetente ose organizmave privatë të parashikuar në ligj. Kërkesa dhe dokumentet që e shoqërojnë duhet të jenë të përkthyera në gjuhën shqipe dhe të legalizuara, sipas ligjit të vendit ku jeton birësuesi.
 
@@ -1884,17 +1898,17 @@ Komiteti Shqiptar i Birësimit i dërgon gjykatës edhe pëlqimin me shkrim për
 
 Neni 254
 
-Gjykata Kompetente
+Gjykata kompetente
 
 Kërkesa për birësim, e bërë nga një shtetas shqiptar, bëhet në gjykatën e vendbanimit të personit që kërkon të birësojë.
 
- Kërkesa për birësim, e bërë nga një shtetas i huaj ose shqiptar që banon jashtë shtetit, paraqitet në gjykatën nën juridiksionin e së cilës ndodhet vendbanimi i të miturit.
+ 	Kërkesa për birësim, e bërë nga një shtetas i huaj ose shqiptar që banon jashtë shtetit, paraqitet në gjykatën nën juridiksionin e së cilës ndodhet vendbanimi i të miturit.
 
 Kërkesa për birësimin e të miturit shqiptar që banon jashtë shtetit paraqitet në gjykatën e rrethit gjyqësor Tiranë.
 
-Neni 255
-
 Ndërhyrja në proces
+
+Neni 255
 
 Çdo person që ka një interes të ligjshëm për mbrojtjen e të miturit si dhe prokurori mund të ndërhyjnë në procesin e birësimit, si dhe kanë të drejtën e ankimit kundër vendimit të gjykatës.
 
@@ -1928,17 +1942,17 @@ Birësimi është i parevokueshëm.
 
 Gjykata i dërgon vendimin e formës së prerë për regjistrim zyrës së gjendjes civile, ku ka regjistrin themeltar birësuesi.
 
-Neni 259
-
 Marrëdhëniet ndërmjet birësuesit dhe të birësuarit
+
+Neni 259
 
 Me birësimin ndërmjet birësuesit dhe gjinisë së tij, nga njëra anë, dhe të birësuarit dhe të paslindurve të tij, nga ana tjetër, lindin të drejta dhe detyra të njëjta me ato që kanë ndërmjet tyre personat që janë gjini. Të drejtat dhe detyrat ndërmjet të birësuarit dhe të paslindurve të tij, nga njëra anë, dhe gjinisë së tij, nga ana tjetër, pushojnë.
 
 Kur njëri nga prindërit e të birësuarit është bashkëshort i birësuesit, i birësuari nuk i shkëput lidhjet me këtë prind dhe gjininë e tij.
 
-Neni 260
-
 Atësia, mëmësia dhe mbiemri i të birësuarit
+
+Neni 260
 
 I birësuari merr mbiemrin e birësuesit dhe në rast të birësimit nga të dy bashkëshortët, mbiemrin e përbashkët të tyre; në qoftë se ata kanë mbiemra të ndryshëm vendosin me marrëveshje se cilin mbiemër do të mbajë i birësuari; në rast mosmarrëveshjeje fëmija merr mbiemrin e të atit.
 
@@ -1972,9 +1986,9 @@ Fëmijët e mitur vendosen në kujdestari dhe gëzojnë mbrojtje të veçantë n
 
 Gjykatë kompetente për vendosjen në kujdestari të të miturit është ajo e vendbanimit ose vendqëndrimit të të miturit.
 
-Neni 264
-
 E drejta për paraqitjen e kërkesës
+
+Neni 264
 
 Të drejtën për paraqitjen e kërkesës në gjykatë për kujdestar mbi të miturin e kanë:
 
@@ -1982,7 +1996,7 @@ a) të afërmit e fëmijës së mitur;
 
 b) cilido që merr njoftim për mbetjen e fëmijës pa prindër ose për  lindjen e një fëmije me prindër të panjohur;
 
-vetë i mituri që ka mbushur moshën katërmbëdhjetë vjeç; 
+c) vetë i mituri që ka mbushur moshën katërmbëdhjetë vjeç; 
 
 ç) prokurori;
 
@@ -1996,9 +2010,9 @@ Kujdestari i caktuar, sipas paragrafit të parë të këtij neni, nuk është i 
 
 Në rastet kur kujdestari i caktuar sipas këtij neni nuk plotëson kushtet e kërkuara nga ky Kod, kujdestaria vendoset nga gjykata.
 
-Neni 266
-
 Familja kujdestare
+
+Neni 266
 
 Familja kujdestare është një familje alternative, e vendosur nga gjykata, për t’i ofruar fëmijës një mjedis familjar, kushte për mirërritje, përkujdesje fizike dhe mbështetje emocionale. 
 
@@ -2022,7 +2036,7 @@ Njoftimi i gjykatës
 
 Nëpunësi i gjendjes civile, që merr njoftimin për vdekjen e të dy prindërve ose prindit të vetëm, që ka lënë fëmijë në moshë të mitur, ose të lindjes së një fëmije nga prindër të panjohur, dhe noteri që çel një testament, ku parashikohet caktimi i një kujdestari, duhet të njoftojnë gjykatën për faktin brenda 10 ditëve.
 
- Njoftimi i gjykatës mund të bëhet edhe nga të afërmit e të miturit ose persona të tjerë të interesuar.
+ 	Njoftimi i gjykatës mund të bëhet edhe nga të afërmit e të miturit ose persona të tjerë të interesuar.
 
 Gjykata, brenda 30 ditëve nga marrja njoftim ose nga paraqitja e kërkesës, vendos për caktimin e  kujdestarit  të  të miturit.
 
@@ -2032,9 +2046,9 @@ Kujdestaria mbi disa të mitur
 
 Për të miturit që janë vëllezër e motra caktohet një kujdestar i vetëm, përveç rastit kur rrethanat e veçanta kërkojnë domosdoshmërinë e caktimit të më shumë se një kujdestari.
 
-Neni 270
-
 Paaftësia dhe papajtueshmëria për të qenë kujdestar
+
+Neni 270
 
 Nuk mund të caktohet kujdestar personi që:
 
@@ -2062,7 +2076,7 @@ gj) nuk jep pëlqimin për të qenë kujdestar.
 
 Neni 271
 
-Kujdestaria në Institucionet e Përkujdesjes
+Kujdestaria në institucionet e përkujdesjes
 
 Kujdestaria mbi të miturin, i cili nuk ka të afërm të njohur ose të aftë për të ushtruar detyrën e kujdestarit, mund t’i jepet nga gjykata një institucioni publik ose privat të licencuar për përkujdesjen e fëmijëve. 
 
@@ -2072,7 +2086,7 @@ Drejtuesi i institucionit, brenda 10 ditëve nga caktimi i personit që merr fun
 
 Neni 272
 
-Funksionet e Kujdestarit
+Funksionet e kujdestarit
 
 Kujdestari kujdeset për të miturin, e përfaqëson atë në të gjitha veprimet juridike dhe administron pasurinë e tij, sipas dispozitave të këtij Kodi.
 
@@ -2094,13 +2108,13 @@ Gjykata vendos caktimin e një kujdestari të posaçëm kur:
 
 a) ka konflikt interesash  midis të miturit dhe prindërve ose midis të miturit dhe kujdestarit të tij, si dhe  kur midis tyre duhet të kryhet një veprim juridik;
 
-b)  ka konflikt interesash midis të miturve, vëllezër dhe motra, që kanë të njëjtin kujdestar ose kur duhet të kryhet një veprim juridik midis tyre;
+	b)  ka konflikt interesash midis të miturve, vëllezër dhe motra, që kanë të njëjtin kujdestar ose kur duhet të kryhet një veprim juridik midis tyre;
 
-c)  për shkak sëmundjeje ose për shkaqe të tjera, kujdestari i caktuar pengohet të kryejë një veprim të caktuar ose të japë pëlqimin për kryerjen e një veprimi.
-
-Neni 275
+	c)  për shkak sëmundjeje ose për shkaqe të tjera, kujdestari i caktuar pengohet të kryejë një veprim të caktuar ose të japë pëlqimin për kryerjen e një veprimi.
 
 Caktimi i kujdestarit të posaçëm
+
+Neni 275
 
 Kujdestari i posaçëm caktohet nga gjykata mbi bazën e kërkesës së prindit, të kujdestarit, së të afërmve të të miturit, të miturit që ka mbushur moshën katërmbëdhjetë vjeç dhe personave të interesuar.
 
@@ -2140,13 +2154,13 @@ Kujdestaria e posaçme mbaron kur pushojnë shkaqet për të cilat është vendo
 
 Neni 281
 
-Masa Urgjente
+Masa urgjente
 
 Përpara se kujdestari të marrë përsipër funksionet e tij, i takon gjyqtarit që, qoftë kryesisht, qoftë me kërkesë të prokurorit, të një të afërmi ose të çdo personi të interesuar, të vendosë një kujdestar të përkohshëm ose të marrë masa të tjera urgjente që janë të nevojshme për mbrojtjen e të miturit ose për të ruajtur dhe administruar pasurinë e tij. 
 
-Neni 282
-
 Inventari
+
+Neni 282
 
 Kujdestari, brenda 10 ditëve pasi ka marrë njoftimin ligjor për emërimin e tij, duhet të procedojë me inventarin e pasurisë së të miturit. Inventari duhet të bëhet brenda 30 ditëve. 
 
@@ -2158,9 +2172,9 @@ Inventari bëhet në praninë e noterit, me pjesëmarrjen e kujdestarit dhe, në
 
 Inventari depozitohet pranë gjykatës.
 
-Neni 284
+Përmbajtja e inventarit
 
-Përmbajtja e Inventarit
+Neni 284
 
 Në inventar përfshihen pasuritë e paluajtshme, të luajtshme, kreditë dhe debitë dhe përshkruhen dokumentet, shënimet dhe shkresat e lidhura me gjendjen e aktivit dhe pasivit të pasurisë, duke iu përmbajtur formaliteteve të përcaktuara në Kodin e Procedurës Civile.
 
@@ -2170,7 +2184,7 @@ Nëse në pasurinë e të miturit ka ndërmarrje, shoqëri, shoqëri tregtare os
 
 Neni 286
 
-Administrimi nga Kujdestari
+Administrimi nga kujdestari
 
 Para se të bëhet inventari, administrimi i pasurisë nga kujdestari duhet të kufizohet në çështjet që, nga vetë natyra e tyre, janë të ngutshme.
 
@@ -2192,13 +2206,13 @@ Kujdestari i posaçëm duhet t’i japë kujdestarit kopje të llogarive periodi
 
 Neni 289
 
-Deklarimi i debive ose kredive të Kujdestarit
+Deklarimi i debive ose kredive të kujdestarit
 
 Kujdestari që ka debi, kredi ose deklarime të tjera kundrejt të miturit, duhet t’i bëjë të ditura para mbylljes së inventarit.
 
 Kancelari i gjykatës ka detyrimin që ta pyesë lidhur me këto deklarime. Në rast të inventarit të bërë pa pjesëmarrjen e kancelarit të gjykatës, kujdestari pyetet nga gjyqtari lidhur me aktin e depozitimit. 
 
-Në çdo rast, fakti i pyetjes ose deklarimit të kujdestarit duhet përmendur në inventar ose në procesverbalin e depozitimit.
+	Në çdo rast, fakti i pyetjes ose deklarimit të kujdestarit duhet përmendur në inventar ose në procesverbalin e depozitimit.
 
 Neni 290
 
@@ -2258,7 +2272,7 @@ Veprimet e kryera në kundërshtim me nenet paraardhëse
 
 Çdo veprim që kujdestari kryen në kundërshtim me ligjin është i pavlefshëm.
 
-Kujdestari, i mituri, trashëgimtarët e tij ose personat që kanë interes, mund të kërkojnë pavlefshmërinë e veprimeve të kryera në kundërshtim me Kreun I të Titullit V “Kujdestaria” të këtij Kodi.
+Kujdestari, i mituri, trashëgimtarët e tij ose personat që kanë interes, mund të kërkojnë pavlefshmërinë e veprimeve të kryera në kundërshtim me kreun I të titullit V “Kujdestaria” të këtij Kodi.
 
 Neni 296
 
@@ -2274,7 +2288,7 @@ Shpërblimi i kujdestarit
 
 Detyra e kujdestarit është pa pagesë. 
 
-Gjykata, duke pasur parasysh madhësinë e pasurisë dhe vështirësitë e administrimit ose shërbimit për të miturin, mund t'i caktojë kujdestarit një kompensim të arsyeshëm nga pasuria e të miturit. 
+Gjykata, duke pasur parasysh madhësinë e pasurisë dhe vështirësitë e administrimit ose shërbimit për të miturin, mund t’i caktojë kujdestarit një kompensim të arsyeshëm nga pasuria e të miturit. 
 
 Nëse e kërkojnë rrethanat e veçanta, gjykata, pasi ka dëgjuar kujdestarin e posaçëm, mund të autorizojë kujdestarin që të caktojë si zëvendës të tij në administrim, nën përgjegjësinë e tij vetjake, një ose më shumë persona me pagesë. 
 
@@ -2284,7 +2298,7 @@ Mbajtja e kontabilitetit
 
 Kujdestari duhet të mbajë kontabilitetin e rregullt të administrimit të pasurisë dhe t’i japë llogari një herë në vit gjyqtarit. 
 
-Gjyqtari mund t'ia nënshtrojë kontabilitetin e administrimit të pasurisë shqyrtimit vjetor nga ana e kujdestarit të posaçëm ndonjë të afërmi ose një personi në lidhje krushqie me të miturin.
+Gjyqtari mund t’ia nënshtrojë kontabilitetin e administrimit të pasurisë shqyrtimit vjetor nga ana e kujdestarit të posaçëm ndonjë të afërmi ose një personi në lidhje krushqie me të miturin.
 
 Neni 299
 
@@ -2348,11 +2362,11 @@ Regjistri i kujdestarisë
 
 Në regjistrin e kujdestarisë, që ndodhet pranë gjykatës, nën përkujdesjen e kancelarit të gjykatës, regjistrohen  vendosja dhe mbarimi i kujdestarisë, përjashtimi ose shkarkimi nga detyra i kujdestarit ose kujdestarit të posaçëm, rezultatet e inventarëve dhe të llogarive, raportet vjetore të përcaktuara në nenin 302 të këtij Kodi dhe të gjitha masat që sjellin ndryshime në statusin vetjak ose pasuror të të miturit.
 
-Për vendosjen dhe mbarimin e kujdestarisë, kancelari i gjykatës njofton brenda 10 ditëve nëpunësin e gjendjes civile për të bërë shënimin në aktin e lindjes së të miturit.
+	Për vendosjen dhe mbarimin e kujdestarisë, kancelari i gjykatës njofton brenda 10 ditëve nëpunësin e gjendjes civile për të bërë shënimin në aktin e lindjes së të miturit.
 
 Neni 306
 
-Mbarimi i Kujdestarisë
+Mbarimi i kujdestarisë
 
 Kujdestaria mbaron kur fëmija:
 
@@ -2412,7 +2426,7 @@ Neni 315
 
 Bashkëpronësia e bashkëshortëve, e krijuar para hyrjes në fuqi të Kodit të Familjes, mund të ndryshojë me marrëveshje të bashkëshortëve, sipas dispozitave të këtij Kodi.
 
-Pasuria që fitohet nga bashkëshortët pas  hyrjes në fuqi të këtij Kodi, rregullohet nga ky Kod edhe për bashkëshortët që kanë lidhur martesë para hyrjes në fuqi të tij.
+	Pasuria që fitohet nga bashkëshortët pas  hyrjes në fuqi të këtij Kodi, rregullohet nga ky Kod edhe për bashkëshortët që kanë lidhur martesë para hyrjes në fuqi të tij.
 
 Neni 316
 
@@ -2430,6 +2444,8 @@ Neni 319
 
 Ky ligj hyn në fuqi gjashtë muaj pas botimit në Fletoren Zyrtare.
 
-Shpallur me dekret nr.3837, datë 17.6.2003 të Presidentit të Republikës së Shqipërisë, 
+Shpallur me dekret nr.3837, datë 17.6.2003 të Presidentit të Republikës së Shqipërisë, Alfred Moisiu
 
-Alfred Moisiu
+---
+
+[^fn1]: * Ligji nr. 9062, datë 8.5.2003 është botuar në Fletoren Zyrtare nr. 49, datë 20.6.2003. Ligji nr.134/2015, datë 5.12.2015 është botuar në Fletoren Zyrtare nr. 220, datë 22.12.2015

@@ -1,7 +1,9 @@
 # KODI I FAMILJES
 
-[Official text](tekst.md); [source and date record](record.json).
+Official source: [Ligji nr. 9062](https://qbz.gov.al/api/v1/acts/2058); [QBZ versions](https://qbz.gov.al/api/v1/acts/2058/versions).
 
-Status: as-enacted. Version 0, in force 2003-12-20, after QBZ act 2058.
+Status of this text: `official consolidated version 1`, applying from 2015-12-05; after QBZ act 12714 (nr. 134).
 
-Paragraphs and publisher annotations are preserved from the official document. Earlier checked texts are retained as separate git commits.
+[Complete official text](tekst.md); [source and date record](record.json).
+
+The publisher's annotations are kept. Earlier texts are earlier git commits of this folder.
