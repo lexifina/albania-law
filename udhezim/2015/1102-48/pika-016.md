@@ -1,0 +1,1 @@
+16. AKP-ja, brenda datës 21 dhjetor 2015 i dërgon IAL-ve publike në rrugë postare, listën me numrat e matrikullimit të studentëve. IAL-të publike çregjistrojnë studentët e papajisur me numër matrikullimi, si dhe ia komunikojnë çregjistrimin AKP-së brenda 10 ditëve nga marrja e komunikimit zyrtar nga AKP-ja me listat me numrat e matrikullimit.

@@ -1,0 +1,1 @@
+15. IAL-të publike i dërgojnë MAS-it dhe AKP-së, brenda datës 24 nëntor 2015, me shkresë zyrtare përmes postës, listën e studentëve të regjistruar, në formë shkresore dhe elektronike, në format Excel, me qëllim pajisjen me numër matrikullimi.
