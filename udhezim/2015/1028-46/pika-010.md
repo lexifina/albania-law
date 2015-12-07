@@ -1,0 +1,1 @@
+10. IAL-ja shpall në vende të dukshme, publikon në faqen e saj web, si dhe ia përcjell MAS-së elektronikisht në adresën: linda.pustina@arsimi.gov.al dhe dhimiter.bako @arsimi.gov.al, listën emërore të kandidatëve të regjistruar, brenda datës 17.11.2015.

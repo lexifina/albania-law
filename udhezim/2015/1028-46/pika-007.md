@@ -1,0 +1,1 @@
+7. Brenda orës 16:00, të datës 9.11.2015, IAL-të publike të shpallin dhe të afishojnë listat e aplikantëve fitues në vende të dukshme, në mjediset e njësive kryesore përkatëse, si dhe në faqet web të IAL-së, të ndarë sipas programeve të studimit përkatës, të renditur sipas rendit zbritës të pikëve të grumbulluara nga aplikantët, në përputhje me kuotat e pranimeve të miratuar.

@@ -1,0 +1,1 @@
+3. Aplikimet në programet e studimit të ciklit të dytë me kohë të plotë “Master profesional” dhe “Master i shkencave”/“Mater i arteve të bukura” të bëhen pranë sekretarive mësimore të njësive kryesore, nga data 29.10.2015 deri në datën 5.11.2015.
