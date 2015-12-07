@@ -1,0 +1,1 @@
+22. Për të gjitha çështjet që nuk trajtohen në këtë udhëzim merret për referencë rregullorja e specializimeve afatgjata në fushën e mjekësisë e miratuar nga ministri përgjegjës për çështjet e arsimit dhe ministri përgjegjës për çështjet e shëndetësisë.

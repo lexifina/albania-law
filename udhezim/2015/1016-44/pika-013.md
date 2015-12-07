@@ -1,0 +1,1 @@
+13. Zgjedhja e programit të specializimit afatgjatë bëhet brenda dy ditëve nga shpallja e rezultateve përfundimtare, përfshirë dhe procedurat e ankimimit, sipas afateve të përcaktuara në rregulloren e specializimeve. Të drejtën e regjistrimit si fitues e kanë aq persona sa janë edhe kuotat e caktuara në programin e specializimit përkatës, sipas rendit zbritës të pikëve totale.

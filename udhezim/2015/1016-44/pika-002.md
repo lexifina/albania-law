@@ -1,0 +1,1 @@
+2. Fakulteti i Mjekësisë, Universiteti i Mjekësisë, Tiranë, të organizojë procesin e pranimit dhe të regjistrimit të kandidatëve në specializimet afatgjata në fushën e mjekësisë. Procesi monitorohet nga Ministria e Arsimit dhe Sportit dhe Ministria e Shëndetësisë.

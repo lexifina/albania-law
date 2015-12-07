@@ -1,0 +1,1 @@
+8. Konkurrimi fillon në datën 6 nëntor 2015, me intervistimet me gojë. Rezultatet e intervistimit me gojë shpallen nga komisioni pas aprovimit nga Ddekani. Dekanati shpall rezultatet përfundimtare të intervistës me gojë në faqen e web të fakultetit përkatës dhe UMT-së, si dhe në ambientet e fakultetit dhe rektoratit brenda 2 ditëve pune nga përfundimi i intervistës me gojë.

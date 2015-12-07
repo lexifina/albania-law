@@ -1,0 +1,3 @@
+3. Kanë të drejtë të aplikojnë për programet e specializimeve afatgjata, në fushën e mjekësisë, kandidatët që:
+a) kanë përfunduar në Republikën e Shqipërisë me sukses studimet dhe janë pajisur me diplomën përkatëse, në një program të integruar të studimeve të ciklit të dytë “Master i shkencave”, si dhe kanë fituar të drejtën e ushtrimit të profesionit në Republikën e Shqipërisë;
+b) janë diplomuar jashtë vendit në një program të integruar të studimeve të ciklit të dytë “Master i shkencave” dhe kanë kryer njësimin e diplomës pranë MAS-it, si dhe kanë fituar të drejtën e ushtrimit të profesionit në Republikën e Shqipërisë.

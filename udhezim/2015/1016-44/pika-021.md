@@ -1,0 +1,1 @@
+21. Për specializantët që kanë përfituar nga kuotat e mbuluara nga Ministria e Shëndetësisë apo nga Ministri të tjera, marrëdhëniet kontraktuale financiare lidhen mes specializantit dhe ministrisë përkatëse sipas parashikimeve në rregulloren përkatëse.

@@ -1,0 +1,1 @@
+9. Testimi i informatizuar fillon në datën 9 nëntor 2015 për kandidatët që kanë kryer intervistën me gojë dhe zhvillohet në Agjencinë Kombëtare të Provimeve (AKP) sipas kalendarit të përcaktuar nga dekanati, bazuar në disponibilitetin e ambienteve të testimit të përcaktuara nga AKP-ja.
