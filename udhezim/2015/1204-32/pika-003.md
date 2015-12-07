@@ -1,0 +1,1 @@
+3. Të drejtën e përfitimit të shpërblimit, sipas parashikimeve të këtij udhëzimi, e kanë vetëm informatorët që paraqiten fizikisht pranë administratës tatimore për raportimin e shkeljeve në fushën e përdorimit të pajisjeve fiskale.

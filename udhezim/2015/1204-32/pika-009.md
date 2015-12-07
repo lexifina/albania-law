@@ -1,0 +1,1 @@
+9. Për çdo shpenzim të kryer sipas këtij kreu, punonjësi i autorizuar për të kryer transaksione paraqet dokumentet, që vërtetojnë masën e shpenzimit, të tilla si: faturë e thjeshtë tatimore, faturë jotatimore, aktkonstatimet përkatëse ose çdo dokument tjetër që provon përfshirjen e punonjësve të autorizuar në transaksione me tatimpaguesit.

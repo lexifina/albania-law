@@ -1,0 +1,1 @@
+10. Punëdhënësi mund të autorizojë përfshirjen e një punonjësi të autorizuar për të kryer transaksione, në një transaksion tjetër blerjeje malli dhe/ose shërbimi, vetëm nëse shpenzimi i kryer nga punonjësi i autorizuar është i justifikuar me dokumente provuese sipas pikës 9 të këtij kreu.

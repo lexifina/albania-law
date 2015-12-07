@@ -1,0 +1,1 @@
+7. Punonjësi i autorizuar për të kryer transaksione, në kryerjen e shpenzimeve për mallra dhe shërbime pranë tatimpaguesve, respekton detyrimet e vendosura në urdhrin e punës dhe në çdo rast kryen transaksionin për mallin/shërbimin me vlerën më të vogël sipas listës së çmimeve të afishuara në ambientet e tatimpaguesit.

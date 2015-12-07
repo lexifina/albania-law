@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave dhe të masës së shpërblimit të informatorëve të jashtëm, për shkeljet e dyshuara dhe të vërtetuara në fushën e përdorimit të pajisjeve fiskale nga subjektet tatimpaguese; dhe

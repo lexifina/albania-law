@@ -1,0 +1,1 @@
+4. Denoncimet e tjera, të bëra nëpërmjet linjës telefonike, në rrugë elektronike apo shkresore, pa paraqitjen fizike të personave, trajtohen në përputhje me rregullat në fuqi, por nuk janë objekt të përfitimit të shpërblimit monetar.

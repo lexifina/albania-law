@@ -1,0 +1,4 @@
+2. Përcaktimin e procedurës dhe masës së shpenzimit të lejuar për blerje të mallrave dhe të shërbimeve në subjektet tatimpaguese nga ana e punonjësve të administratës tatimore me qëllim verifikimin në vend të subjekteve tatimpaguese për përdorimin e pajisjeve fiskale.
+I. Marrja dhe administrimi i informacionit
+1. Informatorët e jashtëm, të cilët japin informacion pranë administratës tatimore për shkelje në fushën e përdorimit të pajisjeve fiskale nga ana e subjekteve tatimpaguese, mund të shpërblehen financiarisht sipas parashikimeve të këtij udhëzimi.
+2. Strukturat e hetimit tatimor në Drejtorinë e Përgjithshme të Tatimeve dhe në rajone dhe drejtoritë rajonale tatimore caktojnë një person kontakti (këtu e më poshtë referuar si “Punonjësi i autorizuar”), përgjegjës për regjistrimin dhe ndjekjen e denoncimeve.
