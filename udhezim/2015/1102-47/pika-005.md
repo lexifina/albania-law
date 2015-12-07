@@ -1,0 +1,1 @@
+5. Kandidatët nga Republika e Kosovës, si dhe kandidatët shqiptarë nga Maqedonia, Mali i Zi, Presheva, Bujanovci dhe Medvegja, të cilët rezultojnë fitues, regjistrohen pranë sekretarive mësimore të fakulteteve nga data 16 deri në datën 20 nëntor 2015.
