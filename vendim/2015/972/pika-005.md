@@ -1,0 +1,1 @@
+5. Sipërfaqja pyjore dhe kullosore, sipas pikës 1 të këtij vendimi, mbetet pronë publike e shtetit dhe regjistrohet në përgjegjësi administrimi të Ministrisë së Energjisë dhe Industrisë, në funksion të lidhjes së marrëveshjes me shoqërinë “Amerika Group” sh.p.k.

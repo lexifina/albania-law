@@ -1,0 +1,1 @@
+6. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme të bëjë çregjistrimin e sipërfaqes pyjore dhe kullosore, të identifikuar sipas pikës 1 të këtij vendimi, nga kategoria “Tokë pyjore / kullosore” dhe ta regjistrojë në kategorinë “Tokë e zënë, objekt shfrytëzimi për aktivitet minerar”.

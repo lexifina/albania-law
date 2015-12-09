@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të pakësimit të volumit të lëndës drusore, të sipërfaqes së hequr e infrastrukturës së saj paguhen nga shoqëria “Amerika Group” sh.p.k., në bazë të lidhjes 4, të vendimit nr. 391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.
