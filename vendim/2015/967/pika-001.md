@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Kryeministrisë për vitin 2015 shtohet me 20 veta përkatësisht, 10 punonjës për Agjencinë e Menaxhimit të Qendrave për Hapje dhe Dialog dhe 10 punonjës për Agjencinë Kombëtare për Zhvillim Rajonal (AKZHR), duke e çuar numrin total të punonjësve në 262 veta.
