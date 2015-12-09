@@ -1,0 +1,2 @@
+6. Funksionet dhe përgjegjësitë e Agjencisë së Auditimit të Programeve të Asistencës Financiare nga Bashkimi Evropian
+Agjencia e Auditimit të Programeve të Asistencës Financiare nga Bashkimi Evropian është një strukturë e pavarur, funksionale dhe financiare, nga strukturat dhe autoritetet e cituara në pikën 2 të këtij vendimi. Funksionet dhe përgjegjësitë e saj përcaktohen me ligj dhe me vendim të Këshillit të Ministrave.
