@@ -1,0 +1,1 @@
+6. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme të bëjë çregjistrimin e sipërfaqes pyjore, të identifikuar sipas pikës 1 të këtij vendimi, nga kategoria “Tokë e zënë pyjore/kullosore” dhe ta regjistrojë atë në kategorinë “Tokë e zënë, objekt i ndërtimit të HEC “Lumzi””.

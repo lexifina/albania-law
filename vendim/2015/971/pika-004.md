@@ -1,0 +1,1 @@
+4. Ministria e Mjedisit dhe shoqëria “Mc Inerte Lumzi” sh.p.k. të nënshkruajnë marrëveshje të përbashkët për hapat, afatet dhe procedurat për realizimin e detyrimeve, sipas përcaktimit në pikën 3 të këtij vendimi.

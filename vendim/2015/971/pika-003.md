@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Mc Inerte Lumzi” sh.p.k. detyrohet të rehabilitojë sipërfaqen pyjore, sipas përcaktimeve në planin e rehabilitimit dhe kushteve të lejes mjedisore, dhe, brenda 5 viteve, të pyllëzojë, me fondet e veta, një sipërfaqe prej 71.3 ha fond pyjor, në ngastrat e përcaktuara në marrëveshjen me Ministrinë e Mjedisit.
