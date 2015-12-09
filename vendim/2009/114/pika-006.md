@@ -1,1 +1,0 @@
-6. Shpenzimet për mbylljen ose prishjen fizike të impianteve dhe instalimeve, që shërbejnë për kryerjen e veprimtarive të depozitimit, transportimit ose tregtimit, me shumicë ose pakicë, të naftës, gazit dhe nënprodukteve të tyre, sipas pikave 2, 3 e 4 të këtij vendimi, bëhen me shpenzimet e vetë subjekteve.

@@ -1,1 +1,0 @@
-10. Në rast të mosrespektimit të kësaj kërkese, nga subjektet e tregtimit me shumicë, të përmendura më sipër, IQT-ja pezullon të drejtat e lejes së tregtimit dhe i propozon organit përkatës revokimin e lejes.
