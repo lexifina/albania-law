@@ -1,9 +1,0 @@
-4. Zyrtari përgjegjës akreditues (ZPA/CAO)
-a) Zyrtari përgjegjës akreditues (në vijim ZPA/CAO) është Ministri i Financave.
-b) ZPA-ja/CAO-ja është autoritet i menaxhimit plotësisht të decentralizuar, përgjegjës për dhënien e akreditimit ZKA-së/NAO-së dhe strukturave në mbështetje të tij (zyrës së ZKA-së/NAO-së dhe Fondit Kombëtar) për menaxhim plotësisht të decentralizuar të komponentëve të IPA-s, në përputhje me kërkesat e përcaktuara në pikën 1 të aneksit A të marrëveshjes kuadër.
-c) ZPA-ja/CAO-ja, nëpërmjet auditimeve të pavarura, kontrollon nëse janë përmbushur kriteret e akreditimit për zyrtarin kombëtar autorizues, Fondin Kombëtar dhe zyrën NAO, siç përcaktohet në shkronjën “c” të pikës 1 të aneksit A të marrëveshjes kuadër.
-ç) ZPA-ja/CAO-ja, pas akreditimi të ZKA-së/NAO-së, Fondit Kombëtar dhe zyrës së ZKA-së/NAO-së është përgjegjës për monitorimin, pezullimin apo tërheqjen e akreditimit të ZKA-së/NAO-së, Fondit Kombëtar dhe zyrës së ZKA-së/NAO-së, si dhe për informimin e Komisionit Europian, në përputhje me shkronjën “b” të pikës 1 të aneksit A të marrëveshjes kuadër.
-d) ZPA-ja/CAO-ja, pas akreditimit dhe dhënies së kompetencave menaxhuese, i paraqet Komisionit Europian të gjitha ndryshimet e propozuara për mënyrën e pagesës dhe ato në sistemin e menaxhimit e kontrollit dhe kopje të autoritetit të auditit për kontroll dhe miratim përpara zbatimit të tyre.
-dh) ZPA-ja/CAO-ja organizon takime dhe konsultime të rregullta me autoritetin e auditit, duke siguruar funksionimin e duhur të menaxhimit të decentralizuar të komponentëve të IPA-s.
-e) ZPA-ja/CAO-ja miraton manualin e brendshëm të procedurave, të përgatitur nga Ministria e Financave për funksionimin e tij.
-ë) ZPA-ja/CAO-ja konfirmon manualin e brendshëm të procedurave për zyrtarin kombëtar autorizues dhe manualin e brendshëm të procedurave për Fondin Kombëtar, të përgatitur nga zyra e ZKA-së/NAO-së dhe Fondi Kombëtar.

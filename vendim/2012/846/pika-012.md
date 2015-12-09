@@ -1,2 +1,0 @@
-12. Autoriteti i Auditit
-Autoriteti i Auditit është një strukturë funksionalisht e pavarur nga të gjithë aktorët në sistemin e menaxhimit dhe kontrollit, në përputhje me standardet e auditimit të pranuara ndërkombëtarisht, e krijuar me vendimin nr. 1020, datë 14.10.2009 të Këshillit të Ministrave “Për krijimin e Agjencisë së Auditimit të Programeve të Asistencës të Bashkimit Europian”, të ndryshuar.
