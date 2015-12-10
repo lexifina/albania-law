@@ -1,0 +1,4 @@
+1. Dispozita të përgjithshme
+1.1 Ky udhëzim përcakton rregullat dhe procedurat për kryerjen e veprimtarisë së inspektimit financiar publik, të cilat janë të zbatueshme për të gjitha strukturat që angazhohen në proces.
+1.2 Përveç sa parashikohet në këtë udhëzim, strukturat e angazhuara në procesin e inspektimit financiar publik, janë të detyruara të zbatojnë në mënyrë të drejtpërdrejtë ligjin nr. 112/2015 “Për inspektimin financiar publik”, Kodin e Etikës për inspektorët financiarë publikë, si dhe “Manualin e inspektimit financiar publik”.
+1.3 Të gjitha procedurat e përcaktuara në këtë udhëzim duhet të kryhen në mënyrë objektive dhe të paanshme, duke siguruar drejtësinë procedurale, në pajtim me standardet më të larta profesionale dhe në respekt të plotë të të drejtave të të gjithë personave të përfshirë.

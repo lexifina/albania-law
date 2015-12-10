@@ -1,0 +1,3 @@
+11. Mendimi i drejtorit të Drejtorisë së Inspektimit Financiar Publik
+11.1 Mendimi i drejtorit të Drejtorisë së Inspektimin Financiar Publik konsiston në përmbushjen e detyrimeve ligjore të inspektorëve financiarë publikë gjatë kryerjes së inspektimit, analizimin e arsyeve dhe kushteve të shkeljeve të disiplinës financiare dhe cilësinë e rekomandimeve për masat që duhen ndërmarrë.
+11.2 Mendimi i drejtorit të Drejtorisë së Inspektimin Financiar Publik i dërgohet nëpunësit të parë autorizues dhe ministrit të Financave, i cili protokollohet dhe është pjesë e dosjes së inspektimit financiar publik.
