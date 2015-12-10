@@ -1,0 +1,1 @@
+24. Drejtori i Policisë së Burgjeve ngre me urdhër komisionin për përcaktimin e standardeve të testit për aftësitë fizike. Testi i aftësive fizike vlerësohet sipas standardit të përcaktuar në kohën e zhvillimit të testit.

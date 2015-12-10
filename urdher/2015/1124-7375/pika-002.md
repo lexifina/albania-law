@@ -1,0 +1,1 @@
+2. Brenda datës 31 janar të çdo viti, Sektori i Burimeve Njerëzore në Drejtorinë e Përgjithshme të Burgjeve planifikon numrin e vendeve të lira që krijohen për punonjës të Policisë së Burgjeve, mbështetur në numrin e punonjësve të liruar dhe të larguar nga Policia e Burgjeve të vitit paraardhës, si dhe vendet e lira që krijohen për shkak të ndryshimeve strukturore.

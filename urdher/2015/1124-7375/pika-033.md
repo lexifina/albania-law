@@ -1,0 +1,1 @@
+33. Sektori i Burimeve Njerëzore dhe Sektori i Teknologjisë dhe Informacionit, shpallin publikisht listën, jo më vonë se të nesërmen e ditës së përfundimit të procesit të vlerësimit të intervistimit me gojë.

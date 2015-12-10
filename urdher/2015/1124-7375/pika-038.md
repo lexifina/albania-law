@@ -1,0 +1,1 @@
+38. Dokumentacioni i punonjësit të pranuar në Policinë e Burgjeve, bashkë me certifikatën e trajnimit administrohet në një fashikull dhe i dërgohet zyrtarisht strukturës përkatëse ku emërohet punonjësi.

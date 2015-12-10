@@ -1,0 +1,1 @@
+15. Sektori i Burimeve Njerëzore njofton Komisionin, sipas pikës 14 të këtij urdhri, për datën e zhvillimit të vlerësimit të kandidatëve dhe për listën e kandidatëve. Komisioni merr vendime në praninë e të gjithë anëtarëve të tij.

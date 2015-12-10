@@ -1,0 +1,1 @@
+27. Pas përfundimit të testit fizik, kandidati njoftohet për rezultatin dhe nëse ka fituar, njoftohet për të vazhduar fazat e tjera të vlerësimit. Rezultatet e testit fizik ruhen në dosjen e kandidatit.

@@ -1,0 +1,1 @@
+16. Për çështje procedure, vendimet merren me votim nominal. Për vlerësimin e rezultateve për secilin kandidat, secili prej anëtarëve jep pikët e tij. Në përfundim, pikët e grumbulluara për secilën fazë mblidhen. Rezultati përbën edhe vlerësimin përfundimtar të kandidatit.

@@ -1,0 +1,1 @@
+9. Sektori i Burimeve Njerëzore, në bazë të dokumentacionit të paraqitur, jo më vonë se 10 (dhjetë) ditë kalendarike nga data e mbylljes së pranimit të tyre, bën verifikimin paraprak të kandidatëve që përmbushin kërkesat e përgjithshme dhe të veçanta, të përcaktuara në shpalljen për konkurrim.

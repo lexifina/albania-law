@@ -1,0 +1,1 @@
+32. Rezultati i përgjithshëm i kandidatit përcaktohet mbi bazën e rezultateve të arritura nga testimi me shkrim dhe intervista me gojë. Kandidatët renditen në listën përfundimtare, sipas rezultateve të arritura.

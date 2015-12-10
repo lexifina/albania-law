@@ -1,0 +1,1 @@
+19. Rezultatet e testit me shkrim dalin brenda ditës së testimit. Kandidati që ka marrë mbi 60% të pikëve të përcaktuara për testin me shkrim, njoftohet për të vazhduar konkurrimin. Rezultatet e testit me shkrim ruhen në dosjen e kandidatit dhe përbëjnë 50% të rezultatit të përgjithshëm të tij.

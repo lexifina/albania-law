@@ -1,0 +1,1 @@
+11. Kandidatët që nuk plotësojnë kërkesat e përcaktuar në shpalljen për konkurrim, renditen në një listë të veçantë, në të cilën tregohen edhe arsyet e mosplotësimit të këtyre kërkesave. Lista administrohet nga Sektori i Burimeve Njerëzore dhe nuk bëhet publike. Kandidatët që nuk janë kualifikuar njoftohen individualisht nga njësia përgjegjëse.

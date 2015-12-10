@@ -1,0 +1,1 @@
+12. Brenda 5 (pesë) ditëve kalendarike nga data e njoftimit individual, kandidatët që nuk janë kualifikuar kanë të drejtë të paraqesin ankesë me shkrim pranë drejtorit të Policisë së Burgjeve, i cili shprehet me shkrim brenda 5 ditëve nga data e paraqitjes së ankimit. Nëse ankimi pranohet, kandidati vazhdon konkurrimin.

@@ -1,0 +1,1 @@
+34. Kandidatët të cilët kalojnë me sukses procesin e testimit, përfshihen në listën e kandidatëve për t’u pranuar në Policinë e Burgjeve në vendet e lira, sipas pikëve të marra në procesin e testimit në rend zbritës. Në rastet kur dy ose më shumë kandidatë rezultojnë me pikë të barabarta, atëherë renditja e tyre bëhet nëpërmjet shortit.

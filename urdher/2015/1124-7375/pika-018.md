@@ -1,0 +1,1 @@
+18. Testi me shkrim kryhet brenda 15 ditëve nga data e përfundimit të shqyrtimit paraprak dhe shërben për të vlerësuar nëse konkurrenti zotëron njohuritë dhe aftësitë e nevojshme për kryerjen e detyrave të punonjësit të policisë.

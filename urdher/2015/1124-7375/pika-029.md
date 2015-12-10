@@ -1,0 +1,1 @@
+29. Kandidatët që rezultojnë fitues në fazat e tjera të testimeve, i nënshtrohen intervistës së strukturuar me gojë. Pyetjet synojnë të testojnë aftësitë e kandidatit për të komunikuar qartë, për të shprehur ide dhe koncepte, si dhe për të analizuar dhe marrë vendime.
