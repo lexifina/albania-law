@@ -1,0 +1,6 @@
+1. Administrimi i kërkesave, informacioneve dhe ankesave, të ardhura për inspektimin financiar publik
+1.1 Kërkesat, informacionet dhe ankesat e ardhura për inspektim financiar publik, duhet të jenë me shkrim dhe të dorëzohen në protokollin e Ministrisë së Financave nëpërmjet rrugës postare apo dorazi.
+1.2 Protokolli, këto dokumente, ia përcjell menjëherë Sekretarit të Përgjithshëm (NPA-ja), i cili pasi konstaton se objekti i shkresës lidhet me fushën e përgjegjësisë së Drejtorisë së Inspektimit Financiar Publik, ia delegon atë për trajtim duke vendosur shënimet përkatëse dhe datën e dërgimit.
+1.3 Në rastet kur këto dokumente i adresohen nominalisht ministrit të Financave, dokumentacioni i dërgohet ministrit, i cili vendos për ecurinë e mëtejshme të tyre.
+1.4 Drejtoria e Inspektimit Financiar Publik, shqyrton dhe analizon kërkesat, informacionet apo ankesat dhe pas vlerësimit të tyre, paraqet qëndrimin e vet për fillimin ose jo të inspektimit financiar publik apo inspektimit paraprak, nëpërmjet një memoje të protokolluar te nëpunësi i parë autorizues.
+1.5 Drejtoria e Inspektimit Financiar Publik, mban evidencë të veçantë lidhur me vendimmarrjen për kërkesat, informacionet apo ankesat e ardhura.
