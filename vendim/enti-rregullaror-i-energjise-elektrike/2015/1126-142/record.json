@@ -1,0 +1,28 @@
+{
+  "qbz_id": 56243,
+  "title": "Për licencimin e shoqërisë “C & S Energy” sh.p.k., në aktivitetin e prodhimit të energjisë elektrike nga HEC “Rapun 3 & 4”, me fuqi të instaluar 8857 kW.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "142",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2015-11-26",
+  "published": "2015-12-16",
+  "in_force": "2015-12-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/4696dff8e97594fb8a157b3f71cfb3824b5d40fe968fadad4586c5520ab4016c.docx",
+  "source_sha256": "4696dff8e97594fb8a157b3f71cfb3824b5d40fe968fadad4586c5520ab4016c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56243",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/11/26/142",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    12805
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
