@@ -1,0 +1,1 @@
+3. Dorëzimi dhe marrja në dorëzim bëhen me komisione përkatësisht të Ministrisë së Punëve të Brendshme (Policisë së Shtetit), Ministrisë së Shëndetësisë dhe Ministrisë së Mbrojtjes, sipas legjislacionit në fuqi.

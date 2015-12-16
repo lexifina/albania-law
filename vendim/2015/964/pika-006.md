@@ -1,0 +1,1 @@
+6. Personeli prej 11 vetash, i angazhuar në Komisariatin Special të Helikopterëve, në përbërje të RENEA-s, i zbritet numrit të përgjithshëm të punonjësve të Ministrisë së Punëve të Brendshme dhe i shtohet numrit të përgjithshëm të punonjësve të Ministrisë së Mbrojtjes.

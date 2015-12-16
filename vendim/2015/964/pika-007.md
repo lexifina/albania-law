@@ -1,0 +1,1 @@
+7. Personeli prej 11 vetash, i angazhuar në Njësinë e Transportit Mjekësor me Helikopterë, të Qendrës Kombëtare të Urgjencës Mjekësore të Ministrisë së Shëndetësisë, i zbritet numrit të përgjithshëm të punonjësve të Ministrisë së Shëndetësisë dhe i shtohet numrit të përgjithshëm të punonjësve të Ministrisë së Mbrojtjes.

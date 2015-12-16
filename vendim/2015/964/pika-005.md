@@ -1,0 +1,1 @@
+5. Në rast të pamundësisë së përdorimit të helikopterëve, që shërbejnë për Ministrinë e Punëve të Brendshme (Policinë e Shtetit) dhe Ministrinë e Shëndetësisë, do të përdoren helikopterët e Ministrisë së Mbrojtjes.

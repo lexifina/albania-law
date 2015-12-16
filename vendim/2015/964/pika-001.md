@@ -1,0 +1,1 @@
+1. Helikopterët dhe pajisjet e tyre, në administrim të Ministrisë së Punëve të Brendshme (Policisë së Shtetit) dhe Ministrisë së Shëndetësisë, të kalojnë, pa shpërblim, në administrim të Ministrisë së Mbrojtjes, sipas anekseve nr. 1 (Ministria e Punëve të Brendshme) dhe nr. 2 (Ministria e Shëndetësisë), që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

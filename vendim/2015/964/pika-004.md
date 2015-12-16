@@ -1,0 +1,1 @@
+4. Komandimi i helikopterëve për qëllimet e Ministrisë së Punëve të Brendshme (Policisë së Shtetit) dhe të Ministrisë së Shëndetësisë do të bëhet nga personat e autorizuar, përkatësisht, ministri i Punëve të Brendshme dhe ministri i Shëndetësisë.
