@@ -1,1 +1,0 @@
-4. Misioni i sekretariatit është realizimi i të gjithë hapave të anëtarësimit të Shqipërisë, si vend zbatues, në Nismën për Transparencë në Industrinë Nxjerrëse (EITI), dhe, pas këtij anëtarësimi, përgatitja e raporteve vjetore, si vend zbatues i kësaj Nisme, në bashkëpunim me grupin ndërinstitucional të punës të Nismës për Transparencë në Industrinë Nxjerrëse.

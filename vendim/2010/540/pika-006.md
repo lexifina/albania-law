@@ -1,1 +1,0 @@
-6. Sekretariati, për të realizuar misionin dhe objektivat e tij, do të bashkëpunojë dhe do të bashkërendojë veprimtarinë e tij me grupin ndërinstitucional të punës së Nismës për Transparencë në Industrinë Nxjerrëse dhe me institucione të tjera, publike dhe/ose private, me grupet e interesit, shoqërinë civile, median vendase dhe/ose të huaj.

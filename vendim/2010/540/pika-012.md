@@ -1,1 +1,0 @@
-12. Sekretariati raporton në çdo mbledhje të grupit ndërinstitucional të punës të Nismës për Transparencë në Industrinë Nxjerrëse (EITI) dhe çdo vit, në mënyrë periodike, përgatit informacion me shkrim për Kryeministrin për ecurinë e realizimit të programit të veprimeve dhe të raportit vjetor të EITI-së.
