@@ -1,0 +1,1 @@
+2. Ministrisë së Energjisë dhe Industrisë dhe Shërbimit Gjeologjik Shqiptar u ndalohet të ndryshojnë destinacionin e objektit dhe të truallit funksional, të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojnë atë ose t’ua japin në përdorim të tretëve.

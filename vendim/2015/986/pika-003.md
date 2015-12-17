@@ -1,0 +1,1 @@
+3. Ministria e Mbrojtjes, Ministria e Energjisë dhe Industrisë dhe Shërbimi Gjeologjik Shqiptar të nxjerrin aktet e nevojshme për dhënien në përdorim të përkohshëm të objektit dhe të truallit funksional, sipas pikës 1, të këtij vendimi, duke përcaktuar detyrimet për secilin institucion.
