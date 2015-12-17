@@ -1,0 +1,1 @@
+2. Pronat e përmendura në pikën 1 të këtij vendimi, të hiqen nga lista e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr. 450,datë 16.6.2015, të Këshillit të Ministrave, të ndryshuar.
