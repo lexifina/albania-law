@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit, “Ndërtimi dhe asfaltimi i rrugës nga Muzeu Historik - Spitali, Vlorë”.
