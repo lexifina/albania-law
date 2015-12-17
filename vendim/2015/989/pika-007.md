@@ -1,0 +1,1 @@
+7. Kryetari i Këshillit të Arsimit të Lartë dhe Kërkimit Shkencor apo në mungesë një anëtar i caktuar prej tij me urdhër thërret mbledhjet dhe i drejton ato, cakton rendin e ditës, drejton diskutimet, bashkërendon punën, si dhe kryen detyra të tjera të përcaktuara në rregulloren e funksionimit të brendshëm të KALKSH-it.

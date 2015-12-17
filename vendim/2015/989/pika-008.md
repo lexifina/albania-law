@@ -1,0 +1,1 @@
+8. Njoftimi për mbledhjet, rendi i ditës, si dhe çdo ndryshim në datën e kohën e vendosur për mbledhjet i njoftohen çdo anëtari nga sekretariati i KALKSH-it ose nëpunës të ngarkuar me urdhër të ministrit.

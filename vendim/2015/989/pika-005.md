@@ -1,0 +1,1 @@
+5. Ministri përgjegjës për arsimin, me qëllim realizimin e misionit të Këshillit të Arsimit të Lartë dhe Kërkimit Shkencor me urdhër mund të ngrejë komisione të përhershme apo të përkohshme me anëtarët e këtij këshilli, për studimin e çështjeve e të problematikave të veçanta.

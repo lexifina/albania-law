@@ -1,0 +1,1 @@
+3. Anëtarët e Këshillit të Arsimit të Lartë dhe Kërkimit Shkencor emërohen me urdhër nga ministri përgjegjës për arsimin për një periudhë 1-vjeçare, me të drejtë riemërimi pa kufizim dhe shkarkohen prej tij.

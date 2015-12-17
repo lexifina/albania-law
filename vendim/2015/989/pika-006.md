@@ -1,0 +1,1 @@
+6. Ministri përgjegjës për arsimin, me qëllim realizimin e misionit të Këshillit të Arsimit të Lartë dhe Kërkimit Shkencor me urdhër mund të caktojë nëpunës të ministrisë përgjegjëse për arsimin, në cilësinë e sekretariatit teknik të KALKSH-it.
