@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 43 906 145 (dyzet e tre milionë e nëntëqind e gjashtë mijë e njëqind e dyzet e pesë) lekësh, si dhe shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë të përballohen nga buxheti i Ministrisë së Zhvillimit Urban për vitin 2015.
