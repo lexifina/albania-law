@@ -1,0 +1,1 @@
+6. Autoritetit përgjegjës për azilin dhe refugjatët, i dërgohet një kopje e formularit të gjurmëve daktiloskopike dhe atij të përzgjedhjes, së bashku me një informacion për rastin, i cili mund të dërgohet edhe më postë elektronike zyrtare.
