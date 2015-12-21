@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12702,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr. 8417, datë 21.10.1998, “Kushtetuta e Republikës së Shqipërisë”, të ndryshuar.",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "137",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-12-17",
+  "published": "2015-12-21",
+  "in_force": "2015-12-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/66c9b51f0ca7aa9479393044a3a9a16329dbdeb66501db572bafeb2606e0b2f1.docx",
+  "source_sha256": "66c9b51f0ca7aa9479393044a3a9a16329dbdeb66501db572bafeb2606e0b2f1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12702",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/12/17/137",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
