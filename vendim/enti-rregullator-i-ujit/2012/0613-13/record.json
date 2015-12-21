@@ -1,0 +1,27 @@
+{
+  "qbz_id": 8356,
+  "title": "PËR RINOVIM LICENCE SHA UJËSJELLËS BULQIZË",
+  "type": "Vendim",
+  "number": "13",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2012-06-13",
+  "version_no": 1,
+  "qbz_version_id": 837,
+  "in_force": "2015-12-21",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2015-12-21",
+  "changed_by_qbz_id": 12883,
+  "changed_by_number": "44",
+  "changed_by_title": "Për një ndryshim në vendimin nr. 13, datë 13.6.2012, “Për rinovim licence sh.a. Ujësjellës Bulqizë”.",
+  "source": "https://qbz.gov.al/files/be436e3d77226b3b1f4c5dfe315ed399297b529ceabb9fd5d7f93cc76a6d4b26.docx",
+  "source_sha256": "be436e3d77226b3b1f4c5dfe315ed399297b529ceabb9fd5d7f93cc76a6d4b26",
+  "official_record": "https://qbz.gov.al/api/v1/acts/8356",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/8356/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
