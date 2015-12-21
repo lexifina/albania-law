@@ -1,0 +1,6 @@
+13. Përfaqësuesit e strukturave lokale të shëndetit publik monitorojnë procesin e zhvarrimit, në mënyrë që të mos shkaktohet asnjë risk për shëndetin publik, duke siguruar që:
+a) personat, të cilët do të kryejnë procesin e zhvarrimit, duhet të pajisen me veshje mbrojtëse personale (PMP), me një përdorim, përfshirë edhe ekranin e fytyrës, që mbron sigurinë dhe shëndetin e tyre; lista e PMI-së tregohet në shtojcën 3 të këtij udhëzimi;
+b) pas procesit të zhvarrimit, kufoma duhet të trajtohet me lëndë dezinfektuese, të cilat përfaqësuesi i autoritetit shëndetësor i gjykon të nevojshme; Lista e lëndëve dezinfektuese tregohet në shtojcën 4 të këtij udhëzimi;
+c) kufoma e zhvarrosur vendoset në një mbështjellëse të mbyllur, jotransparente, që nuk lejon rrjedhjen e lëngjeve dhe shoqërohet me të dhënat identifikuese të kufomës;
+d) pranë varrit të lirë duhet të sigurohet ujë i bollshëm, dhe lëndë të tjera pastruese/dezinfektuese, për t’u përdorur menjëherë pas përfundimit të procesit të zhvarrimit, nga personat të cilët do të trajtojnë kufomën e zhvarrosur;
+e) kufoma apo mbetjet mortore, vendosen në arkivolin e ri; menjëherë pas procesit të zhvarrimit, varri i lirë dezinfektohet (i nënshtrohet procesit të dezinfektimit). Lista e lëndëve dezinfektuese dhe procedura e dezinfektimit jepen në shtojcën 4 të këtij udhëzimi.

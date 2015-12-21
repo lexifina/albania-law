@@ -1,0 +1,1 @@
+7. Procesi i zhvarrimit kryhet në prani të përfaqësuesit të strukturave lokale të shëndetit publik, të përfaqësuesit të autoriteteve të administrimit të varrezave, personave të ngarkuar me shërbimin e varrezave, përfaqësuesve të bashkisë, organeve të policisë vendore, dhe nëse kryhet zhvarrim i veçanta pas dy vjetësh nga vdekja dhe ata të prokurorisë.

@@ -1,0 +1,1 @@
+18. Në zbatim të pikës 20 të këtij udhëzimi, miratimi merret me shkrim nga autoriteti administrues i varrezave, para procesit të zhvarrimit dhe sigurohet kutia/ena ku do të vendosen eshtrat, si dhe masa të tjera në përputhje me rregulloren “Për administrimin dhe funksionimin e varrezave në territorin e Republikës së Shqipërisë”, për rivarrimin në varret e eshtrave.

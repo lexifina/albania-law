@@ -1,0 +1,1 @@
+20. Në rastet kur rivarrimi i kufomës nuk bëhet në të njëjtën varrezë, procesverbali mbahet përkatësisht nga të dyja autoritetet administrative të varrezave, si për procesin e zhvarrimit edhe për atë të rivarrimit dhe kopje të procesverbalit shkëmbehen mes tyre.

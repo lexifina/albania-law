@@ -1,0 +1,1 @@
+15. Nëse përfaqësuesi i strukturave lokale të shëndetit publik konstaton, se trupi i kufomës nuk është vendosur në mënyrën e duhur në arkivol, mund të lejojë transferimin, vetëm pas vendosjes së përshtatshme në arkivol, në përputhje me rregulloren “Për administrimin dhe funksionimin e varrezave në territorin e Republikës së Shqipërisë”.

@@ -1,0 +1,1 @@
+14. Të gjitha mbetjet që rezultojnë nga aktiviteti i zhvarrimit të veçantë, përfshirë veshjet e punës, apo mjete të tjera të mbrojtjes personale me një përdorim, dhe që janë përdorur gjatë zhvarrimit, duhet të trajtohen si mbetje të rrezikshme dhe të asgjësohen në përputhje me legjislacionin në fuqi.

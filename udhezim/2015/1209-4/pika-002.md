@@ -1,0 +1,3 @@
+2. Zhvarrimet nuk lejohen të kryhen:
+a) kur kushtet klimaterike janë tepër të nxehta, zakonisht në muajt maj, qershor, korrik, gusht dhe shtator, përveç varrezave që ndodhen në zona malore, në të cilat lejohet kryerja e këtyre operacioneve edhe në këta muaj;
+b) në rastin e personave të vdekur nga sëmundjet infektive, të listuara në shtojcën 1 të këtij udhëzimi, përjashtuar rastet kur kanë kaluar dy vjet pas vdekjes dhe për të cilat, përfaqësuesi i strukturave lokale të shëndetit publik ka deklaruar, se zhvarrimi mund të bëhet pa pasojë për shëndetin publik, por duke respektuar masat e kontrollit dhe të parandalimit të infeksionit, të përcaktuara në këtë udhëzim.

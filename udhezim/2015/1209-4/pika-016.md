@@ -1,0 +1,1 @@
+16. Trupi i kufomës së zhvarrosur, duhet të rivarroset ose të kremohet, brenda 48 orëve, në rast se nuk është përcaktuar ndryshe nga përfaqësuesi i strukturave lokale shëndetit publik apo urdhri i gjykatës (përfaqësuesi i mjekësisë ligjore).

@@ -1,0 +1,1 @@
+17. Kur rezulton se kufoma është në përfundim të procesit të mineralizimit, me miratim të familjarëve të të ndjerit, dhe në mungesë të tyre, të autoritetit që disponon kufomën, procedohet me rivarrimin në varret e eshtrave, në përputhje me kërkesat higjieno-sanitare, sipas planit të masave, të hartuar nga përfaqësuesit të shëndetit publik.

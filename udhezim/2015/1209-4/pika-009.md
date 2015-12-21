@@ -1,0 +1,1 @@
+9. Administruesi i varrezës, në koordinim dhe me miratim të strukturave lokale të shëndetit publik, përcaktojnë datën dhe orën e zhvarrimit dhe njoftojnë me shkrim përfaqësuesit sipas përcaktimeve të pikës 7/II të këtij udhëzimi, të cilët duhet të jenë të pranishëm në momentin e zhvarrimit.

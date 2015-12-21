@@ -1,0 +1,1 @@
+12. Përfaqësuesit e strukturave lokale të shëndetit publik, marrin të dhënat për gjendjen e kufomës përpara varrimit nga regjistri i varrimit dhe përgatisin planin e masave higjieno-sanitare të nevojshme për procesin e zhvarrimit, sipas përcaktimeve të bëra në shtojcën 2, pjesë përbërëse të këtij udhëzimi.
