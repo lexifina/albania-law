@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65930,
+  "title": "Për shfuqizimin e ligjit nr. 8291, datë 25.2.1998, “Kodi i Etikës së Policisë.",
+  "type": "Ligj",
+  "kind": "Akt shfuqizues",
+  "number": "125",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-11-19",
+  "published": "2015-12-07",
+  "in_force": "2015-12-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/f7e1296b1d9651ddffce8687f17e03769c7d99015651b2211b15b0a04f928dba.docx",
+  "source_sha256": "f7e1296b1d9651ddffce8687f17e03769c7d99015651b2211b15b0a04f928dba",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65930",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/11/19/125",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
