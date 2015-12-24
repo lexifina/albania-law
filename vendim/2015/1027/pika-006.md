@@ -1,0 +1,1 @@
+6. Tarifa e menaxhimit të procedurave të investimeve strategjike ka një kosto fikse prej 15 000 (pesëmbëdhjetë mijë) lekësh. Pagesa e kësaj tarife kryhet nga subjektet e interesuara dhe dorëzohet së bashku me dokumentacionin e kërkuar për miratimin e statusit “Investim /investitor strategjik, procedurë e asistuar”, apo “Investim/investitor strategjik, procedurë e veçantë”.

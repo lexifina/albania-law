@@ -1,0 +1,1 @@
+1. Shërbimet në favor të projekteve dhe investitorëve strategjikë ofrohen nga Agjencia Shqiptare e Zhvillimit të Investimeve, e cila kryen rolin e “dritares unike” dhe është përgjegjëse për ofrimin e shërbimeve me një ndalesë për projektet dhe investimet strategjike, kundrejt aplikimit të tarifave përkatëse.

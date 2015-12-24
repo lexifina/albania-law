@@ -1,0 +1,1 @@
+4. Tarifa e kostove dhe e shërbimeve administrative ka një vlerë fikse prej 70 000 (shtatëdhjetë mijë) lekësh. Pagesa e kësaj tarife kryhet nga subjektet e interesuar, në momentin e aplikimit për kryerjen e veprimeve dhe procedurave të investimeve strategjike, pranë Agjencisë.
