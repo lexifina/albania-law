@@ -1,0 +1,1 @@
+2. Regjistri krijohet, ruhet, administrohet, mirëmbahet dhe përditësohet nga Agjencia Shqiptare e Zhvillimit të Investimeve, në vijim “Agjencia”. Agjencia administron bazën e të dhënave në përputhje me rregullat e përcaktuara në këtë vendim dhe në legjislacionin për administrimin e bazës të të dhënave shtetërore.

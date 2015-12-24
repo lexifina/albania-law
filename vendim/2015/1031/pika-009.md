@@ -1,0 +1,1 @@
+9. Agjencia merr masat për diferencimin e nivelit të aksesit në të dhënat e regjistrit duke u mundësuar organeve të qeverisjes qendrore e vendore dhe investitorëve instrumente të përshtatshme, të cilat mundësojnë nga njëra anë aksesin në regjistër dhe nga ana tjetër garantojnë ruajtjen e të dhënave.

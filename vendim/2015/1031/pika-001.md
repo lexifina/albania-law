@@ -1,0 +1,1 @@
+1. Regjistri i Investimeve Strategjike, në vijim “Regjistri”, është inventari publik, i cili përmban informacionin dhe bazën e të dhënave mbi investimet strategjike të cilat kryhen në territorin e Republikës së Shqipërisë.

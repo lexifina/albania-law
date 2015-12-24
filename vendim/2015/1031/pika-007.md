@@ -1,0 +1,1 @@
+7. Regjistri është publik dhe i aksesueshëm nga organet e qeverisjes qendrore dhe vendore, investitorët strategjikë dhe nga publiku, sipas niveleve të aksesit dhe klasave të sigurisë të përcaktuara nga Agjencia.

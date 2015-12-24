@@ -1,0 +1,1 @@
+11. Regjistri përmban të gjitha të dhënat që lidhen me procedurat e investimeve strategjike, duke filluar që nga momenti i propozimit të tyre deri në fazën përfundimtare, kur një investim strategjik do të ketë përfunduar.

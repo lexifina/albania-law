@@ -1,0 +1,1 @@
+17. Shpenzimet e nevojshme për krijimin, mirëmbajtjen dhe administrimin e Regjistrit të Investimeve Strategjike përballohen nga buxheti i Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes për Agjencinë.
