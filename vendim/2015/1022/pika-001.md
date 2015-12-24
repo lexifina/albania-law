@@ -1,0 +1,1 @@
+1. Lejimin e Policisë së Shtetit për përdorimin e fondit prej 98 400 000 (nëntëdhjetë e tetë milionë e katërqind mijë) lekësh, nga fondi i pagave, të planifikuar për vitin 2015, në programin buxhetor “Policia e Shtetit”, për shpërblimin e punonjësve të Policisë së Shtetit, që kanë arritur rezultate të larta në kryerjen e detyrës.
