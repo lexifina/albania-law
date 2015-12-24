@@ -1,0 +1,1 @@
+2. Subjektet e interesuara, të cilat kërkojnë përfshirjen e projekteve të tyre investuese në procedurat administrative të investimeve strategjike, paraqesin, për këtë qëllim, një kërkesë me shkrim pranë Agjencisë Shqiptare të Zhvillimit të Investimeve, së bashku me dokumentacionin përkatës.

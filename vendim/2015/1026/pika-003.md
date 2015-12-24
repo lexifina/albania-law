@@ -1,0 +1,1 @@
+3. Agjencia vlerëson, fillimisht, nëse projekti i paraqitur u përket sektorëve e nënsektorëve strategjikë, si dhe vlerat minimale të investimit, të parashikuara nga ligji nr. 55/2015, “Për investimet strategjike në Republikën e Shqipërisë”. Gjithashtu, agjencia verifikon nëse projekti mbivendoset me projekte apo aktivitete të tjera, të miratuara më parë.

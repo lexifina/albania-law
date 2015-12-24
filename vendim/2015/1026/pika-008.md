@@ -1,0 +1,1 @@
+8. Komiteti i Investimeve Strategjike, pas shqyrtimit të projektit dhe të analizës përfundimtare të paraqitur nga agjencia, merr një vendim, në lidhje me pranimin apo refuzimin e kërkesës, brenda një afati 30-ditor, nga data e dorëzimit të propozimit prej agjencisë.
