@@ -1,0 +1,1 @@
+6. Subjekti investues i interesuar, i cili rezulton fitues në përfundim të procedurave konkurruese, në përputhje me pikën 4, të këtij kreu, mund të aplikojë më tej për përfitimin e statusit “Investim/investitor strategjik, procedurë e asistuar” apo “Investim/investitor strategjik, procedurë e veçantë”.

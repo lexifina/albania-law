@@ -1,0 +1,5 @@
+3. Projektet me statusin “projekt me potencial strategjik” miratohen nga Komiteti i Investimeve Strategjike, pasi të jenë kryer procedurat dhe vlerësimet paraprake nga Agjencia Shqiptare e Zhvillimit të Investimeve.
+II. PROCEDURAT ADMINISTRATIVE PËR PËRFITIMIN E STATUSIT “PROJEKT ME POTENCIAL STRATEGJIK”
+1. Aplikimi për përfitimin e statusit “projekt me potencial strategjik” është hapi fillestar i procedurave administrative për vlerësimin e investimeve strategjike. Ky status propozohet nga momenti i nismës për të hartuar projektin dhe, në rast se miratohet, zgjat deri në momentin kur përfitohet statusi “Investim/investitor strategjik, procedurë e asistuar” apo “Investim/investitor strategjik, procedurë e veçantë”.
+2. Komiteti i Investimeve Strategjike mund të vendosë, rast pas rasti, afate maksimale kohore për kohëzgjatjen e statusit “projekt me potencial strategjik” në favor të propozuesit, si mekanizëm nxitës për mbylljen në kohë të shkurtër të procedurave administrative dhe shmangien e vonesave nga investitori.
+3. Projekti me statusin potencial strategjik propozohet nga ministrat e linjës, përgjegjës për projektin ose nga investitori propozues i projektit.

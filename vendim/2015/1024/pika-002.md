@@ -1,0 +1,1 @@
+2. Projektet, të cilat përfitojnë statusin “projekt me potencial strategjik”, mbështeten nëpërmjet zbatimit të procedurave të posaçme administrative favorizuese, lehtësuese apo përshpejtuese, si dhe dhënies së asistencës e ofrimit të shërbimeve ndaj investitorëve.

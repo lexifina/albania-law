@@ -1,0 +1,1 @@
+9. Agjencia regjistron çdo kërkesë për marrjen e statusit “projekt me potencial strategjik”, në bazën e të dhënave të Regjistrit të Investimeve Strategjike, si dhe regjistron çdo ndryshim apo hap procedural të mëtejshëm.

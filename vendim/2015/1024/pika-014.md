@@ -1,0 +1,1 @@
+14. Për kryerjen e vlerësimit të projekteve dhe të investitorëve strategjikë Agjencia ka të drejtë të kërkojë mendime dhe opinione nga Autoriteti i Konkurrencës, njësitë përkatëse të qeverisjes vendore apo agjenci ose institucione të tjera.
