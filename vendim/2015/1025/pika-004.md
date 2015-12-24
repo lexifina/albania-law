@@ -1,0 +1,1 @@
+4. Agjencia ka të drejtë të kontraktojë subjekte të specializuara, vendase ose të huaja, për kryerjen e veprimtarive të promovimit të kuadrit ligjor favorizues për investimet strategjike në tregjet ndërkombëtare.

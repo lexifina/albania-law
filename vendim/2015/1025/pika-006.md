@@ -1,0 +1,1 @@
+6. Për përcaktimin e rregullave dhe të mënyrës së kryerjes së shërbimeve të përfaqësimit, Agjencia nënshkruan marrëveshje të posaçme me agjentët ndërkombëtarë të investimeve, në të cilat përcaktohen të drejtat, detyrimet dhe angazhimet e palëve, si dhe afati kohor i mandatit të përfaqësimit.

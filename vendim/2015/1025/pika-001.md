@@ -1,0 +1,1 @@
+1. Agjencia Shqiptare e Zhvillimit të Investimeve zhvillon dhe blen shërbime të promovimit, nxitjes dhe tërheqjes së investimeve strategjike, duke promovuar klimën e biznesit, procedurat lehtësuese, masat mbështetëse dhe kuadrin ligjor favorizues për investimet strategjike, brenda dhe jashtë territorit të Republikës së Shqipërisë.

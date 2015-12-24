@@ -1,0 +1,1 @@
+7. Në marrëveshjet e lidhura për shërbimet e përfaqësimit përcaktohen, midis të tjerash, rregullat e përdorimit të titullit të përfaqësimit, shërbimet e veprimtaritë që do të ndërmerren, si dhe rregullat e etikës e të standardeve profesionale që duhet të zbatojnë agjentët ndërkombëtarë gjatë kryerjes së shërbimeve të përfaqësimit të shtetit.
