@@ -1,0 +1,1 @@
+8. Agjencia monitoron respektimin, nga ana e investitorit, të procedurave për arritjen e marrëveshjeve me pronarët, duke verifikuar informacionin dhe dokumentet e paraqitura nga investitori për këtë procedurë.

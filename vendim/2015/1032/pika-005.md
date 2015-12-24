@@ -1,0 +1,1 @@
+5. Investitori organizon konsultime e takime paraprake për diskutimin e kushteve të marrëveshjeve me pronarët. Afati për përmbylljen e negociatave nuk mund të jetë më i vogël se 30 ditë, nga data e takimit të parë, por, gjithsesi, jo më shumë se 60 ditë, nga kjo datë.
