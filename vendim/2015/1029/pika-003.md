@@ -1,0 +1,1 @@
+3. Organet publike shtetërore, të cilat marrin një kërkesë për informacion nga agjencia, duhet të kthejnë përgjigje për kërkesën për bashkëpunim, bashkë me informacionin dhe të dhënat e kërkuara, brenda një afati maksimal prej 7 ditësh pune.
