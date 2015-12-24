@@ -1,0 +1,1 @@
+1. Në zbatim të ligjit nr. 55/2015, “Për investimet strategjike në Republikën e Shqipërisë”, sektorë strategjikë janë sektorët ekonomikë, të cilët konsiderohen, nga shteti shqiptar, me potencial të lartë për zhvillimin e ekonomisë së vendit.

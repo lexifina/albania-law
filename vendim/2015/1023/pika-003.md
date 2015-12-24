@@ -1,0 +1,33 @@
+3. Brenda sektorëve strategjikë, të përcaktuar në pikën 2, të këtij vendimi, përcaktohen dhe identifikohen nënsektorët specifikë, si më poshtë vijon:
+a) Sektori strategjik energjetik dhe minerar, në të cilin:
+i) nënsektori energjetik përfshin investimet strategjike në fushat e prodhimit, transmetimit, shpërndarjes dhe furnizimit të energjisë elektrike;
+ii) nënsektori i hidrokarbureve përfshin investimet strategjike në fushat e kërkimit, zhvillimit, nxjerrjes, prodhimit, ndarjes, përpunimit, grumbullimit, transportimit e shpërndarjes së naftës bruto e nënprodukteve hidrokarbure, veprimtaritë në fushën e transmetimit, shpërndarjes, tregtimit, depozitimit, furnizimit, si dhe të atyre për ndërtimin e operimin e infrastrukturës së gazit natyror;
+iii) nënsektori minerar përfshin investimet strategjike në fushat e kërkimit, zbulimit dhe shfrytëzimit të mjedisit minerar.
+b) Sektori strategjik transport, infrastrukturë e komunikimeve elektronike dhe mbetjet urbane, në të cilin:
+i) nënsektori i transportit detar përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen, administrimin e porteve detare, zonave portuale dhe marinave, si dhe ofrimin e shërbimeve të transportit detar të mallrave dhe pasagjerëve;
+ii) nënsektori i transportit ajror përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen, administrimin e aeroporteve, si dhe ofrimin e shërbimeve të transportit ajror të mallrave dhe pasagjerëve;
+iii) nënsektori i transportit hekurudhor përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen, administrimin e infrastrukturës hekurudhore, si dhe ofrimin e shërbimeve të transportit hekurudhor të mallrave dhe pasagjerëve;
+iv) nënsektori i transportit rrugor përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen, administrimin e rrugëve rajonale dhe kombëtare, si dhe ofrimin e shërbimeve të transportit rrugor të mallrave dhe pasagjerëve;
+v) nënsektori i rrjeteve të transportit përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen, administrimin e rrjeteve alternative të transportit, të tilla si tram, metro apo transporte alternative të ngjashme, si dhe ofrimin e shërbimeve të transportit të pasagjerëve në to;
+vi) nënsektori i komunikimeve elektronike, përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen, administrimin e infrastrukturës së komunikimeve elektronike, si dhe ofrimin e shërbimeve të aksesit të këtyre rrjeteve për përdoruesit;
+vii) nënsektori i mbetjeve urbane përfshin investimet strategjike në veprimtaritë në lidhje me menaxhimin e integruar të mbetjeve, përfshirë grumbullimin, transportin, rikuperimin, asgjësimin e mbetjeve, ndërtimin, rikualifikimin, administrimin dhe kujdesin për mbylljen e landfilleve;
+viii) nënsektori i ujësjellës-kanalizimeve dhe trajtimit të ujërave të ndotura përfshin investimet strategjike në lidhje me ndërtimin, rehabilitimin dhe/ose mirëmbajtjen e sistemit të furnizimit me ujë, sistemit të kanalizimeve, si dhe të impianteve të ujërave të ndotura.
+c) Sektori strategjik i turizmit, në të cilin nënsektori i strukturave turistike përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen dhe administrimin e strukturave turistike akomoduese, të konsideruara si sipërmarrje turistike, në përputhje me përcaktimet e legjislacionit për turizmin.
+ç) Sektori strategjik i bujqësisë dhe peshkimit, në të cilin:
+i) nënsektori i prodhimit bujqësor përfshin investimet strategjike që kanë si model fermat e mëdha bujqësore;
+ii) nënsektori i infrastrukturës së blegtorisë përfshin investimet strategjike që krijojnë dhe administrojnë infrastrukturën e nevojshme për blegtorinë dhe ofrojnë shërbimet e lidhura me shpërndarjen e produkteve blegtorale;
+iii) nënsektori i infrastrukturës së peshkimit përfshin investimet strategjike që kanë si objekt ndërtimin dhe administrimin e infrastrukturave të peshkimit dhe akuakulturës si edhe ofrimin e shërbimeve për shpërndarjen e produkteve të peshkimit.
+d) Sektori strategjik i zonës së teknologjisë dhe zhvillimit ekonomik, në të cilin nënsektori i parqeve industriale/teknologjike përfshin investimet strategjike në lidhje me ndërtimin, mirëmbajtjen dhe administrimin e parqeve industriale/teknologjike e të inovacionit, si dhe pajisjen me infrastrukturën e nevojshme për prodhim, zhvillim industrial, tregtimin dhe ofrimin e shërbimeve të lidhura me veprimtaritë që ushtrohen brenda tyre.
+II. ZONAT ME PËRPARËSI ZHVILLIMI
+1. Në zbatim të ligjit nr. 55/2015, “Për investimet strategjike në Republikën e Shqipërisë”, zona me përparësi zhvillimi janë zonat rajonale dhe/ose lokale të qeverisjes vendore, që konsiderohen si zona të një rëndësie të veçantë, të cilat kanë nevojë për mbështetje të posaçme, me qëllim zhvillimin ekonomik, nxitjen e punësimit, përmirësimin e kushteve të jetesës dhe shfrytëzimin me eficiencë të burimeve e infrastrukturave publike.
+2. Zhvillimi i zonave me përparësi zhvillimi fokusohet, kryesisht, në:
+a) orientimin e investimeve në zona të caktuara territoriale, me qëllim nxitjen e përqendrimit të llojeve të njëjta apo të ngjashme të industrive apo veprimtarive tregtare, në mënyrë që të përfitohet nga specializimi i punëkërkuesve, ekonomitë e shkallës dhe ndarja e kostove infrastrukturore. Për këtë qëllim do të përdoren mekanizma nxitës, të cilët synojnë rritjen e eficiencës së infrastrukturave ekzistuese apo në zhvillim, si edhe do të ndërmerren masa për mbrojtjen e mjedisit nga ndikimet industriale;
+b) orientimin e investimeve në zona të caktuara territoriale, në të cilat ka nivele të larta papunësie dhe ku zhvillimi ekonomik është në nivele të pakënaqshme, krahasuar me rajone të tjera të vendit. Për këtë qëllim do të përdoren mekanizma nxitës, të cilët synojnë zhvillimin ekonomik, rritjen e mirëqenies së popullatës, rritjen e punësimit dhe formimin profesional, si dhe përmirësimin e infrastrukturave.
+3. Kriteret ndihmëse për identifikimin e zonave me përparësi zhvillimi do të jenë:
+a) studimi i vendndodhjes, përqendrimit, numrit dhe rëndësisë ekonomike të veprimtarive industriale dhe tregtare ekzistuese, me qëllim krijimin e sinergjive ekonomike ndërmjet tyre;
+b) analiza e gjendjes së infrastrukturave ekzistuese apo në zhvillim;
+c) niveli i papunësisë së zonës;
+ç) të ardhurat ekonomike për banor si edhe kritere të tjera ndihmëse, sipas nevojave dhe strategjive publike;
+d) realizimi i objektivave të mbrojtjes efektive mjedisore;
+dh) shfrytëzimi me efektivitet i aftësive e kualifikimeve të veçanta të punëkërkuesve aktivë të zonës;
+e) statistikat e zhvillimit ekonomik të zonës përkatëse, sipas studimeve të INSTAT-it apo enteve të tjera publike;
