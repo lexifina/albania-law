@@ -1,0 +1,1 @@
+6. Në rastet kur realizimi i investimit do të kryhet nëpërmjet një shoqërie të krijuar posaçërisht, të themeluar nga investitori, dokumentacioni, në lidhje me kapacitetet financiare, do të paraqitet nga investitori /shoqëria/shoqëritë zotëruese të Subjektit për Qëllime të Veçanta (SPV).

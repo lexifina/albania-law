@@ -1,0 +1,1 @@
+3. Garancitë financiare për marrjen e statusit “Investim/investitor strategjik, procedurë e asistuar” apo “Investim/investitor strategjik, procedurë e veçantë” paraqiten në momentin e aplikimit dhe/ose të nënshkrimit të kontratës, në rastet kur, sipas ligjit të aplikueshëm, nënshkruhet një kontratë e tillë me shtetin.

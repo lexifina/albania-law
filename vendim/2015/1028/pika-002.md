@@ -1,0 +1,1 @@
+2. Dokumentacioni që provon kapacitetet financiare për realizimin e projektit investues duhet të përmbajë të dhëna financiare që dëshmojnë aftësinë e investitorit për realizimin e investimit, në masën jo më pak se 10 % të vlerës totale të tij.
