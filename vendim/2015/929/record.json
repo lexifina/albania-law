@@ -1,0 +1,27 @@
+{
+  "qbz_id": 56536,
+  "title": "Për mbylljen e Agjencisë së Kërkimit, Teknologjisë dhe Inovacionit (AKTI).",
+  "type": "Vendim",
+  "number": "929",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-11-18",
+  "version_no": 1,
+  "qbz_version_id": 3820,
+  "in_force": "2015-12-24",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2015-12-24",
+  "changed_by_qbz_id": 12830,
+  "changed_by_number": "1082",
+  "changed_by_title": "Për një ndryshim në vendimin nr. 920, datë 18.11.2015, të Këshillit të Ministrave, “Për mbylljen e Agjencisë së Kërkimit, Teknologjisë dhe Inovacionit (AKTI)”.",
+  "source": "https://qbz.gov.al/files/2d81c098edc5007224f0c4fcb2ca11185e4a1c12e55413dad7ed9e307e3b6148.docx",
+  "source_sha256": "2d81c098edc5007224f0c4fcb2ca11185e4a1c12e55413dad7ed9e307e3b6148",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56536",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/56536/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
