@@ -1,0 +1,1 @@
+3. Shteti mund të veprojë si bashkëzhvillues i një investimi strategjik duke marrë pjesë si ortak/aksionar në shoqërinë tregtare që do të realizojë investimin strategjik, nëpërmjet kontributit në kapital, me para dhe/ose në natyrë. Pjesëmarrja e shtetit në shoqëri kryhet sipas mënyrave, formave dhe rregullave të përcaktuara nga legjislacioni tregtar shqiptar.

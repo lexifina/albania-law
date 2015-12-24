@@ -1,0 +1,4 @@
+12. Agjencia negocion me investitorin propozues një projekt të dokumenteve që do të nënshkruhen nga palët në rast miratimi të pjesëmarrjes së shtetit në investim, që, sipas rastit dhe formës së pjesëmarrjes, përfshijnë por pa u kufizuar në:
+a) aktin e themelimit dhe statutin e shoqërisë, ku shteti do të marrë pjesë si ortak/aksionar, në të cilën duhet të përfshihen të gjitha kushtet, të drejtat dhe detyrimet e secilës palë;
+b) marrëveshjen e bashkëpunimit ndërmjet palëve, në rastet kur shteti merr pjesë në investim, nëpërmjet formave të ndryshme nga ajo e pjesëmarrjes në shoqëri.
+Në përmbajtjen e secilit prej dokumenteve të sipërpërmendura duhet të reflektohen në mënyrë të qartë e të detajuar të drejtat dhe detyrimet e secilës palë pjesëmarrëse në investim, në përputhje me dispozitat ligjore në fuqi, si dhe propozimi i investitorit.

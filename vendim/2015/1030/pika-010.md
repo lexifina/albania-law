@@ -1,0 +1,1 @@
+10. Agjencia, nëpërmjet grupit operacional, verifikon propozimin e investitorit për përfshirjen e shtetit në investimin strategjik, si dhe të gjitha hipotezat, supozimet, zgjidhjet, treguesit, analizat dhe rezultatet e përcaktuara në dokumentet e paraqitura, në mënyrë që të përcaktojë nëse informacioni është i saktë, i zbatueshëm dhe i përshtatshëm për realizimin e investimit.

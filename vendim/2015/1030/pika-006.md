@@ -1,0 +1,4 @@
+6. Pjesëmarrja e shtetit në investimet strategjike realizohet në përputhje me interesin publik, duke respektuar parimet e transparencës, të paanshmërisë, të barazisë e të mbrojtjes së konkurrencës dhe tregut të lirë.
+Pjesëmarrja, mbështetja dhe nxitja shtetërore për një investim strategjik nuk duhet të sjellin, si pasojë, pengimin, kufizimin ose shtrembërimin e konkurrencës në treg.
+Pjesëmarrja shtetërore duhet të jetë në nivele të tilla, të cilat nuk shuajnë ose e reduktojnë ndjeshëm riskun operacional në ngarkim të investitorit strategjik, si dhe në nivel të drejtë proporcionaliteti me vlerën dhe rëndësinë e investimit.
+Për këtë qëllim, përpara se të propozohet pjesëmarrja e shtetit në një investim strategjik, Agjencia Shqiptare e Zhvillimit të Investimeve u kërkon mendim paraprak Autoritetit të Konkurrencës, Komisionit të Ndihmës Shtetërore dhe organeve të tjera të specializuara, të cilat ia përcjell Komitetit të Investimeve Strategjike (në vijim KIS).

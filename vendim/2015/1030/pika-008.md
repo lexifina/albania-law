@@ -1,0 +1,1 @@
+8. Bashkëpjesëmarrja e shtetit mund të kërkohet edhe nga vetë investitorët strategjikë të cilët propozojnë realizimin e një investimi strategjik, me qëllim rritjen e nivelit të mbështetjes së projektit, uljen e riskut operacional dhe rritjen e garancive për realizimin e tij.

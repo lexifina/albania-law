@@ -1,0 +1,1 @@
+16. Refuzimi i pjesëmarrjes së shtetit në investim nuk cenon përfitimin e statusit “Investim strategjik, procedurë e veçantë/e asistuar” në rast se investitori deklaron se dëshiron të vazhdojë me kryerjen e investimit pavarësisht nga mospjesëmarrja shtetërore.

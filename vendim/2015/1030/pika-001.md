@@ -1,0 +1,1 @@
+1. Në këto rregulla përcaktohen procedurat, dokumentet dhe hapat që duhet të ndiqen nga investitorët strategjikë dhe organet kompetente shtetërore, në lidhje me mundësinë e pjesëmarrjes së shtetit, si bashkëpjesëmarrës në investim, së bashku me subjektet private të cilat kanë përfituar statusin e investitorëve strategjikë, me qëllim realizimin e investimeve strategjike.

@@ -1,0 +1,1 @@
+13. Në çdo rast të shqyrtimit të një propozimi për pjesëmarrje të shtetit në një investim strategjik, Agjencia kërkon me shkrim mendimin paraprak të Ministrisë së Financave, si dhe ministrisë së linjës, që mbulon sektorin e investimit strategjik.
