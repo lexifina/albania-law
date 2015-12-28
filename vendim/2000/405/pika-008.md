@@ -1,3 +1,0 @@
-8. Për përgatitjen e skicave dhe të boceteve të emisioneve të pullave postare shqiptare, të përcaktuara në tematikën vjetore, organizohet konkurs. Kriteret e shpalljes së konkursit dhe dhënia e çmimeve përcaktohen sipas vendimit nr.595, datë 29.12.1993, të Këshillit të Ministrave, “Për kriteret e shpalljes së konkurseve me karakter kombëtar e lokal dhe dhënien e çmimeve për to”.
-Të gjitha punimet e paraqitura në konkurs ruhen në “Muzeum e pullës postare shqiptare”.
-Shpërblimi i autorëve të shpallur fitues, bëhet nga “Albapost” sh.a. masa e shpërblimit për fituesit, nga i pari tek i treti, caktohet nga këshilli mbikëqyrës i “Albapost” sh.a.

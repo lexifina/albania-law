@@ -1,2 +1,0 @@
-7. Pullat postare shqiptare shtypen në ente të specializuara, të zgjedhura në mbështetje të dispozitave në fushën e prokurimeve. Në çdo rast, konkurrentët duhet të jenë të pajisur me dokumentacionin e nevojshëm për shtypjen e letrave me vlerë.
-Shtypja, marrja në dorëzim, administrimi, shpërndarja dhe shitja e pullave postale shqiptare bëhet nga “Albapost” sh.a., në përputhje me dispozitat ligjore në fuqi, të cilat rregullojnë shërbimet e letrave me vlerë.
