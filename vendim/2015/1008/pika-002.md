@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Punëve të Brendshme, Ministria e Mirëqenies Sociale dhe Rinisë, Ministria e Punëve të Jashtme, Ministria e Financave, Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Ministria e Arsimit dhe Sportit dhe Instituti i Statistikave për botimin e këtij profili në faqet zyrtare të institucioneve në internet.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
