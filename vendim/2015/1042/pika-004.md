@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 4 405 228 (katër milionë e katërqind e pesë mijë e dyqind e njëzet e tetë) lekësh, përballohet nga zëri “Kosto lokale”, me kod “M063149”, parashikuar në buxhetin e vitit 2015 për Drejtorinë e Përgjithshme të Ujësjellës-Kanalizimeve.
