@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i infrastrukturës së bllokut 61, që kufizohet nga rruga “Qemal Stafa” dhe rruga e “Planit rregullues”, si dhe “Ndërtimi dhe mobilimi urban i sipërfaqeve të zonës 61/1”, në Bashkinë e Tiranës, sipas listës që i bashkëlidhet këtij vendimi.

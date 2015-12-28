@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 222 520 451 (dyqind e njëzet e dy milionë e pesëqind e njëzet mijë e katërqind e pesëdhjetë e një) lekësh, të përballohet nga të ardhurat e Bashkisë së Tiranës, planifikuar në buxhetin e saj.
