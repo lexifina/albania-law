@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë 1 080.2 (një mijë e tetëdhjetë pikë dy) m² truall, për rikonstruksionin e rrugëve të bllokut 59, që kufizohet nga bulevardi “Bajram Curri, rruga “Ali Demi” dhe rruga e “Planit rregullues”, bëhet në favor të Bashkisë së Tiranës.

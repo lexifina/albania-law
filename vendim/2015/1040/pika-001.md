@@ -1,0 +1,1 @@
+1. Shpronësimin për interes publik të pronarëve të pasurive të paluajtshme, pronë private, që preken nga rikonstruksioni i rrugëve të bllokut 59 që kufizohet nga bulevardi “Bajram Curri, rruga “Ali Demi” dhe rruga e “Planit rregullues”, në Bashkinë e Tiranës, sipas tabelës që i bashkëlidhet këtij vendimi.
