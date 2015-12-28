@@ -1,0 +1,1 @@
+7. Brenda 30 (tridhjetë) ditëve, nga data e miratimit të këtij vendimi, Ministria e Punëve të Jashtme, në bashkëpunim me Zyrën Vendore të Regjistrimit të Pasurive të Paluajtshme Tiranë, të kryejnë regjistrimin e pasurisë së cituar në pikën 1, në favor të Ministrisë së Punëve të Jashtme.
