@@ -1,0 +1,1 @@
+2. Përcaktimin e listës së standardeve të harmonizuara shqiptare, me karakter referues për prezumimin e konformitetit të pajisjeve dhe bashkësive nën presion, referuar në pikën 1, sipas listës bashkëlidhur që është pjesë e këtij vendimi.
