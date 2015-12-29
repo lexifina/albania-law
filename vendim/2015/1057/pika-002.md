@@ -1,0 +1,1 @@
+2. Përcaktimin e listës së standardeve të harmonizuara shqiptare, me karakter referues, për prezumimin e konformitetit të ashensorëve referuar në pikën 1, sipas listës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
