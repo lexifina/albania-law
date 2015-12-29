@@ -1,0 +1,1 @@
+2. Përcaktimin e listës së standardeve të harmonizuara shqiptare, me karakter referues për prezumimin e konformitetit të pajisjeve dhe sistemeve mbrojtëse, të parashikuara për përdorim në atmosferë potencialisht shpërthyese, sipas listës bashkëlidhur, që është pjesë e këtij vendimi.
