@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik “Për kërkesat e eficiencës për bojlerët e ujit që përdorin lëndë djegëse të lëngët ose të gaztë”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
