@@ -1,0 +1,1 @@
+2. Për 300 mjekët më të spikatur jepet shpërblimi, në masën 40 000 (dyzet mijë) lekë. Efekti financiar përballohet nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, miratuar për vitin 2015.
