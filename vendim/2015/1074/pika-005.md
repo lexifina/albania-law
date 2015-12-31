@@ -1,0 +1,1 @@
+5. Standardet e përshtatshmërisë zbatohen në të gjitha ndërtimet e strukturat ndërtimore ekzistuese si dhe në parqet, sheshet e rrugët ekzistuese, bazuar në kërkesat e parashikuara në kreun II, të këtij vendimi.

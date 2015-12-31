@@ -1,0 +1,1 @@
+19. Komisioni Qendror i Zgjedhjeve, në bashkëpunim me bashkitë, realizojnë në raste të caktuara, sidomos gjatë periudhave zgjedhore, procese komunikimi konsultimi dhe këshillimi në distancë, me ndihmën e teknologjisë (telefon /television/internet) si dhe nëpërmjet video-konferencave.

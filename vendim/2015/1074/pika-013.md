@@ -1,0 +1,1 @@
+13. Çdo subjekt, sipas pikës 4, të këtij vendimi, ka detyrimin që, brenda 12 (dymbëdhjetë) muajve nga data e miratimit të planit të masave, të fillojë punën për të realizuar procesin e përshtatshmërisë lidhur me objektet ekzistuese dhe shërbimet e ofruara.

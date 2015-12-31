@@ -1,0 +1,1 @@
+14. Plani i masave e raportimet periodike /vjetore për realizimin e tyre publikohen nga subjektet e ngarkuara sipas këtij vendimi në çdo rast në faqet e internetit të institucioneve të tyre dhe dërgohen gjithashtu edhe në ministrinë përgjegjëse për çështjet e aftësisë së kufizuar.

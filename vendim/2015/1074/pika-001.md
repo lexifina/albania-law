@@ -1,0 +1,1 @@
+1. Ky vendim përcakton masat për zbatimin dhe unifikimin e rregullave, në bazë të të cilave mënjanohen pengesat mjedisore dhe infrastrukturore për të bërë të mundur aksesin në strehim, transport, shëndetësi, kujdes social, arsimim, punësim dhe shërbime për personat me aftësi të kufizuara.

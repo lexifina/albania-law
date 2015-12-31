@@ -1,0 +1,1 @@
+7. Njësitë vendore përgjegjëse për transportin publik, qytetas dhe ndërqytetas, publikojnë /afishojnë në çdo stacion të mjeteve të transportit publik orarin e lëvizjes së mjeteve të përshtatura dhe monitorojnë zbatimin e tij.
