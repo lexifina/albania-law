@@ -1,0 +1,1 @@
+3. Struktura përgjegjëse për thesarin në Ministrinë e Financave përgatit të dhënat faktike përfundimtare të pasqyrës vjetore të konsoliduar të shpenzimeve dhe të ardhurave të qeverisjes së përgjithshme brenda datës 15.2.2016.

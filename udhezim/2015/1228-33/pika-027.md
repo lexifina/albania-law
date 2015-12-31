@@ -1,0 +1,1 @@
+27. Struktura përgjegjëse për thesarin në Ministrinë e Financave publikon të dhënat faktike të detajuara në nivel njësie shpenzuese sipas strukturës buxhetore, në faqen elektronike zyrtare të Ministrisë së Financave brenda datës 1.2.2016.

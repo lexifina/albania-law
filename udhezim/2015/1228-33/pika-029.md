@@ -1,0 +1,1 @@
+29. Në raportet e monitorimit, për vitin 2015, për programet që kanë ndryshuar sipas aktit normativ nr. 1, datë 29.1.2015, monitorimi me të gjithë treguesit vjetorë do të paraqitet nga ministritë dhe institucionet aktuale.

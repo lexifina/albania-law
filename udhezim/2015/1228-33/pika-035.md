@@ -1,0 +1,1 @@
+35. Procesi i rakordimit përfundimtar të të ardhurave dhe shpenzimeve të qeverisjes së përgjithshme, si dhe mbyllja e llogarive vjetore të buxhetit të shtetit, monitorohet nga nëpunësi i parë autorizues nëpërmjet strukturës përgjegjëse për thesarin.

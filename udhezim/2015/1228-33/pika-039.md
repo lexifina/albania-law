@@ -1,0 +1,1 @@
+39. Për mosrespektim të kërkesave të këtij udhëzimi, nga ana e nëpunësve autorizues dhe zbatues të njësive të qeverisjes së përgjithshme, nëpunësi i parë autorizues zbaton penalitetet e përcaktuara në ligjin nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”.

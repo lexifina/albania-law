@@ -1,0 +1,1 @@
+10. Bankat e nivelit të dytë, para konfirmimit përfundimtar të rakordimit vjetor me strukturën përgjegjëse të Bankës së Shqipërisë dhe me strukturën përgjegjëse për thesarin në degë, duhet të sqarojnë më parë mosrakordimet e mundshme me subjektet që operojnë dhe mënyrën e sistemimit të tyre.

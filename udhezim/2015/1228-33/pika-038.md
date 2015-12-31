@@ -1,0 +1,1 @@
+38. Procedura e ndjekur dhe shpenzimet e regjistruara në SIFQ nga punonjësi i degës së thesarit sipas pikës 17 të këtij udhëzimi, do të jetë objekt monitorimi nga nëpunësi i parë autorizues i Ministrisë së Financave. Për shkeljet e konstatuara merret masë administrative deri në largim nga puna të punonjësit të thesarit.
