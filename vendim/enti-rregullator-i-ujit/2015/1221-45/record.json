@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12884,
+  "title": "Për shfuqizim vendimi.",
+  "type": "Vendim",
+  "kind": "Akt shfuqizues",
+  "number": "45",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2015-12-21",
+  "published": "2015-12-31",
+  "in_force": "2015-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c0b59536716a2cb94f03dd0c1ac694683ea9f0174f9a209a7099182748542bab.docx",
+  "source_sha256": "c0b59536716a2cb94f03dd0c1ac694683ea9f0174f9a209a7099182748542bab",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12884",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/12/21/45",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
