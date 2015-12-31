@@ -1,0 +1,1 @@
+2. Ekzekutimin, në zbatim të vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, të vendimeve të komisioneve të kthimit dhe kompensimit të pronave ish-pronarëve, për aplikimet nr. 33154/11 (Vrioni) dhe nr. 347/10 (Maçi).
