@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12882,
+  "title": "Për një ndryshim në vendimin nr. 9, datë 30.4.2012, “Për rinovim licence sh.a. Ujësjellës Selenicë”.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "43",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2015-12-21",
+  "published": "2015-12-31",
+  "in_force": "2015-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d7a656482f2ed9c74c9bdb15ff2f89c7a52106b88af1a44fb6934904e6b8ba68.docx",
+  "source_sha256": "d7a656482f2ed9c74c9bdb15ff2f89c7a52106b88af1a44fb6934904e6b8ba68",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12882",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/12/21/43",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
