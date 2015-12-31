@@ -1,1 +1,0 @@
-1. Agjencia e Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale (ALUIZNI) fillon zbatimin e procedurave të regjistrimit të pasurisë së paluajtshme (objektit dhe parcelës ndërtimore), brenda një afati 10-ditor, pas pajisjes së dosjes së objektit pa leje me lejen e legalizimit.
