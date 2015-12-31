@@ -1,0 +1,1 @@
+2. Ministrisë së Punëve të Jashtme, në buxhetin e miratuar për vitin 2015, në programin buxhetor 01120, “Mbështetje diplomatike jashtë shtetit”, shpenzime korrente, t’i shtohet kundërvlera në lekë e fondit prej 100 000 (njëqind mijë) eurosh, për t’u përdorur si ndihmë financiare për qendrat transite dhe të pritjes për vendet evropiane që presin refugjatë dhe emigrantë.

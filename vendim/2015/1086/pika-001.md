@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, nga Këshilli i Ministrave i Republikës së Shqipërisë, për krijimin e një fondi ndihme, në kuadër të iniciativës së Këshillit të Bankës për Zhvillim të Këshillit të Evropës (CEB), “Për financimin e qendrave transite dhe të pritjes për vendet evropiane që presin refugjatë dhe emigrantë”, në shumën 100 000 (njëqind mijë) euro.
