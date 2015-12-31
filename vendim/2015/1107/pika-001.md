@@ -1,0 +1,1 @@
+1. Krijimin e bordeve rajonale të kullimit Lezhë, Durrës, Fier dhe Korçë, të cilat financohen nga buxheti i shtetit, i miratuar për Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave.
