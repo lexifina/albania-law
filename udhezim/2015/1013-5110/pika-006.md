@@ -1,0 +1,1 @@
+6. Njësia për shqyrtimin e dokumentacionit të procedurave përbëhet nga jo më pak se 5 anëtarë dhe ka në përbërje të tij një ekonomist, një jurist, një inxhinier ose arkitekt, dy specialistë të fushës nga institucione të specializuara, siç përcaktohet në pikën 12, të nenit 3, të ligjit nr. 9048, datë 7.4.2003, “Për trashëgiminë kulturore”, i ndryshuar.

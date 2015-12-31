@@ -1,0 +1,1 @@
+2. Procedurat e administrimit me konkurrim apo jo, kryhen nga Ministria e Kulturës, me kërkesë të institucionit, të institucioneve të specializuara dhe/ose kërkesë apo iniciativë të subjekteve private.

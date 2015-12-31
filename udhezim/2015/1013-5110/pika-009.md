@@ -1,0 +1,1 @@
+9. Pas paraqitjes së dokumentacionit, nga ana e njësisë për shqyrtimin e dokumentacionit të procedurës, Komisioni për Menaxhimin e Pasurive Kulturore, brenda 5 ditëve vlerëson me pikë çdo element konkurrimi, sipas përcaktimit në urdhrin e titullarit, të pikës 4 të lartpërmendur.

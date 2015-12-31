@@ -1,0 +1,1 @@
+11. Gjithashtu, brenda 10 ditëve KKR/KKA, sipas rastit, vlerëson me pikë projektin për ndërhyrjet në monument, nëse ka, duke bërë edhe vërejtje teknike. Pikët e vëna i bashkohen totalit të pikëve të përcaktuara nga Komisioni për Menaxhimin e Pasurive Kulturore.

@@ -1,0 +1,1 @@
+1. Monumentet e kulturës, në administrim të Ministrisë së Kulturës dhe institucioneve të saj të varësisë, jepen me qira dhe administrohen për qëllime rijetëzimi apo shfrytëzimi social-kulturor, me kusht që funksioni i ri të mos dëmtojë vlerën e monumentit.

@@ -1,0 +1,1 @@
+3. Për çdo propozim apo grupe propozimesh, ministri i Kulturës, nëse e konsideron të nevojshëm, ngre Komisionin për Menaxhimin e Pasurive Kulturore, organ këshillimor i ministrit, për vlerësimin e praktikave. Ky Komision përbëhet nga specialistë të fushës, të cilët vlerësojnë llojin e procedurës, afatin e marrëdhënies, si dhe kriteret e vlerësimit që do të ndiqen rast pas rasti.

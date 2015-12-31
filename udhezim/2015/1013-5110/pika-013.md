@@ -1,0 +1,1 @@
+13. Në përfundim, konkurruesit renditen në bazë të pikëve të përfituara. Procesverbali me listën e konkurrentëve dhe pikëzimin e tyre i paraqitet ministrit, i cili vendos për subjektin fitues të konkurrimit pas marrjes së miratimit nga KKR/KKA për nënshkrimin e kontratës në kushtet e ligjit të TK-së, brenda një afati 5-ditor nga marrja e njoftimit.
