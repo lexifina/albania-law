@@ -1,0 +1,1 @@
+6. Aromatizuesit dhe/ose përbërësit ushqi-morë me veti aromatizuese, të prodhuara nga materialet burimore, të listuara në pjesën B të shtojcës III, mund të përdoren vetëm në kushtet e përcaktuara në këtë shtojcë.

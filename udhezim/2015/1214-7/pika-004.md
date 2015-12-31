@@ -1,0 +1,1 @@
+4. Në përputhje me përkufizimet e dhëna në pikën 3, shkronjat “ç”, “d”, “e” dhe “f”, materialet burimore, për të cilat nuk ka të dhëna të rëndësishme të përdorimit për prodhimin e aromatizuesve, do të konsiderohen si ushqim për qëllim të këtij udhëzimi.
