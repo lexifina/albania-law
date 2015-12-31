@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12830,
+  "title": "Për një ndryshim në vendimin nr. 920, datë 18.11.2015, të Këshillit të Ministrave, “Për mbylljen e Agjencisë së Kërkimit, Teknologjisë dhe Inovacionit (AKTI)”.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "1082",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2015-12-24",
+  "published": "2015-12-31",
+  "in_force": "2015-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c82efe25d74b63a024023068dbbab4b454ea18a9378c0e4bac9aa90bb717a75a.docx",
+  "source_sha256": "c82efe25d74b63a024023068dbbab4b454ea18a9378c0e4bac9aa90bb717a75a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12830",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/12/24/1082",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
