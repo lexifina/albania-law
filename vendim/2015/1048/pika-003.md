@@ -1,0 +1,2 @@
+3. Miratimin e dokumentit ndryshues (letra e JICA, datë 4 nëntor 2015), të marrëveshjes së huasë (datë 30 qershor 2008, marrëveshje huaje nr. ABA-P3), ndërmjet qeverisë së Republikës së Shqipërisë dhe Bankës Japoneze për Bashkëpunim Ndërkombëtar (të zëvendësuar nga Agjencia Japoneze e Bashkëpunimit Ndërkombëtar në tetor 2008), për projektin “Përmirësimi i sistemit të kanalizimeve për Tiranën e Madhe”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,6 @@
+VENDIM
+Nr. 1048, datë 23.12.2015
+PËR MIRATIMIN E DOKUMENTEVE NDRYSHUESE TË MARRËVESHJES SË HUAS (DATË 30 QERSHOR 2008, MARRËVESHJE HUAJE NR. ABA-P3), NDËRMJET QEVERISË SË REPUBLIKËS SË SHQIPËRISË DHE BANKËS JAPONEZE PËR BASHKËPUNIM NDËRKOMBËTAR (TË ZËVENDËSUAR NGA AGJENCIA JAPONEZE E BASHKËPUNIMIT NDËRKOMBËTAR NË TETOR 2008), PËR PROJEKTIN “PËRMIRËSIMI I SISTEMIT TË KANALIZIMEVE PËR TIRANËN
+E MADHE”
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 17 e 23, të ligjit nr. 8371, datë 9.7.1998, “Për lidhjen e traktateve dhe marrëveshjeve ndërkombëtare”, me propozimin e ministrit të Punëve të Jashtme, Këshilli i Ministrave
+VENDOSI:
