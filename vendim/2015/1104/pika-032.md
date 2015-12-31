@@ -1,0 +1,1 @@
+32. Ministria përgjegjëse për mjedisin dhe ministria përgjegjëse për transportin bashkëpunojnë me Drejtorinë e Përgjithshme Detare për të siguruar përputhshmëri me parashikimet në fuqi të IMO-s, në qoftë se është i nevojshëm përmirësimi i regjimit të përcaktuar nga ky vendim, por pa zgjeruar objektin e këtij vendimi, referencat në instrumentet IMO dhe anekset e këtij vendimi.

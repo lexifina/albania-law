@@ -1,0 +1,1 @@
+17. Ministria përgjegjëse për transportin, pas konsultimeve me ministrinë përgjegjëse për mjedisin, sigurojnë që kostot e instalimeve marrëse portuale për mbetjet e krijuara nga anijet, përfshirë trajtimin dhe largimin e tyre, të mbulohen përmes mbledhjes së tarifës ekologjike, të detyruar për anijet dhe mjetet lundruese për mbetjet.

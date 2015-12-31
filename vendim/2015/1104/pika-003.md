@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme Detare siguron që anijet e përfshira në shkronjën “a”, të pikës 2, të këtij vendimi, të dorëzojnë mbetjet e krijuara nga anijet dhe tepricat nga ngarkesat e tyre, në mënyrë të vazhdueshme, tek operatorët e licencuar për grumbullimin dhe trajtimin e tyre, referuar legjislacionit në fuqi.

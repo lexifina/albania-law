@@ -1,0 +1,1 @@
+30. Shkeljet e dispozitave të këtij vendimi, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe ndëshkohen sipas pikës 38, të nenit 62, të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar.

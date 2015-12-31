@@ -1,0 +1,1 @@
+22. Kapiteni i anijes që akomodohet në portet e hapura dhe radat e tyre në Republikën e Shqipërisë duhet të sigurojë që tepricat nga ngarkesat të dorëzohen në një instalim marrës portual, në përputhje me dispozitat Marpol 73/78. Përdoruesi i instalimeve marrëse paguan tarifën për dorëzimin e tepricave nga ngarkesat.

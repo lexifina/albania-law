@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme Detare ngarkohet për transportin, në përputhje me kërkesat e IMO-s, duke përcaktuar, me urdhër, procedurat e raportimit në Kapitenerinë e Portit, në rastet kur pretendohet për efikasitet të pamjaftueshëm të instalimeve marrëse portuale.

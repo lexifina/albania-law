@@ -1,0 +1,1 @@
+19. Tarifën ekologjike të marrjes dhe përpunimit të mbetjeve e paguajnë të gjitha anijet dhe mjetet e lundrimit që ankorohen në portet e hapura dhe radat e tyre, pranë Drejtorisë së Përgjithshme Detare dhe, më pas, kjo e fundit likuidon, për çdo rast shërbimi, operatorin e instalimeve marrëse portuale, referuar kontratës përkatëse.

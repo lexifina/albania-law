@@ -1,0 +1,1 @@
+23. Kontrolli Shtetëror Portual/Kapiteneria e Portit duhet të sigurojë që çdo anije të jetë objekt inspektimi për verifikimin e përputhshmërisë së saj me rregullat e përcaktuara në pikat 14, 15, 16 e 24, të këtij vendimi.

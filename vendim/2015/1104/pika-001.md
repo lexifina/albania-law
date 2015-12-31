@@ -1,0 +1,1 @@
+1. Përcaktimin, vendosjen dhe miratimin e kërkesave për parandalimin e shkarkimit të mbetjeve, të krijuara nga anijet dhe tepricat nga ngarkesat e tyre, në det, me synim mbrojtjen e mjedisit detar nga anijet, gjatë përdorimit të porteve të Republikës së Shqipërisë.

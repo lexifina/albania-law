@@ -1,0 +1,1 @@
+13. Kapiteni i anijes ruan kopje të informacionit, të përcaktuar në pikën 11, të këtij vendimi, për një periudhë dyvjeçare, në bordin e anijes, dhe, me kërkesën e tyre, ua vë në dispozicion Drejtorisë së Përgjithshme Detare ose organeve të tjera, të caktuara për këtë qëllim nga ministria përgjegjëse për transportin dhe ministria përgjegjëse për mjedisin.

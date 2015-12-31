@@ -1,0 +1,1 @@
+25. Drejtoria e Përgjithshme Detare përcakton procedurat e kontrollit që sigurojnë plotësimin e kërkesave të këtij vendimi nga mjetet e peshkimit dhe mjeteve lundruese për argëtim, të autorizuara të mbajnë jo më shumë se 12 pasagjerë, anijet e shërbimit detar, rimorkiatorët, pilotazhet, bargat etj.

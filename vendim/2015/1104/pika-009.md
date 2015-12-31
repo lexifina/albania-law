@@ -1,0 +1,1 @@
+9. Plani, referuar në pikën 8, më sipër, hartohet në nivel rajonal ose kombëtar, me përfshirjen e çdo porti, duke siguruar që nevojat për instalimet marrëse dhe disponibiliteti i tyre të specifikohen individualisht, për çdo port, dhe miratohet me urdhër të ministrit përgjegjës për transportin.

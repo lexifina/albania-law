@@ -1,0 +1,1 @@
+12. Kapiteneria e Portit i dërgon një kopje të njoftimit, të përcaktuar në pikën 11, të këtij vendimi, Autoritetit Portual dhe operatorit të instalimeve marrëse portuale. Operatori është i detyruar të mbajë një regjistër për njoftimet dhe certifikatat e dorëzimit të mbetjeve dhe t’ia përcjellë ato, çdo muaj, Drejtorisë së Përgjithshme Detare.
