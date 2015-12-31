@@ -1,0 +1,1 @@
+4. Bashkitë bashkëpunojnë dhe koordinojnë punën për planifikimin e nevojave për ujë për ujitje, shfrytëzimin, mirëmbajtjen dhe rehabilitimin e sistemeve të ujitjes e të kullimit me strukturat rajonale të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, që administrojnë infrastrukturën kryesore në këto sisteme.

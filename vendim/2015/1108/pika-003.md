@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, bashkitë janë përgjegjëse për administrimin, shfrytëzimin dhe mirëmbajtjen e infrastrukturës së ujitjes dhe kullimit, të transferuar në pronësi të tyre, sipas legjislacionit në fuqi, përfshirë edhe sigurinë e digave të rezervuarëve që përdoren për ujitje dhe që u janë transferuar bashkive.
