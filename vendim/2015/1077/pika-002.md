@@ -1,0 +1,1 @@
+2. Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG), Brenda 3 (tre) muajve nga hyrja në fuqi e rregullores, duhet të nxjerrë udhëzues teknik të detajuar për profilin e metadatave për krijuesit dhe përdoruesit.

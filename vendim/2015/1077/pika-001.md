@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për krijimin, ruajtjen dhe përditësimin e metadatave, strukturën e katalogimit dhe afatet e krijimit të metadatave specifike për çdo temë”, sipas tekstit bashkëlidhur këtij vendimi.
