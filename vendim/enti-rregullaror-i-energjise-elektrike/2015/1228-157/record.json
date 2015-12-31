@@ -1,0 +1,28 @@
+{
+  "qbz_id": 12797,
+  "title": "Mbi miratimin e një ndryshimi në rregullat e tregut shqiptar të energjisë elektrike.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "157",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2015-12-28",
+  "published": "2015-12-31",
+  "in_force": "2015-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5a764c9ae3fcd45bad87754093258e5d63fd7946b747a00dbb987d5adf10103c.docx",
+  "source_sha256": "5a764c9ae3fcd45bad87754093258e5d63fd7946b747a00dbb987d5adf10103c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12797",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/12/28/157",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61482
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
