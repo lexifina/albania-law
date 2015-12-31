@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Mirëqenies Sociale dhe Rinisë, Ministria e Financave, Ministria e Punëve të Brendshme, Ministria e Drejtësisë, Ministria e Zhvillimit Urban, Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Ministria e Arsimit dhe Sportit, Ministria e Shënde-tësisë dhe njësitë e qeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

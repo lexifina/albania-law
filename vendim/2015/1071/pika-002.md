@@ -1,0 +1,1 @@
+2. Efekti financiar i zbatimit të strategjisë, për vitin 2015, është 184 800 000 (njëqind e tetëdhjetë e katër milionë e tetëqind mijë) lekë dhe do të përballohet nga buxheti i miratuar për Ministrinë e Mirëqenies Sociale dhe Rinisë.
