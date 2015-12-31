@@ -1,0 +1,1 @@
+1. Pranimet në programet e studimeve të ciklit të dytë me kohë të plotë, për vitin akademik 2015-2016, në Universitetin e Arteve, Tiranë, bëhen mbi bazën e rezultateve të ciklit të parë dhe të rezultateve të fituara nga konkursi i pranimit, i organizuar nga ky institucion publik i arsimit të lartë.

@@ -1,0 +1,1 @@
+2. Rezultatet e ciklit të parë (nota mesatare e viteve të shkollimit), të llogariten në masën 30% dhe rezultatet e konkursit të pranimit në masën 70%, sipas tabelës nr. 1, bashkëngjitur këtij udhëzimi.

@@ -1,0 +1,1 @@
+7. Sekretaritë mësimore të fakulteteve për-katëse, pas verifikimit të listave të të regjistruarve, të ndarë sipas programeve të studimit përkatës, i përcjellin dekanatit listat e aplikantëve për shpallje dhe afishim në vende të dukshme, në mjediset e njësive kryesore përkatëse, brenda orës 16:00, të datës 6.11.2015.

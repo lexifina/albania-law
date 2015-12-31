@@ -1,0 +1,1 @@
+5. Rektorati dhe dekanatet e Universitetit të Arteve, Tiranë, të shpallin në mjediset e tyre, si dhe në faqet web përkatëse deri në datën 3 nëntor 2015, datat dhe oraret e veprimeve të regjistrimit, procedurat përkatëse, listën e dokumenteve të nevojshme për të siguruar një ecuri normale të procesit të regjistrimit në konkursin e pranimit në ciklin e dytë me kohë të plotë.
