@@ -1,0 +1,1 @@
+3. Vendimi nr. 647, datë 19.9.2012, i Këshillit të Ministrave, “Për dhënien në përdorim, pa shpërblim, të një sipërfaqeje prej 371.41m², në përgjegjësi administrimi të Agjencisë Kombëtare të Shoqërisë së Informacionit, qendrës “PROTIK”, Tiranë,” shfuqizohet.

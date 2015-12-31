@@ -1,0 +1,1 @@
+2. Autorizohet Autoriteti Shtetëror për Informacionin Gjeohapësinor të lidhë aktmarrëveshje me qendrën “PROTIK”, Tiranë, për marrjen përsipër, nga ASIG-u, të mbulimit të shpenzimeve për shërbimet utilitare që i nevojiten qendrës “PROTIK”, Tiranë, në këto ambiente.
