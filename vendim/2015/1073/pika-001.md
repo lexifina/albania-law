@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve, për vitin 2016, për Autoritetin e Komunikimeve Elektronike e Postare (AKEP), në shumën 318 570 000 (treqind e tetëmbëdhjetë milionë e pesëqind e shtatëdhjetë mijë) lekë, sipas pasqyrës nr. 1 që i bashkëlidhet këtij vendimi.
