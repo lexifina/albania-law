@@ -1,0 +1,1 @@
+3. Shtesa e kontratës të rregullojë përfaqësimin e Republikës së Shqipërisë në çështjet e arbitrazhit ndërkombëtar kundër Hydro S.R.L., Construzioni S.R.L., Francesco Becchetti, Mauro de Renzis, Stefania Grigolon dhe Liliana Condomitti.

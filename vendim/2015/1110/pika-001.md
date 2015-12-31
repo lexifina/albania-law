@@ -1,0 +1,1 @@
+1. Përcaktimin e Ministrisë së Energjisë dhe Industrisë, si organin e administratës publike të interesuar në çështjet e arbitrazhit ndërkombëtar kundër Hydro S.R.L., Construzioni S.R.L., Francesco Becchetti, Mauro de Renzis, Stefania Grigolon dhe Liliana Condomitti.
