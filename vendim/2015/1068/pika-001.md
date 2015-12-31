@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 8 për qind të pikëve, dhënë bashkimit të përkohshëm të shoqërive “Suzer” dhe “Nurol” (Nurol Enerji Uretim ve Pazarlama dhe Eksen Holding A.S.) për ndërtimin e hidrocentralit “Katundi i Ri”, mbi lumin Drini i Zi, në kuotën maksimale të ujit, 445 m.m.n.d, në kufirin shtetëror të Republikës së Shqipërisë me ish-Republikën Jugosllave të Maqedonisë.
