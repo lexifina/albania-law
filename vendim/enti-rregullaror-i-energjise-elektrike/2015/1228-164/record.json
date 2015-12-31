@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12804,
+  "title": "Për ndryshimin e vendimit nr. 143, datë 26.11.2015, të Bordit të ERE-s.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "164",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2015-12-28",
+  "published": "2015-12-31",
+  "in_force": "2015-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5e5c57cd578980fb50b9cfb2b2de26d341ddd5472b1a386ce8b6b0629b76b12d.docx",
+  "source_sha256": "5e5c57cd578980fb50b9cfb2b2de26d341ddd5472b1a386ce8b6b0629b76b12d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12804",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/12/28/164",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
