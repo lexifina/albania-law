@@ -1,1 +1,0 @@
-1. Dhënien në përdorim, pa shpërblim, të sipërfaqes prej 371.41 m2, në përgjegjësi administrimi të Agjencisë Kombëtare të Shoqërisë së Informacionit, qendrës “PROTIK”, Tiranë, për një afat prej 5 (pesë) vitesh, sipas planimetrisë dhe planvendosjes të paraqitur në shtojcën 1, që i bashkëlidhet këtij vendimi.
