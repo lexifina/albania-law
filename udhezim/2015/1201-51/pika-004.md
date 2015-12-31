@@ -1,0 +1,1 @@
+4. Ministria e Arsimit dhe Sportit u dërgon institucioneve publike të arsimit të lartë, brenda datës 15 dhjetor 2015, dokumentacionin përkatës të aplikantëve të përzgjedhur sipas pikës 3 të këtij udhëzimi, për të kryer procedurat e mëtejshme të regjistrimit në programet e studimit përkatës.
