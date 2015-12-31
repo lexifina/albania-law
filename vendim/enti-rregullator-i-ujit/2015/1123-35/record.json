@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12877,
+  "title": "Për mosshqyrtim të propozimit për ndryshim tarife për sh.a. UK Lezhë.",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "35",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2015-11-23",
+  "published": "2015-12-31",
+  "in_force": "2015-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/744ce0a6ea9762f0877ce197fb702d987a0a5b752ef3f2534ace55e83dea1618.docx",
+  "source_sha256": "744ce0a6ea9762f0877ce197fb702d987a0a5b752ef3f2534ace55e83dea1618",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12877",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2015/11/23/35",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
