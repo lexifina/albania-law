@@ -1,0 +1,26 @@
+{
+  "qbz_id": 12886,
+  "title": "Për disa ndryshime dhe shtesa në ligjin nr. 7895, datë 27.1.1995, “Kodi Penal i Republikës së Shqipërisë”, të ndryshuar.",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "135",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-12-05",
+  "published": "2015-12-31",
+  "in_force": "2016-01-15",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/258b7e89d05c1954eb1f2737de8a44ca83a96c22d176a9d1ebcbd765c34042bb.docx",
+  "source_sha256": "258b7e89d05c1954eb1f2737de8a44ca83a96c22d176a9d1ebcbd765c34042bb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12886",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2015/12/05/135",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
