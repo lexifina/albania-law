@@ -1,0 +1,6 @@
+# Neni 41
+Shqyrtimi i dokumentacionit tekniko-ligjor
+1. Shërbimi vendor i MZSH-së miraton projektin e mbrojtjes nga zjarri dhe shpëtimin që shoqëron dokumentacionin tekniko-ligjor të lejeve zhvillimore, lejeve të ndërtimit, në përputhje me këtë ligj dhe legjislacionin për planifikimin dhe zhvillimin e territorit.
+2. Shërbimi qendror i MZSH-së miraton projektin e mbrojtjes nga zjarri dhe shpëtimin që shoqëron dokumentacionin tekniko-ligjor të lejeve të zhvillimit dhe të ndërtimit të objekteve me rëndësi ekonomiko-strategjike kombëtare, dhe të objekteve me rrezikshmëri të theksuar për zjarr e shpërthim, në përputhje me këtë ligj dhe me legjislacionin për planifikimin dhe zhvillimin e territorit.
+3. Klasifikimi i objekteve, sipas rrezikshmërisë nga zjarri, procedurat e miratimit, koha dhe mënyra e shqyrtimit të projektit të mbrojtjes nga zjarri dhe shpëtimin, që shoqërojnë dokumentacionin tekniko-ligjor, lejeve të zhvillimit, lejeve të ndërtimit, si dhe e lëshimit të certifikatës të mbrojtjes nga zjarri, miratohen me udhëzim të ministrit.
+4. Personi i ngarkuar nga shërbimi i MZSH-së për miratimin e dokumentacionit teknik që shoqëron lejet zhvillimore/ndërtimore, si dhe për dokumentacionin për lëshimin e certifikatës së mbrojtjes nga zjarri dhe shpëtimin, mban përgjegjësi, në përputhje me legjislacionin në fuqi.
