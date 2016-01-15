@@ -1,0 +1,5 @@
+# Neni 92
+Garantimi i vazhdimit të funksioneve bazë qeverisëse
+1. Në rastin e riorganizimit me ndryshim kufijsh, që krijon njësi të reja të vetëqeverisjes vendore, ose kur ky riorganizim shkakton papajtueshmëri të mandatit të shumicës së anëtarëve të këshillit të njësisë së vetëqeverisjes vendore, së cilës i largohet një pjesë e territorit, në këto njësi kryhen zgjedhje vendore të pjesshme, sipas mënyrave dhe afateve të parashikuara në Kodin Zgjedhor të Republikës së Shqipërisë.
+2. Organet e reja të vetëqeverisjes vendore, si dhe organet e tjera shtetërore qendrore e vendore kompetente marrin menjëherë masat e nevojshme që njësitë e vetëqeverisjes vendore, të krijuara ose të prekura nga riorganizimi, të funksionojnë normalisht, sipas këtij ligji, duke garantuar kryerjen e shërbimeve bazë publike për popullatën përkatëse për periudhën transitore.
+3. Procedurat dhe masat për transferimin e të drejtave dhe detyrimeve, aktiveve të trupëzuara dhe të patrupëzuara, të arkivave dhe çdo dokumentacioni tjetër shtetëror në njësitë e vetë-qeverisjes vendore, të krijuara ose të prekura nga riorganizimi, përcaktohen me vendim të Këshillit të Ministrave.

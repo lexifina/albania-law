@@ -1,0 +1,5 @@
+# Neni 95
+Dispozitë kalimtare
+1. Deri në datën 31 dhjetor 2017, në çdo njësi administrative funksionon administrata e njësisë administrative. Nga 1 janari 2018, këshilli i bashkisë ka kompetencën të vendosë për riorganizimin e administratave të njësive administrative, të cilat mund të mbulojnë territorin e një ose më shumë njësive administrative brenda bashkisë, sipas nevojave të komuniteteve vendore dhe efekt-shmërisë administrative.
+2. Pavarësisht nga përcaktimet e bëra në nenin 54, shkronja “i”, të këtij ligji, përbërja ekzistuese e këshillave të qarqeve qëndron në fuqi deri në formimin e këshillave të qarqeve pas zgjedhjeve vendore në vitin 2019. Në rast të krijimit të vendeve vakante, deri në plotësimin e kërkesës së shkronjës “i”, të nenit 54, të këtij ligji, ato plotësohen me kandidatë të gjinisë më pak të përfaqësuar.
+3. Funksionet e reja, që u transferohen bashkive me këtë ligj, për një periudhë deri në tre vjet, do të financohen nga buxheti i shtetit me transferta specifike, sipas kritereve të përcaktuara në ligjin vjetor të Buxhetit të Shtetit.

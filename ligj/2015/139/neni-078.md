@@ -1,0 +1,5 @@
+# Neni 78
+Votimi
+1. Vendimet e këshillit të qarkut merren me shumicën e votave, në prani të më shumë se gjysmës së të gjithë anëtarëve, me përjashtim të rasteve të përcaktuara në shkronjat “a”, “b”, “ë”, “f”, “g”, “gj” e “ll”, të nenit 77, të këtij ligji, që kërkojnë votat e më shumë se gjysmës së të gjithë anëtarëve të këshillit. Vendimet merren me jo më pak se tre të pestat e numrit të përgjithshëm të anëtarëve të këshillit për rastin e parashikuar në shkronjën “e”, të nenit 77, të këtij ligji.
+2. Në rastet e votimit për kryetarin, zëvendës-kryetarin dhe sekretarin e këshillit, kur nuk sigurohet shumica e kërkuar, votimi ribëhet midis dy kandidatëve, që në raundin e parë kanë fituar numrin më të madh të votave. Në rast se edhe pas këtij votimi kandidatët kanë numër të barabartë votash, fituesi caktohet me short.
+3. Vendimet e këshillit shpallen brenda 10 ditëve nga data e marrjes së tyre dhe hyjnë në fuqi 10 ditë pas shpalljes. Vendimet me karakter individual hyjnë në fuqi në datën e njoftimit të tyre subjekteve që përfshihen në to.

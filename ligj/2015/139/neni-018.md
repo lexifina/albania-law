@@ -1,0 +1,5 @@
+# Neni 18
+Seancat e këshillimeve me bashkësinë
+1. Këshilli bashkiak ose këshilli i qarkut, përpara shqyrtimit dhe miratimit të akteve, zhvillon seanca këshillimi me bashkësinë, të cilat janë të detyrueshme për rastet e parashikuara në nenet 54, shkronjat “a”, “dh”, “e”, “f” dhe “k”, dhe 77, shkronjat “a”, “dh”, “e”, “f” dhe “k”, të këtij ligji.
+2. Këshillimi me publikun, në çdo rast, bëhet sipas mënyrës së përcaktuar në rregulloren e këshillit, duke përdorur një nga format e nevojshme, si takimet e hapura me banorët e grupet e interesit, takime me specialistë, me institucione të interesuara dhe organizata jofitimprurëse ose nëpërmjet marrjes së nismës për organizimin e referendumeve vendore.
+3. Aktet e këshillit publikohen në faqen zyrtare të internetit dhe afishohen në vende publike, të caktuara nga këshilli me akses të lirë publik, brenda territorit të njësisë vendore dhe, sipas mundësive, këshilli cakton edhe forma të tjera të publikimit të tyre. Informimi i publikut në çdo bashki bëhet në përputhje me ligjin për të drejtën e informimit dhe rregullat e përcaktuara nga vetë këshilli përkatës për këtë qëllim.
