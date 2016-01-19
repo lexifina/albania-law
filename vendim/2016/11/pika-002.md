@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Arsimit dhe Sportit, Ministria e Financave, Ministria e Mirëqenies Sociale dhe Rinisë, Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Ministria e Mjedisit, Ministria e Punëve të Brendshme, ministri i Shtetit për Inovacionin dhe Administratën Publike, njësitë arsimore vendore dhe njësitë e qeverisjes vendore për ndjekjen dhe zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
