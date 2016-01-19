@@ -1,0 +1,1 @@
+2. Ky fond të përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2016, ndërsa fondi prej 6 000 000 (gjashtë milionë) lekësh, të përballohet nga fondet e planifikuara për AIDA-n, për vitin 2016. Fondi në total prej 36 000 000 (tridhjetë e gjashtë milionë) lekësh të përdoret për promovimin e Shqipërisë në mediat ndërkombë-tare.

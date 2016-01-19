@@ -1,0 +1,1 @@
+1. Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, në buxhetin e miratuar për vitin 2016, t’i shtohet fondi prej 30 000 000 (tridhjetë milionë) lekësh, për Agjencinë Shqiptare të Zhvillimit të Investimeve.
