@@ -1,0 +1,1 @@
+3. Me mbrojtje të veçantë, sipas këtij vendimi, nënkuptohen masat që merren për sigurimin e jetës, shëndetit, familjes apo pronës së punonjësit të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes apo individit që merr pjesë në operacione të fshehta të kësaj agjencie dhe përdor identitet të dyfishtë.

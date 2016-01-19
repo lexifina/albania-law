@@ -1,0 +1,1 @@
+8. Në rastet e veçanta kur rrethanat përcaktojnë marrjen e masave të menjëhershme, ministri i Mbrojtjes, me propozimin e drejtorit të përgjithshëm të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes miraton urdhrin menjëherë.

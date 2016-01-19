@@ -1,0 +1,1 @@
+2. Mbrojtje e veçantë i garantohet edhe individit që merr pjesë në operacione të fshehta të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes dhe përdor identitet të dyfishtë dhe kur, për shkak të bashkëpunimit, i rrezikohen jeta, shëndeti, familja apo prona.

@@ -1,0 +1,1 @@
+10. Agjencia e Inteligjencës dhe Sigurisë së Mbrojtjes, për zbatimin e masave të përcaktuara në pikën 5, të këtij vendimi, i drejtohet dhe mbështetet nga Policia Ushtarake e Forcave të Armatosura dhe, në pamundësi të kësaj, nga Policia e Shtetit.
