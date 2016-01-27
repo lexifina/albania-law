@@ -1,0 +1,1 @@
+6. Procedurat e aplikimit dhe kriteret për përzgjedhjen e përfituesve përcaktohen në rregulloren e funksionimit të Fondit Shqiptar të Konkurrueshmërisë, e cila miratohet nga ministri përgjegjës për ekonominë.

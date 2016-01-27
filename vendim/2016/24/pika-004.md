@@ -1,0 +1,1 @@
+4. Pagesa e subvencionit bëhet 50%, me miratimin e projektit, dhe 50%, në fund të zbatimit të tij. Pagesa në fund të projektit do të bëhet kundrejt faturave të shpenzimeve të kryera për vlerën e përgjithshme të projektit.

@@ -1,0 +1,1 @@
+1. Krijimin e Fondit Shqiptar të Konkurrueshmërisë, me vlerë të përgjithshme 84 000 000 (tetëdhjetë e katër milionë) lekë, për periudhën 2016-2018. Vlera e fondit për secilin vit do të jetë 28 000 000 (njëzet e tetë milionë) lekë.
