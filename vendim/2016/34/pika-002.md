@@ -1,0 +1,1 @@
+2. Autorizohet Autoriteti Shtetëror për Informacionin Gjeohapësinor që të lidhë aktmarrëveshje me projektin “Innovation Hub”, për marrjen përsipër nga ASIG-u të mbulimit të shpenzimeve për shërbimet e nevojshme, që i nevojiten projektit “Innovation Hub”, në këto ambiente.
