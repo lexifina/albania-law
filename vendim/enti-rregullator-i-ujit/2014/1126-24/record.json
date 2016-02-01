@@ -1,0 +1,27 @@
+{
+  "qbz_id": 11541,
+  "title": "PËR LICENCIMIN E SHA UJËSJELLËS-KANALIZIME ELBASAN",
+  "type": "Vendim",
+  "number": "24",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2014-11-26",
+  "version_no": 1,
+  "qbz_version_id": 1173,
+  "in_force": "2016-02-01",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2016-02-01",
+  "changed_by_qbz_id": 67194,
+  "changed_by_number": "8",
+  "changed_by_title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 24, DATË 26.11.2014, “PËR LICENCIM SHA UJËSJELLËS-KANALIZIME ELBASAN”",
+  "source": "https://qbz.gov.al/files/604c73a4ba7ea4ed9f5c8a3ff202042f64ff0aac54e54dc57cb1f16aec7e1eb1.docx",
+  "source_sha256": "604c73a4ba7ea4ed9f5c8a3ff202042f64ff0aac54e54dc57cb1f16aec7e1eb1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/11541",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/11541/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
