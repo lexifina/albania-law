@@ -1,0 +1,1 @@
+9. Masa e depozitës bankare që duhet të paraqitet në dokumentacionin për pajisjen me vizë nga i huaji, për rastet e përcaktuara me vendimin e Këshillit të Ministrave nr. 513, datë 13.6.2013, duhet të jetë të paktën 50 euro për ditë qëndrimi të kërkuar në vizë.

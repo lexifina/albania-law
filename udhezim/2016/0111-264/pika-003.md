@@ -1,0 +1,1 @@
+3. Përjashtohen nga detyrimi për t’u paraqitur personalisht për të aplikuar për vizë në PDK të huajt që plotësojnë kriteret sipas kreut II, pika 7, të vendimit të Këshillit të Ministrave nr. 513, datë 13.6.2013 ose raste të miratuara me udhëzim të DÇK-së.

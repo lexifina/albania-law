@@ -1,0 +1,1 @@
+8. Në rast se gjatë procedurës së pranimit të aplikimit konstatohet paraqitja e dokumenteve të falsifikuara, konsulli refuzon dhënien e vizës, vendos vulën “REFUZUAR” në pasaportën e të huajit, duke shënuar datën e refuzimit, sekuestron dokumentin e falsifikuar, informon MPJ-në për rastin e konstatuar dhe vepron sipas udhëzimeve që i jepen.

@@ -1,0 +1,1 @@
+4. Aplikimi për vizë pranohet kur dokumentacioni i dorëzuar është në përputhje me vendimin e Këshillit të Ministrave nr. 513, datë 13.6.2013. Nëse gjykon të arsyeshme, konsulli kërkon dokumente shtesë apo kthen aplikimin për plotësim në rast dokumentacioni të paplotë. Arsyeja e kthimit mbahet shënim dhe i komunikohet me shkrim të huajit.
