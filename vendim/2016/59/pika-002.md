@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Financave, Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Ministria e Integrimit Evropian, Departamenti i Zhvillimit, Financimeve dhe Ndihmës së Huaj, në Kryeministri, dhe të gjitha njësitë e qeverisjes së përgjithshme për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë, botohet në Fletoren Zyrtare dhe i shtrin efektet nga data 1 janar 2016.
