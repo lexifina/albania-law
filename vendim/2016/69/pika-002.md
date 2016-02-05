@@ -1,0 +1,2 @@
+2. Të gjitha subjektet që kanë filluar aktivitetin para hyrjes në fuqi të kësaj rregulloreje, brenda 30 (tridhjetë) ditëve nga data e miratimit të saj, duhet të fillojnë procedurat e regjistrimit të parashikuara në ligjin nr. 107/2015, datë 1.10.2015, “Për identifikimin elektronik dhe shërbimet e besuara”, dhe në këtë rregullore.
+Përjashtohen nga ky detyrim ato subjekte të regjistruara pranë Autoritetit për ofrimin e nënshkrimit elektronik, sipas ligjit nr. 9880, datë 25.2.2008, “Për nënshkrimin elektronik”.
