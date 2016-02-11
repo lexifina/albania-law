@@ -1,0 +1,9 @@
+# PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT, NGA MINISTRIA E MBROJTJES TE MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS, PËR AUTORITETIN RRUGOR SHQIPTAR, TË DISA SIPËRFAQEVE TË TRUALLIT FUNKSIONAL, BRENDA TERRITORIT TË PRONËS NR. 1019, ME EMËRTIM “REPARTI USHTARAK NR. 4030, AERODROMI”, ME VENDNDODHJE NË URËN VAJGURORE, BERAT, DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 515, DATË 18.7.2003, TË KËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË MBROJTJES”, TË NDRYSHUAR
+
+Official source: [Vendimi i Këshillit të Ministrave nr. 78, datë 3.2.2016](https://qbz.gov.al/api/v1/acts/55961).
+
+Status of this text: `as-enacted`. Adopted 2016-02-03; published 2016-02-11; in force 2016-02-11.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
