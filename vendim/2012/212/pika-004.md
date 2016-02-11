@@ -1,1 +1,0 @@
-4. Titullari i njësisë publike është përgjegjës për ngritjen, funksionimin, garantimin e kapaciteteve dhe garantimin e pavarësisë funksionale dhe organizative të njësive të auditimit të brendshëm brenda njësisë publike.
