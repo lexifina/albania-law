@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66885,
+  "title": "PËR SHPALLJE LIGJI DHE DHËNIEN E PËLQIMIT PËR HYRJEN\nNË FUQI MENJËHERË TË LIGJIT",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "9420",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2016-02-09",
+  "published": "2016-02-11",
+  "in_force": "2016-02-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/18ff65600a32db321ec1d905fd747d7c11a7755725ff3502dee28d1e6e07481e.docx",
+  "source_sha256": "18ff65600a32db321ec1d905fd747d7c11a7755725ff3502dee28d1e6e07481e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66885",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2016/02/09/9420",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
