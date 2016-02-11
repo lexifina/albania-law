@@ -1,0 +1,1 @@
+1. Shoqëria “Qendra sportive” sh.a., Tiranë, me kapital 100 për qind shtetëror, aktualisht në pronësi të Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, transferohet në pronësi të Bashkisë Tiranë, me të gjitha të drejtat dhe detyrimet, në momentin e hyrjes në fuqi të këtij vendimi.
