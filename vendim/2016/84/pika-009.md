@@ -1,0 +1,1 @@
+9. Datat e shpalljes së përzgjedhjes së inspektorëve financiarë publikë, ekspertë të jashtëm, punonjës të administratës publike apo jashtë saj, afati dhe procedurat e aplikimit caktohen me urdhër të ministrit të Financave.

@@ -1,0 +1,1 @@
+1. Për kryerjen e inspektimit financiar publik, në rastet e mungesës së burimeve njerëzore nga njësia përgjegjëse për inspektimin financiar publik në Ministrinë e Financave, si dhe të mbulimit të fushave specifike të inspektimit financiar publik, me vendim të Nëpunësit të Parë Autorizues angazhohen ekspertë të jashtëm, punonjës të administratës publike apo jashtë saj.

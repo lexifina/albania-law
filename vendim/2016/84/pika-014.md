@@ -1,0 +1,1 @@
+14. Efektet financiare, që rrjedhin nga kostoja e angazhimit të inspektorëve financiarë publikë, ekspertë të jashtëm, punonjës të administratës publike apo jashtë saj, përballohen nga fondet e miratuara në buxhetin vjetor të Ministrisë së Financave.

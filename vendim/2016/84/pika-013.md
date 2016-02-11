@@ -1,0 +1,1 @@
+13. Shpërblimi i inspektorëve financiarë publikë, ekspertë të jashtëm, punonjës të administratës publike apo jashtë saj, sipas pikës 11, të këtij vendimi, kryhet me miratimin e Nëpunësit të Parë Autorizues.

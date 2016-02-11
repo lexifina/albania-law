@@ -1,0 +1,1 @@
+3. Nuk mund të angazhohen për inspektim financiar publik ekspertët, punonjës të adminis-tratës publike, që ushtrojnë funksionet e titullarit të njësisë publike, nëpunësit autorizues, gjyqtarit, prokurorit, oficerit të policisë gjyqësore, audituesit të brendshëm dhe punonjësit të Kon-trollit të Lartë të Shtetit.

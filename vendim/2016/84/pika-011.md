@@ -1,0 +1,4 @@
+11. Inspektori financiar publik, ekspert i jashtëm, punonjës i administratës publike apo jashtë saj, për periudhën e angazhimit të tij në kryerjen e inspektimit financiar publik trajtohet financiarisht. Ky trajtim jepet i diferencuar, si më poshtë vijon:
+a) Për inspektorin financiar publik, që është ekspert, punonjës i administratës publike, trajtimi financiar përfshin, krahas pagës mujore të tij, edhe shpërblimin në masën 5 000 (pesë mijë) lekë në ditë.
+b) Inspektori financiar publik, që është ekspert jashtë administratës publike, shpërblehet në masën 7 000 (shtatë mijë) lekë në ditë.
+c) Në rastet kur inspektori financiar publik, ekspert i jashtëm, punonjës i administratës publike apo jashtë saj, dërgohet për inspektim jashtë qendrës së tij të punës, ai trajtohet edhe me dietë, sipas kritereve të përcaktuara në aktet nënligjore në fuqi.

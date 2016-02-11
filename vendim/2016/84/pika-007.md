@@ -1,0 +1,1 @@
+7. Për raste të veçanta, kur gjatë shërbimit të inspektimit financiar publik kërkohet akses në informacionin e klasifikuar në bazë të kuadrit ligjor në fuqi, inspektori financiar publik, përpara angazhimit në inspektim financiar, pajiset me certifikatën e sigurisë nga institucionet përkatëse.
