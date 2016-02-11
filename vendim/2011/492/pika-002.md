@@ -1,1 +1,0 @@
-2. Ngarkohet Ministri i Financave që, brenda kufijve të përcaktuar në pikën 1 të këtij vendimi, në përputhje me vështirësinë, volumin apo rëndësinë financiare të inspektimit, të përcaktojë në urdhrin e inspektimit, rast pas rasti, kohëzgjatjen e inspektimit dhe masën fikse të shpërblimit të inspektorit financiar publik.

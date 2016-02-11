@@ -1,4 +1,0 @@
-1. Inspektori financiar publik, për periudhën e angazhimit të tij në kryerjen e inspektimit financiar publik, trajtohet financiarisht. Ky trajtim jepet i diferencuar, si më poshtë vijon:
-a) Për inspektorin financiar publik, që është nëpunës i administratës publike, trajtimi financiar përfshin, krahas pagës mujore të tij, edhe shpërblimin në masën 3000-5000 lekë në ditë.
-Në rastet kur inspektori dërgohet për inspektim jashtë qendrës së tij të punës, ai trajtohet edhe me dietë, sipas kritereve të përcaktuara në vendimin nr.997, datë 10.12.2010 të Këshillit të Ministrave “Për trajtimin financiar të punonjësve që dërgohen me shërbim jashtë qendrës së punës, brenda vendit”.
-b) Inspektori financiar publik, kur është ekspert i jashtëm i licencuar i fushës, për kryerjen e detyrës së inspektimit financiar publik shpërblehet në masën 5000-10000 lekë në ditë.
