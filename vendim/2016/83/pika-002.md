@@ -1,0 +1,1 @@
+2. Organizimi i njësive të auditimit të brendshëm në nivel sektori apo drejtorie bëhet në varësi të madhësisë dhe kompleksitetit të veprimtarisë së njësisë publike, si dhe në mbështetje të dispozitave të ligjit nr. 90/2012, “Për organizimin dhe funksionimin e adminis-tratës shtetërore”.

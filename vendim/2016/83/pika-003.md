@@ -1,0 +1,1 @@
+3. Njësia e auditimit të brendshëm përbëhet nga jo më pak se 3 (tre) punonjës, përfshirë dhe drejtuesin e njësisë. Në strukturën e njësisë së auditimit të brendshëm mund të punësohen deri në 1/3 e punonjësve të pacertifikuar si auditues të brendshëm në sektorin publik.

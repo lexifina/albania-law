@@ -1,0 +1,1 @@
+5. Në njësitë publike, të cilat kanë varësi nga dy ose më shumë institucione dhe nuk kanë të krijuar njësinë e auditimit të brendshëm, shërbimi i auditimit të brendshëm kryhet nga institucioni në fushën e përgjegjësisë shtetërore të të cilit bën pjesë njësia publike.

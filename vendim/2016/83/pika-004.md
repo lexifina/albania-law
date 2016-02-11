@@ -1,0 +1,1 @@
+4. Njësitë publike, që krijojnë njësinë e auditimit të brendshëm, sipas pikës 1, të këtij vendimi, nuk programojnë të kryejnë shërbimin e auditimit të brendshëm për njësitë e varësisë, të cilat kanë në strukturën e tyre organizative njësi të auditimit të brendshëm.
