@@ -1,0 +1,1 @@
+6. Çdo pronar, për t’u likuiduar për efekt shpronësimi, dorëzon pranë shoqërisë “Lengarica & Energy” sh.p.k., dokumentacionin e plotë të pronësisë, vërtetimin bankar, lidhur me numrin e llogarisë dhe IBAN-in, si dhe kopjen e kartës së identitetit, të shoqëruar me një kërkesë.
