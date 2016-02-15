@@ -1,0 +1,1 @@
+9. Kopja në letër e vërtetuar si kopje e dokumentit elektronik, e përftuar nga kodet dydimensionale që përmbajnë ekstrakt të dokumentit, duhet të përmbajë elementet dhe shkresën bashkëlidhëse sipas aneksit 2 (bashkëlidhur). Kjo shkresë ngjitet në mënyrë të sigurt me kopjen në letër të dokumentit elektronik.

@@ -1,0 +1,1 @@
+1. Autoriteti përgjegjës për lëshimin e kopjes në letër, të dokumentit elektronik me kode dydimensionale, është institucioni, i cili krijon dokumentin elektronik, në përputhje me kërkesat e ligjit 10273/2010, “Për dokumentin elektro-nik”.
