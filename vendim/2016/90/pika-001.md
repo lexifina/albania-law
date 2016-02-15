@@ -1,0 +1,3 @@
+1. Fondi për investime për funksionin e ujitjes e të kullimit, miratuar në buxhetin e vitit 2016, në shumën 2 450 000 000 (dy miliardë e katërqind e pesëdhjetë milionë) lekë, ndahet ndërmjet bashkive, për:
+a) blerjen e 61 ekskavatorëve, me vlerë 1 118 742 000 (një miliard e njëqind e tetëmbëdhjetë milionë e shtatëqind e dyzet e dy mijë) lekë, sipas tabelës 1, që i bashkëlidhet këtij vendimi;
+b) projekte rehabilitimi të skemave ujitëse, me vlerë 1 331 258 000 (një miliard e treqind e tridhjetë e një milionë e dyqind e pesëdhjetë e tetë mijë) lekë, sipas tabelës 2, që i bashkëlidhet këtij vendimi.

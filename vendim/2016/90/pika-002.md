@@ -1,0 +1,1 @@
+2. Ngarkohet Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, si organ qendror blerës, për kryerjen e prokurimit të fondit limit, të përcaktuar në shkronjën “a”, të pikës 1, të këtij vendimi, të përllogaritur si shumë e fondeve të miratuara për secilën prej bashkive përfituese, për blerjen e 61 ekskavatorëve.
