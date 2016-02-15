@@ -1,0 +1,28 @@
+{
+  "qbz_id": 61482,
+  "title": "MBI NJË NDRYSHIM NË VENDIMIN NR. 157, DATË 28.12.2015, TË BORDIT TË ERE “PËR MIRATIMIN E NJË NDRYSHIMI NË RREGULLAT E TREGUT SHQIPTAR TË ENERGJISË ELEKTRIKE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "10",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-01-27",
+  "published": "2016-02-15",
+  "in_force": "2016-02-15",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/564e77b2661f6ad56e2e9aef21fca71d6c1447cf481d510719dcd4a544e89d76.docx",
+  "source_sha256": "564e77b2661f6ad56e2e9aef21fca71d6c1447cf481d510719dcd4a544e89d76",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61482",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/01/27/10",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63910
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
