@@ -1,0 +1,3 @@
+19. Institucionet shëndetësore, private dhe publike, me kërkesë të Ministrisë së Mbrojtjes, mbajnë shtretër të lirë për trajtim mjekësor të personelit ushtarak pjesëmarrës në përballimin e gjendjeve në të cilat janë vendosur masa të jashtëzakonshme. Numri i shtretërve përcaktohet me marrëveshje mes Ministrisë së Mbrojtjes dhe Ministrisë së Shëndetësisë.
+Tarifat e rimbursimit për institucionet private caktohen me udhëzim të përbashkët të ministrit të Shëndetësisë dhe ministrit të Mbrojtjes.
+Rimbursimi i trajtimit mjekësor pranë institucioneve shëndetësore private të personelit ushtarak, pjesëmarrës në përballimin e gjendjeve në të cilat janë vendosur masa të jashtëzakonshme, përballohet rast pas rasti nga fondi rezervë i buxhetit të shtetit.

@@ -1,0 +1,1 @@
+14. Autoritetet e porteve e të aeroporteve kombëtare, si dhe institucionet e tjera që shërbejnë si kapacitete kombëtare caktojnë pikat e kontaktit (personelin koordinator), të cilat ia raportojnë Ministrisë së Mbrojtjes për përballimin e gjendjeve në të cilat janë vendosur masa të jashtëzakonshme.

@@ -1,0 +1,1 @@
+17. Trajtimi financiar, material apo me kompensime të tjera të shtetasve që thirren për rastet e mobilizimit të përgjithshëm ose të pjesshëm do të jetë në përputhje me aktet ligjore e nënligjore të trajtimit të ushtarakëve aktivë të Forcave të Armatosura.

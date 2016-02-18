@@ -1,0 +1,1 @@
+2. Mobilizimi ushtarak është detyrim ligjor i shtetasve për të siguruar plotësimin e njësive e të reparteve të strukturave ushtarake me personel gjatë periudhave në të cilat janë vendosur masa të jashtëzakonshme.

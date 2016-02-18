@@ -1,0 +1,1 @@
+18. Trajnimi i personelit rezervist për kryerjen e misioneve e të detyrave bëhet në bazë të strukturave në të cilat do të angazhohen, mbi bazë vjetore dhe sipas fondeve të caktuara për Ministrinë e Mbrojtjes, në përputhje me kërkesat e ligjit nr. 9047, datë 10.7.2003, “Për shërbimin ushtarak në Republikën e Shqipërisë”, të ndryshuar.

@@ -1,0 +1,1 @@
+21. Në rastet e mobilizimit të përgjithshëm ose të pjesshëm Ministria e Mbrojtjes i kërkon ministrit përgjegjës për rezervat materiale të shtetit informacion për gjendjen e rezervave materiale të shtetit dhe lëvrimin e tyre, sipas përcaktimeve të ligjit nr. 9900, datë 10.4.2008, “Për rezervat material të shtetit”.

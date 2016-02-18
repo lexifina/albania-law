@@ -1,0 +1,1 @@
+4. Forcat rezervë, të cilat thirren gjatë mobilizimit të përgjithshëm ose të pjesshëm, janë pjesë e Forcave të Armatosura, të cilat janë të gatshme për pjesëmarrje gjatë gjendjeve në të cilat janë vendosur masa të jashtëzakonshme, si dhe për pjesëmarrje në misione/operacione në mbështetje të paqes, jashtë vendit.

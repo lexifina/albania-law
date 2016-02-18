@@ -1,0 +1,1 @@
+3. Mobilizimi kryhet në bazë të situatave të veçanta dhe nevojave të Forcave të Armatosura. Në rastet e mobilizimit të përgjithshëm ose të pjesshëm, thirren shtetasit sipas përcaktimit të bërë në ligjin nr. 9047, datë 10.7.2003, “Për shërbimin ushtarak në Republikën e Shqipërisë”, të ndryshuar.

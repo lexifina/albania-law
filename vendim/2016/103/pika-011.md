@@ -1,0 +1,1 @@
+11. Ministria e Mbrojtjes, në bashkëpunim me ministrinë përgjegjëse për transportin, është përgjegjëse për mbajtjen dhe përditësimin e listës së mjeteve e të pajisjeve që do të aktivizohen gjatë gjendjeve në të cilat janë vendosur masa të jashtëzakonshme.

@@ -1,0 +1,1 @@
+16. Organet e njësive të qeverisjes vendore dhe Policia e Shtetit, për rastet e mobilizimit të përgjithshëm ose të pjesshëm, sigurojnë paraqitjen e shtetasve që thirren në bazë të listës emërore të personelit, të dërguar nga Qendra e Personel - Rekrutimit.

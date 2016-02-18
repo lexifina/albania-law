@@ -1,0 +1,1 @@
+8. Lista emërore e personelit në rezervë hartohet nga Qendra e Personel-Rekrutimit, në Shtabin e Përgjithshëm të Forcave të Armatosura, brenda muajit janar të çdo viti, e cila është jo më shumë se 25% e numrit të përgjithshëm të Forcave të Armatosura.

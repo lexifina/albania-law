@@ -1,0 +1,1 @@
+9. Ministria e Mbrojtjes, nëpërmjet Qendrës së Personel-Rekrutimit, është përgjegjëse për mbajtjen dhe përditësimin e listës së personelit në rezervë që mund të aktivizohet gjatë gjendjeve në të cilat janë vendosur masa të jashtëzakonshme, në bazë të të dhënave që merr nga Ministria e Punëve të Brendshme dhe njësitë e qeverisjes vendore.
