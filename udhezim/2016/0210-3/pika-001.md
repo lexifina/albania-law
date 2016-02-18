@@ -1,0 +1,1 @@
+1. Miratimin e formatit të aktit të konstatimit, procesverbalit të gjobës dhe aktit të konfiskimit që mbahet nga inspektorët e AMLF-së, në zbatim të ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”, bashkëlidhur këtij udhëzimi.
