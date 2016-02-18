@@ -1,0 +1,1 @@
+3. Përfitues për masat e mbështetjes dhe masën e përfitimit nga fondi i programit për bujqësinë dhe zhvillimin rural do të jenë fermerë, personat fizikë, personat juridikë dhe shoqëritë e bashkëpunimit bujqësor (SHBB).

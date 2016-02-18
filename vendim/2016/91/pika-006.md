@@ -1,0 +1,1 @@
+6. Nga fondi i përmendur në pikën 1, të këtij vendimi, të përdoret shuma 280 000 000 (dyqind e tetëdhjetë milionë) lekë për bashkëfinancim me projektet IPA. Përdorimi i këtyre fondeve realizohet sipas marrëveshjes operacionale të nënshkruar ndërmjet Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, AZHBR-së dhe GIZ-it.
