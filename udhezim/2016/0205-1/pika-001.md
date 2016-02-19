@@ -1,0 +1,1 @@
+1. Produktet ushqimore, të listuara në shtojcën bashkëlidhur këtij udhëzimi (më poshtë shtojcë), nuk vendosen në treg kur përmbajnë një kontaminues të listuar në shtojcë në një nivel që ka tejkaluar nivelin maksimal të vendosur.
