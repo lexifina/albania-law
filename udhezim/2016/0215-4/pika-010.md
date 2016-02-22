@@ -1,0 +1,1 @@
+10. Për të gjithë punëkërkuesit e regjistruar, të paktën një herë në gjashtë muaj, bëhet një riintervistim për rishikimin e profilit, vlerësimin e punësueshmërisë së tyre dhe rishikimin e planeve individuale të punësimit.

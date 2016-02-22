@@ -1,0 +1,3 @@
+2. Zyra përkatëse e punësimit planifikon një intervistë të plotë regjistrimi për vlerësimin e punësueshmërisë së punëkërkuesit, përcaktimin e profilit të tij, nevojën për shërbime dhe planin e veprimeve për punësim.
+Në sistemin e shërbimeve të punësimit dhe në formularin standard për regjistrimin e punëkërkuesit regjistrohen të dhënat e identitetit të punëkërkuesit dhe informacioni për aftësitë, njohuritë, kompetencat, aktivitetin e kërkimit të punës, motivimin për punë dhe pritshmërinë për punësim në tregun aktual të punës.
+Punëkërkuesi i regjistruar firmos formularin e regjistrimit për të konfirmuar vërtetësinë e deklarimit dhe për të lejuar zyrën e punësimit të përpunojë dhe përdorë të dhënat e deklaruara.

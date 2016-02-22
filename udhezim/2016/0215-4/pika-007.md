@@ -1,0 +1,4 @@
+7. Kur punëkërkuesi paraqitet për të kërkuar punë në një zyrë tjetër punësimi nga ajo që ushtron veprimtarinë në zonën e vendbanimit të tij të përhershëm, i konfirmuar ky vendbanim edhe nga lidhja në sistem me regjistrin e gjendjes civile, zyra e punësimit verifikon regjistrimin si punëkërkues në bazën e të dhënave të sistemit të shërbimeve të punësimit.
+- Nëse personi nuk rezulton i regjistruar, vazhdon procedurat e plota për vlerësim dhe regjistrim në zyrën ku është paraqitur.
+- Nëse personi rezulton i regjistruar si punëkërkues, bën një rivlerësim të punësueshmërisë së tij, verifikon statusin e punësimit dhe kategorinë në të cilën është klasifikuar nga zyra përkatëse, që ka bërë regjistrimin.
+Punëkërkuesi i regjistruar përfiton ose jo nga shërbimet e punësimit dhe programet që ofron zyra e punësimit, në varësi të statusit të tij në zyrë “Punëkërkues” apo “Punëkërkues i papunë”.
