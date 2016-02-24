@@ -1,0 +1,1 @@
+7. Sekretari i komisionit të kualifikimit të audituesve të brendshëm caktohet nga drejtori i Përgjithshëm i strukturës përgjegjëse për harmo-nizimin e auditimit të brendshëm dhe përzgjidhet ndër punonjësit e kësaj strukture.

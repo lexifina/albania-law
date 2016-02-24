@@ -1,0 +1,1 @@
+9. Kryetari dhe çdo anëtar i komisionit të kualifikimit të audituesve të brendshëm kanë të drejtën e një vote. Kryetari voton i fundit. Vendimet merren me shumicën e votave të anëtarëve që marrin pjesë në mbledhje dhe kanë të drejtë vote. Votimi është i hapur, me përjashtim të votimit për kryetarin, dhe, në asnjë rast, nuk lejohet abstenimi, ndërsa vota kundër argumentohet.

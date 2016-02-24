@@ -1,0 +1,1 @@
+1. Komisioni i kualifikimit të audituesve të brendshëm është përgjegjës për mbikëqyrjen e procesit të certifikimit dhe trajnimit të vijueshëm profesional të audituesve të brendshëm në sektorin publik në varësi të ministrit të Financave.
