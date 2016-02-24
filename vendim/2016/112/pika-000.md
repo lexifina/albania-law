@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Konfederatës Zvicerane, të përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC) e Departamentit Federal Zviceran të Punëve të Jashtme, e cila vepron nëpërmjet Ambasadës Zvicerane në Shqipëri për projektin “Lëviz Albania”, faza e parë, korrik 2015 - qershor 2019, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
