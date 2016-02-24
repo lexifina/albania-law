@@ -1,0 +1,3 @@
+17. Komisioni përbëhet nga tre anëtarë dhe krijohet nga njësia përgjegjëse sipas rastit. Komisioni i ristrukturimit, brenda 15 (pesëmbëdhjetë) ditëve nga data e ristrukturimit.
+a) I propozon me shkrim njësisë përgjegjëse transferimin e nëpunësit civil sipas precedencës së përcaktuar në pikën 2, të nenit 50, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar;
+b) Vlerëson dhe merr vendim për rastet e përfundimit të marrëdhënies në shërbimin civil për arsyet e parashikuara në pikën 6, të nenit 50, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, të cilin ia dërgon njësisë së burimeve njerëzore të institucionit.

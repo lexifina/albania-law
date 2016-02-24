@@ -1,0 +1,1 @@
+20. Njësia përgjegjëse, brenda 10 (dhjetë) ditëve nga data e marrjes së propozimit nga komisioni i ristrukturimit, vendos për transferimin e nëpunësit civil, njofton nëpunësin civil për vendimin dhe merr mendimin e tij me shkrim. Nëpunësi civil duhet të japë mendimin e tij me shkrim brenda 5 (pesë) ditëve nga data e marrjes së njoftimit.

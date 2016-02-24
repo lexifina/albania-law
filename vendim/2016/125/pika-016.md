@@ -1,0 +1,1 @@
+16. Në rastet e mbylljes apo ristrukturimit, njësia përgjegjëse krijon një komision ristrukturimi, i cili shqyrton mundësitë e sistemimit të çdo nëpunësi civil në vendet e lira ekzistuese dhe propozon transferimin e nëpunësit në një pozicion të lirë të së njëjtës kategori apo përfundimin e marrëdhënies në shërbimin civil të nëpunësit.

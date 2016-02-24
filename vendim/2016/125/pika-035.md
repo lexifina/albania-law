@@ -1,0 +1,1 @@
+35. Nëpunësi civil ka të drejtë të ankohet në rrugë administrative dhe gjyqësore sipas rregullave të parashikuara nga Kodi i Procedurave Administrative dhe legjislacioni në fuqi për gjykimin e mosmarrëveshjeve administrative.
