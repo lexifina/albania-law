@@ -1,1 +1,1 @@
-4. Fondi prej 276 006.24 (dyqind e shtatëdhjetë e gjashtë mijë e gjashtë pikë njëzet e katër) lekësh të përballohet nga fondet e OST, sh.a.-së.
+4. Fondi prej 4 417 304.94 (katër milionë e katërqind e shtatëmbëdhjetë mijë e treqind e katër pikë nëntëdhjetë e katër) lekë. të përballohet nga fondet e OST, sh.a.-së.
