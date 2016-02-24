@@ -1,0 +1,1 @@
+7. Ndërveprimi me bazat e tjera të të dhënave shtetërore dhe proceset e punës në bazën e të dhënave të DMAIS-së përcaktohen me rregullore të brendshme ose me urdhër të drejtorit të Përgjithshëm të Institutit të Sigurimeve Shoqërore, në përputhje me rregullat në zbatim të ligjit nr. 10325, datë 23.9.2010, “Për bazën e të dhënave shtetërore”.
