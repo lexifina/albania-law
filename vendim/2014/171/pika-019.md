@@ -1,1 +1,0 @@
-19. Komisioni i ristrukturimit në propozimin e tij mbështetet mbi kriteret specifike të vendeve të lira apo të krijuara të reja si pasojë e ristrukturimit dhe të dhënat e nëpunësve civilë, vendet e të cilëve preken si pasojë e ristrukturimit. Vendimi është individual për çdo nëpunës civil.

@@ -1,1 +1,0 @@
-6. Nëpunësi civil mund të transferohet përkohësisht, për nevojat e institucionit apo shtetit, në një organizatë ndërkombëtare, në të cilën Republika e Shqipërisë është anëtare, apo në një institucion ndërkombëtar. Kërkesa bëhet nga organi i emërtesës në këtë institucion apo organizatë dhe miratohet nga njësia përgjegjëse.

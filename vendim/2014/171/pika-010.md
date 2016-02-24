@@ -1,1 +1,0 @@
-10. Njësia përgjegjëse merr vendim brenda 10 (dhjetë) ditëve pas afatit të përcaktuar në pikën 9 të këtij vendimi. Transferimi i përkohshëm bëhet me afat të përcaktuar në vendimin përkatës dhe përveç rasteve të parashikuara në pikën 9 të këtij vendimi, është i detyrueshëm.

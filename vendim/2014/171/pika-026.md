@@ -1,4 +1,0 @@
-26. Eprori direkt ka të drejtë të kërkojë nga njësia përgjegjëse transferimin e nëpunësit civil nëpërmjet një kërkese të arsyetuar. Nëpunësi civil dëgjohet nga njësia përgjegjëse përpara se të marrë vendim dhe i paraqet asaj vërtetimin e gjendjes shëndetësore.
-Kreu V
-TRANSFERIMI PËR SHKAK TË SHMANGIES SË
-KONFLIKTIT TË INTERESIT

@@ -1,1 +1,0 @@
-27. Në institucionet qendrore, eprori direkt, vetë nëpunësi civil ose njësia e burimeve njerëzore mund të kërkojnë transferimin në një pozicion tjetër të së njëjtës kategori ose, me miratimin e nëpunësit, në një kategori më të ulët, me qëllim shmangien e konfliktit të vazhdueshëm të interesit a të konflikteve të tjera të parashikuara në legjislacionin për konfliktin e interesit.

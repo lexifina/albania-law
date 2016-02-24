@@ -1,1 +1,0 @@
-29. Nëpunësi civil që kërkon të transferohet, i paraqet njësisë përgjegjëse një kërkesë me shkrim dhe deklaron konfliktin e interesit. Njësia përgjegjëse njofton eprorin direkt për kërkesën e nëpunësit.

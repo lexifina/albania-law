@@ -1,1 +1,0 @@
-3. Transferimi i përkohshëm nuk bëhet për nëpunësit civilë në periudhë prove dhe në kuptim të pikës 2 të këtij vendimi, në periudhën 2-vjeçare të viteve të punës nuk përfshihet koha e periudhës së provës.
