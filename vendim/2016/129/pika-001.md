@@ -1,0 +1,1 @@
+1. Në buxhetin e bashkive, të miratuar për vitin 2016, të shtohet fondi prej 111 000 000 (njëqind e njëmbëdhjetë milionë) lekësh, sipas tabelës 1 bashkëlidhur këtij vendimi. Ky fond i shtohet transfertës specifike sipas bashkive, të miratuar për vitin 2016, për funksionin e ujitjes e të kullimit.
