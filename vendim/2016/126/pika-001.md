@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, dhe marrjen në përdorim të përkohshëm të pasurive që preken nga sheshet e depozitimit/magazinimit të tubave dhe kampeve të punëtorëve, stacionet e kompresorëve dhe valvulat e bllokimit (pjesë e projektit TAP), sipas listave nr. 1 dhe nr. 2, bashkëlidhur këtij vendimi.

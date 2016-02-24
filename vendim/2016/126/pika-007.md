@@ -1,0 +1,1 @@
+7. Çdo përdorues të likuidohet, për efekt shpronësimi dhe të marrjes në përdorim të përkohshëm të pasurive, në bazë të kopjes së dokumentit të identifikimit, vërtetimit bankar, lidhur me numrin e llogarisë dhe IBAN-in, si dhe të certifikatës familjare, që dorëzon pranë shoqërisë TAP AG.

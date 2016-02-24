@@ -1,0 +1,1 @@
+4. Vlera totale, prej 130 640 628.37 (njëqind e tridhjetë milionë e gjashtëqind e dyzet mijë e gjashtëqind e njëzet e tetë pikë tridhjetë e shtatë) lekësh, dhe vlera e shpenzimeve procedurale të përballohen nga shoqëria TAP AG, si subjekti kërkues i këtij shpronësimi.
