@@ -1,0 +1,4 @@
+3. Shenjat dalluese të mjeteve të Policisë Ushtarake janë stema, mbishkrimi, pajisjet sinjalizuese, ndriçuese e zanore, si më poshtë vijon:
+a) Stema e Policisë Ushtarake, me specifikimet teknike sipas aneksit 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Stema vendoset në mënyrë të dukshme në dy faqet anësore të mjetit.
+b) Mbishkrimi “POLICIA USHTARAKE”, me specifikimet teknike sipas aneksit 4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Mbishkrimi vendoset në mënyrë të dukshme në dy faqet anësore të mjetit.
+c) Pajisjet sinjalizuese, ndriçuese e zanore (sirena), me specifikimet teknike sipas aneksit 5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Pajisjet sinjalizuese, ndriçuese e zanore, (sirena) vendosen në mënyrë të dukshme në pjesën e sipërme të mjetit.
