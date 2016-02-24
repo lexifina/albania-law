@@ -1,1 +1,0 @@
-10. Kryetari dhe çdo anëtar i komisionit kanë të drejtën e një vote. Kryetari voton i fundit. Vendimi është i vlefshëm kur votojnë “pro”, jo më pak se tre anëtarë. Votimi është i hapur, me përjashtim të votimit për kryetarin dhe në asnjë rast, nuk lejohet abstenimi, ndërsa vota kundër argumentohet.
