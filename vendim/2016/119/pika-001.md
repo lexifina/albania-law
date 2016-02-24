@@ -1,0 +1,1 @@
+1. Numri i praktikantëve për kryerjen e praktikës profesionale, me kontratë të përkohshme, për sistemin arsimor parauniversitar, për periudhën 1 janar-15 qershor 2015 dhe periudhën 15 shtator-31 dhjetor 2016 është 1 500 (një mijë e pesëqind) praktikantë.

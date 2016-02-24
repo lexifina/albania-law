@@ -1,0 +1,1 @@
+4. Efektet financiare për pagesën e sigurimeve shoqërore e shëndetësore për vitin 2016, të përllogaritura në emër të punëdhënësit e të punëmarrësit, në shumën 82 863 000 (tetëdhjetë e dy milionë e tetëqind e gjashtëdhjetë e tre mijë) lekë, që rrjedhin nga zbatimi i këtij vendimi, të mbulohen nga fondet e miratuara në buxhetin e vitit 2016, për Ministrinë e Arsimit dhe Sportit.
