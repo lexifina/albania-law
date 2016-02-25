@@ -1354,6 +1354,720 @@ Përmbajtja e protokolleve të rasteve
 Raportet e policisë mbi masat e mbrojtjes
 DPPSH
 SHSSH
+PLAN VEPRIMI
+PËR RIINTEGRIMIN SOCIO-EKONOMIK TË GRAVE DHE VAJZAVE VIKTIMA TË TRAFIKIMIT TË PERSONAVE
+2015-2017
+SHKURTIME
+AIDA
+Agjencia Shqiptare e Zhvillimit të Investimeve
+AT
+Antitrafikimi
+KM
+Këshilli i Ministrave
+KDF
+Konventa për të Drejtat e Fëmijës
+D&E
+Organizata “Të ndryshëm dhe të barabartë”
+VKM
+Vendim i Këshillit të Ministrave
+KE
+Komisioni Evropian
+BE
+Bashkimi Evropian
+IOM
+Organizata Ndërkombëtare për Migracionin
+MM
+Memorandum Mirëkuptimi
+NBS
+Agjencia Shtetërore për Nxitjen e Biznesit Social
+SHKP
+Shërbimi Kombëtar i Punësimit
+OJF
+Organizata jofitimprurëse
+QKPVT
+Qendra Kombëtare Pritëse e Viktimave të Trafikimit
+MKR
+Mekanizmi Kombëtar i Referimit
+ZKKAT
+Zyra e Koordinatorit Kombëtar Antitrafikim
+VMT
+Viktimë e Mundshme Trafikimi
+SHSSH
+Shërbimi Social Shtetëror
+TQNJ
+Trafikimi i Qenieve Njerëzore
+OKB
+Organizata e Kombeve të Bashkuara
+UNICEF
+Fondi i OKB-së për Fëmijët
+UN Women
+Entiteti i Kombeve të Bashkuara për Barazinë Gjinore dhe Fuqizimin e Grave
+VT
+Viktimë e Trafikimit
+YAPS
+Fondacioni Rinor i Shërbimeve Profesionale
+“Hiqet liria e vetëm një qenieje njerëzore dhe vihen në rrezik liritë e të gjithë botës”
+William Lloyd Garrison
+Falënderime
+Ky dokument është pjesë e pandarë e Strategjisë së Luftës kundër Trafikimit të Personave (2014-2017) dhe planit të saj të veprimit. Është përgatitur në emër të qeverisë së Shqipërisë nga Zyra e Koordinatorit Kombëtar Antitrafikim (ZKKAT) me pjesëmarrjen e strukturave antitrafikim, përfaqësuesve të ministrive të linjës, ekspertëve për trafikimin e qenieve njerëzore dhe kontributin e OJF-ve që punojnë me viktimat e trafikimit.
+Ekspertiza dhe asistenca teknike për përgatitjen e projektit është dhënë nga “Projekti për Parandalimin dhe Trajtimin e Dhunës kundër Grave dhe Vajzave në Shqipëri”, si pjesë e programit “Parandalimi dhe trajtimi i dhunës kundër grave dhe vajzave në Shqipëri, Meksikë dhe Timorin Lindor”, financuar nga Bashkimi Evropian (BE), në kuadër të Instrumentit Evropian për Demokraci dhe të Drejtat e Njeriut (EIDHR) dhe zbatuar nga Entiteti i Kombeve të Bashkuara për Barazinë Gjinore dhe Fuqizimin e Grave (UN Women), në partneritet me Programin e Zhvillimit të Organizatës së Kombeve të Bashkuara (UNDP) dhe Organizatën Ndërkombëtare për Migracionin (IOM). Për përgatitjen e dokumentit punoi në një proces konsultimi me të gjithë aktorët, znj. Dajena Kumbaro, konsulente e IOM-së. Puna për përgatitjen e këtij plani veprimi është kryer në një proces konsultimi me të gjithë aktorët nëpërmjet pjesëmarrjes në tri tryeza të rrumbullakëta dhe intervista individuale.
+Një falënderim i veçantë shkon sidomos për stafin e organizatës psikosociale “Vatra”, “Të ndryshëm dhe të barabartë”, “Tjetër vizion” dhe Qendrës Kombëtare Pritëse të Viktimave të Trafikimit për kontributin e tyre të çmuar dhe mbështetjen në identifikimin e përfituesve në fazën e riintegrimit për t’u intervistuar. Së fundi, por jo me më pak rëndësi, falënderime të veçanta për përfituesit për besimin e tyre dhe kontributin, ndarjen e sugjerimeve bazuar në përvojat e tyre personale, përmirësimin e shërbimeve të riintegrimit dhe në funksion të procesit të qëndrueshëm të riintegrimit të viktimave që i kanë mbijetuar trafikimit.
+A. HYRJE
+1. Kërkesa për përgatitjen e planit të veprimit për riintegrimin socio-ekonomik të grave dhe vajzave, viktima të trafikimit (VT) dhe viktima të mundshme të trafikimit (VMT) mbështetet në Strategjinë e Luftës kundër Trafikimit të Personave, 2014-2017 (tani e më tutje “Strategjia Antitrafikim”). Strategjia parashikon marrjen e masave për hartimin e një plani veprimi për riintegrimin e VT-ve dhe VMT-ve dhe nënvizon që disa nga qëllimet e tij në lidhje me ndihmën për riintegrimin për personat e trafikuar varen gjerësisht nga një sërë politikash sektoriale dhe ndërsektoriale, përfshirë ato në fushën e arsimit, punësimit, përfshirjes dhe mbrojtjes sociale, zhvillimit dhe integrimit, gjinisë, dhunës në familje, mbrojtjen e fëmijëve dhe antidiskriminimin.
+a) Kuptimi i riintegrimit
+2. Riintegrimi nuk është përkufizuar në ndonjë marrëveshje ndërkombëtare. Zakonisht ka të bëjë me masat e marra në kuadër të masave parandaluese kundër ritrafikimit ose trafikimit ose masave në ndihmë të VT-së. Për ilustrim Konventa Evropiane për Masat kundër Trafikimit të Qenieve Njerëzore u kërkon shteteve palë, përfshirë Shqipërisë, marrjen e masave për të ndihmuar viktimat në rekuperimin e tyre fizik, psikologjik dhe social, duke pasur parasysh nevojat e viktimës për siguri dhe mbrojtje, në bashkëpunim me OJF-të dhe organizata të tjera të përfshira në ndihmën për viktimat. Kjo ndihmë duhet të jepet bazuar në pëlqimin dhe informimin e VT-së, duke pasur parasysh nevojat specifike të personave në pozitë të pambrojtur, si edhe fëmijët dhe nuk duhet të kushtëzohet me vullnetin e viktimës për të vepruar si dëshmitar (neni 12). Konventa, gjithashtu, përcakton që ndihma për viktimat e TQNJ-së duhet të përfshijë akomodim të duhur dhe të sigurt.
+3. Riintegrimi është një proces. Kur një grua ose një vajzë që i ka mbijetuar një përvoje trafikimi dhe ka vendosur të qëndrojë në një komunitet ose kthehet te familja e saj dhe komuniteti i saj i mëparshëm, ky proces njihet si riintegrim, ndërsa kur jeton në një qytet të ri ose mjedis të ri atëherë ky proces përkufizohet si integrim. Një përkufizim i fjalës riintegrim është si më poshtë: “riintegrim është procesi i përfshirjes dhe i rindërtimit të marrëdhënieve brenda një komuniteti në vendin e origjinës në katër nivele: fizik, socio-ekonomik, socio-politik dhe kulturor”. Riintegrimi, gjithashtu, përkufizohet si “procesi i rikuperimit dhe përfshirjes sociale dhe ekonomike pas një përvoje trafikimi. Përfshin vendosjen në një mjedis të sigurt dhe të qëndrueshëm, akses në standard jetese të arsyeshëm, mirëqenie fizike dhe mendore dhe mundësi për zhvillim personal, social dhe ekonomik dhe akses në mbështetje sociale dhe emocionale. Një aspekt qendror i riintegrimit të suksesshëm është ai i fuqizimit, mbështetjes së viktimave për të zhvilluar aftësi drejt pavarësisë dhe vetëmjaftueshmërisë dhe për t’u përfshirë në mënyrë aktive në rikuperimin dhe riintegrimin e tyre”.
+b) Paraqitje e shkurtër e kontekstit socio-ekonomik në Shqipëri
+4. Procesi i riintegrimit socio-ekonomik të grave dhe vajzave varet gjerësisht nga kushtet e përgjithshme sociale, ekonomike dhe politike në vend. Pas një periudhe të gjatë të rritjes së shpejtë ekonomike, ekonomia shqiptare ka përjetuar së fundmi pasojat e krizës ekonomike globale. Rritja ekonomike pësoi rënie nga një normë 3.7% në vitin 2010 në 2.5% në vitin 2011 dhe 1.6% në vitin 2012. Në fund të vitit 2013, rritja ekonomike kaloi në shifra negative përpara rikuperimit në fillim të vitit 2014 me një rritje të PBB-së prej 1.65% në bazë vjetore gjatë tremujorit të parë të vitit 2014. Pritshmëritë e rritjes së ardhme ekonomike janë më të ulëta sesa në të shkuarën. Vlera e remitancave neto ka qenë rreth 9% e PBB-së në vitin 2012. Ndikimi është i rëndësishëm në një situatë ku një 1/5 e familjeve në Shqipëri mendohet se jetojnë me të ardhura nga migracioni (remitanca). Remitancat kanë pësuar rënie në vitet e fundit, jo vetëm një përqindje të PBB-së, por edhe në vlerë absolute sepse migrantët shqiptarë jashtë vendit janë prekur nga kriza globale ekonomike dhe si pasojë shumë prej tyre kanë humbur punën dhe janë kthyer në vendlindje.
+5. Një tjetër faktor që ndikon në ndërhyrjet për riintegrim lidhet me punësimin informal si një fenomen shumë i përhapur në Shqipëri. Punësimi informal është i rëndësishëm për mirëqenien e shumë familjeve, megjithatë është i lidhur ndjeshëm me të ardhura të ulëta, varfëri dhe situatë të pambrojtur. Gjithashtu, riintegrimi i grave dhe i vajzave që kthehen nga një përvojë trafikimi ndikohet shumë nga pabarazitë rajonale, ku rajoni qendror ka nivelin më të lartë të PBB-së për person dhe rajoni verior ka PBB-në më të ulët.
+6. Përgjithësisht, gratë në Shqipëri luajnë një rol të rëndësishëm në dy sektorët kryesorë të ekonomisë: shërbime dhe bujqësi. Megjithatë, shifrat tregojnë që gjatë tre muajve të fundit të vitit 2014, ka pasur një rritje me 1.5% të grave të papuna.
+c) Qëllimi i planit të veprimit
+7. Ky plan veprimi mbulon aspektin e riintegrimit socio-ekonomik të grave dhe vajzave VT dhe VMT, në fushat e: a) fuqizimit ekonomik, d.m.th. të drejta pronësie, punësim dhe formim profesional; b) strehim; c) arsimim; dhe d) kujdesit social.
+8. Riintegrimi i viktimave të trafikimit është shumëdimensional. Së pari dhe ajo që është më e rëndësishme, marrja e masave për të arritur riintegrimin do të thotë përpjekje për të shpërbërë rrethin e trafikimit, shfrytëzimit dhe skllavërisë së qenieve njerëzore. Nuk është thjesht një proces drejt realizimit të të drejtave socio-ekonomike. Në fakt, është një proces i sigurimit dhe garantimit të së drejtës për mbrojtje të grave dhe vajzave nga nënshtrimi ndaj shkeljeve të shumëfishta të të drejtave të tyre themelore, si e drejta për t’u çliruar nga tortura, trajnimi çnjerëzor dhe poshtërues ose ndalimi i skllavërisë, nënshtrimi dhe puna me forcë ose e detyruar. Mbrojtja e këtyre të drejtave themelore të njeriut është përgjegjësi e shtetit; ato janë absolute dhe nuk lejojnë shmangie. Është e panevojshme të thuhet që nëse nuk trajtohen shkaqet që çuan në trafikim, ekziston rrezik i madh për ritrafikim, riviktimizim dhe shfrytëzim.
+9. Riintegrimi i suksesshëm i viktimave të trafikimit varet nga një gamë e madhe faktorësh dhe situatash përfshirë profilin individual të personit, mjedisin ku ajo do të riintegrohet, mekanizmat e ndryshëm mbështetës për riintegrim, rolin e shtetit, shoqërisë civile dhe komuniteteve vendore. Sugjerohet që disa kritere për përcaktimin nëse një individ është riintegruar me sukses në shoqëri dhe ekonomikisht janë si më poshtë: 1) strehim ose akomodim i sigurt dhe i përballueshëm; 2) status ligjor; 3) mundësi profesionale/punësimi; 4) mundësi arsimimi dhe trajnimi; 5) siguri; 6) mjedis i shëndetshëm social (përfshirë antidiskriminimin dhe antimarxhi-nalizimin); 7) mirëqenie sociale dhe marrëdhënie pozitive ndërpersonale; 8) mirëqenie /qëndrueshmëri ekonomike; 9) akses në shërbime dhe mundësi etj.
+B. METODOLOGJIA
+10. Metodologjia për hartimin e planveprimit përfshin hapat e mëposhtëm: 1) rishikimi i literaturës për mbledhjen dhe analizën e një sërë dokumentesh, që janë identifikuar dhe kërkuar nga IOM dhe që janë shtuar nga konsulentja; 2) identifikimi i aktorëve dhe i rolit të tyre në integrimin socio-ekonomik të grave dhe vajzave VT/VMT; 3) intervista me autoritete, organizata të OKB-së, OJF dhe VT personalisht; 4) vleftësimi i metodologjisë dhe seancave të konsultimit për të diskutuar boshllëqet dhe ndërhyrjet; 5) analizimi i të gjithë informacionit dhe burimeve të të dhënave; dhe 6) prezantimi i planit të veprimit/rekomandimeve tek IOM.
+11. Rishikimi i literaturës përfshin legjislacionin e zbatueshëm shqiptar; traktatet ndërkombëtare (Protokolli i Palermos dhe Konventa e Këshillit të Evropës për Masat kundër Trafikimit; praktikën gjyqësore të Gjykatës Evropiane të të Drejtave të Njeriut (GJEDNJ) në lidhje me TQNJ-në; raportet dhe udhëzimet e IOM, manualet e IOM për integrimin e VT; analizat e mëparshme të boshllëqeve për standardet dhe praktikat; strategjitë dhe planet kombëtare të veprimit për të luftuar dhe për të parandaluar TQNJ-në; Raportet Periodike dhe Vlerësimet e Zyrës së Koordinatorit Kombëtar; procesverbalin e takimeve të Mekanizmit Kombëtar të Referimit (MKR) dhe Autoritetit Përgjegjës (AP); punimet /jurisprudencën e organeve të OKB-së dhe Këshillit të Evropës kundër trafikimit; raportet e OJF-ve përfshirë publikime të institutit NEXUS.
+12. Pyetësorët u përgatitën dhe intervistat u zhvilluan me aktorë të ndryshëm, sidomos zëvendësministren e Punëve të Brendshme /Koordinatoren Kombëtare të Antitrafikimit; përfaqësues të IOM-it, UN-WOMEN-it, UNDP-së, UNICEF-it, UNHCR-së, të përfshirë në TQNJ dhe dhunën kundër vajzave dhe grave; përfaqësues të Task Forcës Kombëtare Antitrafikim; përfaqësues të MKR-së dhe autoritetit përgjegjës dhe komiteteve rajonale antitrafikim; përfaqësues nga Agjencia Shqiptare për Mbrojtjen e të Drejtave të Fëmijëve; vajza dhe gra VT që kanë përfituar nga programe integrimi; D&E, Vatra, Tjetër Vizion, NBS, AIDA, YAPS etj.
+13. Vleftësimi i metodologjisë dhe konsultimi. Janë organizuar tri tryeza të rrumbullakëta konsultimi me aktorët për të diskutuar metodologjinë, për të identifikuar boshllëqet dhe për të diskutuar propozimet për ndërhyrje. Procesi i vlerësimit dhe i identifikimit të boshllëqeve në legjislacion, procedura dhe praktika ka qenë pjesëmarrës dhe pasqyron këndvështrimin e të gjithë aktorëve. Në përfundim të çdo tryeze të rrumbullakët, aktorët paraqitën propozime për ndërhyrje.
+a) Qasje mbështetur te të drejtat e njeriut
+14. Qasja e mbështetur te të drejtat e njeriut është e dukshme në Strategjinë kundër TQNJ-së dhe është qasja që drejton këtë plan veprimi. TQNJ-ja përbën një shkelje për dinjitetin dhe liritë themelore të njeriut dhe një shkelje të rëndë të të drejtave të njeriut. Kjo është konfirmuar nga GJEDNJ-ja në vendimin e saj në çështjen Rantsev kundër Qipros dhe Rusisë, ku Gjykata konkludoi që TQNJ-ja, sipas kuptimit të nenit 3(a) të Protokollit të Palermos dhe nenit 4(a) të Konventës së Këshillit të Evropës për Masat kundër Trafikimit, përfshihet në fushën e veprimit të nenit 4 të Konventës Evropiane për të Drejtat e Njeriut (që ndalon skllavërinë, nënshtrimin dhe punën me forcë ose të detyruar). Gjykata, më tej, konkludon që neni 4 përfshin një detyrim pozitiv për të mbrojtur viktimat ose viktimat e mundshme, si edhe detyrimin procedural për të hetuar trafikimin.
+15. Të drejtat e njeriut që kanë më shumë lidhje me trafikimin janë:
+a) Ndalimi i diskriminimit për shkak të racës, ngjyrës, gjinisë, gjuhës, fesë, mendimit politik ose tjetër, origjinës kombëtare ose sociale, pasurisë, lindjes ose statusit;
+b) E drejta për të jetuar;
+c) E drejta për liri dhe siguri;
+d) E drejta për të mos qenë objekt i skllavërisë, nënshtrimit, punës me forcë ose të detyruar;
+e) E drejta për të mos iu nënshtruar torturës dhe/ose trajtimit ose ndëshkimit çnjerëzor, poshtërues, mizor;
+f) E drejta për të mos qenë objekt i dhunës me bazë gjinore;
+g) E drejta për lirinë e shoqërizimit;
+h) E drejta për lirinë e lëvizjes;
+i) E drejta për standardin më të lartë të arritshëm të shëndetit fizik dhe mendor;
+j) E drejta për kushte të drejta dhe të favorshme të punës;
+k) E drejta për standard të përshtatshëm jetese;
+l) E drejta për sigurime shoqërore;
+m) E drejta e fëmijëve për mbrojtje të veçantë;
+b) Pikat e referimit: Kuadri strategjik, e drejta ndërkombëtare dhe legjislacioni kombëtar
+16. Plani i veprimit merr parasysh dhe plotëson strategjitë dhe planet e ndryshme të veprimit që ndikojnë në riintegrimin socio-ekonomik të grave dhe vajzave VT dhe VMT. Këto strategji dhe plane veprimi përfshijnë Strategjinë Antitrafikim, 2014-2017, Strategjinë për Barazinë Gjinore dhe Dhunën në Familje, Strategjinë për Punësim dhe Aftësi (2014-2020); projektstrategjinë për Mbrojtjen Sociale 2015-2020; Planin e Veprimit për Sipërmarrjen e Grave (2014-2020) etj.
+17. Pikat e referimit kundrejt të cilave vlerësohen boshllëqet dhe propozohen ndërhyrjet marrin parasysh, të drejtën ndërkombëtare për TQNJ-në, udhëzimet e IOM, agjencive të BE-së, raportet e GRETA-s, si edhe praktikat, studimet dhe raportet e përgatitura nga organizatat si NEXUS.
+18. Në nivel ndërkombëtar, Shqipëria është palë në Konventën e Kombeve të Bashkuara kundër Krimit të Organizuar Ndërkufitar dhe Protokollit të saj për parandalimin, shtypjen dhe ndëshkimin e trafikimit të qenieve njerëzore, sidomos grave dhe fëmijëve (të dyja të ratifikuara në vitin 2001), dhe Konventës së Këshillit të Evropës për Masat kundër Trafikimit. Shqipëria është, gjithashtu, palë në një sërë traktatesh të tjera ndërkombëtare në lidhje me masat kundër TQNJ-së sidomos Konventa Evropiane për të Drejtat e Njeriut, Konventa e OKB-së për të Drejtat e Fëmijës dhe Protokolli i saj opsional për Shitjen e Fëmijëve, Prostitucionin e Fëmijëve dhe Pornografinë e Fëmijëve, si dhe Konventa për Eliminimin e Diskriminimit kundër Grave etj.
+19. Në përputhje me Marrëveshjen e Stabilizim-Asociimit (MSA), Shqipëria është në proces të përafrimit të legjislacionit me të drejtën e BE-së në fushën e luftës kundër TQNJ-së, sidomos me Direktivën 2011/36/EU të Parlamentit Evropian dhe Këshillit të 5 prillit 2011 për parandalimin dhe luftën kundër trafikimit të qenieve njerëzore dhe mbrojtjen e viktimave të tij; Direktivën e Këshillit 2004/81/EC, e 29 prillit 2004, për lejet e qëndrimit që i jepen shtetasve të vendeve të treta që janë viktima të trafikimit të qenieve njerëzore ose që kanë qenë objekt i një veprimi për lehtësimin e imigracionit të paligjshëm dhe që bashkëpunojnë me autoritetet kompetente; Direktivën e Këshillit 2004/80/EC, e 29 prillit 2004, në lidhje me dëmshpërblimin e viktimave të krimit; dhe Vendimin Kuadër 2001/220/JHA, të 15 marsit 2001, të Këshillit të Bashkimit Evropian për pozitën e viktimave në proces penal.
+C. PLANI I VEPRIMIT
+a) Komponentët
+20. Siç është thënë më sipër ky plan veprimi është pjesë e pandarë e Strategjisë Antitrafikim dhe mbulon fushat e mëposhtme të riintegrimit socio-ekonomik të grave dhe vajzave VT dhe VMT, përkatësisht:
+a) fuqizimin ekonomik, pra, të drejtat e pronësisë; punësim; dhe formim profesional;
+b) strehim;
+c) arsimim; dhe
+d) shërbime të kujdesit social.
+21. Dokumenti përfshin një pjesë narrative që shpjegon kontekstin dhe kuptimin e secilës nga fushat e mësipërme dhe një matricë që paraqet objektivat; rezultatet; masat; informacionin bazë; treguesit për të matur progresin e ndërhyrjes ose masës; institucionet përgjegjëse dhe afatin. Matrica është e organizuar në pesë pjesë. Pjesa I përfshin një paraqitje të Masave të Përgjithshme që janë të rëndësishme për të gjitha fushat dhe trajton të gjitha aspektet e riintegrimit socio-ekonomik. Pjesa II deri në V mbulon fushat e paraqitura në paragrafin 20.
+b) Riintegrimi socio-ekonomik i grave dhe i vajzave VT/VMT: konstatime të përgjithshme
+22. Aktualisht, nuk ka një studim bazë, gjithëpërfshirës, cilësor dhe sasior për riintegrimin socio-ekonomik të grave dhe vajzave në Shqipëri. Megjithatë, informacion lidhur me këtë mund të sigurohet nga vlerësimet vjetore të ZKKAT-së për zbatimin e Strategjisë Antitrafikim, raporti i GRETA-s, OJF-të që punojnë me VT/VMT-të, studimet e kryera nga IOM etj. Është raportuar që gjatë vitit 2014, ka pasur 108 raste të reja të grave dhe vajzave, VT ose VMT. Shumica vijnë nga zona të varfra, rurale dhe urbane, kryesisht nga Tirana, Durrësi, Elbasani, Shkodra, Berati, Vlora, Korça etj. Niveli i tyre arsimor është çështje shqetësuese, sepse një numër i madh i grave dhe i vajzave kanë përfunduar vetëm arsimin bazë (tetë deri në nëntë vite shkollë). Disa gra dhe vajza kanë më pak se katër vite arsim formal. Vetëm pak prej tyre kanë përfunduar ose janë në proces përfundimi të shkollës së mesme dhe një ose dy janë në proces të përfundimit të studimeve universitare. Gjithashtu, situata e tyre e strehimit është shumë problematike: ato ose nuk kanë një shtëpi prindërore, ose nuk konsiderojnë familjen si shtëpinë e tyre, ose nuk janë lejuar që të jetojnë atje. Pothuajse të gjitha gratë dhe vajzat e trafikuara tregojnë një histori të dhunës në familje, në formë abuzimi fizik, psikologjik, emocional, pakujdesie prindërore dhe varfërie ekstreme. Prandaj, riintegrimi i tyre në familje, komunitet dhe shoqëri është proces sfidues dhe kërkon ndërhyrje të kujdesshme dhe të synuar nga aktorët kundër trafikimit.
+c) Fuqizimi ekonomik
+23. Fuqizimi ekonomik i grave dhe vajzave VT dhe VMT është me rëndësi parësore. Është faktor thelbësor në përballimin e shkaqeve bazë, të mundshme, të trafikimit, varfërisë dhe mungesës së mjeteve ekonomike. Fuqizimi mund të përshkruhet si “një proces nëpërmjet të cilit një individ mund të zhvillojë aftësinë e tij për të qëndruar në mënyrë të pavarur, të marrë vendimet e tij dhe të ketë kontroll mbi jetën e tij/saj”. Banka Botërore e përkufizon fuqizimin ekonomik të grave si “bërja e tregjeve funksionale për gratë dhe fuqizimi i grave për të konkurruar në tregje” (Banka Botërore, 2007).
+24. OKB, në Shqipëri e sheh fuqizimin ekonomik të grave si një proces që ka dy dimensione kryesore: burimet dhe mundësitë. “Këto variojnë nga asete të matshme si burimet financiare (të ardhura, kursime, kredi) dhe burime fizike (tokë, strehim, teknologji) në asete të pamatshme, si aftësi, ekspertizë teknike dhe pozitë sociale. Por edhe kur gratë kanë burime produktive, kjo nuk do të thotë që ato janë të fuqizuara ekonomikisht. Ato duhet, gjithashtu, të kenë mundësinë për t’i përdorur këto asete sipas mënyrës që ato zgjedhin. Mundësia i referohet fuqisë së gruas për të marrë dhe për të vepruar bazuar në vendime që do ta lejojnë të marrë rezultate të vlefshme nga veprimtaria ekonomike”. Me më shumë kontroll dhe akses në asete, një grua ka më shumë fuqi për të marrë vendime që do të ndikojnë pozitivisht në mirëqenien e saj. Njëkohësisht, më shumë mundësi për të bërë zgjedhje në lidhje me ekonominë do të bëjnë të mundur që ajo të akumulojë më shumë burime për të siguruar suksesin e saj të qëndrueshëm ekonomik.
+25. Për të arritur fuqizimin e grave viktima të trafikimit, duhet që të ekzistojnë kushtet që ato të bëhen ekonomikisht dhe psikologjikisht të pavarura. Kjo kërkon mundësi për punë, arsim dhe trajnim dhe mënyrën në të cilën ofruesit e shërbimeve punojnë me viktimat. Gratë dhe vajzat duhet të inkurajohen që të bëhen pjesëmarrëse aktive në procesin e integrimit.
+26. Gjithashtu, është thelbësore të theksohet që ndërhyrjet e fuqizimit nuk mund të trajtohen të izoluara. Ato duhet të shihen në lidhje me veprimet e përgjithshme dhe politikat e ndërmarra për fuqizimin e grave në përgjithësi në Shqipëri, sepse fuqizimi i grave për të marrë pjesë në ekonominë e Shqipëri është një nga katër qëllimet e Strategjisë Kombëtare të Barazisë Gjinore dhe Dhunës me Bazë Gjinore, 2011-2015.
+Gëzimi i të drejtave të pronësisë
+27. Pranohet që aksesi dhe pronësia e tokës apo çdo pasuri tjetër e paluajtshme është një nga faktorët e fuqizimit ekonomik të grave. Të drejtat e pronësisë u japin grave siguri, një bazë nga e cila të prodhojnë, investojnë dhe krijojnë biznesin e tyre dhe të përmirësojnë mirëqenien e tyre. Ndikimi i të drejtave pronësore të grave (ose deprivimi i tyre) shkon përtej dhënies së mundësive ekonomike dhe është element thelbësor për aspekte të tjera të fuqizimit dhe mirëqenies së grave. Studimet tregojnë që pengesa de facto e ulin jashtëzakonisht aksesin dhe pronësinë nga gratë mbi tokën dhe pasuri tjetër të paluajtshme si shtëpi, ose apartament në Shqipëri. Sipas ligjeve të ndryshme që rregullojnë të drejtat e pronësisë në Shqipëri, si burrat dhe gratë gëzojnë të drejta të barabarta de jure për të pasur tokë. Megjithatë, regjistrimi i pasurisë në emër të kryefamiljarit (mashkull) identifikohet si një nga shkaqet kryesore të pronësisë së ulët mbi tokën nga gratë në Shqipëri. Kjo sjell një sërë pasojash për gratë që mund të privohen nga pasuria e tyre gjatë martesës, për shembull, duke qenë se gratë nuk janë regjistruar si pronare të një pasurie, një burrë mund ta shesë dhe ta japë pronën e tij pa nënshkrimin dhe pëlqimin e gruas së tij. Edhe kur gratë kanë pronësinë e ligjshme të një prone, ato janë nën presionin e familjes së tyre për të hequr dorë nga të drejtat e tyre në favor të vëllezërve të tyre dhe të afërmve në përpjekje për të ruajtur pronën brenda familjes.
+Punësimi
+28. Punësimi është ndoshta faktori më i rëndësishëm në procesin e riintegrimit, që mundëson pavarësinë ekonomike të grave për të plotësuar nevojat e tyre në periudhën afatgjatë. OJF-të në Shqipëri japin këshilla dhe informacion fillestar për tregun e brendshëm të punës, ndihmojnë në gjetjen e punës, në hartimin e jetëshkrimit; ndërgjegjësimin e kompanive private për rekrutimin e VT/VMT-ve, negocimin e kushteve të punës me punëdhënës të mundshëm; dhe ndjekjen gjatë punës. Disa OJF, gjithashtu, këshillojnë gratë për legjislacionin e punës, të drejtat dhe përgjegjësitë e tyre në mjedisin e punës.
+Programe ekzistuese të nxitjes së punësimit
+29. Programet e mëposhtme të qeverisë përbëjnë masa pozitive për të mbushur boshllëkun ndërmjet individëve të përjashtuar nga shoqëria dhe grupit të marxhinalizuar, që përfshin gra dhe vajza që kanë vuajtur nga një përvojë trafikimi:
+1. Mbështetje për gratë e papuna
+Sipas këtij programi, punëdhënësit që ofrojnë punësim për punëkërkueset e marxhinalizuara për të paktën një vit marrin 100 për qind të pagës minimale për katër muaj dhe 70 për qind të pjesës së tyre të kontributeve të sigurimeve shoqërore. Në rastin e kontratave dyvjeçare, punëdhënësit marrin pagë minimale për gjashtë muaj dhe 85 për qind të pjesës së tyre të kontributeve të sigurimeve shoqërore. Po kështu, në rastin e kontratave trevjeçare, punëdhënësit marrin pagë minimale për gjashtë muaj dhe 100 për qind të pjesës së tyre të kontributeve të sigurimeve shoqërore. Grupet e synuara që përbëjnë “gratë e marxhinalizuara” janë gratë e trafikuara, mbi 35 vjeç, gratë rome, gratë me aftësi të kufizuara dhe gratë e divorcuara.
+2. Mbështetje për punëkërkueset e papuna në vështirësi. Sipas këtij programi, punëdhënësit që ofrojnë punësim për punëkërkueset, për të paktën, një vit marrin deri në 100 për qind të pagës minimale për katër muaj dhe rimbursohen për 100 për qind të pjesës së tyre të kontributeve të sigurimeve shoqërore. Përfituesit janë persona të papunë afatgjatë, persona që marrin ndihmë sociale, persona që marrin pagesa papunësie, personat nga 15-25 vjeç, që hyjnë në tregun e punës për herë të parë, personat mbi 45 vjeç që nuk kanë arsim më shumë se arsimi i mesëm ose ekuivalent, persona me aftësi të kufizuara, popullata rome dhe migrantët e kthyer. Punëkërkueset e papuna që kundërshtojnë pjesëmarrjen në këtë program do të hiqen nga lista e punëkërkuesve të papunë dhe nuk do të marrin ndihmë financiare dhe as pagesë papunësie.
+3. Trajnim në punë për punëkërkueset e papuna. Sipas këtij programi, punëdhënësve që ofrojnë trajnim në punë për punëkërkueset e papuna iu jepet mbështetje financiare në formën e kostove të trajnimit (deri në 70 për qind të kostos). Gjithashtu, punëkërkueset që marrin pjesë në trajnime marrin 50 për qind të pagës minimale gjatë kohëzgjatjes së trajnimit, që nuk duhet të jetë më shumë se 6 muaj. Gjatë periudhës së trajnimit, ndihma financiare dhe pagesa e papunësisë e personit të papunë ndërpritet, por ajo ka të drejtë t’i rikuperojë pas përfundimit të trajtimit, nëse nuk është e punësuar. Punëdhënësi, në përfundim të periudhës së trajnimit, duhet të punësojë jo më pak se 50 për qind të të trajnuarve, për një periudhë 6-mujore. Ky program nuk trajton grupe specifike të synuara.
+4. Trajnimi i të rinjve që përfundojnë arsimin universitar. Në këtë rast, si punëmarrësit ashtu edhe punëkërkuesit përfitojnë 100 për qind të pagesës së papunësisë për një afat 6-mujor. Kandidati më i përshtatshëm përzgjidhet nga punëdhënësi pas plotësimit të kritereve të përcaktuara për këtë pozicion. Punëkërkues të papunë, që kundërshtojnë pjesëmarrjen në këtë program, do të hiqen nga lista e punëkërkuesve të papunë. Ky program nuk trajton grupe specifike të synuara.
+5. Mbështetje për të papunët me paaftësi fizike. Po kështu, ky program ofron mbështetje me të ardhura për punëkërkuesit e papunë që janë të paaftë fizikisht. Punëdhënësit që ofrojnë punësim për punëkërkuesit e paaftë fizikisht për të paktën një vit marrin mbështetje financiare që mbulon deri në 100 për qind të pagës minimale për 6 muajt e parë dhe 50 për qind për 6 muajt e ardhshëm. Gjithashtu, punëdhënësit marrin 100 për qind të pjesës së tyre të kontributeve të sigurimeve shoqërore dhe shëndetësore dhe mbështetje për përshtatjen e vendit të punës sipas nevojave të punëmarrësit me paaftësi fizike. Pas një viti, kontrata mund të shtyhet nëse zyra e punësimit miraton financimin për vazhdimin e këtyre masave mbështetëse.
+Viktimat e trafikimit përfitojnë përjashtim nga tarifat e kursit të formimit profesional, me kushtin që të jenë regjistruar si të papuna.
+Mbështetje për sipërmarrjet e vogla
+30. Mundësia për kredi dhe burime të tjera financiare është thelbësore për sipërmarrjen dhe zhvillimin e biznesit. Financimi është thelbësor për fillimin e bizneseve nga gratë dhe për forcimin dhe konsolidimin e bizneseve ekzistuese. Gjithashtu, është një element i rëndësishëm në rritjen e biznesit në sektorin formal. Mikrokreditë janë pjesë thelbësore e krijimit të biznesit nga gratë. Fatkeqësisht, në këtë drejtim në Shqipëri ka një boshllëk të madh, sepse mikrokreditë përfaqësojnë vetëm mbi 2% të tregut financiar. Është e rëndësishme të analizohet nëse VT-të dhe VMT-të mund të plotësojnë kriteret e përcaktuara në legjislacionin e zbatueshëm për të përfituar dhe për të patur akses në kapitalin fillestar (shih Matricën).
+31. Mbështetja për sipërmarrjet e vogla vazhdimisht ka qenë komponent i programeve të IOM-it dhe mbështetjes së donatorëve për VT-të dhe VMT-të në Shqipëri. Këto programe luajnë një rol të rëndësishëm për riintegrimin e viktimave të trafikimit sepse atyre u ofrohen burime financiare dhe trajnim për aftësitë sipërmarrëse, që të vijojnë në rrugën drejt vetëpunësimit. Duke përmirësuar situatën financiare të VT/VMT-ve, krijohen, gjithashtu, mundësi punësimi për familjarët dhe komunitetet vendore.
+32. Megjithatë, përpjekjet dhe programet për mbështetjen e suksesshme të sipërmarrjeve të vogla varen nga klima e biznesit dhe kuadri rregullator, si edhe nga aftësitë individuale sipërmarrëse të gruas apo vajzës. Shumica e financimeve vijnë kryesisht nga vende donatore, zakonisht vendet e destinacionit. Programet më të fundit të qeverisë synojnë në mbështetjen e grave sipërmarrëse me një Fond për Gratë dhe një Fond Fillestar. Pavarësisht këtyre zhvillimeve, është akoma e paqartë nëse VT-të dhe VMT-të plotësojnë kriteret formale të parashikuara në legjislacion për të përfituar nga këto Fonde. Kjo çështje kërkon një vlerësim e analizë të mëtejshme, si dhe rekomandime.
+Bizneset sociale
+33. Sipas Raportit Kombëtar, 2014 për Zhvillimin e Biznesit Social në Shqipëri, për të ulur varfërinë dhe për të trajtuar pabarazitë e mëdha në shpërndarjen e burimeve, ngritja e bizneseve sociale mund të jetë një alternativë e rëndësishme. Këto biznese mund të fokusohen në mbledhjen, përpunimin dhe furnizimin e tregut për shitje të produkteve organike me cilësi të lartë. Këto veprimtari ekonomike mund të japin një zgjidhje për rezidentët e varfër të këtyre zonave, për t’iu dhënë atyre punësim të qëndrueshëm dhe për të rritur të ardhurat për familjet e tyre, duke i fuqizuar ato ekonomikisht. Gra dhe vajza viktima të trafikimit dhe familjet e tyre që zakonisht vijnë nga situata të rënda ekonomike mund të përfitojnë nga një zgjidhje e tillë.
+34. Termi “biznes social” zakonisht i referohet një veprimtarie biznesi që trajton një problem social dhe mjedisor, ku të ardhurat nuk shpërndahen por riinvestohen për të përmirësuar performancën e biznesit social ose bizneseve të tjera sociale”. Shqipëria nuk ka legjislacion specifik që rregullon bizneset sociale. Ligji për Organizatat Jofitimprurëse njeh të drejtën e OJF-ve për të kryer veprimtari ekonomike që i shërbejnë misionit dhe qëllimeve të organizatës. Në vitin 2011 u krijua Agjencia për Nxitjen e Biznesit Social në Shqipëri. Kjo është agjenci shtetërore dhe misioni i saj është të ndihmojë në përmirësimin e politikave qeverisëse për mbrojtjen sociale, proceset e përgjegjshmërisë dhe bashkëpunimit ndërmjet sektorit publik dhe atij privat. “Nxitja e Biznesit Social” dhe “Nxitja e Grave në Biznes” janë përfshirë, gjithashtu, në Strategjinë për Zhvillimin e Biznesit dhe Investimeve 2013-2020, si edhe në Planin e Veprimit për Sipërmarrjen e Grave 2014-2020.
+35. Sipas informacionit nga D&E; Vatra dhe Tjetër Vizion, disa gra VT/VMT kanë ndjekur tashmë alternativën e krijimit të bizneseve sociale. Edhe pse ka raste të sipërmarrëseve të suksesshme, është ende shumë shpejt për të vlerësuar suksesin dhe qëndrueshmërinë e këtyre përpjekjeve dhe për të dalë në përfundimin nëse rruga e biznesit social është zgjidhje më e qëndrueshme sesa sipërmarrjet e biznesit. Nga këndvështrimi i politikave fiskale, e vetmja taksë që nuk zbatohet ndaj bizneseve sociale është tatimi mbi të ardhurat, sepse ligjërisht, në Shqipëri, biznese sociale si subjekte janë OJF-të që kryejnë një veprimtari ekonomike.
+36. Gjatë fazës së konsultimit për hartimin e këtij plani veprimi, përfaqësues të bizneseve sociale dhe të NBS theksuan si një çështje problematike, konkurrencën e pandershme mes bizneseve. Ndihma e shtetit në këtë kontekst shihet si thelbësore për mbijetesën në ekonominë shqiptare të bizneseve sociale. Shteti, në përmbushje të rolit të tij për trajtimin e problemeve sociale dhe përmirësimin e përfshirjes sociale, duhet të krijojë mekanizma në mënyrë që bizneset sociale të përfitojnë, për shembull, një përqindje të vogël të kontratave të punëve publike. Kjo, sipas përfaqësuesve të bizneseve sociale, do të lehtësonte përgjegjësinë e shtetit për krijimin e vendeve të punës për individë nga grupe të marxhinalizuara, përfshirë VT/VMT-të.
+37. Një analizë e thellë e politikave dhe ndërhyrjeve të qeverisë për biznesin social është një fushë që shkon përtej qëllimit të këtij plan veprimi. Megjithatë, strukturat antitrafikim, si edhe struktura të tjera të rëndësishme të qeverisë me detyrë riintegrimin socio-ekonomik të VT/VMT-ve do të ndjekin nga afër çdo zhvillim që do të ketë ndikim mbi procesin e qëndrueshmërisë ekonomike dhe veprimtaritë e gjenerimit të të ardhurave.
+d) Strehimi
+38. Sigurimi i strehimit të sigurt dhe të qëndrueshëm mbetet një nga aspektet më të vështira të integrimit, sidomos për ato gra dhe vajza që pas një përvoje trafikimi zgjedhin që të mos kthehen në shtëpi. OJF-të ndihmojnë gratë dhe vajzat që të marrin me qira një apartament të vogël në komunitetin ku dëshirojnë të vendosen, megjithatë, raportohet që gratë shpesh nuk janë në gjendje të lidhin kontrata qiraje me pronarët. OJF-të dhe donatorët paguajnë qiranë, zakonisht për një periudhë gjashtëmujore, ose deri kur gruaja gjen punësim afatgjatë. Në parim, gratë dhe vajzat VT dhe VMT duhet të kenë akses në programe të strehimit social në Shqipëri nëse plotësojnë kriteret e parashikuara në ligjin shqiptar (shih më poshtë).
+Programet sociale të strehimit në Shqipëri
+39. Sipas nenit 2/3 të ligjit nr. 9232/2004, “Për programet sociale të strehimit”, i ndryshuar, këto programe zbatohen për strehimin e familjeve dhe individëve, që nuk janë në gjendje ekonomike e sociale të përballojnë ofertën e tregut të lirë të banesave ose atë të kredive hipotekore. Ligji parashikon tri programe të strehimit social: banesa sociale me qira, banesa me qira të ulët, dhe programi i pajisjes së truallit me infrastrukturë. Gjithashtu, qeveria ka përcaktuar parashikimin për subvencione për qiratë sociale, kredi të subvencionuara, grante të vogla dhe grante të menjëhershme që synojnë grupe specifike. Përfituesit e programeve sociale të strehimit duhet të plotësojnë një nga kushtet e strehimit: kanë mbushur moshën 18 vjeç; nuk kanë në pronësi një banesë; zotërojnë sipërfaqe banimi nën normat e përcaktuara të strehimit; ose kanë mbetur të pastrehë, si rezultat i fatkeqësive natyrore (neni 4). Përzgjedhja e përfitueseve bazohet në kushtet e strehimit, familjare (familje njëprindërore, familjet me më shumë se katër fëmijë, të moshuarit, çiftet e reja), sociale (personat me aftësi të kufizuara, personat me statusin e jetimit, emigranti i rikthyer, punëtor emigrant, familjet e policëve të rënë në detyrë, viktimat e dhunës në familje. Viktimat e trafikimit nuk përmenden në mënyrë specifike në ligj, megjithatë ato mund të mbulohen nën kategorinë e familjeve me një prind ose viktimave të dhunës në familje.
+40. Sigurimi i strehimit social është përgjegjësi e përbashkët e qeverisjes qendrore dhe qeverisjeve vendore. Qeverisja qendrore është përgjegjëse për sa më poshtë: Qeverisja qendrore është përgjegjëse për sa më poshtë: harton strategjinë 10-vjeçare të strehimit, në bazë të programeve 10-vjeçare të njësive të qeverisjes vendore për strehimin; planifikon Buxhetin e Shtetit për mbështetjen e realizimit të programeve vjetore të strehimit; përcakton rregullat e përgjithshme të zbatimit të programeve të banesave me kosto të ulët; informohet për administrimin e kërkesave për strehim nga njësitë e qeverisjes vendore; krijon bankën e të dhënave në nivel kombëtar për: i) nevojat për strehim me programe sociale strehimi; ii) inventarin e banesave sociale me qira, pronë publike; iii) kushtet fizike dhe teknike të banesave sociale me qira; iv) numrin e familjeve të strehuara me programet sociale të strehimit; v) sipërfaqen e nevojshme të truallit, që duhet pajisur me infrastrukturë për ndërtim banesash; vi) sipërfaqet e trojeve të pajisura me infrastrukturë për ndërtim banesash; përcakton koston mesatare vjetore të ndërtimit të banesave, në kuadër të programeve të këtij ligji, e cila miratohet çdo vit me udhëzim të Këshillit të Ministrave; përcakton çdo vit kriteret për investime ose blerje banesash nga tregu, në kuadër të banesave me kosto të ulët, që financohen nga Buxheti i Shtetit dhe nga burime të tjera financimi; mbikëqyr realizimin e investimeve në programet sociale të strehimit me financime ose bashkëfinancime me Buxhetin e Shtetit. Autoritetet vendore janë përgjegjëse për sa më poshtë: identifikojnë nevojat për strehim, sipas programeve të hartuara në bazë të këtij ligji për popullsinë nën juridiksionin territorial të tyre; hartojnë programe 10-vjeçare për strehimin dhe projekte trevjeçare, bazuar në burimet financiare që zotërojnë; sigurojnë sheshet e ndërtimit dhe pajisjen e truallit me infrastrukturë, në zbatim të programeve të strehimit, të hartuara në bazë të këtij ligji; paraqesin kërkesat pranë ministrit që mbulon fushën e strehimit, për financime, investime dhe subvencione, sipas këtij ligji në bazë të informacionit, që dërgohet brenda muajit korrik të çdo viti, ku përcaktohen: i) numri i familjeve të regjistruara për t’u trajtuar me programet sociale të strehimit; ii) numri i familjeve, që janë trajtuar brenda një viti; iii) të ardhurat e njësisë së qeverisjes vendore, që do të përdoren për programet sociale të strehimit në vitin pasardhës dhe sasia e fondeve që kërkohen nga Buxheti i Shtetit, në bazë të programit 10-vjeçar të strehimit; iv) sipërfaqet e trojeve, të miratuara për programet sociale të strehimit; v) niveli i qirasë së miratuar me vendim të këshillit të njësisë se qeverisjes vendore; krijojnë dhe administrojnë, në nivel vendor, bazën e të dhënave për familjet që përfitojnë strehim, sipas këtij ligji; përcaktojnë kostot maksimale të lejueshme, brenda kufijve të përcaktuar nga ministri që mbulon fushën e strehimit, për ndërtimin e banesave, sipas këtij ligji; sigurojnë ndërtimin, administrimin dhe mirëmbajtjen e banesave sociale me qira; njoftojnë çdo vit ministrin që mbulon fushën e strehimit, për ecurinë e programeve të strehimit, sipas këtij ligji; kryejnë të gjitha funksionet e tjera të parashikuara në këtë ligj.
+41. Administratorët socialë janë aktorët kyçë për zbatimin e programeve të strehimit social. Ata i shërbejnë Zyrës së Ndihmës Ekonomike dhe verifikojnë situatën financiare të aplikantëve. Më pas, aplikantët informohen për rezultatet. Ata kanë të drejtë të ankohen për vendimin brenda 10 ditëve dhe të kërkojnë një vlerësim të dytë.
+42. Nisur nga sa u tha më sipër, është përsëri e paqartë sesi gratë dhe vajzat VT/VMT përfitojnë praktikisht nga programet e strehimit social. Nga vlerësimet e OJF-ve vërehet se vetëm një numër shumë i ulët i grave ka aplikuar (vetëm një rast aplikimi është referuar nga OJF-të), ose lënë të kuptohet se mundësitë reale që një grua të përzgjidhet me anë të sistemit të pikëzimit janë pothuajse zero.
+e) Arsimimi
+43. Legjislacioni shqiptar njeh të drejtën e arsimit bazë. Individi ka të drejtë të regjistrohet në sistemin e arsimit bazë me kohë të plotë deri kur arrin moshën 17 vjeç. Nëse një individ ka mbushur moshën 17 vjeç, ai/ajo lejohet që të përfundojë vitin shkollor përkatës. Nëse një person është 16 vjeç dhe nuk ka përfunduar akoma arsimin bazë, ai/ajo ka të drejtë të regjistrohet në shkollë në programin me kohë të pjesshme të arsimit bazë. Me ligj, një person mund të ndjekë arsimin e mesëm deri në moshën 21-22 vjeç. Nëse një person është 22 vjeç dhe dëshiron të mbarojë arsimin e mesëm të lartë, ai/ajo ka të drejtë të regjistrohet në shkollat e arsimit të mesëm të lartë me kohë të pjesshme.
+44. Në praktikë, regjistrimi në shkollë i VT/VMT-ve lehtësohet nga D&E, Tjetër Vizion dhe Vatra. Këto OJF kryejnë vlerësimin paraprak të nivelit arsimor të grave dhe vajzave VT/VMT dhe identifikojnë nevojat e tyre për arsim. Më pas, ato përpiqen të zgjidhin çështje të regjistrimit në shkollë direkt me Zyrën Arsimore, ose me shkollën. Vetëm raste të vështira i referohen AP-së. OJF-të raportojnë që nuk hasin vështirësi të mëdha në regjistrimin e grave ose vajzave në shkollë dhe bashkëpunimi i tyre me Drejtoritë Arsimore Rajonale është i mirë. Megjithatë ka raste kur viktimat e trafikimit (vajzat adoleshente) përballen me vështirësi për regjistrimin në të njëjtin vit shkollor pas një përvoje relativisht të shkurtër të trafikimit. QKPVT ka edukatorët e saj dhe arsimi bazë ofrohet në qendër.
+45. Masat e mëposhtme duhet të merren në fushën e arsimit të grave dhe vajzave VT dhe VMT përkatësisht:
+a) Rishikimi i legjislacionit për të siguruar futjen përsëri në sistemin arsimor
+Përfundimi i arsimit është kusht paraprak për gjetjen e punësimit. Viktimat e trafikimit që nuk kanë përfunduar arsimin kanë më pak mundësi për të gjetur punë. Ndihma për viktimat e trafikimit që të përfundojnë arsimin e tyre të ndërprerë duhet të konsiderohet përparësi sa herë që është e mundur. Në fakt, OJF-të raportojnë që VT/VMT-të përballen me vështirësi në gjetjen e punësimit sepse niveli i tyre arsimor është më i ulët, sesa niveli i kërkuar nga punëdhënës të ndryshëm për vende pune të caktuara.
+b) Udhëheqje
+Udhëheqja akademike është, veçanërisht, e dobishme dhe shpesh thelbësore për riintegrimin e efektshëm të vajzave të trafikuara. Shpesh ato vuajnë nga boshllëqet prej një kohe të gjatë në arsimimin e tyre për shkak se kanë qenë të trafikuara. Kjo udhëheqje i ndihmon që të rifitojnë vitet e humbura të shkollës. Kjo, gjithashtu, duhet të konsiderohet për të lehtësuar rifutjen e efektshme në sistemin arsimor.
+c) Mbështetje me orë shkrimi dhe këndimi
+Është shqetësues fakti se strehëzat dhe QKPVT, ende raportojnë raste të grave ose vajzave analfabete. Prandaj organizimi i orëve të shkrimit dhe këndimit dhe matematikës së thjeshtë është një detyrim me rëndësi primare.
+d) Mbështetje për arsimin universitar
+Të dhëna nga OJF-të tregojnë që disa VT/VMT duhet të kryejnë shkollimin universitar. Nëse një grua/vajzë është në proces të vazhdimit të ciklit universitar, viktimat që dëshirojnë të përfundojnë arsimin universitar duhet të vlerësohen nga organizata të ofrimit të shërbimit për të përcaktuar nëse është e mundur sipas planit të tyre të riintegrimit.
+f) Shërbime të kujdesit social
+46. Në Shqipëri, mbrojtja sociale mbulon pagesat e ndihmës sociale (ndihmë ekonomike dhe ndihmë paaftësie); shërbimet e kujdesit social (ato që ekzistojnë dhe shërbimet e mundshme). Aktualisht, shërbimet e kujdesit social të financuara publikisht (përveç shërbimeve institucionale të kufizuara) janë shumë të kufizuara. Shumica e shërbimeve të kujdesit social ofrohen nga organizata të shoqërisë civile të financuara vullnetarisht ose nga partnerë të zhvillimit. Shërbimet më së shumti gjenden në zona më të mëdha urbane (90% janë në zona urbane) dhe 75% janë në zonën perëndimore dhe qendrore të vendit. Shërbime të kujdesit social janë një pjesë shumë e vogël (më pak se 5%) e shpenzimeve të përgjithshme të qeverisë për mbrojtjen sociale.
+47. Megjithatë, në lidhje me VT-të dhe VMT-të, qeveria ka caktuar financim për OJF të specializuara (D&E, Tjetër vizion dhe Vatra) dhe ka krijuar një Qendër Kombëtare Pritjeje për VT/VMT në Tiranë. Këto strehëza janë të specializuara në trajtimin dhe përmirësimin e realizimit të të drejtave të VT/VMT-ve dhe kanë punuar me çështje të riintegrimit për më shumë se një dekadë.
+48. Paralelisht me hartimin e këtij plani veprimi, MMSR dhe UNICEF janë në proces të hartimit të një dokumenti politikash për paketën minimale të shërbimeve të kujdesit social për çdo person në nevojë për kujdes, pavarësisht vendbanimit. Parashikohet që paketa minimale e shërbimeve të kujdesit social të përbëhet nga dy pjesë: pjesa e parë përfshin vlerësimin e nevojave dhe njësitë e referimit në çdo komunitet dhe pjesa e dytë përfshin një kombinim të shërbimeve të ndryshme të kujdesit social, të ofruara nga subjekte private dhe publike në nivel kombëtar, rajonal dhe lokal. Shërbimet për VT-të dhe VMT-të pritet që të përfshihen në variantin përfundimtar të këtij dokumenti politikash. Prandaj, aktorët e antitrafikim do të përfshihen në konsultimin dhe finalizimin e dokumentit në fjalë.
+MATRICA
+E PLANIT TË VEPRIMIT
+PËR RIINTEGRIMIN SOCIO-EKONOMIK TË
+GRAVE DHE VAJZAVE VT DHE VMT
+PJESA I. MASA TË PËRGJITHSHME
+LEGJISLACIONI
+Objektivi 1: VT-ve dhe VMT-ve u ofrohet mbrojtje e veçantë nëpërmjet një programi asistence dhe integrimi socio-ekonomik të parashikuar me ligj
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+VT-të dhe VMT-të kanë të drejtë për mbrojtje të veçantë të parashikuar me ligj nëpërmjet një programi asistence dhe integrimi social.
+Krijimi i një grupi pune:
+- për të vlerësuar avantazhet dhe disavantazhet e legjislacionit specifik për VT-të dhe VMT-të,
+- për të vlerësuar legjislacionin aktual të zbatueshëm për VT; dhe
+- për të krahasuar legjislacionin për TQNJ-në të vendeve të ndryshme;
+- për të vlerësuar Dy alternativa:
+a) Hartimi i legjislacionit specifik të ri.
+b) Rishikimi i legjislacionit që mbulon çdo aspekt të integrimit për të përfshirë dispozita specifike për VT-të dhe VMT-të.
+Dispozitat ligjore krijojnë një program gjithëpërfshirës së riintegrimit socio-ekonomik që përfshin ndihmën sociale, ligjore, shëndetësore, akomodimin e sigurt dhe zbatimin e programeve edukative dhe të punësimit.
+Legjislacioni shqiptar i zbatueshëm
+Traktatet Ndërkombëtare për TQNJ-në.
+Praktika Gjyqësore e GJEDNJ-së, ligji për TQNJ-në
+Raportet e GRETA
+Legjislacioni Kombëtar për TQNJ-në të vendeve të KiE-së
+ZKKAT
+MKR
+2016 - 2018
+Objektivi 2: Rishikimi i procedurave standarde të punës për të qartësuar funksionet dhe përgjegjësitë e çdo sektori në fushën e riintegrimit socio-ekonomik
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+PSV të rishikuara mbulojnë të gjitha aspektet e riintegrimit socio-ekonomik dhe miratohen nga KM-ja.
+Rishikimi i PSV për të përfshirë të gjitha aspektet e riintegrimit socio-ekonomik, si pjesë e rishikimit të përgjithshëm të PSV aktuale të parashikuar në Strategjinë kundër Trafikimit.
+Të gjithë aktorët janë të qartë dhe zbatojnë funksionet e tyre në lidhje me riintegrimin socio-ekonomik të VT-ve dhe VMT-ve në mënyrë të efektshme dhe në kohë.
+Varianti i 2011-s i PSV
+ZKKAT
+MKR
+AP
+2016
+NGRITJA E KAPACITETEVE
+Objektivi 3: Rritja e njohurive dhe kapaciteteve të aktorëve në fusha të riintegrimit socio-ekonomik
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+Njohuria e institucioneve kundër trafikimit dhe ofruesve të shërbimeve për riintegrimin socio-ekonomik është e konsoliduar dhe e shtrirë rregullisht.
+Rezultatet e studimeve dhe raporteve informojnë proce-sin e vendimmarrjes së institucioneve dhe shër-bimeve kundër trafikimit për masat për riintegrimin.
+Krijimi i një platforme/mekanizmi kërkimi online për të informuar të gjithë aktorët kundër trafikimit për praktikat e asistencës/integrimit. Platforma do të përmbajë një përmbledhje të raporteve/studimeve/vlerësimit/legjislacionit/praktikave të mira në lidhje me TQNJ-në.
+Organizimi i seancave/tryezave të rrumbullakëta të rregullta të ndarjes së informacionit për studime/raporte të kryera për aspekte të ndryshme të riintegrimit socio-ekonomik [AP fton në takimet e tij përfaqësues të AIDA-s, Agjencisë Shtetërore për Nxitjen e Biznesit Sociale (NBS) dhe MZHETTS, ekspertët për strehimin, punësimin, formimin profesional etj. për të ndarë këndvështrimet/rezultatet e studimit.
+Nr. i profesionistëve që hyjnë në platformën e kërkimit në internet.
+Nr. i dokumenteve/materialeve që ngarkohen rregullisht.
+Lista e Burimeve të përfshira në bibliografi e planit aktual të veprimit/faqet e internetit të IOM, Institutit NEXUS/publikimet e BE-së dhe OKB-së etj.
+ZKKAT
+OKB
+IOM
+OSBE
+Delegacioni i KE-së
+ZKKAT, AP, MZHETTS, AIDA, NBS
+Organizata Ndërkombëtare: IOM, UN WOMEN, UNDP
+2015-2017
+Të gjithë zyrtarët publikë janë në dijeni të të drejtave të viktimave dhe janë përfshirë në përpjekje riintegrimi.
+Zhvillimi i trajnimit/veprimtarive për ngritjen e kapaciteteve me zyrtarët e bashkive/administratorët social/punonjësi social të Shërbimit Social Shtetëror dhe punonjësit e Zyrave të Punësimit për integrimin socio-ekonomik.
+Organizimi në bashkëpunim me AIDA dhe NBS i trajnimit për ofruesit e shërbimeve për fuqizimin ekonomik.
+Nr. i punonjësve publikë të trajnuar
+Vlerësim i nevojave për trajnim i kryer nga IOM
+Mësimet e nxjerrja nga Seancat e Trajnimit të zhvilluara nga IOM në prill 2015
+ZKKAT
+MKR
+Bashkitë
+IOM
+2016-2017
+MBLEDHJA E TË DHËNAVE, MONITORIMI DHE VLERËSIMI
+Objektivi 4: Përmirësimi i mbledhjes së të dhënave, menaxhimi i informacionit dhe monitorimi sistematik dhe vlerësimi i riintegrimit socio-ekonomik për të vlerësuar, nëse, dhe si është arritur riintegrimi dhe si mund të punohet me efektivitet
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+Miratimi i treguesve të riintegrimit socio-ekonomik.
+Miratimi i një liste me treguesit e riintegrimit socio-ekonomik.
+Të gjithë aktorët monitorojnë dhe vlerësojnë planet individuale të riintegrimit dhe shërbimet bazuar në një listë gjithëpërfshirëse të treguesve.
+Lista e treguesve përdoret për të kryer një studim bazë për riintegrimin socio-ekonomik të VT-ve dhe VMT-ve.
+Marrëveshja e Bashkëpunimit për Funksionimin e Mekanizmit Kombëtar të Referimit (MKR)
+Standardet kombëtare të kujdesit social për personat e trafikuar ose personat në rrezik trafikimi në qendrat rezidenciale.
+Surtees, R., Monitoring anti-trafficking re/integration programmes. A manual
+2010, Instituti NEXUS, Uashington
+ZKKAT
+MKR
+AP
+SHSSH
+KKSAT
+2016
+SIVET prodhon raporte për të gjitha fushat e integrimit socio-ekonomik të VT-së
+Rishikimi i SIVET-it për të përfshirë treguesit e sipërpërmendur të riintegrimit socio-ekonomik, përfshirë
+aspektet e punësimit, formimit profesional, akomodimit afatgjatë, kujdesit social siç përcaktohet në standardet kombëtare të kujdesit social për personat e trafikuar ose personat në rrezik trafikimi në qendrat rezidenciale.
+Hartimi i një manuali ose guide për mbledhjen sistematike dhe periodike të të dhënave nëpërmjet bankës së të dhënave SIVET.
+Trajnimi i pikave fokale të hedhjes së të dhënave për mbledhjen sistematike të të dhënave për përdorimin e bankës së të dhënave.
+Përditësimi i SIVET në mënyrë periodike dhe sistematike me të dhëna të reja.
+Nr. i raporteve të detajuara të prodhuara nga SIVET për çdo aspekt të riintegrimit në kohë.
+Banka e të dhënave e SIVET
+Standardet kombëtare të kujdesit social për personat e trafikuar ose personat në rrezik trafikimi në qendrat rezidenciale (Standarde kombëtare) (anekse të detajuara)
+Raporte/formularë monitorimi të mbledhur bazuar në Standardet kombëtare të kujdesit social për personat e trafikuar ose personat në rrezik trafikimi në qendrat rezidenciale dhe Modelet e Institutit NEXUS.
+ZKKAT
+Pika fokale për hedhjen e të dhënave në AP
+2016-2017
+Finalizimi i informacionit bazë për riintegrimin socio-ekonomik.
+Kryerja e një studimi bazë cilësor dhe sasior bazuar në treguesit e riintegrimit socio-ekonomik të specifikuar më sipër.
+Informacioni bazë do të përcaktohet për të vlerësuar suksesin e ndërhyrjeve/masave.
+Të dhënat paraprake janë në dispozicion në / nëpërmjet ZKKAT dhe OJF-së.
+ZKKAT
+OJF (KKSAT)
+2016
+PJESA II. FUQIZIMI EKONOMIK TË DREJTAT E PRONËSISË, PUNËSIMI DHE FORMIMI PROFESIONAL
+TË DREJTAT E PRONËSISË
+Objektivi 1: Përmirësimi i zbatimit të legjislacionit për të drejtat e VT-ve dhe VMT-ve për të pasur dhe gëzuar pronën
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+Informacion dhe shërbime në lidhje me mbrojtjen e të drejtave të pasurisë që u ofrohen VT-ve dhe VMT-ve.
+Realizimi i fushatave dhe strategjive të tjera të komunikimit për të shpërndarë informacion për të drejtat ligjore të grave për të pasur pronë dhe për të kuptuar më mirë rëndësinë e mbajtjes së titujve të përbashkët.
+Diskutimi me përfituesit dhe aktorët i rezultateve/rekomandimeve të Studimit “Të drejtat e pronësisë së grave: Një analizë e Standardeve Ligjore dhe Zbatimi në Praktikë: Rasti i Shqipërisë”.
+Dhënia e këshillave ligjore dhe shërbimeve të ndihmës juridike për të drejtat e pronës së VT-ve dhe VMT-ve.
+Nr. i VT/ofruesve të shërbimeve të informuar për të drejtat e pronësisë dhe trashëgimisë.
+Nr. i VT që përdorin shërbimet ligjore për zgjidhjen e mosmarrëveshjeve për pronën
+Legjislacioni për pronësinë
+Studim i UN Women
+Autoriteti Përgjegjës
+ZKKAT
+Shërbimi i ndihmës juridike falas, OJF
+2015-2017
+PUNËSIMI/VETËPUNËSIMI
+Objektivi 1: Rritja e aksesit të VT-ve dhe VMT-ve në punësim dhe mbështetja e VT-ve dhe VMT-ve për punësim të qëndrueshëm dhe/ose veprimtari gjenerimi të ardhurash, nëpërmjet sipërmarrjeve të vogla
+Rezultati
+Veprimtaritë
+Treguesi
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Identifikohet lidhja e aftësive dhe formimit profesional të VT/VMT-ve me tregun e punës.
+Kryerja e një studimi cilësor dhe sasior (e përfshirë si pjesë në studimin bazë të përmendur më sipër) për të përcaktuar afërsinë e VT me tregun e punës. Studimi do të rezultojë në propozime për të identifikuar lidhjet me tregun e punës dhe mënyrën e përmirësimit të tyre.
+Përcaktohet informacioni bazë për lidhjet e VT me tregun e punës.
+Plane individuale të integrimit. [Të dhëna në lidhje me kualifikimin dhe edukimin jepen nga N&B, Tjetër Vizion dhe Vatra].
+Prodhimi i Dokumentit të Politikave i kryer nga UNDP Shqipëri në bashkëpunim me MMSR për politikat e reja dhe inovative të tregut aktiv të punës. Pritet që të finalizohet në korrik 2015.
+Agjencia Shtetërore për Nxitjen e Biznesit Social (NBS)
+2016
+Bizneset sociale janë proaktive në nxitjen e aksesit në punësim dhe caktimin në punë për VT-të dhe VMT-të.
+VT/VMT-të kanë punësim të sigurt dhe afatgjatë dhe të ardhura të qëndrueshme.
+Bizneset sociale i dërgojnë informacion NBS-së dhe qarkullojnë informacion mes tyre në lidhje me vendet vakante, projektet dhe mundësitë për punë.
+Bizneset sociale nënshkruajnë një MM për të mbajtur vendet vakante ekskluzive për VT, VMT, dhe viktimat e dhunës në familje për dy javë.
+Ndihma për VT/VMT-të për t’u integruar në tregun e punës nëpërmjet secilës nga këto alternativa:
+- punësim në një biznes social ekzistues;
+- punësim në një biznes social të krijuar së fundmi nga VT/VMT-të që janë përfshirë në formim profesional me mbështetjen e fondeve fillestare;
+- vetëpunësimi i VT/VMT-ve me mbështetjen e fondeve fillestare.
+Ndjekja dhe monitorimi i vazhdueshëm i veprimtarisë së biznesit dhe performancës.
+Nr. i vendeve vakante në dispozicion.
+Nr. i VT-ve dhe VMT-ve që gjejnë punësim në bizneset sociale.
+Nr. i VT-ve dhe VMT-ve që kanë të ardhura të qëndrueshme dhe mbi nivelin kombëtar minimal të të ardhurave.
+Nuk ka informacion bazë.
+NBS ka krijuar një bankë të dhënash për bizneset sociale.
+NBS
+Të Barabartë dhe të Ndryshëm
+Tjetër Vizion
+YAPS
+Biznese të tjera sociale
+2015-2017
+Forcohen bizneset sociale që punojnë me VT-të dhe VMT-të ose që krijohen prej tyre.
+Analizimi dhe rishikimi i planeve të punësimit dhe formimit profesional të VT-ve dhe VMT-ve dhe familjeve të tyre në rastin e riintegrimit në familjet e tyre.
+Përfaqësuesit e Bizneseve Sociale mblidhen rregullisht për të ndarë përvojën për vlerësimin e tregut, sfidat me të cilat përballen në lidhje me individët e pambrojtur.
+Bizneset sociale nënshkruajnë një MM për të bashkëpunuar me njëri-tjetrin duke ndarë ekspertizë d.m.th. oficerë/menaxherë financiarë mbështesin dhe drejtojnë njëri-tjetrin në mënyrë reciproke.
+Nr. i planeve të rishikuara dhe të përmirësuara të punësimit dhe formimit profesional.
+Nr. i takimeve konsultative mes bizneseve sociale.
+Nr. i binjakëzimit të bizneseve sociale me njëra-tjetrën.
+Nuk ka informacion bazë.
+NBS
+“Të ndryshëm dhe të Barabartë”
+“Tjetër vizion”
+YAPS
+2015-2017
+VT-të dhe VMT-të kanë akses dhe gjejnë punësim në vende pune të sektorit publik.
+ZKKAT
+bashkëpunon me SHKP për të pasur akses të rregullt dhe të përditësuar në informacion për vende pune të përshtatshme për VT-të dhe VMT-të në sektorin publik.
+ZKKAT nënshkruan një MM me ministritë dhe institucionet për të ndarë informacion në lidhje me vendet vakante.
+Ofruesit e shërbimeve/ punonjësit social vlerësojnë kriteret e punësimit, si niveli i arsimimit të kërkuar për punësim në sektorin publik dhe vlerësimi i përmbushjes së këtyre kritereve nga VT-të dhe VMT-të.
+Lidhja e aftësive dhe arsimimit të VT-ve dhe VMT-ve me vendet e punës në sektorin publik.
+Krijimi në bashkëpunim me Ministrinë e Teknologjisë dhe Administratës Publike i një programi praktik në sektorin publik që ka në qendër VT/VMT.
+Nr. i vendeve të punës në sektorin publik ku kanë akses VT-të dhe VMT-të.
+Banka e vendeve të punës nga Shërbimi Kombëtar i Punësimit (SHKP).
+Plane individuale të integrimit.
+ZKKAT
+SHKP
+“Të ndryshëm dhe të barabartë”
+“Tjetër vizion”
+“Vatra”
+2015-2017
+VT-të dhe VMT-të kanë akses dhe gjejnë punësim në vende pune të sektorit privat.
+Të gjitha VT-të dhe VMT-të të papuna regjistrohen në SHKP.
+Ofruesit e shërbimit vazhdojnë t’u ofrojnë VT-ve dhe VMT-ve konsulencë për punë, përfshirë përgatitjen e intervistës, rezymesë; kontratë pune; përfitime sociale, aftësi jete; program praktike dhe inkurajim punësimi etj.
+AP, ZKKAT, bashkëpunon me MZHETTS për të siguruar akses në bankën e të dhënave të MZHETTS për gratë sipërmarrëse.
+Dhënia e inputit për MZHETTS dhe AIDA-n në lidhje me VT-të dhe VMT-të dhe futjen e tyre në bankën e të dhënave
+Nr. i VT dhe
+VMT që paraqesin një kërkesë për një vend vakant; intervistimi dhe nr. i atyre që sigurojnë një vend pune nëpërmjet SHKP.
+Nr. i VT-ve dhe VMT-ve që përdorin bankën e të dhënave për të referuar VT-të dhe VMT-të për punësim dhe mundësi stazhi.
+Nr. i VT-ve dhe VMT-ve të regjistruara aktualisht në çdo zyrë rajonale punësimi të SHKP.
+AP
+ZKKAT
+SHKP
+OJF-të
+MZHETTS
+AIDA
+2015-2017
+Përfituesit dhe familjet e tyre nga zonat rurale që përfitojnë nga programet dhe ndërhyrjet që synojnë gratë rurale.
+Bashkëpunimi me MZHETTS dhe Ministrinë e Bujqësisë në mënyrë që VT-të dhe VMT-të dhe familjet e tyre të kenë akses në ndërhyrje për të fuqizuar gratë rurale.
+Sigurimi i pjesëmarrjes të VT-ve dhe VMT-ve dhe anëtarëve të tyre familjarë nga zonat rurale në projekte Pilot për të trajnuar dhe mbështetur gratë fermere në Berat, Shkodër, Fier dhe Dibër.
+Nr. i VT-ve dhe VMT-ve që përfitojnë nga ndërhyrjet për të fuqizuar gratë rurale.
+Planveprimi “Sipërmarrja e Grave në Shqipëri, 2014-2020.
+Strategjia për Zhvillimin Rural
+ZKKAT
+AP
+Shoqata Kombëtare e Grave Rurale, Ministria e Bujqësisë,
+MZHETTS
+2015-20178
+Krijohen dhe zbatohen partneritetet private për të nxitur punësimin, motivimin dhe besimin e
+VT-ve dhe VMT-ve.
+Formimi i VT-ve dhe VMT-ve me aftësi praktike nga disa ekspertë më të mirë të sektorit privat.
+Këshillimi, shërbimet e mbështetjes së biznesit dhe mundësitë e krijimit të rrjetit me institucionet partnere dhe bizneset lokale.
+Krijimi i programeve duke përdorur një qasje binjakëzimi, lidhja e VT-ve dhe VMT-ve me sipërmarrëse femra me biznese të ngjashme në vendndodhje të ndryshme.
+Nr. i përfitueseve në këto programe binjakëzimi/këshillimi/trajnimi
+Nr. i VT-ve dhe VMT-ve që regjistrohen në rrjetet e grave sipërmarrëse.
+Partneritetet ekzistuese të KSKAT me bizneset private.
+ZKKAT
+Biznes privat
+KKSAT
+Objektivi 2: Të gjithë VT-të dhe VMT-të që drejtojnë/ose synojnë të krijojnë një ndërmarrje të vogël ose të mesme kanë akses dhe përfitojnë nga Fondi i Sipërmarrjes së Grave dhe fondi fillestar i menaxhuar nga AIDA.
+VT-të dhe VMT-të mbështeten për të përfituar nga Fondi i Sipërmarrjes së Grave dhe Fondi Fillestar.
+Vlerësimi nëse bizneset ekzistuese të drejtuara nga VT/VMT-të plotësojnë kriteret formale të parashikuara në VKM nr. 592, datë 10.9.2014, “Për fondin e fuqizimit të grave dhe fondin fillestar”.
+Dhënia e mbështetjes për VT-të dhe VMT-të për të përgatitur kërkesën dhe dokumentacionin për të marrë subvencione nga Fondet.
+Nr. i VT-ve dhe VMT-ve bizneset e të cilave përmbushin kriteret formale për të përfituar nga këto Fonde.
+Kriteret përcaktohen në VKM, nr. 592, datë 10.9.2014
+Aplikantët e suksesshëm marrin subvencion 50% të normës së interesit për 4 vite deri në 1 000 000 (një milion) lek për kredi.
+Fondi fillestar i ofruar jep deri në 300.000 lekë, duke mbuluar 70% të kostove.
+Rregulloret për funksio-nimin e Fondit spe-cifikojnë kritere të detajuara.
+AIDA, MZHETTS
+KKSAT
+FORMIM PROFESIONAL
+Objektivi 1: Aftësitë e vajzave dhe grave në përfitimin nga mundësitë e punësimit, përfshirë sektorët me prodhimtari të lartë forcohen nëpërmjet politikave dhe programeve të trajnimit në dispozicion
+Sigurohet aksesi i vajzave dhe grave VT dhe VMT në formimin profesional në fusha me prodhimtari të lartë.
+Bashkëpunimi me MMSR për të marrë informacion për kurset e formimit profesional në fusha me prodhimtari të lartë.
+Sigurimi i aksesit të VT-ve dhe VMT-ve në Katalogun Kombëtar të Kualifikimeve Profesionale.
+Vlerësimi i aftësive, preferencave dhe nevojave të VT/VMT-ve për t’i ndihmuar që të marrin vendime të informuara për të zgjedhur programe të formimit profesional.
+Nr. i VT-ve dhe VMT-ve që kanë akses dhe regjistrohen në kurse të formimit profesional në fusha të prodhimtarisë së lartë.
+Të dhëna ekzistuese për formimin profesional për VT-të dhe VMT-të.
+ZKKAT
+SHKP
+KKSAT
+PJESA III. STREHIMI
+Objektivi 1: VT-të dhe VMT-të kanë akses në programe sociale të strehimit në Shqipëri
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+Politikat dhe legjislacioni ndryshohen për të siguruar të drejtën e VT/VMT-ve për strehim të sigurt.
+Legjislacioni ndryshohet në mënyrë që përfituesit të kenë akses në programe sociale të strehimit.
+Pjesëmarrje dhe kontribut në procesin e hartimit të Strategjisë së Strehimit Social aktualisht në proces.
+Rishikimi i ligjit 9232, “Për programet sociale të strehimit’’ i ndryshuar, me qëllim përfshirjen në kategoritë prioritare të VT/VMT-ve.
+Në kuadër të rishikimit të ligjit do të rishikohet sistemi i pikëzimit për të siguruar përfshirjen e VT ose familjeve që kanë VT me probleme paaftësie.
+Miratohet legjislacion që trajton boshllëqet.
+Ligji nr. 9232/2004, “Për programet sociale të strehimit”
+Identifikohen boshllëqet:
+Neni 5 (kriteret e përzgjedhjes) VT si të tilla nuk trajtohen në mënyrë specifike në ligj.
+Neni 24: Dhënie subvencioni.
+Përparësi i jepet grupeve të mëposhtme: jetimë, persona me paaftësi fizike, familje të oficerëve të rënë, imigrantët e kthyer, punëtorët migrantë, anëtarët e komunitetit rom dhe punonjës së policisë së shtetit. Nuk përmenden viktimat e trafikimit dhe viktimat e dhunës në familje.
+VT mund të përfshihen në kategorinë e imigrantëve të kthyer në rastin e trafikimit të huaj.
+Neni 34/1: Funksionet e ministrisë përgjegjëse për strehim
+Vendim nr. 574 (Për përcaktimin e dokumentacionit, që duhet të paraqesë familja për t’u strehuar sipas njërit prej programeve sociale të strehimit, dhe të afateve e të procedurave të miratimit nga organet e qeverisjes vendore). Dokumentet që duhet të paraqesë një familje për të përfituar nga një program social strehimi; afatet dhe procedurat e miratimit të qeverisjes vendore.
+Aplikantët duhet të paraqesin një numër të madh dokumentesh (11). 7 dokumente të tjera shtesë zbatohen për grupet e pambrojtura. Nuk përmendet ndihma juridike për grupet e pambrojtura.
+AP
+Ministria e Zhvillimit Urban
+Bashkitë
+Komitetet Rajonale Antitrafikim
+2016-2017
+Nevojat për strehim dhe zbatimi në praktikë i sistemit të pikëzimit të përfituesve vlerësohet me detaje nisur nga vendbanimi i tyre dhe situata familjare.
+Kryerja e një studimi/vlerësimi për nevojat e strehimit dhe zbatimi në praktikë i sistemit të strehimit social, kriteret, sistemi i pikëve etj. për përfituesit dhe familjet e tyre (një seksion specifik në studimin bazë të sipërpërmendur).
+Studimi bazë identifikon nevojat e VT-ve dhe VMT-ve dhe lehtëson akses dhe planifikim në programet sociale të strehimit.
+Studim i UNDP-së: Strehimi social në Shqipëri: Analiza e situatës (Studim i UNDP)
+Nuk ka inventar të dhënash në nivel kombëtar që përfshin informacion për numrin e familjeve në nevojë për strehim social; numrin e familjeve që përfitojnë strehim social brenda një viti; të ardhura bashkiake që do të caktohen për programe dhe fonde të strehimit social të kërkuara nga buxheti i shtetit; sasinë e tokave që do të përdoren për programe të strehimit social; shumën e qirasë të miratuar nga Këshilli Bashkiak.
+Sipas studimit të UNDP-së:
+Banesat e strehimit social të marra më qira janë në:
+Tiranë (n=385)
+Durrës (n=126),
+Korçë (n=99),
+Fier (n=96),
+Elbasan (n=96),
+Kavajë (n=48),
+Berat (n=48), dhe
+Peshkopi (n=24).
+Banesa të reja strehimi janë ndërtuar në:
+Shkodër (n=124),
+Korçë (120),
+Elbasan (79),
+Durrës (48),
+Kavajë (40),
+Fier (24),
+Vlorë (24),
+Gjirokastër (20), dhe
+Pukë (n=8).
+Banesat sociale janë ndërtuar (me fondet e EKB)
+Durrës (n=48),
+Shkodër (n=41),
+Korçë (n=41),
+Kavajë (n=41), dhe
+Sarandë (n=41).
+ZKKAT
+AP
+Donatorë
+2016
+Institucione dhe ofrues shërbimi që lehtësojnë aksesin e VT në programe të strehimit social
+ZKKAT bashkëpunon me NJQV dhe Ministrinë e Zhvillimit urban për të përcaktuar fondet për programet e strehimit social në vende ku ndodhen VT.
+Eksplorimi i financimit nëpërmjet dispozitave të specifikuara në ligjin nr. 10/192 (të ndryshuar) për Parandalimin dhe Luftën kundër krimit të organizuar dhe trafikimit nëpërmjet masave parandaluese kundër pasurisë.
+ZKKAT/ dhe Komitetet Rajonale Antitrafik sigurojnë përfshirjen në banesat sociale të VT-ve dhe VMT-ve gjatë përzgjedhjes së përfituesve nga bashkitë për programet sociale të strehimit.
+Ofruesit e shërbimeve ndihmojnë VT në plotësimin e kërkesave.
+Nr. i VT që përfitojnë nga programet sociale të strehimit
+Nr. i apartamenteve të përkohshme të menaxhuara nga KKSAT, që rrjedhin nga asetet e konfiskuara në përputhje me Ligjin 10/192
+Nr. i VT që aplikojnë për programe të strehimit social.
+Nuk ka informacion bazë.
+ZKKAT
+Ministria e Zhvillimit Urban
+KKSAT
+2016-2017
+PJESA IV. ARSIMIMI
+Objektivi 1: Sigurimi i së drejtës së VT-ve dhe VMT-ve për arsimim bazë dhe lehtësimi i aksesit në të gjitha nivelet e arsimit
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+Të gjitha
+VT/VMT-të që kanë përfunduar arsimin bazë shkollohen dhe diplomohen
+Diskutimi me MAS i modaliteteve të aplikimit të programit “Mundësia e Dytë” për VT-të dhe VMT-të që janë jashtë qendrave të banimit.
+Sigurimi që VT-të dhe VMT-të të arsimohen rregullisht gjatë qëndrimit të tyre në streha rezidenciale.
+Zhvillimi i orëve të mësimit, mësimi i shkrimit dhe këndimit nga VT-të dhe VMT-të analfabete.
+VT/VMT analfabet mëson si të lexojë dhe të shkruajë dhe të bëjë ushtrime të thjeshta matematike.
+Standardet Kombëtare të Kujdesit përfshijnë arsimimin.
+Ligji për arsimin parauniversitar dhe aktet nënligjore.
+AP
+MAS
+Njësitë arsimore vendore
+2015-2017
+VT/VMT kanë akses në Qendrat Komunitare/Shkolla kur këto ekzistojnë.
+AP/anëtarët e AP nga Ministria e Arsimit mbajnë AP dhe ZKKATQNJ në dijeni me zhvillimet për krijimin e shkollave/qendrave komunitare të parashikuara në Projekt strategjinë për zhvillimin e arsimit parauniversitar (2014-2020).
+Të sigurohet që VT/VMT dhe fëmijët e tyre kanë akses në shërbime nëse ato ofrohen.
+Nr. i VT/VMT që kanë akses në shkolla/qendra komunitare
+Projekt strategjia për zhvillimin e arsimit parauniversitar (2014-2020)
+Njësitë arsimore vendore
+2015-2017
+VT/VMT që rihyjnë në sistemin arsimor marrin mbështetje nga psikologu i shkollës.
+OJF-të/strehëzat që ndihmojnë VT/VMT për kthimin në sistemin e shkollës i referojnë ato te psikologu i shkollës ose mbikëqyrës i shërbimit psiko- social për ndjekje të mëtejshme.
+Grupi i punës që rishikon PSV pasqyron shërbimet psiko-sociale të shkollës në lidhje me asistencën që u jepet fëmijëve VT.
+Nr. i VT/VMT që kanë përfituar nga shërbimet e psikologut të shkollës.
+Dispozitat normative të arsimit parauniversitar, 2013 parashikojnë funksionimin, detyrat dhe përgjegjësitë e shërbimit psiko-social brenda shkollave.
+Urdhri nr. 344 i ministrit të Arsimit, datë 19.8.2013, “Për krijimin e njësisë për shërbimet psiko-sociale”.
+Ministria e Arsimit dhe Sportit (MAS)
+Drejtoritë Rajonale të Arsimit
+2016-2018
+PJESA V. SHËRBIMET E KUJDESIT SOCIAL
+Objektivi 1: Sigurimi i aksesit dhe përfitimit të mbrojtjes sociale nga VT/VMT sipas legjislacionit shqiptar.
+Rezultati
+Masa
+Treguesi i ndikimit
+Informacioni bazë
+Institucionet përgjegjëse
+Afati
+Kostoja
+VT/VMT përfitojnë nga paketa minimale e shërbimeve të kujdesit social.
+Ndjekja e finalizimit të dokumentit të paketës standarde dhe komentimi i tij për të siguruar që shërbimet e kujdesit social t’u ofrohen VT/VMT në përputhje me nevojat e tyre.
+Nevojat e VT/VMT plotësohen dhe kostot e këtyre shërbimeve pasqy-rohen në buxhetet e qeverisë dhe planifikimin e burimeve njerëzore.
+Projekt Dokument Konceptimi për: Paketa Standarde e Shërbimeve të Kujdesit Social e mbështetur nga UNICEF-i dhe MMSR-ja
+ZKKAT
+AP
+MMSR
+Partnerët
+UNICEF
+IOM
+Studim i UN-së Women
+2016
+VT/VMT i ofrohet kujdes social i vazhdueshëm nga ofruesit e shërbimeve.
+Burime të planifikimit të vazhdueshëm për OJF-të që ofrojnë shërbime të kujdesit social për VT/VMT.
+Burime të nevojshme janë përfshirë në ligjin për buxhetin shtetëror dhe fondet disbursohen në përputhje me legjislacionin e zbatueshëm.
+Legjislacion për ndihmën dhe mbrojtjen shoqërore.
+Legjislacioni për Prokurimin Publik.
+Marrëveshje për krijimin dhe funksionimin e MKR-së.
+Standardet Kombëtare të Kujdesit për VT/VMT në kujdesin rezidencial.
+MMSR
+MF
+“Të ndryshëm dhe të Barabartë”
+“Vatra”
+“Tjetër vizion”
+2016-2018
+BIBLIOGRAFIA
+Burime parësore:
+Ligji nr. 7895, datë 20.1.1995, “Për Kodin Penal të Republikës së Shqipërisë”;
+Ligji nr. 8733, datë 24.1.2001, “Për disa shtesa dhe ndryshime në Kodin Penal”;
+Ligji nr. 8788, datë 7.5.2001, “Për organizatat jofitimprurëse”;
+Ligji nr. 8920, datë 11.7.2002, “Për ratifikimin e Konventës së Kombeve të Bashkuara kundër Krimit të Organizuar Ndërkufitar dhe dy protokolleve shtesë të tij”;
+Ligji nr. 9188, datë 12.2.2004, shtesa në Kodin Penal ka prezantuar veprën penale të trafikimit të grave dhe trafikimit të të miturve. Ligji prezanton përkufizime të reja për veprat e trafikimit në përputhje me Protokollin e Palermos për Trafikimin;
+Ligji nr. 9187, datës 12.2.2004, “Për ndryshime në Kodin e Procedurës Penale” në lidhje me përdorimin e mjeteve të posaçme të hetimit si: përgjimi, agjentët e infiltruar etj. të përdorur për hetimin e krimit të organizuar, përfshirë trafikimin e personave;
+Ligji nr. 9205, datë 15.3.2004, “Për mbrojtjen e dëshmitarëve dhe bashkëpunëtorëve të drejtësisë”;
+Ligji nr. 9232, datë 13.5.2004, “Për programet sociale për strehimin e banorëve të zonave urbane”, ndryshuar me ligjin nr. 9719, datë 23.4.2007;
+Ligji nr. 9284, datë 30.9.2004, “Për parandalimin dhe goditjen e krimit të organizuar”, që përcakton masat penale, si edhe konfiskimin e pasurisë tsë kriminelëve;
+Ligji nr. 9355, datës 10.3.2005, “Për ndihmën dhe shërbimet shoqërore”. Me anë të këtij ligji, bashkitë kanë autoritet që të financojnë shërbimet e OJF-ve me të ardhura nga buxheti qendror;
+Ligji nr. 9509, datë 3.4.2006, “Për shpalljen e moratoriumit për mjetet motorike lundruese”;
+Ligji nr. 9544, datë 29.5.2006, “Për ratifikimin e marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Greqisë për Mbrojtjen dhe Ndihmën për Fëmijët, Viktima të Trafikimit”;
+Ligji nr. 9642, datë 20.11.2006, “Për ratifikimin e Konventës së Këshillit të Evropës, “Për masat kundër trafikimit të personave””;
+Ligji nr. 9668, datë 18.12.2006, “Për migracionin e shtetasve shqiptarë për arsye punësimi”. Disa nene të këtij ligji trajtojnë parandalimin e trafikimit të personave dhe lehtësimin e riintegrimit në tregun e punës;
+Ligji nr. 9669, datë 18.12.2006, “Për masat kundër dhunës në marrëdhëniet familjare”;
+Ligji nr. 9686, datë 26.2.2007, “Për ndryshimet në nenin 298 të Kodit Penal “Ndihmë për kalimin e paligjshëm të kufirit””;
+Ligji nr. 9833, datë 22.11.2007, “Për aderimin e Republikës së Shqipërisë në Protokollin Opsional të Konventës së OBK-së për të Drejtat e fëmijës për përfshirjen e fëmijës në konflikt të armatosur”;
+Ligji nr. 9834, datë 22.11.2007, “Për aderimin e Republikës së Shqipërisë në Protokollin Opsional të Konventës së OBK-së për të Drejtat e fëmijës për shitjen e fëmijëve, prostitucionin e fëmijëve dhe pornografinë e fëmijëve”;
+Ligji nr. 9749, datës 4.6. 2007, “Për Policinë e Shtetit”;
+Ligji nr. 9859, datë 21.1.2008, “Për disa shtesa dhe ndryshime në Kodin Penal”;
+Ligji nr. 10 129, datë 11.5.2009, “Për statusin e nëpunësit civil”;
+Ligji nr. 10192, datë 3.12.2009, “Për parandalimin dhe luftën kundër krimit të organizuar dhe trafikimit nëpërmjet masave parandaluese kundër pasurisë”;
+Ligji nr. 10 173, datë 22.10.2009, “Për mbrojtjen e dëshmitarëve dhe bashkëpunëtorëve të drejtësisë”;
+Ligji nr. 10329, datë 30.9.2010, “Për disa ndryshime dhe shtesa në ligjin nr. 9232, datë 13.5.2004”, i ndryshuar;
+Ligji nr. 10347, datë 4.11.2010, “Për mbrojtjen e të drejtave të fëmijës;
+Ligji nr. 10301, datë 15.7.2010, “Për organizimin dhe funksionimin e policisë gjyqësore (ndryshuar me ligjin nr. 9241, datë 10.6.2004);
+Ligji nr. 10376, datë 10.2.2011, “Për krijimin e shoqërisë “Nxitja e biznesit social sh.a.””;
+Ligji nr. 10399, datë 17.3.2011, që ndryshon ligjin nr. 9355, datë 10.3.2005, “Për ndihmën dhe shërbimet sociale”;
+Ligji nr. 23/2012, “Për disa ndryshime në ligjin nr. 7895, datë 27.1.1995, “Kodi Penal i Republikës së Shqipërisë””;
+Ligji nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”;
+Ligji nr. 108/2013, “Për të huajt”;
+Ligji nr. 144/2013, datë 2.5.2013, “Për disa ndryshime në ligjin nr. 7895, datë 27.1.1995, “Kodi Penal i Republikës së Shqipërisë””;
+Ligji nr. 143/2013, i majit 2013, “Për ndryshime në ligjin nr. 10 039, datë 22.12.2008, “Për ndihmën juridike””, që rregullon dhe lehtëson dhënien e ndihmës juridike falas për viktimat e dhunës në familje dhe viktimat e trafikimit;
+Ligji nr. 57/2014, “Për krijimin dhe funksionimin e Këshillit Ekonomik Kombëtar”;
+Ligji nr. 108/2014, “Për Policinë e Shtetit”;
+VKM nr. 47, datë 16.1.2008, “Për punësimin e punëkërkuesve të papunë nëpërmjet formimit në punë”;
+VKM nr. 48, datë 16.1.2008, “Për punësimin e punëkërkuesve të papunë që janë në vështirësi”;
+VKM nr. 27, datë 11.1.2012, “Për programet e nxitjes së punësimit për gratë dhe grupet në nevojë”;
+VKM nr. 391, datë 1.6.2011, “Për miratimin e statutit të shoqërisë “Nxitja e biznesit social sh.a””;
+VKM nr. 574, datë 29.8.2012, “Për përcaktimin e dokumentacionit që duhet të paraqesë familja për t’u strehuar sipas njërit prej programeve sociale të strehimit dhe të afateve e të procedurave të miratimit nga organet e qeverisjes vendore”;
+VKM nr. 526, datë 6.8.2014, “Për kategoritë e personave me aftësi të kufizuara që trajtohen me përparësi si përfitues të programeve sociale të strehimit”;
+VKM nr. 710, datë 29.10.2014, “Për kuotat financiare të ushqimit në mensa e konvikte, bursat e shtetit dhe pagesat e nxënësve e të studentëve në institucionet arsimore publike, për vitin shkollor 2014-2015”;
+VKM nr. 114, datë 31.1.2007, “Për përcaktimin e masës së kontributeve të personave, që vendosen në institucionet rezidenciale publike, të shërbimeve të përkujdesjes shoqërore”;
+Udhëzimi nr. 23, datë 30.12.2008, “Për përmbajtjen e bonusit të strehimit” (Ministria e Punëve Publike, Transportit dhe Telekomunikacionit);
+Udhëzimi nr. 6257, datë 2.9.2008, “Mbi përcaktimin e masës së subvencionit për familjet që përfitojnë kredi të lehtësuara nga shteti” (ndryshuar me udhëzimin nr. 2348, datë 17.4.2009; nr. 13, datë 15.6.2010; në. 13/1, datë 8.9.2010; nr. 6, datë 17.2.2011; nr. 5091, datë 14.11.2011) (Ministria e Financave);
+Udhëzimi nr. 3, datë 17.3.2014, “Për përcaktimin e rregullave të përgjithshme të zbatimit të programit të banesave me kosto të ulët për komunitetin rom” (Ministria e Zhvillimit Urban);
+Udhëzimi nr. 4441/2, datë 19.11.2014, “Për disa ndryshime e shtesa në udhëzimin nr. 6257, datë 2.9.2008, “Mbi përcaktimin e masës së subvencionit për familjet, që përfitojnë kredi të lehtësuara nga shteti”, të ndryshuar”, i ndryshuar (Ministria e Zhvillimit urban dhe Ministria e Financave);
+Legjislacioni ndërkombëtar:
+Konventa e Këshillit të Evropës për Masat kundër Trafikimit të Qenieve Njerëzore, 2005;
+Protokolli i Kroacisë për integrimin/riintegrimin e viktimave të trafikimit, 1 janar 2012;
+Direktiva 2011/36/BE, “Për parandalimin dhe luftën kundër trafikimit të qenieve njerëzore dhe mbrojtjen e viktimave të tij dhe që zëvendëson Vendimin Kuadër të Këshillit 2002/629/JHA;
+Direktiva 2004/80/EC, “Në lidhje me kompensimin e viktimave të krimit”;
+Direktiva 2004/81/EC, “Për lejen e qëndrimit që u jepet shtetasve të vendeve të treta të cilët janë viktima të trafikimit të qenieve njerëzore që kanë qenë subjekt i një veprimit për lehtësimin e imigracionit të paligjshëm, të cilët bashkëpunojnë me autoritetet kompetente”;
+Praktika gjyqësore e Gjykatës Evropiane të të Drejtave të Njeriut:
+Rantsev vs Qipros dhe Rusisë (kërkesa nr. 25965/04);
+V.F. kundër Francës (kërkesa nr. 7196/10);
+M. dhe të Tjerë kundër Italisë dhe Bullgarisë (kërkesa nr. 40020/03);
+F.A. kundër Mbretërisë së Bashkuar (kërkesa nr. 20658/11);
+L.R. kundër Mbretërisë së Bashkuar (kërkesa nr. 49113/09);
+D.H. kundër Finlandës (kërkesa nr. 30815/09);
+O.G.O. kundër Mbretërisë së Bashkuar (kërkesa nr. 13950/12);
+Tas kundër Belgjikës (kërkesa nr. 44614/06).
+Burime dytësore:
+Abril. M. E. (2012). Getting economic Policies Right for Women in Albania: Policy Issues and Options for Women`s Economic Empowerment”, A Policy Issues Paper. UNWOMEN;
+Bani, A. et. al. (2014). Zhvillimi i ndërmarrjeve sociale (Potencial për krijimin e vendeve të punës për grupet e disavantazhuara). Tiranë: Partnerët Shqipëri;
+Banka e Shqipërisë. (2014). Raport i Politikave Monetare Q2;
+Berman, J. & Bradic, D. & Marshal, Ph. (2014). Vlerësim i nevojave: Trafikimi i qenieve njerëzore në Ballkanin Perëndimor. Gjenevë: IOM;
+Bonatti, A. et. al. (2014, nëntor). Ndërmarrja Sociale, Inovacioni Social dhe Sipërmarrja Sociale në Shqipëri: Raport Kombëtar. Tiranë: EFESEIIS;
+Brunovskis, A. & Surtees, R. (2007). Leaving the past behind? When victims of trafficking decline assistance. FAFO AIS dhe Instituti NEXUS http://www.fafo.no/pub/rapp/20040/20040.pdf;
+Brunovskis, A. & Surtees, R. (2012). A fuller picture addressing trafficking-related assistance needs and socio-economic vulnerabilities. Norvegji: Instituti NEXUS;
+Brunovskis, A. & Surtees, R. (2012). Leaving the past behind? When victims of trafficking decline assistance. Oslo: Instituti NEXUS dhe Fafo AIS;
+Brunovskis, A. & Surtees, R. (2012). No place like home? (Challenges in family reintegration after trafficking). Oslo: Instituti NEXUS dhe Fafo AIS;
+Chaffin, J. & Kalyanpur. A. (2014, korrik). What do ëe knoë about economic strengthening for family reintegration of separated children? Micigan: Rrjeti CPT;
+Dauti, M. (2014, gusht). Strehimi social në Shqipëri: Vlerësimi i nevojave. Tiranë: UNDP Shqipëri;
+Delaney, S. (2012 nëntor). (Re)Building the future (Supporting the recovery and reintegration of trafficked children). Terre Des Hommes;
+Di Giglio, S. et. al. (2014 prill). Studim Kombëtar për fëmijët e rrugës në Shqipëri. Tiranë: UNICEF, Zyra e Bashkëpunimit Zviceran & Save the Children;
+Dottridge, M. (2010). E-notes (Report on the implementation of anti-trafficking policies and interventions in the 27 EU Member States from a human rights perspective 2008 and 2009). Fermo: Associazione On the Road;
+Drejtoria e Përgjithshme e Punëve të Jashtme e Komisionit Evropian. (2011). “Comparative Study on Best Practices to Interlink Pre-Departure Reintegration Measures Carried out in Member States ëith Short- and Long-Term Reintegration Measures in the Countries of Return”. Matrix Insight Ltd;
+Gallagher, A. & Surtees, R. (…). Assessing the impact and effectiveness of anti-trafficking interventions in the criminal justice sector: A discussion paper on issues, obstacles and opportunities;
+GRETA dhe Komiteti i Palëve të Këshillit të Evropës. Konventa e Këshillit të Evropës për Masat kundër Trafikimit të Qenieve Njerëzore (broshurë për të Drejtat e viktimave). Strasburg: Këshilli i Evropës;
+GRETA. (2014, shtator). Raport në lidhje me zbatimin e Konventës së Këshillit të Evropës për Masat Kundër Trafikimit të Qenieve Njerëzore nga Shqipëria. Strasburg: Këshilli i Evropës;
+Hackaj, K. (2014). Vlerësimi i nevojave të komunitetit rom dhe egjiptian për punësimin dhe sipërmarrjen në qarkun e Korçës, Beratit dhe Vlorës. Tiranë: UNDP Shqipëri;
+Haxhiymeri, E. et. al. (2013). Standardet e shërbimeve të përkujdesjes shoqërore për viktimat e dhunës në familje në qendrat rezidenciale, publike dhe jopublike. Tiranë: UNDP Shqipëri;
+Ikonomi, L. (2009). E drejta Migratore (manual trajnues). Tiranë: IOM;
+Organizata Ndërkombëtare e Punës. (2014). Raporti i Mbrojtjes Sociale 2014/15 (Rikuperimi ekonomik, zhvillimi përfshirës dhe drejtësia sociale). Gjenevë: ILO;
+Organizata Ndërkombëtare për Migracionin (2012). Internal Review Micro-Enterprise Development Programme for Victims of Trafficking (2006-2011). Kyiv: IOM;
+Organizata Ndërkombëtare për Migracionin (2013). Udhëzim për trajnimin e biznesit Fuqizimi ekonomik i viktimave të trafikimit. Kyiv: IOM;
+Organizata Ndërkombëtare për Migracionin (2015, janar). Migrant Assistance Division Neësletter 1st issue. Gjenevë: IOM;
+Organizata Ndërkombëtare për Migracionin (IOM). (2007). Manuali i IOM për ndihmën e drejtpërdrejtë për viktimat e trafikimit. Gjenevë: IOM;
+INSTAT. (2010). Sondazhi i Fuqisë Punëtore të Shqipërisë 2009;
+INSTAT. (2012). Dinamika e Tregut të Punës 2001-2011;
+INSTAT. (2012). Prodhimi i Brendshëm Bruto sipas statistikave në Shqipëri 2012;
+Komiteti për Eliminimin e Diskriminimit ndaj Grave (CEDAW). (2014, Tetor). Raporti i IV Periodik Kombëtar. Tiranë: Ministria e Punëve të Jashtme;
+Lenja, V. (2015). Profili i situatës së trafikimit të viktimave dhe përpjekjet për përfshirje sociale. Tiranë: IOM;
+Lyneham, S. (2014 shtator). Recovery, return and reintegration of Indonesian victims of human trafficking. Australi: IOM;
+Mandro, Arta, UN Ëomen Studim “Të drejtat e pronësisë së grave: Analizë e Standardeve Ligjore dhe Zbatimin në Praktikë, 2013;
+Mandro, A. & Saliaj, E. & Anastasi, A. (2014). Të drejtat pronësore dhe gruaja (Broshurë informuese), Tiranë;
+Qendra për Nisma Ligjore dhe Qytetare;
+Ministria e Punëve të Brendshme. (2011, Shkurt). Raport për zbatimin e planit kombëtar të veprimit për luftën kundër trafikimit të qenieve njerëzore janar-dhjetor 2010. Tiranë: MPB;
+Ministria e Punëve të Brendshme. (2013, mars). Raport për zbatimin e planit kombëtar të veprimit për luftën kundër trafikimit të personave janar-dhjetor 2012. Tiranë: MPB;
+Ministria e Punëve të Brendshme. (2014, mars). Raport për zbatimin e planit kombëtar të veprimit për luftën kundër trafikimit të personave janar-dhjetor 2013. Tiranë: MPB;
+Ministria e Brendshme. Strategjia kundër trafikimit të personave dhe trafikimit të fëmijëve 2014-2016;
+Ministria e Brendshme, Zyra e Koordinatorit Kombëtar kundër Trafikimit të Personave. (2011, janar). Procedurat standarde të punës për identifikimin dhe referimin e viktimave të trafikimit dhe viktimave të mundshme të trafikimit. Tiranë: USAID dhe IOM;
+Ministria e Brendshme. Strategjia kombëtare për barazinë gjinore dhe reduktimin e dhunës me bazë gjinore dhe dhunës në familje 2011-2015;
+Ministria e Brendshme. Raport vlerësimi për zbatimin e Strategjisë Kombëtare kundër Trafikimit të Qenieve Njerëzore 2005-2007;
+Ministria e Punës, Çështje Sociale dhe Mundësive të Barabarta. (2008). Standardet e shërbimeve të kujdesit social për personat e trafikuar ose personat në rrezik trafikimi në qendrat rezidenciale;
+Ministria e Mirëqenies Sociale dhe Rinisë Strategjia Kombëtare e Mbrojtjes Sociale 2015-2020 (Projekt);
+Ministria e Mirëqenies Sociale dhe Rinisë Strategjia Kombëtare për Punësimin dhe Formimin Profesional, 2014-2020;
+Ministria e Mirëqenies Sociale dhe Rinisë, Agjencia Shtetërore e Mbrojtjes së Fëmijës. Raport Kombëtar për të Drejtat e Fëmijëve në Shqipëri 2013-2014;
+Instituti NEXUS. (Re) Integration perspective of victim servile agencies on successes & challenger in trafficking victim (Re)Integration in the Greater Mekong Sub-Region;
+Nochev, A. & Mancheva, M. (2013). Assisting and reintegration child victims of trafficking (Improving policies and practices in EU member states). Sofie: Qendra për Studimin e Demokracisë;
+Pandey, S. & Tewari, R. H. & Bhoëmick. (2013). Antecedents and Reintegration of Sex Trafficked Victims in India: A Conceptual Framework. Intentional Journal of Criminal Justice Sciences Vol. 8 1 janar - qershor 2013;
+Pearson, E. (2004, maj). A background research study to inform Oxfam GB Nepal Programme`s Campaign on Ending Violence Against Women. Nepal: Oxfam GB;
+Rosenberg, R. (Draft). Guidelines for implementation of the national standards of social care for trafficked persons or persons at risk of trafficking in residential centres. MOLSAEC, UNICEF and IOM;
+Shkolla e Magjistraturës. (2013, Shkurt). Kuadri ligjor mbi trafikimin e qenieve njerëzore në Shqipëri dhe sfidat e hasura në praktikën gjyqësore. Tiranë: Shkolla e Magjistraturës & USAID & IOM;
+Somach, S. & Surtees, R. (2005, dhjetor). Asistenca teknike antitrafikimit: Vlerësimi i Antitrafikimit në Shqipëri 24 tetor - 19 dhjetor 2005. Tiranë: USAID;
+Surtees, R. & De Kerchove, F. (2012, dhjetor). Re/integration of trafficked persons: supporting economic empoëerment, Issue paper #4. Belgjikë: Fondacioni King Baudoin;
+Surtees, R. & De Kerchove, F. (2014). “Who Funds Re/integration? Ensuring sustainable services for trafficking victims”, Anti-Trafficking Revieë, Issue # 3, www.antitraffickingreview.org;
+Surtees, R. (2007). Labour Trafficking in South-eastern Europe: Developing prevention and assistance programmes. Vjenë: Instituti NEXUS;
+Surtees, R. (2008). Re/integration of trafficked persons: handling “difficult” cases (Issues paper #2). Belgjikë: Fondacioni King Baudoin;
+Surtees, R. (2008). Re/integration of trafficked persons: hoë can our work be more effective (Issue paper #1). Belgjikë: Fondacioni King Baudoin;
+Surtees, R. (2008). Why Shelters? Considering Residential Approaches to Assistance. Vjenë: Instituti NEXUS;
+Surtees, R. (2009). Anti-Trafficking Data Collection and Information Management in the European Union - a Handbook (the situation in the Czech Republic, Poland, Portugal and the Slovak Republic). Vjenë: ICMPD;
+Surtees, R. (2009). Re/integration of trafficked persons: developing monitoring and evaluation mechanisms (Issue paper #3). Belgjikë: Fondacioni King Baudoin;
+Surtees, R. (2010). Monitoring anti-trafficking re/integration programmes (a manual). Belgjikë: Fondacioni King Baudoin;
+Surtees, R. (2013). After Trafficking: Experiences and Challenges in the (Re)integration of Trafficked Persons in the Greater Mekong Sub-region. Bangkok: UNIAP/Instituti NEXUS;
+Surtees, R. (2013). Trafficking Victims Re/integration Programme (TVRP)(Ethical principles for the re/integration of trafficked persons. Experiences from the Balkans. Issue Paper #5). Bruksel: Fondacioni King Baudouin;
+Surtees, R. (2014). Trafficking Victims Re/integration Programme (TVRP) (Re/integration of trafficked persons. Working with trafficked children and youth - Issue paper #5). Bruksel: Fondacioni King Baudouin;
+Talens, C. & Landman, C. (2003). Good practices on (re)integration of victims of trafficking in human beings in six European countries. Amsterdam: Novib/Oxfam Netherlands BLinN Programme & Humanitas BLinN Programme & Change Anti Trafficking Programme & OXFAM-GB;
+Zyra e Kombeve të Bashkuara për Drogën dhe Krimin. (2009). Ligj Model kundër Trafikimit të Personave. Vjenë: Kombet e Bashkuara;
+Kombet e Bashkuara. (2013). Realizing women`s rights to land and other productive resources. Gjenevë: UN Human Rights dhe UN Women;
+USAID. (2007, qershor). Examining the intersection between trafficking in persons and domestic violence. http://dec.usaid.gov;
+USAID. (2008, dhjetor). Methods and models for mixing services for victims of domestic violence and trafficking in persons in Europe & Eurasia (Final report). http://dec.usaid.gov;
+USAID. (2009, dhjetor). Best practices in trafficking prevention in Europe & Eurasia (Final report). http://dec.usaid.gov;
+Zimmerman, C. (2009). Caring for trafficked persons (guidance for health providers). Gjenevë: IOM.
 QËLLIMI STRATEGJIK
 Nxitja e kthimit dhe riintegrimit dhe përfshirjes sociale të të miturve dhe të rriturve si persona të trafikuar (VMT dhe VT) dhe ulja e rrezikut për personat e trafikuar për t’u ri-viktimizuar dhe ri-trafikuar, ose që të kthehen në trafikues.
 Treguesit: Përqindja e personave të trafikuar të cilët kanë një punë dhe/ose një rrjet shoqëror një vit pas kthimit/rivendosjes në komunitet;
