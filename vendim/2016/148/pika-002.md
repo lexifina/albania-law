@@ -1,0 +1,1 @@
+2. SIISKM-ja ka për qëllim administrimin dhe menaxhimin e fluksit të informacionit në funksion të vendimmarrjeve politike e strategjike të Këshillit të Ministrave, Kryeministrit e të ministrave, si dhe në funksion të komunikimit e bashkëveprimit ndërinstitucional e të mirëmbajtjes së të dhënave thelbësore statistikore, në përputhje me legjislacionin në fuqi.

@@ -1,0 +1,1 @@
+7. Zyra Operacionale e Situatës është qendra e koordinimit të SIISKM-së. Objekti i punës së ZOS-it është të bashkërendojë gjithë veprimtarinë e SIISKM-së dhe të përmbushë detyrat e përcaktu-ara në pikat 4, 5 dhe 6, të këtij vendimi, në funksion të Kryeministrit dhe të Këshillit të Ministrave.

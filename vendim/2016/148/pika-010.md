@@ -1,0 +1,1 @@
+10. Objekti i punës së ZIMEK-ut në çdo ministri është përmbushja e detyrave të përcaktuara në pikat 4, 5 dhe 6, të këtij vendimi, në funksion të ministrit, dhe nëpërmjet ZOS-it, në funksion të Kryeministrit.

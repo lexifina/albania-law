@@ -1,0 +1,4 @@
+4. Detyrat kryesore të SIISKM-së janë si më poshtë:
+a) Mbledhja, përpunimi dhe analiza e informacionit në interes të planifikimit, të komunikimit publik, të statistikës dhe të vendimmarrjes së rëndësishme, në nivel të ministrit, Kryeministrit dhe të Këshillit të Ministrave;
+b) Hartimi i raporteve periodike ditore, javore, mujore dhe vjetore për ministrat, Kryeministrin dhe instanca të tjera të përcaktuara me urdhër të tyre, në të cilat pasqyrohen gjendja e përgjithshme sipas fushave të përgjegjësisë së ministrive, si dhe gjendja e përgjithshme e vendit në rastin e raporteve që përgatiten për Kryeministrin. Përveç raporteve të përgjithshme, SIISKM-ja përgatit edhe raporte tematike për çështje të caktuara me rëndësi;
+c) Mbledhja, përpunimi dhe publikimi i informacionit statistikor në nivel ministrie dhe Kryeministrie.

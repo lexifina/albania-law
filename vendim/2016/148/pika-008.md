@@ -1,0 +1,1 @@
+8. ZOS-i menaxhon dhe mban në funksion të përhershëm sallën qendrore të situatës në kryeministri si dhe organizon prezantimet periodike për gjendjen e sektorëve të veçantë dhe gjendjen e përgjithshme të vendit për Kryeministrin dhe për Këshillin e Ministrave.

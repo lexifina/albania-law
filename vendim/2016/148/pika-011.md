@@ -1,0 +1,1 @@
+11. ZOS-i ka në përbërje punonjës organikë të Kryeministrisë dhe përfaqësues, koordinatorë ndërlidhës të dërguar nga ministritë. Koordinatorët ndërlidhës të ministrive pranë ZOS-it janë pjesë e strukturave të ZIMEK-eve të ministrive përkatëse.

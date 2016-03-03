@@ -1,0 +1,1 @@
+1. Ngritjen e Sistemit të Integruar të Informacionit dhe Statistikës të Këshillit të Ministrave, në vijim SIISKM, i cili organizohet dhe funksionon me qendër në Kryeministri dhe njësitë përbërëse në çdo ministri të linjës.

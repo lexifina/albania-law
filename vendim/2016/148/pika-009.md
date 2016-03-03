@@ -1,0 +1,1 @@
+9. ZOS-i mbështetet nga Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG), si dhe nga Agjencia Kombëtare e Shoqërisë së Infor-macionit përkatësisht (AKSHI) me informacion gjeohapësinor, informatik, si dhe produkte të tjera të nevojshme për përgatitjen e raporteve e të prezantimeve për Kryeministrin dhe Këshillin e Ministrave.

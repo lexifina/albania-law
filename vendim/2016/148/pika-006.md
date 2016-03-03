@@ -1,0 +1,1 @@
+6. Strukturat përbërëse të SIISKM-së janë përgjegjëse për sistemimin, administrimin dhe ruajtjen e informacionit që qarkullon përmes tyre në të gjitha trajtat teknike në përdorim, si: letra, mbartësit analogë dhe digjitalë të shkrimit, zërit dhe figurës.
