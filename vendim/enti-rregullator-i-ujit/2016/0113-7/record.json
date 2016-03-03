@@ -1,0 +1,26 @@
+{
+  "qbz_id": 67193,
+  "title": "PËR RINOVIM LICENCE UJËSJELLËS FSHAT LUSHNJË SHA",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "7",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2016-01-13",
+  "published": "2016-03-03",
+  "in_force": "2016-03-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/00ad06fcd2c4ad9e5905ba263941eea32ec15aa2d3ddbe0c77d590d485f560b1.docx",
+  "source_sha256": "00ad06fcd2c4ad9e5905ba263941eea32ec15aa2d3ddbe0c77d590d485f560b1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67193",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/01/13/7",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
