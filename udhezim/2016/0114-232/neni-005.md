@@ -1,0 +1,8 @@
+# Neni 5
+Noteri dhe zyrat noteriale
+Pas dorëzimit të dokumentacionit të kërkuar në nenin 3 ose nenin 4, noteri:
+a) Verifikon gjeneralitet e palëve. Fotokopjet e kartave të identitetit i bashkëngjit me kontratën me adresa të sakta sipas rregullave të përcaktuara nga aktet e brendshme të rregullimit të veprimtarisë së noterëve.
+b) Verifikon numrin e identifikimit të mjetit në bazën e të dhënave aktive të ruajtura në Regjistrin e Barrëve Siguruese. Nëse mjeti rezulton i lirë nga baza e të dhënave të Regjistrit të Barrëve Siguruese, nënshkruan kontratën dhe i bashkëngjit konfirmimin përkatës. Nëse mjeti rezulton me detyrim nga baza e të dhënave të Regjistrit të Barrëve Siguruese, njofton palët duke iu vënë në dispozicion edhe konfirmimin zyrtar të detyrimit përkatës.
+c) Verifikon numrin e identifikimit të mjetit në bazën e të dhënave të DPSHTRR-së nëse dosja e mjetit është e bllokuar për arsye të ndryshme financiare dhe ligjore. Nëse dosja e mjetit është e lirë nënshkruan kontratën. Nëse është e bllokuar njofton subjektet e interesuara bashkë me arsyen përkatëse.
+d) Dërgon në formë elektronike për njoftim kontratën e nënshkruar dhe të vulosur në adresat elektronike të DPSHTRR-së.
+e) Njofton subjektin blerës për përgjegjësitë dhe penalitetet financiare të parashikuara në nenin 93, të ligjit nr. 8378, datë 22.4.1998 “Kodi Rrugor i Republikës së Shqipërisë”, i ndryshuar, në rast të tejkalimit të afatit prej 10 ditësh nga data e nënshkrimit të kontratës së shitblerjes deri në kryerjen e shërbimit në sportelet e DPSHTRR-së për përditësimin e lejes së qarkullimit me ndryshimin përkatës.

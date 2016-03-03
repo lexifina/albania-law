@@ -1,0 +1,5 @@
+# Shtojca
+MINISTRI I DREJTËSISË
+Ylli Manjani
+MINISTRI I PUNËVE TË BRENDSHME
+Saimir Tahiri
