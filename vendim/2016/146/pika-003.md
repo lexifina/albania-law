@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen për sipërfaqen e përgjithshme, prej 2 000 (dy mijë) m² truall, në vlerën 1 592 000 (një milion e pesëqind e nëntëdhjetë e dy mijë) lekë.
