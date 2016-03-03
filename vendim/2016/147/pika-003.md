@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme që shpronësohen, të kompensohen, sipas vlerave përkatëse, për sipërfaqen 4 000 (katër mijë) m², tokë bujqësore, në vlerën e përgjithshme të shpronësimit 1 204 000 (një milion e dyqind e katër mijë) lekë.
