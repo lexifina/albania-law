@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave të sipërfaqes së tokës bujqësore prej 31.4 (tridhjetë e një pikë katër) ha, në pronësi shtetërore, në fshatin Vojnik, njësia administrative Maqellarë, Bashkia Dibër, sipas tabelës bashkëlidhur këtij vendimi.
