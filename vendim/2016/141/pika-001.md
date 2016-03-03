@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, të sipërfaqes prej 17 525 (shtatëmbëdhjetë mijë e pesëqind e njëzet e pesë) m², me vendndodhje sipas të dhënave në lidhjen 1 të këtij vendimi, për ndërtimin e një fabrike nga shoqëria “Deutsch Color”.

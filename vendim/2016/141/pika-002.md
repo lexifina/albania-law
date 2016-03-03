@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe Mbrojtjes së Tokës, në qarkun Durrës, të pasqyrojë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit, nga tokë bujqësore në tokë truall, për sipërfaqen prej 17 525 (shtatëmbëdhjetë mijë e pesëqind e njëzet e pesë) m², sipas pikës 1 të këtij vendimi.
