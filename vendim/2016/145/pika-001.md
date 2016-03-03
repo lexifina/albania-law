@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksioni i rrugës “Kinemaja e vjetër””, në Bashkinë e Patosit, sipas tabelës që i bashkëlidhet këtij vendimi.

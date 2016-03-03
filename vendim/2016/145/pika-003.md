@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme që shpronësohen, të kompensohen, sipas vlerave përkatëse, për sipërfaqen prej 50.7 (pesëdhjetë pikë shtatë) m², truall, në vlerën e përgjithshme të shpronësimit prej 50 294 (pesëdhjetë mijë e dyqind e nëntëdhjetë e katër) lekësh.
