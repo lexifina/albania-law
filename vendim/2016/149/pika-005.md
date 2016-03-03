@@ -1,0 +1,1 @@
+5. Agjencia e Shërbimeve të Sportit drejtohet nga drejtori i Përgjithshëm, i cili përfaqëson agjencinë, si dhe organizon e drejton të gjithë veprimtarinë e saj. Drejtori i Përgjithshëm asistohet nga një zëvendësdrejtor.

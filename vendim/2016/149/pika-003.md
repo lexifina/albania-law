@@ -1,0 +1,1 @@
+3. Agjencia e Shërbimeve të Sportit asiston dhe mbështet me personel të specializuar dhe infrastrukturë federatat sportive në Republikën e Shqipërisë për zhvillimin e aktiviteteve kombëtare e ndërkombëtare.

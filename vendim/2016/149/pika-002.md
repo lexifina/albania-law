@@ -1,0 +1,1 @@
+2. Agjencia e Shërbimeve të Sportit ofron shërbime për federatat shqiptare të sportit, shoqatat dhe klubet sportive që kërkojnë mbështetjen e saj, sipas kapacitetit infrastrukturor dhe financiar. Realizimi i këtyre shërbimeve bëhet sipas akteve nënligjore në fuqi dhe në bazë të marrëveshjeve paraprake ndërmjet palëve.
