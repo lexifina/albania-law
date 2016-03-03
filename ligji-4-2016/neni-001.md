@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave e Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim, në lidhje me lehtësimin e mbështetjes së agrobiznesit, BERZH - Shqipëri, llogari bashkëpunimi, sipas tekstit bashkëlidhur këtij ligji dhe pjesëve përbërëse të tij.
