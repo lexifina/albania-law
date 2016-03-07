@@ -1,0 +1,1 @@
+3. Çdo bashki dërgon listat e familjeve përfituese të skemës së ndihmës ekonomike pas njoftimit të marrë nga Drejtoria Rajonale e Shërbimit Social Shtetëror, e cila i dorëzon këto lista pranë Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror.

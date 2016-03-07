@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 5, datë 19.2.2016
+MBI ZBATIMIN E VENDIMIT NR. 758, DATË 16.9.2015, TË KËSHILLIT TË MINISTRAVE PËR NGARKIMIN E MINISTRISË SË MIRËQENIES SOCIALE DHE RINISË PËR KRYERJEN E PROCEDURAVE TË PROKURIMIT PËR PAJISJEN ME DEKODERA TË FAMILJEVE NË NEVOJË, PËRFITUESE NGA SKEMA E NDIHMËS EKONOMIKE, DHE PËR NJË SHTESË FONDI NË BUXHETIN E VITIT 2015, MIRATUAR PËR KËTË MINISTRI
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 5 e 45, të ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të neneve 10 e 13, të ligjit nr. 160/2014, datë 27.11.2014, “Për buxhetin e vitit 2015”, të nenit 10, të ligjit nr. 9355, datë 10.3.2005, “Për ndihmën dhe shërbimet shoqërore”, të ndryshuar, të nenit 22 të ligjit nr. 97/2013, “Për mediat audiovizive në Republikën e Shqipërisë” dhe të pikës 4 të vendimit nr. 758, datë 16.9.2015, të Këshillit të Ministrave për ngarkimin e Ministrisë së Mirëqenies Sociale dhe Rinisë për kryerjen e procedurave të prokurimit për pajisjen me dekodera të familjeve në nevojë, përfituese nga skema e ndihmës ekonomike, dhe për një shtesë fondi në buxhetin e vitit 2015, miratuar për këtë ministri”,
+UDHËZOJ:

@@ -1,0 +1,1 @@
+5. Bashkitë realizojnë shpërndarjen e dekode-rave te familjet përfituese të skemës së ndihmës ekonomike dhe administrojnë dokumen-tacionin që vërteton dorëzimin e mallit te përdo-ruesi fundor, së bashku me kopjen e kartës së identitetit të nënshkruar nga personi që tërheq dhe merr në dorëzim ndihmën ekonomike.

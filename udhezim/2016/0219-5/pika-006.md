@@ -1,0 +1,2 @@
+6. Pajisja me dekodera e familjeve në nevojë përfituese të skemës së ndihmës ekonomike do të realizohet në mënyrë progresive, sipas zonave të përcaktuara nga Radio Televizioni Shqiptar të dërguara zyrtarisht pranë Ministrsë së Mirëqënies Sociale dhe Rinisë dhe Shërbimit Social Shtetëror, për shtrirjen e sinjalit dixhital, i cili do të zëvendësojë atë analog.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+2. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror lidh marrëveshje me bashkitë për shpërndarjen e dekoderave te familjet përfituese të skemës së ndihmës ekonomike si përdorues fundorë të këtyre pajisjeve.

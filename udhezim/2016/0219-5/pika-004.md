@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Shërbimit Social Shtetëror nëpërmjet strukturave të saj rajonale transferon pranë çdo bashkie dekoderat përkatës dhe administron dokumentacionin që vërteton dorëzimin e mallit.
