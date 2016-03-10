@@ -1,0 +1,1 @@
+2. Kalimi i punonjësve nga Zyra Shqiptare për të Drejtën e Autorit tek Inspektorati Shtetëror i Mbikëqyrjes së Tregut kryhet pas miratimit të strukturës së Inspektoratit Shtetëror të Mbikëqyrjes së Tregut.
