@@ -1,1 +1,0 @@
-2. Herë pas here apo kur zhvillimet në një ose më shumë vende mund të sjellin ndryshime në kushtet e atij/atyre vendeve, në përputhje me nenin 28/1 të ligjit nr.8432, datë 14.12.1998 “Për azilin në Republikën e Shqipërisë”, të ndryshuar, Ministri i Brendshëm propozon ndryshimin e kësaj liste.
