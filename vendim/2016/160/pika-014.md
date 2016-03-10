@@ -1,0 +1,1 @@
+14. Kuorumi i nevojshëm për zhvillimin e mbledhjeve të Komitetit të Auditimit të Bren-dshëm është me pjesëmarrjen e të gjithë anëtarëve. Sekretari i Komitetit të Auditimit të Brendshëm mban procesverbalin e takimit, i cili, së bashku me vendimet e marra, nënshkruhet nga të gjithë anëtarët.

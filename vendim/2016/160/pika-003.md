@@ -1,0 +1,1 @@
+3. Komiteti i Auditimit të Brendshëm ka autoritet të monitorojë çdo çështje që lidhet me sistemet e kontrollit të brendshëm dhe të auditimit, brenda fushës së përgjegjësisë shtetërore të njësisë publike.

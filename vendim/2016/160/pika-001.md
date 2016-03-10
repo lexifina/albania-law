@@ -1,0 +1,1 @@
+1. Roli i Komitetit të Auditimit të Brendshëm është të monitorojë, të ofrojë këshilla e rekomandime objektive për titullarin e njësisë publike, në lidhje me funksionimin e sistemeve të kontrollit të brendshëm, si dhe të mbështesë njësinë e auditimit të brendshëm në përmbushjen e përgjegjësive të saj.

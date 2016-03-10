@@ -1,0 +1,1 @@
+15. Për të gjitha çështjet, që nuk përcaktohen nga ky vendim, do të zbatohen parashikimet e legjislacionit në fuqi për funksionimin e organeve kolegjiale të administratës shtetërore dhe të enteve publike.
