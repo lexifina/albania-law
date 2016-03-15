@@ -1,0 +1,2 @@
+5. Taksa vendore e ndikimit në infrastrukturë, për ndërtimet e legalizuara, pavarësisht nga funksioni i tyre, të llogaritet, arkëtohet dhe administrohet nga njësitë e qeverisjes vendore, në përputhje me përcaktimet e ligjit nr. 9632, datë 30.10.2006, “Për sistemin e taksave vendore”, të ndryshuar.
+Për zbatimin e kësaj pike, drejtoritë e ALUIZNI-t, të vënë në dispozicion të njësive të qeverisjes vendore, në momentin e dërgimit për regjistrim në ZVRPP, të dhënat e ndërtimeve që pajisen me leje legalizimi.
