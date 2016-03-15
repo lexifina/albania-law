@@ -1,0 +1,1 @@
+1. Ministria e Mbrojtjes, në bashkëpunim me shoqërinë e sigurimeve “INSIG” sh.a., të bëjë sigurimin e jetës së ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, që dërgohen në misione ushtarake jashtë vendit, për vitin 2016.
