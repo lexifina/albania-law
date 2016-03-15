@@ -1,0 +1,1 @@
+1. Shoqëritë e tregtimit me shumicë, të pajisura me licencë të tipit A, janë të detyruara që të tregtojnë biokarburante dhe lëndë të tjera djegëse, të rinovueshme, që përdoren në sektorin e transportit.

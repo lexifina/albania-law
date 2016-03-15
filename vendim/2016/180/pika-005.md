@@ -1,0 +1,1 @@
+5. Për mosrespektimin e detyrimeve të këtij vendimi, zbatohet sanksioni i përcaktuar në shkronjën “g”, të pikës 1, të nenit 25, të ligjit nr. 8450, datë 24.2.1999, “Për përpunimin, transpor-timin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre”, të ndryshuar.

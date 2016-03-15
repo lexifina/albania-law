@@ -1,0 +1,1 @@
+2. Sasia minimale e biokarburanteve dhe lëndëve të tjera djegëse, të rinovueshme, që përdoren në sektorin e transportit, për vitin 2016, është 10% e sasisë totale të nënprodukteve të naftës, të cilat tregtohen nga shoqëritë e tregtimit me shumicë.
