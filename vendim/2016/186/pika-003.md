@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “tokë kullotë”, me vlerë të përgjithshme prej 2 515 332.90 (dy milionë e pesëqind e pesëmbëdhjetë mijë e treqind e tridhjetë e dy pikë nëntëdhjetë) lekësh.
