@@ -1,1 +1,0 @@
-2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondet e parashikuara në buxhetin e vitit 2011, miratuar për Ministrisë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, në grupin 25, titull 10550, kap.1, art.606 “Transferta të buxhetit familjar dhe invalidët” (E ardhura nga papunësia).
