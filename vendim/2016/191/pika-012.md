@@ -1,0 +1,1 @@
+12. Të gjitha ndryshimet në arkitekturën software dhe hardware dhe në strukturën e SSHP-së të Drejtorisë së Përgjithshme të Shërbimit Kombëtar të Punësimit, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe praktikave evropiane e ndërkombëtare në fushën e shërbimeve të punësimit, do të bëhen në përputhje me legjislacionin në fuqi.

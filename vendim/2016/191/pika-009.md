@@ -1,0 +1,1 @@
+9. Subjektet e interesuara (punëdhënës dhe punëkërkues) kanë nivel aksesi për të hedhur dhe lexuar informacion të kufizuar, sipas akteve ligjore e nënligjore në fuqi, nëpërmjet sistemit të SSHP-së, si dhe shërbimit on-line. Për punonjësit e SHKP-së, niveli i aksesimit përcaktohet me rregullore të brendshme, sipas dispozitave ligjore.
