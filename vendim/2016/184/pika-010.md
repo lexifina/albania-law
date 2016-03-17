@@ -1,0 +1,1 @@
+10. Njësia, në të gjitha rastet kur ushtron kontroll për veprimtarinë e Agjencisë, sipas përcaktimeve të pikës 4, e kryen atë për një periudhë jo më shumë se 30 ditë. Në raste të veçanta, kërkon shtyrjen e afatit, por jo më shumë se 3 muaj.

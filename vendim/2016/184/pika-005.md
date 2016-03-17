@@ -1,0 +1,1 @@
+5. Në rastet kur kontrolli fillon për shkaqet e paraqitura në shkronjën “a”, të pikës 4, ai është i menjëhershëm dhe kryhet në ambientet e Agjencisë, duke verifikuar aktet dhe dokumentet që i referohen vetëm rastit konkret.

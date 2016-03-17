@@ -1,0 +1,1 @@
+11. Pas përfundimit të kontrollit, Njësia harton një raport paraprak, të cilin ia paraqet Agjencisë për të bërë observacione, brenda 8 ditëve. Pas kësaj, Njësia përpilon raportin përfundimtar, me rekomandimet dhe masat përkatëse dhe ia paraqet atë ministrit të Shëndetësisë.

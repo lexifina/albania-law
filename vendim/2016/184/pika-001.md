@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave për mënyrën e ushtrimit të kontrollit për veprimtarinë e Agjencisë Kombëtare të Barnave dhe Pajisjeve Mjekësore (në vazhdim “Agjencia”), i cili lidhet me analizën, regjistrimin, farmakovigjilencen, kontrollin e barnave dhe të pajisjeve mjekësore, si dhe me inspektimin e veprimtarive në fushën farmaceutike.

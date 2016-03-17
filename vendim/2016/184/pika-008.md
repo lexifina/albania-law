@@ -1,0 +1,1 @@
+8. Kontrolli periodik, që Njësia kryen pranë Agjencisë, shoqërohet më një program kontrolli, i cili miratohet nga ministri i Shëndetësisë. Programi i kontrollit duhet të ketë të përcaktuar qartë objektin e kontrollit dhe afatin e ushtrimit të tij.
