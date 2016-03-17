@@ -1,0 +1,1 @@
+2. Ministrisë së Drejtësisë dhe Gjykatës së Apelit Administrativ Tiranë u ndalohet ta ndryshojnë destinacionin e pronës së përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojnë atë apo t’ua japin në përdorim të tretëve.

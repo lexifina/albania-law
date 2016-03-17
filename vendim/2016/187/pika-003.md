@@ -1,0 +1,1 @@
+3. Vendimi nr. 729, datë 2.9.2015, i Këshillit të Ministrave, “Për kalimin në përgjegjësi administrimi, nga Ministria e Mirëqenies Sociale dhe Rinisë te Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, të mjediseve të ish-godinës së Ministrisë së Mjedisit, për Agjencinë Shqiptare të Zhvillimit të Investimeve (AIDA)”, shfuqizohet.

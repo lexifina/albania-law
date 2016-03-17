@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes te Ministria e Drejtësisë, për mjedise pune për zhvillimin normal të veprimtarisë administrative të Gjykatës së Apelit Administrativ Tiranë, të ish-godinës së Ministrisë së Mjedisit.
