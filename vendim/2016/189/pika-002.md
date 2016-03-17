@@ -1,0 +1,1 @@
+2. Vendimi nr. 572, datë 27.6.2013, i Këshillit të Ministrave, “Për miratimin e rregullit teknik “Për kërkesat thelbësore dhe vlerësimin e konformitetit të pajisjeve mjekësore diagnostikuese in vitro”, shfuqizohet.
