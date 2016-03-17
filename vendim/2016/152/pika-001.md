@@ -1,0 +1,1 @@
+1. Kalimin në pronësi, nga Ministria e Arsimit dhe Sportit te Bashkia Korçë, për Agjencinë e Zhvillimit Rajonal Korçë dhe institucione të tjera, të disa mjediseve të pronës me emërtimin “Shtëpia e Ushtarakëve”, me vendndodhje në bulevardin “Republika”, sipas formularit për inventarizimin e pronave të paluajtshme shtetërore dhe planimetrisë, që i bashkëlidhen këtij vendimi.
