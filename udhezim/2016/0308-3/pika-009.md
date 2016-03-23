@@ -1,0 +1,1 @@
+9. Sistemi i kontrollit të cilësisë do të përfshijë monitorimin e implementimit dhe kryerjen e PMP-së dhe do të identifikojë masat për të korrigjuar çdo dështim në kryerjen e PMP-së. Këto masa korrigjuese do të implementohen pa vonesa dhe do të jenë të gatshme për autoritetet përkatëse për inspektim.

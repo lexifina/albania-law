@@ -1,0 +1,1 @@
+10. Operatori i biznesit do të krijojë dhe mbajë dokumentacionin e përshtatshëm në letër ose në format elektronik, në lidhje me specifikimet, formulat dhe proceset e prodhimit, të cilat janë të rëndësishme për pajtueshmërinë dhe sigurinë e materialit ose artikullit të përfunduar.

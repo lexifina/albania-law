@@ -1,0 +1,1 @@
+11. Operatori i biznesit do të krijojë dhe mbajë dokumentacionin e përshtatshëm në letër ose në format elektronik, në lidhje me të dhënat që mbulojnë operacione të ndryshme të prodhimit të cilat janë të rëndësishme për pajtueshmërinë dhe sigurinë e materialit ose artikullit të përfunduar (final) dhe në lidhje me rezultatet e sistemit të kontrollit të cilësisë.
