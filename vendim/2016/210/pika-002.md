@@ -1,0 +1,1 @@
+2. Rishpërndarja e numrit të punonjësve i shtrin efektet financiare dhe bëhet efektive në sistemin e thesarit pas hyrjes në fuqi të strukturës së miratuar për institucionet e përmendura në këtë vendim.
