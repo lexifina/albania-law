@@ -1,0 +1,6 @@
+# Neni 8
+Parimi i aksesit dhe i barazisë
+1. Institucionet e administratës shtetërore ofrojnë për të gjithë personat fizikë dhe juridikë akses në shërbimet publike në mënyrë të barabartë, jodiskriminuese, objektive dhe transparente. Në çdo rast duhet të respektohen kërkesat e legjislacionit për mbrojtjen nga diskriminimi.
+2. Një trajtim i ndryshëm i personave në ofrimin e shërbimeve lejohet vetëm mbi bazën e dallimeve objektive dhe shkaqeve të justifikuara, sipas legjislacionit që rregullon fushën e mosdiskri-minimit.
+3. Institucionet e administratës shtetërore janë të detyruara që t’u ofrojnë akses personave, brenda kufijve të kërkesës së paraqitur dhe nivelit të aksesit të lejuar, sipas legjislacionit në fuqi për mbrojtjen e të dhënave personale dhe sekretin shtetëror, në regjistrat publikë dhe bazat e të dhënave shtetërore, me qëllim përfitimin e shërbimit të kërkuar.
+4. Institucionet e administratës shtetërore, brenda mundësive financiare, kompetencës së tyre dhe duke zbatuar rregullat për ruajtjen e të dhënave personale, në ofrimin e shërbimeve publike përpiqen të zbatojnë zgjidhjet inovative dhe teknologjike, të cilat mundësojnë një akses më të madh të personave në shërbimet publike.
