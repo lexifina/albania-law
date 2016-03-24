@@ -1,0 +1,1 @@
+1. Krijimin e Task-Forcës “Roja e Gjelbër”, si organizëm i përkohshëm për marrjen e masave emergjente për parandalimin, pakësimin dhe riaftësimin nga çdo dëmtim të pyjeve publike e private, në zbatim të ligjit nr. 5/2016, “Për shpalljen e moratoriumit në pyje në Republikën e Shqipërisë”.

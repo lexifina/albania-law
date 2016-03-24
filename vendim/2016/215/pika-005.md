@@ -1,0 +1,1 @@
+5. Grupi drejtues mblidhet si rregull me kërkesë të kryetarit. Në mbledhjet e grupit drejtues, në varësi të çështjeve që do të shqyrtohen, mund të ftohen të marrin pjesë përfaqësues të organeve qendrore e vendore, si dhe ekspertë të organizatave të interesuara.

@@ -1,0 +1,1 @@
+10. Rregulla të hollësishme për çështje teknike, organizative, logjistike e financiare, që lidhen me përmbushjen e detyrave të Task-Forcës “Roja e Gjelbër”, përcaktohen me urdhër të përbashkët të ministrit të Mjedisit, ministrit të Punëve të Brendshme, ministrit të Mbrojtjes dhe ministrit të Financave.

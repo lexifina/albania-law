@@ -1,0 +1,1 @@
+11. Task-Forca “Roja e Gjelbër” pajiset me një logo, të miratuar nga ministri i Mjedisit, e cila përdoret në letërkëmbimin e saj, për identifikimin e automjeteve e të pikave të kontrollit, për fushatat e ndërgjegjësimit publik dhe, në raste të tjera, sipas vendimit të grupit drejtues të saj.
