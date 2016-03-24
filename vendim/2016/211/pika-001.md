@@ -1,0 +1,1 @@
+1. Krijimin, funksionimin, administrimin dhe mirëmbajtjen e Regjistrit Elektronik të Koncesionit /Partneritetit Publik Privat (REKP) dhe publikimin e tij në faqen zyrtare të Njësisë së Trajtimit të Koncesioneve/PPP (në vijim “ATRAKO”), me adresë elektronike: http://www.atrako.gov.al.
