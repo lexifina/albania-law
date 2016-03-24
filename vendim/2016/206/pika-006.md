@@ -1,0 +1,1 @@
+6. Komisioni mblidhet në mjediset e ministrisë përgjegjëse për azilin dhe refugjatët, për shqyrtimin e ankimeve të depozituara kundër të gjitha vendimeve të autoritetit përgjegjës për azilin dhe refugjatët, sipas procedurës dhe afateve të përcaktuara në ligjin nr. 121/2014, “Për azilin në Republikën e Shqipërisë”.

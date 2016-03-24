@@ -1,0 +1,1 @@
+5. Anëtarët e Komisionit caktohen nga institucionet e përcaktuara në pikën 2, për një periudhë 1-vjeçare, me të drejtën e rinovimit të mandatit të tyre ose të caktimit të një përfaqësuesi të ri, brenda 30 ditëve para përfundimit të mandatit.

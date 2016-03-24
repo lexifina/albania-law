@@ -1,0 +1,1 @@
+1. Krijimin e Komisionit Kombëtar për Azilin dhe Refugjatët (në vijim “Komisioni”), si autoriteti i vetëm kompetent, vendimmarrës, për ankimet kundër të gjitha vendimeve të autoritetit përgjegjës për azilin dhe refugjatët.
