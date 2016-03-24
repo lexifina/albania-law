@@ -1,0 +1,1 @@
+4. Shoqëritë e tregtimit me shumicë, përpara futjes së bombolave të mbushura me GLN në treg, duhet të evidentojnë në sipërfaqen e bombolës të dhëna për markën tregtare të shoqërisë, peshën neto dhe bruto, të shprehur në kilogram, simbolin e flakës së ndezshme, vitin e prodhimit, datën e kontrollit teknik si dhe udhëzimin për përdorim të sigurt të tyre.

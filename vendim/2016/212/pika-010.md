@@ -1,0 +1,1 @@
+10. Shoqëritë e tregtimit me shumicë janë të detyruara të mbajnë një regjistër, në format shkresor dhe elektronik, për bombolat e GLN-së, sipas kushteve dhe procedurave të miratuara me urdhër të ministrit përgjegjës për hidrokarburet. Një kopje e këtij regjistri dërgohet, në format letër dhe elektronik, çdo 3 muaj në Inspektoratin Shtetëror Teknik dhe Industrial.

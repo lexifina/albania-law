@@ -1,0 +1,1 @@
+1. Përpunimi i gazit të lëngshëm të naftës (GLN) në bombola kryhet nga persona juridikë, të përcaktuar në ligjin nr. 8450, datë 24.2.1999, “Për përpunimin, transportimin dhe tregtimin e naftës, të gazit dhe nënprodukteve të tyre”, të ndryshuar, sipas kushteve dhe rregullave teknike të përcaktuara në këtë vendim dhe në legjislacionin në fuqi.

@@ -1,0 +1,1 @@
+8. Shoqëria e tregtimit me shumicë, e cila ka në pronësi apo posedim bombolat e mbushura me GLN, kryen veprimtarinë e mbushjes, furnizimit, depozitimit dhe transportimit deri te njësitë e tregtimit me pakicë të lëndëve djegëse dhe stacionet e shitjes së karburanteve, në të gjithë territorin e Republikës së Shqipërisë.

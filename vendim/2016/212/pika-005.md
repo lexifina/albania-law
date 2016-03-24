@@ -1,0 +1,1 @@
+5. Çdo shoqëri e tregtimit me shumicë të bombolave të mbushura me GLN duhet të depozitojë në Inspektoratin Shtetëror Teknik dhe Industrial të dhëna për ngjyrën e saj, markën tregtare dhe deklaratën e konformitetit të bombolave, për të garantuar identifikimin, nga ana e organeve përgjegjëse, se këto bombola përdoren vetëm nga shoqëria, e cila ka pronësinë apo posedimin e tyre.

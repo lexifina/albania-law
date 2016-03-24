@@ -1,0 +1,1 @@
+3. Shoqëritë e tregtimit me shumicë të bombolave të mbushura me GLN kanë përgjegjësi për mbushjen e bombolave me GLN, të cilat duhet t’i jenë nënshtruar, paraprakisht, kontrollit teknik, sipas përcaktimeve të rregullit teknik përkatës.
