@@ -1,0 +1,7 @@
+LIGJ
+Nr. 14/2016
+PËR IDENTIFIKIMIN DHE REGJISTRIMIN E ADRESËS SË SHTETASVE SHQIPTARË QË JETOJNË JASHTË TERRITORIT TË REPUBLIKËS SË SHQIPËRISË
+Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
