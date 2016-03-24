@@ -1,0 +1,29 @@
+{
+  "qbz_id": 62446,
+  "title": "PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI, NGA MINISTRIA E MBROJTJES TE Ministria e Kulturës, TË PRONËS NR. 186, ME EMËRTIM “REPARTI USHTARAK NR. 3042, QENDËR STËRVITORE”, ME VENDNDODHJE NË SAUK, TIRANË, DHE PËR NJË NDRYSHIM NË VENDIMIN NR. 515, DATË 18.7.2003, TË KËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË MBROJTJES”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "203",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2016-03-16",
+  "published": "2016-03-24",
+  "in_force": "2016-03-24",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/35118f46f10e5f4c1da5ae8711377a711a9f9b375c44249a36a557e0393c762b.docx",
+  "source_sha256": "35118f46f10e5f4c1da5ae8711377a711a9f9b375c44249a36a557e0393c762b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62446",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/03/16/203",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    22299,
+    16214
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
