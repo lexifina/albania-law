@@ -1,0 +1,1 @@
+7. Drejtori i përgjithshëm i ATP-së emërohet, lirohet dhe shkarkohet nga detyra nga Kryeministri, me propozimin e ministrit të Drejtësisë, ndërsa zëvendësdrejtori i përgjithshëm emërohet, lirohet dhe shkarkohet nga detyra nga ministri i Drejtësisë, me propozimin e drejtorit të përgjithshëm.

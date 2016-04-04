@@ -1,0 +1,1 @@
+6. ATP-ja drejtohet dhe përfaqësohet nga drejtori i përgjithshëm dhe nga zëvendësdrejtori i përgjithshëm, për detyra që i delegohen nga drejtori i përgjithshëm, të cilët i raportojnë ministrit të Drejtësisë.

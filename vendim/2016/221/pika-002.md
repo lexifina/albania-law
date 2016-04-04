@@ -1,0 +1,1 @@
+2. ATP-ja ka si mision ofrimin direkt të shërbimeve publike, nëpërmjet shqyrtimit të kërkesave të subjekteve të shpronësuara, për trajtimin e pronës, për të cilat nuk është marrë vendim, dhe shqyrtimit e vlerësimit të kërkesave për përfitimin e së drejtës së njohur për kompensim, si dhe detyra e shërbime të tjera, të ngarkuara me akte ligjore apo nënligjore në fuqi.

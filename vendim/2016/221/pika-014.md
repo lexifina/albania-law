@@ -1,0 +1,10 @@
+14. Drejtori i përgjithshëm i raporton me shkrim, periodikisht, çdo tre muaj, ministrit të Drejtësisë, Kryeministrit dhe Komisionit të Përhershëm Parlamentar për Ekonominë dhe Financën të Kuvendit të Republikës së Shqipërisë. Gjithashtu, drejtori i përgjithshëm i raporton një herë në vit Komisionit Parlamentar për Çështjet Ligjore, Administratën Publike dhe të Drejtat e Njeriut.
+Raporti përmban të dhëna:
+a) të përgjithshme për ecurinë e vlerësimit financiar të vendimeve përfundimtare, që kanë njohur të drejtën e kompensimit, si dhe ecurinë e ekzekutimit të këtyre vendimeve, duke përgjithësuar të dhënat për sipërfaqen e kompensuar sipas llojit të pasurisë, numrin e tyre dhe vlerën monetare të shpërndarë;
+b) për numrin e kërkesave të paraqitura nga subjektet e shpronësuara, të ndara sipas qarkut dhe në shkallë vendi, si dhe për llojin e pasurisë së pretenduar;
+c) për numrin e kërkesave të shqyrtuara, indeksin e saktë të çështjeve të pranuara apo të rrëzuara në ATP, si dhe për numrin e çështjeve të ndjekura e të ankimuara në gjykatë;
+ç) në lidhje me fondin e tokës që është shpërndarë për kompensim nga ATP-ja;
+d) për punën e Komisionit Ndërinstitucional për identifikimin e pronës shtetërore që mund të kalojë në Fondin e Kompensimit të Pronave dhe për pronën shtetërore të identifikuar prej komisionit për të kaluar në Fondin e Kompensimit të Pronave, duke specifikuar sipërfaqen e identifikuar, llojin e pasurisë dhe vendndodhjen e saj;
+dh) për nivelin e bashkëpunimit me institucionet e tjera shtetërore;
+e) për çdo çështje tjetër, për të cilën kërkohet informacion apo që, sipas vlerësimit të drejtorit të përgjithshëm, duhet të vihet në dijeni Kryeministri dhe/apo komisioni përkatës i Kuvendit.
+Të dhënat e përcaktuara nga shkronjat “a” deri në “e” dhe të dhënat e tjera, që kanë lidhje me procesin e njohjes dhe të kompensimit të pronave, për subjektet e shpronësuara, përgjithësohen dhe bëhen publike në faqen elektronike të Agjencisë, brenda 2 (dy) javëve nga data e dorëzimit të raportit.

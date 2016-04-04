@@ -1,0 +1,1 @@
+15. Drejtori i përgjithshëm i ATP-së ndjek dhe vë në dijeni ministrin e drejtësisë për ecurinë e vendimmarrjes ndaj kërkesave të subjekteve të shpronësuara, për çështje të përfaqësimit të interesave ligjore të shtetit në gjykatë gjatë zgjidhjes dhe shqyrtimit të konflikteve, dhe për çdo çështje, sa herë që i kërkohet ose çmohet e domosdoshme nga drejtori i përgjithshëm.

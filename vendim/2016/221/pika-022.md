@@ -1,0 +1,1 @@
+22. Buxheti krijohet dhe përdoret sipas legjislacionit në fuqi për menaxhimin e sistemit financiar dhe buxhetor. Të gjitha donacionet ose të ardhurat e tjera të ligjshme përdoren sipas rregullave dhe procedurave të përcaktuara në legjislacionin në fuqi për menaxhimin e sistemit financiar dhe buxhetor.

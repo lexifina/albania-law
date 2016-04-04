@@ -1,0 +1,1 @@
+3. ATP-ja përmbush objektivat, kryen detyrat dhe ushtron përgjegjësitë në përputhje me përcaktimet e ligjit nr. 133/2015, “Për trajtimin e pronës dhe përfundimin e procesit të kompensimit të pronave”.
