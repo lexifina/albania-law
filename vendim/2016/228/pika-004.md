@@ -1,0 +1,1 @@
+4. Vlera totale e shpronësimit, prej 1 574 002 (një milion e pesëqind e shtatëdhjetë e katër mijë e dy) lekësh, të përballohet nga fondi i shpronësimeve, në llogarinë e shpronësimeve në Bankën e Shqipërisë, sipas nenit 10, të ligjit nr. 160/2014, “Për buxhetin e vitit 2015”, të ndryshuar.
