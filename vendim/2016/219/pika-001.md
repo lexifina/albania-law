@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2016, në zërin “Shpenzime korrente” t’i shtohet fondi 5 278 468 (pesë milionë e dyqind e shtatëdhjetë e tetë mijë e katërqind e gjashtëdhjetë e tetë) lekë dhe në zërin “Shpenzime kapitale” t’i shtohet fondi 15 518 000 (pesëmbëdhjetë milionë e pesëqind e tetëmbëdhjetë mijë) lekë.
