@@ -1,0 +1,5 @@
+VENDIM
+Nr. 224, datë 23.3.2016
+PËR MIRATIMIN E NDRYSHIMIT TË STATUSIT, NGA TOKË BUJQËSORE NË TOKË TRUALL PËR NDËRTIM, PËR SIPËRFAQET QË PRITEN TË NDIKOHEN NGA NDËRTIMI I STACIONEVE TË KOMPRESORËVE SKSH02 DHE SKSH03, TË PROJEKTIT TAP, TË CILAT DO TË VIHEN NË DISPOZICION TË SHOQËRISË TRANS ADRIATIC PIPELINE AG (TAP AG), PËR PËRDORIM TË PËRHERSHËM
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 11/1, të ligjit nr. 8752, datë 26.3.2001, “Për krijimin dhe funksionimin e strukturave për administrimin dhe mbrojtjen e tokës”, të ndryshuar, dhe të neneve 16 e 28.6, të ligjit nr. 116/2013, “Për ratifikimin e marrëveshjes me qeverinë e vendit pritës, ndërmjet Republikës së Shqipërisë, duke vepruar nëpërmjet Këshillit të Ministrave dhe Trans Adriatic Pipeline AG, lidhur me projektin e Gazsjellësit Trans Adriatik (Projekti TAP), dhe të marrëveshjes ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave, dhe Trans Adriatic Pipeline AG, në lidhje me projektin e Gazsjellësit Trans Adriatik (Projekti TAP)”, me propozimin e ministrit të Energjisë dhe Industrisë, Këshilli i Ministrave
+VENDOSI:

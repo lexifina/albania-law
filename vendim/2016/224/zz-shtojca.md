@@ -1,0 +1,1713 @@
+# Shtojca
+Lidhja 1
+SIPËRFAQET, TOKË BUJQËSORE, TË NDIKUARA NGA STACIONI I KOMPRESORIT - SKSH02 - KORÇË
+STACIONI I KOMPRESORËVE
+QARKU
+ZONA KADASTRALE
+EMRI
+PARCELA
+STATUSI I PARCELËS
+PËRDORIMI
+SIPËRFAQJA (M²)
+SIPËRFAQJA E PREKUR/NDIKUAR (M²)
+SKSH02
+Devoll
+3787
+Vishocicë
+834/22
+private
+TOKË BUJQËSORE
+4593.72
+1971.04
+SKSH02
+Devoll
+3787
+Vishocicë
+834/21
+private
+TOKË BUJQËSORE
+3677.47
+1962.10
+SKSH02
+Devoll
+3787
+Vishocicë
+834/20
+private
+TOKË BUJQËSORE
+1199.47
+709.84
+SKSH02
+Devoll
+3787
+Vishocicë
+834/19
+private
+TOKË BUJQËSORE
+3696.55
+2307.74
+SKSH02
+Devoll
+3787
+Vishocicë
+834/18
+private
+TOKË BUJQËSORE
+2847.80
+1976.83
+SKSH02
+Devoll
+3787
+Vishocicë
+834/17
+private
+TOKË BUJQËSORE
+2207.86
+1666.15
+SKSH02
+Devoll
+3787
+Vishocicë
+834/16
+private
+TOKË BUJQËSORE
+2204.35
+1759.84
+SKSH02
+Devoll
+3787
+Vishocicë
+834/15
+private
+TOKË BUJQËSORE
+4014.10
+3425.44
+SKSH02
+Devoll
+3787
+Vishocicë
+834/14
+private
+TOKË BUJQËSORE
+2733.88
+2540.63
+SKSH02
+Devoll
+3787
+Vishocicë
+834/13
+private
+TOKË BUJQËSORE
+4600.77
+4110.81
+SKSH02
+Devoll
+3787
+Vishocicë
+834/12
+private
+TOKË BUJQËSORE
+5621.62
+3893.80
+SKSH02
+Devoll
+3787
+Vishocicë
+834/11
+private
+TOKË BUJQËSORE
+4615.75
+2330.94
+SKSH02
+Devoll
+3787
+Vishocicë
+834/10
+private
+TOKË BUJQËSORE
+2742.87
+1059.52
+SKSH02
+Devoll
+3787
+Vishocicë
+834/9
+private
+TOKË BUJQËSORE
+6603.67
+1375.30
+SKSH02
+Devoll
+3787
+Vishocicë
+834/8
+private
+TOKË BUJQËSORE
+6555.47
+93.41
+SKSH02
+Devoll
+3787
+Vishocicë
+834/24
+private
+TOKË BUJQËSORE
+3908.75
+1385.42
+SKSH02
+Devoll
+3787
+Vishocicë
+834/25
+private
+TOKË BUJQËSORE
+4049.01
+1117.69
+SKSH02
+Devoll
+3787
+Vishocicë
+834/26
+private
+TOKË BUJQËSORE
+4795.04
+873.59
+SKSH02
+Devoll
+3787
+Vishocicë
+834/27
+private
+TOKË BUJQËSORE
+4784.41
+388.90
+SKSH02
+Devoll
+3787
+Vishocicë
+834/28
+private
+TOKË BUJQËSORE
+4928.80
+27.27
+SKSH02
+Devoll
+3787
+Vishocicë
+833/26
+private
+TOKË BUJQËSORE
+2686.63
+2686.63
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/6
+private
+TOKË BUJQËSORE
+2715.59
+2715.59
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/7
+private
+TOKË BUJQËSORE
+1993.96
+1993.96
+SKSH02
+Devoll
+3787
+Vishocicë
+833/25
+private
+TOKË BUJQËSORE
+1937.94
+1937.94
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/8
+private
+TOKË BUJQËSORE
+1699.65
+1699.65
+SKSH02
+Devoll
+3787
+Vishocicë
+833/24
+private
+TOKË BUJQËSORE
+1080.16
+1080.16
+SKSH02
+Devoll
+3787
+Vishocicë
+833/23
+private
+TOKË BUJQËSORE
+879.53
+879.53
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/9
+private
+TOKË BUJQËSORE
+2117.18
+2117.18
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/10
+private
+TOKË BUJQËSORE
+836.33
+836.33
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/11
+private
+TOKË BUJQËSORE
+804.03
+804.03
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/12
+private
+TOKË BUJQËSORE
+600.81
+600.81
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/13
+private
+TOKË BUJQËSORE
+839.17
+839.17
+SKSH02
+Devoll
+3787
+Vishocicë
+833/22
+private
+TOKË BUJQËSORE
+3880.50
+3880.50
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/14
+private
+TOKË BUJQËSORE
+1162.78
+1162.78
+SKSH02
+Devoll
+3787
+Vishocicë
+833/21
+private
+TOKË BUJQËSORE
+1449.56
+1449.56
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/15
+private
+TOKË BUJQËSORE
+783.18
+783.18
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/16
+private
+TOKË BUJQËSORE
+4038.45
+4038.45
+SKSH02
+Devoll
+3787
+Vishocicë
+833/20
+private
+TOKË BUJQËSORE
+1393.11
+1393.11
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/17
+private
+TOKË BUJQËSORE
+1058.63
+1058.63
+SKSH02
+Devoll
+3787
+Vishocicë
+833/19
+private
+TOKË BUJQËSORE
+1886.07
+1886.07
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/18
+private
+TOKË BUJQËSORE
+1073.40
+1073.40
+SKSH02
+Devoll
+3787
+Vishocicë
+833/18
+private
+TOKË BUJQËSORE
+1401.82
+1401.82
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/19
+private
+TOKË BUJQËSORE
+824.87
+824.87
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/20
+private
+TOKË BUJQËSORE
+850.30
+850.30
+SKSH02
+Devoll
+3787
+Vishocicë
+833/17
+private
+TOKË BUJQËSORE
+3174.96
+3174.96
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/21
+private
+TOKË BUJQËSORE
+4607.10
+4607.10
+SKSH02
+Devoll
+3787
+Vishocicë
+833/16
+private
+TOKË BUJQËSORE
+3693.58
+3693.58
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/22
+private
+TOKË BUJQËSORE
+3218.03
+3218.03
+SKSH02
+Devoll
+3787
+Vishocicë
+833/15
+private
+TOKË BUJQËSORE
+963.64
+963.64
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/23
+private
+TOKË BUJQËSORE
+1734.14
+1734.14
+SKSH02
+Devoll
+3787
+Vishocicë
+833/14
+private
+TOKË BUJQËSORE
+1501.34
+1501.34
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/24
+private
+TOKË BUJQËSORE
+1526.15
+1526.15
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/25
+private
+TOKË BUJQËSORE
+1467.37
+1467.37
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/26
+private
+TOKË BUJQËSORE
+3212.62
+3212.62
+SKSH02
+Devoll
+3787
+Vishocicë
+833/13
+private
+TOKË BUJQËSORE
+2889.16
+2889.16
+SKSH02
+Devoll
+3787
+Vishocicë
+825/1
+private
+TOKË BUJQËSORE
+1055.49
+1055.49
+SKSH02
+Devoll
+3787
+Vishocicë
+833/12
+private
+TOKË BUJQËSORE
+4730.24
+4730.24
+SKSH02
+Devoll
+3787
+Vishocicë
+825/2
+private
+TOKË BUJQËSORE
+2025.11
+2025.11
+SKSH02
+Devoll
+3787
+Vishocicë
+825/3
+private
+TOKË BUJQËSORE
+2288.04
+2288.04
+SKSH02
+Devoll
+3787
+Vishocicë
+825/4
+private
+TOKË BUJQËSORE
+1438.00
+1438.00
+SKSH02
+Devoll
+3787
+Vishocicë
+833/11
+private
+TOKË BUJQËSORE
+2638.12
+2638.12
+SKSH02
+Devoll
+3787
+Vishocicë
+825/5
+private
+TOKË BUJQËSORE
+1348.69
+1348.69
+SKSH02
+Devoll
+3787
+Vishocicë
+825/6
+private
+TOKË BUJQËSORE
+2651.66
+2651.66
+SKSH02
+Devoll
+3787
+Vishocicë
+833/10
+private
+TOKË BUJQËSORE
+4179.90
+4179.90
+SKSH02
+Devoll
+3787
+Vishocicë
+825/7
+private
+TOKË BUJQËSORE
+588.68
+588.68
+SKSH02
+Devoll
+3787
+Vishocicë
+825/8
+private
+TOKË BUJQËSORE
+950.88
+950.88
+SKSH02
+Devoll
+3787
+Vishocicë
+833/9
+private
+TOKË BUJQËSORE
+1840.05
+1840.05
+SKSH02
+Devoll
+3787
+Vishocicë
+825/9
+private
+TOKË BUJQËSORE
+1726.54
+1726.54
+SKSH02
+Devoll
+3787
+Vishocicë
+833/8
+private
+TOKË BUJQËSORE
+1952.47
+1952.47
+SKSH02
+Devoll
+3787
+Vishocicë
+825/10
+private
+TOKË BUJQËSORE
+1536.70
+1536.70
+SKSH02
+Devoll
+3787
+Vishocicë
+825/11
+private
+TOKË BUJQËSORE
+1417.85
+1417.85
+SKSH02
+Devoll
+3787
+Vishocicë
+825/12
+private
+TOKË BUJQËSORE
+1140.16
+1140.16
+SKSH02
+Devoll
+3787
+Vishocicë
+833/7
+private
+TOKË BUJQËSORE
+4664.52
+4664.52
+SKSH02
+Devoll
+3787
+Vishocicë
+825/13
+private
+TOKË BUJQËSORE
+2396.03
+2396.03
+SKSH02
+Devoll
+3787
+Vishocicë
+825/14
+private
+TOKË BUJQËSORE
+1390.46
+1390.46
+SKSH02
+Devoll
+3787
+Vishocicë
+833/6
+private
+TOKË BUJQËSORE
+2479.44
+2479.44
+SKSH02
+Devoll
+3787
+Vishocicë
+825/15
+private
+TOKË BUJQËSORE
+927.36
+927.36
+SKSH02
+Devoll
+3787
+Vishocicë
+833/5
+private
+TOKË BUJQËSORE
+3870.09
+3847.01
+SKSH02
+Devoll
+3787
+Vishocicë
+825/16
+private
+TOKË BUJQËSORE
+3932.10
+3918.48
+SKSH02
+Devoll
+3787
+Vishocicë
+833/4
+private
+TOKË BUJQËSORE
+4480.81
+4138.71
+SKSH02
+Devoll
+3787
+Vishocicë
+833/3
+private
+TOKË BUJQËSORE
+423.86
+375.70
+SKSH02
+Devoll
+3787
+Vishocicë
+826/1
+private
+TOKË BUJQËSORE
+2381.35
+2166.78
+SKSH02
+Devoll
+3787
+Vishocicë
+833/2
+private
+TOKË BUJQËSORE
+1713.49
+1457.74
+SKSH02
+Devoll
+3787
+Vishocicë
+833/1
+private
+TOKË BUJQËSORE
+2740.84
+2226.41
+SKSH02
+Devoll
+3787
+Vishocicë
+826/2
+private
+TOKË BUJQËSORE
+2763.36
+2248.86
+SKSH02
+Devoll
+3787
+Vishocicë
+826/3
+private
+TOKË BUJQËSORE
+2454.28
+1858.83
+SKSH02
+Devoll
+3787
+Vishocicë
+832/1
+private
+TOKË BUJQËSORE
+4870.66
+3860.28
+SKSH02
+Devoll
+3787
+Vishocicë
+826/4
+private
+TOKË BUJQËSORE
+1302.06
+916.57
+SKSH02
+Devoll
+3787
+Vishocicë
+832/2
+private
+TOKË BUJQËSORE
+2775.50
+1735.96
+SKSH02
+Devoll
+3787
+Vishocicë
+826/5
+private
+TOKË BUJQËSORE
+1575.87
+1013.51
+SKSH02
+Devoll
+3787
+Vishocicë
+826/6
+private
+TOKË BUJQËSORE
+2089.11
+1101.70
+SKSH02
+Devoll
+3787
+Vishocicë
+832/3
+private
+TOKË BUJQËSORE
+4079.63
+2195.46
+SKSH02
+Devoll
+3787
+Vishocicë
+832/4
+private
+TOKË BUJQËSORE
+1912.24
+866.94
+SKSH02
+Devoll
+3787
+Vishocicë
+826/7
+private
+TOKË BUJQËSORE
+1540.77
+546.06
+SKSH02
+Devoll
+3787
+Vishocicë
+832/5
+private
+TOKË BUJQËSORE
+3802.00
+1603.56
+SKSH02
+Devoll
+3787
+Vishocicë
+826/8
+private
+TOKË BUJQËSORE
+2051.78
+229.99
+SKSH02
+Devoll
+3787
+Vishocicë
+832/6
+private
+TOKË BUJQËSORE
+3584.91
+1123.78
+SKSH02
+Devoll
+3787
+Vishocicë
+826/9
+private
+TOKË BUJQËSORE
+1431.57
+0.43
+SKSH02
+Devoll
+3787
+Vishocicë
+832/7
+private
+TOKË BUJQËSORE
+2370.30
+549.69
+SKSH02
+Devoll
+3787
+Vishocicë
+832/8
+private
+TOKË BUJQËSORE
+3588.34
+384.82
+SKSH02
+Devoll
+3787
+Vishocicë
+832/9
+private
+TOKË BUJQËSORE
+5394.31
+0.06
+SKSH02
+Devoll
+3644
+Trestenik
+799/12
+private
+TOKË BUJQËSORE
+7138.35
+4692.85
+SKSH02
+Devoll
+3644
+Trestenik
+799/13
+publik
+TOKË BUJQËSORE
+5848.73
+656.92
+SKSH02
+Devoll
+3644
+Trestenik
+799/22
+publik
+TOKË BUJQËSORE
+1490.53
+199.40
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/11
+private
+TOKË BUJQËSORE
+1969.82
+1757.26
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/6
+private
+TOKË BUJQËSORE
+1526.44
+1526.44
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/3
+private
+TOKË BUJQËSORE
+2609.28
+2609.28
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/4
+private
+TOKË BUJQËSORE
+735.77
+735.77
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/9
+private
+TOKË BUJQËSORE
+2134.22
+2134.22
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/13
+private
+TOKË BUJQËSORE
+3522.82
+2030.72
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/12
+private
+TOKË BUJQËSORE
+2898.10
+2067.55
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/10
+private
+TOKË BUJQËSORE
+2183.44
+1682.11
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/5
+private
+TOKË BUJQËSORE
+2334.99
+2334.99
+SKSH02
+Devoll
+3787
+Vishocicë
+824/8
+private
+TOKË BUJQËSORE
+1287.89
+0.20
+SKSH02
+Devoll
+3787
+Vishocicë
+824/4
+private
+TOKË BUJQËSORE
+1687.37
+611.62
+SKSH02
+Devoll
+3787
+Vishocicë
+824/1
+private
+TOKË BUJQËSORE
+2493.24
+2493.24
+SKSH02
+Devoll
+3787
+Vishocicë
+824/2
+private
+TOKË BUJQËSORE
+1306.64
+906.50
+SKSH02
+Devoll
+3787
+Vishocicë
+824/3
+private
+TOKË BUJQËSORE
+2966.13
+1275.75
+SKSH02
+Devoll
+3787
+Vishocicë
+833/32
+private
+TOKË BUJQËSORE
+1101.47
+1101.47
+SKSH02
+Devoll
+3787
+Vishocicë
+833/31
+private
+TOKË BUJQËSORE
+1992.92
+1992.92
+SKSH02
+Devoll
+3787
+Vishocicë
+833/30
+private
+TOKË BUJQËSORE
+3795.74
+3795.74
+SKSH02
+Devoll
+3787
+Vishocicë
+833/29
+private
+TOKË BUJQËSORE
+2979.80
+2979.80
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/1
+private
+TOKË BUJQËSORE
+1262.64
+1262.64
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/2
+private
+TOKË BUJQËSORE
+1177.77
+1177.77
+SKSH02
+Devoll
+3787
+Vishocicë
+833/28
+private
+TOKË BUJQËSORE
+5439.52
+5439.52
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/3
+private
+TOKË BUJQËSORE
+918.96
+918.96
+SKSH02
+Devoll
+3787
+Vishocicë
+833/27
+private
+TOKË BUJQËSORE
+2749.93
+2749.93
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/4
+private
+TOKË BUJQËSORE
+1600.50
+1600.50
+SKSH02
+Devoll
+3787
+Vishocicë
+1088/5
+private
+TOKË BUJQËSORE
+2377.57
+2377.57
+SKSH02
+Devoll
+3644
+Trestenik
+1084/1
+private
+TOKË BUJQËSORE
+4423.52
+248.96
+SKSH02
+Devoll
+3644
+Trestenik
+1084/2
+private
+TOKË BUJQËSORE
+6398.19
+1216.92
+SKSH02
+Devoll
+3644
+Trestenik
+1084/3
+private
+TOKË BUJQËSORE
+2763.66
+810.07
+SKSH02
+Devoll
+3644
+Trestenik
+1084/4
+private
+TOKË BUJQËSORE
+3297.66
+1272.60
+SKSH02
+Devoll
+3644
+Trestenik
+1084/5
+private
+TOKË BUJQËSORE
+3219.17
+1314.75
+SKSH02
+Devoll
+3644
+Trestenik
+1084/7
+private
+TOKË BUJQËSORE
+2740.06
+1283.00
+SKSH02
+Devoll
+3644
+Trestenik
+833/4
+private
+TOKË BUJQËSORE
+4867.65
+0.97
+SKSH02
+Devoll
+3644
+Trestenik
+1084/8
+private
+TOKË BUJQËSORE
+2453.89
+1198.78
+SKSH02
+Devoll
+3644
+Trestenik
+1084/9
+private
+TOKË BUJQËSORE
+2405.55
+1086.31
+SKSH02
+Devoll
+3644
+Trestenik
+1084/10
+private
+TOKË BUJQËSORE
+960.89
+489.66
+SKSH02
+Devoll
+3644
+Trestenik
+833/5
+private
+TOKË BUJQËSORE
+3689.32
+281.26
+SKSH02
+Devoll
+3644
+Trestenik
+1084/11
+private
+TOKË BUJQËSORE
+3552.26
+1979.05
+SKSH02
+Devoll
+3644
+Trestenik
+833/6
+private
+TOKË BUJQËSORE
+1993.33
+389.10
+SKSH02
+Devoll
+3644
+Trestenik
+1084/12
+private
+TOKË BUJQËSORE
+1690.16
+994.20
+SKSH02
+Devoll
+3644
+Trestenik
+1084/13
+private
+TOKË BUJQËSORE
+4449.05
+2679.19
+SKSH02
+Devoll
+3644
+Trestenik
+1084/14
+private
+TOKË BUJQËSORE
+3916.01
+2533.33
+SKSH02
+Devoll
+3644
+Trestenik
+833/8
+private
+TOKË BUJQËSORE
+2336.66
+935.54
+SKSH02
+Devoll
+3644
+Trestenik
+1084/15
+private
+TOKË BUJQËSORE
+2144.15
+1361.08
+SKSH02
+Devoll
+3644
+Trestenik
+1084/16
+private
+TOKË BUJQËSORE
+1181.95
+753.52
+SKSH02
+Devoll
+3644
+Trestenik
+833/9
+private
+TOKË BUJQËSORE
+3103.05
+1605.31
+SKSH02
+Devoll
+3644
+Trestenik
+1084/17
+private
+TOKË BUJQËSORE
+1672.87
+1212.17
+SKSH02
+Devoll
+3644
+Trestenik
+833/10
+private
+TOKË BUJQËSORE
+2589.69
+1616.06
+SKSH02
+Devoll
+3644
+Trestenik
+1084/19
+private
+TOKË BUJQËSORE
+6985.90
+4218.79
+SKSH02
+Devoll
+3644
+Trestenik
+833/11
+private
+TOKË BUJQËSORE
+3102.99
+2284.29
+SKSH02
+Devoll
+3644
+Trestenik
+1088/2
+private
+TOKË BUJQËSORE
+2933.89
+2483.26
+SKSH02
+Devoll
+3644
+Trestenik
+833/12
+private
+TOKË BUJQËSORE
+3546.67
+3050.67
+SKSH02
+Devoll
+3644
+Trestenik
+833/13
+private
+TOKË BUJQËSORE
+2666.34
+2588.45
+SKSH02
+Devoll
+3644
+Trestenik
+1088/3
+private
+TOKË BUJQËSORE
+4763.87
+4279.37
+SKSH02
+Devoll
+3644
+Trestenik
+1088/4
+private
+TOKË BUJQËSORE
+7329.31
+7193.42
+SKSH02
+Devoll
+3644
+Trestenik
+1088/5
+private
+TOKË BUJQËSORE
+11334.01
+11334.01
+SKSH02
+Devoll
+3644
+Trestenik
+1088/6
+private
+TOKË BUJQËSORE
+1049.02
+1049.02
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/8
+private
+TOKË BUJQËSORE
+1201.48
+1201.48
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/7
+private
+TOKË BUJQËSORE
+1014.94
+1014.94
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/2
+private
+TOKË BUJQËSORE
+551.58
+551.58
+SKSH02
+Devoll
+3787
+Vishocicë
+1092/1
+private
+TOKË BUJQËSORE
+1268.91
+1268.91
+SKSH02
+Devoll
+3644
+Trestenik
+799/10
+private
+TOKË BUJQËSORE
+19262.95
+1881.37
+SHUMA
+461249.80
+307464.71
+Lidhja 2 - Sipërfaqet, tokë bujqësore, të ndikuara nga Stacioni i Kompresorit - SKSH03- Fier
+STACIONI I KOMPRESORËVE
+QARKU
+ZONA KADASTRALE
+EMRI
+PARCELA
+STATUSI I PARCELËS
+PËRDORIMI
+SIPËRFAQJA (M²)
+SIPËRFAQJA
+E PREKUR/
+NDIKUAR (M²)
+SKSH03
+Fier
+3300
+Seman
+6/2
+private
+TOKË BUJQËSORE
+1299.32
+1299.32
+SKSH03
+Fier
+3300
+Seman
+6/3
+private
+TOKË BUJQËSORE
+4656.55
+4656.55
+SKSH03
+Fier
+3300
+Seman
+6/4
+private
+TOKË BUJQËSORE
+3828.40
+3828.40
+SKSH03
+Fier
+3300
+Seman
+6/6
+private
+TOKË BUJQËSORE
+7582.93
+7582.93
+SKSH03
+Fier
+3300
+Seman
+6/7
+private
+TOKË BUJQËSORE
+4469.62
+4469.62
+SKSH03
+Fier
+3300
+Seman
+6/8
+private
+TOKË BUJQËSORE
+5725.25
+5725.25
+SKSH03
+Fier
+3300
+Seman
+6/9
+private
+TOKË BUJQËSORE
+10405.30
+10405.35
+SKSH03
+Fier
+3300
+Seman
+7/1
+private
+TOKË BUJQËSORE
+15516.30
+3995.39
+SKSH03
+Fier
+3300
+Seman
+6/10
+publik
+TOKË BUJQËSORE
+52958.20
+14566.34
+SKSH03
+Fier
+3300
+Seman
+5
+publik
+TOKË BUJQËSORE
+98050.60
+73551.87
+SKSH03
+Fier
+3300
+Seman
+7/2
+private
+TOKË BUJQËSORE
+9532.54
+2441.41
+SKSH03
+Fier
+3300
+Seman
+7/3
+private
+TOKË BUJQËSORE
+4919.28
+1268.64
+SKSH03
+Fier
+3300
+Seman
+7/4
+private
+TOKË BUJQËSORE
+10384.60
+2650.56
+SKSH03
+Fier
+3300
+Seman
+7/6
+private
+TOKË BUJQËSORE
+5023.89
+1306.43
+SKSH03
+Fier
+3300
+Seman
+7/7
+private
+TOKË BUJQËSORE
+5950.29
+1477.07
+SKSH03
+Fier
+3300
+Seman
+7/8
+private
+TOKË BUJQËSORE
+4384.47
+444.79
+SKSH03
+Fier
+3300
+Seman
+3/9
+publik
+TOKË BUJQËSORE
+85899.50
+79100.73
+SKSH03
+Fier
+3300
+Seman
+1
+publik
+TOKË BUJQËSORE
+62034.70
+48006.23
+SKSH03
+Fier
+3300
+Seman
+3/7
+private
+TOKË BUJQËSORE
+9451.90
+9451.90
+SKSH03
+Fier
+3300
+Seman
+3/6
+private
+TOKË BUJQËSORE
+8030.52
+8030.52
+SKSH03
+Fier
+3300
+Seman
+3/5
+private
+TOKË BUJQËSORE
+10083.90
+10083.91
+SKSH03
+Fier
+3300
+Seman
+3/4
+private
+TOKË BUJQËSORE
+6275.12
+908.95
+SHUMA
+426463.18
+295252.17
