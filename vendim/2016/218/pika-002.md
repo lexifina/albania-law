@@ -1,0 +1,1 @@
+2. Fituesi i tenderit, shoqëria “EUROSIG” sh.a., do të pajiset nga Drejtoria e Drejtimit të Pronës Publike, në Ministrinë e Financave, me autorizimin për kryerjen e pagesës së plotë të vlerës së ofruar në tender, ku përcaktohen qartë detyrimet e blerësit.

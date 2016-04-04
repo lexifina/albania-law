@@ -1,0 +1,1 @@
+1. Miratimin e procedurës së tenderimit për shitjen e paketës së aksioneve prej 100 për qind, të zotëruara nga shteti në shoqërinë “INSIG” sh.a., Tiranë, dhe shpalljen fitues të tenderit shoqërinë “EUROSIG” sh.a.

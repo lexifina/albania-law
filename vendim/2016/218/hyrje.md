@@ -1,0 +1,6 @@
+VENDIM
+Nr. 218, datë 23.3.2016
+PËR MIRATIMIN E PROCEDURËS SË TENDERIMIT PËR SHITJEN E PAKETËS SË AKSIONEVE (100 PËR QIND), TË ZOTËRUARA NGA SHTETI NË SHOQËRINË “INSIG” SH.A., TIRANË, DHE SHPALLJEN FITUES TË TENDERIT SHOQËRINË
+“EUROSIG” SH.A.
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 2, të aktit normativ nr. 4, datë 9.7.2008, “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros së këtyre ndërmarrjeve”, miratuar me ligjin nr. 9967, datë 24.7.2008, të nenit 3, të ligjit nr. 8334, datë 23.4.1998, “Për privatizimin e shoqërive tregtare që veprojnë në sektorët jostrategjikë”, të ndryshuar, të nenit 1, të ligjit nr. 8831, datë 22.11.2001, “Për pronësinë shtetërore në shoqëritë tregtare financiare me kapital tërësisht shtetëror”, të ndryshuar, të vendimit nr. 529, datë 21.08.1998, të Këshillit të Ministrave, “Për procedurat e tenderimit të paketave të aksioneve të shoqërive tregtare që zotërohen nga shteti”, të ndryshuar, dhe të vendimit nr. 546, datë 18.6.2015, të Këshillit të Ministrave, “Për përcaktimin e formës dhe të formulës së privatizimit të aksioneve të shoqërisë “INSIG” sh.a.”, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:

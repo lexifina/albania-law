@@ -1,0 +1,2 @@
+3. Fituesi i tenderit, shoqëria “EUROSIG” sh.a., është i detyruar që, brenda 30 (tridhjetë) ditëve nga data e lëshimit të autorizimit, të bëjë pagesën e plotë të vlerës së ofruar në tender.
+Në të kundërt, nëse kjo shoqëri nuk paguan brenda afatit të sipërpërmendur vlerën e plotë të ofruar në tender, humbet të drejtën e blerjes dhe pagesa e ngurtësuar prej 30 000 000 (tridhjetë milionë) lekësh për pjesëmarrje në tender nuk i kthehet.
