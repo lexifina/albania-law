@@ -1,1 +1,0 @@
-1. Subjekti i shpronësuar depoziton, drejtpërdrejt ose nëpërmjet postës, në sekretarinë e AKKP-së, kërkesën e motivuar për njohjen dhe kthimin apo kompensimin e pronës, shoqëruar me dokumentacionin e nevojshëm, sipas këtij vendimi, me të cilin provon pretendimet e tij.

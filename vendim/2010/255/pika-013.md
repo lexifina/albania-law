@@ -1,1 +1,0 @@
-13. AKKP-ja, pas shqyrtimit të kërkesës dhe marrjes së vendimit, pajis subjektet e shpronësuara me dokumentin përkatës për njohjen, masën dhe mënyrën e kthimit ose të kompensimit të pronës. Në rastin kur AKKP-ja nuk e pranon/rrëzon kërkesën/ankesën e subjektit, i jep subjektit të shpronësuar një kopje të vendimit të mospranimit/rrëzimit.
