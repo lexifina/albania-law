@@ -1,0 +1,2 @@
+# Neni 1
+Subjektet juridike, për të marrë licencën e veprimtarisë “Tregtimi i pjesëve të këmbimit të mjeteve rrugore me motor dhe/ose të rimorkiove”, me kodin VII.3.B.3./a, b, në Qendrën Kombëtare të Licencimit (QKL), në juridiksionin e të cilit është selia e subjektit dhe për të ushtruar veprimtarinë e tregtimit të pjesëve të këmbimit të mjeteve rrugore me motor dhe/ose të rimorkiove, duhet të disponojnë pajisjet dhe ambientet e nevojshme, si dhe duhet të plotësojnë kushtet dhe procedurat, respektivisht, sipas nenit ose neneve përkatëse të këtij udhëzimi.
