@@ -1,0 +1,11 @@
+# Neni 1
+Qëllimi dhe fusha e veprimit
+1. Ky udhëzim përcakton rregullat e përbashkëta mbi vendosjen e tarifave aeroportuale në aeroportet e Republikës së Shqipërisë.
+2. Ky udhëzim do të zbatohet për çdo aeroport të hapur për trafik tregtar, që ndodhet në Republikën e Shqipërisë, trafiku vjetor i të cilit është mbi pesë milionë lëvizje pasagjerësh dhe kur nuk ka një të tillë, në aeroportin me lëvizjen më të lartë të pasagjerëve në vend.
+3. Duke konsideruar detyrimet e shtetit shqiptar, sipas përcaktimeve të Marrëveshjes Shumëpalëshe, Autoriteti i Aviacionit Civil do të marrë masat për publikimin e listës së aeroporteve në territorin e Republikës së Shqipërisë, për të cilët aplikohet ky udhëzim. Kjo listë do të përditësohet çdo vit.
+4. Ky udhëzim nuk do të zbatohet:
+4.1 për tarifat e mbledhura nga të ardhurat e shërbimeve të lundrimit ajror, në rrugët ajrore (en-route) dhe terminal, në përputhje me përcaktimet e urdhrit të ministrit nr. 70, datë 13.5.2013, “Për miratimin e rregullores për përcaktimin e skemës së përbashkët të tarifave për shërbimet e lundrimit ajror”,
+4.2 për tarifat e mbledhura nga të ardhurat e shërbimeve në tokë (ground handling), të referuara në parashikimet e rregullores përkatëse,
+4.3 për tarifat që merren për financimin e asistencës për pasagjerët me paaftësi për të lëvizur dhe pasagjerët me lëvizshmëri të kufizuar.
+5. Ky udhëzim nuk kufizon të drejtën e organeve kompetente në Republikën e Shqipërisë për të aplikuar masa shtesë rregullative, në lidhje me ndonjë ent menaxhues aeroporti të vendosur në territorin e Republikës së Shqipërisë. Këto masa, të cilat nuk duhet të bien në kundërshtim me këtë udhëzim ose dispozita të tjera përkatëse që rregullojnë këtë fushë, mund të përfshijnë masa të mbikëqyrjes ekonomike, si miratimin e sistemeve të tarifave dhe/ose nivelin e tyre, duke përfshirë edhe metoda tarifimi nxitëse apo rregullore për tavanin e çmimit.
+6. Ky udhëzim do të zbatohet pa cenuar dispozitat përkatëse të ligjit nr. 9312, datë 11.11.2004, “Për ratifikimin e marrëveshjes së koncesionit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë koncesionare “Tirana Airport Partners” sh.p.k., për ndërtimin, vënien në punë, operimin dhe mirëmbajtjen e aeroportit ndërkombëtar “Nënë Tereza”, Tiranë dhe për dhënien e disa stimujve kësaj shoqërie koncesionare.
