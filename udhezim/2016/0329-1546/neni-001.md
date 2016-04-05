@@ -1,0 +1,2 @@
+# Neni 1
+Subjektet juridike, për të marrë licencë për veprimtaritë “Autoriparimi i mjeteve rrugore me motor dhe rimorkiove”, me kodin VII.3.B.1/a, b, c, ç, d, dh, në Qendrën Kombëtare të Licencimit (QKL), në juridiksionin e të cilit është selia e subjektit dhe për të ushtruar veprimtaritë e autoriparimit, në një ose në disa nga specifikimet e përcaktuara në të, duhet të disponojnë pajisjet, instrumentet, ambientet e nevojshme, si dhe të plotësojnë kushtet dhe procedurat, respektivisht, sipas nenit ose neneve përkatëse të këtij udhëzimi.
