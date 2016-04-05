@@ -1,0 +1,2 @@
+# Neni 1
+Subjektet juridike, për të marrë licencën e veprimtarisë “Agjenci që trajtojnë praktikat e qarkullimit të mjeteve me motor dhe/ose të rimorkiove”, me kodin VII.3.B.4, në Qendrën Kombëtare të Licencimit (QKL), në juridiksionin e të cilit është selia e subjektit dhe për të ushtruar veprimtarinë e agjencisë që trajton praktikat e qarkullimit të mjeteve me motor dhe/ose të rimorkiove, duhet të disponojnë ambientet e nevojshme, si dhe duhet të plotësojnë kushtet dhe procedurat, respektivisht, sipas nenit ose neneve përkatëse të këtij udhëzimi.
