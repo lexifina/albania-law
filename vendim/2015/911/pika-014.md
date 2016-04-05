@@ -1,1 +1,1 @@
-14. Afati përfundimtar për shqyrtimin dhe miratimin e bursave, për vitet e para, është data 31 dhjetor 2015, për të gjitha kategoritë e shkollave, ndërsa, për vitin e dytë e lart, është data 30 nëntor 2015. Vendimet e miratuara nga këshillat e bashkive apo institucionet publike të arsimit të lartë jashtë këtij afati janë të pavlefshme.
+14. Afati përfundimtar për shqyrtimin dhe miratimin e bursave nga këshillat bashkiakë për vitin shkollor 2015-2016, për të gjitha kategoritë e shkollave/institucioneve të arsimit të lartë, është data 15 prill 2016.
