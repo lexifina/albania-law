@@ -1,0 +1,1 @@
+5. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme të bëjë çregjistrimin e sipërfaqes pyjore dhe kullosore, të identifikuar sipas lidhjes 1 të këtij vendimi, nga kategoria “Tokë e zënë pyjore dhe kullosore” dhe ta regjistrojë në kategorinë “Tokë e zënë, objekt ndërtimi për segmentin tokësor të gazsjellësit TAP, seksioni 4A, 4B dhe 5A”.
