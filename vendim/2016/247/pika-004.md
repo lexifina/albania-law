@@ -1,0 +1,1 @@
+4. Ministria e Mjedisit dhe shoqëria “Victoria Invest” sh.p.k. të nënshkruajnë marrëveshje të përbashkët për hapat, afatet dhe procedurat për hartimin dhe realizimin e projekteve teknike, sipas përcaktimeve të pikës 3 të këtij vendimi.

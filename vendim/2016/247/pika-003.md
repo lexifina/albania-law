@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Victoria Invest” sh.p.k. detyrohet të rehabilitojë sipërfaqet që përdor, sipas kushteve të lejes mjedisore dhe, brenda 5 (pesë) viteve të para, të pyllëzojë, me fondet e veta, një sipërfaqe prej 228.26 (dyqind e njëzet e tetë pikë njëzet e gjashtë) ha fond pyjor, në ngastrat e përcaktuara në marrëveshjen me Ministrinë e Mjedist.

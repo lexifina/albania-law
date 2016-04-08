@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të pakësimit të sipërfaqes dhe të volumit të lëndës drusore paguhen nga shoqëria “Victoria Invest” sh.p.k. përpara lidhjes së marrëveshjes me Ministrinë e Mjedisit, në bazë të vendimit nr. 391, datë 21.6.2006, të Këshillit të Ministrave “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.
