@@ -240,7 +240,7 @@ Ndarja A: Të dhëna personale
 Emri/mbiemri:
 Pozicioni:
 Institucioni:
-Njësia organizative:
+Njësia Organizative:
 Drejtoria e Përgjithshme:
 Drejtoria:
 Sektori:
@@ -255,22 +255,22 @@ Vlerësim vjetor i rezultateve në punë
 Rishikim i ndërmjetëm
 Tjetër (specifiko):
 Ndarja B: Konteksti i punës
-Objektivat e institucionit për periudhën (siç është përcaktuar në planin e punës të institucionit dhe miratuar nga titullari) janë:
-1. Të
-2. Të
-3. Të
-Objektivat e programit të njësisë organizative për periudhën (siç është rishikuar dhe miratuar nga drejtori i programit) janë:
-1. Të
-2. Të
-3. Të
-Objektivat e njësisë organizative ku bën pjesë nëpunësi ( )
-për periudhën (siç është rishikuar dhe miratuar nga drejtori i njësisë organizative) janë:
-1. Të
-2. Të
-3. Të
+Objektivat e Institucionit për periudhën (siç është përcaktuar në planin e punës të institucionit dhe miratuar nga titullari) janë:
+Të
+Të
+Të
+Objektivat e Programit të Njësisë Organizative për periudhën (siç është rishikuar dhe miratuar nga Drejtori i Programit) janë:
+Të
+Të
+Të
+Objektivat e Njësisë Organizative ku bën pjesë nëpunësi ( )
+për periudhën (siç është rishikuar dhe miratuar nga Drejtori i Njësisë Organizative), janë:
+Të
+Të
+Të
 Ndarja C: Objektivat dhe matësit e performancës (objektivat duhet të shkruhen në mënyrë të tillë që të jenë: specifik, të matshëm, të arritshëm, realistë dhe të përcaktuar në terma kohorë)
 Objektivat për periudhën janë:
-1.Të………………………………………………………………………………………………………………………………………………………………………………………
+Të………………………………………………………………………………………………………………………………………………………………………………………
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -283,8 +283,8 @@ Objektivi u realizua me vonesë dhe/ose jashtë cilësisë së kërkuar
 Objektivi u realizua në kohë dhe me një cilësi të kënaqshme
 Objektivi u realizua në kohë dhe me cilësi të mirë
 Objektivi u realizua para kohe dhe me cilësi shumë të mirë
-Komentet e zyrtarit raportues/ Shpjegime
-2. Të…………………………………………………………………………………………
+Komentet e zyrtarit raportues/Shpjegime
+Të…………………………………………………………………………………………
 …………………………………………………………………………………………….
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -298,8 +298,8 @@ Objektivi u realizua me vonesë dhe/ose jashtë cilësisë së kërkuar
 Objektivi u realizua në kohë dhe me një cilësi të kënaqshme
 Objektivi u realizua në kohë dhe me cilësi të mirë
 Objektivi u realizua para kohe dhe me cilësi shumë të mirë
-Komentet e zyrtarit raportues/ Shpjegime
-3.Të……………………………………………………………………………………………………………………………………………………………………………………….
+Komentet e zyrtarit raportues/Shpjegime
+Të……………………………………………………………………………………………………………………………………………………………………………………….
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -312,8 +312,8 @@ Objektivi u realizua me vonesë dhe/ose jashtë cilësisë së kërkuar
 Objektivi u realizua në kohë dhe me një cilësi të kënaqshme
 Objektivi u realizua në kohë dhe me cilësi të mirë
 Objektivi u realizua para kohe dhe me cilësi shumë të mirë
-Komentet e zyrtarit raportues/ Shpjegime
-4.Të………………………………………………………………………………………………………………………………………………………………………………………
+Komentet e zyrtarit raportues/Shpjegime
+Të………………………………………………………………………………………………………………………………………………………………………………………
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -326,11 +326,11 @@ Objektivi u realizua me vonesë dhe/ose jashtë cilësisë së kërkuar
 Objektivi u realizua në kohë dhe me një cilësi të kënaqshme
 Objektivi u realizua në kohë dhe me cilësi të mirë
 Objektivi u realizua para kohe dhe me cilësi shumë të mirë
-Komentet e zyrtarit raportues/ Shpjegime
-5. Të…………………………………………….……………………………………………………………………………………………
+Komentet e zyrtarit raportues/Shpjegime
+Të…………………………………………….
 Ndarja Ç: Sjellja profesionale
 Në këtë ndarje, zyrtari raportues komenton në mënyrë të veçantë sa më poshtë:
-Gabimet/saktësia në punën e kryer - shpeshtësia në kthimin e punës për shkak të pasaktësive në të dhëna ose niveli i lartë i saktësisë që është karakteristike për punën e kryer.
+Gabimet/saktësia në punën e kryer - shpeshtësia në kthimin e punës për shkak të pasaktësive në të dhëna ose niveli i lartë i saktësisë që është karakteristike për punën e kryer
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -343,8 +343,8 @@ Detyra ka shumë gabime që kërkojnë korrigjim
 Detyra ka pak gabime, që kërkojnë korrigjim
 Detyra rrallë herë mund të ketë gabime
 Detyra kryhet pa gabime dhe shërben si model për të tjerët
-Komentet e zyrtarit raportues/ Shpjegime
-Realizimi në kohë i punës - numri i rasteve në të cilat puna e kryer është bërë më shpejt ose më ngadalë sesa pritej.
+Komentet e zyrtarit raportues/Shpjegime
+Realizimi në kohë i punës - numri i rasteve në të cilat puna e kryer është bërë më shpejt ose më ngadalë sesa pritej
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -357,8 +357,8 @@ Puna është jashtë afatit
 Puna shpesh kryhet me vonesë
 Puna rrallë herë kryhet me vonesë
 Puna kryhet para afatit
-Komentet e zyrtarit raportues/ Shpjegime
-Kolegjialiteti i marrëdhënieve - marrëdhënia me kolegët.
+Komentet e zyrtarit raportues/Shpjegime
+Kolegjialiteti i marrëdhënieve - marrëdhënia me kolegët
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -371,8 +371,8 @@ Nuk komunikon me kolegët
 Çështjet personale me kolegët pengojnë në kryerjen e detyrave
 Nëpunësi pëlqehet nga kolegët
 Nëpunësi është i parapëlqyer nga kolegët
-Komentet e zyrtarit raportues/ Shpjegime
-Gatishmëria për punën në grup - në çfarë mase nëpunësi konsiderohet pjesëmarrës i gatshëm dhe produktiv në punën në grup.
+Komentet e zyrtarit raportues/Shpjegime
+Gatishmëria për punën në grup - në çfarë mase nëpunësi konsiderohet pjesëmarrës i gatshëm dhe produktiv në punën në grup
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -385,22 +385,8 @@ Përgjithësisht nuk ka dëshirë të punojë në grup
 Nëpunësi është i gatshëm dhe merr pjesë kënaqshëm në punën në grup
 Nëpunësi është i gatshëm dhe merr përsipër që të luajë një rol gjatë punës në grup
 Nëpunësi është shumë i gatshëm dhe merr përsipër të drejtojë punën në grup
-Komentet e zyrtarit raportues/ Shpjegime
-Shpeshtësia e orëve të punës jashtë orarit - nëse ka qenë e nevojshme për të bërë shpenzime për orë pune jashtë orarit, me qëllim që nëpunësi të përfundonte detyrat normale të punës: pse ndodh kjo dhe si mund të korrigjohet.
-Vlerësimi i zyrtarit raportues
-Vlerësimi i zyrtarit raportues
-Vlerësimi i zyrtarit raportues
-Vlerësimi i zyrtarit raportues
-4
-3
-2
-1
-Për të përfunduar punën e rregullt gjithmonë ka qenë e nevojshme që të punohet jashtë orarit
-Për kryerjen e punës së rregullt ka qenë i nevojshëm një numër i caktuar orësh pune jashtë orarit
-Për kryerjen e punës së rregullt ka qenë i nevojshëm një numër i papërfillshëm orësh pune jashtë orarit
-Për të përfunduar punën e rregullt asnjëherë nuk ka qenë e nevojshme të punohet jashtë orarit
-Komentet e zyrtarit raportues/ Shpjegime
-Kërkesat për këshillim - masa në të cilën nëpunësit i nevojitet ose kërkon këshilla ose drejtim teknik, me qëllim që të kryejë punën e ngarkuar: pse ndodh kjo dhe si mund të minimizohet.
+Komentet e zyrtarit raportues/Shpjegime
+Kërkesat për këshillim - masa në të cilën nëpunësit i nevojitet ose kërkon këshilla ose drejtim teknik, me qëllim që të kryejë punën e ngarkuar: pse ndodh kjo dhe si mund të minimizohet
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -413,8 +399,8 @@ Nëpunësi ka vështirësi në të kuptuar/përshtatje dhe ka gjithmonë nevojë
 Nëpunësi ka kuptueshmëri të kënaqshme dhe ka nevojë për këshillim sipas rastit
 Nëpunësit rrallë herë i nevojitet drejtim teknike për të kuptuar detyrat e ngarkuara
 Nëpunësi ka epërsi në të kuptuarit e detyrave
-Komentet e zyrtarit raportues/ Shpjegime
-Trajnimi dhe ngritja profesionale - masa në të cilën nëpunësi ka shfrytëzuar mundësitë për trajnim dhe ka treguar se investimi i parave publike për trajnim ka pasur ndikim të dobishëm te performanca e nëpunësit dhe tek e gjithë organizata.
+Komentet e zyrtarit raportues/Shpjegime
+Aftësia menaxheriale për nëpunësit në pozicionet e nivelit të ulët dhe të mesëm drejtues - aftësia për të përdorur me efektshmëri burimet financiare dhe njerëzore
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -423,23 +409,23 @@ Vlerësimi i zyrtarit raportues
 3
 2
 1
-Nëpunësi pas trajnimeve nuk ka treguar asnjë lloj përmirësimi të performancës
-Nëpunësi pas trajnimeve ka treguar përmirësim të kënaqshëm të performancës
-Nëpunësi pas trajnimeve ka treguar përmirësim të mirë të performancës
-Nëpunësi pas trajnimeve ka përvetësuar dhe ofruar edhe tek kolegët dijet dhe njohuritë e marra
-Komentet e zyrtarit raportues/ Shpjegime
+Nuk siguron përdorimin efektiv të burimeve financiare dhe njerëzore
+Siguron që përdorimi i burimeve njerëzore dhe financiare të jetë në nivele të kënaqshme
+Ndjek proceset e punës dhe ndërhyn që në fazat e hershme për të parandaluar keqmenaxhimin e burimeve njerëzore dhe financiare
+Nxit dhe mbikëqyr zbatimin e strategjive që maksimizojnë vlerën dhe eficiencën e burimeve njerëzore dhe financiare
+Komentet e zyrtarit raportues/Shpjegime
 Palët nënshkruese kanë përcaktuar objektivat e punës, matësit e performancës dhe sjelljen e vlerësueshme profesionale dhe miratojnë përdorimin e tyre për ciklin e vlerësimit të rezultateve individuale në punë.
-Zyrtarit raportues:………………………………………… Firma:
+Zyrtarit raportues:………………………………………Firma:
 Zyrtari kundërfirmues:…………………………………... Firma:
-Zyrtari autorizues:………………………………………… Firma:
+Zyrtari autorizues:…………………………………… Firma:
 Nëpunësi:……………………………………………….. Firma: Data:
 Vlerësimi i përgjithshëm i rezultateve në punë
 Vlerësimi i përgjithshëm i rezultateve në punë është bazuar në performancën e nëpunësit gjatë realizimit të objektivave të mësipërm të miratuara dhe rezultateve të arritura në sjelljen profesionale.
 Vlerësimi:
-Jokënaqshëm (4): Nëpunësi nuk i ka realizuar objektivat dhe nuk ka përmbushur pritshmëritë lidhur me qëndrimin dhe sjelljen profesionale;
+Jo kënaqshëm (4): Nëpunësi nuk i ka realizuar objektivat dhe nuk ka përmbushur pritshmëritë lidhur me qëndrimin dhe sjelljen profesionale;
 Kënaqshëm (3): Nëpunësi ka realizuar kënaqshëm objektivat dhe ka treguar një sjellje dhe qëndrim profesional relativisht të mirë;
 Mirë (2): Nëpunësi ka realizuar mirë objektivat dhe ka treguar një sjellje dhe qëndrim profesional të mirë;
-Shumë mirë (1): Nëpunësi ka realizuar shumë mirë të gjithë objektivat dhe ka treguar një sjellje dhe qëndrim profesional të dalluar nga të tjerët.
+Shumë mirë (1): Nëpunësi ka realizuar shumë mirë të gjitha objektivat dhe ka treguar një sjellje dhe qëndrim profesional të dalluar nga të tjerët.
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
 Vlerësimi i zyrtarit raportues
@@ -457,7 +443,7 @@ Ndarja D: Nënshkrimi
 Unë deklaroj se kam kryer vlerësimin e mësipërm për nëpunësin.
 Nënshkrimi i zyrtarit raportues Data: ……………….
 Unë deklaroj se kam marrë dhe kam lexuar vlerësimin e mësipërm.
-Jam dakord me vlerësimin.
+Jam dakord me vlerësimin
 Nuk jam dakord me vlerësimin
 Nënshkrimi i zyrtarit kundërfirmues Data: ………………
 Unë deklaroj se kam marrë dhe kam lexuar vlerësimin e mësipërm.
@@ -469,19 +455,19 @@ Jam dakord me vlerësimin;
 Nuk jam dakord me vlerësimin.
 Nënshkrimi i nëpunësit Data:………………..
 Unë nëpunësi nuk jam dakord me vlerësimin e mësipërm dhe kërkoj rivlerësim nga ana e zyrtarit autorizues.
-Nënshkrimi i nëpunësit Data:……………….
+Nënshkrimi i Nëpunësit Data:……………….
 Ndarja DH: Rivlerësimi nga zyrtari autorizues
 1. Unë deklaroj se kam shqyrtuar pretendimet e nëpunësit lidhur me vlerësimin e rezultateve në punë dhe rivlerësoj sa më poshtë:
-………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
+………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
 Nënshkrimi i zyrtarit autorizues Data:………………..
 2. Unë deklaroj se kam marrë dhe kam lexuar rivlerësimin nga ana e zyrtarit autorizues.
-Jam dakord
-Nuk jam dakord
+Jam dakord me vlerësimin;
+Nuk jam dakord me vlerësimin.
 Nënshkrimi i nëpunësit Data:……………….
 3. Unë deklaroj se do të ankimoj në rrugë gjyqësore vlerësimin për rezultatet në punë për periudhën……………..
 Nënshkrimi i nëpunësit Data:………………
 Ndarja E: Plani i zhvillimit profesional të nëpunësit
-Qeveria e Shqipërisë është e angazhuar të mbështesë zhvillimin profesional të të gjithë nëpunësve, përmes trajnimit dhe formimit, caktimit të detyrave që ndihmojnë në zhvillimin e aftësive dhe fitimin e përvojës, krijimit dhe shkëmbimit të njohurive, duke mësuar të tjerët dhe duke nxënë njëkohësisht.
+Qeveria e Shqipërisë është e angazhuar të mbështesë zhvillimin profesional të të gjithë nëpunësve, përmes trajnimit dhe formimit, caktimit të detyrave që ndihmojnë në zhvillimin e aftësive dhe fitimin e përvojës, krijimit dhe shkëmbimit të njohurive duke mësuar të tjerët dhe duke nxënë njëkohësisht.
 Kjo ndarje e formularit përmban:
 Kërkesat e nëpunësit për trajnim dhe mundësi për zhvillim profesional;
 Propozimet e zyrtarit raportues për trajnim dhe zhvillim profesional.
@@ -489,8 +475,7 @@ Nëpunësi:……………………………………………………………
 Periudhën: ………………………………………………………………
 Fushat për ecjen përpara/ngritjen profesionale (trajnimi ose zhvillimi i veçantë që kërkohet)
 Nisma për trajnim/zhvillim profesional
-(kurse ose mundësi të veçanta; si do të shfrytëzohen
-në të ardhmen)
+(kurse ose mundësi të veçanta; si do të shfrytëzohen në të ardhmen)
 1._______________________________
 _______________________________
 _______________________________
@@ -503,7 +488,7 @@ _______________________________
 ____________
 Kërkesë e nëpunësit_______
 Rekomanduar nga zyrtari raportues________
-3. _______________________________
+3._______________________________
 _______________________________
 _______________________________
 ____________
@@ -521,5 +506,5 @@ ____________
 _______________________________
 _______________________________
 ____________
-Rekomandimet/ kërkesat e miratuara:
+Rekomandimet/kërkesat e miratuara:
 Nënshkrimi i zyrtarit autorizues Data: ……………………….

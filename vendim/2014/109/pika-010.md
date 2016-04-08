@@ -3,6 +3,6 @@ a) gabimeve/saktësisë në punën e kryer;
 b) realizimit në kohë të punës;
 c) kolegjialitetit të marrëdhënieve;
 ç) gatishmërisë për punë në grup;
-d) shpeshtësisë së orëve të punës jashtë orarit;
+d) shfuqizuar;
 dh) kërkesave për këshillim;
-e) trajnimit dhe ngritjes profesionale.
+e) aftësive menaxheriale për nëpunësit në pozicionet e nivelit të ulët dhe të mesëm drejtues.
