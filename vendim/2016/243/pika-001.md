@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 15.12.2015, për çështjen “Afërdita Theodhosi kundër Shqipërisë” (aplikimi nr. 75175/13), në shumën 5 900 (pesë mijë e nëntëqind) euro, në lidhje me dëmin pasuror dhe jopasuror, kostot dhe shpenzimet, duke e përjashtuar nga çdo taksë që mund të jetë e aplikueshme.
