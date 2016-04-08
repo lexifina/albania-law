@@ -1,0 +1,1 @@
+6. Çdo pronar, për t’u likuiduar për efekt të marrjes në përdorim të përkohshëm dhe vendosjes së servitutit, të dorëzojë pranë shoqërisë TAP AG, dega Shqipëri, dokumentacionin e plotë të pronësisë, vërtetimin bankar, lidhur me numrin e llogarisë dhe IBAN-in, si dhe kopjen e kartës së identitetit, të shoqëruar me një kërkesë.

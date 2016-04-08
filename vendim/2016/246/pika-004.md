@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme prej 185 038 736.36 (njëqind e tetëdhjetë e pesë milionë e tridhjetë e tetë mijë e shtatëqind e tridhjetë e gjashtë pikë tridhjetë e gjashtë) lekësh dhe shpenzimet procedurale të përballohen nga shoqëria TAP AG, si subjekti kërkues i kësaj procedure.

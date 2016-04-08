@@ -1,0 +1,1 @@
+7. Çdo përdorues të likuidohet, për efekt të marrjes në përdorim të përkohshëm dhe vendosjes së servitutit, në bazë të kopjes së dokumentit të identifikimit, vërtetimit bankar, lidhur me numrin e llogarisë dhe IBAN-in, si dhe certifikatës familjare, që do të dorëzojë pranë shoqërisë TAP AG, dega Shqipëri.

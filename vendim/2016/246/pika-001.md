@@ -1,0 +1,1 @@
+1. Marrjen në përdorim të përkohshëm dhe vendosjen e servitutit për interes publik të pasurive të paluajtshme, pronë private, që preken nga ndërtimi i korridorit të Gazsjellësit TAP (pjesë e Projektit TAP).
