@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 17.11.2015, për çështjen “Durim Harri kundër Shqipërisë” (aplikimi nr. 78187/13), në shumën 5 100 (pesë mijë e njëqind) euro, në lidhje me dëmin pasuror dhe jopasuror, kostot dhe shpenzimet, duke e përjashtuar nga çdo taksë që mund të jetë e aplikueshme.

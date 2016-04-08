@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të aplikantit z. Durim Harri, në vlerën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 17.11.2015, për çështjen “Durim Harri kundër Shqipërisë” (aplikimi nr. 78187/13), bërë përfundimtar në datën 10.12.2015.
