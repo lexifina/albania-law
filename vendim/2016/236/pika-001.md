@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi, rikonstruksioni dhe rinovimi i Unazës së Vogël, loti 3”, Tiranë.
