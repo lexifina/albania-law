@@ -1,0 +1,1 @@
+3. Standardet e harmonizuara shqiptare, numrat dhe titujt e të cilëve janë përfshirë në listën e përmendur në pikën 2, të këtij vendimi, shërbejnë si dokumente reference për prezumimin e konformitetit të instalimeve të dispozitivëve diferencialë me kërkesat teknike të instalimit të tyre.

@@ -1,0 +1,1 @@
+5. Të gjitha pajisjet, impiantet dhe instalimet e energjisë elektrike ekzistuese, që gjenden nën tension para hyrjes në fuqi të këtij rregulli teknik, duhet të pajisen me dispozitivë diferencialë brenda një afati 3-vjeçar, nga data e hyrjes në fuqi të këtij rregulli teknik.

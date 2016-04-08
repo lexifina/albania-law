@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik “Për kërkesat teknike në instalimin dhe kontrollin e dispozitivit diferencial, vendosur në pajisjet, impiantet dhe instalimet elektrike”, sipas tekstit bashkëlidhur dhe pjesë e këtij vendimi.

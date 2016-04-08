@@ -1,0 +1,1 @@
+2. Përcaktimin e listës së standardeve të harmonizuara shqiptare, me karakter referues për prezumimin e konformitetit të instalimeve të dispozitivit diferencial me kërkesat teknike të instalimit, referuar në pikën 1, sipas listës në aneksin III, që është pjesë e këtij vendimi.

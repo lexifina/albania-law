@@ -1,0 +1,1 @@
+4. Të gjitha pajisjet, impiantet dhe instalimet e energjisë elektrike, që parashikohen në këtë rregull teknik, instalohen dhe vihen nën tension të pajisur me dispozitivë diferencialë, siç përcaktohet në këtë rregull teknik.
