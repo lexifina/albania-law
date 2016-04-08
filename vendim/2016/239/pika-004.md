@@ -1,0 +1,1 @@
+4. Shuma e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të kërkuesit, z. Pëllumb Luli, në shumën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 15.9.2015, për çështjen “Luli kundër Shqipërisë” (aplikimi nr. 30601/08).

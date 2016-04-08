@@ -1,0 +1,1 @@
+2. Në zbatim të vendimit të GJEDNJ-së, ekzekutimin e vendimit nr. 1011, datë 31.5.1996, të Komisionit të Kthimit dhe Kompensimit të Pronave ish-Pronarëve”, për kompensimin, në një nga mënyrat e parashikuara në ligj, vetëm të pjesës takuese të kërkuesit z. Pëllumb Luli.

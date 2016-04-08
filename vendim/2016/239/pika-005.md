@@ -1,0 +1,1 @@
+5. Pagesa e shumës së depozituar në favor të z. Pëllumb Luli të bëhet nga Ministria e Financave, pas paraqitjes së dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga buxheti i shtetit, brenda një afati 3-mujor, nga dita kur vendimi i Gjykatës është bërë përfundimtar.

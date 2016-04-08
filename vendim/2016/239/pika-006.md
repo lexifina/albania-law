@@ -1,0 +1,1 @@
+6. Në rast mospagimi brenda afatit 3-mujor, të shumës së përcaktuar si detyrim në pikën 1 të këtij vendimi, paguhen interesa të thjeshta, të barabarta me kursin marzhinal të huas së Bankës Qendrore Evropiane, për periudhën e mospagimit, plus 3 (tre) për qind.

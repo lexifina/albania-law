@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 15.9.2015, për çështjen “Luli kundër Shqipërisë” (aplikimi nr. 30601/08), në favor të z. Pëllumb Luli, në shumën 27 000 (njëzet e shtatë mijë) euro, plus çdo taksë që mund të jetë e aplikueshme.
