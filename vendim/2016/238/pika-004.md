@@ -1,0 +1,1 @@
+4. Vlerat e detyrimit, të llogaritura sipas përcaktimeve në pikat 2 dhe 3, të këtij vendimit, të konvertohen në lekë, në bazë të kursit të këmbimit të bankës, ku do të depozitohet shuma, në datën e kryerjes së pagesës.

@@ -1,0 +1,1 @@
+3. Interesat e thjeshta të vonesës janë të barabarta me kursin marzhinal të huas së Bankës Qendrore Evropiane, gjatë periudhës së mospagimit, plus 3 (tre) për qind, mbi shumat e urdhëruara nga vendimet përkatëse të Gjykatës Evropiane për të Drejtat e Njeriut.
