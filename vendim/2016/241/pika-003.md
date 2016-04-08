@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të ankuesit, z. Vasil Shkarpa, në shumën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 8.10.2015, për çështjen “Shkarpa kundër Shqipërisë”, aplikimi nr. 50308/13.

@@ -1,0 +1,1 @@
+4. Pagesa e shumës së depozituar, sipas pikës 3 të këtij vendimi, të bëhet nga Ministria e Financave, pas paraqitjes së të gjithë dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga buxheti i shtetit, brenda një afati 3-mujor, nga dita kur vendimi i Gjykatës është bërë final.
