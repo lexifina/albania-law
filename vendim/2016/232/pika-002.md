@@ -1,0 +1,1 @@
+2. Financimin e kostos së rishikimit të disa projekteve të Fondit të Zhvillimit të Rajoneve (FZHR), që zbatohen nga Fondi Shqiptar i Zhvillimit, në vlerën 65 000 000 (gjashtëdhjetë e pesë milionë) lekë, e cila përballohet nga fondi rezervë i buxhetit të shtetit.
