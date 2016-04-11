@@ -1,0 +1,1 @@
+6. Të dhëna për autorin/ët e tekstit shkollor, sipas shtojcës 5, bashkëlidhur këtij udhëzimi bëjnë përjashtim autori/ët e teksteve përkthime nga botues të huaj dhe ata të teksteve të gjuhëve të huaja të botuesve të huaj.

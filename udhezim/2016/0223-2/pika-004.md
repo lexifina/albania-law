@@ -1,0 +1,1 @@
+4. Kontratën/at e lidhur/a ndërmjet botuesit dhe autorit/ëve. Për tekstet përkthime para-kontratën e përkthyer të lidhur me botuesin e huaj; për tekstet e huaja të gjuhëve të huaja, dokumentin e përkthyer të botuesit të huaj për dhënien e së drejtës së përfaqësimit në konkursin e teksteve shkollore dhe të shpërndarjes në territorin e Republikës së Shqipërisë.

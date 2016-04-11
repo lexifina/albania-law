@@ -1,0 +1,1 @@
+1. Botuesit vendas ose të huaj dhe/ose distributorët e teksteve të gjuhëve të huaja, të botuesve të huaj, kanë të drejtë të marrin pjesë në konkurrimin për tekstet shkollore të reja, nëse e ushtrojnë veprimtarinë e tyre në përputhje me legjislacionin në fuqi.
