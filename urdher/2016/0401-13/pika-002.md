@@ -1,0 +1,1 @@
+2. ADISA-ja lidh të gjitha kontratat që janë të nevojshme për zbatimin e detyrimeve të marra përsipër në kuadër të Marrëveshjes dhe për realizimin e projektit, të përmendura në planin e miratuar të prokurimit me Bankën Ndërkombëtare për Rindërtim dhe Zhvillim dhe në përfundim të procedurave të përzgjedhjes të realizuara në përputhje me procedurat e kësaj Banke.

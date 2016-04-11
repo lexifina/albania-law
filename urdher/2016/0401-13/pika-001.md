@@ -1,0 +1,1 @@
+1. ADISA-ja realizon komunikimin zyrtar me institucionet dhe njësitë e tjera të përfshira në projekt, për të përmbushur realizimin e aspekteve teknike të veprimtarive të nevojshme për zbatimin e marrëveshjes.
