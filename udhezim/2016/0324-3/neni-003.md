@@ -1,0 +1,11 @@
+# Neni 3
+Masa për mbarëvajtjen e provimeve
+1. DAR/ZA-tëtë marrin nga shkollat listat e maturantëve mbetës të vitit mësimor 2015-2016, brenda datës 3 qershor 2016, dhe t’i pasqyrojnë ato në sistemin elektronik “Matura online”, sipas udhëzimit përkatës. DAR/ZA-të dërgojnë në AKP, të printuar dhe në kopje elektronike, listat e maturantëve mbetës të vitit për çdo shkollë.
+2. Drejtoritë e shkollave njoftojnë maturantët mbetës, që të mos paraqiten në provimet kombëtare të Maturës Shtetërore 2016, pa likuiduar më parë provimet e klasës.
+3. Organizimi i konsultimeve për maturantët kryhet sipas procedurave të përcaktuara në urdhrin e ministrit të Arsimit dhe Shkencës nr. 121, datë 25.2.2011, “Për organizimin e konsultimeve në ndihmë të nxënësve maturantë”.
+4. Provimet kombëtare të Maturës Shtetërore 2016 zhvillohen dhe organizohen sipas procedurave të përcaktuara në Rregulloren e Maturës Shtetërore 2016 në Republikën e Shqipërisë.
+5. Provimet kombëtare të Maturës Shtetërore 2016 zhvillohen në mjediset e institucioneve arsimore, sipas parashikimeve përkatëse të Rregullores së Maturës Shtetërore 2016 në Republikën e Shqipërisë.
+6. Teza e provimit “Gjuhë dhe letërsi greke” për shkollën e mesme pedagogjike të pakicës kombëtare greke përgatitet nga DAR-ja Gjirokastër.
+7. Teza e provimit “Gjuhë dhe letërsi italiane” (Lingua e literatura italiana) për seksionet dygjuhëshe shqiptaro-italiane përgatitet nga Ministria e Arsimit e Republikës së Italisë dhe provimi zhvillohet në datën 23 maj 2016 në shkollat përkatëse.
+8. Teza e provimit “Gjuhë frënge” (DELF B2 scolaire) për seksionet dygjuhëshe shqiptaro-franceze përgatitet nga Ambasada Franceze dhe provimi zhvillohet në datën 23 maj 2016 në shkollat përkatëse.
+Tërheqja e testeve të provimeve kombëtare të Maturës Shtetërore 2016 bëhet sipas grafikut të hartuar nga AKP-ja dhe të miratuar nga MAS-i. Përfaqësuesit e Postës Shqiptare tërheqin në AKP materialet e provimit, një ditë para zhvillimit të provimit përkatës. Materialet e provimit janë të paketuara për çdo mjedis më vete. Shpërndarja dhe grumbullimi i materialeve të provimit bëhet sipas parashikimeve përkatëse në Rregulloren e Maturës Shtetërore 2016 në Republikën e Shqipërisë.
