@@ -1,0 +1,1 @@
+4. Pagesa e shumës së depozituar në favor të “Valio Shipping Company”, të bëhet nga Ministria e Financave, pas paraqitjes së dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga buxheti i shtetit, brenda një afati 3-mujor nga data që vendimi është bërë përfundimtar, data 6.10.2015.

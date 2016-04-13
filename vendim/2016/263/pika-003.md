@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim, nga ekzekutimi i këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të kërkuesit, në vlerën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 6.10.2015, për çështjen “Valio Shipping Company kundër Shqipërisë” (aplikimi nr. 34230/07).

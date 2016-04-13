@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 6.10.2015, për çështjen “Valio Shipping Company kundër Shqipërisë” (aplikimi nr. 34230/07), në favor të shoqërisë “Valio Shipping Company”, në shumën 1 288 455 (një milion e dyqind e tetëdhjetë e tetë mijë e katërqind e pesëdhjetë e pesë) USD, për sa i përket dëmit pasuror.
