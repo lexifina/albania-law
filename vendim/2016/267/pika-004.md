@@ -1,0 +1,1 @@
+4. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes nga shoqëria “Delia Group” sh.p.k., sipërfaqja e rehabilituar të regjistrohet “fond pyjor”, sipas mënyrës së rehabilitimit.

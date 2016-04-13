@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Delia Group” sh.p.k., të pyllëzojë me fondet e veta, brenda 5 (pesë) viteve, sipërfaqen 90 ha, fond pyjor, në ngastrat e përcaktuara nga Ministria e Mjedisit në marrëveshjen e lidhur me subjektin “Delia Group” sh.p.k.
