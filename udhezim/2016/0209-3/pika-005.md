@@ -1,0 +1,1 @@
+5. Ministria e Mirëqenies Sociale dhe Rinisë është përgjegjëse për kryerjen e të gjithë procedurës së prokurimit (që nga njoftimi i kontratës e deri te publikimi i njoftimit të shpalljes së fituesit), ndërsa nënshkrimi i kontratës bëhet nga secila prej palëve përfituese për sasinë/volumin e mallrave, shërbimeve ose punëve që do të përfitojnë.
