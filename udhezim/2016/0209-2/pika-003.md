@@ -1,0 +1,1 @@
+3. Shërbimi Social Shtetëror duhet të dërgojë pranë Ministrisë së Mirëqenies Sociale dhe Rinisë specifikimet teknike, sasitë e mallrave/volume që do të prokurohen dhe fondet e vëna në dispozicion brenda datës 15 janar.

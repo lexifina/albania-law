@@ -1,0 +1,1 @@
+6. Pas njoftimit të fituesit, Ministria e Mirëqenies Sociale dhe Rinisë dërgon pranë Shërbimit Social Shtetëror, dokumentacionin e plotë në formë të shkruar dhe elektronike (CD) për të vijuar me nënshkrimin e kontratave përkatëse.
