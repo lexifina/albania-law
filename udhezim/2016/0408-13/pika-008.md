@@ -1,0 +1,1 @@
+8. Fëmijët të cilët janë mbi moshën 15 vjeç (mosha minimale sipas Kodit të Punës të Republikës së Shqipërisë), janë në ngarkim të personit përfitues të së ardhurës nga papunësia dhe që nuk janë të përfshirë në sistemin arsimor, do të regjistrohen si punëkërkues të papunë, e vërtetuar kjo nga sektori i shërbimeve të zyrës përkatëse të punësimit.

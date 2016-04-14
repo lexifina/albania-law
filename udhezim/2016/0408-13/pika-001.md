@@ -1,0 +1,1 @@
+1. Në zbatim të shkronjës “a”, pika 1 e vendimit të Këshillit të Ministrave, për çdo rast përfitimi, kategoritë përfituese duhet të kenë gjithsej 12 muaj pagese kontributesh të sigurimeve shoqërore në degën e sigurimit të papunësisë, të derdhura nga punëdhënësi.

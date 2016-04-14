@@ -1,0 +1,1 @@
+22. Në rast se gjatë kohës së përfitimit të të ardhurave nga papunësia punëkërkuesi i papunë largohet me banim (leje banimi) në një vend tjetër, me kërkesën e tij zyra e punësimit e rrethit ku banon dërgon zyrtarisht dosjen me dokumentacionin përkatës në zyrën e punësimit të rrethit, ku ai është transferuar.

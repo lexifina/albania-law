@@ -1,0 +1,1 @@
+18. Kategoritë përfituese të pagesës së të ardhurës nga papunësia, që punësohen me ndërprerje gjatë periudhës 3-mujore, 9-mujore dhe 12-mujore të përfitimit të së ardhurës nga papunësia, përfitojnë nivelin e të ardhurës nga papunësia, të periudhës në të cilën ata rifuten në skemë.

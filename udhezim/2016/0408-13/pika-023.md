@@ -1,0 +1,1 @@
+23. Në rast se punëkërkuesi i papunë, i cili qendrën e fundit të punës e ka në juridiksionin e një zyre tjetër punësimi nga vendbanimi aktual, pasi të ketë konfirmuar formularin e dyfishtë në organet e sigurimeve shoqërore, ku ka qenë qendra e fundit e punës së tij, fillon procedura e aplikimit dhe caktimi i përfitimit i bëhet në zyrën e punësimit, ku ka vendbanimin aktual.

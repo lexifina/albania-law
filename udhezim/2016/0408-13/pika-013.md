@@ -1,0 +1,1 @@
+13. Përfituesi i pagesës së të ardhurës nga papunësia është i detyruar të paraqitet në zyrën e punësimit një herë në muaj për të konfirmuar prezencën e tij ose sa herë thirret nga kjo zyrë me qëllim punësimin e tij.
