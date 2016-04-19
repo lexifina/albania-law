@@ -1,0 +1,1 @@
+1. Miratimin e kontratës me ndarje prodhimi, ndërmjet Ministrisë së Energjisë dhe Industrisë të Republikës së Shqipërisë (e përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore) dhe Albanides Energy sh.p.k., për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në tokë, në Shqipëri, blloku 8, sipas tekstit që i bashkëlidhet këtij vendimi.
