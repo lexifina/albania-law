@@ -1,0 +1,1 @@
+8. Në rastet kur nuk plotësohet njëri prej kushteve të parashikuara me sipër, regjistruesi procedon me kthimin e akteve, zyrtarisht, palës së interesuar, duke parashtruar qartë, me shkrim, arsyen e kthimit të akteve.

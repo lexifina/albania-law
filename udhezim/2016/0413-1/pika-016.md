@@ -1,0 +1,1 @@
+16. Në regjistrin e veçantë të karabinasë, pas kryerjes së regjistrimit të karabinasë, regjistruesi kryen edhe regjistrimin e akteve noteriale dhe akteve të tjera të sipërmarrjes/porosisë, të lidhura para noterit, të cilat nuk janë regjistruar në regjistrin e lejes së ndërtimit, por paraqiten për regjistrim, nga subjektet e interesuara, në momentin e regjistrimit të karabinasë.

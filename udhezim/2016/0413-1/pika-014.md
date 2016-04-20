@@ -1,0 +1,1 @@
+14. Në regjistrin e veçantë, ZRPP-ja pasqyron lidhjen e karabinasë me truallin, duke iu referuar kartelës/regjistrit të truallit përkatës, dhe lidhjen me regjistrin e lejes së ndërtimit/zhvillimit. Ky regjistrim ka karakter të përkohshëm dhe është i vlefshëm deri në momentin e regjistrimit përfundimtar të ndërtimit të ri.

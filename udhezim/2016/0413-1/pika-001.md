@@ -1,0 +1,2 @@
+1. Objekti i këtij udhëzimi është përcaktimi i kritereve dhe procedurave për regjistrimin e lejes së ndërtimit/zhvillimit dhe akteve noteriale të lidhura për zhvillimin, në cilësinë e investitorit e të pronarëve të truallit apo blerësve/porositësve të njësive individuale, të objektit në fazën e karabinasë dhe të objektit të përfunduar. Me leje ndërtimi/ zhvillimi, në këtë udhëzim, do të kuptohen lejet e dhëna sipas ligjit në fuqi në kohën e miratimit të tyre.
+II. REGJISTRIMI I LEJES SË NDËRTIMIT
