@@ -1,0 +1,1 @@
+8. Propozimi për dhënien e medaljes bëhet me shkrim dhe dërgohet 90 (nëntëdhjetë) ditë përpara datës së propozuar për dhënien e medaljes, përveç rasteve të veçanta kur respektimi i këtij afati është i pamundur.

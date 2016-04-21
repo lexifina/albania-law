@@ -1,0 +1,1 @@
+11. Strukturat përgjegjëse të përmendura në pikën 10, të këtij vendimi, kryejnë shqyrtimin e propozimit për dhënie medaljeje dhe marrin nga autoriteti përgjegjës për dhënien e medaljes, miratimin, në parim, dhe pas këtyre procedurave, strukturat përgjegjëse përgatitin urdhrin përkatës për autoritetin që jep medaljen, brenda 15 (pesëmbëdhjetë) ditëve.

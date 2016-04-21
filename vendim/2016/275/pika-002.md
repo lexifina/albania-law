@@ -1,0 +1,3 @@
+2. Dhënia e medaljeve shoqërohet me certifikatë. Formati i certifikatës është letër A4 (210 mm x 297 mm), 160 g/m2, me fushë me stemën e institucionit, me kornizë me shirit anash, si më poshtë vijon:
+a) Modeli dhe përshkrimi i certifikatës, që shoqëron medaljet që jep ministri i Mbrojtjes është sipas lidhjes nr. 24, që i bashkëlidhet këtij vendimi dhe është pjesë e përbërëse e tij.
+b) Modeli dhe përshkrimi i certifikatës, që shoqëron medaljet që jep Shefi i Shtabit të Përgjithshëm të Forcave të Armatosura, komandantët e forcave dhe atyre mbështetëse, komandantët e batalioneve/flotiljeve/regjimenteve dhe komandantët e kompanive, është sipas lidhjes nr. 25, që i bashkëlidhet këtij vendimi dhe është pjesë e përbërëse e tij.

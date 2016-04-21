@@ -1,0 +1,1 @@
+12. Dhënia e medaljeve bëhet me ceremoni zyrtare, e cila organizohet nga autoriteti që jep medaljen. Dhënia e medaljes bëhet në prani të efektit të repartit, të pjesëtarëve të familjes të personit që do të marrë medaljen, si dhe të të ftuarve të tjerë, sipas rastit.

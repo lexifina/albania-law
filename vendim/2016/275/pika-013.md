@@ -1,0 +1,1 @@
+13. Vendimet e Këshillit të Ministrave nr. 691, datë 22.10.2014, “Për miratimin e specifikimeve të medaljeve e të certifikatave që jep ministri i Mbrojtjes”, dhe nr. 406, datë 25.6.2004, “Për miratimin e rregullores për përshkrimin, procedurat e propozimit, të shqyrtimit dhe të dhënies së medaljeve personelit të Forcave të Armatosura të Republikës së Shqipërisë”, shfuqizohen.
