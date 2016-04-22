@@ -1,0 +1,1 @@
+1. Për vitin 2016, procedura e plotësimit të pozicioneve të lira të kategorisë së ulët dhe të mesme drejtuese, për të cilët lëvizja paralele është mbyllur pa fitues, të jetë e hapur edhe për kandidatë të tjerë, jashtë shërbimit civil, që plotësojnë kushtet dhe kërkesat për vendet e lira.
