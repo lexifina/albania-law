@@ -1,0 +1,1 @@
+5. Vendimi nr. 581, datë 10.9.2004, i Këshillit të Ministrave, “Për përcaktimin e masës së shpërblimit për medaljet që i jepen personelit të Forcave të Armatosura të Republikës së Shqipërisë”, shfuqizohet.
