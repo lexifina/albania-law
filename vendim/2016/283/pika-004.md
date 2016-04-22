@@ -1,0 +1,1 @@
+4. Veprimtaritë dhe investimet që do të kryhen në liqenin e Ohrit të jenë në përputhje me legjislacionin në fuqi për zonat e mbrojtura dhe me objektivat e planit të menaxhimit të zonës së mbrojtur të liqenit të Ohrit.
