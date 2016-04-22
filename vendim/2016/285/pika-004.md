@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë “arë”, “truall” dhe “objekt”, prej 30 929 985 (tridhjetë milionë e nëntëqind e njëzet e nëntë mijë e nëntëqind e tetëdhjetë e pesë) lekësh, të përballohet nga buxheti i shoqërisë “Devoll Hidropower” sh.a.
