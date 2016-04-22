@@ -1,0 +1,1 @@
+9. Paraqitja e dokumentacionit sipas pikave 6 e 7, bëhet nga subjektet e interesuara brenda 30 (tridhjetë) ditëve nga data e njoftimit të ministrit përgjegjës për turizmin për vënien në dispozicion të fondit.

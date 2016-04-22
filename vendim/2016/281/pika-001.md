@@ -1,0 +1,1 @@
+1. Ministria përgjegjëse për turizmin, nëpërmjet fondeve të parashikuara në buxhetin e shtetit, financon projekte studimi, promovimi dhe edukimi apo modele inovative të produkteve turistike, në funksion të turizmit, të paraqitura nga persona fizikë dhe juridikë, vendas apo të huaj, privatë ose publikë.

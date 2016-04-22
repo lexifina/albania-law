@@ -1,0 +1,1 @@
+12. Pagesat e përfituara nga fondi buxhetor do të kryhen 30% e vlerës në datën e fillimit të projektit dhe 70% e vlerës në përfundim të projektit, kundrejt faturës/faturave që vërteton / vërtetojnë shpenzimet e kryera për projektin.

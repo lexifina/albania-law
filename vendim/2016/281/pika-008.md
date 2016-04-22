@@ -1,0 +1,1 @@
+8. Ministri, nëpërmjet njoftimit në media, në website-in e ministrisë dhe në Buletinin e Njoftimeve Zyrtare, publikon procedurën që u bëhet me dije të gjitha subjekteve të interesuara lidhur me projektet turistike që do të kërkojnë mbështetje financiare nga buxheti i shtetit sipas ligjit.
