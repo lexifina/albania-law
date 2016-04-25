@@ -1,0 +1,1 @@
+2. Për zbatimin e këtij urdhri ngarkohet Drejtoria e Biodiversitetit dhe Zonave të Mbrojtura, Agjencia Kombëtare e Zonave të Mbrojtura, Agjencia Kombëtare e Mjedisit, Inspektorati Shtetëror i Mjedisit dhe Pyjeve.
