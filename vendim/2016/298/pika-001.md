@@ -1,0 +1,1 @@
+1. Agjencia Kombëtare e Turizmit është person juridik, publik, buxhetor, funksionon si institucion në varësi të ministrit përgjegjës për turizmin dhe ka si qëllim promovimin e turizmit shqiptar brenda dhe jashtë vendit.
