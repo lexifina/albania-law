@@ -1,0 +1,1 @@
+6. Në njoftimin për hapjen e procedurave konkurruese përfshihet zona minerare, që kalon në proces konkurrimi publik, e përcaktuar në hartë me shkallë 1:25000, sipas koordinatave shtetërore në planin horizontal dhe të dhënat gjeologo-minerare për zonën minerare konkurruese.

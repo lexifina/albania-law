@@ -1,0 +1,1 @@
+3. Përmbajtja e dokumentacionit të plotë të aplikimit dhe procedurat e shqyrtimit e të miratimit të tij janë të njëjta me ato kërkesa që duhet të plotësojnë subjektet kur aplikojnë për marrjen e një lejeje minerare në zonat e hapura.

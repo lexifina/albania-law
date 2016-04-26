@@ -1,0 +1,1 @@
+2. Dokumentacioni i plotë i aplikimit për një leje minerare kërkim-zbulimi, shfrytëzimi ose leje minerare kërkim-zbulimi-shfrytëzimi nga ana e fituesit të një procedure të konkurrimit publik bëhet pranë sporteleve të QKL-së. Data e aplikimit të dokumentacionit të plotë është data e përllogaritjes së afatit për miratimin e heshtur.

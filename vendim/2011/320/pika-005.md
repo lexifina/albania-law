@@ -1,0 +1,1 @@
+5. Çdo vit, jo më vonë se 30 (tridhjetë) ditë kalendarike para përfundimit të vitit kalendarik, në përputhje me planin vjetor minerar, shpallen zonat minerare, të cilat kalojnë në procedurë konkurrimi publik.
