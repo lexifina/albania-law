@@ -1,0 +1,1 @@
+3. Veprimtaritë dhe investimet që do të kryhen në Lagunën e Nartës të jenë në përputhje me legjislacionin në fuqi për zonat e mbrojtura dhe me objektivat e planit të menaxhimit të zonës së mbrojtur të Lagunës së Nartës.
