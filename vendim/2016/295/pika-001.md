@@ -1,0 +1,1 @@
+1. Kalimin në përdorim të Bashkisë Tiranë, të pronës me nr. 619, pasuria 7/187, të ndodhur në zonën kadastrale 8380, me sipërfaqe 28 897 (njëzet e tetë mijë e tetëqind e nëntëdhjetë e shtatë) m2, për Njësinë Administrative Tiranë, për ndërtimin e një parkimi nëntokësor, sipas formularit bashkëlidhur këtij vendimi.
