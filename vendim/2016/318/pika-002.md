@@ -1,0 +1,1 @@
+2. Ngarkohet Ministria e Energjisë dhe Industrisë të administrojë procedurat për dhënien me koncesion/PPP, në përputhje me kreun III, të ligjit nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar.

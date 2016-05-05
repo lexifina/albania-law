@@ -1,0 +1,1 @@
+1. Përcaktimin e Ministrisë së Energjisë dhe Industrisë, Bashkisë Tiranë dhe Bashkisë Durrës, si autoritete kontraktore, për të marrë në shqyrtim projektin e koncesionit/partneritetit publik privat, të identifikuar dhe të propozuar nga shoqëria “HeSaLight” A/S, për sistemin e ndriçimit të Bashkisë Tiranë dhe të Bashkisë Durrës, në kuadër të programit të eficiencës së energjisë.
