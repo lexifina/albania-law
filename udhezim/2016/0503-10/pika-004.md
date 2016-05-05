@@ -1,0 +1,2 @@
+4. Në nenin 10, pas pikës 4 shtohen pikat 5, 5.1, 5.2, 5.3, 5.4 me përmbajtjen e mëposhtme:
+“5. Personi i tatueshëm blerës i produkteve të fermerit, i cili për zbatimin e kësaj skeme ngarkohet të lëshojë faturë tatimore, jo vetëm për shijet që kryen, por edhe faturë në emër të fermerit si blerës i produkteve të tij, lejohet të përdorë faturë tatimore kompjuterike me numër serial unik dhe të papërsëritshëm të printuar nga sistemi i tij i regjistrimeve.
