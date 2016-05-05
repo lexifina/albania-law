@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për përcaktimin, krijimin dhe realizimin e Kornizës Referuese Gjeodezike Shqiptare (KRGJSH), si metadate, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
