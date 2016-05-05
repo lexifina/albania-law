@@ -60,34 +60,6 @@ d) provën si një pjesë e kampionit mesatar, sipas përcaktimeve të dhëna n�
 2.5 Mostrat e farave për analizën e farave të drithërave, për qëllim certifikimi, duhet të merren zyrtarisht nga specialistët e autoritetit certifikues ose specialistë të tjerë të autorizuar, në përputhje me metodat teknike të përcaktuara me urdhër të ministrit.
 2.6 Për ekzaminimin e farës së drithërave për certifikim, mostrat duhet të nxirren nga lote homogjene. Pesha maksimale e një loti dhe pesha minimale e një mostre përcaktohen në shtojcën III, bashkëlidhur këtij vendimi.
 IV. PROCEDURA DHE METODAT E TESTIMIT TË VARIETETEVE QË REGJISTROHEN NË KATALOGUN KOMBËTAR
-1. Procedurat dhe metodat e kryerjes së testimit
-1.1 Testimi i një varieteti ka për qëllim kryerjen e provave zyrtare mbi farën për të verifikuar plotësimin e kërkesave për vlerat e kultivimit dhe përdorimit të tyre, për dallueshmëri, uniformitet dhe stabilitet, me qëllim regjistrimin në katalogun kombëtar (KK).
-1.2 Testimi i varietetit bëhet pas kërkesës së të interesuarit për regjistrimin e këtij varieteti në KK dhe kryhet nga ESHFF-ja ose nga subjekte publike a private të autorizuara, që veprojnë në fushën e bujqësisë, në përputhje me nenin 49 të ligjit nr. 10 416, datë 7.4.2011 “Për materialin mbjellës dhe shumëzues bimor” (më tej “autoriteti testues”).
-1.3 Aplikanti për regjistrim në KK të varieteteve ose hibrideve të reja paraqet:
-a) kërkesën me shkrim pranë ESHFF-së;
-b) skedën e karakteristikave për kultivarin apo hibridin që do të testohet;
-c) rezultatet e provave të seleksionerit;
-ç) fotografi të bimës apo të frytit;
-d) sasinë e farës për mbjellje, sipas normativave të miratuara me udhëzim të ministrit.
-1.4 Procedura e testimit të varietetit, e cila kryhet nga autoriteti testues, përfshin:
-a) zbatimin nga ESHFF-ja të metodikave të hartuara nga UPOV-i;
-b) kryerjen e provave sipas metodikave të sipërpërmendura dhe ndjekjen e fazave të zhvillimit të bimëve;
-c) përpunimin e të dhënave dhe përgatitjen e raportit përfundimtar për ta paraqitur në Komisionin e Vlerësimit të Varieteteve për Regjistrim në Katalogun Kombëtar.
-1.5 Provat për testimin e varieteteve apo hibrideve për vlerën e kultivimit dhe përdorimit kryhen sipas këtyre afateve:
-a) për varietetet e krijuara në vend, për jo më pak se 2 (dy) vjet;
-b) për varietetet ose hibridet e prodhuara në shtetet anëtare të Bashkimit Europian ose në shtetet që kanë nënshkruar konventën e UPOV-it, në rastet kur bëhet testimi, kryhet për 1 (një) deri 2 (dy) vjet;
-c) për varietetet ose hibridet që janë prodhuar në vendet që nuk janë anëtare të Bashkimit Europian ose të konventës së UPOV-it, testimi kryhet në jo më pak se 2 (dy) vjet.
-1.6 Provat e mostrave të farës së drithërave që hidhen në treg, sipas kërkesave të këtij vendimi, duhet të kryhen brenda territorit të Republikës së Shqipërisë, në pikat zonale të miratuara nga ministri. Provave të paskontrollit u nënshtrohen:
-a) fara të vjela në vendet e tjera;
-b) fara të përshtatshme për bujqësinë organike;
-c) fara që tregtohen në lidhje me ruajtjen “in-situ” dhe përdorimin e qëndrueshëm të resurseve gjenetike bimore;
-ç) kategoritë e larta të farave të drithërave të prodhuara në vend nga furnizuesit, sipas përcaktimit të pikës 5 të nenit 11 të ligjit nr. 10 416, datë 7.4.2011 “Për materialin mbjellës dhe shumëzues bimor”.
-1.7 Provat e paskontrollit të farave të drithërave duhet të aplikohen për të harmonizuar metodat teknike të certifikimit të farave të drithërave, si dhe për të kontrolluar plotësimin e kushteve për farat që testohen, duke siguruar:
-a) pranimin e llojeve të reja të farave të drithërave, të përshtatshme për t’u futur në prodhim;
-b) heqjen nga tregu të llojeve të farave të drithërave të papërshtatshme për prodhimin e gjerë;
-c) cilësinë e farës së prodhuar në një vend tjetër dhe që mendohet të vendoset në tregun e brendshëm;
-ç) garancinë për shtimin e llojeve të reja të farave të drithërave, të ardhura nga vende të tjera.
-1.8 Forma, përmbajtja dhe dokumentacioni që i bashkëngjitet kërkesës për testim, jepen në shtojcën VI, bashkëlidhur këtij vendimi.
 V. DISPOZITA TË FUNDIT
 Për zbatimin e këtij vendimi ngarkohen Enti Shtetëror i Farave dhe Fidanëve dhe Autoriteti Kombëtar i Ushqimit.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
