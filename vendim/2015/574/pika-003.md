@@ -51,26 +51,7 @@ vi) Certifikata zyrtare lëshohet pasi të jetë likuiduar tarifa e certifikimit
 2.4 Procesi i analizës fitosanitare të farës së patates për certifikim kryhet mbi mostrën, si një sasi fare e marrë në një ose disa pika të lotit të farës.
 2.5 Mostrat për analizën e farës së patates, për qëllim certifikimi, duhet të merren zyrtarisht nga specialistët e autoritetit certifikues ose specialistë të tjerë, të autorizuar nga ESHFF-ja, në përputhje me metodat teknike, të përcaktuara me urdhër të ministrit.
 2.6 Për ekzaminimin e farës së patates, për certifikim, mostrat duhet të nxirren nga lote homogjene. Pesha maksimale e një loti dhe pesha minimale e një mostre përcaktohen në shtojcën II, bashkëlidhur këtij vendimi.
-IV. PROCEDURA DHE METODAT E TESTIMIT TË VARIETETEVE QË REGJIS-TROHEN NË KATALOGUN KOMBËTAR
-1. Procedurat dhe metodat e kryerjes së testimit
-1.1 Testimi i një varieteti ka për qëllim kryerjen e provave zyrtare mbi farën e patates, për të verifikuar plotësimin e kërkesave për vlerat e kultivimit dhe përdorimit të tyre, për dallueshmëri, uniformitet dhe stabilitet (DUS), me qëllim regjistrimin në Katalogun Kombëtar.
-1.2 Testimi i varietetit bëhet në kuadër të kërkesës së të interesuarit për regjistrimin e këtij varieteti në Katalogun Kombëtar dhe kryhet nga ESHFF-ja, ose subjekte publike apo private të autorizuara, që veprojnë në fushën e bujqësisë, në përputhje me nenin 49, të ligjit nr. 10416, datë 7.4.2011, të ndryshuar, më poshtë “autoriteti testues”.
-1.3 Aplikanti, për regjistrimin e varieteteve të reja në Katalogun Kombëtar, duhet të paraqesë:
-a) kërkesë me shkrim pranë ESHFF-së;
-b) skedën e karakteristikave për kultivarin që do të testohet;
-c) rezultatet e provave të seleksionerit;
-ç) fotografi të bimës apo të frytit;
-d) sasinë e farës për mbjellje, sipas normativave të miratuara me udhëzim të ministrit përgjegjës për bujqësinë.
-1.4 Procedura e testimit të varietetit, e cila kryhet nga autoriteti testues, përfshin:
-a) zbatimin nga ESHFF-ja të metodikave të hartuara nga UPOV-i;
-b) kryerjen e provave, sipas metodikave të sipërcituara, dhe ndjekjen e fazave të zhvillimit të bimëve;
-c) përpunimin e të dhënave dhe përgatitjen e raportit përfundimtar, për ta paraqitur në Komisionin e Vlerësimit të Varieteteve për Regjistrim në Katalogun Kombëtar.
-1.5 Provat për testimin e varieteteve, për vlerën e kultivimit dhe përdorimit, kryhen sipas këtyre afateve:
-a) për varietetet e krijuara në vend, për jo më pak se 2 (dy) vjet, plus prova për DUS-in;
-b) për varietetet e prodhuara në shtetet anëtare të Bashkimit Evropian, ose në shtetet që kanë nënshkruar Konventën e UPOV-it, në rastet kur bëhet testimi, kryhet për 1 (një) vit;
-c) për varietetet e prodhuara në vendet që nuk janë anëtare të Bashkimit Evropian ose nënshkruese të Konventës së UPOV-it, testimi kryhet në jo më pak se 1 (një) vit.
-1.6 Provat e mostrave të farës së patates që hidhen në treg, në bazë të kërkesave të këtij vendimi, duhet të kryhen brenda territorit të Republikës së Shqipërisë, në pikat zonale të miratuara me urdhër të ministrit.
-1.7 Forma dhe përmbajtja e dokumentacionit që i bashkëngjitet kërkesës për testim jepen në shtojcën V, bashkëlidhur këtij vendimi.
+IV. Shfuqizuar.
 V. DISPOZITA TË FUNDIT
 Ngarkohen Enti Shtetëror i Farave dhe Fidanëve dhe Autoriteti Kombëtar i Ushqimit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
