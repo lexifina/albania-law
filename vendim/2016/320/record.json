@@ -1,0 +1,26 @@
+{
+  "qbz_id": 55535,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 994, DATË 9.12.2015, TË KËSHILLIT TË MINISTRAVE, “PËR PROCEDURËN E REGJISTRIMIT TË AKTEVE TË MARRJES SË TOKËS NË PRONËSI”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "320",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2016-04-27",
+  "published": "2016-05-05",
+  "in_force": "2016-05-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/3f4a8d5597a0e9febcfc625b6fcc38f2bc848c536f1259716dbe979867a51146.docx",
+  "source_sha256": "3f4a8d5597a0e9febcfc625b6fcc38f2bc848c536f1259716dbe979867a51146",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55535",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/04/27/320",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
