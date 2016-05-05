@@ -1,0 +1,1 @@
+5. Ministria e Energjisë dhe Industrisë ushtron të drejtat mbi OST-në, në përputhje me parashikimet e ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, dhe fushën e tij të përgjegjësisë shtetërore.

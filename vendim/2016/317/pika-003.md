@@ -1,0 +1,1 @@
+3. Ministri i Energjisë dhe Industrisë dhe ministri i Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes emërojnë anëtarët e këshillave mbikëqyrës të shoqërive të përcaktuara në pikat 1 dhe 2, brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi, duke zbatuar kufizimet e përcaktuara në ligjin nr. 43/2015, “Për sektorin e energjisë elektrike”.

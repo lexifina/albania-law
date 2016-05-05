@@ -1,0 +1,1 @@
+1. Autoriteti publik, që përfaqëson shtetin si pronar të aksioneve të shoqërive Korporata Elektroenergjetike Shqiptare sh.a., dhe Operatori i Shpërndarjes së Energjisë Elektrike sh.a., është Ministria e Energjisë dhe Industrisë.
