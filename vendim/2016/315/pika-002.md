@@ -1,0 +1,1 @@
+2. Të gjitha të drejtat dhe detyrimet, përfshirë dhe ato të krijuara nga marrëdhëniet kontraktore të lidhura për pronën me numër pasurie 832, me emërtimin “Klubi Sportiv Dinamo”, Tiranë, dhe komponentët e saj nr. 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, bashkë me fondet e miratuara për këtë qëllim, pas hyrjes në fuqi të këtij vendimi i transferohen Bashkisë Tiranë.

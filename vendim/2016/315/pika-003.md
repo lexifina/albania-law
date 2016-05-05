@@ -1,0 +1,1 @@
+3. Për pronat e përcaktuara në pikën 1, të këtij vendimi, të reflektohen ndryshimet përkatëse në listën e pronave të Bashkisë Tiranë, miratuar me vendimin nr. 834, datë 13.12.2006, të Këshillit të Ministrave, “Për miratimin e listës së pjesshme të inventarit (pjesa e parë + pjesa e dytë) të pronave të paluajtshme shtetërore në Bashkinë Tiranë, të qarkut të Tiranës”.
