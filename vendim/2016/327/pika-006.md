@@ -1,0 +1,1 @@
+6. Çdo pronar, për t’u likuiduar për efekt shpronësimi, të dorëzojë pranë Operatorit të Sistemit të Transmetimit (OST sh.a) dokumen-tacionin e plotë të pronësisë, vërtetimin bankar, lidhur me numrin e llogarisë dhe IBAN-in, si dhe kopjen e kartës së identitetit, të shoqëruar me një kërkesë.
