@@ -81,26 +81,6 @@ d) provën si një pjesë e kampionit mesatar, sipas përcaktimeve të bëra në
 2.5 Mostrat e farave për analizën e farave foragjere, për qëllim certifikimi, duhet të merren zyrtarisht nga specialistët e autoritetit certifikues ose specialistë të tjerë të autorizuar nga ESHFF-ja, në përputhje me metodat teknike të përcaktuara me urdhër të ministrit.
 2.6 Për ekzaminimin e farës foragjere për certifikim, mostrat duhet të nxirren nga lote homogjene. Pesha maksimale e një loti dhe pesha minimale e një mostre janë dhënë në shtojcën III të këtij vendimi.
 IV. PROCEDURAT DHE METODAT E TESTIMIT TË VARIETETEVE QË REGJISTROHEN NË KATALOGUN KOMBËTAR
-1. Procedurat dhe metodat e kryerjes së testimit
-1.1 Testimi i një varieteti ka për qëllim kryerjen e provave zyrtare mbi farën për të verifikuar plotësimin e kërkesave për vlerat e kultivimit dhe përdorimit të tyre, për dallueshmëri, uniformitet dhe stabilitet, me qëllim regjistrimin në Katalogun Kombëtar (KK).
-1.2 Testimi i varietetit bëhet në kuadër të kërkesës së të interesuarit për regjistrimin e këtij varieteti në KK dhe kryhet nga ESHFF-ja ose subjekte publike ose private të autorizuara që veprojnë në fushën e bujqësisë në përputhje me nenin 49 të ligjit nr. 10 416, datë 7.4.2011 “Për materialin mbjellës dhe shumëzues bimor” (në vijim “autoriteti testues”).
-1.3 Aplikanti për regjistrim në KK të varieteteve ose hibrideve të reja paraqet:
-a) kërkesë me shkrim pranë ESHFF-së;
-b) skedën e karakteristikave për kultivarin apo hibridin që do të testohet;
-c) rezultatet e provave të seleksionerit;
-ç) fotografi të bimës apo të frytit;
-d) sasinë e farës për mbjellje sipas normativave të miratuara me udhëzim të ministrit.
-1.4 Procedura e testimi të varietetit, e cila kryhet nga autoriteti testues, përfshin:
-a) zbatimin nga ESHFF-ja të metodikave të hartuara nga UPOV-i;
-b) kryerjen e provave sipas metodikave të sipërcituara dhe ndjekjen e fazave të zhvillimit të bimëve;
-c) përpunimin e të dhënave dhe përgatitjen e raportit përfundimtar për ta paraqitur në Komisionin e Vlerësimit të Varieteteve për Regjistrim në Katalogun Kombëtar.
-1.5 Provat për testimin e varieteteve apo hibrideve për vlerën e kultivimit dhe përdorimit kryhen sipas këtyre afateve:
-a) Për varietetet e krijuara në vend, për jo më pak se 2 (dy) vjet;
-b) Për varietetet ose hibridet e prodhuara në shtetet anëtare të Bashkimit Europian ose në shtetet që kanë nënshkruar Konventën e UPOV-it, në rastet kur bëhet testimi, kryhet për 1 (një) deri 2 (dy) vjet;
-c) Për varietetet ose hibridet që janë prodhuar në vendet që nuk janë anëtare të Bashkimit Europian ose të Konventës së UPOV-it testimi kryhet në jo më pak se 2 (dy) vjet;
-ç) Për varietetet e farave foragjere shumëvjeçare, sipas kërkesave të shkronjave “a”, “b” dhe “c”, testimi kryhet për 3 (tre) deri 4 (katër) vjet.
-1.6 Provat e mostrave të farave foragjere, që hidhen në treg në bazë të kërkesave të këtij vendimi, duhet të kryhen brenda territorit të Republikës së Shqipërisë në pikat zonale të miratuara nga ministri.
-1.7 Forma dhe përmbajtja e dokumentacionit, që i bashkëlidhet kërkesës për testim, janë sipas shtojcës VI, bashkëlidhur këtij vendimi.
 V. DISPOZITË E FUNDIT
 Ngarkohet Enti Shtetëror i Farave dhe Fidanëve (ESHFF) dhe Autoriteti Kombëtar i Ushqimit (AKU) për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
