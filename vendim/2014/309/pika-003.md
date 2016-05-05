@@ -59,26 +59,7 @@ c) kampionin mesatar, si një pjesë e kampionit fillestar;
 ç) provën, si një pjesë e kampionit mesatar, sipas përcaktimeve të dhëna në shtojcën II të këtij vendimi.
 2.5 Mostrat për analizën e farës së panxharit për qëllim certifikimi duhet të merren zyrtarisht nga specialistët e autoritetit certifikues ose specialistë të tjerë të autorizuar nga ESHFF-ja, në përputhje me metodat teknike të përcaktuara me urdhër të ministrit.
 2.6 Për ekzaminimin e farës së panxharit për certifikim, mostrat duhet të nxirren nga lote homogjene. Pesha maksimale e një loti dhe pesha minimale e një mostre përcaktohen në shtojcën II të këtij vendimi.
-IV. PROCEDURA DHE METODAT E TESTIMIT TË VARIETETEVE QË REGJISTROHEN NË KATALOGUN KOMBËTAR
-1. Procedura dhe metodat e kryerjes së testimit
-1.1 Testimi i një varieteti ka për qëllim kryerjen e provave zyrtare mbi farën e panxharit për të verifikuar plotësimin e kërkesave për vlerat e kultivimit dhe përdorimit të tyre, për dallueshmëri, uniformitet dhe stabilitet, me qëllim regjistrimin në Katalogun Kombëtar.
-1.2 Testimi i varietetit bëhet në kuadër të kërkesës së të interesuarit për regjistrimin e këtij varieteti në Katalogun Kombëtar dhe kryhet nga ESHFF-ja ose subjekte publike a private të autorizuara, që veprojnë në fushën e bujqësisë, në përputhje me nenin 49 të ligjit nr. 10416, datë 7.4.2011,“Për materialin mbjellës dhe shumëzues bimor”, në vijim “autoriteti testues”.
-1.3 Aplikanti për regjistrim në Katalogun Kombëtar të Varieteteve ose Hibrideve të Reja paraqet:
-a) kërkesën me shkrim pranë ESHFF-së;
-b) skedën e karakteristikave për kultivarin apo hibridin që do të testohet;
-c) rezultatet e provave të seleksionerit;
-ç) fotografinë e bimës apo të frytit;
-d) sasinë e farës për mbjellje, sipas normativave të miratuara me udhëzim të ministrit.
-1.4 Procedura e testimi të varietetit e cila kryhet nga autoriteti testues, përfshin:
-a) zbatimin nga ESHFF-ja të metodikave të hartuara nga UPOV-i;
-b) kryerjen e provave sipas metodikave të sipërpërmendura dhe ndjekjen e fazave të zhvillimit të bimëve;
-c) përpunimin e të dhënave dhe përgatitjen e raportit përfundimtar për ta paraqitur në Komisionin e Vlerësimit të Varieteteve për regjistrim në Katalogun Kombëtar.
-1.5 Provat për testimin e varieteteve apo hibrideve për vlerën e kultivimit dhe përdorimit kryhen sipas këtyre afateve:
-a) për varietetet e krijuara në vend, për jo më pak se 2 (dy) vjet;
-b) për varietetet ose hibridet e prodhuara në shtetet anëtare të Bashkimit Europian ose në shtetet që kanë nënshkruar konventën e UPOV-it, në rastet kur bëhet testimi, kryhet për 1 (një) deri 2 (dy) vjet;
-c) për varietetet ose hibridet që janë prodhuar në vendet që nuk janë anëtare të Bashkimit Europian ose të Konventës së UPOV-it, në jo më pak se 2 (dy) vjet.
-1.6 Provat e mostrave të farës së panxharit që hidhen në treg në bazë të kërkesave të këtij vendimi duhet të kryhen brenda territorit të Republikës së Shqipërisë, në pikat zonale të miratuara nga ministri.
-1.7 Forma dhe përmbajtja e dokumentacionit që i bashkëlidhet kërkesës për testim jepen në shtojcën V, bashkëlidhur këtij vendimi.
+IV. Shfuqizuar.
 V. DISPOZITA TË FUNDIT
 Ngarkohen Enti Shtetëror i Farave dhe Fidanëve dhe Autoriteti Kombëtar i Ushqimit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
