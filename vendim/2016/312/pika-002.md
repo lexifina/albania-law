@@ -1,0 +1,1 @@
+2. Poseduesit privatë, që kanë në zotërim objekte të trashëgimisë kulturore të luajtshme, brenda 6 (gjashtë) muajve nga data e hyrjes në fuqi të këtij vendimi, i regjistrojnë ato në Qendrën Kombëtare të Inventarizimit të Pasurive Kulturore.
