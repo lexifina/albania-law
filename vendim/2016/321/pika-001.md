@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit “Standardet shtetërore për specifikimet teknike të informacionit gjeohapësinor në Shqipëri - Tema: Parcelat kadastrale”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
