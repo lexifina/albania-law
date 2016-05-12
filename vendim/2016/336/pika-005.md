@@ -1,0 +1,2 @@
+5. Ngarkohen Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Ministria e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, Ministria e Punëve të Brendshme, Qendra Kombëtare e Biznesit, si dhe njësitë e vetëqeverisjes vendore, të cilave u transferohen aksionet e shoqërive të tregjeve të shitjes me shumicë dhe pakicë të fruta-perimeve, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

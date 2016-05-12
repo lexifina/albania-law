@@ -1,0 +1,1 @@
+2. Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes të hartojë dokumenta-cionin e duhur të ndryshimit të akteve të themelimit të shoqërive që do të transferohen tek organet e vetëqeverisjes vendore dhe ta depozitojë për regjistrim në Qendrën Kombëtare të Biznesit.

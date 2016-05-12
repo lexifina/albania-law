@@ -1,0 +1,1 @@
+1. Transferimin e plotë të aksioneve të shoqërive shtetërore të tregjeve të shitjes me shumicë dhe pakicë të fruta-perimeve në pronësi të njësive të vetëqeverisjes vendore, sipas lidhjes 1 që i bashkëlidhet këtij vendimi.

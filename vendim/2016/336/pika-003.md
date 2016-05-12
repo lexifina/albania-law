@@ -1,0 +1,1 @@
+3. Shoqëritë e tregjeve, që do të transferohen, të mbartin gjendjen e pasurisë së kapitalizuar, përfshirë elementet e aktivit dhe pasivit që figurojnë në bilancet e tyre. Ajo mbart të gjitha detyrimet kreditore dhe debitore të pasqyruara në bilanc.

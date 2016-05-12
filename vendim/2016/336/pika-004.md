@@ -1,0 +1,1 @@
+4. Organet e vetëqeverisjes vendore, me zotërimin e pronësisë së aksioneve të shoqërive të tregjeve të shitjes me shumicë dhe pakicë të fruta-perimeve, të zbatojnë dispozitat e ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”.
