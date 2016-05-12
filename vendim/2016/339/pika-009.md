@@ -1,0 +1,1 @@
+9. Në programin “Trashëgimi”, të grupit buxhetor “Ministria e Kulturës”, në buxhetin e miratuar për vitin 2016, shtohet fondi prej 3 669 000 (tre milionë e gjashtëqind e gjashtëdhjetë e nëntë mijë) lekësh, në zërin “Shpenzime korrente”, për Muzeun Kombëtar të Fotografisë “Marubi”.

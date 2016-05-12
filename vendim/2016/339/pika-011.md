@@ -1,0 +1,1 @@
+11. Vendimi nr. 849, datë 19.12.2003, i Këshillit të Ministrave, “Për funksionimin e Fototekës Kombëtare “Marubi” dhe për kalimin e përgjegjësisë së administrimit nga Bashkia e Shkodrës Ministrisë së Kulturës”, i ndryshuar, revokohet.
