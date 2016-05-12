@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të pakësimit të sipërfaqes së hequr dhe të volumit të lëndës drusore e të produkteve të tjera paguhen nga Operatori i Sistemit të Transmetimit sh.a., (OST), në bazë të vendimit nr. 391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.

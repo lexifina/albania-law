@@ -1,0 +1,1 @@
+6. Zyrat vendore të regjistrimit të pasurive të paluajtshme bëjnë çregjistrimin e sipërfaqes pyjore dhe kullosore të identifikuar sipas pikës 1, të këtij vendimi, nga kategoria “Tokë e zënë pyjore/ kullosore” dhe e regjistrojnë në kategorinë “Tokë e zënë, objekt i ndërtimit të bazamenteve të shtyllave të linjës së interkonjeksionit 400 kv “Shqipëri-Kosovë” (Vau i Dejës-Morinë).
