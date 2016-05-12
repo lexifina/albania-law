@@ -1,0 +1,1 @@
+1. Autoriteti përgjegjës për hartimin e modeleve, në kuptim të pikës 1, të nenit 36, të ligjit nr. 13/2016, “Për mënyrën e ofrimit në sportel të shërbimeve publike në Republikën e Shqipërisë”, është Agjencia e Ofrimit të Shërbimeve Publike të Integruara (ADISA).
