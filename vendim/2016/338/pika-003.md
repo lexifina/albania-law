@@ -1,0 +1,2 @@
+3. Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, në buxhetin e miratuar për vitin 2016, i shtohet fondi prej 38 725 768 (tridhjetë e tetë milionë e shtatëqind e njëzet e pesë mijë e shtatëqind e gjashtëdhjetë e tetë) lekësh, për rregullimin e pasojave nga zgjidhja e kontratës së qirasë me subjektin “Top Channel” sh.a.
+Ky fond të përballohet nga fondi rezervë i Këshillit të Ministrave.

@@ -1,0 +1,1 @@
+2. Vendimi nr. 1445, datë 29.10.2008, i Këshillit të Ministrave, “Për dhënien me qira, pa konkurrim, “Top Channel” sh.a., të objektit “Ish-laboratori i filmit”, në pronësi të Albafilm sh.a., Tiranë”, revokohet.
