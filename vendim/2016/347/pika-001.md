@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga zbatimi i projektit “Rindërtimi i banesës ku u ngrit flamuri në Korçë”, miratuar me vendimin nr. 16, datë 30.5.2014, të Këshillit Kombëtar të Restaurimeve.
