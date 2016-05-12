@@ -1,0 +1,1 @@
+1. Ministrisë së Zhvillimit Urban, në buxhetin e vitit 2016, i shtohet fondi prej 3 000 000 (tre milionë) lekësh për kryerjen e konkursit rajonal për zhvillimin hapësinor të zonave “Shtigjet e lirisë”, që shtrihet në territorin e rajoneve Gjakovë-Tropojë-Has, dhe “Korridori i gjelbër”, që shtrihet ndërmjet territorit të rajoneve Prizren-Kukës.
