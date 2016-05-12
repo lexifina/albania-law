@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “sipërfaqe, tokë truall” dhe “ndërtesë”, me një vlerë të përgjithshme prej 2 477 604 (dy milionë e katërqind e shtatëdhjetë e shtatë mijë e gjashtëqind e katër) lekësh.
