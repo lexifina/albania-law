@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 10 (dhjetë) % të pikëve, që i jepet shoqërisë “Building Construction & Green Energy” për rezultatin teknik e financiar në procedurën përzgjedhëse konkurruese për dhënien me koncesion të ndërtimit e administrimit të impiantit të trajtimit të mbetjeve urbane të Qarkut Fier dhe prodhimin e energjisë.
