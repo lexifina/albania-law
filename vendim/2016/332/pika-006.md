@@ -1,0 +1,1 @@
+6. Azilkërkuesit janë subjekte përfitimi të strehimit, ushqimit dhe të ndihmës financiare për nevoja emergjente vetjake, që ofron kjo qendër, si dhe të ndihmave humanitare, të cilat jepen nga persona fizikë ose juridikë, shqiptarë ose të huaj.

@@ -1,0 +1,1 @@
+1. Qendra Kombëtare Pritëse për Azil-kërkuesit, në vijim “QKPA”, organizohet dhe funksionon si institucion qendror, person juridik publik, buxhetor, në varësi të ministrit për çështjet e azilit dhe të refugjatëve, në vijim ministri, me seli në Tiranë.
