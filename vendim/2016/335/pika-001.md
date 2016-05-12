@@ -1,0 +1,1 @@
+1. Transferimin e 100% të aksioneve të shoqërive aksionare “Rezidenca studentore nr. 1” sh.a., Tiranë, “Trajtimi i studentëve nr. 2” sh.a., Tiranë, dhe “Trajtimi i studentëve nr. 3” sh.a., Tiranë nga Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes te Bashkia Tiranë, me të gjitha të drejtat dhe detyrimet, në momentin e hyrjes në fuqi të këtij vendimi.
