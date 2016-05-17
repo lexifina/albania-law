@@ -1,1 +1,1 @@
-7. Për mbulimin e shpenzimeve operacionale Enti Kombëtar i Banesave aplikon një shumë prej 4% të vlerës së apartamentit, e cila do të paguhet nga blerësi dhe do të arkëtohet menjëherë në momentin e nënshkrimit të kontratës. Për rastet që parashikohen në aktet ligjore e nënligjore në fuqi, shpenzimet administrative përballohen nga Buxheti i Shtetit.
+7. Për mbulimin e shpenzimeve operacionale Enti Kombëtar i Banesave aplikon një shumë prej 4% të vlerës së apartamentit, e cila do të paguhet nga blerësi dhe do të arkëtohet menjëherë në momentin e nënshkrimit të kontratës.

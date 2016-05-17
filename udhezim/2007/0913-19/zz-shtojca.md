@@ -56,3 +56,122 @@ në mënyrë të menjëhershme ____________
 Data ....................... Llogaritjet u kryen nga:
 1)......................................
 2)......................................
+FORMULARI NR. 3
+LLOGARITJA E KOSTOS SË NDËRTIMIT
+1. VLERA E SHPENZIMEVE TË NDËRTESËS
+a) Vlera e investimit për ndërtimin e ndërtesës
+_________
+b) Vlera e plote e projektit teknik
+_________
+c) Kostoja e blerjes së tokës, kur ajo nuk është pronë e bashkisë
+_________
+ç) Vlera e investimit për lirimin e sheshit të ndërtimit
+_________
+d) Vlera e mbikëqyrjes së punimeve
+_________
+dh) Taksat, tatimet dhe tarifat e aplikueshme gjatë ndërtimit të objektit
+_________
+e) Kostot e menaxhimit të zbatimit të projektit
+_________
+ë) Kostot për kolaudimin dhe tarifën e regjistrimit të pronës në zyrën e regjistrimit të pasurive të paluajtshme
+_________
+SHUMA I
+LEKË
+_________
+2. NË KOSTON E NDËRTIMIT NUK PËRFSHIHEN, ZBRITEN:
+a) Vlera e truallit, kur investimi është bërë në truall, pronë e bashkisë
+_________
+b) Investimet për lidhjen me rrjetin kryesor të infrastrukturës, si: ujësjellës, kanalizime, telefoni, energji elektrike
+_________
+c) Vlera e investimit për katet e para, kur këto nuk janë të parashikuara për banesa sociale
+_________
+ç) Taksat, tatimet dhe tarifat vendore të cilat për projektin në fjalë, mund të jenë konsideruar, si kontribut i bashkisë
+_________
+SHUMA II
+LEKË
+_________
+3. KOSTOJA E PËRGJITHSHME E NDËRTIMIT (SHUMA I - SHUMA II)
+LEKË
+_________
+Shembull
+1. VLERA E SHPENZIMEVE TË NDËRTESËS
+a) Vlera e investimit për ndërtimin e ndërtesës
+84630955
+84630955
+b) Vlera e plotë e projektit teknik
+0
+c) Kostoja e blerjes së tokës, kur ajo nuk është pronë e bashkisë
+0
+ç) Vlera e investimit për lirimin e sheshit të ndërtimit
+0
+d) Vlera e mbikëqyrjes së punimeve
+70000
+dh) Taksat, tatimet dhe tarifat e aplikueshme gjatë ndërtimit të objektit
+4499549
+4499549
+e) Kostot e menaxhimit të zbatimit të projektit
+3881225
+ë) Kostot për kolaudimin dhe tarifën e regjistrimit të pronës në zyrën e regjistrimit të pasurive të paluajtshme
+400000
+SHUMA I
+LEKË
+93,481,729
+2. NË KOSTON E NDËRTIMIT NUK PËRFSHIHEN, ZBRITEN:
+a) Vlera e truallit, kur investimi është bërë në truall, pronë e bashkisë
+0
+b) Investimet për lidhjen me rrjetin kryesor të infrastrukturës, si: ujësjellës, kanalizime, telefoni, energji elektrike
+2577136
+c) Vlera e investimit për katet e para, kur këto nuk janë të parashikuara për banesa sociale
+0
+ç) Taksat, tatimet dhe tarifat vendore, të cilat, për projektin në fjalë, mund të jenë konsideruar, si kontribut i bashkisë
+2200000
+SHUMA II
+LEKË
+4,777,136
+3. KOSTOJA E PËRGJITHSHME E NDËRTIMIT (SHUMA I - SHUMA II)
+LEKË
+88,704,593
+FORMULARI NR. 4
+LLOGARITJA E MASËS SË QIRASË SË APARTAMENTIT NR.
+Banesa:
+Qiramarrësi:
+LLOGARITJA E QIRASË
+a) Kostoja e përgjithshme e ndërtimit sipas formularit nr. 3 (K)
+lekë
+____
+b) Sipërfaqja e përgjithshme e ndërtimit (S)
+m2
+____
+c) Sipërfaqja e apartamentit (S1)
+m2
+____
+ç) Përqindja që zë sipërfaqja e apartamentit ndaj sip. totale (P=S1/S)
+%
+____
+d) Kostoja e apartamentit (Ks1= (a)x(d))
+lekë
+____
+dh) Qiraja mujore maksimale (Q= Ks1x0.04)
+12
+lekë
+____
+Shembull:
+a) Kostoja e përgjithshme e ndërtimit sipas formularit nr. 3 (K)
+lekë
+88,704,593
+b) Sipërfaqja e përgjithshme e ndërtimit (S)
+m2
+3,074
+c) Sipërfaqja e apartamentit (S1)
+m2
+70.3
+ç) Përqindja që zë sipërfaqja e apartamentit ndaj sip. totale (P=S1/S)
+%
+0.023
+d) Kostoja e apartamentit (Ks1= (a)x(ç))
+lekë
+2,028,605
+dh) Qiraja mujore maksimale (Q= Ks1x0.04) = 2028605*0.04/12
+lekë
+6,762
+12
