@@ -1,1 +1,0 @@
-4. Ministri i Mbrojtjes nxjerr urdhrin e dëmshpërblimit, pasi shqyrton procesverbalet për vlerësimin e gjendjes dhe të dëmit, administron vendimin e gjykatës për përcaktimin e shkakut të dëmtimit të pronës dhe të masës së këtij dëmtimi (nëse gjykata e ka përcaktuar këtë masë), si dhe vërtetimin e pronësisë së punonjësit të Policisë Ushtarake, të dëmtuar.
