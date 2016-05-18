@@ -1,0 +1,1 @@
+4. Komisioni për vlerësimin e dëmit përbëhet nga 5 anëtarë, drejtohet nga zëvendësshefi i Shtabit të Përgjithshëm të Forcave të Armatosura dhe ka në përbërje, të paktën, një përfaqësues nga Policia Ushtarake.

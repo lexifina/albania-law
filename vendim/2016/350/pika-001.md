@@ -1,0 +1,1 @@
+1. Punonjësi i Policisë Ushtarake, për dëmin e shkaktuar ndaj pronës së tij gjatë kryerjes së detyrës ose për shkak të saj, përfiton kompensim në lekë, në masën 100 për qind të vlerës së pronës së dëmtuar.

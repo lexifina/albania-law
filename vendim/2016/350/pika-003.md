@@ -1,0 +1,1 @@
+3. Ministri i Mbrojtjes, për raste të dëmtimit të pronës, sipas pikës 2 të këtij vendimi, ngre një komision për vlerësimin e dëmit. Urdhri për ngritjen e komisionit i komunikohet menjëherë, në rrugë zyrtare, punonjësit të Policisë Ushtarake, prona e të cilit është dëmtuar.

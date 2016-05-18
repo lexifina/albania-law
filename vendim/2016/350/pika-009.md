@@ -1,0 +1,1 @@
+9. Vendimi nr. 163, datë 18.3.2004, i Këshillit të Ministrave, “Për kriteret dhe masën e kompensimit të dëmeve shkaktuar pronës së punonjësve të Policisë Ushtarake gjatë kryerjes së detyrës ose për shkak të saj”, shfuqizohet.
