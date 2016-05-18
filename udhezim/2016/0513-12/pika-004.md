@@ -1,0 +1,1 @@
+4. Në udhëzimin nr. 5, datë 19.1.2009, “Për procedurat e hapjes dhe të mbylljes së sallave të lojërave basteve sportive, kazinove elektronike, bingove tradicionale” shfuqizohen vetëm dispozitat që normojnë bastet sportive.
