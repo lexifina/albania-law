@@ -1,0 +1,6 @@
+# Neni 65
+Mjaftueshmëria e kapitalit dhe administrimi i rrezikut
+1. SHKK-ja dhe Unioni, për ushtrimin e veprimtarisë së saj në mënyrë të sigurt dhe të qëndrueshme, si dhe për përmbushjen e detyrimeve të saj ndaj kreditorëve, mban kapitalin në një nivel të mjaftueshëm dhe administron rrezikun, sipas kërkesave të këtij ligji dhe akteve nënligjore në zbatim të tij.
+2. SHKK-ja dhe Unioni sigurojnë që treguesi i mjaftueshmërisë së kapitalit, që përcaktohet si raporti në përqindje i kapitalit të shoqërisë ndaj zërave të aktivit të bilancit dhe të zërave jashtë bilancit, të ponderuara me rrezik, të jetë jo më pak se 10 për qind gjatë dy viteve të para të ushtrimit të veprimtarisë financiare dhe në çdo kohë, sipas përcaktimeve të Bankës së Shqipërisë, por jo më pak se 12 për qind.
+3. Banka e Shqipërisë, në rastet kur konstaton se profili i rrezikut të SHKK-së dhe i Unionit është i lartë, mund të përcaktojë me akte nënligjore një nivel më të lartë të raportit të mjaftueshmërisë së kapitalit se niveli i përcaktuar në pikën 2, të këtij neni, si dhe kërkesa të tjera në lidhje me administri-min e rrezikut.
+4. Përveç përcaktimeve të mësipërme, Banka e Shqipërisë përcakton me akt nënligjor llojet e rreziqeve dhe mënyrën e administrimit të tyre nga ana e SHKK-së dhe Unionit.

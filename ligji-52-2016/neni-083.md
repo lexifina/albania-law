@@ -1,0 +1,4 @@
+# Neni 83
+Efektet juridike të likuidimit vullnetar
+1. SHKK-ja, e cila është në likuidim vullnetar, vazhdon ekzistencën e saj, me qëllim shlyerjen e detyrimeve, pagimin e shpenzimeve dhe të detyrimeve ndaj të tretëve e anëtarëve, mbledhjen e kredive të saj, shpërndarjen e aktiveve dhe kryerjen e çdo veprimi të nevojshëm për përfundimin e likuidimit vullnetar.
+2. Banka e Shqipërisë, së bashku me vendimin për miratimin e fillimit të likuidimit vullnetar, mund të përcaktojë se deri në çfarë mase zbatohen rregullat e administrimit të rrezikut në shoqërinë e sigurimit në likuidim. Depozitat e anëtarëve të SHKK-së, e cila është pjesë e Skemës së Sigurimit të Depozitave në momentin e miratimit të likuidimit vullnetar nga asambleja e përgjithshme, mbeten të siguruara deri në përfundim të procesit të likuidimit vullnetar, sipas dispozitave të legjislacionit për sigurimin e depozitave.
