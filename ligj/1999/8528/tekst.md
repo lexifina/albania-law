@@ -4,7 +4,7 @@ Nr. 8528, datë 23.9.1999
 
 PËR NXITJEN DHE MBROJTJEN E të USHQYERit ME GJI
 
-(Ndryshuar me ligjin nr. 58/2013, datë 14.2.2013)
+(Ndryshuar me ligjin nr. 58/2013, datë 14.2.2013; nr. 53/2016, datë 19.5.2016)
 
 (i përditësuar)
 
@@ -22,6 +22,8 @@ Ky ligji ka për qëllim të nxitë dhe të mbrojë të ushqyerit me gji, si dhe
 
 Neni 2
 
+(Shtuar paragraf në shkronjën ‘’ç’’ dhe shkronja ‘’e’’ me ligjin nr. 53/2016, datë 19.5.2016)
+
 Në zbatim të këtij  ligji, termat vijues kanë këto kuptime: 
 
 a) “Reklama” kuptohet reklamimi me çdo mjet për nxitjen, shitjen ose për konsumin e prodhimeve të zëvendësuesve të qumështit të gjirit.
@@ -36,11 +38,15 @@ c) “Mbajtëse” kuptohet çdo formë paketimi i produktit të përcaktuar pë
 
 - Formulë  pasuese, e cila nënkupton qumështin ose një produkt të ngjashëm me qumështin, me origjinë shtazore ose bimore, i përgatitur industrialisht, që tregtohet si ushqim për foshnjat dhe fëmijët mbi gjashtë muajsh.
 
+- shishet ushqyese dhe biberonët. 
+
 - Çdo produkt tjetër, i shitur për ushqimin e foshnjave dhe të fëmijëve të vegjël.
 
 d)  “Foshnjë”  kuptohet një fëmijë  nga dita e lindjes deri në 12 muaj.
 
 dh) “Fëmijë i vogël” kuptohet  një fëmijë nga mosha në 12 muaj deri 3 vjeç.
+
+ e) “Tregtim” është promovimi, shpërndarja, shitja, reklama, marrëdhëniet me publikun dhe informimi për zëvendësuesit e qumështit të gjirit.
 
 Kufizimet 
 
@@ -56,13 +62,17 @@ Asnjë person nuk duhet të prodhojë, të shpërndajë, të shesë, të magazin
 
 Neni 4
 
-Prodhuesve dhe shitësve u ndalohet reklama dhe promovimi i produkteve të përcaktuara në nenin 2 pika ç, duke përfshirë këtu paraqitjen speciale, vizuale në ekrane, reklamat për ulje çmimi, çmimet stimuluese, shitjet speciale, ulje çmimi me kushte të veçanta apo dhurata, si dhe promovimi i tyre në një qendër shëndetësore apo institucion tjetër të sistemit shëndetësor shtetëror ose privat.
+(Shtuar 2 togfjalësha me ligjin nr. 53/2016, datë 19.5.2016)
+
+Prodhuesve dhe shitësve u ndalohet reklama dhe promovimi i produkteve të përcaktuara në nenin 2 pika ç, duke përfshirë këtu paraqitjen speciale, vizuale në ekrane, edhe nëpërmjet internetit e mediave sociale, reklamat për ulje çmimi, çmimet stimuluese, shitjet speciale, ulje çmimi me kushte të veçanta apo dhurata, kampione të produkteve të caktuara, si dhe promovimi i tyre në një qendër shëndetësore apo institucion tjetër të sistemit shëndetësor shtetëror ose privat.
 
 Neni 5
 
+(Shtuar fjalë në shkronjën ‘’a’’ me ligjin nr. 53/2016, datë 19.5.2016)
+
 Ndalohet  një prodhues ose një person i ngarkuar nga ai, si dhe çdo shitës:
 
-a) t’u shesë institucioneve shëndetësore shtetërore dhe private produktet e përcaktuara në nenin 2 pika ç, me çmim më të ulët se çmimet e publikuara nga prodhuesit;
+a) t’u dhurojë ose shesë institucioneve shëndetësore shtetërore dhe private produktet e përcaktuara në nenin 2 pika ç, me çmim më të ulët se çmimet e publikuara nga prodhuesit;
 
 b) të dhurojë ose të shpërndajë, brenda një qendre shëndetësore, pajisje ose të ofrojë shërbime, si dhe materiale promovuese, që u referohen ose mund të nxisin përdorimin e një produkti, të përcaktuar sipas nenit 2 pika ç, me përjashtim të rasteve kur kategorizohen si ndihma humanitare;
 
@@ -84,11 +94,17 @@ Kufizimet e lidhura me etiketat e formulave foshnjore
 
 Neni 7
 
+(Shtuar paragraf me ligjin nr. 53/2016, datë 19.5.2016)
+
 Një prodhues, shpërndarës ose shitës nuk duhet të ofrojë për shitje ose të shesë formula pasuese, në qoftë se ambalazhi ose etiketa nuk përmban formulimin:
 
 “Ushqimi i gjirit është ushqimi ideal për rritjen e shëndetshme dhe për zhvillimin e fëmijëve. KUJDES! Ky produkt do të përdoret për foshnjat nën 6 muajshe. Përpara se të vendosësh të plotësosh ose të zëvendësosh ushqimin e gjirit me këtë produkt, këshillohu me mjekun!”
 
+Mënyra e paraqitjes, formati dhe përmbajtja e etiketimit të produkteve të përcaktuara në këtë nen miratohen me vendim të Këshillit të Ministrave.
+
 Neni 8
+
+(Shtuar paragraf me ligjin nr. 53/2016, datë 19.5.2016)
 
 Një prodhues, shpërndarës ose shitës nuk duhet të ofrojë për shitje ose të shesë formula pasuese, në qoftë se :
 
@@ -98,13 +114,19 @@ a) ambalazhi ose etiketa nuk përmban fjalët :
 
 b) etiketa nxit të ushqyerit artificial.
 
+Mënyra e paraqitjes, formati dhe përmbajtja e etiketimit të produkteve të përcaktuara në këtë nen miratohen me vendim të Këshillit të Ministrave.
+
 Neni 9
+
+(Shtuar paragraf me ligjin nr. 53/2016, datë 19.5.2016)
 
 Një prodhues ose shpërndarës nuk duhet të ofrojë për shitje ose të shesë qumësht të skremuar apo të kondensuar në formë pluhuri ose të lëngët, apo qumësht standard e të skremuar si zëvendësues të qumështit të gjirit.
 
 Në ambalazhin e këtyre produkteve duhet detyrimisht të shkruhet:
 
 “Ky produkt nuk duhet të përdoret për ushqimin e foshnjave!”
+
+Mënyra e paraqitjes, formati dhe përmbajtja e etiketimit të produkteve të përcaktuara në këtë nen miratohen me vendim të Këshillit të Ministrave.
 
 Detyrat e sistemit shëndetësor
 
@@ -114,7 +136,15 @@ Drejtuesit e qendrave shëndetësore dhe autoritetet shëndetësore, vendore dhe
 
 Neni 11
 
-Materialet informative apo me qëllim edukimi dhe promocioni të jenë, detyrimisht, të miratuara nga Ministria e Shëndetësisë apo nga strukturat përkatëse të ngritura ose të autorizuara prej saj.
+(Ndryshuar me ligjin nr. 53/2016, datë 19.5.2016)
+
+1. Prodhuesit dhe shpërndarësit e produkteve të caktuara nuk lejohen të prodhojnë ose të shpërndajnë materiale informative ose edukative për ushqyerjen e foshnjës dhe fëmijës, përfshirë edhe informacionet që i adresohen publikut të gjerë, pa marrë miratimin, paraprakisht, nga struktura përkatëse e ministrisë përgjegjëse për shëndetësinë.  
+
+2. Elementet kryesore të përmbajtjes së materialeve edukative dhe informuese për ushqyerjen e foshnjës dhe fëmijës, përfshirë informacionet që i adresohen publikut të gjerë, miratohen me urdhër të ministrit përgjegjës për shëndetësinë.
+
+3. Elementet kryesorë të materialeve informative, për produkte të caktuara, në adresë të profesionistëve të shëndetësisë, miratohen me urdhër të ministrit përgjegjës për shëndetësinë.
+
+.
 
 Neni 12
 
@@ -128,27 +158,25 @@ Kundërvajtjet
 
 Neni 13
 
-(Ndryshuar paragrafët e fundit me ligjin nr. 58/2013, datë 14.2.2013)
+(Ndryshuar paragrafët e fundit me ligjin nr. 58/2013, datë 14.2.2013; ndryshuar me ligjin nr. 53/2016, datë 19.5.2016)
 
-Shkeljet e dispozitave të këtij ligji, kur nuk formojnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me gjobë si vijon:
+Shkeljet e dispozitave të këtij ligji, kur nuk përbëjnë vepër penale, përbëjnë kundërvajtje administrative dhe dënohen me gjobë si më poshtë:
 
-a) Për shkelje të nenit 3, masa e gjobës është nga 50 mijë deri në 100 mijë lekë ose me heqje të lejes së prodhimit dhe/ose importimit.
+	a) shkelja e nenit 3, shitja e produkteve që nuk janë regjistruar në përputhje me ligjet në fuqi, shitja e produkteve që kanë kaluar datën e skadimit ose shitja e produkteve që nuk janë në mbajtëset e tyre origjinale, dënohen me gjobë 100 000 (njëqind mijë) lekë dhe, në rast përsëritjeje, propozohet heqja e licencës së dhënë nga organet kompetente;
 
-b) Për shkelje të nenit 4, masa e gjobës është nga 25 mijë deri në 50 mijë lekë.
+	b) shkelja e nenit 4, nga ana e prodhuesve dhe shitësve, dënohet me gjobë nga 100 000 (njëqind mijë) deri në 200 000 (dyqind mijë) lekë;
 
-c) Për shkelje të nenit 5, masa e gjobës është nga 40 mijë deri në 75 mijë lekë.
+	c) shkelja e nenit 5, nga ana e prodhuesve dhe shitësve, dënohet me gjobë nga 100 000 (njëqind mijë) deri në 200 000 (dyqind mijë) lekë, në varësi të shkeljeve të përcaktuara në këtë nen;
 
-ç) Për shkelje të nenit 6, masa e gjobës është nga 5 mijë deri në 10 mijë lekë dhe në rast përsëritjeje largim nga detyra.
+	ç) shkelja e nenit 6, nga punonjësit e shëndetësisë që punojnë në institucione shëndetësore, publike ose private, dënohet me gjobë 50 000 (pesëdhjetë mijë) lekë dhe, në rast përsëritjeje, propozohet masa “Largim nga detyra”;
 
-d) Për shkelje të neneve 7, 8 dhe 9, masa e gjobës është nga 50 mijë deri në 100 mijë lekë.
+	d) shkelja e neneve 7, 8 e 9, nga prodhuesit, shpërndarësit ose shitësit dënohet me gjobë 200 000 (dyqind mijë) lekë dhe, në rast përsëritjeje, propozohet heqja e licencës së dhënë nga organet kompetente.
 
-Për shkelje të nenit 9, në rast përsëritjeje, propozohet heqja e licencës.
+	Masa e gjobës është dënim kryesor, kur parashikohet si dënim më vete, dhe dënim plotësues, kur jepet njëkohësisht me masën e heqjes së licencës.
 
-Masa e gjobës është dënim kryesor kur parashikohet si dënim më vete dhe dënim plotësues kur jepet njëkohësisht me masën e heqjes së licencës.
+	Ankimi ndaj vendimit të Inspektoratit Shëndetësor Shtetëror bëhet në përputhje me ligjin për inspektimin. Ekzekutimi i vendimeve bëhet sipas legjislacionit në fuqi për kundërvajtjet administrative.
 
-Ankimi ndaj vendimit të inspektoratit bëhet në përputhje me ligjin për inspektimin. 
-
-Ekzekutimi i vendimeve bëhet sipas legjislacionit në fuqi për kundërvajtjet administrative.
+Gjobat e vjela, sipas këtij neni, derdhen në Buxhetin e Shtetit.
 
 Neni 14
 
