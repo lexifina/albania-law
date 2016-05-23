@@ -1,0 +1,1 @@
+2. Vendimi nr.704, datë 29.10.2014, i Këshillit të Ministrave, “Për miratimin e manualit të tarifave për shërbime në planifikim territori, projektim, mbikëqyrje dhe kolaudim”, i ndryshuar, shfuqizohet.
