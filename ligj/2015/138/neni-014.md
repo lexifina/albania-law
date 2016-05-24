@@ -1,0 +1,13 @@
+# Neni 14
+Pezullimi dhe përfundimi i ushtrimit të funksionit publik për funksionarët në detyrë
+1. Ndalimet e këtij ligji zbatohen ndaj të gjitha kategorive të zyrtarëve, të cilët, në momentin e hyrjes në fuqi të këtij ligji, mbajnë një mandat apo një detyrë publike sipas përcaktimeve të këtij ligji nëse faktet apo rrethanat që përbëjnë kusht për zbatimin e këtij ligji kanë ndodhur përpara marrjes së funksionit publik. Konstatimi i kushteve të përcaktuara si ndalim nga ky ligj passjell përfundimin e ushtrimit të funksionit publik.
+2. Periudha zbatimit të ndalimit përcaktohet në përputhje me neni 4 të këtij ligji.
+3. Llogaritja e periudhës së ndalimit fillon nga data e fillimit të detyrës apo e mandatit në vazhdim dhe shtrihet në periudhën që i paraprin kësaj date.
+4. Në rast se në përfundim të verifikimit, sipas këtij ligji, konstatohen kushtet e shkronjës “a”, të pikës 2, të nenit 2, të këtij ligji, personi, të cilit i është konstatuar kushti ndalues, pezullohet nga ushtrimi i funksionit për efekt të ligjit. Gjatë periudhës së pezullimit, personit i njihet 50 për qind e pagës, si dhe periudha e verifikimit njihet si vjetërsi pune.
+5. Gjatë periudhës së pezullimit, në rastin e organeve kolegjiale, personi nuk llogaritet për efekt kuorumi për vlefshmërinë e mbledhjes, vendimmarrjes apo formimin e çdo lloj shumice të nevojshme për vendimmarrje.
+6. Periudha e pezullimit është 12 muaj nga momenti i fillimit të verifikimit. Në rastin e deputetëve dhe drejtuesve apo anëtarëve të institucioneve kushtetuese, pezullimi është 6 muaj.
+7. Përjashtim nga pezullimi bëjnë anëtarët e Këshillit të Ministrave.
+8. Pezullimi i pushon efektet e tij në fund të periudhës së përcaktuar nga pika 6 e këtij neni, kur shpallen rezultatet e verifikimit, sipas këtij ligji, apo kur shtetasi shpallet i pafajshëm edhe me vendim jopërfundimtar. Në rast se për personin përkatës është e nevojshme kryerja e verifikimeve jashtë Republikës së Shqipërisë dhe ky verifikim nuk është përfunduar deri në fund të afatit fillestar të pezullimit, pezullimi zgjatet automatikisht me 6 muaj të tjerë për të gjitha kategoritë e subjekteve të këtij ligji.
+9. Organi epror, kur është e mundur, merr masa për zëvendësimin e përkohshëm të funksionarit të pezulluar.
+10. Për kryetarët e bashkive që pezullohen sipas këtij ligji, Këshilli i Ministrave mund të vendosë në përputhje me nenin 115 të Kushtetutës, shkarkimin e tyre, kryesisht ose me kërkesë të subjekteve që kanë të drejtë të kërkojnë verifikimin, sipas këtij ligji.
+11. Të zgjedhurve në këshillat e organeve të pushtetit vendor dhe të pezulluar, sipas këtij ligji, këshilli përkatës mund të vendosë t’u heqë mandatin, në përputhje me legjislacionin për pushtetin vendor.

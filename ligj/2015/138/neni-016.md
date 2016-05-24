@@ -1,0 +1,7 @@
+# Neni 16
+Dispozita kalimtare dhe të fundit
+1. Për shtetasit, për të cilët konstatohen kushtet e shkronjës “a”, të pikës 2, të nenit 2, të këtij ligji, zbatohet ndalimi për kandidim, zgjedhje apo ushtrim të funksioneve për një periudhë 10 vjet nga hyrja në fuqi e këtij ligji. Me kalimin kësaj periudhe, për shtetasit, për të cilët konstatohen kushtet e mësipërme, zbatohet vetëm pezullimi i ushtrimit të detyrës, i parashikuar nga pika 5, e nenit 10, të këtij ligji.
+2. Organet kompetente për marrjen e kërkesës për verifikim dhe zbatimin e ndalimeve të këtij ligji, brenda 15 ditëve nga miratimi i formularit të vetëdeklarimit, publikojnë në faqen web të institucionit versionin elektronik të formularit të vetëdeklarimit. Ky format duhet të jetë i aksesu-eshëm lirisht nga publiku dhe i disponueshëm për printim.
+3. Ky ligj nuk ndikon në ndjekjen penale, gjykimin, dënimin dhe gjendjen gjyqësore të shtetasve. Kufizimet e vendosura nga ky ligj bëhen në përputhje me nenin 17 të Kushtetutës për një interes publik, nuk shuajnë thelbin e të drejtave dhe nuk përbëjnë dënim penal apo administrativ.
+4. Dispozitat e këtij ligji janë të barasvlershme me dispozitat e Kodit Zgjedhor, ligjit për nëpunësin civil dhe ligjet që rregullojnë organizimin dhe funksionimin e organeve që përfshihen nga veprimi i këtij ligji. Në rast konflikti midis normave, dispozitat e këtij ligji kanë përparësi.
+5. Aktet nënligjore për zbatimin e këtij ligji miratohen nga organet kompetente jo më vonë se 2 muaj nga hyrja në fuqi e këtij ligji.

@@ -1,0 +1,4 @@
+# Neni 11
+Verifikimi i kushteve të ndalimit në rastin e krijimit të vakancave në Kuvend ose në këshillin bashkiak
+1. Vetëdeklarimi dhe verifikimi i të dhënave, në përputhje me këtë ligj, kryhet edhe për çdo kandidat të listave shumemërore apo kandidat të propozuar nga zgjedhësit për zgjedhjet pararendëse për Kuvendin apo këshillin bashkiak përkatës, kur, për shkak vakance në Kuvend apo në këshillin bashkiak, kandidatit i takon të marrë mandatin për vendin vakant, sipas Kodit Zgjedhor.
+2. Për kandidatët e listave shumemërore, për të cilët kryhet verifikimi, sipas pikës 1, të këtij neni, kur verifikohen kushtet e mozgjedhshmërisë, sipas këtij ligji, KQZ-ja shpall faktin e moszgjedhshmërisë së personit përkatës dhe procedon me kandidatin vijues, në përputhje me rregullat e përcaktuara në Kodin Zgjedhor.
