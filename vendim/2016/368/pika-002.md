@@ -1,0 +1,1 @@
+2. Ngarkohen subjektet e përmendura në pikën 1, të këtij vendimi, të kryejnë procedurat e ankandeve, në përputhje me legjislacionin në fuqi, për asetet, të cilat, në përfundim të procesit, kanë vlerë ekonomike.

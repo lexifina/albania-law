@@ -1,0 +1,1 @@
+1. Shembjen e ndërtesave ekonomike dhe administrative në shoqërinë OST sh.a., Ndër-marrjen e Prodhimit të Çeliqeve, Uzinën 12 & NI-CO, Uzinën e Plehrave Azotike, ndërmarrje në likuidim dhe Kombinatin Energjetik sh.a., në likuidim, sipas listës bashkëlidhur këtij vendimi.
