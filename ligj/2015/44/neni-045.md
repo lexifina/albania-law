@@ -1,0 +1,7 @@
+# Neni 45
+E drejta e palëve për njohje me dosjen
+1. Të gjitha palët në një procedurë admini-strative kanë të drejtë të njihen me dokumentet e dosjes së kësaj procedure, si dhe të marrin kopje të tyre.
+2. Organi publik, i përfshirë në procedurën administrative, brenda 5 ditëve nga paraqitja e kërkesës, siguron në mjediset e tij të punës kushte për mbajtjen e të dhënave, si dhe kushte për njohjen dhe marrjen e kopjeve të dokumenteve, sipas pikës 1 të këtij neni. Në raste të veçanta, kur është më e përshtatshme për kërkuesin, njohja me dosjen mund të bëhet edhe në mjediset e një organi tjetër publik ose në përfaqësitë konsullore dhe diplomatike të Republikës së Shqipërisë jashtë vendit.
+3. Dokumentet që përmbajnë të dhëna personale, tregtare ose profesionale, mund të merren ose të përdoren nga të tretët vetëm me pëlqimin e individit, të cilit i përkasin këto të dhëna. Pëlqimi nuk kërkohet nëse dokumentet do të përdoren për qëllime të parashikuara në ligj ose akte nënligjore.
+4. Kur dokumentacioni administrohet në formë elektronike, organi publik i siguron palës mjetet e nevojshme teknike për njohjen me të. Organi publik mund t’i bëjë dokumentet elektronike të aksesueshme nga interneti, nëse kjo nuk cenon sigurinë e të dhënave të mbrojtura sipas ligjit.
+5. Lëshimi i kopjeve të dokumenteve bëhet kundrejt një pagese, që përcaktohet në vendimin e organit publik dhe në çdo rast nuk kalon koston e riprodhimit të tyre.

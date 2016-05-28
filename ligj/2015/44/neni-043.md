@@ -1,0 +1,7 @@
+# Neni 43
+Njësia dhe nëpunësi përgjegjës
+1. Në një procedurë administrative, të filluar sipas parashikimeve të nenit 41, të këtij Kodi, organi publik vepron nëpërmjet nëpunësit përgjegjës, të përcaktuar sipas rregullave të këtij neni.
+2. Titullari i organit publik, nëse nuk është përcaktuar ndryshe me ligj ose akt nënligjor, cakton paraprakisht një njësi përgjegjëse për çdo tip procedure administrative në kompetencë të organit, në përputhje me rregullat e brendshme të veprimtarisë së tij. Ky vendim bëhet publik me çdo mjet të përshtatshëm.
+3. Drejtuesi i njësisë përgjegjëse merr përsipër vetë ose cakton me akt të shkruar nëpunësin përgjegjës për zhvillimin e procedurës administrative. Nëpunësi përgjegjës zhvillon procedurën administrative dhe në përfundim propozon me shkrim vendimin përfundimtar, ndërsa vendimi merret dhe nënshkruhet nga personi i përcaktuar nga ligji ose aktet nënligjore. Nëse vendimi është i ndryshëm nga ai i propozuar, duhet të shoqërohet me arsyetimin përkatës.
+4. Në rastet e parashikuara nga ligji nëpunësi përgjegjës, pasi zhvillon procedurën administrative, vendos për çështjen me vendim përfundimtar dhe e nënshkruan atë, përveç rasteve kur parashikohet ndryshe nga ligji.
+5. Organi kolegjial mund të ngarkojë njërin nga anëtarët e tij të zhvillojë veprime procedurale administrative. Në këtë rast, anëtari i ngarkuar vë në dijeni mbi rezultatet e procedurës administrative organin kolegjial, i cili vendos për çështjen.
