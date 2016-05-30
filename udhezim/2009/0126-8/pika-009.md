@@ -1,1 +1,0 @@
-9. Organizatori i lojës njofton NJMLF-në çdo 6 muaj mbi xhiron e realizuar nga shoqëria, bazuar mbi shitjen e biletave; sasinë e shitur të biletave dhe çmimet fituese, si dhe derdhjen e detyrimeve tatimore, sipas ligjit.
