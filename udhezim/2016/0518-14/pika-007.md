@@ -1,0 +1,4 @@
+7. Për biletat të cilat nuk shtypen pranë SHLV-së, ndiqet kjo procedurë:
+a) Vetëm shoqëritë e licencuara për organizim të lojërave të fatit, kanë të drejtën të lidhin kontrata për prodhim biletash të lojërave të fatit me shtypshkronjën prodhuese të biletave të tyre, të importojnë dhe të hedhin në treg bileta të lojërave të fatit;
+b) Në rast se biletat janë shtypur jashtë vendit, në deklaratën e zhdoganimit duhet të jetë e përfshirë: sasia në copë e biletave dhe numri serial i tyre sipas çmimeve përkatëse. Një kopje e deklaratës së zhdoganimit i dërgohet AMLF-së nga dega doganore përkatëse dhe, gjithashtu, operatori i lojërave të fatit, përpara hedhjes në treg të biletave, i dërgon një kopje të deklaratës doganore, AMLF-së. Të gjitha procedurat e tjera janë të njëjta sikur biletat të ishin shtypur pranë SHLV-së.
+c) Në rast se biletat shtypen në shtypshkronja brenda vendit, veprojnë të njëjtat dispozita si ato të shtypura pranë SHLV-së.

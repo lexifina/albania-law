@@ -1,0 +1,1 @@
+5. Në kontratën e lidhur me shtypshkronjën e letrave me vlerë apo me shtypshkronja brenda ose jashtë vendit, do të përcaktohet data e fillimit të shtypjes së biletave, data e dorëzimit të biletave, sasia në copë e biletave, numri serial i biletave, çmimi i shtypjes së biletave, specifikimet teknike të biletave dhe vendosja e elementeve të sigurisë në biletë.

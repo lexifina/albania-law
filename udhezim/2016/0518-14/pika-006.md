@@ -1,0 +1,1 @@
+6. Organizatori depoziton pranë AMLF-së, përpara hedhjes në qarkullim të biletës për kategorinë e lojës “Lotari me fitim në çast”, CD me kodet e sigurisë dhe çmimet fituese të biletave, si të prodhuara nga shtypshkronja, me të cilën organizatori ka lidhur kontratën. Kjo CD hapet vetëm në përfundim të lojës dhe në prani të organizatorit.
