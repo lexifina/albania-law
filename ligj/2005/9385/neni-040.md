@@ -1,7 +1,5 @@
 # Neni 40
 Vendimi për kundërvajtjet administrative dhe ankimi
-1. Inspektori i Policisë Pyjore merr vendimin për marrjen e masave urgjente, caktimin e dënimit kryesor dhe dënimeve plotësuese, në përputhje me ligjin për inspektimin.
-2. Në zbatim të këtij ligji dënime plotësuese janë:
-a) masa e sekuestros, sipas nenit 39 të këtij ligji;
-b) mbyllja e përhershme e veprimtarive dhe çmontimi i instalimeve, sipas nenit 40/3 të këtij ligji.
-3. Ndaj vendimit të dhënë në zbatim të këtij neni mund të bëhet ankim në përputhje me ligjin për inspektimin.
+1. Vendimi për kundërvajtjet administrative merret nga Policia Pyjore, në zbatim të legjislacionit në fuqi për inspektimin në Republikën e Shqipërisë.
+2. Ndaj vendimit të dhënë, në zbatim të pikës 1, të këtij neni, bëhet ankim, në përputhje me legjislacionin në fuqi për kundërvajtjet administrative.
+3. Procedura e ekzekutimit të vendimit të dënimit me gjobë bëhet në përputhje me ligjin për kundërvajtjet administrative.
