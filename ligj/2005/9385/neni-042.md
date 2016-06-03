@@ -5,3 +5,6 @@ Aktet nënligjore
 Dispozitë kalimtare
 (Parashikuar në ligjin nr. 36/2013, datë 14.2.2013)
 Organi ekzistues inspektues vazhdon të ushtrojë funksionin e vet sipas organizimit aktual deri në krijimin e organit të ri, sikurse parashikohet në ndryshimet e bëra në këtë ligj.
+Dispozitë kalimtare
+(Parashikuar në ligjin nr. 48/2016, datë 5.5.2016)
+Këshilli i Ministrave, me propozim të ministrit përgjegjës për pyjet, brenda 3 muajve nga data e hyrjes në fuqi të këtij ligji, miraton transferimin e pyjeve në pronësi të bashkive.

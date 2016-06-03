@@ -14,5 +14,5 @@ f) kontrollon zbatimin e punimeve që kryhen sipas projekteve në pyje, kullota,
 g) ndërpret të gjitha punimet, që nuk janë në përputhje me projektet e hartuara e të parashikuara në kontratat e nënshkruara;
 gj) kontrollon e mbikëqyr mbajtjen dhe plotësimin e dokumentacionit nga subjektet private e publike, juridike ose fizike, që ushtrojnë veprimtari në fondin pyjor kombëtar;
 h) kontrollon zbatimin e rregullave të sigurisë dhe të shëndetit të punëtorëve, që punojnë në pyje;
-i) mbikëqyr zbatimin e legjislacionit për përdorimin dhe vjeljen e prodhimeve pyjore nga burimet pyjore e jopyjore, në pronësi apo në përdorim të njësive të qeverisjes vendore ose në pronësi private.
+i) mbikëqyr zbatimin e legjislacionit për përdorimin dhe vjeljen e prodhimeve pyjore nga burimet pyjore e jopyjore, në pronësi apo në përdorim të bashkive ose në pronësi private.
 3. Inspektorët e Policisë Pyjore kanë të gjitha të drejtat për të hyrë, kontrolluar, inspektuar dhe për të marrë masat përkatëse të procedimit, si dhe të bllokimit apo sekuestrimit, në rastet e shkeljes së ligjit. Inspektorët e Policisë Pyjore gjatë kryerjes së detyrës gëzojnë atributet e Policisë Gjyqësore.
