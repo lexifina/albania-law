@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit të politikave afatgjata për ofrimin e shërbimeve me në qendër qytetarin nga administrata shtetërore në Shqipëri, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
