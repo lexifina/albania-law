@@ -1,0 +1,370 @@
+# Shtojca
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+REPUBLIKA E SHQIPËRISË
+AUTORITETI RRUGOR SHQIPTAR
+SEKTORI SHPRONËSIMEVE
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR ”LIBRAZHD- Q. STUDNËS (shtesa)
+(TOKË ARË, KULTURAT BUJQËSORE DHE DRUFRUTORE) Shtesat
+PRONARI
+Sip. e shpronës. me VKM nr. 715 dt.29.10.2014
+Nr.
+Emri, atësia, mbiemri
+Z.K.
+NR. PAS
+Lloji i pasurisë
+Sip. e shpronës.
+Çmimi (lekë/m2)
+Vlera (lekë)
+Kultura bujqësore. drufr. Vlera (lekë)
+Vlera totale (lekë)
+Shënime
+1
+Shefki Dosku
+1517
+678
+Arë
+390
+86000
+86000
+Konfirmim ZVRPP
+2
+Xhemal Dosku
+1517
+675
+Arë
+145
+130000
+130000
+Konfirmim ZVRPP
+3
+Shaban Dosku
+1517
+666/12
+Arë
+93
+7400
+7400
+Konfirmim ZVRPP
+4
+Sami Dosku
+1517
+666/11
+Arë
+68
+12500
+12500
+Konfirmim ZVRPP
+5
+Drini Abaz Dosku
+1517
+666/10
+Arë
+47
+10000
+10000
+Konfirmim ZVRPP
+6
+Gafur Dosku
+1517
+666/9
+Arë
+92
+2400
+2400
+Konfirmim ZVRPP
+7
+Riza Dosku
+1517
+663/9
+Arë
+53
+11500
+11500
+Konfirmim ZVRPP
+8
+Riza Dosku
+1517
+663/11
+Arë
+41
+14000
+14000
+Konfirmim ZVRPP
+9
+Idajet Biçaku
+1517
+663/8
+Arë
+31
+7500
+7500
+Konfirmim ZVRPP
+10
+Bujar Muça
+1517
+650/4
+Arë
+338
+32400
+32400
+Konfirmim ZVRPP
+11
+Naze Muça
+1517
+650/3
+Arë
+211
+15900
+15900
+Konfirmim ZVRPP
+12
+Petrit Allushi
+1517
+1//2
+Arë
+526
+330000
+330000
+Konfirmim ZVRPP
+13
+Petrit Allushi
+1517
+1//3
+Arë
+76
+36000
+36000
+Konfirmim ZVRPP
+14
+Halil Brahja
+1517
+20/1
+Arë
+2600
+728
+174
+126672
+54150
+180822
+Çertifikatë pronësie
+15
+Naze Musa Muça
+1517
+654/1
+Arë
+261
+174
+45414
+45414
+Konfirmim ZVRPP
+16
+Ismail Qoshi
+3913
+540
+Arë
+218
+54250
+54250
+Konfirmim ZVRPP
+17
+Nazmi Qoshi
+3913
+538
+Arë
+230
+20600
+20600
+Konfirmim ZVRPP
+18
+Dhimiter (Bashkim) Qoshi
+3913
+536
+Arë
+184
+35500
+35500
+Konfirmim ZVRPP
+19
+Nazmi Qoshi
+3913
+535/1
+Arë
+483
+40700
+40700
+Konfirmim ZVRPP
+20
+Hamit Shuli
+3913
+520/2
+Arë
+193
+19500
+19500
+Konfirmim ZVRPP
+21
+Petrit Alla
+3913
+543
+Arë
+181
+87000
+87000
+Konfirmim ZVRPP
+22
+Xhezar Alla
+3913
+56
+Arë
+454
+25650
+25650
+Konfirmim ZVRPP
+23
+Uran Alla
+3913
+57
+Arë
+448
+21300
+21300
+Konfirmim ZVRPP
+24
+Arben Alla
+3913
+71
+Arë
+520
+19500
+19500
+Konfirmim ZVRPP
+25
+Hamide Alla
+3913
+72
+Arë
+132
+44200
+44200
+Konfirmim ZVRPP
+26
+Hamide Alla
+3913
+1233
+Arë
+156
+39000
+39000
+Konfirmim ZVRPP
+27
+Haki Alla
+3913
+81
+Arë
+327
+41200
+41200
+Konfirmim ZVRPP
+28
+Beqir Dilaver Shpata
+3913
+558
+Arë
+316
+174
+54984
+132600
+187584
+Konfirmim ZVRPP
+29
+Shefki Hasan Qoli
+3913
+576/1
+Arë
+346
+174
+60204
+124800
+185004
+Konfirmim ZVRPP
+30
+Hazbi Dilaver Boci
+3913
+560/1
+Arë
+296
+174
+51504
+179000
+230504
+Konfirmim ZVRPP
+31
+Qamil Izet Boci
+3913
+295/3
+Arë
+80
+174
+13920
+79500
+93420
+Konfirmim ZVRPP
+32
+Qamil Izet Boci
+3913
+499
+Arë
+250
+174
+43500
+132000
+175500
+Konfirmim ZVRPP
+33
+Gjelberim Xhaferr Alla
+3913
+559/1
+Arë
+155
+174
+26970
+80700
+107670
+Konfirmim ZVRPP
+34
+Izmir Xhaferr Alla
+3913
+559/2
+Arë
+140
+174
+24360
+63000
+87360
+Konfirmim ZVRPP
+35
+Andon Xhaferr Alla
+3913
+559/3
+Arë
+140
+174
+24360
+85200
+109560
+Konfirmim ZVRPP
+36
+Jani Beqir Qoshi
+3913
+753
+Arë
+295
+174
+51330
+53000
+104330
+Konfirmim ZVRPP
+3007
+523218
+2127950
+2651168
