@@ -1815,3 +1815,5 @@ United Nations Office on Drugs and Crime. (2011) Corruption in Albania: Bribery 
 Vangjeli, E., Stillo, S. and Teneqexhi, M. (2012) “Impact of active labour market programs on employment: Albania’s case” (Ndikimi i programeve aktive të tregut të punës në punësim: rasti i Shqipërisë), Journal of Knowledge Management, Economics and Information Technology, 8: 1-17.
 White Paper on Social Policy (COM (94) 333) (Dokument Programatik për Politikat Sociale, gjendet në gjuhën angleze në: http://aei.pitt.edu/1118/1/social_policy_white_paper_COM_94_333_A.pdf.
 Xhumari, M. and Dibra, S. (2012) Mapping VET Policies and Practices for Social Inclusion and Social Cohesion në Shqipëri (Hartëzimi i politikave dhe praktikave të AFP për përfshirje sociale dhe kohezion social në Shqipëri), Projekt raport i ndërmjetëm për Fondacionin Evropian të Trajnimit, Torino.
+SHTOJCA 1
+IX. SHTOJCA 4.3: SHPENZIME TË DETAJUARA PËR AKTIVITETET
