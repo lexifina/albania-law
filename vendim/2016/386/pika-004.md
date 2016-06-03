@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “truall” dhe “objekte”, prej 48 352 015 (dyzet e tetë milionë e treqind e pesëdhjetë e dy mijë e pesëmbëdhjetë) lekësh, të përballohet nga buxheti i vitit 2016, miratuar për Ministrinë e Transportit dhe Infrastrukturës, zëri “Shpronë-sime”, planifikuar për Autoritetin Rrugor-Shqiptar.
