@@ -1,0 +1,1 @@
+1. Kanë të drejtën të aplikojnë për t’u pranuar në programet e studimeve të ciklit të parë dhe programet e integruara të studimeve të ciklit të dytë në institucionet e arsimit të lartë kandidatët që kanë përfunduar me sukses nivelin e arsimit të mesëm të lartë dhe që plotësojnë kriterin e notës mesatare të përcaktuar në këtë vendim.
