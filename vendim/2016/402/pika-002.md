@@ -1,0 +1,1 @@
+2. Ky fond i jepet, në formën e transfertës, Autoritetit të Mediave Audiovizive, për t’u përdorur për financimin e organizimit të fushatës për informimin e publikut për kalimin e transmetimeve analoge në transmetime dixhitale.
