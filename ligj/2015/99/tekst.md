@@ -8,6 +8,10 @@ PËR DISA NDRYSHIME DHE SHTESA NË LIGJIN NR. 9920, DATË 19.5.2008,
 
 TË NDRYSHUAR
 
+(Ndryshuar me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016)
+
+(i përditësuar)
+
 Në mbështetje të neneve 78, 83, pika 1, dhe 155, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -30,7 +34,7 @@ Emërimi i personelit
 
 2. Për procedurat e rekrutimit të tyre zbatohet legjislacioni i nëpunësit civil.
 
-3. Marrëdhëniet juridike të punës për punonjësit e administratës tatimore, që nuk kanë statusin e nëpunësit civil, rregullohen sipas dispozitave të Kodit të Punës.”.
+3. Marrëdhëniet juridike të punës për punonjësit e administratës tatimore, që nuk kanë statusin e nëpunësit civil, rregullohen sipas dispozitave të Kodit të Punës.
 
 Neni 2
 
@@ -42,7 +46,7 @@ Neni 3
 
 Në nenin 26, pas pikës 3 shtohet pika 4 me këtë përmbajtje:
 
- “4. Nëpunësi i administratës tatimore qendrore dhe vendore, që gëzon statusin e nëpunësit civil, ndalohet që të ketë zyrë të kontabilitetit apo të konsulencës fiskale në pronësi të tij apo të afërmve të tij, deri në shkallën e dytë, sipas Kodit Civil, dhe personave të lidhur, sipas ligjit për konfliktin e interesave. Kjo situatë përbën konflikt interesi dhe ndaj nëpunësit të administratës tatimore qendrore dhe vendore, që gëzon statusin e nëpunësit civil, merren masat e parashikuara nga legjislacioni në fuqi për shmangien e konfliktit të interesave, si dhe masa e largimit nga puna me pa të drejtë punësimi në administratën tatimore.”.
+ “4. Nëpunësi i administratës tatimore qendrore dhe vendore, që gëzon statusin e nëpunësit civil, ndalohet që të ketë zyrë të kontabilitetit apo të konsulencës fiskale në pronësi të tij apo të afërmve të tij, deri në shkallën e dytë, sipas Kodit Civil, dhe personave të lidhur, sipas ligjit për konfliktin e interesave. Kjo situatë përbën konflikt interesi dhe ndaj nëpunësit të administratës tatimore qendrore dhe vendore, që gëzon statusin e nëpunësit civil, merren masat e parashikuara nga legjislacioni në fuqi për shmangien e konfliktit të interesave, si dhe masa e largimit nga puna me pa të drejtë punësimi në administratën tatimore.
 
 Neni 4
 
@@ -54,9 +58,7 @@ Neni 4
 
 Neni 5
 
-	Në nenin 41, pas pikës 2 shtohet pika 3 me këtë përmbajtje:
-
-	“3. Çdo tatimpagues, i cili konstatohet se kryen veprimtari në adresa të padeklaruara, për të cilat nuk ka kryer përditësimin e të dhënave, në përputhje me nenin 43 të këtij ligji, por mallrat që mban në ruajtje, përdor apo transporton janë të shoqëruara me dokumente tatimore, dënohet me gjobë prej 500 000 (pesëqind mijë) lekësh.”. 
+(Shfuqizuar me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016)
 
 Neni 6
 
@@ -106,7 +108,7 @@ Neni 10
 
 	“Në rast se tatimpaguesi ka të certifikuara, nga kompani të njohura audituese, pasqyrat financiare dhe deklaratat tatimore ku vërtetohet se janë në përputhje me legjislacionin fiskal, administrata tatimore e përshin këtë element në analizën e riskut të tatimpaguesit.  
 
-	Procedurat, kriteret dhe lista e kompanive audituese përcaktohen me udhëzim të Ministrit të Financave në zbatim këtij neni.”.
+	Procedurat, kriteret dhe lista e kompanive audituese përcaktohen me udhëzim të Ministrit të Financave në zbatim këtij neni.
 
 Neni 11
 
@@ -134,63 +136,39 @@ Mospagimi i kësteve të tatimit mbi fitimin dhe tatimi i thjeshtuar mbi fitimin
 
 Neni 14
 
-	Neni 119 ndryshohet si më poshtë:
-
-“Neni 119
-
-Mosdeklarimi i punonjësve
-
-	1. Nëse nga verifikimi dhe kontrolli në vendndodhjen e biznesit rezulton se tatimpaguesi nuk ka deklaruar në organin tatimor çdo të punësuar rishtazi, të paktën një ditë kalendarike përpara fillimit të punës, përveç detyrimit për pagimin e shumës së detyrimeve tatimore dhe kontributeve të sigurimeve shoqërore e shënde-tësore, të llogaritura nga data e konstatimit, dënohet me gjobë prej 500 000 (pesëqind mijë) lekësh. 
-
-	2. Çdo konstatim i përsëritur i mosdeklarimit të punonjësve, pas aplikimit të dënimit administrativ, si në pikën 1, të këtij neni, konsiderohet evazion tatimor, sipas nenit 116 të ligjit dhe administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke bërë kallëzimin penal për tatimpaguesin.”.
+(Shfuqizuar me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016)
 
 Neni 15
 
-	Pas nenit 119 shtohet neni 119/1 me këtë përmbajtje:
-
-“Neni 119/1
-
-Mosdeklarimi i pagës reale
-
-	1. Nëse nga verifikimi dhe kontrolli rezulton se tatimpaguesi nuk ka deklaruar pagën reale të çdo të punësuari,  në organin tatimor,  përveç detyrimit për pagimin e shumës së detyrimeve tatimore dhe kontributeve të sigurimeve shoqërore e shënde-tësore, të llogaritura nga data e konstatimit, dënohet me gjobë në masën 500 000 (pesëqind mijë) lekë për rastin e parë të konstatimit.
-
-	2.	 Çdo konstatim i përsëritur i mosdeklarimit të pagës reale të punonjësve, pas aplikimit të dënimit administrativ, si në pikën 1, të këtij neni, konsi-derohet evazion tatimor, sipas nenit 116 të ligjit dhe administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke bërë kallëzimin penal për tatimpaguesin.”. 
+ (Shfuqizuar me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016)
 
 Neni 16
 
+(Shfuqizuar pika 4 me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016)
+
 	Në nenin 121 pas pikës 3 shtohen pikat 4 dhe 5 me këtë përmbajtje:
 
-	“4. Tatimpaguesi, që shet mallra me shumicë, që mban në ruajtje,  përdor apo transporton mallra të pashoqëruara me dokumente tatimore, dënohet me gjobë në masën 10 000 000 (dhjetë milionë) lekë, konfiskim të të gjithë sasisë së mallit, që mbahej në ruajtje, përdorej apo transportohej, i pashoqëruar me dokumente tatimore dhe rivlerësim tatimor të të ardhurave për një periudhë 6-mujore. Me kërkesë të tatimpaguesit, masa e konfiskimit zëvendësohet me pagesën e menjë-hershme të një gjobe, të barabartë me vlerën e tregut për të njëjtin mall.
-
-	Për çdo konstatim (verifikim) tjetër pas verifikimit të parë, ku konstatohet se tatimpaguesi vazhdon të mbajë në ruajtje, të përdorë apo të transportojë mallra të pashoqëruara me dokumente tatimore, konsiderohet evazion tatimor, sipas nenit 116 të ligjit dhe administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke e kallëzuar penalisht tatimpaguesin.
+	4. Shfuqizuar.
 
 	5. Përjashtimit, për të gjithë tatimpaguesit, të cilët me vullnetin e tyre bëjnë vetëdeklarimin e mallit që kanë gjendje pa dokumente tatimore, me anë të një fature të përgatitur nga blerësi, sipas nenit 53, të këtij ligji, brenda datës 31.12.2015, nuk do të zbatohen penalitetet e përcaktuara në pikat 1, 2 dhe 4 të këtij neni. Procedurat e vetëdeklarimit të mallrave gjendje nga tatimpaguesi përcaktohen me Udhëzim të Ministrit të Financave. Tatimpaguesit nuk përfitojnë nga kjo dispozitë, nëse shkelja, sipas pikave 1, 2 dhe 4, të këtij neni, është konstatuar paraprakisht nga administrata tatimore.”.
 
 Neni 17
 
+(Shfuqizuar pikat 1 dhe 2 me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016)
+
 	Në nenin 122, pika 1, bëhen këto ndryshime:
 
-	1. Shkronjat “b” dhe “c” ndryshohen si më poshtë:
+	1. Shfuqizuar.
 
-	“b) nuk lëshon kupon tatimor për të dokumentuar qarkullimin e realizuar të mallrave apo të shërbimeve:
-
-	i) për çdo konstatim (verifikim) të kryer, me gjobë të barabartë me 100 për qind të detyrimit tatimor, të padeklaruar ose të papaguar, si rezultat i moslëshimit të faturës, përveç detyrimeve tatimore dhe interesave, që llogariten e paguhen në përputhje me dispozitat e këtij ligji dhe të ligjeve specifike tatimore, me gjobë në masën 500 000 (pesëqind mijë) lekë dhe rivlerësim tatimor të të ardhurave për 6 muajt e fundit;
-
-	ii) për çdo konstatim (verifikim) tjetër pas verifikimit të parë, sipas shkronjës “i”, të këtij neni, ku konstatohet se tatimpaguesi vazhdon të mos e lëshojë kuponin tatimor për të dokumentuar qarkullimin e realizuar të mallrave apo të shërbimeve, sipas kërkesave të këtij ligji, si më sipër, konsiderohet evazion tatimor, sipas nenit 116, të ligjit, dhe administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke e kallëzuar penalisht tatimpaguesin;
-
-	iii) në rastet kur tatimpaguesi ka lëshuar faturë tatimore, por jo kupon tatimor, dënohet me gjobë në masën 500 000 (pesëqind mijë) lekë;
-
-	c) lëshon një kupon tatimor/dëftesë tatimore /biletë, me vlerë të parashtypur, që nuk përmban elementet e përcaktuara në këtë ligj dhe në aktet nënligjore, për kuponin tatimor/dëftesën tatimore /biletën me vlerë të parashtypur, me gjobë, në masën 100 000 (njëqind mijë) lekë.”.
-
-	2. Pas shkronjës “d” shtohet shkronja “d/1” me këtë përmbajtje:
-
-	“d.1) nuk afishon në një vend të dukshëm, në adresën ku kryen veprimtarinë, një poster që tregon të drejtën e blerësit për të mos paguar për mallrat dhe shërbimet e blera, në zbatim të pikës 3, të nenit 46, të këtij ligji, me gjobë në masën 500 000 (pesëqind mijë) lekë.”.
+	2. Shfuqizuar.
 
 	3. Pas shkronjës “gj” shtohet shkronja “h” me këtë përmbajtje:
 
-	“h) mban ose përdor pajisje fiskale apo sisteme të monitorimit të qarkullimit, të cilat nuk janë në përputhje me këtë ligj apo aktet nënligjore në zbatim të tij, dënohet me konfiskim të mallrave gjendje. Gjithashtu, në përputhje me nenin 116, të këtij ligji, administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke e kallëzuar penalisht tatimpaguesin.”.
+	“h) mban ose përdor pajisje fiskale apo sisteme të monitorimit të qarkullimit, të cilat nuk janë në përputhje me këtë ligj apo aktet nënligjore në zbatim të tij, dënohet me konfiskim të mallrave gjendje. Gjithashtu, në përputhje me nenin 116, të këtij ligji, administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke e kallëzuar penalisht tatimpaguesin.
 
 Neni 18
+
+(Shfuqizuar pika 2 me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016) 
 
 	Neni 124 ndryshohet si më poshtë:
 
@@ -200,9 +178,7 @@ Kundërvajtjet në lëshimin e faturave tatimore, dëftesave tatimore dhe dokume
 
 	1. Moslëshimi i faturës tatimore, dëftesës tatimore apo і faturës tatimore me TVSH dënohet me gjobë të barabartë me 100 për qind të detyrimit tatimor, të padeklaruar ose të papaguar, si rezultat i moslëshimit të faturës, përveç detyrimeve tatimore dhe interesave, që llogariten dhe paguhen në përputhje me dispozitat e këtij ligji e të ligjeve specifike tatimore.
 
-	2. Moslëshimi i faturës tatimore, dëftesës tatimore apo і faturës tatimore me TVSH nga tatimpaguesi që shet mallra me shumicë dënohet me gjobë të barabartë me 100 për qind të detyrimit tatimor, të padeklaruar ose të papaguar, si rezultat i moslëshimit të faturës, përveç detyrimeve tatimore e interesave, që llogariten dhe paguhen në për-puthje me dispozitat e këtij ligji e të ligjeve specifike tatimore, me gjobë në masën 10 000 000 (dhjetë milionë) lekë dhe rivlerësim të të ardhurave për një periudhë 6-mujore.
-
-	Për çdo konstatim (verifikim) tjetër pas verifikimit të parë, sipas pikës 2, të këtij neni, konsiderohet evazion tatimor, sipas nenit 116 të ligjit dhe administrata tatimore ushtron të drejtën e parashikuar në nenin 131, të këtij ligji, duke e kallëzuar penalisht tatimpaguesin.
+	2. Shfuqizuar.
 
 	3. Në rast konstatimi të mospërmbushjes së detyrimit, sipas pikës 5, të nenit 54, të këtij ligji, tatimpaguesit i llogaritet TVSH-ja në masën që ky mall do të tregtohej me pakicë për konsumatorin final, si dhe do të dënohet me gjobë në masën 100 për qind të vlerës së TVSH-së të llogaritur që i përket vlerës së shitjeve që tejkalojnë kufirin e lejuar për shitjet me kupon tatimor, siç përcaktohet në pikën 5, të nenit 54, të këtij ligji, deri në datën 31.3.2016.
 
@@ -226,13 +202,7 @@ Dënimet për certifikimin e pasqyrave financiare nga audituesit
 
 Neni 20
 
-	Neni 130 ndryshohet si më poshtë:
-
-“Neni 130
-
-Mosafishimi i çmimeve të shitjes
-
-	Mosafishimi i çmimeve të shitjes së mallrave apo shërbimeve dënohet me gjobë 500 000 (pesëqind mijë) lekë.”.
+(Shfuqizuar me Vendimin e Gjykatës Kushtetuese nr. 33, datë 8.6.2016)
 
 Neni 21
 
@@ -244,7 +214,7 @@ Neni 21
 
 	4. Nga data 1.1.2016, përjashtimisht, për tatimpaguesit, të cilët, me vullnetin e tyre, deklarojnë dhe për pasojë korrigjojnë një deklaratë tatimore të plotësuar qëllimisht gabim, në kushtet e nenit 116 të ligjit, pavarësisht periudhës tatimore që i përket kjo deklaratë, si dhe paguajnë  detyrimin tatimor përkatës (tatimin, interesat dhe gjobat), administrata tatimore, në përputhje me këtë nen, nuk do të bëjë kallëzim penal. 
 
-	Tatimpaguesit nuk përfitojnë nga kjo dispozitë, nëse shkelja, sipas paragrafit të mësipërm, është konstatuar paraprakisht nga administrata tati-more.”.
+	Tatimpaguesit nuk përfitojnë nga kjo dispozitë, nëse shkelja, sipas paragrafit të mësipërm, është konstatuar paraprakisht nga administrata tatimore.
 
 Neni 22
 
@@ -260,7 +230,7 @@ Neni 23
 
 Rregullime për deklarimet tatimore si pasojë e sistemit të ri të IT-së
 
-	Tatimpaguesve, të cilët me fillimin e sistemit të ri të IT-së, edhe pse nuk kanë pasur përgjegjësinë tatimore për një tatim apo taksë të caktuar, janë ngarkuar me këtë përgjegjësi dhe, për pasojë, janë evidentuar si debitorë pranë administratës tatimore, deri në datën 31.8.2015, u shfuqizohen gjobat dhe interesat e përllo-garitur.”.
+	Tatimpaguesve, të cilët me fillimin e sistemit të ri të IT-së, edhe pse nuk kanë pasur përgjegjësinë tatimore për një tatim apo taksë të caktuar, janë ngarkuar me këtë përgjegjësi dhe, për pasojë, janë evidentuar si debitorë pranë administratës tatimore, deri në datën 31.8.2015, u shfuqizohen gjobat dhe interesat e përllogaritur.
 
 Neni 24
 
