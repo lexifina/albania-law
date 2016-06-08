@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rishikimi i projektit të zbatimit të fazës së parë të vijës bregdetare të qytetit të Vlorës”.
