@@ -1,0 +1,1 @@
+2. Ministrisë së Zhvillimit Urban i ndalohet të ndryshojë destinacionin e katit përdhes në objektin trekatësh, komponent i pronës me nr. 90, me emërtim “Reparti ushtarak nr. 4400, (ish-Shtabi i KML-së)”, me vendndodhje në Brar, Tiranë, të përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojë atë ose t’ua japë në përdorim të tretëve.
