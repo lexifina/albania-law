@@ -1,0 +1,6 @@
+# Neni 6
+E drejta e aksesit në vendimet gjyqësore të anonimizuara
+1. Portali elektronik i gjykatës publikon vetëm tekstin e vendimit gjyqësor të anonimizuar.
+2. Teksti i vendimit gjyqësor, me të dhënat e plota personale, është i aksesueshëm në aplika-cionin elektronik ICMIS, të instaluar në serverat e çdo gjykate vetëm nga subjektet e të dhënave personale, personat e interesuar që kanë një interes të ligjshëm, Gjykata, Ministria e Drejtësisë dhe Këshilli i Lartë i Drejtësisë.
+3. Specialisti i teknologjisë së informacionit pranë gjykatës krijon fjalëkalime për përdoruesit e brendshëm të gjykatës (stafi administrativ dhe trupa gjyqësore) për të mundësuar aksesimin në vendimin gjyqësor me të dhënat e plota personale. Kancelari i gjykatës kujdeset të vendosë në dispozicion fjalëkalimin e posaçëm për aksesimin në vendimin gjyqësor me të dhëna të plota personale, subjekteve të përcaktuara në pikën 2 të këtij neni, pas depozitimit të kërkesës së argumentuar me shkrim.
+4. Kopja fizike e vendimit gjyqësor të anoni-mizuar përfshihet në dosjen gjyqësore të çështjes përkatëse. Vetëm kopja e vendimit të anoni-mizuar i vihet në dispozicion personave të interesuar për përdorimin e vendimeve gjyqësore për qëllime shkencore, statistikore, literature apo gazetarie, në përputhje me parashikimet ligjore në fuqi.
