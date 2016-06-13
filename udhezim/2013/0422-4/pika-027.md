@@ -1,1 +1,0 @@
-27. Me hyrjen në fuqi të këtij udhëzimi, udhëzimi nr. 1, datë 2.7.2012 “Për kriteret e konkurrimit dhe procedurën e dhënies në përdorim me kontratë qiraje të fondit pyjor dhe kullosor publik”, shfuqizohet.

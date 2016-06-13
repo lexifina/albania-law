@@ -1,1 +1,0 @@
-26. Për kërkesat, sipas pikës 23 të këtij udhëzimi, DSHP-ja e shqyrton dosjen brenda 15 ditëve dhe, kur e gjen të rregullt, harton raportin teknik dhe e paraqet dosjen për miratim te ministri. Pas miratimit të ministrit, DSHP-ja dhe kërkuesi nënshkruajnë procesverbalin e dhënies së sipërfaqes dhe kontratën e qirasë tip të miratuar nga ministri.
