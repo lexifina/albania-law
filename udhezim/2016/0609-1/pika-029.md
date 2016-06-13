@@ -1,0 +1,1 @@
+29. Udhëzimi i ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave nr. 4, datë 22.4.2013, “Për përcaktimin e kritereve të konkurrimit dhe proce-durën e dhënies në përdorim me kontratë qiraje të fondit pyjor dhe kullosor publik”, shfuqizohet.

@@ -1,0 +1,1 @@
+16. Subjektet konkurruese kanë të drejtën e ankimit te titullari, i cili i përgjigjet me shkrim ankuesit bazuar në procedurat dhe afatet e para-shikuara në legjislacionin në fuqi për prokurimin publik. Subjektet konkurruese gëzojnë të drejtën të ankohen pranë Komisionit të Prokurimit Publik pas përgjigjes së titullarit.

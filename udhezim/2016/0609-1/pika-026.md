@@ -1,0 +1,1 @@
+26. Kryetari i bashkisë miraton studimin teknik-ekonomik të hartuar nga struktura përgjegjëse për pyjet dhe kullotat në bashki dhe lidh kontratën e qirasë të sipërfaqes së fondit pyjor dhe kullosor brenda një afati 20 ditë pune.

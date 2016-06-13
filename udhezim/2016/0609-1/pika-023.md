@@ -1,0 +1,1 @@
+23. Në të gjitha rastet sipas pikës 22, subjekti i interesuar paraqet dokumentacionin teknik-ligjor pranë bashkisë, e cila i delegon të drejtën për har-timin e studimit teknik-ekonomik të sipërfaqes objekt përdorimi, strukturës përgjegjëse për pyjet në bashki.

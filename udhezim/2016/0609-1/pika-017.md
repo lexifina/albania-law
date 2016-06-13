@@ -1,0 +1,1 @@
+17. Pas përfundimit të procedurave të mesi-përme të ankimit, me fituesin lidhet brenda 10 ditëve kontrata e qirasë. Kontrata e qirasë tip miratohet nga ministri, e cila orienton bashkitë për elementet përbërëse të saj.. Nëse fituesi nuk e lidh kontratën brenda këtij afati, kontrata lidhet me subjektin që është renditur i dyti në listën e konkurrimit.
