@@ -1,0 +1,1 @@
+1. Ministrisë së Kulturës, në buxhetin e miratuar për vitin 2016, në programin buxhetor (08220), “Trashëgimia kulturore dhe muzetë”, në zërin “Investime”, t’i shtohet fondi prej 26 000 000 (njëzet e gjashtë milionë) lekësh, për mbulimin e pjesshëm të shpenzimeve për realizimin e projektit “Rindërtimi i banesës ku u ngrit Flamuri në Korçë”.
