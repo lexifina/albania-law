@@ -1,0 +1,1 @@
+5. Drejtuesit e institucioneve të përkujdesit social rezidencial për fëmijë marrin masa për garantimin e burimeve të nevojshme materiale dhe njerëzore për ofrimin e këtij shërbimi, sipas pikës 1 të këtij udhëzimi.

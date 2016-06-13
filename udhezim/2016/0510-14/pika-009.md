@@ -1,0 +1,1 @@
+9. Në rastet kur vendimi i grupit teknik multidisiplinar parashikon ribashkimin e fëmijës me familjen biologjike apo shërbim alternativ komunitar, njësia e mbrojtjes së fëmijës vijon me monitorimin e situatës së fëmijës pranë familjes (biologjike ose kujdestare).

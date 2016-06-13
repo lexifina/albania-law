@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 14, datë 10.5.2016
+PËR OFRIMIN E SHËRBIMIT TË EMERGJENCËS NË INSTITUCIONET E PËRKUJDESIT SHOQËROR TË FINANCUARA NGA FONDET E BUXHETIT TË SHTETIT PUBLIK QË OFROJNË SHËRBIME TË PËRKUJDESIT REZIDENCIAL PËR FËMIJËT NË NEVOJË
+Mbështetur në pikën 4, të nenit 102 të Kushtetutës së Republikës së Shqipërisë, pikën 5, të nenit 9, të ligjit nr. 9355, datë 10.3.2005, “Për ndihmën dhe shërbimet shoqërore”, të ndryshuar, në nenin 39, të ligjit nr. 10347, datë 4.11.2010, “Për mbrojtjen e të drejtave të fëmijëve”, vendimit të Këshillit të Ministrave nr. 265, datë 12.4.2012, “Për krijimin dhe funksionimin e mekanizmit të bashkërendimit të punës ndërmjet autoriteteve shtetërore përgje-gjëse për referimin e rasteve të fëmijëve në rrezik, si dhe mënyrën e procedimit të tij” dhe në zbatim të vendimit të Këshillit të Ministrave nr. 425, datë 27.6.2012, “Për përcaktimin e kritereve dhe të dokumentacionit të nevojshëm për pranimin në institucionet rezidenciale publike dhe private të përkujdesit shoqëror”, të ndryshuar,
+UDHËZOJ:

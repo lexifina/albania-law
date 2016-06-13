@@ -1,0 +1,1 @@
+1. Institucionet e përkujdesit social rezidencial publik, të financuara nga fondet e buxhetit të shtetit, ofrojnë shërbimin e emergjencës për një periudhë kohore prej 72 orësh për fëmijët e identifikuar që kanë nevojë për mbrojtje të menjëhershme.

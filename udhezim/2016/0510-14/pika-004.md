@@ -1,0 +1,1 @@
+4. Fëmija që ka nevojë për mbrojtje të menjëhershme vendoset në institucionin e përkujdesit shoqëror publik që ofron shërbime sociale për fëmijët, që ndodhet pranë vendbanimit/vendqëndrimit më të afërt me fëmijën. Dokumentacioni për vendosjen e fëmijës në institucion realizohet sipas procesver-balit bashkëngjitur këtij udhëzimi.

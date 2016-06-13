@@ -1,0 +1,1 @@
+6. Institucioni i përkujdesit social krijon kushtet e nevojshme për garantimin e plotësimit të nevojave bazë të fëmijëve, të cilëve u jepet shërbimi i emergjencës. Për shërbimin e emergjencës, institucioni ofron në mënyrë të menjëhershme: strehim, ushqim dhe kujdes shëndetësor. Një person përgjegjës është gjithmonë i pranishëm në institucion për ofrimin e këtij shërbimi.
