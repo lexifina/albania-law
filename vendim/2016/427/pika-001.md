@@ -1,0 +1,1 @@
+1. Agjencia Kombëtare e Planifikimit të Territorit, në vijim “AKPT”, organizohet dhe funksionon në përputhje me këtë vendim dhe me ligjin nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar.

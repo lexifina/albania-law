@@ -1,0 +1,1 @@
+4. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet: “Republika e Shqipërisë, Ministria e Zhvillimit Urban, Agjencia Kombëtare e Planifikimit të Territorit”, në përputhje me vendimin nr. 474, datë 10.7.2003, të Këshillit të Ministrave, “Për mënyrën e përdorimit të stemës së Republikës, si dhe raportin e përmasave të saj”, të ndryshuar.

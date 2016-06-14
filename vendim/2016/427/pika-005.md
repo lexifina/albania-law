@@ -1,0 +1,7 @@
+5. Vula zyrtare e AKPT-së ka formën dhe elementet e përcaktuara në pikën 2, të vendimit nr. 390, datë 6.8.1993, të Këshillit të Ministrave, “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare”, të ndryshuar. Vula e AKPT-së prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+II. ORGANIZIMI DHE FUNKSIONIMI I AKPT-së
+1. AKPT-ja është institucion me përgjegjësi planifikimi, në varësi të ministrisë përgjegjëse për çështjet e planifikimit dhe zhvillimit të territorit, që e shtrin veprimtarinë e saj në të gjithë territorin e Republikës së Shqipërisë.
+2. AKPT-ja drejtohet nga drejtori i përgjithshëm, i cili organizon dhe drejton veprimta-rinë e saj dhe përgjigjet përpara ministrit përgjegjës për zhvillimin urban.
+3. Drejtori i përgjithshëm i AKPT-së emërohet, lirohet dhe shkarkohet nga detyra me urdhër të Kryeministrit, me propozimin e ministrit përgjegjës për zhvillimin urban, në përputhje me legjislacionin në fuqi.
+4. Zëvendësdrejtori i përgjithshëm i AKPT-së, i cili është, njëkohësisht, edhe drejtor i një drejtorie, emërohet, lirohet dhe shkarkohet nga detyra me urdhër të ministrit përgjegjës për zhvillimin urban, me propozimin e drejtorit të përgjithshëm të AKPT-së.
+5. AKPT-ja është institucion buxhetor, që financohet nga buxheti i shtetit, donacione të jashtme dhe burime të tjera të ligjshme. AKPT-ja siguron të ardhura edhe nga shërbimet e kryera prej saj ndaj palëve të tjera. Tarifat e këtyre shërbimeve përcaktohen sipas legjislacionit përkatës në fuqi.
