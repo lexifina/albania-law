@@ -1,0 +1,1 @@
+7. Baza e të dhënave e hartës dixhitale shkëmben informacion, nëpërmjet shërbimeve on-line të kërkimit, shikimit, shkarkimit dhe transfor-mimit me sistemin e Gjeoportalit Kombëtar të ASIG-ut, sipas përcaktimeve të nenit 23, të ligjit nr. 72/2012, “Për organizimin dhe funksionimin e infrastrukturës kombëtare të informacionit gjeoha-pësinor në Republikën e Shqipërisë”.

@@ -1,0 +1,1 @@
+2. Termat e përdorur në këtë vendim kanë kuptimin e përcaktuar në ligjin nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, ligjin nr. 72/2012, “Për organizimin dhe funksi-onimin e infrastrukturës kombëtare të informa-cionit gjeohapësinor në Republikën e Shqipërisë”, si dhe ligjin nr. 463, datë 22.9.2011, “Për mena-xhimin e integruar të mbetjeve”, të ndryshuar.
