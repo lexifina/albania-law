@@ -1,0 +1,3 @@
+Shkronja “a”, e ndarjes “A”, të nenit 3, të vendimit nr. 299, datë 8.4.2015, të Këshillit të Ministrave, riformulohet, si më poshtë vijon:
+“a) Certifikatën e Produktit Farmaceutik, sipas modelit të rekomanduar nga OBSH-ja, lëshuar nga autoriteti përkatës, ku vërtetohet se bari është i pajisur me autorizimin për tregtim dhe qarkullon në vendin referent. Certifikata e Produktit Farma-ceutik duhet të jetë e vlefshme në kohën e aplikimit dhe, në rastet kur kjo nuk specifikohet, të jetë lëshuar jo më parë se 12 muaj nga data e dorëzimit. Kjo certifikatë duhet të jetë dokument origjinal, zyrtar ose çdo formë tjetër zyrtare, sipas legjisla-cionit të vendit që e ka lëshuar këtë certifikatë;”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
