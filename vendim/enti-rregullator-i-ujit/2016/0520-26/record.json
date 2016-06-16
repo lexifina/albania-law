@@ -1,0 +1,28 @@
+{
+  "qbz_id": 66555,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 24, DATË 26.11.2014, “PËR LICENCIM SHA UJËSJELLËS-KANALIZIME ELBASAN”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "26",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2016-05-20",
+  "published": "2016-06-16",
+  "in_force": "2016-06-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/b5eb3004a6d3248c8d966db7521c6e7539617cf36b6ee7adae38d663f72c9f6d.docx",
+  "source_sha256": "b5eb3004a6d3248c8d966db7521c6e7539617cf36b6ee7adae38d663f72c9f6d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66555",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/05/20/26",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    55907
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
