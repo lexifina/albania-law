@@ -1,0 +1,1 @@
+4. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Ura Vajgurore, janë sipas shtojcës 2, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 129 (njëqind e njëzet e nëntë).

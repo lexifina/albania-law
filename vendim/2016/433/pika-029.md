@@ -1,0 +1,1 @@
+29. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Libohovë, janë sipas shtojcës 27, bashkë-lidhur të këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 215 (dyqind e pesëmbëdhjetë).

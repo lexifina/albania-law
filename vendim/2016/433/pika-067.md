@@ -1,0 +1,1 @@
+67. Heqjen nga listat e inventarit të pronave të paluajtshme publike në territorin administrativ të njësive të vetëqeverisjes vendore, të miratuara me vendim të Këshillit të Ministrave, të pronave të tipit pyje kullota, të inventarizuara sipas formularit 2, përcaktuar në shtojcën 62, bashkëlidhur këtij vendi-mi.

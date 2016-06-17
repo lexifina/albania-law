@@ -1,0 +1,1 @@
+3. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Berat, janë sipas shtojcës 1, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 149 (një mijë e njëqind e dyzet e nëntë).

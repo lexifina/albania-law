@@ -1,0 +1,1 @@
+54. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Vorë, janë sipas shtojcës 52, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 89 (tetëdhjetë e nëntë).

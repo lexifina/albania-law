@@ -1,0 +1,1 @@
+34. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Dropull, janë sipas shtojcës 32, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 481 (katërqind e tetëdhjetë e një).

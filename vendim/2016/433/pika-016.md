@@ -1,0 +1,1 @@
+16. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Cërrik, janë sipas shtojcës 14, bashkë-lidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 186 (njëqind e tetëdhjetë e gjashtë).

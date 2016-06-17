@@ -1,0 +1,1 @@
+37. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Pustec, janë sipas shtojcës 35, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 11 (njëmbë-dhjetë).

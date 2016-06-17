@@ -1,0 +1,1 @@
+44. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Lezhë, janë sipas shtojcës 42, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 093 (një mijë e nëntëdhjetë e tre).

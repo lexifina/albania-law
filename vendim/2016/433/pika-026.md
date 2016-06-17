@@ -1,0 +1,1 @@
+26. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Divjakë, janë sipas shtojcës 24, bashkë-lidhur këtij vendimi, e cila përmban listën e inventa-rit që fillon me numrin rendor 1 (një) deri 52 (pesëdhjetë e dy).

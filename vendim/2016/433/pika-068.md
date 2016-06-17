@@ -1,0 +1,1 @@
+68. Me hyrjen në fuqi të këtij vendimi, shfuqizo-hen, sipas shtojcës 62 bashkëlidhur, vendimet e Këshillit të Ministrave për transferimin e pronave të tipit pyje dhe kullota në pronësi/përdorim të njësive të qeverisjes vendore.

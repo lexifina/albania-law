@@ -1,0 +1,1 @@
+61. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Finiq, janë sipas shtojcës 59, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 527 (pesëqind e njëzet e shtatë).

@@ -1,0 +1,1 @@
+11. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Klos, janë sipas shtojcës 9, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 209 (një mijë e dyqind e nëntë).

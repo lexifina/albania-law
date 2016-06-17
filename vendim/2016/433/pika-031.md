@@ -1,0 +1,1 @@
+31. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Memaliaj, janë sipas shtojcës 29, bashkë-lidhur këtij vendimi, e cila përmban listën e inventa-rit që fillon me numrin rendor 1 (një) deri 643 (gjashtëqind e dyzet e tre).

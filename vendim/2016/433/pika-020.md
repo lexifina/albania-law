@@ -1,0 +1,1 @@
+20. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, si dhe asetet e tjera që transferohen në pronësi të Bashkisë Librazhd, janë sipas shtojcës 18, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 534 (një mijë pesëqind e tridhjetë e katër).

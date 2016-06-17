@@ -1,0 +1,1 @@
+58. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Himarë, janë sipas shtojcës 56, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 927 (nëntëqind e njëzet e shtatë).

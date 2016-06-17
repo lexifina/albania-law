@@ -1,0 +1,1 @@
+30. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Tepelenë, janë sipas shtojcës 28, bashkë-lidhur këtij vendimi, e cila përmban listën e inventa-rit që fillon me numrin rendor 1 (një) deri 688 (gjashtëqind e tetëdhjetë e tetë).

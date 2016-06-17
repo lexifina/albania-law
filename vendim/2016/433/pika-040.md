@@ -1,0 +1,1 @@
+40. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Pogradec, janë sipas shtojcës 38, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 909 (nëntëqind e nëntë).

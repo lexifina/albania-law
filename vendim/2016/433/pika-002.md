@@ -1,0 +1,1 @@
+2. Të drejtat dhe detyrimet e personave fizikë/ juridikë të fituara me kontratat ekzistuese për marrjen në përdorim të sipërfaqeve të fondit pyjor dhe kullosor vazhdojnë deri në përfundimin e tyre, sipas parashikimeve kontraktore dhe legjislacionit në fuqi.

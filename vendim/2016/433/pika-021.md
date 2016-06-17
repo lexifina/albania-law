@@ -1,0 +1,1 @@
+21. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Përrenjas, janë sipas shtojcës 19, bashkë-lidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 009 (një mijë e nëntë).

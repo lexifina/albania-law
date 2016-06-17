@@ -1,0 +1,1 @@
+39. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Devoll, janë sipas shtojcës 37, bashkë-lidhur këtij vendimi, e cila përmban listën e inventa-rit që fillon me numrin rendor 1 (një) deri 486 (katërqind e tetëdhjetë e gjashtë).

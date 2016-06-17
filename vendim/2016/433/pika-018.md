@@ -1,0 +1,1 @@
+18. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Peqin, janë sipas shtojcës 16, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 162 (njëqind e gjashtëdhjetë e dy).

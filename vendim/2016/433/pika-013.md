@@ -1,0 +1,1 @@
+13. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Shijak, janë sipas shtojcës 11, bashkë-lidhur këtij vendimi, e cila përmban listën e inventa-rit që fillon me numrin rendor 1 (një) deri 31 (tridhjetë e një).

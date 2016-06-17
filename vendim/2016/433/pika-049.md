@@ -1,0 +1,1 @@
+49. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Vau i Dejës, janë sipas shtojcës 47, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 340 (një mijë e treqind e dyzet).

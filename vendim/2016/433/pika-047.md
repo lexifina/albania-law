@@ -1,0 +1,1 @@
+47. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Malësi e Madhe, janë sipas shtojcës 45, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 3 216 (tre mijë e dyqind e gjashtëmbëdhjetë).

@@ -1,0 +1,1 @@
+36. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Maliq, janë sipas shtojcës 34, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 108 (një mijë e njëqind e tetë).

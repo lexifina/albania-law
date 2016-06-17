@@ -1,0 +1,1 @@
+65. Ministri i Mjedisit dhe kryetarët e bashkive përcaktojnë personat përgjegjës si anëtarë të komi-sioneve të përbashkëta, brenda 20 (njëzet) ditëve pune nga data e hyrjes në fuqi të këtij vendimi. Komisionet përbëhen nga 4 (katër) anëtarë, nga të cilët 2 (dy) janë përfaqësues të Ministrisë së Mjedisit dhe 2 (dy) janë përfaqësues të bashkisë.

@@ -1,0 +1,1 @@
+42. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Has, janë sipas shtojcës 40, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 242 (një mijë e dyqind e dyzet e dy).

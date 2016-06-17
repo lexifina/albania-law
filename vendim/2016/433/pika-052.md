@@ -1,0 +1,1 @@
+52. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Tiranë, janë sipas shtojcës 50, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 2 534 (dy mijë e pesëqind e tridhjetë e katër).

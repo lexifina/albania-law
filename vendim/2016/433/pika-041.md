@@ -1,0 +1,1 @@
+41. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Kukës, janë sipas shtojcës 39, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 3 152 (tre mijë e njëqind e pesëdhjetë e dy).

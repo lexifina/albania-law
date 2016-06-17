@@ -1,0 +1,1 @@
+14. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Krujë, janë sipas shtojcës 12, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 711 (shtatë-qind e njëmbëdhjetë).

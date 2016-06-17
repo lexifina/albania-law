@@ -1,0 +1,1 @@
+55. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Kavajë, janë sipas shtojcës 53, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 147 (njëqind e dyzet e shtatë).

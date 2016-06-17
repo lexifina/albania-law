@@ -1,0 +1,1 @@
+62. Sipërfaqet pyjore dhe kullosore sipas listës së inventarit, që transferohen në pronësi të Bashkisë Delvinë, janë sipas shtojcës 60, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 351 (treqind e pesë-dhjetë e një).

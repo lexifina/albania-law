@@ -1,0 +1,1 @@
+10. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Mat, janë sipas shtojcës 8, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 1 752 (një mijë e shtatëqind e pesëdhjetë e dy).

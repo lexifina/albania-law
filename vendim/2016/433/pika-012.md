@@ -1,0 +1,1 @@
+12. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Durrës, janë sipas shtojcës 10, bashkëlidhur këtij vendimi, e cila përmban listën e inventtarit që fillon me numrin rendor 1 (një) deri 427 (katërqind e njëzet e shtatë).

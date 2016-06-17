@@ -1,0 +1,1 @@
+45. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bash-kisë Mirditë, janë sipas shtojcës 43, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 4 672 (katër mijë e gjashtëqind e shtatëdhjetë e dy).

@@ -1,0 +1,1 @@
+32. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Përmet, janë sipas shtojcës 30, bashkë-lidhur këtij vendimi, e cila përmban listën e inventa-rit që fillon me numrin rendor 1 (një) deri 631 (gjashtëqind e tridhjetë e një).

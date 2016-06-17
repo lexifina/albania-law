@@ -1,0 +1,1 @@
+48. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Shkodër, janë sipas shtojcës 46, bashkë-lidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 2 160 (dy mijë e njëqind e gjashtëdhjetë).

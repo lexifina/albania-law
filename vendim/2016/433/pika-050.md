@@ -1,0 +1,1 @@
+50. Sipërfaqet pyjore dhe kullosore, sipas listës së inventarit, që transferohen në pronësi të Bashkisë Pukë, janë sipas shtojcës 48, bashkëlidhur këtij vendimi, e cila përmban listën e inventarit që fillon me numrin rendor 1 (një) deri 2 763 (dy mijë e shtatëqind e gjashtëdhjetë e tre).
