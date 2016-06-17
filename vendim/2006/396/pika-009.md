@@ -1,1 +1,0 @@
-9. Kur një njësi e qeverisjes vendore nuk zbaton kriteret dhe kërkesat për përdorimin e pyllit komunal, ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, i propozon Këshillit të Ministrave shfuqizimin e së drejtës së përdorimit të tij.

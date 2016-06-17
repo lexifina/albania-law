@@ -1,1 +1,0 @@
-1. Njësitë e qeverisjes vendore, për marrjen, në pronësi ose në përdorim të pyjeve, prona publike të paluajtshme të shtetit, paraqesin kërkesën sipas procedurave të përcaktuara në ligjin nr.8744, datë 22.2.2001 “Për transferimin e pronave publike të shtetit në njësitë e qeverisjes vendore”.

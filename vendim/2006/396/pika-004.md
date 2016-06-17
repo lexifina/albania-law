@@ -1,1 +1,0 @@
-4. Njësia e qeverisjes vendore, pas hyrjes në fuqi të vendimit të Këshillit të Ministrave për kalimin në pronësi, bën regjistrimin e sipërfaqes pyjore në zyrën e regjistrimit të pasurive të paluajtshme.
