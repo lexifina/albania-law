@@ -1,0 +1,1 @@
+14. Kur një kurs është përditësuar, pjesë të përmbajtjes së kursit, të cilat nuk janë ndryshuar duhet të jenë në gjendje të përsëriten, duhet të ofrojnë mundësinë për ndërveprim, shënimet e përdorimit, rekordin e punës së kryer dhe të performancës;

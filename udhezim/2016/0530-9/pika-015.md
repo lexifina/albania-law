@@ -1,0 +1,1 @@
+15. Filet duhet të organizohen në dosje që korrespondojnë me kapitujt apo objektivat mësimorë apo katalogët e përmbajtjes, duhet të përfshijnë: 1. Shënimet që përshkruajnë modulet, mësimet, objektivat e veçantë të të mësuarit apo aktivitetet që duhen përmbushur; 2. Vlerësimet e kohës së nevojshme për të përfunduar aktivitetet etj.;

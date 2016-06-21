@@ -1,0 +1,1 @@
+10. Video, audio, animacionet ose materialet e tjera shtesë duhet të jenë funksionale me shpejtësitë nga dial-up, DSL, modem kabllor apo LAN, të jenë disponibël në bandwidth të ulët dhe të lartë, në rastet kur interneti nuk është disponibël në shkolla të mund të aksesohen edhe offline;
