@@ -1,0 +1,1 @@
+7. Komisioni harton raportin e vlerësimit të kandidatëve dhe mbi bazën e vlerësimit, i propozon kryetarit të këshillit të qarkut, kandi-datët e përzgjedhur për anëtarë të Këshillit Vendor të Arsimit Parauniversitar.

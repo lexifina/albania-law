@@ -1,0 +1,1 @@
+4. Kandidati për anëtar i Këshillit Vendor të Arsimit Parauniversitar konkurron me dosje personale, e cila paraqitet në protokollin e qarkut ose përmes shërbimit postar, sipas afateve të shpallura nga qarku.
