@@ -1,0 +1,1 @@
+8. Për shkollat e pakicës kombëtare greke, teza për provimin në lëndën Gjuhë amtare, përgatitet nga DAR Gjirokastër. Zyra Arsimore Delvinë dhe Zyra Arsimore Sarandë tërheqin në DAR Gjirokastër tezën ditën e provimit.

@@ -1,0 +1,1 @@
+3. Lista e gjuhëve të huaja, që do të jepen si provim i detyruar, janë: Anglisht, Italisht, Frëngjisht dhe Gjermanisht. Testi i gjuhës/ve të huaj/a hartohet në përputhje me gjuhën e cila në planin mësimor të arsimit të mesëm të ulët, trajtohet si gjuhë e huaj e detyruar në nivelin gjuhësor A2.
