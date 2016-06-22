@@ -1,0 +1,1 @@
+3. Prona e përcaktuar në pikën 1 të këtij vendimi, i shtohet listës së inventarit të pronave të paluajtshme shtetërore të Bashkisë Kukës, për njësinë administrative Shishtavec, që i bashkëlidhet vendimit nr. 458, datë 6.5.2009, të Këshillit të Ministrave.

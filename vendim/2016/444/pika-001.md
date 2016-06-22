@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Kukës, për njësinë administrative Shishtavec, të pronës “Posta e Policisë Kufitare Novosej”, me vendndodhje në zonën kadastrale 2812, me sipërfaqe 2 800 (dy mijë e tetëqind) m2 dhe nr. rendor 58-63, sipas formu-larit bashkëlidhur, për t’u përdorur për funksione publike dhe zhvillimin e turizmit.
