@@ -1,0 +1,212 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+SEKTORI I SHPRONËSIMEVE
+AUTORITETI RRUGOR SHQIPTAR
+LISTA E PRONARËVE QË SHPRONËSOHEN NGA NDËRTIMI I SEGMENTIT RRUGOR
+”BULQIZË-URA E ÇERENEÇIT”
+Lloji pas. Are
+Lloji pas. Truall
+Lloji pas.
+PRONARI
+Sip.
+Çmimi
+Vlera
+Sip.
+Çmimi
+Vlera
+Kultura Bujq.
+SHUMA
+NR.
+Emri
+Mbiemri
+Z.Kad
+Nr. i pasurisë
+Shpron. (m2)
+(leke/m2)
+(Lekë)
+(m2)
+(Lekë)
+(Lekë)
+Drufrutore
+LEKË
+Shënime
+1
+Mustafa
+Sula
+3694
+767/6
+90
+100
+9000
+9000
+Konf. ZVRPP
+2
+Shkelqim
+Gjini
+1660
+1
+1284
+100
+128400
+128400
+Konf. ZVRPP
+3
+Rabie
+Zeneli
+1660
+2
+128
+100
+12800
+12800
+Konf. ZVRPP
+4
+Tahir
+Kica
+1660
+130
+98
+100
+9800
+98100
+Konf. ZVRPP
+5
+Tahir
+Kica
+1660
+94
+172
+100
+17200
+17200
+Konf. ZVRPP
+6
+Tahir
+Kica
+1660
+95
+83
+100
+8300
+8300
+Konf. ZVRPP
+7
+Tahir
+Kica
+1660
+9
+220
+100
+22000
+22000
+Konf. ZVRPP
+8
+Tahir
+Kica
+1660
+50
+233
+100
+23300
+23300
+Konf. ZVRPP
+9
+Mehdi
+Kica
+1660
+51
+132
+100
+13200
+13200
+Konf. ZVRPP
+10
+Esat
+Kica
+1660
+69
+64
+100
+6400
+6400
+Konf. ZVRPP
+11
+Lavdie
+Disha
+1660
+1477
+279
+100
+27900
+27900
+Konf. ZVRPP
+12
+Sinan
+Alliu
+1660
+733
+346
+100
+34600
+34600
+Konf. ZVRPP
+13
+Isuf
+Bala
+1660
+735
+454
+100
+45400
+45400
+Konf. ZVRPP
+14
+Agim
+Kurcani
+2262
+111/13
+245
+100
+24500
+24500
+Konf. ZVRPP
+15
+Dilaver
+Mera
+2262
+29/3
+170
+100
+17000
+56170
+73170
+Konf. ZVRPP
+16
+Muharrem
+Mera
+2262
+112/3
+68565
+68565
+Konf. ZVRPP
+17
+Beqir
+Dervishi
+2262
+38/1
+550603
+550603
+Konf. ZVRPP
+18
+Ilir
+Xhafa
+1660
+993/1
+11
+110
+1210
+1210
+Konf. ZVRPP
+SHUMA
+1164648
