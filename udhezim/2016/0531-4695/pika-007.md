@@ -1,0 +1,1 @@
+7. Brenda 5 ditësh nga data e regjistrimit të lejes së legalizimit, ZVRPP-ja i kërkon ALUI-ZNI-t të njoftojë subjektin përfitues për të kryer pagesën e tarifave të shërbimit në llogarinë bankare të ZVRPP -së.

@@ -1,0 +1,1 @@
+15. Për rastet e parashikuara në ligjin nr. 9482, datë 3.4.2006, të ndryshuar, dhe në aktet nënli-gjore, ALUIZNI në aplikimin për regjistrim të lejes së legalizimit, kërkon edhe regjistrimin e hipotekës ligjore mbi pasurinë e legalizuar, që në momentin e aplikimit online nëpërmjet sistemit IPS, sipas pikës 2 të këtij udhëzimi.

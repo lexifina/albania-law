@@ -1,0 +1,1 @@
+3. Aplikimi për regjistrim përmban emrin, mbiemrin, orientimin faktik të vendndodhjes, numrin e telefonit celular dhe ka të përcaktuar si datë aplikimi, atë të plotësimit të tij në sistemin dixhital (IPS).

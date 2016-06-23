@@ -1,0 +1,1 @@
+9. Në rastet e parashikuara në pikën 8 të këtij udhëzimi, drejtoria e ALUIZNI-t kryen proce-durat e nevojshme, plotëson dhe ridërgon dokumentacionin, brenda 10 ditëve pune nga data e administrimit të njoftimit me shkrim të regjistruesit.

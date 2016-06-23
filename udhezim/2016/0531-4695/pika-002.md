@@ -1,0 +1,1 @@
+2. Aplikimi për regjistrim bëhet nga drejtoritë e ALUIZNI-t nëpërmjet formularit “Tip”, që i bashkëlidhet këtij udhëzimi, pa pagesë “aplikim zero”, në mënyrë elektronike, nëpërmjet sistemit dixhital (IPS). Në zbatim të kësaj pike, autori-zohet aksesi i drejtorive të ALUIZNI-t në këtë sistem, në përputhje me rregullat e sigurisë sipas legjislacionit në fuqi.

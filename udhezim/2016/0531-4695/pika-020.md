@@ -1,0 +1,1 @@
+20. Fshirja e hipotekës ligjore i njoftohet zyrtarisht me shkrim ZVRPP-së nga ALUIZNI, jo më vonë se 5 ditë pune nga dorëzimi i vërtetimit të pagesës së detyrimit financiar nga subjekti përfitues. Njoftimi shoqërohet nga kopje e vërtetimit të pagesës dhe kopje e formularit “Tip” të aplikimit.

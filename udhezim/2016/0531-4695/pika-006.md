@@ -1,0 +1,1 @@
+6. Regjistruesi brenda 10 ditëve punë nga data e paraqitjes së kërkesës, është i detyruar të kryejë regjistrimin, pasi ka verifikuar nëse dokumenta-cioni i dorëzuar është i plotë dhe i saktë, mbështetur në përcaktimet e kreut II të vendimit të Këshillit të Ministrave nr. 1095, datë 28.12.2015.

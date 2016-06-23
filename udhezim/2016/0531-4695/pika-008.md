@@ -1,0 +1,1 @@
+8. Regjistruesi, në rast se konstaton se ka mangësi në dokumentacionin që shoqëron lejen e legalizimit apo pasaktësi, që e detyrojnë të mos kryejë regjistrimin, njofton drejtorinë e ALUIZNI-t, për plotësimin e tyre brenda afatit të përcaktuar në pikën 6 të këtij udhëzimi.

@@ -1,0 +1,1 @@
+18. Me kërkesë zyrtare me shkrim të drejtorisë së ALUIZNI-t, regjistruesi vendos kufizimin mbi pasurinë e legalizuar, të subjektit debitor, sipas përcaktimeve të bëra në pikat 22, 23 të vendimit të Këshillit të Ministrave nr. 1095, datë 28.12.2015.
