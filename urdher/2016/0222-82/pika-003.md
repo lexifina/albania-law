@@ -1,0 +1,1 @@
+3. Të gjitha shpenzimet për kryerjen e procedurave për transferimin e nxënësve, në zbatim të këtij urdhri, të përballohen nga ana e institucioneve arsimore private të përmendura në pikën 1 të këtij urdhri/personit juridik privat që i përfaqëson, shoqërisë “Flabina”.

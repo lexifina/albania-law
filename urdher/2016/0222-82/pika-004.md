@@ -1,0 +1,3 @@
+4. Drejtoria Arsimore Rajonale e Qytetit Tiranë, ka për detyrë:
+a) Të ngrejë brenda datës 25.2.2016, grup të posaçëm pune për monitorimin e zbatimit të këtij urdhri për institucionet arsimore private parauniversitare të përmendura në pikën 1 të këtij urdhri, që i përkasin shoqërisë “Flabina”. Grupi i punës të menaxhojë transferimin e nxënësve në institucionet e arsimit parauniver-sitar publik.
+b) Të ruajë në arkivin e saj dhe më tej të arkivojë, sipas ligjit për arkivat, dokumentacionin e dorëzuar nga institucionet arsimore private parauniversitare, të përmendura në pikën 1 të këtij urdhri, që i përkasin shoqërisë “Flabina”.
