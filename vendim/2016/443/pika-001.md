@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të prona-ve të paluajtshme publike shtetërore, brenda juridiksionit territorial dhe administrativ të njësisë administrative Patos, të Bashkisë Patos, që transferohen në pronësi ose në përdorim të saj, sipas lidhjes 1, që i bashkëlidhet këtij vendi-mi dhe është pjesë përbërëse e tij.
+Lista e inventarit të njësisë administrative Patos përbëhet nga 56 (pesëdhjetë e gjashtë) fletë, që i bashkëlidhet këtij vendimi, dhe përfu-ndon me numrin rendor 300 (treqind).
