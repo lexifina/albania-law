@@ -1,0 +1,2 @@
+1. Pas pikës 9, të vendimit nr.1093, datë 28.12.2015, të Këshillit të Ministrave, shtohet pika 9/1, me këtë përmbajtje:
+“9/1. Përjashtimisht për vitin 2016, edhe në rastet kur njësitë e qeverisjes vendore nuk kanë fonde të miratuara në buxhetin e tyre për bonus strehimi, buxheti i shtetit do të përballojë deri në 50% të qirasë, ndërkohë që pjesën e mbetur e përballon qytetari që përfiton bonusin e strehimit. Bashkitë paraqesin kërkesat për bonus strehimi brenda datës 30 shtator 2016.”.
