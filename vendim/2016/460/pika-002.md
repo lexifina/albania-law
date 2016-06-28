@@ -1,0 +1,1 @@
+2. Personat e tatueshëm, që plotësojnë kriteret sipas pikës 1, të këtij neni, rimbursohen auto-matikisht brenda 30 ditëve nga data e paraqitjes së kërkesës për rimbursim të TVSH-së, si persona me risk zero.
