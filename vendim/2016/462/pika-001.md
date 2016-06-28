@@ -1,0 +1,1 @@
+1. Lidhja nr. 1, “Niveli i pagës për gradë, sipas roleve për punonjësit e Gardës së Republikës së Shqipërisë”, bashkëlidhur vendimit nr. 561, datë 16.8.2006, të Këshillit të Ministrave, të ndryshuar, zëvendësohet me lidhjen me të njëjtin numër dhe titull, që i bashkëlidhet këtij vendimi.
