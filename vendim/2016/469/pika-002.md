@@ -1,0 +1,1 @@
+2. Plani i bashkëmenaxhimit për zonën e liqenit të Shkodrës dhe lumit Buna miratohet me urdhër të ministrit të Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, brenda 12 muajve nga data e miratimit të kësaj zone.

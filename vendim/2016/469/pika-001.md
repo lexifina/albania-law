@@ -1,0 +1,1 @@
+1. Shpalljen e liqenit të Shkodrës dhe të lumit Buna, nga grykëderdhja deri në pikën e bashkimit me liqenin e Shkodrës, si zonë bashkëmenaxhuese peshkimi, duke pasur parasysh statusin si zonë natyrore veçanërisht e mbrojtur dhe si habitat i shpendëve ujorë, të përfshirë në listën e Konventës Ramsar, për të ushtruar aktivitetin e peshkimit tradicional.
