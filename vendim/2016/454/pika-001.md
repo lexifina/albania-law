@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimi dhe Sportit, në buxhetin e miratuar për vitin 2016, zëri “Shpenzime korrente”, t’i shtohet fondi prej 1 000 000 (një milion) eurosh, për shpërblimin e Ekipit Kombëtar të Futbollit.
