@@ -1,0 +1,6 @@
+1. Në buxhetin e vitit 2016, miratuar për Ministrinë e Mirëqenies Sociale dhe Rinisë, të bëhet rishpërndarja e fondeve për shpenzime korrente, ndërmjet programeve, si më poshtë vijon:
+a) Programit “Përkujdesja sociale”, tit. 10430, kap. 1, art. 602, “Mallra e shërbime të tjera (për pajisjen me dekoder, sipas përcaktimeve të vendimit të Këshillit të Ministrave nr. 480/2015 dhe specifikimeve teknike të vendimit nr. 38/2015 të Autoritetit të Mediave Audiovizive, të familjeve në nevojë, përfituese nga skema e ndihmës ekonomike)”, t’i shtohet fondi prej 180 000 000 (njëqind e tetëdhjetë milionë) lekësh;
+b) Programit “Tregu i punës”, tit. 10550, kap. 1, art. 606, “Transferta për buxhetet familjare dhe individët”, t’i pakësohet fondi prej 130 000 000 (njëqind e tridhjetë milionë) lekësh;
+c) Programit “Tregu i punës”, tit. 10550, kap. 1, art. 602, “Mallra e shërbime të tjera”, t’i pakësohet fondi prej 20 000 000 (njëzet milionë) lekësh;
+ç) Programit “Përfshirja sociale”, tit. 10460, kap. 1, art. 602, “Mallra e shërbime të tjera”, t’i pakësohet fondi prej 10 000 000 (dhjetë milionë) lekësh;
+d) Programit “Arsimi i mesëm profesional”, tit. 09240, kap. 1, art. 602, “Mallra e shërbime të tjera”, t’i pakësohet fondi prej 20 000 000 (njëzet milionë) lekësh.
