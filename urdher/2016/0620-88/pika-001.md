@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Integrimit Europian, zëvendësministrit të Ministrisë së Integrimit Europian, znj. Eralda Çani, për miratimin e kryerjes së pagesës së pagave në kuadër të asistencës teknike të programit të bashkëpunimit ndërkufitar IPA CBC Greqi-Shqipëri, kompetenti II.
