@@ -1,0 +1,6 @@
+UDHËZIM
+Nr. 292, datë 17.6.2016
+PËR DISA SHTESA DHE NDRYSHIME NË UDHËZIMIN NR. 687, DATË 5.12.2013,
+“PËR MËNYRËN E EVIDENTIMIT DHE SHQYRTIMIT TË KUNDËRVAJTJEVE ADMINISTRATIVE, PROCEDURAT QË NDIQEN PËR MASAT ADMINISTRATIVE PLOTËSUESE, ADMINISTRIMI I GJOBAVE DHE PASQYRAT STATISTIKORE NË FUSHËN E QARKULLIMIT RRUGOR”, I NDRYSHUAR
+Në mbështetje të pikës 4, të nenit 102, të Kushtetutës, të pikës 1, të nenit 11, pikës 1/a, b, të nenit 12 dhe nenit 201, të ligjit nr. 8378, datë 22.7.1998, “Kodi Rrugor i Republikës së Shqipërisë”, i ndryshuar, të ligjit nr. 8485, datë 12.5.1999, “Kodi i Procedurave Administrative i Republikës së Shqipërisë”, i ndryshuar, të ligjit nr. 10279, datë 20.5.2010, “Për kundërvajtjet administrative”, neneve 2 dhe 4/c, të ligjit nr. 9900, datë 10.4.2008, “Për rezervat materiale të shtetit”, si dhe pikës 2/b, të vendimit të Këshillit të Ministrave nr. 1128, datë 5.8.2008, “Për krijimin dhe administrimin e mallrave rezervë materiale shtetërore”, me qëllim që të ketë unifikim në shqyrtimin dhe evidentimin e kundërvajtjeve në fushën e qarkullimit rrugor, mënyrën e administri-mit të gjobave, si dhe procedurat që ndiqen për masat administrative plotësuese për kundërvajtjet në fushën e qarkullimit rrugor,
+UDHËZOJ:

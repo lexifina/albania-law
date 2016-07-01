@@ -1,0 +1,10 @@
+1. Në kreun A “Evidentimi dhe shqyrtimi i kundërvajtjeve administrative”, bëhen këto shtesa dhe ndryshime:
+1.1 Pas pikës 12 shtohet pika 12/1 me këtë përmbajtje:
+“12/1. Ndaj vendimeve të Organit Adminis-trativ Shtetëror, kur nuk është bërë ankim në Gjykatë sipas nenit 202 të Kodit Rrugor, mund të bëhet ankim brenda 5 ditëve nga shpallja e vendimit, në organin administrativ më të lartë për shqyrtimin e ankimeve, në Drejtorinë e Policisë Rrugore, në Drejtorinë e Përgjithshme për Sigurinë Publike.
+Organi administrativ më i lartë, kur konstaton shkelje të procedurave ose mospërputhje me aktet ligjore dhe nënligjore, në zbatim të Kodit të Procedurave Administrative, shprehet përfundi-misht me vendim, si dhe i propozon drejtorit të Policisë Rrugore, masat për përmirësimin e gjendjes apo dhe ato disiplinore për personat përgjegjës, sipas procedurave përkatëse disiplinore.
+Organi Administrativ më i lartë përbëhet nga kryetari dhe 2 anëtarë:
+Kryetari dhe anëtarët, propozohen nga drejtori i Policisë Rrugore dhe miratohen nga drejtori i përgjithshëm për sigurinë publike.”.
+1.2 Pika 17, ndryshon dhe bëhet si më poshtë:
+“17. Aktiviteti i Organit Administrativ Shtetëror, si dhe i organit administrativ më të lartë për shqyrtimin e ankimeve, në çdo rast pasqyrohet në protokoll të veçantë, ku pasqyrohen deklarimet e shtetasit, të anëtarëve të organit administrativ, si dhe vendimet e marra.”.
+1.3 Pas paragrafit të dytë të pikës 19 shtohet një paragraf me këtë përmbajtje:
+“Në rastet kur drejtuesi i mjetit është shtetas shqiptar me banim jashtë vendi apo shtetas i huaj me aktivitet në Shqipëri dhe afati kohor i pezullimit të lejedrejtimit si më sipër është më i shkurtër se sa afati i qëndrimit apo ushtrimit të aktivitetit në Shqipëri (gjithmonë më pak se një vit), mbi bazën e kërkesës së drejtuesit të mjetit, Sektori i Policisë Rrugore dërgon menjëherë lejen e drejtimit së bashku me kërkesën e paraqitur në OASH, e cila ndjek të njëjtat procedura si për lejet e drejtimit të vendit, për administrim dhe kthim pas përfundimit të afatit të pezullimit”.

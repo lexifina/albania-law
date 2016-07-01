@@ -1,0 +1,1 @@
+3. Ngarkohen Drejtoria e Policisë së Shtetit dhe njësitë shpenzuese në përbërje të programit “Policia e Shtetit”, prefekti i qarkut dhe Drejtoria e Përgjithshme e Rezervave Materiale të Shtetit, për zbatimin e këtij udhëzimi.

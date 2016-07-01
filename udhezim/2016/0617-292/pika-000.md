@@ -1,0 +1,1 @@
+Në udhëzimin nr. 687, datë 5.12.2013, “Për mënyrën e evidentimit dhe shqyrtimit të kundërvajtjeve administrative, procedurat që ndiqen për masat administrative plotësuese, administrimi i gjobave dhe pasqyrat statistikore në fushën e qarkullimit rrugor”, i ndryshuar, bëhen këto shtesa dhe ndryshime:
