@@ -1,2 +1,0 @@
-# Shtojca
-Ilir Meta
