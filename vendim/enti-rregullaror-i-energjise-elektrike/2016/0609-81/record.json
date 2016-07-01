@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15435,
+  "title": "MBI LICENCIMIN E SHOQËRISË “DEVOLL HYDROPOWER” SHA, NË AKTIVITETIN E FURNIZIMIT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "81",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-06-09",
+  "published": "2016-07-01",
+  "in_force": "2016-07-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f8468a930c49ebc3d1c6cd4d0585158d4fba9bd5e7ec0bc3b33da9078206a760.docx",
+  "source_sha256": "f8468a930c49ebc3d1c6cd4d0585158d4fba9bd5e7ec0bc3b33da9078206a760",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15435",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/06/09/81",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
