@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet vendimi i Komisionit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore nr. 3/2015, për ndryshimin e vendimit të Komisionit të Përbashkët të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore 3/2013, në lidhje me aneksin 4, të Marrëveshjes së Tregtisë së Lirë të Evropës Qendrore (CEFTA 2006), protokolli për përkufizimin e konceptit të “Produkteve të origjinës” dhe metodave të bashkëpunimit administrativ, të referuara në nenin 14, paragrafët 1 e 3, sipas tekstit bashkëlidhur këtij ligji.
