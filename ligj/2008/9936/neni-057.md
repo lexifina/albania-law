@@ -1,0 +1,8 @@
+# Neni 57
+Autoriteti për të marrë hua
+Ministri i Financave, në emër të Këshillit të Ministrave ose Republikës së Shqipërisë, është i vetmi autoritet, në nivel qendror, që ka të drejtën e marrjes së huave, në emër të Republikës së Shqipërisë ose Këshillit të Ministrave të Republikës së Shqipërisë, nëpërmjet instrumenteve financiare dhe marrëveshjeve dypalëshe ose shumëpalëshe, për të financuar deficitin buxhetor të shtetit, mungesën e përkohshme të likuiditetit, rifinancimin e borxhit shtetëror, për të paguar garancitë shtetërore, koston e emetimit të borxhit shtetëror, për të përballuar koston e shkaktuar nga fatkeqësitë natyrore, si dhe për financimin e projekteve, në përputhje me dispozitat kushtetuese dhe me ligjet në fuqi. Ai është i vetmi autoritet që jep garanci shtetërore të huas.
+Ministri i Financave është autoriteti që negocion e vendos për kushtet thelbësore të marrëveshjeve të huas dhe nënshkruan këto marrëveshje, në emër të Republikës së Shqipërisë ose të Këshillit të Ministrave.
+Ministri i Financave është autoriteti që emeton instrumentet e huas dhe ka të drejtën e zgjedhjes së llojit të instrumenteve, të karakteristikave e kushteve të tyre.
+Ministri i Financave është autoriteti që ka të drejtën e marrjes së huave, brenda limiteve të përcaktuara në ligjin e buxhetit vjetor, nga persona juridikë dhe/ose fizikë.
+Këshilli i njësisë së qeverisjes vendore është autoriteti që ka të drejtën e marrjes së huave dhe dhënien e garancive, brenda dhe jashtë vendit, për huan vendore.
+Huaja afatgjatë vendore dhe garancitë miratohen, paraprakisht, nga Ministri i Financave, lidhur me procedurat, limitet dhe efektet e saj.

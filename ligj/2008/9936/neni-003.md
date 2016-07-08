@@ -1,0 +1,52 @@
+# Neni 3
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+1. “Buxhet” është tërësia e të ardhurave, shpenzimeve dhe financimeve të qeverisjes qendrore e vendore dhe të fondeve speciale, të cilat miratohen me ligj nga Kuvendi i Shqipërisë, më poshtë “Kuvendi” ose me vendim të këshillit të njësisë së qeverisjes vendore.
+2. “Ligj i buxhetit vjetor” është ligji që miraton të ardhurat, shpenzimet dhe financimet e Buxhetit të Shtetit, fondet speciale qendrore dhe transfertat nga Buxheti i Shtetit për njësitë e qeverisjes vendore, për vitin buxhetor.
+3. “Fond special” është fondi i krijuar me ligj, i cili ka si burime të ardhurat tatimore ose jotatimore, që përdoren vetëm për financimin e funksioneve apo të veprimtarive të veçanta të qeverisjes qendrore apo vendore.
+4. “Njësi të qeverisjes së përgjithshme” janë tërësia e njësive të qeverisjes qendrore, vetë-qeverisjes vendore dhe të fondeve speciale.
+5. “Njësi të qeverisjes qendrore” janë njësitë e pushtetit ekzekutiv, legjislativ dhe gjyqësor, të krijuara me Kushtetutë, ligj ose vendim të Këshillit të Ministrave, që kanë si veprimtari të tyre parësore përmbushjen e funksioneve të qeverisjes qendrore.
+6. “Njësi të qeverisjes vendore” janë njësitë e niveleve të ndryshme vendore, të krijuara me ligj, që kanë si veprimtari të tyre parësore përmbushjen e funksioneve të qeverisjes vendore, brenda një territori të caktuar.
+7. “Njësi e fondeve speciale” është njësia e krijuar me ligj për të ushtruar funksione specifike të qeverisjes qendrore dhe vendore.
+8. “Njësi shpenzuese” është njësia më e vogël organizative e njësive të qeverisjes së përgjithshme, për të cilën janë detajuar fondet buxhetore.
+9. “Fond i miratuar” është kufiri maksimal i miratuar me ligjin të buxhetit vjetor ose me vendim të organeve vendimmarrëse të njësive të qeverisjes vendore, brenda të cilit njësitë e qeverisjes së përgjithshme kanë të drejtë të bëjnë shpenzime.
+10. “Fond i shpërndarë” është fondi i miratuar sipas klasifikimit buxhetor dhe i vënë në dispozicion të njësisë së qeverisjes së përgjithshme.
+11. “Fond i detajuar” është fondi i shpërndarë sipas klasifikimit buxhetor, i detajuar në nivel njësie shpenzimi.
+12. “Fond i rishpërndarë” është fondi, që rezulton nga shtesa dhe pakësime të balancuara të fondit të detajuar më parë.
+13. “Plan i arkës” është parashikimi i të hyrave dhe të dalave të mjeteve monetare të njësive të qeverisjes së përgjithshme.
+14. “Shumë e autorizuar për shpenzim” është kufiri maksimal periodik i shpenzimeve në nivel njësie shpenzuese.
+15. “Fond rezervë” është fondi, që krijohet për të financuar shpenzime jo të përhershme dhe të paparashikuara, në fazën e përgatitjes së buxhetit.
+16. “Fond kontingjence” është fondi i pashpërndarë, që krijohet për të mbuluar risqet e mundshme, për të ardhurat dhe shpenzimet, gjatë zbatimit të buxhetit.
+17. “Shpenzim” është pakësimi i pasurisë neto, e cila përfundon me kryerjen e pagesave kapitale ose korrente, të pakthyeshme, me ose pa detyrim kthimi.
+18. “E ardhur” është rritja e pasurisë neto, e cila përfundon me arkëtime kapitale ose korrente, me ose pa detyrim kthimi.
+19. “Grant” është e ardhura, e përftuar në formën e dhurimit, për një qëllim të përcaktuar ose jo, pa kusht kthimi dhe pa interes, që përdoret për financimin e veprimtarive ekonomike.
+20. “Borxh” është shuma e huave të marra në tregun bankar, financiar dhe nga palë të treta, persona fizikë, juridikë ose individë, me kusht kthimi, me ose pa interes, për financimin e projekteve të caktuara të investimeve, mungesës së përkohshme të likuiditeteve dhe të deficitit fiskal buxhetor.
+21. “Hua afatgjatë vendore” është borxhi në monedhë kombëtare ose të huaj i njësisë së qeverisjes vendore, që duhet të shlyhet për një periudhë kohe të barabartë ose më të gjatë se një vit.
+22. “Detyrim kontingjent” është detyrimi që mund t’i lindë njësisë së qeverisjes së përgjithshme në raport me të tretë, në të ardhmen, si rezultat i risqeve të mundshme, të lidhura me ngjarje apo nisma, të drejtpërdrejta ose të tërthorta, të viteve të mëparshme.
+23. “Përdorim me ekonomi” është përdorimi i një sasie dhe cilësie të dhënë të inputeve në një kohë të dhënë dhe me koston më të ulët.
+24. “Efektivitet” është madhësia, me të cilën një produkt kontribuon në arritjen e objektivave të politikës apo të qëllimeve të politikës buxhetore.
+25. “Efiçencë” është lidhja ndërmjet produkteve të një programi dhe burimeve financiare dhe njerëzore të përdorura.
+26. “Program buxhetor afatmesëm” është parashtrimi për tre vjet i planeve të shpenzimeve të buxhetit, përmes lidhjes së drejtpërdrejtë të programeve me veprimtaritë, produktet, objektivat dhe qëllimet e politikës.
+27. “Program buxhetor” është një grup veprimtarish të njësisë së qeverisjes së përgjithshme, që administrohen efektivisht dhe kontribuojnë së bashku në prodhimin e produkteve të identifikueshme dhe të matshme, të cilat ndihmojnë, drejtpërdrejt ose tërthorazi, në arritjen e objektivave dhe të qëllimeve të politikës buxhetore së tij.
+28. “Qëllim i politikës së programit buxhetor” është rezultati i dëshirueshëm dhe i matshëm, që arrihet në një periudhë afatgjatë nga veprimtaritë e njësive të qeverisjes së përgjithshme.
+29. “Objektiva të politikës së programit buxhetor” janë rezultatet specifike të matura saktësisht në kohë, sasi dhe kosto, të cilat realizohen në një periudhë afatshkurtër deri afatmesme dhe që përbëjnë hapa të ndërmjetëm drejt arritjes së qëllimit të politikës së programit buxhetor.
+30. “Inpute” janë burimet financiare, njerëzore dhe fizike, të përdorura për kryerjen e veprimtarive, që nevojiten për ushtrimin e funksioneve të caktuara dhe që finalizohen me prodhimin e produkteve të caktuara.
+31. “Veprimtari të programeve buxhetore” janë tërësia e veprimtarive, që kryhen në kuadër të një programi, për realizimin e një produkti.
+32. “Produkte” janë mallrat dhe shërbimet e siguruara nga kryerja e veprimtarive buxhetore të programit buxhetor.
+33. “Tavan i programit buxhetor afatmesëm” është kufiri i sipërm i shpenzimeve, brenda të cilit njësitë e qeverisjes së përgjithshme përgatisin kërkesat buxhetore të këtij programi.
+34.“Menaxhimi financiar dhe kontrolli” është një sistem politikash, procedurash, veprimtarish dhe kontrollesh, nëpërmjet të cilave burimet financiare janë planifikuar, drejtuar dhe kontrolluar për të mundësuar dhe influencuar ofrimin me efikasitet dhe efektshmëri të shërbimeve publike.
+35.“Kontroll i brendshëm financiar publik” është tërësia e sistemit të kontrollit të brendshëm, që ushtrohet nga njësitë publike, për të garantuar se menaxhimi financiar dhe kontrolli i njësive të sektorit publik është në përputhje me legjislacionin përkatës, kërkesat e buxhetit, si dhe me parimet e menaxhimit financiar me transparencë, efektivitet, efiçencë dhe ekonomi. Kontrolli i brendshëm financiar publik përfshin të gjitha veprimtaritë, me qëllim kontrollin e të ardhurave, shpenzimeve, aktiveve dhe detyrimeve të njësive publike. Ai, gjithashtu, përfshin harmonizimin qendror dhe koordinimin e menaxhimit financiar dhe kontrollit, si dhe të auditimit të brendshëm.
+36. “Auditim i brendshëm” është një veprimtari e pavarur, brenda njësisë së qeverisjes së përgjithshme, që siguron, në mënyrë të arsyeshme, nëpunësit autorizues për përdorimin efektiv të fondeve dhe përmirësimin e ushtrimit të funksioneve të këtyre njësive.
+37. “Sistem i thesarit” është tërësia e rregullave dhe e procedurave, si dhe struktura organizative përkatëse, e ngarkuar për ekzekutimin e buxhetit, administrimin e mjeteve monetare, mbajtjen e llogarive dhe raportimin financiar të qeverisjes së përgjithshme.
+38. “Angazhim buxhetor” është marrja përsipër e detyrimeve financiare, në formë të shkruar, përmes hyrjes në marrëdhënie kontraktuale.
+39. “Veprimtari pothuajse fiskale” është veprimtaria me natyrë fiskale, e kryer nga njësitë e sektorit publik, jo njësi të qeverisjes së përgjithshme.
+40. “Shpenzim i taksave” është masa e efekteve nga përjashtimet ose lehtësitë fiskale, që ndërmerren për të nxitur veprimtari të caktuara.
+41. “Nëpunës i parë autorizues” është nëpunësi i nivelit më të lartë sipas ligjit për shërbimin civil në ministrinë përgjegjëse për financat, përgjegjës për përgatitjen, zbatimin, kontrollin e brendshëm financiar, monitorimin, raportimin, kontabilitetin dhe auditimin e brendshëm të Buxhetit të Shtetit.
+42. “Nëpunës autorizues” është nëpunësi i nivelit më të lartë i njësive të qeverisjes së përgjithshme, përgjegjës për përgatitjen, zbatimin, kontrollin e brendshëm financiar, monitorimin, raportimin, kontabilitetin dhe auditimin e brendshëm të buxhetit të tyre, që përgjigjet përpara nëpunësit të parë autorizues.
+43. “Nëpunës autorizues i nivelit të dytë” është nëpunësi i administratës publike në secilën nga njësitë vartëse të njësisë së qeverisjes së përgjithshme, përgjegjës për përgatitjen, zbatimin, kontrollin e brendshëm financiar, monitorimin, raportimin, kontabilitetin dhe auditimin e brendshëm të buxhetit të tyre, që përgjigjet përpara nëpunësit autorizues.
+44. “Nëpunës zbatues” është punonjësi i administratës publike në njësinë e qeverisjes së përgjithshme, përgjegjës për zbatimin e rregullave të menaxhimit financiar, mbajtjen e llogarive dhe për përgatitjen e pasqyrave financiare, që përgjigjet përpara nëpunësit autorizues të nivelit përkatës.
+45. “Sistemi informatik financiar i Qeverisë (SIFQ)” është sistemi financiar, nëpërmjet të cilit Qeveria e Republikës së Shqipërisë kryen të gjitha proceset e ekzekutimit dhe raportimit financiar të Buxhetit të Shtetit.
+46. “Ligjet tatimore”, në kuptim të këtij ligji, janë ligjet që përcaktojnë nivelin e taksave apo tatimeve të veçanta në fushat specifike të tatimeve e taksave, kombëtare e vendore, administrimin e detyrimeve tatimore, si dhe organizimin dhe funksionimin e administratës tatimore në Republikën e Shqipërisë.
+47. “Garancia shtetërore e huas” është marrëveshja e lidhur me shkrim, e cila përmban rregulla për të drejtat dhe detyrimet e palëve, kushtet dhe mënyrat, sipas të cilave shteti është përgjegjës për detyrimet financiare të një huamarrësi, kur ai nuk arrin t’i paguajë ato në kohën dhe masën e duhur.
+48. “Veprimtari pothuajse fiskale” janë veprimtari që kryhen nga institucione shtetërore jobuxhetore, të cilat kanë kosto direkte ose indirekte në buxhetin e shtetit.
+49. “Projekt investimi” është një seri puni-mesh, aktivitetesh apo shërbimesh, që synojnë të përmbushin një objektiv të pandashëm të një natyre specifike ekonomike apo teknike, me qëllime qartësisht të identifikuara.

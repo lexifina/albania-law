@@ -1,0 +1,3 @@
+# Neni 37
+Buxhetet e përkohshme vendore
+Në rast të mosmiratimit, nga këshilli i njësisë së qeverisjes vendore, të buxhetit vendor, deri në ditën e parë të vitit buxhetor, kryetari i njësisë së qeverisjes vendore autorizon të kryhen, çdo muaj, shpenzime deri në 1/12 e shpenzimeve faktike të buxhetit vendor (nga transferta e pakushtëzuar dhe të ardhurat e veta të njësisë vendore) në vitin buxhetor paraardhës, për të siguruar vazhdimin e ofrimit të të mirave dhe shërbimeve, përfshirë zbatimin e projekteve të investimeve, të filluara në vitin buxhetor paraardhës dhe që vazhdojnë në vitin buxhetor. Fondet nga transferta e kushtëzuar, grantet apo projektet specifike financohen tërësisht, sipas destinacionit të institucionit që i akordon.
