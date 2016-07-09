@@ -1,0 +1,5 @@
+# Neni 9
+Zhvillimi i negociatave
+1. Negociatat për lidhjen e një marrëveshjeje ndërkombëtare bëhen në mënyrë të drejtpërdrejtë ndërmjet përfaqësuesve të palëve ose në distancë nëpërmjet Ministrisë së Punëve të Jashtme. Negociatat për elemente teknike të marrëveshjes mund të zhvillohen në distancë, ndërmjet ministrisë kompetente dhe palës tjetër, duke informuar Ministrinë e Punëve të Jashtme. Në rastet e marrëveshjeve ndërkombëtare të huas dhe granteve komunikimi ndërmjet palëve mbahet vetëm nga ministri i Financave.
+2. Para zhvillimit të negociatave të drejt-përdrejta, ministria kompetente përcakton përbërjen dhe kreun e delegacionit, kohën dhe vendin e zhvillimit të negociatave. Në përbërjen e delegacionit, krahas përfaqësuesve të ministrisë / ve kompetente, mund të ketë përfaqësues të ministrive të interesuara.
+3. Në përfundim të negociatave, nëse palët bien dakord, kryetarët e delegacioneve mund të para-fojnë tekstin e projektmarrëveshjes në dy ose më shumë kopje, në varësi të palëve negociuese. Për këtë qëllim, kryetarët e delegacioneve vendosin në çdo fletë të projektmarrëveshjes inicialet e tyre.
