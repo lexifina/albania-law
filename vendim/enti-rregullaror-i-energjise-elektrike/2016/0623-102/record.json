@@ -1,0 +1,28 @@
+{
+  "qbz_id": 15471,
+  "title": "PËR MIRATIMIN E KËRKESËS SË SHOQËRISË OST SHA LIDHUR ME MBULIMIN E HUMBJEVE NË RRJETIN E TRANSMETIMIT, SHËRBIMET NDIHMËSE DHE DISBALANCAT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "102",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-06-23",
+  "published": "2016-07-12",
+  "in_force": "2016-07-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a9049759555ad23f8b0edb0b2b5dc0fde26367457ac8effb68ad44722104a3a9.docx",
+  "source_sha256": "a9049759555ad23f8b0edb0b2b5dc0fde26367457ac8effb68ad44722104a3a9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15471",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/06/23/102",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    67908
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
