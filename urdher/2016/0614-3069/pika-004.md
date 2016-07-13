@@ -1,0 +1,3 @@
+4. Përmasat e anijes
+a) Nëse janë dy tonazhe bruto ose përmasa të regjistruara në certifikatën e madhësisë së tonazhit, atëherë tonazhi ose përmasa më e madhe do të aplikohet për qëllimin e kësaj tarife.
+b) Në qoftë se pronari i anijes e ka të pamundur të dorëzojë një certifikatë të madhësisë së tonazhit, porti detar ose përfaqësuesi i tij mund të japë një vlerë të përafërt të tonazhit bruto (GT) ose dimensioneve të tjera që kanë të bëjnë me anijen. Tonazhi bruto ose përmasat e tjera të përcaktuara në këtë mënyrë, do të përdoren si tonazh bruto apo përmasa të regjistruara, për efekt të kësaj tarife.
