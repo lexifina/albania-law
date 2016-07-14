@@ -1,0 +1,1 @@
+8. Qendra Kombëtare e Transfuzionit të Gjakut kryen detyrat e ngarkuara nga ligji, si dhe kryen funksionet e bashkërendimit të punës e të kontrollit tekniko-administrativ, në bashkëpunim me Komitetin Kombëtar të Transfuzionit të Gjakut.

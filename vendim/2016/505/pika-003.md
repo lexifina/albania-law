@@ -1,0 +1,1 @@
+3. Shërbimi Kombëtar i Transfuzionit të Gjakut përbëhet nga Qendra Kombëtare e Transfuzionit të Gjakut dhe strukturat e shërbimit të transfuzionit në institucionet shëndetësore publike të shërbimit spitalor.

@@ -1,0 +1,3 @@
+4. Qendra Kombëtare e Transfuzionit të Gjakut është person juridik publik në varësi të Ministrisë së Shëndetësisë, e specializuar për kryerjen e shërbimeve të transfuzionit të gjakut në Republikën e Shqipërisë. Qendra Kombëtare e Transfuzionit të Gjakut kryen këto shërbime:
+a) Shërbime prodhuese, në të cilat përfshihen promovimi i dhurimit vullnetar falas të gjakut, seleksionimi dhe kontrolli periodik i dhuruesit të gjakut, mbledhja e gjakut, përpunimi dhe testimi i tij, ruajtja, transporti i gjakut/produkteve të tij, kontrolli i cilësisë të gjakut, si dhe i produkteve të tij;
+b) Shërbime ndaj spitalit, në të cilat përfshihen shpërndarja e gjakut dhe e produkteve të tij pacientëve në nevojë dhe testet imunohema-tologjike.
