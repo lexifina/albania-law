@@ -1,0 +1,1 @@
+2. Fondi prej 1 100 000 000 (një miliard e njëqind milionë) lekësh i shtohet kufirit të shpenzimeve kapitale të Ministrisë së Transportit dhe Infrastrukturës, në programin “Transporti rrugor”, për projektin “Ndërtim rruge: Unaza e Re e Tiranës (segmenti Komuna e Parisit - Rruga e Kavajës) loti 1”.

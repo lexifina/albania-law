@@ -1,0 +1,1 @@
+1. Kufiri i shpenzimeve kapitale dhe niveli i deficitit buxhetor, miratuar në ligjin nr. 147/2015, “Për buxhetin e vitit 2016”, shtohet me 1 100 000 000 (një miliard e njëqind milionë) lekë nga të ardhurat e realizuara nga privatizimi i shoqërisë “INSIG” sh.a.
