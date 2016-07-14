@@ -1,0 +1,1 @@
+4. Kontrolli mbi përdorimin e fondit operativ ushtrohet, jo më pak se një herë në vit, nga ministri i Mbrojtjes ose personat e autorizuar prej tij, të cilët duhet të jenë të pajisur me certifikatë sigurie. Kontrolli ushtrohet duke respektuar legjislacionin në fuqi për informacionin e klasifikuar “sekret shtetëror”.
