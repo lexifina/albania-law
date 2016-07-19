@@ -1,0 +1,1 @@
+3. Strukturat rajonale të ISHTI-së organizojnë, në bashkëpunim me strukturat rajonale të AKM-së, si dhe me DPD-në, programe pune të përbashkëta për marrjen e mostrave për cilësinë e lëndëve djegëse, të lëngëta të rënda (heavy fuel oil) dhe lëndëve djegëse të lëngëta marinë (marine fuel).
