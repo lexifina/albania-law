@@ -1,0 +1,3 @@
+1. Rishpërndarje fondesh ndërmjet programeve brenda buxhetit të vitit 2016, miratuar për Ministrinë e Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, për marrjen e masave urgjente për parandalimin e sëmundjes së dermatozës nodulare të gjedhit, si më poshtë vijon:
+a) Në programin buxhetor “Siguria ushqimore dhe mbrojtja e konsumatorit” shtohen 84 000 000 (tetëdhjetë e katër milionë) lekë, shpenzime korrente;
+b) Në programin buxhetor “Zhvillimi rural duke mbështetur bujqësinë, blegtorinë, agroindustrinë dhe marketingun” pakësohen 84 000 000 (tetëdhjetë e katër milionë) lekë, shpenzime korrente nga skema mbështetëse për bujqësinë.
