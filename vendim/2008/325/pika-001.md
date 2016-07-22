@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për pranimin në veprimtarinë e operatorit të transportit rrugor të mallrave dhe të udhëtarëve, si dhe për njohjen e dokumenteve zyrtare, të caktuara për këta operatorë, sipas tekstit, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
