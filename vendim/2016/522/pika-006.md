@@ -1,0 +1,1 @@
+6. Baza e të dhënave të SMKISHP-së shkëmben informacion me institucionet publike, sipas ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, lidhur me shërbimet që ofrohen bazuar në legjislacionin nëpërmjet Plat-formës Qeveritare të Ndërveprimit.

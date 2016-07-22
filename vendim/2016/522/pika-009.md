@@ -1,0 +1,1 @@
+9. Organizimi dhe funksionimi i brendshëm i bazës të të dhënave të SMKISHP-së përcaktohen me rregullore të brendshme të institucionit administrues dhe miratohet nga drejtori Ekze-kutiv i ADISA-s, në përputhje me rregullat e parashikuara në ligjin nr. 10325, datë 23.9.2010, “Për bazën e të dhënave shtetërore”.
