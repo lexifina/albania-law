@@ -1,1 +1,0 @@
-8. Në ngastrat dhe nënngastrat, ku do të kryhen prerje të dyta e përfundimtare, shfrytëzimi bëhet në periudhën me dëborë. Kur prerjet e dyta e përfundimtare janë tepër të vonuara, shfrytëzimi lejohet edhe në periudhën e pushimit të vegjetacionit.

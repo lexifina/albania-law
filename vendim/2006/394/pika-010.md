@@ -1,1 +1,0 @@
-10. Kërkesat, teknike e metodike, si dhe procedurat e caktimit të ngastrave e të nënngastrave për shfrytëzim, të damkosjes së drurëve, të prerjes e asortimit te tyre, të transportit e stivosjes në anë të rrugës, përcaktohen me udhëzim të ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave.

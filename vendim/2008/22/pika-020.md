@@ -1,1 +1,0 @@
-20. Kryerja e veprimtarisë së përcaktuar në shkronjën “c” të pikës 14 të këtij vendimi, bëhet drejtpërdrejt nga banorët e njësisë përkatëse të qeverisjes vendore, ndërsa për kryerjen, drejtpërdrejt të veprimtarisë së parashikuar në shkronjën “b” të pikës 14 të këtij vendimi, banorët pajisen me lejen përkatëse, sipas legjislacionit në fuqi.

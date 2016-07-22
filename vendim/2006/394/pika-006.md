@@ -1,1 +1,0 @@
-6. Ministri i Mjedisit, Pyjeve dhe Administrimit të Ujërave, në bazë të të gjithë materialit të përgatitur për shfrytëzimin, miraton, me urdhër, kapacitetin dhe mundësinë vjetore të shfrytëzimit të pyjeve dhe të prodhimeve të dyta, pyjore dhe jopyjore.

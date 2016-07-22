@@ -1,1 +1,0 @@
-22. Shfrytëzimi ekonomik i pyjeve kryhet nga njësia përkatëse e qeverisjes vendore nëpërmjet strukturës së krijuar posaçërisht për shfrytëzimin apo nëpërmjet kontraktimit të shërbimit me shoqatat e përdoruesve të pyllit a me subjektet e licencuara.

@@ -1,1 +1,0 @@
-13.Tenderat zhvillohen për ngastrat dhe nënngastrat, për të cilat janë përgatitur projektet tekniko-ekonomike të shfrytëzimit dhe për të cilat garantohet efektiviteti ekonomik, miradministrimi e ruajtja e asortimenteve deri në shitjen e tyre.

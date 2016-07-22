@@ -1,1 +1,0 @@
-12.Shfrytëzimi realizohet nga subjekte private, të specializuara. Përzgjedhja e subjekteve bëhet nëpërmjet tenderave, të organizuara nga organet e shërbimit pyjor, në përputhje me rregullat dhe procedurat e legjislacionit në fuqi.

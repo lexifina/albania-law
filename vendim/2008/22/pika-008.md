@@ -1,1 +1,0 @@
-8. Projektplani i shfrytëzimit hartohet nga strukturat e specializuara të njësisë së qeverisjes vendore, brenda datës 31 janar të çdo viti, dhe përmban sasinë, llojin dhe asortimentet e materialit drusor, të bimëve mjekësore dhe të prodhimeve të tjera dytësore, pyjore, që do të vilen apo mblidhen gjatë atij viti.

@@ -1,1 +1,0 @@
-7. Prerja e lëndës drusore, mbledhja e bimëve mjekësore dhe e prodhimeve të tjera dytësore, pyjore, për nevoja të banorëve dhe për qëllime ekonomike, bëhen në përputhje me planin vjetor të shfrytëzimit, që hartohet në zbatim të mundësisë vjetore të pyllit, të parashikuar në planin e mbarështimit.
