@@ -1,0 +1,1 @@
+1. Dërgimin, me mision, të një toge këmbësorie të Forcave të Armatosura të Republikës së Shqipërisë, të përbërë nga 40 (dyzet) ushtarakë, pranë Komandës së Trajnim-Këshillimit dhe Ndihmës në Herat, Afganistan.
