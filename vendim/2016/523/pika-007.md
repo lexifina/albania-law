@@ -1,0 +1,1 @@
+7. Gjatë paketimit dhe vendosjes së etiketave furnizuesi mbikëqyret nga autoriteti certifikues, i cili vërteton sasinë përfundimtare të materialeve të shumëzimit dhe të fidanëve të prodhuar në fidanishte, plotësimin e kërkesave të cilësisë, paketimin dhe etiketimin, si dhe numrin e etiketave të lëshuara nga furnizuesi.

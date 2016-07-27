@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është që të përcaktojë kërkesat në lidhje me prodhimin e tregtimin e materialeve të shumëzimit dhe të fidanëve të bimëve zbukuruese, kërkesat për furnizuesit, për paketimin dhe etiketimin, si dhe kërkesat e procedurat e kryerjes së certifikimit.

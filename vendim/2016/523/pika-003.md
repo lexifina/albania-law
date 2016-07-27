@@ -1,0 +1,1 @@
+3. “Fidanë”, bimë zbukuruese, të prejardhura nga materialet e shumëzimit, të certifikuara sipas këtij vendimi, të cilët, pas tregtimit të tyre, destinohen për mbjellje ose rimbjellje në vendin e përhershëm.
