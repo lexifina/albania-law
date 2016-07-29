@@ -1,0 +1,80 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+AUTORITETI RRUGOR SHQIPTAR
+SEKTORI I SHPRONËSIMEVE
+LISTA E PRONARËVE PASURITË E TË CILËVE SHPRONËSOHEN NGA NDËRTIMI I “UNAZA E MADHE E TIRANËS”
+SEGMENTI KOMUNA E PARISIT-RRUGA E KAVAJËS) SHTESA
+Nr. rendor
+PRONARI
+Z. kadastrale
+Nr. pasurie
+VLERA E SHPRONËSIMIT
+Vlera totale (lekë)
+Shënime
+Sip. Truall (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+Emri
+ATËSIA
+MBIEMRI
+1
+Mevlude Agolli
+8260
+1/54+1-1
+13
+30,783
+400,179
+400,179
+Kufizim nga ZVRPP-ja
+2
+Mevlude Agolli
+8260
+1/54+1-2
+7
+30,783
+215,481
+215,481
+Konfirmuar nga ZVRPP-ja
+SHUMA
+20
+615,660
+615,660
+LISTA E PRONARËVE PASURITË E TË CILËVE SHPRONËSOHEN NGA NDËRTIMI
+I “UNAZA E MADHE E TIRANËS”
+SEGMENTI KOMUNA E PARISIT-RRUGA E KAVAJËS) (SHTESA OBJEKTET)
+PRONARI
+Nr. rendor
+Emri
+Atësia
+Mbiemri
+Z. kadastrale
+Nr. pasurie
+Sipërfaqja e objekteve (banesë) m2
+Çmimi mesatar(l/m2)
+Vlera sipas çmimit mesatar (lekë)
+VLERA TOTALE (lekë)
+Shënime
+Shefike
+Shyqyri
+Imeri
+1
+Genc
+Ahmet
+Imeri
+8260
+1/275/
+ND
+70
+69,285
+4,849,950
+4,849,950
+Konfirmuar nga ZVRPP-ja
+nr. 13296/1, datë 18.5.2016
+Valbona
+Ahmet
+Seferi
+SHUMA
+70
+4,849,950
+4,849,950
