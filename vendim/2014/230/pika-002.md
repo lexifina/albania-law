@@ -1,1 +1,0 @@
-2. Sekretariati Teknik i Këshillit Kombëtar të Ujit, si një nga organet kombëtare të administrimit dhe të menaxhimit të burimeve ujore, ka objekt të veprimtarisë së tij projektimin dhe ngritjen e sistemit total të integruar të ujit dhe monitorimin e garantimin e funksionimit efikas të menaxhimit të integruar të këtij sistemi.
