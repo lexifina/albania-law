@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15547,
+  "title": "PËR DELEGIM KOMPETENCE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "5813",
+  "institution": "Ministria e Infrastrukturës dhe Energjisë",
+  "adopted": "2016-07-15",
+  "published": "2016-07-29",
+  "in_force": "2016-07-29",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/433fd626cf90224d93aa65f93c718328da3c11f266759d13fe0d1862638727b5.docx",
+  "source_sha256": "433fd626cf90224d93aa65f93c718328da3c11f266759d13fe0d1862638727b5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15547",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/07/15/5813",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
