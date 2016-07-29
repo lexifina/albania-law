@@ -12,10 +12,7 @@ SHA
 Bashkia Vlorë
 100 %
 2
-Tregu i shitjes me shumicë, fruta-perime Shkodër
-SHA
-Bashkia Shkodër
-67.21%
+Shfuqizuar
 3
 Tregu i shitjes me shumicë, fruta-perime Berat
 SHA
