@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksion dhe rikualifikim urban i lulishtes perëndimore dhe suplementi i sheshit qendror “Teodor Muzaka””, Berat.
