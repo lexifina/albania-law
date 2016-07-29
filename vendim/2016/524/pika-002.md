@@ -1,0 +1,1 @@
+2. Misioni i Sekretariatit është ndërtimi i një sistemi të integruar të qeverisjes dhe menaxhimit të burimeve ujore, me qëllim përmbushjen e të gjitha nevojave jetësore, duke mbajtur në vëmendje qëndrueshmërinë e ekosistemeve dhe duke nxitur konkurrueshmërinë e përdorimeve dhe prioriti-zimin drejt përfitueshmërisë ekonomike.
