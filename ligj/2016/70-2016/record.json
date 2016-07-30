@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15499,
+  "title": "PËR ZEJTARINË NË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "70-2016",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2016-06-30",
+  "published": "2016-07-15",
+  "in_force": "2016-07-30",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/cd7cc78f2b9b5602b9d3013ec40b0f3e4d7387d87f2b5231bd7cadd489d8b4db.docx",
+  "source_sha256": "cd7cc78f2b9b5602b9d3013ec40b0f3e4d7387d87f2b5231bd7cadd489d8b4db",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15499",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2016/06/30/70-2016",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
