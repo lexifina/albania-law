@@ -1,0 +1,1 @@
+13. Brenda 10 ditëve nga afishimi i vendimit, kërkuesi i miratuar paraqitet për të firmosur kontratën. Në këtë rast, ai mund të bëjë edhe vërejtje për aspekte të veçanta të kontratës, të cilat zgjidhen me mirëkuptim. Kur kërkuesi nuk paraqitet brenda 10 ditëve, lidhja e kontratës anulohet dhe bëhet njoftimi i tij me shkrim.

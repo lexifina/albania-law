@@ -1,0 +1,1 @@
+10. Kundër vendimit mund të bëhet ankim me shkrim te Kryetari i Bashkisë, brenda 10 ditësh nga afishimi i vendimit, i cili i përgjigjet ankimit brenda 15 ditësh nga data e regjistrimit të ankimit në protokoll.

@@ -1,0 +1,1 @@
+12. Pas miratimit të kërkesës, struktura përgje-gjëse për pyjet dhe kullotat në bashki, për çdo subjekt të miratuar përgatisin kontratën e dhënies me qira, sipas kontratës tip të miratuar në këshillin bashkiak, si dhe hartën e kullotës, në të cilën përfshihen kufijtë e kullotës dhe kufitarët, e cila i bashkëngjitet kontratës.

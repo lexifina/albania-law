@@ -1,0 +1,1 @@
+14. Në momentin e lidhjes së kontratës, kur ajo nënshkruhet për përdorim të përkohshëm deri në tre vjet, subjekti parapaguan vlerën e plotë për vitin e parë në një këst ose për tri vite bashkë. Pagimi i kësteve të tjera, si në rastin e parë, bëhet çdo vit në të njëjtat afate kohore që datojnë me lidhjen e kontratës.

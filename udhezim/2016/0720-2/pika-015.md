@@ -1,0 +1,1 @@
+15. Pas nënshkrimit të kontratës së pagimit të këstit, hartohet procesverbali i marrjes në dorë-zim të kullotës dhe të objekteve të infrastrukturës që ndodhen në të (lera, çezma etj.), i cili nënshkruhet nga përfaqësuesi i autorizuar i strukturës përgjegjëse për pyjet dhe kullotat në bashki dhe qiramarrësi. Pas këtij momenti kërkuesi mund të futet në kullotë me bagëti.

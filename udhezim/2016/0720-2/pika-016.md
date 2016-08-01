@@ -1,0 +1,1 @@
+16. Për sipërfaqet e kullotave e livadheve që kanë mbetur të pakontraktuar, rifillon edhe një herë procedura e dhënies së tyre për kullotje, në zbatim të rregullave të këtij udhëzimi. Në këtë rast janë të vlefshme dhe shqyrtohen edhe kërkesat që janë paraqitur jashtë afateve të përcaktuara në pikën 3 të këtij kreu.
