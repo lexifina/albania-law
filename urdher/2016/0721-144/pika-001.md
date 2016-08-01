@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Mjedisit, drejtorit të përgjithshëm të Mjedisit dhe Jetësimit të Prioriteteve z. Pëllumb Abeshi, të drejtën e firmosjes së autorizimeve, ankimeve, rekurseve dhe të gjitha akteve shkresore drejtuar gjykatës, në çdo shkallë të gjykimit.
