@@ -1,0 +1,1 @@
+3. Pas këtij ndryshimi, të gjitha pensionet e posaçme dhe shtesat e pensioneve të posaçme shtetërore, përfshirë edhe ato që nuk janë të përcaktuara në pikat 1 dhe 2 të këtij vendimi, do të indeksiohen me 1, 6%.

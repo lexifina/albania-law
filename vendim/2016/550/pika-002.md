@@ -1,0 +1,1 @@
+2. Në të njëjtën masë do të kalojnë edhe shtesat e pensioneve të posaçme shtetërore, të caktuara me vendim të Këshillit të Ministrave në harkun kohor 1.10.1993-31.12.2014, për familjarët e personit të vdekur, që merrte ose i takonte të merrte pension të posaçëm shtetëror ose shtesë pensioni të posaçëm.

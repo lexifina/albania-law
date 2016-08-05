@@ -1,0 +1,1 @@
+4. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi për vitin 2016, përllogariten në shumën 6 000 000 (gjashtë milionë) lekë dhe përballohen nga fondet e sigurimeve shoqërore, të parashikuara në buxhetin e shtetit për vitin 2016.
