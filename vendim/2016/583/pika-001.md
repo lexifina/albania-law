@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2016, t’i shtohet fondi prej 5 000 000 (pesë milionë) lekësh, për Komandën Mbështetëse, për mbulimin e shpenzimeve të strukturave të Forcave të Armatosura, të angazhuara për pastrimin e disa akseve rrugore dhe zonave bregdetare për sezonin turistik veror, për vitin 2016, në mbështetje të organeve të pushtetit vendor.

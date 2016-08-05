@@ -1,0 +1,1 @@
+3. Ministria e Mbrojtjes (Komanda Mbështe-tëse), në bashkëpunim me Agjencinë Kombëtare të Bregdetit dhe organet e pushtetit vendor, të përcaktojnë akset rrugore dhe zonat bregdetare që do të pastrohen, kohën, mjetet dhe personelin e Forcave të Armatosura që do të angazhohet.
