@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15602,
+  "title": "MBI MIRATIMIN E LICENCËS PËR VEPRIMTARINË E OPERIMIT TË TREGUT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "123",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-07-21",
+  "published": "2016-08-09",
+  "in_force": "2016-08-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d48dbf4e1fc66cd57095ecf58375732e5633f81641d9ae3630aa9aa0faac12e4.docx",
+  "source_sha256": "d48dbf4e1fc66cd57095ecf58375732e5633f81641d9ae3630aa9aa0faac12e4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15602",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/07/21/123",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
