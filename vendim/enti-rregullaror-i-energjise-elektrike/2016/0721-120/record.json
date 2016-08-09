@@ -1,0 +1,26 @@
+{
+  "qbz_id": 15599,
+  "title": "MBI LICENCIMIN E SHOQËRISË “REKA ENERGY” SHPK, NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “ZAJE”, ME FUQI TË INSTALUAR 220 kw; “TURAJ”, ME FUQI TË INSTALUAR 320 kw; “XHAFERAJ-MESHTEKEN”, ME FUQI TË INSTALUAR 3680 kw; “NOVOSEJ”, ME FUQI TË INSTALUAR 220 kw DHE “KOLLOVOZ”, ME FUQI TË INSTALUAR 1500 kw, ME FUQI TOTALE TË INSTALUAR 5940 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "120",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-07-21",
+  "published": "2016-08-09",
+  "in_force": "2016-08-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/474139fd138ee66b65013033570af2c6e0f94a15a2a58b193a0246fc4d3d176f.docx",
+  "source_sha256": "474139fd138ee66b65013033570af2c6e0f94a15a2a58b193a0246fc4d3d176f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15599",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/07/21/120",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
