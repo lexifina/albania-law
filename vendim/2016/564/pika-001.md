@@ -1,0 +1,1 @@
+1. Ngarkimin e Ministrisë së Transportit dhe Infrastrukturës, si organ qendror blerës, për kryerjen e procedurës së prokurimit publik, për llogari të Autoritetit të Aviacionit Civil, për projektin “Realizimi i studimit të fizibilitetit për ndërtimin e një aeroporti në jug të vendit”.

@@ -1,0 +1,1 @@
+2. Ministria e Transportit dhe Infrastrukturës të prokurojë fondin limit prej 30 000 000 (tridhjetë milionë) lekësh, si shumë e miratuar në programin ekonomik të vitit 2016 të Autoritetit të Aviacionit Civil dhe Albcontrol sh.a.
