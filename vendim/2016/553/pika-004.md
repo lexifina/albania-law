@@ -1,0 +1,1 @@
+4. Anëtarët e komisionit nuk duhet të kenë konflikt interesi në fushën e produkteve biocide. Ata, paraprakisht, duhet të deklarojnë marrë-dhëniet, nëse kanë, me subjektet e importimit ose të tregtimit të produkteve biocide.

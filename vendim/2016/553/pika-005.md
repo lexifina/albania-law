@@ -1,0 +1,1 @@
+5. Sekretariati i Autorizimit të Produkteve Biocide është edhe sekretariat i Komisionit të Autorizimit të Produkteve Biocide. Përbërja e tij përcaktohet nga ministri i Shëndetësisë, brenda strukturës dhe organikës së Ministrisë së Shëndetësisë.

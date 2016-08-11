@@ -1,0 +1,1 @@
+8. Komisioni i Autorizimit të Produkteve Biocide thirret nga kryetari. Kur një anëtar nuk merr pjesë në tri mbledhje radhazi, përjashtohet, me vendim të kryetarit të Komisionit të Auto-rizimit të Produkteve Biocide dhe zëvendësohet nga institucioni përkatës.
