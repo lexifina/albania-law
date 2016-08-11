@@ -1,0 +1,5 @@
+# Neni Ë
+Masat disiplinore
+1. Komisioni ose Kolegji i Apelimit në përfundim të shqyrtimit të çështjes, vendos masat disiplinore, pezullimin e subjektit të rivlerësimit nga detyra për një vit, të shoqëruar me edukim të detyrueshëm, ose shkarkimin e tij nga detyra. Në çdo rast vendimi jepet i arsyetuar.
+2. Vendimi që urdhëron pezullimin nga detyra, shoqëruar me detyrimin për trajnim identifikon mangësitë. Gjatë periudhës së pezullimit, të rivlerësuarit i njihet e drejta e pagës në masën 75 për qind të saj. Subjekti i rivlerësuar urdhërohet të ndjekë një program edukimi njëvjeçar pranë Shkollës së Magjistraturës, i hartuar për të plotësuar mangësitë. Në fund të programit ai testohet për aftësitë e tij. Ky testim mbikëqyret nga Operacioni Ndërkombëtar i Monitorimit. Subjekti i rivlerësimit që nuk e kalon testimin shkarkohet nga Komisioni.
+3. Në çdo rast, shkarkimi i një gjyqtari ose prokurori nuk është shkak për rihapjen e çështjeve të gjykuara ose të hetuara prej tij, përveçse kur ekzistojnë shkaqet, mbi të cilat realizohet kërkesa për rishikim, sipas parashikimeve në ligjet procedurale.

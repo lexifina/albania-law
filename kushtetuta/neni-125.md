@@ -1,6 +1,8 @@
 # Neni 125
-1. Gjykata Kushtetuese përbëhet nga 9 anëtarë, të cilët emërohen nga Presidenti i Republikës me pëlqimin e Kuvendit.
-2. Gjyqtarët emërohen për 9 vjet, pa të drejtë riemërimi, nga radhët e juristëve me kualifikim të lartë dhe me përvojë pune jo më pak se 15 vjet në profesion.
-3. Përbërja e Gjykatës Kushtetuese përtërihet çdo tre vjet në një të tretën e saj sipas procedurës së caktuar me ligj.
-4. Kryetari i Gjykatës Kushtetuese emërohet nga radhët e anëtarëve të saj nga Presidenti i Republikës, me pëlqimin e Kuvendit, për një periudhë prej 3 vjetësh.
-5. Gjyqtari i Gjykatës Kushtetuese vazhdon në detyrë deri në emërimin e pasardhësit të tij.
+1. Gjykata Kushtetuese përbëhet nga 9 anëtarë. Tre anëtarë emërohen nga Presidenti i Republikës, tre anëtarë zgjidhen nga Kuvendi dhe tre anëtarë zgjidhen nga Gjykata e Lartë. Anëtarët përzgjidhen ndërmjet kandidatëve të renditur në tri vendet e para të listës nga Këshilli i Emërimeve në Drejtësi, sipas ligjit.
+2. Kuvendi zgjedh gjyqtarin e Gjykatës Kushtetuese me jo më pak se tri të pestat e të gjithë anëtarëve të tij. Nëse Kuvendi nuk zgjedh gjyqtarin brenda 30 ditëve nga paraqitja e listës nga Këshilli i Emërimeve në Drejtësi, kandidati i renditur i pari në listë shpallet i emëruar.
+3. Gjyqtarët e Gjykatës Kushtetuese qëndrojnë në detyrë për 9 vjet, pa të drejtë riemërimi.
+4. Gjyqtarët e Gjykatës Kushtetuese duhet të kenë arsim të lartë juridik, të paktën 15 vjet përvojë pune si gjyqtarë, prokurorë, avokatë, profesorë ose lektorë të së drejtës, nëpunës të nivelit të lartë në administratën publike, me një veprimtari të spikatur në fushën e së drejtës kushtetuese, të drejtave të njeriut ose në sfera të tjera të së drejtës.
+5. Gjyqtari nuk duhet të ketë mbajtur funksione politike në administratën publike ose pozicione drejtuese në një parti politike gjatë 10 vjetëve të fundit përpara kandidimit. Kritere të tjera, si dhe procedura për emërimin dhe zgjedhjen e gjyqtarëve të Gjykatës Kushtetuese rregullohen me ligj.
+6. Përbërja e Gjykatës Kushtetuese përtërihet çdo 3 vjet me një të tretën e saj, sipas procedurës së përcaktuar me ligj.
+7. Gjyqtari i Gjykatës Kushtetuese vazhdon në detyrë deri në zgjedhjen e pasardhësit të tij, me përjashtim të rasteve të parashikuara në nenin 127, paragrafi 1, nënparagrafët “c”, “ç”, “d” dhe “dh”.

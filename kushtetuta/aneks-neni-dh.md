@@ -1,0 +1,6 @@
+# Neni DH
+Kontrolli i figurës
+1. Subjektet e rivlerësimit dorëzojnë një deklaratë dhe i nënshtrohen një kontrolli të figurës, me qëllim identifikimin e atyre që kanë kontakte të papërshtatshme me persona të përfshirë në krimin e organizuar. Kontrolli i figurës për lidhje me personat e përfshirë në krimin e organizuar bazohet në deklaratën për figurën dhe prova të tjera, përfshirë vendimet e gjykatave shqiptare ose të huaja.
+2. Subjektet e rivlerësimit plotësojnë dhe i dorëzojnë Komisionit një deklaratë të detajuar për figurën e tyre që mbulon periudhën nga data 1 janar 2012 deri në ditën e deklarimit, sipas ligjit. Deklarata mund të përdoret si provë vetëm në këtë proces dhe në asnjë rast gjatë një procesi penal.
+3. Nëse subjekti i rivlerësimit ka kontakte të papërshtatshme me persona të përfshirë në krimin e organizuar zbatohet prezumimi në favor të masës disiplinore të shkarkimit dhe subjekti ka detyrimin të provojë të kundërtën.
+4. Nëse subjekti i rivlerësimit nuk e dorëzon në kohë deklaratën për figurën sipas ligjit, ai shkarkohet. Nëse subjekti i rivlerësimit përpiqet të bëjë deklarime të pasakta, ose të fshehë kontaktet me persona të përfshirë në krimin e organizuar, zbatohet prezumimi në favor të masës disiplinore të shkarkimit dhe subjekti ka detyrimin të provojë të kundërtën.

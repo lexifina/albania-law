@@ -1,5 +1,2 @@
 # Neni 137
-1. Gjyqtari i Gjykatës së Lartë gëzon imunitet për mendimet e shprehura dhe vendimet e marra në ushtrim të funksioneve të tij.
-2. Gjyqtari i Gjykatës së Lartë nuk mund të arrestohet apo t’i hiqet liria në çfarëdo forme apo ndaj tij të ushtrohet kontroll personal ose i banesës, pa autorizimin e Gjykatës Kushtetuese, përveçse nëse kapet në kryerje e sipër ose menjëherë pas kryerjes së një krimi. Në këtë rast, Prokurori i Përgjithshëm vë menjëherë në dijeni Gjykatën Kushtetuese. Kur Gjykata Kushtetuese nuk jep pëlqimin brenda 24 orëve për dërgimin në gjykatë të gjyqtarit të arrestuar, organi kompetent është i detyruar ta lirojë atë.
-3. Gjyqtarët gëzojnë imunitet për mendimet e shprehura dhe vendimet e marra në ushtrim të funksioneve të tyre gjyqësore.
-4. Gjyqtari nuk mund të arrestohet ose t’i hiqet liria në çfarëdo forme apo ndaj tij të ushtrohet kontroll personal ose i banesës, pa autorizimin e Këshillit të Lartë të Drejtësisë, përveçse nëse kapet gjatë kryerjes ose menjëherë pas kryerjes së një krimi. Në këtë rast, Prokurori i Përgjithshëm vë menjëherë në dijeni Këshillin e Lartë të Drejtësisë, i cili mund të vendosë për heqjen e masës.
+Gjyqtari gëzon imunitet për mendimet e shprehura dhe vendimet e marra në ushtrimin e funksioneve të tij, përveç rasteve të dhënies qëllimisht të një vendimi, si pasojë e një interesi vetjak ose keqbesimi.

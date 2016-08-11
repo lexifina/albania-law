@@ -1,0 +1,9 @@
+# Neni B
+Operacioni Ndërkombëtar i Monitorimit
+1. Operacioni Ndërkombëtar i Monitorimit do të mbështesë procesin e rivlerësimit nëpërmjet monitorimit dhe mbikëqyrjes së gjithë procesit. Ky Operacion përfshin partnerët në kuadër të procesit të integrimit europian dhe bashkëpunimit euro-atlantik dhe udhëhiqet nga Komisioni Europian.
+2. Operacioni Ndërkombëtar i Monitorimit i ushtron detyrat e veta sipas marrëveshjeve ndër-kombëtare. Operacioni Ndërkombëtar i Monitorimit emëron vëzhguesit ndërkombëtarë pas njoftimit të Këshillit të Ministrave. Vëzhguesit emërohen nga radhët e gjyqtarëve ose prokurorëve me jo më pak se 15 vjet eksperiencë në sistemin e drejtësisë së vendeve të tyre përkatëse. Mandati i vëzhguesit ndërkombëtar ndërpritet nga Operacioni Ndërkombëtar i Monitorimit për shkelje të rënda.
+3. Vëzhguesi ndërkombëtar ushtron këto detyra:
+a) i jep rekomandime Kuvendit lidhur me kualifikimin dhe përzgjedhjen e kandidatëve për pozicionin e anëtarit të Komisionit, gjyqtarit të Kolegjit të Apelimit dhe Komisionerit Publik;
+b) paraqet gjetje dhe mendime mbi çështje që shqyrtohen nga Komisioni dhe nga Kolegji i Apelimit, si dhe kontribuon për kontrollin e figurës sipas nenit DH. Lidhur me këto gjetje, vëzhguesi ndërkombëtar mund të kërkojë që Komisioni ose Kolegji i Apelimit të marrë në shqyrtim prova ose të paraqesë prova të marra nga organet shtetërore, entitetet e huaja ose personat privatë, sipas ligjit;
+c) u jep komisionerëve publikë rekomandime me shkrim për të paraqitur ankim. Në rast se Komisioneri Publik nuk i zbaton rekomandimet, ai përgatit një raport me shkrim duke dhënë arsyet e refuzimit;
+ç) kanë të drejtën të marrin të gjithë informacionet menjëherë, të dhënat për persona dhe dokumentet e nevojshme, me qëllim monitorimin e procesit të rivlerësimit në të gjitha nivelet dhe fazat.

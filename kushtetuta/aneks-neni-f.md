@@ -1,0 +1,10 @@
+# Neni F
+Kolegji i Apelimit
+1. Kolegji i Apelimit përbëhet nga shtatë gjyqtarë dhe është organi i vetëm gjyqësor që shqyrton ankimet kundër vendimeve të Komisionit, sipas këtij Aneksi dhe ligjit. Kolegji vendos në trupa gjykuese me pesë anëtarë secili.
+2. Ndaj vendimeve të Komisionit mund të ushtrojnë ankim pranë këtij Kolegji subjekti i rivlerësimit dhe Komisioneri Publik, sipas ligjit, me përjashtim të vendimeve të marra sipas nenit Ë, paragrafi 2, të Aneksit.
+3. Kolegji mund të kërkojë mbledhjen e fakteve ose të provave, si dhe të korrigjojë çdo gabim procedural të kryer nga ana e Komisionit, duke mbajtur parasysh të drejtat themelore të subjektit të rivlerësuar. Kolegji vendos në lidhje me çështjen dhe nuk mund t’ia kthejë atë Komisionit për rishqyrtim. Juridiksioni kushtetues nuk lejon të vihen në diskutim parimet e kushtetutshmërisë, mbi të cilat është bazuar procesi i rivlerësimit dhe si i tillë bazohet tek kriteret e përcaktuara në këtë ligj.
+4. Vëzhguesi ndërkombëtar në Kolegjin e Apelimit gëzon të njëjtat të drejta si dhe vëzhguesi ndërkombëtar pranë Komisionit.
+5. Gjatë periudhës së shqyrtimit të ankimit subjekti i rivlerësimit paguhet në masën 75 për qind të pagës. Nëse Kolegji pranon ankimin duke shfuqizuar vendimin e Komisionit, pjesa prej 25 për qind e pagës i paguhet subjektit për të gjithë periudhën e ndërprerjes. Vendimi përfundimtar që urdhëron shkarkimin nga detyra, hyn në fuqi menjëherë.
+6. Kur ushtron ankim kundër masës disiplinore të shkarkimit, subjekti i rivlerësimit pezullohet nga detyra deri në marrjen e vendimit nga Kolegji.
+7. Kolegji lë në fuqi, ndryshon ose rrëzon vendimin e Komisionit, duke dhënë vendim me shkrim të arsyetuar. Në rastet e ankimeve nga Komisioneri Publik, Kolegji nuk mund të vendosë një masë disiplinore më të rëndë, pa i dhënë subjektit të rivlerësimit kohë të mjaftueshme për t’u përgatitur dhe për t’u dëgjuar në seancë.
+8. Subjektet që rivlerësohen mund të ushtrojnë ankim në Gjykatën Europiane për të Drejtat e Njeriut.

@@ -1,6 +1,6 @@
 # Neni 136
-1. Anëtarët e Gjykatës së Lartë emërohen nga Presidenti i Republikës me pëlqimin e Kuvendit.
-2. Njëri nga anëtarët emërohet Kryetar sipas procedurës së parashikuar në paragrafin 1 të këtij neni.
-3. Kryetari dhe anëtarët e Gjykatës së Lartë qëndrojnë në detyrë për 9 vjet pa të drejtë riemërimi.
-4. Gjyqtarët e tjerë emërohen nga Presidenti i Republikës me propozim të Këshillit të Lartë të Drejtësisë.
-5. Gjyqtarë mund të jenë vetëm shtetasit me arsim të lartë juridik. Kushtet dhe procedura e zgjedhjes caktohen me ligj.
+1. Gjyqtarët e Gjykatës së Lartë emërohen nga Presidenti i Republikës, me propozim të Këshillit të Lartë Gjyqësor, për një mandat 9-vjeçar, pa të drejtë riemërimi.
+2. Presidenti i Republikës, brenda 10 ditëve nga data e marrjes së vendimit të Këshillit të Lartë Gjyqësor, emëron gjyqtarin e Gjykatës së Lartë, me përjashtim të rasteve kur Presidenti konstaton se kandidati nuk plotëson kriteret e kualifikimit ose kushtet e zgjedhshmërisë, sipas ligjit. Dekreti i Presidentit të Republikës për mosemërimin e kandidatit humbet fuqinë kur kundër tij votojnë shumica e anëtarëve të Këshillit të Lartë Gjyqësor. Në këtë rast, si dhe kur Presidenti nuk shprehet, kandidati shpallet i emëruar dhe fillon detyrën brenda 15 ditëve nga data e vendimit të Këshillit të Lartë Gjyqësor.
+3. Gjyqtari i Gjykatës së Lartë zgjidhet nga radhët e gjyqtarëve me të paktën 13 vjet përvojë në ushtrimin e profesionit. Një e pesta e gjyqtarëve në këtë gjykatë përzgjidhet mes juristëve të spikatur me jo më pak se 15 vjet përvojë si avokatë, profesorë ose lektorë të së drejtës, juristë të nivelit të lartë në administratën publike ose në fusha të tjera të së drejtës. Kandidatët që përzgjidhen nga radhët e juristëve duhet të kenë gradë shkencore në drejtësi.
+4. Kandidati jo gjyqtar nuk duhet të ketë mbajtur funksione politike në administratën publike, ose pozicione drejtuese në parti politike, gjatë 10 vjetëve të fundit para kandidimit. Kritere të tjera dhe procedura e përzgjedhjes së gjyqtarit parashikohen me ligj.
+5. Gjyqtari i Gjykatës së Lartë qëndron në detyrë deri në emërimin e pasardhësit, përveç rasteve të parashikuara në nenin 139, paragrafi 3, nënparagrafët “c”, “ç”, “d” dhe “dh”.
