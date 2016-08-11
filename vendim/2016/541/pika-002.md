@@ -1,0 +1,1 @@
+2. Në listën e inventarit të pronave të paluajtshme shtetërore, që i bashkëlidhet vendimit nr. 1058, datë 16.7.2008, të Këshillit të Ministrave, të hiqet prona e përcaktuar në pikën 1, të këtij vendimi.

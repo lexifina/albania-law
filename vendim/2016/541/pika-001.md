@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Vlorë të sipërfaqes 371 (treqind e shtatëdhjetë e një) m2 truall, pjesë e pronës me nr. 17, me emërtimin “Rezidenca Qeveritare Vlorë”, sipas planimetrisë bashkëlidhur, me qëllim ndërtimin e rrugës “Dhimitër Konomi”, Vlorë.
