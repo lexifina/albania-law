@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike shtetërore, brenda juridiksionit territorial dhe administrativ të njësisë administrative përbërëse Ruzhdie, të Bashkisë Patos, që transfe-rohen në pronësi ose në përdorim të saj, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij
+Lista e inventarit të njësisë administrative Ruzhdie përbëhet nga 54 (pesëdhjetë e katër) fletë, që i bashkëlidhet këtij vendimi dhe përfundon me numrin rendor 865 (tetëqind e gjashtëdhjetë e pesë).
