@@ -1,0 +1,1 @@
+1. Miratimin e trajtimit financiar për kategoritë e punonjësve të Operatorit të Shpërndarjes së Energjisë Elektrike sh.a., sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
