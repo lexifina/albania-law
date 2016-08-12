@@ -1,0 +1,1 @@
+9. Procedurat dhe kriteret për përzgjedhjen e përfituesve përcaktohen në rregulloren e funksionimit të programit për mbështetjen e ekonomisë, e cila miratohet me vendim të Komitetit për Zhvillimin e Rajoneve.
