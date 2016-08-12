@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksion i rrugës “Dervish Hekali”, i hapësirave përreth saj dhe rehabilitimi i fasadave”, Fier.
