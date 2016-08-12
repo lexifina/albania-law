@@ -1,0 +1,1 @@
+2. Ministrisë së Drejtësisë dhe Ministrisë së Punëve të Brendshme u ndalohet të ndryshojnë destinacionin e pronës, të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojnë ose t’ua japin në përdorim të tretëve.
