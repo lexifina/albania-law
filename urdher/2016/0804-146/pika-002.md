@@ -1,0 +1,1 @@
+2. Delegimin e kompetencave administrative që zotëron Sekretari i Përgjithshëm i Ministrisë së Mjedisit, Drejtorit të Përgjithshëm të Shërbimeve Mbështetëse znj. Valbona Ballgjini për periudhën nga data 11.8.2016 deri në datën 22.8.2016.

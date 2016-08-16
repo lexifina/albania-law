@@ -1,0 +1,1 @@
+3. Për zbatimin e këtij urdhri ngarkohen Drejtori i Përgjithshëm i Mjedisit dhe Jetësimit të Prioriteteve z. Pëllumb Abeshi dhe Drejtori i Përgjithshëm i Shërbimeve Mbështetëse znj. Valbona Ballgjini.

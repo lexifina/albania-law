@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave administrative që zotëron Sekretari i Përgjithshëm i Ministrisë së Mjedisit, Drejtorit të Përgjithshëm të Mjedisit dhe Jetësimit të Prioriteteve z. Pëllumb Abeshi, për periudhën nga data 5.8.2016 deri në datën 10.8.2016.
