@@ -1,0 +1,1 @@
+2. Nga Regjistri Kombëtar i Gjendjes Civile gjenerohet formati elektronik i përbërësve zgje-dhorë, brenda datës 7.8.2016, i ndarë sipas qendrave të votimit të zgjedhjeve, të datës 21.6.2015, për zgjedhjet në organet e qeverisjes vendore.

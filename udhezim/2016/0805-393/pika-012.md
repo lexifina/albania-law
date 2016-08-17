@@ -1,0 +1,1 @@
+12. Zyrat e Gjendjes Civile në bashki, në datën 7.8.2016, printojnë nga Regjistri Kombëtar i Gjendjes Civile dhe firmosin e vulosin listën e zgjedhësve për çdo qendër votimi, në tri formatet e parashikuara nga Kodi Zgjedhor, duke përfshirë edhe institucionet e posaçme nën juridiksionin territorial të saj dhe ia dorëzojnë kryetarit në detyrë.
