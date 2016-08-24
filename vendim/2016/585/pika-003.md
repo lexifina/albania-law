@@ -1,0 +1,1 @@
+3. Zyra e Regjistrimit të Pasurive të Paluajtshme Publike të bëjë çregjistrimin e sipërfaqeve pyjore, të identifikuara sipas pikës 1, të këtij vendimi, nga kategoria “Tokë pyjore/kullosore” dhe ta regjistrojë në kategorinë “Tokë e zënë, objekt shfrytëzimi për ndërtimin e një kompleksi turistik rezidencial, hotelier”.

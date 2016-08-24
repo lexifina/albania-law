@@ -1,0 +1,1 @@
+2. Sipërfaqet pyjore që hiqen nga fondi pyjor dhe që janë pronë publike e shtetit, sipas kartelave të pasurisë së paluajtshme, bashkëlidhur këtij vendimi, të regjistrohen në përgjegjësi administrimi të Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, në funksion të lidhjes së marrëveshjes me shoqërinë “Omnix Albania”, sh.p.k.
