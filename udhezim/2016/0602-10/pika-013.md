@@ -1,0 +1,1 @@
+13. Çdo neglizhencë ndaj detyrimit për mirëfunksionimin e aparaturave të bllokimit/ zhurmimit ngarkon me përgjegjësi administrative dhe përgjegjësi të parashikuara nga Kodi Penal, drejtuesit dhe specialistët e IT-së në DAR/ZA, PAP dhe PK.

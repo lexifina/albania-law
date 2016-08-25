@@ -1,0 +1,1 @@
+8. Drejtoritë arsimore rajonale Tiranë, Elbasan, Shkodër, Fier dhe Korçë, të marrin masa për lirimin e mjediseve për vlerësimin e testeve në godinat e sipërpërmendura, të cilat do të ruhen me shërbim 24 orësh nga Policia e Shtetit, gjatë periudhës 5-30 qershor 2016.

@@ -1,0 +1,1 @@
+1. Për provimet e Maturës Shtetërore ndiqen procedurat e përcaktuara në “Rregulloren e Maturës Shtetërore 2016 në Republikën e Shqipërisë” miratuar me urdhrin nr. 91, datë 2.3.2016, të ministrit të Arsimit dhe Sportit.
