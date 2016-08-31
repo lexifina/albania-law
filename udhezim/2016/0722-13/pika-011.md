@@ -1,0 +1,1 @@
+11. Të gjitha IAL-të publike dhe jopublike që në kriteret e tyre kanë përcaktuar konkurs/testime etj., do t’i afishojnë listat e pjesëmarrësve në konkurset e pranimit, në datën 16 gusht 2016, në mjediset e tyre dhe në faqet zyrtare elektronike përkatëse, si dhe do të realizojnë këto konkurse, në periudhën 20 deri 30 gusht 2016.

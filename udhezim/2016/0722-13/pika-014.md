@@ -1,0 +1,1 @@
+14. IAL-të të kryejnë procesin e përzgjedhjes së kandidatëve fitues në bazë të kritereve të përcaktuara nga ana e tyre. IAL-të, për çdo program studimi që ofrojnë, publikojnë listat e renditjes së kandidatëve dhe formulën/mënyrën e përzgjedhjes. Në listën e publikuar, fituesi i fundit përcaktohet me vijë të kuqe, në varësi të kuotave të ofruara për programin përkatës të studimit.

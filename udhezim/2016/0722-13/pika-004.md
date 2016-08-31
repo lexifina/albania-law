@@ -1,0 +1,1 @@
+4. Për të gjithë maturantët e vitit shkollor 2015-2016, të cilët kanë aplikuar me formularin A1, nga drejtoritë e shkollave hidhen në portalin on-line të maturantit të gjitha të dhënat e lidhura me rezultatet e shkollimit të të gjitha viteve të arsimit të mesëm.

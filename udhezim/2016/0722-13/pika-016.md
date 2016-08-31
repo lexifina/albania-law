@@ -1,0 +1,1 @@
+16. IAL-të shpallin listat jopërfundimtare të kandidatëve fitues të identifikuar me ID-në e kandidatit, në faqet elektronike zyrtare dhe në mjediset e tyre, brenda datës 5.9.2016, duke respektuar përcaktimet e kuadrit ligjor për mbrojtjen e të dhënave personale. Një kopje elektronike e këtyre listave i përcillet AKP-së brenda datës 6.9.2016.

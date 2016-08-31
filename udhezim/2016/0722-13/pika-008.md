@@ -1,0 +1,1 @@
+8. Portali i Maturës Shtetërore nuk do të pranojë aplikime nga kandidatët të cilët nuk plotësojnë kriterin e notës mesatare, të përcaktuar me vendim të Këshillit të Ministrave për programet e ciklit të parë të studimeve dhe në programet e integruara të studimeve të ciklit të dytë me kohë të plotë, si dhe kriteret specifike të përcaktuara nga institucionet e arsimit të lartë.

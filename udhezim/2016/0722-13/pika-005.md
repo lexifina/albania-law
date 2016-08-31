@@ -1,0 +1,1 @@
+5. Për kandidatët që kanë përfunduar arsimin e mesëm të lartë përpara vitit shkollor 2015-2016 dhe që kanë aplikuar me formularin A1Z, nga drejtoritë e shkollave, ku ata kanë kryer aplikimin, hidhen në portalin on-line të maturantit të gjitha të dhënat e lidhura me rezultatet e shkollimit të të gjitha viteve të arsimit të mesëm.

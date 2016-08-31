@@ -1,0 +1,1 @@
+15. Kandidatët kanë të drejtën e ankimit në IAL brenda tri ditëve kalendarike nga dita e shpalljes së rezultateve. IAL-të detyrohen të shprehen me vendim të argumentuar lidhur me ankimimin brenda dy ditëve pune nga data e paraqitjes së ankesave. Vendimet e IAL-ve ankimohen në gjykatën kompetente.
