@@ -1,0 +1,28 @@
+{
+  "qbz_id": 15685,
+  "title": "MBI MIRATIMIN E “RREGULLAVE TË PËRKOHSHME TË TREGUT SHQIPTAR TË ENERGJISË ELEKTRIKE”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "139",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-08-15",
+  "published": "2016-08-31",
+  "in_force": "2016-08-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe i shtrin efektet nga data 1 korrik 2016\": the publication day (its effects reach back to 1 korrik 2016)",
+  "source": "https://qbz.gov.al/files/f18ab945a4be48feb36ed59f11424ef388eefb4a444136c499b4c2b2ad43f9ec.docx",
+  "source_sha256": "f18ab945a4be48feb36ed59f11424ef388eefb4a444136c499b4c2b2ad43f9ec",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15685",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/08/15/139",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    59034
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
