@@ -1,0 +1,1 @@
+17. Elementet bazë të formularit për aplikim, të standardizuar, janë: pjesa hyrëse e formularit, seksionet e brendisë dhe pjesa përmbyllëse e tij. Nga pikëpamja vizuale, këto elemente duhet të vendosen sipas formatit të paraqitur në lidhjen nr. 1, bashkëlidhur këtij vendimi dhe pjesë përbërëse e tij.

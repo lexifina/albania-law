@@ -1,0 +1,4 @@
+3. Klasifikimi i shërbimeve publike në Shqipëri bëhet me tri nivele hierarkie:
+a) Niveli i parë është “Funksioni”, i cili pasqyron ndarjen tematike, sipas llojeve të shërbimeve që paraqesin, në vija të përgjithshme, karakteristika të përbashkëta dhe përmban grupe shërbimesh;
+b) Niveli i dytë është “Grupi i shërbimeve”, i cili pasqyron një nënndarje të funksionit sipas nëntematikave specifike. Shërbimet që i përkasin një grupi janë të ngjashme ndërmjet tyre dhe të dallueshme nga grupet e tjera brenda funksionit, për shkak të llojit apo qëllimit që ka grupi;
+c) Niveli i tretë është “Shërbimi”, si njësia më e vogël bashkuese e klasifikimit, e cila pasqyron një shërbim publik unik, për të cilin aplikohet më vete. Shërbimi ofrohet brenda grupit të shërbimeve dhe është i dallueshëm nga shërbimet e tjera nga lloji apo qëllimi.

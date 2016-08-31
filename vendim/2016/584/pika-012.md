@@ -1,0 +1,1 @@
+12. Secili grup shërbimesh nuk mund të përmbajë më shumë se 99 shërbime specifike. Në rast të përfundimit të numrave brenda një grupi, për shërbimet e reja krijohet një grup shërbimi i ri, në përputhje me specifikat e shërbimeve.

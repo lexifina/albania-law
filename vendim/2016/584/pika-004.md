@@ -1,0 +1,1 @@
+4. Kodi unik që i vendoset çdo shërbimi publik ka për qëllim identifikimin e unifikuar të shër-bimeve në Republikën e Shqipërisë, në shkëm-bimet me personat fizikë dhe juridikë, si edhe ndërmjet institucioneve të administratës shtetërore.

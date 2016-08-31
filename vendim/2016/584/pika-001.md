@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i rregullave për standardizimin e mënyrës së klasifikimit, kodifikimit dhe hartimit të formularëve për aplikimin në shërbime publike, të ofruara në Republikën e Shqipërisë.

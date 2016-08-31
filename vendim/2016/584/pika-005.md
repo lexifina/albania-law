@@ -1,0 +1,1 @@
+5. Kodifikimi i shërbimeve publike pasqyron klasifikimin e shërbimeve publike, duke u vënë, në korrespondencë, një kod shifror të tria niveleve të klasifikimit, funksionit, grupit të shërbimeve dhe shërbimit, të paraprirë nga prefiksi AL.

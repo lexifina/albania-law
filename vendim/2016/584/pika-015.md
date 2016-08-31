@@ -1,0 +1,1 @@
+15. Modeli i formularit të aplikimit ka për qëllim unifikimin dhe përmirësimin e marrjes së aplikimeve nga personat fizikë e juridikë prej të gjitha institucioneve të administratës shtetërore që ofrojnë shërbime publike.

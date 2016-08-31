@@ -1,0 +1,1 @@
+10. Kur një funksion përfshin më shumë se nëntë grupe shërbimesh, kodet e mëtejshme të grupeve të shërbimit fillojnë me numrin “05” dhe rriten progresivisht me 10 numra (p.sh.: grupi 05, grupi 15, ..., grupi 95).

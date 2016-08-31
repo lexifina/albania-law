@@ -1,0 +1,1 @@
+13. Formulari për aplikim ka, gjithashtu, kod unik, i cili pason kodin e shërbimit dhe ndahet prej tij me shenjën “-”. Ky kod ka formatin 0vv. Shifra e parë e kodit fillon me numrin “1” dhe ka rend progresiv dhe dy shifrat e tjera tregojnë vitin në të cilin është krijuar dhe/ose ndryshuar formulari.

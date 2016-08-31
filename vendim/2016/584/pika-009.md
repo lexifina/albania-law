@@ -1,0 +1,1 @@
+9. Kodi i grupit të shërbimeve përbëhet nga një numër dyshifror, natyror, i cili pason kodin e funksionit. Kodi i grupit të shërbimit fillon me numrin “10” dhe rritet progresivisht me 10 numra për çdo grup (p.sh.: grupi 10, grupi 20, ..., grupi 90).
