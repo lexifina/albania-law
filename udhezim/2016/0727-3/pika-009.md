@@ -1,0 +1,1 @@
+9. Prodhuesi dhe/ose importuesi që ka regjistruar një kimikat, dërgon të dhënat e sasive të kimikateve që vendos në treg dhe ndryshime të tjera të të dhënave të kimikateve të regjistruara, brenda datës 31 mars të vitit në vijim pas regjistrimit.

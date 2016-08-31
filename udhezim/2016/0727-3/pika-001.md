@@ -1,0 +1,1 @@
+1. Para hedhjes në treg të kimikatit (substancës/përzjerjes) që do të përdoret për qëllime industriale, prodhuesi dhe/ose impor-tuesi paraqesin në ministri një aplikim me shkrim për regjistrimin e tij, në gjuhën shqipe, sipas formatit në shtojcën 1 bashkëlidhur këtij udhë-zimi.

@@ -1,0 +1,1 @@
+5. Zyra përgjegjëse për kimikatet në Ministrinë e Mjedisit, brenda 60 ditëve nga paraqitja e aplikimit kontrollon plotësimin e dosjes së aplikimit dhe nëse plotësohen kushtet për regjistrim, përcakton numrin e regjistrimit për çdo substance ose përzierje të regjistruar.
