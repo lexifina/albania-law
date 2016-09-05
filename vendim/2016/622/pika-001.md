@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2016, në zërin “Shpenzime korrente”, t’i shtohet fondi 8 000 000 (tetë milionë) lekë, për mbulimin e shpenzimeve për organizimin e zgjedhjeve të pjesshme për kryetar të Bashkisë Dibër.
