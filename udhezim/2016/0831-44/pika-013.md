@@ -1,0 +1,1 @@
+13. Ndryshe nga parashikimi në pikat 11 dhe 12 të këtij udhëzimi, kontrolluesi mund të rivlerësojë vetëm një herë kohën e mbajtjes së të dhënave dhe njëkohësisht për këtë njofton subjektin e të dhënave apo palët në proces. Çdo shtyrje në afat për mbajtjen e të dhënave duhet të jetë e arsyetuar.

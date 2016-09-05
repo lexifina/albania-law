@@ -1,0 +1,1 @@
+6. Çdo kontrollues përcakton në rregulloren e veçantë për mbrojtjen e të dhënave personale dhe ruajtjen e sigurisë së tyre, masa organizative dhe teknike të përshtatshme me natyrën e përpunimit të të dhënave personale, të cilat duhen marrë dhe zbatuar nga njësia përgjegjëse.

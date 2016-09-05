@@ -1,0 +1,1 @@
+3. Në çdo rast, kur njësia përgjegjëse përpunon të dhëna sensitive për interes të rëndësishëm publik, përpara bërjes publike të informacionit, kontrolluesi duhet të kërkojë autorizimin e Komisionerit sipas nenit 7.2/c, të ligjit nr. 9887/2008, “Për mbrojtjen e të dhënave personale”, i ndryshuar.

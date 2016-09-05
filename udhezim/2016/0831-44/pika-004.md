@@ -1,0 +1,1 @@
+4. Çdo kontrollues, përpara përpunimit të të dhënave personale nga njësia përgjegjëse, plotëson dhe depoziton, pranë Zyrës së Komisionerit, njoftimin ose bën përditësimin e tij, sipas neneve 21 dhe 22, të ligjit nr. 9887/2008, “Për mbrojtjen e të dhënave personale”, i ndryshuar.

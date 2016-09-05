@@ -1,0 +1,1 @@
+2. Çdo subjekt i të dhënave personale, i përfshirë në sinjalizim apo çdo palë pjesëmarrëse në procesin e hetimit administrativ, gëzon të drejtat e parashikuara në legjislacionin për mbrojtjen e të dhënave personale për çdo përpunim të pretenduar se është kryer në mënyrë të paligjshme.

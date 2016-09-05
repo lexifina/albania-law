@@ -1,0 +1,2 @@
+8. Punonjësit në njësinë përgjegjëse dhe në ILDKPKI, që vihen në dijeni me të dhënat e përpunuara, gjatë ushtrimit të funksioneve të tyre, detyrohen të nënshkruajnë deklaratën e konfi-dencialitetit për të ruajtur konfidencialitetin dhe besueshmërinë e informacionit me të cilin njihen edhe pas përfundimit të funksionit. Këto të dhëna nuk përhapen, përveç rasteve të parashikuara me ligj.
+Shkelja e detyrimit të konfidencialitetit përbën vepër penale, të parashikuar nga neni 122 i Kodit Penal.

@@ -1,0 +1,1 @@
+1. Në zbatim të ligjit nr. 9887/2008, “Për mbrojtjen e të dhënave personale”, i ndryshuar, çdo autoritet publik dhe subjekt privat në të cilët caktohet një njësi përgjegjëse, sipas ligjit nr. 60/2016, “Për sinjalizimin dhe mbrojtjen e sinjalizuesve”, si dhe ILDKPKI-së, është kontro-llues, sepse përpunon të dhëna personale.
