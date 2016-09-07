@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit privat të arsimit të lartë “ISSAT”, Tiranë, të të gjitha njësive përbërëse të tij dhe mbylljen e të gjitha detyrimeve lidhur me veprimtarinë mësi-more shkencore në të gjitha ciklet e studimit ku ushtron veprimtarinë.

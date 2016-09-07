@@ -1,0 +1,1 @@
+2. Institucioni privat i arsimit të lartë “ISSAT”, Tiranë, të arkivojë të gjithë dokumentacionin mësimor, administrativ dhe financiar, në Arkivin e Shtetit, në përputhje me kuadrin ligjor mbi arkivat, brenda një kohe sa më të shpejtë.
