@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit, “Ndërtimi dhe sistemimi i rrugës “Gjykata - Akademia e Marinës” + rruga “Duro Shaska” deri tek 7 pallatet, Vlorë, faza I”.
