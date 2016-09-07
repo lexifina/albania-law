@@ -1,0 +1,1 @@
+2. Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit është institucion buxhetor, që financohet me fonde të buxhetit të shtetit dhe fonde nga programet dhe projektet e BE-së, të shteteve të veçanta dhe të organizatave partnere, donacione të subjekteve fizike dhe juridike, vendase dhe të huaja, si dhe çdo financim tjetër të ligjshëm.

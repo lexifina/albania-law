@@ -1,0 +1,1 @@
+10. Bordi i Administrimit të Agjencisë Kombëtare të Kërkimit Shkencor dhe Inova-cionit funksionon sipas përcaktimeve të ligjit nr. 8480, datë 27.5.1999, “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”, dhe rregullores së tij të brendshme, të miratuar nga ministri i Arsimit dhe Sportit.

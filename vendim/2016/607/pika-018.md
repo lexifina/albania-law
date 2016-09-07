@@ -1,0 +1,1 @@
+18. Programet dhe projektet në administrim të Agjencisë së Kërkimit, Teknologjisë dhe Inovacionit (AKTI) transferohen me të gjitha të drejtat dhe detyrimet pranë Agjencisë Kombëtare të Kërkimit Shkencor dhe Inovacionit, pas hyrjes në fuqi të këtij vendimi.

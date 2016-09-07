@@ -1,0 +1,1 @@
+16. Numri i punonjësve të Agjencisë së Kërkimit, Teknologjisë dhe Inovacionit (AKTI) i kalon AKKSHI-it. Për nëpunësit civilë të AKTI-t zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe ristrukturimit të institucionit.

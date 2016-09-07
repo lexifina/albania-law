@@ -1,0 +1,1 @@
+11. Kryetari dhe anëtarët e bordit të administrimit të Agjencisë Kombëtare të Kërkimit Shkencor dhe Inovacionit, për çdo pjesëmarrje në mbledhje, shpërblehen nga buxheti i Agjencisë Kombëtare të Kërkimit Shkencor dhe Inovacionit, sipas përcaktimeve të kuadrit ligjor në fuqi.

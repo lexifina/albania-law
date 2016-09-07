@@ -1,0 +1,1 @@
+15. Marrëdhëniet e punës së nëpunësve të Agjencisë Kombëtare të Kërkimit Shkencor dhe Inovacionit rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë të Agjencisë Kombëtare të Kërkimit Shkencor dhe Inovacionit rregullohen në bazë të dispozitave të Kodit të Punës.

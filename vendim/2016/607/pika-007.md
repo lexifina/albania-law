@@ -1,0 +1,1 @@
+7. Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit organizohet dhe funksionon nëpërmjet organeve dhe autoriteteve drejtuese të saj, të cilat janë bordi i administrimit dhe drejtori i Përgjithshëm.

@@ -1,0 +1,1 @@
+3. Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit ka për mision të nxisë kërkimin shkencor dhe inovacionin, nëpërmjet mbështetjes, monitorimit e vlerësimit të programeve dhe projekteve në fushën e shkencës, teknologjisë dhe inovacionit (SHTI), si dhe administrimin e përditësimin e bazës kombëtare të të dhënave për kërkimin shkencor dhe inovacionin.
