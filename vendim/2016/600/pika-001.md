@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare nga Këshilli i Ministrave i Republikës së Shqipërisë për qeverinë e Maqedonisë, në shumën 100 000 (njëqind mijë) euro, për lehtësimin e pasojave të dëmeve të shkaktuara nga përmbytjet në gusht 2016.

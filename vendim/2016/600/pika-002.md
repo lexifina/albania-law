@@ -1,0 +1,1 @@
+2. Ministrisë së Punëve të Jashtme, në programin buxhetor 01120, “Mbështetje diplomatike jashtë shtetit”, t’i shtohet kundërvlera në lekë e fondit prej 100 000 (njëqind mijë) eurosh, shpenzime korrente, për t’u përdorur si ndihmë financiare për lehtësimin e pasojave të dëmeve të shkaktuara nga përmbytjet e muajit gusht 2016, në Maqedoni.
