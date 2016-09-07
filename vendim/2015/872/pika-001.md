@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura, për vitin 2016, në shumën 43 756 000 (dyzet e tre milionë e shtatëqind e pesëdhjetë e gjashtë mijë) lekë, sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi.
