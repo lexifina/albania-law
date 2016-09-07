@@ -1,0 +1,1 @@
+2. Vlera e përcaktuar si detyrim në pikën 1, të këtij vendimi, gjatë ekzekutimit të vendimit të konvertohet në lekë, në bazë të kursit të këmbimit të bankës ku është depozituar shuma në datën e kryerjes së pagesës.
