@@ -1,0 +1,1 @@
+6. Institucioni arsimor privat, parauniversitar, i arsimit bazë, “Deutsch-Albanische Schule”/ “Shkolla gjermano-shqiptare”, duhet të miratojë në Ministrinë e Arsimit dhe Sportit çdo ndryshim në planin mësimor, programet e lëndëve apo tekstet që do të përdorë, si edhe çdo projekt apo eksperimentim psiko-padagogjiko-didaktik që kërkon të kryejë, sipas rastit.

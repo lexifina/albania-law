@@ -1,0 +1,1 @@
+2. Institucioni arsimor privat, parauniversitar, i arsimit bazë, “Deutsch-Albanische Schule”/ “Shkolla Gjermano-Shqiptare”, do të ushtrojë veprimtarinë arsimore në adresën: Rruga “Nikolla Nishku”, nr. 15, Tiranë.

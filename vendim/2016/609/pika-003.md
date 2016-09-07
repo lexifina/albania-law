@@ -1,0 +1,1 @@
+3. Në institucionin arsimor privat, parauniversitar, të arsimit bazë, “Deutsch-Albanische Schule”/ “Shkolla gjermano-shqiptare”, mësimi do të zhvillohet në gjuhë të huaj (në gjuhën gjermane). Në lëndët si gjuha shqipe, letërsia shqipe, historia e kombit shqiptar dhe gjeografia e Shqipërisë, mësimi do të zhvillohet, detyrimisht, në gjuhën shqipe.
