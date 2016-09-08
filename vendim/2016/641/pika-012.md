@@ -1,0 +1,1 @@
+12. Me hyrjen në fuqi të këtij vendimi, Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe zyrat vendore të regjistrimit të pasurive të paluajtshme, Korçë, Devoll, Berat, Skrapar, Fier dhe Lushnjë të fillojnë procedurat për hedhjen e gjurmës së projektit mbi hartat kadastrale, sipas planimetrisë, që do t’u vihet në dispozicion nga shoqëria TAP AG.

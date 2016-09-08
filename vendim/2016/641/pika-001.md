@@ -1,0 +1,1 @@
+1. Shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit të kalimit për interes publik mbi disa pasuri të paluajtshme, pronë private, që preken nga ndërtimi i sistemit të gazsjellësit, korridori i ndërtimit, rrugët hyrëse dhe valvulat e bllokimit për projektin e Gazsjellësit Trans Adriatik (projekti TAP).
