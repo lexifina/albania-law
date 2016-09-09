@@ -175,8 +175,8 @@ Talipi (Peshkëpia), nr. 29442/10
 Asnjë (nuk është paraqitur faturë)
 10.
 Kati, nr. 29617/10
-235,200 euro (dyqind e tridhjetë e pesë mijë e dyqind)
-850 euro (tetëqind e pesëdhjetë)
+117 600 (njëqind e shtatëmbëdhjetë mijë e gjashtëqind)
+850 (tetëqind e pesëdhjetë) euro
 11.
 Vrioni, nr. 33154/11
 Asnjë (pretendimet jashtë afatit)
