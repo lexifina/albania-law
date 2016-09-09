@@ -1,0 +1,1 @@
+3. Vlerat e përcaktuara si detyrim në pikën 1, të këtij vendimi, të depozitohen në një nga bankat e nivelit të dytë, në emër të kërkuesve, sipas shtojcës 1 bashkëlidhur këtij vendimi, në vlerën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 7.4.2016.
