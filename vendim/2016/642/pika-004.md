@@ -1,0 +1,1 @@
+4. Ngarkohen Muzeu Kombëtar i Fotografisë “Marubi” të kryejë shoqërimin dhe kthimin e negativëve në vendin e origjinës, pas mbarimit të veprimtarisë, dhe Qendra e Inventarizimit të Pasurive Kulturore të kryejë regjistrimin e lëvizjes së objekteve.
