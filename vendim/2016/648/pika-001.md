@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për mënyrën e organizimit dhe të funksionimit të Komisionit të Apelimit të Gjobave, procedurat e emërimit, të shkarkimit dhe masën e shpërblimit të anëtarëve”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
