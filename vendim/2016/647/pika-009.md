@@ -1,0 +1,1 @@
+9. Propozimi duhet të përmbajë, gjithashtu, çdo informacion tjetër që mund t’i kërkohet aplikantit në dokumentet e procedurës së konkurrimit apo nga komisioni, të cilat do të gjykohen të nevojshme për veprimtarinë që do të ushtrohet. Propozimi duhet të paraqitet në dy gjuhë, në gjuhën shqipe dhe angleze.

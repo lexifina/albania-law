@@ -1,0 +1,1 @@
+7. Çdo person juridik apo bashkim personash juridikë, vendas ose të huaj, pas shpalljes së ftesës për konkurrim nga autoriteti përgjegjës ka të drejtë të aplikojë pranë kësaj strukture për të paraqitur propozimin e tij.
