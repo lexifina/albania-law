@@ -1,0 +1,1 @@
+11. Analizat dhe testet mjekësore, që lidhen me ekzaminimin mjekësor profesional në punë, ofrohen në institucionet shëndetësore, publike apo private, të licencuara sipas legjislacionit në fuqi për licencimin në Republikën e Shqipërisë.

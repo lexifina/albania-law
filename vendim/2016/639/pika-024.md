@@ -1,0 +1,5 @@
+24. Nëse, sipas përcaktimeve të shkronjës “a”, të pikës 23, të këtij vendimi, në “Raportin e kontrollit shëndetësor në punë” deklarohet se gjendja shëndetësore e një punëmarrësi nuk përshtatet me punën që do të kryhet, mjeku i punës vepron, si më poshtë vijon:
+a) Përshkruan trajtimin mjekësor, jep rekoman-dime për riaftësimin dhe ndjekjen në vazhdimësi, sipas përcaktimeve të legjislacionit në fuqi për aksidentet në punë dhe mjekësisë së punës, duke zbatuar sistemin e referimit të kujdesit shëndetësor në punë;
+b) Nëse është e nevojshme, dërgon punëma-rrësin për kontroll te mjeku i familjes/ mjeku tjetër specialist për trajtim jashtë institucionit, sipas sistemit të referimit të kujdesit shëndetësor;
+c) Rekomandon masat e nevojshme për mbrojtjen në punë;
+ç) Rekomandon kohën e duhur për kryerjen e ekzaminimeve mjekësore shtesë pas përfundimit të një trajtimi, me qëllim vlerësimin nëse problemet shëndetësore, të shkaktuara nga faktorët e dëmshëm të mjedisit të punës apo problemet shëndetësore, të cilat kanë shkaktuar një aksident ose sëmundje profesionale, janë eliminuar dhe gjendja shëndetësore e punëmarrësit përshtatet me punën që do të kryhet.

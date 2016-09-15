@@ -1,0 +1,6 @@
+12. Ekzaminime mjekësore profesionale shtesë kryhen të paktën 1 (një) herë në vit, nëse:
+a) ndryshojnë faktorët specifikë të riskut të mjedisit të punës, të dëmshëm për shëndetin e punëmarrësit;
+b) mjeku i punës referon edhe punëmarrës të tjerë, të cilët punojnë në kushte të ngjashme pune me punëmarrësin, për të cilin mjeku i punës ka vënë re të dhëna klinike/laboratorike të një sëmundjeje profesionale të zhvilluar si rezultat i ekspozimit ndaj faktorëve dëmtues të pranishëm në mjedisin e punës apo kushteve të punës;
+c) mjeku i punës ka dhënë një afat për ekzaminimet mjekësore shtesë në formën e shënimeve të veçanta apo të rekomandimeve në pjesën e dytë “Deklaratë për pajtimin e gjendjes shëndetësore të personit me punën që do të kryhet”, të shtojcës I;
+ç) me kërkesë të një punëmarrësi ose të përfaqësuesve të punëmarrësve në Këshillin e Sigurisë dhe Shëndetit në Punë, arsyetohet se faktorë specifikë risku të mjedisit të punës, të dëmshëm ndaj shëndetit, po ndikojnë negativisht në shëndetin e punëmarrësit;
+d) me kërkesë të punëdhënësit në çdo periudhë tjetër kohore, të ndryshme nga koha e përcaktuar për kontrollin mjekësor periodik të shëndetit në punë, për të siguruar që gjendja shëndetësore e një punëmarrësi është në përputhje me punën që do të kryejë, duke përfshirë rastin e paaftësisë për të punuar.

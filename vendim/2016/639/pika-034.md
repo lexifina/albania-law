@@ -1,0 +1,1 @@
+34. Të gjitha dokumentet, që plotësohen gjatë kontrollit shëndetësor në punë, si “Raporti i kontrollit shëndetësor në punë”, “Deklaratë e sëmundjes profesionale” ose shtojcat bashkëlidhur këtij vendimi, ruhen sipas legjislacionit në fuqi për ruajtjen e të dhënave personale, si dhe sipas përcaktimeve të legjislacionit në fuqi për sigurinë dhe shëndetin në punë.

@@ -1,0 +1,1 @@
+20. Nëse gjatë ekzaminimit mjekësor profe-sional në punë diagnostikohet një sëmundje që nuk lidhet me punën dhe që nuk është diagnostikuar apo trajtuar më parë, mjeku i punës e referon punëmarrësin për ndjekje të mëtejshme nga mjeku i familjes. Diagnoza e re dhe rezultatet e ekzami-nimeve të kryera dokumentohen dhe ruhen nga mjeku i punës.

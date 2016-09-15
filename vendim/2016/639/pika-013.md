@@ -1,0 +1,1 @@
+13. Në rastet kur mjeku i punës referon që një punëmarrës duhet të kryejë ekzaminime mjekësore profesionale shtesë, punëdhënësi lëshon një raport të ri të kontrollit shëndetësor në punë, të cilit i bashkëlidh një kopje të “Raportit të kontrollit shëndetësor në punë”, të përgatitur më parë.

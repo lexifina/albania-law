@@ -1,0 +1,1 @@
+21. Pas marrjes së rezultateve të ekzaminimeve dhe vlerësimit të gjendjes shëndetësore të punëmarrësit, mjeku i punës plotëson pjesën e dytë “Deklaratë për përshtatjen e gjendjes shëndetësore të punëmarrësit me punën që do të kryhet” të shtojcës I.

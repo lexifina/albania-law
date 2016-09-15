@@ -1,0 +1,1 @@
+6. Punëmarrësit dërgohen për vizitë mjekësore profesionale paraprake apo periodike, duke depozituar informacionin e përcaktuar në pjesën e parë “Referim për ekzaminim mjekësor” të shtojcës I të këtij vendimi.

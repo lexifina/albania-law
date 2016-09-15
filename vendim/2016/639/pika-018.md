@@ -1,0 +1,1 @@
+18. Mjeku i punës/sëmundjeve profesionale ose specialistët e tjerë kryejnë një kontroll të shëndetit në punë të punëmarrësve, bazuar në anamnezën profesionale të punëmarrësit, si dhe, nëse është e nevojshme, kërkojnë kontrolle të mëtejshme specifike, si: analiza laboratorike, prova funksionale, ekzaminime imazherike etj.

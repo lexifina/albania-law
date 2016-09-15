@@ -1,0 +1,1 @@
+25. “Raporti i kontrollit shëndetësor në punë”, pjesa e dytë e shtojcës I, që pasqyron përshtatjen e gjendjes shëndetësore të punëmarrësit me punën që do të kryhet, përgatitet në dy kopje: kopja e parë i dorëzohet punëdhënësit dhe kopja e dytë mbahet nga mjeku i punës.

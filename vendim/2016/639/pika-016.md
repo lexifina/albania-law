@@ -1,0 +1,1 @@
+16. Gjatë çdo vizite mjekësore profesionale, mjeku i punës kërkon, nëse e gjykon të nevojshme, informacion shtesë nga mjeku i familjes së punëmarrësit, që i nënshtrohet ekzaminimit mjekësor profesional, me qëllim plotësimin e informacionit në “Raportin e kontrollit shëndetësor në punë”.

@@ -1,0 +1,1 @@
+30. Struktura, kapacitetet njerëzore, funksionimi dhe organizimi në tërësi i kabineteve të sëmundjeve profesionale, në nivel rajonal dhe në Qendrën Spitalore Universitare “Nënë Tereza”, përcaktohen sipas legjislacionit në fuqi për kujdesin shëndetësor.

@@ -1,0 +1,5 @@
+22. Në “Raportin e kontrollit shëndetësor në punë” vërtetohet që gjendja shëndetësore e punëmarrësit përshtatet me punën që do të kryhet, nëse punëmarrësi, që i nënshtrohet kontrollit shëndetësor në punë:
+a) rezulton i shëndetshëm;
+b) rezulton me probleme shëndetësore, por ekspozimi me faktorët specifikë të riskut të mjedisit të punës nuk ndikojnë në përkeqësimin e gjendjes aktuale shëndetësore të tij;
+c) rezulton me probleme shëndetësore, që i janë shkaktuar nga faktorët e riskut të mjedisit të punës, por vlerësohen të lehta, që kanë ndikim të vogël në cilësinë e jetës ose që nuk ndikojnë në zhvillimin e komplikacioneve apo janë thjesht të paranda-lueshme dhe nuk ndikojnë në vazhdimësinë e punës.
+Në këtë rast, mjeku i punës rekomandon në kartelën e shëndetit në punë përdorimin e detyrueshëm të mjeteve kolektive e individuale të mbrojtjes, si dhe masa të posaçme për mbrojtjen e shëndetit të punëmarrësit në vendin e punës. Punëdhënësi siguron ndjekjen e rekomandimeve të dhëna për mbrojtjen e shëndetit të punëmarrësit në mjedisin e punës.

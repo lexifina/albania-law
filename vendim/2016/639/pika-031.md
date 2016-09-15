@@ -1,0 +1,1 @@
+31. Në rast të konfirmimit të sëmundjes profesionale, mjekët e Kabinetit Rajonal të Sëmundjeve Profesionale, ose në Kabinetin e Sëmundjeve Profesionale të Qendrës Spitalore Universitare “Nënë Tereza” në Tiranë, deklarojnë sëmundjen profesionale, duke plotësuar shtojcën IV që i bashkëlidhet këtij vendimi.

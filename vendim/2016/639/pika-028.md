@@ -1,0 +1,1 @@
+28. Punëmarrësit, që janë të ekspozuar ose kanë qenë të ekspozuar ndaj faktorëve të riskut në vendin e punës dhe dyshohen për një sëmundje profesionale, mund të kërkojnë një kontroll të specializuar të shëndetit në punë nga mjeku i punës/mjeku i sëmundjeve profesionale ose nga mjekë specialistë të tjerë, sipas përcaktimeve të legjislacionit në fuqi për këtë çështje.
