@@ -1,0 +1,387 @@
+2.5
+3
+2
+5.1
+Muzikë
+1
+1
+1
+1
+5.2
+Art pamor
+1
+1
+1
+1
+5.3
+Kërcim
+-
+0.5
+-
+-
+5.4
+Teatër
+-
+-
+1
+-
+6
+EDUKIMI FIZIK, SPORTI DHE SHËNDETI
+3
+3
+3
+3
+7
+TEKNOLOGJI DHE TIK
+0
+0
+2
+1
+7.1
+TIK
+-
+-
+1
+1
+7.2
+Aftësimi teknologjik praktik
+-
+-
+1
+-
+8
+KURRIKULA ME ZGJEDHJE
+1
+1
+2
+2
+Gjithsej orë/javë
+20
+20/21
+27
+29
+c) Plani mësimor i shkollës speciale “Luigj Gurakuqi”
+Nr.
+Lëndët
+KLASAT
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+1
+Gjuhë amtare: Abetare, komunikim, elemente shkrimi, ushtrim të foluri
+10
+10
+10
+10
+10
+4
+4
+4
+4
+2
+Matematikë dhe zhvillim logjik
+5
+5
+5
+5
+5
+3
+3
+3
+3
+3
+Punë dore dhe art
+3
+3
+3
+3
+3
+2
+2
+2
+2
+4
+Edukim shoqëror
+2
+2
+2
+2
+2
+2
+2
+2
+2
+5
+Edukim shëndetësor dhe vetëshërbim
+2
+2
+2
+2
+2
+2
+2
+2
+2
+6
+Edukim fizik
+3
+3
+3
+3
+3
+3
+3
+3
+3
+7
+Edukim muzikor dhe muzikoterapi
+2
+2
+2
+2
+2
+2
+2
+2
+2
+8
+Terapi të foluri me seanca individuale
+2
+2
+2
+2
+2
+2
+2
+2
+2
+9
+Orientim dhe njohje me mjedisin
+1
+1
+1
+1
+1
+1
+1
+1
+1
+10
+Mësim pune
+-
+-
+-
+-
+-
+9
+9
+9
+9
+Gjithsej orë/javë:
+30
+30
+30
+30
+30
+30
+30
+30
+30
+d) Plani mësimor i shkollave të pakicave kombëtare, klasat III-V dhe VIII-IX
+Nr.
+Lëndët
+KLASAT
+III
+IV
+V
+VIII
+IX
+1
+Gjuhë amtare (greke/maqedonase)
+5
+4
+4
+4
+3
+2
+Gjuhë shqipe dhe Lexim letrar
+5
+5
+5
+4
+4
+3
+Gjuhë e huaj
+-
+-
+-
+2
+2
+4
+Matematikë
+5
+4
+4
+4
+4
+5
+Dituri natyre
+2
+3
+2
+-
+-
+6
+Fizikë
+-
+-
+-
+2
+2
+7
+Kimi
+-
+-
+-
+1
+2
+8
+Biologji dhe edukim shëndetësor
+-
+-
+-
+2
+2
+9
+Vendlindje
+-
+-
+2
+-
+-
+10
+Histori
+-
+1
+-
+2
+2
+11
+Gjeografi
+-
+-
+-
+2
+2
+12
+Histori amtare (greke/maqedonase)
+-
+-
+-
+-
+1
+13
+Gjeografi amtare (greke/maqedonase)
+-
+-
+-
+1
+-
+14
+Edukatë shoqërore
+1
+1
+1
+1
+1
+15
+Edukim figurativ
+1
+1
+1
+1
+-
+16
+Edukim muzikor
+1
+1
+1
+1
+2
+17
+Aftësim teknologjik
+1
+1
+1
+-
+-
+18
+Edukim fizik
+3
+3
+3
+3
+3
+19
+Informatikë
+-
+-
+-
+1
+1
+Gjithsej
+24
+24
+24
+31
+31
+e) Plani mësimor i shkollave të pakicave kombëtare, klasat I-II dhe VI-VII
+Nr.
+FUSHAT/LËNDËT
+Klasat
+I
+II
+VI
+VII
+1
+GJUHËT DHE KOMUNIKIMI
+8/9
+11
+10
+11
+1.1
+Gjuhë amtare (greke/maqedonase)
+8/7
+6
+4
+4
+1.2
+Gjuhë Shqipe
+0/2
+5
+4
+5
+1.3
+Gjuhë e Huaj
+-
+-
+2
+2
+2
+MATEMATIKË
+4
+4
+4
+4
+3
+SHKENCAT E NATYRËS
+1
+1
+2
+4

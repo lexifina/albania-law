@@ -1,0 +1,1 @@
+9. DAR/ZA-të që kanë shkolla ku do të zbatohet projekti “Mësime të shahut në shkollë”, të marrin masa për zbatimin e angazhimeve, në kuadër të marrëveshjes së bashkëpunimit midis Ministrisë së Arsimit dhe Sportit, Federatës Evropiane të Shahut dhe Federatës Shqiptare të Shahut.

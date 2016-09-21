@@ -1,0 +1,15 @@
+8. DAR/ZA-të dhe drejtoritë e shkollave të ndjekin me përparësi mësimin e gjuhëve të huaja:
+a) Në arsimin fillor
+Mësimi i gjuhës së huaj të parë të fillojë në klasën III dhe të sigurohet vijimësia e gjuhës së huaj për klasat e ndërmjetme të arsimit bazë. Në klasat III pilot do të zbatohet kurrikula e re me bazë kompetencën. Për herë të parë në klasat pilot nxënësit mund të zgjedhin edhe gjuhën gjermane si gjuhë të huaj të parë.
+DAR/ZA-të dhe drejtoritë e shkollave të respektojnë parimin e shumëgjuhësisë në shkolla dhe të planifikojnë, sipas angazhimeve dypalëshe, hapjen e klasave të gjuhës së huaj në klasën III të arsimit fillor, sipas ndarjes: 10% e nxënësve të zhvillojnë gjuhën italiane; 30% e nxënësve të zhvillojnë gjuhën frënge dhe pjesa tjetër (60%) të zhvillojnë gjuhën angleze ose gjermane. Planifikimi të realizohet duke pasur parasysh stafin mësimdhënës dhe strukturën e shkollës.
+Shkollat të mos planifikojnë gjuhë të huaj të dytë për klasat III, IV, V të arsimit fillor.
+b) Për nxënësit që nuk kanë zhvilluar asnjëherë gjuhë të huaja
+Për të gjithë nxënësit e klasës IX të sigurohet zhvillimi i mësimit të gjuhës e huaj, në mënyrë që të gjithë nxënësit, pa përjashtim, të jenë të përgatitur për të dhënë provimin e gjuhës së huaj në provimet e lirimit 2017.
+c) Për sigurimin e vijimësisë së gjuhës së huaj
+DAR/ZA-të dhe drejtoritë e shkollave të sigurojnë edhe vijimësinë e gjuhës së huaj të dytë të nisur në klasën VI në mbështetje të planit të ri mësimor dhe vijimësinë për nxënësit të cilët janë në vijim të planit mësimor ekzistues. Edhe në rastet e transferimeve, të ruhet vijimësia e gjuhës së huaj të parë dhe të dytë (në shkollat që e aplikojnë) nga arsimi bazë në arsimin e mesëm të lartë.
+d) Për zbatimin e memorandumeve dhe marrëveshjeve dypalëshe.
+DAR/ZA-të vijojnë zbatimin e marrëveshjeve dhe memorandumeve si vijon:
+i) Për gjuhën italiane do të vijohet të zbatohet Memorandumi i Mirëkuptimit për programin “Iliria”, duke mundësuar që 10% e numrit të nxënësve që mësojnë gjuhë të huaj, të mësojnë gjuhën italiane, duke filluar nga klasa III e arsimit fillor deri në klasën XII. Planifikimi i shkollave që do të zhvillojnë gjuhën italiane, është kompetencë e DAR/ZA-ve dhe moszbatimi ngarkon me përgjegjësi DAR/ZA-të.
+ii) Për gjuhën frënge do të vijohet të zbatohen angazhimet në kuadër të aderimit në Organizatën Botërore të Frankofonisë, duke mundësuar që 30% e nxënësve që mësojnë gjuhë të huaj, të mësojnë gjuhën frënge si gjuhë e huaj e parë nga klasa III e ciklit të ulët.
+iii) DAR Elbasan, Durrës, Korçë, Shkodër dhe Tiranë, në shkollat e të cilave funksionojnë klasat mbështetëse për seksionet dygjuhëshe, të zbatojnë me rigorozitet hapjen e klasave mbështetëse në shkollat e përcaktuara në memorandume. Hapja e klasave mbështetëse të fillojë në klasën III të ciklit të ulët në zbatim të marrëveshjeve dhe memorandumeve përkatëse. Mosrespektimi i tyre ngarkon me përgjegjësi DAR/ZA-të dhe drejtoritë e shkollave përkatëse.
+iv) Brenda datës 30 shtator 2016, DAR/ZA-të të raportojnë në DAPU (MAS) planifikimin për secilën gjuhë të huaj dhe realizimin e detyrave të mësipërme.

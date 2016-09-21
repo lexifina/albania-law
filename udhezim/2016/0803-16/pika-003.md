@@ -1,0 +1,30 @@
+3.1
+Dituri natyre
+1
+1
+-
+-
+3.2
+Fizikë
+-
+-
+1
+2
+3.3
+Kimi
+-
+-
+-
+-
+3.4
+Biologji
+-
+-
+1
+2
+4
+SHOQËRIA DHE MJEDISI
+1
+1
+3
+5

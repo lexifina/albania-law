@@ -1,0 +1,42 @@
+4.1
+Gjeografi
+-
+-
+1
+2
+4.2
+Edukim për shoqërinë
+1
+1
+-
+-
+4.3
+Qytetari
+-
+-
+1
+1
+4.4
+Histori
+-
+-
+1
+2
+4.5
+Histori amtare (greke/maqedonase)
+-
+-
+-
+-
+4.6
+Gjeografi amtare (greke/maqedonase)
+-
+-
+-
+-
+5
+ARTE
+2
+2/3
+3
+2

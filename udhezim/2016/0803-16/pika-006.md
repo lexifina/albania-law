@@ -1,0 +1,1 @@
+6. Në amzën e shkollës, vlerësimi të bëhet me shkurtime të emërtimeve të shkallëve të vlerësimit. Për “Arritje të pakënaqshme”, të shkruhet APK; për “Arritje që kanë nevojë për përmirësim”, të shkruhet ANP; për “Arritje të kënaqshme”, të shkruhet AK; për “Arritje shumë të kënaqshme”, të shkruhet ASHK dhe për “Arritje të shkëlqyera”, të shkruhet ASH.
