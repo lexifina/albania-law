@@ -1,0 +1,1 @@
+3. Për provimet kombëtare të arsimit bazë 2016, sesioni i dytë, të ndiqen procedurat e përcaktuara në urdhrin nr. 119, datë 20.3.2016, për miratimin e rregullores “Për procedurat e organizimit dhe të zhvillimit të provimeve kombëtare të arsimit bazë 2016”
