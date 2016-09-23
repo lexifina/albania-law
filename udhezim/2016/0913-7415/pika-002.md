@@ -1,0 +1,1 @@
+2. “Komisioni vlerësues i lejeve dhe çështjeve të territorit”, më poshtë i quajtur “Komisioni”, kryesohet nga sekretari i përgjithshëm dhe ka në përbërje të tij, një nënkryetar dhe 5 (pesë) anëtarë, të cilët emërohen dhe shkarkohen me urdhër të ministrit.

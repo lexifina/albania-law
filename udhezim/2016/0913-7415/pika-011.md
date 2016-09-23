@@ -1,0 +1,9 @@
+11. Sekretariati ka përgjegjësi, për:
+a) Njoftimin e kryetarit të Komisionit lidhur me kërkesat dhe çështjet për leje, që paraqiten për shqyrtim nëpërmjet sistemit elektronik, nga autoritetet e planifikimit të territorit ose institucione të tjera shtetërore apo subjektet private.
+b) Bashkëpunimin dhe koordinimin e punës me drejtoritë brenda ministrisë ose institucionet dhe agjencitë e varësisë, lidhur me sigurimin e informa-cionit të nevojshëm, në funksion të lejes së ndërtimit dhe kthimin e përgjigjes subjektit të interesuar.
+c) Në varësi të kërkesës, Sekretariati nëpërmjet institucioneve të varësisë mund të bëjë të mundur edhe sigurimin e autorizimeve apo lejeve të nevojshme, në funksion të lejeve të ndërtimit, duke respektuar legjislacionin përkatës.
+d) Njoftimin e palëve të interesuara lidhur me vendimin e Komisionit për lejet e ndërtimit apo çështje dhe problematika që shqyrtohen nga Komisioni pranë MZHETTS-së, sipas fushave të përgjegjësisë shtetërore të ministrisë;
+e) Përgatitjen e draftformularit të lejes së ndërtimit, brenda 10 (dhjetë) ditëve nga data e marrjes së njoftimit nga AZHT-ja, për lejet të cilat është marrë vendim nga KKT-ja. Sekretariati përgatit/pasqyron në draftformularin e lejes së ndërtimit, vetëm treguesit e zhvillimit dhe të dhënat teknike të ndërtimit të pasqyruara në vendimin e KKT-së dhe dokumentacionit shoqërues që i bashkëlidhen këtij vendimi, draftformulari, verifi-kohet paraprakisht dhe miratohet nga Kryetari i Komisionit të Vlerësimit ose nënkryetari dhe përcillet në AZHT me qëllim vijimin e proce-durave, sipas legjislacionit për lejet e ndërtimit.
+13. Për ndjekjen e këtij udhëzimi ngarkohen sekretari i përgjithshëm i MZHETTS-së, në cilësinë e kryetarit të Komisionit të Vlerësimit, Komisioni dhe Sekretariati.
+14. Udhëzimi nr. 217, datë 28.3.2014, shfuqi-zohet.
+15. Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

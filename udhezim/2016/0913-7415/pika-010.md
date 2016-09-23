@@ -1,0 +1,1 @@
+10. Njoftimi i vendimeve të komisionit, doku-mentacionit dhe komunikimet mes autoriteteve përgjegjëse të planifikimit dhe institucioneve të tjera, bëhet nëpërmjet Sekretariatit të Komisionit, në mënyrë elektronike ose shkresore.

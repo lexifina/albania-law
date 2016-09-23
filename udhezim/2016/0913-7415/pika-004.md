@@ -1,0 +1,1 @@
+4. Mbledhja e Komisionit zhvillohet vetëm në rast se janë të pranishëm jo më pak se gjysma e anëtarëve të Komisionit. Përjashtimisht, në pamundësi të pranisë së shumicës së anëtarëve, si më sipër, mbledhja mund të kryhet me praninë e jo më pak se 3 anëtarëve të Komisionit së bashku me kryetarin.

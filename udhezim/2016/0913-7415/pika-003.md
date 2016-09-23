@@ -1,0 +1,1 @@
+3. Komisioni mblidhet me kërkesë të kryetarit, ose nënkryetarit, sa herë që kërkohet shqyrtimi dhe vlerësimi i projekteve, kërkesave për leje, çështje që lidhen me zhvillimin apo planifikimin e territorit, sipas fushës së veprimtarisë së MZHETTS-së, si dhe për raste specifike, sipas legjislacionit në fuqi.
