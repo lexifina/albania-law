@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 1 338 044 (një milion e treqind e tridhjetë e tetë mijë e dyzet e katër) lekësh, të përballohet nga të ardhurat e Bashkisë Korçë, planifikuar në buxhetin e saj.

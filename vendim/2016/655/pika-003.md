@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronë-sohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë “tokë arë”, me sipërfaqe 13 380 (trembëdhjetë mijë e treqind e tetëdhjetë) m², me vlerë të përgjithshme prej 1 338 044 (një milion e treqind e tridhjetë e tetë mijë e dyzet e katër) lekësh.
