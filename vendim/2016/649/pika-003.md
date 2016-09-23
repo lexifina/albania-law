@@ -1,0 +1,1 @@
+3. Ngarkohet Agjencia e Legalizimit, Urbani-zimit dhe Integrimit të Zonave/Ndërtimeve Infor-male për kryerjen e procedurave të kalimit të pronësisë së parcelave ndërtimore të objekteve informale nga shteti te poseduesit e ndërtimeve pa leje.
