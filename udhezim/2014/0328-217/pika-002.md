@@ -1,1 +1,0 @@
-2. Shqyrtimi i kërkesës së subjektit, që paraqitet në Ministrinë e Zhvillimit Ekonomik, Tregtisë dhe Sipërmarrjes, mbi aplikimin për marrje leje zhvillimore që miratohet në KKT për struktura apo punime brenda fushës së veprimtarisë shtetërore që mbulon MZHETS-ja, bëhet nga Komisioni Teknik në MZHETS.

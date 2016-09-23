@@ -1,1 +1,0 @@
-26. Në rast refuzimi të lejes së përdorimit, në zbatim të pikës 4 të nenit 79 të ligjit nr. 10119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar, lëshohet akti i konstatimit të mospërputhshmërisë, i cili në pjesën e arsyetimit u referohet dokumenteve të akteve të kontrollit.

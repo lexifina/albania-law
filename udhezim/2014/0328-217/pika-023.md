@@ -1,1 +1,0 @@
-23. Sekretariati i Komisionit Teknik, nëpërmjet zyrës së protokollit të MZHETS-së, i dorëzon përfaqësuesit ligjor të subjektit aplikues apo të autorizuarit të tij, një kopje origjinale të firmosur të dokumentit administrativ teknik, që i referohet vendimit të KKT-së për miratimin e lejes, jo më vonë se 10 ditë nga data e marrjes së vendimit nga KKT-ja.
