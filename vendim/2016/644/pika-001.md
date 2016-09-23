@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, prej 5 000 000 (pesë milionë) lekësh, familjes së inspektor Adrian Halil Kodra, ish-punonjës policie në Repartin e Ndërhyrjes së Shpejtë, Shkodër, i vrarë në krye të detyrës.
