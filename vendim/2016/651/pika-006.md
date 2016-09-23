@@ -1,0 +1,1 @@
+6. Organet tatimore dhe të sigurimeve shoqërore nuk do të pranojnë kontribute suple-mentare për persona që gëzojnë titullin, por e ushtrojnë atë duke punuar në institucione kërkimore publike apo institucione jopublike, të cilat nuk janë të përcaktuara sipas pikës 2, të këtij vendimi.

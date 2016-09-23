@@ -1,0 +1,1 @@
+5. Kontributet suplementare, sipas masës së përcaktuar në nenin 4, të ligjit nr. 10139, datë 15.5.2009, të ndryshuar, llogariten nga subjekti punëdhënës dhe derdhen në organet tatimore sipas procedurave dhe afateve të përcaktuara për mbledhjen e kontributeve nga skema e sigurimit shoqëror të detyrueshëm.

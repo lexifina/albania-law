@@ -1,0 +1,1 @@
+1. Në zbatim të shkronjës “c”, të pikës 3, të nenit 2, të ligjit nr. 10139, datë 15.5.2009, të ndryshuar, institucionet jopublike, të cilat për-fshihen në këtë skemë për efekt të këtij ligji, janë universitetet, akademitë, kolegjet universitare, kolegjet profesionale të larta, si dhe institutet, qen-drat e agjencitë e kërkimit shkencor të akredituara.
