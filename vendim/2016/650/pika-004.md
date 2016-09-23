@@ -1,0 +1,1 @@
+4. Shuma e kompensimit për shërbime publike nuk duhet të kalojë koston neto të ofrimit të shërbimit publik, përfshirë dhe një marzh fitimi të arsyeshëm. Llogaritja e kostos neto, marzhit të fitimit dhe kontrolli i mbikompensimit kryhet sipas parashikimeve të bëra në kreun III, të këtij vendimi.

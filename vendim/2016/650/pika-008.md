@@ -1,0 +1,6 @@
+8. Ndihma në formë kompensimi për shërbimet publike është e lejueshme për periudhën e kohëzgjatjes së mandatit të shërbimit, në rastet kur:
+kompensimi për shërbimet publike nuk e kalon shumën vjetore prej 2 085 000 000 (dy miliardë e tetëdhjetë e pesë milionë) lekësh. Në rastin kur mandati jepet për një periudhë më të gjatë se një vit, shuma vjetore llogaritet si mesatare e shumës vjetore të kompensimit gjatë periudhës së mandatit;
+kompensimi jepet për ofrimin e shërbimeve publike nga spitalet që ofrojnë shërbime mjekësore, përfshirë shërbimet e urgjencës;
+kompensimi jepet për ofrimin e shërbimeve publike, me qëllim përmbushjen e nevojave sociale, të shëndetit, përkujdesjes ndaj fëmijëve, integrimit social, integrimit në tregun e punës apo banesave sociale;
+ç) kompensimi jepet për ofrimin e shërbimeve publike, nga linjat ajrore ose detare të brendshme, në rastin kur trafiku mesatar vjetor, në dy vitet e mëparshme financiare, nuk i ka kaluar 300 000 (treqind mijë) pasagjerë;
+kompensimi jepet për ofrimin e shërbimeve publike për aeroportet, në rastin kur trafiku mesatar vjetor, gjatë dy viteve financiare të mëparshme, nuk i ka kaluar 200 000 (dyqind mijë) pasagjerë, si dhe për portet, për të cilat trafiku mesatar vjetor, gjatë dy viteve financiare të mëparshme, nuk i ka kaluar 300 000 (treqind mijë) pasagjerë.

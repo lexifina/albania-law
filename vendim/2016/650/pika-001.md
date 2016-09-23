@@ -1,0 +1,1 @@
+1. Ky vendim përcakton kriteret, intensitetin e ndihmës dhe procedurat për dhënien e autorizimin e ndihmës shtetërore në formën e kompensimit të shërbimeve me interes të përgjithshëm ekonomik dhe publik.
