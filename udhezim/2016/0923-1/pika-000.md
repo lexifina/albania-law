@@ -1,0 +1,1 @@
+Përcaktimin e rregullave për miratimin e strukturës, kritereve të përzgjedhjes dhe të trajnimit të punonjësve të njësisë përgjegjëse, e cila regjistron, heton administrativisht dhe shqyrton sinjalizimet, në subjektet private, si më poshtë vijon:

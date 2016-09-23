@@ -1,0 +1,1 @@
+4. Funksionet e njësisë përgjegjëse duhet të bëhen pjesë e përshkrimit të pozicionit të punës, si dhe të përcaktohen në rregulloren e brendshme të subjektit privat apo çdo akt tjetër të brendshëm të tij. Subjektet private duhet të garantojnë vazhdimësi në ushtrimin e funksioneve të njësisë përgjegjëse.

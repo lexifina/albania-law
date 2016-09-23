@@ -1,0 +1,1 @@
+11. Punonjësit e njësisë përgjegjëse në subjektet private i nënshtrohen trajnimit të detyrueshëm për kryerjen e detyrave dhe përgjegjësive të përcaktuara në ligjin nr. 60/2016 dhe akteve nënligjore të dala në zbatim të tij.

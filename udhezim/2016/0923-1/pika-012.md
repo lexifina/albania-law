@@ -1,0 +1,1 @@
+12. Trajnimi organizohet në mënyrë periodike nga ILDKPKI-ja në bashkëpunim me subjektet private. Subjektet private janë të detyruara të mundësojnë pjesëmarrjen në trajnim nga punonjësit e njësive përgjegjëse, sa herë njoftohen paraprakisht nga ILDKPKI-ja.

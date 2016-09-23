@@ -1,0 +1,1 @@
+7. Përpara caktimit apo përzgjedhjes për të qenë pjesë e njësisë përgjegjëse, punonjësi duhet të plotësojë me shkrim deklaratën e pëlqimit ku pranon detyrën e punonjësit të njësisë përgjegjëse, në rast caktimi apo përzgjedhjeje nga subjekti privat.

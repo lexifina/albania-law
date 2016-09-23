@@ -1,0 +1,1 @@
+1. Subjektet private sipas përkufizimit të ligjit nr. 60/2016, “Për sinjalizimin dhe mbrojtjen e sinjalizuesve”, të cilët kanë më shumë se 100 punonjës ngarkohen të krijojnë njësinë përgjegjëse, e cila ndjek në vazhdimësi procesin e sinjalizmit të një veprimi ose praktike të dyshuar korrupsioni, si dhe mbrojtjen e sinjalizuesve nga hakmarrja në vendin e punës.
