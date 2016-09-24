@@ -1,0 +1,21 @@
+# Neni 3
+Përkufizime
+Në këtë ligj, termat e mëposhtëm kanë këto kuptime:
+1. “Arsye madhore të lidhura me interesin publik” janë politika publike, sigurimi/mbrojtja publike, siguria publike, shëndeti publik, ruajtja e ekuilibrit financiar të sistemit të sigurimeve shoqërore, mbrojtja e konsumatorëve, përfituesve të shërbimeve dhe punonjësve, korrektësia, drejtësia në transaksionet tregtare, lufta ndaj mashtrimeve tregtare, krimit ekonomik, mbrojtja e mjedisit dhe e ambientit qytetës, shëndeti i kafshëve, pronësia intelektuale, ruajtja e trashëgimisë historike e kulturore kombëtare, objektivat e politikës sociale dhe objektivat e politikës kulturore.
+2. “Autoritet kompetent” është çdo organ ose autoritet që ka rol mbikëqyrës apo rregullator në një veprimtari shërbimi, në mënyrë të veçantë organet administrative, përfshirë gjykatat administrative, organet profesionale dhe shoqatat apo organizata të tjera profesionale, të cilat rregullojnë, në mënyrë kolektive, ofrimin ose përfitimin e një shërbimi apo ushtrimin e veprimeve të tjera të lidhura me të.
+3. “Autoriteti përgjegjës” është autoriteti që mbulon çështjet dhe harton politikat e nevojshme për një sektor të caktuar.
+4. “Komunikim tregtar” është çdo formë komunikimi, e drejtpërdrejtë apo e tërthortë, që ka për qëllim të promovojë mallrat, shërbimet apo imazhin e një sipërmarrjeje, organizate ose personi të angazhuar në një veprimtari tregtare, industriale, zejtare, apo në ushtrimin e një profesioni të rregulluar. Nuk përbëjnë komunikim tregtar, në kuptim të këtij ligji:
+a) informacioni që mundëson aksesin e drejtpërdrejtë në veprimtarinë e një sipër-marrjeje, organizate apo personi, si emri i domain-it në internet apo adresa e postës elek-tronike;
+b) komunikimi lidhur me mallrat, shërbimet, imazhin e një sipërmarrjeje, organizate apo personi, i ofruar në mënyrë të pavarur dhe pa kundërshpërblim.
+5. “Kriter” është çdo detyrim, ndalim, kusht apo kufizim, i parashikuar në legjislacionin sektorial. Rregullat e parashikuara në kontratat kolektive të punës nuk konsiderohen si kritere, sipas kuptimit të këtij ligji.
+6. “Legjislacion sektorial” është legjislacioni, duke përfshirë ligje, vendime, rregullore, udhëzime dhe çdo akt tjetër ligjor apo nënligjor, si dhe rregullat e parashikuara sipas akteve të urdhrave ose organizatave profesionale, që rregullojnë ushtrimin e veprimtarive në një sektor të caktuar.
+7. “Ministria” është ministria që mbulon çështjet e tregtisë.
+8. “Ofrues” është çdo person fizik apo juridik, i regjistruar në Republikën e Shqipërisë në përputhje me legjislacionin në fuqi, i cili ofron apo realizon një shërbim.
+9. “Përfitues apo marrës shërbimi” është çdo person fizik ose juridik, shtetas shqiptar apo i huaj, i cili, për qëllime profesionale ose jo, përdor apo dëshiron të përdorë një shërbim.
+10. “Profesion i rregulluar” është çdo veprimtari profesionale apo grup veprimtarish profesionale, sipas përcaktimeve të bëra në legjislacionin shqiptar në fuqi për profesionet e rregulluara.
+11. “Skemë autorizimi” është çdo procedurë apo akt administrativ, në bazë të së cilës një autoritet kompetent i jep ofruesit ose përfituesit të një shërbimi një vendim zyrtar ose të nënkuptuar për ofrimin e një shërbimi apo aksesin në një veprimtari shërbimi.
+Në kuptim të këtij ligji, termat licencë, leje, autorizim, certifikatë, pëlqim, regjistrim pranë ndonjë urdhri apo organizate profesionale, njoftim, si edhe çdo term tjetër i ngjashëm me to në legjislacionin shqiptar në fuqi, nëpërmjet të cilit lejohet ose kufizohet ushtrimi i një aktiviteti apo ofrimi i një shërbimi, do të konsiderohen si skemë autorizimi.
+12. “Shërbim” është çdo veprimtari ekonomike, e kryer nëpërmjet vetëpunësimit, kundrejt një shpërblimi, si edhe çdo lloj veprimtarie me karakter intelektual, e zhvilluar në formën e sipërmarrjes apo në atë profe-sionale, në mënyrë të pavarur dhe kundrejt një shpërblimi.
+13. “Shërbime ekonomike me interes të përgjithshëm” janë shërbimet me interes të përgjithshëm, që ofrohen kundrejt një shpër-blimi.
+14. “Shërbime joekonomike me interes të përgjithshëm” janë shërbimet me interes të përgjithshëm, që ofrohen pa shpërblim.
+15. “Themelim dhe ushtrim i aktivitetit” është ushtrimi faktik i një veprimtarie ekonomike nga ofruesi i shërbimit, për një periudhë të pacaktuar dhe nëpërmjet një selie të përhershme në Republikën e Shqipërisë.
