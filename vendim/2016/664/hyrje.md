@@ -1,0 +1,5 @@
+VENDIM
+Nr. 664, datë 21.9.2016
+PËR MBULIMIN E SHPENZIMEVE TË MJEKIMIT TË Z. ILIR OHRI
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 5, të ligjit nr. 147/2015, “Për buxhetin e vitit 2016”, dhe në vijim të shkronjës “c”, të pikës 9, të vendimit nr. 33, datë 20.1.2016, të Këshillit të Ministrave, “Për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor për vitin 2016”, të ndryshuar, me propozimin e ministrit të Shëndetësisë, Këshilli i Ministrave
+VENDOSI:
