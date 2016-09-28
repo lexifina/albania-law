@@ -1,0 +1,1 @@
+2. OSHEE sh.a. të prokurojë fondin limit, të llogaritur si shumë e fondit buxhetor të miratuar për vitin 2016, për Ministrinë e Punëve të Brendshme, programi buxhetor “Shërbimi i Gjendjes Civile” dhe fondin e saj, të planifikuar për këtë projekt.

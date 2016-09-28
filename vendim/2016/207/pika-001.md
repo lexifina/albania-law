@@ -1,0 +1,1 @@
+1. Ngarkimin e Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE sh.a.) si organ qendror blerës, për kryerjen e procedurës së prokurimit publik për llogari të vet dhe të Ministrisë së Punëve të Brendshme, për projektin “Ndërtimi i një sistemi funksional adresash”.
