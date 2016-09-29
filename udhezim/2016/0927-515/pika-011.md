@@ -1,0 +1,1 @@
+11. Rregullimet praktike për marrjen e vendimit për regjistrim në regjistër shkresor, mënyrën e këtij regjistrimi dhe mënyrën e kalimit në arkiv elektronik të të dhënave të parashikuara në pikën 3, germa “gj”, si dhe për mënyrën e asgjësimit të regjistrit shkresor përkatës, përcaktohen me procedura standarde të veprimit të Policisë Kufitare dhe Migracionit.

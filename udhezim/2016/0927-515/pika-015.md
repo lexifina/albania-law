@@ -1,0 +1,1 @@
+15. Qendra për Përpunimin dhe Mbrojtjen e të Dhënave, bazuar në të drejtën për njohje që jep legjislacioni ose marrëveshjet në fuqi, përcakton institucionet dhe strukturat që aksesojnë dhe shfrytëzojnë drejtpërdrejt të dhënat e mbledhura dhe regjistruara nga rojet kufitare në arkivat elektronikë, si dhe menaxhon përdoruesit.

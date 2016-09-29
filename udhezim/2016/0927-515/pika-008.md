@@ -1,0 +1,1 @@
+8. Të gjitha regjistrimet që kryhen në arkiva shkresorë nga rojet kufitare mund të regjistrohen në arkiva elektronikë, kur është marrë një vendim për krijimin e një arkivi të tillë nga autoritetet përgjegjëse.

@@ -1,0 +1,1 @@
+10. Të dhënat e subjekteve të parashikuara në pikën 3, germa “gj”, regjistrohen detyrimisht në arkivin elektronik të hyrje-daljeve brenda 5 ditëve kalendarike nga rivendosja në funksion e sistemit kompjuterik ku regjistrohen këto të dhëna, ndërsa regjistri shkresor në fjalë asgjësohet brenda 7 ditëve kalendarike nga kalimi i të dhënave në arkiv elektronik.
