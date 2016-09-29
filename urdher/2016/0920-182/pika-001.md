@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për trajtimin e individëve të llojeve të faunës së egër në zooparqe apo në mjedise të tjera, ku individët i ekspozohen publikut”, sipas draftit që i bashkëlidhet këtij urdhri, si pjesë përbërëse e tij.
