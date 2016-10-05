@@ -1,0 +1,3 @@
+2. Në përputhje me pikën 4, të VKM-së nr. 465, datë 22.6.2016, “Për përcaktimin e procedurave dhe rregullave për kalimin e së drejtës së pronësisë mbi parcelën ndërtimore të objekteve informale”, drejtoritë e varësisë së ALUIZNI-t përgatitin propozimin për kalimin e së drejtës së pronësisë dhe miratimin e masës dhe vlerës së kompensimit financiar, pasi të jetë miratuar leja e legalizimit.
+Në rastet e parcelave ndërtimore, që shtrihen në prona të të tretëve, lista e subjekteve përfituese të kalimit të pronësisë shoqërohet gjithmonë me të dhënat për kompensimin e pronarëve joposedues, në përputhje me pikën 2 të VKM-së së sipërpërmendur.
+II. HARTIMI I PROPOZIMIT, DOKUMEN-TACIONI DHE MËNYRA E PARAQITJES SË TË DHËNAVE
