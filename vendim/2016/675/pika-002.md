@@ -1,0 +1,1 @@
+2. Subjektet tregtare në fushën e lëndëve plasëse për përdorim civil duhet të ngrenë sistemin e gjurmimit dhe të marrin masa për zbatimin e neneve 3, pikat 6, 13 dhe 14, të tekstit bashkëlidhur këtij vendimit, brenda një viti nga hyrja në fuqi e tij.
