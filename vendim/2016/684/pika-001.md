@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preket nga realizimi i projektit “Sistemim asfaltim rrugë e sheshe, blloqet e banimit Sheja, tregu i qytetit, Shkumbini dhe Ushtaraku”, Librazhd.
