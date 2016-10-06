@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “objekte”, prej 28 693 975 (njëzet e tetë milionë e gjashtëqind e nëntëdhjetë e tre mijë e nëntëqind e shtatëdhjetë e pesë) lekësh, të përballohet nga buxheti i vitit 2016, miratuar për Ministrinë e Transportit dhe Infrastrukturës, zëri “Shpronësime”, planifikuar për Autoritetin Rrugor Shqiptar.
