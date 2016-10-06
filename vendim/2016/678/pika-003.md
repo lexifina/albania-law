@@ -1,0 +1,1 @@
+3. Zyrat vendore të regjistrimit të pasurive të paluajtshme të Elbasanit, Fierit, Shkodrës, Tiranës dhe Lezhës, të kryejnë ndryshimet përkatëse, për këto pasuri, në regjistrat e pasurive të paluajtshme.

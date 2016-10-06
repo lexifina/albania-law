@@ -1,0 +1,1 @@
+2. Sipërfaqja që shpronësohet është 20 392,1 (njëzet mijë e treqind e nëntëdhjetë e dy presje një) m² dhe vlera e përgjithshme e kompensimit është 244 223 971,3 (dyqind e dyzet e katër milionë e dyqind e njëzet e tre mijë e nëntëqind e shtatëdhjetë e një presje tre) lekë, sipas listës që i bashkëlidhet këtij vendimi.
