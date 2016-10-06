@@ -1,0 +1,391 @@
+# Shtojca
+TË DHËNAT MBI LISTËN EMËRORE E PRONARËVE DHE PRONAVE QË DO TË SHPRONËSOHEN PËR OBJEKTIN: “ANSAMBLI I RILINDJES URBANE BELSH”, BASHKIA BELSH
+1. OBJEKTET QË JANË NË KURORËN E LIQENIT TË BELSHIT ME CERTIFIKATË PRONËSIE (Për objektet e banimit, shërbimit dhe truallin)
+Nr.
+Emër, atësia, mbiemër
+Zona kadastrale
+Nr. i pasurisë
+Sipërfaqja e objektit të banimit (m²)
+Sipërfaqja e truallit (m²)
+Sipërfaqja e objektit të shërbimit (m²)
+Çmimi i objektit të banimit (lekë/m²)
+Çmimi truall (lekë/m²)
+Vlera e objektit të shërbimit sipas situacionit (lekë)
+Vlera e objektit të banimit (lekë)
+VLERA E AMORTIZIMI PËR NDËRTESAT (Koha e vënies në funksion 20-vjet/1% në vit)
+Vlera e truallit (lekë)
+Vlera totale e truallit, objektit të banimit dhe shërbimit (lekë)
+Dokumenti i pronësisë
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+1
+CAUSH ISLAM TAFANI
+1147
+30/36
+0
+196.6
+125.5
+32,335.00
+234
+1681290.72
+0
+0
+46004.4
+1727295.12
+Certifikatë pronësie
+2
+BASHKEPRONARE, JORGO QAMIL KUQJA, ANA BASHKIM KUQJA
+1147
+30/37/2
+49.88
+36.98
+32,335.00
+234
+643,766.88
+-
+-
+11,671.92
+655,438.80
+Certifikatë pronësie
+3
+LAVDIJE ALI SENIA
+1147
+30/10/2
+20.00
+32,335.00
+234
+498,757.25
+-
+-
+-
+498,757.25
+Certifikatë pronësie
+4
+LAVDIJE ALI SENIA
+1147
+30/31
+166.00
+70.00
+32,335.00
+234
+1,143,314.40
+-
+-
+38,844.00
+1,182,158.40
+Certifikatë pronësie
+5
+ZYBER HALIT KUQJA
+1147
+30/37/1
+146.02
+122.12
+32,335.00
+234
+1,735,323.84
+-
+-
+34,168.68
+1,769,492.52
+Certifikatë pronësie
+6
+FASLLI KARAFIL PIRE
+1147
+30/38
+49.2
+49.2
+32,335.00
+234
+1,374,784.80
+0
+0
+11,512.80
+1,386,297.60
+Certifikatë pronësie
+7
+NADIRE HAJDAR ALLANI
+1147
+275/50
+61.40
+35.30
+32,335.00
+234
+891,012.00
+-
+-
+14,367.60
+905,379.60
+Certifikatë pronësie
+8
+BUJAR HYDAJET URUÇI
+1147
+30/6
+216.00
+216.00
+32,335.00
+234
+2,847,347.52
+6,984,360.00
+#########
+-
+8,434,835.52
+Certifikatë pronësie
+9
+ADEM JONUZ MUÇA
+1147
+30/39
+416.00
+305.40
+32,335.00
+234
+3,543,537.60
+-
+-
+97,344.00
+3,640,881.60
+Certifikatë pronësie
+10
+PETRIT ZYLYF LIÇI
+1147
+30/78/1 (30/28)
+50.00
+50.00
+32,335.00
+234
+1,028,336.16
+-
+-
+11,700.00
+1,040,036.16
+Certifikatë pronësie
+11
+BULE AXHEM TAFANI
+1147
+30/20
+25.08
+32,335.00
+234
+539,140.32
+-
+-
+-
+539,140.32
+Certifikatë pronësie
+12
+ARISTIDHIS MESUT GJOLENA
+1147
+30/21
+25.08
+32,335.00
+234
+492,395.52
+-
+-
+-
+492,395.52
+Certifikatë pronësie
+13
+HAJRIE MYSLIM HYSA
+1147
+30/25
+48.64
+32,335.00
+234
+887,339.04
+-
+-
+-
+887,339.04
+Certifikatë pronësie
+14
+BASHKEPRONARE, ASLLAN GANI PEQINI, BURBUQE YZEIR PEQINI
+1147
+30/56
+56.93
+32,335.00
+234
+-
+-
+13,321.62
+13,321.62
+Certifikatë pronësie
+15
+BASHKEPRONARE, ASLLAN GANI PEQINI, BURBUQE YZEIR PEQINI
+1147
+30/22-ND
+25.08
+32,335.00
+234
+427,412.16
+-
+427,412.16
+16
+BASHKEPRONARE, SHABAN SHEFIT KASA, KAFAZE RUSTEM KASA, ASLLAN GANI PEQINI, BURBUQE YZEIR PEQINI
+1147
+30/23
+25.84
+32,335.00
+234
+492,236.16
+-
+-
+-
+492,236.16
+Certifikatë pronësie
+17
+SHABAN SHEFIT KASA
+1147
+30/24
+63.13
+30.18
+32,335.00
+234
+596,321.28
+-
+-
+14,772.42
+611,093.70
+Certifikatë pronësie
+18
+ZEQO ILIAZ SULA
+1147
+30/5
+156.00
+96.00
+32,335.00
+234
+1,673,849.76
+-
+-
+36,504.00
+1,710,353.76
+Certifikatë pronësie
+19
+ZABIT ZIHNI IDRIZI
+1147
+30/2-N2 (30/17)
+116.00
+68.80
+32,335.00
+234
+1,042,347.36
+-
+-
+27,144.00
+1,069,491.36
+Certifikatë pronësie
+20
+BASHKEPRONARE, TAULAND SHEFQET HYSA, ILIR SHEFQET HYSA
+1147
+30/44
+52.80
+52.80
+32,335.00
+234
+964,312.80
+-
+-
+12,355.20
+976,668.00
+Certifikatë pronësie
+21
+JORGO ZANI DUNGA
+1147
+30/43
+251.8
+251.8
+32,335.00
+234
+2,585,273.28
+0
+0
+58,921.20
+2644194.48
+Certifikatë pronësie
+22
+ARDIAN MESUT HYSA
+1147
+30/40
+186.70
+146.90
+32,335.00
+234
+2,278,725.12
+-
+-
+43,687.80
+2,322,412.92
+Certifikatë pronësie
+23
+BUJAR DERVISH KUQJA
+1147
+30/13
+38.64
+32,335.00
+234
+589,158.24
+-
+-
+-
+589,158.24
+Certifikatë pronësie
+24
+BUJAR DERVISH KUQJA
+1147
+30/12
+32.96
+32,335.00
+234
+564,283.20
+-
+-
+-
+564,283.20
+Certifikatë pronësie
+25
+BUJAR DERVISH KUQJA
+1147
+30/11
+21.60
+32,335.00
+234
+657,766.08
+-
+-
+-
+657,766.08
+Certifikatë pronësie
+26
+BUJAR DERVISH KUQJA
+1147
+30/10
+66.80
+32,335.00
+234
+1,101,029.28
+-
+-
+-
+1,101,029.28
+Certifikatë pronësie
+TOTALI
+32,335.00
+234
+30,279,060.77
+6,984,360.00
+(1,396,872.00)
+472,319.64
+51 696 098

@@ -1,0 +1,1 @@
+9. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Elbasan të pezullojë të gjitha transa-ksionet me pasuritë e shpronësuara deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën treguese të regjistrimit dhe kalimi i pronësisë për pasuritë e shpronësuara.
