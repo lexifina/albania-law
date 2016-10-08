@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë, të përfaqësuar nga Ministria e Transportit dhe Infra-strukturës, dhe qeverisë së Republikës Italiane, të përfaqësuar nga Ministria e Punëve të Jashtme dhe Bashkëpunimit Ndërkombëtar, për realizimin e programit për përgatitjen e studimeve të fizibilitetit dhe projektimit në nivel përfundimtar, si dhe studimin e impaktit mjedisor në sektorin e infrastrukturave.
