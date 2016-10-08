@@ -1,0 +1,6 @@
+# Neni 41
+Fillimi i procedurës për vlerësimin e aftësisë profesionale
+1. Subjekti i rivlerësimit plotëson formularin e vetëvlerësimit profesional, sipas shtojcës 4 bashkëlidhur këtij ligji, brenda 30 ditëve nga data e hyrjes në fuqi, dhe e dërgon pranë organit të vlerësimit të aftësive profesionale.
+2. Subjekti i rivlerësimit, i parashikuar në nenin 179/b, pika 4, fjalia e dytë, të Kushtetutës, ka të drejtë t’i paraqesë me shkrim Komisionit kërkesën për rivlerësimin e tij, brenda tre muajve nga hyrja në fuqi e këtij ligji. Kërkesa i bashkëlidhet formularit të vetëvlerësimit profesional, sipas shtojcës 4 të këtij ligji.
+3. Periudha e vlerësimit për aftësitë profesionale, për efekt të këtij ligji, do të jetë 3 vitet e fundit të ushtrimit të detyrës nga hyrja në fuqi e këtij ligji. Në rast se subjekti i rivlerësimit ka më pak se 3 vite në detyrë, periudha e vlerësimit konsiderohet e gjithë koha gjatë ushtrimit të detyrës.
+4. Vlerësimi i aftësive profesionale mund të shtrihet nga 1 janari 2006 e në vazhdim, sipas informacionit që disponohet për etikën dhe aftësitë profesionale. Komisioni ose Kolegji i Apelimeve merr parasysh këto informacione nëse relatori i çështjes ose vëzhguesi ndërkombëtar i çmon si të domosdoshme për procesin e rivlerësimit.

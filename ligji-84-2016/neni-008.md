@@ -1,0 +1,11 @@
+# Neni 8
+Komisioni parlamentar ad hoc për verifikimin e kandidatëve
+1. Kuvendi, brenda 3 ditëve nga marrja e listës së kandidatëve, të cilët i plotësojnë kriteret formale, listës së kandidatëve, të cilët nuk i plotësojnë kriteret formale, dhe listës së rekomandimeve të Operacionit Ndërkombëtar të Monitorimit, miraton krijimin dhe përbërjen e një komisioni ad hoc me gjashtë anëtarë, të ndarë në mënyrë të barabartë midis shumicës dhe pakicës parla-mentare, si dhe procedurat parlamentare për funksionimin e komisioneve dhe realizimin e procesit të votimit, sipas këtij neni dhe nenit 9 të këtij ligji.
+2. Kryetari i Kuvendit, brenda ditës së dorëzimit të listave të parashikuara në pikën 1, të këtij neni, njofton datën dhe orën e mbledhjes së seancës plenare për krijimin dhe përbërjen e komisionit ad hoc të verifikimit të kandidatëve. Në këtë njoftim, Kryetari i Kuvendit i kërkon grupeve parlamentare të shumicës dhe pakicës parlamentare që të dërgojnë deri ditën e nesërme të njoftimit propozimet e tyre për përbërjen e këtij komisioni ad hoc. Kryetari i Kuvendit, brenda ditës së nesërme nga krijimi i komisionit ad hoc, i përcjell secilit prej anëtarëve të tij dokumentacionin për të gjithë kandidatët.
+3. Komisioni ad hoc, pas zhvillimit të një seance dëgjimore me kandidatët, vendos:
+a) të kalojë një kandidat nga lista e kandidatëve që nuk plotësojnë kriteret formale tek lista e kandidatëve që plotësojnë kriteret formale, me të paktën katër vota;
+b) të kalojë një kandidat nga lista e kandidatëve të rekomanduar nga Operacioni Ndërkombëtar i Monitorimit tek lista e kandidatëve për votim, me të paktën pesë vota.
+4. Lista për votim përmban kandidatët të cilët plotësojnë kriteret formale, përveç atyre që nuk janë rekomanduar nga Operacioni Ndërkombëtar i Monitorimit dhe që nuk janë miratuar me vendim të këtij komisioni ad hoc, sipas pikës 3 të këtij neni.
+5. Brenda dhjetë ditëve nga krijimi i tij, komisioni ad hoc i përcjell listën e hartuar sipas pikës 4 të këtij neni, komisioneve ad hoc përzgjedhëse. Dy listat e tjera nuk dërgohen për votim.
+6. Sekretari i Përgjithshëm i Kuvendit merr masat e nevojshme për krijimin e kushteve për ushtrimin e veprimtarisë së komisionit ad hoc të verifikimit të kandidatëve.
+7. Komisioni ad hoc funksionon bazuar në dispozitat e këtij ligji dhe, për aq sa është e mundur, sipas Rregullores së Kuvendit.

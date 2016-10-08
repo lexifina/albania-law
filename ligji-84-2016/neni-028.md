@@ -1,0 +1,4 @@
+# Neni 28
+Kushtet për garantimin e besueshmërisë dhe konfidencialitetit
+1. Komunikimi elektronik i anëtarëve të institucioneve të rivlerësimit monitorohet nga Njësia e Posaçme Hetimore e krijuar në bazë të nenit 148, pika 4, të Kushtetutës, kurse të ardhurat financiare të tyre monitorohen nga Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave, sipas pëlqimit të dhënë prej tyre në nenin 7, pika 3, shkronja “ç”, të këtij ligji, për të gjithë kohëzgjatjen e mandatit të tyre.
+2. Anëtari i institucionit të rivlerësimit dhe personeli i tyre trajtojnë informacionin për procedurën e rivlerësimit, në respektim të parimit të konfidencialitetit dhe mbrojtjes së të dhënave personale. Institucionet e rivlerësimit përjashtohen nga ky detyrim vetëm në rastet kur informacioni i jepet subjektit të rivlerësimit ose organeve që me ligj kanë të drejtë ta kërkojnë këtë informacion për shkak të detyrës zyrtare.

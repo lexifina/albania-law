@@ -1,0 +1,7 @@
+# Neni 32
+Deklarimi i pasurisë
+1. Subjekti i rivlerësimit dhe personat e lidhur me të, së bashku me deklaratën e pasurisë, paraqesin të gjitha dokumentet që justifikojnë vërtetësinë e deklarimeve për ligjshmërinë e burimit të krijimit të pasurive.
+2. Nëse subjekti i rivlerësimit është në pamun-dësi objektive për të disponuar dokumentin që justifikon ligjshmërinë e krijimit të pasurive, duhet t’i vërtetojë institucionit të rivlerësimit se dokumenti është zhdukur, ka humbur, nuk mund të bëhet përsëri ose nuk merret në rrugë tjetër. Institucionet e rivlerësimit vendosin nëse mosparaqitja e dokumenteve justifikuese është për shkaqe të arsyeshme. Ky rregull zbatohet edhe në ato raste kur organi përgjegjës për lëshimin e dokumenteve justifikuese nuk përgjigjet brenda afatit ligjor.
+3. Nëse subjekti i rivlerësimit ose personat e lidhur kanë pasuri jashtë territorit të Republikës së Shqipërisë, ai paraqet deklarimet bankare të viteve të fundit, të dhënat e fundit mbi regjistrimin e pasurisë ose dokumente të tjera që tregojnë vlerën e pasurive që ndodhen jashtë shtetit.
+4. Subjekti i rivlerësimit dhe personat e lidhur me të, ose persona të tjerë të lidhur, të deklaruar në cilësinë e dhuruesit, huadhënësit ose huamarrësit, nëse konfirmojnë këto marrëdhënie, kanë detyrimin për të justifikuar ligjshmërinë e burimit të krijimit të pasurive.
+5. Deklarimet e interesave privatë dhe pasurorë, të paraqitura më parë tek ILDKPKI-ja mund të përdoren si provë nga Komisioni dhe Kolegji i Apelimit.

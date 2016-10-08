@@ -1,0 +1,10 @@
+# Neni 9
+Komisionet parlamentare ad hoc të përzgjedhjes së kandidatëve
+1. Kuvendi, brenda 10 ditëve nga marrja e listës së kandidatëve, të cilët i plotësojnë kriteret formale, listës së kandidatëve, të cilët nuk i plotësojnë kriteret formale, dhe listës së rekomandimeve të Operacionit Ndërkombëtar të Monitorimit, mira-ton krijimin dhe përbërjen e dy komisioneve ad hoc të përzgjedhjes, të cilët përbëhen respektivisht nga:
+a) 12 anëtarë, gjashtë të propozuar nga grupet parlamentare të shumicës dhe gjashtë nga grupet parlamentare të pakicës;
+b) 6 anëtarë, tre të propozuar nga grupet parla-mentare të shumicës dhe tre nga grupet parla-mentare të pakicës.
+2. Kryetari i Kuvendit, brenda 3 ditëve nga dita e dorëzimit të listave të parashikuara në pikën 1, të këtij neni, njofton datën dhe orën e mbledhjes së seancës plenare për krijimin dhe përbërjen e dy komisioneve ad hoc të përzgjedhjes së kandidatëve. Në këtë njoftim, Kryetari i Kuvendit i kërkon grupeve parlamentare të shumicës dhe pakicës parlamentare që të dërgojnë, brenda dy ditëve nga data e njoftimit, propozimet e tyre për përbërjen e të dy komisioneve ad hoc të përzgjedhjes.
+3. Një deputet mund të jetë anëtar vetëm në njërin nga komisionet ad hoc të përzgjedhjes. Anëtarët e komisionit ad hoc të verifikimit të kandidatëve nuk kanë pengesë për të qenë edhe anëtarë në një nga komisionet ad hoc të për-zgjedhjes.
+4. Brenda 30 ditëve nga konstituimi i tij, komisioni ad hoc i përzgjedhjes, zhvillon procedurën për votimin e kandidatëve. Në mbledhjen e parë të secilit komision ad hoc përzgjedhës miratohet kalendari i zhvillimit të seancave dëgjimore me kandidatët, si dhe ngarkohet Sekretari i Përgjith-shëm i Kuvendit për njoftimin e kandidatëve.
+5. Sekretari i Përgjithshëm i Kuvendit merr masat e nevojshme për krijimin e kushteve për ushtrimin e veprimtarisë së komisionit ad hoc të përzgjedhjes së kandidatëve.
+6. Komisioni ad hoc funksionon bazuar në dispozitat e këtij ligji dhe, për aq sa është e mundur, në Rregulloren e Kuvendit.

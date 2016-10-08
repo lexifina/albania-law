@@ -1,0 +1,6 @@
+# Neni 44
+Relacioni i rivlerësimit
+Relatori përgatit relacionin për vlerësimin e aftësive profesionale mbështetur në raportin e inspektorëve, informacionin e marrë nga burime të tjera, si dhe në kriteret e vlerësimit, të parashikuara në legjislacionin që rregullon statusin e gjyqtarëve ose prokurorëve dhe akteve e tjera ligjore. Në përfundim, relatori propozon për subjektin e rivlerësimit si më poshtë:
+a) “I aftë”, kur subjekti i rivlerësimit ka treguar cilësi të pranueshme në punë, gjykim të drejtë, ka respektuar të drejtat e palëve ose viktimave, është eficient dhe efektiv në masë të pranueshme;
+b) “Me mangësi”, kur subjekti i rivlerësimit ka treguar cilësi të papranueshme në punë, gjykim të dobët, nuk ka respektuar normalisht të drejtat e palëve ose viktimave, nuk është efektiv. Komisioni ka rekomanduar program trajnimi pranë Shkollës së Magjistraturës për të plotësuar këto mangësi brenda një viti;
+c) “I papërshtatshëm”, kur subjekti i rivlerësimit ka treguar cilësi të papranueshme në punë, gjykim të dobët, nuk ka respektuar normalisht të drejtat e palëve ose viktimave, nuk është efektiv, në atë shkallë sa programi i trajnimit pranë Shkollës së Magjistraturës nuk mund ta zgjidhë këtë çështje për një vit, ose nuk ka kaluar me sukses testimin pranë Shkollës së Magjistraturës.

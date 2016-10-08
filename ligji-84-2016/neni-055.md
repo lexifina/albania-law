@@ -1,0 +1,9 @@
+# Neni 55
+Seanca dëgjimore
+1. Komisioni fton subjektin e rivlerësimit në seancë dëgjimore, në përputhje me rregullat e parashikuara në Kodin e Procedurave Adminis-trative. Vëzhguesit ndërkombëtarë njoftohen paraprakisht për zhvillimin e seancës dëgjimore.
+2. Seanca dëgjimore e Komisionit është publike dhe zhvillohet në përputhje me nenin 20 të ligjit “Për organizimin dhe funksionimin e gjykatave administrative dhe gjykimin e mosmarrëveshjeve administrative”.
+3. Komisioni ka të drejtë të marrë në pyetje subjektin e rivlerësimit. Subjektit të rivlerësimit mund t’i drejtojë pyetje edhe vëzhguesi ndë-kombëtar, nëse ai pranon të përgjigjet. Subjekti i rivlerësimit ka të drejtë të refuzojë t’u përgjigjet pyetjeve. Pyetjet mund të përfshijnë njohuritë dhe aftësitë praktike në fushën e së drejtës, ku subjekti i rivlerësimit ka ushtruar detyrën vitin e fundit.
+4. Komisioni ka të drejtë të kufizojë në mënyrë të arsyeshme kohën e parashikuar për t’u shprehur nga ana e subjektit të rivlerësimit.
+5. Bisedimet për marrjen e vendimit ndaj subjektit të rivlerësimit zhvillohen me dyer të mbyllura në praninë e vëzhguesit ndërkombëtar. Vendimi i Komisionit merret me votim të hapur dhe me shumicë të thjeshtë të anëtarëve të trupit gjykues. Nëse gjatë vendimmarrjes ka qëndrime të ndryshme nga ai i shumicës, komisionieri i mbetur në pakicë arsyeton me shkrim mendimin e tij. Vëzhguesi ndërkombëtar ka të drejtë të shkruajë një mendim ndryshe/paralel që i bashkohet vendimit. Procesverbali i bisedimeve të çështjes mbahet nga personeli i regjistrit të Komisionit.
+6. Vendimi shpallet në fund të seancës dëgjimore.
+7. Vendimi me shkrim u njoftohet subjektit të rivlerësimit, Komisionerit Publik dhe vëzhguesve ndërkombëtarë brenda 30 ditëve pas përfundimit të seancës dëgjimore. Vendimi publikohet në faqen zyrtare të internetit të Komisionit.

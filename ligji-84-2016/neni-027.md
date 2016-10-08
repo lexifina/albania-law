@@ -1,0 +1,5 @@
+# Neni 27
+Garantimi i paanësisë
+1. Anëtari i institucioneve të rivlerësimit deklaron dhe shmang çdo situatë konflikti interesi, në respektim të ligjit “Mbi parandalimin e konfliktit të interesit”. Çdo vendim i marrë në një situatë konflikti interesi, përveç pasojave ligjore në procesin e vendimmarrjes, përbën shkelje disipli-nore, sipas këtij ligji.
+2. Në rast se anëtari i institucioneve të rivlerësimit nuk mund të shqyrtojë një çështje që i është caktuar për shkaqet e përmendura në nenin 30 të Kodit të Procedurave Administrative ose të ligjit “Mbi parandalimin e konfliktit të interesit në ushtrimin e funksioneve publike”, ai njofton me shkrim menjëherë trupin gjykues. Përjashtimi i komisionerit, gjyqtarit ose Komisionerit Publik nga shqyrtimi i çështjes vendoset nga një tjetër trup gjykues që caktohet me short.
+3. Çdo person, i cili ka informacion mbi ekzistencën e shkaqeve të konfliktit të interesit të përmendur në pikën 1, të këtij neni, njofton menjëherë me shkrim trupin gjykues, i cili ia përcjell kërkesën për vendim një trupi tjetër gjykues, të caktuar me short.
