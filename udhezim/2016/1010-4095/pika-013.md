@@ -1,0 +1,1 @@
+13. Deklarimi i pasurive të luajtshme, të regjistruara në regjistrat publikë, të shoqërohet me dokumentacionin justifikues ligjor, kontratën e shitblerjes dhe vërtetimin përkatës nga institucioni i zhdoganimit dhe i regjistrimit të kësaj pasurie.

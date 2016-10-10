@@ -1,0 +1,1 @@
+1. Subjekti i rivlerësimit dhe personat e lidhur me të, deklarojnë të dhënat e detyrueshme për deklarim, pjesë përbërëse e këtij procesi deklarimi, me përshkrimet e kërkuara sipas shtojcës 2, të ligjit nr. 84/2016, datë 30.8.2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.

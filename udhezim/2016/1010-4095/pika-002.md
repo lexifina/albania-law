@@ -1,0 +1,3 @@
+2. Subjekti i rivlerësimit dhe personat e lidhur me të, duhet të dorëzojnë deklaratën e pasurisë në ILDKPKI, brenda 30 ditëve nga hyrja në fuqi e ligjit nr. 84/2016, datë 30.8.2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+- Data e dorëzimit, e shënuar në faqen 1 të deklaratës së pasurisë, duhet të përputhet me gjendjen e të dhënave të deklaruara në faqet e tjera të deklaratës së pasurisë.
+- Dorëzimi i deklaratës së pasurisë duhet të bëhet nga vetë subjekti, në protokollin e ILDKPKI-së, ku do të pajiset me vërtetimin përkatës për dorëzimin e deklaratës dhe fletën e inventarit për dokumentacionin justifikues bashkë-lidhur deklaratës së pasurisë.

@@ -1,0 +1,1 @@
+26. Për rastet kur subjektet e rivlerësimit dhe/ose personat e lidhur me të, kanë kryer ndërtime, shtesa ose rikonstruksione të pjesshme ose të plota, për banesa ose çdo ndërtim tjetër, duhet të paraqesin dokumentacionin e plotë ligjor, lejen e ndërtimit, preventivin, situacionin e plotë të shpenzimeve të kryera etj.

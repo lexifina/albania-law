@@ -1,0 +1,2 @@
+27. Subjekti i rivlerësimit, si dhe personat e lidhur me të, mund të dorëzojnë edhe çdo dokument tjetër justifikues në mbështetje të deklaratës së pasurisë.
+- Dokumentacioni justifikues i dorëzuar më parë në ILDKPKI, nuk e shkarkon subjektin e rivlerësimit dhe personat e lidhur me të nga përgjegjësia dhe detyrimi për dorëzimin e të gjithë dokumentacionit justifikues në zbatim të ligjit nr. 84/2016, datë 30.8.2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.

@@ -1,0 +1,1 @@
+16. Deklarimi i pasurive të paluajtshme, të luajtshme, likuiditete etj., të fituara nga trashëgimia, të shoqërohet me dokumentacionin justifikues ligjor, që identifikon si pronar të pasurisë trashëgimore të deklaruar personin tjetër të lidhur, trashëgimlënësin.

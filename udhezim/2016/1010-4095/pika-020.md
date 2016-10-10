@@ -1,0 +1,1 @@
+20. Deklarimi si burim krijimi pasurie i të ardhurave nga pagat, të shoqërohet me dokumen-tacionin justifikues ligjor për të ardhurat neto nga institucioni pranë të cilit kanë qenë dhe janë të punësuar subjekti i rivlerësimit dhe personat e lidhur me të, që mbartin detyrim për deklarim të pasurisë.

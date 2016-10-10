@@ -1,0 +1,1 @@
+22. Deklarimi si burim krijimi pasurie i të ardhurave nga aktiviteti privat i subjektit të rivlerësimit dhe/ose personave të lidhur me të, të shoqërohet për periudhën e deklaruar me dokumentacionin justifikues ligjor nga zyrat e tatim taksave për fitimin e realizuar dhe dividentin e tërhequr.

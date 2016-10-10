@@ -1,0 +1,1 @@
+21. Deklarimi si burim krijimi pasurie i të ardhurave nga emigracioni prej subjektit dhe/ose personave të lidhur, të shoqërohet me dokumen-tacionin justifikues ligjor nga vendi i punës, qyteti dhe shteti përkatës, për periudhën e deklarimit, si dhe mënyrën e kalimit të këtyre mjeteve monetare brenda territorit të Shqipërisë.

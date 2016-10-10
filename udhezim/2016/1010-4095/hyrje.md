@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 4095, datë 10.10.2016
+PËR MËNYRËN E DEKLARIMIT TË PASURIVE, NË PRONËSI, POSEDIM DHE PËRDORIM, BURIMET E KRIJIMIT TË TYRE, DETYRIMET FINANCIARE ETJ., NGA SUBJEKTET E RIVLERËSIMIT DHE PERSONAT E LIDHUR QË MBARTIN DETYRIM PËR DEKLARIM TË PASURISË, NË ZBATIM TË LIGJIT NR. 84/2016, DATË 30.8.2016, “PËR RIVLERËSIMIN KALIMTAR TË GJYQTARËVE DHE PROKURORËVE NË REPUBLIKËN E SHQIPËRISË
+Në zbatim të nenit D, të ligjit nr. 76/2016, “Për disa shtesa dhe ndryshime në ligjin nr. 8417, datë 21.10.1998, Kushtetuta e Republikës së Shqipërisë”, të ndryshuar, neneve 30, 31, 32, 33, të ligjit nr. 84/2016, datë 30.8.2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, inspektori i përgjith-pshëm i Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave (ILDKPKI), me qëllim përcaktimin e rregullave për mënyrën e plotësimit të deklaratës së pasurisë, si dhe dokumenteve që justifikojnë vërtetësinë e deklarimit dhe ligjshmërinë e burimit të krijimit të pasurive,
+UDHËZON:

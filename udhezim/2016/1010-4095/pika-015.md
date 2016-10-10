@@ -1,0 +1,1 @@
+15. Deklarimi i huamarrjeve dhe huadhënieve në likuiditete, të shoqërohet me dokumentacionin justifikues ligjor dhe me vërtetimet bankare, në rast se veprimi në kohën e kryerjes së tij është kryer me transaksion bankar.

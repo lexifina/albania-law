@@ -1,0 +1,1 @@
+25. Nëse subjekti i rivlerësimit dhe/ose personat e lidhur me të, kanë pasuri jashtë territorit të Republikës së Shqipërisë, duhet të paraqesin dekla-rimet bankare të viteve të fundit, të dhënat e fundit mbi regjistrimin e pasurisë, si dhe dokumente të tjera që tregojnë vlerën e pasurive që ndodhen jashtë vendit.

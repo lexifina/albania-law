@@ -1,0 +1,1 @@
+8. Deklarimi i pasurive të paluajtshme, të regjistruara ose jo në regjistrat publikë, të shoqërohet me dokumentacionin justifikues ligjor, kontratë shitblerje, kontratë sipërmarrje, akt marrëveshje, kontratë paraprake, kontratë porosie etj., dhe certifikatën e pronësisë në rastet kur prona është e regjistruar në ZVRPP.

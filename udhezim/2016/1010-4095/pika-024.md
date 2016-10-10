@@ -1,0 +1,1 @@
+24. Deklarimi i kredive të marra nga bankat/ institucionet financiare, duhet të shoqërohet me kontratën e lidhur me bankën/institucionin financiar, kolateralin e vënë si garanci, si dhe një vërtetim nga banka/institucioni financiar për gjendjen e kredisë në datën e dorëzimit të dekla-ratës së pasurisë.

@@ -1,0 +1,1 @@
+11. Deklarimi i pasurive të paluajtshme të marra me qira te persona të tjerë të lidhur, të shoqërohet me dokumentacionin justifikues ligjor për këtë veprim juridik, si dhe dokumentacionin e pronësisë të personit tjetër të lidhur (pronarit) për objektin e dhënë me qira.

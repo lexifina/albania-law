@@ -1,0 +1,1 @@
+14. Deklarimi i pasurive të paluajtshme, të luajtshme, likuiditeteve etj., në posedim ose në përdorim të subjektit të rivlerësimit dhe/ose personave të lidhur, të shoqërohet me dokumen-tacionin justifikues ligjor për këto marrëdhënie juridike, si dhe dokumentacionin justifikues të pronësisë të personit tjetër të lidhur (pronarit).

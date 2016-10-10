@@ -1,0 +1,1 @@
+12. Deklarimi i pasurive të paluajtshme, të luajtshme, likuiditeteve dhe çdo pasurie tjetër të fituar nëpërmjet dhurimit, të shoqërohet me dokumentacionin justifikues ligjor për këtë veprim juridik, si dhe dokumentacionin justifikues të pronësisë të personit tjetër të lidhur (dhuruesit).
