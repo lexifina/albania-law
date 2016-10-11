@@ -1,0 +1,1 @@
+1. Dhënien e lejes shoqërisë tregtare “Universal Universities Group” sh.a., për hapjen e institucionit arsimor privat, parauniversitar, të arsimit të mesëm të lartë “Faik Konica”, ku mësimi zhvillohet edhe në gjuhën gjermane.

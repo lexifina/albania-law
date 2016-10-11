@@ -1,0 +1,1 @@
+2. Institucioni arsimor privat, parauniversitar, i arsimit të mesëm të lartë “Faik Konica”, ku mësimi zhvillohet edhe në gjuhën gjermane, do të ushtrojë veprimtarinë arsimore në adresën: rruga “Abdi Kazani”, nr. 1, Tiranë.
