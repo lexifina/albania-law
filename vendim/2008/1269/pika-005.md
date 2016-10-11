@@ -1,0 +1,1 @@
+5. Thërret në raport prefektët, kryetarët e këshillave të qarqeve, kryetarët e komunave dhe/ose bashkive, si dhe drejtuesit e strukturave të tjera shtetërore, veprimtaria e të cilave lidhet me krijimin e titujve të pronësisë mbi tokën, për çdo rast, kur kjo vlerësohet e nevojshme nga kryetari i KQT-së teknik.

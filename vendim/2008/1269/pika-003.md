@@ -1,0 +1,1 @@
+3. Mbledhjet e KQT-së zhvillohen në datën dhe orën e njoftuar nga kryetari ose, në mungesë dhe me porosi të tij, nga zëvendëskryetari, jo më pak se një herë në tre muaj, por në raste të veçanta, që vlerësohen nga kryetari, ky komision mund të mblidhet në çdo kohë.
