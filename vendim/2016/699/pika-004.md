@@ -1,0 +1,1 @@
+4. Vlera përgjithshme e shpronësimit, për pasuritë “truall”, “arë” dhe “kullotë”, prej 234 237 718 (dyqind e tridhjetë e katër milionë e dyqind e tridhjetë e shtatë mijë e shtatëqind e tetëmbëdhjetë) lekësh, të përballohet nga fondi i shpronësimeve, në llogarinë e shpronësimeve në Bankën e Shqipërisë.
