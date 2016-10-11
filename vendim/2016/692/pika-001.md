@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Kriteret për pajisjen me certifikatë për ushtrimin e veprimtarisë së udhërrëfyesit turistik, detyrat, përgjegjësitë dhe kodin e etikës së tyre”, sipas tekstit bashkëlidhur këtij vendimi.
