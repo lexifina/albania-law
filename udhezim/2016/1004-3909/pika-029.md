@@ -1,0 +1,5 @@
+29. Gjatë kryerjes së ndonjë prej detyrave sipas këtij neni, personi i autorizuar mundet, që:
+a) të kërkojë nga pronari, kapiteni apo çdo person që mund të ketë në posedim ditar lundrimi zyrtar në anije apo ndonjë dokument, apo letër tjetër që mund të ofrojnë dëshmi të shkeljes, për ta paraqitur për inspektim ose për qëllime të marrjes së një kopje ose ekstrakte nga ditari i lundrimit, ose ndonjë dokument, ose letër tjetër;
+b) t’i kërkojë kapitenit të anijes dhënien e informacionit në lidhje me anijen, ngarkesat, magazinat, ekuipazhin, pasagjerët ose lundrimin sipas gjykimit të tij;
+c) t’i kërkojë kapitenit apo cilitdo person të gjetur në bordin e anijes për të dhënë të gjithë ndihmën e arsyeshme në fuqinë e kapitenit ose çdo personi tjetër, sipas rastit, për të mundësuar personin e autorizuar për të kryer detyrat dhe funksionet e ngarkuara nga ky udhëzim; dhe
+d) kur është e nevojshme të kërkojë ndihmën e Shërbimit Doganor Shqiptar, Rojës Bregdetare Shqiptare, Policisë Shqiptare dhe çdo zbatuesi tjetër të ligjit, të cilët i konsideron të nevojshëm.

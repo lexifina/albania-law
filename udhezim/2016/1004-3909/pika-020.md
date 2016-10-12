@@ -1,0 +1,1 @@
+20. Të gjithë operatorët që kërkojnë të ushtrojnë aktivitetin e transportit kombëtar detar do të licencohen me licencë të kategorisë VII.4.1 në zbatim të ligjit nr. 10081, datë 23.2.2009, “Për licencat, lejet dhe autorizimet në Republikën e Shqipërisë” dhe akteve nënligjore në zbatim të tij.

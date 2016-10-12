@@ -1,0 +1,1 @@
+6. Mjetet lundruese, të parashikuara në pikën 4, germa “c” më lart, që do të kryejnë veprimtari detare të parashikuara në nenin 8, germa “b” dhe nenin 82 “Shërbime portuale” të Kodit Detar, duhet të jenë të regjistruar në Regjistrin e Mjeteve Lundruese Shqiptare dhe të mbajnë flamurin shqiptar.

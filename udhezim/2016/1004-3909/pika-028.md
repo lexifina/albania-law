@@ -1,0 +1,1 @@
+28. Kur personi i autorizuar beson me arsye të bindshme se një mjet lundrues, që kërkon të kryejë transport kombëtar, është në kundërshtim me dispozitat e këtij udhëzimi, ai mund të ndalojë mjetin lundrues dhe, me një urdhër, të kontrollojë anijen dhe ngrije asetet e gjetura në anije dhe të kërkojë dëshmi shtesë pasi beson me baza të arsyeshme se ka mospërputhje me këtë udhëzim.

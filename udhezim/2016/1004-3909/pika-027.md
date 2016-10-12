@@ -1,0 +1,1 @@
+27. Zonat që duhet të kontrollohen nga përfaqësuesi i DPD-së janë zonat që lidhen kryesisht me çështje operacionale, të tilla si: shmangia e mbingarkimit të anijes, kontrolli i numrit të pasagjerëve në anije, lloji i anijes, çdo gjendje apo situatë tjetër që mund të rrezikojë sigurinë e pasagjerëve, ndalimi i lundrimit të anijeve në kushte të këqija moti etj.

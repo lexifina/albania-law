@@ -1,0 +1,1 @@
+9. Zotëruesi i anijes është përgjegjës për të siguruar që të gjithë anëtarët e ekuipazhit të marrin trajnimin e duhur për detyrat që kanë marrë përsipër, si dhe të kuptojnë të gjitha rregullat përkatëse që mbulojnë sigurinë e lundrimit në dete.

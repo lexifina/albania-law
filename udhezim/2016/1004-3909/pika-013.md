@@ -1,0 +1,1 @@
+13. Anijet nuk lejohen të derdhin, shkarkojnë apo hedhin në det asnjë pjesë të mbetjeve të ngarkesës apo në lidhje me ngarkesën pa lejet përkatëse. Këtu përfshihen, gjithashtu, ambala-zhimet dhe mjetet e sistemimit.

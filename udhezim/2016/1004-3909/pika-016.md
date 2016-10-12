@@ -1,0 +1,1 @@
+16. Në rastin e shkarkimeve aksidentale të mbetjeve ose rrezikut të shkarkimit të tillë, kapiteni i anijes duhet të njoftojë pa vonesë autoritetet më të afërta kompetente, duke treguar në mënyrë sa më të saktë llojin, sasinë dhe pozicionin e shkarkimit.

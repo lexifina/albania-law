@@ -1,0 +1,1 @@
+26. Përfaqësuesi i DPD-së duhet të ketë pajisje të përshtatshme për të kontaktuar me shërbimet lokale të kërkimit dhe shpëtimit, portin detar, Policinë e Shtetit dhe organet e tjera që kanë interesa në port.

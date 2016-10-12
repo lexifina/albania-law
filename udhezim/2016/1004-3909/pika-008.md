@@ -1,0 +1,1 @@
+8. Me qëllim lundrimin e sigurt, mjetet lundruese që do të lundrojnë në ujërat kombëtare duhet të kenë hartat e lundrimit për të përcaktuar pozicionin e saktë të anijeve, meqenëse mund të ndeshen në ujëra të cekëta e shkëmbinj nënujorë.
