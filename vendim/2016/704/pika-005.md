@@ -1,0 +1,1 @@
+5. Strukturat përgjegjëse të Ministrisë së Mbrojtjes dhe Ministrisë së Punëve të Brendshme, brenda muajit tetor 2016, njoftojnë Institutin e Sigurimeve Shoqërore për rastet e personave për të cilët nuk disponojnë dokumente, duke përcaktuar edhe shkakun e mungesës së tyre.

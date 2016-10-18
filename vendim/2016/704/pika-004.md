@@ -1,0 +1,1 @@
+4. Brenda muajit tetor 2016, Instituti i Sigurimeve Shoqërore dërgon pranë strukturave përkatëse të Ministrisë së Mbrojtjes dhe Ministrisë së Punëve të Brendshme listat emërore të përditësuara të personave, të cilëve duhet t’iu plotësohet dokumentacioni, si dhe, në bashkëpunim me Postën Shqiptare sh.a., bën njoftimet individuale.
