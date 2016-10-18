@@ -1,0 +1,1 @@
+7. Kriteret për dhënien e ekoetiketës, për një produkt që bie në grupin e produkit “produktet tekstile”, të përcaktuar në pikën 2/a të këtij udhëzimi, si edhe kërkesat përkatëse të vlerësimit dhe verifikimit janë përcaktuar në shtojcë.

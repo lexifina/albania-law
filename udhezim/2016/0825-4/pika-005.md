@@ -1,0 +1,1 @@
+5. Për mbushje, astarët, material mbushës, membrana dhe veshje të përbëra nga fibra, të “veshjeve tekstile dhe aksesorëve” dhe “tekstilet e brendshme”, të përfshira në qëllimin e këtij udhëzimi, nuk kanë nevojë të merren në konsideratë në llogaritjet e përqindjes të fibrave tekstile.

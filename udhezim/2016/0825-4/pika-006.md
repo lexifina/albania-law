@@ -1,0 +1,1 @@
+6. Materialet mbushëse, të cilat nuk janë përbërë nga fibrat plastike duhet të përputhen me kufizimet e renditura në kriterin 10 të përcaktuar në shtojcën që lidhet me pjesët ndihmëse, surfkatantët, biocidet dhe formaldehidet.
