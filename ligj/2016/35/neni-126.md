@@ -1,0 +1,6 @@
+# Neni 126
+Përfituesit e mbrojtjes së të drejtave të prodhuesve të bazave të të dhënave
+1. E drejta e parashikuar në nenin 121, të këtij ligji, gjen zbatim për bazat e të dhënave, prodhuesit ose mbajtësit e të drejtave të të cilave janë shtetas të Republikës së Shqipërisë ose kanë vendqëndrimin / rezidencën në territorin e Republikës së Shqipërisë.
+2. E drejta e parashikuar nga neni 121, i këtij ligji, gjen zbatim edhe për subjektet tregtare, të krijuara në përputhje me legjislacionin për krijimin dhe organizimin e shoqërive tregtare në Republikën e Shqipërisë, dhe që kanë zyrën qendrore apo vendin kryesor të ushtrimit të veprimtarisë tregtare, brenda territorit të Republikës së Shqipërisë. Megjithatë, Kur subjekti tregtar apo shoqëria ka vetëm zyrën të regjistruar në territorin e Republikës së Shqipërisë, duhet të ushtrojë veprimtari të vazhdueshme në këtë territor.
+3. Marrëveshjet që e shtrijnë të drejtën e parashikuar në nenin 121, të këtij ligji, te bazat e të dhënave të krijuara në vendet e treta dhe që nuk janë objekt i dispozitave të pikave 1 dhe 2, të këtij neni, mbrohen në bazë të një traktati ndërkombëtar, ku Republika e Shqipërisë është palë.
+4. Afati i çdo mbrojtjeje, që përfshin bazat e të dhënave, të krijuara në vendet e treta, nuk e tejkalon atë që parashikohet në nenin 115 të këtij ligji.

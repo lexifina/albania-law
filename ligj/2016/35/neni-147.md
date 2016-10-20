@@ -1,0 +1,5 @@
+# Neni 147
+Ankimi kundër vendimit të KKDA-së
+1. Kundër vendimit të KKDA-së, palët kanë të drejtën e ankimit në gjykatën administrative kompetente në afatet e parashikuara nga Kodi i Procedurave Administrative. Afati i ankimit llogaritet nga data e shpalljes së vendimit në faqen zyrtare elektronike të Ministrisë së Kulturës. Ankimi kundër këtij vendimi nuk pezullon zbatimin e tarifave, objekt i mosmarrëveshjes.
+2. Në rast se e drejta e ankimit, e parashikuar në pikën 1, të këtij neni, nuk ushtrohet brenda afatit të mësipërm, tarifat konsiderohen të miratuara, sipas vendimit të KKDA-së. Me urdhër të ministrit përgjegjës për të drejtën e autorit, tarifat sipas vendimit të KKDA-së, dhe metodologjia përkatëse dërgohen për botim në Buletinin e Njoftimeve Publike. Tarifat e miratuara mbeten në fuqi për 2 vjet.
+3. Procedura gjyqësore, sipas këtij neni, rregullohet me ndryshimet e nevojshme, sipas dispozitave të legjislacionit në fuqi, me përjashtim të rasteve kur parashikohet ndryshe nga ky ligj.

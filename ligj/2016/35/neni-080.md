@@ -1,0 +1,7 @@
+# Neni 80
+Përdorimi i veprave për qëllimin e informimit të publikut
+1. Për aq sa është e nevojshme për të informuar publikun për ngjarjet aktuale nga shtypi, radioja apo televizioni, pa autorizimin e autorit ose titullarit të së drejtës së autorit dhe pa shpërblim, lejohen të riprodhohen, të shpërndahen dhe t’i përcillen publikut:
+a) vepra që janë pjesë e ngjarjes aktuale për t’u parë dhe dëgjuar, me kusht që veprat të përdoren në masën e justifikuar nga qëllimi dhe mënyra e raportimit të ngjarjes aktuale;
+b) artikujt e gazetave dhe fotografitë për tema aktuale politike, ekonomike apo fetare, nëpërmjet mënyrave të tjera të përcjelljes në publik, duke përfshirë edhe vënien në dispozicion të publikut nëpërmjet rrjeteve kompjuterike, me kusht që autori të mos e ketë ndaluar shprehimisht një përdorim të tillë dhe që vepra të përdoret në masën e justifikuar nga qëllimi dhe mënyra e raportimit;
+c) fjalimet publike politike, fetare, të publikuara në botime ditore ose në periodikë të ndryshëm ose të transmetuara për publikun në radio apo televizion, duke përfshirë fjalimet gjatë procedurës gjyqësore në masën e justifikuar për qëllimin që do të arrihet, të bëra nga institucionet shtetërore, fetare ose në ceremonitë shtetërore dhe fetare, si edhe fragmente të prezantimeve publike.
+2. Në të gjitha përcaktimet e parashikuara nga pika 1, e këtij neni, është e detyrueshme të tregohet burimi dhe autorësia e veprës, në rastet kur kjo është e mundur.

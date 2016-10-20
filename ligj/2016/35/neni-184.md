@@ -1,0 +1,3 @@
+# Neni 184
+Ankimi dhe ekzekutimi i masave administrative
+Ankimi ndaj vendimeve të trupave inspektues, të përcaktuar në këtë ligj, bëhet në përputhje me ligjin për inspektimin, ndërsa procedurat e konstatimit, shqyrtimit, vendosjes, ankimit dhe ekzekutimit të gjobave bëhen në përputhje me legjislacionin në fuqi për kundërvajtjet administrative. Pas përfundimit të procedurave të ankimit administrativ bëhet ankim në gjykatën administrative, brenda afateve dhe sipas procedurave të parashikuara në dispozitat e ligjit nr. 49/2012 “Për organizimin dhe funksionimin e gjykatave administrative dhe gjykimin e mosmarrëveshjeve administrative”.

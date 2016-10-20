@@ -1,0 +1,5 @@
+# Neni 114
+E drejta për shpërblimin e përbashkët për transmetimin dhe përcjelljen në publik të fonogrameve
+1. Në rastin e transmetimit ose për çdo përcjellje tjetër në publik të fonogrameve të publikuara, për qëllime tregtare, në përputhje me parashikimin e bërë në shkronjën “e”, të pikës 1, të nenit 109, të këtij ligji, përdoruesi duhet t’i paguajë prodhuesit të fonogrameve një shpërblim të përbashkët, të drejtë për çdo përcjellje në publik të fonogrameve.
+2. Prodhuesi i fonogramit do të paguajë gjysmën e shpërblimit të përmendur në pikën e mësipërme për interpretuesit dhe/ose ekze-kutuesit nga përdorimi i interpretimeve dhe/ose ekzekutimeve të tyre, që janë të fiksuara në fonograme, përveçse nëse një shpërndarje e ndryshme përcaktohet me kontratë ndërmjet prodhuesve të fonogrameve dhe interpretuesve dhe/ose ekzekutuesve.
+3. Për qëllime të këtij neni, fonogramet, që vihen në dispozicion të publikut, me tel apo pa tel, nga një vend dhe në një kohë të zgjedhur individualisht, do të konsiderohen të publikuara për qëllime tregtare.

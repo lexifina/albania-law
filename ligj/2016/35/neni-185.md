@@ -1,0 +1,3 @@
+# Neni 185
+Ndërgjegjësimi publik për të drejtën e autorit
+Radiotelevizioni Publik Shqiptar transmeton çdo muaj programe edukative për ndërgjegjësimin e publikut për të drejtën e autorit, në përputhje me ligjin për mediat audiovizive në Republikën e Shqipërisë. Këto programe edukative kanë një kohëzgjatje në total prej 90 minutash dhe transmetohen nga ora 800 deri në orën 2200. Një prej këtyre programeve, me kohëzgjatje prej 30 minutash, transmetohet detyrimisht nga ora 1400 deri në orën 2100. Për qëllim të këtij neni, ministria përgjegjëse për të drejtat e autorit harton çdo muaj një kalendar programesh dhe aktivitetesh për përcjelljen e tyre te publiku, me qëllim rritjen e informimit dhe ndërgjegjësimit publik mbi të drejtën e autorit.

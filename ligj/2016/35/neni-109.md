@@ -1,0 +1,19 @@
+# Neni 109
+Të drejtat ekskluzive pasurore të interpretuesit dhe/ose ekzekutuesit
+1. Interpretuesit dhe/ose ekzekutuesit kanë të drejta ekskluzive për të autorizuar ose ndaluar:
+a) regjistrimin e interpretimeve dhe/ose ekzekutimeve të tyre;
+b) riprodhimin e fonogramit ose videogramit me përmbajtjen e interpretimeve dhe/ose ekzekuti-meve të tyre;
+c) shpërndarjen e fonogramit ose videogramit me përmbajtjen e interpretimeve dhe/ose ekzekuti-meve të tyre;
+ç) qiradhënien e fonogramit ose videogramit me përmbajtjen e interpretimeve dhe/ose ekzekuti-meve të tyre;
+d) huadhënien e fonogramit ose videogramit me përmbajtjen e interpretimeve dhe/ose ekzekuti-meve të tyre;
+dh) importimin, për qëllime tregtare në tregun e brendshëm, të fonogramit ose videogramit me përmbajtjen e interpretimeve dhe/ose ekzekuti-meve të tyre;
+e) transmetimin e interpretimeve dhe/ose ekzekutimeve dhe përcjelljen e tyre në publik, sipas parashikimeve të nenit 29, shkronjat “c”, “ç”, “d”, “dh”, “ë”, të këtij ligji, me përjashtim të rasteve kur interpretimi dhe/ose ekzekutimi është fiksuar ose transmetuar më parë. Nëse regjistrimi/fiksimi është bërë në një fonogram ose videogram, interpretuesi dhe/ose ekzekutuesi ka të drejtën e përfitimit të një shpërblimi të përbashkët, të drejtë, për transmetimin dhe përcjelljet e tjera në publik të interpretimit dhe/ose ekzekutimit të tij. Shpërblimi i përbashkët, i drejtë, i përmendur në këtë pikë, të këtij neni, përbëhet prej shpërblimit të marrë nga përdoruesi i fonogrameve dhe që i përket interpretuesit dhe/ose ekzekutuesit dhe prodhuesit të fonogrameve;
+ë) ritransmetimin kabllor të interpretimeve dhe/ose ekzekutimeve të tyre;
+f) vënien në dispozicion në mënyrë ndërvepruese të fiksimeve të interpretimeve dhe/ose ekzekutimeve të tyre.
+2. “Fiksimi” (ose regjistrimi), sipas këtij ligji, është trupëzimi i tingujve, pamjeve ose i të dyjave së bashku apo paraqitja e tyre, ku prej tyre mund të përftohet një krijim, i cili të perceptohet, të riprodhohet ose të përcillet nëpërmjet një pajisjeje.
+3. Në rastin e interpretimit dhe/ose ekzekutimit në të njëjtën shfaqje në mënyrë kolektive, autorizimi për veprimet e përmendura në pikën 1, të këtij neni, mund të jepet nga përfaqësuesi i interpretuesve dhe/ose ekzekutuesve që marrin pjesë në këtë shfaqje. Përfaqësuesi i interpretuesve dhe/ose ekzekutuesve e fiton të drejtën e përfaqësimit me pëlqimin me shkrim, respektivisht, të shumicës së anëtarëve të grupit muzikor, të korit, të trupës së kërcimit ose asaj teatrale, nëpërmjet anëtarëve të një orkestre ose ansambleve të tjera të ngjashme. Parashikimet e kësaj pike nuk zbatohen për solistët, dirigjentët dhe regjisorët e shfaqjeve teatrale.
+4. Dispozitat mbi të drejtën e shpërndarjes dhe të drejtën e qiradhënies së autorëve gjejnë zbatim me ndryshimet e nevojshme, edhe për të drejtat e interpretuesve dhe/ose ekzekutuesve. Për ushtrimin e së drejtës së ritransmetimit kabllor të interpretuesve dhe/ose ekzekutuesve gjen zbatim neni 27 i këtij ligji.
+5. Interpretuesit dhe/ose ekzekutuesit kanë të drejtën e një shpërblimi të drejtë për riprodhimin e veprave të autorit për përdorim privat ose përdorim tjetër personal, sipas nenit 31, pika 1, të këtij ligji.
+6. Me përjashtim kur përcaktohet ndryshe në kontratën e prodhimit (produksionit audiovizual), interpretuesit dhe/ose ekzekutuesit, që marrin pjesë në prodhimin e një vepre audiovizuale ose në regjistrimin e fonogrameve të ndryshme, prezumohen se ia kalojnë prodhuesit të filmit, ekskluzivisht dhe pa kufizime, të gjitha të drejtat ekonomike të shfaqjes së tyre.
+7. Për çdo të drejtë ekonomike, e cila është kaluar sipas pikës 6, të këtij neni, interpretuesit dhe/ose ekzekutuesit do të gëzojnë të drejtën për përfitimin e shpërblimit të drejtë nga prodhuesi (producenti) i filmit.
+8. Interpretuesit dhe/ose ekzekutuesit nuk mund të heqin dorë nga e drejta e parashikuar në pikën 6 të këtij neni.

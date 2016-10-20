@@ -1,0 +1,16 @@
+# Neni 151
+Rregulla në lidhje me shpërndarjen e shpërblimeve
+1. AAK-ja duhet të parashikojë rregulla në lidhje me metodologjinë e shpërndarjes së shpërblimeve të grumbulluara, siç janë miratuar nga organi i saj vendimmarrës.
+2. Në këto rregulla duhet të mbahen parasysh:
+a) objekti i mbrojtjes dhe mbajtësit e të drejtave, për të cilat zbatohen këto rregulla;
+b) përcaktimi i kritereve dhe procedurës së shpërblimeve, me qëllim stimulimin e mbajtësve të të drejtave, veprat e të cilëve përfaqësojnë një vlerë të veçantë për kulturën dhe krijimtarinë kombëtare, paraprakisht të miratuara nga KKDA-ja;
+c) përcaktimi i shumave që duhet të paguhen pas zbritjes së kostos për administrimin e së drejtës, ndarja e fondeve të parashikuara nga ligji, nga statuti i AAK-së ose nga kontratat ndërkombëtare për përfaqësimin e përbashkët të AAK-ve;
+ç) kushtet për llogaritjen dhe pagesën e shpërblimeve të shpërndara.
+3. Shpërblimet e mbledhura përdoren në përputhje me rregullat e referuara në pikën 2, të këtij neni, dhe parashikimet e këtij ligji.
+4. Kontratat për shpërndarjen, të lidhura midis mbajtësve të së drejtës për të njëjtën vepër, konsiderohen shkelje të rregullave të shpërndarjes.
+5. Shpenzimet totale të një AAK-je nuk mund të përbëjnë më shumë se 30 për qind të shpërblimeve të shpërndara. Shuma e përgjithshme e shpenzimeve të një shoqate apo çdo forme tjetër juridike OJF-je do të përfshijë edhe mjetet financiare të shpenzuara në përmirësimin e sistemit të administrimit dhe mbrojtjes së të drejtës së autorit dhe të të drejtave të lidhura me të. Përveç shpenzimeve të tilla të bëra, organet e agjencisë mund të vendosin për të shpenzuar maksimumi 3 për qind të shumës totale të shpërblimeve të grumbulluara mbi masat kundër piraterisë dhe falsifikimit, si dhe për masat e tjera që kanë për qëllim rritjen e ndërgjegjësimit të vlerës së të drejtës së autorit dhe të të drejtave të lidhura me të.
+6. Llogaritja dhe shpërndarja e shpërblimeve bëhen të paktën një herë në vit.
+7. Bilancet e ushtrimit financiar, në lidhje me shpërndarjen, përcaktohen nga një organ kompetent i agjencisë dhe duhet të jenë të audituara e të vlerësuara nga një ekspert auditi.
+8. AAK-ja, brenda 15 ditëve nga data e marrjes së raportit të auditimit, do t’i dorëzojë DDA-së deklaratën e saj të llogarisë, në lidhje me shpërndarjen, referuar pikës 7 të këtij neni.
+9. Tarifat e shpërblimeve të mbledhura nga përdoruesit, të cilat në përfundim të vitit financiar nuk shpërndahen nga AAK-ja, depozitohen në një fond special për llogari të ministrisë përgjegjëse për të drejtat e autorit, në dispozicion të titullarëve të të drejtave të autorit dhe të të drejtave të tjera të lidhura me to për një periudhë 3-vjeçare. Gjatë kësaj periudhe, nëse AAK-ja identifikon mbajtësin e së drejtës, siguron shpërndarjen dhe përfiton edhe tarifën e administrimit. Në rast se mbajtësi nuk identifikohet për një periudhë trevjeçare, fondi special i kalon ministrisë përgjegjëse për të drejtat e autorit, e cila do ta përdorë në përmbushje të objektivave të saj për rritjen e krijimtarisë dhe diversitetin kulturor.
+10. Një kopje e bilanceve të miratuara dhe të audituara, në përputhje me pikat 7 dhe 8, të këtij neni, depozitohen pranë administratës tatimore sipas legjislacionit në fuqi për tatimin mbi të ardhurat.

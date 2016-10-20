@@ -1,0 +1,6 @@
+# Neni 123
+Të drejtat dhe detyrimet e përdoruesit të ligjshëm të bazave të të dhënave
+1. Prodhuesi i bazës së të dhënave, që vendoset në çfarëdolloj mënyre në dispozicion të publikut, nuk mund ta ndalojë përdoruesin e ligjshëm të bazës së të dhënave që të nxjerrë dhe/ose të ripërdorë pjesë jothelbësore të përmbajtjes së saj, të vlerësuara në mënyrë cilësore dhe/ose sasiore, për çfarëdolloj qëllimi. Nëse përdoruesi i ligjshëm është i autorizuar të nxjerrë dhe/ose të ripërdorë vetëm pjesë të caktuara të bazës së të dhënave, kjo pikë gjen zbatim vetëm për ato pjesë.
+2. Përdoruesi i ligjshëm i bazës së të dhënave, që i është vënë në dispozicion publikut në çfarëdolloj mënyre, nuk mund të kryejë veprime që bien në kundërshtim me shfrytëzimin normal të bazës së të dhënave apo cenojnë në mënyrë të paarsyeshme interesat e ligjshëm të prodhuesit të bazës së të dhënave.
+3. Përdoruesi i ligjshëm i bazës së të dhënave, që i është vënë në dispozicion publikut në çfarëdolloj mënyre, nuk mund ta cenojë mbajtësin e së drejtës së autorit apo të drejtave të lidhura në raport, sa u takon veprave ose objekteve të mbrojtura që përfshihen në bazën e të dhënave.
+4. Çdo dispozitë kontraktuale, që bie në kundërshtim me këtë nen, është e pavlefshme.

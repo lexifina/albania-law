@@ -1,0 +1,14 @@
+# Neni 142
+Procedurat e miratimit të tarifave të shpërblimit
+1. Në procedurën e miratimit të tarifave të shpërblimit për përdorimin e të drejtave të autorit përcaktohet vlera/tarifa dhe metodologjia për përcaktimin e tyre, për t’u paguar nga çdo përdorues kundrejt AAK-së, për përdorimin e veprës/ve të autorit që ato administrojnë.
+2. Tarifa vendoset me anë të një marrëveshjeje gjithëpërfshirëse (në vijim Marrëveshja) e lidhur ndërmjet AAK-së dhe përfaqësuesve të shoqatës së përdoruesve ose, nëse kjo nuk është e mundur, me vendim të KKDA-së. Deri në hyrjen në fuqi të tarifave të reja, gjejnë zbatim tarifat e miratuara më parë. Kur nuk ka tarifa të miratuara më parë, për aq kohë sa tarifat e reja nuk janë miratuar, përdoruesit i paguajnë agjencisë së administrimit kolektiv një tarifë provizore/të përkohshme, të barabartë me 60 për qind të vlerës së projekttarifave të paraqitura. AAK-ja e publikon tarifën e përkohshme në faqen zyrtare të Ministrisë së Kulturës dhe në aktet e tjera të publikimeve zyrtare.
+3. Kur në bazë të një vendimi të formës së prerë të gjykatës, vlera e tarifave përcaktohet më e ulët sesa 60 për qind e vlerës së projekttarifave, agjencia e administrimit kolektiv u kthen diferencën atyre përdoruesve, nga të cilët e ka mbledhur këtë shpërblim, në përputhje me pikën 2 të këtij neni.
+4. Në caktimin e metodologjisë së tarifave merren parasysh:
+a) të ardhurat që mund të sigurohen si rezultat i përdorimit të veprës ose objektit të të drejtave të lidhura;
+b) numri i publikut, të cilit i vihen në dispozicion veprat ose objektet e të drejtave të lidhura;
+c) kur të ardhurat nuk pasqyrojnë natyrën e përdorimit të veprave ose objekteve të të drejtave të lidhura, tarifat llogariten në bazë të kostove që lindin për përdorimin e tyre ose në bazë të ndikimit që kanë në shfrytëzimin normal nga mbajtësit e të drejtave;
+ç) rëndësia e përdorimit të veprave dhe objekteve të të drejtave të lidhura për veprimtaritë përkatëse të përdoruesve;
+d) raporti i përdorimit midis veprave ose objekteve të të drejtave të lidhura, të mbrojtura dhe jo të mbrojtura;
+dh) krahasueshmëria e tarifave të propozuara me tarifat e agjencive homologe të administrimit kolektiv në vende të tjera, veçanërisht me ato vende, të cilat kanë standard të përafërt zhvillimi ekonomiko-social me Republikën e Shqipërisë.
+5. Tarifat e zbatuara për ritransmetimin kabllor pasqyrojnë, gjithashtu, numrin e përdoruesve familjarë që janë të lidhur në sistemet kabllore dhe natyrën e programeve të ritransmetuara.
+6. Në përllogaritjen e tarifave mbahet parasysh burimi i të ardhurave në formatin e subvencionit, abonimit dhe sponsorizimit, e përshkallëzuar, në masë më të ulët, në rastin e të ardhurave që rrjedhin nga subvencionet për mbulimin e kostove operative, në masë më të rritur, në rastin e të ardhurave nga shërbimet e abonimit dhe në masa më të larta, në rastin e të ardhurave të marra nga reklamuesit dhe sponsorët tregtarë.

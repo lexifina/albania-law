@@ -1,0 +1,8 @@
+# Neni 149
+Parimet për krijimin e masës së shpërblimit nga tarifat
+1. Në qoftë se përdorimi i objektit të mbrojtjes është i domosdoshëm për aktivitetin e një përdoruesi dhe kur aktiviteti i tij varet nga ky përdorim, si në rastet e transmetimeve, koncerteve, valleve ose përdorimeve të tjera të objektit kundrejt pagesës, shuma e shpërblimeve do të jetë fikse në parim, si përqindje e të ardhurave ose fitimit nga një përdorim i tillë.
+2. Nëse përdorimi i objektit të mbrojtjes rezulton pa të ardhura ose fitim, shuma e pagesave mund të jetë fikse, si përqindje e shpenzimeve të përdorimit, të tilla si shpërblimet ose pagat e interpretuesve apo shpenzimet e bëra për përdorimin, shfrytëzimin e lokaleve ose shpenzime të tjera.
+3. Përveç shpërblimeve fikse, si përqindje, shuma minimale e shpërblimeve specifikohet.
+4. Nëse një përdorues nuk dorëzon tek AAK-ja informacion të nevojshëm për përcaktimin e shpërblimit si përqindje, AAK-ja mund të vendosë sasinë e shpërblimeve, në bazë të informacionit të mbledhur, në përputhje me nenin 141 këtij ligji.
+5. Nëse përdorimi i objektit të mbrojtjes nuk është thelbësor për një përdorues, por është i dobishëm ose çlodhës (objektet e akomodimit, vende ekspozitë, mjetet e transportit dhe objekte të caktuara hoteleri), shuma e shpërblimeve përcaktohet si një shumë totale për përdorime të përhershme dhe rastësore.
+6. Në rastin e një vendimmarrjeje për shumën totale dhe shpërblimet e përmendura në pikën 3, të këtij neni, rrethanat e përdorimit të objektit të mbrojtjes, që merren në konsideratë, do të jenë tipi i përdorimit, vendi dhe vendndodhja gjeografike, kategoria dhe madhësia e objekteve, kohëzgjatja dhe numri i përdorimit dhe diferenca e çmimeve në lidhje me biznesin e një përdoruesi.

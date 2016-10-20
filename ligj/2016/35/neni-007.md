@@ -1,0 +1,4 @@
+# Neni 7
+Zbatimi në kohë dhe hapësirë
+1. Ky ligj gjen zbatim për të gjitha veprat, përfshirë ato të mbrojtura nga marrëveshjet ndërkombëtare, ku Republika e Shqipërisë është palë, të cilat, në momentin e hyrjes në fuqi të marrëveshjes përkatëse, nuk kanë hyrë ende në “domenin publik” në vendin e tyre të origjinës pas përfundimit të afatit të mbrojtjes dhe të cilat nuk kanë hyrë ende në “domenin publik” në Republikën e Shqipërisë, për shkak të përfundimit të një afati mbrojtjeje të parashikuar nga ky ligj.
+2. Në kuptim të këtij ligji, me termin “domen publik” konsiderohet tipologjia ose regjimi i përdorimit të lirë nga publiku të veprave të së drejtës së autorit dhe të drejtave të tjera të lidhura me të, të cilave u ka mbaruar afati i mbrojtjes në bazë të këtij ligji ose që nuk kanë qenë ndonjëherë nën mbrojtjen e ligjit të së drejtës së autorit.

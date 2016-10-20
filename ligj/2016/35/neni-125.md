@@ -1,0 +1,5 @@
+# Neni 125
+Afati i mbrojtjes së të drejtave të prodhuesve të bazave të të dhënave
+1. Të drejtat e një prodhuesi të bazës së të dhënave mbrohen që nga data e përfundimit të bërjes së bazës së të dhënave deri në përfundimin e vitit të 15-të, që llogaritet nga 1 janari i vitit pasardhës nga data e përfundimit.
+2. Në rastin e bazës së të dhënave, që i vihet në dispozicion publikut në çfarëdolloj mënyre përpara përfundimit të periudhës së parashikuar në pikën 1, të këtij neni, afati i mbrojtjes së të drejtës së prodhuesit të bazës së të dhënave përfundon pas 15 vjetëve, që llogariten nga 1 janari i vitit pasardhës nga data kur baza e të dhënave i është vënë për herë të parë në dispozicion publikut.
+3. Çdo ndryshim thelbësor, i vlerësuar në mënyrë cilësore ose sasiore, i përmbajtjes së bazës së të dhënave, përfshirë çdo ndryshim thelbësor që rrjedh nga mbledhja e shtesave, fshirjeve ose ndryshimeve të njëpasnjëshme, që do të sillnin si rezultat një bazë të dhënash që konsiderohet si një investim thelbësisht i ri, i vlerësuar në mënyrë cilësore dhe sasiore, e kualifikon bazën e të dhënave që rezulton nga ky investim për afatin e vet të mbrojtjes.

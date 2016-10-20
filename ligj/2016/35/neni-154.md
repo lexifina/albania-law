@@ -1,0 +1,10 @@
+# Neni 154
+Masat mbrojtëse teknologjike
+1. Autori i një vepre, interpretuesi dhe/ose ekzekutuesi, prodhuesit e fonogrameve ose të filmit (regjistrimeve audiovizuale), ofruesit e shërbimit mediatik audioviziv ose prodhuesit e bazës së të dhënave mund të krijojnë masa teknologjike të mbrojtjes së të drejtave të njohura me këtë ligj. Ndalohen, pavarësisht nëse si rezultat i tyre ose jo mund të ndodhin shkelje të së drejtës së autorit, të drejtave të lidhura ose të drejtave të tjera të mbrojtura nga ky ligj, veprimet vijuese:
+a) shmangia e çdo mase teknologjike efektive nga personi që e kryen veprimin e shmangies me dijeni ose që ka baza të arsyeshme për të pasur dijeni se ai/ajo po ndjek këtë objektiv;
+b) prodhimi, importimi, shpërndarja, shitja, qiradhënia, reklamimi për shitje ose qiradhënie ose zotërimi për qëllime tregtare i pajisjeve, produkteve apo pjesëve përbërëse ose ofrimi i shërbimeve që:
+i) nxiten, reklamohen ose tregtohen për qëllime shmangieje;
+ii) kanë vetëm një qëllim të kufizuar tregtar ose përdorim të ndryshëm nga shmangia;
+iii) janë kryesisht të projektuara, të prodhuara, të përshtatura ose të përdorura për qëllime të mundësimit ose lehtësimit të shmangies së masave teknologjike.
+2. Në zbatim të këtij ligji, “masa teknologjike” janë çdo teknologji, pajisje ose pjesë përbërëse, që është projektuar për parandalimin ose kufizimin e veprimeve në rrjedhën normale të funksionimit të tyre, lidhur me krijimet ose objektet e të drejtave të lidhura, që nuk janë të autorizuara nga mbajtësit e të drejtave. Masat teknologjike konsiderohen “efektive”, kur përdorimi i një vepre të mbrojtur apo objekti të të drejtave të lidhura kontrollohet nga mbajtësi i të drejtave nëpërmjet zbatimit të një kontrolli të hyrjes ose procesi mbrojtës, si kriptimi, çkodimi ose shndërrime të tjera të krijimit ose objektit të të drejtave të lidhura ose një mekanizmi kontrolli të kopjes që, në rrjedhën normale të funksionimit të saj, arrin objektivin e mbrojtjes.
+3. Dispozitat e këtij neni nuk zbatohen për programet kompjuterike.

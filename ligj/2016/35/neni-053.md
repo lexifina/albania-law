@@ -1,0 +1,9 @@
+# Neni 53
+Zgjidhja e kontratës
+1. Autori mund të zgjidhë në mënyrë të njëanshme kontratën e së drejtës së autorit për kalimin e të drejtave pasurore, nëse:
+a) përfituesi/mbajtësi i të drejtave nuk e shfrytëzon objektin e kontratës brenda afatit dhe kushteve, për të cilat është rënë dakord në kontratën me shkrim;
+b) përfituesi/mbajtësi i të drejtave e shfrytëzon veprën në një mënyrë qartësisht që vjen në kundërshtim me lejen dhe në mënyrë të ndryshme nga kushtet e parashikuara në kontratën me shkrim, duke cenuar interesat legjitimë të autorit.
+2. Në rastin e pikës 1, të këtij neni, përfituesi/mbajtësi i të drejtave përgjigjet për dëmin e shkaktuar në përputhje me legjislacionin në fuqi.
+3. Autori nuk do të ketë të drejtë të kërkojë zgjidhjen në mënyrë të njëanshme të kontratës nëse përfituesi/mbajtësi i së drejtës për shfrytëzimin e veprës provon se rrethanat që shkaktojnë mosushtrimin e së drejtës mbi veprën janë veprimet e vetë autorit, të një pale të tretë ose një force madhore. Në rastin kur shkaktar është autori vetë, ai përgjigjet për dëmin e shkaktuar kundrejt përfituesit/mbajtësit të të drejtave.
+4. Autori nuk mund të heqë dorë paraprakisht nga e drejta e tij e zgjidhjes së kontratës, e përmendur në pikën 1, të këtij neni. Kjo dorëheqje mund të përjashtohet me kontratë vetëm për një periudhë dyvjeçare pas lidhjes së kontratës ose dorëzimit të veprës, në rast se kjo ndodh në një datë më të vonë sesa ajo e lidhjes së kontratës. Në vend të zgjidhjes së kontratës, autori mund të ndërpresë ekskluzivitetin e shfrytëzimit të të drejtave, duke ulur, në të njëjtën kohë, edhe tarifën që duhet t’i paguhet atij për përdorimin. Në rastin e veprave të botuara në shtypin e përditshëm, periudha kohore e sipërpërmendur është 3 muaj, ndërsa për botimet e tjera periodike 1 vit.
+5. Autori nuk mund të heqë dorë nga e drejta e tij e autorit.

@@ -1,0 +1,4 @@
+# Neni 81
+Riprodhimi pjesor i veprës
+1. Lejohet të bëhen shkurtime, citime të fragmenteve ose të pjesëve të një vepre të së drejtës së autorit, pa autorizimin e autorit ose titullarit të së drejtës së autorit dhe pa shpërblim, e cila është botuar ose është vënë në dispozicion të publikut në mënyrë të ligjshme, për të riprodhuar, botuar, përcjellë në publik, për qëllime të kërkimit shkencor, mësimdhënies, studimeve kritike, ilustrimit, argumentimit, referimit ose rishikimit, me kusht që një përdorim i tillë të jetë në përputhje me praktikën e drejtë dhe në masën e kërkuar për qëllimin konkret që kërkohet të arrihet.
+2. Në të gjitha përcaktimet e parashikuara nga pika 1, e këtij neni, është e detyrueshme të tregohen burimi, autorësia e veprës, si dhe botuesi e përkthyesi, kur kemi të bëjmë me një përkthim, në rastet kur kjo është e mundur.

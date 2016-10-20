@@ -1,0 +1,5 @@
+KREU VIII
+DISPOZITA TË VEÇANTA PËR PROGRAMET KOMPJUTERIKE
+DHE VEPRAT AUDIOVIZUALE
+Seksioni 1
+Dispozita të veçanta për programet kompjuterike

@@ -1,0 +1,6 @@
+# Neni 152
+Mbikëqyrja e përdorimit të objektit të mbrojtjes
+1. Një agjenci e administrimit kolektiv të të drejtave mund të mbikëqyrë përdorimin e objektit të mbrojtjes, për të cilën ajo është licencuar.
+2. Përdoruesit e objektit të mbrojtjes duhet të vënë në dispozicion të AAK-së, me kërkesën e saj, dokumentacionin dhe informacionin përkatës për administrimin e të drejtave, për të bërë të mundur nga kjo e fundit kryerjen e funksionit të mbikëqyrjes së zbatimit të ligjit.
+3. Me kërkesë të AAK-së, organet e administratës shtetërore përgjegjëse për inspektimin dhe shërbimet doganore, si dhe administrata kompetente e policisë dhe komisariatet e policisë duhet të sigurojnë ndihmë për agjencinë e administrimit kolektiv të të drejtave në ushtrimin e mbikëqyrjes, referuar në pikën 1 të këtij neni.
+4. Organizatorët e shfaqjeve publike dhe përdoruesit e tjerë të veprave të mbrojtura nga ky ligj duhet të sigurojnë të drejtat e komunikimit në publik, në rastet kur një autorizim kërkohet, sipas këtij ligji, përpara një shfrytëzimi të tillë. Me kërkesë të autorit ose të një agjencie të administrimit kolektiv, autoritetet kompetente të inspektimit ose policisë do të ndalojnë një shfaqje, në të cilën është përdorur objekti i mbrojtjes, në qoftë se organizatori i saj nuk e ka autorizimin përkatës.

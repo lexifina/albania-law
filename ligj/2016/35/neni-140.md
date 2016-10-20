@@ -1,0 +1,5 @@
+# Neni 140
+Dhënia e autorizimit për përdorim
+1. Një person fizik ose juridik, para se të fillojë të përdorë një objekt të mbrojtur nga të drejtat e autorit dhe të drejtave të tjera të lidhura me to, duhet të paraqesë në AAK-në përkatëse kërkesën për autorizimin e këtij përdorimi. Kërkesa duhet të përmbajë informacion për llojin dhe rrethanat e përdorimit, si mënyrën, vendin dhe kohën e përdorimit dhe informacione të tjera të nevojshme për përcaktimin e shumës së shpërblimit.
+2. AAK-ja i jep përdoruesit autorizimin për shfrytëzimin e objektit të mbrojtjes brenda kompetencave të saj. Në autorizim përfshihen tregues të llojeve të të drejtave, për të cilat ai zbatohet, kushtet e përdorimit për sa i përket mënyrës, vendit, kohës dhe masës së shpërblimit për shfrytëzim, ku përdorimi i nënshtrohet pagesës së shpërblimit.
+3. Përdoruesi i paraqet AAK-së, pa vonesë, informacion në lidhje me çdo ndryshim të rrethanave të përdorimit ose të përfundimit të tij, në mënyrë që të ndryshohen kushtet, në të cilat është dhënë autorizimi ose për ta tërhequr atë.

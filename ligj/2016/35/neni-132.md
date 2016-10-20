@@ -1,0 +1,6 @@
+# Neni 132
+Kontrata me autorin
+1. Agjencia e administrimit kolektiv do të administrojë të drejtat e autorëve vetëm në bazë të një kontrate të lidhur me autorin. Kontrata do të përfshijë, në veçanti, autorizimin e autorit për administrimin e të drejtave të tij, llojin e veprave dhe të drejtave për t’u administruar dhe kohëzgjatjen e kontratës, e cila nuk duhet të kalojë tre vite, e rinovueshme. Drejtoria për të Drejtat e Autorit do të mbikëqyrë dhe do të kontrollojë këtë veprimtari, si organi garant i zbatimit të këtij ligji.
+2. Një agjenci e administrimit kolektiv duhet të informojë paraprakisht mbajtësit e të drejtave të përcaktuara në këtë ligj për të drejtat e tyre që ato administrojnë në zbatim të nenit 137, shkronja “a”, të këtij ligji. Agjencia duhet të informojë edhe ata mbajtës të të drejtave që e kanë autorizuar tashmë atë për administrimin e të drejtave të tyre, që gëzojnë në bazë të këtij ligji, brenda 2 viteve nga hyrja në fuqi e këtij ligji.
+3. Agjencitë e administrimit kolektiv, në bazë të kontratës me autorin, me kërkesë, mund të autorizojnë përdorimin e veprave te përdoruesit.
+4. Në periudhën kohore kur administrimi i të drejtave është transferuar në agjencinë e administrimit kolektiv, qoftë me ligj ose me kontratë, autori nuk mund të administrojë në mënyrë individuale këto të drejta.

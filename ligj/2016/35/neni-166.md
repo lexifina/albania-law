@@ -1,0 +1,5 @@
+# Neni 166
+Kërkesa për kompensim dhe shpërblim për përdorimin e paautorizuar
+1. Nëse nga përdorimi i paautorizuar i një vepre të së drejtës së autorit ose i të drejtave të lidhura me të është shkelur e drejta e mbajtësit të së drejtës, në bazë të këtij ligji, ai ose një AAK, që administron të drejtat përkatëse, mund të pretendojnë shpërblim, i cili do të ishte i barabartë me shpërblimin për përdorim, sipas tarifave të përmendura në këtë ligj.
+2. E drejta, e cila është administruar në mënyrë kolektive, do të konsiderohet e shkelur, sipas pikës 1, të këtij neni, kur vepra ose objekti i të drejtave të lidhura është përdorur pa kontratë ose pa autorizimin e një AAK-je ose në rastet kur një kontratë ose autorizim nuk është i vlefshëm.
+3. Nëse shfrytëzimi i paligjshëm i ndonjë të drejte, sipas këtij ligji, rezulton me përfitim, mbajtësi i së drejtës ka të drejtë të kërkojë përfitimin e fituar nga personi fizik ose juridik që e ka shkelur këtë të drejtë mbi një vepër të së drejtës së autorit.
