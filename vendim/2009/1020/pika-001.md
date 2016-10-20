@@ -1,1 +1,0 @@
-1. Krijimin e Agjencisë së Auditimit të Programeve të Asistencës, akredituar nga Bashkimi Europian, (që në vijim do të quhet “Agjenci”), si një institucion publik buxhetor, në varësi të Ministrit të Financave, i cili është zyrtari përgjegjës akreditues (ZPA/CAO).

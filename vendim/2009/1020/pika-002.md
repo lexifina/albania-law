@@ -1,1 +1,0 @@
-2. Agjencia ka objektiv të veprimtarisë auditimin dhe kontrollin e zbatimit të programeve të asistencës, akredituar nga Bashkimi Europian Republikës së Shqipërisë, bazuar në detyrimet ndërkombëtare, që ajo do të ndërmarrë.

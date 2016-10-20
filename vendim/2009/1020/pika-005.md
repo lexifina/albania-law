@@ -1,1 +1,0 @@
-5. Të drejtat dhe detyrimet në emër të Këshillit të Ministrave të Republikës së Shqipërisë ekzekutohen nga zyrtari përgjegjës akreditues, ZPA/CAO, pozicion i cili aktualisht mbahet nga Ministri i Financave.

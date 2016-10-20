@@ -1,1 +1,0 @@
-7. Marrëdhëniet e punës së punonjësve të agjencisë rregullohen në bazë të Kodit të Punës së Republikës së Shqipërisë, ndërsa pagat e tyre përcaktohen sipas legjislacionit në fuqi, me vendim të Këshillit të Ministrave.
