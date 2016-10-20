@@ -1,7 +1,0 @@
-# Neni 15
-Përjashtime nga e drejta e qiradhënies dhe e huadhënies
-1. Përjashtohen nga e drejta i qiradhënies vënia në dispozicion e veprës, me qëllim ekspozimi, reklamimi ose përcjelljeje në publik nëpërmjet fonogrameve ose regjistrimeve audiovizuale (videograme), përfshi këtu dhe pjesë të secilës prej tyre, si dhe vënia në dispozicion për konsultim në vend.
-2. Përjashtohen nga e drejta e huadhënies vënia në dispozicion e veprës, me qëllim ekspozimi, reklamimi ose përcjelljeje në publik nëpërmjet fonogrameve ose regjistrimeve audiovizuale (videograme), përfshi këtu dhe pjesë të secilës prej tyre, si dhe vënia në dispozicion për konsultim në vend.
-3. Konsiderohet se nuk ka përfitim ekonomik ose tregtar të drejtpërdrejtë, kur huazimi bëhet kundrejt shpërblimit në një vlerë, e cila nuk është më e madhe se ajo që shërbeu për të mbuluar shpenzimet e veprimeve për dhënien hua të veprës.
-4. Pavarësisht nëse e drejta e qiradhënies apo e huadhënies së veprës i njihet prodhuesit të fonogramit, prodhuesit të veprave kinematografike, audiovizuale ose të sekuencave me pamje të lëvizshme, autori dhe/ose interpretuesi gëzojnë të drejtën e një shpërblimi të arsyeshëm për kontratën e qiradhënies apo të huadhënies, të nënshkruar nga prodhuesi me të tretët. Kjo e drejtë mund të ushtrohet edhe nëpërmjet të tretëve të autorizuar, të cilët përfaqësojnë autorët dhe/ose interpretuesit.
-5. Parashikimet e këtij neni për qiradhënien ose huadhënien nuk janë të zbatueshme për veprat arkitekturore dhe veprat e arteve të aplikuara.
