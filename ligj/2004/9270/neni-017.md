@@ -1,0 +1,3 @@
+# Neni 17
+1. Kur ndërsat kanë dyqane, punishte ose lokale të ndryshme, të cilat kanë hyrje të veçanta, që dalin në bulevard, rrugë, rrugicë, shesh ose park, çdo dyqani, lokali ose punishteje i vihet një numër i veçantë. Në rast se këto dyqane, punishte apo lokale kanë më tepër se një portë (hyrje), këtyre portave (hyrjeve), që janë të të njëjtit dyqan, lokal ose punishte dhe po në atë rrugë, u vihet secilës i njëjti numër.
+2. Po në mënyrën e mësipërme u vihet nga një numër edhe të gjitha ndërtimeve të përkohshme (barrakave), qosheve, që gjenden gjatë drejtimit të një rruge, rrugice, sheshi ose parku, e kur këto janë të grumbulluara, në çdo 16 metra gjatësi rruge, marrin një numër të vetëm, por me fraksion.
