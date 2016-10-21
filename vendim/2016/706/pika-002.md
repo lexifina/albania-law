@@ -1,0 +1,1 @@
+2. Miratimin e specifikimeve teknike të letërnjoftimit elektronik për të huajt, që kanë përfituar statusin “Mbrojtje plotësuese”, sipas aneksit nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

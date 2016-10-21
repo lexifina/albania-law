@@ -1,0 +1,1 @@
+3. Miratimin e specifikimeve teknike të dokumentit të udhëtimit për të huajt, që kanë përfituar statusin “Mbrojtje plotësuese”, sipas aneksit nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
