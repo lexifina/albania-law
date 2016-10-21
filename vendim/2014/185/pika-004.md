@@ -1,0 +1,1 @@
+4. Ministria e Shëndetësisë harton protokollet e realizimit të çdo komponenti të paketës së kontrollit mjekësor bazë dhe udhëzuesin e kritereve e të lëvizjes së shtetasve në sistemin shëndetësor për përfitimin e këtij kontrolli.

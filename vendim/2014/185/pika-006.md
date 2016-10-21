@@ -1,0 +1,1 @@
+6. Mjeku i familjes/qendra shëndetësore pranë të cilit janë regjistruar shtetasit që përfitojnë të drejtën për kontroll mjekësor bazë sipas këtij vendimi, njofton shtetasit për kryerjen e këtij kontrolli periodik vjetor, sipas një grafiku të bazuar në muajin e lindjes.

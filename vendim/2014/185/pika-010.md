@@ -1,0 +1,1 @@
+10. Ministria e Shëndetësisë përcakton mesazhin, mjetet e identifikimit, planin, kanalet e komunikimit, shtrirjen dhe kohëzgjatjen e fushatës së informimit dhe komunikimit për pjesëmarrjen e popullatës në programin e kontrollit mjekësor bazë.

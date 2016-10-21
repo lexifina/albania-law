@@ -1,0 +1,1 @@
+1. Kontrolli mjekësor bazë është një program kombëtar që synon depistimin e popullatës për faktorët e rrezikut dhe sëmundjet prevalente me qëllim kujdesin për shëndetin, parandalimin e sëmundjeve dhe komplikacioneve, zbulimin e hershëm të çrregullimeve, mjekimin në fazat e hershme dhe përmirësimin e kulturës shëndetësore.

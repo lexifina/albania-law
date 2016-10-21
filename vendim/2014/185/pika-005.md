@@ -1,0 +1,1 @@
+5. Ministria e Shëndetësisë miraton institucionet shëndetësore ku do të realizohen pjesë të ndryshme të paketës së kontrollit mjekësor bazë, duke garantuar mbulesën e plotë të grupmoshës së përcaktuar në pikën 2 të këtij vendimi, bazuar në popullsinë e zonës së mbulimit, distancat e infrastrukturën, si dhe disponueshmërinë e shpërndarjen e personelit mjekësor e atij mbështetës.
