@@ -1,0 +1,1 @@
+2. Lista e bashkive të pajisura me stacione të shërbimit të MZSH-së, të cilat do të ndërhyjnë dhe mbulojnë, përkatësisht, territoret e bashkive që nuk kanë stacione të këtij shërbimi, është sipas lidhjes nr. 1, bashkëlidhur këtij vendimi.

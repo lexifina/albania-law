@@ -1,0 +1,1 @@
+4. Shumat e arkëtuara nga bashkitë që kërkojnë ndërhyrje për shuarjen e zjarreve apo në raste aksidentesh e fatkeqësish të tjera, sipas përcaktimeve të pikës 1, të këtij vendimi, derdhen në llogaritë e bashkive që kanë ofruar shërbimin dhe përdoren vetëm për financimin e veprimtarisë së shërbimit të MZSH-së së bashkisë.

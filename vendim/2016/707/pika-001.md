@@ -1,0 +1,1 @@
+1. Tarifa e shërbimit për shuarjen e zjarreve apo për shpëtimin, në raste aksidentesh dhe fatkeqësish të tjera, ofruar nga bashkitë e pajisura me stacione të këtij shërbimi në territorin e bashkive që nuk kanë stacione të mbrojtjes nga zjarri dhe shpëtimi, është 15 000 (pesëmbëdhjetë mijë) lekë për orë pune.
