@@ -1,0 +1,1 @@
+2. Vendimi nr. 100, datë 4.2.2015, i Këshillit të Ministrave, “Për miratimin e rregullores për kriteret dhe procedurat e licencimit të subjekteve për ushtrimin e aktivitetit në fushën e vlerësimit të pasurive të paluajtshme”, shfuqizohet.

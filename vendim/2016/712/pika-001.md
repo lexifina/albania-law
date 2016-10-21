@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për kriteret dhe procedurat e licencimit të subjekteve për ushtrimin e aktivitetit në fushën e vlerësimit të pasurive të paluajtshme, sipas tekstit që i bashkëlidhet këtij vendimi.
