@@ -1,0 +1,1 @@
+3. Për zbatimin e këtij vendimi, sipas pikave 1 dhe 2, autorizohet Drejtoria e Përgjithshme e Doganave që, në përputhje me legjislacionin në fuqi, të rinegociojë dhe të nënshkruajë kontratën e qirasë lidhur me shoqërinë “Continental Group” sh.a. Objekti i veprimtarisë, përbërja dhe funksionimi i grupit negociator të kësaj kontrate përcaktohen me urdhër të ministrit të Financave.
