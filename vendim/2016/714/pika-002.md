@@ -1,0 +1,1 @@
+2. Vlerat e përcaktuara si detyrim, sipas shtojcës 1, të këtij vendimi, gjatë ekzekutimit të vendimit të konvertohen në lekë, në bazë të kursit të këmbimit të bankës ku është depozituar shuma në datën e kryerjes së pagesës.
