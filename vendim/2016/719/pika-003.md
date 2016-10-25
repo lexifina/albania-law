@@ -1,0 +1,1 @@
+3. MBZHRAU-ja njofton subjektet e peshkimit, pronarët ose administratorët e tyre, të cilëve u ka përfunduar afati i vlefshmërisë, për fillimin e procedurave të nxjerrjes nga flota e peshkimit të anijeve të peshkimit në pronësi ose në administrim prej tyre.

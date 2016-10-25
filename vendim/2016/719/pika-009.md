@@ -1,0 +1,1 @@
+9. Kur numri i lejeve të peshkimit deklarohet i mbyllur për një lloj peshkimi, MBZHRAU-ja njofton QKB-në, e cila refuzon kërkesën e anijeve të papajisura me numër NFR për pajisje me leje peshkimi për atë lloj peshkimi, përveç rastit të parashikuar në pikën 10, të këtij kreu.

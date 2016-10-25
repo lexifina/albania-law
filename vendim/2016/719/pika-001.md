@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim marrjen e masave menaxhuese, që synojnë mbrojtjen dhe konservimin e burimeve të gjallesave ujore në det dhe në bregdet. Ky vendim nuk zbatohet për aktivitetin e peshkimit në lagunat bregdetare dhe në ujërat e brendshme.

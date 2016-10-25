@@ -1,0 +1,1 @@
+10. Kur numri i lejeve të peshkimit deklarohet i mbyllur, hyrja në flotën e peshkimit të një kapaciteti të ri peshkimi kompensohet nga dalja paraprake e një kapaciteti peshkimi të njëjtë ose më të madh.
