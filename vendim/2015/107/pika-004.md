@@ -1,1 +1,1 @@
-4. Fondi prej 1 499 601 (një milion e katërqind e nëntëdhjetë e nëntë mijë e gjashtëqind e një) lekësh të përballohet nga Operatori i Sistemit të Transmetimit sh.a.
+4. Fondi prej 1 615 304 (një milion e gjashtëqind e pesëmbëdhjetë mijë e treqind e katër) lekësh të përballohet nga Operatori i Sistemit të Transmetimit sh.a.
