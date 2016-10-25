@@ -1,0 +1,1 @@
+5. Licenca e Koncesionit për Rafineri hartohet në tri kopje, nga të cilat një kopje mbahet në ministrinë përgjegjëse për hidrokarburet dhe nga një kopje u përcillet zyrtarisht personit juridik të cilit i jepet licenca e koncesionit dhe Këshillit të Ministrave.
