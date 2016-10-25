@@ -20,9 +20,9 @@ Fier
 2
 Qarku Fier
 Patos
--
--
--
+11,508,000
+1
+1
 Qarku Fier
 Roskovec
 -
@@ -118,10 +118,10 @@ Durrës
 33,702,000
 2
 1
-1
 Qarku Durrës
 Kruje
-11,508,000
+22,194,000
+1
 1
 1
 Qarku Durrës
@@ -276,9 +276,9 @@ Libohovë
 -
 Qarku Gjirokastër
 Memaliaj
-22,194,000
-1
-1
+0
+0
+0
 Qarku Gjirokastër
 Përmet
 22,194,000
