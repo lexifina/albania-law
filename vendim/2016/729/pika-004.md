@@ -1,0 +1,1 @@
+4. Në rast të kufizimeve për personat e mjetet dhe në varësi të kufizimit përkatës, një tabelë shtesë në shqip dhe anglisht, sipas modelit të shtojcës 1/ç, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, vendoset nën tabelën e përmendur në pikën 3 ose, në mungesë të kësaj të fundit, nën tabelën e përmendur në pikën 2.

@@ -1,0 +1,1 @@
+9. Për të gjithë personat e tjerë, të cilët nuk përmenden në pikën 7 ose 8, të këtij vendimi, përcaktohen korsi të veçanta që shënohen në gjuhët shqip dhe anglisht, siç tregohet në tabelën 2, të shtojcës 2/b, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
