@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preket nga realizimi i projektit “Rikualifikim dhe rikonstruksion i Parkut të Dëshmorëve të Kombit, trotuareve dhe unazës perimetrale të tij”, Berat.
