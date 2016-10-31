@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për kushtet, kriteret, tarifat, afatet dhe procedurën për klasifikimin e strukturave akomoduese, si dhe të kritereve për klasifikimin e strukturave akomoduese, të përcaktuara në aneksin 1 të këtij vendimi.

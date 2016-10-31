@@ -1,0 +1,1 @@
+2. Rregullorja nr. 2, datë 20.3.2003, “Për kriteret, kushtet dhe procedurat për licencimin e ushtrimit të veprimtarisë turistike akomoduese, regjistrimin dhe klasifikimin e njësive akomoduese turistike”, miratuar me urdhrin nr. 43, datë 20.3.2003, të ministrit të Rregullimit të Territorit dhe Turizmit, shfuqizohet.
