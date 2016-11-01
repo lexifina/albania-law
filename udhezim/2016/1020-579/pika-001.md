@@ -1,0 +1,1 @@
+1. Dokumenti i informacionit që u jepet personave që janë subjekt i verifikimit të vijës së dytë, në vijim “dokumenti” hartohet në formatin e shkresave zyrtare që prodhohen në Pikën e Kalimit Kufitar dhe firmoset e vuloset nga punonjësi që ka të drejtën e firmës dhe vulës në këtë Pikë Kalimi Kufitar.
