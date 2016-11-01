@@ -1,0 +1,1 @@
+17. Për vulat e deklaruara të pavlefshme dhe të asgjësuara, Ministria e Drejtësisë vë në dijeni institucionet e përcaktuara në pikën 11, të këtij urdhri, se personi nuk e ushtron më veprimtarinë, se ato vula nuk janë më në përdorim dhe se dokumentacioni i paraqitur me vula sipas modelit të treguar, pas datës kur janë asgjësuar vulat, duhet konsideruar i pavërtetë.

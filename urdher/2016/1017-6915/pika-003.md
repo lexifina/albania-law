@@ -1,0 +1,1 @@
+3. Certifikimi si përmbarues gjyqësor privat lëshohet vetëm për individë, sipas përcaktimeve të legjislacionit në fuqi, vula që lëshohet për ta është personale dhe përdoret vetëm nga përmbaruesi gjyqësor privat, si dhe vendoset në çdo dokument që ai krijon gjatë veprimtarisë së tij profesionale.

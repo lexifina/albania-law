@@ -1,0 +1,1 @@
+4. Pavarësisht se shërbimi përmbarimor mund të ofrohet nëpërmjet një subjekti tregtar, vula është personale dhe përdoret vetëm nga përmbaruesi i pajisur me certifikatën e aftësisë profesionale të përmbaruesit gjyqësor privat.
