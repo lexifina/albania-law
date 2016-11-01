@@ -1,0 +1,1 @@
+11. Masa e përfitimit të aftësisë së kufizuar, të përcaktuar në pikën 17, të kreut IV, të VKM-së nr. 431, datë 8.6.2016, për shërbimet e herëpas-hershme të ndihmësit personal, është 8,230 (tetëmijë e dyqind e tridhjetë) lekë në muaj për personat e përcaktuar në pikën 2, germa “a”, të kreut I të vendimit.
