@@ -1,0 +1,8 @@
+# Shtojca
+RAPORTI I KATËRT
+Paraqitur nga
+REPUBLIKA E SHQIPËRISË
+Mbështetur në nenin 25, paragrafi 2, të
+KONVENTËS KUADËR TË KËSHILLIT TË EVROPËS
+PËR MBROJTJEN E PAKICAVE KOMBËTARE
+Tetor 2016
