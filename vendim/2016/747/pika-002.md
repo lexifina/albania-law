@@ -1,0 +1,1 @@
+2. Ministria e Punëve të Brendshme, Qendra Kombëtare Pritëse për Azilkërkuesit, në përputhje me pikën 1, të këtij vendimi, të bëjnë reflektimet në regjistrat e pasurive të paluajtshme për godinën nr. 4 që hiqet nga aktivet e bilancit.
