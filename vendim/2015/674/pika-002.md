@@ -1,1 +1,0 @@
-2. Ministri i Shtetit për Inovacionin dhe Administratën Publike dhe ministri i Drejtësisë, me urdhër të përbashkët, përcaktojnë sportelet e shërbimit që do të kalojnë nga zyrat vendore të regjistrimit të pasurive të paluajtshme në administrimin e Qendrës së Ofrimit të Shërbimeve Publike të Integruara.

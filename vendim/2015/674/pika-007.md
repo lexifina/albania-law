@@ -1,1 +1,0 @@
-7. Çështjet, që kanë të bëjnë me administrimin/pronësinë e aseteve që janë në përdorim të sporteleve pritëse për qytetarët në ZVRPP, të rregullohen me marrëveshje të përbashkët ndërmjet ZQRPP-së dhe Qendrës së Ofrimit të Shërbimeve Publike të Integruara.
