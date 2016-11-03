@@ -1,0 +1,1 @@
+6. Autoritetet përgjegjëse, që operojnë në pikën e kalimit kufitar, përdorin ose shfrytëzojnë bashkërisht pajisjet, mjetet dhe mjediset e verifikimit kufitar, veçanërisht të vijës së dytë, pavarësisht nga pronësia e këtyre pajisjeve apo mjediseve.

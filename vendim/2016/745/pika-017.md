@@ -1,0 +1,1 @@
+17. Për çështje të veçanta të verifikimit kufitar, të cilat kanë nevojë për specifikime konkrete të veprimtarisë së strukturave vartëse të ministrive të linjës, ministri përkatës nxjerr urdhër në zbatim të këtij vendimi.

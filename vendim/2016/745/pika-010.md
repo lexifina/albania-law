@@ -1,0 +1,1 @@
+10. Mosparaqitja brenda një kohe të arsyeshme e autoritetit të njoftuar sipas parashikimit të pikës 9 nuk kushtëzon moskryerjen e verifikimit kufitar, përveç rasteve kur prania e autoritetit kompetent është absolutisht e domosdoshme.

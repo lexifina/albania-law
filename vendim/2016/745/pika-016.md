@@ -1,0 +1,1 @@
+16. Për çështje të veçanta të verifikimit të përbashkët kufitar, të cilat kanë nevojë për specifikime konkrete të veprimtarisë së dy a më shumë autoriteteve, ministrat e linjës nxjerrin urdhër të përbashkët në zbatim të këtij vendimi.
