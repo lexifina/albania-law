@@ -1,0 +1,1 @@
+2. Programit buxhetor “Zhvillimi rural duke mbështetur bujqësinë, blegtorinë, agroindustrinë dhe marketingun”, i pakësohen 12 000 000 (dymbëdhjetë milionë) lekë, shpenzime korrente, nga skema mbështetëse për bujqësinë.
