@@ -1,0 +1,28 @@
+{
+  "qbz_id": 61464,
+  "title": "PËR DISA NDRYSHIME DHE SHTESA NË VENDIMIN NR. 280, DATË 1.4.2015, TË KËSHILLIT TË MINISTRAVE, “PËR PËRCAKTIMIN E KRITEREVE, PROCEDURAVE E DOKUMENTACIONIT TË ZBATUESHËM PËR TË KUALIFIKUAR NDËRTIMET PA LEJE, SHTESAT ANËSORE DHE/OSE NË LARTËSI, NË NDËRTIME ME LEJE”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "756",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2016-10-26",
+  "published": "2016-11-03",
+  "in_force": "2016-11-03",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ce0b2989c4b7077a2f636ec05bf5833c14f1ce91f845dd0fe9be6fd4d83b6d3a.docx",
+  "source_sha256": "ce0b2989c4b7077a2f636ec05bf5833c14f1ce91f845dd0fe9be6fd4d83b6d3a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61464",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/10/26/756",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    63715
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
