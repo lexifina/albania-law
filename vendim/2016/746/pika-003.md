@@ -1,0 +1,1 @@
+3. Në inventarin e pronave hiqen ndërtesat ekonomike dhe administrative, komponentë përbërës të pronës “Reparti Special RENEA”, me numrat rendorë 1-27, sipas formularit (fletat 1 dhe 2), që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

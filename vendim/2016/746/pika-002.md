@@ -1,0 +1,1 @@
+2. Shembjen e ndërtesave ekonomike dhe administrative, komponentë përbërës të pronës “Reparti Special RENEA”, me numrat rendorë 25-27, sipas formularit (fleta 2), që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

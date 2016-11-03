@@ -1,0 +1,1 @@
+4. Ngarkohen Ministria e Punëve të Brendshme, Drejtoria e Policisë së Shtetit, që, në përputhje me pikën 3, të këtij vendimi, të bëjë reflektimet në regjistrat e pasurive të paluajtshme për ndërtesat ekonomike që hiqen nga aktivet e bilanceve.
