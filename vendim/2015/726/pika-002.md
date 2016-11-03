@@ -1,1 +1,2 @@
 2. Lloji i zonave minerare dhe treguesit e tjerë cilësorë e sasiorë të aktivitetit minerar, që zhvillohet në një zonë të caktuar, përcaktohen në planin minerar vjetor.
+2.1 Zonat minerare, të cilave u është revokuar leja minerare apo mund t’u revokohet ajo për shkaqe ligjore, mund të shpallen si zona të reja konkurruese, pavarësisht se nuk janë përfshirë në programin e veprimit për zbatimin e strategjisë minerare për periudhën 3-vjeçare 2016-2018.
