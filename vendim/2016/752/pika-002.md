@@ -1,0 +1,2 @@
+2. Sipërfaqet e tokës, që do të ndikohen nga ndërtimi i stacioneve të valvulave bllokuese të seksionit tokësor të Gazsjellësit Trans Adriatik (Projekti TAP), do të vihen në dispozicion të shoqërisë Trans Adriatik Pipeline AG (TAP AG) për përdorim të përhershëm.
+Parcelat që ndryshojnë statusin, nga tokë bujqësore në tokë truall, për pesë stacionet e valvulave të sigurisë/bllokimit të seksionit tokësor të Gazsjellësit Trans Adriatik (Projekti TAP), jepen në lidhjen l, bashkëlidhur dhe pjesë përbërëse e këtij vendimi.

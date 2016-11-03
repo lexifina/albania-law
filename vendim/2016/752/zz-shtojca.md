@@ -1,0 +1,133 @@
+# Shtojca
+Lidhja 1
+SIPËRFAQET TOKË BUJQËSORE TË IMPAKTUARA NGA SEKSIONI TOKËSOR I PROJEKTIT TAP - SEKTORI 4A, SEKTORI 5A DHE SEKTORI 4B
+(Stacionet e Valvulave të Bllokimit - ABV24, ABV25, ABV26, ABV30, ABV31)
+Emri i SVS/B
+Qarku
+Zona kadastrale
+Emri
+Parcela
+Statusi i parcelës
+Përdorimi
+Sipërfaqja
+Sipërfaqja e prekur/ndikuar (m2)
+ABV24
+DEVOLL
+1355
+Cangonj
+40/22
+private
+TOKË BUJQËSORE
+4,828.79
+63.26
+ABV24
+DEVOLL
+1355
+Cangonj
+40/23
+private
+TOKË BUJQËSORE
+3,594.44
+782.64
+ABV24
+DEVOLL
+1355
+Cangonj
+40/37
+private
+TOKË BUJQËSORE
+8,126.03
+253.86
+Shuma ABV24
+1099.76
+ABV25
+KORÇA
+3016
+Polenë
+69/15
+private
+TOKË BUJQËSORE
+2,482.55
+192.06
+ABV25
+KORÇA
+3016
+Polenë
+69/16
+private
+TOKË BUJQËSORE
+1,931.90
+350.27
+ABV25
+KORÇA
+3016
+Polenë
+69/17
+private
+TOKË BUJQËSORE
+1,376.57
+256.5
+ABV25
+KORÇA
+3016
+Polenë
+69/18
+private
+TOKË BUJQËSORE
+1,095.61
+197.87
+ABV25
+KORÇA
+3016
+Polenë
+69/19
+private
+TOKË BUJQËSORE
+1,937.09
+103.06
+Shuma ABV25
+1099.76
+ABV26
+KORÇA
+3437
+Shtyllë
+304/4
+private
+TOKË BUJQËSORE
+4,841.52
+876.47
+ABV26
+KORÇA
+3437
+Shtyllë
+304/5
+private
+TOKË BUJQËSORE
+4,053.36
+223.28
+Shuma ABV26
+1099.75
+ABV30
+BERAT
+2881
+Pashalli
+440/4
+private
+TOKË BUJQËSORE
+10,033.14
+1,058.65
+Shuma ABV30
+1,058.65
+ABV31
+FIER
+3196
+Roskovec
+10/1
+private
+TOKË BUJQËSORE
+12,931.11
+1,099.75
+Shuma ABV31
+1,099.75
+SHUMA
+5,457.67
