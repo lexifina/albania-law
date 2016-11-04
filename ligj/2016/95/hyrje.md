@@ -1,0 +1,7 @@
+LIGJ
+Nr. 95/2016
+PËR ORGANIZIMIN DHE FUNKSIONIMIN E INSTITUCIONEVE PËR TË LUFTUAR KORRUPSIONIN DHE KRIMIN E ORGANIZUAR
+Në mbështetje të neneve 81 dhe 83, pika 1, të Kushtetutës, me propozimin e një grupi deputetësh,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
