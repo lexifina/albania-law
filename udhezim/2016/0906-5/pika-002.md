@@ -1,0 +1,1 @@
+2. Tarifa derdhet nga zhvilluesi në llogarinë bankare të Ministrisë së Mjedisit dhe është e pakthyeshme. Të ardhurat e mbledhura nga tarifat e përcaktuara në këtë udhëzim derdhen në Buxhetin e Shtetit në masën 100%.
