@@ -1,0 +1,2 @@
+3. Për shërbimin e verifikimit të matësve të energjisë elektrike, të kryer nga DPM-ja ose nga personi juridik i autorizuar prej saj, paguhen vlerat financiare të rëna dakord ndërmjet palëve, pa tejkaluar tarifat tavan të cilat përcaktohen në këtë udhëzim.
+Periodiciteti i verifikimit të matësve të instaluar të klientit përcaktohet në Kodin e matjes ndërsa llojet e shërbimeve që do të kontraktohen, sasitë dhe kushtet e realizimit të verifikimit të matësve, përcaktohen në kontratën tip të miratuar nga ERE dhe të nënshkruar ndërmjet palëve.
