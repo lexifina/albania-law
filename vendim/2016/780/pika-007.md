@@ -1,0 +1,1 @@
+7. Pronarët e konfirmuar nga ZVRPP Vlorë, sipas listës që i bashkëlidhet këtij vendimi, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Drejtorisë Rajonale të Kulturës Kombëtare, Vlorë.

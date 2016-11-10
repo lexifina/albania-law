@@ -1,0 +1,47 @@
+# Shtojca
+LISTA E PASURIVE TË PALUAJTËSHME PRONË PRIVATE QË DO TË SHPRONËSOHEN PËR MARRJEN NË PERDORIM TË PËRKOHSHËM PËR INTERES PUBLIK , TË CILAT PREKEN NGA ”PROJEKTI PËR NDËRHYRJE REHABILITUESE NË ZONËN E MBROJTUR TË QENDRËS HISTORIKE TË DHËRMIUT”
+Nr
+Pronari
+Zona kadastrale
+Nr. pasurie
+Sipërfaqe ( m2)
+Çmimi
+Vlera
+SHËNIME
+lekë/m2
+lekë
+Truall
+Ndërtim
+Truall
+Ndertim
+Truallit
+Njesi
+1
+Areti Zaho
+1481
+28
+40.00
+32,516
+-
+1,300,640.00
+sipas vërtetimit të pronësisë
+2
+Thodhori Duni
+1481
+417/130
+270.000
+160.00
+3,560
+32,516
+961,200
+5,202,560.00
+sipas regjistrit hipotekor
+270.00
+200.0
+3,560
+32,516
+961,200
+6,503,200
+7,464,400
+Totali:
+7,464,400
