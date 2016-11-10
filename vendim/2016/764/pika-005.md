@@ -1,0 +1,1 @@
+5. DPRMSH-ja, për llogaritjen e vlerës fillestare monetare të ankandit, sipas pikës 4 të këtij vendimi, do të bazohet në mesataren e çmimit për kategoritë përkatëse të skrapit, sipas të dhënave të dërguara nga zyra doganore më e afërt.

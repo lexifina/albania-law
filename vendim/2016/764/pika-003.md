@@ -1,0 +1,1 @@
+3. Për mjetet e kategorizuara për qarkullim, të cilat nuk janë shitur pasi u janë nënshtruar procedurave të shitjes me ankand publik për tre herë me radhë, DPRMSH-ja vijon me procedurat e trajtimit për skrap dhe njofton Drejtorinë e Përgjithshme të Transportit Rrugor për heqjen nga qarkullimi dhe çregjistrimin e këtyre mjeteve.

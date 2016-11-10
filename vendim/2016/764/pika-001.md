@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Përgjithshme të Rezervave Materiale të Shtetit (DPRMSH) për të realizuar shitjen me ankand publik të mjeteve të transportit të rëndë, që plotësojnë kushtet për qarkullim, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi.

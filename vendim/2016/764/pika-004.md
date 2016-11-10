@@ -1,0 +1,1 @@
+4. DPRMSH-ja lejohet të realizojë shitjen me ankand publik të mjeteve të transportit të rëndë që nuk plotësojnë kushtet për qarkullim, të destinuara për t’i trajtuar si skrap, sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi.
