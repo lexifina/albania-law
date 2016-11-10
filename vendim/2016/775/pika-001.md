@@ -1,0 +1,1 @@
+1. Ministrisë së Mirëqenies Sociale dhe Rinisë, në buxhetin e miratuar për vitin 2016, në programin “Mbështetje për kultet fetare”, i shtohet fondi prej 3 000 000 (tre milionë) lekësh për financimin e Kishës Katolike në Shqipëri, me rastin e Lumturimit të Martirëve Shqiptarë.
