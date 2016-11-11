@@ -1,0 +1,1 @@
+3. Për likuidimin e detyrimeve të mbartura të specializantëve të përcaktuar në pikën 1, të këtij vendimi, për vitet 2015 dhe 2016, bëhet shtesë fondi në programin e Drejtorisë së Përgjithshme të Burgjeve, në masën 13 000 000 (trembëdhjetë milionë) lekë, dhe në programin e Institutit të Mjekësisë Ligjore, në masën 7 000 000 (shtatë milionë) lekë.
