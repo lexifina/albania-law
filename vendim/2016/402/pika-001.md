@@ -1,1 +1,1 @@
-1. Kryeministrisë, në buxhetin e miratuar për vitin 2016, në zërin “Shpenzime korrente”, i shtohet fondi prej 60 000 000 (gjashtëdhjetë milionë) lekësh, për ministrin e Shtetit për Inovacionin dhe Administratën Publike.
+1. Kryeministrisë, në buxhetin e miratuar për vitin 2016, zëri “Shpenzime operative”, t’i shtohet fondi prej 105 000 000 (njëqind e pesë milionë) lekësh, për ministrin e Shtetit për Inovacionin dhe Administratën Publike.
