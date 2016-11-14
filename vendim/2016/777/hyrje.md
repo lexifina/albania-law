@@ -1,0 +1,5 @@
+VENDIM
+Nr. 777, datë 2.11.2016
+PËR HEQJEN NGA FONDI PYJOR E KULLOSOR PUBLIK DHE PAKËSIMIN NË VOLUM TË SIPËRFAQEVE PYJORE QË DO TË PËRDOREN NGA SHOQËRIA “TAP-AG” PËR NDËRTIMIN E RRUGËVE TË KALIMIT DHE URAVE TË GAZSJELLËSIT TRANS ADRIATIK (PROJEKTI TAP), PAKETA E KATËRT, NË QARQET KORÇË DHE BERAT
+Në mbështetje të nenit 100 të Kushtetutës, të pikës 1, të nenit 17, të ligjit nr. 9385, datë 4.5.2005, “Për pyjet dhe shërbimin pyjor”, të ndryshuar, të ligjit nr. 116/2013, “Për ratifikimin e marrëveshjes me qeverinë e vendit pritës, ndërmjet Republikës së Shqipërisë, duke vepruar nëpërmjet Këshillit të Ministrave dhe Trans Adriatik Pipeline AG, lidhur me projektin e gazsjellësit Trans Adriatik (Projekti TAP), si dhe të marrëveshjes, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave dhe Trans Adriatik Pipeline AG, në lidhje me projektin e gazsjellësit Trans Adriatik (projekti TAP), me propozimin e ministrit të Mjedisit dhe ministrit të Energjisë dhe Industrisë, Këshilli i Ministrave
+VENDOSI:

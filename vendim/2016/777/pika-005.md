@@ -1,0 +1,1 @@
+5. Zyrat vendore të regjistrimit të pasurive të paluajtshme publike të bëjnë çregjistrimin e sipërfaqes pyjore e kullosore të identifikuar sipas lidhjes 1, të këtij vendimi, nga kategoria “Tokë e zënë pyjore dhe kullosore” dhe ta regjistrojnë në kategorinë “Tokë e zënë, objekt ndërtimi i rrugëve dhe urave të gazsjellësit Trans Adriatik (projekti TAP)”.

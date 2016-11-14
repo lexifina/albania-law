@@ -1,0 +1,1 @@
+3. Shoqëria “TAP-AG”, brenda 2 (dy) viteve, të pyllëzojë, me fondet e veta, 8 (tetë) ha sipërfaqe me drurë pyjorë dhe të përmirësojë një sipërfaqe kullote prej 3 (tre) ha, në ekonomitë pyjore e kullosore të përcaktuara në marrëveshjen e lidhur ndërmjet shoqërisë “TAP-AG” dhe Ministrisë së Mjedisit.
