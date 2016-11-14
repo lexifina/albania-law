@@ -1,0 +1,1 @@
+3. Shërbimi Kombëtar i Punësimit duhet të dërgojë pranë Ministrisë së Mirëqenies Sociale dhe Rinisë dokumentacionin e plotë të procedurës me objekt “Ndërtim i ri i Qendrës së Formimit Profesional, Berat”.

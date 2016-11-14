@@ -1,0 +1,1 @@
+4. Ministria e Mirëqenies Sociale dhe Rinisë është përgjegjëse për kryerjen e të gjithë procedurës së prokurimit që nga njoftimi i kontratës e deri te publikimi i njoftimit të fituesit në Sistemin Elektronik të Prokurimeve.

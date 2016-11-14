@@ -1,0 +1,1 @@
+5. Pas njoftimit të fituesit, Ministria e Mirëqenies Sociale dhe Rinisë dërgon pranë Shërbimit Kombëtar të Punësimit, dokumentacionin e plotë në formë të shkruar për të vijuar me nënshkrimin e kontratës përkatëse.
