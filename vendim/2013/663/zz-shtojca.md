@@ -3841,3 +3841,7 @@ Nje kopje e këtij Vërtetimi me firmën e Inspektorit përgjegjës ruhet në zy
 Drejtori i Drejtorisë Rajonale
 (…………………………………..)
 Vula
+SHTOJCË 2
+STRATEGJIA NDËRSEKTORIALE E LUFTËS KUNDËR TERRORIZMIT DHE PLANI
+I VEPRIMIT
+2016-2020
