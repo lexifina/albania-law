@@ -1,0 +1,1 @@
+1. Inspektimi nga inspektorët e shërbimit vendor të MZSH-së, në objektet të cilat janë planifikuar në planin e punës mujore, bëhet në çdo rast, me “Autorizim inspektimi” të drejtorit/shefit të sektorit shërbimit të MZSH-së dhe në përputhje me ligjin nr. 10433, datë 16.6.2011, “Për inspektimin e Republikës së Shqipërisë”, sipas formularit nr. 1, që i bashkëlidhet këtij udhëzimi.

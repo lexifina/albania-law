@@ -1,0 +1,1 @@
+2. Inspektimi nga inspektorët e Drejtorisë së Përgjithshme të shërbimit të MZSH-së bëhet, në çdo rast, me “Autorizim inspektimi” të drejtorit të përgjithshëm të Shërbimit të MZSH-së dhe në përputhje me ligjin nr. 10433, datë 16.6.2011, “Për inspektimin e Republikës së Shqipërisë”, sipas formularit nr. 2, që i bashkëlidhet këtij udhëzimi.

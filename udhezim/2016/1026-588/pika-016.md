@@ -1,0 +1,1 @@
+16. Sektori i Financës në bashki ose ekonomisti në Drejtorinë Vendore të MZSH-së bën rakordimin me bankën përkatëse për pagesat e gjobave dhe kamat vonesave me qëllim çregjistrimin nga regjistri i debitorëve apo evidentimin e gjobave të papaguara.

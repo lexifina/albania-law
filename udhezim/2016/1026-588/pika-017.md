@@ -1,0 +1,1 @@
+17. Ky rakordim kryhet pas përfundimit të afatit ligjor të përcaktuar në fletë gjobën. Për gjobat e vendosura dhe të paarkëtuara aplikohet kamatë në masën 2% të vlerës së gjobës për çdo ditë vonesë, deri në 30 ditë.

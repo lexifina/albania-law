@@ -1,0 +1,1 @@
+14. Kryetari i Bashkisë organizon punën për likuidimin e gjobave dhe të kamat vonesave të kundërvajtësve administrativ (debitorëve), sipas parashikimeve të ligjit nr. 10279, datë 20.5.2010, “Për kundërvajtjet administrative”.

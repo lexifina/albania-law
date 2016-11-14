@@ -1,0 +1,1 @@
+18. Çdo muaj drejtoria/sektori i shërbimit të MZSH-së në bashkëpunim me sektori i financës në Bashki paraqesin pranë Drejtorisë të Përgjithshme të MZSH-së në ministri, statistikën e gjobave të shërbimit të MZSH-së.

@@ -1,0 +1,1 @@
+11. Kur në gjobë janë bërë gabime në shkrim, në përllogaritje dhe pasaktësi të tjera të dukshme, eprori direkt i inspektorit bën korrigjimin e tij nëpërmjet procesverbalit të kontrollit gjobës, sipas formularit nr.9 që i bashkëlidhet këtij udhëzimi dhe për korrigjimet e gjobës njoftohet subjekti i interesuar.

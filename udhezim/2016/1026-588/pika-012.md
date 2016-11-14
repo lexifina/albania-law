@@ -1,0 +1,1 @@
+12. Inspektori që vendos gjobën dhe eprori i tij që e kontrollon, mbajnë përgjegjësi për veprimet apo mosveprimet e tyre në kundërshtim me ligjin nr. 152/2015, “Për shërbimin e mbrojtjes nga zjarri dhe shpëtimin”.
