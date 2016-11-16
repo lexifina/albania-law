@@ -1,0 +1,1 @@
+1. Ky udhëzim përcakton rregullat për monitorimin e rregullt të derrave shtëpiakë, derrave të egër, kuajve dhe dhelprave apo kafshë të tjera përcaktuese, si një mjet i rëndësishëm për të vlerësuar ndryshimet në përhapjen e sëmundjes së trikinelës.
