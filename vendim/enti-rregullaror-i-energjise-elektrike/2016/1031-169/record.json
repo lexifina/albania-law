@@ -1,0 +1,28 @@
+{
+  "qbz_id": 15928,
+  "title": "Detyrimi i Gjykatës së Rrethit Gjyqësor Tiranë për shpërblimin e dëmit jashtëkontraktor material dhe moral në shumën 1.500.000 lekë, të shkaktuar nga veprimet e qëllimshme të administratës shtetërore.",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "169",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-10-31",
+  "published": "2016-11-16",
+  "in_force": "2016-11-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/baccb89b24b18967eec9766e24ca87ae9944eeca3cfb280d2a2d6dea70684f15.docx",
+  "source_sha256": "baccb89b24b18967eec9766e24ca87ae9944eeca3cfb280d2a2d6dea70684f15",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15928",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/10/31/169",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    55899
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
