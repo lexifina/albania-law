@@ -1,1 +1,0 @@
-9. Anëtarët, në mbledhjen e parë, përzgjedhin, ndërmjet anëtarëve, që nuk e ushtrojnë profesionin, kryetarin e bordit dhe ia përcjellin, për miratim, Ministrit të Financave, i cili, brenda 5 ditëve nga data e paraqitjes së propozimit, miraton kryetarin e bordit.
