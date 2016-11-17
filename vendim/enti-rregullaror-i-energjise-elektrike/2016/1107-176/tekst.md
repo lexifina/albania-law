@@ -1,0 +1,39 @@
+VENDIM
+
+Nr. 176, datë 7.11.2016
+
+MBI FILLIMIN E PROCEDURËS PËR LICENCIMIN E SHOQËRISË “M.C INERTE LUMZI” SHPK, NË AKTIVITETIN E TREGTIMIT TË ENERGJISË ELEKTRIKE
+
+Në mbështetje të neneve 16 dhe 37, pika 2, germa “d”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, si dhe në zbatim të neneve 4, germa “e”; 5, pika 1, germa “e”; 10, pikat 1 dhe 3, të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike” të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016; neneve 15 dhe 19, pika 1, germa “a”, të rregullores “Për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016; Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 7.11.2016, mbasi shqyrtoi relacionin për fillimin e procedurës për licencimin e shoqërisë “M.C Inerte Lumzi” sh.p.k., në aktivitetin e tregtimit të energjisë elektrike, të përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut;
+
+konstatoi se:
+
+Aplikimi i shoqërisë “M.C Inerte Lumzi” sh.p.k., plotëson pjesërisht kërkesat e parashikuara nga ERE në rregulloren “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike”, si më poshtë: 
+
+- Formati i aplikimit (neni 9, pika 1, germat “a”, “b”, “c”) është plotësuar në mënyrë korrekte.
+
+- Dokumentacioni juridik, administrativ dhe pronësor (neni 9, pika 2, germat “a”, “b”, “c”, “e”) është plotësuar në mënyrë korrekte.
+
+- Dokumentacioni financiar dhe fiskal (neni 9, pika 3, germat “a”, “b” “c”, “d”) është plotësuar në mënyrë korrekte.
+
+Në lidhje me mungesën e dokumentacionit që ka të bëjë, me:
+
+- Vërtetimin nga Gjykata dhe Prokuroria (neni 9, pika 2, germa “d”);
+
+- Dokumentacioni teknik për aktivitetin e tregtimit të energjisë elektrike (neni 9, pika 4.8, germat “a”, “b” dhe “c”) do të njoftohet subjekti që në bazë të rregullores “Për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e energjisë elektrike”, t’i paraqesë këto në ERE, brenda afateve të përcaktuara.
+
+ Për gjithë sa më sipër, Bordi i ERE-s 
+
+VENDOSI:
+
+1. Të fillojë procedurat për licencimin e shoqërisë “M.C Inerte Lumzi” sh.p.k., në aktivitetin e tregtimit të energjisë elektrike. 
+
+2. Drejtoria e Licencimit dhe e Monitorimit të Tregut, të njoftojë aplikuesin për vendimin e Bordit të ERE-s. 
+
+Ky vendim hyn në fuqi menjëherë. 
+
+Ky vendim botohet në Fletoren Zyrtare. 
+
+KRYETARI 
+
+Petrit Ahmeti
