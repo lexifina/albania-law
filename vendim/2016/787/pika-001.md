@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2016, miratuar për Komisionin Qendror të Zgjedhjeve, në zërin “Shpenzime korrente”, të shtohet fondi prej 4 907 000 (katër milionë e nëntëqind e shtatë mijë) lekësh, me qëllim organizmin e zgjedhjeve të pjesshme për kryetar të Bashkisë Kolonjë.
