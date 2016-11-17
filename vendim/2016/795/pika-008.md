@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurisë “tokë truall”, prej 82,24 (tetëdhjetë e dy presje njëzet e katër) m², për projektin “Zgjerimi dhe rikonstruksioni i bulevardit “Fan Noli”“, të bëhet në favor të Bashkisë Korçë.
