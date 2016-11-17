@@ -1,0 +1,1 @@
+1. Tarifa e ndërhyrjes për shuarjen e zjarreve nga shërbimi i MZSH-së në objektet e siguruara nga zjarri nga shoqëritë e sigurimit është në vlerën 15 000 (pesëmbëdhjetë mijë) lekë për orë ndërhyrjeje.

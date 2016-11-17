@@ -1,0 +1,1 @@
+5. Të ardhurat, që krijohen sipas pikës 4, të këtij vendimi, administrohen nga bashkia përkatëse që ka ofruar shërbimin e MZSH-së dhe përdoren për mbulimin e shpenzimeve të kryera, financimin e veprimtarive kryesore, shpenzime operative, rinovim të automjeteve e të pajisjeve zjarrfikëse, për investime dhe shpërblimin e punonjësve të shërbimit vendor të MZSH-së.

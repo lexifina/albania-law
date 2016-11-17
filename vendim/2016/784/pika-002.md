@@ -1,0 +1,1 @@
+2. Për efekt të përllogaritjes së kostove të shërbimit, të ofruar nga shërbimi i MZSH-së në nivel vendor, koha e ndërhyrjes llogaritet nga momenti i daljes së personelit të shërbimit të MZSH-së nga stacioni zjarrfikës dhe përfundon me largimin e tij nga vendi i ngjarjes.
