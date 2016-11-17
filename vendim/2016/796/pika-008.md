@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive “tokë truall” me sipërfaqe 117,02 (njëqind e shtatëmbëdhjetë presje zero dy) m², dhe “objekt” me sipërfaqe 40,7 (dyzet presje shtatë) m2, për realizimin e projektit “Rikonstruksioni i Rrugës së Durrësit, në qytetin e Fushë-Krujës”, të bëhet në favor të Bashkisë Krujë.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i Rrugës së Durrësit, në qytetin e Fushë-Krujës”, në Bashkinë e Krujës.
