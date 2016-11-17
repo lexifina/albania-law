@@ -1,0 +1,1 @@
+1. Dhënien e miratimit për ndërtimin dhe shfrytëzimin e impiantit me rikuperim të energjisë nga trajtimi i mbetjeve urbane, në qytetin e Elbasanit, shoqërisë “Albtek Energy” sh.p.k., sipas dokumentit që i bashkëlidhet këtij vendimi.

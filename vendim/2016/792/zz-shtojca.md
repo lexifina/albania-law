@@ -1,0 +1,3 @@
+# Shtojca
+MINISTRI
+Damian Gjiknuri
