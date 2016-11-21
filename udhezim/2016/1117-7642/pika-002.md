@@ -1,0 +1,1 @@
+2. Në rastet kur në regjistrin e veçantë ku është i regjistruar objekti si karabina, janë të regjistruara kontrata sipërmarrjeje/porosie/premtim shitjeje, apo çdo akt tjetër noterial për njësitë ndërtimore të individualizuara, pjesë të strukturës së karabinasë, përmbaruesi nuk mund të vendosë sekuestro mbi këto njësi ndërtimore të individualizuara, objekt i këtyre kontratave.
