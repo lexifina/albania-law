@@ -1,0 +1,1 @@
+5. Ministria e Arsimit dhe Sportit t’i kërkojë Qendrës Kombëtare të Licencimit kryerjen e veprimeve ligjore për çregjistrimin e subjektit, që përfaqëson Shkollën e Mesme Jopublike, Arsimi i Mesëm i Përgjithshëm (Gjimnaz), “Guinnes”.
