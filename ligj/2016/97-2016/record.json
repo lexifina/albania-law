@@ -1,0 +1,29 @@
+{
+  "qbz_id": 15895,
+  "title": "PËR ORGANIZIMIN DHE FUNKSIONIMIN E PROKURORISË NË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "97-2016",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2016-10-06",
+  "published": "2016-11-07",
+  "in_force": "2016-11-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/8378c1ba6d71dd48b5ea6630096b721a3d6124fe677f47745273157075bd905f.docx",
+  "source_sha256": "8378c1ba6d71dd48b5ea6630096b721a3d6124fe677f47745273157075bd905f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15895",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2016/10/06/97-2016",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61305,
+    58497
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
