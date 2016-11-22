@@ -1,0 +1,7 @@
+# Neni 111
+Dispozita kalimtare për Sekretarin e Përgjithshëm dhe kancelarin
+1. Këshilli i Lartë i Prokurorisë, brenda katër muajve nga krijimi i tij, kryen verifikimin e figurës dhe të pasurisë, si dhe plotësimin e kushteve dhe procedurave të parashikuara nga ligji për shërbimin civil për sekretarin e përgjithshëm dhe kancelarët në detyrë.
+2. Këshilli i Lartë i Prokurorisë paraqet kërkesë për informacion për verifikimin e të dhënave të gjendjes gjyqësore dhe çdo shkaku tjetër përjashtues, pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, prokurorisë, organeve publike financiare, Byrosë Kombëtare të Hetimit, shërbimeve shtetërore informative, si dhe çdo organi disiplinor që ka mbikëqyrur disiplinën në marrëdhëniet e mëparshme të punës të kancelarit. Nëse vlerësohet e nevojshme, Këshilli i Lartë i Prokurorisë mund të kërkojë informacione shtesë nga institucione të tjera.
+3. Këshilli i Lartë i Prokurorisë miraton një raport me rezultatet e deklaratave të pasurisë, si dhe vlerësimit të figurës. Sekretari i Përgjithshëm dhe kancelarët në detyrë kanë të drejtë të dëgjohen, të paraqesin deklarata dhe prova të tjera, si dhe të përfaqësohen.
+4. Këshilli i Lartë i Prokurorisë vendos ndërprerjen e kontratës ose konfirmon marrëdhënien civile, bazuar në informacionin e marrë, dhe njofton personin në detyrë për vendimin e arsyetuar.
+5. Vendimi i Këshillit të Lartë të Prokurorisë është i ankimueshëm, brenda dy javëve nga njoftimi, sipas pikës 4 të këtij neni.

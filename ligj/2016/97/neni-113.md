@@ -1,0 +1,4 @@
+# Neni 113
+Dispozitë e posaçme për të punësuarit në Prokurorinë e Krimeve të Rënda
+1. Nëpunësit civilë dhe punonjësit në detyrë në Prokurorinë e Shkallës së Parë dhe Prokurorinë e Apelit të Krimeve të Rënda konsiderohen nëpunës civilë dhe punonjës të Prokurorisë së Posaçme, nëse plotësojnë kushtet e sigurisë, të caktuara me ligj të veçantë, përfshirë deklaratën e heqjes dorë nga e drejta e privatësisë në telekomunikacion dhe në llogari bankare, e nënshkruar nga kandidati dhe anëtarët e afërm të familjes së tij.
+2. Në rastet kur i punësuari ose nëpunësi civil në detyrë nuk përmbush kërkesat e pikës 1, të këtij neni, punonjësi në detyrë mund të transferohet si nëpunës civil në një pozicion të lirë në tjetër prokurori, në Këshillin e Lartë të Prokurorisë ose në Inspektorin e Lartë të Drejtësisë, në përputhje me kriteret dhe rregullat e përcaktuara me këtë ligj.

@@ -1,0 +1,22 @@
+# Neni 77
+Lëvizja paralele dhe ngritja në detyrë
+1. Plotësimi i vendeve të lira në shërbimin civil në prokurori bëhet sipas kësaj radhe:
+a) fillimisht, vendi i lirë i ofrohet një nëpunësi civil të regjistruar në listën e nëpunësve civilë të prokurorisë, ose ata të cilët kanë të drejtë të rikthehen ose të transferohen, sipas dispozitës për efektet e pezullimit të ligjit “Për nëpunësin civil”, nëse kjo është e zbatueshme;
+b) nëse vendi nuk mund të plotësohet sipas procedurës së parashikuar në shkronjën “a”, plotësimi bëhet nëpërmjet procedurës së lëvizjes paralele;
+c) nëse vendi nuk mund të plotësohet, sipas procedurës së referuar në shkronjën “a” ose “b”, plotësimi bëhet nëpërmjet procedurës së ngritjes në detyrë.
+2. Nëpunësit e shërbimit civil të një kategorie të caktuar kanë të drejtë të kërkojnë të transferohen në pozicionet e së njëjtës kategori të një prokurorie tjetër.
+3. Nëpunësit e shërbimit civil të një kategorie të caktuar, kanë të drejtë të aplikojnë nëpërmjet procedurës së ngritjes në detyrë në pozicionin e një kategorie më të lartë brenda të njëjtës prokurori ose në një prokurori tjetër.
+4. Sekretari i Përgjithshëm i Prokurorisë së Përgjithshme ose kancelari i prokurorisë njofton menjëherë dhe pa vonesë Këshillin e Lartë të Prokurorisë ose drejtuesin e prokurorisë përkatëse, sipas rastit, për vendin e lirë të krijuar në prokurori ose që mund të krijohet në të ardhmen, në çdo rast, jo më vonë se dy javë pas marrjes së informacionit.
+5. Këshilli i Lartë i Prokurorisë, në rastin e kancelarëve, ose drejtuesi i prokurorisë, në rastin e nëpunësve të tjerë, i ofron vendin kandidatit të regjistruar në listën përkatëse të nëpunësve civilë të prokurorisë, sipas pikës 1 të këtij neni.
+6. Në rast se vendi i lirë nuk mund të plotësohet nga një procedurë e tillë, Këshilli i Lartë i Prokurorisë, për kancelarët, ose Prokurori i Përgjithshëm, për nëpunësit e tjerë, shpallin fillimin e procedurave për lëvizje paralele dhe ngritje në detyrë, duke njoftuar të gjithë nëpunësit civilë të së njëjtës kategori, nëpunësit e shërbimit civil të kategorive më të ulëta, të cilët plotësojnë kriteret për kategorinë përkatëse më të lartë, për vendet e lira dhe hapjen e procedurave për lëvizje paralele dhe ngritje në detyrë.
+7. Njoftimi shpallet pranë të gjitha prokurorive, përfshirë Prokurorinë e Posaçme. Ai përmban informacion për vendin e lirë, afatin e paraqitjes së kërkesës për kandidim, dokumentacionin shoqërues, procedurën e shqyrtimit të kërkesës dhe vendin ku paraqitet kërkesa dhe dokumentacioni. Afati për paraqitjen e kërkesës për kandidim nuk mund të jetë më pak se dy javë nga data e njoftimit.
+8. Kërkesa për kandidim paraqitet pranë autoritetit që ka njoftuar vendin e lirë.
+9. Komisioni i Pranimit në prokurori shqyrton kërkesat, bazuar në dokumentacionin e paraqitur. Në rastin e lëvizjes paralele, Komisioni i Pranimit mund të zhvillojë një intervistë. Në rastin e ngritjes në detyrë, zhvillimi i intervistës me kandidatët është i detyrueshëm.
+10. Komisioni i Pranimit, në rastin e paraqitjes së dy ose më shumë kërkesave për të njëjtin pozicion, i rendit kandidatët sipas radhës së kritereve të mëposhtme:
+a) rezultateve të vlerësimit të punës: në rast rezultatesh të njëjta Komisioni i Pranimit krijon një renditje brenda grupit të kandidatëve me rezultatet më të larta;
+b) viteve të përvojës profesionale në pozicionin përkatës;
+c) viteve të përgjithshme të përvojës profesionale në sektorin e drejtësisë ose përvojën profesionale që lidhet me fushën e pozicionit përkatës.
+11. Komisioni i Pranimit përzgjedh dhe njofton kandidatin brenda dy javëve nga përfundimi i afatit të paraqitjes së kërkesës për kandidim.
+12. Komisioni i Pranimit të prokurorisë në të cilën pranohet një nëpunës civil i ri, sipas këtij neni, brenda pesë ditëve nga përzgjedhja e kandidatit, njofton Prokurorin e Përgjithshëm për rezultatet e procedurës së lëvizjes paralele ose ngritjes në detyrë.
+13. Në rastin e lëvizjeve paralele apo ngritjes në detyrë për pozicionin e kancelarit, shqyrtimi i kërkesave dhe përzgjedhja kryhet nga Këshilli i Lartë i Prokurorisë, në përputhje me procedurat e parashikuara në pikat 9, 10 dhe 11 të këtij neni.
+14. Këshilli i Lartë i Prokurorisë dhe Prokurori i Përgjithshëm, sipas rastit, miratojnë me vendim rregulla më të detajuara për procedurat për lëvizje paralele dhe ngritje në detyrë të kancelarëve dhe nëpunësve civilë të tjerë në prokurori.

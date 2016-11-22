@@ -1,0 +1,5 @@
+# Neni 109
+Dispozitë kalimtare për kompetencat e Prokurorit të Përgjithshëm në detyrë
+1. Prokurori i Përgjithshëm në detyrë qëndron në detyrë deri në fund të mandatit, nëse nuk ka arsye për të përfunduar mandatin e tij, sipas kreut VIII, të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë” ose si rezultat i procesit të rivlerësimit, sipas ligjit “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+2. Në rast se mandati i Prokurorit të Përgjithshëm përfundon përpara kohe, përpara krijimit të Këshillit të Lartë të Prokurorisë, funksionet e Prokurorit të Përgjithshëm, me vendim të Kuvendit, caktohet t’i kryejë përkohësisht një nga prokurorët me më shumë eksperiencë nga radhët e prokurorëve dhe që përmbush kushtet dhe kriteret e kreut IV, seksioni I, të këtij ligji.
+3. Kompetencat kalimtare të Prokurorit të Përgjithshëm në detyrë parashikohen në dispozitat kalimtare të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.

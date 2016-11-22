@@ -1,0 +1,4 @@
+# Neni 21
+Seksionet e prokurorive
+1. Në çdo prokurori, për kategori të caktuara veprash penale, kur është e mundur dhe e nevojshme, drejtuesi i prokurorisë krijon seksione me jo më pak se tre prokurorë, pasi ka marrë mendimin e mbledhjes së përgjithshme të prokurorëve. Ngritja e tyre bazohet, ndër të tjera, në numrin dhe specializimin e prokurorëve, llojin, përhapjen dhe kategoritë e veprave penale, subjekteve, si dhe në rekomandimet e Këshillit të Ministrave në luftën kundër kriminalitetit. Seksioni i posaçëm për të miturit ngrihet, në çdo rast, në prokuroritë pranë gjykatave në të cilat janë krijuar sipas ligjit seksionet përkatëse për gjykimin e të miturve.
+2. Drejtuesi i seksionit emërohet nga drejtuesi i prokurorisë nga radhët e prokurorëve të seksionit, të cilët kanë të paktën 5 vjet përvojë si prokurorë, rezultate të mira në punë dhe aftësi organizative.
