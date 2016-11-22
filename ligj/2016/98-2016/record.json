@@ -1,0 +1,28 @@
+{
+  "qbz_id": 15896,
+  "title": "PËR ORGANIZIMIN E PUSHTETIT GJYQËSOR NË REPUBLIKËN \nE SHQIPËRISË",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "98-2016",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2016-10-06",
+  "published": "2016-11-07",
+  "in_force": "2016-11-22",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a8ddb2c492301234b382fbf197a475e0ffa4219dc381666349cb77816b8e1690.docx",
+  "source_sha256": "a8ddb2c492301234b382fbf197a475e0ffa4219dc381666349cb77816b8e1690",
+  "official_record": "https://qbz.gov.al/api/v1/acts/15896",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2016/10/06/98-2016",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61309
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
