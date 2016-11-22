@@ -1,0 +1,6 @@
+# Neni 22
+Numri i gjyqtarëve për çdo gjykatë
+1. Këshilli i Lartë Gjyqësor mbikëqyr vazhdimisht ngarkesën e çështjeve gjyqësore dhe të punës së gjykatave, duke u bazuar në të dhënat e mbledhura, me qëllim përmirësimin e efiçencës së gjykatave ose zvogëlimin e ngarkesës së punës së gjyqtarëve dhe personelit të gjykatës.
+2. Këshilli i Lartë Gjyqësor përgatit dhe publikon brenda muajit qershor të çdo viti raportin vjetor për ngarkesën e çështjeve gjyqësore dhe të punës së gjykatave për vitin kalendarik të mëparshëm, duke përfshirë rekomandime për përmirësimin e efiçencës së gjykatave ose për zvogëlimin e ngarkesës së punës së gjyqtarëve dhe personelit të gjykatës.
+3. Të paktën çdo pesë vjet Këshilli i Lartë Gjyqësor vlerëson numrin e gjyqtarëve për çdo gjykatë dhe nëse është e nevojshme rishikon numrin e gjyqtarëve pas marrjes së mendimit nga Këshilli i Gjykatës.
+4. Procesi i përcaktimit të numrit të gjyqtarëve për çdo gjykatë mbështetet në objektivat e parashikuar në nenin 14, të këtij ligji, me qëllim sigurimin e ngarkesës së ekuilibruar të punës së gjithë gjyqtarëve në Shqipëri. Procesi kryhet në mënyrë transparente, duke u bazuar në analizën e raporteve vjetore dhe efiçencës së masave të marra për zbatimin e rekomandimeve të përcaktuara në raportet vjetore, sipas pikës 2 të këtij neni.

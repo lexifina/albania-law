@@ -1,0 +1,4 @@
+# Neni 89
+Kompetencat tokësore të degëve të gjykatës
+1. Brenda 18 muajve nga krijimi i tij, Këshilli i Lartë Gjyqësor miraton përkohësisht degët e gjykatave, derisa vendimi për rrethet gjyqësore dhe kompetencat tokësore të gjykatave të caktohet me vendim të Këshillit të Ministrave. Këshilli i Lartë Gjyqësor mban parasysh numrin e gjyqtarëve për gjykatë dhe mesataren e çështjeve gjyqësore për gjyqtar në gjykatë, me qëllim shmangien, për aq sa është e mundur, të gjykatave me numër më të vogël minimal të gjyqtarëve me mesatare më të ulët ngarkese në punë, siç parashikohet në këtë ligj.
+2. Bazuar në parimet, objektivat dhe kriteret e përcaktuara në nenin 13, pika 3, nenet 14 dhe 15, të këtij ligji, Këshilli i Lartë Gjyqësor duhet të përcaktojë se cila degë gjykate funksionon si e përhershme dhe cila si e përkohshme, si dhe përcakton rregulla të detajuara për funksionimin e degëve.

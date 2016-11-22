@@ -1,0 +1,8 @@
+# Neni 26
+Kryetari dhe zëvendëskryetari i gjykatës
+1. Kryetari i një gjykate zgjidhet sipas kritereve dhe procedurave të përcaktuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë” dhe ka kompetencat e përcaktuara sipas këtij ligji.
+2. Në mungesë të kryetarit, kompetencat e tij ushtrohen nga zëvendëskryetari.
+3. Zëvendëskryetari duhet të ketë të paktën pesë vjet përvojë profesionale si gjyqtar, nga të cilat të paktën tre vjet në të njëjtën shkallë. Zëvendës-kryetari zgjidhet nga mbledhja e përgjithshme e gjyqtarëve për një mandat trevjeçar pa të drejtë rizgjedhjeje.
+4. Vendimi i mbledhjes së përgjithshme të gjyqtarëve për zgjedhjen e zëvendëskryetarit merret me shumicën e votave të anëtarëve të pranishëm. Të gjithë gjyqtarët me funksionin e gjyqtarit ose ndihmësmagjistratit në atë gjykatë, në momentin e votimit janë anëtarë dhe kanë për detyrë të votojnë. Mbledhja e përgjithshme e gjyqtarëve është e vlefshme kur në të marrin pjesë të paktën dy të tretat e të gjithë anëtarëve. Në rast të një rezultati të barabartë të kandidatëve, përparësi ka gjyqtari me përvojën më të gjatë profesionale si gjyqtar.
+5. Rezultatet e votimit ruhen në një listë me renditjen e kandidatëve për tre vjet nga data e votimit. Në rast se zëvendëskryetari është në pamundësi për të ushtruar detyrën ose përfundon veprimtarinë si gjyqtar i asaj gjykate për çfarëdo arsye, gjyqtari përkatës vijues me numrin më të madh të votave në listë e zëvendëson atë.
+6. Këshilli i Lartë Gjyqësor miraton rregulla më të hollësishme për procedurën e zgjedhjes së zëvendëskryetarit.

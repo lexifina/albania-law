@@ -1,0 +1,8 @@
+# Neni 52
+Formimi profesional
+1. Formimi profesional i nëpunësve civilë gjyqësorë garantohet nëpërmjet përfshirjes së tyre në programet e mëposhtme:
+a) programin e formimit fillestar, mbi bazën e të cilit nëpunësit civilë gjyqësorë që pranohen në shërbimin civil gjyqësor trajnohen brenda periudhës së provës së tyre;
+b) programin e formimit vazhdues, i cili kryhet nga nëpunësit në detyrë të shërbimit civil gjyqësor.
+2. Shkolla e Magjistraturës në bashkëpunim me Këshillin e Lartë Gjyqësor, Ministrinë e Drejtësisë, gjykatat dhe institucione të tjera kryen formimin fillestar dhe vazhdues të kancelarëve, këshilltarëve ligjorë në Gjykatën e Lartë dhe ndihmësve të tjerë ligjorë, si dhe përgatit kurrikulën për formimin fillestar për kancelarin për një periudhë prej të paktën tre muajsh dhe për këshilltarët dhe ndihmësit ligjorë për një periudhë prej të paktën nëntë muajsh, sipas kushteve të vendosura në ligjin “Për organet e qeverisjes të sistemit gjyqësor në Republikën e Shqipërisë”.
+3. Këshilli i Lartë Gjyqësor, në bashkëpunim me Shkollën e Magjistraturës, Ministrinë e Drejtësisë, gjykatat dhe institucione të tjera kryen formimin profesional fillestar dhe vazhdues të nëpunësve të tjerë civilë gjyqësorë dhe përgatit kurrikulën për formimin fillestar të tyre për një periudhë prej të paktën një muaji.
+4. Shkolla e Magjistraturës miraton rregulla më të detajuara për formimin fillestar dhe atë vazhdues për kancelarët, këshilltarët dhe ndihmësit ligjorë. Këshilli i Lartë Gjyqësor miraton rregulla më të detajuara për formimin fillestar dhe atë vazhdues për gjithë nëpunësit e tjerë civilë gjyqësorë.
