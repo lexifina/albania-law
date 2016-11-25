@@ -1,0 +1,1 @@
+7. Këshilli i qarkut shprehet me vendim brenda 30 (tridhjetë) ditëve nga data e paraqitjes së dosjes së plotë së bashku me relacionin teknik. Nëse këshilli i qarkut nuk shprehet brenda 30 (tridhjetë) ditëve, kalimi i pronësisë quhet i miratuar. Kur këshilli i qarkut refuzon vendimin e institucionit të autorizuar, ai arsyeton në mënyrë të hollësishme shkaqet e refuzimit.
