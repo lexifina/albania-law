@@ -1,0 +1,1 @@
+3. Në ato raste kur autoriteti publik nuk ka në strukturën e tij strukturë auditimi të brendshëm, njësia përgjegjëse për sinjalizimin dhe mbrojtjen e sinjalizuesve është drejtuesi i strukturës së burimeve njerëzore dhe një nëpunës/punonjës i saj. Në mungesë të tyre, kjo njësi përbëhet nga dy nëpunës/punonjës të strukturës së burimeve njerëzore.
