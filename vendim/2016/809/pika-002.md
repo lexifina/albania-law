@@ -1,0 +1,1 @@
+2. Ngarkohet ministri përgjegjës për transportin që, brenda një viti nga data e hyrjes në fuqi të këtij vendimi, të nxjerrë aktet nënligjore në zbatimin të shkronjës “b”, të pikës 3, të nenit 10, të rregullores.
