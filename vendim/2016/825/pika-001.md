@@ -1,0 +1,3 @@
+1. Në buxhetin e vitit 2016, miratuar për Ministrinë e Punëve të Brendshme, bëhet rishpërndarja e fondeve, brenda programeve buxhetore, si më poshtë vijon:
+a) Për programin “Policia e Shtetit”, në artikullin 231 “Shpenzime për investime”, shtohet fondi 63 000 000 (gjashtëdhjetë e tre milionë) lekë, për mbulimin e shpenzimeve në investime për projektin “Sistemi i transmetimit të të dhënave DATACOM”;
+b) Për programin “Emergjenca Civile”, në artikullin 602 “Mallra e shërbime”, shtohet fondi 14 400 000 (katërmbëdhjetë milionë e katërqind mijë) lekë për mbulimin e shërbimeve të kryera në territorin e Republikës së Shqipërisë për fikjen e zjarreve në pyje gjatë muajit gusht-shtator 2016.

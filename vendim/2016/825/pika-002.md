@@ -1,0 +1,1 @@
+2. Fondi prej 77 400 000 (shtatëdhjetë e shtatë milionë e katërqind mijë) lekësh, i përcaktuar në shkronjat “a” dhe “b”, të këtij vendimi, përballohet nga pakësimi i buxhetit për programin “Gjendja civile”, zëri “Shpenzime për investime”, dhe për programin “Planifikim menaxhimi”, zëri “Shpenzime korrente”.
