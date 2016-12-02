@@ -1,0 +1,1 @@
+4. Drejtoria përkatëse e ALUIZNI-t i kërkon njësisë së qeverisjes vendore listat e plota të subjekteve të shpërngulura nga ndërtimi i Ujëmbledhësit të Bovillës, brenda 5 (pesë) ditëve nga hyrja në fuqi e këtij vendimi. Njësia e qeverisjes vendore përcjell listat e subjekteve brenda 10 (dhjetë) ditëve nga administrimi i kërkesës.

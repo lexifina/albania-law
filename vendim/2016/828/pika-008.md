@@ -1,0 +1,1 @@
+8. Objektet dhe trojet që kalohen në pronësi sipas këtij vendimi, nuk i nënshtrohen kritereve dhe procedurave kualifikuese të përcaktuara në vendimin nr. 280, datë 1.4.2015, të Këshillit të Ministrave, “Për përcaktimin e kritereve, procedurave e dokumentacionit të zbatueshëm për të kualifikuar ndërtimet pa leje, shtesat anësore dhe/ose në lartësi, në ndërtime me leje”.

@@ -1,0 +1,1 @@
+11. Për efekt të pagesës së taksës së ndikimit në infrastrukturë, Drejtoria e ALUIZNI-t zbaton përcaktimet e pikës 5, të vendimit nr. 860, datë 10.12.2014, të Këshillit të Ministrave, “Për përcaktimin e mënyrës së mbledhjes dhe administrimit të të ardhurave për ndërtimet pa leje dhe vlerave të zbatueshme për legalizim”, të ndryshuar.

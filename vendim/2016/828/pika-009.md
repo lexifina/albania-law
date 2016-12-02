@@ -1,0 +1,1 @@
+9. Brenda 30 (tridhjetë) ditëve nga përfundimi i procedurave sipas pikave 5 dhe 6, të këtij vendimi, Drejtoria e ALUIZNI-t miraton lejen e legalizimit, në favor të subjekteve në moshë madhore në kohën e shpërnguljes, sipas certifikatës së përbërjes familjare të datës 2.3.1994, ose të trashëgimtarëve të tyre.

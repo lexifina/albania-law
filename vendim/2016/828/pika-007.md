@@ -1,0 +1,2 @@
+7. Konfigurimi i sipërfaqes së truallit përcaktohet nga ALUIZNI, duke i pasqyruar në genplanin përkatës. Sipërfaqja e truallit që përfitohet, pa pagesë, është sipas masës së vënë në dispozicion në zbatim të vendimi nr. 317, datë 19.6.1995, të Këshillit të Ministrave, “Për sistemimin me tokë bujqësore dhe truall ndërtimi të fshatrave Zallmner, Bulcesh dhe Brurëz”, të ndryshuar.
+Mosmarrëveshjet dhe pretendimet mbi masën e sipërfaqes së truallit ose konfigurimin e tij, shqyrtohen nga gjykata kompetente.
