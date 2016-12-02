@@ -1,0 +1,1 @@
+2. Fondi i përcaktuar në pikën 1, të këtij vendimi, t’i transferohet Ministrisë së Drejtësisë për të bërë pagesën, i konvertuar në lekë me kursin e këmbimit të Bankës së Shqipërisë, në datën kur do të kryhet pagesa.
