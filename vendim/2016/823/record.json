@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16000,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR. 914, DATË 29.12.2014, TË KËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E RREGULLAVE TË PROKURIMIT PUBLIK”, TË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "823",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2016-11-23",
+  "published": "2016-12-02",
+  "in_force": "2016-12-02",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/123cb3a39bd7e5bc6f32ded38f3264cc2c414d49c2d22ea69721678c092dc9bd.docx",
+  "source_sha256": "123cb3a39bd7e5bc6f32ded38f3264cc2c414d49c2d22ea69721678c092dc9bd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16000",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/11/23/823",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
