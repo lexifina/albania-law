@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet në vlerë të plotë sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasurinë “tokë truall”, me një vlerë të përgjithshme të shpronësimit prej 37 964 960 (tridhjetë e shtatë milionë e nëntëqind e gjashtëdhjetë e katër mijë e nëntëqind e gjashtëdhjetë) lekësh.
