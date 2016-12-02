@@ -1,0 +1,40 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+AUTORITETI RRUGOR SHQIPTAR
+SEKTORI I SHPRONËSIMEVE
+LISTA E PASURIVE QË PREKEN NGA PROJEKTI “REHABILITIMI I STACIONIT TË POMPIMIT TRUSH-SHKODËR”(SHTESA)
+Nr.
+Emri - Atësia - Mbiemri
+Z. Kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sip. e shpronësimit (m2)
+Çmimi (lekë/m2)
+Vlera (lekë)
+1
+Nazif Halit Pervizi
+3205
+1298/3
+arë
+775
+270
+209250
+2
+Zija Halit Pervizi
+3205
+1298/4
+arë
+1700
+270
+459000
+3
+Arif Selim Mustafaj
+3205
+1298/45
+arë
+485
+270
+130950
+SHUMA TOTALE
+799200
