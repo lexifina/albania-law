@@ -1,0 +1,11 @@
+# Neni 8
+Përdorimi i sistemeve alternative me efiçencë të lartë
+1. Kur projektohet një ndërtesë e re ose kur një ndërtesë duhet t’i nënshtrohet një rinovimi të rëndësishëm, subjekti që ka apo do të ketë në pronësi apo përgjegjësi administrimi këtë ndërtesë, duhet të marrë në konsideratë zbatimin e kërkesave të Metodologjisë Kombëtare të Llogaritjes së performancës së energjisë së ndërtesave dhe të analizojë mundësinë e përdorimit të sistemeve me një performancë të lartë të energjisë, të parashikuara, si më poshtë:
+a) sistemet e decentralizuara të furnizimit me energji që shfrytëzojnë burime të rinovueshme të energjisë;
+b) sistemet koogjeneruese, që realizojnë prodhimin e kombinuar të energjisë termike dhe të energjisë elektrike ose mekanike;
+c) sistemet me pompa nxehtësie, të cilat ndryshojnë dhe transferojnë rrjedhën natyrale të energjisë termike, nga mjedisi i jashtëm te ndërtesat ose njësitë e ndërtesave dhe anasjelltas, nëse kërkohet një gjë e tillë;
+ç) sistemet e ngrohjes dhe ftohjes së përqendruar, veçanërisht ato që shfrytëzojnë burime të rinovueshme energjie për ndërtesa ose blloqe ndërtesash.
+2. Nëse gjatë fazës së ristrukturimit ose rinovimit të ndërtesave planifikohet të kryhet një zëvendësim ose rinovim i sistemit teknik të ndërtesës, paraprakisht duhet të kryhet vlerësimi i mundësisë së përdorimit të sistemeve alternative me efiçencë të lartë energjie.
+3. Gjatë vlerësimit teknik të mundësisë së përdorimit të sistemeve alternative me efiçencë të lartë energjie merren në konsideratë çështjet mjedisore dhe ekonomike.
+4. Analiza e përdorimit të sistemeve alternative me efiçencë të lartë energjie kryhet për njësitë e ndërtesave, për grupe të ndërtesave referente ose për tipologji të përbashkëta të ndërtesave në të njëjtën zonë. Analiza e përdorimit të sistemeve të ngrohjes e të ftohjes qendrore, që i shërbejnë një blloku të caktuar ndërtesash në të njëjtën zonë, kryhet në tërësi për të gjitha këto ndërtesa, të cilat lidhen me këtë sistem qendror.
+5. Nëse analiza e mundësisë së përdorimit të sistemeve alternative me efiçencë të lartë energjie nuk kryhet nga pronari i ndërtesës, sipas kërkesave të legjislacionit në fuqi për planifikimin dhe zhvillimin e territorit, atëherë duhet të zbatohen masat administrative në përputhje me parashikimet e nenit 15, të këtij ligji.
