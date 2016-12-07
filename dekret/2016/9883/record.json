@@ -1,0 +1,28 @@
+{
+  "qbz_id": 16037,
+  "title": "PËR CAKTIMIN E DATËS SË ZGJEDHJEVE PËR KUVENDIN",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "9883",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2016-12-05",
+  "published": "2016-12-07",
+  "in_force": "2016-12-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/98b91c7c38cb6b6275048146eb11da2c94d01e543519b41fa04d4c2689559311.docx",
+  "source_sha256": "98b91c7c38cb6b6275048146eb11da2c94d01e543519b41fa04d4c2689559311",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16037",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2016/12/05/9883",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66826
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
