@@ -1,0 +1,1 @@
+4. Emri i Bashkisë do të shkruhet në rreshtin e fundit në rastet kur kemi adresë brenda vendit dhe kur kemi adresë për jashtë vendit do të shtohet dhe emri i shtetit në të njëjtin rresht me emrin e bashkisë të ndarë midis tyre me shenjën “ , ” dhe “; ”.

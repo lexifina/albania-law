@@ -1,0 +1,1 @@
+6. Të gjitha institucionet publike/private, personat juridikë e fizikë zbatojnë modelin e adresës në çdo format zyrtar që kërkohet. Kryetarët e bashkive u dërgojnë të gjitha institucioneve publike/private, të gjithë personave juridikë dhe fizikë adresën përkatëse, si dhe lajmërimin sa herë që ajo ndryshohet;
