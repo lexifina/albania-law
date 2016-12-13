@@ -1,0 +1,1 @@
+13. Të gjitha ndryshimet në arkitekturën software dhe hardware të Sistemit E-gjoba të Drejtorisë së Policisë së Shtetit, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe praktikave evropiane dhe ndërkombëtare, në fushën e standardizimit, do të jenë në përputhje me legjislacionin në fuqi.

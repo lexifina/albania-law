@@ -1,0 +1,1 @@
+8. Shtetasi ka nivel aksesi vetëm për konsultimin e informacioneve të vëna në dispozicion, nëpërmjet faqes së internetit të Policisë së Shtetit, www.asp.gov.al, (rubrika Shërbime/ Kontrolloni gjobat tuaja).

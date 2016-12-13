@@ -1,0 +1,1 @@
+5. Të dhënat parësore të Sistemit të Menaxhimit Elektronik të Gjobave (E-gjoba) janë të dhënat e gjobës në të cilën vendoset numri serial i gjobës, koha e vendosjes së gjobës, vendndodhja, vlera e gjobës, shuma dhe arsyeja e vendosjes së gjobës.

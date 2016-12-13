@@ -1,0 +1,1 @@
+11. Funksionet dhe të drejtat e secilit përdorues janë në përputhje me pozicionin e punës dhe përcaktohen në procedurat e punës, të cilat miratohen nga drejtori i Policisë së Shtetit për secilin punonjës.

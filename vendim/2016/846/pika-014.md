@@ -1,0 +1,1 @@
+14. Organizimi dhe funksionimi i brendshëm i bazës të të dhënave shtetërore për Sistemin e Menaxhimit Elektronik të Gjobave (E-gjoba) përcaktohet në rregulloren për organizimin dhe funksionimin e brendshëm të bazës të të dhënave shtetërore, të miratuar nga drejtori i Policisë së Shtetit.

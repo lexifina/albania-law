@@ -1,0 +1,1 @@
+9. Për punonjësit e Drejtorisë së Policisë së Shtetit, niveli i aksesit, përcaktohet në rregulloren e brendshme të bazës të të dhënave shtetërore të E-gjoba, e cila miratohet me urdhër të drejtorit të Policisë së Shtetit.
