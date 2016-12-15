@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e garancisë ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH), në lidhje me marrëveshjen e huas ndërmjet Korporatës Elektroenergjetike Shqiptare dhe Bankës Europiane për Rindërtim dhe Zhvillim (BERZH) për projektin “Shqipëria: Plani i ristrukturimit të KESH-it”, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
