@@ -1,0 +1,1 @@
+3. Të dhënat për rrjetet e telekomunikacionit merren nga Autoriteti i Komunikimeve Elektronike dhe Postare (AKEP), i cili u siguron bashkive akses në sistemin e përqendruar të informacionit për rrjetet e komunikimeve elektronike, brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi.

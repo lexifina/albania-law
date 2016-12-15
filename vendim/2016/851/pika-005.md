@@ -1,0 +1,1 @@
+5. Deri në kalimin e të dhënave, sipas pikës 2, të këtij vendimi, operatorët e shërbimeve publike kanë detyrimin t’u japin bashkive të dhënat dhe konfirmimet e nevojshme mbi rrjetet përkatëse, përfshirë përmes sistemit elektronik të lejeve të ndërtimit, sipas legjislacionit në fuqi.

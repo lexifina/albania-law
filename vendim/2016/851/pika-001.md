@@ -1,0 +1,1 @@
+1. Të dhënat mbi shtrirjen dhe kapacitetin e rrjeteve e të linjave të infrastrukturave inxhinierike ekzistuese në zonë përbëjnë informacion publik dhe u jepen palëve të interesuara nga bashkia përgjegjëse, në përputhje me legjislacionin në fuqi.
