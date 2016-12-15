@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të kërkuesit z. Jani Mihani, në vlerën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 6.10.2016, bërë përfundimtar në datën e shpalljes së tij, për çështjen “Mihani kundër Shqipërisë” (aplikimi nr.47760/09).

@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 6.10.2016, për çështjen “Mihani kundër Shqipërisë”, për ankimin nr.47760/09, në shumën 1 000 (një mijë) euro, në lidhje me dëmin jopasuror, si dhe kostot dhe shpenzimet, plus çdo taksë që mund të jetë e aplikueshme.
