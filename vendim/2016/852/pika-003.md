@@ -1,0 +1,1 @@
+3. AEE-ja financohet nga buxheti i shtetit dhe nga burime të tjera të ligjshme. AEE-ja administron të ardhurat nga buxheti i shtetit dhe ato të siguruara nga donacionet dhe shërbimet ndaj palëve të tjera, sipas legjislacionit përkatës në fuqi.
