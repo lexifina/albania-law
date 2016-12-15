@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 8 (tetë) % të pikëve, që i jepet shoqërisë “Integrated Energy B.V.”, sh.p.k., për rezultatin teknik dhe financiar në procedurën përzgjedhëse konkurruese për dhënien me koncesion të ndërtimit të landfillit, inceneratorit dhe rehabilitimin e venddepozitimeve ekzistuese të Tiranës.
