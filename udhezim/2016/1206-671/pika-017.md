@@ -1,0 +1,1 @@
+17. Të drejtën për kërkesë e kanë dhe shtetasit që kanë mbushur moshën 100 vjeç. Këta shtetas do të bëjnë kërkesë për ndryshim të qendrës së votimit nga 8899 (qendër imagjinare e përdorur nga sistemi vetëm për këtë grup zgjedhësish), në qendrën e votimit sipas vendbanimit. Kjo kërkesë realizohet nëpërmjet formularit, sipas modelit nr. 4, që i bashkëlidhet këtij udhëzimi.

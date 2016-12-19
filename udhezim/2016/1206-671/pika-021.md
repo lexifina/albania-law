@@ -1,0 +1,1 @@
+21. Një kopje e listës së zgjedhësve në format të printuar, i dërgohet Drejtorisë së Përgjithshme të Gjendjes Civile, e cila, jo më vonë se 30 ditë para datës së zgjedhjeve, i dërgon për ruajtje listat e printuara në Arkivin Qendror të Shtetit.

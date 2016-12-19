@@ -1,0 +1,1 @@
+7. Në rastet e qendrave të votimit me fraksion, që kalojnë limitin numerik të përcaktuar në ligj, kryetari vendos ndarjen e tyre duke u nisur nga numri i përgjithshëm i zgjedhësve të qendrës së votimit bazë dhe jo çdo fraksion veç e veç. Numri i përgjithshëm i një qendre votimi me gjithë fraksionet e saj, do të ndahet në pjesë të barabarta me jo më shumë se 1000 zgjedhës secila.

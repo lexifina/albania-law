@@ -1,0 +1,1 @@
+16. Zgjedhësit, të cilët kanë marrë njoftimin me shkrim nga ana e bashkisë dhe konstatojnë se në përbërësit e tyre zgjedhorë ka mospërputhje, i drejtohen zyrës së gjendjes civile përkatëse për të bërë rregullimet e mundshme.

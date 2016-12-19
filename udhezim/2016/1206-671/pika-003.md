@@ -1,0 +1,1 @@
+3. Nëpunësi i zyrës së gjendjes civile, pas gjenerimit në formatin elektronik të ekstraktit të përbërësve zgjedhorë, kontrollon raportin ditor për numrin e zgjedhësve për çdo qendër votimi. Kur vëren në raportin ditor, se ka qendra votimi me më pak se 200 zgjedhës, apo qendra votimi me më shumë se 1 000 zgjedhës, njofton brenda 48 orëve, kryetarin e bashkisë përkatëse.

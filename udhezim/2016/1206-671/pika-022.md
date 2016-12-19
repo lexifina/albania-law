@@ -1,0 +1,1 @@
+22. Për zbatimin e këtij udhëzimi ngarkohen kryetarët e bashkive, Drejtoria e Përgjithshme e Gjendjes Civile, punonjësit e zyrave të gjendjes civile në bashki dhe institucionet e tjera shtetërore që parashikohen në Kodin Zgjedhor.
