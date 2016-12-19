@@ -1,0 +1,1 @@
+1. Numri i punonjësve dhe praktikantëve me kontratë të përkohshme për vitin 2016 në njësitë e qeverisjes qendrore është 2410 veta, sipas lidhjeve nr. 1dhe nr. 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.

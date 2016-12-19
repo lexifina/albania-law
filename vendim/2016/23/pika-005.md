@@ -1,0 +1,1 @@
+5. Efektet financiare për zbatimin e këtij vendimi fillojnë pas hyrjes në fuqi të vendimit. Përjashtimisht, për pozicionet e kontraktuara për periudhën kohore vjetore, efektet financiare fillojnë në datën 1 janar 2016 dhe pagesa e muajit dhjetor kryhet në fund të këtij muaji, me fondet e miratuara për vitin 2016.
