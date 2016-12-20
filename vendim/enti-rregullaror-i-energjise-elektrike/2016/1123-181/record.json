@@ -1,0 +1,29 @@
+{
+  "qbz_id": 63072,
+  "title": "PËR DISA NDRYSHIME NË VENDIMIN NR. 104, DATË 23.6.2016, TË BORDIT TË ERE-s, “MBI PËRCAKTIMIN E METODOLOGJISË SË VLERAVE REFERUESE NË RAST SE TË DHËNAT E MATJES JANË PËRKOHËSISHT TË PADISPONUESHME DHE TË PAARRITSHME, SI DHE MBI SHFUQIZIMIN E VENDIMEVE TË ERE-s NR. 49, DATË 21.10.2004 DHE NR. 146, DATË 24.12.2013”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "181",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2016-11-23",
+  "published": "2016-12-20",
+  "in_force": "2016-12-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6c3736c2b98f1e8aad26d856ef52acab1ffabd2cf528019d9a5c303f9f72640d.docx",
+  "source_sha256": "6c3736c2b98f1e8aad26d856ef52acab1ffabd2cf528019d9a5c303f9f72640d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63072",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/11/23/181",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    24121,
+    23742
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
