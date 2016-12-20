@@ -1,0 +1,2 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të llogaritura në shumën 3 754 800 000 (tre miliardë e shtatëqind e pesëdhjetë e katër milionë e tetëqind mijë) lekë, të përballohen nga buxheti i sigurimeve shoqërore, i miratuar për vitin 2016.
+Shpërblimet të kalohen në llogaritë e pensionistëve në muajin dhjetor 2016 dhe të paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit dhjetor 2016, ato paguhen edhe gjatë vitit të ardhshëm.
