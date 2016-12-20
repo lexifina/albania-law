@@ -1,0 +1,1 @@
+1. Lejimin e gjuetisë së dhelprës së kuqe, për arsye të monitorimit shkencor pasvaksinal, që realizohet në kuadër të projektit “Përmirësimi i mbrojtjes së konsumatorit ndaj sëmundjeve zoonotike (PAZA)”.

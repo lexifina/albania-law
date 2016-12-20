@@ -1,0 +1,1 @@
+5. Gjatë të gjithë kohës së kryerjes së kësaj veprimtarie në zonat ku do të kryhet kampionimi i dhelprave do të jetë i pranishëm personeli i Agjencisë Kombëtare të Zonave të Mbrojtura në Qarqe, ndërkohë që Inspektorati Shtetëror i Mjedisit dhe Pyjeve do të inspektojë procesin në vazhdimësi.

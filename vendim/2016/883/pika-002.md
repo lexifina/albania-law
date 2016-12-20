@@ -1,0 +1,1 @@
+2. Gjuetia e dhelprës së kuqe të kryhet nëpërmjet marrjes së kampionëve të dhelprës së kuqe në të gjithë territorin e vendit, me përjashtim të territorit të zonave të mbrojtura, në ditët e enjte, të premte dhe të shtunë, gjatë periudhës 9 dhjetor 2016 deri më 9 janar 2017.

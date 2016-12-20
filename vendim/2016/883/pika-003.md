@@ -1,0 +1,1 @@
+3. Për marrjen e kampionëve të dhelprave të kuqe nëpërmjet gjuajtjes së tyre të angazhohen në të gjithë vendin 198 gjuetarë që do të sigurojnë në total 324 kampionë të dhelprave. Numri i personave, që do të realizojnë gjuetinë dhe numri i individëve/kampionëve të dhelprave që do të sigurohen, për secilin qark, jepen në listën që i bashkëlidhet këtij vendimi.
