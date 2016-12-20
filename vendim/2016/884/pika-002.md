@@ -1,0 +1,1 @@
+2. Efektet financiare prej 439 000 000 (katërqind e tridhjetë e nëntë milionë) lekësh, përballohen nga buxheti i vitit 2016, zëri “Ndihma ekonomike dhe pagesa e paaftësisë”, miratuar për Ministrinë e Mirëqenies Sociale dhe Rinisë.
