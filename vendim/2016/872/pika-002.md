@@ -1,0 +1,1 @@
+2. Kalimi në përgjegjësi administrimi i pronës te Kontrolli i Lartë i Shtetit, sipas përcaktimeve të bëra në pikën 1, të këtij vendimi, bëhet duke përfshirë të gjitha të drejtat dhe detyrimet që lindin nga kontrata e datës 9.12.2016, me objekt rikonstruksionin e godinës së Ministrisë së Zhvillimit Urban, të nënshkruar nga kjo ministri me subjektin zbatues të punimeve.

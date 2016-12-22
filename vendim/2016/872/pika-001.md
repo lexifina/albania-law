@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Zhvillimit Urban te Kontrolli i Lartë i Shtetit, të një pjese të pronës me numër pasurie 1/63, ndodhur në zonën kadastrale 8150, rruga “Abdi Toptani”, Tiranë, sipas formularëve dhe planimetrive, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

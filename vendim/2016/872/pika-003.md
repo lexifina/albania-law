@@ -1,0 +1,1 @@
+3. Kontrolli i Lartë i Shtetit është përgjegjës për ndjekjen dhe likuidimin e kontratës së zbatimit të punimeve, përkatësisht për pjesën e pronës që i kalon në përgjegjësi administrimi, sipas përcaktimeve të marrëveshjes, me MZHU-në dhe subjektin zbatues e mbikëqyrës të punimeve.
