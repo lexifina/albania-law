@@ -1,0 +1,26 @@
+{
+  "qbz_id": 65043,
+  "title": "PËR DISA SHTESA DHE NDRYSHIME NË VENDIMIN NR. 545, DATË 11.8.2011, TË KËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E STRUKTURËS DHE TË NIVELEVE TË PAGAVE TË NËPUNËSVE CIVILË/NËPUNËSVE, ZËVENDËSMINISTRIT DHE NËPUNËSVE TË KABINETEVE, NË KRYEMINISTRI, APARATET E MINISTRIVE TË LINJËS, ADMINISTRATËN E PRESIDENTIT, KUVENDIT, KOMISIONIT QENDROR TË ZGJEDHJEVE, PROKURORINË E PËRGJITHSHME, DISA INSTITUCIONE TË PAVARURA, INSTITUCIONET NË VARËSI TË KRYEMINISTRIT, INSTITUCIONET NË VARËSI TË MINISTRAVE TË LINJËS DHE ADMINISTRATËN E PREFEKTIT”, \nTË NDRYSHUAR",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "879",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2016-12-14",
+  "published": "2016-12-22",
+  "in_force": "2016-12-22",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/7a6d090163664117d6aee25444d675492367f22a47e5cd596402121e0646e44d.docx",
+  "source_sha256": "7a6d090163664117d6aee25444d675492367f22a47e5cd596402121e0646e44d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65043",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/12/14/879",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
