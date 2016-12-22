@@ -1,0 +1,1 @@
+6. Pronarët e listës që i bashkëlidhen këtij vendimi të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë, vërtetimin bankar lidhur me numrin e llogarisë dhe IBAN-in, si dhe kopjen e kartës së identitetit, të shoqëruar me një kërkesë pranë Operatorit të Sistemit të Transmetimit (OST) sh.a.

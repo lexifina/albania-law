@@ -1,0 +1,1 @@
+4. Vlera totale e shpronësimit prej 73 198 (shtatëdhjetë e tre mijë e njëqind e nëntëdhjetë e tetë) lekësh dhe vlera e shpenzimeve procedurale, të përballohen nga Operatori i Sistemit të Transmetimit (OST) sh.a., si subjekti kërkues i këtij shpronësimi.
