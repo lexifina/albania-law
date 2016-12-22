@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për shqyrtimin, miratimin e nënshkrimin e licencave dhe certifikatave, për shërbimin e rregullt në transportin ndërqytetës të udhëtarëve brenda vendit, zëvendësministrit të Transportit dhe Infrastrukturës, z. Bahri Shaqiri.
