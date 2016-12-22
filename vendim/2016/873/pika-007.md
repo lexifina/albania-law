@@ -1,0 +1,2 @@
+7. Të gjithë nxënësit/prindërit dhe drejtoritë e shkollave profesionale paraqesin/ dërgojnë, zyrtarisht, në njësitë e qeverisjes vendore, kërkesat për miratimin e bursës për nxënësit që përfitojnë bursë, sipas kritereve të përcaktuara në pikat 2.1, 2.2, 2.3 e 2.4, të këtij vendimi.
+Nxënësit, që kanë përfituar bursë vitin e parë, me vendim të këshillit të bashkisë ku ata kanë vendbanimin e përhershëm dhe nëse atyre nuk u ndryshojnë kriteret ekonomike dhe nuk rezultojnë mbetës, e përfitojnë bursën deri në përfundim të viteve të shkollimit.

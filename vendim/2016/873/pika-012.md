@@ -1,0 +1,1 @@
+12. Ministria e Mirëqenies Sociale dhe Rinisë, për hyrjet e reja në vitin e parë, në sistemin arsimor publik që ndjekin shkollat profesionale, për të gjitha kategoritë e parashikuara në pikën 2, të këtij vendimi, për vitin e ri mësimor 2016-2017 jep 2 100 (dy mijë e njëqind) bursa.

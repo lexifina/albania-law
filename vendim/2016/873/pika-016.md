@@ -1,0 +1,1 @@
+16. Afati përfundimtar për shqyrtimin dhe miratimin e bursave nga njësitë bazë të qeverisjes vendore për të gjitha kategoritë e shkollave është data 15 mars 2017. Vendimet e këshillave të njësive të qeverisjes vendore, të miratuara jashtë këtij afati, janë të pavlefshme.

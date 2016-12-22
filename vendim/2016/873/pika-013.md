@@ -1,0 +1,1 @@
+13. Ministria e Arsimit dhe Sportit, për të gjitha kategoritë e nxënësve që ndjekin arsimin parauniversitar, të parashikuara në pikën 2 të këtij vendimi, pa u përfshirë nxënësit që ndjekin shkollat profesionale, për vitin e ri akademik 2016-2017 jep 800 (tetëqind) bursa.

@@ -1,0 +1,1 @@
+1. Nxënësit, që ndjekin studimet në institucionet arsimore publike të arsimit parauniversitar, mund të përfitojnë bursë dhe përfitime të tjera, të parashikuara në këtë vendim, nga buxheti vjetor i miratuar për Ministrinë e Arsimit dhe Sportit dhe Ministrinë e Mirëqenies Sociale dhe Rinisë.

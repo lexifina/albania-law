@@ -1,0 +1,1 @@
+14. Efektet financiare për mbulimin e shpenzimeve për 2 100 bursa kuota ushqimore për vitin shkollor 2016-2017 të përballohen nga fondet e buxhetit të shtetit, miratuar për Ministrinë e Mirëqenies Sociale dhe Rinisë për vitet 2016 dhe 2017.
