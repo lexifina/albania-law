@@ -1,1 +1,0 @@
-5. Garda e Republikës së Shqipërisë, si organi qendror blerës, është plotësisht përgjegjëse për kryerjen e të gjithë procedurës së prokurimit deri në përzgjedhjen e fituesit, ndërsa nënshkrimi i kontratës bëhet nga vetë autoriteti kontraktor.

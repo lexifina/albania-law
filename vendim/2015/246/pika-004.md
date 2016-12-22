@@ -1,1 +1,0 @@
-4. Garda e Republikës së Shqipërisë, si organi qendror blerës, së bashku me përfaqësues, në nivel teknik, të Ministrisë së Transportit dhe Infrastrukturës, të përcaktojnë specifikimet teknike, në përputhje me standardet teknike dhe kërkesat e sigurisë për automjetet që do të merren me qira financiare.
