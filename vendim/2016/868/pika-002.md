@@ -1,0 +1,1 @@
+2. Prona e përmendur në pikën 1, të këtij vendimi, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore në përgjegjësi administrimi të Ministrisë së Drejtësisë, që i bashkëlidhet vendimit nr. 1292, datë 24.9.2008, të Këshillit të Ministrave, të ndryshuar.
