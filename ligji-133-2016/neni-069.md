@@ -1,0 +1,3 @@
+# Neni 69
+Kufizime për procedurat e tjera
+Pa cenuar të drejtat mbi ekzekutimin e marrëveshjeve të garancisë, të përcaktuara në nenin 53, të këtij ligji, nëse është e nevojshme për zbatimin efektiv të instrumenteve dhe kompetencave të ndërhyrjes së jashtëzakonshme, gjykata kompetente, me kërkesë të Autoritetit të Ndërhyrjes së Jashtëzakonshme, në përputhje me objektivin e ndjekur, vendos pezullimin për një periudhë të përshtatshme kohe të çdo procesi gjyqësor, në të cilin një bankë nën procedurën e ndërhyrjes së jashtëzakonshme është ose bëhet palë. Pas përfundimit të afatit të pezullimit të vendosur nga gjykata, Autoriteti i Ndërhyrjes së Jashtëzakonshme mund t’i drejtohet me një kërkesë të re gjykatës për të vendosur një afat të ri pezullimi.

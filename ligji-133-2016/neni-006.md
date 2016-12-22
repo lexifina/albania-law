@@ -1,0 +1,9 @@
+# Neni 6
+Autoritetet përgjegjëse
+1. Banka e Shqipërisë është Autoriteti i Ndërhyrjes së Jashtëzakonshme, i cili ushtron kompetencat e ndërhyrjes së jashtëzakonshme, të përcaktuara në këtë ligj.
+2. Banka e Shqipërisë është autoriteti mbikëqyrës, i cili ushtron funksionin mbikëqyrës në bazë dhe në zbatim të legjislacionit në fuqi për Bankën e Shqipërisë, legjislacionit në fuqi për bankat në Republikën e Shqipërisë dhe të këtij ligji.
+3. Banka e Shqipërisë ushtron funksionin mbikëqyrës dhe funksionin e ndërhyrjes së jashtëzakonshme nëpërmjet dy njësive organizative të ndryshme brenda saj, të cilat kanë linja të veçanta raportimi dhe varësie, duke siguruar pavarësinë e tyre në vendimmarrjet përkatëse. Punonjësit e njësive organizative, të cilat përgjigjen për ushtrimin e funksionit mbikëqyrës dhe funksionit të ndërhyrjes së jashtëzakonshme, bashkëpunojnë në mënyrë efektive për hartimin, planifikimin dhe zbatimin e vendimeve të ndërhyrjes së jashtëzakonshme.
+Banka e Shqipërisë përcakton me akt nënligjor format dhe mënyrën e bashkëpunimit të këtyre njësive.
+4. Banka e Shqipërisë, në cilësinë e Autoritetit të Ndërhyrjes së Jashtëzakonshme, informon Ministrinë e Financave dhe Komisionin e Ndihmës Shtetërore lidhur me vendimin e marrë për ndërhyrje të jashtëzakonshme në një bankë. Në rastin kur vendimi për ndërhyrje të jashtëzakonshme shoqërohet me përdorimin e fondeve publike, veprohet në përputhje me parashikimet e këtij ligji dhe të legjislacionit në fuqi për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë.
+5. Banka e Shqipërisë bashkëpunon me Agjencinë e Sigurimit të Depozitave për përgatitjen, planifikimin dhe zbatimin e vendimeve të ndërhyrjes së jashtëzakonshme.
+6. Banka e Shqipërisë përcakton organet e brendshme dhe drejtuesit e njësive organizative të saj, të cilat nxjerrin aktet administrative individuale në zbatim të kompetencave të Bankës së Shqipërisë, sipas këtij ligji.

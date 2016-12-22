@@ -1,0 +1,7 @@
+# Neni 60
+Mbrojtja për marrëveshjet e kolateralit financiar për transferimin e titullit, marrëveshjet e kompensimit set off dhe netting
+1. Autoriteti i Ndërhyrjes së Jashtëzakonshme mund të ndalojë transferimin e pjesshëm të të drejtave dhe detyrimeve që kanë lindur nga marrëveshjet e kolateralit financiar për transferimin e titullit, marrëveshjet repo, marrëveshjet e kompensimit set off dhe netting, ku është palë banka, e cila i nënshtrohet procesit të ndërhyrjes së jashtëzakonshme, si dhe mund të ndryshojë ose të ndërpresë të drejtat dhe detyrimet që kanë lindur nga këto marrëveshje përmes përdorimit të kompetencave shtesë, të parashikuara në nenin 48 të këtij ligji.
+2. Për qëllime të pikës 1, të këtij neni, të drejtat dhe detyrimet duhet të trajtohen si të mbrojtura në bazë të një marrëveshjeje të tillë, nëse palët në marrëveshje kanë të drejtë të kompensojnë këto të drejta dhe detyrime.
+3. Pavarësisht nga përcaktimet e pikës 1, të këtij neni, kur është e nevojshme për të siguruar disponueshmërinë e depozitave të siguruara, Autoriteti i Ndërhyrjes së Jashtëzakonshme mund që:
+a) të transferojë depozitat e siguruara që janë pjesë e ndonjë prej marrëveshjeve të përmendura në pikën 1, të këtij neni, pa transferuar aktive, të drejta ose detyrime të tjera që janë pjesë e së njëjtës marrëveshje; dhe
+b) të transferojë, të modifikojë ose të ndërpresë ato aktive, të drejta ose detyrime pa transferuar depozitat e sigurueshme.

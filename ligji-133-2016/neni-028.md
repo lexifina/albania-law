@@ -1,0 +1,29 @@
+# Neni 28
+Banka urë
+1. Autoriteti i Ndërhyrjes së Jashtëzakonshme krijon bankën urë, duke i transferuar të drejtën e pronësisë mbi aksionet ose instrumentet e tjera të pronësisë, aktivet, të drejtat dhe detyrimet e bankës në ndërhyrje të jashtëzakonshme, me qëllim ruajtjen e funksioneve kritike të bankës.
+2. Banka urë është person juridik, që përmbush të gjitha kërkesat e mëposhtme:
+a) është tërësisht ose pjesërisht në pronësi të një ose më shumë autoriteteve publike, si dhe kontrollohet nga Autoriteti i Ndërhyrjes së Jashtëzakonshme;
+b) krijohet me qëllim të zotërimit të një pjese ose të të gjitha aksioneve ose instrumenteve të tjera të pronësisë apo disa ose të gjitha aktiveve, të drejtave dhe detyrimeve të bankës, objekt i ndërhyrjes së jashtëzakonshme, me qëllim ruajtjen e funksioneve me rëndësi kritike.
+3. Vlera e përgjithshme e detyrimeve që i transferohen bankës urë nuk mund të tejkalojë vlerën totale të aktiveve që i transferohen asaj nga banka në ndërhyrje të jashtëzakonshme apo të siguruara nga burime të tjera.
+4. Transferimi i përmendur në pikën 1, të këtij neni, nuk kërkon miratimin e aksionarëve dhe kreditorëve të bankës në ndërhyrje të jashtëzakonshme apo ndonjë pale të tretë, të ndryshme nga banka urë, dhe nuk pengohet apo nuk kufizohet nga ndonjë kërkesë procedurale në zbatim të legjislacionit mbi shoqëritë tregtare apo për titujt.
+5. Depozitat që i transferohen bankës urë vazhdojnë të jenë të siguruara, sipas parashikimeve të legjislacionit mbi sigurimin e depozitave. Me krijimin dhe licencimin e saj, banka urë është pjesë e skemës së sigurimit të depozitave, sipas parashikimeve të legjislacionit për sigurimin e depozitave.
+6. Çdo shumë e paguar nga banka urë është në përfitim:
+a) të zotëruesve të aksioneve ose instrumenteve të tjera të pronësisë, nëse transferimi te banka urë është bërë nëpërmjet transferimit të aksioneve ose instrumenteve të tjera të pronësisë, të emetuara nga banka në ndërhyrje të jashtëzakonshme;
+b) të bankës në ndërhyrje të jashtëzakonshme, nëse transferimi te banka urë është bërë nëpërmjet transferimit të të gjitha ose të disa aktiveve apo detyrimeve të bankës në ndërhyrje të jashtëzakonshme.
+7. Në vijim të zbatimit të instrumentit të bankës urë, Autoriteti i Ndërhyrjes së Jashtëzakonshme mund:
+a) të transferojë të drejta, aktive ose detyrime nga banka urë te banka në ndërhyrje të jashtëzakonshme ose aksionet apo instrumentet e tjera të pronësisë te zotëruesit e tyre fillestarë dhe këta të fundit janë të detyruar t’i marrin përsëri këto aktive, të drejta ose detyrime apo aksione, me kusht që të jenë plotësuar kushtet e parashikuara në pikën 8 të këtij neni;
+b) të transferojë aksionet ose instrumente të tjera të pronësisë ose aktivet, të drejta apo detyrimet nga banka urë te një palë e tretë.
+8. Autoriteti i Ndërhyrjes së Jashtëzakonshme mund të urdhërojë në çdo periudhë transferimin nga banka urë te zotëruesit fillestarë të aksioneve ose instrumenteve të tjera të pronësisë ose aktiveve, të drejtave ose detyrimet në rastet kur:
+a) mundësia, që aksione të caktuara, aktive, të drejta ose detyrime të mund të transferohen mbrapsht, është parashikuar shprehimisht në vendimin, nëpërmjet të cilit është bërë transferimi;
+b) aksionet, aktivet, të drejtat ose detyrime të caktuara nuk bëjnë pjesë në kategoritë apo nuk përmbushin kriteret e përcaktuara në vendimin në bazë të të cilit është bërë transferimi.
+9. Transferimet midis bankës, objekt i ndërhyrjes së jashtëzakonshme, apo zotëruesve fillestarë të aksioneve, në njërën anë, dhe bankës urë, në anën tjetër, duhet të jenë në përputhje me masat mbrojtëse të parashikuara në nenet 56-63 të këtij ligji.
+10. Statuti i bankës urë miratohet nga Autoriteti i Ndërhyrjes së Jashtëzakonshme dhe regjistrohet në Qendrën Kombëtare të Biznesit.
+11. Autoriteti i Ndërhyrjes së Jashtëzakonshme emëron dhe mund të shkarkojë, në çdo kohë, administratorët e bankës urë.
+12. Autoriteti i Ndërhyrjes së Jashtëzakonshme përcakton strategjinë e biznesit dhe profilin e rrezikut të bankës urë, si dhe shpërblimin e pagesat e tjera për administratorët e saj.
+13. Banka urë konsiderohet vazhdim i bankës, objekt i ndërhyrjes së jashtëzakonshme, dhe vazhdon të ushtrojë çdo të drejtë që është ushtruar prej saj në lidhje me aktivet, të drejtat ose detyrimet e transferuara, si dhe veprimtaritë dhe shërbimet ndihmëse të lidhura me to, siç përcaktohet në vendimin e Autoritetit të Ndërhyrjes së Jashtëzakonshme.
+14. Autoriteti i Ndërhyrjes së Jashtëzakonshme merr masa që banka urë të përfundojë veprimtarinë jo më vonë se 2 vjet pas krijimit të saj.
+15. Autoriteti Mbikëqyrës përcakton me akt nënligjor mënyrën e ushtrimit të veprimtarisë së bankës urë, licencimin, mbikëqyrjen dhe rastet e përfundimit të veprimtarisë së bankës urë. Autoriteti Mbikëqyrës ka të drejtë të përcaktojë kërkesa më të lehtësuara për licencimin dhe mbikëqyrjen e bankës urë, në krahasim me kërkesat e përcaktuara për bankat e tjera, në fillimet e ushtrimit të veprimtarisë së saj.
+16. Organet e administrimit dhe drejtuesit e bankës urë nuk mbajnë përgjegjësi ndaj aksionarëve ose kreditorëve të bankës në ndërhyrje të jashtëzakonshme, me përjashtim të rasteve kur veprimet ose mosveprimet vijnë nga neglizhenca ose gabime të rënda, të cilat kanë pasoja të drejtpërdrejta për këta aksionarë. Ata kryejnë detyrat e tyre me kujdesin e nevojshëm në lidhje me aktivet dhe detyrimet e transferuara dhe i raportojnë Autoritetit të Ndërhyrjes së Jashtëzakonshme, sipas afateve dhe mënyrave të përcaktuara në akt nënligjor të Autoritetit të Ndërhyrjes së Jashtëzakonshme.
+17. Parashikimet e legjislacionit tregtar, legjislacionit për titujt, si dhe ligjeve të tjera në fuqi nuk zbatohen nëse nuk janë në përputhje me dispozitat e këtij ligji për krijimin, licencimin dhe funksionimin e bankës urë.
+SEKSIONI 5
+Instrumenti i ndarjes së aktiveve

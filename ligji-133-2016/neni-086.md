@@ -1,0 +1,5 @@
+# Neni 86
+Mbrojtja ligjore gjatë ushtrimit të detyrës
+1. Banka e Shqipërisë, në rolin e saj si Autoritet i Ndërhyrjes së Jashtëzakonshme, anëtarët e Këshillit Mbikëqyrës, administratorët dhe çdo punonjës i saj, Agjencia e Sigurimit të Depozitave, strukturat dhe punonjësit e saj nuk janë përgjegjës për dëmet e shkaktuara të tretëve edhe në rastet kur janë larguar nga kjo detyrë nga veprimet ose mosveprimet e kryera gjatë ushtrimit të detyrës dhe përmbushjes së përgjegjësive të tyre ligjore, të parashikuara në këtë ligj.
+2. Parashikimet e pikës 1, të këtij neni, nuk zbatohen në rast se personat e sipërpërmendur kanë vepruar me keqbesim ose në përfitim të tyre, duke mos respektuar qëllimisht detyrat dhe përgjegjësitë e tyre. Në këtë rast, ata detyrohen të përgjigjen për dëmet që u shkaktojnë personave fizikë ose juridikë privatë.
+3. Dispozitat e legjislacionit në fuqi për përgjegjësinë jashtëkontraktore të organeve të administratës shtetërore nuk zbatohen për të përcaktuar përgjegjësinë jashtëkontraktore të Bankës së Shqipërisë, si dhe të organeve apo punonjësve të saj.

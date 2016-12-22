@@ -1,0 +1,5 @@
+# Neni 53
+Kompetenca për të pezulluar përkohësisht ekzekutimin e mjeteve që sigurojnë ekzekutimin e detyrimeve
+1. Autoriteti i Ndërhyrjes së Jashtëzakonshme ka të drejtë të urdhërojë pezullimin e ekzekutimit nga kreditorët mbi pasuritë e bankës në ndërhyrje të jashtëzakonshme, të cilat shërbejnë si mjete që sigurojnë ekzekutimin e detyrimeve. Autoriteti i Ndërhyrjes së Jashtëzakonshme e publikon menjëherë këtë urdhër, sipas mënyrës së përcaktuar në nenin 66, të këtij ligji, duke specifikuar ditën dhe orën kur pezullimi hyn në fuqi. Pezullimi i ekzekutimit zgjat deri në mesnatën e ditës pasuese të punës, duke filluar nga data e publikimit të urdhrit, sipas nenit 66 të këtij ligji.
+2. Si përjashtim nga pika 1, e këtij neni, urdhri për pezullim nuk zbatohet për pasuritë e bankës, të dhëna si kolateral në sistemet dhe operatorët e sistemeve të rregulluara nga legjislacionit në fuqi për sistemin e pagesave.
+3. Autoriteti i Ndërhyrjes së Jashtëzakonshme duhet të marrë në konsideratë ndikimin që mund të ketë ushtrimi i kompetencës së përcaktuar në pikën 1, të këtij neni, mbi funksionimin e tregut financiar.

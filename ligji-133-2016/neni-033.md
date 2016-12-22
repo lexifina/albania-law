@@ -1,0 +1,8 @@
+# Neni 33
+Vlerësimi i shumës së rikapitalizimit nga brenda
+1. Autoriteti i Ndërhyrjes së Jashtëzakonshme, kur zbaton instrumentin e rikapitalizimit nga brenda, bazohet në vlerësimin e kryer në bazë të nenit 24, të këtij ligji, duke agreguar:
+a) shumën e zhvlerësimit që do t’u bëhet detyrimeve të pranuara, me qëllim vendosjen e vlerës neto zero për aktivet e bankës në ndërhyrje të jashtëzakonshme; dhe
+b) shumën e vlerës së detyrimeve të pranuara që mund të konvertohen në aksione ose në instrumente të tjera kapitali, me qëllim rivendosjen e raportit të kërkuar për kapitalin e nivelit të parë të bankës në ndërhyrje të jashtëzakonshme ose të bankës urë.
+2. Autoriteti i Ndërhyrjes së Jashtëzakonshme, në përputhje me pikën 1, të këtij neni, përcakton shumën me të cilën detyrimet e pranuara zhvlerësohen ose konvertohen në kapital, me qëllim arritjen e nivelit të kërkuar të kapitalit bazë të nivelit të parë të bankës, objekt i ndërhyrjes së jashtëzakonshme ose, në rastin e bankës urë, të mundësojë vazhdimin e aktivitetit të saj për të paktën një vit.
+3. Autoriteti i Ndërhyrjes së Jashtëzakonshme, në rastet kur zbaton instrumentin e ndarjes së aktiveve, sipas nenit 29, të këtij ligji, në përcaktimin e shumës me të cilën nevojitet të zhvlerësohen detyrimet e pranuara, duhet të marrë në konsideratë edhe një vlerësim të kujdesshëm të nevojave për kapital të shoqërisë së administrimit të aktiveve.
+4. Autoriteti i Ndërhyrjes së Jashtëzakonshme mund të përdorë një mekanizëm rivlerësimi për të rimbursuar kreditorët dhe pastaj aksionarët, kur pas vlerësimit përfundimtar, të përcaktuar në nenin 24, të këtij ligji, konstatohet se shuma e përdorur për zbatimin e instrumentit të rikapitalizimit nga brenda tejkalon kërkesat për rikapitalizim.

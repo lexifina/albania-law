@@ -1,0 +1,7 @@
+# Neni 50
+Kompetenca në lidhje me aktivet, të drejtat, detyrimet dhe aksionet e ndodhura në vende të tjera
+1. Në rast se ndërhyrja e jashtëzakonshme përfshin veprime në lidhje me aktive të ndodhura në një vend tjetër ose instrumente pronësie, të drejta ose detyrime që i nënshtrohen ligjit të një shteti tjetër, Autoriteti i Ndërhyrjes së Jashtëzakonshme kërkon që:
+a) administratori ose marrësi të marrë të gjitha masat e nevojshme për të siguruar që transferimi, zhvlerësimi, konvertimi ose veprimi të bëhen efektive;
+b) administratori ose marrësi të mbajë aksionet ose instrumente të tjera kapitali, aktivet ose të drejtat, ose të shuajë detyrimet për llogari të marrësit derisa transferimi, zhvlerësimi, konvertimi ose veprimi të bëhet efektiv;
+c) shpenzimet e arsyeshme të marrësit për kryerjen e veprimeve të përmendura në shkronjat “a” dhe “b”, të pikës 1, të këtij neni, përballohen sipas parashikimeve të pikës 5, të nenit 25, të këtij ligji.
+2. Kur Autoriteti i Ndërhyrjes së Jashtëzakonshme vlerëson se, pavarësisht nga ndërmarrja e të gjitha masave të përmendura në pikën 1, të këtij neni, nga administratori ose marrësi ka pak mundësi që ushtrimi i kompetencës së zhvlerësimit dhe konvertimit të jetë efektiv për aktivet që ndodhen në një shtet tjetër ose për aksione, instrumente të tjera të pronësisë, të drejta apo detyrime të rregulluara nga ligji i një vendi tjetër, atëherë nuk kërkon transferimin, zhvlerësimin ose konvertimin. Nëse ky veprim është bërë, ky urdhër anulohet dhe konsiderohet i pavlefshëm.

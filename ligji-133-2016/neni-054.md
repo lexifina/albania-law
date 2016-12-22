@@ -1,0 +1,11 @@
+# Neni 54
+Kompetenca për të pezulluar përkohësisht të drejtat
+për zgjidhjen e kontratës
+1. Autoriteti i Ndërhyrjes së Jashtëzakonshme ka të drejtë të urdhërojë pezullimin e përkohshëm të së drejtës për zgjidhjen e kontratës nga palë të treta, të cilat mund të kenë marrëdhënie kontraktore me bankën në ndërhyrje të jashtëzakonshme, me kusht që detyrimet kontraktore dhe ofrimi i garancive ose kolateralit të vazhdojnë të përmbushen. Autoriteti i Ndërhyrjes së Jashtëzakonshme publikon menjëherë këtë urdhër, sipas mënyrës së përcaktuar në nenin 66, të këtij ligji, duke specifikuar ditën dhe orën kur pezullimi hyn në fuqi.
+2. Kompetenca e parashikuar në pikën 1, të këtij neni, mund të përfshijë marrëdhënie kontraktore midis një pale të tretë dhe shoqërisë së kontrolluar nga banka në ndërhyrje të jashtëzakonshme në këto raste:
+a) nëse detyrimet kontraktore janë garantuar apo mbështeten në çfarëdo formë nga banka në ndërhyrje të jashtëzakonshme;
+b) nëse e drejta për të zgjidhur kontratën bazohet vetëm në gjendjen financiare apo likuidimin e detyruar të bankës në ndërhyrje të jashtëzakonshme; dhe
+c) në rast të ushtrimit të kompetencave të transferimit të përcaktuar në këtë ligj në lidhje me bankën në ndërhyrje të jashtëzakonshme ose të gjitha aktivet dhe detyrimet e shoqërisë së kontrolluar që lidhen me atë kontratë janë ose transferohen te marrësi, Autoriteti i Ndërhyrjes së Jashtëzakonshme garanton në çfarëdo mënyrë këto detyrime.
+3. Si përjashtim nga pikat e mësipërme, vendimi për pezullim nuk zbatohet për sistemet e pagesave dhe operatorët e sistemeve të pagesave, të rregulluara sipas legjislacionit në fuqi për sistemin e pagesave.
+4. Si përjashtim nga pikat e mësipërme, një palë mund të zgjidhë një kontratë përpara përfundimit të periudhës së pezullimit nëse njoftohet nga Autoriteti i Ndërhyrjes së Jashtëzakonshme se të drejtat dhe detyrimet që rrjedhin nga kontrata nuk i transferohen marrësit ose nuk zhvlerësohen apo konvertohen gjatë zbatimit të instrumentit të rikapitalizimit nga brenda, në përputhje me shkronjën “a”, të pikës 1, të nenit 30, të këtij ligji.
+5. Pezullimi i ekzekutimit zgjat deri në mesnatën e ditës pasuese të punës duke filluar nga data e publikimit të urdhrit, sipas nenit 66 të këtij ligji.
