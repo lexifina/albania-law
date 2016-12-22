@@ -1,0 +1,5 @@
+# Neni 79
+Marrëveshja për investigim me shtete të huaja
+1. Aksidenti ose incidenti i pretenduar investigohet nga Autoriteti Kombëtar i Investigimit të Aksidenteve dhe Incidenteve Hekurudhore. Sikurse në nenin 77, të këtij Kodi, kur kjo nuk është e mundur ose ngjarja ka ndodhur në/ose afërsi të kufirit me një shtet tjetër, autoritetet kombëtare të investigimit të aksidenteve dhe incidenteve, përkatësisht, bien dakord që një prej tyre të kryejë investigimin ose ta kryejnë në bashkëpunim. Në rastin kur investigimi vendoset të kryhet nga njëri prej autoriteteve kombëtare të investigimit të aksidenteve dhe incidenteve hekurudhore, autoriteti tjetër lejohet të marrë pjesë në investigim dhe të informohet plotësisht mbi rezultatet e tij.
+2. Autoritetet kombëtare të investigimit të aksidenteve dhe incidenteve të huaja ftohen dhe marrin pjesë në investigim, kur sipërmarrësi hekurudhor i përfshirë në ngjarje është themeluar dhe licencuar në atë shtet.
+Paragrafi i parë i kësaj pike nuk përjashton rastet e bashkëpunimit në rrethana të tjera.

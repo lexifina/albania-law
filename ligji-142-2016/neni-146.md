@@ -1,0 +1,4 @@
+# Neni 146
+Leja për vendosjen në operim të mjeteve hekurudhore të transportit
+1. Para se të përdoret në rrjet, mjeti i transportit autorizohet që të futet në operim.
+2. Mjetit të transportit që futet në operim duhet t’i jepet autorizimi nga Autoriteti i Sigurisë Hekurudhore, kur të gjitha nënsistemet strukturore të mjetit të transportit janë të autorizuara për futje në operim pas procedurave të vlerësimit e të verifikimit, të paraqitura në standardet teknike të ndërveprimit. Autoriteti i Sigurisë Hekurudhore është përgjegjës për dhënien e autorizimit për futjen në operim të mjetit hekurudhor dhe për kontrollin e pajtueshmërisë teknike ndërmjet nënsistemeve të mjeteve të transportit dhe integrimit të sigurt të tyre, pajtueshmërisë teknike ndërmjet mjeteve të transportit dhe rrjetit dhe pajtueshmërisë teknike me rregullat e tjera kombëtare.

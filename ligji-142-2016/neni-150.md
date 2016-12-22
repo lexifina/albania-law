@@ -1,0 +1,5 @@
+# Neni 150
+Fusha e zbatimit
+1. Dispozitat e këtij kreu synojnë të përcaktojnë mënyrat e ndërhyrjes së autoritetit kompetent në sektorin e transportit hekurudhor publik të udhëtarëve, për të garantuar që ky shërbim me interes të përgjithshëm të ofrohet, midis të tjerash, me kapacitet sa më të lartë, të jetë sa më i sigurt, sa më cilësor ose i ofruar me çmime më të ulëta sesa ato të tregut të hapur.
+2. Për këtë qëllim, në këtë kre vendosen kushtet, sipas të cilave autoritetet kompetente, në rastet kur përcaktojnë apo kontraktojnë detyrime të shërbimeve publike, kompensojnë operatorët e shërbimit publik për kostot që përballohen prej tyre dhe/ose u japin atyre të drejta ekskluzive në këmbim të përmbushjes së detyrimeve për ofrimin e shërbimeve publike.
+3. Mekanizmat, që mund të përdorë autoriteti kompetent për të garantuar ofrimin e shërbimit publik të transportit hekurudhor të udhëtarëve, përfshijnë dhënien në favor të operatorëve të shërbimit publik të të drejtave ekskluzive ose të kompensimit financiar përkundrejt zbatimit nga ana e operatorëve të rregullave për kryerjen e shërbimeve të transportit publik.

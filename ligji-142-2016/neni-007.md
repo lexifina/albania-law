@@ -1,0 +1,4 @@
+# Neni 7
+Pavarësia e sipërmarrjeve hekurudhore dhe administruesve të infrastrukturës
+1. Sipërmarrësit hekurudhorë, në pronësi të drejtpërdrejtë ose të tërthortë apo të kontrolluar nga ministria përgjegjëse për veprimtarinë e transportit, për sa i përket drejtimit, administrimit dhe kontrollit të brendshëm mbi çështjet administrative, ekonomike dhe të kontabilitetit, kanë status të pavarur, në përputhje të të cilit ata mbajnë asetet e pronësisë, buxhetet dhe llogaritë, të ndara nga ato të ministrisë përgjegjëse për veprimtarinë e transportit.
+2. Duke respektuar rregullat mbi ndarjen e kapaciteteve infrastrukturore dhe formatin e pagesave për përdorimin e tyre, sipas rregullave specifike të vendosura nga ky Kod, administruesi i infrastrukturës është përgjegjës për drejtimin, administrimin dhe kontrollin e brendshëm të kësaj infrastrukture.

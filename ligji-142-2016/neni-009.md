@@ -1,0 +1,8 @@
+# Neni 9
+Ndarja e llogarive
+1. Sipërmarrësit hekurudhorë, që kryejnë njëkohësisht edhe administrimin e infrastrukturës, edhe operacionet e transportit, fitimet dhe humbjet i mbajnë në llogari të ndara dhe bilancet e tyre publikohen, përkatësisht, për biznesin në lidhje me ofrimin e shërbimeve të transportit, nga njëra anë, dhe për biznesin në lidhje me administrimin e infrastrukturës hekurudhore, nga ana tjetër.
+Fondet publike që përfitohen nga njëra prej dy fushave të veprimtarisë nuk transferohen në fushën tjetër.
+2. Zbatimi i pikës 1, të këtij neni, kërkon që një sipërmarrës hekurudhor, që disponon njëkohësisht infrastrukturën dhe shërbimet e transportit, t’i administrojë ato me njësi të ndara brenda së njëjtës sipërmarrje ose nga njësi krejt të veçanta.
+3. Sipërmarrësit hekurudhorë, që kryejnë vetëm transportin hekurudhor, fitimet dhe humbjet, llogaritë e ndara dhe bilancet i mbajnë dhe i publikojnë të ndara, ato për ofrimin e shërbimeve të transportit hekurudhor të mallrave nga ato që ofrojnë shërbimin e transportit të udhëtarëve.
+Fondet publike të dhëna për aktivitetet që lidhen me ofrimin e shërbimeve të transportit si shërbim publik nuk transferohen në aktivitetet që lidhen me sigurimin e shërbimeve të tjera të transportit apo ndonjë biznesi tjetër.
+4. Llogaritë për fusha të ndryshme të aktivitetit, të përmendura në pikat 1 dhe 3, të këtij neni, mbahen të ndara në mënyrë që të lejohet kontrolli i tyre dhe ndalimi i transferimit të fondeve publike të paguara për njërën nga fushat e veprimtarisë në tjetrën, si dhe kontrolli i përdorimit të të ardhurave nga tarifat e përdorimit të infrastrukturës dhe tepricat nga aktivitetet e tjera tregtare.

@@ -1,0 +1,5 @@
+# Neni 105
+Rregullimi ligjor i transportit të mallrave
+1. Detyrimet e ndërsjella të sipërmarrësve hekurudhorë, të nisësve dhe pritësve të mallrave përcaktohen në kontratën e transportit, e cila hartohet në përputhje me dispozitat e këtij Kodi dhe legjislacionit në fuqi.
+2. Kushtet e realizimit të transportit hekurudhor të mallrave, përcaktimi i dispozitave specifike për kontratën e transportit hekurudhor të mallrave, përfundimi dhe realizimi i kontratës së transportit të mallrave, përcaktimi i përgjegjësive të sipërmarrësit hekurudhor në raste të ndryshme të mosrealizimit të kontratës apo të humbjes dhe të dëmtimit të mallrave, si dhe përgjegjësitë e aktorëve që marrin pjesë në transport, që nga ngarkimi i mallit e deri në dorëzimin e tij, rregullohen nga dispozitat e këtij Kodi dhe, për çështje që nuk gjejnë rregullim në të, nga dispozitat përkatëse të Kodit Civil.
+3. Ministri përgjegjës për transportet nxjerr akte nënligjore për transportin e mallrave të rrezikshme, në përputhje me legjislacionin në fuqi për klasifikimin, ruajtjen, ambalazhimin, si dhe importin dhe eksportin e tyre.

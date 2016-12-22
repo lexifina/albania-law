@@ -1,0 +1,4 @@
+# Neni 89
+Kushtet dhe detyrimet e sipërmarrësit hekurudhor
+1. Sipërmarrësit hekurudhorë, të autorizuar dhe që marrin përsipër transportin e udhëtarëve dhe të bagazheve, janë të detyruar që t’u sigurojnë atyre të gjitha kushtet e nevojshme, para dhe gjatë udhëtimit, si dhe të sigurojnë ruajtjen e trajtimin e bagazheve.
+2. Kushtet e realizimit të transportit hekurudhor të udhëtarëve e të bagazheve, përcaktimi i dispozitave specifike për kontratën e transportit, përfundimi dhe realizimi i kontratës së transportit, përcaktimi i përgjegjësive të transportuesit në raste të ndryshme të mosrealizimit të kontratës apo të humbjes e të dëmtimit të bagazheve, dhe përgjegjësitë e udhëtarit, rregullohen nga dispozitat e këtij Kodi dhe, për çështje që nuk gjejnë rregullim në të, nga dispozitat përkatëse të Kodit Civil.

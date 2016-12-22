@@ -1,0 +1,3 @@
+# Neni 69
+Detyrat
+Autoriteti i Sigurisë Hekurudhore krijohet me ligj si organi përgjegjës për të siguruar që niveli i sigurisë hekurudhore mbahet dhe përmirësohet vazhdimisht. Autoriteti i Sigurisë Hekurudhore zotëron kapacitetin e nevojshëm organizativ për sa u përket burimeve njerëzore dhe materiale. Autoriteti i Sigurisë Hekurudhore është i pavarur në drejtim të organizimit, strukturës ligjore, administrimit, kryerjes së detyrave dhe në vendimmarrje nga çdo sipërmarrje hekurudhore, administrues i infrastrukturës, aplikues apo ente të prokurimit, subjekte aplikuese ose kontraktuese, si dhe nga çdo subjekt që jep kontrata të shërbimit publik.

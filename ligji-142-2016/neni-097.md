@@ -1,0 +1,7 @@
+# Neni 97
+E drejta për transport e personave me aftësi të kufizuara dhe e personave me lëvizshmëri të reduktuar
+1. Sipërmarrësit hekurudhorë dhe administruesit e stacioneve hartojnë dhe zbatojnë rregulla për pjesëmarrjen jodiskriminuese në transport të personave me aftësi të kufizuara dhe të personave me lëvizshmëri të reduktuar, në konsultim me organizatat që i përfaqësojnë ata.
+2. Sipërmarrësi hekurudhor dhe shitësi i biletave nuk mund të refuzojnë rezervimin ose shitjen e një bilete për një person me aftësi të kufizuar ose një personi me lëvizshmëri të reduktuar. Në varësi të kushteve specifike, ata mund të kërkojnë që një person i tillë të shoqërohet nga një person tjetër.
+3. Me kërkesë, një sipërmarrës hekurudhor apo një shitës biletash duhet t’u sigurojë personave me aftësi të kufizuara dhe personave me lëvizshmëri të reduktuar informacion për mundësinë e shërbimeve hekurudhore dhe kushtet e hyrjes në mjetet lëvizëse.
+4. Kur një sipërmarrës hekurudhor ose shitës i biletave nuk mund të zbatojë rregullat e parashikuara në këtë nen, ata duhet të informojnë me shkrim personin me aftësi të kufizuar apo personin me lëvizshmëri të reduktuar për arsyet në fjalë, brenda pesë ditëve pune nga refuzimi për të bërë rezervimin ose për të dhënë biletën ose imponimi për të qenë i shoqëruar.
+5. Pa prekur rregullat që i referohen këtij neni, sipërmarrësit hekurudhorë duhet t’u sigurojnë personave me aftësi të kufizuara dhe personave me lëvizshmëri të reduktuar ndihmë falas në stacionet hekurudhore dhe në bordin e një treni, gjatë hipjes dhe zbritjes nga treni.

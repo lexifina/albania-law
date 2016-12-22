@@ -1,0 +1,7 @@
+# Neni 67
+Kërkesat e aplikimit që kanë të bëjnë me certifikimin e sigurisë dhe autorizimin
+e sigurisë
+1. Autoriteti i Sigurisë Hekurudhore merr vendim për aplikimin për certifikatën e sigurisë ose autorizimin e sigurisë pa vonesë dhe në çdo rast jo më shumë se katër muaj pasi është dorëzuar i gjithë informacioni i nevojshëm dhe çdo informacion shtesë i kërkuar nga Autoriteti i Sigurisë Hekurudhore. Nëse aplikuesit i kërkohet që të paraqesë informacion plotësues, ky informacion duhet të dorëzohet menjëherë.
+2. Për të lehtësuar krijimin e sipërmarrjeve të reja hekurudhore dhe dorëzimin e aplikimeve nga sipërmarrjet hekurudhore nga shtete të tjera, Autoriteti i Sigurisë Hekurudhore jep udhëzime të detajuara për mënyrën e marrjes së një certifikate të sigurisë. Ai duhet të listojë të gjitha kërkesat që janë të përcaktuara për qëllime të pikës 2, të nenit 65, të këtij Kodi, dhe të japë të gjitha dokumentet përkatëse në dispozicion të aplikuesit.
+Udhëzim i veçantë jepet për sipërmarrjet hekurudhore që aplikojnë për një certifikatë të sigurisë, në lidhje me shërbimet në një pjesë të caktuar të kufizuar të infrastrukturës, duke identifikuar veçanërisht rregullat që janë të vlefshme për pjesën e infrastrukturës në fjalë.
+3. Një dokument udhëzues me kërkesat për certifikatat e sigurisë dhe listën e dokumenteve që duhet të dorëzohen vihet në dispozicion të aplikuesve pa pagesë. Të gjitha aplikimet për certifikatat e sigurisë duhet të dorëzohen në gjuhën shqipe.

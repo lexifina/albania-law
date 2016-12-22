@@ -1,0 +1,6 @@
+# Neni 45
+Planifikimi i kapaciteteve
+1. Administruesi i infrastrukturës hekurudhore plotëson, për aq sa është e mundur, të gjitha kërkesat për kapacitetin e infrastrukturës, përfshirë kërkesat për itinerare që kalojnë mbi më shumë se një rrjet, duke marrë në konsideratë, për aq sa është e mundur, të gjitha kufizimet mbi aplikuesit, përfshirë efektin ekonomik në biznesin e tyre.
+2. Administruesi i infrastrukturës hekurudhore mund t’i japë përparësi për shërbime të veçanta, në kuadër të procesit të planifikimit dhe koordinimit vetëm në rastet që përcaktohen në nenet 47 dhe 49 të këtij Kodi.
+3. Administruesi i infrastrukturës hekurudhore konsultohet me palët e interesuara në lidhje me hartimin paraprak të orarit të punës, duke u dhënë atyre të paktën një muaj afat për të paraqitur pikëpamjet e tyre. Në palët e interesuara përfshihen të gjithë ata që kanë kërkuar kapacitetin infrastrukturor dhe palët e tjera, të cilat dëshirojnë të kenë mundësinë për të komentuar se si orari i punës mund të ndikojë në aftësinë e tyre për kryerjen e procedurave ligjore të shërbimeve hekurudhore gjatë periudhës së orarit të punës.
+Administruesi i infrastrukturës hekurudhore ndërmerr masat e duhura për të trajtuar kërkesat e shprehura të palëve të interesuara mbi sa më lart.

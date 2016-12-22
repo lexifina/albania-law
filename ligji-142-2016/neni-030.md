@@ -1,0 +1,7 @@
+# Neni 30
+Përcaktimi dhe arkëtimi i tarifave
+1. Skema e tarifave të përdorimit të infrastrukturës hekurudhore, që zbatohet ndaj të gjithë kërkuesve të kapaciteteve infrastrukturore hekurudhore, përcaktohet dhe miratohet nga ministria përgjegjëse për transportin, në bashkëpunim me autoritetet kompetente në vend, brenda një afati kohor, sipas akteve ligjore dhe nënligjore në zbatim të këtij Kodi. Skema dhe rregullat e tarifave publikohen në “Deklaratën e rrjetit”, si dhe në faqen zyrtare të internetit të administruesve të infrastrukturës hekurudhore.
+2. Në skemën e tarifave, hartuar sipas dispozitave në zbatim të këtij Kodi, administruesi i infrastrukturës hekurudhore përcakton dhe arkëton tarifat përkatëse për përdorimin e infrastrukturës hekurudhore.
+3. Administruesi i infrastrukturës hekurudhore garanton zbatimin e skemës së tarifimit mbi të njëjtat parime në të gjithë rrjetin që administron, përveç rasteve të trajtuara nga neni 33 i këtij Kodi.
+4. Administruesi i infrastrukturës hekurudhore zbaton të njëjtën skemë tarifuese për shërbime apo përdorime të segmenteve të njëjta për sipërmarrës të ndryshëm hekurudhorë që kryejnë aktivitete tregtare të ngjashme dhe tarifat që zbatohen përputhen me rregullat e vendosura në “Deklaratën e rrjetit”.
+5. Administruesi i infrastrukturës hekurudhore respekton fshehtësinë e informacionit tregtar të vënë në dispozicion nga kërkuesit e kapaciteteve infrastrukturore hekurudhore.

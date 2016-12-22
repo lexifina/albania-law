@@ -1,0 +1,4 @@
+KREU II
+LICENCIMI I SIPËRMARRËSIT HEKURUDHOR
+Seksioni 1
+Autoriteti licencues

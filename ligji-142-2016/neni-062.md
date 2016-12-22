@@ -1,0 +1,11 @@
+# Neni 62
+Rregullat kombëtare të sigurisë në hekurudhë
+1. Autoriteti i Sigurisë Hekurudhore harton në gjuhë të qartë dhe publikon rregullat e detyrueshme të sigurisë kombëtare në hekurudhë, të cilat miratohen nga ministria përgjegjëse për transportet.
+2. Rregullat kombëtare të sigurisë, të miratuara, vihen në dispozicion për të gjithë administruesit e infrastrukturës, sipërmarrësit hekurudhorë, aplikuesit për certifikatën e sigurisë dhe për autorizimin e sigurisë, në të paktën dy gjuhë në faqen zyrtare të Autoritetit të Sigurisë Hekurudhore.
+3. Ministria përgjegjëse për transportet publikon rregullat kombëtare të detyrueshme të sigurisë me propozimin e Autoritetit të Sigurisë Hekurudhore dhe nën mbikëqyrjen e tij. Këto rregulla publikohen në gjuhën shqipe dhe angleze dhe vihen në dispozicion të administruesve të infrastrukturës dhe të sipërmarrjeve hekurudhore, aplikuesve për certifikatën e sigurisë dhe autorizimin e sigurisë në një gjuhë të qartë për palët e përfshira. Këto rregulla kombëtare të sigurisë vihen në dispozicion në faqen e internetit të Autoritetit të Sigurisë Hekurudhore.
+4. Rregullat kombëtare të sigurisë për sektorin hekurudhor në Shqipëri miratohen me akt nënligjor nga ministri përgjegjës për transportet. Autoriteti i Sigurisë Hekurudhore njofton Agjencinë për rregullat kombëtare të sigurisë ekzistuese, të reja dhe ato të shfuqizuara. Autoriteti i Sigurisë Hekurudhore mund të përcaktojë rregulla të reja kombëtare vetëm në rastet e mëposhtme:
+a) nëse rregullat në lidhje me metodat ekzistuese të sigurisë nuk mbulohen nga një metodë e përbashkët e sigurisë (CSM);
+b) nëse rregullat operative të rrjetit hekurudhor nuk janë mbuluar ende nga kushtet teknike të ndërveprimit (TSI);
+c) si një masë urgjente parandaluese, në veçanti pas një aksidenti ose incidenti;
+ç) nëse një rregull kombëtar i sigurisë, tashmë i njoftuar, duhet të rishikohet. Nëse rregullat në lidhje me kërkesat për personelin që kryen detyra kritike të sigurisë hekurudhore, përfshirë kriteret e përzgjedhjes, gjendjen fizike dhe psikologjike dhe trajnimin profesional, nuk janë mbuluar ende nga kushtet teknike të ndërveprimit (TSI).
+5. Ministria përgjegjëse për transportet konsultohet me të gjitha palët e interesit nëse kërkon që të paraqesë rregullat kombëtare të sigurisë në nivel më të lartë sesa objektivat e përbashkët të sigurisë (CST).
