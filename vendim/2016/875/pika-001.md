@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është të përcaktojë kriteret për tregtimin e farave të bimëve vajore dhe librore, kategoritë, identitetin dhe cilësinë e tyre, rregullat e paketimit e të etiketimit, procedurën e certifikimit, kriteret e ruajtjes, të marrjes së mostrave për analiza laboratorike për certifikim me qëllim vendosjen e tyre në treg.
