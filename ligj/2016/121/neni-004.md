@@ -1,0 +1,15 @@
+# Neni 4
+Parimet
+Shërbimet shoqërore administrohen në bazë të parimeve universale në fushën e mbrojtjes së të drejtave të njeriut dhe në mënyrë të veçantë në bazë të këtyre parimeve themelore:
+a) Parimi i universalitetit. Shërbimet e kujdesit shoqëror janë krijuar, funksionojnë dhe mbikëqyren bazuar në një sistem rregullash ligjore që ofrojnë garanci të mjaftueshme për t’u zbatuar në mënyrë të njëjtë për përfituesit që ndodhen në të njëjtat kushte.
+b) Parimi i drejtësisë sociale. Çdokush ka detyrim të sigurojë kushtet bazë të jetesës për veten dhe personat, për të cilët ka detyrim ligjor t’i mbështesë dhe çdokush ka detyrim të kontribuojë me punën, të ardhurat dhe pasuritë e tij/saj për reduktimin e gjendjes së varfërisë së tij/saj apo të anëtarëve të familjes, veçanërisht fëmijëve dhe anëtarëve të tjerë që nuk janë në gjendje të kujdesen për veten e tyre.
+c) Parimi i subsidiaritetit. Shërbimet e kujdesit shoqëror ofrohen sa më pranë qytetarëve dhe për sa është e mundur nga strukturat vendore.
+ç) Parimi i mbështetjes shoqërore. Subjektet, të cilat përmbushin kushtet për të përfituar nga shërbimet e kujdesit shoqëror, kanë të drejtën e përdorimit të tyre në mënyrën e përcaktuar me ligj dhe për aq kohë sa janë në kushtet e vështirësisë e të pamundësisë.
+d) Parimi i deinstitucionalizimit. Shërbimet e kujdesit shoqëror sigurohen dhe ofrohen, për aq sa është e mundur, pranë familjes ose komunitetit të përfituesit të shërbimit, me qëllim sigurimin e mirëqenies shoqërore dhe përdorimin me efikasitet të fondeve.
+dh) Parimi i partneritetit. Funksionimi i sistemit të shërbimeve shoqërore bazohet në një bashkëpunim të ngushtë midis qeverisjes qendrore dhe vendore, si financues kryesorë të shërbimeve shoqërore me organizatat jofitimprurëse dhe subjektet e tjera jopublike, që kanë në objekt të veprimtarisë së tyre ofrimin e shërbimeve shoqërore për individët dhe familjet që kanë nevojë për kujdes shoqëror.
+e) Parimi i respektimit të të drejtave të njeriut dhe integritetit të përfituesit. Ofrimi i shërbimeve të kujdesit shoqëror bazohet në respektimin e të drejtave të njeriut, integritetit të individit, besimit fetar dhe formimin e gjithanshëm të tij.
+ë) Parimi i mosdiskriminimit. Ndalohet çdo formë e diskriminimit të përfituesit të shërbimeve të kujdesit shoqëror, bazuar në shkaqet e përmendura në legjislacionin në fuqi për mbrojtjen nga diskriminimi.
+f) Parimi i konfidencialitetit dhe mbrojtjes së të dhënave personale. Të dhënat personale të individit, që trajtohet me shërbime të kujdesit shoqëror, janë konfidenciale dhe mbrohen e përpunohen sipas ligjit në fuqi për mbrojtjen e të dhënave personale. Punonjësi social, si dhe çdo person tjetër i angazhuar në ofrimin e shërbimeve të kujdesit shoqëror ruan konfidencialitetin e të dhënave personale të individit, subjekt të këtij ligji, për të cilat ka marrë dijeni si pasojë e funksionit apo detyrës që kryen. Detyrimi për ruajtjen e konfidencialitetit shtrihet edhe pas përfundimit të marrëdhënies së punës, funksionit apo detyrës.
+PJESA E DYTË
+KATEGORITË E SUBJEKTEVE PËRFITUESE DHE LLOJET
+E SHËRBIMEVE TË KUJDESIT SHOQËROR

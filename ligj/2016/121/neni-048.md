@@ -1,0 +1,5 @@
+# Neni 48
+Fondet e financimit
+1. Në lidhje me financimin e shërbimeve të kujdesit shoqëror nga Buxheti i Shtetit, ministria përgjegjëse për çështjet sociale parashikon në buxhetin e vet fonde për financimin e shërbimeve të kujdesit shoqëror, të cilat u transferohen njësive të qeverisjes vendore ku funksionojnë këto shërbime të kujdesit shoqëror. Në këtë rast, ministri përgjegjës për çështjet sociale shpërndan dhe transferon në fillim të vitit, në buxhetin e njësive të qeverisjes vendore, fondin social dhe transferta të tjera për çdo shërbim të kujdesit shoqëror, duke marrë parasysh kriterin e nevojës më të madhe dhe prioriteteve të çdo njësie të qeverisjes vendore në ofrimin e këtyre shërbimeve.
+2. Metodologjia e llogaritjes së fondeve për financimin e shërbimeve të kujdesit shoqëror përcaktohet nga ministria përgjegjëse për çështjet sociale në bashkëpunim me Ministrinë e Financave dhe miratohet me vendim të Këshillit të Ministrave.
+3. Fondet nga Buxheti i Shtetit për financimin e shërbimeve të kujdesit shoqëror përcaktohen në përputhje me vlerësimin e nevojave dhe me mundësitë e Buxhetit të Shtetit.
