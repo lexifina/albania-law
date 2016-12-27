@@ -1,0 +1,2 @@
+Miratimin e kontratës së koncesionit “Për ndërtimin, përmirësimin, shfrytëzimin dhe mirë-mbajtjen e autostradës Milot-Morinë”, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Transportit dhe Infrastrukturës, dhe Konsorciumit “Catalyst Viva Das General Contracting LLC - Salillari sh.p.k. - Bee Tech - Violiap Ateve - Kastrati sh.a.”.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
