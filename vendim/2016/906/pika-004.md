@@ -1,0 +1,1 @@
+4. Bashkia Ura Vajgurore dhe shoqëria “Salillari” sh.p.k. të nënshkruajnë marrëveshje të përbashkët për hapat, afatet dhe procedurat për hartimin dhe realizimin e projekteve teknike lidhur me detyrimet sipas pikës 3, të këtij vendimi.

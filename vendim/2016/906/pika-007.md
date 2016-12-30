@@ -1,0 +1,1 @@
+7. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit të sipërfaqes, sipas lejes mjedisore, nga shoqëria “Salillari” sh.p.k., sipërfaqja e rehabilituar të regjistrohet fond pyjor dhe kullosor.
