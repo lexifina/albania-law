@@ -1,0 +1,2 @@
+11. Ngarkohen Ministria e Transportit dhe Infrastrukturës, Ministria e Financave, Drejtoria e Përgjithshme e Ujësjellës-Kanalizimeve, Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme, Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Kavajë, Drejtoria e Administrimit dhe Mbrojtjes së Tokës dhe Këshilli i Qarkut Tiranë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
