@@ -1,0 +1,1 @@
+1. Funksionet korresponduese për çdo gradë, sipas ligjit nr. 152/2015, “Për shërbimin e mbrojtjes nga zjarri dhe shpëtimin”, si dhe ekuivalentimi i tyre me gradat e marra sipas ligjit nr. 8643, datë 20.7.2000, “Për gradat në Policinë e Shtetit”, përcaktohen në lidhjen nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

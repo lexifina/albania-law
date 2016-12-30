@@ -1,0 +1,1 @@
+5. Punonjësi i shërbimit të MZSH-së merr gradën e nivelit madhor, që i korrespondon funksionit të drejtorit të Përgjithshëm të MZSH-së, vetëm nëse në momentin e hyrjes në fuqi të këtij vendimi ka vjetërsi shërbimi në strukturat e mbrojtjes nga zjarri dhe shpëtimin, jo më pak se 14 vjet.

@@ -1,0 +1,1 @@
+6. Punonjësi i shërbimit të MZSH-së, që nuk plotëson kriteret e vjetërsisë së shërbimit sipas përcaktimeve të bëra në këtë vendim, trajtohet me gradën paraardhëse për nivelin përkatës, për efekt të zbatimit të këtij vendimi.

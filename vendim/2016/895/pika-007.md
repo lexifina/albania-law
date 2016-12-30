@@ -1,0 +1,1 @@
+7. Pas kalimit në sistemin e ri të gradave, fitimi dhe ngritja në gradën pasardhëse bëhen sipas afateve dhe kritereve të përcaktuara në nenet 25 dhe 26, të ligjit nr.152/2015, “Për Shërbimin e Mbrojtjes nga Zjarri dhe Shpëtimin”.

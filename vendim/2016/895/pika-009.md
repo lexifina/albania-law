@@ -1,0 +1,1 @@
+9. Vendimi nr. 64, datë 2.2.2001, i Këshillit të Ministrave, “Për inkuadrimin e gradave ushtarake në gradat e Policisë së Shtetit dhe për përcaktimin e funksioneve, që do të ushtrohen sipas tyre”, i ndryshuar, nuk zbatohet për punonjësit e Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin.
