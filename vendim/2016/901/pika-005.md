@@ -1,0 +1,1 @@
+5. Në mbledhjet e Komisionit Ndërinstitucional për identifikimin e pronës shtetërore, mund të ftohen të marrin pjesë përfaqësues të organeve të qeverisjes vendore dhe institucioneve të tjera të interesuara, kur çmohet se pjesëmarrja e tyre është e vlefshme për përmbushjen e detyrimeve të Komisionit.

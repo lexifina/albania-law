@@ -1,0 +1,1 @@
+6. Kryetari i Komisionit Ndërinstitucional për identifikimin e pronës shtetërore, i raporton Kryeministrit për ecurinë e realizimit të punës së Komisionit të ngritur, problematikat e hasura, masat e ndërmarra dhe rezultatet konkrete të arritura.
