@@ -1,1 +1,1 @@
-6. Shpronësimi të fillojë më 21.4.2014.
+6. Likuidimi i pronarëve të fillojë pas çeljes së fondit të përcaktuar në pikën 5, të këtij vendimi.

@@ -1,1 +1,1 @@
-4. Shpenzimet procedurale, në vlerën 197 000 (njëqind e nëntëdhjetë e shtatë mijë) lekë, të përballohen nga Drejtoria e Përgjithshme e Ujësjellës-Kanalizimeve.
+4. Shpenzimet procedurale, në vlerën 80 000 (tetëdhjetë mijë) lekë, të përballohen nga Drejtoria e Përgjithshme e Ujësjellës-Kanalizimeve.
