@@ -1,0 +1,2 @@
+Dhënien e shtesës së pensionit të posaçëm shtetëror Dom Ernest Simoni Troshani, në masën e katërfishit të pensionit social, por shuma e pensionit, që i takon sipas ligjit nr. 7703, datë 11.5.1993, plus këtë shtesë, të mos kalojë tetëfishin e pensionit social.
+Ky vendim hyn në fuqi menjëherë.
