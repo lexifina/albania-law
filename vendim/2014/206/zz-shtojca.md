@@ -6,27 +6,37 @@ SEKTORI I SHPRONËSIMEVE
 FURNIZIMI ME UJË I PLAZHEVE DURRËS-KAVAJË(NGA PUSSHPIMET E CERMËS, DEGËZIMI NË KAVAJË
 DERI NË DEPON E RE ARAPAJ, LOTI III)
 Nr.
-Nr. i pas
-ARË
+Emri
+Mbiemri
+Z.K.
+Nr. i pasurisë
+Arë
+Vlera
+totale (lekë)
 Shënime
+sip.shp.(m2)
+çmimi (lekë/m2)
+vlera (lekë)
 1
 Sabri
 Kacmolli
 1031
 119/11
-3701
+2229
 339
-1254605
-Konfirmuar nga ZRPP-ja
+755631
+755631
+Konfirmuar nga ZVRPP-ja
 2
 Ramazan
 Kacmolli
 1031
 119/14
-1781
+2774.5
 339
-603623
-Konfirmuar nga ZRPP-ja
-SHUMA
-5482
-1858229
+940555.5
+940555.5
+Konfirmuar nga ZVRPP-ja
+Shuma:
+5003.5
+1696186.5
