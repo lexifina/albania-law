@@ -1,0 +1,1 @@
+1. Fondi për investime për funksionin e rrugëve rurale, miratuar me aktin normativ nr.2, në shumën 1 999 217 537 (një miliardë e nëntëqind e nëntëdhjetë e nëntë milionë e dyqind e shtatëmbëdhjetë mijë e pesëqind e tridhjetë e shtatë) lekë, ndahet ndërmjet bashkive, sipas tabelës 1, që i bashkëlidhet këtij vendimi.
