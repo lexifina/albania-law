@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Për ndërtimin dhe administrimin e impiantit të përpunimit të mbetjeve urbane të Qarkut Fier dhe prodhimin e energjisë” sipas listës që i bashkëlidhet këtij vendimi.
