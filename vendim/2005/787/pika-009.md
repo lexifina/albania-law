@@ -1,1 +1,0 @@
-9. Administratorët shoqërorë janë të detyruar që dokumentacionin e përcaktuar në shkronjat “c”, “d” e “e” të pikës 2 të këtij vendimi, ta ruajnë për të gjithë periudhën, gjatë së cilës familja përfiton ndihmë ekonomike.

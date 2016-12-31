@@ -1,1 +1,0 @@
-27. Nuk përfshihen në punë komunitare personat me aftësi të kufizuar, të përhershme apo dhe të përkohshme, si dhe ato mbi moshë pune, të cilët nuk kanë mundësi për të kontribuar në këto punë e shërbime në komunitet. Në këtë rast familjet e tyre vazhdojnë të përfitojnë ndihmë ekonomike, e cila llogaritet sipas pikës 18 të këtij vendimi.

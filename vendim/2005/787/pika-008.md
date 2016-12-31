@@ -1,1 +1,0 @@
-8. Familjet e invalidëve të punës, përveç dokumenteve të përcaktuara në pikën 2, të këtij vendimi, duhet të paraqesin edhe kopjen e noterizuar të vërtetimit të Komisionit Mjekësor të Caktimit të Aftësisë për Punë.

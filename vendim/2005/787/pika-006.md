@@ -1,1 +1,0 @@
-6. Për kushte të veçanta social-ekonomike dhe shëndetësore të familjes, administratorët shoqërorë duhet të kërkojnë edhe dokumente shtesë, si vërtetimin për frekuentimin e shkollës, vendimin e gjykatës, raportin mjekësor etj.

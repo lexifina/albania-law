@@ -1,1 +1,0 @@
-20. Masa e ndihmës ekonomike për prindërit e çdo fëmije, të lindur trinjak apo më shumë, është 3000 (tre mijë) lekë në muaj. Kjo ndihmë ekonomike përfitohet deri në mbarimin e arsimit të detyrueshëm, por jo më shumë se 18 vjeç.

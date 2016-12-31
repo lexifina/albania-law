@@ -1,1 +1,0 @@
-36. Fondet e ndihmës ekonomike nga Buxheti i Shtetit përdoren vetëm për programin e ndihmës ekonomike. Këto fonde nuk përdoren për pagesën e sigurimeve shoqërore dhe të detyrimeve të tjera në rastet e aplikimit të projekteve të kushtëzimit të ndihmës ekonomike me kohë të plotë.

@@ -1,1 +1,0 @@
-7. Jetimët e moshës 18-25 vjeç, që janë të papunë, përveç dokumenteve të përcaktuara në pikën 2 të këtij vendimi, duhet të paraqesin edhe kopjen e noterizuar për statusin e jetimit, sipas kërkesave të parashikuara në ligjin nr.8153, datë 31.10.1996 “Për statusin e jetimit”, të ndryshuar.
