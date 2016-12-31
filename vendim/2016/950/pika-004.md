@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “arë” dhe “pyll”, prej 780 560 (shtatëqind e tetëdhjetë mijë e pesëqind e gjashtëdhjetë) lekësh, do të përballohet nga fondi i shpronësimeve, në llogarinë e shpronësimeve në Bankën e Shqipërisë.
