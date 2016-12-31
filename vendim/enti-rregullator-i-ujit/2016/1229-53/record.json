@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56631,
+  "title": "MBI TARIFAT E UJIT PËR KONSUM PUBLIK PËR SHOQËRINË\nUK ELBASAN (QYTET) SHA",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "53",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2016-12-29",
+  "published": "2016-12-31",
+  "in_force": "2016-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a02ec6ce57a3e659994e165b40b85eb14f31b9c37cbaf64875bbc89bfbbc4a20.docx",
+  "source_sha256": "a02ec6ce57a3e659994e165b40b85eb14f31b9c37cbaf64875bbc89bfbbc4a20",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56631",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2016/12/29/53",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
