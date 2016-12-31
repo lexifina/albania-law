@@ -1,0 +1,1 @@
+2. Kompetencat e Titullarit të Autoritetit Kontraktor, të Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, do të ushtrohen nga Sektretari i Përgjithshëm nga data 13.12.2016 deri më 31.12.2017.
