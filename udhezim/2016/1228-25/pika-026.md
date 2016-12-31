@@ -1,0 +1,1 @@
+26. Fondet e investimeve, të akorduara për njësitë e qeverisjes së përgjithshme, me vendime të Komitetit të Zhvillimit të Rajoneve, nga Fondi për Zhvillimin e Rajoneve, shtylla II, programi “Shqipëria Digjitale”, që rezultojnë të papërdorura në fund të vitit 2016, do të mbarten në vitin e ardhshëm në të njëjtën strukturë buxhetore, pas rakordimeve përkatëse të degës së thesarit.

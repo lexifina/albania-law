@@ -1,0 +1,1 @@
+8. Sistemimet që nuk kanë ndikim në balancën e llogarisë unike të thesarit, do të kryen në SIFQ nga vetë degët e thesarit dhe degët e bankave të nivelit të dytë, pa konfirmim nga strukturat e thesarit në qendër.

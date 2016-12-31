@@ -1,0 +1,1 @@
+29. Njësitë e qeverisjes qendrore në hartimin e raporteve të monitorimit për vitin 2016 duhet të mbajnë parasysh udhëzimin nr. 22, date 17.11.2016 “Për procedurat standarde të monitorimit të buxhetit në njësitë e qeverisjes qendrore”.

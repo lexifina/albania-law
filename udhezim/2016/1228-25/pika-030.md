@@ -1,0 +1,1 @@
+30. Procesi i regjistrimit në SIFQ dhe rakordimit me kreditorët për financimet e huaja midis strukturave përgjegjëse të thesarit, borxhit dhe njësive të qeverisjes së përgjithshme duhet të përfundojë brenda datës 10.2.2017.

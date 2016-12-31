@@ -1,0 +1,1 @@
+22. Njësitë e projekteve me financime të huaja, ISSH dhe FSDKSH dorëzojnë raportin përfundimtar të të ardhurave e shpenzimeve në strukturat përgjegjëse për borxhin dhe thesarin pranë Ministrisë së Financave brenda dates 16.1.2017.

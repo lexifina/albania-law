@@ -1,0 +1,1 @@
+14. Llogaria “Depozita e Qeverisë” dhe të gjitha llogaritë speciale të Ministrit të Financave në Bankën e Shqipërisë në datën e parë të punës të muajit janar të vitit 2017 (4.1.2017) do të mbartin tepricën e mbylljes së këtyre llogarive më datën 31.12.2016.

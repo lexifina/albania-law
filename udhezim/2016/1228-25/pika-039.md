@@ -1,0 +1,1 @@
+39. Do të aplikohen gjoba nga 1-3 rroga mujore deri në largim nga puna mbi të gjithë specialistët e degëve të thesarit që regjistrojnë fatura me datë përpara datës së paraqitjes së tyre në thesar, apo pa respektuar radhën kronologjike të paraqitjes së faturave nga institucionet në thesar, pasi shkaktojnë artificialisht krijimin e detyrimeve të prapambetura në sistem.
