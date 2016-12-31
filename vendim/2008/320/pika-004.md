@@ -1,1 +1,0 @@
-4. Kostoja financiare e sistemit të identifikimit të kafshëve dhe të regjistrimit të fermave blegtorale, për pagesën e bazës materiale dhe për shërbimin e kryer nga operatorët privatë mbulohet nga buxheti i këtij viti, miratuar për këtë qëllim, për Ministrinë e Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.

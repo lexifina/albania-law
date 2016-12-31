@@ -1,1 +1,0 @@
-6. Fondi kundërparti, i krijuar deri në fund të vitit 2007 “Për sistemin e identifikimit të kafshëve dhe të regjistrimit të fermave blegtorale”, të përdoret për blerjen, në vazhdimësi, të materialeve për sistemin e identifikimit të kafshëve dhe për regjistrimin e fermave blegtorale, sipas udhëzimit përkatës të Ministrit të Bujqësisë, Ushqimit dhe Mbrojtjes së Konsumatorit.
