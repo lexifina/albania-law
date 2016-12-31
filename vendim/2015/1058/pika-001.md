@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik “Mbi emrat e fibrave tekstile dhe etiketimi e markimi përkatës i përbërjes së fibrave të produkteve tekstile”, sipas tekstit bashkëlidhur, që është pjesë e këtij vendimi.
