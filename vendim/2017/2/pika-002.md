@@ -1,0 +1,1 @@
+2. Për shkak të mbylljes së çerdheve dhe institucioneve arsimore, në vijim të masave parandaluese të Ministrisë së Shëndetësisë, si pasojë e motit të ftohtë, jo të zakonshëm, që pritet të vijë dhe të gjendjes gripale në vend, iu bëjmë thirrje të gjithë punëdhënësve privatë që të gjejnë mundësitë për trajtimin me pushim të punëmarrësve të tyre, sipas pikës 1, të këtij vendimi.

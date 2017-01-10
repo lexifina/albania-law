@@ -1,0 +1,1 @@
+1. Caktimin e datave 9 deri 13 janar 2017, ditë pushimi për njërin nga prindërit kujdestarë të fëmijëve, që frekuentojnë/ndjekin ose jo çerdhet, arsimin parashkollor dhe arsimin fillor, që janë nëpunës civilë dhe punonjës të tjerë të administratës publike, të nivelit qendror dhe vendor, si dhe në institucionet e tjera shtetërore.
