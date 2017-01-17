@@ -1,0 +1,2 @@
+24. Veprimet juridiko-civile të ndërtuesit (aplikues për legalizim), të kryera pas hyrjes në fuqi të këtij vendimi, për kalimin e të drejtave mbi objektin që legalizohet sipas këtij kreu apo mbi njësitë individuale, nuk merren parasysh nga drejtoritë e ALUIZNI-t. Përjashtim nga ky rregull bëjnë rastet kur procedurat e legalizimit kryhen për poseduesit e njësive individuale.
+IV. DISPOZITA TË FUNDIT

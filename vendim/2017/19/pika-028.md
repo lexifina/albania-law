@@ -1,0 +1,1 @@
+28. Në fund të pikës 11, të vendimit nr. 465, datë 22.6.2016, të Këshillit të Ministrave, “Për përcaktimin e procedurave dhe rregullave për kalimin e së drejtës së pronësisë mbi parcelën ndërtimore të objekteve informale”, shtohen fjalët “… ose kur gjendja juridike e pronësisë së sheshit të ndërtimit ka ndryshuar.”.

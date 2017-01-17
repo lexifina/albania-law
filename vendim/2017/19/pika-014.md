@@ -1,0 +1,1 @@
+14. Për pagesën e tarifës së shërbimit nga poseduesit zbatohen pikat 2 deri në 4/1, të vendimit nr. 860, datë 10.12.2014, të Këshillit të Ministrave, “Për përcaktimin e mënyrës së mbledhjes dhe administrimit të të ardhurave për ndërtimet pa leje dhe vlerave të zbatueshme për legalizim”, të ndryshuar.

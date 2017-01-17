@@ -1,0 +1,1 @@
+20. Evidentimi i objekteve shumëkatëshe (mbi 5 kate), të ngritura pa leje ndërtimi të organeve kompetente, për qëllim shitblerjeje apo qiradhënieje të njësive individuale të banimit apo shërbimit, kryhet nga drejtoritë e ALUIZNI-t, nëpërmjet bashkërendimit dhe shkëmbimit të informacionit me njësitë e qeverisjes vendore si dhe nëpërmjet procedurave të evidentimit në terren.

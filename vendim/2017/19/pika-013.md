@@ -1,0 +1,1 @@
+13. Akti për qëndrueshmërinë konstruktive të objektit në tërësi, sipas nenit 37, të ligjit nr. 9482, datë 3.4.2006, “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, të ndryshuar, depozitohet nga poseduesit e njësive individuale.

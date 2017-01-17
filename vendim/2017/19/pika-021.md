@@ -1,0 +1,4 @@
+21. Subjekti, që ka ngritur ndërtimin shumëkatësh pa leje me qëllim shitblerjeje dhe/ose qiradhënieje, paguan:
+a) taksën e ndikimit në infrastrukturë sipas ligjit për sistemin e taksave vendore. Procedura që ndiqet në zbatim të kësaj pike është ajo e përcaktuar në pikën 5, të vendimit nr. 860, datë 10.12.2014, të Këshillit të Ministrave, “Për përcaktimin e mënyrës së mbledhjes dhe administrimit të të ardhurave për ndërtimet pa leje dhe vlerave të zbatueshme për legalizim”, të ndryshuar.
+b) tarifën për legalizim, në po të njëjtën masë.
+Tarifa për legalizim paguhet nga subjekti që ka ngritur ndërtimin, pranë ALUIZNI-t, brenda 30 (tridhjetë) ditëve nga data e njoftimit me shkrim, duke ndjekur të njëjtën procedurë si në pikën 4/1, të vendimit nr. 860, datë 10.12.2014, të Këshillit të Ministrave, “Për përcaktimin e mënyrës së mbledhjes dhe administrimit të të ardhurave për ndërtimet pa leje dhe vlerave të zbatueshme për legalizim”, të ndryshuar.

@@ -1,0 +1,1 @@
+2. Kur plotësohen kushtet e pikës 1, të këtij vendimi, drejtoritë e ALUIZNI-t vijojnë legalizimin në favor të poseduesve të apartamenteve ose ambienteve me funksion social-ekonomik, në vijim të quajtura “njësi individuale”, sipas rregullave dhe procedurave të parashikuara në këtë vendim.
