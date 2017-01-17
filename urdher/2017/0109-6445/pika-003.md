@@ -1,0 +1,1 @@
+3. Urdhri nr. 8867/2, datë 28.12.2006, “Për miratimin e tarifave zyrtare që do të zbatohen nga Agjencia e Kthimit dhe Kompensimit të Pronave, për shërbimet e ofruara prej saj”, i ndryshuar, shfuqizohet.
