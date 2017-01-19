@@ -1,0 +1,1 @@
+2. Shoqëritë e licencuara për zhvillimin e lojërave të fatit, përpara se të shesin, të lënë peng, të dhurojnë, si dhe të disponojnë në çdo formë tjetër aksionet, asetet, pasuritë apo makinat duhet të marrin miratimin e AMLF-së.

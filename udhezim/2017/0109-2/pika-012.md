@@ -1,0 +1,1 @@
+12. Kërkesat për dhënien e miratimit pararaprak në rastin e shitjes, lënies peng, dhurimit dhe çdo forme tjetër të disponimit të aksioneve, aseteve, pasurisë apo makinave të organizatorit të lejuar për zhvillimin e lojërave të fatit paraqiten pranë Autoritetit të Mbikëqyrjes së Lojërave të Fatit.

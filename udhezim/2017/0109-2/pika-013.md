@@ -1,0 +1,1 @@
+13. AMLF merr në shqyrtim kërkesat dhe dokumentacionin e paraqitur nga organizatorët e lojërave të fatit brenda një afati prej 45 ditëve kalendarike nga data e paraqitjes së kërkesës për dhënien e miratimit.

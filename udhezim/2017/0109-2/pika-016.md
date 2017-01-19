@@ -1,0 +1,1 @@
+16. AMLF-ja, përveç dokumentacionit të paraqitur nga subjektet aplikuese për marrjen e miratimit, ka të drejtën e kryerjes së verifikimeve për vërtetësinë e këtyre dokumenteve. Në rastin e kryerjes së verifikimeve afati i përcaktuar në pikën 12 të këtij udhëzimi pezullohet deri në marrjen e konfirmimeve nga organet përgjegjëse.

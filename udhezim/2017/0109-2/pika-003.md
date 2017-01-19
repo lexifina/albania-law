@@ -1,0 +1,1 @@
+3. Identifikimi i aksioneve, aseteve, pasurive apo makinave të shoqërive të licencuara për zhvillimin e lojërave të fatit bëhet në përputhje me dokumentacionin që lëshohet nga organet kompetente për regjistrimin e aksioneve, pasurive dhe aseteve sipas parashikimeve të legjislacionit në fuqi.

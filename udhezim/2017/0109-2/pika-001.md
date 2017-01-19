@@ -1,0 +1,1 @@
+1. Ky udhëzim ka si qëllim përcaktimin e procedurave dhe dokumentacionit përkatës për miratimin nga Autoriteti i Mbikëqyrjes së Lojërave të Fatit (këtu e mëposhtë referuar si “AMLF”) të shitjes, lënies peng, dhurimit dhe çdo forme tjetër të disponimit të aksioneve, aseteve, pasurisë apo makinave të organizatorit të lejuar për zhvillimin e lojërave të fatit.

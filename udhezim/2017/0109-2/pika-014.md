@@ -1,0 +1,1 @@
+14. Në rast se AMLF konstaton mungesa apo pasaktësi në dokumentacionin e paraqitur njofton me shkrim aplikuesin duke i caktuar edhe afatin përkatës për plotësimin e dokumentacionit në përputhje me kërkesat e këtij udhëzimi.

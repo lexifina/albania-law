@@ -1,0 +1,9 @@
+6. Subjektet juridike, të cilëve i transferohen aksionet e shoqërive të licencuara në fushën e lojërave të fatit, nëpërmjet blerjes, dhurimit, lënies peng ose çdo forme tjetër disponimi duhet të paraqesin pranë AMLF-së dokumentacionin e mëposhtëm:
+a) certifikatën e regjistrimit me numrin unik të identifikimit të shoqërisë;
+b) statutin e shoqërisë dhe/ose aktin e themelimit;
+c) ekstrakt historik për të dhënat e subjektit lëshuar nga Qendra Kombëtare e Biznesit ku të vërtetohet se shoqëria është në status aktiv dhe nuk është në procedurë likuidimi dhe/ose falimentimi, si dhe nuk është i çregjistruar;
+d) deklaratat e burimit të kapitalit dhe shumave të tjera që do të investohen për ushtrimin e veprimtarisë në fushën e lojërave të fatit në rastet e transferimit të aksioneve nëpërmjet shitblerjes;
+e) dokumentacion të plotë në lidhje me aksionarët e shoqërisë përfituese të aksioneve, nga i cili të dalë qartë struktura e pronësisë së shoqërisë, informacioni për kapitalet dhe interesat e aksionarëve/ortakëve në shoqëri të tjera, si dhe të identifikohet deri në fund individi/individët përfitues;
+f) vërtetim nga organet tatimore që shoqëria nuk ka detyrime tatimore të pashlyera;
+g) dëshmi penaliteti, vërtetime nga gjykata që nuk janë në proces gjyqësor dhe nga prokuroria që nuk janë në procedim penal, si dhe vetëdeklarimin që vërteton gjendjen penale për administratori/ët dhe ortakët/aksionarët e shoqërisë përfituese të aksioneve.
+h) dokumente që të vërtetojnë se aksionarët /ortakët dhe administratori/ët e shoqërisë përfituese të aksioneve nuk janë të dënuar me një vendim gjyqësor të formës së prerë për vepra penale në fushën e krimit ekonomik, evazionit fiskal dhe/apo doganor, shpërdorim detyre, mitmarrje apo mitdhënie, vjedhje, trafik lëndësh narkotike apo armësh, eksplozivësh, mospagim gjobash apo për vepra të tjera penale që kompromentojnë personin në nderin e personalitetin e tij.
