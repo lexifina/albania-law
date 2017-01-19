@@ -1,0 +1,1 @@
+3. AMLF-ja i dërgon Drejtorisë së Përgjithshme të Doganave (këtu e mëposhtë referuar si “DPD”) listën e subjekteve të pajisura me autorizim për lejim të importimit dhe rast pas rasti njofton këtë drejtori për ndryshime apo shtesa të mundshme në këtë listë.

@@ -1,0 +1,1 @@
+4. AMLF-ja njofton DPD-në, në mënyrë periodike mbi statusin e licencave të subjekteve që ushtrojnë aktivitet në fushën e lojërave të fatit, kur këto subjekte janë pezulluar apo kur aktiviteti i subjektit është bllokuar për shkaqet e përcaktuara në ligjin nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”.

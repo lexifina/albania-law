@@ -1,0 +1,1 @@
+1. Të gjitha mjetet e lojërave të fatit, të cilat do të përdoren për zhvillim aktiviteti në territorin e Republikës së Shqipërisë, duhet të plotësojnë detyrimisht specifikimet teknike të parashikuara në ligjin nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë” (këtu e mëposhtë referuar “ligji”) dhe në aktet nënligjore të dala në zbatim të tij.
