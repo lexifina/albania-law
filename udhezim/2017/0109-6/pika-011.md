@@ -1,0 +1,1 @@
+11. Në rast se pagesa e këstit nuk kryhet në përputhje me afatet e përcaktuara në pikën 10 të këtij udhëzimi, AMLF-jA njofton subjektin për detyrimin e papaguar dhe penalitetet që aplikohen sipas ligjit nr. 155/2015 “Për lojërat e fatit në Republikën e Shqipërisë” duke kërkuar njëkohësisht kryerjen e menjëhershme të pagesës.

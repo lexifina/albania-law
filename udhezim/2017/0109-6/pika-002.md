@@ -1,0 +1,1 @@
+2. Shoqëritë e licencuara në fushën e lojërave të fatit shlyejnë detyrimin e ndaj Autoritetit të Mbikëqyrjes së Lojërave të Fatit në përputhje me masën e parashikuara në ligjin nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”.

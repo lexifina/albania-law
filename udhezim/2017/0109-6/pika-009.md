@@ -1,0 +1,1 @@
+9. Vetëm pas implementimit të Sistemit Qendror të Monitorimit On-line (SQMO) organizatorët e licencuara në fushën e lojërave të fatit derdhin në llogarinë bankare të Autoritetit të Mbikëqyrjes së Lojërave të Fatit 3% të të ardhurave bruto nga loja por jo më pak se 1.500.000 lekë (1 milion e pesëqind mijë lek) në vit për secilin subjekt.

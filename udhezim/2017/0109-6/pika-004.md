@@ -1,0 +1,1 @@
+4. AMLF-ja hap llogari në një bankë të nivelit të dytë ku do të depozitohen të ardhurat nga pagesat që bëjnë shoqëritë e licencuara në fushën e lojërave të fatit, sipas nenit 14, të ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”.

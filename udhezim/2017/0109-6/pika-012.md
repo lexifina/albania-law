@@ -1,0 +1,1 @@
+12. Të ardhurat e siguruara nga pagesat që bëjnë organizatorët e lojërave të fatit përdoren për financimin e veprimtarisë së AMLF-së në përputhje me parashikimet e nenit 12, të ligjit nr. 155/2015, “Për lojërat e fatit në Republikën e Shqipërisë”.

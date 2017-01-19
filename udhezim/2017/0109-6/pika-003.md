@@ -1,0 +1,1 @@
+3. Periudha e detyrimit vjetor fillon më 1 janar dhe përfundon më 31 dhjetor. Në rast se veprimtaria në fushën e lojërave të fatit krijohet ose pushon brenda kësaj periudhe, detyrimi i shoqërive llogaritet proporcionalisht vetëm për periudhën e ushtrimit të veprimtarisë për të cilën shoqëria është licencuar.

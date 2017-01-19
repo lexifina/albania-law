@@ -1,0 +1,1 @@
+1. Ky udhëzim ka si qëllim përcaktimin e mënyrës dhe afateve të pagesës së detyrimeve ligjore të shoqërive të licencuara në fushën e lojërave të fatit për llogari të Autoritetit të Mbikëqyrjes së Lojërave të Fatit.
