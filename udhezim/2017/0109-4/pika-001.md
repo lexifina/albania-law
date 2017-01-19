@@ -1,0 +1,1 @@
+1. Ky udhëzim ka si qëllim përcaktimin e kushteve dhe standardeve minimale që duhet të plotësojnë pikat sekondare të ushtrimit të aktivitetit të shoqërive të licencuara në kategorinë e basteve të miratuara nga Autoriteti i Mbikëqyrjes së Lojërave të Fatit.
