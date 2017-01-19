@@ -1,0 +1,1 @@
+2. Largësia e mjediseve në të cilat ushtrohet aktivitet lojëra fati duhet të jetë jo më pak se 100 m (njëqind metra) në vijë ajrore nga të gjitha drejtimet nga institucionet e përcaktuara në pikën 1 të këtij udhëzimi.

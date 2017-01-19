@@ -1,0 +1,1 @@
+3. Distancat prej 100 m (njëqind metra) në vijë ajrore nga të gjithë drejtimet përllogaritet ndërmjet ekstremiteteve më të afërta të mjedisit ku ushtrohet aktiviteti lojëra fati me institucionet e parashikuara në pikën 1 të këtij udhëzimi.

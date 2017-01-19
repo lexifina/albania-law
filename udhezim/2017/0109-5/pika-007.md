@@ -1,0 +1,1 @@
+7. Dokumentacioni i lëshuar nga eksperti i licencuar është pjesë e listës së dokumenteve që paraqiten pranë Autoritetit të Mbikëqyrjes së Lojërave të Fatit për miratimin e hapjes së adresave sekondare të ushtrimit të aktivitetit për kategorinë “Baste sportive”.

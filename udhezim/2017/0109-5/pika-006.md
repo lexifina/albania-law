@@ -1,0 +1,1 @@
+6. Përllogaritja e distancave të përcaktuara në këtë udhëzim do të kryhet nga individë ose subjekte juridike që zotërojnë licencë profesionale në fushën e studimit e të projektimit në ndërtim në profilin inxhinier-gjeodet.

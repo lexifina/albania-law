@@ -1,0 +1,1 @@
+1. Shoqëritë e licencuara në fushën e lojërave të fatit nuk mund të ndërtojnë, blejnë, marrin me qira apo huapërdorje mjedise të ekspozuara pranë institucioneve fetare, institucioneve të arsimit parauniversitar dhe arsimit të lartë.
