@@ -1,0 +1,1 @@
+4. Subjektet e lojërave të fatit duhet të dorëzojnë deklaratat e tyre tatimore çdo muaj pavarësisht se detyrimi i tarifës për periudhën tatimore (mujore) është zero dhe subjekti nuk ka për të paguar detyrime mujore për tarifën e licencës.

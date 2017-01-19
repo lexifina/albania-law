@@ -1,0 +1,1 @@
+3. Deklarimi i tarifës së licencimit, kryhet nga subjektet e lojërave të fatit, në përputhje me procedurat dhe modelin e deklaratës së miratuar në udhëzimin nr. 26, datë 4.9.2008, “Për taksat kombëtare”, i ndryshuar. Ky deklarim kryhet vetëm në rrugë elektronike, nëpërmjet faqes zyrtare të Drejtorisë së Përgjithshme të Tatimeve.

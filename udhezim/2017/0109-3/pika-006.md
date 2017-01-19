@@ -1,0 +1,1 @@
+6. Në vitin e parë të aktivitetit të lojërave të fatit, subjektet e licencuara, deklarojnë pagesën e tarifës së licencimit të barabartë me këstin vjetor, në periudhën tatimore në të cilën janë licencuar, e cila deklarohet dhe paguhet e plotë brenda datës 15 të muajit pasardhës.

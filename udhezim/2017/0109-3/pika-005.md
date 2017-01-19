@@ -1,0 +1,1 @@
+5. Kësti vjetor i tarifës së licencimit paguhet brenda datës 15 janar të vitit korrent për të cilin paguhet tarifa vjetore. Deklarimi për këstin vjetor të tarifës së licencimit bëhet me deklaratën e periudhës tatimore dhjetor brenda datës 15 janar të çdo viti.
