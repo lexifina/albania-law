@@ -1,0 +1,5 @@
+VENDIM
+Nr. 11, datë 11.1.2017
+PËR PËRCAKTIMIN E PROCEDURAVE TË FUNKSIONIMIT TË KOMISIONIT PËR SHQYRTIMIN E APELIMEVE TATIMORE, PËRBËRJEN, KRYESIMIN, SEKRETARIATIN, NDRYSHIMIN E ANËTARËVE DHE MASËN E SHPËRBLIMIT TË TYRE, TË PROCEDURAVE TË SHQYRTIMIT TË ANKIMIT E TË VENDIMMARRJES, SI DHE PËRCAKTIMIN E KUFIRIT TË VLERËS OBJEKT SHQYRTIMI I KOMISIONIT
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 18, pika 3, e 108, pika 7, të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:
