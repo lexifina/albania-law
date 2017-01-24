@@ -1,0 +1,1 @@
+9. Procedurat e aplikimit dhe të monitorimit përcaktohen në rregulloren e funksionimit të Fondit të Ekonomisë Kreative (Artizanatit), e cila miratohet me urdhër të përbashkët të ministrit përgjegjës për ekonominë dhe të ministrit të Financave.

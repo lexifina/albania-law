@@ -1,0 +1,1 @@
+1. Krijimin e Fondit të Ekonomisë Kreative, me vlerë të përgjithshme 30 000 000 (tridhjetë milionë) lekë, për periudhën 2017-2019. Vlera e fondit për secilin vit do të jetë 10 000 000 (dhjetë milionë) lekë.

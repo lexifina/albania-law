@@ -1,0 +1,1 @@
+3. Fondi i Ekonomisë Kreative, përveç buxhetit të shtetit, të parashikuar si më sipër, mund të ketë si burim financimi edhe donatorë të ndryshëm apo institucione financiare ndërkombëtare. Nuk përfitojnë nga ky fond sipërmarrjet që kanë përfituar për të njëjtin projekt nga fonde të akorduara nga donatorët apo institucionet financiare ndërkombëtare.

@@ -1,0 +1,1 @@
+2. Fondi i Ekonomisë Kreative u jep ndihmë financiare të drejtpërdrejtë mikrondërmarrjeve dhe ndërmarrjeve të vogla që operojnë në sektorin e artizanatit. Në varësi të projektit konkurrues, të përgatitur nga aplikantët, skema mbulon 80 për qind të kostove të miratuara, por jo më shumë se 500 000 (pesëqind mijë) lekë.
