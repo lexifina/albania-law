@@ -1,0 +1,1 @@
+3. Shoqëria “Lala-06” sh.p.k., të pyllëzojë me fondet e veta 170 (njëqind e shtatëdhjetë) ha me drurë pyjorë, dhe të përmirësojë 28 (njëzet e tetë) ha kullotë sipas afateve të përcaktuara në marrëveshjen e lidhur ndërmjet kësaj shoqërie dhe Bashkisë Maliq.

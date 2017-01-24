@@ -1,0 +1,1 @@
+7. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit, sipas lejes mjedisore nga shoqëria “Lala-06” sh.p.k., sipërfaqja e rehabilituar të regjistrohet në fondin pyjor dhe kullosor publik të Bashkisë Maliq.

@@ -1,0 +1,1 @@
+6. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Publike bën çregjistrimin e sipërfaqes pyjore dhe kullosore të identifikuar sipas lidhjes bashkëlidhur këtij vendimi, nga kategoria “Tokë e zënë pyjore dhe kullosore” dhe e regjistron në kategorinë “Tokë e zënë, objekt i aktivitetit minerar të shfrytëzimit të hekur-nikelit”.

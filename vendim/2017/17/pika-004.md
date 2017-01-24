@@ -1,0 +1,1 @@
+4. Bashkia Maliq dhe shoqëria “Lala-06” sh.p.k., nënshkruajnë marrëveshjen e bashkë-punimit, jo më vonë se 60 ditë nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes së bashku me projektet e miratuara dërgohet për monitorim në Ministrinë e Mjedisit, jo më vonë se 10 ditë nga data e nënshkrimit të saj.
