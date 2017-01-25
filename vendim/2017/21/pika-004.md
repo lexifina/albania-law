@@ -1,0 +1,1 @@
+4. Policia e Shtetit, për shërbimet shëndetësore, të cilat nuk janë pjesë e paketave të shërbimit shëndetësor, që ofrohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, lidh kontratë me shoqërinë e sigurimit, të përzgjedhur sipas rregullave të përcaktuara në legjislacionin në fuqi për prokurimin publik.

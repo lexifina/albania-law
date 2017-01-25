@@ -1,0 +1,1 @@
+1. Punonjësit e strukturave të veçanta të Policisë së Shtetit, në funksion të përmbushjes së detyrës së tyre, përfitojnë sigurim shëndetësor të veçantë për shërbime shëndetësore, të cilat nuk janë pjesë të paketave të shërbimit shëndetësor, që ofrohen nga Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.
