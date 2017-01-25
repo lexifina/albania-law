@@ -1,0 +1,1 @@
+2. Për efekt të këtij vendimi, familjarë të personelit të shërbimit të jashtëm janë bashkëshorti/ja, fëmijët nën moshën 18 vjeç, si dhe persona të tretë, në kujdestari të personelit të shërbimit të jashtëm, që e shoqërojnë personelin në detyrë.

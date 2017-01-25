@@ -1,0 +1,1 @@
+13. Të ardhurat në valutë, që sigurohen nga shërbimi konsullor në misionet diplomatike ose postet konsullore jashtë vendit, përdoren si likuiditete, në zbatim të planit të buxhetit të misionit diplomatik ose postit konsullor, duke pakësuar, për të njëjtën shumë, transferimin e fondeve të misionit diplomatik ose postit konsullor nga Ministria e Punëve të Jashtme.

@@ -1,0 +1,3 @@
+17. Në rastet e një barrëlindjeje të diplomates gjatë kohës që është në detyrë në një mision diplomatik ose post konsullor, për periudhën 63 ditë nga lindja e fëmijës, ajo paguhet me pagë të plotë. Diplomatja njofton titullarin e përfaqësisë dy muaj përpara përfitimit të lejes së barrë-lindjes.
+Gjatë kohës së përfitimit të së drejtës së barrë-lindjes, pas kalimit të periudhës 63-ditore nga lindja e fëmijës, pagesa e barrëlindjes mbulohet nga sigurimet shoqërore, sipas legjislacionit në fuqi në Republikën e Shqipërisë.
+Në rast se diplomatja vendos të vijojë lejen e barrëlindjes pas periudhës 63-ditore, nga lindja e fëmijës, diplomatja dhe familjarët e saj humbasin të gjitha të drejtat e trajtimit financiar në vendin pritës, të parashikuara në këtë vendim.

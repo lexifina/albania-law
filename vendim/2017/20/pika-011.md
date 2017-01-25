@@ -1,0 +1,1 @@
+11. Për përmbushjen e duhur të detyrimeve protokollare në prezantim për kreun e misionit ose të postit, Ministria e Punëve të Jashtme pajis me orenditë e nevojshme ambientin e tij të banimit, që shërben si rezidencë. Këto pajisje përfshihen në inventarin e përfaqësisë.

@@ -1,0 +1,4 @@
+3. Ministria e Punëve të Jashtme përballon shpenzimet për sigurimin e jetës së personelit të shërbimit të jashtëm dhe të familjarëve të tyre në rastet kur vendi pritës konsiderohet vend me rrezikshmëri të lartë. Sigurimi i jetës do të paguhet për sa kohë vazhdon situata e rrezikshmërisë së lartë. Në rastet kur familjarët nuk e shoqërojnë personelin e shërbimit të jashtëm në vendin pritës, ata nuk e përfitojnë sigurimin e jetës. Rrezikshmëri e lartë, për efekt sigurimi sipas këtij vendimi, konsiderohen situatat kur:
+a) në shtetin pritës shpallet gjendja e luftës ose e jashtëzakonshme;
+b) në shtetin pritës mbizotërojnë situata të përkeqësuara të sigurisë dhe të rendit publik, të cilat vlerësohen të rrezikshme për jetën.
+Procedurat e përzgjedhjes së kompanive të sigurimit dhe prokurimi i fondeve për sigurimin e jetës kryhen nga Ministria e Punëve të Jashtme dhe i nënshtrohen legjislacionit në fuqi.

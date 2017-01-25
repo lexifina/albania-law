@@ -1,0 +1,3 @@
+8. Në rastet kur në vendin pritës shkollat publike janë me pagesë, shpenzimet e shkollimit të fëmijëve të personelit të shërbimit të jashtëm përballohen nga buxheti i misionit diplomatik ose postit konsullor përkatës deri në përfundimin e arsimit të mesëm. Pagesa kryhet me miratimin e MPJ-së, pas paraqitjes nga titullari i misionit/postit konsullor të dokumentacionit, si më poshtë vijon:
+a) Vërtetim, nga autoritetet e vendit pritës, që shkollat publike në këtë vend janë me pagesë;
+b) Vërtetim të masës së pagesës mujore/vjetore që duhet të paguhet për shkollimin e fëmijës, të lëshuar nga institucioni arsimor publik i vendit pritës ku do të studiojë fëmija.

@@ -1,0 +1,1 @@
+16. Në rast humbjeje të jetës së anëtarit të personelit të shërbimit të jashtëm apo të pjesëtarit të familjes që e shoqëron në detyrë, shpenzimet për transportin e trupit në atdhe, si dhe ato të ceremonisë mortore përballohen nga buxheti i Ministrisë së Punëve të Jashtme.
