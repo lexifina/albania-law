@@ -1,0 +1,1 @@
+1. Miratimin e mënyrës së funksionimit dhe të organizimit të Këshillit Kombëtar për të Drejtën e Autorit (në vijim “KKDA”), si organ i specializuar, për vendosjen e tarifave të shpërblimit mbi shfrytëzimin e veprave të të drejtave të autorit dhe të drejtave të tjera të lidhura me to në administrimin kolektiv, objekt i përcaktimit të ligjit për të drejtat e autorit.

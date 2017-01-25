@@ -1,0 +1,1 @@
+10. Në rast të mosarritjes së kuorumit të kërkuar, sipas pikës 8, kryetari thërret mbledhjen pasardhëse jo më vonë se 48 (dyzet e tetë) orë nga data e anulimit të mbledhjes. Kryetari ndërmerr të gjitha masat paraprakisht në mënyrë që mbledhja e radhës të zhvillohet normalisht për objektin për të cilën është thirrur.

@@ -1,0 +1,1 @@
+4. Palët e përmendura në pikën 3 duhet të jenë aktive dhe të gatshme në përgjigjet ndaj KKDA-së për çdo informacion shtesë të kërkuar në funksion të çështjes, objekt vendimmarrjeje. Në vendimin përfundimtar KKDA-ja mban parasysh dhe analizon propozimet ose opinionet e shprehura të tyre.

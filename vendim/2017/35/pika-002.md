@@ -1,0 +1,1 @@
+2. Misioni i KKDA-së është garantimi dhe mbrojtja e mbajtësve të së drejtës, subjekt të të drejtave të autorit, për sa i përket shpërblimit për shfrytëzimin e të drejtave me karakter pasuror ose jopasuror në tregun intelektual.

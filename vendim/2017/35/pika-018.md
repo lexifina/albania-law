@@ -1,0 +1,1 @@
+18. Kryetari i KKDA-së voton i fundit. Në rastet kur rezultati i votimit është i barabartë, vota e kryetarit është vendimtare. Vendimet merren me shumicën e votave të të gjithë anëtarëve të saj. Vendimet e KKDA-së nënshkruhen nga kryetari.

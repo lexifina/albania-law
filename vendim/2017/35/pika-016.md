@@ -1,0 +1,1 @@
+16. Vendimet e KKDA-së merren me votim të hapur dhe duhet të jenë të arsyetuara. Anëtarët e KKDA-së në mbledhje dhe që nuk kanë ndonjë pengesë ligjore apo rrethana të tjera për të votuar, nuk mund të abstenojnë. Në vendimin e KKDA-së përcaktohet edhe mbulimi i shpenzimeve nga palët sipas nenit 146, të ligjit nr. 35/2016 për të drejtat e autorit.

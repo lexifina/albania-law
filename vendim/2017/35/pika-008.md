@@ -1,0 +1,1 @@
+8. KKDA-ja thërret mbledhjet sipas njoftimit të kryetarit. Mbledhjet janë të vlefshme kur janë të pranishëm të gjithë anëtarët e saj. Në zbatim të shkronjës “a”, të pikës 4, të nenit 156, të ligjit nr. 35/2016, numri i mbledhjeve që zhvillon KKDA-ja, si rregull, është 5 (pesë).

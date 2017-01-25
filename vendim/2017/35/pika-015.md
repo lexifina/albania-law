@@ -1,0 +1,1 @@
+15. Procesverbali u paraqitet për shqyrtim e miratim anëtarëve të Këshillit në fund të mbledhjes ose në fillim të mbledhjes pasardhëse. Në rastet kur çështjet e propozuara zgjasin më shumë se një mbledhje, procesverbali miratohet nga anëtarët e Këshillit në përfundim të mbledhjes përkatëse.
