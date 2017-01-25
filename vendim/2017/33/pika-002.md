@@ -1,0 +1,1 @@
+2. Tarifat e përcaktuara me këtë vendim do të paguhen nga persona fizikë dhe juridikë, që kërkojnë nga Drejtoria për të Drejtën e Autorit, pranë Ministrisë së Kulturës, kryerjen e shërbimeve të përmendura në pikën 1, të këtij vendimi.
