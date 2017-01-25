@@ -1,0 +1,27 @@
+{
+  "qbz_id": 12848,
+  "title": "Për disa shtesa në ligjin nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.",
+  "type": "Ligj",
+  "number": "144",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2015-12-17",
+  "version_no": 1,
+  "qbz_version_id": 1331,
+  "in_force": "2017-01-25",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2017-01-25",
+  "changed_by_qbz_id": 62950,
+  "changed_by_number": "1",
+  "changed_by_title": "PËR DISA NDRYSHIME NË LIGJIN NR.9136, DATË 11.9.2003, “PËRMBLEDHJEN E KONTRIBUTEVE TËDETYRUESHME TË SIGURIMEVE SHOQËRORE DHE SHËNDETËSORENË REPUBLIKËN E SHQIPËRISË”, TËNDRYSHUAR",
+  "source": "https://qbz.gov.al/files/f95eb391432712fa243e33305c0a3148346aa697329725a7b5260c436f54e89d.docx",
+  "source_sha256": "f95eb391432712fa243e33305c0a3148346aa697329725a7b5260c436f54e89d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/12848",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/12848/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
