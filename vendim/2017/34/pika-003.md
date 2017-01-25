@@ -1,0 +1,1 @@
+3. Regjistri i të drejtave të autorit është elektronik dhe dokumentar, i krijuar për të mbajtur të dhënat e të gjitha aplikimeve, regjistrimeve, depozitave, pajisjeve me certifikata dhe të çdo veprimi të ndërmarrë nga DDA-ja.

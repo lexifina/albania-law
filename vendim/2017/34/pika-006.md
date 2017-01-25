@@ -1,0 +1,1 @@
+6. Regjistri i të drejtave të autorit është i organizuar në klasa administrative dhe organizohet (indeksohet) në bazë të qëllimit dhe aplikimit në DDA, në përputhje me ligjin nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”.

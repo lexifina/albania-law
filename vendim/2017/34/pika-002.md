@@ -1,0 +1,1 @@
+2. DDA-ja shqyrton dhe regjistron çdo aplikim për regjistrim të të drejtave të autorit dhe të drejtave të tjera të lidhura me to, për subjektin aplikues, autor apo mbajtës/titullar i të drejtave të autorit mbi një vepër.
