@@ -1,0 +1,2 @@
+1. Miratimin e ndryshimit nr. 2 të marrëveshjes së grantit nr. TF013972, ndërmjet Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim/Shoqatës Ndërkombëtare për Zhvillim, që vepron si administratore e fondeve grant të siguruara nga dhurues të ndryshëm, nën fondin e dytë të besimit shumëdhurues për Shqipërinë, për mbështetjen për ngritjen e kapaciteteve për zbatimin e sistemit të planifikimit të integruar (SPI) 2, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
