@@ -1,1 +1,0 @@
-4. Pas miratimit të kërkesës nga ministri, në bazë të dokumentacionit të paraqitur prej nëpunësit të emëruar, përfaqësia, nga buxheti i vet, përballon shpenzimin deri në shumën 250 euro ose 250 USD në muaj, për çdo fëmijë, deri në përfundim të arsimit të mesëm.

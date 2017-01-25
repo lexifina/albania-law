@@ -1,1 +1,0 @@
-3. Kërkesa e nëpunësit për mbulimin e shpenzimeve të arsimimit në institucionin arimor privat i drejtohet Ministrit të Punëve të Jashtme së bashku me një kopje të licencës së institucionit, lëshuar nga organet kompetente të vendit, dhe me vërtetimin origjinal nga ky insitucion, për koston e shkollimit, me hollësitë përkatëse.

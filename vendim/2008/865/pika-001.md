@@ -1,1 +1,0 @@
-1. Shpenzimet e shkollimit të fëmijëve të personelit të përfaqësisë diplomatike, në vendet ku shkollimi publik i detyrueshëm dhe i mesëm, është me pagesë, të përballohen nga buxheti i Ministrisë së Punëve të Jashtme, deri në përfundim të arsimit të mesëm.
