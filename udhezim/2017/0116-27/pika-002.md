@@ -1,0 +1,1 @@
+2. Në kuptim të këtij udhëzimi, konsiderohet si një material ndërtimi çdo produkt i prodhuar, me qëllim që të përfshihet në mënyrë të përhershme në punimet e ndërtimit në objekt/konstruksion, produkte që klasifikohen në bazë të reagimit të tyre ndaj zjarrit, të përcaktuara në specifikimet teknike përkatëse, nëse ka, në përputhje me standardet e zbatueshme.

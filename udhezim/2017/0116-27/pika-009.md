@@ -1,0 +1,1 @@
+9. Shërbimi qendror i MZSH-së dhe ai vendor miraton dokumentacionin teknik të mbrojtjes nga zjarri (projektin e mbrojtjes nga zjarri dhe shpëtimin), të objektit/konstruksionit të ndërtimit, vetëm në përputhje me parametrat kryesorë të vlerësimit të rezistencës të materialeve nga zjarri, si dhe me kategorizimin sipas shkallës së qëndrueshmërisë dhe rrezikshmërisë të tij.

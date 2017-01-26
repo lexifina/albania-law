@@ -1,0 +1,1 @@
+1. Objektet/konstruksionet e ndërtimit sipas shkallës së qëndrueshmërisë ndaj zjarrit dhe rrezikshmërisë ndaj tij ndahen në kategori (klasa), të cilat bazohen në mënyrën e përhapjes së zjarreve në to, sipas klasifikimit të rezistencës së materialeve, që ato kanë në përbërje.

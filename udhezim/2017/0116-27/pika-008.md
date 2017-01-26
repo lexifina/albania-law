@@ -1,0 +1,1 @@
+8. Sipas rezistencës së materialive nga efekti i zjarrit të strukturës/konstruksionit/objektit, klasat përcaktohen në: 10, 15, 20, 30, 45, 60, 90, 120, 180, 240 dhe 360, të cilat shprehin kohën në minuta, gjatë së cilës rezistenca ndaj zjarrit e këtyre materialeve duhet të jetë e garantuar.
