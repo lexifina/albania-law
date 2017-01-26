@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të Autoritetit Kontraktor, Ministria e Punëve të Jashtme, drejtorit të Drejtorisë së Çështjeve Juridike dhe Shërbimeve të Brendshme, znj. Etleva Haka, për nënshkrimin e akteve të procedurave të prokurimit, vlera e të cilave, brenda një viti kalendarik është më e vogël se 800,000 (tetëqind mijë) lekë.
