@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të Autoritetit Kontraktor, Ministria e Punëve të Jashtme, Sekretarit të Përgjithshëm, z. Gazmend Barbullushi, për nënshkrimin e akteve të procedurave të prokurimit, vlera e të cilave, brenda një viti kalendarik është më e madhe se 800,000 (tetëqind mijë) lekë.
