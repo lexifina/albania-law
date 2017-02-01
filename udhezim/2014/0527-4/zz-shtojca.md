@@ -388,32 +388,47 @@ Udhëzim i ministrit nr. 5, datë 6.5.2009, “Mbi zbatimin e rregullave në org
 SHTOJCA 1 A
 Skema 1. Diagrami skematik i dimensioneve minimale të një qendre teknike tahografi
 Minimumi 5 m e gjerë dhe 4,5 m e lartë
+Rula me lëvizje të lirë për mjete me dy akse aktive.Rula me lëvizje të lirë për mjete me dy akse aktive.
 Rula me lëvizje të lirë për mjete me dy akse aktive.
 Rula me lëvizje të lirë për mjete me dy akse aktive.
+E mjaftueshme për të qëndruar një mjet 15m i gjatë mbi rulaE mjaftueshme për të qëndruar një mjet 15m i gjatë mbi rula
 E mjaftueshme për të qëndruar një mjet 15m i gjatë mbi rula
 E mjaftueshme për të qëndruar një mjet 15m i gjatë mbi rula
+Minimumi 5,5 m nga fillimi i gropësMinimumi 5,5 m nga fillimi i gropës
 Minimumi 5,5 m nga fillimi i gropës
 Minimumi 5,5 m nga fillimi i gropës
+Aksi i rulaveAksi i rulave
 Aksi i rulave
 Aksi i rulave
-Kapanoni i kontrollit të tahografit. Minimum 15 m2 ngjitur me gropën e inspektimitMinimum 12.5 m për të lejuar futjen poshtë mjetit kur është nevoja për ndërhyrje në linjat e tahografit
+Kapanoni i kontrollit të tahografit. Minimum 15 m2 ngjitur me gropën e inspektimitKapanoni i kontrollit të tahografit. Minimum 15 m2 ngjitur me gropën e inspektimitMinimum 12.5 m për të lejuar futjen poshtë mjetit kur është nevoja për ndërhyrje në linjat e tahografitMinimum 12.5 m për të lejuar futjen poshtë mjetit kur është nevoja për ndërhyrje në linjat e tahografit
+Kapanoni i kontrollit të tahografit. Minimum 15 m2 ngjitur me gropën e inspektimit
 Kapanoni i kontrollit të tahografit. Minimum 15 m2 ngjitur me gropën e inspektimit
 Minimum 12.5 m për të lejuar futjen poshtë mjetit kur është nevoja për ndërhyrje në linjat e tahografit
+Minimum 12.5 m për të lejuar futjen poshtë mjetit kur është nevoja për ndërhyrje në linjat e tahografit
+Bankëprova me rulBankëprova me rul
 Bankëprova me rul
 Bankëprova me rul
 Minimumi i gropës
 18 m gjatësi, 0.9 m gjerësi dhe 1 m lartësi
+Gjerësia e gjurmës 3 metra (minimum)Gjerësia e gjurmës 3 metra (minimum)
 Gjerësia e gjurmës 3 metra (minimum)
 Gjerësia e gjurmës 3 metra (minimum)
+Gjerësia e vijëzimit = 50 mm (minimum)Gjerësia e vijëzimit = 50 mm (minimum)
 Gjerësia e vijëzimit = 50 mm (minimum)
 Gjerësia e vijëzimit = 50 mm (minimum)
+A BA B
 A B
 A B
-3mDistanca ndërmjet shenjave A dhe B, 20 m ± 10 mm. Shenja fikse duhet të instalohen në këto pika3mGjatësia e zonës së hyrjes
+3m3mDistanca ndërmjet shenjave A dhe B, 20 m ± 10 mm. Shenja fikse duhet të instalohen në këto pikaDistanca ndërmjet shenjave A dhe B, 20 m ± 10 mm. Shenja fikse duhet të instalohen në këto pika3m3mGjatësia e zonës së hyrjesGjatësia e zonës së hyrjes
+3m
 3m
 Distanca ndërmjet shenjave A dhe B, 20 m ± 10 mm. Shenja fikse duhet të instalohen në këto pika
+Distanca ndërmjet shenjave A dhe B, 20 m ± 10 mm. Shenja fikse duhet të instalohen në këto pika
+3m
 3m
 Gjatësia e zonës së hyrjes
+Gjatësia e zonës së hyrjes
+Gjatësia e përgjithëshme e gjurmës 26 mGjatësia e përgjithëshme e gjurmës 26 m
 Gjatësia e përgjithëshme e gjurmës 26 m
 Gjatësia e përgjithëshme e gjurmës 26 m
 Gjurma lineare mund të përdoret si alternative e pajisjes së rulave në rastet e mëposhtme:
