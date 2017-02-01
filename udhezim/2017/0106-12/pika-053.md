@@ -1,0 +1,1 @@
+53. Simulantët ushqimorë që do të përdoren për testimin e migrimit të përbërësve të materialeve plastike dhe artikujve që janë në kontakt me një ushqim të vetëm apo grupe të caktuara të ushqimeve janë të përcaktuara në pikën 3 të shtojcës III të këtij udhëzimi

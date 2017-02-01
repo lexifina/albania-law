@@ -1,0 +1,1 @@
+20. Materialet dhe artikujt plastike nuk duhet të transferojnë përbërësit e tyre tek ushqimet në sasi që tejkalon kufirin specifik të migrimit të përcaktuar në shtojcën 1. Këto kufij specifik të migrimit (KSM) shprehen në miligramë substancë për kilogram ushqim (mg/kg).

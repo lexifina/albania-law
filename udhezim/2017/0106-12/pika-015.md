@@ -1,0 +1,1 @@
+15. Pa përjashtuar pikat 8, 9 dhe 10, shtesat që nuk përfshihen në shtojcën 1 mund të vazhdojnë të përdoren sipas legjislacionit kombëtar derisa të merret një vendim për përfshirjen ose jo të tyre në shtojcën 1 me kusht që ato të përfshihen në listën e përkohshme të përmendur në pikat 16 dhe 17.

@@ -1,0 +1,1 @@
+35. Kufizimet e veçanta dhe të përgjithshme të migrimit për shtresa plastike dhe materiale ose artikuj final në një material ose artikull shumë-materialesh shumë shtresash, përcaktohen në legjislacionin në fuqi.

@@ -1,0 +1,1 @@
+52. Përputhshmëria me pikën 6, të udhëzimit nr. 15, datë 13.12.2012, “Mbi materialet dhe artikujt në kontakt me ushqimet” e substancave të përmendura në pikat 9, 10, 12, 13 dhe 31 të këtij udhëzimi të cilat nuk janë të mbuluara nga një përfshirje në shtojcën I të këtij udhëzimi, do të vlerësohen në përputhje me parimet e njohura ndërkombëtare shkencore në vlerësimin e riskut.

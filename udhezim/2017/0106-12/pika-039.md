@@ -1,0 +1,1 @@
+39. Operator i biznesit me kërkesë, do ti verë në dispozicion Autoritetit Kombëtar të Ushqimit (AKU), dokumentacionin për të treguar se materialet dhe artikujt, prodhimet nga fazat e ndërmjetme të prodhimit, si dhe substancave të destinuara për prodhimin e këtyre materialeve dhe artikujve janë në përputhje me kërkesat e këtij udhëzimi.

@@ -1,0 +1,1 @@
+11. Pa përjashtuar pikat 8, 9, 10, substanca të tjera përveç atyre të përfshira në shtojcën 1, mund të përdoren si mjete ndihmëse të prodhimit polimer në prodhimin e shtresave plastike në materiale dhe artikuj plastike, sipas legjislacionit në fuqi.

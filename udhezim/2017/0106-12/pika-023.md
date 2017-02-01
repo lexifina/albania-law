@@ -1,0 +1,1 @@
+23. Materialet dhe artikujt plastike nuk do të transferojnë përbërësit e tyre te simuluesit ushqimorë në sasi që tejkalojnë 10 miligramë nga përbërësit totale të lëshuar për dm2 sipërfaqe kontakti me ushqimin (mg/dm2).

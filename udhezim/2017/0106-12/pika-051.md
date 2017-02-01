@@ -1,0 +1,1 @@
+51. Para krahasimit të rezultateve të testimit specifik dhe të përgjithshëm të migrimit me kufirin e migrimit, do të zbatohen faktorët e korrigjimit në kapitullin 4, të shtojcës V, të këtij udhëzimi, në përputhje me rregullat e përcaktuara aty.

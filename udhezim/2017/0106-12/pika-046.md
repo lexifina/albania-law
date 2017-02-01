@@ -1,0 +1,1 @@
+46. Për materialet dhe artikujt jo në kontakt me ushqimin verifikimi i pajtueshmërisë me KSM-në duhet të kryhet në ushqim ose në simulantët e ushqimit të përcaktuar në shtojcën III, në përputhje me rregullat e përcaktuara në kapitullin 2, seksionin 2.1, të shtojcës V, të këtij udhëzimi.

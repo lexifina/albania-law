@@ -1,0 +1,1 @@
+54. Udhëzimi nr. 361, datë 23.10.2007, “Për miratimin e rregullores “Mbi materialet dhe artikujt që përmbajnë monomer klorur vinili dhe janë përcaktuar të jenë në kontakt me ushqimet”” , dhe urdhri nr. 476, datë 27.12.2007, “Për miratimin e rregullores “Mbi materialet dhe artikujt plastike të përcaktuar të jene në kontakt me produktet ushqimore””, shfuqizohen.

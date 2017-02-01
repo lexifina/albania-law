@@ -1,0 +1,1 @@
+31. Me përjashtim nga pika 30, në një material ose artikull shumë-materialesh shumë-shtresash shtresa plastike e cila nuk është në kontakt të drejtpërdrejtë me ushqimin dhe është e ndarë nga ushqimi nga një pengesë funksionale, mund të prodhohet me substanca jo të listuara në shtojcën 1.

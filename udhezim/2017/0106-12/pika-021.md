@@ -1,0 +1,1 @@
+21. Për substancat për të cilat nuk është dhënë kufiri specifik i migrimit ose kufizimet e tjera në shtojcën 1 të këtij udhëzimi, do të aplikohet një kufi i përgjithshëm specifik i migrimit prej 60 mg/kg.

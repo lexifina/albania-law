@@ -1,0 +1,1 @@
+50. Rezultatet e testimit specifik të migrimit të marra në ushqim do të mbizotërojnë mbi rezultatet e arritura në simulantin ushqimor. Rezultatet e testimit specifik të migrimit të marra në simulantin ushqimor do të mbizotërojnë mbi rezultatet e arritura nga shqyrtimi i qasjes.

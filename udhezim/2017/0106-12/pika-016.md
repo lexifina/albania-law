@@ -1,0 +1,1 @@
+16. Substancat e përdorura në prodhimin e shtresave plastike në materialet ose artikujt plastikë, të jenë të një cilësie teknike dhe një pastërtie të përshtatshme për përdorimin e synuar dhe të parashikuar të materialeve ose artikujve. Përbërja i bëhet e ditur prodhuesit të substancës dhe vihet në dispozicion të Autoritetit Kombëtar të Ushqimit, sipas kërkesës.

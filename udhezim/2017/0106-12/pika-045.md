@@ -1,0 +1,1 @@
+45. Për materialet dhe artikujt tashmë në kontakt me ushqimin, verifikimi i pajtueshmërisë me KSM-në të kryhet në përputhje me rregullat e përcaktuara në kapitullin 1, të shtojcës V, të këtij udhëzimi.

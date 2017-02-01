@@ -1,0 +1,1 @@
+29. Materiali ose artikulli plastik përfundimtar me shumë shtresa do të jetë në përputhje me kufijtë e specifik të migrimit të përcaktuara në pikat 20, 21 dhe 22 dhe me kufirin e përgjithshëm të migrimit të përcaktuar në pikat 23 dhe 24 të këtij udhëzimi.

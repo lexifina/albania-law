@@ -1,0 +1,1 @@
+48. Për materialet dhe artikujt jo në kontakt me ushqimin, verifikimi i përputhshmërisë së ushqimit me kufirin e përgjithshëm të migrimit do të kryhet në simulantët ushqimorë A, B, C, D1 dhe D2, siç përcaktohet në shtojcën III, në përputhje me rregullat e përcaktuara në kapitullin 3, seksioni 3.1 i shtojcës V të këtij udhëzimi.

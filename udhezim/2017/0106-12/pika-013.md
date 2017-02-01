@@ -1,0 +1,5 @@
+13. Substancat e mëposhtme, të pa përfshira në shtojcën 1, janë të autorizuara t’ju nënshtrohen rregullave të përcaktuara në pikat 16-24 të këtij udhëzimi:
+a) kripërat (duke përfshirë kripërat e dyfishta dhe kripërat acide) e aluminit, amonit, bariumit, kalciumit, kobaltit, bakrit, hekurit, litiumit, magnesit, manganit, kaliumit, natriumit, dhe zinkut, të acideve, fenoleve ose alkooleve të autorizuara;
+b) përzierja e fituar nga përzierja e substancave të autorizuara pa reaksione kimike të përbërësve;
+c) kur përdoren si aditivë, substanca polimere natyrale ose sintetike me peshë molekulare prej të paktën 1000 Da, përveç makromolekulave të fituara nga fermentimi mikrobik, në përputhje me kërkesat e këtij udhëzimi, nëse janë të afta të funksionojnë si element kryesor strukturor i materialeve ose artikujve përfundimtare;
+d) kur përdoren si monomer ose substanca të tjera fillestare, parapolimere dhe substanca makromolekulare natyrale apo sintetike, si edhe përzierjet e tyre, përveç makromolekulave të përfituara nga fermentimi mikrobik, nëse monomeret ose substancat fillestare të nevojshme për ti sintetizuar ato janë të përfshira në shtojcën 1.

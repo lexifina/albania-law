@@ -1,0 +1,1 @@
+40. Ky dokumentacion do të përmbajë kushtet dhe rezultatet e testimit, llogaritjeve duke përfshirë modelimin, analiza të tjera, dhe dëshmi të sigurisë ose përputhje të arsyetimit demonstruar. Rregullat për demonstrim eksperimental të pajtueshmërisë janë përcaktuar në pikat 41, 42, 43 dhe 44.
