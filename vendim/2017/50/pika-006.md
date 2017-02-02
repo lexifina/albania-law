@@ -1,0 +1,1 @@
+6. Shoqëria TAP AG, pas përfundimit të punimeve për ndërtimin e stacioneve të valvulave të sigurisë/bllokimit SVS/B 29 në Vodicë, SVS/B 28 në Therepel dhe SVS/B 27 në Qafë (qarkun e Beratit), është e detyruar të realizojë rehabilitimin mjedisor të territorit në ato pjesë të parcelave që janë ndikuar nga ndërtimi i këtyre stacioneve, por që nuk do të përfshihen si pjesë e tyre.

@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, Drejtoria e Administrimit dhe Mbrojtjes së Tokës të Qarkut Berat të pasqyrojnë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit, nga tokë bujqësore në tokë urbane (truall), respektivisht për secilën parcelë, për të tre stacionet e valvulave të sigurisë/bllokimit të projektit TAP, sipas lidhjes 1, të këtij vendimi.
