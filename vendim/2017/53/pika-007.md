@@ -1,0 +1,1 @@
+7. Ministria e Mjedisit dhe shoqëria “Antea Cement” sh.a., nënshkruajnë marrëveshje të përbashkët për hapat, afatet dhe procedurat për hartimin e projekteve teknike të heqjes së materialit drusor dhe pyllëzimin e sipërfaqeve pyjore sipas pikës 4 të këtij vendimi.

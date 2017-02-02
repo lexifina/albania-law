@@ -1,0 +1,1 @@
+2. Heqja nga Fondi Pyjor Kullosor për shfrytëzimin e mineralit gëlqeror nga shoqëria “Antea Cement” sh.a., bëhet me pjesë bazuar në grafikun e parashikuar të punimeve sipas lejes mjedisore dhe, mbi këtë bazë, shoqëria “Antea Cement” sh.a., realizon rehabilitimin mjedisor të territorit pyjor.

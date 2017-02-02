@@ -1,0 +1,1 @@
+4. Me hyrjen në fuqi të këtij vendimi, shoqëria “Antea Cement” sh.a., brenda 3 (tri) viteve, të pyllëzojë me fondet e veta 23,4 (njëzet e tre presje katër) ha sipërfaqe me drurë pyjorë, në ngastrat pyjore të përcaktuara në marrëveshjen e lidhur ndërmjet shoqërisë “Antea Cement” sh.a., dhe Ministrisë së Mjedisit.
