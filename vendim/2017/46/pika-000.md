@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, si marrës, dhe KfW Frankfurt am Main, për financimin e shërbimeve të ekspertit ndaj marrësit në kuadër të një studimi për menaxhimin e integruar të mbetjeve të ngurta në Shqipëri, financuar nga një fond i veçantë (nr. 11469), dhënë nga qeveria gjermane, me një grant në shumën 330 000 (treqind e tridhjetë mijë) euro, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
