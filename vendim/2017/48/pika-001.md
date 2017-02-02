@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Ministrisë së Shëndetësisë, për vitin 2017, shtohet me 20 veta, për Shërbimin Kombëtar të Urgjencës, duke e çuar numrin e përgjithshëm të punonjësve të këtij institucioni në 3 500.
