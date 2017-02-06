@@ -1,0 +1,5 @@
+# Neni 7
+Shkëmbimi i informacionit
+1. Pas licencimit të subjektit transportues, organi që e ka licencuar atë dërgon informacion te mbajtësi i REK-ut dhe çdo ndryshim që mund të ndodhë gjatë ushtrimit të veprimtarisë.
+2. Drejtoritë, të cilat mbulojnë transportin dhe qarkullimin rrugor në ministrinë përgjegjëse për transportin dhe DPSHTRR-ja, janë pika kontakti për shkëmbimin e informacionit të nevojshëm me shtetet e tjera, në lidhje me subjektet e transportit rrugor të vendosura në Shqipëri, në zbatim të VKM-së nr. 325, datë 19.3.2008.
+3. Në rastin kur një operator transporti rrugor jorezident, që ka kryer shkelje, serioziteti i të cilave çon në heqjen e licencës në zbatim të këtij vendimi, pikat e kontaktit, sipas pikës 2 të këtij neni, do t’u komunikojnë autoriteteve përgjegjëse të shtetit tjetër, të regjistrimit të operatorit të transportit rrugor, të gjithë informacionin që zotërojnë, si edhe për shkeljet dhe masat ndëshkimore që janë marrë ndaj tij, të cilat së bashku do të regjistrohen në përputhje me pikën 1, të nenit 4, të këtij udhëzimi.
