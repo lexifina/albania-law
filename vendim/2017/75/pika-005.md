@@ -1,0 +1,1 @@
+5. Shpenzimet e ceremonialit funebër, në nderim të të ndjerit Dritëro Agolli, bazuar në vendimet e Komisionit, kryhen nga Ministria e Kulturës dhe do të rimbursohen nga fondi rezervë i buxhetit të shtetit.
