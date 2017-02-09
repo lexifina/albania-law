@@ -1,0 +1,9 @@
+# PËR DELEGIM KOMPETENCE
+
+Official source: [Urdhri nr. 5, datë 20.1.2017 (Ministria për Evropën dhe Punët e Jashtme)](https://qbz.gov.al/api/v1/acts/63806).
+
+Status of this text: `as-enacted`. Adopted 2017-01-20; published 2017-02-09; in force 2017-02-09.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
