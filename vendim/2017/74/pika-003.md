@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme me nr.pasurie 7/160, në zonën kadastrale 8270, që shpronësohet, z. Sotir Tasho, të kompensohet në vlerë të plotë, sipas masës përkatëse për pasurinë truall, me sipërfaqe 65 (gjashtëdhjetë e pesë) m2, me një vlerë të përgjithshme prej 4 352 985 (katër milionë e treqind e pesëdhjetë e dy mijë e nëntëqind e tetëdhjetë e pesë) lekësh.

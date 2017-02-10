@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga zbatimi i projektit “Rikonstruksioni dhe ndryshimi i destinacionit të ish-laboratorit hidraulik në qendër arti - skena e re”, miratuar me vendimin nr.2, datë 9.9.2015, të Këshillit Kombëtar të Territorit.
