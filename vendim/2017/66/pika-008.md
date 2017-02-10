@@ -1,0 +1,1 @@
+8. Mënyra e funksionimit të Strukturës Shëndetësore Universitare publike përcaktohet në statutin e saj, i cili miratohet me urdhër të përbashkët të ministrit përgjegjës për arsimin e sportin dhe ministrit përgjegjës për shëndetësinë.

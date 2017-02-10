@@ -1,0 +1,1 @@
+2. Strukturat shëndetësore universitare plotësojnë kërkesat e legjislacionit për institucionet shëndetësore në Republikën e Shqipërisë. Strukturat shëndetësore spitalore universitare publike përbëhen nga shërbimet shëndetësore/ mjekësore universitare, të cilat krijohen në bazë specialiteti.

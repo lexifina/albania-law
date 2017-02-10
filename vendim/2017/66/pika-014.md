@@ -1,0 +1,1 @@
+14. Strukturë Shëndetësore Universitare është edhe Instituti i Shëndetit Publik, i cili ofron shërbim shëndetësor parandalues dhe funksione mësimore e kërkimore shkencore. Organet drejtuese të Institutit të Shëndetit Publik janë sipas përcaktimeve të bëra në ligjin nr. 10138, datë 11.5.2009, “Për shëndetin publik”.

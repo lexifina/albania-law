@@ -1,0 +1,1 @@
+15. Strukturë Shëndetësore Universitare është edhe Klinika Stomatologjike Universitare, e cila ofron shërbime shëndetësore stomatologjike publike për popullatën dhe funksione mësimore e kërkimore shkencore.

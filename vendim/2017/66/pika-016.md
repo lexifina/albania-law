@@ -1,0 +1,1 @@
+16. Strukturë Shëndetësore Universitare është edhe Qendra Kombëtare e Transfuzionit të Gjakut, e cila ofron shërbime shëndetësore dhe funksione mësimore e kërkimore shkencore në fushën e mjekësisë transfuzive.

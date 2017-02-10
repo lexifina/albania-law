@@ -1,0 +1,1 @@
+1. Strukturat shëndetësore universitare realizojnë funksione diagnostikuese e trajtuese në përmbushje të ofrimit të kujdesit shëndetësor terciar, si dhe funksione mësimore e kërkimore, shkencore, për të realizuar formimin universitar të specialistëve të shëndetësisë.
