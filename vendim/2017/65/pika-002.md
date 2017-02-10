@@ -1,0 +1,1 @@
+2. Në aktin e krijimit të fondacionit “Kinostudio”, përcaktohen pas emrave të themeluesve e qëllimit të fondacionit edhe përbërësit e pasurisë (sende të luajtshme dhe të paluajtshme), burimet dhe mënyra e financimit, organet drejtuese, kompetencat e tyre, si dhe emrat e anëtarëve të administratës.
