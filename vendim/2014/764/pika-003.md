@@ -1,1 +1,0 @@
-3. Shërbimi në qendrat spitalore universitare ka në përbërje të tij, të paktën, dy anëtarë efektivë si personel akademik për secilin specialitet, njëri prej të cilëve duhet të jetë, të paktën, me gradë shkencore “Doktor”.
