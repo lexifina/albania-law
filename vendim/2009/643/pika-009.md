@@ -1,1 +1,0 @@
-9. Shoqëritë rezidente shqiptare, të licencuara në transportin ndërkombëtar, detyrohen të pajisin me bileta udhëtimi, të shpërndara nga organet tatimore, të gjithë pasagjerët udhëtues, si në drejtimin dalës nga territori i Republikës së Shqipërisë, ashtu edhe në itinerarin e kthimit.

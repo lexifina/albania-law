@@ -1,1 +1,0 @@
-8. Strukturat përkatëse ushtrojnë kontroll ndaj shoqërive rezidente shqiptare, të licencuara për këto lloj transportesh, për pajisjen me bileta të udhëtarëve, vetëm apo në bashkëpunim me Ministrinë e Punëve Publike, Transportit dhe Telekomunikacionit dhe strukturat e Ministrisë së Brendshme, në përputhje me kompetencat dhe detyrat e tyre funksionale.

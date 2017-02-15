@@ -1,1 +1,0 @@
-1. Formati i biletave të transportit rrugor të udhëtarëve, për shërbimin qytetas, ndërqytetas, rrethqytetas, si dhe në transportin ndërkombëtar rrugor të udhëtarëve, duhet të jetë sipas standardit të përcaktuar me udhëzimin përkatës të ministrit të Financave.
