@@ -1,0 +1,1 @@
+2. Plotësimi i arkivit elektronik me të dhënat ekzistuese dhe dokumentacionin përkatës do të realizohet nga subjekti i kontraktuar në zbatim të projektit “Modernizimi i Asistencës Sociale” miratuar me ligjin nr. 84/2012, të ndryshuar.
