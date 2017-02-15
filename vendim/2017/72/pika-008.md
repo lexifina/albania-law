@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive “tokë truall”, me sipërfaqe 276 (dyqind e shtatëdhjetë e gjashtë) m², dhe “objekt”, me sipërfaqe 42 (dyzet e dy) m2 për realizimin e projektit “Rikonstruksioni dhe asfaltimi i rrugëve të lagjeve në Kodër-Vorë, loti 1” të bëhet në favor të Bashkisë Vorë.

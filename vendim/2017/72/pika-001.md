@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni dhe asfaltimi i rrugëve të lagjeve në Kodër-Vorë, loti 1”, Bashkia Vorë.
