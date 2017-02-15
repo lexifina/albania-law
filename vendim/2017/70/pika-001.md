@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Ndërtim, sistemim dhe asfaltim i rrugëve e trotuareve”, në Bashkinë e Hasit.
