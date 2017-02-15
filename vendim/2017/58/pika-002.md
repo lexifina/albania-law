@@ -1,0 +1,1 @@
+2. Qendra e Ekselencës së NATO-s për Studimin e Fenomenit të Luftëtarëve të Huaj do të ushtrojë aktivitetin brenda garnizonit “Skënderbej”. Ministria e Mbrojtjes siguron pajisjet dhe të gjithë mbështetjen logjistike të nevojshme për ushtrimin e veprimtarisë dhe për funksionimin e qendrës.

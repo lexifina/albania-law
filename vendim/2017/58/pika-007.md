@@ -1,0 +1,1 @@
+7. Personeli i Qendrës së Ekselencës së NATO-s për Studimin e Fenomenit të Luftëtarëve të Huaj, në Shqipëri, do të jetë ushtarak dhe civil. Marrëdhëniet e punës të personelit civil do të rregullohen në përputhje me dispozitat e Kodit të Punës të Republikës së Shqipërisë.
