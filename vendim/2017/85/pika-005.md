@@ -1,0 +1,1 @@
+5. Këshilli i njësisë së vetëqeverisjes vendore të secilës bashki, sipas kërkesës, për qëllime të identifikimit të linjave të transportit, në përputhje me modelin e miratuar, përcakton ngjyrën/at e biletave, kur ajo ndryshon sipas linjave.

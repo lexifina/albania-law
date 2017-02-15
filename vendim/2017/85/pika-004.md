@@ -1,0 +1,1 @@
+4. Modeli i biletave të transportit rrugor të udhëtarëve për shërbimin qytetas, rrethqytetas e ndërqytetas, si dhe në transportin ndërkombëtar rrugor të udhëtarëve, si për biletat në format letër, me çmim të parashtypur edhe për biletat elektronike, është sipas standardit të përcaktuar me udhëzim të ministrit përgjegjës për transportin.

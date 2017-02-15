@@ -1,0 +1,1 @@
+7. Për udhëtarët, që përfitojnë lehtësi me ligje të veçanta, çmimi i biletave për transportin qytetas dhe rrethqytetas caktohet në përputhje me legjislacionin në fuqi për këtë qëllim, me vendim të këshillit të njësive të vetëqeverisjes vendore.

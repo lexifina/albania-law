@@ -1,0 +1,1 @@
+10. Strukturat përkatëse tatimore ushtrojnë kontroll ndaj shoqërive rezidente shqiptare, të licencuara, për llojet e ndryshme të transporteve, për pajisjen me bileta të udhëtarëve ose faturë tatimore, vetëm apo në bashkëpunim me ministrinë përgjegjëse për transportin dhe strukturat e Ministrisë së Punëve të Brendshme, në përputhje me kompetencat dhe detyrat e tyre funksionale.

@@ -1,0 +1,1 @@
+9. Shoqëritë rezidente shqiptare, të licencuara në transportin ndërkombëtar dhe të autorizuara për të operuar në linja të rregullta, detyrohen të pajisin me bileta udhëtimi të gjithë udhëtarët sipas itinerarit të udhëtimit, përkatësisht, vajtje, ardhje ose vajtje- ardhje.
