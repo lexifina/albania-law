@@ -1,0 +1,2 @@
+10. Miratimi i modelit të deklaratës dhe i procesverbalit për dorëzimin e armës së zjarrit dhe materialeve të tjera luftarake:
+10.1 Drejtori i Policisë së Shtetit, brenda 3 (tri) ditëve nga hyrja në fuqi e këtij vendimi, miraton modelin e deklaratës dhe të procesverbalit që përpilojnë punonjësit e Policisë së Shtetit në procesin e dorëzimit vullnetar të armëve të zjarrit e të materialeve të tjera luftarake.
