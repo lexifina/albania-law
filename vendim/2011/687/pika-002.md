@@ -1,0 +1,1 @@
+2. Agjencia e Administrimit të Pasurive të Sekuestruara e të Konfiskuara funksionon si autoritet përgjegjës për administrimin e pasurive të sekuestruara e të konfiskuara nga organet e drejtësisë apo me vendime dhe urdhra administrative sipas parashikimeve të legjislacionit shqiptar.
