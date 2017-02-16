@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “tokë truall”, “arë” dhe “vresht”, me një vlerë të përgjithshme prej 25 670 656 (njëzet e pesë milionë e gjashtëqind e shtatëdhjetë mijë e gjashtëqind e pesëdhjetë e gjashtë) lekësh.
