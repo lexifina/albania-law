@@ -1,0 +1,1 @@
+3. Shoqëria “TAP-AG”, brenda dy viteve, të pyllëzojë me fondet e veta 34 806 ha me drurë pyjorë dhe të përmirësojë një sipërfaqe kullosore prej 10.280 ha, sipas përcaktimeve në marrëveshjen e lidhur ndërmjet shoqërisë “TAP-AG” dhe Ministrisë së Mjedisit.
