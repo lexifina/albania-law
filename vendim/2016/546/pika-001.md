@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, të sipërfaqes prej 5 900 (pesë mijë e nëntëqind) m2, me vendndodhje sipas të dhënave në lidhjen 1, bashkëlidhur këtij vendimi, për ndërtimin e Stacionit të Transferimit të Mbetjeve të Bashkisë Pogradec.

@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe Mbrojtjes së Tokës, në Qarkun e Korçës, të pasqyrojë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit, nga tokë bujqësore (arë) në tokë truall, për sipërfaqen prej 5 900 (pesë mijë e nëntëqind) m2, sipas pikës 1, të këtij vendimi.
