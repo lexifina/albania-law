@@ -1,0 +1,1 @@
+1. Nënshkrimin e Marrëveshjes së performancës midis Agjencisë Kombëtare të Ujësjellës-kanalizimeve (AKUK) dhe Bashkisë, sipas lidhjes 1 - Model “Marrëveshje performance”, së bashku me anekset 1, 2 dhe 3, bashkëlidhur këtij udhëzimi. Këto marrëveshje të monitorohen nga MTI.

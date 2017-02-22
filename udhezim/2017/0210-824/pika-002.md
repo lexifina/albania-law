@@ -1,0 +1,1 @@
+2. Nënshkrimin e kontratës së performancës midis Bashkisë/Asamblesë së Përgjithshme dhe Këshillit të Administrimit/Administratorit të Përgjithshëm, sipas lidhjes 2 - Model “Kontratë performance”, së bashku me anekset 1, 2 dhe 3, bashkëlidhur këtij udhëzimi.

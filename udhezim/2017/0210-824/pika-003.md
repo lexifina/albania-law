@@ -1,0 +1,1 @@
+3. Secili nga dokumentet e parashikuara në pikën 1 dhe 2 të këtij udhëzimi, do të negociohen nga palët nënshkruese dhe do të përshtaten sipas kushteve specifike të secilës shoqëri ujësjellës-kanalizime, por duke ju përmbajtur modeleve bashkëlidhur këtij udhëzimi dhe anekseve përkatëse.
