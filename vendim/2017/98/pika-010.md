@@ -1,0 +1,1 @@
+10. Brenda 3 (tri) ditëve nga hyrja në fuqi e këtij vendimi, Ministria e Punëve të Brendshme, Ministria e Mbrojtjes, Shërbimi Informativ i Shtetit dhe autoritetet e tjera publike të dërgojnë pranë Autoritetit emrat e personave, të cilët do të jenë pjesë e grupeve të punës.

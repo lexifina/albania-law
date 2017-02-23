@@ -1,0 +1,1 @@
+11. Brenda gjashtë muajve nga hyrja në fuqi e këtij vendimi, autoritetet publike, Ministria e Punëve të Brendshme, Ministria e Mbrojtjes dhe Shërbimi Informativ i Shtetit duhet të kenë kaluar në administrim të Autoritetit të gjithë dokumentacionin e përcaktuar në pikën 1, të këtij vendimi.

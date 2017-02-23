@@ -1,0 +1,1 @@
+3. Titullarët e institucioneve të përmendura në pikën 2 miratojnë listat e punonjësve të pajisur me certifikatë sigurie nga Drejtoria e Sigurimit të Informacionit të Klasifikuar, të propozuar nga Autoriteti për të hyrë në mjediset arkivore të këtyre institucioneve.

@@ -1,0 +1,1 @@
+6. Autoritetet publike, Ministria e Punëve të Brendshme, Ministria e Mbrojtjes, Shërbimi Informativ i Shtetit dhe Autoriteti për Informimin mbi Dokumentet e ish-Sigurimit të Shtetit, brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, të përcaktojnë një program të përbashkët pune për kalimin e materialit arkivor, duke respektuar afatet e përcaktuara në ligj.
