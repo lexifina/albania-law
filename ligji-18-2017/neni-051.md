@@ -1,0 +1,15 @@
+# Neni 51
+Detyrat e punonjësit për mbrojtjen e fëmijës
+1. Punonjësi për mbrojtjen e fëmijës kryen funksionin e menaxherit të rastit për fëmijët në nevojë për mbrojtje, që nga momenti i identifikimit apo referimit, gjatë hartimit e zbatimit të masës së mbrojtjes dhe Planit Individual të Mbrojtjes deri në përfundimin e tyre.
+2. Punonjësi për mbrojtjen e fëmijës ka për detyrë:
+a) të identifikojë në mënyrë proaktive rastet e fëmijës në rrezik dhe në nevojë për mbrojtje, nëpërmjet vizitave periodike në terren dhe në familjen e fëmijës në rrezik, komunikimit me profesionistët nga sektori i arsimit, shëndetësisë dhe rendit, të cilët kanë kontakte me fëmijët;
+b) të bëjë vlerësimin e nivelit të rrezikut të çdo rasti të referuar dhe të identifikuar të fëmijës në nevojë për mbrojtje;
+c) të kërkojë mbledhjen e grupit teknik ndërsektorial dhe të hartojë Planin Individual të Mbrojtjes, pjesë e të cilit është edhe propozimi për marrjen e masave të mbrojtjes;
+ç) të informojë drejtuesin e njësisë së mbrojtjes së fëmijës dhe t’i propozojë drejtorit të strukturës përgjegjëse të shërbimeve shoqërore marrjen e masave të mbrojtjes mbi bazën e Planit Individual të Mbrojtjes, si dhe të koordinojë ndërhyrjet e veprimet që përcaktohen në plan;
+d) të bashkëpunojë dhe të shkëmbejë informa-cion për menaxhimin e rasteve të fëmijës në nevojë për mbrojtje me çdo strukturë përgjegjëse shëndetësore, arsimore, policore, të prokurorisë dhe të gjyqësorit, në nivel vendor e kombëtar, si dhe me shoqërinë civile, duke ruajtur të dhënat personale të fëmijës;
+dh) të monitorojë mbarëvajtjen e zbatimit të masës së mbrojtjes, progresin e zhvillimit të fëmijës, për të cilin është vendosur masa e mbrojtjes. Profesionistët e tjerë, të përfshirë në zbatimin e masës së mbrojtjes apo të Planit Individual të Mbrojtjes, janë të detyruar ta mbajnë të informuar punonjësin e mbrojtjes së fëmijës në lidhje me progresin, sfidat dhe problematikat e hasura gjatë zbatimit të tyre;
+e) të propozojë ndryshimin apo heqjen e masës së mbrojtjes dhe/ose ndryshimin apo përfundimin e Planit Individual të Mbrojtjes nëse nuk ekzistojnë më kushtet, për shkak të të cilave është vendosur masa dhe plani, apo kur një gjë e tillë i shërben fëmijës dhe/ose është në interesin më të lartë të tij;
+ë) të lehtësojë dhe të mbështesë fëmijën dhe/ ose familjen e fëmijës në përmbushjen e veprimeve apo detyrave të përcaktuara në Planin Individual të Mbrojtjes;
+f) të marrë pjesë në proceset gjyqësore, në të cilat shqyrtohen masat e mbrojtjes të propozuara në planet individuale të mbrojtjes së fëmijës, për të cilët ai është menaxher rasti;
+g) t’i drejtohet prokurorit për heqjen e përgjegjësisë prindërore, duke e vënë atë në dijeni për prindërit që tregojnë pakujdesi të rëndë në ushtrimin e përgjegjësisë prindërore ose kur, me veprimet e tyre, prindërit ndikojnë në mënyrë të dëmshme në edukimin dhe zhvillimin e fëmijës.
+gj) të ndihmojë fëmijën dhe/ose familjen e fëmijës në hartimin dhe dërgimin e ankesave pranë Avokatit të Popullit apo autoriteteve të tjera përgjegjëse.

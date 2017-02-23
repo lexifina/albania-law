@@ -1,0 +1,20 @@
+# Neni 18
+E drejta për arsimim
+1. Fëmija ka të drejtën e aksesit dhe të frekuentimit të arsimimit falas e cilësor, në bazë të mundësive të barabarta dhe pa diskriminim, në përputhje me moshën dhe aftësinë e tij për të kuptuar. Kjo e drejtë i garantohet edhe fëmijës që dëshiron të vazhdojë të arsimohet pas përfundimit të arsimit të detyrueshëm.
+2. Prindi ose kujdestari merr masa të përshtatshme që fëmija të ndjekë arsimin e detyrueshëm ose nivele të tjera të arsimimit, sipas dëshirës së fëmijës, si dhe të garantojë frekuentimin e rregullt të tij dhe pa pengesa.
+3. Ministria përgjegjëse për arsimin parauniversitar, si autoritet publik përgjegjës, si dhe njësitë arsimore vendore marrin masa konkrete, me qëllim që:
+a) të mundësojnë aksesin e fëmijës në arsimin parashkollor, si dhe arsimin e detyrueshëm falas për të gjithë fëmijët, edhe në rastet kur fëmijët mund të kenë kaluar moshën për arsimin e detyrueshëm, por kanë qenë në pamundësi për ta ndjekur atë;
+b) të zhvillojnë, në bashkëpunim me ministrinë përgjegjëse për shëndetësinë, programe edukimi për prindërit, përfshirë programe për parandalimin e dhunës në familje;
+c) të organizojnë plane mësimore të veçanta për fëmijën që nuk arrin nivelet e duhura që synon programi mësimor, me qëllim parandalimin e largimit nga shkolla para kohe të fëmijës;
+ç) të organizojnë plane mësimore të veçanta edukimi për fëmijët që braktisin shkollën ose që nuk e kanë frekuentuar asnjëherë apo për fëmijët që kthehen nga qëndrimi jashtë vendit, ose pranë institucioneve joshkollore, me qëllim integrimin e tyre në sistemin kombëtar të edukimit;
+d) të mbikëqyrin të drejtën e fëmijës për t’u çlodhur, si dhe të drejtën për të marrë pjesë në aktivitete kulturore e artistike;
+dh) të marrin masa konkrete për ofrimin e shërbimeve sociale brenda mjediseve të shkollës, si ushqim, transport e të tjera, me qëllim parandalimin e braktisjes së shkollës për arsye ekonomike;
+e) të krijojnë kushtet e nevojshme, me qëllim rritjen e cilësisë së arsimimit, nëpërmjet kurrikulave, mjeteve mësimore, infrastrukturës së përshtatshme, si dhe të vlerësimit periodik të personelit mësimor;
+ë) të sigurojnë burime të mjaftueshme dhe të përshtatshme njerëzore, materiale e financiare për të siguruar arsimimin cilësor të fëmijës;
+f) të ndërmarrin veprime konkrete për të garantuar të drejtën e arsimimit të fëmijës që i përket grupeve ose rajoneve me mangësi të konsiderueshme edukimi ose që është në situata të vështira sociale, ekonomike ose gjendje fizike apo mendore të veçantë, ose që lidhen me aspekte të gjinisë, besimit fetar ose praktikave kulturore, ose që janë pjesë e një grupi kulturor etnik ose vijnë nga një situatë migratore;
+g) të ngrenë mekanizma efikasë për parandalimin, trajtimin brenda shkollës dhe raportimin tek autoritetet përgjegjëse të situatave të dhunës, duke përfshirë edhe ato ndërmjet vetë fëmijës brenda shkollës (bulizmi);
+gj) të parashikojnë dhe zbatojnë sanksione të përshtatshme për personelin arsimor, në rastet kur ai lejon, nxit, toleron ose nuk raporton veprime të dhunshme ose ngacmimi të fëmijës në institucionet e edukimit, sipas këtij ligji.
+h) të marrin masa për identifikimin e fëmijës në rrezik për të braktisur shkollën ose të atij që e ka braktisur atë, duke koordinuar veprimet me autoritetet e njësisë së vetëqeverisjes vendore, me qëllim mbajtjen ose kthimin e tij në shkollë.
+4. Në rastet kur identifikohen fëmijë që nuk frekuentojnë arsimin e detyrueshëm, për shkak të mosregjistrimit në zyrat e gjendjes civile ose arsye tё tjera, punonjësi i njësisë së vlerësimit të nevojave dhe referimit, pranë pushtetit vendor merr masa të menjëhershme për regjistrimin të fëmijës në shkollë, sipas legjislacionit në fuqi.
+5. Gjatë procesit mësimor e edukativ fëmija trajtohet me dinjitet nga mësuesit dhe personeli, si dhe informohet për të drejtat e tij dhe mjetet e ushtrimit të tyre, sipas këtij ligji. Ndëshkimi trupor i fëmijës si dhe çdo formë tjetër e dhunës gjatë procesit të edukimit janë të ndaluara.
+6. Fëmija ka të drejtë të ankohet ndaj vlerësimeve të dijeve të tij, sipas kritereve të parashikuara në legjislacionin në fuqi për arsimin parauniversitar.

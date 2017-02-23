@@ -1,0 +1,16 @@
+# Neni 21
+E drejta për kujdes shëndetësor
+1. Fëmijës i garantohet e drejta për kujdes shëndetësor falas dhe e standardit më të lartë, si dhe përfitimi nga shërbimet për trajtimin e sëmundjes e për riaftësimin e shëndetit. Kjo e drejtë nuk mund të kufizohet, pavarësisht nëse fëmija është i regjistruar ose jo në regjistrin e gjendjes civile ose nëse prindërit e fëmijës kanë paguar ose jo taksat.
+2. Garantimi i kësaj të drejte bëhet nga ministria përgjegjëse për shëndetësinë, e cila merr masa:
+a) për të ulur vdekshmërinë foshnjore dhe fëmijërore;
+b) për t’u siguruar të gjithë fëmijëve kujdesin shëndetësor falas e cilësor, duke e vënë theksin në zhvillimin e kujdesit shëndetësor parësor;
+c) për të luftuar sëmundjen dhe kequshqyerjen, edhe në kuadrin e kujdesit shëndetësor parësor, me anë të sigurimit, ndër të tjera, të produkteve ushqimore të përshtatshme dhe të ujit të pijshëm të pastër, duke pasur parasysh rreziqet e ndotjes së mjedisit natyror;
+ç) për t’u siguruar nënave kujdesin e duhur shëndetësor, para dhe pas lindjes;
+d) për të mundësuar, në bashkëpunim me ministrinë përgjegjëse për arsimin, që të gjitha grupet shoqërore dhe, në veçanti, prindërit dhe fëmijët, të marrin informacion, të kenë mundësi edukimi e të përkrahen për të përdorur dijet bazë për shëndetin dhe të ushqyerit e fëmijës, përparësitë e ushqyerjes me gji, higjienën dhe përmirësimin e mjedisit dhe parandalimin e aksidenteve;
+dh) për të zhvilluar kujdesin shëndetësor parandalues dhe për të nxitur jetesën e shëndetshme te fëmijët, këshillimin e prindërve dhe fëmijës, edukimin dhe shërbimet në fushën e shëndetit riprodhues për prindërit dhe fëmijët, në varësi të moshës dhe aftësisë së tyre për të kuptuar;
+e) për verifikimin periodik të trajtimit që i bëhet fëmijës së vendosur në institucione të kujdesit shëndetësor ose në mbrojtje të përkohshme apo të përhershme, me vendim të gjykatës;
+ë) për ruajtjen e konfidencialitetit gjatë dhe pas ekzaminimit mjekësor të fëmijës, ndaj të tretëve, me përjashtim të rasteve kur rrezikohet shëndeti ose jeta e fëmijës, sipas nenit 67 të këtij ligji;
+f) për ofrimin e shërbimit të kujdesit shëndetësor për fëmijët me aftësi të kufizuar, me qëllim riaftësimin dhe përfshirjen sociale të tyre, si dhe ushtrimin e të drejtave të tyre në mënyrë të barabartë si të gjithë fëmijët.
+3. E drejta e fëmijës për të pasur akses në shërbimet e kujdesit shëndetësor dhe të rehabilitimit, si dhe marrja e mjekimit të përshtatshëm për sëmundjen që ka garantohet nga shteti dhe shpenzimet mbulohen nga Fondi i Sigurimeve të Detyrueshme të Kujdesit Shëndetësor, sipas legjislacionit në fuqi.
+4. Prindërit kanë detyrimin të kërkojnë kujdes mjekësor, me qëllim që fëmija të gëzojë standardin më të lartë shëndetësor, si dhe për të parandaluar situata që mund të jenë të rrezikshme për jetën, rritjen dhe zhvillimin e fëmijës.
+5. Vizitat periodike të punonjësve të konsultores së nënës dhe fëmijës në banesën e gruas shtatzënë dhe fëmijës deri në moshën 1 vjeç janë të detyrueshme. Ato kryhen sipas paketës bazë të shërbimeve të kujdesit parësor e protokolleve standarde për këto shërbime dhe bëhen me qëllim mbrojtjen e shëndetit të nënës dhe fëmijës, duke përfshirë këshillimin për mirërritjen e fëmijës, parandalimin dhe shmangien e braktisjes së fëmijës, abuzimin, shfrytëzimin dhe neglizhimin ose çdo lloj tjetër dhune ndaj fëmijës.

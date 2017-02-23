@@ -1,0 +1,9 @@
+# Neni 67
+Detyrimi për raportim
+1. Çdo person fizik ose juridik që ka informacion, ose vetë fëmija, duhet të njoftojë për çdo rast të dyshuar apo të ndodhur, abuzimi, neglizhimi apo shfrytëzimi të fëmijës institucionet qendrore dhe strukturat vendore të mbrojtjes së fëmijës ose Policinë e Shtetit.
+2. Çdo punonjës i institucioneve publike dhe private, që vihet në kontakt me fëmijët për shkak të profesionit dhe ka dyshim se një fëmijë abuzohet, neglizhohet, keqtrajtohet apo ndodhet në rrezik për diçka të tillë, duhet të njoftojë menjëherë organet e Policisë së Shtetit ose strukturat për mbrojtjen e fëmijës në nivel vendor.
+3. Mësuesit dhe ofruesit e shërbimit psiko-social shkollor kanë për detyrë të raportojnë çdo rast të dyshuar apo të ndodhur, abuzimi, neglizhimi apo shfrytëzimi të fëmijës në njësitë arsimore vendore ose strukturat për mbrojtjen e fëmijës. Njësia arsimore vendore, në çdo rast, kur merr dijeni për fëmijë në nevojë për mbrojtje, bën raportimin te strukturat për mbrojtjen e fëmijës.
+4. Punonjësit e institucioneve shëndetësore apo të përkujdesjes së fëmijës, publike ose private, kanë për detyrë të raportojnë menjëherë te drejtori i institucionit, organet e Policisë së Shtetit, strukturat për mbrojtjen e fëmijës çdo rast të dyshuar apo të ndodhur të abuzimit, keqtrajtimit, braktisjes, neglizhimit apo dhunës te fëmijët.
+5. Strukturat për mbrojtjen e fëmijës marrin masa për vendosjen e njoftimeve me informacionin e kontaktit në të gjitha institucionet publike apo private të përkujdesjes së fëmijës, të arsimit e të shëndetësisë, për të lehtësuar raportimin.
+6. Të gjithë personat, të cilët kanë detyrim për raportim, sipas këtij ligji, kanë për detyrë të mbrojnë të dhënat personale sipas detyrimeve që përcaktohen në legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+7. Procedurat për raportimin e rasteve rregullohen me udhëzim të përbashkët të minis-trave përkatës.

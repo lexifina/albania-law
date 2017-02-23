@@ -1,0 +1,6 @@
+# Neni 42
+Detyrat e agjencisë në lidhje me bashkërendimin e punës me ministrin përgjegjës për çështjet e të drejtave dhe mbrojtjes së fëmijës
+1. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës i paraqet ministrit që bashkërendon punën për çështjet e të drejtave dhe mbrojtjes së fëmijës propozime për politika dhe ndryshime ligjore e nënligjore në fushën e të drejtave dhe të mbrojtjes së fëmijës.
+2. Përgatit dhe i propozon ministrit që bashkërendon punën për çështjet e të drejtave dhe mbrojtjes së fëmijës udhëzime metodologjike për strukturat e mbrojtjes së fëmijës në organet e vetëqeverisjes vendore dhe koordinimin ndërsektorial në fushën e mbrojtjes së fëmijës.
+3. Bashkërendon punën për përgatitjen e materialeve dhe organizimin e mbledhjeve të Këshillit Kombëtar për të Drejtat dhe Mbrojtjen e Fëmijës, në bashkëpunim me strukturën përgjegjëse të ministrit që bashkërendon punën për çështjet e të drejtave dhe mbrojtjes së fëmijës.
+4. I paraqet ministrit që bashkërendon punën për çështjet e të drejtave dhe mbrojtjes së fëmijës, brenda tremujorit të parë të çdo viti, raportin e vitit paraardhës për veprimtarinë e realizuar, për ecurinë e punës, problemet e hasura dhe për rrugët për kapërcimin e tyre, në fushën e të drejtave dhe mbrojtjes së fëmijës.

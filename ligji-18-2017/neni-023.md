@@ -1,0 +1,6 @@
+# Neni 23
+Mbrojtja nga të gjitha format e dhunës
+1. Fëmija ka të drejtë të mbrohet ndaj të gjitha formave të dhunës, duke përfshirë abuzimin, neglizhimin, shfrytëzimin, trafikimin, pengmarrjen, pornografinë, abuzimin seksual, si dhe forma të tjera të dhunës, pavarësisht vendit ku kryhet, sipas parashikimeve të legjislacionit në fuqi. Fëmija mbrohet edhe nga të gjitha format e migracionit të paligjshëm, sipas legjislacionit në fuqi për kontrollin dhe mbikëqyrjen e kufirit shtetëror.
+2. Prindërit e fëmijës ose kujdestari, në bashkëpunim me institucionet e kujdesit shëndetësor, të edukimit, strukturat e mbrojtjes së fëmijës dhe ofruesit e shërbimeve të kujdesit shoqëror marrin të gjitha masat e nevojshme për të bërë të mundur rehabilitimin fizik, psikologjik e emocional, si dhe integrimin social të fëmijës viktimë e dhunës, neglizhimit, shfrytëzimit ose abuzimit, sipas legjislacionit në fuqi.
+3. Subjektet e përmendura në pikën 2, të këtij neni, sigurojnë të gjitha kushtet e nevojshme, me qëllim integrimin e fëmijës në një jetë normale dhe duke respektuar dinjitetin e vetëvendosjen e fëmijës, në përputhje me moshën e tij.
+4. Ndalohet ndëshkimi trupor ose i ndonjë forme tjetër, që sjell pasoja në zhvillimin fizik dhe mendor të fëmijës.

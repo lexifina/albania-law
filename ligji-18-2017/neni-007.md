@@ -1,0 +1,6 @@
+# Neni 7
+E drejta e jetës
+1. Mbrojtja e jetës së fëmijës është e garantuar me ligj. Fëmija gëzon standardet më të larta të mundshme të shëndetit, trajtimit e rehabilitimit.
+2. E drejta e aksesit të fëmijës tek institucionet e kujdesit shëndetësor garantohet pavarësisht gjinisë, orientimit seksual, racës, etnisë dhe aftësisë ose situatës ekonomike, sociale e ligjore të prindërve apo kujdestarit.
+3. Çdo fëmijë që ka nevojë për shërbim shëndetësor ose trajtim mjekësor apo rehabilitues në situata emergjence, vetë ose nëpërmjet prindërve apo kujdestarit, ka të drejtë t’u drejtohet institucioneve të kujdesit shëndetësor ose social për këtë qëllim. Personi ose autoriteti përgjegjës, brenda fushës së kompetencave që ka, i ofron fëmijës ndihmën e menjëhershme dhe e referon atë në institucionin e kujdesit shëndetësor ose rehabilitues më të përshtatshëm, pasi të jetë marrë mendimi i prindit ose kujdestarit.
+4. Në raste përjashtimore, kur jeta e fëmijës rrezikohet ose ka një rrezik për pasoja serioze në jetën dhe shëndetin e fëmijës, mjeku ka të drejtë të kryejë ekzaminimin dhe të japë ndihmën mjekësore, si nevojë imediate për të shpëtuar jetën e fëmijës, edhe nëse prindërit ose kujdestari nuk japin pëlqimin.
