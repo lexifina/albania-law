@@ -1,0 +1,3 @@
+9. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, përllogariten në shumën 2 600 000 000 (dy miliardë e gjashtëqind milionë) lekë, dhe përballohen nga fondi për politikat e indeksimit të pensioneve, i parashikuar në buxhetin e Institutit të Sigurimeve Shoqërore të vitit 2017 dhe ndahen përkatësisht:
+a) 2 574 500 000 (dy miliardë e pesëqind e shtatëdhjetë e katër milionë e pesëqind mijë) lekë, për mbulimin e pagesave të pensioneve;
+b) 25 500 000 (njëzet e pesë milionë e pesëqind mijë) lekë, për procedurat teknike të zbatimit të këtij vendimi dhe për pagesën e komisioneve të shërbimit të pagesave të pensioneve nga Posta Shqiptare sh.a.
