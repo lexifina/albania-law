@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të volumit të materialit drusor dhe të produkteve të tjera pyjore e kullosore, në sipërfaqen objekt minerar, paguhen nga shoqëria “Zaloshnja Fiorentina”, sh.p.k., në bazë të vendimit nr.391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.

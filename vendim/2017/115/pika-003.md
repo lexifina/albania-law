@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Zaloshnja Fiorentina”, sh.p.k. detyrohet të rehabilitojë sipërfaqet që përdor sipas kushteve të lejes mjedisore dhe, brenda tre viteve të para, të pyllëzojë me fondet e veta një sipërfaqe pyjore prej 163.2 ha dhe të përmirësojë një sipërfaqe kullosore prej 45.3 ha në ngastrat e përcaktuara në marrëveshje me Bashkinë Çorovodë.
