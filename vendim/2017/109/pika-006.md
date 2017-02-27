@@ -1,0 +1,1 @@
+6. Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë drejtohet nga drejtori, i cili është titullari i institucionit dhe e përfaqëson atë në marrëdhënie me të tretë. Ai organizon dhe drejton gjithë veprimtarinë e institucionit.

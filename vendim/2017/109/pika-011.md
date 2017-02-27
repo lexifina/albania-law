@@ -1,0 +1,14 @@
+11. ASCAL-i ka këto detyra dhe përgjegjësi specifike:
+a) Ndihmon për ngritjen dhe funksionimin e sistemit të brendshëm të sigurimit të cilësisë në institucionet e arsimit të lartë, në përputhje me Kodin e Cilësisë. Ajo bashkëpunon me institucionet e arsimit të lartë dhe mban marrëdhënie të vazhdueshme me këto njësi.
+b) Bashkëpunon me ministrinë përgjegjëse për arsimin për përgatitjen e standardeve shtetërore të cilësisë dhe përditësimin në vijim të tyre si pjesë e Kodit të Cilësisë.
+c) Harton udhëzuesit e vlerësimit, kriteret, procedurat, formatet e vlerësimeve dhe akte të tjera për funksionimin e brendshëm të saj.
+ç) I propozon ministrit përgjegjës për arsimin ndryshime të bazës ligjore në fushën e sigurimit të cilësisë në arsimin e lartë.
+d) Është autoriteti përgjegjës për administrimin dhe shkëmbimin e informacionit që lidhet me rezultatet, cilësinë dhe akreditimin në arsimin e lartë.
+dh) Bën publike, përmes faqes zyrtare të saj në internet, raportet përfundimtare të vlerësimit të jashtëm, monitorimit të vazhduar të cilësisë, Sondazhit Kombëtar të Studentëve si dhe aktet e Bordit të Akreditimit. Jep informacion të përditësuar mbi statusin e institucioneve të arsimit të lartë/programeve lidhur me vlerësimin dhe akreditimin si dhe bën të njohur, para fillimit të çdo viti akademik listën e institucioneve të arsimit të lartë e të programeve të studimit të akredituara.
+e) Publikon dhe boton materiale e informacione kombëtare e ndërkombëtar, mbi sigurimin e cilësisë në arsimin e lartë.
+ë) Administron databazën elektronike në funksion të procesit të monitorimit dhe sigurimit të cilësisë.
+f) Administron kërkesat e institucioneve të arsimit të lartë për vlerësimin e jashtëm nga agjenci, anëtare të Rrjetit Evropian të Sigurimit të Cilësisë (ENQA), të cilat ia paraqet për miratim Bordit të Akreditimit.
+g) Bashkëpunon dhe bashkërendon veprimta-rinë e saj me agjenci homologe, pjesë të (ENQA) dhe/ose Regjistrit Evropian të Sigurimit të Cilësisë (EQAR), nëpërmjet kryerjes së vlerësimeve të përbashkëta dhe/ose të koordinuara, përzgjedhja e të cilave bëhet sipas profilit dhe karakteristikave për çdo vlerësim ku angazhohen.
+gj) Ndjek procedurat për anëtarësimin e ASCAL-it me të drejta të plota në Rrjetin Evropian të Sigurimit të Cilësisë (ENQA) dhe/ose Regjistrin Evropian të Sigurimit të Cilësisë (EQAR).
+h) Bashkërendon aktivitetin e saj me ministrinë përgjegjëse për arsimin dhe institucionet e saj të varësisë, në shërbim të politikave që lidhen me cilësinë në arsimin e lartë, për vlerësimin e kërkimit shkencor, financimin e institucioneve të arsimit të lartë dhe shkëmbimin e të dhënave në fushën e arsimit të lartë.
+i) Bashkëpunon dhe bashkërendon me Agjencinë Kombëtare të Kërkimit Shkencor dhe Inovacionit, duke përfshirë rezultatet e vlerësimit të veprimtarisë kërkimore shkencore të AKKSHI-t për proceset e sigurimit të jashtëm të cilësisë.

@@ -1,0 +1,1 @@
+15. Emërimi dhe shkarkimi i kryetarit dhe anëtarëve të Bordit të Akreditimit bëhen me urdhër të Kryeministrit, me propozimin e ministrit përgjegjës për arsimin. Mandati i anëtarëve të këtij bordi është 4 vjet.

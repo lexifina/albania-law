@@ -1,0 +1,1 @@
+29. Kryetarit dhe anëtarëve vendas të Bordit të Akreditimit, me vendbanim jashtë kryeqytetit, u mbulohen shpenzimet e udhëtimit e të akomodimit në Tiranë, për jo më shumë se tre ditë kalendarike për mbledhje. Shpenzimet për veprimtarinë e bordit mbulohen nga të ardhurat e ASCAL-it.

@@ -1,0 +1,1 @@
+23. Tarifat për vlerësimin e jashtëm të cilësisë dhe akreditimin, që paguhen nga institucionet e arsimit të lartë, janë sipas shtojcës 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

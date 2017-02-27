@@ -1,0 +1,1 @@
+34. Kryetari dhe anëtarët e Bordit të Akreditimit emërohen me urdhër të Kryeministrit, brenda 1 (një) muaji nga data e hyrjes në fuqi të këtij vendimi. Këshilli i Akreditimit vijon të funksionojë me përbërjen aktuale deri në krijimin e Bordit të Akreditimit.

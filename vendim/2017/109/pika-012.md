@@ -1,0 +1,7 @@
+12. Për procedurën e vlerësimit, Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë vepron, si më poshtë vijon:
+a) Ngre komisionet e posaçme të vlerësimit, të përbëra nga ekspertë vendas dhe/ose të huaj, të cilët duhet të kenë:
+- gradë shkencore ose titull akademik;
+- përvojë pune të dokumentuar të mëparshme në vlerësimin institucional dhe/ose në fushën e programeve të studimit, në kuadër të sigurimit të jashtëm të cilësisë në Shqipëri dhe/ose jashtë vendit.
+Kriteret shtesë për përzgjedhjen e këtyre ekspertëve, në raste specifike e të certifikuara, në varësi të llojit të vlerësimit të jashtëm, programit dhe ciklit të studimit, përcaktohen në rregulloren e brendshme të Bordit të Akreditimit.
+b) Ekspertët në përbërje të këtyre komisioneve përzgjidhen sipas rregullores së brendshme të ASCAL-it nga listat vjetore të miratuara nga Bordi i Akreditimit. Përbërja e komisioneve të posaçme të vlerësimit, numri i ekspertëve për çdo lloj vlerësimi dhe shpërblimi i tyre përcaktohen sipas shtojcës 1 dhe tabelave 1/a e 1/b që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
+c) Komisionet e përkohshme për vlerësime tematike, analitike e krahasuese përbëhen nga ekspertë vendas dhe/ose të huaj, me kualifikime akademike, me përvojë në arsimin e lartë e kërkimin shkencor dhe njohës të proceseve të cilësisë, sipas fushave kryesore të arsimit të lartë në shkencat natyrore, inxhinierike e teknologjike, mjekësore, bujqësore, sociale e humane, nga listat e miratuara nga Bordi i Akreditimit.
