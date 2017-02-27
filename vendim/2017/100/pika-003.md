@@ -1,0 +1,1 @@
+3. Ngarkohen Shtabi i Përgjithshëm i Forcave të Armatosura, nëpërmjet Komandës së Forcës Ajrore dhe Drejtorisë së Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes, dhe Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, nëpërmjet “Albcontrol”, sh.a-së., të lidhin marrëveshje të përbashkët për zbatimin e këtij vendimi.
