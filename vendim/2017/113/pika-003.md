@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Lengarica & Energy”, sh.p.k. detyrohet të rehabilitojë sipërfaqen pyjore sipas kushteve të lejes mjedisore dhe, brenda vitit të parë, të pyllëzojë me fondet e veta një sipërfaqe prej 1.8 ha fond pyjor, në ngastrat e përcaktuara në marrëveshjen me Ministrinë e Mjedisit.

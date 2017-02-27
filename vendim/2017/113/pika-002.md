@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të pakësimit të sipërfaqes dhe të volumit të lëndës drusore, në sipërfaqen objekt minerar, paguhen nga shoqëria “Lengarica & Energy”, sh.p.k., në bazë të vendimit nr.391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe kullotave”, të ndryshuar.
