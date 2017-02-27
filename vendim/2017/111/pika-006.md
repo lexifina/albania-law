@@ -1,0 +1,1 @@
+6. Me përmbushjen e detyrimeve nga shoqëria “Info Metal Plast-Al”, sh.p.k., të përcaktuara në planin e rehabilitimit sipas lejes mjedisore, sipërfaqja e rehabilituar të regjistrohet në fondin pyjor dhe kullosor publik.

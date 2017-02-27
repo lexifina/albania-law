@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Info Metal Plast-Al”, sh.p.k. detyrohet të rehabilitojë sipërfaqet në përdorim sipas kushteve të lejeve mjedisore dhe, brenda 5 viteve, të pyllëzojë me fondet e veta një sipërfaqe pyjore prej 97 ha, në ngastrat e përcaktuara në marrëveshje me Ministrinë e Mjedisit.
