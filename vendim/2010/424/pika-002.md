@@ -1,1 +1,0 @@
-2. Përbërja, struktura, organika dhe funksionimi i Agjencisë Publike të Akreditimit të Arsimit të Lartë (APAAL) dhe të Këshillit të Akreditimit përshtaten brenda 2(dy) muajve nga hyrja në fuqi e këtij vendimi.
