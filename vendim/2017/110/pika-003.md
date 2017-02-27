@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Chrome Invest”, sh.p.k., detyrohet të rehabilitojë sipërfaqet në përdorim, sipas kushteve të lejes mjedisore dhe, brenda vitit të parë, të pyllëzojë me fondet e veta një sipërfaqe pyjore prej 0.06 ha dhe të përmirësojë një sipërfaqe kullosore prej 2.06 ha, në ngastrat e përcaktuara në marrëveshje me Ministrinë e Mjedisit.

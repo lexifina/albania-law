@@ -1,0 +1,1 @@
+5. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme bën çregjistrimin e sipërfaqes pyjore dhe kullosore të identifikuar sipas lidhjes 1, të këtij vendimi, nga kategoria “Tokë e zënë pyjore dhe kullosore”, dhe e regjistron në kategorinë “Tokë e zënë, objekt ndërtimi fabrikë e pasurimit të kromit”.

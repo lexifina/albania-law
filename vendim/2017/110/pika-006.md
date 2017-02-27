@@ -1,0 +1,1 @@
+6. Me përmbushjen e detyrimeve të përcaktuara në pikën 3, të këtij vendimi, nga shoqëria “Chrome Invest”, sh.p.k., sipërfaqja pyjore e rehabilituar, të riregjistrohet në fondin pyjor dhe kullosor publik.
