@@ -1,0 +1,1 @@
+4. Bashkia Gramsh dhe shoqëria “Victoria Invest Internacional”, sh.p.k. nënshkruajnë marrëveshje jo më vonë se 60 ditë nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes, së bashku me projektet e miratuara, dërgohen në Ministrinë e Mjedisit jo më vonë se 10 ditë nga data e nëshkrimit të saj.
