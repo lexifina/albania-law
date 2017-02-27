@@ -1,0 +1,1 @@
+2. Vlerat përkatëse të sipërfaqes së hequr dhe të pakësimit në volum të lëndës drusore paguhen nga shoqëria “Mineral Falkon”, sh.p.k., në bazë të vendimit nr.391, datë 21.6.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe të kullotave”, të ndryshuar.

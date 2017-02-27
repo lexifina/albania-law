@@ -1,0 +1,1 @@
+7. Me përmbushjen e detyrimeve nga shoqëria “Mineral Falkon”, sh.p.k., të përcaktuara në planin e rehabilitimit sipas lejes mjedisore, sipërfaqja e rehabilituar të regjistrohet në fondin pyjor dhe kullosor publik.
