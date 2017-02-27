@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Drejtoria e Përgjithshme e Tatimeve te Ministria e Punëve të Brendshme, të pasurisë së paluajtshme me emërtimin “Dega e Tatimeve Delvinë”, sipas formularit që i bashkëlidhet këtij vendimi, me qëllim pajisjen me ndërtesë të subjektit “Partia Socialiste e Shqipërisë”, për Degën Vendore të Partisë Socialiste Delvinë.
