@@ -1,0 +1,4 @@
+# Neni 2
+Fusha e zbatimit
+1. Ky ligj zbatohet për rrjetet e komunikimit dhe sistemet e informacionit, cenimi apo shkatërrimi i të cilave do të kishte impakt në shëndetin, sigurinë, mirëqenien ekonomike të qytetarëve dhe funksionimin efektiv të ekonomisë në Republikën e Shqipërisë.
+2. Përjashtohen nga zbatimi i këtij ligji rrjetet e komunikimeve elektronike dhe sistemet e informacionit që janë objekt i rregullimeve ligjore në fuqi për nënshkrimin elektronik, identifikimin elektronik dhe shërbimet e besuara, rrjetet e komunikimeve elektronike dhe sistemet e informacionit që përpunojnë, arkivojnë ose transmetojnë informacion të klasifikuar shtetëror, të cilat rregullohen me ligjin nr. 8457, datë 11.2.1999, “Për informacionin e klasifikuar “Sekret shtetëror””, si dhe rrjetet e komunikimeve elektronike e sistemet e informacionit, për aq sa parashikohet në legjislacionin mbi komunikimet elektronike në Republikën e Shqipërisë.
