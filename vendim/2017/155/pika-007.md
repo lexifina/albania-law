@@ -1,0 +1,1 @@
+7. Listat emërore përfundimtare të kryefamiljarëve, me vlerat përkatëse të dëmeve, sipas pikave 4 e 6, të këtij vendimi, konfirmohen nga Enti Kombëtar i Banesave dhe dërgohen pranë Ministrisë së Punëve të Brendshme.
