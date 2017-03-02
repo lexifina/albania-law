@@ -1,0 +1,1 @@
+1. Certifikata e udhërrëfyesit turistik dhe dokumenti identifikues zyrtar i udhërrëfyesit turistik do të lëshohen nga Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes sipas formës dhe modelit bashkëlidhur si aneksi 1 dhe 2.
