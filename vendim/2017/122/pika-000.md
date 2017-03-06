@@ -1,0 +1,2 @@
+Miratimin e memorandumit të mirëkuptimit, ndërmjet qeverisë së Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut, Shtabit të Komandantit Suprem të Aleatëve të Atlantikut dhe Shtabit Suprem të Fuqive Aleate në Evropë, në lidhje me mbështetjen e shtetit pritës për kryerjen e operacioneve/stërvitjeve të NATO-s, dhe të notës së pranimit për t’u bërë pjesë e këtij memorandumi, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
