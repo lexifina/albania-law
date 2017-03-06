@@ -1,0 +1,2 @@
+Miratimin e memorandumit të mirëkuptimit, ndërmjet qeverisë së Republikës së Sllovenisë, Shtabit Suprem të Fuqive Aleate në Evropë dhe Shtabit të Komandës Supreme Aleate për Transformimin, në lidhje me mbështetjen e shtetit pritës për kryerjen e operacioneve/stërvitjeve të NATO-s dhe notës së pranimit për t’u bërë pjesë e këtij memorandumi, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
