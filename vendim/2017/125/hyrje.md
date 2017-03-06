@@ -1,0 +1,5 @@
+VENDIM
+Nr. 125, datë 22.2.2017
+PËR MIRATIMIN E MEMORANDUMIT TË MIRËKUPTIMIT, NDËRMJET QEVERISË SË MBRETËRISË SË NORVEGJISË, SHTABIT SUPREM TË FUQIVE ALEATE NË EVROPË DHE SHTABIT TË KOMANDANTIT SUPREM TË ALEATËVE TË ATLANTIKUT, NË LIDHJE ME MBËSHTETJEN E SHTETIT PRITËS, PËR KRYERJEN E OPERACIONEVE TË NATO-S, DHE NOTËS SË PRANIMIT PËR T’U BËRË PJESË E KËTIJ MEMORANDUMI
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19, të ligjit nr.43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:
