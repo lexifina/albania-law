@@ -1,0 +1,1 @@
+6. Vendimi nr.63, datë 1.2.2006, i Këshillit të Ministrave, “Për listën e mallrave të zgjedhura për llogaritjen e indeksit dhe përcaktimin e mënyrës e të datës së indeksimit të pensioneve”, shfuqizohet.
