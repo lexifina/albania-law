@@ -1,1 +1,0 @@
-2. Agjencia Kombëtare për Sigurinë Kompjuterike (ALCIRT) ka objekt të veprimtarisë së saj identifikimin, parashikimin dhe marrjen e masave për mbrojtjen ndaj kërcënimeve/sulmeve kompjuterike, në përputhje me legjislacionin në fuqi.
