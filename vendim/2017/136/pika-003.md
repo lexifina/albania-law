@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Delgi”, sh.p.k. detyrohet të rehabilitojë sipërfaqen e marrë në përdorim sipas kushteve të lejes mjedisore dhe, brenda 3 viteve të para, të pyllëzojë me fondet e veta një sipërfaqe prej 29.4 ha fond pyjor, në ngastrat e përcaktuara në marrëveshjen me Bashkinë Finiq.

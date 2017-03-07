@@ -1,0 +1,1 @@
+4. Bashkia Finiq dhe shoqëria “Delgi”, sh.p.k. nënshkruajnë marrëveshje të përbashkët për hapat, afatet dhe procedurat për hartimin dhe realizimin e projekteve teknike sipas përcaktimeve të pikës 3, të këtij vendimi.
