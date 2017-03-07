@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Bledi”, sh.p.k. detyrohet të rehabilitojë sipërfaqet në përdorim sipas kushteve të lejeve mjedisore dhe, brenda vitit të parë, të pyllëzojë me fondet e veta një sipërfaqe pyjore prej 15 ha në ngastrat e përcaktuara në marrëveshjen me Ministrinë e Mjedisit.
