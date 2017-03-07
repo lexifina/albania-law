@@ -1,0 +1,1 @@
+7. Në qoftë se kërkesa nuk është paraqitur në përputhje me pikat 4 dhe 5 më sipër, ministria përgjegjëse për turizmin i kërkon kërkuesit me shkrim korrigjimin e pasaktësive brenda 10 (dhjetë) ditëve nga data e regjistrimit të kërkesës dhe i cakton kërkuesit një afat për plotësimin e pasaktësive.

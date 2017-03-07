@@ -1,0 +1,1 @@
+13. Detyrat dhe përgjegjësitë e udhërrëfyesit turistik të nderit janë ato të përcaktuara në kreun IV të rregullores “Për kriteret për pajisjen me certifikatë, për ushtrimin e veprimtarisë së udhërrëfyesit turistik, detyrat, përgjegjësitë dhe kodin e etikës së tyre”, të miratuar me vendim të Këshillit të Ministrave.

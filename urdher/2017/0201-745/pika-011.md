@@ -1,0 +1,1 @@
+11. Asnjë person nuk mund të veprojë si udhërrëfyes turistik nderi, ose të përdorë emërtimin “Udhërrëfyes turistik nderi” në Republikën e Shqipërisë, nëse nuk është pajisur me certifikatë sipas këtij urdhri.
