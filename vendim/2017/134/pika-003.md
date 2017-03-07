@@ -1,0 +1,1 @@
+3. Shoqëria “Vllaznimi Deda Import Eksport”, sh.p.k., brenda 1 viti nga data e nënshkrimit të marrëveshjes me Bashkinë Kukës, të pyllëzojë me fondet e veta 1.18 ha me drurë pyjorë, sipas përcaktimeve në këtë marrëveshje.

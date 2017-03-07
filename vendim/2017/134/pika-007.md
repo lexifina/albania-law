@@ -1,0 +1,1 @@
+7. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit, sipas procedurës paraprake të vlerësimit të ndikimit në mjedis nga shoqëria “Vllaznimi Deda Import Eksport”, sh.p.k., sipërfaqja e rehabilituar të regjistrohet në fondin pyjor dhe kullosor publik të Bashkisë Kukës.
