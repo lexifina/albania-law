@@ -1,0 +1,5 @@
+# Neni 6
+Informacioni, certifikimi dhe statistikat
+1. Ministria merr masa që informacioni rreth përfitimeve, kostove të zhvillimit dhe përdorimit të energjisë nga burimet e rinovueshme, si dhe rreth masave mbështetëse, të jetë i disponueshëm për të gjitha palët e interesuara.
+2. Këshilli i Ministrave, me propozimin e ministrit dhe ministrit përgjegjës për zhvillimin urban, miraton llojet e certifikatave dhe kriteret e nevojshme të certifikimit për instalimet e kaldajave dhe sobave të vogla të biomasës, sistemeve diellore fotovoltaike, termike, termodinamike, sistemeve gjeotermike të cekëta dhe pompat e nxehtësisë. Certifikimi i dhënë prej çdonjërit nga vendet anëtare të Bashkimit Europian ose palëve kontraktuese të Komunitetit të Energjisë konsiderohet si i bazuar në këto kritere.
+3. Të gjitha subjektet që prodhojnë energji nga burimet e rinovueshme kanë detyrimin të dorëzojnë të dhëna mbi prodhimin vjetor të energjisë, të dhëna mbi pagesën e detyrimeve financiare, si dhe të dhëna të tjera të përcaktuara me udhëzim të ministrit, në agjencinë përgjegjëse për burimet e rinovueshme të energjisë, jo më vonë se data 31 mars e çdo viti.

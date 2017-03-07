@@ -1,0 +1,4 @@
+# Neni 17
+Procedura e monitorimit
+1. Për të siguruar përmbushjen e kushteve të lëshimit të garancisë së origjinës dhe se të dhënat, mbi të cilat është lëshuar ajo, janë ta sakta, përfaqësuesit e ERE-s dhe çdo person i autorizuar prej saj, pa paragjykime lidhur me respektimin e sekretit tregtar, kanë akses të lirë në impiantin përkatës të prodhimit dhe në të gjitha të dhënat dhe informacionin për atë impiant të dhënë. Prodhuesi është i detyruar të lehtësojë punën e përfaqësuesve të ERE-s dhe të personave të autorizuar prej tij.
+2. ERE mund të refuzojë njohjen e garancisë së origjinës vetëm kur ka dyshime të bazuara për saktësinë, besueshmërinë ose vërtetësinë e saj. ERE njofton Sekretariatin e Komunitetit të Energjisë për çdo refuzim së bashku me arsyet për këtë refuzim. Mendimi i Sekretariatit të Komunitetit të Energjisë merret parasysh nga ERE në njohjen e garancive të origjinës.
