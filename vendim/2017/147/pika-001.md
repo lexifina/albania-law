@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi nga Ministria e Punëve të Brendshme te Komisioni Qendror i Zgjedhjeve, të Depos nr.3 dhe Kapanonet nr.1, pjesë përbërëse të pronës me emërtimin “Agjencia Lundër”, sipas planimetrive që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij, me qëllim ruajtjen dhe magazinimin e bazës logjistike zgjedhore.

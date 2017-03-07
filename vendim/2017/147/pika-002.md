@@ -1,0 +1,1 @@
+2. Pronat e përmendura në pikën 1, hiqen nga lista që i bashkëlidhet vendimit nr.413, datë 11.7.2007, të Këshillit të Ministrave, të ndryshuar, dhe përmasat e tyre ndryshojnë dhe zëvendësohen me përmasat e përcaktuara në genplanin dhe planimetritë që i bashkëlidhen këtij vendimi dhe përbëhen, gjithsej, nga 3 (tre) fletë.
