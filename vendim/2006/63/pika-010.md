@@ -1,1 +1,0 @@
-10. Për efekt të llogaritjes së efekteve financiare të indeksimit, në buxhetin e vitit pasardhës, të zbatohet indeksi mesatar i periudhës korrik të vitit të kaluar, korrik i vitit kur përgatitet projektbuxheti i vitit pasardhës.

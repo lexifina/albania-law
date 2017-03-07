@@ -1,3 +1,0 @@
-4. Instituti i Statistikave, çdo muaj, të llogarisë indeksin e çmimeve të mallrave dhe shërbimeve, të cilin ia raporton Institutit të Sigurimeve Shoqërore. Afatet dhe mënyrat e raportimit caktohen me marrëveshje ndërmjet palëve.
-Instituti i Statistikave të llogarisë koeficientin mesatar vjetor të indeksimit për pensionistët.
-Instituti i Sigurimeve Shoqërore dhe Instituti i Statistikave mund të ndryshojnë zërat analitikë të mallrave të konsumit dhe të shërbimeve, të përcaktuara në shportën e pensioneve, si dhe peshën specifike të tyre ndaj totalit, në varësi të zhvillimeve të përgjithshme ekonomike dhe të nivelit të nevojave parësore, sipas stadeve të zhvillimit.

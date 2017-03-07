@@ -1,1 +1,0 @@
-5. Koeficienti mesatar vjetor për indeksimin e pensioneve i njoftohet Ministrisë së Punës, Çështjeve Sociale dhe Shanseve të Barabarta dhe Ministrisë së Financave, çdo vit, jo më vonë se fundi i muajit mars.
