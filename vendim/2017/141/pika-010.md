@@ -1,0 +1,1 @@
+10. Të gjitha të drejtat, detyrimet, kontratat dhe projektet që janë në proces dhe që i takojnë përkatësisht “Autoritetit Kombëtar të Certifikimit Elektronik” dhe “Agjencisë Kombëtare për Sigurinë Kompjuterike” i transferohen “Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike”.

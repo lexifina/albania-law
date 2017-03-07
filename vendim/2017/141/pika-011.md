@@ -1,0 +1,1 @@
+11. Punonjësit aktualë të AKCE-së dhe ALCIRT-it, kalojnë tek Autoriteti Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike dhe do të trajtohen në bazë të përcaktimeve të legjislacionit të nëpunësit civil, në rastin e mbylljes dhe ristrukturimit të institucionit.

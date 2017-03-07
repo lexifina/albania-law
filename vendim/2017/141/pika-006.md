@@ -1,0 +1,1 @@
+6. Autoriteti drejtohet nga drejtori i Përgjithshëm, i cili organizon dhe mbikëqyr veprim-tarinë e institucionit dhe është përgjegjës për mirëfunksionimin e tij, si dhe përfaqëson institucionin në marrëdhëniet me të tretët.

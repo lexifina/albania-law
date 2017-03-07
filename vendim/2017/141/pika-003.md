@@ -1,0 +1,1 @@
+3. Autoriteti ka si objekt të veprimtarisë së tij mbikëqyrjen dhe zbatimin e legjislacionit në fuqi në fushën e nënshkrimit elektronik, identifikimin elektronik e shërbimeve të besuara, si dhe legjislacionit në fuqi në fushën e sigurisë kibernetike.

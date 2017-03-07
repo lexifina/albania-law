@@ -1,0 +1,1 @@
+13. Agjencia Kombëtare për Sigurinë Kompjuterike dhe Autoriteti Kombëtar për Certifikimin Elektronik, do të vazhdojnë të ushtrojnë veprimtarinë e tyre deri në momentin e fillimit të funksionimit të plotë të Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike .
