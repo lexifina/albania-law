@@ -1,0 +1,1 @@
+4. Nga buxheti i miratuar për vitin 2017 të përdoret fondi me vlerë limit prej 35 000 000 (tridhjetë e pesë milionë) lekësh, për aktivitete informuese për publikun lidhur me masat e mbështetjes nga fondi i programit për bujqësinë dhe zhvillimin rural.
