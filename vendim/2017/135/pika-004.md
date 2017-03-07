@@ -1,0 +1,1 @@
+4. Bashkia Kukës dhe shoqëria “Llagnat”, sh.p.k. nënshkruajnë marrëveshjen e bashkëpunimit jo më vonë se 60 ditë nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes, së bashku me projektet e miratuara, dërgohet në Ministrinë e Mjedisit, jo më vonë se 10 ditë nga data e nënshkrimit të saj.
