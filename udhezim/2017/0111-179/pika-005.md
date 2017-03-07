@@ -1,0 +1,1 @@
+5. Kur vendoset pezullimi i aktivitetit të subjektit, lajmërohet menjëherë ministria përgjegjëse për turizmin dhe Qendra Kombëtare e Biznesit, duke shpjeguar në mënyrë të detajuar, arsyet që e kanë çuar për të dhënë urdhrin e pezullimit dhe vendimi i pezullimit publikohet në regjistrin kombëtar të licencave, autorizimeve dhe lejeve.

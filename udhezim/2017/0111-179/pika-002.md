@@ -1,0 +1,7 @@
+2. Për pajisjen me licencë për veprimtarinë e agjencisë së udhëtimit, personat fizikë ose juridikë duhet të paraqesin pranë Qendrës Kombëtare të Biznesit (QKB) këto dokumente:
+a) Diplomën universitare të paktën të ciklit të parë të studimeve në fushën e turizmit ose administrimit të biznesit të lëshuar nga universitete brenda ose jashtë Shqipërisë dhe/ose diplomë e lëshuar nga IATA në fushën e turizmit dhe/ose diplomën e shkollës së mesme profesionale për turizëm dhe/ose çdo certifikatë kualifikimi profesional në fushën e turizmit për drejtuesin teknik ose përfaqësuesin ligjor. Diplomat universitare të lëshuara nga universitete të huaja duhet të jenë të njohura nga Ministria e Arsimit dhe Sportit. Certifikatat e marra jashtë shtetit duhet të jenë të përkthyera në gjuhën shqipe dhe të legalizuara/apostiluara.
+b) Kontrata e punës me drejtuesin teknik, nëse ky është i ndryshëm nga përfaqësuesi ligjor.
+c) Certifikata e gjendjes gjyqësore (dëshmi penaliteti) për 5 vitet e fundit për përfaqësuesin ligjor të lëshuar jo më herët se 3 muajt e fundit. Për shtetasit e huaj, certifikata e gjendjes gjyqësore duhet të lëshohet nga organet përgjegjëse në shtetin ku ai ka jetuar për 5 vitet e fundit.
+d) Certifikata e pronësisë dhe/ose kontratë qiraje dhe/ose kontratë huapërdorje që vërtetojnë zotërimin e një mjedisi pune jo më të vogël se 10 m2;
+e) Vetëdeklarim për sipërfaqen e mjedisit të punës që përdoret për ushtrimin e veprimtarisë së agjencisë së udhëtimit;
+f) Vetëdeklarim për pajisjet e përshtatshme të punës.
