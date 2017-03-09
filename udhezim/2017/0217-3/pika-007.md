@@ -1,0 +1,1 @@
+7. Aplikuesi e kontrollon aplikimin për të konfirmuar se informacioni është i saktë. Nëse aplikuesi nuk bie dakord me informacionin, kërkon që administratori shoqëror ta ndryshojë informacionin për të cilin ai pretendon se nuk përputhet me deklarimet e tij/saj. Në përfundim, aplikuesi nënshkruan aplikimin.

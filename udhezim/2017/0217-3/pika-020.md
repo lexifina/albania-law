@@ -1,0 +1,1 @@
+20. Të gjitha organet e administratës shtete-rore dhe njësitë e qeverisjes vendore, në të gjithë territorin e RSH-së, marrin të gjitha masat për vënien në funksion të Regjistrit Elektronik në rang Kombëtar, mbështetjen dhe zbatimin e këtij udhëzimi.

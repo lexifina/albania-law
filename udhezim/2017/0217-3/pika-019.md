@@ -1,0 +1,1 @@
+19. Në rastet kur familja/individi ndryshon vendbanimin, krahas ndryshimit të gjendjes civile, bëhet edhe transferimi dokumentacionit të ndihmës ekonomike pranë Bashkisë/Njësisë Administrative të vendbanimit të ri.

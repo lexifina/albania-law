@@ -1,0 +1,1 @@
+5. Aplikuesit duhet të shoqërojnë aplikimin e tyre me fotokopje të kartave të identitetit të aplikuesit dhe të anëtarëve të tjerë të familjes në moshë madhore të cilët janë pajisur me kartë identiteti.

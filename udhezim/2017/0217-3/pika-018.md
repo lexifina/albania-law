@@ -1,0 +1,1 @@
+18. Familjet/individët përfitues për ndihmë ekonomike paraqiten dhe plotësojnë çdo 3 (tre) muaj deklaratën, nga data 1-15 të muajit, sipas shtojcës 3 të vendimit nr. 955, datë 7.12.2016, të Këshillit të Ministrave “Për përcaktimin e kritereve, të procedurave, dokumentacionit dhe masës së përfitimit të ndihmës ekonomike”.

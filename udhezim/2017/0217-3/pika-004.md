@@ -1,0 +1,1 @@
+4. Familjet aplikuese/individët plotësojnë dokumentacionin për përfitimin e ndihmës ekonomike sipas përcaktimeve në kreun 1, pika 4 të vendimit nr. 955, datë 7.12.2016, të Këshillit të Ministrave “Për përcaktimin e kritereve, të procedurave, dokumentacionit dhe masës së përfitimit të ndihmës ekonomike”.
