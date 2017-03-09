@@ -1,0 +1,1 @@
+7. Për familjet që do të trajtohen me ndihmë ekonomike duhet të jetë kryer paraprakisht vlerësimi social ekonomik në familje nga administratori shoqëror sipas shtojcës 2, të vendimit nr. 955, datë 7.12.2016, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurave, dokumentacionit dhe masës së përfitimit të ndihmës ekonomike”.

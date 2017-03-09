@@ -1,0 +1,1 @@
+1. Këshilli i Bashkisë ka të drejtë të miratojë dhënien e ndihmës ekonomike për familjet që nuk janë përfituese nga sistemi i pikëzimit, duke përdorur deri në 6% nga fondi i kushtëzuar për bllok-ndihmën ekonomike.

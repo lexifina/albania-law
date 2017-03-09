@@ -1,0 +1,1 @@
+10. Masa e ndihmës ekonomike për familjet llogaritet sipas strukturës së familjes, përcaktuar në udhëzimin e ministrit përgjegjës për çështjet sociale “Për përllogaritjen e përfitimit të ndihmës ekonomike”.

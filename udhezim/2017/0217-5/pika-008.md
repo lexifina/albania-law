@@ -1,0 +1,1 @@
+8. Struktura përgjegjëse për shërbimet sociale në Bashki harton projektvendimin për familjet në nevojë nën juridiksionin e Bashkisë, në bazë të propozimeve dhe vlerësimeve social ekonomike të ardhura nga njësitë administrative, për trajtim me ndihmë ekonomike nga fondi i kushtëzuar deri në 6 për qind.

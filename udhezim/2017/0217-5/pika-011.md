@@ -1,0 +1,1 @@
+11. Struktura përgjegjëse për shërbimet sociale në Bashki grumbullon dhe përgatit informacione, statistika mbi numrin e familjeve përfituese të trajtuara sipas këtij udhëzimi dhe fondin e realizuar të cilat i dërgojnë pranë strukturave rajonale të Shërbimit Social Shtetëror.

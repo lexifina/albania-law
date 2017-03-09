@@ -1,0 +1,1 @@
+9. Struktura përgjegjëse për shërbimet sociale në Bashki përllogarit fondin për mbulimin e familjeve në nevojë që do të trajtohen nga fondi i kushtëzuar deri në 6 për qind dhe e dërgon për miratim në Këshillin e Bashkisë.

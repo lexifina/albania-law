@@ -1,0 +1,1 @@
+5. Familjet në nevojë do të përzgjidhen nga lista e familjeve që kanë aplikuar brenda tre muajve të fundit nëpërmjet regjistrit elektronik për ndihmë ekonomike dhe që nuk janë shpallur përfitues nga sistemi i pikëzimit .
