@@ -1,0 +1,1 @@
+9. Për rastet kur familja e përzgjedhur për të përfituar ndihmë ekonomike, është e përbërë vetëm nga një anëtar, i cili është mbi moshë punë masa e ndihmës ekonomike është 2.600 (dymijë e gjashtëqind) lekë.

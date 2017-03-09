@@ -1,0 +1,1 @@
+12. Për bashkëshortët në proces zgjidhje martese, kur ende nuk ka një vendim gjykate të formës së prerë, masa e ndihmës ekonomike për secilin bashkëshort, do të jetë e përllogaritur në bazë të strukturës së familjes.

@@ -1,0 +1,1 @@
+14. Të drejtën për ta tërhequr dhe marrë në dorëzim ndihmën ekonomike për familjet në nevojë e ka bashkëshortja. Për rastet kur në strukturën e familjes bashkëshortja mungon të drejtën e tërheqjes e ka kryetari i familjes.

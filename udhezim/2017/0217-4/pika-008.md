@@ -1,0 +1,1 @@
+8. Kur në përbërjen e strukturës së familjes, për efekt të llogaritjes së masës së ndihmës ekonomike, mbetet vetëm një anëtar, masa e ndihmës ekonomike për këtë të fundit është ajo e llogaritur për këtë anëtar.
