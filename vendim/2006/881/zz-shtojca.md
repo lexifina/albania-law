@@ -1,68 +1,34 @@
 # Shtojca
 LIDHJA NR.1
-PAGA MUJORE
-POZICIONI DREJTUES
 GRADA DIPLOMATIKE
-PAGA INDIVIDUALE
-(PAGA BAZË)
-SHTESA PËR GRADË
-1
-2
-3
-4
-5
-Paga e grupit
-(PG) lekë
-Shtesa vjetore për vjetërsi
-(SHV)
-Shtesa për kualifikim
-(SHK) lekë
-Shtesa për pozicion
-(SHP) lekë
-Sekretar i Përgjithshëm
+POZICIONI
+KATEGORIA E PAGËS
 Ambasador
-1
-2%
-0
-117.300
+Sekretar i Përgjithshëm
+I-b
+Ministër Fuqiplotë
+Ministër Këshilltar
+Konsull i Përgjithshëm
 Drejtor i Përgjithshëm
-Ministër Fuqiplotë.
-Ministër Këshilltar.
-Konsull i Përgjithshëm.
-1
-2%
-0
-107.100
-Drejtor
+II-a
 Këshilltar
-1
-2%
-0
-89.800
+Drejtor
+II-b
+Sekretar i parë
+Konsull
 Përgjegjës sektori
-Sekretar i Parë.
-Konsull.
-1
-2%
-0
-72.500
-Sekretar i Dytë.
-Zëvendëskonsull.
-1 ose 2
-2%
-0
-55.100
-Sekretar i Tretë.
-Agjent Konsullor.
-1 ose 2 ose 3
-2%
-0
-43.900
+III-a
+Sekretar i dytë
+Zëvendëskonsull
+Specialist
+III-b
+Sekretar i tretë
+Agjent Konsullor
+Specialist
+IV-a
 Atashe
-1 ose 2 ose 3
-2%
-0
-33.700
+Specialist
+IV-b
 LIDHJA NR.2
 POZICIONI
 KUALIFIKIMI/GRADA/
@@ -92,6 +58,7 @@ pasuniversitare/master i
 nivelit të dytë
 20 000
 Shënim. Vlerat 20 000 lekë, për diplomat “Master i nivelit të dytë/studime të thelluara pasuniversitare”, dhe 25 000 lekë, për gradën shkencore “Doktor i shkencave”, zbatohen për nëpunësit, që i kanë përfituar diplomat përkatëse në universitetet apo shkollat e arsimit të lartë në vendet e përcaktuara në listën, që i bashkëlidhet udhëzimit të përbashkët të Ministrisë së Arsimit dhe Shkencës, Ministrisë së Financave dhe Departamentit të Administratës Publike.
+VLERA E PAGËS SË GRUPIT PËR GRUPET E DIPLOMAVE TË ARSIMIT UNIVERSITAR
 Lidhja nr.3
 VLERA E PAGËS SË GRUPIT PËR GRUPET E DIPLOMAVE TË ARSIMIT UNIVERSITAR
 Grupi i diplomës
