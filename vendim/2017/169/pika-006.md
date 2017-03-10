@@ -1,0 +1,1 @@
+6. Për përfitimin e ndihmës së menjëhershme financiare, sipas pikës 1, të këtij vendimi, punonjësi i policisë parashtron faktin e dëmtimit dhe dorëzon zyrtarisht dokumentacionin, pranë titullarit të institucionit policor ku ai shërben.

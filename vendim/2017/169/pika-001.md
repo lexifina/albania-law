@@ -1,0 +1,1 @@
+1. Punonjësi i Policisë së Shtetit, në rast të dëmtimit të rëndë të pronës për shkak të detyrës, përfiton ndihmë të menjëhershme financiare në masën 100 për qind të vlerës së pronës së dëmtuar, por jo më shumë se 1 000 000 (një milion) lekë.

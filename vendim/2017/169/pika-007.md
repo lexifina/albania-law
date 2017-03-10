@@ -1,0 +1,1 @@
+7. Drejtori i Policisë së Shtetit urdhëron ngritjen e komisionit për verifikimin e faktit dhe vlerësimin e dëmit të shkaktuar. Urdhri për ngritjen e komisionit i komunikohet zyrtarisht punonjësit të policisë që ka kërkuar ndihmë të menjëhershme financiare.

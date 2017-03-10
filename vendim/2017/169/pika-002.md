@@ -1,0 +1,1 @@
+2. Punonjësi i policisë e përfiton ndihmën e menjëhershme financiare, sipas pikës 1, të këtij vendimi, kur dëmtimi i pronës së paluajtshme ose të luajtshme, vlerësohet më shumë se 100 000 (njëqind mijë) lekë.
