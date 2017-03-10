@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 10.11.2016, për çështjen “Dino kundër Shqipërisë”, për kërkesën nr. 49976/13, në shumën 6 600 (gjashtë mijë e gjashtëqind) euro, në lidhje me dëmin pasuror dhe jopasuror si dhe kostot e shpenzimet, duke e përjashtuar nga çdo taksë që mund të jetë e aplikueshme.

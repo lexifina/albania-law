@@ -1,0 +1,1 @@
+3. Vlera e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të kërkuesit, z. Thanas Dino, në vlerën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 10.11.2016 (përfundimtar), për çështjen “Dino kundër Shqipërisë”, (kërkesa 49976/13).

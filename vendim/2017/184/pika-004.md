@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar, sipas pikës 3, të këtij vendimi, në favor të kërkuesit, z. Thanas Dino, të bëhet nga Ministria e Financave, pas paraqitjes së dokumentacionit të nevojshëm ligjor, brenda afatit 3-mujor, nga dita kur vendimi i Gjykatës është bërë përfundimtar.
