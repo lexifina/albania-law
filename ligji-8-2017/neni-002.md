@@ -1,0 +1,5 @@
+# Neni 2
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+1. “Ish-naftëtar” është shtetasi që ka punuar në industrinë e naftës dhe të gazit në profesionin dhe punën e përcaktuar në vendimin nr. 526, datë 20.12.1958, të Këshillit të Ministrave, “Për ndarjen e punëve në kategori për efekt pensioni”, ish-punonjësit e uzinave mekanike të naftës dhe personeli inxhiniero- teknik, që kanë punuar në ish-ndërmarrjet e sistemit të naftës, si shpim-kërkim, shpim-shfrytëzim, prodhimit, sizmikës, gjeofizikës kantieriale, mekanikës, institutet gjeologjike dhe teknologjike, përpunimit, transportit me naftësjellës dhe gazsjellës.
+2. “Naftëtar” është shtetasi që punon në industrinë e naftës e të gazit në profesionin dhe punën e përcaktuar në vendimin nr. 526, datë 20.12.1958, të Këshillit të Ministrave, “Për ndarjen e punëve në kategori për efekt pensioni”, punonjësit e uzinave mekanike të naftës dhe personeli inxhiniero-teknik, që punon në ndërmarrjet e sistemit të naftës, si shpim-kërkim, shpim-shfrytëzim, prodhimit, sizmikës, gjeofizikës kantieriale, mekanikës, institutet gjeologjike dhe teknologjike, përpunimit, transportit me naftësjellës dhe gazsjellës.
