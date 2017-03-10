@@ -1,0 +1,1 @@
+2. Institucioni i arsimit të lartë jopublik “Kolegji Profesional, privat, “New Generation””, Tiranë, të arkivojë të gjithë dokumentacionin mësimor, administrativ dhe financiar në Drejtorinë e Përgjithshme të Arkivave, në përputhje me kuadrin ligjor mbi arkivat, brenda datës 31 mars 2017.

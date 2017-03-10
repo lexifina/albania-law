@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit të arsimit të lartë jopublik “Kolegji Profesional, privat, “New Generation””, Tiranë, dhe mbylljen e të gjitha detyrimeve lidhur me veprimtarinë mësimore shkencore në ciklin e studimit ku ushtron veprimtarinë dhe për të gjitha programet e studimit të ofruara.
