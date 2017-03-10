@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Balkan Basalt” sh.p.k. detyrohet të rehabilitojë sipërfaqet në përdorim sipas kushteve të lejes mjedisore dhe, brenda tre viteve të para, të pyllëzojë me fondet e veta një sipërfaqe pyjore prej 35.95 ha në ngastrat e përcaktuara në marrëveshje me Ministrinë e Mjedisit.
