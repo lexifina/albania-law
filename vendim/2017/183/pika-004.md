@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar, sipas përcaktimeve në pikën 3, të këtij vendimi, në favor të kërkueses, znj. Përparime Shehu, të bëhet nga Ministria e Financave, pas paraqitjes së dokumentacionit të nevojshëm ligjor, brenda 3 muajve nga dita që vendimi i gjykatës është bërë përfundimtar.

@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 6.10.2016, për çështjen “Shehu kundër Shqipërisë”, për ankimin nr. 33704/09, në shumën 3 300 (tre mijë e treqind) euro, në lidhje me dëmin jopasuror, plus çdo taksë që mund të jetë e aplikueshme.
