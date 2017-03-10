@@ -1,0 +1,1 @@
+1. Përcaktimin e Autoritetit Shtetëror për Informacionin Gjeohapësinor (ASIG), si autoritet përgjegjës që administron pikën e vetme të informacionit për ofrimin e informacionit minimal për rrjetet e infrastrukturës në nivel kombëtar.
