@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Blerimi Kosturr 2010” sh.p.k. detyrohet të rehabilitojë sipërfaqet në përdorim sipas kushteve të lejeve mjedisore dhe, brenda dy viteve, të pyllëzojë, me fondet e veta, një sipërfaqe pyjore prej 7 ha dhe të përmirësojë 184 ha sipërfaqe kullosore në ngastrat e përcaktuara në marrëveshje me Ministrinë e Mjedisit.

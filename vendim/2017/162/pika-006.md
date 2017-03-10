@@ -1,0 +1,1 @@
+6. Me përmbushjen e detyrimeve të përcaktuara në planin e rehabilitimit nga shoqëria “Blerimi Kosturr 2010” sh.p.k., sipas lejes mjedisore, sipërfaqja e rehabilituar të regjistrohet në fondin pyjor dhe kullosor publik.
