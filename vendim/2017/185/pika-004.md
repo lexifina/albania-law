@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar, sipas pikës 3, të këtij vendimi, në favor të kërkuesit, z. Durim Grabova, të bëhet nga Ministria e Financave, pas paraqitjes së dokumentacionit ligjor të nevojshëm për kryerjen e pagesave, brenda afatit 3-mujor nga dita kur vendimi i gjykatës është bërë përfundimtar.

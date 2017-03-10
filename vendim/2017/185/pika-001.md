@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 8.12.2016, për çështjen “Grabova kundër Shqipërisë”, kërkesa nr. 35844/14, në shumën 53 (pesëdhjetë e tre) euro, për kërkuesin, z. Durim Grabova, në lidhje me kostot dhe shpenzimet, duke e përjashtuar nga çdo taksë që mund të jetë e aplikueshme.
