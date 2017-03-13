@@ -1,0 +1,1 @@
+5. Në komisariatet e policisë, seksionet e policimit në komunitet/rendit publik të ruajnë dhe administrojnë në një dosje të veçantë, kopje të skemave të ruajtjes dhe sigurimit të objekteve dhe vërtetimin e sigurisë për secilin subjekt, që ka marrë masa shtesë sigurie në territorin në juridiksion të komisariatit të policisë.

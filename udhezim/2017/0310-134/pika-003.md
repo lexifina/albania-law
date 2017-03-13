@@ -1,0 +1,1 @@
+3. Vendosja dhe mirëmbajtja e sistemit të kamerave dhe të pajisjeve të teknologjisë në të gjithë objektet e përcaktuara në pikën 1 të këtij udhëzimi, bëhen nga subjekte të regjistruara në Regjistrin Kombëtar Tregtar dhe në Qendrën Kombëtare të Biznesit.

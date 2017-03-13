@@ -1,0 +1,1 @@
+7. Ngarkohen për zbatimin e këtij udhëzimi Drejtoria e Policisë së Shtetit, drejtoritë vendore të policisë dhe komisariatet e policisë në varësi të tyre, si dhe të gjitha subjektet publike apo private që marrin detyrime në bazë të ligjit nr. 19/2016 “Për masat shtesë të sigurisë publike”.
