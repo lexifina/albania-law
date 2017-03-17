@@ -1,0 +1,1 @@
+4. Pjesë e dokumenbteve të inspektimit të jenë edhe listëverifikimet, të cilat hartohen nën përgjegjësinë e inspektorateve vendore, sipas specifikave të tyre, sipas formatit të aneksin II, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

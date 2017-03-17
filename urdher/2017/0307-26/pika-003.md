@@ -1,0 +1,1 @@
+3. Inspektoratet vendore, në përputhje me veçoritë dhe kërkesat e legjislacionit të tyre specifik, të përshtatin formatet e tyre të dokumentimit të veprimtarisë së inspektimit, sipas fushave të inspektimit që mbulojnë, si dhe përmbajtjen e hollësishme të autorizimit për çdo funksion inspektimi në juridiksionin e tyre.
