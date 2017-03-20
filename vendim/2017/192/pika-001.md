@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi Ministrisë së Punëve të Brendshme të pronës së paluajtshme shtetërore ndodhur në zonën kadastrale 2573, indeks harte Ko-Mal-C-5 dhe numër pasurie 1-114, me qëllim pajisjen e subjektit “Partia Socialiste e Shqipërisë” me ndërtesë, për degën vendore të Partisë Socialiste Maliq.

@@ -1,0 +1,1 @@
+2. Ministri i Punëve të Brendshme të lidhë kontratën e huapërdorjes, sipas Kodit Civil, me subjektin “Partia Socialiste e Shqipërisë”, në përputhje me shkronjën “b”, të nenit 22, të ligjit nr. 8580, datë 17.2.2000, të ndryshuar, për periudhën derisa partia politike plotëson kushtet e parashikuara në këtë nen.
