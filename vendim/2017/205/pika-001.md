@@ -1,0 +1,1 @@
+1. Miratimin e autorizimit të ndërtimit të centralit elektrik eolik, dhënë shoqërisë “ALB-Building” sh.p.k., sipas tekstit dhe koordinatave të zonave të përcaktuara në hartën përkatëse, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
