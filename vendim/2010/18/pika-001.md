@@ -1,1 +1,0 @@
-1. Ndryshimin e përgjegjësisë së administrimit të ndërtesës së ish-policisë ndërtimore, dega Tiranë, aktualisht në përdorim të AKCE-së, nga Ministria e Brendshme Autoritetit Kombëtar për Certifikimin Elektronik, sipas planimetrisë, që i bashkëlidhet këtij vendimi.
