@@ -1,0 +1,1 @@
+8. Kohëzgjatja e lojës promocionale përcaktohet me autorizim, bazuar në kërkesën e organizatorit të lojës, dhe miratohet nga Autoriteti i Mbikëqyrjes së Lojërave të Fatit (këtu e më poshtë referuar si AMLF), në varësi të llojit dhe formës së lojës promocionale, që do të organizohet.

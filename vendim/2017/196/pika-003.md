@@ -1,0 +1,1 @@
+3. Për të siguruar pjesëmarrjen në lojë, në varësi të formës së organizimit të lojës së fatit promocionale, personat e interesuar mund të parapaguajnë një shumë të caktuar në mjete monetare ose në ndonjë formë tjetër pagese, në mënyrë të drejtpërdrejtë ose të tërthortë.

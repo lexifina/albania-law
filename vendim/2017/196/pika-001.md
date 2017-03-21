@@ -1,0 +1,1 @@
+1. Lojërat e fatit promocionale mund të organizohen nga subjekte publike ose private, të cilat kërkojnë të promovojnë produkte apo shërbime të biznesit/veprimtarisë së tyre, duke i ofruar fituesit të lojës një çmim/bonus të caktuar në mjete monetare ose në ndonjë formë tjetër shpërblimi.
