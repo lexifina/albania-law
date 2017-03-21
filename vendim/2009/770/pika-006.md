@@ -1,1 +1,0 @@
-6. Për lojërat e fatit, promocionale, jepet autorizimi i posaçëm, sipas formatit të përcaktuar në aneksin 1, që i bashkëlidhet këtij vendimi. Autorizimi është i vlefshëm nga data e fillimit të lojës (e cila nuk duhet të fillojë më vonë se 30 ditë pas datës së marrjes së autorizimit) dhe vlen vetëm për një tip (lloj) të caktuar loje promocionale.
