@@ -1,0 +1,1 @@
+3. Shtesat për natyrë të veçantë pune, për punonjësit e Policisë së Shtetit që punojnë në strukturat e luftës kundër krimit të organizuar, krimeve të rënda, antiterrorit dhe në strukturat e policisë shkencore janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

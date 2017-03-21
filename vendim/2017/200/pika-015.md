@@ -1,0 +1,1 @@
+15. Policia e Shtetit lejohet të përdorë fondin e pagave të planifikuar në programin vjetor buxhetor “Policia e Shtetit”, për shpërblimin e punonjësve të saj, në zbatim të shkronjës “d”, të pikës 1, të nenit 67, të ligjit nr. 108/2014.

@@ -1,0 +1,1 @@
+6. Shtesat për natyrë të veçantë pune, për punonjësit e Policisë së Shtetit që punojnë në strukturat e tjera policore, janë sipas lidhjes nr. 5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
