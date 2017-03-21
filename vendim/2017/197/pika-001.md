@@ -1,0 +1,1 @@
+1. Miratimin e tavaneve përgatitore të shpenzimeve të programit buxhetor afatmesëm 2018-2020, sipas lidhjes nr. 1, “Tavanet e ministrive dhe të institucioneve buxhetore”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
