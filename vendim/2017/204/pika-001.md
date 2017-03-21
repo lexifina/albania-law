@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2017, miratuar për Ministrinë e Zhvillimit Urban, të shtohet fondi prej 27 374 082 (njëzet e shtatë milionë e treqind e shtatëdhjetë e katër mijë e tetëdhjetë e dy) lekësh, në zërin “Studime, projektime”, për pagesën e detyrimit të prapambetur për projektin “Hartimi i planit rregullues të qytetit të Tiranës”.

@@ -1,0 +1,5 @@
+VENDIM
+Nr. 204, datë 15.3.2017
+PËR NJË SHTESË FONDI NË BUXHETIN E VITIT 2017, MIRATUAR PËR MINISTRINË E ZHVILLIMIT URBAN, DHE TRANSFERIMIN E TIJ NGA MINISTRIA E ZHVILLIMIT URBAN TE BASHKIA TIRANË, PËR REALIZIMIN E PAGESËS SË DETYRIMIT TË PRAPAMBETUR PËR SHOQËRINË “URBAPLAN”
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 13, të ligjit nr. 130/2016, “Për buxhetin e vitit 2017”, me propozimin e ministrit të Zhvillimit Urban, Këshilli i Ministrave
+VENDOSI:
