@@ -1,0 +1,1 @@
+2. Administrimi i provimeve të Maturës Shtetë-rore 2017 të bazohet në Rregulloren e Maturës Shtetërore 2017 në Republikën e Shqipërisë, miratuar me urdhrin nr. 39, datë 31.1.2017, të ministrit të Arsimit dhe Sportit.

@@ -1,0 +1,1 @@
+3. Drejtoria e Arsimit Parauniversitar dhe Agjencia Kombëtarë e Provimeve, brenda muajit mars 2017, të përcaktojnë llojin e testeve për secilin provim të Maturës Shtetërore (të detyruar dhe me zgjedhje).
