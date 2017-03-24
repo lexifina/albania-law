@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63536,
+  "title": "PËR CAKTIMIN E DATËS SË ZGJEDHJEVE PËR KRYETAR BASHKIE, BASHKIA KAVAJË, QARKU TIRANË",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "10098",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2017-03-24",
+  "published": "2017-03-24",
+  "in_force": "2017-03-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f86de6abeb5c7aaac1df57f299fa2b0f9507ae4802517fe3e4190d10a85a1217.docx",
+  "source_sha256": "f86de6abeb5c7aaac1df57f299fa2b0f9507ae4802517fe3e4190d10a85a1217",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63536",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2017/03/24/10098",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
