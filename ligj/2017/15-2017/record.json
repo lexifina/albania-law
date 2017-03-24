@@ -1,0 +1,28 @@
+{
+  "qbz_id": 65232,
+  "title": "PËR ARSIMIN DHE FORMIMIN PROFESIONAL NË REPUBLIKËN E SHQIPËRISË",
+  "type": "Ligj",
+  "kind": "Akt bazë",
+  "number": "15-2017",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2017-02-16",
+  "published": "2017-03-09",
+  "in_force": "2017-03-24",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/a967733d1d1b6c663953736d54053e92426a22be37cb56a00d2303d4b3179741.docx",
+  "source_sha256": "a967733d1d1b6c663953736d54053e92426a22be37cb56a00d2303d4b3179741",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65232",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2017/02/16/15-2017",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27901
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
