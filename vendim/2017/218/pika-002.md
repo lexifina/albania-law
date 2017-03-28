@@ -1,0 +1,1 @@
+2. Prona e përmendur në pikën 1, të këtij vendimi, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore në përgjegjësi administrimi të “Postës Shqiptare” sh.a., që i bashkëlidhet vendimit nr. 363, datë 11.6.2004, të Këshillit të Ministrave.
