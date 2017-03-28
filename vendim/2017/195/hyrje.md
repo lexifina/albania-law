@@ -1,0 +1,5 @@
+VENDIM
+Nr. 195, datë 15.3.2017
+PËR MIRATIMIN E NDRYSHIMIT NR. 1 TË MARRËVESHJES SË GRANTIT NR. TF019228, TË FONDIT TË BESIMIT ME SHUMË DONATORË “REPARIS”, NDËRMJET REPUBLIKËS SË SHQIPËRISË DHE BANKËS NDËRKOMBËTARE PËR RINDËRTIM DHE ZHVILLIM, PËR FINANCIMIN E PROJEKTIT TË PËRMIRËSIMIT TË CILËSISË SË RAPORTIMIT FINANCIAR, TË MIRATUAR ME VENDIMIN NR. 749, DATË 16.9.2015, TË KËSHILLIT TË MINISTRAVE
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 19 e 23, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave, Këshilli i Ministrave
+VENDOSI:
