@@ -1,0 +1,1 @@
+6. Numri i punonjësve të Ministrisë së Bujqësisë, Zhvillimit Rural dhe Administrimit të Ujërave, për vitin 2017, reduktohet me 5 veta, duke e çuar numrin e përgjithshëm të punonjësve të këtij institucioni në 1 996 punonjës.
