@@ -1,0 +1,1 @@
+2. Sipërfaqja e përgjithshme (ndërtesë dhe truall) në përdorim të Fakultetit të Inxhinierisë Matematike dhe Inxhinierisë Fizike ndryshon nga 2 360 (dy mijë e treqind e gjashtëdhjetë) m2 në 3 915 (tre mijë e nëntëqind e pesëmbëdhjetë) m2, ku përfshihet edhe oborri i brendshëm, sipas planvendosjes dhe planimetrive që i bashkëlidhen këtij vendimi.
