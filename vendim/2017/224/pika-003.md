@@ -1,0 +1,1 @@
+3. Struktura dhe nivelet e pagave për ushtarakët aktivë të personelit akademik, të cilët janë të punësuar me kohë të plotë në Akademinë e Forcave të Armatosura, janë sipas lidhjes nr. 2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
