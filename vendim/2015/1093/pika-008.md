@@ -1,0 +1,1 @@
+8. Ministria që mbulon çështjet e strehimit financon bonusin e strehimit, të barabartë me diferencën ndërmjet qirasë minimale në tregun e lirë, bonusit të financuar nga njësia e qeverisjes vendore dhe qirasë së përballueshme nga familja, në rastet kur diferenca ndërmjet qirasë së tregut dhe vlerës së bonusit kalon 30 për qind të të ardhurave të familjes.

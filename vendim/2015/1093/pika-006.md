@@ -1,0 +1,1 @@
+6. Njësitë e qeverisjes vendore, brenda datës 30 maj të çdo viti, paraqesin pranë ministrisë që financiare për çdo familje, si dhe listën e detajuar të familjeve përfituesve.mbulon çështjet e strehimit kërkesat për bonus strehimi, sipas shtojcës A, të këtij vendimi, të shoqëruar me kostot.

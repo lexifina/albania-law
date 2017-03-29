@@ -1,0 +1,1 @@
+7. Ministria që mbulon çështjet e strehimit trajton kërkesat për bonus strehimi, të depozituara nga njësitë e qeverisjes vendore, në mbështetje të kritereve të përcaktuara në pikat 3, 4 dhe 6, të këtij vendimi.

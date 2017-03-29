@@ -1,0 +1,1 @@
+5. Njësitë e qeverisjes vendore llogaritin vlerën e bonusit të strehimit që financohet nga ministria që mbulon çështjet e strehimit, bazuar në përcaktimet e nenit 15 dhe shtojcës B, të ligjit nr. 9232, datë 13.5.2004, “Për programet sociale të strehimit”, të ndryshuar.

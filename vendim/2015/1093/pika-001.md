@@ -1,0 +1,1 @@
+1. Miratimin e procedurave, kritereve dhe përparësive për dhënien e bonusit të strehimit nëpërmjet fondeve të buxhetit të shtetit, sipas shtojcës që i bashkëlidhet dhe është pjesë përbërëse e këtij vendimi.
