@@ -1,0 +1,1 @@
+2. Për vitin 2017, kjo kosto është jo më shumë se 173 000 000 (njëqind e shtatëdhjetë e tre milionë) lekë dhe përballohet nga zëri i kostos lokale të miratuar në buxhetin e vitit 2017, për Fondin Shqiptar të Zhvillimit.

@@ -1,0 +1,1 @@
+1. Financimin e kostos së menaxhimit të projekteve që zbatohen nga Fondi Shqiptar i Zhvillimit, të cilat nuk e kanë të parashikuar këtë kosto në marrëveshjet përkatëse të financimit. Kjo kosto është në masën 3% mbi vlerën totale të financimit të çdo programi/projekti.
