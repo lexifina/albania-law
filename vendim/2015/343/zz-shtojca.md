@@ -1,7 +1,7 @@
 # Shtojca
 OPERATORI I SISTEMIT TË TRANSMETIMIT
 LISTA E PRONARËVE QË SHPRONËSOHEN PËR EFEKT TË NDËRTIMIT TË LINJËS 110 KV UZNOVË- ÇOROVODË
-Lloji i pasurisë së paluajtshme që shpronësohet: tokë arë, truall,kullotë
+Lloji i pasurisë së paluajtshme që shpronësohet: tokë arë, truall,kullotë (Hequr nr. rendor 29 me VKM nr. 239, datë 21.3.2017)
 Nr.
 Numri i shtyllës
 Të dhëna për pronësinë
@@ -377,14 +377,6 @@ are
 BASHKIA Polican
 N.B POLICAN
 29
-45
-Skender
-Duka
-3019
-32/16
-are
-9250
-47
 30
 50
 Pretendues
