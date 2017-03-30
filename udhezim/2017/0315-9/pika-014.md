@@ -1,0 +1,1 @@
+14. Administrimi dhe zhvillimi i provimeve të Maturës Shtetërore 2017, sesioni i dytë, të bazohet në urdhrin nr. 39, datë 31.1.2017, “Për miratimin e rregullores së Maturës Shtetërore 2017 në Republikën e Shqipërisë”.

@@ -1,0 +1,1 @@
+9. Drejtori i shkollës të dërgojë zyrtarisht në DAR/ZA listën e kandidatëve që do të marrin pjesë në provimet e Maturës Shtetërore 2017, sesioni i dytë, në datën 23 gusht 2017. Drejtori i DAR/ZA-së ta dërgojë këtë listë në AKP në datën 24 gusht 2017.
