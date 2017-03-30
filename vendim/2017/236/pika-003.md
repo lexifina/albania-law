@@ -1,0 +1,1 @@
+3. Ekspozimi i veprave jashtë territorit të Republikës së Shqipërisë, të bëhet në përputhje me udhëzimin nr. 2, datë 18.3.2004, të Këshillit të Ministrave, “Për procedurat e lëvizjes së objekteve të trashëgimisë kulturore, të luajtshme, me vlera të veçanta, kombëtare dhe unikale, për ruajtjen, restaurimin, studimin dhe ekspozimin jashtë territorit të Republikes së Shqipërisë”.
