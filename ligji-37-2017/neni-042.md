@@ -1,0 +1,7 @@
+# Neni 42
+Rregulla të veçanta të pyetjes së të miturit viktimë/dëshmitar nën 14 vjeç
+1. Për të miturit viktima dhe dëshmitarë nën 14 vjeç, përveç parashikimeve të këtij neni, zbatohen për aq sa është e mundur të gjitha garancitë dhe të drejtat e parashikuara nga ky Kod dhe në nenin 361/a, të Kodit të Procedurës Penale.
+2. Pyetja e të miturit nën moshën 14 vjeç mund të bëhet vetëm me pëlqimin dhe në praninë e përfaqësuesit të tij ligjor/procedural, psikologut dhe mbrojtësit të tij. Përfaqësuesi ligjor/procedural ka të drejtë të shprehë mendimin e tij për pyetjet që do t’i drejtohen të miturit.
+3. Ndalohet pjesëmarrja e përfaqësuesit ligjor në rast se kjo është në kundërshtim me interesin më të lartë të fëmijës dhe nëse ai dyshohet për kryerjen e veprimeve dhe/ose mosveprimeve të paligjshme.
+4. Të miturit nën 14 vjeç i shpjegohet në mënyrë të qartë dhe të kuptueshme, si dhe përmes shembujve, rëndësia për të thënë të vërtetën dhe pasojat që mund të sjellë mosthënia e të vërtetës për personat e tretë. Të miturit i shpjegohet që nuk ka përgjegjësi penale për veprën penale, për refuzimin e dhënies së dëshmisë ose të dhënies së një dëshmie të rreme.
+5. Organi procedues konsulton paraprakisht me psikologun përmbajtjen e pyetjeve që do t’i drejtohen të miturit, duke synuar që atij t’i sigurohet pyetja në mënyrën e duhur, lehtësimi i dhënies së dëshmisë, eliminimi i frikësimit ose ndrojtjes nga procesi.

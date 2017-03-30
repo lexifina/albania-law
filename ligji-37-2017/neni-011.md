@@ -1,0 +1,4 @@
+# Neni 11
+Parimi i mbrojtjes nga diskriminimi
+1. Të drejtat që burojnë nga ky Kod i garantohen pa asnjë lloj diskriminimi çdo të mituri në konflikt me ligjin, viktimë ose dëshmitar, pavarësisht nga gjinia, raca, ngjyra, etnia, gjuha, identiteti gjinor, orientimi seksual, bindjet politike, fetare ose filozofike, gjendja ekonomike, arsimore ose shoqërore, shtatzania, përkatësia prindërore, përgjegjësia prindërore, gjendja familjare ose martesore, gjendja civile, vendbanimi, gjendja shëndetësore, predispozicionet gjenetike, aftësia e kufizuar, përkatësia në një grup të veçantë dhe çdo gjendje tjetër e të miturit, prindërve ose përfaqësuesve ligjorë të të miturit.
+2. Të drejtat për të miturin, të parashikuara në këtë Kod, mbrohen nga të gjitha format e diskriminimit për një nga shkaqet e parashikuara në pikën 1 të këtij neni.

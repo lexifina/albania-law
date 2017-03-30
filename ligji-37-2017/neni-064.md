@@ -1,0 +1,10 @@
+# Neni 64
+Procedura e ndërmjetësimit
+1. Ndërmjetësimi si procedurë jashtëgjyqësore zhvillohet nga ndërmjetësi sipas dispozitave të këtij Kodi dhe ligjit në fuqi për ndërmjetësimin.
+2. Ndërmjetësimi mund të zhvillohet vetëm nëse ekziston pëlqimin i lirë për ndërmjetësim i shprehur si nga i të miturit i akuzuar i veprës penale dhe palës së dëmtuar. Dhënia e pëlqimit duhet të shënohet në procesverbalin e organit procedues.
+3. Ndërmjetësimi mund të zhvillohet vetëm me pjesëmarrjen personale të të miturit autor i veprës penale dhe palës së dëmtuar.
+4. Në procesin e ndërmjetësimit, me pëlqimin e palëve, mund marrin pjesë gjithashtu përfaqësuesi ligjor i të miturit, psikologu, punonjësi i Njësisë për Mbrojtjen e të Drejtave të Fëmijës, prokurori dhe/ose personat e tjerë të caktuar prej tij. Prokurori mund të marrë pjesë në procesin e ndërmjetësimit nëse ai e vlerëson.
+5. Ndërmjetësimi për zgjidhjen e mosmarrëveshjeve, sipas rastit, mund të zbatohet edhe si masë shmangieje por edhe si një mundësi që çon në përmirësimin e marrëdhënieve midis të miturit autor dhe viktimës së veprës penale.
+6. Prokurori gjatë hetimit dhe gjyqtari gjatë gjykimit, sipas rastit, mund të propozojnë ndërmjetësimin nëse vlerësojnë se kjo alternativë është më e përshtatshme, duke pasur parasysh natyrën e veprës penale, rrethanat në të cilat është kryer vepra penale, historinë e të miturit, mundësinë e kthimit të raporteve normale mes të miturit dhe palës së dëmtuar, mundësinë e zvogëlimit të dëmit të palës së dëmtuar, mundësinë e rehabilitimit të të miturit dhe riintegrimin e tij në shoqëri.
+7. Në rast se propozimi i prokurorit/gjyqtarit për ndërmjetësim pranohet nga palët, atëherë prokurori/gjyqtari vendos pezullimin e procesit penal për një afat jo më shumë se 45 ditë. Nëse marrëveshja e ndërmjetësimit arrihet prokurori/gjyqtari vendos pushimin e çështjes. Në se marrëveshja e ndërmjetësimit nuk arrihet me kalimin e 45 ditëve, pezullimi bie dhe vazhdon hetimi/gjykimi i çështjes.
+8. Shpenzimet e procedurës së ndërmjetësimit bëhen sipas legjislacionit në fuqi.

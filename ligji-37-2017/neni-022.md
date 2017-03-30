@@ -1,0 +1,6 @@
+# Neni 22
+Vlerësimi individual i të miturit
+1. Në çdo fazë të drejtësisë penale për të mitur, organi që administron procesin e trajton të miturin me kujdes dhe vëmendje të veçantë.
+2. Në çdo vendimmarrje në lidhje me të miturin, merren në konsideratë rrethanat individuale të tilla si: mosha, niveli i zhvillimit, kushtet e jetesës, mënyra e rritjes dhe e zhvillimit, edukimi dhe arsimimi, gjendja shëndetësore, gjendja familjare dhe rrethanat e tjera, të cilat lejojnë vlerësimin individual.
+3. Gjykata/prokurori, përpara marrjes së ndonjë vendimi mbi të miturin, thërret, sipas rastit, një ekspert ose grup ekspertësh të disiplinave të ndryshme për vlerësimin e rrethanave individuale, shëndetësore, familjare, sociale dhe mjedisore të të miturit në mënyrë që të kuptojë personalitetin, përgjegjshmërinë dhe shkallën e përgjegjësisë së tij.
+4. Në qoftë se gjykata/prokurori, pas përfundimit të vlerësimit individual konstaton se i mituri vuan nga çrregullime të shëndetit mendor, që e bën atë të papërgjegjshëm, i mituri përjashtohet nga përgjegjësia penale dhe, nëse është e nevojshme, vendoset në një institucion mjekësor të pavarur dhe të specializuar, sipas parashikimeve të Kodit të Procedurës Penale.

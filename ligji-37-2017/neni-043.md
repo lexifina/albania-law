@@ -1,0 +1,13 @@
+# Neni 43
+Masat për të mbrojtur jetën private dhe mirëqenien e të miturve
+viktima dhe dëshmitarë
+Me kërkesë të të miturit viktimë ose dëshmitar, përfaqësuesit të tij ligjor ose procedural dhe/ose mbrojtësit të tij, ose kryesisht, gjykata, duke marrë parasysh interesin më të lartë të të miturit, urdhëron, sipas rastit, marrjen e një ose më shumë masave të duhura dhe të përshtatshme për të mbrojtur jetën private dhe mirëqenien fizike dhe mendore të të miturit dhe për të parandaluar vuajtjen dhe viktimizimin dytësor, të tilla si:
+a) fshirjen nga të dhënat publike të emrave, adresave, vendeve të shkollimit dhe/ose të punës, profesioneve ose çdo informacioni tjetër që mund të përdoret për të identifikuar të miturin;
+b) ndalimin e mbrojtësit të të pandehurit dhe të të miturit viktimë/dëshmitar që të zbulojë identitetin e të miturit ose ndonjë material ose informacion që mund të ndikojë për të identifikuar të miturin;
+c) urdhërimin për mosbërjen publike të shkresave që identifikojnë të miturin për aq sa gjykata e çmon të nevojshme;
+ç) caktimin e një numri për të miturin për efekt të përgatitjes së mbrojtjes së të akuzuarit, data e lindjes dhe emri i plotë i të miturit, sipas rastit, do të zbulohen brenda një periudhe të arsyeshme;
+d) marrjen e masave për mosidentifikimin e të miturit, të tilla si: ndryshimin e imazhit/pamjes/ figurës ose të zërit; vendosjen e një mburoje jo të tejdukshme; pyetjen në një mjedis tjetër dhe transmetimin në të njëjtën kohë në sallën e gjykimit me anë të televizionit me qark të mbyllur; filmimin (regjistrimit me zë dhe me figurë) të pyetjes së dëshmitarit të mitur përpara seancës, rast në të cilin mbrojtësi i të akuzuarit merr pjesë në shqyrtim dhe i jepet mundësia t’i bëjë pyetje të miturit dëshmitar ose viktimë; komunikimin me anë të një ndërmjetësi të kualifikuar dhe të përshtatshëm, përfshirë përkthyes/interpretues për të miturit me paaftësi në dëgjim, shikim, të folur ose paaftësi të tjera, por pa u kufizuar vetëm në to;
+dh) zhvillimin e seancës me dyer të mbyllura;
+e) urdhërimin për të hequr përkohësisht të akuzuarin nga salla e gjykimit, nëse i mituri refuzon të dëshmojë në prani të të akuzuarit, ose nëse rrethanat tregojnë se i mituri mund të frenohet për thënien e të vërtetës në prani të atij personi. Në raste të tilla, mbrojtësi i të miturit qëndron në sallën e gjyqit dhe mund t’i bëjë pyetje të miturit, duke garantuar kështu të drejtën e të akuzuarit për debat gjyqësor;
+ë) lejimin e ndërprerjes së seancave gjatë dëshmisë së të miturit;
+f) marrjen e çdo mase tjetër që gjykata mund ta çmojë të nevojshme, duke përfshirë, kur është e zbatueshme, anonimitetin, duke marrë në konsideratë interesin më të lartë të të miturit dhe të drejtat e të akuzuarit.

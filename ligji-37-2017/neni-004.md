@@ -1,0 +1,5 @@
+# Neni 4
+Fusha e zbatimit
+1. Ky Kod zbatohet vetëm për procedurën e administrimit të drejtësisë për të miturit në konflikt me ligjin, si dhe për të miturit viktima dhe/ose dëshmitarë të veprave penale.
+2. Në rastet e parashikuara në nenin 27, pika 5, të këtij Kodi, ky Kod zbatohet edhe për një person të moshës nga 18 deri në 21 vjeç, nëse ky është i pandehur për një vepër penale të kryer kur ka qenë i mitur.
+3. Rregullimet e parashikuara në këtë Kod nuk përfshijnë të miturit që kryejnë vepra penale nën moshën e përgjegjësisë penale, ndaj të cilëve nuk fillon procedimi penal ose, nëse ka filluar, pushohet menjëherë. Në këtë rast vihen në lëvizje strukturat e mbrojtjes së fëmijëve dhe zbatohen të gjitha masat e parashikuara nga ligji për të drejtat dhe mbrojtjen e fëmijëve, me qëllim që atyre t’u sigurohen të njëjtat garanci procedurale, ndihmë dhe shërbime si për të miturit në konflikt me ligjin/viktimë ose dëshmitar, për sa i përket procesit të marrjes në pyetje dhe kontaktit me organet e policisë dhe prokurorisë.

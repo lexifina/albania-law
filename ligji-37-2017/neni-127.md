@@ -1,0 +1,6 @@
+# Neni 127
+Procedurat për dhënien e masave disiplinore
+1. Shkelja disiplinore e të miturit të arrestuar/të dënuar shqyrtohet në një seancë dëgjimore, me përjashtim të rastit kur i mituri prish rregullin ose pengon kryerjen e seancës, nuk merr pjesë ose refuzon të marrë pjesë në të. Ky fakt pasqyrohet në procesverbalin e mbajtur gjatë kësaj seance.
+2. Gjatë seancës dëgjimore i mituri i arrestuar/i dënuar ka të drejtë të jetë i ulur, të marrë shënime e të japë shpjegime me gojë.
+3. I mituri i arrestuar/i dënuar ka të drejtë për të pasur një mbrojtës në seancën dëgjimore të shqyrtimit të shkeljes disiplinore. Përpara se të fillojë seanca dëgjimore, i mituri informohet për të drejtën për të pasur një mbrojtës, gjë që ushtrohet brenda gjashtë orëve nga dhënia e informacionit, në rast se ka një pëlqim të lidhur me të. Në rast se mbrojtësi nuk paraqitet në kohën e përcaktuar, të miturit do t’i caktohet një mbrojtës kryesisht. I mituri jep pëlqimin lidhur me mbrojtësin kryesisht. Shpenzimet për mbrojtjen kryesisht mbulohen sipas parashikimeve të legjislacionin për ndihmën juridike.
+4. Rregulla të posaçme lidhur me procedurat e masës disiplinore për të mitur dhe autoritetet përkatëse përcaktohen në Rregulloren e Përgjithshme të Burgjeve.
