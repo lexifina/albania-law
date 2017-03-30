@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Integrimit Europian, Sekretarit të Përgjithshëm, znj. Daniela Çekani, për autorizimin e shërbimeve brenda vendit, në një largësi mbi 100 km jashtë qendrës së punës.
