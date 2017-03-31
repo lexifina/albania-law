@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet ndryshimi i marrëveshjes së huas dhe projektit ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit sh.a., si agjencia e zbatimit të projektit, dhe KfW Frankfurt am Main për financimin e projektit “Linja unazore 110 kilovolt e Shqipërisë së Jugut”, nëpërmjet një huaje prej 10 750 000 (dhjetë milionë e shtatëqind e pesëdhjetë mijë) eurosh, të ratifikuar me ligjin nr. 10 250, datë 11.3.2010, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
