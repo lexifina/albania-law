@@ -1,0 +1,1 @@
+5. Çdo institucion i arsimit të lartë raporton në QSHA, programet e studimit që ofrojnë dhe diplomat apo certifikatat që ata lëshojnë, sipas procedurës të përcaktuar me udhëzim të ministrit përgjegjës për arsimin.

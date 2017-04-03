@@ -1,0 +1,1 @@
+7. Çdo urdhër profesional dhe njësi arsimore vendore raporton në QSHA, listat e kandidatëve që do t’i nënshtrohen provimit të shtetit, për çdo profesion të rregulluar sipas afateve të përcaktuar me udhëzim të ministrit përgjegjës për arsimin.

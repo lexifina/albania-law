@@ -1,0 +1,1 @@
+14. QSHA-ja është institucion që financohet nga buxheti i shtetit dhe të ardhurat e veta, si dhe ka të drejtën e administrimit të të ardhurave të krijuara, në masën 90 për qind të vitit buxhetor. Të ardhurat e papërdorura kalojnë në vitin pasardhës buxhetor.

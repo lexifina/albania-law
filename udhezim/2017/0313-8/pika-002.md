@@ -1,0 +1,1 @@
+2. QSHA-ja ka për objekt veprimtarie ofrimin e shërbimeve për nxënësit, studentët, kandidatët për të marrë titullin e një profesioni të rregulluar, shkollat, IAL-të, urdhrat profesionalë, institucionet dhe të tretët.

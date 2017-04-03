@@ -1,0 +1,1 @@
+1. Qendra e Shërbimeve Arsimore (QSHA), është institucion publik i krijuar me ligj, në varësi të ministrit përgjegjës për arsimin, që ka për mision ofrimin e shërbimeve dhe sigurimin e aksesit publik në fushën e arsimit të lartë dhe arsimit parauniversitar.

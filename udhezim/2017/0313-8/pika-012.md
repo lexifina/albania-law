@@ -1,0 +1,1 @@
+12. Drejtori i përgjithshëm emërohet, lirohet ose shkarkohet nga detyra me urdhër të ministrit përgjegjës për arsimin, sipas kritereve dhe procedurave të përcaktuara me vendimin nr.173, datë 7.3.2003, të Këshillit të Ministrave, “Për emërimin, lirimin ose shkarkimin nga detyra të drejtuesve të institucioneve në varësi të Këshillit të Ministrave, Kryeministrit ose të ministrit”.

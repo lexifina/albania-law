@@ -1,0 +1,1 @@
+6. Çdo institucion i arsimit të lartë raporton në QSHA, të gjithë aplikantët e regjistruar në ciklin e parë, të dytë dhe të tretë të studimeve të larta, si dhe listën e të diplomuarve sipas cikleve, brenda afateve të përcaktuara nga ministria përgjegjëse për arsimin.

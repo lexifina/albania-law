@@ -1,0 +1,1 @@
+3. Shërbimet ndaj të tretëve ofrohen nga QSHA-ja pas miratimit nga ministria përgjegjëse për arsimin. QSHA-ja i ofron këto shërbime kundrejt tarifave të miratuara me vendim të Këshillit të Ministrave.

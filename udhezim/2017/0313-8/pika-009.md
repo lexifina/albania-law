@@ -1,0 +1,1 @@
+9. QSHA-ja lëshon diplomën e maturës shtetërore, që është dokumenti i përfundimit të arsimit të mesëm të lartë është, dhe jepet pasi nxënësi është kalues në provimet kombëtare, të detyruara dhe me zgjedhje, të maturës shtetërore.

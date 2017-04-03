@@ -1,0 +1,10 @@
+4. QSHA-ja ka këto funksione:
+a) Koordinon procesin e aplikimit në institucionet e arsimit të lartë, për ndjekjen e studimeve në programet e ciklit të parë, atyre të integruara dhe programet profesionale;
+b) Pranon aplikimet, koordinon procesin e shqyrtimit dhe vendimmarrjes nga Komisioni i Posaçëm i ngritur në Ministrinë e Arsimit dhe Sportit, si dhe nëpërmjet nëpunësve të caktuar shërben si Sekretariat Teknik i Komisionit për procedurat e njëvlershmërisë së dëftesave dhe diplomave të nxënësve të ardhur nga jashtë vendit. QSHA-ja administron dokumentacionin e këtij procesi sipas përcaktimeve të kuadrit ligjor në fuqi.
+c) Pranon aplikimet, koordinon procesin e shqyrtimit dhe vendimmarrjes nga Komisioni i Posaçëm i ngritur në Ministrinë e Arsimit dhe Sportit, si dhe nëpërmjet nëpunësve të caktuar shërben si Sekretariat Teknik i Komisionit për njohjen e diplomave, certifikatave e gradave të fituara në përfundim të studimeve të kryera jashtë vendit dhe njohja e titujve të lëshuar nga një institucion i huaj i arsimit të lartë. QSHA-ja administron dokumentacionin e këtij procesi sipas përcaktimeve të kuadrit ligjor në fuqi.
+d) Përcjell rezultatet e provimit të shtetit në ministritë e linjës, urdhrat profesionalë dhe njësitë arsimore vendore.
+e) Krijon dhe administron regjistrin kombëtar të studentëve të të gjitha cikleve dhe një bazë të dhënash për institucionet e arsimit të lartë, lidhur me programet e studimit, diplomat apo certifikatat që ato lëshojnë.
+f) Pajis çdo student, në regjistrimin fillestar në një institucion të arsimit të lartë me një numër unik matrikullimi, për çdo cikël studimi. Ky numër e shoqëron studentin deri në marrjen e diplomës ose certifikatës për ciklin përkatës të studimit, sipas përcaktimeve të bëra me udhëzim të ministrit përgjegjës për arsimin.
+g) Realizon studime që lidhen me provimet kombëtare dhe provimet e shtetit.
+h) Merr masa për sigurinë e bazave të të dhënave që administron.
+i) Ofron çdo shërbim tjetër, të lidhur me objektin e veprimtarisë së saj, sipas akteve ligjore dhe nënligjore në fuqi, si dhe shërbime të tjera të miratuara nga Ministri përgjegjës për arsimin.
