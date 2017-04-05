@@ -1,0 +1,1 @@
+1. Transferimin e pronësisë së 45.11% (dyzet e pesë pikë njëmbëdhjetë), të kuotave të shoqërisë “Qendra Tregtare e Zhvillimit Kulturor” sh.p.k., Tiranë, nga Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes te Bashkia e Tiranës.
