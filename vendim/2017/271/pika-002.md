@@ -1,0 +1,1 @@
+2. Lejimin e lëvizjes jashtë territorit të Republikës së Shqipërisë të 3 (tri) veprave të artit në pikturë dhe vizatim, pjesë e fondit të Galerisë Kombëtare të Arteve, me qëllim realizimin e ekspozitës që do të zhvillohet në ambientet e Muzeut të Arteve të Bukura, Neue Galerie, Kassel Gjermani, sipas tabelës II, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

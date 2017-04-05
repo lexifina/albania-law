@@ -1,0 +1,1 @@
+1. Lejimin e lëvizjes jashtë territorit të Republikës së Shqipërisë të 15 (pesëmbëdhjetë) veprave të artit në pikturë dhe vizatim, pjesë e fondit të Galerisë Kombëtare të Arteve, me qëllim realizimin e ekspozitës që do të zhvillohet në ambientet e Muzeut Kombëtar të Artit Bashkëkohor, Athinë, Greqi, sipas tabelës I, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

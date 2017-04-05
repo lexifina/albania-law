@@ -1,0 +1,5 @@
+VENDIM
+Nr. 271, datë 29.3.2017
+PËR LËVIZJEN JASHTË TERRITORIT TË REPUBLIKËS SË SHQIPËRISË TË 18 VEPRAVE TË ARTIT NË PIKTURË DHE VIZATIM, PJESË E FONDIT TË GALERISË KOMBËTARE TË ARTEVE, ME QËLLIM REALIZIMIN E EKSPOZITAVE “DOCUMENTA 14”, QË DO TË ZHVILLOHEN NË AMBIENTET E MUZEUT KOMBËTAR TË ARTIT BASHKËKOHOR ATHINË, GREQI, DHE NË MUZEUN E ARTEVE TË BUKURA, NEUE GALERIE, KASSEL, GJERMANI
+Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 3, të nenit 19, të ligjit nr. 9048, datë 7.4.2003, “Për trashëgiminë kulturore”, të ndryshuar, me propozimin e ministrit të Kulturës, Këshilli i Ministrave
+VENDOSI:

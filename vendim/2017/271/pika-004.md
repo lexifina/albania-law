@@ -1,0 +1,1 @@
+4. Lejimi i lëvizjes të bëhet nga data 2 maj 2017 deri më 8 tetor 2017, për veprat e artit, pjesë e fondit të Galerisë Kombëtare të Artit, që kërkohen të ekspozohen në Muzeun e Arteve të Bukura, Neue Galerie, Kassel, Gjermani.

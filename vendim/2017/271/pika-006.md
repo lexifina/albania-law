@@ -1,0 +1,1 @@
+6. Ngarkohet Galeria Kombëtare e Arteve të kryejë shoqërimin dhe kthimin e veprave në vendin e origjinës, pas mbarimit të veprimtarisë, dhe Qendra Kombëtare e Inventarizimit të Pasurive Kulturore të kryejë regjistrimin e lëvizjes së objekteve.

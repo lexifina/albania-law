@@ -1,0 +1,1 @@
+3. Lejimi i lëvizjes të bëhet nga data 31 mars 2017 deri më 6 gusht 2017, për veprat e artit, pjesë e fondit të Galerisë Kombëtare të Artit, që kërkohen të ekspozohen në Muzeun e Artit Bashkëkohor Athinë, Greqi.
