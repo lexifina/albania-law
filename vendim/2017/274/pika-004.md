@@ -1,0 +1,1 @@
+4. Bashkia Librazhd dhe shoqëria “Rosi Construction” sh.p.k. nënshkruajnë marrë-veshjen e bashkëpunimit jo më vonë se 60 ditë nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes, së bashku me projektet e miratuara, dërgohet për monitorim në Ministrinë e Mjedisit, jo më vonë se 10 ditë nga data e nënshkrimit të saj.
