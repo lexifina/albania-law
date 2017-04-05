@@ -1,0 +1,1 @@
+1. Në vendimin nr. 417, datë 8.6.2011, të Këshillit të Ministrave, kudo, në titull dhe në përmbajtjen e vendimit, fjalët “…të Komunës Çërravë…” zëvendësohen me “…në njësinë administrative Çërravë, Bashkia Pogradec…”.

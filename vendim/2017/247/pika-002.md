@@ -1,0 +1,1 @@
+2. Transferimin në pronësi të Bashkisë Pogradec, në njësinë administrative Çërravë, të pasurisë me nr. 77, e ndodhur në zonën kadastrale 2420, me sipërfaqe 5 900 (pesë mijë e nëntëqind) m2, sipas planimetrisë bashkëlidhur këtij vendimi, me qëllim ndërtimin e stacionit të transferimit të mbetjeve të ngurta.
