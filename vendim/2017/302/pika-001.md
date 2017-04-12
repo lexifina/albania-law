@@ -1,0 +1,1 @@
+1. Financimin në masën 75 498 727.92 (shtatëdhjetë e pesë milionë e katërqind e nëntëdhjetë e tetë mijë e shtatëqind e njëzet e shtatë pikë nëntëdhjetë e dy) lekë nga fondet e buxhetit të shtetit, për projektin “Ristrukturimi i pistës së atletikës, pjesë e stadiumit “Loro Boriçi”, Shkodër.

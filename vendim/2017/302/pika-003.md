@@ -1,0 +1,1 @@
+3. Fondi prej 75 498 727.92 (shtatëdhjetë e pesë milionë e katërqind e nëntëdhjetë e tetë mijë e shtatëqind e njëzet e shtatë pikë nëntëdhjetë e dy) lekë për financimin e projektit “Ristrukturimi i pistës së atletikës, pjesë e stadiumit “Loro Boriçi”, Shkodër, të përballohet nga fondi rezervë i Këshillit të Ministrave.
