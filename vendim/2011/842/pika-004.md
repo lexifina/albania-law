@@ -1,1 +1,3 @@
-4. Kryerja e pagesave për personat përfitues të bëhet sipas procedurave që do të përcaktohen me udhëzim të përbashkët të Ministrit të Financave dhe të Ministrit të Brendshëm.
+4. KESH, sh.a-ja., pasi të rakordojë detyrimet e pashlyera, të fillojë menjëherë kryerjen e drejtpërdrejtë të pagesave ndaj subjekteve të përcaktuara në pikën 2, të këtij vendimi, të cilave nuk u është përmbushur detyrimi i dhënies së kompensimit për dëmet në kulturat bujqësore dhe në biznese.
+Kryerja e pagesave të bëhet drejtpërdrejt nga KESH, sh.a-ja., nëpërmjet bankave të nivelit të dytë, me të cilat KESH, sh.a-ja., do të bashkëpunojë për dhënien e këtij shërbimi. Procedurat e pagesës përcaktohen me urdhër të ministrit të Energjisë dhe Industrisë.
+KESH, sh.a-ja., ngarkohet të informojë, me shkrim, pranë Ministrisë së Financave, Ministrisë së Punëve të Brendshme, Këshillit të Qarkut Shkodër dhe Prefektit të Qarkut Shkodër në përfundim të procesit.
