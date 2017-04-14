@@ -1,0 +1,1 @@
+8. Vendimi nr.264, datë 3.4.2013, i Këshillit të Ministrave, “Për organizimin e punës për përafrimin e legjislacionit në fushën e së drejtës së vendosjes dhe lëvizjes së lirë të shërbimeve”, shfuqizohet.

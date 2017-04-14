@@ -1,0 +1,1 @@
+4. Ngarkimin e Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes për hartimin e planit të integruar për rishikimin e legjislacionit ekzistues sektorial, për shqyrtimin e përputhshmërisë me ligjin nr.66/2016, “Për shërbimet në Republikën e Shqipërisë”, brenda 6 muajve nga hyrja në fuqi e këtij vendimi.

@@ -1,0 +1,1 @@
+3. Ngarkimin e autoriteteve përgjegjëse për hartimin e planit të rishikimit të legjislacionit ekzistues për sektorët në kompetencën e tyre për shqyrtimin e përputhshmërisë me ligjin nr.66/2016, “Për shërbimet në Republikën e Shqipërisë”, brenda 4 muajve nga hyrja në fuqi e këtij vendimi.

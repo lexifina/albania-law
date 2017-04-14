@@ -1,0 +1,1 @@
+2. Miratimin e metodologjisë së shqyrtimit të përputhshmërisë së kritereve ekzistuese të përcaktuara në pikën 1, me ligjin nr.66/2016, “Për shërbimet në Republikën e Shqipërisë”, sipas aneksit nr.2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

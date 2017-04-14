@@ -1,0 +1,1 @@
+1. Përcaktimin e autoriteteve përgjegjëse për rishikimin e legjislacionit dhe shqyrtimin e përputhshmërisë së kritereve ekzistuese për ushtrimin e së drejtës së themelimit dhe skemat e autorizimit me ligjin nr.66/2016, “Për shërbimet në Republikën e Shqipërisë”, sipas aneksit nr.1 që i bashkëlidhet këtij vendimi dhe pjesë përbërëse e tij.

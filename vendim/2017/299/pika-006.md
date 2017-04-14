@@ -1,0 +1,1 @@
+6. Autoritetet përgjegjëse raportojnë çdo 6 muaj nga hyrja në fuqi e këtij vendimi, pranë Ministrisë së Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, për ecurinë e procesit të rishikimit e të shqyrtimit të përputhshmërisë.

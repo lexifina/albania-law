@@ -1,0 +1,1 @@
+7. Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes raporton, periodikisht, pranë Ministrisë së Integrimit Evropian për ecurinë e procesit të rishikimit dhe shqyrtimit të legjislacionit ekzistues sipas pikave 1 dhe 2, të këtij vendimi.
