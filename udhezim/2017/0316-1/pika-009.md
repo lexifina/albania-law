@@ -1,0 +1,1 @@
+9. Deri në miratimin e PDZRK-ve nga Këshilli Kombëtar i Territorit, AKPT bashkërendon punën me ministritë dhe institucionet përgjegjëse, sipas fushës së kompetencës, për përcaktimin e përdorimeve dhe punimeve të përputhshme me statusin e zonës së rëndësisë kombëtare, për objektet ekzistuese në këto zona.

@@ -1,0 +1,1 @@
+7. Autoriteti përgjegjës për miratimin e planeve të detajuara për zonat me rëndësi kombëtare, është Këshilli Kombëtar i Territorit, me propozim të Ministrit përgjegjës ose Agjencisë Kombëtare të Planifikimit të Territorit (AKPT).

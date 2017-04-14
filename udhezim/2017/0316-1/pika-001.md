@@ -1,0 +1,1 @@
+1. Planet e përgjithshme vendore zbatohen nëpërmjet planeve vendore sektoriale, planeve të detajuara vendore, të parashikuara në dokumentin e planit, si dhe lejeve të ndërtimit të lëshuara nga autoritetet përgjegjëse, sipas nenit 27 të ligjit 107/2014, datë 30.07.2014 “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar.

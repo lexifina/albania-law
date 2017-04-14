@@ -1,0 +1,1 @@
+6. Lejet e ndërtimit në zonat e përcaktuara si të rëndësisë kombëtare miratohen nga Këshilli Kombëtar i Territorit, në përputhje me përcaktimet e Planit të Përgjithshëm Vendor dhe planet e detajuara për zonat me rëndësi kombëtare (PDZRK).

@@ -1,0 +1,2 @@
+5. Në rast se, bashkitë miratojnë, në përputhje me Planin e Përgjithshëm Vendor, leje ndërtimi në tokë të kategorive të resursit “tokë natyrore”, “pyll” ose “kullotë”, Ministria e Zhvillimit Urban ndjek procedurat ligjore të parashikuara nga legjislacioni në fuqi për ndryshimin e këtyre kategorive, duke bashkërenduar punën me autoritetet përgjegjëse.
+C. Veprimtaria ndërtimore për objekte apo Zona të Rëndësisë Kombëtare

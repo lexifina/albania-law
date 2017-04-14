@@ -1,0 +1,5 @@
+11. Në rast se, gjatë monitorimit periodik të zhvillimeve në territor, përmes sistemit elektronik të lejeve të ndërtimit, konstaton:
+a) leje ndërtimi të lëshuara nga bashkitë në zonat e rëndësisë kombëtare apo për tipologjitë e përcaktuara në nenin 19 të VKM-së nr. 408, datë 13.05.2015, ose
+b) leje ndërtimi të lëshuara në kategori të resurseve tokë bujqësore, tokë natyrore, pyll ose kullotë, jashtë zonave të ndërtueshme të parashikuara nga Plani i Përgjithshëm Vendor, ose
+c) leje ndërtimi të lëshuara në kundërshtim me kushtet zhvillimore të përcaktuara në Planin e Përgjithshëm Vendor, Ministria e Zhvillimit Urban i kërkon bashkisë përkatëse anulimin/shfuqizimin e lejes së lëshuar në shkelje të ligjit, në përputhje me dispozitat dhe afatet e Kodit të Procedurës Administrative.Njëkohësisht, i kërkon inspektoratit të mbrojtjes së territorit të marrë masat administrative dhe nismat përkatëse ndaj shkelësve të ligjit, në zbatim të nenit 52 të ligjit 107/2014, datë 30.07.2014 “Për planifikimin dhe zhvillimin e territorit”, i ndryshuar, dhe legjislacionit për inspektimin e ndërtimit.
+D. Përdorimi i dokumenteve të PPV-së nga ALUIZNI për qëllime të legalizimit

@@ -1,0 +1,1 @@
+8. Bashkitë që kanë miratuar Planin e Përgjithshëm Vendor mund t’i kërkojnë̈ ministrit përgjegjës ose AKPT-së marrjen e nismës për hartimin e planit të detajuar për një̈ zonë të rëndësisë̈ kombëtare në territorin administrativ përkatës, në përputhje me strategjinë e zhvillimit të parashikuar për këto zona nga dokumentet kombëtare të planifikimit.
