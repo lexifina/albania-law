@@ -1,0 +1,1 @@
+1. Miratimin e listës së stacioneve të mbrojtjes nga zjarri dhe shpëtimi, të cilat do të ngrihen në bashkitë që nuk kanë shërbim të mbrojtjes nga zjarri dhe shpëtimin (MZSH), për vitet 2017 dhe 2018, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

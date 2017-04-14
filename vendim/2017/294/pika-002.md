@@ -1,0 +1,1 @@
+2. Efektet financiare për ngritjen e 12 stacioneve të reja për vitin 2017, në vlerën 111 360 000 (njëqind e njëmbëdhjetë milionë e treqind e gjashtëdhjetë mijë) lekë, do të përballohen nga buxheti i shtetit, nëpërmjet transfertës specifike për njësitë e vetëqeverisjes vendore për vitin 2017.
