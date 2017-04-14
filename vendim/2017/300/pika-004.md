@@ -1,0 +1,1 @@
+4. Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes vlerëson përputhshmërinë e projektaktit të ri sektorial me ligjin nr.66/2016, “Për shërbimet në Republikën e Shqipërisë”, jo më vonë se 7 ditë pune nga data e marrjes së tij. Vlerësimi i përputhshmërisë të bëhet sipas formularëve të aneksit 2, që i bashkëlidhet këtij vendimi, pjesë përbërëse e tij.

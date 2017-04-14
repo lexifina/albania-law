@@ -1,0 +1,1 @@
+5. Në çdo rast, rezultatet e vlerësimit të përputhshmërisë, të bëra nga Ministria e Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, sipas pikës 4, të këtij vendimi, i rekomandohen autoritetit përgjegjës.
