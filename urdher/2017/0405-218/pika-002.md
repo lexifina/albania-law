@@ -1,0 +1,1 @@
+2. Kompetencat e titullarit të Ministrisë së Punëve të Brendshme, për çështjet e përcaktuara në germat “a”, “b” dhe “c”, të pikës 1, të këtij urdhri, do të ushtrohen nga data 6.4.2017, deri në shfuqizimin e këtij urdhri.
