@@ -1,0 +1,1 @@
+5. Komisionet e vlerësimit të gradave trajtojnë çdo kërkesë të punonjësve të shërbimit të MZSH-së, për vlerësimin e gradave në përputhje me parimet dhe afatet e ligjit nr.44/2015 “Kodit i Procedurave Administrative në Republikën e Shqipërisë”.
