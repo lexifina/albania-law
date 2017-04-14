@@ -1,0 +1,1 @@
+2. Komponenti me numër rendor 2, godina kryesore dhe trualli i saj, aktualisht në përdorim të Agjencisë së Shërbimit të Sporteve, (ASSH), së bashku me komponentët e tjerë, sipas pikës 1, të këtij vendimi, i kalon në përdorim Federatës Shqiptare të Futbollit.
