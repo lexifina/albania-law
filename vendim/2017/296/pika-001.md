@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike, për vitin 2017, shtohet me 2 veta, duke e çuar numrin e përgjithshëm të këtij institucioni në 17 punonjës.
