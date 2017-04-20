@@ -1,1 +1,0 @@
-4. Ngarkohen Ministria e Kulturës, Rinisë dhe Sporteve, Ministria e Pushtetit Lokal dhe Ministria e Punëve Publike që, në bashkëpunim me institucionet e specializuara, të realizojnë projektin për ruajtjen dhe restaurimin e elementeve përbërës të ansamblit të mësipërm, në përgjithësi.
