@@ -1,0 +1,1 @@
+4. Ngarkohet Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Durrës të realizojë ndarjen e pasurisë me numrim 106/4 në tri pasuri, sipas hartës së miratuar me vendimin nr.11, datë 28.7.2016, të Këshillit Kombëtar të Territorit.

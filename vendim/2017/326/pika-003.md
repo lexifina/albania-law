@@ -1,0 +1,3 @@
+3. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, Qarku Durrës, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e kategorisë së resursit nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 31/4, zona kadastrale 2255, Bashkia Shijak, të pasurive me numrat
+106/9, 106/12 e 106/13, në zonën kadastrale 3385, fshati Shkallnur, njësia administrative Rrashbull,
+Bashkia Durrës, dhe të pasurisë me numrin 106/4, zona kadastrale 3385, fshati Shkallnur, njësia administrative Rrashbull, Bashkia Durrës, vetëm për sipërfaqen ku do të zhvillohen strukturat “Stallë” dhe “Kantinë”, sipas hartës së miratuar me vendimin nr. 11, datë 28.7.2016, të Këshillit Kombëtar të Territorit.
