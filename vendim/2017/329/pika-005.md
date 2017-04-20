@@ -1,0 +1,1 @@
+5. Anëtarët e personelit akademik nuk mund të penalizohen nga institucioni i arsimit të lartë për shkak të rezultateve të vlerësimit të punës së tyre kërkimore-shkencore, të kryera në përputhje me fushën përkatëse dhe misionin e institucionit të arsimit të lartë.

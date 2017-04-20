@@ -1,0 +1,1 @@
+1. Personeli akademik gëzon status dhe trajtim të veçantë, që konsiston në liritë akademike, të drejtat ekonomiko-financiare, detyrimet e përgjegjësitë si dhe garancitë juridike e civile në zbatim të tyre.

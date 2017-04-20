@@ -1,0 +1,1 @@
+19. Personeli akademik mund të kërkojë leje, pa të drejtë page, për arsye shëndetësore apo familjare. Kohëzgjatja maksimale e të gjitha lejeve të papaguara, brenda një viti kalendarik, nuk mund të jetë më shumë se 30 ditë.

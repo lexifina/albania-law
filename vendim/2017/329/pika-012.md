@@ -1,0 +1,2 @@
+12. Personeli akademik, për aktivitete që lidhen me drejtimet e punës së tij, sipas pikës 2, të këtij vendimi, ka të drejtën e përfitimit të një leje deri në dy javë, me miratim nga drejtuesi i njësisë kryesore, që informon, në çdo rast, rektorin. Për kohëzgjatje mbi dy javë, leja merret nga rektori. Në të gjitha rastet,
+kërkesat për leje duhet të jenë të dokumentuara dhe të justifikuara. Personeli akademik raporton përpara departamentit mbi aktivitetin e kryer gjatë lejes.

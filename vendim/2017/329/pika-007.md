@@ -1,0 +1,1 @@
+7. Anëtarët e personelit akademik të kategorive “Profesor” dhe “Lektorë”, punësohen në IAL nëpërmjet një kontrate me kohëzgjatje të pacaktuar. Anëtarët e personelit akademik të kategorisë “Asistentë-lektorë”, punësohen në IAL nëpërmjet një kontrate me kohëzgjatje të caktuar. Të tria këto kategori mund të punësohen me kohë të plotë apo me kohë të pjesshme.

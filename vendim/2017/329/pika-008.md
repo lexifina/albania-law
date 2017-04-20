@@ -1,0 +1,1 @@
+8. Personeli akademik nuk mund të largohet apo të zëvendësohet, pa miratimin e tij, gjatë kryerjes së punës kërkimore-shkencore në një projekt të ndjekur prej tij, përveç rasteve të shkeljeve të rënda të vërtetuara, të parashikuara në Kodin e Punës dhe aktet e brendshme të institucionit të arsimit të lartë.

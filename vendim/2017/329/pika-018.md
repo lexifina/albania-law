@@ -1,0 +1,1 @@
+18. Personeli akademik përfiton kompensim e rimbursim financiar, kur punon për aktivitetet e parashikuara në drejtimet e përcaktuara në pikën 2, të këtij vendimi, në masën dhe sipas procedurave të përcaktuara nga Bordi i Administrimit dhe kuadrit ligjor në fuqi.

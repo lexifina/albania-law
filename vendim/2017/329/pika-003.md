@@ -1,0 +1,2 @@
+3. Liria akademike ushtrohet në kuadrin e përgjegjshmërisë pedagogjike e shkencore dhe nuk presupozon përjashtimin nga vlerësimi i performancës së personelit akademik.
+Personeli akademik nuk mund të penalizohet për shkak të qëndrimeve të tij ndaj politikave të institucionit. Në të gjitha rastet, personeli akademik vepron brenda normave të etikës, në respekt të institucionit dhe kuadrit ligjor e nënligjor në fuqi.

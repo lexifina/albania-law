@@ -1,0 +1,1 @@
+10. Leja vjetore e personelit akademik është jo më pak se 40 ditë pune (56 ditë kalendarike). Në rast se kjo leje nuk konsumohet nga personeli akademik, si pasojë e nevojës së institucionit dhe me propozimin e drejtuesit të njësisë bazë dhe me miratimin e Bordit të Administrimit, jepet shpërblimi përkatës në të holla.

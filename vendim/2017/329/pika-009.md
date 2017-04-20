@@ -1,0 +1,1 @@
+9. Koha normale e punës së personelit akademik nuk mund të jetë më shumë se 1 536 orë në vit. Ngarkesa mësimore e personelit akademik parashikohet në përputhje me udhëzimin përkatës të ministrit përgjegjës për arsimin.

@@ -1,0 +1,1 @@
+16. Personeli akademik, me kohë të plotë apo të pjesshme, nuk mund të ushtrojë asnjë funksion administrimi në institucionin e arsimit të lartë ku është punësuar, me përjashtim të zgjedhjes anëtar në Bordin e Administrimit.
