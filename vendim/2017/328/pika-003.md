@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme kompensohen, në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë “truall” dhe “ndërtesë”, me një vlerë të përgjithshme prej 42 580 307 (dyzet e dy milionë e pesëqind e tetëdhjetë mijë e treqind e shtatë) lekësh.
