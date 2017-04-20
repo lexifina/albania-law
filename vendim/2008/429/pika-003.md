@@ -1,1 +1,0 @@
-3. Çdo anëtar i komisionit për vlerësimin e masave për importet të shpërblehet me 5 000 (pesë mijë) lekë për pjesëmarrje në mbledhje, por masa e shpërblimit mujor nuk duhet të jetë më shumë se 5 000 (pesë mijë) lekë.
