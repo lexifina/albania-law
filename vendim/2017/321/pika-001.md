@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 10 (dhjetë) % të pikëve, që i jepet shoqërisë “Gjoka konstruksion”, sh.a., për rezultatin teknik dhe financiar të propozimit të pakërkuar, të paraqitur për procedurën e koncesionit/ partneritetit publik privat për kompletimin dhe ndërtimin e Rrugës së Arbrit.

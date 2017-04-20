@@ -1,0 +1,5 @@
+VENDIM
+Nr. 321, datë 12.4.2017
+PËR MIRATIMIN E BONUSIT NË PROCEDURËN PËRZGJEDHËSE KONKURRUESE, QË I JEPET SHOQËRISË PËR DHËNIEN ME KONCESION/PARTNERITET PUBLIK PRIVAT TË KOMPLETIMIT DHE NDËRTIMIT TË RRUGËS SË ARBRIT
+Në mbështetje të nenit 100 të Kushtetutës, të pikës 6, të nenit 25, të ligjit nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar dhe në vijim të pikave 1 e 2, të nenit 15, “Dhënia e bonusit”, të rregullave për vlerësimin dhe dhënien me koncesion/ partneritet publik privat të punëve publike dhe shërbimeve për ndërtimin, operimin, mirëmbajtjen dhe rehabilitimin e rrugëve nacionale, të miratuara me vendimin nr. 634, datë 1.10.2014, të Këshillit të Ministrave, “Për miratimin e rregullave për vlerësimin dhe dhënien me koncesion/partneritet publik privat të punëve publike dhe shërbimeve për ndërtimin, operimin, mirëmbajtjen dhe rehabilitimin e rrugëve nacionale”, të ndryshuar, me propozimin e ministrit të Transportit dhe Infrastrukturës, Këshilli i Ministrave
+VENDOSI:
