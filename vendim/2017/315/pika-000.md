@@ -1,0 +1,2 @@
+Miratimin e shtesës së marrëveshjes, ndërmjet qeverisë së Konfederatës Zvicerane dhe qeverisë së Republikës së Shqipërisë, për dhënien e asistencës financiare për projektin e transmetimit dhe shpërndarjes së energjisë elektrike (PTDP), të miratuar me vendimin nr. 140, datë 4.3.1996, të Këshillit të Ministrave, të ndryshuar, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
