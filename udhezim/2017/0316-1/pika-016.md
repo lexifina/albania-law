@@ -1,0 +1,1 @@
+16. Plani i Përgjithshëm Vendor hyn në fuqi dhe fillon të zbatohet nga data e botimit në Regjistrin e Integruar të Planifikimit të vendimit të KKT-së që e miraton atë, së bashku me dokumentacionin shoqërues, sipas nenit 56, paragrafi 2, i ligjit nr. 107/2014, datë 31.7.2014 “Për planifikimin dhe zhvillimin e territorit”, i ndryshuar.
