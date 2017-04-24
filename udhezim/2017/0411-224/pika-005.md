@@ -1,0 +1,1 @@
+5. Për kryerjen e inspektimit, grupi i inspektimit do të hyjë në objektet që do të inspektohen, ose në ambientet ku mbahen pajisjet regjistruese apo të identifikimit dhe do të mbikqyrë nëse pajisjet janë funksionale, në prani të subjektit që kontrollohet apo personit përgjegjës.

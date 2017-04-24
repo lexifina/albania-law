@@ -1,0 +1,1 @@
+7. Në përfundim të inspektimit, konkluzionet i njoftohen edhe subjektit të inspektuar, si dhe bazuar në aktin e inspektimit, lihen për zbatim detyra, brenda afateve të caktuara, me qëllim që masat shtesë të sigurisë të jenë funksionale dhe efektive, si dhe përcaktohet data e rikontrollit të detyrave të lëna.

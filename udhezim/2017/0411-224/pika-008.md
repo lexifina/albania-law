@@ -1,0 +1,1 @@
+8. Në përfundim të inspektimeve të kryera, sipas planit të inspektimit, nga struktura vendore e policisë hartohet një raport i plotë, ku përshkruhen veprimet e kryera, konstatimet, detyrat e lëna, si dhe masat administrative të marra. Raporti i dërgohet drejtorisë përkatëse në Drejtorinë e Policisë së Shtetit.

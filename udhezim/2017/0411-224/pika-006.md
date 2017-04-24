@@ -1,0 +1,1 @@
+6. Grupi i inspektimit përbëhet nga jo më pak se tre punonjës policie. Gjatë inspektimit, mund të marrin pjesë edhe persona të caktuar nga njësia përkatëse e vetëqeverisjes vendore. Pas inspektimit, grupi i inspektimit, i propozon drejtuesit të strukturës vendore të Policisë, masat administrative që duhen marrë.

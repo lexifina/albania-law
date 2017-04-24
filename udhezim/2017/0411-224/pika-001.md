@@ -1,0 +1,1 @@
+1. Policia e Shtetit, nëpërmjet strukturave të saj, kryen inspektime në të gjithë territorin e Republikës së Shqipërisë, për monitorimin e përmbushjes së masave shtesë të sigurisë, nga subjektet publike dhe private, në varësi të llojit dhe nivelit të masës së sigurisë, të përcaktuar nga komisioni i vlerësimit të masave të sigurisë.
