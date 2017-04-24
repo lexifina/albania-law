@@ -1,0 +1,1 @@
+9. Kundër vendimit të Komisionit të Shqyrtimit të Ankesave bëhet ankim në Gjykatën Administrative të Shkallës së Parë, sipas parashikimeve të ligjit nr. 49/2012, “Për organizimin dhe funksionimin e gjykatave administrative dhe gjykimin e mosmarrëveshjeve administrative”, të ndryshuar.

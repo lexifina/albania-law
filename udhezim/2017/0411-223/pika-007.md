@@ -1,0 +1,1 @@
+7. Subjekti njoftohet për datën e shqyrtimit të ankimit, sipas formave të njoftimit të përcaktuara në Kodin e Procedurave Administrative. Në përfundim të shqyrtimit të ankimit dhe dëgjimit të subjektit ankues, Komisioni merr vendim me shumicën e votave të anëtarëve të tij.

@@ -1,0 +1,1 @@
+5. Subjekti që paraqet ankim, ka të drejtë të përfaqësohet dhe të depozitojë ankimin dhe dokumentacionin e nevojshëm, para Komisionit të Shqyrtimit të Ankesave, vetë ose nëpërmjet një përfaqësuesi ligjor, të autorizuar prej tij.

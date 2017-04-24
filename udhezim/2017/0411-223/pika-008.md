@@ -1,0 +1,1 @@
+8. Në rast se ndonjë nga anëtarët e Komisionit të Shqyrtimit të Ankesave, ka pengesë ligjore për ushtrimin e detyrës, sipas rasteve të përcaktuara në Kodin e Procedurave Administrative, ai zëvendësohet me urdhër të Drejtorit të Policisë së Shtetit.
