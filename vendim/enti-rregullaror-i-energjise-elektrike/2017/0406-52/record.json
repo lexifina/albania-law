@@ -1,0 +1,28 @@
+{
+  "qbz_id": 63184,
+  "title": "MBI LËNIEN NË FUQI TË VENDIMIT  NR. 190 DATË 22.12.2016, TË BORDIT TË ERE-S, DERI NË 31.12.2017",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "52",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2017-04-06",
+  "published": "2017-04-24",
+  "in_force": "2017-04-24",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/178dae097dd9fe2045bfc31d5057bdef32d829e1547aa739a8b9ccc3c53b0dd4.docx",
+  "source_sha256": "178dae097dd9fe2045bfc31d5057bdef32d829e1547aa739a8b9ccc3c53b0dd4",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63184",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2017/04/06/52",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    56623
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
