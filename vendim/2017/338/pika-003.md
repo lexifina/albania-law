@@ -1,0 +1,1 @@
+3. Bashkisë Finiq i ndalohet të ndryshojë destinacionin e përdorimit të pronës nr.646, me emërtim “Ish-grup artileri tokësore”, me vendndodhje në Krane, Finiq, të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojë atë ose t’ua japë në përdorim të tretëve.
