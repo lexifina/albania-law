@@ -1,0 +1,1 @@
+2. Ministri i Financave vazhdon procedurën për lidhjen e kontratës me shoqërinë e shpallur fituese, sipas kushteve teknike, afateve të implementimit të projektit të përcaktuara në ofertën e shpallur fituese.
