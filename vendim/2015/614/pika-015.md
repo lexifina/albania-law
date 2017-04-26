@@ -1,0 +1,1 @@
+15. Me marrjen e vendimit për pranimin e dosjes për privatizim, subjekti përfitues ka detyrimin të lidhë kontratën e privatizimit me njësinë e qeverisjes vendore, brenda 1 (një) viti nga data e marrjes së këtij vendimi.

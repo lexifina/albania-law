@@ -1,0 +1,1 @@
+10. Subjekti, i cili nuk depoziton kërkesën dhe dokumentacionin e përcaktuar në pikat 4 e 5, të këtij vendimi, apo nuk lidh kontratën e privatizimit brenda afateve të përcaktuara në pikat 4 e 15, të këtij vendimi, humbet të drejtën për të kërkuar privatizimin e banesës në të cilën është strehuar.

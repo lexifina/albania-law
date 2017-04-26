@@ -1,0 +1,1 @@
+13. Për çdo ankim, në lidhje me përllogaritjet e kryera në formularët e përcaktuar në këtë vendim, subjekti ka të drejtë t’i drejtohet, me shkrim, njësisë së qeverisjes vendore. Njësia e qeverisjes vendore ka detyrimin t’i kthejë përgjigje, me shkrim, ankuesit, brenda afateve ligjore, sipas përcaktimeve të Kodit të Procedurave Administrative.

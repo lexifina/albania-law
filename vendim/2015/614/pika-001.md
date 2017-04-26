@@ -1,0 +1,1 @@
+1. Përcaktimin e procedurave që duhen ndjekur për privatizimin e banesave dhe objekteve të kthyera në fond banese me vendime të organeve të qeverisjes vendore, në pronësi të njësive të qeverisjes vendore dhe të shtetit, për banorët, këtej e tutje “subjekti”, që janë sistemuar me strehim, në bazë të autorizimeve përkatëse, të lëshuara nga organet kompetente.

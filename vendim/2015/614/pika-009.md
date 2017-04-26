@@ -1,0 +1,1 @@
+9. Plotësimi i mangësive nga subjekti bëhet brenda 15 ditëve, nga data e marrjes së njoftimit nga njësia e qeverisjes vendore. Mosplotësimi i mangësive, brenda afatit të përcaktuar më sipër, sjell refuzimin e kërkesës.
