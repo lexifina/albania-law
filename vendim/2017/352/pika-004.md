@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 9 751 976 (nëntë milionë e shtatëqind e pesëdhjetë e një mijë e nëntëqind e shtatëdhjetë e gjashtë) lekësh, të përballohet nga të ardhurat e Bashkisë së Lezhës, planifikuar në buxhetin e saj.

@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Sistemim, asfaltim-ndriçim i aksit rrugor, blloku 11.2 ha, në lagjen “Besëlidhja””, faza e tretë, Bashkia e Lezhës.

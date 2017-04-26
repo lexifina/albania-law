@@ -1,0 +1,1 @@
+8. Regjistrimi i ri i pasurive: “truall”, me sipërfaqe 62 (gjashtëdhjetë e dy) m2, “ndërtesë”, me sipërfaqe 71.24 (shtatëdhjetë e një pikë njëzet e katër) m2, si dhe “njësi”, me sipërfaqe 62 (gjashtëdhjetë e dy) m2, për realizimin e projektit “Sistemim, asfaltim-ndriçim i aksit rrugor, blloku 11.2 ha, në lagjen “Besëlidhja””, faza e tretë, të bëhet në favor të Bashkisë së Lezhës.
