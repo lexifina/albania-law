@@ -1,0 +1,1 @@
+2. Ngarkohet Bashkia Tiranë të administrojë procedurat për dhënien me koncesion/PPP, në përputhje me ligjin nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar, të projektit me objekt “Përmirësimi i infrastrukturave arsimore në Bashkinë e Tiranës”.

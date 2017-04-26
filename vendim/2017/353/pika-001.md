@@ -1,0 +1,1 @@
+1. Përcaktimin e Ministrisë së Arsimit dhe Sportit dhe të Bashkisë Tiranë si autoritete kontraktore për të ndërmarrë e zhvilluar procedurat për dhënie me koncesion/partneritet publik privat të projektit për përmirësimin e infrastrukturave arsimore në Bashkinë e Tiranës.
