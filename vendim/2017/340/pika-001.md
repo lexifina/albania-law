@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare të pronave të paluajtshme publike, shtetërore, që transferohen në pronësi ose në përdorim të Bashkisë Skrapar, njësia administrative Potom, të Qarkut të Beratit, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit të njësisë administrative Potom, që i bashkëlidhet këtij vendimi, përbëhet nga 20 (njëzet) fletë dhe përfundon me numrin rendor 98 (nëntëdhjetë e tetë).
