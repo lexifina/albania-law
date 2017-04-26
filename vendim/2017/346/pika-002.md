@@ -1,0 +1,3 @@
+2. Për të gjithë kandidatët, të cilët kanë përfunduar nivelin e arsimit të mesëm të lartë, nota mesatare minimale për t’u pranuar në programet e studimeve të ciklit të parë dhe programet e integruara të studimeve të ciklit të dytë, në institucionet e arsimit të lartë, për vitin akademik 2017-2018, të jetë 6 (gjashtë). Nota mesatare për t’u pranuar në institucionet e arsimit të lartë përllogaritet si mesatare aritmetike e thjeshtë e treguesve të mëposhtëm:
+a) Mesatarja aritmetike e thjeshtë e notave përfundimtare vjetore të lëndëve për të gjitha vitet e shkollimit në arsimin e mesëm të lartë;
+b) Mesatarja aritmetike e thjeshtë e notave të provimeve të maturës/Maturës Shtetërore.

@@ -1,0 +1,1 @@
+4. Institucionet arsimore të arsimit të mesëm të lartë dhe njësitë arsimore vendore janë përgjegjëse për përllogaritjen e notës mesatare dhe përcjelljen e të dhënave pranë strukturave të ngarkuara nga Ministria e Arsimit dhe Sportit.
