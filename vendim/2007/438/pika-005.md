@@ -1,1 +1,0 @@
-5. Vendimi nr.54, datë 27.2.1992 i Këshillit të Ministrave “Për sistemin e pagave të Ministrisë së Rendit Publik”, të ndryshuar, duke filluar nga data 1 korrik 2007, nuk do të zbatohet për punonjësit e Policisë së Mbrojtjes nga Zjarri dhe Shpëtimit.

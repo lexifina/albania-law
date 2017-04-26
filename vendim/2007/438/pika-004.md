@@ -1,1 +1,0 @@
-4. Efektet financiare, për vitin 2007, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondet e parashikuara në ligjin nr.9645, datë 27.11.2006 “Për Buxhetin e Shtetit të vitit 2007”, për rritjen dhe reformën në sistemin e pagave.
