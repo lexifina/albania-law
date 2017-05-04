@@ -1,0 +1,1 @@
+19. Zyrat e shërbimeve shoqërore në njësitë administrative/bashki i japin informacionin e nevojshëm aplikuesve mbi dokumentacionin dhe procesin e vlerësimit bio-psiko-social të aftësisë së kufizuar dhe përfitimeve për shkak të aftësisë së kufizuar në sistemin e mbrojtjes shoqërore.

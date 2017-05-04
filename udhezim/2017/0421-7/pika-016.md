@@ -1,0 +1,1 @@
+16. Anëtarët e komisionit multidisiplinar të vlerësimit të aftësisë së kufizuar lëshojnë rekoman-dime për shërbime mjekësore rehabilituese, të cilët përmbushen nga ofruesit e shërbimeve shëndetë-sore të çdo niveli.

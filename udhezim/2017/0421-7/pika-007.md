@@ -1,0 +1,4 @@
+7. Punonjësi i komisionit shumëdisiplinor të vlerësimit të aftësisë së kufizuar kryen detyrat e mëposhtme:
+a) hedh të dhënat e aplikantit dhe të gjithë dokumentacionin e përcaktuar në pikën 6 të këtij udhëzimi në regjistrin elektronik kombëtar të aftësisë së kufizuar;
+b) Verifikon të dhënat e marra nëpërmjet Regjistrit Elektronik Kombëtar për aplikantin dhe kur nuk është e mundur verifikon në mënyrë manuale me institucione të tjera të cilat duhet të kthejnë përgjigje brenda 10 ditëve dhe hedh këto të dhëna në Regjistrin Elektronik Kombëtar;
+c) kur vëren se dokumentacioni nuk është i plotë apo nevojiten ekzaminim shtesë e kthen atë për plotësim, në rast të kundërt cakton datën e intervistës brenda 30 (tridhjetë) ditëve kalendarike nga data e marrjes së dokumenteve të aplikimit apo në një afat më të shkurtër për rastet për të cilat kërkohet procedurë e përshpejtuar dhe njofton zyrtarisht aplikuesin.

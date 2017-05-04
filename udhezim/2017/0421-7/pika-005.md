@@ -1,0 +1,1 @@
+5. Mjeku specialist pranë qendrës shënde-tësore të specialiteteve/Qendrës Komunitare të Shëndetit Mendor/Qendrës Kombëtare të Mirërritjes, Zhvillimit dhe Rehabilitimit të Fëmijëve plotëson në mënyrë të pavarur të njëjtët formularë me ato të mjekut të familjes, formularin nr. 1 për të rritur ose formularin nr. 2 për fëmijë sipas anekseve bashkë-lidhur këtij udhëzimi.

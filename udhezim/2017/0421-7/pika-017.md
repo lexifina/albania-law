@@ -1,0 +1,1 @@
+17. Anëtarët e komisionit multidisiplinar të vlerësimit të aftësisë së kufizuar lëshojnë rekomandime për arsimimin, formimin profesional dhe punësimin e përshtatshëm të individit, të cilat përmbushen nga institucionet arsimore dhe Drejtoria Rajonale e Punësimit.

@@ -1,0 +1,1 @@
+24. Administratori shoqëror i njësisë administrative hedh në Regjistrin Elektronik Kombëtar të dhënat e përfituesve ekzistues të pagesave të aftësisë së kufizuar, kujdestarëve të personave me aftësi të kufizuar dhe invalidëve të punës, që përfitojnë nga programi i mbrojtjes sociale.

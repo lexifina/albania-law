@@ -1,0 +1,1 @@
+22. Drejtoritë e Shërbimeve Shoqërore në Bashki hartojnë listën e përfituesve ekzistues të cilën ia përcjellin Drejtorisë Rajonale të Shërbimit Social Shtetëror njëkohësisht me listën e përfituesve që propozohen për tu trajtuar me ndihmë ekonomike sipas përcaktimeve të ligjit nr. 9355, datë 10.3.2005 “Për ndihmën dhe shërbimet shoqërore”, të ndryshuar.

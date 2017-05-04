@@ -1,0 +1,1 @@
+2. Personi i cili plotëson kriteret sipas pikës 1 të kreut II të vendimit nr. 431, datë 8.6.2016 të Këshillit të Ministrave ka të drejtën ti drejtohet për vlerësim komisionit shumëdisiplinor të vlerësimit të aftësisë të kufizuar.

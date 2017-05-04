@@ -1,0 +1,1 @@
+12. Në përfundim të procesit të vlerësimit komisioni shumëdisiplinor i vlerësimit të aftësisë së kufizuar përcakton nivelin e përgjithshëm të aftësisë së kufizuar sipas formularit nr. 6 dhe përgatit certifikatën e aftësisë së kufizuar formati i së cilës përcaktohet në formularin nr. 7 që i bashkëlidhet këtij udhëzimi.

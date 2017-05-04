@@ -1,0 +1,1 @@
+11. Komisioni shumëdisiplinor i vlerësimit të aftësisë së kufizuar, për përcaktimin e nevojës për ndihmës personal, shqyrton edhe përputhshmërinë e të dhënave të deklaruara në formularin nr. 4 për “Aktivitetet, pjesëmarrjen, barrierat mjedisore dhe lehtësuesit” dhe formularin nr. 5 “Për përcaktimin e nevojës për ndihmës personal”.

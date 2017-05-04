@@ -1,0 +1,1 @@
+18. Anëtarët e komisionit multidisiplinar të vlerësimit të aftësisë së kufizuar lëshojnë rekomandime për shërbime shoqërore dhe shërbime të tjera, të cilat përmbushen nga ofruesit e shërbimeve publike, jopublike apo organizata të ndryshme nëpërmjet ndërmjetësimit të strukturave të shërbimeve sociale pranë pushtetit vendor.

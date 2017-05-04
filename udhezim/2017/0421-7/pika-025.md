@@ -1,0 +1,1 @@
+25. Aplikuesi ka të drejtën e ankimimit sipas përcaktimeve në kreun V të vendimit nr. 431, datë 8.6.2016. Komisioni shumëdisiplinor i vlerësimit të aftësisë së kufizuar hedh të dhënat në Regjistrin Elektronik Kombëtar dhe njofton ankimuesin mbi vendimin e marrë nga rishqyrtimi i ankesës.

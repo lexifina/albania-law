@@ -1,0 +1,2 @@
+30. Ngarkohen për zbatimin e këtij udhëzimi për zonat pilot, Shërbimi Social Shtetëror, Komisioni Shumëdisiplinor i Vlerësimit të Aftësisë së Kufizuar, strukturat e shërbimit shëndetësor parësor dhe dytësor, Qendrat Komunitare të Shëndetit Mendor, Qendra Kombëtare e Mirërritjes, Zhvillimit dhe Rehabilitimit të fëmijëve, njësitë e qeverisjes vendore dhe të gjitha institu-cionet e tjera që do të shkëmbejnë informacionin dhe ofrojnë shërbim sipas përcaktimeve në këtë udhëzim.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

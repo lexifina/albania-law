@@ -1,0 +1,1 @@
+14. Individi njoftohet me shkrim në lidhje me vendimin e komisionit, procedurat dhe afatet e ankimimit, afatin e dorëzimit të dokumentit që vërteton kryerjen e kontrollit vjetor dhe pajiset me certifikatën e aftësisë së kufizuar e cila përmban të dhëna mbi vlerësimin bio-psiko-social, përfitimet, rekomandime për shërbime, kohëzgjatjen, etj.

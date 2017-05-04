@@ -1,0 +1,1 @@
+13. Të dhënat e përftuara gjatë intervistimit janë të dhëna zyrtare, konfidencialiteti i të cilave mbrohet në përputhje me ligjin nr. 9887, datë 3.10.2008 “Për mbrojtjen e të dhënave personale”, i ndryshuar.

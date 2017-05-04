@@ -1,0 +1,1 @@
+3. Çdo individ i cili pretendon të vlerësohet për aftësi të kufizuar nga komisioni shumëdisiplinor i vlerësimit të aftësisë së kufizuar duhet të paraqitet pranë strukturave shëndetësore për të kryer vizitë mjekësore dhe ekzaminimet e nevojshme, fillimisht pranë mjekut të familjes dhe më pas referohet pranë mjekut specialist.
