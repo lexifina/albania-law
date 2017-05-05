@@ -1,0 +1,1 @@
+3. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2017, t’i shtohet fondi prej 7 290 000 (shtatë milionë e dyqind e nëntëdhjetë mijë) lekësh, për organizimin e zgjedhjeve të pjesshme vendore për kryetar të Bashkisë Kavajë, të datës 7 maj 2017.

@@ -1,0 +1,1 @@
+2. Komisionit Qendror të Zgjedhjeve, për financimin e fushatës zgjedhore për Kuvendin e Republikës së Shqipërisë, të datës 18 qershor 2017, t’i jepet fondi prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh, i cili t’u shpërndahet subjekteve zgjedhore pjesëmarrëse në këto zgjedhje, në programin “Mbështetje për partitë politike”.

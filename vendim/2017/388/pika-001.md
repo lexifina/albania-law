@@ -1,0 +1,1 @@
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2017, t’i shtohet fondi prej 133 000 000 (njëqind e tridhjetë e tre milionë) lekësh, për organizimin e zgjedhjeve për Kuvendin e Republikës së Shqipërisë, të datës 18 qershor 2017.
