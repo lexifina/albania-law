@@ -7,7 +7,7 @@ c) për qëllime të parandalimit të pastrimit të parave dhe financimit të te
 ç) mbikëqyr përputhshmërinë e veprimtarisë së subjekteve me kërkesat e akteve ligjore dhe nënligjore për parandalimin e pastrimit të parave dhe financimit të terrorizmit, përfshirë inspektimet, vetëm ose në bashkëpunim me autoritetet mbikëqyrëse;
 d) hkëmben informacion me çdo agjenci të huaj homologe, në varësi të detyrimeve të ngjashme të konfidencialitetit. Informacioni i ofruar duhet të përdoret vetëm për qëllime të parandalimit dhe luftës kundër pastrimit të parave e financimit të terrorizmit. Informacioni mund të shpërndahet vetëm me pëlqimin paraprak të palëve;
 dh) mund të hyjë në marrëveshje me çdo agjenci homologe të huaj, që kryen funksione dhe u nënshtrohet detyrimeve të ngjashme të konfidencialitetit;
-e) shkëmben informacion me Prokurorinë e Përgjithshme, Ministrinë e Brendshme, Policinë e Shtetit, Shërbimin Informativ Shtetëror dhe autoritetet e tjera kompetente të zbatimit të ligjit, për çështjet e pastrimit të produkteve të veprës penale ose financimit të terrorizmit dhe mund të nënshkruajë memorandum bashkëpunimi dy ose shumëpalësh me to;
+e) shkëmben informacion me Prokurorinë e Përgjithshme, Prokurorinë e Posaçme, Ministrinë e Brendshme, Policinë e Shtetit, Byronë Kombëtare të Hetimit, Shërbimin Informativ Shtetëror dhe autoritetet e tjera kompetente të zbatimit të ligjit, për çështjet e pastrimit të produkteve të veprës penale ose financimit të terrorizmit dhe mund të nënshkruajë memorandum bashkëpunimi dy ose shumëpalësh me to;
 ë) mban statistika të plota dhe raporton për procedimet penale të regjistruara për veprat penale të pastrimit të produkteve të veprave penale ose veprimtarisë kriminale dhe financimit të terrorizmit, si dhe për mënyrën e përfundimit të tyre;
 f) mund të nxjerrë një listë të vendeve në përputhje pikën 5 të nenit 8 të këtij ligji, për kufizimin dhe/ose kontrollin e transaksioneve apo marrëdhënieve të biznesit të subjekteve me këto vende;
 g) urdhëron, kur ka arsye të bazuara në fakte dhe rrethana konkrete për pastrim parash dhe financim terrorizmi, bllokimin ose ngrirjen e përkohshme të transaksionit ose të veprimit financiar, për një periudhë jo më shumë se 72 orë. Brenda këtij afati, në qoftë se vëren elemente të veprës penale, autoriteti përgjegjës bën kallëzim në prokurori, duke dorëzuar edhe një kopje të urdhrit pezullimin e përkohshëm të transaksionit, ose për ngrirjen e llogarisë, sipas kësaj dispozite, si dhe të gjithë dokumentacionin përkatës;
@@ -22,4 +22,5 @@ i) raportet e aktivitetit të dyshimtë, të ndara sipas raportuesit, analizës 
 ii) rezultatet e inspektimeve në vend, kundërvajtjet administrative të vendosura dhe të kategorizuara sipas llojit, sektorit dhe shumës;
 iii) rastet e hetuara, personat e proceduar dhe të dënuar;
 iv) pasuritë e bllokuara, të sekuestruara ose të konfiskuara;
-v) kërkesat për ndihmë të ndërsjellë juridike dhe për bashkëpunim ndërkombëtar.
+v) kërkesat për ndihmë të ndërsjellë juridike dhe për bashkëpunim ndërkombëtar;
+m) ushtron çdo detyrë tjetër që i jepet me ligj.
