@@ -1,0 +1,1 @@
+10. Fshihen/shuhen gjobat dhe kamatëvonesat për kontributet e sigurimeve shoqërore dhe shëndetësore për të vetëpunësuarit në bujqësi, që i përkasin periudhave nga 1 janar 2011 deri më 31 dhjetor 2016, me kusht që pagesa e kontributeve të kryhet brenda datës 31.12.2017.

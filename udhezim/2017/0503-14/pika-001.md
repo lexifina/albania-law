@@ -1,0 +1,1 @@
+1. Në zbatim të nenit 4 të ligjit, nga fshirja/shuarja e detyrimeve nuk përfitojnë subjektet që kanë detyrime tatimore/doganore, të cilët janë dënuar me vendim gjyqësor të formës së prerë për vepra penale në fushën tatimore dhe/ose doganore, në kuptim të legjislacionit të fushës.

@@ -1,0 +1,1 @@
+6. Fshihen/shuhen automatikisht dënimet administrative (gjobat) si rezultat i aplikimit të dispozitave të ligjit nr.99/2015 “Për disa shtesa dhe ndryshime në ligjin “Për procedurat tatimore në Republikën e Shqipërisë”, të shfuqizuara nga Gjykata Kushtetuese pavarësisht periudhës tatimore që i përkasin.

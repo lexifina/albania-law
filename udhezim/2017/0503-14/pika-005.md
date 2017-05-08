@@ -1,0 +1,1 @@
+5. Fshihen/shuhen automatikisht dënimet administrative (gjobat) për shoqëritë e autorizuara, të parashikuara në nenin 123 të ligjit nr. 9920, datë 19.08.2008 “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar, të evidentuara në llogarinë e subjektit nëpërmjet akt konstatimit deri më datën 31.12.2016 pavarësisht periudhës tatimore që i përkasin.

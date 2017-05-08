@@ -1,0 +1,1 @@
+2. Organi tatimor qendror apo vendor dhe organi doganor brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi e këtij udhëzimi, duhet të përgatisë listën e tatimpaguesve që nuk përfitojnë nga fshirja/shuarja e detyrimeve. Kjo listë përditësohet çdo muaj.
