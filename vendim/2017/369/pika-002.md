@@ -1,0 +1,1 @@
+2. Enti Rregullator i Energjisë të miratojë çmimin e blerjes së energjisë elektrike të prodhuar nga burimet e vogla të rinovueshme nga dielli dhe era, në përputhje me çmimin e mesatarizuar për vitin 2017, sipas parashikimeve të kësaj metodologjie.
