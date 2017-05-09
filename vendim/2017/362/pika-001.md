@@ -1,0 +1,1 @@
+1. Miratimin e kontratës nr. 5758 prot., datë 25.4.2017, ndërmjet Ministrisë së Financave dhe bashkimit të shoqërive “Admiral Sportwetten”, GmbH, “ATSI”, Spolka Akcyjna, “MC Networking”, sh.p.k., “Për ndërtimin dhe mirëmbajtjen e Sistemit Qendror të Monitorimit On-line (SQMO) për industrinë e lojërave të fatit në Republikën e Shqipërisë”.
