@@ -1,0 +1,1 @@
+3. Shtabi i Përgjithshëm i Forcave të Armatosura, nëpërmjet Batalionit të Mbështetjes të Shtabit të Përgjithshëm të Forcave të Armatosura, dhe Ministria e Kulturës, nëpërmjet Bibliotekës Kombëtare të Shqipërisë, të lidhin marrëveshje të përbashkët për zbatimin e këtij vendimi.
