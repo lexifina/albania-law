@@ -1,0 +1,1 @@
+1. Dhënie, përjashtimisht nga kriteret e vendimit nr.429, datë 12.2.2002, të Këshillit të Ministrave, të ndryshuar, të një pensioni të posaçëm familjar për personat në ngarkim të të ndjerit Andrea Stefani.
