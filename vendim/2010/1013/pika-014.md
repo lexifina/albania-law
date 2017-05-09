@@ -1,0 +1,1 @@
+14.Vendimet nr.135, datë 14.3.2007 e Këshillit të Ministrave “Për krijimin e Agjencisë Qendrore të Vlerësimit të Arritjeve të Nxënësve dhe për shkrirjen e Qendrës Kombëtare Arsimore të Vlerësimit dhe Arritjeve”, të ndryshuar, dhe nr.503, datë 16.4.2008 “Për krijimin e Agjencisë Kombëtare të Pranimeve në Institucionet e Arsimit të Lartë”, shfuqizohen.

@@ -1,0 +1,1 @@
+3. QSHA-ja është institucion i posaçëm për organizimin, monitorimin, mbikëqyrjen e problemeve të reformës arsimore për sigurimin e cilësisë në fushën e vlerësimit të arritjeve dhe të provimeve. Ajo ushtron funksion teknik, profesional, mbështetës dhe rekomandues të politikave të vlerësimit dhe të organizimit të provimeve të maturës e të shtetit.
