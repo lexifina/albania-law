@@ -1,0 +1,1 @@
+7. Kolegji profesional i lartë, kur organizohet si institucion i arsimit të lartë, ka organe dhe autoritete drejtuese. Organet drejtuese janë Senati Akademik, Asambleja e Personelit Mësimdhënës dhe Bordi i Administrimit, ndërsa autoritetet drejtuese janë rektori, drejtuesi i departamentit dhe administratori i kolegjit.

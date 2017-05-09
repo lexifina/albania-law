@@ -1,0 +1,1 @@
+16. Administratori i Kolegjit emërohet nga Bordi i Administrimit ose nga administratori i universitetit/kolegjit universitar. Administratori duhet të ketë arsim të lartë, së paku në nivelin “Master i Shkencave” në fushën e drejtësisë ose të ekonomisë dhe përvojë pune, së paku pesë vjet, në këto fusha.

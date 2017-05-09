@@ -1,0 +1,1 @@
+3. Departamenti i kolegjit është njësi e zhvillimit të mësimdhënies dhe trajnimit, i cili përfshin fusha të përafërta dhe grupon disiplinat mësimore trajnuese të përafërta. Ai është përgjegjës për programet e studimit që ofron.

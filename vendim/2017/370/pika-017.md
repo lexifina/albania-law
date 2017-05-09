@@ -1,0 +1,1 @@
+17. Për veprimtarinë e kolegjeve profesionale të larta dhe të studentëve në këto kolegje respektohen dispozitat e ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”.

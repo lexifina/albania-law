@@ -1,0 +1,1 @@
+8. Kolegji profesional i lartë, kur organizohet si njësi kryesore e universiteteve ose kolegjeve universitare, ka vetëm autoritete drejtuese. Autoritetet drejtuese janë drejtori, drejtuesi i departamentit dhe administratori i kolegjit.

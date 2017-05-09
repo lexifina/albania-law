@@ -1,0 +1,1 @@
+10. Në kolegjet profesionale të larta, jopublike, organet dhe autoritetet drejtuese përzgjidhen /emërohen dhe shkarkohen sipas përcaktimeve në statutin e institucionit, të miratuar nga ministri përgjegjës për arsimin.

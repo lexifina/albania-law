@@ -1,0 +1,1 @@
+1. Kolegji profesional i lartë organizohet si institucion i arsimit të lartë ose si njësi kryesore e universiteteve apo kolegjeve universitare dhe përfaqëson një strukturë të përbërë nga, së paku, dy departamente.

@@ -1,0 +1,1 @@
+13. Anëtarët e Senatit Akademik të kolegjit i përkasin kategorisë “Profesor” ose kanë gradën shkencore “Doktor” (“PHD”), të fituar pranë universiteteve të vendeve anëtare të OECD-së ose BE-së. Në mungesë të autoriteteve drejtuese me këtë titull/gradë shkencore dhe për efekt të përfaqësimit, kategoria e tyre mund të zbresë, sipas përcaktimeve të bëra në statutin e institucionit.
