@@ -1,1 +1,0 @@
-1. Miratimin e rregullores së organizimit e të funksionimit të komisionit të deklasifikimit dhe të zhvlerësimit të informacionit të klasifikuar “sekret shtetëror”, pranë Drejtorisë së Pergjithshme të Arkivave, që i bashkëlidhet këtij vendimi.
