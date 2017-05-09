@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasurinë “arë”, prej 4 158 575 (katër milionë e njëqind e pesëdhjetë e tetë mijë e pesëqind e shtatëdhjetë e pesë) lekësh, do të përballohet nga buxheti i vitit 2017, miratuar për Ministrinë e Transportit dhe Infrastrukturës, zëri shpronësime për objektet buxhetore, për programin furnizimi me ujë dhe kanalizime, me kodin M063141.

@@ -1,0 +1,33 @@
+# Shtojca
+REPUBLIKA E SHQIPËRISË
+MINISTRIA E TRANSPORTIT DHE INFRASTRUKTURËS
+AUTORITETI RRUGOR SHQIPTAR
+SEKTORI I SHPRONËSIMEVE
+LISTA E PRONARËVE QË PREKEN NGA ”NDËRTIMI I KOLEKTORIT KRYESOR TË UJËRAVE TË ZEZA
+DHE I.T.U.P. NË ZONËN TURISTIKE GJIRI I LALËZIT, DURRËS”
+Nr.
+Pronari
+Z.K.
+Nr.pas
+Lloji i pas.
+Sip.totale (m2)
+Sip. e shpronësimit (m2)
+Çmimi (lekë/m2)
+Vlera totale (lekë)
+Shënime
+Emri
+Mbiemri
+1
+Zihni Besnike Devis Rexhep Klodjan
+Dana
+2332
+527/10
+Arë
+10475
+10475
+397
+4158575
+Konfirmuar nga ZVRPP
+SHUMA TOTALE
+10475
+4158575

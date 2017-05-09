@@ -1,0 +1,1 @@
+7. Pronarët e pasurisë, për të cilën është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të likuidohen, për efekt shpronësimi, në bazë të dokumentacionit të plotë të pronësisë që do të dorëzojnë pranë Drejtorisë së Përgjithshme të Ujësjellës- Kanalizimeve.

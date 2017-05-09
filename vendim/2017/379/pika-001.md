@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Ndërtimi i kolektorit kryesor të ujërave të zeza dhe I.T.U.P në zonën turistike gjiri i Lalëzit, Durrës”.

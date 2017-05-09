@@ -1,0 +1,1 @@
+10. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Durrës të pezullojnë të gjitha transaksionet me pasurinë e shpronësuar, deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së trupit të rrugës në hartat kadastrale dhe kalimi i pronësisë për pasurinë e shpronësuar.
