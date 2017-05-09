@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Komisioneri për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale, Ministrisë së Zhvillimit Urban, për Entin Kombëtar të Banesave, të zyrave në katin e pestë të godinës së ish-shtëpisë botuese “Naim Frashëri”, Tiranë, për t’u përdorur si mjedise pune nga ky institucion.

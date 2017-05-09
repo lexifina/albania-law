@@ -1,0 +1,1 @@
+2. Ministrisë së Zhvillimit Urban, Entit Kombëtar të Banesave u ndalohet të ndryshojnë destinacionin e pronës së përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojnë atë ose t’ua japin në përdorim të tretëve.
