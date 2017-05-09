@@ -1,0 +1,1 @@
+6. Baza e të dhënave e ADAQTN-së ndërvepron me bazën e të dhënave shtetërore të Drejtorisë së Përgjithshme të Gjendjes Civile (Regjistri Kombëtar i Gjendjes Civile) dhe me bazën e të dhënave shtetërore të Qendrës Kombëtare të Biznesit (Regjistri tregtar), sipas ligjit nr.10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”.
