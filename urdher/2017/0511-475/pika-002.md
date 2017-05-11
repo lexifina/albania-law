@@ -1,0 +1,1 @@
+2. Subjekti deklarues, apo personat e lidhur me të, nuk paraqiten brenda afatit ligjor të përcaktuar në nenin 27 të ligjit nr. 9049 datë 10.4.2003, i ndryshuar, për të dhënë shpjegime mbi deklarimin e interesave privatë.
