@@ -1,0 +1,1 @@
+9. Procedurat e aplikimit dhe kriteret për përzgjedhjen e përfituesve përcaktohen në rregulloren e funksionimit të Fondit të Sipërmarrjes Turistike, e cila miratohet nga ministri përgjegjës për ekonominë.

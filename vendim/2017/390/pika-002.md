@@ -1,0 +1,1 @@
+2. Fondi i Sipërmarrjes Turistike u jep ndihmë financiare të drejtpërdrejtë ndërmarrjeve mikro e të vogla, që operojnë në sektorin e turizmit. Në varësi të projektit konkurrues, të përgatitur nga aplikantët, skema mbulon nga 60 për qind deri në 80 për qind të kostove të pranueshme dhe të miratuara, por jo më shumë se 1 000 000 (një milion) lekë.

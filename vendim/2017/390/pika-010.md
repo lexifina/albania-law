@@ -1,0 +1,1 @@
+10. Aplikuesit janë të detyruar të raportojnë pranë AIDA-s lidhur me zhvillimin e projektit dhe qëllimin për të cilin është përfituar ky fond, sipas afateve që do të përcaktohen në rregulloren e funksionimit të Fondit të Sipërmarrjes Turistike.
