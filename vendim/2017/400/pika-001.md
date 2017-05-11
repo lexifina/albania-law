@@ -1,0 +1,1 @@
+1. Në buxhetin e vitit 2017, miratuar për Ministrinë e Kulturës, të shtohet fondi prej 3 300 000 (tre milionë e treqind mijë) lekësh, me qëllim mbulimin e shpenzimeve financiare të realizimit të ceremonialit funebër, në nderim të të ndjerit Dritëro Agolli.
