@@ -1,0 +1,30 @@
+{
+  "qbz_id": 55213,
+  "title": "PËR PËRCAKTIMIN E PROCEDURAVE TË REGJISTRIMIT DHE TË PUBLIKIMIT NË QENDRËN KOMBËTARE \nTË BIZNESIT",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "391",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2017-05-03",
+  "published": "2017-05-11",
+  "in_force": "2017-05-11",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/990456ae1ec73add5883fafd0f0924034e701a285643d945033679d729d62087.docx",
+  "source_sha256": "990456ae1ec73add5883fafd0f0924034e701a285643d945033679d729d62087",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55213",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2017/05/03/391",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    69548,
+    29288,
+    61177
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
