@@ -1,0 +1,1 @@
+6. Ngarkohet Bashkia Durrës për lidhjen e kontratës përkatëse me investitorin strategjik në zbatim të këtij vendimi. Në këtë kontratë parashikohen shprehimisht të drejtat e detyrimet e autoritetit kontraktues dhe të drejtat e detyrimet e investitorit, në funksion të projektit të investimit strategjik.

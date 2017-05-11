@@ -1,0 +1,1 @@
+1. Lejimin e përdorimit të brigjeve të detit dhe të zonës përkatëse në funksion të realizimit të projektit investues strategjik “Neë Born”, Hamallaj, gjiri i Lalëzit, i cili ka përfituar statusin e investimit strategjik, procedurë e asistuar, me vendimin nr.1/15, datë 14.7.2016, të Komitetit të Investimeve Strategjike.
