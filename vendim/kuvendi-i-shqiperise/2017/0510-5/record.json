@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56356,
+  "title": "PËR DELEGIMIN E KOMPETENCAVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "5",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2017-05-10",
+  "published": "2017-05-11",
+  "in_force": "2017-05-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/dc8c67adc5a765559d929248bb07d62d989b9559cebcd1ba9add123b60a11587.docx",
+  "source_sha256": "dc8c67adc5a765559d929248bb07d62d989b9559cebcd1ba9add123b60a11587",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56356",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2017/05/10/5",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
