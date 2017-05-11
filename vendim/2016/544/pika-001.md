@@ -1,0 +1,1 @@
+1. Lejimin e përdorimit të brigjeve të detit dhe të zonës përkatëse në funksion të realizimit të projektit investues strategjik “Green Coast”, Palasë, Himarë, zona kadastrale 1481-1739, i cili ka përfituar statusin e investimit strategjik, procedurë e veçantë, me vendimin nr.2/13, datë 14.7.2016, të Komitetit të Investimeve Strategjike.
