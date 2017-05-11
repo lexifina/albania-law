@@ -1,0 +1,1 @@
+2. AKFAL-i ka për mision shpërndarjen e fondeve publike për mbështetjen e veprimtarisë së institucioneve publike të arsimit të lartë, mbështetjen me bursa studimi për studentët dhe garantimin e skemës së kredive studentore, sipas kuadrit ligjor dhe nënligjor në fuqi.

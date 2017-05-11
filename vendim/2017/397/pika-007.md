@@ -1,0 +1,1 @@
+7. Anëtarët e Bordit Drejtues të AKFAL-it shpërblehen në masën 30 000 (tridhjetë mijë) lekë për mbledhje, për jo më shumë se 12 mbledhje. Drejtori i Përgjithshëm merr pjesë në mbledhjet e Bordit Drejtues pa të drejtë vote.

@@ -1,0 +1,1 @@
+15. Vula zyrtare e AKFAL-it ka formën dhe elementet e përcaktuara në pikën 11, të vendimit nr. 390, datë 6.8.1993, të Këshillit të Ministrave, “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare”, të ndryshuar. Vula e AKFAL-it prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
