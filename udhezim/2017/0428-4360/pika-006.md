@@ -1,0 +1,1 @@
+6. Të gjithë operatorët turistikë të cilët organizojnë ture ditore në ishullin e Sazanit duhet të vënë në dispozicion një person të ngarkuar për shoqërimin e tyre në lidhje me ndalesat e përgjithshme në Ishullin e Sazanit, itinerarin e lëvizjes, si dhe sigurinë e tyre fizike.

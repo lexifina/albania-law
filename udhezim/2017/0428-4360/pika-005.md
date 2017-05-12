@@ -1,0 +1,1 @@
+5. Gjatë vizitave turistike në brendësi të ishullit, vizitorët duhet të respektojnë itineraret dhe hapësirat e lejuara të indikuara me sinjalistikë dhe tabelat orientuese të vendosura nga Shtabi i Përgjithshëm i Forcave të Armatosura për sigurinë e tyre fizike.

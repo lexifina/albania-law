@@ -1,0 +1,1 @@
+7. Mjetet lundruese turistike detyrohen të pajisen me lejen përkatëse nga Kapiteneria e Portit të Vlorës për udhëtimin në drejtim të ishullit të Sazanit, në përputhje me legjislacionin në fuqi që rregullon transportin e udhëtarëve dhe të mjeteve lundruese turistike në ujërat e brendshme detare.

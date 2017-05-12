@@ -1,0 +1,1 @@
+2. Ky udhëzim do të zbatohet për të gjithë vizitorët, operatorët turistikë dhe subjektet e transportit turistik detar të udhëtarëve, që marrin pjesë në organizimin e vizitave turistike në ishullin e Sazanit.

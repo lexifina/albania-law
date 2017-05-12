@@ -1,0 +1,1 @@
+4. Të gjithë vizitorët mund të vizitojnë ishullin e Sazanit, pasi të jenë pajisur me biletë hyrje, pranë sportelit të Bashkisë së Vlorës të vendosur në portin ushtarak të ishullit. Nëpërmjet kësaj bilete ata kanë të drejtën të kryejnë vizitën të organizuar në grupe dhe të shoqëruar nga një person i autorizuar nga Bashkia e Vlorës.
