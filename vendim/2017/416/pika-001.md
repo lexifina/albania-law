@@ -1,0 +1,3 @@
+1. Fondet buxhetore, miratuar në buxhetin e vitit 2017 për Ministrinë e Zhvillimit Urban, në programin “Infrastruktura vendore dhe rajonale”, rishpërndahen në disa institucione qendrore për financimin e projekteve të reja, të miratuara me vendimin nr. 19, datë 12.4.2017, të Komitetit për Zhvillimin e Rajoneve, “Për shpërndarjen e financimit për fond për përgatitje projektesh (projektim), thirrja I për vitin 2017, të grantit
+’Infrastruktura vendore dhe rajonale’, Programi i Zhvillimit të Infrastrukturës Vendore dhe Rajonale, shtylla
+I”, sipas tabelës 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
