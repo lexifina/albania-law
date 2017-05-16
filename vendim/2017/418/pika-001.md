@@ -1,0 +1,1 @@
+1. Subjekte juridike, vendase ose të huaja, të regjistruar në Qendrën Kombëtare të Biznesit, depozitojnë në Ministrinë e Arsimit dhe Sportit projektin për hapjen e një institucioni të arsimit të lartë ose degë të një institucioni ekzistues. Afati fundor i depozitimit është data 15 maj, për vitin e dytë pasardhës akademik.
