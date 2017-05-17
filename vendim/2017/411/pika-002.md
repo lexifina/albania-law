@@ -1,0 +1,1 @@
+2. Drejtoria Rajonale e Sigurimeve Shoqërore, në bazë të listë-pagesave të paraqitura nga Ministria e Punëve të Jashtme, të bëjë njohjen e periudhave të paguara sipas pikës 1, të këtij vendimi, si periudhë sigurimi për bashkëshortin e personelit të shërbimit të jashtëm.
