@@ -1,0 +1,1 @@
+11. Në rast refuzimi të kërkesës, aplikuesi i interesuar ka të drejtë të paraqesë ankim në gjykatën kompetente, brenda 30 (tridhjetë) ditëve kalendarike nga data e marrjes dijeni për refuzimin e aplikimit.

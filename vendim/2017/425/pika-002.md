@@ -1,0 +1,1 @@
+2. Komisioni mblidhet për shqyrtimin e kërkesave të aplikantëve jo më vonë se data 10 e çdo muaji pranë ministrisë përgjegjëse për industrinë e naftës dhe gazit. Data e mbledhjes caktohet nga kryetari i Komisionit dhe njoftimi i anëtarëve bëhet jo më vonë se 5 (pesë) ditë para zhvillimit të mbledhjes.

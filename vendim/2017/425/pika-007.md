@@ -1,0 +1,1 @@
+7. Në përfundim të shqyrtimit të dokumen-tacionit, Komisioni merr vendimin përkatës që lidhet me pajisjen ose jo të aplikuesit me dëshmi zyrtare identifikuese. Vendimi merret me të paktën 2/3 e votave të anëtarëve pjesëmarrës në mbledhje. Anëtarët e komisionit, të cilët votojnë kundër, shprehin qëndrimin e tyre të arsyetuar në procesverbalin e mbledhjes.

@@ -1,0 +1,1 @@
+3. Mbledhja e komisionit organizohet pranë ambienteve të ministrisë përgjegjëse për industrinë e naftës dhe gazin. Mbledhja konsiderohet e vlefshme kur në të marrin pjesë jo më pak se 2/3 e anëtarëve të tij.

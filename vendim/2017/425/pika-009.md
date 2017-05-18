@@ -1,0 +1,1 @@
+9. Për çdo aplikim të miratuar nga Komisioni, strukturat përgjegjëse në ministrinë përgjegjëse për naftën dhe gazin përgatitin dëshminë zyrtare identifikuese, e cila nënshkruhet nga kryetari i Komisionit dhe vuloset nga protokolli i ministrisë përgjegjëse për industrinë e naftës dhe të gazit.
