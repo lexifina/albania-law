@@ -1,0 +1,2 @@
+# Neni 1
+Miratohet rezoluta nr. BG/6-434, “Në lidhje me rritjen e përgjithshme të 5-të të kapitalit të Bankës Islamike për Zhvillim (IDB) dhe arkëtimin e 50 për qind (pjesa e arkëtueshme e parave) të kapitalit të nënshkruar të Bankës Islamike për Zhvillim, sipas rritjes së 4-t të përgjithshme të kapitalit dhe disa nënshkrimeve të tjera të veçanta”, të vitit 2013, të Bordit të Guvernatorëve të Bankës Islamike për Zhvillim, sipas tekstit që i bashkëlidhet këtij ligji.
