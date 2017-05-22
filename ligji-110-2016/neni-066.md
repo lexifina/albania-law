@@ -1,0 +1,8 @@
+# Neni 66
+Ekzekutimi i detyrimeve të debitorit
+1. Në qoftë se është e nevojshme për të dhënë deklarime të vërtetuara, gjykata e falimentimit urdhëron debitorin të paraqesë një deklaratë të shkruar, ku të përmendet se të gjitha provat e paraqitura prej tij përmbajnë të dhëna të vërteta, të sakta dhe të plota për faktet e kërkuara.
+2. Pas marrjes në pyetje, gjykata e falimentimit mund t’i kërkojë debitorit të jetë i pranishëm dhe të mos largohet nga vendbanimi ose selia në rastet kur:
+a) debitori, përfshirë drejtorët, zyrtarët, anëtarët ose aksionarët kontrollues të një shoqërie, për të cilën procedura e falimentimit ka filluar, nuk pranon të japë informacion ose deklaratë të shkruar ose të ndihmojë në përmbushjen e detyrimeve të administratorit të falimentimit;
+b) debitori tenton të shmangë ekzekutimin e detyrimeve të tij për të dhënë informacion dhe për të bashkëpunuar, në veçanti, duke përgatitur largimin e tij jashtë territorit të Shqipërisë; ose
+c) kufizimi i lëvizjes është i nevojshëm për të shmangur veprimet e debitorit që janë në kundërshtim me ekzekutimin e detyrimeve të tij për të dhënë informacion dhe për të bashkëpunuar dhe, në veçanti, të sigurojë pasurinë e përfshirë në procedurën e falimentimit.
+3. Vendimi i gjykatës së falimentimit për marrjen e masave kufizuese, sipas pikës 2, të këtij neni, mund të anulohet nga vetë gjykata e falimentimit me kërkesë të administratorit të falimentimit, nëse shkaqet për të zbatuar urdhrin nuk ekzistojnë më. Kundër vendimit për të kufizuar lëvizjen dhe vendimit që refuzon kërkesën për të hequr këtë kufizim mund të bëhet një ankim i veçantë.

@@ -1,0 +1,4 @@
+# Neni 142
+Mbrojtja e kreditorit të siguruar nga shitja e vonuar
+1. Nëse gjykata e falimentimit ka marrë një masë të përkohshme, sipas nenit 22, të këtij ligji, duke i ndaluar çdo kreditori të siguruar për të shitur një pasuri përpara fillimit të procedurës së falimentimit, i paguhet kreditorit çdo interes i akumuluar mbi vlerën e borxhit, që i detyrohet kreditorit , duke filluar që nga data e kërkesës, por jo më pak se 3 muaj pas fillimit të procedurës së falimentimit. Kjo dispozitë nuk zbatohet nëse shuma dhe vlera e pretendimit të kreditorit dhe çdo detyrim tjetër në bazë të vlerës së pasurisë nuk mund të mbulohen nga të ardhurat e përfituara nga shitja për shlyerjen e kreditorëve.
+2. Në çdo kohë përgjatë periudhës 3-mujore, gjykata e falimentimit heq kufizimet dhe urdhëron masa të tjera të sigurisë në qoftë se kreditori i siguruar provon se vlera e kolateralit nuk po mbrohet në mënyrën e duhur.

@@ -1,0 +1,5 @@
+# Neni 83
+Inventari i masës së falimentimit
+1. Me fillimin e procedurës së falimentimit, administratori i falimentimit ose ai mbikëqyrës përpilon një inventar të detajuar të të gjithë pasurisë që përbën masën e falimentimit, brenda jo më shumë se 30 ditëve nga data e fillimit të procedurës së falimentimit. Debitori mund të jetë i pranishëm gjatë hartimit të këtij inventari, për aq kohë sa kjo nuk shkakton vonesa të panevojshme që dëmtojnë procedurën e falimentimit.
+2. Vlera e çdo pasurie dhe të drejte duhet të përcaktohet. Nëse vlera e pasurisë ose e të drejtave varet nga fakti nëse aktiviteti ose veprimtaria profesionale e debitorit do të vazhdojë ose do të mbyllet, duhet të tregohen të dyja shumat përkatëse të mundshme. Për përcaktimin e vlerës së pasurive me rëndësi të veçantë, vlerësimi i të cilave paraqet vështirësi, mund të caktohet një ekspert.
+3. Me kërkesë të arsyetuar me shkrim të administratorit të falimentimit ose të atij mbikëqyrës, gjykata e falimentimit mund të sigurojë një afat shtesë deri në 15 ditë për hartimin e inventarit.

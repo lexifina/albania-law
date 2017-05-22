@@ -1,0 +1,9 @@
+# Neni 60
+Efektet mbi të drejtat e debitorëve në administrimin dhe disponimin e pasurive të falimentuara
+1. Kur procedura e falimentimit nis me kërkesë të debitorit, automatikisht të drejtat e administrimit e të disponimit të masës së falimentimit do të vazhdojnë të jenë nën autoritetin e debitorit me kufizimet e mëposhtme:
+a) të drejtat e debitorit do të jenë të kufizuara në veprime të administrimit të zakonshëm dhe janë objekt i kontrollit të përgjithshëm nga administratori mbikëqyrës;
+b) administratori mbikëqyrës autorizon paraprakisht të gjitha veprimet e disponimit që janë jashtë fushës së veprimtarisë së zakonshme të biznesit ose që nuk përbëjnë vepra të ruajtjes së thjeshtë të pasurisë. Çdo posedim i pasurive, që janë objekt i të drejtave të siguruara, konsiderohet si një veprim jashtë veprimtarisë së zakonshme të aktivitetit të debitorit;
+c) debitori nuk mund të kryejë veprime që janë brenda veprimtarisë normale të biznesit, të cilat në mënyrë të qartë janë kundërshtuar nga administratori mbikëqyrës;
+ç) administratori mbikëqyrës ose çdo kreditor mund të kërkojë në çdo kohë nga gjykata e falimentimit heqjen tërësisht ose pjesërisht të të drejtave të administrimit e të disponimit të debitorit. Kjo kërkesë duhet të justifikohet sipas rregullave dhe të bazohet në ekzistencën e rrezikut ndaj pasurisë dhe interesit të kreditorëve.
+2. Kur procedura e falimentimit nis me kërkesë të kreditorit, automatikisht të drejtat e debitorit për të menaxhuar dhe disponuar pasuritë e tij do të jenë nën autoritetin e administratorit të falimentimit.
+3. Në vendimin për fillimin e procedurës së falimentimit dhe sipas vlerësimit të rrethanave, gjykata e falimentimit mund të ndryshojë efektin e të drejtave të debitorit që vijnë automatikisht nga identiteti i kërkuesit siç është parashikuar në pikat 1 dhe 2 të këtij neni.

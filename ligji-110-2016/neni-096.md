@@ -1,0 +1,6 @@
+# Neni 96
+Dorëzimi i planit të riorganizimit
+1. Administratori i falimentimit ose ai mbikëqyrës, dhe kreditorët që kanë pretendime që përfaqësojnë 20 për qind ose më shumë të shumës totale të pretendimeve, kanë të drejtë të paraqesin një plan riorganizimi në gjykatën e falimentimit brenda 1 muaji nga data e mbledhjes së raportimit, e cila vendosi për riorganizimin e debitorit.
+2. Debitori mund të paraqesë, menjëherë ose në çdo kohë, një plan riorganizimi së bashku me kërkesën për fillimin e procedurës së falimentimit, brenda afatit kohor të përcaktuar në pikën 1 të këtij neni.
+3. Në qoftë se mbledhja e kreditorëve, sipas nenit 94, të këtij ligji, i ka kërkuar administratorit të falimentimit ose atij mbikëqyrës për të zhvilluar një plan riorganizimi gjatë përgatitjes së planit, administratori i falimentimit ose ai mbikëqyrës duhet të shqyrtojë rekomandimet nga kreditorët dhe debitori, në rast se ka të tilla.
+4. Nëse debitori ka paraqitur një plan brenda 12 muajve të mëparshëm, i cili është refuzuar nga palët ose është tërhequr nga vetë debitori pas publikimit të datës së diskutimit në mbledhje, gjykata e falimentimit refuzon pranimin e një plani të ri nga debitori nëse një refuzim i tillë kërkohet nga administratori i falimentimit ose nga komiteti i kreditorëve, nëse është caktuar një i tillë.

@@ -1,0 +1,6 @@
+# Neni 157
+Vendimi i gjykatës së falimentimit për shkarkimin nga detyrimet e mbetura
+1. Përpara marrjes së vendimit për shkarkimin nga detyrimet e mbetura, gjykata e falimentimit cakton një periudhë prej 20 ditësh që kreditorët të parashtrojnë ndonjë kërkesë ose kundërshtim për shkarkimin nga detyrimet e mbetura. Administratori i falimentimit duhet të paraqesë me shkrim mendimin e tij lidhur me kundërshtimin e shkarkimit nga detyrimet e mbetura, përfshirë edhe një propozim që shkarkimi të refuzohet nëse nuk janë përmbushur kriteret.
+2. Nëse nuk ka arsye për refuzimin e një kërkese të tillë, gjykata e falimentimit miraton shkarkimin nga detyrimet e mbetura. Çdo kreditor ose administrator i falimentimit, i cili nuk e ka pranuar shkarkimin e detyrimeve të mbetura në mbledhjen e fundit, mund të paraqesë ankim të veçantë kundër këtij vendimi.
+3. Në të njëjtën kohë, gjykata e falimentimit cakton një kujdestar, të cilit i transferohet teprica e të ardhurave të debitorit, sipas deklaratës së debitorit. Administratori i falimentimit mund të caktohet si kujdestar nëse kështu vendos gjykata e falimentimit.
+4. Vendimi për shkarkimin nga detyrimet e mbetura shpallet publikisht në Qendrën Kombëtare të Biznesit dhe në Agjencinë Kombëtare të Falimentimit.

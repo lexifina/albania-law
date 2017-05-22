@@ -1,0 +1,3 @@
+# Neni 103
+Të drejtat e kreditorëve fundorë
+Pretendimet e kreditorëve fundorë konsiderohen të përjashtuara për qëllime votimi, përveçse kur parashikohet ndryshe në plan. Në rast se plani përfshin një ulje të vlerës të pretendimeve të kreditorëve të preferuar ose kreditorëve të pasiguruar, pretendimet fundore do të konsiderohen plotësisht joekzistente. Nëse plani parashikon vetëm një shtyrje të pagesës së plotë të pretendimeve të preferuara dhe atyre të pasiguruara, pretendimet fundore do të plotësohen, në mënyrën e parashikuar në plan, pasi të jenë përmbushur plotësisht pretendimet e preferuara dhe ato të pasiguruara.

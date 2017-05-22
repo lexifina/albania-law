@@ -1,0 +1,5 @@
+# Neni 8
+E drejta e aksesit në informim
+1. Pas kërkesës me shkrim të paraqitur nga një palë pjesëmarrëse në procedurën e falimentimit, debitori, nëse mban të drejtën e administrimit gjatë procedurës së falimentimit, ose administratori duhet t’i sigurojë palës dokumentacionin e falimentimit brenda 5 ditëve nga data e njoftimit të kërkesës.
+2. Dhënia e një informacioni të kërkuar, sipas pikës 1, të këtij neni, mund të refuzohet me anë të një vendimi të arsyetuar, kur konstatohet se informacioni përmban të dhëna tregtare konfidenciale të debitorit dhe e vendos atë ose pasuritë e tij në një rrezik të lartë ose në raste të tjera të përcaktuara me ligj.
+3. Pala pjesëmarrëse mund të paraqesë një ankim në gjykatën e falimentimit kundër vendimit për refuzimin e dhënë, sipas pikës 2 të këtij neni. Gjykata e falimentimit i cakton një afat 5-ditor debitorit ose administratorit për t’u shprehur në lidhje me këtë ankim. Gjykata e falimentimit jep vendim brenda 5 ditëve pas përgjigjes së debitorit ose administratorit.

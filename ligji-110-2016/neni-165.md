@@ -1,0 +1,4 @@
+# Neni 165
+Revokimi për shkak të mospagimit të shpërblimit të kujdestarit
+1. Me kërkesë të kujdestarit, gjykata e falimentimit mund të revokojë shkarkimin nga detyrimet e mbetura, nëse shumat e marra nga kujdestari për vitin paraardhës nuk mbulojnë shpërblimin e tij dhe kujdestari ka kërkuar me shkrim pagesën ndaj debitorit brenda një periudhe jo më të shkurtër se 2 javë dhe e ka paralajmëruar atë për mundësinë e revokimit të shkarkimit të tij nga detyrimet e mbetura.
+2. Para se të merret vendimi, gjykata e falimentimit i krijon mundësinë debitorit të dëgjohet. Gjykata e falimentimit nuk duhet të revokojë shkarkimin nga detyrimet e mbetura në qoftë se debitori, me kërkesë të saj, paguan shumën e papaguar brenda 2 javëve ose në qoftë se ka arsye të tjera bindëse për të mos revokuar shkarkimin në rrethanat e ndonjë rasti të veçantë.

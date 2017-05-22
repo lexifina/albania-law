@@ -1,0 +1,5 @@
+# Neni 106
+Mbyllja e mbledhjes së diskutimit dhe votimit
+1. Seanca deklarohet e hapur nga kryesuesi i mbledhjes, i cili është përgjegjës për shqyrtimin dhe për të vendosur për çështjet e ngritura nga pjesëmarrësit lidhur me organizimin e mbledhjes, nëse ka të tilla.
+2. Çdo propozim për një plan riorganizimi shpjegohet publikisht nga propozuesi i tij. Të paktën 2 pjesëmarrësve u jepet mundësia e fjalës për të mbështetur ose kundërshtuar propozimin, nëse ka kërkesa të tilla. Kryesuesi ka të drejtën të kërkojë çdo sqarim që e konsideron të nevojshëm për t’i ofruar informacionin e duhur kreditorëve të pranishëm.
+3. Propozimi i parë që diskutohet dhe votohet është propozimi i debitorit, nëse ka një të tillë. Propozimi i radhës është ai i hartuar nga administratori mbikëqyrës ose ai i falimentimit. Propozimet e mëtejshme që shqyrtohen janë ato të dorëzuara nga kreditorët, duke filluar nga ai që përmban shumën më lartë të pretendimeve. Në qoftë se një propozim miratohet, propozimet e tjera në vijim nuk do të konsiderohen.

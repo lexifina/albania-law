@@ -1,0 +1,6 @@
+# Neni 156
+Kërkesa e debitorit për shkarkimin nga detyrimet e mbetura
+1. Shkarkimi nga detyrimet e mbetura fillohet përmes një kërkese me shkrim të debitorit, e cila paraqitet në gjykatën e falimentimit në çdo kohë gjatë procedurës së likuidimit. Kjo kërkesë mund t’i bashkëngjitet kërkesës për fillimin e procedurës së falimentimit.
+2. Kërkesa për shkarkimin nga detyrimet e mbetura së bashku me kërkesën për fillimin e procedurës së falimentimit nënkupton njëkohësisht kërkesën për likuidimin e pasurisë. Në këtë rast, administratori i falimentimit përpilon listën e kreditorëve, harton inventarin dhe raportin, siç përcaktohet në këtë ligj. Pasi të përfundojë ose në çdo kohë më herët, por me miratimin e gjykatës së falimentimit, në qoftë se është e përshtatshme për likuidim, likuidimi i pasurive dhe ndarja e procedurave kryhen në përputhje me përcaktimin e pikës 1 të këtij neni.
+3. Kërkesa për shkarkimin nga detyrimet e mbetura shoqërohet me një deklaratë që vërteton vullnetin e debitorit për të kaluar çdo shumë përtej limiteve të kostos së jetesës te një kujdestar i emëruar nga gjykata e falimentimit, me propozim të debitorit. Nëse debitori ia ka ngarkuar këto të drejta një pale të tretë, ai e shpreh këtë në deklaratën e tij.
+4. Çdo marrëveshje, që përjashton, kushtëzon ose ndalon debitorin nga marrja e pagesave të mësipërme, është e pavlefshme.

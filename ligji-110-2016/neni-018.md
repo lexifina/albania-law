@@ -1,0 +1,4 @@
+# Neni 18
+Shqyrtimi i kërkesës së kreditorit
+1. Nëse kreditorët paraqesin kërkesë për fillimin e procedurës së falimentimit, gjykata e falimentimit shqyrton kërkesën dhe kontrollon përputhshmërinë e saj me nenin 16 të këtij ligji. Nëse kërkesa është në përputhje me nenin 16, gjykata e falimentimit njofton debitorin për kërkesën brenda 5 ditëve, duke i bashkëngjitur një kopje të plotë të saj dhe të dokumenteve shoqëruese.
+2. Debitori ka të drejtë të kundërshtojë me shkrim fillimin e procedurave të falimentimit brenda 10 ditëve nga momenti kur është njoftuar për kërkesën, duke siguruar të gjithë dokumentacionin e nevojshëm për të mbështetur pretendimet e tij. Në qoftë se debitori nuk e kundërshton në kohë fillimin e procedurës së falimentimit dhe nëse plotësohen kërkesat formale, gjykata e falimentimit deklaron fillimin e saj brenda 3 ditëve, në përputhje me nenin 29 të këtij ligji.

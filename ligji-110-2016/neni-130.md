@@ -1,0 +1,7 @@
+# Neni 130
+Lista e kreditorëve në procedurën e riorganizimit të përshpejtuar
+1. Hartimi i listës së kreditorëve u nënshtrohet rregullave të përgjithshme në rastin e procedurës së riorganizimit të përshpejtuar, për aq kohë sa nuk rregullohet shprehimisht në këtë nen.
+2. Administratori mbikëqyrës ka 5 ditë kohë për të përfunduar listën e kreditorëve, duke filluar numërimin nga dita e fundit e verifikimit të pretendimeve të paraqitura. Lista depozitohet në gjykatën e falimentimit dhe bëhet publike në Qendrën Kombëtare të Biznesit, si dhe përmes shpalljes në gjykatë.
+3. Brenda 15 ditëve nga data e publikimit të vendimit për fillimin e procedurës së riorganizimit të përshpejtuar, çdo kreditor mund të kundërshtojë tek administratori mbikëqyrës në lidhje me pretendimet që kanë mbështetur propozimin në kërkesën e debitorit. Administratori mund të marrë në konsideratë kundërshtimet gjatë mbikëqyrjes së tij lidhur me vërtetësinë dhe vlefshmërinë e pretendimeve në fjalë.
+4. Brenda 7 ditëve nga depozitimi i listës, debitori dhe kreditorët e tij kanë të drejtë të kundërshtojnë listën e kreditorëve. Kundërshtimi mund t’i referohet përfshirjes ose mospërfshirjes së një pretendimi për vlerën ose për klasifikimin e pretendimit.
+5. Kundërshtimet ndaj listës së kreditorëve zgjidhen sipas procedurës së përgjithshme të këtij ligji. Në çdo rast, këto kundërshtime nuk pezullojnë procedurën e riorganizimit të përshpejtuar.

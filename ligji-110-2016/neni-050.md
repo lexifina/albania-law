@@ -1,0 +1,5 @@
+# Neni 50
+Caktimi dhe përbërja e komitetit të kreditorëve
+1. Pas caktimit të komitetit të përkohshëm të kreditorëve, sipas shkronjës “dh”, të nenit 29, të këtij ligji, mbledhja e kreditorëve, në çdo moment, mund të zëvendësojë ose të caktojë një komitet të ri kreditorësh.
+2. Komiteti i kreditorëve duhet të përbëhet prej të paktën 3 anëtarësh dhe jo më shumë se 5 anëtarë, me të drejtë vote. Çdo anëtar, pavarësisht nga shuma e pretenduar, ka një votë.
+3. Komiteti i kreditorëve është përfaqësues i kreditorëve të falimentimit, pa përfshirë kreditorët fundorë. Nëse është e mundur, komiteti i kreditorëve përfshin një kreditor të preferuar dhe një ose më shumë kreditorë të pasiguruar. Kreditorët e siguruar mund të caktohen, për aq kohë sa ata nuk formojnë shumicën e votave në komitet. Në qoftë se debitori ka të paktën 20 të punësuar, të paktën një përfaqësues nga punëmarrësit ka të drejtën për të marrë pjesë në komitetin e kreditorëve. Përfaqësuesi i të punëmarrësve nuk ka të drejtë vote për çështjet që trajtohen nga komiteti i kreditorëve, përveç rastit kur punëmarrësi është kreditor i debitorit dhe ka kreditorë të tjerë si ai.

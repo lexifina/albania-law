@@ -1,0 +1,3 @@
+# Neni 70
+Kryerja e ekzekutimit përpara fillimit të procedurës së falimentimit
+Çdo pasuri e debitorit, e marrë nga përmbaruesi para fillimit të procedurës së falimentimit, dhe çdo e ardhur që përmbaruesi merr nga shitja e pasurisë përpara fillimit të procedurës së falimentimit bëhet pjesë e masës së falimentimit dhe i dorëzohet administratorit të falimentimit 5 ditë pas njoftimit publik të fillimit të procedurës së falimentimit. Në qoftë se të ardhurat nga shitja e këtyre pasurive i janë paguar kreditorit që ka kërkuar ekzekutimin përpara fillimit të procedurës së falimentimit, kreditori mund t’i mbajë të ardhurat. Ky veprim mund të kundërshtohet sipas rregullave të parashikuara në dispozitat e kreut III të kësaj pjese.

@@ -1,0 +1,6 @@
+# Neni 159
+Statusi ligjor i kujdestarit
+1. Kujdestari ka për detyrë të njoftojë statusin e tij te debitori i debitorit ose te ndonjë person tjetër që është i detyruar të bëjë pagesën ndaj debitorit. Kujdestari duhet të mbajë në një llogari të veçantë të gjitha shumat e marra gjatë kryerjes së detyrave të tij, së bashku me pagesat e tjera të kryera nga debitori ose palët e treta, dhe t’i shpërndajë këto fonde mbi baza vjetore te kreditorët e falimentimit, siç udhëzohet në listën përfundimtare.
+2. Kujdestari caktohet për një periudhë prej 5 vitesh pasi merret vendimi nga gjykata e falimentimit për të shkarkuar nga detyrimet e mbetura të debitorit, përveçse nëse gjykata e falimentimit vendos ndryshe.
+3. Gjykata e falimentimit mund të ngarkojë kujdestarin për të mbikëqyrur përmbushjen e detyrimeve të debitorit, me kërkesë të administratorit të falimentimit ose të kreditorëve të falimentimit. Në një rast të tillë, nëse kujdestari vihet në dijeni për ndonjë shkelje të këtyre detyrimeve, ai duhet të informojë menjëherë kreditorët dhe gjykatën e falimentimit. Kujdestari detyrohet të kryejë mbikëqyrjen vetëm nëse është marrë pagesa, lidhur me këtë çështje.
+4. Kujdestari i raporton gjykatës së falimentimit, me përfundimin e detyrës së tij.
