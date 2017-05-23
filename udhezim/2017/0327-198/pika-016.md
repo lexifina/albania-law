@@ -1,1 +1,0 @@
-16. Zgjedhësit, të cilët, pas shpalljes së listës së zgjedhësve konstatojnë se në përbërësit e tyre zgjedhorë ka mospërputhje, ose nuk janë të përfshirë në listën e zgjedhësve i drejtohen gjykatës së rrethit gjyqësor përkatës.
