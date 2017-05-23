@@ -1,1 +1,0 @@
-12. Anëtarët e zyrave të pajtimit përfitojnë një shpërblim të barabartë me pagën ditore të drejtorit të zyrës rajonale të punësimit, shumëzuar me ditët në të cilat marrin pjesë në seancën e pajtimit, të vërtetuara nga kryetari i zyrës.

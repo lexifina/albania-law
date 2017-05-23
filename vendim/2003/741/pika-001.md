@@ -1,1 +1,0 @@
-1. Pranë Ministrisë së Punës dhe të Çështjeve Sociale të funksionojë Zyra Kombëtare e Pajtimit dhe pranë zyrave rajonale të punësimit të funksionojnë zyrat e pajtimit, për pajtimin e konflikteve sociale.

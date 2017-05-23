@@ -1,1 +1,0 @@
-10. Kryetari i Zyrës Kombëtare të Pajtimit dhe kryetarët e zyrave të pajtimit përfitojnë një shpërblim mujor deri në 10 për qind të pagës mujore, përkatësisht, të drejtorit të drejtorisë në ministri dhe të drejtorit të zyrës rajonale të punësimit.
