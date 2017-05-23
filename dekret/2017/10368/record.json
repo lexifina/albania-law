@@ -1,0 +1,26 @@
+{
+  "qbz_id": 56380,
+  "title": "PËR SHPALLJE LIGJI DHE DHËNIEN E PËLQIMIT PËR HYRJEN NË FUQI MENJËHERË TË LIGJIT",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "10368",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2017-05-23",
+  "published": "2017-05-23",
+  "in_force": "2017-05-23",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/fc8a4a5799df25af47f66af825f7b2c3d06c4180d9ade74a4763073e2f6ff9f1.docx",
+  "source_sha256": "fc8a4a5799df25af47f66af825f7b2c3d06c4180d9ade74a4763073e2f6ff9f1",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56380",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2017/05/23/10368",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
