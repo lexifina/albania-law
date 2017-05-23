@@ -1,0 +1,1 @@
+5. Strukturat dhe organikat e drejtorive të ujitjes dhe të kullimit miratohen nga Kryeministri, sipas përcaktimeve të legjislacionit në fuqi për organizimin dhe funksionimin e administratës shtetërore.

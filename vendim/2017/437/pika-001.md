@@ -1,0 +1,1 @@
+1. Krijimin e drejtorive të ujitjes dhe të kullimit Lezhë, Durrës, Fier dhe Korçë, si struktura në varësi të ministrisë përgjegjëse për bujqësinë, të cilat financohen nga buxheti i shtetit, i miratuar për ministrinë.
