@@ -1,0 +1,1 @@
+13. Transporti i lëndës drusore bëhet pas markimit me mënyrën dhe ngjyrën përkatëse, të miratuar nga bashkia, dhe shoqërohet me faturë dhe vërtetim transporti, sipas formatit dhe përmbajtjes së miratuar me urdhër të ministrit të Mjedisit.

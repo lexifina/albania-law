@@ -1,0 +1,1 @@
+39. Dokumentacioni teknik për shfrytëzimin e pyjeve dhe formati i tij është i unifikuar. Ai hartohet nga Ministria e Mjedisit, miratohet me urdhër të ministrit dhe u njoftohet bashkive brenda 30 ditë, nga hyrja në fuqi e këtij vendimi.

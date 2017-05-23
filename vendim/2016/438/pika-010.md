@@ -1,0 +1,1 @@
+10. Në çdo rast, struktura përgjegjëse për administrimin e pyjeve dhe kullotave në bashki i njofton degës së ISHMP-së kopjen e kontratës së lidhur, sipas shkronjës “a”, të pikës 8, dhe/ose aktin e miratimit të shfrytëzimit të ndërmarrjes së specializuar, të ngritur pranë bashkisë, sipas shkronjës “b”, të pikës 8.

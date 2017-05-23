@@ -1,0 +1,1 @@
+2. Materiali drusor, që shfrytëzohet çdo vit nga fondi pyjor publik dhe privat, caktohet brenda mundësisë vjetore të shfrytëzimit e të trajtimit të pyjeve në ngastrat dhe nënngastrat, të përcaktuara në planet e mbarështimit apo inventarizimit.

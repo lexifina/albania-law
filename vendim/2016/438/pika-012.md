@@ -1,0 +1,1 @@
+12. Pas marrjes në dorëzim të materialit drusor nga bashkia, shitja e tij në pikat e depozitimit bëhet sipas tarifave të përcaktuara në vendimin nr. 391, datë 21.3.2006, të Këshillit të Ministrave, “Për përcaktimin e tarifave në sektorin e pyjeve dhe të kullotave”, të ndryshuar.

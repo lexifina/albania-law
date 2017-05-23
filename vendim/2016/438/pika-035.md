@@ -1,0 +1,1 @@
+35. Subjektet e përcaktuara në pikën 29, më sipër, përpara fillimit të shfrytëzimit duhet të pajisen me kopje kontrate, me procesverbal dorëzimi të ngastrave/nënngastrave, leje shfrytë-zimi dhe vërtetim transporti.

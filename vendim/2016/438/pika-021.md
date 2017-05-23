@@ -1,0 +1,1 @@
+21. Deri në momentin e dorëzimit dhe kolaudimit përfundimtar të ngastrës/nënngastrës, ajo mbrohet nga dëmtimet dhe zjarret nga subjekti i kontraktuar apo nga ndërmarrja e specializuar, kur është kjo vetë duke e shfrytëzuar.

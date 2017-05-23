@@ -1,0 +1,2 @@
+47. Shfrytëzimi dhe trajtimi i pyjeve nga bashkitë, për vitin 2016, me qëllim sigurimin e nevojave për ngrohje, realizohet nga subjekte të licencuara, të kontraktuara nga bashkia, në bazë të legjislacionit në fuqi për ankandet me objekt prerjen e materialit drusor në këmbë (të paprerë), transportin dhe shitjen e tyre te bashkitë, entet publike dhe konsumatorët familjarë.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

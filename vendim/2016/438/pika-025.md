@@ -1,0 +1,1 @@
+25. Me përfundimin e plotë të prerjes e nxjerrjes së materialit drusor dhe pas pastrimit të ngastrës/nënngastrës, subjekti ia dorëzon ngastrën/nënngastrën strukturës përgjegjëse për pyjet dhe kullotat në bashki.

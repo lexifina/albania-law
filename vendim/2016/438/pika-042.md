@@ -1,0 +1,1 @@
+42. Në rastet e mungesës së planeve të mbarështimit dhe inventarizimit të pyjeve, përpara miratimit të mundësisë vjetore të shfrytëzimit për vitin 2017, strukturat përgjegjëse për pyjet dhe kullotat në bashki të rishikojnë planin e mbarështimit dhe inventarizimit që disponojnë ose hartojnë studime pjesore për ngastrat që do të shfrytëzohen.

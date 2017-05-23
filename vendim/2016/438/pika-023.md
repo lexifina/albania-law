@@ -1,0 +1,1 @@
+23. Subjekti i kontraktuar apo ndërmarrja e specializuar e bashkisë zbaton rregullat dhe kërkesat teknike, metodikat e procedurat për shfrytëzimin e ngastrave/nënngastrave, të cilat specifikohen në kontratën e lidhur mes palëve, si dhe zbaton kërkesat e skemës teknologjike të shfrytëzimit.
