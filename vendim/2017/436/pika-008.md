@@ -1,0 +1,1 @@
+8. Nëse anëtari i zyrës së pajtimit ka konflikt interesi në shqyrtimin e konfliktit, anëtari nuk ka të drejtë të marrë pjesë në procedurën e pajtimit. Kushtet kur anëtari është në konflikt interesi përcaktohen në rregulloren e zyrës së pajtimit.

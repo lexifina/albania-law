@@ -1,0 +1,1 @@
+11. Nëse palët e pranojnë dhe e nënshkruajnë propozimin e zyrës së pajtimit, ky propozim merr fuqinë e kontratës kolektive, e detyrueshme për t’u zbatuar nga palët. Në rast të kundërt, kryetari i zyrës së pajtimit deklaron me shkrim dështimin e pajtimit të palëve në konflikt dhe brenda 3 (tri) ditëve pune nga data e marrjes së përgjigjes njoftohet pala e interesuar.

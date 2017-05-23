@@ -1,0 +1,1 @@
+1. Pranë ministrisë përgjegjëse për punën të funksionojë Zyra Kombëtare e Pajtimit dhe pranë Drejtorisë Rajonale të Punësimit në çdo qark të funksionojë zyra e pajtimit për pajtimin e konflikteve kolektive.

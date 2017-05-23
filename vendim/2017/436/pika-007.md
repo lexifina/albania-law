@@ -1,0 +1,1 @@
+7. Kryetari i zyrës së pajtimit pranë Drejtorisë Rajonale të Punësimit në çdo qark ndihmohet nga specialisti përgjegjës për marrëdhëniet e punës dhe kryetari i Zyrës Kombëtare të Pajtimit ndihmohet nga specialisti përgjegjës për marrëdhëniet e punës në ministrinë përgjegjëse për punën, për analizën dhe administrimin e dosjes së konfliktit.

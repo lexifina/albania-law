@@ -1,0 +1,1 @@
+9. Anëtarët e zyrës së pajtimit votojnë për propozimin e pajtimit, i cili vendoset me shumicën e votave të anëtarëve pjesëmarrës dhe, në rast barazimi votash, vota e kryetarit është përcaktuese. Zyra e pajtimit del me një propozim të nënshkruar nga anëtarët dhe kryetari i zyrës së pajtimit.

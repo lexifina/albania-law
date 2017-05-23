@@ -1,0 +1,1 @@
+10. Kryetari i zyrës së pajtimit njofton me shkrim palët për propozimin e pajtimit dhe u kërkon atyre që brenda 4 (katër) ditëve pune të deklarojnë, me shkrim, pranimin ose kundërshtimin e këtij propozimi.
