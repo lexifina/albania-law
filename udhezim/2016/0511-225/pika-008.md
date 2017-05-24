@@ -1,0 +1,1 @@
+8. Nëpunësi i ngarkuar, pas marrjes së materialeve nga Drejtori i Përgjithshëm i Gjendjes Civile, kryen fillimisht verifikimin dhe krahasimin e të dhënave personale në RKGJC, për shtetasit e përfshirë në listë, sipas pikave 5 dhe 6 të këtij udhëzimi.

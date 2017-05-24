@@ -1,0 +1,1 @@
+15. Pas verifikimit për zbatimin e procedurës, Drejtori i Përgjithshëm, harton njoftimin për shtetasin përkatës në lidhje me ekzekutimin e kësaj mase si pasojë e vendimit të gjykatës dhe ia dërgon Drejtorisë së Përgjithshme të Burgjeve.

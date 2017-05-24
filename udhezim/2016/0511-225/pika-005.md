@@ -1,0 +1,1 @@
+5. Nëpunësi i ngarkuar nga Drejtori i Përgjithshëm i Gjendjes Civile, verifikon në RKGJC të dhënat e shtetasve të përfshirë në listën e ardhur nga Drejtoria e Përgjithshme e Burgjeve, për shtetasit që vuajnë aktualisht dënimin, duke i ndarë sipas zyrës së gjendjes civile ku ka vendbanimin aktual secili prej tyre.

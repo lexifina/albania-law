@@ -1,0 +1,1 @@
+11. Përgjigjja e Drejtorisë së Përgjithshme të Burgjeve verifikohet me të dhënat e krijuara nga nëpunësi i ngarkuar dhe pas verifikimit, lista emërore e hartuar sipas vendbanimit të shtetasve, i dërgohet menjëherë në formë shkresore zyrave të gjendjes civile përkatëse.

@@ -1,0 +1,1 @@
+13. Pas kryerjes së veprimeve sipas manualit bashkëlidhur, përgjegjësi i zyrës së gjendjes civile që ka kryer veprimin, dërgon njoftimin në DPGJC, në lidhje me pezullimin e shtetasit nga lista e zgjedhësve.

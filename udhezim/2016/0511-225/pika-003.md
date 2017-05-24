@@ -1,0 +1,2 @@
+3. Drejtori i Përgjithshëm i Gjendjes Civile, për zbatimin e procedurës për pezullimin e shtetasve
+nga lista e zgjedhësve, të cilët parashikohen nga germat “a” dhe “b” të nenit 2, të ligjit nr. 138/2015,“Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”, cakton personin përgjegjës/nëpunësin përgjegjës, brenda drejtorisë së përgjithshme, i cili do të kryejë këtë proces, përveç detyrave të tjera funksionale të përcaktuara në përshkrimin e punës.
