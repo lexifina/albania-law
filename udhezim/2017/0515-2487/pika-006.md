@@ -1,0 +1,5 @@
+6. VEPRIMET PAS SEKUESTRIMIT
+6.1 Dokumentet e domosdoshme të plotësohen nga shërbimet e policisë gjyqësore të specializuara për luftën kundër drogës, të punonjësve që u është dhënë një detyrë e tillë nga prokurori.
+6.2 Nëse është e nevojshme, oficeri i policisë gjyqësore ose prokurori mbështetur në ligjin procedural penal kërkojnë kryerjen e ekspertimit në Institutin e Policisë Shkencore apo institucione të tjera të specializuara në këtë fushë, për të gjetur gjurmë dhe për të bërë analizën për të përcaktuar llojin e lëndëve narkotike apo psikotrope të sekuestruara.
+6.3 E gjithë sasia e bimëve apo lëndëve të dyshuara si narkotike që janë sekuestruar, të dërgohet në laborator për kryerjen e ekspertimit brenda 48 orëve nga sekuestrimi. Në rastet në të cilat ka autorë të arrestuar apo ndaluar, bimët apo lëndët narkotike që janë sekuestruar do të dërgohen në Institutin e Policisë Shkencore brenda 24 orëve nga sekuestrimi.
+6.4 Provat merren në dorëzim nga punonjësit e Institutit të Policisë Shkencore duke regjistruar detajet në një regjistër të posaçëm të sekretuar në Sekretari.

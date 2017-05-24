@@ -1,0 +1,4 @@
+3. PARIMET DREJTUESE
+3.1 Parimi i “zinxhirit të lëvizjes së provave materiale” duhet të zbatohet gjithmonë sipas këtij udhëzimi. “Zinxhiri i lëvizjes së provave materiale” kërkon që të gjitha provat e sekuestruara që janë bimë apo lëndë të dyshuara si narkotike dhe substanca psikotrope, të sigurohen duke respektuar rregullat e administrimit e ruajtjes dhe në çdo rast të regjistrohet vendi se ku ruhet prova materiale, kujt i është sekuestruar dhe kush ka kryer veprime me provat materiale.
+3.2 Gjithë sasia e sekuestruar e bimëve dhe lëndëve të dyshuara si narkotike apo substanca psikotrope (përfshirë ambalazhin) duhet të mbyllet në qeset e provave dhe të dërgohet pa bërë ndërhyrje në Institutin e Policisë Shkencore, për gjetje gjurmësh dhe analiza kimike.
+3.3 Për substancat që shërbejnë si prekursorë, duhet të njoftohet Instituti i Policisë Shkencore për marrjen e mostrave dhe kryerjen e analizave kimike.

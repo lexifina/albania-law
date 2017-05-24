@@ -1,0 +1,4 @@
+# Shtojca
+MINISTRI I PUNËVE TË BRENDSHME Fatmir Xhafaj
+MINISTRI I MJEDISIT
+Lefter Koka
