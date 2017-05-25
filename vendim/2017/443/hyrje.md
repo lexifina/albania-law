@@ -1,0 +1,5 @@
+VENDIM
+Nr. 443, datë 22.5.2017
+PËR BASHKËFINANCIMIN E SHTESËS SË KONTRATËS “PËR NDËRTIMIN E VIJËS BREGDETARE TË VLORËS”
+Në mbështetje të nenit 100 të Kushtetutës, të nenit 10, të ligjit nr. 130/2016, “Për buxhetin e vitit 2017”, të pikës 3, të nenit 4, të ligjit nr. 9840, datë 10.12.2007, “Për ratifikimin e marrëveshjes kuadër, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit të Komuniteteve Evropiane për rregullat e bashkëpunimit për asistencën për Shqipërinë, në kuadër të zbatimit të Instrumentit të Parazgjerimit (IPA)”, si dhe në vijim të vendimit nr. 71, datë 12.2.2014, të Këshillit të Ministrave, “Për miratimin, në parim, të marrëveshjes financiare, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bashkimit Evropian, përfaqësuar nga Komisioni Evropian, për programin kombëtar për Shqipërinë, në kuadrin e komponentit IPA “Asistenca e Tranzicionit dhe Mbështetja Institucionale”, për vitin 2013, nënshkruar nga Koordinatori Kombëtar i fondeve IPA në datën 19.2.2014, me propozimin e Kryeministrit, Këshilli i Ministrave
+VENDOSI:
