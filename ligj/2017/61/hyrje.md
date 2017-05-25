@@ -1,0 +1,7 @@
+LIGJ
+Nr. 61/2017
+PËR RATIFIKIMIN E MARRËVESHJES NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE the Swiss Confederation KONFEDERATËS ZVICERANE PËR PROJEKTIN “AFTËSI PËR PUNË, FAZA E PARË, 1 TETOR 2015 - 28 SHKURT 2019”
+Në mbështetje të neneve 78, 83, pika 1 dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
