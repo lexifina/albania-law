@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave administrative që zotëron Z. Alqi Bllako Sekretar i Përgjithshëm i Ministrisë së Mjedisit, Drejtorit të Drejtorisë Juridike, Komunikimit dhe Prokurimeve Znj. Alba Thoma me përjashtim të detyrave të ngarkuara nga legjislacioni në fuqi për menaxhimin financiar.
