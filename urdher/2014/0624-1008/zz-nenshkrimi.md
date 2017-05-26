@@ -1,3 +1,0 @@
-# Nënshkrimi
-INSPEKTORI I PËRGJITHSHËM I INSPEKTORATIT TË LARTË TË DEKLARIMIT DHE KONTROLLIT TË PASURIVE dhe konfliktit të interesit
-Shkëlqim Ganaj
