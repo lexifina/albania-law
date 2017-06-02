@@ -1,0 +1,3 @@
+13. Titullarët e ministrive dhe/ose drejtuesit e institucioneve të varësisë ose personat e ngarkuar prej tyre të organizojnë menjëherë punën dhe të marrin masat e nevojshme për garantimin e zbatimit të
+detyrimeve ligjore, për ndalimin e vënies në përdorim për subjektet zgjedhore të veprimtarisë së tyre institucionale, mjeteve, fondeve e materialeve të ndryshme, pronë e administratës shtetërore, si dhe të
+burimeve njerëzore të institucioneve të administratës shtetërore, të çdo niveli, për zgjedhjet e Kuvendit, të datës 25 qershor 2017.

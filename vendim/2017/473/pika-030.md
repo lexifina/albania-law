@@ -1,0 +1,2 @@
+30. Titullarët e ministrive urdhërojnë ngritjen e grupeve të monitorimit/inspektimit për mënyrën e zbatimit të këtij vendimi dhe në funksion të informimit të Task-Forcës, duke përcaktuar edhe detyrat
+konkrete dhe veprimtarinë që do të mbikëqyrin këto grupe.

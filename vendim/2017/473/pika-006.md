@@ -1,0 +1,2 @@
+6. Punonjësit të administratës shtetërore, gjatë orarit zyrtar të punës dhe brenda mjediseve të
+institucioneve shtetërore, i ndalohet çdolloj pjesëmarrjeje në veprimtari politike apo fushatë zgjedhore të një partie politike ose kandidati në zgjedhje.
