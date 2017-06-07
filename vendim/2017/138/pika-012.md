@@ -1,0 +1,1 @@
+12. Të gjitha ndryshimet në arkitekturën software dhe hardware të Regjistrit Elektronik Shëndetësor Kombëtar të Ministrisë së Shëndetësisë, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe praktikave evropiane e ndër-kombëtare në fushën e shëndetësisë, të bëhen në përputhje me legjislacionin në fuqi.

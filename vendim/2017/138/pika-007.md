@@ -1,0 +1,1 @@
+7. Bazat e të dhënave me të cilat ndërvepron Regjistri Elektronik Shëndetësor Kombëtar janë Regjistri Kombëtar i Gjendjes Civile (DPGjC) dhe database-t e tjera shtetërore, të cilat, në aktin e krijimit të tyre, parashikojnë ndërveprimin me Regjistrin Elektronik Shëndetësor Kombëtar.

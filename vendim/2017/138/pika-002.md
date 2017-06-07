@@ -1,0 +1,1 @@
+2. Regjistri Elektronik Shëndetësor Kombëtar mban të dhëna për dokumentet mjekësore elektronike të shtetasve që kanë marrë shërbim shëndetësor në institucionet e kujdesit shëndetësor. Institucioni administrues i Regjistrit Elektronik Shëndetësor Kombëtar është Ministria e Shëndetësisë.

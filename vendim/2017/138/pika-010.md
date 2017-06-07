@@ -1,0 +1,1 @@
+10. Dokumentet mjekësore në format elektronik, pjesë e sistemit të informacionit shëndetësor, të cilat duhet të nënshkruhen elektronikisht dhe të quhen dokumente mjekësore elektronike, përcaktohen me urdhër të ministrit të Shëndetësisë.
