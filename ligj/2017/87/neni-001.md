@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e huas ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, “Huamarrësi”, dhe KfW Frankfurt am Main, “KfW”, për financimin e programit të infrastrukturës bashkiake III/IV, furnizimi me ujë dhe kanalizime për vendndodhjet e projekteve Berat - Kuçovë, Delvinë, Gjirokastër, Kamëz, Librazhd dhe Lushnjë, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
