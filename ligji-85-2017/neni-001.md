@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e financimit (SECO II) ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, “Përfituesi”, dhe KfW Frankfurt am Main, “KfW”, për financimin e programit të infrastrukturës bashkiake III/IV, furnizimi me ujë dhe kanalizime për qytetet e Beratit, Kuçovës, Delvinës, Gjirokastrës, Kamzës, Librazhdit dhe Lushnjës, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
