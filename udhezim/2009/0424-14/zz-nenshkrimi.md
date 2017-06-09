@@ -1,3 +1,0 @@
-# Nënshkrimi
-KryetarI
-Arben Ristani
