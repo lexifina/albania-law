@@ -1,0 +1,28 @@
+{
+  "qbz_id": 64925,
+  "title": "MBI MIRATIMIN E NJË NDRYSHIMI NË VENDIMIN E BORDIT TË ERE-S NR. 25, DATË 15.2.2017, “MBI MIRATIMIN E NJË NDRYSHIMI NË VENDIMIN E BORDIT TË\nERE-S NR. 169, DATË 31.10.2016, “MBI FILLIMIN E PROCEDURAVE PËR SHQYRTIMIN E DISA NDRYSHIMEVE NË VENDIMIN E ERE-S NR. 103, DATË\n23.6.2016, “MBI MIRATIMIN E RREGULLORES PËR PROCEDURAT E BLERJES SË ENERGJISË ELEKTRIKE PËR MBULIMIN E HUMBJEVE NË RRJETET E\nSHPËRNDARJES DHE TË TRANSMETIMIT DHE PËR BLERJEN DHE SHITJEN E ENERGJISË ELEKTRIKE PËR TË SIGURUAR PËRMBUSHJEN E DETYRIMEVE TË\nSHËRBIMIT PUBLIK””",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "75",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2017-05-26",
+  "published": "2017-06-19",
+  "in_force": "2017-06-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c8eb60f54da8602c3ef9b7f81c8db5ff828850411dbbc206fac165ab36e18952.docx",
+  "source_sha256": "c8eb60f54da8602c3ef9b7f81c8db5ff828850411dbbc206fac165ab36e18952",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64925",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2017/05/26/75",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    67237
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
