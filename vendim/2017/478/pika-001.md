@@ -1,0 +1,1 @@
+1. Restaurimin, në vlerën 103 000 000 (njëqind e tre milionë) lekë, të ish-godinës së Lidhjes së Shkrimtarëve dhe Artistëve, me qëllim sistemimin e ambienteve të saj aktuale në funksion të organeve të Vetting-ut.
