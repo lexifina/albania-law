@@ -1,1 +1,0 @@
-12. Kompanitë që vjelin material drusor dhe prodhime të dyta pyjore në ekonomitë/pjesë të tyre, të marra për trajtime me prerje ripërtëritëse dhe për kohën e kontraktuar, mbajnë përgjegjësi të plotë për dëmet që shkaktohen në ekonominë pyjore ku punojnë, nëse nuk denoncojnë në organet kompetente.

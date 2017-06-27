@@ -1,1 +1,0 @@
-23. Udhëzimi nr. 4, datë 25.8.2010 “Për kërkesat teknike të caktimit të ngastrave e grup-ngastrave për shfrytëzim, rregullat për vjeljen e materialit drusor dhe shitjen me ankand të lëndës drusore e të prodhimeve të tjera pyjore e jopyjore”, shfuqizohet.
