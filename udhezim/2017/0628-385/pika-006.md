@@ -1,0 +1,2 @@
+6. Tarifa fikse e përllogaritur sipas pikave 2, 3 dhe 4 të këtij seksioni parapaguhet nga kreditori në llogarinë bankare të përmbaruesit gjyqësor privat në momentin e nënshkrimit të kontratës së shërbimit
+përmbarimor prej subjektit përmbarues dhe në fund të ekzekutimit i ngarkohet debitorit ose personave të barazuar me të.

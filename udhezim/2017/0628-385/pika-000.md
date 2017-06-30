@@ -1,0 +1,1 @@
+I. Qëllimi i udhëzimit
