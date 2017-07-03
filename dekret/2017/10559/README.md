@@ -1,0 +1,9 @@
+# PËR THIRRJEN E KUVENDIT NË SESION TË JASHTËZAKONSHËM PËR BËRJEN E BETIMIT TË PRESIDENTIT TË REPUBLIKËS
+
+Official source: [Dekreti nr. 10559, datë 30.6.2017](https://qbz.gov.al/api/v1/acts/67565).
+
+Status of this text: `as-enacted`. Adopted 2017-06-30; published 2017-07-03; in force 2017-07-03.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
