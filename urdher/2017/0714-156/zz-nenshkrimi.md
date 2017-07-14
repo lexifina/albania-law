@@ -1,0 +1,3 @@
+# Nënshkrimi
+TITULLARI I AUTORITETIT KONTRAKTOR
+Xhulieta Kërtusha

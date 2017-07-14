@@ -1,0 +1,5 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për Ministrinë e Mirëqenies Sociale dhe Rinisë, z. Elird Qëndro, me detyrë Drejtor i Përgjithshëm, Drejtoria e Përgjithshme e Shërbimeve
+Mbështetëse për prokurimet e fondeve publike, në përputhje me dispozitat e ligjit nr. 9643, datë
+20.11.2006, “Për prokurimin publik”, i ndryshuar, vendimi i Këshillit të Ministrave nr. 914, datë
+29.12.2014, “Për miratimin e rregullave të prokurimit publik”, i ndryshuar, si dhe udhëzimeve të
+Agjencisë së Prokurimit Publik të dala në bazë dhe për zbatim të procedurave përkatëse.
