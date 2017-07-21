@@ -1,0 +1,2 @@
+9. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Vlorë të pezullojë të gjitha transaksionet me
+pasuritë e shpronësuara, deri në momentin që do të realizohet procesi i hedhjes së gjurmës së projektit në hartën kadastrale, si dhe kalimi i pronësisë, për pasuritë e shpronësuara.
