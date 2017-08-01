@@ -1,0 +1,2 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Financave, zëvendësministrit të Ministrisë së Financave, z. Erjon Luçi, për trajtimin e praktikës nr. 3568/1 Prot., datë 30.6.2017, të Ministrisë së
+Transportit dhe Infrastrukturës, me objekt rialokimin e fondeve në buxhetin e investimeve të vitit 2017, për programin “Furnizimi me ujë dhe kanalizime”, sipas parashikimeve të legjislacionit buxhetor në fuqi.
