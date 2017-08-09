@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Përmet nr. 172, datë 9.8.2017
+# Vendimi i Këshillit Bashkiak Përmet nr. 172, datë 9.8.2017
 
 Title on the official site: VENDIM Nr 172, date 09.08.2017
 
