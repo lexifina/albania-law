@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Drejtorisë së Përgjithshme të Arkivave, z. Endri Musai, Drejtor i Inspektimit dhe Trajnimit, për shkak të mungesës me arsye të titullarit të këtij institucioni.
