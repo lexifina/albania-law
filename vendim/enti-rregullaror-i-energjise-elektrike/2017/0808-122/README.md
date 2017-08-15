@@ -1,0 +1,9 @@
+# MBI MIRATIMIN E NJË NDRYSHIMI NË VENDIMIN E BORDIT TË ERE-S ME NR. 75, DATË 26.5.2017, “PËR NJË NDRYSHIM NË VENDIMIN E BORDIT TË ERE-S NR. 25, DATË 15.2.2017, “MBI MIRATIMIN E NJË NDRYSHIMI NË VENDIMIN E BORDIT TË ERE-S NR. 169, DATË 31.10.2016, “MBI FILLIMIN E PROCEDURAVE PËR SHQYRTIMIN E DISA NDRYSHIMEVE NË VENDIMIN E ERE-S NR. 103, DATË 23.6.2016, “MBI MIRATIMIN E RREGULLORES PËR PROCEDURAT E BLERJES SË ENERGJISË ELEKTRIKE PËR MBULIMIN E HUMBJEVE NË RRJETET E SHPËRNDARJES DHE TË TRANSMETIMIT DHE PËR BLERJEN DHE SHITJEN E ENERGJISË ELEKTRIKE PËR TË SIGURUAR PËRMBUSHJEN E DETYRIMEVE TË SHËRBIMIT PUBLIK”
+
+Official source: [Vendim nr. 122, datë 8.8.2017 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/67237).
+
+Status of this text: `as-enacted`. Adopted 2017-08-08; published 2017-08-15; in force 2017-08-15.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
