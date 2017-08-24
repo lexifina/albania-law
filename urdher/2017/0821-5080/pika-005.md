@@ -1,0 +1,1 @@
+5. Ngarkohet sektori i arkiv-protokollit dhe redaktimit gjuhësor, për njoftimin e këtij urdhri, nëpunësve të aparatit të Ministrisë së Drejtësisë dhe të të gjithë titullarëve të institucioneve të varësisë.
