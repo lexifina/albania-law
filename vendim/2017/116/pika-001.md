@@ -1,0 +1,1 @@
+1. Prodhuesit dhe shpërndarësit e produkteve të përcaktuara, përpara se të vendosin në treg produktin, duhet të zbatojnë përcaktimet mbi etiketimin të bëra në legjislacionin për ushqimin dhe përcaktimet e bëra në këtë vendim.

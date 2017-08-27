@@ -1,0 +1,1 @@
+3. Etiketat e produkteve të përcaktuara duhet të jenë në gjuhën shqipe dhe të jenë vendosur mbi ambalazhin e produktit nga prodhuesi ose nga subjekti tregtar, importues e shpërndarës, i produktit, para vendosjes në treg të produktit.

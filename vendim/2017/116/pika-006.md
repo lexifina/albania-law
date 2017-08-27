@@ -1,0 +1,1 @@
+6. Etiketa e produkteve, qumësht i skremuar ose i kondensuar në formë pluhuri të lëngët ose qumësht standard i skremuar, përveç përcaktimeve të detyrueshme sipas legjislacionit të ushqimit, nuk duhet të përmbajë asnjë tekst apo paraqitje grafike dhe foto ku të rekomandohet, të sugjerohet apo të deklarohet se ky produkt mund të përdoret për fëmijët nën 1 (një) vjeç).
