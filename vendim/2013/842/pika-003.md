@@ -1,1 +1,0 @@
-3. Ministria e Drejtësisë, për realizimin e fushës së përgjegjësisë sipas pikës 2, ushtron kompetencat e parashikuara në nenin 6, të ligjit nr. 8678, datë 14.5.2001 “Për organizimin dhe funksionimin e Ministrisë së Drejtësisë”, të ndryshuar.

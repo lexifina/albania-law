@@ -1,1 +1,0 @@
-2. Ministria e Drejtësisë e ushtron veprimtarinë e saj në fushën e përgjegjësisë shtetërore, të parashikuar në nenin 5, të ligjit nr. 8678, datë 14.5.2001 “Për organizimin dhe funksionimin e Ministrisë së Drejtësisë”, të ndryshuar.
