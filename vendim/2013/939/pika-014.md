@@ -1,1 +1,0 @@
-14. Bashkërendon punën me strukturën e shërbimit këshillimor për dhënien e informacionit dhe për mundësimin e trajnimeve për fermerët e operatorët e biznesit ushqimor dhe kujdeset për fuqizimin e këtij shërbimi në përputhje me rekomandimet e BE-së.
