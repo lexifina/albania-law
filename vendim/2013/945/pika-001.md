@@ -1,1 +1,0 @@
-1. Sektorin e mjedisit, përfshirë politikat, standardet dhe monitorimin e mbetjeve urbane, cilësinë e ajrit, zhurmat, ndotjen industriale, kimikatet, ndryshimet klimatike dhe monitorimin e treguesve të mjedisit, vlerësimin e ndikimit në mjedis.

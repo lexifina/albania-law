@@ -1,3 +1,0 @@
-I. Miratimin e misionit dhe të fushave të përgjegjësisë shtetërore të Ministrisë së Mjedisit (MM), sipas përcaktimeve të këtij vendimi.
-II. Ministria e Mjedisit harton dhe zbaton politika që synojnë mbrojtjen e mjedisit, përdorimin e qëndrueshëm të burimeve natyrore, nxitjen dhe promovimin e burimeve të rinovueshme, mbrojtjen e natyrës e të biodiversitetit, zhvillimin dhe menaxhimin e qëndrueshëm të pyjeve e kullotave, si dhe mbrojtjen e cilësisë së ujërave dhe përdorimin e qëndrueshëm të burimeve ujore.
-III. Ministria e Mjedisit e ushtron veprimtarinë e saj në këto fusha përgjegjësie shtetërore në përputhje me legjislacionin përkatës:

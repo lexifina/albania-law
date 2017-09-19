@@ -1,1 +1,0 @@
-2. Natyrën dhe biodiversitetin, përfshirë florën dhe faunën, mbrojtjen e tokës nga erozioni e degradimi, mbrojtjen e peizazhit natyror, mbrojtjen e faunës së egër e të specieve të rrezikuara dhe zonat e mbrojtura.
