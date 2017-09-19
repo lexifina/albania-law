@@ -1,0 +1,2 @@
+14. Nëpunësit/punonjësit e administratës publike, të cilët shqyrtojnë kërkesat e personave fizikë dhe juridikë, identifikohen elektronikisht për të përfituar dokumentet e nevojshme dhe kanë akses të kufizuar
+vetëm në bazat e të dhënave, të cilat iu nevojiten për procedurën përkatëse. Për çdo akses për qëllime të këtyre procedurave, krijohen gjurmë (log-e), të cilat ruhen për procedura kontrolli, të paktën deri në një vit.

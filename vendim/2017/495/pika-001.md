@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është lehtësimi i procedurave për ofrimin dhe përfitimin e shërbimeve publike elektronike nëpërmjet shërbimit të transmetimit elektronik të sigurt për qytetarët dhe institucionet publike.

@@ -1,0 +1,1 @@
+15. Në çdo rast, nëpunësit/punonjësit, të cilët do të aksesojnë të dhëna, sipas pikës 14, të këtij vendimi, mund ta realizojnë këtë vetëm pasi të jenë pajisur me autorizim me shkrim nga ana e aplikuesit për këtë qëllim. Përpunimi i të dhënave të përfituara nëpërmjet aksesit të drejtpërdrejtë kryhet në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
