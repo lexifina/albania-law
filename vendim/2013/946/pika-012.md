@@ -1,1 +1,0 @@
-12. Udhëheq dhe bashkërendon punën e ministrive të linjës e të institucioneve të tjera qendrore në përgatitjen e projekteve parësore dhe, në kuadër të programeve të përcaktuara në pikën 10 të kësaj ndarjeje, ia paraqet për mbështetje financiare Bashkimit Evropian.

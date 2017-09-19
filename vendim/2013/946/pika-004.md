@@ -1,1 +1,0 @@
-4. Bashkërendon punën ndërmjet ministrive të linjës dhe institucioneve të tjera qendrore për hartimin e Planit Kombëtar për Zbatimin e MSA-së, me qëllim realizimin e objektivave të përcaktuar në kuadër të procesit të integrimit evropian.

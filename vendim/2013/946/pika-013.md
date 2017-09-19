@@ -1,1 +1,0 @@
-13. Merr pjesë në veprimtarinë e grupeve të punës, të ngritura nga institucione të tjera shtetërore, për hartimin e programeve të ndryshme për integrimin e Republikës së Shqipërisë në Bashkimin Evropian.

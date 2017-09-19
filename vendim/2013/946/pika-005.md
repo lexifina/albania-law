@@ -1,1 +1,0 @@
-5. Bashkërendon, monitoron dhe analizon ecurinë e procesit të përafrimit të legjislacionit vendas me atë të Bashkimit Evropian, duke mbajtur lidhje të rregullta institucionale me ministritë e linjës dhe institucionet e tjera qendrore.

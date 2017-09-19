@@ -1,1 +1,0 @@
-2. Ministria e Punëve të Jashtme e ushtron veprimtarinë e saj në fushën e përgjegjësisë shtetërore, të parashikuar në nenin 2 të ligjit nr. 9095, datë 3.7.2003 “Për shërbimin e jashtëm të Republikës së Shqipërisë”.

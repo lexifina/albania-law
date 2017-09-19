@@ -1,1 +1,0 @@
-8. Bashkërendon punën dhe ndihmon ministritë e linjës e institucionet e tjera qendrore për hartimin e legjislacionit të nevojshëm, me qëllim përmbushjen e detyrimeve, që rrjedhin nga Marrëveshja e Stabilizim-Asociimit.

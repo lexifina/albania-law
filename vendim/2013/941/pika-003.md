@@ -1,1 +1,0 @@
-3. Ministria e Punëve të Jashtme, për realizimin e fushës së përgjegjësisë, ushtron kompetencat e parashikuara në nenin 6 të ligjit nr. 9095, datë 3.7.2003 “Për shërbimin e jashtëm të Republikës së Shqipërisë”.
