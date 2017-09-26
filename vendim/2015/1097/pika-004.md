@@ -1,1 +1,0 @@
-4. Agjencia e Zhvillimit të Territorit (AZHT), brenda 15 (pesëmbëdhjetë) ditëve kalendarike nga dita e zhvillimit të mbledhjes, zbardh vendimet e KKT-së, të cilat ua dërgon për nënshkrim Kryeministrit, në cilësinë e kryetarit të Këshillit, dhe ministrit të Zhvillimit Urban.
