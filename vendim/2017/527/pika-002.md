@@ -1,0 +1,2 @@
+2. Shpronësimi, marrja në përdorim të përkohshëm dhe vendosja e servitutit të përhershëm të kalimit mbi këto pasuri të bëhen në favor të shtetit, përfaqësuar nga ish-Ministria e Energjisë dhe Industrisë,
+aktualisht Ministria e Infrastrukturës dhe Energjisë.
