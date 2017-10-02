@@ -1,0 +1,1 @@
+1. Shpërndarjen dhe detajimin e fondit të investimeve për skemat ujitëse, me vlerë 380 000 000 (treqind e tetëdhjetë milionë) lekë, sipas bashkive, dhënë në tabelën 1, që i bashkëlidhet këtij vendimi.
