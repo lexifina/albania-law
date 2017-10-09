@@ -1,0 +1,26 @@
+{
+  "qbz_id": 14252,
+  "title": "MBI KËRKESËN E SHOQËRISË “ENERGJIA VALAMARA” SHPK PËR LICENCIMIN NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-ET:\n“MESMAL 1”, ME FUQI TË INSTALUAR 0.410 MW; “MESMAL 2”, ME FUQI TË INSTALUAR 1.473 MW; “MESMAL 3”, ME FUQI TË INSTALUAR 0.235 MW; “SELCA 2”,\nME FUQI TË INSTALUAR 2.388 MW DHE ME FUQI TOTALE TË INSTALUAR 4.506\nMW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "150",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2017-09-28",
+  "published": "2017-10-09",
+  "in_force": "2017-10-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/70d1f63a36e78b757d2ed1e6635a5fcfa715c657804b0b924470d79b998f2d93.docx",
+  "source_sha256": "70d1f63a36e78b757d2ed1e6635a5fcfa715c657804b0b924470d79b998f2d93",
+  "official_record": "https://qbz.gov.al/api/v1/acts/14252",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2017/09/28/150",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
