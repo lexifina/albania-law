@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 4 349 310 (katër milionë e treqind e dyzet e nëntë mijë e treqind e dhjetë) lekësh, të përballohet nga të ardhurat e Bashkisë Gjirokastër, planifikuar në buxhetin e saj.

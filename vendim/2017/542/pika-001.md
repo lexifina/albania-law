@@ -1,0 +1,2 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksioni i rrugës “Unaza e jashtme e qytetit””, Bashkia
+Gjirokastër.
