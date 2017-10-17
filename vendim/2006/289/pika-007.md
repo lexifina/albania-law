@@ -1,0 +1,1 @@
+7.Personeli i ALUIZNI-t duhet të plotësojë kërkesat e përgjithshme, të përcaktuara në legjislacionin e shërbimit civil, dhe kërkesat e veçanta, që përcaktohen nga Drejtori i Përgjithshëm i kësaj agjencie. Marrëdhëniet e punës rregullohen me ligjin nr.7971, datë 12.7.1995 “Kodi i Punës i Republikës së Shqipërisë”, të ndryshuar.

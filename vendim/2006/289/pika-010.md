@@ -1,0 +1,1 @@
+10. Zyrat e ALUIZNI-t, në nivel qarku funksionojnë në çdo qark, me vendndodhje në administratën e prefektit. Prefekti jo më vonë se 10 ditë nga hyrja në fuqi e këtij vendimi siguron mjediset e përshtatshme për funksionimin e zyrave dhe merr masa për mbarëvajtjen e veprimtarisë së tyre.

@@ -1,0 +1,2 @@
+4. Organika dhe struktura e ALUIZNI-t, në qendër, në qark dhe në njësitë e veçanta të qeverisjes vendore përcaktohen me urdhër të Kryeministrit, me propozimin e Ministrit të Drejtësisë.
+4/1. Në përputhje me organikën dhe strukturën e miratuar sipas pikës 4 të këtij vendimi, drejtori i Përgjithshëm i ALUIZNI-t përcakton kompetencat territoriale dhe/ose lëndore të drejtorive të qarqeve Durrës, Vlorë, Fier dhe Tiranë.

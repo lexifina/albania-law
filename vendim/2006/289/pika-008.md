@@ -1,0 +1,1 @@
+8. ALUIZNI financohet nga Buxheti i Shtetit, nga të ardhurat, që siguron nga mbledhja e tarifës së shërbimit, në përputhje me ligjin nr.9482, datë 3.4.2006 “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, të ndryshuar, dhe nga donacione të huaja.

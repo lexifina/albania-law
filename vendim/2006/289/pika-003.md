@@ -1,0 +1,1 @@
+3. ALUIZNI përmbush objektivat, kryen detyrat dhe ushtron përgjegjësitë e përcaktuara në ligjin nr. 9482, datë 3.4.2006, “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, të ndryshuar, dhe ligjin nr. 10186, datë 5.11.2009, “Për rregullimin e pronësisë në truallin shtetëror në zonat me përparësi turizmin”, të ndryshuar.

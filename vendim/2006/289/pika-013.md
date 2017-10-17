@@ -1,0 +1,1 @@
+13. Arkiva, mjetet e punës dhe logjistika e Agjencisë së Legalizimit dhe Urbanizimit të Zonave Informale (ALUIZNI), e krijuar sipas vendimeve nr.440, datë 26.6.2003, dhe nr.241, datë 21.4.2005 të Këshillit të Ministrave, të transferohen në administrim të ALUIZNI-t.

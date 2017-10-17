@@ -1,0 +1,1 @@
+2. ALUIZNI ka Drejtorinë e Përgjithshme në Tiranë dhe drejtori varësie në çdo qendër qarku. Përjashtimisht, në qarqet Durrës, Fier dhe Vlorë, ALUIZNI ka përkatësisht dy drejtori, si dhe në Tiranë shtatë drejtori varësie.

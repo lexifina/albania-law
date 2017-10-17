@@ -1,0 +1,1 @@
+6. Drejtori i përgjithshëm i ALUIZNI-t emërohet, lirohet ose shkarkohet me vendim të Këshillit të Ministrave, ndërsa zëvendësdrejtorët emërohen, lirohen dhe shkarkohen nga Kryeministri, me propozimin e Ministrit të Drejtësisë.

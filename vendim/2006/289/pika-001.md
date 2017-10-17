@@ -1,0 +1,1 @@
+1. Agjencia e Legalizimit, Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale në Republikën e Shqipërisë, më poshtë e quajtur ALUIZNI, është institucion qendror, person juridik, publik, në varësi të Ministrit të Drejtësisë.

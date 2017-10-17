@@ -1,0 +1,1 @@
+11. Prefekti, në bashkëpunim me njësitë e qeverisjes vendore, brenda 10 ditëve nga hyrja në fuqi e këtij vendimi, identifikon dhe i propozon Ministrit të Drejtësisë njësitë përkatëse të qeverisjes vendore, ku do të ngrihen zyrat e njësisë vendore të ALUIZNI-it, si dhe përcakton mjediset e përshtatshme të punës për këto zyra.
