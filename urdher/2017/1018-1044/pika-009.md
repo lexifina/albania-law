@@ -1,0 +1,2 @@
+9. Për autorizimet e lëshuara nga sekretari i përgjithshëm, deri në miratimin e këtij urdhri, të cilat janë përdorur ose përdoren për përfaqësim në proceset gjyqësore, efektet e urdhrit nr. 38, datë
+28.1.2014, “Për delegim dhe disa rregulla të përfaqësimit ligjor të Ministrisë së Punëve të Brendshme”, të ndryshuar, do të shtrihen edhe pas miratimit të këtij urdhri, deri në përfundimin e procesit gjyqësor.
