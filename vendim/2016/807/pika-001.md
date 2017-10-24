@@ -1,0 +1,1 @@
+1. Në zbatim të nenit 51, të ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar, pas datës 15 tetor të çdo viti buxhetor, njësitë e qeverisjes së përgjithshme nuk mund të publikojnë njoftimin për prokurimin e mallrave/punëve/shërbimeve, të cilat nuk janë përfshirë në regjistrin e prokurimeve publike, deri në këtë datë.
