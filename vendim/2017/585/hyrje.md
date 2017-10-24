@@ -1,0 +1,7 @@
+VENDIM
+Nr. 585, datë 18.10.2017
+PËR LIRIMIN DHE EMËRIMIN NË DETYRË TË DREJTORIT
+TË PËRGJITHSHËM TË AGJENCISË TELEGRAFIKE SHQIPTARE (ATSH)
+Në mbështetje të neneve 95, pika 2 dhe 100, të Kushtetutës, me propozimin e Kryeministrit, Këshilli i
+Ministrave
+VENDOSI:
