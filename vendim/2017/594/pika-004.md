@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 653 703 (gjashtëqind e pesëdhjetë e tre mijë e shtatë-qind e tre) lekësh, të përballohet nga të ardhurat e Bashkisë së Skraparit, planifikuar në buxhetin e saj.
