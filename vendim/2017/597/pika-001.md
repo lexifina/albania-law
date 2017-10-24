@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Rikonstruksioni i shkollës së mesme të përgjithshme “18 Tetori”, Lushnjë”.
