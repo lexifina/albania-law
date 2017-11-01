@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për të gjitha procedurat e prokurimit publik për Ministrinë e Arsimit, Sportit dhe Rinisë, Sekretarit të Përgjithshëm të kësaj ministrie, z. Koli Bele.
