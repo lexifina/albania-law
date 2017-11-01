@@ -1,0 +1,2 @@
+7. Efektet financiare për zbatimin e këtij vendimi fillojnë pas hyrjes në fuqi të tij. Përjashtimisht, për pozicionet e kontraktuara për një periudhë njëvjeçare apo që janë në vijimësi nga viti i kaluar, efektet financiare fillojnë në datën 1 janar 2017 dhe pagesa e muajit dhjetor kryhet në fund të këtij muaji, me fondet e miratuara për vitin 2017.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
