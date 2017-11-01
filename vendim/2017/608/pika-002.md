@@ -1,0 +1,1 @@
+2. Vlera e qirasë, për periudhën nga hyrja në fuqi e kontratës deri në dhjetor 2017, do të përballohet nga fondi rezervë i buxhetit të shtetit. Fondi në dispozicion të Drejtorisë së Përgjithshme të Doganave është në shumën prej 19 255 000 (nëntëmbëdhjetë milionë e dyqind e pesëdhjetë e pesë mijë) lekësh.
