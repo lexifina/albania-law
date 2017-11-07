@@ -1,0 +1,1 @@
+1. Ngritjen e regjistrit elektronik për evidentimin dhe administrimin e të dhënave të subjekteve që marrin masa shtesë të sigurisë publike, sipas modelit bashkëlidhur këtij udhëzimi, si pjesë përbërëse e tij.
