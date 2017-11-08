@@ -1,1 +1,0 @@
-1. Krijimin e Agjencisë së Menaxhimit të Qendrave për Hapje dhe Dialog (në vijim AMQHD), si një institucion juridik publik, në varësi të Kryeministrit. AMQHD-ja ka selinë në Tiranë dhe ka vulën e stemën e saj.
