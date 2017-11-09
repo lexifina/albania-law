@@ -1,1 +1,0 @@
-1. Zëvendësministrit të Mbrojtjes z. Petro Koçi, i delegohet kompetenca për nënshkrimin e autorizimeve për përfaqësimin e Ministrisë së Mbrojtjes në proceset gjyqësore, të padive të ngritura nga Ministria e Mbrojtjes, të ankimeve në Gjykatën e Apelit dhe rekurseve në Gjykatën e Lartë, ku palë e paditur/paditëse është Ministria e Mbrojtjes.
