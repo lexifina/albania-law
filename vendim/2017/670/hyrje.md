@@ -1,0 +1,5 @@
+VENDIM
+Nr. 670, datë 16.11.2017
+PËR NJË SHTESË FONDI NË BUXHETIN E VITIT 2017 PËR BASHKITË PATOS DHE ROSKOVEC, PËR DËMSHPËRBLIMET E FAMILJEVE, BANESAT E TË CILAVE JANË DËMTUAR NGA LËKUNDJET E TOKËS
+Në mbështetje të nenit 100 të Kushtetutës, të ligjit nr.9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të ndryshuar, të ligjit nr.130/2016, “Për buxhetin e vitit 2017”, të ndryshuar, të shkronjës “dh”, të pikës 2, të nenit 5, të ligjit nr.8756, datë 26.3.2001, “Për emergjencat civile”, të ndryshuar, dhe në vijim të vendimit nr.329, datë 16.5.2012, të Këshillit të Ministrave, “Për kriteret dhe procedurat e dhënies së ndihmës shtetërore financiare për mbulimin e dëmeve të shkaktuara nga fatkeqësi natyrore ose fatkeqësi të tjera të shkaktuara nga veprimtaria njerëzore”, e të vendimit nr.155, datë 1.3.2017, të Këshillit të Ministrave, “Për marrjen e masave për evidentimin dhe vlerësimin e dëmeve të shkaktuara nga lëkundjet e tokës në njësinë administrative Zharrëz, Patos (fshati Dukas), bashkia Patos, dhe Kuman, bashkia Roskovec”, me propozimin e ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:

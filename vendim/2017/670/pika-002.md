@@ -1,0 +1,1 @@
+2. Bashkisë Roskovec, në buxhetin e vitit 2017, t’i shtohet fondi prej 2 297 247 (dy milionë e dyqind e nëntëdhjetë e shtatë mijë e dyqind e dyzet e shtatë) lekësh, për dëmshpërblimin e 1 familjeje, banesa e së cilës është shkatërruar nga lëkundjet e tokës në fshatin Marinëz.

@@ -1,0 +1,1 @@
+1. Bashkisë Patos, në buxhetin e vitit 2017, t’i shtohet fondi prej 172 868 638 (njëqind e shtatëdhjetë e dy milionë e tetëqind e gjashtëdhjetë e tetë mijë e gjashtëqind e tridhjetë e tetë) lekësh, për dëmshpërblimin e 71 (shtatëdhjetë e një) familjeve, banesat e të cilave janë shkatërruar nga lëkundjet e tokës në fshatrat Zharrëz dhe Dukas.
