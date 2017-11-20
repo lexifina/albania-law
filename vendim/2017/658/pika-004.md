@@ -1,0 +1,1 @@
+4. Në vendimin nr. 70, datë 15.2.2001, të Këshillit të Ministrave, “Për statusin e spitaleve universitare”, të ndryshuar, të gjitha dispozitat që i referohen Spitalit Universitar “Shefqet Ndroqi”, Tiranë, shfuqizohen.
