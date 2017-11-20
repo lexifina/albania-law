@@ -1,0 +1,1 @@
+2. Mënyra e funksionimit të Qendrës Spitalore Universitare “Nënë Tereza”, si strukturë shëndetësore universitare, përcaktohet në statutin e saj, i cili miratohet me urdhër të përbashkët të ministrit përgjegjës për arsimin dhe ministrit përgjegjës për shëndetësinë.
