@@ -1,0 +1,1 @@
+2. Mënyra e funksionimit të Spitalit Universitar Obstetrik Gjinekologjik “Koço Gliozheni”, Tiranë, si strukturë shëndetësore universitare, përcaktohet në statutin e tij, i cili miratohet me urdhër të përbashkët të ministrit përgjegjës për arsimin dhe ministrit përgjegjës për shëndetësinë.
