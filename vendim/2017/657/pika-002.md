@@ -1,0 +1,1 @@
+2. Mënyra e funksionimit të Spitalit Universitar të Traumës, si strukturë shëndetësore universitare, përcaktohen në statutin e tij, i cili miratohet me urdhër të përbashkët të ministrit përgjegjës për arsimin dhe ministrit përgjegjës për shëndetësinë.

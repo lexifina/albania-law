@@ -1,0 +1,1 @@
+3. Departamentet përkatëse të Universitetit të Mjekësisë Tiranë, që përbëhen nga shërbime në bazë specialiteti, propozojnë fushat e mësimdhënies dhe kërkimit shkencor për shërbimet shëndetësore universitare, që ofron Spitali Universitar i Traumës, të cilat miratohen me urdhër të ministrit përgjegjës për shëndetësinë dhe ministrit përgjegjës për arsimin.
