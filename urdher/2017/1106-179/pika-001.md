@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Ministrisë së Infrastrukturës dhe Energjisë, z. Enis Aliko, zëvendësministër i Infrastrukturës dhe Energjisë, për nënshkrimin e autorizimeve për personat juridikë, privatë ose publikë, vendës apo të huaj, për përdorimin civil të lëndëve plasëse.
