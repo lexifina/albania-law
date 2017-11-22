@@ -1,0 +1,1 @@
+15. Pas tërheqjes së goglave nga anëtari i Sekretariatit Teknik, kutia transparente zbrazet dhe në të futen goglat me emrat e kandidatëve të dërguar nga institucioni tjetër sipas radhës së caktuar në pikën 11 të këtij urdhri.

@@ -1,0 +1,1 @@
+6. Për zhvillimin e procedurës së hedhjes së shortit njoftohet dhe ftohet të marrë pjesë si vëzhgues: Avokati i Popullit, përfaqësues të grupeve parlamentare, përfaqësitë e huaja diplomatike të akredituara në Republikën e Shqipërisë, organizata partnere ndërkombëtare dhe media.

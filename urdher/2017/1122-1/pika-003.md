@@ -1,0 +1,1 @@
+3. Për organizimin e procedurave të hedhjes së shortit dhe dokumentimin e çdo faze të saj krijohet një Sekretariat Teknik. Numri i anëtarëve dhe përbërja e Sekretariatit Teknik caktohen nga Sekretari i Përgjithshëm i Kuvendit të Shqipërisë.
