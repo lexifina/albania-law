@@ -1,0 +1,1 @@
+9. Ministria për Evropën dhe Punët e Jashtme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Elbasan të realizojnë regjistrimin e kësaj pasurie në favor të subjektit Kisha Katolike Shqiptare.

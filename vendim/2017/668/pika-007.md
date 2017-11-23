@@ -1,0 +1,1 @@
+7. Pronarët e pasurisë, për të cilët është bërë shënimi “Konfirmuar nga ZVRPP-ja”, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Ministrisë për Evropën dhe Punët e Jashtme.
