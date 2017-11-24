@@ -1,1 +1,0 @@
-7. KDZH-ja merr për dokumentet që ndodhen në arkivat e sistemit, vendim për deklasifikimin ose zhvlerësimin e tyre, ndërsa kur vëren se dokumentet i përkasin institucioneve të tjera eprore, ua përcjell atyre për veprim, duke u kërkuar vendimin përkatës.

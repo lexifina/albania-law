@@ -1,1 +1,0 @@
-2. Komisioni i Deklasifikimit e Zhvlerësimit përbëhet nga jo më pak se 5 persona. Kur ekziston prodhuesi i informacionit të klasifikuar, në komision merr pjesë, detyrimisht, edhe një përfaqësues i tij.

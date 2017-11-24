@@ -1,1 +1,0 @@
-1. Në rrjetin kombëtar të arkivave, të ngrihen Komisionet për Deklasifikimin dhe Zhvlerësimin (KDZH) të informacionit të klasifikuar “sekret shtetëror”, i cili përfshihet në çfarëdolloj fondi dokumentar.

@@ -1,1 +1,0 @@
-4. KDZH-ja, për deklasifikimin e informacionit të klasifikuar, zbaton kriteret e përcaktuara në nenin 13, të ligjit nr.8457, datë 11.2.1999, “Për informacionin e klasifikuar “sekret shtetëror””, si dhe listat tip, të dokumenteve “sekret shtetëror”, të institucionit prodhues të origjinës.

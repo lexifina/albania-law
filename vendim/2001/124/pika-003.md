@@ -1,1 +1,0 @@
-3. Titullari i institucionit, që ka në zotërim informacionin e klasifikuar, është kryetari i KDZH-së, ndërsa drejtuesi i arkivit, që administron informacionin e klasifikuar, objekt i deklasifikimit ose zhvlerësimit, është nënkryetar i këtij komisioni. Sekretar komisioni caktohet fondruajtësi i informacionit të klasifikuar.
