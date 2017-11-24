@@ -1,0 +1,2 @@
+KRYETARI
+Gramoz Ruçi
