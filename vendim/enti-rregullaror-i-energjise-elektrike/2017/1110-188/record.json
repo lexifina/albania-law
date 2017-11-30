@@ -1,0 +1,37 @@
+{
+  "qbz_id": 14449,
+  "title": "MBI LICENCIMIN E SHOQËRISË ALBGAZ SHA NË AKTIVITETIN E TRANSMETIMIT TË GAZIT NATYROR",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "188",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2017-11-10",
+  "published": "2017-11-30",
+  "in_force": "2017-11-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/c2e869a5ea3fe611bea230939371d4553256e817989c820a823ba737c05c2b9f.docx",
+  "source_sha256": "c2e869a5ea3fe611bea230939371d4553256e817989c820a823ba737c05c2b9f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/14449",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2017/11/10/188",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27670,
+    26035,
+    54807,
+    24009,
+    23615,
+    21910,
+    21022,
+    58720,
+    60425,
+    65501
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
