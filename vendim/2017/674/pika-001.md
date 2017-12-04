@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2017, i shtohet fondi prej 14 978 760 (katërmbëdhjetë milionë e nëntëqind e shtatëdhjetë e tetë mijë e shtatëqind e gjashtëdhjetë) lekësh për organizimin e eventeve në kuadër të “Vitit mbarëkombëtar të Gjergj Kastriotit - Skënderbeut”, për periudhën nëntor - dhjetor 2017.
