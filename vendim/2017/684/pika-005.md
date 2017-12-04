@@ -1,0 +1,1 @@
+5. Subjekti apo aksionarët e tij nuk mund të marrë/in pjesë drejtpërdrejt ose tërthorazi në një subjekt tjetër që aplikon për pajisjen me licencë në kategorinë “Lojëra elektronike në distancë”. Në rast se një gjë e tillë verifikohet, kjo do të sjellë refuzimin e të gjitha aplikimeve të këtij subjekti ose subjekteve ku ky i fundit apo aksionarët e tij bëjnë pjesë.

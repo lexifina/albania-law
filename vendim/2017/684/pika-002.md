@@ -1,0 +1,1 @@
+2. “Lojëra elektronike në distancë”, për qëllime të këtij vendimi, janë lojërat e fatit online, ku lojtarët marrin pjesë nëpërmjet përdorimit të komunikimit në distancë, internetit, telefonit, por pa u kufizuar vetëm në to. Lojërat luhen në faqet zyrtare të internetit (web) të subjekteve të licencuara për kategorinë “Lojëra elektronike në distancë”.
