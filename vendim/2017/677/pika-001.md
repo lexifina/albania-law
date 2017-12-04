@@ -1,0 +1,1 @@
+1. Miratimin e kontratës, ndërmjet Ministrisë së Mbrojtjes së Republikës së Shqipërisë dhe Lockheed Martin Global, Incorporated, SHBA, për blerjen e sistemit të integruar të vëzhgimit të hapësirës ajrore - Faza I, sipas tekstit që i bashkëlidhet këtij vendimi.
