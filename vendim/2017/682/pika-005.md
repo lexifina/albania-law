@@ -1,0 +1,1 @@
+5. Bashkia Maliq, të marrë masa për të bërë një planifikim paraprak të zhvillimit të zonës ku përfshihet trualli, në të cilën do të ndërtohen shtëpitë zëvendësuese, si dhe infrastrukturën përkatëse, sipas përcaktimeve të këtij vendimi.

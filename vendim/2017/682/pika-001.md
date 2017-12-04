@@ -1,0 +1,1 @@
+1. Kalimin e pasurisë me nr. 3/353, në zonën kadastrale 2573, me një sipërfaqe 29 400 (njëzet e nëntë mijë e katërqind) m2, tokë truall, dhe pasurisë me nr. 3/352, në zonën kadastrale 2573, sipërfaqe ndërtimore, prej 22 940 (njëzet e dy mijë e nëntëqind e dyzet) m2, në pronësi të Bashkisë Maliq.

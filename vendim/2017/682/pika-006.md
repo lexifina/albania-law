@@ -1,0 +1,1 @@
+6. Përfituesit, sipas listës së familjeve, të cilët përfitojnë shtëpi të ndërtuara sipas programit social që do të zbatohet nga shoqëria “Devoll Hydropower” sh.a., dhe sipërfaqet takuese përcaktohen në lidhjen nr. 2, bashkëlidhur këtij vendimi.
