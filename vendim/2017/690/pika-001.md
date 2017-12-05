@@ -1,0 +1,1 @@
+1. Ngritjen e Komitetit Shtetëror për Diasporën, këtu e në vijim Komiteti, si organ konsultativ i Këshillit të Ministrave për bashkërendimin e politikave e të veprimtarive shtetërore në fushën e diasporës.

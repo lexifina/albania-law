@@ -1,0 +1,1 @@
+5. Në mbledhjet e Komitetit mund të ftohen të marrin pjesë dhe përfaqësues të grupeve parlamentare, të organeve të qeverisjes qendrore e vendore apo të institucioneve të tjera, pjesëmarrja e të cilëve çmohet e vlefshme për përmbushjen e misionit.
