@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes me ndarje prodhimi, për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në tokë, në Shqipëri, blloku i Velçës, ndërmjet Albpetrol sh.a. dhe “Pennine Petroleum Corporation”, sipas tekstit që i bashkëlidhet këtij vendimi.
