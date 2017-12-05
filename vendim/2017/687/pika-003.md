@@ -1,0 +1,2 @@
+3. Metodologjia për llogaritjen e çmimit të blerjes së energjisë elektrike është si më poshtë:
+Çmimi vjetor i blerjes (lekë/kwh) = Çmimi mesatar vjetor i tregut të ditës në avancë (HUPX DAM), i energjisë elektrike në profilin bandë (baseload) i vitit përkatës të bursës hungareze (HUPX) të energjisë elektrike në euro cent/kwh x bonusin për promovimin e burimeve të rinovueshme në masën 1.30 x normën mesatare të këmbimit në euro/lekë për vitin e fundit.
