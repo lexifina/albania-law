@@ -1,0 +1,1 @@
+1. Miratimin e dëmshpërblimit financiar për ish-të dënuarit politikë, sipas listës “A. Dënim me burg, izolim në hetuesi, izolim në institucion mjekësor”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

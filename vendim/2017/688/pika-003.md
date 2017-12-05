@@ -1,0 +1,1 @@
+3. Shuma e llogaritur të transferohet në një llogari speciale në Bankën e Shqipërisë. Pagesa e dëmshpërblimit për secilin përfitues bëhet nga Ministria e Financave dhe Ekonomisë, në llogaritë personale të tyre, të hapura në bankat e nivelit të dytë, sipas përcaktimeve të ligjit nr. 9831, datë 12.11.2017, të ndryshuar.
