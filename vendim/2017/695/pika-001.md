@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Mbrojtja lumore e qytetit nga përmbytja, erozioni i lumit Osum dhe rehabilitimi urban i kësaj zone”, Ura Vajgurore.
