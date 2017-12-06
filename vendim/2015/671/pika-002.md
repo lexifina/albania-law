@@ -1,2 +1,0 @@
-2. Ngarkohen autoritetet e planifikimit, të përcaktuara në ligjin nr. 107/2014, datë 31.7.2014, “Për planifikimin dhe zhvillimin e territorit”, për zbatimin e këtij vendimi.
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
