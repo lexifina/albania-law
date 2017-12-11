@@ -1,0 +1,1 @@
+2. Ky fond i akordohet në formën e transfertës Autoritetit të Mediave Audiovizive (AMA) dhe do të përdoret për financimin e organizimit të fushatës për informimin e publikut për kalimin e transmetimeve analoge në transmetime digjitale.
