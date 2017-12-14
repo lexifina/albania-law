@@ -1,0 +1,5 @@
+3. Kompensimi financiar i pronarëve të pasurive të paluajtshme, që preken nga ndërtimet pa leje, të bëhet sipas shtojcës bashkëlidhur këtij vendimi:
+a) Masa e kompensimit është 6 467,47 (gjashtëmijë e katërqind e gjashtëdhjetë e shtatë presje dyzet e shtatë) m² dhe vlera totale e kompensimit financiar është 47 754 714,98 (dyzet e shtatë milionë e shtatëqind e pesëdhjetë e katër mijë e shtatëqind e katërmbëdhjetë presje nëntëdhjetë e tetë) lekë.
+b) Vlera e miratuar e kompensimit financiar për:
+i) pasurinë nr. 213/30, në zonën kadastrale 3976, pas miratimit nga kreditori, vihet në dispozicion nga Agjencia e Trajtimit të Pronës, sipas pikës 12, të vendimit nr. 465, datë 22.6.2016, të Këshillit të Ministrave, “Për përcaktimin e procedurave dhe rregullave për kalimin e së drejtës së pronësisë mbi parcelën ndërtimore të objekteve informale”.
+Numrat e pasurive të cituara në shkronjën “b”, të pikës 3, të vendimit, u referohen kartelave përkatëse të pasurive të pasqyruara në seksionin e veçantë (kolona 17) të shtojcës.

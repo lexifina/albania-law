@@ -1,0 +1,1 @@
+1. Kalimin e së drejtës së pronësisë në favor të subjekteve përfituese për 983 (nëntëqind e tetëdhjetë e tre) parcela ndërtimore të objekteve të legalizuara dhe kompensimin financiar të pronarëve të pasurive të paluajtshme, që preken prej tyre, sipas shtojcës bashkëlidhur këtij vendimi.
