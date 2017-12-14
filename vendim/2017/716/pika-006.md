@@ -1,0 +1,1 @@
+6. Inspektori, gjatë ushtrimit të veprimtarisë së tij inspektuese, identifikohet me kartën e inspektorit të lëshuar nga Inspektorati Qendror dhe kryen inspektime me listëverifikime dhe dokumentacion online.

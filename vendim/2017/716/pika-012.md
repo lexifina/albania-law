@@ -1,0 +1,1 @@
+12. Për të gjitha aspektet e inspektimit, të cilat nuk janë rregulluar shprehimisht në këtë vendim, të zbatohen parimet, rregullat dhe procedurat e përcaktuara në ligjin nr. 10433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”.

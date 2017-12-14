@@ -1,0 +1,1 @@
+10. Inspektimi jashtë programit kryhet kur ndërmarrja sociale nuk ka paraqitur raporte periodike brenda afatit të caktuar, nuk ka paraqitur informacion të plotë, kur ka dyshime për vërtetësinë e informacionit ose të një denoncimi të marrë nga të tretët.

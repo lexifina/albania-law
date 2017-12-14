@@ -1,0 +1,1 @@
+1. Ministria përgjegjëse për mbrojtjen sociale, nëpërmjet inspektoratit përgjegjës për çështjet sociale, ushtron kontrolle, me qëllim që të sigurojë respektimin e legjislacionit për ndërmarrjet sociale nga subjektet zbatuese.

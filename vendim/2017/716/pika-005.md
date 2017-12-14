@@ -1,0 +1,1 @@
+5. Inspektorati përgjegjës për çështjet sociale, në përputhje me ligjin për shërbimet e kujdesit shoqëror, mbikëqyr dhe kontrollon në formë elektronike nëpërmjet portalit “e-Inspektimi”, përmbushjen e kritereve sociale dhe ekonomike, në përputhje me përcaktimet e ligjit për ndërmarrjet sociale.

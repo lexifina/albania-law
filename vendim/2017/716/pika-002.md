@@ -1,0 +1,1 @@
+2. Inspektorati përgjegjës për çështjet sociale, në varësi të fushës së veprimtarisë së ndërmarrjeve sociale, siguron bashkëpunim dhe koordinon punën e tij me Inspektoratin Qendror, ministritë dhe institucionet në varësi të tyre dhe inspektoratet e tjera shtetërore, në përputhje me ligjin për inspektimin në Republikën e Shqipërisë.

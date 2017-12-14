@@ -1,0 +1,1 @@
+7. Për shkelje të dispozitave të legjislacionit të ndërmarrjeve sociale, inspektorati përgjegjës për çështjet sociale vendos gjobë në masën e përcaktuar në nenin 23 të ligjit nr. 65/2016. Në rast të parregullsive të rëndësishme ose të përsëritura, inspektorati njofton me shkrim dhe pa vonesë Inspektoratin Qendror, i cili ia përcjell menjëherë autoritetit përgjegjës.

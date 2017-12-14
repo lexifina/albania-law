@@ -1,0 +1,1 @@
+9. Përfaqësuesit e ndërmarrjeve sociale kanë të drejtë të informohen për kryerjen e inspektimit nëpërmjet njoftimit paraprak të autorizimit të subjektit të inspektimit, jo më vonë se 3 (tri) ditë përpara fillimit të veprimtarive të inspektimit, përveç rasteve të inspektimit jashtë programit dhe inspektimit rastësor.
