@@ -1,0 +1,1 @@
+3. Kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë sipërfaqe tokë truall, me një vlerë të përgjithshme prej 9 561 931 (nëntë milionë e pesëqind e gjashtëdhjetë e një mijë e nëntëqind e tridhjetë e një) lekësh.
