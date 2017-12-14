@@ -1,0 +1,1 @@
+7. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Tiranë të pezullojë të gjitha transaksionet mbi këtë pasuri, deri në përfundim të procesit të kalimit të pronësisë së pasurive të shpronësuara në favor të OSHEE sh.a.

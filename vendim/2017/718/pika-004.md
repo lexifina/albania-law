@@ -1,0 +1,1 @@
+4. Fondi prej 28 466 674 (njëzet e tetë milionë e katërqind e gjashtëdhjetë e gjashtë mijë e gjashtëqind e shtatëdhjetë e katër) lekësh, si dhe vlera e shpenzimeve procedurale të shpronësimit të përballohen nga OSHEE sh.a., si subjekti që garanton shpenzimet për realizimin e këtij procesi.

@@ -1,0 +1,2 @@
+6. Çdo pronar, për t’u likuiduar për efekt shpronësimi, të dorëzojë pranë OSHEE sh.a., Tiranë, dokumentacionin e plotë të pronësisë, vërtetimin bankar lidhur me numrin e llogarisë dhe IBAN-in, si dhe kopjen e kartës së identitetit, të shoqëruar me një kërkesë.
+Për pasuritë, për të cilat ZVRPP-ja konfirmon se mbi këtë pasuri është vendosur “Kufizim”, pronarët të likuidohen pas heqjes së kufizimit dhe dorëzimit të dokumentacionit të plotë të pronësisë, që do të lëshohet nga Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Tiranë.
