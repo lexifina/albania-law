@@ -1,0 +1,1 @@
+7. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Gjirokastër të marrin masat për pezullimin e të gjitha transaksioneve mbi këtë pasuri, deri në përfundim të procesit të kalimit të pronësisë së pasurisë së shpronësuara në favor të OST sh.a.
