@@ -1,0 +1,1 @@
+3. Vendimi nr. 445, datë 16.6.2005, i Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Punës dhe Çështjeve Sociale”, shfuqizohet.
