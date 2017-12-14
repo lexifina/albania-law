@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet në lekë, në vlerë të plotë, sipas masës përkatëse të kompensimit, të vlerësuar në shumën prej 1 291 500 (një milion e dyqind e nëntëdhjetë e një mijë e pesëqind) lekësh.

@@ -1,0 +1,1 @@
+4. Pronari, për t’u likuiduar për efekt shpronësimi, duhet të dorëzojë pranë OSHEE sh.a., Tiranë, dokumentacionin e plotë të pronësisë, vërtetimin bankar lidhur me numrin e llogarisë dhe IBAN-in, si dhe kopjen e kartës së identitetit, të shoqëruar me një kërkesë.

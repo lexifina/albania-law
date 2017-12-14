@@ -1,0 +1,1 @@
+5. Fondi për kompensim, prej 1 291 500 (një milion e dyqind e nëntëdhjetë e një mijë e pesëqind) lekësh, si dhe të gjitha shpenzimet procedurale të përballohen nga fondet e Operatorit të Shpërndarjes së Energjisë Elektrike sh.a., si subjekti që garanton shpenzimet për realizimin këtij procesi.
