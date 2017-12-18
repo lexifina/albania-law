@@ -1,0 +1,29 @@
+{
+  "qbz_id": 14467,
+  "title": "MBI MIRATIMIN E RREGULLORES PËR PËRCAKTIMIN E PAGESAVE TË RREGULLIMIT PËR TЁ LICENCUARIT NË SEKTORIN E ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "190",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2017-11-23",
+  "published": "2017-12-18",
+  "in_force": "2017-12-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/41bdf8974e344c7d8d250c521cf68e1b291166e2c83d1a6cb2b1b8b8a4365dfa.docx",
+  "source_sha256": "41bdf8974e344c7d8d250c521cf68e1b291166e2c83d1a6cb2b1b8b8a4365dfa",
+  "official_record": "https://qbz.gov.al/api/v1/acts/14467",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2017/11/23/190",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66539,
+    20630
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
