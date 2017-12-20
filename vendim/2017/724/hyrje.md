@@ -1,0 +1,7 @@
+VENDIM
+Nr. 724, datë 8.12.2017
+PËR MIRATIMIN E MEMORANDUMIT TË MIRËKUPTIMIT, NDËRMJET QEVERISË SË REPUBLIKËS SË KROACISË DHE SHTABIT TË KOMANDËS SUPREME ALEATE PËR TRANSFORMIMIN, SI DHE SHTABIT SUPREM TË FUQIVE ALEATE NË EVROPË, NË LIDHJE ME DHËNIEN
+E MBËSHTETJES SË SHTETIT PRITËS PËR KRYERJEN E AKTIVITETEVE USHTARAKE TË NATO-S DHE NOTËS SË PRANIMIT PËR T’U BËRË PJESË
+E TIJ
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:
