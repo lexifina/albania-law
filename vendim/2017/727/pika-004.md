@@ -1,0 +1,1 @@
+4. Vënien në dispozicion të pasurisë së paluajtshme shtetërore, sipas përcaktimit të pikave 1, 2 dhe 3, të këtij vendimi, për zhvillimin dhe realizimin e projektit investues strategjik “Albpanel”, me subjekt investues “Albpanel NGR, NUIS/NIPT: L61605017K”, për 35 (tridhjetë e pesë) vite, me tarifën 1 euro. Afati i përdorimit fillon nga data e hyrjes në fuqi të këtij vendimi.
