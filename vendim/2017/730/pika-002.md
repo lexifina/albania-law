@@ -1,0 +1,1 @@
+2. Vlera e bursës do të jetë 99 360 (nëntëdhjetë e nëntë mijë e treqind e gjashtëdhjetë) lekë për nxënës në vit, me qëllim shlyerjen e tarifës mujore të shkollimit dhe për mbulimin e kostos së teksteve mësimore. Vlera e masës së bursës do të paguhet pranë bankave të nivelit të dytë për çdo nxënës ose prind të nxënësve përfitues.
