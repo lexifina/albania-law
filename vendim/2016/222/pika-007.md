@@ -1,0 +1,1 @@
+7. Çdo subjekt i shpronësuar ka të drejtë të pajiset nga zyra e protokollit të ATP-së me vërtetimin përkatës për numrin e protokollit të dosjes së regjistruar, që tregon edhe datën e dorëzimit të kërkesës e të dokumenteve të tij.

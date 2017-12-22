@@ -1,0 +1,1 @@
+11. Dokumentacioni hartografik për pozicionin gjeografik të pronës, që i takon periudhës kohore sa më të përafërt me dokumentin ligjor, i cili përmban të dhëna pronësie, çdo të dhënë topografike e hartografike, do të administrohet dhe do të përpunohet (pozicionimi) nga inxhinieri gjeodet pranë ATP-së, pjesë e grupit të punës për shqyrtimin administrativ të kërkesës.

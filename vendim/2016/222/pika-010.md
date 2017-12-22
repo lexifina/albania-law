@@ -1,0 +1,1 @@
+10. Në rastet kur dokumentacioni ligjor i administruar nga subjekti kërkues paraqet mangësi ose kur është i nevojshëm plotësimi i tij, ATP-ja kryen verifikimin dhe konfirmimin e dokumentacionit në institucionet përkatëse që e kanë lëshuar atë.

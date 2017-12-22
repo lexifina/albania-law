@@ -1,0 +1,2 @@
+17. Mënyra e trajtimit, shqyrtimit dhe e dhënies së vendimit për kërkesat e subjekteve të shpronësuara bëhet në përputhje me ligjin nr. 133/2015, “Për trajtimin e pronës dhe përfundimin e procesit të kompensimit të pronave”.
+17/1. Për kërkesat e paraqitura para hyrjes në fuqi të ligjit, për të cilat ka një vendim njohjeje të së drejtës, këto vendime kalojnë për kompensim me kërkesat e tjera sipas rendit kronologjik.

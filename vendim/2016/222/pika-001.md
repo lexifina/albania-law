@@ -1,0 +1,1 @@
+1. Subjekti i shpronësuar, trashëgimtarët e tij ligjorë ose përfaqësuesi i tyre me prokurë, depoziton në Agjencinë e Trajtimit të Pronës (në vijim ATP), drejtpërdrejt ose nëpërmjet postës, kërkesën e motivuar për njohjen dhe kompensimin e pronës, shoqëruar me dokumentacionin e nevojshëm, sipas këtij vendimi, me të cilin provon pretendimet e tij.

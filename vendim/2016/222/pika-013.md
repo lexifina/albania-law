@@ -1,0 +1,1 @@
+13. Verifikimi në terren për pozicionimin dhe gjendjen faktike të pronës, si dhe përgatitja e aktverifikimit përkatës duhet të kryhet në prezencë të kërkuesit. Akti i verifikimit është sipas formularit tip të miratuar me urdhrin e drejtorit të përgjithshëm të ATP-së.

@@ -1,0 +1,4 @@
+16. Për kërkesat për njohje të drejte të paraqitur për trajtim para hyrjes në fuqi të ligjit nr. 133/2015, dhe për të cilat nuk ka një vendim, ATP-ja fillon menjëherë shqyrtimin e tyre, si më poshtë vijon:
+a) Brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij ligji, krijon regjistrin e kërkesave pa vendim, bazuar në rendin kronologjik të aplikimit të tyre pranë strukturave përgjegjëse në kohën e dorëzimit të tyre, bazuar në nivel qarku.
+b) Brenda 90 (nëntëdhjetë) ditëve nga hyrja në fuqi e këtij ligji, nis procesin e njoftimit të subjekteve të shpronësuara për dokumentacionin që duhet plotësuar, në përputhje me kërkesat e përcaktuara me vendim të drejtorit të përgjithshëm të ATP-së, sipas prioritetit të përcaktuar në pikën 3, të nenit 15, të ligjit nr. 133/2015.
+c) Procedurat e mbledhjes, përpunimit dhe administrimit të akteve nga subjektet e shpronësuara gjatë trajtimit të kërkesave u nënshtrohen dispozitave të Kodit të Procedurave Administrative.
