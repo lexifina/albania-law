@@ -1,0 +1,1 @@
+4. Listat përkatëse me emrat e punonjësve të strukturave të Forcave të Armatosura e të Policisë së Shtetit dhe masën e shpërblimit të miratohen përkatësisht nga ministri i Mbrojtjes e ministri i Brendshëm.
