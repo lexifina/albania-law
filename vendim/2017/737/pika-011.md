@@ -1,0 +1,1 @@
+11. Të gjitha donacionet ose të ardhurat e tjera të ligjshme që i vijnë qendrës, përdoren sipas rregullave dhe procedurave të përcaktuara në legjislacionin në fuqi për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë.

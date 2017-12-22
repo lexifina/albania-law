@@ -1,0 +1,1 @@
+3. Misioni i qendrës është zhvillimi i kapaciteteve të aktorëve të ndryshëm të përfshirë në veprimet kundër ekstremizmit të dhunshëm, ruajtja dhe promovimi i vlerave të tolerancës dhe të harmonisë fetare, mbrojtja e të drejtave të njeriut, shtetit të së drejtës dhe demokracisë, si dhe mbrojtja e shoqërisë shqiptare nga ekstremizmi i dhunshëm.

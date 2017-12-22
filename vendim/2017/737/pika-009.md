@@ -1,0 +1,1 @@
+9. Marrëdhëniet e punës për punonjësit e QKEDH-së funksionojnë mbi bazën e kontratave të punës me kohë të plotë dhe të pjesshme, në përputhje me rregullat e parashikuara në dispozitat përkatëse të Kodit të Punës të Republikës së Shqipërisë. Mënyra e testimit, e rekrutimit të punonjësve, si dhe rregullat e disiplinës përcaktohen në rregulloren e brendshme.
