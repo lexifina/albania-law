@@ -1,0 +1,1 @@
+6. Ministritë dhe institucionet e tjera shtetërore, të përfaqësuara me ekspertë në Komitetin e Përbashkët në terren të përballojnë shpenzimet për realizimin e detyrave nga këta ekspertë, sipas legjislacionit në fuqi.

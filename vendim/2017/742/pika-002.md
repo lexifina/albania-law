@@ -1,0 +1,1 @@
+2. Ministria e Mbrojtjes, në bashkërendim me Ministrinë e Brendshme, të ndërmarrë të gjitha procedurat ligjore për marrjen në administrim të trojeve për ndërtimin e vendprehjeve, sipas ligjit nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”.

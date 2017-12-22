@@ -1,0 +1,1 @@
+7. Ministria e Mbrojtjes, në zbatim të pikës 8, të nenit 1, të marrëveshjes, të organizojë, në bashkëpunim me palën greke, ceremonitë zyrtare në përkujtim të të rënëve në luftë, çdo vit, në datën 28 tetor.

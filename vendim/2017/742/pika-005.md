@@ -1,0 +1,1 @@
+5. Me urdhër të Kryeministrit, në zbatim të neneve 2, pika 5, dhe 4, shkronja “a”, të marrëveshjes, të përcaktohen ekspertët e palës shqiptare në Komitetin e Përbashkët të Ekspertëve Shqiptarë dhe Grekë për kërkimin, zhvarrimin, identifikimin dhe varrimin e eshtrave, si dhe ekspertët në terren të palës shqiptare.

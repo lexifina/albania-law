@@ -1,0 +1,1 @@
+3. Ministria e Brendshme, në bashkëpunim me bashkitë të cilat do të jenë pjesë e procesit të kërkimit, identifikimit, zhvarrimit dhe varrimit të eshtrave, të sigurojë të gjitha lejet për procesin, të përgatitë të gjithë dokumentacionin shoqërues, si dhe të marrë të gjitha masat për të bërë të mundur fillimin dhe vazhdimin e procesit në zbatim të marrëveshjes.

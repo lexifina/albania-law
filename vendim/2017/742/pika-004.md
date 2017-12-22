@@ -1,0 +1,1 @@
+4. Prefekti i qarkut ku do të zhvillohen punimet e kërkimit, identifikimit, zhvarrimit dhe varrimit të eshtrave, në bashkëpunim me bashkitë përkatëse, të ofrojë të gjithë infrastrukturën e nevojshme për zbatimin e procesit të kërkimit, identifikimit, zhvarrim-varrimit në territoret e tyre.
