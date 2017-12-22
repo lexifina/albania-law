@@ -1,0 +1,5 @@
+3. Vula zyrtare e Agjencisë ka formën dhe elementet e përcaktuara në pikën 2, të vendimit nr. 390, datë 6.8.1993, të Këshillit të Ministrave, “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare”, të ndryshuar. Vula e Agjencisë prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+II. ORGANIZIMI DHE FUNKSIONIMI I AGJENCISË
+1. Agjencia drejtohet nga drejtori i Përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e saj dhe përgjigjet para Kryeministrit.
+2. Drejtori i Përgjithshëm i Agjencisë së Zhvillimit të Territorit emërohet, lirohet dhe shkarkohet nga detyra me urdhër të Kryeministrit, në përputhje me aktet ligjore në fuqi. Zëvendësdrejtori i Përgjithshëm, i cili është, njëkohësisht, drejtor i një drejtorie, emërohet, lirohet dhe shkarkohet nga Drejtori i Përgjithshëm.
+3. Funksionimi i brendshëm i Agjencisë bëhet sipas rregullores përkatëse, të miratuar me urdhër të Kryeministrit, me propozimin e drejtorit të Përgjithshëm të saj.
