@@ -1,0 +1,1 @@
+3. Grupi i punës ia paraqet propozimin Ministrit të Kulturës, i cili përmes urdhrit përkatës jep miratimin përfundimtar për pjesëmarrjen ose jo të Ministrisë përgjegjëse për Kulturën/institucioneve të varësisë në projektet e parashtruara.

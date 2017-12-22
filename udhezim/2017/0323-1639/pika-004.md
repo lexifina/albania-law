@@ -1,0 +1,1 @@
+4. Me hyrjen fuqi të urdhrit të ministrit, Drejtoria e Integrimit njofton drejtoritë/ institucionet përkatëse për vendimin dhe këto të fundit, procedojnë me plotësimin e dokumentacionit të nevojshëm për të finalizuar aplikimin në thirrjen përkatëse.

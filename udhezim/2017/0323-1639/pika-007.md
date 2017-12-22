@@ -1,0 +1,1 @@
+7. Drejtoritë dhe institucionet e varësisë së Ministrisë përgjegjëse për Kulturën kanë detyrimin e përditësimit të informacionit mbi projektet për të cilat janë autorizuar të marrin pjesë, si dhe të informojnë drejtorinë përgjegjëse të integrimit dhe të projekteve me fonde të huaja në çdo fazë të angazhimit, duke bërë të mundur përditësimin e regjistrit.
