@@ -1,0 +1,1 @@
+12. Njësitë bazë të vetëqeverisjes vendore realizojnë pagesën e bursës për nxënësit përfitues, vetëm pasi drejtorët e shkollave profesionale konfirmojnë, zyrtarisht, brenda datës 5 të çdo muaji, pranë njësive të qeverisjes vendore, informacionin për ndjekjen/frekuentimin e shkollës për nxënësit që përfitojnë bursë.

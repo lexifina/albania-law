@@ -1,0 +1,1 @@
+10. Fondet buxhetore për mbulimin e shpenzimeve për bursat, si dhe numri i bursave për nxënësit administrohen nga njësitë e vetëqeverisjes vendore, sipas vendndodhjes territoriale dhe administrative të konvikteve ku janë vendosur nxënësit konviktorë. Masa mujore e bursës u jepet nxënësve në formën e kuotës ushqimore në konvikt.

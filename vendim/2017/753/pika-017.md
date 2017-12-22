@@ -1,0 +1,1 @@
+17. Efektet financiare, të vitit akademik 2017-2018, të përballohen nga fondet e buxhetit të shtetit, miratuar për Ministrinë e Arsimit, Sportit dhe Rinisë dhe Ministrinë e Financave dhe Ekonomisë, për vitin 2017 dhe 2018.

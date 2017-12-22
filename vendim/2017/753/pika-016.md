@@ -1,0 +1,1 @@
+16. Ministria e Arsimit, Sportit dhe Rinisë, për të gjitha kategoritë e nxënësve që ndjekin arsimin parauniversitar, të parashikuara në pikën 2, të këtij vendimi, pa përfshirë nxënësit që ndjekin shkollat profesionale, për vitin e ri shkollor 2017-2018, të japë 800 (tetëqind) bursa.

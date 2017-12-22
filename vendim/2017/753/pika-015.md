@@ -1,0 +1,1 @@
+15. Ministria e Financave dhe Ekonomisë, për hyrjet e reja në vitin e parë, në sistemin arsimor publik që ndjekin shkollat profesionale, për të gjitha kategoritë e parashikuara në pikën 2, të këtij vendimi, për vitin e ri shkollor 2017-2018, të japë 2 100 (dy mijë e njëqind) bursa.
