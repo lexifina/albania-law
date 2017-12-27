@@ -1,0 +1,1 @@
+7. Çdo përdorues të likuidohet, për efekt kompensimi të kulturave, sipas shumave respektive, të pasqyruara në tabelat bashkëlidhur këtij vendimi, në bazë të kopjes së dokumentit të identifikimit, vërtetimit bankar, lidhur me numrin e llogarisë dhe IBAN-in, si dhe certifikatës familjare, që do të dorëzojë pranë shoqërisë TAP AG.

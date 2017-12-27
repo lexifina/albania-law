@@ -1,0 +1,1 @@
+1. Shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit të kalimit, për interes publik, mbi disa pasuri të paluajtshme, pronë private, që preken nga ndërtimi i korridorit të sistemit të gazsjellësit dhe rrugëve hyrëse te valvulat e bllokimit në zonat Korçë, Devoll, Berat, Skrapar e Fier, pjesë të projektit të gazsjellësit Trans Adriatik (projekti TAP).
