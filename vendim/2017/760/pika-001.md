@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Tiranë, të njësisë administrative Tiranë, të pronave me numër rendor 1-26, me vendndodhje në zonat kadastrale 8250, 8240, 8190, 8150, sipas formularëve dhe lidhjes 1 bashkëlidhur këtij vendimi, për t’u përdorur në fushën e zhvillimit urban dhe planifikimit të territorit.
