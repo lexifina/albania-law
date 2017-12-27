@@ -1,0 +1,1 @@
+3. Pronarët, që shpronësohen për interes publik, kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë e paluajtshme, pronë private, me një vlerë të përgjithshme prej 89 527 462 (tetëdhjetë e nëntë milion e pesëqind e njëzet e shtatë mijë e katërqind e gjashtëdhjetë e dy) lekësh.
