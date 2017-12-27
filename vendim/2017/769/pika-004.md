@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “truall” dhe “objekt”, me vlerë 445 657 671 (katërqind e dyzet e pesë milionë e gjashtëqind e pesëdhjetë e shtatë mijë e gjashtëqind e shtatëdhjetë e një) lekë, të përballohet nga llogaria e veçantë për shpronësimet, në Ministrinë e Financave dhe Ekonomisë.
