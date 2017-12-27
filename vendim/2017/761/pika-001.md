@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga “tokë arë” në “tokë truall”, të sipërfaqes 24 156 (njëzet e katër mijë e njëqind e pesëdhjetë e gjashtë) m², sipas listës bashkëlidhur këtij vendimi, për ndërtimin e objektit “Magazina industriale 2-3 kate”, në fshatin Sallmone, Njësia Administrative Xhafzotaj, Bashkia Shijak, nga shoqëria “Haki Sinani” sh.p.k.

@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, Drejtoria e Administrimit dhe Mbrojtjes së Tokës, në Qarkun Durrës, të pasqyrojë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit, nga “tokë arë” në “tokë truall”, për sipërfaqen 24 156 (njëzet e katër mijë e njëqind e pesëdhjetë e gjashtë) m², sipas pikës 1, të këtij vendimi.
