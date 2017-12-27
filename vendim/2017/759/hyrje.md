@@ -1,0 +1,5 @@
+VENDIM
+Nr. 759, datë 20.12.2017
+PËR DHËNIEN E STATUSIT “VARREZË HISTORIKE” VENDPREHJES SË USHTARËVE TË RËNË GJATË LUFTËS ITALO-GREKE TË VITEVE 1940-1941, ME VENDNDODHJE NË FSHATIN BULARAT, BASHKIA DROPULL
+Në mbështetje të nenit 100 të Kushtetutës, të marrëveshjes së bashkëpunimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Republikës së Greqisë, për kërkimin, zhvarrimin, identifikimin dhe varrimin e ushtarakëve grekë, të rënë në Shqipëri gjatë luftës greko-italiane të viteve 1940-1941, dhe për ndërtimin e vendprehjes për ta, brenda territorit të Republikës së Shqipërisë, ratifikuar me ligjin nr. 10256, datë 25.3.2010, të ligjit nr. 139/2015, “Për vetëqeverisjen vendore”, ligjit nr. 115/2014, “Për ndarjen administrativo-territoriale të njësive të qeverisjes vendore në Republikën e Shqipërisë”, të ndryshuar, dhe të nenit 3/ç, të ligjit nr. 9220, datë 15.4.2004, “Për administrimin e shërbimit të varrimit”, të ndryshuar, me propozimin e ministrit të Infrastrukturës dhe Energjisë, ministrit të Brendshëm, ministrit të Mbrojtjes dhe ministrit për Evropën dhe Punët e Jashtme, Këshilli i Ministrave
+VENDOSI:
