@@ -1,0 +1,1 @@
+10. Moszbatimi apo mosrespektimi i këtyre detyrimeve, si dhe mosdhënia apo fshehja e informacioneve nga organet kompetente mbikëqyrëse e inspektuese përbëjnë kundërvajtje administrative dhe sanksionohen sipas akteve ligjore dhe nënligjore në fuqi.

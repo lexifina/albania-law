@@ -1,0 +1,1 @@
+3. Në institucionin arsimor privat parauniversitar të arsimit fillor “Scuola Italiana a Tirana”, mësimi të zhvillohet në gjuhë të huaj (në gjuhën italiane), ndërsa lëndët gjuhë shqipe dhe histori të zhvillohen detyrimisht në gjuhën shqipe.
