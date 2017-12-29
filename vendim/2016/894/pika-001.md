@@ -1,1 +1,0 @@
-1. Dhënien e ndihmës financiare, prej 5 000 000 (pesë milionë) lekësh, familjes së Inspektor Ervin Robert Haxhiu, ish-punonjës policie në Komisariatin e Policisë nr. 5, Kamzë, në Drejtorinë Vendore të Policisë Tiranë, i cili ka humbur jetën në krye të detyrës.
