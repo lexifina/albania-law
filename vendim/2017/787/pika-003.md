@@ -1,0 +1,1 @@
+3. Vendimi nr. 894, datë 21.12.2016, i Këshillit të Ministrave, “Për dhënie ndihme financiare familjes së inspektor Ervin Robert Haxhiu, ish-punonjës policie, i cili ka humbur jetën në krye të detyrës”, shfuqizohet.
