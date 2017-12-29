@@ -1,1 +1,0 @@
-2. Vendimi nr.1089, datë 28.12.2015, i Këshillit të Ministrave, “Për miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2016”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.
