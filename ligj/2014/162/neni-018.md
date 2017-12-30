@@ -1,0 +1,8 @@
+# Neni 18
+Ndotja ndërkufitare e ajrit
+1. Ministria bashkëpunon me autoritetet kompetente të shteteve fqinje përkatëse kurdoherë që një prag alarmi, vlerë kufi apo vlerë e synuar së bashku me kufirin e tolerancës ose objektivin afatgjatë përkatës është kapërcyer për shkak të transferimit ndërkufitar të konsiderueshëm të ndotësve të ajrit apo prekursorëve të tyre dhe, kur është e nevojshme, përgatit aktivitete të përbashkëta, përfshirë plane të përbashkëta ose të bashkërenduara për cilësinë e ajrit, me qëllim që të zbusë këto kapërcime përmes zbatimit të masave të duhura, por në mënyrë proporcionale.
+2. Ministria, në bashkëpunim me autoritetet kompetente të shteteve të tjera, referuar marrëveshjes dy ose shumëpalëshe, përgatit dhe zbaton, sipas rastit, plane të përbashkëta veprimi afatshkurtër që mbulojnë zonat fqinje në ato shtete.
+3. Ministria siguron që autoritetit kompetent të zonës fqinje të një shteti tjetër, i cili përgatit plan veprimi afatshkurtër, t’i jepet i gjithë informacioni i duhur.
+4. Ministria u siguron informacion, sa më shpejt të jetë e mundur, autoriteteve kompetente përkatëse të shtetit/shteteve fqinj/fqinje kurdo që kapërcehen pragjet e informacionit ose të alarmit në zona dhe aglomerate të Republikës së Shqipërisë që ndodhen pranë kufirit të saj.
+5. Informacioni i përmendur në pikën 4, të këtij neni, bëhet njëkohësisht i disponueshëm edhe për publikun.
+6. Ministri, në bashkëpunim me autoritetet kompetente të shteteve fqinje, informon publikun, sa më shpejt të jetë e mundur, edhe kur kapërcehen pragjet e informacionit ose të alarmit në zona dhe aglomerate fqinje jashtë kufijve të Republikës së Shqipërisë.
