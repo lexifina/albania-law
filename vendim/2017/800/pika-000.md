@@ -1,0 +1,2 @@
+Miratimin e ndryshimit të marrëveshjes së financimit dhe projektit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave, dhe Ndërmarrjes së Ujësjellës-Kanalizimeve, Korçë, si agjenci e zbatimit të projektit, dhe KfW Frankfurt am Main, për financimin e projektit “Kanalizimet e ujërave të zeza Korçë, III”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
