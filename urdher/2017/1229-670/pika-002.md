@@ -1,0 +1,1 @@
+2. Dega e institucionit të arsimit të lartë të huaj “EPITECH”, me emërtimin “EPITECH Albania”, do të jetë departamenti i “Ekspert i Teknologjisë së Informacionit”, si njësi bazë e Fakultetit të “Ekspert i Teknologjisë së Informacionit”, të këtij institucioni.

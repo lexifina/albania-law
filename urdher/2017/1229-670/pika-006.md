@@ -1,0 +1,1 @@
+6. Pikat 1, 3 dhe 4 të urdhrit të MAS-it nr. 326, datë 8.6.2017, “Për hapjen me kusht të filialit të institucionit të huaj të arsimit të lartë “EPITECH Albania”, si njësi kryesore e këtij institucioni në Republikën e Shqipërisë”, shfuqizohen.

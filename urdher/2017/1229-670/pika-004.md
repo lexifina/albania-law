@@ -1,0 +1,1 @@
+4. Dega “EPITECH Albania”, pjesë përbërëse e institucionit të arsimit të lartë të huaj “EPITECH”, do të ofrojë programe studimi të ciklit të parë dhe të dytë, të organizuara sipas kërkesave të përcaktuara në kreun VII, “Organizimi i studimeve në IAL”, të ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”.

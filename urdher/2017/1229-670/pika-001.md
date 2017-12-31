@@ -1,0 +1,1 @@
+1. Hapjen në Republikën e Shqipërisë të degës së institucionit të arsimit të lartë të huaj Ecole pour l`Informatique et les Nouvelle Tecnologies “EPITECH”, me seli qendrore në Republikën e Francës, adresa: 24. Rue Pasteur, 94270 Le Kremlin-Bicetre, Paris.

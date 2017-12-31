@@ -1,0 +1,1 @@
+5. Në përfundim të realizimit të programeve të studimit të ciklit të parë dhe të dytë, institucioni i arsimit të lartë të huaj “EPITECH” lëshon diplomë të ciklit të parë Bachelor në “Teknologjinë e informacionit” dhe diplomë të ciklit të dytë master i shkencave “Ekspert i Teknologjisë dhe Informacionit”.

@@ -1,0 +1,1 @@
+3. Dega “EPITECH Albania”, pjesë përbërëse e institucionit të arsimit të lartë të huaj “EPITECH”, do të ushtrojë veprimtarinë e saj në adresën: Rruga e Rinasit, Tirana Biznes Park (TBP), ndërtesa 7, Tiranë.
