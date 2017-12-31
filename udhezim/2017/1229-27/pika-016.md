@@ -1,0 +1,1 @@
+16. Struktura administrative është në varësi të administratorit të institucionin publik të arsimit të lartë. Struktura administrative në nivel njësie kryesore, ka varësi funksionale nga administratori i njësisë kryesore përkatëse.

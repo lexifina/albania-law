@@ -1,0 +1,1 @@
+13. Në nivel institucional, strukturat e mësipërme me personel ndihmësakademik me karakter administrativ dhe personel administrativ organizohen ne drejtori, sektorë dhe zyra, ku secila drejtori nuk mund të ketë me pak se dy sektorë apo zyra, secili sektor apo zyrë nuk mund të ketë më pak se tre specialistë.

@@ -1,0 +1,1 @@
+18. Strukturat juridike, burimeve njerëzore, arkiv-protokollit dhe teknologjisë së informacionit në nivel institucioni apo njësie kryesore, ushtojnë veprimtarinë e tyre në funksion të të gjitha strukturave në institucion.

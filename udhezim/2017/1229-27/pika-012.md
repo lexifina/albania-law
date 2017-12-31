@@ -1,0 +1,1 @@
+12. Me përjashtim të strukturave akademike dhe administrative të përcaktuara në ligjin 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në Republikën e Shqipërisë”, organizimi i strukturave të tjera, bëhet në varësi të numrit të përgjithshëm të personelit akademik dhe atij administrativ, numrit të studentëve dhe buxhetit të institucionit publik të arsimit të lartë.

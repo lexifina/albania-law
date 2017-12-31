@@ -1,0 +1,1 @@
+19. Struktura organizative dhe organigrama e institucionit publik të arsimit të lartë, të jenë pjesë e statutit të institucioneve publike të arsimit të lartë, sipas kërkesave të nenit 33, të ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në Republikën e Shqipërisë”.
