@@ -1,0 +1,1 @@
+3. Shërbimi Social Shtetëror siguron monitorimin e zbatimit të standardeve të njësisë së vlerësimit të nevojave dhe referimit të rastit dhe/ose strukturës së posaçme për shërbimet e kujdesit shoqëror apo, dhe/ose personave juridikë publikë/privatë, që ofrojnë shërbime të kujdesit shoqëror që financohen pjesërisht apo tërësisht nga buxheti i shtetit, në qarkun përkatës.
