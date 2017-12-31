@@ -1,0 +1,1 @@
+14. Maturanti/kandidati i shkollave të mesme të përgjithshme zgjedh dy lëndë nga lista e lëndëve me zgjedhje, sipas tabelës në pikën 5, pavarësisht nëse i ka zhvilluar ose jo, apo i janë ofruar ose jo ato nga shkolla në planin mësimor.

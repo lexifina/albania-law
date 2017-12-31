@@ -1,0 +1,1 @@
+9. Programet orientuese të lëndëve të detyruara (“Gjuhë shqipe dhe letërsi”, “Matematikë” dhe “Gjuhë e huaj”) për të gjithë maturantët/kandidatët e shkollave të mesme të përgjithshme janë në përshtatje me programet ekzistuese të shkollave të mesme të përgjithshme.

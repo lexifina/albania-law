@@ -1,0 +1,1 @@
+10. Programet orientuese të provimeve të detyruara (“Gjuhë shqipe dhe letërsi”, “Matematikë”, “Gjuhë e huaj” dhe “Teori profesionale e integruar”) për maturantët/ kandidatët e shkollave profesionale janë në përshtatje me programet ekzistuese të shkollave profesionale.

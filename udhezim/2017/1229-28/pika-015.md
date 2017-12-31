@@ -1,0 +1,1 @@
+15. Maturanti/kandidati i shkollave të mesme profesionale zgjedh vetëm një lëndë nga lista e lëndëve me zgjedhje (me vlerë krediti 2-10), sipas tabelës në pikën 5, pavarësisht nëse i ka zhvilluar ose jo, apo i është ofruar ose jo nga shkolla në planin mësimor.

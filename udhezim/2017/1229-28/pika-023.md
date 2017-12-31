@@ -1,0 +1,2 @@
+23. Ngarkohen për zbatimin e këtij udhëzimi zëvendësministri i Arsimit, Sportit dhe Rinisë; zëvendësministri i Ministrisë së Financave dhe Ekonomisë; Sekretari i Përgjithshëm i MASR-së; Drejtoria e Zhvillimit të Programeve të Arsimit, Sportit dhe Rinisë; Qendra e Shërbimeve Arsimore; Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve; Inspektorati Shtetëror i Arsimit; Instituti i Zhvillimit të Arsimit; njësitë arsimore vendore dhe institucionet arsimore.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
