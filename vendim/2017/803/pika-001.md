@@ -1,0 +1,1 @@
+1. Kompensimin e 80 familjeve të fshatrave Zall-Mëner dhe Bulçesh, komuna Zall-Bastar, të cilat preken nga ndërtimi i ujëmbledhësit të Bovillës, sipas parashikimeve të vendimit nr. 317, datë 19.6.1995, të Këshillit të Ministrave, “Për sistemimin me tokë bujqësore dhe truall ndërtimi të fshatrave Zall-Mëner, Bulçesh dhe Brurëz”, të ndryshuar.

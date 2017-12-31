@@ -1,0 +1,1 @@
+2. Familjet të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në listën që i bashkëlidhet këtij vendimi, për sipërfaqen 400 (katërqind) m2 për frymë, me vlerë të përgjithshme 82 611 200 (tetëdhjetë e dy milionë e gjashtëqind e njëmbëdhjetë mijë e dyqind) lekë.
