@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar, sipas pikës 3, të këtij vendimi, në favor të z. Xhaferr Bici, të bëhet nga Ministria e Financave dhe Ekonomisë, pas paraqitjes së dokumentacionit të nevojshëm ligjor për kryerjen e pagesave, brenda afatit 3-mujor nga dita kur vendimi i Gjykatës është bërë përfundimtar.

@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të aplikantit z. Xhaferr Bici, në vlerën që shteti shqiptar detyrohet sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 3.12.2015, për çështjen “Bici kundër Shqipërisë” (ankimi nr. 5250/07), bërë përfundimtar në datën 3.3.2016.

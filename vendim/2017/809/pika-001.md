@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 3.12.2015, bërë përfundimtar në datën 3.3.2016, për çështjen “Bici kundër Shqipërisë” (ankimi nr. 5250/07), në shumën 7 850 (shtatë mijë e tetëqind e pesëdhjetë) euro, plus çdo taksë që mund të jetë e aplikueshme.
