@@ -1,0 +1,1 @@
+2. Hapja dhe/ose riorganizimi i një ose disa programeve studimi bëhet duke u mbështetur në vlerësimin e nevojave për njohuri, aftësi dhe kompetenca në tregun e punës, si edhe duke u provuar nga ana e subjektit se është në gjendje të ofrojë garancitë e nevojshme akademike e infrastrukturore dhe mbështetjen e nevojshme financiare për veprimtarinë e kërkuar.
