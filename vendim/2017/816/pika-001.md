@@ -1,0 +1,1 @@
+1. Dhënien në përdorim të përkohshëm, pa shpërblim, për një periudhë të pacaktuar, nga Drejtoria e Shërbimit të Trupit Diplomatik për Ministrinë për Evropën dhe Punët e Jashtme, të pasurisë nr. 1/586+1-2, zona kadastrale nr. 8380, Tiranë, sipas planimetrisë bashkëlidhur, për t’u përdorur si seli e sekretariatit të Zyrës Rajonale për Bashkëpunim Rinor (ZRBR).

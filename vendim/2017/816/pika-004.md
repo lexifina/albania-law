@@ -1,0 +1,1 @@
+4. Shpenzimet për mirëmbajtjen dhe furnizimin me energji elektrike dhe ujë të zyrave të selisë së sekretariatit të Zyrës Rajonale për Bashkëpunim Rinor i ngarkohen Ministrisë për Evropën dhe Punët e Jashtme.
