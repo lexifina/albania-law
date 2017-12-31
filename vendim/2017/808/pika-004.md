@@ -1,0 +1,1 @@
+4. Pagimi i shumave të depozituara, sipas përcaktimeve në pikën 3, të këtij vendimi, në favor të kërkuesve znj. Ana Veizi, z. Klajdi Veizi, z. Zabit Deda dhe z. Çaush Veizi, të bëhet nga Ministria e Financave dhe Ekonomisë, pas paraqitjes së dokumentacionit të nevojshëm ligjor për kryerjen e pagesave, brenda 3 (tre) muajve, nga data që vendimi i gjykatës është bërë përfundimtar.

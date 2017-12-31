@@ -1,0 +1,1 @@
+3. Vlerat e përcaktuara si detyrim në pikën 1, të këtij vendimi, të depozitohen në një nga bankat e nivelit të dytë, në emër të ankuesve, në vlerën që shteti shqiptar detyrohet, sipas vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 20.4.2017, për çështjen “Ana Veizi dhe të tjerë kundër Shqipërisë”.
