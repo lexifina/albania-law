@@ -1,1 +1,0 @@
-1. Kalimin në përdorim të Agjencisë së Prokurimit Publik, të disa mjediseve në administrim të saj, të cilat janë në përdorim të Komisionit të Prokurimit Publik, konkretisht, kati i parë teknik, në ndërtesën e Ministrisë së Financave, sipas planimetrisë bashkëlidhur këtij vendimi.
