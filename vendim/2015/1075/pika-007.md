@@ -1,0 +1,1 @@
+7. Për të gjitha cisternat për transport rrugor, krahët e ngarkimit në të gjithë terminalet, përveç rasteve kur janë përjashtuar, sipas parashikimeve të pikës 8, të këtij kreu, nga kërkesat për pajisjen e ngarkimit/furnizimit nga poshtë, të përcaktuara në shtojcën IV, bashkëlidhur këtij vendimi, do të zbatohen duke filluar 9 vjet pas hyrjes në fuqi të këtij vendimi.

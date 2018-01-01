@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Mjedisit (AKM) dhe Drejtoria Rajonale e Mjedisit (DRM), kur pajisin subjektet me lejet e mjedisit, përcaktojnë kërkesa teknike specifike për zonat gjeografike, të parashikuara në pikën 3, të këtij kreu.
