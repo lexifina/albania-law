@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2018, zëri “Shërbime qeveritare”, t’i shtohet fondi prej 60 000 000 (gjashtëdhjetë milionë) lekësh, për organizimin e eventeve, në kuadër të “Vitit Mbarëkombëtar të Gjergj Kastriotit - Skënderbeut”.
