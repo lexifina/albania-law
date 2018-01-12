@@ -1,0 +1,7 @@
+LIGJ
+Nr. 112/2017
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË MARRËVESHJEN NDËRKOMBËTARE PËR VAJIN E ULLIRIT DHE ULLINJTË E TAVOLINËS, 2015
+Në mbështetje të neneve 78,83, pika 1, dhe 121 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
