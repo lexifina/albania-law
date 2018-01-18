@@ -1,0 +1,1 @@
+6. Në fushën e prodhimit, ndërmarrjet sociale kryejnë veprimtari që lidhen me prodhimin artizanal të një game të gjerë mallrash e produktesh që i shërbejnë komunitetit dhe, veçanërisht, produktesh që kanë për qëllim krijimin e lehtësive për personat e pafavorizuar.

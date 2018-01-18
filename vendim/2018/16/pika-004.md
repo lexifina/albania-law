@@ -1,0 +1,7 @@
+4. Veprimtaria e ndërmarrjeve sociale përfshin fushën e shërbimeve shoqërore, shëndetësore, kulturore e arsimore, të promovimit të turizmit e mbrojtjes mjedisore, si dhe veprimtari të ndërmjetësimit e kualifikimit për punësim. Këto veprimtari zhvillohen si më poshtë vijon:
+a) Në fushën e shërbimeve shoqërore, veprimtari që lidhen me shërbime të kujdesit shoqëror, të cilat ofrohen në qendrat rezidenciale, qendrat ditore, në shtëpi dhe në komunitet, sipas parashikimeve ligjore përkatëse;
+b) Në fushën e shërbimeve shëndetësore, veprimtari për mbrojtjen dhe promovimin e shëndetit, të aktiviteteve fizike e sporteve amatore, për qëllim socializimi e argëtimi;
+c) Në fushën e promovimit të turizmit, shërbime në bar-restorante-hoteleri, guida turistike dhe shërbime të turizmit social për personat, të cilët nuk kanë mundësi të vizitojnë atraksionet turistike për shkak të kushteve shëndetësore ose të jetesës;
+ç) Në fushën e veprimtarive kulturore, veprimtari që lidhen me artin, trashëgiminë kulturore dhe aktivitete të tjera të kësaj natyre;
+d) Në fushën e mbrojtjes mjedisore, veprimtari që lidhen me ruajtjen e mjedisit nga ndotja e dëmtimi nga aktiviteti njerëzor dhe veprimtaritë ekonomike, për të garantuar një mjedis të shëndetshëm për qytetarët;
+dh) Në fushën e kualifikimit dhe të ndërmjetësimit për punësim, veprimtari për promovimin e trajnimit profesional, veprimtari edukative e të ndërmjetësimit për punësim për personat që përfshihen në kategoritë e grupeve të pafavorizuara.

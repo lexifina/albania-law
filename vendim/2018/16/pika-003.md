@@ -1,0 +1,1 @@
+3. Ndërmarrjet sociale e ushtrojnë veprimtarinë në nivel lokal, duke ofruar mallra e shërbime në përputhje me nevojat e komunitetit dhe në kuadër të parimit të deinstitucionalizimit të funksioneve të njësisë së qeverisjes vendore.

@@ -1,0 +1,1 @@
+5. Ndërmarrjet sociale kryejnë edhe veprimtari tregtimi mallrash apo shërbimesh, të ofruara nga veprimtari të ndërmarrjeve të tjera sociale, produkte për personat e pafavorizuar, produkte të prodhuesve të vegjël nga zona të thella apo të pafavorshme nga ana mjedisore, si dhe të tjera veprimtari në mbështetje të ndërmarrjeve të tjera sociale.

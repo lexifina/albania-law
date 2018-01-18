@@ -1,0 +1,1 @@
+2. Veprimtaritë e ushtruara nga ndërmarrjet sociale krijojnë mundësi të reja për punësim dhe një mjedis inkurajues për integrimin social e riintegrimin profesional të grupeve të pafavorizuara në tregun e punës.
