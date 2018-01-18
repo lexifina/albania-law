@@ -1,0 +1,1 @@
+8. Marrëdhëniet e punës së punonjësve të kësaj agjencie rregullohen me Kodin e Punës. Ata emërohen, lirohen ose shkarkohen nga drejtori i Përgjithshëm, me miratimin e ministrit përgjegjës për çështjet vendore.

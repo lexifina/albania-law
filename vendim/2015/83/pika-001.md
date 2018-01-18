@@ -1,0 +1,1 @@
+1. Krijimin e Agjencisë për Mbështetjen e Vetëqeverisjes Vendore , më poshtë agjencia , si institucion publik qendror, person juridik, me seli në Tiranë, në varësi të ministrit përgjegjës për çështjet vendore, që financohet nga buxheti i shtetit dhe të ardhura të tjera të ligjshme.
