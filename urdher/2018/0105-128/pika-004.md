@@ -1,0 +1,1 @@
+4. Përfaqësimi për çdo proces gjyqësor bëhet nga juristë të Sektorit të Përfaqësimit Gjyqësor, pranë Drejtorisë së Miradministrimit të Burimeve Njerëzore, Aseteve dhe Shërbimeve, specialistë të fushës për të cilën është ngritur kërkesëpadia, si dhe përfaqësues nga institucionet e varësisë së Ministrisë së Drejtësisë, nëpërmjet autorizimit përkatës.
