@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomik dhe fiskal për periudhën 2019-2021, së bashku me lidhjet nr. 1, “Treguesit kryesorë makro-ekonomikë”, dhe nr. 2/1 e nr. 2/2, “Treguesit fiskalë sipas buxhetit të konsoliduar”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
