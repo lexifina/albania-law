@@ -1,0 +1,1 @@
+4. Grupi ndërinstitucional i punës të identifikojë legjislacionin rregullator për punën me dokumentet, që kanë nevojë të ndryshohet, dhe pas konsultimit me praktikat ndërkombëtare të legjislacionit analog, brenda 6 (gjashtë) muajve nga data e hyrjes në fuqi të këtij urdhri, të përgatitë dhe të paraqesë nismat ligjore për ndryshimet përkatëse.
