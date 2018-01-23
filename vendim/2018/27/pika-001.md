@@ -1,0 +1,1 @@
+1. Miratimin e metodologjisë për përcaktimin e çmimit të blerjes së energjisë elektrike të prodhuar nga gjeneratorët e vegjël me burime të rinovueshme nga pjesa e biodegradueshme e mbetjeve të ngurta, që shfrytëzojnë mbeturinat industriale, urbane dhe rurale, sipas tekstit bashkëlidhur këtij vendimi.

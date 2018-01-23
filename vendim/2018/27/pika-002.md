@@ -1,0 +1,1 @@
+2. Enti Rregullator i Energjisë cakton çmimin e blerjes së energjisë elektrike të prodhuar nga gjeneratorët e vegjël me burime të rinovueshme nga pjesa e biodegradueshme e mbetjeve të ngurta, që shfrytëzojnë mbeturinat industriale, urbane dhe rurale, sipas parashikimeve të kësaj metodologjie.
