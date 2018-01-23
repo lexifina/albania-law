@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve, për vitin 2018, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura (ERRU), në shumën 49 648 000 (dyzet e nëntë milionë e gjashtëqind e dyzet e tetë mijë) lekë, sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
