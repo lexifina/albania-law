@@ -1,0 +1,2 @@
+1. Kudo në udhëzimin nr. 2365, datë 26.11.2008, bëhen këto ndryshime:
+Shprehjet “kurse kualifikimi” zëvendësohen me “kurse të formimit profesional”; “arsim i lartë apo studime pasuniversitare” zëvendësohen me “arsim i lartë në programe studimi të ciklit të parë dhe të dytë”; “ministri i Punës, Çështjeve Sociale dhe Shanseve të Barabarta” zëvendësohet me “ministri i Shëndetësisë dhe Mbrojtjes Sociale”.
