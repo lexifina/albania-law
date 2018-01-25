@@ -1,0 +1,1 @@
+9. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i vitit 2018, miratuar për Ministrinë e Infrastrukturës dhe Energjisë, programi “Furnizim me ujë dhe kanalizime”, zëri “subvencione”.

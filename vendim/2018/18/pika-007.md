@@ -1,0 +1,1 @@
+7. Kategoritë e përcaktuara në pikën 2 të këtij vendimi, deklarojnë pranë ujësjellës-kanalizimeve sh.a., se nuk disponojnë një kontratë të lidhur dhe/ose nuk janë të pajisur me matës në banesë dhe kërkojnë të pajisen me to. Ujësjellës-kanalizime sh.a., kryen verifikimet përkatëse me listën që disponon të abonentëve ekzistues.

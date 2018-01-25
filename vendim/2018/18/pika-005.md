@@ -1,0 +1,1 @@
+5. Listat e kategorive të përcaktuara në shkronjat “a” dhe “b”, të pikës 2 të këtij vendimi, ujësjellës-kanalizime sh.a. t’i marrë zyrtarisht brenda 7 (shtatë) ditëve të para të muajit nga bashkia e zonës së shërbimit të ujësjellës-kanalizimeve sh.a., në bazë të të cilave të bëhen lidhja e kontratës dhe vendosja e matësve, sipas pikave 3 e 4 të këtij vendimi.

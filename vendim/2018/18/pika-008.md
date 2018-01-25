@@ -1,0 +1,1 @@
+8. Subvencionimi i ujësjellës-kanalizimeve sh.a., të mbulohet nga bashkia përkatëse, në përputhje me dokumentacionin që vërteton kontratën e lidhur dhe matësit e vendosur për kategoritë e përcaktuara në pikën 2 të këtij vendimi.
