@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi urban i bllokut të kufizuar nga rrugët ’Sulejman Delvina’, ’Medar Shtylla’, ’Skënder Luarasi’, ’Grigor Heba’ dhe ’Gjik Kuqali’, Tiranë”.
