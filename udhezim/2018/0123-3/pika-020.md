@@ -1,0 +1,2 @@
+20. Informacioni i detyrueshëm mbi vlerësimin doganor
+Punonjësit e doganës që kryejnë vlerësimin apo rivlerësimin për qëllime doganore të mallrave të ndryshme, duhet të shprehen qartë dhe në formë shtjelluese në faqen informuese të DAV-it në sistemin Asycuda, si në rastin e pranimit të transaksionit edhe në rastet e refuzimit të tij, duke renditur argumente mbështetëse për mënyrën e vlerësimit doganor të përdorur.

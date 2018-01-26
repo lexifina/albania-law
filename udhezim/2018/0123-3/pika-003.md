@@ -1,0 +1,2 @@
+3. Shqyrtimi i vlerës doganore
+Procedura për përcaktimin e vlerës doganore të mallrave nis me shqyrtimin e dokumentacionit shoqërues dhe, kur është e nevojshme, kërkohen sqarime dhe dokumentacion plotësues. Megjithatë, shqyrtimi i vlerës doganore nuk do të konsiderohet si “moment”, por si një “proces”, që fillon me marrjen dhe shqyrtimin e informacionit paraprak (kur kjo është e mundur), deri në kontrollet pas zhdoganimit.

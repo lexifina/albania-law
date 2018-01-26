@@ -1,0 +1,2 @@
+13. Dalja nga regjimet e magazinimit
+Për mallrat që futen në magazinim (në magazinë doganore dhe në magazinim të përkohshëm) kur nga autoriteti doganor transaksioni nuk pranohet, si moment referimi për vlerësimin për qëllime doganor do të merret ai i hyrjes në magazinim. Kur në magazinimin (magazinë doganore apo magazinim i përkohshëm) ndodh një zinxhir shitblerjesh, për qëllime të vlerësimit doganor të mallrave, autoriteti doganor nuk mund të pranojë një vlerë në ulje.

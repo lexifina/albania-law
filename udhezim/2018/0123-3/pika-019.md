@@ -1,0 +1,2 @@
+19. Përditësimi i kursit të këmbimit
+Në rastet kur faturat e importit paraqiten në monedha të cilat nuk përfshihen në listën e monedha të huaja që publikohen nga Banka e Shqipërisë, Autoriteti Doganor Shqiptar do të kërkojë nga Banka e Shqipërisë kuotimin e kësaj monedhe të huaj në monedhën kombëtare. Në rast të një përgjigjeje negative (apo mospërgjigjeje) do të merren të dhëna nëpërmjet internetit të kuotimit të kësaj monedhe në monedha të tjera të huaja, si USD apo EURO.

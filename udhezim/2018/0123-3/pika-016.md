@@ -1,0 +1,4 @@
+16. Afatet e përditësimit
+16.1 Për artikujt e karburanteve të tilla, si: benzinë, gazoil, mazut, solar, vajgur, jet, gaz i lëngshëm (butan, propan), biodiesel (dhe të gjitha nënproduktet), Drejtoria e Vlerës Doganore harton shkresën me çmimet e përditësuara dhe pas firmosjes nga titullarët e institucionit ua dërgon degëve doganore dhe strukturave të tjera që ju nevojitet ky informacion. Përditësimi i këtyre artikujve është çdo ditë pune.
+16.2 Për artikujt grurë, misër, oriz, sheqer, vaj ushqimor, produktet e çelikut, plehrat kimike, Drejtoria e Vlerës harton shkresën dhe, pas firmosjes nga titullarët e institucionit, dërgohet në degët doganore. Afati i përditësimit është çdo 2 javë (fillim dhe mes muaji).
+16.3 Drejtoria e Vlerës Doganore në Drejtorinë e Përgjithshme të Doganave bën propozime për përditësime të mallrave të ndryshme, që nuk përfshihen në pikat 15.1 dhe 15.2, sa herë siguron informacione të nevojshme.
