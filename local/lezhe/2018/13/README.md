@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Lezhë nr. 13, datë 29.1.2018
+# Vendimi i Këshillit Bashkiak Lezhë nr. 13, datë 29.1.2018
 
 Title on the official site: Vendimi nr.13, datë 29.01.2018 Buxheti 2018 dhe PBA 2018-2020
 
