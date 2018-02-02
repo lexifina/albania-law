@@ -1,0 +1,1 @@
+4. Grupet e interesit iadërgojnë mendimin e tyre me shkrimministrisë,brenda 7 (shtatë) ditëve nga data etakimit, për nevojën ose jo të kryerjes së procesit tëVSM-së për hartimin, rishikimin, ndryshimin apo modifikimin e planit ose programit të propozuar dhe, nëse ato nuk shprehen brenda afatit ligjor, nënkuptohet se nuk kanë kërkesa për propozimin.

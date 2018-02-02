@@ -1,0 +1,1 @@
+5. Ministria, brenda 30(tridhjetë) ditëve nga data e marrjes së njoftimit, vendos nëse hartimi, rishikimi, ndryshimi apo modifikimi i planit ose programit duhet t’i nënshtrohet procesit tëVSM-së dhe i dërgon autoritetit propozues vendimin e saj duke i bashkëlidhur edhe sqarimet e kërkesat, sipas pikës 2, të nenit 8, të ligjit nr. 91/2013, “Për vlerësimin strategjik mjedisor”.
