@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Ministria e Brendshme, Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Drejtësisë, Ministria e Financave dhe Ekonomisë, Ministria e Kulturës, Ministria për Evropën dhe Punët e Jashtme, Ministria e Turizmit dhe Mjedisit, ministri i Shtetit për Diasporën, Avokati i Popullit, Komisioneri për Mbrojtjen nga Diskriminimi dhe Shoqata për Autonomi Vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
