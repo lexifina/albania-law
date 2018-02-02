@@ -1,0 +1,1 @@
+7. Përzgjedhja e kandidatëve për anëtarë të bordit, sipas pikës 2, të këtij kreu, kryhet nga një komision ad-hoc i ngritur me urdhër të ministrit të Financave, i cili ka për detyrë të shqyrtojë dokumentacionin e paraqitur dhe të hartojë listën e kandidatëve që plotësojnë kriteret ligjore.

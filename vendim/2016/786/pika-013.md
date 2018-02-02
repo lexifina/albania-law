@@ -1,0 +1,1 @@
+13. Për aq sa nuk parashikohet në këtë vendim, procedura e zhvillimit të mbledhjeve të bordit rregullohet nga parashikimet e Kodit të Procedurave Administrative dhe ligjit nr. 8480, datë 27.5.1999, “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”.

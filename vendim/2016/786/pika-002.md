@@ -1,0 +1,1 @@
+2. Kryetari dhe tre anëtarët e bordit, që propozohen nga ministri i Financave, duhet të plotësojnë kriteret e parashikuara në pikën 4, të nenit 4, të ligjit nr. 10091, datë 5.3.2009, “Për auditimin ligjor, organizimin e profesionit të ekspertit kontabël të regjistruar dhe të kontabilistit të miratuar”, të ndryshuar (këtu e në vijim “ligji”).

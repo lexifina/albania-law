@@ -1,0 +1,1 @@
+5. Njoftimi për fillimin e procedurave të përzgjedhjes së anëtarëve të bordit, mënyra e vlerësimit të kandidatëve bazuar në kriteret e parashikuara në pikën 4, të nenit 4, të ligjit, dhe vendi e afati i dorëzimit të dokumentacionit caktohen me urdhër të ministrit të Financave.

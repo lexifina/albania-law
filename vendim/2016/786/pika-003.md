@@ -1,0 +1,1 @@
+3. Kandidati që përzgjidhet nga institucionet publike të arsimit të lartë të licencuara dhe të akredituara sipas legjislacionit në fuqi për arsimin e lartë, duhet të plotësojë kriteret e parashikuara në pikën 4, të nenit 4, të ligjit, dhe të jetë pjesë e stafit të përhershëm të institucionit publik të arsimit të lartë.

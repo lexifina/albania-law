@@ -1,0 +1,2 @@
+10. Komisioni ad-hoc, brenda 10 (dhjetë) ditëve pune nga data e mbylljes së afatit të dorëzimit të dokumentacionit, shqyrton dokumentacionin dhe harton listën e kandidatëve që plotësojnë kriteret e pikës 4, të nenit 4, të ligjit, të shoqëruar me një relacion përmbledhës, i cili i paraqitet për miratim ministrit të Financave.
+Në relacion, komisioni i rekomandon ministrit të Financave emërimin e kandidaturave.
