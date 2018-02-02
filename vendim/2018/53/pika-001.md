@@ -1,0 +1,1 @@
+1. Lejimin e lëvizjes jashtë territorit të Republikës së Shqipërisë të veprës së artit në pikturë “Mbjellja e pemëve”, të autorit Edi Hila, pjesë e fondit të Galerisë Kombëtare të Arteve, për t’u paraqitur në ekspozitën “Edi Hila-Monography”, në Muzeun e Artit Modern në Varshavë, Poloni, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
