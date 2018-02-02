@@ -1,0 +1,1 @@
+2. Pagesa e kompensimit, deri në përfundim të periudhës së përkohshme, sipas pikës 1, të këtij vendimi, të kryhet çdo muaj, me fondet e buxhetit të miratuar për vitin 2018 për Prokurorinë e Përgjithshme.

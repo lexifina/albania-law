@@ -1,0 +1,1 @@
+1. Kompensimin, në masën 35 000 (tridhjetë e pesë mijë) lekë në muaj, të pagesës së qirasë së banesës për strehimin, në qytetin e Tiranës, të prokurorit të caktuar të kryejë përkohësisht detyrën dhe funksionet e Prokurorit të Përgjithshëm.

@@ -1,0 +1,1 @@
+3. Shuma e përgjithshme e fondit, që do të përdoret për pagesat e kompensimit, të përballohet nga fondi rezervë i buxhetit të shtetit dhe të rishpërndahet në buxhetin e miratuar për Prokurorinë e Përgjithshme.
