@@ -1,0 +1,1 @@
+9. Prodhimi për sipërfaqen shtesë duhet të llogaritet deri në afatin e mbetur të lejes ekzistuese. Në zonën shtesë duhet të garantohet kryerja e punimeve kapitale dhe funksionimi normal i tyre gjatë vazhdimit të shfrytëzimit në thellësi të minierës, për kohën e vlefshmërisë së lejes.

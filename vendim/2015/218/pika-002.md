@@ -1,0 +1,1 @@
+2. Kërkesa e subjektit shqyrtohetnë rast se sipërfaqja e kërkuar është e lirë dhe subjekti ka zbatuar, në mënyrë korrekte, dispozitat ligjore për lejen/lejet ekzistuese. Në çdo rast, sipërfaqja e kërkuar nuk mund të jetë më e madhe se sipërfaqja e lejes ekzistuese të subjektit.

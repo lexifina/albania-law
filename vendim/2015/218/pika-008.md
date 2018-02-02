@@ -1,0 +1,1 @@
+8. Subjekti dorëzon në QKL garancinë financiare për realizimin e planit të rehabilitimit të mjedisit dhe garancinë financiare të investimeve jo më vonë se 30 ditë nga data e nënshkrimit të “Aktit të miratimit” të lejes së ndryshuar nga ministri.
