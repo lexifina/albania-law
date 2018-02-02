@@ -1,0 +1,2 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Drejtësisë të një pjese të godinës ku ushtron veprimtarinë Kontrolli i Lartë i Shtetit, për sistemimin me mjedise pune dhe mbarëvajtjen e veprimtarisë
+administrative të Kolegjit të Posaçëm të Apelimit dhe Komisionerëve Publikë, institucione të rivlerësimit të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë, i parashikuar nga ligji nr. 84/2016, sipas të dhënave të pasurisë dhe planimetrisë që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
