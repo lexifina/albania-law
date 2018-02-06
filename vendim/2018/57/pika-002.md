@@ -1,0 +1,1 @@
+2. Gjuetia e dhelprës së kuqe të kryhet nëpërmjet marrjes së kampionëve të dhelprës së kuqe në të gjithë territorin e vendit, me përjashtim të territorit të zonave të mbrojtura, gjatë një periudhe njëmujore në ditët e enjte, e premte dhe e shtunë, duke filluar nga dita e hyrjes në fuqi e këtij vendimi.

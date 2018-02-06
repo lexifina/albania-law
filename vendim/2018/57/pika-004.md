@@ -1,0 +1,1 @@
+4. Ministri i Turizmit dhe Mjedisit, brenda 5 (pesë) ditëve nga data e hyrjes në fuqi e këtij vendimi, pajis punonjësit e Agjencisë Kombëtare të Zonave të Mbrojtura në çdo qark me autorizimin përkatës për marrjen e kampionëve të dhelprës së kuqe.

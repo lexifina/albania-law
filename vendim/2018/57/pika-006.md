@@ -1,0 +1,1 @@
+6. Ministria e Bujqësisë dhe Zhvillimit Rural të bashkërendojë punën për marrjen e kampionëve të dhelprave të kuqe, dërgimin e tyre në laboratorët përkatës, analizimin dhe nxjerrjen e rezultateve, si dhe raportimin për përfundimin e fazës së tetë të procesit të monitorimit pasvaksinal kundër sëmundjes së tërbimit të dhelprës së kuqe në Shqipëri.
