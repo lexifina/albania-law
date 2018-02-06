@@ -1,0 +1,1 @@
+1. Çdo ofrues i shërbimeve në sektorin e ujësjellës-kanalizimeve duhet të arrijë treguesit dhe kriteret të përfshira në “Kontratën e Performancës” sipas lidhjes nr. 1, bashkëlidhur këtij udhëzimi, kontratë që lidhet ndërmjet Agjencisë Kombëtare të Ujësjellës-Kanalizimeve dhe Bashkisë.

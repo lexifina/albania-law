@@ -1,0 +1,1 @@
+2. Bashkia përkatëse, pas nënshkrimit të kontratës së parashikuar në pikën 1 të këtij udhëzimi, nënshkruan një kontratë performance me administratorin e shoqërisë aksionare të ujësjellës-kanalizimeve, ku reflektohen kushtet dhe detyrimet e marra përsipër nga bashkia, në kontratën e nënshkruar sipas pikës 1 të këtij udhëzimi.
