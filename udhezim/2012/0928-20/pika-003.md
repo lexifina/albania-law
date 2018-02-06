@@ -1,1 +1,2 @@
 3. Pas certifikimit të sasisë së prodhimit, si në import ashtu edhe në prodhimin vendas, Departamenti i Akcizës në DPD do të përcaktojë nivelin e taksimit me akcizë për çdo produkt që i nënshtrohet këtij kriteri përgjatë një viti kalendarik dhe njëkohësisht informon autoritetet doganore mbikëqyrëse.
+3.1 Në rast të prodhimit të të njëjtit produkt në të njëjtin vend (shtet) prodhues, dokumenti i sasisë së prodhimit duhet të tregojë sasinë e prodhimit të këtij produkti në këtë vend (shtet).
