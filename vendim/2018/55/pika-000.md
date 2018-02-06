@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes grant, ndërmjet Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, në emër të Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit Global për të Luftuar SIDA-n, Tuberkulozin dhe Malarien, për programin “Përshkallëzimi dhe sigurimi i qëndrueshmërisë së përgjigjes kombëtare ndaj HIV/SIDA-s”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.
