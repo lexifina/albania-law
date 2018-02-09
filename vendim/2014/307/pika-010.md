@@ -1,0 +1,1 @@
+10. Karta e shëndetit është personale dhe e patjetërsueshme. Ajo përmban numrin e identitetit të personit, i cili është edhe numri i sigurimit shëndetësor të detyruar. Për të huajt, si numër i sigurimit shëndetësor të detyruar do të shërbejë numri i lejes së qëndrimit ose i lejes provizore të qëndrimit.

@@ -1,0 +1,1 @@
+9. Karta e shëndetit është dokumenti që vërteton se mbajtësi i saj është person i siguruar, sipas ligjit nr. 10383, datë 24.2.2011, “Për sigurimin e detyrueshëm të kujdesit shëndetësor në Republikën e Shqipërisë”, të ndryshuar.

@@ -1,0 +1,1 @@
+11. Forma, përmbajtja, mënyra e përdorimit të kartës së shëndetit, si dhe modalitetet e zëvendësimit të librezës së shëndetit, përcaktohen me udhëzim të veçantë të Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.

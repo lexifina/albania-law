@@ -1,0 +1,1 @@
+8. Identifikimi i personave të siguruar në skemën e sigurimit të detyrueshëm të kujdesit shëndetësor bëhet me anë të dokumentit të identifikimit, nëpërmjet shërbimit të regjistrit elektronik të të siguruarve të fondit ose portalit e-Albania.

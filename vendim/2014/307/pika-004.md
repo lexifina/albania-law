@@ -1,0 +1,10 @@
+4. Institucionet përgjegjëse për dhënien e informacionit, sipas kategorive të të siguruarve, janë si më poshtë:
+a) Ministria e Punëve të Brendshme është përgjegjëse për dhënien e informacionit për kategorinë e shtetasve të huaj azilkërkues në Republikën e Shqipërisë;
+b) Ministria e Arsimit dhe Sportit është përgjegjëse për dhënien e informacionit për kategoritë e nxënësve dhe të studentëve të moshës 18 deri në 25 vjeç, të regjistruar në sistemin arsimor parauniversitar apo të lartë;
+c) Instituti i Sigurimeve Shoqërore është përgjegjës për dhënien e informacionit për kategorinë e personave që përfitojnë nga skema e sigurimeve shoqërore, si dhe për kategorinë e personave të vetëpunësuar në fshat;
+ç) Drejtoria e Përgjithshme e Tatimeve është përgjegjëse për dhënien e informacionit të përditësuar për kategoritë e të punësuarve, të punëdhënësve, të vetëpunësuarve në qytet dhe anëtarëve të papaguar të familjes së tyre, si dhe për kategorinë e personave me të ardhura të rregullta, nga prona ose burime të tjera të krahasueshme;
+d) Shërbimi Social Shtetëror është përgjegjës për dhënien e informacionit për kategorinë e personave që përfitojnë ndihmë ekonomike, të personave që përfitojnë pagesën për aftësinë e kufizuar, të verbrit dhe jetimët;
+dh) Shërbimi Kombëtar i Punësimit është përgjegjës për dhënien e informacionit për kategorinë e personave të regjistruar si të papunë - punëkërkues;
+e) Drejtoria e Përgjithshme e Gjendjes Civile është përgjegjëse për dhënien e informacionit për kategorinë e fëmijëve nën moshën 18 vjeç, si dhe për rastet e lindjeve e të vdekjeve;
+ë) Drejtoria e Përgjithshme e Gjendjes Civile i vë në dispozicion Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor përbërësit e gjendjes civile (ku përfshihet dhe numri personal) nëpërmjet Regjistrit Kombëtar të Gjendjes Civile;
+f) Autoriteti shtetëror qendror përgjegjës për trajtimin e të huajve që kërkojnë të hyjnë dhe të qëndrojnë në Republikën e Shqipërisë, është përgjegjës për dhënien e informacionit për të huajt e pajisur me leje qëndrimi.

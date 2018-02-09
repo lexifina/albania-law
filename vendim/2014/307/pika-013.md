@@ -1,0 +1,2 @@
+13. Ngarkohen Ministria e Punëve të Brendshme, Ministria e Arsimit dhe Sportit, Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, Instituti i Sigurimeve Shoqërore, Drejtoria e Përgjithshme e Tatimeve, Shërbimi Social Shtetëror, Shërbimi Kombëtar i Punësimit, Drejtoria e Përgjithshme e Gjendjes Civile dhe njësitë e qeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,1 @@
+3. Regjistrimi i të siguruarve bëhet duke u mbështetur në të dhënat e ofruara nga institucionet përgjegjëse, bazuar në numrin e përgjithshëm, si dhe në identitetin e personave që bëjnë pjesë në grupet e veçanta.

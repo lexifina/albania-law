@@ -1,0 +1,1 @@
+7. Marrja e të dhënave, përpunimi dhe ruajtja e tyre bëhen në përputhje me ligjin nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar, si dhe të udhëzimeve të Komisionerit për Mbrojtjen e të Dhënave Personale.
