@@ -1,0 +1,26 @@
+{
+  "qbz_id": 60235,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 307, DATË 21.5.2014, TË KËSHILLIT TË MINISTRAVE, “PËR REGJISTRIMIN DHE IDENTIFIKIMIN E PERSONAVE TË SIGURUAR NGA SIGURIMI I DETYRUESHËM SHËNDETËSOR”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "74",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2018-02-07",
+  "published": "2018-02-09",
+  "in_force": "2018-02-09",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/eb0fd75c8f2ee5e0d15402ef3255c096a3dd2321b26bd9fec7b8c1c472439a1e.docx",
+  "source_sha256": "eb0fd75c8f2ee5e0d15402ef3255c096a3dd2321b26bd9fec7b8c1c472439a1e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60235",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/02/07/74",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
