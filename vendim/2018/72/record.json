@@ -1,0 +1,29 @@
+{
+  "qbz_id": 60234,
+  "title": "PËR PËRCAKTIMIN E KRITEREVE BAZË TË SEKTORËVE QË DO TË MBËSHTETEN DHE TË MASËS SË FINANCIMIT NGA FONDI I PROGRAMIT PËR BUJQËSINË DHE ZHVILLIMIN RURAL, PËR VITIN 2018",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "72",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2018-02-07",
+  "published": "2018-02-09",
+  "in_force": "2018-02-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/8d6d56b45db3d726d27792133e7fc41c76e709fceba0d2ce12c7547b28d6b35d.docx",
+  "source_sha256": "8d6d56b45db3d726d27792133e7fc41c76e709fceba0d2ce12c7547b28d6b35d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60234",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/02/07/72",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    64269,
+    56705
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
