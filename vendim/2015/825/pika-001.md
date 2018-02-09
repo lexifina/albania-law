@@ -1,0 +1,1 @@
+1. Ky vendim përcakton kriteret e procedurat për dhënien e lejes për hapjen, mbylljen dhe funksionimin e institucioneve arsimore private të arsimit parauniversitar, në të cilat zhvillohen edhe lëndë fetare apo ku mësimi zhvillohet edhe në gjuhë të huaj.
