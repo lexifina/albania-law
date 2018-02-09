@@ -1,0 +1,1 @@
+2. Asnjë dispozitë e kësaj procedure të përzgjedhjes nuk kufizon furnizuesit e gazit natyror, të krijuar me palë të tjera të komunitetit të energjisë, për të konkurruar për ofrimin e furnizimit të mundësisë së fundit me gaz natyror për konsumatorët që banojnë dhe/ose veprojnë në Republikën e Shqipërisë.

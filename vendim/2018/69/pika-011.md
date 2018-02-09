@@ -1,0 +1,1 @@
+11. Pasi aplikuesi fitues i përzgjedhur konfirmon angazhimin e tij për t’u bërë furnizues i mundësisë së fundit me gaz natyror, ministria, jo më vonë se 3 (tre) ditë pune nga marrja e konfirmimit përkatës, njofton aplikantët e tjerë për përzgjedhjen e furnizuesit të mundësisë së fundit me gaz natyror.

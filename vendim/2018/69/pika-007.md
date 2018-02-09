@@ -1,0 +1,1 @@
+7. Në rastet kur në aplikimin e paraqitur nga një subjekt mungon ndonjë nga dokumentet ose informacionet e kërkuara, komisioni i kërkon aplikuesit të paraqesë dokumentacionin e munguar, brenda 7 (shtatë) ditëve kalendarike nga data e njoftimit për plotësimin e tij.

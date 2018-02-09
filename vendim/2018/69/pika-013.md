@@ -1,0 +1,1 @@
+13. ERE, në përputhje me përcaktimin e pikës 10, të nenit 90, të ligjit nr. 102/2015, “Për sektorin e gazit natyror”, harton dhe miraton rregullat e tregut dhe aktet e tjera rregullatore që rregullojnë aktivitetin e furnizuesit të mundësisë të fundit me gaz natyror.

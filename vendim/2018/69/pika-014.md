@@ -1,0 +1,18 @@
+14. Furnizuesi i mundësisë së fundit me gaz natyror:
+a) duhet të përmbushë detyrimet sipas ligjit nr. 102/2015, “Për sektorin e gazit natyror”, kodeve të sistemit të transmetimit e të shpërndarjes dhe çdo akti tjetër të nevojshëm për funksionimin e tij;
+b) mund të furnizojë klientin fundor për një periudhë kohore jo më të gjatë se dy muaj;
+c) duhet të informojë ministrinë përgjegjëse për energjinë për përfundimin e afatit të caktimit të tij në përputhje me afatet ligjore, por jo më vonë se 4 (katër) muaj më përpara.
+IV. DISPOZITA TË FUNDIT
+1. Në rastet kur ofruesi i furnizimit të mundësisë së fundit me gaz natyror nuk është më i aftë të vijojë veprimtarinë, furnizuesi informon menjëherë ministrinë përgjegjëse për energjinë dhe ERE-n dhe i ndihmon ato për të garantuar një ofrim të pandërprerë të shërbimit të furnizimit të mundësisë së fundit me gaz natyror:
+a) Në ato raste kur ofruesi i furnizimit të mundësisë së fundit me gaz natyror nuk është më i aftë të vijojë veprimtarinë, furnizimi me gaz natyror si mundësi e fundit kryhet nga furnizuesi i gazit natyror i ngarkuar nga ERE me detyrimin e shërbimit publik për kryerjen e këtij furnizimi.
+b) Ministria përgjegjëse për energjinë, brenda 10 (dhjetë) ditëve nga marrja e njoftimit nga ERE, publikon njoftimin për fillimin e procedurave për përzgjedhjen e furnizuesit të mundësisë së fundit me gaz natyror, sipas dispozitave të këtij vendimi.
+2. Në rastet kur furnizuesi i mundësisë së fundit me gaz natyror po riorganizohet si subjekt juridik, ai i dorëzon ministrisë përgjegjëse për energjinë dhe ERE-s planin e riorganizimit, që, ndër të tjera, identifikon transferimin e të drejtave dhe detyrimeve të furnizimit të mundësisë së fundit. Ky transferim bëhet për të garantuar një ofrim të pandërprerë të shërbimeve të furnizimit të mundësisë së fundit me gaz natyror.
+Pasardhësi i ligjshëm i furnizuesit të mundësisë së fundit me gaz natyror, i cili do të duhet të përmbushë të gjitha kriteret e këtij vendimi, vepron në përputhje me të gjitha kërkesat për furnizuesin e mundësisë së fundit dhe ndërmerr përmbushjen e plotë të të gjitha detyrimeve të tij.
+3. ERE garanton monitorimin dhe mbikëqyrjen e veprimtarive të furnizuesit të mundësisë së fundit me gaz natyror.
+ERE informon ministrinë përgjegjëse për energjinë në lidhje me veprimet apo mosdeklarimet nga ana e furnizuesit të mundësisë së fundit me gaz natyror që janë në mospërputhje me detyrimet e tij, bazuar në aktet ligjore të zbatueshme.
+4. Furnizuesi i mundësisë së fundit ka detyrimin të përgatitë dhe të publikojë, të paktën 1 (një) herë në vit, një raport, i cili përmban numrin e klientëve fundorë të furnizuar, sasinë e gazit natyror të furnizuar dhe kohëzgjatjen mesatare të furnizimit të mundësisë së fundit. Ky raport vihet në dispozicion të ministrisë, të ERE-s dhe të Sekretariatit të Komunitetit të Energjisë.
+5. Pas propozimit të bërë nga ERE, ministria përgjegjëse për energjinë, pas marrjes së informacioneve të plota lejohet që në çdo kohë të vlerësojë përputhshmërinë e furnizuesit të mundësisë së fundit me gaz natyror me kriteret përkatëse për statusin dhe veprimtarinë e tij.
+Në rastet kur furnizuesi i mundësisë së fundit me gaz natyror nuk është i aftë të përmbushë detyrimet e tij në mënyrë të përshtatshme, ministria përgjegjëse për energjinë i propozon Këshillit të Ministrave për heqjen e së drejtës së ofruesit të këtij furnizimi subjektit juridik që e ka marrë këtë të drejtë.
+Ministria përgjegjëse për energjinë shpall procedurën e re për përzgjedhjen e furnizuesit të mundësisë së fundit me gaz natyror, në përputhje me kushtet e këtij vendimi.
+6. Ngarkohet Ministria e Infrastrukturës dhe Energjisë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
