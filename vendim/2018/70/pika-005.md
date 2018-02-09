@@ -1,0 +1,1 @@
+5. Shkolla e lartë universitare jopublike “Justicia”, Tiranë, të arkivojë të gjithë dokumentacionin mësimor, administrativ dhe financiar, në Drejtorinë e Përgjithshme të Arkivave, në përputhje me kuadrin ligjor mbi arkivat brenda datës 28 shkurt 2018.

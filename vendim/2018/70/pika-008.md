@@ -1,0 +1,2 @@
+8. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë, Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme, Qendra Kombëtare e Biznesit, Drejtoria e Përgjithshme e Arkivave, Qendra e Shërbimeve Arsimore, Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë, si dhe shkolla e lartë universitare jopublike “Justicia”, Tiranë, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

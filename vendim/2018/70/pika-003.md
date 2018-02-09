@@ -1,0 +1,1 @@
+3. Shkolla e lartë universitare jopublike “Justicia”, Tiranë, të vërë në dispozicion të Ministrisë së Arsimit, Sportit dhe Rinisë çdo informacion të kërkuar dhe të vazhdojë të mbajë kontakte me të deri në plotësimin dhe mbylljen e të gjitha kërkesave të parashikuara në këtë vendim.
