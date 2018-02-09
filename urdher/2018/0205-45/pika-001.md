@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave administrative të ministrit të Bujqësisë dhe Zhvillimit Rural për firmosjen e urdhrave për dërgim jashtë shtetit mbas miratimit të autorizimit, Sekretarit të Përgjithshëm të Ministrisë së Bujqësisë dhe Zhvillimit Rural, znj. Aurora Alimadhi.
