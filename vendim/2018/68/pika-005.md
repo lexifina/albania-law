@@ -1,0 +1,1 @@
+5. Vendimi nr. 139, datë 14.3.2007, i Këshillit të Ministrave, “Për kufijtë e përcaktimit të pagës në natyrë dhe kriteret e përllogaritjes së shpërblimit, që i shtohet pagës për leje vjetore”, shfuqizohet.

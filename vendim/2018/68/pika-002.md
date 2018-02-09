@@ -1,0 +1,5 @@
+2. Vlera, mënyrat dhe kriteret e dhënies së pagës në natyrë do të jenë, si më poshtë vijon:
+a) Kufiri i vlerës së shpërblimit në formën e pagës në natyrë do të jetë deri në masën 300 (treqind) lekë për një vakt dhe deri në masën 500 (pesëqind) lekë, kur trajtohet me më shumë se një vakt për ditë pune;
+b) Në kontratën kolektive apo individuale të punës, palët mund të përcaktojnë edhe trajtime të tjera, si dhe ndryshimin e kufijve të pagës në natyrë, në bazë të indeksit të çmimeve të konsumit;
+c) Shpërblimi në formën e pagës në natyrë mund të jepet në trajtim ushqimor, kupon dhe mall. Në raste të veçanta, kur nuk ekzistojnë mundësitë për dhënien e shpërblimit në asnjë nga këto forma, punonjësit i jepet shpërblimi në para dhe ky shpërblim, për efekte fiskale, trajtohet si paga;
+ç) Masa e shpërblimit në formën e pagës në natyrë përcaktohet në kontratën kolektive apo individuale të punës. Në rastet kur paga në natyrë zbritet nga paga e punonjësit, atëherë shuma e këtij shpërblimi për të gjithë muajin nuk mund të kalojë 20 % (njëzet) për qind të pagës mujore.

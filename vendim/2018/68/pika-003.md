@@ -1,0 +1,1 @@
+3. Punëdhënësi është i detyruar t’i sigurojë strehim punëmarrësit, në kushtet kur ky i fundit nuk ka mundësi të kthehet në vendbanimin e tij për shkak të largësisë së vendit të punës me qendrën e vendbanimit.
