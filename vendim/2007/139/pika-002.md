@@ -1,1 +1,0 @@
-2. Paga në natyrë përcaktohet në kontratën, kolektive apo individuale, të punës. Në kontratën kolektive apo individuale të punës, palët mund të përcaktojnë edhe trajtime të tjera, si dhe ndryshimin e kufijve të pagës në natyrë, në bazë të indeksit të çmimeve të konsumit.
