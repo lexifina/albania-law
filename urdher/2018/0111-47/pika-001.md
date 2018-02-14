@@ -1,0 +1,1 @@
+1. Miratimin e Rregullores “Për organizimin, të drejtat, detyrat dhe funksionimin e Komisionit Mjekësor të Caktimit të Aftësisë për Punë, për vlerësimin e personave me aftësi të kufizuara dhe Komisionit Mjekësor të Përcaktimit të Verbërisë”, bashkëngjitur këtij urdhri, si pjesë përbërëse e tij.
