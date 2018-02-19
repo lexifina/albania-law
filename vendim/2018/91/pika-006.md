@@ -1,0 +1,1 @@
+6. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës, në rastet e parashikuara në pikat 2 e 3, të këtij vendimi, edhe kur provat apo argumentet paraqiten me gojë, mban një procesverbal, i cili nënshkruhet nga kryetari dhe dy punonjës të Agjencisë Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës.

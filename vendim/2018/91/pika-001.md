@@ -1,0 +1,1 @@
+1. Kontrolli i shkeljes të të drejtave të fëmijës, mospërmbushja e detyrimeve ligjore nga strukturat përkatëse të mbrojtjes së fëmijës dhe vendosja e sanksioneve organizohen dhe kryhen nga Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës, në bazë të procedurave të përcaktuara në këtë vendim.

@@ -1,0 +1,1 @@
+5. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës bashkëpunon me strukturat përkatëse shtetërore, organet e medias e të shtypit dhe, brenda kuadrit ligjor përkatës, me strukturat e policisë dhe të prokurorisë, për mbledhjen e informacionit dhe kryerjen e kontrollit.

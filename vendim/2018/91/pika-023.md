@@ -1,0 +1,1 @@
+23. Vendimi i kryetarit të Agjencisë Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës për vendosjen e gjobës u njoftohet palëve, si dhe personit i cili ka paraqitur ankesë apo kërkesë dhe, në çdo rast, fëmijës, prindërve, kujdestarit apo përfaqësuesit të tij ligjor, brenda 8 (tetë) ditëve nga dita e marrjes së tij.

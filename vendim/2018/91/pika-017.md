@@ -1,0 +1,1 @@
+17. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës përfundon procedurat e parashikuara në pikën 13, të këtij vendimi, brenda 30 (tridhjetë) ditëve nga dita e marrjes së ankesës, kërkesës apo informacionit.

@@ -1,0 +1,1 @@
+7. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës miraton dhe publikon në faqen e saj zyrtare elektronike formularin “tip” të ankesës/kërkesës. Agjencia ose një nga strukturat përgjegjëse për mbrojtjen e fëmijës asiston subjektet në plotësimin e formularit.

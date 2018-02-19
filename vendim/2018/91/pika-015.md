@@ -1,0 +1,1 @@
+15. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës dokumenton në një relacion përmbledhës, i cili nënshkruhet nga kryetari, të gjitha veprimet e kryera në kuadër të verifikimit dhe të kontrollit të çdo ankese, kërkese apo të kontrollit të iniciuar nga vetë agjencia.

@@ -1,0 +1,1 @@
+14. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës, brenda afatit të përcaktuar në pikën 12, të këtij vendimi, fillon procedurën e vendosjes së sanksionit për mospërmbushje të detyrimeve ligjore në rast se subjekti kundër të cilit është paraqitur ankesa nuk i paraqet parashtrimet e tij me shkrim.

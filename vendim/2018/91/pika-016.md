@@ -1,0 +1,1 @@
+16. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës dokumenton në procesverbal të gjitha veprimet e kryera në kuadër të verifikimit dhe të kontrollit të çdo ankese, kërkese për informacion apo të kontrollit të iniciuar nga vetë ajo dhe i pasqyron ato në një relacion përmbledhës lidhur me çështjen, i cili bëhet pjesë e dosjes përkatëse, e cila arkivohet.
