@@ -1,0 +1,1 @@
+1. Miratimin e kushteve dhe përcaktimin e rregullave për transportin rrugor të nxënësve të arsimit parashkollor, profesional parauniversitar dhe të studentëve, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

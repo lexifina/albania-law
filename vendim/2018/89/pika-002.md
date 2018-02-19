@@ -1,0 +1,1 @@
+2. Vendimi nr. 1101, datë 28.12.2015, i Këshillit të Ministrave, “Për miratimin e kushteve dhe përcaktimin e rregullave për transportin rrugor të nxënësve të arsimit parashkollor parauniversitar dhe studentëve”, i ndryshuar, shfuqizohet.
