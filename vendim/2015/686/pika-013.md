@@ -1,0 +1,1 @@
+13. AKM-ja, brenda 30 (tridhjetë) ditëve kalendarike nga data e marrjes së aplikimit, shqyrton dokumentacionin dhe harton Deklaratën Mjedisore, sipas kritereve të përcaktuara në shtojcën III, bashkëlidhur këtij vendim, dhe ia dërgon ministrit.

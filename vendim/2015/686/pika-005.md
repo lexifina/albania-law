@@ -1,0 +1,1 @@
+5. ARM-ja, brenda 3 (tre) ditëve kalendarike nga data e marrjes së dokumentacionit nga AKM-ja, u dërgon një kopje të tij njësisë/ve së qeverisjes vendore (NJQV) që administron territorin ku propozohet projekti asaj/atyre që preken nga projekti i propozuar, të cilat shprehen, brenda 6 (gjashtë) ditëve kalendarike pune nga marrja e shkresës së ARM-së.

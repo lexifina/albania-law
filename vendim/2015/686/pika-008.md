@@ -1,0 +1,1 @@
+8. AKM-ja mbështetet në kriteret ndihmëse të shtojcës 1, bashkëlidhur këtij vendimi, në përputhje me përcaktimet e nenit 11, të ligjit nr. 10440, datë 7.7.2011, “Për vlerësimin e ndikimit në mjedis”, të ndryshuar, për marrjen e vendimit.

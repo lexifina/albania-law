@@ -1,0 +1,1 @@
+7. AKM-ja, brenda 30 (tridhjetë) ditëve kalenda-rike nga data e marrjes së aplikimit, merr vendimin për VNM-në paraprake ose vendos që projekti t’i nënshtrohet procedurës së thelluar të VNM-së, sipas formatit të shtojcës IV, bashkëlidhur këtij vendimi, ia përcjell vendimin Ministrisë dhe e publikon në faqen e saj elektronike.
