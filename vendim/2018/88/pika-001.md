@@ -1,0 +1,1 @@
+1. Riorganizimin e Qendrës Ndëruniversitare të Shërbimeve dhe Rrjetit Telematik (QNSHRRT) në Qendrën Ndërinstitucionale të Rrjetit Akademik Shqiptar (RASH), sipas marrëveshjes së krijimit ndërmjet universiteteve dhe Ministrisë së Arsimit, Sportit dhe Rinisë, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

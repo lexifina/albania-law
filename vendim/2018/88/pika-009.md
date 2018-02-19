@@ -1,0 +1,1 @@
+9. Në listën 2, që i bashkëlidhet vendimit nr. 673, datë 22.11.2017, të Këshillit të Ministrave, “Për riorganizimin e Agjencisë Kombëtare të Shoqërisë së Informacionit”, emërtimi “Qendra Ndëruniversitare e Shërbimeve dhe e Rrjetit Telematik” hiqet.

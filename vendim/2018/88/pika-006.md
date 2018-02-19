@@ -1,0 +1,1 @@
+6. Qendra Ndërinstitucionale e Rrjetit Akademik Shqiptar do të vijojë të përdorë të gjitha asetet e luajtshme dhe të paluajtshme që disponon, si kontribut në natyrë i bashkëkrijuesit, Ministria e Arsimit, Sportit dhe Rinisë.

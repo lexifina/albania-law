@@ -1,0 +1,1 @@
+2. Qendra Ndërinstitucionale e Rrjetit Akademik Shqiptar ka statusin e personit juridik publik dhe gëzon autonomi financiare, organizative dhe të përzgjedhjes së personelit. Fushat e kërkimit dhe objekti i veprimtarisë së Qendrës Ndërinstitu-cionale të Rrjetit Akademik Shqiptar të jenë për institucionet e arsimit të lartë dhe kërkimin shkencor.
