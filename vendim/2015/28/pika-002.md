@@ -1,1 +1,0 @@
-2. Ministria e Punëve të Brendshme të prokurojë fondin limit, të llogaritur si shumë e fondeve buxhetore, të miratuar për çdo institucion, për secilin nga mallrat dhe shërbimet e përmendura në pikën 1, të këtij vendimi.
