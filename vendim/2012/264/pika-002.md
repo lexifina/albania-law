@@ -1,1 +1,0 @@
-2. ASHMDF-ja fillon procedurën e kryerjes së kontrollit edhe me nismën e vet, kur vëren ose dyshon se ka ndodhur një shkelje e së drejtës, për raste të veçanta të bëra publike, por, në çdo rast, me pëlqimin e fëmijës, prindit, kujdestarit ose përfaqësuesit ligjor të fëmijës.

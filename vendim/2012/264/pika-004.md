@@ -1,1 +1,0 @@
-4. Subjektet e parashikuara në pikën 1 të këtij vendimi, së bashku me kërkesën paraqesin edhe provat e disponueshme para ASHMDF-së, me shkrim ose, në raste përjashtimore, gojarisht, me kusht që të mbahet procesverbal.

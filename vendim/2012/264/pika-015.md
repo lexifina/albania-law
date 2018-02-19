@@ -1,3 +1,0 @@
-15. Vendimi i kryetarit të ASHMDF-së mund të merret:
-a) për të urdhëruar organin e administratës publike/personin në funksione publike, personin, fizik ose juridik, kundër të cilit është paraqitur ankesa, për marrjen e masave ose kryerjen e rregullimeve të duhura, duke caktuar edhe një afat për kryerjen e tyre. Kundër këtij vendimi mund të bëhet ankim në gjykatën kompetente sipas afateve të parashikuara në nenin 137 e në vijim të Kodit të Procedurave Administrative;
-b) për të vendosur gjobë ndaj organit të administratës publike/personit në funksione publike, personit fizik ose juridik. Kundër këtij vendimi mund të bëhet ankim sipas përcaktimeve të nenit 41 të ligjit nr. 10 347, datë 4.11.2010 “Për mbrojtjen e të drejtave të fëmijës”.

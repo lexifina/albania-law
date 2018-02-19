@@ -1,1 +1,0 @@
-20. Në rast se subjekti, kundër të cilit është paraqitur ankesa, nuk e informon ASHMDF-në brenda afatit të përcaktuar në pikën 19 të këtij vendimi, ose nuk e zbaton vendimin, kryetari i ASHMDF-së vendos masë për ndëshkimin me gjobë për subjektin, kundër të cilit është paraqitur ankesa.
