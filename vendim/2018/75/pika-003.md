@@ -1,0 +1,1 @@
+3. Fondet e përfituara në formë granti nga institucionet publike të arsimit të lartë dhe të papërdorura në fund të vitit financiar, në përputhje me rregullat dhe standardet e menaxhimit financiar publik, trashëgohen në vitin pasardhës.
