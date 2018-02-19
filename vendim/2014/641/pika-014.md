@@ -1,0 +1,1 @@
+14. Komunikimi midis ministrisë dhe autoriteteve kompetente të destinacionit dhe të transitit bëhet në gjuhë të pranueshme nga autoriteti kompetent i destinacionit. Në çdo rast, gjuha e përdorur është ajo angleze.

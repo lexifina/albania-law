@@ -1,0 +1,5 @@
+25. Personi, që kërkon të pajiset me autorizim për kalimin transit të mbetjeve jo të rrezikshme dhe mbetjeve inerte nëpër territorin e Republikës së Shqipërisë, përgatit dhe dorëzon në ministrinë përgjegjëse për mjedisin dokumentet e mëposhtme:
+a) Kërkesën, në të cilën shprehen qartë të dhënat personale dhe juridike të kërkuesit dhe bëhet një përshkrim i shkurtër i mbetjeve që do të transitohen, ku të përcaktohen lloji, sasia, vendi ku e merr, pika kufitare e hyrjes dhe daljes nga territori i Republikës së Shqipërisë, shtetet nëpër të cilat do të kalojë, mjeti me të cilin do të transportojë mbetjet.
+b) Kopjen e përkthyer dhe të noterizuar në gjuhën shqipe të kontratës së lidhur midis personit që eksporton dhe personit që merr në dorëzim mbetjet për menaxhimin e integruar të tyre.
+c) Formularin e plotësuar, sipas aneksit 3 bashkëlidhur këtij vendimi.
+ç)Faturën (mandat-arkëtimi) që provon se ka paguar tarifën e shërbimit në llogarinë bankare të Ministrisë, në shumën 20 000 (njëzet mijë) lekë, e cila është e pakthyeshme.

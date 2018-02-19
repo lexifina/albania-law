@@ -1,0 +1,1 @@
+32. Çdo autorizim mban një kod të veçantë shifror i cili fillon me siglën AL. Kodi është i ndryshëm për çdo autorizim të dhënë, fillon të rinumërohet çdo fillim viti kalendarik dhe nuk përsëritet. Kodi përbëhet nga 3 (tre) numra dhe viti kur lëshohet autorizimi i ministrit, sipas modelit në aneksin 4 bashkëlidhur këtij vendimi.

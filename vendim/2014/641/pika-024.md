@@ -1,0 +1,1 @@
+24. Të dhënat e ruajtura sipas pikës 23, të këtij vendimi, raportohen në ministri çdo 6 (gjashtë) muaj gjatë afatit të autorizimit. Këto të dhëna raportohen edhe në Agjencinë Kombëtare të Mjedisit dhe/ose Inspektoratin Shtetëror për Mjedisin, Pyjet dhe Ujërat me kërkesën e tyre me shkrim. Ministria krijon bazën e të dhënave për eksportin dhe transitin e mbetjeve.

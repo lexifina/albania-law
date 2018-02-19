@@ -1,0 +1,1 @@
+30. Në raste të refuzimit të kërkesës për pajisje me autorizimin për eksportin e mbetjeve dhe kalimin transit të mbetjeve jo të rrezikshme apo mbetjeve inerte, personi mund të ankohet në përputhje me Kodin e Procedurave Admi-nistrative.

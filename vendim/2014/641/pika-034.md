@@ -1,0 +1,1 @@
+34. Mosrespektimi i kushteve dhe kërkesave të parashikuara në këtë vendim kur nuk përbën vepër penale, përbën kundërvajtje administrative, siç parashikohet në nenin 62, të ligjit nr. 10463, datë 22.9.2011, “Për menaxhimin e integruar të mbetjeve”, të ndryshuar.

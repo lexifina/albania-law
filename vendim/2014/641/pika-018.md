@@ -1,0 +1,1 @@
+18. Afati i shqyrtimit të dokumentacionit për dhënien e autorizimit, sipas pikës 16, të këtij vendimi, është 20 (njëzet) ditë pune nga data e marrjes së kërkesës. Ministria mund t’i kërkojë personit plotësim të dokumentacionit. Në këtë rast, afati për plotësimin e dokumentacionit nuk përllogaritet në afatin prej 20 (njëzet) ditësh.

@@ -1,0 +1,1 @@
+9. Ministria njofton në rrugë zyrtare autoritetin kompetent të destinacionit dhe autoritetin/et kompetent/e të transitit në momentin e marrjes së kërkesës për eksport të mbetjeve sipas pikës 7, të këtij vendimi.

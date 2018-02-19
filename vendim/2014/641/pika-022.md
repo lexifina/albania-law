@@ -1,0 +1,1 @@
+22. Për transfertat e mbetjeve që kanë për qëllim kryerjen e analizave laboratorike për të vlerësuar karakteristikat e tyre fizike ose kimike ose për të përcaktuar përshtatshmërinë e tyre për operacione rikuperimi ose asgjësimi, në një sasi deri në 25 kg, personi plotëson anekset 2 dhe 3 bashkëlidhur këtij vendimi dhe ia paraqet degës doganore të daljes.

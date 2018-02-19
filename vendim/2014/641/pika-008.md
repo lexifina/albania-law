@@ -1,0 +1,1 @@
+8. Kontrata, sipas shkronjës “d”, të pikës 7, e lidhur midis personit që eksporton mbetjet dhe personit që i merr në dorëzim mbetjet për t’i menaxhuar, duhet të jetë efektive që nga aplikimi për autorizimin për eksport deri në përfundim të vlefshmërisë së autorizimit për të gjithë kohë-zgjatjen e transfertave të mbetjeve.

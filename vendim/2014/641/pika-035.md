@@ -1,0 +1,1 @@
+35. Me hyrjen në fuqi të këtij vendimi, rregullorja e ministrit të Mjedisit nr. 4, datë 15.10.2003, “Për kërkimin, shqyrtimin dhe miratimin e lejeve të eksportimit dhe të kalimit transit të mbetjeve”, shfuqizohet.

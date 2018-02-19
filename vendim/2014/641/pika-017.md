@@ -1,0 +1,1 @@
+17. Kontrata, sipas shkronjës “d”, të pikës 16, të këtij vendimi, e lidhur midis personit që eksporton mbetjet dhe personit që i merr në dorëzim mbetjetpër rikuperimin, duhet të jetë efektive që nga aplikimi për autorizimin për eksport deri në përfundim të vlefshmërisë së autorizimit për të gjithë kohëzgjatjen e transfertave të mbetjeve.
