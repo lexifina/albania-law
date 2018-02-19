@@ -1,0 +1,1 @@
+21. ARM-ja, brenda 5 (pesë) ditëve pune, harton aktmiratimin për transferimin e aktit të miratimit të lejes së mjedisit të tipit C, i cili firmoset nga titullari i ARM-së së qarkut përkatës dhe e dërgon tek AKM-ja.

@@ -1,0 +1,1 @@
+5. Ministri, brenda 5 (pesë) ditëve pune nga data e marrjes, firmos aktin e miratimit/refuzimit të lejes së mjedisit të tipit A ose ia kthen praktikën AKM-së për shtesa apo ndryshime të këtij akti të shoqëruar me argumentet përkatëse.

@@ -1,0 +1,1 @@
+15. AKM-ja, gjatë hartimit të aktit të miratimit të lejes së mjedisit të tipit A dhe B, merr parasysh çdo koment, informacion, analizë apo mendim të paraqitur nga publiku që vlerësohet i vlefshëm dhe argumenton arsyet kur ato nuk janë marrë parasysh.
