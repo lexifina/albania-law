@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i godinës së re 8-katëshe të mjekësisë së përgjithshme në Qendrën Spitalore Universitare “Nënë Tereza”, Tiranë”.

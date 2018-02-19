@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 9 006 734.98 (nëntë milionë e gjashtë mijë e shtatëqind e tridhjetë e katër pikë nëntëdhjetë e tetë) lekësh, dhe shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë, të përballohen nga të ardhurat e Qendrës Spitalore Universitare “Nënë Tereza”, Tiranë.
