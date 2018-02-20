@@ -1,0 +1,1 @@
+2. Ministria e Infrastrukturës dhe Energjisë, brenda muajit shtator 2018, të përgatitë dhe të paraqesë për shqyrtim e miratim në Këshillin Kombëtar të Territorit materialin “Masterplani i gazit natyror për Shqipërinë dhe identifikimi i projekteve prioritare në fushën e gazit natyror”.
