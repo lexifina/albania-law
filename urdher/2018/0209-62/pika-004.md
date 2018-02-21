@@ -1,0 +1,1 @@
+4. Strukturat veterinare në njësitë e qeverisjes vendore organizojnë mbledhjen e kadavrave të kafshëve për të cilat është kryer eutanazia dhe të përcaktojnë vendet e groposjes ose të grumbullimit të tyre.

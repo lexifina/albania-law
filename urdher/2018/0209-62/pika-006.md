@@ -1,0 +1,1 @@
+6. Groposja e kadavrave të kafshëve të eliminuara bëhet nga komisioni i ngritur me urdhër të titullarit të qeverisjes vendore, në përbërjen e të cilit janë veterineri privat i subjektit, veterineri zyrtar i shërbimit veterinar rajonal, veterineri në njësinë e qeverisjes vendore dhe përfaqësuesi i administratës së njësisë vendore.
