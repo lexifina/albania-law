@@ -1,0 +1,2 @@
+7. Për zbatimin e këtij udhëzimi ngarkohen Sekretari i Përgjithshëm, Drejtoria e Integrimit Koordinimit, Marrëveshjeve dhe Asistencës, Drejtoria e Programeve të Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Buxhetit dhe Menaxhimit Financiar në MASR, Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit dhe institucionet e arsimit të lartë në Republikën e Shqipërisë.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

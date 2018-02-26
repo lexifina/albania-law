@@ -1,0 +1,1 @@
+2. Bursat CEEPUS III janë bursa “të plota”, të cilat mbulojnë shpenzimet e jetesës, tarifat universitare për të cilat nuk është parashikuar përjashtimi i tyre në marrëveshje, akomodimin dhe sigurimin shëndetësor bazë, kur kjo zbatohet në vendin pritës. Bursat CEEPUS III janë në përputhje me legjislacionin shqiptar në fuqi dhe me koston e jetesës në vendin pritës.
