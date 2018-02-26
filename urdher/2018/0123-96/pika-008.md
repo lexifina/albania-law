@@ -1,0 +1,1 @@
+8. Kapaciteti i rrjeteve të tubacioneve të kërkim-prodhimit do të konsiderohet si i ndarë për pjesëmarrësit e tregut të gazit dhe, për këtë arsye, do të jetë i garantuar plotësisht nga zotëruesi i gazsjellësit nga data e lidhjes së kontratës së aksesit.

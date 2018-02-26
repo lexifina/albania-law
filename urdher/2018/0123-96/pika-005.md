@@ -1,0 +1,1 @@
+5. Pas konfirmimit paraprak nga ministria, zotëruesi i gazsjellësit do të publikojë në faqen e tij kapacitetin e përgjithshëm të rrjeteve të kërkim-prodhimit, nën operimin e tij dhe kapacitetin në dispozicion për akses të negociuar me to.
