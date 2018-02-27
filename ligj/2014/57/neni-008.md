@@ -1,0 +1,5 @@
+# Neni 8
+Forma të tjera këshillimi të Këshillit Ekonomik Kombëtar
+1. Me akt nënligjor të Kryetarit të Këshillit Ekonomik Kombëtar dhe me propozim të ministrit përgjegjës apo të Sekretarit të Përgjithshëm mund të krijohen komisione këshillimi, si struktura ad hoc të këshillit për të mbuluar fusha dhe sektorë specifikë. Komisionet e këshillimit janë të përkohshme dhe përfundojnë funksionimin e tyre me mbarimin e detyrave që u janë ngarkuar. Ato drejtohen nga ministri përgjegjës. Komisionet e këshillimit kryejnë detyrat e përcaktuara në aktin e krijimit të tyre. Me propozimin e tyre dhe me vendim të Këshillit Ekonomik Kombëtar, ato mund të ngrenë sekretariate të këshillimit sektorial.
+2. Këshilli Ekonomik Kombëtar mund të organizojë, nëpërmjet sekretariatit teknik të tij, takime midis grupeve të interesit dhe organeve e institucioneve të ndryshme të administratës shtetërore, që do të ndërmerren me kërkesë të grupeve të interesit apo organeve shtetërore.
+3. Këshilli Ekonomik Kombëtar mund të organizojë edhe forma të tjera këshillimi, të cilat mund të jenë të përshtatshme sipas rastit.
