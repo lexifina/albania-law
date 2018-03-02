@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese të marrëveshjes së grantit nr. TF0A1769, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve të grantit të akorduar nga Fondi i Mirëbesimit me Shumë Donatorë, për financimin e projektit të zbatimit të Nismës për Transparencë në Industrinë Nxjerrëse në Shqipëri (EITI), sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
