@@ -1,1 +1,0 @@
-13. Pranë Ministrit të Punës dhe të Çështjeve Sociale ngrihet dhe funksionon komisioni i shqyrtimit të kërkesave për licencimin e këtyre agjencive. Mënyra e funksionimit dhe përbërja e komisionit përcaktohen me udhëzim të Ministrit të Punës dhe të Çështjeve Sociale.

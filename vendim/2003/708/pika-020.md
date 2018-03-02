@@ -1,1 +1,0 @@
-20. Kërkesa për ripërtëritjen e licencës duhet të bëhet 45 ditë para afatit të skadimit të vlefshmërisë së licencës. Përveç kërkesave të parashikuara në pikën 14 të këtij vendimi kërkohet edhe një raport me shkrim për veprimtarinë e agjencisë.

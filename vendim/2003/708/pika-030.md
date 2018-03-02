@@ -1,1 +1,0 @@
-30. Vendimet nr.71, datë 11.2.1999 ”Për mënyrën e licencimit dhe të funksionimit të agjencive private të punësimit” dhe nr.72, datë 11.2.1999 ”Për mënyrën e licencimit dhe funksionimin e zyrave private të emigracionit” të Këshillit të Ministrave, shfuqizohen.

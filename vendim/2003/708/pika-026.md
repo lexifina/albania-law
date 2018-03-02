@@ -1,1 +1,0 @@
-26. Inspektorati Shtetëror i Punës kryen inspektime periodike për të përcaktuar përputhshmërinë e veprimtarisë së agjencisë me legjislacionin përkatës dhe, kur vëren shkelje, njofton komisionin e licencimit.

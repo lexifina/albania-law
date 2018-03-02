@@ -1,1 +1,0 @@
-24. Agjencia, përveç rasteve kur lidhet drejtpërdrejt me kërkesat për një profesion të veçantë ose me pëlqimin e punëkërkuesit të interesuar, nuk duhet të kërkojë, të ruajë ose të përdorë të dhëna për gjendjen mjekësore të një punëkërkuesi ose të përdorë një të dhënë të tillë për përcaktimin e përshtatshmërisë së tij për punësim.

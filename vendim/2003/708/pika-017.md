@@ -1,1 +1,0 @@
-17. Komisioni i licencimit, pasi bën vlerësimin e kërkesës dhe të dokumentacionit të paraqitur nga subjektet e interesuara dhe nga Inspektorati Shtetëror i Punës, i propozon Ministrit të Punës dhe të Çështjeve Sociale miratimin ose refuzimin e dhënies së licencës.
