@@ -1,0 +1,1 @@
+14. Përpunimi i të dhënave të punëkërkuesit nga agjencia bëhet duke respektuar konfidencialitetin dhe përdorimin e të dhënave, sipas natyrës së punës dhe nuk përhapet për asnjë lloj tjetër qëllimi, përveç atij për të cilin janë dhënë, duke përjashtuar rastet kur është dhënë pëlqimi me shkrim nga personi që e jep informacionin.

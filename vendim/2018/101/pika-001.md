@@ -1,0 +1,1 @@
+1. Veprimtaria private e ndërmjetësimit në punë të ushtrohet vetëm nga agjencitë private të punësimit (në vijim, agjencia), të licencuara, pas përmbushjes së kërkesave të përcaktuara në legjislacionin për licencat, në përputhje me parashikimin e pikës 3, të këtij vendimi.
