@@ -1,0 +1,1 @@
+6. Kryetari dhe anëtarët e këshillit drejtues të Agjencisë Kombëtare të Diasporës shpërblehen sipas vendimit nr. 418, datë 27.6.2012, të Këshillit të Ministrave, “Për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose komisioneve të njësive të qeverisjes qendrore”, të ndryshuar.

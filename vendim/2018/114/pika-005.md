@@ -1,0 +1,1 @@
+5. Ministri përgjegjës për diasporën, 30 (tridhjetë) ditë para mbarimit të mandatit 4-vjeçar ose menjëherë pas shkarkimit të anëtarit, i kërkon ministrisë së përfaqësuar në këshillin drejtues të Agjencisë Kombëtare të Diasporës paraqitjen e emrit të kandidatit për anëtar të këtij këshilli.

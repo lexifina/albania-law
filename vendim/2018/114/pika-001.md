@@ -1,0 +1,1 @@
+1. Anëtarët e këshillit drejtues të Agjencisë Kombëtare të Diasporës emërohen dhe shkarkohen me urdhër të ministrit përgjegjës për diasporën, me propozim të ministrit përkatës, sipas përbërjes së përcaktuar në pikën 2, të nenit 7, të ligjit nr. 115/2017, “Për krijimin e Agjencisë Kombëtare të Diasporës”.
