@@ -1,0 +1,4 @@
+4. Programimi dhe financimi i shërbimeve të kujdesit shoqëror
+4.1. Njësia e vetëqeverisjes vendore vlerëson nevojat për ofrimin e shërbimeve të kujdesit shoqëror në nivel vendor, në përputhje me planin strategjik të zhvillimit dhe me programin buxhetor afatmesëm.
+4.2. Njësia e vetëqeverisjes vendore vlerëson kapacitetet financiare dhe burimet njerëzore që mbështesin ofrimin e shërbimeve të kujdesit shoqëror në nivel vendor. Deri në miratimin e standardeve kombëtare, bashkitë duhet të marrin në konsideratë që të vazhdojnë ofrimin e të paktën atyre shërbimeve që kanë ofruar gjatë tri viteve të fundit.
+4.3. Ministria përgjegjëse për çështjet sociale parashikon në buxhetin e saj fonde për financimin e shërbimeve të përkujdesjes shoqërore, të cilat u transferohen njësive të vetëqeverisjes vendore ku funksionojnë këto shërbime, bazuar në planet sociale të buxhetuara.

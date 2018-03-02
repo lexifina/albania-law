@@ -1,0 +1,1 @@
+1. Krijimin e fondit social të mekanizmit financiar, nëpërmjet të cilit sigurohet mbështetje financiare për njësitë e vetëqeverisjes vendore, me qëllim përmirësimin e standardeve e të kapaciteteve administruese të shërbimeve ekzistuese të kujdesit shoqëror, planifikimin e krijimin e shërbimeve të reja, si dhe zhvillimin e politikave sociale.

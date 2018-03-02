@@ -1,0 +1,4 @@
+5. Ofrimi i shërbimeve të kujdesit shoqëror
+5.1. Të gjitha shërbimet e përkujdesjes shoqërore, të parashikuara në kreun II, të ligjit për shërbimet e kujdesit shoqëror, të cilat konsiderohen si parësore nga bashkia, por që nuk mund të ofrohen prej saj, mund të ofrohen nga organizata jofitimprurëse, si ndërmarrje sociale apo struktura të ngjashme me to, që operojnë në këtë fushë private.
+5.2. Njësia e vetëqeverisjes vendore prokuron shërbimet e kujdesit shoqëror dhe lidh kontratat me ofruesit e shërbimit, duke u dhënë përparësi ndërmarrjeve sociale në ofrimin e këtyre shërbimeve.
+5.3. Ofruesit privatë, të kontraktuar nga njësia e vetëqeverisjes vendore dhe organizatat jofitim-prurëse, ofrojnë shërbimet e kujdesit shoqëror, si pjesë e kontratës ose e marrëveshjes së bashkë-punimit ndërmjet palëve.

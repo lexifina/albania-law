@@ -1,0 +1,4 @@
+6. Monitorimi dhe raportimi për ofrimin e shërbimeve të kujdesit shoqëror
+6.1. Njësia e vetëqeverisjes vendore raporton, çdo katër muaj, në lidhje me ofrimin e shërbimeve të kujdesit shoqëror, financuar me anë të fondit social, pranë Shërbimit Social Shtetëror.
+6.2. Inspektorati që mbulon fushën e shërbimeve të kujdesit shoqëror, në përputhje me funksionet dhe kompetencat e parashikuara në nenin 35, të ligjit për shërbimet e kujdesit shoqëror, siguron zbatueshmërinë e standardeve të shërbimeve shoqërore të orfuara nga subjektet e kontraktuara nga njësitë e vetëqeverisjes vendore.
+6.3. Njësia e vetëqeverisjes vendore, paralelisht, monitoron ofrimin e shërbimeve të kujdesit shoqëror, sipas standardeve e treguesve të performancës, përcaktuar në marrëveshjen kontraktuale me nënkontratorët privatë dhe sipas marrëveshjes së bashkëpunimit me organizatat jofitimprurëse.
