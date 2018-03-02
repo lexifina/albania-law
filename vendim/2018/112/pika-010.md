@@ -1,0 +1,1 @@
+10. Komisioni për Dhënien e Gradës Shkencore “Doktor”, i cili monitoron procesin për dhënien e gradës shkencore “doktor”, përbëhet nga jo më pak se 5 (pesë) anëtarë të zgjedhur të njësisë kryesore ku ofrohet programi i doktoratës, që kanë titullin akademik “profesor i asociuar” ose “profesor”.

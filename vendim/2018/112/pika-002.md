@@ -1,0 +1,1 @@
+2. Grada shkencore “doktor” fitohet pas mbrojtjes me sukses të tezës së disertacionit, në përfundim të studimeve të doktoratës në fushën e arsimit të lartë dhe kërkimit shkencor, sipas kritereve dhe brenda afateve të përcaktuara nga legjislacioni për arsimin e lartë dhe kërkimin shkencor.

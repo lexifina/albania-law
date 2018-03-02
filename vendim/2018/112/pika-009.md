@@ -1,0 +1,1 @@
+9. Nëse njësia bazë jep vlerësim negativ për disertacionin dhe/ose dosjen, kandidati ka të drejtë të riparaqesë disertacionin dhe/ose dosjen të plotësuar pas një periudhe jo më të shkurtër se 3 (tre) muaj.
