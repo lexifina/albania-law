@@ -1,0 +1,1 @@
+8. Aktiviteti i shoqërisë “Albgaz” sh.a., për periudhën nga krijimi i saj deri më 31 dhjetor 2017, të financohet nëpërmjet fondeve që do të sigurohen nga marrëveshja e huas, e lidhur me shoqërinë “Albpetrol” sh.a. dhe/ose fondet që siguron mbi bazën e marrëveshjeve me institucione financiare dhe/ose donatorë vendas apo ndërkombëtarë.

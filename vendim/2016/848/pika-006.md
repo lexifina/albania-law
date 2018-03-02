@@ -1,0 +1,3 @@
+6. Ministri i Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes dhe ministri i Energjisë dhe Industrisë, brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të këtij vendimi, ndjekin procedurat e nevojshme, për:
+a) regjistrimin e zvogëlimit të kapitalit të shoqërisë “Albpetrol” sh.a., transferimin e vlerës së kapitalit të zvogëluar te shoqëria “Albgaz” sh.a., si dhe përmbylljen e procedurave për regjistrimin e shoqërisë “Albgaz” sh.a., në Qendrën Kombëtare të Biznesit;
+b) emërimin e anëtarëve të Këshillit Mbikëqyrës të shoqërive “Albgaz” sh.a. dhe “Albpetrol” sh.a., duke respektuar kufizimet e përcaktuara në ligjin nr. 102/2015, “Për sektorin e gazit natyror”.

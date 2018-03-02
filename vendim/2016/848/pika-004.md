@@ -1,0 +1,1 @@
+4. Ministria e Energjisë dhe Industrisë ushtron të drejtat mbi shoqërinë “Albgaz” sh.a., në përputhje me parashikimet e ligjit nr. 102/2015, “Për sektorin e gazit natyror”, dhe fushën e tij të përgjegjësisë shtetërore.
