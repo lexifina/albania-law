@@ -1,0 +1,1 @@
+9. Sektori i Statistikës i DAR/ZA-ve merr nga Qendra e Vlerësimit të Testit (QVT) dhe ruan të dhënat e çdo nxënësi, të vlerësuesve të jashtëm dhe të mjediseve ku është realizuar vlerësimi i arritjeve të nxënësve të arsimit fillor. Këto të dhëna dërgohen në QSHA, ISHA dhe MASR.
