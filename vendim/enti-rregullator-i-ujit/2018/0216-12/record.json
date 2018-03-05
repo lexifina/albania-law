@@ -1,0 +1,28 @@
+{
+  "qbz_id": 56268,
+  "title": "PËR NJË NDRYSHIM NË VENDIMIN NR. 15, DATË 28.4.2017, “PËR LICENCIMIN E SHA UJËSJELLËS-KANALIZIME TEPELENË",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "12",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2018-02-16",
+  "published": "2018-03-05",
+  "in_force": "2018-03-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d89a1cf47b437faed19f4d6efaefbd22df1bc03dd873f292e6dd5733d07ad391.docx",
+  "source_sha256": "d89a1cf47b437faed19f4d6efaefbd22df1bc03dd873f292e6dd5733d07ad391",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56268",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/02/16/12",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    22076
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
