@@ -1,0 +1,1 @@
+6. Studenti apo çdo person publik ka të drejtë të marrë informacion dhe/ose të paraqesë ankim për të kontaktuar strukturat përgjegjëse pranë Ministrisë së Arsimit, Sportit dhe Rinisë, në numrin e telefonit të publikuar në faqen elektronike zyrtare ose duke plotësuar letrën e ankesës që mund të shkarkohet nga kjo faqe, për rastet e mosrespektimit të këtij udhëzimi.
