@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rishikim i kalimeve këmbësore (trotuar) dhe i hapësirave publike në rrugën “Gjykatë - Akademia e Marinës - 7 pallatet”, faza I”, Vlorë.

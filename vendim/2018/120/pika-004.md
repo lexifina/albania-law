@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “truall” dhe “ndërtesë”, me vlerë 76 860 572 (shtatëdhjetë e gjashtë milionë e tetëqind e gjashtëdhjetë mijë e pesëqind e shtatëdhjetë e dy) lekë, të përballohet nga llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë.

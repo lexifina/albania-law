@@ -1,0 +1,1 @@
+7. Pronarët e përmendur në listat emërore “Shtojca 1” dhe “Shtojca 2”, që i bashkëlidhen këtij vendimi, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin e plotë të pronësisë pranë Bashkisë Vlorë.
