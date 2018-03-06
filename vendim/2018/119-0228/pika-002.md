@@ -1,0 +1,1 @@
+2. Numri i praktikantëve për kryerjen e praktikës profesionale me kontratë të përkohshme, sipas njësive arsimore vendore, dhe afati kohor i kontraktimit të praktikantëve përcaktohen në tabelën nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

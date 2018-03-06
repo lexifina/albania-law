@@ -1,0 +1,1 @@
+1. Miratimin e numrit të praktikantëve për kryerjen e praktikës profesionale me kontratë të përkohshme, për sistemin arsimor parauniversitar, për periudhën 1 janar - 15 qershor 2018 dhe 15 shtator - 31 dhjetor 2018, i cili të jetë 1 500 praktikantë.
