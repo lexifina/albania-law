@@ -1,0 +1,1 @@
+4. Ngarkohet znj. Migena Hajdari, përfaqësuese me prokurë të posaçme me nr. 689 rep., nr. 571 kol., të kryejë shoqërimin dhe kthimin e veprave në vendin e origjinës, sipas afateve dhe kushteve të përcaktuara në këtë vendim.

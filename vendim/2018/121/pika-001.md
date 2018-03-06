@@ -1,0 +1,1 @@
+1. Lejimin e lëvizjes jashtë territorit të Republikës së Shqipërisë të 11 veprave të Piktorit të Popullit Vangjush Mio, me qëllim ekspozimin e tyre në Centro Culturale Don Orione Artigianelli, Sala Tiziano, Dorsoduro 909/a në Venecia, Itali, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
