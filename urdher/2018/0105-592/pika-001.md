@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të autoritetit kontraktor, Ministri për Evropën dhe Punët e Jashtme, Drejtorit të Përgjithshëm Ekonomik dhe Shërbimeve Mbështetëse, znj. Blerta Kadzadej, për miratimin e shpenzimeve financiare për veprimtaritë protokollare, pritje, përcjellje dhe trajtimin që u bëhet delegacioneve të huaja deri në vlerën prej 800,000 (tetëqind mijë) lekë.

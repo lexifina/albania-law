@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI PËR EVROPËN
+DHE PUNËT E JASHTME
