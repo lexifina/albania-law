@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës së titullarit të autoritetit kontraktor, Ministria për Evropën dhe Punët e Jashtme, Drejtorit të Shërbimeve të Brendshme, znj. Etleva Haka, për nënshkrimin e akteve të procedurave të prokurimit, vlera e të cilave, brenda një viti kalendarik, është më e vogël se 800,000 (tetëqind mijë) lekë pa TVSH.
