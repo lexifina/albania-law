@@ -1,0 +1,30 @@
+{
+  "qbz_id": 64885,
+  "title": "PËR MIRATIMIN E KËRKESAVE MINIMALE PËR HARTIMIN \nE PLANEVE TË VEPRIMIT \nPËR ZHURMAT",
+  "type": "Udhëzim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Ministria e Bujqësisë dhe Zhvillimit Rural",
+  "adopted": "2018-02-19",
+  "published": "2018-03-07",
+  "in_force": "2018-03-07",
+  "in_force_basis": "\"hyn në fuqi menjëherë pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ed7dc49aed07237c7b4900ea5a9c379b18bec4fb8fb94032894a06536f79212e.docx",
+  "source_sha256": "ed7dc49aed07237c7b4900ea5a9c379b18bec4fb8fb94032894a06536f79212e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64885",
+  "official_eli": "https://qbz.gov.al/eli/udhezim/2018/02/19/1",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    64103,
+    55262,
+    60477
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
