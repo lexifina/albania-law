@@ -1,0 +1,26 @@
+{
+  "qbz_id": 62939,
+  "title": "VENDIM",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "1",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2018-02-06",
+  "published": "2018-03-09",
+  "in_force": "2018-03-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8bb01f28cad1ea0cc019aec8d98052e8af4ff4d6e505e4c2e2831236843fb545.docx",
+  "source_sha256": "8bb01f28cad1ea0cc019aec8d98052e8af4ff4d6e505e4c2e2831236843fb545",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62939",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/02/06/1",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
