@@ -1,0 +1,1 @@
+19. Efektet financiare për ushtrimin e veprimtarisë së Task-Forcës, përfshirë shpenzimet për krijimin e regjistrit, të përballohen nga buxheti i Ministrisë së Turizmit dhe Mjedisit për vitin 2018, si dhe nga burime financiare e materiale, të siguruara për këtë qëllim në mënyra të ligjshme nga institucione vendëse ose të huaja.

@@ -1,0 +1,1 @@
+20. Kryetari i Task-Forcës u raporton Kryeministrit, ministrit të Turizmit dhe Mjedisit dhe ministrit të Financave dhe Ekonomisë sa herë çmohet e nevojshme për veprimtarinë e këtij grupi, përfshirë edhe për nevojat e përdorimin e fondeve të caktuara për këtë qëllim.

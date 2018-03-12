@@ -1,0 +1,1 @@
+3. Task-Forca evidenton dhe regjistron në një regjistër të veçantë pasuritë e paluajtshme shtetërore, që ndodhen 1,5 (një presje pesë) kilometra nga vija bregdetare e Republikës së Shqipërisë dhe që mund të përdoren për investime në turizmin bregdetar, me të gjitha të dhënat e tyre.

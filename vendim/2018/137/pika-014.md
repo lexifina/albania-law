@@ -1,0 +1,1 @@
+14. Task-Forca, brenda afatit të përcaktuar në pikën 12, të këtij vendimi, u paraqet ministrave të Turizmit dhe Mjedisit dhe të Financave dhe Ekonomisë raportin e plotë të punës së kryer, regjistrin e pronave të paluajtshme shtetërore, si dhe rekomandimet përkatëse për kryerjen e investimeve në turizmin bregdetar në këto pasuri të paluajtshme.

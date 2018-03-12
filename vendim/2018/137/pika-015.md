@@ -1,0 +1,1 @@
+15. Task-Forca bashkëpunon me të gjitha institucionet shtetërore, përfshirë ministritë e linjës dhe institucionet e tyre të varësisë, si dhe me agjenci, ente, persona juridikë, publikë, organe të qeverisjes qendrore apo njësi të vetëqeverisjes vendore, për realizimin e detyrave.

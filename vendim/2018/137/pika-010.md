@@ -1,0 +1,1 @@
+10. Nëse Task-Forca vëren parregullsi në dokumentacion apo shkelje ligjore dhe shkelje të procedurave lidhur me pasuritë e paluajtshme, ajo informon ministrin e Turizmit dhe Mjedisit, i cili ia dërgon çështjen institucioneve përkatëse për marrjen e masave të duhura.

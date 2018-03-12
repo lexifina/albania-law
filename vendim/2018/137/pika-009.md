@@ -1,0 +1,1 @@
+9. Task-Forca përfshin në regjistër edhe pasuritë e paluajtshme, të cilat, sipas dokumentacionit, janë pasuri shtetërore, por që janë në konflikte gjyqësore apo në konflikte administrative me palë të treta, në lidhje me titullin e pronësisë.
