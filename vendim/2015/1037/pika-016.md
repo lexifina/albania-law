@@ -1,0 +1,1 @@
+16. Nëpunësit që janë vlerësuar “shumë mirë” konsiderohen të përshtatshëm për pozicionin e punës që kanë dhe rekomandohen për ngritje në detyrë, në rast se aplikojnë në një procedurë të tillë konkurrimi. Ata nuk kanë nevojë t’i nënshtrohen procedurës së trajnimit.

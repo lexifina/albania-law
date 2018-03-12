@@ -1,0 +1,1 @@
+20. Programi i trajnimit, për këta nëpunës, hartohet nga ASPA, bazuar në raportin e KV-së dhe në rekomandimet e DAP-it për institucionet e administratës shtetërore dhe të njësive përgjegjëse të institucioneve të pavarura, për këto institucione. Ky program miratohet nga bordi i ASPA-s.

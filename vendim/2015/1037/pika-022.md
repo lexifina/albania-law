@@ -1,0 +1,1 @@
+22. Nëpunësit që janë vlerësuar “jokënaqshëm” konsiderohen jo të përshtatshëm për pozicionin e punës ku janë caktuar. Ata janë të detyruar të ndjekin trajnimin pranë ASPA-s për përfitimin dhe përditësimin e njohurive shtesë, sipas kreut IV, të këtij vendimi.

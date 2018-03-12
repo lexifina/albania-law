@@ -1,0 +1,1 @@
+9. Departamenti i Administratës Publike dhe njësitë përgjegjëse të institucioneve të pavarura, brenda muajit mars të çdo viti, publikojnë në faqet e tyre zyrtare dhe, për njësitë e vetëqeverisjes vendore ose/edhe në stendat e informimit të publikut, kalendarin vjetor të testimeve paraprake për secilin nga grupet e përcaktuara sipas pikës 7, të kreut II, të këtij vendimi.

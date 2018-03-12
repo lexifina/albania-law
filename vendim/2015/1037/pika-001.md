@@ -1,0 +1,1 @@
+1. Procesi i përfitimit dhe përditësimit të njohurive shtesë synon aftësimin e nëpunësve civilë dhe pajisjen e tyre me njohuritë shtesë të nevojshme, sipas funksioneve dhe fushës ku ata veprojnë, me qëllim ngritjen e cilësisë së shërbimeve dhe të punës në institucionet e administratës publike, pjesë e shërbimit civil.

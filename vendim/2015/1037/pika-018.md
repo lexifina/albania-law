@@ -1,0 +1,1 @@
+18. Nëpunësit që janë vlerësuar “kënaqshëm” konsiderohen të përshtatshëm për pozicionin e punës ku janë caktuar, me kushtin që të ndjekin programe trajnimi të vazhdueshme, të cilat synojnë plotësimin e dobësive që kanë shfaqur gjatë kësaj procedure.

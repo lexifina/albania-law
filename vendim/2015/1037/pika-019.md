@@ -1,0 +1,1 @@
+19. Përcaktimi i fushave ku duhet të trajnohen nëpunësit e përcaktuar sipas pikës 18, të kreut III, të këtij vendimi, bëhet nga eprori direkt, në bashkëpunim me njësinë përgjegjëse. Ndjekja e programeve vazhduese duhet të realizohet brenda një viti, nga përfundimi i procedurës së testimit paraprak.

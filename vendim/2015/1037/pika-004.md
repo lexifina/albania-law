@@ -1,0 +1,1 @@
+4. Mosparaqitja e nëpunësve civilë në testimin paraprak apo testimin në përfundim të trajnimit, pa shkaqe të arsyeshme, konsiderohet shkelje e detyrimeve të përcaktuara në ligjin e nëpunësit civil dhe përbën shkak për fillimin e ecurisë disiplinore.

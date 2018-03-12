@@ -1,0 +1,1 @@
+2. Ky proces përfshin testimin paraprak dhe, kur është e nevojshme, trajnimin e nëpunësve civilë për njohuritë e reja që prekin fushën e tyre. Në përfundim të trajnimit bëhet testimi me shkrim, në lidhje me njohuritë e përfituara gjatë trajnimit.
