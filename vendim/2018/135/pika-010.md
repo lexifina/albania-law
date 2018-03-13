@@ -1,0 +1,1 @@
+10. Përveç sa parashikohet më sipër në këtë vendim, Shërbimi Social Shtetëror është përgjegjës për administrimin e shërbimeve ekzistuese kombëtare deri në kalimin e tyre në varësi të njësive të qeverisjes vendore, sipas afateve të përcaktuara në ligj.
