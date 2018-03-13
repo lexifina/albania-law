@@ -1,0 +1,1 @@
+6. Të gjitha subjektet e interesuara kanë qasje të lirë në leximin dhe printimin e të dhënave të detajuara rreth materialit bibliotekar që kërkojnë (libra, artikuj, materiale dëgjimore-pamore, periodikë, harta dhe disertacione), si dhe kanë mundësi të krijojnë, të ruajnë e të printojnë lista bibliografike sipas tematikave të caktuara.

@@ -1,0 +1,1 @@
+9. Të gjitha ndryshimet në arkitekturën software dhe hardware të dataADLIB-së të Bibliotekës Kombëtare të Shqipërisë, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe të praktikave evropiane e ndërkombëtare në fushën e shkencës së bibliotekave dhe të informacionit, të bëhen në përputhje me legjislacionin në fuqi.
