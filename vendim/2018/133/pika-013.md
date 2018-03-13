@@ -1,0 +1,1 @@
+13. Të gjitha ndryshimet në arkitekturën software dhe hardware të SWMVAT-së të Agjencisë së Shërbimit Arkeologjik, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe të praktikave evropiane e ndërkombëtare në fushën e arkeologjisë, të bëhen në përputhje me legjislacionin në fuqi.
