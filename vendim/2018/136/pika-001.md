@@ -1,0 +1,1 @@
+1. Vënien në funksionim të Regjistrit Elektronik Kombëtar për regjistrimin dhe administrimin e të dhënave të rasteve, individëve/familjeve në nevojë për të përfituar shërbime të kujdesit shoqëror (në tekst “Regjistri Elektronik Kombëtar i Shërbimeve të Kujdesit Shoqëror”).

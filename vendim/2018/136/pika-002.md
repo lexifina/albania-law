@@ -1,0 +1,1 @@
+2. Baza e të dhënave të Regjistrit Elektronik Kombëtar të Shërbimeve të Kujdesit Shoqëror administrohet e përditësohet nga Shërbimi Social Shtetëror, si institucioni administrues, në kuptim të ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, dhe aksesohet nga të gjitha njësitë e qeverisjes vendore në nivel bashkie e qarku.

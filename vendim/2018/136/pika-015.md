@@ -1,0 +1,1 @@
+15. Ngarkohen institucionet shtetërore, përdoruese të Regjistrit Elektronik Kombëtar të Shërbimeve të Kujdesit Shoqëror, të përcaktuara në pikën 5 të këtij vendimi, të hedhin të dhënat që disponojnë, për përditësimin e regjistrit.

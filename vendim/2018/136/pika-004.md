@@ -1,0 +1,1 @@
+4. Çdo përdorues i Regjistrit Elektronik Kombëtar të Shërbimeve të Kujdesit Shoqëror pajiset nga institucioni administrues me emrin e përdoruesit “user name”, fjalëkalimin “password” dhe me manualet për hedhjen e të dhënave në sistem, operimin dhe përdorimin e faqes web.

@@ -1,0 +1,1 @@
+17. Përdoruesit e Regjistrit Elektronik Kombëtar të Shërbimeve të Kujdesit Shoqëror detyrohen të ruajnë konfidencialitetin dhe besueshmërinë e këtyre të dhënave personale gjatë ushtrimit të funksioneve të tyre, në përputhje me nenin 28, të ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”.

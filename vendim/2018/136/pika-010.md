@@ -1,0 +1,9 @@
+10. Niveli i aksesit në Regjistrin Elektronik Kombëtar të Shërbimeve të Kujdesit Shoqëror është si më poshtë vijon:
+a) Punonjësi social i bashkisë/njësisë administrative/menaxheri i rastit në Njësinë për Mbrojtjen e Fëmijës kanë të drejtë shkrimi, leximi, vlerësimi dhe modifikimi mbi të dhënat e aplikantëve/rasteve të unifikuara e të referuara për përfitimin e shërbimit të kujdesit shoqëror të njësive të tyre administrative;
+b) Punonjësi social në nivel qarku ka të drejtë leximi, vlerësimi dhe modifikimi mbi të dhënat e aplikantëve/rasteve të unifikuara e të referuara për përfitimin e shërbimit të kujdesit shoqëror të njësive të tyre administrative;
+c) Punonjësit në drejtoritë rajonale të shërbimit social shtetëror kanë të drejtë leximi dhe vlerësimi mbi të dhënat e aplikantëve, të drejtë leximi dhe gjenerimi të listave mujore të rasteve të unifikuara e të referuara për përfitimin e shërbimit të kujdesit shoqëror në qarkun e tyre;
+ç) Përdoruesit në Drejtorinë e Përgjithshme të Shërbimit Social Shtetëror kanë të drejtë leximi mbi të dhënat e aplikantëve dhe gjenerimi të listave mujore të rasteve të unifikuara e të referuara për përfitimin e shërbimit të kujdesit shoqëror;
+d) Titullari i institucionit të përkujdesjes shoqërore ka të drejtë leximi, vlerësimi dhe modifikimi mbi të dhënat e rasteve të referuara për përfitimin e shërbimit të kujdesit shoqëror;
+dh) Menaxheri i rastit në institucionin e përkujdesjes shoqërore/OJF gjeneron nga sistemi detyrat e veta, plotëson aktivitetet e kryera në sistem dhe ka të drejtë modifikimi të planit individual të kujdesit shoqëror;
+e) Inspektorët e shërbimeve të kujdesit shoqëror kanë të drejtë gjenerimi të listave mujore të rasteve të unifikuara e të referuara për përfitimin e shërbimit të kujdesit shoqëror;
+ë) Përdoruesit në Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale kanë të drejtë leximi mbi të dhënat e aplikantëve dhe gjenerimin e raporteve statistikore.

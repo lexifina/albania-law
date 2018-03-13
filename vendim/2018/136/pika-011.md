@@ -1,0 +1,1 @@
+11. Rregullorja e përdorimit të Regjistrit Elektronik Kombëtar të Shërbimeve të Kujdesit Shoqëror dhe niveli i aksesit për përdoruesit përcaktohen në manualin e përdorimit të Regjistrit Elektronik Kombëtar të Shërbimeve të Kujdesit Shoqëror, të miratuar nga administratori i këtij regjistri.
