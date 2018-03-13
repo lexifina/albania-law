@@ -1,0 +1,1 @@
+1. Drejtorisë së Përgjithshme të Arkivave, në buxhetin e miratuar për vitin 2018, t’i shtohet fondi prej 35 000 000 (tridhjetë e pesë milionë) lekësh, nga fondi rezervë i buxhetit të shtetit për vitin 2018, për projektet dhe aktivitetet në kuadër të Vitit Mbarëkombëtar të Gjergj Kastriotit - Skënderbeut.
