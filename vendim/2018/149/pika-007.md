@@ -1,0 +1,1 @@
+7. Punonjësi social i strukturës përgjegjëse (në vijim “punonjësi social përgjegjës”) bën vlerësimin paraprak të familjeve të interesuara, në bazë të kritereve të vlerësimit të parashikuara në pikën 5, të këtij vendimi, dhe fton familjet e përzgjedhura të ndjekin seksionin e informimit mbi shërbimin e kujdestarisë.

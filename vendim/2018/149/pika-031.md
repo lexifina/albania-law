@@ -1,0 +1,1 @@
+31. Me marrjen e njoftimit nga komisioni multidisiplinar, sipas pikës 30 të këtij vendimi, struktura përgjegjëse njofton familjen kujdestare për vendimin që ka marrë për përzgjedhjen si familje kujdestare dhe kjo e fundit i paraqet deklaratën e gatishmërisë për të marrë fëmijën në përkujdesje.

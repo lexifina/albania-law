@@ -1,0 +1,1 @@
+23. Struktura përgjegjëse, me marrjen e referimit, sipas pikës 22, të këtij vendimi, mbledh të dhënat për fëmijën pa kujdes prindëror dhe familjen biologjike të tij. Informacioni mblidhet dhe evidentohet, sipas formularit nr. 3, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+6. Çdo familje e interesuar për të qenë familje kujdestare duhet të shprehë interesin, duke paraqitur një kërkesë pranë strukturës përgjegjëse. Kërkesa përmban informacion për familjen sipas formularit nr. 1 që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Kërkesës i bashkëlidhet/n dokumenti/et e identifikimit të prindërve të familjes.

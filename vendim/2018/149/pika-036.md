@@ -1,0 +1,1 @@
+36. Njësia e vlerësimit të nevojave dhe referimit të rastit ose struktura e shërbimeve të kujdesit shoqëror, për bashkitë që nuk kanë njësi të vlerësimit dhe referimit të rastit, monitoron në vazhdimësi familjen dhe fëmijën e vendosur në kujdestari, nëpërmjet kryerjes së vizitave të monitorimit në shtëpi apo gjatë veprimtarisë normale të familjes.

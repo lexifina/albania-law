@@ -1,0 +1,1 @@
+39. Inspektorati përgjegjës për shërbimet sociale inspekton 2 herë në vit familjen kujdestare dhe fëmijën, për të siguruar respektimin e standardeve të shërbimit të kujdestarisë, si dhe për të siguruar mirëqenien e fëmijës, sipas procedurave për zbatimin e standardeve të përcaktuara me udhëzim të ministrit përgjegjës për çështjet sociale.

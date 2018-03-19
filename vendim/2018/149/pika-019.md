@@ -1,0 +1,1 @@
+19. Vendimi i komisionit multidisiplinar i përcillet strukturës përgjegjëse që ka paraqitur dokumentacionin pranë saj, si dhe strukturës së shërbimeve të kujdesit shoqëror në bashki dhe njësisë së vlerësimit të nevojave dhe referimit të rastit në njësinë administrative ku banon familja kujdestare.

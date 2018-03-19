@@ -1,0 +1,1 @@
+13. Dokumentet e parashikuara në pikën 12 të këtij vendimi mblidhen nga punonjësi social përgjegjës nëpërmjet paraqitjes së kërkesës në institucionet respektive ose nëpërmjet aksesit në portalin elektronik për llogari të personave fizikë, sipas legjislacionit në fuqi.

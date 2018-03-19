@@ -1,0 +1,2 @@
+41. Në rastet kur punonjësit e strukturave monitoruese apo inspektuese, informohen ose besojnë në mënyrë të arsyeshme se fëmija ndodhet në situatë emergjence, procedojnë menjëherë, duke referuar rastin te njësitë e mbrojtjes së fëmijës, sipas procedurave të përcaktuara në ligjin nr. 18/2017, “Për të drejtat dhe mbrojtjen e fëmijës”, dhe në ligjin nr. 121/2016, “Për shërbimet e kujdesit shoqëror në Republikën e Shqipërisë”.
+V. MASA E FINANCIMIT PËR SHËRBIMIN

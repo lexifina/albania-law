@@ -1,0 +1,1 @@
+45. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Shërbimi Social Shtetëror, inspektorati përgjegjës për shërbimet sociale, strukturat përgjegjëse për shërbimet e kujdesit shoqëror dhe njësia e vlerësimit të nevojave dhe e referimit të rastit për zbatimin e këtij vendimi.

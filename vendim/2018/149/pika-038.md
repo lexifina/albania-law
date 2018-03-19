@@ -1,0 +1,1 @@
+38. Drejtoritë rajonale të Shërbimit Social Shtetëror monitorojnë çdo 3 muaj proceset e punës së punonjësit social të njësisë së qeverisjes vendore dhe bëjnë monitorimin e fëmijëve të vendosur në familje kujdestare.

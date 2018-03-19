@@ -1,0 +1,1 @@
+18. Komisioni multidisiplinar mblidhet për të shqyrtuar rastin, bën vlerësimin nëse familja plotëson ose jo kushtet për të ofruar shërbimin e kujdestarisë në familje, mbështetur në dokumentacionin e paraqitur dhe merr vendimin për miratimin e familjes kujdestare brenda 30 (tridhjetë) ditëve nga data e paraqitjes së dosjes, sipas pikës 17 të këtij vendimi.

@@ -1,0 +1,1 @@
+37. Vizitat e monitorimit, sipas pikës 36 të këtij vendimi, bëhen çdo 2 javë në 3 muajt e parë për familjen dhe fëmijën e vendosur në kujdestari dhe, më pas, çdo muaj. Rezultatet e çdo vizite dokumentohen dhe përfshihen në dosjen përkatëse të fëmijës.

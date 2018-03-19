@@ -1,0 +1,1 @@
+28. Dosja e rastit, që përfshin dokumentet e mbledhura sipas pikave 23, 24, 25 dhe 27 të këtij vendimi, i dërgohet, nga struktura përgjegjëse, komisionit multidisiplinar të kujdestarisë në bashkinë që ka bërë referimin, brenda një afati 15-ditor nga momenti i referimit.

@@ -1,0 +1,1 @@
+21. Njësia e Mbrojtjes së Fëmijëve, në rastet e emergjencës, vepron në mënyrë të menjëhershme, sipas procedurave të përcaktuara në ligjin nr. 18/2017, “Për të drejtat dhe mbrojtjen e fëmijës”, dhe në ligjin nr. 121/2016, “Për shërbimet e kujdesit shoqëror në Republikën e Shqipërisë”, duke siguruar shërbim përkujdesjeje të menjëhershme.

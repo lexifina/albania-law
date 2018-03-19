@@ -1,0 +1,1 @@
+42. Masa e financimit për familjen kujdestare, për shpenzimet ushqimore për një fëmijë të vendosur në kujdestari, është 9 000 (nëntë mijë) lekë në muaj, ndërsa për shpenzimet e ushqimit të një fëmije me aftësi të kufizuara është 10 000 (dhjetë mijë) lekë në muaj.

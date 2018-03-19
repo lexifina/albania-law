@@ -1,0 +1,1 @@
+29. Komisioni multidisiplinar, brenda një jave nga paraqitja e dosjes, sipas pikës 28 të këtij vendimi, përzgjedh dhe propozon një nga familjet kujdestare nga regjistri i familjeve kujdestare, krijuar sipas pikës 20 të këtij vendimi.

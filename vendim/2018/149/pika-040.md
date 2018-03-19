@@ -1,0 +1,1 @@
+40. Monitorimi nga drejtoritë rajonale të Shërbimit Social Shtetëror dhe inspektimi nga inspektorati përgjegjës për shërbimet shoqërore koordinohen dhe realizohen në ditët e monitorimit të familjes nga struktura e shërbimeve të kujdesit shoqëror të bashkisë ose njësisë së vlerësimit të nevojave dhe referimit të rastit të njësisë administrative.

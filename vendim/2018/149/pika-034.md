@@ -1,0 +1,1 @@
+34. Struktura përgjegjëse, që ka ndjekur procedurën përkatëse në gjykatë, depoziton një kopje të vendimit të gjykatës pranë njësisë së vlerësimit të nevojave dhe referimit të rastit ku banon familja kujdestare.

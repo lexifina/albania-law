@@ -1,0 +1,1 @@
+26. Plotësimi i dosjes, përveç parashikimit në shkronjën “b”, të pikës 25, të këtij vendimi, sigurohet nëpërmjet kërkimit të dokumentacionit në institucionet respektive ose nëpërmjet aksesit në portalin elektronik, për llogari të personave fizikë, sipas legjislacionit në fuqi.

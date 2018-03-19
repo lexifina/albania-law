@@ -1,0 +1,444 @@
+# Shtojca
+FORMULARI NR. 1.
+MBI TË DHËNAT E APLIKUESIT
+Të dhëna personale
+Emri __________________________
+Mbiemri __________________________
+Mosha __________________________
+Statusi civil __________________________
+Adresa __________________________
+Cili është burimi juaj i informacionit mbi shërbimin e kujdestarisë?
+____________________________________________________________________________________________________________________________________________________________
+Cili është motivi që ju shtyn për t’u ofruar si prind kujdestar?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Cilat janë marrëdhëniet tuaja me ligjin?
+A ju është mohuar e drejta prindërore në ndonjë periudhë të jetës suaj? Nëse po, kur? Po Jo
+__________________________________________________________________
+A keni qenë ndonjëherë i ndjekur penalisht? Nëse po, kur? Po Jo
+__________________________________________________________________
+Sa janë të ardhurat mujore të familjes tuaj (përfshi të gjithë anëtarët e familjes)? ________ lekë
+Jepni të dhëna për nivelin e edukimit tuaj.
+I ulët
+I mesëm
+I lartë
+A keni pasur ndonjëherë apo keni ndonjë problem shëndetësor?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Sa është sipërfaqja e banesës suaj? ____________m2
+Sa fëmijë keni? Jepni moshën dhe seksin e tyre
+Emri
+Mosha
+Seksi
+______________________
+____
+________
+______________________
+____
+________
+______________________
+____
+________
+A janë dakord të gjithë anëtarët e familjes suaj me vendimin për të qenë familje kujdestare? Po Jo
+Nëse jo, cili nga anëtarët dhe për çfarë arsyeje?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+FORMULAR NR. 2
+ME TË DHËNA TË DETAJUARA TË FAMILJES KUJDESTARE
+(Ju lutem lexoni udhëzimin për plotësimin e rregullt të formularit)
+DETAJE KONTAKTI
+Institucioni/organizata/agjencia e cila ofron shërbimin e kujdestarisë:
+Emri i punonjësit social: _______________________
+Emri i menaxherit/drejtuesit: _______________________
+Adresa: _______________________
+Nr. tel./fax: _______________________
+TË DHËNA PËR FAMILJEN KUJDESTARE
+TË DHËNA PËR PRINDËRIT KUJDESTARË
+Nëna
+Babai
+Emri
+___________________
+____________________
+Mbiemri
+___________________
+____________________
+Mbiemri i mëparshëm
+___________________
+____________________
+Datëlindja
+___________________
+____________________
+Shtetësia
+___________________
+____________________
+Punësimi
+___________________
+____________________
+Adresa
+___________________
+____________________
+Nr. tel.
+___________________
+____________________
+MARRËDHËNIET E FAMILJES KUJDESTARE ME LIGJIN
+(Lexoni udhëzimin bashkëngjitur formularit)
+Nëna
+Babai
+A e gëzoni aktualisht të drejtën prindërore?
+PO JO
+PO JO
+Nëse jo, për çfarë arsyeje?
+A ju është mohuar e drejta prindërore në ndonjë periudhë të jetës suaj?
+PO JO
+PO JO
+Nëse po, për çfarë arsyeje?
+A keni qenë ndonjëherë i ndjekur penalisht?
+PO JO
+PO JO
+Nëse po, kur dhe për çfarë arsyeje?
+A keni ndonjë anëtar të familjes të ndjekur penalisht?
+PO JO
+PO JO
+Nëse po, kur dhe për çfarë arsyeje?
+STATUSI FINANCIAR
+Sa janë të ardhurat mujore të familjes suaj (duke përfshirë të gjithë anëtarët e saj)? __________ lekë
+EDUKIMI
+Jepni të dhëna mbi edukimin tuaj.
+Nëna
+Babai
+I ulët
+I mesëm
+I lartë
+SHËNDETI
+Përshkruani shkurtimisht gjendjen tuaj shëndetësore në të kaluarën dhe atë aktuale.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+(Për gjendjen aktuale plotësoni formularin bashkëngjitur sipas udhëzimit të dhënë dhe merrni një raport nga mjeku psikiatër.)
+STATUSI CIVIL
+Nëna
+Babai
+I /e martuar
+I/e divorcuar
+I/e ve
+Beqar
+MOTIVIMI
+Cilat janë motivet që ju shtyjnë për të qenë familje kujdestare?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+A janë dakord të gjithë anëtarët e familjes me vendimin për të qenë familje kujdestare?
+Po
+Jo
+Fëmijët
+Anëtarët e tjerë të familjes
+A jeni të gatshëm të pranoni bashkëpunimin midis jush dhe familjes së origjinës në të mirë të fëmijës? Po Jo
+A jeni të gatshëm për një bashkëpunim të ngushtë dhe të vazhdueshëm me agjencinë?
+Po Jo
+STREHIMI
+Sa është sipërfaqja e banimit të shtëpisë tuaj? _______m2
+Jepni tipin e shtëpisë, sistemin e ujit dhe kanalizimeve.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+KOMUNITETI
+Përshkruani karakteristikat tipike të komunitetit tuaj.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Si janë marrëdhëniet tuaja me fqinjët?
+Shumë të mira
+Normale
+Jo të mira
+Çfarë institucionesh edukuese ju ofron komuniteti?
+Çerdhe
+Kopshte
+Shkollë fillore
+Shkollë tetëvjeçare
+Shkollë të mesme
+Çfarë institucionesh shëndetësore ju ofron komuniteti?
+Ambulancë
+Klinikë dentare
+Konsultore
+Qendër shëndetësore
+Spital
+Çfarë qendrash argëtimi ju ofron komuniteti?
+Sheshe për të luajtur
+Park lojërash
+Bibliotekë
+Kinema
+Me çfarë mjetesh realizohet transporti brenda dhe jashtë komunitetit tuaj?
+Autobus
+Fugon
+Tren
+TË DHËNA PËR FËMIJËT E FAMILJES KUJDESTARE
+Emri
+Seksi
+Datëlindja
+Shkolla që frekuenton
+Marrëdhënia me prindin
+___________
+_________
+_________
+_________
+_________
+___________
+_________
+_________
+_________
+_________
+___________
+_________
+_________
+_________
+_________
+IV. TË DHËNA PËR ANËTARËT E TJERË TË FAMILJES
+Emri
+Seksi
+Datëlindja
+Marrëdhënia brenda strukturës familjare
+______________
+__________
+__________
+________________
+______________
+__________
+__________
+________________
+______________
+__________
+__________
+_______________
+V. PËRSHKRIMI I FAMILJES KUJDESTARE
+Jepni një përshkrim të jetës suaj familjare (interesat, eksperiencat, si organizohet jeta brenda familjes, pikat e forta dhe të dobëta).
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+VI. REKOMANDIME
+Jepni emrat dhe adresat e dy personave që ju njohin për më shumë se një vit dhe nuk kanë lidhje gjaku me ju.
+Emër Mbiemër
+Adresa
+Nr. tel.
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+APLIKANTI PUNONJËSI SOCIAL
+EMËR MBIEMËR EMËR MBIEMËR
+______________________ ______________________
+FORMULARI NR. 3
+TË DHËNAT E FËMIJËS QË DO TË VENDOSET NË KUJDESTARI
+DETAJE KONTAKTI
+Institucioni/organizata/agjencia e cila ofron shërbimin e kujdestarisë:
+Emri i punonjësit social: _____________________
+Emri i menaxherit/drejtuesit: _____________________
+Adresa: _____________________
+Nr. tel./fax: _____________________
+TË DHËNA IDENTIFIKUESE TË FËMIJËS
+Emri ____________________
+Mbiemri ____________________
+Gjinia ____________________
+Datëlindja ____________________
+Vendlindja ____________________
+Shtetësia ____________________
+Adresa aktuale ____________________
+Nr. tel. ____________________
+STATUSI LIGJOR I FËMIJËS
+Nën kujdesin e familjes biologjike
+I deklaruar i braktisur
+Nën kujdesin e shtetit
+Nën kujdesin e familjes kujdestare
+Të tjera, specifiko _____________
+MARRËDHËNIA E FËMIJËS ME FAMILJEN NË TË CILËN JETON AKTUALISHT
+Fëmijë nga martesa aktuale
+Fëmijë nga martesa e mëparshme
+Fëmijë i birësuar
+Fëmijë i vendosur nën kujdestari
+Tjetër (nëse po, specifiko) ______________
+PËRFITIMET E FËMIJËS NGA:
+Trashëgimia
+Pension familjar
+Pension i paaftësisë
+Sistemi i asistencës sociale
+Burime të tjera (specifiko) ______________
+PËRSHKRIM I SHKURTËR I FËMIJËS
+Zhvillimi psikomotor i fëmijës, emocional dhe social të tij.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Rutina ditore e fëmijës.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Sjellje të veçanta të fëmijës që mund të shkaktojnë shqetësime.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+PËRSHKRIM I SITUATËS SHËNDETËSORE
+Probleme shëndetësore, aftësi të kufizuara, nëse ka, alergjitë, nevoja për dietë, mjekimet, vizitat mjekësore.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Historia mjekësore, imuniteti, sëmundje të së kaluarës, probleme të tjera (urinimi në krevat etj.).
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Kontaktet me mjekun, dentistin, pediatrin etj.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+EDUKIMI
+Emri i shkollës _____________________________
+Adresa e shkollës _____________________________
+Lloji i shkollës
+Edukim parashkollor
+Shkollë fillore
+Nëntëvjeçare
+Nëntëvjeçare me konvikt
+E mesme
+E mesme me konvikt
+Shkollë për fëmijë me nevoja të veçanta
+Renditni më poshtë shkollat e ndjekura më parë nga fëmija (nëse ka):
+Emri i shkollës
+Adresa
+Lloji
+Vitet/viti shkollor
+_______________
+_______________
+_______________
+___________
+_______________
+_______________
+_______________
+___________
+_______________
+_______________
+_______________
+___________
+Kontaktet me edukatorët, mësuesit etj.
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+VENDBANIMET E FËMIJËS QË NGA LINDJA
+Paraqisni një listë të detajuar të të gjitha vendbanimeve të njohura për fëmijën, arsyet e lëvizjes dhe sistemimin aktual të tij. Në fund të listës përshkruani shkurtimisht arsyet e lëvizjes së tij.
+Vendbanimet e fëmijës (fam. biologjike, kujdestare, institucione etj.)
+Koha e qëndrimit
+Mosha e fëmijës gjatë kësaj periudhe
+Emrat e prindërve biologjikë, kujdestarëve, punonjësit social
+Arsyet e lëvizjes
+MOTRAT DHE VËLLEZËRIT E FËMIJËS
+Emri
+Mbiemri
+Seksi
+Datëlindja
+Lidhja e gjakut me fëmijën
+Vendbanimi
+_________
+_________
+________
+_________
+_________
+_________
+_________
+_________
+________
+_________
+_________
+_________
+_________
+_________
+________
+_________
+_________
+_________
+(Vendosni shenjën “X” për vëllain/motrën me të cilën fëmija është shumë i lidhur dhe shenjën “XX” për vëllain/motrën me të cilën fëmija kërkon të mbajë kontakte të vazhdueshme në të ardhmen.
+- Jepni një përshkrim të shkurtër të takimeve aktuale dhe atyre të planifikuara me motrat dhe vëllezërit (nëse fëmija ka qëndruar më parë në familje kujdestare apo institucion).
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+FAMILJA BIOLOGJIKE
+Nëna e fëmijës
+Emri ________________________
+Mbiemri ________________________
+Mbiemri i mëparshëm ________________________
+Datëlindja ________________________
+Vendlindja ________________________
+Emri i bashkëshortit ________________________
+Adresa ________________________
+Emrat e personave të tjerë në familje ________________________
+A e gëzon të drejtën prindërore? Po Jo
+- Jepni shkurtimisht një përshkrim të përgjithshëm për nënën e fëmijës.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- Cila është shkalla e lidhjes dhe kontakteve të nënës me fëmijën?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Babai i fëmijës
+Emri ________________________
+Mbiemri ________________________
+Datëlindja ________________________
+Vendlindja ________________________
+Emri i bashkëshortes ________________________
+Adresa ________________________
+Emrat e personave të tjerë në familje ________________________
+A e gëzon të drejtën prindërore? Po Jo
+- Jepni shkurtimisht një përshkrim të përgjithshëm për babanë e fëmijës.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- Cila është shkalla e lidhjes dhe kontakteve të babait me fëmijën?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Nëna biologjike
+Babai biologjik
+Niveli i edukimit
+___________________
+___________________
+Punësimi aktual
+___________________
+___________________
+Punësimi i mëparshëm
+Statusi civil kur ka lindur fëmija
+___________________
+___________________
+Statusi civil aktual
+___________________
+___________________
+Kur e kanë ndërprerë kujdesin për fëmijën?
+___________________
+___________________
+A ka secili prind përgjegjësi për fëmijën?
+___________________
+___________________
+Raste të tjera:
+Njerkë b) Nënë adoptive c) Nënë kujdestare
+Emri ________________________
+Mbiemri ________________________
+Mbiemri i vajzërisë ________________________
+Datëlindja ________________________
+Vendlindja ________________________
+Emri i bashkëshortit ________________________
+Adresa ________________________
+Emrat e personave të tjerë në familje ________________________
+A e gëzon të drejtën prindërore? Po Jo
+- Jepni shkurtimisht një përshkrim të përgjithshëm të saj.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- Cila është shkalla e lidhjes dhe kontakteve të saj me fëmijën?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Njerk b) Baba adoptiv c) Baba kujdestar
+Emri ________________________
+Mbiemri ________________________
+Datëlindja ________________________
+Vendlindja ________________________
+Emri i bashkëshortes ________________________
+Adresa ________________________
+Emrat e personave të tjerë në familje ________________________
+A e gëzon të drejtën prindërore? Po Jo
+- Jepni shkurtimisht një përshkrim të përgjithshëm për të.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+- Cila është shkalla e lidhjes dhe kontakteve të tij me fëmijën?
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+Nëna
+Babai
+Niveli i edukimit
+___________________
+___________________
+Punësimi aktual
+___________________
+___________________
+Punësimi i mëparshëm
+___________________
+___________________
+Statusi civil aktual
+___________________
+___________________
+Kur e kanë filluar kujdesin për fëmijën?
+___________________
+___________________
+Kur e kanë ndërprerë përkujdesjen për fëmijën?
+___________________
+___________________
+A ka secili prind përgjegjësi për fëmijën?
+___________________
+___________________
+- Jepni të dhëna për kujdestarin ligjor të fëmijës (nëse ka një të tillë).
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+PRIORITETET QË KA FËMIJA PËR ZGJEDHJEN E FAMILJES KUJDESTARE
+(nëse fëmija është mbi 10 vjeç)
+Shëndeti _________________________
+Edukimi _________________________
+Mosha _________________________
+Pozicioni gjeografik _________________________
+Ndonjë dëshirë tjetër e fëmijës _________________________
+- A ka ndonjë konflikt interesash që duhet marrë parasysh në përzgjedhjen e familjes kujdestare?
+Po Jo
+Nëse po, shpjegoni
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________

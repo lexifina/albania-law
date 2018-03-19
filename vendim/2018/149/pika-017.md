@@ -1,0 +1,1 @@
+17. Dokumentet e mbledhura sipas pikave 6, 7, 10, 11, 12, 14, 15 dhe 16 të këtij vendimi sistemohen nga punonjësi social përgjegjës në dosjen e familjes kujdestare të interesuar dhe dërgohen nga struktura përgjegjëse për vendim-marrje në komisionin multidisiplinar në bashkinë përkatëse.
