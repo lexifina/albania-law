@@ -1,1 +1,0 @@
-8. Vlerësimi i komisionit multidisiplinar të kujdestarisë i përcillet seksionit të ndihmës dhe përkujdesjes shoqërore në bashki/komunë, për të vazhduar procedurat e mëtejshme në gjykatën e rrethit, në të cilën ka vendbanimin familja.
