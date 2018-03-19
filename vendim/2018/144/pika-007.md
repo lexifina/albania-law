@@ -1,0 +1,1 @@
+7. Baza e të dhënave të KDIMDP-së ndërvepron me kontrolluesit publikë dhe privatë, sipas ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, si dhe ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar.
