@@ -1,0 +1,23 @@
+8. Monitorimi i punës së zyrave rajonale për vlerësimin e aftësisë së kufizuar dhe trajnimet e stafit të tyre realizohen nga Drejtoria e Përgjithshme e Shërbimit Social Shtetëror.
+IV. PËRFITIMET NË PAGESA DHE SHËRBIME
+1. Pagesa për shkak të aftësisë së kufizuar është një pagesë mujore e cila jepet në muajin pasardhës nga data e vendimit për përfitime, me qëllim përmbushjen e nevojave elementare, të lidhura me aftësinë e kufizuar, e cila përfitohet nga personat të cilët janë deklaruar si të tillë me vendim të komisionit shumëdisiplinor të vlerësimit të aftësisë së kufizuar.
+2. Pagesa bazë për shkak të aftësisë së kufizuar është 150% e shumës së pensionit social, sipas përcaktimeve në ligjin nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar. Pagesa për shkak të aftësisë së kufizuar indeksohet sa herë indeksohet pensioni social.
+a) personat mbi 18 vjeç me kufizime të lehta referohen për të përfituar shërbime/punësim ose, në mungesë të tyre, përfitojnë 60% të pagesës bazë, të përcaktuar në pikën 2;
+b) personat mbi 18 vjeç me kufizime mesatare përfitojnë 80% të pagesës bazë, të përcaktuar në pikën 2;
+c) personat mbi 18 vjeç me kufizime të rënda përfitojnë 100% të pagesës bazë, të përcaktuar në pikën 2;
+ç) personat mbi 18 vjeç me kufizime të thella përfitojnë 120% të pagesës bazë, të përcaktuar në pikën 2;
+d) fëmijët me kufizime të lehta referohen për të përfituar shërbime ose në mungesë të tyre përfitojnë 75% të shumës së përcaktuar për personat madhorë me kufizime të lehta, të përcaktuar në shkronjën “a”, të kësaj pike;
+dh) fëmijët me kufizime mesatare përfitojnë 75% të shumës së përcaktuar për personat madhorë me kufizime mesatare, të përcaktuar në shkronjën “b”, të kësaj pike;
+e) fëmijët me kufizime të rënda përfitojnë 75% të shumës që përfitojnë personat madhorë me kufizime të rënda, të përcaktuar në shkronjën “c”, të kësaj pike;
+ë) fëmijët me kufizime të thella përfitojnë 75% të shumës që përfitojnë personat madhorë me kufizime të thella, të përcaktuar në shkronjën “ç”, të kësaj pike.
+3. Niveli i pagesës për shkak të aftësisë së kufizuar përcaktohet nga komisioni shumëdisiplinor i vlerësimit në përputhje me udhëzimet e miratuara nga ministria përgjegjëse për çështjet sociale.
+4. Pagesat për personat me aftësi të kufizuara kryhen përmes shërbimeve bankare ose Postës Shqiptare.
+5. Pagesat për shkak të aftësisë së kufizuar ndërpriten, kur:
+a) përfituesi nuk ka dorëzuar formularin vjetor mjekësor të plotësuar nga mjeku specialist deri në 30 ditë kalendarike pas datës së përcaktuar për dorëzimin e tij;
+b) përfituesi nuk ka ndjekur procedurat e rivlerësimit deri në 30 ditë kalendarike pas datës së përcaktuar nga komisioni shumëdisiplinor i vlerësimit të aftësisë së kufizuar;
+c) verifikohet mashtrimi apo shpërdorimi dhe nisin procedurat për kthimin e të gjitha shumave të përfituara padrejtësisht;
+ç) zyrat rajonale të Shërbimit Kombëtar të Punësimit raportojnë për mungesën e bashkëpunimit nga ana e përfituesve, të cilët janë rekomanduar për t’u punësuar dhe/ose për të mbajtur një vend pune apo kanë refuzuar deri në dy herë ofertat e përshtatshme të punës nga zyrat e punës;
+d) përfituesi ka qëndruar jashtë vendit më shumë se 6 muaj, me përjashtim të personave e të familjeve të tyre të caktuar me punë pranë përfaqësive tona diplomatike dhe organizmave ndërkombëtarë, si dhe të rasteve të përfituesve të cilët ndodhen jashtë shtetit shqiptar për qëllime kurimi apo rehabilitimi.
+6. Fëmijët e moshës mbi 3 vjeç dhe të rriturit, të cilët janë vlerësuar nga komisioni shumëdisiplinor i vlerësimit se kanë nevojë për paketë higjieno-sanitare në rastet kur kanë dëmtime të rënda ose të thella të lëvizshmërisë dhe që shfaqin mungesë vetëpërmbajtjeje urinare apo defekimi, do të pajisen me një paketë higjieno-sanitare, e cila deri në momentin që do të administrohet nga Fondi i Sigurimit të Detyrueshëm Shëndetësor përmes rrjetit farmaceutik, do të jepet në vlerë monetare, e cila përcaktohet me udhëzim të ministrit përgjegjës për çështjet sociale.
+7. Fëmijët e moshës mbi 3 vjeç dhe të rriturit, të cilët janë vlerësuar nga komisioni shumëdisiplinor i vlerësimit se kanë nevojë për karrige me rrota në rastet kur kanë dëmtime të rënda ose të thella të lëvizshmërisë, mund të pajisen me karrige me rrota, të cilat administrohen nga Fondi i Sigurimit të Detyrueshëm Shëndetësor, përmes rrjetit farmaceutik.
+8. Fëmijët e moshës mbi 3 vjeç dhe të rriturit, të cilët janë vlerësuar nga komisioni shumëdisiplinor i vlerësimit se kanë vështirësi në komunikim, mund të pajisen me pajisje të teknologjisë mbështetëse për komunikim, të cilat administrohen nga Fondi i Sigurimit të Detyrueshëm Shëndetësor, përmes rrjetit farmaceutik.

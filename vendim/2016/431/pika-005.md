@@ -1,0 +1,1 @@
+5. Personat, të cilët kanë një shfaqje të menjëhershme të një sëmundjeje të rëndë ose një humbje të plotë e të menjëhershme të aftësive funksionale për të kryer veprimtari të jetesës së përditshme, mund të kualifikohen për procesin e përshpejtuar të vlerësimit, i cili do të kryhet brenda 10 (dhjetë) ditëve kalendarike nga data e marrjes së dokumenteve të aplikimit.

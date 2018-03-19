@@ -1,0 +1,1 @@
+1. Modeli bio-psiko-social i vlerësimit të aftësisë së kufizuar do të pilotohet deri më 31.12.2019, sipas procedurave të përcaktuara në këtë vendim, nëpërmjet përdorimit të Regjistrit Elektronik Kombëtar, në njësitë administrative nr. 6 dhe nr. 7, të qarkut të Tiranës.

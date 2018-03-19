@@ -1,0 +1,1 @@
+12. Ndihmësit personalë përzgjidhen nga përfituesit, kujdestari ligjor/prindi ose përmes procesit të vendimmarrjes së mbështetur dhe mund të ofrohen nga anëtarë të familjes, të afërm të përfituesit ose familjes, përfaqësues ligjorë ose agjenci të specializuara, të regjistruara dhe të licencuara.

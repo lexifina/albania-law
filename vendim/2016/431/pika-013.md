@@ -1,0 +1,1 @@
+13. Shërbimi i ndihmësit personal ofrohet nga individë të cilët kanë vendbanimin në Shqipëri, brenda së njëjtës bashki me personin me aftësi të kufizuara, kanë aftësi mendore dhe fizike për të ofruar këto shërbime dhe nuk janë dënuar me vendim gjykate të formës së prerë.
