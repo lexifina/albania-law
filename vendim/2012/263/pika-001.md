@@ -1,1 +1,0 @@
-1. Për realizimin e politikave vendore për mbrojtjen e të drejtave të fëmijëve, mekanizmat në nivel qendror dhe vendor bashkëpunojnë ngushtësisht me organizatat jofitimprurëse që kanë në objekt të veprimtarisë së tyre të drejtat e fëmijëve.
