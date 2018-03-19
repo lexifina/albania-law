@@ -1,0 +1,1 @@
+6. Agjencitë rajonale të shërbimit veterinar dhe mbrojtjes së bimëve mbajnë lidhje të vazhdueshme dhe koordinojnë veprimtarinë e tyre me institucionet kërkimore-shkencore dhe burime të tjera informacioni.

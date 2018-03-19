@@ -1,0 +1,1 @@
+1. Krijimin e agjencive rajonale të shërbimit veterinar dhe mbrojtjes së bimëve (ARSHVMB), si persona juridikë publikë, në varësi të ministrisë përgjegjëse për bujqësinë, me seli në Shkodër, Tiranë, Vlorë dhe Elbasan. Agjencitë rajonale të shërbimit veterinar dhe mbrojtjes së bimëve financohen nga buxheti i shtetit, i miratuar për ministrinë përgjegjëse.

@@ -1,0 +1,1 @@
+10. Rregulloret, që përcaktojnë metodat e brendshme të punës dhe sjelljen e personelit të agjencive rajonale të shërbimit veterinar dhe mbrojtjes së bimëve, miratohen nga ministri përgjegjës për bujqësinë.
