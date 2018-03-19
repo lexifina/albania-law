@@ -1,0 +1,1 @@
+7. Bashkëpunimi ndërmjet Agjencisë Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës, mekanizmave institucionalë dhe strukturave të mbrojtjes së fëmijës në nivel qendror e vendor me organizatat jofitimprurëse realizohet duke synuar ndihmën dhe angazhimin e ndërsjellë, me qëllim promovimin dhe realizmin e të drejtave të fëmijëve dhe mbrojtjes së tyre.

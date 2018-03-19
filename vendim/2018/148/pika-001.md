@@ -1,0 +1,1 @@
+1. Bashkëpunimi ndërmjet mekanizmave këshillimorë e koordinues institucionalë, strukturave për të drejtat dhe mbrojtjen e fëmijës në nivel qendror e vendor dhe organizatave jofitimprurëse për realizimin e politikave kombëtare e vendore, si dhe ofrimi i shërbimeve të nevojshme për mbrojtjen e fëmijës, bëhet në bazë të rregullave të përcaktuara në këtë vendim.

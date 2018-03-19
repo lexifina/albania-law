@@ -1,0 +1,1 @@
+11. Vendimi nr. 263, datë 12.4.2012, i Këshillit të Ministrave, “Për përcaktimin e rregullave të hollësishme për bashkëpunimin midis mekanizmave institucionalë dhe organizatave jofitimprurëse për realizimin e politikave vendore për mbrojtjen e të drejtave të fëmijëve”, shfuqizohet.

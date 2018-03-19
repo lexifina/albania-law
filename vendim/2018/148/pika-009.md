@@ -1,0 +1,1 @@
+9. Mekanizmat institucionalë në nivel qendror e vendor, institucionet qendrore e vendore në nivel lokal hartojnë dhe zbatojnë marrëveshje bashkëpunimi me organizatat jofitimprurëse në fushat e parashikuara në kreun I të këtij vendimi.

@@ -1,0 +1,4 @@
+10. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës, përveç formave të bashkëpunimit të parashikuara në pikën 7 të këtij vendimi, mund të bashkëpunojë me organizatat jofitimprurëse nëpërmjet:
+a) Ngritjes së grupeve teknike, me përfaqësues të organizatave jofitimprurëse, për çështje të caktuara, që lidhen me zbatimin e ligjit ose të dokumenteve strategjike apo çdo çështje tjetër, e cila kërkon angazhimin e ekspertëve të organizatave jofitimprurëse dhe sjelljen e praktikave më të mira nga projektet apo programet e tyre;
+b) Ngritjes së grupeve të punës të përbashkëta, me qëllim realizimin e ndërhyrjeve në situata të caktuara apo në raste të caktuara të fëmijëve në nevojë për mbrojtje;
+c) Krijimit të bordeve këshillimore, me qëllim mbështetjen e Këshillit Kombëtar për të Drejtat dhe Mbrojtjen e Fëmijës, të komiteteve teknike të tij, mekanizmave institucionalë apo strukturave të mbrojtjes së fëmijës në nivel vendor.
