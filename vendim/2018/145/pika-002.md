@@ -1,0 +1,1 @@
+2. KDIMDP-ja është përgjegjëse për krijimin, mbajtjen, administrimin e bazës së të dhënave “Regjistri elektronik i kërkesave dhe i përgjigjeve për të drejtën e informimit”, dhe ndërveprimin e përmbajtjes së tij me bazat e tjera të informacionit.

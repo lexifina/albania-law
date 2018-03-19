@@ -1,0 +1,1 @@
+1. Krijimin, në zyrën e Komisionerit për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale (në vijim “KDIMDP”), e bazës së të dhënave shtetërore “Regjistri elektronik i kërkesave dhe përgjigjeve për të drejtën e informimit” (në vijim “REKPDI”), përmbajtja e së cilës do të publikohet në portalin “Pyetshtetin.al”.

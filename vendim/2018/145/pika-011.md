@@ -1,0 +1,1 @@
+11. Të gjitha ndryshimet në arkitekturën software dhe hardware të REKPDI-së, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe praktikave evropiane e ndërkombëtare, bëhen në përputhje me legjislacionin në fuqi.

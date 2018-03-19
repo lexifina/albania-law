@@ -1,0 +1,1 @@
+9. Funksionet dhe të drejtat e secilit përdorues janë në përputhje me pozicionin e punës dhe të përcaktuara në rregulloren e parashikuar në shkronjën “c”, të pikës 8, të këtij vendimi, në përputhje me ligjin nr. 10325, datë 23.9.2010, “Për bazën e të dhënave shtetërore”.

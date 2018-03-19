@@ -1,0 +1,1 @@
+7. Dhënës i informacionit për këtë bazë të dhënash janë autoritetet publike, nëpërmjet koordinatorëve të tyre për të drejtën e informimit, si dhe qytetarët, të cilët depozitojnë në të ankesa në formë elektronike.

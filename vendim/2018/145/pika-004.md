@@ -1,0 +1,1 @@
+4. Të dhënat e REKPDI-së përditësohen çdo 3 (tre) muaj nga koordinatorët e së drejtës për informim të secilit autoritet publik, të cilit i drejtohet kërkesa për informim. Gjithashtu, REKPDI-ja lejon mundësinë e paraqitjes së kërkesave për informim nga subjektet e interesuara drejtpërsëdrejti dhe përgjigjja nga autoriteti publik do të jepet drejtpërsëdrejti në REKPDI-ja.

@@ -1,0 +1,1 @@
+10. Baza e të dhënave të REKPDI-së ndërvepron me bazën e të dhënave të autoriteteve publike, sipas ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, ligjit nr. 119/2014, “Për të drejtën e informimit”, dhe ligjit nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar.

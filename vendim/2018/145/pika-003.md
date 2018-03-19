@@ -1,0 +1,1 @@
+3. REKPDI-ja përbën një bazë gjithëpërfshirëse të të dhënave lidhur me kërkesat për informim të depozituara pranë autoriteteve publike në kuptim të ligjit nr. 119/2014, “Për të drejtën e informimit”, dhe përgjigjet e dhëna prej tyre.
