@@ -1,0 +1,1 @@
+14. Për nëpunësit civilë aktualë të drejtorive të bujqësisë, në rastin e mbylljes dhe të ristrukturimit të institucionit, zbatohen dispozitat e legjislacionit për nëpunësin civil. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.

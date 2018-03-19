@@ -1,0 +1,1 @@
+1. Krijimin e agjencive rajonale të ekstensionit bujqësor si persona juridikë publikë, në varësi të ministrisë përgjegjëse për bujqësinë, me seli në Shkodër, Tiranë, Lushnjë dhe Korçë. Agjencitë rajonale të ekstensionit bujqësor financohen nga buxheti i shtetit, i miratuar për ministrinë përgjegjëse.

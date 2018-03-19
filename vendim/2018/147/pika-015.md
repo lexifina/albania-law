@@ -1,0 +1,1 @@
+15. Drejtoritë e bujqësisë të vazhdojnë të kryejnë funksionet e tyre deri në momentin e krijimit dhe fillimit të funksionimit të agjencive rajonale të ekstensionit bujqësor Shkodër, Tiranë, Lushnjë dhe Korçë.

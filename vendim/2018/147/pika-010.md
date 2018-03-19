@@ -1,0 +1,2 @@
+10. Nëpunësit e agjencive rajonale të ekstensionit bujqësor që kryejnë funksione ekstensioni duhet të trajnohen, të testohen dhe të pajisen me certifikatën përkatëse për ofrimin e shërbimeve të ekstensionit.
+Trajnimi, testimi dhe pajisja me certifikatë e nëpunësve të ekstensionit për ofrimin e shërbimeve këshilluese në bujqësi dhe zhvillimin rural bëhen në përputhje me kriteret dhe procedurat e përcaktuara në udhëzimin e ministrit përgjegjës për bujqësinë.

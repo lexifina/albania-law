@@ -1,0 +1,1 @@
+8. Strukturat dhe organikat e agjencive rajonale të ekstensionit bujqësor miratohen me urdhër të Kryeministrit, sipas përcaktimeve të legjislacionit në fuqi për organizimin dhe funksionimin e administratës shtetërore.

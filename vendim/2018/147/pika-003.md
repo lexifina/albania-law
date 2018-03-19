@@ -1,0 +1,1 @@
+3. Agjencitë rajonale të ekstensionit bujqësor kanë si mision të tyre të bëhen faktorë kryesorë në zhvillimin e sektorit bujqësor konkurrues dhe të qëndrueshëm në vend, duke punuar në partneritet afatgjatë me përfituesit.
