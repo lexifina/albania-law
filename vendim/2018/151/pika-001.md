@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 8,5 (tetë presje pesë) % të pikëve, që i jepet shoqërisë “Gener 2” për rezultatin teknik dhe financiar të propozimit të pakërkuar, të paraqitur për procedurën e koncesionit/partneritetit publik privat për projektin e rrugës Thumanë-Fushë-Krujë-Vorë-Kashar.
