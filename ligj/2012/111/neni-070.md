@@ -1,0 +1,7 @@
+# Neni 70
+Planifikimi i menaxhimit të rrezikut nga përmbytjet
+1. Agjencia e Menaxhimit të Burimeve Ujore, në bashkëpunim me ministrinë përgjegjëse për emergjencat civile, harton akte nënligjore për planet dhe rregullat për menaxhimin e rrezikut nga përmbytjet, në përputhje me legjislacionin në fuqi për emergjencat civile dhe me Planin Kombëtar të Emergjencave Civile.
+2. Agjencia e Menaxhimit të Burimeve Ujore në bashkëpunim me zyrat e administrimit të baseneve ujore harton për rrethet e basenit ujor të tij planin e menaxhimit të rrezikut nga përmbytjet, i cili fokusohet në parandalimin, mbrojtjen, gatishmërinë, përfshirë parashikimin e përmbytjeve dhe sistemet e paralajmërimit të hershëm, të cilin e paraqet për bashkërendim në strukturat përgjegjëse për emergjencat civile.
+3. Plani i menaxhimit të rrezikut nga përmbytjet hartohet duke marrë në konsideratë karakteristikat përkatëse të baseneve ujore. Planet e menaxhimit të përmbytjeve përfshijnë edhe promovimin e praktikave të përdorimit të qëndrueshëm të tokës, përmirësimin e aftësisë mbajtëse të ujit, kontrollin nga përmbytjet të zonave të caktuara, në rast përmbytjeje.
+4. Plani i menaxhimit të rrezikut nga përmbytjet është pjesë përbërëse e planit të menaxhimit të basenit ujor.
+5. Këshilli i Ministrave, me propozimin e ministrit përgjegjës për emergjencat civile, pas miratimit paraprak nga Këshilli Kombëtar i Ujit, miraton aktin nënligjor për planet dhe rregullat për menaxhimin e rrezikut nga përmbytjet, të hartuara nga Agjencia e Menaxhimit të Burimeve Ujore.

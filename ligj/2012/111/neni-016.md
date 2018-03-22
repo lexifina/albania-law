@@ -1,0 +1,8 @@
+# Neni 16
+Strategjia Kombëtare e Menaxhimit të Burimeve Ujore
+1. Strategjia Kombëtare e Menaxhimit të Burimeve Ujore është një dokument planifikimi që përcakton vizionin e politikave të shtetit, misionin, qëllimet dhe objektivat në fushën e menaxhimit të integruar të ujërave për një periudhë afatgjatë.
+2. Strategjia Kombëtare e Menaxhimit të Burimeve Ujore bazohet në kërkimet shkencore, vëzhgimin e vazhdueshëm të situatës dhe fenomenet që kanë lidhje me ujin dhe përdorimin e tij, duke respektuar problemet specifike të ujit dhe mbrojtjen e integruar të mjedisit në çdo basen ujor.
+3. Strategjia Kombëtare e Menaxhimit të Burimeve Ujore është dokumenti kuadër për menaxhimin e ujërave për zhvillimin e planeve dhe dokumenteve të tjera strategjike në fushën e planifikimit territorial, mbrojtjes së mjedisit, diversitetit biologjik dhe peizazhit, bujqësisë, pylltarisë, peshkimit, transportit, turizmit, shëndetit publik dhe përmban edhe dokumente të tjera përkatëse.
+4. Strategjia Kombëtare e Menaxhimit të Burimeve Ujore rishikohet çdo 15 vjet. Strategjia mund të rishikohet dhe të përditësohet edhe para përfundimit të këtij afati, në qoftë se një gjë e tillë diktohet nga ndryshimet në sistemin e ujërave dhe zhvillimet ekonomike dhe sociale të vendit.
+5. Organet, entet, institucionet e specializuara në fushën e ujërave, nën drejtimin dhe mbikëqyrjen e Agjencisë së Menaxhimit të Burimeve Ujore, hartojnë Strategjinë Kombëtare të Menaxhimit të Burimeve Ujore.
+6. Këshilli i Ministrave, me propozimin e Kryeministrit, pas miratimit paraprak nga Këshilli Kombëtar i Ujit, miraton kërkesat për përmbajtjen, zhvillimin dhe zbatimin e Strategjisë Kombëtare të Menaxhimit të Burimeve Ujore.
