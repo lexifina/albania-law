@@ -1,0 +1,1 @@
+2. Përfitojnë të ardhura nga papunësia të gjithë personat e siguruar, të cilët plotësojnë kushtet e përcaktuara në nenin 53, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar.

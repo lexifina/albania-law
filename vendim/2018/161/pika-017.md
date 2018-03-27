@@ -1,0 +1,1 @@
+17. Për të gjitha rastet e përmendura në pikën 16, pagesa e së ardhurës nga papunësia nuk do të regjistrohet në listëpagesën e muajit. Kjo e ardhur do të paguhet në momentin që personi paraqitet në zyrën e punësimit me një nga dokumentet justifikuese. Në rast të kundërt, kjo pagesë do të derdhet në buxhetin e shtetit dhe është e pakthyeshme.

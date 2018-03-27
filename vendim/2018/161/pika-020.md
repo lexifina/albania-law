@@ -1,0 +1,1 @@
+20. Në rast se gjatë kohës së përfitimit të së ardhurës nga papunësia përfituesi largohet me banim (leje banimi) në një vend tjetër, zyra e punësimit dërgon zyrtarisht dosjen me dokumentacionin përkatës në zyrën e punësimit të rrethit ku ai është transferuar.

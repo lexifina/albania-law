@@ -1,0 +1,1 @@
+23. Vendimet e Këshillit të Ministrave nr. 223, datë 19.4.2006, “Për pagesën e së ardhurës nga papunësia”, i ndryshuar, dhe nr. 192, datë 9.3.2016, “Për caktimin e nivelit bazë të së ardhurës nga papunësia”, shfuqizohen.

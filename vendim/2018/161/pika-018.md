@@ -1,0 +1,1 @@
+18. Pagesa e së ardhurës nga papunësia është mujore dhe paguhet përpjesëtimisht me numrin e ditëve kalendarike, për kohën që përfituesi ka të drejtë ta marrë këtë të ardhur. Pagesa merret një herë në muaj, pranë bankës përkatëse.

@@ -1,0 +1,1 @@
+22. Financimi i programit të pagesës të së ardhurës nga papunësia mbulohet nga fondet vjetore të buxhetit të shtetit, në zërin 606, “Pagesa e së ardhurës nga papunësia”, miratuar për Ministrinë e Financave dhe Ekonomisë.

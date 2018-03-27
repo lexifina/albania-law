@@ -1,0 +1,1 @@
+12. Fëmijët mbi moshën 15 vjeç (mosha minimale sipas Kodit të Punës të Republikës së Shqipërisë), të cilët janë në ngarkim të personit përfitues të së ardhurës nga papunësia dhe që nuk janë të përfshirë në sistemin arsimor, nuk do të përfitojnë shtesën familjare prej 5%.
