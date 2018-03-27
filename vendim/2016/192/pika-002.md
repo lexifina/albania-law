@@ -1,1 +1,0 @@
-2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga fondet e parashikuara në buxhetin e vitit 2016, miratuar për Ministrinë e Mirëqenies Sociale dhe Rinisë, në grupin 25, titull 10550 kap.1, Art 606 “E ardhura nga papunësia”.
