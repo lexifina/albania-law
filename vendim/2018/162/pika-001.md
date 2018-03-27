@@ -1,0 +1,1 @@
+1. Punëkërkuesit e papunë, të cilëve u është ofruar dhe kanë pranuar të marrin pjesë në një kurs të formimit profesional (kurse profesionesh), mund të përfitojnë një pagesë pjesëmarrjeje në kurs, në masën 50% të së ardhurës nga papunësia, me kusht që ata të mos përfitojnë gjatë kësaj periudhe ndihmën ekonomike ose pagesën e papunësisë.

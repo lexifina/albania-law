@@ -1,0 +1,1 @@
+4. Në zyrën e punësimit ngrihet komisioni i vlerësimit, i përbërë nga, të paktën, tre persona, i cili vlerëson rast pas rasti punëkërkuesit të cilët do të marrin këtë pagesë, sipas kritereve të përcaktuara në rregulloren përkatëse, të përcaktuar në pikën 11, të këtij vendimi.

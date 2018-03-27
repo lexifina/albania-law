@@ -1,0 +1,1 @@
+7. Në rastet kur vendbanimi i punëkërkuesit të papunë është mbi 2 km larg institucionit ofrues të kursit të formimit profesional, zyra e punësimit paguan një kosto mujore transporti, në masën e përcaktuar në kuadrin ligjor për tarifat e transportit të udhëtarëve.

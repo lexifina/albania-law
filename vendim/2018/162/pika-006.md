@@ -1,0 +1,1 @@
+6. Drejtoritë rajonale të Shërbimit Kombëtar të Punësimit informojnë çdo muaj drejtoritë rajonale të shërbimit social shtetëror për personat që kanë përfituar nga programet e formimit profesional, shoqëruar me listën emërore dhe programin nga i cili kanë përfituar.
