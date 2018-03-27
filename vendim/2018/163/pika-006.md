@@ -1,0 +1,1 @@
+6. Ofertat e kualifikuara do të vlerësohen në bazë të çmimit të ofruar. Oferta me çmimin më të ulët do të jetë oferta fituese. Fondi limit është 20 000 000 (njëzet milionë) lekë, pa përfshirë TVSH-në.

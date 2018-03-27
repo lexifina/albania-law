@@ -1,0 +1,1 @@
+3. Komisioni do të kryejë identifikimin e shoqërive konsulente që ofrojnë shërbim në fushën e këshillimit juridiko-financiar e teknik, bazuar edhe në eksperiencat e mëparshme të bashkëpunimit të shtetit shqiptar me këto shoqëri, si dhe në vlerësimet e këtyre konsulentëve në publikime kombëtare dhe ndërkombëtare.

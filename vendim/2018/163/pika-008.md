@@ -1,0 +1,2 @@
+8. Ofertat hapen nga komisioni në vendin, datën dhe orën e përcaktuar në ftesën për ofertë. Komisioni shqyrton dokumentacionin e paraqitur nëse është në përputhje me përcaktimet e këtij vendimi dhe ftesës për ofertë.
+Komisioni, brenda 3 (tri) ditëve pune, njofton dhe fton ofertuesit e kualifikuar për paraqitjen e ofertës teknike dhe financiare, ndërsa ofertuesit e pasuksesshëm për arsyet e skualifikimit.
