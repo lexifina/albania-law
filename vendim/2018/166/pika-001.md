@@ -1,0 +1,3 @@
+1. Në buxhetin e miratuar për vitin 2018 bëhet rishpërndarja e fondeve, si më poshtë vijon:
+a) Ministrisë së Bujqësisë dhe Zhvillimit Rural, në programin buxhetor 04250, “Zhvillimi rural duke mbështetur prodhimin bujqësor e blegtoral, agroindustrinë dhe marketingun”, artikulli 606, “Transfertë në buxhetet familjare”, zëri “Shpenzime korente”, i pakësohet fondi prej 20 000 000 (njëzet milionë) lekësh.
+b) Ministrisë së Mbrojtjes, në programin buxhetor 02150, “Mbështetja e luftimit”, i shtohet fondi i përmendur në shkronjën “a”, të kësaj pike, për t’u përdorur për sigurimin e bazës ushqimore për blegtorinë në zonat e përmbytura në Shkodër.
