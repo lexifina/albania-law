@@ -1,0 +1,1 @@
+1. Ky vendim ka për qëllim të përcaktojë ecurinë e negocimit me partneritetin privat të përzgjedhur nga shoqëria “Albgaz” sh.a., për mirëmbajtjen e rrjetit të transmetimit të ndërtuar nga Trans Adriatic Pipeline AG në territorin e Republikës së Shqipërisë, nëpërmjet krijimit të një shoqërie të përbashkët me këtë partner privat.

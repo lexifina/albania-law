@@ -1,0 +1,1 @@
+7. Kontrata përmban kërkesat që burojnë nga legjislacioni në fuqi, kushtet kryesore të negocimit me shoqërinë TAP AG, termat e referencës së procedurës së përzgjedhjes, si dhe parashikon ata terma që vlerësohen të përshtatshëm nga palët për realizimin e qëllimit të bashkëpunimit, duke përfshirë raportin e aksioneve dhe kushtet kryesore të ushtrimit të aktivitetit.

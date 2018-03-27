@@ -1,0 +1,4 @@
+2. Në kuptim të këtij vendimi, termat e mëposhtëm kanë këto kuptime:
+a) Shoqëria “Albgaz” sh.a. është shoqëri me kapital 100 % shtetëror, që vepron si operator i kombinuar i gazit natyror duke kryer veprimtarinë e Operatorit të Sistemit të Transmetimit dhe Operatorit të Sistemit të Shpërndarjes;
+b) “Institucion përgjegjës” është shoqëria “Albgaz” sh.a.
+c) “Partner privat” është ofertuesi i shpallur fitues i procedurës konkurruese për mirëmbajtjen e rrjetit të transmetimit të ndërtuar nga dhe nën pronësinë e Trans Adriatic Pipeline AG në territorin e Republikës së Shqipërisë, Operatori Italian i Transmetimit të Gazit Natyror, SNAM s.p.a., me të cilin shoqëria “Albgaz” sh.a. do të krijojë një shoqëri të përbashkët të inkorporuar në formën ligjore, sipas parashikimeve të ligjit për shoqëritë tregtare.
