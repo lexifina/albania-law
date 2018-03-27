@@ -1,0 +1,1 @@
+5. Vlerësimi për çdo tregues që përbën kriteret e vlerësimit, në nivel njësie bazë, realizohet nëpërmjet një sistemi pikëzimi algoritmik, në mënyrë automatike nga platforma elektronike, Sistemi i Shqiptar i Informacionit të Kërkimit Shkencor - ACRIS.

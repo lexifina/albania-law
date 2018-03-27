@@ -1,0 +1,1 @@
+1. Miratimin e metodologjisë së procesit të vlerësimit të veprimtarisë kërkimore-shkencore të njësive bazë të institucioneve të arsimit të lartë, mbështetur në kriteret e vlerësimit, të përcaktuara në këtë vendim.

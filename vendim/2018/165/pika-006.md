@@ -1,0 +1,1 @@
+6. Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit organizon, administron, monitoron dhe publikon rezultatet e procesit të vlerësimit të veprimtarisë kërkimore-shkencore të njësive bazë të institucioneve të arsimit të lartë.

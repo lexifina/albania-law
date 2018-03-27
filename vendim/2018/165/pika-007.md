@@ -1,0 +1,1 @@
+7. Institucioni i arsimit të lartë, pas marrjes së njoftimit nga Agjencia Kombëtare e Kërkimit Shkencor dhe Inovacionit, njofton dhe vendos afate për personelin akademik të njësive bazë, që të realizojnë procesin përkatës të plotësimit të të dhënave të kërkuara, në portalin “Vlerësimi i veprimtarisë kërkimore-shkencore”, në platformën ACRIS.
