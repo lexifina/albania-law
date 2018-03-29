@@ -1,3 +1,0 @@
-# Neni 18
-1. Personat juridikë ose fizikë, që kryejnë veprimtari tregtare, lejohen të menaxhojnë substancat dhe preparatet e rrezikshme, të klasifikuara sipas nenit 5 të këtij ligji, vetëm nëse kjo veprimtari kryhet në bazë të autorizimit, të marrë në emër të tyre, në përputhje me këtë ligj.
-2. Autorizimi nuk lëshohet nëse personat juridikë ose fizikë, të autorizuar për kryerjen e veprimtarisë tregtare, menaxhojnë substanca dhe preparate të rrezikshme që kanë një ose më shumë veti të rrezikshme, sipas pikave 5, 8, 9, 10 dhe 11 të nenit 5 të këtij ligji, në sasi më të vogël se 1 ton për një vit kalendarik.
