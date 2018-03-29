@@ -1,0 +1,9 @@
+# Neni 11
+Reklamimi
+1. Ndalohet reklamimi i kimikateve që i përkasin një apo më shumë kategorive të specifikuara si të rrezikshme, nëse në to nuk paraqiten qartë kategoritë e rrezikut. Për çdo reklamim të një kimikati të klasifikuar si i rrezikshëm duhet të përmendet klasa e rrezikut ose kategoria e rrezikut që lidhet me të.
+2. Për kimikatet që mund të blihen pa etiketë, të dhënat për vetitë e tyre të rrezikshme duhet paraprakisht të bëhen të ditura me shkrim, në një fletë të veçantë, në mënyrë të kuptueshme, të qartë dhe të lexueshme.
+3. Në reklamimin e kimikateve nuk duhet të fshihen rreziqet që ato mund të paraqesin për shëndetin e njeriut dhe mjedisin, si dhe nuk duhet të nxiten përdorimi, trajtimi ose asgjësimi i tyre në mënyrë të papërshtatshme.
+4. Për çdo reklamim të një kimikati të klasifikuar si i rrezikshëm, në bazë të të cilit një pjesëtar i publikut të gjerë konkludon një kontratë blerjeje pa e parë më përpara etiketën e tij, duhet të përmendet klasa/klasat e rrezikut që tregohet/n në etiketë.
+5. Terma të tillë, si “i degradueshëm”, “ekologjikisht i padëmshëm”, “miqësor për mjedisin” dhe “miqësor me ujin”, mund të përdoren në reklama vetëm nëse vetitë e përshkruara janë shpjeguar me hollësi.
+6. Furnizuesit e kimikateve të rrezikshme ose të përzierjeve të klasifikuara si të parrezikshme, por që në përmbajtjen e tyre kanë të paktën një substancë të klasifikuar si të rrezikshme, gjatë reklamimit duhet të tregojnë vetitë e rrezikshme të kimikateve. Gjatë reklamimit nuk lejohet fshehja e vetive të rrezikshme të kimikateve për përdoruesit dhe publikun.
+7. Pika 1, e këtij neni, zbatohet pavarësisht nga legjislacioni i veçantë për mbrojtjen e konsumatorit, në respekt të kontratës në distancë midis një profesionisti dhe konsumatorit, e kryer nëpërmjet telefonit, e-mailit, katalogut etj.

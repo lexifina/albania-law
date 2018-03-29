@@ -1,0 +1,6 @@
+# Neni 23
+Parandalimi dhe reduktimi i ndotjes së mjedisit nga kimikatet
+1. Në parandalimin dhe reduktimin e ndotjes nga asbesti, me qëllim mbrojtjen e shëndetit të njeriut dhe mjedisit, përfshihen masa për reduktimin në burim të shkarkimeve të asbestit në ajër, të derdhjeve të asbestit në mjediset ujore dhe të mbetjeve të ngurta të asbestit.
+2. Rregullat e nevojshme për parandalimin dhe reduktimin e ndotjes së mjedisit nga asbesti miratohen nga Këshilli i Ministrave, me propozimin e ministrit përgjegjës për mjedisin.
+3. Në reduktimin e ndotjes dhe eliminimin gradual deri në zhdukje të plotë të përdorimit të mërkurit përfshihen masat për ndalimin e eksporteve, reduktimin e mërkurit në produkte, procese dhe në industritë që e përdorin, çlirojnë ose shkarkojnë mërkur në atmosferë apo lëshojnë në mënyrë të pakontrolluar mbetjet teknologjike që përmbajnë mërkur, detyrimin për ruajtjen dhe asgjësimin e sigurt të mërkurit.
+4. Rregullat e ndalimit të eksportit të mërkurit metalik, komponimeve dhe përzierjeve të caktuara të mërkurit, ruajtjes së sigurt të mërkurit metalik dhe kriteret specifike të ruajtjes së mërkurit metalik të konsideruar si mbetje miratohen nga Këshilli i Ministrave, me propozimin e ministrit përgjegjës për mjedisin.
