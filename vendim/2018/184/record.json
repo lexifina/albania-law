@@ -1,0 +1,29 @@
+{
+  "qbz_id": 64535,
+  "title": "PËR HAPJEN E PROCEDURËS SË PRANIMIT NË KATEGORINË E ULËT DREJTUESE EDHE PËR KANDIDATË \nTË TJERË JASHTË SHËRBIMIT CIVIL, \nPËR VITIN 2018",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "184",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2018-03-29",
+  "published": "2018-03-30",
+  "in_force": "2018-03-30",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/779b46c7504992b40ad9eb857c87ae4229ad871b1fa26c1026b80037d5faa362.docx",
+  "source_sha256": "779b46c7504992b40ad9eb857c87ae4229ad871b1fa26c1026b80037d5faa362",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64535",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/03/29/184",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    55699,
+    65804
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
