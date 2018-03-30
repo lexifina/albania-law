@@ -1,0 +1,1 @@
+1. Ministrisë së Kulturës, në buxhetin e miratuar për vitin 2018, i shtohet fondi prej 52 200 000 (pesëdhjetë e dy milionë e dyqind mijë) lekësh, për mbulimin e shpenzimeve të aktiviteteve që do të realizohen në kuadër të vitit 2018, si “Viti Mbarëkombëtar i Gjergj Kastriotit-Skënderbeut”.
