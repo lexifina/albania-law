@@ -1,0 +1,1 @@
+2. Ministri përgjegjës për financat përcakton me udhëzim pragjet minimale dhe maksimale finan-ciare, për secilën kategori të projekteve të investimeve publike, në bazë të të cilave bëhet klasifikimi i projekteve dhe vlerësimi i tyre.
