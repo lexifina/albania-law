@@ -1,0 +1,1 @@
+11. Komisionet e miratimit të projekteve në zyrën rajonale të punësimit dhe Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit vendosin miratimin ose jo të projektit brenda 10 (dhjetë) ditëve pune.

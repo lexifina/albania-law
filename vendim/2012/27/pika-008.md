@@ -1,0 +1,1 @@
+8. Zyra përkatëse e punësimit ia paraqet këshillit vendor tripalësh të ngritur pranë saj projektet që kërkohen të zbatohen aty, ku ajo ushtron veprimtarinë, i cili, pasi shqyrton dhe vlerëson dobinë social-ekonomike të projekteve të paraqitura, i miraton ato në parim.

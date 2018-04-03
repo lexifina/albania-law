@@ -1,0 +1,1 @@
+14. Ndërmjet Shërbimit Kombëtar të Punësimit dhe të punëdhënësit nënshkruhet një kontratë, ku përcaktohen të drejtat dhe detyrimet, në përputhje me programin për secilën palë. Kontratat lidhen vetëm për vitin buxhetor, për të cilin është miratuar projekti. Për vazhdimin e projektit në vitin pasardhës do të lidhet një kontratë shtesë, në përputhje me fondet e miratuara atë vit.
