@@ -1,1 +1,0 @@
-4. Gradën deri në major a rreshter e fitojnë oficeri dhe nënoficeri rezervist, që kryejnë detyra në specialitetet e Forcave të Armatosura, si mjek, jurist, inxhinier, ekonomist a në funksione të ngjashme, të përcaktuara me urdhër të Ministrit të Mbrojtjes, sipas vjetërsisë në shërbimin ushtrak dhe jo sipas kritereve të përcaktuara më sipër.

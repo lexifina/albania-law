@@ -1,1 +1,0 @@
-3. Për gradimin e radhës, kur kandidatët plotësojnë kriteret dhe janë në kushte të barabarta, komisionet e karrierës u japin përparësi ushtarakëve aktivë të dalë në rezervë në raport me ushtarakët rezervistë, që nuk kanë dalë nga strukturat aktive të Forcave të Armatosura.
