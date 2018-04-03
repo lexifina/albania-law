@@ -1,0 +1,1 @@
+17. Në rastet kur punëkërkuesi, si punëmarrës, pjesëmarrës në këtë program, largohet përpara afatit të përcaktuar në kontratë, për shkaqe të arsyeshme, zëvendësimi bëhet nga zyra përkatëse e regjistrimit pas njoftimit nga punëdhënësi. Në këto raste, punëdhënësit i vazhdohet kompensimi për periudhën e mbetur.

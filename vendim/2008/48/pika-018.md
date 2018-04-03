@@ -1,0 +1,1 @@
+18. Nëse punëdhënësi në mënyrë të menjëhershme dhe pa shkaqe bën zgjidhjen e arsyeshme të kontratës së punës, për punëkërkuesin e punësuar, është і detyruar ta kthejë të gjithë financimin e marrë, për punëkërkuesin e punësuar, që nga data e parë e dhënies së tij, së bashku me interesat, të llogaritura sipas normës bazë të interesit të Bankës së Shqipërisë.

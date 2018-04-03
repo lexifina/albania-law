@@ -1,0 +1,1 @@
+20. Shërbimi Kombëtar i Punësimit analizon efektshmërinë e programit dhe përgatit raporte vjetore, brenda datës 31 mars të vitit pasardhës, të cilat ia paraqet ministria përgjegjëse për çështjet e punësimit dhe formimit profesional dhe Drejtorisë së Ndihmës Shtetërore, në struktura përgjegjëse e ndihmës shtetërore.

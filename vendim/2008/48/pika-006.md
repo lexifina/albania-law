@@ -1,0 +1,1 @@
+6. Punëdhënësi, që aplikon për programin e punësimit, nuk duhet të ketë shkelur, në të kaluarën legjislacionin e punës si dhe duhet të ketë derdhur, rregullisht, tatimet e sigurimet e detyrueshme shoqërore, për aq kohë sa kryen veprimtarinë, veçanërisht për dy vitet e fundit.

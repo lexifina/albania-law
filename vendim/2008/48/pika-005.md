@@ -1,0 +1,1 @@
+5. Zyra përkatëse e punësimit bën njoftimin në Buletinin e Njoftimeve Publike, çdo vit, për fondin e vënë në dispozicion dhe kriteret e përfitimit nga ky program. Publikimi i programit bëhet, gjithashtu, me të gjitha mjetet e mundshme elektronike dhe joelektronike.

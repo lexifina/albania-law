@@ -1,0 +1,2 @@
+14. Për projektet e miratuara, zyra përkatëse e punësimit, në bashkëpunim me punëdhënësin, plotësojnë listën e punëkërkuesve të papunë, që do të përfshihen në program. Punëkërkuesit e papunë, që do të përfshihen në program, sipas shkronjave “d” dhe “e” të pikës 3 të këtij vendimi, duhet të jenë të regjistruar në zyrat e punësimit.
+Punëkërkuesit e papunë, që kundërshtojnë të marrin pjesë në këtë program, hiqen nga lista e punëkërkuesve të papunë dhe nuk do të vazhdojnë të përfitojnë ndihmën ekonomike apo pagesën e papunësisë.

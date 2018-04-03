@@ -1,0 +1,1 @@
+23. Kostoja dhe vlerësimi i këtij programi përballohen nga fondet vjetore të Buxhetit të Shtetit, zëri “Nxitja e punësimit”, miratuar për ministrinë përgjegjëse për çështjet e punësimit dhe formimit profesional.
