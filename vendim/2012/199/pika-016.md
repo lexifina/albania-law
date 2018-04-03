@@ -1,0 +1,1 @@
+16. Punëdhënësi dhe punëkërkuesi, si punëmarrës, nënshkruajnë një kontratë individuale pune, në të cilën përcaktohen të drejtat dhe detyrimet e palëve, sipas përcaktimeve të bëra në Kodin e Punës dhe në këtë vendim.

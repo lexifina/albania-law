@@ -1,0 +1,1 @@
+20. Financimi sipas pikës 1, të këtij vendimi, ndërpritet në rastin kur punëdhënësi, pas përfitimit të financimit, në zbatim të këtij vendimi, zgjidh, pa shkaqe të arsyeshme, kontratat e punës së punëmarrësve të tjerë, të punësuar pranë tij, të vërtetuar nga Inspektorati Shtetëror i Punës.

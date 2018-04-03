@@ -1,0 +1,1 @@
+10. Mënyra e organizimit, vlerësimit të projekteve dhe e funksionimit të punës, si dhe përbërja e komisioneve përcaktohen në rregulloren e miratuar nga Këshilli Administrativ Tripalësh i Shërbimit Kombëtar të Punësimit.

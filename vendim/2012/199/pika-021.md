@@ -1,0 +1,1 @@
+21. Shërbimi Kombëtar i Punësimit monitoron ecurinë e programit dhe përgatit raporte vjetore, brenda datës 31 mars të vitit pasardhës, të cilat ua paraqet ministrisë përgjegjëse për çështjet e punësimit dhe formimit profesional dhe strukturës përgjegjëse e ndihmës shtetërore.

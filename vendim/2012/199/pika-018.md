@@ -1,0 +1,1 @@
+18. Në rastet kur punëkërkuesi, si punëmarrës, pjesëmarrës në këtë program, largohet përpara afatit të përcaktuar në kontratë brenda gjysmës së parë të zbatimit të kontratës sipas pikës 17 të këtij vendimi për shkaqe të arsyeshme, zëvendësimi bëhet nga zyra përkatëse e punësimit, pas njoftimit nga punëdhënësi. Punëdhënësit i vazhdohet kompensimi për periudhën e mbetur.
