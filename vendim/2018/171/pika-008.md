@@ -1,0 +1,1 @@
+8. Vula e Drejtorisë së Përgjithshme të Taksës së Pronës ka formën dhe elementet e përcaktuara në vendimin nr. 390, datë 6.8.1993, të Këshillit të Ministrave, “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjen e vulave zyrtare”. Vula, prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
