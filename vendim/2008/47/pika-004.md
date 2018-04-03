@@ -1,0 +1,1 @@
+4. Punëdhënësi, në përfundim të periudhës së formimit, duhet të punësojë jo më pak se 50 për qind të të trajnuarve, me kontratë pune, për një periudhë 6-mujore. Gjatë periudhës së zbatimit të këtij programi, punëdhënësi nuk duhet të bëjë pushime nga puna, pa shkaqe të arsyeshme, të punëmarrësve të tjerë të punësuar më parë.

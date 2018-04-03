@@ -1,0 +1,3 @@
+7. Kursantët, punëkërkues të papunë, përfitojnë një pagesë pjesëmarrjeje në kurs, në masën 50 për qind të pagës minimale, në shkallë vendi, për të gjithë kohëzgjatjen e trajnimit, e cila përballohet nga zyra përkatëse e punësimit, nga fondet e nxitjes së punësimit.
+Po nga këto fonde, zyra përkatëse e punësimit bën edhe derdhjen e kontributit për sigurimin nga aksidentet në punë, në masën 0.5 për qind të pagës minimale, i cili derdhet në degën përkatëse të sigurimit shoqëror të detyrueshëm.
+Gjatë periudhës së trajnimit, kursantit, punëkërkues të papunë, i ndërpritet pagesa e ndihmës ekonomike dhe pagesa e papunësisë, por ka të drejtë ta rimarrë pas përfundimit të trajtimit, në qoftë se nuk punësohet.

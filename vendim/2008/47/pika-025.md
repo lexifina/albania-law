@@ -1,0 +1,1 @@
+25. Zyra përkatëse e punësimit harton dhe dërgon, çdo muaj, në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit, informacion për zbatimin e projekteve, personat e trajnuar, përfituesit e programeve të mbështetjes me të ardhura, punëkërkuesit e papunë etj.

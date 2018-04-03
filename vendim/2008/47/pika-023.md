@@ -1,0 +1,1 @@
+23. Nëse punëdhënësi në mënyrë të menjëhershme dhe pa shkaqe të arsyeshme bën zgjidhje të kontratës së punës për punëmarrësin e trajnuar, është i detyruar ta kthejë të gjithë financimin e marrë, për punëkërkuesin e punësuar, që nga data e parë e dhënies së tij, së bashku me interesat, të llogaritura sipas normës bazë të interesit të Bankës së Shqipërisë.

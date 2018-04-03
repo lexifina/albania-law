@@ -1,0 +1,1 @@
+19. Punëdhënësi dhe punëkërkuesi, si punëmarrës, nënshkruajnë një kontratë individuale pune, në të cilën përcaktohen të drejtat dhe detyrimet e palëve, sipas përcaktimeve të bëra në ligjin nr. 7961, datë 12.7.1995, “Kodi i Punës i Republikës së Shqipërisë”, të ndryshuar, dhe në këtë vendim.

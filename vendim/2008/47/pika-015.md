@@ -1,0 +1,2 @@
+15. Për zbatimin e pikës 14 të këtij vendimi, në zyrat rajonale të punësimit dhe në Drejtorinë e Përgjithshme të Shërbimit Kombëtar të Punësimit ngrihen komisionet e miratimit të projekteve, me jo më pak se 5 persona.
+Mënyra e organizimit, vlerësimit të projekteve dhe e funksionimit të punës, si dhe përbërja e komisioneve përcaktohen me rregullore të këshillit administrativ tripalësh të Shërbimit Kombëtar të Punësimit.
