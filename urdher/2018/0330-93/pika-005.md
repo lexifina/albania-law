@@ -1,0 +1,1 @@
+5. Për zbatimin e këtij urdhri ngarkohet z. Hasanaj, përgjegjës i grupit të punës; Drejtoria e Vettingut dhe Sigurimit Industrial; Drejtoria e Sigurimit, Administrimit të Dokumenteve dhe Regjistrit Qendror; Sektori i Sigurimit të Sistemeve të Komunikimit dhe Informacionit; Drejtoria e Financës, Shërbimeve Mbështetëse dhe Mbikëqyrjes Shtetërore.
