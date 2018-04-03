@@ -1,0 +1,1 @@
+4. Pas përfundimit të kontratës së punës, sipas pikës 1 të këtij vendimi, në rastin e vazhdimit të punësimit me kontratës dhe me pagesë të plotë nga ana e punëdhënësit, në lidhje me pagesat e aftësisë së kufizuar zbatohet legjislacioni në fuqi.

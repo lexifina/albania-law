@@ -1,0 +1,1 @@
+10. Financimi sipas pikave 1 dhe 2 të këtij vendimi, ndërpritet në rastin kur punëdhënësi, pas përfitimit të financimit, në zbatim të këtij vendimi, zgjidh pa shkaqe të arsyeshme kontratat e punës së punëmarrësve të tjerë të punësuar pranë tij.

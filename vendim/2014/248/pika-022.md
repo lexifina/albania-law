@@ -1,0 +1,1 @@
+22. Në rastet kur punëkërkuesi si punëmarrës, pjesëmarrës në këtë program, largohet përpara afatit të përcaktuar në kontratë, për shkaqe të arsyeshme, zëvendësimi bëhet nga zyra përkatëse e punësimit, pas njoftimit nga punëdhënësi për shkaqet e zgjidhjes së kontratës.

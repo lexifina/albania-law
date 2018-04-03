@@ -1,0 +1,1 @@
+5. Kohëzgjatja e programit të formimit në punë, sipas pikës 2 të këtij vendimi, është jo më shumë se 6 (gjashtë) muaj për të gjitha profesionet. Në përfundim të periudhës së formimit, punëdhënësit duhet të punësojnë jo më pak se 30 për qind të të trajnuarve, për një periudhë 6-mujore.

@@ -1,0 +1,1 @@
+7. Tarifat për kostot e formimit nëpërmjet punës vendosen nga komisioni i përcaktuar në vendimin nr. 47, datë 16.1.2008 të Këshillit të Ministrave, “Për programin e nxitjes së punësimit, nëpërmjet formimit në punë”, të ndryshuar.

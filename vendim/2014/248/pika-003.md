@@ -1,0 +1,1 @@
+3. Pas përfundimit të kontratës së punës, sipas pikës 1 të këtij vendimi, në rastin e vazhdimit të punësimit me kontratë, punëdhënësi ka të drejtë të riaplikojë për këtë program në vitin pasardhës, pas shprehjes së vullnetit të të dyja palëve për zgjatjen e kontratës, sipas kushteve të përcaktuara në pikën 1 të këtij vendimi.
