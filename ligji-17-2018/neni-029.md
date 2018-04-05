@@ -1,0 +1,4 @@
+# Neni 29
+Të drejtat dhe detyrimet e njësive statistikore
+1. Njësitë statistikore, të kërkuara për të siguruar të dhëna për shpërndarjen e statistikave zyrtare brenda programit, njoftohen nga prodhuesi i statistikave zyrtare për qëllimin dhe synimin e vrojtimit, për të drejtat dhe detyrimet e tyre dhe masat që duhet të merren për të siguruar konfidencialitetin statistikor.
+2. Njësitë statistikore, të kërkuara për të dhënë informacionin sipas programit dhe brenda fushave të parashikuara në shtojcën 1, bashkëlidhur këtij ligji, si: ndërmarrjet, institucionet, personat fizikë dhe juridikë, duhet t’i japin të dhënat e kërkuara, tërësisht dhe me vërtetësi, INSTAT-it ose agjencive të tjera statistikore, të përmendura në program. Të dhënat duhet të sigurohen pa pagesë, në formën dhe kohën e kërkuar.
