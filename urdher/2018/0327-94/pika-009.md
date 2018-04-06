@@ -1,0 +1,1 @@
+9. Ky raport përgatitet të paktën një herë në vit, me përjashtim të shoqërive të ujësjellësve në Tiranë, Vlorë, Durrës, Fier, Elbasan dhe Shkodër, të cilat për shkak të madhësisë së aktivitetit të tyre, duhet të raportojnë edhe për gjysmën e parë të vitit. Raporti për gjysmën e parë të vitit duhet të paraqitet pranë Ministrisë së Financave dhe Ekonomisë brenda datës 30 shtator.

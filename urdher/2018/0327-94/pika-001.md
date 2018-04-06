@@ -1,0 +1,1 @@
+1. Të gjitha shoqëritë e ujësjellës-kanalizimeve që janë qendër qarku, brenda datës 30 maj të çdo viti, pas mbylljes së vitit ushtrimor, duhet të paraqesin një raport, pranë Ministrisë së Financave dhe Ekonomisë, për çështjet e parashikuara sipas procedurës të përshkruar në aneksin nr. 1 bashkëlidhur këtij urdhri.

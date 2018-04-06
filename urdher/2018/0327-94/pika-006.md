@@ -1,0 +1,1 @@
+6. Audituesi ligjorë/shoqëria e auditimit duhet që të ketë eksperiencë në shërbimet e procedurave të dakordësuara. Partneri i angazhimit duhet të ketë të paktën 5 vjet që ka fituar titullin e audituesit ligjor dhe ai ose një nga personat e angazhuar në stafin e tij duhet të zotërojë titullin e audituesit të brendshëm të certifikuar për sektorin publik.
