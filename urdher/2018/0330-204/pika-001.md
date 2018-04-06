@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor të Ministrisë së Brendshme, z. Dritan Palnikaj, Sekretar i Përgjithshëm, për të gjitha procedurat e prokurimit publik të kësaj ministrie.
