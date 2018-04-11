@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit/ppp, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Infrastrukturës dhe Energjisë dhe shoqërisë “Gjoka Konstruksion” sh.a., për përmirësimin, ndërtimin, operimin dhe mirëmbajtjen e Rrugës së Arbrit, sipas tekstit që i bashkëlidhet këtij vendimi.
