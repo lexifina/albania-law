@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet KfW Frankfurt am Main (KfW) dhe Republikës së Shqipërisë (Marrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, për programin e rehabilitimit të konvikteve të Universitetit të Tiranës sipas parimit të eficiencës së energjisë, Shqipëri, me një grant në shumën prej 4 500 000.00 (katër milionë e pesëqind mijë) eurosh, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
