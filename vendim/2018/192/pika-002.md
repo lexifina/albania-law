@@ -1,0 +1,1 @@
+2. Përcaktimi i standardeve të harmonizuara shqiptare, numrat dhe titujt e të cilave janë përshirë në listën bashkëlidhur këtij vendimi, shërbejnë si dokumente reference për konformitetin e ashensorëve dhe të komponentëve të sigurisë me kërkesat thelbësore të sigurisë të përcaktuara në rregullin teknik të përmendur në pikën 1 të këtij vendimi.

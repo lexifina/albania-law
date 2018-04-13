@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik “Për ashensorët dhe komponentët e sigurisë për ashensorë dhe përcaktimin e listës së standardeve të harmonizuara”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
