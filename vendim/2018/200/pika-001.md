@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit të tokës, nga kategoria “tokë bujqësore” në “tokë urbane” (truall), për parcelën nr. 163/7, me sipërfaqe 1 054 (një mijë e pesëdhjetë e katër) m², në fshatin Osojë (ish-Komuna Moglicë), Bashkia Korçë, për ndërtimin e objekteve të hidrocentralit “Osojë”.

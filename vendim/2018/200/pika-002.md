@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, Drejtoria e Administrimit dhe Mbrojtjes së Tokës, Qarku Korçë, të pasqyrojë në dokumentacionin kadastral përkatës ndryshimin e kategorisë së pasurisë, nga “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen 1 054 (një mijë e pesëdhjetë e katër) m², sipas pikës 1, të këtij vendimi.
