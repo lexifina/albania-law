@@ -1,0 +1,1 @@
+2. Ngarkohet ministri i Drejtësisë t’i përcjellë menjëherë Prokurorit të Përgjithshëm rekomandimet prioritare, si dhe t’ua bëjë ato të njohura drejtuesve të prokurorive të të gjitha shkallëve, në një mbledhje të përbashkët, jo më vonë se një muaj nga data e miratimit të këtij vendimi.
