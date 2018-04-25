@@ -1,3 +1,0 @@
-# Nënshkrimi
-ZËVENDËSKRYEMINISTRI
-Niko Peleshi
