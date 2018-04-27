@@ -1,0 +1,1 @@
+1. Fondi prej 250,000,000 (dyqind e pesëdhjetë milionë) lekësh i planifikuar në zërin e investimeve për programin buxhetor “Strehimi”, të përdoret për të mbështetur realizimin e projekteve për përmirësimin e kushteve të banimit të komuniteteve të varfëra dhe pa përkrahje, sipas projektpropozimeve të njësive të vetëqeverisjes vendore (NJVV).
