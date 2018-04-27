@@ -1,0 +1,3 @@
+# Neni 1
+Në fund të pikës 3, të nenit 8, shtohet paragrafi, me këtë përmbajtje:
+“Lista e makinerive dhe e pajisjeve, që janë drejtpërdrejt të lidhura me investimin, në funksion të realizimit të kontratave të investimit, me vlerë të barabartë ose më të madhe se 50 milionë lekë, për prodhimin e energjisë së rinovueshme nga dielli, me fuqi të instaluar prodhimi mbi 0.5 mw, është sipas aneksit 3, që i bashkëlidhet këtij vendimi. Autoriteti doganor bashkëpunon me ministrinë përgjegjëse për energjinë për të evidentuar subjektet e autorizuara/licencuara për prodhimin e energjisë së rinovueshme nga dielli, me fuqi të instaluar prodhimi mbi 0.5 mw, për të cilat aplikohet lista e makinerive dhe e pajisjeve sipas aneksit 3.”.
