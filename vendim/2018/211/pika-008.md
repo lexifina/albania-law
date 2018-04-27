@@ -1,0 +1,1 @@
+8. Procedurat e aplikimit dhe kriteret për përzgjedhjen e përfituesve përcaktohen në rregulloren e funksionimit të Fondit të Inovacionit, e cila miratohet me urdhër të ministrit përgjegjës për ekonominë.

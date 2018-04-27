@@ -1,0 +1,1 @@
+1. Krijimin e Fondit të Inovacionit, me vlerë të përgjithshme prej 45 000 000 (dyzet e pesë milionë) lekësh, për një kohëzgjatje zbatimi prej 3 (tre) vjetësh, për periudhën 2018-2020. Vlera e fondit për secilin vit do të jetë 15 000 000 (pesëmbëdhjetë milionë) lekë.

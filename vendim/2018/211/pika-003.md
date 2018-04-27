@@ -1,0 +1,1 @@
+3. Fondi i Inovacionit, përveç fondeve nga buxheti i shtetit, sipas parashikimit të pikës 1, mund të ketë si burim financimi edhe donatorë të ndryshëm apo institucione financiare ndërkombëtare. Përfitimi nga fondet e akorduara nga donatorët apo institucionet financiare ndërkombëtare për këto ndërmarrje nuk përbën pengesë për përfitim edhe nga ky fond.
