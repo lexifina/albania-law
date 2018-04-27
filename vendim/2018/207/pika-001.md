@@ -1,0 +1,2 @@
+1. Miratimin e listës përfundimtare, të pjesshme, të pronave të paluajtshme publike, shtetërore, brenda juridiksionit territorial dhe administrativ të Njësisë Administrative Mbrostar Ura, Bashkia Fier, që transferohen në pronësi ose në përdorim të saj, sipas lidhjes 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
+Lista e inventarit të Njësisë Administrative Mbrostar Ura, që i bashkëlidhet këtij vendimi, përbëhet nga 14 (katërmbëdhjetë) fletë dhe përfundon me numrin rendor 60 (gjashtëdhjetë).
