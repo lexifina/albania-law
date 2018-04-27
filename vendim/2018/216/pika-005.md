@@ -1,0 +1,1 @@
+5. Institucionet arsimore të arsimit të mesëm të lartë dhe njësitë arsimore vendore janë përgjegjëse për përllogaritjen e notës mesatare dhe dërgimin e këtyre të dhënave në Qendrën e Shërbimeve Arsimore.

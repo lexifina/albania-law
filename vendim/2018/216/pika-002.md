@@ -1,0 +1,3 @@
+2. Për të gjithë kandidatët, të cilët kanë përfunduar arsimin e mesëm të lartë, nota mesatare për pranimin në programet e studimit të ciklit të parë dhe në programet e integruara të studimeve të ciklit të dytë ose për të transferuar studimet në vitet e ndërmjetme të këtyre programeve, në institucionet e arsimit të lartë, për vitin akademik 2018-2019, të jetë nota 6 (gjashtë). Nota mesatare për pranimin në institucionet e arsimit të lartë përllogaritet si mesatare e thjeshtë e treguesve, si më poshtë vijon:
+a) Mesatarja aritmetike e thjeshtë e notave përfundimtare vjetore të lëndëve për të gjitha vitet e shkollimit në arsimin e mesëm të lartë.
+b) Mesatarja aritmetike e thjeshtë e notave të provimeve të Maturës Shtetërore.
