@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Infrastrukturës dhe Energjisë te Ministria e Turizmit dhe Mjedisit, të pronës nr. 6/164, të ndodhur në zonën kadastrale nr. 8380, me sipërfaqe totale të pasurisë prej 912 m2, sipas të dhënave të kartelës së pasurisë dhe planvendosjes, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
