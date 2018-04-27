@@ -1,0 +1,1 @@
+5. Përfitojnë nga Fondi në Mbështetje të Sipërmarrjeve të Reja Start-up sipërmarrjet e reja, të cilat e ushtrojnë veprimtarinë në sektorët e sipërpërmendur dhe janë të regjistruara pranë Qendrës Kombëtare të Biznesit për një periudhë 0-2 vjet.

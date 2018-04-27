@@ -1,0 +1,1 @@
+1. Krijimin e Fondit në Mbështetje të Sipërmarrjeve të Reja Start-up, për një periudhë zbatimi prej 3 (tre) vjetësh, me vlerë të përgjithshme 30 000 000 (tridhjetë milionë) lekë. Vlera e fondit për secilin vit do të jetë 10 000 000 (dhjetë milionë) lekë.

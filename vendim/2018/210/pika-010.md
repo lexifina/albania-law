@@ -1,0 +1,1 @@
+10. Procedurat e aplikimit dhe kriteret për përzgjedhjen e përfituesve përcaktohen në rregulloren e funksionimit të Fondit në Mbështetje të Sipërmarrjeve të reja Start-up, e cila miratohet me urdhër të ministrit të Financave dhe Ekonomisë.
