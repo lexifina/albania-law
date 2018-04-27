@@ -1,1 +1,0 @@
-2. RISHM-i drejtohet nga kryeinspektori, i cili emërohet dhe shkarkohet nga Ministri i Ekonomisë Publike dhe Privatizimit. Kryeinspektori dhe inspektorët e qendrës përbëjnë nivelin qendror të organizimit, ndërsa inspektorët e zonave përbëjnë nivelin vendor të organizimit dhe varen administrativisht nga kryeinspektori.

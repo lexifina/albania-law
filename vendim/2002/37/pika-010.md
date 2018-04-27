@@ -1,1 +1,0 @@
-10. Në vendimin nr.75, datë 15.2.2001 të Këshillit të Ministrave ”Për numrin e punonjësve të institucioneve buxhetore për vitin 2001” të parashikohet shtesa e numrit të punonjësve prej 4 vetësh. Struktura organizative e RISHM-it është sipas pasqyrës 1, që i bashkëlidhet këtij vendimi.

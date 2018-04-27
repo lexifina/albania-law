@@ -1,1 +1,0 @@
-3. Inspektorë zone të jenë 8 veta, të vendosur në Tiranë, Durrës, Dibër, Shkodër, Korçë, Berat, Elbasan dhe Vlorë. Ndarja në zona përfshin gjithë territorin e vendit, sipas organizimit të bërë nga RISHM-i, në përputhje me numrin e subjekteve, private dhe shtetërore, që kryejnë veprimtari minerare.

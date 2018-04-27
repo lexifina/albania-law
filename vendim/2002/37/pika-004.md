@@ -1,1 +1,0 @@
-4. RISHM-i e ka qendrën në Tiranë. Inspektorati në qendër plotësohet me mjedise nga Ministria e Ekonomisë Publike dhe Privatizimit, ndërsa inspektorët e zonave plotësohen me mjedise pune, sipas propozimeve të prefekturave që mbulojnë zonat përkatëse.
