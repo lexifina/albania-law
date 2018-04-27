@@ -1,0 +1,1 @@
+8. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Lushnjë, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, në bashkëpunim me Bashkinë Lushnjë, të fillojë procedurat për hedhjen e gjurmës së projektit në hartën kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe të bëjë kalimin e pronësisë për pasurinë e shpronësuar në favor të shtetit.

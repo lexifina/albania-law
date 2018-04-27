@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasurinë “truall”, prej 1 281 588 (një milion e dyqind e tetëdhjetë e një mijë e pesëqind e tetëdhjetë e tetë) lekësh, të përballohet nga buxheti i Bashkisë Lushnjë.
