@@ -1,0 +1,1 @@
+12. Për nëpunësit civilë aktualë të Repartit të Inspektim-Shpëtimit në Miniera zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.

@@ -1,0 +1,1 @@
+11. Vula e AKSEM-it ka formën dhe elementet sipas përcaktimit të vendimit nr. 390, datë 6.8.1993, të Këshillit të Ministrave, “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare”. Vula, prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.

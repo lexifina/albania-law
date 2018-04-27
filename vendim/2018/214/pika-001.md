@@ -1,0 +1,1 @@
+1. Autoriteti Kombëtar për Sigurinë dhe Emergjencat në Miniera (në vijim AKSEM) është person juridik publik, buxhetor, në varësi të ministrit përgjegjës për veprimtaritë minerare (në vijim ministri), me seli në Tiranë.

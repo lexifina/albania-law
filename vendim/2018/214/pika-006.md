@@ -1,0 +1,6 @@
+6. Pranë AKSEM-it funksionojnë këto komisione:
+a) Komisioni i shqyrtimit të gjobave, i miratuar sipas rregullave dhe procedurave të miratuara me udhëzim të ministrit;
+b) Komisioni teknik për testimin dhe pajisjen me leje për përdorim civil të lëndëve plasëse (dëshmi zjarrmëtari) të personave fizikë, të kërkuar nga subjektet minerare dhe ato të inxhinierisë civile. Ky komision ngrihet dhe funksionon me urdhër të titullarit të AKSEM-it;
+c) Komisioni teknik për lëshimin dhe pajisjen me leje (dëshmi shpëtuesi) të punonjësve të kërkuar nga subjektet si specialistë emergjence dhe shpëtimi për skuadrat e emergjencës e të shpëtimit të subjekteve. Ky komision ngrihet dhe funksionon me urdhër të titullarit të AKSEM-it;
+ç) Komisioni teknik për vlerësimin dhe miratimin e projekteve teknike të subjekteve që kërkojnë të pajisen me autorizim për përdorimin civil të lëndëve plasëse, për vlerësimin e miratimin e vendndërtimit për magazinim të lëndës plasëse dhe projektin teknik të ndërtimit të tyre. Ky komision ngrihet dhe funksionon me urdhër të titullarit të AKSEM-it;
+d) Komisioni teknik për vlerësimin dhe miratimin e planit të emergjencave dhe shpëtimit (PESH). Ky komision ngrihet dhe funksionon me urdhër të titullarit të AKSEM-it.
