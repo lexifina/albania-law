@@ -1,0 +1,1 @@
+8. Statuti i Akademisë së Filmit dhe Multimedias “Marubi” miratohet me urdhër të ministrit përgjegjës për arsimin mbi bazën e statusit të veçantë të dhënë me këtë vendim dhe sipas marrëveshjes së lidhur me ministrinë përgjegjëse për arsimin dhe Akademinë e Filmit dhe Multimedias “Marubi”, për personelin akademik me kohë të plotë, në njësitë bazë.

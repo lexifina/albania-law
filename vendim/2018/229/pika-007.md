@@ -1,0 +1,1 @@
+7. Akademia e Filmit dhe Multimedias “Marubi”, për realizimin e veprimtarisë së saj, bashkëpunon me institucionet e arsimit të lartë brenda dhe jashtë vendit, organizmat ndërkombëtarë dhe institucionet homologe të huaja, si dhe organizatat e tjera në fushën e filmit dhe multimedias.

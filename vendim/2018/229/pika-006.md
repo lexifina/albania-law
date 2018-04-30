@@ -1,0 +1,1 @@
+6. Akademia e Filmit dhe Multimedias “Marubi” duhet t’i nënshtrohet procesit të vlerësimit dhe akreditimit institucional të programeve të studimit, si dhe të zbatimit të ligjshmërisë, sipas legjislacionit në fuqi.

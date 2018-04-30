@@ -1,0 +1,1 @@
+2. Akademia e Filmit dhe Multimedias “Marubi” është institucion jopublik i arsimit të lartë, i profilizuar, me veprimtari akademike specifike, që lidhet ngushtë me organizimin dhe zhvillimin e procesit mësimor, krijues e artistik e që shoqërohet me produktin artistik në fushën e kinematografisë dhe multimedias.

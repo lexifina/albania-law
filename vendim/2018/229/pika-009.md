@@ -1,0 +1,1 @@
+9. Akademia e Filmit dhe Multimedias “Marubi” arkivon pasurinë e krijuar si produkt artistik pranë Arkivit Shtetëror të Filmit, ndërsa dokumentacionin ligjor, në Arkivin e Shtetit, sipas kuadrit ligjor në fuqi për kinematografinë dhe arkivat.
