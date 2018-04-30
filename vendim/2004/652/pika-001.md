@@ -1,1 +1,0 @@
-1. Dhënien e lejes për hapjen e shkollës së lartë jopublike “Marubi”, me degë “Filmi dhe multimedia”, me seli qendrore në Tiranë, në adresën: Rruga “Aleksandër Moisiu”, nr.78 (Kinostudio “Shqipëria e Re”).
