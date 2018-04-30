@@ -1,1 +1,0 @@
-6. Sekretari Kombëtar i Ujit përfaqëson sekre-tariatin në marrëdhëniet me të tretët. Marrëdhëniet e punës të nëpunësve të Sekretariatit Teknik të Këshillit Kombëtar të Ujit rregullohen sipas legjislacionit të shërbimit civil. Për nëpunësit ekzistues zbatohen dispozitat e nenit 67, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar.
