@@ -1,0 +1,3 @@
+Në listën e personave të shpallur si financues të terrorizmit, sipas rezolutave të Këshillit të Sigurimit (Lista e OKB-së), që i bashkëlidhet vendimit nr. 718, datë 29.10.2004, të Këshillit të Ministrave, të ndryshuar, bëhet shtesa, si më poshtë vijon:
+Në listën e shkronjës “D”, të titulluar “Lista e kompanive që i takojnë ose bashkëpunojnë me organizatat ISIL (Da’esh) dhe Al-Qaida”, shtohet kompania e renditur në shkronjën “a”, sipas shtesës bashkëlidhur këtij vendimi, në listën e konsoliduar të Këshillit të Sigurimit të OKB-së, për kompanitë që i takojnë ose bashkëpunojnë me organizatat ISIL (Da’esh) dhe Al-Qaida.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
