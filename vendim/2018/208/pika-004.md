@@ -1,0 +1,1 @@
+4. Numri i punonjësve të sistemit të Ministrisë së Bujqësisë dhe Zhvillimit Rural, për vitin 2018, reduktohet me 7 veta, duke e çuar numrin e përgjithshëm të punonjësve të këtij institucioni në 1 997.

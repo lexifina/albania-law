@@ -1,0 +1,1 @@
+11. Numri i punonjësve të sistemit të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, për vitin 2018, reduktohet me 27 veta, duke e çuar numrin e përgjithshëm të punonjësve të këtij institucioni në 4 262.

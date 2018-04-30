@@ -1,0 +1,1 @@
+1. Rishpërndarjen e numrit të punonjësve organikë në disa prej njësive të qeverisjes qendrore, për vitin 2018, për zbatimin e reformës së riorganizimit të strukturave përgjegjëse TIK në këto njësi dhe të Agjencisë Kombëtare të Shoqërisë së Informacionit.
