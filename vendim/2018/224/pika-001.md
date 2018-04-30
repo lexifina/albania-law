@@ -1,0 +1,42 @@
+1. Në lidhjen nr. 2, bashkëlidhur vendimit nr. 332, datë 17.3.2010, të Këshillit të Ministrave, të ndryshuar, shtohen kodet për zyrat në misionet diplomatike dhe postet konsullore, si më poshtë vijon:
+- Kodi 504, për Ambasadën e Republikës së Shqipërisë në Abu Dhabi;
+- Kodi 505, për Ambasadën e Republikës së Shqipërisë në Ankara;
+- Kodi 506, për Ambasadën e Republikës së Shqipërisë në Athinë;
+- Kodi 507, për Ambasadën e Republikës së Shqipërisë në Beograd;
+- Kodi 508, për Ambasadën e Republikës së Shqipërisë në Berlin;
+- Kodi 509, për Ambasadën e Republikës së Shqipërisë në Bernë;
+- Kodi 510, për Ambasadën e Republikës së Shqipërisë në Bratislavë;
+- Kodi 511, për Ambasadën e Republikës së Shqipërisë në Brazilia;
+- Kodi 512, për Zyrën Konsullore në Misionin e Republikës së Shqipërisë në Bruksel;
+- Kodi 513, për Ambasadën e Republikës së Shqipërisë në Budapest;
+- Kodi 514, për Ambasadën e Republikës së Shqipërisë në Bukuresht;
+- Kodi 515, për Ambasadën e Republikës së Shqipërisë në Doha;
+- Kodi 516, për Ambasadën e Republikës së Shqipërisë në Hagë;
+- Kodi 517, për Konsullatën e Përgjithshme në Janinë;
+- Kodi 518, për Ambasadën e Republikës së Shqipërisë në Kajro;
+- Kodi 519, për Ambasadën e Republikës së Shqipërisë në Kopenhagën;
+- Kodi 520, për Ambasadën e Republikës së Shqipërisë në Kuvajt Siti;
+- Kodi 521, për Ambasadën e Republikës së Shqipërisë në Londër;
+- Kodi 522, për Ambasadën e Republikës së Shqipërisë në Lubjanë;
+- Kodi 523, për Ambasadën e Republikës së Shqipërisë në Madrid;
+- Kodi 524, për Ambasadën e Republikës së Shqipërisë në Moskë;
+-Kodi 525, për Konsullatën e Përgjithshme në Mynih;
+- Kodi 526, për Zyrën Konsullore në Misionin e Republikës së Shqipërisë në Nju Jork;
+- Kodi 527, për Ambasadën e Republikës së Shqipërisë në Otava;
+- Kodi 528, për Ambasadën e Republikës së Shqipërisë në Paris;
+- Kodi 529, për Ambasadën e Republikës së Shqipërisë në Pekin;
+- Kodi 530, për Ambasadën e Republikës së Shqipërisë në Podgoricë;
+- Kodi 531, për Ambasadën e Republikës së Shqipërisë në Pragë;
+- Kodi 532, për Ambasadën e Republikës së Shqipërisë në Prishtinë;,
+- Kodi 533, për Ambasadën e Republikës së Shqipërisë në Riad;
+- Kodi 534, për Konsullatën e Përgjithshme në Selanik;
+- Kodi 535, për Ambasadën e Republikës së Shqipërisë në Shkup;
+- Kodi 536, për Ambasadën e Republikës së Shqipërisë në Sofje;
+- Kodi 537, për Konsullatën e Përgjithshme në Stamboll;
+- Kodi 538, për Ambasadën e Republikës së Shqipërisë në Stokholm;
+- Kodi 539, për Ambasadën e Republikës së Shqipërisë në Tel Aviv;
+- Kodi 540, për Ambasadën e Republikës së Shqipërisë në Tokio;
+- Kodi 541, për Ambasadën e Republikës së Shqipërisë në Uashington;
+- Kodi 542, për Ambasadën e Republikës së Shqipërisë në Varshavë;
+- Kodi 543, për Ambasadën e Republikës së Shqipërisë në Vjenë;
+- Kodi 544, për Ambasadën e Republikës së Shqipërisë në Zagreb.
