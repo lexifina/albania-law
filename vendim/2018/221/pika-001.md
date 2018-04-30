@@ -1,0 +1,1 @@
+1. Agjencia e Menaxhimit të Burimeve Ujore, në vijim Agjencia, është person juridik publik, që financohet nga buxheti i shtetit dhe nga çdo burim tjetër i ligjshëm, në varësi të Kryeministrit, me seli në Tiranë.

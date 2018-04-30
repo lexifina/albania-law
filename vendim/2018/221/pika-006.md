@@ -1,0 +1,1 @@
+6. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të Agjencisë dhe zyrave të administrimit të baseneve ujore miratohet nga Kryeministri, pas propozimit të drejtorit të Përgjithshëm.

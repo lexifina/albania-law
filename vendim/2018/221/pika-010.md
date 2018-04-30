@@ -1,0 +1,68 @@
+10. Vula e Agjencisë dhe vulat e secilës zyrë të administrimit të baseneve ujore kanë formën dhe elementet sipas përcaktimit të vendimit nr. 390, datë 6.8.1993, të Këshillit të Ministrave, “Për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare”. Vulat prodhohen, administrohen dhe ruhen në përputhje me legjislacionin në fuqi.
+III. PËRGJEGJËSITË DHE DETYRAT E AGJENCISË DHE ZYRËS SË ADMINISTRIMIT TË BASENIT UJOR
+1. Agjencia, referuar zhvillimit, rregullimit dhe financimit të sektorit të ujit, ka këto përgjegjësi dhe detyra:
+a) Në lidhje me politikat, strategjitë, planet, programet dhe projektet për zhvillimin e sektorit:
+i. përcakton vizonin drejt të cilit duhet të orientohet qeverisja e integruar e burimeve ujore;
+ii. analizon situatën e burimeve ujore, identifikon nevojat me qëllim përcaktimin e prioriteteve, vlerëson propozimet dhe kryen fizibilitetin e tyre;
+iii. harton, zbaton dhe monitoron dokumentin e politikave të sektorit, Strategjinë Kombëtare të Menaxhimit të Burimeve Ujore, Programin Kombëtar Sektorial, si dhe plane, programe e projekte që synojnë menaxhimin e integruar të burimeve ujore, ruajtjen sasiore dhe cilësore, në bashkëpunim dhe koordinim me organet, entet, institucionet e specializuara në fushën e ujërave, në nivel qendror e vendor.
+b) Në lidhje me rregullimin e sektorit të ujit:
+i. identifikon dhe vlerëson nevojën për hartimin e legjislacionit në lidhje me menaxhimin e burimeve ujore;
+ii. harton dhe propozon aktet që rregullojnë marrëdhëniet juridike në fushën e menaxhimit të burimeve ujore dhe ndjek miratimin e tyre;
+iii. bashkëpunon me ministritë përgjegjëse në hartimin e akteve ligjore dhe nënligjore kur përmbajta e tyre ndikon në menaxhimin e burimeve ujore;
+iv. monitoron zbatimin dhe ndikimin e kuadrit ligjor si dhe sugjeron përmirësime sipas nevojës;
+v. bashkërendon punën për harmonizimin e kuadrit ligjor të sektorit me acquis të BE-së;
+vi. mbështet hartimin e kuadrit rregullator për administrimin dhe mbrojtjen e ujërave ndërkufitare dhe ndjek zbatimin e tyre, duke përfshirë marrëveshjet e konventat ndërkombëtare;
+vii. i propozon Këshillit Kombëtar të Ujit (KKU) miratimin e akteve rregullatore për menaxhimin e burimeve ujore në kompetencë të KKU-së sipas ligjit dhe kur është e nevojshme propozon shfuqizimin apo anulimin e akteve;
+viii. përfaqëson Këshillin Kombëtar të Ujit në procese gjyqësore dhe monitoron çështjet gjyqësore në nivel të basenit ujor.
+c) Në lidhje me aspektin ekonomiko-financiar të sektorit:
+i. drejton procesin për optimizimin e shfrytëzimit të burimeve ujore drejt përfitueshmërisë ekonomike, në përputhje me parimet, prioritetet në përdorim dhe nevojat e vendit, si dhe me kriteret për ruajtjen dhe mbrojtjen sasiore e cilësore të burimeve ujore;
+ii. vlerëson kosto-përfitimet ekonomike të përdorimeve të burimeve ujore, bazuar në parashikimin afatgjatë të ofertë-kërkesës për ujë për nevoja të ndryshme, si dhe propozon tarifat për përdorimet e ndryshme të ujit dhe për shpenzimet administrative;
+iii. vlerëson nevojën për financim të sektorit, identifikon burimet e financimit dhe bashkëpunon me aktorë vendas ose të huaj për sigurimin e financimeve për veprimtarinë ekonomike të burimeve ujore, si dhe menaxhon programet e asistencës financiare për to;
+iv. ndjek procesin e menaxhimit të integruar të burimeve financiare dhe monitoron përdorimin e fondeve përkundrejt planifikimit, në përputhje me parimin e eficiencës, transparencës dhe shpërndarjes së drejtë të burimeve, si dhe ngritjes e mirëmbajtjes së inventarit të përditësuar të të gjitha programeve të asistencës financiare e të projekteve.
+2. Agjencia ka këto përgjegjësi dhe detyra mbi drejtimin e sektorit të ujit:
+a) Projekton sistemin e miradministrimit të burimeve ujore (aktivitetin, organizimin, ndërveprimin me institucionet e aktorët) dhe garanton funksionalitetin, performancën dhe efiçencën e tij.
+b) Organizon strukturën e sistemit në përputhje me fushën e përgjegjësisë dhe aktivitetin, kuadrin strategjik dhe politikat e qeverisë, informacionin dhe njohuritë mbi sektorin, standardet që duhet të arrihen për aktivitetin dhe operimin e sistemit, sfidat dhe problematikat ekzistuese që paraqet sektori i ujit në Shqipëri.
+c) Përcakton objektivat për sektorin dhe identifikon treguesit për vlerësimin e arritjes së tyre, vlerëson performancën e përdorimit të burimeve ujore përkundrejt objektivave dhe nivelit të përmbushjes së treguesve, si dhe ndërmerr nisma për përmirësimin e performancës.
+ç) Projekton, ndërton, mirëmban dhe përditëson sistemin e integruar të informacionit në sektorin e ujin (me elemente thelbësore: Kadastra Kombëtare e Burimeve Ujore, Inventari Kombëtar i Burimeve Ujore/Zonave të Mbrojtura Ujore, Regjistri Kombëtar i Lejeve, Autorizimeve e Koncesioneve të lëshuara nga organet e menaxhimit dhe administrimit të burimeve ujore), duke garantuar aksesin dhe shkëmbimin e të dhënave sipas ligjit.
+d) Drejton dhe bashkërendon punën për gjenerimin, grumbullimin dhe përditësimin e të dhënave cilësore dhe sasiore të burimeve ujore, informacionit për Kadastrën Kombëtare të Ujit nga institucionet përgjegjëse (duke kërkuar prej tyre të dhëna teknike, informacion, analiza apo mbështetje tekniko-konsultative), si dhe për pasqyrimin në Gjeoportalin Kombëtar.
+dh) Përcakton normativa, standarde, kërkesa, kritere dhe praktika të unifikuara për ruajtjen, përdorimin, rehabilitimin dhe përmirësimin e burimeve ujore, duke bashkëpunuar sipas ligjit me çdo ministri apo institucion përgjegjës.
+e) Mban të dhënat/databazat tematike të sektorit dhe orienton e mbështet kërkimet, studimet, publikimet me karakter shkencor e teknik sipas ligjit.
+ë) Është përgjegjës për marrëdhëniet ndërinstitucionale dhe garanton angazhimin e aktorëve duke ngritur sistemin e ndërveprimit (mban databaza, dokumente, manualë, plane, teknika, raporte mbi komunikim-ndërveprimin e aktorëve, ndjek ngritjen e komisioneve, komiteteve apo grupeve të punës për çështje që lidhen me menaxhimin e burimeve ujore), në mënyrë të integruar, gjithëpërfshirëse dhe të qëndrueshme.
+f) Drejton dhe bashkërendon punën me ministritë e linjës për të gjitha proceset integruese në Bashkimin Evropian, për sa i përket sektorit të ujit.
+3. Agjencia ka këto përgjegjësi dhe detyra mbi menaxhimin e sektorit të ujit:
+a) Planifikon, ekzekuton, kontrollon punën dhe garanton që produktet apo shërbimet janë të duhurat, në kohë, brenda buxhetit, në sasinë dhe cilësinë e kërkuar:
+i. Integron kërkesat për realizimin e një produkti optimal, në përputhje me standardet dhe praktikat më të mira ndërkombëtare, të qëndrueshëm dhe të sigurt.
+ii. Analizon progresin, vlerëson devijimet në raport me objektivat, standardet dhe planin e menaxhimit, si dhe menaxhon ndryshimet e nevojshme në program e në burime;
+b) Harton dhe ndjek zbatimin e të gjitha planeve të menaxhimit të kërkuara nga ligji, nëpërmjet zyrave të administrimit të baseneve ujore, në bashkëpunim me strukturat shtetërore përgjegjëse sipas legjislacionit në fuqi, si dhe aktorët e tjerë.
+c) Menaxhon dhe koordinon procesin e programimit, zbatimit dhe monitorimit të nismave/ projekteve/programeve të administrimit të burimeve ujore në bashkëpunim me ministritë e linjës, institucionet qendrore e vendore, donatorë dhe partnerë të tjerë zhvillimorë.
+ç) Kryen menaxhimin e përgjithshëm sipas ligjit të organeve të administrimit të burimeve ujore, njësive të qeverisjes vendore, organeve dhe strukturave përgjegjëse të ministrive, institucioneve shtetërore e aktorëve përkatës për marrjen e masave dhe zbatimin e legjislacionit në sektorin e ujit.
+4. Agjencia ka këto përgjegjësi dhe detyra mbi operimin e sektorit të ujit:
+a) Planifikon, zbaton, ndjek, garanton optimizimin e përdorimit të burimeve njerëzore, materiale, aseteve të nevojshme për kryerjen e proceseve të punës për menaxhimin e burimeve ujore.
+b) Realizon të gjitha proceset e punës, pjesë e ciklit të menaxhimit të integruar të burimeve ujore, si dhe bashkërendon e kontrollon punën e zyrave të administrimit të baseneve ujore.
+c) Realizon projektimin, ekzekutimin, vënien në punë dhe shfrytëzimin e produkteve të kërkuara, si dhe garanton cilësinë, certifikon, lëvron dhe akumulon përfitimet e produktit të realizuar.
+ç) Ndjek zbatimin e proceseve të punës për burimet ujore nga ministritë përkatëse dhe bashkëpunon me to, sipas detyrimeve e kërkesave specifike të kuadrit ligjor.
+d) Ushtron funksionet e sekretarisë teknike të KKU-së, organizon mbledhjet, përgatit materialet dhe formalizon vendimmarrjen e KKU-së. I propozon KKU-së dhënien me koncesion të burimeve ujore. Mbledh dhe administron informacionin e dokumentacionin e nevojshëm për pajisjen me leje/autorizim për përdorimin e ujit, pranon dhe shqyrton aplikimet e paraqitura nga subjektet fizike e juridike, si dhe bën propozimet përkatëse pranë KKU-së.
+dh) Ndjek dhe monitoron zbatimin e kushteve e të kritereve të përcaktuara në lejet/autorizimet e dhëna për përdorimin e ujit, si dhe ndërmerr masat ndaj subjekteve që gjenden në shkelje.
+e) Siguron mbledhjen e të ardhurave nga tarifat e përdorimit të ujit dhe pagesat për shpenzimet administrative, nëpërmjet zyrave të administrimit të baseneve ujore apo marrëveshje me të tretë dhe i derdh në buxhetin e shtetit.
+ë) Mbledh, strukturon, përpunon, akseson dhe administron të dhëna sasiore e cilësore mbi burimet ujore dhe i vë ato në dispozicion të institucioneve në përputhje me kuadrin ligjor përkatës.
+f) Promovon dhe sensibilizon mbi rëndësinë e burimeve ujore, nxit pjesëmarrjen e përdoruesve të ujit dhe komunitetit në përdorimin e ekonomizuar të ujit, përmes fushatave ndërgjegjësuese, botimeve, publikimeve, konferencave, seminareve, forumeve apo konsultimeve.
+5. Mbështetur në detyrat e përcaktuara në ligj, Zyra e Administrimit të Baseneve Ujore (ZABU) ka këto detyra administrative dhe kompetenca territoriale:
+a) Në lidhje me Këshillin e Basenit Ujor (KBU):
+i. ushtron funksionet e sekretariatit teknik dhe organizon mbledhjen e KBU-së;
+ii. pranon dhe shqyrton dokumentacionin tekniko-ligjor të paraqitur nga subjektet fizike e juridike që kërkojnë vendimmarrje nga KBU-ja;
+iii. propozon në KBU shfuqizimin ose anulimin e lejeve, autorizimeve, vendimeve sipas kuadrit ligjor;
+iv. përfaqëson Këshillin e Basenit Ujor në çështjet gjyqësore.
+b) Ndjek zbatimin e vendimeve të KKU-së dhe KBU-së, si dhe përmbushjen e detyrimeve financiare të përdoruesve të burimeve ujore brenda basenit përkatës pavarësisht nga organi që ka miratuar veprimtarinë.
+c) Zbaton të gjitha detyrat dhe përgjegjësitë ligjore të përcaktuara për ZABU-në si dhe nxit e sensibilizon pjesëmarrjen e përdoruesve të ujit.
+ç) Në nivel baseni dhe sipas ligjit, harton dhe përditëson planet e menaxhimit, inventarët e burimeve ujore, përgatit raporte apo opinione, bën vlerësimin e ndikimit të aktivitetit njerëzor në statusin e ujërave, analizën ekonomike të përdorimit, analiza pas monitorimeve të kryera nga subjektet e kontraktuara, harton programin e masave, plotëson regjistrin kombëtar me licencat/ autorizimet/lejet/koncesionet e lëshuara.
+d) Gjeneron dhe monitoron të dhëna sasiore e cilësore mbi burimet ujore nëpërmjet ngritjes, administrimit dhe mirëmbajtjes së rrjetit të stacioneve të monitorimit.
+IV. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Deri në momentin e funksionimit të plotë të Agjencisë sipas përcaktimeve të këtij vendimi, Agjencia mbikëqyr funksionet dhe strukturat ekzistuese të agjencive të baseneve ujore, kalimin pranë tyre të ish-Inspektoratit Shtetëror të Ujërave (sipas pikës 4 të vendimit nr. 659, datë 10.11.2017, të Këshillit të Ministrave), si dhe funksionin e strukturës politikëbërëse mbi burimet ujore të Ministrisë së Bujqësisë dhe Zhvillimit Rural.
+2. Për nëpunësit civilë aktualë të Sekretariatit Teknik të Këshillit Kombëtar të Ujit, agjencive të baseneve ujore dhe strukturës politikëbërëse mbi burimet ujore të Ministrisë së Bujqësisë dhe Zhvillimit Rural zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
+3. Numri i punonjësve dhe fondet buxhetore të Sekretariatit Teknik të Këshillit Kombëtar të Ujit, agjencive të baseneve ujore dhe strukturës politikëbërëse mbi burimet ujore të Ministrisë së Bujqësisë dhe Zhvillimit Rural i kalojnë Agjencisë së Menaxhimit të Burimeve Ujore dhe zyrave të administrimit të baseneve ujore.
+4. Deri në momentin e fillimit të funksionimit të plotë të Agjencisë, sipas këtij vendimi, strukturat aktuale vazhdojnë funksionimin e tyre sipas strukturave dhe organikave të miratuara.
+5. Vendimi nr. 524, datë 20.7.2016, i Këshillit të Ministrave, “Për organizimin dhe funksionimin e Sekretariatit Teknik të Këshillit Kombëtar të Ujit”, shfuqizohet.
+6. Në vendimin nr. 342, datë 4.5.2016, të Këshillit të Ministrave, “Për miratimin e kufijve territorialë e hidrografikë të baseneve ujore në Republikën e Shqipërisë dhe qendrën e përbërjen e këshillit të secilit prej tyre”, në pikat 5 e 10, referimi tek “Agjencia e Basenit Ujor” zëvendësohet me emërtimin “Zyra e Administrimit të Basenit Ujor”, ndërsa në pikën 10 shfuqizohen edhe fjalët “, ... i emëruar nga ministri përgjegjës për menaxhimin e burimeve ujore”.
+7. Kudo në aktet e tjera nënligjore, referimi tek “Agjencia e Basenit Ujor” zëvendësohet me emërtimin “Zyra e Administrimit të Basenit Ujor”.
+8. Ngarkohen Kryeministria, Ministria e Financave dhe Ekonomisë, Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Turizmit dhe Mjedisit, Agjencia e Menaxhimit të Burimeve Ujore, zyrat e administrimit të baseneve ujore dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
