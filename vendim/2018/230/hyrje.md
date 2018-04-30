@@ -1,0 +1,6 @@
+VENDIM
+Nr. 230, datë 26.4.2018
+PËR KALIMIN NË PËRGJEGJËSI ADMINISTRIMI MINISTRISË SË DREJTËSISË TË NJË PJESE TË GODINËS, AKTUALISHT NË PËRGJEGJËSI ADMINISTRIMI TË KUVENDIT TË REPUBLIKËS
+SË SHQIPËRISË, PËR RIKONSTRUKSIONIN E HYRJES KRYESORE PËR KOLEGJIN E POSAÇËM TË APELIMIT DHE KOMISIONERËVE PUBLIKË, INSTITUCIONE TË RIVLERËSIMIT TË GJYQTARËVE DHE PROKURORËVE NË REPUBLIKËN E SHQIPËRISË
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 10, 13, 14 e 15, shkronja “c”, të ligjit nr. 8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”, të ndryshuar, me propozimin e ministrit të Drejtësisë, Këshilli i Ministrave
+VENDOSI:
