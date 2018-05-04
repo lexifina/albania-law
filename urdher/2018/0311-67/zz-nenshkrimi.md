@@ -1,0 +1,3 @@
+# Nënshkrimi
+MINISTRI I TURIZMIT DHE MJEDISIT
+Blendi Klosi
