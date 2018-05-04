@@ -1,0 +1,1 @@
+8. “Ambalazh shitjeje ose ambalazh i parë”, njësia e ambalazhit në të cilën shitet produkti te konsumatori. Këtu përfshihen dhe pjatat, lugët, pirunët e thikat njëpërdorimshme, si dhe çdo ambalazh i cili mbushet në vendin e shitjes së produktit (mallit) te konsumatori.

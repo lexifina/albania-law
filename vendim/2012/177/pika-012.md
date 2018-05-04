@@ -1,0 +1,1 @@
+12. “Furnizues i fundit”, subjekti tregtar që shpërndan mallra të ambalazhuara në ambalazhe shitjeje, ambalazhe të grupuara apo ambalazhe transporti drejtpërdrejt te konsumatori, pavarësisht nëse ky subjekt është apo jo edhe prodhues ose importues i këtyre mallrave.

@@ -1,0 +1,1 @@
+16. “Material ambalazhi”, materiali nga i cili prodhohet ambalazhi. Materialet e ambalazheve që rregullohen nga ky vendim janë; i) letra, kartoni, kartoni i rrudhosur; ii) qelqi; iii) druri; iv) qeramika, porcelani; v) metalet; vi) fibrat tekstile; vii) plastika; viii) kompozitet; ix) materiale ambalazhi të tjera, në veçanti ato me bazë biologjike.

@@ -1,0 +1,1 @@
+15. “Marrëveshje vullnetare”, marrëveshja e përfunduar ndërmjet autoriteteve publike kompetente nga njëra anë dhe subjekteve ose sektorëve ekonomikë të interesuar nga ana tjetër, e hapur për të gjitha palët që kanë interesa të ligjshme dhe marrin përsipër të plotësojnë kushtet e parashikuara në këtë marrëveshje dhe objektivat e përcaktuar në këtë vendim.

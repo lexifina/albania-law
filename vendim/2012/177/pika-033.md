@@ -1,0 +1,1 @@
+33. “Rikuperim energjie”, përdorimi i mbetjeve të djegshme të ambalazheve si një mënyrë për të gjeneruar energji, përmes incinerimit të drejtpërdrejtë të tyre, me ose pa praninë e mbetjeve të tjera, por me rikuperim nxehtësie.

@@ -1,0 +1,3 @@
+29. “Qese plastike mbajtëse”, është qesja mbajtëse transportuese, me ose pa dorezë, prodhuar nga plastika dhe lëndë të tjera të lidhura me të, të cilat jepen në pikat e tregtimit apo të shpërndarjes së mallrave ose produkteve.
+29/a) “Qese e lehtë plastike mbajtëse”, është qesja plastike me trashësi për çdo anë më të vogël se 35 mikron, me përjashtim të qeses së përdorur vetëm për qëllime higjieno-sanitare.
+29/b) “Qese plastike mbajtëse oxo-degradueshme”, është qesja plastike mbajtëse e prodhuar nga materiale që përfshijnë aditivë të cilët katalizojnë copëzimin e materialit plastik në mikrofragmente.

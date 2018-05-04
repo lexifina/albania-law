@@ -1,0 +1,1 @@
+14. “Kosto e menaxhimit të mbetjeve”, tarifa sipas llojit të materialit të ambalazhit, me qëllim mbulimin e shpenzimeve për menaxhimin e tyre. Këtu përfshihen shpenzimet e grumbullimit të diferencuar, qendrat e transferimit dhe diferencimit të mëtejshëm, të magazinimit të përkohshëm, transportimit të tyre për në vendet e trajtimit.

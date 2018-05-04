@@ -1,0 +1,1 @@
+28. “Prodhuesit e ambalazheve”, një subjekt tregtar, person, fizik dhe/ose juridik, që prodhon ose importon ambalazhe, duke përjashtuar prodhuesit apo importuesit e ambalazheve që mbushen në vendin e shitjes së produktit.

@@ -1,0 +1,14 @@
+2. Vendimi synon:
+a) të parandalojë mbetjet nga gjenerimi i ambalazheve;
+b) të nxitë grumbullimin e diferencuar, ripërdorimin, riciklimin dhe rikuperimin e mbetjeve nga ambalazhet, duke reduktuar sasitë e tyre që asgjësohen përfundimisht;
+c) të vendosë rregulla për prodhimin e ambalazheve dhe menaxhimin e mbetjeve të tyre në të gjitha fazat, si dhe të përcaktojë subjektet përgjegjëse për menaxhimin e tyre.
+II. FUSHA E ZBATIMIT
+1. Ky vendim zbatohet për të gjitha llojet e ambalazheve dhe mbetjet e tyre, të hedhura në treg në territorin e Republikës së Shqipërisë, nëse janë të përdorura apo të vendosura në qarkullim në industri, tregti, institucione shtetërore, zyra, dyqane, shërbime, për përdorim familjar apo çdo fushë tjetër të veprimtarisë njerëzore, pavarësisht nga materiali i përdorur.
+2. Ky vendim zbatohet pa rënë ndesh me kërkesat e legjislacionit në fuqi mbi cilësinë për ambalazhe të tilla, si ato të përdorura për të garantuar sigurinë, mbrojtjen e shëndetit publik dhe të higjienës së produktit të paketuar apo të kërkesave ligjore mbi transportin e mbetjeve të rrezikshme.
+III. PËRKUFIZIME
+Të gjithë termat e përcaktuar në nenin 3, të ligjit nr. 10 463, datë 22.9.2011 “Për menaxhimin e integruar të mbetjeve”, do të shërbejnë si përkufizime dhe do të kenë të njëjtin kuptim edhe në këtë vendim, ndërsa me termat e mëposhtëm, për qëllime të këtij vendimi, nënkuptohen:
+1. “Agjencia”, autoriteti publik, siç përcaktohet në kreun X, seksioni 1 të ligjit nr. 10 431, datë 9.6.2011 “Për mbrojtjen e mjedisit”.
+2. “Ambalazh”, përveç përcaktimit të dhënë në ligjin nr. 10 463, datë 22.9.2011 “Për menaxhimin e integruar të mbetjeve”, nënkupton edhe të gjitha produktet, pavarësisht nga materiali përbërës, që përdoren për mbajtjen, mbrojtjen, transferimin, shpërndarjen dhe prezantimin e mallrave nga prodhuesi te përdoruesi apo konsumatori, pavarësisht nga fakti nëse malli brenda tyre është lëndë e parë apo produkt i përpunuar. Termi “ambalazh” i referohet çdo objekti apo sendi që përmbush, sipas shtojcës 1, bashkëlidhur këtij vendimi, kriteret e mëposhtme:
+2.1 Përmbush funksionin e përmendur më lart, pavarësisht nga funksionet e tjera që ai mund të ketë, si: nuk është pjesë përbërëse e një produkti (malli); nuk është i nevojshëm për të mbështetur apo mbrojtur produktin (mallin) gjatë gjithë ciklit të tij të jetës; dhe nuk synohet që të gjitha elementet e tij të përdoren, të harxhohen apo të asgjësohen së bashku.
+2.2 Është projektuar për t’u mbushur në pikat e prodhimit ose shitjes së produktit (mallit) dhe pjesët e tij shiten, mbushen apo projektohen e përdoren për t’u mbushur në pikat e prodhimit ose shitjes, me kusht që të plotësojë funksionin e synuar të ambalazhit.
+2.3 Është pjesë përbërëse e ambalazhit apo element mbështetës i integruar në ambalazh, me kusht që të mos jetë pjesë përbërëse e produktit (mallit) dhe nuk synohet që të gjitha elementet e tij të përdoren apo të asgjësohen së bashku.

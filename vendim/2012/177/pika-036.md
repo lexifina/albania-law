@@ -1,0 +1,1 @@
+36. “Stacion transferimi”, një qendër e autorizuar dhe e specializuar, ku dërgohet përmbajtja e të gjithë koshave të mbetjeve të riciklueshme të thata, të asaj njësie të qeverisjes vendore, për të realizuar ndarjen e mëtejshme e të veçuar sipas rrymave specifike të mbetjeve, si ambalazheve të letrës e kartonit, të plastikës, të qelqit etj.

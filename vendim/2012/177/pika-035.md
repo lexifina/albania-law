@@ -1,0 +1,1 @@
+35. “Sistem i pagesave të rimbursueshme”, sistemi sipas së cilit blerësi në momentin e blerjes së një produkti të ambalazhuar parapaguan një vlerë të caktuar, e cila, në këmbim të kthimit të një sasie ambalazhi, i rikthehet atij: i) në vlerë monetare; ii) në trajtë të një malli apo produkti tjetër me vlerë të njëjtë me shumën e parapaguar.

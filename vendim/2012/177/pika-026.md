@@ -1,0 +1,1 @@
+26. “Prodhues i mallrave të ambalazhuara”, çdo subjekt tregtar, person, fizik dhe/ose juridik, i cili prodhon ose importon dhe hedh në treg për qëllim të aktivitetit të tij tregtar mallra të mbështjella në ambalazhe shitjeje, ambalazhe të grupuara apo në ambalazhe transporti, si dhe prodhuesit apo importuesit e ambalazheve që mbushen në vendin e shitjes së produktit.

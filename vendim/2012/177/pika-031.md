@@ -1,0 +1,1 @@
+31. “Riciklim organik”, trajtimi aerobik (kompostim) apo an-aerobik (biometanizim) në kushte të kontrolluara dhe duke përdorur mikroorganizma të pjesëve të biodegradueshme të mbetjeve të ambalazheve, që prodhojnë mbetje organike të stabilizuara apo metan. Lendfilli nuk konsiderohet si riciklim organik.
