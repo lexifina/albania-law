@@ -1,1 +1,0 @@
-9. Në zbatim të pikës 5-e të kreut I-rë të VKM-së, shtesat në kontratë të sipërfaqeve funksionale në kufi me objektin e kontratës së qirasë, do të bëhen me aneks-kontratë, sipas dokumentacionit të përgatitur, sipas pikës 1 të kreut II-të të VKM-së. Vlera e detyrimit mujor të qirasë, aplikohet referuar tarifave dysheme të përcaktuara në kreun e III-të të VKM-së.

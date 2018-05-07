@@ -1,1 +1,0 @@
-4. Me termin “truall i lirë”, të shprehur në pikën 2 të kreut të I-rë dhe në pikën 2 të kreut të III-të të VKM-së, do të kuptohen rastet, kur sipërfaqja është shesh i lirë (por jo tokë bujqësore, ose tokë e pafrytshme).
