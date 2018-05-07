@@ -1,0 +1,1 @@
+4. Në rastin kur studenti, transferohet në një program studimi në një IAL tjetër, NIM-i i tij mbyllet dhe nuk përdoret për një student tjetër. Studenti pajiset me NIM tjetër në IAL-në ku transferohet.

@@ -1,0 +1,1 @@
+1. Studenti në momentin e regjistrimit me dokumentacionin në institucionin e arsimit të lartë (IAL), regjistrohet edhe në regjistrimin themeltar të studentëve dhe pajiset me një numër matrikullimi (NIM) që e shoqëron atë deri në marrjen e diplomës për programin përkatës të studimit. Ky numër matrikullimi pasqyrohet në regjistrin themeltar të studentëve.

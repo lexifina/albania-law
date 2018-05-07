@@ -1,0 +1,1 @@
+6. Në rastin kur studenti i shkëlqyer regjistrohet me dokumentacion në më shumë se një program studimi, në të njëjtën IAL apo në IAL të ndryshme, ai pajiset me NIM të veçantë për secilin program studimi.

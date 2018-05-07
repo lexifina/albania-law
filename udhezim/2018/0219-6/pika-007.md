@@ -1,0 +1,1 @@
+7. Në fillim të çdo viti akademik, IAL-të dërgojnë në Qendrën e Shërbimeve Arsimore (QSHA) listën e studentëve të regjistruar, për çdo cikël studimi, në përputhje me afatet e përcaktuara nga ministria përgjegjëse për arsimin, sipas shtojcës nr. 3, bashkëlidhur këtij udhëzimi.

@@ -1,0 +1,1 @@
+2. NIM përbëhet nga tri germa dhe nëntë shifra. Ciklet e studimit përcaktohen sipas shtojcës nr. 1, bashkëlidhur këtij udhëzimi. Formimi i numrit të matrikullimit është sipas shtojcës nr. 2, bashkëlidhur këtij udhëzimi.
