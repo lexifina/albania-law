@@ -1,1 +1,0 @@
-2. Studentët e marrin numrin e matrikullimit (NIM) të përbërë nga gjashtë germa dhe dy shifra të kodit të regjistrit dhe katër shifrat e numrit të studentit në regjistrin përkatës. Formimi i numrit të matrikullimit është sipas shtojcës nr.1 bashkëlidhur këtij udhëzimi.
