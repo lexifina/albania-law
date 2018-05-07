@@ -1,0 +1,1 @@
+1. Ministrisë së Infrastrukturës dhe Energjisë, në buxhetin e miratuar për vitin 2018, t’i shtohet fondi prej 80 000 000 (tetëdhjetë milionë) lekësh, në zërin “Shpenzime korrente”, në programin “Planifikim, menaxhim, administrim”.
