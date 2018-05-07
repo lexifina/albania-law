@@ -1,0 +1,3 @@
+46. Në rastet kur kontrata e qirasë zgjidhet në mënyrë të njëanshme, pasi prona merret në dorëzim me procesverbal nga njësia administruese e pasurisë, për rihedhjen në konkurrim të kësaj pasurie, duhet të ndiqet procedura si më poshtë vijon:
+Në rast se, mbi pasurinë është kryer investim nga qiramarrësi i mëparshëm përgjatë vijueshmërisë së kontratës, nga ana e njësisë administruese të pasurisë së paluajtshme duhet të bëhet rivlerësimi i pasurisë nga ekspertët përkatës, në momentin e marrjes në dorëzim.
+Dokumentacioni për lidhjen e kontratës së qirasë, përgatitet sipas pikës 1, të kreut II, të VKM-së dhe vlera e detyrimit mujor të qirasë aplikohet referuar tarifave dysheme, të përcaktuara në kreun III të VKM-së.

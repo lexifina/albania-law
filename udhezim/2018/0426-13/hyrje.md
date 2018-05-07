@@ -1,0 +1,5 @@
+UDHËZIM
+Nr. 13, datë 26.4.2018
+PËR ZBATIMIN E VENDIMIT TË KËSHILLIT TË MINISTRAVE NR. 54, DATË 5.2.2014 “PËR PËRCAKTIMIN E KRITEREVE, TË PROCEDURËS DHE TË MËNYRËS SË DHËNIES ME QIRA, ENFITEOZË APO KONTRATA TË TJERA TË PASURISË SHTETËRORE”, TË NDRYSHUAR
+Në mbështetje të nenit 102 të Kushtetutës dhe të pikës 3, të kreut IX, të vendimit të Këshillit të Ministrave nr. 54, datë 5.2.2014 “Për përcaktimin e kritereve, të procedurës dhe të mënyrës së dhënies me qira, enfiteozë apo kontrata të tjera të pasurisë shtetërore”, të ndryshuar, ministri përgjegjës për ekonominë,
+UDHËZON:

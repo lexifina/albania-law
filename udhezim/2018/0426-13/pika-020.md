@@ -1,0 +1,1 @@
+20. Në zbatim të pikës 7-b, të kreut II VKM-së, në planin e biznesit duhet të përshkruhen treguesit, që do të realizohen brenda një periudhe jo më të gjatë, se 1/4 e afatit të kontratës, të cilat duhet të ruhen, deri në fund të afatit të kontratës.

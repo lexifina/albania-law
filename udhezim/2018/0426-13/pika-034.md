@@ -1,0 +1,1 @@
+34. Në zbatim të pikës 1-c, të kreut III të VKM-së, ministria përgjegjëse për ekonominë vendos tarifën për metër katrorë, për dhënien me qira të tokave të pafrytshme. Referuar akteve ligjore dhe nënligjore në fuqi, tarifa dysheme e dhënies me qira të pasurisë shtetërore tokë e pafrytshme, nuk mund të jetë më e ulët se 27 000 (njëzeteshtatë mijë) lekë/ha në një vit kalendarik.

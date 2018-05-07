@@ -1,0 +1,2 @@
+22. Komisioni i vlerësimit, i cili ka në përbërje të tij jo më pak se 3 persona, i hap të gjitha ofertat në datën, vendin dhe kohën e përcaktuar në urdhrin e titullarit, në prani të konkurrentëve, pas mbarimit të afatit përfundimtar për paraqitjen e ofertave.
+Emri, adresa e ofertuesit, oferta e të cilit hapet, dokumentacioni ligjor dhe çdo dokument i kërkuar nga autoriteti kontraktues, si dhe çmimi i çdo oferte, lexohen me zë të lartë për ata persona që janë të pranishëm dhe regjistrohen në procesverbalin e procedurës së konkurrimit.

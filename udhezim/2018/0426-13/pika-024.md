@@ -1,0 +1,3 @@
+24. Në rastet e pamundësisë teknike të funksionimit të platformës elektronike e-albania për verifikimin e dokumentacionit të paraqitur nga ofertuesit, atëherë komisioni do të marrë në shqyrtim dokumentet e paraqitura me shkrim, dorazi ose përmes postës, të nënshkruara dhe të mbyllura në zarf, nga ofertuesit.
+Në rast të pamundësisë për shqyrtimin dhe verifikimin e dokumentacionit në një prej formave të përcaktuara në pikat 19 dhe 20 të udhëzimit, komisioni do të vijojë me shtyrjen e arsyetuar të afatit jo më shumë se 5 ditë.
+Komisioni në çdo rast ngarkohet për njoftimin e ofertuesve mbi shtyrjen e afatit.

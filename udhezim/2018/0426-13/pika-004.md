@@ -1,0 +1,1 @@
+4. Në zbatim të pikës 2, të kreut I të VKM-së, “tokë e pafrytshme”, sipas ligjit nr. 8752, datë 26.3.2001 “Për krijimin dhe funksionimin e strukturave për administrimin dhe mbrojtjen e tokës, i ndryshuar, kuptohet toka cilësisht e dobët, që nuk përfshihet në zërat kadastralë: tokë bujqësore, tokë pyjore, pyje, kullota, livadhe e troje.

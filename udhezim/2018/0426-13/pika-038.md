@@ -1,0 +1,1 @@
+38. Në zbatim të pikës 4, të kreut V të VKM-së, për kontratat me tarifë simbolike 1 euro/kontrata pagesa e garancisë së kontratës, bëhet sipas faturës së lëshuar nga Qiradhënësi dhe kushtet e kthimit të saj, janë pjesë e negociatës së kontratës.

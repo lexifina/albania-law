@@ -1,0 +1,1 @@
+7. Me termin “sipërfaqe funksionale (jo nën ndërtesë)”, të shprehur në pikën 2 të kreut I dhe në pikën 2 të kreut III të VKM-së, do të kuptohen hapësirat funksionale përreth objektit, të nevojshme për t’i shërbyer këtij të fundit.

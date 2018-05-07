@@ -1,0 +1,1 @@
+33. Në rastet kur, pasuria e paluajtshme është truall i lirë dhe i përket të njëjtit numër pasurie dhe zonë kadastrale, por përbëhet nga parcela të ndryshme, hedhja ne konkurrim e kësaj pasurie do të bëhet në një urdhër për publikim për dhënie me qira/enfiteozë.

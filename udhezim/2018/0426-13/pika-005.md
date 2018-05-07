@@ -1,0 +1,1 @@
+5. Me termin “truall i lirë”, të shprehur në pikën 2 të kreut I dhe në pikën 2 të kreut III të VKM-së, do të kuptohen rastet, kur sipërfaqja e truallit është e lirë dhe pa ndërtime (por jo tokë bujqësore, shesh, rrugë, ose tokë e pafrytshme).

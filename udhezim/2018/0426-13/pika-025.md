@@ -1,0 +1,1 @@
+25. Komunikimi, shkëmbimi dhe ruajtja e informacionit kryhen në një mënyrë të tillë që të sigurojë ruajtjen e integritetit të të dhënave, konfidencialitetin e ofertave dhe të kërkesave për pjesëmarrje.
