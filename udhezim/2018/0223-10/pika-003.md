@@ -1,0 +1,1 @@
+3. Drejtoria e Programeve të Zhvillimit të Arsimit, Sportit dhe Rinisë dhe Qendra e Shërbimeve Arsimore, brenda muajit mars 2018, të përcaktojnë llojin e testeve për secilin provim të Maturës Shtetërore (të detyruar dhe me zgjedhje).
