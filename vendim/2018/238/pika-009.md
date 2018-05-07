@@ -1,0 +1,1 @@
+9. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Lushnjë të pezullojë të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohen procesi i hedhjes se gjurmës së projektit mbi hartën kadastrale dhe kalimi i pronësisë për pasuritë e shpronësuara.

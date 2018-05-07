@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “ndërtesë”, me vlerë 1 459 196 (një milion e katërqind e pesëdhjetë e nëntë mijë e njëqind e nëntëdhjetë e gjashtë) lekë, të përballohet nga buxheti i Bashkisë Lushnjë.

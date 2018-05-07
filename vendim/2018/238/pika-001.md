@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Sistemim, asfaltim i bllokut të banimit në lagjen “Xhevdet Nepravishta”, Lushnjë”.
