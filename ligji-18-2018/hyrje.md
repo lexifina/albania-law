@@ -1,0 +1,7 @@
+LIGJ
+Nr. 18/2018
+PËR RATIFIKIMIN E PROTOKOLLIT SHTESË 5 TË MARRËVESHJES PËR AMENDIMIN DHE ADERIMIN NË MARRËVESHJEN E TREGTISË SË LIRË TË EVROPËS QENDRORE
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
