@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor, Kolegji i Posaçëm i Apelimit, për procedurat e prokurimit publik, te znj. Laerta Poda, Sekretar i Përgjithshëm i Kolegjit të Posaçëm të Apelimit.
