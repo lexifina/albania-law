@@ -1,0 +1,24 @@
+2. Për qëllime të këtij vendimi, me termat e mëposhtëm nënkuptohet:
+a) “Autoriteti”, ministria përgjegjëse për turizmin;
+b) “Aplikues”, çdo investitor në strukturë akomoduese me 4 ose 5 yje, që aplikon pranë autoritetit për marrjen e statusit “Investitor në strukturë akomoduese me 4 ose 5 yje, status special”;
+c) “Komisioni i përhershëm i vlerësimit të aplikimeve” (këtu e në vijim “Komisioni”), komisioni që ngrihet me urdhër të ministrit përgjegjës për turizmin, i cili shqyrton aplikimet dhe paraqet pranë ministrit vlerësimin në lidhje me dhënien ose jo të statusit special;
+ç) “Sekretariati teknik i komisionit”, struktura administrative që asiston komisionin gjatë ushtrimit të veprimtarisë së tij. Rolin e sekretariatit teknik e luan struktura përgjegjëse për përgatitjen dhe fizibilitetin e projekteve në fushën e turizmit pranë autoritetit;
+d) “Sigurimi i marrëveshjes së zhvillimit”, një sigurim në formën e një depozite bankare apo garancie financiare, të lëshuar nga një bankë ose një shoqëri sigurimi vendase apo e huaj, e licencuar nga autoritetet shtetërore për të ushtruar këtë veprimtari;
+dh) “Subjekt për qëllime të veçanta (SPV)”, ka kuptimin që përcaktohet në nenin 207 e në vijim, të ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”;
+e) Termat e tjerë të papërkufizuar, të përdorur në këtë vendim, do të kenë kuptimin që i është dhënë në ligjin nr. 93/2015, “Për turizmin”, të ndryshuar.
+II. KRITERET QË DUHET TË PLOTËSOJË APLIKUESI PËR MARRJEN E STATUSIT TË VEÇANTË “INVESTITOR NË STRUKTURË AKOMODUESE ME 4 OSE 5 YJE, STATUS SPECIAL”
+1. Çdo aplikues, krahas kushteve të përcaktuara në nenin 33/1, të ligjit nr. 93/2015, “Për turizmin”, të ndryshuar, duhet të plotësojë edhe disa kritere të tjera për kualifikim.
+2. Kriteret e tjera të kualifikimit ndahen në kritere të përgjithshme dhe kritere të veçanta.
+2.1 Kriteret e përgjithshme të kualifikimit që duhet të plotësohen nga aplikuesi janë, si më poshtë vijon:
+a) Të investojë në ndërtimin e një strukture akomoduese me 4 ose 5 yje, në zonat me përparësi zhvillimin e turizmit, siç janë të përcaktuara nga legjislacioni në fuqi dhe struktura e ndërtuar të certifikohet si e tillë nga struktura përgjegjëse, sipas nenit 45, të ligjit nr. 93/2015, “Për turizmin”, të ndryshuar.
+b) Të ketë lidhur kontratë të vlefshme gjatë gjithë kohëzgjatjes së statusit, me një operator menaxhues të strukturave akomoduese me 4 ose 5 yje, status special, i cili plotëson kriteret e mëposhtme ose, në rastin kur aplikuesi do të menaxhojë vetë këto struktura, ai duhet të paraqesë dokumentacionin që vërteton plotësimin e këtyre kritereve:
+i) Nëse aplikon për statusin special për 4 yje, të ketë investuar në ndërtimin dhe/ose menaxhon të paktën 5 (pesë) struktura akomoduese në fushën e turizmit, të cilat janë të licencuara me 4 dhe/ose 5 yje nga autoritetet kompetente për këtë licencim të vendeve ku ndodhen strukturat akomoduese dhe nëse aplikon për statusin special për 5 yje të ketë ndërtuar dhe/ose menaxhon të paktën 5 (pesë) struktura akomoduese në fushën e turizmit, të cilat janë të licencuara me 5 yje nga autoritetet kompetente për këtë licencim të vendeve ku ndodhen strukturat akomoduese;
+ii) Këto struktura akomoduese janë në pronësinë direkte të aplikuesit dhe/ose operatorit menaxhues ose administrohen nga ata nëpërmjet kontratave të menaxhimit, të qirasë, të kontratave frachising apo të ngjashme me to; si dhe
+iii) Strukturat akomoduese ndodhen në të paktën 3 vende të Bashkimit Evropian; apo
+iv) Në rastet kur strukturat akomoduese nuk ndodhen në të paktën 3 vende të Bashkimit Evropian, atëherë aplikuesi duhet të ketë investuar në ndërtimin dhe/ose menaxhon të paktën 8 (tetë) struktura akomoduese në fushën e turizmit, të cilat janë të licencuara me 4 apo 5 yje (sipas rastit) nga autoritetet kompetente për këtë licencim të vendeve ku ndodhen strukturat akomoduese, të cilat ndodhen në destinacione ndërkombëtare të turizmit.
+c) Të mos ketë qenë i dënuar me vendim gjyqësor të formës së prerë për vepra penale të kryera me dashje.
+ç) Të ketë përmbushur të gjitha detyrimet që rrjedhin nga legjislacioni vendas/i huaj për taksat dhe tatimet.
+d) Të ushtrojë veprimtarinë sipas legjislacionit në fuqi vendas/i huaj dhe të mos jetë objekt i procedurave të falimentimit dhe/ose likuidimit, apo i ndonjë procedure tjetër të ngjashme, e cila mund të cenojë ndërtimin dhe/ose operimin e strukturës akomoduese.
+2.2 Kriteret e veçanta ekonomike dhe financiare të kualifikimit që duhet të plotësohen nga aplikuesi janë, si më poshtë:
+a) Vlera e parashikuar e investimit është të paktën 8 000 000 (tetë milionë) euro për ndërtimin e strukturës akomoduese me 4 yje dhe të paktën 15 000 000 (pesëmbëdhjetë milionë) euro për ndërtimin e strukturës akomoduese me 5 yje;
+b) Të ketë pasur xhiro të paktën 40% të vlerës së investimit në 3 (tri) vitet financiare të fundit të marra së bashku.
