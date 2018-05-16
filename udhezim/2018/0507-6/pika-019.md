@@ -1,0 +1,1 @@
+19. Të ardhurat e krijuara nga tarifat e qirasë dhe nga ofrimi i shërbimeve, në fund të vitit, nuk shpërndahen midis anëtarëve, por shërbejnë në funksion të organizatës së peshkimit për investime në infrastrukturën e transferuar dhe/ose për rritjen e shërbimeve të ofruara ndaj anëtarëve, sipas qëllimit për të cilin kjo infrastrukturë është transferuar.

@@ -1,0 +1,1 @@
+15. Organizata e peshkimit krijon kushte për kryerjen e shërbimeve të nevojshme të anijeve të peshkimit (riparime të pajisjeve e agregateve të tyre), duke përdorur në mënyrë racionale territorin dhe infrastrukturën që administron.

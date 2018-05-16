@@ -1,0 +1,1 @@
+21. Organizatat e peshkimit janë të detyruara të raportojnë çdo tre muaj pranë DSHPA-së lidhur me zbatimin e Planit të Menaxhimit, veprimtaritë e kryera, të ardhurat e realizuara etj, të shoqëruar me dokumentacion përkatës provues.

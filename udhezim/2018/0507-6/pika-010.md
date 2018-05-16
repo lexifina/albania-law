@@ -1,0 +1,1 @@
+10. Organizata e peshkimit duhet të krijojë të gjitha kushtet për inspektimin nga ana e organeve shtetërore, të ngarkuara nga ligji, të portit dhe të strukturave të lidhura me veprimtarinë e peshkimit që ajo administron.

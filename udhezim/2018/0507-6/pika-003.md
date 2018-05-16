@@ -1,0 +1,1 @@
+3. Në portet e peshkimit ushtrojnë veprimtaritë e tyre dhe organet shtetërore, si institucionet e Policisë Kufitare dhe Migracionit, Kapiteneria e Porteve, si dhe organe të tjera që kanë lidhje me funksionimin normal të porteve të peshkimit.

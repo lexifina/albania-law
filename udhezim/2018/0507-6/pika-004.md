@@ -1,0 +1,1 @@
+4. Procedurat e transferimit të menaxhimit të infrastrukturës së porteve të peshkimit kryhen nga Ministri përgjegjës për peshkimin, me kërkesë të institucionit, të institucioneve të specializuara dhe /ose kërkesë apo iniciativë të shoqatave apo subjekteve private.

@@ -1,0 +1,1 @@
+16. Organizata e peshkimit jep me qira anëtarëve të saj, dhomat frigoriferike, dhe ambientet e tjera në shërbim të aktivitetit të peshkimit. Përjashtohen nga qiradhënia ambientet për zyra të organeve shtetërore dhe agjencive ligj zbatuese që lidhen me aktivitetin e peshkimit si Policia Kufitare dhe Migracionit, Inspektorati i Peshkimit, Shërbimi Veterinar, Dogana.

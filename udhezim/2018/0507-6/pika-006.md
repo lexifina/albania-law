@@ -1,0 +1,1 @@
+6. Infrastrukturën e peshkimit e përbëjnë: trojet, kalatat, godinat dhe çdo objekt tjetër i paluajtshëm në territorin e portit të peshkimit, përfshirë muret rrethuese të tij dhe akuatoriumin, instalimet e sinjalizimit, të ndriçimit dhe të komunikimit brenda territorit të portit dhe në kanalin hyrës.
