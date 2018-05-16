@@ -1,0 +1,1 @@
+2. Ministria për Evropën dhe Punët e Jashtme ngarkohet të bashkërendojë dhe të monitorojë zbatimin e PKIE 2018-2020 nga grupet ndërinstitucionale të punës (GNP), për çdo kapitull, të ngritura me urdhrin nr. 107, datë 28.2.2014, të Kryeministrit, “Për ngritjen, përbërjen dhe funksionimin e grupeve ndërinstitucionale të punës për integrimin evropian”.

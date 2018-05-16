@@ -1,0 +1,1 @@
+4. Ministritë dhe institucionet e tjera koordinuese të grupeve ndërinstitucionale të punës (GNP) raportojnë pranë Ministrisë për Evropën dhe Punët e Jashtme çdo 3 muaj (java e tretë e muajit të fundit) për realizimin e detyrimeve që rrjedhin nga PKIE 2018-2020.
