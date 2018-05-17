@@ -1,0 +1,1 @@
+2. Bazuar në ligjin vjetor të buxhetit dhe strategjinë e menaxhimit të borxhit publik, me propozim të strukturës përgjegjëse për borxhin publik, në bashkëpunim me struktura të tjera të ministrisë përgjegjëse për financat, ministri përgjegjëse për financat miraton kërkesën për propozim për përzgjedhjen e rregulluesit kryesor (Lead Manager) dhe/ose huadhënësit dhe publikimin e saj.

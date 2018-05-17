@@ -1,0 +1,1 @@
+9. Ministri, brenda 5 (pesë) ditëve kalendarike nga paraqitja e propozimit të bërë nga struktura përgjegjëse për borxhin publik, vendos të miratojë ose të refuzojë shpalljen e fituesit për rregulluesin kryesor (Lead Manager) dhe/ose huadhënësit apo të përsëritë procedurën.

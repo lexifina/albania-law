@@ -1,0 +1,1 @@
+1. Përcaktimin e procedurës që do të ndiqet për procesin e përzgjedhjes së rregulluesit kryesor (Lead Manager) dhe/ose huadhënësit dhe përmbushjen e kësaj procedure për realizimin e huamarrjes me instrumente financiare në tregun e huaj.
