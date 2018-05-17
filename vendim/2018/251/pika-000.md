@@ -1,0 +1,2 @@
+Miratimin e letërmarrëveshjes, ndërmjet Republikës së Shqipërisë dhe Bankës Ndër-kombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve të grantit të siguruara nga Sekretariati i Shtetit për Çështjet Ekonomike (SECO) të qeverisë zvicerane, nën Fondin e Besimit me Shumë Donatorë, për fuqizimin e kontabilitetit dhe mjedisit të mirëbesimit në Evropën Jugore dhe Azinë Qendrore, për projektin e zhvillimit të kontabilitetit në sektorin publik, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
