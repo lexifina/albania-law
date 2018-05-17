@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63600,
+  "title": "MBI MIRATIMIN E RREGULLORES PËR MBROJTJEN E INFORMACIONIT KONFIDENCIAL",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "65",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-03-26",
+  "published": "2018-05-17",
+  "in_force": "2018-05-17",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/941b915a6f774a4abf36cb37a485d888293003ae0b85d9ea417e014bfa05b07d.docx",
+  "source_sha256": "941b915a6f774a4abf36cb37a485d888293003ae0b85d9ea417e014bfa05b07d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63600",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/03/26/65",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
