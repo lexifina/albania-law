@@ -1,0 +1,1 @@
+1. Fondet buxhetore, të miratuara në buxhetin e vitit 2018, për Fondin Shqiptar të Zhvillimit, në programin “Infrastruktura vendore dhe rajonale”, rishpërndahen në disa institucione qendrore, që janë autoritete kontraktuese, për financimin e projekteve në vazhdim të infrastrukturës vendore, sipas tabelës 1, që i bashkëlidhet dhe është pjesë përbërëse e këtij vendimi.
