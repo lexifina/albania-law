@@ -1,0 +1,1 @@
+3. Kohëzgjatja e këtij misioni është deri në datën 31 dhjetor 2019. Kohëzgjatja për çdo rotacion është 6 muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me përfaqësuesin e radhës.
