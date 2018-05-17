@@ -1,0 +1,1 @@
+2. Shpenzimet për shpërblimin e kryetarit, të anëtarëve dhe të sekretarit teknik të këshillit mbikëqyrës, të cilat vërtetohen kundrejt dokumentacionit që provon pjesëmarrjen në mbledhje, përballohen nga buxheti i Drejtorisë së Përgjithshme të Pronësisë Industriale.
