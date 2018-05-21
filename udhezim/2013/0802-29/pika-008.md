@@ -1,1 +1,0 @@
-8. Aty ku numri i nxënësve në dy klasa të “shansit të dytë” është më i vogël se numri i nxënësve për klasë, punohet me klasa të bashkuara, duke parapëlqyer bashkimin e klasave I-III, IV-VI dhe VII-IX.
