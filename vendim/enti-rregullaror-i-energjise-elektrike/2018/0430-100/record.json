@@ -1,0 +1,26 @@
+{
+  "qbz_id": 59199,
+  "title": "MBI FILLIMIN E PROCEDURËS PËR MIRATIMIN E KODIT TË RRJETIT MBI KËRKESAT PËR LIDHJEN ME RRJETIN E GJENERUESVE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "100",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-04-30",
+  "published": "2018-05-21",
+  "in_force": "2018-05-21",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a86e56988b23f919e8beb28703b3e82bee11906a1a0de74a8202488ebfaff498.docx",
+  "source_sha256": "a86e56988b23f919e8beb28703b3e82bee11906a1a0de74a8202488ebfaff498",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59199",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/04/30/100",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
