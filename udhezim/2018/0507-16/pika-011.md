@@ -1,0 +1,1 @@
+11. Provimet të zhvillohen të përqendruara në drejtoritë arsimore rajonale. ZA Tropojë, ZA Lushnjë dhe ZA Sarandë t’i zhvillojnë provimet në qytetet e tyre. ZA Delvinë t’i zhvillojë provimet në qytetin e Sarandës.

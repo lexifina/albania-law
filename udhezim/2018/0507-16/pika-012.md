@@ -1,0 +1,1 @@
+12. Drejtoritë arsimore rajonale dhe drejtoritë e shkollave të marrin masa për njoftimin e maturantëve/kandidatëve për datat, mjedisin dhe orën kur do të zhvillohet secili nga provimet e Maturës Shtetërore 2018, sesioni i dytë.

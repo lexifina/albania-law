@@ -1,0 +1,1 @@
+3. Administrimi dhe procedurat për shpërndarjen dhe grumbullimin e materialeve të provimeve të Maturës Shtetërore 2018, sesioni dytë, bazohen në Rregulloren e Maturës Shtetërore 2018, miratuar me urdhrin nr. 672, datë 29.12.2017, të ministrit të Arsimit, Sportit dhe Rinisë.

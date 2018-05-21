@@ -1,0 +1,1 @@
+9. Kandidatët/kandidatët e përcaktuar në pikën 7, germa “c” dhe “d”, të regjistrohen në shkollën ku kanë përfunduar arsimin e mesëm ose në shkollën që u cakton DAR/ZA-ja e vendbanimit të tyre. Këta kandidatë të plotësojnë formularin A1Z në datat 21-23 gusht 2018.

@@ -1,0 +1,1 @@
+5. Testi për secilin nga provimet me zgjedhje të përmbajë 20 pyetje, nga të cilat 10 pyetje të jenë me përgjigje alternative dhe të vlerësohen me 10 pikë, ndërsa 10 pyetje të jenë me zgjidhje dhe të vlerësohen me 30 pikë.

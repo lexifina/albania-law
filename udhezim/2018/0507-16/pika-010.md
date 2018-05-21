@@ -1,0 +1,1 @@
+10. Drejtori i shkollës të dërgojë zyrtarisht në DAR/ZA listën e kandidatëve që do të marrin pjesë në provimet e Maturës Shtetërore 2018, sesioni i dytë, deri më 23 gusht 2018. Drejtori i DAR/ZA-së ta dërgojë këtë listë në QSHA në datën 24 gusht 2018.
