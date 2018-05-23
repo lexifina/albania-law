@@ -1,0 +1,6 @@
+# Neni 11
+Komisioni i Vlerësimit të Ofertave
+1. Komisioni i Vlerësimit të Ofertave përbëhet nga jo më pak se 5 persona, specialistë të fushës përkatëse të institucionit përgjegjës, dhe, sipas rastit, nga përfaqësues të ministrive apo të institucioneve të tjera, të cilët gjykohen që kanë lidhje me aktivitetin që do të kryhet në zonë dhe është përgjegjës për shqyrtimin e ofertave. Në çdo rast, numri i anëtarëve duhet të jetë tek.
+2. Personat përgjegjës për hartimin e dokumenteve të procedurës konkurruese nuk mund të emërohen anëtarë të Komisionit të Vlerësimit të Ofertave. Kryetari i Komisionit përzgjidhet mes zyrtarëve drejtues të institucionit përgjegjës. Komisioni duhet të zbatojë detyrat e tij në pavarësi të plotë dhe, nëse kërkohet ndonjë sqarim në lidhje me dokumentet e procedurës, konkurruese, këto merren nga Njësia e Hartimit të Dokumenteve.
+3. Komisioni i Vlerësimit të Ofertave nuk kryen asnjë veprim tjetër përveç atyre të përcaktuara shprehimisht në këtë vendim.
+4. Nuk mund të marrin pjesë në Komisionin e Vlerësimit të Ofertave personat që kanë konflikt interesi me ofertuesit sipas kuptimit të ligjit “Për konfliktin e interesit”. Anëtarët e Komisionit dhe çdo person që ka marrë pjesë në procedurën e hartimit të dokumenteve kanë detyrimin të ruajnë konfidencialitetin e përmbajtjes së ofertës.
