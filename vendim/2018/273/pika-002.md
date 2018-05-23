@@ -1,0 +1,3 @@
+2. DPTP-ja është institucioni përgjegjës për krijimin, mbajtjen, administrimin dhe bërjen të disponueshëm të informacionit që përmban baza e të dhënave të RQTVPP (sistemi elektronik i subjekteve kontrolluese).
+Krijimi i RQTVPP-së realizohet në bashkëpunim me Agjencinë Kombëtare të Shoqërisë së Informacionit (AKSHI), në përputhje me përcaktimet e legjislacionit të fushës.
+Popullimi i vazhdueshëm i të dhënave në RQTVPP, për efekt të vlerësimit të bazës së taksueshme për ndërtesat, për rrjedhojë edhe të taksës vendore të ndërtesës, bëhet nga njësitë e vetëqeverisjes vendore nën monitorimin dhe asistencën e DPTP-së, në bazë të aksesit për territorin në juridiksionin administrativ përkatës.

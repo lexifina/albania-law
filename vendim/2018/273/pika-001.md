@@ -1,0 +1,1 @@
+1. Regjistri Qendror i Bazës së të Dhënave për Llogaritjen e Taksës Vendore mbi Pasurinë e Paluajtshme “ndërtesë” (RQTVPP) administrohet në formë elektronike pranë Drejtorisë së Përgjithshme të Taksës së Pasurisë (DPTP).
