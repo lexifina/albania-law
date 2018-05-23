@@ -1,0 +1,1 @@
+1. Transferimin e pronësisë së 100% të aksioneve të shoqërisë “Kombinati i sheqerit” sh. a., Maliq, nga Ministria e Financave dhe Ekonomisë te Bashkia Maliq, me të gjitha të drejtat e detyrimet, në momentin e hyrjes në fuqi të këtij vendimi.
