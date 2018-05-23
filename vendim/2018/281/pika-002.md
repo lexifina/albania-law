@@ -1,0 +1,1 @@
+2. Ministri përgjegjës për zbatimin e dispozitave të ligjit nr. 57/2014, “Për krijimin dhe funksionimin e Këshillit Ekonomik Kombëtar”, të ndryshuar, është ministri i Shtetit për Mbrojtjen e Sipërmarrjes.

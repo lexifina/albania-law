@@ -1,0 +1,1 @@
+9. Për periudhën deri në miratimin e fondeve përkatëse të buxhetit të shtetit për plotësimin me personel organik, detyrat e sekretariatit teknik do të përmbushen nga punonjës të komanduar ose të punësuar me kontratë të përkohshme.

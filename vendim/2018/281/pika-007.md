@@ -1,0 +1,1 @@
+7. Sekretari i Përgjithshëm përfaqëson sekretariatin në marrëdhëniet me të tretët për funksionet, kompetencat dhe përgjegjësitë e përcaktuara në ligjin nr. 57/2014, të ndryshuar, ndërsa drejtori ekzekutiv i sekretariatit administron të gjitha procedurat administrative që ndjek sekretariati teknik, si dhe administron mbështetjen administrative që ai ofron për ministrin përgjegjës.

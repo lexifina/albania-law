@@ -1,0 +1,1 @@
+1. Sekretariati teknik i Këshillit Ekonomik Kombëtar (në vijim, sekretariati teknik) është institucion buxhetor publik në varësi të ministrit të Shtetit për Mbrojtjen e Sipërmarrjes, me seli në mjediset e Kryeministrisë.
