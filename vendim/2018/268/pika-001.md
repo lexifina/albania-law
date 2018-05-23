@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Devoll, në njësinë administrative “Qendër Bilisht”, të pronave me numër rendor 1-4, me vendndodhje në zonat kadastrale 3637 e 1202, sipas formularit dhe lidhjes 1, bashkëlidhur këtij vendimi, për t’u përdorur për ndërtimin e një burimi gjenerues të energjisë elektrike fotovoltaike.
