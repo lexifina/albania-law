@@ -1,0 +1,2 @@
+Miratimin e deklaratës së synimit (SOI - Statement of Intent), të Republikës së Francës për t’u bërë pjesë e memorandumit të mirëkuptimit, ndërmjet Republikës së Shqipërisë dhe Komandës Supreme të Forcave Aleate në Evropë dhe Shtabit të Komandës Supreme Aleate për Transformimin, lidhur me mbështetjen e shtetit pritës për kryerjen e operacioneve dhe të stërvitjeve të NATO-s, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
