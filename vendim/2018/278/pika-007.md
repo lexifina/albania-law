@@ -1,0 +1,1 @@
+7. Baza e të dhënave shtetërore “Regjistri Kombëtar i Pasurive Kulturore (RKPK)” shkëmben informacione me institucionet publike që ushtrojnë funksione publike sipas ligjit nr. 10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, lidhur me statusin e standardeve shqiptare dhe fushat që lidhen me to.
