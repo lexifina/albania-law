@@ -1,0 +1,1 @@
+2. Njësitë e qeverisjes vendore përgjegjëse për lëshimin e certifikatës shëndetësore veterinare për mishin e kafshëve të llojit gjedhë, të imta, derra të therura në thertore të marrin të gjitha masat për prodhimin dhe pajisjen me certifikatën veterinare sipas modelit të përcaktuar në pikën 1 të këtij urdhri.
