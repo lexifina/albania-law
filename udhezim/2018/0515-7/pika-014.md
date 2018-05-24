@@ -1,0 +1,1 @@
+14. Kontratat për zhvillimin e aktivitetit të peshkimit përgatiten nga drejtoria që mbulon peshkimin, sipas modelit të kontratës tip të miratuar me urdhër ministri. Zbatimi i kushteve të vendosura në kontratë, është objekt monitorimi nga grupi i punës i ngritur me urdhër ministri.
