@@ -1,1 +1,0 @@
-6. Lista finale e objekteve ujore e përgatitur nga drejtoria që mbulon peshkimn, si dhe lista e subjekteve fituese dërgohet për publikim në Buletinin e Njoftimeve Publike nëpërmjet sektorit të prokurimeve publike.

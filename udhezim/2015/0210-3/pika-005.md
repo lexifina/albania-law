@@ -1,1 +1,0 @@
-5. Drejtoria që mbulon peshkimin, mban një listë (që përditësohet vazhdimisht) të subjekteve që rezultojnë kundërvajtës i legjislacionit në fushën e peshkimit dhe/ose debitorë, me qëllim që të mbahet parasysh në fazën e shqyrtimit të dokumentacionit për konkurrim nga ana e komisionit të vlerësimit të kërkesave.
