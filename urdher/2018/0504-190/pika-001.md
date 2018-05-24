@@ -1,0 +1,1 @@
+1. Miratimin e modelit të certifikatës shëndetësore veterinare që shoqëron lëvizjen dhe transportin brenda territorit të Republikës së Shqipërisë të ngarkesave të produkteve me origjinë shtazore jo për konsum njerëzor bashkëlidhur këtij urdhri.

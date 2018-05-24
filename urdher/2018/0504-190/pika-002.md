@@ -1,0 +1,1 @@
+2. Çdo ngarkesë me produkte me origjinë shtazore, jo për konsum njerëzor që lëvizin dhe transportohen brenda territorit të Republikës së Shqipërisë të shoqërohet me certifikatë shëndetësore veterinare sipas modelit të pikës 1, të këtij urdhri.
