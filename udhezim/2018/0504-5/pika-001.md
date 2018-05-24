@@ -1,0 +1,1 @@
+1. Kërkesë për përjashtim nga zbatimi i sistemit të vetëkontrollit mund të bëjnë operatorë të vegjël ushqimor që tregtojnë sasi të vogla produktesh ushqimore, kategori të veçanta operatorësh, si dhe prodhues të produkteve tradicionale.

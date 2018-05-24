@@ -1,0 +1,2 @@
+11. Operatorët e biznesit ushqimor që plotësojnë kërkesat e këtij udhëzimi përjashtohen nga zbatimi i sistemit të vetëkontrollit dhe listohen në listën, modeli i së cilës jepet në Shtojcën I bashkëlidhur këtij udhëzimi. Përditësimi i listës së operatorëve të biznesit ushqimor të përjashtuar nga sistemi i vetëkontrollit bëhet rast pas rasti.
+Ky udhëzim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

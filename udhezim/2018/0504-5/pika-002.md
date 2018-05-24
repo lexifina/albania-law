@@ -1,0 +1,1 @@
+2. Operatorë të vegjël ushqimor janë individë ose bashkim individësh të cilët shesin direkt për konsumatorin produktet e prodhuara prej tyre në sasi të vogla produktet primare dhe/ose të përpunuara me origjinë shtazore dhe joshtazore.

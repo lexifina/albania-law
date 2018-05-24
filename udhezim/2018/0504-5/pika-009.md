@@ -1,0 +1,1 @@
+9. Ministria shqyrton raportin e ardhur nga AKU-ja dhe sipas rastit liston ose jo aplikuesin në listën e bizneseve të përjashtuara nga zbatimi i sistemit të vetkontrollit. Në të dyja rastet, Ministria njofton aplikuesin.

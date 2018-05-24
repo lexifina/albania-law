@@ -1,0 +1,1 @@
+7. Brenda 15 (pesëmbëdhjetë) ditëve pune, MBZHR-ja shqyrton kërkesën dhe ja përcjellë Autoritetit Kombëtar të Ushqimit (AKU) për të verifikuar nëse operatori garanton një nivel të pranueshëm higjienik në zbatim të sistemit të procedurave të vetëkontrollit, sipas praktikave të mira të kontrollit.
