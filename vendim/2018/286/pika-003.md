@@ -1,0 +1,1 @@
+3. Ndërmarrja pritëse duhet t’u sigurojë edhe punëmarrësve të përkohshëm akses për t’u trajnuar si punëtorët e përhershëm, me qëllim përmirësimin e aftësive dhe të njohurive të tyre për fushën e pozicionit ku janë punësuar.
