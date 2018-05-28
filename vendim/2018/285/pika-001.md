@@ -1,0 +1,1 @@
+1. Kalimin e disa pronave në pronësi të Bashkisë Tiranë, të njësisë administrative Tiranë, sipas lidhjes nr. 1 dhe formularëve që i bashkëlidhen këtij vendimi, me qëllim realizimin e funksioneve administrative dhe ekonomike.
