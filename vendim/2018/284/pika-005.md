@@ -1,0 +1,1 @@
+5. Kohëzgjatja e këtij misioni është deri në 5 (pesë) vjet, afat i cili fillon të llogaritet nga data e dërgimit të grupit të parë në Afganistan, me sistem rotacioni. Periudha e rotacionit për çdo grup të jetë 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me grupin e radhës.

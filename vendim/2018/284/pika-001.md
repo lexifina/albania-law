@@ -1,0 +1,1 @@
+1. Dërgimin me mision të një grupi trajnues special, të përbërë nga 12 (dymbëdhjetë) ushtarakë të Batalionit të Forcave Speciale, të Forcës Tokësore, të Forcave të Armatosura të Republikës së Shqipërisë, në kuadër të operacionit ushtarak të NATO-s “Resolute Support Mission” (RSM), në Afganistan.
