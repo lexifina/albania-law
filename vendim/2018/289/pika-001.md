@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i ri i shkollës tip 1 + tip 4, në Njësinë Administrative nr. 9, sheshi 9/1”, në Bashkinë Tiranë.
