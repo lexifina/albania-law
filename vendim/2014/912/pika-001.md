@@ -1,0 +1,1 @@
+1. Dërgimin me mision të personelit të Forcave të Armatosura të Republikës së Shqipërisë, të përbërë nga 66 (gjashtëdhjetë e gjashtë) ushtarakë, pranë Komandës së Batalionit Shumëkombësh, në varësi të Shtabit të Trajnim-Këshillimit dhe Ndihmës në Kabul (TAAC - Capital), në Afganistan.
