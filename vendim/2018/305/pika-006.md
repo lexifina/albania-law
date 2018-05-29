@@ -1,0 +1,1 @@
+6. Me qëllim përmbushjen e funksioneve, me nismën e tij, Komisioni mund të zhvillojë takime me grupet e ekspertëve të federatave sportive për të gjitha llojet e aktiviteteve sportive dhe të propozojë masa konkrete në zbatim të kuadrit ligjor në fuqi.
