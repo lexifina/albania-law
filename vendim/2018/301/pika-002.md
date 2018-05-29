@@ -1,0 +1,1 @@
+2. Falja dhe kthimi i shumave të detyrimit të falur, por të paguara, sipas përcaktimeve në shkronjat “a” e “b”, të pikës 1, të këtij vendimi, bëhet me vendim të nëpunësit autorizues dhe të nëpunësit zbatues të Drejtorisë Rajonale të Sigurimeve Shoqërore dhe jepet evidentim apo pagesë në sistemin informatik të përfitimeve të Institutit të Sigurimeve Shoqërore.

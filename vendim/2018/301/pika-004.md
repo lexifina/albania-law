@@ -1,0 +1,1 @@
+4. Efektet financiare, në shumën 9 352 000 (nëntë milionë e treqind e pesëdhjetë e dy mijë) lekë, të nevojshme për kthimin e shumave të detyrimeve të paguara nga përfituesit për periudhën janar-maj 2017, të përballohen nga buxheti i sigurimeve shoqërore të vitit 2018.
