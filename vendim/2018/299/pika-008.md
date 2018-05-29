@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë organizohet në nivel qendror dhe e shtrin veprimtarinë e saj në të gjithë territorin e Republikës së Shqipërisë.

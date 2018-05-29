@@ -1,0 +1,1 @@
+7. Organizimi i brendshëm i Drejtorisë së Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë miratohet me urdhër të Kryeministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin dhe funksionimin e administratës shtetërore.

@@ -1,0 +1,1 @@
+13. Deri në fillimin e funksionimit të Drejtorisë së Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë, sipas këtij vendimi, struktura ekzistuese vazhdon funksionimin e saj sipas strukturës dhe organikës së miratuar.

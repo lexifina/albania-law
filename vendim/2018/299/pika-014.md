@@ -1,0 +1,1 @@
+14. Ministri përgjegjës për financat, brenda një muaji nga hyrja në fuqi e këtij vendimi, përgatit dhe propozon strukturën dhe organikën e Drejtorisë së Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë, sipas përcaktimeve në legjislacionin në fuqi për organizimin dhe funksionimin e administratës shtetërore.

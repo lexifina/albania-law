@@ -1,0 +1,1 @@
+12. Në rastin e mbylljes dhe të ristrukturimit të institucionit, për nëpunësit civilë aktualë të Drejtorisë së Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë, zbatohen dispozitat e legjislacionit për nëpunësin civil. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës të Republikës së Shqipërisë.

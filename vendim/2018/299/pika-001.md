@@ -1,0 +1,1 @@
+1. Krijimin e Drejtorisë së Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë si person juridik publik, në varësi të ministrit përgjegjës për financat, me seli në Tiranë.

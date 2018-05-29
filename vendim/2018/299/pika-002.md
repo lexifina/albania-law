@@ -1,0 +1,1 @@
+2 .Drejtoria e Përgjithshme e Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë ka mision të saj sigurimin e një menaxhimi efektiv, financiar dhe teknik të projekteve të miratuara sipas marrëveshjeve financiare me Komisionin Evropian, Bankën Botërore dhe donatorë të tjerë.

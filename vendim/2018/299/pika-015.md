@@ -1,0 +1,1 @@
+15. Numri i punonjësve dhe fondet e miratuara për Drejtorinë e Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë në Ministrinë e Financave dhe Ekonomisë kalojnë për këtë drejtori, sipas këtij vendimi.

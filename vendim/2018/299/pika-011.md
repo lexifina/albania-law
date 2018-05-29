@@ -1,0 +1,1 @@
+11. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të Drejtorisë së Përgjithshme të Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë miratohet nga ministri përgjegjës për financat, me propozimin e titullarit të institucionit.

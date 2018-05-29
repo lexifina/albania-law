@@ -1,0 +1,7 @@
+6. Drejtoria e Përgjithshme e Financimeve dhe Kontraktimeve për Fondet e BE-së, BB-së dhe Donatorëve të Tjerë ka funksionet dhe përgjegjësitë e mëposhtme:
+a) Kryerjen e procedurave të prokurimit dhe të kontraktimit të projekteve të miratuara sipas marrëveshjeve financiare me Komisionin Evropian, Bankën Botërore dhe donatorë të tjerë;
+b) Mbikëqyrjen e zbatimit të kontratave të nënshkruara në kuadër të projekteve të miratuara sipas marrëveshjeve financiare me Komisionin Evropian, Bankën Botërore dhe donatorë të tjerë;
+c) Menaxhimin financiar, regjistrimin e transaksioneve në sistemin e kontabilitetit si dhe kryerjen e pagesave për kontratat e lidhura për projektet e miratuara sipas marrëveshjeve financiare me Komisionin Evropian, Bankën Botërore dhe donatorë të tjerë;
+ç) Realizimin e kontrollit dhe të certifikimit të shpenzimeve të kryera nga partnerët shqiptarë gjatë zbatimit të projekteve të bashkëpunimit rajonal dhe ndërterritorial, sipas përcaktimeve në marrëveshjet e financimit;
+d) Kryerjen e kontrolleve në vend pranë institucioneve përfituese të projekteve të miratuara sipas marrëveshjeve financiare me Komisionin Evropian, për të siguruar zbatimin efektiv dhe në kohë të projekteve nga strukturat IPA;
+dh) Ofrimin e trajnimeve të vazhdueshme për institucionet përfituese lidhur me proceset e prokurimit dhe të monitorimit të zbatimit të kontratave e të projekteve sipas rregullave të donatorëve.
