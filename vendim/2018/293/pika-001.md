@@ -1,0 +1,1 @@
+1. Miratimin e kalimit të së drejtës së pronësisë në favor të subjekteve përfituese për 1078 (një mijë e shtatëdhjetë e tetë) parcela ndërtimore të objekteve të legalizuara dhe kompensimin financiar të pronarëve të pasurive të paluajtshme që preken prej tyre, sipas shtojcës që i bashkëlidhet këtij vendimi.
