@@ -1,0 +1,4 @@
+8. Zyrtari Autorizues i Programit (ZAP/PAO)
+a) Zyrtari Autorizues i Programit (ZAP/PAO) është një zyrtar i lartë në Ministrinë e Financave, emëruar nga ZKA-ja/NAO-ja pas konsultimit me KKIPA-në/NIPAC-në. ZAP-ja/PAO-ja drejton Agjencinë Implementuese për zbatimin e Komponentit të Parë të IPA-së dhe përgjigjet te ZKA-ja/NAO-ja për përmbushjen në kohën e duhur dhe me efiçencë të detyrimeve të përcaktuara në pikën 6 të aneksit A të marrëveshjes kuadër.
+b) ZAP-ja/PAO-ja është përgjegjës për veprimtarinë e Agjencisë Implementuese dhe ZLP-ve/SPO-ve, të emëruar në ministritë e linjës apo në institucione të tjera, përfituese të IPA-së.
+c) ZAP/PAO-ja është përgjegjëse për të informuar KKIPA/NIPAC-në për zbatimin e kontratave dhe për t’i siguruar ZKA/NAO-së ligjshmërinë e rregullsinë e shpenzimeve apo aspekteve të tjera financiare që lidhen me zbatimin e kontratave:
