@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Thesarit drejtohet nga drejtori i Përgjithshëm, i cili është përgjegjës për administrimin dhe funksionimin e Drejtorisë së Përgjithshme të Thesarit, e përfaqëson atë në marrëdhënie me të tretët dhe përgjigjet para ministrit.

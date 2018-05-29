@@ -1,0 +1,1 @@
+13. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të Drejtorisë së Përgjithshme të Thesarit miratohet nga ministri përgjegjës për financat, me propozimin e titullarit të institucionit.

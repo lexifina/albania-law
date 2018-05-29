@@ -1,0 +1,1 @@
+14. Për nëpunësit civilë aktualë të Drejtorisë së Përgjithshme të Thesarit dhe degëve të saj zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
