@@ -1,0 +1,5 @@
+# Neni 11
+Mundësia e hyrjes dhe informacioni
+1. Në bashkëpunim me organizatat përfaqësuese të personave të paaftë ose personave me lëvizshmëri të kufizuar, transportuesit dhe njësia e menaxhimit të terminalit, aty ku është e përshtatshme nëpërmjet organizatave të tyre, do të krijojnë ose i kanë krijuar, kushte jodiskriminuese hyrje për transportin e personave të paaftë ose personat me lëvizshmëri të kufizuar.
+2. Kushtet e hyrjes ofruar si në paragrafin 1, duke përfshirë kuadrin ligjor kombëtar për krijimin e kërkesave të sigurisë, në të cilat këto kushte jodiskriminuese hyrje janë bazuar, do të bëhen të vlefshme për publikim nga transportuesit dhe njësia e menaxhimit të terminalit, fizikisht ose në internet, në formate të pranueshme me kërkesë, në të njëjtën gjuhë, si ato në të cilat informacioni është bërë i vlefshëm në përgjithësi për të gjithë udhëtarët. Kur ofrohet ky informacion, vëmendje e veçantë do t’u kushtohet nevojave të personave të paaftë ose personave me lëvizshmëri të kufizuar.
+3. Informacioni për kushtet e hyrjet, referuar paragrafit 2, do të shpërndahet fizikisht me kërkesë të udhëtarëve.

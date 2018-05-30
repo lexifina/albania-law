@@ -1,0 +1,13 @@
+# Neni 14
+Kushtet nën të cilat jepet ndihma
+për personat me aftësi të kufizuara
+1. Transportuesit dhe njësia e menaxhimit të terminalit duhet të bashkëpunojnë në mënyrë që të sigurojnë ndihmë për personat e paaftë ose personat me lëvizshmëri të kufizuar, me kusht që:
+a) Nevoja e personit për ndihmë t’i njoftohet transportuesit, njësisë menaxhuese të terminalit, agjentëve të udhëtimit në 36 orët e fundit përpara se ndihma të jetë e nevojshme; dhe
+b) Personat e interesuar paraqiten vetë në pikën e caktuar:
+i) në kohën e përcaktuar paraprakisht nga transportuesi, që duhet të jetë jo më shumë se 60 minuta para kohës së publikuar të nisjes ose në një periudhë më të shkurtër nëse është rënë dakord ndërmjet transportuesit dhe udhëtarit; ose
+ii) në qoftë se nuk ka kohë të përcaktuar, jo më vonë se 30 minuta para kohës së publikuar të nisjes.
+2. Përveç sa parashikohet në pikën 1, personat e paaftë ose personat me lëvizshmëri të kufizuar, njoftojnë transportuesin, agjentin e udhëtimeve ose operatorin turistik në kohën e rezervimit ose, paraprakisht, bëjnë blerjen e biletës së përcaktuar për nevojat e tyre të veçanta, me kusht që nevoja të jetë e njohur në atë kohë.
+3. Transportuesit, njësia e menaxhimit të terminalit, agjentët e udhëtimit dhe operatorët turistikë do të marrin të gjitha masat e nevojshme për të lehtësuar marrjen e njoftimeve të nevojës për ndihmë, të bëra nga personat e paaftë ose personat me lëvizshmëri të kufizuar. Ky detyrim do të zbatohet në të gjitha terminalet e caktuara dhe pikat e tyre të shitjes, duke përfshirë shitjen me telefon dhe përmes internetit.
+4. Nëse njoftimi nuk bëhet në përputhje me shkronjën “a”, të paragrafit 1 dhe të paragrafit 2, transportuesit, njësia e menaxhimit të terminalit, agjentët e udhëtimit dhe operatorët turistikë, do të bëjnë çdo përpjekje të arsyeshme për të siguruar që ndihma është dhënë në një mënyrë të tillë, që personat e paaftë ose personat me lëvizshmëri të kufizuar janë në gjendje të hipin në shërbimin e rezervuar, duke ndryshuar shërbimin përkatës apo të zbresin nga shërbimi i mbërritjes, për të cilin ata kanë blerë një biletë.
+5. Njësia e menaxhimit të terminalit do të caktojë një pikë brenda ose jashtë terminalit, në të cilën personat e paaftë ose personat me lëvizshmëri të kufizuar mund të lajmërojnë ardhjen e tyre dhe të kërkojnë ndihmë. Pika duhet sinjalizuar në mënyrë të qartë dhe të ofrojë informacion bazë për terminalin dhe ndihmën e dhënë, në formate të pranueshme.
+Shënim. Mund të shtohen referenca sipas planit 5-vjeçar kombëtar të veprimit për PAK-në, miratuar me vendimin e Këshillit ët Ministrave nr. 483, datë 29.6.2016, “Për miratimin e Planit Kombëtar të Veprimit për Personat me Aftësi të Kufizuara, 2016-2020”, Fletorja Zyrtare 124/2016.
