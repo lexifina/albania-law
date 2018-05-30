@@ -1,0 +1,1 @@
+4. Për kandidatët që kanë përfunduar arsimin e mesëm, përpara vitit shkollor 2017-2018 dhe që kanë aplikuar me formularin A1Z, nga drejtoritë e institucioneve arsimore, ku ata kanë kryer aplikimin, hidhen deri më 30 qershor 2018, në portalin online të maturantit të dhënat e lidhura me rezultatet e shkollimit të të gjitha viteve të arsimit të mesëm.

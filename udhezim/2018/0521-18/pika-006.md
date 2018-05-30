@@ -1,0 +1,1 @@
+6. Përzgjedhja e programeve të ciklit të parë të studimeve, të programeve të studimeve me karakter profesional, si dhe programeve të integruara të studimeve të ciklit të dytë të ofruara nga IAL-të për vitin akademik 2018-2019, të bëhet në portalin e aplikimit universitar U-Albania: http://ualbania.arsimi.gov.al

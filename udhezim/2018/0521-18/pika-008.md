@@ -1,0 +1,1 @@
+8. DAR/ZA-të duhet të marrin masa për krijimin e kushteve (mjedise, asistencë teknike, këshilluese etj.) për t’iu ofruar maturantëve/ kandidatëve çdo ndihmë të kërkuar, lidhur me procesin e aplikimit për pranim në IAL.

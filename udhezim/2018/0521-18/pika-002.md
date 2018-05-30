@@ -1,0 +1,1 @@
+2. Hedhja e rezultateve lëndore të të gjitha viteve të arsimit të mesëm, për maturantët/kandidatët që kanë plotësuar online formularin A1 ose A1Z, bëhet nga drejtoritë e institucioneve arsimore në portalin maturanti: www.rezultateam.al

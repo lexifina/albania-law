@@ -1,0 +1,1 @@
+5. Për kandidatët, që kanë përfunduar arsimin e mesëm jashtë vendit dhe që kanë aplikuar me formularin A1Z, nga drejtoritë e institucioneve arsimore, ku ata kanë kryer aplikimin, hidhen deri më 30 qershor 2018, në portalin online të maturantit të dhënat e lidhura me rezultatet e njësuara të shkollimit të të gjitha viteve të arsimit të mesëm.
