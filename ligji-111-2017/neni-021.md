@@ -1,0 +1,9 @@
+# Neni 21
+Procedura e dhënies së ndihmës juridike dytësore të pandehurit pa mjete të mjaftueshme financiare
+1. Në rast se kërkesa për ndihmë juridike dytësore paraqitet nga i pandehuri pa mjete të mjaftueshme financiare, organi procedues që fillon hetimet shqyrton menjëherë nëse përmbushen kriteret e përcaktuara në nenin 12 të këtij ligji.
+2. Nëse organi procedues që fillon hetimet vlerëson se kriteret janë përmbushur, cakton menjëherë një avokat mbrojtës nga lista e avokatëve që ofrojnë shërbimet e ndihmës juridike dytësore dhe njofton menjëherë personin, të cilit i ofrohet ndihmë juridike dytësore, si dhe avokatin e caktuar mbrojtës.
+3. Vendimi për pranimin ose rrëzimin e kërkesës për ndihmë juridike dytësore jepet i arsyetuar dhe i njoftohet kërkuesit dhe Drejtorisë së Ndihmës Juridike Falas.
+4. Kërkuesi mund ta kundërshtojë vendimin e organit procedues për rrëzimin e kërkesës për ndihmë juridike dytësore, me padi në gjykatën penale të shkallës së parë, kompetente për shqyrtimin e çështjes në themel, brenda 5 ditëve nga marrja dijeni për këtë vendim.
+5. Gjykata shqyrton çështjen me një gjyqtar, sipas rregullave të parashikuara në legjislacionin procedural, brenda 15 ditëve nga regjistrimi i çështjes. Kundër këtij vendimi lejohet ankim i veçantë në gjykatën e apelit brenda 5 ditëve nga marrja dijeni. Gjykata e apelit e shqyrton ankimin në dhomë këshillimi brenda 10 ditëve nga data e marrjes së akteve.
+6. Këshilli i Lartë i Prokurorisë miraton rregullat dhe procedurat që ndiqen nga organi procedues që fillon hetimet, për caktimin mbi bazë të parimit të rotacionit të avokatit mbrojtës dhe zëvendësimin e tij nga lista e avokatëve që ofrojnë shërbimet e ndihmës juridike dytësore në procesin penal.
+7. Rregulla të hollësishme që lidhen me garantimin e mbrojtjes së detyrueshme nga institucionet e parashikuara në këtë ligj, sipas parashikimeve të Kodit të Procedurës Penale, miratohen nga Këshilli i Lartë i Prokurorisë.

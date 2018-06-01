@@ -1,0 +1,24 @@
+# Neni 3
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+a) “Ndihmë juridike” është shërbimi juridik falas dhe shërbimet e tjera të parashikuara në këtë ligj, për personat që përmbushin kriteret e këtij ligji, të cilat garantohen dhe financohen nga shteti.
+b) “Ndihmë juridike parësore” është:
+i) dhënia e informacioneve në lidhje me sistemin ligjor të Republikës së Shqipërisë, aktet normative në fuqi, të drejtat dhe detyrimet e subjekteve të ligjit dhe metodat për ushtrimin e këtyre të drejtave në procesin gjyqësor dhe në atë jashtëgjyqësor;
+ii) dhënia e këshillimit;
+iii) dhënia e këshillimit mbi procedurat e ndërmjetësimit dhe zgjidhjeve alternative të mosmarrëveshjeve;
+iv) dhënia e ndihmës në hartimin dhe përpilimin e dokumenteve të nevojshme për të vënë në lëvizje administratën shtetërore ose për të kërkuar ndihmë juridike dytësore;
+v) përfaqësimi përpara organeve administrative; dhe
+vi) dhënia e të gjitha formave të tjera të mbështetjes së nevojshme juridike që nuk përbëjnë ndihmë juridike dytësore.
+c) “Ndihmë juridike dytësore” është shërbimi juridik që ofrohet për përpilimin e akteve të nevojshme për të vënë në lëvizje gjykatën; ofrimi i këshillimit, përfaqësimit dhe mbrojtjes para gjykatës në çështjet administrative, civile dhe në çështjet penale, për të cilat nuk zbatohet mbrojtja e detyrueshme, sipas përcaktimeve të legjislacionit procedural penal.
+ç) “Këshillim” është dhënia e informacionit mbi mënyrat dhe mundësitë e zgjidhjes së një çështjeje konkrete juridike.
+d) “Qendër shërbimi e ndihmës juridike parësore” është një njësi e specializuar për dhënien e ndihmës juridike parësore, e organizuar si “njësi e drejtpërdrejtë e ofrimit të shërbimeve”, sipas legjislacionit në fuqi për organizimin dhe funksionimin e administratës shtetërore.
+dh) “Punonjës me trajnim të posaçëm” është punonjësi, i diplomuar nga një program i ciklit të dytë të studimeve në drejtësi, sipas legjislacionit në fuqi për arsimin e lartë dhe që i është nënshtruar një trajnimi të posaçëm, i cili ofron ndihmë juridike parësore në qendrat e shërbimit të ndihmës juridike parësore.
+e) “Trajnim i posaçëm” është programi i trajnimit fillestar dhe të vazhdueshëm, i miratuar nga Drejtoria e Ndihmës Juridike Falas, për punonjësit që ofrojnë ndihmë juridike parësore në qendrat e shërbimit të ndihmës juridike parësore.
+ë) “Klinikë ligjore” është njësi përbërëse e një institucioni të arsimit të lartë, e organizuar dhe që funksionon sipas parashikimeve të legjislacionit në fuqi për arsimin e lartë dhe që ofron ndihmë juridike parësore pa qëllim fitimi, sipas përcakti-meve në statutin e institucionit të arsimit të lartë.
+f) “Të ardhura”, në kuptim të këtij ligji, janë të ardhurat mujore që sigurohen nga pagat, veprimtaria ekonomike, interesat e depozitave bankare, të ardhurat nga pasuri të luajtshme dhe të paluajtshme. Në këto të ardhura nuk përfshihet ndihma ekonomike, pensioni social, pagesat e papunësisë, përfitimet e invalidëve, sipas statusit të invalidit të punës ose të luftës, pagesat që marrin pjesëtarët e familjes që kujdesen për personin me aftësi të kufizuara, rimbursimi i shpenzimeve për energji, rimbursimet për ilaçe e mjekime për të sëmurët kronikë dhe paketa higjieno-shëndetësore për personat me aftësi të kufizuara.
+g) “Familje”, në kuptim të këtij ligji, është një grup individësh, që lidhen në marrëdhënie bashkë-shortore ose bashkëjetese, si dhe marrëdhëniet prindër-fëmijë, marrëdhëniet ndërmjet anëtarëve të familjes dhe ato të kujdestarisë, që jetojnë në të njëjtën strehë dhe që kontribuojnë bashkërisht, financiarisht ose në mënyra të tjera për përballimin e kostos së jetesës.
+gj) “Pasuri”, në kuptim të këtij ligji, është pasuria e çdo lloji, e luajtshme ose e paluajtshme, si dhe të drejtat reale pasurore. Pasuria e paluajtshme e përdorur nga pronari ose bashkëpronari si banesë e tij parësore për jetesën familjare dhe sendet e përjashtuara nga sekuestrimi, sipas parashikimeve të Kodit të Procedurës Civile, nuk konsiderohen pasuri, sipas kuptimit të këtij ligji.
+h) “Përjashtim nga tarifat dhe shpenzimet gjyqësore” është një formë e ndihmës juridike falas për përjashtimin nga pagesa e tarifave gjyqësore dhe shpenzimeve gjyqësore, me vendim të gjykatës kompetente, nëse plotësohen kriteret e vendosura nga ky ligj.
+i) “Tarifa gjyqësore” është tarifa, sipas kuptimit të dhënë nga legjislacioni në fuqi për tarifat gjyqësore në Republikën e Shqipërisë.
+j) “Shpenzimet gjyqësore” janë shpenzimet e kryera në kuadër të procesit gjyqësor, të nevojshme për gjykimin, sipas kuptimit të dhënë në legjislacionin procedural, përveç tarifës gjyqësore.
+k) “Tarifa për vënien në ekzekutim të urdhrit të ekzekutimit” është tarifa që i parapaguhet shërbimit përmbarimor gjyqësor shtetëror, për vënien në ekzekutim të një titulli ekzekutiv, sipas parashikimeve të legjislacionit në fuqi.

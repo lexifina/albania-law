@@ -1,0 +1,7 @@
+# Neni 12
+Përfituesit e ndihmës juridike me të ardhura dhe pasuri të pamjaftueshme
+1. Të drejtën për të përfituar ndihmë juridike e ka çdokush që provon se ka të ardhura dhe pasuri të pamjaftueshme për të përballuar shpenzimet për këshillim, përfaqësim dhe/ose mbrojtje në çështjet penale, në çështjet administrative dhe në çështjet civile.
+2. Të ardhurat e një personi, i cili jeton në një familje, konsiderohen të pamjaftueshme, sipas kuptimit të pikës 1, të këtij neni, nëse të ardhurat në total të të gjithë pjesëtarëve të familjes, të pjesëtuara për numrin e anëtarëve të familjes, janë më të ulëta se 50 për qind e pagës minimale mujore të përcaktuar sipas legjislacionit në fuqi.
+3. Të ardhurat e një personi, i cili nuk jeton në një familje, konsiderohen të pamjaftueshme, sipas kuptimit të pikës 1, të këtij neni, nëse janë më të ulëta se niveli i pagës minimale mujore të përcaktuar sipas legjislacionit në fuqi.
+4. Nëse një person, i cili jeton në një familje, kërkon ndihmë juridike dytësore për një çështje kundër një anëtari tjetër të së njëjtës familje, rregulli i parashikuar në pikën 2, të këtij neni, nuk do të zbatohet. Në këtë rast, të ardhurat e këtij personi konsiderohen të pamjaftueshme, sipas pikës 1, të këtij neni, nëse janë më të ulëta se niveli i pagës minimale të përcaktuar sipas legjislacionit në fuqi.
+5. Pasuria e një personi konsiderohet e pamjaftueshme, sipas pikës 1, të këtij neni, nëse vlera e saj në total nuk tejkalon vlerën e 36 pagave minimale mujore sipas legjislacionit në fuqi.

@@ -1,0 +1,4 @@
+# Neni 30
+Detyrimet e palës gjyqhumbëse në çështjet civile ose administrative
+1. Kur pala që është përjashtuar nga pagimi i tarifave gjyqësore dhe shpenzimeve gjyqësore, sipas parashikimeve të këtij ligji, fiton me vendim gjyqësor të formës së prerë çështjen, për të cilën është dhënë ndihma juridike dytësore dhe/ose përjashtimi nga tarifat gjyqësore dhe shpenzimet gjyqësore, pala tjetër gjyqhumbëse, së cilës i ngarkohen pagimi i tarifave gjyqësore dhe shpenzimeve gjyqësore, sipas vendimit gjyqësor, detyrohet të kalojë këtë shumë menjëherë për llogari të Drejtorisë së Ndihmës Juridike Falas.
+2. Në rast se vendimi nuk ekzekutohet vullnetarisht, me kërkesë të Drejtorisë së Ndihmës Juridike Falas, shërbimi përmbarimor gjyqësor fillon procedurat e ekzekutimit të detyrueshëm, sipas legjislacionit në fuqi.

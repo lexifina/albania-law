@@ -1,0 +1,6 @@
+# Neni 19
+Kërkesa për ndihmë juridike dytësore
+1. Kërkesa për dhënien e ndihmës juridike dytësore paraqitet nga personi i interesuar personalisht ose me anë të shërbimit postar pranë gjykatës ose organit procedues që fillon hetimet, përpara fillimit të një procesi gjyqësor, në fillim të një procesi gjyqësor dhe/ose në çdo fazë të procesit gjyqësor, derisa nuk është deklaruar i mbyllur hetimi gjyqësor, sipas rregullave të parashikuara në legjislacionin procedural.
+2. Personi që gëzon të drejtën për ndihmë juridike dytësore, mund ta paraqesë kërkesën e parashikuar në pikën 1, të këtij neni, nëpërmjet një përfaqësuesi ligjor apo të pajisur me prokurë, ose nëpërmjet bashkëshortit/es, bashkëjetuesit/es ose një të afërmi të shkallës së parë.
+3. Kërkesa për ndihmë juridike dytësore përjashtohet nga tarifat dhe shpenzimet gjyqësore.
+4. Personi, i cili kërkon të përfitojë ndihmë juridike dytësore, nënshkruan një vetëdeklarim se përmbush kriteret e përfitimit, të përcaktuara në këtë ligj, sipas formularit të vetëdeklarimit të miratuar nga Ministri i Drejtësisë, të shoqëruar me dokumentacionin justifikues. Lista e dokumenteve që shërbejnë për vërtetimin e përmbushjes së kritereve përcaktohet me urdhër të Ministrit të Drejtësisë.

@@ -1,0 +1,7 @@
+# Neni 31
+Rastet e kthimit të përfitimeve
+1. Në rast se një person, të cilit i është pranuar kërkesa për ndihmë juridike dytësore dhe/ose përjashtimin nga tarifat gjyqësore dhe shpenzimet gjyqësore, i kanë ndryshuar rrethanat në një mënyrë të tillë që nuk plotëson kriteret ligjore për të qenë subjekt përfitues i ndihmës juridike dytësore, Drejtoria e Ndihmës Juridike Falas i njofton përfituesit të ndihmës juridike detyrimin për kthimin vullnetar të shpenzimeve të kryera, shumën konkrete dhe afatin për përmbushjen e këtij detyrimi. Procedura, periodiciteti dhe rregullat e verifikimit të ndryshimit të rrethanave përcaktohen me udhëzim të Ministrit të Drejtësisë.
+2. Në rast të mosekzekutimit vullnetar të detyrimit për kthimin e shpenzimeve brenda afatit të caktuar, Drejtoria e Ndihmës Juridike Falas paraqet kërkesëpadi në gjykatë, duke kërkuar kthimin e shumës në përputhje me legjislacionin në fuqi.
+3. Parashikimet e pikave 1 dhe 2, të këtij neni, do të zbatohen dhe në rastin kur personi, të cilit i është pranuar kërkesa për ndihmë juridike dytësore dhe/ose përjashtimi nga tarifat gjyqësore dhe shpenzimet gjyqësore ose avokati i caktuar:
+a) nuk e ka paraqitur kërkesëpadinë në gjykatë, pas kalimit të një afati tremujor nga data kur vendimi i gjykatës për pranimin e kërkesës për ndihmë juridike dytësore ka marrë formë të prerë;
+b) ka hequr dorë nga gjykimi i padisë, nga e drejta e padisë, nga ankimi dhe rekursi apo nga ekzekutimi i urdhrit të ekzekutimit.
