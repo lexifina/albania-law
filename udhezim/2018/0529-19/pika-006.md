@@ -1,0 +1,1 @@
+6. Pas zhvillimit të çdo provimi, testet dërgohen nga shërbimi postar në masa sigurie në godinën e shkollës 9-vjeçare “Sabaudin Gabrani”, Tiranë. QSHA-ja kryen inventarizimin dhe shpërndarjen e tyre në qendrat e vlerësimit.

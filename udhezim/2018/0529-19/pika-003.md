@@ -1,0 +1,1 @@
+3. Të drejtën e përzgjedhjes së rastësishme të testit përfundimtar për çdo lëndë e kanë përzgjedhësit e testit përfundimtar (PTP) të ngarkuar me urdhër të ministrit të Arsimit, Sportit dhe Rinisë dhe specialisti përkatës i përcaktuar në urdhrin e drejtorit të QSHA-së. Përzgjedhja bëhet me procesverbal.

@@ -1,0 +1,1 @@
+1. Për provimet e Maturës Shtetërore ndiqen procedurat e përcaktuara në urdhrin nr. 672, datë 29.12.2017, të ministrit të Arsimit dhe Sportit, “Për miratimin e rregullores për zhvillimin e Maturës Shtetërore 2018 në Republikën e Shqipërisë”.
