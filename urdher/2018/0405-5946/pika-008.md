@@ -1,0 +1,1 @@
+8. Tarifat e përcaktuara në këtë urdhër janë për kohën kur shërbimet kryhen nga ora 07:00 deri në orën 17:00. Kur shërbimet kryhen nga ora 17:00 deri në orën 07:00, ditëve të diela dhe festave zyrtare, aplikohet një shtesë prej 50% mbi tarifën bazë.

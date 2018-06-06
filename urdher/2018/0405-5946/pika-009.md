@@ -1,0 +1,1 @@
+9. Anijet që transportojnë lëndë të rrezikshme e karburante me gjatësi mbi 130 ml dhe anijet e mallrave me gjatësi mbi 140 ml e kanë të detyrueshëm shërbimin e dy rimorkiatorëve gjatë hyrjeve dhe daljeve në porte pavarësisht nëse disponojnë pajisje ndihmëse (bow thruster).
