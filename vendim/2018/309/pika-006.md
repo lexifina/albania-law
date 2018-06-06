@@ -1,0 +1,1 @@
+6. Pas hyrjes në fuqi të marrëveshjes dhe me hartimin e akteve të tjera për krijimin e shoqërisë së përbashkët “AIR Albania”, autorizohet “Albcontrol” sh.a. të përfaqësojë pronarin shtet në procedurat ligjore të krijimit dhe regjistrimit si subjekt tregtar të “AIR Albania”, në formën e një shoqërie me përgjegjësi të kufizuar.

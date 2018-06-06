@@ -1,0 +1,1 @@
+1. Ky vendim përcakton procedurat për krijimin e shoqërisë së përbashkët me përgjegjësi të kufizuar “AIR Albania”, e cila do të operojë në fushën e transportit ajror në përputhje me dispozitat e Kodit Ajror.

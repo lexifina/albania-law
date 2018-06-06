@@ -1,0 +1,1 @@
+2. Shoqëria me përgjegjësi të kufizuar “AIR Albania” do të krijohet ndërmjet ortakëve, “Albcontrol” sh.a., që përfaqëson palën shtetërore shqiptare dhe subjekteve të interesuara Turkish Airline e “MDN Investiment” sh.p.k.
