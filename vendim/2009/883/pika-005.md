@@ -1,0 +1,1 @@
+5. Tarifat për aplikimet dhe veprimet e tjera të kryera pranë DPPI, lidhur me markat tregtare dhe të shërbimit, janë sipas lidhjes nr.5, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

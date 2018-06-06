@@ -1,0 +1,1 @@
+6. Tarifat për aplikimet dhe veprimet e tjera të kryera pranë DPPI, lidhur me treguesit gjeografikë dhe emërtimeve të origjinës, janë sipas lidhjes nr.6, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

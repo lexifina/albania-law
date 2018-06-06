@@ -1,0 +1,1 @@
+2. Tarifat për aplikimet dhe veprimet e tjera të kryera pranë DPPI, lidhur me certifikatat e mbrojtjes shtesë për produktet mjekësore dhe produktet për mbrojtjen e bimëve, janë sipas lidhjes nr.2, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
