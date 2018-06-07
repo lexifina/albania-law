@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria “tokë bujqësore” në “tokë urbane”, truall, të pasurive me numër 22/20 dhe 22/21, zona kadastrale 3339, Bashkia Durrës, sipas certifikatave të pasurive dhe hartave treguese, bashkëlidhur këtij vendimi.

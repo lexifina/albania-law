@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Durrës, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e statusit, nga kategoria “tokë bujqësore” në “tokë urbane”, truall, të pasurive me numër 22/20 dhe 22/21, zona kadastrale 3339, Bashkia Durrës.
