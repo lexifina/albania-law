@@ -1,0 +1,1 @@
+2. Ministria e Infrastrukturës dhe Energjisë, në rolin e autoritetit kontraktues, dhe njësitë e qeverisjes vendore të qarkut Tiranë/Bashkia Tiranë, për përdorimin e financimit në përmbushje të detyrimeve kontraktore, sipas pikës 1 të këtij vendimi, të bashkërendojnë për kryerjen e pagesave ndaj koncesionarit, sipas skeduleve të pagesave që rrjedhin nga kontrata koncesionare.

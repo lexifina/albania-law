@@ -1,0 +1,8 @@
+VENDIM
+Nr. 320, datë 31.5.2018
+PËR PËRDORIMIN E FONDEVE BUXHETORE TË VITIT 2018 PËR FINANCIMIN E ORGANEVE TË QEVERISJES VENDORE PËR PËRMBUSHJEN E DETYRIMEVE
+QË RRJEDHIN NGA KONTRATA KONCESIONARE NR. 6021 REP.,
+NR. 2894 KOL., DATË 31.8.2017, “PËR NDËRTIM LANDFILL-i, INCENERATORI DHE REHABILITIM
+I VENDDEPOZITIMEVE EKZISTUESE NË TIRANË DHE PRODHIMIN E ENERGJISË ELEKTRIKE, ZONA E TRAJTIMIT TË MBETJEVE TIRANË (ZTMT)”
+Në mbështetje të nenit 100 të Kushtetutës, të ligjit nr. 107/2017, “Për buxhetin e vitit 2018”, dhe të ligjit nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar, me propozimin e ministrit të Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:
