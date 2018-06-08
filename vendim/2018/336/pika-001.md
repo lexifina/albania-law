@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të hollësishme për prodhimin, kalimin, rregullat përjashtuese të prodhimit dhe kontrollin e prodhimit biologjik bimor dhe të algave të detit, sipas tekstit që i bashkëlidhet këtij vendimi.
