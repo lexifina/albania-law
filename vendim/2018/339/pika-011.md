@@ -1,0 +1,1 @@
+11. Përjashtimisht, për raste të veçanta, propozimi për çmimin “Ambasador i Kombit” mund të bëhet drejtpërdrejt nga ministri përgjegjës për diasporën, në përputhje me këtë vendim dhe, në këtë rast, nuk do të zbatohet parashikimi i pikës 3.

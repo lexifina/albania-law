@@ -1,0 +1,1 @@
+3. Ambasadorët e Republikës së Shqipërisë, të akredituar jashtë vendit, nëpërmjet ministrit përgjegjës për punët e jashtme, i propozojnë ministrit përgjegjës për diasporën përfaqësuesit më të suksesshëm të komuniteteve shqiptare jashtë vendit për dhënien e çmimit “Ambasador i Kombit”.
