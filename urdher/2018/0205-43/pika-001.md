@@ -1,0 +1,1 @@
+1. Zëniet e kryera me rrjeta dhe grepa në Liqenin e Shkodrës të zbarkohen dhe tregtohen fillimisht në qendrat e grumbullimit dhe ankandit të OMP Shkodër, të ndodhura në Shirokë e Zogaj, të regjistruara pranë autoriteteve kompetente veterinare, sipas ekstraktit të QKL, nr. Ln-2928-02-2011.

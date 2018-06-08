@@ -1,0 +1,1 @@
+2. OMP Shkodër, e cila ka në administrim qendrat Shirokë dhe Zogaj, të përgatisë dokumentacionin e shitjes së parë, sipas kërkesave të kreut VII, “Peshimi i prodhimeve të peshkimit”, të vendimit të Këshillit të Ministrave nr. 407, datë 8.5.2013, “Për përcaktimin e një regjimi kontrolli për të garantuar respektimin e rregullave të politikave menaxhuese në peshkim”.
