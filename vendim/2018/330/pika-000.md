@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë (marrësi), përfaqësuar nga Ministria e Financave dhe Ekonomisë, dhe KfW Frankfurt am Main (KfW), për financimin e projektit “Fondi për arsimin e formimin profesional (AFP) dhe punësimin, Qendra Shumëfunksionale në Kamzë”, me një grant në shumën prej 4 500 000 (katër milionë e pesëqind mijë) eurosh, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletore Zyrtare.
