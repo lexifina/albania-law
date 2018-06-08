@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë me përparësi zhvillimi” të territorit të “Bazës së tubove”, me sipërfaqe 49 347 (dyzet e nëntë mijë e treqind e dyzet e shtatë) m², pjesë e zonës kadastrale nr. 3934, në Zhupan, Fier, në përbërje të së cilës janë parcelat me numra pasurie sipas listës në shtojcën nr. 1, që i bashkëlidhet këtij vendimi.
