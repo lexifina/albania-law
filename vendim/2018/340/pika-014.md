@@ -1,0 +1,1 @@
+14. Ministri përgjegjës për diasporën, jo më vonë se 30 ditë pune para mbledhjes së ardhshme të Këshillit Koordinues të Diasporës, i propozon Këshillit të Ministrave kandidatët e rinj, për të zëvendësuar anëtarin e liruar apo të shkarkuar. Mandati i zëvendësuesit llogaritet i plotë, nga dita e emërimit të tij.

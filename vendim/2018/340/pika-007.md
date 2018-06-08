@@ -1,0 +1,1 @@
+7. Për raste të veçanta ose në mungesë të kandidaturave të propozuara, propozimi për zgjedhjen e anëtarëve të Këshillit Koordinues të Diasporës (jo më shumë se 3 propozime) mund të bëhet drejtpërdrejt nga ministri përgjegjës për diasporën.

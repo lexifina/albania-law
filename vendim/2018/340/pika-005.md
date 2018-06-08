@@ -1,0 +1,1 @@
+5. Ambasadorët e jashtëzakonshëm dhe fuqiplotë të Republikës së Shqipërisë, të akredituar jashtë vendit, nëpërmjet ministrit përgjegjës për punët e jashtme, i propozojnë ministrit përgjegjës për diasporën kandidatët për Këshillin Koordinues të Diasporës.
