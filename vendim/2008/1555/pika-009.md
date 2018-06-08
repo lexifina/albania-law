@@ -1,1 +1,0 @@
-9. Sekretaria (Zyra) e regjistrimit të PMB-ve merr në dorëzim dosjen e regjistrimit dhe pasi e shqyrton atë, sipas kërkesave të pikës 8 të këtij kreu, e pranon për ta futur në procedurë regjistrimi. Nëse nuk e pranon, brenda 30 ditëve, vë në dijeni, me shkrim, aplikantin, ku paraqet edhe arsyet e mospranimit ose kërkesat për të dhënat shtesë.
