@@ -1,0 +1,1 @@
+4. Emrat e anëtarëve të komisionit, sipas shkronjave “c” e “ç”, të pikës 3 të këtij kreu, propozohen nga institucionet përkatëse. Komisioni ngrihet me urdhër të ministrit. Anëtarët e komisionit nuk duhet të kenë konflikt interesi në fushën e PMB-ve. Ata, paraprakisht, duhet të deklarojnë marrëdhëniet, nëse kanë, me subjektet e tregtimit të PMB-ve.

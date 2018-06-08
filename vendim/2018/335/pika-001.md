@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është përcaktimi i rregullave për regjistrimin, procedurës dhe kritereve të vlerësimit të produkteve për mbrojtjen e bimëve (PMB), që do të importohen, do të vendosen në treg dhe do të përdoren në territorin e Republikës së Shqipërisë.
