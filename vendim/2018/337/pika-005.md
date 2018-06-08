@@ -1,0 +1,1 @@
+5. Efektet financiare do të fillojnë në momentin e nënshkrimit të kontratës së përkohshme, ndërmjet Drejtorit të Përgjithshëm të Agjencisë Kombëtare të Zonave të Mbrojtura, në cilësinë e punëdhënësit, dhe punëmarrësit.

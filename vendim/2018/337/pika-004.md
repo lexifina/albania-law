@@ -1,0 +1,1 @@
+4. Fondi i pagave për numrin e punonjësve të përcaktuar në pikën 1, të këtij vendimi, përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2018, në shumën 35 010 000 (tridhjetë e pesë milionë e dhjetë mijë) lekë, i cili i akordohet programit buxhetor “Zhvillimi i turizmit”, me kod 04760.
