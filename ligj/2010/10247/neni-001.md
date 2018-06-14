@@ -1,0 +1,3 @@
+# Neni 1
+Objekti
+Ky ligj ka objekt përcaktimin e niveleve të KSHK-së, të tipave të kualifikimit, të objektivave, të funksioneve dhe të fushave, ku e shtrin juridiksionin e vet KSHK-ja, të strukturave përgjegjëse për drejtimin dhe zbatimin e KSHK-së, sipas përcaktimeve në këtë ligj, në bashkëpunim me ministritë përkatëse, institucionet e ndryshme të pushtetit qendror apo vendor, partnerët socialë dhe organizatat jofitimprurëse, që veprojnë për zhvillimin, ofrimin dhe përdorimin e kualifikimeve, si dhe në lidhjen e KSHK-së me Kornizën Evropiane të Kualifikimeve dhe me Kornizën e Kualifikimeve të Zonës Evropiane të Arsimit të Lartë.
