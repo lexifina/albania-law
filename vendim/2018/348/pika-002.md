@@ -1,0 +1,1 @@
+2. Indeksimin, sipas përcaktimeve të pikës 1, të këtij vendimi, e përfitojnë edhe pensionet që do të caktohen nga data 1.7.2018 e në vazhdim, me kusht që data e fillimit të pensionit të jetë deri më 30.6.2018, përfshirë edhe këtë datë.

@@ -1,0 +1,1 @@
+9. Shuma bazë e pensionit, e përcaktuar sipas pikës 2, të nenit 32, të ligjit nr. 7703, datë 11.5.1993, “Për sigurimet shoqërore në Republikën e Shqipërisë”, të ndryshuar, duke filluar nga data 1.7.2018 e në vazhdim të jetë 7 262 (shtatë mijë e dyqind e gjashtëdhjetë e dy) lekë.

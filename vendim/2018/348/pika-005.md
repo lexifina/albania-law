@@ -1,0 +1,1 @@
+5. Pensionet e parakohshme, të caktuara sipas ligjit nr. 10142, datë 15.5.2009, të ndryshuar, me datë fillimi nga 1.7.2018 e në vazhdim, nuk do të jenë më pak se 13 378 (trembëdhjetë mijë e treqind e shtatëdhjetë e tetë) lekë në muaj.
