@@ -1,0 +1,1 @@
+1. Miratimin e kontratës me ndarje prodhimi për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në tokë, në Shqipëri, blloku 4, ndërmjet Ministrisë së Infrastrukturës dhe Energjisë, përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore (AKBN) dhe Shell Upstream Albania B.V., sipas tekstit që i bashkëlidhet këtij vendimi.
