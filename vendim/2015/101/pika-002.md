@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i miratuar i Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, për programin e shërbimit të kujdesit shëndetësor parësor.
