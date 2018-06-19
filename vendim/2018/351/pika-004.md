@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 7 760 025 (shtatë milionë e shtatëqind e gjashtëdhjetë mijë e njëzet e pesë) lekësh, do të përballohet nga Agjencia Kombëtare e Ujësjellës-Kanalizimeve, zëri “Kodi i Projektit, M063149”, parashikuar në buxhetin e vitit 2018.
