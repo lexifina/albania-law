@@ -1,0 +1,1 @@
+2. Misioni i personelit, që do të marrë pjesë në shtabet e sipërpërmendura, është mbështetja dhe dhënia e kontributit në funksione të ndryshme në shtabet e trajnimit, këshillimit dhe dhënies së ndihmës, në operacionin e NATO-s “RSM”, Afganistan.
