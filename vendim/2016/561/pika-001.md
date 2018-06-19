@@ -1,0 +1,2 @@
+1. Njësitë e qeverisjes së përgjithshme sigurojnë që shërbimi i furnizimit me karburant për mjetet efektive të transportit të kryhet vetëm nëpërmjet kartës elektronike me të cilën mundësohen identifikimi i mjetit dhe përdoruesi i saj.
+1/1 Bëjnë përjashtim nga pika 1, e këtij vendimi, strukturat e veçanta të Policisë së Shtetit, të cilat, për shkak të natyrës së punës, mund të përdorin kartë elektronike që nuk mundëson identifikimin e mjetit të transportit dhe të përdoruesit të saj, sipas rregullave dhe procedurave të përcaktuara me udhëzim të ministrit të Brendshëm.
