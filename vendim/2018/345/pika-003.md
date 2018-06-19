@@ -1,0 +1,1 @@
+3. Numri i punonjësve të sistemit të Ministrisë së Turizmit dhe Mjedisit, për vitin 2018, shtohet me 45 punonjës për Inspektoratin Shtetëror të Mjedisit, Pyjeve dhe Ujërave, duke e çuar numrin e përgjithshëm të ministrisë në 1080 veta.

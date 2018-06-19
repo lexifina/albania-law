@@ -1,0 +1,1 @@
+1. Numri i punonjësve të sistemit të Ministrisë së Bujqësisë dhe Zhvillimit Rural (MBZHR), për vitin 2018, pakësohet me 50 veta, përkatësisht, 5 punonjës të aparatit të ministrisë dhe 45 punonjës të Inspektoratit Shtetëror të Mjedisit, Pyjeve dhe Ujërave, duke e çuar numrin e përgjithshëm të këtij institucioni në 1 947 veta.
