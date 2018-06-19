@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të funksionimit të grupi teknik, ndërsektorial për mbrojtjen e fëmijëve, pranë bashkive apo njësive administrative, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

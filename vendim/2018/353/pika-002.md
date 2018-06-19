@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Ministria e Brendshme, Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Drejtësisë, Ministria e Financave dhe Ekonomisë, Ministria e Kulturës, Ministria e Turizmit dhe Mjedisit, Ministria për Evropën dhe Punët e Jashtme dhe ministri i Shtetit për Diasporën për zbatimin e këtij vendimi
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
