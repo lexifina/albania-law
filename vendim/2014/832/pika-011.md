@@ -1,0 +1,1 @@
+11. Vetëm kur blerësi plotëson kushtet e autorizimit, sipas pikës 9, të shkronjës “A”, të kreut II, drejtori i strukturës përgjegjëse për shitjen e pronës, në Ministrinë e Financave dhe Ekonomisë, lidh me palën blerëse kontratën e shitjes së aksioneve, brenda 30 (tridhjetë) ditëve nga dita e pagesës së vlerës së plotë të paketës së aksioneve, të publikuara për shitje.

@@ -1,0 +1,1 @@
+7. Në qoftë se procedurat e llogaritjes së aksioneve të punonjësve të shoqërisë dhe të ish-pronarëve të truallit nuk realizohen, atëherë ministri përgjegjës për ekonominë nxjerr urdhrin për privatizimin e paketës së aksioneve të shoqërisë, pa u mohuar atyre të drejtën për aksione me një publikim të dytë.

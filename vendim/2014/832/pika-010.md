@@ -1,0 +1,1 @@
+10. Fituesit të ankandit, që nuk kryen pagesën e plotë brenda afatit të përcaktuar në pikën 9, të këtij kreu, si dhe në rastet kur ai tërhiqet brenda këtij afati, i mbahet vlera fillestare e paguar paraprakisht për pjesëmarrje në ankand, si e ardhur në buxhet. Në vazhdim, procedura rifillon sipas përcaktimit të pikës 1, të kreut II, të këtij vendimi.

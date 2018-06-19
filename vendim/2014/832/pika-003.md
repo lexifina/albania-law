@@ -1,0 +1,1 @@
+3. Struktura përgjegjëse për shitjen e pronës, në Ministrinë e Financave dhe Ekonomisë, brenda 10 (dhjetë) ditëve nga data e mbërritjes së dokumentacionit, shqyrton rregullsinë e tij. Kur në dokumentacionin e dërguar vërehen parregullsi të kërkesave të pikës 2, të këtij vendimi, drejtoria e sipërpërmendur e kthen atë në Ministrinë e Financave dhe Ekonomisë për plotësim.
