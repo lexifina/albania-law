@@ -1,0 +1,1 @@
+2. Nxënësit e pakicave kombëtare zhvillojnë edhe provimin kombëtar të arsimit bazë, sesioni i dytë, në lëndën Gjuhë amtare. Provimi kombëtar i arsimit bazë, sesioni i dytë, në lëndën Gjuhë amtare, do të zhvillohet më 22 gusht 2018.

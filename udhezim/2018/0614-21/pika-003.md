@@ -1,0 +1,1 @@
+3. Për provimet kombëtare të arsimit bazë 2018, sesioni i dytë, të ndiqen procedurat e përcaktuara në urdhrin nr. 88, datë 23.2.2018, “Për miratimin e rregullores për “Procedurat e organizimit dhe zhvillimit të provimeve kombëtare të arsimit bazë, viti shkollor 2017-2018””.
