@@ -1,0 +1,1 @@
+5. Aplikimi për leje/licenca/autorizime për realizimin e investimit strategjik “Ngritja e plantacionit me shegë, goji berry, avokado dhe finger lime në zonën e Karavastasë, Bashkia Divjakë” realizohet sipas legjislacionit të investimeve strategjike.
