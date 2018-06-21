@@ -1,0 +1,1 @@
+2. Kjo zonë përfshin territore urbane, troje të përziera me tokë bujqësore e pyjore, shkurre dhe sipërfaqe ujore. Mbulesa e tokës brenda sipërfaqes së parkut natyror “Zagori” paraqitet në tabelën nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

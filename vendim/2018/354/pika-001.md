@@ -1,0 +1,1 @@
+1. Shpalljen e ekosistemit natyror malor të zonës së Zagorisë “Park natyror i Zagorisë”, me një sipërfaqe prej 24 590,320 (njëzet e katër mijë e pesëqind e nëntëdhjetë presje treqind e njëzet) ha, sipas hartës dhe kufijve të paraqitur në tabelën e koordinatave, përkatësisht në shtojcat 1 e 2, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
