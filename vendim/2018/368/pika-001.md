@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi në zonën urbane pranë qendrës së qytetit Vlorë”, “Hartimi i projektit urban, restaurimi i monumenteve të kulturës në këtë zonë dhe rikonstruksioni i objekteve të tjera, Vlorë”.

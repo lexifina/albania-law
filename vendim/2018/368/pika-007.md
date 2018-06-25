@@ -1,0 +1,1 @@
+7. Pronarët e pasurive të paluajtshme, që shpronësohen, sipas listave në tabelat 1 e 2, që i bashkëlidhen këtij vendimi, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin për vërtetimin e pronësisë pranë Bashkisë Vlorë.

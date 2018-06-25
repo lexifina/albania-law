@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “truall” dhe “ndërtesë”, prej 152 930 608 (njëqind e pesëdhjetë e dy milionë e nëntëqind e tridhjetë mijë e gjashtëqind e tetë) lekësh, të përballohet në masën 50% nga Bashkia Vlorë dhe 50% nga llogaria e shpronësimeve në Bankën e Shqipërisë.
