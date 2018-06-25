@@ -1,0 +1,1 @@
+1. Shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit të përhershëm të kalimit, për interes publik, mbi disa pasuri të paluajtshme, pronë private, që preken nga projekti “Ndërtimi i linjës së tensionit dhe faciliteteve të tjera, pjesë e projektit të gazsjellësit Trans Adriatik Pipeline (projekti TAP) AG”, në zonat Fier, Korçë, Devoll, Berat dhe Skrapar.

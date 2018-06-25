@@ -1,0 +1,1 @@
+7. Përdoruesit e tokës, të cilët kompensohen për kulturat “bujqësore” dhe “drufrutorë”, referuar shumave përkatëse të pasqyruara në tabelat që i bashkëlidhen këtij vendimi, duhet të paraqesin, për likuidim, kërkesën, kopjen e kartës së identitetit, vërtetimin për numrin e llogarisë së lëshuar nga banka përkatëse/IBAN-in, si dhe certifikatën familjare, në zyrat e shoqërisë TAP AG.

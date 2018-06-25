@@ -1,0 +1,1 @@
+4. Marrja në përdorim të përkohshëm për pasuritë e paluajtshme, pronë private, të jetë me afat 1 (një) vit, për zonat e nevojshme për realizimin e punimeve, për të shtirë linjën e tensionit, sipas tabelave A dhe B, që i bashkëlidhen këtij vendimi.
