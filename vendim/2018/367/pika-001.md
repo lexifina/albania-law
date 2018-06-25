@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 6% (gjashtë për qind) të pikëve, që i jepet shoqërisë “Gjikuria” sh.p.k. për rezultatin teknik dhe financiar të propozimit të pakërkuar, të paraqitur për procedurën për dhënien me koncesion/ partneritet publik privat për projektin e rrugës “Porti i jahteve - bay-pass Orikum - Dukat (Ura e Shën Elizës)”.
