@@ -1,0 +1,1 @@
+3. Komisioni, nëpërmjet Ministrit të Kulturës, propozon për miratim projektaktet përkatëse, në Këshillin e Ministrave, për kthimin në atdhe të eshtrave dhe organizimin e ceremonisë zyrtare për personalitetet dhe figurat e shquara kombëtare, për çdo rast.
