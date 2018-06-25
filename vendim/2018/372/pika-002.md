@@ -1,0 +1,1 @@
+2. Në listën e inventarit, që i bashkëlidhet vendimit nr. 760, datë 20.12.2017, të Këshillit të Ministrave, “Për kalimin në pronësi të Bashkisë Tiranë, të njësisë administrative Tiranë, të disa pronave me vendndodhje në zonat kadastrale 8250, 8240, 8190, 8150”, sipërfaqja e pasurisë përmendur, në pikën 1 të këtij vendimi, bëhet 1409 m2.
