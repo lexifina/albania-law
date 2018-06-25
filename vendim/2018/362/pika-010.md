@@ -1,0 +1,1 @@
+10. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Shkodër të pezullojë të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit në hartën kadastrale të regjistrimit dhe kalimi i pronësisë në favor të shtetit për pasuritë e shpronësuara.
