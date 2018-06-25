@@ -1,0 +1,1 @@
+1. Dhënien me koncesion/PPP të shërbimit të kontrollit ligjor të instrumenteve matëse, nëpërmjet verifikimit të instrumenteve shpërndarëse të karburantit dhe të gazit të lëngshëm, nga Ministria e Financave dhe Ekonomisë, në cilësinë e autoritetit kontraktues.
