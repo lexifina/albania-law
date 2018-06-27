@@ -2,13 +2,15 @@ VENDIM
 
 Nr. 440, datë 17.5.2017
 
-PËR PËRCAKTIMIN E STANDARDEVE, TË KRITEREVE DHE PROCEDURAVE TË AKREDITIMIT TË OFRUESVE TË AKTIVITETEVE TË EDUKIMIT NË VAZHDIM PËR PROFESIONISTËT
+PËR PËRCAKTIMIN E STANDARDEVE, TË KRITEREVE DHE PROCEDURAVE TË AKREDITIMIT TË OFRUESVE TË AKTIVITETEVE TË EDUKIMIT NË VAZHDIM PËR PROFESIONISTËTE SHËNDETËSISË
 
-E SHËNDETËSISË
+	           (Ndryshuar me VKM nr. 394, datë 27.6.2018)
+
+	                                                                                                       (I përditësuar)
 
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 4, të nenit 33/1, të ligjit nr. 10107, datë
 
-30.3.2009, “Për kujdesin shëndetësor në Republikën e Shqipërisë”, të ndryshuar, me propozimin e ministrit të Shëndetësisë, Këshilli i Ministrave
+30. 3. 2009, “Për kujdesin shëndetësor në Republikën e Shqipërisë”, të ndryshuar, me propozimin e ministrit të Shëndetësisë, Këshilli i Ministrave,
 
 I. DISPOZITA TË PËRGJITHSHME
 
@@ -31,6 +33,8 @@ b) Monitoron në vazhdimësi ofruesin e akredituar dhe aktivitetet e edukimit n�
 c) Në rastet kur vihen re shkelje të kritereve, në varësi të formës dhe rëndësisë së tyre, merr masën e pezullimit të përkohshëm ose të anulimit të akreditimit të ofruesit të akredituar;
 
 ç) Publikon listën e ofruesve të akredituar dhe statusin e përditësuar të tyre.
+
+d) Të publikojë periodikisht informacionet e lidhura me aktivitetet e ofruesve të akredituar nga QKEV-ja. Këto informacione t’u jepen profesionistëve të shëndetësisë dhe strukturave e institucioneve shëndetësore, për të ndikuar në pjesëmarrjen sa më të gjerë të të interesuarve.
 
 6. Bordi i Edukimit të Vazhdueshëm shqyrton ankesat e paraqitura nga ofruesit, në lidhje me akreditimin dhe vendos nëse ato merren parasysh ose jo.
 
@@ -102,7 +106,7 @@ c) me ndriçim të plotë dhe të garantuar edhe për raste emergjente;
 
 ç) të pajisura me aparaturat/mjetet e nevojshme për realizimin e aktivitetit.
 
-4. Ofruesi duhet të provojë një historik të organizimeve korrekte, në përputhje me kriteret dhe standardet e edukimit në vazhdim, siç përcaktohen në vendimin nr. 788, datë 22.9.2015, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të standardeve dhe procedurave për akreditimin e aktiviteteve të edukimit në vazhdim për profesionistët e shëndetësisë.
+4. Ofruesi duhet të ketë një përvojë të provueshme nga QKEV-ja ose nga institucione të tjera akredituese në një vend tjetër të BE-së ose OECD-së prej të paktën 1 (një) viti në fushën e edukimit në vazhdim në Shqipëri dhe me jo më pak se 50 aktivitete të akredituara në fushën e edukimit në vazhdim për profesionistët e shëndetësisë.
 
 5. Ofruesi duhet të provojë besueshmëri ekonomike, financiare, nëpërmjet bilancit të vitit të fundit.
 
@@ -146,7 +150,7 @@ periudhë prej 5 vjetësh.
 
 VI. PROCESI I MONITORIMIT TË OFRUESIT TË AKREDITUAR
 
-1. Çdo vit, QKEV-ja duhet të kryejë monitorime të të paktën 10 për qind të aktiviteteve të edukimit në vazhdim të organizuara nga ofruesi i akredituar, për të garantuar zbatimin e kritereve gjatë zhvillimit të aktiviteteve.
+1. Çdo vit, QKEV-ja duhet të kryejë monitorime të të paktën 10 për qind të aktiviteteve të edukimit në vazhdim të organizuara nga ofruesi i akredituar, për të garantuar zbatimin e kritereve gjatë zhvillimit të aktiviteteve. Ofruesi i akredituar duhet të njoftojë QKEV-në 3 (tri) ditë pune përpara zhvillimit të aktivitetit për datën, orën dhe vendin e zhvillimit të tij.
 
 2. QKEV-ja kryen verifikim të përmbushjes së kritereve të tjera, të paktën një herë në vit.
 
@@ -194,7 +198,7 @@ d) vlerësimi negativ i shumicës së pjesëmarrësve për organizimin e aktivit
 
 dh) shkelje të kritereve të përshkruara në pikat 2 e 3, të vendimit nr. 788, datë 22.9.2016, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të standardeve dhe procedurave të procesit të akreditimit të aktiviteteve të edukimit në vazhdim për profesionistët e shëndetësisë”.
 
-	5. Në rastet e anulimit të akreditimit, ofruesi ka të drejtë të riaplikojë pas një periudhe prej 12-muajsh. VIII.	E DREJTA E ANKIMIT
+	5. Në rastet e anulimit të akreditimit, ofruesi ka të drejtë të riaplikojë pas një periudhe prej 12-muajsh. VIII. E DREJTA E ANKIMIT
 
 Ofruesit e aktiviteteve të edukimit në vazhdim kanë të drejtë të ankohen pranë Bordit të Edukimit të Vazhdueshëm për vendimin e akreditimit brenda 30 ditëve, nga momenti i marrjes dijeni për të. Çdo ankesë duhet të paraqitet me shkrim dhe të shoqërohet me të dhëna e argumente që mbështesin ankimin. Bordi i Edukimit të Vazhdueshëm shqyrton raportin e vlerësimit dhe, kur ankesat janë të mbështetura, i reflekton në raportin përfundimtar dhe në vendimin e akreditimit.
 
