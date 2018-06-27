@@ -1,4 +1,0 @@
-# Neni 10
-Drejtimi metodik dhe administrativ i muzeve publikë
-1. Ministria e Kulturës, Rinisë dhe Sporteve, në bashkëpunim me Akademinë e Shkencave, përcakton normat tekniko-profesionale dhe metodologjike të shërbimit për ruajtjen, mirëmbajtjen dhe sigurinë fizike të muzeve dhe të fondit muzeor, në përputhje me standardet ndërkombëtare dhe rregullat në fuqi për fondin arkivor. Këto norma miratohen me urdhër të përbashkët të Ministrit të Kulturës, Rinisë dhe Sporteve e të Kryetarit të Akademisë së Shkencave dhe janë të detyrueshme për t’u zbatuar nga të gjithë muzetë, të cilët e ushtrojnë veprimtarinë e tyre në territorin e Republikës së Shqipërisë, pavarësisht nga lloji.
-2. Nga pikëpamja e kompetencës administrative, muzetë drejtohen nga organi nga i cili varen apo nga institucioni në juridiksionin e të cilit ndodhet muzeu.
