@@ -1,0 +1,4 @@
+# Neni 12
+Procedura për ndërmjetësim
+1. Procedura për ndërmjetësim fillon pas datës së paraqitjes së ftesës për ndërmjetësim nga të paktën njëra nga palët në konflikt palës tjetër, sipas këtij ligji, ose nga data e referimit të çështjes nga gjykata, prokuroria ose organe të tjera kompetente, për zgjidhjen e saj me ndërmjetësim.
+2. Nëse një palë në mosmarrëveshje i kërkon një pale tjetër ndjekjen e procedurave të ndërmjetësimit, sipas këtij ligji, dhe kjo e fundit nuk i përgjigjet kësaj kërkese brenda 30 ditëve nga data në të cilën është dërguar ftesa ose brenda afatit kohor të përcaktuar në ftesë, pala kërkuese mund ta vlerësojë këtë si mospranim të ftesës për ta zgjidhur mosmarrëveshjen me ndërmjetësim. Ftesa për ndërmjetësim, e paraqitur nga një palë në mosmarrëveshje, nuk pengon automatikisht këtë palë që të iniciojë fillimin e një procesi gjyqësor apo arbitrazhi në lidhje me këtë mosmarrëveshje, për shkak të kalimit të afateve të paraqitjes së padisë.
