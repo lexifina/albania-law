@@ -1,0 +1,28 @@
+{
+  "qbz_id": 67842,
+  "title": "PËR LICENCIMIN E UJËSJELLËS-KANALIZIME SHA FINIQ",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "41",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2018-06-01",
+  "published": "2018-06-28",
+  "in_force": "2018-06-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/a0d38f8e4c97702240df0413d5b0d02de68000bb8ba1de15896cb14d13bf5015.docx",
+  "source_sha256": "a0d38f8e4c97702240df0413d5b0d02de68000bb8ba1de15896cb14d13bf5015",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67842",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/06/01/41",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    22475
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
