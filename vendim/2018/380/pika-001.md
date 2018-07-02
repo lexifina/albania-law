@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, të sipërfaqes prej 1 511 (një mijë e pesëqind e njëmbëdhjetë) m², sipas lidhjes 1, bashkëlidhur këtij vendimi, për ndërtimin e një fabrike për prodhim, ambalazhim dhe shpërndarjen e ujit të pijshëm nga shoqëria “Puka Uji Natyral” sh.p.k.
