@@ -1,0 +1,1 @@
+12. Në vendimin nr. 1134, datë 18.11.2009, ndryshohen gjenealitetet e poseduesit dhe konfigurimi për shtatë parcela ndërtimore, me nr. pasurie 16/568, 40/200, 3/196, 2/149, 2/115, 129/407 e 65/127, sipas lidhjes L që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+6. Në vendimin nr. 450, datë 6.5.2009, ndryshohen gjenealitetet për dy parcela ndërtimore, me nr. pasurie 30/19 e 9/22, dhe ndryshon konfigurimi për dy parcela, me nr. pasurie 8/24 e 1/462, sipas lidhjes F që i bashkëlidhet këtij vendimi.

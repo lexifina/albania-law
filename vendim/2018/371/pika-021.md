@@ -1,0 +1,1 @@
+21. Në vendimin nr. 822, datë 23.11.2011, ndryshohen gjenealitetet dhe sipërfaqet për katër parcela ndërtimore, me nr. pasurie 1/195, 34/44, 3/165 e 3/171, sipas lidhjes U që i bashkëlidhet këtij vendimi.

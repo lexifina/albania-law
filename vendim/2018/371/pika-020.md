@@ -1,0 +1,1 @@
+20. Në vendimin nr. 359, datë 4.5.2011, ndryshohen gjenealitetet dhe sipërfaqet për pesë parcela ndërtimore, me nr. pasurie 12/134, 7/170, 9/217, 5/676 e 4/582, sipas lidhjes T që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+9. Në vendimin nr. 706, datë 23.6.2009, ndryshohen gjenealitetet dhe sipërfaqet për tetë parcela ndërtimore, me nr. pasurie 8/342, 2/416, 10/419, 2/433, 9/259, 2/543, 10/476 e 10/481, sipas lidhjes I që i bashkëlidhet këtij vendimi.

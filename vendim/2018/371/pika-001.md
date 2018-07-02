@@ -1,0 +1,1 @@
+1. Në vendimin nr. 1481, datë 12.11.2008, ndryshohen gjenealitetet e poseduesve për një parcelë ndërtimore, me nr. 158/287 pasurie dhe ndryshon konfigurimi për dy parcela ndërtimore, me nr. pasurie 14/176 dhe nr. 14/48, sipas lidhjes A, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+7. Në vendimin nr. 611, datë 11.6.2009, ndryshohen gjenealitetet për tri parcela ndërtimore, me nr. pasurie 119/80, 11/508 e 11/303, dhe ndryshon sipërfaqja për shtatë parcela, me nr. pasurie 18/39, 18/38, 13/40, 18/93, 5/585, 7/329 e 7/324, sipas lidhjes G që i bashkëlidhet këtij vendimi.

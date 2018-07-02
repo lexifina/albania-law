@@ -1,0 +1,1 @@
+10. Në vendimin nr. 805, datë 22.7.2009, ndryshohen gjenealitetet për katër parcela ndërtimore, me nr. pasurie 12/100, 12/174, 88/67 e 88/66, ndryshon zona kadastrale për parcelën me nr. 90/39 pasurie dhe ndryshon konfigurimi për parcelën me nr. 6/329 pasurie, sipas lidhjes J që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+11. Në vendimin nr. 1038, datë 14.10.2009, ndryshohen gjenealitetet e poseduesit dhe sipërfaqet për tetë parcela ndërtimore, me nr. pasurie 59/139, 7/121, 1/256, 1/991, 3/633, 5/575, 11/262 e 1/896, sipas lidhjes K që i bashkëlidhet këtij vendimi.

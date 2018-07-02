@@ -1,0 +1,1 @@
+18. Në vendimin nr. 646, datë 28.7.2010, ndryshohen gjenealitetet dhe sipërfaqet për shtatë parcela ndërtimore, me nr. pasurie 48/4, 7/600, 3/602, 9/253, 7/339, 4/462 e 2/800, sipas lidhjes R që i bashkëlidhet këtij vendimi.

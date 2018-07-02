@@ -1,0 +1,1 @@
+16. Në vendimin nr. 404, datë 26.5.2010, ndryshohen gjenealitetet e poseduesit për dy parcela ndërtimore, me nr. pasurie 37/49 e 8/1373, dhe sipërfaqet për dy parcela ndërtimore, me nr. pasurie 12/556 e 2/635, sipas lidhjes P që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+8. Në vendimin nr. 677, datë 18.6.2009, ndryshohen gjenealitetet për katër parcela ndërtimore, me nr. pasurie 14/186, 2/280, 2/281 e 1/552, dhe ndryshon konfigurimi për katër parcela, me nr. pasurie 6/235, 8/613, 8/1126 e 8/1127, sipas lidhjes H që i bashkëlidhet këtij vendimi.

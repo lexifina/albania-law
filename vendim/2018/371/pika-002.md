@@ -1,0 +1,1 @@
+2. Në vendimin nr. 1657, datë 24.12.2008, ndryshohen gjenealitetet e poseduesve për parcelën ndërtimore me nr. 10/21 pasurie dhe ndryshon sipërfaqja për parcelën ndërtimore me nr. 157/314 pasurie, sipas lidhjes B që i bashkëlidhet këtij vendimi.
