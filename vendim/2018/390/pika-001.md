@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 16.2.2017, për çështjen “Rushiti kundër Shqipërisë” (kërkesa nr. 23136/13), në shumën 1 800 euro (një mijë e tetëqind euro), lidhur me dëmin pasuror dhe jopasuror, si dhe kostot e shpenzimet, duke e përjashtuar nga çdo taksë që mund të jetë e aplikueshme.

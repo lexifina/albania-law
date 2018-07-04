@@ -1,0 +1,1 @@
+3. Vlera e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të kërkueses znj. Selvie Rushiti, në vlerën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 16.2.2017, për çështjen “Rushiti kundër Shqipërisë” (kërkesa nr. 23136/13).

@@ -1,0 +1,1 @@
+4. Pagimi i shumës së depozituar, sipas pikës 3 të këtij vendimi, në favor të kërkueses, znj. Selvie Rushiti, të bëhet nga Ministria e Financave dhe Ekonomisë pas paraqitjes së dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga buxheti i shtetit, brenda afatit 3-mujor nga data kur vendimi i Gjykatës është bërë përfundimtar.
