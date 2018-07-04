@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Ministrisë së Bujqësisë dhe Zhvillimit Rural, për vitin 2018, shtohet me 4 punonjës për Agjencinë për Zhvillim Bujqësor dhe Rural, duke e çuar numrin e përgjithshëm të Ministrisë në 1951 veta.
