@@ -1,1 +1,0 @@
-4. Ngarkohet znj. Merita Xhafaj, drejtore e Përgjithshme e Drejtorisë së Politikave dhe Zhvillimit të Shëndetësisë dhe Mbrojtjes Sociale dhe të gjithë nëpunësit e Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale për zbatimin e këtij urdhri.

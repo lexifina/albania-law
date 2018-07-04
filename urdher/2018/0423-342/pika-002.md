@@ -1,1 +1,0 @@
-2. Këto kompetenca do të ushtrohen nga znj. Merita Xhafaj, drejtore e Përgjithshme e Drejtorisë së Politikave dhe Zhvillimit të Shëndetësisë dhe Mbrojtjes Sociale, menjëherë me hyrjen në fuqi të këtij urdhri.
