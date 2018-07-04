@@ -1,0 +1,1 @@
+3. Vlera e përcaktuar si detyrim në pikën 1 të këtij vendimi, të depozitohet në një nga bankat e nivelit të dytë, në emër të kërkuesit, z. Marketin Topallaj, në vlerën që shteti shqiptar detyrohet, sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 21.4.2016, për çështjen “Topallaj kundër Shqipërisë” (kërkesa nr. 32913/03).

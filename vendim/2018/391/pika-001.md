@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 21.4.2016, për çështjen “Topallaj kundër Shqipërisë” (kërkesa nr. 32913/03), në shumën 1 000 (një mijë) euro, në lidhje me dëmin jopasuror, plus çdo taksë që mund të jetë e aplikueshme.
