@@ -1,1 +1,1 @@
-16. Drejtoria që ka në përgjegjësi çështjet e migracionit, në Ministrinë e Mirëqenies Sociale dhe Rinisë, bën regjistrimin e të huajve, shtetas të BE-së, që plotësojnë kushtet e punësimit për përjashtim nga detyrimi i pajisjes me leje pune, sipas neneve 72, shkronja “a” dhe 73, pikat 1, 2 e 3 të ligjit nr. 108/2013 “Për të huajt”.
+16. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit bën regjistrimin e të huajve, sipas nenit 73, pikat 1, 2 e 3, të ligjit nr. 108/2013, “Për të huajt”, të ndryshuar.

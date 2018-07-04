@@ -100,3 +100,69 @@ Me adresë: _________________________________
 Seat and address
 Kjo certifikatë është e vlefshme derisa i huaji të vazhdojë të bëjë pjesë në një nga kategoritë e subjekteve të përcaktuara në pikat 1, 2, 3 të nenit 73 të ligjit nr. 108/2013, datë 28.3.2013 “Për të huajt”.
 DREJTOR
+ANEKS
+REPUBLIKA E SHQIPËRISË
+REPUBLIC OF ALBANIA
+MINISTRIA E FINANCAVE DHE EKONOMISË
+MINISTRY OF FINANCE AND ECONOMY
+SHËRBIMI KOMBËTAR I PUNËSIMIT / ZYRA E PUNËSIMIT
+NATIONAL EMPLOYMENT SERVICE / EMPLOYMENT OFFICE
+___________________________________________
+FORMULAR - KËRKESË/APPLICATION
+Për lëshimin e certifikatës së regjistrimit një të huaji/For issuance of a registration certificate to a foreigner
+TË DHËNAT E PUNËDHËNËSIT / INFORMATION ABOUT THE EMPLOYER
+1. Emri i punëdhënësit/organizatës_____________________________________________
+Name of the employer/organisation
+2. Vendi dhe adresa e punëdhënësit/organizatës___________________________________
+Seat and address of the employer/organisation
+3. Numri i regjistrimit në ISSH /___/___/___/___/___/___/___/___/___/___/
+Registration number in the Cr Health Insurance Institute
+4.Kodi fiskal NIPT/___/___/___/___/___/___/ OIB /___/___/___/___/___/___/___/___/
+Business activity code
+a) Vendimi i gjykatës për njohjen e biznesit ose: ___________________________
+Court Decision on Business Acknowledgment or
+b) Ekstrakt nga Qendra Kombëtare e Biznesit: _______________________
+Abstract from National Business Centre
+5. Data e menduar e fillimit dhe e përfundimit të punës /___/___/___/___/___/___/___/___/ deri në /___/___/___/___/___/___/
+Period for which the certificate of registration is requested from to
+6. Emërtimi i vendit të punës ____________________________________________________
+Name of the job position
+TË DHËNAT E TË HUAJIT / INFORMATION ABOUT THE FOREIGNER
+1. Mbiemri __________________________________________________________
+Surname
+Emri _________________________________________________________
+Given name(s)
+Emri i babait __________________________________________________________
+Name of the parent
+4. Datëlindja /___/___/___/___/___/___/___/___/
+Date of birth
+Gjinia F M /___/___/___/___/___/___/___/___/
+Sex M F* to be entered if issued
+6. Vendi dhe shteti i lindjes ____________________________________________________
+Place and country of birth
+7. Shtetësia __________________________________________________________
+Nationality
+8. Adresa e banimit në Shqipëri _______________________________________________
+Residential address in the Republic of Albania
+9. Kodi dhe emri i punësimit /___/___/___/___/___/___/____________________________
+Code and name of occupation
+10. Kualifikimet /___/___/___/
+Skills qualifications
+Aktivitet fitimprurës PO JO
+Gainfully employed/activity YES NO
+3. DOKUMENT I VLEFSHËM / VALID DOCUMENT
+1. Lloji i dokumentit ______________________________________________________
+Type of document
+2. Numri /___/___/___/___/___/___/___/___/___/___/___/___/___/
+Number
+3. Lëshuar në /___/___/___/___/___/___/___/___/
+Issued on
+4. E vlefshme deri më /___/___/___/___/___/___/___/___/
+Valid until
+5. Autoriteti kompetent _______________________________________________________
+Competent authority
+6. Lëshuar nga _____________________________________________________________
+Place and country of issuance
+_________________ ____________________
+Vendi dhe data Emri / mbiemri i aplikantit
+(Place and date) (Applicant)
