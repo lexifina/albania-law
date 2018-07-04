@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit të Gjykatës Evropiane për të Drejtat e Njeriut, datë 16.2.2017, për çështjen “Hatija kundër Shqipërisë” (kërkesa nr. 53103/15), në shumën 1 000 euro (një mijë euro), për kërkuesin, z. Shkëlqim Hatija, në lidhje me dëmin pasuror dhe jopasuror, si dhe kostot e shpenzimet, duke e përjashtuar nga çdo taksë që mund të jetë e aplikueshme.
