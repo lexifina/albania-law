@@ -1,0 +1,1 @@
+6. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Durrës të marrin masat për pezullimin e të gjitha transaksioneve mbi këto pasuri, deri në përfundimin e procesit të kalimit të pronësisë, të pasurive të shpronësuara, në favor të OSHEE sh.a.

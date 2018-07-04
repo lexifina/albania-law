@@ -1,0 +1,2 @@
+4. Vlera totale e shpronësimit, prej 1 296 602 (një milion e dyqind e nëntëdhjetë e gjashtë mijë e gjashtëqind e dy) lekë dhe vlera e shpenzimeve procedurale të përballohen nga fondet e Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE, sh.a.), si subjekti kërkues i këtij shpronësimi.
+4.1 Vlera e shpenzimeve procedurale, në shumën 50 000 (pesëdhjetë mijë) lekë, të përballohet nga buxheti i Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE) sh.a.
