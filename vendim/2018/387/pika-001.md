@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 8,5% (tetë presje pesë për qind) të pikëve, që i jepet shoqërisë “A.N.K.” sh.p.k., për rezultatin teknik dhe financiar të propozimit të pakërkuar, të paraqitur për procedurën për dhënien me koncesion/ partneritet publik privat për “Projektimin, ndërtimin, financimin dhe mirëmbajtjen e segmentit rrugor Milot-Balldren”.
