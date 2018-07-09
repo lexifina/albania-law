@@ -1,0 +1,1 @@
+6. Shtetasit, të cilët paraqiten pranë zyrave përgjegjëse dhe që nuk kanë aplikuar dhe siguruar formularin, sipas përcaktimit të pikës 5, pajisen me formular nga nëpunësi përgjegjës dhe e plotësojnë atë në prani të tij.

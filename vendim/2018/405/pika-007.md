@@ -1,0 +1,1 @@
+7. Në rastet kur shtetasi plotëson formularin në mënyrë elektronike dhe e konfirmon atë sipas manualit, nuk ka nevojë të paraqitet pranë nëpunësit përgjegjës, pasi ky i fundit ka mundësinë e printimit të tij nga programi i regjistrimit të adresës.

@@ -1,0 +1,3 @@
+5. Shtetasit, të cilët aplikojnë në mënyrë elektronike, vetëm për t’u njohur dhe për të printuar nga sistemi formularin tip të vetëdeklarimit, ndjekin njërën nga procedurat e mëposhtme:
+a) Pasi të kenë shkarkuar, printuar dhe plotësuar formularin, sipas të gjitha rubrikave të përcaktuara në të, e dërgojnë atë me postë pranë misioneve tona diplomatike ose posteve konsullore, nën juridiksionin territorial të së cilës ndodhet banesa e tyre;
+b) Pasi të kenë printuar dhe plotësuar formularin sipas të gjitha rubrikave të përcaktuara në të, paraqiten fizikisht pranë misioneve tona diplomatike ose posteve konsullore, nën juridiksionin territorial të së cilës ndodhet banesa e tyre.
