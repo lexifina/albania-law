@@ -1,0 +1,1 @@
+9. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Shkodër të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohet procesi i hedhjes se gjurmës së projektit mbi hartën kadastrale të regjistrimit.

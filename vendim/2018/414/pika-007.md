@@ -1,0 +1,1 @@
+7. Pronarët e pasurive të paluajtshme, të përmendur në tabelën që i bashkëlidhet këtij vendimi, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin justifikues për likuidim, pranë Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE) sh.a.
