@@ -1,0 +1,1 @@
+7. Pronari i pasurisë së paluajtshme, që shpronësohet, sipas tabelës bashkëlidhur këtij vendimi, të kompensohet për efekt shpronësimi pasi të ketë paraqitur dokumentacionin e pronësisë pranë Bashkisë Lushnjë.
