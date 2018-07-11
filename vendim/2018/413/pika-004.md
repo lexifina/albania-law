@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 1 454 376 (një milion e katërqind e pesëdhjetë e katër mijë e treqind e shtatëdhjetë e gjashtë) lekësh, të përballohet nga Operatori i Shpërndarjes së Energjisë Elektrike (OSHEE) sh.a., si subjekti kërkues i këtij shpronësimi.
