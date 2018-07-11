@@ -1,0 +1,1 @@
+6. Ndërveprimi me bazat e tjera të të dhënave shtetërore dhe procedurat e realizimit të ndërveprimit përcaktohen me urdhër të Ministrit të Drejtësisë, në përputhje me rregullat e miratuara në zbatim të ligjit nr.10 325, datë 23.9.2010 “Për bazat e të dhënave shtetërore”.
