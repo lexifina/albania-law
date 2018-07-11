@@ -1,0 +1,9 @@
+# MBI FILLIMIN E PROCEDURËS PËR SHQYRTIMIN E APLIKIMIT TË SHOQËRISË “DON – UCD” SHPK, PËR LICENCIM NË AKTIVITETIN E TREGTIMIT TË ENERGJISË ELEKTRIKE
+
+Official source: [Vendim nr. 149, datë 28.6.2018 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/62039).
+
+Status of this text: `as-enacted`. Adopted 2018-06-28; published 2018-07-11; in force 2018-07-11.
+
+[Complete official text](tekst.md); [source and date record](record.json).
+
+Paragraphs are preserved from the official Word document. This is a single-file act.
