@@ -1,0 +1,29 @@
+{
+  "qbz_id": 56008,
+  "title": "PËR LICENCIMIN E SHA UJËSJELLËS-KANALIZIME DIBËR",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "47",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2018-06-13",
+  "published": "2018-07-12",
+  "in_force": "2018-07-12",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/4099c001db980565df44037b475c095e73826d9bb907607642debadbc826825c.docx",
+  "source_sha256": "4099c001db980565df44037b475c095e73826d9bb907607642debadbc826825c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/56008",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/06/13/47",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    20791,
+    20786
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
