@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” (arë) në “tokë urbane” (truall), të pasurive nr. 241/12, me nr. kadastral 237 e 238 dhe nr. 241/14, me nr. kadastral 239, Njësia Administrative Mollaj, fshati Kamenicë, Bashkia Korçë, për ndërtimin e objekteve të hidrocentralit “Kamenicë”.
