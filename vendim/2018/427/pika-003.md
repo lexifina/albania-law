@@ -1,0 +1,1 @@
+3. Me hyrjen në fuqi të këtij vendimi, shoqëria “Pietra Nesli” sh.p.k., detyrohet të rehabilitojë sipërfaqet sipas kushteve të lejes mjedisore dhe të pyllëzojë, me fondet e veta, një sipërfaqe pyjore prej 3.1 ha në ngastrat e përcaktuara në marrëveshjen me Bashkinë Skrapar.

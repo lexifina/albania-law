@@ -1,0 +1,1 @@
+6. Zyra vendore e regjistrimit të pasurive të paluajtshme të bëjë çregjistrimin e sipërfaqes pyjore të identifikuar, sipas lidhjes 1, të këtij vendimi nga kategoria “tokë e zënë pyjore” dhe ta regjistrojë në kategorinë “tokë e zënë, objekt i aktivitetit minerar”.
