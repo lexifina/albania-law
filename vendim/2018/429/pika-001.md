@@ -1,0 +1,1 @@
+1. Miratimin e bonusit prej 8% (tetë për qind) të pikëve, që i jepet bashkimit të shoqërive “Kastrati” sh.a. dhe “T.M.D. Systems LTD”, për rezultatin teknik dhe financiar të propozimit të pakërkuar, të paraqitur për procedurën për dhënien me koncesion/partneritet publik privat për projektin e rehabilitimit, të operimit, transferimit të Aeroportit të Kukësit.
