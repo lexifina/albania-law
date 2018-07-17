@@ -1,0 +1,8 @@
+2. Pas pikës 6.11 shtohet pika 6.12, me këtë përmbajtje:
+“6.12 Nxënësve që ndjekin arsimin fillor nga klasa e parë deri në klasën e katërt u jepen tekstet shkollore në përdorim falas. Çmimi i blerjes së teksteve shkollore mbulohet 100% nga fondet e buxhetit të shtetit, miratuar për ministrinë përgjegjëse për arsimin. Institucionet arsimore, si dhe njësitë arsimore vendore, brenda muajit korrik të çdo viti, përgatisin listën e parashikuar të nxënësve që ndjekin arsimin fillor nga klasa e parë deri në klasën e katërt.
+Blerja e teksteve shkollore të nxënësve që ndjekin arsimin fillor nga klasa e parë deri në klasën e katërt, në emër të prindërve ose të përfaqësuesve ligjorë, për llogari të nxënësve, realizohet nga institucioni arsimor, për llogari të njësisë arsimore vendore.
+Likuidimi i faturës tatimore ndaj subjekteve, shtëpive botuese, realizohet nga njësia arsimore vendore, me fondet e miratuara si “Transfertë tek individët”, në buxhetin e ministrisë përgjegjëse për arsimin, në llogarinë bankare të shitësit.
+Mënyra e shpërndarjes dhe e administrimit të teksteve për këtë kategori nxënësish përcaktohen me udhëzim të ministrit përgjegjës për arsimin.”.
+II. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, parashikohen në shumën prej 270 000 000 (dyqind e shtatëdhjetë milionë) lekësh. Këto fonde janë parashikuar në buxhetin e miratuar për vitin 2018, në programin e arsimit bazë 09120, kapitulli 01, në artikullin 606, “Transfertë tek individët”.
+III. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë dhe Ministria e Financave dhe Ekonomisë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

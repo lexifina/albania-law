@@ -1,0 +1,1 @@
+1. Kudo në vendim, emërtimet “Ministria e Arsimit dhe Shkencës” dhe “Ministria e Arsimit dhe Sportit” zëvendësohen me fjalët “ministria përgjegjëse për arsimin”, “Ministria e Financave” zëvendësohet me fjalët “ministria përgjegjëse për financat” dhe “Ministria e Punëve të Jashtme” zëvendësohet me fjalët “ministria përgjegjëse për punët e jashtme”.
