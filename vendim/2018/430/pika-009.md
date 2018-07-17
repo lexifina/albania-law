@@ -1,0 +1,1 @@
+9. Sistemi e-Leje garanton përdorimin e sistemit elektronik të lejeve nga të gjithë aplikuesit dhe institucionet e përfshira, me qëllim thjeshtimin e procedurave dhe ofrimin e shërbimit me një ndalesë, në kuadër të ushtrimit të funksionit të kontrollit të zhvillimit të territorit, në përputhje me legjislacionin për planifikimin dhe zhvillimin e territorit.

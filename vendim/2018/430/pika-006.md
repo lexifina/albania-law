@@ -1,0 +1,28 @@
+6. Institucionet që japin mendim në sistemin e-Leje, por pa u kufizuar, janë:
+- Agjencia e Shërbimit Arkeologjik;
+- Agjencia e Zhvillimit të Territorit;
+- Agjencia Kombëtare e Mjedisit;
+- Agjencia Kombëtare e Zonave të Mbrojtura;
+- Arkivi Qendror Teknik i Ndërtimit;
+- Autoriteti Rrugor Shqiptar;
+- Agjencia e Menaxhimit të Burimeve Ujore;
+- drejtoritë e Agjencisë së Legalizimit, Urbanizimit dhe Integrimit të Zonave/ Ndërtimeve Informale (Berat, Dibër, Durrës, Elbasan, Fier, Gjirokastër, Kamzë-Vorë, Kavajë, Korçë, Krujë, Kukës, Lezhë, Lushnjë, Sarandë, Shkodër, Tirana 2 (shtesat), Tirana Jug, Tirana Rurale, Tirana Veri, Vlorë, Zonat Turistike);
+- inspektor në Inspektoratin e Mbrojtjes së Territorit, pranë bashkisë përkatëse;
+- Inspektorati Kombëtar i Mbrojtjes së Territorit;
+- Instituti i Monumenteve të Kulturës;
+- Instituti i Ndërtimit;
+- Ministria e Bujqësisë dhe Zhvillimit Rural;
+- Ministria e Drejtësisë;
+- Ministria e Infrastrukturës dhe Energjisë;
+- Ministria e Kulturës;
+- Ministria e Mbrojtjes;
+- Ministria e Shëndetësisë dhe Mbrojtjes Sociale;
+- Ministria e Turizmit dhe Mjedisit;
+- Ministria e Brendshme;
+- Ministria e Financave dhe Ekonomisë;
+- Ministria e Arsimit, Sportit dhe Rinisë;
+- “Operatori i Shpërndarjes së Energjisë Elektrike” sh.a. (Berat, Burrel, Durrës, Elbasan, Fier, Gjirokastër, Korçë, Shkodër, Tiranë, Vlorë);
+- Shërbimi për Mbrojtjen nga Zjarri dhe Shpëtimin në nivel qendror;
+Shërbimi për Mbrojtjen nga Zjarri dhe Shpëtimin në nivel vendor (Belsh, Berat, Bulqizë, Cërrik, Delvinë, Devoll, Dibër, Divjakë, Dropull, Durrës, Elbasan, Fier, Finiq, Fushë-Arrëz, Gjirokastër, Gramsh, Has, Himarë, Kamzë, Kavajë, Këlcyrë, Klos, Kolonjë, Konispol, Korçë, Krujë, Kuçovë, Kukës, Kurbin, Lezhë, Libohovë, Librazhd, Lushnjë, Malësi e Madhe, Maliq, Mallakastër, Mat, Memaliaj, Mirditë, Patos, Peqin, Përmet, Poliçan, Pogradec, Përrenjas, Pukë, Pustec, Rrogozhinë, Roskovec, Sarandë, Selenicë, Shijak, Shkodër, Skrapar, Tepelenë, Tiranë, Tropojë, Ura Vajgurore, Vau i Dejës, Vlorë, Vorë);
+-“Ujësjellës-Kanalizime” sh.a. (Belsh, Berat, Sarandë, Bulqizë, Cërrik, Delvinë, Devoll, Dibër, Divjakë, Dropull, Durrës, Elbasan, Fier, Finiq, Fushë-Arrëz, Gjirokastër, Gramsh, Has, Himarë, Kamzë, Kavajë, Këlcyrë, Klos, Kolonjë, Konispol, Korçë, Krujë, Kuçovë, Kukës, Kurbin, Lezhë, Libohovë, Librazhd, Lushnjë, Malësi e Madhe, Maliq, Mallakastër, Mat, Mirditë, Patos, Peqin, Përmet, Pogradec, Poliçan, Pukë, Pustec, Rrogozhinë, Roskovec, Selenicë, Shijak, Shkodër, Skrapar, Tepelenë, Tiranë, Tropojë, Ura Vajgurore, Vau i Dejës, Vlorë, Vorë);
+- zyrat vendore të regjistrimit të pasurive të paluajtshme (Berat, Bulqizë, Devoll, Durrës, Elbasan, Ersekë, Fier, Gjirokastër, Gramsh, Has, Kavajë, Korçë, Krujë, Kuçovë, Kukës, Laç, Lezhë, Librazhd, Lushnjë, Malësi e Madhe, Mallakastër, Mat, Mirditë, Peqin, Përmet, Peshkopi, Pogradec, Pukë, Sarandë, Shkodër, Skrapar, Tepelenë, Tiranë, Tropojë, Vlorë).

@@ -1,0 +1,1 @@
+10. Të gjitha aplikimet për leje në Republikën e Shqipërisë, sipas ligjit nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar, dhe akteve nënligjore në zbatim të tij kryhen nëpërmjet sistemit elektronik të lejeve, në portalin e-Albania.

@@ -1,0 +1,2 @@
+16. Ngarkohen Agjencia e Zhvillimit të Territorit, në cilësinë e sekretariatit teknik të Këshillit Kombëtar të Territorit, Agjencia Kombëtare e Shoqërisë së Informacionit, autoritetet vendore të zhvillimit të territorit, ministritë, si dhe të gjitha institucionet e tjera publike të përfshira në procesin e miratimit të akteve që lëshohen nëpërmjet sistemit elektronik për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

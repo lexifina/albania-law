@@ -1,0 +1,1 @@
+1. Krijimin e bazës Së të dhënave shtetërore për sistemin elektronik të lejeve (sistemi e-Leje), për të gjitha kërkesat dhe lejet, sipas legjislacionit të planifikimit dhe të zhvillimit të territorit.
