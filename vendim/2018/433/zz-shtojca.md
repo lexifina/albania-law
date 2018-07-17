@@ -1,0 +1,7725 @@
+# Shtojca
+EVIDENCA SIPAS DREJTORIVE PËR KALIMIN E SË DREJTËS SË PRONËSISË ME VENDIM TË KËSHILLIT TË MINISTRAVE
+Nr. rendor
+Nr. i drejtorive
+Drejtoria
+Qarku/bashkia/komuna/fshati/zona kadastrale/blloku
+Nr. i parcelave të objekteve informale
+Sipërfaqet e parcelave ndërtimore për kalim pronësie (m²)
+1
+2
+3
+4
+5
+6
+1
+1
+BERAT
+Qarku Berat, ZVRPP Berat, zona kadastrale 8501
+5
+743.3
+2
+Qarku Berat, ZVRPP Ura Vajgurore, zona kadastrale 1896
+3
+428.2
+3
+Qarku Berat, ZVRPP Berat, zona kadastrale 8501
+2
+331
+4
+Qarku Berat, ZVRPP Berat, zona kadastrale 8503
+1
+30.7
+5
+Qarku Berat, ZVRPP Berat, zona kadastrale 3682
+3
+914.5
+6
+Qarku Berat, ZVRPP Kuçovë, zona kadastrale 2179
+1
+270
+7
+Qarku Berat, ZVRPP Berat, zona kadastrale 3195
+1
+160
+8
+Qarku Berat, ZVRPP Ura Vajgurore, zona kadastrale 3555
+1
+73.5
+9
+Qarku Berat, ZVRPP Berat, zona kadastrale 8502
+1
+20
+10
+Qarku Berat, ZVRPP Kuçovë, zona kadastrale 2310
+2
+671.4
+11
+Qarku Berat, ZVRPP Kuçovë, zona kadastrale 2548
+1
+330
+12
+Qarku Berat, ZVRPP Berat, zona kadastrale 1217
+1
+360
+13
+Qarku Berat, ZVRPP Skrapar, zona kadastrale 3019
+1
+430
+14
+Qarku Berat, ZVRPP Berat, zona kadastrale 2349
+1
+282.8
+15
+Qarku Berat, ZVRPP Berat, zona kadastrale 3032
+1
+98
+16
+Qarku Berat, ZVRPP Berat, zona kadastrale 3956
+1
+300
+17
+Qarku Berat, ZVRPP Kuçovë, zona kadastrale 2918
+2
+504
+18
+Qarku Berat, ZVRPP Kuçovë, zona kadastrale 2310
+2
+312.6
+19
+Qarku Berat, ZVRPP Berat, zona kadastrale 8503
+3
+700
+20
+Qarku Berat, ZVRPP Ura Vajgurore, zona kadastrale 1515
+1
+91.4
+TOTALI, DREJTORIA BERAT
+34
+7051
+1
+2
+DIBËR
+Qarku Dibër, ZVRPP Dibër, zona kadastrale 2932
+1
+500
+TOTALI, DREJTORIA DIBËR
+1
+500
+1
+3
+ELBASAN
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 1095
+1
+500
+2
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 1530
+1
+435.9
+3
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 1630
+1
+407
+4
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2163
+1
+360
+5
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2441
+2
+772.7
+6
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2459
+2
+755
+7
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2523
+1
+326
+8
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2559
+2
+868.2
+9
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 3422
+1
+429.7
+10
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 8525
+1
+3
+11
+Qarku Elbasan, Zvrpp Elbasan, zona kadastrale 1303
+1
+403.5
+12
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2328
+1
+180.5
+13
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2654
+5
+2328
+14
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 2706
+2
+730.8
+15
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 3376
+4
+1168.4
+16
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 3589
+1
+410.1
+17
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 8526
+1
+296.4
+18
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 8527
+2
+775.3
+19
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 8526
+1
+706.2
+20
+Qarku Elbasan, ZVRPP Elbasan, zona kadastrale 8525
+2
+438.5
+TOTALI, DREJTORIA ELBASAN
+33
+12295
+1
+4
+KORÇË
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 8561
+1
+72
+2
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 8562
+1
+25.4
+3
+Qarku Korçë, ZVRPP Korçë, zona Kadastrale 3014
+1
+208.5
+4
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 8562
+1
+150
+5
+Qarku Korçë, ZVRPP Devoll, zona kadastrale 2081
+1
+388
+6
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 2573
+1
+298.4
+7
+Qarku Korçë, ZVRPP Pogradec, Korçë, zona kadastrale 1553
+1
+60.7
+8
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 2641
+4
+800.7
+9
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 8564
+3
+619.6
+10
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 1145
+1
+500
+11
+Qarku Korçë, ZVRPP Pogradec, zona kadastrale 8582
+2
+520
+12
+Qarku Korçë, ZVRPP Pogradec, Korçë, zona kadastrale 1553
+3
+1284.3
+13
+Qarku Korçë, ZVRPP Korçë, zona kadastrale 3437
+1
+458.8
+TOTALI, DREJTORIA KORÇË
+21
+5386
+1
+5
+LUSHNJË
+Qarku Fier, ZVRPP Lushnjë, zona kadastrale 8572
+1
+104
+TOTALI, DREJTORIA LUSHNJË
+1
+104
+1
+6
+SHKODËR
+Qarku Shkodër, ZVRPP Shkodër, zona kadastrale 8591
+5
+1889.9
+2
+Qarku Shkodër, ZVRPP Shkodër, zona kadastrale 8592
+6
+2003
+3
+Qarku Shkodër, ZVRPP Malësi, e Madhe, zona kadastrale 3834
+1
+116
+4
+Qarku Shkodër, ZVRPP Shkodër, zona kadastrale 2363
+1
+559
+TOTALI DREJTORIA SHKODËR
+13
+4568
+1
+7
+ZONAT TURISTIKE
+Qarku Shkodër, Zvrpp Shkodër, Zona Kadastrale 3072
+2
+633
+TOTALI DREJTORIA ZONAT TURISTIKE
+2
+633
+1
+8
+LEZHË
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2364
+4
+1160
+2
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1986
+5
+1588
+3
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2053
+2
+761
+4
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2298
+1
+395
+5
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2995
+1
+217
+6
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 3141
+1
+140
+7
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 8631
+2
+594
+8
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 8632
+9
+2692.6
+9
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1086
+1
+164
+10
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1087
+3
+641
+11
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2029
+1
+198
+12
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1220
+1
+390
+13
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1987
+4
+1072
+14
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 3126
+3
+229
+15
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 8631
+2
+558
+16
+Qarku Lezhë, ZVRPP Kurbin, zona kadastrale 2364
+1
+500
+17
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1087
+3
+1020
+18
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1716
+1
+153
+19
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1875
+1
+405
+20
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1987
+1
+823
+21
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2180
+4
+606.6
+22
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2364
+1
+435
+23
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2544
+2
+499
+24
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 3126
+2
+209
+25
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 3351
+2
+526
+26
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 3968
+1
+423
+27
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 8631
+5
+806.9
+28
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 8632
+5
+901
+29
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 2666
+1
+221
+30
+Qarku Lezhë, ZVRPP Lezhë, zona kadastrale 1099
+1
+500
+TOTALI, DREJTORIA LEZHË
+71
+18828
+1
+9
+VLORË
+Qarku Vlorë, ZVRPP Vlorë, zona kadastrale 8601
+3
+932
+2
+Qarku Vlorë, ZVRPP Vlorë, zona kadastrale 8604
+1
+420
+TOTALI, DREJTORIA VLORË
+4
+1352
+1
+10
+TIRANA, KAMZË, VORË
+Qarku Tiranë/Bashkia Kamzë, Vorë/Zona kadastrale 3127
+1
+288.9
+2
+Qarku Tiranë/Bashkia Kamzë, Vorë/Zona kadastrale 1066
+4
+1237.2
+3
+Qarku Tiranë/Bashkia Kamzë, Vorë/Zona kadastrale 3992
+25
+7547.2
+4
+Qarku Tiranë/Bashkia Kamzë, Vorë/Zona kadastrale 1649
+2
+451.5
+5
+Qarku Tiranë/Bashkia Kamzë, Vorë/Zona kadastrale 2066
+17
+4411
+6
+Qarku Tiranë/Bashkia Kamzë, Vorë/Zona kadastrale 1649
+2
+519
+7
+Qarku Tiranë/Bashkia Kamzë, Vorë/Zona kadastrale 3993
+2
+900
+TOTALI, DREJTORIA KAMZË VORË
+53
+15355
+1
+11
+TIRANA RURALE
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2105
+1
+432
+2
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2460
+2
+626.1
+3
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1906
+1
+208.8
+4
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3865
+1
+611
+5
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2529
+2
+453.6
+6
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3712
+1
+380.1
+7
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1906
+3
+876
+8
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3091
+2
+749.4
+9
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2913
+1
+500
+10
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1977
+2
+790.2
+11
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1170
+1
+236.7
+12
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3866
+2
+379.2
+13
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2679
+1
+303
+14
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1315
+1
+249
+15
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3714
+1
+264.6
+16
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2953
+3
+856.2
+17
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2951
+1
+247.2
+18
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3321
+2
+643.1
+19
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1988
+1
+65
+20
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1604
+1
+306.6
+21
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2704
+1
+300.6
+22
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2380
+1
+249.8
+TOTALI, DREJTORIA TIRANA RURALE
+32
+9728
+1
+12
+TIRANA 2
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8180
+1
+27.3
+2
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8270
+3
+218.35
+3
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8350
+2
+85
+4
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8190
+2
+24
+5
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8120
+2
+119.2
+6
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8380
+1
+48.4
+7
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8230
+2
+113
+8
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8260
+1
+36
+9
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8150
+2
+22.4
+10
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8360
+2
+103.6
+11
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8220
+1
+51
+TOTALI, DREJTORIA TIRANA 2
+19
+848
+1
+13
+FIER
+Qarku Fier/Bashkia Fier/Zona kadastrale 8534
+5
+1922.5
+2
+Qarku Fier/Bashkia Fier/Zona kadastrale 8531
+7
+1751.7
+3
+Qarku Fier/Bashkia Fier/Zona kadastrale 8533
+7
+2063.5
+4
+Qarku Fier/Bashkia Fier/Zona kadastrale 3981
+5
+1536
+5
+Qarku Fier/Bashkia Fier/Zona kadastrale 3358
+1
+537.6
+6
+Qarku Fier/Bashkia Fier/Zona kadastrale 1874
+2
+1256.8
+TOTALI, DREJTORIA FIER
+27
+9068
+1
+14
+GJIROKASTËR
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3719
+1
+293
+2
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3816
+1
+93
+3
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3918
+1
+68
+4
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2508
+2
+111
+5
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3206
+1
+300
+6
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2507
+1
+342
+7
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3882
+1
+276
+8
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2435
+1
+56
+9
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3932
+1
+306
+10
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3602
+3
+694
+11
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2041
+1
+145
+12
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3574
+4
+558.3
+13
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3252
+2
+123
+14
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2541
+2
+674
+15
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1476
+7
+1648
+16
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2030
+1
+340
+17
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2867
+1
+115
+18
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 8543
+1
+405
+19
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 8541
+11
+755.5
+20
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2609
+1
+330
+21
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2810
+1
+240
+22
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3701
+1
+383
+23
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2444
+5
+1706
+24
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2647
+1
+80
+25
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1781
+1
+102
+26
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1980
+1
+96
+27
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2646
+1
+23
+28
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2917
+1
+438
+29
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2434
+1
+357
+30
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2680
+4
+879.4
+31
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3480
+1
+440
+32
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1234
+1
+131
+33
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2007
+2
+634
+34
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2512
+1
+300
+35
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1640
+1
+430
+36
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2956
+1
+375.3
+37
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2392
+1
+120
+38
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 8542
+1
+97.6
+39
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2810
+1
+385
+40
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2032
+1
+290
+41
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2259
+3
+979
+42
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1025
+4
+1154
+43
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2646
+3
+212.7
+44
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2057
+2
+497
+45
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2917
+1
+150
+46
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1565
+1
+280
+47
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1961
+1
+180
+48
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3580
+2
+301.5
+49
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1846
+1
+18
+50
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1307
+1
+346
+51
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3833
+1
+23
+52
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 8543
+3
+964
+53
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1970
+1
+360
+54
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1484
+1
+13
+55
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 1053
+1
+480
+56
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3179
+1
+270
+57
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2873
+1
+157.5
+58
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 3524
+1
+186
+59
+Qarku Gjirokastër/Bashkia Gjirokastër/Zona kadastrale 2936
+1
+395
+TOTALI, DREJTORIA GJIROKASTËR
+102
+22107
+1
+15
+SARANDË
+Qarku Vlorë/Bashkia Sarandë/Zona kadastrale 8641
+11
+2012.8
+2
+Qarku Vlorë/Bashkia Sarandë/Zona kadastrale 8642
+13
+3859
+3
+Qarku Vlorë/Bashkia Sarandë/Zona kadastrale 1013
+17
+5606.5
+4
+Qarku Vlorë/Bashkia Sarandë/Zona kadastrale 2671
+11
+3159
+5
+Qarku Vlorë/Bashkia Sarandë/Zona kadastrale 1430
+10
+4481.4
+6
+Qarku Vlorë/Bashkia Sarandë/Zona kadastrale 2297
+2
+1000
+TOTALI, DREJTORIA SARANDË
+64
+20119
+1
+16
+TIRANA JUG
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8180
+5
+774.2
+2
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3976
+9
+3367.4
+3
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3266
+2
+589.2
+4
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8190
+9
+2648.2
+5
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8170
+3
+988.2
+6
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3712
+2
+551.3
+7
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3321
+4
+847.9
+8
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8150
+2
+230.2
+9
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8240
+2
+185.5
+10
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8160
+1
+250.2
+11
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8260
+1
+467.76
+12
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3292
+8
+2263.1
+13
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2679
+1
+221
+14
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3866
+4
+1224.1
+15
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3963
+1
+460.8
+16
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2380
+4
+1091.4
+17
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3471
+1
+500
+18
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1988
+1
+346.5
+19
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1170
+1
+248.4
+20
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1498
+1
+353.7
+21
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1977
+2
+462.7
+22
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1549
+1
+360
+23
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8230
+4
+1431.1
+24
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2071
+1
+68.2
+25
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3363
+1
+316
+26
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2367
+2
+689.2
+27
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2776
+1
+241.2
+28
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 8380
+1
+8.1
+29
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3426
+3
+1171.7
+30
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 3550
+2
+504.5
+31
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 1608
+1
+478
+32
+Qarku Tiranë/Bashkia Tiranë/Zona kadastrale 2952
+1
+303.6
+TOTALI, DREJTORIA TIRANA JUG
+82
+23643
+1
+17
+KAVAJË
+Qarku Tiranë/Bashkia Kavajë/Zona kadastrale 3101
+4
+2460.6
+TOTALI, DREJTORIA KAVAJË
+4
+2461
+TOTALI
+563
+154046
+EVIDENCA SIPAS DREJTORIVE PËR KOMPENSIMIN E PRONARËVE
+Nr. rendor
+Nr. i drejtorive
+Drejtoria
+Qarku/ZVRPP/Zona kadastrale
+Nr. i pronave
+Sipërfaqja për kompensim (m²)
+Shuma e shpërblimit (lekë)
+1
+2
+3
+4
+5
+6
+7
+1
+1
+DIBËR
+Qarku Dibër/ZVRPP Dibër/Zona kadastrale 2932
+2
+286.70
+978,220.40
+TOTALI, DREJTORIA DIBËR
+2
+286.70
+978,220.40
+1
+2
+ELBASAN
+Qarku Elbasan/ZVRPP Elbasan/Zona kadastrale 8525
+1
+3.00
+42,576.00
+2
+Qarku Elbasan/ZVRPP Elbasan/Zona kadastrale 8527
+2
+775.30
+9,895,929.20
+3
+Qarku Elbasan/ZVRPP Elbasan/Zona kadastrale 8526
+1
+706.20
+9,013,936.80
+4
+Qarku Elbasan/ZVRPP Elbasan/Zona kadastrale 8525
+1
+296.80
+4,212,185.60
+TOTALI, DREJTORIA ELBASAN
+5
+1,781.30
+23,164,627.60
+1
+3
+KORÇË
+Qarku Korçë/ZVRPP Korçë/Zona kadastrale 8564
+2
+566.60
+4,837,064.20
+TOTALI, DREJTORIA KORÇË
+2
+566.60
+4,837,064.20
+1
+4
+LUSHNJË
+Qarku Fier/ZVRPP Fier/Zona kadastrale 8572
+1
+35.00
+313,390.00
+TOTALI, DREJTORIA LUSHNJË
+1
+35.00
+313,390.00
+1
+5
+SHKODËR
+Qarku Shkodër/ZVRPP Shkodër/Zona kadastrale 8591
+3
+911.20
+7,755,223.20
+TOTALI, DREJTORIA SHKODËR
+3
+911.20
+7,755,223.20
+1
+6
+VLORË
+Qarku Vlorë/ZVRPP Vlorë/Zona kadastrale 8601
+1
+140.07
+1,527,183.21
+TOTALI, DREJTORIA VLORË
+1
+140.07
+1,527,183.21
+1
+7
+LEZHË
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 1986
+1
+215.07
+72,478.59
+2
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 2995
+1
+60.80
+15,443.20
+3
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 1220
+1
+102.78
+23,433.84
+4
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 1087
+1
+215.50
+65,296.50
+5
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 1875
+2
+405.00
+117,045.00
+6
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 2180
+5
+1,185.60
+392,433.60
+7
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 3968
+1
+423.00
+95,598.00
+8
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 8631
+1
+386.00
+3,285,246.00
+9
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 8632
+2
+216.60
+1,843,482.60
+10
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 1087
+1
+500.00
+151,500.00
+11
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 1986
+3
+1,333.00
+449,221.00
+12
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 1987
+5
+618.00
+2,122,830.00
+13
+Qarku Lezhë/ZVRPP Lezhë/Zona kadastrale 8631
+1
+14.25
+121,281.75
+TOTALI, DREJTORIA LEZHË
+25
+5,675.60
+8,755,290.08
+1
+8
+TIRANË RURALE
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 2105
+1
+432.00
+1,832,544.00
+2
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 2460
+1
+243.30
+506,064.00
+3
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 1906
+1
+208.80
+60,343.20
+4
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 3865
+1
+244.40
+1,036,744.80
+5
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 2704
+1
+297.60
+977,020.80
+6
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 2529
+1
+211.20
+693,369.60
+7
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 3712
+1
+380.10
+200,692.80
+TOTALI, DREJTORIA TIRANË RURALE
+7
+2,017.40
+5,306,779.20
+1
+9
+TIRANË JUG
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 8180
+3
+232.80
+7,279,656.00
+2
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 3976
+1
+106.70
+51,109.30
+3
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 3266
+1
+279.60
+917,926.80
+4
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 1605
+1
+21.60
+55,296.00
+TOTALI, DREJTORIA TIRANË JUG
+6
+640.70
+8,303,988.10
+1
+10
+TIRANË SHTESAT
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 8350
+1
+2.90
+194,210.10
+2
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 8380
+1
+15.70
+1,051,413.30
+3
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 8190
+1
+17.00
+573,835.00
+4
+Qarku Tiranë/ZVRPP Tiranë/Zona kadastrale 8360
+2
+6.70
+448,692.30
+TOTALI, DREJTORIA TIRANË SHTESAT
+5
+42.30
+2,268,150.70
+1
+11
+DURRËS
+Qarku Durrës, ZVRPP Durrës, Zona Kadastrale 8518
+1
+569.00
+11,002,184.00
+TOTALI, DREJTORIA DURRËS
+1
+569.00
+11,002,184.00
+TOTALI
+58
+12,665.87
+74,212,100.69
+LISTA EMËRORE E PËRFITUESVE TË KALIMIT TË SË DREJTËS SË PRONËSISË DHE MASA E VLERA E SHPËRBLIMIT PËR SUBJEKTET QË KOMPENSOHEN
+Nr. rendor
+Të dhënat e pasurisë së legalizuar
+Gjendja juridike (pronësia)
+Pjesa takuese në parcelë (m²)
+Sipërfaqja për kalim pronësie (m²)
+Kompensimi i pronarëve
+Emër
+Atësi
+Mbiemër
+Leja e legalizimit
+Emër
+Atësi
+Mbiemër
+Nr. i pasurisë
+Masa e kompensi-mit (m²)
+Çmimi (lekë/m²)
+Shuma - Vlera e kompensi-mit (lekë)
+Seksioni
+i
+veçantë
+Numër
+Datë
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16 (16=14*15)
+17
+DREJTORIA E ALUIZNI-t BERAT
+QARKU BERAT, BASHKIA BERAT
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 8501
+1
+ALKETA
+REFAT
+ÇOBO
+10002183
+6.1.2018
+SHTET
+38
+2
+YLLI
+HAMET
+SELAMAJ
+10002202
+21.2.2013
+SHTET
+100
+3
+YLLI
+HAMET
+SELAMAJ
+10002201
+21.2.2014
+SHTET
+65.3
+4
+HAMET
+DASHMIR
+SELAMAJ
+10002288
+29.3.2018
+SHTET
+190
+5
+SAFET
+BEKTASH
+TOMORI
+10002204
+21.2.2018
+SHTET
+350
+QARKU BERAT, ZVRPP URA VAJGURORE, ZONA KADASTRALE 1896
+6
+NURI
+RAMADAN
+ÇOBO
+10002243
+21.3.2018
+SHTET
+355
+7
+FLORJANO
+ROLANDO
+STEFANI
+10000983
+1.2.2017
+SHTETËRORE
+21
+8
+MARJANTHI
+ZOI
+STEFANI
+10000984
+1.2.2017
+SHTETËRORE
+52.2
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 8501
+9
+GENCI
+AMET
+BERBERI
+10002154
+27.12.2017
+SHTET
+37
+10
+KASTRIOT
+FAIK
+TAIPI
+10001170
+20.4.2017
+SHTET
+294
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 8503
+11
+FERDINAND
+SHABAN
+KURTI
+10002122
+14.12.2017
+SHTET
+30.7
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 3682
+12
+RENATO
+XHEMAL
+QEVANI
+10001572
+29.5.2017
+SHTET
+344
+13
+XHEMAL
+SAMI
+QEVANI
+10001503
+4.5.2017
+SHTET
+108
+14
+XHEMAL
+SAMI
+QEVANI
+10001439
+3.5.2017
+SHTET
+462.5
+QARKU BERAT, ZVRPP KUÇOVË, ZONA KADASTRALE 2179
+15
+MIRJAN
+FEJZI
+KOXHAJ
+10000707
+7.9.2016
+SHTET
+270
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 3195
+16
+HAXHI
+TOFIK
+FISKA
+10002272
+27.3.2018
+SHTET
+160
+QARKU BERAT, ZVRPP URA VAJGURORE, ZONA KADASTRALE 3555
+17
+SOKOL
+FASLLI
+MEMA
+10002227
+27.2.2018
+SHTET
+73.5
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 8502
+18
+AGIM
+KASËM
+MERKAJ
+10002228
+27.2.2018
+SHTET
+20.4
+QARKU Berat, ZVRPP KUÇOVË, ZONA KADASTRALE 2310
+19
+ENTILJANO
+GRANIT
+SPAHIU
+10002246
+22.3.2018
+SHTET
+171.4
+20
+XHEVAIR
+IZET
+TABAKU
+10002239
+21.3.2018
+SHTET
+500
+QARKU Berat, ZVRPP KUÇOVË, ZONA KADASTRALE 2548
+21
+LAVDOSH
+ILMI
+ADËRI
+10002118
+13.12.2017
+SHTET
+330
+QARKU Berat, ZVRPP BERAT, ZONA KADASTRALE 1217
+22
+NOVRUS
+AVDULLA
+KËRKUTA
+10001144
+4.4.2017
+SHTET
+360
+QARKU Berat, ZVRPP SKRAPAR, ZONA KADASTRALE 3019
+23
+ILIR
+NEHAT
+KALLUÇI
+10002233
+28.2.2018
+SHTET
+430
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 2349
+24
+ALGEN
+GËZIM
+BAZAJ
+10001930
+2.10.2017
+SHTET
+282.8
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 3032
+25
+PETRIT
+ADEM
+BAHO
+10001969
+11.10.2017
+SHTET
+97.6
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 3956
+26
+KUJTIM
+NAZIF
+ZYLALI
+10002172
+16.1.2018
+SHTET
+300
+QARKU Berat, ZVRPP KUÇOVË, ZONA KADASTRALE 2918
+27
+GËZIM
+HALIM
+QAMO
+10001581
+30.5.2017
+SHTET
+300
+28
+KRENAR
+MUÇO
+KAPEDANI
+10001030
+23.2.2017
+SHTET
+204
+QARKU BERAT, ZVRPP KUÇOVË, ZONA KADASTRALE 2310
+29
+EDUART
+AVDURAMAN
+KOLONJA
+10000906
+12.12.2016
+SHTET
+12.6
+30
+SOKRAT
+THIMI
+DHANA
+10000660
+9.8.2016
+SHTET
+300
+QARKU BERAT, ZVRPP BERAT, ZONA KADASTRALE 8503
+31
+HAJREDIN
+ELMAS
+LYBESHARI
+10001058
+28.2.2017
+SHTET
+300
+32
+KOSTA
+HAMZA
+RUÇI
+10002196
+29.1.2018
+SHTET
+250
+33
+SEFEDIN
+MYRTEZA
+DOKO
+10001053
+28.2.2017
+SHTET
+150
+QARKU BERAT, ZVRPP URA VAJGURORE, ZONA KADASTRALE 1515
+34
+ZAMIR
+FETI
+TAFA
+10002242
+22.3.2018
+SHTET
+91.4
+DREJTORIA E ALUIZNI-t DIBËR
+QARKU DIBËR, BASHKIA DIBËR
+QARKU DIBËR, ZVRPP DIBËR, ZONA KADASTRALE 2932
+35
+Pajtim
+Mehdi
+Mediu
+987831
+26.2.2018
+PRONAR+SHTET
+500
+Asllan
+Bardulla
+7/62
+55.50
+3412
+189,366.00
+Arben
+Shuaip
+Shehu
+5/184
+231.20
+3412
+788,854.40
+Basri
+Nerulla
+Shehu
+Drita
+Rexhep
+Shehu
+Tomor
+Shuaip
+Shehu
+Xhelal
+Shuaip
+Shehu
+DREJTORIA E ALUIZNI-t ELBASAN
+QARKU ELBASAN, BASHKIA ELBASAN
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 1095
+36
+TAJAR
+BEHXHET
+HOXHA
+5050220
+9.9.2016
+SHTET
+500
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 1530
+37
+YMER
+SHYQYRI
+SHKEMBI
+7070214
+1.11.2016
+SHTET
+435.9
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 1630
+38
+FLORENT
+SKËNDER
+TAFA
+1030601
+2.12.2016
+SHTET
+407.4
+SONILA
+JEMIN
+TAFA
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2163
+39
+GEZIM
+KADRI
+QEVANI
+9974347
+7.7.2016
+SHTET
+360
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2441
+40
+SELMAN
+BIDO
+DEDJA
+9595002
+1.10.2016
+SHTET
+272.7
+41
+ZEDEF
+YZEIR
+HOXHA
+3040166
+20.8.2016
+SHTET
+500
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2459
+42
+FASLLI
+SABRI
+RAGA
+5055032
+22.12.2016
+SHTET
+285.5
+NIKO
+FASLLI
+RAGA
+ALFRED
+FASLLI
+RAGA
+42
+QAMIL
+YZEIR
+METUSHI
+9696010
+3.8.2016
+SHTET
+469.5
+RUSHIT
+YZEIR
+METUSHI
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2523
+44
+GAZMIR
+RIZA
+XIBRRAKU
+5757083
+20.10.2016
+SHTET
+325.8
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2559
+45
+LUAN
+ISUF
+MYZEQARI
+7676034
+23.7.2016
+SHTET
+368.2
+46
+ELTON
+FATMIR
+XHELILI
+9659578
+4.8.2017
+SHTET
+500
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 3422
+47
+AVNI
+IDRIS
+BAKU
+5050233
+10.9.2016
+SHTET
+429.7
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 8525
+48
+APOSTOL
+MITËR
+SHQAU
+8080094
+17.5.2017
+TË TRETËVE
+3
+SHAZIVAR
+MASAR
+KARAOSMANI
+29/228
+3
+14,192
+42,576
+SHEGUSH
+MASAR
+KOSOVA
+FATBARDH
+SAMI
+DOKO
+ARBEN
+SAMI
+DOKO
+NESFIJE
+TEKI
+SELENICA (TELA)
+XHULJETA
+VENEMIN
+SHQAU
+BULENT
+TEKI
+TELA
+EDMOND
+TEKI
+TELA
+AGRON
+TEKI
+TELA
+GJERAK
+MAZLLEM
+KARAISKAJ
+FELATUN
+MAZLLEM
+KARAISKAJ
+NEBI
+ISMAIL
+SEFA
+HAJALI
+ISMAIL
+YPI
+XHANETA
+ISMAIL
+PRODANI
+SUHELA
+XHEVDET
+LIBOHOVA
+TEUTA
+SKENDER
+FOR A
+LAVDIJE
+SKENDER
+KALASA
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 1303
+49
+RRAPUSH
+LIMAN
+BUZANI
+4050193
+27.12.2016
+SHTETËRORE
+403.5
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2328
+50
+LLAZAR
+VANGJEL
+BEZHANI
+5858971
+28.9.2017
+SHTETËRORE
+180.5
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2654
+51
+TEBA SHPK
+5858104
+26.9.2017
+SHTETËRORE
+692.1
+52
+XHEVDET
+JANUZ
+SHABANI
+30601311
+13.12.2017
+SHTETËRORE
+333.1
+53
+XHAFERR
+HALIL
+PISHA
+405057
+25.4.2017
+SHTETËRORE
+500
+54
+EMILJAN
+NAZMI
+ZEJNELI
+1620834
+15.11.2016
+SHTETËRORE
+396
+55
+EDMOND
+ZEQIR
+ÇARKU
+8585588
+25.10.2017
+SHTETËRORE
+406.5
+LEONARD
+ZEQIR
+ÇARKU
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 2706
+56
+PETRO
+MIHAL
+SINANI
+30601340
+13.12.2017
+SHTETËRORE
+319.8
+57
+HYQMET
+LIMON
+BRAGJEÇI
+3020602
+16.3.2017
+SHTETËRORE
+411
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 3376
+58
+ILIR
+ISMAIL
+KLLOGJRI
+8558985
+25.10.2017
+SHTETËRORE
+200
+59
+PERPARIM
+JOSIF
+ÇAKALLI
+30605854
+19.12.2017
+SHTETËRORE
+275.7
+60
+AGRON
+VEIZ
+MUÇA
+3068595
+19.12.2017
+SHTETËRORE
+262.5
+61
+KAPLLAN
+XHEMAL
+LLESHI
+89544
+30.11.2017
+SHTETËRORE
+430.2
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 3589
+62
+NAZMI
+GANI
+HOXHA
+9090001
+1.8.2016
+SHTETËRORE
+410.1
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 8526
+63
+SKENDER
+KASEM
+ÇARKU
+5892814
+31.1.2018
+SHTETËRORE
+296.4
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 8527
+64
+ANDREA
+YZEDIN
+SHAHINI
+5050062
+2.9.2016
+PRONAR
+500
+ADEM
+BAKALLI
+198/2
+500
+12764
+6,382,000
+AISHE
+BAKALLI
+65
+SHKËLQIM
+ISLAM
+ELEZI
+6060426
+28.10.2016
+PRONAR
+275.3
+DELIMET
+MEHMET
+BANGA
+303/1
+275.3
+12,764
+3,513,929.2
+NDALOHEN VEPRIMET MBI PASURINË DERI NË ZGJIDHJEN E PROBLEMIT TË KRIJUAR NGA REGJISTRIMI I PARREGULLT NË SISTEMIN HIPOTEKOR
+MERITA
+NEZIR
+ELEZI
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 8526
+66
+BEXHET
+TEFIK
+KAPLLANI
+30401585
+14.6.2017
+PRONAR
+706.2
+HEDIJE
+LEKA
+327/1
+706.2
+12,764
+9,013,936.8
+VENDOSET SEKUESTRO ME SHKRESËN NR. 01-15/22GJ. REGJ, DATË 28.6.2017
+XHULJETA
+LEKA (TREPSENISHTI
+ARBANA
+LEKA (GRECA)
+CENO
+METUSHI
+EDIS
+CENO
+METUSHI
+SABRIJE
+VOGLI
+KAROLDA
+ALI
+VOGLI
+MIRELA
+ALI
+DOCI
+MERITA
+BESIM
+IPEKU
+ARDJAN
+MEHMET
+IPEKU
+LUELDA
+RAMIZ
+IPEKU
+BUKURIJE
+RAHMAN
+KAPLLANI
+MEHMET
+IPEKU
+FATMIRA
+XHAFERR
+IPEKU
+ILIRJAN
+REXHEP
+LEKA
+ALI
+MUSTAFA
+SUBASHI
+ISMAIL
+MUSTAFA
+SUBASHI
+ALEMSHA
+SUBASHI
+MANUSHAQE
+SUBASHI
+NEXHMIJE
+SUBASHI
+SUZANA
+SUBASHI
+NAZMI
+SUBASHI
+FATUSHE
+SUBASHI
+DURIM
+SUBASHI
+SHPRESA
+SUBASHI
+ERMIRA
+SUBASHI
+BESA
+SUBASHI
+QARKU ELBASAN, ZVRPP ELBASAN, ZONA KADASTRALE 8525
+67
+OSMAN
+YMER
+JAZO
+8080890
+29.9.2015
+PRONAR (248.8), SHTET (141.7)
+390.5
+MAHMUT
+HASTOPALLI
+27/176
+296.8
+14,192
+4,212,185.6
+FATIME
+HASTOPALLI
+SHKENDI
+RUSI
+LUAN
+BAHOLLI
+TEFTA
+BAHOLLI
+NAZIF
+BAHOLLI
+SKENDER
+BAHOLLI
+LAVDIJE
+SERJANI
+GAZMEND
+HASEKIU
+68
+OSMAN
+YMER
+JAZO
+66398594
+2.2.2016
+PRONAR
+48
+IBRAHIM
+HASEKIU
+ARDJAN
+HASEKIU
+FAIK
+SINANI
+MEHMET
+GRACENI
+VJOLLCA
+PAPADHIMITRI
+ILIR
+GRACENI
+ULIS
+HASTOPALLI
+JETA
+BASHA
+ENGJELL
+DAKU
+ARJANA
+PAPAMIHALI
+ERMIRA
+FADIL
+JAZO
+RIZA
+ÇIFTJA
+ZYRA
+MALUCA
+MAKENSEN
+BUNGO
+ATILIJE
+BODINAKU
+SHYQYRI
+HYSKJA
+LORETA
+HYSKJA
+HYSEN
+HYSKJA
+FERIJE
+BYLYKBASHI
+ADRIANO
+HASTOPALLI
+ORNELA
+HASTOPALLI
+DREJTORIA E ALUIZNI-t KORÇË
+QARKU KORÇË, BASHKIA KORÇE
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 8561
+69
+ASTRIT
+MYRTEZA
+BRAHIMLLARI
+2222375
+13.12.2017
+SHTET
+1/2
+71.5
+70
+SALI
+MYRTEZA
+BRAHIMLLARI
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 8562
+71
+EDI
+ANDON
+BERXHIKU
+2222306
+22.11.2017
+SHTET
+25.4
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 3014
+72
+XHAFER
+MUHAREM
+GJYSHLLARI
+2222672
+26.1.2018
+SHTETI
+208.5
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 8562
+73
+ZOI
+TOLI
+TARUSHA
+2223067
+23.3.2018
+SHTETËRORE
+150
+QARKU KORÇË, ZVRPP DEVOLL, ZONA KADASTRALE 2081
+74
+SPIRO
+KOSTANDIN
+PACILI
+2222221; 2222240
+9.11.2017; 13.11.2017
+SHTET
+388
+TASHUL
+JORGO
+PACILI
+MIHALLAQ
+KOSTANDIN
+PACILI
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 2573
+75
+AGIM
+XHEVAHIR
+HAZISLLARI
+2222343
+5.12.2017
+SHTET
+298.4
+QARKU KORÇË, ZVRPP POGRADECKORÇË, ZONA KADASTRALE 1553
+76
+PETRO
+VASO
+SHUKULLI
+22222581
+9.1.2018
+SHTETI
+60.7
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 2641
+77
+ILIRJAN
+BAJRAM
+DINELLARI
+2222686
+29.1.2018
+SHTETI
+699
+78
+ILIRJAN
+BAJRAM
+DINELLARI
+2222586
+10.1.2018
+SHTETI
+45
+79
+ILIRJAN
+BAJRAM
+DINELLARI
+2222585
+10.1.2018
+SHTETI
+15.9
+80
+ILIRJAN
+BAJRAM
+DINELLARI
+2222584
+11.1.2018
+SHTETI
+40.8
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 8564
+81
+RAMADAN
+RAHMI
+LAZELLARI
+161000
+14.9.2017
+TË TRETËVE
+362.6
+SERVETE
+FIQIRI
+DYRMISHLLARI
+7/1167
+362.60
+8,537
+3,095,516.20
+DIFERENCË SIPËRFAQEJE ME OBJEKTET E SHITURA NGA SHTETI JANË BRENDA SIP. SË PËRGJITHSHME. PËR KËTË PASURI KA NJË ANKESË NGA KRYEREGJISTRUESI NË PRITJE PËR ZGJIDHJE.
+FEDANE
+FIQIRI
+QORRI
+MIRJETE
+FIQIRI
+QORRI
+DIANA
+FIQIRI
+QORRI
+ASLLAN
+FIQIRI
+QORRI
+PERPARIM
+FIQIRI
+QORRI
+BUKURIE
+FIQIRI
+QORRI
+MESARE
+FIQIRI
+QORRI
+82
+MYRTO
+FETI
+IBRO
+110784
+18.8.2015
+TË TRETËVE
+204
+SERVETE
+FIQIRI
+DYRMISHLLARI
+7/1347
+204.00
+8,537
+1,741,548.00
+DIFERENCË SIPËRFAQEJE ME OBJEKTET E SHITURA NGA SHTETI JANË BRENDA SIP. SË PËRGJITHSHME.
+FEDANE
+FIQIRI
+QORRI
+MIRJETA
+FIQIRI
+QORRI
+DIANA
+FIQIRI
+QORRI
+ASLLAN
+FIQIRI
+QORRI
+PERPARIM
+FIQIRI
+QORRI
+BUKURIE
+FIQIRI
+QORRI
+MESARE
+FIQIRI
+QORRI
+83
+SOTIR
+FANI
+BACKA
+160547
+9.12.2016
+SHTET
+51.9
+MARIE
+SELAJDIN
+BACKA
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 1145
+84
+ËNGJELLUSH
+SKENDER
+BEQIRI
+2222660
+24.1.2018
+SHTETI
+500
+QARKU KORÇË, ZVRPP POGRADEC, ZONA KADASTRALE 8582
+85
+Durim
+Petrit
+Hyka
+22221348
+13.12.2017
+SHTETI
+171.5
+86
+Engjellush
+Qani
+Belishta
+22221362
+14.12.2017
+SHTETI
+348.5
+QARKU KORÇË, ZVRPP POGRADECKORÇË, ZONA KADASTRALE 1553
+87
+HEKURI
+SHEFKI
+PEPI
+2223062
+23.3.2018
+SHTETI
+737.5
+88
+HEKURI
+SHEFKI
+PEPI
+2223063
+223.3.2018
+SHTETI
+203
+89
+MARIGLEN
+HEKURI
+PEPI
+2222609
+15.1.2018
+SHTETI
+343.8
+QARKU KORÇË, ZVRPP KORÇË, ZONA KADASTRALE 3437
+90
+Maksi
+Miti
+Qirici
+161005
+8.10.2017
+SHTETI
+458.8
+DREJTORIA E ALUIZNI-t LUSHNJË
+QARKU FIER, BASHKIA LUSHNJË
+91
+ARJAN
+FEJZI
+LIKJA
+Nr. 1000000127, datë 16.6.2017
+69
+35
+VESEL
+MUSTAFA
+LIKJA
+3/118
+35
+8954
+313390
+NABILE
+MUSTAFA
+LIKJA
+SABIJE
+MUSTAFA
+LIKJA
+BALLKËZE
+HAZIS
+LIKJA
+MUSA
+HAZIS
+LIKJA
+NIGJARE
+HAZIS
+LIKJA
+HANE
+LIKJA
+BEHAR
+HAZIS
+LIKJA
+AZIS
+FEJZI
+LIKJA
+ROLAND
+FEJZI
+LIKJA
+DREJTORIA E ALUIZNI-t SHKODËR
+QARKU SHKODËR, BASHKIA SHKODËR
+QARKU SHKODËR, ZVRPP SHKODËR, ZONA KADASTRALE 8591
+92
+GJELOSH
+LULASH
+LAMTHI
+99660
+5.12.2016
+TË TRETËVE
+828.9
+PREKE
+FRAN
+KULLA
+20/106
+828.9
+8511
+7054767.9
+Nr. dok. 016255, datë. regj. 24.2.2015, K.huaje 355/265, datë 19.2.2015, Pasuria hipotekohet në favor të huadhënësit Gjon Vat Lejthija për të garantuar përmbushjen e kushteve e afateve të k. hua dhe pagimin e huas
+93
+RUZHDI
+RIFAT
+VRANJA
+96470
+2.9.2016
+TË TRETËVE + SHTETËRORE
+265
+RAMADAN
+THORJA
+13/254
+44.3
+8511
+377037.3
+94
+MAHIR
+ISMAIL
+HOTI
+101386
+14.4.2017
+SHTETËRORE
+316
+95
+ISMET
+FADIL
+HOXHA
+95293
+8.2.2017
+SHTETËRORE
+370
+96
+GLITON
+FADIL
+DIBRA
+101903
+31.5.2017
+TË TRETËVE+ SHTETËRORE
+110
+ISMET
+RAMIZ
+DEBATI
+3/726
+38
+8511
+323418
+QARKU SHKODËR, ZVRPP SHKODËR, ZONA KADASTRALE 8592
+97
+SHKELQIM
+ISMET
+XHAFERI
+101848
+11.5.2017
+SHTETËRORE
+400
+98
+GLEDIS
+BASHKIM
+HALLUNEJ
+101401
+21.4.2017
+SHTETËRORE
+500
+OREJETA
+QEMAL
+HALLUNEJ
+MARSIDA
+BASHKIM
+HALLUNEJ
+99
+AKIB
+ASIM
+BEHRI
+101192
+24.3.2017
+SHTETËRORE
+176
+100
+SHAQIR
+RUZHDI
+ARKIVANI
+94937
+12.6.2017
+SHTETËRORE
+294
+101
+YLLI
+GAFURR
+MUÇA
+99140
+30.11.2016
+SHTETËRORE
+456
+102
+DORIAN
+SHYQYRI
+NEZIRI
+100709
+27.2.2017
+SHTETËRORE
+177
+QARKU SHKODËR, ZVRPP MALESI E MADHE, ZONA KADASTRALE 3834
+103
+VEHBI
+HASAN
+TRUNGAJ
+96078
+12.8.2016
+Shtetërore
+116
+QARKU SHKODËR, ZVRPP SHKODËR, ZONA KADASTRALE 2363
+104
+ARTUR
+MARK
+GJONAJ
+99808
+22.12.2016
+SHTETËRORE
+558.9
+DREJTORIA E ALUIZNI-t VLORË
+QARKU VLORË, BASHKIA VLORË
+QARKU VLORË, ZVRPP VLORË, ZONA KADASTRALE __8601__
+105
+KRENAR
+BESHO
+MATUKA
+108285
+7.6.2017
+TË TRETËVE +SHTET
+140.07
+357
+SHQIPONJA
+MATUKA
+35/102
+140.07
+10903
+1527183.21
+106
+FIQIRI
+XHELAL
+XHAFERI
+209936 (28/09/2017)
+SHTET
+75
+AFERDITA
+MYFIT
+XHAFERI
+107
+ASTRIT
+FERIK
+LIKAJ
+106486 (20/01/2017)
+SHTET
+500
+QARKU VLORË, ZVRPP VLORË, ZONA KADASTRALE __8604__
+108
+ERVIS
+FERIK
+META
+105317
+13.92016
+SHTET
+420
+DREJTORIA E ALUIZNI-t ZONAT TURISTIKE
+QARKU SHKODËR, BASHKIA SHKODËR
+QARKU SHKODËR, ZVRPP SHKODËR, ZONA KADASTRALE 3072
+109
+ERJAN HILMI KAPLLANAJ
+700784
+7.4.2016
+SHTET
+500
+110
+GJERGJ MARK KRONI
+701327
+16.12.2016
+SHTET
+133.05
+DREJTORIA E ALUIZNI-T _LEZHË
+QARKU _LEZHË, BASHKIA _LEZHË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _2364
+111
+GJON
+MHILL
+LLESHI
+818215
+27.9.2016
+SHTETËRORE
+14.04
+E LIRË
+112
+MRIKE
+NIKOLL
+PRENGA
+811882
+24.8.2017
+SHTETËRORE
+194
+E LIRË
+113
+ZEF
+EJELL
+GAZULLI
+80259
+13.4.2017
+SHTETËRORE
+500
+E LIRË
+114
+GAC
+PASHUK
+GAZULLI
+816474
+19.4.2016
+SHTETËRORE
+452
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1986
+115
+GLEN
+TOM
+DEDA
+819959
+20.4.2017
+E TË TRETËVE
+215.07
+DIELLE
+DED
+SHYTAJ
+60/23
+215.07
+337
+72478.59
+ALBERT
+GJEK
+DEDA
+EDISON
+GJEK
+DEDA
+ENGLEIDA
+GJEK
+DEDA
+GJEK
+DED
+DEDA
+MANUSHAQE
+TOM
+DEDA
+ORIEL
+TOM
+DEDA
+TONE
+GJON
+DEDA
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _2053
+116
+LLESH
+PREÇ
+COLI
+811985
+11.9.2017
+SHTETËRORE
+344
+E LIRË
+117
+DODE
+PREÇ
+COLI
+811169
+9.9.2017
+SHTETËRORE
+337
+E LIRË
+QARKU __LEZHË, ZVRPP _MIRDITE, ZONA KADASTRALE _2298
+118
+ZEF
+NDUE
+KALAJ
+818008
+30.8.2016
+SHTETËRORE
+395
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _2995
+119
+VALENTIN
+GEG
+SMAÇI
+811079
+13.6.2017
+SHTETËRORE
+156.2
+ARBEN
+VELI
+ALIA
+147/31
+60.8
+254
+15443.2
+E TË TRETËVE
+60.8
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _3641
+120
+FRAN
+GJERGJ
+GERA
+811163
+24.7.2017
+SHTETËRORE
+140
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _8631
+121
+ALTIN
+ZEF
+NDOKA
+816802
+30.1.2017
+SHTETËRORE
+270
+E LIRË
+122
+MARTIN
+PJETER
+KOLA
+811862
+23.8.2017
+SHTETËRORE
+324
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _8632
+123
+ARMANDO
+PJETER
+NOKA
+818179
+18.4.2017
+SHTETËRORE
+353.5
+E LIRË
+124
+LEK
+NIKOLL
+PRENGA
+21477
+6.6.2017
+SHTETËRORE
+500
+E LIRË
+125
+DRITAN
+GJON
+CEKA
+816828
+16.6.2016
+SHTETËRORE
+500
+E LIRË
+126
+ELVIN
+GEZIM
+CARA
+17520
+22.11.2017
+SHTETËRORE
+159
+E LIRË
+127
+FRAN
+MARK
+KOLA
+11284
+31.3.2017
+SHTETËRORE
+440
+E LIRË
+128
+BARDHYL
+FRROK
+PACI
+818160
+20.9.2016
+SHTETËRORE
+128.88
+E LIRË
+129
+PASHKO
+RROK
+DEDA
+819005
+13.2.2017
+SHTETËRORE
+60.22
+E LIRË
+130
+DENIS
+VASIL
+PJETRUSHAJ
+818065
+8.6.2017
+SHTETËRORE
+303
+E LIRË
+131
+TOM
+SIMON
+PJETRUSHAJ
+811242
+16.10.2017
+SHTETËRORE
+248
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1086
+132
+NIK
+DED
+PERAJ
+8111855
+1.8.2017
+SHTETËRORE
+164
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1087
+133
+NIKOLL
+GJON
+FILIPI
+817826
+29.7.2016
+SHTETËRORE
+46
+E LIRË
+134
+PJETER
+MARK
+MARKU
+818134
+14.9.2016
+SHTETËRORE
+375
+E LIRË
+135
+LADOVIK
+PREK
+VATAJ
+811182
+15.9.2017
+SHTETËRORE
+220
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _2029
+136
+EDUART
+RROK
+PEMAJ
+811208
+9.10.2017
+SHTETËRORE
+195
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1220
+137
+NDUE
+NDREC
+MARKU
+816551
+29.4.2016
+SHTETËRORE
+287.22
+FILIP
+FRANI
+98/86
+102.78
+228
+23433.84
+E TË TRETËVE
+102.78
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1987
+138
+LEON
+ZEF
+NDOCI
+811427
+1.12.2017
+SHTETËRORE
+190
+E LIRË
+139
+ALFRED
+LEK
+NDOKA
+83453
+26.7.2016
+SHTETËRORE
+264.15
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _3126
+140
+TEODOR
+MARK
+PERLLESHI
+811365
+20.11.2017
+SHTETËRORE
+173.5
+E LIRË
+141
+ALBERT
+DOD
+KQIRA
+819885
+14.6.2017
+SHTETËRORE
+115.75
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _8631
+142
+ZEF
+NDREC
+FILIPI
+811070
+12.6.2017
+SHTETËRORE
+500
+E LIRË
+DILE
+FRROK
+FILIPI
+PETRIT
+ZEF
+FILIPI
+143
+KOL
+PASHK
+GEGA
+816986
+8.7.2016
+SHTETËRORe
+58
+E LIRË
+QARKU __LEZHË, ZVRPP _KURBIN, ZONA KADASTRALE _2364
+144
+PETRIT
+PRENG
+PERGJIVUKA
+818191
+14.9.2016
+SHTETËRORE
+500
+E LIRË
+GEZIM
+PRENG
+PERGJIVUKA
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1087
+145
+DED
+SIMON
+CELAJ
+811234
+18.10.2017
+SHTETËRORE
+180
+E LIRË
+TONIN
+DED
+CELAJ
+MARGERITA
+DEDE
+LULGJURAJ
+146
+ILIR
+KOLE
+MARKU
+818072
+31.8.2016
+SHTETËRORE
+240
+E TË TRETËVE
+LAC
+LAZER
+GEGA
+360/99
+215.5
+303
+65296.5
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1716
+147
+PRENG
+GJIN
+PREKA
+811447
+13.12.2017
+SHTETËRORE
+153
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1875
+148
+BARDH
+GJON
+GJERGJI
+27600
+25.11.2016
+E TË TRETËVE
+405
+PAL
+FRROK
+PJETRI
+92/51
+297.5
+289
+85,977.50
+PAL
+FRROK
+PJETRI
+92/50
+107.5
+289
+31,067.50
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1987
+149
+PRENUSHE
+PRENG
+BROZI
+819957
+29.4.2017
+SHTETËRORE
+813
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _2180
+150
+EDISON
+NIKOLL
+DEDA
+818785
+15.12.2016
+E TË TRETËVE
+132.6
+YLLI
+HAMZ
+RESULI
+339/107
+101.22
+331
+33503.82
+E TË TRETËVE
+LULJETA
+SHEFQET
+RESULI
+339/106
+31.38
+331
+10386.78
+151
+NIKOLL
+DED
+DEDA
+36973
+29.11.2016
+E TË TRETËVE
+474
+YLLI
+HAMZ
+RESULI
+339/107
+474
+331
+156894
+152
+ANTON
+BARDHOK
+PRENGA
+819911
+14.4.2017
+E TË TRETËVE
+DRITAN
+SEFJAN
+RESULI
+339/139
+300
+331
+99300
+JULJAN
+SEFJAN
+RESULI
+SOFIE
+LUF
+RESULI
+153
+BARDHOK
+PRENG
+PRENGA
+819912
+14.4.2017
+E TË TRETËVE
+DRITAN
+SEFJAN
+RESULI
+339/139
+279
+331
+92349
+JULJAN
+SEFJAN
+RESULI
+SOFIE
+LUF
+RESULI
+QARKU __LEZHË, ZVRPP _KURBIN, ZONA KADASTRALE _2364
+154
+PJETER
+DAVID
+SELALA
+817709
+21.7.2016
+SHTETËRORE
+435
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _2544
+155
+BARDHOK
+FRROK
+ZEFI
+819845
+31.3.2017
+SHTETËRORE
+330
+E LIRË
+156
+LEKE
+FRROK
+ZEFI
+811169
+25.7.2017
+SHTETËRORE
+169
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _3126
+157
+ANTON
+ALI
+HILA
+819827
+31.3.2017
+SHTETËRORE
+98
+E LIRË
+LIZA
+JEMIN
+HILA
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _3351
+158
+ERJON
+FRROK
+KOCA
+819854
+31.3.2017
+SHTETËRORE
+428
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _3968
+159
+FRAN
+GJERGJ
+LULAJ
+818128
+16.9.2016
+423
+ANTONETA
+GJETO
+MIRI
+22/1
+423
+226
+95598
+DONIKA
+GJETO
+LOSHI
+DRANE
+MARK
+GJONAJ
+FLORINTE
+GJETO
+LUCA
+GJERGJ
+MARK
+LUCAJ
+KOLE
+MARK
+LUCAJ
+LLESH
+MARK
+LUCAJ
+MARE
+DED
+MARTINI
+NDUE
+GJETO
+LEKAJ
+PRENG
+GJETO
+LEKAJ
+VASEL
+GJETO
+LEKAJ
+VERA
+NIKOLLE
+LULAJ
+VERONIKA
+GJETO
+DUCI
+MIRASH
+GJOK
+THERÇAJ
+KANTO
+MIRASH
+THERÇAJ
+ZEF
+MIRASH
+THERÇAJ
+PJERIN
+MIRASH
+THERÇAJ
+MANE
+MIRASH
+THERÇAJ
+GJON
+MIRASH
+THERÇAJ
+LEC
+MIRASH
+THERÇAJ
+JETA
+MIRASH
+THERÇAJ
+EVITA
+VIKTOR
+THERÇAJ
+ARMANDO
+VIKTOR
+THERÇAJ
+MARIOS
+VIKTOR
+THERÇAJ
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _8631
+160
+BAKI
+RIZA
+REÇI
+8111773
+25.7.2017
+SHTETËRORE
+273.78
+E LIRË
+161
+ARTAN
+FRAN
+PERNOKAJ
+811604
+30.1.2018
+E TË TRETËVE
+386
+PJETER
+ZEF
+PRENDI
+6/235
+386
+8511
+3285246
+162
+ANDREA
+NIKOLL
+MARKU
+819961
+20.4.2017
+SHTETËRORE
+16.4
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _8632
+163
+INDRIT
+FETAH
+TORBA
+816314
+18.3.2016
+SHTETËRORE
+221
+E TË TRETËVE
+FRAN
+GJON
+TOMA
+8/400
+195.9
+8511
+1667304.9
+LUIGJ
+KOL
+GJOKA
+FRAN
+GJON
+TOMA
+8/398
+20.7
+176177.7
+KUFIZIM ME URDHER TE REGJISTRUESIT
+LUIGJ
+KOL
+GJOKA
+164
+TOM
+KOL
+ULAJ
+11512
+27.12.2016
+SHTETËRORE
+122
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1087
+165
+KOLE
+MARK
+MARKU
+816793
+9.6.2016
+E TË TRETËVE
+500
+LAC
+LAZER
+GEGA
+360/99
+500.00
+303
+151,500.00
+KUFIZIM
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1099
+166
+MARK
+SADRI
+FASLLIA
+21227
+28.12.2016
+SHTETËRORE
+500
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1986
+167
+PREND
+GJOK
+SUTA
+818836
+30.12.2016
+E TË TRETËVE
+133
+HYSNI
+ALI
+ELEZI
+119/8
+133
+337
+44821
+KUFIZIM
+FATJON
+ALI
+ELEZI
+HYSEN
+ALI
+ELEZI
+LILJANA
+ALI
+ELEZI
+XHEVAHIRE
+ALI
+ELEZI (MAÇOVILA)
+168
+PREND
+GJOK
+SUTA
+818852
+30.12.2016
+E TË TRETËVE
+470
+HYSNI
+ALI
+ELEZI
+119/8
+470
+337
+158390
+KUFIZIM
+FATJON
+ALI
+ELEZI
+HYSEN
+ALI
+ELEZI
+LILJANA
+ALI
+ELEZI
+XHEVAHIRE
+ALI
+ELEZI (MAÇOVILA)
+169
+AUREL
+VALENTIN
+DEDA
+811828
+21.3.2018
+E TË TRETËVE
+730
+RIDIGER
+HYSNI
+ÇOKAJ
+35/28
+730
+337
+246010
+170
+MARK
+NIKOLL
+GJOKAJ
+811823
+20.3.2018
+SHTETËRORE
+40
+E LIRË
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _1987
+171
+FAHRIJE
+MEM
+CURRAJ
+8111804
+27.7.2017
+E TË TRETËVE
+348
+PREL
+KOLEC
+TOMA
+12/8.
+348.00
+3,435
+1,195,380.00
+KUFIZIM OBJEKT INFORMAL
+172
+VERA
+NIKOLL
+FRROKU
+818171
+20.9.2016
+E TË TRETËVE
+270
+KRISTINA
+MARK
+DESKAJ
+191/24
+83.89
+3,435
+288,162.15
+NDUE
+HILE
+BUSHI
+191/32
+75.99
+3,435
+261,025.65
+NIKOLL
+GJON
+PREKA
+191/37
+80.49
+3,435
+276,483.15
+NIKOLL
+GJON
+PREKA
+191/41
+29.63
+3,435
+101,779.05
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _2660
+173
+AGRON
+PAL
+KOKAJ
+818642
+25.11.2016
+SHTETËRORE
+221
+KUFIZIM
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _3351
+174
+HALIT
+CAN
+AVDIJA
+817773
+28.7.206
+SHTETËRORE
+98
+KUFIZIM
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _8631
+175
+FATJON
+PAL
+LEKGEGAJ
+816925
+23.6.2016
+SHTETËRORE
+116.7
+E LIRË
+176
+ELEZ
+SHERIF
+DUNAGJ
+818926
+27.1.2017
+E TË TRETËVE
+14.25
+RAUF
+SHABAN
+MLIKA
+10/248
+14.25
+8511
+121281.75
+KUFIZIM KA NJË OBJEKT INFORMAL
+LUL
+SHABAN
+MLIKA
+SKENDER
+QAMIL
+MLIKA
+QARKU __LEZHË, ZVRPP _LEZHË, ZONA KADASTRALE _8632
+177
+VIKTOR
+GAQI
+KUMARAKU
+819843
+31.3.2017
+SHTETËRORE
+53.38
+E LIRË
+178
+VITOR
+ZEF
+DUSHI
+819010
+14.2.2017
+SHTETËRORE
+16.48
+E LIRË
+179
+NIKOLL
+PAL
+PRENGA
+817812
+29.7.2016
+SHTETËRORE
+488.16
+E LIRË
+DREJTORIA E ALUIZNI-t TIRANA RURALE
+QARKU TIRANË
+ZONA KADASTRALE 2105
+ZVRPP TIRANË
+180
+ALTIN
+HYSEN
+SULAJ
+7004357
+5.10.2017
+TË TRETËVE
+432
+SHABAN
+MURATI
+190/4
+432
+4242
+1832544
+QARKU TIRANË
+ZONA KADASTRALE 2460
+ZVRPP TIRANË
+181
+BESAR
+SERVET
+XHAHOLLI
+7004676
+6.11.2017
+TË TRETËVE
+243.3
+RAMAZAN
+DELIU
+613/10
+243.3
+2080
+506064
+ZYDI
+DELIU
+BUKURIJE
+DELIU
+MUHARREM
+DELIU
+FIQIRI
+DELIU
+SHABAN
+DELIU
+FATBARDHA
+DELIU
+MEHMET
+SPAHIU
+ZEJNEL
+SPAHIU
+SHEMSI
+SPAHIU
+JEMINE
+SPAHIU
+ILIR
+DEDJA
+RAJMONDA
+MEZINI
+HATLIJE
+SPAHIU(Zeka)
+LIRIJE
+SPAHIU
+ALI
+SPAHIU
+ISA
+SPAHIU
+DILAVER
+REXHEPAJ
+QARKU TIRANË
+ZONA KADASTRALE 1906
+ZVRPP TIRANË
+182
+KLODIAN
+FIQIRI
+GURRA
+7003466
+24.5.2017
+TË TRETËVE
+208.8
+ASLLAN
+DERVISHI
+20/28
+208.8
+289
+60343.2
+BAKSHIM
+DERVISHI
+SULEJMAN
+DERVISHI
+MERSIN
+DERVISHI
+QAMILE
+DALLASHI (DERVISHI)
+SHPRESA
+ALLDERVISHI (Dervishi)
+MEREME
+TAFA (Dervishi)
+QARKU TIRANË, ZONA KADASTRALE 3865, ZVRPP TIRANË
+183
+KOMUNITETI
+MYSLIMAN
+KASHAR
+7003856
+15.6.2017
+TË TRETËVE
+611
+YMER
+ISLAM
+GRORI
+288/43
+244.4
+4242
+1036744.8
+QARKU TIRANË, ZONA KADASTRALE 2704, ZVRPP TIRANË
+184
+SAMI
+RAMADAN
+NELA
+7004260
+18.9.2016
+TË TRETËVE
+297.6
+DEJE
+KASEM
+TUJANI
+330/7
+297.6
+3283
+977020.8
+QARKU TIRANË, ZONA KADASTRALE 2529, ZVRPP TIRANË
+185
+ARJAN
+RAMIZ
+DALLASHI
+7004254
+18.9.2016
+TË TRETËVE
+211.2
+RIZA
+MEHMET
+DALLASHI
+465
+211.2
+3283
+693369.6
+KA DIFERENCË SIPËRFAQEJE MË SHUMË NË HARTËN TREGUESE SE KARTELA E PASURISË
+QARKU TIRANË, ZONA KADASTRALE 3712, ZVRPP TIRANË
+186
+SEIT
+SHABAN
+DAMJANI
+7004658
+2.11.2017
+TË TRETËVE
+380.1
+AGRON
+GARIP
+BANUSHI
+8/13
+380.1
+528
+200692.8
+QARKU TIRANË
+ZONA KADASTRALE 1906
+ZVRPP TIRANË
+187
+YLLI
+AHMET
+GURRA
+7003521
+23.5.2017
+SHTETËRORE
+298.8
+188
+ISMAIL
+RAMAZAN
+GURRA
+7003515
+23.5.2017
+SHTETËRORE
+259.2
+189
+SHERIF
+HAXHI
+GURRA
+7003733
+25.5.2017
+SHTETËRORE
+318
+QARKU TIRANË
+ZONA KADASTRALE 3091
+ZVRPP TIRANË
+190
+SULEJMAN
+KASEM
+GURRA
+7004447
+10.10.2017
+SHTETËRORE
+313.2
+191
+FEJZULLA
+HAZIS
+GJOSHI
+7003635
+23.5.2017
+SHTETËRORE
+436.2
+QARKU TIRANË
+ZONA KADASTRALE 2913
+ZVRPP TIRANË
+192
+LUAN
+SUBI
+DOBI
+7004827
+21.11.2017
+SHTETËRORE
+500
+QARKU TIRANË
+ZONA KADASTRALE 1977
+ZVRPP TIRANË
+193
+ABAZ
+SULEJMAN
+QORDJA
+7004240
+14.9.2017
+SHTETËRORE
+401.7
+194
+ILIR
+SULEJMAN
+QORDJA
+7004647
+31.10.2017
+SHTETËRORE
+388.5
+QARKU TIRANË
+ZONA KADASTRALE 1170
+ZVRPP TIRANË
+195
+FATMIR
+SELIM
+NDREU
+7003649
+16.5.2017
+SHTETËRORE
+236.7
+QARKU TIRANË
+ZONA KADASTRALE 3866
+ZVRPP TIRANË
+196
+SHABAN
+SELIM
+DOMI
+7004567
+18.10.2017
+SHTETËRORE
+280.2
+197
+ELVIRA
+BAJRAM
+CENA
+7004586
+23.10.2017
+SHTETËRORE
+99
+QARKU TIRANË
+ZONA KADASTRALE 2679
+ZVRPP TIRANË
+198
+VALBONA,AGIM
+RIZA
+KOPANI
+7004697
+15.11.2017
+SHTETËRORE
+303
+QARKU TIRANË
+ZONA KADASTRALE 1315
+ZVRPP TIRANË
+199
+KOCO
+KOCI
+ZYLFO
+7004984
+24.11.2017
+SHTETËRORE
+249
+QARKU TIRANË
+ZONA KADASTRALE 3714
+ZVRPP TIRANË
+200
+SULEJMAN
+KADRI
+GOGA
+7003775
+6.6.2017
+SHTETËRORE
+264.6
+QARKU TIRANË
+ZONA KADASTRALE 2953
+ZVRPP TIRANË
+201
+KORAB, TOMORR
+AVDI
+JATA
+7004239
+14.9.2017
+SHTETËRORE
+403.2
+202
+TEFTA
+DYLBER
+META
+7003771
+6.6.2017
+SHTETËRORE
+123
+203
+NDUE
+MARK
+PALOKA
+7004982
+6.6.2017
+SHTETËRORE
+330
+QARKU TIRANË
+ZONA KADASTRALE 2951
+ZVRPP TIRANË
+204
+BESNIK
+XHEMAL
+MECE
+7004614
+26.10.2017
+SHTETËRORE
+247.2
+QARKU TIRANË
+ZONA KADASTRALE 3321
+ZVRPP TIRANË
+205
+SELIM
+XHEMAL
+TRESA
+7003098
+18.10.2016
+SHTETËRORE
+500
+206
+DASHAMIR
+NEBI
+NIKA
+7004645
+9.11.2017
+SHTETËRORE
+143.1
+QARKU TIRANË
+ZONA KADASTRALE 2460
+ZVRPP TIRANË
+207
+AGRON
+FADIL
+META
+7004710
+11.12.2017
+SHTETËRORE
+382.8
+QARKU TIRANË
+ZONA KADASTRALE 1988
+ZVRPP TIRANË
+208
+SHKURT
+EMERLLA
+IBRALIU
+7004482
+12.10.2017
+SHTETËRORE
+65
+QARKU TIRANË
+ZONA KADASTRALE 2529
+ZVRPP TIRANË
+209
+BUJAR
+TAHIR
+DRITA
+7003480
+17.5.2017
+SHTETËRORE
+242.4
+QARKU TIRANË
+ZONA KADASTRALE 1604
+ZVRPP TIRANË
+210
+ASLLAN
+BAJRAM
+HASA
+7003714
+23.5.2017
+SHTETËRORE
+306.6
+QARKU TIRANË
+ZONA KADASTRALE 2704
+ZVRPP TIRANË
+211
+GJULSIME
+MURAT
+AHMATI
+7004045
+14.8.2017
+SHTETËRORE
+300.6
+QARKU TIRANË
+ZONA KADASTRALE 2380
+ZVRPP TIRANË
+212
+YLLI
+BASHKIM
+ALLUSHI
+7004217
+12.9.2017
+SHTETËRORE
+246.5
+DREJTORIA E ALUIZNI-t __KAMZË-VORË
+QARKU _TIRANË_, BASHKIA KAMZË, BASHKIA VORË
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _ZK_3127
+213
+AGIM
+NURI
+HYSO
+70203079
+5.12.2016
+SHTETËRORE
+288.9
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _1066
+214
+ASTRIT
+RAMADAN
+MIJA
+70207969
+31.5.2017
+SHTETËRORE
+239.4
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _3992
+215
+NAZIF
+VELI
+MENA
+70202990
+29.4.2016
+SHTETËRORE
+165
+216
+FATMIR
+IMER
+ALLUSHI
+70205930
+25.11.2016
+SHTETËRORE
+348.6
+217
+PLLUMB
+JEMIN
+HALILAJ
+70204395
+16.8.2016
+SHTETËRORE
+295.5
+218
+GJIN
+NDUE
+DEDAJ
+70206178
+14.12.2016
+SHTETËRORE
+252.6
+219
+LIMAN
+SADIK
+LALA
+70206004
+30.11.2016
+SHTETËRORE
+269
+GANI
+LIMAN
+SADIK
+220
+NASLIE
+LIMAN
+TANUSHI
+70207071
+20.3.2017
+SHTETËRORE
+178.5
+221
+ERMIR
+SELMAN
+TAFA
+70205670
+14.11.2016
+SHTETËRORE
+346.5
+222
+SHEFIT
+SHABAN
+DUKA
+70205567
+7.11.2016
+SHTETËRORE
+153.4
+223
+LUTFI
+HASAN
+LITA
+70208371
+4.8.2017
+SHTETËRORE
+126.9
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _1649
+224
+FERAT
+BAJRAM
+THIKA
+70206535
+23.1.2017
+SHTETËRORE
+305.1
+225
+REXHEP
+SADIK
+LIPO
+70208056
+15.6.2017
+SHTETËRORE
+146.4
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _3992
+226
+ERMIR
+RAMADAN
+DOGJANI
+70206594
+27.1.2017
+SHTETËRORE
+192
+227
+GEZIM
+MUSA
+KACA
+70202956
+29.4.2016
+SHTETËRORE
+310.6
+228
+ELTON
+HAJREDIN
+TOTA
+70208386
+8.8.2017
+SHTETËRORE
+421.2
+229
+NDUE
+PJETER
+VATNIKAJ
+70207712
+13.5.2017
+SHTETËRORE
+500
+230
+EMILJAN
+FLAMUR
+XHOLI
+70204056
+21.7.2016
+SHTETËRORE
+288
+FLAMUR
+RUZHDI
+XHOLI
+231
+FATMIR
+HAMIT
+KOTARJA
+70206645
+31.1.2017
+SHTETËRORE
+381.9
+232
+NURI
+IDRIZ
+KANI
+70206642
+31.1.2017
+SHTETËRORE
+305.6
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _1649
+233
+BESHIR
+MASLLAM
+DOCI
+70203694
+29.6.2016
+SHTETËRORE
+175.2
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _2066
+234
+ARBEN
+GJON
+PALUCA
+70207714
+13.5.2017
+SHTETËRORE
+339.3
+235
+RRAHMAN
+ALI
+HATA
+70207784
+23.5.2017
+SHTETËRORE
+299.1
+DAUT
+RRAHMAN
+HATA
+236
+AVNI
+ALI
+HATA
+70207796
+23.5.2017
+SHTETËRORE
+313.2
+LUTFI
+AVNI
+HATA
+VAHIT
+AVNI
+JONUZI
+237
+ASTRIT
+AHMET
+KECAJ
+70207720
+14.5.2017
+SHTETËRORE
+171.3
+238
+ARDJAN
+AHMET
+SUÇI
+70207519
+26.4.2017
+SHTETËRORE
+196.1
+239
+PELLUMB
+AVDYL
+BREGU
+70207041
+18.3.2017
+SHTETËRORE
+313.2
+240
+LUAN
+ARIF
+MARKU
+70206230
+17.12.2016
+SHTETËRORE
+340
+241
+MERITA
+ISAK
+GJABRI
+70208716
+29.9.2017
+SHTETËRORE
+284.7
+242
+HIL
+TOM
+ALIJA
+70208566
+15.9.2017
+SHTETËRORE
+368.4
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _3993
+243
+MAN
+SHEMSI
+GËRBOLLI
+70206653
+31.1.2017
+SHTETËRORE
+400
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _1066
+244
+NIKOLL
+NDUE
+MALSHI
+70209288
+23.12.2017
+SHTETËRORE
+432.3
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _2066
+245
+LUFTIM
+ZYBER
+KOZI
+70206114
+12.12.2016
+P.P.V.
+381.9
+246
+RAMAZAN
+SINAN
+MUSTEQJA
+70207540
+27.4.2017
+SHTETËRORE
+254.1
+247
+ARIF
+BALI
+GELAJ
+70207902
+30.5.2017
+SHTETËRORE
+241.5
+248
+ENVER
+HAZIR
+LIKA
+70207658
+9.5.2017
+SHTETËRORE
+308.7
+249
+GJIN
+PREK
+BICUKAJ
+70208711
+28.9.2017
+SHTETËRORE
+25.6
+250
+GJIN
+PREK
+BICUKAJ
+70207922
+30.5.2017
+SHTETËRORE
+42.9
+251
+DESTAN
+RIZA
+TOTA
+70208630
+20.9.2017
+SHTETËRORE
+460.5
+252
+SHEZE
+HYSEN
+SULKAJ
+70207820
+24.5.2017
+TË VETË (52) SHTETËRORE (70.7)
+70.7
+ASQIRI
+BEKTASH
+SULKO
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _3992
+253
+FATMIR
+HAZIR
+KASTRATI
+70205142
+20.10.2016
+SHTETËRORE
+376
+254
+FATMIRE
+QAZIM
+LUSHA
+70208216
+21.7.2017
+SHTETËRORE
+346.8
+255
+SAIMIR
+RRAHMAN
+DISHA
+70207525
+27.4.2017
+SHTETËRORE
+298
+256
+ASLLAN
+AHMET
+DOCI
+70207350
+31.3.2017
+SHTETËRORE
+350.7
+AJSHE
+HASAN
+257
+ARDIAN
+KASAM
+HASANAJ
+70206297
+21.12.2016
+SHTETËRORE
+379.5
+258
+BASHKIM
+RESHIT
+FEJZO
+70207971
+31.5.2017
+SHTETËRORE
+368.4
+259
+ELEZ
+ISUF
+QARRI
+70208531
+12.9.2017
+SHTETËRORE
+419.7
+260
+MIRBAN
+XHAVIT
+LIKA
+70207625
+30.4.2017
+SHTETËRORE
+180.9
+261
+SHKELQIM
+RESHID
+FEJZA
+70208209
+20.7.2017
+SHTETËRORE
+291.9
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _1649
+262
+SHPETIM
+HYSEN
+QOSE
+70207288
+31.3.2017
+SHTETËRORE
+343.8
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _3993
+263
+HAJRI
+SEFER
+CANI
+70207743
+17.5.2017
+SHTETËRORE
+500
+QARKU _TIRANË, ZVRPP ___TIRANË, ZONA KADASTRALE _1066
+264
+FATLI
+JEMIN
+MEÇOLLARI
+70208596
+19.9.2017
+SHTETËRORE
+282.6
+265
+ASTRIT
+ENVER
+DAPI
+70209245
+13.12.2017
+SHTETËRORE
+282.9
+DREJTORIA E ALUIZNI-t TIRANA JUG
+QARKU TIRANË, BASHKIA TIRANË
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8180
+266
+EDMOND
+LIGOR
+OGRENI
+NR. 2624520
+9.10.2017
+TË TRETËVE
+134.5
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+5/223
+134.5
+31270
+4,205,815.00
+267
+MUHAMET
+RIZA
+HOXHA
+NR. 2621927
+7.9.2016
+TË TRETËVE
+98.3
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+6/251
+67.3
+31270
+2,104,471.00
+MARTIN
+NDUE
+PERNOI
+6/249
+31
+969,370.00
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3976
+268
+ARBRI
+RAMIZ
+BRIHMANI
+NR. 2624712
+22.2.2018
+SHTETËRORE+ TË TRETËVE
+482.9
+SAIDE
+RIZVAN
+DINE
+308/4
+106.7
+479
+51,109.30
+ISMET
+RAMIZ
+BRIHMANI
+MAKBULE
+HASAN
+KERLUKU
+ISUF
+YLLI
+DINE
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3266
+269
+ALFRED
+KASEM
+BRAHJA
+NR. 2624634
+7.12.2017
+TË TRETËVE
+279.6
+MAHMUT
+HALIL
+BRAHJA
+86/11
+279.6
+3283
+917,926.80
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 1605
+270
+NEFAIL
+MEHMET
+VLLACAJ
+NR. 2621454
+18.10.2016
+SHTETËRORE+ TË TRETËVE
+108.9
+DAUT
+MUSTAFA
+PLAKU
+212/9
+21.6
+2560
+55,296.00
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8180
+271
+PETRIT
+KAPLLAN
+LUZI
+2622688
+30.11.2017
+SHTETËRORE
+209.9
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8170
+272
+XHEVAHIR
+ASLLAN
+BRATI
+2624589
+12.2.2018
+SHTETËRORE
+337.4
+ILIR
+ASLLAN
+BRATI
+ZAMIR
+ASLLAN
+BRATI
+ASLLAN
+HALIL
+BRATI
+273
+LUTFI
+MUSTAFA
+MEMA
+2624721
+21.2.2018
+SHTETËRORE
+396
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3976
+274
+NEXHAT
+BAJRAM
+SHEHU
+2622288
+10.10.2017
+SHTETËRORE
+306.3
+275
+RENATO
+TOMA
+THAKA
+2624767
+23.1.2018
+SHTETËRORE
+500
+GENTJAN
+THOMA
+THAKA
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3712
+276
+ADEM
+NEXHIP
+LICAJ
+2624510
+4.10.2017
+SHTETËRORE
+248.7
+277
+HELIDON
+NEXHIP
+LICA
+2624509
+4.10.2017
+SHTETËRORE
+302.6
+QARKU TIRANË, ZVRPP KAVAJË, ZONA KADASTRALE 3321
+278
+ZEMAN
+HABIP
+MERKOHASANI
+2624660
+20.12.2017
+SHTETËRORE + TE VET
+107.8
+279
+VASIL
+DAUT
+KASA
+2622384
+11.10.2016
+SHTETËRORE
+315
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8190
+280
+BAJRAM
+SELIM
+CANI
+2624523
+16.10.2017
+SHTETËRORE
+398.3
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8150
+281
+SHEMSI
+MUSTAFA
+HOXHA
+2622712
+28.9.2017
+SHTETËRORE
+76.6
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8240
+282
+LULJETA
+TON
+KOVACI
+2624542
+16.2.2018
+SHTETËRORE
+86.8
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8160
+283
+FERID
+REXHEP
+BERBERI
+2622986
+14.9.2017
+SHTETËRORE
+250.2
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8190
+284
+ELONA
+ILIR
+ZACAJ
+2624507
+4.10.2017
+SHTETËRORE
+228.2
+285
+NDRICIM
+LUTFI
+LLOCI
+2622556
+28.9.2017
+SHTETËRORE
+265.9
+286
+ISMAIL
+HASAN
+BUCPAPAJ
+2622059
+14.9.2017
+SHTETËRORE
+254.0
+287
+HEKURAN
+LUTFI
+LLOCI
+2622763
+28.9.2017
+SHTETËRORE
+221.5
+288
+EDISON
+BAFTJAR
+VISHA
+2622647
+25.10.2016
+SHTETËRORE
+208.9
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8180
+289
+MANUSHAQE
+BAJRAM
+KODRA
+2624496
+18.9.2017
+SHTETËRORE
+105.1
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3266
+290
+PASHK
+DED
+BRUKA
+2624500
+25.9.2017
+SHTETËRORE
+309.6
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8260
+291
+KASTRIOT
+ISLAM
+CUKA
+2623974
+15.9.2017
+SHTETËRORE
+467.76
+LUAN
+ISLAM
+CUKA
+FATOS
+ISLAM
+CUKA
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3292
+292
+THOMA
+FORE
+ZYBA
+2624290
+12.6.2017
+SHTETËRORE
+187
+RAJMONDA
+MALIQ
+ZYBA
+293
+BARDHOK
+PJETER
+GJONPJETRI
+2624163
+4.5.2017
+SHTETËRORE
+316.5
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 2679
+294
+EMNOR
+NIJAS
+KALA
+2621537
+16.1.2017
+SHTETËRORE
+221
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3866
+295
+ALBERT
+RAMIZ
+DUDA
+2622053
+22.9.2016
+SHTETËRORE
+283.1
+296
+PERPARIM
+SABRI
+SALLAKU
+2622823
+3.11.2016
+SHTETËRORE
+276.4
+297
+BESNIK
+ISUF
+KOTARJA
+2621558
+28.7.2016
+SHTETËRORE
+397
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3292
+298
+RUZHDI
+LIK
+XHAFA
+2623392
+26.12.2016
+SHTETËRORE
+285.4
+299
+ASTRIT
+BAKI
+GAGUSHI
+2622993
+19.5.2017
+SHTETËRORE
+265.5
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3963
+300
+XHEMAL
+QAZIM
+KODRA
+70300718
+22.1.2016
+SHTETËRORE
+460.8
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 2380
+301
+SIMON
+GJIN
+DODAJ
+2624241
+19.5.2017
+SHTETËRORE
+280.5
+302
+BLERIM
+IMER
+MASHA
+2624411
+27.6.2017
+SHTETËRORE
+306.9
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3976
+303
+FLATUN
+KORB
+BENACA
+2624282
+8.6.2017
+SHTETËRORE
+299.6
+304
+GURALI
+TELHA
+DAUTLLARI
+2624047
+19.5.2017
+SHTETËRORE
+254
+305
+QEMAL
+SHAQIR
+KOCI
+2623507
+20.1.2017
+SHTETËRORE
+338.7
+ERALDO
+QEMAL
+KOCI
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3471
+306
+ASTRIT
+OSMAN
+BALLA
+2621523
+26.7.2016
+SHTETËRORE
+500
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 1988
+307
+EDUART
+TAHIR
+NURI
+70301416
+19.3.2016
+SHTETËRORE
+346.5
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 1170
+308
+HAXHI
+MUHARREM
+SALLAKU
+26215223
+28.6.2016
+SHTETËRORE
+248.4
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 1498
+309
+VESEL
+RAMAZAN
+HOXHA
+70300591
+18.1.2016
+SHTETËRORE
+353.7
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 1977
+310
+ARBEN
+RAMAZAN
+SALLAKU
+70300569
+18.1.2016
+SHTETËRORE
+312
+311
+ELIS
+QEMAL
+KODRA
+2622912
+14.11.2016
+SHTETËRORE
+150.7
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 1549
+312
+PRENG
+QERIM
+DOCI
+2623595
+20.2.2017
+SHTETËRORE
+360
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8150
+313
+SHKELQIM
+DEMIR
+FUSHA
+2622586
+22.11.2017
+TË VET + SHTETËRORE
+153.6
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8180
+314
+SHABAN
+ARIF
+HAXHIJAJ
+2622683
+20.9.2017
+SHTETËRORE
+226.4
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8190
+315
+HASIM
+XHAFERR
+CENI
+2622223
+28.9.2016
+SHTETËRORE
+269
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3976
+316
+LULEZIM
+GANI
+KODRA
+2622855
+9.11.2016
+SHTETËRORE
+320.9
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8230
+317
+ERVIS
+ENVER
+KORTESHI
+2623533
+3.2.2017
+SHTETËRORE
+121.4
+318
+ARBEN
+BANUSH
+PICI
+2624089
+13.4.2017
+SHTETËRORE
+318.3
+319
+RUZHDI
+IP
+DACI
+2624431
+21.7.2017
+SHTETËRORE
+491.4
+320
+NDUE
+GJON
+NIKOLLI
+2621391
+13.7.2016
+SHTETËRORE
+500
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3976
+321
+ARBEN
+NAZIF
+MILA
+2622984
+21.11.2016
+SHTETËRORE
+365
+322
+FATMIR
+SHEFQET
+RUCI
+2622361
+20.9.2017
+SHTETËRORE
+500
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8170
+323
+ANTON
+GJON
+PICAKU
+2623283
+15.12.2016
+SHTETËRORE
+254.8
+ADAM
+ANTON
+PICAKU
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8240
+324
+ISMAIL
+AHMET
+VAKA
+2624009
+31.3.2017
+SHTETËRORE
+98.7
+QARKU TIRANË, ZVRPP KAVAJË, ZONA KADASTRALE 2071
+325
+NUREDIN
+JAHJA
+KANAPARI
+2000090
+29.12.2015
+SHTETËRORE + TË VET
+68.2
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8190
+326
+RINOR
+MENTOR
+BEQIRI
+2622561
+20.10.2016
+SHTETËRORE
+385.6
+MENTOR
+BEZAT
+BEQIRI
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3363
+327
+PETRIT
+ALI
+HIDRI
+2622810
+3.11.2016
+SHTETËRORE
+316
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 2367
+328
+SHKELQIM
+ISUF
+BULKU
+2621544
+27.7.2016
+SHTETËRORE
+340
+329
+RAKIP
+HAJRULLA
+KORRIKU
+70300756
+23.1.2016
+SHTETËRORE
+349.2
+QARKU TIRANË, ZVRPP KAVAJË, ZONA KADASTRALE 2776
+330
+ALTIN
+SHKURT
+ALLBANI
+70302016
+22.4.2016
+SHTETËRORE
+241.2
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 2380
+331
+NDOC
+NDUE
+MARKU
+2623139
+18.09.2017
+SHTETËRORE
+359.7
+332
+AGIM
+NEZIR
+ALLDERVISHI
+2624454
+18.09.2017
+SHTETËRORE
+144.3
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3321
+333
+CLIRIM
+FERHAT
+MUCA
+2621864
+31.8.2016
+SHTETËRORE
+174
+334
+JORGO
+KOCO
+DEDE
+2622933
+08.9.2017
+SHTETËRORE
+251.1
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 8380
+335
+GANI
+ABDULLA
+BRAHJA
+2621832
+2.5.2017
+SHTETËRORE + TË VET
+8.1
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3292
+336
+ILIR
+BAJRAM
+TABAKU
+2621690
+11.4.2017
+SHTETËRORE
+442.6
+337
+REXHEP
+KASEM
+RROSHI
+2623911
+27.3.2017
+SHTETËRORE
+141.9
+338
+XHEVAHIR
+HIDAJET
+SHEHU
+2623661
+24.2.2017
+SHTETËRORE
+339.2
+339
+FREDI
+HIDAJET
+SHEHAJ
+2623383
+23.12.2016
+SHTETËRORE
+285
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3866
+340
+XHEVAHIR
+RRAPUSH
+BRAIMLLARI
+2622230
+28.9.2016
+SHTETËRORE
+267.6
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3426
+341
+SHKELQIM
+FEZULLA
+HETA
+70300685
+21.1.2016
+SHTETËRORE
+277.8
+342
+ASTRIT
+FEZULLA
+HETA
+70301237
+27.2.2016
+SHTETËRORE
+452.1
+343
+LUFTAR
+ZYBER
+VESELI
+26215127
+24.6.2016
+SHTETËRORE
+441.8
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 3550
+344
+HALIL
+ALI
+KOLOSHI
+2621414
+15.7.2016
+SHTETËRORE
+211.5
+345
+BUJAR
+YMER
+VISHA
+26215122
+24.6.2016
+SHTETËRORE
+293
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 1608
+346
+LATIF
+HYSEN
+VISHA
+26215107
+24.6.2016
+SHTETËRORE
+478
+QARKU TIRANË, ZVRPP TIRANË, ZONA KADASTRALE 2952
+347
+ZIJA
+KAPLLAN
+CEKA
+2622821
+3.11.2016
+SHTETËRORE
+303.6
+DREJTORIA E ALUIZNI-t TIRANË-2
+QARKU TIRANË
+ZONA KADASTRALE 8180
+ZVRPP TIRANË
+348
+MYZEJEN
+SULEJMAN
+BILBILI
+118048
+7.10.2016
+SHTETËRORE
+27.30
+QARKU TIRANË
+ZONA KADASTRALE 8270
+ZVRPP TIRANË
+349
+FATMIRE
+RAMADAN
+ÇOLLAKU
+119642
+2.11.2017
+SHTETËRORE
+91.85
+QARKU TIRANË
+ZONA KADASTRALE 8350
+ZVRPP TIRANË
+350
+ALI
+RAMAZAN
+DEMA
+119831
+16.2.2018
+SHTETËRORE (2.5 m²); PRONËSI E POSEDUESIT (176.0 m²)
+2.50
+ALMA
+RAMAZAN
+PINARI
+ALBI
+PELLUMB
+PINARI
+EDUART
+RAMAZAN
+DEMA
+QARKU TIRANË
+ZONA KADASTRALE 8190
+ZVRPP TIRANË
+351
+ENGJELLUSHE
+ENVER
+GOSTIVARI
+119824
+7.2.2018
+SHTETËRORE (7.0 m²); PRONËSI E POSEDUESIT (210.0 m²)
+7.00
+GAZMEND
+ALI
+GOSTIVARI
+SHKELQIM
+ALI
+GOSTIVARI
+LEDINA
+ELMAS
+KABASHI
+XHEVDET
+ELMAS
+ÇELO
+ALMA
+ALI
+SPAHIU
+QARKU TIRANË
+ZONA KADASTRALE 8120
+ZVRPP TIRANË
+352
+AIDA
+Aleksander
+BUSHATI
+119841
+22.2.2018
+SHTETËRORE (96.0 m²); PRONËSI E POSEDUESIT (600.0 m²)
+96.00
+ILIRJAN
+KOL
+BUSHATI
+ERVIN
+ALFRED
+BUSHATI
+VIOLLCA
+MYFTAR
+BUSHATI
+GJERGJ
+ALFRED
+BUSHATI
+VENERANDA
+KOL
+BUSHATI
+ALBENS
+Aleksander
+BUSHATI
+QARKU TIRANË
+ZONA KADASTRALE 8350
+ZVRPP TIRANË
+353
+NAIM
+RAMAZAN
+LEKA
+119496
+27.9.2017
+4
+243.60
+82.50
+ALEKSANDER
+NACI
+1/545
+2.90
+66,969.00
+194,210.10
+NË FAVOR TË SHOQ. “SINA 98” DHE SHOQ. “GJONI” SHPK, ME NR. DOK. 00013896, DATË 2.9.2014 (K. SIPËRMARRJEJE NR. 2753/713/2, DATË 22.5.2014)
+AMALIA
+HIDO
+KLODIANA
+PANDO
+VILMA
+BARDHYL
+LEKA
+IRENA
+VANGJEL
+STEFANIA
+LUBONJA
+ADRIAN
+PAPAJANI
+DOLOR
+PAPAJANI
+QARKU TIRANË
+ZONA KADASTRALE 8380
+ZVRPP TIRANË
+354
+ESTREF
+QAMIRAN
+STAROVA
+119613
+25.10.2017
+SHTETËRORE (32.7 m²);
+E TË TRETËVE
+(15.7 m²)
+48.40
+ISMAIL
+HYSEN
+XHURA
+7/584
+15.70
+66,969.00
+1,051,413.30
+QARKU TIRANË
+ZONA KADASTRALE 8190
+ZVRPP TIRANË
+355
+RAMAZAN
+VEHBI
+BIBA
+119723
+29.12.2017
+E të tretëve (17.0 m²); Pronësi e poseduesit (276.0 m²)
+276.00
+17.00
+ABDYL
+CANI
+2/212
+17.00
+33,755.00
+573,835.00
+AFERDITA
+KAUXHELLI
+HAJRIE
+CANI
+HAXHI
+CANI
+ISHE
+CANI
+SUZANA
+MANUSH
+BIBA
+MYZEJEN
+MURTHI
+NADIRE
+CANI
+ILIRIAN
+SELIM
+CANI
+ENRIETA
+SELIM
+VOZGA
+QARKU TIRANË
+ZONA KADASTRALE 8230
+ZVRPP TIRANË
+356
+YLLI
+SKENDER
+HATELLARI
+119787
+26.12.2017
+SHTETËRORE
+35.00
+357
+DASHURI
+XHEVIT
+FEJZIAJ
+119019
+25.5.2017
+SHTETËRORE
+78.00
+PERPARIM
+IZET
+FEJZIAJ
+118560
+28.2.2017
+LEONORA
+STEFAN
+KULLURI
+118559
+28.2.2017
+ARTOR
+IBRAHIM
+BEQIRI
+118899
+4.5.2017
+QARKU TIRANË
+ZONA KADASTRALE 8260
+ZVRPP TIRANË
+358
+SHPRESA
+HAMDI
+MELHANI
+118582
+7.3.2017
+SHTETËRORE
+36.00
+KUJTIM
+HAMDI
+MELHANI
+118581
+7.3.2017
+LILJANA
+ISUF
+SEFERI (NURJA)
+118914
+8.5.2017
+DERVISH
+XHEMAL
+POJANI
+118580
+7.3.2017
+FATION
+SHPETIM
+VAHIDI
+118579
+7.3.2017
+ENDRI
+SHPETIM
+VAHIDI
+SHPRESA
+XHEVDET
+VAHIDI
+FATION
+SHPETIM
+VAHIDI
+118583
+7.3.2017
+QARKU TIRANË
+ZONA KADASTRALE 8150
+ZVRPP TIRANË
+359
+ERMIRA
+DAUT
+BRINJA
+119154
+29.6.2017
+SHTETËRORE
+11.20
+GEZIM
+GJEVALIN
+DODAJ
+119552
+9.10.2017
+BESNIK
+XHELADIN
+DIBRA
+119551
+9.10.2017
+MYZAFER
+HAMDI
+ÇELA
+119550
+9.10.2017
+SOKOL
+MAKSUT
+SEJDO
+119549
+9.10.2017
+ZAMIRA
+ALI
+SEJDO
+360
+ILIA
+SPIRO
+VASILI
+119432
+8.9.2017
+SHTETËRORE
+11.20
+QEMAL
+LAVER
+AHMETI
+119431
+8.9.2017
+ARTA
+SELIM
+AHMETI
+ERGYS
+QEMAL
+AHMETI
+RASHIP
+DALAN
+ÇELO
+119430
+8.9.2017
+TEFTA
+ARQILE
+ÇELI
+119429
+8.9.2017
+LILJANA
+TELHA
+BEJLERI
+119428
+8.9.2017
+QARKU TIRANË
+ZONA KADASTRALE 8360
+ZVRPP TIRANË
+361
+BASHKIM
+MYFIT
+JUPI
+118808
+13.4.2017
+SHTETËRORE
+19.00
+ARBEN
+PRENG
+GJINI
+119506
+28.9.2017
+KASTRIOT
+PRENG
+GJINI
+EDUART
+PRENG
+GJINI
+ALTIN
+PRENG
+GJINI
+DRANE
+JAK
+GJINI
+GJYLZARE
+FUAT
+ZANI
+119508
+28.9.2017
+SHKELQIM
+ADEM
+VEIZI
+119507
+28.9.2017
+LILIANA
+TAHIR
+FONI
+118807
+13.4.2017
+362
+LEONARD
+DHIMITER
+JANKU
+119569
+10.10.2017
+SHTETËRORE (77.9 m²); E TË TRETËVE (5.0 m² + 1.7 m²); PRONËSI E POSEDUESIT (169.7 m²)
+169.70
+84.60
+ARTES
+Ramadan
+SOKOLI
+1/9
+5.00
+66,969.00
+334,845.00
+ARTES
+Ramadan
+SOKOLI
+1/9
+1.70
+66,969.00
+113,847.30
+QARKU TIRANË
+ZONA KADASTRALE 8120
+ZVRPP TIRANË
+363
+EDMOND
+MUJE
+MUSTAFAJ
+119582
+16.10.2017
+SHTETËRORE
+23.20
+FLAMUR
+RUSTEM
+KILJA
+118103
+20.10.2016
+BASHKIM
+ALI
+KUMI
+117995
+29.9.2016
+SURJA
+AVDI
+MAZARI
+118101
+20.10.2016
+MAJLINDA
+ILMI
+ÇUNI
+118102
+20.10.2016
+QARKU TIRANË
+ZONA KADASTRALE 8270
+ZVRPP TIRANË
+364
+ILIRJAN
+ELMAZ
+MEMAJ
+119950
+13.04.2018
+SHTETËRORE
+38.30
+EGLANTINA
+BEDRI
+MEMAJ
+BAJAME
+MUHAREM
+MEMAJ
+ILIRJAN
+ELMAZ
+MEMAJ
+119950
+13.4.2018
+EGLANTINA
+BEDRI
+MEMAJ
+BAJAME
+MUHAREM
+MEMAJ
+HYSNI
+BAJRAM
+META
+119951
+13.4.2018
+365
+SHPETIM
+GANI
+BASHA
+119952
+13.4.2018
+SHTETËRORE
+88.20
+EDMOND
+MEHMET
+LINXA
+119953
+13.4.2018
+ARJAN
+MEHMET
+LINXA
+KUJTIM
+MEHMET
+LINXA
+MYZEJEN
+MEHMET
+ULQINAKU
+QARKU TIRANË
+ZONA KADASTRALE 8220
+ZVRPP TIRANË
+366
+FREDI
+FIQRET
+BABANI
+119605
+20.10.2017
+SHTETËRORE
+51.00
+PETRIT
+MALO
+MALE
+119604
+20.10.2017
+DREJTORIA E ALUIZNI-t SARANDË
+QARKU VLORË, BASHKIA SARANDË
+QARKU VLORË, ZONA KADASTRALE 8642, 8641 ZVRPP SARANDË
+367
+ENKEL
+GEZIM
+ÇIRAKU
+1041277
+13.10.2017
+SHTETËRORE
+350
+368
+QEMAL
+ÇELO
+ONJEA
+1040702
+12.1.2017
+SHTETËRORE
+301
+369
+ALEKO
+BESNIK
+MIÇI
+1040716
+20.1.2017
+SHTETËRORE
+414
+TANA
+EZHDER
+MIÇI
+370
+NIKO
+ZISO
+DENEK
+1040659
+10.4.2017
+SHTETËRORE
+34
+ARBEN
+NIKO
+DENEK
+371
+ALDA
+ASLLAN
+BAXHERRI
+1041014
+27.7.2017
+SHTETËRORE
+10.3
+ILIA
+ANDON
+BAXHERRI
+372
+ISMAIL
+BEXHET
+SINANI
+1041011
+27.7.2017
+SHTETËRORE
+207
+373
+AGRON
+ÇELO
+KOHILA
+1041035
+31.7.2017
+SHTETËRORE
+11
+374
+AGRON
+ÇELO
+KOHILA
+1041034
+31.7/2017
+SHTETËRORE
+57.5
+375
+SKENDER
+RAZI
+VELI
+1041002
+28.7.2017
+SHTETËRORE
+73
+376
+AGO
+SINAN
+KUCI
+1041425
+22.11.2017
+SHTETËRORE
+305
+QARKU VLORË, ZONA KADASTRALE 8642, 8641 ZVRPP SARANDË
+377
+STAVRO
+SPIRO
+KONOMI
+1040749
+12.6.2017
+SHTETËRORE
+44
+XHEMIL
+ETHEM
+SHEHU
+1040752
+8.5.2017
+KRISTAQ
+VASIL
+VASO
+1040750
+8.5.207
+KASTRIOT
+IMER
+LALA
+1040751
+8.5.2017
+ARKAND
+AVDYL
+ILJAZI
+1040753
+29.5.2017
+378
+SHKELQIM
+BEJDO
+MUHAMETI
+1040885
+9.6.2017
+SHTETËRORE
+70
+379
+GEZIM
+SEJAT
+ISLAMI
+1040925
+19.6.2017
+SHTETËRORE
+429
+380
+LUAN
+NAZDRI
+VELI
+1040897
+14.6.2017
+SHTETËRORE
+500
+381
+LUTVI
+GAZI
+GILI
+1040899
+14.6.2017
+SHTETËRORE
+338
+ADIJE
+MEMEDALI
+GILI
+382
+PAJTIM
+KALO
+SULLAJ
+1040896
+14.6.2017
+SHTETËRORE
+237
+383
+PETRAQ
+MIHAL
+LONDO
+1040895
+14.6.2017
+SHTETËRORE
+19
+QAZIM
+NEXHIP
+AHMETI
+1040892
+14.6.2017
+DHIMITER
+ZAHO
+MUCO
+1040894
+14.6.2017
+TATJANA
+OSMAN
+VODA
+1040891
+14.6.2017
+OLTIAN
+QIRJAKO
+VODA
+OREA
+QIRJAKO
+VODA
+PERIKLI
+STEFAN
+SHQEVI
+1040893
+14.6.2017
+384
+OSMAN
+MERSIN
+XHAFERRI
+1040941
+27.6.2017
+SHTETËRORE
+338
+385
+ALTIN
+NEVRUZ
+ALIKAJ
+1040946
+27.6.2017
+SHTETËRORE
+366
+386
+FATMIR
+RESUL
+SULO
+1040954
+26.6.2017
+SHTETËRORE
+90
+387
+ALEKS
+STEFAN
+SULO
+1040938
+28.6.2017
+SHTETËRORE
+40
+388
+AGIM
+MEHMET
+RAPAJ
+1040943
+27.6.2017
+SHTETËRORE
+300
+389
+HADER
+IDRIZ
+LOLOCI
+53184
+25.7.2017
+SHTETËRORE
+168
+390
+LINDITA
+SHABAN
+BAJO
+1040798
+10.5.2017
+SHTETËRORE
+1180
+QARKU VLORË, ZONA KADASTRALE 1013, ZVRPP SARANDË
+391
+STAVRO
+PETRO
+PAPA
+1041074
+14.8.2017
+SHTETËRORE
+-
+179
+392
+KRISTO
+SPIRO
+RAFTI
+1041279
+13.10.2017
+SHTETËRORE
+-
+500
+393
+VASILIQI
+KOATANDIN
+RAFTI
+1041280
+13.10.2017
+SHTETËRORE
+-
+500
+394
+EDI
+METALI
+MAXHARI
+1041476
+6.12.2017
+SHTETËRORE
+-
+500
+395
+ALEKSANDER
+HRISTO
+ÇAVO
+1041478
+6.12.2017
+SHTETËRORE
+-
+288
+396
+ILIA
+LLAMBI
+ZAHO
+1041475
+6.12.2017
+SHTETËRORE
+-
+246
+397
+HRISTO
+MITRO
+VASILI
+1041479
+6.12.2017
+SHTETËRORE
+-
+442
+398
+LEFTER
+VANGJEL
+SHTUKA
+1041477
+6.12.2017
+SHTETËRORE
+-
+360
+399
+ARHILEA
+EFTHIMJO
+PAPA
+1041470
+6.12.2017
+SHTETËRORE
+-
+298.5
+400
+PETRO
+STAVRO
+PAPA
+1041471
+6.12.2017
+SHTETËRORE
+-
+360
+401
+SPIRO
+EFTHIMIO
+PAPA
+1041473
+6.12.2017
+SHTETËRORE
+-
+276
+402
+VANGJEL
+JANI
+RAFTI
+1041482
+6.12.2017
+SHTETËRORE
+-
+324
+403
+JANI
+PETRO
+PAPA
+1041472
+6.12.2017
+SHTETËRORE
+-
+300
+404
+MILTJADH
+PILO
+ZAHO
+1041474
+6.12.2017
+SHTETËRORE
+-
+285
+405
+ALEKSANDER
+VASIL
+IOANU
+1041486
+11.12.2017
+SHTETËRORE
+-
+200
+406
+KOSTANDINOS
+VASIL
+IOANU
+1041488
+11.12.2017
+SHTETËRORE
+-
+200
+407
+SPIRO
+NASHO
+MITRO
+1041600
+13.12.2017
+SHTETËRORE
+-
+348
+QARKU VLORË, ZONA KADASTRALE 2671, ZVRPP SARANDË
+408
+THIMJO
+ANDREA
+RUBATI
+1040847
+26.5.2017
+SHTETËRORE
+-
+300
+409
+STAVRO
+LLAMBI
+ÇEKO
+1040747
+22.4.2017
+SHTETËRORE
+-
+480
+410
+ALEKSANDER
+JORGJI
+THANASI
+1040637
+10.4.2017
+SHTETËRORE
+-
+37
+411
+LLAMBI
+ZISO
+BOXHORI
+1040634
+7.4.2017
+SHTETËRORE
+-
+278
+412
+NIKOLLA
+THOMA
+KALLOJERI
+1040616
+6.4.2017
+SHTETËRORE
+-
+255
+413
+LEONARD
+IZET
+SHENA
+1040617
+6.4.2017
+SHTETËRORE
+-
+280
+414
+IRAKLI
+NIKOLLA
+DAVELLA
+1040609
+6.4.2017
+SHTETËRORE
+-
+336
+415
+FILIP
+JANI
+RUBATI
+1040593
+5.4.2017
+SHTETËRORE
+-
+295
+416
+MIHAL
+THODHORI
+THANASI
+1040601
+5.4.2017
+SHTETËRORE
+-
+344
+417
+VASILLO
+THIMI
+KALLOJERI
+1040666
+11.4.2017
+SHTETËRORE
+-
+107
+418
+KOSTA
+ANDREA
+RUBATI
+1040590
+3.4.2017
+SHTETËRORE
+-
+447
+QARKU VLORË, ZONA KADASTRALE 1430 ZVRPP SARANDË
+419
+SYRJA
+SHYQYRAN
+ALIA
+1040696
+11.4.2017
+SHTETËRORE
+381.9
+420
+MIREL
+SHABAN
+IDRIZI
+1041017
+28.8.2017
+SHTETËRORE
+396
+421
+MAMO
+XHELAL
+TELO
+1041061
+3.8.2017
+SHTETËRORE
+1500
+422
+MAMO
+XHELAL
+TELO
+1041062
+3.8.2017
+SHTETËRORE
+324
+423
+STEFAN
+KRISTO
+KOLONJA
+1041281
+13.10.2017
+SHTETËRORE
+228
+424
+MIÇO
+LOLI
+GREKO
+1041283
+13.10.2017
+SHTETËRORE
+292
+425
+SHAHIN
+DALAN
+SADIKU
+1041404
+10.11.2017
+SHTETËRORE
+500
+426
+VASILLAQ
+SOKRAT
+LLAZO
+1041402
+10.11.2017
+Shtetërore
+295.5
+427
+JANULLA
+VANGJEL
+SHULI
+1041420
+20.11.2017
+Shtetërore
+252
+428
+ARBEN
+HIQIMET
+AHMETI
+1041418
+20.11.2017
+Shtetërore
+312
+QARKU VLORË, ZONA KADASTRALE 2297 ZVRPP SARANDË
+429
+MIHAL
+KOSTANDIN
+LAPA
+1040756
+26.4.2017
+Shtetërore
+500
+DREJTORIA E ALUIZNI-t GJIROKASTËR
+QARKU GJIROKASTËR, ZONA KADASTRALE 3719 ZVRPP TEPELENË
+430
+LUFTETAR
+FETA
+MUHAMETI
+87973
+20.2.2018
+SHTET
+293
+QARKU GJIROKASTËR, ZONA KADASTRALE 3816 ZVRPP TEPELENË
+431
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121317
+22.2.2018
+SHTET
+93
+QARKU GJIROKASTËR, ZONA KADASTRALE 3918 ZVRPP TEPELENË
+432
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121316
+22.2.2018
+SHTET
+68
+QARKU GJIROKASTËR, ZONA KADASTRALE2508 ZVRPP TEPELENË
+433
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121313
+21.2.2018
+SHTET
+27
+434
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121314
+21.2.2018
+SHTET
+84
+QARKU GJIROKASTËR, ZONA KADASTRALE 3206 ZVRPP TEPELENË
+435
+ABEDIN
+BILO
+RRAPA
+12967
+27.2.2018
+SHTET
+300
+QARKU GJIROKASTËR, ZONA KADASTRALE2507 ZVRPP TEPELENË
+436
+ÇLIRIM
+FLAMUR
+MUSHAMATAJ
+121328
+27.2.2018
+SHTET
+342
+QARKU GJIROKASTËR, ZONA KADASTRALE 3282 ZVRPP TEPELENË
+437
+BASHKIM
+HAKI
+SINANAJ
+121323
+22.2.2018
+SHTET
+276
+QARKU GJIROKASTËR, ZONA KADASTRALE2435 ZVRPP TEPELENË
+438
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121291
+20.2.2018
+SHTET
+56
+QARKU GJIROKASTËR, ZONA KADASTRALE 3932 ZVRPP TEPELENË
+439
+LEFTER
+RRAHMAN
+KUSHA
+121293
+21.2.2018
+SHTET
+306
+QARKU GJIROKASTËR, ZONA KADASTRALE 3602 ZVRPP TEPELENË
+440
+ALKET
+FATOS
+LUSHKA
+121294
+21.2.2018
+SHTET
+300
+441
+FERJAT
+RAMADAN
+SAKA
+121322
+22.2.2018
+SHTET
+350
+QARKU GJIROKASTËR, ZONA KADASTRALE 2041 ZVRPP TEPELENË
+442
+PETRIT
+HETEM
+RRAPAJ
+15416
+27.2.2018
+SHTET
+145
+QARKU GJIROKASTËR, ZONA KADASTRALE3574 ZVRPP TEPELENË
+443
+PËLLUMP
+NEKI
+ZAIMAJ
+121310
+22.2.2018
+SHTET
+20.3
+QARKU GJIROKASTËR, ZONA KADASTRALE 3252 ZVRPP TEPELENË
+444
+TARIKATI ISLAMIK HALVETIAN
+121290
+20.2.2018
+SHTET
+75
+445
+TARIKATI ISLAMIK HALVETIAN
+121289
+20.2.2018
+SHTET
+48
+QARKU GJIROKASTËR, ZONA KADASTRALE 2541 ZVRPP TEPELENË
+446
+BURAN
+MUHAMET
+QIBINI
+121327
+27.2.2018
+SHTET
+336
+QARKU GJIROKASTËR, ZONA KADASTRALE 1476 ZVRPP TEPELENË
+447
+KOSTA
+SPIRO
+ÇURI
+121233
+29.1.2018
+SHTET
+500.0
+448
+NIKO
+VANGJEL
+MIJO
+121250
+29.1.2018
+SHTET
+103.0
+449
+MIHAL
+VANGJEL
+DHJAMANDI
+121234
+29.1.2018
+SHTET
+120.0
+450
+SPIRO
+VASIL
+RAJDHO
+121232
+29.1.2018
+SHTET
+312.0
+QARKU GJIROKASTËR, ZONA KADASTRALE 2030 ZVRPP GJIROKASTËR
+451
+VANGJEL
+DHIMITRI
+LAKO
+121248
+30.1.2018
+SHTET
+340.0
+QARKU GJIROKASTËR, ZONA KADASTRALE 2867 ZVRPP GJIROKASTËR
+452
+NIKO
+DHIMITRAQ
+TARUSHA
+121257
+29.1.,2018
+SHTET
+115
+QARKU GJIROKASTËR, ZONA KADASTRALE 8543 ZVRPP GJIROKASTËR
+453
+BARDHYL
+RAKIP
+ZHULI
+121254
+30.1.2018
+SHTET
+405
+QARKU GJIROKASTËR, ZONA KADASTRALE8541 ZVRPP GJIROKASTËR
+454
+AGUSH
+VEJSEL
+ÇAFAJ
+121255
+30.1.2018
+SHTET
+35
+455
+MIHAL
+DINO
+MUHAMETAJ
+121243
+30.1.2018
+SHTET
+33
+ALKET
+NASIP
+BARJAMI
+121244
+30.1,2018
+456
+ILJAZ
+AVDUL
+PULA
+121119
+16.1.2018
+SHTET
+14.6
+AHMET
+SALI
+ZHURI
+121120
+16.1.2018
+457
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121181
+29.1.2018
+SHTET
+66.9
+QARKU GJIROKASTËR, ZONA KADASTRALE 2609 ZVRPP GJIROKASTËR
+458
+SAKO
+BILAL
+BISTRI
+121242
+29.1.2018
+SHTET
+330
+QARKU GJIROKASTËR, ZONA KADASTRALE 2810 ZVRPP GJIROKASTËR
+459
+VASIL
+NASHO
+FUQI
+121235
+29.1.2018
+SHTET
+240
+QARKU GJIROKASTËR, ZONA KADASTRALE 3701 ZVRPP GJIROKASTËR
+460
+PËRPARIM
+ABDYL
+HYKA
+121238
+29.1.2018
+SHTET
+383
+QARKU GJIROKASTËR, ZONA KADASTRALE 2444 ZVRPP GJIROKASTËR
+461
+ISA
+SINAN
+SINANI
+121266
+30.1.2018
+SHTET
+319
+462
+EDMOND
+TOMOR
+ISMAILATI
+121267
+30.1.2018
+SHTET
+324
+QARKU GJIROKASTËR, ZONA KADASTRALE 2647 ZVRPP TEPELENË
+463
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121276
+30.1.2018
+SHTET
+80
+QARKU GJIROKASTËR, ZONA KADASTRALE 3602 ZVRPP TEPELENË
+464
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121278
+30.1.2018
+SHTET
+44
+QARKU GJIROKASTËR, ZONA KADASTRALE 1781 ZVRPP TEPELENË
+465
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121273
+30.1.2018
+SHTET
+102
+QARKU GJIROKASTËR, ZONA KADASTRALE1980 ZVRPP TEPELENË
+466
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121275
+30.1.2018
+SHTET
+96
+QARKU GJIROKASTËR, ZONA KADASTRALE 2646ZVRPP TEPELENË
+467
+QERIM
+XHEZO
+MANAJ
+121265
+30.1.2018
+SHTET
+23
+QARKU GJIROKASTËR, ZONA KADASTRALE 2917 ZVRPP TEPELENË
+468
+ARBEN
+SKENDER
+ISUFI
+121261
+29.1.2018
+SHTET
+438
+QARKU GJIROKASTËR, ZONA KADASTRALE 2434 ZVRPP TEPELENË
+469
+ETIEN
+XHEVAIR
+DELIU
+121225
+29.1.2018
+SHTET
+357
+QARKU GJIROKASTËR, ZONA KADASTRALE3574 ZVRPP TEPELENË
+470
+ILIR
+SEJDI
+MUÇI
+121236
+29.1.2018
+SHTET
+90
+QARKU GJIROKASTËR, ZONA KADASTRALE 2680 ZVRPP TEPELENË
+471
+TARIKATI ISLAMIK HALVETIAN
+121269
+30.1.2018
+SHTET
+147
+472
+KRYEGJYSHATA BOTËRORE BEKTASHIANE
+121268
+30.1.2018
+SHTET
+76
+QARKU GJIROKASTËR, ZONA KADASTRALE 1476 ZVRPP GJIROKASTËR
+473
+KOSTA
+JORGO
+GOXHA
+16497
+29.7.2016
+SHTET
+30.0
+474
+JANI
+SPIRO
+SELO
+121047
+29.12.2017
+SHTET
+238.0
+475
+STELO
+NIKOLLA
+RAJDHO
+121221
+29.12.2017
+SHTET
+345.0
+QARKU GJIROKASTËR, ZONA KADASTRALE3480 ZVRPP GJIROKASTËR
+476
+MARIANTHI
+LEONIDHI
+BODINI
+27502
+27.9.2016
+SHTET
+440.0
+QARKU GJIROKASTËR, ZONA KADASTRALE1234 ZVRPP GJIROKASTËR
+477
+VANGJEL
+MIHAL
+DUCI
+121220
+29.12.2017
+SHTET
+131.0
+QARKU GJIROKASTËR, ZONA KADASTRALE2007 ZVRPP GJIROKASTËR
+478
+JORGO
+THODHORI
+SALLUKA
+121207
+22.12.2017
+SHTET
+309.0
+479
+VASILIQI
+KOSTANDIN
+KOSTA
+121210
+22.12.2017
+SHTET
+325.0
+QARKU GJIROKASTËR, ZONA KADASTRALE2512 ZVRPP GJIROKASTËR
+480
+KALITHEA
+KOSTA
+THANO
+121209
+22.12.2017
+SHTET
+300.0
+QARKU GJIROKASTËR, ZONA KADASTRALE1640 ZVRPP GJIROKASTËR
+481
+ANTHULLA
+JANI
+KOTROÇI
+121223
+29.12.2017
+SHTET
+430.0
+QARKU GJIROKASTËR, ZONA KADASTRALE2956 ZVRPP GJIROKASTËR
+482
+TASIM
+TAFIL
+RUKO
+121182
+30.11.2017
+SHTET
+375.3
+QARKU GJIROKASTËR, ZONA KADASTRALE2392 ZVRPP GJIROKASTËR
+483
+SHPËTIM
+BAJO
+BOCI
+121229
+29.12.2017
+SHTET
+120
+QARKU GJIROKASTËR, ZONA KADASTRALE8542 ZVRPP GJIROKASTËR
+484
+MALIQ, MIAFTONI
+AHMET, MAHMUT
+MIFTARI
+111226
+29.12.2017
+SHTET
+97.6
+QARKU GJIROKASTËR, ZONA KADASTRALE8541 ZVRPP GJIROKASTËR
+485
+HABIL
+HUZNI
+BELLO
+121180
+22.12.2017
+SHTET
+69.3
+QARKU GJIROKASTËR, ZONA KADASTRALE2810 ZVRPP GJIROKASTËR
+486
+JORGULLA
+THODHORAQ
+RUDI
+121206
+22.12.2017
+SHTET
+385
+QARKU GJIROKASTËR, ZONA KADASTRALE2032 ZVRPP GJIROKASTËR
+487
+JORGJI, ANDREA
+STERJO, JORGJI
+NAÇIKU
+121227
+29.12.2017
+SHTET
+290
+QARKU GJIROKASTËR, ZONA KADASTRALE2444 ZVRPP GJIROKASTËR
+488
+ZHIGUR
+HEKURAN
+BUZO
+121146
+24.11.2017
+SHTET
+286
+QARKU GJIROKASTËR, ZONA KADASTRALE2259 ZVRPP GJIROKASTËR
+489
+RUZE
+ASLLAN
+SHEHU
+121153
+16.11.2017
+SHTET
+259
+490
+ASQERI
+SELFO
+SHEHU
+29135
+30.11.2017
+SHTET
+450
+491
+BARJAM
+MUHAMET
+RAMA
+29134
+30.11.2017
+SHTET
+270
+QARKU GJIROKASTËR, ZONA KADASTRALE1025 ZVRPP GJIROKASTËR
+492
+TEME
+HYSENJ
+RUÇI
+121173
+23.11.2017
+SHTET
+297
+493
+SABRI
+QEMAL
+XHAFERI
+21174
+23.11.2017
+SHTET
+307
+QARKU GJIROKASTËR, ZONA KADASTRALE2646 ZVRPP GJIROKASTËR
+494
+FOTI
+MEDIN
+MERDANI
+121189
+30.11.2017
+SHTET
+40.7
+495
+FOTI
+MEDIN
+MERDANI
+121188
+30.11.2017
+SHTET
+40
+496
+FATMIR
+SHABAN
+KALEMI
+16589
+30.5.2016
+SHTET
+132
+QARKU GJIROKASTËR, ZONA KADASTRALE2057 ZVRPP GJIROKASTËR
+497
+ARQILE
+APOSTOL
+THODHORI
+121191
+30.11.2017
+SHTET
+330
+498
+ENTELA
+JORGO
+LEMAS
+121168
+30.11.2017
+SHTET
+167
+QARKU GJIROKASTËR, ZONA KADASTRALE2917 ZVRPP GJIROKASTËR
+499
+EIRENA
+ALI
+CANKA
+121219
+29.12.2017
+SHTET
+150
+QARKU GJIROKASTËR, ZONA KADASTRALE2680 ZVRPP GJIROKASTËR
+500
+KUJTIM
+HASAN
+BANI
+29136
+30.11.2017
+SHTET
+356.4
+QARKU GJIROKASTËR, ZONA KADASTRALE1565 ZVRPP GJIROKASTËR
+501
+BEQAR
+DINO
+ALLKA
+121217
+22.12.2017
+SHTET
+280
+QARKU GJIROKASTËR, ZONA KADASTRALE3574 ZVRPP GJIROKASTËR
+502
+ALJOSHA
+ÇOBO
+QORI
+121215
+22.12.2017
+SHTET
+250
+QARKU GJIROKASTËR, ZONA KADASTRALE1961 ZVRPP GJIROKASTËR
+503
+MINEKO
+SELIM
+BËRDA
+121216
+22.12.,2017
+SHTET
+180
+QARKU GJIROKASTËR, ZONA KADASTRALE2541 ZVRPP GJIROKASTËR
+504
+RAPO
+SELIM
+KOÇI
+121205
+22.12.2017
+SHTET
+338
+QARKU GJIROKASTËR, ZONA KADASTRALE 3580 ZVRPP GJIROKASTËR
+505
+JORJI
+THOMA
+FOTIU
+121195
+30.11.,2017
+SHTET
+120.0
+QARKU GJIROKASTËR, ZONA KADASTRALE 1846 ZVRPP GJIROKASTËR
+506
+SPIRO
+TAQI
+SOKO
+85478
+30.11.2017
+SHTET
+18.0
+TAQI
+SPIRO
+SOKO
+LLAMBRINI
+JANI
+SOKO
+ARETI
+JORGJI
+SOKO
+FOTO
+THOMA
+DHIMA
+85479
+7.11.2017
+JORGJIA
+JANI
+DHIMA
+QARKU GJIROKASTËR, ZONA KADASTRALE1307 ZVRPP GJIROKASTËR
+507
+NIKO
+SOKRAT
+PAPAJANI
+121203
+30.11.2017
+SHTET
+346.0
+QARKU GJIROKASTËR, ZONA KADASTRALE 3833 ZVRPP GJIROKASTËR
+508
+MIHAL
+ANDON
+PRASO
+121194
+30.11.2017
+SHTET
+23.0
+QARKU GJIROKASTËR, ZONA KADASTRALE 8543 ZVRPP GJIROKASTËR
+509
+MIHALLAQ
+FOTO
+LIGU
+1211160
+22.11.2017
+SHTET
+220
+510
+LEONARD
+BESNIK
+CEKA
+1211175
+30.11.2017
+SHTET
+425
+511
+FLORIAN
+HYSEN
+RUÇI
+121157
+16.11.2017
+SHTET
+319
+QARKU GJIROKASTËR, ZONA KADASTRALE 8541 ZVRPP GJIROKASTËR
+512
+GJENCI
+SIRI
+KROJ
+121166
+22.11.2017
+SHTET
+334
+513
+ILJAZ
+SELIM
+MEMUSHI
+121161
+16.11.2017
+SHTET
+45.2
+514
+SOKOL,MARIANA
+MUJTIN,FETI
+LUKE
+121081
+22.11.2017
+SHTET
+36
+515
+FOTO
+DHIMITRI
+SOKO
+121177
+23.11.2017
+SHTET
+57.2
+ATHINA
+ZOTO
+SOKO
+SPIRO
+PEÇO
+MUÇI
+121176
+23.11.2017
+DONIKA
+SOTIR
+MUÇI
+PAISI
+NDREKO
+MARTIKO
+121178
+23.11.2017
+VALENTINA
+THEODHOR
+MARTIKO
+BUJAR
+SKËNDER
+TUSHE
+121179
+24.11.2017
+HAMIDE
+BRAHIM
+TUSHE
+516
+HEDIJE
+REUF
+ABAZI
+121201
+30.11.2017
+SHTET
+21
+DRITAN
+PAJTIM
+ABAZI
+ARTUR
+PAJTIM
+ABAZI
+FIGALI,VASIL
+LLAMBI, ANASTAS
+GAZHGA
+121202
+30.11.2017
+SOTIR
+ANASTAS
+GAZHGA
+LEONORA
+ANASTAS
+GAZHGA
+MARIA
+ANASTAS
+GAZHGA
+IMER
+MUSTAFA
+MEZINI
+121200
+30.11.2017
+MUSTAFA
+IMER
+MEZINI
+ZULIHA
+MUSTAFA
+MEZINI
+517
+EVJEN
+DHIMOSTEN
+DHEFTO
+121196
+30.11.2017
+SHTET
+43.3
+ALMERT
+EVJEN
+DHEFTO
+PANDOR
+PETRO
+DHEFTO
+DHIONIS
+SOFOKLI
+TAÇI
+121197
+30.11.2017
+FELEK
+JAHO
+HAXHIU
+121198
+30.11.2017
+MERITA
+XHAFER
+KUÇI
+121199
+30.11.2017
+QARKU GJIROKASTËR, ZONA KADASTRALE 3580 ZVRPP GJIROKASTËR
+518
+GRAMOZ
+RAPO
+MALKO
+121167
+23.11.2017
+SHTET
+181.5
+QARKU GJIROKASTËR, ZONA KADASTRALE 1970 ZVRPP GJIROKASTËR
+519
+HYSNI
+LAZE
+KOKO
+121184
+30.11.2017
+SHTET
+360
+QARKU GJIROKASTËR, ZONA KADASTRALE 1484 ZVRPP GJIROKASTËR
+520
+SHABAN
+HAZIS
+LAMAJ
+121169
+22.11.2017
+SHTET
+13
+QARKU GJIROKASTËR, ZONA KADASTRALE 1053 ZVRPP GJIROKASTËR
+521
+ARTAN
+NURI
+BREGU
+121159
+16.11.2017
+SHTET
+480
+QARKU GJIROKASTËR, ZONA KADASTRALE3179 ZVRPP GJIROKASTËR
+522
+TOMOR
+SHERIF
+SHERIFI
+121192
+30.11.2017
+SHTET
+270
+QARKU GJIROKASTËR, ZONA KADASTRALE2873 ZVRPP GJIROKASTËR
+523
+LEFTER
+SOKRAT
+TINGO
+121172
+23.11.2017
+SHTET
+157.5
+QARKU GJIROKASTËR, ZONA KADASTRALE 2444 ZVRPP GJIROKASTËR
+524
+SKËNDER
+TAHIR
+SHUTI
+121128
+16.11.2017
+SHTET
+477
+525
+ARDIT
+ILIRJAN
+RUSTEMI
+121183
+30.11.2017
+SHTET
+300
+QARKU GJIROKASTËR, ZONA KADASTRALE1025 ZVRPP GJIROKASTËR
+526
+ERJON
+HAZIS
+KALEMI
+121187
+30.11.2017
+SHTET
+250
+527
+ILIA
+XHEMAL
+ZOTA
+121186
+30.11.2017
+SHTET
+300
+QARKU GJIROKASTËR, ZONA KADASTRALE 3524 ZVRPP GJIROKASTËR
+528
+DONIKA
+DHIMO
+JANOLLARI
+121154
+16.11.2017
+SHTET
+186
+QARKU GJIROKASTËR, ZONA KADASTRALE 3574 ZVRPP GJIROKASTËR
+529
+GLEJDIS
+JETNOR
+CANKAJ
+121170
+24.11.2017
+SHTET
+198
+QARKU GJIROKASTËR, ZONA KADASTRALE 2936 ZVRPP GJIROKASTËR
+530
+VIKTOR
+STATHI
+KUME
+121190
+30.11.2017
+SHTET
+395
+VALENTINA
+DILAVER
+KUME
+QARKU GJIROKASTËR, ZONA KADASTRALE2680 ZVRPP GJIROKASTËR
+531
+ASTRIT, ELTON
+BRAHIM
+BANI
+121171
+23.11.2017
+SHTET
+300
+DREJTORIA E ALUIZNI-t FIER
+QARKU FIER, ZONA KADASTRALE 8534 ZVRPP FIER
+532
+KRISTAQ
+NDONI
+DANO
+Nr. 2357106
+19.5.2017
+Shtet
+500
+533
+FLORESHA
+FERIT
+KALEMAJ
+Nr. 250992
+2.2.2017
+Shtet
+369
+534
+SABAUDIN
+ISUF
+REXHEPAJ
+Nr. 270197
+18.9.2017
+Shtet
+399.4
+535
+NOVRUS
+HAMZA
+KAPLLANAJ
+Nr. 235395
+3.05.2017
+Shtet
+354
+536
+ARBEN
+TAJAR
+SALIAJ
+Nr. 270223
+2.10.2017
+Shtet
+300.1
+QARKU FIER, ZONA KADASTRALE 8531 ZVRPP FIER
+537
+NAMIK
+RIZA
+DEMIRAJ
+Nr. 270083
+25.7.2017
+Shtet
+387
+538
+BELUL
+HYSEN
+RAMAJ
+Nr. 236244
+26.6.2017
+Shtet
+373
+539
+MIRELA
+LLAZI
+XHEMAJ
+Nr. 249273
+18.11.2016
+Shtet
+68.8
+540
+GEZIM
+ALUSH
+KONDA
+Nr. 249428
+23.11.2016
+Shtet
+313
+541
+BANUSH
+SABRI
+JAVORI
+Nr. 246191
+16.6.2016
+Shtet
+36.9
+542
+FATOS
+MUCO
+SHESHI
+Nr. 270129
+4.9.2017
+Shtet
+330
+543
+XHULIO
+DEFRIM
+GEGA
+Nr. 271884
+19.4.2018
+Shtet
+243
+QARKU FIER, ZONA KADASTRALE 8533 ZVRPP FIER
+544
+EDUART
+LAVER
+LIKOSKENDAJ
+NR. 239966
+11.12 2017
+SHTET
+262.2
+545
+ALEKSANDER
+PETI
+GJINI
+NR. 235546
+16.5 .2017
+SHTET
+391
+546
+ETORANI
+SOKRAT
+TANKA
+NR. 270238
+6.10.2017
+SHTET
+401
+547
+NIKOLLA
+TODI
+BARDHI
+NR. 270215
+29.9.2017
+SHTET
+351
+548
+PERIKLI
+JOVAN
+RRUSHI
+NR. 270177
+14.9.2017
+SHTET
+286.5
+549
+TOMOR
+FECOR
+MERAJ
+Nr. 271416
+15.3.2018
+SHTET
+229
+550
+MARIUS
+ARBEN
+PASHA
+Nr. 270031
+2.6.2017
+SHTET
+142.8
+MARIUS
+ARBEN
+PASHA
+MARIUS
+ARBEN
+PASHA
+AGRON
+KADRI
+PASHAJ
+Nr. 270032
+22.6.2017
+ALUIZNI
+QARKU FIER, ZONA KADASTRALE 3981 ZVRPP FIER
+551
+PETRAQ
+HYDAI
+KULE
+NR. 247574
+31.8 2016
+SHTET
+432
+552
+LLAZI
+KRISTO
+DANO
+NR. 240145
+7.3. 2016
+SHTET
+132
+553
+GEZIM
+QANI
+BEGA
+NR. 240204
+11.3. 2016
+SHTET
+350
+554
+ISLAM
+RAMAZAN
+BEDRIA
+NR. 247571
+31.8.2016
+SHTET
+500
+555
+SKERDI
+YLLI
+LLUPI
+NR. 270240
+6.10.2017
+SHTET
+122
+QARKU FIER, ZONA KADASTRALE 3358 SH. MARINAS,ZVRPP FIER
+556
+ALEK
+MIHAL
+CAMANDIOTI
+NR. 271 228
+12.2.2018
+SHTET
+537.6
+QARKU FIER, ZONA KADASTRALE 1874 GRYKE ZVRPP FIER
+557
+PETRAQ
+LLAMBRI
+TRIFKA
+NR. 271512
+20.3 2018
+SHTET
+561
+558
+GENTIAN
+KOZMA
+NUSHI
+NR. 271227
+12.2 2018
+SHTET
+695.8
+DREJTORIA E ALUIZNI-t KAVAJË
+QARKU TIRANË, ZONA KADASTRALE 3101, ZVRPP KAVAJË___
+559
+ERVIN
+FADIL
+DULLA
+Nr. 7002922
+20.7.2017
+SHTETËRORE
+584
+560
+ERVIN
+FADIL
+DULLA
+Nr. 7002920
+20.7.2017
+SHTETËRORE
+539.5
+561
+ERVIN
+FADIL
+DULLA
+Nr. 7002921
+20.7.2017
+SHTETËRORE
+583
+562
+ERVIN
+FADIL
+DULLA
+Nr. 7002923
+20.7.2017
+SHTETËRORE
+754.1
+DREJTORIA E ALUIZNI-t SARANDË
+QARKU VLORË, BASHKIA SARANDË
+QARKU VLORË, ZONA KADASTRALE 2297 ZVRPP SARANDË
+563
+VASILLAQ
+DHJAMANDI
+VITO
+1041672
+16.3.2018
+SHTETËRORE
+500
+PROPOZIM PËR HEQJE TË PËRGJEGJËSISË SË ADMINISTRIMIT NGA ISH-KOMUNA KSAMIL, BASHKIA SARANDË PËR 497m2
+BLEDAR
+HAMDI
+HOXHA
+QARKU DURRES, ZONA KADASTRALE 8518, ZVRPP DURRES
+564
+HELIDON
+SKENDER
+RRUGA
+Nr. 224388
+14.10.2016
+ME PRONAR
+BAJRAM
+VELI
+7/161
+569
+19336
+11,002,184.00
+NË BAZË TË V. 61, DATË 10.7.2009 TË ZQRPP TIRANË, SHUHET MBIVENDOSJA VETËM PËR 600 m2 NË FAVOR TË FAMILJES VELI. SIP. E MBIVENDOSUR NDODHET NË VOL. 76, F. 84.13643
+GJYZE
+MAGRINI
+LULE
+SULA
+MUHAMETALI
+VELI
+SHPRESA
+TOTO
+SUZANA
+NJUMA
+VJOLLCA
+YPI
