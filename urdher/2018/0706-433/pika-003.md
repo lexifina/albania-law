@@ -1,0 +1,1 @@
+3. Pas botimit në Fletoren Zyrtare të urdhrit të ministrit të Kulturës për ripërtëritjen e licencës, agjencia është e detyruar të kryejë pagesën në vlerën prej 300.000 lekësh, e parashikuar në vendimin nr. 33, datë 18.1.2017, “Për miratimin e tarifave për shërbimet e ofruara nga Drejtoria për të Drejtën e Autorit”.
