@@ -1,0 +1,1 @@
+Në udhëzimin nr. 1, datë 19.2.2018, “Për kriteret, procedurat dhe mënyrën e administrimit të fondit të programit për bujqësinë dhe zhvillimin rural”, të ndryshuar, bëhen shtesat dhe ndryshimet si më poshtë vijojnë:

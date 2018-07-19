@@ -1,0 +1,1 @@
+2. Në kreun I, masa mbështetëse nr. 45, ndryshohet si vijon: “Mbështetje për investime në agroturizëm kundrejt planit të biznesit, në 50% të vlerës totale të faturave tatimore, por jo më shumë se 10 000 000 (dhjetë milionë) lekë”.

@@ -1,0 +1,1 @@
+1. Në kreun I, masa mbështetëse nr. 44, ndryshohet si vijon: “Mbështetje për ngritjen ose rikonstruksionin e ambienteve për veprimtari të turizmit rural nga 4 deri në 10 dhoma, në 50% të vlerës totale të faturave tatimore por jo më shumë se 1 500 000 (një milion e pesëqind mijë) lekë”.
