@@ -1,0 +1,2 @@
+2. Pas pikës 7 shtohet pika 7/1, me këtë përmbajtje:
+“7/1 Komisioni disiplinor, në rastet kur vihet në dijeni të një pretendimi për shkelje disiplinore, sipas pikës 6/1, të kreut II, të këtij vendimi, e vlerëson paraprakisht atë. Nëse nga vlerësimi i informacionit të marrë nuk rezulton të ketë elemente që mund të klasifikohen si shkelje disiplinore, komisioni disiplinor vendos të mos e fillojë ecurinë disiplinore.”.
