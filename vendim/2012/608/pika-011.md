@@ -1,1 +1,0 @@
-11. Nëse Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, gjatë verifikimit formal konstaton praktika abuzive apo korruptive të institucionit të autorizuar, paraqet menjëherë kallëzim në prokurorinë kompetente.

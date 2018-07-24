@@ -1,1 +1,0 @@
-12. Institucioni i autorizuar, këshilli i qarkut dhe Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme, për qëllime transparence, publikojnë në faqet zyrtare të internetit, si dhe në mjediset e njoftimeve publike çdo vendim të marrë përgjatë kësaj procedure.
