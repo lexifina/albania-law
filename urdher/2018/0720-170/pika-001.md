@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Drejtorisë së Sigurimit të Informacionit të Klasifikuar, me përjashtim të kompetencave të cilat nuk delegohen dhe që janë të shprehura me ligj, drejtorit të Drejtorisë së Vettingut dhe Sigurimit Industrial, z. Mark Ndreca.

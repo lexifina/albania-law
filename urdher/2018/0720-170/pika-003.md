@@ -1,0 +1,1 @@
+3. Delegimin e kompetencave të titullarit në funksion të Kontrollit të Figurës së subjekteve të rivlerësimit, përgjegjësit të Sektorit Juridik dhe Marrëdhënieve Ndërkombëtare, anëtare e grupit të punës, znj. Marsida Fetishi.
