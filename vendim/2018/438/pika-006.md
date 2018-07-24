@@ -1,0 +1,1 @@
+6. Vendimi nr. 961, datë 2.12.2015, i Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e Agjencisë Kombëtare për Zhvillimin Rajonal, të agjencive të zhvillimit rajonal dhe Agjencisë së Zhvillimit Ekonomik Rajonal”, dhe çdo akt tjetër administrativ i nxjerrë në zbatim të tij, shfuqizohen.

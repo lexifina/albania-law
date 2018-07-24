@@ -1,0 +1,1 @@
+2. Të drejtat, detyrimet, arkivat dhe çdo dokumentacion tjetër zyrtar, që disponohet nga Agjencia Kombëtare për Zhvillimin Rajonal (AKZHR), Agjencia e Zhvillimit Ekonomik Rajonal (AZHER) dhe agjencitë e zhvillimit rajonal (AZHR) transferohen te Fondi Shqiptar i Zhvillimit.

@@ -1,0 +1,1 @@
+1. Kalimin e funksioneve të Agjencisë Kombëtare për Zhvillimin Rajonal (AKZHR), Agjencisë së Zhvillimit Ekonomik Rajonal (AZHER) dhe agjencive të zhvillimit rajonal (AZHR) te Fondi Shqiptar i Zhvillimit (FSHZH).

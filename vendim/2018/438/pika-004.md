@@ -1,0 +1,1 @@
+4. Për personelin aktual të Agjencisë Kombëtare për Zhvillimin Rajonal (AKZHR), Agjencisë së Zhvillimit Ekonomik Rajonal (AZHER) dhe të agjencive të zhvillimit rajonal (AZHR) zbatohen dispozitat e Kodit të Punës në rastin e mbylljes dhe të ristrukturimit të institucionit.

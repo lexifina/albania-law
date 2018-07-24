@@ -1,0 +1,1 @@
+5. Ngarkohet Fondit Shqiptar i Zhvillimit, që brenda 6 muajve nga hyrja në fuqi e këtij vendimi, të miratojë rregulloren funksionale dhe strukturën organizative, në zbatim të pikës 1 të këtij vendimi, në përputhje me kërkesat e neneve 4, pika 3, dhe 6, pikat 2, shkronja “d”, dhe 3, të ligjit nr. 10130, datë 11.5.2009, “Për Fondin Shqiptar të Zhvillimit”.
