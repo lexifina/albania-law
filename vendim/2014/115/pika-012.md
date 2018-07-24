@@ -1,0 +1,1 @@
+12. Nëse shkelja që i atribuohet nëpunësit, rezulton se nuk është klasifikuar drejt apo nuk është në juridiksionin lëndor të organit disiplinor që e ka marrë në shqyrtim kërkesën, atëherë ai vendos dërgimin me shkresë zyrtare pranë organit kompetent.

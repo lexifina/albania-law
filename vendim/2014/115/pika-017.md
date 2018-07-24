@@ -1,0 +1,1 @@
+17. Organi disiplinor, pasi shqyrton çështjen sipas pikave 13, 14 dhe 15 të këtij vendimi, dhe pasi ka dëgjuar nëpunësin përkatës ose përfaqësuesin e tij ligjor, apo vë në dukje, me shkrim, mosparaqitjen e tij, megjithëse nëpunësi ka marrë dijeni rregullisht, vendos marrjen e masës disiplinore ose ndërprerjen e ecurisë disiplinore.

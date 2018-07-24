@@ -1,0 +1,1 @@
+6. Në rast të lindjes së nevojës së zëvendësimit të anëtarëve të KD-së, për arsye të pamundësisë apo pengesës ligjore, zbatohen dispozitat për zëvendësimin, të përcaktuara në Kodin e Procedurave Administrative.

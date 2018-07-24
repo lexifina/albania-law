@@ -1,0 +1,1 @@
+16. Në seancën dëgjimore nëpunësi paraqitet vetë ose cakton një përfaqësues, sipas ligjit. Në rast se pas dy njoftimeve të njëpasnjëshme, nëpunësi apo përfaqësuesi i tij nuk paraqiten, ecuria disiplinore vazhdon në mungesë.

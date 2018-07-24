@@ -1,0 +1,1 @@
+11. Në rast se eprori direkt vihet në dijeni për një shkelje disiplinore nga subjektet e përcaktuara në shkronjën “b” të pikës 4 të nenit 59 të ligjit nr. 152/2013, eprori direkt fillon menjëherë ecurinë disiplinore ose, nëse nuk është kompetent për shqyrtimin e saj, ia përcjell informacionin KD-së.
