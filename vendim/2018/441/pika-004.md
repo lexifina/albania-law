@@ -1,0 +1,1 @@
+4. Vendimi nr. 312, datë 15.5.2003, i Këshillit të Ministrave, “Për ndryshimin e varësisë së klubit sportiv shumësportësh “Partizani” nga Ministria e Mbrojtjes te Ministria e Kulturës, Rinisë dhe Sporteve” dhe çdo akt nënligjor i miratuar për këto klube, shfuqizohen.

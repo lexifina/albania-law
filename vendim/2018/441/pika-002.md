@@ -1,0 +1,1 @@
+2. Buxheti i miratuar për vitin 2018 për klubin sportiv shumësportësh “Partizani” dhe klubin sportiv “Studenti”, bashkë me asetet në përdorim, transferohen nga Ministria e Arsimit, Sportit dhe Rinisë te Bashkia Tiranë. Transferimi i fondeve bëhet në formën e transfertës së kushtëzuar.
