@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare nga Këshilli i Ministrave i Republikës së Shqipërisë për qeverinë e Republikës së Greqisë, në shumën 100 000 (njëqind mijë) euro, për lehtësimin e pasojave të dëmeve të shkaktuara nga zjarret masive të muajit korrik 2018.

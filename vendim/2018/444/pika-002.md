@@ -1,0 +1,1 @@
+2. Ministrisë për Evropën dhe Punët e Jashtme, në programin buxhetor “Mbështetje diplomatike jashtë shtetit”, t’i shtohet kundërvlera në lekë e fondit prej 100 000 (njëqind mijë) eurosh, shpenzime korrente, për t’u përdorur si ndihmë financiare për lehtësimin e pasojave të dëmeve të shkaktuara nga zjarret masive të muajit korrik 2018 në Republikën e Greqisë.
