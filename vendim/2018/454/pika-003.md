@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasurinë “truall”, me sipërfaqe 350 m², me vlerë të përgjithshme 621 250 (gjashtëqind e njëzet e një mijë e dyqind e pesëdhjetë) lekë.
