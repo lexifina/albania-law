@@ -1,0 +1,1 @@
+1. Bordi i institucionit arsimor, publik dhe privat (në vijim “bordi”), është organ kolegjial që ka në përbërje të tij përfaqësues nga nxënësit, prindërit dhe mësuesit, si dhe përfaqësues të komunitetit, të njësisë arsimore vendore dhe të njësisë së vetëqeverisjes vendore.

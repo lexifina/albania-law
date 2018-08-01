@@ -1,0 +1,1 @@
+2. Bordi ka si mision të sigurojë që shërbimi arsimor të kryhet sipas politikave arsimore kombëtare e lokale dhe interesave të komunitetit nëpërmjet njohjes së problemeve, zgjidhjes ose adresimit për zgjidhjen e tyre. Bordi kontribuon për mbarëvajtjen e institucionit arsimor në përputhje me aktet ligjore në fuqi.

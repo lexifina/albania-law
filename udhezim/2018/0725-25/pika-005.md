@@ -1,0 +1,1 @@
+5. Në institucionet arsimore, bordi përbëhet nga shtatë vetë: një mësues, dy prindër, dy nxënës, një pjesëtar tjetër i komunitetit dhe një përfaqësues i njësisë së vetëqeverisjes vendore përkatëse. Kur në bord nuk ka nxënës, ai përbëhet nga një mësues, tre prindër, dy pjesëtarë të tjerë të komunitetit dhe një përfaqësues i njësisë së vetëqeverisjes vendore përkatëse.
