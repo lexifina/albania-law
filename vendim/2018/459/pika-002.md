@@ -1,0 +1,1 @@
+2. Prona e përcaktuar në pikën 1 të këtij vendimi, hiqet nga lista e inventarit të pronave të paluajtshme shtetërore që i bashkëlidhet vendimit nr. 250, datë 24.4.2003, të Këshillit të Ministrave, të ndryshuar.
