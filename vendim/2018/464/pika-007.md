@@ -1,0 +1,1 @@
+7. Pronarët e pasurive të përmendur në listën, që i bashkëlidhet këtij vendimi, për të cilat është bërë shënimi “Konfirmim ZVRPP”, “Vërtetim hipotekar”, “Certifikatë pronësie”, të likuidohen për efekt shpronësimi, në bazë të dokumentacionit të plotë të pronësisë, që do të dorëzojnë pranë Autoritetit Rrugor Shqiptar.

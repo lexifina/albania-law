@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasuritë “tokë arë”, “kultura bujqësore dhe drufrutorë”, “objekte” dhe “truall”, prej 4 780 005.5 (katër milionë e shtatëqind e tetëdhjetë mijë e pesë pikë pesë) lekësh, të përballohet nga fondi i shoqërisë “Devoll Hydropower” sh.a.

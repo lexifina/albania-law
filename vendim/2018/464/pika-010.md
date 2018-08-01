@@ -1,0 +1,1 @@
+10. Zyra Qendrore e Regjistrimit të Pasurive të Paluajtshme dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Korçë të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin do të realizohet procesi i hedhjes së trupit të rrugës mbi hartat kadastrale dhe të bëjnë kalimin e pronësisë për pasuritë e shpronësuara në favor të shtetit.
