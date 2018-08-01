@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 7 117 110 (shtatë milionë e njëqind e shtatëmbëdhjetë mijë e njëqind e dhjetë) lekësh, të përballohet nga të ardhurat e Bashkisë Kuçovë, planifikuar në buxhetin e saj.

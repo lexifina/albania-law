@@ -1,0 +1,1 @@
+8. Pronarët e pasurive së paluajtshme, që shpronësohen, sipas tabelës bashkëlidhur këtij vendimi, të kompensohen, për efekt shpro-nësimi, pasi të kenë paraqitur dokumentacionin e pronësisë pranë Bashkisë Kuçovë.

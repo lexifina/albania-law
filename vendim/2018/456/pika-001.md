@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksion i rrugëve ’Naftëtari’, ’Kristaq Lacka’ dhe ’Qemal Stafa’”, Bashkia Kuçovë.
