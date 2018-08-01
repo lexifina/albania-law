@@ -1,0 +1,1 @@
+2. Kjo zonë përfshin territoret urbane, trojet e përziera me tokë bujqësore dhe pyjore, shkurre dhe sipërfaqe ujore. Mbulesa e tokës brenda sipërfaqes së peizazhit të mbrojtur Krastë-Verjon jepet në tabelën 1, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+1. Shpalljen e ekosistemit natyror Krastë-Verjon “Peizazh i mbrojtur”, me një sipërfaqe prej 1469.239 (një mijë e katërqind e gjashtëdhjetë e nëntë pikë dyqind e tridhjetë e nëntë) ha, kategoria V, sipas hartës në shtojcën 1 dhe kufijve të paraqitur sipas tabelës së koordinatave në shtojcën 2, pjesë përbërëse e këtij vendimi.
