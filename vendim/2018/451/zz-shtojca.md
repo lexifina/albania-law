@@ -1,0 +1,20 @@
+# Shtojca
+LISTA E PRONAVE DHE E PRONARËVE QË DO TË SHPRONËSOHEN PËR REALIZIMIN E PROJEKTIT “PËR NDËRTIMIN, REHABILITIMIN DHE MIRËMBAJTJEN E VARREZAVE PUBLIKE, SI DHE GARANTIMIN E SHËRBIMIT PUBLIK TË VARRIMIT”, NË FSHATIN ZENISHT, BASHKIA MAT
+Nr.
+Emër, mbiemër
+Nr. i pasurisë
+Zona kadastrale
+Sipërfaqja truall/m2
+Çmimi/ lekë/m2
+Vlera totale/lekë
+Dokumenti i pronësisë
+1
+Abaz Jakup Dobra
+521/6
+1319
+10100
+114
+1 151 400
+Konfirmuar nga ZVRPP-ja
+TOTALI
+1 151 400

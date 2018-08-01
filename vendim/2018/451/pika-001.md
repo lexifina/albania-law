@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Ndërtimi, rehabilitimi dhe mirëmbajtja e varrezave publike, si dhe garantimi i shërbimit publik të varrimit”, në fshatin Zenisht, Bashkia Mat.
