@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Zgjerim i hapësirës së varrezave në fshatin Shënepremte”, Njësia Administrative Tërbuf, Bashkia Divjakë.
