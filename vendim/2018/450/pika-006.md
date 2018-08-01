@@ -1,0 +1,1 @@
+6. Agjencia Kombëtare e Shoqërisë së Informacionit të ngrejë platformën elektronike intranet, të dedikuar për bashkitë, e cila do të shërbejë për ndarjen e praktikave më të mira, eksperiencave dhe informacionit mbi aktivitetet dhe çështjet e Bashkimit Evropian në bashki.

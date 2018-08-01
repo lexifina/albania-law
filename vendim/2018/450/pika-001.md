@@ -1,0 +1,1 @@
+1. Krijimin e strukturës së integrimit evropian në çdo bashki, si njësi bazë e vetëqeverisjes vendore, brenda strukturave të tyre administrative ekzistuese, në përputhje me parashikimet e ligjit nr. 139/2015, “Për vetëqeverisjen vendore”.

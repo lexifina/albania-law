@@ -1,0 +1,6 @@
+3. Ministria e Brendshme, në bashkëpunim me/dhe me drejtimin e Ministrisë për Evropën dhe Punët e Jashtme, mbështet, koordinon dhe monitoron forcimin e kapaciteteve të bashkive për përmbushjen e kritereve dhe të standardeve që rrjedhin nga procesi i integrimit evropian për funksionet e veta apo të deleguara të bashkisë dhe ka këto përgjegjësi:
+a) Monitoron në mënyrë periodike përmbushjen e detyrimeve nga bashkitë, lidhur me ngritjen e strukturave të integrimit evropian dhe performancën në zbatimin e funksioneve të tyre, sipas përcaktimit të këtij vendimi;
+b) Monitoron, mbështet dhe koordinon punën për zgjidhjen e problemeve të hasura, nëpërmjet Agjencisë për Mbështetjen e Vetëqeverisjes Vendore, me qëllim funksionimin e strukturës së integrimit evropian në çdo bashki;
+c) Mbështet bashkinë në përcaktimin e fushave, prioriteteve dhe/ose çështjeve ku duhet të orientohet kërkesa e tyre për asistencën e Bashkimit Evropian;
+ç) Bashkërendon me bashkitë procesin e vlerësimit kombëtar të performancës së tyre mbi plotësimin e detyrimeve që rrjedhin nga procesi i integrimit evropian;
+d) Analizon zbatimin e masave për realizimin e agjendës së integrimit evropian në nivel vendor dhe ndikimin në lidhje me procesin e negociatave për anëtarësimin në Bashkimin Evropian.
