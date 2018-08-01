@@ -1,0 +1,1 @@
+14. Anëtarët e familjes së titullarëve pajisen me pasaporta diplomatike dhe gëzojnë të njëjtin trajtim me familjet e anëtarëve të diplomatëve, sipas ligjit nr. 23/2015, “Për shërbimin e jashtëm, të Republikës së Shqipërisë”, dhe të akteve nënligjore në fuqi.

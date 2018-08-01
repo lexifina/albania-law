@@ -1,0 +1,1 @@
+11. Titullari i QKD-së emërohet dhe lirohet me urdhër të ministrit përgjegjës për punët e jashtme, me propozimin e ministrit përgjegjës për diasporën, në përputhje me pikën 2, të nenit 31, të ligjit nr. 23/2015, “Për shërbimin e jashtëm të Republikës së Shqipërisë”.

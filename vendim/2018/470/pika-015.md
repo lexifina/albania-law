@@ -1,0 +1,1 @@
+15. Nëpunësit e QKD-ve do të punojnë me kohë të plotë, por nuk do të jenë të akredituar në shtetin pritës. Ata emërohen nga ministri përgjegjës për diasporën, me propozim të kreut të misionit diplomatik.

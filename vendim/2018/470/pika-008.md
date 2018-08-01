@@ -1,0 +1,1 @@
+8. Misionet diplomatike ku do të ushtrojnë aktivitetin e tyre QKD-të, funksionet që do të kryejnë, raportet me kreun e misionit, si edhe çështje të tjera të veprimtarisë së tyre rregullohen me udhëzim të përbashkët të ministrit përgjegjës për punët e jashtme dhe të ministrit përgjegjës për diasporën.

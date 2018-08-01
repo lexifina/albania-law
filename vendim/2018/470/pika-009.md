@@ -1,0 +1,1 @@
+9. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të QKD-së miratohet me urdhër të kreut të misionit diplomatik, në përputhje me udhëzimin e përbashkët të ministrit përgjegjës për punët e jashtme dhe të ministrit përgjegjës për diasporën.
