@@ -1,0 +1,1 @@
+8. Pronarët e pasurive së paluajtshme, që shpronësohen, sipas tabelës bashkëlidhur këtij vendimi, të kompensohen, për efekt shpronë-simi, pasi të kenë paraqitur dokumentacionin e pronësisë pranë Bashkisë Korçë.
