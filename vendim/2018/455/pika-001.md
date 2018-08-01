@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Sistemim dhe asfaltim brenda lagjes ’Isa Boletini’, faza IV”, Bashkia Vlorë.
