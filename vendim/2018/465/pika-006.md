@@ -1,0 +1,1 @@
+6. Task-Forca raporton në mënyrë periodike pranë këshillit drejtues të DPSHTRR-së për konstatimet dhe masat e marra në mënyrë periodike. Këshilli drejtues i DPSHTRR-së ka të drejtë të kërkojë informacion dhe të kryejë kontrolle për çdo çështje të vlerësuar të rëndësishme.

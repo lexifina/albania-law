@@ -1,0 +1,1 @@
+2. Kjo Task-Forcë është në varësi të ministrit të Infrastrukturës dhe Energjisë dhe ka në përbërje 40 punonjës të specializuar, të cilët kontraktohen sipas dispozitave të Kodit të Punës. Drejtuesi i kësaj strukture duhet të ketë eksperiencë të mëparshme në fushën e menaxhimit dhe të realizimit të shërbimeve në transportin rrugor.

@@ -1,0 +1,1 @@
+3. Struktura organizative, përshkrimi i detajuar i detyrave dhe emërimi i punonjësve miratohen me urdhër të ministrit të Infrastrukturës dhe Energjisë. Pagat e punonjësve të Task-Forcës të jenë sipas ankesit 1, që i bashkëlidhet dhe është pjesë përbërëse e këtij vendimi.

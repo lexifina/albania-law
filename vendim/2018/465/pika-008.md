@@ -1,0 +1,1 @@
+8. Fondet e nevojshme për funksionimin, shpenzimet, si dhe për bazën e nevojshme materiale dhe teknike do të përballohen nga Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor, sipas detajimit të shpenzimeve të miratuara nga ministri i Infrastrukturës dhe Energjisë.

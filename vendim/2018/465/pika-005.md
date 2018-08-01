@@ -1,0 +1,1 @@
+5. Task-Forca ndihmohet nga sekretariati teknik në detyrat administrative. Ngarkohet ministri i Infrastrukturës dhe Energjisë për ngritjen e këtij sekretariati dhe për përcaktimin e përbërjes e të mënyrës së funksionimit të tij.
