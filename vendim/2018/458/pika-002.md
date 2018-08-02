@@ -1,0 +1,1 @@
+2. Për pronat e përcaktuara në pikën 1 të këtij vendimi, që janë dhënë me qira ose enfiteozë nga një institucion shtetëror, kontratat e qirasë ose të enfiteozës janë të vlefshme deri në përfundimin e afatit të tyre. Bashkitë janë të detyruara të respektojnë kushtet e kontratës deri në përfundim të afatit të tyre.
