@@ -1,0 +1,1 @@
+18. Ofruesit publikë të formimit profesional, përveç kurseve të unifikuara, mund të ofrojnë edhe kurse të tjera për qëllime dhe nevoja të veçanta, me programe të përgatitura dhe të miratuara nga drejtori i ofruesit.

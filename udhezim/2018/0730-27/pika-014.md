@@ -1,0 +1,1 @@
+14. AKAFPK-ja mbështet procesin e zhvillimit të mëtejshëm dhe të zbatimit të kurrikulave kombëtare të kualifikimeve profesionale dhe programeve të kurseve të unifikuara nga ofruesit publikë të AFP-së.

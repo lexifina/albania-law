@@ -1,0 +1,1 @@
+11. AKAFPK-ja harton dhe rishikon kurrikulat kombëtare të kualifikimeve profesionale dhe programet e kurseve të unifikuara të AFP-së publike sipas një metodologjie që merr në konsideratë standardet e profesioneve/përshkrimet e profesioneve, standardet e kualifikimeve, si dhe faktorë të tjerë që lidhen me grupin e synuar, kushtet dhe procesin e të nxënit.

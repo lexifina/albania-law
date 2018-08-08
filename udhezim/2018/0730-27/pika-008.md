@@ -1,0 +1,1 @@
+8. Kurrikulat kombëtare të kualifikimeve profesionale të niveleve 2-5 të KSHK-së dhe programet e kurseve të unifikuara, pas miratimit nga ministri përgjegjës për AFP-në, publikohen në faqen e internetit të AKAFPK-së.

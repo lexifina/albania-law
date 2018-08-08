@@ -1,0 +1,1 @@
+5. Kurrikulat kombëtare (skelet-kurrikulat) për kualifikimet profesionale të niveleve 2-5 të KSHK-së hartohen dhe rishikohen nga AKAFPK-ja dhe miratohen nga ministri përgjegjës për arsimin dhe formimin profesional.

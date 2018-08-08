@@ -1,0 +1,1 @@
+12. Për hartimin dhe rishikimin e kurrikulave kombëtare të kualifikimeve profesionale dhe programeve të kurseve të unifikuara të AFP-së publike, AKAFPK-ja angazhon grupe pune me bashkëpunëtorë të jashtëm (ekspertë të profesioneve dhe të mësimdhënies),të përzgjedhur pas një konkurrimi të hapur.

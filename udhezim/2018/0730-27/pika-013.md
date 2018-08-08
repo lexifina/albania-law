@@ -1,0 +1,1 @@
+13. AKAFPK-ja rishikon kurrikulat kombëtare të kualifikimeve profesionale dhe programet e kurseve të unifikuara kur ndryshojnë standardet e profesioneve, standardet e kualifikimeve, kushtet mësimore, si dhe faktorët e tjerë.
