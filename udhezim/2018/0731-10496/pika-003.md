@@ -1,0 +1,1 @@
+3. Në zbatim të këtij vendimi, të gjitha aktet nënligjore dhe administrative për vlerësimin e investimeve të kryera për projektet e ndërtimit të kapaciteteve prodhuese të energjisë elektrike, të nxjerra përpara hyrjes në fuqi të këtij udhëzimi, do të konsiderohen të vlefshme.
