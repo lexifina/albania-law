@@ -1,0 +1,1 @@
+2. Ministria për Evropën dhe Punët e Jashtme, nëpërmjet misionit diplomatik të Republikës së Shqipërisë në Shtetet e Bashkuara të Amerikës, do të organizojë procedurat e nevojshme ndërshtetërore për të sjellë në atdhe eshtrat e personalitetit Mid’hat Frashëri.

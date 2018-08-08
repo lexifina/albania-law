@@ -1,0 +1,1 @@
+3. Ceremonia shtetërore e kthimit në atdhe të eshtrave do të organizohet gjatë javës përkujtimore të 110-vjetorit të Kongresit të Manastirit, 14-22 nëntor 2018, e cila përkon me një nga kremtimet madhore të Vitit Mbarëkombëtar të Gjergj Kastriotit-Skënderbeut.
