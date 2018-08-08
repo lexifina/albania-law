@@ -1,0 +1,1 @@
+1. Dhënien e lejes për hapjen e institucionit të arsimit të lartë jopublik, me statusin e kolegjit profesional të lartë, “Tirana Esthetics & Style School” (në vijim, kolegji profesional i lartë “TESS”), i cili ushtron veprimtarinë në qytetin e Tiranës, shoqërisë “NLT” sh.p.k.
