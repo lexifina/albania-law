@@ -1,0 +1,1 @@
+7. Ndryshimet që mund të pësojë institucioni arsimor privat parauniversitar i licencuar në vendndodhjen dhe në infrastrukturën e godinës shqyrtohen e miratohen në Ministrinë e Arsimit, Sportit dhe Rinisë, pas miratimit të njësisë arsimore vendore, 3 muaj para fillimit të vitit shkollor përkatës.

@@ -1,0 +1,1 @@
+3. Në institucionin arsimor privat parauniversitar të arsimit bazë “British School of Tirana”, mësimi të zhvillohet në gjuhën angleze. Në lëndët “Gjuhë shqipe”, “Letërsi shqipe”, “Histori e kombit shqiptar” dhe “Gjeografi e Shqipërisë” mësimi të zhvillohet, detyrimisht, në gjuhën shqipe.
