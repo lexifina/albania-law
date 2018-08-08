@@ -1,0 +1,1 @@
+3. Ministrisë së Arsimit, Sportit dhe Rinisë dhe institucioneve përdoruese të pronës, së përcaktuar në pikën 1, të këtij vendimi, u ndalohet ta ndryshojnë destinacionin e pronës ose ta tjetërsojnë atë.

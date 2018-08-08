@@ -1,0 +1,1 @@
+2. Godina dykatëshe, sipas planimetrisë nr. 2, bashkëlidhur këtij vendimi, të mbetet në përdorim të Inspektoratit Shtetëror të Mjedisit, Pyjeve, Ujërave dhe Turizmit, në varësi të Ministrisë së Turizmit dhe Mjedisit.
