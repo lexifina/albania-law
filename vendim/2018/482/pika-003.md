@@ -1,0 +1,1 @@
+3. Në institucionin arsimor privat para-universitar të arsimit bazë dhe të arsimit të mesëm të lartë, “Kings Tirana” mësimi do të zhvillohet në gjuhë të huaj anglisht. Në lëndët si “Gjuhë shqipe”, “Letërsi shqipe”, “Historia e kombit shqiptar” dhe “Gjeografia e Shqipërisë”, mësimi do të zhvillohet, detyrimisht, në gjuhën shqipe.

@@ -1,0 +1,1 @@
+2. Institucioni arsimor privat parauniversitar i arsimit bazë dhe i arsimit të mesëm të lartë “Kings Tirana” do të ushtrojë veprimtarinë arsimore në adresën: rruga “Kodra e Dërhemit”, godina arsimore “Kazazi”, hyrja B, Lundër 1, Tiranë.
