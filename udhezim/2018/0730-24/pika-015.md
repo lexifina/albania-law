@@ -1,0 +1,1 @@
+15. Tarifa për njohjen dhe njësimin e certifikatave dhe diplomave që i përkasin nivelit 2 deri në 5 të Kornizës Shqiptare të Kualifikimeve, për çdo certifikatë/diplomë që kërkohet të njësohet, është 3,000 (tre mijë) lekë.

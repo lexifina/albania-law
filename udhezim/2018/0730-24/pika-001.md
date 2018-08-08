@@ -1,0 +1,1 @@
+1. Njohjen e kualifikimeve profesionale të niveleve 2 deri në nivelin 5 të Kornizës Shqiptare të Kualifikimeve (KSHK), që nënkuptojnë njohjen dhe njësimin e kualifikimeve profesionale të certifikuara jashtë vendit nga ofrues të AFP-së ose institucione të tjera të autorizuara nga kuadri ligjor i vendit përkatës për lëshimin e tyre.

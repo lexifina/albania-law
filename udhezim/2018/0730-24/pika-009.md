@@ -1,0 +1,1 @@
+9. Njësia e AFP-së në ministrinë përgjegjëse për AFP-në, kërkon informacion edhe mbi statusin e institucioneve që e kanë lëshuar dokumentin që kërkohet të njësohet, vlefshmërinë e atij dokumenti dhe çdo informacion tjetër që konsiderohet i nevojshëm për njohjen.

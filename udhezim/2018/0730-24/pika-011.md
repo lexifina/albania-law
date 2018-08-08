@@ -1,0 +1,1 @@
+11. Për njohjen dhe njësimin e certifikatave, diplomave e titujve të lëshuara në përfundim të kualifikimeve profesionale që i përkasin nivelit 2-5 të KSHK-së, ngrihet Komisioni i Njohjes nga ministri përgjegjës për AFP-në, i cili drejtohet nga drejtuesi i drejtorisë së AFP-së dhe ka në përbërje 2 përfaqësues nga kjo drejtori dhe 1 nga AKAFPK.

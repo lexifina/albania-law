@@ -1,0 +1,1 @@
+3. Njohja dhe njësimi i kualifikimeve profesionale jashtë vendit ka për qëllim garantimin e të drejtës së personave për të vijuar arsimimin e formimin profesional, arsimin e lartë ose punësimin në vend.
