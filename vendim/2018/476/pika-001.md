@@ -1,0 +1,1 @@
+1. Miratimin e tavaneve përfundimtare të shpenzimeve të programit buxhetor afatmesëm 2019-2021, sipas lidhjes nr. 1, “Tavanet përfundimtare sipas ministrive të linjës dhe institucioneve buxhetore”, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
