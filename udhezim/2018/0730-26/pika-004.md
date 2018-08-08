@@ -1,0 +1,1 @@
+4. Agjencia Kombëtare e Arsimit, Formimit Profesionale dhe Kualifikimeve (AKAFPK), në bashkëpunim me komitetet sektoriale përkatëse, inicion hartimin dhe mirëmbajtjen e KKKP-së duke propozuar përfshirjen, hartimin dhe rishikimin e standardeve të profesioneve, standardeve të kualifikimeve profesionale, standardeve përkatëse të vlerësimit të niveleve 2-5 të KSHK-së.

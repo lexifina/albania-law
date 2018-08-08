@@ -1,0 +1,1 @@
+8. Vendimi i miratimit të KKKP-së duhet të përfshijë emërtimin e kualifikimeve profesionale, nivelin përkatës në KSHK, volumin e të nxënit, kohëzgjatjen e periudhës së miratimit, si dhe anekse të dokumenteve zhvillimore që shoqërojnë çdo kualifikim profesional.

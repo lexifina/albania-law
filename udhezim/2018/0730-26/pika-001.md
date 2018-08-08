@@ -1,0 +1,1 @@
+1. Katalogu Kombëtar i Kualifikimeve Profesionale (KKKP) është një instrument dinamik, i cili liston dhe bën të aksesueshme për ofruesit e AFP-së dhe të gjithë personat e interesuar informacion për të gjitha kualifikimet profesionale që përfshihen në KSHK, sipas nivelit të caktuar.

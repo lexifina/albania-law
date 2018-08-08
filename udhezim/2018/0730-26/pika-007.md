@@ -1,0 +1,1 @@
+7. Miratimi i përfshirjes së kualifikimeve profesionale në KKKP-së është i vlefshëm për një periudhë 4-vjeçare, pas së cilës kualifikimet profesionale duhet t’i nënshtrohen sipas të njëjtës procedurë procesit të miratimit.

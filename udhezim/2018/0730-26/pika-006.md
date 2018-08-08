@@ -1,0 +1,1 @@
+6. Miratimi i KKKP-së është procesi përmes të cilit ministri përgjegjëse për arsimin dhe formimin profesional, në bazë të propozimit të hartuar nga AKAFPK-ja, miraton përfshirjen në KKKP të kualifikimeve profesionale për nivelet 2-5 të KSHK-së.
