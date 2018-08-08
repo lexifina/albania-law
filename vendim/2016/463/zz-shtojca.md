@@ -1,0 +1,102 @@
+# Shtojca
+LISTA E PASURIVE QË DO TË PËRFSHIHEN NË “ZONËN E TEKNOLOGJISË DHE ZHVILLIMIT EKONOMIK”, KOPLIK, MALËSI E MADHE
+Nr.
+Zona kadastrale
+Nr. i pasurisë
+Lloji i pasurisë
+Sipërfaqja m2
+Statusi i pronësisë
+1
+2220
+201/8
+arë
+985
+shtet
+2
+2220
+193
+arë
+24,823
+shtet
+3
+2220
+194
+arë
+20,878
+shtet
+4
+2220
+163
+arë
+32,801
+shtet
+5
+2220
+160
+arë
+63,747
+shtet
+6
+2220
+159
+arë
+23,942
+shtet
+7
+2220
+200
+arë
+86,417
+shtet
+8
+2220
+195/1
+kullotë
+43,392
+shtet
+9
+2220
+157
+arë
+20,969
+shtet
+10
+2220
+158/1
+arë
+21,397
+shtet
+11
+2220
+187/2
+arë
+55,941
+shtet
+12
+2220
+185/4
+kullotë
+88,552
+shtet
+13
+2220
+192
+arë
+22,000
+shtet
+14
+2221
+388
+kullotë
+73,627
+shtet
+15
+2221
+387
+kullotë
+30,568
+shtet
+610039
+SHUMA
+HARTA E “ZONËS SË TEKNOLOGJISË DHE ZHVILLIMIT EKONOMIK”
+KOPLIK, MALËSI E MADHE, SIPËRFAQJA 61 ha

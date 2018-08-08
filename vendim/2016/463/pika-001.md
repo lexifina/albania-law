@@ -1,0 +1,1 @@
+1. Shpalljen “Zonë e teknologjisë dhe zhvillimit ekonomik” të territorit me sipërfaqe 61 (gjashtëdhjetë e një) ha, pjesë e zonës kadastrale nr. 2220, në Koplik, Malësi e Madhe, të përbërë nga parcelat me numrat e pasurive dhe sipërfaqet përkatëse, sipas listës që i bashkëlidhet këtij vendimi.
