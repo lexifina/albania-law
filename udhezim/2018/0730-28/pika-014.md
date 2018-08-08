@@ -1,0 +1,1 @@
+14. Kryetari i bordit shkarkohet me votim të fshehtë të anëtarëve të bordit, me shumicë të thjeshtë. Votimi për shkarkimin e kryetarit të bordit zhvillohet nëse kërkohet nga të paktën 3 anëtarë në rast të moskryerjes në mënyrë të duhur të detyrave ose në rast mungesash të vazhdueshme në mbledhje.

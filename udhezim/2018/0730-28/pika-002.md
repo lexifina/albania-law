@@ -1,0 +1,1 @@
+2. Bordi mblidhet të paktën 1 herë në tre muaj dhe shqyrton mbi baza tremujore realizimin e planit dhe aspekte të tjera që lidhen me veprimtarinë aktuale dhe të ardhshme të institucionit ofrues të AFP-së. Bordi duhet të mblidhet domosdoshmërisht para fillimit dhe para përfundimit të vitit shkollor.

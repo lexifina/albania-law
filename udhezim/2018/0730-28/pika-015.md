@@ -1,0 +1,1 @@
+15. Mbledhjet e bordit thirren nga kryetari, të paktën 4 anëtarë ose drejtori i institucionit ofrues të AFP-së. Mbledhjet quhen të vlefshme kur marrin pjesë të paktën 5 anëtarë, përndryshe shtyhen për një datë tjetër të afërt.

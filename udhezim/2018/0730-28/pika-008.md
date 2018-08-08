@@ -1,0 +1,1 @@
+8. Kërkesa për pjesëmarrje në bord së bashku me një letër motivimi dorëzohen drejtuesi institucionit ofrues, i cili përzgjedh 2 anëtarët që do të përfaqësojnë sektorin privat në bordin e një ofruesi të AFP-së.

@@ -1,0 +1,1 @@
+1. Bordi Drejtues i ofruesve publikë të AFP-së, këtu e në vijim referuar shkurtimisht në këtë udhëzim si “bordi”, ka për qëllim të mbështesë administrimin e drejtimin e institucioneve ofruese të AFP-së në mënyrë autonome, në përputhje me nevojat e tregut të punës dhe legjislacionin në fuqi.

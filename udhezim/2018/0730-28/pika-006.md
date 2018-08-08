@@ -1,0 +1,1 @@
+6. Përfaqësuesit e sektorit privat zgjidhen nga sektorët që lidhen me profilet që kanë numrin më të madh të nxënësve apo praktikantëve ose kanë mbështetur institucionin në ndonjë nga mënyrat. Ato zgjidhen për një periudhë 4-vjeçare, me të drejtë rizgjedhje vetëm 1 herë.

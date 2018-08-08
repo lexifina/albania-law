@@ -1,0 +1,1 @@
+7. Ftesa për pjesëmarrje në bord nga përfaqësuesit e biznesit i drejtohet me shkrim shoqërive tregtare dhe organizatave të biznesit që operojnë në rajonin ku ndodhet institucioni ofrues i AFP-së. Ftesa për pjesëmarrje përmban edhe informacionin e nevojshëm për kushtet, afatet e mënyrën e aplikimit.

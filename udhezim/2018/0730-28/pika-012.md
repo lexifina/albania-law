@@ -1,0 +1,1 @@
+12. Veprimtaria e bordit drejtohet nga kryetari, pozicionin e të cilit e mban përfaqësuesi i sektorit privat profili i të cilit ka numrin më të madh të nxënësve apo kursantëve. Në mungesë të kryetarit, mbledhja e bordit drejtohet nga përfaqësuesi tjetër i sektorit privat.
