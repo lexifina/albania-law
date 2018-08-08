@@ -1,0 +1,1 @@
+3. Masat menaxhuese të peshkimit të përputhen me statusin mjedisor të zonës. Veprimtaritë që do të kryhen në liqenin e Ulzës të jenë në përputhje me legjislacionin në fuqi për zonat e mbrojtura dhe me objektivat e planit të menaxhimit të parkut natyror rajonal, kategoria IV, për liqenin e Ulzës.
