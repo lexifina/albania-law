@@ -1,0 +1,1 @@
+13. Pas miratimit, komisioni ia dërgon rezultatet e vlerësimit ministrit të Arsimit, Sportit dhe Rinisë dhe ministrit të Shëndetësisë dhe Mbrojtjes Sociale, të cilët bëjnë emërimin me shkresë të përbashkët.

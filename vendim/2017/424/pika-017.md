@@ -1,0 +1,1 @@
+17. Vlerësimi i punës së drejtuesit të shërbimit bëhet përmes vlerësimit të treguesve të performancës si dhe në bazë të detyrimeve kontraktore sipas parashikimeve në kontratën përkatëse të lidhur në momentin e marrjes së detyrës. Vlerësimi i punës është vjetor dhe kryhet nga drejtori i strukturës shëndetësore universitare ku shërbimi në fjalë bën pjesë.

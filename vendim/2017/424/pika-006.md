@@ -1,0 +1,1 @@
+6. Komisioni organizon punën nëpërmjet sekretariatit të përbashkët me 5 (pesë) anëtarë, të cilët bëjnë verifikimin e dokumentacionit të dorëzuar për çdo aplikues dhe përputhshmërinë e kritereve të përcaktuara me këtë vendim.

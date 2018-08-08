@@ -1,0 +1,1 @@
+3. Procedurat për përzgjedhjen e drejtuesit të shërbimit shëndetësor universitar nisin nga rektorati i IAL- së (UMT), me përfundimin e mandatit të radhës, me kërkesë të strukturës shëndetësore universitare përkatëse.

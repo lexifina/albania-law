@@ -1,0 +1,1 @@
+14. Kandidati fitues lidh kontratë punësimi trepalëshe me drejtuesin e strukturës shëndetësore universitare, pjesë e së cilës është shërbimi përkatës, dhe me drejtuesin e IAL-së përkatëse. Mospërmbushja e detyrimeve kontraktore që lidhen me funksionimin e strukturës shëndetësore universitare përbën shkak për prishjen e kontratës trepalëshe.

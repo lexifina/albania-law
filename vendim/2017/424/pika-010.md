@@ -1,0 +1,1 @@
+10. Kandidatët konkurrues për një shërbim të caktuar vlerësohen nga komisioni përkatës, sipas përcaktimeve dhe kritereve të përcaktuara në udhëzimin e përbashkët të ministrit të Shëndetësisë dhe Mbrojtjes Sociale dhe ministrit të Arsimit, Sportit dhe Rinisë. Aneksi 1 bashkëlidhur vendimit shfuqizohet.

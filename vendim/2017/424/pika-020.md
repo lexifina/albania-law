@@ -1,0 +1,1 @@
+20. Në rastet e IAL-ve jopublike procedurat kryhen nga IAL-ja jopublike dhe struktura shëndetësore universitare jopublike përkatëse, sipas statuteve përkatëse dhe udhëzimeve të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale dhe Ministrisë së Arsimit, Sportit dhe Rinisë.
