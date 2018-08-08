@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 9 868 500 (nëntë milionë e tetëqind e gjashtëdhjetë e tetë mijë e pesëqind) lekësh, të përballohet nga të ardhurat e Bashkisë Shkodër, planifikuar në buxhetin e saj.
