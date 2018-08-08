@@ -1,0 +1,1 @@
+4. Ministria e Mbrojtjes dhe Ministria e Brendshme të nënshkruajnë aktmarrëveshjen përkatëse për dhënien në përdorim të pjesës së pronës me numër rendor 180, me emërtimin “Policia Ushtarake (reparti ushtarak nr. 6620)”, sipas pikës 1, të vendimit, duke përcaktuar detyrimet e ndërsjella për secilin institucion.
