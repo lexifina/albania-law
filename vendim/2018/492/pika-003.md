@@ -1,0 +1,1 @@
+3. “Agjencia”, termi i përdorur në këtë vendim, i cili ka të njëjtin kuptim me përkufizimin “Agjencia Kombëtare e Planifikimit të Territorit (AKPT)”, sipas përcaktimeve të ligjit​ nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar.

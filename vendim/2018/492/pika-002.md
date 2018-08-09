@@ -1,0 +1,1 @@
+2. “Akademia 100 + fshatrat” është një nismë me një seri aktivitetesh që kanë si objektiv kryesor hartimin e modeleve të zhvillimit për secilin prej 100 + fshatrave dhe që kryhen në zbatim të Programit Kombëtar të Zhvillimit Rural, me fokus 100 + fshatrat dhe në vijim të nënshkrimit të memorandumeve të mirëkuptimit.
