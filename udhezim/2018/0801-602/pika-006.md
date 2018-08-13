@@ -1,0 +1,1 @@
+6. Nëse vlerësohet e nevojshme, gjatë procedurës së vlerësimit të kërkesës, strukturat përkatëse pranë ministrisë përgjegjëse për çështjet sociale mund të kryejnë vizitë vlerësuese në mjediset ku ushtron veprimtarinë organizata.

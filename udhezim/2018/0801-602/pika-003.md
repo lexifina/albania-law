@@ -1,0 +1,1 @@
+3. Kur një ndërmarrje sociale ushtron veprimtari për të cilat nevojitet licencë, pajisja me licencë, sipas përcaktimeve ligjore që rregullojnë licencimin, duhet të sigurohet përpara aplikimit për marrjen e statusit.

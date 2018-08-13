@@ -1,0 +1,1 @@
+2. Kërkesa duhet të jetë në formë të shkruar dhe duhet të përmbajë edhe një përshkrim të shkurtër të veprimtarisë së organizatës dhe parashtrim të arsyeve se si organizata përmbush kriteret ekonomike dhe sociale të parashikuara në ligj për ndërmarrjet sociale.
