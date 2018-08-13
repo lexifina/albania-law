@@ -1,0 +1,1 @@
+3. Autorizohet Autoriteti Rrugor Shqiptar të lidhë kontratë me studion avokatore italiane, e cila ka kryer përfaq ësimin, deri në këtë moment, të Republikës së Shqipërisë në gjykatat italiane, të negociuar nga Avokatura e Shtetit, me vlerë të përgjithshme 180 000 (njëqind e tetëdhjetë mijë) euro.
