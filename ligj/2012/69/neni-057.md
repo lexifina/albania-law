@@ -1,0 +1,10 @@
+# Neni 57
+Profesioni i mësuesit
+1. Mësuesi për arsimin parashkollor duhet të ketë fituar diplomën e ciklit të parë “Bachelor”, që formon mësues të arsimit parashkollor.
+2. Mësuesi për arsimin fillor duhet të ketë fituar diplomën e ciklit të parë “Bachelor” dhe diplomë të ciklit të dytë “Master Profesional”, që formon mësues të arsimit fillor, ose diplomë për arsimin fillor të ish-instituteve të larta pedagogjike.
+3. Mësuesi për arsimin e mesëm të ulët dhe për arsimin e mesëm të lartë duhet të ketë fituar diplomën e ciklit të parë “Bachelor” në fushën/lëndët e arsimit të mesëm të ulët dhe të arsimit të mesëm të lartë dhe diplomën e ciklit të dytë “Master” me 120 ECTS në fushën e mësuesisë, që lidhet me programin e studimit të ciklit të parë.
+4. Profesioni i mësuesit mund të ushtrohet edhe nga individë që zotërojnë diplomë universitare të ciklit të parë dhe të dytë ose diplomë universitare të integruar, të ngjashme ose të përafërt me fushën/lëndët e mësimdhënies në arsimin parauniversitar, dhe njohuri të certifikuara në formimin psikopedagogjik nga institucione të arsimit të lartë, që ofrojnë programe të studimeve të formimit të vazhduar.
+Diplomat e njëvlershme, diplomat e ngjashme ose të përafërta me diplomat e sipërpërmendura të këtij neni në fushat/lëndët e mësimdhënies në arsimin parauniversitar dhe kriteret për hapjen e programeve të studimeve të formimit të vazhduar në fushën psikopedagogjike përcaktohen me udhëzim të ministrit.
+5. Mësuesi i arsimit fillor, i arsimit të mesëm të ulët dhe i arsimit të mesëm të lartë, mësuesi i shkollave të arsimit të orientuar, mësuesi i kulturës së përgjithshme në shkollat profesionale, mësuesi që punon me nxënësit me aftësi të kufizuara dhe mësuesi me diplomë të ngjashme ose të përafërt me diplomat në fushat/lëndët e mësimdhënies në arsimin parauniversitar ushtron profesionin pasi:
+a) të ketë kryer me sukses praktikën profesionale;
+b) të ketë kaluar me sukses provimin e shtetit në fushën e formimit të tij, siç parashikohet në ligjin nr. 10 171, datë 22.10.2009, “Për profesionet e rregulluara në Republikën e Shqipërisë”, të ndryshuar, dhe në aktet nënligjore të nxjerra në zbatim të tij.

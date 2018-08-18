@@ -1,0 +1,6 @@
+# Neni 65
+Organizimi i arsimimit të fëmijëve më aftësi të kufizuara
+1. Nxënësit me aftësi të kufizuara mësojnë sipas planit mësimor e programeve lëndore të zakonshme, të përshtatura për ta, ose sipas planit mësimor e programeve lëndore të specializuara për ta.
+2. Në institucionet arsimore të zakonshme, programi i personalizuar për nxënësin me aftësi të kufizuara hartohet nga një komision, në përbërje të të cilit janë mësues të fushave të ndryshme të të nxënit të institucionit e psikologë. Hartimi i këtij programi bëhet në bashkëpunim me prindërit e nxënësit. Ndryshimi i programit të personalizuar brenda një institucioni arsimor vendoset nga komisioni brenda institucionit, në bashkëpunim me prindërit e fëmijës.
+3. Nxënësve me aftësi të kufizuara u sigurohen mësues ndihmës dhe shërbim rehabilitues, sipas kritereve të përcaktuara me udhëzim të ministrit. Punonjësit arsimorë të institucioneve, që kanë nxënës me aftësi të kufizuara, certifikohen në programe trajnimi për trajtimin e këtyre nxënësve.
+4. Njësia përkatëse bazë e vetëqeverisjes vendore u siguron nxënësve me aftësi të kufizuara mjediset e përshtatshme të mësimdhënies e të të nxënit, sipas standardeve të përcaktuara nga ministria.
