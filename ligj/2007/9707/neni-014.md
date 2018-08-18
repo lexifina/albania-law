@@ -1,7 +1,0 @@
-# Neni 14
-Regjistrimi i subjekteve të përfshira në transferimin ndërkombëtar të mallrave
-Subjektet tregtare, që kanë qëllim të kryejnë transferime ndërkombëtare të mallrave, përfshirë ato që kërkojnë të angazhohen në veprimtari ndërmjetësimi në transferimet ndërkombëtare të mallrave, të destinuara për qëllime ushtarake, regjistrohen paraprakisht si subjekte të përfshira në këtë transferim edhe pranë Autoritetit të Kontrollit Shtetëror të Eksporteve, ku duhet të paraqesin të dhëna dhe dokumente të nevojshme për kryerjen e ekspertizës së mallrave.
-Në bazë të rezultateve të ekspertizës, Autoriteti i Kontrollit Shtetëror të Eksporteve identifikon mallrat, përcakton kushtet e transferimit të tyre ndërkombëtar në shtete të veçanta dhe u lëshon këtyre subjekteve certifikatën e regjistrimit, si subjekte të përfshira në transferime ndërkombëtare mallrash, bashkë me sqarimet plotësuese përkatëse për veçoritë e transferimit ndërkombëtar të mallrave.
-Subjekti tregtar, në ekspertizën e mallrave, mund të asistohet nga persona apo organe të licencuara për kryerjen e identifikimit paraprak të mallrave.
-Subjekti tregtar mban përgjegjësi për moskryerjen e identifikimit paraprak të mallrave dhe të veprimeve të nevojshme për marrjen e licencës për transfertat ndërkombëtare të mallrave, si dhe për importimin e tyre pa dokumente nga Republika e Shqipërisë.
-Procedurat e kryerjes së ekspertizës rregullohen me vendim të Këshillit të Ministrave.

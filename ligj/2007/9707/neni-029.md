@@ -1,5 +1,0 @@
-# Neni 29
-Parandalimi i shkeljeve të legjislacionit dhe përgjegjësia për kontrollin shtetëror të eksportit
-Autoriteti i Kontrollit Shtetëror të Eksporteve dhe organet e tjera shtetërore, brenda kompetencave ligjore, për parandalimin e shkeljeve të legjislacionit në fushën e kontrollit shtetëror të eksportit, kanë të drejtë të kryejnë verifikime për shkeljet e legjislacionit në fushën e kontrollit shtetëror të eksportit, përfshirë edhe kontrollin e mbërritjes në destinacion të mallit, korrespondencën, dokumentet për objektivat e deklaruar, si dhe dokumente të tjera, mbi të cilat bazohet transferimi ndërkombëtar i mallrave.
-Kur organi shtetëror vëren shkeljet e parashikuara në nenin 30 të këtij ligji, njofton menjëherë Autoritetin e Kontrollit Shtetëror të Eksporteve.
-Kur ka të dhëna të mjaftueshme se po përgatitet për t’u kryer një vepër penale ose kur ajo është kryer në fakt nga ndonjë subjekt, kur në të janë të përfshira edhe mallra, që janë objekt i kontrollit shtetëror të eksportit, Autoriteti i Kontrollit Shtetëror të Eksporteve njofton autoritetin e ndjekjes penale.

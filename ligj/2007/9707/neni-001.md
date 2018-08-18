@@ -1,3 +1,0 @@
-# Neni 1
-Qёllimi
-Ky ligj rregullon veprimtarinë e kontrollit shtetëror mbi eksportin, importin, kalimin tranzit, transferimin dhe veprimtaritё ndёrmjetёsuese pёr mallrat ushtarake dhe mallrat e teknologjitё me pёrdorim tё dyfishtё, pёr sigurimin e interesave kombёtarë tё Republikёs sё Shqipёrisё, mbikёqyrjen e respektimit tё angazhimeve tё saj nё traktatet ndёrkombёtare pёr mospёrhapjen e armёve tё dёmtimit nё masё dhe sistemet e lёshimit tё tyre, transferimin e armёve konvencionale, si dhe pёr zbatimin e masave, qё synojnё parandalimin e pёrdorimit tё kёtyre mallrave nga terroristё dhe grupe tё tjera pёr qёllime tё kundёrligjshme.
