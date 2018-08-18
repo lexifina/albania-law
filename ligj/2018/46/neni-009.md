@@ -1,0 +1,11 @@
+# Neni 9
+Autoriteti shtetëror për kontrollin e transferimeve ndërkombëtare të mallrave ushtarake, artikujve dhe teknologjive me përdorim të dyfishtë
+1. Në Ministrinë e Mbrojtjes funksionon Autoriteti i Kontrollit Shtetëror të Eksporteve (AKSHE), e cila është struktura shtetërore përgjegjëse për transferimet ndërkombëtare të mallrave ushtarake, të artikujve dhe të teknologjive me përdorim të dyfishtë.
+Autoriteti i Kontrollit Shtetëror të Eksporteve është institucion qendror, me statusin e personit juridik, publik, në varësi të ministrit të Mbrojtjes, me seli në Tiranë.
+2. Autoriteti i Kontrollit Shtetëror të Eksporteve kryen detyrat si më poshtë:
+a) regjistron, sipas rastit, personat fizikë e juridikë, përfshirë edhe autoritetet publike, për kryerjen e veprimtarive me mallra ushtarake, si dhe licencon veprimtaritë e transferimit ndërkombëtar të mallrave të kontrolluara;
+b) lëshon, sipas kërkesës së personave të interesuar, licenca, certifikata regjistrimi, certifikata ndërkombëtare të importit, certifikata të shpërndarjes së mallit, si dhe dokumente të tjera të parashikuara në këtë ligj dhe në aktet nënligjore në zbatim të tij;
+c) kryen veprimtari kontrolli në të gjitha fazat e licencimit, regjistrimit, njoftimit, livrimit, pas livrimit, si dhe, sipas rastit, në të gjitha fazat e paralicencimit;
+ç) bashkërendon sistemin kombëtar të veprimtarive me mallrat e kontrolluara dhe zhvillon veprimtari periodike për informimin dhe përgatitjen e institucioneve të tjera shtetërore dhe të grupeve të interesit të lidhura me kontrollin e veprimtarive me mallra të kontrolluara, si dhe veprimtari të tjera të bashkëpunimit ndër-institucional dhe me publikun.
+3. Transferimi ndërkombëtar i mallrave bëhet në bazë të licencave, të autorizimeve dhe të certifikatave të lëshuara nga Autoriteti i Kontrollit Shtetëror të Eksporteve, pas marrjes së mendimit të organeve të tjera shtetërore, sipas fushës së kompetencës.
+4. Këshilli i Ministrave miraton me vendim, organizimin, përbërjen, funksionimin dhe statusin e Autoritetit të Kontrollit Shtetëror të Eksporteve dhe afatet, mënyrën dhe procedurën për shkëmbimin e informacionit dhe marrjes së mendimit me institucionet e tjera, të përfshira në transferimet ndërkombëtare të mallrave të kontrolluara.

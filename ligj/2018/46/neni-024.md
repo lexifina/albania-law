@@ -1,0 +1,6 @@
+# Neni 24
+Asistenca teknike
+1. Ofrimi i asistencës teknike për artikujt dhe teknologjitë me përdorim të dyfishtë nuk është objekt licencimi nga Autoriteti i Kontrollit Shtetëror të Eksporteve, përveç rastit të përcaktuar në pikën 2 të këtij neni.
+2. Licenca do të kërkohet për asistencë teknike që ka të bëjë me artikujt me përdorim të dyfishtë të specifikuar në listën e kontrollit jashtë territorit të Republikës së Shqipërisë, nëse Autoriteti i Kontrollit Shtetëror të Eksporteve e ka informuar ofruesin e asistencës teknike që një asistencë e tillë është ose mund të jetë e destinuar për qëllime të parashikuara në nenin 11 të këtij ligji.
+3. Nëse ofruesi i asistencës teknike është në dijeni apo ka baza për të dyshuar se asistenca teknike që ai synon të japë në lidhje me artikujt me përdorim të dyfishtë të përcaktuar në listë është ose mund të jetë e destinuar për qëllimet e përcaktuara në nenin 11, të këtij ligji, ai njofton Autoritetin e Kontrollit Shtetëror të Eksporteve, i cili përcakton nëse për një asistencë të tillë teknike nevojitet licencë.
+4. Asistenca teknike e përcaktuar në pikat 2 dhe 3, të këtij neni, mund të jepet vetëm në rast se Autoriteti i Kontrollit Shtetëror të Eksporteve lëshon licencë apo arrin në përfundimin se një licencë e tillë nuk është e nevojshme.

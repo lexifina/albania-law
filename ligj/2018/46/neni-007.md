@@ -1,0 +1,4 @@
+# Neni 7
+Shkëmbimi i të dhënave në procesin e kontrollit shtetëror të transferimeve ndërkombëtare
+1. Autoriteti i Kontrollit Shtetëror të Eksporteve ka të drejtë të marrë nga organet e tjera shtetërore, si dhe subjektet e tjera, të përfshira në transferimet ndërkombëtare të mallrave të kontrolluara, të gjitha të dhënat e nevojshme për ushtrimin e funksioneve të tij, në lidhje me kontrollin e transferimit ndërkombëtar. Ai mund t’i përdorë dhe t’i shkëmbejë këto të dhëna me agjenci të tjera homologe ndërkombëtare, vetëm për qëllim të kryerjes së kontrollit ndërkombëtar të transferimit dhe mbrojtjen e interesave kombëtarë.
+2. Shkëmbimi i informacionit për transferimet ndërkombëtare të mallrave të kontrolluara nuk duhet të jetë në kundërshtim me legjislacionin shqiptar në fuqi dhe interesat kombëtarë.

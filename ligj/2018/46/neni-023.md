@@ -1,0 +1,6 @@
+# Neni 23
+Shërbimet ndërmjetësuese
+1. Ndërmjetësimi i artikujve dhe i teknologjive me përdorim të dyfishtë nuk është objekt licencimi nga Autoriteti i Kontrollit Shtetëror të Eksporteve, përveç rastit të përcaktuar në pikën 2 të këtij neni.
+2. Licenca do të kërkohet për shërbime ndërmjetësuese që kanë të bëjnë me artikuj me përdorim të dyfishtë, të përcaktuara në listën e kontrollit apo artikujt që nuk bëjnë pjesë në listën e kontrollit, nëse ndërmjetësuesi është informuar nga Autoriteti i Kontrollit Shtetëror të Eksporteve që artikuj të tillë janë apo mund të jenë të destinuar, në tërësi apo pjesërisht, për përdorime të përcaktuara në nenin 11 të këtij ligji.
+3. Nëse ndërmjetësi është në dijeni apo ka baza për të dyshuar se artikuj me përdorim të dyfishtë, të përcaktuara në listën e kontrollit apo artikujt që nuk bëjnë pjesë në listën e kontrollit, në tërësi apo pjesërisht, janë apo mund të jenë të destinuara për qëllime të përcaktuara në nenin 11, ai njofton Autoritetin e Kontrollit Shtetëror të Eksporteve, i cili përcakton nëse duhet kërkuar licencë për shërbime të tilla ndërmjetësimi.
+4. Shërbimet e ndërmjetësimit, të cilit i referohen pikat 2 dhe 3, të këtij neni, mund të realizohen vetëm pasi Autoriteti i Kontrollit Shtetëror të Eksporteve lëshon licencë ndër-mjetësimi apo merr vendimin se një licencë e tillë nuk është e nevojshme.

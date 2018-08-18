@@ -1,0 +1,4 @@
+# Neni 1
+Qëllimi
+1. Qëllimi i këtij ligji është vendosja e kontrollit shtetëror mbi transferimin ndërkombëtar të mallrave ushtarake dhe të artikujve e teknologjive me përdorim të dyfishtë, për të siguruar mbrojtjen e interesave kombëtarë të Republikës së Shqipërisë, sigurinë dhe politikën e jashtme, kredibilitetin ndërkombëtar të saj dhe garantimin e respektimit të angazhimeve ndërkombëtare të Republikës së Shqipërisë në këtë fushë.
+2. Ky ligj rregullon kontrollin shtetëror të transferimeve ndërkombëtare të mallrave ushtarake, artikujve dhe teknologjive me përdorim të dyfishtë, duke përfshirë kontrollin, para, gjatë dhe në zbatimin e licencave apo autorizimeve të eksportit, të eksportit të përkohshëm, të importit, të importit të përkohshëm, të tranzitit, të transshipit, të veprimtarisë ndërmjetësuese dhe të asistencës teknike.
