@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja e grantit ndërmjet Republikës së Shqipërisë dhe Bankës Evropiane për Rindërtim dhe Zhvillim, për financimin e projektit “Hekurudhat shqiptare - rehabilitimi i linjës hekurudhore Tiranë-Durrës dhe ndërtimi i linjës hekurudhore për në Aeroportin Ndërkombëtar të Tiranës”, me një grant investimi nga Fondi i Përbashkët Evropian i Ballkanit Perëndimor në shumën 35 435 000 (tridhjetë e pesë milionë e katërqind e tridhjetë e pesë mijë) euro, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
