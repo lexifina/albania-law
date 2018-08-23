@@ -1,0 +1,1 @@
+1. Ministrisë së Financave dhe Ekonomisë, në buxhetin e miratuar për vitin 2018, në programin “Ekzekutimi i pagesave të ndryshme”, në kategorinë e shpenzimeve korrente, i shtohet kundërvlera në lekë e fondit prej 620 000 (gjashtëqind e njëzet mijë) eurosh, për kryerjen e pagesave të shërbimeve juridike për përfaqësimin e interesave të shtetit shqiptar në çështjen “Iliria s.r.l.”.
