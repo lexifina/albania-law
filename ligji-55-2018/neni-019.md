@@ -1,0 +1,5 @@
+# Neni 19
+Ndërprerja e ushtrimit të profesionit të avokatit dhe kalimi në regjistrin pasiv
+1. Avokati ndërpret ushtrimin e profesionit në rastin kur është emëruar në një pozicion, i cili krijon papajtueshmëri me ushtrimin e profesionit të avokatit, sipas parashikimeve të nenit 7 të këtij ligji. Avokati, në këtë rast, depoziton pranë Dhomës të Avokatisë të Shqipërisë, një deklaratë me shkrim ose çdo dokument tjetër që vërteton fillimin e marrëdhënieve të reja të punës.
+2. Avokati ka të drejtë të ndërpresë ushtrimin e profesionit të tij për arsye moshe, sëmundjeje, leje lindjeje, si dhe dorëheqje për periudhën në vazhdim deri në fund të vitit ushtrimor, duke paraqitur kërkesë me shkrim për këtë qëllim. Në rast dorëheqjeje, riaktivizimi i lejes së ushtrimit të profesionit brenda vitit ushtrimor shoqërohet me pagesën shtesë të detyrimeve, sipas përcaktimeve në Statutin e Dhomës së Avokatisë të Shqipërisë.
+3. Kërkesa për ndërprerje të lejes së ushtrimit të profesionit, sipas rasteve të parashikuara në këtë nen, shoqërohet me vërtetimin përkatës për pezullimin e veprimtarisë tregtare, pranë Qendrës Kombëtare të Biznesit.

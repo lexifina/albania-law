@@ -1,0 +1,5 @@
+# Neni 55
+Shkolla e Avokatisë
+1. Shkolla e Avokatisë ka për qëllim organizimin, përgatitjen dhe zbatimin e programeve të trajnimit fillestar profesional të kandidatëve për avokat, si dhe programeve të trajnimit vazhdues për çdo avokat që ushtron profesionin. Shkolla e Avokatisë është organizuar dhe funksionon si strukturë e Dhomës së Avokatisë të Shqipërisë dhe ka pavarësi akademike. Pavarësia akademike garantohet nëpërmjet stafit akademiko-shkencor në përbërje të Komitetit Shkencor të Shkollës.
+2. Komiteti Shkencor i Shkollës së Avokatisë zgjidhet nga Komiteti Drejtues i Dhomës së Avokatisë të Shqipërisë, me propozimin e Kryetarit të Dhomës së Avokatisë të Shqipërisë, bazuar në kritere të përcaktuara në Statutin e Dhomës dhe në rregulloren e Shkollës së Avokatisë.
+3. Rregulla të hollësishme për organizimin dhe funksionimin e Shkollës së Avokatisë, mënyrën e regjistrimit dhe numrin e pjesëmarrësve në trajnim përcaktohen në rregulloren e shkollës, e cila miratohet nga Këshilli i Përgjithshëm të Dhomës së Avokatisë të Shqipërisë.

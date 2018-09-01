@@ -1,0 +1,8 @@
+# Neni 12
+Të drejtat dhe detyrimet e organeve te tjera
+1. Gjatë ushtrimit të profesionit të avokatit, çdo institucion i administratës publike, gjykatat, prokuroritë, gjykatat e arbitrazhit, noterët, përmbaruesit, organet e Policisë së Shtetit, apo çdo ent tjetër publik ose subjekt privat, janë të detyruara të plotësojnë kërkesat e ligjshme të avokatit në lidhje me:
+a) vënien në dispozicion të avokatit, brenda një afati të arsyeshëm, të informacioneve të kërkuara prej tij, përveç rasteve kur parashikohet ndryshe me ligj të veçantë;
+b) plotësimin e kërkesave ligjore të avokatit, në përputhje me kompetencën dhe procedurat ligjore që rregullojnë veprimtarinë e organit;
+c) garantimin e takimit të avokatit vetëm për vetëm me klientin, përpara marrjes në pyetje për herë të parë të tij dhe në çdo fazë të procedimit penal, pa autorizim të posaçëm të organeve proceduese dhe me miratim të klientit ose të familjarëve të tij, si dhe vënien në dispozicion të akteve, provave dhe arsyeve të arrestimit ose ndalimit të klientit, në përputhje rregullat e parashikuara në Kodin e Procedurës Penale;
+ç) vënien në dispozicion të avokatit të materialit, që ndodhet në dosjen e hetimit dhe gjykimit, në mënyrë të menjëhershme, si dhe krijimin e kushteve për studimin dhe shfrytëzimin e materialeve, në respektim të plotë të kërkesave dhe afateve të parashikuara në Kodin e Procedurës Penale.
+2. Në rast të mospërmbushjes së detyrimeve nga subjektet e parashikuara në pikën 1, të këtij neni, avokati, ka të drejtë t’i drejtohet me padi gjykatës kompetente, në përputhje me rregullat e parashikuara nga legjislacioni procedural në fuqi.
