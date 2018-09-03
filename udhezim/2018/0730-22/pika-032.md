@@ -1,0 +1,1 @@
+32. Drejtuesit e Ekipit të Menaxhimit të Programit janë përgjegjës përpara nëpunësit autorizues për raportimin në kohë, dhe sipas standardeve të përcaktuara në këtë udhëzim të produkteve për programin përkatës që drejtojnë.

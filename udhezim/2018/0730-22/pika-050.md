@@ -1,0 +1,1 @@
+50. DEMP-ja mbledh, përditëson dhe raporton te GMS-ja mbi të dhënat e treguesve të monitorimit të performancës së programeve për të cilat ata janë përgjegjës. Treguesit e monitorimit japin informacion për objektivat dhe produktet e programeve përkatëse.

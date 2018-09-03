@@ -1,0 +1,1 @@
+22. Nëpunësi autorizues publikon raportet e monitorimit të zbatimit të buxhetit në faqen zyrtare të njësisë, brenda 30 ditëve pas përfundimit të periudhës së raportimit, dhe një kopje e tyre i dërgohet Ministrisë së Financave dhe Ekonomisë.

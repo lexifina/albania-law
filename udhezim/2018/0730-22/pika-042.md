@@ -1,0 +1,1 @@
+42. Për raportimet e ndërmjetme kur nga ana e Ministrisë së Financave dhe Ekonomisë vihet re problematikë serioze në zbatimin e buxhetit të njësisë së vetëqeverisjes vendore, ministri i Financave dhe Ekonomisë përgatit një raport me komente e rekomandime dhe ia dërgon kryetarit dhe Këshillit të Njësisë së Vetëqeverisjes Vendore.

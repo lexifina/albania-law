@@ -1,0 +1,1 @@
+56. Raportet e monitorimit të të gjitha EMP-ve, të cilat janë prezantuar dhe miratuar nga GMS-ja përmblidhen në një raport përfundimtar monitorimi dhe nënshkruhen nga koordinatori i GMS-së dhe drejtuesit e EMP-ve. Ato u dërgohen deri në fund të javës së katërt të periudhës së monitorimit Këshillit të Njësisë së Vetëqeverisjes Vendore dhe Ministrisë së Financave dhe Ekonomisë.

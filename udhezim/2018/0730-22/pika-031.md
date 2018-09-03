@@ -1,0 +1,1 @@
+31. Drejtuesi i Ekipit të Menaxhimit të Programit (DEMP) është përgjegjës dhe raporton përpara nëpunësit autorizues për realizimin e qëllimeve, objektivave dhe produkteve të programit gjatë procesit të zbatimit të buxhetit dhe propozon masa korrigjuese në rast kur kjo është e nevojshme.

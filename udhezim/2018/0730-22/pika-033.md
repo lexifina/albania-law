@@ -1,0 +1,1 @@
+33. Drejtuesit e programit kanë përgjegjësinë për të marrë pjesë në takimet e Grupit për Menaxhimin Strategjik, në çdo diskutim, si dhe në vendimmarrjet përkatëse që kanë ndikim mbi programin të cilin drejtojnë.

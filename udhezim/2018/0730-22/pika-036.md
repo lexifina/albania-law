@@ -1,0 +1,1 @@
+36. Anëtarët e Ekipit të Menaxhimit të Programit janë ekspertë të fushës së programit përkatës buxhetor/nëpunës autorizues të nivelit të dytë, përgjegjës për menaxhimin e programeve/ projekteve që ata drejtojnë dhe përgjigjen për punën e tyre te drejtuesi i programit.

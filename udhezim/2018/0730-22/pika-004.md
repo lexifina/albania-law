@@ -1,0 +1,4 @@
+4. Monitorimi, është një proces vlerësimi performance, i cili realizohet nëpërmjet krahasimit të treguesve faktikë të performancës me ata të planifikuar. Monitorimi ka për qëllim:
+4.1 Të ndjekë arritjen e qëllimit dhe objektivave të përcaktuar në deklaratën e politikës së programit për vitin e parë të Programit Buxhetor Afatmesëm, nëpërmjet krahasimit të treguesve të planifikuar të performancës me rezultatet faktike të tyre.
+4.2 Të sigurojë informacion i cili i shërben përmirësimit të procesit të planifikimit dhe menaxhimit të zbatimit të buxhetit.
+4.3 Të evidentojë, nëse realizimi i produkteve është në përputhje me planin, dhe nëse jo të propozojë/rekomandojë ndërmarrjen e veprimeve korrigjuese për rishpërndarjen e fondeve. Në rast rishpërndarje të fondeve buxhetore, të evidentojë efektin e mundshëm në performancën e objektivave të lidhur me ta.

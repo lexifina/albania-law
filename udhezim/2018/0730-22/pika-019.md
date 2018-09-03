@@ -1,0 +1,1 @@
+19. Nëpunësi autorizues i njësisë së vetëqeverisjes vendore përgjigjet dhe raporton në këshillin e njësisë së vetëqeverisjes vendore për përgatitjen, kontrollin e brendshëm financiar publik, monitorimin, raportimin, kontabilitetin dhe auditimin e brendshëm të buxhetit, për të gjitha funksionet e njësive të vetëqeverisjes vendore.

@@ -1,0 +1,1 @@
+9. Kryetari i njësisë së vetëqeverisjes është kryetar i Grupit për Menaxhimin Strategjik dhe si rregull është nëpunësi autorizues i njësisë së vetëqeverisjes vendore. Ai mund ta delegojë këtë kompetencë, me shkrim, te zëvendëskryetari ose te një nga zëvendëskryetarët e njësisë së vetëqeverisjes vendore.

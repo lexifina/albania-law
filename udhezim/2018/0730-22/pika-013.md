@@ -1,0 +1,1 @@
+13. Këshilli i Njësisë së Vetëqeverisjes Vendore informohet dhe diskuton mbi raportet e monitorimit të zbatimit të buxhetit, të cilat paraqiten në këshill tri herë në vit (çdo 4 muaj). Gjithashtu, Këshilli ka të drejtë që për çështje specifike të kërkojë raportim të veçantë.

@@ -1,0 +1,1 @@
+14. Këshilli miraton raportin vjetor të konsoliduar të zbatimit të buxhetit mbi përmbushjen e qëllimeve dhe të objektivave të njësive, mbi përdorimin e fondeve publike, në mënyrë të ligjshme, me ekonomi, efektivitet dhe eficiencë për garantimin e qëndrueshmërisë së sistemit të menaxhimit financiar të njësisë së vetëqeverisjes vendore.

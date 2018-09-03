@@ -1,0 +1,1 @@
+5. Njësitë e vetëqeverisjes vendore duhet të menaxhojnë shpenzimet në mënyrë të tillë që të realizohen produktet e parashikuara, brenda limitit të miratuar të shpenzimeve të programit dhe të sigurojnë informacion në lidhje me performancën e shpenzimeve dhe realizimin e produkteve.

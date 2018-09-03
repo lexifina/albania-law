@@ -1,0 +1,16 @@
+34. Në mënyrë specifike ata janë përgjegjës, për:
+- Hartimin e planit katërmujor të produkteve në sasi dhe në vlerë duke respektuar tavanet e përcaktuara në ligjin e buxhetit vjetor.
+- Mbledhjen e të dhënave në lidhje me performancën e objektivave, performancën mbi secilin produkt në fund të katërmujorit dhe krahasimin e të dhënave faktike me planin e periudhës;
+- Analizën e shkaqeve të mospërputhjeve/ shmangieve dhe marrjen e vendimeve në lidhje me veprimet korrigjuese, të nevojshme për përmirësimin e situatës;
+- Në rast se një nga arsyet e shmangies ka qenë planifikimi i pasaktë atëherë është i nevojshëm rishikimi i planit dhe përgatitja e një përmbledhjeje të rishikuar katërmujore të shpenzimeve dhe realizimit të produkteve të programeve.
+- Përgatitjen/rishikimin dhe nënshkrimin e raportit përmbledhës mbi bazën e raporteve paraprake të përgatitura nga anëtarët e EMP-së dhe dërgimin e tij tek anëtarët e GMS-së. Ky raport përmban:
+- Të dhëna në lidhje me performancën e objektivave;
+- Të dhëna në lidhje me performancën e çdo produkti;
+- Analizën që shpjegon mospërputhjet e rëndësishme në lidhje me planin e periudhës;
+- Veprimet korrigjuese që EMP-ja ka ndërmarrë ose që planifikon të ndërmarrë;
+- Përmbledhjen e përditësuar të shpenzimeve dhe realizimit të produkteve;
+- Rekomandimet për veprime të mëtejshme për përmirësimin e situatës që i propozohen GMS-së për vendimmarrje;
+- Identifikimin e ndikimit të çdo ndryshimi në realizimin e planit të vitit buxhetor në përgatitjen e kërkesave për PBA-në e ardhshme;
+- Organizimin e takimeve të ekipit të menaxhimit të programit në etapa të ndryshme të procesit të monitorimit, sidomos përpara periudhave të raportimit;
+- Harmonizimin e qëndrimeve kur anëtarët e EMP-së kanë mendime të ndryshme në lidhje me situata të caktuara dhe raportimin te koordinatori i GMS-së nëse nuk harmonizohen qëndrimet;
+- Miratimin e të dhënave që hidhen në mënyrë elektronike (instrument financiar ose software i përdorur për këtë qëllim)/data bazën e njësisë së vetëqeverisjes vendore për monitorimin e zbatimit të buxhetit.

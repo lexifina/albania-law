@@ -1,0 +1,1 @@
+51. Mbi bazën e analizës së treguesve të performancës EMP-ja propozon ndryshime në strukturën e planit të shpenzimeve nëse ka shmangie, në mënyrë që të arrihen produktet e programeve për periudhat pasardhëse. Raporti i monitorimit jep masën e realizimit në përqindje të treguesve të performancës midis realizimit faktik dhe planit përkatës të tyre.

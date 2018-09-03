@@ -1,0 +1,1 @@
+11. Kryetari vlerëson raportet e monitorimit për të gjitha programet buxhetore të njësisë së vetëqeverisjes, të përgatitura dhe të konfirmuara nga GMS-ja dhe të nënshkruara nga koordinatori i GMS-së. Për çdo rast të konstatimit të parregullsive në raporte ia dërgon për rishikim GMS-së.

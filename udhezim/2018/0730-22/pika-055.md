@@ -1,0 +1,1 @@
+55. Raportet e EMP-së marrin dakordësinë e të gjithë Ekipit, në të kundërt, kur ka mosmarrëveshje drejtuesi i EMP-së e paraqet qëndrimin e ndryshëm në GMS, si një pikë të veçantë të raportit përfundimtar për GMS-në.

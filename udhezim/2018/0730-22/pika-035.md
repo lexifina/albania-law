@@ -1,0 +1,2 @@
+35. Mbi bazën e produkteve të përcaktuara drejtuesi i programit ka përgjegjësi të vlerësojë risqet që ndikojnë në arritjen e këtyre produkteve, mënyrën e trajtimit të tyre, si dhe kostot për minimizimin e risqeve. Risqet renditen sipas impaktit në realizimin e objektivit sipas të cilit është i lidhur produkti dhe diskutohen në Grupin e Menaxhimit Strategjik.
+Përgjegjësitë e anëtarëve të Ekipit të Menaxhimit të Programit

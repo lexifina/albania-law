@@ -1,0 +1,1 @@
+54. Në raportin e monitorimit të katërmujorit të dytë (tetëmujorit) duhet përgatitur një informacion shtesë lidhur me parashikimin e realizimit të pritshëm të vitit korrent për të gjitha produktet e programeve të shpenzimeve të njësisë së vetëqeverisjes vendore, si dhe për nivelin e realizimit të shpenzimeve të parashikuara.

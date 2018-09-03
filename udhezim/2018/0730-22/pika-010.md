@@ -1,0 +1,1 @@
+10. Kryetari miraton rregullat specifike dhe procedurat që duhet të ndiqen në procesin e monitorimit të zbatimit të buxhetit në përputhje me kërkesat e këtij udhëzimi, si dhe udhëzimeve plotësuese të tij.

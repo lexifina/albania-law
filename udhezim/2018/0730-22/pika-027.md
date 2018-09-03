@@ -1,0 +1,1 @@
+27. Nëpunësi zbatues është përgjegjës dhe i raporton nëpunësit autorizues të njësisë, si dhe drejtuesve të programeve, informacionin e nevojshëm financiar për përgatitjen e raporteve përkatëse të monitorimit.

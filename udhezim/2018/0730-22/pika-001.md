@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i procedurave dhe afateve që duhet të ndjekin njësitë e vetëqeverisjes vendore për monitorimin e zbatimit të buxhetit për performancën financiare, për produktet dhe objektivat e politikës të realizuar për çdo program gjatë një viti buxhetor.

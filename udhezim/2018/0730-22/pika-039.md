@@ -1,0 +1,2 @@
+39. Mbi bazën e produkteve të përcaktuara Ekipi i Menaxhimit të Programit ka përgjegjësi të identifikojë risqet që ndikojnë arritjen e këtyre produkteve edhe objektivave për të cilët shërbejnë këto produkte, si dhe kostot për minimizimin e tyre dhe në vijim të hartojë regjistrin e riskut për programin që menaxhojnë.
+Roli i Ministrisë së Financave dhe Ekonomisë në procesin e monitorimit të buxhetit
