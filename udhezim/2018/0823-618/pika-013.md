@@ -1,0 +1,1 @@
+13. Mbledhjet e Komisionit të Shqyrtimit të Gjobave pasqyrohet në procesverbal, i cili përmban arsyet e votimit pro dhe kundër, arsyetimet e ndryshme teknike dhe ligjore, si dhe vendimin përfundimtar të komisionit. Procesverbali nënshkruhet nga personi që e mban atë dhe të gjithë anëtarët që kanë qenë pjesëmarrës në mbledhje.

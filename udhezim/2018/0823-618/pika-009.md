@@ -1,0 +1,1 @@
+9. Shqyrtimi i kundërvajtjes administrative mund të bëhet në mungesë të subjektit që ka ushtruar të drejtën e ankimit, kur ka marrë dijeni dhe nuk ka shkaqe justifikuese për mosparaqitje. Inspektori ose grupi i inspektorëve që kanë vendosur masën administrative nuk kanë të drejtë votimi, por vetëm të drejtë arsyetimi mbi masën administrative të vendosur.

@@ -1,0 +1,1 @@
+1. Subjekti ndaj të cilit vendoset masa administrative ka të drejtën e ankimit me shkrim pranë Komisionit të Shqyrtimit të Gjobave, i ngritur pranë Autoritetit Kombëtar për Sigurinë dhe Emergjencat në Miniera, në përputhje me Kodin e Procedurave Administrative.

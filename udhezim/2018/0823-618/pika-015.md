@@ -1,0 +1,1 @@
+15. Kundër vendimit të Komisionit të Shqyrtimit të Gjobave, subjekti ankimues mund të bëjë ankim në Gjykatën Administrative të Shkallës së Parë, Tiranë, brenda 45 ditëve nga data e marrjes në dorëzim të vendimit.

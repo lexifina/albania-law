@@ -1,0 +1,1 @@
+14. Komisioni i Shqyrtimit të Gjobave në Autoritetin Kombëtar për Sigurinë dhe Emergjencat në Miniera shqyrton ankimin, merr vendimin dhe njofton subjektin brenda 15 ditëve, nga data e regjistrimit të ankimit.

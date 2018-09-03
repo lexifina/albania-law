@@ -1,0 +1,1 @@
+6. Komisioni i Shqyrtimit të Gjobave mblidhet me urdhër të titullarit të institucionit (kryetarit), sa herë që kërkohet për shqyrtimin e ankimeve ndaj masave administrative të vendosura ndaj subjekteve minerare.

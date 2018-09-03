@@ -1,0 +1,1 @@
+8. Shqyrtimi i kundërvajtjes administrative bëhet edhe me praninë e kundërvajtësit dhe inspektorit ose grupit të inspektorëve që kanë marrë vendimin për masën administrative. Komisioni i Shqyrtimit të Gjobave merr masat e duhura për njoftimin me shkrim të subjektit ankimues për datën dhe orën e saktë të zhvillimit të mbledhjes për shqyrtimin e kundërvajtjes administrative.
