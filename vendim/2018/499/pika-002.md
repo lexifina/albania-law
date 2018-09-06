@@ -1,0 +1,1 @@
+2. Vendimi nr. 582, datë 27.7.2011, i Këshillit të Ministrave, “Për miratimin e procedurave standarde të veprimit për identifikimin dhe referimin e viktimave/viktimave të mundshme të trafikimit”, shfuqizohet.
