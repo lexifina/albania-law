@@ -1,73 +1,74 @@
 # Shtojca
 SHTOJCA 2
 Në 000/ lekë
-BUXHETI 2018
+BUXHETI 2018 I NDRYSHUAR
 Përshkrimi
-Buxheti 2018
+Buxheti 2018 i ndryshuar
 Të ardhura
 Shpenzime
 (1)
 (2)
 Të ardhura nga shërbimet
-2,615,220
+2,791,816
 Shpenzime personeli
-815,604
-Shpenzime korente
-306,413
+858,754
+Shpenzime korrente
+458,333
 Investime
-868,440
-Fonde te lira për t’u shpërndarë gjatë vitit
-520,063
+886,311
 Fondi rezervë
 104,700
-TOTAL
-2,615,220
-2,615,220
-TEPRICA (1)-(2)
+Fonde të ngrira
+483,718
+Totali
+2,791,816
+2,791,816
+Teprica (1)-(2)
 0
 SHTOJCA 3
-BUXHETI I VITIT 2018
+BUXHETI I VITIT 2018 I NDRYSHUAR
 Në 000/lekë
 Nr.
-Emërtimi
-Buxheti 2018
+EMËRTIMI
+Buxheti 2018 i ndryshuar
 I
 TOTALI I TË ARDHURAVE
-2,615,220
+2,791,816
 Të ardhura nga tarifat e shërbimeve
 1,634,458
 Fonde që parashikohet të trashëgohen nga viti 2017
-876,061
+1,052,657
 Fond rezervë i trashëguar
 104,700
 II
 TOTALI I SHPENZIMEVE
-2,615,220
+2,791,816
 1
 Shpenzime personeli
-815,604
+858,754
 Paga
-674,079
+710,801
 Kontribute për sigurime shoqërore
-111,895
+117,990
 Fondi i veçantë i pagave
-29,630
+29,963
 2
 Shpenzime operative
-306,413
+458,333
 Shpenzime të mirëmbajtjes e të tjera
-306,413
+458,333
 3
 Shpenzime kapitale
-1,388,503
+886,311
 Investime kapitale të brendshme
-868,440
-Fonde të lira për t’u shpërndarë gjatë vitit
-520,063
+886,311
 4
 Fondi rezervë
 104,700
 Fondi rezervë
-104,700
-TE ARDHURA (-) SHPENZIME
+104700
+5
+Fonde të ngrira
+483,718
+TË ARDHURA (-) SHPENZIME
 0
