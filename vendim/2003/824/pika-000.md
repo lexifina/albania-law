@@ -1,1 +1,0 @@
-Dispozita të përgjithshme
