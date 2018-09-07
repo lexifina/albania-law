@@ -1,0 +1,5 @@
+VENDIM
+Nr. 500, datë 29.8.2018
+PËR MIRATIMIN E MARRËVESHJES SË GRANTIT PËR ASISTENCË TEKNIKE, NDËRMJET KËSHILLIT TË MINISTRAVE TË REPUBLIKËS SË SHQIPËRISË DHE FONDIT TË KUVAJTIT PËR ZHVILLIMIN EKONOMIK ARAB, PËR FINANCIMIN E PËRGATITJES SË NJË STUDIMI FIZIBILITETI PËR PROJEKTE TË INFRASTRUKTURËS SË TRANSPORTIT, NË ZONAT BREGDETARE JUGORE TË SHQIPËRISË
+Në mbështetje të nenit 100 të Kushtetutës, dhe të nenit 19, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:

@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit për asistencë teknike, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit të Kuvajtit për Zhvillimin Ekonomik Arab, për financimin e përgatitjes së një studimi fizibiliteti për projekte të infrastrukturës së transportit, në zonat bregdetare jugore të Shqipërisë, me një grant në shumën prej 200 000 (dyqind mijë) dinarësh kuvajtianë, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
