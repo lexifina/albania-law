@@ -1,0 +1,1 @@
+2. Masa e përfitimit për kujdestarin e invalidit paraplegjik dhe tetraplegjik, të përcaktuar në pikën 4, të vendimit të Këshillit të Ministrave nr. 31, datë 20.1.2001, bëhet 11.070 (njëmbëdhjetë mijë e shtatëdhjetë) lekë në muaj.
