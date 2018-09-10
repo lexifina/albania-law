@@ -1,0 +1,1 @@
+6. Masa e përfitimit të aftësisë së kufizuar, të përcaktuar në pikën 2 germa “d”, të kreut IV, të VKM-së nr. 431, datë 8.6.2016, të ndryshuar, për fëmijët, është 4,759 (katër mijë e shtatëqind e pesëdhjetë e nëntë) lekë në muaj për personat e përcaktuar në pikën 2, germa “a”, të kreut I, të vendimit.
