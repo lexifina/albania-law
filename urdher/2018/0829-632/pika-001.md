@@ -1,0 +1,1 @@
+1. Miratimin e listës së sëmundjeve infektive, të detyrueshme për t’u raportuar nga institucionet shëndetësore publike ose private të të gjitha niveleve në Republikën e Shqipërisë (sipas listës bashkëlidhur).
