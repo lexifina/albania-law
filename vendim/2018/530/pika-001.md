@@ -1,0 +1,1 @@
+1. Miratimin e marrëveshjes, ndërmjet ortakëve “ALBCONTROL” sh.a., që përfaqëson palën shtetërore shqiptare, dhe “Turkish Airline” e “MDN Investiment” sh.p.k., për statutin e shoqërisë “AIR ALBANIA” sh.p.k., sipas tekstit që i bashkëlidhet këtij vendimi.
