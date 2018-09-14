@@ -1,0 +1,1 @@
+4. Stërvitja “Albanian Lion 2018” do të zhvillohet në periudhën 8-30 shtator 2018 në gadishullin e Karaburunit, bazën e Pashalimanit, bazën e Porto-Palermos, bazën ajrore të Rinasit, në Bizë, kepin e Palit dhe Zall-Herr.

@@ -1,0 +1,1 @@
+2. Lejimin e hyrjes në territorin e Republikës së Shqipërisë të 902 (nëntëqind e dy) trupave ushtarake të Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut, Republikës së Kroacisë dhe Republikës së Kosovës, pjesëmarrës në stërvitjen “Albanian Lion 2018”.

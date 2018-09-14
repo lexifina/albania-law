@@ -1,0 +1,1 @@
+1. Zhvillimin e stërvitjes “Albanian Lion 2018” dhe pjesëmarrjen e forcave ushtarake të Mbretërisë së Bashkuar të Britanisë së Madhe dhe Irlandës së Veriut, Republikës së Kroacisë dhe Republikës së Kosovës në stërvitjen e përbashkët, në kuadër të bashkëpunimit shumëpalësh.
