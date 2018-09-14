@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kushtet dhe procedurat e dhënies dhe autorizimit të disa kategorive të ndihmës shtetërore”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
