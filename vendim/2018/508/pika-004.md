@@ -1,0 +1,1 @@
+4. Ministri i Financave dhe Ekonomisë të kryejë pagesën për tarifën e pjesëmarrjes së Këshillit të Ministrave të Republikës së Shqipërisë në ESS ERIC. Shpenzimet për realizimin e sondazhit të nëntë, për koordinimin dhe zbatimin e tij do të mbulohen nga projekti “PERFORM”.
