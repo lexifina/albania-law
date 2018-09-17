@@ -1,0 +1,1 @@
+9. Ngarkesa e plotë mësimore vjetore e një anëtari të personelit akademik mund të reduktohet me propozim të njësisë bazë, aprovim nga njësia kryesore dhe me miratim nga bordi administrimit në rastin e përfitimit të një burse studimi jo më pak se 1-mujore, si dhe në raste të veçanta të angazhimeve në kuadër të kontributit institucional.

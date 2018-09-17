@@ -1,0 +1,1 @@
+11. IAL-ja përcakton në rregulloret e brendshme politikat e shpërblimit sipas funksioneve që kryhen nga personeli akademik, personeli ndihmësakademik dhe ai administrativ. Këto politika miratohen nga bordi administrimit.

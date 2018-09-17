@@ -1,0 +1,1 @@
+6. Ngarkesa e plotë mësimore vjetore e personelit akademik me kohë të plotë nuk mund të përmbajë në një vit akademik më shumë se 3 lëndë semestrale në bazë të programeve të përcaktuara nga njësia bazë, të shpërndarë në dy semestra, ose 2 lëndë vjetore dhe 1 semestrale, ose 3 lëndë vjetore.

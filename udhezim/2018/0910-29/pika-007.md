@@ -1,0 +1,1 @@
+7. Ngarkesa e plotë mësimore vjetore e një anëtari të personelit akademik me orientim kërkimor-shkencor nuk mund të përmbajë në një vit akademik më shumë se 2 lëndë semestrale në bazë të programeve të përcaktuara nga njësia bazë, sipas përcaktimit të programeve të lëndës ose 2 lëndë vjetore.
