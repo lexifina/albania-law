@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është zbatimi i kërkesave ligjore dhe përcaktimi i rregullave e procedurës për tregtimin, transportin, ruajtjen dhe magazinimin e produkteve për mbrojtjen e bimëve të regjistruara.

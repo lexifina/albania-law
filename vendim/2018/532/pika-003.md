@@ -1,0 +1,3 @@
+3. Çdo person i pajisur me licencë tregtimi me shumicë për PMB-të të klasifikuara “PMB të rrezikshme” dhe “PMB me rrezik të lartë” ka për detyrë:
+a) Të hartojë një raport vjetor dhe ta paraqesë atë tek AKU-ja jo më vonë se muaji shkurt i vitit pasardhës, për sasinë dhe cilësinë e çdo PMB-je që ka importuar e hedhur në treg gjatë vitit të mëparshëm kalendarik;
+b) të verë në dijeni AKU-në, me vetëdeklarim, për çdo efekt të dëmshëm te përdoruesi, mjedisi apo ekosistemi, njerëzit ose kafshët, që është vërejtur gjatë përdorimit, ekspozimit, përhapjes dhe shkarkimit të secilit PMB të importuar e të hedhur në treg.
