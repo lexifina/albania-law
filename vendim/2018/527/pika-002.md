@@ -1,0 +1,1 @@
+2. Ministrisë së Brendshme, në buxhetin e miratuar për vitin 2018, në programin “Policia e Shtetit”, në kapitullin “Shpenzime kapitale”, i shtohet fondi prej 35 000 000 (tridhjetë e pesë milionë) lekësh, për t’u përdorur për financimin e studim-projektimit për ndërtimin e korpusit të Policisë së Shtetit.

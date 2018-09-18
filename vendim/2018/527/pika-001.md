@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit, Sportit dhe Rinisë, në buxhetin e miratuar për vitin 2018, në programin buxhetor 09450, “Arsimi i lartë”, kapitulli “Shpenzime kapitale”, në artikullin 231, i pakësohet fondi prej 35 000 000 (tridhjetë e pesë milionë) lekësh.
