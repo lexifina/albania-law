@@ -1,0 +1,1 @@
+1. Fondi për investime për funksionin e Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin, i miratuar në buxhetin e vitit 2018, në shumën 50 000 000 (pesëdhjetë milionë) lekë, shpërndahet për blerje automjetesh zjarrfikëse për bashkitë, sipas tabelës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
