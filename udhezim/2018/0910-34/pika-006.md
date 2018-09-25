@@ -1,0 +1,1 @@
+6. Nëse Investitori i Projektit, kontraktuesi i nivelit të parë ose kontraktuesi i nivelit të dytë kryejnë furnizime mallrash ose shërbimesh për palë të treta për të cilat nuk zbatohet i veçantë i TVSH-së (reverse-charge), siç përcaktohet në këtë udhëzim, ata do të lëshojnë një faturë tatimore në përputhje me dispozitat e përgjithshme të ligjit të TVSH-së.
