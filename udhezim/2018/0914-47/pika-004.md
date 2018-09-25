@@ -1,0 +1,1 @@
+4. Përveç sa parashikohet në udhëzimin për detyrimet e kontrolluesve, përpara se të përpunojnë të dhënat personale, subjektet përpunuese duhet të përpunojnë të dhënat personale në përputhje me rregullat e përcaktuara edhe në këtë udhëzim.

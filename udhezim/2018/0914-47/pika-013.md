@@ -1,0 +1,4 @@
+13. Në rast se përpunimi i të dhënave kryhet me anë të shërbimeve cloud computing ose me anë të përpunimit të lëvizshëm, do të zbatohen masa sigurie shtesë (p.sh., aktivizimi i shërbimit kundër vjedhjes në kompjuterin portabël ose në telefonin smart). Të gjitha pajisjet që shërbejnë si mbartës të dhënash do të kodohen.
+Ruajtja e të dhënave në këto shërbime bëhet në përputhje me qëllimin e mbledhjes së tyre.
+Të dhënat mbahen në tejkalim të afatit vetëm pas informimit paraprak të subjektit dhe dhënies së pëlqimit prej tij në mënyrë të qartë, si dhe duke i dhënë/rezervuar të drejtën për të refuzuar. Procesi i shkatërrimit realizohet në mënyrë të pakthyeshme.
+Të dhënat personale që përpunohen me anë të këtyre shërbimeve nuk duhet të transferohen jashtë territoreve të shteteve anëtare të Bashkimit Evropian dhe Shqipërisë, pa marrë më parë opinionin e autoritetit përgjegjës për mbrojtjen e të dhënave personale.

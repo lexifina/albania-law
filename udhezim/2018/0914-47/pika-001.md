@@ -1,0 +1,1 @@
+1. Përcaktimin e masave të sigurisë teknike, organizative edhe në lidhje me personelin, për mbrojtjen e të dhënave personale të përpunuara nga subjektet përpunuese të mëdha, më poshtë referuar subjektet përpunuese të të dhënave personale, si dhe rregullat e bashkëpunimit të tyre me Komisionerin.

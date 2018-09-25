@@ -1,0 +1,1 @@
+35. Pas caktimit të personit të kontaktit për mbikëqyrjen e brendshme të mbrojtjes së të dhënave personale, subjekti përpunues i të dhënave personale përjashtohet nga detyrimi për të paraqitur për regjistrim sistemet e arkivimit të të dhënave josensitive.
