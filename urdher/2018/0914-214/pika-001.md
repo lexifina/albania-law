@@ -1,0 +1,1 @@
+1. Delegimin e përkohshëm të kompetencave të titullarit të Drejtorisë së Sigurimit të Informacionit të Klasifikuar, me përjashtim të kompetencave, të cilat nuk delegohen dhe që janë të shprehur me ligj, drejtorit të Drejtorisë së Sigurimit, Administrimit të Dokumenteve dhe Regjistrit Qendror, z. Agron Cani.
