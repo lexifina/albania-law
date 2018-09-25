@@ -1,0 +1,1 @@
+4. Në rast se projekti do të realizohet në pasurinë me statusin pronë private, jo në pronësi të subjektit kandidat për zhvillues, kandidati për zhvillues së bashku me dokumentacionin sipas pikës 3, duhet të dorëzojë edhe aktmarrëveshjen paraprake, të lidhur ndërmjet kandidatit për zhvillues dhe pronarit të pasurisë.

@@ -1,0 +1,1 @@
+3. Në rastin kur projekti do të realizohet në pasurinë në pronësi të subjektit kandidat për zhvillues, nga ana e tij duhet të dorëzohet përshkrimi i pronës private, vendndodhja e saj, dokumenti i pronësisë, statusi juridik aktual i pasurisë i lëshuar nga Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, i shoqëruar me hartën treguese të pasurisë.

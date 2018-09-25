@@ -1,0 +1,1 @@
+16. Gjatë ekzekutimit të kontratës, nëse janë parashikuar faza për zbatimin e projektit, sipas grafikut të punimeve të propozuar në ofertë, kontraktori mund të kërkojë parashikimin e reduktimit të përqindjes së vlerës së sigurimit në mënyrë përpjesëtimore, por jo më pak se 25% të vlerës korresponduese të sigurimit të kontratës.

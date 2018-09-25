@@ -1,0 +1,1 @@
+17. Procedurat e negocimit përfundojnë jo më vonë se 90 (nëntëdhjetë) ditë nga data e këtij publikimi. Grupi i negocimit mund të kërkoje shtyrjen e afatit të negocimit të kontratës, por jo më shumë se kohëzgjatja e afatit fillestar.

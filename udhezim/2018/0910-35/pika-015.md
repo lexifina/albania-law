@@ -1,0 +1,1 @@
+15. Ministri përgjegjës për ekonominë do të ftojë zhvilluesin të fillojë procedurat e negocimit të kontratës, menjëherë pasi ai të ketë dorëzuar “Formulari i sigurimit të kontratës”, në formën e një depozite ose e bankare të pakushtëzuar, në masën 1% të vlerës së investimit.

@@ -1,0 +1,1 @@
+9. Në qoftë se do të kemi bashkim operatorësh, kërkesat administrativo-ligjore dhe financiare duhet të plotësohen nga secili operator më vete. Ndërsa kërkesat teknike do të plotësohen nga të gjithë operatorët të marrë së bashku.

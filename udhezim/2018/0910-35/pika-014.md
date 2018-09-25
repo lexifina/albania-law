@@ -1,0 +1,1 @@
+14. Ministri përgjegjës për ekonominë urdhëron ngritjen e grupi të negocimit të kontratës në përbërjen e të cilit janë përfaqësues të ministrive dhe institucioneve që kanë lidhje me aktivitetin e kësaj zone dhe nga Avokati i Shtetit, pas publikimit në Qendrën e Publikimeve Zyrtare të vendimit të Këshillit të Ministrave.
