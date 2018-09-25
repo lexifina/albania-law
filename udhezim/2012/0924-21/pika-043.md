@@ -1,1 +1,0 @@
-43. Raportet e përditësuara të kontrollit mund të jenë plotësisht të pranueshme si një provë e pajtueshmërisë së subjektit përpunues me ligjin për mbrojtjen e të dhënave personale, vetëm pasi hapat e mësipërm të jenë zbatuar dhe ai të ketë ruajtur certifikimet e pajtueshmërisë me standardet e sigurisë së informacionit që mbulojnë edhe përpunimin e të dhënave personale.

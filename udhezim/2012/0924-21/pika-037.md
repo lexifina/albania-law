@@ -1,1 +1,0 @@
-37. Aksesi në këtë inventar të sistemeve të arkivimit të të dhënave personale i ofrohet autoritetit të Komisionerit dhe subjekteve të të dhënave personale, të dhënat e të cilëve përpunohen në sistemin e veçantë të arkivimit mbi bazën e një kërkese pa vonesë.

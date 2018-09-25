@@ -1,1 +1,0 @@
-4. Përveç sa parashikohet në udhëzimin nr. 2, datë 25.2.2010 “Për detyrimet e kontrolluesve dhe përpunuesve përpara se të përpunojnë të dhënat personale”, subjektet përpunuese duhet të përpunojnë të dhënat personale në përputhje me rregullat e përcaktuara edhe në këtë udhëzim.

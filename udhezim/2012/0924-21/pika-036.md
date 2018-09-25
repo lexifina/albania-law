@@ -1,1 +1,0 @@
-36. Personi i kontaktit siguron mbajtjen e rregullt të një inventari të sistemeve të arkivimit të të dhënave personale të përpunuara nga subjekti përpunues i të dhënave personale, përfshirë të dhënat personale të përjashtuara nga detyrimi për regjistrim në autoritetin e Komisionerit.

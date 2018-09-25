@@ -1,4 +1,0 @@
-42. Rregullat e mëposhtme ndiqen për të garantuar pajtueshmërinë e duhur me këtë udhëzim:
-a) Të miratohet përqasja formale e analizës së riskut ndaj sigurisë së informacionit, bazuar mbi standardet e sigurisë së informacionit, në mënyrë që mbrojtja e të dhënave personale të jetë pjesë e pandarë e SMSI-së brenda subjektit përpunues;
-b) Nëse subjekti përpunues ka vendosur të certifikojë pajtueshmërinë e tij me standardet teknike të sigurisë, ai duhet të vendosë në dispozicion të Komisionerit këtë certifikatë. Procesi i certifikimit për pajtueshmërinë me standardet e sigurisë së informacionit do të përfshijë edhe identifikimin, menaxhimin dhe zbutjen e dobësive dhe rreziqeve të sigurisë së të dhënave personale;
-c) Shkeljet e rënda të sigurisë së të dhënave personale duhet të raportohen menjëherë te Komisioneri. Në rast se është emëruar personi i kontaktit, atëherë kjo është detyrë e tij.

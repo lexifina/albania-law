@@ -1,1 +1,0 @@
-1. Përcaktimin e masave teknike dhe organizative për mbrojtjen e të dhënave personale të përpunuara nga kontrolluesit e mëdhenj ose përpunuesit, më poshtë referuar subjektet përpunuese të të dhënave personale, si dhe rregullat e bashkëpunimit të tyre me Komisionerin.

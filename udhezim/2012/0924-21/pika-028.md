@@ -1,1 +1,0 @@
-28. Përpunuesi, objekt i këtij udhëzimi, emëron një ose më shumë persona kontakti, përgjegjës për garantimin e sigurisë së përshtatshme të të dhënave personale, kur vepron në emër të kontrolluesit. Përpunuesit e vegjël të kontraktuar nga subjekti përpunues që i nënshtrohet këtij udhëzimi, gjithashtu, këshillohet të emërojnë një person kontakti.
