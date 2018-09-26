@@ -1,1 +1,0 @@
-10. Agjencia mban dhe përditëson regjistrin, në formë shkresore dhe elektronike, të administratorëve të certifikuar të falimentimit. Formati dhe përmbajtja e regjistrit përcaktohen me urdhër të Ministrit të Drejtësisë, me propozimin e drejtorit të Agjencisë.

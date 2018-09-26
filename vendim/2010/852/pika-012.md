@@ -1,1 +1,0 @@
-12. Agjencia, nën kujdesin e Ministrisë së Drejtësisë, organizon dhe zhvillon provimin për administratorët e falimentimit. Rregulla më të hollësishme për procedurat dhe afatet e organizimit të provimit përcaktohen me urdhër të Ministrit të Drejtësisë.
