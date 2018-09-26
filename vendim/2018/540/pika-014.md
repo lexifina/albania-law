@@ -1,0 +1,1 @@
+14. Për sigurimin e cilësisë në drejtimin e institucionit arsimor parauniversitar, ministria përgjegjëse për arsimin siguron trajnimin pranë Shkollës së Drejtorëve të punonjësve përgjegjës për inspektimin e punës së drejtorëve, në lidhje me menaxhimin dhe administrimin e këtyre institucioneve, si dhe mbulon të gjitha kostot e trajnimit të tyre.

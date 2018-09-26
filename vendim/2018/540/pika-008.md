@@ -1,0 +1,1 @@
+8. Shkolla e Drejtorëve të Institucioneve të Arsimit Parauniversitar gëzon ekskluzivitetin për administrimin e trajnimit e të certifikimit të detyrueshëm të drejtorëve/nëndrejtorëve, sipas parashikimeve të përcaktuara në ligj dhe në këtë vendim.

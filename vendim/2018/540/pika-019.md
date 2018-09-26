@@ -1,0 +1,1 @@
+19. Çdo financim i AADF-së dhe çdo e ardhur e gjeneruar nga Shkolla e Drejtorëve të Institucioneve të Arsimit Parauniversitar, sipas përcaktimeve të ligjit, të këtij vendimi dhe në statutin e saj, nuk konsiderohen fonde publike. Fondet e financuara nga AADF-ja nuk janë objekt i kontrollit të Kontrollit të Lartë të Shtetit.

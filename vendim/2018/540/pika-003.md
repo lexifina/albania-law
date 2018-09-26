@@ -1,0 +1,1 @@
+3. Forma ligjore e organizimit të Shkollës së Drejtorëve të Institucioneve të Arsimit Parauniversitar është organizatë jofitimprurëse, pa anëtarësi, në formën “Qendër”. Ajo krijohet dhe regjistrohet në përputhje me legjislacionin në fuqi për organizatat jofitimprurëse.

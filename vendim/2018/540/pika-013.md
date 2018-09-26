@@ -1,0 +1,1 @@
+13. Pas kalimit me sukses të provimit përfundimtar, drejtorët/nëndrejtorët në detyrë dhe kandidatët për drejtor/nëndrejtor pajisen me certifikatën për drejtimin dhe administrimin e institucionit arsimor parauniversitar, e cila lëshohet nga Shkolla e Drejtorëve.

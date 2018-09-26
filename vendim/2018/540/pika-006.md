@@ -1,0 +1,1 @@
+6. Pranë Shkollës së Drejtorëve të Institu-cioneve të Arsimit Parauniversitar krijohet bordi këshillimor, si një organ konsultativ i drejtorit ekzekutiv, pa funksione vendimmarrëse. Përbërja, procedura e emërimit, shkarkimit dhe funksionet e bordit këshillimor përcaktohen në statutin e Shkollës së Drejtorëve të Institucioneve të Arsimit Parauniversitar.

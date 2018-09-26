@@ -1,0 +1,1 @@
+1. Organizimin e Shkollës së Drejtorëve të Institucioneve të Arsimit Parauniversitar, publik ose privat, si person juridik, që gëzon pavarësi administrative, financiare, teknike e vendim-marrëse, me seli në Tiranë, Shqipëri.

@@ -1,0 +1,1 @@
+22. Produktet e pronësisë intelektuale dhe industriale të Shkollës së Drejtorëve të Institucioneve të Arsimit Parauniversitar gëzojnë mbrojtje nga legjislacioni për pronësinë intelektuale dhe industriale.
