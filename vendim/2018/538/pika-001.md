@@ -1,0 +1,1 @@
+1. Ministrisë së Turizmit dhe Mjedisit, në buxhetin e miratuar për vitin 2018, në programin “Planifikim, menaxhim dhe administrim”, në kategorinë e shpenzimeve korrente, i shtohet kundërvlefta në lekë e fondit prej 21 500 (njëzet e një mijë e pesëqind) eurosh, për kryerjen e pagesave të kuotave të anëtarësimit në Zyrën Ndërkombëtare të Ekspozitave (BIE).

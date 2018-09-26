@@ -1,0 +1,1 @@
+2. Ministrisë së Kulturës, në buxhetin e miratuar për vitin 2018, në programin “Planifikim, menaxhim dhe administrim”, në kategorinë e shpenzimeve korrente, i shtohet kundërvlefta në lekë e fondit prej 48 664 (dyzet e tetë mijë e gjashtëqind e gjashtëdhjetë e katër) eurosh, për kryerjen e pagesave të kuotave të anëtarësimit në Observatorin Evropian të Medias.
