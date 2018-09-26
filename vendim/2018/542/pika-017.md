@@ -1,0 +1,1 @@
+17. Deri në fillimin e funksionimit të plotë të Agjencisë Kombëtare të Falimentimit, sipas këtij vendimi, Agjencia e Mbikëqyrjes së Falimentimit të vazhdojë funksionimin e saj, sipas strukturës dhe organikës që është aktualisht në fuqi.
