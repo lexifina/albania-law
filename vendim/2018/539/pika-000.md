@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Ekonomisë (Marrësi) dhe Shoqërisë Rajonale të Menaxhimit të Mbetjeve të Korçës (Agjencia e Zbatimit të Projektit) dhe KfW Frankfurt am Main (KfW), për financimin e projektit “Menaxhimi i mbetjeve të ngurta në Shqipërinë Juglindore, masa shoqëruese, faza 2 (Rajoni Korçë)”, nëpërmjet një granti në shumën 1 200 000 (një milion e dyqind mijë) euro, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

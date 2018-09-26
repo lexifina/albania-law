@@ -1,0 +1,6 @@
+VENDIM
+Nr. 539, datë 19.9.2018
+PËR MIRATIMIN E MARRËVESHJES SË FINANCIMIT, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E FINANCAVE DHE EKONOMISË (MARRËSI) DHE SHOQËRISË RAJONALE TË MENAXHIMIT TË MBETJEVE TË KORÇËS (AGJENCIA E ZBATIMIT TË PROJEKTIT), DHE KfW FRANKFURT AM MAIN (KfW), PËR PROJEKTIN “MENAXHIMI I MBETJEVE TË NGURTA NË SHQIPËRINË JUGLINDORE, MASA SHOQËRUESE,
+FAZA 2 (RAJONI KORÇË)”
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 19, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
