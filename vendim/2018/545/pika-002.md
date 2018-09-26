@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Shkodër, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurive me numër 11/50 dhe 11/52, zona kadastrale 1159, Bashkia Shkodër.

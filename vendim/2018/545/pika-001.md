@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurive me numër 11/50 dhe 11/52, zona kadastrale 1159, Bashkia Shkodër, sipas certifikatave të pasurive dhe hartave treguese që i bashkëlidhen këtij vendimi.
