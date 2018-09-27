@@ -1,0 +1,1 @@
+4. Informacioni i mësipërm t’i vihet në dispozicion Drejtorisë së Përgjithshme të Taksës së Pasurisë nga Zyra e Regjistrimit të Pasurive të Paluajtshme dhe Agjencia e Legalizimit Urbanizimit dhe Integrimit të Zonave/ Ndërtimeve Informale në format elektronik kur ai disponohet për një pasuri ose në rrugë shkresore.

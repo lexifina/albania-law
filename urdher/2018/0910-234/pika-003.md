@@ -1,0 +1,1 @@
+3. Agjencia e Legalizimit Urbanizimit dhe Integrimit të Zonave/Ndërtimeve Informale të vendosë në dispozicion të Drejtorisë së Përgjith-shme të Taksës së Pasurisë të dhënat që disponon mbi pasuritë e paluajtshme “ndërtesë” për qëllim të taksës së pasurisë dhe të mundësojë marrjen e tyre.
