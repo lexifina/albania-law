@@ -1,0 +1,28 @@
+{
+  "qbz_id": 16184,
+  "title": "MBI LICENCIMIN E SHOQËRISË “FURNIZUESI I TREGUT TË LIRË” SHA (FTL SHA) NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "198",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-09-03",
+  "published": "2018-10-01",
+  "in_force": "2018-10-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/88c06191a30715f42a36818f062d7c85a14ee11dccc7e726c1c32a71f3969387.docx",
+  "source_sha256": "88c06191a30715f42a36818f062d7c85a14ee11dccc7e726c1c32a71f3969387",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16184",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/09/03/198",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    57834
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
