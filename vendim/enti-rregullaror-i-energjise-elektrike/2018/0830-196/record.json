@@ -1,0 +1,28 @@
+{
+  "qbz_id": 16182,
+  "title": "PËR NJË NDRYSHIM NË VENDIMET E BORDIT TË ERE-s NR. 120, DATË 4.6.2018, “MBI FILLIMIN E PROCEDURËS PËR MIRATIMIN E PLANIT TË INVESTIMEVE PËR VITIN 2018 TË SHOQËRISË ‘ALBGAZ’ SHA” DHE NR. 121, DATË 4.6.2018, “MBI FILLIMIN E PROCEDURËS PËR MIRATIMIN E PLANIT 10-VJEÇAR TË ZHVILLIMIT TË RRJETIT TË SHOQËRISË ‘ALBGAZ’ SHA”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "196",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-08-30",
+  "published": "2018-10-01",
+  "in_force": "2018-10-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/729969fff884e8c8fdccf6bc7086c10de5c67d6c28b5c1f943d974cfec72afdd.docx",
+  "source_sha256": "729969fff884e8c8fdccf6bc7086c10de5c67d6c28b5c1f943d974cfec72afdd",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16182",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/08/30/196",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    65879
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
