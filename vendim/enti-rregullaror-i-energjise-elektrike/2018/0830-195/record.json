@@ -1,0 +1,29 @@
+{
+  "qbz_id": 16181,
+  "title": "MBI LICENCIMIN E SHOQËRISË “DERBI-E” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “ANTENA”, ME FUQI TË INSTALUAR 1105 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "195",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-08-30",
+  "published": "2018-10-01",
+  "in_force": "2018-10-01",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/272ead22b68a4ac76e0ea4a2bbdaa4ba525d0acb2d52b04b5c52341f3bec29e8.docx",
+  "source_sha256": "272ead22b68a4ac76e0ea4a2bbdaa4ba525d0acb2d52b04b5c52341f3bec29e8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16181",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/08/30/195",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31585,
+    26577
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
