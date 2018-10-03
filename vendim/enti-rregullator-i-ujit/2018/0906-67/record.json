@@ -1,0 +1,26 @@
+{
+  "qbz_id": 54666,
+  "title": "PËR LICENCIMIN E SHA UJËSJELLËS-KANALIZIME DROPULL",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "67",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2018-09-06",
+  "published": "2018-10-03",
+  "in_force": "2018-10-03",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8e61e126b0d0d367081cb47cd31f33cbdc45cb342c9488423c229eb6e9827adb.docx",
+  "source_sha256": "8e61e126b0d0d367081cb47cd31f33cbdc45cb342c9488423c229eb6e9827adb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54666",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/09/06/67",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
