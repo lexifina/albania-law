@@ -1,0 +1,1 @@
+9. Akomodimi mund të ofrohet edhe në formën e fushimit, me ambiente për vendosjen e çadrave apo të makinave të fushimit. Në këto raste, subjekti agroturistik garanton kushtet minimale higjieno-sanitare (si, p.sh., tualet, ujë të pijshëm, pikë grumbullimi të mbeturinave, lidhje me energjinë elektrike) për një kapacitet maksimal prej 15 makinash fushimi.

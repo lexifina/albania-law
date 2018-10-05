@@ -1,0 +1,1 @@
+1. Agroturizëm është veprimtaria pritëse, që zhvillohet në një fermë ose njësi tjetër agrikulturore, me qëllimin për të tërhequr vizitorë, shpeshherë duke u mundësuar atyre pjesëmarrjen në veprimtaritë bujqësore ose veprimtari të tjera ndihmëse, që zhvillohen në atë mjedis bujqësor.

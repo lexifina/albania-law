@@ -1,0 +1,2 @@
+3. Çdo subjekt që kërkon të ofrojë veprimtari pritëse të certifikuar, si “agroturizëm”, duhet të plotësojë kriteret e përcaktuara në këtë vendim. Vetëm subjektet e certifikuara sipas këtij vendimi kanë të drejtë të përdorin në emrin e tyre tregtar ose në ambientet e tyre emërtimin “agroturizëm”.
+II. KRITERET DHE PROCEDURAT PËR CERTIFIKIMIN E VEPRIMTARISË PRITËSE SI “AGROTURIZËM” DHE NDËRTIMIN E STRUKTURAVE/OBJEKTEVE NË FUNKSION TË AGROTURIZMIT

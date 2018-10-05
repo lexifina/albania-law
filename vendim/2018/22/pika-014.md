@@ -1,0 +1,1 @@
+14. Brenda 3 (tre) muajve nga hyrja në fuqi e këtij vendimi, ministri përgjegjës për turizmin dhe ministri përgjegjës për bujqësinë dhe zhvillimin rural përcaktojnë, me urdhër të përbashkët, rregulloren e funksionimit të komisionit, si dhe procedurat e aplikimit e të vlerësimit.

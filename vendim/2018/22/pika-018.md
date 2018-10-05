@@ -1,0 +1,1 @@
+18. Në rast konstatimi të shkeljes së kritereve të këtij vendimi nga organet përkatëse të bashkive, inspektoratit të turizmit ose organeve kompetente të inspektimit të ushqimit dhe kushteve higjieno-sanitare, komisioni, bazuar në kërkesën e organeve konstatuese të shkeljes, mund të marrë vendim për pezullimin dhe/ose revokimin e certifikatës “Subjekt i certifikuar agroturizmi”.

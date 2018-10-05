@@ -1,0 +1,1 @@
+13. Për certifikimin e subjekteve dhe dhënien e certifikatës “Subjekt i certifikuar agroturizmi”, pranë ministrisë përgjegjëse për turizmin ngrihet një komision vlerësues, i përbërë nga 5 anëtarë, 3 prej të cilëve janë përfaqësues të caktuar nga ministri përgjegjës për turizmin dhe 2 nga ministri përgjegjës për bujqësinë dhe zhvillimin rural.
