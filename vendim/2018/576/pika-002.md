@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Korçë dhe qarku Durrës, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane” (truall) të pasurive nr. 94/63, zona kadastrale 3221, Bashkia Maliq, dhe nr.17/13, zona kadastrale 3690, Bashkia Durrës.

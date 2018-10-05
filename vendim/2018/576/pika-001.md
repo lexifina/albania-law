@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit nga kategoria e resursit “tokë bujqësore” në “tokë urbane” (truall) të pasurive nr. 94/63, zona kadastrale 3221, Bashkia Maliq, dhe nr. 17/13, zona kadastrale 3690, Bashkia Durrës, sipas lidhjes nr. 1, certifikatave të pasurisë dhe hartave treguese, që i bashkëlidhen këtij vendimi.
