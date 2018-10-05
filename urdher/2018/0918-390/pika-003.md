@@ -1,0 +1,1 @@
+3. Për zbatimin e këtij urdhri ngarkohen Drejtoria e Politikave dhe Strategjive të Zhvillimit të Bujqësisë, Sigurisë Ushqimore dhe Zhvillimit Rural, Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës (DSHPA) dhe OMP-të.

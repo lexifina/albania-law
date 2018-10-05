@@ -1,0 +1,1 @@
+1. Miratimin e kontratës tip që do të lidhet ndërmjet Ministrisë së Bujqësisë dhe Zhvillimit Rural dhe Organizatave të Menaxhimit të Peshkimit (OMP), për ushtrimin e aktivitetit të peshkimit në zonat bashkëmenaxhuese të peshkimit, sipas modelit bashkëlidhur.

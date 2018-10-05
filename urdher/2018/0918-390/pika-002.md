@@ -1,0 +1,1 @@
+2. Në lidhjen, rast pas rasti të kontratave me Organizatat e Menaxhimit të Peshkimit, kontrata që do të nënshkruhet, mund të përmbajë edhe kushte të tjera shtesë, që reflektojnë specifikat e zonave të shpallura si zona bashkëmenaxhuese peshkimi.
