@@ -1,0 +1,1 @@
+4. Bashkia Skrapar dhe shoqëria “Doruz” sh.p.k. nënshkruajnë marrëveshjen e bashkë-punimit jo më vonë se 60 (gjashtëdhjetë) ditë nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes, së bashku me projektin e miratuar për pyllëzimin, të dërgohet në Ministrinë e Turizmit dhe Mjedisit, jo më vonë se 10 (dhjetë) ditë nga data e nënshkrimit të saj.
