@@ -1,0 +1,1 @@
+5. Për hapjen e klasave në gjuhën e pakicave kombëtare, kryetari i bashkisë dhe titullari i njësisë përkatëse arsimore vendore, pas konsultimit me përfaqësues të pakicave kombëtare, i paraqesin propozimin përkatës ministrit përgjegjës për arsimin.

@@ -1,0 +1,1 @@
+10. Efektet financiare për pajisjen me tekste shkollore të nxënësve, zhvillimin e mëtejshëm profesional të mësuesve, si dhe për krijimin e funksionimin e klasave në gjuhën e pakicave kombëtare të parashikohen në buxhetin e ministrisë përgjegjëse për arsimin.

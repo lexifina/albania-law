@@ -1,0 +1,1 @@
+9. Në kushte të veçanta, kur numri i fëmijëve apo i nxënësve të pakicave kombëtare është më i vogël se 15 (pesëmbëdhjetë) nxënës për klasë, funksionimi i klasave në gjuhën amtare të pakicës kombëtare bëhet me urdhër të ministrit përgjegjës për arsimin.

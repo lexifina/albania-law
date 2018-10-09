@@ -1,0 +1,1 @@
+2. Ministria përgjegjëse për arsimin bashkë-rendon punën me institucionet publike të arsimit të lartë, që kanë në objekt të veprimtarisë së tyre mësimore dhe shkencore shkencat shoqërore, sociale dhe ato të edukimit, për nevojat e formimit fillestar për mësues që do të zhvillojnë mësim në gjuhën e pakicave kombëtare.

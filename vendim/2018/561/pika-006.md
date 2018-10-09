@@ -1,0 +1,1 @@
+6. Propozimi për hapjen e klasave në gjuhën e pakicave kombëtare në institucionet arsimore parauniversitare publike shoqërohet me studimin mbi argumentimin e domosdoshmërisë së hapjes së klasave me nxënës të pakicave kombëtare, si dhe me kontributin e njësisë së vetëqeverisjes vendore.
