@@ -1,0 +1,1 @@
+1. Ky vendim përcakton rregullat për bashkërendimin e veprimtarisë ndërmjet mekanizmave këshillimorë dhe koordinues institucionalë dhe strukturave në nivel qendror e vendor, për çështjet që lidhen me të drejtat dhe mbrojtjen e fëmijës.
