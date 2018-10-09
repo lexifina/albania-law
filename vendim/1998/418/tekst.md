@@ -4,7 +4,7 @@ Nr.418, datë 9.7.1998
 
 PËR PROCEDURAT E LIKUIDIMIT TË NDËRMARRJEVE TË FALIMENTUARA NË RRUGË ADMINISTRATIVE
 
-(Ndryshuar me vendimin nr. 113, datë 18.3.1999; nr. 409, datë 31.8.1999; nr. 272, datë 20.6.2002)
+(Ndryshuar me vendimin nr. 113, datë 18.3.1999; nr. 409, datë 31.8.1999; nr. 272, datë 20.6.2002; nr. 589, datë 9.10.2018)
 
 (I përditësuar)
 
@@ -14,7 +14,7 @@ V E N D O S I:
 
 	1. Shpalljen e falimentimit dhe të likuidimit në rrugë administrative të këtyre ndërmarrjeve: 
 
-Uzina 12 dhe Nikel-Kobaltit në Elbasan, Uzina e sodë-PVC-së në Vlorë, Fabrika e letrës Kavajë, Uzina e Superfosfatit Laç, (pjesa e papërfshirë në kapitalin e sh.a., Superfosfati Kurbin), Fabrika e Çorapeve, Korçë.
+Uzina 12 dhe Nikel-Kobaltit në Elbasan, Uzina e sodë-PVC-së në Vlorë, Fabrika e letrës Kavajë, Uzina e Superfosfatit Laç, (pjesa e papërfshirë në kapitalin e sh.a., Superfosfati Kurbin), Fabrika e Çorapeve Korçë, Ndërmarrja e Ndërtimit të Hidrocentralit Banjë, Elbasan.
 
 	2. Likuidimi i ndërmarrjeve të shpallura të falimentuara kryhet nga Ministria përgjegjëse për industrinë.
 
