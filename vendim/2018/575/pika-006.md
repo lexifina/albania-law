@@ -1,0 +1,1 @@
+6. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Elbasan bën çregjistrimin e sipërfaqes pyjore të identifikuar, sipas lidhjes bashkëlidhur, nga kategoria “Tokë pyjore” dhe e regjistron në kategorinë “Tokë e zënë, objekt i aktivitetit minerar”.
