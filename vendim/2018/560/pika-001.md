@@ -1,0 +1,1 @@
+1. Caktimin e tarifave për shërbimet e ofruara nga Qendra e Shërbimeve Arsimore për qytetarët, institucionet e arsimit të lartë, institucionet e tjera dhe palët e treta, sipas aneksit 1 që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

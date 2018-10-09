@@ -1,0 +1,1 @@
+2. Tarifat e përcaktuara sipas pikës 1 të këtij vendimi, arkëtohen, parapaguhen para ofrimit të shërbimit përkatës, pranë bankave të nivelit të dytë ose zyrave të Postës Shqiptare, në adresë të Degës së Thesarit Tiranë, me përfitues Qendrën e Shërbimeve Arsimore, Tiranë.

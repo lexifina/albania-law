@@ -1,0 +1,1 @@
+4. Pjesa prej 90% e të ardhurave, që i takon Qendrës së Shërbimeve Arsimore, autorizohet dhe përdoret me strukturë të veçantë buxhetore në programin buxhetor 09450, kapitulli 06, “Të ardhurat e veta jashtë limitit”.

@@ -1,0 +1,1 @@
+6. Çdo shërbim tjetër i ofruar nga Qendra e Shërbimeve Arsimore, në zbatim të kuadrit ligjor në fuqi apo i ngarkuar nga ministri përgjegjës për arsimin, për të cilin nuk aplikohet tarifë shërbimi sipas këtij vendimi, financohet nga fondet e buxhetit të shtetit, të miratuara për ministrinë përgjegjëse për arsimin.
