@@ -1,0 +1,1 @@
+3. Ministria e Arsimit, Sportit dhe Rinisë, nëpërmjet aktiviteteve, fushatave sensibilizuese dhe koordinimit me institucionet e arsimit të lartë, promovon njohjen e kulturës, historisë, gjuhës dhe besimit fetar të pakicave kombëtare.

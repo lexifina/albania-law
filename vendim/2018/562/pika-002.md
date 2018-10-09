@@ -1,0 +1,1 @@
+2. Institucionet publike të arsimit të lartë, që kanë në objekt të veprimtarisë së tyre mësimore e shkencore shkencat shoqërore, sociale dhe ato të edukimit të përfshijnë, të mbështesin dhe të inkurajojnë realizimin e veprimtarive kërkimore-shkencore lidhur me njohjen, hulumtimin dhe promovimin e kulturës, historisë, gjuhës dhe besimit fetar të pakicave kombëtare.
