@@ -1,0 +1,1 @@
+1. Mbikëqyrja e zbatimit të dispozitave të ligjit nr. 102/2015, “Për sektorin e gazit natyror”, në aktivitetet, instalimet dhe pajisjet e sektorit të gazit natyror kryhet nga ministria përgjegjëse për energjinë, me përjashtim të akteve dhe kompetencave rregullatore të Entit Rregullator të Energjisë.

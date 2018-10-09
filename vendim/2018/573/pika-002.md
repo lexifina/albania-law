@@ -1,0 +1,2 @@
+2. Ministria e realizon funksionin e saj mbikëqyrës nëpërmjet strukturave të saj përgjegjëse për sektorin e gazit, që janë: struktura që mbulon aktivitetin e sektorit të gazit në ministri dhe Inspektorati Shtetëror Teknik dhe Industrial (ISHTI), në rolin e inspektoratit shtetëror përgjegjës për gazin.
+Marrëdhëniet ndërmjet strukturës përgjegjëse, që mbulon aktivitetin e sektorit të gazit në ministri, dhe inspektoratit shtetëror përgjegjës për gazin përcaktohen me urdhër të ministrit përgjegjës për energjinë.
