@@ -1,0 +1,26 @@
+{
+  "qbz_id": 16226,
+  "title": "Vendim Nr.10 Dt.28.09.2018",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "10",
+  "institution": "Drejtoria e Përgjithshme e Arkivave",
+  "adopted": "2018-09-28",
+  "published": "2018-10-09",
+  "in_force": "2018-10-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/645a03a26e2d4c49514333e7f357ce5d8e2751243e746b950996d4753e977948.docx",
+  "source_sha256": "645a03a26e2d4c49514333e7f357ce5d8e2751243e746b950996d4753e977948",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16226",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/09/28/10",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
