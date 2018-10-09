@@ -1,0 +1,1 @@
+1. Kontrolli i ndihmës ekonomike dhe pagesës për personat me aftësi të kufizuara bëhet nga struktura përgjegjëse në Shërbimin Social Shtetëror, në nivel qendror dhe rajonal, sipas procedurave të përcaktuara në këtë vendim.

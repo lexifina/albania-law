@@ -1,0 +1,1 @@
+15. Vendimi nr. 512, datë 31.5.2006, i Këshillit të Ministrave, “Për procedurat e kryerjes së kontrollit të ndihmës ekonomike, të pagesës së aftësisë së kufizuar dhe të shërbimeve shoqërore”, i ndryshuar, shfuqizohet.

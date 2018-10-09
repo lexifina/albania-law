@@ -1,0 +1,1 @@
+11. Grupi i kontrollit harton projektraportin për kontrollin e kryer dhe një kopje ia dorëzon subjektit të kontrolluar, i cili, brenda 10 ditëve pune paraqet vërejtjet apo kundërshtitë, nëse ka, të argumentuara me dokumentacionin përkatës.
