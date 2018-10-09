@@ -1,0 +1,1 @@
+2. Dhurimi i ikonës “Ngjallja e Llazarit” UNESCO-s të bëhet në përputhje me dispozitat e Kodit Civil dhe sigurimin e kushteve për ruajtjen e këtij objekti muzeor gjatë transportimit të tij brenda dhe jashtë vendit.
