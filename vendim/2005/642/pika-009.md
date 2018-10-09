@@ -1,1 +1,0 @@
-9. Vendimi nr.289, datë 24.4.2003 i Këshillit të Ministrave “Për kriteret dhe përbërjen e këshillave mbikëqyrës të shoqërive anonime shtetërore”, i ndryshuar, si dhe aktet e tjera nënligjore që bien në kundërshtim me këtë vendim, shfuqizohen.

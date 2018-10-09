@@ -1,1 +1,0 @@
-8. Këshilli mbikëqyrës mblidhet jo më pak se katër herë në vit dhe i raporton, për veprimtarinë ekonomike e financiare të shoqërisë, ministrit të linjës dhe Ministrit të Ekonomisë, Tregtisë dhe Energjetikës, me cilësinë e përfaqësuesit të pronës shtetërore, jo më pak se 4 herë në vit.
