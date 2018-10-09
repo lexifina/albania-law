@@ -1,0 +1,29 @@
+{
+  "qbz_id": 16219,
+  "title": "PËR KËSHILLAT MBIKËQYRËS TË SHOQËRIVE AKSIONARE SHTETËRORE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "570",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2018-10-03",
+  "published": "2018-10-09",
+  "in_force": "2018-10-09",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/36dc098d3706ea654d13a1b58746da6defb62fb8c7108ed24058ed4d5381bada.docx",
+  "source_sha256": "36dc098d3706ea654d13a1b58746da6defb62fb8c7108ed24058ed4d5381bada",
+  "official_record": "https://qbz.gov.al/api/v1/acts/16219",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/10/03/570",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    33695,
+    30727
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
