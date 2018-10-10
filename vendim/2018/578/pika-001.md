@@ -1,0 +1,1 @@
+1. Miratimin e procedurave të referimit e të menaxhimit të rastit, hartimin dhe përmbajtjen e planit individual të mbrojtjes, financimin e shpenzimeve për zbatimin e tij, si dhe zbatimin e masave të mbrojtjes, sipas tekstit dhe anekseve që i bashkëlidhen këtij vendimi.
