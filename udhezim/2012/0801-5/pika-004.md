@@ -1,1 +1,0 @@
-4. Efektet financiare nga rritja e nivelit të kuotës financiare të shpenzimeve për ushqim, përballohen nga fondet e buxhetit qendror, të programuara për shërbimet e përkujdesit shoqëror për vitin 2013.

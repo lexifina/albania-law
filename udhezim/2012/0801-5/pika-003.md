@@ -1,1 +1,0 @@
-3. Niveli i kuotës financiare për shpenzimet ditore ushqimore për kuzhinierët dhe ndihmëskuzhinierët, që punojnë në këto institucione, është i barabartë me 60% të kuotës financiare ditore për ushqim, për kategoritë e përfituesve të përcaktuar në pikat 1 dhe 2 të këtij udhëzimi.
