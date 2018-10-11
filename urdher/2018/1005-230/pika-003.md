@@ -1,0 +1,1 @@
+3. Delegimin e përkohshëm të kompetencave të titullarit, në funksion të Kontrollit të Figurës së Subjekteve të Rivlerësimit, përgjegjësit të Sektorit për Kontrollin e Figurës së Subjekteve të Rivlerësimit, z. Adhurim Hasanaj.
