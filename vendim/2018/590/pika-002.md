@@ -1,0 +1,1 @@
+2. Ministria e Infrastrukturës dhe Energjisë dhe Enti Rregullator i Energjisë, në përputhje me parashikimet e ligjit nr. 102/2015, “Për sektorin e gazit natyror”, sigurojnë monitorimin dhe vlerësimin e vazhdueshëm të modelit të tregut të gazit natyror.

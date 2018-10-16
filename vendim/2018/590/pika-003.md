@@ -1,0 +1,1 @@
+3. Modeli i tregut i gazit natyror, i përcaktuar në këtë vendim, do të jetë i aplikueshëm në momentin që do të bëhet efektiv aktiviteti në tregun e gazit natyror i shoqërisë TAP AG ose i shoqërisë “Albgaz” sh.a., si dhe në çdo rast që një shoqëri e gazit natyror do të ketë aktivitet komercial në tregun e gazit.
