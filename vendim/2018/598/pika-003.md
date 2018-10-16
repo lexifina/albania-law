@@ -1,0 +1,1 @@
+3. Ngarkohet ministri i Financave dhe Ekonomisë, të përcaktojë aktivitetet konkrete që do të vijojë të kryejë AMLF-ja, për mbikëqyrjen e veprimtarisë së lojërave të fatit, gjatë periudhës së përkohshme të pezullimit.
