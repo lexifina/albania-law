@@ -1,0 +1,1 @@
+13. Komiteti i menaxhimit të zonës së mbrojtur mjedisore përkatëse bashkëpunon ngushtë me AdZM-në për zbatimin e detyrave funksionale të saj të përcaktuara në dispozitat e ligjit, “Për zonat e mbrojtura”.

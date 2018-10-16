@@ -1,0 +1,1 @@
+3. Në rastet e zonave të mbrojtura mjedisore ndërkufitare, përfaqësues të administratës së zonës së mbrojtur janë anëtarë të sekretariatit teknik të përbashkët ndërkufitar, detyrat dhe përgjegjësitë e të cilit përcaktohen sipas marrëveshjes së përbashkët ndërkufitare përkatëse.

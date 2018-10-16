@@ -1,0 +1,1 @@
+8. Komiteti i menaxhimit e shtrin veprimtarinë në të gjithë territorin e qarkut/qarqeve, sipas rrjetit të zonave të mbrojtura mjedisore të miratuara, përfshirë këtu edhe parqet natyrore bashkiake. Mbledhjet e komitetit të menaxhimit zhvillohen brenda territorit të zonës së mbrojtur.

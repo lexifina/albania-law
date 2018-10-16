@@ -1,0 +1,1 @@
+5. Në rastin e përfaqësuesit të shoqërisë civile, përfaqësuesi do të zgjidhet rast pas rasti, në varësi të problematikës që do të trajtohet në mbledhjet e komitetit të menaxhimit dhe sipas planit të menaxhimit të zonës përkatëse.

@@ -1,0 +1,1 @@
+1. Komiteti i menaxhimit është një strukturë mbikëqyrëse, me veprimtari jomenaxhuese, që ngrihet për çdo zonë të mbrojtur mjedisore dhe organizohet në nivel qarku, drejtohet nga prefekti ose, kur zonat e mbrojtura mjedisore (ZMM) përfshijnë disa qarqe nga prefekti që ka sipërfaqen më të madhe të zonave të mbrojtura mjedisore.

@@ -1,0 +1,1 @@
+9. Komiteti i menaxhimit e ushtron veprimtarinë nëpërmjet mbledhjeve të zakonshme, të cilat janë të vlefshme kur në to marrin pjesë 50%+1 e anëtarëve dhe thirret nga kryetari jo më pak se dy herë në vit.
