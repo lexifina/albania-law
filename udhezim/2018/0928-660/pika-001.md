@@ -1,0 +1,1 @@
+1. Krijimin dhe zbatimin e Programit Kombëtar të Trajnimit dhe Certifikimit Bazuar në Testim, në sektorin e furnizimit me ujë të pijshëm, grumbullimit, largimit dhe trajtimit të ujërave të ndotura, sipas shtojcës 1 dhe 2 bashkëngjitur këtij udhëzimi.
