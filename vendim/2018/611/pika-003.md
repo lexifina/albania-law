@@ -1,0 +1,1 @@
+3. Shuma e parashikuar në projekt për vitin 2018, prej 4 078 811 (katër milionë e shtatëdhjetë e tetë mijë e tetëqind e njëmbëdhjetë) lekësh, do të përballohet nga pakësimet e fondeve buxhetore, të miratuara në buxhetin e vitit 2018 dhe të papërdorura, për Agjencinë Kombëtare të Diasporës.

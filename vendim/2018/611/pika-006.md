@@ -1,0 +1,1 @@
+6. Fondi total prej 100 590 600 (njëqind milionë e pesëqind e nëntëdhjetë mijë e gjashtëqind) lekësh të transferohet në formë granti, me përfitues Fondin Shqiptar për Zhvillimin e Diasporës, në llogari bankare, në bankë të nivelit të dytë.

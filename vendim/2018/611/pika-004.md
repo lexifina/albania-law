@@ -1,0 +1,1 @@
+4. Për vitin 2019, të parashikohet si zë i veçantë në buxhetin e shtetit, për Fondin Shqiptar për Zhvillimin e Diasporës, projekti “Diaspora për zhvillim”, me kohëzgjatje 36 (tridhjetë e gjashtë) muaj, me vlerë prej 96 511 789 (nëntëdhjetë e gjashtë milionë e pesëqind e njëmbëdhjetë mijë e shtatëqind e tetëdhjetë e nëntë) lekësh.

@@ -1,0 +1,1 @@
+1. Financimin nga buxheti i shtetit të projektit “Diaspora për zhvillim”, me kohëzgjatje 36 (tridhjetë e gjashtë) muaj, me fond total prej 100 590 600 (njëqind milionë e pesëqind e nëntëdhjetë mijë e gjashtëqind) lekësh, sipas projektit bashkëlidhur.
