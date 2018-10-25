@@ -1,0 +1,10 @@
+# Neni 8
+Rregullat e fluturimit
+1. Fluturimet e helikopterëve do të kryhen vetëm ditën, nga koha e lindjes deri në perëndimin e diellit, sipas rregullave në fuqi të fluturimit vizual (VFR) në hapësirën ajrore të klasës C, D dhe G.
+2. Në rast të fluturimeve për në, dhe nga VNUH-ja që ndodhen brenda zonave të kontrolluara (CTR) apo në afërsi të kufirit shtetëror, të fluturimeve që kalojnë përmes kufijve lateralë të zonave të kontrolluara (CTR ose TMA) dhe të zonave të tjera të rezervuara ose të kufizuara të publikuara në AIP ose me NOTAM, piloti ose operatori i helikopterit duhet të plotësojë një plan fluturimi sipas formatit të ICAO-s dhe ta paraqesë atë pranë ofruesit të shërbimit të lundrimit ajror, njësisë përkatëse (ARO), dorazi ose me e-mail, ose me faks, të paktën 60 minuta përpara ngritjes. Në rrethana specifike, plani i fluturimit mund të plotësohet në ajër me anë të radiokomunikimit me njësinë përgjegjëse të kontrollit të trafikut ajror (), të paktën 10 minuta përpara hyrjes në zonën e kontrolluar.
+3. Në planin e fluturimit, piloti ose operatori i helikopterit duhet të paraqesë pikat e përcaktuara të hyrjes apo të daljes nga zonat e kontrolluara.
+4. Operimet e helikopterëve, në kushtet e përmendura në pikën 2 të këtij neni, do të kryhen pas marrjes së klierencës nga njësia e kontrollit të trafikut ajror përpara ngritjes.
+5. Të gjitha ndryshimet në planin e fluturimit duhet të raportohen dhe të kryhen pas marrjes së klierencës nga njësia përgjegjëse e shërbimit të trafikut ajror.
+6. Lartësia e fluturimit të helikopterëve brenda ose përmes CTR-së dhe nën kufirin e poshtëm të TMA-së nuk duhet të jetë më e madhe se 600 m nga niveli i detit.
+7. Helikopterët që operojnë në hapësirën ajrore të klasës C dhe D, duhet të jenë të pajisur me radio komunikimi të dyanshëm, transponder SSR dhe pajisje të tjera të nevojshme për navigimin ajror.
+8. Helikopterët që operojnë në hapësirën ajrore të klasës G, duhet të fluturojnë jashtë zonave të kontrolluara, të rezervuara ose të kufizuara në një largësi horizontale nga kufijtë lateralë të tyre jo më të vogël se 2.5 NM.
