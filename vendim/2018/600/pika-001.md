@@ -1,0 +1,1 @@
+1. Miratimin e shërbimit të sigurisë publike në 150 (njëqind e pesëdhjetë) institucione të arsimit parauniversitar, sipas aneksit nr. 1, bashkëlidhur dhe pjesë përbërëse e këtij vendimi, që konsiston në monitorimin nga oficeri i sigurisë në institucionet e arsimit parauniversitar të ndërveprimit të vazhdueshëm të nxënësve, personelit mësimor dhe komunitetit.
