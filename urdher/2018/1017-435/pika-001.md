@@ -1,0 +1,1 @@
+1. Tërheqjen e njohjes së Organizatës së Menaxhimit të Peshkimit (OMP, Liqeni i Fierzës, Kukës), bërë me urdhër të ministrit nr. 350, datë 5.9.2008, “Për miratimin e statusit të Organizatës së Menaxhimit të Peshkimit (OMP, Liqeni i Fierzës, Kukës), Fletorja Zyrtare nr. 148, viti 2008.
