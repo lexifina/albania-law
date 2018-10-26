@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64304,
+  "title": "MBI TRANSFERIMIN E LICENCËS SË FURNIZIMIT TË ENERGJISË ELEKTRIKE ME NR. 251, ME SERI P14FPP, MIRATUAR ME VENDIMIN E BORDIT TË ERE-s NR. 97, DATË 27.10.2014, E VLEFSHME DERI NË DATËN 27.10.2019, DHE TË DETYRIMIT TË SHËRBIMIT UNIVERSAL TË FURNIZIMIT TË ENERGJISË ELEKTRIKE, TË SHOQËRISË “OPERATORI I SHPËRNDARJES SË ENERGJISË ELEKTRIKE” SHA (OSHEE SHA), MIRATUAR ME VENDIMIN E BORDIT TË ERE-s NR. 112, DATË 8.7.2016, TE SHOQËRIA “FURNIZUESI I SHËRBIMIT UNIVERSAL” SHA \n(FSHU SHA)",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "215",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-10-11",
+  "published": "2018-10-26",
+  "in_force": "2018-10-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/568b776204b72c621376adfe8ba9e7aaaeeb4b155c0713c187fc9b192cc9c0b0.docx",
+  "source_sha256": "568b776204b72c621376adfe8ba9e7aaaeeb4b155c0713c187fc9b192cc9c0b0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64304",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/10/11/215",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
