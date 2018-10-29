@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Autoritetit Kontraktor për procedurat e prokurimit në Ministrinë e Bujqësisë dhe Zhvillimit Rural, z. Ardian Maçi, drejtor i përgjithshëm në Drejtorinë e Përgjithshme Ekonomike dhe të Shërbimeve Mbështetëse, për një afat kohor, nga data 22.10.2018 deri në datën 28.10.2018.
