@@ -1,0 +1,7 @@
+LIGJ
+Nr. 66/2018
+PËR ADERIMIN E REPUBLIKËS SË SHQIPËRISË NË AKTIN E GJENEVËS TË MARRËVESHJES SË LISBONËS PËR EMËRTIMET E ORIGJINËS DHE TREGUESIT GJEOGRAFIKË
+Në mbështetje të neneve 78, 83, pika 1, dhe 121, të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
