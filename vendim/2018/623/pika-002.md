@@ -1,0 +1,1 @@
+2. Të drejtat e parashikuara në këtë kartë janë të zbatueshme për ministritë e linjës, institucionet e tjera përgjegjëse për ofrimin e shërbimeve publike, institucionet e pavarura dhe njësitë e vetëqeverisjes vendore, sipas parashikimeve në legjislacionin në fuqi për mënyrën e ofrimit të shërbimeve publike në sportel.
