@@ -1,0 +1,1 @@
+3. Zëvendësdrejtori i përgjithshëm të mbikëqyrë dhe të nënshkruajë aktet administrative të kësaj Drejtorie, në lidhje më zbatimin e detyrave të përcaktuara në rregulloren “Për organizimin, funksionimin dhe përshkrimet e punës së Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor”, për Drejtorinë e Kontrollit.
