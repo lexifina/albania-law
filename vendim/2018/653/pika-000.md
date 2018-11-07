@@ -1,0 +1,2 @@
+Miratimin e letërmarrëveshjes ndryshuese të Marrëveshjes së Huas dhe të Projektit, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave, e Operatorit të Sistemit të Transmetimit sh.a., si agjencia e zbatimit të projektit, dhe KfW Frankfurt am Main, për financimin e projektit “Linja unazore 110 kilovolt e Shqipërisë së Jugut”, nëpërmjet një huaje prej 10 750 000 eurosh, të ratifikuar me ligjin nr. 10250, datë 11.3.2010, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
