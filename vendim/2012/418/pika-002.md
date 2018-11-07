@@ -1,2 +1,0 @@
-2. Në kuptim të këtij vendimi, në njësi të qeverisjes qendrore përfshihen të gjitha institucionet qendrore buxhetore apo që financohen nga buxheti.
-Nuk janë objekt i këtij vendimi organet drejtuese të njësive të fondeve speciale, si dhe organet drejtuese të institucioneve kushtetuese dhe të pavarura që funksionojnë sipas përcaktimeve të ligjit nr. 9584, datë 17.7.2006 “Për pagat, shpërblimet dhe strukturat e institucioneve të pavarura kushtetuese dhe të institucioneve të tjera të pavarura, të krijuara me ligj”.

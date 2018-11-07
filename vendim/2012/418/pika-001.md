@@ -1,1 +1,0 @@
-1. Punonjësit e emëruar me kohë të pjesshme në përbërje të këshillave, bordeve apo komisioneve të njësive të qeverisjes qendrore përfitojnë një pagesë për pjesëmarrjen dhe kontributin e tyre në këto organe, sipas përcaktimeve të këtij vendimi.
