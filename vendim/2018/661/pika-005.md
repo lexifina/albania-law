@@ -1,0 +1,1 @@
+5. Aktivitetet shfrytëzuese të burimeve natyrore, të cilat ndodhen brenda territorit të parkut kombëtar dhe që janë pajisur me leje mjedisore dhe/ose vendim të KKT-së deri në datën e hyrjes në fuqi të këtij vendimi, do të lejohet të vazhdojnë ushtrimin e aktivitetit nëse përmbushin kushtet e parashikuara nga ligji nr. 81/2017, “Për zonat e mbrojtura”.

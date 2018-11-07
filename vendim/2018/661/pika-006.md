@@ -1,0 +1,1 @@
+6. Ministria përgjegjëse për mjedisin, në bashkëpunim me ministritë e linjës, bashkitë, me publikun e interesuar, shoqërinë civile dhe me pronarët privatë, pronat e të cilëve shtrihen brenda territorit të zonës së mbrojtur, miraton planin e menaxhimit të Parkut Kombëtar, të hartuar nga AKZM-ja, brenda një viti, nga hyrja në fuqi e këtij vendimi.

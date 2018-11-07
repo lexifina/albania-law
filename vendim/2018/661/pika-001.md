@@ -1,0 +1,1 @@
+1. Zgjerimin e sipërfaqes së Parkut Kombëtar Lurë dhe bashkimin me Parkun Kombëtar “Zall-Gjoçaj”, duke krijuar Parkun Kombëtar “Lurë-Mali i Dejës”, me një sipërfaqe 20 242,78 (njëzet mijë e dyqind e dyzet e dy presje shtatëdhjetë e tetë) ha, sipas hartës dhe kufijve të paraqitur në tabelën e koordinatave, përkatësisht, në shtojcat 1 e 2, që i bashkëlidhen këtij vendimi.
