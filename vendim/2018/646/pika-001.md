@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Shërbimeve Qeveritare për dhënien me qira, me tarifë të reduktuar, Komisionit të Pavarur të Kualifikimit, për zhvillimin e seancave dëgjimore, të sallës B, kati 0 (Underground) me sipërfaqe 243 (dyqind e dyzet e tre) m2, të ndodhur në ambientet e Pallatit të Kongreseve.
