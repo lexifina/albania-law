@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, znj. Brunilda Mene, me detyrë zëvendësdrejtor i përgjithshëm, për ndjekjen e mbarëvajtjes së punës së Drejtorisë Ekonomike, me qëllim përmbushjen e detyrave dhe të objektivave institucionalë.

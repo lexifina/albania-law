@@ -1,0 +1,1 @@
+3. Zëvendësdrejtori i përgjithshëm të mbikëqyrë dhe të nënshkruajë aktet admini-strative të kësaj Drejtorie, në lidhje me zbatimin e detyrave të përcaktuara në rregulloren “Për organizimin, funksionimin dhe përshkrimet e punës së Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor”, për Drejtorinë Ekonomike.
