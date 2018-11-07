@@ -1,0 +1,1 @@
+5. Kartela informative hartohet apo ndryshohet nga ADISA, e cila duhet të mbajë në konsideratë llojin dhe specifikat e shërbimit që ofrohet, me qëllim që të pasqyrohen në mënyrë të detajuar e të plotë të gjitha karakteristikat dhe të dhënat që kërkohen në këtë rast.

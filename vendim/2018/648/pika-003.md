@@ -1,0 +1,1 @@
+3. Me fillimin e procedurës, ADISA dhe institucionet e administratës shtetërore i komunikojnë njëri-tjetrit strukturën dhe nëpunësin/punonjësin e kontaktit, i cili do të bashkëpunojë në hartimin e kartelave informative dhe do të jetë përgjegjës për shkëmbimin e informacionit e të dokumentacionit përkatës.
