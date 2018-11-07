@@ -1,0 +1,4 @@
+2. Ky vendim ka si objekt përcaktimin e kërkesave mjedisore për pranimin nga operatorët të mbetjeve të metaleve, vendet e grumbullimit, të depozitimit, të trajtimit të mbetjeve të metaleve dhe aktivitetet që lidhen me grumbullimin, depozitimin dhe trajtimin e tyre, të cilat çojnë në një minimizim të vazhdueshëm dhe parandalim të efekteve negative në mjedis.
+II. FUSHA E ZBATIMIT dhe termat e pËrdorur
+1. Ky vendim është i detyrueshëm për zbatim për të gjithë operatorët, të cilët ushtrojnë aktivitetin e tyre në territorin e Republikës së Shqipërisë, për grumbullimin, trajtimin apo riciklimin e mbetjeve të metaleve.
+2. Grumbullimi, trajtimi, ripërdorimi dhe riciklimi i automjeteve në fund të jetës do të kryhet sipas vendimit nr. 705, datë 10.10.2012, të Këshillit të Ministrave, “Për menaxhimin e mbetjeve të automjeteve në fund të jetës”.

@@ -1,0 +1,1 @@
+4. Në rast se operatori konstaton praninë e mbetjeve të papranueshme në ngarkesën e mbetjeve, duhet të marrë masat e nevojshme për të adresuar dhe për të trajtuar mbetjet e identifikuara jometalike, në përputhje me legjislacionin në fuqi, që rregullojnë menaxhimin e rrymave të tjera të mbetjeve.
