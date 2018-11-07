@@ -1,0 +1,1 @@
+3. Emërtesa e çdo organi kolegjial, numri i anëtarëve në përbërje të tyre, numri maksimal i pagesave në një vit, pavarësisht nga numri i mbledhjeve të kryera, si dhe masa e pagesës së tyre, përcaktohen në lidhjen nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

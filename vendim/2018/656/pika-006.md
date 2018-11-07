@@ -1,0 +1,1 @@
+6. Përjashtohen nga e drejta e pagesës sipas pikës 3, të këtij vendimi, punonjësit e emëruar si përfaqësues të institucionit në më shumë se 2 (dy) nga organet kolegjiale të përcaktuara në lidhjen nr. 1, që i bashkëlidhet këtij vendimi.

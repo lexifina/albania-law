@@ -1,0 +1,1 @@
+9. Efektet financiare për organet kolegjiale që rregullohen për herë të parë me këtë vendim, fillojnë nga momenti i funksionimit të tyre dhe përballohen nga buxheti i miratuar për institucionet përkatëse, të përmendura në vendim.
