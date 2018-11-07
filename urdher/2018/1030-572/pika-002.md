@@ -1,0 +1,1 @@
+2. Drejtoria e Koordinimit të Informacionit dhe Studimit të Strategjive të Zhvillimit Shëndetësor dhe Drejtoria e Shërbimeve Mbështetëse të jenë në varësi direkte të znj. Brunilda Mene, zëvendësdrejtor i përgjithshëm.
