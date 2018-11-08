@@ -1,0 +1,1 @@
+1. Qendrat e Trajnimit Privat (QTP) krijohen si persona juridikë privatë të pavarur nga subjektet e licencuara të Shërbimit Privat të Sigurisë Fizike (SHPSF-së) dhe e ushtrojnë veprimtarinë e tyre vetëm pasi të licencohen.

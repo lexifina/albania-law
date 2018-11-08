@@ -1,0 +1,1 @@
+2. Licencimi i QTP-ve bëhet nga drejtori i përgjithshëm i Policisë së Shtetit, në përputhje me kriteret dhe procedurat e përcaktuara në legjislacionin në fuqi për licencat, për autorizimet dhe për lejet në Republikën e Shqipërisë dhe sipas këtij udhëzimi.

@@ -1,0 +1,1 @@
+3. Licenca e QTP-ve është pa afat. Ajo mund të revokohet nga drejtori i përgjithshëm i Policisë së Shtetit, në përputhje me Kodin e Procedurave Administrative vetëm në rastet kur shkeljet e evidentuara në veprimtarinë e QTP-së janë të tilla që bien ndesh me kushtet e licencimit.
