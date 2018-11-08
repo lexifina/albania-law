@@ -1,1 +1,0 @@
-4. Subjektet janë të detyruara që në rast defekti i sistemit të sigurisë të njoftojnë komisariatin e policisë brenda 24 orëve dhe të marrin masa për riparimin e defekteve menjëherë, por jo më vonë se 5 ditë, duke njoftuar komisariatin e policisë.
