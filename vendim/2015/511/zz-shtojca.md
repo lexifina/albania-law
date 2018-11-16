@@ -962,3 +962,73 @@ SHUMA TOTALE
 136476121
 3486472
 174666686
+Tabela 2
+LISTA EMËRORE E PRONARËVE (SHTESË) QË SHPRONËSOHEN NË SEGMENTIN RRUGOR
+“NYJA LIDHËSE MILOT-LEZHË, MILOT-RRËSHEN DHE MILOT-THUMANË”
+Nr.
+Emri
+Atësia
+Mbiemri
+ZK
+Numri i pasurisë
+Sip. totale
+Sip. e shpronësuar sipas VKM-së nr. 511, datë 10.6.2015
+Tokë arë
+Objekt
+Vlera e kult. bujq. dhe dru-frutorët (lekë)
+Vlera totale (lekë)
+Shënime
+Sip. m2
+Çmimi (lekë/m2)
+Vlera, lekë
+Sip. ndër. konf. ZVRPP (m2)
+Vlera sipas preventivit
+1
+Mark
+Gjon
+Tarazhi
+1677
+29/54
+3370
+3370
+471,000
+471,000
+Konfirmuar nga DRBL-ja
+2
+Gjon
+Preng
+Tarazhi
+3441
+3/27
+3456
+3256
+518,600
+518,600
+Konfirmuar nga DRBL-ja
+3
+Gjon
+Preng
+Tarazhi
+3441
+2/1-ND
+120
+3,212,434
+3,212,434
+Konfirmuar nga ZVRPP-ja
+4
+Dile
+Gjin
+Gjeta
+3441
+3/28
+822
+822
+278
+228,516
+228,516
+Certifikatë pronësie
+Vlera totale e shpronësimit
+4,430,550
+Shënim: 1. Vlerësimi i kulturave bujqësore e drufrutorë është kryer bazuar në udhëzimin nr. 1, datë 5.10.2000.
+2. Vlerësimi i objektit është kryer bazuar në VKM-në nr. 138, datë 23.3.2000.
+3. Vlerësimi i pasurisë së llojit “tokë arë” është kryer bazuar në VKM-në nr. 89, datë 3.2.2016.
