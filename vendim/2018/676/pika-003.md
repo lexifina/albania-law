@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Bujqësisë dhe Zhvillimit Rural, Këshilli i Qarkut Shkodër, Këshilli i Qarkut Durrës, Këshilli i Qarkut Fier, Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Shkodër, Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Durrës dhe Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Fier për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
