@@ -1,0 +1,28 @@
+{
+  "qbz_id": 65874,
+  "title": "MBI LICENCIMIN E SHOQËRISË\n“OSOJA HPP” SHPK, NË\nVEPRIMTARINË E PRODHIMIT TË\nENERGJISË ELEKTRIKE NGA HEC\n“OSOJË”, ME FUQI TË INSTALUAR 1952\nkw, NË ZONËN E MOGLICËS, KORÇË\n(LUMI OSOJË",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "228",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-10-26",
+  "published": "2018-11-16",
+  "in_force": "2018-11-16",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/04c4a65b551e018249346a6506f2f8f9337d60f73b7795d3495390dc0f25b62f.docx",
+  "source_sha256": "04c4a65b551e018249346a6506f2f8f9337d60f73b7795d3495390dc0f25b62f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/65874",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/10/26/228",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    21543
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
