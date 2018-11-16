@@ -1,0 +1,1 @@
+4. Për përgatitjen e mbledhjeve dhe koordinimin e çështjeve të Komisionit Kombëtar për Nomenklaturën krijohet sekretariati i Komisionit, i cili përbëhet nga specialistë të Institutit të Statistikave. Rregullat për funksionimin e sekretariatit përcaktohen në rregulloren e miratuar nga Komisioni Kombëtar për Nomenklaturën.

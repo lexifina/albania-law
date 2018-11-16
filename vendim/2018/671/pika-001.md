@@ -1,0 +1,1 @@
+1. Ngritjen e Komisionit Kombëtar për Nomenklaturën për kryerjen e përditësimit, përshtatjen dhe zbatimin e klasifikimeve zyrtare ekonomike e sociale, në përputhje me nomenklaturat evropiane dhe ndërkombëtare.

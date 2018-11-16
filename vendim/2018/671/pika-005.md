@@ -1,0 +1,1 @@
+5. Komisioni Kombëtar për Nomenklaturën mblidhet me thirrjen e kryetarit. Mbledhjet e Komisionit zhvillohen sipas rregullave të përcaktuara në ligjin nr. 8480, datë 25.8.1999, “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”.

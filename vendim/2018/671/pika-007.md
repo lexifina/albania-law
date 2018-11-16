@@ -1,0 +1,1 @@
+7. Komisioni Kombëtar për Nomenklaturën mund të ngrejë grupe pune, sipas fushave dhe nevojave të tij, me përbërje nga të gjitha institucionet e përfshira në Komision ose një pjesë të tyre. Rregullat për funksionimin e këtyre grupeve dhe për shkallën e tyre të përgjegjësisë përcaktohen me vendim të veçantë të këtij Komisioni.

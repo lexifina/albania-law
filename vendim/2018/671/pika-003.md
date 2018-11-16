@@ -1,0 +1,1 @@
+3. Përfaqësuesit e institucioneve, anëtarë të Komisionit, caktohen nga titullarët e institucioneve, sipas kritereve e kërkesave të paraqitura nga Instituti i Statistikave, dhe brenda 10 (dhjetë) ditëve njoftojnë INSTAT-in.
