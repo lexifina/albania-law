@@ -1,0 +1,1 @@
+19. Dokumentacioni i shqyrtimit të ankesave, sipas pikës 18, të këtij vendimi, dhe mënyrës së zgjidhjes së tyre është pjesë e dokumentacionit të testimit, që i dorëzohet Këshillit të Ministrave për përzgjedhjen e kandidaturave dhe, më pas, Kuvendit, për caktimin e kandidatit fitues.

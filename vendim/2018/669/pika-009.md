@@ -1,0 +1,1 @@
+9. KPVK-ja bën vlerësimin e kandidaturave të paraqitura brenda 35 (tridhjetë e pesë) ditëve kalendarike, nga data e mbylljes së aplikimeve. Nëse numri i aplikimeve të paraqitura është i lartë, atëherë vlerësimi i tyre nga komisioni mund të zgjatet, por jo më shumë se 15 (pesëmbëdhjetë) ditë kalendarike.

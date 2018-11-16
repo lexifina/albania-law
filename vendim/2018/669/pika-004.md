@@ -1,0 +1,1 @@
+4. Anëtarët e KPVK-së caktohen nga titullarët e institucioneve të përcaktuara në pikën 3, të këtij vendimi, sipas kërkesës së paraqitur nga Sekretari i Përgjithshëm i Këshillit të Ministrave dhe në përputhje me pikën 5, të këtij vendimi, të paktën 10 (dhjetë) ditë përpara publikimit të shpalljes për konkurrim nga Kryeministria, sipas pikës 6, të këtij vendimi.

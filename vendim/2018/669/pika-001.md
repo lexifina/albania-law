@@ -1,0 +1,1 @@
+1. Miratimin e procedurave të përzgjedhjes së kandidaturave për t’u emëruar në pozicionin “Drejtor i Përgjithshëm i INSTAT-it”, duke u mbështetur në kritere tërësisht profesionale, me qëllim sigurimin e drejtimit të Institutit të Statistikave në mënyrë profesionale, të pavarur dhe me integritet.

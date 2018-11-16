@@ -1,0 +1,1 @@
+17. Në përfundim të procesit të vlerësimit KPVK-ja përgatit listën me emrat e kandidatëve, shumën e pikëve të secilit, dhe i njofton individualisht, brenda 2 (dy) ditëve nga kryerja e vlerësimit, për rezultatin përkatës. Lista e kandidatëve dhe pikët e secilit publikohen në faqen elektronike zyrtare të Kryeministrisë.

@@ -1,0 +1,1 @@
+15. Intervista e strukturuar me gojë kryhet për të vlerësuar kandidatët për njohuritë që zotërojnë në fushën e statistikave, filozofinë drejtuese të tyre, strategjitë dhe risitë që mund të sjellin si drejtues të një institucioni publik.

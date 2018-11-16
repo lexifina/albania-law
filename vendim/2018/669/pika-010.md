@@ -1,0 +1,4 @@
+10. Procedura e vlerësimit të aplikantëve kryhet në dy faza. Në fazën e parë, KPVK-ja bën vlerësimin e dosjeve të tyre, për të verifikuar nëse ata plotësojnë kriteret e përcaktuara në pikën 5, të nenit 16, të ligjit nr. 17/2018, “Për statistikat zyrtare”. Në përfundim të procesit të verifikimit KPVK-ja harton listën me emrat e aplikantëve që plotësojnë kriteret dhe listën me emrat e aplikantëve që nuk plotësojnë kriteret për t’u emëruar.
+Aplikantët, që plotësojnë kriteret, njoftohen individualisht për kualifikimin e tyre, brenda 2 (dy) ditëve kalendarike nga vendimi i KPVK-së. Lista e kandidatëve të kualifikuar publikohet në faqen elektronike zyrtare të Kryeministrisë.
+Aplikantët, që nuk plotësojnë kriteret, njoftohen individualisht për skualifikimin dhe arsyet e skualifikimit, brenda 2 (dy) ditëve kalendarike nga vendimi i KPVK-së.
+Në rast se janë më pak se 3 (tre) aplikantë, që përmbushin kriteret ligjore, procedura rishpallet nga e para.

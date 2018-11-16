@@ -1,0 +1,1 @@
+2. Përzgjedhja e kandidaturave për Drejtorin e Përgjithshëm kryhet nëpërmjet zbatimit të procedurave të hapura dhe publike të konkurrimit, nga Këshilli i Ministrave, bazuar në pikën 3, të nenit 16, të ligjit nr. 17/2018, “Për statistikat zyrtare”.

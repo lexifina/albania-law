@@ -1,0 +1,1 @@
+22. Këshilli i Ministrave, pas shqyrtimit të listës së kandidatëve të kualifikuar, i propozon Kuvendit jo më pak se 3 (tri) kandidatura, të cilat plotësojnë kërkesat e mësipërme dhe krijojnë bindjen e Këshillit të Ministrave për aftësinë e tyre profesionale në fushën e prodhimit statistikor e të drejtimit të një institucioni.

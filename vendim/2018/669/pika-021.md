@@ -1,0 +1,1 @@
+21. Në përfundim, KPVK-ja rendit kandidatët në bazë të pikëve të marra dhe ia dërgon listën Sekretarit të Përgjithshëm të Këshillit të Ministrave për vendimmarrje të mëtejshme nga Këshilli i Ministrave.
