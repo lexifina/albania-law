@@ -1,0 +1,1 @@
+7. Këshilli i Statistikave mblidhet, të paktën, 3 (tri) herë në një vit kalendarik. Mbledhja thirret nga kryetari i Këshillit të Statistikave. Në mungesë të tij, mbledhja thirret nga zëvendëskryetari dhe, në mungesë të këtij të fundit, nga anëtari më i vjetër në detyrë.

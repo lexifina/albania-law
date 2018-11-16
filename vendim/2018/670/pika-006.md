@@ -1,0 +1,1 @@
+6. Anëtarët e Këshillit të Statistikave shkarkohen nga Kuvendi, sipas përcaktimeve të pikës 6, të nenit 22, të ligjit nr. 17/2018, “Për statistikat zyrtare”. Propozimi i shkarkimit të tyre kryhet nga institucioni që ka të drejtën e propozimit të emërimit, sipas përkatësisë.

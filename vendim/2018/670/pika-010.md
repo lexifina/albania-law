@@ -1,0 +1,1 @@
+10. Mbledhja është e vlefshme kur në të janë të pranishëm, të paktën, 7 (shtatë) anëtarë të këshillit. Mbledhja mbahet në përputhje me rendin e ditës. Diskutimet dhe vendimet për çdo pikë të rendit të ditës mbahen në procesverbal, nga sekretariati i Këshillit të Statistikave.

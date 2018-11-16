@@ -1,0 +1,1 @@
+13. Sekretariati i Këshillit të Statistikave sigurohet nga INSTAT-i. Sekretariati organizon mbledhjet, mban dokumentacionin përkatës, procesverbalin, e nënshkruan atë, pasi ua ka kaluar të gjithë anëtarëve për të konfirmuar saktësinë e tij, dhe zbardh të gjitha vendimet e Këshillit të Statistikave.

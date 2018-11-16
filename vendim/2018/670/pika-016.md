@@ -1,0 +1,1 @@
+16. Vendimi nr. 999, datë 25.10.2013, i Këshillit të Ministrave, “Për kriteret dhe procedurat e përfaqësimit, të përzgjedhjes, të emërimit e të shkarkimit, rregullat e funksionimit dhe masën e shpërblimit të anëtarëve të këshillit të statistikave”, shfuqizohet.

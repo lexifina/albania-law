@@ -1,0 +1,1 @@
+9. Kryetari është i detyruar të thërrasë mbledhjen kur atë e kërkon, me shkrim, të paktën 1/3 e anëtarëve të Këshillit të Statistikave ose Drejtori i Përgjithshëm i INSTAT-it. Në këto raste, mbledhja organizohet jo më vonë se 15 (pesëmbëdhjetë) ditë pas kërkesës së paraqitur prej tyre.

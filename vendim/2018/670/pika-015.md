@@ -1,0 +1,1 @@
+15. Masa e shpërblimit të anëtarëve të Këshillit të Statistikave është sipas përcaktimit të bërë në vendimin nr. 656, datë 31.10.2018, të Këshillit të Ministrave, “Për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose komisioneve të përhershme të njësive të qeverisjes qendrore”.

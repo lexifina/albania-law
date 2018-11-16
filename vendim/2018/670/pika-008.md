@@ -1,0 +1,1 @@
+8. Kryetari vendos për datën, kohën e mbledhjes së radhës, dhe njofton anëtarët e këshillit, të paktën, 5 (pesë) ditë para mbledhjes. Rendi i ditës u njoftohet anëtarëve jo më vonë se 2 (dy) ditë, para organizimit të mbledhjes. Çdo ndryshim për datën dhe kohën e vendosur për mbledhje u njoftohet anëtarëve të Këshillit të Statistikave jo më vonë se 2 (dy) ditë para mbledhjes.

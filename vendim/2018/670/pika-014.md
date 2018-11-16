@@ -1,0 +1,1 @@
+14. Anëtarët e Këshillit të Statistikave, gjatë ushtrimit të detyrës, janë të detyruar të ruajnë konfidencialitetin e të dhënave, informacionin që sigurohet prej tyre dhe të mos i përdorin ato për interesa personale.
