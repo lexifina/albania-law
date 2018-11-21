@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ministria e Financave dhe Ekonomisë te Bashkia Tiranë, të një pjese të pasurisë shtetërore, me nr. 4/258, të shoqërisë “Alba Film” sh.a., të llojit “truall”, me sipërfaqe 909.5 m², në zonën kadastrale 8130.

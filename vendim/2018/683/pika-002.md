@@ -1,0 +1,1 @@
+2. Vendimi nr. 79, datë 17.2.2007, i Këshillit të Ministrave, “Për kalimin në përgjegjësi administrimi të disa mjediseve të “Alba Film Studio” sh.a. nga Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve te Ministria e Brendshme”, shfuqizohet.
