@@ -1,0 +1,2 @@
+1. Qëllimi i këtij vendimi është promovimi i investimeve të përbashkëta, rajonale në infrastrukturën e sektorit të energjisë, identifikimin e projekteve me interes për Komunitetin e Energjisë e të projekteve me interes të ndërsjellë të palëve kontraktuese të Komunitetit të Energjisë dhe/ose vendeve anëtare të Bashkimit Evropian, në lidhje me infrastrukturën rajonale të energjisë elektrike, gazit natyror dhe naftës bruto, si dhe të bashkërendojë aktivitetet në lëshimin e lejeve.
+II. Fusha e zbatimit

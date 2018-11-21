@@ -1,0 +1,1 @@
+42. Në vendosjen e ndarjes ndërkufitare të kostos, rregullatorët, në konsultim me operatorët e përfshirë, kërkojnë marrëveshje të ndërsjellë, që bazohet, por pa u kufizuar tek informatat e specifikuara në shkronjat “a” dhe “b”, të pikës 36 këtij kreu.

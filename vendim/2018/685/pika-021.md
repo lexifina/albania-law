@@ -1,0 +1,1 @@
+21. Në rastet ku promovuesi i projektit synon të bëjë ndryshime të konsiderueshme në një koncept të pjesëmarrjes publike të aprovuar, ai duhet të informojë autoritetin kompetent për këto. Në atë rast, pas konsultimit me autoritetet përkatëse, autoriteti kompetent mund të miratojë modifikimet.

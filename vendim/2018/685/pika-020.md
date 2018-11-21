@@ -1,0 +1,1 @@
+20. Autoriteti kompetent duhet të marrë parasysh çdo formë të pjesëmarrjes dhe konsultimit publik që përdoret para procesit të dhënies së lejeve, referuar dispozitave të ligjit nr. 146/2014, deri në masën që ajo pjesëmarrje dhe konsultim publik të përmbushë kriteret e këtij neni.

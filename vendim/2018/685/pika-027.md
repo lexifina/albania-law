@@ -1,0 +1,6 @@
+27. Procesi i dhënies së lejeve përbëhet nga dy procedura:
+a) Procedura para aplikimit, që përfshin periudhën ndërmjet fillimit të procesit të dhënies së lejeve e miratimeve, si dhe të pranimit, nga ana e autoritetit kompetent, të aplikimit të dorëzuar, që përfshin një periudhë indikative, të përcaktuar në aktet nënligjore përkatëse për secilin aktivitet, energji elektrike, gaz natyror apo naftë bruto.
+Kjo procedurë përfshin edhe Raportin e Vlerësimit të Ndikimit në Mjedis (VNM), si dhe raportet e tjera relevante, që duhen siguruar nga promovuesi i projektit.
+Promovuesit e projekteve duhet të njoftojnë me shkrim autoritetin kompetent për projektin dhe të ofrojnë një përshkrim të hollësishëm të tij.
+Në rast se projekti përfshin dy apo më shumë palë kontraktuese dhe/ose palë të tjera, data e pranimit të njoftimit të fundit nga autoriteti kompetent në fjalë shërben si data e fillimit të procesit të lejeve;
+b) Procedura ligjore e dhënies së lejeve, që mbulon periudhën nga data e miratimit paraprak nga autoriteti kompetent deri në miratimin përfundimtar nga institucionet e ngarkuara me ligj për lëshimin e lejeve për punimet ndërtimore për objekte të infrastrukturës energjetike, sikurse përcaktohet në dispozitat e legjislacionit në fuqi për planifikimin dhe zhvillimin e territorit, ligji nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, i ndryshuar.

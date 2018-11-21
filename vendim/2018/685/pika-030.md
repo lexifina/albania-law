@@ -1,0 +1,2 @@
+30. Kushtet dhe procedurat për ndërtimin e objekteve të infrastrukturës rajonale, energjetike, të sektorit të naftës bruto, për projektet PECI dhe PMI, do të bëhet në referencë të përcaktimeve të vendimit nr. 411, datë 13.5.2015, të Këshillit të Ministrave, “Për procedurat dhe kushtet për dhënien e përsëritjen e licencës së koncesionit të naftësjellësve për importimin, eksportimin dhe transportimin e naftës bruto”.
+XI. Mundësia e investimeve me ndikim ndërkufitar

@@ -1,0 +1,1 @@
+41. Në rastet kur vendoset ndarja ndërkufitare e kostos, duhet të merren parasysh kostot dhe përfitimet e projekteve ekonomike, sociale e mjedisore te palët kontraktuese të Komunitetit të Energjisë dhe shtetet përkatëse anëtare të Bashkimit Evropian, si dhe nevojat e mundshme për mbështetje financiare.

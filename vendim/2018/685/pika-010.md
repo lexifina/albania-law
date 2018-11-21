@@ -1,0 +1,2 @@
+10. Duke filluar nga 30 qershori 2019, ministria përgjegjëse për energjinë, në bashkërendim me ministrinë përgjegjëse për mjedisin, duhet të ndërmarrin masat ligjore të identifikuara, sipas pikës 8 të këtij kreu. Këto masa duhen marrë pa paragjykuar detyrimet që rrjedhin nga legjislacioni i miratuar nga Komuniteti i Energjisë.
+VII. Statusi prioritar i projekteve rajonale të infrastrukturës energjetike
