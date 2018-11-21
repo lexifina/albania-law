@@ -1,0 +1,3 @@
+4. Vlera prej 45% e të ardhurave, si pjesë takuese e Qendrës Spitalore Universitare “Nënë Tereza”, Tiranë, do të ndahet sipas modalitetit të mëposhtëm:
+a) 3% do të kalojë në llogarinë e Qendrës Spitalore Universitare “Nënë Tereza”, Tiranë, me destinacion edukimin në vazhdim të burimeve njerëzore të kësaj qendre;
+b) 42% do të investohet nga Fondi Shqiptar i Zhvillimit, me kërkesë të Qendrës Spitalore Universitare “Nënë Tereza”, Tiranë, dhe pas miratimit paraprak të ministrit të Shëndetësisë dhe Mbrojtjes Sociale, në infrastrukturë, për përmirësimin e ambienteve të brendshme dhe të jashtme, në përmbushje të objektivave dhe të misionit të saj.

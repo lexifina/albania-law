@@ -1,0 +1,1 @@
+3. Nga aktiviteti që do të zhvillojë Fondi Shqiptar i Zhvillimit, për përmirësimin e infrastrukturës së jashtme urbane dhe pritëse, si dhe menaxhimi cilësor i shërbimeve publike, që do të zhvillohen në këtë sipërfaqe, do të përfitojë 55% të të ardhurave, ndërsa Qendra Spitalore Universitare “Nënë Tereza”, Tiranë, do të përfitojë 45% të të ardhurave.
