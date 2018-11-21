@@ -1,1 +1,0 @@
-5. Federatat dhe klubet kanë të drejtë të grumbullojnë ekipet e tyre përfaqësuese për veprimtari të rëndësishme ndërkombëtare. Vlera ditore për akomodim dhe ushqim të jetë deri në 6 000 (gjashtë mijë) lekë në ditë, deri 50 ditë në vit.
