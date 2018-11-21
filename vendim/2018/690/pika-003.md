@@ -1,0 +1,1 @@
+3. Emisioni i posaçëm televiziv për kulturën shqiptare, si prodhim i pavarur i Ministrisë së Kulturës, transmetohet nga Radiotelevizioni Shqiptar (RTSH), me financimin e buxhetit të miratuar për ministrinë.

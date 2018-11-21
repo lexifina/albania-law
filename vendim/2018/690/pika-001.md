@@ -1,0 +1,1 @@
+1. Prodhimin, transmetimin dhe financimin nga buxheti i shtetit të emisioneve të posaçme televizive, për mësimin e gjuhës shqipe dhe për kulturën shqiptare, të dedikuara për diasporën, si pjesë të programit “RTSH 3”, të Radio-televizionit Shqiptar (RTSH).

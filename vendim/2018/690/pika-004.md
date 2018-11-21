@@ -1,0 +1,1 @@
+4. Përmbajtja e programeve të emisionit të posaçëm televiziv për mësimin e gjuhës shqipe do t’u kushtohet interesave të arsimimit për komunitetet shqiptare jashtë vendit, sipas kurrikulës së përbashkët të realizuar për këtë qëllim, në bazë të marrëveshjes me qeverinë e Republikës së Kosovës.

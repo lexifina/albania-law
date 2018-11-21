@@ -1,0 +1,1 @@
+7. Ministria e Arsimit, Sportit dhe Rinisë dhe Ministria e Kulturës, për prodhimin, transmetimin dhe financimin e emisioneve të posaçme, sipas pikave 1, 2 e 3 të këtij vendimi, të lidhin marrëveshjet përkatëse me Radiotelevizionin Shqiptar (RTSH).

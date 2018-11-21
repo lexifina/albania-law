@@ -1,0 +1,1 @@
+8. Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Kulturës dhe ministri i Shtetit për Diasporën, brenda fushës së tyre të përgjegjësisë, në bashkëpunim me Radiotelevizionin Shqiptar, të marrin masat e nevojshme për realizimin e emisioneve të posaçme dhe transmetimin e tyre, duke filluar nga viti i ri mësimor 2019-2020.

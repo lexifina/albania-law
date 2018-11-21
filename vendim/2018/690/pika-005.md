@@ -1,0 +1,1 @@
+5. Platforma e programeve të emisioneve të posaçme për mësimin e gjuhës shqipe, kulturën shqiptare dhe identitetin kombëtar të përgatitet nga një grup pune ndërinstitucional, që ngrihet me urdhër të Kryeministrit, me përfaqësues të ministrive përgjegjëse për arsimin, kulturën dhe diasporën.

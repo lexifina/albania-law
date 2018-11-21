@@ -1,0 +1,1 @@
+9. Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Kulturës dhe ministri përgjegjës për diasporën të mbështesin Radiotelevizionin Shqiptar (RTSH) për zbatimin e marrëveshjes me Radiotelevizionin e Kosovës (RTK) për realizimin, brenda vitit 2019, të programit të përbashkët televiziv mbi bazën e interesave të diasporës shqiptare.

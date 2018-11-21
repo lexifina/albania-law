@@ -1,0 +1,1 @@
+2. Emisioni i posaçëm televiziv për mësimin e gjuhës shqipe prodhohet e transmetohet nga Radiotelevizioni Shqiptar (RTSH) dhe financohet nga buxheti i miratuar për Ministrinë e Arsimit, Sportit dhe Rinisë.
