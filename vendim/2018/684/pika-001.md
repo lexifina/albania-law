@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga tokë bujqësore në tokë truall, të sipërfaqes prej 6 213 (gjashtë mijë e dyqind e trembëdhjetë) m², sipas listës bashkëlidhur këtij vendimi, për ndërtimin e një kapanoni industrial një kat-repart përpunimi, nga ana e shoqërisë “Laser Tube Albania” sh.p.k.

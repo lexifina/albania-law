@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, Drejtoria e Administrimit dhe Mbrojtjes së Tokës të Qarkut Durrës të pasqyrojë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit, nga tokë bujqësore në tokë truall, për sipërfaqen prej 6 213 (gjashtë mijë e dyqind e trembëdhjetë) m², sipas pikës 1, të këtij vendimi.
