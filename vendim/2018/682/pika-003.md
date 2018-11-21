@@ -1,0 +1,1 @@
+3. Ministrisë së Drejtësisë dhe Drejtorisë së Përgjithshme të Burgjeve u ndalohet të ndryshojnë destinacionin e përdorimit të pronës të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojnë ose t’ua japin atë në përdorim të tretëve.
