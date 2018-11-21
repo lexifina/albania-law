@@ -1,0 +1,1 @@
+2. Gjuetia e dhelprës së kuqe, me qëllim marrjen e kampionëve të dhelprës, të kryhet në të gjithë territorin e vendit, me përjashtim të territorit të zonave të mbrojtura, për 40 ditë, të shtrira brenda periudhës 10 dhjetor 2018-15 shkurt 2019, në ditët nga e hëna deri në të premten, duke filluar kjo gjueti nga dita që lëshohet autorizimi për këtë qëllim.

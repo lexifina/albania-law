@@ -1,0 +1,1 @@
+5. Gjatë të gjithë kohës së kryerjes së kësaj veprimtarie në zonat ku të kryhet marrja e kampionëve të dhelprave, procesi do të kontrollohet nga Inspektorati Shtetëror i Mjedisit, Pyjeve, Ujërave dhe Turizmit, si dhe Policia e Shtetit.

@@ -1,0 +1,1 @@
+4. Ministri i Turizmit dhe Mjedisit pajis me autorizimin përkatës për marrjen e kampionëve të dhelprës së kuqe punonjësit e Agjencisë Kombëtare të Zonave të Mbrojtura në çdo qark, brenda 5 (pesë) ditëve nga data që merr kërkesën për monitorim të dhelprave nga Ministria e Bujqësisë dhe Zhvillimit Rural, për realizimin e fazës së dhjetë të projektit.
