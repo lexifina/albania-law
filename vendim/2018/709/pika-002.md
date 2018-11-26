@@ -1,0 +1,1 @@
+2. Drejtorisë së Përgjithshme të Tatimeve, në buxhetin e miratuar për vitin 2018, në zërin “Shpenzime personeli”, i shtohet fondi prej 23 000 000 (njëzet e tre milionë) lekësh për pagesën e punonjësve me kontratë për periudhën nëntor-dhjetor 2018.

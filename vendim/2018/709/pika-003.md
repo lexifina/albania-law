@@ -1,0 +1,1 @@
+3. Efekti financiar prej 50 000 000 (pesëdhjetë milionë) lekësh, për financimin e projektit “Implementimi në sistemin tatimor e-taxation të ndryshimeve ligjore të paketës fiskale 2019”, i parashikuar në pikën 1, të këtij vendimi, të përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2018.

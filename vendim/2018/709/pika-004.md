@@ -1,0 +1,1 @@
+4. Efekti financiar prej 23 000 000 (njëzet e tre milionë) lekësh, për pagesën e punonjësve me kontratë, sipas pikës 2, të këtij vendimi, të përballohet nga zëri “Shpenzime korrente”, i aparatit të Ministrisë së Financave dhe Ekonomisë, programi “Planifikim, menaxhim dhe administrim”, miratuar për vitin 2018.

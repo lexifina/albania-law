@@ -1,0 +1,1 @@
+1. Drejtorisë së Përgjithshme të Tatimeve, në buxhetin e miratuar për vitin 2018, në zërin “Shpenzime kapitale me financim të brendshëm”, i shtohet fondi prej 50 000 000 (pesëdhjetë milionë) lekësh për financimin e projektit “Implementimi në sistemin tatimor e-taxation të ndryshimeve ligjore të paketës fiskale 2019”.
