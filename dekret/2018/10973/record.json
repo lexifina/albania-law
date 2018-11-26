@@ -1,0 +1,26 @@
+{
+  "qbz_id": 61931,
+  "title": "PËR SHPALLJE LIGJI DHE DHËNIEN E\nPËLQIMIT PËR HYRJEN\nNË FUQI MENJËHERË TË LIGJIT",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "10973",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2018-11-23",
+  "published": "2018-11-26",
+  "in_force": "2018-11-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ece3adc6a364fc6dcac42864267ac5269a333cd0ec930c72db7fe943f60174a5.docx",
+  "source_sha256": "ece3adc6a364fc6dcac42864267ac5269a333cd0ec930c72db7fe943f60174a5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61931",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2018/11/23/10973",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
