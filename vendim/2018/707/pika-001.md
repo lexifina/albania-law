@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të ministrisë përgjegjëse për turizmin të pronave të paluajtshme shtetërore, në zonat kadastrale që i përkasin vijës bregdetare Shkodër-Fier, sipas shtojcës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, me qëllim përdorimin e tyre për zhvillimin e qëndrueshëm në turizëm.

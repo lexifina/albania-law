@@ -1,0 +1,1 @@
+2. Ministrisë përgjegjëse për turizmin i ndalohet të ndryshojë destinacionin e përdorimit të pronave të paluajtshme, sipas pikës 1 të këtij vendimi, t’i tjetërsojë ose t’ua japë ato në përdorim të tretëve, përveç projekteve të investimit në zonat me përparësi zhvillimin e turizmit.
