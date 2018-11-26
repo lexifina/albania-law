@@ -1,0 +1,2 @@
+6. Autoriteti Portual i Durrësit apo subjektet e përfshira mundësojnë furnizimin me ujë, energji, lejimin e sjelljes së pajisjeve për mobilimin e zyrave dhe gjetjen e hapësirave për zyra dhe të një sheshi për kontroll fizik, ku zyrtarët e Doganës së Kosovës të kenë mundësi të kryejnë funksionin e përcaktuar në pikën 1, të këtij vendimi.
+Zyra doganore e Kosovës lidh kontratat përkatëse, duke përcaktuar të drejtat dhe detyrimet e ndërsjella sipas legjislacionit në fuqi në Republikën e Shqipërisë.

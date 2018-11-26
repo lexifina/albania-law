@@ -1,0 +1,1 @@
+2. Bazuar në indikatorët dhe analizën e riskut, Drejtoria e Përgjithshme e Doganave, në bashkëpunim me Doganën e Kosovës, përgatit listën e mallrave me risk, për të cilat nuk mund të zbatohet procedura e referuar në pikën 1 të këtij vendimi.

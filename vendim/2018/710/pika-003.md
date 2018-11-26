@@ -1,0 +1,3 @@
+3. Punonjësit doganorë të Doganës Durrës bashkëpunojnë dhe shoqërojnë zyrtarët e Doganës së Kosovës në kryerjen e funksioneve të tyre. Me përfundimin e procedurave të kontrollit nga zyrtarët e Doganës së Kosovës, vijohet me formalitetet doganore shqiptare.
+Në rastet kur gjatë kontrolleve të kryera nga personeli zyrtar i Doganës së Kosovës konstatohen mallra të ndaluara apo trafikim i qenieve njerëzore, njoftohen menjëherë organet e policisë dhe ato doganore shqiptare.
+Dega e Doganës Durrës u mundëson zyrtarëve të Doganës së Kosovës përdorimin e peshores apo të mjeteve të tjera në administrim të saj, për ushtrimin e detyrave të përcaktuara në pikën 1, të këtij vendimi.

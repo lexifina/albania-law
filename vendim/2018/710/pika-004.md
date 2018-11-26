@@ -1,0 +1,3 @@
+4. Për kryerjen e deklarimit në përputhje me pikën 1, të këtij vendimi, dhe të veprimeve të transitit në Republikën e Shqipërisë, përfshirë vendosjen e garancisë për borxhin e mundshëm në këtë regjim, njihen licencat e agjencive doganore të Republikës së Kosovës.
+Pas dorëzimit zyrtar të listës dhe të kopjeve të licencave nga Dogana e Kosovës, këto agjenci regjistrohen pranë Drejtorisë së Përgjithshme të Doganave.
+Drejtoria e Përgjithshme e Doganave, me qëllim njohjen dhe regjistrimin nga Dogana e Kosovës, dërgon pranë kësaj të fundit listën dhe kopje të licencave të agjencive doganore të Republikës së Shqipërisë.

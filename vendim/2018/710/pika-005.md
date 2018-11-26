@@ -1,0 +1,2 @@
+5. Autoriteti Portual i Durrësit, Ministria e Brendshme apo subjektet e tjera të përfshira sigurojnë lejet e hyrjes për zyrtarët e Doganës së Kosovës, në ambientet e Portit të Durrësit dhe Porto-Romano, sipas listës që dërgohet nga Dogana e Kosovës dhe konfirmuar nga Drejtoria e Përgjithshme e Doganave.
+Zyrtarët e Doganës së Kosovës ushtrojnë funksionet e përcaktuara në pikën 1, të këtij vendimi, me uniformë apo me kostume civile me jelek me shenja identifikuese të Doganës së Kosovës. Mjetet e transportit të Doganës së Kosovës lejohet të kenë mbishkrimet dalluese të saj.
