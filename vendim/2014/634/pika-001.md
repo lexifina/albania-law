@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për vlerësimin dhe dhënien me koncesion/partneritet publik privat të punëve publike dhe shërbimeve për ndërtimin, operimin, mirëmbajtjen dhe rehabilitimin e rrugëve nacionale, kur ato paraqesin rëndësi të veçantë për infrastrukturën rrugore të vendit, sipas tekstit që i bashkëlidhet këtij vendimi.
