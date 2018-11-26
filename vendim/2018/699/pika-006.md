@@ -1,0 +1,1 @@
+6. Ministria e Arsimit, Sportit dhe Rinisë, nga buxheti vjetor i miratuar, të mbulojë edhe rimbursimin e Bashkisë Korçë për pagesat e kryera, për programin buxhetor të arsimit 9-vjeçar, për vitin shkollor 2017-2018, në vlerën 3 449 000 (tre milionë e katërqind e dyzet e nëntë mijë) lekë, sipas përcaktimeve të këtij vendimi.
