@@ -1,0 +1,1 @@
+1. Shpalljen e Thirrjes së Parë për aplikime nga Programi IPARD II, për aplikimet, respektimin e kërkesave për informimin, publicitetin dhe transparencën, me qëllim garantimin e vizibilitetit dhe llogaridhënien e fondeve të BE-së.

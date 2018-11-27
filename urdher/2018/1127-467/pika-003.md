@@ -1,0 +1,1 @@
+3. Gjithashtu, Udhëzuesi për Aplikantët dhe formatet zyrtare të dokumenteve që duhet të përdoren (formulari i aplikimit, plani biznesit) mund të shkarkohen në versionin zyrtar nga data 30 nëntor 2018 nga faqja e internetit: www.azhbr.gov.aldhe http://www.bujqësia.gov.al.
