@@ -1,0 +1,9 @@
+# Neni 30
+Përcaktimi i qirasë
+1. Kur banesat sociale me qira financohen nga buxheti i shtetit ose buxheti i njësive të vetëqeverisjes vendore, ose kombinimi i të dyjave, masa e qirasë, e shprehur në lekë/m2 sipërfaqe ndërtimi llogaritet nga struktura përkatëse në njësinë e vetëqeverisjes vendore, brenda kufirit të përcaktuar në pikën 2 të këtij neni.
+2. Masa e qirasë miratohet me vendim të këshillit të njësisë së vetëqeverisjes vendore, sipas metodikës për llogaritjen, që miratohet me vendim të Këshillit të Ministrave.
+3. Masa e qirasë vjetore nuk duhet të jetë më e madhe se 3 për qind e kostos së ndërtimit të banesës nga institucionet shtetërore, për banesat e reja, ose 3 për qind e vlerës së banesës së blerë në treg, përveç rastit të përcaktuar në pikën 5 të këtij neni.
+4. Për objektet e dala jashtë funksionimit dhe ato të kthyera në fond banesash sociale me qira, sipas përcaktimit të pikës 2, të nenit 6, të këtij ligji, masa e qirasë përcaktohet nga këshillat e njësive të vetëqeverisjes vendore, sipas pikës 2, të këtij neni, bazuar në vlerën kapitale të transferuar dhe kostot e ndërhyrjes për përshtatjen e tyre.
+5. Kur banesat sociale me qira financohen sipas përcaktimeve në shkronjat “b” e “c”, të nenit 69, të këtij ligji, masa e qirasë përcaktohet nga subjektet që e kanë financuar dhe njësia e vetëqeverisjes vendore dhe miratohet me vendim të këshillit të njësisë së vetëqeverisjes vendore ku zbatohet projekti.
+6. Masa e qirasë, e shprehur në lekë për metër katror, duhet të mbulojë kostot për administrim, mirëmbajtje, kosto operacionale dhe kosto të investimit ose të shlyerjes së borxhit. Niveli i qirasë sociale nuk duhet të jetë më i lartë se niveli mesatar i qirasë në tregun e lirë.
+7. Këshilli i njësisë së vetëqeverisjes vendore miraton rregulloren për shfrytëzimin e banesave sociale me qira nga qiramarrësit, ku përcaktohen me hollësi të drejtat dhe detyrat e qiramarrësit dhe të entit menaxhues.

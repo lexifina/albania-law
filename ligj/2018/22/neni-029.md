@@ -1,0 +1,8 @@
+# Neni 29
+Lidhja e kontratës së qirasë
+1. Kontrata e qirasë lidhet ndërmjet pronarit ose përfaqësuesit të autorizuar prej tij dhe, sipas rastit, individit përfitues ose, në rastin e familjeve, prej bashkëshortëve ose bashkëjetuesve, në bazë të dispozitave të Kodit Civil.
+2. Kontrata e qirasë lidhet me të drejtë ripërtëritje çdo vit, bazuar në dokumentimin zyrtar që vërteton të ardhurat e çdo individi të familjes.
+3. Vërtetimi i të ardhurave, sipas rastit, merret nga qendra e punës ose personi juridik apo fizik që e ka punësuar, ose zyra përkatëse e ndihmës sociale pranë njësisë së vetëqeverisjes vendore, apo Instituti i Sigurimeve Shoqërore. Në rastin e individëve pa të ardhura apo me të ardhura të ulëta, shpenzimet për lidhjen e kontratës së qirasë përballohen nga njësia e vetëqeverisjes vendore.
+4. Çdo pjesëtar madhor i familjes vetëdeklaron të ardhurat e veta, sipas pikës 44, të nenit 2, të këtij ligji.
+5. Nëse familja siguron një banesë tjetër, kryefamiljari detyrohet të bëjë njoftimin e menjëhershëm pranë entit menaxhues, nga i cili ka përfituar banesën me kontratë qiraje sociale. Afati i njoftimit për lirimin e banesës përcaktohet në dispozitat e kontratës.
+6. Me lidhjen e kontratës, qiramarrësi është i detyruar të paguajë një paradhënie, në formë garancie, në vlerën e një qiraje mujore. Vlera e garancisë zbritet nga qiraja e muajit të fundit të afatit të qirasë, përveç rasteve kur ajo duhet të përdoret për riparimet e nevojshme të banesës, të diktuara nga dëmtimi i saj nga qiramarrësi ose përveç rasteve kur palët në kontratën e qirasë kanë parashikuar ndryshe. Për familjet pa të ardhura ose me të ardhura shumë të ulëta, paradhënia paguhet nga njësia e vetëqeverisjes vendore, e cila kryen subvencionimin e qirasë për këto kategori.

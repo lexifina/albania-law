@@ -1,0 +1,7 @@
+# Neni 62
+Banesat e specializuara për vajzat nëna
+1. Banesat e specializuara për vajzat nëna sigurojnë sistemimin në to të vajzave nëna gjatë dhe pas shtatzënisë, derisa fëmija të arrijë moshën 5 vjeç, kur ato janë nëna të vetme, nuk kanë mundësi strehimi, për shkak të mospranimit të gjendjes së tyre nga ana e familjarëve të tyre dhe kur nuk kanë të ardhura të mjaftueshme për të siguruar strehimin.
+2. Banesat e specializuara për vajzat nëna duhet të pajisen me shërbimin e nevojshëm shëndetësor, të specializuar për kujdesin dhe mbrojtjen e shëndetit të nënës e të fëmijës dhe infrastrukturën përkatëse, si dhe me shërbimin e psikologut e të punonjësit social.
+3. Banesat e specializuara për vajzat nëna jepen në huapërdorje ose uzufrukt pa shpërblim, për një afat deri në 5 vjet, kur vajzat nëna nuk kanë të ardhura, ose me qira, për sa kohë janë të identifikuara si të tilla, duke iu nënshtruar respektimit të kushteve, të drejtave dhe detyrimeve që burojnë nga programi i banesave sociale me qira, të parashikuara në këtë ligj.
+4. Njësitë e vetëqeverisjes vendore marrin masa për të ndërthurur programin e banesave të specializuara edhe me programe për sigurimin e mirërritjes së fëmijës. Njësitë e vetëqeverisjes vendore duhet të kujdesen edhe për punësimin e vajzave nëna dhe sistemimin e fëmijëve të tyre në sistemin parashkollor publik.
+5. Pasi fëmija arrin moshën 5 vjeç, vajzat nëna kalojnë nga programi i banesave të specializuara në një program tjetër social, që i përgjigjet gjendjes së tyre ekonomike dhe nivelit të të ardhurave që ato sigurojnë.

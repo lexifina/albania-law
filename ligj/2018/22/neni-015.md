@@ -1,0 +1,7 @@
+# Neni 15
+Rregulla të përzgjedhjes përmes sistemit të pikëzimit
+1. Përzgjedhja e subjekteve dhe familjeve përfituese bëhet nëpërmjet një sistemi pikëzimi, i cili miratohet dhe publikohet për çdo program nga njësia e vetëqeverisjes vendore, bazuar në parimet e parashikuara në këtë ligj, si dhe kriteret e bëra publike përpara fillimit të procesit të aplikimit.
+2. Në përzgjedhjen e subjekteve përfituese me anë të sistemit të pikëzimit përfshihen individë/familje, të cilët përmbushin nivelin e të ardhurave të parashikuara sipas çdo programi.
+3. Njësitë e vetëqeverisjes vendore hartojnë, miratojnë dhe publikojnë sistemin e pikëzimit, për çdo vit, të specifikuar për çdo njësi të vetëqeverisjes vendore dhe për çdo program që zbatohet në ato, bazuar në kriteret e përcaktuara në këtë ligj.
+4. Kryetari i njësisë së vetëqeverisjes vendore duhet të sigurojë listat e përfituesve brenda një afati dymujor, nga data e njoftimit nga ana e subjektit publik ose privat që ofron dhe realizon një nga programet sociale të strehimit, kur ky subjekt nuk është vetë njësia e vetëqeverisjes vendore. Marrëdhënia e njësisë së vetëqeverisjes vendore dhe subjektit që financon projektin përcaktohet me marrëveshje të posaçme.
+5. Hartimi i listës së përfituesve kryhet nga zyra përgjegjëse ose struktura e ngarkuar nga kryetari i njësisë së vetëqeverisjes vendore. Lista e përfituesve dhe dokumentacioni përkatës vlerësohet nga komisioni i strehimit dhe miratohet nga këshilli i njësisë së vetëqeverisjes vendore.

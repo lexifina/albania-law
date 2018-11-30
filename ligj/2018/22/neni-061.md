@@ -1,0 +1,7 @@
+# Neni 61
+Banesat e specializuara për të miturit 14-18 vjeç ose të rinjtë 18-21 vjeç, pas lirimit ose kryerjes së programeve rehabilituese
+1. Banesat e specializuara për të miturit nga mosha 14 deri në 18 vjeç, pas lirimit ose kryerjes së programeve rehabilituese, përdoren në rastet kur nga organet kompetente vendoset se rikthimi i tyre në familje rrezikon kryerjen e së njëjtës vepre penale apo të një vepre tjetër penale.
+2. Banesat e specializuara për të miturit, sipas pikës 1, të këtij neni, pajisen me shërbimin e kujdestarisë për përfaqësimin dhe mbrojtjen e interesave të tyre për arsimim, shëndetësi, mirërritje, punësim, me qëllim integrimin dhe rishoqërizimin në komunitet.
+3. Banesat e specializuara për të rinjtë nga 18-21 vjeç jepen me qira, në rastin kur këta nuk kanë banesë ose kur referohet nga shërbimet sociale dhe shërbimi i provës që të jetojnë veçmas nga familjet e tyre. Në rastin kur të rinjtë nuk janë në marrëdhënie pune, banesa jepet në huapërdorje derisa njësia e vetëqeverisjes vendore të mund të sigurojë punësimin e tyre.
+4. Në banesat e specializuara për të miturit dhe të rinjtë, të parashikuara nga ky nen, ofrohet shërbimi i psikologut ose punonjësit social, për të siguruar monitorimin e tyre, me qëllim integrimin dhe rishoqërizimin në komunitet.
+5. Banesat e specializuara sociale për të miturit (14-18 vjeç) dhe të rinjtë (18-21 vjeç) duhet të pajisen me infrastrukturën e nevojshme për njoftimin e policisë në raste rreziqesh ose emergjencash.

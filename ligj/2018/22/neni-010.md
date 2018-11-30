@@ -1,0 +1,4 @@
+# Neni 10
+Parimi i mosdiskriminimit
+1. Të drejtat që burojnë nga ky ligj i garantohen pa asnjë lloj diskriminimi çdo individi, pavarësisht nga gjinia, raca, ngjyra, feja, etnia, gjuha, identiteti gjinor, orientimi seksual, bindjet politike, fetare ose filozofike, gjendja ekonomike, arsimore, sociale, shtatzënia, përkatësia ose/dhe përgjegjësia prindërore, gjendja familjare ose martesore, gjendja civile, gjendja shëndetësore, predispozicionet gjenetike, aftësia e kufizuar, përkatësia në një grup të veçantë dhe çdo gjendje që sjell pasoja diskriminuese.
+2. Askujt nuk mund t’i mohohet e drejta për të përfituar strehim në një nga programet sociale të strehimit për shkaqe të përmendura në pikën 1, të këtij neni, përveç rasteve kur një program social strehimi është i programuar në mënyrë të posaçme dhe të shprehur për t’i ardhur në ndihmë individëve ose grupeve në nevojë.

@@ -1,0 +1,5 @@
+# Neni 60
+Banesat e specializuara për viktimat e trafikimit/viktimat e mundshme të trafikimit dhe viktimat e dhunës në familje
+1. Banesat e specializuara për viktimat e trafikimit/viktimat e mundshme të trafikimit dhe viktimat e dhunës në familje pajisen me shërbimin e punonjësve të specializuar socialë dhe u garantohet mbrojtje nga punonjësit e Policisë së Shtetit në rastet e rrezikut për jetën dhe shëndetin.
+2. Banesat e specializuara për viktimat e trafikimit/viktimat e mundshme të trafikimit dhe viktimat e dhunës në familje duhet të pajisen me infrastrukturën e nevojshme për njoftimin e policisë, në raste rreziqesh ose emergjencash.
+3. Banesat e specializuara për viktimat e trafikimit/viktimat e mundshme të trafikimit dhe viktimat e dhunës në familje jepen me qira, duke iu nënshtruar respektimit të kushteve, të drejtave dhe detyrimeve që burojnë nga programi i banesave sociale me qira, i parashikuar në këtë ligj. Këto kategori përfitojnë nga programi i banesave të specializuara derisa t’u sigurohet përfitimi nga një prej programeve të tjera sociale të strehimit.
