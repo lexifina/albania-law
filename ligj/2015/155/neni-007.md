@@ -1,0 +1,6 @@
+# Neni 7
+Mbrojtja e lojtarit
+1. Organizatorët e lojërave të fatit janë të detyruar të vendosin në mënyrë dalluese në ambientet ku luhen lojëra fati mesazhe në lidhje me luajtjen e lojërave të fatit nga lojtarët në mënyrë të përgjegjshme, rreziqet e mundshme të lojërave të fatit, si dhe shanset reale për të fituar.
+2. Ndalohen ndërtimi/blerja, marrja/dhënia me qira apo huapërdorje e mjediseve, me fushë veprimtarie lojëra fati, të ekspozuara pranë institucioneve fetare, institucioneve të arsimit parauniversitar dhe institucioneve të arsimit të lartë.
+3. Distancat ndërmjet subjekteve të lojërave të fatit nga institucionet e parashikuara në pikën 2, të këtij neni, duhet të jenë jo më pak se 100 metra në vijë ajrore në të gjitha drejtimet. Distancat të llogariten ndërmjet ekstremiteteve më të afërta të dy objekteve. Mënyra e përllogaritjes së distancave sipas kësaj pike përcaktohet me udhëzim të ministrit të Financave.
+4. Brenda datës 31 dhjetor 2018 organizatorët, që ushtrojnë veprimtarinë pranë këtyre institucioneve, duhet të marrin masat për ndryshimin e vendndodhjes. Në rast se brenda kësaj periudhe shoqëritë nuk kanë ndryshuar vendndodhje, AMLF-ja procedon me masa administrative deri në heqjen e licencës.

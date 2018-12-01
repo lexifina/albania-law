@@ -1,0 +1,7 @@
+# Neni 32
+Njoftimi i fituesit për Lotarinë Kombëtare
+1. Pas miratimit të listës së pjesëmarrësve në konkurrim, autoriteti i autorizuar nga ligji urdhëron publikimin e njoftimit të fituesit në faqen zyrtare të internetit të AMLF-së brenda 30 ditëve nga data e shpalljes së njoftimit, aplikanti ka të drejtë të paraqesë çdo ankesë pranë autoritetit të autorizuar nga Këshilli i Ministrave për procedurën e zhvilluar.
+2. Autoriteti i autorizuar, brenda 30 ditëve nga data e paraqitjes së ankesës, përfundon shqyrtimin administrativ dhe njofton ankuesin për vendimin e marrë.
+3. Me përfundimin e afatit për paraqitjen e ankesave dhe shqyrtimit të tyre, autoriteti i autorizuar nga ligji miraton dhënien e licencës për Lotari Kombëtare, pasi aplikanti i shpallur fitues të ketë plotësuar kushtet e mëposhtme:
+a) aplikanti, i shpallur i pari në listë, brenda 30 ditëve, duhet të bëjë pagesën për marrjen e licencës, në shumën e përcaktuar në këtë ligj;
+b) të paraqesë fondin e garancisë, të lëshuar nga një bankë, me seli në territorin e Republikës së Shqipërisë, në favor të Ministrisë së Financave, si garanci për fituesit e lojërave.

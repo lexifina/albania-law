@@ -1,0 +1,4 @@
+# Neni 69
+Parandalimi i pastrimit të parave dhe financimit të terrorizmit në veprimtarinë e lojërave të fatit
+1. Organizatorët e lojërave të fatit, përfshirë në këtë ligj, ushtrojnë veprimtarinë e tyre në përputhje edhe me legjislacionin në fuqi për parandalimin e pastrimit të parave dhe financimin e terrorizmit, veçanërisht në rastet e verifikimit të lojtarëve, identifikimit të pronarit përfitues dhe identifikimin e klientëve, identifikimit dhe raportimit të transaksioneve të dyshimta dhe termave për ruajtjen e informacionit të lojtarëve.
+2. Organizatorët e lojërave të fatit janë të detyruar, në të gjitha rastet, të verifikojnë lojtarët dhe të bëjnë raportimet përkatëse në përputhje me ligjin nr. 9917, datë 19.5.2008, “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, dhe aktet nënligjore në zbatim të tij.

@@ -1,0 +1,4 @@
+# Neni 27
+Kontrolli i basteve nga Sistemi Qendror i Monitorimit On-line
+1. Organizatori i licencuar për organizimin e basteve do të sigurojë mundësinë për ruajtjen e biletave të basteve të vendosura nga lojtarët dhe pagesave nga fitimi, duke siguruar një sistem kontrolli të veprimeve të organizatorit. Organizatori i basteve do të bëjë të mundur që AMLF-ja të lidhet në sistemin e IT-së së tij, në kohë reale, me qëllim vërtetimin dhe sigurimin e kontrollit të pandërprerë dhe të drejtpërdrejtë, i konsideruar si “kontroll i plotë”.
+2. Kontrolli i plotë përbën monitorim të besueshëm për regjistrimin dhe ruajtjen e informacionit mbi pagesat e pranuara nga bastet dhe pagesat e kryera nga organizatori për lojtarët fitues, si dhe siguron informacion të saktë, real e të pandryshuar për pagesat e kryera.

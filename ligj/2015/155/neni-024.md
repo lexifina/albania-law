@@ -1,0 +1,4 @@
+# Neni 24
+Kushtet fizike dhe teknike për pranimin e basteve
+1. Organizatori, i cili pranon pagesën për bastet në pikat e basteve dhe ndërmjet terminaleve të vetëshërbimit, duhet të plotësojë kërkesat fizike dhe teknike të përcaktuara nga ky ligj, si dhe akteve nënligjore në zbatim të tij.
+2. Me udhëzim të ministrit të Financave përcaktohen standardet që kanë të bëjnë me kushtet teknike të sistemit të basteve nëpërmjet kanaleve të shitjeve interaktive on-line, duke përfshirë identifikimin dhe regjistrimin e lojtarëve, kërkesat e programeve software dhe hardware, certifikimin e sistemit, procedurat në lidhje me faturat dhe transaksionet e pagesave, parimet e sigurisë, kushtet e kontrollit, parimet e organizatës përgjegjëse etj. Një organizator i gatshëm për të organizuar baste do të harmonizojë dhe do të certifikojë sistemin e tij me standardet teknike të kërkuara.

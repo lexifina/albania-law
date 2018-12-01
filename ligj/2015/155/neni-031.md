@@ -1,0 +1,6 @@
+# Neni 31
+Përzgjedhja e subjektit
+1. Përzgjedhja e subjektit për lojërat e fatit Lotari Kombëtare bëhet nga autoriteti i autorizuar për organizimin e garës, në përputhje me kriteret e vlerësimit, të përcaktuara me vendim të Këshillit të Ministrave.
+2. Anëtarët e Komisionit të Vlerësimit të Ofertave duhet të vetëdeklarojnë, nën përgjegjësinë tyre, se pjesëmarrja në këtë komision nuk përbën shkak për lindjen e një konflikti interesi me subjektet pjesëmarrëse në konkurrim. Për mosdeklarim zbatohen masat e parashikuara në ligjin nr.9367, datë 7.4.2005, “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”, të ndryshuar.
+3. Komisioni i Vlerësimit të Ofertave, brenda 15 ditëve nga përfundimi i procesit të përzgjedhjes, shpall listën e pjesëmarrësve në konkurrim, duke filluar renditjen nga aplikanti, që ka marrë numrin më të madh të pikëve. Kandidati, që ka marrë numrin më të madh të pikëve, shpallet fitues.
+4. Kur aplikanti, i renditur i pari në listë, nuk vazhdon procedurat për marrjen e licencës, brenda 30 ditëve nga data e shpalljes së tij fitues, skualifikohet dhe shpallet fitues konkurrenti i renditur i dyti, sipas listës së miratuar. Në rast se edhe konkurrenti i dytë nuk vazhdon procedurën për marrjen e lejes, autoriteti i autorizuar nga ligji urdhëron përsëritjen e garës.

@@ -1,0 +1,7 @@
+# Neni 58
+Procedurat e zhdoganimit të pajisjeve për lojëra fati dhe pjesëve të këmbimit të tyre
+1. Të gjitha mjetet e lojërave të fatit, të cilat do të përdoren për zhvillim aktiviteti në territorin e Republikës së Shqipërisë, duhet të plotësojnë detyrimisht specifikimet teknike, siç janë parashikuar në këtë ligj dhe në aktet nënligjore të dala në zbatim të tij.
+2. Lejohen të importojnë mjete për lojëra fati, për qëllime tregtare, vetëm ata organizatorë, të cilët kanë marrë miratimin për dhënien e lejes për ushtrimin e veprimtarisë në fushën e lojërave të fatit nga organi përkatës.
+3. Lejohen të importojnë pajisje për lojëra fati, me qëllime të ndryshme nga ato tregtare (si p.sh. për qëllime muzeale, ekspozimi, panairesh etj.), vetëm importuesit, të cilët kanë marrë miratimin paraprak nga AMLF-ja. Në kërkesën e subjektit për miratim duhet të specifikohen, ndër të tjera, numri, tipi dhe qëllimi i përdorimit të mjeteve të lojërave të fatit. Ngarkohet me përgjegjësi importuesi dhe/ose përdoruesi nëse këto pajisje përdoren për qëllime të ndryshme nga ato të deklaruarat.
+4. Të gjitha pjesët e këmbimit, elektronike apo mekanike, që shërbejnë apo mund të shërbejnë për riparimin apo zëvendësimin e pjesëve ekzistuese, u nënshtrohen të njëjtave procedura zhdoganimi si mjetet e lojërave të fatit.
+5. Ngarkohet ministri i Financave për nxjerrjen e udhëzimit për përcaktimin e procedurave të zhdoganimit të pajisjeve për lojëra fati dhe pjesëve të këmbimit të tyre, si dhe mënyrën e bashkëpunimit ndërmjet AMLF-së dhe Drejtorisë së Përgjithshme të Doganave.
