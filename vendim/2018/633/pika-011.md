@@ -1,0 +1,1 @@
+11. Ngarkohen autoritetet doganore të kontrollojnë dokumentacionin shoqërues të mjetit motorik dhe të ndalojnë importin e mjeteve motorike që nuk plotësojnë kushtet e përcaktuara në pikën 4 të këtij vendimi.

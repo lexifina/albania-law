@@ -1,0 +1,1 @@
+7. Kontrolli bëhet mbi bazën e normave që përcaktojnë nivelet e lejuara të shkarkimeve në ajër të ndotësve të gaztë dhe të lëndës së ngurtë pezull, në përputhje me legjislacionin kombëtar për mbrojtjen e cilësisë së ajrit në mjedis, si dhe për vlerësimin e cilësisë së ajrit të mjedisit dhe kërkesat për disa ndotës në lidhje me të.

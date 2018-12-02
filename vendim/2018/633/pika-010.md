@@ -1,0 +1,2 @@
+10. Automjetet që do të importohen në Republikën e Shqipërisë, në përputhje me këtë vendim, duhet të përmbushin kushtet teknike lidhur me karakteristikat funksionale të sistemeve dhe të pajisjeve dhe gjendjes tekniko-fizike të tyre, të cilat duhet t’u korrespondojnë mjeteve të parashikuara në pikën 8, të këtij kreu. Këto kushte përcaktohen me udhëzim të ministrit përgjegjës për transportet.
+III. DISPOZITA TË FUNDIT

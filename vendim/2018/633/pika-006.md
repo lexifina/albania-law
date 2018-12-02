@@ -1,0 +1,1 @@
+6. Kontrollit të shkarkimeve në ajër të ndotësve të gaztë dhe të lëndës së ngurtë pezull, që shkarkohen nga automjetet rrugore, u nënshtrohen të gjitha automjetet e pajisura me motorë me djegie të brendshme, që përdorin si lëndë djegëse benzinë, naftë dhe gaz të lëngshëm ose natyral, dhe që janë në përdorim nga individë, subjekte fizike dhe juridike.

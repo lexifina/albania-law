@@ -1,0 +1,1 @@
+9. Automjetet të cilat kanë hyrë në territorin shqiptar para hyrjes në fuqi të këtij vendimi, por nuk kanë përfunduar procedurat e regjistrimit, kanë afat deri në 1 mars 2019, për kryerjen e procedurave të nevojshme.
