@@ -1,1 +1,0 @@
-1. Miratimin e modelit të uniformave, gradave e shenjave që mbahen në uniformë, si dhe të stemave të strukturave e të flamujve dekorativë, që mbajnë Forcat e Armatosura të Republikës së Shqipërisë, sipas albumeve që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
