@@ -1,1 +1,0 @@
-10. Shiritat e letrës me emrat e kandidatëve futen në gogla. Numri i goglave duhet të përputhet me numrin e kandidatëve të propozuar nga secili institucion, sipas listës së përcjellë Kuvendit të Shqipërisë.

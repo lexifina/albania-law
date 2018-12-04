@@ -1,1 +1,0 @@
-9. Shorti organizohet në dy kuti transparente. Në njërën prej kutive vendosen goglat dhe në kutinë tjetër vendosen shiritat e letrës, ku janë shënuar emrat e kandidatëve të propozuar nga secili institucion sipas listës së përcjellë Kuvendit të Shqipërisë.

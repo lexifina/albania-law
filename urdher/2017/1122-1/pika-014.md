@@ -1,1 +1,0 @@
-14. Me të njëjtin short dhe të njëjtën procedurë, të parashikuar nga pikat 9 deri në 13 të këtij urdhri, zgjidhet edhe një anëtar zëvendësues nga secili institucion sipas parashikimeve të pikës 7, të nenit 221, të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”.
