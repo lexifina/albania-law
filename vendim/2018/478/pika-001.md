@@ -1,0 +1,1 @@
+1. Miratimin e kontratës shtesë të koncesionit, për një ndryshim dhe shtesë në kontratën e koncesionit, “Për ndërtimin, përmirësimin, shfrytëzimin dhe mirëmbajtjen e autostradës Milot-Morinë”, të miratuar me vendimin nr. 870, datë 14.12.2016, të Këshillit të Ministrave, sipas tekstit që i bashkëlidhet këtij vendimi.
