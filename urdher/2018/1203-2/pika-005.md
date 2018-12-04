@@ -1,0 +1,2 @@
+5. Kryetari i Kuvendit njofton zyrtarisht për datën dhe orën e organizimit të shortit, Prokurorin e Përgjithshëm, Sekretarin e Përgjithshëm të Këshillit të Lartë të Drejtësisë, Kryetarin e Gjykatës së Lartë dhe Kryetarin e Gjykatës Kushtetuese, të cilët ftohen të dërgojnë përfaqësuesit e tyre për të qenë prezent në organizimin e shortit.
+Përfaqësuesit e këtyre institucioneve të caktuar për të marrë pjesë në organizimin e shortit nuk duhet të jenë të njëjtë me personat e përfshirë në listën e kandidatëve të paraqitur për Këshillin e Emërimeve në Drejtësi (të përkohshëm).
