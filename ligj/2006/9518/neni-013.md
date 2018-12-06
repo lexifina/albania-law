@@ -1,0 +1,5 @@
+# Neni 13
+Dispozitë kalimtare
+(me ligjin nr. 74/2018, datë 25.10.2018)
+1. Radiotelevizionet, mediat e shkruara publike ose private, si edhe agjencitë publicitare, brenda 6 muajve nga hyrja në fuqi e këtij ligji, miratojnë rregulla për përmbajtjen e mesazheve publicitare që kanë të bëjnë me pijet energjike dhe pijet e gazuara që përmbajnë sheqer të shtuar.
+2. Për zbatimin e nenit 11, pikat 2/1 dhe 2/2, ngarkohet inspektorati që mbulon fushën e shëndetit
