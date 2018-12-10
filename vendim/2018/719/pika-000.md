@@ -1,0 +1,2 @@
+Miratimin e letërmarrëveshjes së grantit, ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve grant, të siguruara nga dhurues të ndryshëm, nën Fondin e Besimit për Ngritjen e Kapaciteteve Statistikore III, për projektin e zhvillimit të Strategjisë Kombëtare të Statistikave në Shqipëri, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
