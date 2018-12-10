@@ -1,0 +1,1 @@
+2. Të ardhurat e realizuara nga shitja e biletave do të përdoren: 30% për llogari të Teatrit Kombëtar, sipas limitit të përcaktuar në planin e shpenzimeve, dhe 70% do të derdhen në buxhetin e shtetit.
