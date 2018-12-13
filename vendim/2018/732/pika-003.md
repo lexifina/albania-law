@@ -1,0 +1,1 @@
+3. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 3 278 000 000 (tre miliardë e dyqind e shtatëdhjetë e tetë milionë) lekë dhe përballohen nga buxheti i sigurimeve shoqërore, i miratuar për vitin 2018.

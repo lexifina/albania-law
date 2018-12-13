@@ -1,0 +1,1 @@
+4. Shpërblimet të kalohen në llogaritë e pensionistëve në muajin dhjetor 2018 dhe të paguhen gjatë këtij muaji. Në rastet kur pagesat efektive nuk kryhen brenda muajit dhjetor 2018, ato të paguhen gjatë vitit të ardhshëm.
