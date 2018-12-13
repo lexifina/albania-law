@@ -1,0 +1,1 @@
+1. Familja e punonjësit civil të Agjencisë së Inteligjencës dhe Sigurisë së Mbrojtjes (AISM), që humbet jetën në detyrë ose për shkak të saj, si dhe familja e personit civil që ka krijuar marrëdhënie bashkëpunimi të fshehtë me këtë agjenci dhe humbet jetën për shkak të këtij bashkëpunimi, trajtohen me kompensim të veçantë sipas kritereve dhe masës së përcaktuar në këtë vendim.

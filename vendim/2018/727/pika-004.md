@@ -1,0 +1,1 @@
+4. Agjencia e Inteligjencës dhe Sigurisë së Mbrojtjes (AISM) është përgjegjëse për përgatitjen e dokumentacionit që vërteton ekzistencën e rasteve, në zbatim të pikës 2 dhe/ose 3, të këtij vendimi, pas vërtetimit të rastit të humbjes së jetës, për shkaqe jonatyrale, nga organet kompetente.
