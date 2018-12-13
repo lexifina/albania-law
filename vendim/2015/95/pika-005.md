@@ -1,0 +1,1 @@
+5. Këto dokumente, të administruara në komisariatin e policisë, brenda 3 (tri) ditëve pune dërgohen për t’u regjistruar në drejtorinë vendore të policisë dhe nga kjo drejtori përcillen, për miratim, në Komisionin Qendror, pranë Drejtorisë së Policisë.

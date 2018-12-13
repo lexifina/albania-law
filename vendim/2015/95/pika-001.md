@@ -1,0 +1,1 @@
+1. Policia e Shtetit ka përgjegjësinë për vlerësimin e kërcënimit të rrezikut për jetën për persona që, për shkak të aktivitetit shtetëror ose të rrethanave personale të veçanta, janë të ekspozuar ndaj rrezikut për jetën dhe u njihet e drejta e mbrojtjes së veçantë.

@@ -1,0 +1,1 @@
+12. Pas lëshimit të autorizimit për mbajtje arme, për rastet e rrezikut për shkak të aktivitetit shtetëror apo për shkak të rrethanave të veçanta, dokumentacioni, së bashku me vendimet e komisionit dhe kopjen e autorizimit, regjistrohet në një regjistër të veçantë dhe mbahet në kartotekë.

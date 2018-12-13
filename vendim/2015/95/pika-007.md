@@ -1,0 +1,1 @@
+7. Komisioni mblidhet brenda 5 (pesë) ditëve nga ardhja e kërkesës dhe shqyrton dokumentacionin e paraqitur nga drejtoria vendore/rajonale e policisë ku ka vendbanimin personi i kërcënuar për shkak të aktivitetit shtetëror ose rrethanave personale të veçanta.

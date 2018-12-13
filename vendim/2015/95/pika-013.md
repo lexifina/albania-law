@@ -1,0 +1,1 @@
+13. Për dokumentacionin, kur nuk miratohet lëshimi i autorizimit për mbajtje arme, afati i mbajtjes në kartotekë është 2 (dy) vjet dhe, më pas, asgjësohet, me procesverbal, sipas rregullave të përcaktuara për çdo dokumentacion tjetër.
