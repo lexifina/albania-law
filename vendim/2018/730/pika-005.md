@@ -1,0 +1,1 @@
+5. Personi juridik plotëson formularin e deklarimit dhe të pagesës së tatimit mbi fitimin në përputhje me rezultatin ushtrimor, duke paraqitur qartë tatimfitimin me shkallën tatimore standarde, sipas përcaktimit në pikën 1, të nenit 28, të ligjit nr. 8438, datë 28.12.1998, të ndryshuar, dhe tatimfitimin me shkallën tatimore 5%.

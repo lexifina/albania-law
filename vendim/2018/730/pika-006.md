@@ -1,0 +1,3 @@
+6. Personi juridik, i cili aplikon shkallën tatimore prej 5%, sipas pikës 2, të nenit 28, të ligjit nr. 8438, datë 28.12.1998, të ndryshuar, duhet të zhvillojë vetëm veprimtari të fushës së teknologjisë së informacionit. Nëse personi juridik zhvillon edhe veprimtari të tjera ekonomike jashtë fushës së teknologjisë së informacionit, si: veprimtari ndërtimi, turizëm etj., ai duhet të ndajë veprimtarinë në fushën e teknologjisë së informacionit me NIPT më vete, me qëllim që të aplikojë shkallën e tatimfitimit 5% vetëm për aktivitetet e përcaktuara në këtë vendim.
+III. Ngarkohet administrata tatimore për zbatimin e këtij vendimi
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
