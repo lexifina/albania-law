@@ -1,0 +1,1 @@
+3. Komiteti për Pakicat Kombëtare ka stemën, logon dhe vulën zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Kryeministria, Komiteti për Pakicat Kombëtare”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

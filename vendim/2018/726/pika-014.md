@@ -1,0 +1,1 @@
+14. Deri në fillimin e funksionimit të plotë të Komitetit për Pakicat Kombëtare, sipas këtij vendimi, strukturat aktuale të Komitetit Shtetëror për Minoritetet vazhdojnë funksionimin e tyre sipas strukturave dhe organikave të miratuara.

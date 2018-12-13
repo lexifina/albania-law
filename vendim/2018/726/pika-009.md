@@ -1,0 +1,1 @@
+9. Organizimi i brendshëm, struktura dhe organika e Komitetit për Pakicat Kombëtare miratohen me urdhër të Kryeministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin dhe funksionimin e administratës shtetërore.

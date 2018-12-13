@@ -1,0 +1,1 @@
+2. Komiteti për Pakicat Kombëtare ka për qëllim sigurimin e mbrojtjes dhe të promovimit të të drejtave dhe interesave të pakicave kombëtare, sipas parashikimeve të ligjit nr. 96/2017, “Për mbrojtjen e pakicave kombëtare në Republikën e Shqipërisë”, dhe legjislacionit përkatës në fuqi.

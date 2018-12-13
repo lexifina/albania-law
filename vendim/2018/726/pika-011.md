@@ -1,0 +1,1 @@
+11. Rregullorja për metodat e brendshme të punës dhe për sjelljen e personelit të Komitetit për Pakicat Kombëtare miratohet nga Kryeministri, pas propozimit të kryetarit të Komitetit për Pakicat Kombëtare.

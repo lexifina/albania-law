@@ -1,0 +1,1 @@
+13. Për nëpunësit civilë aktualë të Komitetit Shtetëror për Minoritetet zbatohen dispozitat e legjislacionit për nëpunësin civil në rastin e mbylljes dhe ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
