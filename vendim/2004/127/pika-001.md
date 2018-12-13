@@ -1,1 +1,0 @@
-1. Krijimin e Komitetit Shtetëror të Minoriteteve për të nxitur më tej pjesëmarrjen e personave, që u përkasin minoriteteve, në jetën publike, si dhe për të sugjeruar masa për ushtrimin dhe mbrojtjen e të drejtave e të lirive të këtyre minoriteteve.
