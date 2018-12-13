@@ -1,0 +1,1 @@
+1. Ky vendim ka si objekt institucionalizimin e Këshillit Kombëtar të Arsimit dhe Formimit Profesional, si një organ këshillimor trepalësh, i cili, nëpërmjet veprimtarisë, kontribuon në reformimin e sistemit të arsimit dhe formimit profesional (në vijim, AFP) dhe rritjen e bashkëpunimit me biznesin për fuqizimin e tij.
