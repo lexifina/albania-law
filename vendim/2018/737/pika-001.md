@@ -1,0 +1,1 @@
+1. Kompensimin financiar të pronarëve të pasurive të paluajtshme, pronë private, për sipërfaqet takuese, të zëna nga ndërtimet informale në drejtoritë e ALUIZNI-t: Tiranë Veri, Elbasan, Tiranë Jug, Tiranë Shtesat, Vlorë, Durrës, Tiranë Rurale, Sarandë, Shkodër, Lezhë, Fshatra Turistikë dhe Kamzë Vorë.

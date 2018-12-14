@@ -1,0 +1,7 @@
+3. Për kompensimin financiar të pronarëve të pasurive të paluajtshme, pronë private, që preken nga ndërtimet pa leje, sipas shtojcës 1, bashkëlidhur këtij vendimi, do të veprohet, si më poshtë vijon:
+a) Për numrat rendorë të pronave (kolona 13) të shtojcës nr. 1:
+Pronat nr. 24, 125 dhe 162, sipas seksionit të veçantë (kolona 18) të shtojcës nr. 1, që i bashkëlidhet këtij vendimi, shuma e kompensimit financiar vihet në dispozicion nga Agjencia e Trajtimit të Pronave, pas miratimit nga kreditori, sipas pikës 12, të vendimit nr. 465, datë 22.6.2016, të Këshillit të Ministrave, “Për përcaktimin e procedurave dhe rregullave për kalimin e së drejtës së pronësisë mbi parcelën ndërtimore të objekteve informale”;
+b) Për numrat rendorë të pronave (kolona 13) të shtojcës nr. 1:
+Pronat 1, 3, 5, 7, 8, 11, 26, 28, 29, 30, 31, 32, 36, 37, 39, 107, 111, 114, 119, 120, 121, 186, 187, 188, 190 dhe 191, sipas seksionit të veçantë (kolona 18) të shtojcës nr. 1, shuma e kompensimit financiar vihet në dispozicion nga Agjencia e Trajtimit të Pronave, pas zgjidhjes në rrugë gjyqësore të shkakut të kufizimit, sipas pikës 15, të vendimit nr. 465, datë 22.6.2016, të Këshillit të Ministrave;
+c) Për numrat rendorë të pronave (kolona 13) të shtojcës nr. 1:
+Pronat 12, 13, 14, 27, 42, 48 dhe 106, sipas seksionit të veçantë (kolona 18) të shtojcës nr. 1, shuma e kompensimit financiar vihet në dispozicion nga Agjencia e Trajtimit të Pronave, pas zgjidhjes në rrugë gjyqësore të mbivendosjes, sipas pikës 16, të vendimit nr. 465, datë 22.6.2016, të Këshillit të Ministrave.
