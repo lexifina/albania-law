@@ -1,0 +1,1 @@
+2. Ndalimin e prodhimit, importit, eksportit, magazinimit, shitjes dhe përdorimit të të gjitha substancave piroteknike dhe fishekzjarrë të cilat përmbajnë squfur, fosfor të përzier me klorat potasiumi, klorate të tjera, apo që përmbajnë njërën nga përzierjet e tilla.

@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Doganave, në Ministrinë e Financave dhe Ekonomisë, të ndalojë importin e artikujve piroteknikë dhe fishekzjarrë për përdorim civil në tregun e brendshëm të kategorisë 2 (F2) dhe të kategorive 3 (F3).

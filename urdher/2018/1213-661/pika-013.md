@@ -1,0 +1,1 @@
+13. Për zbatimin e këtij urdhri ngarkohen Drejtoria e Përgjithshme e Tatimeve, Drejtoria e Përgjithshme e Doganave, Autoriteti i Kontrollit Shtetëror të Eksporteve, Drejtoria e Përgjithshme e Policisë së Shtetit, Reparti i Inspektim Shpëtim Minierave, si dhe Shërbimi i Mbrojtjes nga Zjarri dhe Shpëtimi.

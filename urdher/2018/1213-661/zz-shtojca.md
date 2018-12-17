@@ -1,0 +1,5 @@
+# Shtojca
+MINISTRI I MBROJTJES
+Olta Xhaçka
+MINISTRI I FINANCAVE DHE EKONOMISË
+Arben Ahmetaj

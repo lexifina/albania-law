@@ -1,0 +1,1 @@
+3. Komisioni i Dhënies së Licencave, pranë Autoritetit të Kontrollit Shtetëror të Eksporteve, në Ministrinë e Mbrojtjes, të ndalojë prodhimin me qëllim shitjen për treg të brendshëm të artikujve piroteknikë dhe fishekzjarrë për përdorim civil, të kategorisë 2 (F2) dhe të kategorisë 3 (F3).

@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Tatimeve në Ministrinë e Financave dhe Ekonomisë, Autoriteti i Kontrollit Shtetëror të Eksporteve në Ministrinë e Mbrojtjes, Drejtoria e Përgjithshme e Policisë së Shtetit në Ministrinë e Brendshme, si dhe Shërbimi i Mbrojtjes nga Zjarri dhe Shpëtimi, ndërveprojnë ndërmjet tyre me plane të përbashkëta bashkëpunimi.
