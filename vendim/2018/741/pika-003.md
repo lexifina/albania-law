@@ -1,0 +1,1 @@
+3. Ministrisë së Drejtësisë i ndalohet të kryejë ndryshime infrastrukturore ose ndërtime të reja, në objektin e dhënë në përdorim të përkohshëm, pa shpërblim, pa miratimin paraprak të Ministrisë së Mbrojtjes.

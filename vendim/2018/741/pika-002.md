@@ -1,0 +1,1 @@
+2. Ministrisë së Drejtësisë i ndalohet ta ndryshojë destinacionin e sipërfaqeve të objektit të dhënë në përdorim të përkohshëm, të përcaktuar në pikën 1, të këtij vendimi, ta tjetërsojë atë apo t’ua japë në përdorim të tretëve.
