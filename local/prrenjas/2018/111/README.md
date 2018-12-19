@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Prrenjas nr. 111, datë 19.12.2018
+# Vendimi i Këshillit Bashkiak Prrenjas nr. 111, datë 19.12.2018
 
 Title on the official site: VENDIM-I-KESHILLIT-BASHKIAK-PRRENJAS-NR.111-DATE-19.12.2018
 
