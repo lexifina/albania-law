@@ -1,0 +1,5 @@
+# Neni 15
+Objektet në nderim të dëshmorëve të atdheut
+1. Në shenjë nderimi për dëshmorët e atdheut, me vendim të këshillit të qarkut/këshillit bashkiak/prefektit ose me urdhër të ministrit, brenda territoreve nën juridiksionin e tyre ngrihen, mirëmbahen dhe ruhen, sipas përgjegjësisë përkatëse lapidare, pllaka përkujtimore, përmendore si dhe emërtohen mjedise e institucione publike.
+2. Zhvendosja e përmendoreve, lapidarëve, pllakave përkujtimore, si dhe e objekteve të tjera, që kanë lidhje me dëshmorët e atdheut, bëhet vetëm në raste të veçanta, kur këtë e kërkojnë interesi publik dhe me vendim/urdhër të autoritetit që i ka ngritur ato.
+3. Zhvendosja e përmendoreve, lapidarëve, pllakave përkujtimore, si dhe e objekteve të tjera, që kanë lidhje me dëshmorët e atdheut, të ngritura nga organe shtetërore, të cilat nuk ekzistojnë më, bëhet me vendim të këshillit bashkiak, në juridiksionin territorial të të cilit ndodhen këto objekte, ose me urdhër të ministrit, në rastet kur këto objekte ndodhen në pronat e paluajtshme në përgjegjësi administrimi të ministrisë përkatëse.

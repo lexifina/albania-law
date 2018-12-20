@@ -1,0 +1,4 @@
+# Neni 23
+Ankimi
+1. Kundër vendimit të këshillit bashkiak, këshillit të qarkut apo prefektit, që refuzon të pranojë kërkesën ose kur këto organe nuk marrin në shqyrtim kërkesën brenda afateve të parashikuara nga ky ligj, subjektet e interesuara mund të paraqesin ankim pranë Komisionit Qendror të Statusit “Dëshmor i atdheut”, brenda 30 ditëve nga marrja dijeni për refuzimin apo nga data e mbarimit të afatit ligjor për marrjen në shqyrtim të kërkesës.
+2. Kundër vendimit të Komisionit Qendror të Statusit “Dëshmor i atdheut”, si dhe në rastet kur ky komision nuk shprehet brenda afateve të përcaktuara në pikën 6, të nenit 10, të këtij ligji, subjektet e interesuara mund të paraqesin ankim pranë gjykatës kompetente, në përputhje me rregullat e parashikuara nga legjislacioni në fuqi për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative.
