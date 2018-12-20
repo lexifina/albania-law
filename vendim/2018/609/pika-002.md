@@ -1,0 +1,1 @@
+2. Trajnimi i stafit të shoqërisë së përbashkët për realizimin e mirëmbajtjes së rrjetit të transmetimit sipas standardeve të shoqërisë TAP AG kryhet nga shoqëria “Snam” S.p.a., në përputhje me ofertën dhe marrëveshjen e lidhur me shoqërinë “Albgaz” sh.a.
