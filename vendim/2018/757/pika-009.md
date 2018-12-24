@@ -1,0 +1,1 @@
+9. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme Shijak të pezullojë të gjitha transaksionet me pasurinë e shpronësuar deri në momentin që të realizohet procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit, si dhe të bëhet kalimi i pronësisë për pasurinë e shpronësuar në favor të shtetit.
