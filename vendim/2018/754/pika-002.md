@@ -1,0 +1,1 @@
+2. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, llogariten në shumën 396 147 000 (treqind e nëntëdhjetë e gjashtë milionë e njëqind e dyzet e shtatë mijë) lekë dhe përballohen nga buxheti i ministrisë përgjegjëse për çështjet sociale, miratuar për vitin 2018.
