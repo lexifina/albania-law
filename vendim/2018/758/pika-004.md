@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 46 656 922.66 (dyzet e gjashtë milionë e gjashtëqind e pesëdhjetë e gjashtë mijë e nëntëqind e njëzet e dy pikë gjashtëdhjetë e gjashtë) lekësh, të përballohet nga buxheti i Bashkisë Krujë.
