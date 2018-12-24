@@ -1,0 +1,1 @@
+3. Pezullimi i marrëdhënies në shërbimin civil për shkaqet e parashikuara në nenin 54, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, bëhet me konstatimin e shkakut të ligjshëm të pezullimit nga njësia e burimeve njerëzore. Për TND-në, konstatimi i pezullimit bëhet nga DAP-i me marrjen dijeni për shkakun e pezullimit.

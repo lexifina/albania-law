@@ -1,0 +1,1 @@
+24. Në rastet e lirimit për shkak të mbylljes dhe ristrukturimit të institucionit, njësia e burimeve njerëzore të institucionit deklaron vendimin për lirimin nga shërbimi civil të nëpunësit civil, bazuar në njoftimin e Komisionit të Ristrukturimit ngritur për ristrukturimin apo mbylljen e institucionit.

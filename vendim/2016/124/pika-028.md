@@ -1,0 +1,1 @@
+28. Nëpunësi duhet të bëjë tek eprori direkt dorëzimin e plotë të dokumentacionit që ka për shkak të detyrës, si dhe te njësia përgjegjëse për mbajtjen e inventarit fizik, dorëzimin e pajisjeve e të mjeteve të punës në inventar.

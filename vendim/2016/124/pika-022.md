@@ -1,0 +1,1 @@
+22. Lirimi nga shërbimi civil bëhet automatikisht menjëherë pas dy vlerësimeve negative radhazi nga njësia e burimeve njerëzore dhe i njoftohet menjëherë nëpunësit. Vlerësim negativ konsiderohet vlerësimi “jokënaqshëm”.

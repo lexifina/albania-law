@@ -1,0 +1,1 @@
+5. Njësia e burimeve njerëzore nis procedurën e verifikimit me marrjen dijeni të shkakut të pezullimit. Njësia e burimeve njerëzore njofton nëpunësin civil brenda 2 (dy) ditëve nga data e konstatimit të shkakut të ligjshëm të pezullimit.

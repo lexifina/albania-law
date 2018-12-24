@@ -1,0 +1,2 @@
+23. Nëpunësi civil lirohet nga shërbimi civil kur bëhet i paaftë për 2 (dy) vite radhazi, të pandërprera për të kryer detyrat për shkak të gjendjes shëndetësore. Paaftësia shëndetësore dokumentohet nga njësia e burimeve njerëzore, në bazë të vërtetimit të lëshuar nga KMCAP-ja.
+Nëpunësi civil paraqet pranë njësisë së burimeve njerëzore të institucionit dokumentin e shëndetit në punë, sipas legjislacionit në fuqi për sigurinë dhe shëndetin në punë, brenda datës 10 janar të çdo viti.

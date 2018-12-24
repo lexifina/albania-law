@@ -1,0 +1,3 @@
+15. Në përfundimin e periudhës së pezullimit, nëpunësi civil që ka qenë i pezulluar për një afat deri në 3 muaj, rikthehet në pozicionin e tij të punës. Njësia e burimeve njerëzore të institucionit njofton njësinë përgjegjëse për kthimin e nëpunësit civil brenda 3 (tri) ditëve kalendarike.
+15/1. Nëpunësi civil njofton institucionin për rikthimin në punë, jo më vonë se 7 (shtatë) ditë kalendarike përpara datës së përfundimit të afatit të pezullimit.
+E njëjta procedurë ndiqet edhe në rastet kur nëpunësi civil do të ndërpresë periudhën e pezullimit më shpejt se afati për të cilin i është miratuar pezullimi.

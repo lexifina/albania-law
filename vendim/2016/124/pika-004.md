@@ -1,0 +1,1 @@
+4. Eprori direkt dhe çdo nëpunës civil, kur kanë dijeni për shkaqet e ligjshme të pezullimit, të parashikuara në nenin 54, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, kanë detyrimin të njoftojnë njësinë e burimeve njerëzore të institucionit ku është i punësuar nëpunësi.

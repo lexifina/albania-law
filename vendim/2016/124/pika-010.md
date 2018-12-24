@@ -1,0 +1,5 @@
+10. Nëpunësi civil me kërkesën e tij mund të kërkojë pezullimin e marrëdhënies në shërbimin civil në këto raste:
+a) Kur zhvillon veprimtari në kuadër të organizatave apo institucioneve ndërkombëtare në raste të tjera nga ato të parashikuara në pikën 6, të nenit 48, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, vërtetuar me dokumentin përkatës të angazhimit në këto veprimtari;
+b) Për periudha studimi më shumë se 1 muaj deri në 2 vjet, vërtetuar me dokumentin përkatës të ndjekjes së studimeve;
+c) Për shkak të një interesi tjetër të ligjshëm, për një periudhë deri në 2 vjet, sipas përcaktimit në pikën 12, të këtij vendimi.
+Pezullimi me kërkesën e nëpunësit civil sipas kësaj pike nuk bëhet për nëpunësit civilë në periudhë prove dhe nëpunësit civilë të emëruar në pozicione të nivelit të ulët apo të mesëm drejtues, të rekrutuar nga jashtë sistemit të shërbimit civil, sipas përcaktimeve të pikës 4, të nenit 26, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, të cilët nuk kanë plotësuar të paktën një vit pune në pozicionin në të cilin janë emëruar.
