@@ -1,0 +1,1 @@
+1. Miratimin e rregullores së organizimit, funksionimit dhe përcaktimit të masës së shpërblimit të anëtarëve të bordit të apelit të Drejtorisë së Përgjithshme të Pronësisë Industriale, sipas tekstit që i bashkëlidhet këtij vendimi.
