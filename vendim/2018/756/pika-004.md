@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë e llojit “tokë arë”, 1 349 760 (një milion e treqind e dyzet e nëntë mijë e shtatëqind e gjashtëdhjetë) lekë, të përballohet nga llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë.
