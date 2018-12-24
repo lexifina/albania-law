@@ -1,1 +1,3 @@
-9. Shpallja është e hapur për të gjithë nëpunësit civilë të së njëjtës kategori, në të gjitha institucionet, pjesë të shërbimit civil. Afati i dorëzimit të dokumenteve është 10 (dhjetë) ditë kalendarike nga momenti i shpalljes në portal.
+9. Shpallja është e hapur për të gjithë nëpunësit civilë të së njëjtës kategori, në të gjitha institucionet, pjesë të shërbimit civil. Dokumentacioni duhet të dorëzohet brenda datës së përcaktuar në shpalljen për konkurrim. Kjo datë përcaktohet duke siguruar që afati i dorëzimit të dokumentacionit të mos jetë më i vogël se 10 (dhjetë) ditë kalendarike nga dita e parë e shpalljes:
+a) në faqen zyrtare të DAP-it dhe në portalin “Shërbimi Kombëtar i Punësimit”, për institucionet e administratës shtetërore;
+b) në portalin “Shërbimi Kombëtar i Punësimit”, në faqen zyrtare të internetit dhe në stendat e informimit të publikut, për institucionet e pavarura dhe njësitë e vetëqeverisjes vendore.
