@@ -1,0 +1,9 @@
+# Neni 6
+Dorëzimi i dokumentacionit pranë QKB-së
+Procedurat për dorëzimin e dokumentacionit nga subjektet, pranimin, shqyrtimin dhe licencim nga QKB-ja parashikohen në ligjin nr. 10081, datë 23.2.2009, “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”, i ndryshuar, ligjit nr. 10137, datë 11.5.2009, “Për disa ndryshime në legjislacionin në fuqi për licencat, autorizimet dhe lejet”, ligjit nr. 131/2015, datë 26.11.2015, “Për Qendrën Kombëtare të Biznesit”, vendimit nr. 538, datë 26.5.2009, të Këshillit të Ministrave, “Për licencat dhe lejet që trajtohen nga apo nëpërmjet QKL-së dhe disa rregullime të tjera nënligjore të përbashkëta”, i ndryshuar.
+Dokumentet për marrjen e licencave paraqiten 30 ditë para afatit të përfundimit të vlefshmërisë së tyre.
+Dokumentacioni paraqitet në origjinal ose kopje e njehsuar dhe pas verifikimit (skanimit) të gjitha dokumentet i dorëzohen (kthehen) personit fizik/juridik ose personit të autorizuar që paraqet kërkesën.
+Ministria, pas shqyrtimit, vendos për miratimin ose refuzimin e kërkesës së paraqitur nga subjekti brenda një afati 20 (njëzet) ditë pune.
+Për nevoja teknike, para mbarimit të këtij afati, ministria shpall në regjistrin aplikativ shtyrje afati. Shtyrja e pashpallur në regjistrin aplikativ është e pavlefshme. Shtyrja e afatit bëhet vetëm për shkaqe objektive të pamundësisë për shqyrtimin e kërkesës. Vendimi i shtyrjes sqaron domosdoshmërish edhe shkaqet që e kanë diktuar atë. Shtyrja mund, përdoret vetëm njëherë dhe shtyrja shtesë nuk mund të jetë më e gjatë se vetë afati përkatës i marrjes së vendimit.
+Mospublikimi i përgjigjes brenda afateve të përcaktuara më sipër, apo kur refuzimi nuk përmban shkakun e refuzimit, vlerësohet si miratim në heshtje i ministrisë.
+Menjëherë pas marrjes së licencës, subjekti duhet ta dorëzojë atë në zyrat e Kapitenerisë së portit ku do të operojë.

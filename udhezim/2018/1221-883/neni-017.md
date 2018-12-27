@@ -1,0 +1,6 @@
+# Neni 17
+Dispozita tranzitore dhe të fundit
+1. Udhëzimi i ministrit të Transportit dhe Infrastrukturës nr. 4, datë 21.5.2015, “Mbi përcaktimin e kushteve, procedurave dhe afateve të vlefshmërisë së licencave për ushtrimin e veprimtarisë së transportit ndërkombëtar detar për automjete dhe/ose udhëtarë dhe shkaqet e procedurat e pezullimit apo revokimit të tyre”, i ndryshuar shfuqizohet.
+2. Licencat e dhëna sipas kritereve të përcaktuara në udhëzimin e ministrit të Transportit dhe Infrastrukturës nr. 4, datë 21.5.2015, “Mbi përcaktimin e kushteve, procedurave dhe afateve të vlefshmërisë së licencave për ushtrimin e veprimtarisë së transportit ndërkombëtar detar për automjete dhe/ose udhëtarë dhe shkaqet e procedurat e pezullimit apo revokimit të tyre”, i ndryshuar, do të vazhdojnë të jenë në fuqi brenda afatit të tyre të vlefshmërisë.
+3. Aplikimet e para në QKB para hyrjes në fuqi të këtij udhëzimi, trajtohet sipas kushteve, procedurave dhe afateve të përcaktuara në udhëzimin nr. 4, datë 21.5.2015, “Mbi përcaktimin e kushteve, procedurave dhe afateve të vlefshmërisë së licencave për ushtrimin e veprimtarisë së transportit ndërkombëtar detar për automjete dhe/ose udhëtarë dhe shkaqet e procedurat e pezullimit apo revokimit të tyre”, i ndryshuar.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
