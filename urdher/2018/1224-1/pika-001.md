@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave për miratimin e shpenzimeve për të gjithë artikujt dhe urdhërimin e të gjitha pagesave, urdhrave të prokurimit, pa limit vlere, z. Vildan Kaloshi, me detyrë drejtor i Drejtorisë Juridike, Dokumentacionit dhe Organizimit, në Këshillin e Lartë Gjyqësor.
