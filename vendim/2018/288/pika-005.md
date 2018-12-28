@@ -1,0 +1,1 @@
+5. Studentët, që transferojnë studimet nga një program studimi të ciklit të parë në një program tjetër studimi të ciklit të parë në institucionet publike të arsimit të lartë, i nënshtrohen tarifës vjetore të shkollimit të programit të studimit përkatës, në të cilin transferohen dhe ndjekin studimet.
