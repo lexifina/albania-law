@@ -1,0 +1,1 @@
+5. Për kryerjen e kontrollit digjital antiplagjiaturë, ministria siguron software për kontroll automatik si dhe programe apo pajisje të tjera që i shërbejnë kontrollit për plagjiaturë të disertacioneve të paraqitura për fitimin e gradës shkencore.

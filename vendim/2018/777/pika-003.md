@@ -1,0 +1,1 @@
+3. Institucionet e arsimit të lartë si dhe çdo institucion tjetër shtetëror që disponon kopje origjinale të disertacioneve kanë detyrimin që, brenda 60 (gjashtëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, të depozitojnë pranë ministrisë përgjegjëse për arsimin kopje të njësuar me origjinalin të disertacionit, si dhe materialin në formë elektronike.

@@ -1,0 +1,1 @@
+1. Krijimin e arkivit digjital të disertacioneve të përdorura për fitimin e gradave shkencore në institucionet e arsimit të lartë publik dhe jopublik, në Republikën e Shqipërisë, pranë ministrisë përgjegjëse për arsimin apo institucioneve të ngarkuara prej saj.

@@ -1,0 +1,1 @@
+7. Institucioni i arsimit të lartë, brenda 90 (nëntëdhjetë) ditëve nga vënia në dispozicion e gjetjeve të kontrollit antiplagjiaturë, i njofton ministrisë përgjegjëse për arsimin vendimin e rivlerësimit përfundimtar për çdo gradë shkencore të shqyrtuar.
