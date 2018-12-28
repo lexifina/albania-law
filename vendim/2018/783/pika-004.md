@@ -1,0 +1,1 @@
+4. Në procesin dhe grupet e vlerësimit, të ngritur nga Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë, marrin pjesë dhe përfaqësuesit e studentëve të propozuar nga institucionet e arsimit të lartë.

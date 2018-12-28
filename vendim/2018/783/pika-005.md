@@ -1,0 +1,1 @@
+5. Raporti përfundimtar, i përgatitur nga Agjencia e Sigurimit të Cilësisë së Arsimit të Lartë, i paraqitet Ministrisë së Arsimit, Sportit dhe Rinisë dhe institucionit të arsimit të lartë që i është nënshtruar procesit të vlerësimit të performancës në mësimdhënie.

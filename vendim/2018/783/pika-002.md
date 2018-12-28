@@ -1,0 +1,1 @@
+2. Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë të ndjekë të gjithë procedurën e njoftimit të IAL-ve, ngritjes së grupeve të punës që do të realizojnë procesin e vlerësimit të performancës në mësimdhënie të personelit akademik, deri në hartimin e raporteve përfundimtare.

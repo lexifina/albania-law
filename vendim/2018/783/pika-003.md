@@ -1,0 +1,1 @@
+3. Procesi i vlerësimit të mësimdhënies monitorohet në mënyrë të vazhdueshme edhe përmes sondazhit kombëtar të studentëve, në të gjitha institucionet e arsimit të lartë. Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë harton metodologjinë dhe instrumentet e sondazhit kombëtar të studentëve për cilësinë e mësimdhënies.

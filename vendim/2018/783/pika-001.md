@@ -1,0 +1,1 @@
+1. Agjencia e Sigurimit të Cilësisë në Arsimin e Lartë vlerëson procesin dhe performancën në mësimdhënie të personelit akademik në institucionet e arsimit të lartë, me qëllim sigurimin, promovimin dhe përmirësimin e cilësisë së procesit të mësimdhënies në këto institucione.
