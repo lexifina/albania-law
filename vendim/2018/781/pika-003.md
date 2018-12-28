@@ -1,0 +1,1 @@
+3. Për trajtimin e ankesave në platformën e transparencës on-line, kontrollin e transparencës dhe pajtueshmërinë e veprimtarisë së institucioneve të arsimit të lartë me aktet ligjore e nënligjore në fuqi, në Ministrinë e Arsimit, Sportit dhe Rinisë krijohet struktura përgjegjëse për kontrollin e transparencës së arsimit të lartë.
