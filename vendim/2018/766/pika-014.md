@@ -1,0 +1,1 @@
+14. Nëse në përfundim të procedurës së përcaktuar në pikën 12, të këtij vendimi, ka ende pozicione të lira të kategorisë ekzekutive të paplotësuara, DAP-i vijon procedurat e plotësimit të këtyre pozicioneve për vitin 2019, sipas legjislacionit të shërbimit civil.

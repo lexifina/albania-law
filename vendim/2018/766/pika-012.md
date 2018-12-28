@@ -1,0 +1,1 @@
+12. Institucionet e administratës shtetërore pjesë të shërbimit civil lidhin kontratat e përkohshme të punës me studentët, sipas listës së dërguar nga DAP-i, e cila respekton përputhshmërinë e nivelit dhe të fushës së studimit me kriterin e nivelit dhe llojit të diplomës për pozicionin respektiv të punës.
