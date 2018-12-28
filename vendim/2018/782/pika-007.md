@@ -1,0 +1,1 @@
+7. Njoftimi për fillimin e procedurave të përzgjedhjes së anëtarëve të bordit, mënyra e vlerësimit të kandidatëve bazuar në kriteret e parashikuara në këtë vendim dhe afati i dorëzimit të dokumentacionit përcaktohen me urdhër të ministrit përgjegjës për arsimin.

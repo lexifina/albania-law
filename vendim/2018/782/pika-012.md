@@ -1,0 +1,1 @@
+12. Përzgjedhja e kandidatëve për anëtarë të bordit kryhet nga një komision ad-hoc i ngritur me urdhër të ministrit përgjegjës për arsimin, i cili shqyrton dokumentacionin e paraqitur dhe harton listën e kandidatëve që plotësojnë kriteret ligjore.

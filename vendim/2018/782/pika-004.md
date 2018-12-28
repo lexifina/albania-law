@@ -1,0 +1,1 @@
+4. Anëtarët përfaqësues të ministrisë përgjegjëse për arsimin do të jenë ekspertë të njohur nga fushat akademike, menaxheriale, publicistike, ekonomike e juridike dhe emërohen nga ministri përgjegjës për arsimin.

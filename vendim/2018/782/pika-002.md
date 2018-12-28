@@ -1,0 +1,1 @@
+2. Bordi i Administrimit, si organi më i lartë kolegjial administrativ, i cili garanton përmbushjen e misionit të institucionit të arsimit të lartë, mbarëvajtjen financiare dhe administrative të tij, përbëhet nga 7 (shtatë) anëtarë, të punësuar me kohë të pjesshme.

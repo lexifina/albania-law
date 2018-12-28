@@ -1,0 +1,1 @@
+13. Komisioni ad-hoc, brenda 10 (dhjetë) ditëve pune nga data e mbylljes së afatit të dorëzimit të dokumentacionit, shqyrton dokumentacionin dhe harton listën e kandidatëve që plotësojnë kriteret e përcaktuara në këtë vendim, të shoqëruar me një relacion përmbledhës, i cili i paraqitet për miratim ministrit përgjegjës për arsimin.

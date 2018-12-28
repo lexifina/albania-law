@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve e të procedurave transparente të përzgjedhjes dhe emërimit të anëtarëve të Bordit të Administrimit, përfaqësues të ministrisë përgjegjëse për arsimin, në institucionet publike të arsimit të lartë, me qëllim garantimin e profesionalizmit, të pavarësisë dhe të integritetit etik të anëtarit të bordit.
