@@ -1,0 +1,1 @@
+2. Studentët sipas kategorive të individëve që plotësojnë kriteret e pikës 1, të këtij vendimi, paguajnë tarifën vjetore të studimeve në masën 50%, pas paraqitjes së dokumentacionit vërtetues për statusin e tyre ligjor, me vendim të Bordit të Administrimit të institucionit publik të arsimit të lartë.

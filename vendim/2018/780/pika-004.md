@@ -1,0 +1,1 @@
+4. Vendimi i Bordit të Administrimit të institucionit publik të arsimit të lartë i njoftohet Agjencisë Kombëtare së Financimit të Arsimit të Lartë (AKFAL) dhe Ministrisë së Arsimit, Sportit dhe Rinisë, brenda 10 (dhjetë) ditëve nga data e marrjes së vendimit.

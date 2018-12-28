@@ -1,0 +1,1 @@
+3. Bordi i Administrimit të institucionit shqyrton dhe miraton për çdo vit akademik, jo më vonë se muaji dhjetor, listën e studentëve të kategorive të individëve që plotësojnë kriteret e pikës 1, të këtij vendimi.
