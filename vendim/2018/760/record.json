@@ -1,0 +1,28 @@
+{
+  "qbz_id": 66519,
+  "title": "PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT, NGA MINISTRIA E MBROJTJES TE MINISTRIA E FINANCAVE DHE EKONOMISË, TË PRONËS NR. 98, ME EMËRTIMIN “GRUP DEPO (ISH-REPARTI USHTARAK NR. 5011)”, ME VENDNDODHJE NË BRAR, TIRANË, DHE TË DISA SIPËRFAQEVE, TRUALL FUNKSIONAL DHE OBJEKTE, TË PRONËS NR. 109, ME EMËRTIM “SHA RIPARIM ARTILERIE”, ME VENDNDODHJE NË BRAR, TIRANË",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "760",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2018-12-19",
+  "published": "2018-12-28",
+  "in_force": "2018-12-28",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/022c36d0574be2a451a811babb96c099f6233773d31e855afb78de29b8966987.docx",
+  "source_sha256": "022c36d0574be2a451a811babb96c099f6233773d31e855afb78de29b8966987",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66519",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/12/19/760",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    18388
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
