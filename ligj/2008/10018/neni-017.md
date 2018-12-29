@@ -1,0 +1,4 @@
+# Neni 17
+Ndërmjetësimi dhe pajtimi
+1. Avokatura e Shtetit ndërmjetëson për zgjidhjen me pajtim të mosmarrëveshjeve ndërmjet personave juridikë, të përcaktuar në këtë ligj. Zgjidhja, për të cilën është rënë dakord nga palët, pasqyrohet në një projektmarrëveshje dhe përpara nënshkrimit i dërgohet për mendim nga Avokatura e Shtetit ministrisë, në fushën e përgjegjësisë së të cilës përfshihen çështjet e trajtuara nga marrëveshja, dhe ministrisë përgjegjëse për financat, në rastin kur marrëveshja shoqërohet me efekte financiare në buxhetin e shtetit. Ministritë përgjegjëse duhet të shprehen brenda 30 ditëve nga paraqitja e projektmarrëveshjes.
+2. Avokatura e Shtetit rekomandon zgjidhje me pajtim për mosmarrëveshjet ndërmjet një organi qendror ose vendor të administratës publike dhe një organi tjetër qendror ose vendor, kur ata e kërkojnë këtë zgjidhje. Nuk mund të jepen rekomandime për çështje të mosmarrëveshjeve për kompetencat.

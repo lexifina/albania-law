@@ -1,0 +1,5 @@
+# Neni 13
+Fillimi i gjykimit për pavlefshmëri të veprimeve juridike ose të kontratave administrative
+1. Avokatura e Shtetit, sipas kërkesës së motivuar të organit përgjegjës të institucionit të interesuar, ka të drejtë të fillojë procedurat për ngritjen e padisë, me objekt për pavlefshmëri të veprimit juridik, që tjetërson ose disponon pasurinë shtetërore, në favor të të tretëve, ose për pavlefshmëri të kontratave administrative, të lidhura me të tretë.
+2. Avokatura e Shtetit, përpara se të depozitojë padinë në gjykatë, i paraqet organit të interesuar një raport të hollësishëm për gjendjen e fakteve dhe të ligjit, kostot e pritshme të gjykimit, si dhe për çdo shpenzim të zakonshëm/të jashtëzakonshëm apo çdo dëmshpërblim pasuror/jopasuror, që pala tjetër mund të pretendojë ose të fitojë gjatë apo pas përfundimit të gjykimit për shpalljen e pavlefshme të kontratës ose të veprimit juridik. Në këtë raport, Avokatura e Shtetit është e detyruar të shprehë qëndrimin për ngritjen ose jo të padisë.
+3. Organi i interesuar, pasi njihet me raportin e Avokaturës së Shtetit, të hartuar sipas pikës 2 të këtij neni, jep pëlqimin për ngritjen ose jo të padisë.
