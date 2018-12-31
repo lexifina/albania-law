@@ -1,0 +1,1 @@
+8. Brenda 48 orëve nga hyrja në fuqi e këtij urdhri struktura përgjegjëse që trajton rastin e dhunës paraqet kërkesën për vlerësimin e masave paraprake të mbrojtjes së menjëhershme pranë gjykatës kompetente.

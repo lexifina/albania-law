@@ -1,0 +1,1 @@
+6. Në rastin kur i dhunuari është i mitur, UMPMM-ja që lëshohet ndaj dhunuesit/es së mitur ose që vendos në mbrojtje të miturin, nxirret pasi është vënë në dijeni Njësia për Mbrojtjen e Fëmijëve në Bashki.

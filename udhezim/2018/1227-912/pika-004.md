@@ -1,0 +1,1 @@
+4. Pas përfundimit të vlerësimit paraprak të riskut, raporti i hartuar dhe të gjitha materialet e dosjes i kalojnë titullarit ose punonjësit të autorizuar prej tij, i cili nëse është rasti, nxjerr menjëherë UMPMM-në, sipas modelit të përcaktuar në aneksin e këtij udhëzimi, pjesë përbërëse e tij.

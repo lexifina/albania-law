@@ -1,0 +1,1 @@
+7. UMPMM-ja mund të vendosë viktimën në një qendër rezidenciale ose emergjente për viktimat e dhunës në familje, vetëm në rastin e rrezikut për jetën, duke marrë parasysh vullnetin e saj, interesin më të lartë të fëmijës, si dhe duke respektuar legjislacionin në fuqi për standardet e këtyre qendrave.

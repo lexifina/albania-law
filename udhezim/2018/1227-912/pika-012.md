@@ -1,0 +1,1 @@
+12. Struktura përgjegjëse e Policisë së Shtetit ka detyrë të informojë personin ndaj të cilit është dhënë urdhri, në lidhje me masat që parashikon UMPMM-ja dhe detyrimin e tij për ta zbatuar atë vullnetarisht. Në rastin e mosekzekutimit vullnetar nga dhunuesi, struktura përgjegjëse e evidenton këtë fakt në kërkesën, që i drejton gjykatës KOMPETENTE për vlerësimin e UMPMM-së.

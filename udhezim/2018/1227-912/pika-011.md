@@ -1,0 +1,1 @@
+11. Nëse vendi i raportimit të dhunës është i ndryshëm nga vendi i banimit të anëtarëve të familjes ku ka ndodhur dhuna, zbatimi i UMPMM-së kryhet nga struktura përgjegjëse, që ka nxjerrë urdhrin në bashkëpunim me strukturën përgjegjëse në vendin e banimit, si dhe koordinatorin vendor përkatës.

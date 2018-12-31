@@ -1,0 +1,1 @@
+1. Ky udhëzim ka qëllim të përcaktojë procedurat, që ndiqen nga struktura përgjegjëse e Policisë së Shtetit për nxjerrjen e “Urdhrit për masat paraprake të mbrojtjes së menjëhershme”, si dhe modelin e tij.
