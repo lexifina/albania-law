@@ -1,0 +1,28 @@
+{
+  "qbz_id": 66251,
+  "title": "MBI LICENCIMIN E SHOQËRISË “ReNRGY TRADING GROUP” SHPK NË VEPRIMTARINË E FURNIZIMIT TË ENERGJISË ELEKTRIKE",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "245",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-11-26",
+  "published": "2018-12-31",
+  "in_force": "2018-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6bf08dc94b4de74409551b3d51877ca2eb8fe540ac165094aa901a915a50240d.docx",
+  "source_sha256": "6bf08dc94b4de74409551b3d51877ca2eb8fe540ac165094aa901a915a50240d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66251",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/11/26/245",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    61759
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
