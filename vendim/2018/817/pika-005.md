@@ -1,0 +1,1 @@
+5. Ministria e Arsimit, Sportit dhe Rinisë monitoron mbarëvajtjen e punimeve në këtë objekt, nëpërmjet një grupi ekspertësh, me përfaqësues edhe nga Ministria e Infrastrukturës dhe Energjisë, Bashkia Kukës, Federata Shqiptare e Futbollit dhe kompania projektuese.

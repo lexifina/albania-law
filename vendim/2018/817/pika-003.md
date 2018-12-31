@@ -1,0 +1,1 @@
+3. Fondi transferohet nga Ministria e Arsimit, Sportit dhe Rinisë te bashkëfinancuesi, Federata Shqiptare e Futbollit, si transfertë, pas miratimit edhe nga Komiteti i Ndihmës Shtetërore, pranë Ministrisë së Financave dhe Ekonomisë, në llogari të Federatës Shqiptare të Futbollit, në bankë të nivelit të dytë.

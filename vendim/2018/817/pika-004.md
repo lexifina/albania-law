@@ -1,0 +1,1 @@
+4. Fondi prej 200 000 000 (dyqind milionë) lekësh për financimin e projektit “Rikonstruksioni i stadiumit të futbollit “Zeqir Ymeri”, Kukës”, përballohet nga fondet shtesë të miratuara me aktin normativ nr. 2, datë 19.12.2018, “Për disa ndryshime në ligjin nr. 109/2017, “Për buxhetin e vitit 2018”, për Ministrinë e Arsimit, Sportit dhe Rinisë.

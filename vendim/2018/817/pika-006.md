@@ -1,0 +1,1 @@
+6. Përbërja dhe detyrat e grupit të ekspertëve, si dhe procedura për transferimin e fondeve e transferimin kapital nga Federata Shqiptare e Futbollit te pronari i objektit, Bashkia Kukës, pas përfundimit të investimit, përcaktohen me urdhër të ministrit të Arsimit, Sportit dhe Rinisë.

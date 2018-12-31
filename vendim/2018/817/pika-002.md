@@ -1,0 +1,1 @@
+2. Fondi i miratuar, në masën 200 000 000 (dyqind milionë) lekë nga fondet e buxhetit të shtetit, transferohet në formë granti nga llogaria ekonomike 604, programi buxhetor 08140 “Zhvillimi i sportit”.
