@@ -1,0 +1,1 @@
+1. Kalimin e fondeve nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2018, te Bashkia Tiranë, me vlerë të përgjithshme prej 40 000 000 (dyzet milionë) lekësh, për ndjekjen e procedurave për shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikualifikimi i sheshit ’Italia’”, Tiranë.

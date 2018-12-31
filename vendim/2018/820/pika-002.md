@@ -1,0 +1,1 @@
+2. Procedura e shpronësimit, për realizimin e projektit, do të ndiqet në përputhje me ligjin nr.8561, datë 22.12.1999, “Për shpronësimet dhe marrjen në përdorim të përkohshëm të pasurisë, pronë private, për interes publik”, të ndryshuar.
