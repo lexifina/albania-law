@@ -1,0 +1,1 @@
+12. Vlerësimi i riskut kryhet me shpejtësi, bazuar në informacionin që disponohet si rezultat i identifikimit ose raportimit të rastit të dhunës, si dhe të informacioneve të tjera që mund të mblidhen menjëherë nga pyetja e të dhunuarës, e dhunuesit ose e anëtarëve të tjerë të familjes, si dhe nga institucionet, organizatat ose individët, që kanë dijeni për rastin.

@@ -1,0 +1,1 @@
+10. Raporti i vlerësimit të riskut shpreh nivelin e rrezikut për rastin konkret dhe sugjeron në proporcion me të, një ose disa nga masat e parashikuara në ligjin nr. 9669/2006, “Për masa ndaj dhunës në marrëdhëniet familjare”, në fuqi.

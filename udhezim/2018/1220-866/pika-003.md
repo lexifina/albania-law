@@ -1,0 +1,1 @@
+3. Titullari i strukturës përgjegjëse pranë Policisë së Shtetit, menjëherë pas identifikimit ose raportimit të rastit të dhunës në familje, ku është identifikuar ose raportuar rasti, merr të gjitha masat për të ndaluar dhunën dhe për të kryer procedurat për vlerësimin e riskut dhe lëshimin e UMPMM-së.

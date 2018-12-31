@@ -1,0 +1,1 @@
+4. Struktura përgjegjëse pranë Policisë së Shtetit dhe koordinatori vendor afishojnë në vende të dukshme në ambientet përkatëse listën e personave të kontaktit dhe numrin e telefonit, për institucionet pjesë e mekanizmit të referimit. Koordinatori vendor përgatit dhe përditëson periodikisht këtë listë.

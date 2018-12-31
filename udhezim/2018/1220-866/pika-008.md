@@ -1,0 +1,1 @@
+8. Nëse vendi ku është identifikuar ose raportuar rasti i dhunës në familje është i ndryshëm nga ai i vendbanimit të viktimës ose dhunuesit, punonjësi i policisë i ngarkuar të kryejë vlerësimin e riskut mund të kërkojë informacion nga struktura përgjegjëse e Policisë së Shtetit të vendbanimit të tyre.

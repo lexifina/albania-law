@@ -1,0 +1,1 @@
+7. Mosparaqitja në kohë e koordinatorit vendor / punonjësit social të strukturës përgjegjëse për shërbimet shoqërore në njësitë e vetëqeverisjes vendore, nuk përbën shkak për ndërprerjen e vlerësimit të riskut ose për vonesa në hartimin e raportit.

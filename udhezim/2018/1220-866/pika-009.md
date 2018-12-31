@@ -1,0 +1,1 @@
+9. Raporti për vlerësimin e riskut hartohet sipas aneksit, që është pjesë përbërëse e udhëzimit. Modeli i aneksit shërben për të siguruar kërkesat minimum të raportit për vlerësimin e riskut, i cili mund të përmbajë edhe elemente të tjera sipas rastit të dhunës që vlerësohet.
