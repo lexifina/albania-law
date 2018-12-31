@@ -1,0 +1,1 @@
+17. Vlera totale e ndihmës së dhënë një ndërmarrjeje sociale, e siguruar nga format e mbështetjes nga buxheti i shtetit, të përcaktuara në pikat 4 e 16, të këtij vendimi, nuk do të kalojë shumën 14 000 000 (katërmbëdhjetë milionë) lekë për një periudhë prej tre vjetësh.

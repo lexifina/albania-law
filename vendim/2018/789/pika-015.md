@@ -1,0 +1,1 @@
+15. Ndërmarrjet sociale, që aplikojnë për subvencione të formave të ndryshme të përcaktuara në këtë vendim, nuk duhet të kenë shkelur legjislacionin e punës dhe atë tatimor lidhur me detyrimet ndaj punëmarrësve, për aq kohë sa kryejnë veprimtarinë.

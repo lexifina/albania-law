@@ -1,0 +1,1 @@
+7. Nga Fondi në Mbështetje të Ndërmarrjeve Sociale përfitojnë ndërmarrjet sociale që paraqesin një projektpropozim ose plan biznesi, duke demonstruar se zërat e parashikuar për mbështetje janë të rëndësishëm për zhvillimin dhe zgjerimin e veprimtarisë së tyre.

@@ -1,0 +1,1 @@
+2. Vlera e fondit për vitin e parë të jetë 61 600 000 (gjashtëdhjetë e një milionë e gjashtëqind mijë) lekë, për vitin e dytë, 82 920 000 (tetëdhjetë e dy milionë e nëntëqind e njëzet mijë) lekë dhe për vitin e tretë, 105 240 000 (njëqind e pesë milionë e dyqind e dyzet mijë) lekë.

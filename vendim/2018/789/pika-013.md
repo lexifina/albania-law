@@ -1,0 +1,1 @@
+13. Pagesa e subvencionit të përfituar, sipas përcaktimeve të pikës 12, të këtij vendimi, bëhet 50% (pesëdhjetë për qind) me miratimin e aplikimit dhe 50% (pesëdhjetë për qind) pas realizimit të shpenzimeve, kundrejt faturave të paraqitura, të cilat vërtetojnë shpenzimet e kryera. Një ndërmarrje sociale mund të përfitojë për hapjen e deri 20 (njëzet) vendeve të reja të punës.

@@ -1,0 +1,1 @@
+19. Ministri përgjegjës për çështjet sociale ngre komisionin vlerësues të aplikimeve të ndërmarrjeve sociale për përfitimin e subvencioneve dhe përcakton përbërjen, rregullat e organizimit dhe të funksionimit të tij.

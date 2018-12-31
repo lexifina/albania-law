@@ -1,0 +1,1 @@
+8. Subvencionim për zhvillimin e veprimtarisë përfitojnë ndërmarrjet sociale që paraqesin një plan biznesi, i cili justifikon arritjen e objektivave të synuar. Fondi mbulon deri në 70% (shtatëdhjetë për qind) të kostove të pranuara, por jo më shumë se 1 500 000 (një milion e pesëqind mijë) lekë, në rast se subjekti është në gjendje të financojë pjesën e mbetur të investimit.
