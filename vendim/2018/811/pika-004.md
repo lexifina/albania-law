@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 284 995 840 lekësh, t’i alokohet Bashkisë Tiranë për vijimin e mëtejshëm të procedurës së shpronësimit dhe të përballohet nga llogaria “Fondi rezervë” i buxhetit të shtetit, miratuar për vitin 2018.
