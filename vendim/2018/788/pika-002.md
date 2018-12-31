@@ -1,0 +1,1 @@
+2. Këshilli Kombëtar i Muzeve ka në përbërje të tij përfaqësues të institucioneve shtetërore të specializuara dhe specialistë në fushën e trashëgimisë kulturore materiale e muzeore brenda dhe jashtë sistemit të ministrisë përgjegjëse për trashëgiminë kulturore.

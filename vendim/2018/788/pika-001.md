@@ -1,0 +1,1 @@
+1. Këshilli Kombëtar i Muzeve është organi kolegjial vendimmarrës në fushën e muzeve, që kryesohet nga ministri përgjegjës për trashëgiminë kulturore dhe përbëhet nga 11 anëtarë. Anëtarët e KKM-së përcaktohen me urdhër të ministrit përgjegjës për trashëgiminë kulturore.

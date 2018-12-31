@@ -1,0 +1,1 @@
+6. Anëtari i KKM-së mund të japë dorëheqjen në çdo kohë, duke njoftuar me shkrim kryetarin. Anëtari i dorëhequr është i detyruar të përmbushë të gjitha detyrat e lëna deri në miratimin e urdhrit të ndryshimit.
