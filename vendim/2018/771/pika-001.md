@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare, në masën e 12 (dymbëdhjetë) pagave mujore, znj. Ina Gavrosh Nuka, inspektor, me detyrë oficer i patrullës së përgjithshme, motorist, në Sektorin e Forcës së Posaçme “Shqiponja”, në Drejtorinë Vendore të Policisë Tiranë, e plagosur në krye të detyrës për vendosjen e rendit dhe të sigurisë publike.
