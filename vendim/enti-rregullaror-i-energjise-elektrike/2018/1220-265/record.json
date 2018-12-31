@@ -1,0 +1,28 @@
+{
+  "qbz_id": 60428,
+  "title": "MBI LICENCIMIN E SHOQËRISË “BE-IS ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “KALIVAR 1” ME FUQI TË INSTALUAR 1475 kw; HIDROCENTRALI “KALIVAR 2” ME FUQI TË INSTALUAR 1526 kw; HIDROCENTRALI “KALIVAR 3” ME FUQI TË INSTALUAR 3321 kw; DHE HIDROCENTRALI “KALIVAR 4” ME FUQI TË INSTALUAR 275 kw, ME FUQI TOTALE TË INSTALUAR 5597 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "265",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2018-12-20",
+  "published": "2018-12-31",
+  "in_force": "2018-12-31",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/d0582f82813fc9b7553ba7bf7767cae8d4ede3ad5e6bc87932b9c7ff45ba3bab.docx",
+  "source_sha256": "d0582f82813fc9b7553ba7bf7767cae8d4ede3ad5e6bc87932b9c7ff45ba3bab",
+  "official_record": "https://qbz.gov.al/api/v1/acts/60428",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2018/12/20/265",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    20496
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
