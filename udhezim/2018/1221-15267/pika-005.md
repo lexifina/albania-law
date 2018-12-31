@@ -1,0 +1,1 @@
+5. Në rastet e parashikuara në pikën 4, Autoriteti Verifikues konstatues lëshon procesverbalin përkatës, i firmosur dhe i vulosur, në të cilin pasqyrohen saktësisht argumentet teknike dhe ligjore për moskryerjen e shërbimit.

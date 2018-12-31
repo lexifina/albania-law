@@ -1,0 +1,5 @@
+4. Çlirimi doganor dhe/ose regjistrimi do të refuzohet të kryhet për mjetet motorike të kategorive M1, M2 dhe N1, për:
+a) Autoveturat e reja me zero km dhe që nuk janë regjistruar më parë për qarkullim në asnjë shtet tjetër, të cilat nuk përmbushin normën euro 5;
+b) Mjetet motorike të tjera të reja të kategorive M2 dhe N1, me zero km dhe që nuk janë regjistruar më parë për qarkullim në asnjë shtet tjetër, të cilat nuk përmbushin normën euro 5;
+c) Autoveturat e përdorura (të gjitha ato që nuk janë me zero km dhe që janë regjistruar më parë për qarkullim në rrugë në një shtet tjetër, të cilat nuk përmbushin normën euro 4) dhe janë prodhuar jo më shumë se 10 vjet para datës së regjistrimit të parë në Shqipëri;
+ç) Mjetet motorike të tjera të përdorura, të kategorive M2 dhe N1 (të gjitha ato që nuk janë me zero km dhe që janë regjistruar më parë për qarkullim në rrugë në një shtet tjetër, të cilat nuk përmbushin normën euro 3) dhe janë prodhuar jo më shumë se 15 vjet para datës së regjistrimit të parë në Shqipëri.

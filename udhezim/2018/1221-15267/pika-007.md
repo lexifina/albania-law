@@ -1,0 +1,1 @@
+7. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor të planifikojë dhe të miratojë në programin e saj ekonomik fonde financiare për të gjitha shpenzimet e nevojshme për të siguruar të dhënat teknike për kategorinë përkatëse mjedisore, të konfirmuara nga institucione apo organizma përgjegjës, për të gjitha mjetet motorike kur është i nevojshëm ky konfirmim.
