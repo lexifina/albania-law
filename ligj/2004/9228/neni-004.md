@@ -1,9 +1,0 @@
-# Neni 4
-Standardet kontabël që zbatohen për hartimin e pasqyrave financiare
-1. Njësitë ekonomike që zbatojnë këtë ligj, me përjashtim të rasteve të parashikuara në pikat 1/1, 2 e 3 të këtij neni, zbatojnë standardet kontabël kombëtare për hartimin dhe publikimin e pasqyrave financiare. Standardet kontabël hartohen nga Këshilli Kombëtar i Kontabilitetit dhe brenda një muaji shpallen të detyrueshme për zbatim nga Ministri i Financave.
-1/1. Mikrondërmarrjet, sipas përcaktimit të bërë në ligjin nr.8957, datë 17.10.2002 “Për ndërmarrjet e vogla e të mesme”, të ndryshuar, nuk zbatojnë, në mënyrë të detyruar, standardet kombëtare të kontabilitetit. Ato e mbajnë kontabilitetin dhe i hartojnë pasqyrat financiare sipas kritereve të përcaktuara nga Këshilli Kombëtar i Kontabilitetit dhe të miratuara me vendim të Këshillit të Ministrave.
-2. Ministri i Financave, pasi merr mendimin e Këshillit Kombëtar të Kontabilitetit, shpall standardet kontabël të detyrueshme për zbatim për njësitë ekonomike publike, që nuk ndjekin qëllime fitimprurëse.
-3. Standardet e hartuara nga Bordi i Standardeve Kontabël Ndërkombëtare dhe të përkthyera në shqip, nën përgjegjësinë e Këshillit Kombëtar të Kontabilitetit, pa ndryshime nga teksti origjinal në gjuhën angleze, shpallen nga Ministri i Financave dhe zbatohen detyrimisht:
-a) nga shoqëritë e listuara në një bursë zyrtare letrash me vlerë dhe filialet e tyre, subjekt i konsolidimit të llogarive;
-b) nga bankat e nivelit të dytë, institucionet financiare, të ngjashme me bankat, shoqëritë e sigurimeve dhe të risigurimeve, fondet e letrave me vlerë dhe të gjitha shoqëritë e licencuara për të kryer veprimtari investimi në letrat me vlerë, edhe kur ato nuk janë të listuara në një bursë zyrtare letrash me vlerë;
-c) nga njësi ekonomike të tjera të mëdha, të palistuara në një bursë zyrtare letrash me vlerë, kur ato tejkalojnë kufijtë e përcaktuar nga Këshilli i Ministrave për të ardhurat vjetore dhe numrin e të punësuarve.
