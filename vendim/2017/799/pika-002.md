@@ -1,1 +1,0 @@
-2. Vendimi nr. 954, datë 30.12.2016, i Këshillit të Ministrave, “Për miratimin dhe publikimin zyrtar të Nomenklaturës së Kombinuar të Mallrave, 2017”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.
