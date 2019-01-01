@@ -1,1 +1,0 @@
-12. Shtëpia Botuese e Teksteve Mësimore (BOTEM) është institucion buxhetor, që financohet nga Buxheti i Shtetit, i miratuar për Ministrinë e Arsimit dhe Shkencës. Të gjitha të ardhurat e krijuara nga aktiviteti i BOTEM-ës derdhen në Buxhetin e Shtetit.

@@ -1,1 +1,0 @@
-2. Misioni i Shtëpisë Botuese të Teksteve Mësimore është botimi, shpërndarja dhe shitja e teksteve mësimore të arsimit profesional, teksteve të pakicave kombëtare, diasporës, teksteve me tirazh të ulët në sistemin arsimor parauniversitar dhe i materialeve të tjera ndihmëse.
