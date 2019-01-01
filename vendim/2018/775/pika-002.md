@@ -1,0 +1,1 @@
+2. Vendimi nr. 799, datë 29.12.2017, i Këshillit të Ministrave, “Për miratimin dhe publikimin zyrtar të nomenklaturës së kombinuar të mallrave, 2018”, si dhe çdo dispozitë tjetër, që bie në kundërshtim me këtë vendim, shfuqizohen.
