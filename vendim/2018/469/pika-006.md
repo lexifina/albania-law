@@ -1,0 +1,1 @@
+6. QBD-ja drejtohet dhe përfaqësohet nga drejtori, i cili organizon dhe drejton të gjithë veprimtarinë e qendrës dhe përgjigjet para ministrit përgjegjës për diasporën. Ai emërohet, lirohet ose shkarkohet me urdhër të ministrit përgjegjës për diasporën.

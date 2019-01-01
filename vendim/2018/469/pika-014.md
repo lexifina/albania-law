@@ -1,0 +1,1 @@
+14. Ministri përgjegjës për diasporën, 30 (tridhjetë) ditë para mbarimit të mandatit 4-vjeçar ose menjëherë pas shkarkimit të anëtarit, i kërkon institucionit të përfaqësuar në Këshillin Koordinues të Botimeve për Diasporën paraqitjen e emrit të kandidatit për anëtar të këtij këshilli.

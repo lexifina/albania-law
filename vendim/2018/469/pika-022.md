@@ -1,0 +1,1 @@
+22. Shtëpia Botuese e Teksteve Mësimore (BOTEM), me hyrjen në fuqi të këtij vendimi, ristrukturohet në Qendra e Botimeve për Diasporën (QBD). Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.

@@ -1,0 +1,1 @@
+12. Anëtarët e Këshillit Koordinues të Botimeve për Diasporën duhet të jenë drejtues të nivelit të lartë të institucioneve të përfaqësuara, të cilët emërohen dhe shkarkohen me urdhër të ministrit përgjegjës për diasporën, me propozim të titullarit të institucionit përkatës. Ministri përgjegjës për diasporën cakton njërin nga anëtarët si kryetar të këtij këshilli.
