@@ -1,0 +1,13 @@
+# Neni 19
+Raporti i drejtimit të brendshëm
+1. Njësitë ekonomike me interes publik përfshijnë në raportin e ecurisë së veprimtarisë një raport për drejtimin e brendshëm të njësisë ekonomike. Ky raport përmban, të paktën, informacionet e mëposhtme:
+a) referimin, si më poshtë, sipas rastit:
+i) rregullat/kodet për drejtimin e brendshëm të njësisë ekonomike, objekt i të cilave është njësia;
+ii) rregullat/kodet për drejtimin e brendshëm të njësisë ekonomike, që njësia ka vendosur vullnetarisht të zbatojë;
+iii) të gjitha informacionet përkatëse për praktikat e drejtimit të brendshëm të njësisë ekonomike që zbatohen përtej kërkesave të legjislacionit;
+b) një përshkrim të tipareve kryesore të sistemeve të kontrollit të brendshëm dhe menaxhimit të riskut të njësisë ekonomike lidhur me raportimin financiar;
+c) përbërjen dhe funksionimin e organeve ekzekutive drejtuese dhe mbikëqyrëse dhe të komiteteve të tyre;
+ç) një përshkrim të politikave të ndryshme të zbatuara lidhur me organet ekzekutive drejtuese dhe mbikëqyrëse të njësisë ekonomike për aspekte të tilla, si: mosha, gjinia apo prejardhja arsimore dhe profesionale, objektivat e këtyre politikave të ndryshme, si janë zbatuar dhe rezultatet për periudhën raportuese.
+2. Kur njësia ekonomike nuk vepron sipas rregullave/kodit të drejtimit të brendshëm të shoqërisë, që përmendet në pikën 1, shkronja “a”, nënpikat “i” dhe “ii”, njësia ekonomike duhet të japë një shpjegim se cilat janë pjesët e kodit të drejtimit të brendshëm, të cilat nuk i zbaton dhe arsyet për këto shmangie; kur njësia ekonomike ka vendosur të mos bëjë lidhjen me dispozitat e një kodi të drejtimit të brendshëm, të përmendur në pikën 1, shkronja “a”, nënpikat “i” dhe “ii”, të këtij neni, ajo shpjegon arsyet për këtë.
+3. Njësitë e vogla dhe të mesme ekonomike me interes publik janë të përjashtuara nga detyrimet e parashikuara në pikën 1, shkronja “ç”, të këtij neni.
+4. Informacioni i kërkuar nga pika 1, e këtij neni, paraqitet si rubrikë më vete e raportit të ecurisë së veprimtarisë dhe publikohet së bashku me raportin e ecurisë së veprimtarisë.

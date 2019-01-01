@@ -1,0 +1,24 @@
+# Neni 3
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+1. “Mbajtje e kontabilitetit” është regjistrimi kronologjik në ditar dhe në llogari i të gjitha veprimeve dhe fakteve ekonomike që i përkasin një njësie ekonomike.
+2. “Sistem kontabël” është sistemi që përdoret për përcaktimin, marrjen në llogari, matjen, klasifikimin dhe paraqitjen e të dhënave financiare të veprimtarisë së një njësie ekonomike.
+3. “Standarde kontabël” janë parimet ose rregullat e përgjithshme, të shpallura nga organi përgjegjës për normalizimin kontabël, që përcakton ky ligj dhe aktet e dala në zbatim të tij, të cilat shërbejnë si bazë për zgjedhjen e trajtimeve ose të metodave kontabël, që zbatohen për hartimin e pasqyrave financiare.
+4. “Standarde Ndërkombëtare të Raportimit Financiar” (SNRF) janë standardet dhe interpretimet e hartuara dhe të publikuara nga Bordi i Standardeve Ndërkombëtare të Kontabilitetit, të përkthyera në shqip, nën përgjegjësinë e Këshillit Kombëtar të Kontabilitetit, pa ndryshime nga teksti origjinal në gjuhën angleze, të shpallura të detyrueshme për zbatim me urdhër të ministrit përgjegjës për financat.
+5. “Standarde Kombëtare të Kontabilitetit” (SKK) janë standardet e hartuara dhe të publikuara nga Këshilli Kombëtar i Kontabilitetit, të cilat shpallen të detyrueshme për zbatim me urdhër të ministrit përgjegjës për financat.
+6. “Njësi ekonomike” janë personat juridikë dhe fizikë, publikë dhe privatë, me dhe pa qëllime fitimprurëse, që kryejnë veprimtari dhe kanë seli të përhershme në Republikën e Shqipërisë. Përjashtohen nga ky përkufizim njësitë e qeverisjes së përgjithshme, sipas ligjit nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë“, të ndryshuar.
+7. “Njësi ekonomike fitimprurëse” janë njësitë ekonomike, të cilat prodhojnë dhe realizojnë produkte, mallra e shërbime për shitje, për të realizuar fitime që parashikohen t’u shpërndahen personave investues në kapitalin themeltar të tyre.
+8. “Njësi ekonomike jofitimprurëse” (ose Organizata Jofitimprurëse “OJF”) janë të gjitha njësitë e tjera ekonomike, të cilat nuk plotësojnë përkufizimin, sipas pikës 7 të këtij neni, apo njihen si të tilla nga legjislacioni në fuqi.
+9. “Njësi ekonomike me interes publik” është i njëjti kuptim sipas ligjit nr. 10 091, datë 5.3.2009, “Për auditimin ligjor, organizimin e profesionit të audituesit ligjor dhe të kontabilistit të miratuar”, të ndryshuar.
+10. “Njësi ekonomike financiare tip “holding”” janë njësitë ekonomike që kanë për objekt të vetëm marrjen e pjesëve të kapitalit ose aksioneve të njësive të tjera dhe administrimin e këtyre pjesëve dhe aksioneve, për t’i shndërruar në fitim, pa u përfshirë vetë drejtpërdrejt ose tërthorazi në administrimin e këtyre njësive, por pa cenuar të drejtat e tyre si aksionarë.
+11. “Grup njësish ekonomike” është grupi i përbërë nga një njësi ekonomike mëmë dhe të gjitha njësitë e kontrolluara prej saj.
+12. “Interes në pjesëmarrje” janë të drejtat në kapitalin e njësive ekonomike të tjera, pavarësisht nëse paraqiten apo jo me certifikata, të cilat, duke krijuar një lidhje të fortë me këto njësi ekonomike të tjera, kanë për synim të ndihmojnë në veprimtaritë e njësisë ekonomike që i mban këto të drejta. Zotërimi i një pjese të kapitalit të një njësie ekonomike tjetër prezumohet se përbën interes në pjesëmarrje kur e kalon pragun prej 20 për qind.
+13. “Pasqyra financiare të konsoliduara” janë pasqyrat që paraqesin informacionin financiar rreth grupit si një njësi e vetme ekonomike.
+14. “Dokument kontabël” është dokumenti bazë, dokumenti plotësues dhe regjistrat (librat) kontabël, që përgatiten në letër të shkruar ose në bartës informatikë:
+a) dokumentet bazë përmbajnë regjistrimet fillestare të çdo ngjarjeje dhe veprimi ekonomik;
+b) dokumentet plotësuese janë bartës të informacionit të marrë nga dokumentet bazë;
+c) regjistrat (librat) kontabël janë bartës të informacionit të regjistruar në mënyrë kronologjike dhe sistematike të efekteve të veprimeve ekonomike të kryera, të marra nga dokumentet bazë ose dokumentet plotësuese.
+15. “Bartës informatik” është çdo dokument kontabël i autorizuar nga organet përkatëse, i shkruar në mjete kompjuterike, sipas programeve informatike të pamanipulueshme dhe të printueshme në çdo kohë.
+16. “Monedhë funksionale” është monedha e mjedisit ekonomik kryesor, në të cilin vepron njësia ekonomike.
+17. “Monedhë e paraqitjes” është monedha me të cilën paraqiten pasqyrat financiare të njësisë ekonomike.
+18. “Person përgjegjës për hartimin e pasqyrave financiare” është personi i punësuar, personi fizik i licencuar si kontabilist i miratuar apo auditues ligjor, si dhe personi juridik i organizuar si shoqëri auditimi apo shoqëri kontabiliteti, që ofron shërbimin e kontabilitetit, sipas kontratës së punës apo kontratës së shërbimit që ka me njësinë ekonomike dhe mban përgjegjësinë për hartimin e pasqyrave financiare.
