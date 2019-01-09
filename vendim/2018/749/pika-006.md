@@ -1,0 +1,1 @@
+6. Komiteti Shtetëror për Integrimin Evropian orienton ministrin që mbulon fushën përkatëse të përgjegjësisë shtetërore për kapitullin përkatës të acquis dhe Kryenegociatorin për propozimin për qëndrimin negociues që do t’i paraqitet për miratim Këshillit të Ministrave.

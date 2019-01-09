@@ -1,0 +1,1 @@
+3. Në Komitetin Shtetëror për Integrimin Evropian merr pjesë, gjithashtu, ministri që mbulon fushën përkatëse të përgjegjësisë shtetërore, si dhe ftohen të marrin pjesë kryetarët e institucioneve të pavarura, sipas tematikës së diskutimit për secilin kapitull të acquis.
