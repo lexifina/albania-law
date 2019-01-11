@@ -1,0 +1,1 @@
+2. Për zbatimin e këtij urdhri, ngarkohen Drejtoria e Përgjithshme e Shërbimeve Mbështetëse në Ministrinë e Financave dhe Ekonomisë dhe institucionet e varësisë së Ministrisë së Financave dhe Ekonomisë.
