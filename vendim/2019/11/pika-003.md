@@ -1,0 +1,1 @@
+3. Ministria e Kulturës, brenda fushës së përgjegjësisë së vet, të bashkërendojë me Drejtorinë e Shërbimeve Qeveritare për organizimin e aktiviteteve social-kulturore dhe vendosjen në përdorim të monumenteve të kulturës, sipas rastit.

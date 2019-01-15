@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e vitit 2019, në zërin “Shërbime qeveritare”, i shtohet fondi prej 66 972 800 (gjashtëdhjetë e gjashtë milionë e nëntëqind e shtatëdhjetë e dy mijë e tetëqind) lekësh, brenda datës 31 janar 2019, për organizimin e Samitit të Dytë të Diasporës, që do të zhvillohet në datat 28 shkurt - 2 mars 2019 në Tiranë dhe Lezhë.
