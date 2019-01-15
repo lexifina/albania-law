@@ -1,0 +1,1 @@
+2. Vendimi nr. 453, datë 23.6.2005, i Këshillit të Ministrave, “Për miratimin e listës së pajisjeve, që përdorin lëndë ozonholluese, të cilat ndalohen të prodhohen e të importohen, si dhe rregullat e procedurat e zëvendësimit të lëndëve ozonholluese në pajisjet ekzistuese”, të ndryshuar, shfuqizohet.

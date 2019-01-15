@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për prodhimin, importin, eksportin, hedhjen në treg dhe përdorimin e substancave ozonholluese, si dhe për importin, eksportin, hedhjen në treg dhe përdorimin e produkteve e të pajisjeve që përmbajnë këto substanca, sipas tekstit dhe shtojcave, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
