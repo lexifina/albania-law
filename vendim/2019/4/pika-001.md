@@ -1,0 +1,1 @@
+1. Miratimin e kuadrit makroekonomik dhe fiskal për periudhën 2020-2022, së bashku me lidhjet nr. 1 “Treguesit kryesorë makroekonomikë” dhe nr. 2/1 e nr. 2/2 “Treguesit fiskalë sipas buxhetit të konsoliduar”, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
