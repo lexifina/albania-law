@@ -1,0 +1,1 @@
+2. Ministri i Shëndetësisë të marrë masa, që, brenda një afati tremujor nga hyrja në fuqi e këtij vendimi, të propozojë kandidaturat alternative për komisionet eprore të caktimit të aftësisë për punë.
