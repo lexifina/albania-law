@@ -1,0 +1,1 @@
+4. Marrja në përdorim të përkohshëm për pasuritë e paluajtshme, pronë private, të jetë me afat 1 (një) vit, për zonat e nevojshme për realizimin e punimeve, për ndërtimin e pritave të cilat pengojnë vërshimin e lumenjve dhe sigurojnë mbrojtjen e tubacionit, sipas tabelës A, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+1. Shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit të kalimit për pasuritë e paluajtshme që preken nga projekti “Ndërtimi i pritave të cilat pengojnë vërshimin e lumenjve dhe sigurojnë mbrojtjen e tubacionit, pjesë e projektit të Gazsjellësit Trans Adriatic Pipeline (projekti TAP)”, në zonat Berat, Skrapar dhe Fier.
