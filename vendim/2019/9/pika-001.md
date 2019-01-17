@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të detajuara dhe metodave për kryerjen e vlerësimit të sigurisë së kimikatit, si edhe kërkesat specifike, përmbajtja dhe formati i Dokumentit me të Dhënat e Sigurisë (MSDS), sipas tekstit dhe shtojcave I, II, III, IV, V, VI dhe VII, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.
