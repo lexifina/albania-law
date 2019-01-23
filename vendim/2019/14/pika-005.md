@@ -1,0 +1,1 @@
+5. Për mbulimin e efekteve financiare që rrjedhin nga zbatimi i këtij vendimi, në buxhetin e Ministrisë së Brendshme miratuar për vitin 2019 shtohet fondi në vlerën 42 000 000 (dyzet e dy milionë) lekë, të cilat përballohen nga fondi rezervë i buxhetit të shtetit.

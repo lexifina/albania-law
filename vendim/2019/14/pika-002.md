@@ -1,0 +1,1 @@
+2. Shpërblimi për anëtarët e Bordit të Përzgjedhjes të jetë në masën 150 000 (njëqind e pesëdhjetë mijë) lekë, i cili jepet pas përfundimit të procedurës së përzgjedhjes së anëtarëve të Komisionit të Jashtëm të Vlerësimit dhe të anëtarëve të sekretariatit teknik përkatës.
