@@ -1,0 +1,1 @@
+10. Për Institutin e Nxënësve që nuk Shikojnë “Ramazan Kabashi”, drejtoria e këtij instituti tërheq testin nga QSHA-ja një ditë para zhvillimit të provimit dhe e kthen atë në sistemin e shkrimit brail.

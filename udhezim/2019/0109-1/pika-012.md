@@ -1,0 +1,1 @@
+12. Institucioni përgjegjës për sigurimin e cilësisë në arsimin parauniversitar monitoron procesin e provimeve kombëtare të arsimit bazë dhe raporton për çdo parregullsi të vërejtur në zhvillimin e tyre.
