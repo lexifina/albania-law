@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit për pasurinë e llojit “ndërtesë”, me vlerë 783 335 (shtatëqind e tetëdhjetë e tre mijë e treqind e tridhjetë e pesë) lekë, të përballohet nga fondet e Bashkisë Ura Vajgurore.

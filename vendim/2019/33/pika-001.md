@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Ndërtimi i një qendre multifunksionale për fëmijët me aftësi të kufizuara”, në fshatin Poshnje, Bashkia Ura Vajgurore.

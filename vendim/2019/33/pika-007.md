@@ -1,0 +1,1 @@
+7. Pronari i përmendur në tabelën, që i bashkëlidhet këtij vendimi, të kompensohet, për efekt shpronësimi, pasi të kenë paraqitur dokumentacionin justifikues për likuidimin, pranë Bashkisë Ura Vajgurore.

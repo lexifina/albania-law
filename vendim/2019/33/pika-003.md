@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, për pasurinë e llojit “ndërtesë”, të kompensohet në vlerë të plotë sipas masës së kompensimit përkatës, që paraqitet në tabelën bashkëlidhur këtij vendimi, me vlerë të përgjithshme prej 783 335 (shtatëqind e tetëdhjetë e tre mijë e treqind e tridhjetë e pesë) lekësh.
