@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasurinë e llojit “Tokë arë”, me një vlerë të përgjithshme prej 206 000 (dyqind e gjashtë mijë) lekësh.
