@@ -1,0 +1,1 @@
+4. Numri i zyrave të shërbimit të gjendjes civile është 390 dhe numri i nëpunësve të shërbimit të gjendjes civile në Bashki/Njësi Bashkiake/ Njësi Administrative dhe në Degët e Qarqeve, është 524 nëpunës.

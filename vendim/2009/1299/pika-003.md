@@ -1,0 +1,1 @@
+3. Numri prej 37 nëpunësish, i cili pakësohet nga numri i nëpunësve të miratuar për institucionin e Prefektit, si nëpunës të gjendjes civile në degët e qarkut, i kalon numrit të përgjithshëm të nëpunësve të shërbimit të gjendjes civile.
