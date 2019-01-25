@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 2 467 950 (dy milionë e katërqind e gjashtëdhjetë e shtatë mijë e nëntëqind e pesëdhjetë) lekësh, të përballohet nga të ardhurat e Bashkisë Skrapar, planifikuar në buxhetin e saj.
