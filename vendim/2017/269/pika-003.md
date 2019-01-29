@@ -1,0 +1,1 @@
+3. Individët që kanë përfunduar një program studimi, kanë të drejtë të ndjekin një program të dytë studimi të të njëjtit cikël. Në këtë rast, kandidatët përballojnë koston e plotë të studimeve. Nga ky rregull përjashtohen studentët e shkëlqyer.
