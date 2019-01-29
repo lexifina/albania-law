@@ -1,9 +1,9 @@
 # Për miratimin e dëmshpërblimit financiar për ish-të dënuarit politikë të regjimit komunist
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 714, datë 25.8.2010](https://qbz.gov.al/api/v1/acts/15354).
+Official source: [Vendimi i Këshillit të Ministrave nr. 714, datë 25.8.2010](https://qbz.gov.al/api/v1/acts/15354); [QBZ versions](https://qbz.gov.al/api/v1/acts/15354/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2010-08-25; published 2010-09-27; in force 2010-09-27.
+Status of this text: `official consolidated version 1`, applying from 2019-01-29; after QBZ act 56697 (nr. 45).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
