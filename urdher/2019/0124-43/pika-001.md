@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të autoritetit kontraktor për të gjitha procedurat e prokurimit publik me fonde buxhetore për Ministrinë e Arsimit, Sportit dhe Rinisë, Sekretarit të Përgjithshëm të kësaj ministrie, z. Oltjon Muzaka.

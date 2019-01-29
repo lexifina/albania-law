@@ -1,0 +1,1 @@
+2. Kompetencat e deleguara të titullarit të autoritetit kontraktor të Ministrisë së Arsimit, Sportit dhe Rinisë do të ushtrohen për një periudhë të përcaktuar nga hyrja në fuqi e këtij urdhri, në zbatim të dispozitave ligjore për prokurimin publik.
