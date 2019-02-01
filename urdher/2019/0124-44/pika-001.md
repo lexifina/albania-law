@@ -1,0 +1,1 @@
+1. Autorizimet për përfaqësimin ligjor të Ministrisë së Arsimit, Sportit dhe Rinisë në proceset gjyqësore kur thirret si palë në një gjykim, lëshohen nga Sekretari i Përgjithshëm, në emër të personit që do të përfaqësojë ministrinë.

@@ -1,0 +1,1 @@
+7. Në përfundim të proceseve gjyqësore, në çdo shkallë të gjyqësorit, brenda një afati 5-ditor nga shpallja/njoftimi i vendimit, të paraqitet informacion i detajuar, i shoqëruar me vendimet përkatëse në Ministrisë e Arsimit, Sportit dhe Rinisë.
