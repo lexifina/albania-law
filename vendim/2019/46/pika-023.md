@@ -1,0 +1,1 @@
+23. Vendimi nr.17, datë 12.1.2018, i Këshillit të Ministrave, “Për financimin e shërbimeve shëndetësore spitalore nga skema e detyrueshme e sigurimeve të kujdesit shëndetësor për vitin 2018”, i ndryshuar, shfuqizohet.

@@ -1,0 +1,1 @@
+1. Financimin nga skema e detyrueshme e sigurimeve shëndetësore të paketës së shërbimeve të ofruara në spitalet publike, sipas listës së shërbimeve, dhënë në shtojcën nr.1, që i bashkëlidhet këtij vendimi.

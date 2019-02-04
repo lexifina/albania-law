@@ -1,0 +1,1 @@
+15. Ministria e Shëndetësisë dhe Mbrojtjes Sociale auditon spitalin, nëpërmjet strukturës së saj audituese, për zbatimin e standardeve të miratuara prej saj dhe për raste të tjera me urdhër të ministrit të Shëndetësisë dhe Mbrojtjes Sociale.
