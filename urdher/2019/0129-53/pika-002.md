@@ -1,0 +1,1 @@
+2. Kompetencat e Kryeinspektorit të DPA do të ushtrohen për të gjitha praktikat e inspektimit, sipas ligjit nr. 10433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”, ndaj Rektoratit të Universitetit të Tiranës.

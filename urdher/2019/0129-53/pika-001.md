@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave si Kryeinspektor i Drejtorisë së Përgjithshme të Arkivave, z. Endrit Musaj, Drejtor i Inspektimit dhe Trajnimeve, për inspektimet që do të kryhen në Universitetin e Tiranës.
