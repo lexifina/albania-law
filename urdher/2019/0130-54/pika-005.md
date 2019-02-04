@@ -1,0 +1,1 @@
+5. Administratorët e institucioneve publike të arsimit të lartë, pasqyrojnë dhe përditësojnë sipas afateve të përcaktuara të dhënat sipas këtij udhëzimi edhe pranë Qendrës Ndërinstitucionale të Rrjetit Akademik Shqiptar.

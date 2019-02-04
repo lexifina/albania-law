@@ -1,0 +1,1 @@
+3. Brenda datës 15 të çdo muaji, raportimi financiar nga institucionet publike të arsimit të lartë sipas përcaktimeve të pikës 2 të këtij urdhri, rakordohet me degën e thesarit përkatëse dhe publikohet në faqen zyrtare të IAL-së përkatëse.

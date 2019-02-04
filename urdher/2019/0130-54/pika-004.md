@@ -1,0 +1,1 @@
+4. Brenda datës 20 të çdo muaji, institucionet publike të arsimit të lartë përcjellin raportimin financiar sipas pikave 2 dhe 3 të këtij urdhri, në format elektronik pranë Qendrës Ndërinstitu-cionale të Rrjetit Akademik Shqiptar, e cila e publikon në faqen e saj zyrtare.
