@@ -1,0 +1,1 @@
+1. Miratimin e kalimit të së drejtës së pronësisë, në favor të subjekteve përfituese, për 200 (dyqind) parcela ndërtimore të objekteve të legalizuara, që preken prej tyre, sipas shtojcës që i bashkëlidhet këtij vendimi.
