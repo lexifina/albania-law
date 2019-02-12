@@ -1,0 +1,1 @@
+2. Mbështetjen e inspektorateve shtetërore/ trupave inspektuese, me përfaqësues nga Sektori Juridik i Inspektoratit Qendror, në proceset gjyqësore me objekt gjykimi ankimimin e subjekteve inspektuese ndaj vendimit përfundimtar të Trupës Kolegjiale të Ankimimit të inspektorateve shtetërore/trupave inspektuese.
