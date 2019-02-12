@@ -2,8 +2,8 @@
 RREGULLAT
 PËR PRANIMIN NË VEPRIMTARINË E OPERATORIT TË TRANSPORTIT RRUGOR TË MALLRAVE DHE UDHËTARËVE, SI DHE NJOHJA E DOKUMENTEVE ZYRTARE TË CAKTUARA PËR KËTA OPERATORË
 KAPITULLI I
-Qëllimi dhe fusha e veprimit të rregullave
-1. Qëllimi
+QËLLIMI DHE FUSHA E VEPRIMIT TË RREGULLAVE
+1. QËLLIMI
 1.1 Pranimi dhe ndjekja e veprimtarisë së operatorit të transportit rrugor të mallrave ose operatorit të transportit rrugor të udhëtarëve rregullohet me anën e dispozitave të këtij vendimi.
 1.2 Dispozitat e këtij vendimi do të zbatohen për të gjitha ndërmarrjet e transportit rrugor, që përfshihen në:
 a) veprimtarinë e transportit rrugor të udhëtarëve, për të tretë ose me qira, brenda dhe jashtë vendit;
@@ -26,8 +26,8 @@ a) ndërmarrjet, që kërkojnë të përfshihen në operacionet e transportit t�
 b) ndërmarrjet e transportit të mallrave për llogari të vet. Në këtë rast, mallrat e transportuara janë pronë e ndërmarrjes, si dhe mjetet motorike për transporte të tilla drejtohen nga punonjësit e ndërmarrjes dhe janë pronë e ndërmarrjes, ose janë të blera nga ajo me këste, ose të marra me qira pa drejtues mjeti. Transporti i mallrave për llogari të vet duhet të jetë ndihmës në të gjitha veprimtaritë e ndërmarrjes.
 c) ndërmarrjet në veprimtarinë e transportit rrugor të udhëtarëve në shërbimin taksi, i cili rregullohet sipas nenit 35 të ligjit nr.8308, datë 18.3.1998.
 KAPITULLI II
-Plotësimi i kushteve për pranimin në veprimtarinë e transportit rrugor
-1. Kërkesat për pranim
+PLOTËSIMI I KUSHTEVE PËR PRANIMIN NË VEPRIMTARINË E TRANSPORTIT RRUGOR
+1. KËRKESAT PËR PRANIM
 Licenca për pranimin në veprimtarinë e transportit rrugor të mallrave dhe udhëtarëve jepet për operatorët e transportit rrugor, kur plotësohen kërkesat si më poshtë vijon:
 a) të jetë me reputacion të mirë;
 b) të ketë qëndrueshmërinë e duhur financiare;
@@ -38,7 +38,7 @@ c) të ketë kompetencën profesionale të nevojshme;
 a) drejton efektivisht dhe vazhdimisht veprimtarinë e transportit të ndërmarrjes;
 b) ka një pozicion të tillë në ndërmarrje siç mund të jetë një punonjës, drejtor, pronar ose aksionar ose administrator i saj, ose kur ndërmarrja është një person fizik, është vetë ky person;
 c) ka vendqëndrimin në Shqipëri.
-2.2 Nëse një ndërmarrje transporti nuk plotëson kërkesën e kompetencës profesionale të parashikuar në shkronjën “c” të pikës 1, organi i transportit ose QKL-ja e autorizon atë të përfshihet në veprimtarinë e operatorit të transportit rrugor pa një drejtues veprimtarie sipas pikës 2.1 të këtij kapitulli, me kusht që:
+2.2 Nëse një ndërmarrje transporti nuk plotëson kërkesën e kompetencës profesionale të parashikuar në shkronjën “c” të pikës 1, organi i transportit ose QKB-ja e autorizon atë të përfshihet në veprimtarinë e operatorit të transportit rrugor pa një drejtues veprimtarie sipas pikës 2.1 të këtij kapitulli, me kusht që:
 a) ndërmarrja cakton një person fizik, me vendqëndrim në Shqipëri, i cili kënaq kërkesat e shkronjave “a” dhe “c” të pikës 1, dhe emërohet në bazë të një kontrate në kryerjen e detyrimeve si drejtues veprimtarie në emër të ndërmarrjes;
 b) kontrata, që lidh ndërmarrja me personin e përmendur në shkronjën “a” të pikës 2.2 të këtij kapitulli, specifikon detyrat që kryhen mbi baza të efektivitetit dhe vazhdimësisë së këtij personi, dhe tregon përgjegjësitë e tij si drejtues veprimtarie. Detyrat në veçanti përmbajnë:
 i) mirëmbajtjen e mjeteve;
@@ -49,8 +49,8 @@ v) verifikimin e procedurave të sigurisë;
 c) me aftësinë e tij si drejtues veprimtarie, personi i përmendur sipas shkronjës “a” të kësaj pike, lejohet të drejtojë veprimtarinë e transportit deri në 3 (tri) ndërmarrje të ndryshme, me një numër të përgjithshëm maksimal të mjeteve motorike dhe/ose kombinimit të mjeteve, prej 36 mjetesh.
 ç) personi i përmendur në shkronjën “a” të kësaj pike kryen detyra të specifikuara vetëm për interesat e ndërmarrjes dhe përgjegjësitë e tij ushtrohen në mënyrë të pavarur për cilindo prej ndërmarrjeve për të cilën zbaton operacionet e transportit.
 2.3 Drejtuesi i veprimtarisë, i caktuar në përputhje me pikën 2.1 të këtij kapitulli, mund të caktohet në përputhje me shkronjën “c”, të pikës 2.2, të këtij kapitulli, edhe në një ndërmarrje ose filial tjetër, përveç asaj të përmendur në pikën 2.1, të këtij kapitulli, veprimtaritë e të cilave kryhen me një numër të përgjithshëm maksimal të mjeteve motorike dhe/ose kombinimit të mjeteve, prej 30 mjetesh.
-2.4 Ndërmarrja për, ose e përfshirë në veprimtarinë e transportit rrugor njofton, respektivisht, organin e transportit ose QKL-në për drejtuesin/drejtuesit e caktuar të veprimtarisë. Njoftimi për çdo ndryshim të drejtuesit ose drejtuesve të veprimtarisë bëhet brenda 30 ditëve në organin përkatës të lëshimit të licencës.
-2.5 Personat që punojnë në organet e transportit ose të varësisë ose në QKL, ose në organet e kontrollit në rrugë sipas nenit 12 të ligjit nr.8378, datë 22.7.1998, e që mbulojnë veprimtarinë e transportit rrugor, dhe që janë të pajisur me certifikatën e kompetencës profesionale nuk lejohen të ushtrojnë veprimtarinë e tyre si drejtues veprimtarie në ndërmarrje të transportit rrugor. Shkelja e këtij rregulli përbën shkelje të reputacionit të drejtuesit të veprimtarisë dhe shkak për heqjen e certifikatës së kompetencës profesionale.
+2.4 Ndërmarrja për, ose e përfshirë në veprimtarinë e transportit rrugor njofton, respektivisht, organin e transportit ose QKB-në për drejtuesin/drejtuesit e caktuar të veprimtarisë. Njoftimi për çdo ndryshim të drejtuesit ose drejtuesve të veprimtarisë bëhet brenda 30 ditëve në organin përkatës të lëshimit të licencës.
+2.5 Personat që punojnë në organet e transportit ose të varësisë ose në QKB, ose në organet e kontrollit në rrugë sipas nenit 12 të ligjit nr.8378, datë 22.7.1998, e që mbulojnë veprimtarinë e transportit rrugor, dhe që janë të pajisur me certifikatën e kompetencës profesionale nuk lejohen të ushtrojnë veprimtarinë e tyre si drejtues veprimtarie në ndërmarrje të transportit rrugor. Shkelja e këtij rregulli përbën shkelje të reputacionit të drejtuesit të veprimtarisë dhe shkak për heqjen e certifikatës së kompetencës profesionale.
 3. Plotësimi i kushtit në lidhje me reputacionin e mirë
 3.1 Drejtuesi/drejtuesit i veprimtarisë ose ndërmarrja provojnë se nuk kanë kryer shkelje ose dënim në lidhje me:
 a) Drejtuesi/drejtuesit e veprimtarisë së saj provojnë se nuk ka kryer shkelje në lidhje me:
@@ -74,9 +74,9 @@ c) Ajo nuk ka qenë më parë e dënuar për shkelje serioze të rregullave në 
 ç) Drejtuesi/drejtuesit i veprimtarisë së saj ka përfunduar periudhën e rehabilitimit, sipas shkronjave “a” dhe ’b” të pikës 4.1, të këtij kapitulli.
 d) ka kryer sigurimin e detyrueshëm për dëmin ndaj palëve të treta në transport.
 3.2 Ndërmarrja, që kërkon të ushtrojë veprimtarinë e saj në transportin rrugor, dhe personat që janë caktuar në drejtimin e veprimtarisë së këtyre ndërmarrjeve, sipas pikës 2 të këtij kapitulli, duhet të deklarojnë në dokumentet e lëshuara, nga organet e transportit, se plotësojnë kushtin e reputacionit të mirë.
-3.3 Organet e transportit dhe ose QKL-ja janë të detyruara të verifikojnë deklaratën në plotësimin e kushtit të reputacionit të mirë për ndërmarrjen dhe drejtuesin e veprimtarisë së saj.
+3.3 Organet e transportit dhe ose QKB-ja janë të detyruara të verifikojnë deklaratën në plotësimin e kushtit të reputacionit të mirë për ndërmarrjen dhe drejtuesin e veprimtarisë së saj.
 3.4 Në të njëjtën mënyrë gjykohet për reputacionin e mirë edhe në rast se masa të njëjta merren nga autoritetet përkatëse të shteteve të tjera, për shkeljet e kryera në territorin e këtyre shteteve, nga operatorët e transportit rrugor të mallrave.
-3.5 Organet e transportit dhe ose QKL-ja do të njohin një dokument të nxjerrë nga një regjistër juridik ose, në mungesë të tij, një dokument të lëshuar nga autoriteti gjyqësor ose administrativ në shtetin anëtar të BE-së, ku individi ose ndërmarrja e transportit është e vendosur.
+3.5 Organet e transportit dhe ose QKB-ja do të njohin një dokument të nxjerrë nga një regjistër juridik ose, në mungesë të tij, një dokument të lëshuar nga autoriteti gjyqësor ose administrativ në shtetin anëtar të BE-së, ku individi ose ndërmarrja e transportit është e vendosur.
 3.5.1 Operatori i transportit informon me shkrim organin e transportit të lëshimit të licencës për ndonjë dënim të vendosur ndaj tij ose të ndonjë personi të përmendur në pikën 2.1 dhe në shkronjën “a”, të pikës 2.2, të këtij kapitulli, brenda 28 ditëve, nga dita që ka marrë dënimin ose nga dita që e ka apeluar dënimin.
 3.6 Dokumentet e lëshuara sipas pikës 3.5 të këtij kapitulli janë të vlefshme brenda tre muajve nga data e lëshimit të tyre.
 4. Rehabilitimi
@@ -87,11 +87,11 @@ b) 10-vjeçare, për shkelje sipas pikës (xi) të shkronjës “a” të pikës
 5. Plotësimi i kushtit për qëndrueshmërinë e duhur financiare
 5.1 Një kandidat për, ose mbajtës i një licence operatori në transportin rrugor, me qëllim plotësimin e shkronjës “b” të pikës 1 të këtij kapitulli duhet të jetë i aftë të plotësojë detyrimet financiare për çdo vit financiar. Gjendja e përshtatshme financiare, për çdo vit financiar provohet në bazë të auditimit ligjor të kryer nga ekspertë kontabël të regjistruar apo kontabilistë të miratuar në përputhje me legjislacionin në fuqi.
 5.2 Një kandidat për, ose mbajtës i një licence operatori në transportin rrugor që autorizon përdorimin e mjeteve nuk konsiderohet në gjendje financiare të përshtatshme, përveç rastit kur, në bazë të analizës financiare të demonstruar sipas pikës 5.1 të këtij kapitulli, ka në dispozicion të tij kapital dhe rezerva të një shume të barabartë me ose që tejkalon shumën e përgjithshme.
-a) 7 200 euro, për mjetin e parë, dhe 4 000 euro për çdo mjet shtesë, të autorizuar për t’u përdorur në transportin ndërkombëtar të mallrave dhe udhëtarëve;
+a) Jo më pak se 9 000 (nëntë mijë) euro, për mjetin e parë, dhe 5 000 (pesë mijë) euro, për çdo mjet shtesë të autorizuar për t’u përdorur në transportin ndërkombëtar të mallrave dhe udhëtarëve;
 b) 140 000 lekë, për mjetin e parë, dhe 70 000 lekë për çdo mjet shtesë, të përdorur kur kryen transport të mallrave e të udhëtarëve brenda vendit.
-5.3 Si përjashtim nga pikat 5.1 dhe 5.2, organet e transportit dhe ose QKL-ja lejohet të pranojnë që një kandidat për, ose mbajtës i një licence operatori në transportin rrugor të provojë gjendjen e përshtatshme financiare të tij, me anë të një vërtetimi që mund të jetë një garanci bankare, ose një siguracion, përfshirë një siguracion të përgjegjësisë profesionale nga një ose më shumë banka ose institucione të tjera financiare, përfshirë shoqëritë e sigurimit, të cilat bëhen garant solidar për ndërmarrjen lidhur me shumat e përcaktuara në pikën 5.2 të këtij kapitulli.
-5.4 Kushti, në lidhje me kapitalin minimal të vlefshëm dhe rezervë të qëndrueshmërisë financiare, të veprimtarisë së ndërmarrjes në transportin rrugor ndërkombëtar dhe brenda vendit të mallrave dhe udhëtarëve, i përcaktuar sipas shkronjave “a” dhe “b”, të pikës 5.2, do të arrihet një vit nga hyrja në fuqi e kësaj rregulloreje.
-5.5 Organet e transportit dhe ose QKL-ja do të pranojnë dokumente të lëshuara nga çdo bankë, institucion financiar ose institucione të ngarkuara për këtë qëllim në shtetin anëtar të BE-së, ku individi ose ndërmarrja e transportit rrugor ose filiali i saj është vendosur.
+5.3 Si përjashtim nga pikat 5.1 dhe 5.2, organet e transportit dhe ose QKB-ja lejohet të pranojnë që një kandidat për, ose mbajtës i një licence operatori në transportin rrugor të provojë gjendjen e përshtatshme financiare të tij, me anë të një vërtetimi që mund të jetë një garanci bankare, ose një siguracion, përfshirë një siguracion të përgjegjësisë profesionale nga një ose më shumë banka ose institucione të tjera financiare, përfshirë shoqëritë e sigurimit, të cilat bëhen garant solidar për ndërmarrjen lidhur me shumat e përcaktuara në pikën 5.2 të këtij kapitulli.
+5.4 Kushti në lidhje me kapitalin minimal të vlefshëm dhe rezervë të qëndrueshmërisë financiare të veprimtarisë së ndërmarrjes në transportin rrugor ndërkombëtar të mallrave dhe udhëtarëve, i përcaktuar sipas shkronjës “a”, të pikës 5.2, do të zbatohet nga data 1 mars 2019.
+5.5 Organet e transportit dhe ose QKB-ja do të pranojnë dokumente të lëshuara nga çdo bankë, institucion financiar ose institucione të ngarkuara për këtë qëllim në shtetin anëtar të BE-së, ku individi ose ndërmarrja e transportit rrugor ose filiali i saj është vendosur.
 6. Plotësimi i kushtit në lidhje me kërkesën e kompetencës profesionale
 6.1 Kompetenca profesionale plotësohet, në rastin kur personi që caktohet për drejtimin e veprimtarisë së operatorit të transportit rrugor, në përputhje me pikat 2.1 dhe 2.2 të këtij kapitulli, zotëron njohuri të mjaftueshme, që i korrespondojnë nivelit të trajnimit në përputhje me programin bazë të parashikuar me udhëzim të ministrit. Kursi i trajnimit kryhet si për transportin e udhëtarëve, ashtu edhe për transportin e mallrave.
 6.2 Dokumentin e kompetencës profesionale për transportin ndërkombëtar rrugor të mallrave ose udhëtarëve mund ta përftojnë vetëm kandidatët, që kanë mbaruar të paktën arsimin e mesëm dhe kanë një eksperiencë pune si administrator ose drejtor për një periudhë trevjeçare, pa ndërprerje në një ndërmarrje të transportit rrugor ndërkombëtar ose të brendshëm para datës së aplikimit.
@@ -123,17 +123,17 @@ c) Kompetenca profesionale e stafit të qendrës së trajnimit, në përputhje m
 8. Përjashtimi nga trajnimi e provimi
 8.1 Përjashtohen nga trajnimi dhe provimi i detyrueshëm, për pjesën që janë diplomuar, të gjithë kandidatët, si inxhinierë mekanikë, ekonomistë ose juristë. Me përjashtim të kandidatëve të diplomuar në edukimet e përmendura në këtë pikë, të cilët përjashtohen nga trajnimi dhe provimi i detyrueshëm për pjesën që janë diplomuar, të gjithë kandidatët e tjerë, pa përjashtim, duhet të kryejnë kursin e trajnimit dhe t’u nënshtrohen provimit me shkrim dhe me gojë sipas pikës 7.
 8.2 Nëpunësit civilë të politikave të transportit rrugor, të sigurisë dhe qarkullimit rrugor, të lëshimit të licencave dhe, ose autorizimeve në Ministrinë e Punëve Publike dhe Transportit, drejtuesit e Policisë Rrugore në Drejtorinë e Përgjithshme të Policisë së Shtetit dhe qarqe, drejtuesit e DPSHTRR-së në qendër dhe qarqe dhe punonjësit e transportit në Institutin e Transportit, të cilët kanë ushtruar këto detyra mbi 3 vjet përjashtohen nga detyrimi për trajnimin dhe provimi në përfitimin e certifikatës së kompetencës profesionale.
-8.3 Organet e transportit dhe ose QKL-ja do të njohin certifikatat e kompetencës profesionale, që lëshojnë organet e autorizuara sipas pikës 7.1 të këtij kapitulli, pas hyrjes në fuqi të këtij vendimi.
-8.4 Organet e transportit dhe ose QKL-ja do të pranojnë si provë të mjaftueshme të kompetencës profesionale një certifikatë që përputhet me certifikatën model, të përcaktuar në shtojcën III, të rregullores evropiane 1071/2009, dhe që lëshohet nga autoriteti ose organi i autorizuar për këtë qëllim nga shteti anëtar i BE-së.
+8.3 Organet e transportit dhe ose QKB-ja do të njohin certifikatat e kompetencës profesionale, që lëshojnë organet e autorizuara sipas pikës 7.1 të këtij kapitulli, pas hyrjes në fuqi të këtij vendimi.
+8.4 Organet e transportit dhe ose QKB-ja do të pranojnë si provë të mjaftueshme të kompetencës profesionale një certifikatë që përputhet me certifikatën model, të përcaktuar në shtojcën III, të rregullores evropiane 1071/2009, dhe që lëshohet nga autoriteti ose organi i autorizuar për këtë qëllim nga shteti anëtar i BE-së.
 9. Kushtet në lidhje me kërkesën e vendosjes.
 Për plotësimin e kërkesave të shkronjës “d”, të pikës 1, ndërmarrja e transportit duhet:
 a) të jetë e vendosur në territorin e Republikës së Shqipërisë, me ambiente në të cilat ajo mban dokumentet kryesore të biznesit, në veçanti dokumentet e kontabilitetit, të personelit, dokumentet që përmbajnë të dhëna në lidhje me orët e drejtuesve të mjeteve dhe ndonjë dokument tjetër, tek i cili autoriteti përgjegjës duhet të ketë akses, me qëllim verifikimin e përputhjes me kushtet e vendosura në këtë rregullore;
 b) pas marrjes së licencës, të ketë në dispozicion të saj një ose më shumë mjete rrugore të vëna në qarkullim, në përputhje me legjislacionin në fuqi, të regjistruara, qofshin në pronësi, me kontrata blerjeje me këste ose me qira;
 c) të drejtojë efektivisht dhe në vazhdimësi, me pajisje administrative të nevojshme, opera-cionet e saj në lidhje me mjetet e përmendura në shkronjën “b” të kësaj pike, në një qendër operative të vendosur në territorin e Republikës së Shqipërisë.
 KAPITULLI III
-Organet e transportit, shqyrtimi dhe regjistrimi i ndërmarrjeve
-1. Organet e transportit
-1.1 Organet e transportit dhe QKL-ja ushtrojnë funksionin e tyre, respektivisht në përputhje me dispozitat e ligjit nr.8308, datë 18.3.1998 “Për transportet rrugore”, të ndryshuar, ligjit 10 081, datë 23.2.2009 “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”, dispozitave të këtij vendimi e dispozitave të vendimit të Këshillit të Ministrave nr.538, datë 26.5.2009 “Për licencat dhe lejet që trajtohen nga apo nëpërmjet Qendrës Kombëtare të Licencimit (QKL) dhe disa rregullime të tjera nënligjore të përbashkëta.
+ORGANET E TRANSPORTIT, SHQYRTIMI DHE REGJISTRIMI I NDËRMARRJEVE
+1. ORGANET E TRANSPORTIT
+1.1 Organet e transportit dhe QKB-ja ushtrojnë funksionin e tyre, respektivisht në përputhje me dispozitat e ligjit nr.8308, datë 18.3.1998 “Për transportet rrugore”, të ndryshuar, ligjit 10 081, datë 23.2.2009 “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”, dispozitave të këtij vendimi e dispozitave të vendimit të Këshillit të Ministrave nr.538, datë 26.5.2009 “Për licencat dhe lejet që trajtohen nga apo nëpërmjet Qendra Kombëtare e Biznesit (QKB) dhe disa rregullime të tjera nënligjore të përbashkëta.
 1.2 Organet e transportit, sipas ligjit nr.8308, datë 18.3.1998, të ndryshuar, në bashkëpunim me organet e kontrollit në rrugë, sipas nenit 11 dhe 12 të ligjit nr.8378, datë 22.7.1998 “Kodi Rrugor i Republikës së Shqipërisë”, janë të detyruara të sigurojnë zbatimin e këtij vendimi.
 1.3 Organet e transportit, në veprimtarinë e transportit rrugor të mallrave dhe udhëtarëve, në përputhje me pikën 1.1 të këtij kapitulli, kanë kompetenca, për sa i përket:
 a) shqyrtimit të kërkesave të bëra nga ndërmarrjet;
@@ -143,7 +143,7 @@ c) deklarimit të një personi fizik të papërshtatshëm si drejtues të veprim
 2. Shqyrtimi dhe regjistrimi i ndërmarrjeve
 2.1 Kërkesa për licencim në veprimtarinë e transportit rrugor, për të tretë ose me qira, për mallra ose udhëtarë, paraqitet pranë organit të transportit të licencimit, sipas pikës 1.1 të këtij kapitulli.
 2.2 Ministria, me udhëzim, cakton të dhënat e nevojshme, që duhen për regjistrimin e një ndërmarrjeje nga organi i transportit, në përputhje me nenin 5 të ligjit nr.8308, datë 18.3.1998 “Për transportet rrugore”, të ndryshuar.
-2.3 Koha maksimale e lejuar për shqyrtimin e një kërkese për licencë të lëshuar nga organet e transportit dhe QKL-ja është respektivisht në përputhje me ligjin nr.8308, datë 18.3.1998, si dhe me vendimin e Këshillit të Ministrave nr.538, datë 26.5.2009”.
+2.3 Koha maksimale e lejuar për shqyrtimin e një kërkese për licencë të lëshuar nga organet e transportit dhe QKB-ja është respektivisht në përputhje me ligjin nr.8308, datë 18.3.1998, si dhe me vendimin e Këshillit të Ministrave nr.538, datë 26.5.2009”.
 2.4 Nëse organi i transportit nuk ka marrë vendim në afatin e caktuar sipas pikës 2.3 të këtij kapitulli, ajo do të konsiderohet e pranuar.
 2.5. Ndërmarrja, që e ushtron veprimtarinë në transportin rrugor, duhet, brenda 28 ditëve, të njoftojë organin e transportit, i cili e ka licencuar atë, për çdo ndryshim të të dhënave në pikën 2.2 të këtij kapitulli.
 3. Deklarimi i papërshtatshmërisë së drejtuesit të veprimtarisë
@@ -186,8 +186,8 @@ b) pezullimi ose heqja e licencës hyn në fuqi në fund të periudhës 21-ditor
 5. Ankimimi
 Në rastin kur organi i transportit refuzon një kërkesë për pranimin në veprimtarinë e operatorit të transportit rrugor, pezullon ose deklaron të papërshtatshëm për shkeljet e kryera nga ndërmarrja ose drejtuesi i veprimtarisë, ndërmarrja ose personi, që ka pësuar dënimin, ka të drejtë ta ankimojë vendimin e marrë nga organi i transportit, në bazë të ligjit nr.8485, datë 12.5.1999 “Kodi i Procedurave Administrative të Republikës së Shqipërisë”, si dhe për procedura të mëtejshme, ai mund të ankohet në rrugë gjyqësore, në përputhje me dispozitat e Kodit të Procedurës Civile.
 KAPITULLI IV
-Bashkëpunimi administrativ dhe shkëmbimi i informacionit
-1. Krijimi i regjistrit elektronik kombëtar
+BASHKËPUNIMI ADMINISTRATIV DHE SHKËMBIMI I INFORMACIONIT
+1. KRIJIMI I REGJISTRIT ELEKTRONIK KOMBËTAR
 1.1 Në zbatim të ligjit nr. 8308, datë 18.3.1998, “Për transportet rrugore”, të ndryshuar, krijohet regjistri elektronik kombëtar për ndërmarrjet e transportit rrugor. Regjistri përmban të dhënat lidhur me drejtuesit e veprimtarisë së transportit, drejtuesit e mjeteve, licencat dhe dokumentet e nevojshme për ushtrimin e veprimtarisë për të gjithë operatorët e transportit rrugor.
 1.2 Regjistri elektronik kombëtar vendoset në Drejtorinë e Përgjithshme të Shërbimeve të Transportit Rrugor. Të dhënat që përmban regjistri elektronik kombëtar trajtohen dhe mbikëqyren vetëm nga personat përgjegjës, të caktuar për këtë qëllim, në përputhje me legjislacionin për mbrojtjen e të dhënave personale”.
 1.3 Të gjitha ndërmarrjet e transportit rrugor, të vendosura në Shqipëri, janë të detyruara të regjistrohen në Regjistrin Elektronik Kombëtar të Transportit Rrugor.
@@ -207,231 +207,165 @@ e) emrin e çdo personi të deklaruar të papërshtatshëm në veprimtarinë e t
 2.1 Drejtoritë, të cilat mbulojnë transportin dhe qarkullimin rrugor, dhe Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor pranë MPPTT janë pika kontakti për shkëmbimin e informacionit të nevojshëm me shtetet e tjera në lidhje me ndërmarrjet e transportit rrugor të vendosura në Shqipëri në zbatim të këtij vendimi.
 2.2 Në rastin kur një operator transporti rrugor jorezident, që ka kryer shkelje, serioziteti i të cilave çon në heqjen e licencës në zbatim të këtij vendimi, pikat e kontaktit, sipas pikës 2.1 të këtij kapitulli, do t’i komunikojnë autoriteteve përgjegjëse të shtetit tjetër, të regjistrimit të operatorit të transportit rrugor, të gjithë informacionin që zotërojnë, si edhe për shkeljet dhe masat ndëshkimore që janë marrë ndaj tij, të cilat së bashku do të regjistrohen në përputhje me pikën 1.6 të këtij kapitulli.
 KAPITULLI V
-Ruajtja e të drejtave
-1. Të drejtat
+RUAJTJA E TË DREJTAVE
+1. TË DREJTAT
 1.1 Licencat sipas paragrafit të parë, të shkronjave “a” dhe “b” të pikës 2.1 të kapitullit I, të cilat janë lëshuar para datës së hyrjes në fuqi të këtij vendimi, do të mbeten të vlefshme deri në datën, për të cilën janë lëshuar.
 1.2 Kërkesat për licencim për fillimin ose vazhdimin e një biznesi transporti, të cilat janë paraqitur para kohës, në të cilën ky vendim ka hyrë në fuqi, do të trajtohen në përputhje me dispozitat e këtij vendimi, për aq sa për ato nuk janë marrë vendime, kur ky akt hyn në fuqi.
 1.3 Ndërmarrjet, të cilat kanë qenë të licencuara si operator i transportit rrugor, për të tretë ose me qira të mallrave ose udhëtarëve, brenda vendit ose ndërkombëtar, para datës së hyrjes në fuqi të këtij vendimi, do të pajtohen me dispozitat e këtij vendimi jo më vonë se dy vjet pas datës së hyrjes në fuqi.
 Ministria e Punëve Publike, Transportit dhe Telekomunikacionit dhe Ministria e Financave të nxjerrin e aktet nënligjore brenda 12 muajve nga hyrja në fuqi e tij.
 ANEKSI 1
 Për qëllime të kësaj rregulloreje do të përdoret përkufizimi si vijon:
-“Drejtuesi i veprimtarisë së transportit” nënkupton një person fizik të punësuar nga një ndërmarrje ose, kur kjo ndërmarrje është një person fizik, mund të jetë vetë personi fizik ose një person tjetër i caktuar prej tij me anën e një kontrate, i cili drejton efektivisht dhe në vazhdimësi veprimtaritë e transportit të ndërmarrjes.” (Pika IV, QKL).
+“Drejtuesi i veprimtarisë së transportit” nënkupton një person fizik të punësuar nga një ndërmarrje ose, kur kjo ndërmarrje është një person fizik, mund të jetë vetë personi fizik ose një person tjetër i caktuar prej tij me anën e një kontrate, i cili drejton efektivisht dhe në vazhdimësi veprimtaritë e transportit të ndërmarrjes.” (Pika IV, QKB).
 Tabela 1 e përputhshmërisë
-1. Direktiva e Këshillit 96/26/EC e 29 prillit 1996 “Për pranimin në aktivitetin e operatorit të transportit rrugor të mallrave dhe operatorëve të transportit rrugor të udhëtarëve dhe njohjen reciproke të diplomave, certifikatave dhe evidencave të tjera të kualifikimeve zyrtare të caktuara për lehtësimin për këta operatorë të drejtën e lirisë së vendosjes në operacionet e transportit kombëtar dhe ndërkombëtar”, botuar në Fletoren Zyrtare L.124, datë 23.5.1996, faqe 1, e amenduar nga direktiva 98/76/EC botuar në Fletoren Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 2004/66/EC, botuar në Fletoren Zyrtare L.168, datë 1.5.2004, faqe 33.
-Direktiva ka për qëllim unifikimin e kritereve cilësore që duhet të zbatohen nga të gjitha shtetet anëtare për pranimin në aktivitetin e operatorit të transportit rrugor, lirinë e vendosjes në ushtrimin e aktivitetit dhe njohjen reciproke të certifikatave të kualifikimit të drejtuesve të veprimtarive të këtyre operatorëve. Zbatimi i të gjitha detyrimeve që shpreh direktiva 96/26/EC janë objekt i ndryshimit të legjislacionit të vendit me qëllim krijimin e këtyre standardeve cilësore për operatorët e transportit shqiptar për t’u krijuar atyre akses të njëjtë në treg me operatorët e KE-së.
-2. Projektvendimi “Për pranimin në veprimtarinë e operatorit të transportit rrugor të mallrave dhe udhëtarëve, si dhe njohja e dokumenteve të caktuara për këta operatorë” është një akt ligjor i plotë për pranimin në veprimtarinë e operatorit të transportit rrugor, i cili buron nga ligji nr.8308, datë 22.7.1998 “Për transportet rrugore”, të ndryshuar. Projektvendimi, sipas MSA, është në përputhje me direktivën 96/26/KE, e amenduar nga direktiva 98/76/EC botuar në Fletoren Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 200/66/EC, botuar në Fletoren Zyrtare L.168, datë 1.5.2004, faqe 33.
-3. Ndryshimet që janë parashikuar të kryhen në projektvendim e përafrojnë atë pjesërisht me këtë direktivë. Shkalla e përafrimit, e pjesshme.
-Direktiva 96/26/KE
-a) Nenet dhe pjesë të legjislacionit të direktivës 96/26/KE-së
-b) Parashikimet e projektaktit
-c) Përputhja e projektaktit me legjislacionin e BE-së (i plotë; i pjesshëm; jo i aplikueshëm)
-d) Arsyet për përputhje të pjesshme
-e) Periudha e parashikuar për përputhje të plotë
-Neni 2, pika 1
-Kapitulli I, pika 1.2, shkronja “b”.
-E plotë
-Neni 2, pika 2, shkronja “a”, paragrafi i parë.
-Kapitulli I, pika 3.2, 3.3, 3.4 dhe 3.5
-E pjesshme
-Në përputhje me nenin 44 të ligjit nr.8308, datë 18.3.1998 “Për transportet rrugore”, të ndryshuar
-Neni 2, pika 2, shkronja “b”
-Neni 2, pika 3
-Kapitulli I, pika 3.6
-E plotë
-Neni 3, pika 1
-Kapitulli II, pika 1. Kërkesat që duhet të plotësohen për licencimin e operatorit të transportit rrugor
-E plotë
-Neni 3, pika 1, paragrafi i dytë
-Kapitulli II, pika 2.2 Kërkesat ndaj caktimit të drejtuesit të veprimtarisë së transportit në ndërmarrje kur është person fizik
-E pjesshme
-Neni 3, pika 1, paragrafi i tretë. Kur kandidati nuk është person fizik
-Kapitulli II, pika 2.1 Kërkesat ndaj caktimit të drejtuesit të veprimtarisë së transportit në ndërmarrje
-Neni 3, pika 2
-Kapitulli II, pika 3. Kushtet që duhet të plotësojë ndërmarrja për reputacionin e mirë
-E plotë
-Neni 3, pika 2, paragrafi i fundit
-Kapitulli II, pika 4. Rehabilitimi në rastin e shlyerjes së një dënimi për fillimin e veprimtarisë
-E plotë
-Neni 3, pika 3, shkronja “a”
-Kapitulli II, pika 5.1. Plotësimi i kërkesave për gjendjen financiare
-E plotë
-Neni 3, pika 3, shkronja “b”
-Kapitulli II, pika 5.2
-E plotë
-Neni 3, pika 3, shkronja “c”
-Kapitulli II, pika 5.3
-E pjesshme
-Neni 3, pika 3, shkronja “d”
-Kapitulli II, pika 5.2
-E plotë
-Neni 3, pika 4, shkronja “a”
-Kapitulli II, pika 6.1, 6.2, 6.3 dhe 7. Plotësimi i kërkesave për kompetencën profesionale
-E plotë
-Neni 3, pika 4, shkronja “b” dhe c”
-Kapitulli II, pika 8.1, 8.2
-E plotë
-Neni 3, pika 4, shkronja “d”
-Kapitulli II, pika 7.8
-E plotë
-Neni 4, paragrafi i parë
-Kapitulli III, pika 3.2 dhe 3.3. Procedura për lajmërimin dhe procedura për heqjen e licencës dhe deklarimi i papërshtatshëm i drejtuesit të veprimtarisë
-E pjesshme
-Neni 4, paragrafi i dytë
-Nuk përputhet
-Neni 5, pika 3
-Kapitulli II, pika 5.3 dhe 5.4
-E plotë
-Neni 6, pika 1
-Kapitulli III, pika 5.1 dhe 5.3. Refuzimi i një kërkese për licencimin si operator në transportin e mallrave për të tretë
-E pjesshme
-Neni 6, pika 1 paragrafi i dytë dhe i tretë. Kontrollet
-Kapitulli III, shkronja “c” e pikës 3.2
-E pjesshme
-Neni 6, pika 2
-E pjesshme (përputhet pjesërisht me ligjin nr.8308, datë 18.03.1998 “Për transportet rrugore”, të ndryshuar, neni 64, 65 dhe 67, të kreut VI
-Neni 6, pika 3
-Kapitulli III, pika 7 Ankimi
-E plotë
-Neni 7
-Kapitulli IV, pika 2. Autoritetet e ngarkuara për shkëmbimin e informacionit me shtetet e tjera në lidhje me kundërvajtjet e transportuesve jorezident
-E plotë
-Neni 8, pika 2
-Kapitulli II, pika 3.7
-E pjesshme
-Neni 8, pika 5
-Kapitulli II, pika 3.8
-E plotë
-Neni 9
-Kapitulli II, pika 5.5
-E plotë
-Neni 10, pika 1 dhe 2
-Kapitulli II, pika 8.4
-E pjesshme
-Neni 10 a
-Nuk përputhet
-Neni 10 b
-Kapitulli II, pika 8.4
-E plotë
-Neni 11
-Kapitulli II, pika 3.4 , 5.2 dhe 7.2
-E plotë
-Neni 12
-Neni 13
-Neni 14
-Aneksi I
-Aneksi 1
-E plotë
-Aneksi II
-Aneksi 2
-E plotë
-Aneksi Ia
-Aneksi 3
-E plotë
-Tabela 2 e përputhshmërisë
-1. Projektvendimi “Për pranimin në veprimtarinë e operatorit të transportit rrugor të mallrave dhe udhëtarëve” është një akti ligjor i plotë për pranimin në veprimtarinë e operatorit të transportit rrugor, i cili buron nga ligji nr.8308, datë 22.7.1998 “Për transportet rrugore”, të ndryshuar. Projektvendimi, sipas MSA, është në përputhje me direktivën 96/26/KE, e amenduar nga direktiva 98/76/EC, botuar në Fletoren Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 2004/66/EC, botuar në Fletoren Zyrtare L.168, datë 1.5.2004, faqe 33.
-2. Direktiva e Këshillit 96/26/EC e 29 prillit 1996 “Për pranimin në aktivitetin e operatorit të transportit rrugor të mallrave dhe operatorëve të transportit rrugor të udhëtarëve dhe njohjen reciproke të diplomave, certifikatave dhe evidencave të tjera të kualifikimeve zyrtare të caktuara për lehtësimin për këta operatorë të drejtën e lirisë së vendosjes në operacionet e transportit kombëtar dhe ndërkombëtar”, botuar në Fletoren Zyrtare L.124, datë 23.5.1996, faqe 1, e amenduar nga direktiva 98/76/EC botuar në Fletoren Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 2004/66/EC, botuar në Fletoren Zyrtare L.168, datë 1.5.2004, faqe 33.
-Direktiva ka për qëllim unifikimin e kritereve cilësore që duhet të zbatohen nga të gjitha shtetet anëtare për pranimin në aktivitetin e operatorit të transportit rrugor, lirinë e vendosjes në ushtrimin e aktivitetit dhe njohjen reciproke të certifikatave të kualifikimit të drejtuesve të veprimtarive të këtyre operatorëve. Zbatimi i të gjitha detyrimeve që shpreh direktiva 96/26/EC janë objekt i ndryshimit të legjislacionit.
-3. Ndryshimet që janë parashikuar të kryhen në projektvendim e përafrojnë atë pjesërisht me këtë direktivë.
-Projektvendimi “Për pranimin në veprimtarinë e operatorit të transportit rrugor të mallrave dhe udhëtarëve, si dhe njohja e dokumenteve të caktuara për këta operatorë”.
-a)
-b)
-c)
-d)
-e)
-Parashikimet e projektaktit
-Pjesë të legjislacionit të direktivës 96/26/KE-së që përafrohen
-Përputhja e projektaktit me legjislacionin e BE-së (i plotë; i pjesshëm, jo i aplikueshëm)
-Kapitulli I, pika 1.2, shkronja “b”
-Neni 2, pika 1
-E plotë
-Kapitulli I, pika 3.2, 3.3, 3.4 dhe 3.5
-Neni 2, pika 2, shkronja “a”, paragrafi i parë
-E pjesshme
-Kapitulli I, pika 3.6
-Neni 2, pika 3
-E plotë
-Kapitulli II, pika 1. Kërkesat që duhet të plotësohen për licencimin e operatorit të transportit rrugor
-Neni 3, pika 1
-E plotë
-Kapitulli II, pika 2.1. Kërkesat ndaj caktimit të drejtuesit të veprimtarisë së transportit në ndërmarrje
-Neni 3, pika 1, paragrafi tretë, kur ndërmarrja nuk është person fizik
-E pjesshme
-Kapitulli II, pika 2.2. Kërkesat ndaj caktimit të drejtuesit të veprimtarisë së transportit në ndërmarrje
-Neni 3, pika 1, është person fizik
-E pjesshme
-Kapitulli II, pika 3. Kushtet që duhet të plotësojë ndërmarrja për reputacionin e mirë
-Neni 3, pika 2
-E plotë
-Kapitulli II, pika 3.7 dhe 3.8
-Neni 8, pika 2, 3 dhe 5
-E plotë
-Kapitulli II, pika 4. Rehabilitimi në rastin e shlyerjes së një dënimi për fillimin e veprimtarisë
-Neni 3, pika 2, paragrafi i fundit
-E plotë
-Kapitulli II, pika 5. Plotësimi i kërkesave për gjendjen financiare
-Neni 3, pika 3, shkronja “a”
-E plotë
-Kapitulli II, pika 5.2
-Neni 3, pika 3, shkronja “b”
-E plotë
-Kapitulli II, pika 5.3
-Neni 3, pika 3, shkronja “c”
-E pjesshme
-Kapitulli II, pika 5.2
-Neni 3, pika 3, shkronja “d”
-E plotë
-Kapitulli II, pika 6.1, 6.2, 6.3 dhe 7. Plotësimi i kërkesave për kompetencën profesionale
-Neni 3, pika 4, shkronja “a”
-E plotë
-Kapitulli II, pika 8.1, 8.2
-Neni 3, pika 4, shkronja “b” dhe c”
-E plotë
-Kapitulli II, pika 7.8
-Neni 3, pika 4, shkronja “d”
-E plotë
-Kapitulli III, pika 4.2 dhe 4.3. Procedura për lajmërimin dhe procedura për heqjen e licencës dhe deklarimi i papërshtatshëm i drejtuesit të veprimtarisë
-Neni 4, paragrafi i parë
-E pjesshme
-Neni 4, paragrafi i dytë
-Nuk përputhet
-Kapitulli II, pika 5.3 dhe 5.4
-Neni 5, pika 3
-E plotë
-Kapitulli II, pika 3.7
-Neni 8, pika 2 dhe 3
-E pjesshme
-Kapitulli II, 5.5
-Neni 9
-E plotë
-Kapitulli II, pika 8.4
-Neni 10 b
-E pjesshme
-Kapitulli II, pika 8.4
-Neni 10, pika 1 dhe 2
-E pjesshme
-Kapitulli II, pika 3.4, 5.2 dhe 7.2
-Neni 11
-E plotë
-Kapitulli III, pika 5.1 dhe 5.3. Refuzimi i një kërkese për licencimin si operator në transportin e mallrave për të tretë
-Neni 6, pika 1
-E pjesshme
-Kapitulli III, pika 3.2 dhe 3.3
-Neni 6, pika 2
-E plotë
-Kapitulli III, pika 6. Ankimimi
-Neni 6, pika 3
-E plotë
-Kapitulli IV, pika 2. Autoritetet e ngarkuara për shkëmbimin e informacionit me shtetet e tjera në lidhje me kundërvajtjet e transportuesve jorezidentë
-Neni 7
-E plotë
-Kapitulli IV, pika 1. Regjistri elektronik
-Nuk ka përputhje
-Aneksi 1
-Aneksi I
-E plotë
-Aneksi 2
-Aneksi II
-E plotë
-Aneksi 3
-Aneksi Ia
-E plotë
+|1. Direktiva e Këshillit 96/26/EC e 29 prillit 1996 “Për pranimin në aktivitetin e operatorit të transportit rrugor të mallrave dhe operatorëve të transportit rrugor të udhëtarëve dhe njohjen reciproke të |
+|diplomave, certifikatave dhe evidencave të tjera të kualifikimeve zyrtare të caktuara për lehtësimin për këta operatorë të drejtën e lirisë së vendosjes në operacionet e transportit kombëtar dhe ndërkombëtar”, |
+|botuar në Fletoren Zyrtare L.124, datë 23.5.1996, faqe 1, e amenduar nga direktiva 98/76/EC botuar në Fletoren Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 2004/66/EC, botuar në Fletoren |
+|Zyrtare L.168, datë 1.5.2004, faqe 33. |
+|Direktiva ka për qëllim unifikimin e kritereve cilësore që duhet të zbatohen nga të gjitha shtetet anëtare për pranimin në aktivitetin e operatorit të transportit rrugor, lirinë e vendosjes në ushtrimin e |
+|aktivitetit dhe njohjen reciproke të certifikatave të kualifikimit të drejtuesve të veprimtarive të këtyre operatorëve. Zbatimi i të gjitha detyrimeve që shpreh direktiva 96/26/EC janë objekt i ndryshimit të |
+|legjislacionit të vendit me qëllim krijimin e këtyre standardeve cilësore për operatorët e transportit shqiptar për t’u krijuar atyre akses të njëjtë në treg me operatorët e KE-së. |
+|2. Projektvendimi “Për pranimin në veprimtarinë e operatorit të transportit rrugor të mallrave dhe udhëtarëve, si dhe njohja e dokumenteve të caktuara për këta operatorë” është një akt ligjor i plotë për |
+|pranimin në veprimtarinë e operatorit të transportit rrugor, i cili buron nga ligji nr.8308, datë 22.7.1998 “Për transportet rrugore”, të ndryshuar. Projektvendimi, sipas MSA, është në përputhje me direktivën |
+|96/26/KE, e amenduar nga direktiva 98/76/EC botuar në Fletoren Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 200/66/EC, botuar në Fletoren Zyrtare L.168, datë 1.5.2004, faqe 33. |
+|3. Ndryshimet që janë parashikuar të kryhen në projektvendim e përafrojnë atë pjesërisht me këtë direktivë. Shkalla e përafrimit, e pjesshme. |
+| Direktiva 96/26/KE | |
+|a) Nenet dhe pjesë të legjislacionit të direktivës |b) Parashikimet e projektaktit |c) Përputhja e projektaktit me legjislacionin |d) Arsyet për përputhje të |e) Periudha e parashikuar|
+|96/26/KE-së | |e BE-së (i plotë; i pjesshëm; jo i |pjesshme |për përputhje të plotë |
+| | |aplikueshëm) | | |
+|Neni 2, pika 1 |Kapitulli I, pika 1.2, shkronja “b”. |E plotë | | |
+|Neni 2, pika 2, shkronja “a”, paragrafi i parë. |Kapitulli I, pika 3.2, 3.3, 3.4 dhe 3.5 |E pjesshme |Në përputhje me nenin 44 të ligjit| |
+| | | |nr.8308, datë 18.3.1998 “Për | |
+| | | |transportet rrugore”, të ndryshuar| |
+|Neni 2, pika 2, shkronja “b” | | | | |
+|Neni 2, pika 3 |Kapitulli I, pika 3.6 |E plotë | | |
+|Neni 3, pika 1 |Kapitulli II, pika 1. Kërkesat që duhet të |E plotë | | |
+| |plotësohen për licencimin e operatorit të | | | |
+| |transportit rrugor | | | |
+|Neni 3, pika 1, paragrafi i dytë |Kapitulli II, pika 2.2 Kërkesat ndaj caktimit të |E pjesshme | | |
+| |drejtuesit të veprimtarisë së transportit në | | | |
+| |ndërmarrje kur është person fizik | | | |
+|Neni 3, pika 1, paragrafi i tretë. Kur kandidati |Kapitulli II, pika 2.1 Kërkesat ndaj caktimit të | | | |
+|nuk është person fizik |drejtuesit të veprimtarisë së transportit në | | | |
+| |ndërmarrje | | | |
+|Neni 3, pika 2 |Kapitulli II, pika 3. Kushtet që duhet të plotësojë|E plotë | | |
+| |ndërmarrja për reputacionin e mirë | | | |
+| Neni 3, pika 2, paragrafi i fundit |Kapitulli II, pika 4. Rehabilitimi në rastin e |E plotë | | |
+| |shlyerjes së një dënimi për fillimin e veprimtarisë| | | |
+|Neni 3, pika 3, shkronja “a” |Kapitulli II, pika 5.1. Plotësimi i kërkesave për |E plotë | | |
+| |gjendjen financiare | | | |
+|Neni 3, pika 3, shkronja “b” |Kapitulli II, pika 5.2 |E plotë | | |
+|Neni 3, pika 3, shkronja “c” |Kapitulli II, pika 5.3 |E pjesshme | | |
+|Neni 3, pika 3, shkronja “d” |Kapitulli II, pika 5.2 |E plotë | | |
+|Neni 3, pika 4, shkronja “a” |Kapitulli II, pika 6.1, 6.2, 6.3 dhe 7. Plotësimi i|E plotë | | |
+| |kërkesave për kompetencën profesionale | | | |
+|Neni 3, pika 4, shkronja “b” dhe c” |Kapitulli II, pika 8.1, 8.2 |E plotë | | |
+|Neni 3, pika 4, shkronja “d” |Kapitulli II, pika 7.8 |E plotë | | |
+|Neni 4, paragrafi i parë |Kapitulli III, pika 3.2 dhe 3.3. Procedura për |E pjesshme | | |
+| |lajmërimin dhe procedura për heqjen e licencës dhe | | | |
+| |deklarimi i papërshtatshëm i drejtuesit të | | | |
+| |veprimtarisë | | | |
+|Neni 4, paragrafi i dytë | |Nuk përputhet | | |
+|Neni 5, pika 3 |Kapitulli II, pika 5.3 dhe 5.4 |E plotë | | |
+|Neni 6, pika 1 |Kapitulli III, pika 5.1 dhe 5.3. Refuzimi i një |E pjesshme | | |
+| |kërkese për licencimin si operator në transportin e| | | |
+| |mallrave për të tretë | | | |
+|Neni 6, pika 1 paragrafi i dytë dhe i tretë. |Kapitulli III, shkronja “c” e pikës 3.2 |E pjesshme | | |
+|Kontrollet | | | | |
+|Neni 6, pika 2 | |E pjesshme (përputhet pjesërisht me ligjin | | |
+| | |nr.8308, datë 18.03.1998 “Për transportet | | |
+| | |rrugore”, të ndryshuar, neni 64, 65 dhe 67, të| | |
+| | |kreut VI | | |
+|Neni 6, pika 3 |Kapitulli III, pika 7 Ankimi |E plotë | | |
+|Neni 7 |Kapitulli IV, pika 2. Autoritetet e ngarkuara për |E plotë | | |
+| |shkëmbimin e informacionit me shtetet e tjera në | | | |
+| |lidhje me kundërvajtjet e transportuesve jorezident| | | |
+|Neni 8, pika 2 |Kapitulli II, pika 3.7 |E pjesshme | | |
+|Neni 8, pika 5 |Kapitulli II, pika 3.8 |E plotë | | |
+|Neni 9 |Kapitulli II, pika 5.5 |E plotë | | |
+|Neni 10, pika 1 dhe 2 |Kapitulli II, pika 8.4 |E pjesshme | | |
+|Neni 10 a | |Nuk përputhet | | |
+|Neni 10 b |Kapitulli II, pika 8.4 |E plotë | | |
+|Neni 11 |Kapitulli II, pika 3.4 , 5.2 dhe 7.2 |E plotë | | |
+|Neni 12 | | | | |
+|Neni 13 | | | | |
+|Neni 14 | | | | |
+|Aneksi I |Aneksi 1 |E plotë | | |
+|Aneksi II |Aneksi 2 |E plotë | | |
+|Aneksi Ia |Aneksi 3 |E plotë | | |
+| |
+| |
+| |
+| |
+| |
+|Tabela 2 e përputhshmërisë |
+|1. Projektvendimi “Për pranimin në veprimtarinë e operatorit të transportit rrugor të mallrave dhe udhëtarëve” është një akti ligjor i plotë për pranimin në veprimtarinë e operatorit të transportit rrugor, i |
+|cili buron nga ligji nr.8308, datë 22.7.1998 “Për transportet rrugore”, të ndryshuar. Projektvendimi, sipas MSA, është në përputhje me direktivën 96/26/KE, e amenduar nga direktiva 98/76/EC, botuar në Fletoren |
+|Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 2004/66/EC, botuar në Fletoren Zyrtare L.168, datë 1.5.2004, faqe 33. |
+|2. Direktiva e Këshillit 96/26/EC e 29 prillit 1996 “Për pranimin në aktivitetin e operatorit të transportit rrugor të mallrave dhe operatorëve të transportit rrugor të udhëtarëve dhe njohjen reciproke të |
+|diplomave, certifikatave dhe evidencave të tjera të kualifikimeve zyrtare të caktuara për lehtësimin për këta operatorë të drejtën e lirisë së vendosjes në operacionet e transportit kombëtar dhe ndërkombëtar”, |
+|botuar në Fletoren Zyrtare L.124, datë 23.5.1996, faqe 1, e amenduar nga direktiva 98/76/EC botuar në Fletoren Zyrtare L.277, datë 14.10.1998, faqe 17, amenduar nga direktiva 2004/66/EC, botuar në Fletoren |
+|Zyrtare L.168, datë 1.5.2004, faqe 33. |
+|Direktiva ka për qëllim unifikimin e kritereve cilësore që duhet të zbatohen nga të gjitha shtetet anëtare për pranimin në aktivitetin e operatorit të transportit rrugor, lirinë e vendosjes në ushtrimin e |
+|aktivitetit dhe njohjen reciproke të certifikatave të kualifikimit të drejtuesve të veprimtarive të këtyre operatorëve. Zbatimi i të gjitha detyrimeve që shpreh direktiva 96/26/EC janë objekt i ndryshimit të |
+|legjislacionit. |
+|3. Ndryshimet që janë parashikuar të kryhen në projektvendim e përafrojnë atë pjesërisht me këtë direktivë. |
+|Projektvendimi “Për pranimin në veprimtarinë e operatorit të transportit rrugor të mallrave dhe udhëtarëve, si dhe njohja e dokumenteve të caktuara për këta operatorë”. |
+|a) |b) |c) |d) |e) |
+|Parashikimet e projektaktit |Pjesë të legjislacionit të direktivës 96/26/KE-së |Përputhja e projektaktit me legjislacionin e | | |
+| |që përafrohen |BE-së (i plotë; i pjesshëm, jo i aplikueshëm) | | |
+|Kapitulli I, pika 1.2, shkronja “b” |Neni 2, pika 1 |E plotë | | |
+|Kapitulli I, pika 3.2, 3.3, 3.4 dhe 3.5 |Neni 2, pika 2, shkronja “a”, paragrafi i parë |E pjesshme | | |
+|Kapitulli I, pika 3.6 |Neni 2, pika 3 |E plotë | | |
+|Kapitulli II, pika 1. Kërkesat që duhet të |Neni 3, pika 1 |E plotë | | |
+|plotësohen për licencimin e operatorit të | | | | |
+|transportit rrugor | | | | |
+|Kapitulli II, pika 2.1. Kërkesat ndaj caktimit të |Neni 3, pika 1, paragrafi tretë, kur ndërmarrja nuk|E pjesshme | | |
+|drejtuesit të veprimtarisë së transportit në |është person fizik | | | |
+|ndërmarrje | | | | |
+|Kapitulli II, pika 2.2. Kërkesat ndaj caktimit të |Neni 3, pika 1, është person fizik |E pjesshme | | |
+|drejtuesit të veprimtarisë së transportit në | | | | |
+|ndërmarrje | | | | |
+|Kapitulli II, pika 3. Kushtet që duhet të plotësojë|Neni 3, pika 2 |E plotë | | |
+|ndërmarrja për reputacionin e mirë | | | | |
+|Kapitulli II, pika 3.7 dhe 3.8 |Neni 8, pika 2, 3 dhe 5 |E plotë | | |
+|Kapitulli II, pika 4. Rehabilitimi në rastin e |Neni 3, pika 2, paragrafi i fundit |E plotë | | |
+|shlyerjes së një dënimi për fillimin e veprimtarisë| | | | |
+|Kapitulli II, pika 5. Plotësimi i kërkesave për |Neni 3, pika 3, shkronja “a” |E plotë | | |
+|gjendjen financiare | | | | |
+|Kapitulli II, pika 5.2 |Neni 3, pika 3, shkronja “b” |E plotë | | |
+|Kapitulli II, pika 5.3 |Neni 3, pika 3, shkronja “c” |E pjesshme | | |
+|Kapitulli II, pika 5.2 |Neni 3, pika 3, shkronja “d” |E plotë | | |
+| | | | | |
+|Kapitulli II, pika 6.1, 6.2, 6.3 dhe 7. Plotësimi i|Neni 3, pika 4, shkronja “a” |E plotë | | |
+|kërkesave për kompetencën profesionale | | | | |
+|Kapitulli II, pika 8.1, 8.2 |Neni 3, pika 4, shkronja “b” dhe c” |E plotë | | |
+|Kapitulli II, pika 7.8 |Neni 3, pika 4, shkronja “d” |E plotë | | |
+|Kapitulli III, pika 4.2 dhe 4.3. Procedura për |Neni 4, paragrafi i parë |E pjesshme | | |
+|lajmërimin dhe procedura për heqjen e licencës dhe | | | | |
+|deklarimi i papërshtatshëm i drejtuesit të | | | | |
+|veprimtarisë | | | | |
+| |Neni 4, paragrafi i dytë |Nuk përputhet | | |
+|Kapitulli II, pika 5.3 dhe 5.4 |Neni 5, pika 3 |E plotë | | |
+|Kapitulli II, pika 3.7 |Neni 8, pika 2 dhe 3 |E pjesshme | | |
+|Kapitulli II, 5.5 |Neni 9 |E plotë | | |
+|Kapitulli II, pika 8.4 |Neni 10 b |E pjesshme | | |
+|Kapitulli II, pika 8.4 |Neni 10, pika 1 dhe 2 |E pjesshme | | |
+|Kapitulli II, pika 3.4, 5.2 dhe 7.2 |Neni 11 |E plotë | | |
+|Kapitulli III, pika 5.1 dhe 5.3. Refuzimi i një |Neni 6, pika 1 |E pjesshme | | |
+|kërkese për licencimin si operator në transportin e| | | | |
+|mallrave për të tretë | | | | |
+|Kapitulli III, pika 3.2 dhe 3.3 |Neni 6, pika 2 |E plotë | | |
+|Kapitulli III, pika 6. Ankimimi |Neni 6, pika 3 |E plotë | | |
+|Kapitulli IV, pika 2. Autoritetet e ngarkuara për |Neni 7 |E plotë | | |
+|shkëmbimin e informacionit me shtetet e tjera në | | | | |
+|lidhje me kundërvajtjet e transportuesve | | | | |
+|jorezidentë | | | | |
+|Kapitulli IV, pika 1. Regjistri elektronik | |Nuk ka përputhje | | |
+|Aneksi 1 |Aneksi I |E plotë | | |
+|Aneksi 2 |Aneksi II |E plotë | | |
+|Aneksi 3 |Aneksi Ia |E plotë | | |
+-----------------------
+[1] VKM nr. 325, datë 19.3.2008 është botuar në Fletoren Zyrtare nr. 49, datë 11 prill 2008.
+VKM nr. 194, datë 9.3.2011 është botuar në Fletoren Zyrtare nr. 40, datë 17 prill 2011.
+VKM nr. 520, datë 13.7.2016 është botuar në Fletoren Zyrtare nr. 135, datë 22 korrik 2016.
+VKM nr. 53, datë 6.2.2019 është botuar në Fletoren Zyrtare nr. 15, datë 12 shkurt 2019.
