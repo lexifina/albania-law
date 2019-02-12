@@ -1,0 +1,1 @@
+8. Procesi i nënzonimit të zonës së mbrojtur mjedisore drejtohet nga ministria përgjegjëse për mjedisin dhe Agjencia Kombëtare e Zonave të Mbrojtura, në bashkëpunim me specialistë të fushës, institucione lokale ose qendrore, të gjithë aktorët e interesuar dhe organizatat e shoqërisë civile në nivel lokal ose kombëtar.
