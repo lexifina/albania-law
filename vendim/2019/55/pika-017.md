@@ -1,0 +1,1 @@
+17. Revokimi i autorizimit i njoftohet organizatës jofitimprurëse, si dhe publikohet në faqen zyrtare të Drejtorisë së Ndihmës Juridike Falas. Kundër këtij vendimi mund të bëhet ankim në gjykatën administrative kompetente.

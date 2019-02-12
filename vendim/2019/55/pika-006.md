@@ -1,0 +1,1 @@
+6. Aplikimi për autorizim i shoqëruar me dokumentacionin e përcaktuar në pikën 5 të këtij vendimi dorëzohet pranë Drejtorisë së Ndihmës Juridike Falas, e cila vlerëson nëse aplikimi është kryer brenda afatit të caktuar në njoftim, shqyrton përmbushjen e kritereve ligjore dhe verifikon dokumentacionin e dorëzuar.

@@ -1,0 +1,1 @@
+9. Procedura e verifikimit të kritereve ligjore dhe e vlerësimit të aplikimit për autorizim bëhet në përputhje me parashikimet e Kodit të Procedurave Administrative. Procedura e shqyrtimit të aplikimit zhvillohet brenda një afati të arsyeshëm, por, në çdo rast, jo më vonë se 60 (gjashtëdhjetë) ditë nga data e përfundimit të afatit të njoftimit, sipas pikës 4 të këtij vendimi.

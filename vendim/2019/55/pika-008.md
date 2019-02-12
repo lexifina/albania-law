@@ -1,0 +1,1 @@
+8. Në rast të konstatimit të mungesës së dokumentacionit, Drejtoria e Ndihmës Juridike Falas njofton aplikuesin për dorëzimin e dokumentacionit plotësues brenda 10 (dhjetë) ditëve pune nga data e njoftimit. Mossjellja e dokumentacionit plotësues brenda këtij afati passjell skualifikimin.

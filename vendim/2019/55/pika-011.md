@@ -1,0 +1,1 @@
+11. Propozimi i shoqëruar me relacionin vlerësues i paraqitet ministrit të Drejtësisë, i cili, brenda 10 (dhjetë) ditëve pune nga data e përfundimit të procedurës së verifikimit dhe vlerësimit të aplikimit, miraton ose jo dhënien e autorizimit.

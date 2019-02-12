@@ -1,0 +1,1 @@
+15. Ministria e Drejtësisë publikon listën e organizatave jofitimprurëse të autorizuara që ofrojnë shërbime të ndihmës juridike parësore në faqen zyrtare të Ministrisë së Drejtësisë, listë e cila hartohet dhe përditësohet nga Drejtoria e Ndihmës Juridike Falas mbi bazën e të dhënave të regjistrit që mban kjo drejtori.

@@ -1,0 +1,1 @@
+3. Kriteret ligjore, që duhet të përmbushin organizatat jofitimprurëse që autorizohen për dhënien e shërbimeve të ndihmës juridike parësore të garantuar nga shteti, janë ato të përcaktuara në nenin 15, të ligjit nr. 111/2017, “Për ndihmën juridike të garantuar nga shteti”.

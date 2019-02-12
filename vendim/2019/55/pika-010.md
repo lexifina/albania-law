@@ -1,0 +1,1 @@
+10. Drejtoria e Ndihmës Juridike Falas verifikon dokumentacionin e paraqitur nga aplikuesit për marrjen e autorizimit dhe, në përfundim, përgatit një relacion vlerësues për secilën organizatë jofitimprurëse që ka aplikuar. Relacioni përmban të dhënat e dokumentacionit të paraqitur, vlerësimin mbi përmbushjen ose jo të kritereve ligjore dhe propozimin përkatës.
