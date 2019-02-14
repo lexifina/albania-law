@@ -1,1 +1,0 @@
-7. Ministri miraton procedurat e shitjes me ankand të mjeteve të konfiskuara të kategorizuara sipas pikës 4/a të këtij udhëzimi, ndërsa procedurat e shitjes me ankand të mjeteve të konfiskuara sipas pikës 4/b të këtij udhëzimi, miratohen nga drejtori i përgjithshëm i Rezervave Materiale të Shtetit.
