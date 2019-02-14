@@ -1,0 +1,1 @@
+9. Udhëzimi nr. 75, datë 13.3.2014, i ministrit të Brendshëm, “Për procedurat që ndiqen për administrimin e automjeteve dhe motomjeteve që kalojnë në rezervat materiale të shtetit si pasojë e konfiskimit”, shfuqizohet.

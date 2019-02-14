@@ -1,0 +1,1 @@
+4. Plotësimi i dokumentacionit realizohet nga Drejtoria Vendore e Policisë, brenda 10 ditëve nga konfiskimi i mjetit. Mosplotësimi i dokumentacionit brenda këtij afati ose dorëzimi/marrja me mangësi i dokumentacionit të dosjes së mjetit përbën shkelje disiplinore dhe ndaj personave përgjegjës të fillojë ecuria disiplinore në bazë të legjislacionit në fuqi.
