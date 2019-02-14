@@ -1,0 +1,1 @@
+7. Institucioni përgjegjës për sigurimin e cilësisë në arsimin parauniversitar (IPSCAP) monitoron procesin e vlerësimit të arritjeve të nxënësve të arsimit fillor dhe raporton për çdo parregullsi të vërejtur gjatë zhvillimit të tij.
