@@ -1,0 +1,2 @@
+10. Ngarkohet Sekretari i Përgjithshëm, Drejtoria e Miradministrimit të Burimeve Njerëzore, Aseteve dhe Shërbimeve, Sektori i Ankesave Administrative dhe Gjyqësore, Sektori i Këshillimit Ligjor dhe Monitorimit të Impaktit të Akteve Rregullatore, institucionet e varësisë së Ministrisë së Turizmit dhe Mjedisit, për zbatimin e këtij urdhri.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

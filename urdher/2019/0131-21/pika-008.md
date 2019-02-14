@@ -1,0 +1,1 @@
+8. Ngarkohet Sektori i Burimeve Njerëzore dhe i Arkiv-Protokollit për vënien në dispozicion të dokumenteve të nevojshme me qëllim paraqitjen e tyre konfom ligjit, në cilësinë e provave materiale për proceset gjyqësore.
