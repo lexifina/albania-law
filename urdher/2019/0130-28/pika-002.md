@@ -1,0 +1,1 @@
+2. Ndryshimet e SKK 2 dhe SKK 9, të përmirësuar, të publikuara në vitin 2018, do të zbatohen në pasqyrat financiare që mbulojnë periudhat kontabël që fillojnë më ose pas datës 1.1.2019. Ndryshimet zbatohen në prospektivë.

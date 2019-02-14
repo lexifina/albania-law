@@ -1,0 +1,1 @@
+1. Shpalljen e ndryshimeve të Standardit Kombëtar të Kontabilitetit nr. 2 “Paraqitja e pasqyrave financiare (SKK2)” dhe të Standardit Kombëtar të Kontabilitetit nr. 9 “Kombinimet e bizneseve dhe konsolidimi” (SKK9).
