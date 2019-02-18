@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të Kryeinspektorit të Inspektoratit Shtetëror të Mbikëqyrjes së Tregut znj. Valbona Jaupllari, me detyrën Drejtore e Drejtorisë Teknike në Inspektoratin Shtetëror të Mbikëqyrjes së Tregut.
