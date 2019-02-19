@@ -1,0 +1,1 @@
+7. FSHZHD-ja ka planin e vet të llogarive, të emërtuar dhe kodifikuar sipas legjislacionit në fuqi, në funksion të regjistrimit të transaksioneve sipas llojit, kategorisë, burimit të financimit dhe destinacionit të përdorimit të fondeve të krijuara.

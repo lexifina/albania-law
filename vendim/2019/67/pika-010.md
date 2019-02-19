@@ -1,0 +1,1 @@
+10. Llogaritë bankare, të përfituara sipas shkronjës “b”, të pikës 1, të nenit 7, të ligjit nr. 32/2018, “Për Fondin Shqiptar për Zhvillimin e Diasporës”, për fondet nga buxheti i shtetit për projektet e financuara nga Këshilli i Ministrave, çelen sipas parashikimeve të legjislacionit në fuqi për fondet buxhetore.

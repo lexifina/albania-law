@@ -1,0 +1,1 @@
+11. Llogaritë bankare, për të gjitha të ardhurat e tjera të krijuara sipas pikës 1, të nenit 7, të ligjit nr. 32/2018, “Për Fondin Shqiptar për Zhvillimin e Diasporës”, çelen nga vetë FSHZHD-ja, me përjashtim të rastit kur parashikohet ndryshe në ligj.
