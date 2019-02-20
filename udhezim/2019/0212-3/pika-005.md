@@ -1,0 +1,1 @@
+5. Në çdo njësi arsimore vendore përgjegjëse për arsimin parauniversitar, procesi i testimit të nxënësve të klasave të bashkuara të arsimit bazë II-IX monitorohet nga përfaqësuesit e Ministrisë së Arsimit, Sportit dhe Rinisë (MASR).

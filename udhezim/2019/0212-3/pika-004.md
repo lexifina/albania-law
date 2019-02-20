@@ -1,0 +1,1 @@
+4. Institucionet arsimore vendore përgjegjëse për arsimin parauniversitar (DAR/ZA) të caktojnë numrin e administratorëve përgjegjës për zhvillimin e testimit të nxënësve të klasave të bashkuara II-IX për çdo institucion arsimor, ku do të zhvillohet testimi.
