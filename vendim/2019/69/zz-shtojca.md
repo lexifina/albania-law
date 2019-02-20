@@ -1,0 +1,78 @@
+# Shtojca
+ANEKSI I
+ZONA KADASTRALE NR. 3934
+ZHUPAN FIER
+BASHKIA FIER
+ZONA E PROJEKTIT
+Nr.
+Nr. pasurie
+Sip. m2
+Harta sipas Nomenklaturës
+Pronari
+1
+115/13
+96.00
+K-34-112-(210-D)
+Shtet
+2
+115/14
+611.00
+K-34-112-(210-D)
+Shtet
+3
+115/15
+147.00
+K-34-112-(210-D)
+Shtet
+4
+115/16
+1,153.00
+K-34-112-(210-D)
+Shtet
+5
+115/29
+230.00
+K-34-112-(210-D)
+Shtet
+6
+115/30
+264.00
+K-34-112-(210-D)
+Shtet
+7
+115/31
+208.00
+K-34-112-(210-D)
+Shtet
+8
+115/32
+191.00
+K-34-112-(210-D)
+Shtet
+9
+115/33
+383.00
+K-34-112-(210-D)
+Shtet
+10
+115/56
+109.00
+K-34-112-(210-D)
+Shtet
+11
+115/82
+12,514.00
+K-34-112-(210-D)
+Shtet
+12
+115/84
+12,000.00
+K-34-112-(210-D)
+Shtet
+13
+115/117
+21,441.00
+K-34-112-(210-D)
+Shtet
+TOTALI
+49,347.00 m2

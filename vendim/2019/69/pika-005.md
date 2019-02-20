@@ -1,0 +1,1 @@
+5. Aplikimi për leje/licenca/autorizime për realizimin e investimit strategjik “Fabrikë për prodhimin e sistemeve dhe pjesëve elektrike për automobilë” realizohet sipas legjislacionit të investimeve strategjike.

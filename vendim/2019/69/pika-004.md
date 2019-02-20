@@ -1,0 +1,1 @@
+4. E drejta e përdorimit të tokës shtetërore, të kategorisë së resursit “truall” nga ana e investitorit strategjik YURA Corporation Albania NUIS/NIPT: L81717032D, detyrimet dhe kushtet e përdorimit bazohen në vendimin nr. 14/3, datë 12.2.2019, të Komitetit të Investimeve Strategjike.

@@ -1,0 +1,1 @@
+2. Pasuria e paluajtshme shtetërore, e përmendur në pikën 1, të këtij vendimi, të vihet në dispozicion për zhvillimin dhe realizimin e projektit investues strategjik “Fabrikë për prodhimin e sistemeve dhe pjesëve elektrike për automobilë”, me subjekt investues YURA Corporation Albania NUIS/NIPT: L81717032D.
