@@ -1,0 +1,1 @@
+2. Standardi Kombëtar i Kontabilitetit nr. 15, i përmirësuar, do të zbatohet në pasqyrat financiare që mbulojnë periudhën kontabël që fillon më ose pas datës 1.1.2019. Ndryshimet zbatohen në prospektivë.
