@@ -1,0 +1,1 @@
+3. Në institucionin arsimor privat, parauniversitar, “Shkolla Finlandeze”, Tiranë, mësimi do të zhvillohet në gjuhë të huaj (në gjuhën angleze). Në lëndët si gjuhë shqipe, letërsi shqipe, historia e kombit shqiptar dhe gjeografia e Shqipërisë, mësimi do të zhvillohet, detyrimisht, në gjuhën shqipe.

@@ -1,0 +1,1 @@
+7. Institucioni arsimor privat, parauniversitar, “Shkolla Finlandeze”, Tiranë, duhet të miratojë në Ministrinë e Arsimit, Sportit dhe Rinisë çdo ndryshim në planin mësimor, programet e lëndëve apo tekstet që do të përdorë, si dhe çdo projekt apo eksperimentim psiko-padagogjiko-didaktik që kërkon të kryejë, sipas rastit.
