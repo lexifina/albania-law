@@ -1,0 +1,1 @@
+1. Ekuivalentimin e gradave të Forcave të Armatosura të Republikës së Shqipërisë, sipas ligjit nr. 59/2014, “Për karrierën ushtarake në Forcat e Armatosura të Republikës së Shqipërisë”, me gradat e Policisë së Shtetit, sipas ligjit nr. 108/2014, “Për Policinë e Shtetit”, të ndryshuar, sipas lidhjes nr. , që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
