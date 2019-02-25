@@ -1,0 +1,1 @@
+1. Numri i punonjësve të Ministrisë së Brendshme, për vitin 2019, shtohet me 100 (njëqind) punonjës për Policinë e Shtetit, duke e çuar numrin e përgjithshëm të këtij institucioni në 14 249 (katërmbëdhjetë mijë e dyqind e dyzet e nëntë) punonjës.

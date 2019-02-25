@@ -1,0 +1,1 @@
+2. Numri i punonjësve të Ministrisë së Mbrojtjes, për vitin 2019, reduktohet me 100 (njëqind) punonjës, duke e çuar numrin e përgjithshëm të këtij institucioni në 8 866 (tetë mijë e tetëqind e gjashtëdhjetë e gjashtë) punonjës.
