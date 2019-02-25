@@ -1,0 +1,1 @@
+1. Lejimin e dhënies me qira, me tarifë të reduktuar, të sallës së koncerteve të Pallatit të Kongreseve, Teatrit Kombëtar të Operës, Baletit dhe Ansamblit Popullor për zhvillimin e aktiviteteve të tij artistike deri në përfundim të rikonstruksionit të mjediseve të këtij teatri.
