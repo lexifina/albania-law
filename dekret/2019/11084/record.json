@@ -1,0 +1,26 @@
+{
+  "qbz_id": 61751,
+  "title": "Për një ndryshim në dekretin nr. 11065, datë 24.1.2019, “Për lejimin e lënies së shtetësisë shqiptare”",
+  "type": "Dekret",
+  "kind": "Akt ndryshues",
+  "number": "11084",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2019-02-21",
+  "published": "2019-02-26",
+  "in_force": "2019-02-26",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ba71a36014957d05608d206109c261685cfe99c1d8a1b7f90654dc1635add567.docx",
+  "source_sha256": "ba71a36014957d05608d206109c261685cfe99c1d8a1b7f90654dc1635add567",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61751",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2019/02/21/11084",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
