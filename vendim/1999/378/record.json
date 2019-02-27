@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123702,
+  "title": "PËR KALIMIN E SË DREJTËS TË PËRFAQËSUESIT TË PRONARIT PËR DISA OBJEKTE PRONË PUBLIKE, ORGANEVE TË QEVERISJES VENDORE",
+  "type": "Vendim",
+  "number": "378",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1999-08-12",
+  "version_no": 1,
+  "qbz_version_id": 10818,
+  "in_force": "2019-02-27",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-02-27",
+  "changed_by_qbz_id": 61841,
+  "changed_by_number": "92",
+  "changed_by_title": "Për një ndryshim në vendimin nr. 378, datë 12.8.1999, të Këshillit të Ministrave, “Për kalimin e së drejtës së përfaqësuesit të pronarit për disa objekte, pronë publike, organeve të qeverisjes vendore”, të ndryshuar",
+  "source": "https://qbz.gov.al/files/5dcf54af22958dd52c2c26ead99e67a33f85eddbd3dc805135dbfd35496e4b18.docx",
+  "source_sha256": "5dcf54af22958dd52c2c26ead99e67a33f85eddbd3dc805135dbfd35496e4b18",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123702",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123702/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
