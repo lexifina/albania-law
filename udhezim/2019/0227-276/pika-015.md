@@ -1,0 +1,1 @@
+15. Numri i aplikantëve fitues është i barabartë me numrin e funksioneve të lira, sipas kuotës së parashikuar në Marrëveshjen “Për pranimin e ushtarakëve të Forcave të Armatosura në Policinë e Shtetit, për vitin 2019”, të shpallura për konkurrim, në fillim të procesit.

@@ -1,0 +1,1 @@
+2. Kriteret e pranimit të ushtarakëve aktivë të Forcave të Armatosura të Republikës së Shqipërisë, për plotësimin e nevojave të veçanta në Policinë e Shtetit, në rolin zbatues, janë ato të përcaktuara në nenin 38, pika 2, e ligjit nr.108/2014 “Për Policinë e Shtetit”, i ndryshuar dhe të veçanta, sipas pikës 3, të këtij udhëzimi.

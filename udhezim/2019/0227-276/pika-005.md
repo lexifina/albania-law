@@ -1,0 +1,1 @@
+5. Pranimi i ushtarakëve të Forcave të Armatosura të Republikës së Shqipërisë, për plotësimin e nevojave të veçanta, në Policinë e Shtetit, realizohet nëpërmjet një procesi konkurrimi, i cili shpallet me urdhër të drejtorit të përgjithshëm të Policisë së Shtetit.

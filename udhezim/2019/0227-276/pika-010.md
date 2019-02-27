@@ -1,0 +1,1 @@
+10. Hartimi i pyetjeve të intervistës me gojë, formulari i pyetjeve për intervistën dhe formulari i vlerësimit për çdo aplikant, bëhen nga një komision i veçantë, me urdhër të drejtorit të përgjithshëm të Policisë së Shtetit.

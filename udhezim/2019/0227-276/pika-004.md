@@ -1,0 +1,1 @@
+4. Funksionet policore që do të plotësohen nga ushtarakët e përzgjedhur nga Forcat e Armatosura përcaktohen nga drejtori i përgjithshëm i Policisë së Shtetit, mbi bazën e nevojave në strukturat e veçanta të Policisë së Shtetit.

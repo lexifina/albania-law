@@ -1,0 +1,1 @@
+12. Në përfundim të procedurave të verifikimit dhe të vlerësimit, kandidatët renditen në listën përfundimtare, duke filluar nga kandidati me rezultatin më të lartë, e cila i paraqitet drejtorit të përgjithshëm të Policisë së Shtetit.
