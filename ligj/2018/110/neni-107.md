@@ -1,0 +1,7 @@
+# Neni 107
+Ndreqja e gabimeve në aktet dhe veprimet noteriale
+1. Në aktin noterial lejohet të bëhen ndreqje në rastet kur:
+a) noteri konstaton gabime materiale, të cilat nuk cenojnë përmbajtjen thelbësore të aktit. Në këtë rast, noteri procedon me fshirjen dhe shkruan qartë mbi pjesën e fshirë, ku vendos edhe nënshkrimin e tij dhe vulën e njomë, ose realizon korrigjimin me anë të një shtese në një vërtetim të veçantë për ndreqje gabimi, i cili i bashkëngjitet origjinalit. Të gjitha palët që kanë marrë kopje të origjinalit, duhet të informohen mbi korrigjimin e kryer;
+b) nëse lind nevoja për të hequr, shtuar, ndryshuar gabimet e konstatuara në aktin apo veprimin noterial përkatës, ndryshimi i të cilave është thelbësor për përmbajtjen e aktit apo veprimit noterial, ato vihen në kllapa, nënvizohen dhe në vijim përmendet dhe specifikohet ndryshimi i bërë dhe përmbajtja e hequr. Përbri tyre nënshkruajnë palët dhe noteri. Në rastin e lëshimit të dëshmisë së trashëgimisë, nënshkruan kërkuesi;
+c) në të gjitha rastet e parashikuara në pikat 1 dhe 2, të këtij neni, fjalët apo fjalia e hequr nuk ka vlerë juridike dhe nuk merret parasysh në tërësinë e aktit. Kur akti përbëhet nga disa faqe, ato duhen numëruar e lidhur, duke specifikuar edhe numrin përkatës të faqeve.
+2. Rregulla të detajuara për ndreqjen e gabimeve në aktet dhe veprimet noteriale përcaktohen në udhëzimin e ministrit të Drejtësisë, me propozim të Dhomës Kombëtare të Noterisë.

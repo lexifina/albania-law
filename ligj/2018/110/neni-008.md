@@ -1,0 +1,10 @@
+# Neni 8
+Kandidatët për noter
+1. Çdo person që plotëson kushtet e parashikuara në shkronjat “a”, “b”, “c”, “ç”, dhe “d”, të nenit 5, të këtij ligji, mund të bëhet kandidat për noter.
+2. Pranë çdo noteri nuk mund të ketë më shumë se dy kandidatë për noterë. Kandidati për noter nuk mund të jetë bashkëshort ose i afërt deri në shkallë të dytë me noterin pranë të cilit punon.
+3. Noteri siguron që të gjithë kandidatët e punësuar pranë tij marrin një trajnim të përshtatshëm dhe gjithëpërfshirës praktik. Nën mbikëqyrjen dhe drejtimin e noterit, kandidatët fitojnë njohuri dhe aftësi praktike mbi të gjitha aspektet e veprimtarisë noteriale, mbi fushat e së drejtës të lidhura me noterinë, si dhe njihen me rregullat etiko-profesionale të profesionit.
+4. Puna e kandidatit për noter vlerësohet nga noteri përgjegjës për çdo vit kalendarik. Vlerësimi dorëzohet pranë Dhomës Kombëtare të Noterisë, jo më vonë se 31 janari i çdo viti. Dhoma përcakton rregulla më të hollësishme për kriteret, metodologjinë dhe nivelet e vlerësimit të kandidatit për noter.
+5. Noteri depoziton në Dhomë dhe në Ministrinë e Drejtësisë një kopje të kontratës dhe dokumentacionin ligjor të kërkuar për kandidatët për noterë, brenda 15 ditëve nga momenti i lidhjes së saj me kandidatin për noter.
+6. Kandidati për noter regjistrohet në regjistrin përkatës të Ministrisë së Drejtësisë dhe të Dhomës Kombëtare të Noterisë dhe depoziton dokumentacionin e kërkuar, jo më vonë se 30 ditë nga data e fillimit të punës si kandidat për noter pranë një noteri.
+7. Gjatë periudhës së trajnimit praktik pranë noterit me të cilin ka nënshkruar kontratën, kandidati për noter shkëputet nga çdo marrëdhënie tjetër pune, përveç asaj shkencore e mësimdhënëse, me synim rritjen e kualifikimit të tij profesional. Marrëdhënia e punës ndërmjet kandidatit për noter dhe noterit pranë të cilit punon është me kohë të plotë dhe rregullohet sipas parashikimeve të Kodit të Punës dhe legjislacionit në fuqi për sigurimet shoqërore.
+8. Ministri i Drejtësisë, pas propozimit me shkrim dhe të arsyetuar të Dhomës Kombëtare të Noterisë, miraton rregulla më të hollësishme lidhur me punësimin e kandidatëve për noterë.

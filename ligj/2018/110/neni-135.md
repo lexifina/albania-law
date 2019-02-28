@@ -1,0 +1,3 @@
+# Neni 135
+Vërtetimi i përkthimeve
+Përkthimi i një dokumenti nga një gjuhë e huaj në gjuhën shqipe dhe anasjelltas bëhet nga vetë noteri, në gjuhën për të cilën është i përfshirë në listën e përkthyesve zyrtarë të administruar nga ministria e Drejtësisë. Për gjuhë të tjera, që noteri nuk i zotëron, përkthimi bëhet nga përkthyes të përfshirë në listën e përkthyesve zyrtarë për dokumente zyrtare dhe nga persona të tjerë, për dokumente të një natyre tjetër. Në rastet e përkthimeve të bëra nga përkthyes ose persona të tjerë të pranuar nga palët, noteri pasqyron në akt identitetin e përkthyesit, njësoj si për palët. Përkthimi shkruhet në fund ose përbri dokumentit dhe nënshkruhet përkatësisht nga noteri, sipas ligjit, ose nga përkthyesi.

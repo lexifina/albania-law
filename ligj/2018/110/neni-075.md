@@ -1,0 +1,6 @@
+# Neni 75
+Kontrata e punës dhe të ardhurat e zëvendësnoterit
+1. Zëvendësnoteri punësohet nga noteri pas emërimit nga ministri i Drejtësisë.
+2. Të ardhurat monetare të zëvendësnoterit sigurohen nga noteri me të cilin ushtron veprimtarinë noteriale. Paga dhe shpërblimet që përfiton zëvendësnoteri përcaktohen në kontratën e punës të lidhur paraprakisht ndërmjet tyre, e cila mund të jetë fikse ose e ndryshueshme mbi bazën e volumit të punës apo përcaktimeve të tjera që specifikohen nga vetë palët. Paga e zëvendësnoterit nuk mund të jetë më e ulët se 150 % e pagës minimale mujore në shkallë vendi, sipas legjislacionit në fuqi.
+3. Qëllimi i punës së zëvendësnoterit pranë një noteri është që zëvendësnoteri të fitojë njohuritë, aftësitë dhe përvojën e nevojshme për të ushtruar profesionin si noter i pavarur. Kontrata e punës së zëvendësnoterit nuk mund të zgjidhet nga noteri pa shkaqe të arsyeshme. Dhoma mund të lehtësojë zgjidhjen e konflikteve që lindin mes një noteri dhe një zëvendësnoteri.
+4. Ministri i Drejtësisë, pas konsultimit me Dhomën, miraton rregulla të mëtejshme në lidhje me kushtet e përgjithshme për statusin e zëvendësnoterit dhe, në veçanti, miraton kushte kontraktuale të detyrueshme për kontratën e punës së zëvendësnoterit.

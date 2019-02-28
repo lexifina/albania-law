@@ -1,0 +1,8 @@
+# Neni 88
+Qendra Shqiptare e Trajnimit të Noterëve
+1. Qendra Shqiptare e Trajnimit të Noterëve është institucioni përgjegjës për formimin fillestar të kandidatëve për noterë dhe formimin vazhdues të noterëve anëtarë të Dhomës Kombëtare të Noterisë. Qendra e Trajnimit është organizuar dhe funksionon si strukturë e Dhomës Kombëtare të Noterisë dhe ka pavarësi akademike.
+2. Qendra e Trajnimit administrohet nga Drejtori Ekzekutiv, i zgjedhur për një mandat 4-vjeçar nga Këshilli i Dhomës me propozimin e Kryetarit të Dhomës, bazuar në kriteret e përcaktuara në Rregulloren e Qendrës së Trajnimit.
+3. Qendra e Trajnimit harton projektrregulloren e programit të detyrueshëm të formimit fillestar për kandidatët për noterë dhe projektrregulloren e programit të detyrueshëm të formimit të vazhdueshëm për noterët, dhe ia paraqet ato për miratim paraprak Këshillit të Dhomës. Miratimi përfundimtar i Rregulloreve të Programeve të Trajnimeve bëhet nga ministri i Drejtësisë.
+4. Tarifat e formimit fillestar dhe të formimit vazhdues pranë Qendrës së Trajnimit propozohen nga Këshilli i Dhomës Kombëtare të Noterisë dhe miratohen nga Asambleja e Përgjithshme e Dhomës.
+5. Dhoma lidh marrëveshje bashkëpunimi me dhomat e profesioneve të lira, vendase ose të huaja, lidhur me organizimin e trajnimeve të përbashkëta ose specifike mbi veprimtarinë noteriale.
+6. Rregulla të hollësishme mbi mënyrën e organizimit dhe funksionimit të Qendrës së Trajnimit për ofrimin e formimit fillestar dhe të formimit vazhdues, si dhe mbi përzgjedhjen dhe veprimtarinë e stafit akademik, përcaktohen në Rregulloren e Qendrës së Trajnimit, e cila miratohet nga Asambleja e Dhomës.

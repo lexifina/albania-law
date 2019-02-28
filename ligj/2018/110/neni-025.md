@@ -1,0 +1,10 @@
+# Neni 25
+Inspektimi i noterëve
+1. Ministri i Drejtësisë miraton një program vjetor të inspektimit të noterëve. Çdo zyrë noteriale inspektohet me intervale të rregullta, por jo më pak se çdo katër vjet. Noteri i emëruar ose i transferuar rishtazi i nënshtrohet inspektimit brenda dy vjetëve nga emërimi ose transferimi i tij.
+2. Ministri i Drejtësisë, në rastet kur e sheh të nevojshme, urdhëron inspektime të posaçme.
+3. Ministri i Drejtësisë kryen inspektime të rregullta në vend për të gjitha aktet, regjistrin e veprimtarisë noteriale, si dhe çdo dokumentacion tjetër të aktiviteteve noteriale.
+4. Inspektimi monitoron veprimtarinë e noterit në lidhje me zbatimin e ligjit, standardet e sjelljes profesionale, veçanërisht zbatimin e legjislacionit për parandalimin e pastrimit të parave dhe financimin e terrorizmit.
+5. Në rast se ministri i Drejtësisë vendos të emërojë ekspertë të pavarur sipas nenit 24, të këtij ligji, inspektimi kryhet nga një ekip i përbërë nga një inspektor i Ministrisë së Drejtësisë dhe nga një ekspert i pavarur. Ministri i Drejtësisë vendos përbërjen e ekipit të inspektimit për çdo inspektim.
+6. Në rast se gjatë një inspektimi në vend ose nëpërmjet burimeve të tjera zbulohen mangësi, noteri informohet me shkrim dhe i kërkohet që të korrigjojë mangësitë brenda një periudhe kohore të përcaktuar nga ministri i Drejtësisë.
+7. Në rast se ekziston një dyshim i arsyeshëm se një mangësi e tillë mund të përbëjë shkelje disiplinore, ministri i Drejtësisë hap procedurën për hetimin e shkeljes disiplinore.
+8. Në rast se ekziston një dyshim i arsyeshëm se shkeljet lidhen me pastrimin e parave ose financimin e terrorizmit, ministri i Drejtësisë i raporton autoritetit përgjegjës, në përputhje me legjislacionin në fuqi për parandalimin e pastrimit të parave dhe financimin e terrorizmit.
