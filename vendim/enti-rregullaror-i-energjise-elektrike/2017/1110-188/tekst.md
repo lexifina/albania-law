@@ -4,6 +4,10 @@ Nr. 188, datë 10.11.2017
 
 MBI LICENCIMIN E SHOQËRISË ALBGAZ SHA NË AKTIVITETIN E TRANSMETIMIT TË GAZIT NATYROR 
 
+(Ndryshuar me vendimin e ERE-s nr. 262, datë 19.12.2018; nr. 37, datë 4.3.2019)
+
+(I përditësuar)
+
 Në mbështetje të neneve 4, pika 50 dhe nenit 22, pika 2, germa “a”; 24, pika 2 dhe nenit 35, të ligjit nr. 102/2015, “Për sektorin gazit natyror”, si dhe neneve 4, pika 1, germa “a”; nenit 5; neneve 5, 11 dhe 12 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin dhe heqjen e licencave në sektorin e gazit natyror”; Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 10.11.2017, mbasi shqyrtoi relacionin për licencimin e shoqërisë Albgaz sh.a. në aktivitetin e transmetimit të gazit natyror, të përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut, 
 
 konstatoi se: 
@@ -38,13 +42,13 @@ Për gjithë sa më sipër, bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë Albgaz sh.a. në aktivitetin e transmetimit të gazit natyror për një afat 30-vjeçar, me kushtin që brenda afatit 6-mujor, në mbështetje të nenit 24, pika 2, të ligjit nr. 102/2015, “Për sektorin e gazit natyror”, të plotësojë të gjithë dokumentacionin e munguar, si më poshtë:
+1. Të licencojë shoqërinë “Albgaz” sh.a në veprimtarinë e transmetimit të gazit natyror, për një afat 30 vjeçar, me kushtin që brenda datës 20.12.2019, në mbështetje të nenit 24, pika 2 e Ligjit nr. 102/2015, “Për sekorin e gazit natyror”, të plotësojë gjithë dokumentacionin e munguar që ka të bëjë me:
 
-- Dokumentacioni që tregon titujt e pronësisë mbi asetet që ka për të kryer funksionet ose për plotësuar detyrimet nën licencën e kërkuar. 
+- dokumentacionin që tregon titujt e pronësisë mbi asetet që ka, për të kryer funksionet ose plotësuar detyrimet nën licencën e kërkuar;
 
-- Lejet dhe autorizimet mjedisore.
+- lejet dhe autorizimet mjedisore; 
 
-- Një certifikatë sigurimi nga shoqëri sigurimi (që operojnë në përputhje me legjislacionin në fuqi në Shqipëri), që evidenton mbulimin e përgjegjësisë për dëmtimet për plagosje, sëmundje ose raste të vdekjes së personave, ose për humbjen ose shkatërrimin e pronës të shkaktuara, ose që kanë rezultuar prej aktiviteteve të aplikantit, në kuadër të licencës së kërkuar në një nivel përgjegjësie jo më të vogël se 10 milionë USD. 
+- një certifikate sigurimi nga shoqëri sigurimi (që operojnë në përputhje me legjislacionin në fuqi në Shqipëri) që evidenton mbulimin e përgjegjësisë për dëmtimet për plagosje, sëmundje ose raste të vdekjes së personave ose për humbjen ose shkatërrimin e pronës të shkaktuara ose që kanë rezultuar prej aktiviteteve të aplikantit në kuadër të licencës së kërkuar në një nivel përgjegjësie jo më të vogël se 10 milionë USD. 
 
 - Plan biznesi.
 
