@@ -1,1 +1,0 @@
-6. Për qarkun e Tiranës të ketë dy drejtori arsimore rajonale: DAR-ja, Tiranë, që do të mbulojë qytetin e Tiranës, dhe DAR-ja e qarkut të Tiranës, që do të mbulojë fshatrat e Tiranës, ZA-në, Kavajë dhe ZA-në, Kamëz, që do të mbulojë edhe komunat Paskuqan dhe Zall - Herr.

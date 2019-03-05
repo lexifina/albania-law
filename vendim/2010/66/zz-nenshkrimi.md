@@ -1,3 +1,0 @@
-# Nënshkrimi
-KRYEMINISTRI
-Sali Berisha
