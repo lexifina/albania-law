@@ -1,0 +1,1 @@
+7. Marrëdhëniet e punës të Drejtorit të Përgjithshëm dhe të nëpunësve të ASCAP-it rregullohen në bazë të dispozitave të legjislacionit në fuqi për nëpunësin civil. Marrëdhëniet e punës të punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.

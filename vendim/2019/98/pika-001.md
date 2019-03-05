@@ -1,0 +1,1 @@
+1. Krijimin e Agjencisë së Sigurimit të Cilësisë së Arsimit Parauniversitar (këtu e më poshtë ASCAP), si person juridik publik, buxhetor, në varësi të ministrit përgjegjës për arsimin, me seli në Tiranë.

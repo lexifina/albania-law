@@ -1,0 +1,14 @@
+5. Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar kryen detyrat, si më poshtë vijon:
+a) vlerëson performancën e sistemit arsimor parauniversitar, efektshmërinë dhe efiçencën e masave si dhe përmbushjen e objektivave;
+b) vlerëson mënyrën e organizimit e të funksionimit të sistemit arsimor parauniversitar dhe merr masat e nevojshme në rast mbivendosjeje funksionesh apo mungese ekzekutimi të detyrave funksionale nga institucionet përgjegjëse;
+c) vlerëson si ndërlidhen, koordinohen apo ndërveprojnë institucionet e sistemit arsimor parauniversitar me njëri-tjetrin, duke garantuar nivelin e duhur të integrimit për sigurimin e arsimit parauniversitar cilësor;
+ç) kryen analiza të ndryshme mbi bazën qendrore e të integruar të të dhënave të sistemit të arsimit parauniveritar dhe shpërndan informacionin;
+d) harton dhe i propozon ministrit për miratim standarde, protokolle, rregulla për ofrimin e shërbimeve arsimore si dhe vlerëson impaktin e tyre në këto shërbime;
+dh) analizon, zhvillon e rishikon dokumentet si: korniza kurrikulare, programet lëndore dhe standardet, sipas fushave kurrikulare;
+e) harton dhe boton dokumentet kurrikulare për arsimin parauniversitar si dhe materiale mbështetëse për zbatimin e kurrikulës, në nivel kombëtar;
+ë) harton, analizon dhe rishikon standardet e zhvillimit profesional të mësuesve dhe drejtuesve të institucioneve arsimore parauniversitare; vlerëson nevojat për zhvillim profesional, programet kombëtare dhe materialet mbështetëse për zhvillimin profesional të punonjësve arsimorë;
+f) organizon zhvillimin profesional dhe menaxhon procesin e kualifikimit të punonjësve arsimorë në të gjitha nivelet e sistemit të arsimit parauniversitar, publik dhe privat;
+g) realizon punë kërkimore-studimore, analiza periodike dhe u ofron ekspertizë strukturave politike e vendimmarrëse për politikat arsimore dhe reformat në fushën e arsimit parauniversitar;
+gj) ofron këshillim për institucionet arsimore parauniversitare të të gjitha niveleve në fushat e përmbajtjes kurrikulare, të didaktikës dhe përdorimit të teknologjive moderne në mësimdhënie, si dhe në drejtimin e menaxhimin e shkollës dhe arsimit në tërësi;
+h) vlerëson, mbi bazë risku, veprimtarinë e institucionit përgjegjës për ofrimin e shërbimeve të arsimit parauniversitar dhe të institucioneve arsimore publike e private të sistemit të arsimit parauniversitar, për respektimin në vazhdimësi të kushteve dhe detyrimeve për ofrimin e shërbimit cilësor, shoqëruar me lënien e detyrave /sugjerimeve/rekomandimeve për përmirësimin e elementeve të caktuara të institucioneve apo gjithë sistemit të arsimit parauniversitar, si: kurrikul, standarde dhe metodologji;
+i) nënshkruan marrëveshje dhe bashkëpunon me institucione të arsimit të lartë, institucione të tjera apo me organizata kombëtare dhe/ose ndërkombëtare për veprimtari apo aktivitete që lidhen me misionin e saj, në përputhje me dispozitat ligjore në fuqi.

@@ -1,0 +1,1 @@
+3. Misioni i ASCAP-it është të garantojë performancën e sistemit të arsimit parauniversitar dhe cilësinë e arsimimit parauniversitar publik e privat, në përputhje me qasjen e kurrikulës, të bazuar në zhvillimin e kompetencave.
