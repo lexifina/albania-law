@@ -1,0 +1,1 @@
+7. Mësuesit, që bëhen pjesë e regjistrit shtetëror të mësuesve të gjuhës shqipe e të kulturës shqiptare në diasporë, pajisen me certifikatë regjistrimi sipas modelit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

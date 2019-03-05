@@ -1,0 +1,1 @@
+3. Pasqyrimi në regjistrin shtetëror i të dhënave të mësuesve në diasporë bëhet pas vlerësimit të dokumentacionit të paraqitur nga ana e tyre, në rrugë elektronike apo postare, në ministrinë përgjegjëse për arsimin.

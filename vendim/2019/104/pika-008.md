@@ -1,0 +1,1 @@
+8. Regjistri shtetëror i mësuesve të gjuhës shqipe e të kulturës shqiptare në diasporë administrohet, përditësohet dhe ruhet nga institucioni përgjegjës për sigurimin e cilësisë në arsimin parauniversitar.
