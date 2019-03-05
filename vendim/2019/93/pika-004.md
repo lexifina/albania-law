@@ -1,0 +1,1 @@
+4. Personat e regjistruar në skemat e ndihmës shoqërore, si dhe subjektet përfituese, sipas ligjit nr. 111/2017, “Për ndihmën juridike të garantuar nga shteti”, e përfitojnë informacionin dhe/ose dokumentacionin pa pagesë deri në 20 fletë, për çdo kërkesë, ose në vlerën ekuivalente, kur informacioni jepet në një format tjetër, pas vërtetimit të statusit përkatës.

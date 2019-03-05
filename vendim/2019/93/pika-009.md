@@ -1,0 +1,1 @@
+9. Tarifat për fotokopjet dhe/ose kopjet në formë digjitale, regjistrimet me zë, figurë apo regjistrime të tjera, me apo pa të drejta përdorimi, për përdorim privat apo studimor, në kuadër të marrëveshjeve ndërinstitucionale, do të trajtohen sipas këtyre marrëveshjeve.
