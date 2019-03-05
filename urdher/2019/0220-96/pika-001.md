@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të ministrit të Arsimit, Sportit dhe Rinisë, Sekretarit të Përgjithshëm të kësaj ministrie, Z. Oltjon Muzaka, për të nënshkruar urdhrin për dërgimin me shërbim jashtë vendit, të punonjësit/nëpunësit civil të Ministrisë së Arsimit, Sportit dhe Rinisë.
