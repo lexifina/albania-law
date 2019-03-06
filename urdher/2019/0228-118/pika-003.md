@@ -1,0 +1,1 @@
+3. Ngarkohet zëvendësministri, që brenda 10 ditëve nga miratimi i këtij urdhri, të detajojë planin e punës me veprimet dhe afatet konkrete për përmbushjen e detyrave të përcaktuara më sipër. Plani i punës miratohet nga ministri.
