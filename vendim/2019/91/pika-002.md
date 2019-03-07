@@ -1,0 +1,1 @@
+2. Vendimi nr. 703, datë 12.10.2016, i Këshillit të Ministrave, “Për miratimin e listës së mallrave ushtarake dhe të listës së mallrave e teknologjive me përdorim të dyfishtë, që i nënshtrohen kontrollit shtetëror të import-eksporteve”, shfuqizohet.
