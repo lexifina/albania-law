@@ -1,1 +1,0 @@
-2. Vendimi nr. 106, datë 9.2.2011, i Këshillit të Ministrave, “Për miratimin e listës së përditësuar të mallrave ushtarake dhe të listës së mallrave e teknologjive me përdorim të dyfishtë, që i nënshtrohen kontrollit shtetëror të import-eksporteve”, shfuqizohet.
