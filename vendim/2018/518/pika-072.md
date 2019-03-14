@@ -1,0 +1,1 @@
+72. Ngarkohen strukturat përgjegjëse për shërbimet e kujdesit shoqëror pranë bashkive dhe qarqeve dhe njësitë e vlerësimit të nevojave dhe referimit të rastit për zbatimin e këtij vendimi, në përputhje dhe me detyrimet ligjore që rrjedhin nga legjislacioni në fuqi që rregullon fushën e veprimtarisë së tyre.

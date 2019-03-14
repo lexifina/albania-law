@@ -1,0 +1,1 @@
+25. Për çdo përfitues të shërbimit rezidencial, çdo 6 muaj rivlerësohen të gjitha kushtet që kanë shkaktuar largimin nga familja apo shërbimi komunitar. Në rast të konstatimit që arsyet e marrjes së shërbimit rezidencial janë shuar, ndiqen procedurat sipas standardit të shërbimit për largimin nga shërbimi rezidencial.

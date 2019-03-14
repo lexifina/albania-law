@@ -1,0 +1,1 @@
+24. Pas marrjes së vendimit sipas përcaktimit të pikës 19 të këtij kreu, dokumentacioni bashkë me vendimin përcillen pranë shërbimit specifik ose i rikthehen individit apo familjes së interesuar në rast se kërkesa nuk është miratuar.

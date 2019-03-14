@@ -1,0 +1,1 @@
+42. Brenda 24 orëve nga vendosja në shërbimin e emergjencës, punonjësi social i shërbimit njofton punonjësin social në njësinë e qeverisjes vendore për vlerësimin dhe referimin e rastit për të vijuar me menaxhimin e rastit të përcaktuar në kreun III të këtij vendimi.

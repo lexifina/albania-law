@@ -1,0 +1,1 @@
+45. Shërbimi i strehimit të mbrojtur për viktimat e dhunës në familje, sipas përcaktimit të pikës 10/i, të kreut II, të këtij vendimi, përfitohet nga individët që janë viktima të dhunës në familje, që e kanë të pamundur të jetojnë në mjedisin e mëparshëm familjar apo të pastrehë.

@@ -1,0 +1,1 @@
+15. Vlerësimi i nevojave dhe i riskut, i cili përfshin analizimin e të gjitha informacioneve dhe dokumenteve, në konsultim me përfituesin, realizohet në mjedisin e tij (në shtëpi, në shkollë), duke përfshirë vlerësimin shumëdisiplinor për rastet komplekse.

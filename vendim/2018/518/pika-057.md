@@ -1,0 +1,1 @@
+57. Periudha e sistemimit të fëmijëve nga materniteti në shtëpinë e foshnjës është 15 (pesëmbëdhjetë) ditë nga data e lindjes së fëmijës, por mund të zgjatet në varësi të gjendjes shëndetësore të fëmijës.

@@ -1,0 +1,1 @@
+37. Shërbimi në qendër ditore për persona me aftësi të kufizuara, sipas përcaktimit të pikës 7/ii, të kreut II, të këtij vendimi, përfitohet nga persona me aftësi të kufizuara të përcaktuar nga komisioni përgjegjës i vlerësimit të aftësisë së kufizuar dhe që kanë të nevojshme shërbime rehabilituese dhe riintegruese.

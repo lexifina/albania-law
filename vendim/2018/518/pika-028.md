@@ -1,0 +1,1 @@
+28. Organet publike në nivel vendor sigurojnë planifikimin në planet sociale dhe realizimin e shportës bazë të shërbimeve kumunitare të kujdesit shoqëror, të përcaktuara në pikat 4-10 të këtij vendimi, në mënyrë uniforme, duke zbatuar kriteret për përfitimin e shërbimit dhe dokumentacionin e nevojshëm për kualifikimin e individit si përfitues i tij.

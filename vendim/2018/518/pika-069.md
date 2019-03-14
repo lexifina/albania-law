@@ -1,0 +1,1 @@
+69. Procedurat e shpërndarjes së shumës së parave që u jepet kategorive të përcaktuara në pikën 67 të këtij vendimi, për shpenzime personale, përcaktohen me udhëzim të ministrit përgjegjës për mbrojtjen sociale.

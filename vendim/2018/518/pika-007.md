@@ -1,0 +1,4 @@
+7. Qendrat ditore ofrojnë shërbim gjysmëditor ose të plotë ditor, të cilat mund të përdoren një ose disa ditë në javë dhe sigurojnë shërbime specifike sipas kategorisë së përfituesve:
+i. fëmijë që jetojnë në situatë rruge dhe fëmijë të familjeve me probleme social-ekonomike - Shërbimet për këtë kategori përfshijnë shërbime për higjienë personale, ushqim, mbështetje për edukim, mbështetje psikologjike dhe sociale, aktivitete të kohës së lirë që nxisin edukimin dhe integrimin;
+ii. personat me aftësi të kufizuara - Shërbimet për këtë kategori përfshijnë terapi zhvillimi, fizioterapi, logopedi, ortofoni, terapi okupacionale, mbështetje psikologjike, përkujdesje fizike, ushqim për qëndrimin ditor;
+iii. të moshuarit - Shërbimet për këtë kategori përfshijnë mbështetje psikologjike, kujdes shëndetësor, aktivitete të kohës së lirë, përfshirje në komunitet dhe ushqim.

@@ -1,0 +1,1 @@
+33. Shërbimi në qendër komunitare multifunksionale, sipas përcaktimit të pikës 6, të kreut II, të këtij vendimi, përfitohet nga subjektet që kanë nevojë për një apo disa shërbime që ofrohen në qendrën komunitare sipas nevojës së identifikuar gjatë procesit të menaxhimit të rastit, të përcaktuar në kreun III të këtij vendimi;

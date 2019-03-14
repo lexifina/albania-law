@@ -1,0 +1,1 @@
+16. Punonjësi social në njësinë e qeverisjes vendore për vlerësimin dhe referimin e rastit informon dhe jep këshilla bazë për të drejtat dhe mundësitë për kujdes dhe trajtim, këshillim për shërbimet shëndetësore dhe arsimore të mundshme në nivel vendor, informim bazë për pagesat sociale në të holla.

@@ -1,0 +1,1 @@
+64. Shërbimet rezidenciale për viktimat e trafikimit dhe viktimat e mundshme të trafikimit, sipas përcaktimit të pikës12/ç, të kreut II, të këtij vendimi, përfitohen nga fëmija, personi mbi 18 vjeç, shtetas shqiptar apo i huaj që, në bazë të intervistës formale të zhvilluar sipas procedurave standarde, vlerësohet si viktimë e mundshme ose viktimë trafikimi.

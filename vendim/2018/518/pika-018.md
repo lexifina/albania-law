@@ -1,0 +1,1 @@
+18. Komisioni multidisiplinar shqyrton kërkesën e dokumentacionin dhe, pas marrjes së vendimit, përcjell vendimin e dokumentacionin pranë ofruesit të shërbimit ose, në rast refuzimi, pranë njësisë që ka marrë nismën për vendosjen e individit në institucion përkujdesi rezidencial.

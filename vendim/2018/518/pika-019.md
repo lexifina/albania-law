@@ -1,0 +1,1 @@
+19. Punonjësi social në nivel qarku shikon në sistem rastet për trajtim dhe më pas përcakton planin e trajtimit të rastit dhe shikon performancën e punonjësve dhe ecurinë e trajtimit të rastit. Pasi merr vendimin për rivlerësimin e rastit, përcakton hapat e mëtejshëm të trajtimit të tij.

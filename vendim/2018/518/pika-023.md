@@ -1,0 +1,4 @@
+23. Me përjashtim të viktimave të dhunës në familje, viktimave të trafikimit dhe të mundshme të trafikimit, për individët dhe familjet në nevojë, vendimi për t’i ofruar shërbimin e kërkuar merret brenda një muaji nga data e kërkesës nga:
+a) Këshilli i Bashkisë, në rastin kur shërbimi i kërkuar funksionon në territorin e bashkisë respektive ku banon individi apo familja në nevojë mbi bazën e propozimit të strukturës përgjegjëse për shërbimet e kujdesit shoqëror pranë bashkisë;
+b) Këshilli i Qarkut, në rastin kur shërbimi i kërkuar përfshihet në territorin e qarkut ku banon kërkuesi i shërbimit, mbi bazën e propozimit të ardhur nga Këshilli i Bashkisë që përfshihet në territorin e qarkut;
+c) Drejtoria e Përgjithshme e Shërbimit Social Shtetëror, në rastet kur në territorin e bashkisë dhe qarkut ku banon kërkuesi i shërbimit nuk ka shërbim rezidencial për nevojat e individit.

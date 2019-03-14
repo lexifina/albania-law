@@ -1,0 +1,1 @@
+22. Bashkërendimi i mbështetjes dhe referimi te shërbimet e kujdesit social në nivel vendor, rajonal dhe qendror. Për shërbimet në nivel rajonal dhe qendror vendimi për referimin merret bashkërisht me SHSSH-në.

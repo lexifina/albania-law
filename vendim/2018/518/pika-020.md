@@ -1,0 +1,1 @@
+20. Titullari i institucionit të përkujdesit shoqëror (në vijim “IPSH”) shikon në sistem rastet për trajtim. Përcakton planin e trajtimit të rastit dhe shikon performancën e punonjësve dhe ecurinë e trajtimit të rastit. Merr vendim për rivlerësimin e rastit dhe përcakton hapat e mëtejshëm. Mbyll rastin.

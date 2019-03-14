@@ -1,0 +1,1 @@
+70. Nivelet e kuotave të shpenzimeve të përkujdesit shoqëror në institucionet publike rezidenciale dhe komunitare miratohen nga ministria përgjegjëse për çështjet sociale. Nivelet e kuotave të shpenzimeve në institucionet private nuk mund të jenë më të ulëta se ato në institucionet publike.

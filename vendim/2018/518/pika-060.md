@@ -1,0 +1,1 @@
+60. Shërbimet zhvilluese dhe rehabilituese, sipas përcaktimit të pikës 12/a, të kreut II, të këtij vendimi, përfitohen nga persona me aftësi të kufizuara, të vlerësuar nga komisioni përgjegjës i vlerësimit të aftësisë së kufizuar, kur mjeku specialist i referon për shërbime rehabilituese, duke specifikuar qartësisht shërbimin e nevojshëm.
