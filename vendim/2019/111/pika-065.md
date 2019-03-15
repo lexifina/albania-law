@@ -1,0 +1,3 @@
+65. Agjencia mban të dhëna statistikore për fëmijët e pashoqëruar që i nënshtrohen procedurës së kthimit apo riatdhesimit. Të dhënat statistikore përpunohen në format elektronik dhe përfshijnë, si më poshtë vijon:
+a) në rastin e kthimit, përveç gjenealiteteve të fëmijës dhe vendit të tij të origjinës apo vendit nga ka ardhur dhe ku ka vendbanimin, edhe mënyrën e trajtimit të tij në Shqipëri dhe procedurën e ndjekur për kthimin e tij;
+b) në rastin e riatdhesimit, gjenealitetet e fëmijës, vendin nga ku është kthyer, situatën e familjes, procedurat e ndjekura për riatdhesim, si dhe mënyrën e trajtimit të tij nga mbërritja në Shqipëri.

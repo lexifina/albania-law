@@ -1,0 +1,1 @@
+22. Nëse autoriteti përgjegjës vendor për kufirin dhe migracionin vlerëson se fëmija i pashoqëruar duhet të kthehet, atëherë lëshon urdhrin e largimit dhe kthimit të fëmijës së pashoqëruar, i cili duhet të jetë i arsyetuar dhe në çdo rast duhet të përcaktojë afatin maksimal brenda të cilit duhet të zbatohet.

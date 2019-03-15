@@ -1,0 +1,3 @@
+2. Ky vendim nuk zbatohet për:
+a) fëmijët e pashoqëruar që janë subjekte të kthimit apo të riatdhesimit në zbatim të ligjit penal apo si pasojë e zbatimit të një procedure ekstradimi;
+b) fëmijët e shoqëruar vetëm nga njëri prind dhe pa pëlqimin e prindit tjetër, për të cilët, nga Ministria e Drejtësisë dhe autoritetet përgjegjëse shtetërore zbatohen rregullat dhe procedurat e parashikuara nga ligji nr. 9446, datë 24.11.2005, “Për ratifikimin e Konventës mbi Aspekte Civile të Rrëmbimit Ndërkombëtar të Fëmijës”. Rregullat e detajuara për procedurën e riatdhesimit në këtë rast përcaktohen me urdhër të përbashkët të ministrit të Drejtësisë dhe të ministrit të Brendshëm.

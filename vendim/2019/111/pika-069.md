@@ -1,0 +1,1 @@
+69. Ministria për Evropën dhe Punët e Jashtme, brenda 1 (një) muaji nga miratimi i këtij vendimi, komunikon me autoritetet përgjegjëse të shteteve të tjera që, menjëherë sapo konstatojnë gjetjen e një fëmije me shtetësi shqiptare të pashoqëruar në territorin e tyre, të njoftojnë misionin diplomatik postin konsullor të Republikës së Shqipërisë të akredituar në vendin e tyre.

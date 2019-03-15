@@ -1,0 +1,1 @@
+31. Autoriteti përgjegjës vendor për kufirin dhe migracionin njofton autoritetin përgjegjës për mbrojtjen e fëmijëve në vendin, ku fëmija do të kthehet, për planin e kthimit të fëmijës, me qëllim marrjen e masave prej tyre për të siguruar mbrojtjen dhe garantimin e të drejtave të fëmijës.

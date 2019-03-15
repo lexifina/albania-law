@@ -1,0 +1,1 @@
+54. Fëmija i pashoqëruar pritet në pikën e kalimit të kufirit nga prindi ose kujdestari i tij ligjor, nëse kanë shprehur dakordësinë e tyre paraprakisht nga një psikolog dhe nga PMF-ja që ka koordinuar të gjithë procedurën e vlerësimit.

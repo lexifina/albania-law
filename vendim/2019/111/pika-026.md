@@ -1,0 +1,1 @@
+26. Fëmija i pashoqëruar, nëpërmjet kujdestarit ligjor të caktuar, ka të drejtën e ankimit administrativ dhe gjyqësor, sipas legjislacionit në fuqi. Ai përfiton ndihmë juridike falas nga shteti, nëse e kërkon një gjë të tillë, sipas rregullave të parashikuara nga legjislacioni në fuqi.

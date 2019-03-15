@@ -1,0 +1,1 @@
+47. Rregullat e dakordësuara ndërmjet autoriteteve i njoftohen menjëherë agjencisë, e cila ia përcjell për njohje PMF-së që ka përgatitur raportin informues, me qëllim që, së bashku me punonjësin e sektorit të Migracionit në Drejtorinë Rajonale për Kufirin dhe Migracionin, ato t’i bëhen me dije edhe familjes së fëmijës së pashoqëruar apo kujdestarit të tij ligjor.

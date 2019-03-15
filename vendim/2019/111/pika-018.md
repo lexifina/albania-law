@@ -1,0 +1,1 @@
+18. Agjencia, pas shqyrtimit të këtij raporti, si dhe të raportit të dërguar nga PMF-ja, përgjegjëse për menaxhimin e rastit, paraqet në formë shkresore mendimin për autoritetet përgjegjëse që po trajtojnë kërkesa të fëmijës për mundësinë e qëndrimit ose jo të tij në Shqipëri, duke mbajtur në konsideratë interesin më të lartë të fëmijës.

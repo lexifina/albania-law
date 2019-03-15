@@ -1,0 +1,3 @@
+57. Fëmija i riatdhesuar është fëmijë në nevojë për mbrojtje dhe trajtohet sipas rregullave të parashikuara në legjislacionin në fuqi. PMF-ja fillon procedurën për vendosjen e masës së mbrojtjes kur:
+a) nëse nga vlerësimi i thelluar i bërë nga PMF-ja dhe administratori shoqëror rezulton se nuk është në interesin më të lartë të fëmijës të qëndrojë në familje;
+b) në rastin kur prindërit apo kujdestari i fëmijës nuk pranon që fëmija i tyre të kthehet në familje, edhe pse nga vlerësimi i thelluar ka rezultuar se familja i plotëson kushtet për t’u kujdesur për fëmijën, duke përfshirë edhe ofrimin e ndihmës për përmirësimin e kushteve të jetesës.

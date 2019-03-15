@@ -1,0 +1,1 @@
+23. Në rast dhe vetëm nëse fëmijës së pashoqëruar i është refuzuar ose nuk i është pranuar aplikimi për azil, leje qëndrimi apo i është revokuar vendimi i statusit të refugjatit, si rregull, mund të bëhet subjekt i kthimit dhe largimit nga territori shqiptar, sipas përcaktimeve në ligjin për të huajt.

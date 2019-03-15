@@ -1,0 +1,4 @@
+1. Ky vendim ka për objekt të përcaktojë procedurat dhe rregullat e detajuara mbi procesin:
+a) e kthimit të fëmijëve të pashoqëruar, të huaj apo pa shtetësi, që ndodhen në territorin e Republikës së Shqipërisë, përfshirë fëmijët e pashoqëruar, në zbatim të marrëveshjes së ripranimit ndërmjet Republikës së Shqipërisë dhe Bashkimit Evropian apo marrëveshjeve të tjera të ripranimit, ku Republika e Shqipërisë është palë;
+b) e riatdhesimit të fëmijëve të pashoqëruar shqiptarë, përfshirë fëmijët shqiptarë të deklaruar të humbur, që ndodhen në territorin e një shteti të huaj;
+c) e ripranimit në territorin e Republikës së Shqipërisë të fëmijëve të pashoqëruar nga vendet e treta apo pa shtetësi, si rrjedhojë e zbatimit të marrëveshjes së ripranimit ndërmjet Republikës së Shqipërisë dhe Bashkimit Evropian apo marrëveshjeve të tjera të ripranimit, ku Republika e Shqipërisë është palë.

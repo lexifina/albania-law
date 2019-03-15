@@ -1,0 +1,2 @@
+68. Punonjësit e autoritetit përgjegjës të përfshira në procedurën e trajtimit dhe kthimit apo riatdhesimit të fëmijëve të pashoqëruar i nënshtrohen detyrimit të ruajtjes së konfidencialitetit dhe mospërhapjes së informacionit të marrë, për shkak të detyrës gjatë mbledhjes, ruajtjes dhe përpunimit të të dhënave personale për trajtimin e tyre, gjatë ushtrimit të detyrave të tyre edhe pas përfundimit të funksioneve, përveçse kur parashikohet ndryshe me ligj.
+V. Dispozita të fundit

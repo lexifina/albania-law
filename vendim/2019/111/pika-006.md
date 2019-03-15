@@ -1,0 +1,1 @@
+6. Mekanizmi i trajtimit dhe mbrojtjes së fëmijëve të pashoqëruar, si dhe procedurat e kthimit e riatdhesimit të tyre udhëhiqen nga parimet e parashikuara në ligjin nr. 18/2017, “Për të drejtat dhe mbrojtjen e fëmijës”.

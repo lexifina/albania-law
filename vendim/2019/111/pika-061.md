@@ -1,0 +1,1 @@
+61. Marrja në dorëzim i fëmijës së pashoqëruar shqiptar që i nënshtrohet procedurës së riatdhesimit dokumentohet rregullisht, nëpërmjet procesverbalit të marrjes në dorëzim të fëmijës, ku përshkruhet në mënyrë të detajuar procedura e pritjes, gjendja e tij e dukshme në momentin e marrjes në dorëzim dhe personat përgjegjës që po marrin në dorëzim fëmijën.

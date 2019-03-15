@@ -1,0 +1,1 @@
+25. PMF-ja, brenda 3 (tri) ditëve nga dita e njohjes me urdhrin e largimit dhe të kthimit të fëmijës, me ndihmën e një psikologu apo të një të rrituri, informon fëmijën, në gjuhën që ai kupton, në përputhje me moshën dhe aftësinë e tij për të kuptuar, për urdhrin e largimit dhe të kthimit të tij.

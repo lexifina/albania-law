@@ -1,0 +1,1 @@
+32. Autoriteti përgjegjës vendor për kufirin dhe migracionin merr menjëherë masat për të pajisur fëmijën me dokument identifikimi të vlefshëm, nëse fëmija nuk e disponon, si dhe me dokumentet e vlefshme të udhëtimit.

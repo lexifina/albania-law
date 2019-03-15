@@ -1,0 +1,1 @@
+52. Plani individual i riatdhesimit dhe trajtimit të fëmijës, i hartuar nga shteti njoftues, u njoftohet menjëherë prindërve apo kujdestarit ligjor të fëmijës, nëse ata kanë shprehur vullnetin për pritjen e fëmijës, Drejtorisë Rajonale për Kufirin dhe Migracionin, që ka në juridiksion pikën e kalimit të kufirit, ku do të dorëzohet fëmija, dhe PMF-së.

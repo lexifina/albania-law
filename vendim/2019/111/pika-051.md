@@ -1,0 +1,1 @@
+51. Deklarata e marrjes dijeni për riatdhesimin plotësohet në katër kopje dhe i dorëzohet punonjësit të sektorit të migracionit në Drejtorinë Rajonale për Kufirin, PMF-së përgjegjëse, i cili ia përcjell një kopje agjencisë.

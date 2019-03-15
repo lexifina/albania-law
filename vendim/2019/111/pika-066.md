@@ -1,0 +1,1 @@
+66. Autoritetet përgjegjëse që ushtrojnë detyrat sipas këtij vendimi, të cilat mbledhin dhe administrojnë të dhënat për fëmijën e pashoqëruar, i ruajnë ato për një periudhë 5-vjeçare, nga momenti i dorëzimit të fëmijës tek autoritetet përgjegjëse të vendit ku është kthyer apo nga momenti i marrjes në dorëzim të fëmijës së riatdhesuar.

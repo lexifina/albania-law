@@ -1,0 +1,1 @@
+49. Në rast se në të njëjtën periudhë janë paraqitur më shumë se një vendim i autoritetit kompetent të huaj, për të kthyer një fëmijë të pashoqëruar shqiptar nga i njëjti shtet, Departamenti për Kufirin dhe Migracionin organizon dhe komunikon me autoritetet përgjegjëse të huaja, që riatdhesimi i tyre të bëhet në mënyrë të njëkohshme.

@@ -1,0 +1,2 @@
+71. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Ministria për Evropën dhe Punët e Jashtme, Ministria e Drejtësisë, Ministria e Brendshme, Ministria e Arsimit, Sportit dhe Rinisë, Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës, Shërbimi Social Shtetëror, si dhe njësitë e vetëqeverisjes vendore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

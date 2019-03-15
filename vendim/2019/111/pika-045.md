@@ -1,0 +1,1 @@
+45. Nëse autoritetet shtetërore marrin njoftim për një vendim për kthimin e një fëmije shqiptar të pashoqëruar nga një vend i huaj, menjëherë ia komunikojnë atë agjencisë, e cila i përcjell njoftimin PMF-së, që ka përgatitur raportin informues.

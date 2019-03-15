@@ -1,0 +1,1 @@
+28. Autoritetet përgjegjëse, bazuar në rrethanat specifike të fëmijës, si kohëzgjatja e qëndrimit, vijimi i shkollës apo çështje të tjera me karakter social apo familjar, mund të urdhërojnë zgjatjen e periudhës për realizimin e procedurës së kthimit.

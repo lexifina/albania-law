@@ -1,0 +1,1 @@
+56. Brenda 48 (dyzet e tetë) orëve nga mbërritja e fëmijës në familje, PMF-ja, i shoqëruar nga një psikolog apo administratori shoqëror, bën një vlerësim për gjendjen psikosociale, shëndetësore, duke identifikuar dhe nevojat e fëmijës për riintegrim në jetën sociale.

@@ -1,0 +1,1 @@
+62. Procesverbali nënshkruhet në 4 (katër) kopje nga personat përgjegjës që kanë marrë në dorëzim fëmijën dhe personi përgjegjës për shoqërimin e tij. Një kopje e procesverbalit i dorëzohet agjencisë.

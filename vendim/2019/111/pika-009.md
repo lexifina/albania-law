@@ -1,0 +1,1 @@
+9. Fëmija i pashoqëruar nuk mund të jetë në asnjë rast subjekt i ndonjë vendimi kthimi në pikat e kalimit të kufirit. Në rastet e tjera, kthimi është alternativa e fundit dhe vetëm në raste kur është në përputhje me interesin më të lartë të fëmijës.

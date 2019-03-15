@@ -1,0 +1,1 @@
+53. Në përcaktimin e mënyrës më të përshtatshme për transportin e fëmijës, mbahet në konsideratë interesi i tij dhe mundësia për të siguruar transportin më të lehtë, të shpejtë dhe të përshtatshëm të fëmijës, në përputhje me moshën dhe mundësinë për të përballuar pa asnjë vështirësi atë, duke garantuar dinjitetin, nderin dhe personalitetin e fëmijës.

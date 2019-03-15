@@ -1,0 +1,1 @@
+5. Autoriteti shtetëror përgjegjës, për të garantuar funksionimin e sistemit të integruar të mbrojtjes për fëmijët e pashoqëruar, brenda dhe jashtë territorit të Republikës së Shqipërisë, nëpërmjet bashkërendimit të punës midis autoriteteve përgjegjëse të përfshira në procesin e mbrojtjes, është Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës.

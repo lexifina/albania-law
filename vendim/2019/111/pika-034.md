@@ -1,0 +1,1 @@
+34. PMF-ja, me ndihmën e një psikologu apo të një të rrituri, informon fëmijën në gjuhën që ai kupton dhe në përputhje me moshën dhe aftësinë e tij për të kuptuar me planin e kthimit të fëmijës, situatën e përgjithshme sociale, ekonomike, si dhe shërbimet që do t’i ofrohen në vendin e origjinës.

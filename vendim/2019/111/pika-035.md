@@ -1,0 +1,1 @@
+35. Si rregull, fëmija shoqërohet nga kujdestari i tij ligjor gjatë udhëtimit e deri në dorëzimin tek autoritetet përgjegjëse. Nëse kjo është e pamundur, fëmija shoqërohet nga një psikolog apo një i rritur, që njeh mirë natyrën e fëmijës apo që gëzon besimin e tij.
