@@ -1,1 +1,1 @@
-3. Gjykata thërret ekspertë të licencuar, të përcaktuar në listën që ajo disponon.
+3. Gjykata, pa cenuar administrimin e drejtësisë, bën përzgjedhjen e ekspertëve në mënyrë të drejtë dhe transparente, duke konsideruar që çdo eksperti nuk mund t’i caktohet për të ofruar ekspertizën e tij më shumë se 30% e numrit të çështjeve gjyqësore për të cilat është kërkuar e njëjta lloj ekspertize, brenda një viti kalendarik. Kjo mënyrë caktimi nga gjykata siguron një nivel transparence të përshtatshme lidhur me përzgjedhjen e ekspertëve përmes mjeteve informatike.

@@ -20,5 +20,6 @@ IV. SHPENZIME TË VEÇANTA
 Pagesat e përkthyesve të caktohen në bazë të udhëzimit të përbashkët të Ministrit të Drejtësisë dhe të Ministrit të Financave, nr.3165, datë 12.5.2004 “Për kriteret dhe procedurat e përzgjedhjes së përkthyesve të jashtëm, tarifat e pagesës së përkthyesve të jashtëm dhe tarifat e përkthimit zyrtar që duhet të paguajnë të tretët”, në bazë faqesh. Në rast se përkthyesit do të thirren për t’u paraqitur në gjykatë për të kryer shërbimet e tyre, përveç pagesës, u mbulohen edhe shpenzimet ditore në të njëjtën masë, referuar ekspertëve dhe dëshmitarëve.
 V. DISPOZITA TË FUNDIT
 1. Dokument tatimor, për efekt të këtij udhëzimi, do të konsiderohet çdo biletë transporti e miratuar nga Ministria e Financave, Drejtoria e Përgjithshme e Tatimeve, si dhe çdo faturë e thjeshtë apo me TVSH, e cila detyrimisht duhet të shoqërohet me kupon tatimor.
+1/1.Pagesat për ekspertët dhe dëshmitarët, në rastet kur gjykata ka vendosur përjashtimin nga pagesa e shpenzimeve gjyqësore në kuptim të ligjit nr. 111/2017, “Për ndihmën juridike të garantuar nga shteti”, kryhen nga Drejtoria e Ndihmës Juridike Falas, sipas rregullave dhe procedurës së përcaktuar në udhëzimin e ministrit të Drejtësisë.
 2. Ngarkohen Ministria e Drejtësisë dhe Ministria e Financave për zbatimin e këtij udhëzimi.
 Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,1 +1,1 @@
-4. Në rast se në listë nuk figurojnë ekspertë në fushën e kërkuar ose kur asnjë nga ekspertët që figuron në listë nuk është i disponueshëm, Gjykata thërret ekspertë të tjerë, referuar veçantisë së fushës së kërkuar.
+4. Gjykata thërret një ekspert jashtë Regjistrit Elektronik të Ekspertëve, vetëm kur, për nevoja të procesit, eksperti nevojitet nga fusha të veçanta ekspertize, për të cilat ligji nuk parashikon licencimin e tyre.
