@@ -1,0 +1,1 @@
+3. Anëtarët e komisionit shqiptaro-malazez për menaxhimin e ujërave me interes të përbashkët raportojnë, në mënyrë periodike, për veprimtarinë e tyre pranë Komisionit të Posaçëm për Administrimin e Ujërave Ndërkufitare.

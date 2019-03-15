@@ -1,0 +1,2 @@
+4. Ngarkohen Ministria për Evropën dhe Punët e Jashtme, Ministria e Mbrojtjes, Ministria e Bujqësisë dhe Zhvillimit Rural, Agjencia e Menaxhimit të Burimeve Ujore, Instituti i Gjeoshkencave, Energjisë, Ujit dhe Mjedisit, Autoriteti Shtetëror për Informacionin Gjeohapësinor, Koorporata Elektroenergjetike Shqiptare, Shërbimi Gjeologjik Shqiptar, Agjencia Kombëtare e Mjedisit, Agjencia Kombëtare e Zonave të Mbrojtura për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
