@@ -1,0 +1,9 @@
+2. Organizimi i Avokatit të Tatimpaguesit
+2.1 Avokati i Tatimpaguesve është strukturë e pavarur në vendimmarrje në përbërje të ministrisë përgjegjëse për financat. Funksionimi i strukturës së Avokatit të Tatimpaguesve është i organizuar në nivel drejtorie, në varësi të Drejtorit të Përgjithshëm të Politikave Makroekonomike dhe Çështjeve Fiskale. Gjithashtu, ai raporton dhe informon mbi veprimtarinë e tij dhe përpara Sekretarit të Përgjithshëm të ministrisë përgjegjëse për financat.
+2.2 Avokati i Tatimpaguesve emërohet sipas dispozitave të legjislacionit për nëpunësin civil. Ai raporton drejtpërdrejt përpara Drejtorit të Përgjithshëm në varësi të të cilit është nga ana funksionale, Sekretarit të Përgjithshëm dhe ministrit përgjegjës për financat dhe funksionon në cilësinë e përfaqësuesit direkt të tyre, në marrëdhëniet me administratën tatimore dhe me publikun. Ashtu si Sekretari i Përgjithshëm apo ministri përgjegjës për financat, ai gëzon autoritetin unik për t’u marrë drejtpërdrejt me drejtuesit dhe punonjësit në të gjitha funksionet e të gjitha niveleve të administratës tatimore, kur një gjë e tillë është e përshtatshme. Për të nxitur përgjegjshmërinë, është më mirë që shumica e veprimeve të fillojnë nga drejtuesit, edhe pse në të mirë të shpejtësisë, një gjë e tillë nuk do të jetë gjithmonë e përshtatshme.
+2.3 Marrëdhëniet e punës për personelin e stafit në varësi të Avokatit të Tatimpaguesit rregullohen në përputhje me dispozitat e legjislacionit për shërbimin civil.
+2.4 Avokati i Tatimpaguesve mund të jetë çdo person që plotëson këto kushte:
+a) të ketë njohuri të mjaftueshme për sistemin tatimor në Shqipëri;
+b) të ketë eksperiencë pune në administratën tatimore;
+c) të shquhet për aftësi profesionale dhe figurë të pastër etiko-morale;
+d) të ketë aftësi të forta ndërpersonale komunikimi.
