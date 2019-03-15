@@ -1,0 +1,1 @@
+21. Çdo organizatë jofitimprurëse e autorizuar e përzgjedhur nuk mund të përfitojë më shumë se 20% të buxhetit të planifikuar për financimin e dhënies së ndihmës juridike parësore të garantuar nga shteti nga organizatat jofitimprurëse.

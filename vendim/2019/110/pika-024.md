@@ -1,0 +1,1 @@
+24. Në rast të konstatimit të shkeljes së kontratës së shërbimit nga organizata jofitimprurëse e autorizuar përfituese e financimit, Drejtoria e Ndihmës Juridike Falas verifikon rastin dhe merr masa në raport me shkeljen e kryer, duke urdhëruar deri në zgjidhjen e parakohshme të kontratës së shërbimit dhe revokimin e autorizimit nga ministri i Drejtësisë.

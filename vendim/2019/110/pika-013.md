@@ -1,0 +1,1 @@
+13. Rregulla më të hollësishme për organizimin dhe funksionimin e komisionit vlerësues dhe komisionit të ankimit përcaktohen në rregulloren e brendshme të Drejtorisë së Ndihmës Juridike Falas, që miratohet me urdhër të ministrit të Drejtësisë.

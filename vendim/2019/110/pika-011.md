@@ -1,0 +1,1 @@
+11. Komisioni vlerësues dhe komisioni i ankimit krijohen gjatë kohës që thirrja publike për aplikim është e hapur dhe emrat e anëtarëve nuk bëhen publikë deri para shpalljes së rezultateve të shqyrtimit të ankesave. Në komisione nuk mund të marrin pjesë subjekte që gëzojnë statusin e funksionarit politik.

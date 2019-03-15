@@ -1,0 +1,1 @@
+10. Komisioni i ankimit përbëhet nga 3 (tre) anëtarë, prej të cilëve 1 (një) përfaqësues nga Drejtoria e Ndihmës Juridike Falas dhe 2 (dy) përfaqësues nga Ministria e Drejtësisë. Në komisionin e ankimit nuk mund të marrin pjesë anëtarët të cilët kanë marrë pjesë në shqyrtimin e aplikimeve, në kuadër të komisionit vlerësues.

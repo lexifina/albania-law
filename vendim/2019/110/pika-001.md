@@ -1,0 +1,1 @@
+1. Organizatat jofitimprurëse, të autorizuara për ofrimin e ndihmës juridike parësore të garantuar nga shteti (në vijim “organizata jofitimprurëse të autorizuara”) përfitojnë financime nga buxheti i shtetit, pas një procesi konkurrues dhe transparent përzgjedhjeje, bazuar në procedurat dhe rregullat e përcaktuara në këtë vendim.

@@ -1,0 +1,1 @@
+14. Komisioni vlerësues shqyrton aplikimet dhe vlerëson përmbushjen e kritereve të përgjithshme dhe të veçanta, si dhe cakton masën financiare përfituese brenda 10 (dhjetë) ditëve nga dita e mbylljes së thirrjes publike.

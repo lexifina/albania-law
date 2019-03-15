@@ -1,0 +1,1 @@
+12. Për të siguruar nevojat administrative dhe mbështetjen organizative për veprimtarinë e komisionit vlerësues dhe të komisionit të ankimit, me urdhër të drejtorit të Ndihmës Juridike Falas, ngrihet sekretariati teknik, i përbërë nga përfaqësues të Drejtorisë së Ndihmës Juridike Falas.

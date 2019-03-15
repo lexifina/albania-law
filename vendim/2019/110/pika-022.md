@@ -1,0 +1,1 @@
+22. Organizata jofitimprurëse e autorizuar, përfituese e financimit, raporton pranë Drejtorisë së Ndihmës Juridike Falas periodikisht çdo 3 (tre) muaj mbi përdorimin e fondeve të financuara dhe përmbushjen e detyrimeve të përcaktuara në kontratën e shërbimit.

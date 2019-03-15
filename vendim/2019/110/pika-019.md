@@ -1,0 +1,1 @@
+19. Drejtoria e Ndihmës Juridike Falas lidh kontratën e shërbimit të ofrimit të shërbimit të ndihmës juridike parësore me organizatën jofitimprurëse të autorizuar të përzgjedhur, brenda 10 (dhjetë) ditëve nga përfundimi i procesit të përzgjedhjes.

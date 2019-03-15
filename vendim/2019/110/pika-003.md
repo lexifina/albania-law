@@ -1,0 +1,1 @@
+3. Drejtoria e Ndihmës Juridike Falas planifikon në buxhetin e saj një zë të veçantë për financimin e organizatave jofitimprurëse të autorizuara dhe harton, në bazë të shumës së miratuar, planin vjetor të financimit.

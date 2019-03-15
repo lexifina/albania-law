@@ -1,0 +1,1 @@
+23. Drejtoria e Ndihmës Juridike Falas kryen mbikëqyrje nëpërmjet vizitës në terren të paktën 1 (një) herë në vit gjatë kohëzgjatjes së kontratës së shërbimit për të verifikuar standardet e shërbimit të ofruar nga organizata jofitimprurës e autorizuar, përfituese e financimit.
