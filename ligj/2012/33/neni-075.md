@@ -1,9 +1,0 @@
-# Neni 75
-Dispozita kalimtare
-1. Brenda vitit të parë nga hyrja në fuqi e këtij ligji, regjistruesit duhet të pajisen me certifikatën e njohurive, sipas pikës 4 të nenit 19 të këtij ligji.
-2. Ngarkohen regjistruesit e zyrave vendore të regjistrimit të pasurive të paluajtshme që, brenda 45 ditëve nga hyrja në fuqi e këtij ligji, të trajtojnë të gjitha kufizimet e regjistrimeve të pasurive të paluajtshme, të vëna para hyrjes në fuqi të këtij ligji, sipas përcaktimeve të bëra në nenin 59 të tij, me përjashtim të kufizimeve të vëna, për shkak se regjistrimi është kryer në kundërshtim me përcaktimet e bëra në nenin 193 apo 195 të Kodit Civil, ose krijon mbivendosje me një regjistrim tjetër.
-3. Hartat treguese të regjistrimit, të krijuara dhe të administruara në çastin e hyrjes në fuqi të këtij ligji, në zyrat e regjistrimit, pas përfundimit ose gjatë procesit të regjistrimit fillestar, sipas përcaktimeve të bëra në ligjin nr. 7843, datë 13.7.1994 “Për regjistrimin e pasurive të paluajtshme”, të ndryshuar, do të vijojnë të përdoren nga zyrat e regjistrimit të pasurive të paluajtshme deri në zëvendësimin e tyre me hartat kadastrale, të krijuara në zbatim të këtij ligji. Aplikimi i hartave kadastrale fillon pas datës 1 janar 2014.
-Zyra e Regjistrimit të Pasurive të Paluajtshme do të financohet për vitin në vijim sipas ligjit për buxhetin vjetor.
-Dispozitë kalimtare
-(Parashikur me ligjin nr. 9/2016, datë 11.2.2016)
-Përjashtimisht, të gjitha të ardhurat e krijuara dhe të papërdorura të vitit 2015 do të mbarten në vitin 2016 dhe do të përdoren për projektet e investimeve në drejtim të regjistrimit fillestar, përmirësimit/përditësimit të të dhënave që administron Zyra e Regjistrimit të Pasurive të Paluajtshme, si dhe dixhitalizimit të sistemit e të dhënave të pasurive të paluajtshme.

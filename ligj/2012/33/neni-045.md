@@ -1,7 +1,0 @@
-# Neni 45
-Regjistrimi i kalimit të pronësisë me anë të ligjit, me vendim të gjykatës apo të një akti administrativ
-1. Në rastet kur shteti, personi juridik/fizik ka fituar të drejtën e pronësisë mbi një pasuri të paluajtshme, me anë të ligjit, vendimit gjyqësor të formës së prerë për fitimin apo kalimin e së drejtës së pronësisë apo të aktit të një organi administrativ, regjistruesi, mbështetur në këto akte të paraqitura nga personi i interesuar, bën regjistrimin, duke shënuar pronar shtetin, personin juridik/fizik, të cilit i ka kaluar e drejta e pronësisë.
-2. Regjistrimi i fitimit të pronësisë mbi një pasuri të paluajtshme, sipas këtij neni, bëhet nga Zyra e Regjistrimit të Pasurive të Paluajtshme, pas plotësimit të kushteve të regjistrimit, të përcaktuara në shkronjën “h” dhe në paragrafin fundit të nenit 193 të Kodit Civil.
-3. Nëse nuk plotësohen kushtet e sipërpërmendura, regjistruesi propozon refuzimin e kërkesës për regjistrim dhe dosja e plotë e praktikës, së bashku me projekturdhrin e refuzimit, i kalojnë për kompetencë Kryeregjistruesit.
-4. Kryeregjistruesi, brenda 30 ditëve, me urdhër të arsyetuar, duhet të vendosë miratimin ose jo të propozimit. Kundër urdhrit të Kryeregjistruesit për refuzimin e regjistrimit, ose kur ai nuk është marrë brenda afatit të përcaktuar, mund të bëhet ankim në gjykatë.
-5. Elementet e vendimit, që verifikohen nga Zyra e Regjistrimit të Pasurive të Paluajtshme, dhe procedura e nxjerrjes së urdhrit përcaktohen me udhëzim të Këshillit të Ministrave.

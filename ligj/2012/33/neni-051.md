@@ -1,4 +1,0 @@
-# Neni 51
-Regjistrimi i kontratës së qirasë
-1. Çdo kontrate qiraje e bërë me akt noterial, për një pasuri të paluajtshme, me zgjatje kohore më shumë se 9 vjet, duhet të regjistrohet në seksionin përkatës të kartelës së pasurisë së paluajtshme të qiradhënësit. Kontrata e qirasë, e bërë me akt noterial, për një pasuri të paluajtshme, me një zgjatje kohore mbi një vit, mund të regjistrohet në regjistrin e pasurisë së paluajtshme.
-2. Kur një kontratë qiraje është për një pjesë të një pasurie të paluajtshme, atëherë kartela ekzistuese e pasurisë së paluajtshme mbyllet dhe hapen kartela të reja për pjesën/pjesët që është/janë dhënë me qira dhe për pjesën/pjesët e pasurisë së paluajtshme që mbetet/mbeten, si dhe bëhen shënimet përkatëse në hartën kadastrale, sipas përcaktimeve të bëra në nenin 33 të këtij ligji.

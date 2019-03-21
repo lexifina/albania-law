@@ -1,6 +1,0 @@
-# Neni 48
-Regjistrimi përfundimtar i ndërtimeve të reja
-1. Pas përfundimit të strukturës së objektit, regjistruesi bën regjistrimin përfundimtar të tij, menjëherë pas përcjelljes për regjistrim, nga zyrat/njësitë/drejtoritë e urbanistikës të njësive të organeve të qeverisjes vendore, të dokumentacionit të përcaktuar në nenin 13 të ligjit nr. 8402, datë 10.9.1998 “Për kontrollin dhe disiplinimin e punimeve të ndërtimit”, të ndryshuar, dhe në nenin 79 të ligjit nr. 10 119, datë 23.4.2009 “Për planifikimin e territorit”, të ndryshuar.
-2. Për efekt të regjistrimit, do të konsiderohen në pronësi të pronarëve të njësive individuale pasuritë, të cilat janë përcaktuar si të tilla në aktet noteriale për fitimin e pronësisë, të lidhura ndërmjet investitorit dhe subjekteve, me të cilat ai ka lidhur akt noterial. Njësitë e individualizuara të objektit, për të cilat investitori nuk ka lidhur akt noterial me të tretë, do të regjistrohen në pronësi të investitorit, me përjashtim të pasurive të përcaktuara në aktin e bashkëpronësisë së detyrueshme.
-Në kartelën e pasurisë së njësisë individuale, regjistruesi bën shënimet përkatëse për kuotën e pjesëmarrjes së njësisë individuale në bashkëpronësinë e detyrueshme.
-3. Kriteret dhe procedurat për regjistrimin e njësive individualisht të përcaktuara të një strukture të re miratohen me udhëzim të Këshillit të Ministrave.
