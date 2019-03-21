@@ -1,0 +1,2 @@
+5. Paga mujore e punonjësve të përcaktuar sipas pikës 1/4 të këtij vendimi, të jetë sipas lidhjes nr.4, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Për efekt të këtij trajtimi, paga e këtyre punonjësve njehsohet me pagën e gradës Këshilltar, në shërbimin e jashtëm.
+5/1. Për punonjësit e përcaktuar sipas pikës 1/4 të këtij vendimi, trajtimi me pagë sipas këtij vendimi fillon nga data e mbërritjes së tij në përfaqësi. Deri në këtë çast ai vazhdon të trajtohet me pagën e vendit të tij të mëparshëm.
