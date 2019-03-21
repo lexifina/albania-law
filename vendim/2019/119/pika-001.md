@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit, Sportit dhe Rinisë, në buxhetin e vitit 2019, në programin “Arsimi universitar”, në artikullin 604, i shtohet fondi prej 1 700 000 000 (një miliard e shtatëqind milionë) lekësh.
