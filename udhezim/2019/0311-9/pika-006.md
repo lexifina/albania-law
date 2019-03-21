@@ -1,0 +1,1 @@
+6. Të dhënat e detajuara në formularin e transferimit, për çdo rast do të rakordohen me të dhënat e administruara nga drejtoritë e kontrollit, Drejtoria e Kontabilitetit dhe Drejtoria e Borxhit pranë drejtorive rajonale tatimore, të cilat administrojnë tatimpaguesit e akcizës si subjekt të detyrimit të papaguar.

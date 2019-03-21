@@ -1,0 +1,1 @@
+8. Drejtoria e Përgjithshme e Tatimeve, do të dërgojë të gjithë dosjet dhe formularët e transferimit të subjekteve të akcizës me detyrime të papaguara, sipas përcaktimeve të pikave 4, 5 dhe 6 të këtij udhëzimi, në Drejtorinë e Përgjithshme të Doganave në përputhje edhe me legjislacionin mbi arkivën.

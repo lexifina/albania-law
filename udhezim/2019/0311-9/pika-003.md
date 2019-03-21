@@ -1,0 +1,1 @@
+3. Drejtoritë rajonale tatimore shqyrtojnë paraprakisht respektimin e hapave proceduriale për secilën dosje të subjekteve debitorë të akcizës dhe afatet e parashkrimit të së drejtës për fillimin e procedurave për zbatimin e masave shtrënguese në harmoni me kërkesat e legjislacionit tatimor dhe atij doganor në fuqi.
