@@ -1,0 +1,3 @@
+6. Nga fondi i programit për bujqësinë dhe zhvillimin rural për vitin 2019, të përdoret shuma prej:
+a) 83 000 000 (tetëdhjetë e tre milionë) lekësh, për pagesën e vlerës së palikuiduar për subjektet e shpallur fituese nga AZHBR-ja, në zbatim të vendimit nr. 72, datë 7.2.2018, të Këshillit të Ministrave, “Për përcaktimin e kritereve bazë, të sektorëve që do të mbështeten dhe të masës së financimit nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2018”, të ndryshuar;
+b) 2 500 000 (dy milionë e pesëqind mijë) lekë detyrime, për pagesat e normës së interesave bankare për kontratat e lidhura.
