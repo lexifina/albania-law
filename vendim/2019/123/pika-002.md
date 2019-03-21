@@ -1,0 +1,6 @@
+2. Pas marrjes së lejes së posaçme, në përputhje me MQP-në dhe legjislacionin në fuqi, investitori i projektit ka përgjegjësinë të mirëmbajë gazsjellësin TAP operativ gjatë të gjithë vlefshmërisë së lejes së posaçme.
+II. PËRKUFIZIME
+Përkufizimet e përcaktuara në ligjin nr. 102/2015, “Për sektorin e gazit natyror”, të ndryshuar, në marrëveshjen me qeverinë e vendit pritës (MQP), ratifikuar me ligjin nr. 116/2013, të ndryshuar, dhe në vendimin nr. 713, datë 25.8.2010, të Këshillit të Ministrave, “Për përcaktimin e rregullave për kushtet e procedurat për dhënien e lejeve për ndërtimin dhe përdorimin e tubacioneve e të infrastrukturës së sistemeve të gazit natyror”, zbatohen, për sa janë të aplikueshme në kontekstin e MQP-së, nëse nuk përcaktohet ndryshe në këtë vendim.
+Ndërkohë, përkufizimet e mëposhtme kanë kuptimet, si më poshtë vijon:
+1. “Mbajtësi i lejes së posaçme”, investitori i projektit;
+2. “Lejet dhe licencat ekzistuese”, të gjitha lejet dhe licencat e çfarëdo lloji natyre, të lëshuara për investitorin e projektit nga shteti, përpara hyrjes në fuqi të këtij vendimi, lidhur me ndërmarrjen e cilësdo veprimtarie të projektit për ndërtimin dhe përdorimin e infrastrukturës shqiptare dhe të sistemit të gazsjellësit në përgjithësi;

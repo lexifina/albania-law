@@ -1,0 +1,1 @@
+5. MQP-ja konsiderohet si marrëveshja e referuar në pikën 2, të nenit 11, të ligjit nr. 102/2015, “Për sektorin e gazit natyror”, të ndryshuar, dhe në pikën 18, të vendimit nr. 713, datë 25.8.2010, të Këshillit të Ministrave, që lidhet ndërmjet investitorit të projektit dhe palës shtetërore ose autoritetit të pavarur, lidhur me lejen e posaçme.
