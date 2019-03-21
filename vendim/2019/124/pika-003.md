@@ -1,0 +1,1 @@
+3. Transferimi i fondeve të realizohet nga Ministria e Arsimit, Sportit dhe Rinisë, pas konfirmimit nga Bashkia Tiranë të ndërmarrjes/eve të trajtimit të studentëve, Tiranë, (përfituesi), dhe numrit të llogarisë bankare të tij/tyre në bankën e nivelit të dytë përkatëse.

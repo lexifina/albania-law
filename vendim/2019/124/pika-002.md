@@ -1,0 +1,1 @@
+2. Fondi i përcaktuar në pikën 1, të këtij vendimi, pas miratimit nga Komiteti i Ndihmës Shtetërore, pranë Ministrisë së Financave dhe Ekonomisë, të transferohet nga Ministria e Arsimit, Sportit dhe Rinisë te përfituesi, ndërmarrja/et e trajtimit të studentëve, me pronar Bashkinë Tiranë, si transfertë në llogarinë e përfituesit në bankën e nivelit të dytë.

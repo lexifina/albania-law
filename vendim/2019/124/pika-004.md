@@ -1,0 +1,1 @@
+4. Ministria e Arsimit, Sportit dhe Rinisë dhe Bashkia Tiranë të monitorojnë mbarëvajtjen e punimeve për realizimin e projektit, sipas pikës 1, të këtij vendimi, nëpërmjet një grupi ekspertësh me përfaqësues nga të dyja institucionet.

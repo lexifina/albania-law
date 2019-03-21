@@ -1,0 +1,1 @@
+1. Fondi në dispozicion të Ministrisë së Arsimit, Sportit dhe Rinisë, në masën 300 000 000 (treqind milionë) lekë, në llogarinë ekonomike 604, të programit buxhetor 09450, “Arsimi i Lartë”, i trashëguar për vitin 2019, të përdoret me destinacion përmirësimin e kushteve në konviktet e studentëve të Bashkisë Tiranë.
