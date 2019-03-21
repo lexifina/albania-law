@@ -1,0 +1,6 @@
+2. Në kuptim të këtij vendimi termat e mëposhtëm kanë këto kuptime:
+a) “Fëmijë në situatë rruge”, fëmija që varet nga rruga për të jetuar dhe/ose punuar vetëm, me moshatarë ose me familjen.
+b) “Punë e ndaluar e fëmijës”, çdo punë e kryer nga fëmija, e cila është në kundërshtim me legjislacionin e punës dhe i shkakton dëm apo rrezikon shëndetin, zhvillimin mendor, fizik, shoqëror e social të fëmijës. Këtu përfshihet çdo punë e detyruar, si dhe çdo punë, e cila nuk lejon ose pengon fëmijën të ndjekë arsimin e detyruar.
+II. ORGANIZIMI I PUNËS PËR IDENTI-FIKIMIN PROAKTIV DHE REFERIMIN E FËMIJËVE TË SHFRYTËZUAR EKONOMI-KISHT, PËRFSHIRË FËMIJËT NË SITUATË RRUGE
+1. Struktura përgjegjëse për shërbimet shoqërore në bashki është institucioni përgjegjës për organizimin e veprimtarisë lidhur me planifikimin e punës në terren, marrjen e masave për identifikimin, ndihmën e menjëhershme dhe referimin e rasteve të fëmijëve të shfrytëzuar ekonomikisht, përfshirë fëmijët në situatë rruge.
+2. Kjo strukturë harton një herë në vit hartën e zonave ku kryhet identifikimi i fëmijëve të shfrytëzuar ekonomikisht, përfshirë fëmijët në situatë rruge. Harta përpilohet e përditësohet nga kjo strukturë në këshillim me institucione të tjera përgjegjëse për zbatimin e këtij vendimi.

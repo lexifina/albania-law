@@ -1,0 +1,1 @@
+8. Koordinatori i skuadrave të terrenit i paraqet drejtorit të strukturës përgjegjëse për shërbimet shoqërore në bashki raportin mujor për veprimtarinë e skuadrave të terrenit dhe rastet e referuara. Ky raport u shpërndahet edhe drejtorëve të institucioneve të përfshira në këtë proces.

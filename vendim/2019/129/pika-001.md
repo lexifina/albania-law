@@ -1,0 +1,1 @@
+1. Ky vendim përcakton rregullat dhe procedurat për identifikimin, ndihmën e menjëhershme dhe referimin e fëmijëve të shfrytëzuar ekonomikisht në sektorin formal dhe informal, përfshirë fëmijët në situatë rruge, si dhe rolet e përgjegjësitë e institucioneve përgjegjëse.

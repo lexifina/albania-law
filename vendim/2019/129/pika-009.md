@@ -1,0 +1,1 @@
+9. Skuadra e terrenit ngrihet në çdo bashki dhe përbëhet nga punonjës socialë të strukturave të mbrojtjes së fëmijës, të përcaktuara në ligjin nr. 18/2017, “Për të drejtat dhe mbrojtjen e fëmijës” dhe/ose përfaqësues të organizatave jofitimprurëse. Numri i anëtarëve të secilës skuadër terreni nuk duhet të jetë më shumë se tre.

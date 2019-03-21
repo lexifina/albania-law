@@ -1,0 +1,1 @@
+7. Koordinatori i skuadrave të terrenit garanton zbatimin e planit për identifikimin në terren të fëmijës në nevojë për mbrojtje, si edhe mbledh të dhëna nga skuadra e terrenit për rastet e identifikuara të fëmijëve në nevojë për mbrojtje. Një kopje e planit të skuadrave të terrenit i dërgohet drejtorisë vendore të policisë.
