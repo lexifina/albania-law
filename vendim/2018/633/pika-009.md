@@ -1,1 +1,1 @@
-9. Automjetet të cilat kanë hyrë në territorin shqiptar para hyrjes në fuqi të këtij vendimi, por nuk kanë përfunduar procedurat e regjistrimit, kanë afat deri në 1 mars 2019, për kryerjen e procedurave të nevojshme.
+9. Automjetet e blera para hyrjes në fuqi të këtij vendimi, që janë nisur për t’u çliruar për qarkullim të lirë dhe regjistruar në Republikën e Shqipërisë dhe që kanë hyrë në territorin shqiptar brenda datës 31.12.2018 dhe nuk kanë përfunduar procedurat doganore dhe të regjistrimit, kanë afat deri në 31 dhjetor 2019, për kryerjen e procedurave të nevojshme.
