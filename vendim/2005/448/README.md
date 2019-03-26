@@ -1,9 +1,9 @@
 # Për miratimin e listës së inventarit të pronave të paluajtshme, shtetërore, të cilat i kalojnë në përgjegjësi administrimi zyrës qendrore të regjistrimit të pasurive të paluajtshme
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 448, datë 16.6.2005](https://qbz.gov.al/api/v1/acts/3663).
+Official source: [Vendimi i Këshillit të Ministrave nr. 448, datë 16.6.2005](https://qbz.gov.al/api/v1/acts/3663); [QBZ versions](https://qbz.gov.al/api/v1/acts/3663/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2005-06-16; published 2005-07-04; in force 2005-07-04.
+Status of this text: `official consolidated version 1`, applying from 2019-03-26; after QBZ act 18441 (nr. 164).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
