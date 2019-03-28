@@ -1,0 +1,1 @@
+34. Ofruesit jopublikë/organizatat jofitim-prurëse të kontraktuara nga njësia e vetëqeverisjes vendore ofrojnë shërbimet e kujdesit shoqëror, si pjesë e kontratës ose e marrëveshjes së bashkëpunimit ndërmjet palëve.

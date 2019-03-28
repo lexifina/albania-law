@@ -1,0 +1,1 @@
+36. Njësia e vetëqeverisjes vendore monitoron ofrimin e shërbimeve të kujdesit shoqëror, të përcaktuara në pikën 3, të këtij vendimi, sipas standardeve e treguesve të performancës, të përcaktuara në marrëveshjen e bashkëpunimit/ kontratën me organizatat jofitimprurëse/ofruesit jopublikë.

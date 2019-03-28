@@ -1,0 +1,1 @@
+38. Inspektorati që mbulon fushën e shërbimeve të kujdesit shoqëror, në përputhje me funksionet dhe kompetencat e parashikuara në nenin 35, të ligjit për shërbimet e kujdesit shoqëror, siguron zbatueshmërinë e standardeve të shërbimeve shoqërore të ofruara nga subjektet e kontraktuara nga njësitë e vetëqeverisjes vendore.

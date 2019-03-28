@@ -1,0 +1,1 @@
+16. Struktura përgjegjëse për shërbimet e kujdesit shoqëror, në nivel qarku, çdo fund viti, mbledh kërkesat për mundësi financimi nga buxheti i shtetit, të sjella nga organizatat jofitimprurëse, që ofrojnë shërbime të specializuara të kujdesit shoqëror, në nivel bashkie/qarku.

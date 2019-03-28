@@ -1,0 +1,1 @@
+32. Njësia e vetëqeverisjes vendore harton specifikimet teknike, bazuar në standardet e miratuara nga ministria përgjegjëse për çështjet sociale, për të organizuar dhe për të hapur tenderin e shërbimeve të kujdesit shoqëror, kur ato ofrohen nga persona juridikë privatë.

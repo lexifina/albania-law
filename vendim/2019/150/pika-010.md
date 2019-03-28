@@ -1,0 +1,1 @@
+10. Këshilli bashkiak miraton planin social trevjeçar të buxhetuar, si dhe kërkesën për financim (fonde) nga buxheti i shtetit, brenda muajit shkurt të çdo viti, për atë pjesë të planit që mbetet i pambështetur nga buxheti i bashkisë.

@@ -1,0 +1,1 @@
+15. Këshilli i qarkut, bazuar në planin social rajonal të bashkërenduar me planet sociale të bashkive, vendos ofrimin e shërbimeve të specializuara dhe unike të kujdesit shoqëror të ofruara në nivel qarku.

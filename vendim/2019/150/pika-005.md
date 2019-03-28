@@ -1,0 +1,1 @@
+5. Mbi bazën e të dhënave të mbledhura dhe të analizuara në pikën 3, të këtij vendimi, struktura përgjegjëse e shërbimeve të kujdesit shoqëror në bashki harton raportin e nevojave për shërbime të kujdesit shoqëror (në vijim, “raportin e nevojave”), si dhe planin social për periudhën trivjeçare.
