@@ -2,7 +2,11 @@ LIGJ
 
 Nr. 102/2014
 
-KODI DOGANOR I REPUBLIKËS SË SHQIPËRISË[^fn2]
+KODI DOGANOR I REPUBLIKËS SË SHQIPËRISË[^fn1]
+
+(Ndryshuar me ligjin nr. 32/2015, datë 2.4.2015)
+
+( i përditësuar)
 
 	Në mbështetje të neneve 81, pika 2, dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -134,7 +138,7 @@ Përkufizime
 
 	b) Kodi Doganor;
 
-	c) legjislacioni për tarifën doganore dhe nomen-klaturën e kombinuar të mallrave, në Republikës së Shqipërisë; 
+	c) legjislacioni për tarifën doganore dhe nomenklaturën e kombinuar të mallrave, në Republikës së Shqipërisë; 
 
 	ç) aktet nënligjore në zbatim të këtij Kodi.
 
@@ -216,7 +220,7 @@ Përkufizime
 
 	a)  në rastin e një personi (individ), çdo person që ka vendqëndrimin, (vendbanimin) në territorin doganor të Republikës së Shqipërisë;
 
-	b) në rastin e një personi fizik ose juridik, i njohur si i tillë nga legjislacioni në fuqi, çdo person që ka selinë, zyrën qendrore, degën apo vendodhjen e përhershme të biznesit, të vendosur në territorin doganor të Republikës së Shqipërisë.  
+	b) në rastin e një personi fizik ose juridik, i njohur si i tillë nga legjislacioni në fuqi, çdo person që ka selinë, zyrën qendrore, degën apo vendndodhjen e përhershme të biznesit, të vendosur në territorin doganor të Republikës së Shqipërisë.  
 
 	32. “Vendndodhje e përhershme biznesi” është zyra qendrore ose dega e biznesit, ku janë gjithmonë burimet e nevojshme njerëzore dhe ato teknike, nëpërmjet të cilave kryhen pjesërisht ose tërësisht operacionet e një personi që ka marrëdhënie me doganën.  
 
@@ -406,7 +410,7 @@ Neni 12
 
 Parime të përgjithshme
 
-	Administrata doganore shqiptare udhëhiqet nga ligji dhe bazohet në parimin e shanseve të barabarta, mosdiskriminimit, meritës, transparencës, profesiona-lizmit dhe paanësisë politike, qëndrueshmërisë në detyrë dhe vazhdimësisë në karrierë, integritetit, përgjegjësisë dhe korrektësisë në zbatimin e ligjit.
+	Administrata doganore shqiptare udhëhiqet nga ligji dhe bazohet në parimin e shanseve të barabarta, mosdiskriminimit, meritës, transparencës, profesionalizmit dhe paanësisë politike, qëndrueshmërisë në detyrë dhe vazhdimësisë në karrierë, integritetit, përgjegjësisë dhe korrektësisë në zbatimin e ligjit.
 
 Neni 13
 
@@ -706,7 +710,7 @@ Neni 27
 
 	4. Përveçse kur përcaktohet ndryshe në vendim ose në legjislacionin doganor, vendimi i favorshëm hyn në fuqi në datën, në të cilën aplikuesi e merr vendimin ose konsiderohet sikur ta ketë marrë atë. Me përjashtim të rasteve të parashikuara në pikën 2, të nenit 46, vendimet e miratuara zbatohen nga autoritetet doganore që nga kjo datë.
 
-	5. Përveçse kur parashikohet ndryshe në legjisla-cionin doganor, vendimi është i vlefshëm pa afat kohor. 
+	5. Përveçse kur parashikohet ndryshe në legjislacionin doganor, vendimi është i vlefshëm pa afat kohor. 
 
 	6. Para se të refuzojnë marrjen e një vendimi të favorshëm për aplikuesin, autoritetet doganore i komunikojnë atij arsyet, mbi të cilat ato do të mbështetin vendimin e tyre, duke i dhënë edhe mundësinë për të shprehur pikëpamjet e tij brenda një afati të caktuar, që nga data kur është bërë komunikimi ose që konsiderohet si i bërë. Pas mbarimit të këtij afati kohor, aplikuesi njoftohet për vendimin.
 
@@ -1175,7 +1179,7 @@ Pagesat dhe kostot
 
 	a) kur nga operatori ekonomik kërkohet prania e personelit doganor jashtë orarit zyrtar të punës ose në ambiente të tjera nga ato doganore;
 
-		b) në analizat ose raportet e ekspertëve për mallra dhe tarifa postare që paguhen për kthimin e këtyre mallrave tek aplikuesi, veçanërisht për vendimet e marra në përputhje me nenin 36 ose me dhënien e informacionit, në përputhje me pikën 1, të nenit 22;
+	b) në analizat ose raportet e ekspertëve për mallra dhe tarifa postare që paguhen për kthimin e këtyre mallrave tek aplikuesi, veçanërisht për vendimet e marra në përputhje me nenin 36 ose me dhënien e informacionit, në përputhje me pikën 1, të nenit 22;
 
 	c) për kontrollin ose marrjen e mostrave të mallrave për qëllime verifikimi ose për shkatërrimin e mallrave, kur përfshihen shpenzime jo të zakonshme, të tjera nga ato që kryhen nga personeli doganor;
 
@@ -3357,7 +3361,7 @@ Mallrat e vendosura paraprakisht nën regjimin e përpunimit aktiv
 
 	1. Neni 185 zbatohet për produktet e përpunuara, të cilat fillimisht ishin rieksportuar nga territori doganor i Republikës së Shqipërisë, në vijim të një regjimi të përpunimit aktiv.
 
-	2. Me aplikim nga ana e deklaruesit dhe me kusht që ai të japë informacionin e nevojshëm, shuma e detyrimit të importit për mallrat e përmenduara në pikën 1, të këtij neni, përcaktohet në përputhje me pikën 3, të nenit 81. Data e pranimit të deklaratës së rieksportit konsiderohet si datë e çlirimit të mallrave për qarkullim të lirë.
+	2. Me aplikim nga ana e deklaruesit dhe me kusht që ai të japë informacionin e nevojshëm, shuma e detyrimit të importit për mallrat e përmendura në pikën 1, të këtij neni, përcaktohet në përputhje me pikën 3, të nenit 81. Data e pranimit të deklaratës së rieksportit konsiderohet si datë e çlirimit të mallrave për qarkullim të lirë.
 
 	3. Përjashtimi nga detyrimet e importit, i parashikuar në nenin 185, nuk jepet për produktet e përpunuara, të cilat ishin eksportuar në përputhje me shkronjën “c”, të pikës 2, të nenit 201, përveçse kur garantohet që asnjë mall i importuar nuk do të vendoset nën regjimin e përpunimit aktiv.
 
@@ -3789,9 +3793,11 @@ Neni 213
 
 Magazinimi në magazina doganore
 
-	1. Nën regjimin e magazinimit doganor, mallrat joshqiptare mund të magazinohen në ambiente ose vende të tjera të autorizuara nga autoritetet doganore për këtë regjim dhe janë objekt i mbikëqyrjes doganore (“magazinat doganore”).
+(Ndryshuar me ligjin nr.32/2015, datë 2.4.2015)
 
-	2. Magazinat doganore mund të jenë të disponueshme për përdorim nga çdo person për magazinimin doganor të mallrave (“magazinat doganore publike”) ose për magazinimin e mallrave nga mbajtësi i një autorizimi për magazinim doganor (“magazina doganore private”). Magazina doganore private konsiderohen edhe “dyqane të çliruara nga detyrimet” (duty free shops) që autorizohen vetëm në aeroportet për fluturime ndërkombëtare.
+1. Nën regjimin e magazinimit doganor, mallrat joshqiptare mund të magazinohen në ambiente ose vende të tjera të autorizuara nga autoritetet doganore për këtë regjim dhe janë objekt i mbikëqyrjes doganore (“magazinat doganore”).
+
+	2. Magazinat doganore mund të jenë të disponueshme për përdorim nga çdo person për magazinimin doganor të mallrave (“magazinat doganore publike”) ose për magazinimin e mallrave nga mbajtësi i një autorizimi për magazinim doganor (“magazina doganore private”). Magazinat doganore private konsiderohen edhe “dyqane të çliruara nga detyrimet” (duty free shops) që autorizohen të hapen në aeroportet për fluturime ndërkombëtare, portet për destinacionet ndërkombëtare dhe pikat kufitare tokësore, që ndodhen në zonën doganore të territorit doganor të Republikës së Shqipërisë. Këshilli i Ministrave përcakton me vendim procedurat, rregullat, mënyrën dhe kriteret e dhënies dhe numrin e autorizimeve për “dyqanet e çliruara nga detyrimet” (duty free shops), si dhe kushtet, të drejtat, detyrimet dhe afatet.
 
 	3. Mallrat e vendosura nën regjimin e magazinimit doganor mund të zhvendosen përkohësisht nga magazina doganore. Me përjashtim të rasteve të forcave madhore, kjo zhvendosje autorizohet paraprakisht nga autoritetet doganore.
 
@@ -5033,9 +5039,11 @@ Neni 289
 
 Shfuqizime
 
+(Ndryshuar me ligjin nr.32/2015, datë 2.4.2015)
+
 	1. Ligji nr. 8449, datë 27.1.1999, “Kodi Doganor i Republikës së Shqipërisë”, të ndryshuar, si dhe çdo akt tjetër, që bie ndesh me këtë Kod, shfuqizohen nga data e përcaktuar në pikën 3, të nenit 291.
 
-	2. Nenet 9, 10, 11, 13, 14, 16, të ligjit nr. 8449, datë 27.1.1999, “Kodi Doganor i Republikës së Shqipërisë”, të ndryshuar, shfuqizohen nga data e hyrjes në fuqi të neneve të përcaktuara në pikën 2, të nenit 291.
+	2. Nenet 9, 10, 11, 13, 14, 16, pikat 4 dhe 5 të nenit 199, të ligjit nr. 8449, datë 27.1.1999, “Kodi Doganor i Republikës së Shqipërisë”, të ndryshuar, shfuqizohen nga data e hyrjes në fuqi të neneve të përcaktuara në pikën 2, të nenit 291.
 
 	3. Nenet 93, 98, 99, 104 dhe 199, pikat 1, 2 e 3, të ligjit nr. 8449,  datë 27.1.1999, “Kodi Doganor i Republikës së Shqipërisë”, të ndryshuar, shfuqizohen nga data e hyrjes në fuqi të neneve të përcaktuara në pikën 1, të nenit 291.
 
@@ -5045,13 +5053,15 @@ Hyrja në fuqi
 
 	Ky Kod hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
 
- Neni 291
+Neni 291
 
 Fillimi i zbatimit
 
+(Ndryshuar me ligjin nr.32/2015, datë 2.4.2015)
+
 	1. Nenet 21, 22, 40, 41, 47, 90, pikat 3 e 4, 91, 119, pika 7, 149, 150, 152, 153, pikat 1, 2 e 3, 161, 163, 165, 167, 169, 175, 176 dhe 184, të këtij Kodi, fillojnë të zbatohen nga data 1 janar 2015.
 
-	2. Nenet 2, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 26, 29, 35, 39, 42, 51, 58, 62, 64, 71, 83, 94, 100, 108, 115, 118, 123, 129, 133, 141, 145, 148, 151, 154, 160, 162, 164, 166, 168, 174, 177, 181, 188, 190, 193, 196, 200, 202, 206, 209, 212, 226, 238, 240, 245, 248, 263, pika 6, 287 dhe 288 hyjnë në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
+	2. Nenet 2, 7, 8, 9, 10, 12, 13, 14, 15, 16, 18, 26, 29, 35, 39, 42, 51, 58, 62, 64, 71, 83, 94, 100, 108, 115, 118, 123, 129, 133, 141, 145, 148, 151, 154, 160, 162, 164, 166, 168, 174, 177, 181, 188, 190, 193, 196, 200, 202, 206, 209, 212, 226, 238, 240, 245, 248, 263, pika 6, 287 dhe 288, fjalia e dytë e pikës 2 të nenit 213, hyjnë në fuqi 15 ditë pas botimit në Fletoren Zyrtare.
 
 	3. Nene të tjera nga ato të përcaktuara në pikat 1 dhe 2, të këtij neni, hyjnë në fuqi më 1 qershor 2017.
 
@@ -5073,4 +5083,4 @@ Shpallur me dekretin nr. 8688, datë 22.8.2014 të Presidentit të Republikës s
 
 ---
 
-[^fn2]: Rregullorja e Parlamentit Europian dhe Këshillit (BE) nr. 952/2013, datë 9 tetor 2013, “Mbi përcaktimin e Kodit Doganor të Bashkimit Europian”, numri CELEX: 32013R0952, Fletorja Zyrtare e Bashkimit Europian, seria L, nr. 269, datë 10.10.2013, faqe 1-101.
+[^fn1]: Rregullorja e Parlamentit Europian dhe Këshillit (BE) nr. 952/2013, datë 9 tetor 2013, “Mbi përcaktimin e Kodit Doganor të Bashkimit Europian”, numri CELEX: 32013R0952, Fletorja Zyrtare e Bashkimit Europian, seria L, nr. 269, datë 10.10.2013, faqe 1-101.
