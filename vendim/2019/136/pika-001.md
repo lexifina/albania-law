@@ -1,0 +1,1 @@
+1. Miratimin e zbatimit të nomenklaturës së klasifikimit të llojeve të ndërtimit (KN), të miratuar, paraprakisht, nga Komisioni Kombëtar për Nomenklaturën, sipas lidhjes 1, që i bashkëlidhet këtij vendimi.
