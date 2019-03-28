@@ -4,6 +4,8 @@ Nr.9869, datë 4.2.2008
 
 PËR HUAMARRJEN E QEVERISJES VENDORE
 
+(ndryshuar me ligjin 68/2017, date 27.4.2017)
+
 Në mbështetje të neneve 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -338,53 +340,19 @@ Neni 23
 
 Vështirësia financiare
 
-1. Njësia e qeverisjes vendore ndodhet në një rast të vështirësisë financiare kur:
-
-a) llogaritë e pashlyera, të cilave u ka kaluar afati me më shumë se nëntëdhjetë ditë, në fund të çdo tremujori të vitit fiskal, tejkalojnë tridhjetë për qind të buxhetit të njësisë së qeverisjes vendore për këtë tremujor;
-
-b) huaja afatshkurtër nuk është shlyer plotësisht deri në ditën e fundit të muajit nëntor të vitit buxhetor, kur është marrë kjo hua.
-
-2. Ministria e Financave, me marrjen e njoftimit nga njësia e qeverisjes vendore ose kur e vëren vetë, e shpall këtë njësi në vështirësi financiare dhe bën një shënim në regjistrin e borxhit vendor për këtë qëllim.
-
-3. Me shpalljen, sipas pikës 2 të këtij neni, njësia e qeverisjes vendore është subjekt i mbikëqyrjes financiare nga Ministria e Financave dhe nuk mund:
-
-a) të marrë asnjë vendim, që mund të çojë në shtimin e detyrimeve të saj financiare;
-
-b) të vendosë shërbime të reja publike, të themelojë sipërmarrje publike apo çdo institucion tjetër;
-
-c) të shlyejë asnjë detyrim financiar, të krijuar para shpalljes së rastit të vështirësisë financiare, përveç detyrimeve, të përcaktuara shprehimisht në planin e rehabilitimit financiar, sipas pikës 4 të këtij neni;
-
-ç) të marrë hua pa miratimin e Ministrisë së Financave.
-
-4. Këshilli i njësisë së qeverisjes vendore, brenda gjashtëdhjetë ditëve nga marrja e njoftimit për vështirësinë financiare, sipas pikës 2 të këtij neni, miraton një plan rehabilitimi financiar, të cilin ia dorëzon për miratim Ministrisë së Financave. Përgatitja e planit të rehabilitimit bëhet nga kryetari i njësisë së qeverisjes vendore, me asistencë nga Ministria e Financave.
-
-5. Në rast se njësia e qeverisjes vendore nuk e dorëzon planin e rehabilitimit brenda afatit të përcaktuar në pikën 4 të këtij neni, plani përgatitet nga Ministria e Financave.
-
-6. Zbatimi i planit të rehabilitimit është i detyrueshëm për njësinë e qeverisjes vendore. Njësia e qeverisjes vendore dorëzon pranë Ministrisë së Financave, me kërkesë të kësaj ministrie, por të paktën një herë në muaj, raporte të hollësishme për realizimin e masave, sipas këtij plani.
+(shfuqizuar me ligjin 68/2017, date 27.4.2017)
 
 Neni 24
 
 Dalja nga vështirësia financiare
 
-Ministria e Financave shpall se njësia e qeverisjes vendore pushon së qeni subjekt i masave, sipas nenit 23 të këtij ligji, në rast se kjo njësi:
-
-a) nuk ka deficit buxhetor për dy vite të njëpasnjëshme;
-
-b) bën kërkesë për çlirimin nga këto masa dhe Ministria e Financave vlerëson se njësia ka ndërmarrë masa, me të cilat mund të përmirësohet gjendja financiare e njësisë së qeverisjes vendore dhe të eliminohen kushtet, që kanë shkaktuar rastin e vështirësisë financiare;
-
-c) deklaron dhe argumenton se është në përputhje me planin e rehabilitimit dhe nuk ndodhet më në kushtet e një rasti të vështirësisë financiare. 
+(shfuqizuar me ligjin 68/2017, date 27.4.2017)
 
 Neni 25
 
 Paaftësia paguese
 
-1. Rast i paaftësisë paguese shfaqet, kur njësia e qeverisjes vendore:
-
-a) nuk përmbush detyrimin për shlyerjen e principalit ose të interesit të një detyrimi huaje apo garancie për të tretë, të marrë dhe të njohur prej saj, apo është subjekt i një vendimi gjykate të formës së prerë, kur kjo mospërmbushje ka vazhduar për një periudhë prej gjashtëdhjetë ditësh e kur shuma tejkalon tridhjetë për qind të të ardhurave, gjithsej, të njësisë së qeverisjes vendore nga taksat e tarifat vendore, taksat e ndara dhe transferta e pakushtëzuar në vitin buxhetor paraardhës;
-
-b) ka llogari të pashlyera, që tejkalojnë shumën tridhjetë për qind të buxhetit të saj vjetor, për një periudhë prej nëntëdhjetë ditësh të njëpasnjëshme dhe kjo ka pasur një ndikim të dukshëm negativ në shërbimet bazë që ofron njësia.
-
-2. Procesi për administrimin e paaftësisë paguese dhe procedurat përkatëse përcaktohen me ligj të veçantë.
+(shfuqizuar me ligjin 68/2017, date 27.4.2017)
 
 KREU VII
 
