@@ -1,0 +1,1 @@
+5. Zyra vendore e regjistrimit të pasurive të paluajtshme publike çregjistron sipërfaqen pyjore të identifikuar sipas lidhjes 1, të këtij vendimi, nga kategoria “Tokë e zënë pyjore” dhe e regjistron në kategorinë “Tokë e zënë, objekt ndërtimi i radarit SIVHA”.
