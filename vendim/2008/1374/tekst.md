@@ -4,6 +4,10 @@ Nr.1374, datë 10.10.2008
 
 Për përcaktimin e rregullave dhe të procedurave, që ndiqen për heqjen, shtimin dhe ndryshimin e destinacionit të fondit kullosor
 
+(Ndryshuar me VKM nr.435, datë 8.06.2016)
+
+(I përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikës 4 të nenit 10 të ligjit nr.9693, datë 19.3.2007 “Për fondin kullosor”, me propozimin e Ministrit të Mjedisit, Pyjeve dhe Administrimit të Ujërave, Këshilli i Ministrave
 
 Vendosi:
@@ -16,11 +20,11 @@ b) “Shtim”, veprimin e regjistrimit të një sipërfaqeje kullote ose livadh
 
 c) “Ndryshim destinacioni”, veprimin që pasqyron ndryshimin në Regjistrin e Fondit Kullosor, për kalimin nga një kategori përdorimi në tjetrën.
 
-2. Personat, fizikë ose juridikë apo organet e qeverisjes vendore, për kullotat e livadhet komunale, paraqesin në Ministrinë e Mjedisit, Pyjeve dhe Administrimi të Ujërave kërkesën për heqjen e sipërfaqes nga fondi kullosor.
+2. Personat, fizikë ose juridikë apo bashkitë, për kullotat e livadhet bashkiake paraqesin në Ministrinë e Mjedisit, kërkesën për heqjen e sipërfaqes nga fondi kullosor.
 
 3. Kërkesa për heqjen e sipërfaqeve nga fondi kullosor është e vlefshme vetëm kur bëhet për veprimtaritë e përcaktuara në nenin 17 të ligjit nr.9385, datë 4.5.2005 “Për pyjet dhe shërbimin pyjor”, të ndryshuar, dhe që janë në përputhje me pikën 6 të nenit 17 të ligjit nr.9693, datë 19.3.2007 “Për fondin kullosor”.
 
-4. Personat, fizikë ose juridikë apo organet e qeverisjes vendore, për kullotat e livadhet komunale, e paraqesin kërkesën te ministri vetëm pasi kanë siguruar lejen, licencën ose dokumentin, të lëshuar nga organi i ngarkuar me ligj për miratimin e veprimtarisë.
+4. Personat, fizikë ose juridikë apo bashkitë, për kullotat e livadhet bashkiake, e paraqesin kërkesën te ministri vetëm pasi kanë siguruar lejen, licencën ose dokumentin, të lëshuar nga organi i ngarkuar me ligj për miratimin e veprimtarisë.
 
 5. Kërkesa bëhet me shkrim dhe përmban gjenealitetet e kërkuesit dhe të subjektit që ai përfaqëson, një përshkrim të shkurtër të veprimtarisë që do të ushtrojë, investimet që do të bëjë dhe kohëzgjatjen e zbatimit të projektit.
 
@@ -32,7 +36,9 @@ b) Kopje të noterizuar të lejes apo të dokumentit, me të cilin i është mir
 
 c) Planimetrinë e sipërfaqes së kërkuar në hartën topografike të dixhitalizuar dhe të gjeoreferuar, në shkallën 1:10 000, ku të jenë evidentuar elementet kryesore, si kufijtë natyrorë, relievi, objektet, si dhe çdo planimetri tjetër, në shkallë më të hollësishme, hartuar në përputhje me kërkesat e studimit apo të projektit.
 
-7. Ministria, pas depozitimit të kërkesës, i kërkon drejtorisë përkatëse të shërbimit pyjor identifikimin e ngastrave dhe të nënngastrave të kërkuara dhe hartimin e raportit teknik për to, brenda 1 jave. Ky raport i përcillet ministrisë brenda 10 ditëve nga data që ajo e ka kërkuar. Kur heqja kërkohet nga fondi kullosor komunal, drejtoria përkatëse e shërbimit pyjor harton raportin teknik, në bashkëpunim me njësinë tekniko-administrative të pyjeve e kullotave të njësisë së qeverisjes vendore.
+d) Miratimin me shkrim për vazhdimin e procedurave të heqjes nga fondi kullosor nga ana e kryetarit të bashkisë, brenda territorit administrativ të të cilit është sipërfaqja kullosore e cila do t’i nënshtrohet procedurave të heqjes nga fondi kullosor.
+
+7. Ministria, pas depozitimit të kërkesës, i kërkon strukturës përgjegjëse për pyjet dhe kullotat në bashki, identifikimin e ngastrave dhe të nënngastrave të kërkuara dhe hartimin e raportit teknik për to, brenda 1 jave nga marrja e kërkesës. Ky raport i përcillet ministrisë brenda 10 ditëve nga data që ajo e ka kërkuar.
 
 8. Ministria mund t’ia kthejë personit, fizik ose juridik, dokumentacionin e paraqitur për plotësime e saktësime. Koha për plotësimin e dokumentacionit nuk llogaritet në afatin e përcaktuar për shqyrtimin e kërkesës, i cili është një muaj.
 
@@ -52,7 +58,7 @@ c) zyra përkatëse e regjistrimit të pasurive të paluajtshme bën transferimi
 
 11. Sipërfaqja, që hiqet nga fondi kullosor publik, në përputhje me këtë vendim, ndryshon destinacionin e përdorimit, por, në çdo rast, mbetet në pronësi publike.
 
-12. Vlera e sipërfaqes kullosore të hequr dhe e infrastrukturës së saj paguhet nga kërkuesi para hyrjes në fuqi të aktit të miratimit, të përmendur në shkronjat “a” e “b” të pikës 8 të këtij vendimi dhe derdhet në llogarinë bankare të ministrisë, ndërsa për kullotat komunale derdhet në llogarinë bankare të njësisë së qeverisjes vendore përkatëse.
+12. Vlera e sipërfaqes kullosore të hequr dhe e infrastrukturës së saj paguhet nga kërkuesi para hyrjes në fuqi të aktit të miratimit, të përmendur në shkronjat “a” e “b”, të pikës 9, të këtij vendimi, dhe derdhet në llogarinë bankare të bashkisë brenda territorit administrativ të të cilit është sipërfaqja kullosore, e cila do t’i nënshtrohet procedurave të heqjes nga fondi kullosor.
 
 13. Kërkuesi, për  shërbimin  e  kryer nga ministria, paguan një tarifë shërbimi, në vlerën 20 000 lekë, në llogarinë bankare të ministrisë, në kohën e paraqitjes së kërkesës. Kjo vlerë nuk kthehet edhe nëse kërkesa nuk miratohet.
 
@@ -76,9 +82,9 @@ c) Kopjen e noterizuar të licencës, që ka miratuar veprimtarinë apo ndërtim
 
 d) Mandatpagesën e tarifës së shërbimit, sipas pikës 14 të këtij vendimi.
 
-17. Kërkesa shqyrtohet nga drejtoria përkatëse e shërbimit pyjor brenda 30 ditëve nga data e parqitjes. Me kalimin e këtij afati, kërkesa quhet e miratuar. Drejtoria e shërbimit pyjor dhe ministria bëjnë përditësimet në regjistrat e kullotave.
+17. Kur kërkesa bëhet sipas përcaktimit në pikën 15, ajo shqyrtohet nga Ministria e Mjedisit brenda 30 (tridhjetë) ditëve. Pas këtij afati, ajo quhet e miratuar. Struktura përgjegjëse për pyjet dhe kullotat në bashki dhe ministria bëjnë përditësimet në kadastrën e pyjeve.
 
-18. Ngarkohen Ministria e Mjedisit, Pyjeve dhe Administrimit të Ujërave, kryeregjistruesi i Pasurive të Paluajtshme të Republikës së Shqipërisë dhe njësitë e qeverisjes vendore për zbatimin e këtij vendimi.
+18. Ngarkohen Ministria e Mjedisit, kryeregjistruesi i Pasurive të Paluajtshme të Republikës së Shqipërisë dhe bashkitë për zbatimin e këtij vendimi.
 
 Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
 
