@@ -1,0 +1,1 @@
+2. Shërbimi i Provës, në ushtrimin e veprimtarisë së tij, udhëhiqet nga parimi i interesit më të lartë të të miturit dhe masa alternative e shmangies nga ndjekja penale u shërben më mirë qëllimeve të rishoqërizimit, rehabilitimit të të miturit dhe parandalimit të shkeljeve të ligjit përkundrejt vendosjes së tij nën përgjegjësinë penale dhe zbatimit të dënimit penal.

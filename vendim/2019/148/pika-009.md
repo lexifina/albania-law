@@ -1,0 +1,1 @@
+9. Nëse i mituri, për të cilin është kërkuar raporti i vlerësimit për mospërmbushjen e masës alternative të shmangies nga ndjekja penale, nuk bashkëpunon, punonjësi i Shërbimit të Provës e përmend refuzimin e bashkëpunimit në raportin e vlerësimit.

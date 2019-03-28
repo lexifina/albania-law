@@ -1,0 +1,1 @@
+7. Raporti i vlerësimit për mospërmbushjen e masës alternative të shmangies nga ndjekja penale e të miturit përpilohet sipas modeleve të miratuara nga ministri i Drejtësisë, me propozimin e drejtorit të Përgjithshëm të Shërbimit të Provës.

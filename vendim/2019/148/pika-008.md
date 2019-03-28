@@ -1,0 +1,1 @@
+8. Raportit të vlerësimit për mospërmbushjen e masës alternative të shmangies nga ndjekja penale nga i mituri i bashkëlidhet edhe kopje e procesverbalit të mbajtur sipas pikës 4, të këtij vendimi, dhe çdo dokument apo e dhënë tjetër që punonjësi i Shërbimit të Provës e gjykon të nevojshme.

@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi është përcaktimi i procedurës që zbatohet nga Shërbimi i Provës në rastet e mospërmbushjes së kushteve dhe detyrimeve që burojnë prej masës alternative të shmangies nga ndjekja penale e të miturit.

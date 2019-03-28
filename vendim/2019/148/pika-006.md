@@ -1,0 +1,1 @@
+6. Kundër veprimeve të punonjësit të Shërbimit të Provës të caktuar me mbikëqyrjen e masës alternative të shmangies nga ndjekja penale, i mituri, prindërit ose kujdestari /përfaqësuesi ligjor i tij ka të drejtën e ankimit tek eprori i punonjësit ose te prokurori i çështjes që ka caktuar masën alternative të shmangies.
