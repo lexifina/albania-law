@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 620 939, 15 (gjashtëqind e njëzet mijë e nëntëqind e tridhjetë e nëntë presje pesëmbëdhjetë) lekësh, të përballohet nga të ardhurat e Bashkisë Patos, planifikuar në buxhetin e saj.
