@@ -1,0 +1,1 @@
+6. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme bën çregjistrimin e sipërfaqes pyjore të identifikuar sipas lidhjes nr. 1, të këtij vendimi, nga kategoria “Tokë pyjore” dhe e regjistron në kategorinë “Tokë e zënë, objekt shfrytëzimi për aktivitet minerar”.

@@ -1,0 +1,1 @@
+4. Bashkia Maliq dhe “Devoll Hydropower” sh.a. nënshkruajnë marrëveshjen e bashkëpunimit jo më vonë se 60 ditë, nga hyrja në fuqi e këtij vendimi. Një kopje e marrëveshjes, së bashku me projektin e miratuar për pyllëzimin, dërgohet në Ministrinë e Turizmit dhe Mjedisit, jo më vonë se 10 ditë, nga data e nënshkrimit të saj.
