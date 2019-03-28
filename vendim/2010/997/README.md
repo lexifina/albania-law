@@ -1,9 +1,9 @@
 # PËR TRAJTIMIN FINANCIAR TË PUNONJËSVE QË DËRGOHEN ME SHËRBIM JASHTË QENDRËS SË PUNËS, BRENDA VENDIT
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 997, datë 10.12.2010](https://qbz.gov.al/api/v1/acts/16615).
+Official source: [Vendimi i Këshillit të Ministrave nr. 997, datë 10.12.2010](https://qbz.gov.al/api/v1/acts/16615); [QBZ versions](https://qbz.gov.al/api/v1/acts/16615/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2010-12-10; published 2010-12-30; in force 2010-12-30.
+Status of this text: `official consolidated version 1`, applying from 2019-03-28; QBZ names no changing act for this version.
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
