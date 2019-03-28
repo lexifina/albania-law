@@ -1,0 +1,27 @@
+{
+  "qbz_id": 121899,
+  "title": "PËR KOMPENSIMIN PËR FRYMË TË SHPENZIMEVE NGA RRITJA E ÇMIMIT TË BUKËS",
+  "type": "Vendim",
+  "number": "274",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "1993-06-12",
+  "version_no": 1,
+  "qbz_version_id": 10579,
+  "in_force": "2019-03-28",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-03-28",
+  "changed_by_qbz_id": null,
+  "changed_by_number": null,
+  "changed_by_title": null,
+  "source": "https://qbz.gov.al/files/fb48046616afb6e1e8fbba7ce05b0f5c15c069daae542869b1baf26aa6821411.docx",
+  "source_sha256": "fb48046616afb6e1e8fbba7ce05b0f5c15c069daae542869b1baf26aa6821411",
+  "official_record": "https://qbz.gov.al/api/v1/acts/121899",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/121899/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
