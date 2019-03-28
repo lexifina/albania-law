@@ -1,8 +1,14 @@
 4. Funksionarët, nëpunësit dhe punonjësit e administratës shtetërore, të cilët pengojnë procedurën e bashkëpunimit institucional, kanë përgjegjësi disiplinore sipas legjislacionit përkatës që rregullon marrëdhëniet e tyre të punës.
 KREU II
 PROCEDURA E BASHKËPUNIMIT INSTITUCIONAL PËR SIGURIMIN E TË DHËNAVE, INFORMACIONIT DHE NDIHMËS SË NEVOJSHME
-1. Çdo institucion i administratës shtetërore ka të drejtë që, nëpërmjet kësaj procedure, të kërkojë nga institucionet e tjera të administratës shtetërore që t’i sigurohen të dhëna, informacione apo çdolloj ndihme tjetër, të cilat janë të nevojshme për realizimin e detyrave funksionale të tij.
-2. Ky lloj bashkëpunimi mund të shfaqet në një nga format e mëposhtme:
+1. Institucionet e administratës shtetërore, nëpërmjet kësaj procedure, kanë të drejtë:
+a) të kërkojnë nga institucionet e tjera të administratës shtetërore që t’u sigurohen të dhëna, informacione apo çdo lloj ndihme tjetër, të cilat janë të nevojshme për realizimin e detyrave funksionale të tyre;
+b) të krijojnë rrjete profesionale ndërinstitucionale të nëpunësve për fusha të caktuara, të cilat kontribuojnë në rritjen e nivelit të bashkëpunimit dhe komunikimit, me synimin e:
+i. shkëmbimit të eksperiencave më të mira, njohurive dhe praktikave për procese pune të ngjashme;
+ii. shkëmbimit/krahasimit të informacionit apo të të dhënave në fushën përkatëse;
+iii. diskutimit të çështjeve apo problematikave;
+iv. adresimit të kërkesave pranë institucioneve përgjegjëse për të bërë rregullime të posaçme nëpërmjet akteve rregullatore që mbulojnë fushën përkatëse.
+2. Bashkëpunimi, sipas shkronjës “a”, të pikës 1, të kreut II, të këtij vendimi, mund të shfaqet në një nga format e mëposhtme:
 a) Kryeministria dhe ministritë me institucionet e tyre të varësisë, njësitë e drejtpërdrejta të ofrimit të shërbimeve, agjencitë autonome dhe me administratën e prefektit;
 b) Kryeministria me ministritë;
 c) Ministritë ndërmjet tyre;
