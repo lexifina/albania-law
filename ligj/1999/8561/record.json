@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123706,
+  "title": "PËR SHPRONËSIMET DHE MARRJEN NË PËRDORIM TË PËRKOHSHËM TË PASURISË PRONË PRIVATE PËR INTERES PUBLIK",
+  "type": "Ligj",
+  "number": "8561",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1999-12-22",
+  "version_no": 1,
+  "qbz_version_id": 10819,
+  "in_force": "2019-03-28",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-03-28",
+  "changed_by_qbz_id": null,
+  "changed_by_number": null,
+  "changed_by_title": null,
+  "source": "https://qbz.gov.al/files/1d9bc0dd70aa5dcfb5da9838478089c3eac59f0588842718a84e9dfff74e00f8.docx",
+  "source_sha256": "1d9bc0dd70aa5dcfb5da9838478089c3eac59f0588842718a84e9dfff74e00f8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123706",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123706/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
