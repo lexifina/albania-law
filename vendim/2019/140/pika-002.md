@@ -1,0 +1,1 @@
+2. Shenjat dalluese të Shërbimit Informativ të Shtetit janë logoja, numri i identifikimit dhe shiriti me fjalën “SIGURIA”, në uniformë. Paraqitja, forma dhe specifikimet teknike të shenjave dalluese të shërbimit, që do të vendosen në uniformë, janë të përcaktuara në aneksin 1, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+6. Shenjat dalluese të Shërbimit Informativ të Shtetit, të miratuara sipas këtij vendimi, për nga qëllimi i përdorimit, janë pronë e Shërbimit Informativ të Shtetit dhe përdoren vetëm gjatë ushtrimit të detyrës.

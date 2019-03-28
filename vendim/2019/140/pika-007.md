@@ -1,0 +1,1 @@
+7. Shenjat dalluese të Shërbimit Informativ të Shtetit janë të patjetërsueshme. Ndalohet shumëfishimi dhe realizimi i modeleve e i ngjyrave të tyre, për përdorues të institucioneve apo të subjekteve të tjera.

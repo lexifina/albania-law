@@ -1,0 +1,1 @@
+1. Miratimin e paraqitjes, të formës dhe të shenjave dalluese të uniformave për njësi të veçanta të Shërbimit Informativ të Shtetit (njësisë përgjegjëse për sigurimin fizik të objekteve dhe informacionit të klasifikuar), që përdoren vetëm gjatë ushtrimit të detyrës.
