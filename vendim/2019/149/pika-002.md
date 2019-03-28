@@ -1,0 +1,1 @@
+2. Sistemi i Integruar i të Dhënave të Drejtësisë Penale për të Mitur përmban të dhëna elektronike të përditësuara mbi çdo fazë të procedimit penal, përfshirë edhe ekzekutimin e vendimit penal, ku përfshihen të miturit në konflikt me ligjin penal, të mitur viktima dhe dëshmitarë të veprave penale.

@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave lidhur me krijimin, organizimin, funksionimin dhe karakteristikat e përdorimit e aksesimit, të dhënat parësore e dytësore dhe dhënësin e informacionit të Sistemit të Integruar të të Dhënave të Drejtësisë Penale për të Mitur.

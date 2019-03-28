@@ -1,0 +1,1 @@
+21. Subjekti përgjegjës për administrimin e sistemit në cilësinë e “kontrolluesit”, sipas legjislacionit në fuqi për mbrojtjen e të dhënave personale, duhet të dokumentojë masat tekniko-organizative të përshtatura e të zbatuara për garantimin e mbrojtjes së të dhënave personale.
