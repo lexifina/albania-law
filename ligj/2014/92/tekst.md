@@ -1,8 +1,14 @@
-LIGJ
+LIGJ[^fn1]
 
 Nr. 92/2014
 
-PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË[^fn2]
+PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
+
+(Ndryshuar me ligjin nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
+
+nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018 )
+
+ (i përditësuar, 2018)
 
 Në mbështetje të neneve 78, 83, pika 1, dhe 155, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -634,9 +640,25 @@ Neni 49
 
 Shkallët e reduktuara
 
+(shtuar pika 3 me ligjin nr. 71/2017, datë 27.4.2017,  pika 4 me ligjin nr. 107/2017, datë 30.11.2017 dhe pika 5 me ligjin nr. 40/2018, datë 9.7.2018, shtuar pikat 6, 7 dhe 8 me ligjin nr. 96/2018, datё 3.12.2018) 
+
 1. Përveç shkallës standarde të TVSH-së, kur parashikohet në këtë ligj, mund të aplikohet shkalla e reduktuar e TVSH-së, e cila aplikohet si një përqindje e vlerës së tatueshme.
 
 2. Shuma e TVSH-së që rezulton nga aplikimi i shkallës së reduktuar të TVSH-së lejon normalisht zbritjen e shumës së TVSH-së, së cilës i njihet e drejta e zbritjes, siç përcaktohet në nenet 68, 69, 70, 71, 72, 73 e 74, të këtij ligji.
+
+3. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e shërbimit të akomodimit në strukturat akomoduese, sipas kategorive të përcaktuara në legjislacionin e fushës së turizmit, është 6 për qind. Kushtet, kriteret dhe procedurat për zbatimin e kësaj pike përcaktohen me vendim të Këshillit të Ministrave.
+
+4. Përjashtimisht sa përcaktohet në pikën 3, të këtij neni, shkalla e reduktuar e tatimit mbi vlerën e shtuar 6 % aplikohet për çdo furnizim shërbimi të ofruar brenda strukturave akomoduese “Hotel/Resort me pesë yje, status special”, sipas përcaktimit në legjislacionin e fushës së turizmit dhe që janë mbajtës të një marke tregtare të regjistruar dhe njohur ndërkombëtarisht “brand name”.
+
+Kushtet, kriteret dhe procedurat për zbatimin e kësaj pike përcaktohen me vendim të Këshillit të Ministrave.
+
+5. Për strukturat, të cilat zhvillojnë veprimtari pritëse të certifikuar si “agroturizëm”, sipas legjislacionit në fuqi në fushën e turizmit, aplikohet shkalla e reduktuar e tatimit mbi vlerën e shtuar 6 për qind për furnizimin e shërbimit të akomodimit dhe restorantit, me përjashtim të pijeve. Personi i tatueshëm, që aplikon shkallën e reduktuar të tatimit mbi vlerën e shtuar  6 për qind, është personi i regjistruar me NIPT/NUIS, vetëm për zhvillimin e veprimtarisë pritëse të certifikuar si “agroturizëm”.
+
+6. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e shërbimit të reklamave nga media audiovizive, është 6 për qind.
+
+7. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e mjeteve të transportit publik tё licencuar të udhëtarëve me autobus me nëntë plus një vende ose më shumë, vetëm me motor elektrik, është 6 për qind deri në datën 31 dhjetor 2021. Nga data 1 janar 2022 shkalla e reduktuar e tatimit mbi vlerën e shtuar që aplikohet për këtë furnizim është 10 për qind.
+
+8. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e librave të çdo lloji, është 6 për qind.
 
 Neni 50
 
@@ -655,6 +677,8 @@ Furnizimet e përjashtuara
 Neni 51
 
 Përjashtimi i disa veprimtarive me interes të përgjithshëm
+
+(shtuar shkronjat n”, “nj” dhe “o” me ligjin nr. 96/2018, datё 3.12.2018)
 
 Janë furnizime të përjashtuara nga TVSH-ja transaksionet me interes të përgjithshëm si më poshtë:
 
@@ -696,6 +720,12 @@ ll) furnizimi i transportit të të sëmurëve apo të plagosurve me automjete t
 
 m) veprimtaritë e kryera nga radiotelevizionet publike shqiptare, përveç veprimtarive me natyrë tregtare.
 
+n) furnizimi i makinave bujqësore. Lista e makinave bujqësore përcaktohet me vendim të Këshillit të Ministrave;
+
+nj) furnizimi i inputeve bujqësore, siç janë plehrat kimike, pesticidet, farat dhe fidanët, përveç hormoneve të klasifikuar në kodet 2937 të NKM-së. Lista e kategorive të imputeve bujqësore përcaktohet me vendim të Këshillit të Ministrave;
+
+o) furnizimi i shërbimeve veterinare, me përjashtim të shërbimeve veterinare për kafshët shtëpiake.
+
 Neni 52
 
 Kufizime të së drejtës së përjashtimit
@@ -707,6 +737,8 @@ Kufizime të së drejtës së përjashtimit
 Neni 53 
 
 Përjashtime për disa veprimtari të tjera
+
+(hequr fjalë në shkronjën “j” me ligjin nr. 96/2018, datё 3.12.2018)
 
 Janë furnizime të përjashtuara nga TVSH-ja transaksionet e mëposhtme:
 
@@ -750,7 +782,7 @@ v) dhënien me qira të kasafortave;
 
 i) furnizimi i kartave të identitetit për shtetasit; 
 
-j) furnizimi i shërbimeve të shtypshkronjave për gazetat, furnizimi i gazetave, i revistave dhe i librave të çdo lloji, si dhe furnizimi i shërbimit të reklamave nga media e shkruar dhe nga media elektronike;
+j) furnizimi i shërbimeve të shtypshkronjave për gazetat, furnizimi i gazetave, i revistave të çdo lloji, si dhe furnizimi i shërbimit të reklamave nga media e shkruar;
 
 k) furnizimi i shërbimeve të destinuara vetëm për realizimin e fazës së kërkimit të operacioneve hidrokarbure, të kryera nga kontraktorët ose nënkontraktorët, të vërtetuar si të tillë nga Agjencia Kombëtare e Burimeve Natyrore, lidhur me realizimin e fazës së kërkimit, si dhe furnizimi i mallrave që bëjnë kontraktorët për njëri-tjetrin ose nënkontraktorët për kontraktorët e tyre, të importuara sipas pikës 39, të nenit 56, të këtij ligji. 
 
@@ -782,7 +814,9 @@ Përjashtimi në importime
 
 Neni 56
 
-Përjashtime të veçanta në import 
+Përjashtime të veçanta në import
+
+(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018)
 
 Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
@@ -874,7 +908,9 @@ Lista e makinerive dhe pajisjeve që janë direkt të lidhura me investimin, pro
 
 40. Importimi i kafshëve të gjalla për majmëri.
 
-41. Importimi i makinave bujqësore. Lista e makinave bujqësore, procedura e përjashtimeve dhe kriteret përkatëse përcaktohen me vendim të Këshillit të Ministrave.
+41. Shfuqizuar.
+
+42. Importimi i lëndëve të para që përdoren për prodhimin e barnave, me përjashtim të lëndëve me përdorim të dyfishtë, të kryera nga mbajtësit e autorizimit të prodhimit, sipas legjislacionit të fushës për barnat. Lista e lëndëve të para për prodhimin e barnave përcaktohet me vendim të Këshillit të Ministrave.
 
 Seksioni 3
 
@@ -888,6 +924,8 @@ Neni  57
 
 Eksportet
 
+(ndryshuar shkronja “ç” me ligjin nr. 96/2018, datё 3.12.2018) 
+
 Trajtohen si furnizime me shkallë zero të TVSH-së transaksionet e mëposhtme të eksportit:
 
 a) furnizimi i mallrave të dërguara ose të transportuara jashtë territorit të Republikës së Shqipërisë nga shitësi ose për llogari të tij;
@@ -900,7 +938,9 @@ c) furnizimi i mallrave organizmave pa qëllim fitimi, të miratuar sipas marrë
 
 Përfitimi i përjashtimit të parashikuar në këtë shkronjë, kryhet sipas një procedure rimbursimi të TVSH-së, modalitetet e aplikimit të së cilës përcaktohen me udhëzim të Ministrit të Financave;
 
-ç) furnizimi i shërbimeve që konsistojnë në punime mbi mallra të luajtshme të importuara për t’u bërë atyre punime në Republikën e Shqipërisë dhe të dërguara apo të transportuara sërish jashtë Republikës së Shqipërisë nga furnizuesi i shërbimit apo nga destinuesi i shërbimeve, të cilët nuk janë vendosur në territorin e Republikës së Shqipërisë ose për llogari të tyre;
+ç) furnizimi i shërbimeve të përpunimit të mallrave joshqiptare të destinuara për t’u rieksportuar, nga personat e tatueshem të autorizuar dhe nënkontraktorët e tyre, mbi bazën e dispozitave që parashikon Kodi Doganor, për operacione nën regjimin e përpunimit aktiv.
+
+Ministri përgjegjës për financat përcakton me udhëzim dokumentacionin e nevojshëm, për zbatimin e shkronjës “ç”.
 
 d) furnizimi i shërbimeve, përfshirë transportin dhe operacionet ndihmëse, përveç shërbimeve që janë të përjashtuara në përputhje me nenet 51 dhe 53, të këtij ligji, në qoftë se janë të lidhura drejtpërdrejt me eksportimet apo importimet e mallrave, sipas nenit 22, të këtij ligji. 
 
@@ -990,13 +1030,15 @@ Neni 64
 
 Veprime që lidhen me regjimet doganore e të tjera të ngjashme
 
+(shtuar fjalë në shkronjën “c” me ligjin nr. 96/2018, datё 3.12.2018)
+
 Trajtohen si furnizime me shkallë zero të TVSH-së veprimet e mëposhtme: 
 
 a) furnizimi i mallrave të deklaruara për të qenë nën regjimin e ruajtjes së përkohshme, siç përcaktohet në legjislacionin doganor në fuqi;
 
 b) furnizimi i mallrave të destinuara për t’u vendosur në një zonë të lirë ose në një magazinë të lirë, siç përcaktohet në legjislacionin doganor në fuqi;
 
-c) furnizimi i mallrave, të vendosura nën regjim magazinimi doganor ose nën regjimin e përpunimit aktiv, siç përcaktohet në legjislacionin  doganor në fuqi.
+c) furnizimi i mallrave, të vendosura nën regjim magazinimi doganor ose nën regjimin e përpunimit aktiv nga mbajtësi i autorizimit dhe nënkontraktorët e tij, siç përcaktohet në legjislacionin  doganor në fuqi.
 
 Neni 65
 
@@ -1186,6 +1228,8 @@ Neni 77
 
 Rimbursimi i TVSH-së
 
+(Ndryshuar pika 4 me ligjin nr.90/2015, datë 23.7.2015)
+
 1. Një person i tatueshëm kërkon rimbursim të tepricës së kreditimit tatimor të TVSH-se nëse:
 
 a) personi i tatueshëm ka mbartur tepricën e TVSH-së së zbritshme për  3 muaj radhazi, sipas pikave 2 dhe 3, të nenit 76, të këtij ligji; dhe
@@ -1196,7 +1240,9 @@ b) TVSH-ja e kërkuar për t’u rimbursuar tejkalon shumën prej 400 000 (katë
 
 3. Eksportuesit kanë të drejtë të kërkojnë rimbursim kur teprica e tyre tejkalon shumën 400 000 (katërqind mijë) lekë. Këshilli i Ministrave përcakton kategorinë e eksportuesve, sipas këtij neni.	
 
-4. Brenda 60 ditëve nga data e paraqitjes së kërkesës së tatimpaguesit dhe brenda 30 ditëve nga data e paraqitjes së kërkesës së tatimpaguesve eksportues, drejtoria rajonale e tatimeve verifikon situatën tatimore të tatimpaguesit, ushtron kontroll bazuar në analizën e riskut dhe miraton tepricën kreditore si të rimbursueshme. Pagesa e tepricës kreditore të rimbursueshme kryhet brenda 5 ditëve nga miratimi, nëpërmjet sistemit të thesarit. Drejtori i Përgjithshëm i Tatimeve, për shkaqe të arsyeshme, me kërkesë të drejtorit të drejtorisë rajonale tatimore, ka të drejtë të shtyjë afatin e kontrollit dhe miratimit të tepricës kreditore për një tatimpagues deri në 60 ditë. Administrata tatimore, para se të procedojë një kërkesë për rimbursim të TVSH-së për një person të tatueshëm, ka të drejtë ta detyrojë atë person të provojë që qëllimi i veprimtarisë ekonomike është realizimi i transaksioneve të tatueshme, që i japin të drejtën e zbritjes së TVSH-së.
+4. Brenda 60 ditëve nga data e paraqitjes së kërkesës së tatimpaguesit dhe brenda 30 ditëve nga data e paraqitjes së kërkesës së tatimpaguesve eksportues, administrata tatimore kryen procedurën e rimbursimit, siç përcaktohet për këtë qëllim në ligjin “Për procedurat tatimore në Republikën e Shqipërisë.
+
+Administrata tatimore, para se të procedojë një kërkesë për rimbursim të TVSH-së për një person të tatueshëm, ka të drejtë ta detyrojë atë person të provojë që qëllimi i veprimtarisë ekonomike është realizimi i transaksioneve të tatueshme, që i japin të drejtën e zbritjes së TVSH-së.
 
 5. Ministri i Financave përcakton me udhëzim mënyrën e zbatimit të dispozitave të këtij neni.
 
@@ -1574,6 +1620,8 @@ Neni 107
 
 Afati i  paraqitjes së deklaratës dhe periudha tatimore
 
+(ndryshuar pika 5 me ligjin nr. 107/2017, datë 30.11.2017)
+
 1. Deklarata e TVSH-së, e bërë në përputhje me nenin 106, të këtij ligji, duhet të dorëzohet jo më vonë se 14 ditë pas përfundimit të periudhës tatimore që deklarohet.
 
 2. Në kuptim të pikës 1, të këtij neni, periudha tatimore është muaji kalendarik, përveç rasteve kur në këtë nen përcaktohet ndryshe.
@@ -1582,7 +1630,7 @@ Afati i  paraqitjes së deklaratës dhe periudha tatimore
 
 4. Për një person të tatueshëm që çregjistrohet, periudha tatimore fillon në ditën e parë të muajit përkatës dhe përfundon në ditën, në të cilën personi është çregjistruar.
 
-5. Ministri i Financave ka të drejtë të caktojë me udhëzim që për ndonjë kategori personash të tatueshëm periudha tatimore të jetë më e gjatë se një muaj, por jo më e gjatë se një vit kalendarik.
+5. Këshilli i Ministrave ka të drejtë të caktojë, me vendim, që për ndonjë kategori personash të tatueshëm, periudha tatimore të jetë më e gjatë se një muaj, por jo më e gjatë se një vit kalendarik.
 
 Neni 108
 
@@ -1594,9 +1642,11 @@ Neni 109
 
 Deklarime të tjera
 
+(shtuar një fjali në pikën 2 me ligjin nr. 107/2017, datë 30.11.2017)
+
 1. Autoriteti tatimor mund t’i kërkojë dhe t’i lejojë personit të tatueshëm të bëjë deklarime të tjera, si shtesë e deklaratave për periudhat tatimore, në përputhje me nenin 67, të ligjit për procedurat tatimore në Republikën e Shqipërisë. Në këtë rast deklarimi bëhet në përputhje me pikën 3, të nenit 106, të këtij ligji.
 
-2. Të gjithë personat, të cilët, në zbatim të këtij kreu, kanë detyrimin për të dorëzuar deklaratën e TVSH-së, duhet ta shoqërojnë çdo deklaratë për një periudhë të caktuar tatimore me regjistrat përmbledhës mujorë si për furnizime të kryera, dhe për furnizime të marra dhe saktësime të tyre, të emërtuar përkatësisht libër shitjeje dhe libër blerjeje. Në këtë rast deklarimi bëhet në përputhje me pikën 3, të nenit 106, të këtij ligji.
+2. Të gjithë personat, të cilët, në zbatim të këtij kreu, kanë detyrimin për të dorëzuar deklaratën e TVSH-së, duhet ta shoqërojnë çdo deklaratë për një periudhë të caktuar tatimore me regjistrat përmbledhës mujorë si për furnizime të kryera, dhe për furnizime të marra dhe saktësime të tyre, të emërtuar përkatësisht libër shitjeje dhe libër blerjeje. Në këtë rast deklarimi bëhet në përputhje me pikën 3, të nenit 106, të këtij ligji. Këshilli i Ministrave ka të drejtë të caktojë, me vendim, që për ndonjë kategori personash të tatueshëm, regjistrat përmbledhës që shoqërojnë deklaratën e TVSH-së, të jenë për një periudhë më të gjatë se muaji, por jo më e gjatë se një vit kalendarik.
 
 3. Ministri i Financave përcakton me udhëzim formën dhe përmbajtjen e librit të shitjes dhe librit të blerjes. 
 
@@ -1676,9 +1726,11 @@ Neni 117
 
 Objekti i regjimit të bizneseve të vogla
 
+(ndryshuar pika 2 me ligjin nr. 107/2017, datë 30.11.2017)
+
 1. Personat e tatueshëm rezidentë në Shqipëri, qarkullimi vjetor i të cilëve është nën kufirin minimal të regjistrimit për TVSH-në, janë objekt i regjimit për bizneset e vogla, duke përfituar një përjashtim nga detyrimi për të llogaritur TVSH-në në shitje për furnizimet e mallrave dhe shërbimeve të kryera prej tyre.
 
-2. Kufiri minimal i regjistrimit për TVSH-në përcaktohet me vendim të Këshillit të Ministrave.
+2. Kufiri minimal i regjistrimit për TVSH-në, rastet e përjashtimit apo kufiri minimal i regjistrimit për kategori të veçanta, përcaktohen me vendim të Këshillit të Ministrave.
 
 3. Nuk përfshihen në regjimin e bizneseve të vogla, në kuptim të pikës 1, të këtij neni, personat e tatueshëm që kryejnë veprimtari ekonomike që përbën evazion fiskal, sipas kuptimit të nenit 116, të ligjit për procedurat tatimore në Republikën e Shqipërisë.
 
@@ -2022,7 +2074,9 @@ Neni 148
 
 Norma e kompensimit të prodhuesit bujqësor
 
-Norma e kompensimit të prodhuesve bujqësorë është 20 për qind.
+(ndryshuar fjalë me ligjin nr. 96/2018, datё 3.12.2018)
+
+Norma e kompensimit të prodhuesve bujqësorë është 6 për qind.
 
 Neni 149
 
@@ -2292,4 +2346,4 @@ II. LISTA TREGUESE E SHËRBIMEVE BUJQËSORE
 
 ---
 
-[^fn2]: Ky ligj është përafruar pjesërisht me: Direktivën e Parlamentit Europian dhe Këshillit 2006/112/KE, datë 28 nëntor 2006, “Mbi Sistemin e Përbashkët të Tatimit mbi Vlerën e Shtuar”, Numri CELEX 32006L0112, Fletorja Zyrtare e  Bashkimit Europian, Seria L, Nr. 347,datë, 11.12.2006, faqe 1–118, e ndryshuar”.
+[^fn1]: Ligji nr. 92/2014, datë 24.7.2014 është botuar në Fletoren Zyrtare nr. 128, datë 13 gusht 2014.  Ligji nr.90/2015, datë 23.7.2015 është botuar në Fletoren Zyrtare nr. 144, datë 7 gusht 2015. Ligji nr. 71/2017, datë 27.4.2017 është botuar në Fletoren Zyrtare nr. 113, datë 22 maj 2017. Ligji nr. 107/2017, datë 30.11.2017 është botuar në Fletoren Zyrtare nr. 222, datë 19 dhjetor 2017 dhe ka hyrë              në fuqi më 1 janar 2018. Ligi nr. 40/2018, datë 9.7.2018 është botuar në Fletoren Zyrtare nr. 111, datë 30 korrik 2018. Ligji nr. 96/2018, datё 3.12.2018 është botuar në Fletoren Zyrtare nr. 187, datë 28 dhjetor 2018 dhe hyn në fuqi më 1 janar 2019.
