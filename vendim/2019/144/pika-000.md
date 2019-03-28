@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (marrësi), dhe KfW Frankfurt am Main (KfW), për financimin e shërbimeve ndërkombëtare këshillimore për menaxhim për masa shoqëruese në kuadër të programit “Linja unazore 110 kv e Shqipërisë së Jugut”, me një grant në shumën prej 2 000 000 (dy milionë) eurosh, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
