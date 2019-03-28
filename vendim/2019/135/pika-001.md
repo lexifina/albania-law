@@ -1,0 +1,1 @@
+1. Miratimin e zbatimit të nomenklaturës së klasifikimit ndërkombëtar të sëmundjeve, ICD-10, të miratuar paraprakisht nga Komisioni Kombëtar për Nomenklaturën, sipas lidhjes 1, vëllimet 1 e 2, që i bashkëlidhet këtij vendimi.
