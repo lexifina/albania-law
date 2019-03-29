@@ -1,0 +1,1 @@
+5. Në këtë modul pasqyrohen të dhënat për gjithë të lindurit e paregjistruar, të cilët prezumohet se kanë shtetësinë shqiptare, pavarësisht faktit se kanë lindur brenda apo jashtë territorit të Republikës së Shqipërisë, pavarësisht se kanë lindur në institucione spitalore publike/jopublike apo jashtë tyre, sipas përcaktimeve të pikës 6, të këtij udhëzimi.

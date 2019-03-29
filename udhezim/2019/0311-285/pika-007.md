@@ -1,0 +1,1 @@
+7. Të dhënat e pasqyruara në modul do të qëndrojnë aty derisa rasti të zgjidhet. Zgjidhja mund të jetë nëpërmjet rrugës gjyqësore ose rrugës administrative dhe nëpunësi të ketë mundësinë e mbajtjes së aktit të lindjes ose të pasqyrimit të aktit të lindjes të mbajtur jashtë vendit.

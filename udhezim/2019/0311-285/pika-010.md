@@ -1,0 +1,2 @@
+10. Nëpunësi i zyrës së gjendjes civile, në bazë të të dhënave të modulit lëshon vërtetim sipas modelit bashkëlidhur këtij udhëzimi, pjesë përbërëse e tij.
+Vërtetimi i lëshuar nga nëpunësi i zyrës së gjendjes civile i jepet të interesuarit për plotësimin e të drejtave të tij për arsim, trajtim shëndetësor ose përfitimin e shërbimeve të përkujdesjes shoqërore, apo në çdo aspekt tjetër për të cilin ka interes të ligjshëm.

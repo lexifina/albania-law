@@ -1,0 +1,1 @@
+1. Regjistri i Përkohshëm në zbatim të përcaktimeve të bëra në pikën 2, të nenit 41/1, të ligjit nr. 10129, datë 11.5.2009, “Për gjendjen civile”, të ndryshuar, është një modul elektronik, në të cilin do të pasqyrohen të dhënat vetëm për rastet e lindjeve të raportuara dhe të paregjistruara në Regjistrin Kombëtar të Gjendjes Civile.

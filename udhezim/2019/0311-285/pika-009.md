@@ -1,0 +1,4 @@
+9. Moduli përmban edhe opsionin e njoftimit të nëpunësit të gjendjes civile, në rastin kur kalohet afati 60-ditor nga data e lindjes.
+Me kalimin e afatit 60-ditor të përmendur më lart, nëpunësi i zyrës së gjendjes civile kryen këto veprime:
+a) kontrollon nëse të dhënat e regjistruara për lindjen dhe/ose regjistrimin janë regjistruar përfundimisht në Regjistrin Kombëtar të Gjendjes Civile. Në rast se është bërë regjistrimi i të dhënave për personin në Regjistrin Kombëtar të Gjendjes Civile, atëherë nëpunësi i gjendjes civile vendos në modul shënimin: “E zgjidhur”.
+b) në rast se nëpunësi i gjendjes civile konstaton se fëmija nuk është regjistruar ende në Regjistrin Kombëtar të Gjendjes Civile, atëherë kryen veprimet e përcaktuara në Udhëzimin e Ministrit të Brendshëm, “Për procedurën e mbajtjes së aktit të lindjes së fëmijëve, në rastet kur nuk është respektuar afati kohor i regjistrimit të tyre, brenda 60 ditëve nga data e lindjes”.
