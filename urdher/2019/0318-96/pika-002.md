@@ -1,0 +1,1 @@
+2. Të gjitha standardet e mësipërme, përveç Standardit Ndërkombëtar të Raportimit Financiar nr. 17, do të zbatohen në pasqyrat financiare që mbulojnë periudhën kontabël që fillon më ose pas datës 1.1.2019.
