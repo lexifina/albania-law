@@ -1,0 +1,1 @@
+6. Deklaruesit kryejnë pagesën e tarifës së përcaktuar, në numrin e llogarisë bankare të ambasadës apo konsullatës përkatëse, ku do të dërgohet akti për vendosjen e vulës “APOSTILLE”. Këto numra llogarie publikohen pranë çdo zyre të gjendjes civile.

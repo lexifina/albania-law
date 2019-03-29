@@ -1,0 +1,1 @@
+9. Në rastin e parashikuar në pikën 5, (“b”), procedura e regjistrimit fillon pasi mbërrin zyrtarisht në zyrën e gjendjes civile që e dërgoi, akti i lindjes i pajisur me vulën “APOSTILLE”. Pasi merr aktin në formën e kërkuar, nëpunësi i gjendjes civile njofton deklaruesin dhe, pas paraqitjes së tij, fillon procedurën e parashikuar në pikën 3 dhe 4 të këtij udhëzimi.

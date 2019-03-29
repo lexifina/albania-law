@@ -1,0 +1,1 @@
+2. Kërkesa për pasqyrimin e të dhënave të aktit të lindjes, të mbajtur jashtë territorit të Republikës së Shqipërisë, me rubrikën e paplotësuar të emrit, paraqitet nga të dy prindërit/prindi ose nga çdo person i parashikuar sipas ligjit “Për gjendjen civile”, i ndryshuar. Kërkesa paraqitet në zyrën e gjendjes civile ku kanë vendbanimin prindërit/prindi.

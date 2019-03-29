@@ -1,0 +1,1 @@
+7. Në rast të mosmbajtjes së aktit të lindjes sipas pikës 5 të këtij udhëzimi, nëpunësi i gjendjes civile i regjistron të dhënat e fëmijës në Regjistrin e Përkohshëm, sipas procedurës së parashikuar në udhëzimin përkatës.

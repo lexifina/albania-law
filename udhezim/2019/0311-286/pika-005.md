@@ -1,0 +1,6 @@
+5. Në rastin kur akti i lindjes, i mbajtur jashtë territorit të Republikës së Shqipërisë, ka rubrikën e emrit të paplotësuar dhe nuk përmban vulën “APOSTILLE”, atëherë nëpunësi:
+a) këshillon deklaruesin për procedurën ligjore të vendosjes së vulës “APOSTILLE” në aktin e lindjes, kur ai shprehet se do ta kryejë vetë këtë procedurë;
+b) kur i interesuari është në pamundësi ta kryejë vetë këtë procedurë, nëpunësi i gjendjes civile duhet:
+i) të hartojë një procesverbal në të cilin provon se i interesuari ka depozituar në zyrën e gjendjes civile aktin e lindjes së fëmijës, të mbajtur jashtë territorit të Republikës së Shqipërisë, me rubrikën e emrit të paplotësuar;
+ii) të sqarojë deklaruesin për tarifën financiare që duhet të paguajë për këtë shërbim dhe mënyrën e arkëtimit të saj.
+Nëpunësi i gjendjes civile, aktin e lindjes të mbajtur me procesverbal, si dhe kopjen e mandatit të arkëtimit në bankë, të tarifës së përcaktuar sipas pikës 6, e dërgon me shkresë zyrtare Drejtorisë së Përgjithshme të Gjendjes Civile brenda 48 orëve dhe kjo e fundit e përcjell te strukturat përkatëse të ministrisë përgjegjëse për punët e jashtme brenda 48 orëve nga data e marrjes. Në këtë rast, deklaruesit i jepet një kopje e procesverbalit, ku të jenë shënuar edhe kontaktet e nevojshme të tyre, së bashku me adresën e tij.

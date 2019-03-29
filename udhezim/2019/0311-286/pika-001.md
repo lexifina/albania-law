@@ -1,0 +1,1 @@
+1. Objekt i këtij udhëzimi është përcaktimi i procedurës administrative, që zbatohet nga zyrat e gjendjes civile, për regjistrimin e fëmijëve në Regjistrin Kombëtar të Gjendjes Civile, në rastet kur në aktin e lindjes së tyre të mbajtur jashtë territorit të Republikës së Shqipërisë është e paplotësuar vetëm rubrika e emrit të fëmijës.

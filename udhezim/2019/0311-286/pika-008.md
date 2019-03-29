@@ -1,0 +1,1 @@
+8. Në rastin e parashikuar në pikën 5 (“a”) të këtij udhëzimi, kur deklaruesi, risjell në zyrën e gjendjes civile aktin e lindjes së mbajtur jashtë territorit të Republikës së Shqipërisë, me rubrikën e emrit të paplotësuar në të cilën është vendosur vula “APOSTILLE”, nëpunësi i gjendjes civile kryen procedurën e parashikuar në pikën 3 dhe 4 të këtij udhëzimi.

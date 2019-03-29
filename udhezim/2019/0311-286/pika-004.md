@@ -1,0 +1,2 @@
+4. Nëpunësi i gjendjes civile, pasi ka administruar dokumentacionin sipas pikës 3 të këtij udhëzimi, regjistron fëmijën në Regjistrin Kombëtar me emrin që kanë deklaruar deklaruesit sipas formularit 2, pjesë përbërëse e këtij udhëzimi.
+Nëpunësi i gjendjes civile në rubrikën “përshkrimi” shënon: “Regjistrim lindjeje sipas aktit nr. ___, datë ____/ ____/____, mbajtur në zyrën e gjendjes civile__________ dhe deklaratës së vendosjes së emrit nr. ___, datë ___/___/____” .
