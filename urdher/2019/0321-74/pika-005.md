@@ -1,0 +1,1 @@
+5. Mbledhjet e Komisionit të Deklasifikimit dhe Zhvlerësimit të Informacionit të Klasifikuar (KDZH), do të mblidhen sipas nevojës së procesit të rivlerësimit kalimtar nga nënkryetari i KDZH-së, në përputhje me vendimin nr. 662, datë 15.11.2017, “Për miratimin e rregullores për deklasifikimin dhe zhvlerësimin e informacionit të klasifikuar ’Sekret shtetëror’”.

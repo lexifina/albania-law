@@ -1,0 +1,1 @@
+3. Delegimin e përkohshëm të kompetencave të titullarit në funksion të Kontrollit të Figurës së Subjekteve të Rivlerësimit, përgjegjëses së Sektorit Juridik dhe Marrëdhënieve Ndërkombëtare, znj. Marsida Fetishi.
