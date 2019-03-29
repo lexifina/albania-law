@@ -1,0 +1,1 @@
+3. Drejtuesi i strukturës përgjegjëse për shërbimet shoqërore në bashki, dërgon për trajtim shkresën pranë njësisë për mbrojtjen e fëmijës, brenda 24 orëve nga paraqitja e saj. Në rastin e Bashkisë Tiranë, shkresa i dërgohet çdo njësie administrative që ka njësi të veçantë të mbrojtjes së fëmijës.

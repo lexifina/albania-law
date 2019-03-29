@@ -1,0 +1,4 @@
+9. Pas kalimit të afatit të përcaktuar në pikën 8, të këtij udhëzimi, punonjësi për mbrojtjen e fëmijës verifikon në zyrën e gjendjes civile nëse janë paraqitur personat sipas pikës 6, të këtij udhëzimi, për mbajtjen e aktit të lindjes dhe sipas rastit, kryen veprimet e mëposhtme:
+a) nëse fëmija është regjistruar, punonjësi për mbrojtjen e fëmijës harton raportin përmbledhës për veprimet e kryera, pjesë e të cilit është edhe konkluzioni për mbylljen e dosjes;
+b) nëse fëmija nuk është regjistruar, punonjësi për mbrojtjen e fëmijës, në bashkëpunim me nëpunësin e zyrës së gjendjes civile, përcaktojnë emrin e fëmijës, hartojnë aktin e lindjes dhe e nënshkruajnë atë.
+Emri i fëmijës, së regjistruar sipas kësaj procedure, është “i përkohshëm” dhe mund të ndryshojë vetëm me kërkesë të personave dhe sipas procedurës, të përcaktuar sipas dispozitave përkatëse të ligjit nr. 10129, datë 11.5.2009, “Për gjendjen civile”, të ndryshuar, për këtë rubrikë dhe vetëm në këto raste.

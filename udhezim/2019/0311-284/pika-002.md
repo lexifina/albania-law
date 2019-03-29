@@ -1,0 +1,1 @@
+2. Kur nëpunësi i gjendjes civile konstaton se, nuk është kryer regjistrimi i fëmijës së lindur në Regjistrin Kombëtar, brenda 60 ditëve nga data e lindjes, njofton me shkresë zyrtare për këtë fakt, drejtuesin e strukturës përgjegjëse për shërbimet shoqërore në bashki, duke bashkëlidhur të gjithë dokumentacionin përkatës.

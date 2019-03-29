@@ -1,0 +1,1 @@
+8. Punonjësi për mbrojtjen e fëmijës cakton një afat prej 10 ditësh nga zhvillimi i takimit sipas pikës 7, me qëllim që personi i kontaktuar sipas pikës 6, të regjistrojë fëmijën në Regjistrin Kombëtar.

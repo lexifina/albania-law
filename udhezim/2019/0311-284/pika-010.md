@@ -1,0 +1,1 @@
+10. Nëpunësi i zyrës së gjendjes civile dhe punonjësi për mbrojtjen e fëmijës njofton zyrtarisht personin me të cilin ka kontaktuar, sipas pikës 6, të këtij udhëzimi, për regjistrimin e fëmijës, modalitetet e regjistrimit, si dhe i dërgon kopje të aktit të lindjes.

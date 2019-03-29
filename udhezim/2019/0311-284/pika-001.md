@@ -1,0 +1,1 @@
+1. Objekt i këtij udhëzimi është përcaktimi i rregullave të hollësishme dhe procedurës administrative, që zbatohet nga zyrat e gjendjes civile dhe njësia për mbrojtjen e fëmijës në bashki, në rastin kur nuk është bërë regjistrimi i fëmijës në Regjistrin Kombëtar të Gjendjes Civile të vitit 2010 (në vijim Regjistri Kombëtar), brenda 60 ditëve nga data e lindjes.

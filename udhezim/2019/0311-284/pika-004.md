@@ -1,0 +1,1 @@
+4. Punonjësi për mbrojtjen e fëmijës, pranë njësisë për mbrojtjen e fëmijës (në vijim punonjësi për mbrojtjen e fëmijës) administron shkresën dhe dokumentacionin e dërguar nga nëpunësi i gjendjes civile, si dhe çdo akt tjetër që nxjerr sipas këtij udhëzimi, duke krijuar dosje të veçantë për çdo fëmijë të paregjistruar.

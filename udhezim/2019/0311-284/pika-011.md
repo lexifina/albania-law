@@ -1,0 +1,1 @@
+11. Dokumentacioni për regjistrimin e fëmijës, sipas procedurës së parashikuar në këtë udhëzim, hartohet dhe protokollohet në dy kopje, një kopje pranë njësisë për mbrojtjen e fëmijës dhe një kopje në zyrën e gjendjes civile ku është bërë regjistrimi.
