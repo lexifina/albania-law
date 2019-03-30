@@ -1,8 +1,12 @@
 VENDIM
 
-Nr.114, datë 31.1.2007
+Nr. 114, datë 31.1.2007
 
 Për përcaktimin e masës së kontributeve të personave, që vendosen në institucionet rezidenciale publike, të shërbimeve të përkujdesit shoqëror
+
+	(Ndryshuar me VKM nr. 898, datë 10.11.2010)
+
+	(i përditësuar)
 
 Në mbështetje të nenit 100 të Kushtetutës dhe të pikave 1 e 3 të nenit 23 të ligjit nr.9355, datë 10.3.2005 “Për ndihmën dhe shërbimet shoqërore”, me propozimin e Ministrit të Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Këshilli i Ministrave
 
@@ -12,7 +16,7 @@ I. Grupet, pagesat dhe përfitimet e personave, që vendosen në institucionet r
 
 1. Personat, si fëmijët, të rinjtë, të moshuarit, personat me aftësi të kufizuara, gratë e vajzat në nevojë, familjet e të cilëve nuk kanë të ardhura dhe vlerësohen se kanë nevojë për shërbime shoqërore, pranohen pa pagesë në institucionet rezidenciale publike të shërbimeve të përkujdesit shoqëror.
 
-2. Personat, që kanë të ardhura, si pension pleqërie, shtetërorë, kooperative apo pension familjar a invaliditeti, kur vendosen dhe përfitojnë shërbime të përkujdesit shoqëror në institucionet rezidenciale publike, derdhin 50 për qind të pensionit.
+2. Personat, që kanë të ardhura, si pension pleqërie, shtetërorë, kooperative apo pension familjar a invaliditeti, kur vendosen dhe përfitojnë shërbime të përkujdesit shoqëror në institucionet rezidenciale publike, derdhin 40 për qind të pensionit.
 
 3. Personave, që vendosen dhe përfitojnë shërbime të përkujdesit shoqëror, sipas pikës 1, të këtij vendimi, u jepet, në dorë, një shumë  në të holla, për shpenzime personale, si më poshtë vijon:
 
@@ -22,7 +26,7 @@ b) Fëmijëve të moshës 6-14 vjeç, që janë vendosur në shtëpitë e fëmij
 
 c) Personave, që marrin shërbime në qendrat e zhvillimit, 500 (pesëqind) lekë në muaj.
 
-ç) Personave të moshuar, që nuk kanë të ardhura e që janë vendosur në shtëpitë rezidenciale publike, 4000 (katër mijë) lekë në muaj.
+ç) Personave të moshuar, që nuk kanë të ardhura e që janë vendosur në shtëpitë rezidenciale publike, në masën 6 000 (gjashtë mijë) lekë në muaj.
 
 II. Shërbimet me pagesë  për personat me të ardhura dhe pagesat për shërbimet shtesë, që ofrohen në institucionet rezidenciale publike
 
