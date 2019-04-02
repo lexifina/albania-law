@@ -1,0 +1,26 @@
+{
+  "qbz_id": 64579,
+  "title": "Për një shtesë në ligjin nr. 8952, datë 10.10.2002, “Për letërnjoftimin elektronik të shtetasve shqiptarë”, të ndryshuar",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "11",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2019-03-05",
+  "published": "2019-03-18",
+  "in_force": "2019-04-02",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/3616614381c33586811eb2f04e880353a5aa87fceb6518e9630805ccf39dbf29.docx",
+  "source_sha256": "3616614381c33586811eb2f04e880353a5aa87fceb6518e9630805ccf39dbf29",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64579",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2019/03/05/11",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
