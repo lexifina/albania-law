@@ -1,0 +1,2 @@
+3. Udhëzimi nr. 665, datë 4.10.2018 “Për disa shtesa dhe ndryshime në udhëzimin nr. 837, datë 10.2.2017, të ministrit të transportit dhe infrastrukturës, “Për miratimin e metodologjisë për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore për ofruesit e shërbimeve në sektorin e ujësjellës kanalizimeve”, shfuqizohet.
+Ky udhëzim hyn në fuqi me botimin në Fletoren Zyrtare.
