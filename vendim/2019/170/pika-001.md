@@ -1,0 +1,1 @@
+1. Shpërndarjen dhe detajimin e fondit 1 000 000 000 (një miliard) lekë në programin “Menaxhimi i infrastrukturës së ujitjes dhe kullimit”, për projektet e ujitjes, të kullimit, të mbrojtjes nga përmbytja dhe sigurinë e digave, sipas bashkive dhe drejtorive të ujitjes dhe të kullimit, përcaktuar në tabelën 1, që i bashkëlidhet këtij vendimi.
