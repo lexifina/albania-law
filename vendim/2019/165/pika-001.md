@@ -1,0 +1,1 @@
+1. Dhënien në përdorim Partisë Republikane, si seli, të disa mjediseve të katit të tretë, përkatësisht 6 (gjashtë) zyra në kahun verior të godinës katërkatëshe, të ish-shtëpisë botuese të librit shkollor “8 Nëntori”, sipas kartelës së pasurisë që i bashkëlidhet këtij vendimi, në përgjegjësi administrimi të Ministrisë së Financave dhe Ekonomisë.
