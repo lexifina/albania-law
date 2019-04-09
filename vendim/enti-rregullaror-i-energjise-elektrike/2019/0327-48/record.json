@@ -1,0 +1,26 @@
+{
+  "qbz_id": 18498,
+  "title": "MBI FILLIMIN E PROCEDURËS PËR LICENCIMIN E SHOQËRISË “S.P.E GJADËR” SH.P.K., NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HECET “GJADËR NR. 1/1” ME KAPACITET TË INSTALUAR 2134 KW, HEC “GJADËR NR. 1/2” ME KAPACITET TË INSTALUAR 4406 KW, HEC “GJADËR NR. 2” ME KAPACITET TË INSTALUAR 2983 KW, HEC “GJADËR NR. 3” ME KAPACITET TË INSTALUAR 3874 KW, HEC “GJADËR NR. 4” ME KAPACITET TË INSTALUAR 5922 KW, HEC “GJADËR NR. 6” ME KAPACITET TË INSTALUAR 5619 KW, ME KAPACITET TOTAL TË INSTALUAR 24.938 KW",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "48",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2019-03-27",
+  "published": "2019-04-09",
+  "in_force": "2019-04-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/cfafbd6cddf3a32fea1656c127cbc7fdcd4f1c7a54fd9da78769d64fc14297fb.docx",
+  "source_sha256": "cfafbd6cddf3a32fea1656c127cbc7fdcd4f1c7a54fd9da78769d64fc14297fb",
+  "official_record": "https://qbz.gov.al/api/v1/acts/18498",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/03/27/48",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
