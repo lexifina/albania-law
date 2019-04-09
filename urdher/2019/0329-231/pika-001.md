@@ -1,0 +1,1 @@
+1. Ndalimin e peshkimit, me çfarëdo lloj mjeti dhe metode gjuetie, si dhe mbajtjen në bord, tranzitimin në barkë, zbarkimin e qëllimtë dhe hedhjen në treg ose për konsum i të gjitha llojeve të peshqve në liqenin e Shkodrës, nga data 1.4.2019 deri më 30.4.2019.
