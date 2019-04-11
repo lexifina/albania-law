@@ -1,0 +1,1 @@
+5. Zyrat vendore të regjistrimit të pasurive të paluajtshme, përkatësisht, në Tiranë, Vlorë, Elbasan, Lezhë, Durrës dhe Shkodër, të kryejnë ndryshimet përkatëse për këto pasuri, në regjistrat e pasurive të paluajtshme.
