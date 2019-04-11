@@ -1,0 +1,1 @@
+8. Në programin “Shërbime të tjera”, për Sekretariatin Teknik të Këshillit Ekonomik Kombëtar, shtohet fondi prej 7 000 000 (shtatë milionë) lekësh për shpenzime personeli dhe shpenzime operative, për vitin 2019.

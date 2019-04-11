@@ -1,0 +1,1 @@
+6. Numri i punonjësve të Ministrisë së Infrastrukturës dhe Energjisë, për vitin 2019, shtohet me 3 (tre) punonjës, duke e çuar numrin e përgjithshëm të këtij institucioni në 929 (nëntëqind e njëzet e nëntë) punonjës.

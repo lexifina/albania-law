@@ -1,0 +1,1 @@
+3. Numri i punonjësve të Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave shtohet me 6 (gjashtë) punonjës, për vitin 2019, duke e çuar numrin e përgjithshëm të Ministrisë së Financave dhe Ekonomisë në 5 809 (pesë mijë e tetëqind e nëntë) punonjës.

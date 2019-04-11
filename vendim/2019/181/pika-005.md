@@ -1,0 +1,1 @@
+5. Numri i punonjësve të Institutit të Shëndetit Publik reduktohet me 2 (dy) punonjës, duke e çuar numrin e përgjithshëm të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale në 4 257 (katër mijë e dyqind e pesëdhjetë e shtatë) punonjës.
