@@ -1,0 +1,1 @@
+2. Shoqëria “Illyrian Guard” sh.a., themelohet, organizohet dhe funksionon si shoqëri aksionare, në përputhje me parashikimet e ligjit nr. 9901, datë 14.4.2008, “Për tregtarët dhe shoqëritë tregtare”, të ndryshuar.

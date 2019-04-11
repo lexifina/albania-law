@@ -1,0 +1,1 @@
+7. Mënyra e përllogaritjes së tarifave të shërbimeve specifike, që u ofrohen subjekteve publike, përcaktohet me udhëzim të përbashkët të ministrit të Brendshëm dhe të ministrit të Financave dhe Ekonomisë.

@@ -1,0 +1,1 @@
+6. Shoqëria “Illyrian Guard” sh.a., ofron shërbime mbështetëse në Ministrinë e Brendshme dhe institucionet në varësi të saj, në zbatim të kompetencave që i njihen kësaj të fundit sipas fushës së përgjegjësisë shtetërore.

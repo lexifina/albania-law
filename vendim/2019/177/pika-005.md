@@ -1,0 +1,1 @@
+5. Shoqëria “Illyrian Guard” sh.a., ofron shërbime me pagesë, kundrejt subjekteve të treta, publike apo private, në fushën e rendit e të sigurisë publike, teknologjisë së informacionit, si dhe çdo shërbim tjetër në përputhje me qëllimin e krijimit dhe statutin e saj.

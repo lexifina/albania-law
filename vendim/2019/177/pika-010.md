@@ -1,0 +1,1 @@
+10. Të gjitha institucionet dhe subjektet publike, të cilat kanë në administrim objekte shtetërore, ruajtja dhe sigurimi i të cilave duhet të realizohet nga shërbime të specializuara për këtë qëllim, i drejtohen, me kërkesë, kësaj shoqërie, për të përfituar shërbimin e ruajtjes dhe të sigurisë fizike.
