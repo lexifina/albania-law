@@ -1,0 +1,1 @@
+1. Kryeministria, ministritë e linjës, institucionet e qeverisjes qendrore apo institucionet në varësinë e tyre të kërkojnë fillimisht, sipas nevojave, shërbime me fonde buxhetore, si konsulenca, studime apo ekspertiza nga institucionet publike të arsimit të lartë, sipas fushave të veprimit.

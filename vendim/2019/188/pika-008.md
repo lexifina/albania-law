@@ -1,0 +1,1 @@
+8. Të gjitha institucionet e pavarura kanë të drejtë që, sipas nevojave të tyre, të kërkojnë shërbimet e përcaktuara në pikën 1, të këtij vendimi, nga institucionet publike të arsimit të lartë, sipas fushave të veprimit.

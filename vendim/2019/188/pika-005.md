@@ -1,0 +1,1 @@
+5. Grupi i punës, mënyra e administrimit të të ardhurave dhe masa e shpërblimit të personelit akademik dhe/ose studentëve të angazhuar në ofrimin e shërbimit rregullohen me procedura të brendshme të institucionit, në përputhje me legjislacionin në fuqi.

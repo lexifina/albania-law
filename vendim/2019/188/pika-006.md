@@ -1,0 +1,1 @@
+6. Përparësi në rastet e ofrimit të shërbimeve kanë ato IAL, të cilat kanë marrëveshje partneriteti me ministritë e linjës. Në rastet kur një shërbim ose kategori shërbimesh ofrohet nga më shumë se një IAL publik dhe nuk ka marrëveshje partneriteti, përzgjedhja nga ana e institucioneve publike duhet të kryhet bazuar mbi ofertën më të mirë.
