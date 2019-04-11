@@ -1,0 +1,2 @@
+5. Instituti i Sigurimeve Shoqërore, bazuar në vendimin nr. 571, datë 3.10.2018, të Këshillit të Ministrave, “Për koeficientët e indeksimit të pagave për efekt të llogaritjes së bazës së vlerësuar për llogaritjen fillestare të pensioneve”, dhe në këtë vendim, harton e shpall tabelën e koeficientëve të indeksimit të bazës së vlerësuar për periudhën deri në vitin 1994 dhe për vitet në vazhdim, deri në vitin 2019, dhe ngarkohet për zbatimin e tyre.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
