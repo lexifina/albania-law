@@ -1,0 +1,1 @@
+9. Në rast se punonjësit, të cilët punojnë në strukturat për mbrojtjen e fëmijëve dhe punonjësit, të cilët punojnë me fëmijët, nuk i plotësojnë kriteret e përcaktuara në këtë vendim, edhe pas marrjes së masave nga punëdhënësi, marrëdhënia e punës ndërmjet tyre ndërpritet sipas legjislacionit në fuqi.

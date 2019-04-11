@@ -1,0 +1,1 @@
+7. Brenda 60 (gjashtëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, punëdhënësit përkatës bëjnë verifikimin e plotësimit të kritereve të përcaktuara në këtë vendim për punonjësit, të cilët, në datën e hyrjes në fuqi të këtij vendimi, janë të punësuar në strukturat përkatëse dhe për ata, të cilët punojnë me fëmijët.

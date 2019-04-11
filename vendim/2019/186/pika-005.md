@@ -1,0 +1,1 @@
+5. Për punonjësit që punojnë në strukturat për mbrojtjen e fëmijës dhe punonjësit që punojnë me fëmijët, të cilët përfshihen në fushën e veprimit të legjislacionit në fuqi për nëpunësin civil, kriteret e përcaktuara në pikat 3 dhe 4, të këtij vendimi, janë kritere shtesë, përveç atyre të përcaktuara sipas legjislacionit të nëpunësit civil.
