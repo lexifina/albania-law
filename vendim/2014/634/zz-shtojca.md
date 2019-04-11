@@ -421,7 +421,7 @@ Dhënia e kontratës dhe bisedimet përfundimtare
 2. Kontrata e koncesionit do të amendohet aq sa kërkohet, me qëllim që të: i) pasqyrojë amendimet e kërkuara për të bërë ndryshimet në nenin 33.1 më sipër; ii) mbushë të gjitha boshllëqet; iii) korrigjojë gabimet dhe mosveprimet.
 3. Pas plotësimit të procedurës së vlerësimit dhe shpalljes se ofertuesit fitues, autoriteti kontraktues, me iniciativën e vet, do të përcaktojë një afat për ekzekutimin e kontratës së koncesionit.
 4. Nëse autoriteti kontraktues vendos që bisedimet me ofertuesin e parë fitues nuk do të mbyllen me firmosjen e kontratës së koncesionit, ai ka të drejtën të ftojë për bisedime ofertuesin e renditur në vendin e dytë, dhe në rast se nuk arrin një marrëveshje me ofertuesin e klasifikuar në vendin e dytë, do të ftojë ofertuesin e renditur në vendin e tretë, e kështu me radhë. Autoriteti kontraktues ka të drejtë absolute të refuzojë bisedimet me këdo apo të gjithë ofertuesit e mbetur, nëse prishen bisedimet me ofertuesin e parë fitues.
-5. Kontrata e Koncesionit/PPP do të hyjë në fuqi pas miratimit nga Këshilli i Ministrave.
+5. Kontrata e koncesionit/PPP do të hyjë në fuqi pas miratimit me ligj nga Kuvendi i Shqipërisë.
 DISPOZITA KALIMTARE
 Dispozitat e këtij vendimi do të zbatohen edhe për projektet e koncensionit/PPP që aktualisht janë paraqitur pranë Autoritetit Kontraktues, por nuk kanë përfunduar fazën e vlerësimit paraprak.
 Aneksi 1
