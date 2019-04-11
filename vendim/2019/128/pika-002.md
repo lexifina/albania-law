@@ -1,6 +1,6 @@
 2. Masat e mbështetjes dhe të financimit të jenë, si më poshtë vijon:
 a) Për tufën bazë të matrikulluar, për fermat me jo më pak se 100 krerë dele dhe/ose dhi, në vlerën 1 000 (një mijë) lekë/krerë.
-b) Dorëzim qumështi lëndë e parë, në vlerën 10 lekë për litër në pikat e përpunimit, për fermat me jo më pak se 10 krerë lopë kundrejt faturës tatimore të shitjes, por jo më shumë se 700 000 (shtatëqind mijë) lekë për subjekt.
+b) Dorëzim qumështi lëndë e parë, në vlerën 10 lekë për litër në pikat e përpunimit, për fermat që mbarështojnë lopë dhe/ose të imëta, kundrejt faturës tatimore të shitjes, por jo më shumë se 700 000 (shtatëqind mijë) lekë për subjekt.
 c) Mbarështim i bletarisë me 1 000 (një mijë) lekë për zgjua, për ferma me jo më pak se 50 zgjoje, por masa e financimit të jetë jo më shumë se 150 000 (njëqind e pesëdhjetë mijë) lekë për subjekt.
 ç) Mbështetje ndaj anijeve të peshkimit me flamur shqiptar, në vlerën 20 (njëzet) lekë/kg për açuge dhe/ose sardele të peshkuara. Pagesa të kryhet kundrejt sasive të tregtuara në stabilimentet shqiptare vetëm për qëllime përpunimi të këtyre produkteve, të vërtetuara me fatura tatimore dhe certifikatë zënieje. Në rastin kur anijet janë në pronësi ose të marra me qira nga stabilimentet e përpunimit të peshkut, pagesa të kryhet kundrejt sasive të verifikuara me certifikatë zënieje dhe/ose:
 - faturave të shitjes së produkteve të përpunuara për në tregun vendas;
