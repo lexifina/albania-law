@@ -1,0 +1,1 @@
+1. Pjesëmarrjen e Forcave të Armatosura të Republikës së Shqipërisë në operacionin e NATO-s “Aegean Sea”, të përbërë nga 21 (njëzet e një) ushtarakë dhe 1 (një) anije e klasit “Iliria” si dhe 1 (një) ushtarak oficer shtabi, në Grupin Detar të Përhershëm të NATO-s, në anijen flamurtare.

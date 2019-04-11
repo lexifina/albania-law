@@ -1,0 +1,1 @@
+2. Misioni i Forcave të Armatosura të Republikës së Shqipërisë në këtë operacion është kryerja e patrullimit detar në përbërje të grupit të gatshëm të anijeve të NATO-s, SNMG2, në detin Egje dhe për personelin në anijen flamurtare, në bazë të kërkesave operacionale të saj, edhe në detin Mesdhe dhe Detin e Zi , në kuadër të operacionit të NATO-s “Aegean Sea”.

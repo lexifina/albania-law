@@ -1,0 +1,4 @@
+3. Kohëzgjatja e pjesëmarrjes në këtë operacion e anijes së klasit “Iliria” dhe personelit të Forcave të Armatosura të Republikës së Shqipërisë është, si më poshtë vijon:
+a) Për anijen e klasit “Iliria”, deri më 30 nëntor 2019, me sistem rotacioni. Periudha e rotacionit të anijes është çdo 6 (gjashtë) muaj;
+b) Për 21 (njëzet e një) ushtarakë, deri më 30 nëntor 2019, me sistem rotacioni. Periudha e rotacionit është çdo 3 (tre) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me kontingjentin e radhës;
+c) Për ushtarakun, oficer shtabi, në Grupin Detar të Përhershëm të NATO-s, në anijen flamurtare, deri më 31 dhjetor 2019, me sistem rotacioni. Periudha e rotacionit është çdo 6 (gjashtë) muaj, periudhë së cilës i shtohen edhe ditët e qëndrimit për ndërrimin me përfaqësuesin e radhës.
