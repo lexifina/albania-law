@@ -1,0 +1,1 @@
+5. Zëvendësministri bashkëpunon dhe koordinon punën me zëvendësministrat e tjerë të Arsimit, Sportit dhe Rinisë, me kabinetin e ministrit dhe me drejtoritë që mbulojnë fushat e arsimit të lartë dhe kërkimit shkencor.

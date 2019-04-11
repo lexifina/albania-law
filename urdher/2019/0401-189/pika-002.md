@@ -1,0 +1,1 @@
+2. Zëvendësministri mund të kërkojë informacion me shkrim për çdo korrespondencë shkresore të Ministrisë së Arsimit, Sportit dhe Rinisë, si dhe agjencive të varësisë, për çështjet në fushën e arsimit të lartë dhe kërkimit shkencor.
