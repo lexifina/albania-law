@@ -1,0 +1,1 @@
+5. Zyra Vendore e Regjistrimit të Pasurive të Paluajtshme, përkatësisht, në Elbasan, Tiranë, Durrës, Vlorë, dhe Shkodër, të kryejnë ndryshimet përkatëse për këto pasuri në regjistrat e pasurive të paluajtshme.
