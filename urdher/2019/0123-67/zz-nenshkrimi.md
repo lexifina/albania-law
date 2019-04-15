@@ -1,0 +1,3 @@
+# Nënshkrimi
+KRYEMINISTËR
+dhe MINISTËR PËR EVROPËN
