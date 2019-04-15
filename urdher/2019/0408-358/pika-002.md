@@ -1,0 +1,1 @@
+2. Kompetencat e titullarit të drejtorit të përgjithshëm të MZSH-së, për çështjet e përcaktuara në germat “a”, “b” dhe “c”, të pikës 1 të këtij urdhri, do të ushtrohen nga data 3.4.2019 deri në emërimin e drejtorit të përgjithshëm të MZSH-së.
