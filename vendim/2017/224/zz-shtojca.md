@@ -1,4 +1,164 @@
 # Shtojca
+Lidhja nr. 1
+PAGA BAZË SIPAS GRADËS DHE VITEVE TË SHËRBIMIT PËR USHTARAKËT AKTIVË TË FORCAVE TË ARMATOSURA
+Vitet e shërbimit
+OFICERË
+P.bazë
+Mbi 1 vit
+Mbi 2 vjet
+Mbi 3 vjet
+Mbi 4 vjet
+Mbi 6 vjet
+Mbi 8 vjet
+Mbi 10 vjet
+Mbi 12 vjet
+Mbi 14 vjet
+Mbi 16 vjet
+Mbi 18 vjet
+Mbi 20 vjet
+Mbi 22 vjet
+Mbi 24 vjet
+Mbi 26 vjet
+Gj. lejtnant (admiral)
+169500
+Gj. major (nënadmiral)
+162000
+Gj. brigade (kundëradmiral)
+127500
+Kolonel (kapiten i rangut I)
+106200
+108400
+110000
+Nënkolonel (kapiten i rangut II)
+86700
+88100
+89500
+90900
+92300
+Major (kapiten i rangut III)
+68800
+70600
+71800
+73400
+74500
+75700
+77500
+78700
+Kapiten (kapiten lejtnant)
+61500
+62500
+64000
+65300
+66000
+Toger (lejtnant)
+57800
+58700
+59800
+61300
+62000
+63600
+64800
+Nëntoger (nënlejtnant)
+55600
+56000
+56900
+57800
+58600
+59000
+60400
+Vitet e shërbimit
+NËNOFICERË
+Nën 2
+Mbi 2
+Mbi 3
+Mbi 4
+Mbi 6
+Mbi 8
+Mbi 10
+Mbi 12
+Mbi 14
+Mbi 16
+Mbi 18
+Mbi 20
+Mbi 22
+Mbi 24
+Mbi 26
+K/kapter
+59500
+60600
+62500
+63700
+64800
+Kapter
+52500
+53600
+54700
+55800
+57000
+58700
+59800
+60900
+Rreshter
+48200
+49400
+50900
+52300
+53500
+54500
+55500
+Tetar
+46700
+47800
+48300
+49500
+Nëntetar
+43700
+44600
+45700
+46200
+47200
+48500
+Vitet e shërbimit
+USHTARË AKTIVË
+P.bazë
+Mbi
+1 vit
+Mbi
+2 vjet
+Mbi
+3 vjet
+Mbi
+4 vjet
+Mbi
+5 vjet
+Mbi
+6 vjet
+Mbi
+8 vjet
+Mbi
+10 vjet
+Mbi
+12 vjet
+Mbi
+14 vjet
+Ushtar IV/ detar IV
+42000
+42400
+43000
+43400
+44000
+45000
+45900
+47000
+48000
+Ushtar III/ detar III
+40900
+41500
+Ushtar II/ detar II
+40000
+40500
+Ushtar I/ detar I
+39300
 LIDHJA NR. 2
 STRUKTURA DHE NIVELI I PAGAVE PËR USHTARAKËT AKTIVË TË PERSONELIT AKADEMIK, NË AKADEMINË E FORCAVE TË ARMATOSURA
 Nr.
@@ -73,48 +233,55 @@ MASA E SHTESËS PËR KUSHTE TË VEÇANTA PUNE E SHËRBIMI PËR USHTARAKËT AKTIV
 Nr.
 Emërtimi i funksionit
 Masa e shtesës mujore në lekë për muaj
-Në skuadroni dhe grupe të helikopterëve në Bazën Ajrore Farkë të Forcave të Armatosura
-Në strukturat e tjera të Bazës Ajrore Farkë të Forcave të Armatosura
-Në strukturat e tjera të Forcave të Ajrore
-Në strukturat e tjera të Forcave të Armatosura
-1
+Në skuadrone dhe grupe të helikopterëve
+në bazën ajrore Farkë të Forcave të Armatosura
+Në strukturat
+e tjeratë bazës ajrore Farkë të Forcave të
+Armatosura
+Në strukturat
+e tjera të Forcave Ajrore
+Në strukturat
+e tjera
+të Forcavetë
+Armatosura
+1.
 Pilot
-40000
-30000
-20000
-10000
-2
+60.000
+30.000
+20.000
+10.000
+2.
 Inxhinier fluturimi
-28000
-21000
-14000
-3
-Mekanik/teknik bordi
-24000
-18000
-12000
-4
+28.000
+21.000
+14.000
+3.
+Mekanik/Teknik bordi
+24.000
+18.000
+12.000
+4.
 Infermier bordi
 Operator bordi
 Vinçier bordi
-20000
-15000
-10000
-5
+20.000
+15.000
+10.000
+5.
 Inxhinier avioni/helikopteri
-16000
-12000
-10000
-6
+16.000
+12.000
+10.000
+6.
 Kontrollor i trafikut ajror
-12000
-12000
-12000
-7
-Teknik avioni/helikopteri
-12000
-10000
-10000
+12.000
+12.000
+12.000
+7.
+Teknik avionic/helikopteri
+12.000
+10.000
+10.000
 LIDHJA NR. 4
 MASA E SHTESËS PËR NATYRË TË VEÇANTË PUNE DHE VËSHTIRËSI SHËRBIMI PËR USHTARAKËT AKTIVË NË AGJENCINË E INTELIGJENCËS DHE SIGURISË SË MBROJTJES
 Nr.
@@ -153,41 +320,131 @@ Teknik i mesëm/Operator/Roje me armë/M. Krujës, Krujë.
 Mbështetës
 Për punonjësit në funksionet e tjerë ushtarake të AISM-së.
 5.000
-LIDHJA NR. 5
-MASA E SHTESËS PËR KUSHTE TË VEÇANTA PUNE E SHËRBIMI QË PËRFITOJNË USHTARAKËT AKTIVË NË FORCAT E ARMATOSURA
+LIDHJA NR.5
+MASA E SHTESËS PËR KUSHTE TË VEÇANTA PUNE E SHËRBIMI QË PËRFITOJNË USHTARAKËT AKTIVË, TË TJERË, NË FORCAT E ARMATOSURA
 Nr.
-Personeli ushtarak që përfiton shtesë për kushte të veçanta pune e shërbimi
-Masa e shtesës (në lekë)
+Niveli
+Struktura/ Funksioni/Specialiteti - Ushtarakë të tjerë që përfitojnë shtesë për kushte të veçanta pune e shërbimi
+Masa e shteses, Lekë në muaj
 1
-Mjekët që shërbejnë në FA.
-Parashutistët.
-Oficerët apo nënoficerët në detyrë dhe të kualifikuar si zhytës.
-Oficerët, nënoficerët apo ushtarët profesionistë të kualifikuar, që shërbejnë në njësitë e Asgjësimit me Eksploziv të Municioneve dhe që kryejnë operacione për shkatërrimin e municioneve dhe eksplozivëve.
-Oficerët, nënoficerët apo ushtarët profesionistë të emëruar në Batalionin Special
-Komando, të cilët kryejnë detyra taktike të Batalionit Special.
-Oficerët, nënoficerët apo ushtarët profesionistë të emëruar në Batalionin Komando, që kryejnë detyra taktike komando.
-8000
 2
-Personeli ushtarak administrativ dhe ai i ndihmës, të emëruar në Batalionin Special Komando, por që nuk kryejnë detyra taktike të Batalionit Special.
-Personeli ushtarak administrativ dhe ai i ndihmës, të emëruar në Batalionin Komando, por që nuk kryejnë detyra taktike Komando;
-Oficerët, nënoficerët apo ushtarët profesionistë në Qendrën e Stërvitjes Bazë, që janë emëruar në funksione dhe që kryejnë direkt stërvitjen bazë.
-Personeli ushtarak i Qendrës së Stërvitjes Bazë deri në nivel Kompanie.
-Personeli ushtarak në strukturën e Rojës Bregdetare.
-Personeli ushtarak i Policisë Ushtarake, i cili angazhohet direkt në punën operative dhe funksionale që kryen Policia Ushtarake.
-Personeli ushtarak deri në nivel kompanie në Forcën Tokësore.
-Komandantët e batalioneve në Forcën Tokësore.
-Personeli ushtarak i Kurseve në Akademinë e Nënoficerëve
-5000
 3
-Oficerët me specialitete detare të emëruar në pozicione organike, që kërkojnë kryerjen e lundrimeve dhe personeli ushtarak (oficer, nënoficer dhe ushtar profesionist) i emëruar në anije.
-Personeli ushtarak i Policisë Ushtarake që nuk përfshihet në numrin rendor 2.
-Personeli i Forcës Tokësore që nuk përfshihet në numrin rendor 2.
-Personeli ushtarak (drejtimi dhe trupa) në Orkestrën Frymore.
-Personeli ushtarak i Qendrës së Stërvitjes Bazë që nuk përfshihet në numrin rendor 2.
-Personeli ushtarak i kompanisë së rikonicionit të Forcave Tokësore.
-Personeli ushtarak i postave radioteknike dhe postave sinjal-vrojtuese, në Forcat Detare.
-Ushtarakë të tjerë në Akademinë e Nënoficerëve.
-3000
+4
+1.
+1
+Kompanitë e aksioneve direkte në Batalionin e Forcave Speciale në Forcën Tokësore
+15.000
+2.
+Kompanitë Komando dhe Kompania e Zbulimit në Batalionin Komando të Forcës Tokësore
+15.000
+3.
+Grupi Bordingut në Flotiljen Detare në Forcën Detare
+15.000
+4.
+Grupi i Parë, i Dytë dhe Grupi AME i Zhytjeve në Qendrën e Zhytjeve në Forcën Detare
+15.000
+5.
+2
+Kompania EOD në Batalionin e Xhenjos në Komandën Mbështetëse
+12.000
+6.
+Grupi i parë dhe i dytë i flotiljes detare në Flotiljen Detare në Forcën Detare
+12.000
+7.
+Kompania e parë dhe e dytë Operacionale në Policinë Ushtarake të Forcave të Armatosura.
+12.000
+8.
+Sektori i Policisë Kriminale në Policinë Ushtarake të Forcave të Armatosura
+12.000
+9.
+Komandant, Zv.Komandant dhe Funksionet me specialitet ”Polumbar” në Qendrën e Zhytjeve në Forcën Detare
+12.000
+10.
+3
+Kompanitë në Batalionin e Parë të Këmsorisë në Forcën Tokësore.
+10.000
+11.
+Kompanitë në Batalionin e Dytë të Këmsorisë në Forcën Tokësore
+10.000
+12.
+Kompanitë në Batalionin e Tretë të Këmsorisë në Forcën Tokësore
+10.000
+13.
+Orkestra Frymore në Batalionin e Mbështetjes së SHPFA
+10.000
+14.
+4
+Mjekët në Strukturat e Forcave te Armatosura
+8.000
+15.
+Parashutistet në Strukturat e Forcave të Armatosura
+8.000
+16.
+Funksione organike me detyra operacionale dhe taktike në Batalionin e Forcave Speciale në Forcën Tokësore
+8.000
+17.
+Funksione organike me detyra operacionale dhe taktike në Batalionin Komando të Forcës Tokësore
+8.000
+18.
+Kompania e Ruajtjes në Batalionin e Mbështetjes së SHPFA
+8.000
+19.
+Kompania e Ceremonialit në Batalionin e Mbështetjes së SHPFA
+8.000
+20.
+Grupi i Sigurisë Fizike në MM në Batalionin e Mbështetjes së SHPFA
+8.000
+21.
+Kompania e Transportit në Batalionin e Mbështetjes së SHPFA
+8.000
+22.
+Infermierët në Strukturat e Forcave të Armatosura
+8.000
+23.
+Në strukturat e Policisë Ushtarake, të cilat angazhohen direkt në punën operative dhe funksionale që kryen Policia Ushtarake
+8.000
+24.
+5
+Funksione organike në Batalionin e Forcave Speciale në Forcën Tokësore të papërfshira në pikat e mësipërme
+5.000
+25.
+Funksione organike në Batalionin Komando të Forcës Tokësore të papërfshira në pikat e mësipërme
+5.000
+26.
+Qendrën e Stërvitjes Bazë, që janë të emëruar në funksione dhe që kryejnë direkt stërvitjen bazë
+5.000
+27.
+Qendrën e Stërvitjes Bazë deri në nivel kompanie
+5.000
+28.
+Strukturën e Rojes Bregdetare
+5.000
+29.
+Në nivel kompanie në Forcën Tokësore
+5.000
+30.
+Në Kurset në Akademinë e Nënoficerëve
+5.000
+31.
+6
+Oficerët me specialitete detare të emëruar në pozicione organike, që kërkojnë kryerjen e lundimeve
+3.000
+32.
+Funksione organike në Policinë Ushtarake te pa perfshira në pikat e mësipërme
+3.000
+33.
+Funksione organike në Forcën Tokësore të papërfshira në pikat e mësipërme
+3.000
+34.
+Personeli ushtarak i Qendrës së Stërvitjes Bazë të papërfshirë në pikat e mësipërme
+3.000
+35.
+Personeli ushtarak i postave radioteknike dhe postave sinjal-vrojtuese, në Forcat Detare
+3.000
+36.
+Ushtarakë të tjerë në Akademinë e Nënoficerëve
+3.000
+Shënim: Ushtarakët funksioni i të cilëve përmban dy apo më shumë emërtime që përfitojnë shtesë për kushte të veçanta pune e shërbimi, do të trajtohen vetëm me një shtesë sipas kësaj lidhje.
 LIDHJA NR. 6
 FUNKSIONET USHTARAKE QË PËRFITOJNË SHTESË PËR PUNË TË VËSHTIRË E TË DËMSHME NË SHËNDET NË STRUKTURAT E FORCAVE TË ARMATOSURA
 Nr.
