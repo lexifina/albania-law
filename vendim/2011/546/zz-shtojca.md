@@ -5,80 +5,78 @@ PAGA MUJORE E PUNONJËSVE TË PËRCAKTUAR SIPAS PIKËS 1/1 TË KËTIJ VENDIMI
 | |1 |2 |
 | |Paga bazë mujore |Shtesa për përfaqësimin |
 | |(në euro dhe dollarë USD) |(në %) |
-|Ambasador |1400 euro |75% |
-| |1705 dollarë USD | |
-|Konsull i Përgjithshëm |1080 euro |75% |
-|Ministër Fuqiplotë |1300 dollarë USD |40% |
-|Ministër Këshilltar | |40% |
-|Këshilltar |900 euro |40% |
-| |1145 dollarë USD | |
-|Sekretar i parë |745 euro |40% |
-|Konsull |915 dollarë USD | |
-|Sekretar i dytë |585 euro |40% |
-|Zevendeskonsull |740 dollarë USD | |
-|Sekretar i tretë |530 euro |40% |
-|Agjent konsull |650 dollarë USD | |
-|Atashe |475 euro |40% |
-| |585 dollarë USD | |
+|Ambasador |1680 euro |75% |
+| |2045 dollarë USD | |
+|Konsull i përgjithshëm; |1295 euro |75% |
+|ministër fuqiplotë; |1560 dollarë USD |40% |
+|ministër këshilltar | |40% |
+|Këshilltar |1080 euro |40% |
+| |1375 dollarë USD | |
+|Sekretar i parë; |895 euro |40% |
+|konsull |1095 dollarë USD | |
+|Sekretar i dytë; |700 euro |40% |
+|zevendeskonsull |890 dollarë USD | |
+|Sekretar i tretë; |635 euro |40% |
+|agjent konsull |780 dollarë USD | |
+|Atashe |570 euro |40% |
+| |700 dollarë USD | |
 LIDHJA NR. 2
 PAGA MUJORE E PUNONJËSVE TË PËRCAKTUAR SIPAS PIKËS 1/2 TË KËTIJ VENDIMI (NË RASTIN KUR JANË TË PUNËSUAR ME KOHË TË PLOTË)
-|Pozicioni |Paga mujore |
+|Pozicioni |PAGA MUJORE |
 | |Grupi 1 |Grupi 2 |Grupi 3 |Grupi 4 |Grupi 5 |
-|Sekretar Teknik. |920 euro |880 euro |840 euro |815 euro |755 euro |
-|Financier. |1030 dollarë USD |990 dollarë USD |955 dollarë USD |930 dollarë USD |880 dollarë USD |
-|Specialist. | | | | | |
-|Shofer. |880 euro |830 euro |790 euro |765 euro |705 euro |
-| |990 dollarë USD |940 dollarë USD |905 dollarë USD |885 dollarë USD |825 dollarë USD |
-|Kafaz. |730 euro |690 euro |660 euro |625 euro |585 euro |
-| |800 dollarë USD |770 dollarë USD |735 dollarë USD |705 dollarë USD |650 dollarë USD |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+|Sekretar; |1105 euro |1055 euro |1005 euro |975 euro |905 euro |
+|teknik; |1235 dollarë USD |1190 dollarë USD |1145 dollarë USD |1115 dollarë USD |1055 dollarë USD |
+|financier; | | | | | |
+|specialist | | | | | |
+|Shofer |1055 euro |995 euro |945 euro |915 euro |845 euro |
+| |1190 dollarë USD |1130 dollarë USD |1085 dollarë USD |1060 dollarë USD |990 dollarë USD |
+|Kafaz |875 euro |830 euro |790 euro |750 euro |700 euro |
+| |960 dollarë USD |925 dollarë USD |880 dollarë USD |845 dollarë USD |780 dollarë USD |
 LIDHJA NR. 2/1
 PAGESA MUJORE E PUNONJËSVE TË PËRCAKTUAR SIPAS PIKËS 1/2 TË KËTIJ VENDIMI (NË RASTIN KUR JANË TË PUNËSUAR ME KOHË TË PJESSHME)
-|Pozicioni |Paga mujore (me kohë të pjesshme) |
+|Pozicioni |PAGA MUJORE |
+| |(me kohë të pjesshme) |
 | |Minimumi |Maksimumi |
-|Sekretar Teknik. |335 euro |510 euro |
-|Financier. |370 dollarë USD |570 dollarë USD |
-|Specialist | | |
-|Pastrues |260 euro |345 euro |
-| |280 dollarë USD |380 dollarë USD |
+|Sekretar teknik; |400 euro |610 euro |
+|financier; |440 dollarë USD |680 dollarë USD |
+|specialist | | |
+|Pastrues |310 euro |410 euro |
+| |335 dollarë USD |455 dollarë USD |
 LIDHJA NR. 3
 PAGA MUJORE E PUNONJËSVE TË PËRCAKTUAR SIPAS PIKËS 1/3 TË KËTIJ VENDIMI
 |Emërtimi |Paga në euro |Paga në dollarë |Shtesa për përfaqësimin (në %) |
 |Përfaqësitë e NATO-s | | | |
-|Gj. Lejtnant |1310 |1585 |75% |
-|Gj. Major |1285 |1530 |60 - 75% |
-|Gj. Brigade |1200 |1440 |60 - 75% |
+|Gj. lejtnant |1570 |1900 |75% |
+|Gj. major |1540 |1835 |60-75% |
+|Gj. brigade |1440 |1725 |60-75% |
 |Përfaqësitë e tjera | | | |
-|Kolonel |1075 |1310 |40 - 60% |
-|Nënkolonel |1025 |1230 |40 - 60% |
-|Major |970 |1175 |40% |
-|Kapiten |900 |1145 |40% |
-|Toger |850 |1040 |40% |
-|Nëntoger |790 |980 |40% |
-|K/kapter |850 |1040 |40% |
-|Kapter |765 |920 |40% |
-|Rreshter |650 |765 |40% |
-|Tetar |530 |645 |40% |
-|Nëntetar |475 |585 |40% |
+|Kolonel |1290 |1570 |40-60% |
+|Nënkolonel |1230 |1475 |40-60% |
+|Major |1165 |1410 |40% |
+|Kapiten |1080 |1375 |40% |
+|Toger |1020 |1245 |40% |
+|Nëntoger |945 |1175 |40% |
+|K/kapter |1020 |1245 |40% |
+|Kapter |915 |1105 |40% |
+|Rreshter |780 |915 |40% |
+|Tetar |635 |775 |40% |
+|Nëntetar |570 |700 |40% |
 LIDHJA NR. 4
 PAGA MUJORE E PUNONJËSVE TË PËRCAKTUAR SIPAS PIKËS 1/4 TË KËTIJ VENDIMI
 |Pozicioni |PAGA MUJORE |
 | | | |
-| |Paga bazë mujore (në euro dhe në dollarë) |Shtesa për përfaqësimin (në %) |
-|Oficer kontakti; |900 euro |40% |
-|Përfaqësues të |1145 dollarë USD | |
-|sekretariatit të ministrisë| | |
-|përgjegjëse për bujqësinë | | |
+| |Paga bazë mujore |Shtesa për përfaqësimin (në %) |
+| |(në euro dhe në dollarë) | |
+|Oficer kontakti; |1080 euro |40% |
+|përfaqësues të sekretariatit të |1375 dollarë USD | |
+|ministrisë përgjegjëse për bujqësinë | | |
 |dhe zhvillimin rural | | |
 LIDHJA NR. 5
 PAGA MUJORE E PUNONJËSVE TË PËRCAKTUAR SIPAS PIKËS 1/5 TË KËTIJ VENDIMI
 |Pozicioni |PAGA MUJORE |
 | | | |
 | |Paga bazë mujore (në euro) |Shtesa për përfaqësimin (në %) |
-|Nëpunës ndërlidhës |900 euro |40% |
+|Nëpunës ndërlidhës |1080 euro |40% |
 Lidhja nr.6
 KATEGORIZIMI I PËRFAQËSIVE PËR EFEKT TË PËRFITIMIT TË KOSTOS SË JETESËS PËR PUNONJËSIT E PËRCAKTUAR SIPAS PIKËS 1/1 TË KËTIJ VENDIMI
 |Grupi 1 |Grupi 2 |Grupi 3 |Grupi 4 |Grupi 5 |
@@ -125,7 +123,3 @@ KATEGORIZIMI I PËRFAQËSIVE PËR EFEKT TË PËRFITIMIT TË KOSTOS SË JETESËS 
 | | |11. Selanik | | |
 | | |12. Tel-Aviv | | |
 | | |13. EUROPOL | | |
------------------------
-[1] VKM nr. 546, datë 11.8.2011 është botuar në Fletoren Zyrtare nr. 111, datë 12 gusht 2011.
-VKM nr. 178, datë 8.3.2017 është botuar në Fletoren Zyrtare nr. 47, datë 10 mars 2017.
-VKM nr. 115, datë 13.3.2019 është botuar në Fletoren Zyrtare nr. 21 mars 2019.
