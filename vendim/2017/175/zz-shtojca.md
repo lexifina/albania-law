@@ -1,6 +1,7 @@
 # Shtojca
-LIDHJA NR. 1
-STRUKTURA E PAGËS PËR PUNONJËSIT MËSIMORË TË ARSIMIT PARAUNIVERSITAR
+Lidhja nr. 1
+Struktura e pagës për punonjësit mësimorë dhe drejtues në institucionet arsimore,
+të përcaktuara në shkronjat “b”, “c”, “ç” dhe “d”, të pikës 1, të këtij vendimi
 EMËRTIMI / POZICIONI
 PAGA MUJORE
 Paga individuale
@@ -9,206 +10,143 @@ Paga e
 grupit
 (PG)
 Shtesa për vjetërsi (SHV)
-Shtesa për kualifikimin (SHK)
+Shtesa për kualifikim (SHK)
 1
 2
 3
 4
 5
 1
-Drejtor i shkollës së mesme me mbi 700 nxënës
-Drejtor i institutit të nxënësve që nuk shikojnë
-Drejtor i institutit të nxënësve që nuk dëgjojnë
-Drejtor në shkollat me probleme mendore
-Drejtor i konvikteve
+Drejtor i shkollës së mesme me mbi 700 nxënës.
+Drejtor i institutit të nxënësve që nuk shikojnë.
+Drejtor i institutit të nxënësve që nuk dëgjojnë.
+Drejtor në shkollat me aftësi të kufizuara.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG.
-58300
+61.000
 2
-Drejtor i shkollës së mesme me 301 deri në 700 nxënës
+Drejtor i shkollës së mesme me 301 deri në 700 nxënës.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-57750
+59.750
 3
-Drejtor i shkollës së mesme me deri në 300 nxënës
+Drejtor i shkollës së mesme me deri në 300 nxënës.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-57200
+58.750
 4
-Zëvendësdrejtor i shkollës së mesme me mbi 700 nxënës
+Zëvendësdrejtor i shkollës së mesme me mbi 700 nxënës.
+Përgjegjës i bazës prodhuese.
+Zëvendësdrejtor i institutit të nxënësve që nuk shikojnë.
+Zëvendësdrejtor i institutit të nxënësve që nuk dëgjojnë.
+Zëvendësdrejtor në shkollat me aftësi të kufizuara.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-52250
-Përgjegjës i bazës prodhuese
-Zëvendësdrejtor i institutit të nxënësve që nuk shikojnë
-Zëvendësdrejtor i institutit të nxënësve që nuk dëgjojnë
-Zëvendësdrejtor në shkollat me probleme
-Mendore.
+54.500
 5
-Zëvendësdrejtor i shkollës së mesme me 301 deri në 700 nxënës
+Zëvendësdrejtor i shkollës së mesme me 301 deri në 700 nxënës.
+1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-51700
+53.500
 6
-Zëvendësdrejtor i shkollës së mesme me deri në 300 nxënës
+Zëvendësdrejtor i shkollës së mesme me deri në 300 nxënës.
+1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-51150
+52.750
 7
-Drejtor i Qendrës Kulturore të Fëmijëve
+Drejtor i shkollës 9-vjeçare me mbi 700 nxënës.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-48950
+50.850
 8
-Drejtor i shkollës 9-vjeçare me mbi 700 nxënës
+Drejtor i shkollës 9-vjeçare me 301 deri në 700 nxënës.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-47850
+49.500
 9
-Drejtor i shkollës 9-vjeçare me 301 deri në 700 nxënës
+Drejtor i shkollës 9-vjeçare me deri në 300 nxënës.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-47300
+48.500
 10
-Drejtor i shkollës 9-vjeçare me deri në 300 nxënës
+Drejtor i shkollës fillore klasa I-IV.
+Përgjegjës (kryemësues) i shkollës me klasë kolektive.
+Zëvendësdrejtor i shkollës 9-vjeçare.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-46750
+48.000
 11
-Drejtor i shkollës fillore klasa I-IV. Përgjegjës(kryemësues) i shkollës me klasë kolektive
-Zëvendësdrejtor i shkollës 9-vjeçare
+Mësues në shkollat e mesme.
+Mësues në institutin e nxënësve që nuk shikojnë.
+Mësues në institutin e nxënësve që nuk dëgjojnë.
+Mësues në shkollat me aftësi të kufizuara.
+Mësues i praktikës profesionale.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-45100
+45.000
 12
-Drejtor i kopshtit me ushqim
+Mësues në ciklin e lartë në shkollat 9-vjeçare.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-43450
+42.000
 13
-Përgjegjës sektori në Qendrën Kulturore të Fëmijëve
+Mësues në ciklin e ulët në shkollat 9-vjeçare.
 1
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-42900
+39.300
 14
-Drejtor i kopshtit pa ushqim
-1
+Mësues në ciklin e ulët në shkollat 9-vjeçare.
+2
 2% e PG
-5 % e PG;
+5% e PG;
 10% e PG;
 20% e PG
-40150
+36.650
 15
-Mësues në shkollat e mesme
-Mësues në institutin e nxënësve që nuk shikojnë
-Mësues në institutin e nxënësve që nuk dëgjojnë
-Mësues në shkollat me probleme mendore
-Mësues i praktikës profesionale
-1
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-42350
-16
-Instruktor në Qendrën Kulturore të Fëmijëve
-1
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-40150
-17
-Mësues në ciklin e lartë në shkollat 9-vjeçare
-1
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-39050
-18
-Mësues në ciklin e ulët në shkollat 9-vjeçare
-Edukator konvikti
-Kujdestar konvikti
-1
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-36850
-19
-Edukator në kopsht fëmijësh
-1
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-34650
-20
-Mësues në ciklin e ulët në shkollat 9-vjeçare
-Edukator konvikti
-Kujdestar konvikti
-2
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-34650
-21
-Edukator në kopsht fëmijësh
-2
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-31350
-22
-Mësues në ciklin e ulët në shkollat 9-vjeçare
-Instruktor i praktikës profesionale
+Mësues në ciklin e ulët në shkollat 9-vjeçare.
+Instruktor i praktikës profesionale.
 3
-2% e PG
-5 % e PG;
-10% e PG;
-20% e PG
-31350
-Lidhja nr. 1/1
+34.000
+Lidhja nr. 2
 Struktura e pagës për punonjësit e shërbimit psiko-social dhe punonjësit e tjerë jomësimorë në institucionet e arsimit parauniversitar
 EMËRTIMI/POZICIONI
 PAGA MUJORE
@@ -236,6 +174,106 @@ Oficer i sigurisë në institucionet e arsimit parauniversitar
 2% e PG
 0
 42350
+Lidhja nr. 3
+Struktura e pagës për punonjësit mësimorë dhe drejtues të institucioneve të arsimit parashkollor, të qendrave kulturore të fëmijëve dhe konvikteve të nxënësve
+EMËRTIMI / POZICIONI
+PAGA MUJORE
+Paga individuale
+Shtesa e Pozicionit
+Paga e
+grupit
+(PG)
+Shtesa për vjetërsi (SHV)
+Shtesa për kualifikimin (SHK)
+1
+2
+3
+4
+5
+1
+Drejtor i konvikteve.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG.
+61.000
+2
+Drejtor i Qendrës Kulturore të Fëmijëve.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+51.000
+3
+Drejtor i kopshtit me ushqim.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+45.000
+4
+Përgjegjës sektori në Qendrën Kulturore të Fëmijëve.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+44.000
+5
+Drejtor i kopshtit pa ushqim.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+42.500
+6
+Instruktor në Qendrën Kulturore të Fëmijëve.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+42.500
+7
+Edukator konvikti.
+Kujdestar konvikti.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+39.300
+8
+Edukator në kopsht fëmijësh.
+1
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+36.650
+9
+Edukator konvikti.
+Kujdestar konvikti.
+2
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+36.650
+10
+Edukator në kopsht fëmijësh.
+2
+2% e PG
+5% e PG;
+10% e PG;
+20% e PG
+34.000
+Lidhja nr. 4
+PAGA PËR NIVELIN ARSIMOR
 Grupi
 Niveli i diplomës
 Shuma lekë në muaj
@@ -255,5 +293,3 @@ Diplomë e shkollës së mesme profesionale, për të cilat fitohet specialiteti
 Diplomë mbi shkollën e mesme. Të tilla konsiderohen të gjitha diplomat e kurseve me program mësimor të miratuar nga Ministria e përgjegjëse për Arsimin, si dhe diplomat jouniversitare profesionale dyvjeçare.
 Diplomë e shkollës së mesme profesionale.
 10,000
-LIDHJA NR. 2
-PAGA PËR NIVELIN ARSIMOR
