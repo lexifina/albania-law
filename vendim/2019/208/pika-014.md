@@ -1,0 +1,1 @@
+14. Për çështje të tjera, që, sipas parashikimeve të ligjit nr. 27/2018 janë kompetencë e KKTKM-së, këshilli teknik, pasi shqyrton përputhshmërinë e kërkesave të paraqitura, miraton relacionin përkatës, të hartuar nga sekretaria teknike, dhe ia përcjell për vendim Këshillit Kombëtar të Trashëgimisë Kulturore Materiale.

@@ -1,0 +1,1 @@
+12. Këshilli teknik kryesohet nga drejtori i përgjithshëm i Institutit Kombëtar të Trashëgimisë Kulturore (IKTK) dhe vepron si trupë shqyrtuese dhe seleksionuese e përputhshmërisë së kërkesave të paraqitura pranë KKTKM-së. Vendimi ose relacioni që i dërgohet KKTKM-së nga ana e Këshillit teknik firmoset nga kryetari.

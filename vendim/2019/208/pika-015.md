@@ -1,0 +1,1 @@
+15. Sporteli unik është pjesë e strukturës administrative pranë IKTK-së, ku depozitohen të gjitha kërkesat për aplikim, për të cilat është kompetente KKTKM-ja. Detyrat, funksionet dhe mënyra e ushtrimit të tyre përcaktohen në rregulloren për veprimtarinë e KKTKM-së.
