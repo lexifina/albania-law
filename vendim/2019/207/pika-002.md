@@ -1,0 +1,1 @@
+2. Qëllimi i përmbushjes së detyrimeve të caktuara në pikën 1, të këtij kreu, është rishoqërizimi, riintegrimi, rehabilitimi dhe parandalimi i rikryerjes së veprës penale ose e kryerjes së një vepre tjetër penale, duke i ofruar të miturit kujdes, asistencë dhe mbikëqyrje.

@@ -1,0 +1,1 @@
+7. Në hartimin e planit individual për të miturin në konflikt me ligjin mbahet në vëmendje kohëzgjatja e përmbushjes së detyrimit të caktuar në vendimin e gjykatës. Në asnjë rast, kjo kohëzgjatje nuk mund të kalojë kufijtë e caktuar në vendimin gjyqësor.

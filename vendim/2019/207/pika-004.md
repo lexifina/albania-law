@@ -1,0 +1,1 @@
+4. Zbatimi i detyrimeve të caktuara nga gjykata ndaj të miturit në konflikt me ligjin kërkon sigurimin e një bashkëpunimi efektiv ndërmjet strukturave dhe autoriteteve qendrore e vendore si dhe organizatave që mbrojnë të drejtat e fëmijës.

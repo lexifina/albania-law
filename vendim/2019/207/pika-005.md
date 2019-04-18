@@ -1,0 +1,1 @@
+5. Drejtuesi i strukturës përgjegjëse për shërbimet shoqërore dhe drejtuesi i njësisë së mbrojtjes së fëmijës pranë organeve të vetëqeverisjes vendore përgatit e përditëson listat e autoriteteve kompetente dhe të personave përgjegjës dhe ia dërgon ato strukturave vendore të Policisë së Shtetit, Prokurorisë dhe seksionit/gjykatës përkatës.

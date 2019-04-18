@@ -1,0 +1,1 @@
+1. Ky vendim përcakton autoritetet kompetente dhe procedurën që ndiqet prej tyre në rastet kur gjykata urdhëron të miturin në konflikt me ligjin të përmbushë një nga detyrimet e caktuara në përputhje me nenin 102, të Kodit të Drejtësisë Penale për të Mitur.
