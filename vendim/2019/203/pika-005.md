@@ -1,0 +1,1 @@
+5. Për nevoja pune/shërbimi, me urdhër të titullarit të strukturës vendore të shërbimit të MZSH-së, pas kërkesës së drejtuesit të strukturës përkatëse, punonjësit të shërbimit të MZSH-së mund t’i ndërpritet koha e pushimit ditor/vjetor, duke urdhëruar zgjatjen e kohës së punës/shërbimit.
