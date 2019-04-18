@@ -1,0 +1,1 @@
+2. Operatorët privatë historikë kombëtarë të kompensohen në masën 2 000 000 (dy milionë) euro, për mbulimin e pjesshëm të investimeve të kryera për ndryshimin e infrastrukturës së transmetimit, nga analoge në numerike.

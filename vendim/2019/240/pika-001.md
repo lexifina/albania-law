@@ -1,0 +1,1 @@
+1. Operatorët me eksperiencë në transmetimet numerike të kompensohen në masën 2 000 000 (dy milionë) euro, për mbulimin e pjesshëm të investimeve që dalin jashtë funksionit si rezultat i ndryshimeve teknologjike, sipas ligjit nr. 97/2013, “Për mediat audiovizive në Republikën e Shqipërisë”, të ndryshuar.

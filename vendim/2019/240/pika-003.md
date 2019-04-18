@@ -1,0 +1,1 @@
+3. Vlera e kompensimit për operatorët me eksperiencë në transmetimet numerike do të llogaritet me përqindjen që vlera financiare për përgjegjësitë tatimore, e paguar prej secilit operator, zë në totalin e vlerës financiare për përgjegjësitë tatimore të paguara nga të gjithë operatorët me eksperiencë në transmetimet numerike.
