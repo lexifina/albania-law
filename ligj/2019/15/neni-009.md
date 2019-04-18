@@ -1,0 +1,5 @@
+# Neni 9
+Ndërmjetësimi për punësim dhe përputhja me vendin e punës
+1. Ndërmjetësimi për punësim dhe përputhja me vendin e punës synon gjetjen e një vendi të përshtatshëm pune për punëkërkuesin, formimi, aftësitë e cilësitë e të cilit përputhen me kërkesat e deklaruara nga punëdhënësi për këtë vend pune, si dhe ndërmjetësime për programet aktive të tregut të punës.
+2. Ndërmjetësimi për punësim dhe përputhja me vendin e punës përfshin edhe shërbime këshilluese për punëdhënësit, me qëllim që të punësojnë kandidatët më të përshtatshëm, sipas kërkesave e tyre dhe në kohën e duhur, si dhe ndërmjetësime për programet aktive të tregut të punës. Në rastin e një punëkërkuesi, të parashikuar në nenin 3, pika 4, shkronja “c”, të këtij ligji, procesi i ndërmjetësimit shoqërohet me vlerësim të detajuar të punëkërkuesit, këshillim për punëdhënësit dhe të vendit e të proceseve të punës të vlefshme në tregun e hapur të punës.
+3. Ndërmjetësim për punësim vlerësohet edhe rasti kur, në zbatim të marrëveshjeve ose lejeve të posaçme për punë, mundësohet punësimi i punëkërkuesve shqiptarë jashtë vendit dhe i të huajve brenda vendit.
