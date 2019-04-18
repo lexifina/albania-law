@@ -1,0 +1,1 @@
+3. Raportim periodik, në zbatim të këtij udhëzimi, do të jetë një përmbledhje e të gjitha aktiviteteve të zhvilluara nga strukturat dhe sh.a.-të, i cili do të paraqitet para Sekretarit të Përgjithshëm të Ministrisë së Mbrojtjes në intervale 3-mujore.
