@@ -1,0 +1,1 @@
+4. Anëtarët e KKTKJ-së përmbushin detyrën e përgjegjësitë e tyre dhe deklarojnë çdo rast të konfliktit të mundshëm të interesit, në përputhje me ligjin nr. 9367, datë 7.4.2005, “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”, të ndryshuar.
