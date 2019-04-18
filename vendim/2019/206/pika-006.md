@@ -1,0 +1,2 @@
+6. Ngarkohen Ministria e Financave dhe Ekonomisë, Ministria për Evropën dhe Punët e Jashtme, Ministria e Infrastrukturës dhe Energjisë, Ministria e Turizmit dhe Mjedisit, Ministria e Bujqësisë dhe Zhvillimit Rural, Ministria e Kulturës, Ministria e Arsimit, Sportit dhe Rinisë, Agjencia Kombëtare e Planifikimit të Territorit, Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA) dhe Komisari i Përgjithshëm i Shqipërisë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

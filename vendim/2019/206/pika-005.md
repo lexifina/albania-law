@@ -1,0 +1,1 @@
+5. Autorizohet Agjencia Shqiptare e Zhvillimit të Investimeve (AIDA) për menaxhimin dhe administrimin e pavijonit shqiptar në Panairin Ndërkombëtar “EXPO 2020 DUBAI”, si dhe të veprimeve financiare nën mbikëqyrjen e grupit të punës, kryesuar nga Komisari i Përgjithshëm i Shqipërisë.

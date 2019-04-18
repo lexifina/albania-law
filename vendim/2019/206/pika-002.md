@@ -1,0 +1,1 @@
+2. Shqipëria të përfaqësohet nga Komisari i Përgjithshëm i Shqipërisë, i cili nënshkruan kontratën e pjesëmarrjes në Panairin Ndërkombëtar “EXPO 2020 DUBAI”, i udhëhequr nga tema kryesore e panairit “Bashkojmë idetë, krijojmë të ardhmen”.
