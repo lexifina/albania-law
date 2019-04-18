@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” (arë) në “tokë urbane” (truall), të pasurisë me nr. 1/27, zona kadastrale 3339, Bashkia Durrës, me sipërfaqe prej 4 870 (katërmijë e tetëqind e shtatëdhjetë) m², sipas listës bashkëlidhur këtij vendimi, për ndërtimin e një kapanoni njëkatësh, fabrikë prodhimi të bojërave, nga ana e “ZEUS-AL” sh.p.k.

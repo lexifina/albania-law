@@ -1,0 +1,1 @@
+2. Me hyrjen në fuqi të këtij vendimi, Drejtoria e Administrimit dhe Mbrojtjes së Tokës të qarkut Durrës të pasqyrojë në dokumentacionin kadastral përkatës ndryshimet e kategorisë së resursit, nga “tokë bujqësore” (arë) në “tokë urbane” (truall), për sipërfaqen prej 4 870 (katërmijë e tetëqind e shtatëdhjetë) m², sipas pikës 1, të këtij vendimi.
