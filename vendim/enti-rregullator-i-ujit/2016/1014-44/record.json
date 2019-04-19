@@ -1,0 +1,27 @@
+{
+  "qbz_id": 55103,
+  "title": "PËR LICENCIM PËR HERË TË PARË PËR SHA UJËSJELLËS-KANALIZIME VORË",
+  "type": "Vendim",
+  "number": "44",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2016-10-14",
+  "version_no": 1,
+  "qbz_version_id": 3623,
+  "in_force": "2019-04-19",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-04-19",
+  "changed_by_qbz_id": 62381,
+  "changed_by_number": "21",
+  "changed_by_title": "Për një ndryshim në vendimin e Komisionit Kombëtar Rregullator nr. 44, datë 14.10.2016, \"Për licencimin për herë të parë për sh.a. Ujësjellës Kanalizimeve Vorë\"",
+  "source": "https://qbz.gov.al/files/dd9d919a73044f6e0d4db0916e12fa9c893d4367f43f5bda3a896f02f09d67be.docx",
+  "source_sha256": "dd9d919a73044f6e0d4db0916e12fa9c893d4367f43f5bda3a896f02f09d67be",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55103",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/55103/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
