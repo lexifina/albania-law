@@ -47,6 +47,7 @@ Termat e përdorur në këtë rregullore kanë të njëjtin kuptim me ata të p�
 35. “Vija blu”, vija kufizuese e zhvillimit me funksion mbrojtjen e të gjitha burimeve ujore.
 36. “Vija e gjelbër” ose “Kufiri i territorit urban”, perimetri që përcakton/kufizon shtrirjen territoriale të ndërtimeve në funksion të sistemit urban. Në këtë kufizim nuk hyjnë ndërtimet që janë në funksion të sistemit bujqësor dhe natyror.
 37. “Vija e kuqe” ose “Vija e ndërtimit”, kufiri i lejuar për vendosjen e një ndërtimi në raport me infrastrukturën, në përputhje me legjislacionin sektorial në fuqi.
+38. “Korrigjim i dokumentit të planifikimit”, procesi i korrigjimit të dokumentit të planifikimit në fuqi, për rastet kur konstatohen: gabime drejtshkrimore; dy ose më shumë parashikime të ndryshme për të njëjtën zonë/njësi strukturore në dokumente të ndryshme përbërëse të planit; mospërputhje e treguesit të lartësisë në kate me atë të lartësisë në metra; mospërputhje të përcaktimeve në dokumentin e planifikimit me gjendjen faktike të zhvillimeve në territor.
 KREU II
 DOKUMENTET E PLANIFIKIMIT: PËRMBAJTJA DHE PROCESI I HARTIMIT
 SEKSIONI 1
@@ -127,6 +128,7 @@ Neni 10
 Monitorimi i zbatimit të dokumentit të planifikimit
 1. Monitorimi i zbatimit të dokumentit të planifikimit bëhet nga autoriteti përgjegjës për hartimin e tij, sipas planit përkatës të veprimeve, i miratuar si pjesë e dokumentit të planifikimit.
 2. Procesi i zbatimit të dokumenteve të planifikimit monitorohet edhe nga agjencia në bashkërendimin me autoritetet përgjegjëse për planifikimin.
+3. Nëse, gjatë zbatimit të dokumenteve të planifikimit, lind nevoja e korrigjimit të dokumenteve të planifikimit, sipas rasteve të përcaktuara në pikën 38, të nenit 2, të këtij vendimi, autoriteti përgjegjës për planifikimin e territorit përgatit një relacion shpjegues dhe njofton Agjencinë për konstatimet. Agjencia, në bashkëpunim me autoritetin përgjegjës për planifikimin, shqyrton dhe vlerëson rastet e konstatuara. Në përfundim të këtij procesi, Agjencia dërgon në KKT kërkesën për miratimin e vendimit për korrigjimin e dokumentit të planifikimit, shoqëruar nga një relacion shpjegues. Vendimi hyn në fuqi pas botimit në Regjistrin Kombëtar të Planifikimit të Territorit.
 Neni 11
 Rishikimi i dokumentit të planifikimit dhe procedura e thjeshtuar
 1. Rishikimi i dokumentit të planifikimit kryhet në përputhje me nenin 26 të ligjit.
@@ -155,7 +157,7 @@ c) botimin e dokumentit përfundimtar të nismës, me reflektimet përkatëse n�
 a) Në nivel qendror, miratimi kryhet sipas përcaktimeve në seksionet përkatëse në këtë rregullore, ku tregohet procesi i miratimit.
 b) Në nivel vendor:
 i) Dokumenti i rishikuar i PSNQ-së miratohet sipas përcaktimeve të nenit 47, të kësaj rregulloreje;
-ii) Dokumenti i rishikuar PPV-së, pas pajisjes me aktin e përputhshmërisë nga Agjencia, miratohet nga KKT-ja;
+ii) Dokumenti i rishikuar i PPV-së miratohet sipas përcaktimeve të nenit 62, të kësaj rregulloreje;
 iii) Dokumenti i rishikuar i PSNB-së miratohet sipas përcaktimeve të nenit 67, të kësaj rregulloreje.
 Neni 13
 Deklarata e përgjegjësisë profesionale
@@ -781,7 +783,7 @@ c) Faza II. Hartimi i strategjisë territoriale dhe i vizionit të zhvillimit t�
 a) botimit të dokumenteve në Regjistrin Kombëtar të Planifikimit të Territorit;
 b) informimit të palëve të interesuara nëpërmjet një a më shumë mjeteve tradicionale të informimit;
 c) organizimit të takimeve me Forumin Këshillimor Vendor, në zbatim të nenit 6 të kësaj rregulloreje,
-ç) organizimit të së paku dy dëgjesave publike përkatësisht në fazat II dhe III të hartimit të tij, në përputhje me nenin 8 të kësaj rregulloreje.
+ç) organizimit të së paku dy dëgjesave publike përkatësisht në fazat II dhe III të hartimit të tij, në përputhje me nenin 6 të kësaj rregulloreje.
 5. PPV-ja bashkërendohet nëpërmjet Forumit të Bashkërendimit të Planifikimit në nivel vendor, në përputhje me nenin 5 të kësaj rregulloreje. Agjencia organizon së paku dy takime të FBPV-së, përkatësisht në fazat II dhe III të hartimit të PPV-së, pas mbajtjes së dëgjesave publike nga autoriteti vendor.
 Neni 53
 Nisma për hartimin e PPV-së
@@ -1170,7 +1172,7 @@ Zona
 2. Kufijtë e zonave përcaktohen gjatë hartimit të dokumentit të planifikimit, në mënyrë të tillë që një zonë:
 a) të ketë një kufi të vetëm e të mbyllur dhe të identifikohet në mënyrë unike në territor;
 b) të respektojë zonime të veçanta të detyrueshme nga legjislacioni sektorial (zonat e mbrojtura mjedisore, kulturore etj.), sipas rastit.
-3. Zona mund të përmbajë disa kategori përdorimi toke, pjesë të një sistemi të vetëm territorial, në përputhje me nenin 79 të kësaj rregulloreje.
+3. Zona mund të përmbajë disa kategori përdorimi toke, të cilat duhet të jenë pjesë të një sistemi territorial, në përputhje me nenin 79, të kësaj rregulloreje.
 Neni 77
 Njësia
 1. Njësia strukturore është pjesë përbërëse e zonës që detajohet në nivelin e nënkategorisë së përdorimit të tokës, sipas shtojcës I të kësaj rregulloreje.
@@ -1179,7 +1181,7 @@ a) të ketë një kufi të vetëm e të mbyllur dhe të identifikohet në mënyr
 b) të mos ketë përdorime të papërputhshme dhe me ndikime negative mes tyre;
 c) të respektojë zonime të veçanta të detyrueshme nga legjislacioni sektorial (zonat e mbrojtura mjedisore, kulturore etj.), sipas rastit;
 ç) të kufizohet nga elemente fizike territoriale të dallueshme, si rrugë, linja hekurudhore, breza mbrojtës dhe sanitarë, brigje ujore, përrenj, lumenj etj.
-3. Njësia mund të përmbajë disa kategori /nënkategori përdorimi toke, pjesë të një sistemi të vetëm territorial, në përputhje me nenin 79 të kësaj rregulloreje.
+3. Njësia mund të përmbajë disa kategori/nënkategori përdorimi toke, të cilat duhet të jenë pjesë të një sistemi territorial, në përputhje me nenin 79, të kësaj rregulloreje. Në raste specifike, në një njësi ku mbizotëron një sistem i vetëm territorial, kur, për zhvillimin homogjen të njësisë nuk është e rekomandueshme ndarja e saj, mund të lejohen edhe përdorime që u përkasin sistemeve të tjera territoriale.
 Neni 78
 Nënnjësia
 1. Nënnjësia është pjesë përbërëse e njësisë që detajohet në nivelin e funksioneve, sipas shtojcës I të kësaj rregulloreje dhe i shërben planifikimit të detajuar të territorit.
@@ -1280,7 +1282,6 @@ Neni 86
 Zona natyrore
 1. Procesi i planifikimit dhe i zhvillimit në zona natyrore, si dhe ndryshimi i kategorisë përkatëse bazë të përdorimit të tokës në kategori të tjera rregullohet nga legjislacioni i posaçëm për pyjet dhe shërbimin pyjor për tokën, për turizmin, për kullotat e livadhet për menaxhimin e integruar të burimeve ujore dhe për mjedisin.
 2. Propozimi për ndryshimin sipas pikës 1 të këtij neni, kryhet përmes dokumenteve të planifikimit dhe akteve përkatëse të detyrueshme nga legjislacioni i posaçëm.
-3. Procesi i përgatitjes së aktit/akteve përkatëse, sipas pikës 2 të këtij neni, kryhet paralelisht me hartimin e dokumentit të planifikimit dhe miratohet nga autoritetet përgjegjëse sipas legjislacionit të posaçëm.
 Neni 87
 Ujëra dhe ligatina
 1. Procesi i planifikimit dhe i zhvillimit në territore, që i përkasin kategorisë bazë të përdorimit “Ujëra”, rregullohet sipas legjislacionit të posaçëm dhe konventave ndërkombëtare në të cilat ka aderuar Shqipëria.
@@ -1292,9 +1293,8 @@ c) një zonë e mbrojtjes së largët, brenda së cilës veprimtaritë e parashi
 4. Është i ndaluar magazinimi i materialeve dhe lëndëve, që mund të shpëlahen në ujë dhe ndërtimi i objekteve të reja në zonat e kërcënuara nga përmbytjet.
 Neni 88
 Zona bujqësore
-1. Zhvillimet në zona bujqësore kryhen sipas dokumenteve të planifikimit dhe legjislacionit të posaçëm për tokën bujqësore.
-2. Çdo dokument i përgjithshëm ose sektorial planifikimi, që parashikon edhe ndryshim të kategorisë së përdorimit të tokës nga bujqësi në përdorime të tjera dhe anasjellas, shoqërohet, sipas rastit, me aktet përkatëse të ndryshimit sipas legjislacionit të posaçëm.
-3. Procesi i përgatitjes së/të aktit/akteve përkatëse, sipas pikës 2 të këtij neni, kryhet paralelisht me hartimin e dokumentit të planifikimit dhe miratohet nga autoritetet përgjegjëse sipas legjislacionit të posaçëm.
+Procesi i planifikimit dhe i zhvillimit në zona bujqësore si dhe ndryshimi i kategorisë përkatëse bazë të përdorimit të tokës në kategori të tjera rregullohet nga legjislacioni i posaçëm për tokën bujqësore.
+Propozimi për ndryshimin sipas pikës 1, të këtij neni, kryhet nëpërmjet dokumenteve të planifikimit dhe akteve përkatëse të detyrueshme nga legjislacioni i posaçëm.
 Neni 89
 Zonat turistike dhe parimet bazë
 1. Zonat turistike përbëhen nga zona me vlera natyrore të peizazhit, historike, kulturore, sportive, shëndetësore dhe pushimi.
