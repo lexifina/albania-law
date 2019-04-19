@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rehabilitimi i segmentit rrugor “Pallati me shigjeta - rrethrrotullimi “Shqiponja””.

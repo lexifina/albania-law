@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 1 224 874 430.42 (një miliard e dyqind e njëzet e katër milionë e tetëqind e shtatëdhjetë e katër mijë e katërqind e tridhjetë pikë dyzet e dy) lekësh, për pasuritë e llojit “truall”, “tokë arë” dhe “ndërtesë”, të përballohet nga llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë.
