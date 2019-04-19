@@ -1,0 +1,2 @@
+2. Ngarkohen Ministria e Mbrojtjes, Ministria e Brendshme, Ministria e Financave dhe Ekonomisë, Ministria e Infrastrukturës dhe Energjisë, Ministria e Turizmit dhe Mjedisit, të marrin masa që në bashkëpunim me drejtuesit e portit të bëjnë funksionale të gjitha strukturat përkatëse shtetërore, përfshirë komunikimin nominal të personave që do t’i ushtrojnë këto funksione në port.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
