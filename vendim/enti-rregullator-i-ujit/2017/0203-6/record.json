@@ -1,0 +1,27 @@
+{
+  "qbz_id": 55909,
+  "title": "PËR LICENCIMIN E SHA UJËSJELLËS KANALIZIME GJIROKASTËR",
+  "type": "Vendim",
+  "number": "6",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2017-02-03",
+  "version_no": 1,
+  "qbz_version_id": 3745,
+  "in_force": "2019-04-19",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-04-19",
+  "changed_by_qbz_id": 62379,
+  "changed_by_number": "19",
+  "changed_by_title": "Për një ndryshim në vendimin e Komisionit Kombëtar Rregullator nr. 6, datë 3.2.2017, “Për licencimin e sh.a. Ujësjellës-Kanalizime Gjirokastër”, i ndryshuar",
+  "source": "https://qbz.gov.al/files/9296569bec35d680eefe628286628a1ebcaedc62662978cfe98e3135bda3f9ab.docx",
+  "source_sha256": "9296569bec35d680eefe628286628a1ebcaedc62662978cfe98e3135bda3f9ab",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55909",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/55909/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
