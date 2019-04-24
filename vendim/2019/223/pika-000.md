@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (Marrësi), dhe KfW Frankfurt am Main (KfW), për programin e rehabilitimit të konvikteve të Universitetit të Tiranës sipas parimit të eficiencës së energjisë, faza III, me një grant në shumën 2 927 765.96 (dy milionë e nëntëqind e njëzet e shtatë mijë e shtatëqind e gjashtëdhjetë e pesë pikë nëntëdhjetë e gjashtë) euro, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
