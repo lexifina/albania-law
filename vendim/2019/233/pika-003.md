@@ -1,0 +1,1 @@
+3. I mituri me liri të kufizuar duhet të mbështetet e nxitet për të marrë pjesë në këto aktivitete e programe dhe për të diskutuar çështje që lidhen me mënyrën e trajtimit dhe kushtet e institucionit.

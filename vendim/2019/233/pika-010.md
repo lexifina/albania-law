@@ -1,0 +1,7 @@
+10. Kontakti me shoqërinë dhe komunitetin
+10.1 Të miturit i lejohet komunikimi pa kufizim nëpërmjet letrave dhe, sa më shpesh të jetë e mundur, me telefon ose forma të tjera të komunikimit me familjet e tyre, persona të tjerë, përfaqësues të organizatave të jashtme dhe për të marrë vizita të rregullta nga këta persona.
+10.2 Rregullimi i vizitave duhet të jetë i tillë që t’i lejojë të miturit të mbajë e të zhvillojë marrëdhëniet familjare në mënyrë sa më normale si dhe të ketë mundësi për riintegrim social.
+10.3 Personeli i institucionit të kufizimit të lirisë duhet t’i ndihmojë të miturit në mbajtjen e kontakteve të përshtatshme me botën e jashtme dhe t’u sigurojë mjetet e duhura për ta bërë këtë.
+10.4 Komunikimi dhe vizitat mund t’i nënshtrohen kufizimeve dhe monitorimit të domosdoshëm për kërkesat e hetimeve të vazhdueshme penale, të ruajtjes së rendit e sigurisë, parandalimit të veprave penale dhe mbrojtjes së viktimave të krimit, por kufizime të tilla, duke përfshirë edhe kufizime të urdhëruara nga gjykata, duhet të lejojnë një nivel minimal, të pranueshëm, kontakti.
+10.5 Çdo informacion i marrë për vdekjen apo sëmundjen serioze të një të afërmi duhet t’i komunikohet menjëherë të miturit, në prani të psikologut ose punonjësit social.
+10.6 Të miturit i lejohen periudha të rregullta lejeje, qoftë të shoqëruar ose vetëm, dhe mund t’i lejohet të largohet nga institucioni për arsye të ligjshme. Kohëzgjatja e kësaj lejeje nuk i kalon 15 (pesëmbëdhjetë) ditë. Në këtë kohë përfshihet edhe koha e nevojshme për udhëtim në familjen e tij ose në destinacion.

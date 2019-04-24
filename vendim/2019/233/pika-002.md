@@ -1,0 +1,1 @@
+2. Të miturit me liri të kufizuar i garantohen aktivitete dhe programe me karakter edukues dhe riintegrues, në përputhje me shëndetin e tij fizik e mendor, respektin për veten dhe ndjenjën e përgjegjësisë ndaj shoqërisë e komunitetit.

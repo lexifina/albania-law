@@ -1,0 +1,1 @@
+5. Duke qenë se të miturit e privuar nga liria janë veçanërisht vulnerabël, drejtuesit dhe personeli i institucionit duhet të mbrojnë integritetin e tyre fizik e mendor dhe duhet të kujdesen për mirëqenien e tyre.
