@@ -1,0 +1,1 @@
+6. Çdo institucion i arsimit të lartë mund të nënshkruajë marrëveshje, pa efekte financiare, me subjekte publike apo private, për ofrimin e shërbimeve të ndryshme, në nivel qendror apo vendor, me çmime të reduktuara për përfituesit e kartës së studentit.

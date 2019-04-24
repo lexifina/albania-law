@@ -1,0 +1,1 @@
+4. Në nivel vendor, marrëveshjet për ofrimin e shërbimeve me çmime të reduktuara për përfituesit e kartës së studentit nënshkruhen ndërmjet njësive të vetëqeverisjes vendore dhe ministrisë përgjegjëse për arsimin. Efektet financiare nga reduktimi i çmimeve përballohen nga buxhetet e njësive të vetëqeverisjes vendore.

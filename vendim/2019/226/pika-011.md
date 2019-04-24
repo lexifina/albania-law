@@ -1,0 +1,1 @@
+11. Në rast se njësitë e vetëqeverisjes vendore paraqesin kërkesë për prodhimin dhe administrimin e kartës së studentit, ministria përgjegjëse për arsimin nënshkruan një marrëveshje dypalëshe me këto njësi për delegimin e këtyre përgjegjësive e kompetencave. Në këtë rast, shpenzimet do të përballohen nga buxheti i këtyre njësive.

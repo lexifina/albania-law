@@ -1,0 +1,1 @@
+12. Qendra e Shërbimeve Arsimore konfirmon, për çdo vit akademik, studentët e regjistruar në vitin përkatës akademik, për çdo institucion të arsimit të lartë, pranë ministrisë përgjegjëse për arsimin dhe pranë njësive të vetëqeverisjes vendore, në rastin e delegimit të prodhimit dhe të administrimit të kartës së studentit.

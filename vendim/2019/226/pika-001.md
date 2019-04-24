@@ -1,0 +1,1 @@
+1. Shërbimet që ofrohen nga entet shtetërore në fushën e artit dhe të kulturës, të shëndetësisë dhe të mbrojtjes sociale, arsimit, sportit dhe rinisë, transportit, turizmit dhe mjedisit, ekonomisë, financave, punësimit dhe trajnimit dhe ato të mbrojtjes përfitohen nga studentët me çmime të reduktuara përmes përdorimit të kartës së studentit, si një dokument unik i çdo studenti.

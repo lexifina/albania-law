@@ -1,0 +1,1 @@
+10. Shpenzimet për prodhimin dhe administrimin e kartës së studentit do të përballohen nga buxheti i ministrisë përgjegjëse për arsimin. Efektet financiare nga reduktimi i çmimeve përballohen nga buxheti i ministrive sipas fushës së përgjegjësisë shtetërore.

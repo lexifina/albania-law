@@ -1,0 +1,1 @@
+7. Marrëveshjet e lidhura nga njësitë e vetëqeverisjes vendore dhe institucionet e arsimit të lartë marrin miratimin paraprak në ministrinë përgjegjëse për arsimin. Ministria përgjegjëse për arsimin konfirmon miratimin brenda 10 (dhjetë) ditëve punë nga njoftimi i marrëveshjes. Në rast se konfirmimi nuk paraqitet brenda 10 (dhjetë) ditëve punë, miratimi konsiderohet i dhënë.

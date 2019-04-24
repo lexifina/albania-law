@@ -1,0 +1,1 @@
+3. Përfituesit e kartës së studentit përfitojnë shërbime me çmime të reduktuara edhe nga subjekte të tjera publike apo private, që kanë objekt të fushës së veprimtarisë së tyre shërbime për studentët, në bazë të marrëveshjeve përkatëse, pa efekte financiare për buxhetin e shtetit, të nënshkruara me ministrinë përgjegjëse për arsimin.
