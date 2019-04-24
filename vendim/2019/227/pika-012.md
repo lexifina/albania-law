@@ -1,0 +1,1 @@
+12. Kostoja e përgatitjes, shtypjes, botimit dhe shpërndarjes së teksteve shkollore të arsimit bazë, për nxënësit e institucioneve arsimore publike parauniversitare, ku mësojnë nxënës të pakicave kombëtare, mbulohet nga fondet buxhetore të ministrisë përgjegjëse për arsimin.

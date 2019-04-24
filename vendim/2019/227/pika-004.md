@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për arsimin siguron përkthimin e teksteve të katalogut zyrtar të teksteve shkollore, nga gjuha shqipe në gjuhën e pakicës kombëtare, në përputhje me lëndët mësimore që zhvillohen në arsimin bazë, të cilat nuk janë gjendje, sipas përcaktimit të pikës 3, të këtij vendimi.

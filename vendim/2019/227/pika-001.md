@@ -1,0 +1,1 @@
+1. Ministria përgjegjëse për arsimin siguron shtypjen, botimin dhe shpërndarjen e teksteve shkollore të arsimit bazë për nxënësit e institucioneve arsimore publike parauniversitare, ku mësojnë nxënës të pakicave kombëtare.

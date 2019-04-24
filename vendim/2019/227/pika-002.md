@@ -1,0 +1,1 @@
+2. Lista e teksteve shkollore të arsimit bazë për nxënësit e institucioneve arsimore publike parauniversitare, ku mësojnë nxënës të pakicave kombëtare, përcaktohet nga ministria përgjegjëse për arsimin, në përputhje me nevojat e evidentuara për çdo vit shkollor.

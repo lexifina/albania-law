@@ -1,0 +1,1 @@
+8. Në rastet kur shtëpia botuese nuk mund të realizojë përkthimin, botimin dhe shpërndarjen e tekstit shkollor, sipas pikës 5, të këtij vendimi, të drejtat i kalojnë ministrisë përgjegjëse për arsimin, e cila përkthen, shtyp, boton dhe shpërndan tekstet shkollore, sipas kuadrit ligjor në fuqi.

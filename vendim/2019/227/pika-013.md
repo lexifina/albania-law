@@ -1,0 +1,2 @@
+13. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë, institucioni përgjegjës për zhvillimin e metodologjive dhe të standardeve për tekstet mësimore apo sigurimin e cilësisë së arritjeve në arsimin parauniversitar, në varësi të Ministrisë së Arsimit, Sportit dhe Rinisë, institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar, dhe institucionet arsimore publike parauniversitare, ku mësojnë nxënës të pakicave kombëtare, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
