@@ -1,0 +1,1 @@
+1. Transferimin, në pronësi të Bashkisë Tiranë, të njësisë administrative Tiranë, të pasurisë me nr. 3/20, me vendndodhje në zonën kadastrale 8340, sipas formularit bashkëlidhur këtij vendimi, për t’u përdorur në fushën e arsimit.
