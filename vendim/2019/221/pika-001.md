@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Vlorë, të pronës me emërtimin “Bashkia”, me vendndodhje në zonën kadastrale 8605, sipas formularit bashkëlidhur këtij vendimi, për realizimin e funksioneve të saj administrative.
