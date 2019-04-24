@@ -1,0 +1,2 @@
+Miratimin e ndryshimit të marrëveshjes së huas, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit për Zhvillim Abu Dhabi, për financimin e projektit “Ndërtimi i bulevardit verior dhe rehabilitimi i lumit të Tiranës”, të ratifikuar me ligjin nr.150/2013, me qëllim shtyrjen e afatit të disbursimit, sipas marrëveshjes së huas, deri më 30.6.2020, sipas përmbajtjes së dokumentit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
