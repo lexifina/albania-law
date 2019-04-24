@@ -1,0 +1,1 @@
+2. Ministrisë për Evropën dhe Punët e Jashtme, në buxhetin e miratuar për vitin 2019, në programin “Planifikim, menaxhim, administrim”, në zërin “Shpenzime korrente”, t’i shtohet kundërvlera në lekë e fondit prej 100 000 (njëqind mijë) eurosh, për qëllimin sipas pikës 1, të këtij vendimi.

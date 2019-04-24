@@ -1,0 +1,1 @@
+1. Dhënien e ndihmës financiare nga Këshilli i Ministrave i Republikës së Shqipërisë për qeverinë e Republikës së Francës, në masën 100 000 (njëqind mijë) euro, për rindërtimin e Katedrales “Notre-Dame” në Paris, pas dëmeve të shkaktuara nga zjarri.
