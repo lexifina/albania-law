@@ -1,0 +1,1 @@
+2. Anëtarët e këshillit drejtues të Agjencisë Shtetërore të Kadastrës, në vijim (ASHK), gjatë ushtrimit të veprimtarisë së tyre, udhëhiqen nga parimet e përcaktuara në Kodin e Procedurave Administrative dhe në nenin 5, të ligjit nr. 111/2018, “Për kadastrën”.

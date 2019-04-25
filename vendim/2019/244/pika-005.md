@@ -1,0 +1,1 @@
+5. Në rast vakance në pozicionin e anëtarit të këshillit drejtues, ASHK-ja, brenda 5 (pesë) ditëve nga konstatimi i vakancës, njofton institucionin përkatës për propozimin e anëtarit të ri. Institucioni propozues duhet t’i përcjellë Këshillit të Ministrave anëtarin e ri, brenda 10 (dhjetë) ditëve nga njoftimi i ASHK-së.
