@@ -1,0 +1,1 @@
+5. Pagat dhe shtesat mbi pagë të punonjësve administrativë në Agjencinë Shtetërore të Kadastrës janë sipas vendimit përkatës të Këshillit të Ministrave për pagat e punonjësve mbështetës të institucioneve të administratës shtetërore.
