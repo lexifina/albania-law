@@ -1,0 +1,1 @@
+9. Pas nënshkrimit të kontratës dhe hyrjes në fuqi të saj, Avokati i Përgjithshëm i Shtetit merr masa për të pajisur zyrën e avokatisë të huaj të përzgjedhur me autorizimet përkatëse për kryerjen e shërbimeve.

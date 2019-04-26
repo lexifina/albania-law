@@ -1,0 +1,1 @@
+11. Kostot financiare (kryerja e pagesës së çmimit të kontratës për të kontraktuarin - zyrën e avokatisë të huaj) do të përballohen nga fondi rezervë i buxhetit të shtetit, bazuar në kushtet specifike që do të përcaktohen në kontratë.

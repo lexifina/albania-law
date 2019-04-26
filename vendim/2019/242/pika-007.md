@@ -1,0 +1,1 @@
+7. Pas përfundimit të procedurës së ankesave, Avokati i Përgjithshëm i Shtetit negocion dhe nënshkruan kontratën me zyrën e avokatisë të huaj të përzgjedhur sipas procedurës së mësipërme në emër të Ministrisë së Infrastrukturës dhe Energjisë dhe Ministrisë së Ekonomisë dhe Financave për kryerjen e shërbimeve.

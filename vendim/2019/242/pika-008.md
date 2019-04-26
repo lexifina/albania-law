@@ -1,0 +1,1 @@
+8. Pas nënshkrimit të kontratës, Ministria e Infrastrukturës dhe Energjisë dhe Ministria e Ekonomisë dhe Financave angazhohen në mbështetjen dhe vënien në dispozicion të kontraktorit të të gjithë akseseve të nevojshme në terrene dhe në dokumentacion mbi bazë të kontratës.

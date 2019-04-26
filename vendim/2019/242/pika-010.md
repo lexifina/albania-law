@@ -1,0 +1,1 @@
+10. Avokati i Përgjithshëm i Shtetit cakton, me urdhër, një avokat shteti për ndjekjen e zbatimit të kontratës deri në përfundim të saj, i cili do të ketë kryesisht funksione mbikëqyrjeje, koordinimi dhe komunikimi me të kontraktuarin.
