@@ -37,3 +37,6 @@ Në pronësi
 133-135, 139, 141, 224, 251-259, 261, 262, 264, 268, 269, 271, 272, 275, 276, 277, 279, 280, 281, 282, 283, 284, 285
 Prona që përdoren për realizimin e funksioneve në fushën e bujqësisë dhe të ushqimit (toka joproduktive dhe kanale të treta)
 Në pronësi
+23
+Pasuria nr. 3561, zona kadastrale 1567, për realizimin e funksioneve dhe shërbimeve me interes vendor.
+Në pronësi
