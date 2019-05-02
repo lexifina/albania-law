@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 315/1, zona kadastrale 1065, Bashkia Shkodër, sipas certifikatës së pasurisë me hartën treguese dhe lidhjes nr. 1, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe Mbrojtjes së Tokës, qarku Shkodër, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 315/1, zona kadastrale 1065, Bashkia Shkodër.
