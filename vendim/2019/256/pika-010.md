@@ -1,0 +1,1 @@
+10. Në rast refuzimi të dhënies së të dhënave për peshkimin sipas pikës 8, të kreut III, të këtij vendimi, përdoruesit fundorë mund të ankohen në ministri. Nëse ministria çmon se refuzimi nuk ka qenë i justifikuar, atëherë të dhënat u jepen përdoruesve fundorë brenda një muaji.

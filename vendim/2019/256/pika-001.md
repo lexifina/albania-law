@@ -1,0 +1,1 @@
+1. Ky vendim përcakton rregullat për mbledhjen, menaxhimin dhe përdorimin e të dhënave biologjike, mjedisore, teknike dhe socio-ekonomike në sektorin e peshkimit, sipas përcaktimeve të nenit 93, të ligjit nr. 64/2012, “Për peshkimin”, të ndryshuar, me qëllim përmbushjen e objektivave të Strategjisë Kombëtare të Peshkimit.
