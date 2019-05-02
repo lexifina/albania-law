@@ -1,0 +1,5 @@
+VENDIM
+Nr. 258, datë 24.4.2019
+PËR MIRATIMIN E KONTRATËS SË KONCESIONIT/PARTNERITETIT PUBLIK PRIVAT “PËR OFRIMIN E SHËRBIMIT LABORATORIK TË SPITALEVE UNIVERSITARE, RAJONALE DHE ATYRE BASHKIAKE TË SARANDËS DHE LUSHNJËS”
+Në mbështetje të nenit 100 të Kushtetutës, me propozimin e ministrit të Shëndetësisë dhe Mbrojtjes Sociale, Këshilli i Ministrave
+VENDOSI:
