@@ -2319,4 +2319,3 @@ S H U M A
 1,224,874,430.42
 Shënim: 1. Vlerësimi për objektet është kryer bazuar në VKM-në nr. 138, datë 23.3.2000
 2. Vlerësimi i pasurisë së llojit “tokë truall” dhe “tokë arë”, është kryer bazuar në VKM-në nr. 89, datë 3.2.2016.
-Komisioni i Posaçëm i Shpronësimit
