@@ -1,1 +1,0 @@
-7. Drejtoria nuk jep të dhëna për përdoruesit finalë, në lidhje me aktivitetet e anijeve të peshkimit të marra nga monitorimi satelitor në zbatim të shkronjës “b” të pikës 4 të kreut V të këtij vendimi.

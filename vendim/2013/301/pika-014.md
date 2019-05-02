@@ -1,1 +1,0 @@
-14. Në rast refuzimi të dhënies së të dhënave nga ana e drejtorisë, përdoruesit finalë mund të ankohen në ministri. Nëse ministria çmon se refuzimi nuk ka qenë i justifikuar, atëherë të dhënat u jepen përdoruesve finalë brenda një muaji.
