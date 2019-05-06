@@ -1,0 +1,2 @@
+Miratimin e memorandumit të mirëkuptimit, ndërmjet qeverisë së Republikës së Finlandës dhe Shtabit të Komandës Supreme Aleate për Transformimin, si dhe Shtabit Suprem të Fuqive Aleate në Evropë, në lidhje me dhënien e mbështetjes së shtetit pritës për kryerjen e operacioneve/stërvitjeve dhe aktiviteteve ushtarake të ngjashme të NATO-s dhe notës së pranimit për t’u bërë pjesë e tij, sipas tekstit të memorandumit dhe notës bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
