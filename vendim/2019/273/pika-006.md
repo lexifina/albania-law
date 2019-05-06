@@ -1,0 +1,1 @@
+6. Pronarët e pasurisë së paluajtshme, që shpronësohen, sipas tabelës bashkëlidhur këtij vendimi, të kompensohen, për efekt shpronësimi, pasi të ketë paraqitur pranë Bashkisë Elbasan certifikatën e pronësisë, hartën treguese të regjistrimit, si dhe kartelën e pasurisë.

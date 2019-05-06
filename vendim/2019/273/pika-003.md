@@ -1,0 +1,1 @@
+3. Pronarët e pasurisë të paluajtshme, që shpronësohen, të kompensohen, në vlerë të plotë, sipas masës përkatëse, që paraqitet në tabelën që i bashkëlidhet këtij vendimi, për pasurinë “ndërtesë”, me sipërfaqe 15 m², me vlerë të përgjithshme prej 519 660 (pesëqind e nëntëmbëdhjetë mijë e gjashtëqind e gjashtëdhjetë) lekësh.
