@@ -1,0 +1,1 @@
+9. Komisioni i Sigurisë së Objekteve shqyrton kërkesën për vlerësimin e nevojës për ruajtje dhe sigurim të objekteve dhe në përfundim, me vendim të arsyetuar, miraton ose kundërshton kërkesën. Në rast miratimi, komisioni kategorizon objektet në një nga kategoritë e përcaktuara në pikën 1, të këtij vendimi. Kategorizimi i kryer mund të jetë i ndryshëm nga ai i kërkuari.

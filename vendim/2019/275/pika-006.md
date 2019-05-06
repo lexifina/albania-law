@@ -1,0 +1,1 @@
+6. Për përcaktimin e nevojës dhe të mënyrës së ruajtjes e sigurimit fizik të objekteve, brenda 30 ditëve, nga hyrja në fuqi e këtij vendimi, me urdhër të ministrit të Brendshëm krijohet Komisioni i Sigurisë së Objekteve, i përbërë nga punonjës të Ministrisë së Brendshme, Policisë së Shtetit dhe Gardës së Republikës.

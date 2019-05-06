@@ -1,0 +1,1 @@
+8. Kërkesa përmban përshkrimin e objekteve, arsyetimin për përmbushjen e kritereve dhe për përfshirjen e objektit specifik për ruajtje dhe sigurim në një nga kategoritë e përcaktuara në pikën 1, të këtij vendimi.

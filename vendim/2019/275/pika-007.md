@@ -1,0 +1,1 @@
+7. Titullarët e ministrive, të institucioneve, agjencive apo njësive/strukturave të tjera shtetërore/publike, brenda 30 ditëve, nga krijimi i Komisionit të Sigurisë së Objekteve, paraqesin pranë tij kërkesë për vlerësimin e nevojës për ruajtje dhe sigurim për objektet shtetërore në pronësi, administrim apo përdorim të tyre.

@@ -1,0 +1,1 @@
+2. Nevoja dhe mënyra e ruajtjes dhe sigurimit fizik të objekteve përcaktohet, kryesisht, nga rëndësia dhe lloji i objektit, vendndodhja, veçoritë specifike, dokumentacioni që administrohet, rreziqet e mundshme si dhe cilësitë e veçanta të personave që ushtrojnë veprimtarinë në këto objekte.
