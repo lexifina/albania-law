@@ -1,0 +1,1 @@
+8. Agjencia Shtetërore e Kadastrës, brenda 30 ditëve, nga data e miratimit të këtij vendimi, në bashkëpunim me Bashkinë Vlorë, të fillojnë procedurat për hedhjen e gjurmës së projektit, mbi hartën kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe të bëjnë kalimin e pronësisë, për pasurinë e shpronësuar, në favor të shtetit, përfaqësuar nga Bashkisë Vlorë.

@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasurinë “ndërtesë”, prej 8 796 650 (tetë milionë e shtatëqind e nëntëdhjetë e gjashtë mijë e gjashtëqind e pesëdhjetë) lekësh, të përballohet nga buxheti i Bashkisë Vlorë, për vitin 2019.

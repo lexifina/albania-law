@@ -1,0 +1,1 @@
+3. Pronari i pasurisë të paluajtshme që shpronësohet, të kompensohet në vlerë të plotë, sipas masës së kompensimit përkatës, që paraqitet në tabelën përfundimtare, me të dhënat e pronarit që shpronësohet, bashkëlidhur këtij vendimi, për pasurinë “ndërtesë”, me vlerë 8 796 650 (tetë milionë e shtatëqind e nëntëdhjetë e gjashtë mijë e gjashtëqind e pesëdhjetë) lekë.
