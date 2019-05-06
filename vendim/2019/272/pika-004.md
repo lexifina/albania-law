@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 708 750 (shtatëqind e tetë mijë e shtatëqind e pesëdhjetë) lekësh, të përballohet nga të ardhurat e Bashkisë Durrës, planifikuar në buxhetin e saj me vendim të Këshillit Bashkiak.

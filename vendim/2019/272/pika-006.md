@@ -1,0 +1,1 @@
+6. Pronari i pasurisë së paluajtshme, që shpronësohet, të kompensohet për efekt shpronësimi, pasi të ketë paraqitur pranë Bashkisë Durrës certifikatën e pronësisë, hartën treguese të regjistrimit dhe kartelën e pasurisë.
