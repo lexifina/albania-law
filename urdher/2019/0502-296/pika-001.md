@@ -1,0 +1,1 @@
+1. Ndalimin e peshkimit, me çfarëdolloj mjeti dhe metode gjuetie, si dhe mbajtjen në bord, tranzitimin në barkë, zbarkimin e qëllimtë dhe hedhja në treg ose për konsum i të gjitha llojeve të peshqve të familjes së krapit në liqenin e Fierzës për periudhën 1.5.2019 deri më 31.5.2019.
