@@ -1,0 +1,2 @@
+11. Ngarkohen për zbatimin e këtij udhëzimi Sekretari i Përgjithshëm, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Qendra e Shërbimeve Arsimore, Institucioni përgjegjës për sigurimin e cilësisë në arsimin parauniversitar, institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar dhe institucionet shkollore.
+Ky udhëzim hyn në fuqi pas botimit në Fletore Zyrtare.

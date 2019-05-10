@@ -1,0 +1,1 @@
+10. Institucioni përgjegjës për sigurimin e cilësisë në arsimin parauniversitar monitoron procesin e provimeve kombëtare të arsimit bazë, sesioni i dytë, dhe raporton në Ministrinë e Arsimit, Sportit dhe Rinisë për çdo parregullsi të vërejtur në zhvillimin e tyre.
