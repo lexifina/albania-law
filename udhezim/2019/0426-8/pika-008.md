@@ -1,0 +1,1 @@
+8. Provimet të zhvillohen të përqendruara në institucionin arsimor vendor përgjegjës për arsimin parauniversitar. Institucionet arsimore vendore përgjegjëse për arsimin parauniversitar të përcaktojnë mjediset ku maturantët/kandidatët do të zhvillojnë provimin, duke mundësuar përqendrimin e tyre sipas kushteve dhe numrit të maturantëve/kandidatëve.

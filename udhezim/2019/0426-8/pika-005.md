@@ -1,0 +1,1 @@
+5. Kandidatët e përcaktuar në pikën 4, germa “c” dhe “d”, të regjistrohen në shkollën ku kanë përfunduar arsimin e mesëm ose në shkollën që u cakton institucioni arsimor vendor përgjegjës për arsimin parauniversitar në vendbanimin e tyre.

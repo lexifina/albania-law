@@ -1,0 +1,1 @@
+7. Drejtori i shkollës të dërgojë zyrtarisht në institucionin arsimor vendor përgjegjës për arsimin parauniversitar listën e kandidatëve që do të marrin pjesë në provimet e maturës shtetërore 2019, sesioni i dytë, në datën 23 gusht 2019. Drejtori i institucionit arsimor vendor përgjegjës për arsimin parauniversitar, ta dërgojë këtë listë në QSHA, në datën 24 gusht 2019.
