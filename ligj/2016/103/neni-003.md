@@ -22,7 +22,7 @@ c) kosto fillestare të larta, nivel i lartë i teknologjisë dhe rendiment i la
 ç) tendenca e rritjes së pavarësisë nga kushtet klimaterike dhe nga cilësia e ujit;
 d) përdorimi i sistemeve artificiale të kultivimit.
 6. “Akuakulturë në shkallë të vogël” është një mënyrë kultivimi e përbërë nga një ose me shumë njësi të vogla prodhimi, me menaxhim familjar ose të komunitetit, duke përdorur nivele të ulëta ose mesatare të burimeve dhe punë të kufizuar nga jashtë e shpesh për arsye vetëkonsumimi.
-7. “Zonë e Përcaktuar për Akuakulturë (ZPA)” është një sistem planifikimi hapësinor apo zonimi, i kryer në nivel kombëtar; ZPA-ja ka për qëllim të identifikojë një zonë të përcaktuar për akuakulturë, të njohur nga autoritetet e planifikimit hapësinor, që konsiderohet si prioritet për zhvillimin e akuakulturës.
+7. “Zonë e përcaktuar për akuakulturë (ZPA)” është një sistem planifikimi hapësinor apo zonimi, i kryer në nivel rajonal ose kombëtar. ZPA-ja ka për qëllim të identifikojë një zonë të përcaktuar për akuakulturë, të njohur nga autoritetet e planifikimit hapësinor, që konsiderohet si prioritet për zhvillimin e akuakulturës.
 8. “Drejtoria” është drejtoria përgjegjëse në ministri për hartimin e politikave në akuakulturë.
 9. “Ekosistem detar/ujor” është një kompleks dinamik, i përbërë nga komunitete të bimëve, kafshëve e mikroorganizmave, si dhe mjedisi jo i gjallë, të cilat ndërveprojnë ndërmjet tyre si një njësi funksionale, sipas përcaktimit në legjislacionin në fuqi për peshkimin;
 10. “Ujëra të Republikës së Shqipërisë” përfshin ujërat detare, si dhe ujërat e brendshme, sipas përcaktimit në legjislacionin në fuqi për peshkimin.
@@ -31,6 +31,7 @@ d) përdorimi i sistemeve artificiale të kultivimit.
 13. “Ujëra territoriale” nënkupton ujërat e zonës detare, sipas përcaktimit në ligjin “Kodi Detar” në fuqi.
 14. “Ministër” është ministri përgjegjës për aktivitetin e peshkimit dhe akuakulturës.
 15. “Ministria” është ministria përgjegjëse për aktivitetin e peshkimit dhe akuakulturës.
-16. “Parimi i qasjes pro ekosistemit për akua-kulturën” është një strategji për integrimin e veprimtarisë së akuakulturës në kuadër të ekosistemit, e tillë që të nxisë zhvillimin e qëndrueshëm, barazinë dhe ndryshueshmërinë e sistemeve të ndërlidhura ekonomike, shoqërore dhe ekologjike.
-17. “Zhvillimi i qëndrueshëm” është admini-strimi i organizmave ujorë, duke bërë të mundur mbrojtjen e ekosistemit ujor, në mënyrë të tillë që të garantohet shfrytëzimi i vazhdueshëm i tyre për plotësimin pa ndërprerje të nevojave njerëzore për brezat.
-18. “Instalime tokësore” është tërësia e ndërtimeve që shërbejnë për kultivimin e organizmave ujorë, të tilla si vaskat, kanalet furnizuese dhe shkarkuese, inkubatorët, labora-torët, magazinat frigoriferike, si dhe çdo ndërtim tjetër që shërben për akuakulturë.
+16. “Parimi i qasjes pro ekosistemit për akuakulturën” është një strategji për integrimin e veprimtarisë së akuakulturës në kuadër të ekosistemit, e tillë që të nxisë zhvillimin e qëndrueshëm, barazinë dhe ndryshueshmërinë e sistemeve të ndërlidhura ekonomike, shoqërore dhe ekologjike.
+17. “Zhvillimi i qëndrueshëm” është administrimi i organizmave ujorë, duke bërë të mundur mbrojtjen e ekosistemit ujor, në mënyrë të tillë që të garantohet shfrytëzimi i vazhdueshëm i tyre për plotësimin pa ndërprerje të nevojave njerëzore për brezat.
+18. “Instalime tokësore” është tërësia e ndërtimeve që shërbejnë për kultivimin e organizmave ujorë, të tilla si vaskat, kanalet furnizuese dhe shkarkuese, inkubatorët, laboratorët, magazinat frigoriferike, si dhe çdo ndërtim tjetër që shërben për akuakulturë.
+19. “Instalime në pronësi shtetërore” është tërësia e ndërtimeve që shërbejnë për kultivimin e organizmave ujorë, të tilla si vaskat, kanalet furnizuese dhe shkarkuese, inkubatorët, laboratorët, magazinat frigoriferike, si dhe çdo ndërtim tjetër që shërben për akuakulturë dhe që janë në pronësi ose në përgjegjësi menaxhimi të një enti shtetëror.

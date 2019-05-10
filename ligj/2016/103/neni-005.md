@@ -1,6 +1,6 @@
 # Neni 5
 Përgatitja dhe miratimi i ZPA-së
-1. ZPA-ja përfshin zona të veçanta, të caktuara, me qëllim aktivitetin e akuakulturës, së bashku me infrastrukturën në shërbim të saj.
+1. ZPA-ja përfshin zona të veçanta, të caktuara, përfshirë edhe instalimet në pronësi shtetërore, me qëllim aktivitetin e akuakulturës, së bashku me infrastrukturën në shërbim të saj.
 2. ZPA-ja përgatitet dhe koordinohet me nismën e ministrisë, në konsultim me ministritë përgjegjëse në fushën e planifikimit të territorit, përdorimin e hapësirës detare dhe tokësore, transportit, përdorimin e burimeve ujore, mbrojtjes së mjedisit, turizmit, ekonomisë dhe trashëgimisë kulturore dhe me organet e pushtetit vendor. Zonat e përcaktuara për akuakulturë miratohen me vendim të Këshillit të Ministrave. Nëse një ZPA e propozuar shtrihet në një zonë kufitare me një zonë të mbrojtur, procesi i miratimit të saj nga këshilli i Ministrave, duhet të përfshijë një konsultim publik me grupet e interesit dhe institucionet shkencore.
 3. ZPA-ja është pjesë e planifikimit fizik të hapësirës ujore dhe tokësore, kriteret për përgatitjen e së cilës mbajnë parasysh faktorët që e lejojnë zhvillimin e akuakulturës dhe ato që nuk e lejojnë zhvillimin e saj.
 4. Me qëllim lehtësimin e dialogut ndërmjet përdoruesve, informacioni mblidhet dhe trajtohet nga ministria në mënyrë administrative, si dhe mbështetet me teknologjinë GIS (Sistemet Informatike Gjeografike) të të dhënave.
