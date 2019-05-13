@@ -1,0 +1,1 @@
+9. Në rast se në zonat e mbrojtura mjedisore, ku do ushtrohet veprimtaria kërkimore-shkencore, përfshihen objekte apo zona të trashëgimisë kulturore, merret edhe mendimi i ministrisë përgjegjëse për kulturën.

@@ -1,0 +1,1 @@
+12. Agjencia Kombëtare e Zonave të Mbrojtura njofton ministrinë përgjegjëse për mjedisin, administratën rajonale të zonave të mbrojtura (AdZM) dhe bashkinë përkatëse, brenda territorit administrativ të së cilës ndodhet zona e mbrojtur, për të drejtën e subjektit për ushtrimin E veprimtarisë kërkimore-shkencore.

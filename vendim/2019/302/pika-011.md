@@ -1,0 +1,1 @@
+11. Në rastet kur kërkesa bëhet për zonat, të cilat janë përcaktuar si qendra historike, zona arkeologjike dhe zona të mbrojtura, Agjencia Kombëtare e Zonave të Mbrojtura njofton ministrinë përgjegjëse për kulturën për ushtrimin e veprimtarisë kërkimore-shkencore.

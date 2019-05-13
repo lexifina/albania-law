@@ -1,0 +1,1 @@
+17. Agjencia Kombëtare e Zonave të Mbrojtura mban dhe administron regjistrin e kërkesave për ushtrimin e veprimtarisë kërkimore-shkencore, sipas formatit të miratuar me urdhër të drejtorit të Përgjithshëm të Agjencisë Kombëtare të Zonave të Mbrojtura.

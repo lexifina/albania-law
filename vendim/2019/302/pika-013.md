@@ -1,0 +1,1 @@
+13. Subjekti, gjatë ushtrimit të veprimtarisë kërkimore-shkencore, shoqërohet nga stafi i AdZM-së dhe rangersat e zonës së mbrojtur mjedisore ku kryhet veprimtaria. Në rast se stafi i AdZM-së dhe rangersat konstatojnë shkelje në veprimtarinë kërkimore-shkencore, AdZM-ja ushtron kompetencat në përputhje me pikën 4, të neni 66, të ligjit nr. 81/2017, “Për zonat e mbrojtura”.

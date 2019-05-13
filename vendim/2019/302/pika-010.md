@@ -1,0 +1,1 @@
+10. Pas shqyrtimit të kërkesës nga ana e Agjencisë Kombëtare të Zonave të Mbrojtura dhe pasi ajo e gjen atë në përputhje me kërkesat e legjislacionit në fuqi për mbrojtjen e biodiversitetit, të faunës e florës së egër, zonave të mbrojtura dhe kërkesat e këtij vendimi, kjo e fundit miraton të drejtën e ushtrimit të veprimtarisë kërkimore-shkencore.

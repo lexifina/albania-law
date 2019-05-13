@@ -1,0 +1,1 @@
+16. Tarifa e hyrjes për ushtrimin e veprimtarisë kërkimore-shkencore në zonat e mbrojtura mjedisore llogaritet sipas aktit nënligjor për të ardhurat e gjeneruara nga tarifat, masa dhe kriteret e përdorimit të tyre, që autorizon ligji nr. 81/2017, “Për zonat e mbrojtura”.

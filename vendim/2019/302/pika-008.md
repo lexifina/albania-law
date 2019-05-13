@@ -1,0 +1,1 @@
+8. Agjencia Kombëtare e Zonave të Mbrojtura, gjatë shqyrtimit të kërkesës së subjektit për ushtrimin e veprimtarisë kërkimore-shkencore, mban në konsideratë planin e menaxhimit të zonës së mbrojtur përkatëse, në përputhje me dispozitat e ligjit nr. 81/2017, “Për zonat e mbrojtura”, si dhe kuadrin ligjor në fuqi për trashëgiminë kulturore.
