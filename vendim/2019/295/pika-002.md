@@ -1,0 +1,1 @@
+2. Për të gjithë kandidatët, të cilët kanë përfunduar arsimin e mesëm të lartë, nota mesatare për pranimin në programet e studimit të ciklit të parë dhe në programet e integruara të studimeve të ciklit të dytë, në institucionet e arsimit të lartë, për vitin akademik 2019-2020, të jetë nota 6.5 (gjashtë pikë pesë).

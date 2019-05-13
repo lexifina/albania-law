@@ -1,0 +1,1 @@
+5. Për kandidatët që aplikojnë për t’u pranuar në programet e studimit të fushës së mësuesisë, për vitin akademik 2019-2020, nota mesatare e përllogaritur sipas këtij vendimi të jetë nota 7.5 (shtatë pikë pesë). Nota mesatare e kandidatëve që aplikojnë për t’u pranuar në programet e studimit të fushës së mësuesisë përllogaritet sipas përcaktimeve të pikës 4, të këtij vendimi.
