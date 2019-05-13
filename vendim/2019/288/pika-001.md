@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Dibër, për njësinë administrative Maqellarë, të pronave me nr.112, “Shkolla 9-vjeçare Maqellarë”, nr. 128, “Shkolla fillore Kërçisht i Poshtëm”, dhe nr.129, “Shkolla fillore Kërçisht i Epërm”, sipas formularëve, plan-rilevimit dhe lidhjes 1, bashkëlidhur këtij vendimi dhe pjesë përbërëse të tij.
