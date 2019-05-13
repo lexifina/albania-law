@@ -1,0 +1,1 @@
+12. Punonjësit të administratës shtetërore i ndalohet të përdorë të mirat publike, funksionin ose veprimtarinë shtetërore ose burimet financiare a njerëzore, me qëllim favorizimin e një partie politike ose kandidati në zgjedhje.
