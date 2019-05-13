@@ -1,0 +1,1 @@
+1. Miratimin e listës së rishikuar, të përditësuar, të monumenteve të natyrës shqiptare, të rivlerësuar nga Agjencia Kombëtare e Zonave të Mbrojtura, sipas lidhjes nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
