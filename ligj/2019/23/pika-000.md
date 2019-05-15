@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 1, datë 20.3.2019, i Këshillit të Ministrave, “Për pjesëmarrjen e personelit të Forcave të Armatosura të Republikës së Shqipërisë në Misionin e Kombeve të Bashkuara në Sudanin e Jugut (UNMISS)”.
