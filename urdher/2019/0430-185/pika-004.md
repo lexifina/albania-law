@@ -1,0 +1,1 @@
+4. Të nënshkruajë komunikimet e Ministrisë së Infrastrukturës dhe Energjisë me institucionet e administratës publike dhe palët e treta, me përjashtim të atyre komunikimeve dhe akteve që ligji ia atribuon shprehimisht ministrit.
