@@ -1,0 +1,1 @@
+2. Masa e shpërblimit të jetë deri në një pagë mujore dhe lista e punonjësve të Policisë së Shtetit, që do të shpërblehen, të miratohet nga ministri i Brendshëm, me propozim të drejtorit të Përgjithshëm të Policisë së Shtetit.
