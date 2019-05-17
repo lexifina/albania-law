@@ -1,0 +1,1 @@
+6. Shpenzimet për udhëtimin, akomodimin dhe dietat për realizimin e mbledhjeve zyrtare të anëtarëve të Këshillit Koordinues të Diasporës mbulohen nga buxheti i miratuar për Agjencinë Kombëtare për Diasporën, në përputhje me legjislacionin në fuqi.

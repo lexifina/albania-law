@@ -1,0 +1,1 @@
+3. Anëtarët e Këshillit Koordinues të Diasporës gëzojnë të drejtën e trajtimit me prioritet të menjëhershëm dhe të drejtpërdrejtë nga ambasadorët e jashtëzakonshëm dhe fuqiplotë të Shqipërisë si dhe nga drejtuesit e misioneve diplomatike në vendet përkatëse, sa herë që është e domosdoshme për mbarëvajtjen e punës.
