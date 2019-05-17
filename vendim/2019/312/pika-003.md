@@ -1,0 +1,1 @@
+3. Vendimet e Këshillit të Ministrave nr. 873, datë 30.10.2015, dhe nr. 266, datë 29.3.2017, shfuqizohen në momentin e nënshkrimit të kontratës së shitjes së pasurive shtetërore të përmendura në këtë vendim.
