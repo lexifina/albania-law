@@ -1,0 +1,1 @@
+2. Për vitin 2019, për kryerjen e studimit të projektit “Diaspora shkencore si një faktor ndryshimi në procesin e integrimit evropian të Shqipërisë”, Fondit Shqiptar për Zhvillimin e Diasporës i shtohet fondi prej 4 214 895 (katër milionë e dyqind e katërmbëdhjetë mijë e tetëqind e nëntëdhjetë e pesë) lekësh.

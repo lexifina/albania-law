@@ -1,0 +1,1 @@
+1. Financimin e projektit “Diaspora shkencore si një faktor ndryshimi në procesin e integrimit evropian të Shqipërisë”, me kohëzgjatje 30 (tridhjetë) muaj, me fond total prej 40 984 477 (dyzet milionë e nëntëqind e tetëdhjetë e katër mijë e katërqind e shtatëdhjetë e shtatë) lekësh, sipas dokumentit bashkëlidhur këtij vendimi.
