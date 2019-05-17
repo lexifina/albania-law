@@ -1,0 +1,1 @@
+9. Qendra ka stemën, logon dhe vulën zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria e Drejtësisë, Qendra e Parandalimit të Krimeve të të Miturve dhe të Rinjve”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
