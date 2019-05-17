@@ -1,0 +1,1 @@
+15. Komisioni ad-hoc, në fund të këtij procesi, liston kandidatët sipas pikëve të marra në total dhe, nëpërmjet kryetarit të tij, i propozon Kryeministrit dy kandidaturat që kanë marrë vlerësimin më të mirë, sipas renditjes për secilën pakicë kombëtare.

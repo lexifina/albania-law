@@ -1,0 +1,1 @@
+2. Përzgjedhja e kandidaturave për kryetarin, nënkryetarin dhe anëtarët e KPK-së kryhet nëpërmjet zbatimit të procedurave të hapura e publike të konkurrimit, nga Kryeministria, bazuar në pikën 4, të nenit 20, të ligjit nr. 96/2017, “Për mbrojtjen e pakicave kombëtare në Republikën e Shqipërisë”.

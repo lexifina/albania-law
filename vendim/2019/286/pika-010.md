@@ -1,0 +1,1 @@
+10. Personat që u përkasin pakicave kombëtare, sipas përcaktimit në pikën 2, të nenit 3, të ligjit nr. 96/2017, “Për mbrojtjen e pakicave kombëtare në Republikën e Shqipërisë”, mund të aplikojnë si kandidatë, individualisht dhe që mbështeten, me rekomandim, nga të paktën pesë individë, që janë personalitete me kontribute të pakicës kombëtare përkatëse.

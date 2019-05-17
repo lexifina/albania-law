@@ -1,0 +1,1 @@
+3. Për kryerjen e procedurave të përzgjedhjes për kryetarin/nënkryetarin, Sekretari i Përgjithshëm i Këshillit të Ministrave ngre komisionin ad-hoc, i cili përbëhet nga 3 (tre) anëtarë të caktuar prej tij.

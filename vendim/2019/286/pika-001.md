@@ -1,0 +1,1 @@
+1. Miratimin e procedurave të përzgjedhjes së kryetarit, nënkryetarit dhe anëtarëve të Komitetit për Pakicat Kombëtare (në vijim “KPK”), nëpërmjet një procesi të pavarur, transparent e gjithëpërfshirës.

@@ -1,0 +1,1 @@
+5. Shpallja e vendit të lirë për pozicionin kryetar dhe nënkryetar të KPK-së bëhet jo më vonë se 3 (tre) muaj nga data e përfundimit të mandatit të kryetarit dhe/ose nënkryetarit në detyrë, në Buletinin e Njoftimeve Publike, në faqen zyrtare elektronike të Kryeministrisë dhe të KPK-së, për një periudhë 30-ditore.

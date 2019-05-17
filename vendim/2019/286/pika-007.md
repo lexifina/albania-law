@@ -1,0 +1,1 @@
+7. Komisioni ad-hoc bën vlerësimin e kandidaturave të paraqitura brenda 30 (tridhjetë) ditëve nga data e mbylljes së afatit të dorëzimit të dokumentacionit, harton listën e kandidatëve të kualifikuar për kryetar dhe/ose nënkryetar të KPK-së, sipas renditjes së pikëve të grumbulluara, dhe ia propozon Kryeministrit.
