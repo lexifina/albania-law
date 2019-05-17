@@ -1,0 +1,1834 @@
+# Shtojca
+EVIDENCA SIPAS DREJTORIVE PËR KALIMN E SË DREJTËS SË PRONËSISË ME VENDIM TË KËSHILLIT TË MINISTRAVE
+Nr. Rendor
+Nr.Drejtorive
+Drejtoria
+Qarku / Bashkia / Komuna / Fshati / Zona kadastrale / Blloku
+Nr. i parcelave të objekteve informale
+Sipërfaqet e parcelave ndërtimore për kalim pronësie (m²)
+1
+2
+3
+4
+5
+6
+1
+1
+BERAT
+QARKU Berat, ZVRPP Berat, ZONA KADASTRALE 1561
+1
+320
+2
+QARKU Berat, ZVRPP Berat, ZONA KADASTRALE 8503
+3
+288
+3
+QARKU Berat, ZVRPP Berat, ZONA KADASTRALE 8501
+19
+4,429
+4
+QARKU Berat, ZVRPP Berat, ZONA KADASTRALE 1515
+1
+145
+5
+QARKU Berat, ZVRPP Berat, ZONA KADASTRALE 3682
+1
+290
+6
+QARKU Berat, ZVRPP Berat, ZONA KADASTRALE 2349
+1
+20
+7
+QARKU Berat, ZVRPP Kuçove, ZONA KADASTRALE 2310
+2
+327
+8
+QARKU Berat, ZVRPP Berat, ZONA KADASTRALE 1587
+2
+316
+9
+QARKU Berat, ZVRPP Kuçove, ZONA KADASTRALE 3561
+1
+91
+10
+QARKU Berat, ZVRPP Çorovode, ZONA KADASTRALE 3019
+3
+693
+11
+QARKU Berat, ZVRPP Kuçove, ZONA KADASTRALE 2918
+1
+360
+TOTALI DREJTORIA BERAT
+35
+7,279
+1
+2
+KAVAJE
+QARKU TIRANE, ZONA KADASTRALE 8552, ZVRPP KAVAJE
+2
+360
+2
+QARKU TIRANE, ZONA KADASTRALE 1814, ZVRPP KAVAJE
+1
+393
+3
+QARKU TIRANE, ZONA KADASTRALE 1791, ZVRPP KAVAJE
+2
+806
+4
+QARKU TIRANE, ZONA KADASTRALE 1404, ZVRPP KAVAJE
+1
+423
+5
+QARKU TIRANE, ZONA KADASTRALE 1917, ZVRPP KAVAJE
+1
+211
+6
+QARKU TIRANE, ZONA KADASTRALE 2058, ZVRPP KAVAJE
+1
+167
+7
+QARKU TIRANE, ZONA KADASTRALE 2140, ZVRPP KAVAJE
+1
+265
+8
+QARKU TIRANE, ZONA KADASTRALE 2721, ZVRPP KAVAJE
+2
+860
+9
+QARKU TIRANE, ZONA KADASTRALE 3235, ZVRPP KAVAJE
+2
+780
+10
+QARKU TIRANE, ZONA KADASTRALE 8551, ZVRPP KAVAJE
+4
+815
+11
+QARKU TIRANE, ZONA KADASTRALE 8552, ZVRPP KAVAJE
+7
+1,896
+TOTALI DREJTORIA KAVAJE
+24
+6,974
+1
+3
+LEZHE
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 1099
+1
+121
+2
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 1676
+1
+197
+3
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 8631
+3
+1,011
+4
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 1986
+3
+433
+5
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 2053
+1
+241
+6
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 2365
+2
+740
+7
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 2544
+1
+253
+8
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 2660
+1
+393
+9
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 8631
+3
+334
+10
+QARKU LEZHE, ZVRPP LEZHE, ZONA KADASTRALE 8632
+1
+319
+TOTALI DREJTORIA LEZHE
+20
+4,042
+1
+4
+TIRANE JUG
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8180
+2
+426
+2
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 3292
+1
+238
+3
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 2704
+1
+240
+4
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 3976
+2
+728
+5
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8270
+1
+25
+6
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8240
+1
+0
+7
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8190
+1
+8
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8150
+1
+193
+TOTALI DREJTORIA TIRANE JUG
+10
+1,850
+1
+5
+TIRANE VERI
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8330
+8
+1,130
+2
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8310
+1
+170
+3
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8320
+13
+2,891
+4
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8340
+1
+358
+5
+QARKU TIRANE, ZVRPP TIRANE , ZONA KADASTRALE 8110
+2
+465
+TOTALI DREJTORIA TIRANE VERI
+25
+5,014
+1
+6
+ZONAT TURISTIKE
+QARKU SHKODER, ZVRPP SHKODER, ZONA KADASTRALE 3072
+27
+6,229
+2
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2291
+1
+360
+3
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3101
+1
+616
+TOTALI DREJTORIA ZONAT TURISTIKE
+29
+7,204
+1
+7
+SHKODER
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 3205
+1
+500
+2
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 8592
+7
+1,764
+3
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 3838
+9
+2,383
+4
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 2220
+2
+299
+5
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 8595
+1
+375
+6
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 8591
+4
+1,683
+7
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 1965
+1
+500
+8
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 2993
+5
+1,779
+9
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 8593
+4
+1,722
+10
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 1139
+1
+356
+11
+QARKU SHKODER, ZVRPP SHKODER , ZONA KADASTRALE 8597
+2
+525
+TOTALI DREJTORIA SHKODER
+37
+11,886
+1
+8
+ELBASAN
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8522
+27
+5,566
+2
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3422
+1
+45
+3
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8525
+44
+8,420
+4
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8526
+25
+6,218
+5
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2654
+5
+1,452
+6
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8521
+6
+605
+7
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1527
+1
+133
+8
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1967
+1
+245
+9
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2446
+4
+758
+10
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2448
+1
+363
+11
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2696
+1
+292
+12
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3843
+1
+333
+13
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3859
+1
+413
+14
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3376
+2
+780.3
+15
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8523
+3
+720
+16
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8524
+3
+165
+17
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1085
+2
+543
+18
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1258
+1
+16.7
+19
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1285
+1
+322.8
+20
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2743
+2
+545.4
+21
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3764
+1
+322
+22
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3965
+2
+798.9
+23
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2924
+2
+114
+24
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3120
+1
+201.6
+25
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3203
+1
+234.9
+26
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3683
+2
+614.7
+27
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1407
+1
+317
+28
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2355
+2
+998.3
+29
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2654
+3
+657.8
+30
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3376
+2
+806.3
+31
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3633
+1
+191.5
+32
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8521
+1
+216.8
+33
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1389
+3
+364
+34
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2441
+2
+486
+35
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2559
+1
+307.5
+36
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3420
+1
+276
+37
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3422
+3
+663.6
+38
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2706
+7
+2062.2
+39
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3445
+2
+409.8
+40
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3827
+3
+816.9
+41
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3376
+61
+19287
+42
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1063
+1
+457.8
+43
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1448
+2
+403
+44
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1527
+4
+1,160
+45
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1715
+5
+1,759
+46
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1967
+1
+353
+47
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2446
+9
+1,185
+48
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2448
+1
+440
+49
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2696
+1
+257
+50
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3499
+1
+458
+51
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3725
+2
+642
+52
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1556
+1
+298
+53
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2116
+7
+1,523
+54
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2248
+3
+867
+55
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3552
+1
+287
+56
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3863
+9
+2,995
+57
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8523
+30
+6,315
+58
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1785
+4
+1,247
+59
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1865
+1
+69
+60
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2355
+5
+1,944
+61
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2654
+17
+5,687
+62
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8524
+7
+780
+63
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 8527
+8
+1,892
+64
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1821
+4
+844
+65
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 1967
+1
+367
+66
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2200
+2
+574
+67
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2477
+1
+168
+68
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2696
+3
+789
+69
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2829
+1
+388
+70
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3020
+1
+276
+71
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3326
+1
+280
+72
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3725
+1
+112
+73
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 3859
+2
+472
+74
+QARKU ELBASAN, ZVRPP ELBASAN , ZONA KADASTRALE 2328
+1
+76
+TOTALI DREJTORIA ELBASAN
+372
+93,442
+1
+9
+KUKES
+QARKU KUKËS, ZVRPP HAS, ZONA KADASTRALE 2282 (KRUMË)
+3
+1,396
+2
+QARKU KUKËS, ZVRPPTROPOJË , ZONA KADASTRALE 1993
+2
+444
+3
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 2755
+1
+280
+4
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 2762
+4
+923
+5
+QARKU KUKËS, ZVRPP HAS, ZONA KADASTRALE 3821
+3
+1,227
+6
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 3335
+5
+1,507
+7
+QARKU KUKËS, ZVRPPTROPOJË , ZONA KADASTRALE 3178
+1
+500
+8
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 2579
+1
+83
+9
+QARKU KUKËS, ZVRPPTROPOJË , ZONA KADASTRALE 3761
+1
+377
+10
+QARKU KUKËS, ZVRPP HAS, ZONA KADASTRALE 2797
+6
+1,843
+11
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 2724
+1
+332
+12
+QARKU KUKËS, ZVRPP HAS, ZONA KADASTRALE 2431
+6
+2,112
+13
+QARKU KUKËS, ZVRPPTROPOJË , ZONA KADASTRALE 1276
+1
+500
+14
+QARKU KUKËS, ZVRPP HAS, ZONA KADASTRALE 1788
+3
+1,111
+15
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 2315
+10
+1,624
+16
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 2839
+1
+292
+17
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 1115
+1
+405
+18
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 1726
+1
+376
+19
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 1819
+1
+294
+20
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 3425
+4
+1,456
+21
+QARKU KUKËS, ZVRPP KUKËS , ZONA KADASTRALE 3821
+1
+396
+TOTALI DREJTORIA KUKES
+57
+17,478
+1
+10
+KORCE
+QARKU KORÇË , ZVRPP POGRADEC, ZONA KADASTRALE 8582
+2
+433
+2
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 2641
+1
+476
+3
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 8561
+1
+10
+4
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 2573
+3
+713
+5
+QARKU KORÇË , ZVRPP POGRADEC, ZONA KADASTRALE 3745
+2
+545
+6
+QARKU KORÇË , ZVRPP POGRADEC, ZONA KADASTRALE 3167
+1
+473
+7
+QARKU KORÇË , ZVRPP POGRADEC, ZONA KADASTRALE 2648
+1
+567
+8
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 8563
+2
+159
+9
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 1187
+1
+512
+10
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 3359
+1
+294
+11
+QARKU KORÇË , ZVRPP POGRADEC, ZONA KADASTRALE 8551
+5
+1,010
+12
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 8564
+3
+446
+13
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 3803
+1
+56
+14
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 2573
+3
+991
+15
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 1202
+1
+52
+16
+QARKU KORÇË , ZVRPP KORÇË, ZONA KADASTRALE 8564
+1
+458
+TOTALI DREJTORIA KORCE
+29
+7,192
+1
+11
+TIRANA RURALE
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2704
+1
+337
+2
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 1605
+2
+474
+3
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 1604
+5
+1,557
+4
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2679
+2
+580
+5
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3865
+1
+254
+6
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2105
+1
+374
+7
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3866
+9
+2,278
+8
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 1078
+1
+86
+9
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3784
+1
+274
+10
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2529
+1
+247
+11
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 1605
+1
+437
+12
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2704
+1
+71
+13
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3758
+1
+306
+14
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2376
+1
+300
+15
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2105
+2
+596
+16
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2380
+2
+445
+17
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2460
+1
+500
+18
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2704
+1
+204
+19
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2529
+2
+759
+20
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 1605
+2
+673
+21
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 1604
+2
+534
+22
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3866
+2
+422
+23
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2679
+2
+386
+24
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2105
+2
+654
+25
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3471
+1
+259
+26
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 1622
+3
+1,007
+27
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2735
+2
+782
+28
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2529
+1
+500
+29
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3712
+1
+203
+30
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 3321
+3
+497
+31
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2655
+1
+453
+32
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2952
+1
+389
+33
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2962
+1
+579
+34
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2376
+2
+867
+35
+QARKU TIRANE, ZVRPP TIRANE, ZONA KADASTRALE 2953
+3
+825
+TOTALI DREJTORIA TIRANE RURALE
+65
+19,109
+1
+12
+FIER
+Qarku Fier / Bashkia Fier/ Zona kadastrale 8531
+1
+162.8
+Totali Drejtoria Fier
+1
+163
+1
+13
+LUSHNJE
+Qarku Fier / Bashkia Lushnje Zona kadastrale 1620
+3
+2797.18
+2
+Qarku Fier / Bashkia Lushnje Zona kadastrale 8571
+4
+1016
+3
+Qarku Fier / Bashkia Lushnje Zona kadastrale 2999
+1
+74.8
+Totali Drejtoria Lushnje
+8
+3888
+1
+14
+KAMEZ VORE
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1649
+5
+1409.6
+2
+Qarku Tirane / Bashkia Tirane Zona kadastrale 3992
+15
+4323.85
+3
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1066
+38
+9701.95
+4
+Qarku Tirane / Bashkia Tirane Zona kadastrale 2066
+19
+4121.1
+5
+Qarku Tirane / Bashkia Tirane Zona kadastrale 3127
+4
+997.5
+6
+Qarku Tirane / Bashkia Tirane Zona kadastrale 2884
+12
+3826.9
+7
+Qarku Tirane / Bashkia Tirane Zona kadastrale 2862
+1
+678.3
+8
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1669
+1
+256.5
+9
+Qarku Tirane / Bashkia Tirane Zona kadastrale 3974
+1
+438.9
+10
+Qarku Tirane / Bashkia Tirane Zona kadastrale 3993
+2
+829.3
+11
+Qarku Tirane / Bashkia Tirane Zona kadastrale 2884
+17
+4336.7
+12
+Qarku Tirane / Bashkia Tirane Zona kadastrale 2065
+1
+339
+13
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1167
+2
+707.4
+14
+Qarku Tirane / Bashkia Tirane Zona kadastrale 2372
+4
+1176.7
+15
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1006
+1
+301.5
+16
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1514
+2
+681.45
+17
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1751
+1
+422.4
+18
+Qarku Tirane / Bashkia Tirane Zona kadastrale 3993
+3
+1024.2
+19
+Qarku Tirane / Bashkia Tirane Zona kadastrale 1167
+1
+305.4
+20
+Qarku Tirane / Bashkia Tirane Zona kadastrale 3049
+1
+292.8
+Totali Drejtoria Kamez Vore
+131
+36171
+1
+15
+DURRES
+Qarku Durres / Bashkia Durres Zona kadastrale 8518
+9
+2371
+2
+Qarku Durres / Bashkia Durres Zona kadastrale 8516
+6
+1530
+3
+Qarku Durres / Bashkia Durres Zona kadastrale 3184
+5
+2034
+4
+Qarku Durres / Bashkia Durres Zona kadastrale 2332
+1
+300
+5
+Qarku Durres / Bashkia Durres Zona kadastrale 3542
+2
+466.42
+6
+Qarku Durres / Bashkia Durres Zona kadastrale 8513
+5
+486
+7
+Qarku Durres / Bashkia Durres Zona kadastrale 8517
+7
+2430
+8
+Qarku Durres / Bashkia Durres Zona kadastrale 2375
+1
+421
+9
+Qarku Durres / Bashkia Durres Zona kadastrale 8511
+14
+4084.4
+10
+Qarku Durres / Bashkia Durres Zona kadastrale 1925
+1
+500
+11
+Qarku Durres / Bashkia Durres Zona kadastrale 8512
+17
+6263
+12
+Qarku Durres / Bashkia Durres Zona kadastrale 3369
+1
+500
+13
+Qarku Durres / Bashkia Durres Zona kadastrale 3255
+2
+750
+14
+Qarku Durres / Bashkia Durres Zona kadastrale 1204
+1
+210
+15
+Qarku Durres / Bashkia Durres Zona kadastrale 8515
+2
+708
+16
+Qarku Durres / Bashkia Durres Zona kadastrale 3369
+1
+364
+18
+Qarku Durres / Bashkia Durres Zona kadastrale 8512
+3
+601
+19
+Qarku Durres / Bashkia Durres Zona kadastrale 3339
+6
+4635
+20
+Qarku Durres / Bashkia Durres Zona kadastrale 3852
+1
+300
+Totali Drejtoria Durres
+85
+28954
+1
+16
+VLORE
+Qarku Vlore / Bashkia Vlore Zona kadastrale 3621
+1
+273
+2
+Qarku Vlore / Bashkia Vlore Zona kadastrale 3140
+4
+1800
+3
+Qarku Vlore / Bashkia Vlore Zona kadastrale 2086
+1
+207
+4
+Qarku Vlore / Bashkia Vlore Zona kadastrale 1568
+1
+354
+5
+Qarku Vlore / Bashkia Vlore Zona kadastrale 1481
+2
+397
+6
+Qarku Vlore / Bashkia Vlore Zona kadastrale 1379
+1
+270
+7
+Qarku Vlore / Bashkia Vlore Zona kadastrale 8602
+54
+14937.5
+8
+Qarku Vlore / Bashkia Vlore Zona kadastrale 8605
+19
+5053.99
+9
+Qarku Vlore / Bashkia Vlore Zona kadastrale 8604
+50
+12510.4
+10
+Qarku Vlore / Bashkia Vlore Zona kadastrale 8603
+18
+1668.3
+11
+Qarku Vlore / Bashkia Vlore Zona kadastrale 8601
+4
+773
+12
+Qarku Vlore / Bashkia Vlore Zona kadastrale 3467
+1
+2012
+13
+Qarku Vlore / Bashkia Vlore Zona kadastrale 2832
+1
+252
+14
+Qarku Vlore / Bashkia Himare Zona kadastrale 3844
+1
+109
+15
+Qarku Vlore / Bashkia Vlore Zona kadastrale 1952
+3
+866.8
+16
+Qarku Vlore / Bashkia Himare Zona kadastrale 2863
+1
+500
+Totali Drejtoria Vlore
+162
+41984
+1
+17
+GJIROKASTER
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2461
+5
+1649
+2
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1234
+3
+1089
+3
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2007
+1
+318
+4
+Qarku Gjirokaster / Bashkia Permetr Zona kadastrale 2131
+4
+820
+5
+Qarku Gjirokaster / Bashkia Permetr Zona kadastrale 1292
+1
+330
+6
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2392
+2
+255
+7
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 8543
+7
+2109.5
+8
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 8541
+11
+1809.5
+9
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2956
+1
+225
+10
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1307
+3
+907
+11
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 2646
+4
+285.5
+12
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 3719
+2
+450
+13
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 2041
+2
+370
+14
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 3932
+1
+309
+15
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 2260
+2
+745
+16
+Qarku Gjirokaster / Bashkia Permetr Zona kadastrale 2917
+1
+9
+17
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 1961
+1
+214
+18
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 3574
+6
+996.4
+19
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 2541
+2
+384
+20
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 2546
+5
+191.6
+21
+Qarku Gjirokaster / Bashkia Permetr Zona kadastrale 2132
+1
+26.4
+22
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 1025
+1
+500
+23
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 3602
+2
+490
+24
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 2341
+1
+270
+25
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 3524
+2
+640
+26
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 3967
+5
+134.5
+27
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 2434
+1
+318
+28
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 2917
+9
+514.8
+29
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2484
+1
+441
+30
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 3057
+1
+170
+31
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1803
+1
+450
+32
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1359
+2
+540
+33
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 8542
+1
+169
+34
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1970
+1
+96
+35
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1592
+1
+1130
+36
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 3263
+1
+125
+37
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2444
+2
+190
+38
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 3820
+1
+210
+39
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 3480
+1
+12
+40
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1476
+2
+430
+41
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 1053
+1
+84
+42
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 3701
+2
+128.8
+43
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2810
+2
+534
+44
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2094
+1
+235
+45
+Qarku Gjirokaster / Bashkia Gjirokaster Zona kadastrale 2781
+2
+905
+46
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 2132
+2
+62.5
+47
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 3540
+1
+153
+48
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 2853
+1
+72
+49
+Qarku Gjirokaster / Bashkia Permet Zona kadastrale 1981
+1
+290
+50
+Qarku Gjirokaster / Bashkia Tepelene Zona kadastrale 2541
+1
+250
+Totali Drejtoria Gjirokaster
+115
+23038
+TOTALI
+1205
+315,668
+EVIDENCA SIPAS DREJTORIVE PËR KOMPENSIMIN E PRONAREVE
+Nr. Rendor
+Nr. Drejtorive
+Drejtoria
+Qarku / Bashkia / Komuna / Fshati / Zona kadastrale
+Nr. i pronave
+Sipërfaqja për kompesim (m²)
+Shuma e shperblimit (lekë)
+1
+2
+3
+4
+5
+6
+7
+1
+1
+BERAT
+Qarku Berat/Bashkia Berat / Zona kadastrale 1561
+1
+320.00
+66,560.00
+2
+Qarku Berat/Bashkia Berat / Zona kadastrale 8503
+1
+215.00
+899,345.00
+3
+Qarku Berat/Bashkia Berat / Zona kadastrale 8501
+1
+70.80
+296,156.40
+4
+Qarku Berat/Bashkia Berat / Zona kadastrale 1515
+1
+145.00
+29,435.00
+5
+Qarku Berat/Bashkia Berat / Zona kadastrale 3682
+1
+22.40
+53,200.00
+Totali Drejtoria Berat
+5
+773.20
+1,344,696.40
+1
+2
+KAVAJE
+Qarku Tirane/ Bashkia Kavaje/ Zona kadastrale 8552
+2
+354.50
+2,745,602.50
+2
+Qarku Tirane/ Bashkia Kavaje/ Zona kadastrale 1814
+1
+393.00
+128,511.00
+Totali Drejtoria Kavaje
+3
+747.50
+2,874,113.50
+1
+3
+LEZHE
+Qarku Shkoder/Bashkia Shkoder/ Zona kadastrale 1986
+6
+625.00
+210,625.00
+2
+Qarku Shkoder/Bashkia Shkoder/ Zona kadastrale 2365
+1
+325.00
+95,550.00
+Totali Drejtoria Lezhe
+7
+950.00
+306,175.00
+1
+4
+TIRANE JUG
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 8180
+1
+22.70
+709,829.00
+2
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 3292
+1
+13.50
+46,075.50
+3
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2704
+1
+240.00
+787,920.00
+4
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 3976
+4
+728.09
+348,755.11
+5
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 8240
+2
+341.00
+7,132,356.00
+6
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 8190
+1
+274.00
+9,248,870.00
+Totali DrejtoriaTirane Jug
+10
+1,619.29
+18,273,805.61
+1
+5
+TIRANE VERI
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 8310
+1
+47.20
+1,473,536.80
+2
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 8340
+1
+41.60
+1,254,572.80
+3
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 8330
+1
+246.50
+8,397,762.00
+Totali DrejtoriaTirane Veri
+3
+335.30
+11,125,871.60
+1
+6
+ZONAT TURISTIKE
+Qarku Shkoder/Bashkia Shkoder/ Zona kadastrale 3072
+5
+381.64
+736,183.56
+2
+Qarku Tirane/Bashkia Kavaje/ Zona kadastrale 2291
+1
+360.00
+709,200.00
+3
+Qarku Tirane/Bashkia Kavaje/ Zona kadastrale 3101
+1
+615.77
+1,576,371.20
+Totali Drejtoria Zonat Turistike
+7
+1,357.41
+3,021,754.76
+1
+7
+SHKODER
+Qarku Shkoder/Bashkia Shkoder/ Zona kadastrale 8592
+1
+15.80
+193,123.40
+2
+Qarku Shkoder/Bashkia Shkoder/ Zona kadastrale 3838
+3
+952.00
+278,936.00
+3
+Qarku Shkoder/Bashkia Shkoder/ Zona kadastrale 1139
+1
+245.00
+71,785.00
+Totali Drejtoria Shkoder
+5
+1,212.80
+543,844.40
+1
+8
+ELBASAN
+Qarku Elbasan/Bashkia Elbasan / Zona kadastrale 8522
+1
+156.30
+1,995,013.20
+2
+Qarku Elbasan/Bashkia Elbasan / Zona kadastrale 3422
+1
+44.60
+12,577.20
+3
+Qarku Elbasan/Bashkia Elbasan / Zona kadastrale 8525
+1
+284.40
+4,036,204.80
+4
+Qarku Elbasan/Bashkia Elbasan / Zona kadastrale 8526
+2
+155.50
+1,984,802.00
+5
+Qarku Elbasan/Bashkia Elbasan / Zona kadastrale 8522
+1
+225.20
+2,874,452.80
+6
+Qarku Elbasan/Bashkia Elbasan / Zona kadastrale 1556
+1
+297.90
+52,132.50
+7
+Qarku Elbasan/Bashkia Elbasan / Zona kadastrale 8527
+1
+109.40
+1,396,381.60
+Totali Drejtoria Elbasan
+8
+1,273.30
+12,351,564.10
+1
+9
+TIRANE RURALE
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 3784
+1
+274.00
+156,454.00
+2
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2529
+1
+246.60
+809,587.80
+3
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 1605
+1
+436.50
+1,117,440.00
+4
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2704
+1
+71.00
+233,093.00
+5
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 3758
+1
+306.00
+137,088.00
+6
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2376
+2
+300.00
+157,500.00
+7
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2105
+2
+596.00
+2,528,232.00
+Totali Drejtoria Tirane Rurale
+9
+2,230.10
+5,139,394.80
+1
+10
+KUKES
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 3761
+1
+377.10
+60,336.00
+2
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 2282
+2
+809.00
+1,837,239.00
+3
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 2839
+1
+291.92
+59,259.76
+4
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 1115
+1
+404.73
+82,160.19
+5
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 1726
+1
+296.17
+60,122.51
+6
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 2762
+4
+923.48
+187,466.44
+7
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 2315
+1
+15.94
+84,163.20
+Qarku Kukes/Bashkia Kukes/ Zona kadastrale 2315
+2
+45.11
+238,180.80
+Totali Drejtoria Kukes
+13
+3,163.45
+2,608,927.90
+1
+11
+KORCE
+Qarku Korce/Bashkia Korce/ Zona kadastrale 3745
+1
+227.20
+372,608.00
+2
+Qarku Korce/Bashkia Korce/ Zona kadastrale 2648
+3
+566.60
+929,224.00
+3
+Qarku Korce/Bashkia Korce/ Zona kadastrale 1187
+1
+374.00
+802,230.00
+4
+Qarku Korce/Bashkia Korce/ Zona kadastrale 8581
+3
+549.50
+5,764,804.50
+5
+Qarku Korce/Bashkia Korce/ Zona kadastrale 8564
+2
+271.40
+2,316,941.80
+6
+Qarku Korce/Bashkia Korce/ Zona kadastrale 3803
+1
+56.00
+104,720.00
+7
+Qarku Korce/Bashkia Korce/ Zona kadastrale 8564
+2
+390.23
+3,331,393.51
+Totali Drejtoria Korce
+13
+2,434.93
+13,621,921.81
+1
+12
+KAMEZ-VORE
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2066
+6
+2,093.20
+987,990.40
+2
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 1514
+1
+361.20
+1,285,872.00
+3
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2884
+2
+154.80
+508,208.40
+Qarku Tirane/Bashkia Tirane/ Zona kadastrale 2066
+1
+445.00
+210,040.00
+Totali Drejtoria Kamez-Vore
+10
+3,054.20
+2,992,110.80
+1
+13
+DURRES
+Qarku Durres/Bashkia Durres / Zona kadastrale 8512
+4
+1,947.00
+37,294,785.00
+2
+Qarku Durres/Bashkia Durres / Zona kadastrale 3369
+1
+95.00
+289,465.00
+3
+Qarku Durres/Bashkia Durres / Zona kadastrale 8517
+1
+250.00
+779,750.00
+4
+Qarku Durres/Bashkia Durres / Zona kadastrale 8515
+1
+161.80
+1,906,004.00
+5
+Qarku Durres/Bashkia Durres / Zona kadastrale 8518
+4
+883.00
+17,073,688.00
+6
+Qarku Durres/Bashkia Durres / Zona kadastrale 8512
+5
+354.00
+6,780,870.00
+7
+Qarku Durres/Bashkia Durres / Zona kadastrale 8517
+3
+1,000.00
+3,119,000.00
+8
+Qarku Durres/Bashkia Durres / Zona kadastrale 8512
+23
+1,958.00
+37,505,490.00
+Totali Drejtoria Durres
+42
+6,648.80
+104,749,052.00
+1
+14
+VLORE
+Qarku Vlore/ Bashkia Vlore/ Zona kadastrale 8602
+3
+326.00
+3,554,378.00
+2
+Qarku Vlore/ Bashkia Vlore/ Zona kadastrale 2832
+1
+252.00
+1,393,560.00
+3
+Qarku Vlore/ Bashkia Vlore/ Zona kadastrale 8605
+1
+676.03
+5,611,049.00
+4
+Qarku Vlore/ Bashkia Vlore/ Zona kadastrale 8602
+2
+327.00
+3,565,281.00
+5
+Qarku Vlore/ Bashkia Vlore/ Zona kadastrale 8601
+2
+598.79
+6,528,607.37
+6
+Qarku Vlore/ Bashkia Vlore/ Zona kadastrale 8605
+2
+2,565.73
+21,295,559.00
+7
+Qarku Vlore/ Bashkia Vlore/ Zona kadastrale 8602
+1
+459.00
+5,004,477.00
+Totali Drejtoria Vlore
+12
+5,204.55
+46,952,911.37
+1
+15
+FIER
+Qarku Fier/ Bashkia Fier/ Zona kadastrale 8531
+1
+162.80
+2,028,162.40
+2
+Qarku Fier/ Bashkia Lushnje/ Zona kadastrale 1620
+2
+2,797.18
+1,158,032.52
+Totali Drejtoria Fier
+3
+2,959.98
+3,186,194.92
+TOTALI
+150
+33,964.81
+229,092,338.97
