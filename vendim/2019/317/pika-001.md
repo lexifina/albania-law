@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për përdorimin e qëndrueshëm të produkteve për mbrojtjen e bimëve dhe kriteret e kualifikimit për përdoruesit, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

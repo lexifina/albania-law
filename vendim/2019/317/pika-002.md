@@ -1,0 +1,1 @@
+2. Krerët V, VI e VIII, si dhe shtojcat 10, 11 e 12, të vendimit nr. 1188, datë 20.8.2008, të Këshillit të Ministrave, “Për miratimin e rregullave për importimin, tregtimin, transportin, ruajtjen, përdorimin dhe asgjësimin e produkteve për mbrojtjen e bimëve”, të ndryshuar, shfuqizohen.
