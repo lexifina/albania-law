@@ -1,0 +1,1 @@
+7. Të gjitha subjektet e interesuara që paraqiten për konkurrim, sipas kategorive ujore të shpallura dhe llojit të aktivitetit, duhet të aplikojnë on-line në portalin e-Albania duke dërguar një plan-biznesi për zhvillimin e veprimtarisë së synuar, sipas aneksit 1 që i bashkëlidhet këtij udhëzimi dhe është pjesë përbërëse e tij.
