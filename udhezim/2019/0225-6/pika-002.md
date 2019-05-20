@@ -4,6 +4,6 @@
 2.3 Marrëdhëniet e punës për personelin e stafit në varësi të Avokatit të Tatimpaguesit rregullohen në përputhje me dispozitat e legjislacionit për shërbimin civil.
 2.4 Avokati i Tatimpaguesve mund të jetë çdo person që plotëson këto kushte:
 a) të ketë njohuri të mjaftueshme për sistemin tatimor në Shqipëri;
-b) të ketë eksperiencë pune në administratën tatimore;
+b) të ketë eksperiencë pune në administratën tatimore dhe/ose në pozicione pune që mbulojnë funksione politikëbërëse, rregullatore apo çështje juridike të administratës tatimore në ministrinë përgjegjëse për financat.
 c) të shquhet për aftësi profesionale dhe figurë të pastër etiko-morale;
 d) të ketë aftësi të forta ndërpersonale komunikimi.
