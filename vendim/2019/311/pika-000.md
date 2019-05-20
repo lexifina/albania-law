@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së financimit, ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (Marrësi), Operatorit të Shpërndarjes së Energjisë Elektrike (OSHEE sh.a.) (Agjencia e zbatimit të projektit) dhe KfW, Frankfurt am Main (KfW), për financimin e programit të investimit në shpërndarjen e energjisë I, masat shoqëruese, me një grant në shumën 2 000 000 (dy milionë) euro, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
