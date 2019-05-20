@@ -1,1 +1,0 @@
-13. Pas përfundimit të procedurave të sipërpërmendura, titullari i institucionit ose i deleguari prej tij, lidh kontratën për zhvillimin e veprimtarisë së kërkuar dhe të miratuar në procesin e konkurrimit me subjektin fitues brenda 30 (tridhjetë) ditëve kalendarike nga dita e shpalljes së fituesit në Buletinin e Njoftimeve Publike.

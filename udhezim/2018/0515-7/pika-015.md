@@ -1,1 +1,0 @@
-15. Udhëzimi nr. 3, datë 10.2.2015, “Për kriteret dhe nivelin e vlerësimit, si dhe detajimi i pikësimit për të gjitha kategoritë ujore në ujërat e brendshme për procedurën e konkurrimit publik”, shfuqizohet me hyrjen në fuqi të këtij udhëzimi.

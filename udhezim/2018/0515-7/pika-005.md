@@ -1,1 +1,0 @@
-5. Drejtoria e Shërbimeve të Peshkimit dhe Akuakulturës (DSHPA), mban një listë (që përditësohet vazhdimisht) të subjekteve që rezultojnë kundërvajtës i legjislacionit në fushën e peshkimit dhe/ose debitorë, me qëllim që të mbahet parasysh në fazën e shqyrtimit të dokumentacionit për konkurrim nga ana e Komisionit të Vlerësimit të Kërkesave.

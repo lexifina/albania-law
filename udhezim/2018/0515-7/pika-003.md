@@ -1,1 +1,0 @@
-3. Drejtoria që mbulon peshkimin krijon një data-bazë elektronikë të të gjitha kërkesave të ardhura duke specifikuar emrin e kërkuesit, datën, zonën, llojin e aktivitetit të kërkuar, si dhe mbylljen e praktikës.

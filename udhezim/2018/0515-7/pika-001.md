@@ -1,1 +1,0 @@
-1. Procedurat e konkurrimit publik për zhvillimin e aktivitetit të peshkimit, kryhet nga Komisioni i Vlerësimit të Kërkesave, i ngritur me urdhër ministri, i cili ka detyra të përcaktuara në VKM-në nr. 712, datë 31.7.2013, “Për përcaktimin e procedurave të konkurrimit publik për të drejtën e peshkimit në ujërat e brendshme të Republikës së Shqipërisë”, i ndryshuar.
