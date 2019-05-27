@@ -187,75 +187,75 @@ Dr. shk. M Maksim Basho
 Anëtar
 Imazherist
 ANEKSI NR. 2
-EMËRTESAT, KANDIDATURAT, FUNKSIONET DHE SPECIALITETET
-E KMCAP-ve EPRORE
+EMËRTESAT, KANDIDATURAT, FUNKSIONET DHE SPECIALITETET E KMCAP-ve EPRORE
 Nr.
 KMCAP
-Kandidatura I e propozuar
+Kandidatura i/e propozuar
 Kandidaturë alternative
 Funksioni
 Specialiteti
 1
 Sëmundje të brendshme
-(Pneumoni/ftiziatri+patologji) (ISSH)
-Sokol Pasho
-Leonard Busho
-Anëtar
-Jurist
+(pneumoni /ftiziatri + patologji)
+(ISSH)
+Edis Ibrahimi
+Entela Dobi
+anëtar
+jurist
 2
 Kardiologji (ISSH)
-Ylli Bedalli
-Argita Alikaj
-Anëtar
-Jurist
+Edvin Morava
+Aljona Mansaku
+anëtar
+jurist
 3
-Neurologji (ISSH)
-Enerieta Tarelli
-Liljana Kaçi
-Anëtar
-Jurist
+Neurologji (ISSH )
+Soeda Doçaj
+Erjona Xhuvani
+anëtar
+jurist
 4
 Kirurgji (ISSH)
 Edlira Bako
-Bledar Kabashi
-Anëtar
-Jurist
+Mirjon Brahimllari
+anëtar
+jurist
 5
 Ortopedi (ISSH)
-Elona Haska
-Desantiela Demaj
-Anëtar
-Jurist
+Besmir Beja
+Anairda Azizaj
+anëtar
+jurist
 6
-Psikiatri okulistikë (ISSH)
-Esmeralda Velaj
-Ervin Sherifaj
-Anëtar
-Jurist
+Psikiatri / okulistikë (ISSH)
+Denisa Varfi
+Najada Shundi
+anëtar
+jurist
 7
 Sëmundjet e shëndetit mendor (SHSSH)
 Diana Stillo
-Luan Bozhiqi
-Anëtar
-Jurist
+Eljona Bylykbashi
+anëtar
+jurist
 8
-Sëmundjet e përgjithshme para moshës 21 vjeç (SHSSH)
+Sëmundjet e përgjithshme (SHSSH)
 Odeta Fëngjilli
-Artan Syziu
-Anëtar
-Jurist
+Elda Zenelaj
+anëtar
+jurist
 9
 Verbëri (SHSSH)
-Bledar Dervishaj
-Bledar Kabashi
-Anëtar
-Jurist
+Avjerina Bazaj
+Artan Syziu
+anëtar
+jurist
 10
-Para dhe tetraplegji (SHSSH)
-Marsuela Aliaj
-Ilir Bejko
-Anëtar
-Jurist
+Paratetraplegji (SHSSH)
+Esmeralda Velaj
+Dejvi Çelçima
+anëtar
+jurist
 ANEKSI NR. 3
 EMËRTESAT, KANDIDATURAT DHE SPECIALITETET E KMCAP-ve EPRORE
 (LISTA ALTERNATIVE)
