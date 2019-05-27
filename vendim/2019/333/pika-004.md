@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 1 828 200 (një milion e tetëqind e njëzet e tetë mijë e dyqind) lekësh, të përballohet nga të ardhurat e Bashkisë Shijak, planifikuar në buxhetin e saj me vendim të këshillit bashkiak.
