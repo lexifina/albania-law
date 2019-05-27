@@ -1,0 +1,1 @@
+8. Pas përfundimit të afateve të ankimimit dhe shqyrtimit të ankesave, Komisioni i Vlerësimit shpall renditjen e kandidatëve në portalin “Mjekë për Shqipërinë”, sipas pozicioneve vakante dhe dërgon emrat e fituesve/fituesin pranë Drejtorisë Rajonale të OSHKSH-së ose institucioneve qendrore shëndetësore”.
