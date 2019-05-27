@@ -1,0 +1,1 @@
+1. Për provimet e Maturës Shtetërore 2019 ndiqen procedurat e përcaktuara në urdhrin nr. 780, datë 23.11.2018, të ministrit të Arsimit, Sportit dhe Rinisë, “Për miratimin e rregullores për zhvillimin e Maturës Shtetërore 2019 në Republikën e Shqipërisë”.

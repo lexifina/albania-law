@@ -1,0 +1,1 @@
+8. Institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar Tiranë dhe Elbasan, të marrin masa për lirimin e mjediseve për vlerësimin e testeve në godinat e sipërpërmendura, të cilat do të ruhen me shërbim 24-orësh nga Policia e Shtetit, gjatë periudhës 8 qershor deri më 2 korrik 2019.

@@ -1,0 +1,1 @@
+13. Çdo neglizhencë ndaj detyrimit për mirëfunksionimin e aparaturave të bllokimit/zhurmimit ngarkon me përgjegjësi administrative dhe përgjegjësi të parashikuara nga Kodi Penal drejtuesit në IAVPAP, PAP dhe PK.
