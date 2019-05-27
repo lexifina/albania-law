@@ -1,0 +1,1 @@
+8. Të drejtat, detyrimet si dhe dokumentacioni administrativ dhe financiar i Këshillit të Lartë të Drejtësisë, pas hyrjes në fuqi të këtij vendimi, i kalojnë dhe administrohen nga Këshilli i Lartë Gjyqësor.

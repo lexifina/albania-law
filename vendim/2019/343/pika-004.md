@@ -1,0 +1,1 @@
+4. Fondet e programit “Veprimtaria mbikëqyrëse e KLD”, miratuar në buxhetin e vitit 2019, në grupin buxhetor nr. 63, “Institucione të sistemit të drejtësisë”, rialokohen në të njëjtat llogari ekonomike buxhetore dhe në të njëjtat vlera, në programin “Planifikim, menaxhim dhe administrim” në grupin buxhetor “Këshilli i Lartë Gjyqësor”.

@@ -1,0 +1,1 @@
+1. Numrat për 50 dhe 1 389 punonjës, miratuar në buxhetin e vitit 2019, përkatësisht, për Këshillin e Lartë të Drejtësisë dhe për Zyrën e Administrimit të Buxhetit Gjyqësor, rialokohen për Këshillin e Lartë Gjyqësor.

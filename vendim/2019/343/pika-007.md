@@ -1,0 +1,1 @@
+7. Fondet financiare, të parashikuara në pikat 5 e 6, të këtij vendimi, në masën 190 000 000 (njëqind e nëntëdhjetë milionë) lekë, përballohen nga fondi rezervë, miratuar në buxhetin e vitit 2019, për institucionet e reja të sistemit të drejtësisë, duke e çuar këtë fond në masën 210 000 000 (dyqind e dhjetë milionë) lekë.

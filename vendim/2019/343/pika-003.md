@@ -1,0 +1,1 @@
+3. Fondet e grupit buxhetor “Zyra e Administrimit të Buxhetit Gjyqësor”, miratuar në buxhetin e vitit 2019, në grupin buxhetor nr.29, rialokohen në të njëjtat programe, llogari ekonomike buxhetore dhe në të njëjtat vlera, në grupin buxhetor “Këshilli i Lartë Gjyqësor”.
