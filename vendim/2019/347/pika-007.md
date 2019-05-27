@@ -1,0 +1,1 @@
+7. Depozitat e karburantit u transferohen në menaxhim subjekteve private, të cilat plotësojnë kushtet e pikës 2, të nenit 20, të vendimit nr. 612, datë 5.9.2012, të Këshillit të Ministrave, “Për dispozitat zbatuese të ligjit “Për akcizat”“, të ndryshuar.

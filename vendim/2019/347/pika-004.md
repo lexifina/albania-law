@@ -1,0 +1,1 @@
+4. Procedurat e transferimit të menaxhimit të infrastrukturës së peshkimit dhe të infrastrukturës së lidhur me peshkimin zhvillohen nga ministria përgjegjëse për peshkimin, me kërkesë apo nismë të organizatave të peshkimit, njësive të vetëqeverisjes vendore apo subjekteve private.

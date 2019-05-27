@@ -1,0 +1,1 @@
+2. Fitimi i së drejtës së menaxhimit të infrastrukturës së lidhur me peshkimin realizohet nëpërmjet procedurës së konkurrimit, zhvilluar nga ministria përgjegjëse për peshkimin, sipas përcaktimeve të këtij vendimi.

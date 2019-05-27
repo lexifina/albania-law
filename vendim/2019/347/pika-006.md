@@ -1,0 +1,1 @@
+6. Infrastruktura e lidhur me peshkimin, që u transferohet në menaxhim subjekteve private, përbëhet nga shkallët e riparimit të anijeve të peshkimit ose sipërfaqe për ndërtimin e tyre, si dhe nga depozitat e karburantit, të cilat ndihmojnë për zhvillimin e aktivitetit të peshkimit.

@@ -1,0 +1,1 @@
+16. Organizata e Peshkimit krijon kushte për përpunimin e anijeve të peshkimit në port (shkarkimin e peshkut të zënë, furnizimin me karburant, me ujë të pijshëm dhe bazë materiale e teknike të nevojshme për zhvillimin e veprimtarisë së peshkimit).
