@@ -1,0 +1,1 @@
+2. Ndryshimet e SKK 3, SKK 5, SKK 11 dhe SKK 13, të përmirësuara, të publikuara në vitin 2019, kanë datë efektive 1 janar 2020 dhe do të zbatohen në prospektivë, pa kërkuar riparaqitjen e pasqyrave financiare të vitit të mëparshëm.
