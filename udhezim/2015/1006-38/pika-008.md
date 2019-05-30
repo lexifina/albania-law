@@ -1,1 +1,0 @@
-8. Për një vend të lirë pune me ngarkesë të plotë mësimore dhe të përhershme, komisioni është i detyruar të njoftojë në fillim kandidatët për mësues që janë punësuar në një vend pune me ngarkesë të pjesshme apo të përkohshme. Mosofrimi i vendeve sipas kësaj pike bën të pavlefshme kontratën e punës të lidhur me kandidatët e tjerë.
