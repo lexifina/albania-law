@@ -1,0 +1,1 @@
+9. DRAP ka detyrimin të konfirmojë menjëherë në portalin “Mësues për Shqipërinë”, përgjatë vitit mësimor, vendet e lira të punës për çdo institucion arsimor parauniversitar të varësisë, si dhe listën e punësimeve të kryera në muajin paraardhës, brenda 5 (pesë) ditëve të para të çdo muaji.
