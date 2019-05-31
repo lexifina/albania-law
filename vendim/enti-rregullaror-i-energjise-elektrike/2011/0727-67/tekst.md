@@ -4,6 +4,8 @@ Nr.67, datë 27.7.2011
 
 PËR LIcENcIMIN E SHOQËRISË “DOSKU-ENERGY” SHPK NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE
 
+(ndryshuar me vendimin e bordit të ERE-s nr. 79, datë 31.5.2019)
+
 Në mbështetje të neneve 8, pika 2 germa “a”, 9 dhe 13 pika 1, germa “a”, neni 15 pika 3, të ligjit nr.9072, datë 22.5.2003, “Për sektorin e energjisë elektrike”, të ndryshuar, neneve 4, pika 1 germa “a”, 5, pika 1 germa “a”, 8 pika 4 dhe neni 13 të rregullores “Për procedurat e licencimit, modifikimit, transferimit të plotë/pjesshëm dhe rinovimit të licencave”, të miratuar me vendimin e Bordit të Komisionerëve nr.108, datë 9.9.2008, Bordi i Komisionerëve të Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 27.7.2011, pasi shqyrtoi aplikimin e paraqitur nga shoqëria “Dosku–Energy” sh.p.k., si dhe relacionin e Drejtorisë së Licencimit dhe Monitorimit të Tregut dhe Drejtorisë Juridike dhe Mbrojtjes së Konsumatorit mbi licencimin në aktivitetin e prodhimit të energjisë elektrike, të kësaj shoqërie, 
 
 konstatoi se: 
@@ -22,7 +24,7 @@ Për gjithë sa më sipër cituar, Bordi i Komisionerëve të ERE-s
 
 VENDOSI:
 
-1. Licencimin e shoqërisë “Dosku-Energy” sh.p.k. në aktivitetin e prodhimit të energjisë elektrike nga hidrocentrali “Gizavesh”, me kusht që subjekti “Dosku Energjy” sh.p.k. të paraqesë certifikatën e regjistrimit të pronësisë brenda 2 (dy) vjetësh nga data e dhënies së licencës.
+1. Licencimin e shoqërisë “Dosku–Energy” sh.p.k, në veprimtarinë e prodhimit të energjisë elektrike nga Hidrocentrali “Gizavesh”, me kapacitet të instaluar 0.5 mw.
 
 2. Afati i kohëzgjatjes së licencës do të jetë 30 vjet. 
 
