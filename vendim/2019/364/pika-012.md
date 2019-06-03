@@ -1,0 +1,1 @@
+12. IKTK-ja ka stemën, logon dhe vulën e saj zyrtare. Stema e IKTK-së përbëhet nga stema e Republikës së Shqipërisë me shënimet “Republika e Shqipërisë”, Ministria e Kulturës, Instituti Kombëtar i Trashëgimisë Kulturore”.

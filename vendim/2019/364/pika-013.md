@@ -1,0 +1,8 @@
+13. Vula e IKTK-së ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, të administrimit, të kontrollit dhe ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+IV. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Ngarkohet ministri i Kulturës që, brenda 15 (pesëmbëdhjetë) ditëve nga hyrja në fuqi e këtij vendimi, të fillojë procedurën për propozimin e strukturës dhe të organikës së IKTK-së.
+2. Drejtuesit e institucioneve aktuale që ristrukturohen në funksion të ligjit nr. 27/2018, “Për trashëgiminë kulturore”, me urdhër të përbashkët, krijojnë një komision për realizimin e procesit të ristrukturimit dhe të riorganizimit të punonjësve aktualë të Institutit të Monumenteve të Kulturës dhe Agjencisë Shërbimit Arkeologjik, sipas strukturës dhe organikës së re. Ky proces udhëhiqet nga drejtues të lartë të Ministrisë së Kulturës, nën mbikëqyrjen e ministrit të Kulturës.
+3. Deri në fillimin e funksionimit të plotë të IKTK-së, sipas këtij vendimi, strukturat aktuale vazhdojnë funksionimin e tyre sipas strukturave dhe organikave të miratuara.
+4. Ngarkohet Ministria e Kulturës që, në përputhje me ligjin nr. 9936, datë 26.6.2008, “Për menaxhimin e sistemit buxhetor në Republikën e Shqipërisë”, të bëjë transferimin e fondeve buxhetore nga Instituti i Monumenteve të Kulturës dhe Agjencia e Shërbimit Arkeologjik te IKTK-ja.
+5. Ngarkohen ministri i Kulturës dhe Instituti Kombëtar i Trashëgimisë Kulturore, si dhe institucionet e tjera në fushën e trashëgimisë kulturore për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

@@ -1,0 +1,4 @@
+6. IKTK-ja realizon aktivitetin e saj në bashkëpunim me:
+a) institucionet e tjera publike në varësi të ministrisë përgjegjëse të trashëgimisë kulturore, organet e administratës qendrore, organet e vetëqeverisjes vendore dhe institucione të tjera shkencore, kulturore, fetare, persona fizikë e juridikë për evidentimin, gjurmimin, konservimin, studimin dhe restaurimin e pasurive kulturore;
+b) UNESCO-n, si dhe me organizata të tjera ndërkombëtare në lidhje me trajnimet për formimin profesional dhe specializimin e restauratorëve dhe operatorëve të rinj të trashëgimisë kulturore, pjesë të strukturave shtetërore dhe institucioneve të specializuara për trashëgiminë kulturore;
+c) institucione të tjera të specializuara të sistemit të Akademisë së Shkencave, Akademinë e Studimeve Albanologjike, si dhe institucione homologe ose organizma ndërkombëtarë, në fushën e trashëgimisë kulturore.
