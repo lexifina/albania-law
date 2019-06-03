@@ -1,0 +1,1 @@
+2. Dhënia e medaljeve shoqërohet me një certifikatë. Formati i certifikatës është një letër format A4, me peshë 160 g, me logon e institucionit, e kornizuar me ngjyrat e shiritit të medaljes. Në qendër vendoset shenja e medaljes dhe teksti me këtë përmbajtje: “Z./Znj._____, Kryeministër i Shqipërisë, i akordon z./znj._____ llojin e medaljes, nr. rendor. Tiranë, më ___/___/___.”.

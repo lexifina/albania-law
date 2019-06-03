@@ -1,0 +1,1 @@
+8. Medalja mund t’i hiqet titullarit të saj ose të jetë objekt pezullimi pa afat kur titullari është dënuar për një vepër penale që cenon figurën, ndershmërinë dhe moralin e tij si dhe besueshmërinë tek të tretët. Titullari është i detyruar të kthejë shenjat e medaljes me të cilën ka qenë i dekoruar.

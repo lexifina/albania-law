@@ -1,0 +1,1 @@
+6. Individët të cilët janë dalluar me Medaljen e Mirënjohjes Publike përpara hyrjes në fuqi të këtij vendimi asimilohen me mbajtësit e klasit III - Ylli i Mirënjohjes Publike dhe kanë të drejtë të mbajnë shenjat përkatëse, sipas parashikimeve në këtë vendim.
