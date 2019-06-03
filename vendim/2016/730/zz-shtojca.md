@@ -9,6 +9,7 @@ Kjo rregullore përcakton:
 1. Kushtet dhe kriteret për klasifikimin e strukturave akomoduese;
 2. Procedurat, afatet dhe strukturat admini-strative për klasifikimin e strukturave akomoduese;
 3. Tarifat e aplikimit dhe kostot e verifikimit për marrjen e certifikatës së klasifikimit për secilën kategori të strukturave akomoduese.
+4. Kategorizimin e strukturave akomoduese.
 Neni 2
 Fusha e zbatimit
 1. Kjo rregullore zbatohet për strukturat akomoduese të përcaktuara në ligjin nr. 93/2015, “Për turizmin”.
@@ -20,6 +21,7 @@ Përkufizime
 a) “Aplikim elektronik”, portali elektronik i ministrisë përgjegjëse për turizmin, i aksesueshëm nëpërmjet portalit të shërbimeve shtetërore elektronike, ku mundësohet aplikimi për klasifikimin e strukturave akomoduese dhe plotësimi i formularit të vetëdeklarimit, nëpërmjet mjeteve elektronike;
 b) “Bujtinë” (shtëpi pritëse), një strukturë akomoduese, një ndërtesë, një pjesë e së cilës përdoret si rezidencë e pronarit dhe ku ofrohet akomodim dhe ushqim për vizitorët, përkundrejt pagesës;
 c) “Certifikatë klasifikimi”, dokumenti i lëshuar nga komisioni i standardizimit të veprimtarive turistike për klasifikimin e strukturës akomoduese;
+c/1. Certifikatë kategorizimi, dokumenti i lëshuar nga komisioni i standardizimit të veprimtarive turistike për llojin e strukturës akomoduese;
 ç) “Fjetinë” (Hostel), ndërtesë që ofron akomodim dhe ushqim me çmime ekonomike, zakonisht për udhëtarë, studentë e punëtorë, ku dhoma ndahet mes disa klientëve të ndryshëm;
 d) “Fjetje dhe mëngjes (B&B)”, strukturë akomoduese që ofron shërbimin e fjetjes dhe të mëngjesit brenda çmimit të dhomës. Kjo strukturë akomoduese nuk ofron shërbim restoranti dhe ambiente të përbashkëta;
 dh) “Hotel”, ndërtesë me jo më pak se 6 dhoma, ku akomodimi dhe shërbimet si ushqim, pije etj., ofrohen nga një staf i kualifikuar, kundrejt një çmimi të afishuar;
@@ -49,7 +51,9 @@ c) “Kamping”;
 d) “Motel”;
 dh) “Resort”;
 e) “Qendër kurative”;
-ë) “Fjetje dhe mëngjes” (B&B).
+ë) “Fjetje dhe mëngjes” (B&B);
+3 Çdo sipërmarrës turistik që ushtron veprimtarinë si strukturë akomoduese duhet të pajiset me certifikatë kategorizimi.
+4. Mënyra dhe procedurat e kategorizimit të strukturave akomoduese përcaktohen me urdhër ministri.
 Neni 5
 Klasifikimi i strukturave akomoduese
 1. Komisioni kategorizon dhe klasifikon çdo strukturë akomoduese, mbështetur në kushtet dhe kriteret e parashikuar nga kjo rregullore dhe të aneksit nr. 1, “Kushtet dhe kriteret e klasifikimit”, bashkëlidhur.
@@ -75,6 +79,8 @@ Procesi i verifikimit
 6. Me përfundimin e procesit të verifikimit, formulari i plotësuar nga verifikuesit në sistemin elektronik mund të aksesohet nga Komisioni dhe nga kërkuesi, nëpërmjet numrit të tij të aplikimit.
 7. Kërkuesi, brenda 5 ditëve nga ngarkimi në sistem i formularit të plotësuar të verifikimit, mund t’i paraqesë, me shkrim, Komisionit, kundërshtimet e tij për rezultatet e verifikimit.
 8. Në rast se kërkuesi ka kundërshtuar rezultatet e verifikimit, Komisioni, brenda 15 ditëve nga paraqitja e këtij kundërshtimi, vendos nëse është e nevojshme kryerja e një verifikimi të strukturës ose zgjedhja e një vlerësuesi tjetër. Në rast të kundërt, Komisioni, në vendimin e tij, argumenton edhe arsyet e mosmarrjes në konsideratë të kundërshtimit të kërkuesit.
+Neni 7/1
+Për strukturat akomoduese me 4 apo 5 yje që janë mbajtëse të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “Brand name”, vlerësimi për klasifikimin e tyre bëhet nga ministria përgjegjëse për turizmin, me kërkesë të vetë sipërmarrësit turistik, deri në nënshkrimin e marrëveshjes me agjenci apo organizata ndërkombëtare, të mirënjohura në fushën e vlerësimit të strukturave akomoduese, sipas përcaktimeve të bëra në pikën 1, të nenit 7, të rregullores.
 Neni 8
 Vendimi i Komisionit
 1. Komisioni, brenda 30 ditëve nga data e depozitimit të formularit të verifikimit, shqyrton dhe vlerëson, në mënyrë tërësore, dokumentet dhe të dhënat e paraqitura nga kërkuesi, rezultatet e verifikimit, si dhe përmbushjen e kritereve të kërkuara për klasifikimin e strukturës akomoduese.
