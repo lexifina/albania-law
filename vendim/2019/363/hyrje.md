@@ -1,0 +1,5 @@
+VENDIM
+Nr. 363, datë 29.5.2019
+PËR MIRATIMIN E MARRËVESHJES NDRYSHUESE TË MARRËVESHJES SË HUAS (DATË 30 QERSHOR 2008, MARRËVESHJE HUAJE NR.ABA-P3), NDËRMJET QEVERISË SË REPUBLIKËS SË SHQIPËRISË DHE BANKËS JAPONEZE PËR BASHKËPUNIM NDËRKOMBËTAR (TË ZËVENDËSUAR NGA AGJENCIA JAPONEZE E BASHKËPUNIMIT NDËRKOMBËTAR, NË TETOR 2008), PËR PROJEKTIN “PËRMIRËSIMI I SISTEMIT TË KANALIZIMEVE PËR TIRANËN E MADHE”
+Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 19 e 23, të ligjit nr. 43/2016, “Për marrëveshjet ndërkombëtare në Republikën e Shqipërisë”, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
