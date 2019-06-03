@@ -1,0 +1,1 @@
+3. Brenda 5 (pesë) ditëve nga hyrja në fuqi e këtij vendimi, titullarët e institucioneve të përmendura në pikën 1, të këtij kreu, dërgojnë pranë Bashkisë së Tiranës emrat e anëtarëve përfaqësues në këtë komision. Kryetari i komisionit thërret mbledhjen e parë brenda 5 (pesë) ditëve nga dërgimi i emrave të anëtarëve.

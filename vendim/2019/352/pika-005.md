@@ -1,0 +1,1 @@
+5. Me propozim të çdo anëtari të komisionit ose me iniciativë të tij, kryetari i komisionit thërret ekspertë të fushës apo përfaqësues nga institucione të tjera për të dhënë mendimin/ekspertizën e kërkuar, sipas fushës së përgjegjësisë të institucioneve që ato përfaqësojnë.

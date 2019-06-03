@@ -1,0 +1,1 @@
+6. Çdo institucion apo ent shtetëror, sipas kërkesës së komisionit, është i detyruar që brenda 3 (tri) ditëve nga kërkesa të vendosë në dispozicion të komisionit ekspertizën e kërkuar, nëpërmjet dërgimit të ekspertëve apo dhënien e saj me shkrim. Çdo qëndrim i ekspertëve të thirrur në komision pasqyrohet në procesverbal dhe një kopje nënshkruhet edhe prej tyre.

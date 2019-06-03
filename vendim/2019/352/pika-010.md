@@ -1,0 +1,1 @@
+10. Kërkesat sipas shkronjave “a”, “b” dhe “c”, të pikës 2, të këtij vendimi, plotësohen me dorëzimin e ekstraktit të regjistrit tregtar për të dhënat e subjektit, ekstraktit mbi historikun e subjektit, të lëshuara nga Qendra Kombëtare e Biznesit, si dhe vetëdeklarimin e subjektit mbi gjendjen gjyqësore.

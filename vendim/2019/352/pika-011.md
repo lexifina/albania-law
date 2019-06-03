@@ -1,0 +1,1 @@
+11. Dokumentacioni duhet të jetë i lëshuar jo më parë se tre muaj nga dita e dorëzimit të shprehjes së interesit nga pala private (me përjashtim të dokumentacionit që lidhet me pikat 5, 6 , 8 dhe 10, të këtij kreu).

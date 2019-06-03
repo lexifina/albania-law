@@ -1,0 +1,1 @@
+7. Komisioni e ushtron veprimtarinë e tij nëpërmjet vendimmarrjes. Vendimet e komisionit janë të vlefshme kur merren me shumicën e votave, në prani të më shumë se gjysmës së të gjithë anëtarëve të tij. Vendimet janë të dokumentuara në formë shkresore dhe nënshkruhen nga kryetari i komisionit dhe vulosen me vulën e Bashkisë së Tiranës.
