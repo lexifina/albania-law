@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për shpalljen e zonave të veçanta të ruajtjes (në vijim, ZVR), e cila të kryhet mbi bazë të kritereve të përcaktuara në pikën 1, të nenit 29, të ligjit “Për zonat e mbrojtura”, dhe të parashikimeve të këtij vendimi.

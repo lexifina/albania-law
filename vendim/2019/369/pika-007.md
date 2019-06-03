@@ -1,0 +1,1 @@
+7. Në përfundim të këtij procesi, AKZM-ja i paraqet ministrisë përgjegjëse për zonat e mbrojtura mjedisore rezultatet e studimit përfundimtar dhe ministria përgjegjëse për zonat e mbrojtura mjedisore harton një listë paraprake të zonave që potencialisht plotësojnë kriteret për t’u shpallur si ZVR për Shqipërinë.

@@ -1,0 +1,1 @@
+9. Pas përfundimit të procesit të konsultimit dhe përgatitjes së dokumentacionit të përcaktuar në pikat 6 e 7, të këtij vendimi, ministri përgjegjës për zonat e mbrojtura mjedisore miraton, me urdhër, listën e zonave të veçanta të ruajtjes dhe, së bashku me të dhënat përkatëse për çdo zonë, në momentin e anëtarësimit, ia dërgon Komisionit Evropian.

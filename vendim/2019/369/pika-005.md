@@ -1,0 +1,1 @@
+5. Ky proces i nënshtrohet procedurës së konsultimit me njësitë e qeverisjes vendore, ekspertë të fushës së mbrojtjes së natyrës dhe institucionet kërkimore e shkencore. Fillimisht, rezultatet paraprake të studimeve për secilën zonë paraqiten për shqyrtim e diskutim në takime të veçanta, në qarkun ku ndodhet zona e propozuar.
