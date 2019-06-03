@@ -1,0 +1,1 @@
+1. Miratimin e hartës së përditësuar të kufijve administrativo-territorialë të njësive të vetëqeverisjes vendore, sipas standardeve të përcaktuara gjeohapësinore, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
