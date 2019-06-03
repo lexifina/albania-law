@@ -1,1 +1,0 @@
-7. Pas marrjes së mendimit nga ministritë e linjës dhe njësitë e qeverisjes vendore, ministri miraton, me urdhër, listën e zonave të veçanta të ruajtjes dhe së bashku me të dhënat përkatëse për çdo zonë, ia dërgon Komisionit Europian.

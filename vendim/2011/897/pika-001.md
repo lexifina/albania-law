@@ -1,1 +1,0 @@
-1. Shpallja e zonave të veçanta të ruajtjes (ZVR) të kryhet mbi bazën e kritereve dhe vlerësimeve të përcaktuara në nenin 4/3 të ligjit nr.8906, datë 6.6.2002 “Për zonat e mbrojtura”, të ndryshuar, dhe sipas rregullave që përcaktohen në këtë vendim.

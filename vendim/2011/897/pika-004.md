@@ -1,1 +1,0 @@
-4. Agjencia e Mjedisit dhe Pyjeve bashkërendon punën me institucionet kërkimore e universitare dhe njësitë e qeverisjes vendore për kryerjen e studimit, me qëllim vlerësimin e zonave potenciale për t’u shpallur zona të veçanta të ruajtjes. Mbi bazën e këtij studimi hartohet një listë paraprake e zonave që potencialisht plotësojnë kriteret për t’u shpallur si ZVR.
