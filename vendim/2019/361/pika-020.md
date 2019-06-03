@@ -1,0 +1,1 @@
+20. Njësia e vetëqeverisjes vendore njofton prefektin e qarkut për çdo procedurë zhvendosjeje që ndodh brenda juridiksionit të këtij të fundit. Për çdo procedurë zhvendosjeje, prefekti ngarkon një përfaqësues për të ndjekur punën e grupit të punës të ngritur nga njësia e vetëqeverisjes vendore, si dhe të gjithë procedurën e kryer.

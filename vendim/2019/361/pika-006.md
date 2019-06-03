@@ -1,0 +1,2 @@
+6. Njësia e vetëqeverisjes vendore miraton vlerësimin e “ndikimit të zhvendosjes”, ku përfshihet edhe shqyrtimi i alternativave dhe i strategjive për minimizimin e dëmit.
+6.1 Njësia e vetëqeverisjes vendore, më së pari, tenton të arrijë një marrëveshje administrative me shkrim me individin/familjen për të cilin/cilën parashikon të miratojë vendimin e zhvendosjes për alternativën e përshtatshme të strehimit të propozuar. Nëse nuk realizohet një marrëveshje e tillë, njësia e vetëqeverisjes vendore vijon procedurën e zhvendosjes.

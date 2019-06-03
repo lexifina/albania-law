@@ -1,0 +1,1 @@
+14. Njësia e vetëqeverisjes vendore i jep përparësi së drejtës së individit/familjes të zhvendosur për t’u kthyer ose, kur rrethanat e pamundësojnë këtë, krijojnë kushtet e risistemimit të personave, të grupeve dhe të komuniteteve të veçanta për shkak të zhvendosjeve për interes publik. Ky risistemim duhet të kryhet në mënyrë të drejtë dhe të paanshme.

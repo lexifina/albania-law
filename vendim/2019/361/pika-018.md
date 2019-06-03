@@ -1,0 +1,1 @@
+18. Njësia e vetëqeverisjes vendore njofton Policinë Bashkiake dhe Policinë e Shtetit për çdo procedurë zhvendosjeje dhe kërkon, sipas rastit, mbështetjen e tyre gjatë procedurës së zhvendosjes. Njësia e vetëqeverisjes vendore dhe struktura përgjegjëse e Policisë së Shtetit lidhin një marrëveshje bashkëpunimi për koordinimin e veprimeve mes tyre.

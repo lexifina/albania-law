@@ -1,0 +1,1 @@
+17. Institucionet qendrore, në rastet kur ka projekte investimi që sjellin si pasojë zhvendosjen e individëve/familjeve, menjëherë, me miratimin e projektit, informojnë njësinë përkatëse të vetëqeverisjes vendore, si dhe individët/familjet në banesat e të cilëve projekti sjell pasoja. Në çdo rast, informimi realizohet të paktën një vit para fillimit të zbatimit të projektit.

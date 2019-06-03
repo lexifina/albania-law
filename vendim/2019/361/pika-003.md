@@ -1,0 +1,2 @@
+3. Individët/familjet, që preken nga zhvendosja, përfitojnë ndihmë juridike në përputhje me legjislacionin në fuqi për ndihmën juridike të garantuar nga shteti.
+3.1 Njësia e vetëqeverisjes vendore, në aktin e njoftimit individit/familjes për fillimin e procedurave administrative të zhvendosjes, i njofton ata edhe për mundësinë e përfitimit nga ndihma juridike e garantuar nga shteti, duke i informuar edhe për organin publik të krijuar për administrimin e kësaj ndihme, si dhe kontaktin e këtij organi.

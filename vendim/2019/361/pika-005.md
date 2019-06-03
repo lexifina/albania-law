@@ -1,0 +1,2 @@
+5. Për çdo individ/familje të zhvendosur, njësia e vetëqeverisjes vendore miraton një plan të hollësishëm të zhvendosjes, në të cilin përfshihen të gjitha elementet e vlerësimit, masat e identifikuara për risistemim, kthim, rehabilitim, si dhe formën e miratuar për strehim alternativ.
+5.1 Plani i zhvendosjes i njoftohet individit/familjes 30 (tridhjetë) ditë para nxjerrjes së aktit administrativ të zhvendosjes.

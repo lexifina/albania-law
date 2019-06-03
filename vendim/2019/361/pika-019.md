@@ -1,0 +1,1 @@
+19. Njësia e vetëqeverisjes vendore njofton Avokatin e Popullit për çdo procedurë zhvendosjeje të nisur. Në rastet kur Avokati i Popullit, në përputhje me Kushtetutën dhe legjislacionin në fuqi, miraton rekomandime, ato publikohen edhe në faqen zyrtare të internetit të njësisë së vetëqeverisjes vendore.

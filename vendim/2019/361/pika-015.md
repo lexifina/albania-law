@@ -1,0 +1,1 @@
+15. Kundër vendimit të njësisë së vetëqeverisjes vendore, për zhvendosje nga banesa, mund të bëhet ankim në gjykatën administrative kompetente, në përputhje me legjislacionin në fuqi për gjykatat administrative dhe gjykimin e mosmarrëveshjeve administrative.
