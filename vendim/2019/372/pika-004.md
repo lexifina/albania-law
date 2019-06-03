@@ -1,0 +1,1 @@
+4. Në buxhetin e Ministrisë së Arsimit, Sportit dhe Rinisë, miratuar për vitin 2019, në zërin “Shpenzime kapitale të brendshme”, në programin “Arsimi i Lartë”, pakësohet fondi prej 64 (gjashtëdhjetë e katër) milionë lekësh.

@@ -1,0 +1,1 @@
+1. Financimin, në vlerën 320 000 000 (treqind e njëzet milionë) lekë, të projektit “Rikonstruksioni i godinave të konvikteve të studentëve në qytetet Shkodër, Elbasan, Vlorë, Korçë dhe Gjirokastër”, në përputhje me projektet e Institutit të Ndërtimit.

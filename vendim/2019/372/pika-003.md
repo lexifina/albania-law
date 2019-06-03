@@ -1,0 +1,1 @@
+3. Në buxhetin e Fondit Shqiptar të Zhvillimit, miratuar për vitin 2019, në zërin “Shpenzime kapitale të brendshme”, në programin “Programe Zhvillimi”, shtohet fondi prej 64 (gjashtëdhjetë e katër) milionë lekësh.

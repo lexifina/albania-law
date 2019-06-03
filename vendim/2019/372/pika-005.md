@@ -1,0 +1,1 @@
+5. Diferenca e fondit të nevojshëm për zbatimin e plotë të projektit si dhe vlera e kostos operacionale të FSHZH-së do të lëvrohet nëpërmjet buxhetit të shtetit, në përputhje me ecurinë e zbatimit të punimeve, deri në vlerën e plotë, sipas pikës 1, të këtij vendimi.
