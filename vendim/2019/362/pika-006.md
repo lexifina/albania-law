@@ -1,0 +1,1 @@
+6. Ministria përgjegjëse për strehimin, mbështetur në kërkesat e njësive të vetëqeverisjes vendore, garanton fondet buxhetore vjetore për subvencionimin e qirasë për banesat e pronarëve socialë në tregun e lirë.

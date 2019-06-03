@@ -1,0 +1,1 @@
+3. Që një familje/individ të përfitojë subvencionimin e qirasë duhet të plotësojë kriteret e përcaktuara në njërin prej rasteve të shkronjës “a”, të nenit 16, të ligjit nr. 22/2018, “Për strehimin social”, dhe të mos ketë të ardhura më të larta se ato të përcaktuara në nenin 20, të tij.
