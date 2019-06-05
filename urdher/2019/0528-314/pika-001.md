@@ -1,0 +1,1 @@
+1. Zëvendësimin e z. Armando Boçe, i ngarkuar me detyrë, drejtor i Drejtorisë së Evidencës Qendrore dhe Komunikimit me znj. Elsa Saka, me detyrë përgjegjës i Sektorit të Promovimit dhe Komunikimit, në Drejtorinë e Evidencës Qendrore dhe Komunikimit, e cila autorizohet të nënshkruajë kërkesat social-juridike të Drejtorisë së Përgjithshme të Arkivave.
