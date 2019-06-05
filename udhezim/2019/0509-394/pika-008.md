@@ -1,0 +1,1 @@
+8. Procedurat e vendosjes së një fëmijë në kujdes alternative do të ndjekin të njëjtën logjikë si për menaxhimin e një rasti, të parashikuar në VKM-në respektive, që rrjedh nga ligji për të drejtat dhe mbrojtjen e fëmijëve, sipas udhëzuesit në Aneksin bashkëngjitur këtij udhëzimi.

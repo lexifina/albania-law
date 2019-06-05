@@ -1,0 +1,1 @@
+6. Vendimi për ta vendosur fëmijën në familje kujdestare bazohet në një vlerësim shumë të kujdesshëm të nevojave të fëmijës dhe i arsyeve pse prindërit dhe familja e fëmijës nuk e kanë mundësinë t’i përgjigjen këtyre nevojave.
