@@ -1,0 +1,1 @@
+4. Institucioni arsimor vendor, përgjegjës për arsimin parauniversitar, të marrë të gjitha masat sipas parashikimeve të Kodit Civil, të ligjit nr. 9901, datë 14.4.2008 “Për tregtarët dhe shoqëritë tregtare”, i ndryshuar, si dhe akteve ligjore e nënligjore në fuqi për personin juridik që përfaqëson institucionin e përcaktuar në pikën 1, i cili nuk zbaton këtë urdhër.

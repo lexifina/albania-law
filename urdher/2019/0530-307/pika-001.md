@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, shkolla 9-vjeçare “Visare”, e subjektit Shoqata “Visare” Kavajë, licencuar me licencë të QKL-së nr. LN-6409-04-2013, në përfundim të vitit shkollor 2018-2019.
