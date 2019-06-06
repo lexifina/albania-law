@@ -1,0 +1,1 @@
+5. Urdhri nr. 32, datë 5.2.2007 i Ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor privat parauniversitar, shkollë e mesme e përgjithshme e profilizuar “Eurolingua”, shfuqizohet.
