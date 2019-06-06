@@ -1,0 +1,1 @@
+1. Hapjen e institucionit arsimor parauniversitar publik, të arsimit parashkollor, “Kopshti” pranë fshatit Bularat, njësia administrative Dropull i Sipërm, Bashkia Dropull, propozuar me vendim nr. 13, datë 20.2.2019 të Këshillit Bashkiak Dropull.
