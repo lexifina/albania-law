@@ -1,0 +1,1 @@
+5. Urdhri nr. 26, datë 25.1.2016 i ministrit të Arsimit dhe Shkencës, “Për funksionimin e institucionit arsimor privat parauniversitar, shkollë e mesme e përgjithshme e profilizuar ’Univers Network’”, shfuqizohet.
