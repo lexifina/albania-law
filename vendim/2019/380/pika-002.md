@@ -1,0 +1,1 @@
+2. Efekti financiar i zbatimit të dokumentit politik për vitin 2019 është 725 444 000 (shtatëqind e njëzet e pesë milionë e katërqind e dyzet e katër mijë) lekë dhe do të përballohet nga buxheti i miratuar për Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale.

@@ -1,0 +1,1 @@
+1. Miratimin e dokument politik “Reforma e vlerësimit të aftësisë së kufizuar në sistemin e mbrojtjes sociale dhe plani i veprimit 2019-2024 për zbatimin e tij”, sipas tekstit që i bashkëlidhet këtij vendimi.
