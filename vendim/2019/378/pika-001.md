@@ -1,0 +1,1 @@
+1. Miratimin e rregullit teknik për pajisjet radio, njohjen e ndërsjellë të vlerësimit të konformitetit të tyre dhe përcaktimin e listës së standardeve të harmonizuara, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

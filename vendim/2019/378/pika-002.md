@@ -1,0 +1,1 @@
+2. Vendimi nr. 546, datë 13.6.2013, i Këshillit të Ministrave, “Për miratimin e rregullit teknik për pajisjet radio dhe fundore të telekomunikacioneve dhe njohjen e ndërsjellë të vlerësimit të konformitetit të tyre”, shfuqizohet.
