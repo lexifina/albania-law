@@ -1,0 +1,1 @@
+1. Për financimin e fushatës zgjedhore për organet e vetëqeverisjes vendore të datës 30 qershor 2019, në programin “Mbështetje për partitë politike” shtohet fondi prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh, i cili iu shpërndahet subjekteve zgjedhore pjesëmarrëse në këto zgjedhje, nga Komisioni Qendror i Zgjedhjeve.
