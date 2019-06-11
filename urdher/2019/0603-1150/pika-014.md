@@ -1,0 +1,2 @@
+14. Punonjësit e drejtorisë vendore të ASHK, përpara regjistrimit të dëshmive të trashëgimisë ligjore/testamentare, fillimisht duhet të kontrollojnë nëse pasuria përfshihet në pasurinë bashkëshortore, sipas krerëve II, III ose IV të këtij urdhri. Nëse është rasti, drejtoria korrigjon seksionin përkatës të kartelës së pasurisë së paluajtshme (C), duke zbritur 1/2 pjesë të prezumuar në bashkëpronësi të bashkëshortit. Pjesa përkatëse e secilit bashkëshort evidentohet në çdo rast në certifikatën për vërtetim pronësie.
+VII. DISPOZITA TË FUNDIT

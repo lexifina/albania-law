@@ -1,0 +1,1 @@
+5. Pasuria e fituar nga individi gjatë martesës, në periudhën nga hyrja në fuqi e Kodit të familjes (2003) e në vazhdim, konsiderohet se është në bashkëpronësi të të dy bashkëshortëve (sipas dispozitave për bashkësinë ligjore), nëse nuk ka një kontratë për regjim tjetër martesor.

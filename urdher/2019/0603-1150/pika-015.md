@@ -1,0 +1,1 @@
+15. Korrigjimi sipas këtij urdhri nuk përbën kalim të të drejtës së pronësisë, por vetëm pasqyrim të një të drejte të fituar më parë mbi pasurinë e regjistruar. Rrjedhimisht, ky pasqyrim nuk i nënshtrohet tatimit për kalimin e pronësisë.

@@ -1,0 +1,1 @@
+3. Për të korrigjuar kartelat e regjistrit të pasurive të paluajtshme, drejtoritë vendore të ASHK-së konstatojnë nëse pasuria që figuron e regjistruar në kartelë është, ose jo, pasuri bashkëshortore. Konstatimi i bashkëpronësisë bëhet duke u mbështetur në dispozitat e krerëve II, III ose IV, të këtij urdhri, në varësi të kohës kur është fituar pasuria (dhe të ligjit të kohës).

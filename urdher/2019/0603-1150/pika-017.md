@@ -1,0 +1,1 @@
+17. Krahas procedurave të korrigjimit sipas këtij urdhri, drejtoria vendore e ASHK-së, me kërkesë të të interesuarit lëshon edhe certifikatat e reja, sipas gjendjes së korrigjuar, në përputhje me nenin 17, të ligjit nr. 111/2018 “Për kadastrën”.

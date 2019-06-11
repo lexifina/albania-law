@@ -1,0 +1,1 @@
+7. Të gjitha pasuritë e fituara nga individi gjatë martesës, në periudhën nga hyrja në fuqi e Kodit Civil të vitit 1981, deri në hyrjen në fuqi të Kodit të Familjes (2003), konsiderohen pasuri të të dy bashkëshortëve, pavarësisht nga mënyra e fitimit të të drejtës së pronësisë.

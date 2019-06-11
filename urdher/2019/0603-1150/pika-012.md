@@ -1,0 +1,2 @@
+12. Në rastet kur është regjistruar dëshmia e trashëgimisë ligjore/testamentare të njërit bashkëshort/trashëgimlënës dhe prona nuk ka pësuar transaksione të tjera, nëse nuk ka gjetur pasqyrim në kartelë pjesa e prezumuar përfituese e bashkëshortit tjetër, atëherë me kërkesë të këtij të fundit, bëhet korrigjimi i pjesëve takuese duke përfshirë edhe 1/2 pjesë të prezumuar në bashkëpronësi të bashkëshortit dhe duke njoftuar të gjitha palët e interesuara.
+VI. PROCEDURA E KORRIGJIMIT GJATË REGJISTRIMIT TË KONTRATËS SË KALIMIT TË PRONËSISË OSE AKTIT TË TRASHËGIMISË
