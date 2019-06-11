@@ -1,0 +1,26 @@
+{
+  "qbz_id": 59861,
+  "title": "Për shfuqizimin e dekretit nr. 10928, datë 5.11.2018 të Presidentit të Republikës “Për caktimin e datës së zgjedhjeve për organet e qeverisjes vendore”",
+  "type": "Dekret",
+  "kind": "Akt shfuqizues",
+  "number": "11199",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2019-06-10",
+  "published": "2019-06-11",
+  "in_force": "2019-06-11",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/61a30e987d6aa99388307c821fe7dc62b0224801f9d9f5f2c82cfab267ae6b8b.docx",
+  "source_sha256": "61a30e987d6aa99388307c821fe7dc62b0224801f9d9f5f2c82cfab267ae6b8b",
+  "official_record": "https://qbz.gov.al/api/v1/acts/59861",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2019/06/10/11199",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
