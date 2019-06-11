@@ -1,0 +1,2 @@
+14. Ngarkohen për zbatimin e këtij udhëzimi, Ministria e Arsimit, Sportit dhe Rinisë, Ministria e Financave dhe Ekonomisë, Qendra e Shërbimeve Arsimore, Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve, Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar, Drejtoria e Përgjithshme e Arsimit Parauniversitar dhe drejtoritë rajonale të arsimit parauniversitar/zyrat vendore të arsimit parauniversitar.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

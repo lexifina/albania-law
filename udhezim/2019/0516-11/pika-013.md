@@ -1,0 +1,1 @@
+13. Shpenzimet e përfaqësuesve të MASR-së, në monitorimin e provimeve të maturës shtetërore profesionale 2019, sesioni i dytë, të mbulohen sipas akteve ligjore dhe nënligjore në fuqi, nga institucionet e përcaktuara në këtë udhëzim.

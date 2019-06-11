@@ -1,0 +1,1 @@
+6. Maturantët/kandidatët e përcaktuar në pikën 4, germat “b”, “c” dhe “d”, të plotësojnë formularin AlZ për dhënien e provimeve të sesionit të dytë të maturës shtetërore profesionale, nëse nuk e kanë plotësuar atë në sesionin e parë. Këta kandidatë të plotësojnë formularin A1Z në datat 21-23 gusht 2019.

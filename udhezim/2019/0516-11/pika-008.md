@@ -1,0 +1,1 @@
+8. Provimet të zhvillohen të përqendruara në institucionin arsimor vendor, përgjegjës për arsimin parauniversitar. Zyra Vendore e Arsimit Parauniversitar Tropojë, Lushnjë dhe Sarandë t’i zhvillojnë provimet në qytetet e tyre. Zyra Vendore e Arsimit Parauniversitar Delvinë t’i zhvillojë provimet në qytetin e Sarandës.

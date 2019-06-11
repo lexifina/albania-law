@@ -1,0 +1,1 @@
+9. Institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar dhe drejtoritë e shkollave të marrin masa për njoftimin e maturantëve/kandidatëve për datat, mjedisin dhe orën kur do të zhvillohet secili nga provimet e maturës shtetërore profesionale 2019, sesioni i dytë.

@@ -1,0 +1,1 @@
+10. Drejtori i institucionit arsimor vendor, përgjegjës për arsimin parauniversitar, brenda datës 20 gusht 2019, të njoftojë zyrtarisht QSHA-në dhe MASR-në për mjedisin ku do të zhvillohen provimet e maturës shtetërore profesionale 2019, sesioni i dytë dhe për listën e shkollave që marrin pjesë në provimet e maturës shtetërore profesionale 2019, sesioni i dytë.
