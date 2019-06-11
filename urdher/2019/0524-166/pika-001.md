@@ -1,0 +1,1 @@
+1. Miratimin e procedurave dhe dokumentacionin për pajisjen me licencë “Importi të substancave ozonholluese”, kodi III.3, si dhe procedurave për pezullimin/revokimin e saj, sipas tekstit dhe shtojcës 1/a dhe 1/b bashkëlidhur, pjesë përbërëse e këtij urdhri.
