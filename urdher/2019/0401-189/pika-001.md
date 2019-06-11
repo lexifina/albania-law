@@ -2,7 +2,7 @@
 a) hartimin dhe zbatimin e politikave në fushën e arsimit të lartë dhe kërkimit shkencor;
 b) hartimin, plotësimin dhe përmirësimin e kuadrit ligjor e nënligjor, për organizimin dhe veprimtarinë në fushat e arsimit të lartë dhe kërkimit shkencor;
 c) ndjekjen, monitorimin dhe konfirmimin e regjistrimeve të diplomave të ciklit të tretë në regjistrin shtetëror të gradave shkencore dhe titujve akademikë;
-d) regjistrimin, monitorimin dhe konfirmimin e njohjes dhe njësimit të diplomave të ciklit të tretë të lëshuara nga institucionet e huaja të arsimit të lartë;
+d) regjistrimin, monitorimin dhe konfirmimin e njohjes dhe njësimit të diplomave të ciklit të tretë dhe/ose titujve akademikë të lëshuar nga institucionet e huaja të arsimit të lartë;
 e) kryesimin dhe monitorimin e veprimtarisë së grupeve të punës për hartimin dhe miratimin e akteve nënligjore në zbatim të ligjit nr. 80/2015 “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”;
 f) përmbushjen e objektivave të parashikuar në Planin 300-ditor të Qeverisë, për pjesën që i përket arsimit të lartë dhe kërkimit shkencor;
 g) koordinimin me agjencitë dhe bordet përkatëse të administrimit, në varësi të Ministrisë së Arsimit, Sportit dhe Rinisë, që mbulojnë fushën e arsimit të lartë dhe kërkimit shkencor;
