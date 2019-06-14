@@ -301,10 +301,10 @@ Mësuesi arsimi fillor
 Mësuesi arsimi parashkollor
 7
 14
-Pedagogji muzikore
+Shfuqizuar
 7
 15
-Pikturë e grafikë
+Shfuqizuar
 7
 16
 Psikologji
