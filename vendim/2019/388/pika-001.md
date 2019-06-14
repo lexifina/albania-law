@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 274/18, zona kadastrale 3115, Bashkia Përmet, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, bashkëlidhur këtij vendimi.
