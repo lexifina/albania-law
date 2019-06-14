@@ -1,0 +1,1 @@
+13. Njësia e vetëqeverisjes vendore garanton që viktimat e dhunës në familje të përfitojnë nga njëri prej programeve sociale të strehimit. Këshilli i njësisë së vetëqeverisjes vendore, për strehimin e viktimave të dhunës në familje, vendos, me procedurë të përshpejtuar, menjëherë me paraqitjen e rastit për vendimmarrje.

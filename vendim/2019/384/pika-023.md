@@ -1,0 +1,1 @@
+23. Individi/familjet, i cili/të cilat ka/në aplikuar sipas akteve ligjore në fuqi, para hyrjes në fuqi të ligjit nr. 22/2018, “Për strehimin social”, dhe që nuk është/janë trajtuar me strehim, vijon/vijojnë të jetë/jenë i/të përfshirë/a në listën e aplikantit/aplikantëve për programet e strehimit.

@@ -1,0 +1,1 @@
+18. Struktura përgjegjëse për strehimin në njësinë e vetëqeverisjes vendore, menjëherë, por jo më vonë se brenda 3 (tri) ditëve pas hartimit të listës përfundimtare të aplikantëve, ia dërgon atë për miratim këshillit të njësisë së vetëqeverisjes vendore, i cili e shqyrton atë dhe merr vendim në mbledhjen e radhës.

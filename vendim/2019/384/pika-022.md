@@ -1,0 +1,1 @@
+22. Njësitë e vetëqeverisjes vendore informojnë çdo vit ministrinë përgjegjëse për strehimin për nevojat për strehim, të identifikuara në përputhje me këtë vendim, nëpërmjet aplikimeve për strehim social.
