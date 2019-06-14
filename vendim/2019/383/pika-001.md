@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2019, i shtohet fondi prej 10 000 000 (dhjetë milionë) lekësh, për kompensimin e veçantë të familjeve të ushtarakëve nëntetar Zarife Muharrem Hasanaj dhe major Klodian Nikolla Tanushi, të cilët humbën jetën gjatë kryerjes së detyrës, në mision ushtarak, jashtë vendit.
