@@ -1,0 +1,1 @@
+2. Për qëllime të këtij vendimi, “Pasaportë diplomatike apo shërbimi” është dokumenti i udhëtimit që vërteton identitetin dhe shtetësinë shqiptare të mbajtësve të saj dhe që lëshohet për kategoritë e përcaktuara në lidhjen 1 “Pasaportat diplomatike” dhe lidhjen 2 “Pasaportat e shërbimit”, që i bashkëlidhen këtij vendimi.

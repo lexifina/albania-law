@@ -1,0 +1,1 @@
+3. Në rastin kur mbajtësi i pasaportës diplomatike apo Shërbimit lë funksionin për të cilin është pajisur me këtë pasaportë, ajo duhet të dorëzohet brenda 45 (dyzet e pesë) ditëve kalendarike pranë ministrisë përgjegjëse për Punët e Jashtme, me përjashtim të rasteve kur me ligj parashikohet ndryshe.

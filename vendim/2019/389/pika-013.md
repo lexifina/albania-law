@@ -1,0 +1,1 @@
+13. Vendimi nr. 335, datë 2.9.1997, i Këshillit të Ministrave, “Për pajisjen me pasaporta diplomatike dhe shërbimi”, dhe aktet e tjera ndryshuese në zbatim të tij shfuqizohen me hyrjen në fuqi të këtij vendimi.

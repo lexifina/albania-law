@@ -1,0 +1,1 @@
+4. Institucionet publike njoftojnë, brenda 15 (pesëmbëdhjetë) ditëve nga dorëzimi i detyrës, ministrinë përgjegjëse për punët e jashtme për datën dhe emrin e subjektit që ka lënë funksionin, për të cilin është pajisur me pasaportë diplomatike apo shërbimi.
