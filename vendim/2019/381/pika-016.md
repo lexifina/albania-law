@@ -1,0 +1,1 @@
+16. Ofertat duhet të dorëzohen në zarf të mbyllur, në adresën e përcaktuar në ftesën për ofertë, brenda afatit kohor, të përcaktuar si afati i fundit për dorëzimin e tyre. Çdo ofertë e dorëzuar pas afatit të përcaktuar në ftesën për ofertë nuk shqyrtohet nga komisioni dhe i kthehet e pahapur ofertuesit.

@@ -1,0 +1,4 @@
+4. Personat juridikë publikë, të përcaktuar në nenin 5, pika 1/1, të ligjit nr. 10018, datë 13.11.2008, “Për Avokaturën e Shtetit”, të ndryshuar, me kërkesë të motivuar, drejtuar Avokatit të Përgjithshëm të Shtetit, duhet të parashtrojnë nevojën për asistencë juridike. Në çdo rast, kërkesa, drejtuar Avokatit të Përgjithshëm të Shtetit, duhet të përmbajë:
+a) argumentimin e fakteve e të rrethanave që kanë çuar në këtë kërkesë, si dhe nevojën apo natyrën e asistencës juridike të kërkuar;
+b) identifikimin, për aq sa është e mundur në këtë fazë të procesit, të çështjeve apo të detyrave konkrete, të cilat duhet të plotësohen nga avokati apo zyra e avokatisë vendase ose e huaj;
+c) angazhimin dhe përshkrimin e masave, të cilat do të ndërmerren nga ana e personit juridik për përballimin e të gjitha shpenzimeve ekonomike, të cilat do të rezultojnë në kuadër të ofrimit të asistencës juridike.
