@@ -68,78 +68,8 @@ Ankimet
 Avokatët e Shtetit apelojnë ose paraqesin rekurs për të gjitha ato vendime që dëmtojnë të drejtat ose interesat e institucioneve shtetërore dhe enteve publike të asistuar prej tyre, përveç rasteve kur organi i interesuar iu kërkon me shkrim të kundërtën.
 KREU III
 KONTRAKTIMI I AVOKATËVE NË PROFESION TË LIRË NGA AVOKATURA E SHTETIT
-Neni 11
-Kontraktimi i avokatëve me profesion të lirë
-1. Në çështje të rëndësishme për interesat e shtetit ose kur natyra e çështjes kërkon juristë të specializuar në fusha të veçanta, Avokati i Përgjithshëm i Shtetit, me miratimin e Ministrit të Drejtësisë, kontrakton avokatë ose zyra avokatie në profesion të lirë, vendase ose të huaja, që do të përfaqësojnë dhe mbrojnë interesat e shtetit shqiptar.
-Neni 12
-Kriteret dhe fillimi i procedurës së kontraktimit
-1. Kriteret për kontraktimin e avokatëve me profesion të lirë janë:
-a) çështja është me rëndësi të veçantë për interesat e shtetit;
-b) çështja ka një natyrë të veçantë dhe të ndërlikuar juridike dhe kërkon njohuri juridike të specializuara në një fushë të caktuar;
-c) nuk ka ekzistuar një praktikë juridike e mëparshme nga Avokatura e Shtetit;
-ç) çështja ka si objekt dëmshpërblimin për shuma më të mëdha se 10.000.000 (dhjetë milionë) lekë;
-d) në raste të tjera të veçanta të çmuara nga Avokati i Përgjithshëm i Shtetit.
-2. Në çdo rast, për fillimin e procedurës Avokati i Përgjithshëm i Shtetit duhet të argumentojë nevojën e kontraktimit të avokatëve ose zyrave të avokatisë vendase ose të huaja dhe të marrë paraprakisht mendimin e organit të administratës shtetërore apo entit publik, që është palë në gjykim, duke arsyetuar rëndësinë e çështjes apo veçantinë e saj.
-3. Avokati i Përgjithshëm i Shtetit i paraqet Ministrit të Drejtësisë kërkesën me shkrim, në të cilën motivon nevojën për kontraktimin e avokatëve me profesion të lirë për shkak të rëndësisë dhe natyrës së çështjes. Ai i bashkëngjit kësaj kërkese edhe një kopje të mendimit paraprak të organit të administratës shtetërore apo entit publik.
-4. Ministri i Drejtësisë shprehet lidhur me kërkesën brenda 5 ditëve nga marrja e saj. Në rast se Ministri i Drejtësisë nuk përgjigjet brenda këtij afati, kërkesa konsiderohet e miratuar.
-Neni 13
-Procedura e kontraktimit
-1. Pas miratimit të kërkesës nga Ministri i Drejtësisë, Avokati i Përgjithshëm i Shtetit nxjerr urdhër për fillimin e procedurave për kontraktimin e avokatëve apo zyrave të avokatisë, vendase ose të huaja, duke përcaktuar, për çdo rast, nevojën e kontraktimit, kushtet e veçanta që duhet të plotësohen nga avokatët apo zyrat e avokatisë, objektin e punës/llojet e shërbimeve të kërkuara, si dhe përbërjen e komisionit për ndjekjen e procedurave.
-2. Në varësi të çështjes për të cilën kërkohet mbrojtja apo përfaqësimi, kriteret e përgjithshme, për përzgjedhjen e avokatëve apo zyrave të avokatisë, janë:
-a) vendi i ushtrimit të aktivitetit duhet të jetë i njëjtë me atë të selisë së organit pranë të cilit kryhet përfaqësimi;
-b) specialiteti i avokatit/ zyrës së avokatisë në fushën e objektit të çështjes për të cilën është vendosur fillimi i procedurës së kontraktimit;
-c) numri i çështjeve të fituara në procedime të ngjashme;
-ç) besueshmëria dhe reputacioni.
-Neni 14
-Detyrat e komisionit të procedurave
-1. Komisioni për ndjekjen e procedurave dhe hartimin e dokumentacionit përkatës përbëhet nga 3 anëtarë, të cilët caktohen në urdhrin për fillimin e procedurave për kontraktimin.
-2. Komisioni, brenda 5 ditëve nga data e daljes së urdhrit, u shpërndan, me korrespondencë zyrtare, avokatëve apo zyrave të avokatisë, vendase apo të huaja, ftesën për negociata. Ftesa për negociata publikohet edhe në faqen zyrtare të Avokaturës së Shtetit.
-3. Ftesa për negociata duhet të përmbajë specifikimin e objektit dhe llojit të shërbimit të kërkuar, nevojën e kontraktimit të avokatëve apo zyrave të avokatisë, vendase apo të huaja, kriteret e përgjithshme e të veçanta që duhet të plotësohen nga avokatët apo zyrat e avokatisë, dhe datën përfundimtare të pranimit të kërkesës nga të interesuarit.
-4. Komisioni pret konfirmimin nga avokatët apo zyrat e avokatisë, për vazhdimësinë e negociatave, brenda afatit të fundit të paraqitur në ftesën për negociata. Konfirmimi për vazhdimësinë e negociatave shoqërohet me çmimin përkatës për kryerjen e shërbimeve të përfaqësimit apo mbrojtjes. Konfirmimet për vazhdimësinë e negociatave vijnë të mbyllura dhe hapen njëkohësisht, në prani të anëtarëve të komisionit në një ditë të vetme.
-5. Pas analizimit të ofertave të paraqitura nga avokatët apo zyrat e avokatisë, vendase apo të huaja, komisioni përzgjedh, në bazë të pikëve, avokatin apo zyrën e avokatisë, vendase apo të huaj, duke u bazuar në kriteret e përcaktuara në nenin 13 dhe në ftesën për negocim.
-6. Brenda 2 ditëve nga përfundimi i procedurës së përzgjedhjes, komisioni harton një raport të hollësishëm për të gjithë procedurën e ndjekur, avokatët/zyrat e avokatisë që kanë marrë pjesë dhe avokatin/ zyrën e avokatisë së përzgjedhur, të cilin ia paraqet Avokatit të Përgjithshëm të Shtetit së bashku me klasifikimin përfundimtar të avokatëve/zyrave të avokatisë sipas pikëve.
-7. Avokati i Përgjithshëm, në bazë të rekomandimit të dhënë nga komisioni i vlerësimit, vendos, brenda 2 ditëve nga data e paraqitjes së rekomandimit dhe ia dërgon vendimin e tij për miratim Ministrit të Drejtësisë, duke njoftuar njëkohësisht avokatët/zyrat e avokatisë që kanë marrë pjesë, si dhe organin e përfaqësuar.
-8. Organi i përfaqësuar mund të paraqesë me shkrim brenda tri ditëve te Ministri i Drejtësisë kundërshtimet e veta në lidhje me çmimin e shërbimit. Në rast se organi i përfaqësuar nuk paraqet kundërshtime me shkrim brenda këtij afati, çmimi i shërbimit konsiderohet i pranuar prej tij.
-Neni 15
-Miratimi i kontraktimit
-1. Avokatët apo zyrat e avokatisë të interesuara mund të ankohen lidhur me procedurën e kontraktimit brenda 5 ditëve nga vendimi i Avokatit të Përgjithshëm të Shtetit. Ankesat për procedurën e kontraktimit paraqiten në çdo rast me shkrim dhe i drejtohen Ministrit të Drejtësisë. Ministri i Drejtësisë shprehet me vendim lidhur me ankesën, brenda 2 ditëve nga marrja e saj dhe njofton ankuesin dhe Avokatin e Përgjithshëm të Shtetit me shkrim.
-2. Në përfundim, Ministri i Drejtësisë brenda 7 ditëve nga paraqitja e vendimit nga Avokati i Përgjithshëm i Shtetit miraton kontraktimin e avokatit/zyrës së avokatisë. Në rast se Ministri i Drejtësisë nuk përgjigjet brenda këtij afati, vendimi i kontraktimit konsiderohet i miratuar. Në vijim, Avokati i Përgjithshëm i Shtetit lidh kontratën me avokatin apo zyrën e avokatisë, vendase apo të huaj, për kryerjen e shërbimit të përfaqësimit dhe të mbrojtjes.
-3. Avokati i Përgjithshëm përcakton një avokat shteti për ndjekjen e çështjes deri në përfundim të saj, i cili do të ketë kryesisht funksione mbikëqyrjeje, koordinimi dhe komunikimi me subjektin e përzgjedhur. Pas lidhjes së kontratës, sipas kësaj pike, Avokati i Përgjithshëm i Shtetit merr masa për të pajisur avokatin/zyrën e avokatisë së përzgjedhur me autorizimin përkatës nga ana e titullarit të institucionit shtetëror ose entit publik të interesuar.
 KREU IV
 KONTRAKTIMI I AVOKATËVE NË PROFESION TË LIRË KUR ASISTENCA JURIDIKE KËRKOHET NGA ORGANI I ADMINISTRATËS PUBLIKE APO ENTIT PUBLIK
-Neni 16
-Kontraktimi i avokatëve në profesion të lirë
-1. Organi i administratës publike apo entit publik, kur ka nevojë të asistohet në veprimtarinë juridike, veçanërisht në procesin e lidhjes së kontratave, kërkon mendim këshillimor me shkrim nga Avokatura e Shtetit.
-2. Kur Avokatura e Shtetit deklaron me shkrim se nuk është në gjendje që të ofrojë asistencë juridike për këtë rast, atëherë organi administrates shtetërore ose entit publik fillon procedurat e parashikuara në nenin 17 për kontraktimin e avokatëve/zyrave të avokatisë në profesion të lirë.
-Neni 17
-Kushtet për fillimin e procedurës së kontraktimit të avokatëve në profesion të lirë
-1. Fillimi i procedurës së parashikuar në pikën 2 të nenit 16 bëhet kur:
-a) çështja është me rëndësi të veçantë për interesat e shtetit;
-b) çështja ka një natyrë të veçantë dhe të ndërlikuar juridike dhe kërkon njohuri juridike të specializuara në fushë të caktuar;
-c) çështja ka vlerë objekti shuma më të mëdha se 10 000 000 (dhjetë milionë) lekë;
-ç) në raste të tjera të veçanta të çmuara nga organi i administratës publike apo entit publik.
-2. Për fillimin e procedurës, titullari i organit të administratës publike apo entit publik me kërkesë drejtuar Avokaturës së Shtetit duhet të argumentojë nevojën e kontraktimit të avokatëve/zyrave të avokatisë në profesion të lirë, vendase ose të huaja, duke arsyetuar rëndësinë e çështjes dhe veçantinë e saj.
-3. Avokatura e Shtetit pasi shqyrton rastin, i paraqet Ministrit të Drejtësisë kërkesën me shkrim, në të cilin motivon nevojën e kontraktimit të avokatëve/zyrave të avokatisë në profesion të lirë për shkak të rëndësisë dhe natyrës së çështjes. Kërkesës së Avokaturës së Shtetit i bashkëngjitet edhe kërkesa e titullarit të administratës publike apo entit publik.
-Neni 18
-Procedura e kontraktimit
-1. Pas miratimit të kërkesës, Ministri i Drejtësisë nxjerr urdhër për fillimin e procedurave për kontraktimin e avokatëve/zyrave të avokatisë në profesion të lirë, duke përcaktuar, për çdo rast, nevojën e kontraktimit, kushtet e veçanta që duhet të plotësohen nga avokatët apo zyrat e avokatisë, objektin e punës/llojet e shërbimeve të kërkuara, si dhe përbërjen e komisionit për ndjekjen e procedurave.
-2. Në varësi të çështjes për të cilën kërkohet këshillimi, kriteret e përgjithshme, për përzgjedhjen e avokatëve apo zyrave të avokatisë, janë:
-a) specialiteti i avokatit/ zyrës së avokatisë në fushën ku kërkohet këshillimi juridik;
-b) përvoja në fushën e këshillimit;
-c) besueshmëria dhe reputacioni.
-Neni 19
-Detyrat e komisionit të procedurave
-1. Komisioni për ndjekjen e procedurave dhe hartimin e dokumentacionit përkatës përbëhet nga 3 anëtarë të cilët caktohen në urdhrin për fillimin e procedurave për kontraktimin.
-2. Komisioni, brenda 5 ditëve nga data e daljes së urdhrit, u shpërndan, me korrespondencë zyrtare, avokatëve/zyrave të avokatisë në profesion të lirë ftesën për negociata. Ftesa për negociata publikohet edhe në faqen zyrtare të organit të admistratës publike apo entit publik.
-3. Ftesa për negociata duhet të përmbajë specifikimin e objektit dhe llojit të shërbimit të kërkuar, nevojën e kontraktimit të avokatëve/zyrave të avokatisë në profesion të lirë, kriteret e përgjithshme e të veçanta që duhet të plotësohen nga avokatët apo zyrat e avokatisë, dhe datën përfundimtare të pranimit të kërkesës nga të interesuarit.
-4. Komisioni pret konfirmimin nga avokatët/zyrat e avokatisë në profesion të lirë, për vazhdimësinë e negociatave, brenda afatit të fundit të paraqitur në ftesën për negociata. Konfirmimi për vazhdimësinë e negociatave shoqërohet me çmimin përkatës për kryerjen e shërbimeve të këshillimit. Konfirmimet për vazhdimësinë e negociatave vijnë të mbyllura dhe hapen njëkohësisht, në prani të anëtarëve të komisionit në një ditë të vetme.
-5. Pas analizimit të ofertave, të paraqitura nga avokatët/zyrat e avokatisë, komisioni përzgjedh, në bazë të pikëve, avokatin apo zyrën e avokatisë, duke u bazuar në kriteret e përgjithshme dhe të veçanta, të përcaktuara në nenin 18 dhe në ftesën për negocim.
-6. Brenda 2 ditëve nga përfundimi i procedurës së përzgjedhjes, komisioni harton një raport të hollësishëm për të gjithë procedurën e ndjekur, avokatët/zyrat e avokatisë që kanë marrë pjesë dhe avokatin/ zyrën e avokatisë së përzgjedhur, të cilin ia paraqet Ministrit të Drejtësisë, së bashku me klasifikimin përfundimtar të avokatëve/zyrave të avokatisë sipas pikëve. Ky raport i njoftohet njëkohësisht avokatëve/zyrave të avokatisë që kanë marrë pjesë, si dhe organit shtetëror që kërkon kontraktimin.
-Neni 20
-Miratimi i kontraktimit
-1. Avokatët/zyrat e avokatisë të interesuara apo organi shtetëror që kërkon kontraktimin mund të ankohen lidhur me procedurën e përzgjedhjes brenda 5 ditëve nga dita e njoftimit. Ankesat paraqiten në çdo rast me shkrim dhe i drejtohen Ministrit të Drejtësisë. Ministri i Drejtësisë shprehet me vendim lidhur me ankesën, brenda 2 ditëve nga marrja e saj, dhe njofton ankuesin dhe titullarin e organit të administratës publike apo entit publik me shkrim.
-2. Në përfundim, Ministri i Drejtësisë brenda 7 ditëve nga paraqitja e raportit prej komisionit vleftëson procedurën e përzgjedhjes dhe njofton organin e administratës shtetërore apo entin publik për kontraktimin e avokatit/zyrës së avokatisë. Në rast se Ministri i Drejtësisë nuk përgjigjet brenda këtij afati, procedura e përzgjedhjes konsiderohet e vlefshme. Në vijim, titullari i organit të administratës publike apo entit publik lidh kontratën me avokatin apo zyrën e avokatisë, për kryerjen e shërbimit të këshillimit.
-3. Titullari i organit të administratës publike apo entit publik përcakton një nëpunës të profilit jurist për ndjekjen e çështjes deri në përfundim të saj, i cili do të ketë kryesisht funksione mbikëqyrjeje, koordinimi dhe komunikimi me subjektin e përzgjedhur.
 KREU V
 PROCEDURAT E POSAÇME PËR USHTRIMIN E AKTIVITETIT TË AVOKATËVE TË SHTETIT DHE ROLI I AVOKATËVE TË SHTETIT NË GJYKIM
 Neni 21
