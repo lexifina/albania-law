@@ -1,6 +1,6 @@
 # Neni 8
-Detyrat dhe kompetencat e Institutit të Zhvillimit të Arsimit
-Instituti i Zhvillimit të Arsimit (IZHA) ka detyrat e mëposhtme:
+Detyrat dhe kompetencat e Agjencisë së Sigurimit të Cilësisë së Arsimit Parauniversitar (ASCAP)
+Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar (ASCAP) ka detyrat e mëposhtme:
 a) harton dhe publikon në faqen zyrtare të saj programet orientuese të testimit sipas profileve përkatëse, të cilat përmbajnë njohuritë dhe aftësitë bazë që duhet të zotërojë kandidati, si dhe referencat e literaturës;
 b) cakton hartuesit e fondit të pyetjeve me alternativa, që do të përdoret për çdo testim sipas profilit përkatës;
 c) merr në dorëzim zyrtarisht me procesverbal fondin e pyetjeve me alternativa të çdo profili, ku do të zhvillohet testimi, nga hartuesit e fondit të pyetjeve;
