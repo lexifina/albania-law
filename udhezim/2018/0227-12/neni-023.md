@@ -1,3 +1,3 @@
 # Neni 23
 Ruajtja e rezultatit të testimit të mëparshëm
-Në rast se kandidatët që aplikojnë për t’u punësuar në institucionet arsimore publike të arsimit parauniversitar dëshirojnë të mbartin pikët e testimeve të viteve të kaluara, ata nuk do t’i nënshtrohen testimit të informatizuar që zhvillohet në QSHA. Pikët që kanë grumbulluar nga testimet e viteve të kaluara, me kërkesë të kandidatëve, dërgohen nga njësia arsimore vendore në MASR dhe do të shërbejnë për renditjen përfundimtare që do të bëjë Qendra Ndërinstitucionale e Rrjetit Akademik Shqiptar.
+Për kandidatët që aplikojnë për t’u punësuar në institucionet arsimore publike të arsimit parauniversitar dhe dëshirojnë të mbartin pikët e testimit të portalit të një viti më parë, QSHA-ja tërheq nga DPAP-ja pikët e testimit të portalit të një viti më parë dhe bën konvertimin e tyre.
