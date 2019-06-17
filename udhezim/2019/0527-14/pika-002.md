@@ -1,0 +1,1 @@
+2. Të drejtën e pajisjes me kartë e ka çdo individ që gëzon statusin e studentit. Karta humbet vlefshmërinë dhe duhet të dorëzohet menjëherë me marrjen e diplomës të programit përkatës të studimit apo në rastet kur individi humbet statusin e studentit.

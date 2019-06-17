@@ -1,0 +1,1 @@
+8. Studenti që nuk arrin të përfundojë studimet brenda kohëzgjatjes normale të programit përkatës të studimit, ka të drejtë të riaplikojë për zgjatjen e afatit të vlefshmërisë së kartës, pas miratimit të zgjatjes së afatit nga IAL-ja përkatëse.

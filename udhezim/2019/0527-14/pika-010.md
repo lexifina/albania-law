@@ -1,0 +1,1 @@
+10. Procedurat për përgatitjen dhe lëshimin e kartës ndiqen nga ministria përgjegjëse për arsimin. Në rastet kur prodhimi dhe administrimi i kartës së studentit i delegohet njësisë së vetëqeverisjes vendore, procedura përkatëse për përgatitjen dhe lëshimin e saj, përcaktohen në marrëveshjen dypalëshe të nënshkruar për këtë qëllim.

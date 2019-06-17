@@ -1,0 +1,1 @@
+7. Karta lëshohet për të gjithë kohëzgjatjen normale të studimeve. Në rast dëmtimi apo kur studenti e humbet atë, studenti ka të drejtë të riaplikojë për një kartë të re, e cila lëshohet me të njëjtin afat vlefshmërie sa karta e parë.

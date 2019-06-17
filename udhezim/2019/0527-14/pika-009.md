@@ -1,0 +1,1 @@
+9. Me pezullimin apo largimin e studentit nga IAL-ja, sekretaria e IAL-së përkatëse duhet t’i tërheqë kartën e studentit, të kryejë brenda ditës procedurat e çregjistrimit, me qëllim asgjësimin e saj.
