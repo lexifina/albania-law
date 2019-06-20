@@ -1,0 +1,29 @@
+{
+  "qbz_id": 54990,
+  "title": "Mbi licencimin e shoqërisë “SANG 1” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Thirrë” me kapacitet të instaluar 1.820 mw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "83",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2019-05-31",
+  "published": "2019-06-20",
+  "in_force": "2019-06-20",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f0032bd629f41e8b151f6d8851cd15bad0b29267149c5b347f8c8714ef069a16.docx",
+  "source_sha256": "f0032bd629f41e8b151f6d8851cd15bad0b29267149c5b347f8c8714ef069a16",
+  "official_record": "https://qbz.gov.al/api/v1/acts/54990",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/05/31/83",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    54798,
+    20346
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
