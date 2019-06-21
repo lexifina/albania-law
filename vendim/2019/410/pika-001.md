@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 167/89, zona kadastrale 1031, Bashkia Durrës, sipas certifikatës së pronësisë të pasurisë, hartës treguese dhe lidhjes nr.1, bashkëlidhur këtij vendimi.
