@@ -1,0 +1,1 @@
+1. Bazuar në nenin 19, të ligjit nr. 72/2012, “Për organizimin dhe funksionimin e infrastrukturës kombëtare të informacionit gjeohapësinor në Republikën e Shqipërisë”, autoritetet publike shkëmbejnë ndërmjet tyre grupet dhe shërbimet e të dhënave gjeohapësinore, që kanë në administrim, vetëm për qëllime të realizimit të funksioneve të tyre publike.

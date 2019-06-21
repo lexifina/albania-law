@@ -1,0 +1,1 @@
+7. Marrja e informacionit, për çdo rast, realizohet në mënyrë automatike nga sistemi, pas plotësimit të fushave të nevojshme, të përcaktuara në manualin e hartuar dhe të publikuar nga ASIG-u, në Gjeoportalin Kombëtar.

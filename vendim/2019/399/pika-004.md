@@ -1,0 +1,1 @@
+4. Në asnjë rast të dhënat apo grupet e të dhënave gjeohapësinore, të marra me qëllim realizimin e funksioneve publike, nuk mund të përdoren për qëllime të tjera apo t’u vihen në dispozicion të tretëve, me përjashtim të ASIG-ut.

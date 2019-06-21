@@ -1,0 +1,1 @@
+9. Lejimi për shkarkimin e informacionit apo refuzimi i tij i shkojnë autoritetit publik (kërkuesit) me e-mail duke i dhënë edhe link-un e shërbimit të shkarkimit në rastin e pranimit të kërkesës dhe arsyen e moslejimit të shkarkimit në rastin e refuzimit.

@@ -1,0 +1,1 @@
+2. Për të dhënat gjeohapësinore që janë bërë pjesë e GIS-it Kombëtar dhe janë publikuar në Gjeoportalin Kombëtar shkëmbimi do të bëhet nëpërmjet përdorimit të shërbimeve të rrjetit të këtij gjeoportali, sipas përcaktimeve të kreut II, të këtij vendimi.
