@@ -6,10 +6,10 @@ DISPOZITA TË PËRGJITHSHME
 Neni 1
 Qëllimi
 Kjo rregullore përcakton:
-1. Kushtet dhe kriteret për klasifikimin e strukturave akomoduese;
-2. Procedurat, afatet dhe strukturat admini-strative për klasifikimin e strukturave akomoduese;
+1. Kushtet dhe kriteret për klasifikimin dhe kategorizimin e strukturave akomoduese;
+2. Procedurat, afatet dhe strukturat administrative për klasifikimin e strukturave akomoduese;
 3. Tarifat e aplikimit dhe kostot e verifikimit për marrjen e certifikatës së klasifikimit për secilën kategori të strukturave akomoduese.
-4. Kategorizimin e strukturave akomoduese.
+4. Shfuqizuar.
 Neni 2
 Fusha e zbatimit
 1. Kjo rregullore zbatohet për strukturat akomoduese të përcaktuara në ligjin nr. 93/2015, “Për turizmin”.
@@ -21,7 +21,7 @@ Përkufizime
 a) “Aplikim elektronik”, portali elektronik i ministrisë përgjegjëse për turizmin, i aksesueshëm nëpërmjet portalit të shërbimeve shtetërore elektronike, ku mundësohet aplikimi për klasifikimin e strukturave akomoduese dhe plotësimi i formularit të vetëdeklarimit, nëpërmjet mjeteve elektronike;
 b) “Bujtinë” (shtëpi pritëse), një strukturë akomoduese, një ndërtesë, një pjesë e së cilës përdoret si rezidencë e pronarit dhe ku ofrohet akomodim dhe ushqim për vizitorët, përkundrejt pagesës;
 c) “Certifikatë klasifikimi”, dokumenti i lëshuar nga komisioni i standardizimit të veprimtarive turistike për klasifikimin e strukturës akomoduese;
-c/1. Certifikatë kategorizimi, dokumenti i lëshuar nga komisioni i standardizimit të veprimtarive turistike për llojin e strukturës akomoduese;
+c/1 “Dokument kategorizimi” është certifikata e lëshuar nga Komisioni i Standardizimit të Veprimtarive Turistike për përmbushjen e kritereve lidhur me llojin e stukturës akomoduese.
 ç) “Fjetinë” (Hostel), ndërtesë që ofron akomodim dhe ushqim me çmime ekonomike, zakonisht për udhëtarë, studentë e punëtorë, ku dhoma ndahet mes disa klientëve të ndryshëm;
 d) “Fjetje dhe mëngjes (B&B)”, strukturë akomoduese që ofron shërbimin e fjetjes dhe të mëngjesit brenda çmimit të dhomës. Kjo strukturë akomoduese nuk ofron shërbim restoranti dhe ambiente të përbashkëta;
 dh) “Hotel”, ndërtesë me jo më pak se 6 dhoma, ku akomodimi dhe shërbimet si ushqim, pije etj., ofrohen nga një staf i kualifikuar, kundrejt një çmimi të afishuar;
@@ -52,11 +52,11 @@ d) “Motel”;
 dh) “Resort”;
 e) “Qendër kurative”;
 ë) “Fjetje dhe mëngjes” (B&B);
-3 Çdo sipërmarrës turistik që ushtron veprimtarinë si strukturë akomoduese duhet të pajiset me certifikatë kategorizimi.
-4. Mënyra dhe procedurat e kategorizimit të strukturave akomoduese përcaktohen me urdhër ministri.
+3. Çdo sipërmarrës turistik që ushtron veprimtarinë si strukturë akomoduese duhet të pajiset me dokument kategorizimi, i cili është i nevojshëm për përfitimin e lehtësirave fiskale, sipas legjislacionit në fuqi. Mënyra, kriteret dhe procedurat e kategorizimit të strukturave akomoduese përcaktohen me rregullore të miratuar me urdhër të ministrit përgjegjës për turizmin.
+4. Shfuqizuar.
 Neni 5
 Klasifikimi i strukturave akomoduese
-1. Komisioni kategorizon dhe klasifikon çdo strukturë akomoduese, mbështetur në kushtet dhe kriteret e parashikuar nga kjo rregullore dhe të aneksit nr. 1, “Kushtet dhe kriteret e klasifikimit”, bashkëlidhur.
+1. Komisioni kategorizon dhe klasifikon çdo strukturë akomoduese, mbështetur në kushtet dhe kriteret e parashikuar nga kjo rregullore dhe të aneksit nr. 1, “Kushtet dhe kriteret e klasifikimit”, bashkëlidhur. Kategorizimi i çdo strukture akomoduese bëhet sipas parashikimeve të pikës 3 të nenit 4.
 2. Për strukturat akomoduese “hotele”, certifikata e klasifikimit, sipas nivelit përkatës, lëshohet kur plotësohet totali i pikëve të kërkuara për secilin nivel klasifikimi, sipas aneksit 1/d. Pikët përftohen nga:
 - plotësimi i kritereve të detyrueshme, referuar nivelit përkatës;
 - plotësimi i disa prej kritereve me zgjedhje.
@@ -80,7 +80,8 @@ Procesi i verifikimit
 7. Kërkuesi, brenda 5 ditëve nga ngarkimi në sistem i formularit të plotësuar të verifikimit, mund t’i paraqesë, me shkrim, Komisionit, kundërshtimet e tij për rezultatet e verifikimit.
 8. Në rast se kërkuesi ka kundërshtuar rezultatet e verifikimit, Komisioni, brenda 15 ditëve nga paraqitja e këtij kundërshtimi, vendos nëse është e nevojshme kryerja e një verifikimi të strukturës ose zgjedhja e një vlerësuesi tjetër. Në rast të kundërt, Komisioni, në vendimin e tij, argumenton edhe arsyet e mosmarrjes në konsideratë të kundërshtimit të kërkuesit.
 Neni 7/1
-Për strukturat akomoduese me 4 apo 5 yje që janë mbajtëse të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “Brand name”, vlerësimi për klasifikimin e tyre bëhet nga ministria përgjegjëse për turizmin, me kërkesë të vetë sipërmarrësit turistik, deri në nënshkrimin e marrëveshjes me agjenci apo organizata ndërkombëtare, të mirënjohura në fushën e vlerësimit të strukturave akomoduese, sipas përcaktimeve të bëra në pikën 1, të nenit 7, të rregullores.
+1. Përjashtimisht, deri në nënshkrimin e marrëveshjes me agjenci apo organizata ndërkombëtare të mirënjohura në fushën e vlerësimit të strukturave akomoduese, sipas përcaktimeve të bëra në pikën 1, të këtij neni, verifikimi dhe vlerësimi i strukturave akomoduese me 4 apo 5 yje, që janë mbajtës të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “Brand name”, bëhet nga ministria përgjegjëse për turizmin, me kërkesë të vetë sipërmarrësit turistik.
+2. Procedura e klasifikimit për strukturat akomoduese me 4 apo 5 yje, që janë mbajtës të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “Brand name”, përcaktohet në rregulloren e miratuar me urdhër të ministrit përgjegjës për turizmin.
 Neni 8
 Vendimi i Komisionit
 1. Komisioni, brenda 30 ditëve nga data e depozitimit të formularit të verifikimit, shqyrton dhe vlerëson, në mënyrë tërësore, dokumentet dhe të dhënat e paraqitura nga kërkuesi, rezultatet e verifikimit, si dhe përmbushjen e kritereve të kërkuara për klasifikimin e strukturës akomoduese.
@@ -96,9 +97,9 @@ Neni 9
 Lëshimi i certifikatës së klasifikimit
 1. Komisioni, brenda 10 ditëve nga marrja e vendimit për përcaktimin e kategorisë dhe nivelit të klasifikimit, përgatit certifikatën e klasifikimit dhe njofton, me shkrim, kërkuesin, për vendimin e marrë.
 2. Certifikata e klasifikimit nënshkruhet nga ministri dhe përmban:
-a) emrin e shoqërisë dhe emërtimin e stru-kturës akomoduese;
+a) emrin e shoqërisë dhe emërtimin e strukturës akomoduese;
 b) kategorinë dhe nivelin e klasifikimit;
-c) datën e lëshimit të certifikatës së klasifi-kimit;
+c) datën e lëshimit të certifikatës së klasifikimit;
 ç) afatin e vlefshmërisë.
 3. Kërkuesi duhet të tërheqë certifikatën e klasifikimit brenda 30 ditëve nga data e njoftimit, në të kundërt, ai do të konsiderohet i paklasifikuar nga autoritetet e kontrollit dhe të inspektimit dhe do të mbajë përgjegjësi administrative, sipas legjislacionit në fuqi.
 4. Certifikata e klasifikimit, e lëshuar dhe e miratuar nga Komisioni, sipas formatit dhe modelit bashkëngjitur në aneksin nr. 2, është tregues i cilësisë së strukturës akomoduese dhe afishohet në recepsionin e strukturës akomo-duese.
