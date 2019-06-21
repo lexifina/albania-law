@@ -1,0 +1,1 @@
+3. Shuma e përcaktuar si detyrim në pikën 1, të këtij vendimi, të depozitohet në njërën nga bankat e nivelit të dytë, në emër të kërkueses Kleopatra Caka, në vlerën që shteti shqiptar detyrohet sipas vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 16.2.2017, për çështjen “Caka kundër Shqipërisë”, kërkesa nr. 74941/14.

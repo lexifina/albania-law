@@ -1,0 +1,1 @@
+5. Mbi shumën e përmendur në pikën 1, të këtij vendimi, duke filluar nga data 16.5.2017, deri në datën e ekzekutimit të këtij vendimi, të paguhen interesa të thjeshta, të barabarta me kursin marzhinal të huas së Bankës Qendrore Evropiane gjatë periudhës së mospagimit, plus tre për qind.

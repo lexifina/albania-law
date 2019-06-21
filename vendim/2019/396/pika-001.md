@@ -1,0 +1,1 @@
+1. Ekzekutimin e vendimit përfundimtar të Gjykatës Evropiane për të Drejtat e Njeriut, datë 16.2.2017, për çështjen “Caka kundër Shqipërisë”, kërkesa nr. 74941/14, për shumën 10 400 (dhjetë mijë e katërqind) euro, për kërkuesen Kleopatra Caka, në lidhje me dëmin pasuror dhe jopasuror, si dhe kostot e shpenzimet, duke e përjashtuar nga çdo taksë që mund të jetë e aplikueshme.
