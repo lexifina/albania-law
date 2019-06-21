@@ -1,0 +1,1 @@
+1. Miratimin e rregullave, të kritereve dhe të procedurave për përdorimin e shpellave për qëllime turistike, që synojnë miradministrimin dhe qeverisjen e kujdesshme, me qëllim mosdëmtimin e vlerave të tyre ekologjike, kulturore, historike, kurative, të gjetjeve paleontologjike, arkeologjike si dhe të mbishkrimeve prehistorike.

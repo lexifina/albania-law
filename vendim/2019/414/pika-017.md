@@ -1,0 +1,1 @@
+17. Inspektorati përgjegjës për mjedisin dhe agjencitë rajonale të zonave të mbrojtura (ADZM), sipas kompetencave, kontrollojnë përdorimin e shpellës, në përputhje me kërkesat e ligjit nr. 81/2017, “Për zonat e mbrojtura”, me përcaktimet e bëra në këtë vendim dhe në kontratën e nënshkruar.

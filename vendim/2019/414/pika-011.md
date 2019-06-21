@@ -1,0 +1,1 @@
+11. Pas miratimit nga ana e ministrit përgjegjës për zonat e mbrojtura mjedisore të marrjes në përdorim të shpellës, subjekti i interesuar, qoftë ky person fizik apo juridik, nënshkruan brenda 10 (dhjetë) ditëve kontratën e marrjes në përdorim me AKZM-në, e cila përmban rregullat e përdorimit të shpellës.

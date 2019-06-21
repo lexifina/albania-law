@@ -1,0 +1,1 @@
+13. Tarifa e marrjes në përdorim të shpellës llogaritet sipas aktit nënligjor për të ardhurat e gjeneruara nga tarifat, masa dhe kriteret e përdorimit të tyre, që autorizon ligji nr. 81/2017, “Për zonat e mbrojtura”.

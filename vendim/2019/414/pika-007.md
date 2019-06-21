@@ -1,0 +1,1 @@
+7. Ky projekt teknik paraqitet për miratim pranë AKZM-së dhe pas miratimit të tij subjektit të interesuar i lind e drejta e paraqitjes së kërkesës pranë këtij institucioni, për marrjen në përdorim të shpellës për qëllime turistike.

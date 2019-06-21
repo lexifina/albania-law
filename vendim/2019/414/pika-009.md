@@ -1,0 +1,1 @@
+9. AKZM-ja, pas shqyrtimit të kërkesës dhe dokumentacionit të kërkuar, brenda 30 (tridhjetë) ditëve nga momenti i dorëzimit të kërkesës dhe dokumentacionit përkatës nga subjekti i interesuar, bën vlerësimin e saj duke përgatitur një raport përmbledhës dhe e përcjell për miratim te ministri përgjegjës për zonat e mbrojtura mjedisore.

@@ -1,0 +1,1 @@
+14. Personi fizik apo juridik, që ka marrë në përdorim shpellën, nuk mund t’ia japë atë një personi tjetër ose të ndryshojë destinacionin e veprimtarisë për të cilin e ka marrë në përdorim apo të kryejë ndërhyrje jashtë projektit dhe të pamiratuara nga organet kompetente.

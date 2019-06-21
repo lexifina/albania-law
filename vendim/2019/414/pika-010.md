@@ -1,0 +1,1 @@
+10. Në rast se AKZM-ja konstaton se kërkesa e paraqitur nga subjekti i interesuar nuk plotëson kushtet dhe kriteret e përcaktuara në këtë vendim, AKZM-ja njofton subjektin për plotësimin e dokumentacionit brenda 10 (dhjetë) ditëve nga paraqitja e kërkesës. Mosplotësimi i dokumentacionit brenda afatit të kërkuar përbën kusht për refuzimin e kërkesës.
