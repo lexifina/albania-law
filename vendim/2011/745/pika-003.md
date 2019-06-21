@@ -1,1 +1,0 @@
-3. Anëtarëve të KKDM-së dhe KTPD-së për veprimtarinë e tyre në këto organizma u jepet shpërblim sipas mënyrës dhe masës së përcaktuar në mbështetje të nenit 4 të ligjit nr.10 405, datë 24.3.2011 “Për kompetencat për caktimin e pagave dhe shpërblimeve”.
