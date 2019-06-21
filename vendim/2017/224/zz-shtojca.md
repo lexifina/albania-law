@@ -236,13 +236,13 @@ Masa e shtesës mujore në lekë për muaj
 Në skuadrone dhe grupe të helikopterëve
 në bazën ajrore Farkë të Forcave të Armatosura
 Në strukturat
-e tjeratë bazës ajrore Farkë të Forcave të
+e tjera të bazës ajrore Farkë të Forcave të
 Armatosura
 Në strukturat
 e tjera të Forcave Ajrore
 Në strukturat
 e tjera
-të Forcavetë
+të Forcave të
 Armatosura
 1.
 Pilot
@@ -278,7 +278,7 @@ Kontrollor i trafikut ajror
 12.000
 12.000
 7.
-Teknik avionic/helikopteri
+Teknik avioni/helikopteri
 12.000
 10.000
 10.000
@@ -361,13 +361,13 @@ Komandant, Zv.Komandant dhe Funksionet me specialitet ”Polumbar” në Qendrë
 12.000
 10.
 3
-Kompanitë në Batalionin e Parë të Këmsorisë në Forcën Tokësore.
+Kompania e Parë e Këmbësorisë në Forcën Tokësore
 10.000
 11.
-Kompanitë në Batalionin e Dytë të Këmsorisë në Forcën Tokësore
+Kompania e Dytë e Këmbësorisë në Forcën Tokësore
 10.000
 12.
-Kompanitë në Batalionin e Tretë të Këmsorisë në Forcën Tokësore
+Kompania e Tretë e Këmbësorisë në Forcën Tokësore
 10.000
 13.
 Orkestra Frymore në Batalionin e Mbështetjes së SHPFA
@@ -417,7 +417,7 @@ Qendrën e Stërvitjes Bazë, që janë të emëruar në funksione dhe që kryej
 Qendrën e Stërvitjes Bazë deri në nivel kompanie
 5.000
 28.
-Strukturën e Rojes Bregdetare
+Strukturën e Rojës Bregdetare
 5.000
 29.
 Në nivel kompanie në Forcën Tokësore
@@ -427,10 +427,10 @@ Në Kurset në Akademinë e Nënoficerëve
 5.000
 31.
 6
-Oficerët me specialitete detare të emëruar në pozicione organike, që kërkojnë kryerjen e lundimeve
+Oficerët me specialitete detare të emëruar në pozicione organike, që kërkojnë kryerjen e lundrimeve
 3.000
 32.
-Funksione organike në Policinë Ushtarake te pa perfshira në pikat e mësipërme
+Funksione organike në Policinë Ushtarake te pa përfshira në pikat e mësipërme
 3.000
 33.
 Funksione organike në Forcën Tokësore të papërfshira në pikat e mësipërme
@@ -507,7 +507,7 @@ Në Agjencinë e Inteligjencës dhe Sigurisë së Mbrojtjes: Operator radiozbulu
 Në Institutin e Gjeografisë dhe Infrastrukturës Ushtarake: Specialist topogjeodet; Ushtarakë në seksionin e laboratorit dhe shtypit.
 2,200
 8
-Në të gjitha strukturat e Forcave të Armatosura: Shofer autoambulance; Shef karrofiçine; Fotograf; Bojaxhi; Marangoz; Specialist druri; Specialist duralumini; Veteriner; Specialist mirëmbajtje (mekanik, tornitor, kovaç, motorist, frezator, xhenerik, hekurkthyes; ribatinist); Specialist/nënoficer mbrojtjes konder kimike/MADM; Specialist në kartotekë; Telefonist i qendrës ndërlidhjes; Shef shëndetësisë; Mjek; Farmacist; Ndihmësfarmacist; Ndihmësmjek; Infermier; Kryeinfermier; Arkivist; Specialist arkivi;Shef sekretarisë, shifrës dhe arkivit; Shef i sektorit të administrimit të dokumentave;Ushtarakë në sektorin e evidencë (kartotrekës) në Shtabin e Përgjithshëm.
+Në të gjitha strukturat e Forcave të Armatosura: Shofer autoambulance; Shef karrofiçine; Fotograf; Bojaxhi; Marangoz; Specialist druri; Specialist duralumini; Veteriner; Specialist mirëmbajtje (mekanik, tornitor, kovaç, motorist, frezator, xhenerik, hekurkthyes; ribatinist); Specialist/nënoficer mbrojtjes konder kimike/MADM; Specialist në kartotekë; Telefonist i qendrës ndërlidhjes; Shef shëndetësisë; Mjek; Farmacist; Ndihmësfarmacist; Ndihmësmjek; Infermier; Kryeinfermier; Arkivist; Specialist arkivi; Shef sekretarisë, shifrës dhe arkivit; Shef i sektorit të administrimit të dokumenteve; Ushtarakë në sektorin e evidencë (kartotrekës) në Shtabin e Përgjithshëm.
 Në Njësinë e Mjekësisë Ushtarake, pranë Spitalit Universitar të Traumës: Teknicien i përgatitjes edukimit shëndetësor; Magazinier; Nënoficer furnizimi.
 Në të gjitha strukturat xheniere: Hekurkthyes; Ndihmëshekurkthyes.
 Në qendrën e Mirëmbajtjes në Detashmentin Ajror: Specialist elektrogazi dhe furnizimi;
