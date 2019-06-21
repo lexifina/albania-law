@@ -1,0 +1,1 @@
+8. Ngarkohet Bashkia Himarë për lidhjen e kontratës përkatëse me investitorin strategjik, në zbatim të këtij vendimi. Në këtë kontratë të parashikohen shprehimisht të drejtat e detyrimet e autoritetit kontraktues dhe të drejtat e detyrimet e investitorit, në funksion të projektit të investimit strategjik, si dhe penalitetet përkatëse.

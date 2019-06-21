@@ -1,0 +1,1 @@
+1. Lejimin e përdorimit të brigjeve të detit dhe të sipërfaqes përpara resortit për realizimin e projektit investues strategjik “White Rocks”, Gjilekë, Dhërmi, Himarë, zona kadastrale 1739, i cili ka përfituar statusin e investitorit strategjik, procedurë e asistuar, me vendimin nr.15/3, datë 4.3.2019, të Komitetit të Investimeve Strategjike (në vijim “KIS”).

@@ -1,0 +1,1 @@
+7. E drejta e përdorimit të brigjeve nga ana e investitorit strategjik “Eurocol” sh.p.k., me NUIS/NIPT J61810018B, koordinatat, sipërfaqja e lejuar për përdorim afatgjatë dhe kushtet e përdorimit bazohen në vendimin nr.15/3, datë 4.3.2019, të KIS-it, dhe në përputhje me përcaktimet e kontratës përkatëse që investitori strategjik duhet të lidhë me Bashkinë Himarë.

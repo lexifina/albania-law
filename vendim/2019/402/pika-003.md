@@ -1,0 +1,1 @@
+3. Bashkia Himarë ka detyrimin që, brenda 15 (pesëmbëdhjetë) ditëve, nga data e paraqitjes së kërkesës së investitorit strategjik “Eurocol” sh.p.k., të lidhë kontratën përkatëse për lejimin e përdorimit të brigjeve të detit, në përputhje me sipërfaqet dhe destinacionin e kërkuar nga subjekti, brenda koordinatave të sipërfaqes së lejuar nga vendimi i KIS-it.
