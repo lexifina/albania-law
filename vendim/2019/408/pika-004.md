@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë e llojit “tokë arë”, me vlerë 1 633 520.4 (një milion e gjashtëqind e tridhjetë e tre mijë e pesëqind e njëzet pikë katër) lekë, të përballohet nga buxheti i miratuar për vitin 2019, për Autoritetin Rrugor Shqiptar.
