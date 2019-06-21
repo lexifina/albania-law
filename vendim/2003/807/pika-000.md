@@ -1,1 +1,0 @@
-Përcaktimin e rregullave për dhënien në përdorim të shpellave për t’u vizituar, për qëllime shkencore, ekologjike, kulturore, historike, turistike, kurative, didaktike e fetare, duke u kujdesur që të mos dëmtohen vlerat e tyre.

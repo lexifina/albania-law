@@ -1,1 +1,0 @@
-7. Leja mjedisore miratohet nga Ministri i Mjedisit, i cili përcakton kushtet dhe rrethanat për përdorimin e shpellës dhe synon ruajtjen e gjendjes natyrore dhe të vlerave të saj. Leja mjedisore është e vlefshme për tre vjet, por mund të përtërihet edhe pas këtij afati.

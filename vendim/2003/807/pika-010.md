@@ -1,1 +1,0 @@
-10. Kur shpella që do të jepet në përdorim ndodhet në një territor pronë private, përgatitja dhe shpallja e saj për t’u dhënë në përdorim bëhen në marrëveshje me pronarin e tokës ku ndodhet shpella. Në këtë rast, është pronari i pari që mund të marrë shpellën në përdorim, me kusht që të zbatojë kërkesat e këtij vendimi.

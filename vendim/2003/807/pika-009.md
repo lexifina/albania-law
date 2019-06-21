@@ -1,1 +1,0 @@
-9. Personi fizik ose juridik, që merr leje për përdorimin e shpellës, lidh kontratë me komunën ku ndodhet ajo. Në kontratë përcaktohen koha e përdorimit dhe detyrimet e palëve, sipas kërkesave të Kodit Civil, të këtij vendimi dhe të kushteve të përcaktuara në lejen mjedisore.

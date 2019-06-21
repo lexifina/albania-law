@@ -1,1 +1,0 @@
-4. Projekti zbatohet nga subjekte publike ose private, që do të përzgjidhen sipas procedurave të tenderimit dhe që veprojnë nën mbikëqyrjen e agjencive rajonale të mjedisit, të administratës së zonës së mbrojtur dhe të strukturave përkatëse të turizmit e të pushtetit vendor.

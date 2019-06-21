@@ -1,1 +1,0 @@
-3. Përgatitja e shpellës për përdorim bëhet sipas një projekti, që ka parasysh karakteristikat dhe përbërësit individualë të çdo shpelle. Ky projekt miratohet nga Ministri i Mjedisit, në bashkëpunim me Ministrinë e Rregullimit të Territorit dhe të Turizmit, me Drejtorinë e Përgjithshme të Pyjeve e Kullotave, me institutet shkencore përkatëse dhe me OJF-të e specializuara.

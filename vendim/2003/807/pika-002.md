@@ -1,1 +1,0 @@
-2. Përgatitja e shpellës për përdorim bëhet veçmas për secilën prej tyre dhe nënkupton ndërhyrjet e veprimet mbrojtëse e restauruese, ngritjen e infrastrukturës, sistemet e kalimit, të ndriçimit, të kullimit të ujërave e të ventilimit, krijimin e mjediseve muzeale të njeriut të shpellave e të kafshëve të hershme.
