@@ -1,0 +1,1 @@
+2. Procedurat e ofrimit të shërbimeve statistikore, të parashikuara në këtë vendim, përcaktohen nga Instituti i Statistikave me rregullore të posaçme, e cila publikohet në faqen elektronike të institucionit.
