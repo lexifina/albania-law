@@ -1,0 +1,1 @@
+1. Miratimin e numrit të punonjësve me kontratë të përkohshme, për sezonin e verës 2019, në Agjencinë Kombëtare të Zonave të Mbrojtura, pranë Ministrisë së Turizmit dhe Mjedisit, gjithsej 420 (katërqind e njëzet) veta, për vendet e punës të përcaktuara në lidhjen nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
