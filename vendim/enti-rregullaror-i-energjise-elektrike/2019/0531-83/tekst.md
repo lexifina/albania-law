@@ -4,6 +4,10 @@ Nr. 83, datë 31.5.2019
 
 MBI LICENCIMIN E SHOQËRISË “SANG 1” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “THIRRË” ME KAPACITET TË INSTALUAR 1.820 mw
 
+(ndryshuar me vendimin e ERE-s nr. 107, datë 26.6.2019)
+
+(i përditësuar)
+
 	Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, nenit 4, pika 1, germa “a”, nenit 5, pika 1, germa “a” dhe nenit 13, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e bordit të ERE-s nr. 109, datë 29.6.2016, dhe nenit 15 të “Rregullave të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s në mbledhjen e tij të datës 31.5.2019, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut mbi licencimin e shoqërisë “Sang 1” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike, 
 
 konstatoi se: 
@@ -54,7 +58,11 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Sang 1” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Thirrë”, me kapacitet të instaluar 1820 kw, për një afat 30-vjeçar.
 
-2. Shoqëria “SANG 1” sh.p.k, të depozitojë në ERE, lejen e rinovuar të përdorimit të burimit ujor nr. 97 prot., datë 8.5.2017, përpara datës 27.4.2022.
+2. Shoqëria “SANG 1” sh.p.k., të depozitojë në ERE:
+
+2.1 Lejen e rinovuar të përdorimit të burimit ujor nr. 97 prot., datë 8.5.2017, përpara datës 27.4.2022.
+
+2.2 Dokumentacion që vërteton mbështetjen financiare të shoqërisë për ndërtimin e impiantit prodhues, brenda 3 muajve nga marrja dijeni e këtij vendimi.
 
 3. Drejtoria e Licencimit dhe e Monitorimit të Tregut të njoftojë aplikuesin për vendimin e Bordit të ERE-s.
 
