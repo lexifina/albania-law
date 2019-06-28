@@ -1,1 +1,1 @@
-1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2019, t’i shtohet fondi prej 130 000 000 (njëqind e tridhjetë milionë) lekësh, për organizimin e zgjedhjeve për organet e vetëqeverisjes vendore të datës 30 qershor 2019.
+1. Komisionit Qendror të Zgjedhjeve, në buxhetin e miratuar për vitin 2019, t’i shtohet fondi prej 200 000 000 (dyqind milionë) lekësh, për organizimin e zgjedhjeve për organet e vetëqeverisjes vendore të datës 30 qershor 2019.
