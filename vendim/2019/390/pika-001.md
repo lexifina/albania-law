@@ -1,0 +1,1 @@
+1. Autorizimin e drejtorit të Përgjithshëm të Agjencisë Kombëtare të Shoqërisë së Informacionit për negociimin e nënshkrimin e rinovimit të marrëveshjes së partneritetit strategjik, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe shoqërisë “Microsoft Corporation”.
