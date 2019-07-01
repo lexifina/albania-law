@@ -1,0 +1,1 @@
+12. QKVT-ja ka stemën, logon dhe vulën e saj zyrtare. Stema e QKVT-së përbëhet nga stema e Republikës së Shqipërisë me shënimet “Republika e Shqipërisë, Ministria e Kulturës, Qendra Kombëtare e Veprimtarive Tradicionale”.

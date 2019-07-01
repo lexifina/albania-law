@@ -1,0 +1,1 @@
+4. QKVT-ja ka për mision administrimin, studimin, kërkimin, evidentimin, ruajtjen, mbrojtjen, popullarizimin dhe promovimin e pasurive kulturore jomateriale e të diversitetit kulturor në nivel kombëtar, në bashkëpunim me subjekte publike e private.
