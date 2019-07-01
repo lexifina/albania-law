@@ -126,7 +126,7 @@ Mësues në ciklin e lartë në shkollat 9-vjeçare.
 20% e PG
 42.000
 13
-Mësues në ciklin e ulët në shkollat 9-vjeçare.
+Mësues në arsimin fillor në shkollat 9-vjeçare.
 1
 2% e PG
 5% e PG;
@@ -134,7 +134,7 @@ Mësues në ciklin e ulët në shkollat 9-vjeçare.
 20% e PG
 39.300
 14
-Mësues në ciklin e ulët në shkollat 9-vjeçare.
+Mësues në arsimin fillor në shkollat 9-vjeçare.
 2
 2% e PG
 5% e PG;
@@ -142,9 +142,13 @@ Mësues në ciklin e ulët në shkollat 9-vjeçare.
 20% e PG
 36.650
 15
-Mësues në ciklin e ulët në shkollat 9-vjeçare.
-Instruktor i praktikës profesionale.
+Mësues në arsimin fillor në shkollat 9-vjeçare
+Instruktor i praktikës profesionale
 3
+2% e PG
+5% e PG
+10% e PG
+15% e PG
 34.000
 Lidhja nr. 2
 Struktura e pagës për punonjësit e shërbimit psiko-social dhe punonjësit e tjerë jomësimorë në institucionet e arsimit parauniversitar
