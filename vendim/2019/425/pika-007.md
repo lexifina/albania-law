@@ -1,0 +1,1 @@
+7. Pronarët e pasurive të paluajtshme, që shpronësohen, sipas tabelës bashkëlidhur këtij vendimi, të kompensohen, për efekt shpronësimi pasi të kenë paraqitur pranë Bashkisë Vorë certifikatën e pronësisë, hartën treguese të regjistrimit si dhe kartelën e pasurisë.

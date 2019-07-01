@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rikonstruksion dhe asfaltim i rrugës Marqinet-1 dhe Lagjja “Llanaj””, në Bashkinë e Vorës.
