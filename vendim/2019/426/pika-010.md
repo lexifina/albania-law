@@ -1,0 +1,1 @@
+10. Veprimtaria e komitetit sektorial ushtrohet pranë AKAFPK-së dhe mbështetet nga sekretariati teknik, i cili përbëhet nga punonjës të AKAFPK-së, të përcaktuar me urdhër të titullarit të institucionit.

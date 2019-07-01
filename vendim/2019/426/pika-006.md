@@ -1,0 +1,1 @@
+6. Në rast nevoje, në komitetin sektorial mund të përfshihen më shumë se një ekspert, të parashikuar në shkronjën “ë”, të pikës 1, të këtij vendimi, pa tejkaluar në çdo rast numrin prej 10 (dhjetë) anëtarësh të komitetit sektorial.

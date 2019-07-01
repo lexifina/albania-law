@@ -1,0 +1,1 @@
+4. Përzgjedhja e anëtarëve të parashikuar në shkronjat “a”, “b”, “c” dhe “dh”, të pikës 1, të këtij vendimi, bëhet nga ministria përgjegjëse respektive, bazuar në plotësimin e kritereve të përcaktuara në pikën 2, të këtij vendimi.

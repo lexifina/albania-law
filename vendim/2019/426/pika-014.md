@@ -1,0 +1,1 @@
+14. Shpërblimi për pjesëmarrje në mbledhje për çdo anëtar të komitetit sektorial bëhet sipas përcaktimeve të bëra në vendimin normativ të masës së shpërblimit të këshillave, bordeve ose komisioneve të njësive të qeverisjes qendrore.

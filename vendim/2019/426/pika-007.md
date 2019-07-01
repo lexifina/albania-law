@@ -1,0 +1,1 @@
+7. Në mbledhjet e komitetit sektorial mund të ftohen të marrin pjesë përfaqësues të njësive të vetëqeverisjes vendore, të institucioneve të arsimit të lartë etj. Pjesëmarrja në këto takime mund të bëhet në kuadrin e ftesës së bërë për këtë qëllim dhe/apo interesit të shprehur me shkrim nga ana e institucioneve të interesuara.
