@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është përcaktimi i nivelit të kualifikimeve për të nxënit gjatë gjithë jetës, me qëllim përfshirjen e tyre në nivelet përkatëse të Kornizës Shqiptare të Kualifikimeve (në vijim, KSHK), për arsimin dhe formimin profesional, në përputhje me kriteret dhe procedurat e përcaktuara në këtë vendim.

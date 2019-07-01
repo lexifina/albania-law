@@ -1,0 +1,1 @@
+2. Objekt i këtij vendimi janë kualifikimet për të nxënit gjatë gjithë jetës, që ofrohen me jo më pak se 125 (njëqind e njëzet e pesë) orë ose 5 (pesë) kredite ECTS (për kualifikime të arsimit të lartë).

@@ -1,0 +1,1 @@
+3. Të gjitha kualifikimet për të nxënit gjatë gjithë jetës, sipas përcaktimeve në shtojcën nr.1, të ligjit për KSHK-në, për të cilat kërkohet nga ofruesi përcaktimi në diplomën/certifikatën përkatëse të nivelit të kualifikimit, sipas niveleve të KSHK-së, plotësojnë kriteret dhe procedurat e parashikuara në këtë vendim për përfshirjen e tyre në nivelin përkatës të KSHK-së.

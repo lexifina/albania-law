@@ -1,0 +1,1 @@
+8. Komisioni shprehet me vendim në rastet e vendimmarrjes për pranimin, refuzimin e kërkesës apo arkivimin e praktikës. Institucionet përgjegjëse për ndjekjen e procedurave, sipas këtij vendimi, përgatisin vërtetimin për përcaktimin e nivelit përkatës të KSHK-së për çdo aplikim. Në çdo rast njoftohet aplikuesi dhe, në rast të refuzimit të kërkesës, i jepen edhe arsyet përkatëse.

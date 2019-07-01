@@ -1,0 +1,1 @@
+9. Niveli i miratuar i kualifikimit dhe numri e lloji i krediteve të fituara (kur këto janë të miratuara) vendosen në dokumentin vërtetues që do të lëshohet në përfundim të kualifikimit, duke specifikuar llojin e kualifikimit sipas shtojcës nr. 1 të ligjit për KSHK-në.
