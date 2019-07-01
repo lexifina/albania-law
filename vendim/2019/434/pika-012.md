@@ -1,0 +1,1 @@
+12. Muzeu Kombëtar i Përgjimeve “Shtëpia me gjethe” ka logon dhe vulën e tij zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë me shënimet “Republika e Shqipërisë, Ministria e Kulturës, Muzeu Kombëtar i Përgjimeve “Shtëpia me gjethe””, sipas legjislacionit në fuqi.

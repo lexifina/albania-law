@@ -1,0 +1,1 @@
+2. Muzeu Kombëtar i Përgjimeve “Shtëpia me gjethe” është person juridik, publik, buxhetor, i cili ushtron veprimtarinë e tij si një institucion i specializuar në fushën muzeore, në varësi të ministrit përgjegjës për trashëgiminë kulturore, me seli në Tiranë.

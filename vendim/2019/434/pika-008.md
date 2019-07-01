@@ -1,0 +1,1 @@
+8. Muzeu Kombëtar i Përgjimeve “Shtëpia me gjethe” drejtohet nga drejtori i muzeut, i cili organizon e drejton tё gjithë veprimtarinë e institucionit dhe përgjigjet përpara ministrit përgjegjës për trashëgiminë kulturore.

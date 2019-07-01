@@ -1,0 +1,1 @@
+4. Muzeu Kombëtar i Përgjimeve “Shtëpia me gjethe” ka për mision përkujtimin e dhunës psikologjike të regjimit komunist dhe kontrollin e qytetarëve nëpërmjet përgjimeve të kryera nga ish-Sigurimi i Shtetit.
