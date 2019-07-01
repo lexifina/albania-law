@@ -1,0 +1,33 @@
+11. IKRTK-ja kryen detyrat, si më poshtë vijon:
+a) Regjistron e dokumenton të gjitha pasuritë kulturore, materiale dhe jomateriale, si dhe pasuritë e peizazhit në pronësi publike e private në territorin e Republikës së Shqipërisë;
+b) Regjistron në kartelat e pasurive kulturore vendimet e këshillave kolegjialë të trashëgimisë kulturore;
+c) Regjistron transferimet e pasurive kulturore ndërmjet pushtetit qendror dhe njësive të vetëqeverisjes vendore ose të institucioneve të tjera publike vendore;
+ç) Regjistron lejet për ndërhyrjet ruajtëse të miratuara nga KKTKM-ja;
+d) Regjistron masat e mbrojtjes indirekte në regjistrat e pasurive;
+dh) Regjistron objektet muzeore, koleksionet, si dhe lidhjen ose jo të objekteve muzeore me koleksionet, që janë pjesë përbërëse e trashëgimisë kulturore;
+e) Harton platformën për regjistrimin e të gjitha pasurive kulturore të luajtshme e të paluajtshme, që ruhen nga rrjeti muzeor i vendit, nga galeritë e artit, personat privatë, institucionet e specializuara vendore e kombëtare dhe bashkësitë fetare të regjistruara me ligj, për krijimin dhe përditësimin e Regjistrit Kombëtar të Pasurive Kulturore;
+ë) Harton dhe mban regjistrin e ekspertëve vlerësues të pasurive kulturore të luajtshme;
+f) Harton masat për ruajtjen, mbrojtjen, mirëmbajtjen, administrimin, tjetërsimin e qarkullimin e objekteve muzeore dhe të koleksioneve muzeore me propozim të përbashkët me IKTK-në;
+g) Administron Katalogun Kombëtar të Pasurive Kulturore, nëpërmjet sistemit informatik kombëtar të administrimit të trashëgimisë kulturore, si dhe regjistrat kombëtarë të vlerave kulturore materiale e jomateriale;
+gj) Administron katalogun e Fondit Muzeor Kombëtar;
+h) Administron bazën shtetërore tё të dhënave të pasurive kulturore;
+i) Administron bazën e të dhënave të pasurive kulturore të vjedhura;
+j) Asiston ministrinë në ushtrimin e kompetencave për zbatimin e politikave qeveritare në fushën e trashëgimisë kulturore për funksionet që IKRTK-ja ka kompetencë;
+k) Administron e përditëson Regjistrin Kombëtar të Pasurive Jomateriale dhe të Pasurive Materiale, në përputhje me seksionet përkatëse të pasurive kulturore të paluajtshme, si dhe të pasurive kulturore të luajtshme e të koleksioneve;
+l) Administron një Regjistër Kombëtar të Licencave të Eksportit të Pasurive Kulturore;
+ll) Administron Regjistrin e Tregtimit të Pasurive Kulturore;
+m) Administron një kopje të dokumentacionit të marrjes në dorëzim të punimeve të ndërhyrjeve në pasuritë e paluajtshme;
+n) Administron një kopje të listës së lejeve të ndërhyrjeve në pasuritë e peizazhit;
+nj) Lëshon certifikata regjistrimi të pasurive kulturore, të luajtshme e të paluajtshme dhe, në rast të humbjes së saj, lëshon një dublikatë;
+o) Lëshon dokumentacionin për ekzistencën e objekteve muzeore në muze, për krijimin dhe regjistrimin e muzeve ekzistues e të rinj;
+p) Lëshon vërtetim për kopjet e autorizuara të çdo objekti muzeor;
+q) Mbikëqyr e monitoron respektimin e të drejtave të pronësisë dhe të lëvizjes së pasurive kulturore kombëtare;
+r) Mbikëqyr zbatimin apo shkeljen e procedurave (regjimit) të qarkullimit kombëtar dhe ndërkombëtar të certifikuar të pasurive kulturore të luajtshme;
+rr) Asiston dhe denoncon pranë inspektoratit përgjegjës për trashëgiminë kulturore;
+s) Zhvillon metodologjinë për dokumentimin e katalogimin e pasurive kulturore, si dhe koordinon bashkëpunimin me njësitë territoriale në fushën e pasurive kulturore;
+sh) Kryen regjistrimin on-line të pasurive kulturore kombëtare dhe të çdo procedure për identifikim e regjistrim;
+t) Monitoron procedurat e eksportit për qarkullimin kombëtar e ndërkombëtar, të certifikuar, të pasurive kulturore të luajtshme, në bashkëpunim me institucionet doganore dhe Policinë e Shtetit. Parashikon masat e nevojshme, me qëllim që pasuritë të mos pësojnë dëmtime gjatë transportit në rastin kur mbajtësi i pasurive kulturore ndryshon vendbanimin ose selinë, ndryshim, i cili deklarohet paraprakisht në drejtorinë rajonale të trashëgimisë kulturore përkatëse;
+th) I propozon ministrisë përgjegjëse për trashëgiminë kulturore mundësinë e parablerjes së pasurive kulturore;
+u) Koordinon procesin e pasqyrimit tё të dhënave në regjistrat e tjerë publikë për pasuritë e trashëgimisë kulturore të deklaruara;
+v) Miraton çdo vit listën e çmimeve të referencës për pasuritë kulturore;
+x) I jep mendim Këshillit Kombëtar të Muzeve për përcaktimin e vlerës maksimale të transaksionit për pasurimin e fondit muzeor.

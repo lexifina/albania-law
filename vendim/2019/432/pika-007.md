@@ -1,0 +1,1 @@
+7. IKRTK-ja funksionon në bazë të ligjit për trashëgiminë kulturore dhe muzetë, të këtij vendimi dhe të statutit e të rregullores së miratuar me urdhër të ministrit përgjegjës për trashëgiminë kulturore.
