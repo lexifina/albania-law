@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 327/1, zona kadastrale 2671, Bashkia Finiq, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, bashkëlidhur këtij vendimi.

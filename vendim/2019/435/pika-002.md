@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, Qarku Vlorë, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 327/1, zona kadastrale 2671, Bashkia Finiq.
