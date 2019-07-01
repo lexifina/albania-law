@@ -1,0 +1,1 @@
+4. Pagimi i shumave të depozituara, sipas pikës 3, të këtij vendimi, në favor të kërkuesve Rinaldo Myrtaj, Mamude Myrtaj, Ilmi Deda dhe Alma Rredhi të bëhet nga Ministria e Financave dhe Ekonomisë, pas paraqitjes së dokumentacionit ligjor të nevojshëm për kryerjen e pagesave nga buxheti i shtetit.
