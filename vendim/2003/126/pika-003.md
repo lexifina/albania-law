@@ -1,1 +1,0 @@
-3. Nëse personat fizikë dhe juridikë, vendas dhe të huaj, që kryejnë përpunimin industrial të duhanit dhe prodhimin e produkteve të tij, nuk paraqesin lejen e përpunimit industrial dhe/ose lejen e prodhimit të produkteve të duhanit, organet tatimore nuk i regjistrojnë ata.
