@@ -1,0 +1,1 @@
+1. Me qëllim përcaktimin e kritereve për licencimin e veprimtarive të përpunimit industrial të duhanit dhe/ose prodhimit të produkteve të duhanit sipas standardeve të përshtatshme të cilësisë, synohet mbrojtja e shëndetit të konsumatorit dhe përmirësimi i teknologjisë në rritjen e cilësisë së produktit përfundimtar.

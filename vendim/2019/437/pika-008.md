@@ -1,0 +1,2 @@
+8. Të gjithë operatorët e licencuar njoftohen për marrjen e masave për plotësimin e kritereve të përcaktuara në këtë vendim brenda një periudhe tranzitore 3-mujore. Me mbarimin e këtij afati, në zbatim të pikës 6, të këtij vendimi, AKDC-ja njofton QKB-në dhe operatorin për fillimin e procedurës së revokimit të licencës.
+Vendimi nr. 126, datë 27.2.2003, i Këshillit të Ministrave, “Për kriteret e dhënies së lejes së përpunimit industrial dhe/ose të prodhimit të produkteve të duhanit”, shfuqizohet.

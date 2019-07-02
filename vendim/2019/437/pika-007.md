@@ -1,0 +1,3 @@
+7. Kur, përgjatë kryerjes së veprimtarisë, ndodh ndryshim faktik i të dhënave, të cilat kanë të bëjnë me kriteret e licencimit, titullari i licencës duhet të njoftojë menjëherë QKB-në dhe AKDC-në.
+Revokimi i licencës, përveç sa është parashikuar në nenin 29, të ligjit nr. 10081, datë 23.2.2009, “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”, mund të bëhet në çdo kohë, me kërkesë të titullarit të AKDC-së, nëse gjatë ushtrimit të këtyre veprimtarive nuk garantohet dhe/ose cenohet interesi publik.
+Kërkesa për revokim i drejtohet QKB-së, bashkë me dokumentacionin shoqërues të cenimit të interesit publik.
