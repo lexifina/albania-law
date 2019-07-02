@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, Qarku Korçë, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e kategorisë së resursit, nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 1044, zona kadastrale 3826, Bashkia Kolonjë.

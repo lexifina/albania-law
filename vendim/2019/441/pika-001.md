@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 1044, zona kadastrale 3826, Bashkia Kolonjë, sipas certifikatës së pronësisë, hartës treguese dhe lidhjes nr.1, bashkëlidhur këtij vendimi.
