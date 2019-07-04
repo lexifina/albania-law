@@ -1,0 +1,1 @@
+6. Pajisje policie në vend shërbimi, 1 komplet me kosto financiare vjetore 12 000 (dymbëdhjetë mijë) lekë, bazuar në vleftën fillestare 60 000 (gjashtëdhjetë mijë) lekë, me afat përdorimi 5 vjet, kjo si rezultat i shkallës së lartë të amortizimit në vlerën 25%.

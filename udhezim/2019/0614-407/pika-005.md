@@ -1,0 +1,1 @@
+5. Radio dore për grupin e gatshëm, 4 (katër) copë, me kosto financiare vjetore 31 250 (tridhjetë e një mijë e dyqind e pesëdhjetë) lekë, bazuar në vleftën fillestare 125 000 (njëqind e njëzet e pesë mijë) lekë, me afat përdorimi 4 vjet, kjo si rezultat i shkallës së lartë të amortizimit në vlerën 25%.

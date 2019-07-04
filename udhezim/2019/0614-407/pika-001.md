@@ -1,0 +1,1 @@
+1. Mënyra e përllogaritjes së tarifave të shërbimeve specifike, që u ofrohen subjekteve publike, në fushën e rendit e të sigurisë publike, teknologjisë së informacionit, si dhe çdo shërbim tjetër në përputhje me qëllimin e krijimit dhe statutin e saj, nga shoqëria “Illyrian Guard” sh.a., caktohet sipas klasifikimit të objekteve.
