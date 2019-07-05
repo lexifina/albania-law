@@ -1,0 +1,1 @@
+4. Ofruesit e shërbimeve mediatike, në çdo rast, sigurojnë marrjen e masave për ndalimin e publikimeve me përmbajtje të paligjshme dhe/ose të dëmshme për fëmijët, sipas këtij vendimi dhe ligjit nr. 97/2013, “Për mediat audiovizive në Republikën e Shqipërisë”.

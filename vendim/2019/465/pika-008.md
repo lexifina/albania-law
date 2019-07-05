@@ -1,0 +1,1 @@
+8. Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës, në rastet e përcaktuara në pikën 7, të këtij vendimi, merr masa për referimin e rastit pranë strukturave vendore për mbrojtjen e fëmijës, sipas legjislacionit në fuqi.

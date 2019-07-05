@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i masave për mbrojtjen e fëmijëve nga aksesi në materiale me përmbajtje të dëmshme dhe/ose të paligjshme në internet, sipas përcaktimeve të nenit 27, të ligjit nr. 18/2017, “Për të drejtat dhe mbrojtjen e fëmijës”.
