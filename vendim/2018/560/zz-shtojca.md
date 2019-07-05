@@ -24,7 +24,7 @@ Për provimin e shtetit dhënë nga kandidati më shumë se pesë herë:
 2. Njohja e diplomave, certifikatave e titujve dhe gradave të fituara në përfundim të studimeve të kryera jashtë vendit të lëshuara nga një institucion i huaj i arsimit të lartë, 2 000 lekë për çdo aplikant.
 3. Provimi i specializimit në mjekësi, si dhe profesione të tjera të rregulluara, 5 000 lekë për çdo aplikant.
 4. Provime të tjera të digjitalizuara, të kërkuara nga institucionet publike dhe private, 5 000 lekë çdo aplikant.
-5. Aplikim për ndjekjen e studimeve në institucionet e arsimit të lartë në sistemin që administrohet nga QSHA-ja, 2 000 lekë për çdo aplikant.
+5. Shfuqizuar.
 6. Regjistrimi i formës së diplomave dhe certifikatave, 3 000 lekë për diplomë/certifikatë të regjistruar.
 7. Tarifa për pajisjen me numrin unik të matrikullimit (për student) 100 lekë;
 8. Pajisja e IAL-së me: 2 000 lekë;
