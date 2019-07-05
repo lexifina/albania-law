@@ -1,0 +1,4 @@
+2. Programi për përmirësimin e kushteve të objekteve dhe banesave ekzistuese realizohet nëpërmjet grantit konkurrues për financimin e plotë ose të pjesshëm të projekteve që propozohen nga njësitë e vetëqeverisjes vendore për:
+a) përmirësimin e kushteve të banimit dhe jetesës, deri në ndërtim të ri, në banesat në rrezik shembjeje;
+b) përmirësimin e kushteve të banimit në banesat e amortizuara, për familjet që në përbërje të tyre kanë persona me aftësi të kufizuar, me qëllim që përmirësimi të lehtësojë shkallën e përshtatshmërisë e të plotësimit të nevojave të veçanta të banimit për ta;
+c) rregullimin e banesave individuale ose strukturave, të cilat nuk klasifikohen si banesë, për familjet që nuk sigurojnë të ardhurat e nevojshme për ta kryer vetë përmirësimin, veçanërisht për familje të minoriteteve rome dhe egjiptiane, vetëm për një periudhë dyvjeçare, nga hyrja në fuqi e ligjit nr. 22/2018, “Për strehimin social”, si dhe për familje të zonave rurale.

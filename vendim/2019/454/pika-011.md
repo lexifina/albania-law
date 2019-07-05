@@ -1,0 +1,1 @@
+11. Ndarja e grantit konkurrues për përmirësimin e kushteve të objekteve dhe banesave ekzistuese për njësitë e vetëqeverisjes vendore miratohet nga ministri përgjegjës për strehimin, me propozimin e komisionit të krijuar sipas pikës 10, të këtij vendimi.

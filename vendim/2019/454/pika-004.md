@@ -1,0 +1,1 @@
+4. Procedura e dhënies së grantit për përmirësimin e kushteve të objekteve dhe banesave ekzistuese synon përzgjedhjen e njësive të vetëqeverisjes vendore përfituese të këtij programi me procedurë konkurrimi, bazuar në një sistem pikëzimi të miratuar nga ministri përgjegjës për strehimin.

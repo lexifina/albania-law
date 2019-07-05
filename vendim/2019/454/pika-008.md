@@ -1,0 +1,1 @@
+8. Në mungesë të certifikatës së pronësisë, njësia e vetëqeverisjes vendore, në bashkëpunim me institucionin përgjegjës për legalizimet e zonave informale, verifikojnë kushtet për legalizim dhe, nëse këto përmbushen, njësia e vetëqeverisjes vendore i paraqet ministrisë që financon programin vërtetimin mbi plotësimin e kushteve për financim.

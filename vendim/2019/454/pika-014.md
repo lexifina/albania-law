@@ -1,0 +1,1 @@
+14. Ministria përgjegjëse për strehimin cakton një person përgjegjës për të ndihmuar njësitë e vetëqeverisjes vendore, gjatë procesit të përgatitjes për aplikimin për grant konkurrues, me informacione lidhur me procesin e aplikimit, plotësimin e formularëve dhe të kritereve të kërkuara sipas këtij vendimi, si dhe dhënien e shpjegimeve të nevojshme.

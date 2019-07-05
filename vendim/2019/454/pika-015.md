@@ -1,0 +1,1 @@
+15. Thirrja për aplikimin për grante hapet nga ministria përgjegjëse për strehimin, 20 ditë pas miratimit të buxhetit të vitit. Afati për përgatitjen e aplikimit për grante nga njësitë e vetëqeverisjes vendore njoftohet në shpalljen për konkurrim.

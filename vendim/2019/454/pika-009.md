@@ -1,0 +1,1 @@
+9. Objekti që nuk përmbush kushtet për legalizim nuk financohet nga fondet e kushtëzuara në formën e granteve konkurruese për financimin e plotë ose të pjesshëm me qëllim përmirësimin e kushteve. Në këto raste, njësia e vetëqeverisjes vendore u mundëson familjeve/individëve përfitimin nga një program tjetër strehimi social, sipas kushteve përkatëse ligjore.
