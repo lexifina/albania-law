@@ -1,0 +1,3 @@
+1. Në buxhetin e vitit 2019, miratuar për Ministrinë e Financave dhe Ekonomisë dhe Agjencinë Kombëtare të Shoqërisë së Informacionit, bëhet rishpërndarje fondesh, si më poshtë vijon:
+a) Ministrisë së Financave dhe Ekonomisë, në programin buxhetor “Ekzekutimi i pagesave të ndryshme” 01130, i pakësohet fondi prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh në shpenzime kapitale;
+b) Agjencisë Kombëtare të Shoqërisë së Informacionit, në programin buxhetor “E-Qeverisja” 01140, i shtohet fondi prej 65 000 000 (gjashtëdhjetë e pesë milionë) lekësh në shpenzime kapitale, për projektin “Për programin e integruar të zhvillimit “Poli i Drejtësisë”, me vlerë të plotë 313 000 000 (treqind e trembëdhjetë milionë) lekë.
