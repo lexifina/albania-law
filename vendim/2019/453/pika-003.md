@@ -1,0 +1,1 @@
+3. Përjashtim nga rregulli i pikës 1, të këtij vendimi, bëhet vetëm për familjet qiramarrëse që banojnë në banesa, pronë e subjekteve të shpronësuara, të cilat përfitojnë subvencion 100% të interesit të kredisë. Këto familje paguajnë vetëm principalin e kredisë me interes 0%.

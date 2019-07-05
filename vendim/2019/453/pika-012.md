@@ -1,0 +1,1 @@
+12. INSTAT-i (Instituti i Statistikave) detyrohet të publikojë të dhëna mbi të ardhurat mesatare, sipas nivelit më të ulët territorial të dizagregimit të të dhënave, sipas pikës 45, të nenit 2, të ligjit nr. 22/2018.

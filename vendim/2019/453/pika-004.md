@@ -1,0 +1,1 @@
+4. Procedura e dhënies së subvencionimit të interesave të kredisë për familjet që përfitojnë banesë me kosto të ulët me kredi fillon me përzgjedhjen e institucionit financiar që do të kreditojë familjet.

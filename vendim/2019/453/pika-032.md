@@ -1,0 +1,1 @@
+32. E drejta e shlyerjes së kredisë nuk mund t’i kalojë një personi tjetër. Në rast se familja, për shkaqe ekonomike, nuk mund të vazhdojë më shlyerjen e kredisë, njofton menjëherë institucionin financiar dhe njësinë e vetëqeverisjes vendore përkatëse.

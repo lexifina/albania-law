@@ -1,0 +1,1 @@
+16. Individi/familja që aplikon për subvencionimin e interesave të kredisë paraqet në strukturën përkatëse të njësisë së vetëqeverisjes vendore dokumentacionin që lidhet me plotësimin e kushteve të përgjithshme. Lista e familjeve që plotësojnë kushtet e subvencionimit të interesave të kredisë miratohet me vendim të këshillit të njësisë së vetëqeverisjes vendore.

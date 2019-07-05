@@ -1,0 +1,1 @@
+23. Institucioni financiar njofton individët/familjet përfituese për t’u paraqitur për lidhjen e kontratave, duke ndjekur radhën sipas renditjes së listave të dërguara nga njësia e vetëqeverisjes vendore. Kontrata e kredisë lidhet ndërmjet institucionit financiar dhe gjithë pjesëtarëve madhorë të familjes.

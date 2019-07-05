@@ -1,0 +1,1 @@
+10. Marrëveshja ndërmjet institucionit financiar dhe institucionit që financon programin publikohet në faqen e internetit të këtij të fundit dhe në buletinin e njoftimeve publike, brenda tri ditëve, nga lidhja e marrëveshjes. Shpallja publikohet edhe në faqet e internetit të njësive të vetëqeverisjes vendore.

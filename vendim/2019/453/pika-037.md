@@ -1,0 +1,1 @@
+37. Familja, që ka përfituar banesë me kosto të ulët, nuk mund t’i kalojë të drejtat që ajo ka mbi këtë banesë te një individ tjetër ose ta lëshojë atë me qira gjatë periudhës së shlyerjes së kredisë.

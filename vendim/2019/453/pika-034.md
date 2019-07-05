@@ -1,0 +1,1 @@
+34. Masa e ndihmës për familjet që përfitojnë kredi të lehtësuara nga shteti planifikohet në buxhetin vjetor dhe atë afatmesëm të institucionit që financon programin, bazuar në informacionin që dërgon institucioni financiar mbi, ndër të tjera, numrin e përfituesve dhe sasinë e subvencionimit të shpenzuar në vitet paraardhëse dhe nevojat e parashikuara për vitin pasardhës.

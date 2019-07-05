@@ -1,0 +1,1 @@
+22. Individët/familjet që nuk përfshihen në listë kanë të drejtën e ankimit administrativ pranë kryetarit të njësisë së vetëqeverisjes vendore për t’u njohur me shkaqet e mospërfshirjes së tyre në listën e përfituesve. Kundër këtij vendimi, individët/familjet kanë të drejtën e ankimit në gjykatën administrative, në përputhje me legjislacionin në fuqi.

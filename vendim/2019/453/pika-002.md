@@ -1,0 +1,1 @@
+2. Llogaritja e masës së subvencionit të interesave të kredisë bëhet në momentin e lidhjes së kontratës për marrjen e kredisë, ndërmjet individit/familjes përfituese dhe institucionit financiar, mbështetur në marrëveshjen e nënshkruar ndërmjet institucionit financiar dhe ministrisë përgjegjëse për strehimin ose njësisë së vetëqeverisjes vendore.

@@ -1,0 +1,1 @@
+11. Kur programi zbatohet nga njësitë e vetëqeverisjes vendore, ministria përgjegjëse për strehimin mund t’i asistojë në llogaritjen e nivelit minimal e maksimal të të ardhurave të familjeve përfituese.

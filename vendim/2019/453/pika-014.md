@@ -1,0 +1,1 @@
+14. Për verifikimin e kushteve të mësipërme, strukturat përgjegjëse për strehimin, në bashkëpunim me administratorët shoqërorë, krahas verifikimit të dokumentacionit përkatës mund të kryejnë në vendbanimin e familjes verifikime që lidhen me gjendjen e banesës dhe me sipërfaqen e saj.
