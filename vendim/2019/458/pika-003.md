@@ -1,0 +1,1 @@
+3. Në rast se pronësia e objektit, pronë shtetërore, nuk e ka të specifikuar institucionin publik që e administron atë, i kërkohet Agjencisë Shtetërore të Kadastrës të japë informacionin lidhur me institucionin që e ka në administrim.

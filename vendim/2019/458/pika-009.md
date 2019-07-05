@@ -1,0 +1,1 @@
+9. Përshtatja e objekteve pronë shtetërore në fond banese, me qëllim strehimi, mund të realizohet me grante konkurruese ose pjesërisht nga vetë banorët, ose me financime të pjesshme, nga të ardhurat e njësisë së vetëqeverisjes vendore, të kombinuara me grante konkurruese, siç parashikohet në ligjin nr. 22/2018.

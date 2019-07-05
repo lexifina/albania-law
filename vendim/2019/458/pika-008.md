@@ -1,0 +1,1 @@
+8. Kthimi i objektit në fond banese bëhet me vendim të këshillit të njësisë së vetëqeverisjes vendore, pasi objekti është përshtatur sipas standardeve të strehimit të përshtatshëm, të parashikuar nga neni 4, i ligjit nr. 22/2018.

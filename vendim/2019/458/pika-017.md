@@ -1,0 +1,1 @@
+17. Vendimi i këshillit të njësisë së vetëqeverisjes vendore për miratimin e kthimit të objektit të përshtatur me grante konkurruese në fond banese i dërgohet Agjencisë Shtetërore të Kadastrës për regjistrimin e ndryshimit të destinacionit të objektit dhe kthimin e tij fond banese.

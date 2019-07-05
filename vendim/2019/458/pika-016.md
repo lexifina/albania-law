@@ -1,0 +1,1 @@
+16. Kur objektet nuk janë privatizuar ende nga familjet që banojnë në to, ndonëse e kanë pasur këtë të drejtë, dhe afati i privatizimit ka mbaruar, do të ndiqet procedura e parashikuar në këtë vendim për kthimin dhe përshtatjen në fond banese.

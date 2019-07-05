@@ -1,0 +1,1 @@
+12. Procedurat për marrjen e granteve konkurruese për transformimin e objekteve, pronë shtetërore, në fond banese bëhen pas marrjes së vendimit për transferimin e pronës shtetërore në pronësi të njësisë së vetëqeverisjes vendore dhe kur evidentohet nevoja e aplikimit për grante.

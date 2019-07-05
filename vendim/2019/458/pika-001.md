@@ -1,0 +1,1 @@
+1. Njësitë e vetëqeverisjes vendore identifikojnë në juridiksionin e tyre territorial objektet e mundshme për t’u përshtatur për banim social, në pronësi të tyre ose në pronësi të pushtetit qendror. Pas identifikimit të objektit/eve, njësia e vetëqeverisjes vendore konfirmon pronësinë e objektit pranë Agjencisë Shtetërore të Kadastrës.

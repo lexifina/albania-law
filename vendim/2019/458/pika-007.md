@@ -1,0 +1,1 @@
+7. Vendimi i Këshillit të Ministrave për miratimin e zonës ku ndodhet objekti në zonë që do të kthehet në funksion banimi dhe për kalimin e pronësisë së objektit e truallit që zë objekti për njësinë e vetëqeverisjes vendore, me ose pa detyrim privatizimi nga familjet që banojnë në to, i dërgohet Agjencisë Shtetërore të Kadastrës.

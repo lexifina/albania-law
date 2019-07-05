@@ -1,0 +1,1 @@
+6. Nëse zona ku ndodhet objekti ka një funksion të ndryshëm nga ai i banimit si edhe në rastet kur njësia e vetëqeverisjes vendore nuk ka miratuar ende një dokument planifikimi, kjo e fundit ndjek procedurat ligjore për ndryshimin e përdorimit të tokës në funksion banimi, sipas legjislacionit për planifikimin dhe zhvillimin e territorit.

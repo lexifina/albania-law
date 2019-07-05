@@ -1,0 +1,1 @@
+2. Kur objekti është në pronësi të pushtetit qendror, njësia e vetëqeverisjes vendore i paraqet institucionit shtetëror, që administron objektin, kërkesë për transferimin e pronësisë në emër të njësisë së vetëqeverisjes vendore. Një kopje e kërkesës i dërgohet ministrisë përgjegjëse për strehimin.
