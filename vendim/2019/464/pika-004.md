@@ -1,0 +1,1 @@
+4. I nënshtrohen kontrollit zyrtar, sipas legjislacionit në fuqi për sigurinë ushqimore, produktet e peshkimit, pavarësisht nga origjina e tyre. Këtij kontrolli i nënshtrohen edhe produktet e peshkimit të destinuara për përpunim dhe/ose konservim.

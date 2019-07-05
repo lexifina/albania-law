@@ -1,0 +1,1 @@
+3. Nga fillimi i negociatave të shitblerjes dhe deri në përfundim të tyre, kontrolli zyrtar i produkteve të peshkimit, për garantimin e plotësimit të standardeve të sigurisë ushqimore në treg kryhet nga inspektori i AKU-së, me profesion veteriner. Produktet e peshkimit mund të shiten vetëm pasi është kryer kontrolli zyrtar i lartpërmendur.

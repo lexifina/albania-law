@@ -1,0 +1,1 @@
+8. Në tregun e shitjes me shumicë zbatohet plani i autokontrollit të bazuar mbi HACCP-në (Hazard Analysis and Critical Control Points), me qëllim që të garantojë sigurinë ushqimore të produkteve të peshkimit.

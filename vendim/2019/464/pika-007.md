@@ -1,0 +1,1 @@
+7. Transporti i produkteve jashtë tregut me shumicë bëhet me automjete që plotësojnë kërkesat e përcaktuara nga dispozitat e sigurisë ushqimore, ato rregullatore dhe administrative në fuqi në lidhje me këtë çështje, të verifikuara nga inspektori i AKU-së.
