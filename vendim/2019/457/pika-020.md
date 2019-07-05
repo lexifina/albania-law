@@ -1,0 +1,1 @@
+20. Tarifat e pjesëmarrjes në trajnimet e organizuara nga Qendra, nga persona të tjerë që nuk bëjnë pjesë në grupin e parashikuar në pikat 18 dhe 19, të këtij vendimi, janë ato të miratuara me vendimin nr. 883, datë 13.5.2009, të Këshillit të Ministrave, “Për miratimin e tarifave për regjistrimin e objekteve të pronësisë industriale”, të ndryshuar.

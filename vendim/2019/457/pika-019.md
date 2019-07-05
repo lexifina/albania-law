@@ -1,0 +1,1 @@
+19. Punonjësit e institucioneve të përfshira në sistemin e mbrojtjes së pronësisë industriale dhe që i kanë të detyrueshme për procesin kryesor të punës së tyre njohuritë dhe kualifikimet në fushën e pronësisë industriale i kryejnë trajnimet pranë Qendrës, pa pagesë.

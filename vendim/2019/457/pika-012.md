@@ -1,0 +1,1 @@
+12. Njohuritë e marra nga trajnimet e zhvilluara për punonjësit e DPPI-së, shpenzimet, të cilat janë siguruar nga fondet të DPPI-së dhe/ose donatorët, konsiderohen si shpenzime kapitale për rritjen e cilësisë dhe nivelit të kapacitetit profesional të institucionit.
