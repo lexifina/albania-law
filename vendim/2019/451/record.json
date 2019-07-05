@@ -1,0 +1,28 @@
+{
+  "qbz_id": 20277,
+  "title": "Për rregullat uniforme të infrastrukturës së informacionit gjeohapësinor",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "451",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2019-07-03",
+  "published": "2019-07-05",
+  "in_force": "2019-07-05",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e5c5782a5bf365f99109f0c9802e9b463ddfdfc9de450096de11b3e85e0d9572.docx",
+  "source_sha256": "e5c5782a5bf365f99109f0c9802e9b463ddfdfc9de450096de11b3e85e0d9572",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20277",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/07/03/451",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    119471
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
