@@ -1,0 +1,1 @@
+9. Ministria përgjegjëse për strehimin njofton njësitë e vetëqeverisjes vendore, brenda 10 ditëve, nga data e miratimit të ligjit të buxhetit në Kuvend, për fondet që do të jepen nga buxheti i shtetit për subvencionimin e qirasë ose uzufruktit.

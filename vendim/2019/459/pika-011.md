@@ -1,0 +1,1 @@
+11. Ministria përgjegjëse për strehimin, në përputhje me kërkesat e njësive të vetëqeverisjes vendore, sipas pikës 5, të këtij vendimi, planifikon fondet buxhetore vjetore për diferencën ndërmjet kërkesës për fonde nga buxheti i shtetit dhe fondeve të veta, të planifikuara nga të ardhurat vendore.

@@ -1,0 +1,1 @@
+7. Brenda muajit nëntor, njësitë e vetëqeverisjes vendore përditësojnë informacionin për ministrinë përgjegjëse për strehimin, së bashku me kërkesën për shtesë fondi, nëse ka pasur aplikime të reja për subvencionimin e qirasë/uzufruktit.

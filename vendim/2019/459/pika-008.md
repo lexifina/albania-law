@@ -1,0 +1,1 @@
+8. Ministria përgjegjëse për strehimin, brenda 20 ditëve, nga miratimi i tavaneve buxhetore fillestare, njofton njësitë e vetëqeverisjes vendore për fondet në dispozicion të programit të subvencionimit të qirasë. Njoftimi përmban edhe kategoritë e familjeve që do të trajtohen me prioritet nëpërmjet fondeve buxhetore.

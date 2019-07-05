@@ -1,0 +1,1 @@
+15. Ministria përgjegjëse për strehimin, nëpërmjet strukturës përkatëse për strehimin, përgatit raportin përkatës, me gjetjet dhe rekomandimet për mënyrën e përdorimit të fondeve nga buxheti i shtetit. Ky raport i përcillet kryetarit të njësisë së vetëqeverisjes vendore.

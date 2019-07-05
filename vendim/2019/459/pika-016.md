@@ -1,0 +1,1 @@
+16. Njësia e vetëqeverisjes vendore i raporton në fund të çdo viti financiar ministrisë përgjegjëse për strehimin, sipas formatit në shtojcën “B”, bashkëlidhur këtij vendimi, duke dhënë informacion për mënyrën e përdorimit të fondeve nga buxheti i shtetit.

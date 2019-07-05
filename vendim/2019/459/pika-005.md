@@ -1,0 +1,1 @@
+5. Struktura që mbulon çështjet e strehimit në njësinë e vetëqeverisjes vendore bën llogaritjet në varësi të vlerës të subvencionit të qirasë që përcaktohet çdo vit, bazuar si në numrin e përfituesve të vitit të mëparshëm, që risubvencionohen, ashtu dhe në numrin e aplikuesve të rinj.

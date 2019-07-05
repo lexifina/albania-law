@@ -1,0 +1,1 @@
+13. Ministria përgjegjëse për strehimin monitoron mënyrën e administrimit dhe të përdorimit të fondeve nga buxheti i shtetit për subvencionimin e qirasë ose uzufruktin nga njësia e vetëqeverisjes vendore.
