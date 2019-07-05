@@ -1,0 +1,1 @@
+8. Ministria e Kulturës harton politika të posaçme, me qëllim mbështetjen e personave që u përkasin pakicave kombëtare, si dhe ata të konsideruar vulnerabël, në drejtim të mbrojtjes së identitetit të tyre kulturor, etnik e gjuhësor dhe trashëgimisë së tyre kulturore.

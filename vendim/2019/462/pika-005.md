@@ -1,0 +1,1 @@
+5. Ministria e Kulturës, në projektet me thirrje, që organizon çdo vit, të mbështesë financiarisht, bazuar edhe në nivelin cilësor, projektet e personave që u përkasin pakicave kombëtare në drejtim të mbrojtjes së identitetit kulturor, etnik e gjuhësor dhe trashëgiminë kulturore të tyre në të gjithë territorin e Republikës së Shqipërisë.

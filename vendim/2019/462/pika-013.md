@@ -1,0 +1,1 @@
+13. Personat, të cilët u përkasin pakicave kombëtare në Republikën e Shqipërisë, përfitojnë në mënyrë të barabartë dhe pa diskriminim nga programet aktive të tregut të punës dhe të arsimit e formimit profesional.

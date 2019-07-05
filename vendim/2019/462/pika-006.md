@@ -1,0 +1,1 @@
+6. Kriteret dhe procedurat e pjesëmarrjes së përfaqësuesve të pakicave kombëtare në projekte të ndryshme bëhen në përputhje me ligjin nr. 10352, datë 18.11.2010, “Për artin dhe kulturën”, të ndryshuar, dhe udhëzimin e përvitshëm që nxjerr Ministria e Kulturës, “Për thirrjet për projektpropozime”.

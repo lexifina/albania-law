@@ -1,0 +1,1 @@
+14. Personat, të cilët u përkasin pakicave kombëtare, trajtohen në përputhje me të drejtat dhe liritë themelore të njeriut, duke respektuar parimin e mosdiskriminimit e të trajtimit të barabartë në veprimtaritë ekonomike të vendit.

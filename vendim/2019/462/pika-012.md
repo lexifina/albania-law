@@ -1,0 +1,1 @@
+12. Ministria e Shëndetësisë dhe Mbrojtjes Sociale konsultohet me organizatat përfaqësuese të pakicave kombëtare për hartimin e kuadrit ligjor dhe të politikave, të cilat ndikojnë në situatën social-ekonomike të tyre.

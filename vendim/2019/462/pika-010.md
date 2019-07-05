@@ -1,0 +1,1 @@
+10. Ministria e Kulturës dhe institucionet në varësi të saj marrin masa për krijimin e kushteve të nevojshme për pjesëmarrjen efektive të personave, që u përkasin pakicave kombëtare, sipas specifikave të çdo institucioni, në aktivitetet që ato organizojnë.

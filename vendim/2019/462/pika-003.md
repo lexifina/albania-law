@@ -1,0 +1,1 @@
+3. Personat, të cilët u përkasin pakicave kombëtare, gëzojnë, në veçanti, të drejta lidhur me çështjet për ruajtjen, mbrojtjen dhe promovimin e kulturës, të traditave dhe identitetit të pakicës, së cilës ata i përkasin.

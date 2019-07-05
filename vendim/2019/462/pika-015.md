@@ -1,0 +1,1 @@
+15. Ministritë përgjegjëse për zbatimin e këtij vendimi marrin masat e nevojshme dhe evidentojnë konkretisht krijimin e kushteve për të siguruar pjesëmarrjen e barabartë, pa diskriminim, dhe pjesëmarrjen efektive në jetën publike, kulturore, sociale dhe ekonomike të personave që u përkasin pakicave kombëtare.

@@ -1,0 +1,1 @@
+11. Personat, që u përkasin pakicave kombëtare në Republikën e Shqipërisë, përfitojnë në mënyrë të barabartë me shtetasit e tjerë dhe pa diskriminim pagesat për ndihmë ekonomike, aftësinë e kufizuar dhe shërbimet shoqërore, sipas përcaktimeve të legjislacionit në fuqi për ndihmën dhe shërbimet shoqërore.

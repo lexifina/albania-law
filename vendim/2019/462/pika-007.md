@@ -1,0 +1,1 @@
+7. Nga numri i përgjithshëm i projekteve që do të financohen, 5 (pesë) për qind e tyre të mbështeten me burime financiare, logjistike dhe/ose materiale për shoqata kulturore/individë, të cilët kanë aplikuar dhe që u përkasin pakicave kombëtare.
