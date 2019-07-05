@@ -1,0 +1,1 @@
+6. Ministria përgjegjëse në fushën e arsimit, sportit dhe rinisë planifikon veprimtari të veçanta për institucionet publike të arsimit parauniversitar, me qëllim ruajtjen, promovimin, zhvillimin e kulturave, identitetin kulturor të dallueshëm dhe të gjuhëve të pakicave kombëtare.

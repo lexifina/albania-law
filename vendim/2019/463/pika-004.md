@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për kulturën dhe institucionet në varësi të saj marrin masat për të krijuar kushtet e nevojshme për garantimin dhe ushtrimin e së drejtës së personave, që u përkasin pakicave kombëtare për ruajtjen e zhvillimin e identitetit të dallueshëm kulturor, etnik, gjuhësor e fetar të tyre në të gjithë territorin e Republikës së Shqipërisë.

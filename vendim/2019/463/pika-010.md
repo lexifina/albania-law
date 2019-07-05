@@ -1,0 +1,1 @@
+10. Personat që u përkasin pakicave kombëtare dhe përfaqësuesit e tyre ftohen të marrin pjesë në procesin e konsultimit gjatë hartimit dhe miratimit të strategjive, programeve dhe planeve të veprimit për të krijuar kushtet e nevojshme që personat, të cilët u përkasin pakicave kombëtare të ruajnë dhe të zhvillojnë identitetin e tyre të dallueshëm në Republikën e Shqipërisë.

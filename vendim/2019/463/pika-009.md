@@ -1,0 +1,1 @@
+9. Kriteret dhe procedurat e pjesëmarrjes në projekte të ndryshme, ku aplikojnë përfaqësues të pakicave kombëtare janë të parashikuara në ligjin nr. 10352, datë 18.11.2010, “Për artin dhe kulturën”, të ndryshuar, si dhe në aktet nënligjore në zbatim të tij.

@@ -1,0 +1,1 @@
+7. Ministria përgjegjëse në fushën e arsimit, sportit dhe rinisë mbështet të rinjtë e organizatat rinore për organizimin e aktiviteteve ndërgjegjësuese dhe promovuese për ruajtjen e zhvillimin e kulturave, të identitetit dhe të gjuhëve të pakicave kombëtare, si dhe ruajtjen e vlerave të trashëgimisë kulturore të pakicave kombëtare.

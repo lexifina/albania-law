@@ -1,0 +1,1 @@
+3. Ministria përgjegjëse në fushën e kulturës dhe ministria përgjegjëse në fushën e arsimit, sportit dhe rinisë garantojnë mbrojtjen dhe promovimin e gjuhës së personave, që u përkasin pakicave kombëtare si një element përbërës të identitetit të tyre.
