@@ -1,0 +1,1 @@
+1. Miratimin e Rregullores “Për mbrojtjen, përpunimin, ruajtjen dhe sigurinë e të dhënave personale., gjatë procesit online të inspektimit”, sipas tekstit bashkëlidhur këtij urdhri dhe që është pjesë përbërëse e tij.
