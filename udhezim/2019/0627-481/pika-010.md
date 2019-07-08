@@ -1,0 +1,1 @@
+10. Regjistrimi i kandidatëve bëhet vetëm nëpërmjet internetit në portalin “Infermierë për Shqipërinë”. Të interesuarit do të kenë si afat për kryerjen e aplikimit të paktën dy javë kalendarike nga data e shpalljes.

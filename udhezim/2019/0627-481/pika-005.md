@@ -1,0 +1,1 @@
+5. Thirrja për konkurrim shpallet sipas profileve për profesionistët e shkencave mjekësore teknike, mbi bazë të Njësisë Vendore të Kujdesit Shëndetësor (në vijim “NJVKSH”) duke përfshirë dhe spitalet respektive.

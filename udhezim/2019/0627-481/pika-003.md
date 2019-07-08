@@ -1,0 +1,1 @@
+3. Portali “Infermier për Shqipërinë” është një mekanizëm i ngritur për punësimin e teknikëve të shkencave mjekësore në bazë meritokracie duke siguruar transparencë, efikasitet dhe shanse të barabarta.

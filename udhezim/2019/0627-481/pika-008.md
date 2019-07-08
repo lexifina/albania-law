@@ -1,0 +1,1 @@
+8. DQOSHKSH-ja ka detyrimin të shpallë në portalin “Infermier për Shqipërinë” përgjatë gjithë vitit, vendet e lira të punës për çdo institucion shëndetësor publik, si dhe listën e punësimeve të kryera në muajin paraardhës brenda 5 (pesë) ditëve të para të çdo muaji.
