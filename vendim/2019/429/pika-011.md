@@ -1,0 +1,1 @@
+11. Për të përcaktuar nëse lënda djegëse e shpërndarë apo përdorur në bordin e anijes është në përputhje me kërkesat e përcaktuara në krerët IV dhe V, të këtij vendimi, përdoren metodat e verifikimit të përcaktuara në shtojcën VI të MARPOL-it.

@@ -1,0 +1,1 @@
+1. Qëllimi i këtij vendimi është reduktimi i shkarkimeve të dyoksidit të squfurit, që vjen nga djegia e lëndëve djegëse të lëngëta, të prodhuara nga hidrokarburet, që, duke përmirësuar cilësinë e tyre, të zvogëlojë efektet e dëmshme te njeriu dhe mjedisi.

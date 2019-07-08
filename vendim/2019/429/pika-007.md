@@ -1,0 +1,1 @@
+7. Autoritetet shtetërore shqiptare/MIE përpiqen të sigurojnë disponueshmërinë e lëndëve djegëse të lëngëta detare, të cilat janë në përputhje me dispozitat e këtij vendimi dhe të informojnë Sekretariatin e Komunitetit të Energjisë për disponueshmërinë e tyre në portet dhe terminalet e saj.
