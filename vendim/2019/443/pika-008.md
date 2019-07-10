@@ -1,0 +1,1 @@
+8. Qendra e Botimeve për Diasporën pranon kërkesa për tekste shkollore edhe nga mësuesit që janë bërë pjesë e regjistrit shtetëror të mësuesve të gjuhës shqipe e të kulturës shqiptare në diasporë, konfirmuar nga ministria përgjegjëse për arsimin. Qendra e Botimeve për Diasporën lidh me këta mësues kontrata të furnizimit me tekste shkollore për fëmijët në diasporë.

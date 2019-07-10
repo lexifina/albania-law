@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është të nxisë dhe të përkrahë organizimin e procesit mësimor dhe përzgjedhjen e arsimtarëve në vendet pritëse të diasporës shqiptare. Procesi mësimor në vendet pritëse të diasporës shqiptare është mësimi i gjuhës shqipe dhe i kulturës shqiptare.

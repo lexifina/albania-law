@@ -1,0 +1,1 @@
+10. Pikat 6.5 dhe 6.6, të vendimit nr. 107, datë 10.2.2010, të Këshillit të Ministrave, “Për botimin, shtypjen, shpërndarjen dhe shitjen e teksteve shkollore të sistemit të arsimit parauniversitar”, të ndryshuar, shfuqizohen.
