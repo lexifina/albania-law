@@ -1,0 +1,27 @@
+{
+  "qbz_id": 14348,
+  "title": "PËR LICENCIMIN E SHA UJËSJELLËS GRAMSH",
+  "type": "Vendim",
+  "number": "41",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2017-10-06",
+  "version_no": 1,
+  "qbz_version_id": 1542,
+  "in_force": "2019-07-10",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-07-10",
+  "changed_by_qbz_id": 20554,
+  "changed_by_number": "34",
+  "changed_by_title": "Për një ndryshim në vendimin e Komisionit Kombëtar Rregullator nr. 41, datë 6.10.2017, “Për licencimin e sh.a. Ujësjellës Gramsh” , të ndryshuar",
+  "source": "https://qbz.gov.al/files/87d19bf8b815a97ae1658ffcb9f38adb1b7bb904f025e70ab62b2f446c0fb5dc.docx",
+  "source_sha256": "87d19bf8b815a97ae1658ffcb9f38adb1b7bb904f025e70ab62b2f446c0fb5dc",
+  "official_record": "https://qbz.gov.al/api/v1/acts/14348",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/14348/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
