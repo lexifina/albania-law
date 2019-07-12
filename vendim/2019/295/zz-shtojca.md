@@ -36,13 +36,13 @@ Gjuhë greke
 Gjuhë italiane
 7.5
 11
-Gjuhë-Letërsi
+Gjuhë - Letërsi
 7.5
 12
 Gjuhë ruse
 7.5
 13
-Gjuhë spanjolle me profil gjuhë-letërsi dhe Qytetërim hispanik
+Gjuhë spanjolle me profil gjuhë - letërsi dhe qytetërim hispanik
 7.5
 14
 Gjuhë turke
@@ -79,10 +79,10 @@ Edukim qytetar
 Filozofi - Sociologji
 7.5
 4
-Gjeografi dhe Gjuhë italiane
+Gjeografi dhe gjuhë italiane
 7.5
 5
-Gjuhë - Letërsi
+Gjuhë shqipe dhe letërsi
 7.5
 6
 Gjuhë angleze
@@ -100,7 +100,7 @@ Gjuhë italiane
 Histori - Gjeografi
 7.5
 11
-Histori dhe Gjuhë gjermane
+Histori dhe gjuhë gjermane
 7.5
 12
 Matematikë informatike
@@ -122,7 +122,7 @@ Universiteti “Aleksandër Moisiu”, Durrës
 PROGRAMI I STUDIMIT
 NOTA MESATARE
 1
-Gjermanisht - Anglisht
+Gjuhë gjermane dhe angleze
 7.5
 2
 Gjuhë Angleze
@@ -146,7 +146,10 @@ Mësuesi për arsim fillor
 Mësuesi për arsim parashkollor
 7.5
 9
-Psikologji - Sociologji
+Psikologji
+7.5
+10
+Filozofi - Sociologji
 7.5
 Nr.
 Universiteti “Eqrem Çabej”, Gjirokastër
@@ -181,6 +184,9 @@ Mësuesi për arsimin parashkollor
 7.5
 10
 Fizikë dhe teknologji informacioni
+7.5
+11
+Matematikë-Fizikë
 7.5
 Nr.
 Universiteti “Fan S. Noli”, Korçë
@@ -293,10 +299,10 @@ Informatikë
 Matematikë
 7.5
 12
-Mësuesi arsimi fillor
+Mësuesi për Arsim Fillor
 7.5
 13
-Mësuesi arsimi parashkollor
+Mësuesi për Arsim parashkollor
 7.5
 14
 Psikologji
@@ -335,7 +341,7 @@ NOTA MESATARE
 Psikologji
 7.5
 2
-Sociologji - Antropologji sociale
+Sociologji
 7.5
 3
 Filozofi
