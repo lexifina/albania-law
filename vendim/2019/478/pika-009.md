@@ -1,0 +1,1 @@
+9. Kryetar i komisionit të përcaktuar në pikën 8, të këtij vendimi, është përfaqësuesi i Prokurorisë së Posaçme. Në mungesë të kryetarit, anëtarët thirren nga personi i autorizuar prej tij, i cili kryeson mbledhjen e komisionit.

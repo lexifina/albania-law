@@ -1,0 +1,1 @@
+3. Garantimi i mbrojtjes personale të kryetarëve të gjykatave kundër korrupsionit dhe krimit të organizuar, drejtuesit të Prokurorisë së Posaçme dhe drejtorit të Byrosë Kombëtare të Hetimit bëhet nëpërmjet shoqërimit me oficer e nënoficer.

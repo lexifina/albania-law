@@ -1,0 +1,1 @@
+1. Gjyqtarëve të gjykatave kundër korrupsionit dhe krimit të organizuar, prokurorëve të Prokurorisë së Posaçme dhe drejtorit të Byrosë Kombëtare të Hetimit u sigurohet mbrojtja personale, sipas parashikimeve të ligjit nr. 96/2016, “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, dhe akteve nënligjore të dala në zbatim të tij.

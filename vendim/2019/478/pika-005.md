@@ -1,0 +1,1 @@
+5. Në raste të veçanta dhe me kërkesë të kryetarit të Gjykatës kundër Korrupsionit dhe Krimit të Organizuar apo drejtuesit të Prokurorisë së Posaçme, sigurohet mbrojtje për anëtarët e familjes, banesat dhe/ose eskortë për gjyqtarët dhe prokurorët.

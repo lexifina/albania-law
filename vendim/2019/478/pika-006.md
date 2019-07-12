@@ -1,0 +1,1 @@
+6. Zëvendësdrejtorit apo hetuesve të Byrosë Kombëtare të Hetimit si dhe anëtarëve të familjeve të tyre, për shkak të apo gjatë ushtrimit të detyrës, u sigurohet mbrojtje personale e jetës, shëndetit dhe pronës, nëse kërkohet nga drejtori i Byrosë Kombëtare të Hetimit.

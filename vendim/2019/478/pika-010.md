@@ -1,0 +1,1 @@
+10. Kërkesa për mbrojtje i paraqitet komisionit atëherë kur ka të dhëna të besueshme, që provojnë se subjektit kërkues apo subjekteve të parashikuara në pikën 6, të këtij vendimi, u rrezikohet jeta, familja ose prona.

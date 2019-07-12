@@ -1,0 +1,1 @@
+13. Komisionet e posaçme, në varësi të të dhënave dhe gjendjes së rrezikshmërisë, kanë të drejtë të vendosin përforcimin e masave mbrojtëse për ruajtjen dhe shoqërimin e subjekteve, të cilave u garantohet mbrojtja, sipas këtij vendimi, si dhe të banesave të tyre.

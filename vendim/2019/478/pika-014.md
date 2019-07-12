@@ -1,0 +1,1 @@
+14. Struktura dhe organika e nevojshme për ruajtjen e shoqërimin e subjekteve, të cilave u garantohet mbrojtja, sipas këtij vendimi, së bashku me ruajtjen e banesave ose të rezidencave të tyre, si dhe kriteret e përzgjedhjes së efektivave që ngarkohen me këtë detyrë, miratohet sipas legjislacionit në fuqi.

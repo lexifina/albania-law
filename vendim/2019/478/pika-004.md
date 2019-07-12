@@ -1,0 +1,1 @@
+4. Garantimi i mbrojtjes personale të gjyqtarëve dhe prokurorëve të Gjykatës kundër Korrupsionit dhe Krimit të Organizuar dhe Prokurorisë së Posaçme bëhet sipas rregullave të përcaktuara në vendimin e Këshillit të Ministrave për mbrojtjen e veçantë të magjistratit.
