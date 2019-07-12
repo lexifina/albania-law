@@ -1,0 +1,1 @@
+1. Numri i punonjësve me kontratë të përkohshme, për vitin 2019, në njësitë e qeverisjes qendrore është 1 806 (një mijë e tetëqind e gjashtë) punonjës, sipas lidhjes nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
