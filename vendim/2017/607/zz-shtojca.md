@@ -1,0 +1,71 @@
+# Shtojca
+GODINA INOVACIONIT ANEKSI1
+KATI NENTOKE (-1)
+A,K..S,.H,I
+!!><II
+!I
+1><1
+AKSHI
+AKSHI
+mPK
+1/1 1/2
+1/3
+GODINA INOVACIONIT ANEKSI2
+KATl PERDHE (0)
+2/1
+212
+1><1
+AKSHI
+B7Ji
+AK..S.H.I
+Hyrja
+AKSHI
+AKSHI
+2/3
+1><1
+2/4
+AK..S.,.H,I
+A
+AKHI
+GODINA INOVACIONIT ANEKSI 3
+KATI PARE (1)
+1 ><1
+AKSHI
+351JW2
+3/1
+AKSHI
+465M2
+3/2
+3/3
+AKSHI
+371 M1
+3/4
+AKSHI
+38S...Y.
+GODINA INOVACIONIT ANEKSI4
+KATI DYTE (2)
+,,rr11><111
+,
+,
+r
+r
+AKSHI
+;coM’
+I I
+: iperfaqe e :
+1 pashfytezueshme :
+I u..: M’
+I
+I I I I
+L-----------
+I I
+I I I Il siperfaqe e l
+I I
+I I
+1 pash ;tezueshme 1
+I U.ICIW I
+I I
+I I I I I I I I
+L-----------.J
+AKSHI
+871”

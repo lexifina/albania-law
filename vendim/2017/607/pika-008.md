@@ -1,0 +1,1 @@
+8. Institucioneve të cilat kanë në përgjegjësi administrimi apo në përdorim mjediset e godinës, u ndalohet të ndryshojnë destinacionin e pronës, t’i tjetërsojnë ato apo t’ua japin në përdorim të tretëve.

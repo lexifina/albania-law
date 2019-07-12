@@ -1,0 +1,1 @@
+6. Vendimi nr. 34, datë 20.1.2016, i Këshillit të Ministrave, “Për dhënien në përdorim, pa shpërblim, të një sipërfaqeje prej 871 m2, në përgjegjësi administrimi të Autoritetit Shtetëror për Informacionin Gjeohapësinor (ASIG), projekti “Innovation Hub”, shfuqizohet.

@@ -1,0 +1,1 @@
+2. Autoritetit Kombëtar për Certifikimin Elektronik dhe Sigurinë Kibernetike (AKCESK) dhe Qendrës së Koordinimit Kundër Ekstremizmit të Dhunshëm t’u jepen në përdorim mjediset në katin e parë (1) të ndërtesës “Godina e inovacionit”, për ushtrimin e veprimtarisë së tyre administrative, sipas planimetrisë në shtojcën 1, që i bashkëlidhet këtij vendimi.
