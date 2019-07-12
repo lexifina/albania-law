@@ -1,0 +1,1 @@
+5. “Siguria e godinës”, ndalimi i hyrjes së paligjshme, dëmtimi dhe kryerja e akteve të dhunshme ndaj ambienteve, sjellja e eksplozivëve, e armëve ose sendeve të tjera që mund të përdoren si armë, ose çdo aktiviteti tjetër të paligjshëm ndaj ambienteve të gjykatave kundër korrupsionit dhe krimit të organizuar, të Prokurorisë së Posaçme dhe të Byrosë Kombëtare të Hetimit.

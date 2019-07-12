@@ -1,0 +1,1 @@
+2. “Institucion”, gjykatat kundër korrupsionit dhe krimit të organizuar, Prokuroria e Posaçme dhe Byroja Kombëtare e Hetimit, sipas kuptimit të dhënë në ligjin nr.95/2016, “Për organizimin dhe funksionimin e institucioneve për të luftuar korrupsionin dhe krimin e organizuar”.

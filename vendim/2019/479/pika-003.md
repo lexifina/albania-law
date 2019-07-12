@@ -1,0 +1,1 @@
+3. “Ambiente”, ambientet e brendshme të gjykatave kundër korrupsionit dhe krimit të organizuar, të Prokurorisë së Posaçme dhe të Byrosë Kombëtare të Hetimit, si dhe trualli funksional përreth, duke përfshirë edhe parkingun për automjetet.

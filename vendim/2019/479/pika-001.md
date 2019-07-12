@@ -1,0 +1,1 @@
+1. “Personeli i sigurisë”, punonjësit e ngarkuar për të garantuar rendin dhe sigurinë në gjykatat kundër korrupsionit dhe krimit të organizuar, të Prokurorisë së Posaçme dhe të Byrosë Kombëtare të Hetimit, të cilët janë pjesë e shërbimit të vijueshëm të Policisë së Shtetit, sipas legjislacionit përkatës në fuqi.
