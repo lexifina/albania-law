@@ -1,0 +1,1 @@
+1. Në bazë të buxhetit vjetor të vënë në dispozicion, fondi i dëmshpërblimit të ish-të dënuarve politikë nga regjimi komunist ndahet në mënyrë proporcionale për të gjithë përfituesit, me kusht që kësti i dëmshpërblimit të mos jetë më i madh se 1 000 000 (një milion) lekë.

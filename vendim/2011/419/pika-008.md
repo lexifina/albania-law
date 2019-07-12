@@ -1,0 +1,1 @@
+8. Ministri përgjegjës për çështjet sociale dhe ministri përgjegjës për financat, përpara mbylljes së vitit buxhetor, vlerësojnë procesin e realizimit të fondeve për të gjitha kategoritë dhe vendosin rialokimin e fondeve me urdhër të përbashkët.
