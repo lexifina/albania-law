@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, pronë private, që shpronësohet, të kompensohet në vlerë të plotë sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasurinë e llojit “tokë bujqësore”, me një vlerë të përgjithshme prej 156 600 (njëqind e pesëdhjetë e gjashtë mijë e gjashtëqind) lekësh.
