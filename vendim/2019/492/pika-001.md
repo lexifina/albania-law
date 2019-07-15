@@ -1,0 +1,1 @@
+1. Qendra e Botimeve për Diasporën, me qëllim mundësimin e ruajtjes, të zhvillimit dhe mësimit të gjuhës shqipe e të kulturës shqiptare në diasporë, boton dhe siguron falas, për vitin shkollor 2019-2020, tekstet shkollore dhe ato plotësuese, sipas listës 1, bashkëlidhur këtij vendimi.

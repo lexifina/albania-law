@@ -1,0 +1,1 @@
+3. Tekstet shkollore dhe ato plotësuese, të botuara dhe të siguruara nga Qendra e Botimeve për Diasporën, duhet të jenë të pajisura me logon e këtij institucioni dhe me pullën hologramë të certifikimit të Ministrisë së Arsimit, Sportit dhe Rinisë. Qendra e Botimeve për Diasporën siguron pullën me hologramë nga Ministria e Arsimit, Sportit dhe Rinisë kundrejt pagesës.
