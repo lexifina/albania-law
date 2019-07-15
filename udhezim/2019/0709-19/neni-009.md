@@ -1,0 +1,4 @@
+# Neni 9
+Raportimi i rasteve të dyshimta
+Drejtoritë Rajonale Tatimore të juridiksionit, nëse gjatë punës së tyre në përputhje me procedurat e përcaktuara në këtë udhëzim, identifikojnë raste të financimeve që paraqesin rrezik sipas tipologjisë së shtojcës 1 bashkëlidhur udhëzimit nr. 16, datë 16.2.2009 të ministrit të Financave “Për parandalimin e pastrimit të parave dhe për të luftuar financimin e terrorizmit në sistemin e tatim-taksave” dhe të indikatorëve të shtojcës 1 bashkëlidhur këtij udhëzimi, brenda 15 ditëve i raportojnë rastet e dyshimta të konstatuara të përdorimit të OJF-ve për pastrim parash apo financim terrorizmi në Njësinë qendrore në DPT, sipas përcaktimeve të udhëzimit të sipërpërmendur.
+Njësia qendrore në DPT pasi e vlerëson rastin, ia përcjell atë DPPPP-së në përputhje me përcaktimet e nenit 18 të ligjit nr. 9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimin e terrorizimit”, i ndryshuar.
