@@ -1,0 +1,2 @@
+15. OSHEE-ja mund të shkëpusë impiantin për vetëkonsum, në rast kur vërteton se klientët kanë projektuar një impiant i cili në harkun e një viti tejkalon konsumin e energjisë të klientit ose kur vërtetohet se impianti është instaluar dhe/ose funksionon ndryshe nga projekti i miratuar.
+Në të gjitha rastet, OSHEE-ja njofton me shkrim vetëprodhuesin dhe ndërhyn për ndërprerje vetëm pasi vetëprodhuesi nuk ka bërë rregullimin e propozimeve të OSHEE-së.

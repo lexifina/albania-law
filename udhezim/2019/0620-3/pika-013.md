@@ -1,0 +1,1 @@
+13. Vetëprodhuesi duhet që të instalojë sistemin PV brenda 6 muajve nga data e miratimit të aplikimit dhe të bëjë njoftimin pranë OSHEE-së për përfundimin e këtij instalimi. Në rast të tejkalimit të këtij afati aplikimi duhet të përsëritet.

@@ -1,0 +1,1 @@
+1. Një shoqëri e vogël ose e mesme, apo një klient familjar mund të instalojë një kapacitet total deri në 500 kWp për vetëprodhimin e energjisë elektrike nga dielli në përputhje me nenin 15, të ligjit nr. 7/2017.

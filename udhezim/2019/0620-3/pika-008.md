@@ -1,0 +1,1 @@
+8. OSHEE-ja duhet që brenda 30 ditëve pune nga data e aplikimit, të kthejë përgjigje për autorizimin për lidhjen. Në rast se OSHEE-ja konstaton mangësi njofton brenda 5 ditëve me shkrim mbi mangësitë e dokumentacionit të aplikimit, i cili duhet të plotësohet brenda 10 ditëve.

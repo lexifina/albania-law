@@ -1,0 +1,1 @@
+4. Fuqia e instaluar për prodhimin e sasisë vjetore të energjisë elektrike për vetëkonsum, do të përcaktohet mbi bazën e konsumit të tij përgjatë një viti sipas historikut të dy viteve të fundit, ose në rast të mungesës së një historiku, kjo llogaritje në raportin e auditimit të energjisë për këtë qëllim do të bëhet nga një auditues energjetik i certifikuar.

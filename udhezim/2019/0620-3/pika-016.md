@@ -1,0 +1,1 @@
+16. Brenda 6 muajve nga hyrja në fuqi e këtij udhëzimi, OSHEE-ja të propozojë në ERE dhe në MIE, ndryshimet në Kodin e Shpërndarjes dhe në Kodin e Matjes, të cilat mund të ndikohen nga vendosja e PV për vetëkonsum.

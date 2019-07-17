@@ -1,0 +1,1 @@
+2. Njësia vetëprodhuese për teknologjinë foto voltaike (PV), e cila e shndërron energjinë diellore në energji elektrike, duhet të vendoset në objektin e konsumatorit në përputhje me nenin 7 “Punime që kryhen me deklaratë paraprake punimesh”, të vendimit të Këshillit të Ministrave nr. 408, datë 13.5.2015 “Për miratimin e rregullores së zhvillimit të territorit”, e ndryshuar.
