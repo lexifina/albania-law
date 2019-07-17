@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për procedurat e klasifikimit të strukturave akomoduese me 4 apo 5 yje që janë mbajtës të një marke tregtare të regjistruar dhe të njohur ndërkombëtarisht “brand name”, sipas tekstit bashkëlidhur këtij urdhri.
