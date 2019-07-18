@@ -4,6 +4,10 @@ Nr. 115/2016
 
 PËR ORGANET E QEVERISJES SË SISTEMIT TË DREJTËSISË
 
+( shfuqizuar nene me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe  me vendimin e Gjykatës Kushtetuese nr. 78, datë 12.12.2017, ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+(i përditësuar)
+
 Në mbështetje të neneve 81, pika 2, dhe 83, pika 1, të Kushtetutës, me propozimin e një grupi deputetësh, 
 
 KUVENDI
@@ -72,11 +76,103 @@ Neni 5
 
 Shkeljet disiplinore të anëtarëve të Këshillit të Lartë Gjyqësor
 
-Dispozitat e ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, mbi shkeljet disiplinore të magjistratëve aplikohen për aq sa gjejnë zbatim edhe për anëtarin e Këshillit të Lartë Gjyqësor.
+(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+1. Anëtari i Këshillit të Lartë Gjyqësor kryen shkelje disiplinore, me dashje ose për shkak të pakujdesisë, kur:
+
+a) kryen veprime ose mosveprime, të cilat përbëjnë mospërmbushje të detyrës, sjellje joprofesionale ose joetike gjatë ushtrimit të funksionit ose jashtë tij, të cilat diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë Gjyqësor ose dëmtojnë besimin e publikut në sistemin gjyqësor;
+
+b) gjatë ushtrimit të funksionit, nuk i referohet ligjit ose fakteve, me dashje ose për shkak të pakujdesisë së rëndë. 
+
+2. Kur përcaktohet nëse veprimi, mosveprimi ose sjellja e anëtarit të Këshillit të Lartë Gjyqësor konsiderohet shkelje disiplinore ose një çështje e veprimtarisë profesionale, në çdo rast merret parasysh:
+
+a) shkalla e pakujdesisë;
+
+b) shpeshtësia e veprimit ose mosveprimit;
+
+c) dëmtimi, mundësia e shkaktimit të dëmtimit ose shkalla e pasojave që kanë ardhur ose mund të vijnë nga veprimi apo mosveprimi; si dhe
+
+     ç) çdo situatë që është jashtë kontrollit të anëtarit të Këshillit të Lartë Gjyqësor dhe që mund të lidhet me mosfunksionimin e sistemit gjyqësor.
+
+Neni 5/1
+
+Shkeljet disiplinore në lidhje me ushtrimin e funksionit
+
+(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+Shkelje disiplinore gjatë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë Gjyqësor, si më poshtë:
+
+a) mosparaqitja e kërkesës për heqje dorë nga pjesëmarrja në mbledhjen plenare ose në mbledhjet e komisioneve, kur është e detyrueshme sipas ligjit, nëse anëtari i Këshillit të Lartë Gjyqësor ka dijeni ose duhet të kishte dijeni për rrethana të tilla;
+
+b) paraqitja e kërkesës për heqje dorë të anëtarit të Këshillit të Lartë Gjyqësor, nëse ky veprim: 
+
+i) nuk bazohet në shkaqe të parashikuara në ligj;
+
+ii) bëhet me qëllim që të krijohen përfitime të padrejta për subjektin e procedurës administrative, ose synon shmangien e përgjegjësisë ligjore si anëtar i Këshillit të Lartë Gjyqësor apo caktimin e çështjes një anëtari tjetër të Këshillit të Lartë Gjyqësor;
+
+iii) nuk kryhet menjëherë pasi merr dijeni për shkakun.
+
+c) ndërhyrja ose ndikimi i padrejtë në ushtrimin e funksionit të një anëtari tjetër të Këshillit të Lartë Gjyqësor;
+
+ç) mospërmbushja e pajustifikuar ose e përsëritur e funksioneve;
+
+d) vonesa të përsëritura ose që sjellin pasoja të rënda apo zvarritje të veprimeve dhe/ose akteve procedurale;
+
+dh) veprimi, mosveprimi ose sjellja e anëtarit të Këshillit të Lartë Gjyqësor, që sjell përfitime të padrejta ose dëmtim të subjektit të procedurës administrative;
+
+e) angazhimi i personave të jashtëm në kryerjen e detyrave që me ligj i takojnë anëtarit, ose delegimi i detyrave apo veprimtarive që lidhen me ushtrimin e funksionit të anëtarit të Këshillit të Lartë Gjyqësor;
+
+ë) mungesa e pajustifikuar në detyrë, sipas parashikimeve të këtij ligji, për më shumë se 3 ditë pune në vit; 
+
+f) shkelja e rëndë ose e përsëritur e dispozitave ligjore dhe nënligjore që rregullojnë organizimin dhe funksionimin e Këshillit të Lartë Gjyqësor;
+
+g) mosnjoftimi i kryetarit të Këshillit, si dhe autoriteteve kompetente, sipas ligjit, mbi ndërhyrjet ose forma të tjera të ndikimit nga magjistratët, avokatët, funksionarët politikë, funksionarët publikë ose subjektet e tjera;
+
+gj) shkelja e rregullave të konfidencialitetit dhe të mospërhapjes së informacionit, të parashikuara në legjislacionin në fuqi, për të cilat merr dijeni për shkak të funksionit si anëtar i Këshillit të Lartë Gjyqësor;
+
+h) pengimi i Këshillit, Inspektorit të Lartë të Drejtësisë apo çdo organi tjetër publik në kryerjen e funksioneve, sipas legjislacionit në fuqi;
+
+i) mosnjoftimi i Këshillit për ekzistencën e shkaqeve të mbarimit të mandatit të anëtarit të Këshillit të Lartë Gjyqësor; 
+
+j) mosrespektimi i detyrimeve ligjore, që diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë Gjyqësor; 
+
+k) shkelja e rregullave të papajtueshmërisë ose të parandalimit të konfliktit të interesit, sipas parashikimeve të legjislacionit në fuqi.
+
+Neni 5/2
+
+Shkelje disiplinore jashtë ushtrimit të funksionit
+
+(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+Shkeljet disiplinore jashtë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë Gjyqësor, si më poshtë:
+
+a) përdorimi i pozicionit të anëtarit të Këshillit për krijimin e përfitimeve të pajustifikuara për veten ose për të tretët;
+
+b) ushtrimi i veprimtarive jashtë funksionit, me pagesë, duke mos respektuar rregullat e parashikuara nga legjislacioni në fuqi; 
+
+c) shoqërimi me persona që janë nën ndjekje penale, janë subjekte të një procedimi penal ose me persona të dënuar dhe të parehabilituar, kur nuk kanë lidhje të ngushta gjaku ose ligjore me anëtarin e Këshillit, ose vendosja e marrëdhënieve të papërshtatshme të biznesit me këta persona;
+
+ç) përfitimi i drejtpërdrejtë ose i tërthortë i dhuratave, favoreve, premtimeve ose trajtimit preferencial të çfarëdo lloji, të cilat jepen për shkak të funksionit të ushtruar ose për shkak të përdorimit të pozitës si anëtar i Këshillit, edhe në rastin kur formalizohen me një veprim juridik;
+
+d) raste të tjera të sjelljes që diskrediton pozitën dhe figurën e anëtarit dhe dëmton besimin e publikut në sistemin gjyqësor, të kryera jashtë ushtrimit të detyrës.
+
+Neni 5/3
+
+Shkelje disiplinore për shkak të kryerjes së një vepre penale
+
+(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+1. Shkeljet disiplinore për shkak të kryerjes së një kundërvajtjeje penale janë veprime, mosveprime ose sjellje, për të cilat anëtari i Këshillit të Lartë Gjyqësor është dënuar me vendim të formës së prerë dhe që, sipas natyrës së tyre, diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë Gjyqësor ose dëmtojnë rëndë besimin e publikut në sistemin gjyqësor, bazuar në faktet dhe rrethanat e pranuara nga gjykata. 
+
+2. Shkeljet disiplinore për shkak të kryerjes së një kundërvajtjeje penale janë edhe veprimet, mosveprimet ose sjelljet, sipas pikës 1, të këtij neni, pavarësisht se vepra penale është shuar, ndjekja penale nuk mund të fillojë ose nuk mund të vazhdojë, ose anëtari i Këshillit të Lartë Gjyqësor është rehabilituar ose ka përfituar nga falja apo amnistia.
+
+3. Masa disiplinore e shkarkimit nga detyra jepet vetëm nëse dënimi me vendim të formës së prerë është dhënë për kryerjen e një krimi. Në këtë rast, gjatë procedurës disiplinore, parashikimet e ligjit ‘Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë’, zbatohen për aq sa është e nevojshme.
 
 Neni 6
 
 Procedura disiplinore
+
+(shtuar fjalë në pikën 4 me ligjin nr. 47/2019, datë 18.7.2019)
 
 1. Shkeljet disiplinore të anëtarit të Këshillit të Lartë Gjyqësor hetohen nga Inspektori i Lartë i Drejtësisë, në bazë të procedurave dhe rregullave të parashikuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
@@ -84,7 +180,7 @@ Procedura disiplinore
 
 3. Gjykata Kushtetuese vendos pezullimin e anëtarit të Këshillit të Lartë Gjyqësor në rastet e parashikuara në Kushtetutë.
 
-4. Procedura disiplinore ndaj anëtarëve të Këshillit të Lartë Gjyqësor zhvillohet nga Gjykata Kushtetuese, e cila vendos në bazë të ligjit “Për Gjykatën Kushtetuese në Republikën e Shqipërisë”, dhe ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+4. Procedura disiplinore ndaj anëtarëve të Këshillit të Lartë Gjyqësor zhvillohet nga Gjykata Kushtetuese, e cila vendos në bazë të këtij ligji, të ligjit “Për Gjykatën Kushtetuese në Republikën e Shqipërisë”, dhe ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
 SEKSIONI 2
 
@@ -160,21 +256,21 @@ Paraqitja dhe shqyrtimi i shprehjes së interesit
 
 3. Krahas kërkesës me shkrim, të interesuarit bashkëngjisin të paktën dokumentet e mëposhtme:
 
-		a) jetëshkrimin e përditësuar;
+	a) jetëshkrimin e përditësuar;
 
-		b) deklaratat individuale të gjyqtarëve që i kanë mbështetur, të nënshkruara rregullisht;
+	b) deklaratat individuale të gjyqtarëve që i kanë mbështetur, të nënshkruara rregullisht;
 
-		c) formularin e vetëdeklarimit, sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
+	c) formularin e vetëdeklarimit, sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
 
-		ç) një platformë personale të qëllimeve dhe objektivave që propozojnë të ndjekin në qoftë se zgjidhen;
+	ç) një platformë personale të qëllimeve dhe objektivave që propozojnë të ndjekin në qoftë se zgjidhen;
 
-		d) një deklaratë individuale të nënshkruar, përkundrejt përgjegjësisë ligjore, që nuk kanë qenë anëtarë ose bashkëpunëtorë të shërbimeve të inteligjencës përpara 2 korrikut 1991;
+	d) një deklaratë individuale të nënshkruar, përkundrejt përgjegjësisë ligjore, që nuk kanë qenë anëtarë ose bashkëpunëtorë të shërbimeve të inteligjencës përpara 2 korrikut 1991;
 
-		dh) një deklaratë individuale të nënshkruar, përkundrejt përgjegjësisë ligjore, se nuk janë bashkëpunëtorë, informatorë ose agjentë të shërbimeve sekrete;
+	dh) një deklaratë individuale të nënshkruar, përkundrejt përgjegjësisë ligjore, se nuk janë bashkëpunëtorë, informatorë ose agjentë të shërbimeve sekrete;
 
-		e) informacion mbi të afërmit e shkallës së dytë, ungj/emtë, nip/mbesë, gjysh/gjyshe, gjysmë vëlla/motër dhe të afërmit e shkallës së parë të bashkëshortit/bashkëjetuesit, prindër, fëmijë dhe vëllezër/motra që ushtrojnë në mënyrë aktive profesionin e avokatit ose janë pronarë ose drejtues ekzekutivë në subjektet ekonomike, të cilat klasifikohen si tatimpagues të mëdhenj nga autoriteti tatimor. Këshilli i Lartë Gjyqësor miraton dhe vë në dispozicion të të interesuarve një formular tip për dhënien e këtij informacioni;
+	e) informacion mbi të afërmit e shkallës së dytë, ungj/emtë, nip/mbesë, gjysh/gjyshe, gjysmë vëlla/motër dhe të afërmit e shkallës së parë të bashkëshortit/bashkëjetuesit, prindër, fëmijë dhe vëllezër/motra që ushtrojnë në mënyrë aktive profesionin e avokatit ose janë pronarë ose drejtues ekzekutivë në subjektet ekonomike, të cilat klasifikohen si tatimpagues të mëdhenj nga autoriteti tatimor. Këshilli i Lartë Gjyqësor miraton dhe vë në dispozicion të të interesuarve një formular tip për dhënien e këtij informacioni;
 
-		ë) listën e personave të lidhur, të përcaktuar në ligjin për “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”.
+	ë) listën e personave të lidhur, të përcaktuar në ligjin për “Për parandalimin e konfliktit të interesave në ushtrimin e funksioneve publike”.
 
 Neni 11
 
@@ -258,7 +354,7 @@ Numërimi i votave dhe shpallja e rezultatit
 
 2. Fletët e votimit ndahen në vota të vlefshme ose në vota të pavlefshme. Vota të vlefshme janë vetëm fletët e votimit, në të cilat është votuar qartësisht vetëm për njërin nga kandidatët. Vota të pavlefshme janë fletët e votimit kur:
 
-a) fleta e votimit nuk ka të njëjtat elemente të miratuara nga komisioni i votimit; 
+ a) fleta e votimit nuk ka të njëjtat elemente të miratuara nga komisioni i votimit; 
 
 b) në fletën e votimit janë bërë shënime në favor ose në disfavor të kandidatëve; 
 
@@ -306,21 +402,21 @@ të Lartë Gjyqësor nga avokatia dhe kushtet për t’u zgjedhur
 
 3. Avokatët që kandidojnë për pozicionin e anëtarit të Këshillit të Lartë Gjyqësor duhet të plotësojnë kushtet e mëposhtme:
 
-	a) të jenë shtetas shqiptarë;
+a) të jenë shtetas shqiptarë;
 
-	b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi, me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuar me ligj;
+b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi, me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuar me ligj;
 
-	c) të jenë avokatë të licencuar sipas ligjit;
+c) të jenë avokatë të licencuar sipas ligjit;
 
-	ç) të kenë shlyer rregullisht të gjitha detyrimet tatimore dhe financiare ndaj Dhomës së Avokatisë;
+ç) të kenë shlyer rregullisht të gjitha detyrimet tatimore dhe financiare ndaj Dhomës së Avokatisë;
 
-	d) të kenë jo më pak se 15 vjet përvojë pune në profesion si jurist, nga të cilat të paktën 10 vitet e fundit të kenë ushtruar profesionin e avokatit pa ndërprerje;
+d) të kenë jo më pak se 15 vjet përvojë pune në profesion si jurist, nga të cilat të paktën 10 vitet e fundit të kenë ushtruar profesionin e avokatit pa ndërprerje;
 
-	dh) të jenë licencuar për të ushtruar profesionin pranë Gjykatës së Lartë dhe/ose Gjykatës Kushtetuese, sipas parashikimeve të ligjit “Për profesionin e avokatit”;
+dh) të jenë licencuar për të ushtruar profesionin pranë Gjykatës së Lartë dhe/ose Gjykatës Kushtetuese, sipas parashikimeve të ligjit “Për profesionin e avokatit”;
 
-	e) të mos kenë masë disiplinore në fuqi;
+e) të mos kenë masë disiplinore në fuqi;
 
-	ë) të mos kenë qenë dënuar më parë me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
+ë) të mos kenë qenë dënuar më parë me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
 
 f) të mos kenë mbajtur gjatë 10 viteve të fundit funksione politike në administratën publike ose pozicione drejtuese në partitë politike;
 
@@ -334,7 +430,7 @@ i) të mos jenë larguar nga detyra të mëparshme si gjyqtar, prokuror ose ofic
 
 j) të mos jenë kandidatë të propozuar nga trupa e pedagogëve të fakulteteve të drejtësisë dhe Shkollës së Magjistraturës, si dhe nga shoqëria civile. 
 
-		4. Avokatët që mbajnë pozicione drejtuese në dhomat e avokatisë ose në organet drejtuese të grupeve të interesit, të tilla si shoqata, grupime dhe sindikata avokatësh, japin dorëheqjen nga këto pozicione drejtuese nëse zgjidhen anëtarë të Këshillit të Lartë Gjyqësor.
+	4. Avokatët që mbajnë pozicione drejtuese në dhomat e avokatisë ose në organet drejtuese të grupeve të interesit, të tilla si shoqata, grupime dhe sindikata avokatësh, japin dorëheqjen nga këto pozicione drejtuese nëse zgjidhen anëtarë të Këshillit të Lartë Gjyqësor.
 
 Neni 20
 
@@ -954,35 +1050,35 @@ Zgjedhja e anëtarit të Këshillit të Lartë Gjyqësor që përfaqëson shoqë
 
 2. Kandidatët nga shoqëria civile duhet të plotësojnë kushtet e mëposhtme:
 
-	a) të jenë shtetas shqiptarë;
+a) të jenë shtetas shqiptarë;
 
-	b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuara me ligj;
+b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuara me ligj;
 
-	c) të kenë të paktën 15 vite përvojë pune në profesion si jurist;
+c) të kenë të paktën 15 vite përvojë pune në profesion si jurist;
 
-	ç) të kenë një profil të spikatur shoqëror, integritet të lartë moral dhe përgatitje të lartë profesionale në fushën e drejtësisë dhe të drejtave të njeriut;
+ç) të kenë një profil të spikatur shoqëror, integritet të lartë moral dhe përgatitje të lartë profesionale në fushën e drejtësisë dhe të drejtave të njeriut;
 
-	d) në kohën e kandidimit, të jenë të punësuar ose të angazhuar për të paktën 5 vjet, me kohë të plotë ose me kohë të pjesshme pa ndërprerje, në një organizatë të shoqërisë civile për fusha të lidhura me sistemin e drejtësisë ose të drejtat e njeriut;  
+d) në kohën e kandidimit, të jenë të punësuar ose të angazhuar për të paktën 5 vjet, me kohë të plotë ose me kohë të pjesshme pa ndërprerje, në një organizatë të shoqërisë civile për fusha të lidhura me sistemin e drejtësisë ose të drejtat e njeriut;  
 
-	dh) në kohën e kandidimit, të mos kenë ushtruar në mënyrë aktive profesionin e avokatit për të paktën 2 vjet, me përjashtim të atyre të angazhuar në organizata ose klinika që ofrojnë ndihmën ligjore falas ose për funksion të organizatës;
+dh) në kohën e kandidimit, të mos kenë ushtruar në mënyrë aktive profesionin e avokatit për të paktën 2 vjet, me përjashtim të atyre të angazhuar në organizata ose klinika që ofrojnë ndihmën ligjore falas ose për funksion të organizatës;
 
-	e) të mos jenë kandidatë të propozuar nga avokatia ose trupa e pedagogëve të fakulteteve të drejtësisë; 
+e) të mos jenë kandidatë të propozuar nga avokatia ose trupa e pedagogëve të fakulteteve të drejtësisë; 
 
-	ë) të mos kenë qenë dënuar më parë me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
+ë) të mos kenë qenë dënuar më parë me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
 
-	f) të mos kenë mbajtur funksione politike në administratën publike ose pozicione drejtuese në partitë politike, gjatë 10 viteve të fundit përpara kandidimit;
+f) të mos kenë mbajtur funksione politike në administratën publike ose pozicione drejtuese në partitë politike, gjatë 10 viteve të fundit përpara kandidimit;
 
-	g) të mos kenë qenë anëtarë, bashkëpunëtorë ose të favorizuar të ish-Sigurimit të Shtetit para 2 korrikut 1991 në kuptimin e ligjit “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
+g) të mos kenë qenë anëtarë, bashkëpunëtorë ose të favorizuar të ish-Sigurimit të Shtetit para 2 korrikut 1991 në kuptimin e ligjit “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
 
-	gj) të mos jenë bashkëpunëtorë, informatorë ose agjentë të shërbimeve të inteligjencës; 
+gj) të mos jenë bashkëpunëtorë, informatorë ose agjentë të shërbimeve të inteligjencës; 
 
 h) në kohën e kandidimit, të mos kenë asnjë anëtar të familjes, sipas kuptimit të ligjit “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, si dhe të afërm të shkallës së parë që është anëtar në detyrë i Këshillit ose kandidat për anëtar.
 
-	3. Përfaqësuesit nga radhët e organizatave të shoqërisë civile japin dorëheqjen nga çdo pozicion drejtues ose zbatues në këto organizata, nëse zgjidhen anëtarë të Këshillit të Lartë Gjyqësor.
+3. Përfaqësuesit nga radhët e organizatave të shoqërisë civile japin dorëheqjen nga çdo pozicion drejtues ose zbatues në këto organizata, nëse zgjidhen anëtarë të Këshillit të Lartë Gjyqësor.
 
-	4. Ka të drejtë të kandidojë, çdo anëtar i organizatës së shoqërisë civile që plotëson kushtet e përmendura në pikën 2, të këtij neni, dhe që siguron mbështetjen e së paku 3 organizatave të shoqërisë civile, që punojnë në fusha të lidhura me sistemin e drejtësisë ose të drejtat e njeriut. 
+4. Ka të drejtë të kandidojë, çdo anëtar i organizatës së shoqërisë civile që plotëson kushtet e përmendura në pikën 2, të këtij neni, dhe që siguron mbështetjen e së paku 3 organizatave të shoqërisë civile, që punojnë në fusha të lidhura me sistemin e drejtësisë ose të drejtat e njeriut. 
 
-	5. Sekretari i Përgjithshëm i Kuvendit miraton formularin tip për dhënien e mbështetjes kandidatëve për anëtarë të Këshillit të Lartë Gjyqësor nga shoqëria civile. Formulari tip nënshkruhet nga përfaqësuesi ligjor i secilës prej organizatave të shoqërisë civile, të cilat vendosin të mbështesin një koleg.
+5. Sekretari i Përgjithshëm i Kuvendit miraton formularin tip për dhënien e mbështetjes kandidatëve për anëtarë të Këshillit të Lartë Gjyqësor nga shoqëria civile. Formulari tip nënshkruhet nga përfaqësuesi ligjor i secilës prej organizatave të shoqërisë civile, të cilat vendosin të mbështesin një koleg.
 
 Neni 55
 
@@ -1064,9 +1160,9 @@ Përzgjedhja e anëtarit të Këshillit të Lartë Gjyqësor nga radhët e përf
 
 të shoqërisë civile
 
-		1. Kryetari komisionit të shoqërisë civile i përcjell Sekretarit të Përgjithshëm të Kuvendit një listë me emrat e jo më shumë se 10 kandidatëve që kanë marrë më shumë pikë, por në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit. Listës i bashkëngjitet një kopje origjinale, ose e noterizuar, e dokume-ntacionit të çdo kandidati të përzgjedhur, së bashku me inventarin e dosjes së tij. 
+	1. Kryetari komisionit të shoqërisë civile i përcjell Sekretarit të Përgjithshëm të Kuvendit një listë me emrat e jo më shumë se 10 kandidatëve që kanë marrë më shumë pikë, por në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit. Listës i bashkëngjitet një kopje origjinale, ose e noterizuar, e dokume-ntacionit të çdo kandidati të përzgjedhur, së bashku me inventarin e dosjes së tij. 
 
-		2. Rregullat e parashikuara në nenin 35, të këtij ligji, nga pika 2 deri në pikën 19, zbatohet edhe për përzgjedhjen e anëtarit të Këshillit të Lartë Gjyqësor nga radhët e përfaqësuesve të shoqërisë civile.
+	2. Rregullat e parashikuara në nenin 35, të këtij ligji, nga pika 2 deri në pikën 19, zbatohet edhe për përzgjedhjen e anëtarit të Këshillit të Lartë Gjyqësor nga radhët e përfaqësuesve të shoqërisë civile.
 
 KREU II
 
@@ -1112,31 +1208,47 @@ Neni 61
 
 Mbledhja plenare e Këshillit të Lartë Gjyqësor
 
-1. Këshilli i Lartë Gjyqësor organizohet dhe e ushtron veprimtarinë e tij në komisione ose në mbledhje plenare. Kompetencat e Këshillit që nuk përmenden në pikën 2, të këtij neni, ushtrohen nga komisionet. Kompetencat që përmenden në pikën 2, të këtij neni, ushtrohen nga mbledhja plenare, bazuar në propozimet e komisioneve përkatëse.
+(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 , ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
 
-2. Mbledhja plenare e Këshillit të Lartë Gjyqësor ushtron kompetencat e mëposhtme:
+1. Këshilli i Lartë Gjyqësor organizohet dhe e ushtron veprimtarinë e tij në mbledhje plenare ose në komisione. 
 
-a) miraton akte nënligjore normative, në zbatim të këtij ligji ose të ligjeve të tjera, me efekt të përgjithshëm detyrues mbi të gjithë gjyqtarët, administratën gjyqësore, personat privatë dhe organet publike;
+2. Këshilli i Lartë Gjyqësor në mbledhjen plenare ushtron kompetencat e mëposhtme:
 
-b) miraton akte për rregullimin e procedurave të brendshme të Këshillit;
+a) emëron, vlerëson, ngre në detyrë dhe transferon gjyqtarët e të gjitha niveleve; 
 
-		c) emëron dhe ngre në detyrë gjyqtarët mbi propozimin e Komisionit të Zhvillimit të Karrierës;
+b) vendos masa disiplinore ndaj gjyqtarëve të të gjitha niveleve; 
 
-		ç) vendos masën disiplinore të shkarkimit mbi gjyqtarët e Gjykatës së Posaçme kundër korrupsionit dhe krimit të organizuar me dy të tretat e votave mbi propozimin e Komisionit Disiplinor;
+c) i propozon Presidentit të Republikës kandidatët për gjyqtarë në Gjykatën e Lartë, në përputhje me legjislacionin në fuqi; 
 
-		d) shqyrton ankimet kundër vendimeve të komisioneve, me përjashtim të atyre vendimeve që rrëzojnë vendimet e Inspektorit të Lartë të Drejtësisë për arkivimin e ankimeve ose pushimin e hetimeve, sipas pikës 14, të nenit 62, të këtij ligji; 
+ç) miraton rregullat e etikës gjyqësore dhe mbikëqyr respektimin e tyre; 
 
-		dh) miraton udhëzime të përgjithshme jodetyruese;
+d) drejton dhe kujdeset për veprimtarinë në administratën e gjykatave; 
 
-		e) miraton rregulla të detajuara për funksionimin e administratës së Këshillit;
+dh) propozon dhe administron buxhetin e tij dhe atë të gjykatave; 
 
-		ë) miraton përbërjen e komisioneve të përhershme, të komisioneve të përkohshme, si dhe rregulla të detajuara për veprimtarinë e tyre.
+e) informon publikun dhe Kuvendin për gjendjen e sistemit gjyqësor;
 
-		3. Në mbledhjen plenare marrin pjesë të gjithë anëtarët e Këshillit. Një anëtar i Këshillit nuk merr pjesë në vendimmarrjen e mbledhjes plenare për çështje të mëposhtme të rendit të ditës:
+ë) miraton akte nënligjore normative, në zbatim të këtij ligji ose të ligjeve të tjera, me ndikim të përgjithshëm detyrues për të gjithë gjyqtarët, administratën gjyqësore, personat privatë dhe organet publike;
+
+f) miraton aktet për rregullimin e procedurave të brendshme të Këshillit;
+
+g) miraton Kodin e Etikës së Këshillit;	
+
+gj) shqyrton, sipas rastit, vendimet e komisioneve;
+
+h) miraton udhëzime jodetyruese;
+
+i) miraton rregullat e hollësishme për funksionimin e administratës së Këshillit;
+
+j) miraton përbërjen e komisioneve të përhershme, të komisioneve të përkohshme, si dhe rregulla të detajuara për funksionimin e tyre.
+
+3. Në mbledhjen plenare marrin pjesë të gjithë anëtarët e Këshillit. Anëtari i Këshillit nuk merr pjesë në vendimmarrjen e mbledhjes plenare ose komisionit, për çështje të mëposhtme të rendit të ditës:
 
 a) në rast vendimi për çështje disiplinore, kur anëtari ka paraqitur tek Inspektori i Lartë i Drejtësisë kërkesën, mbi bazën e së cilës ka nisur procedimi disiplinor;
 
-b) nëse si anëtar i komisionit ka marrë vendim për një çështje disiplinore, të parashikuar në pikën 13, të nenit 62, të këtij ligji. 
+b) nëse si anëtar i komisionit ka marrë vendim për një çështje disiplinore, të parashikuar në pikën 13, të nenit 62, të këtij ligji.
+
+4. Komisionet kryejnë veprimtari të tjera në përputhje me rregulloren e brendshme.
 
 Neni 62
 
@@ -1186,23 +1298,23 @@ Neni 63
 
 Relatori
 
-		1. Në të gjitha rastet kur mbledhja plenare ose komisionet e Këshillit të Lartë Gjyqësor shqyrtojnë dhe miratojnë akte administrative individuale në lidhje me statusin profesional të gjyqtarëve të veçantë ose të zyrtarëve të veçantë të administratës gjyqësore, njëri nga anëtarët e komisionit shërben si relator.
+	1. Në të gjitha rastet kur mbledhja plenare ose komisionet e Këshillit të Lartë Gjyqësor shqyrtojnë dhe miratojnë akte administrative individuale në lidhje me statusin profesional të gjyqtarëve të veçantë ose të zyrtarëve të veçantë të administratës gjyqësore, njëri nga anëtarët e komisionit shërben si relator.
 
-		2. Secili nga anëtarët e komisionit, përfshirë edhe kryetarin e komisionit, mund të jetë relator. Relatori caktohet me short, duke marrë parasysh ngarkesën dhe aftësitë e secilit anëtar sipas procedurës dhe rregullave më të hollësishme të miratuara nga Këshilli. Kyetari i Këshillit nuk mund të jetë relator.
+	2. Secili nga anëtarët e komisionit, përfshirë edhe kryetarin e komisionit, mund të jetë relator. Relatori caktohet me short, duke marrë parasysh ngarkesën dhe aftësitë e secilit anëtar sipas procedurës dhe rregullave më të hollësishme të miratuara nga Këshilli. Kyetari i Këshillit nuk mund të jetë relator.
 
-		3. Relatori kujdeset për zhvillimin e procedimit administrativ individual dhe sidomos për sa më poshtë:
+	3. Relatori kujdeset për zhvillimin e procedimit administrativ individual dhe sidomos për sa më poshtë:
 
-		a) shqyrtimin e dokumentacionit të depozituar nga subjektet e procedurës administrative;
+	a) shqyrtimin e dokumentacionit të depozituar nga subjektet e procedurës administrative;
 
-		b) përgatitjen e projektaktit administrativ;
+	b) përgatitjen e projektaktit administrativ;
 
-		c) koordinimin me kryetarin e komisionit për përgatitjen e mbledhjes së komisionit;
+	c) koordinimin me kryetarin e komisionit për përgatitjen e mbledhjes së komisionit;
 
-		ç) koordinimin me Kryetarin e Këshillit për përgatitjen e mbledhjes plenare të Këshillit;
+	ç) koordinimin me Kryetarin e Këshillit për përgatitjen e mbledhjes plenare të Këshillit;
 
-		d) njoftimet për subjektet e procedimit administrativ.
+	d) njoftimet për subjektet e procedimit administrativ.
 
-		4. Në ushtrimin e përgjegjësive të tij relatori ndihmohet nga personeli administrativ i Këshillit të Lartë Gjyqësor.
+	4. Në ushtrimin e përgjegjësive të tij relatori ndihmohet nga personeli administrativ i Këshillit të Lartë Gjyqësor.
 
 Neni 64
 
@@ -1224,9 +1336,7 @@ MBLEDHJA PLENARE E KËSHILLIT TË LARTË GJYQËSOR
 
 Neni 66
 
-Thirrja e mbledhjes plenare të Këshillit 
-
-të Lartë Gjyqësor
+Thirrja e mbledhjes plenare të Këshillit të Lartë Gjyqësor
 
 1. Këshilli i Lartë Gjyqësor mblidhet sa herë është e nevojshme, por jo më pak se 1 herë në muaj.
 
@@ -1394,9 +1504,11 @@ Neni 76
 
 Përjashtimi i anëtarit
 
+(shfuqizuar pika 2 me vendimin e Gjykatës Kushtetuese nr. 78, datë 12.12.2017 dhe  ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+
 1. Gjyqtari ose nëpunësi civil i proceduar ose përfaqësuesi ligjor i tij, ose Inspektori i Lartë i Drejtësisë mund të kërkojnë përjashtimin e anëtarit të Këshillit nga pjesëmarrja në shqyrtimin e procedurës administrative vetëm në fazën paraprake të procesit, kur ekziston një nga shkaqet e parashikuara në nenin 75, të këtij ligji, dhe anëtari nuk heq dorë vetë nga shqyrtimi i çështjes.
 
-2. Vendimi për përjashtimin e anëtarit merret nga Kryetari i Këshillit. Kur kërkohet përjashtimi i Kryetarit të Këshillit, vendimi merret nga zëvendëskryetari.
+2. Vendimi për përjashtimin e një anëtari nga shqyrtimi i një çështjeje në mbledhje plenare ose komision merret nga Këshilli, sipas rregullave të parashikuara në nenin 72 të këtij ligji. Kur kërkohet përjashtimi i Kryetarit të Këshillit, mbledhja kryesohet nga Zëvendëskryetari i Këshillit.
 
 SEKSIONI 4
 
@@ -1596,11 +1708,11 @@ a) mban lidhje me Shkollën e Magjistraturës në lidhje me trajnimin vazhdues t
 
 b) këshillon Shkollën e Magjistraturës rreth programit të trajnimit vazhdues për gjyqtarët;
 
-		c) vendos mbi kërkesat e gjyqtarëve për trajnimin vazhdues në Shkollën e Magjistraturës;
+	c) vendos mbi kërkesat e gjyqtarëve për trajnimin vazhdues në Shkollën e Magjistraturës;
 
-	ç) monitoron dhe raporton publikisht në lidhje me efektivitetin e trajnimeve;
+ç) monitoron dhe raporton publikisht në lidhje me efektivitetin e trajnimeve;
 
-		d) kryen çdo detyrë tjetër që i jepet me ligj në fushën e trainimit të gjyqtarëve.
+	d) kryen çdo detyrë tjetër që i jepet me ligj në fushën e trainimit të gjyqtarëve.
 
 Neni 89
 
@@ -1618,7 +1730,7 @@ Neni 90
 
 Burimet njerëzore në gjykata
 
-		1. Këshilli i Lartë Gjyqësor është përgjegjës për ndjekjen e çështjeve të burimeve njerëzore në gjykata. Në veçanti Këshilli kryen detyrat e mëposhtme:
+	1. Këshilli i Lartë Gjyqësor është përgjegjës për ndjekjen e çështjeve të burimeve njerëzore në gjykata. Në veçanti Këshilli kryen detyrat e mëposhtme:
 
 a) hedh të dhënat dhe përditëson Regjistrin Qendror të Personelit për nëpunësit civilë gjyqësorë dhe punonjësit administrativë të gjykatave;
 
@@ -1642,9 +1754,9 @@ g) ngre komisionin e ristrukturimit në rastet e mbylljes ose ristrukturimit të
 
 gj) kujdeset për krijimin dhe funksionimin e sistemit të arkivimit gjyqësor, si dhe menaxhimin dhe administrimin e tij;
 
-	h) ushtron çdo kompetencë tjetër të parashikuar në ligj.
+h) ushtron çdo kompetencë tjetër të parashikuar në ligj.
 
-	2. Këshilli i Lartë Gjyqësor informohet nga gjykatat për çdo të dhënë të nevojshme për përmbushjen e përgjegjësive të tij.
+2. Këshilli i Lartë Gjyqësor informohet nga gjykatat për çdo të dhënë të nevojshme për përmbushjen e përgjegjësive të tij.
 
 Neni 91
 
@@ -1844,75 +1956,77 @@ Neni 97
 
 Aktet e Këshillit të Lartë Gjyqësor
 
-		1. Këshilli i Lartë Gjyqësor, në ushtrim të funksioneve të tij, nxjerr aktet e mëposhtme:
+	1. Këshilli i Lartë Gjyqësor, në ushtrim të funksioneve të tij, nxjerr aktet e mëposhtme:
 
-		a) akte administrative individuale në lidhje me statusin profesional të gjyqtarëve të veçantë ose të zyrtarëve të veçantë të administratës gjyqësore;
+	a) akte administrative individuale në lidhje me statusin profesional të gjyqtarëve të veçantë ose të zyrtarëve të veçantë të administratës gjyqësore;
 
-		b) akte administrative kolektive në lidhje me statusin e të gjithë gjyqtarëve ose zyrtarëve të administratës gjyqësore;
+	b) akte administrative kolektive në lidhje me statusin e të gjithë gjyqtarëve ose zyrtarëve të administratës gjyqësore;
 
-		c) akte normative nënligjore, në zbatim të këtij ligji ose të ligjeve të tjera, me efekt të përgjithshëm detyrues mbi të gjithë gjyqtarët, administratën gjyqësore, personat privatë dhe organet publike;
+	c) akte normative nënligjore, në zbatim të këtij ligji ose të ligjeve të tjera, me efekt të përgjithshëm detyrues mbi të gjithë gjyqtarët, administratën gjyqësore, personat privatë dhe organet publike;
 
-		ç) akte për miratimin e rregullave të brendshme procedurale. Në veçanti, rregullat procedurale mund të përfshijnë dispozita në lidhje me koordinimin e veprimtarisë së komisioneve, angazhimin e ekspertëve në punën e Këshillit, shpërndarjen dhe ndarjen e përgjegjësive të administratës, kuorumin e nevojshëm për mbledhjet e komisioneve, rregulla për publikimin e informacioneve për procedimet e Këshillit etj.;
+	ç) akte për miratimin e rregullave të brendshme procedurale. Në veçanti, rregullat procedurale mund të përfshijnë dispozita në lidhje me koordinimin e veprimtarisë së komisioneve, angazhimin e ekspertëve në punën e Këshillit, shpërndarjen dhe ndarjen e përgjegjësive të administratës, kuorumin e nevojshëm për mbledhjet e komisioneve, rregulla për publikimin e informacioneve për procedimet e Këshillit etj.;
 
-		d) udhëzime jodetyruese.
+	d) udhëzime jodetyruese.
 
-		2. Në asnjë rast, Këshilli nuk mund të japë udhëzime në lidhje me zgjidhjen e një çështjeje gjyqësore konkrete ose të një grupi çështjesh.
+	2. Në asnjë rast, Këshilli nuk mund të japë udhëzime në lidhje me zgjidhjen e një çështjeje gjyqësore konkrete ose të një grupi çështjesh.
 
-		3. Këshilli i Lartë Gjyqësor zbaton Kodin e Procedurave Administrative të Republikës së Shqipërisë në çdo rast ose situatë tjetër që nuk parashikohet shprehimisht nga ky ligj. 
+	3. Këshilli i Lartë Gjyqësor zbaton Kodin e Procedurave Administrative të Republikës së Shqipërisë në çdo rast ose situatë tjetër që nuk parashikohet shprehimisht nga ky ligj. 
 
 Neni 98
 
 Njoftimi dhe botimi i akteve të Këshillit të Lartë Gjyqësor
 
-		1. Njoftimi i akteve administrative individuale të Këshillit të Lartë Gjyqësor, në lidhje me statusin e gjyqtarëve ose nëpunësve civilë gjyqësorë, bëhet në një ose disa nga format e mëposhtme:
+	1. Njoftimi i akteve administrative individuale të Këshillit të Lartë Gjyqësor, në lidhje me statusin e gjyqtarëve ose nëpunësve civilë gjyqësorë, bëhet në një ose disa nga format e mëposhtme:
 
-		a) personalisht ose përfaqësuesit ligjor kur janë të pranishëm në çastin e shpalljes së aktit;
+	a) personalisht ose përfaqësuesit ligjor kur janë të pranishëm në çastin e shpalljes së aktit;
 
-		b) me postë të porositur në adresën e vendit të punës të marrësit; 
+	b) me postë të porositur në adresën e vendit të punës të marrësit; 
 
-		c) në adresën postare elektronike të depozituar zyrtarisht nga subjekti i aktit administrativ.
+	c) në adresën postare elektronike të depozituar zyrtarisht nga subjekti i aktit administrativ.
 
-		2. Aktet administrative individuale të Këshillit, në lidhje me statusin e gjyqtarëve ose nëpunësve civilë gjyqësorë, bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës, pasi të redaktohen për sigurimin e anonimatit të subjekteve, përveç rasteve të parashikuara ndryshe në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
+	2. Aktet administrative individuale të Këshillit, në lidhje me statusin e gjyqtarëve ose nëpunësve civilë gjyqësorë, bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës, pasi të redaktohen për sigurimin e anonimatit të subjekteve, përveç rasteve të parashikuara ndryshe në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
 
-		3. Njoftimi i akteve administrative kolektive, në lidhje me statusin e të gjithë gjyqtarëve ose zyrtarëve të administratës gjyqësore, bëhet nëpërmjet botimit në faqen zyrtare të Këshillit. Këto akte hyjnë në fuqi në datën e botimit në faqen zyrtare të Këshillit.
+	3. Njoftimi i akteve administrative kolektive, në lidhje me statusin e të gjithë gjyqtarëve ose zyrtarëve të administratës gjyqësore, bëhet nëpërmjet botimit në faqen zyrtare të Këshillit. Këto akte hyjnë në fuqi në datën e botimit në faqen zyrtare të Këshillit.
 
-		4. Aktet normative nënligjore botohen në faqen zyrtare të internetit të Këshillit dhe në Fletoren Zyrtare. Ato hyjnë në fuqi në datën e botimit në Fletoren Zyrtare. Nëse akti normativ nënligjor ndryshon një akt tjetër, akti i ndryshuar botohet në formë të konsoliduar në faqen zyrtare të Këshillit.
+	4. Aktet normative nënligjore botohen në faqen zyrtare të internetit të Këshillit dhe në Fletoren Zyrtare. Ato hyjnë në fuqi në datën e botimit në Fletoren Zyrtare. Nëse akti normativ nënligjor ndryshon një akt tjetër, akti i ndryshuar botohet në formë të konsoliduar në faqen zyrtare të Këshillit.
 
-		5. Ky nen zbatohet edhe për aktet e nxjerra nga komisionet e Këshillit.
+	5. Ky nen zbatohet edhe për aktet e nxjerra nga komisionet e Këshillit.
 
 Neni 99
 
 Procedura e rishikimit
 
-		1. Në rastet kur një akt administrativ individual është nxjerrë nga komisioni, subjektet e interesuara kanë të drejtë të kërkojnë anulimin, ndryshimin ose plotësimin nga mbledhja plenare e Këshillit.
+	1. Në rastet kur një akt administrativ individual është nxjerrë nga komisioni, subjektet e interesuara kanë të drejtë të kërkojnë anulimin, ndryshimin ose plotësimin nga mbledhja plenare e Këshillit.
 
-		2. Kërkesa për rishikim bëhet me shkrim. Ajo dorëzohet jo më vonë se 10 ditë nga dita e njoftimit të palës së interesuar, në përputhje me kërkesat e këtij neni.  
+	2. Kërkesa për rishikim bëhet me shkrim. Ajo dorëzohet jo më vonë se 10 ditë nga dita e njoftimit të palës së interesuar, në përputhje me kërkesat e këtij neni.  
 
-		3. Kërkesa mund të bazohet në arsyet e mëposhtme:
+	3. Kërkesa mund të bazohet në arsyet e mëposhtme:
 
-		a) vendimi është bazuar në gabime materiale dhe të faktit;
+	a) vendimi është bazuar në gabime materiale dhe të faktit;
 
-		b) ka ndodhur një gabim i rëndë procedural.
+	b) ka ndodhur një gabim i rëndë procedural.
 
-		4. Kërkuesi nuk mund të paraqesë pretendime ose fakte të reja gjatë shqyrtimit të çështjes nga mbledhja plenare e Këshillit, me përjashtim të rasteve kur subjekti i interesuar provon se nuk ishte dhe nuk mund të ishte në dijeni të këtyre fakteve më parë.
+	4. Kërkuesi nuk mund të paraqesë pretendime ose fakte të reja gjatë shqyrtimit të çështjes nga mbledhja plenare e Këshillit, me përjashtim të rasteve kur subjekti i interesuar provon se nuk ishte dhe nuk mund të ishte në dijeni të këtyre fakteve më parë.
 
-		5. Mbledhja plenare e Këshillit shqyrton dhe vendos mbi të gjitha kërkesat brenda 30 ditëve nga dita e paraqitjes.
+	5. Mbledhja plenare e Këshillit shqyrton dhe vendos mbi të gjitha kërkesat brenda 30 ditëve nga dita e paraqitjes.
 
-		6. Kërkesa nuk pranohet nëse ajo nuk është paraqitur brenda afatit dhe në formën e kërkuar sipas këtij ligji. Kërkuesit njoftohen për mospranimin dhe shkaqet e mospranimit të kërkesës së tyre për rishikim.
+	6. Kërkesa nuk pranohet nëse ajo nuk është paraqitur brenda afatit dhe në formën e kërkuar sipas këtij ligji. Kërkuesit njoftohen për mospranimin dhe shkaqet e mospranimit të kërkesës së tyre për rishikim.
 
-		7. Këshilli, në këto raste, i zhvillon mbledhjet me dyer të mbyllura. Përjashtimisht, Këshilli mund të zhvillojë dëgjesa me subjektet e procedimit kur kjo është e nevojshme, si rezultat i fakteve të reja, sipas pikës 4 të këtij neni.
+	7. Këshilli, në këto raste, i zhvillon mbledhjet me dyer të mbyllura. Përjashtimisht, Këshilli mund të zhvillojë dëgjesa me subjektet e procedimit kur kjo është e nevojshme, si rezultat i fakteve të reja, sipas pikës 4 të këtij neni.
 
-		8. Në bazë të konkluzionit të shqyrtimit të kërkesës për rishikim, Këshilli duhet të përcaktojë nëse kërkesa për rishikim duhet të pranohet ose të rrëzohet. Në rast pranimi, Këshilli miraton një vendim administrativ të ndryshuar. Ndryshimet mund të bëhen vetëm për aq sa kërkohen nga subjekti i interesuar.
+	8. Në bazë të konkluzionit të shqyrtimit të kërkesës për rishikim, Këshilli duhet të përcaktojë nëse kërkesa për rishikim duhet të pranohet ose të rrëzohet. Në rast pranimi, Këshilli miraton një vendim administrativ të ndryshuar. Ndryshimet mund të bëhen vetëm për aq sa kërkohen nga subjekti i interesuar.
 
-		9. Këshilli mund të anulojë një akt administrativ individual edhe me nismën e tij kur vërtetohen kushtet e parashikuara në pikën 3 të këtij neni. 
+	9. Këshilli mund të anulojë një akt administrativ individual edhe me nismën e tij kur vërtetohen kushtet e parashikuara në pikën 3 të këtij neni. 
 
 Neni 100
 
 Ankimi i vendimeve të Këshillit të Lartë Gjyqësor
 
-		1. Ndaj aktit administrativ individual të Këshillit mund të bëhet ankim në Gjykatën Administrative të Apelit, përveçse kur parashikohet ndryshe në këtë ligj. Aktet administrative individuale që vendosin masa disiplinore mbi gjyqtarët ankimohen në Gjykatën Kushtetuese.
+(ndryshuar fjalia e parë e pikës 1 me ligjin nr. 47/2019, datë 18.7.2019)
 
-		2. Aktet administrative me efekt të përgjithshëm detyrues i nënshtrohen kontrollit të Gjykatës Kushtetuese, në lidhje me pajtueshmërinë e tyre me Kushtetutën dhe marrëveshjet ndërkombëtare, dhe kontrollit të Gjykatës Administrative të Apelit, në lidhje me pajtueshmërinë e tyre me ligjin.
+	1. Ndaj aktit administrativ individual të Këshillit mund të bëhet ankim, brenda 15 ditëve nga data e njoftimit, në Gjykatën Administrative të Apelit, përveçse kur parashikohet ndryshe në ligj. Aktet administrative individuale që vendosin masa disiplinore mbi gjyqtarët ankimohen në Gjykatën Kushtetuese.
+
+	2. Aktet administrative me efekt të përgjithshëm detyrues i nënshtrohen kontrollit të Gjykatës Kushtetuese, në lidhje me pajtueshmërinë e tyre me Kushtetutën dhe marrëveshjet ndërkombëtare, dhe kontrollit të Gjykatës Administrative të Apelit, në lidhje me pajtueshmërinë e tyre me ligjin.
 
 PJESA III
 
@@ -1946,33 +2060,125 @@ Neni 102
 
 Statusi i anëtarëve të Këshillit të Lartë i Prokurorisë
 
-		1. Anëtari i Këshillit të Lartë të Prokurorisë ka statusin e magjistratit, sipas dispozitave të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, përveç rasteve kur parashikohet ndryshe nga ky ligj.
+	1. Anëtari i Këshillit të Lartë të Prokurorisë ka statusin e magjistratit, sipas dispozitave të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, përveç rasteve kur parashikohet ndryshe nga ky ligj.
 
-		2. Anëtari i Këshillit gëzon pagën dhe përfitimet e gjyqtarit të Gjykatës së Lartë.
+	2. Anëtari i Këshillit gëzon pagën dhe përfitimet e gjyqtarit të Gjykatës së Lartë.
 
-		3. Anëtari prokuror i Këshillit nuk i nënshtrohet vlerësimit etik dhe profesional të veprimtarisë gjatë kohës së shërbimit si anëtar. Performanca gjatë kohës së shërbimit si anëtar i Këshillit merret në konsideratë në rast të transferimit ose promovimit, sipas ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
+	3. Anëtari prokuror i Këshillit nuk i nënshtrohet vlerësimit etik dhe profesional të veprimtarisë gjatë kohës së shërbimit si anëtar. Performanca gjatë kohës së shërbimit si anëtar i Këshillit merret në konsideratë në rast të transferimit ose promovimit, sipas ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
 
-		4. Anëtari prokuror, në përfundim të mandatit, kthehet në vendin e mëparshëm të punës. Mandati i prokurorit të posaçëm pezullohet gjatë kohës që ushtron funksionin si anëtar i Këshillit të Lartë të Prokurorisë. Anëtari prokuror i Këshillit nuk mund të transferohet, të ngrihet në detyrë ose të delegohet gjatë 3 viteve pas përfundimit të mandatit.
+	4. Anëtari prokuror, në përfundim të mandatit, kthehet në vendin e mëparshëm të punës. Mandati i prokurorit të posaçëm pezullohet gjatë kohës që ushtron funksionin si anëtar i Këshillit të Lartë të Prokurorisë. Anëtari prokuror i Këshillit nuk mund të transferohet, të ngrihet në detyrë ose të delegohet gjatë 3 viteve pas përfundimit të mandatit.
 
-		5. Anëtari joprokuror, që përpara emërimit punonte me kohë të plotë në sektorin publik, rikthehet në vendin e mëparshëm të punës ose, në pamundësi, në një detyrë të barasvlershme me të. 
+	5. Anëtari joprokuror, që përpara emërimit punonte me kohë të plotë në sektorin publik, rikthehet në vendin e mëparshëm të punës ose, në pamundësi, në një detyrë të barasvlershme me të. 
 
 Neni 103
 
 Shkeljet disiplinore të anëtarëve të Këshillit të Lartë të Prokurorisë
 
-Dispozitat e ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë” mbi shkeljet disiplinore të magjistratëve zbatohen, për aq sa është e mundur dhe me ndryshimet e nevojshme, edhe mbi anëtarin e Këshillit të Lartë të Prokurorisë.
+(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+1. Anëtari i Këshillit të Lartë të Prokurorisë kryen shkelje disiplinore, me dashje ose për shkak të pakujdesisë, kur:
+
+a) kryen veprime ose mosveprime, të cilat përbëjnë mospërmbushje të detyrës, sjellje joprofesionale ose joetike gjatë ushtrimit të funksionit ose jashtë tij, të cilat diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë të Prokurorisë ose dëmtojnë besimin e publikut te prokuroria;
+
+b) gjatë ushtrimit të funksionit, nuk i referohet ligjit ose fakteve, me dashje ose për shkak të pakujdesisë së rëndë. 
+
+2. Kur përcaktohet nëse veprimi, mosveprimi ose sjellja e anëtarit të Këshillit të Lartë të Prokurorisë konsiderohet shkelje disiplinore ose një çështje e veprimtarisë profesionale, në çdo rast merret parasysh:
+
+a) shkalla e pakujdesisë;
+
+b) shpeshtësia e veprimit ose mosveprimit;
+
+c) dëmtimi, mundësia e shkaktimit të dëmtimit ose shkalla e pasojave që kanë ardhur ose mund të vijnë nga veprimi apo mosveprimi; si dhe
+
+ç) çdo situatë që është jashtë kontrollit të anëtarit të Këshillit të Lartë të Prokurorisë dhe që mund të lidhet me mosfunksionimin e prokurorisë.
+
+Neni 103/1
+
+Shkeljet disiplinore në lidhje me ushtrimin e funksionit
+
+(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+Shkelje disiplinore gjatë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë të Prokurorisë, si më poshtë:
+
+a) mosparaqitja e kërkesës për heqje dorë nga pjesëmarrja në mbledhjen plenare ose në mbledhjet e komisioneve, kur është e detyrueshme, sipas ligjit, nëse anëtari i Këshillit të Lartë të Prokurorisë ka dijeni ose duhet të kishte dijeni për rrethana të tilla;
+
+b) paraqitja e kërkesës për heqje dorë të anëtarit të Këshillit të Lartë të Prokurorisë nëse ky veprim: 
+
+i) nuk bazohet në shkaqe të parashikuara në ligj;
+
+ii) bëhet me qëllim që të krijohen përfitime të padrejta për subjektin e procedurës administrative ose synon shmangien e përgjegjësisë ligjore si anëtar i Këshillit të Lartë të Prokurorisë apo caktimin e çështjes një anëtari tjetër të Këshillit të Lartë të Prokurorisë;
+
+iii) nuk kryhet menjëherë pasi merr dijeni për shkakun;
+
+c) ndërhyrja ose ndikimi i padrejtë në ushtrimin e funksionit të një anëtari tjetër të Këshillit të Lartë të Prokurorisë;
+
+ç) mospërmbushja e pajustifikuar ose e përsëritur e funksioneve;
+
+d) vonesa të përsëritura ose që sjellin pasoja të rënda apo zvarritje të veprimeve dhe/ose akteve procedurale;
+
+dh) veprimi, mosveprimi ose sjellja e anëtarit të Këshillit të Lartë të Prokurorisë, që sjell përfitime të padrejta ose dëmtim të subjektit të procedurës administrative;
+
+e) angazhimi i personave të jashtëm në kryerjen e detyrave që me ligj i takojnë anëtarit, ose delegimi i detyrave apo veprimtarive që lidhen me ushtrimin e funksionit të anëtarit të Këshillit të Lartë të Prokurorisë;
+
+ë) mungesa e pajustifikuar në detyrë, sipas parashikimeve të këtij ligji, për më shumë se 3 ditë pune në vit; 
+
+f) shkelja e rëndë ose e përsëritur e dispozitave ligjore dhe nënligjore që rregullojnë organizimin dhe funksionimin e Këshillit të Lartë të Prokurorisë;
+
+g) mosnjoftimi i Kryetarit të Këshillit, si dhe autoriteteve kompetente, sipas ligjit, mbi ndërhyrjet ose forma të tjera të ndikimit nga magjistratët, avokatët, funksionarët politikë, funksionarët publikë ose subjektet e tjera;
+
+gj) shkelja e rregullave të konfidencialitetit dhe të mospërhapjes së informacionit, të parashikuara në legjislacionin në fuqi, për të cilat merr dijeni për shkak të funksionit si anëtar i Këshillit të Lartë të Prokurorisë;
+
+h) pengimi i Këshillit, Inspektorit të Lartë të Drejtësisë apo çdo organi tjetër publik në kryerjen e funksioneve, sipas legjislacionit në fuqi;
+
+i) mosnjoftimi i Këshillit për ekzistencën e shkaqeve të mbarimit të mandatit të anëtarit të Këshillit të Lartë të Prokurorisë; 
+
+j) mosrespektimi i detyrimeve ligjore, që diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë të Prokurorisë; 
+
+k) shkelja e rregullave të papajtueshmërisë ose të parandalimit të konfliktit të interesit, sipas parashikimeve të legjislacionit në fuqi.
+
+Neni 103/2
+
+Shkelje disiplinore jashtë ushtrimit të funksionit
+
+(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+Shkeljet disiplinore jashtë ushtrimit të funksionit janë, në veçanti, por pa u kufizuar në to, veprimet, mosveprimet ose sjelljet e anëtarit të Këshillit të Lartë të Prokurorisë, si më poshtë:
+
+a) përdorimi i pozicionit të anëtarit të Këshillit për krijimin e përfitimeve të pajustifikuara për veten ose për të tretët;
+
+b) ushtrimi i veprimtarive jashtë funksionit, me pagesë, duke mos respektuar rregullat e parashikuara nga legjislacioni në fuqi; 
+
+c) shoqërimi me persona që janë nën ndjekje penale, janë subjekte të një procedimi penal ose me persona të dënuar dhe të parehabilituar, kur nuk kanë lidhje të ngushta gjaku ose ligjore me anëtarin e Këshillit, ose vendosja e marrëdhënieve të papërshtatshme të biznesit me këta persona;
+
+ç) përfitimi i drejtpërdrejtë ose i tërthortë i dhuratave, favoreve, premtimeve ose trajtimit preferencial të çfarëdo lloji, të cilat jepen për shkak të funksionit të ushtruar ose për shkak të përdorimit të pozitës si anëtar i Këshillit, edhe në rastin kur formalizohen me një veprim juridik;
+
+d) raste të tjera të sjelljes që diskrediton pozitën dhe figurën e anëtarit dhe dëmton besimin e publikut te prokuroria, të kryera jashtë ushtrimit të detyrës.
+
+Neni 103/3
+
+Shkelje disiplinore për shkak të kryerjes së një vepre penale
+
+(shtuar me ligjin nr. 47/2019, datë 18.7.2019)
+
+1. Shkeljet disiplinore për shkak të kryerjes së një kundërvajtjeje penale janë veprime, mosveprime ose sjellje, për të cilat anëtari i Këshillit të Lartë të Prokurorisë, është dënuar me vendim të formës së prerë dhe që, sipas natyrës së tyre, diskreditojnë pozitën dhe figurën e anëtarit të Këshillit të Lartë të Prokurorisë, ose dëmtojnë rëndë besimin e publikut te prokuroria, bazuar në faktet dhe rrethanat e pranuara nga gjykata. 
+
+2. Shkeljet disiplinore për shkak të kryerjes së një kundërvajtjeje penale janë edhe veprimet, mosveprimet ose sjelljet, sipas pikës 1 të këtij neni, pavarësisht se vepra penale është shuar, ndjekja penale nuk mund të fillojë ose nuk mund të vazhdojë, ose anëtari i Këshillit të Lartë të Prokurorisë është rehabilituar ose ka përfituar nga falja apo amnistia.
+
+3. Masa disiplinore e shkarkimit nga detyra jepet vetëm nëse dënimi me vendim të formës së prerë është dhënë për kryerjen e një krimi. Në këtë rast, gjatë procedurës disiplinore, parashikimet e ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë” zbatohen për aq sa është e nevojshme.
 
 Neni 104
 
 Procedura disiplinore
 
-		1. Shkeljet disiplinore të anëtarit të Këshillit të Lartë Prokurorisë hetohen nga Inspektori i Lartë i Drejtësisë në bazë të procedurave dhe rregullave të ligjit, të parashikuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+(shtuar fjalë në pikën 4 me ligjin nr. 47/2019, datë 18.7.2019)
 
-		2. Gjykata Kushtetuese shqyrton ankimet kundër vendimeve të Inspektorit të Lartë të Drejtësisë për arkivimin e ankesës ose mbylljen e hetimit ndaj anëtarit të Këshillit të Lartë të Prokurorisë.
+	1. Shkeljet disiplinore të anëtarit të Këshillit të Lartë Prokurorisë hetohen nga Inspektori i Lartë i Drejtësisë në bazë të procedurave dhe rregullave të ligjit, të parashikuara në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
-		3. Gjykata Kushtetuese vendos pezullimin e anëtarit të Këshillit të Lartë të Prokurorisë në rastet e parashikuara nga Kushtetuta e Republikës së Shqipërisë.
+	2. Gjykata Kushtetuese shqyrton ankimet kundër vendimeve të Inspektorit të Lartë të Drejtësisë për arkivimin e ankesës ose mbylljen e hetimit ndaj anëtarit të Këshillit të Lartë të Prokurorisë.
 
-		4. Procedura disiplinore ndaj anëtarëve të Këshillit të Lartë të Prokurorisë zhvillohet nga Gjykata Kushtetuese, e cila vendos në bazë të ligjit për Gjykatën Kushtetuese dhe ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+	3. Gjykata Kushtetuese vendos pezullimin e anëtarit të Këshillit të Lartë të Prokurorisë në rastet e parashikuara nga Kushtetuta e Republikës së Shqipërisë.
+
+	4. Procedura disiplinore ndaj anëtarëve të Këshillit të Lartë të Prokurorisë zhvillohet nga Gjykata Kushtetuese, e cila vendos në bazë të këtij ligji, të ligjit për Gjykatën Kushtetuese dhe ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
 	SEKSIONI 2
 
@@ -1988,21 +2194,21 @@ Neni 105
 
 Zgjedhja e anëtarëve prokurorë të Këshillit të Lartë të Prokurorisë dhe kushtet për t’u zgjedhur
 
-		1. Mbledhja e Përgjithshme e prokurorëve të të gjitha niveleve zgjedh 6 anëtarë të Këshillit të Lartë të Prokurorisë, sipas raportit të mëposhtëm:
+	1. Mbledhja e Përgjithshme e prokurorëve të të gjitha niveleve zgjedh 6 anëtarë të Këshillit të Lartë të Prokurorisë, sipas raportit të mëposhtëm:
 
-		a) tre prej të zgjedhurve janë prokurorë të shkallës së parë. Së paku 1 prej tyre është prokuror në një prokurori pranë gjykatës të shkallës së parë jashtë Tiranës; 
+	a) tre prej të zgjedhurve janë prokurorë të shkallës së parë. Së paku 1 prej tyre është prokuror në një prokurori pranë gjykatës të shkallës së parë jashtë Tiranës; 
 
-		b) dy prej të zgjedhurve janë prokurorë të prokurorive pranë gjykatave të apelit, duke përfshirë edhe Prokurorinë e Posaçme për luftën kundër korrupsionit dhe krimit të organizuar. Së paku 1 prej tyre është prokuror në një prokurori pranë një gjykate apeli jashtë Tiranës;
+	b) dy prej të zgjedhurve janë prokurorë të prokurorive pranë gjykatave të apelit, duke përfshirë edhe Prokurorinë e Posaçme për luftën kundër korrupsionit dhe krimit të organizuar. Së paku 1 prej tyre është prokuror në një prokurori pranë një gjykate apeli jashtë Tiranës;
 
-		c) një prej të zgjedhurve është prokuror pranë Prokurorisë së Përgjithshme. 
+	c) një prej të zgjedhurve është prokuror pranë Prokurorisë së Përgjithshme. 
 
-		2. Kandidatët duhet të plotësojnë kushtet e mëposhtme:
+	2. Kandidatët duhet të plotësojnë kushtet e mëposhtme:
 
-		a) në kohën e kandidimit, të kenë ushtruar funksionin e prokurorit për të paktën 10 vjet;
+	a) në kohën e kandidimit, të kenë ushtruar funksionin e prokurorit për të paktën 10 vjet;
 
-		b) në kohën e kandidimit, nuk duhet të jenë drejtues të një zyre prokurorie ose anëtarë të organeve drejtuese të grupeve të interesit, të tilla si shoqata prokurorësh, sindikata prokurorësh etj.;
+	b) në kohën e kandidimit, nuk duhet të jenë drejtues të një zyre prokurorie ose anëtarë të organeve drejtuese të grupeve të interesit, të tilla si shoqata prokurorësh, sindikata prokurorësh etj.;
 
-		c) të jenë vlerësuar të paktën “shumë mirë” në dy vlerësimet e fundit të etikës dhe veprimtarisë profesionale;
+	c) të jenë vlerësuar të paktën “shumë mirë” në dy vlerësimet e fundit të etikës dhe veprimtarisë profesionale;
 
 		ç) të mos kenë masë disiplinore në fuqi;
 
@@ -2014,7 +2220,7 @@ Zgjedhja e anëtarëve prokurorë të Këshillit të Lartë të Prokurorisë dhe
 
 		ë) në kohën e kandidimit, të mos kenë asnjë anëtar të familjes, sipas kuptimit të ligjit “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, dhe të afërm të shkallës së parë që është anëtar në detyrë i Këshillit ose kandidat për anëtar.
 
-		3. Çdo prokuror pranë Prokurorisë së Përgjithshme që plotëson kushtet ligjore të përcaktuara në pikën 2, të këtij neni, ka të drejtë të kandidojë.
+	3. Çdo prokuror pranë Prokurorisë së Përgjithshme që plotëson kushtet ligjore të përcaktuara në pikën 2, të këtij neni, ka të drejtë të kandidojë.
 
 		4. Çdo prokuror i shkallës së parë dhe i apelit që plotëson kushtet ligjore të përcaktuara në pikën 2, të këtij neni, dhe që siguron mbështetjen e së paku 10 kolegëve nga e njëjta shkallë e prokurorisë ka të drejtë të kandidojë.
 
@@ -2030,25 +2236,25 @@ Neni 107
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-		1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve prokurorë në detyrë të Këshillit të Lartë të Prokurorisë, Prokurori i Përgjithshëm shpall thirrjen për paraqitjen e shprehjes së interesit nga prokurorët e interesuar për pozicionin e anëtarit të Këshillit të Lartë të Prokurorisë.
+	1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve prokurorë në detyrë të Këshillit të Lartë të Prokurorisë, Prokurori i Përgjithshëm shpall thirrjen për paraqitjen e shprehjes së interesit nga prokurorët e interesuar për pozicionin e anëtarit të Këshillit të Lartë të Prokurorisë.
 
-		2. Kuvendi mund t’i drejtojë Prokurorit të Përgjithshëm një kujtesë lidhur me detyrimet e tij, sipas pikës 1, të këtij neni, dhe çdo informacion tjetër që e gjykon të nevojshëm, për datën e fillimit të procesit për përzgjedhjen e kandidatëve dhe kalendarin e veprimeve.
+	2. Kuvendi mund t’i drejtojë Prokurorit të Përgjithshëm një kujtesë lidhur me detyrimet e tij, sipas pikës 1, të këtij neni, dhe çdo informacion tjetër që e gjykon të nevojshëm, për datën e fillimit të procesit për përzgjedhjen e kandidatëve dhe kalendarin e veprimeve.
 
-		3. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike, ku duhet të dorëzohet shprehja e interesit, dhe dokumentet që duhet të shoqërojnë atë.
+	3. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike, ku duhet të dorëzohet shprehja e interesit, dhe dokumentet që duhet të shoqërojnë atë.
 
-		4. Thirrja shpallet në faqen zyrtare të Prokurorisë së Përgjithshme dhe u dërgohet të gjithë prokurorëve në adresën elektronike zyrtare.
+	4. Thirrja shpallet në faqen zyrtare të Prokurorisë së Përgjithshme dhe u dërgohet të gjithë prokurorëve në adresën elektronike zyrtare.
 
 Neni 108
 
 Paraqitja dhe shqyrtimi i shprehjes së interesit
 
-		1. Brenda 15 ditëve nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, prokurorët e interesuar shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Prokurorit të Përgjithshëm. 
+	1. Brenda 15 ditëve nga shpallja e thirrjes për paraqitjen e shprehjeve të interesit, prokurorët e interesuar shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Prokurorit të Përgjithshëm. 
 
-		2. Shprehja e interesit mund të bëhet në adresën elektronike të përmendur në thirrjen për paraqitjen e shprehjeve të interesit ose në adresën postare të Prokurorisë së Përgjithshme.
+	2. Shprehja e interesit mund të bëhet në adresën elektronike të përmendur në thirrjen për paraqitjen e shprehjeve të interesit ose në adresën postare të Prokurorisë së Përgjithshme.
 
-		3. Krahas kërkesës me shkrim, të interesuarit bashkëngjisin të paktën dokumentet e mëposhtme:
+	3. Krahas kërkesës me shkrim, të interesuarit bashkëngjisin të paktën dokumentet e mëposhtme:
 
-	a) jetëshkrimin e përditësuar;
+a) jetëshkrimin e përditësuar;
 
 b) deklaratat individuale të prokurorëve që i kanë mbështetur, të nënshkruara rregullisht;
 
@@ -2068,25 +2274,25 @@ Neni 109
 
 Verifikimi i plotësimit të kushteve ligjore
 
-		1. Brenda 7 ditëve nga dita kur mbyllet afati për dorëzimin e shprehjeve të interesit, nën përgjegjësinë e Prokurorit të Përgjithshëm, administrata e Prokurorisë së Përgjithshme verifikon plotësimin e kushteve nga kandidatët, sipas përcaktimeve të nenit 105, pikat 2 dhe 4, të këtij ligji, dhe shpall zyrtarisht kandidaturat në faqen zyrtare të Prokurorisë së Përgjithshme.
+	1. Brenda 7 ditëve nga dita kur mbyllet afati për dorëzimin e shprehjeve të interesit, nën përgjegjësinë e Prokurorit të Përgjithshëm, administrata e Prokurorisë së Përgjithshme verifikon plotësimin e kushteve nga kandidatët, sipas përcaktimeve të nenit 105, pikat 2 dhe 4, të këtij ligji, dhe shpall zyrtarisht kandidaturat në faqen zyrtare të Prokurorisë së Përgjithshme.
 
-		2. Vendimi për përjashtimin e kandidatëve që nuk plotësojnë kushtet ligjore të parashikuara në nenin 105, pikat 2 dhe 4, të këtij ligji, merret nga komisioni i kualifikimit, i përbërë nga Prokurori i Përgjithshëm dhe dy prokurorë të tjerë të Prokurorisë së Përgjithshme, të zgjedhur me short nga radhët e atyre që nuk kandidojnë. Shorti për përzgjedhjen e anëtarëve të komisionit të kualifikimit organizohet nën përgjegjësinë e Prokurorit të Përgjithshëm.
+	2. Vendimi për përjashtimin e kandidatëve që nuk plotësojnë kushtet ligjore të parashikuara në nenin 105, pikat 2 dhe 4, të këtij ligji, merret nga komisioni i kualifikimit, i përbërë nga Prokurori i Përgjithshëm dhe dy prokurorë të tjerë të Prokurorisë së Përgjithshme, të zgjedhur me short nga radhët e atyre që nuk kandidojnë. Shorti për përzgjedhjen e anëtarëve të komisionit të kualifikimit organizohet nën përgjegjësinë e Prokurorit të Përgjithshëm.
 
-		3. Kandidatët e përjashtuar njoftohen menjëherë, me shkrim, individualisht dhe në mënyrë të arsyetuar për shkaqet e përjashtimit.
+	3. Kandidatët e përjashtuar njoftohen menjëherë, me shkrim, individualisht dhe në mënyrë të arsyetuar për shkaqet e përjashtimit.
 
-		4. Në qoftë se nuk ka kandidatë për një ose më shumë nga nivelet e prokurorisë që duhet të përfaqësohen në Këshillin e Lartë të Prokurorisë, sipas përcaktimeve të nenit 149, të Kushtetutës, dhe të këtij ligji, Prokurori i Përgjithshëm bën një thirrje të dytë jo më vonë se 3 ditë nga dita kur shpallen kandidaturat në faqen zyrtare të Prokurorisë së Përgjithshme. Në këtë rast afati për paraqitjen e shprehjeve të interesit është 15 ditë nga dita e shpalljes së thirrjes së dytë.
+	4. Në qoftë se nuk ka kandidatë për një ose më shumë nga nivelet e prokurorisë që duhet të përfaqësohen në Këshillin e Lartë të Prokurorisë, sipas përcaktimeve të nenit 149, të Kushtetutës, dhe të këtij ligji, Prokurori i Përgjithshëm bën një thirrje të dytë jo më vonë se 3 ditë nga dita kur shpallen kandidaturat në faqen zyrtare të Prokurorisë së Përgjithshme. Në këtë rast afati për paraqitjen e shprehjeve të interesit është 15 ditë nga dita e shpalljes së thirrjes së dytë.
 
-		5. Në qoftë se edhe pas thirrjes së dytë nuk paraqiten kandidatë nga shkallët e papërfaqësuara të prokurorisë, zgjedhja e tyre bëhet me short nga radhët e prokurorëve që kanë kandiduar për vendin vakant. Çdo kandidat që përmbush kriteret për t’u zgjedhur anëtar i Këshillit dhe kriteret për t’u ngritur në detyrë ose për t’u transferuar në shkallët e papërfaqësuara të prokurorisë, ka të drejtë të kandidojë për vendin vakant përkatës. 
+	5. Në qoftë se edhe pas thirrjes së dytë nuk paraqiten kandidatë nga shkallët e papërfaqësuara të prokurorisë, zgjedhja e tyre bëhet me short nga radhët e prokurorëve që kanë kandiduar për vendin vakant. Çdo kandidat që përmbush kriteret për t’u zgjedhur anëtar i Këshillit dhe kriteret për t’u ngritur në detyrë ose për t’u transferuar në shkallët e papërfaqësuara të prokurorisë, ka të drejtë të kandidojë për vendin vakant përkatës. 
 
 Neni 110
 
 Ankimet kundër vendimeve të përjashtimit
 
-		1. Ankimet kundër vendimeve për përjashtimin e kandidatëve vetëm për shkelje të rënda procedurale bëhen në Gjykatën Administrative të Apelit jo më vonë se 5 ditë nga dita e njoftimit të vendimit.
+	1. Ankimet kundër vendimeve për përjashtimin e kandidatëve vetëm për shkelje të rënda procedurale bëhen në Gjykatën Administrative të Apelit jo më vonë se 5 ditë nga dita e njoftimit të vendimit.
 
-		2. Gjykata Administrative e Apelit vendos brenda 7 ditëve nga dita e depozitimit të ankimit. Vendimi i saj është përfundimtar dhe i formës së prerë
+	2. Gjykata Administrative e Apelit vendos brenda 7 ditëve nga dita e depozitimit të ankimit. Vendimi i saj është përfundimtar dhe i formës së prerë
 
-		3. Ankimi nuk pezullon zhvillimin e procedurës së vlerësimit dhe të verifikimit paraprak të kryer nga komisioni i kualifikimit, sipas nenit 109 të këtij ligji. 
+	3. Ankimi nuk pezullon zhvillimin e procedurës së vlerësimit dhe të verifikimit paraprak të kryer nga komisioni i kualifikimit, sipas nenit 109 të këtij ligji. 
 
 Neni 111
 
@@ -2194,9 +2400,9 @@ Verifikimi dhe vlerësimi paraprak i kandidatëve për anëtarë të Këshillit 
 
 3. Avokatët që kandidojnë për pozicionin e anëtarit të Këshillit të Lartë të Prokurorisë duhet të plotësojnë kushtet e mëposhtme:
 
-	a) të jenë shtetas shqiptarë;
+a) të jenë shtetas shqiptarë;
 
-	b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuara me ligj;
+b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuara me ligj;
 
 c) të jenë avokatë të licencuar sipas ligjit;
 
@@ -2222,7 +2428,7 @@ i) të mos jenë larguar nga detyra të mëparshme si gjyqtar, prokuror ose ofic
 
 j) të mos jenë kandidatë të propozuar nga trupa e pedagogëve të fakulteteve të drejtësisë dhe Shkollës së Magjistraturës, si dhe nga shoqëria civile. 
 
-	4. Avokatët që mbajnë pozicione drejtuese në dhomat e avokatisë ose në organet drejtuese të grupeve të interesit, të tilla si shoqata, grupime dhe sindikata avokatësh,  japin dorëheqjen nga këto pozicione drejtuese në qoftë se zgjidhen anëtarë të Këshillit të Lartë të Prokurorisë.
+4. Avokatët që mbajnë pozicione drejtuese në dhomat e avokatisë ose në organet drejtuese të grupeve të interesit, të tilla si shoqata, grupime dhe sindikata avokatësh,  japin dorëheqjen nga këto pozicione drejtuese në qoftë se zgjidhen anëtarë të Këshillit të Lartë të Prokurorisë.
 
 Neni 118
 
@@ -2240,17 +2446,17 @@ Paraqitja e shprehjes së interesit
 
 2. Shprehja e interesit mund të bëhet në adresën elektronike të përmendur në thirrjen për paraqitjen e shprehjeve të interesit dhe/ose në adresën postare të Avokatit të Popullit. 
 
-	3. Krahas kërkesës me shkrim, të interesuarit bashkëngjisin dokumentet e mëposhtme:
+3. Krahas kërkesës me shkrim, të interesuarit bashkëngjisin dokumentet e mëposhtme:
 
-	a) jetëshkrimin e përditësuar;
+a) jetëshkrimin e përditësuar;
 
-	b) një platformë personale të qëllimeve dhe objektivave që propozojnë të ndjekin në qoftë se zgjidhen;
+b) një platformë personale të qëllimeve dhe objektivave që propozojnë të ndjekin në qoftë se zgjidhen;
 
-	c) formularin e vetëdeklarimit, sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
+c) formularin e vetëdeklarimit, sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
 
 ç) një deklaratë përkundrejt përgjegjësisë ligjore që nuk kanë qenë anëtarë, bashkëpunëtorë ose të favorizuar të ish-Sigurimit të Shtetit para 2 korrikut të vitit 1991;
 
-	d) një deklaratë përkundrejt përgjegjësisë ligjore se nuk janë bashkëpunëtorë, informatorë ose agjentë të shërbimit sekret;
+d) një deklaratë përkundrejt përgjegjësisë ligjore se nuk janë bashkëpunëtorë, informatorë ose agjentë të shërbimit sekret;
 
 dh) dokument konfirmues për plotësimin e kushteve nga Dhoma Kombëtare e Avokatisë që tregon se kandidati i plotëson kushtet e parashikuara në shkronjat “c” deri në “e”, të nenit 117, të këtij ligji;
 
@@ -2482,11 +2688,11 @@ Zgjedhja e anëtarëve të Këshillit të Lartë të Prokurorisë nga trupa e pe
 
 2. Kandidatët e propozuar, sipas pikës 1, të këtij neni, duhet të plotësojnë kushtet e mëposhtme:
 
-		a) të jenë shtetas shqiptarë;
+	a) të jenë shtetas shqiptarë;
 
-		b) të kenë jo më pak se 15 vjet përvojë profesionale si jurist;
+	b) të kenë jo më pak se 15 vjet përvojë profesionale si jurist;
 
-		c) në kohën e kandidimit, të jenë pedagogë me kohë të plotë jo më pak se 5 vjet në fakultetin e drejtësisë të një institucioni të arsimit të lartë ose pedagogë të brendshëm ose pedagogë të jashtëm jomagjistratë në Shkollën e Magjistraturës; 
+	c) në kohën e kandidimit, të jenë pedagogë me kohë të plotë jo më pak se 5 vjet në fakultetin e drejtësisë të një institucioni të arsimit të lartë ose pedagogë të brendshëm ose pedagogë të jashtëm jomagjistratë në Shkollën e Magjistraturës; 
 
 ç) të jenë personel akademik të kategorisë “profesor” ose “lektor”; 
 
@@ -2520,15 +2726,15 @@ Neni 135
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-	1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante në faqen zyrtare të Kuvendit dhe në çdo mënyrë tjetër të përshtatshme.
+1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall vendet vakante në faqen zyrtare të Kuvendit dhe në çdo mënyrë tjetër të përshtatshme.
 
-	2. Jo më vonë se 7 ditë nga shpallja e vendeve vakante, rektori i institucionit të arsimit të lartë që ka fakultet drejtësie dhe Drejtori i Shkollës së Magjistraturës shpallin thirrjet për paraqitjen e shprehjeve të interesit nga anëtarët e personelit akademik dhe nga pedagogët e Shkollës së Magjistraturës që plotësojnë kriteret e parashikuara në nenin 134, pika 2, të këtij ligji.
+2. Jo më vonë se 7 ditë nga shpallja e vendeve vakante, rektori i institucionit të arsimit të lartë që ka fakultet drejtësie dhe Drejtori i Shkollës së Magjistraturës shpallin thirrjet për paraqitjen e shprehjeve të interesit nga anëtarët e personelit akademik dhe nga pedagogët e Shkollës së Magjistraturës që plotësojnë kriteret e parashikuara në nenin 134, pika 2, të këtij ligji.
 
 3. Thirrja shpallet në faqen zyrtare të IAL-it, të fakulteteve të drejtësisë, të Shkollës së Magjistraturës dhe i dërgohet secilit prej anëtarëve të personelit akademik dhe secilit prej pedagogëve të Shkollës së Magjistraturës në adresën elektronike.
 
-	4. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike ku duhet të dorëzohet shprehja e interesit dhe dokumentet që duhet të shoqërojnë atë.
+4. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike ku duhet të dorëzohet shprehja e interesit dhe dokumentet që duhet të shoqërojnë atë.
 
-	5. Mosshpallja e thirrjes në afatin ligjor përbën shkelje disiplinore për rektorin e IAL-it dhe Drejtorin e Shkollës së Magjistraturës.
+5. Mosshpallja e thirrjes në afatin ligjor përbën shkelje disiplinore për rektorin e IAL-it dhe Drejtorin e Shkollës së Magjistraturës.
 
 Neni 136
 
@@ -2564,21 +2770,21 @@ Neni 138
 
 Verifikimi i plotësimit të kritereve ligjore
 
-	1. Brenda 7 ditëve nga dita kur mbyllet afati për dorëzimin e shprehjeve të interesit, dekanati i fakultetit të drejtësisë mblidhet në një mbledhje të posaçme për të verifikuar plotësimin e kushteve ligjore nga kandidatët. 
+1. Brenda 7 ditëve nga dita kur mbyllet afati për dorëzimin e shprehjeve të interesit, dekanati i fakultetit të drejtësisë mblidhet në një mbledhje të posaçme për të verifikuar plotësimin e kushteve ligjore nga kandidatët. 
 
-	2. Verifikimi i plotësimit të kushteve ligjore dhe i mbështetjes është çështja e vetme në rendin e ditës së mbledhjes së dekanatit.
+2. Verifikimi i plotësimit të kushteve ligjore dhe i mbështetjes është çështja e vetme në rendin e ditës së mbledhjes së dekanatit.
 
-	3. Mbledhja e dekanatit është e vlefshme kur në të marrin pjesë jo më pak se gjysma e anëtarëve. Mosmarrja pjesë pa shkak të arsyeshëm në mbledhjen e dekanatit për verifikimin e kritereve ligjore dhe të mbështetjes për kandidatët për anëtarë të Këshillit të Lartë të Prokurorisë përbën shkelje disiplinore për anëtarët e dekanatit.
+3. Mbledhja e dekanatit është e vlefshme kur në të marrin pjesë jo më pak se gjysma e anëtarëve. Mosmarrja pjesë pa shkak të arsyeshëm në mbledhjen e dekanatit për verifikimin e kritereve ligjore dhe të mbështetjes për kandidatët për anëtarë të Këshillit të Lartë të Prokurorisë përbën shkelje disiplinore për anëtarët e dekanatit.
 
-	4. Mbledhja e dekanatit merr vendime me shumicën e votave të anëtarëve të pranishëm. 
+4. Mbledhja e dekanatit merr vendime me shumicën e votave të anëtarëve të pranishëm. 
 
 5. Anëtarët e dekanatit, të cilët kandidojnë, nuk marrin pjesë në mbledhje dhe nuk votojnë. Në rastin e kandidimit të dekanit, detyrat e tij kryhen nga një prej  zëvendësdekanëve. 
 
-	6. Në përfundim të mbledhjes dekanati shpall zyrtarisht kandidaturat përmes afishimit në këndin e njoftimeve të universitetit ose të fakultetit të drejtësisë ose në një vend tjetër të dukshëm dhe i përcjell rektorit të IAL-it listën e kandidatëve të shoqëruar me një raport që shpjegon plotësimin ose mosplotësimin e kushteve nga secili kandidat.
+6. Në përfundim të mbledhjes dekanati shpall zyrtarisht kandidaturat përmes afishimit në këndin e njoftimeve të universitetit ose të fakultetit të drejtësisë ose në një vend tjetër të dukshëm dhe i përcjell rektorit të IAL-it listën e kandidatëve të shoqëruar me një raport që shpjegon plotësimin ose mosplotësimin e kushteve nga secili kandidat.
 
-	7. Kandidatët e përjashtuar njoftohen menjëherë me shkrim, individualisht dhe në mënyrë të arsyetuar për shkaqet e skualifikimit.
+7. Kandidatët e përjashtuar njoftohen menjëherë me shkrim, individualisht dhe në mënyrë të arsyetuar për shkaqet e skualifikimit.
 
-	8. Rregullat e parashikuara në pikat 1 deri në 7, të këtij neni, zbatohen edhe për verifikimin e plotësimit të kritereve ligjore nga kandidatët e Shkollës së Magjistraturës. Në këtë rast, përgjegjësitë e parashikuara nga ky nen për dekanatin e fakultetit, ushtrohen nga mbledhja e Këshillit Pedagogjik të Shkollës së Magjistraturës. Përgjegjësitë e parashikuara në pikën 6 të këtij neni për dekanin e fakultetit ushtrohen nga Drejtori i Shkollës së Magjistraturës. Lista me kandidatët i përcillet nga Drejtori i Shkollës së Magjistraturës Kryetarit të Këshillit Drejtues të Shkollës së Magjistraturës.
+8. Rregullat e parashikuara në pikat 1 deri në 7, të këtij neni, zbatohen edhe për verifikimin e plotësimit të kritereve ligjore nga kandidatët e Shkollës së Magjistraturës. Në këtë rast, përgjegjësitë e parashikuara nga ky nen për dekanatin e fakultetit, ushtrohen nga mbledhja e Këshillit Pedagogjik të Shkollës së Magjistraturës. Përgjegjësitë e parashikuara në pikën 6 të këtij neni për dekanin e fakultetit ushtrohen nga Drejtori i Shkollës së Magjistraturës. Lista me kandidatët i përcillet nga Drejtori i Shkollës së Magjistraturës Kryetarit të Këshillit Drejtues të Shkollës së Magjistraturës.
 
 Neni 139
 
@@ -2642,13 +2848,13 @@ Neni 143
 
 Numërimi i votave dhe shpallja e rezultatit
 
-	1. Në përfundim të procesit të votimit, anëtarët e komisionit të votimit hapin kutinë në prani të të gjithë anëtarëve të Asamblesë së Personelit Akademik ose të Këshillit Pedagogjik që marrin pjesë në mbledhje. Njëri nga anëtarët e komisionit të votimit lexon me zë të lartë rezultatin e secilës fletë votimi dhe rezultatin e votimit.
+1. Në përfundim të procesit të votimit, anëtarët e komisionit të votimit hapin kutinë në prani të të gjithë anëtarëve të Asamblesë së Personelit Akademik ose të Këshillit Pedagogjik që marrin pjesë në mbledhje. Njëri nga anëtarët e komisionit të votimit lexon me zë të lartë rezultatin e secilës fletë votimi dhe rezultatin e votimit.
 
-	2. Votat që gjykohen të pavlefshme rivlerësohen në fund të procesit të numërimit. Në rast mosmarrëveshjeje mes anëtarëve të komisionit të votimit për vlefshmërinë e votave, vendimet merren në fund të procesit të rivlerësimit me shumicën e votave. Votat që gjykohen të vlefshme në fund të procesit të rivlerësimit u shtohen kandidatëve përkatës.
+2. Votat që gjykohen të pavlefshme rivlerësohen në fund të procesit të numërimit. Në rast mosmarrëveshjeje mes anëtarëve të komisionit të votimit për vlefshmërinë e votave, vendimet merren në fund të procesit të rivlerësimit me shumicën e votave. Votat që gjykohen të vlefshme në fund të procesit të rivlerësimit u shtohen kandidatëve përkatës.
 
-	3. Vota të pavlefshme janë fletët e votimit kur: 
+3. Vota të pavlefshme janë fletët e votimit kur: 
 
-	a) fleta e votimit nuk ka të njëjtat elemente të miratuara nga komisioni i votimit; 
+a) fleta e votimit nuk ka të njëjtat elemente të miratuara nga komisioni i votimit; 
 
 b) në fletën e votimit janë bërë shënime në favor ose në disfavor të kandidatëve; 
 
@@ -2682,25 +2888,25 @@ Neni 145
 
 Thirrja e mbledhjes së Asamblesë së Personelit Akademik nga Rektori i IAL
 
-		1. Në qoftë se në përfundim të afatit të përmendur në nenin 140, pika 1, të këtij ligji, dekani i fakultetit të drejtësisë nuk ka thirrur mbledhjen e Asamblesë së Personelit Akademik për përzgjedhjen e kandidatit për anëtar të Këshillit të Lartë të Prokurorisë, thirrja e mbledhjes bëhet nga rektori i IAL-it.
+	1. Në qoftë se në përfundim të afatit të përmendur në nenin 140, pika 1, të këtij ligji, dekani i fakultetit të drejtësisë nuk ka thirrur mbledhjen e Asamblesë së Personelit Akademik për përzgjedhjen e kandidatit për anëtar të Këshillit të Lartë të Prokurorisë, thirrja e mbledhjes bëhet nga rektori i IAL-it.
 
-		2. Në këtë rast, thirrja e mbledhjes së Asamblesë së Personelit Akademik për përzgjedhjen e kandidatit bëhet përmes shpalljes në faqen zyrtare të IAL-it, si dhe i dërgohet secilit prej anëtarëve të personelit akademik në adresën elektronike.
+	2. Në këtë rast, thirrja e mbledhjes së Asamblesë së Personelit Akademik për përzgjedhjen e kandidatit bëhet përmes shpalljes në faqen zyrtare të IAL-it, si dhe i dërgohet secilit prej anëtarëve të personelit akademik në adresën elektronike.
 
-		3. Mosthirrja e mbledhjes përbën shkelje disiplinore për dekanin e fakultetit të drejtësisë.
+	3. Mosthirrja e mbledhjes përbën shkelje disiplinore për dekanin e fakultetit të drejtësisë.
 
 Neni 146
 
  Thirrja e mbledhjes së posaçme të drejtuesve të institucioneve për përzgjedhjen përfundimtare të kandidatëve
 
-	1. Jo më vonë së 60 ditë para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit thërret një mbledhje të posaçme, në të cilën marrin pjesë Kryetari i Këshillit Drejtues të Shkollës së Magjistraturës, Drejtori i Shkollës së Magjistraturës, rektorët e IAL-ve që ofrojnë programe studimi në drejtësi dhe dekanët e fakulteteve të drejtësisë ose drejtuesit e departamenteve të drejtësisë. Thirrja botohet në faqen zyrtare të Kuvendit dhe u dërgohet personalisht në adresën elektronike të gjithë subjekteve të sipërpërmendura.
+1. Jo më vonë së 60 ditë para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit thërret një mbledhje të posaçme, në të cilën marrin pjesë Kryetari i Këshillit Drejtues të Shkollës së Magjistraturës, Drejtori i Shkollës së Magjistraturës, rektorët e IAL-ve që ofrojnë programe studimi në drejtësi dhe dekanët e fakulteteve të drejtësisë ose drejtuesit e departamenteve të drejtësisë. Thirrja botohet në faqen zyrtare të Kuvendit dhe u dërgohet personalisht në adresën elektronike të gjithë subjekteve të sipërpërmendura.
 
-	2. Thirrja e mbledhjes së posaçme për përzgjedhjen e kandidatëve tregon datën, vendin dhe orën e mbledhjes.
+2. Thirrja e mbledhjes së posaçme për përzgjedhjen e kandidatëve tregon datën, vendin dhe orën e mbledhjes.
 
-	3. Zgjedhja e kandidatëve për anëtarë të Këshillit të Lartë të Prokurorisë është pika e vetme në rendin e ditës së mbledhjes së posaçme.
+3. Zgjedhja e kandidatëve për anëtarë të Këshillit të Lartë të Prokurorisë është pika e vetme në rendin e ditës së mbledhjes së posaçme.
 
-	4. Numri i pjesëmarrësve në mbledhjen e posaçme shënohet në një listë emërore të nënshkruar nga të gjithë të pranishmit.
+4. Numri i pjesëmarrësve në mbledhjen e posaçme shënohet në një listë emërore të nënshkruar nga të gjithë të pranishmit.
 
-	5. Përpara votimit, kandidatët e përzgjedhur nga IAL-et dhe kandidatët e përzgjedhur nga Shkolla e Magjistraturës paraqesin platformat e tyre përpara mbledhjes së posaçme. 
+5. Përpara votimit, kandidatët e përzgjedhur nga IAL-et dhe kandidatët e përzgjedhur nga Shkolla e Magjistraturës paraqesin platformat e tyre përpara mbledhjes së posaçme. 
 
 6. Mbledhja e posaçme e drejtuesve të institucioneve kryen procedurë të përbashkët për të dy kategoritë e kandidatëve për anëtarë të Këshillit të Lartë Gjyqësor dhe Këshillit të Lartë të Prokurorisë në rast të krijimit të vendeve vakante për Këshillat në të njëjtën kohë. 
 
@@ -2708,11 +2914,11 @@ Neni 147
 
 Kuorumi
 
-	1. Pjesëmarrja në mbledhjen e posaçme për zgjedhjen e anëtarëve të Këshillit të Lartë të Prokurorisë është e detyrueshme.
+1. Pjesëmarrja në mbledhjen e posaçme për zgjedhjen e anëtarëve të Këshillit të Lartë të Prokurorisë është e detyrueshme.
 
-	2. Mbledhja e posaçme për zgjedhjen e kandidatëve zhvillohet kur janë të pranishëm më shumë se gjysma e anëtarëve.
+2. Mbledhja e posaçme për zgjedhjen e kandidatëve zhvillohet kur janë të pranishëm më shumë se gjysma e anëtarëve.
 
-	3. Numri i pjesëmarrësve në mbledhjen e posaçme shënohet në një listë emërore të nënshkruar nga të gjithë të pranishmit.
+3. Numri i pjesëmarrësve në mbledhjen e posaçme shënohet në një listë emërore të nënshkruar nga të gjithë të pranishmit.
 
 Neni 148
 
@@ -2740,7 +2946,7 @@ Neni 149
 
 Numërimi i votave dhe shpallja e rezultatit
 
-	1. Në përfundim të procesit të votimit, anëtarët e komisionit të votimit hapin kutinë në prani të të gjithë pjesëmarrësve në mbledhje. Njëri nga anëtarët e komisionit të votimit lexon me zë të lartë rezultatin e secilës fletë votimi dhe rezultatin e votimit.
+1. Në përfundim të procesit të votimit, anëtarët e komisionit të votimit hapin kutinë në prani të të gjithë pjesëmarrësve në mbledhje. Njëri nga anëtarët e komisionit të votimit lexon me zë të lartë rezultatin e secilës fletë votimi dhe rezultatin e votimit.
 
 2. Votat që gjykohen të pavlefshme rivlerësohen nga komisioni i votimit në fund të procesit të numërimit. Në rast mosmarrëveshjeje mes anëtarëve të komisionit të votimit për vlefshmërinë e votave, vendimet merren në fund të procesit të rivlerësimit me shumicën e votave. Votat që gjykohen të vlefshme në fund të procesit të rivlerësimit u shtohen kandidatëve përkatës.
 
@@ -2798,9 +3004,9 @@ dhe kushtet për t’u zgjedhur
 
 1. Kuvendi zgjedh 1 anëtar të Këshillit të Lartë të Prokurorisë nga anëtarët e organizatave të shoqërisë civile, të regjistruara sipas legjislacionit përkatës, të cilat punojnë në fushën e sistemit të drejtësisë ose të të drejtave të njeriut dhe që kanë zbatuar projekte në këtë fushë të paktën 5 vitet e fundit. 
 
-		2. Kandidatët nga shoqëria civile duhet të plotësojnë kushtet e mëposhtme:
+	2. Kandidatët nga shoqëria civile duhet të plotësojnë kushtet e mëposhtme:
 
-	a) të jenë shtetas shqiptarë;
+a) të jenë shtetas shqiptarë;
 
 b) të kenë përfunduar ciklin e dytë të studimeve universitare për drejtësi me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të kenë marrë një diplomë të njësuar sipas rregullave për njësimin e diplomave, të parashikuara me ligj;
 
@@ -2810,23 +3016,23 @@ c) të kenë të paktën 15 vite përvojë pune në profesion si jurist;
 
 d) në kohën e kandidimit të jenë të punësuar ose të angazhuar për të paktën 5 vjet, me kohë të plotë ose me kohë të pjesshme pa ndërprerje, në një organizatë të shoqërisë civile për fusha të lidhura me sistemin e drejtësisë ose të drejtat e njeriut.  
 
-	dh) në kohën e kandidimit të mos kenë ushtruar në mënyrë aktive profesionin e avokatit për të paktën 2 vjet, me përjashtim të atyre të angazhuar në organizata ose klinika që ofrojnë ndihmën ligjore falas për funksion të organizatës;
+dh) në kohën e kandidimit të mos kenë ushtruar në mënyrë aktive profesionin e avokatit për të paktën 2 vjet, me përjashtim të atyre të angazhuar në organizata ose klinika që ofrojnë ndihmën ligjore falas për funksion të organizatës;
 
-	e) të mos jenë kandidatë të propozuar nga avokatia ose trupa e pedagogëve të drejtësisë; 
+e) të mos jenë kandidatë të propozuar nga avokatia ose trupa e pedagogëve të drejtësisë; 
 
-	ë) të mos kenë qenë dënuar më parë me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
+ë) të mos kenë qenë dënuar më parë me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
 
 f) të mos kenë mbajtur funksione politike në administratën publike ose pozicione drejtuese në partitë politike, gjatë 10 viteve të fundit përpara kandidimit;
 
-	g) të mos kenë qenë anëtarë, bashkëpunëtorë ose të favorizuar të shërbimeve të ish-Sigurimit të Shtetit para 2 korrikut 1991 në kuptimin e ligjit “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
+g) të mos kenë qenë anëtarë, bashkëpunëtorë ose të favorizuar të shërbimeve të ish-Sigurimit të Shtetit para 2 korrikut 1991 në kuptimin e ligjit “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
 
-	gj) të mos jenë bashkëpunëtorë, informatorë ose agjentë të shërbimeve të inteligjencës;
+gj) të mos jenë bashkëpunëtorë, informatorë ose agjentë të shërbimeve të inteligjencës;
 
 h) në kohën e kandidimit, të mos kenë asnjë anëtar të familjes, sipas kuptimit të ligjit “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, si dhe të afërm të shkallës së parë që është anëtar në detyrë i Këshillit ose kandidat për anëtar.
 
 3. Përfaqësuesit nga radhët e organizatave të shoqërisë civile japin dorëheqjen nga çdo pozicion drejtues ose zbatues në këto organizata, nëse zgjidhen anëtarë të Këshillit të Lartë Prokurorisë.
 
-	4. Ka të drejtë të kandidojë çdo anëtar i organizatës së shoqërisë civile që plotëson kushtet e përmendura në pikën 2, të këtij neni, dhe që siguron mbështetjen e së paku 3 organizatave të shoqërisë civile që punojnë në fusha të lidhura me sistemin e drejtësisë ose të drejtat e njeriut. 
+4. Ka të drejtë të kandidojë çdo anëtar i organizatës së shoqërisë civile që plotëson kushtet e përmendura në pikën 2, të këtij neni, dhe që siguron mbështetjen e së paku 3 organizatave të shoqërisë civile që punojnë në fusha të lidhura me sistemin e drejtësisë ose të drejtat e njeriut. 
 
 5. Sekretari i Përgjithshëm i Kuvendit miraton formularin tip për dhënien e mbështetjes kandidatëve për anëtarë të Këshillit të Lartë të Prokurorisë nga shoqëria civile. Formulari tip nënshkruhet nga përfaqësuesi ligjor i secilës prej organizatave të shoqërisë civile, të cilat vendosin të mbështesin një koleg.
 
@@ -2834,35 +3040,35 @@ Neni 153
 
 Thirrja për paraqitjen e shprehjes së interesit
 
-	1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarit nga shoqëria civile në Këshillin e Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall thirrjen për paraqitjen e shprehjeve të interesit nga kandidatët e shoqërisë civile që janë të interesuar për pozicionin e anëtarit të Këshillit.
+1. Jo më vonë se 4 muaj para datës së mbarimit të mandatit të anëtarit nga shoqëria civile në Këshillin e Lartë të Prokurorisë në detyrë, Sekretari i Përgjithshëm i Kuvendit shpall thirrjen për paraqitjen e shprehjeve të interesit nga kandidatët e shoqërisë civile që janë të interesuar për pozicionin e anëtarit të Këshillit.
 
-	2. Thirrja shpallet në faqen zyrtare të Kuvendit.
+2. Thirrja shpallet në faqen zyrtare të Kuvendit.
 
-	3. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike ku duhet të dorëzohet shprehja e interesit dhe dokumentet që duhet të shoqërojnë atë.
+3. Thirrja për paraqitjen e shprehjes së interesit përmban afatin, brenda të cilit duhet të dorëzohet shprehja e interesit, adresën postare dhe elektronike ku duhet të dorëzohet shprehja e interesit dhe dokumentet që duhet të shoqërojnë atë.
 
 Neni 154
 
 Paraqitja dhe shqyrtimi i shprehjes së interesit
 
-		1. Jo më vonë se 15 ditë nga shpallja e thirrjes për pranimin e shprehjeve të interesit, anëtarët e shoqërisë civile shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Avokatit të Popullit.
+	1. Jo më vonë se 15 ditë nga shpallja e thirrjes për pranimin e shprehjeve të interesit, anëtarët e shoqërisë civile shprehin interesin e tyre përmes një kërkese me shkrim drejtuar Avokatit të Popullit.
 
-		2. Shprehja e interesit mund të bëhet në adresën elektronike ose postare të shprehur në thirrjen për paraqitjen e shprehjeve të interesit.
+	2. Shprehja e interesit mund të bëhet në adresën elektronike ose postare të shprehur në thirrjen për paraqitjen e shprehjeve të interesit.
 
-		3. Krahas kërkesës me shkrim, të interesuarit bashkëngjisin, të paktën, dokumentet e mëposhtme:
+	3. Krahas kërkesës me shkrim, të interesuarit bashkëngjisin, të paktën, dokumentet e mëposhtme:
 
-		a) jetëshkrimin e përditësuar;
+	a) jetëshkrimin e përditësuar;
 
-		b) një platformë personale të qëllimeve dhe objektivave që propozojnë të ndjekin në qoftë se zgjidhen;
+	b) një platformë personale të qëllimeve dhe objektivave që propozojnë të ndjekin në qoftë se zgjidhen;
 
-		c) formularin e vetëdeklarimit sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
+	c) formularin e vetëdeklarimit sipas kërkesave të ligjit “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
 
-		ç) një deklaratë përkundrejt përgjegjësisë ligjore që nuk kanë qenë anëtarë ose bashkëpunëtorë të ish-Sigurimit të Shtetit para 2 korrikut 1991 në kuptimin e ligjit “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
+	ç) një deklaratë përkundrejt përgjegjësisë ligjore që nuk kanë qenë anëtarë ose bashkëpunëtorë të ish-Sigurimit të Shtetit para 2 korrikut 1991 në kuptimin e ligjit “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
 
-		d) një deklaratë përkundrejt përgjegjësisë ligjore se nuk janë bashkëpunëtorë, informatorë ose agjentë të ndonjë shërbimi sekret; 
+	d) një deklaratë përkundrejt përgjegjësisë ligjore se nuk janë bashkëpunëtorë, informatorë ose agjentë të ndonjë shërbimi sekret; 
 
-		dh) çdo dokument tjetër që vërteton përmbushjen e kushteve ligjore të parashikuara në nenin 152, pika 2, të këtij ligji.
+	dh) çdo dokument tjetër që vërteton përmbushjen e kushteve ligjore të parashikuara në nenin 152, pika 2, të këtij ligji.
 
-		4. Emrat e kandidatëve nga shoqëria civile dhe kopjet origjinale, ose të noterizuara, të dokumentacionit të paraqitur prej tyre regjistrohen në regjistrin e protokollit të Avokatit të Popullit.
+	4. Emrat e kandidatëve nga shoqëria civile dhe kopjet origjinale, ose të noterizuara, të dokumentacionit të paraqitur prej tyre regjistrohen në regjistrin e protokollit të Avokatit të Popullit.
 
 5. Zyra e protokollit të Avokatit të Popullit merr në dorëzim shprehjen e interesit dhe dokumentacionin shoqërues të kandidatëve dhe u jep atyre një vërtetim shkresor për dorëzimin e shprehjes së interesit dhe të dokumentacionit shoqërues.
 
@@ -2910,9 +3116,9 @@ Përzgjedhja e anëtarit të Këshillit të Lartë të Prokurorisë nga radhët 
 
 të shoqërisë civile
 
-	1. Kryetari komisionit të shoqërisë civile i përcjell Sekretarit të Përgjithshëm të Kuvendit një listë me emrat e jo më shumë se 10 kandidatëve që kanë marrë më shumë pikë, por në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit të Shqipërisë. Listës i bashkëngjitet një kopje origjinale, ose e noterizuar, e dokumentacionit të çdo kandidati të përzgjedhur, së bashku me inventarin e dosjes së tij. 
+1. Kryetari komisionit të shoqërisë civile i përcjell Sekretarit të Përgjithshëm të Kuvendit një listë me emrat e jo më shumë se 10 kandidatëve që kanë marrë më shumë pikë, por në çdo rast jo më pak se trefishi i numrit të vendeve vakante. Lista dhe raporti i vlerësimit regjistrohen në regjistrin e protokollit të Kuvendit të Shqipërisë. Listës i bashkëngjitet një kopje origjinale, ose e noterizuar, e dokumentacionit të çdo kandidati të përzgjedhur, së bashku me inventarin e dosjes së tij. 
 
-	2. Rregullat e parashikuara në nenin 35, të këtij ligji, nga pika 2 deri në pikën 19, zbatohet edhe për përzgjedhjen e anëtarit të Këshillit të Lartë të Prokurorisë nga radhët e përfaqësuesve të shoqërisë civile.
+2. Rregullat e parashikuara në nenin 35, të këtij ligji, nga pika 2 deri në pikën 19, zbatohet edhe për përzgjedhjen e anëtarit të Këshillit të Lartë të Prokurorisë nga radhët e përfaqësuesve të shoqërisë civile.
 
 KREU II
 
@@ -2926,75 +3132,85 @@ Neni 157
 
 Kryetari i Këshillit të Lartë të Prokurorisë
 
+(ndryshuar fjalë në shkronjën “dh” të pikës 3  me ligjin nr. 47/2019, datë 18.7.2019)
+
 1. Kryetari dhe Zëvëndëskryetari i Këshillit të Lartë të Prokurorisë zgjidhen në mbledhjen e parë të Këshillit nga radhët e anëtarëve joprokurorë me shumicën e thjeshtë të votave të anëtarëve. Ata qëndrojnë në detyrë deri në përfundim të mandatit si anëtar i Këshillit.
 
 2. Kryetari i Këshillit gëzon pagën dhe përfitimet e Kryetarit të Gjykatës së Lartë.
 
 3. Kryetari i Këshillit të Lartë të Prokurorisë ushtron kompetencat e mëposhtme:
 
-	a) është përgjegjës për mirëfunksionimin e Këshillit dhe zbatimin me efiçencë të detyrave të tij, në përputhje me ligjin;
+a) është përgjegjës për mirëfunksionimin e Këshillit dhe zbatimin me efiçencë të detyrave të tij, në përputhje me ligjin;
 
-	b) përgatit, thërret dhe drejton mbledhjen e Këshillit;
+b) përgatit, thërret dhe drejton mbledhjen e Këshillit;
 
-	c) mbikëqyr dhe drejton administratën e Këshillit;
+c) mbikëqyr dhe drejton administratën e Këshillit;
 
-	ç) përfaqëson Këshillin në marrëdhëniet me të tretët;
+ç) përfaqëson Këshillin në marrëdhëniet me të tretët;
 
-	d) siguron bashkëpunimin me institucionet e tjera;
+d) siguron bashkëpunimin me institucionet e tjera;
 
-	dh) raporton para Kuvendit për gjendjen në sistemin gjyqësor dhe merr masat për publikimin e raportit; 
+dh) raporton para Kuvendit për gjendjen në prokurori dhe merr masat për publikimin e raportit; 
 
-	e) propozon kryetarët e komisioneve të përhershme dhe cakton kryetarët e komisioneve të përkohshme të Këshillit;
+e) propozon kryetarët e komisioneve të përhershme dhe cakton kryetarët e komisioneve të përkohshme të Këshillit;
 
-	ë) ushtron çdo detyrë tjetër që i jepet me ligj.
+ë) ushtron çdo detyrë tjetër që i jepet me ligj.
 
 Neni 158
 
 Zëvendëskryetari
 
-	Zëvendëskryetari ushtron të gjitha kompetencat e Kryetarit në mungesë dhe në pamundësi të këtij të fundit, si dhe në rastet e pamundësisë së përkohshme të Kryetarit. 
+Zëvendëskryetari ushtron të gjitha kompetencat e Kryetarit në mungesë dhe në pamundësi të këtij të fundit, si dhe në rastet e pamundësisë së përkohshme të Kryetarit. 
 
 Neni 159
 
 Mbledhja plenare e Këshillit të Lartë të Prokurorisë
 
-1. Këshilli i Lartë të Prokurorisë organizohet dhe e ushtron veprimtarinë e tij në komisione ose në mbledhje plenare. Kompetencat e Këshillit që nuk përmenden në pikën 2, të këtij neni, ushtrohen nga komisionet. Kompetencat që përmenden në pikën 2 të këtij neni ushtrohen nga mbledhja plenare bazuar në propozimet e komisioneve përkatëse.
+(shfuqizuar me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017 dhe ndryshuar me ligjin nr. 47/2019, datë 18.7.2019)
 
-2. Mbledhja plenare e Këshillit të Lartë të Prokurorisë ushtron kompetencat e mëposhtme:
+1. Këshilli i Lartë i Prokurorisë organizohet dhe e ushtron veprimtarinë e tij në mbledhje plenare ose në komisione. 
 
-a) miraton akte nënligjore normative, në zbatim të këtij ligji ose të ligjeve të tjera, me efekt të përgjithshëm detyrues mbi të gjithë prokurorët, administratën e prokurorisë, personat privatë dhe organet publike;
+2. Këshilli i Lartë i Prokurorisë në mbledhjen plenare ushtron kompetencat e mëposhtme:
 
-b) miraton akte për rregullimin e procedurave të brendshme të Këshillit;
+a) emëron, vlerëson, ngre në detyrë dhe transferon prokurorët e të gjitha niveleve; 
 
-		c) emëron dhe ngre në detyrë prokurorët mbi propozimin e Komisionit të Zhvillimit të Karrierës;
+b) vendos masa disiplinore ndaj prokurorëve të të gjitha niveleve; 
 
-		ç) vendos masën disiplinore të shkarkimit mbi prokurorët e prokurorisë së posaçme kundër korrupsionit me dy të tretat e votave mbi propozimin e Komisionit Disiplinor;
+c) i propozon Kuvendit kandidatët për Prokuror të Përgjithshëm, në përputhje me legjislacionin në fuqi; 
 
-		d) shqyrton ankimet kundër vendimeve të komisioneve, me përjashtim të atyre vendimeve që rrëzojnë vendimet e Inspektorit të Lartë të Drejtësisë për arkivimin e ankimeve ose pushimin e hetimeve, sipas pikës 13, të nenit 160, të këtij ligji; 
+ç) miraton rregullat për etikën e prokurorëve dhe mbikëqyr respektimin e tyre; 
 
-		dh) miraton udhëzime të përgjithshme jodetyruese;
+d) propozon dhe administron buxhetin e tij; 
 
-		e) miraton rregulla të detajuara për funksionimin e administratës së Këshillit;
+dh) informon publikun dhe Kuvendin për gjendjen e prokurorisë;
 
-		ë) miraton përbërjen e komisioneve të përhershme, të komisioneve të përkohshme, si dhe rregulla të detajuara për veprimtarinë e tyre;
+e) miraton akte nënligjore normative, në zbatim të këtij ligji ose të ligjeve të tjera, me ndikim të përgjithshëm detyrues për të gjithë prokurorët; 
 
-		f) shqyrton ankimet kundër udhëzimeve të Prokurorit të Përgjithshëm ose të drejtuesve të prokurorive;
+ë) miraton aktet për rregullimin e procedurave të brendshme të Këshillit;
 
-		g) miraton rregulla të detajuara mbi menaxhimin dhe përdorimin e teknologjisë së informacionit nga institucionet e sistemit të prokurorisë në bashkëpunim me qendrën e teknologjisë së informacionit për sistemin e drejtësisë. 
+f) miraton Kodin e Etikës së Këshillit;
 
-		3. Në mbledhjen plenare të Këshillit, si dhe në mbledhjen e Komisionit Disiplinor, e cila shqyrton propozimet e Inspektorit të Lartë të Drejtësisë për vendosjen e masave disiplinore, nuk marrin pjesë anëtarët e Këshillit, të cilët kanë bërë kërkesën mbi bazën e së cilës ka nisur hetimi i Inspektorit të Lartë.
+g) shqyrton, sipas rastit, vendimet e komisioneve;
 
-	4. Mbledhja plenare është e përbërë nga të gjithë anëtarët e Këshillit. Anëtari nuk duhet të marrë pjesë gjatë diskutimeve dhe vendimmarrjes për çështjen specifike të rendit të ditës të mbledhjes plenare: 
+gj) miraton udhëzime jodetyruese;
 
-	a) në rastet e marrjes së vendimit për një çështje disiplinore, kur ka paraqitur tek Inspektori i Lartë i Drejtësisë ankesën, e cila është arsyeja e fillimit të procedimit disiplinor;
+h) miraton rregullat e hollësishme për funksionimin e administratës së Këshillit;
 
-	b) në rastet e marrjes së vendimit për një çështje disiplinore, kur ka qenë anëtar i një komisioni që ka dhënë ndërkohë vendimin për çështjet e parashikuara në pikën 13, të nenit 160, të këtij ligji. 
+i) miraton përbërjen e komisioneve të përhershme, të komisioneve të përkohshme, si dhe rregulla të detajuara për funksionimin e tyre.
+
+3. Në mbledhjen plenare marrin pjesë të gjithë anëtarët e Këshillit. Anëtari i Këshillit nuk merr pjesë në vendimmarrjen e mbledhjes plenare ose komisionit për çështje të mëposhtme të rendit të ditës:
+
+a) në rast vendimi për çështje disiplinore, kur anëtari ka paraqitur tek Inspektori i Lartë i Drejtësisë kërkesën, mbi bazën e së cilës ka nisur procedimi disiplinor;
+
+b) nëse si anëtar i komisionit ka marrë vendim për një çështje disiplinore, të parashikuar në pikën 13, të nenit 160, të këtij ligji.
+
+4. Komisionet kryejnë veprimtari të tjera në përputhje me rregulloren e brendshme.
 
 Neni 160
 
 Komisionet e përhershme të Këshillit të Lartë të Prokurorisë
 
-	1. Komisionet e përhershme të Këshillit të Lartë të Prokurorisë e ushtrojnë veprimtarinë dhe marrin vendime në fushat e parashikuara në pikën 3, të këtij neni, ose i propozojnë mbledhjes plenare të Këshillit miratimin e vendimeve që janë në kompetencë të kësaj të fundit, sipas nenit 159 të këtij ligji.
+1. Komisionet e përhershme të Këshillit të Lartë të Prokurorisë e ushtrojnë veprimtarinë dhe marrin vendime në fushat e parashikuara në pikën 3, të këtij neni, ose i propozojnë mbledhjes plenare të Këshillit miratimin e vendimeve që janë në kompetencë të kësaj të fundit, sipas nenit 159 të këtij ligji.
 
 2. Pasi zgjedh Kryetarin, Këshilli merr vendim për përbërjen e komisioneve të përhershme, përfshirë edhe anëtarët zëvendësues. Në çdo rast një anëtar prokuror mund të zëvendësohet vetëm nga një anëtar tjetër prokuror. Një anëtar joprokuror mund të zëvendësohet vetëm nga një anëtar tjetër joprokuror. Procedura dhe kritere më të hollësishme për marrjen e këtij vendimi rregullohen nga Këshilli.
 
@@ -3008,53 +3224,53 @@ c) Komisioni i Vlerësimit të Veprimtarisë Etike dhe Profesionale;
 
 ç) Komisioni i Zhvillimit të Karrierës.
 
-	4. Çdo komision përbëhet nga tre anëtarë. Pranë çdo komisioni caktohen edhe 2 anëtarë zëvendësues. Caktimi i anëtarëve dhe anëtarëve zëvendësues të komisioneve bëhet duke mbajtur parasysh nevojën për të garantuar një shpërndarje të drejtë të ngarkesës së punës dhe respektimin e kërkesave dhe të raporteve midis anëtarëve prokurorë dhe joprokurorë, të parashikuara në pikat 5 deri në 12 të këtij neni.
+4. Çdo komision përbëhet nga tre anëtarë. Pranë çdo komisioni caktohen edhe 2 anëtarë zëvendësues. Caktimi i anëtarëve dhe anëtarëve zëvendësues të komisioneve bëhet duke mbajtur parasysh nevojën për të garantuar një shpërndarje të drejtë të ngarkesës së punës dhe respektimin e kërkesave dhe të raporteve midis anëtarëve prokurorë dhe joprokurorë, të parashikuara në pikat 5 deri në 12 të këtij neni.
 
-		5. Një anëtar i Këshillit mund të jetë anëtar në jo më shumë se 2 komisione të përhershme. Një anëtar i Këshillit nuk mund të jetë kryetar në më shumë së 1 komision të përhershëm. Ky rregull nuk zbatohet për anëtarët zëvendësues dhe për komisionet ad hoc.
+	5. Një anëtar i Këshillit mund të jetë anëtar në jo më shumë se 2 komisione të përhershme. Një anëtar i Këshillit nuk mund të jetë kryetar në më shumë së 1 komision të përhershëm. Ky rregull nuk zbatohet për anëtarët zëvendësues dhe për komisionet ad hoc.
 
-		6. Komisionet zgjedhin kryetarët përkatës në mbledhjen e tyre të parë me shumicë votash dhe bazuar në propozimin e Kryetarit të Këshillit. Kryetari i Këshillit është kryetar i komisioneve ku ai merr pjesë.
+	6. Komisionet zgjedhin kryetarët përkatës në mbledhjen e tyre të parë me shumicë votash dhe bazuar në propozimin e Kryetarit të Këshillit. Kryetari i Këshillit është kryetar i komisioneve ku ai merr pjesë.
 
-		7. Anëtarët e Komisionit të Vlerësimit të Veprimtarisë Etike dhe Profesionale nuk mund të jenë edhe anëtarë të Komisionit të Zhvillimit të Karrierës.
+	7. Anëtarët e Komisionit të Vlerësimit të Veprimtarisë Etike dhe Profesionale nuk mund të jenë edhe anëtarë të Komisionit të Zhvillimit të Karrierës.
 
-		8. Komisioni i Planifikimit Strategjik, i Administrimit dhe Buxhetit përbëhet nga 2 anëtarë joprokurorë dhe 1 anëtar prokuror.
+	8. Komisioni i Planifikimit Strategjik, i Administrimit dhe Buxhetit përbëhet nga 2 anëtarë joprokurorë dhe 1 anëtar prokuror.
 
-		9. Komisioni Disiplinor përbëhet nga 2 anëtarë prokurorë dhe 1 anëtar joprokuror.
+	9. Komisioni Disiplinor përbëhet nga 2 anëtarë prokurorë dhe 1 anëtar joprokuror.
 
-		10. Komisioni i Vlerësimit të Veprimtarisë Etike dhe Profesionale përbëhet nga 2 anëtarë prokurorë dhe 1 anëtar joprokuror.
+	10. Komisioni i Vlerësimit të Veprimtarisë Etike dhe Profesionale përbëhet nga 2 anëtarë prokurorë dhe 1 anëtar joprokuror.
 
-		11. Komisioni i Zhvillimit të Karrierës përbëhet nga 2 anëtarë prokurorë dhe 1 anëtar joprokuror;
+	11. Komisioni i Zhvillimit të Karrierës përbëhet nga 2 anëtarë prokurorë dhe 1 anëtar joprokuror;
 
-		12. Anëtarët e komisioneve i ushtrojnë funksionet e tyre pranë komisioneve për dy vite e gjysmë nga dita e zgjedhjes. Në përfundim të kësaj kohe përbërja e komisioneve ndryshohet, sipas procedurës së parashikuar në pikën 2 të këtij neni.
+	12. Anëtarët e komisioneve i ushtrojnë funksionet e tyre pranë komisioneve për dy vite e gjysmë nga dita e zgjedhjes. Në përfundim të kësaj kohe përbërja e komisioneve ndryshohet, sipas procedurës së parashikuar në pikën 2 të këtij neni.
 
-		13. Për shqyrtimin e ankimeve kundër vendimeve të Inspektorit të Lartë të Drejtësisë për arkivimin e ankimit ose pushimin e hetimit ndaj një prokurori, krijohet një komision i përkohshëm, i përbërë nga 2 anëtarë joprokurorë dhe 1 anëtar prokuror. Përbërja e këtij komisioni përcaktohet me short nën kujdesin e Kryetarit të Këshillit. Vendimet e komisionit të përkohshëm janë përfundimtare dhe nuk mund të apelohen para mbledhjes plenare të Këshillit.
+	13. Për shqyrtimin e ankimeve kundër vendimeve të Inspektorit të Lartë të Drejtësisë për arkivimin e ankimit ose pushimin e hetimit ndaj një prokurori, krijohet një komision i përkohshëm, i përbërë nga 2 anëtarë joprokurorë dhe 1 anëtar prokuror. Përbërja e këtij komisioni përcaktohet me short nën kujdesin e Kryetarit të Këshillit. Vendimet e komisionit të përkohshëm janë përfundimtare dhe nuk mund të apelohen para mbledhjes plenare të Këshillit.
 
-		14. Këshilli i Lartë i Prokurorisë mund të krijojë komisione të përkohshme për trajtimin e çështjeve të veçanta.
+	14. Këshilli i Lartë i Prokurorisë mund të krijojë komisione të përkohshme për trajtimin e çështjeve të veçanta.
 
-		15. Komisionet vendosin me shumicën e votave në prani të të gjithë anëtarëve.
+	15. Komisionet vendosin me shumicën e votave në prani të të gjithë anëtarëve.
 
-		16. Brenda muajit janar të çdo viti kalendarik, secili komision i përhershëm paraqet në mbledhjen plenare të Këshillit raportin vjetor të veprimtarisë me gjetjet dhe rekomandimet përkatëse. Raporti bëhet publik në faqen zyrtare të Këshillit.
+	16. Brenda muajit janar të çdo viti kalendarik, secili komision i përhershëm paraqet në mbledhjen plenare të Këshillit raportin vjetor të veprimtarisë me gjetjet dhe rekomandimet përkatëse. Raporti bëhet publik në faqen zyrtare të Këshillit.
 
 Neni 161
 
 Relatori
 
-	1. Në të gjitha rastet kur mbledhja plenare ose komisionet e tij shqyrtojnë dhe miratojnë akte administrative individuale, në lidhje me statusin profesional të prokurorëve të veçantë ose të zyrtarëve të veçantë të administratës së prokurorisë, njëri nga anëtarët e komisionit shërben si relator.
+1. Në të gjitha rastet kur mbledhja plenare ose komisionet e tij shqyrtojnë dhe miratojnë akte administrative individuale, në lidhje me statusin profesional të prokurorëve të veçantë ose të zyrtarëve të veçantë të administratës së prokurorisë, njëri nga anëtarët e komisionit shërben si relator.
 
-	2. Secili nga anëtarët e komisionit, përfshirë edhe kryetarin e komisionit, mund të jetë relator. Relatori caktohet me short duke marrë parasysh ngarkesën dhe aftësitë e secilit anëtar, sipas procedurës dhe rregullave më të hollësishme të miratuara nga Këshilli. Kryetari i Këshillit nuk mund të jetë relator.
+2. Secili nga anëtarët e komisionit, përfshirë edhe kryetarin e komisionit, mund të jetë relator. Relatori caktohet me short duke marrë parasysh ngarkesën dhe aftësitë e secilit anëtar, sipas procedurës dhe rregullave më të hollësishme të miratuara nga Këshilli. Kryetari i Këshillit nuk mund të jetë relator.
 
-	3. Relatori kujdeset për zhvillimin e procedimit administrativ individual dhe sidomos për sa më poshtë:
+3. Relatori kujdeset për zhvillimin e procedimit administrativ individual dhe sidomos për sa më poshtë:
 
-	a) shqyrtimin e dokumentacionit të depozituar nga subjektet e procedurës administrative;
+a) shqyrtimin e dokumentacionit të depozituar nga subjektet e procedurës administrative;
 
-	b) përgatitjen e projektaktit administrativ;
+b) përgatitjen e projektaktit administrativ;
 
-	c) koordinimin me kryetarin e komisionit për përgatitjen e mbledhjes së komisionit;
+c) koordinimin me kryetarin e komisionit për përgatitjen e mbledhjes së komisionit;
 
-	ç) koordinimin me Kryetarin e Këshillit për përgatitjen e mbledhjes plenare të Këshillit;
+ç) koordinimin me Kryetarin e Këshillit për përgatitjen e mbledhjes plenare të Këshillit;
 
-	d) njoftimet për subjektet e procedimit administrativ.
+d) njoftimet për subjektet e procedimit administrativ.
 
-	4. Në ushtrimin e përgjegjësive të tij relatori ndihmohet nga personeli administrativ i Këshillit të Lartë të Prokurorisë.
+4. Në ushtrimin e përgjegjësive të tij relatori ndihmohet nga personeli administrativ i Këshillit të Lartë të Prokurorisë.
 
 Neni 162
 
@@ -3100,7 +3316,7 @@ Neni 165
 
 Rendi i ditës
 
-	1.  Kryetari i Këshillit të Lartë të Prokurorisë vendos rendin e ditës së mbledhjes së Këshillit.
+1.  Kryetari i Këshillit të Lartë të Prokurorisë vendos rendin e ditës së mbledhjes së Këshillit.
 
 2. Një çështje e caktuar i shtohet rendit të ditës kur kjo i kërkohet me shkrim Kryetarit jo më vonë se  4 ditë përpara mbledhjes nga të paktën 3 anëtarë të Këshillit.
 
@@ -3174,6 +3390,8 @@ Neni 169
 
 Marrëdhënia e Këshillit të Lartë të Prokurorisë me Ministrin e Drejtësisë
 
+(shfuqizuar pika 5 me vendimin e Gjykatës Kushtetuese nr.41, datë 16.5.2017)
+
 1. Ministri i Drejtësisë koordinon zhvillimin dhe zbatimin e politikave shtetërore dhe të strategjisë sektoriale të sektorit të drejtësisë. Ministri i Drejtësisë është gjithashtu përgjegjës për përgatitjen e projektakteve ligjore në fushën e drejtësisë penale pasi ka marrë mendimin e Këshillit të Lartë të Prokurorisë.
 
 2. Ministri i Drejtësisë mund të paraqesë  ankesë tek Inspektori i Lartë i Drejtësisë për shkelje disiplinore të pretenduara të prokurorëve, si dhe mund të kërkojë nga Inspektori i Lartë i Drejtësisë kryerjen e inspektimeve institucionale e tematike në Prokurorinë e Përgjithshme ose në zyrat e prokurorisë.
@@ -3182,11 +3400,7 @@ Marrëdhënia e Këshillit të Lartë të Prokurorisë me Ministrin e Drejtësis
 
 4. Këshilli i Lartë i Prokurorisë bashkëpunon me Ministrin e Drejtësisë për të siguruar përputhjen e planeve strategjike dhe buxhetore të sistemit të prokurorisë, të miratuara nga Këshilli me politikat shtetërore dhe strategjinë sektoriale të sektorit të drejtësisë.
 
-5. Ministri i Drejtësisë, ose përfaqësues të tij, ka të drejtë të marrë pjesë, pa të drejtë vote, në mbledhjet e Këshillit të Lartë të Prokurorisë dhe të komisioneve të përhershme të Këshillit. Në këto raste ai ka të drejtë:
-
-a) të njoftohet të paktën shtatë ditë përpara ditës së mbledhjes; 
-
-b) të marrë çdo informacion që i vihet në dispozicion anëtarëve të Këshillit mbi këto çështje.
+5. Shfuqizuar.
 
 6. Ministri i Drejtësisë mund të ushtrojë të drejtat e mësipërme personalisht ose përmes një  përfaqësuesi të autorizuar prej tij me shkrim.
 
@@ -3260,9 +3474,11 @@ Neni 175
 
 Përjashtimi i anëtarit
 
+(ndryshuar pika 2 me ligjin nr. 47/2019, datë 18.7.2019)
+
 1. Prokurori ose nëpunësi civil i proceduar ose përfaqësuesi i tij ligjor, ose Inspektori i Lartë i Drejtësisë mund të kërkojnë përjashtimin e anëtarit të Këshillit nga pjesëmarrja në shqyrtimin e procedurës administrative vetëm në fazën paraprake të procesit, kur ekziston një nga shkaqet e parashikuara në nenin 174, të këtij ligji, dhe anëtari nuk heq dorë vetë nga shqyrtimi i çështjes.
 
-2. Vendimi për përjashtimin e anëtarit merret nga Kryetari i Këshillit. Kur kërkohet përjashtimi i Kryetarit të Këshillit, vendimi merret nga zëvendëskryetari.
+2. Vendimi për përjashtimin e një anëtari nga shqyrtimi i një çështjeje në mbledhje plenare ose komision merret nga Këshilli, sipas rregullave të parashikuara në nenin 171 të këtij ligji. Kur kërkohet përjashtimi i Kryetarit të Këshillit, mbledhja kryesohet nga Zëvendëskryetari i Këshillit.
 
 SEKSIONI 4
 
@@ -3272,29 +3488,29 @@ Neni 176
 
 Administrata e Këshillit
 
-	1. Pranë Këshillit të Lartë të Prokurorisë funksionon administrata, e cila ndihmon në realizimin e misionit dhe të funksioneve të Këshillit.
+1. Pranë Këshillit të Lartë të Prokurorisë funksionon administrata, e cila ndihmon në realizimin e misionit dhe të funksioneve të Këshillit.
 
-	2. Administrata e Këshillit drejtohet nga Kryetari i Këshillit të Lartë të Prokurorisë dhe raporton rregullisht tek ai.
+2. Administrata e Këshillit drejtohet nga Kryetari i Këshillit të Lartë të Prokurorisë dhe raporton rregullisht tek ai.
 
-	3. Anëtarët e personelit të Këshillit të Lartë të Prokurorisë kanë statusin e nëpunësit civil, sipas përcaktimeve të ligjit “Për nëpunësin civil”, ose janë prokurorë të komanduar pranë Këshillit, sipas parashikimeve të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+3. Anëtarët e personelit të Këshillit të Lartë të Prokurorisë kanë statusin e nëpunësit civil, sipas përcaktimeve të ligjit “Për nëpunësin civil”, ose janë prokurorë të komanduar pranë Këshillit, sipas parashikimeve të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
-	4. Ligji “Për nëpunësin civil” zbatohet mbi personelin e Këshillit të Lartë të Prokurorisë, përveç rasteve kur parashikohet ndryshe në këtë ligj.
+4. Ligji “Për nëpunësin civil” zbatohet mbi personelin e Këshillit të Lartë të Prokurorisë, përveç rasteve kur parashikohet ndryshe në këtë ligj.
 
-	5. Nëpunësit civilë mund të ftohen të marrin pjesë në mbledhjet e Këshillit ose të komisioneve, si dhe të kërkojnë fjalën pa të drejtë vote.
+5. Nëpunësit civilë mund të ftohen të marrin pjesë në mbledhjet e Këshillit ose të komisioneve, si dhe të kërkojnë fjalën pa të drejtë vote.
 
-	6. Këshilli i Lartë i Prokurorisë punëson punonjës administrativë në bazë të rregullave të parashikuara në Kodin e Punës.
+6. Këshilli i Lartë i Prokurorisë punëson punonjës administrativë në bazë të rregullave të parashikuara në Kodin e Punës.
 
 Neni 177
 
 Sekretari i Përgjithshëm
 
-	1. Sekretari i Përgjithshëm i Këshillit të Lartë të Prokurorisë është funksionari më i lartë administrativ i Këshillit.
+1. Sekretari i Përgjithshëm i Këshillit të Lartë të Prokurorisë është funksionari më i lartë administrativ i Këshillit.
 
-	2. Sekretari i Përgjithshëm rekrutohet sipas procedurave të parashikuara në ligjin “Për nëpunësin civil”.
+2. Sekretari i Përgjithshëm rekrutohet sipas procedurave të parashikuara në ligjin “Për nëpunësin civil”.
 
-	3. Drejtuesi i njësisë për çështje të përgjithshme juridike zëvendëson Sekretarin e Përgjithshëm në rastet e mungesës ose pamundësisë së përkohshme të këtij të fundit.
+3. Drejtuesi i njësisë për çështje të përgjithshme juridike zëvendëson Sekretarin e Përgjithshëm në rastet e mungesës ose pamundësisë së përkohshme të këtij të fundit.
 
-	4. Sekretari i Përgjithshëm i Këshillit ose zëvendësuesi i tij kanë të drejtë të njihen me çdo dokument që shqyrtohet nga mbledhjet e komisioneve ose nga mbledhja e Këshillit, të marrin pjesë, pa të drejtë vote, në mbledhjet e komisioneve ose në mbledhjen e Këshillit, si dhe të propozojnë futjen e çështjeve që lidhen me aspekte administrative dhe të personelit në agjendat e tyre.
+4. Sekretari i Përgjithshëm i Këshillit ose zëvendësuesi i tij kanë të drejtë të njihen me çdo dokument që shqyrtohet nga mbledhjet e komisioneve ose nga mbledhja e Këshillit, të marrin pjesë, pa të drejtë vote, në mbledhjet e komisioneve ose në mbledhjen e Këshillit, si dhe të propozojnë futjen e çështjeve që lidhen me aspekte administrative dhe të personelit në agjendat e tyre.
 
 Neni 178
 
@@ -3434,7 +3650,7 @@ d) komandimin dhe riemërimin;
 
 dh) vlerësimin e veprimtarisë etike dhe profe-sionale;
 
-e) vendosjen e masave disiplinore dhe pezu-llimin; 
+e) vendosjen e masave disiplinore dhe pezullimin; 
 
 ë) çdo detyrë tjetër të caktuar me ligj.
 
@@ -3494,9 +3710,9 @@ Neni 189
 
 Aktet e Këshillit të Lartë të Prokurorisë
 
-	1. Këshilli i Lartë i Prokurorisë, në ushtrim të funksioneve të tij, nxjerr aktet e mëposhtme:
+1. Këshilli i Lartë i Prokurorisë, në ushtrim të funksioneve të tij, nxjerr aktet e mëposhtme:
 
-	a) akte administrative individuale, në lidhje me statusin profesional të prokurorëve të veçantë ose të zyrtarëve të veçantë të administratës gjyqësore;
+a) akte administrative individuale, në lidhje me statusin profesional të prokurorëve të veçantë ose të zyrtarëve të veçantë të administratës gjyqësore;
 
 b) akte administrative kolektive, në lidhje me statusin e të gjithë prokurorëve ose zyrtarëve të administratës gjyqësore;
 
@@ -3508,61 +3724,63 @@ d) udhëzime jodetyruese.
 
 2. Në asnjë rast, Këshilli nuk mund të japë udhëzime në lidhje me zgjidhjen e një çështjeje konkrete ose të një grupi çështjesh;
 
-		3. Këshilli i Lartë i Prokurorisë zbaton Kodin e Procedurave Administrative të Republikës së Shqipërisë në çdo rast apo situatë tjetër që nuk parashikohet shprehimisht nga ky ligj. 
+	3. Këshilli i Lartë i Prokurorisë zbaton Kodin e Procedurave Administrative të Republikës së Shqipërisë në çdo rast apo situatë tjetër që nuk parashikohet shprehimisht nga ky ligj. 
 
 Neni 190
 
 Njoftimi dhe botimi i akteve të Këshillit të Lartë të Prokurorisë
 
-		1. Njoftimi i akteve administrative individuale të Këshillit të Lartë të Prokurorisë, në lidhje me statusin e prokurorëve ose nëpunësve civilë të prokurorisë, bëhet në një ose disa nga format e mëposhtme:
+	1. Njoftimi i akteve administrative individuale të Këshillit të Lartë të Prokurorisë, në lidhje me statusin e prokurorëve ose nëpunësve civilë të prokurorisë, bëhet në një ose disa nga format e mëposhtme:
 
-		a) personalisht ose përfaqësuesit ligjor kur janë të pranishëm në çastin e shpalljes së aktit;
+	a) personalisht ose përfaqësuesit ligjor kur janë të pranishëm në çastin e shpalljes së aktit;
 
-		b) me postë të porositur në adresën e vendit të punës të marrësit; 
+	b) me postë të porositur në adresën e vendit të punës të marrësit; 
 
-		c) në adresën postare elektronike të depozituar zyrtarisht nga subjekti i aktit administrativ.
+	c) në adresën postare elektronike të depozituar zyrtarisht nga subjekti i aktit administrativ.
 
-		2. Aktet administrative individuale të Këshillit, në lidhje me statusin e prokurorëve ose nëpunësve civilë të sistemit të prokurorisë, bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës, pasi të redaktohen për sigurimin e anonimatit të subjekteve, përveç rasteve të parashikuara ndryshe në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
+	2. Aktet administrative individuale të Këshillit, në lidhje me statusin e prokurorëve ose nëpunësve civilë të sistemit të prokurorisë, bëhen publike në faqen zyrtare të internetit të Këshillit, të shoqëruara me arsyetimin përkatës, pasi të redaktohen për sigurimin e anonimatit të subjekteve, përveç rasteve të parashikuara ndryshe në ligjin “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. 
 
 		3. Njoftimi i akteve administrative kolektive, në lidhje me statusin e të gjithë prokurorëve ose nëpunësve civilë, bëhet nëpërmjet botimit në faqen zyrtare të Këshillit. Këto akte hyjnë në fuqi në datën e botimit në faqen zyrtare të Këshillit.
 
-		4. Aktet normative nënligjore botohen në faqen zyrtare të internetit të Këshillit dhe në Fletoren Zyrtare. Ato hyjnë në fuqi në datën e botimit në Fletoren Zyrtare. Nëse akti normativ nënligjor ndryshon një akt tjetër, akti i ndryshuar botohet në formë të konsoliduar në faqen zyrtare të Këshillit.
+	4. Aktet normative nënligjore botohen në faqen zyrtare të internetit të Këshillit dhe në Fletoren Zyrtare. Ato hyjnë në fuqi në datën e botimit në Fletoren Zyrtare. Nëse akti normativ nënligjor ndryshon një akt tjetër, akti i ndryshuar botohet në formë të konsoliduar në faqen zyrtare të Këshillit.
 
-		5. Ky nen zbatohet edhe për aktet e nxjerra nga komisionet e Këshillit.
+	5. Ky nen zbatohet edhe për aktet e nxjerra nga komisionet e Këshillit.
 
 Neni 191
 
 Procedura e rishikimit
 
-		1. Në rastet kur një akt administrativ individual është nxjerrë nga komisioni, subjektet e interesuara kanë të drejtë të kërkojnë anulimin, ndryshimin ose plotësimin nga mbledhja plenare e Këshillit.
+	1. Në rastet kur një akt administrativ individual është nxjerrë nga komisioni, subjektet e interesuara kanë të drejtë të kërkojnë anulimin, ndryshimin ose plotësimin nga mbledhja plenare e Këshillit.
 
-		2. Kërkesa për rishikim bëhet me shkrim. Ajo dorëzohet jo më vonë se 10 ditë nga dita e njoftimit të palës së interesuar, në përputhje me kërkesat e këtj neni.  
+	2. Kërkesa për rishikim bëhet me shkrim. Ajo dorëzohet jo më vonë se 10 ditë nga dita e njoftimit të palës së interesuar, në përputhje me kërkesat e këtj neni.  
 
-		3. Kërkesa mund të bazohet në arsyet e mëposhtme:
+	3. Kërkesa mund të bazohet në arsyet e mëposhtme:
 
-		a) vendimi është bazuar në gabime materiale dhe të faktit;
+	a) vendimi është bazuar në gabime materiale dhe të faktit;
 
-		b) ka ndodhur një gabim i rëndë procedural.
+	b) ka ndodhur një gabim i rëndë procedural.
 
-		4. Kërkuesi nuk mund të paraqesë pretendime ose fakte të reja gjatë shqyrtimit të çështjes nga mbledhja plenare e Këshillit, me përjashtim të rasteve kur subjekti i interesuar provon se nuk ishte dhe nuk mund të ishte në dijeni të këtyre fakteve më parë.
+	4. Kërkuesi nuk mund të paraqesë pretendime ose fakte të reja gjatë shqyrtimit të çështjes nga mbledhja plenare e Këshillit, me përjashtim të rasteve kur subjekti i interesuar provon se nuk ishte dhe nuk mund të ishte në dijeni të këtyre fakteve më parë.
 
-		5. Mbledhja plenare e Këshillit shqyrton dhe vendos mbi të gjitha kërkesat brenda 30 ditëve nga dita e paraqitjes.
+	5. Mbledhja plenare e Këshillit shqyrton dhe vendos mbi të gjitha kërkesat brenda 30 ditëve nga dita e paraqitjes.
 
-		6. Kërkesa nuk pranohet nëse ajo nuk është paraqitur brenda afatit dhe në formën e kërkuar sipas këtij ligji. Kërkuesit njoftohen për mospranimin dhe shkaqet e mospranimit të kërkesës së tyre për rishikim.
+	6. Kërkesa nuk pranohet nëse ajo nuk është paraqitur brenda afatit dhe në formën e kërkuar sipas këtij ligji. Kërkuesit njoftohen për mospranimin dhe shkaqet e mospranimit të kërkesës së tyre për rishikim.
 
-		7. Këshilli i zhvillon mbledhjet me dyer të mbyllura. Përjashtimisht Këshilli mund të zhvillojë dëgjesa me subjektet e procedimit kur kjo është e nevojshme, si rezultat i fakteve të reja, sipas pikës 4 të këtij neni.
+	7. Këshilli i zhvillon mbledhjet me dyer të mbyllura. Përjashtimisht Këshilli mund të zhvillojë dëgjesa me subjektet e procedimit kur kjo është e nevojshme, si rezultat i fakteve të reja, sipas pikës 4 të këtij neni.
 
-		8. Në bazë të konkluzionit të shqyrtimit të kërkesës për rishikim Këshilli duhet të përcaktojë nëse kërkesa për rishikim duhet të pranohet ose të rrëzohet. Në rast pranimi, Këshilli miraton një vendim administrativ të ndryshuar. Ndryshimet mund të bëhen vetëm për aq sa kërkohen nga subjekti i interesuar.
+	8. Në bazë të konkluzionit të shqyrtimit të kërkesës për rishikim Këshilli duhet të përcaktojë nëse kërkesa për rishikim duhet të pranohet ose të rrëzohet. Në rast pranimi, Këshilli miraton një vendim administrativ të ndryshuar. Ndryshimet mund të bëhen vetëm për aq sa kërkohen nga subjekti i interesuar.
 
-		9. Këshilli mund të anulojë një akt administrativ individual edhe me nismën e tij kur vërtetohen kushtet e parashikuara në pikën 3 të këtij neni. 
+	9. Këshilli mund të anulojë një akt administrativ individual edhe me nismën e tij kur vërtetohen kushtet e parashikuara në pikën 3 të këtij neni. 
 
 Neni 192
 
 Ankimi i vendimeve të Këshillit
 
-		1. Përveçse kur parashikohet ndryshe në këtë ligj, ndaj aktit administrativ individual të Këshillit mund të bëhet ankim në Gjykatën Administrative të Apelit. Aktet administrative individuale që vendosin masa disiplinore mbi prokurorët ankimohen në Gjykatën Kushtetuese.
+(ndryshuar fjalia e parë e pikës 1 me ligjin nr. 47/2019, datë 18.7.2019)
 
-		2. Aktet administrative me efekt të përgjithshëm detyrues i nënshtrohen kontrollit të Gjykatës Kushtetuese, në lidhje me pajtueshmërinë e tyre me Kushtetutën dhe marrëveshjet ndërkombëtare, dhe kontrollit të Gjykatës Administrative të Apelit, në lidhje me pajtueshmërinë e tyre me ligjin.
+	1. Ndaj aktit administrativ individual të Këshillit mund të bëhet ankim, brenda 15 ditëve nga data e njoftimit, në Gjykatën Administrative të Apelit, përveçse kur parashikohet ndryshe në ligj. Aktet administrative individuale që vendosin masa disiplinore mbi prokurorët ankimohen në Gjykatën Kushtetuese.
+
+	2. Aktet administrative me efekt të përgjithshëm detyrues i nënshtrohen kontrollit të Gjykatës Kushtetuese, në lidhje me pajtueshmërinë e tyre me Kushtetutën dhe marrëveshjet ndërkombëtare, dhe kontrollit të Gjykatës Administrative të Apelit, në lidhje me pajtueshmërinë e tyre me ligjin.
 
 PJESA IV
 
@@ -3646,7 +3864,7 @@ Kushtet e emërimit
 
 1. Inspektor i Lartë i Drejtësisë mund të zgjidhet shtetasi shqiptar, që në momentin e kandidimit përmbush këto kushte:
 
-	a) të jetë shtetas shqiptar;
+a) të jetë shtetas shqiptar;
 
 b) të ketë përfunduar ciklin e dytë të studimeve universitare për drejtësi me diplomë “Master i shkencave”, ose diplomë të njësuar me të, ose studimet universitare për drejtësi jashtë shtetit dhe të ketë marrë një diplomë të njësuar, sipas rregullave për njësimin e diplomave, të parashikuara me ligj;
 
@@ -4040,6 +4258,8 @@ Neni 220
 
 Përbërja, mandati i anëtarëve dhe zëvendësimi
 
+(shtuar fjalë në fund të pikës 3 me ligjin nr. 47/2019, datë 18.7.2019)
+
 1. Këshilli i Emërimeve në Drejtësi përbëhet nga  9 anëtarë si më poshtë:
 
 a) dy gjyqtarë të Gjykatës Kushtetuese;
@@ -4056,25 +4276,27 @@ dh) një gjyqtar nga gjykatat administrative.
 
 2. Anëtarët e Këshillit të Emërimeve në Drejtësi qëndrojnë në detyrë për 1 vit nga data 1 janar e çdo viti kalendarik.
 
-3. Në rast pamundësie ose të konfliktit të interesit, anëtarët zëvendësohen nga anëtarët zëvendësues.
+3. Në rast pamundësie ose të konfliktit të interesit, anëtarët zëvendësohen nga anëtarët zëvendësues sipas rregullave të përcaktuara në aktet e Këshillit.
 
 Neni 221
 
 Kushtet dhe kriteret për t’u përfshirë në shortin për zgjedhjen e anëtarëve të Këshillit dhe procedurat e përzgjedhjes
 
+(ndryshuar shkronja “a” dhe “dh” dhe shfuqizuar shkronjat “ç” dhe “d” të pikës 1, me ligjin nr. 47/2019, datë 18.7.2019)
+
 1. Mund të përfshihen në shortin për zgjedhjen e anëtarëve të Këshillit të Emërimeve në Drejtësi vetëm ata magjistratë dhe gjyqtarë të Gjykatës Kushtetuese, të cilët, në momentin e organizimit të shortit, plotësojnë kushtet e mëposhtme:
 
-a) në kohën e hedhjes së shortit magjistrati e ka ushtruar funksionin për të paktën 10 vjet dhe anëtari i Gjykatës Kushtetuese për të paktën 1 vit;
+a) në kohën e hedhjes së shortit magjistrati që ushtron detyrën pranë gjykatave administrative, gjykatave të apelit, prokurorive pranë gjykatave të apelit dhe Prokurorisë së Përgjithshme ka ushtruar funksionin e magjistratit për të paktën 10 vjet;
 
 b) nuk ka një masë disiplinore në fuqi;
 
 c) nuk ka filluar një procedim disiplinor para kandidimit;
 
-ç) magjistrati ka përfunduar ciklin e plotë katër ose pesëvjeçar të studimeve në drejtësi;
+ç) shfuqizuar;
 
-d) magjistrati ka përfunduar Shkollën e Magjistraturës;
+d) shfuqizuar;
 
-dh) magjistrati është vlerësuar të paktën “shumë mirë” në 2 vlerësimet e fundit etik dhe profesional; 
+dh) magjistrati është vlerësuar të paktën “shumë mirë” në 2 vlerësimet e fundit etike dhe profesionale, nëse janë të disponueshme;
 
 e) magjistrati ose gjyqtari i Gjykatës Kushtetuese nuk është nën hetim ose nuk është dënuar më parë me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
 
@@ -4134,7 +4356,9 @@ Neni 225
 
 Përjashtimi dhe zëvendësimi i anëtarit
 
-1. Kandidatët mund të kërkojnë përjashtimin e anëtarit të Këshillit nga pjesëmarrja në verifikimin  e kushteve ligjore, vlerësimin e kritereve profesionale dhe renditjen jo më vonë se 3 ditë nga data e mbledhjes së Këshillit, kur ekziston një nga shkaqet e parashikuara në nenet 133 dhe 134, të këtij ligji, dhe anëtari nuk heq dorë vetë nga shqyrtimi i çështjes.
+(ndryshuar referencat ligjore në pikën 1 me ligjin nr. 47/2019, datë 18.7.2019)
+
+1. Kandidatët mund të kërkojnë përjashtimin e anëtarit të Këshillit nga pjesëmarrja në verifikimin  e kushteve ligjore, vlerësimin e kritereve profesionale dhe renditjen jo më vonë se 3 ditë nga data e mbledhjes së Këshillit, kur ekziston një nga shkaqet e parashikuara në nenet 222, 223 dhe 224, të këtij ligji, dhe anëtari nuk heq dorë vetë nga shqyrtimi i çështjes.
 
 2. Vendimi për përjashtimin e anëtarit merret nga Kryetari i Këshillit. Kur kërkohet përjashtimi i Kryetarit të Këshillit, vendimi merret nga zëvendëskryetari.
 
@@ -4348,11 +4572,11 @@ Neni 239
 
 Fillimi dhe afati për zhvillimin e procedurës së vlerësimit dhe renditjes së kandidatëve
 
-		1. Jo më vonë se 5 ditë nga përfundimi i procedurës së verifikimit, sipas parashikimeve të neneve 234 deri në 238, të këtij ligji, Kryetari i Këshillit të Emërimeve në Drejtësi thërret mbledhjen e Këshillit.
+	1. Jo më vonë se 5 ditë nga përfundimi i procedurës së verifikimit, sipas parashikimeve të neneve 234 deri në 238, të këtij ligji, Kryetari i Këshillit të Emërimeve në Drejtësi thërret mbledhjen e Këshillit.
 
-		2. Këshilli i Emërimeve në Drejtësi bën vlerësimin e kritereve profesionale e morale të kandidatëve dhe bën renditjen e tyre jo më vonë se 10 ditë nga dita e mbledhjes.
+	2. Këshilli i Emërimeve në Drejtësi bën vlerësimin e kritereve profesionale e morale të kandidatëve dhe bën renditjen e tyre jo më vonë se 10 ditë nga dita e mbledhjes.
 
-		3. Këshilli qëndron i mbledhur deri në përfundim të procesit të vlerësimit dhe të renditjes së kandidatëve.
+	3. Këshilli qëndron i mbledhur deri në përfundim të procesit të vlerësimit dhe të renditjes së kandidatëve.
 
 Neni 240
 
@@ -4374,29 +4598,29 @@ a) reputacionin që gëzon kandidati në shoqëri dhe midis kolegëve;
 
 b) cilësitë morale, të tilla si ndershmëria, përpikëria në ushtrimin e detyrave, drejtësia në marrjen e vendimeve, përgjegjshmëria, besue-shmëria, paanësia, dinjiteti dhe prirja për të marrë përsipër përgjegjësi; 
 
-		c) angazhimi i provuar në ndjekje të kauzave të shoqërisë civile.
+	c) angazhimi i provuar në ndjekje të kauzave të shoqërisë civile.
 
-		3. Këshilli bën renditjen e kandidatëve në bazë të meritave të tyre organizative, drejtuese dhe menaxheriale bazuar në:
+	3. Këshilli bën renditjen e kandidatëve në bazë të meritave të tyre organizative, drejtuese dhe menaxheriale bazuar në:
 
-		a) cilësinë e platformës dhe të vizionit që paraqesin;
+	a) cilësinë e platformës dhe të vizionit që paraqesin;
 
-		b) aftësitë e provuara për të marrë vendime dhe përgjegjësi bazuar në përvojat e mëparshme profesionale dhe shoqërore;
+	b) aftësitë e provuara për të marrë vendime dhe përgjegjësi bazuar në përvojat e mëparshme profesionale dhe shoqërore;
 
-		c) aftësitë e komunikimit;
+	c) aftësitë e komunikimit;
 
-		ç) aftësitë e të punuarit në grup dhe në ambiente multidisiplinore ose multikulturore;
+	ç) aftësitë e të punuarit në grup dhe në ambiente multidisiplinore ose multikulturore;
 
-		d) aftësitë e përfaqësimit publik.
+	d) aftësitë e përfaqësimit publik.
 
 4. Krahas kritereve të parashikuara në pikat 1, 2 dhe 3, të këtij neni, në vlerësimin e kandidatëve mbahen parasysh edhe: 
 
-		a) mbajtja e titujve akademikë; 
+	a) mbajtja e titujve akademikë; 
 
-		b) kryerja e studimeve dhe trajnimeve afatgjata jashtë vendit; 
+	b) kryerja e studimeve dhe trajnimeve afatgjata jashtë vendit; 
 
-		c) njohja e gjuhëve të huaja.
+	c) njohja e gjuhëve të huaja.
 
-		5. Këshilli interviston kandidatët dhe angazhon ekspertë për verifikimin e aftësive të tyre, sidomos për të verifikuar nivelin e zotërimit të gjuhëve të huaja.
+	5. Këshilli interviston kandidatët dhe angazhon ekspertë për verifikimin e aftësive të tyre, sidomos për të verifikuar nivelin e zotërimit të gjuhëve të huaja.
 
 6. Në zbatim të dispozitave të këtij kreu, Këshilli miraton rregulla për detajimin e mëtejshëm të kritereve dhe për të përcaktuar peshën specifike të tyre në renditjen e kandidatëve.
 
@@ -4474,17 +4698,17 @@ Neni 245
 
 Buxheti
 
-	Buxheti i Shkollës së Magjistraturës i shërben kryerjes së veprimtarisë dhe funksionimit të saj. Buxheti përfshin:
+Buxheti i Shkollës së Magjistraturës i shërben kryerjes së veprimtarisë dhe funksionimit të saj. Buxheti përfshin:
 
-	a) pagat dhe përfitimet e personelit mësim-dhënës të brendshëm dhe të jashtëm dhe të personelit administrativ, si dhe shpërblimet për ekspertët e trajnimit vazhdues, specialistët dhe përgjegjësit e stazheve;
+a) pagat dhe përfitimet e personelit mësimdhënës të brendshëm dhe të jashtëm dhe të personelit administrativ, si dhe shpërblimet për ekspertët e trajnimit vazhdues, specialistët dhe përgjegjësit e stazheve;
 
-	b) bursat e shkollimit të kandidatëve për magjistratë;
+b) bursat e shkollimit të kandidatëve për magjistratë;
 
-	c) shpenzime operative;
+c) shpenzime operative;
 
-	ç) shpenzime kapitale;
+ç) shpenzime kapitale;
 
-	d) të ardhurat e veta nga regjistrimet, botimet etj.;
+d) të ardhurat e veta nga regjistrimet, botimet etj.;
 
 dh) veprimtari të tjera, të miratuara nga Këshilli Drejtues në kuadrin e qëllimit të shkollës.
 
@@ -4636,33 +4860,33 @@ Kushtet për largimin nga detyra të Drejtorit të Shkollës
 
 1. Drejtori i Shkollës së Magjistraturës lirohet nga detyra, nga Këshilli Drejtues kur:
 
-	a) mbush moshën e pensionit;
+a) mbush moshën e pensionit;
 
-		b) përfundon mandatin 4-vjeçar dhe nuk rizgjidhet; 
+	b) përfundon mandatin 4-vjeçar dhe nuk rizgjidhet; 
 
-		c) jep dorëheqjen;
+	c) jep dorëheqjen;
 
-		ç) vërtetohet fakti i pamundësisë për të ushtruar detyrën;
+	ç) vërtetohet fakti i pamundësisë për të ushtruar detyrën;
 
-		d) shkarkohet sipas parashikimeve të pikës 2 të këtij neni;
+	d) shkarkohet sipas parashikimeve të pikës 2 të këtij neni;
 
-		2. Drejtori i Shkollës së Magjistraturës shkarkohet nga Këshilli Drejtues nëse: 
+	2. Drejtori i Shkollës së Magjistraturës shkarkohet nga Këshilli Drejtues nëse: 
 
-		a) vërtetohen kushtet e pazgjedhshmërisë dhe të papajtueshmërisë në ushtrimin e funksionit; 
+	a) vërtetohen kushtet e pazgjedhshmërisë dhe të papajtueshmërisë në ushtrimin e funksionit; 
 
-		b) kryen shkelje të rënda profesionale ose etike që diskreditojnë pozitën dhe figurën e tij gjatë ushtrimit të detyrës; 
+	b) kryen shkelje të rënda profesionale ose etike që diskreditojnë pozitën dhe figurën e tij gjatë ushtrimit të detyrës; 
 
-		c) është dënuar me vendim të formës së prerë për kryerjen e një krimi. 
+	c) është dënuar me vendim të formës së prerë për kryerjen e një krimi. 
 
-		3. Drejtori i Shkollës së Magjistraturës pezullohet nga detyra me vendim të Këshillit Drejtues nëse:
+	3. Drejtori i Shkollës së Magjistraturës pezullohet nga detyra me vendim të Këshillit Drejtues nëse:
 
-		a) ndaj tij caktohet masa e sigurimit personal “arrest në burg” ose “arrest në shtëpi” për kryerjen e një vepre penale;
+	a) ndaj tij caktohet masa e sigurimit personal “arrest në burg” ose “arrest në shtëpi” për kryerjen e një vepre penale;
 
-		b) merr cilësinë e të pandehurit për një krim të rëndë të kryer me dashje.
+	b) merr cilësinë e të pandehurit për një krim të rëndë të kryer me dashje.
 
-		4. Drejtori i Shkollës së Magjistraturës mund të pezullohet nga detyra me vendim të Këshillit Drejtues nëse ndaj tij fillon procedimi disiplinor, sipas ligjit.
+	4. Drejtori i Shkollës së Magjistraturës mund të pezullohet nga detyra me vendim të Këshillit Drejtues nëse ndaj tij fillon procedimi disiplinor, sipas ligjit.
 
-		5. Kundër vendimit të shkarkimit mund të bëhet ankim në gjykatën administrative  të shkallës së parë. 
+	5. Kundër vendimit të shkarkimit mund të bëhet ankim në gjykatën administrative  të shkallës së parë. 
 
 Neni 253
 
@@ -4690,15 +4914,15 @@ dh) shqyrton dhe miraton rekomandimet e asamblesë së kandidatëve për cikle s
 
 e) bën vlerësimin përfundimtar të kandidatëve të programit të Formimit Fillestar të vitit të parë dhe vitit të dytë, mbi bazën e rezultateve të arritura gjatë periudhës dyvjeçare të vitit teorik dhe stazhit paraprofesional; 
 
-	ë) ndjek në vazhdimësi zbatimin e vendimeve të Këshillit Drejtues në veprimtarinë akademike të shkollës.
+ë) ndjek në vazhdimësi zbatimin e vendimeve të Këshillit Drejtues në veprimtarinë akademike të shkollës.
 
 Neni 254
 
 Mbledhjet dhe vendimmarrja e Këshillit pedagogjik
 
-	1. Këshilli Pedagogjik mblidhet me kërkesën e Drejtorit të Shkollës.
+1. Këshilli Pedagogjik mblidhet me kërkesën e Drejtorit të Shkollës.
 
-	2. Kuorumi i nevojshëm për zhvillimin e mbledhjeve të Këshillit Pedagogjik është më shumë se gjysma e anëtarëve. Këshilli Pedagogjik i merr vendimet me votim të hapur dhe me shumicë votash. Kur votat janë të barabarta, përcaktuese është vota e kryetarit.
+2. Kuorumi i nevojshëm për zhvillimin e mbledhjeve të Këshillit Pedagogjik është më shumë se gjysma e anëtarëve. Këshilli Pedagogjik i merr vendimet me votim të hapur dhe me shumicë votash. Kur votat janë të barabarta, përcaktuese është vota e kryetarit.
 
 3.  Përveç rasteve kur parashikohet ndryshe në këtë ligj, rregullat dhe procedurat e parashikuara në ligjin “Për funksionimin e organeve kolegjiale të administratës shtetërore dhe enteve publike”, zbatohen për organizimin e mbledhjeve dhe vendimmarrjen e Këshillit Pedagogjik të Shkollës së Magjistraturës.
 
@@ -4972,35 +5196,35 @@ Vlerësimi i praktikës profesionale për kandidatët për magjistratë
 
 3. Këshilli Drejtues i Shkollës harton një propozim për vlerësimin e cilësisë së veprimtarisë dhe programin e udhëheqësve, vlerësimin e performancës së stazhit profesional, si dhe një raport për rezultatet e vlerësimit të vitit të parë, të vitit të dytë dhe të provimit përfundimtar.
 
-4. Drejtori i Shkollës përcjell vendimin e Këshillit Pedagogjik, ku janë bashkuar sipas një renditjeje me pikë vlerësimet me 5 shkallë të dy viteve të para, të provimit përfundimtar dhe të praktikës profesionale të vitit të tretë, Këshillit Drejtues të Shkollës, Këshillit të Lartë të Gjyqësorit për kandidatët për gjyqtarë, si dhe Këshillit të Lartë të Prokurorëve, për kandidatët për prokurorë.
+ 4. Drejtori i Shkollës përcjell vendimin e Këshillit Pedagogjik, ku janë bashkuar sipas një renditjeje me pikë vlerësimet me 5 shkallë të dy viteve të para, të provimit përfundimtar dhe të praktikës profesionale të vitit të tretë, Këshillit Drejtues të Shkollës, Këshillit të Lartë të Gjyqësorit për kandidatët për gjyqtarë, si dhe Këshillit të Lartë të Prokurorëve, për kandidatët për prokurorë.
 
 Neni 270
 
 Kategoritë e vlerësimit të kandidatëve për magjistratë
 
-	1. Vlerësimi i kandidatëve për magjistratë bëhet sipas kategorive që vijojnë:
+1. Vlerësimi i kandidatëve për magjistratë bëhet sipas kategorive që vijojnë:
 
-	a) “shkëlqyeshëm”, në rast të një performance etike dhe profesionale jashtëzakonisht të mirë;
+a) “shkëlqyeshëm”, në rast të një performance etike dhe profesionale jashtëzakonisht të mirë;
 
-	b) “shumë mirë”, në rast të një performance etike dhe profesionale mbi mesataren;
+b) “shumë mirë”, në rast të një performance etike dhe profesionale mbi mesataren;
 
-	c) “mirë”, në rast të një performance etike dhe profesionale mesatare;
+c) “mirë”, në rast të një performance etike dhe profesionale mesatare;
 
-	ç) “pranueshëm”, në rast të një performance etike dhe profesionale nën mesataren;
+ç) “pranueshëm”, në rast të një performance etike dhe profesionale nën mesataren;
 
-	d) “i paaftë”, në rast të një performance etike dhe profesionale jashtëzakonisht të dobët.
+d) “i paaftë”, në rast të një performance etike dhe profesionale jashtëzakonisht të dobët.
 
-	2. Vlerësimi i përgjithshëm “shkëlqyeshëm” jepet vetëm nëse detyra e magjistratëve është “e shkëlqyer” për të katër kriteret, sipas parashikimeve të nenit 71, të ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+2. Vlerësimi i përgjithshëm “shkëlqyeshëm” jepet vetëm nëse detyra e magjistratëve është “e shkëlqyer” për të katër kriteret, sipas parashikimeve të nenit 71, të ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
-	3. Vlerësimi i përgjithshëm “shumë mirë” jepet vetëm nëse detyra e magjistratëve është të paktën “shumë e mirë” për tre kritere dhe “e mirë” për kriterin e ngelur. Në çdo rast, kriteret “aftësi profesionale të gjyqtarit dhe prokurorit” dhe “etika dhe angazhimi ndaj vlerave profesionale të gjyqtarit dhe prokurorit” duhen vlerësuar të paktën “shumë mirë”.
+3. Vlerësimi i përgjithshëm “shumë mirë” jepet vetëm nëse detyra e magjistratëve është të paktën “shumë e mirë” për tre kritere dhe “e mirë” për kriterin e ngelur. Në çdo rast, kriteret “aftësi profesionale të gjyqtarit dhe prokurorit” dhe “etika dhe angazhimi ndaj vlerave profesionale të gjyqtarit dhe prokurorit” duhen vlerësuar të paktën “shumë mirë”.
 
-	4. Në rast se aftësitë e magjistratëve vlerësohen “mirë” në dy kritere, dhe “pranueshëm” në kriteret e ngelura, magjistrati vlerësohet përgjithësisht “mirë”. I njëjti rregull zbatohet edhe për barazimin e vlerësimit të kritereve midis kategorive “pranueshëm’ dhe “i paaftë”, përveç rastit kur pika 3 e këtij neni parashikon ndryshe. Në çdo rast, kriteret “aftësi profesionale të gjyqtarit dhe prokurorit” dhe “etika dhe angazhimi ndaj vlerave profesionale të gjyqtarit dhe prokurorit” duhen vlerësuar të paktën “shumë mirë”.
+4. Në rast se aftësitë e magjistratëve vlerësohen “mirë” në dy kritere, dhe “pranueshëm” në kriteret e ngelura, magjistrati vlerësohet përgjithësisht “mirë”. I njëjti rregull zbatohet edhe për barazimin e vlerësimit të kritereve midis kategorive “pranueshëm’ dhe “i paaftë”, përveç rastit kur pika 3 e këtij neni parashikon ndryshe. Në çdo rast, kriteret “aftësi profesionale të gjyqtarit dhe prokurorit” dhe “etika dhe angazhimi ndaj vlerave profesionale të gjyqtarit dhe prokurorit” duhen vlerësuar të paktën “shumë mirë”.
 
-	5. Vlerësimi i përgjithshëm “i paaftë” jepet në rastet që vijojnë:
+5. Vlerësimi i përgjithshëm “i paaftë” jepet në rastet që vijojnë:
 
-	a) nëse detyra e magjistratëve vlerësohet si “e paaftë” në tre kriteret e parashikuara në shkronjat “b”, “c” dhe “ç”, të nenit 71, të ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”; 
+a) nëse detyra e magjistratëve vlerësohet si “e paaftë” në tre kriteret e parashikuara në shkronjat “b”, “c” dhe “ç”, të nenit 71, të ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”; 
 
-	b) nëse detyra e magjistratëve vlerësohet si “e paaftë” në kriteret “aftësi profesionale të gjyqtarit dhe prokurorit” dhe “etika dhe angazhimi ndaj vlerave profesionale të gjyqtarit dhe prokurorit”, dhe jo më tepër se “mirë” në dy kriteret e tjera.
+b) nëse detyra e magjistratëve vlerësohet si “e paaftë” në kriteret “aftësi profesionale të gjyqtarit dhe prokurorit” dhe “etika dhe angazhimi ndaj vlerave profesionale të gjyqtarit dhe prokurorit”, dhe jo më tepër se “mirë” në dy kriteret e tjera.
 
 Neni 271
 
@@ -5086,7 +5310,7 @@ Zgjedhja e anëtarëve të Këshillit të Lartë Gjyqësor
 
 10. Mosthirrja e Mbledhjes së Përgjithshme të gjyqtarëve për zgjedhjen e anëtarëve gjyqtarë të Këshillit të Lartë Gjyqësor ose tejkalimi i afatit për thirrjen e saj, si dhe mosfillimi i procedurave për përzgjedhjen e kandidatëve për anëtarët jogjyqtarë të Këshillit të Lartë Gjyqësor përbëjnë shkelje disiplinore për subjektet e parashikuara në pikat 8 dhe 9 të këtij neni.
 
-	11. Deri në krijimin e Këshillit të Emërimeve në Drejtësi, detyrat e Kryetarit të Këshillit të Emërimeve në Drejtësi, sipas neneve 23 deri në 31 dhe neneve 33 dhe 34, të këtij ligji, ushtrohen nga një prej kryetarëve të Kolegjeve të Gjykatës së Lartë të zgjedhur me short.
+11. Deri në krijimin e Këshillit të Emërimeve në Drejtësi, detyrat e Kryetarit të Këshillit të Emërimeve në Drejtësi, sipas neneve 23 deri në 31 dhe neneve 33 dhe 34, të këtij ligji, ushtrohen nga një prej kryetarëve të Kolegjeve të Gjykatës së Lartë të zgjedhur me short.
 
 Neni 277
 
@@ -5106,11 +5330,11 @@ Neni 278
 
 Ngritja e strukturave administrative dhe organizative të Këshillit të Lartë Gjyqësor
 
-	1. Nëpunësit civilë dhe punonjësit e Këshillit të Lartë Drejtësisë do të qëndrojnë në detyrë për një periudhë kalimtare deri 6 muaj pas krijimit të Këshillit të Lartë Gjyqësor. 
+1. Nëpunësit civilë dhe punonjësit e Këshillit të Lartë Drejtësisë do të qëndrojnë në detyrë për një periudhë kalimtare deri 6 muaj pas krijimit të Këshillit të Lartë Gjyqësor. 
 
-	2. Brenda afatit 6-mujor nga krijimi i Këshillit të Lartë Gjyqësor, Këshilli vlerëson plotësimin e kritereve formale të punonjësve në detyrë për pozicionin që kryejnë, sipas këtij ligji. Nëse punonjësi në detyrë nuk plotëson kriteret formale të pozicionit përkatës, Këshilli i Lartë Gjyqësor vlerëson mundësitë ekzistuese për sistemimin në një pozicion tjetër brenda administratës së Këshillit, të përshtatshëm dhe në përputhje me kriteret ligjore dhe profesionale, nëse nuk ka arsye për përfundimin e marrëdhënieve të punës. 
+2. Brenda afatit 6-mujor nga krijimi i Këshillit të Lartë Gjyqësor, Këshilli vlerëson plotësimin e kritereve formale të punonjësve në detyrë për pozicionin që kryejnë, sipas këtij ligji. Nëse punonjësi në detyrë nuk plotëson kriteret formale të pozicionit përkatës, Këshilli i Lartë Gjyqësor vlerëson mundësitë ekzistuese për sistemimin në një pozicion tjetër brenda administratës së Këshillit, të përshtatshëm dhe në përputhje me kriteret ligjore dhe profesionale, nëse nuk ka arsye për përfundimin e marrëdhënieve të punës. 
 
-	3. Punonjësit e Zyrës së Administrimit të Buxhetit Gjyqësor qëndrojnë në detyrë për një periudhë kalimtare deri 6 muaj pas krijimit të Këshillit të Lartë Gjyqësor. Rregullimet e parashikuara në pikën 2, të këtij neni, zbatohen edhe për këtë kategori punonjësish.
+3. Punonjësit e Zyrës së Administrimit të Buxhetit Gjyqësor qëndrojnë në detyrë për një periudhë kalimtare deri 6 muaj pas krijimit të Këshillit të Lartë Gjyqësor. Rregullimet e parashikuara në pikën 2, të këtij neni, zbatohen edhe për këtë kategori punonjësish.
 
 4. Punonjësi në detyrë ka të drejtë të dëgjohet, të paraqesë deklarata dhe prova të tjera, të përfaqësohet dhe të drejtën e ankimit.
 
@@ -5126,7 +5350,7 @@ Neni 279
 
 Zgjedhja e anëtarëve të Këshillit të Lartë të Prokurorisë
 
-	1. Jo më vonë se 1 muaj nga hyrja në fuqi e këtij ligji, prokurorët e interesuar për pozicionin e anëtarit të Këshillit të Lartë Prokurorisë paraqesin pranë Komisionit të Pavarur të Kualifikimit një kërkesë ku shprehin interesin për të kandiduar dhe dokumentacionin që kërkohet për rivlerësimin, sipas ligjit “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. Në rast se Komisioni i Pavarur i Kualifikimit nuk është krijuar ende, kërkesa depozitohet pranë Sekretarit të Përgjithshëm të Kuvendit. 
+1. Jo më vonë se 1 muaj nga hyrja në fuqi e këtij ligji, prokurorët e interesuar për pozicionin e anëtarit të Këshillit të Lartë Prokurorisë paraqesin pranë Komisionit të Pavarur të Kualifikimit një kërkesë ku shprehin interesin për të kandiduar dhe dokumentacionin që kërkohet për rivlerësimin, sipas ligjit “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”. Në rast se Komisioni i Pavarur i Kualifikimit nuk është krijuar ende, kërkesa depozitohet pranë Sekretarit të Përgjithshëm të Kuvendit. 
 
 			2. Brenda të njëjtit afat të parashikuar në pikën 1, të këtij neni, prokurorët e interesuar për pozicionin e anëtarit të Këshillit të Lartë të Prokurorisë i paraqesin Prokurorit të Përgjithshëm dokumentacionin përkatës, sipas nenit 108 të këtij ligji. Prokurori i Përgjithshëm vë në dispozicion të prokurorëve të interesuar për pozicionin e anëtarit të Këshillit formularët tip, të parashikuar nga shkronjat “b”, “c” dhe “e”, pika 3, të nenit 108, të këtij ligji.
 
@@ -5158,11 +5382,7 @@ Krijimi i Këshillit të Lartë të Prokurorisë
 
 Neni 281
 
-Ngritja e strukturave administrative 
-
-dhe organizative të Këshillit të Lartë 
-
-të Prokurorisë
+Ngritja e strukturave administrative  dhe organizative të Këshillit të Lartë  të Prokurorisë
 
 1. Marrëdhëniet e punës të nëpunësve civilë dhe punonjësve të tjerë të Prokurorisë së Përgjithshme dhe prokurorive të tjera rregullohen sipas parashikimeve kalimtare të ligjit “Për organizimin dhe funksionimin e Prokurorisë në Republikën e Shqipërisë”. 
 
