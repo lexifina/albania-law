@@ -2,9 +2,9 @@ LIGJ
 
 Nr.9975, datë 28.7.2008
 
-PËR TAKSAT KOMBËTARE[^fn1] 
+PËR TAKSAT KOMBËTARE[^fn2] 
 
-(Ndryshuar me ligjin nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018)
+(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019)
 
 (i përditësuar) 
 
@@ -86,7 +86,7 @@ Niveli i taksave kombëtare
 
 (shfuqizuar fjalia e fundit e pikës 2 dhe ndryshuar pika 6 me ligjin nr.10 065, datë 29.1.2009; ndryshuar pikat 2, 3, 4, 6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2, 3, 6 me ligjin nr.10 458, datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 3  me ligjin nr. 120/2013, datë 18.4.2013; ndryshuar pikat 2, 8 me ligjin nr. 178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2,4, shtuar pika 9 me ligjin nr.157, datë 27.11.2014; ndryshuar pikat 4, 5, 9, shtuar pika 11 me ligjin  nr. 141/2015, datë 17.12.2015; ndryshuar pikat  2,3, 4, 8,  me ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 3 e nenit 4 e ligjit nr. 68/2017, datë  27.4.2017
 
-“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018)
+“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019)
 
 1. Taksa portuale është 1 euro. Kjo taksë paguhet, për çdo prekje, për të gjitha anijet që prekin portet dhe radat e Republikës së Shqipërisë e që kryejnë veprime tregtare. 
 
@@ -112,9 +112,9 @@ Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare d
 
 7. Taksa e ushtrimit të veprimtarisë së peshkimit caktohet sipas shtojcës nr.4, që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
 
-8. Taksa e materialeve/artikujve plastikë dhe e ambalazheve plastike të importuara në kapitullin 39, të NKM-së, është 35 lekë/kg, me përjashtim të lëndëve të para në forma primare, të importuara në krerët 3901 deri në 3914, të NKM-së. Përveç kapitullit 39, kjo taksë zbatohet edhe  kur materiali plastik zë, të paktën, 51 për qind të masës së përgjithshme të ambalazhit që ambalazhon produkte të tjera të importuara, të klasifikuara në kapitujt, krerët, nënkrerët dhe kodet e tjera tarifore të Nomenklaturës së Kombinuar të Mallrave.
+8. Taksa e materialeve/artikujve plastikë dhe e ambalazheve plastike të importuara në kapitullin 39, të NKM-së, është 35 lekë/kg, me përjashtim të lëndëve të para në forma primare, të importuara në krerët 3901 deri në 3914, të NKM-së. Në rastet kur artikujt që importohen në kapitullin 39, të NKM-së, pjesa joplastike zë më shumë se 51 për qind të masës së përgjithshme, kjo taksë zbatohet vetëm për pjesën e masës së plastikës. Përveç kapitullit 39, kjo taksë zbatohet edhe  kur materiali plastik zë, të paktën, 51 për qind të masës së përgjithshme të ambalazhit që ambalazhon produkte të tjera të importuara, të klasifikuara në kapitujt, krerët, nënkrerët dhe kodet e tjera tarifore të Nomenklaturës së Kombinuar të Mallrave.
 
-8.1 Taksa e lëndëve të para në forma primare, të importuara në krerët 3901 deri në 3914, të NKM-së, dhe që përdoret për prodhimin në vend të produkteve të plastikës është 25 lekë/kg. 
+8.1 Taksa e lëndëve të para në forma primare, të importuara në krerët 3901 deri në 3914, të NKM-së, dhe që përdoret për prodhimin në vend të produkteve të plastikës është 10 lekë/kg. 
 
 8.2 Taksa e ambalazheve prej qelqi është 5 lekë/kg dhe zbatohet për ambalazhet prej qelqi të importuara e të prodhuara në vend. Taksa zbatohet për të gjithë artikujt prej qelqi, sipas kreut 7010 të NKM-së, në rast se ambalazhi importohet veçmas, si dhe kur materiali i qelqit zë, të paktën, 80 për qind të masës së përgjithshme të ambalazhit që ambalazhon produkte të tjera, të klasifikuara në kapitujt, krerët, nënkrerët dhe kodet e tjera tarifore të Nomenklaturës së Kombinuar të Mallrave.  
 
@@ -122,7 +122,7 @@ Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare d
 
 8.4 Në rastin e prodhimit brenda vendit, taksa e ambalazheve prej qelqi mblidhet nga administrata tatimore, sipas afateve dhe procedurave të deklarimit në këtë ligj. Administrata tatimore monitoron dhe kontrollon lëndët e para që përdoren për prodhimin e ambalazheve të qelqit, si dhe lëndët e para në forma primare, të importuara, me qëllim prodhimin e materialeve dhe ambalazheve plastike brenda vendit.”. 
 
-8.5 Për ambalazhet plastike/qelqi, të cilat eksportohen dhe për të cilat taksa është paguar në momentin e importit/prodhimit të tyre, administrata doganore rimburson shumën e taksës së paguar. Rimbursimi bëhet sipas procedurave të përcaktuara në udhëzimin e Ministrit të Financave.
+8.5 Për ambalazhet plastike/qelqi, lëndët e para, si dhe për materialet/artikujt prej plastike, të cilat eksportohen dhe për të cilat taksa është paguar në momentin e importit/prodhimit të tyre, administrata doganore rimburson shumën e taksës së paguar. Rimbursimi bëhet sipas procedurave të përcaktuara në udhëzimin e ministrit përgjegjës për financat.
 
 9. Niveli i taksës mbi të drejtën e përdorimit të truallit shtetëror në përdorim, aplikimi, llogaritja dhe pagesa e saj bëhen sipas përcaktimeve të ligjit nr. 10 270, datë 22.4.2010, “Për të drejtën e privatizimit të truallit shtetëror në përdorim dhe për taksën mbi të drejtën e përdorimit të tij”, të ndryshuar.
 
@@ -244,7 +244,7 @@ Neni 9
 
 Përjashtimet nga pagimi i taksave kombëtare
 
-(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii”të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018)
+(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii”të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “dh”, “e”, “ë” dhe “f” në pikën 4 me ligjin nr. 55/2019, datë 18.7.2019)
 
 1. Përjashtohen nga pagimi i taksës vjetore të mjeteve të përdorura:
 
@@ -301,6 +301,16 @@ i) ampulat për barnat mjekësore;
 ii) shishet për mbajtjen e serumit, gjakut dhe barnave mjekësore;
 
 dh) ambalazhet plastike dhe qelqi, të vendosura nën regjime doganore pezulluese.
+
+dh) lëndët e para në forma primare apo artikujt e tjerë të importuar dhe që klasifikohen në kapitullin 39, të NKM-së, të cilat përdoren si plotësues teknologjik, lëndë të para aditive (agregate lidhëse), apo si material për prodhimin e produkteve që nuk kategorizohen si artikuj plastikë. Taksa për lëndët e para në forma primare apo artikujt e tjerë të importuar do të aplikohet vetëm nëse materialet/artikujt e prodhuar nga këto lëndë të para janë subjekt i llogaritjes së taksës në rast se këto materiale/artikuj do të importohen;
+
+e) lëndët e para në forma primare për prodhimin e polisterolit (EPS expanded polysterene), importimi i paneleve, pllakave të polistirenit (XPS extruder polystyrene), si dhe profileve PVC për prodhimin e dyerve dhe dritareve, sipas kapitullit 39, të NKM-së, artikuj të cilët përdoren në industrinë e ndërtimit në funksion të eficiencës së energjisë;
+
+ë) lëndët e para në forma primare për prodhimin e sfungjerëve, si dhe importimi i materialeve/artikujve, sipas kapitullit 39, të NKM-së, që përdoren në industrinë e prodhimit të mobilieve;
+
+f) lëndët e para në forma primare me përmbajtje proteinike të forta apo materialet celuzoike, sipas kapitullit 39, të NKM-së, të cilat përdoren në industrinë e prodhimit të sallameve.
+
+Kodet e detajuara të artikujve në kapitullin 39, të NKM-së, që përjashtohen nga taksa, sipas pikave “dh”, “e”, “ë” dhe “f” më sipër, përcaktohen në udhëzimin e ministrit përgjegjës për financat.
 
 5. Taksa mbi të drejtën e përdorimit të truallit shtetëror nuk zbatohet mbi trojet turistike, mbi objektet dhe trojet e pranuara në proces legalizimi apo mbi trojet shtetërore, të dhëna me qëllim investimin mbi to, të cilat rregullohen nga ligje të tjera.
 
@@ -694,4 +704,4 @@ Kodet e mallrave të cilat mund të importohen ose prodhohen me ambalazh prej qe
 
 ---
 
-[^fn1]: Ligji nr.9975, datë 28.7.2008 është botuar në Fletoren Zyrtare nr. 128, datë 4 gusht 2008.    Ligji nr.10 065, datë 29.1.2009 është botuar në Fletoren Zyrtare nr.9, datë 9 shkurt 2009.    Ligji nr.10 131, datë 11.5.2009 është botuar në Fletoren Zyrtare nr.86, datë 12 qershor 2009.    Ligji nr. 10 145, datë 28.9.2009 është botuar në Fletoren Zyrtare nr.144, datë 12 tetor 2009.    Ligji nr. 10 280, datë 20.5.2010 është botuar në Fletoren Zyrtare nr.73, datë 29 qershor 2010.    Ligji nr.10458, datë 21.7.2011 është botuar në Fletoren Zyrtare nr.107, datë 9 gusht 2011.    Ligji nr.83/2012, datë 13.9.2012 është botuar në Fletoren Zyrtare nr.127, datë 1 tetor 2012.    Ligji nr.120/2013, datë 18.4.2013 është botuar në Fletoren Zyrtare nr.67, datë 3 maj 2013.    Ligji nr.178, datë 28.12.2013 është botuar në Fletoren Zyrtare nr.203, datë 30 dhjetor 2013.    Ligji nr. 86/2014, datë 17.7.2014 është botuar në Fletoren Zyrtare nr.126, datë 11 gusht 2014.    Ligji nr.157, datë 27.11..2014 është botuar në Fletoren Zyrtare nr. 195, datë 24 dhjetor 2014.    Ligji nr.141/2015, datë 17.12.2015 është botuar në Fletoren Zyrtare nr.252, datë 22 janar 2016.    Ligji nr.127/2016, datë 15.12.2016 është botuar në Fletoren Zyrtare nr.250, datë 27 dhjetor 2016.    Ligji nr. 68/2017, datë  27.4.2017 është botuar në Fletoren Zyrtare nr. 113, datë 22 maj 2017.   Ligji nr. 104/2017, datë 30.11.2017 është botuar në Fletoren Zyrtare nr. 222, datë 19 dhjetor 2017 dhe            hyn në fuqi më 1 janar 2018, me përjashtim të nenit 2, i cili hyn në fuqi  më 1 qershor 2018.   Ligji nr. 93/2018, datё 3.12.2018 është botuar në Fletoren Zyrtare nr.187, datë 28 dhjetor 2018 dhe   hyn në fuqi më 1 janar 2019.
+[^fn2]: Ligji nr.9975, datë 28.7.2008 është botuar në Fletoren Zyrtare nr. 128, datë 4 gusht 2008.    Ligji nr.10 065, datë 29.1.2009 është botuar në Fletoren Zyrtare nr.9, datë 9 shkurt 2009.    Ligji nr.10 131, datë 11.5.2009 është botuar në Fletoren Zyrtare nr.86, datë 12 qershor 2009.    Ligji nr. 10 145, datë 28.9.2009 është botuar në Fletoren Zyrtare nr.144, datë 12 tetor 2009.    Ligji nr. 10 280, datë 20.5.2010 është botuar në Fletoren Zyrtare nr.73, datë 29 qershor 2010.    Ligji nr.10458, datë 21.7.2011 është botuar në Fletoren Zyrtare nr.107, datë 9 gusht 2011.    Ligji nr.83/2012, datë 13.9.2012 është botuar në Fletoren Zyrtare nr.127, datë 1 tetor 2012.    Ligji nr.120/2013, datë 18.4.2013 është botuar në Fletoren Zyrtare nr.67, datë 3 maj 2013.    Ligji nr.178, datë 28.12.2013 është botuar në Fletoren Zyrtare nr.203, datë 30 dhjetor 2013.    Ligji nr. 86/2014, datë 17.7.2014 është botuar në Fletoren Zyrtare nr.126, datë 11 gusht 2014.    Ligji nr.157, datë 27.11..2014 është botuar në Fletoren Zyrtare nr. 195, datë 24 dhjetor 2014.    Ligji nr.141/2015, datë 17.12.2015 është botuar në Fletoren Zyrtare nr.252, datë 22 janar 2016.    Ligji nr.127/2016, datë 15.12.2016 është botuar në Fletoren Zyrtare nr.250, datë 27 dhjetor 2016.    Ligji nr. 68/2017, datë  27.4.2017 është botuar në Fletoren Zyrtare nr. 113, datë 22 maj 2017.   Ligji nr. 104/2017, datë 30.11.2017 është botuar në Fletoren Zyrtare nr. 222, datë 19 dhjetor 2017 dhe            hyn në fuqi më 1 janar 2018, me përjashtim të nenit 2, i cili hyn në fuqi  më 1 qershor 2018.   Ligji nr. 93/2018, datё 3.12.2018 është botuar në Fletoren Zyrtare nr.187, datë 28 dhjetor 2018 dhe   hyn në fuqi më 1 janar 2019.
