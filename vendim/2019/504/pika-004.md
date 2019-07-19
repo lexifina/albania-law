@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 873 470.7 (tetëqind e shtatëdhjetë e tre mijë e katërqind e shtatëdhjetë pikë shtatë) lekësh, të përballohet nga të ardhurat e Bashkisë Devoll, planifikuar në buxhetin e saj, me vendim të këshillit bashkiak.

@@ -1,0 +1,1 @@
+6. Pronarët e pasurive të paluajtshme, pronë private, të pasqyruar në tabelën bashkëlidhur këtij vendimi, të kompensohen, për efekt shpronësimi, pasi të kenë paraqitur certifikatën e pronësisë, hartën treguese të regjistrimit si dhe kartelën e pasurisë, pranë Bashkisë Devoll.
