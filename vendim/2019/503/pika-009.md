@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës, brenda 30 (tridhjetë) ditëve nga data e miratimit të këtij vendimi, në bashkëpunim me Bashkinë Vorë, të fillojë procedurat për hedhjen e gjurmës së projektit në hartën kadastrale sipas planimetrisë së shpronësimit të miratuar dhe të bëjë kalimin e pronësisë për pasurinë e shpronësuar, në favor të Bashkisë Vorë.
