@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 78/39, zona kadastrale 3184, fshati “Rinia”, njësia administrative “Katund i Ri”, Bashkia Durrës, sipas certifikatës së pasurisë dhe hartës treguese, bashkëlidhur këtij vendimi.

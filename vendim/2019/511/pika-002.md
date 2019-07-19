@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Durrës, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e statusit të resursit, nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 78/39, zona kadastrale 3184, fshati “Rinia”, njësia administrative “Katund i Ri”, Bashkia Durrës.
