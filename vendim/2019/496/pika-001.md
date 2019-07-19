@@ -1,0 +1,4 @@
+1. Në buxhetin e miratuar për vitin 2019, për Ministrinë e Mbrojtjes, Ministrinë e Kulturës dhe Fondin Shqiptar të Zhvillimit, bëhet rishpërndarje fondesh, si më poshtë vijon:
+a) Fondit Shqiptar të Zhvillimit, në programin buxhetor “Programe zhvillimi”, 06210, i pakësohet fondi prej 70 000 000 (shtatëdhjetë milionë) lekësh në shpenzime kapitale;
+b) Ministrisë së Mbrojtjes, në programin buxhetor “Emergjencat civile” 10910, i shtohet fondi prej 40 000 000 (dyzet milionë) lekësh në shpenzime kapitale të brendshme, për rindërtimin e shtëpive të dëmtuara nga tërmeti;
+c) Ministrisë së Kulturës, në programin “Trashëgimia kulturore dhe muzetë” 08220, i shtohet fondi prej 30 000 000 (tridhjetë milionë) lekësh, për restaurimin e muzeut “Mësonjëtorja e parë shqipe”, i dëmtuar dhe aktualisht i mbyllur nga tërmeti.
