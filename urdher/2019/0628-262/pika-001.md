@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Për kërkesat teknike dhe procedurat administrative në lidhje me ekuipazhin ajror të aviacionit civil”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
