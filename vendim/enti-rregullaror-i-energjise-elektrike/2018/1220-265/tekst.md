@@ -2,7 +2,9 @@ VENDIM
 
 Nr. 265, Datë 20.12.2018
 
-MBI LICENCIMIN E SHOQËRISË “BE-IS ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “KALIVAR 1” ME FUQI TË INSTALUAR 1475 kw; HIDROCENTRALI “KALIVAR 2” ME FUQI TË INSTALUAR  c526 kw; HIDROCENTRALI “KALIVAR 3” ME FUQI TË INSTALUAR 3321 kw; DHE HIDROCENTRALI “KALIVAR 4” ME FUQI TË INSTALUAR 275 kw, ME FUQI TOTALE TË INSTALUAR 5597 kw
+MBI LICENCIMIN E SHOQËRISË “BE-IS ENERGY” SHPK NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC-et: “KALIVAR 1” ME FUQI TË INSTALUAR 1475 kw; HIDROCENTRALI “KALIVAR 2” ME FUQI TË INSTALUAR 1526 kw; HIDROCENTRALI “KALIVAR 3” ME FUQI TË INSTALUAR 3321 kw; DHE HIDROCENTRALI “KALIVAR 4” ME FUQI TË INSTALUAR 275 kw, ME FUQI TOTALE TË INSTALUAR 5597 kw
+
+(ndryshuar me vendimin e ERE-s nr. 115, datë 22.7.2019)
 
 Në mbështetje të neneve 16; 37, pika 2, germa “a” dhe 39, pika 4, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, nenit 4, pika 1, germa “a”; nenit 5, pika 1, germa “a”; nenit 13, të “Rregullores për procedurat dhe afatet për dhënie, modifikimi, transferimi, rinovimi ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016 dhe nenit 15 të “Rregullave të organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 20.12.2018 mbasi shqyrtoi relacionin e përpiluar nga Drejtoria e Licencimit dhe Monitorimit të Tregut për licencimin e shoqërisë “BE – IS Energy” sh.p.k., në veprimtarinë e prodhimit të energjisë nga HEC-et “Kalivar 1” me fuqi të instaluar 578 kw, “Kalivar 2” me fuqi të instaluar 1234 kw, “Kalivar 3” me fuqi të instaluar 1653 kw, dhe “Kalivar 4” me fuqi të instaluar 1998 kw, me fuqi totale 5463 kw,
 
@@ -46,7 +48,7 @@ Për gjithë sa më sipër cituar Bordi të ERE-s,
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “BE-IS Energy” sh.p.k. në veprimtarinë e e prodhimit të energjisë elektrike nga HEC-et: “Kalivar 1” me fuqi të instaluar 1475 kw; hidrocentrali “Kalivar 2” me fuqi të instaluar 526 kw; Hidrocentrali “Kalivar 3” me fuqi të instaluar 3321 kw; dhe Hidrocentrali “Kalivar 4” me fuqi të instaluar 275 kw, me fuqi totale të instaluar 5597 kw, për një afat 30-vjeçar, më kusht që brenda 6 muajve nga marrja dijeni e këtij vendimi të depozitojë në ERE kontratën shtesë të koncesionit që do të nënshkruajë me MIE, në zbatim të nenit 28, të Kontratës së Koncesionit me nr. 1659 rep dhe nr. 561/1 kol, datë 4.7.2016, për ndryshimin e parametrave teknike të HEC-eve Kalivar 1, Kalivar 2, Kalivar 3 dhe Kalivar 4.
+1. Të licencojë shoqërinë “BE-IS Energy” sh.p.k. në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Kalivar 1”, me fuqi të instaluar 1475 kw; hidrocentrali “Kalivar 2”, me fuqi të instaluar 526 kw; hidrocentrali “Kalivar 3”, me fuqi të instaluar 3321 kw; dhe hidrocentrali “Kalivar 4”, me fuqi të instaluar 275 kw, me fuqi totale të instaluar 5597 kw, për një afat 30-vjeçar, me kusht që nëse para vënies në operim të veprës nuk  depoziton në ERE kontratën shtesë të koncesionit që do të lidhë me Ministrinë e Infrastrukturës dhe Energjisë, të ushtrojë aktivitetin mbështetur në kontratën e koncesionit me nr. 1659 rep dhe nr. 561/1 kol, datë 4.7.2016.
 
 2. Subjekti “BE-IS Energy” sh.p.k. në përfundim të afatit 5-vjeçar të lejes së përdorimit të ujit, të paraqesë në ERE lejen e rinovuar për periudhën në vazhdim.
 
