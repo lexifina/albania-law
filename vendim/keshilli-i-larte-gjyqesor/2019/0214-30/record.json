@@ -1,0 +1,27 @@
+{
+  "qbz_id": 55348,
+  "title": "Mbi miratimin e vendimit për rregullat dhe procedurën e caktimit të gjyqtarit për gjykimin e një çështjeje gjyqësore të veçantë në një gjykatë tjetër, të ndryshme nga ajo ku ushtron funksionin në mënyrë të përhershme",
+  "type": "Vendim",
+  "number": "30",
+  "institution": "Këshilli i Lartë Gjyqësor",
+  "adopted": "2019-02-14",
+  "version_no": 1,
+  "qbz_version_id": 3652,
+  "in_force": "2019-07-23",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-07-23",
+  "changed_by_qbz_id": 20389,
+  "changed_by_number": "140",
+  "changed_by_title": "Për disa shtesa në vendimin nr. 30, datë 14.2.2019, të Këshillit të Lartë Gjyqësor, “Për rregullat dhe procedurën e caktimit të gjyqtarit për gjykimin e një çështjeje gjyqësore të veçantë, në një gjykatë tjetër, të ndryshme nga ajo ku ushtron funksionin në mënyrë të përhershme”",
+  "source": "https://qbz.gov.al/files/130dfcd648ba3117316194bdaf646ecbd1ae56e197e40146f61cde315d76245a.docx",
+  "source_sha256": "130dfcd648ba3117316194bdaf646ecbd1ae56e197e40146f61cde315d76245a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55348",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/55348/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
