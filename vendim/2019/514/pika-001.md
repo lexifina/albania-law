@@ -1,0 +1,1 @@
+1. Financimin e projektit “Për Dhomën e Biznesit të Diasporës - krijimi dhe nxitja e investimeve të diasporës në Shqipëri”, me kohëzgjatje 28 (njëzet e tetë) muaj, me një fond prej 9 000 000 (nëntë milionë) lekësh, sipas projektit bashkëlidhur këtij vendimi.

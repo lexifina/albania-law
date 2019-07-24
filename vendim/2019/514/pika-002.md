@@ -1,0 +1,1 @@
+2. Për vitin 2019, me qëllim krijimin dhe organizimin e Dhomës së Biznesit të Diasporës si mekanizëm për mbrojtjen dhe nxitjen e bizneseve të diasporës shqiptare, Fondit Shqiptar për Zhvillimin e Diasporës i shtohet fondi prej 3 000 000 (tre milionë) lekësh, i cili përballohet nga fondi rezervë i buxhetit të shtetit.
