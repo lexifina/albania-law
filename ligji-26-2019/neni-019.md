@@ -1,0 +1,12 @@
+# Neni 19
+Ndihmëspërmbaruesi
+1. Kandidatët për përmbarues gjyqësor privat, të cilët kanë kryer trajnimin fillestar dhe që përmbushin kushtet e parashikuara në shkronjat “a”, “b”, “c”, “ç”, “e” dhe “ë”, të nenit 16, të këtij ligji, kanë të drejtë të regjistrohen pranë ministrisë si ndihmëspërmbarues.
+2. Ministria, pasi verifikon nëse dokumentet e paraqitura nga kërkuesi janë në përputhje të plotë me kriteret e përcaktuara në këtë ligj, bën regjistrimin në regjistrin e parashikuar në nenin 23 të këtij ligji.
+3. Ndihmëspërmbaruesi kryhen veprimtarinë duke u punësuar pranë një përmbaruesi gjyqësor privat të licencuar ose një zyre të përmbarimit privat, që ushtron veprimtarinë në mënyrë aktive. Ndihmëspërmbaruesi nuk mund të jetë bashkëshort ose i afërt deri në shkallë të dytë i përmbaruesit gjyqësor pranë të cilit punësohet.
+4. Përmbaruesit gjyqësorë privatë kanë të drejtë të pranojnë jo më shumë se një ndihmëspërmbarues, ndërsa zyrat e përmbarimit privat mund të pranojnë jo më shumë se një ndihmëspërmbarues për çdo përmbarues gjyqësor privat që vepron pranë zyrës.
+5. Ndihmëspërmbaruesi, me kërkesë të përmbaruesit gjyqësor privat, mbështet dhe asiston me aktivitetet administrative të veprimtarisë përmbarimore, por nuk mund të kryejë procedura që lidhen me ekzekutimin.
+6. Ndihmëspërmbaruesi e ushtron veprimtarinë vetëm pranë përmbaruesit gjyqësor privat ku është punësuar, me të cilin lidh një kontratë pune me kohë të plotë, në përputhje me parashikimet e Kodit të Punës dhe legjislacionit në fuqi për sigurimet shoqërore.
+7. Ndihmëspërmbaruesi, brenda 15 ditëve nga momenti i lidhjes së kontratës me përmbaruesin gjyqësor privat, depoziton në Dhomë dhe në ministri një kopje të kontratës dhe dokumentacionin ligjor të kërkuar.
+8. Ndihmëspërmbaruesi mund të transferohet pranë një përmbaruesi gjyqësor të ndryshëm nga ai ku është punësuar vetëm me pëlqimin e përmbaruesve respektivë, pas njoftimit të ministrit dhe të Dhomës. Transferimi shënohet në regjistër.
+9. Puna e ndihmëspërmbaruesit vlerësohet nga përmbaruesi gjyqësor privat përgjegjës për çdo vit kalendarik. Vlerësimi dorëzohet pranë Dhomës jo më vonë se data 31 janar e çdo viti. Dhoma përcakton rregulla më të hollësishme për kriteret, metodologjinë dhe nivelet e vlerësimit të ndihmëspërmbaruesit. Ndihmëspërmbaruesi ka detyrim të ndjekë programin e detyrueshëm të trajnimit vazhdues pranë Qendrës së Trajnimit.
+10. Dokumentacioni i nevojshëm për regjistrimin si ndihmëspërmbarues përcaktohet me urdhër të ministrit.

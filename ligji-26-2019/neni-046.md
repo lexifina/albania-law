@@ -1,0 +1,4 @@
+# Neni 46
+Marrëdhënia kontraktore
+1. Kur marrëdhëniet kontraktore ndërmjet përmbaruesit gjyqësor privat dhe palës kreditore zgjidhen nga përmbaruesi dhe/ose për shkak të tij, ai i kthen palës kreditore dokumentacionin ligjor të krijuar dhe mban pjesën e shumës së marrë si tarifë fikse për veprimet përmbarimore të kryera, deri në momentin e zgjidhjes së kontratës. Shuma e tarifës fikse të mbajtur parashikohet në kontratën e shërbimit të miratuar me urdhër të ministrit, sipas parashikimeve të këtij ligji.
+2. Kur pala kreditore vendos të zgjidhë kontratën, pa shkaqe të arsyeshme, përpara përfundimit të procedurës së ekzekutimit, përmbaruesi gjyqësor privat i kthen dokumentacionin ligjor të vënies në ekzekutim palës kreditore, pas përmbushjes së detyrimit, për çdo shpenzim të vërtetuar me dokumente zyrtare deri në atë çast.

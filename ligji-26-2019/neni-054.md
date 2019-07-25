@@ -1,0 +1,6 @@
+# Neni 54
+Kërkesa për ndihmën e Policisë së Shtetit
+1. Përmbaruesi gjyqësor privat ka të drejtë që të kërkojë ndihmën e Policisë së Shtetit, të institucioneve të tjera shtetërore apo subjekteve private, në rastet, kur e çmon të arsyeshme, se veprimet procedurale përmbarimore nuk mund të kryhen pa mbështetjen, ndihmën dhe prezencën e tyre.
+2. Kërkesa për ndihmë ose prezencë të organit policor nga përmbaruesi gjyqësor privat i drejtohet titullarit të Policisë së Shtetit në juridiksionin e vendit të ekzekutimit, pesë ditë përpara se të kryhet procedura e ekzekutimit.
+3. Në raste emergjence, kur është e nevojshme për të parandaluar rrezikun ndaj jetës, shëndetit ose pronës së përmbaruesit gjyqësor privat, ndihma dhe prania e punonjësve të Policisë së Shtetit mund të kërkohet edhe verbalisht. Në këto raste, përmbaruesi gjyqësor privat i paraqet Drejtorit të Përgjithshëm të Policisë së Shtetit dhe kryetarit të Dhomës një informacion me shkrim jo më vonë se dy ditë nga kalimi i gjendjes së emergjencës.
+4. Rregulla të hollësishme lidhur kriteret, procedurën dhe mënyrën e bashkëpunimit dhe mbështetjes së përmbaruesve gjyqësorë privatë nga Policia e Shtetit përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për rendin dhe sigurinë publike dhe ministrit.
