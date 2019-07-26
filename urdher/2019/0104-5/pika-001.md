@@ -1,1 +1,0 @@
-1. Z. Erjon Luçi, me detyrën zëvendësministër i Financave dhe Ekonomisë, për vitin 2019 të trajtojë kërkesat për miratim të shërbimeve jashtë vendit, për nëpunësit e Ministrisë dhe institucionet e varësisë.
