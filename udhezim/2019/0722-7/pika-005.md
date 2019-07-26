@@ -1,0 +1,1 @@
+5. Në rastet kur infrastruktura e peshkimit (porti dhe markata) do të transferohet për menaxhim pranë njësive të vetëqeverisjes vendore ose te organizatat e peshkimit, me urdhër ministri ngrihet, një komision i cili do të shqyrtojë kërkesat e paraqitura, ku në përbërje të tij të jenë edhe anëtarë të drejtorisë përgjegjëse për programet në fushën e peshkimit.
