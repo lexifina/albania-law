@@ -1,1 +1,0 @@
-9. Përkatësisht, Drejtoria Rajonale e OSHKSH-së të rajonit përkatës ose qendrat spitalore universitare nxjerrin aktin e emërimit për fituesin. Kandidati i shpallur fitues lidh kontratë individuale pune me institucionin shëndetësor.

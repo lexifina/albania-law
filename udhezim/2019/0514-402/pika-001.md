@@ -1,1 +1,0 @@
-1. Procedurat për punësimin e mjekëve në institucionet shëndetësore publike në Republikën e Shqipërisë udhëhiqen nga parimet e ligjshmërisë e të përgjegjshmërisë, si dhe nga vlerat e profesionalizmit, transparencës, meritës, barazisë dhe interesit më të lartë të shëndetit publik.
