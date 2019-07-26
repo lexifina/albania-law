@@ -1,0 +1,1 @@
+13. DROSHKSH-ja/spitali universitar dokumenton procesin e zgjedhjes së vendeve të punës për çdo kandidat, si dhe raporton me postë elektronike dhe me shkresë zyrtare në DQOSHKSH, si dhe në MSHMS, brenda datës pesë të çdo muaji për emërimet/refuzimet apo moskonfirmimet e kandidatëve.

@@ -1,0 +1,1 @@
+10. Kandidati fitues që përzgjedh vendin e punës në institucionet në varësi të OSHKSH-së, merr aktin e emërimit nga DROSHKSH-ja dhe paraqitet pranë institucionit shëndetësor për të lidhur kontratën e punës. Titullari i institucionit lidh kontratë pune pa afat me mjekun që zë një vend të lirë pune. Periudha e provës është tre muaj.

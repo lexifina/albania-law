@@ -1,0 +1,1 @@
+12. Kur dy kandidatë kanë pikë të barabarta, përzgjedhja e vendit të punës bëhet nga kandidati që i përket kategorisë së personave me aftësi të kufizuar nëse ka të tillë, nëse nuk ka PAK, vendi i punës i ofrohet kandidatit që ka mesataren më të larta në listën e notave të diplomës universitare.

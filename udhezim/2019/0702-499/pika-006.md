@@ -1,0 +1,1 @@
+6. DQOSHKSH ka detyrimin të shpallë në portalin “Mjekë për Shqipërinë” përgjatë gjithë vitit, vendet e lira të punës për çdo institucion shëndetësor publik sipas kërkesës së tyre, si dhe listën e punësimeve të kryera në muajin paraardhës brenda 5 (pesë) ditëve të para të çdo muaji.
