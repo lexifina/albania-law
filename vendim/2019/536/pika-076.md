@@ -1,0 +1,1 @@
+76. Inspektori verifikon plotësimin e kushteve dhe të kritereve ligjore, sipas parashikimeve të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”, si dhe bën verifikimin e figurës dhe të pasurisë së kandidatëve jomagjistratë.

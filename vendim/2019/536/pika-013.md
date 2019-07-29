@@ -1,0 +1,1 @@
+13. Inspektori ndjek dhe kryen të gjitha veprimet procedurale e verifikuese të lidhura me proceset e ndryshme të verifikimit të përmbushjes së kushteve dhe të kritereve të tjera ligjore nga secili kandidat jomagjistrat.

@@ -1,0 +1,1 @@
+58. Vetëdeklarimi i kandidatit jomagjistrat, sipas ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”, bëhet publik në faqen zyrtare të Inspektorit të Lartë të Drejtësisë.

@@ -1,0 +1,1 @@
+6. Kryesisht apo mbi kërkesën e Inspektorit, kandidati jomagjistrat ka të drejtë të paraqesë shpjegime me shkrim për faktet, rrethanat apo çështjet ligjore të lidhura me kandidimin e tij/saj, si dhe të depozitojë dokumente shkresore shtesë, në mbështetje të këtyre shpjegimeve.

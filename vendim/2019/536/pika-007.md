@@ -1,0 +1,2 @@
+7. Kandidati jomagjistrat ka të drejtë të tërhiqet në çdo kohë nga kandidimi, duke e njoftuar me shkrim Inspektorin. Pas këtij njoftimi, Inspektori vendos menjëherë përfundimin e procedurës së verifikimit të kandidatit jomagjistrat. Akti i Inspektorit për konstatimin e tërheqjes nga kandidimi i njoftohet menjëherë kandidatit jomagjistrat dhe bëhet publik në faqen zyrtare të Inspektorit të Lartë të Drejtësisë.
+C. Njoftimet

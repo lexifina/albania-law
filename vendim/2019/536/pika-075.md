@@ -1,0 +1,1 @@
+75. Çdo jurist i interesuar për pozicionin e inspektorit në zyrën e Inspektorit të Lartë të Drejtësisë, brenda 1 (një) muaji nga krijimi i zyrës së Inspektorit të Lartë, dorëzon aplikimin pranë Inspektorit të Lartë të Drejtësisë.

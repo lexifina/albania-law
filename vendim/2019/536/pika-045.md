@@ -1,0 +1,3 @@
+45. Në varësi të rezultateve të kontrollit dhe të nevojave të verifikimit të mëtejshëm të pasurisë, Inspektori mund të kërkojë:
+a) informacione shtesë nga subjektet publike dhe private;
+b) shpjegime me shkrim nga kandidati jomagjistrat, i cili, jo më vonë se 15 (pesëmbëdhjetë) ditë nga marrja dijeni, duhet të paraqesë këto shpjegime dhe dokumente mbështetëse drejtpërdrejt pranë zyrës së Inspektorit. Nëse për motive të justifikuara nuk mund të respektojë afatin pesëmbëdhjetëditor, kandidati jomagjistrat njofton menjëherë Inspektorin. Kur i vlerëson motivet si të justifikuara, Inspektori i cakton kandidatit jomagjistrat një afat të ri të arsyeshëm për të paraqitur shpjegimet lidhur me gjetjet e procedurës së verifikimit.

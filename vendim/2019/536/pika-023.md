@@ -1,0 +1,1 @@
+23. Nëse vlerëson që kandidati jomagjistrat nuk përmbush ndonjërin prej kushteve dhe kritereve të tjera ligjore të kandidimit, Inspektori procedon me përgatitjen e relacionit përkatës mbi gjendjen e faktit dhe të ligjit të zbatueshëm, pa qenë e nevojshme kryerja e procedurës së verifikimit për të gjitha kushtet dhe kriteret e tjera ligjore.

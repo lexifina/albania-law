@@ -1,0 +1,1 @@
+51. Kur e vlerëson, Inspektori mund të thërrasë ekspertin për të dhënë shpjegime. Në vendimin e arsyetuar të Inspektorit për lejimin ose ndalimin e kandidimit trajtohet edhe nevoja për ekspertim dhe mendimi i dhënë nga eksperti.

@@ -1,0 +1,1 @@
+71. Nëse nga gjetjet e procesit të verifikimit Inspektori vlerëson se nuk ka të dhëna që mund të sjellin ndalimin e kandidimit, procedon me përgatitjen e pjesës së relacionit përkatës mbi gjendjen e faktit dhe të ligjit të zbatueshëm për sa i përket verifikimit të kushteve dhe të kritereve të tjera ligjore të kandidimit.

@@ -1,0 +1,1 @@
+65. Nëse nga gjetjet dhe përfundimet e raportit të Prokurorisë së Përgjithshme, si edhe të atyre të dërguara nga institucionet e tjera të përmendura në këtë seksion, Inspektori vlerëson se ka të dhëna që mund të sjellin ndalimin e kandidimit, procedon me përgatitjen e relacionit mbi gjendjen e faktit dhe të ligjit të zbatueshëm për sa i përket verifikimit të integritetit.

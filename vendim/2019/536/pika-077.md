@@ -1,0 +1,1 @@
+77. Njoftimi zyrtar i Inspektorit për fillimin e procedurave ligjore të verifikimit të kandidaturave, sipas ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”, shpallet menjëherë në faqen zyrtare të Inspektorit të Lartë të Drejtësisë.

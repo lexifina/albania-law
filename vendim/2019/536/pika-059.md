@@ -1,0 +1,1 @@
+59. Inspektori e përcjell menjëherë formularin e vetëdeklarimit, sipas ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”, të plotësuar nga kandidati jomagjistrat, në Prokurorinë e Përgjithshme.

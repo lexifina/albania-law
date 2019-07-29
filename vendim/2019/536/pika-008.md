@@ -1,0 +1,1 @@
+8. Njoftimet e Inspektorit drejtuar kandidatit jomagjistrat gjatë procedurës së verifikimit bëhen me shkresë, në adresën postare ose në adresën elektronike të deklaruar për këtë qëllim nga kandidati, pranë Inspektorit.

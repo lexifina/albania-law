@@ -1,0 +1,1 @@
+47. Ekspertët e fushës përkatëse të institucioneve shtetërore thirren nga Inspektori sipas fushës së njohurive. Në rastet kur ekspertiza nuk mbulohet nga institucionet shtetërore, ekspertët përzgjidhen nga listat e përditësuara të subjekteve të licencuara për fushën përkatëse, në përputhje me rregullat e prokurimit publik.

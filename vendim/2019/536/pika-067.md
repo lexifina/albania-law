@@ -1,0 +1,4 @@
+67. Ndalimi i kandidimit vendoset edhe kur:
+a) kandidati jomagjistrat ka refuzuar të përmbushë detyrimin për t’u pajisur me formularin e vetëdeklarimit, sipas kërkesave të ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike” ose me formularin e aplikimit “Për informim përpara emërimit/zgjedhjes në poste të larta”, sipas ligjit nr. 45/2015, “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”, apo nuk i ka plotësuar dhe depozituar ato;
+b) kandidati jomagjistrat ka refuzuar nënshkrimin e autorizimit për Inspektorin që të kryejë verifikimin në organet kompetente, sipas ligjit, lidhur me të dhënat që lidhen integritetin e kandidatit.
+C. Verifikimi i kushteve të tjera ligjore të kandidimit

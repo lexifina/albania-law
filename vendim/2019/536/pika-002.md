@@ -1,0 +1,3 @@
+2. Këto rregulla kanë për qëllim realizimin e kësaj procedure duke u bazuar në meritat e kandidatëve jomagjistratë dhe duke respektuar parimet e përgjithshme të procedurës administrative, veçanërisht ato të ligjshmërisë, të transparencës, të informimit, të drejtësisë, të paanësisë, të proporcionalitetit, të mbrojtjes të të dhënave, konfidencialitetit e të sekretit shtetëror dhe të parimeve të tjera që garantojnë të drejtën për një proces të rregullt ligjor të kandidatëve jomagjistratë për pozicionin e Inspektorit gjatë procesit të verifikimit të plotësimit të kushteve e të kritereve ligjore si dhe verifikimin e figurës e të pasurisë.
+II. RREGULLA TË PËRGJITHSHME TË PROCEDURËS SË VERIFIKIMIT
+A. Fillimi i procedurës së verifikimit

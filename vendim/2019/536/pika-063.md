@@ -1,0 +1,3 @@
+63. Në varësi të rezultateve të kontrollit dhe të nevojave të verifikimit të mëtejshëm të integritetit të kandidatit, Inspektori mund të kërkojë:
+a) informacione shtesë nga institucionet e përmendura në këtë seksion;
+b) shpjegime me shkrim nga kandidati jomagjistrat, i cili, jo më vonë se 15 (pesëmbëdhjetë) ditë nga marrja dijeni, duhet të paraqesë drejtpërdrejt pranë zyrës së Inspektorit, shpjegimet e tij dhe dokumentet mbështetëse. Nëse për motive të justifikuara nuk mund të respektojë afatin pesëmbëdhjetëditor, kandidati jomagjistrat njofton menjëherë Inspektorin. Kur i vlerëson motivet si të justifikuara, Inspektori i cakton kandidatit jomagjistrat një afat të ri të arsyeshëm për të paraqitur shpjegimet lidhur me gjetjet e procedurës së verifikimit.

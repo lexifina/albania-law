@@ -1,0 +1,1 @@
+17. Pas realizimit të procedurave të parashikuara në pikat 15 e 16 të këtij vendimi, Inspektori procedon me dërgimin e shkresave standarde për kërkimin e informacionit dhe të shpjegimeve përkatëse nga kandidati jomagjistrat, institucionet publike dhe subjektet private në lidhje me kushtet dhe kriteret e tjera ligjore të kandidimit.

@@ -1,0 +1,1 @@
+50. Përpara fillimit të detyrës, eksperti nënshkruan formulën e betimit. Pas veprimit të betimit, sipas udhëzimeve të Inspektorit, eksperti ka detyrimin të shqyrtojë aktet, të përgatisë, sipas rastit, raport financiar apo mendimin e tij me shkrim, si edhe të ruajë konfidencialitetin e të dhënave që siguron gjatë kryerjes së ekspertimit.

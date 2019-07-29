@@ -1,0 +1,3 @@
+37. Jo më vonë se 15 (pesëmbëdhjetë) ditë nga dita e nënshkrimit dhe e dorëzimit nga kandidatët jomagjistratë dhe personat e lidhur të autorizimeve, sipas pikës 36, të këtij vendimi:
+a) Inspektori i dërgon ILDKPKI-së listën e kandidatëve jomagjistratë që i nënshtrohen procedurës së verifikimit të kushteve dhe të kritereve të tjera ligjore të kandidimit sipas ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”;
+b) Inspektori fillon procedurat për kryerjen e veprimeve të kërkimit nga subjekte publike dhe private, brenda dhe jashtë territorit të Republikës së Shqipërisë, të të dhënave mbi pasuritë, interesat private dhe detyrimet financiare që ekzistojnë në emër dhe për llogari të kandidatit jomagjistrat dhe të personave të lidhur.

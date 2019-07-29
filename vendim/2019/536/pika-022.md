@@ -1,0 +1,1 @@
+22. Nëse në përfundim të këtyre procedurave administrative për verifikimin e kushteve dhe të kritereve të tjera ligjore të kandidimit, Inspektori vlerëson se nuk ka të dhëna që mund të sjellin ndalimin e kandidimit, procedon me shqyrtimin e çështjes.

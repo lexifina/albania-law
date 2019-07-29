@@ -1,0 +1,8 @@
+14. Krahas veprimeve procedurale dhe verifikuese të tjera që i vlerëson të nevojshme rast pas rasti, për secilin kandidat jomagjistrat, Inspektori realizon procedurat standarde, si më poshtë vijon:
+a) Pajisjen e kandidatit jomagjistrat me formularin “Deklaratë e pasurisë dhe interesave privatë e kandidatit për pozicione të ndryshme në institucionet e sistemit të drejtësisë”;
+b) Pajisjen e kandidatit jomagjistrat me formularin për vetëdeklarim sipas kërkesave të ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”;
+c)Pajisjen e kandidatit jomagjistrat me formularin e aplikimit “Për informim përpara emërimit/zgjedhjes në poste të larta”, në përputhje me parashikimet ligjore të nenit 29, të ligjit nr. 45/2015, “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
+ç) Pajisjen dhe marrjen në dorëzim të nënshkruar të formularëve për dhënien e miratimit për përpunimin e të dhënave personale;
+d) Pajisjen dhe marrjen në dorëzim të nënshkruar të formularëve autorizues për verifikimin, në të gjitha subjektet publike dhe private, brenda dhe jashtë territorit të Shqipërisë, të të dhënave që lidhen me kushtet dhe kriteret e tjera ligjore të kandidimit;
+dh)Pajisjen dhe marrjen në dorëzim të nënshkruar nga kandidati të formularit deklarues për adresën postare, adresën elektronike dhe kontaktin telefonik, për qëllimet e procedurës së verifikimit dhe vlerësimit të kandidaturës;
+e) Dërgimin e shkresave standarde për kërkimin e informacionit dhe të shpjegimeve përkatëse nga kandidati, institucionet publike dhe subjektet private, në lidhje me kushtet dhe kriteret e tjera ligjore të kandidimit.

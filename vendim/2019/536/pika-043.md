@@ -1,0 +1,1 @@
+43. Në përfundim të verifikimit të kryer sipas ligjit, ILDKPKI-ja i dërgon menjëherë Inspektorit raportin e kontrollit të plotë për pasuritë, interesat private dhe detyrimet financiare të kandidatit dhe të personave të lidhur.

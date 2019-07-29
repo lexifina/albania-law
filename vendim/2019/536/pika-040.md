@@ -1,0 +1,1 @@
+40. ILDKPKI-ja kryen kontrollin e plotë për verifikimin e vërtetësisë dhe të saktësisë të të dhënave që përmbahen në deklaratën e pasurisë dhe të interesave private, brenda 2 (dy) muajve nga paraqitja e kësaj deklarate pranë ILDKPKI-së.

@@ -1,0 +1,1 @@
+30. Vendimi për procedurën e verifikimit të kandidatit jomagjistrat është i arsyetuar dhe hartohet sipas kërkesave të nenit 99, të Kodit të Procedurave Administrative, lidhur me formën dhe përmbajtjen e aktit administrativ.

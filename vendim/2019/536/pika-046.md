@@ -1,0 +1,1 @@
+46. Në rastin kur në procedurën e verifikimit të pasurisë lind nevoja për njohuri të posaçme lidhur me konstatimin dhe sqarimin e të dhënave që rezultojnë nga deklarimet e kandidatit jomagjistrat, gjetjet dhe përfundimet e ILDKPKI-së dhe atyre të sjella nga subjektet publike e private, Inspektori ka të drejtën të thërrasë ekspertë të fushës përkatëse.

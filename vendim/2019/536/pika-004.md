@@ -1,0 +1,2 @@
+4. Inspektori verifikon përmbushjen e kushteve ligjore dhe vlerëson kriteret profesionale e morale të kandidatëve jomagjistratë. Inspektori, pasi përjashton nga konkurrimi kandidatët që nuk plotësojnë kushtet ligjore, rendit kandidatët e tjerë, sipas meritës, duke zbatuar, për aq sa është e mundur dhe me ndryshimet e nevojshme, kërkesat e nenit 240, të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”.
+B. Të drejtat e kandidatit jomagjistrat

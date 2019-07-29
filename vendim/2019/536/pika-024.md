@@ -1,0 +1,1 @@
+24. Kur kandidati jomagjistrat njofton tërheqjen nga kandidimi, Inspektori përgatit relacionin që përshkruan procedurën e zhvilluar dhe projektaktin mbi përfundimin e procedurës administrative të verifikimit të kandidatit jomagjistrat të tërhequr.

@@ -1,0 +1,5 @@
+56. Jo më vonë se 10 (dhjetë) ditë nga ajo e njoftimit zyrtar për fillimin e procedurës së verifikimit, kandidati paraqitet në zyrën e Inspektorit për të tërhequr, kundrejt nënshkrimit:
+a) kopjen fizike të formularit për vetëdeklarim, sipas ligjit nr. 138/2015, “Për garantimin e integritetit të personave që zgjidhen, emërohen ose ushtrojnë funksione publike”,
+b) kopjen fizike të formularit të aplikimit “Për informim përpara emërimit/zgjedhjes në poste të larta”, sipas ligjit nr. 45/2015, “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
+c) informacionin mbi lidhjen elektronike në faqen zyrtare të Inspektorit të Lartë të Drejtësisë në të cilën kandidati jomagjistrat mund të marrë dhe të plotësojë sipas ligjit, në rrugë elektronike, këta formularë deklarimi;
+ç) formularin e autorizimit për Inspektorin që, në zbatim të pikës 4, të nenit 283, të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”, të kryejë verifikimin pranë organeve kompetente sipas ligjit, të të dhënave mbi figurën e kandidatit jomagjistrat.

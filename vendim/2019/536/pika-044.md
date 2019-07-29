@@ -1,0 +1,1 @@
+44. Inspektori shqyrton rezultatet e kontrollit, gjetjet dhe përfundimet e raportit të ILDKPKI-së, si edhe të dhënat mbi pasuritë, interesat private dhe detyrimet financiare të kandidatit jomagjistrat dhe të personave të lidhur, të dërguara nga subjektet publike dhe private, sipas kërkesës të tij.

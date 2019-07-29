@@ -1,0 +1,1 @@
+1. Ky vendim përcakton rregulla më të hollësishme lidhur me procedurat që Inspektori i Lartë i Drejtësisë (Inspektori) zhvillon për verifikimin e figurës e të pasurisë, si edhe të kushteve e të kritereve të tjera ligjore që duhet të plotësojnë kandidatët jomagjistratë për t’u zgjedhur në pozicionet vakante për inspektorë.

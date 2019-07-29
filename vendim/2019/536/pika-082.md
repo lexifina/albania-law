@@ -1,0 +1,1 @@
+82. Procedurat e vlerësimit dhe të renditjes së kandidaturave fillojnë pasi Inspektori të ketë përfunduar procedurat e verifikimit dhe të ketë vendosur për lejimin ose ndalimin e kandidimit të të gjithë kandidatëve jomagjistratë.

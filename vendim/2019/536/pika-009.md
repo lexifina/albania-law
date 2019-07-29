@@ -1,0 +1,1 @@
+9. Njoftimet dhe kërkesat e kandidatit jomagjistrat drejtuar Inspektorit bëhen me shkrim, duke i depozituar drejtpërdrejt pranë zyrës së Inspektorit të Lartë të Drejtësisë ose në adresën elektronike të tij, e cila i është bërë e njohur për këtë qëllim secilit kandidat, me fillimin e procedurave të verifikimit të kandidaturave.

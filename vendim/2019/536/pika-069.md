@@ -1,0 +1,1 @@
+69. Inspektori shqyrton dokumentacionin e paraqitur nga kandidati jomagjistrat për të vlerësuar nëse, për efekt të verifikimit të kushteve dhe kritereve të tjera ligjore të kandidimit, të dhënat e deklaruara janë të plota, kanë përmbajtje të saktë dhe nuk gjenden elemente që sjellin dyshime për vërtetësinë e dokumentit apo të përmbajtjes së tij.
