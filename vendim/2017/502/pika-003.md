@@ -7,4 +7,5 @@ c) bashkërendimit me njësitë e qeverisjes vendore dhe shoqatat e të zgjedhur
 d) hartimit të politikave, koordinimit dhe mbikëqyrjes së shërbimit të mbrojtjes nga zjarri;
 dh) ruajtjes dhe sigurisë së territorit dhe ndërtimeve;
 e) Shfuqizuar;
-ë) veprimtarisë së organit qendror blerës, me autorizim të Këshillit të Ministrave.
+ë)veprimtarisë së organit qendror blerës, me autorizim të Këshillit të Ministrave.
+f) Parandalimit, mbrojtjes, mbikëqyrjes dhe kontrollit të zbatimit të legjislacionit në fuqi për mbrojtjen e tokës, ajrit, ujërave dhe pyjeve nga ndotje, dëmtime apo ndërhyrje të kundërligjshme të çfarëdo lloji.
