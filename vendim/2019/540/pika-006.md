@@ -1,0 +1,1 @@
+6. Makineritë dhe pajisjet e përdorura në instalim duhet të jenë të pajisura me dokumentacionin shoqërues që tregon të dhënat për fuqinë e zhurmës që lëshon. Këto makineri dhe pajisje duhet të mirëmbahen dhe të shfrytëzohen gjatë procesit të punës në kushte të përshtatshme dhe efiçente për të mos kaluar indikatorët e përcaktuar të zhurmës, me qëllim minimizimin e zhurmave.

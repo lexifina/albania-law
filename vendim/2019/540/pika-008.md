@@ -1,0 +1,1 @@
+8. Prodhuesi duhet të marrë masa që instalimi për grumbullimin, përpunimin, trajtimin dhe prodhimin e lëkurëve të jetë i rrethuar nga një brez i gjelbër, me lartësi minimumi 2 (dy) metra, me qëllim reduktimin e aromave të pakëndshme dhe uljen e nivelit të zhurmave, si dhe me një distancë të mjaftueshme nga objekti për të shmangur rrezikun e zjarrit.
