@@ -1,1 +1,0 @@
-8. Niveli minimal i qirasë llogaritet sa 50 për qind e nivelit maksimal të qirasë. Për familjet sipas shkronjave “d” e “f” të nenit 5 të ligjit nr.9232, datë 13.5.2004, të ndryshuar, niveli minimal i qirasë llogaritet sa 25 për qind e qirasë maksimale.

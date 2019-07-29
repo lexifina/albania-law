@@ -1,1 +1,0 @@
-7. Në rastin kur në katet e para të objektit të ndërtuar janë parashikuar mjedise shërbimi, qiraja e tyre, në varësi të destinacionit, përcaktohet sipas nivelit të qirave të objekteve të ngjashme në treg.
