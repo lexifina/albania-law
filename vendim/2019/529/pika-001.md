@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Ndërmarrja Industriale nr. 1, Tiranë, te Ministria e Brendshme, të pasurive nr. 3/771, 3/772, 3/773, 3/774, zona kadastrale 8240, me sipërfaqe totale 4122.56 m2, rruga “Hamdi Pepa”, sipas dokumentacionit hipotekor bashkëlidhur këtij vendimi.
