@@ -1,0 +1,4 @@
+6. Çmimi i rregulluar për furnizimin e klientëve fundorë nga furnizuesi i ngarkuar me detyrimin e shërbimit publik të furnizimit
+6.1 Furnizuesi, i ngarkuar me detyrimin e shërbimit publik të furnizimit, është i detyruar të furnizojë klientët e gazit natyror sipas përcaktimeve të pikës 5, të këtij vendimi, me çmime të rregulluara, në të gjithë territorin e Shqipërisë, në përputhje me këtë vendim.
+6.2 Çmimet e rregulluara për shërbimin publik të furnizimit, sipas nënpikës 6.1, të kësaj pike, që miratohen nga ERE-ja në përputhje me nenin 92, të ligjit nr. 102/2015, duhet të pasqyrojnë kostot e arsyeshme të shërbimit.
+6.3 Tarifa e furnizimit, sipas kësaj pike, duhet të mbulojë kostot reale të furnizimit me gaz natyror, duke përfshirë investimet e nevojshme kapitale dhe kostot e importeve të gazit, kostot e shërbimeve të transmetimit, shpërndarjes dhe furnizimit, përfshirë një normë të caktuar të borxheve të këqija.

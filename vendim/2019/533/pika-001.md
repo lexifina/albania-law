@@ -1,0 +1,3 @@
+1. Qëllimi
+1.1 Qëllimi i këtij vendimi është të përcaktojë kushtet dhe procedurat për vendosjen nga ERE-ja të detyrimit të shërbimit publik, që zbatohet për të licencuarit në sektorin e gazit natyror, të cilët ushtrojnë aktivitetin e transmetimit, të shpërndarjes dhe furnizimit me gaz natyror të klientëve të vegjël, përfshirë klientët familjarë.
+1.2 Ky vendim është hartuar në përputhje me ligjin nr. 102/2015 “Për sektorin e gazit natyror”, të ndryshuar, duke garantuar që shoqëritë e gazit natyror të veprojnë në përputhje me parimet e këtij ligji, me qëllim arritjen e një tregu konkurrues, të sigurt e të qëndrueshëm, të gazit natyror, nga pikëpamja mjedisore, pa qenë të diskriminuar në të drejtat dhe detyrimet e tyre.

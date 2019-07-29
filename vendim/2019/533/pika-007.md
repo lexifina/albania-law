@@ -1,0 +1,3 @@
+7. Klientët në nevojë
+7.1 Klientët familjarë, që kanë fituar statusin e klientëve në nevojë, në përputhje me kushtet e përcaktuara në nenin 97, të ligjit nr. 102/2015, kanë të drejtën e përfitimit të shërbimit publik të furnizimit sipas kushteve të veçanta të furnizimit, të cilat miratohen nga ERE.
+7.2 Të gjitha shpenzimet e bëra nga furnizuesi në lidhje me kushtet e veçanta të furnizimit për këtë kategori klientësh, gjatë një viti, të përcaktuar në nënpikën 7.1, të kësaj pike, mbulohen nga tarifat e atij viti. Në vitin pasardhës mund të bëhet rregullimi i të ardhurave në varësi të performancës së vitit të mëparshëm.
