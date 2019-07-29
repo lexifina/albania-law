@@ -4,6 +4,8 @@ Nr. 16, datë 18.2.2019
 
 MBI SHTYRJEN E AFATIT TË ZBATIMIT TË KONTRATËS TIP PËR SHITBLERJEN E ENERGJISË ELEKTRIKE NDËRMJET SHOQËRISË SË PRODHIMIT TË ENERGJISË ELEKTRIKE/KESH SHA, AKSIONET E SË CILËS KONTROLLOHEN PLOTËSISHT OSE PJESËRISHT NGA SHTETI DHE FURNIZUESIT TË SHËRBIMIT UNIVERSAL PËR PERIUDHËN 1.1.2018–31.12.2018 DHE KONTRATËS PËR SHITBLERJEN E SASISË SË TEPËRT TË ENERGJISË ELEKTRIKE QË REZULTON PAS PËRMBUSHJES SË KËRKESËS SË KLIENTËVE QË PËRFITOJNË NGA SHËRBIMI UNIVERSAL, ME QËLLIM MBULIMIN E HUMBJEVE NË RRJETIN E SHPËRNDARJES PËR PERIUDHËN KOHORE 1.1.2018–31.12.2018”
 
+(ndryshuar me vendimin e ERE-s nr. 122, datë 29.7.2019)
+
 Në mbështetje të nenit 16, nenit 20, germa “h”, të ligjit nr. 43/2015, datë 22.5.2003, “Për sektorin e energjisë elektrike”, i ndryshuar, nenit 104, pika 4, germa a, e ligjit nr. 44/2015 “Kodi i Procedurës Administrative” nenit 5 dhe nenit 14 të VKM-së nr. 244, datë 30.3.2016 “Për miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do të zbatohen ndaj të licencuarve në sektorin e energjisë elektrike, të cilët ushtrojnë aktivitetin e prodhimit, transmetimit, shpërndarjes dhe furnizimit me energji elektrike”, i ndryshuar, dhe nenit 26 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e Bordit të ERE-s, nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 18.2.2019, mbasi shqyrtoi relacionin e përgatitur nga drejtoritë teknike në lidhje me miratimin e shtyrjes së afatit të zbatimit të kontratës tip për shitblerjen e energjisë elektrike ndërmjet shoqërisë së prodhimit të energjisë elektrike KESH sh.a., aksionet e së cilës kontrollohen plotësisht ose pjesërisht nga shteti dhe Furnizuesit të Shërbimit Universal, për periudhën 1.1.2018–31.12.2018 dhe kontratës për shitblerjen e sasisë së tepërt të energjisë elektrike që rezulton pas përmbushjes së kërkesës së klientëve që përfitojnë nga shërbimi universal, me qëllim mbulimin e humbjeve në rrjetin e shpërndarjes për periudhën kohore 1.1.2018–31.12.2018”. 
 
 konstatoi se:
@@ -40,7 +42,7 @@ Për gjithë sa më sipër, Bordi i ERE-s
 
 VENDOSI:
 
-1. Shtyrjen e afatit të zbatimit të kontratës për shitblerjen e sasisë së tepërt të energjisë elektrike që rezulton pas përmbushjes së kërkesës së klientëve që përfitojnë nga shërbimi universal, me qëllim mbulimin e humbjeve në rrjetin e shpërndarjes, miratuar me vendimin e ERE-s nr. 98, datë 30.4.2018, deri në paraqitjen e draft kontratës për vitin 2019 nga KESH sh.a. dhe OSHEE sh.a. dhe miratimin e saj nga ERE.
+1. Shfuqizuar.
 
 2. Shtyrjen e afatit të zbatimit të kontratës tip për shitblerjen e energjisë elektrike ndërmjet shoqërisë së prodhimit të energjisë elektrike/ KESH sh.a., aksionet e së cilës kontrollohen plotësisht ose pjesërisht nga shteti dhe Furnizuesit të Shërbimit Universal për periudhën 1.1.2018–31.12.2018, miratuar me vendimin e ERE-s nr. 132, datë 7.6.2018, deri në paraqitjen e draft kontratës për vitin 2019 nga KESH sh.a. dhe OSHEE sh.a. dhe miratimin e saj nga ERE.
 
