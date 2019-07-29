@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 1 422 145.31 (një milion e katërqind e njëzet e dy mijë e njëqind e dyzet e pesë pikë tridhjetë e një) lekësh, të përballohet nga buxheti i miratuar për vitin 2019, për Autoritetin Rrugor Shqiptar.

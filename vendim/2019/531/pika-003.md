@@ -1,0 +1,1 @@
+3. Pronarët e pasurive të paluajtshme, që shpronësohen, të kompensohen në vlerë të plotë, sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasuritë e llojit “truall”, “mur rrethues” dhe “kultura bujqësore”, me një vlerë të përgjithshme prej 1 422 145.31 (një milion e katërqind e njëzet e dy mijë e njëqind e dyzet e pesë pikë tridhjetë e një) lekësh.
