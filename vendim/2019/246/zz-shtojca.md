@@ -15,6 +15,8 @@ I. Niveli i mesëm drejtues dhe të barazvlefshëm
 11. Drejtor i Drejtorisë së Huamarrjes, në Drejtorinë e Përgjithshme të Borxhit Publik dhe Bashkërendimit të Ndihmës së Huaj, në Ministrinë e Financave dhe Ekonomisë, kategoria II-b;
 12. Drejtor i Drejtorisë së Menaxhimit të Programeve dhe Projekteve në Fushën e Zhvillimit Ekonomik dhe Arsimit Profesional, në Drejtorinë e Përgjithshme të Zhvillimit Ekonomik dhe Punësimit, në Ministrinë e Financave dhe Ekonomisë - kategoria II-b;
 13. Zëvendësdrejtor i Përgjithshëm Territorial i Drejtorisë së Përgjithshme të Tatimeve, kategoria - II-b.
+14. Drejtor i Huamarrjes, në Drejtorinë e Përgjithshme të Borxhit Publik dhe Bashkërendimit të Ndihmës së Huaj, në Ministrinë e Financave dhe Ekonomisë - kategoria II-b;
+15. Drejtor i Drejtorisë së Sistemeve Informatike, në Drejtorinë e Përgjithshme të Gjendjes Civile- kategoria II-b.
 II. Niveli i ulët drejtues dhe të barazvlefshëm
 1. Përgjegjës i Sektorit të Shërbimeve dhe Menaxhimit të Aseteve, në Drejtorinë e Mirëadministrimit të Burimeve Njerëzore, Aseteve dhe Shërbimeve, në Drejtorinë e Përgjithshme Ekonomike dhe të Shërbimeve Mbështetëse, në Ministrinë e Brendshme - kategoria III-a;
 2. Përgjegjës i Sektorit të Programimit, Hartimit dhe Harmonizimit të Akteve Rregullatore, në Drejtorinë e Programimit, Standardizimit dhe Harmonizimit të Kuadrit Rregullator, në Drejtorinë e Përgjithshme Rregullatore dhe Përputhshmërisë për Kulturën, në Ministrinë e Kulturës - kategoria III-a;
@@ -42,12 +44,14 @@ II. Niveli i ulët drejtues dhe të barazvlefshëm
 24. Drejtor Rajonal në Drejtorinë Rajonale të Tatimeve Vlorë - kategoria III-a;
 25. Drejtor Rajonal në Drejtorinë Rajonale të Tatimeve Gjirokastër - kategoria III-a;
 26. Drejtor Rajonal në Drejtorinë Rajonale të Tatimeve Korçë - kategoria III-a;
-27. Përgjegjës i Sektorit të Vlerësimit në Qendër, në Drejtorinë e Vlerësimit në Qendër, në Drejtorinë e Përgjithshme të Doganave - kategoria III-a/1;
-28. Përgjegjës i Sektorit të Trajnimeve dhe Etikës, në Drejtorinë e Menaxhimit të Burimeve Njerëzore, në Drejtorinë e Përgjithshme të Doganave - kategoria III-a/1;
-29. Përgjegjës i Sektorit të Mbikqyrjes Doganore, Dega Doganore Tiranë- kategoria III-a/1;
-30. Përgjegjës i Sektorit të Operacioneve Doganore, Dega Doganore Kukës - kategoria III-a/1;
-31. Përgjegjës i Sektorit të Kontrollit të Sigurisë, Dega Doganore Durrës - kategoria III-a/1;
+27. Kryetar, Dega Doganore Kakavijë, kategoria III-a;
+28. Kryetar, Dega Doganore Rinas, kategoria III-a;
+29. Kryetar, Dega Doganore Shkodër, kategoria III-a;
+30. Kryetar, Dega Doganore Kukës Morinë, kategoria III-a;
+31. Drejtor, Drejtoria e Antikorrupsionit dhe Standardeve Profesionale, Drejtoria e Përgjithshme e Doganave”, kategoria III-a;
 32. Përgjegjës i Sektorit të Monitorimit të Kontratave të Koncensionit, në Drejtorinë e Koncensioneve, në Drejtorinë e Përgjithshme Rregullatore dhe Përputhshmërisë, në Ministrinë e Financave dhe Ekonomisë- kategoria III-a;
 33. Përgjegjës i Sektorit të Çështjeve të Tregtisë, në Drejtorinë e Politikave të Zhvillimit Ekonomik, në Drejtorinë e Përgjithshme e Zhvillimit Ekonomik dhe Punësimit në Ministrinë e Financave dhe Ekonomisë- kategoria III-a;
 34. Përgjegjës i Sektorit të Privatizimit dhe Monitorimit, në Drejtorinë e Privatizimit, në Drejtorinë e Përgjithshme të Pronës Publike, në Ministrinë e Financave dhe Ekonomisë- kategoria III-a;
-35. Përgjegjës i Sektorit të Harmonizimit të Menaxhimit Financiar dhe Kontrollit, në Drejtorinë e Harmonizimit të Menaxhimit Financiar, Kontrollit dhe Kontabilitetit, në Drejtorinë e Përgjithshme e Harmonizimit të Kontrollit të Brendshëm Financiar Publik, në Ministrinë e Financave dhe Ekonomisë- kategoria III-a.
+35. Përgjegjës i Sektorit të Harmonizimit të Menaxhimit Financiar dhe Kontrollit, në Drejtorinë e Harmonizimit të Menaxhimit Financiar, Kontrollit dhe Kontabilitetit, në Drejtorinë e Përgjithshme e Harmonizimit të Kontrollit të Brendshëm Financiar Publik, në Ministrinë e Financave dhe Ekonomisë- kategoria III-a;
+36. Përgjegjës i sektorit të lajmeve ekonomike dhe politike, në Drejtorinë e Lajmeve dhe Multimedias, në Agjencinë Telegrafike Shqiptare - kategoria: III-a/1;”.
+“37. Drejtor i Drejtorisë Juridike dhe i Shërbimeve Mbështetëse, në Agjencinë për Zhvillimin Bujqësor dhe Rural - kategoria: III-a.
