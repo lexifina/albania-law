@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Sistemim i bllokut të banimit në Lagjen ’Xhevdet Nepravishta’, kufizuar me Rrugën ’Ahmet Zogu’, Rrugën ’Misto Mame’ dhe Shëtitoren ’Kongresi’, Lushnjë”.
