@@ -1,0 +1,1 @@
+2. Kalimet të bëhen duke iu referuar vlerave në bilancin kontabël në datën e dorëzimit dhe marrjes në dorëzim. Dorëzimi dhe marrja në dorëzim bëhen nga një komision i përbashkët, i ngritur nga Ministria e Arsimit, Sportit dhe Rinisë (Universiteti Bujqësor, Tiranë,) dhe Ministria e Bujqësisë dhe Zhvillimit Rural.

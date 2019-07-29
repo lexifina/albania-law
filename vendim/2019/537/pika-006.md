@@ -1,0 +1,1 @@
+6. Ministria e Bujqësisë dhe Zhvillimit Rural nënshkruan marrëveshje bashkëpunimi me Universitetin Bujqësor të Tiranës për zhvillimin e praktikave mësimore nga ana e studentëve të tij në mënyrë të përhershme pranë këtyre laboratorëve.
