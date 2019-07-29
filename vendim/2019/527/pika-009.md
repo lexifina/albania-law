@@ -1,0 +1,1 @@
+9. Për një periudhë tranzitore prej jo më shumë se një vit kalendarik, që nga hyrja në fuqi e këtij vendimi, lejohet regjistrimi manual në SIMF i të dhënave lidhur me politikat dhe objektivat specifikë të programeve buxhetore deri në sinkronizimin e plotë automatik të të dhënave ndërmjet SIPI-t dhe SIMF-it.

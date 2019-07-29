@@ -1,0 +1,1 @@
+10. Vendimi nr. 82, datë 3.2.2016, i Këshillit të Ministrave, “Për krijimin e bazës të të dhënave shtetërore të Sistemit të Programit Buxhetor Afatmesëm”, shfuqizohet. Të dhënat e SPBA-së transferohen te SIMF-i brenda 6 muajve, nga hyrja në fuqi e këtij vendimi.
