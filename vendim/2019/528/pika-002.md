@@ -1,0 +1,1 @@
+2. Vendimi nr. 79, datë 3.2.2016, i Këshillit të Ministrave, “Për një shtesë në vendimin nr. 250, datë 24.4.2003, të Këshillit të Ministrave, “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Rendit Publik”, të ndryshuar”, shfuqizohet.
