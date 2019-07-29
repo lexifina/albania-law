@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për kriteret dhe procedurat e dhënies së licencave profesionale të zbatimit, klasifikimit dhe disiplinimit të subjekteve juridike, që ushtrojnë veprimtari ndërtimi, sipas tekstit, që і bashkëlidhet këtij vendimi.
