@@ -1,0 +1,1 @@
+4. Masa e qirasë, e shprehur në lekë/m2, llogaritet në varësi të kostos së ndërtimit ose të vlerës së blerjes së banesës në treg. Masa vjetore e qirasë nuk mund të jetë më e madhe se 3% e kostos së ndërtimit ose e vlerës së banesës së blerë në treg.

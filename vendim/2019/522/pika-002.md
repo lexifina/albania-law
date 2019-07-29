@@ -1,0 +1,1 @@
+2. Masa e qirasë për banesat sociale, që sigurohen me financime të sektorit privat, përcaktohet nga subjektet që e kanë financuar, në bashkëpunim me njësinë e vetëqeverisjes vendore, dhe nuk është subjekt i këtij vendimi.

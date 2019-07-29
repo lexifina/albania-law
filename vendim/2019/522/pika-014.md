@@ -1,0 +1,1 @@
+14. Vendimi nr.260, datë 24.2.2010, i Këshillit të Ministrave, “Për metodikën e llogaritjes së masës së qirasë, kur banesat sociale me qira financohen nga buxheti i shtetit ose buxheti i bashkive apo nga kombinimi i të dyjave”, shfuqizohet.
