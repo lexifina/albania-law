@@ -1,0 +1,1 @@
+1. Miratimin e udhërrëfyesit për politikën qeverisëse drejt një mjedisi mundësues për zhvillimin e shoqërisë civile 2019-2023, i rishikuar, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
