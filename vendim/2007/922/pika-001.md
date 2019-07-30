@@ -1,1 +1,0 @@
-1. Institucionet shtetërore, që, për nevoja pune, prodhojnë, ruajnë, përpunojnë, shpërndajnë ose transmetojnë, mbrojnë informacion të klasifikuar “Sekret shtetëror”, nëpërmjet sistemeve, rrjeteve informatike, mjeteve e pajisjeve të transmetimit, ndërlidhjes së sistemeve dhe mbrojtjes kriptografike, duhet të veprojnë në përputhje me kërkesat e përcaktuara në këtë vendim.

@@ -1,1 +1,0 @@
-3. Pajisjet hardware dhe soft-et e ndryshme të rrjetit informatik të klasifikuar, mjetet dhe pajisjet e transmetimit, pajisjet e ndryshme të mbrojtjes kriptografike duhet të sigurohen nga shoqëri, prodhuese ose tregtare, të specializuara dhe të mirënjohura në tregun ndërkombëtar, sipas kërkesave të legjislacionit për prokurimin publik.

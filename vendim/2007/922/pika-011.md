@@ -1,3 +1,0 @@
-11. Personi apo personat, punonjës të institucionit, që instalojnë, mirëmbajnë ose riparojnë rrjetin informatik, mjetet apo pajisjet e transmetimit, sistemet e ndërlidhjes duhet të jenë të pajisur më parë me “Certifikatë sigurie” të përshtatshme.
-Në qoftë se nuk janë punonjës të institucionit, ata duhet të jenë nën mbikëqyrjen e vazhdueshme të personelit, të kualifikuar teknikisht dhe të certifikuar, të institucionit.
-Kur punimet kryhen nga subjekte shtetërore, private, vendase apo të huaja, do të zbatohen kërkesat për sigurimin e informacionit të klasifikuar “Sekret shtetëror”, në fushën industriale.
