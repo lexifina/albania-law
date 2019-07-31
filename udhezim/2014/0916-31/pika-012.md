@@ -1,1 +1,0 @@
-12.Me përfundimin e hedhjes së të dhënave të regjistrimit në fund të afatit ligjor për vitin akademik përkatës, të përcaktuar në aktet ligjore e nënligjore në fuqi, regjistri mbyllet me vijë ndarëse të qartë, poshtë së cilës shënohet numri i rekordit të fundit të plotësuar para vijës ndarëse, data dhe nënshkrimi i personit të autorizuar.

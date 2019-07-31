@@ -1,1 +1,0 @@
-13.Hapja e regjistrimeve në vitin pasardhës për atë program studimi fillon me numrin rendor vijues numerik pas atij të mëparshëm të saktësuar në mbylljen e regjistrit me vijën ndarëse, sipas përcaktimeve në pikën 11 të këtij udhëzimi.

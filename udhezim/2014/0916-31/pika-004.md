@@ -1,1 +1,0 @@
-4.Shtëpia Botuese e Teksteve Mësimore prodhon regjistrat sipas përcaktimeve të këij udhëzimi dhe i dërgon në Agjencinë Kombëtare të Provimeve me procesverbal dorëzimi. Në rast se regjistrat kanë defekte, Agjencia Kombëtare e Provimeve i kthen Shtëpitë Botuese të Teksteve Mësimore regjistrat për riprodhim.

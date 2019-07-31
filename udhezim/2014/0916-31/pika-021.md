@@ -1,1 +1,0 @@
-21.Institucionet e arsimit të lartë publik dhe privat të marrin masat e nevojshme për sigurimin e informacionit, për plotësimin e regjistrave, në formë elektronike dhe të shkruar me dorë me ngjyrë blu, për çdo student, sipas të gjitha rubrikave të përcaktuara në shtojcën 2 të këtij udhëzimi.
