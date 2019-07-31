@@ -1,0 +1,21 @@
+10. Në rast ndryshimi/riorganizimi të IAL-së, njësisë kryesore apo të programit të studimit, IAL-të dërgojnë zyrtarisht në QSHA kërkesën për regjistër të ri themeltar, regjistër të ri të arritjeve akademike dhe regjistër të ri të lëshimit të diplomave dhe certifikatave.
+KREU II
+REGJISTRI THEMELTAR I STUDENTËVE
+1. QSHA-ja pajis me regjistër themeltar të studentëve IAL-të, sipas përcaktimeve të këtij udhëzimi.
+2. Regjistri themeltar i studentëve përmban informacionet e parashikuara në shtojcën nr.3 të këtij udhëzimi dhe përbëhet nga 29 fletë.
+3. Regjistri themeltar i studentëve depozitohet në arkivat e shtetit, sipas kuadrit ligjor në fuqi për arkivat, ndërsa kopja e njësuar me origjinalin ruhet për gjithë periudhën kohore të ekzistencës së IAL-së.
+4. Në kopertinën e regjistrave themeltarë të studentëve, punonjësi i QSHA-së plotëson (me dorë) të dhënat lidhur me:
+a) emërtimin e IAL-së;
+b) emërtimin e njësisë kryesore;
+c) emërtimin e programit të studimit;
+d) ciklin e studimit;
+e) llojin e programit të studimit;
+f) formën e studimit;
+g) numrin e regjistrit.
+5. Regjistri themeltar i studentëve plotësohet me shkrim dore nga punonjësi i autorizuar i sekretarisë mësimore pranë njësisë kryesore. Për çdo faqe të re të regjistrit që fillon të plotësohet, personi i autorizuar për hedhjen e të dhënave plotëson të dhënat e parashikuara në shtojcën nr.2 të këtij udhëzimi. Për çdo rekord të hedhur punonjësi i autorizuar dhe kryesekretari nënshkruan në hapësirën përkatëse. Plotësimi i regjistrit me të dhënat e studentëve bëhet në momentin e regjistrimit të studentit. Rekordet e plotësuara duhet të pasqyrohen sipas datës së regjistrimit të studentit. Në momentin e regjistrimit të të dhënave të studentit, numri i matrikullimit nuk plotësohet. Numri i matrikullimit plotësohet jo më vonë se 10 ditë nga dërgimi në formë zyrtare nga QSHA-ja, nga personi i autorizuar që ka plotësuar rekordin përkatës. Në mungesë të personit të autorizuar, numri i matrikullimit plotësohet në regjistrin themeltar të studentëve nga kryesekretari i IAL-së, i cili nënshkruan plotësimin e kryer.
+Për studentët e huaj që nuk disponojnë lejen e qëndrimit në Republikën e Shqipërisë në momentin e regjistrimit, të dhënat përkatëse hidhen nga personi që ka plotësuar rekordin përkatës, jo më vonë se afatet e parashikuara ligjore për qëndrimin e shtetasve të huaj në Republikën e Shqipërisë.
+6. Në regjistër nuk mund të bëhen korrigjime, fshirje, shtesa apo zëvendësime të dhënash. Çdo ndryshim, duhet të bëhet sipas përcaktimeve të kuadrit ligjor në fuqi për arkivat, të jetë i arsyetuar dhe të mbahet procesverbal. Procesverbali nënshkruhet nga punonjësi i autorizuar, kryesekretari dhe dekani, përmban datën, arsyen dhe shoqërohet me një fotokopje të fletës përkatëse të regjistrit para kryerjes së ndryshimit, me vulën e njësisë kryesore, si dhe fotokopjen e fletës së regjistrit pas ndryshimit të kryer, të vulosur me vulën e njësisë kryesore dhe ruhet në sekretarinë mësimore të IAL-së.
+7. Me përfundimin e hedhjes së të dhënave të regjistrimit, në fund të afatit ligjor për vitin akademik përkatës, të përcaktuar në aktet ligjore e nënligjore në fuqi, regjistri mbyllet me vijë ndarëse të qartë, poshtë së cilës shënohet numri i rekordit të fundit të plotësuar para vijës ndarëse, data dhe nënshkrimi i personit të autorizuar.
+8. Hapja e regjistrimeve në vitin pasardhës në të njëjtin program studimi fillon me numrin rendor vijues numerik pas atij të mëparshëm, të saktësuar, në mbylljen e regjistrit me vijën ndarëse, sipas përcaktimeve në pikën 7, të këtij kreu.
+9. IAL-të marrin masa për përgatitjen dhe miratimin e rregulloreve të sekretarive mësimore për regjistrimin e studentëve, plotësimin dhe ruajtjen e regjistrit themeltar të studentëve, sipas përcaktimeve të këtij udhëzimi.
+10. Regjistri themeltar i studentëve që arkivohet, mbyllet me vijë ndarëse të qartë, sipas kuadrit ligjor në fuqi për arkivat dhe ruhet në vend të sigurt, duke u shoqëruar me një dokument të nënshkruar nga kryesekretari, dekani dhe rektori mbi mbylljen e tij, ku shënohen të dhënat për numrin e faqes së fundit dhe rekordit të fundit të plotësuar të regjistrit. Hedhja e të dhënave shoqërohet me nënshkrimin e personave përgjegjës.

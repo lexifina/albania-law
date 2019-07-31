@@ -1,0 +1,1 @@
+8. IAL-të depozitojnë kërkesën për pajisje me regjistrat, sipas nevojave të tyre. Pajisja e IAL-ve me regjistrat bëhet përpara fillimit të vitit akademik, por jo më vonë se data 30 tetor të çdo viti akademik.

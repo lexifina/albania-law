@@ -1,0 +1,1 @@
+1. Pajisjen e institucioneve të arsimit të lartë (në vijim “IAL”) me regjistrin themeltar të studentëve, regjistrin e arritjeve akademike, si dhe regjistrin e lëshimit të diplomave dhe certifikatave, sipas formatit dhe përcaktimeve në këtë udhëzim.

@@ -1,0 +1,1 @@
+3. IAL-të regjistrojnë rezultatet e arritura nga çdo student i regjistruar, sipas programeve të studimit, në regjistrin e arritjeve akademike, në formë të shkruar (me dorë), si dhe në format elektronik, sipas formatit të përcaktuar në këtë udhëzim.

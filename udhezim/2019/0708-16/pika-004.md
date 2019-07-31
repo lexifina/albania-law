@@ -1,0 +1,1 @@
+4. IAL-të regjistrojnë diplomat dhe certifikatat në regjistrin e lëshimit të diplomave dhe certifikatave, në formë të shkruar (me dorë), si dhe në format elektronik, sipas formatit të përcaktuar në këtë udhëzim.
