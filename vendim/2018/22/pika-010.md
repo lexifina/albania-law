@@ -1,1 +1,1 @@
-10. Ofrimi i ushqimit dhe i pijeve bëhet në ambiente të përshtatshme dhe që plotësojnë normat në fuqi për ushqimin dhe kushtet higjieno-sanitare. Struktura pritëse, ku ofrohet ushqim dhe pije, duhet të ketë, minimalisht, 6 deri në 60, por jo më shumë, tavolina.
+10. Struktura/objekti, ku ofrohet ushqim dhe pije, duhet të ketë 6 deri në 60 tavolina. Ofrimi i ushqimit dhe i pijeve bëhet në ambiente të përshtatshme dhe duhet të plotësojë kriteret e parashikimeve të legjislacionit në fuqi për sigurinë e ushqimeve dhe kushtet higjieno-sanitare.

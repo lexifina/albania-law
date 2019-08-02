@@ -1,1 +1,1 @@
-15. Subjektet, që aplikojnë për marrjen e certifikatës “Subjekt i certifikuar agroturizmi”, paguajnë një tarifë prej 500 (pesëqind) lekësh në llogarinë e ministrisë përgjegjëse për turizmin.
+15. Subjektet, që aplikojnë për marrjen e “Certifikatës paraprake” apo të “Certifikatës”, paguajnë një tarifë prej 2 000 (dy mijë) lekësh në llogarinë e ministrisë përgjegjëse për turizmin. Të ardhurat nga këto tarifa derdhen në buxhetin e shtetit.

@@ -1,1 +1,4 @@
-11. Ushqimi dhe pijet e ofruara në subjektet agroturistike duhet të jenë me origjinë nga ferma (të prodhuara ose të përpunuara në fermë/njësinë agrikulturore), minimalisht në 30% të sasisë së tyre. Nga 30% deri në 70% të produkteve ushqimore/pijeve lejohet të jenë me origjinë lokale, të prodhuara apo të përpunuara nga prodhues lokalë, që kryejnë aktivitet në bashkinë ku ka selinë agroturizmi.
+11. Ushqimi dhe pijet e ofruara në këto struktura duhet të jenë:
+a) jo më pak se 30% të sasisë së tyre me origjinë nga ferma;
+b) jo më pak se 40 % të sasisë së tyre, me origjinë lokale, brenda territorit të bashkisë ku ushtrohet veprimtaria e agroturizmit;
+c) jo më shumë se 30% e sasisë së tyre me origjinë tjetër.
