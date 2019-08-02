@@ -1,0 +1,2 @@
+1. DISPOZITA TË PËRGJITHSHME
+1. Krijimin dhe mënyrën e organizimit e të fuksionimit të Agjencisë Kombëtare të Punësimit dhe Aftësive (në vijim AKPA), si person juridik, publik, buxhetor, në varësi të ministrit përgjegjës për punësimin dhe zhvillimin e aftësive (në vijim ministri), me seli në Tiranë. AKPA-ja financohet nga buxheti i shtetit dhe burime të tjera të ligjshme, sipas legjislacionit në fuqi.

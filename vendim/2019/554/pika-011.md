@@ -1,0 +1,1 @@
+11. Marrëdhëniet e punës së drejtorit të Përgjithshëm dhe të nëpunësve në drejtorinë qendrore të AKPA-së rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë në drejtorinë qendrore të AKPA-së rregullohen në bazë të dispozitave të Kodit të Punës.

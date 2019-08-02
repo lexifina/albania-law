@@ -1,0 +1,1 @@
+6. Njësitë e drejtpërdrejta të ofrimit të shërbimeve krijohen dhe mbyllen me urdhër të ministrit përgjegjës për punësimin dhe zhvillimin e aftësive, sipas legjislacionit për organizimin dhe funksionimin e administratës publike.

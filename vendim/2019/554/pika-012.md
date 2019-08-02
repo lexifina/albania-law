@@ -1,0 +1,1 @@
+12. Marrëdhëniet e punës, në nivel rajonal e vendor, si dhe ofruesit e arsimit e formimit profesional, rregullohen në bazë të dispozitave të Kodit të Punës. Rekrutimi i punonjësve bëhet nëpërmjet procedurave të konkurrimit të hapur, mbi bazën e rregullave të miratuara në rregulloren për metodat e brendshme të punës dhe për sjelljen e personelit të AKPA-së.

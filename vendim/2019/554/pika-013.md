@@ -1,0 +1,1 @@
+13. AKPA-ja ka stemën, logon dhe vulën zyrtare. Stema e drejtorisë qendrore ka shënimet “Republika e Shqipërisë, Ministria e (emri i ministrisë përgjegjëse), Agjencia Kombëtare e Punësimit dhe Aftësive”, në përputhje me përcaktimin e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

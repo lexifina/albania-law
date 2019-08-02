@@ -1,0 +1,1 @@
+2. AKPA-ja është tërësia e institucioneve administrative dhe ofruese të shërbimeve të punësimit, të vetëpunësimit dhe të arsimit e formimit profesional, pjesë integrale e sistemit të ministrisë përgjegjëse për punësimin dhe zhvillimin e aftësive.
