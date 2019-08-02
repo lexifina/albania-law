@@ -1,0 +1,1 @@
+8. Kryetar i Komisionit për Mbrojtjen e Gjyqtarëve është përfaqësuesi i KLGJ-së dhe kryetar i Komisionit për Mbrojtjen e Prokurorëve është përfaqësuesi i KLP-së. Në mungesë të tij, kryetari mund të autorizojë një nga anëtarët e tjerë të komisionit përgjegjës për thirrjen dhe/ose drejtimin e mbledhjes.

@@ -1,0 +1,1 @@
+16. Vendimi i komisionit i njoftohet magjistratit nëpërmjet kryetarit të gjykatës ose drejtuesit të prokurorisë, ku ushtron funksionin, dhe strukturave përgjegjëse për mbrojtjen, nga përfaqësuesi i Drejtorisë së Përgjithshme të Policisë së Shtetit. Magjistratit, që nuk e ushtron funksionin ose që ka dalë në pension, i njoftohet vendimi i komisionit pranë vendbanimit të deklaruar.

@@ -1,0 +1,1 @@
+15. Komisioni merr në shqyrtim kërkesën e paraqitur dhe, kur bindet për nevojën e sigurimit të mbrojtjes për magjistratin, shprehet me vendim për të. Vendimi përmban masat konkrete të mbrojtjes së veçantë, numrin e shoqëruesve personalë, kur është rasti, afatin, brenda të cilit sigurohet mbrojtja, si dhe masa të tjera, që lidhen me këtë mbrojtje.

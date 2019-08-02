@@ -1,0 +1,1 @@
+18. Në rast se magjistratit i shkaktohen dëme për jetën, shëndetin, pasurinë e tij ose familjes së tij, gjatë ushtrimit të funksionit ose për shkak të tij, dëmet shpërblehen nga shteti, në përputhje me legjislacionin në fuqi.
