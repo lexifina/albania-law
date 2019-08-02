@@ -1,1 +1,2 @@
 2. Punëmarrësi i përkohshëm nuk i paguan tarifë agjencisë për punësimin e tij në ndërmarrjen pritëse.
+2.1 Agjencia e përkohshme e punësimit informon punëmarrësin me marrëdhënie punësimi të përkohshme përpara fillimit të marrëdhënieve të punës për rreziqet specifike në vendin e punës, si dhe mbi çdo kualifikim ose aftësi të posaçme profesionale ose mbikëqyrje të veçantë mjekësore, që kërkon vendi i punës.

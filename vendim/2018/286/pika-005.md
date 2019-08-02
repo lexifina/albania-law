@@ -2,3 +2,4 @@
 a) me anë të punësimit të tij zëvendësohen punëmarrës, të cilët ushtrojnë të drejtën e grevës;
 b) punëdhënësi, gjatë 6-mujorit të fundit ka kryer largime nga puna të punëmarrësve me të njëjtin profesion, për arsye ekonomike ose, gjatë 12-mujorit të kaluar, ka kryer largime kolektive nga puna, për të njëjtat profesione;
 c) puna, për shkak të natyrës së saj, paraqet rrezik për shëndetin dhe sigurinë e punëmarrësit.
+5.1 Punëmarrësit e punësuar nëpërmjet agjencive të përkohshme që bëjnë pjesë në grupet e rrezikuara, sipas legjislacionit në fuqi, mbrohen ndaj rreziqeve që i prekin ata në mënyrë të veçantë. Punëdhënësi siguron për këtë kategori punëmarrësish mbikëqyrje të veçantë mjekësore, sipas legjislacionit në fuqi.
