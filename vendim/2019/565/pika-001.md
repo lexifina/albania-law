@@ -1,0 +1,1 @@
+1. Strukturës së Posaçme kundër Korrupsionit dhe Krimit të Organizuar i përcaktohet për vitin 2019 buxheti fillestar prej 150 000 000 (njëqind e pesëdhjetë milionë) lekësh, për përballimin e shpenzimeve lidhur me ushtrimin e aktivitetit gjatë vitit 2019.
