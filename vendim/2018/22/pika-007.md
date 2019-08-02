@@ -1,1 +1,1 @@
-7. Subjektet agroturistike, që ofrojnë akomodim, duhet të kenë një kapacitet nga 6 deri 30, por jo më shumë, dhoma pritëse.
+7. Struktura/objekti akomodues, në funksion të agroturizmit, duhet të ofrojë një kapacitet akomodimi nga 6 deri në 30 dhoma.

@@ -1,1 +1,3 @@
-17. Modeli i certifikatës miratohet me urdhër të përbashkët të ministrit përgjegjës për turizmin dhe ministrit përgjegjës për bujqësinë dhe zhvillimin rural.
+17. Modeli i certifikatës paraprake dhe certifikatës miratohet me urdhër të përbashkët të ministrit përgjegjës për turizmin dhe ministrit përgjegjës për bujqësinë dhe zhvillimin rural.
+17/1. Çdo subjekt i certifikuar për veprimtarinë e agroturizmit është i detyruar të përdorë në ambientet e tij, në një vend të dukshëm dhe në emërtimin tregtar shenjën dalluese, e cila miratohet me urdhër të përbashkët të ministrit përgjegjës për turizmin dhe ministrit përgjegjës për bujqësinë dhe zhvillimin rural.
+17/2. Të gjitha subjektet që ushtrojnë veprimtarinë e agroturizmit përfitojnë lehtësira fiskale sipas legjislacionit në fuqi, vetëm pasi të jenë të pajisur me “Certifikatën paraprake” ose “Certifikatën”.

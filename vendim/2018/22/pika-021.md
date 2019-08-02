@@ -1,1 +1,1 @@
-21. Subjektet që, aktualisht, përdorin në emërtimin tregtar dhe ambientet e tyre emërtimin “agroturizëm”, detyrohen që brenda 6 (gjashtë) muajve nga hyrja në fuqi e këtij vendimi, të aplikojnë për marrjen e certifikatës “Subjekt i certifikuar agroturizmi”.
+21. Subjektet që aktualisht kanë paraqitur aplikim pranë ministrisë përgjegjëse për turizmin, brenda 6 (gjashtë) muajve nga hyrja në fuqi e kësaj dispozite, të plotësojnë dokumentacionin sipas kritereve dhe kushteve të parashikuara në këtë vendim, për marrjen sipas rastit të “Certifikatës paraprake” apo “Certifikatës”.
