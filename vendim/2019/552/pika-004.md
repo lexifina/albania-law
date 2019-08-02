@@ -1,0 +1,1 @@
+4. Vendimi nr. 1054, datë 23.12.2015, i Këshillit të Ministrave, “Për miratimin e rregullit teknik “Për përputhshmërinë elektromagnetike dhe përcaktimin e listës së standardeve të harmonizuara””, shfuqizohet.
