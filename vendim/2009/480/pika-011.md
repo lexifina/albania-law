@@ -1,1 +1,0 @@
-11. Komisioni, me kërkesë të gjyqtarit në mbrojtje, mund të vendosë zgjatjen e afatit të masave të mbrojtjes, nëse rrethanat, për të cilët është siguruar më parë mbrojtja, vazhdojnë të ekzistojnë edhe pas përfundimit të këtij afati.

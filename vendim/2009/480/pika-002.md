@@ -1,1 +1,0 @@
-2. Me mbrojtje të veçantë personale, sipas këtij vendimi, do të kuptohen masat me karakter organizativ dhe profesional, për sigurimin dhe ruajtjen e veçantë fizike, mbrojtjen e familjes dhe të pronës së gjyqtarëve, si dhe masat e tjera, që lidhen me këtë mbrojtje.
