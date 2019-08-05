@@ -1,0 +1,1 @@
+3. Shërbimet e ofruara nga institucionet e trashëgimisë kulturore për aksesin në muze publikë në varësi të Ministrisë përgjegjëse për trashëgiminë kulturore, parqet kombëtare arkeologjike dhe monumentet e kulturës, për studentët të organizuar në ekspedita mësimore dhe leksione të hapura, janë me tarifë zero.

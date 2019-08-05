@@ -1,0 +1,1 @@
+4. Shërbimet e ofruara në kuadër të edukimit artistik përmes artit, kulturës dhe turizmit kulturor në skena dhe ambiente të hapura, nga institucionet e artit dhe trashëgimisë kulturore janë me tarifë zero.

@@ -1,0 +1,1 @@
+2. Përfituesit e kartës së studentit përfitojnë shërbime me çmime të reduktuara në masën shtatëdhjetë për qind (70%) në sistemin tarifor për aksesin në muze publikë në varësi të Ministrisë përgjegjëse për trashëgiminë kulturore, parqet kombëtare arkeologjike dhe monumentet e kulturës sipas lidhjes nr. 2, bashkëlidhur këtij urdhri.

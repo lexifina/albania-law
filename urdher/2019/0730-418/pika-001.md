@@ -1,0 +1,1 @@
+1. Përfituesit e kartës së studentit përfitojnë shërbime me çmime të reduktuara në masën pesëdhjetë për qind (50%), në sistemin tarifor për aksesin në fushën e institucioneve të artit dhe kulturës sipas lidhjes nr. 1, bashkëlidhur këtij urdhri.
