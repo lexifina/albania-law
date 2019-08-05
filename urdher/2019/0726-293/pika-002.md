@@ -1,0 +1,1 @@
+2. Ndryshimet e SNK 1, SNK 8, SNK 10, SNK 34, SNK 37, SNRF 3, Kuadrit Konceptual për Raportimin Financiar të 2010 dhe Kuadrit Konceptual për Raportimin Financiar të 2018 , të publikuara në vitin 2018, kanë datë efektive 1 janar 2020 dhe do të zbatohen në prospektivë.
