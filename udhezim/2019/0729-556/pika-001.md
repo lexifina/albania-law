@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është të garantojë sistemimin e fëmijës në institucionet e përkujdesit shoqëror me efektivitet dhe në përputhje me nevojat e interesin më të lartë, ndaj të cilit është marrë një masë mbrojtjeje sipas përcaktimeve të bëra në ligjin nr. 18/2017 “Për të drejtat dhe mbrojtjen e fëmijës”.

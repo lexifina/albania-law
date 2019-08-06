@@ -1,0 +1,1 @@
+5. Në rastin kur në Bashkinë ku është identifikuar fëmija, nuk ka shërbime të ngritura emergjente, dosja plotësohet nga PMF-ja që ka ndjekur rastin, në bashkëpunim me punonjësin social të shërbimit emergjent ose strehës së përkohshme, të bashkisë më të afërt, ku do të vendoset fëmija.

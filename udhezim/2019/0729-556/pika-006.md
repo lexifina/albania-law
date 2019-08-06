@@ -1,0 +1,6 @@
+6. Pas vlerësimit të plotë të rastit dhe hartimit të Planit Individual të Mbrojtjes, nga Grupi Teknik Ndërsektorial dhe kur vlerësohet së fëmija do të vendoset në një institucion të përkujdestit shoqëror, i ndryshëm nga shërbimi i strehimit emergjent, vendosja në institucion bazohet, për aq sa është e mundur, në:
+a) sistemimin e fëmijës në një institucion të përshtatshëm për moshën dhe nevojat e tij;
+b) sistemimin e fëmijës në intitucionin më të afërt me vendbanimin apo vendqendrimin e tij kur ai është në vazhdim të procesit arsimor dhe/ose ndryshimi i institucionit arsimor do të ndikonte negativisht procesin e të nxënit;
+c) sistemimin e fëmijës në institucionin publik ose jo publik rezidencial për fëmijë, më të afërt me vendbanimin apo vendqëndrimin e tij, kur ai është veçanërisht i shoqërizuar apo atashuar në aktivitete shoqërore apo me mjedisin familjar, largimi nga të cilët do të ndikonte negativisht në mirëqenien e tij;
+d) sistemimin e fëmijës në institucionin më të afërt me shërbimet mjekësore që merr fëmija në rastet kur ai ka nevojë për kujdes të vazhduar mjekësor pranë një shërbimi të specializuar;
+e) sistemimin e fëmijës me nevoja të veçanta në një institucion specifik të specializuar kur kjo vlerësohet si masa më e përshtatshme në interesin më të lartë të tij.

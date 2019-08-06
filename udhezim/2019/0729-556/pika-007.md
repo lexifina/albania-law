@@ -1,0 +1,1 @@
+7. Përzgjedhja e institucionit më të përshtatshëm dhe më të afërt, bëhet gjatë mbledhjes së Grupit Teknik Ndërsektorial, në çdo rast në konsultim me njësinë e vlerësimit të nevojave dhe referimit pranë bashkisë ose shërbimit social shtetëror rajonal, të cilët japin të paktën tri alternativa për sistemimin e fëmijës, bazuar në nevojat specifike të rastit.
