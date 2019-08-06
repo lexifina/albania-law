@@ -1,0 +1,1 @@
+2. Ngarkohet sektori i Politikave të Peshkimit dhe Akuakulturës, në Drejtorinë e Politikave dhe Strategjive të Bujqësisë, Sigurisë Ushqimore dhe Zhvillimit Rural për zbatimin e pikave 4-9, 11, 13-15, të rekomandimit.
