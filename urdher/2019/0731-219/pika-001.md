@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Inspektoratit Shtetëror të Mjedisit, Pyjeve, Ujërave dhe Turizmit, z. Arjon Bistri, drejtor i Drejtorisë Juridike të Miradministrimit Burimeve Njerëzore dhe Komunikimit.
