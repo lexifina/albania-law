@@ -1,0 +1,1 @@
+2. Personeli mjekësor dhe profesionistët e fushave të tjera kanë detyrimin për raportimin e rasteve të identifikuara në rrezik braktisjeje dhe rasteve të braktisjes së fëmijës në institucionet e kujdesit shëndetësor.

@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i procedurave dhe veprimeve konkrete të personelit mjekësor dhe profesionistëve të fushave të tjera për parandalimin dhe trajtimin e rasteve të braktisjes së fëmijës në institucionet e kujdesit shëndetësor.

@@ -1,0 +1,1 @@
+4. PMF-ja pas raportimit të rastit nga personeli mjekësor ose profesionistët e fushave të tjera bën një vlerësim të rastit dhe ofron mbështetje ndërgjegjësuese për familjet ose nënat të cilat janë në kushtet e tentativës për të braktisur fëmijët.

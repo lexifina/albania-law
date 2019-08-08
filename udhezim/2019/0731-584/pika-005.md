@@ -1,0 +1,1 @@
+5. PMF-ja gjatë ushtrimit të veprimtarisë duhet të ketë një fokus të veçantë ndaj familjeve dhe nënave të cilat kanë fëmijë ose janë në pritje të lindjes së një fëmije, lidhur me rrezikun për braktisje, duke konsideruar dhe vlerësuar kushtet sociale, ekonomike e psikologjike.
