@@ -1,0 +1,4 @@
+# Neni 24
+Komiteti Këshillimor Ndërinstitucional i Ekspertëve për Masat Kundër Krimit të Organizuar
+1. Për mbikëqyrjen e administrimit të pasurive të konfiskuara nga Agjencia, sipas fushës së veprimtarisë përcaktuar në nenin 3, të këtij ligji, funksionon Komiteti Këshillimor Ndërinstitucional i Ekspertëve për Masat Kundër Krimit të Organizuar, i ngritur sipas përcaktimeve të nenit 35, të ligjit nr. 10 192, datë 3.12.2009, “Për parandalimin dhe goditjen e krimit të organizuar dhe trafikimit nëpërmjet masave parandaluese kundër pasurisë”, të ndryshuar.
+2. Komiteti Këshillimor Ndërinstitucional i Ekspertëve për Masat Kundër Krimit të Organizuar rekomandon ministrin përgjegjës për financat për destinimin e pasurive, si dhe për përdorimin efektiv të të ardhurave brenda buxhetit të shtetit, përfshirë edhe rekomandimin për pagimin e shpenzimeve operative të Agjencisë.
