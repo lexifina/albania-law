@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet Marrëveshja e Huas ndërmjet Republikës së Shqipërisë, përfaqësuar nga Ministria e Financave dhe Ekonomisë (Huamarrësi), Fondit Shqiptar të Zhvillimit (Agjencia e zbatimit të projektit), dhe KfW Frankfurt am Main (KfW) për programin e furnizimit me ujë të zonave rurale IV, me një hua në shumën 40 000 000 (dyzet milionë) euro, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
