@@ -1,0 +1,9 @@
+# Neni 287
+Verifikimi i kandidatëve për anëtarët joprokurorë të Këshillit të Lartë të Prokurorisë
+1. Për emërimet e para për anëtarët joprokurorë të Këshillit të Lartë të Prokurorisë, pas hyrjes në fuqi të këtij ligji, verifikimi i kandidatëve do të kryhet nga Sekretari i Përgjithshëm i Kuvendit dhe nga Operacioni Ndërkombëtar i Monitorimit.
+2. Sekretari i Përgjithshëm i Kuvendit, në përfundim të procedurës së përcaktuar në pikën 5, të nenit 133, dhe në nenet 151 dhe 156, të këtij ligji, i përcjell menjëherë Operacionit Ndërkombëtar të Monitorimit një kopje të dokumentacionit të depozituar dhe administruar për çdo kandidat në Kuvendin e Shqipërisë.
+3. Operacioni Ndërkombëtar i Monitorimit vlerëson kandidatët brenda 7 ditëve nga dita e regjistrimit të listës së kandidatëve dhe i përcjell Sekretarit të Përgjithshëm të Kuvendit listën e kandidatëve që:
+a) plotësojnë kushtet e parashikuara në Kushtetutë dhe në këtë ligj, si dhe kriteret morale dhe profesionale, si dhe
+b) listën e kandidatëve që nuk i plotësojnë ato.
+4. Sekretari i Përgjithshëm i Kuvendit, në listat e kandidatëve që i përcjell komisionit të përhershëm përgjegjës për çështjet ligjore në Kuvend, sipas shkronjave “a” dhe ’b”, të pikës 7, pikës 8, të nenit 133, si dhe neneve 151 dhe 156, të këtij ligji, reflekton vlerësimin e përcjellë nga Operacioni Ndërkombëtar i Monitorimit, sipas pikës 3 të këtij neni. Një kopje e listave të Operacionit Ndërkombëtar të Monitorimit, sipas pikës 3, të këtij neni, i vihet në dispozicion edhe komisionit të përhershëm përgjegjës për çështjet ligjore në Kuvend.
+5. Procedurat dhe rregullat e parashikuara në nenet 133, 151, 156, të këtij ligji, për dokumentacionin, vlerësimin, zgjedhjen dhe votimin e anëtarëve joprokurorë, zbatohen edhe për emërimin për herë të parë të anëtarëve joprokurorë të Këshillit të Lartë të Prokurorisë.

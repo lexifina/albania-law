@@ -1,0 +1,9 @@
+# Neni 140
+Përzgjedhja e kandidatëve nga fakultetet e drejtësisë dhe nga Shkolla e Magjistraturës
+1. Jo më vonë se 80 ditë para datës së mbarimit të mandatit të anëtarëve pedagogë të Këshillit të Lartë të Prokurorisë në detyrë, dekani i secilit fakultet thërret mbledhjen e Asamblesë së Personelit Akademik për të përzgjedhur kandidatët e atij fakulteti. Dekani i fakultetit të drejtësisë njofton menjëherë dhe zyrtarisht rektorin e IAL-it për thirrjen e mbledhjes së Asamblesë së Personelit Akademik.
+2. Thirrja e mbledhjes së Asamblesë së Personelit Akademik të fakultetit për përzgjedhjen e kandidatit bëhet përmes shpalljes në faqen zyrtare të IAL-it, si dhe i dërgohet secilit prej anëtarëve të personelit akademik në adresën elektronike.
+3. Thirrja e mbledhjes së Asamblesë së Personelit Akademik të fakultetit për përzgjedhjen e kandidatit tregon datën, vendin dhe orën e mbledhjes.
+4. Përzgjedhja e kandidatit për anëtar të Këshillit të Lartë të Prokurorisë është pika e vetme në rendin e ditës së mbledhjes së Asamblesë së Personelit Akademik.
+5. Numri i pjesëmarrësve në mbledhjen e Asamblesë së Personelit Akademik shënohet në një listë emërore të nënshkruar nga të gjithë të pranishmit.
+6. Mosthirrja e mbledhjes së Asamblesë së Personelit Akademik në afatin e përmendur në pikën 1, të këtij neni, përbën shkelje disiplinore për dekanin e fakultetit.
+7. Rregullat e parashikuara në pikat 1 deri në 6, të këtij neni, për përzgjedhjen e kandidatëve nga fakultetet ose departamentet e drejtësisë, zbatohen edhe për përzgjedhjen e kandidatëve nga Shkolla e Magjistraturës. Në këtë rast, përgjegjësitë e parashikuara nga ky nen për dekanin e fakultetit ushtrohen nga Drejtori i Shkollës së Magjistraturës. Përgjegjësitë e parashikuara nga ky nen për Asamblenë e Personelit Akademik ushtrohen nga Këshilli Pedagogjik i Shkollës së Magjistraturës.

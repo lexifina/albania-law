@@ -1,0 +1,21 @@
+# Neni 134
+Zgjedhja e anëtarëve të Këshillit të Lartë të Prokurorisë nga trupa e pedagogëve të fakulteteve të drejtësisë dhe të Shkollës së Magjistraturës
+1. Kuvendi zgjedh 2 anëtarë të Këshillit të Lartë të Prokurorisë nga trupa e pedagogëve të fakulteteve të drejtësisë dhe të Shkollës së Magjistraturës.
+2. Kandidatët e propozuar, sipas pikës 1, të këtij neni, duhet të plotësojnë kushtet e mëposhtme:
+a) të jenë shtetas shqiptarë;
+b) të kenë jo më pak se 15 vjet përvojë profesionale si jurist;
+c) në kohën e kandidimit, të jenë pedagogë me kohë të plotë jo më pak se 5 vjet në fakultetin e drejtësisë të një institucioni të arsimit të lartë ose pedagogë të brendshëm ose pedagogë të jashtëm jomagjistratë në Shkollën e Magjistraturës;
+ç) të jenë personel akademik të kategorisë “profesor” ose “lektor”;
+d) në kohën e kandidimit, të mos jenë rektor ose Drejtor i Shkollës së Magjistraturës;
+dh) të mos kenë masë disiplinore në fuqi;
+e) të mos kenë qenë dënuar me vendim gjyqësor të formës së prerë për kryerjen e një vepre penale;
+ë) të mos kenë mbajtur gjatë 10 viteve të fundit funksione politike në administratën publike ose pozicione drejtuese në partitë politike përpara kandidimit;
+f) të mos kenë qenë anëtarë, bashkëpunëtorë ose të favorizuar të ish-Sigurimit të Shtetit para 2 korrikut 1991 në kuptimin e ligjit “Për të drejtën e informimit për dokumentet e ish-Sigurimit të Shtetit të Republikës Popullore Socialiste të Shqipërisë”;
+g) të mos jenë bashkëpunëtorë, informatorë ose agjentë të shërbimeve inteligjente;
+gj) në kohën e kandidimit, të mos kenë asnjë anëtar të familjes, sipas kuptimit të ligjit “Për deklarimin dhe kontrollin e pasurive, të detyrimeve financiare të të zgjedhurve dhe të disa nëpunësve publikë”, si dhe të afërm të shkallës së parë që është anëtar në detyrë i Këshillit ose kandidat për anëtar.
+3. Secili prej institucioneve të arsimit të lartë, që kanë në përbërje të tyre si njësi kryesore fakultete të drejtësisë të akredituara sipas rregullave të legjislacionit në fuqi, përzgjedh jo më shumë se 3 kandidatë nga radhët e personelit akademik me kohë të plotë, me kushtin që të mos jenë propozuar nga radhët e avokatëve ose nga radhët e organizatave të shoqërisë civile.
+4. Shkolla e Magjistraturës përzgjedh jo më shumë se një kandidat nga radhët e pedagogëve me kohë të plotë, jomagjistrat në detyrë, dhe pedagogëve me kohë të pjesshme, me kushtin që të mos jenë magjistratë në detyrë, avokatë ose të punësuar me kohë të plotë në organizatat e shoqërisë civile.
+5. Secili prej anëtarëve të personelit akademik të IAL-it, që plotëson kushtet e përmendura në pikën 2, të këtij neni, dhe që siguron mbështetjen e së paku 3 pedagogëve nga personeli akademik me të drejtë vote, ka të drejtë të kandidojë.
+6. Secili prej pedagogëve të Shkollës së Magjistraturës që plotëson kushtet e përmendura në pikën 2, të këtij neni, dhe që siguron mbështetjen e së paku 3 pedagogëve me të drejtë vote, ka të drejtë të kandidojë.
+7. Rektori i IAL-it dhe Drejtori i Shkollës së Magjistraturës miratojnë formularët tip për dhënien e mbështetjes kandidatëve për anëtarë të Këshillit të Lartë Gjyqësor. Formulari tip nënshkruhet nga anëtari i personelit akademik ose pedagogu i Shkollës së Magjistraturës me të drejtë vote që vendos të mbështesë kandidatin. Anëtari i personelit akademik ose pedagogu i Shkollës së Magjistraturës me të drejtë vote mund të mbështesë vetëm një kandidat.
+8. Të gjithë anëtarët e personelit akademik me kohë të plotë, përfshirë edhe personelin e kategorisë “asistent lektor”, dhe të gjithë pedagogët me kohë të plotë dhe ata me kohë të pjesshme që nuk janë magjistratë në detyrë të Shkollës së Magjistraturës, kanë të drejtë të mbështesin kandidatë dhe të votojnë për përzgjedhjen e kandidatëve nga institucionet përkatëse.

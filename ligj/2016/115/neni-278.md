@@ -1,0 +1,8 @@
+# Neni 278
+Ngritja e strukturave administrative dhe organizative të Këshillit të Lartë Gjyqësor
+1. Nëpunësit civilë dhe punonjësit e Këshillit të Lartë Drejtësisë do të qëndrojnë në detyrë për një periudhë kalimtare deri 6 muaj pas krijimit të Këshillit të Lartë Gjyqësor.
+2. Brenda afatit 6-mujor nga krijimi i Këshillit të Lartë Gjyqësor, Këshilli vlerëson plotësimin e kritereve formale të punonjësve në detyrë për pozicionin që kryejnë, sipas këtij ligji. Nëse punonjësi në detyrë nuk plotëson kriteret formale të pozicionit përkatës, Këshilli i Lartë Gjyqësor vlerëson mundësitë ekzistuese për sistemimin në një pozicion tjetër brenda administratës së Këshillit, të përshtatshëm dhe në përputhje me kriteret ligjore dhe profesionale, nëse nuk ka arsye për përfundimin e marrëdhënieve të punës.
+3. Punonjësit e Zyrës së Administrimit të Buxhetit Gjyqësor qëndrojnë në detyrë për një periudhë kalimtare deri 6 muaj pas krijimit të Këshillit të Lartë Gjyqësor. Rregullimet e parashikuara në pikën 2, të këtij neni, zbatohen edhe për këtë kategori punonjësish.
+4. Punonjësi në detyrë ka të drejtë të dëgjohet, të paraqesë deklarata dhe prova të tjera, të përfaqësohet dhe të drejtën e ankimit.
+5. Derisa sistemi elektronik i menaxhimit të çështjeve të jetë plotësisht funksional, Këshilli i Lartë Gjyqësor mundëson menaxhimin e çështjeve gjyqësore me mjete të tjera.
+6. Këshilli i Lartë Gjyqësor miraton rregulla më të detajuara për kritere të tjera që lidhen me specifikat e pozicionit të nëpunësve civilë, si dhe për procedurat, me qëllim zbatimin e unifikuar të standardeve, në përputhje me legjislacionin në fuqi.

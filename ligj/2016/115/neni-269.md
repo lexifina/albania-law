@@ -1,0 +1,6 @@
+# Neni 269
+Vlerësimi i praktikës profesionale për kandidatët për magjistratë
+1. Vlerësimi i veprimtarisë gjatë praktikës profesionale të vitit të tretë të programit të formimit fillestar kryhet sipas parashikimit të ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+2. Vlerësimi përfundimtar i kandidatëve pas vitit të tretë të programit të trajnimit fillestar bëhet nga Këshilli Pedagogjik, në bazë të rezultateve të provimeve të vitit të parë, të stazhit paraprofesional dhe të provimit përfundimtar, sipas sistemit me 5 shkallë, mbi bazën e një renditjeje përfundimtare të tyre me pikë.
+3. Këshilli Drejtues i Shkollës harton një propozim për vlerësimin e cilësisë së veprimtarisë dhe programin e udhëheqësve, vlerësimin e performancës së stazhit profesional, si dhe një raport për rezultatet e vlerësimit të vitit të parë, të vitit të dytë dhe të provimit përfundimtar.
+4. Drejtori i Shkollës përcjell vendimin e Këshillit Pedagogjik, ku janë bashkuar sipas një renditjeje me pikë vlerësimet me 5 shkallë të dy viteve të para, të provimit përfundimtar dhe të praktikës profesionale të vitit të tretë, Këshillit Drejtues të Shkollës, Këshillit të Lartë të Gjyqësorit për kandidatët për gjyqtarë, si dhe Këshillit të Lartë të Prokurorëve, për kandidatët për prokurorë.

@@ -1,0 +1,4 @@
+# Neni 212
+Vlerësimi i etikës dhe veprimtarisë profesionale të inspektorëve
+1. Veprimtaria profesionale dhe etika e inspektorit të Zyrës së Inspektorit të Lartë të Drejtësisë vlerësohet nga Komisioni i Emërimit dhe Vlerësimit. Tre anëtarët e komisionit dhe 2 anëtarë zëvendësues zgjidhen me short, brenda muajit dhjetor të çdo viti kalendarik, nga radhët e inspektorëve që janë vlerësuar të paktën “shumë mirë” në 2 vlerësimet e fundit etiko-profesionale si inspektorë ose magjistratë dhe që nuk kanë radhën për t’u vlerësuar atë vit.
+2. Procedura dhe rregullat e vlerësimit miratohen me vendim të Inspektorit të Lartë duke zbatuar, për aq sa është e mundur, dispozitat e ligjit “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë” në lidhje me vlerësimin etiko-profesional të magjistratëve. Jo më vonë se 3 muaj nga data e krijimit të Zyrës së Inspektorit, Inspektori miraton sistemin e vlerësimit të performancës për inspektorët.

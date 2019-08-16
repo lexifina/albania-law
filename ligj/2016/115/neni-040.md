@@ -1,0 +1,10 @@
+# Neni 40
+Verifikimi i plotësimit të kritereve ligjore
+1. Brenda 7 ditëve nga dita kur mbyllet afati për dorëzimin e shprehjeve të interesit, dekanati i fakultetit të drejtësisë mblidhet në një mbledhje të posaçme për të verifikuar plotësimin e kushteve ligjore nga kandidatët.
+2. Verifikimi i plotësimit të kushteve ligjore dhe i mbështetjes është çështja e vetme në rendin e ditës së mbledhjes së dekanatit.
+3. Mbledhja e dekanatit është e vlefshme kur në të marrin pjesë jo më pak se gjysma e anëtarëve. Mosmarrja pjesë pa shkak të arsyeshëm në mbledhjen e dekanatit për verifikimin e kritereve ligjore dhe të mbështetjes për kandidatët për anëtarë të Këshillit të Lartë Gjyqësor përbën shkelje disiplinore për anëtarët e dekanatit.
+4. Mbledhja e dekanatit merr vendime me shumicën e votave të anëtarëve të pranishëm.
+5. Anëtarët e dekanatit, të cilët kandidojnë, nuk marrin pjesë në mbledhje dhe nuk votojnë. Në rastin e kandidimit të dekanit, detyrat e tij kryhen prej një nga zëvëndesdekanët.
+6. Në përfundim të mbledhjes dekani shpall zyrtarisht kandidaturat përmes afishimit në këndin e njoftimeve të universitetit ose të fakultetit të drejtësisë ose në një vend tjetër të dukshëm dhe i përcjell rektorit të IAL-it listën e kandidatëve të shoqëruar me një raport që shpjegon plotësimin ose mosplotësimin e kushteve nga secili kandidat.
+7. Kandidatët e përjashtuar njoftohen me shkrim, në mënyrë individuale dhe të arsyetuar për shkaqet e skualifikimit.
+8. Rregullat e parashikuara në pikat 1 deri në 7, të këtij neni, zbatohen edhe për verifikimin e plotësimit të kritereve ligjore nga kandidatët e Shkollës së Magjistraturës. Në këtë rast, përgjegjësitë e parashikuara nga ky nen për dekanatin e fakultetit ushtrohen nga mbledhja e Këshillit Pedagogjik të Shkollës së Magjistraturës. Përgjegjësitë e parashikuara në pikën 6, të këtij neni, për dekanin e fakultetit ushtrohen nga Drejtori i Shkollës së Magjistraturës. Lista me kandidatët i përcillet nga Drejtori i Shkollës së Magjistraturës Kryetarit të Këshillit Drejtues të Shkollës së Magjistraturës.

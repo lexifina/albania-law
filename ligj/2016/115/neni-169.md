@@ -1,0 +1,9 @@
+# Neni 169
+Marrëdhënia e Këshillit të Lartë të Prokurorisë me Ministrin e Drejtësisë
+1. Ministri i Drejtësisë koordinon zhvillimin dhe zbatimin e politikave shtetërore dhe të strategjisë sektoriale të sektorit të drejtësisë. Ministri i Drejtësisë është gjithashtu përgjegjës për përgatitjen e projektakteve ligjore në fushën e drejtësisë penale pasi ka marrë mendimin e Këshillit të Lartë të Prokurorisë.
+2. Ministri i Drejtësisë mund të paraqesë ankesë tek Inspektori i Lartë i Drejtësisë për shkelje disiplinore të pretenduara të prokurorëve, si dhe mund të kërkojë nga Inspektori i Lartë i Drejtësisë kryerjen e inspektimeve institucionale e tematike në Prokurorinë e Përgjithshme ose në zyrat e prokurorisë.
+3. Ministri i Drejtësisë ose përfaqësues të tij mund të marrin pjesë si vëzhgues në Mbledhjen e Përgjithshme të prokurorëve, në mbledhjen e Këshillit të Përgjithshëm të Dhomës Kombëtare të Avokatisë, të Asamblesë së Personelit Akademik dhe të Këshillit Drejtues të Shkollës së Magjistraturës, mbledhjes së posaçme të drejtuesve të institucioneve për zgjedhjen e anëtarëve prokurorë të Këshillit të Lartë të Prokurorisë, si dhe në mbledhjen e përbashkët të Këshillit të Lartë Gjyqësor dhe Këshillit të Lartë të Prokurorisë.
+4. Këshilli i Lartë i Prokurorisë bashkëpunon me Ministrin e Drejtësisë për të siguruar përputhjen e planeve strategjike dhe buxhetore të sistemit të prokurorisë, të miratuara nga Këshilli me politikat shtetërore dhe strategjinë sektoriale të sektorit të drejtësisë.
+5. Shfuqizuar.
+6. Ministri i Drejtësisë mund të ushtrojë të drejtat e mësipërme personalisht ose përmes një përfaqësuesi të autorizuar prej tij me shkrim.
+7. Në ushtrimin e funksioneve të tij, Ministri i Drejtësisë ka akses të plotë në të dhënat statistikore që rezultojnë nga sistemi i menaxhimit të çështjeve të trajtuara nga zyrat e prokurorisë.

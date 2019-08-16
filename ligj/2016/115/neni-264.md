@@ -1,0 +1,9 @@
+# Neni 264
+Zgjedhja dhe emërimi i pedagogëve, përgjegjësve për programet e trajnimit dhe kancelarit
+1. Pedagogët e brendshëm dhe të jashtëm emërohen nga Këshilli Drejtues me propozim të drejtorit ose të anëtarëve të Këshillit Drejtues, pas një procesi transparent e gjithëpërfshirës të bazuar në meritë dhe në një proces konkurrues.
+2. Pedagogët e brendshëm zgjidhen nga radhët e juristëve më të shquar me eksperiencë mbi 15-vjeçare si juristë, gjyqtarë, prokurorë, avokatë dhe me eksperiencë mësimdhënëse si pedagogë të brendshëm në sistemin universitar ose si pedagogë të jashtëm e të brendshëm në Shkollën e Magjistraturës, me eksperiencë mbi 10 vjet.
+3. Pedagogët e brendshëm gëzojnë të gjitha të drejtat dhe privilegjet e gjyqtarit të gjykatës së apelit.
+4. Për lëndët kryesore mund të aktivizohen edhe pedagogë të jashtëm, të cilët plotësojnë kriteret e përcaktuara në pikën 2, të këtij neni, për pedagogët e brendshëm. Nëse kandidati për pedagog i jashtëm vjen nga radhët e gjyqtarëve ose prokurorëve në detyrë, të cilët kanë përfunduar Shkollën e Magjistraturës, duhet të plotësojë kriteret e të qenit 10 vjet gjyqtar ose prokuror dhe me eksperiencë mësimdhënie universitare në lëndët kryesore ose në Shkollën e Magjistraturës mbi 5 vjet. Në raste përjashtimore për lëndët specifike me karakter teknik mund aktivizohen specialistë të atyre fushave.
+5. Pedagogët, për lëndët që zhvillojnë vetë, duhet të ndjekin edhe kurset dhe seminaret për trajnimin e trajnerëve që zhvillohen periodikisht nga shkolla apo institucione të tjera kombëtare dhe ndërkombëtare.
+6. Përgjegjësit e trajnimit fillestar dhe vazhdues zgjidhen nga Këshilli Drejtues nga radhët e pedagogëve të brendshëm të shkollës.
+7. Kancelari i Shkollës së Magjistraturës emërohet nga Këshilli Drejtues dhe gëzon të drejtat dhe privilegjet e kancelarit të gjykatës së apelit.

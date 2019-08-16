@@ -1,0 +1,6 @@
+# Neni 257
+Komisioni Disiplinor
+1. Komisioni Disiplinor që kryen procedimin disiplinor dhe cakton masën disiplinore është i pavarur dhe i nënshtrohet vetëm ligjit.
+2. Në rastin e procedimit disiplinor ndaj kandidatit për magjistrat, Komisioni Disiplinor përbëhet nga Drejtori i Shkollës së Magjistraturës si kryetar, një gjyqtar dhe një prokuror të zgjedhur në përputhje me nenin 247, pika 1, shkronja “d”, të këtij ligji, si anëtarë të Këshillit Drejtues, dhe dy kandidatë për magjistratë të zgjedhur me votë të fshehtë nga asambleja e kandidatëve për magjistratë.
+3. Në rastin e procedimit disiplinor ndaj nëpunësve civilë, Komisioni Disiplinor përbëhet nga Drejtori i Shkollës së Magjistraturës si kryetar, një gjyqtar dhe një prokuror të zgjedhur në përputhje me nenin 247, pika 1, shkronja “d”, të këtij ligji, si anëtarë të Këshillit Drejtues, dhe dy përfaqësues të nëpunësve civilë të përzgjedhur me short, me përjashtim të personit në fjalë.
+4. Në rastin e procedimit disiplinor ndaj pedagogëve të brendshëm dhe ndaj Drejtorit të Shkollës së Magjistraturës, Komisioni Disiplinor është Këshilli Drejtues, përveç drejtorit, dhe i njëjti rregull, për aq sa mund të zbatohet, pedagogu i brendshëm.
