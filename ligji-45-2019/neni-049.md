@@ -1,0 +1,14 @@
+# Neni 49
+Informimi i publikut
+1. Institucionet publike dhe strukturat qendrore dhe vendore, të përcaktuara në këtë ligj, informojnë publikun për fatkeqësitë dhe masat për përballimin e tyre.
+2. Subjektet shtetërore dhe private të prodhimit të energjisë elektrike, të menaxhimit të ujërave, kompanitë që përdorin sisteme hidrike dhe grumbullim të mbetjeve duhet të njoftojnë dhe paralajmërojnë në kohë Agjencisë Kombëtare të Mbrojtjes Civile, institucionet qendrore dhe vendore, si edhe komunitetin rreth rreziqeve nga ushtrimi i aktivitetit të tyre.
+3. Subjektet me aktivitet prodhimin, përdorimin, trajtimin dhe magazinimin e substancave të rrezikshme, janë të detyruara të marrin të gjitha masat e nevojshme për të parandaluar aksidente të mëdha dhe për të kufizuar pasojat e tyre për shëndetin e njeriut dhe mjedisin. Në rast aksidenti ato duhet të njoftojnë dhe të japin alarmin për komunitetin e rrezikuar dhe të njoftojnë te numri i unifikuar i thirrjeve emergjente 112, Agjencinë Kombëtare të Mbrojtjes Civile, numrat e tjerë të emergjencave apo dhe tek autoritetet e tjera, sipas ligjit.
+4. Kapacitetet për paralajmërimin e hershëm, njoftimin dhe alarmin, tё subjekteve të përcaktuara në pikat 2 dhe 3, të këtij neni, duhet të bëhen pjesë e sistemit publik të paralajmërimit të hershëm, njoftimit dhe alarmit të Republikës së Shqipërisë.
+5. Subjektet publike e private radiotelevizive, kombëtare e lokale, janë të detyruara që të bashkëveprojnë ndërmjet tyre me institucionet shtetërore, si dhe me organizatat jofitimprurëse për përdorimin e burimeve të komunikimeve elektronike, për përballimin e fatkeqësive:
+a) duke vendosur pajisje të komunikimit tokësor e satelitor;
+b) duke shpërndarë njoftime për fatkeqësitë, veçanërisht te komuniteti që rrezikohet më tepër;
+c) duke ndërprerë programet e tyre për të dhënë mesazhe të rëndësishme për mbrojtjen civile nga autoritetet e përcaktuara në këtë ligj.
+6. Shteti duhet të ndërmarrë të gjitha hapat e nevojshёm për të siguruar që disponueshmëria e rrjeteve publike telefonike fikse dhe e shërbimeve publike fikse të ruhet në rast të avarive katastrofike të rrjetit ose në rastet e forcave madhore.
+7. Në rast të rrethanave të përmendura në pikën 6, tё kёtij neni, organet përkatëse duhet të bëjnë çdo përpjekje për të mbajtur nivelin më të lartë të shërbimit për të përmbushur çdo prioritet të përcaktuar nga autoritetet kompetente.
+8. Në rastet e fatkeqësive, mediat dhe organet e tjera të informimit publik, të përcaktuara me ligj, janë të detyruara t’u referohen burimeve zyrtare për njoftime lidhur me numrin e viktimave, listën e emrave dhe të parashikimeve të mëtejshme për mundësinë e ndodhjes së ngjarjeve të tjera, duke shmangur transmetimin e informacioneve sensitive, si dhe duke mos krijuar panik te publiku, në asnjë rast.
+9. Në çdo rast, kur media informon publikun mbi fatkeqësitë dhe kur këto informacione nuk u referohen burimeve zyrtare, ajo duhet të citojë burimin e informacionit.
