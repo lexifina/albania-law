@@ -1,0 +1,6 @@
+# Neni 19
+Roli i ministrisë përgjegjëse për çështjet sociale
+1. Ministria përgjegjëse për Çështjet Sociale është autoriteti përgjegjës për hartimin e politikave, të programeve dhe legjislacionit, programimin e fondeve për programet e asistencës sociale, si dhe kontrollin e zbatimit të tyre në të gjitha nivelet e strukturave qendrore dhe vendore.
+2. Ministria përgjegjëse për Çështjet Sociale propozon mekanizmin e bashkërendimit ndërinstitucional të punës për referimin për punësim të individëve dhe anëtarëve në moshë aktive pune të familjeve përfituese të ndihmës ekonomike, për të siguruar riintegrimin social të tyre, nëpërmjet një programi daljeje nga skema e ndihmës ekonomike, e cila përcaktohet me vendim të Këshillit të Ministrave.
+3. Ministria përgjegjëse për Çështjet Sociale grumbullon të dhëna statistikore, me qëllim vlerësimin dhe monitorimin e zbatimit të politikave të asistencës sociale. Përmbajtja, që do të kenë treguesit statistikorë të vlerësimit e monitorimit, që do të mblidhen, dhe periodiciteti i mbledhjes së tyre përcaktohen me vendim të Këshillit të Ministrave.
+4. Ministria përgjegjëse për Çështjet Sociale harton dhe paraqet nevojat për fonde për programet e asistencës sociale pranë Ministrisë përgjegjëse për Financat.

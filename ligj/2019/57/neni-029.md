@@ -1,0 +1,6 @@
+# Neni 29
+Ankimi
+1. Aplikuesit për përfitimin e ndihmës ekonomike, kur gjykon se vendimi zyrtar i organit përkatës është i padrejtë dhe personi me aftësi të kufizuar, kur gjykon se i është shkelur një e drejtë e garantuar nga ky ligj, mund të paraqesin ankesë me shkrim pranë bashkisë/njësisë administrative brenda 20 ditëve kalendarike nga marrja e njoftimit. Struktura vendore shqyrton ankesën dhe njofton me shkrim ankuesin brenda 7 ditëve kalendarike nga marrja e ankesës.
+2. Aplikuesi për përfitimin e ndihmës ekonomike dhe personi me aftësi të kufizuar kanë të drejtë të paraqesin ankesë me shkrim pranë strukturës rajonale të Shërbimit Social Shtetëror brenda 20 ditëve kalendarike nga marrja e përgjigjes nga struktura vendore, pas ezaurimit të ankimit, të përcaktuar në pikën 1 të këtij neni.
+3. Struktura rajonale e Shërbimit Social Shtetëror, pas shqyrtimit dhe verifikimit të ankesave, njofton me shkrim të interesuarin dhe njësinë e vetëqeverisjes vendore brenda 14 ditëve kalendarike nga marrja e ankesës.
+4. Aplikuesi për përfitimin e ndihmës ekonomike dhe personi me aftësi të kufizuar, që pretendojnë se u është shkelur dhe/ose mohuar një e drejtë ligjore, gëzojnë të drejtën për të ngritur padi në gjykatë, në përputhje me legjislacionin në fuqi për organizimin dhe funksionimin e gjykatave administrative dhe gjykimin e mosmarrëveshjeve administrative.

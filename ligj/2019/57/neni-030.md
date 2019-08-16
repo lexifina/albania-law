@@ -1,0 +1,6 @@
+# Neni 30
+Vlerësimi bio-psiko-social i aftësisë së kufizuar
+Në njësitë e vetëqeverisjes vendore, në të cilat zbatohet modeli bio-psiko-social i vlerësimit të aftësisë së kufizuar me komision vlerësimi shumëdisiplinor për personat që kërkojnë të vlerësohen/rivlerësohen për aftësinë e kufizuar dhe përdoret regjistri elektronik kombëtar, ndiqen këto procedura:
+a) kërkesa dhe dokumentacioni për vlerësimin e aftësisë së kufizuar paraqiten pranë zyrës së vlerësimit të aftësisë së kufizuar në drejtorinë rajonale të Shërbimit Social Shtetëror, e cila hedh të dhënat e aplikuesit në Regjistrin Elektronik Kombëtar, administron dokumentacionin, kryen verifikimin dhe vlerësimin e individëve dhe merr vendimin për aftësinë e kufizuar;
+b) drejtoria rajonale e Shërbimit Social Shtetëror pajis me dokumentin përkatës personin me aftësi të kufizuar dhe i dërgon kryetarit të bashkisë vendimin përfundimtar për të gjithë përfituesit e pagesës së aftësisë së kufizuar me qëllim kryerjen e veprimeve financiare;
+c) masa, kriteret, procedurat dhe dokumentacioni për vlerësimin e përfitimin e aftësisë së kufizuar dhe të ndihmësit personal, si dhe strukturat përgjegjëse dhe detyrat e tyre përcaktohen me vendim të Këshillit të Ministrave.
