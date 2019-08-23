@@ -1,0 +1,1 @@
+1. Pagesa bazë për shkak të aftësisë së kufizuar, e përcaktuar në pikën 2, të kreut IV, të VKM-së nr. 431, datë 8.6.2016, të ndryshuar, është 10,871 (dhjetëmijë e tetëqind e shtatëdhjetë e një) lekë në muaj.

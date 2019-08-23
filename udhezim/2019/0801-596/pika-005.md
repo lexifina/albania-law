@@ -1,0 +1,1 @@
+5. Masa e përfitimit të aftësisë së kufizuar, të përcaktuar në pikën 2 germa “ç”, të kreut IV, të VKM-së nr. 431, datë 8.6.2016, të ndryshuar, për personat mbi 18 vjeç, është 13,045 (trembëdhjetëmijë e dyzet e pesë) lekë në muaj për personat e përcaktuar në pikën 2, germa “a”, të kreut I të vendimit.
