@@ -1,0 +1,1 @@
+1. Masa e përfitimit për shkak të verbërisë, të përcaktuar në pikën 4, të vendimit të Këshillit të Ministrave nr. 277, datë 18.6.1997, bëhet 12.092 (dymbëdhjetë mijë e nëntëdhjetë e dy) lekë në muaj. Të njëjtën masë përfiton edhe kujdestari i të verbrit.
