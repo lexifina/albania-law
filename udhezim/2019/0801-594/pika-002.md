@@ -1,0 +1,1 @@
+2. Masa e përfitimit të aftësisë së kufizuar, të përcaktuar në piken 8, të VKM-së nr. 618, datë 7.9.2006, bëhet 10.653 (dhjetëmijë e gjashtëqind e pesëdhjetë e tre) lekë në muaj për personat e përcaktuar në pikën 2 të vendimit dhe 11.190 (njëmbëdhjetëmijë e njëqind e nëntëdhjetë) lekë në muaj për kujdestarin.
