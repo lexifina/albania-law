@@ -1,0 +1,1 @@
+1. Masa e përfitimit për invalidët paraplegjikë dhe tetraplegjikë, të përcaktuar në pikën 4, të Vendimit të Këshillit të Ministrave nr. 31, datë 20.1.2001, bëhet 10.653 (dhjetëmijë e gjashtëqind e pesëdhjetë e tre) lekë në muaj.
