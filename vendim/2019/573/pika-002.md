@@ -1,0 +1,8 @@
+2. Numri i parcelave ndërtimore, për të cilat miratohet kalimi i pronësisë sipas qarqeve, është si më poshtë vijon:
+a) Për qarkun Tiranë (drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Tiranë), numri i parcelave ndërtimore është 82 (tetëdhjetë e dy), me sipërfaqe të përgjithshme 23 497 (njëzet e tre mijë e katërqind e nëntëdhjetë e shtatë) m²;
+b) Për qarkun Berat (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Berat), numri i parcelave ndërtimore është 22 (njëzet e dy), me sipërfaqe të përgjithshme 6 121 (gjashtë mijë e njëqind e njëzet e një) m²;
+c) Për qarkun Shkodër (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Shkodër), numri i parcelave ndërtimore është 3 (tre), me sipërfaqe të përgjithshme 522 (pesëqind e njëzet e dy ) m²;
+ç) Për qarkun Elbasan (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Elbasan), numri i parcelave ndërtimore është 62 (gjashtëdhjetë e dy), me sipërfaqe të përgjithshme 18 738 (tetëmbëdhjetë mijë e shtatëqind e tridhjetë e tetë) m²;
+d) Për qarkun Durrës (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Durrës), numri i parcelave ndërtimore është 24 (njëzet e katër), me sipërfaqe të përgjithshme 10 136 (dhjetë mijë e njëqind e tridhjetë e gjashtë) m²;
+dh)Për qarkun Gjirokastër (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Gjirokastër dhe Tepelenë), numri i parcelave ndërtimore është 101 (njëqind e një), me sipërfaqe të përgjithshme 25 416 (njëzet e pesë mijë e katërqind e gjashtëmbëdhjetë) m²;
+e) Për qarkun Vlorë (drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Vlorë dhe Sarandë), numri i parcelave ndërtimore është 6 (gjashtë), me sipërfaqe të përgjithshme 1 430 (një mijë e katërqind e tridhjetë) m².
