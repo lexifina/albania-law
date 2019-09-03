@@ -1,1 +1,0 @@
-2. Agjencia Kombëtare e Bregdetit e shtrin veprimtarinë e saj në të gjithë territorin e zonës bregdetare të Republikës së Shqipërisë dhe në zonat, territoret, objektet e veprimtaritë që ndodhen ose zhvillohen, tërësisht ose pjesërisht, apo kanë ndikim në zonën bregdetare të Republikës së Shqipërisë.
