@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 119/24, zona kadastrale 2632, Bashkia Poliçan, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi.

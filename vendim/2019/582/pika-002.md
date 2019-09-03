@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, Qarku Berat, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 119/24, zona kadastrale 2632, Bashkia Poliçan.
