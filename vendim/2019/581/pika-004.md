@@ -1,0 +1,1 @@
+4. DRTK-të kanë për mision gjurmimin, studimin, projektimin, konservimin, restaurimin, mbikëqyrjen, kolaudimin, promovimin dhe publikimin e trashëgimisë kulturore për çdo territor që secila prej tyre administron.
