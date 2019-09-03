@@ -1,0 +1,1 @@
+2. Institucionet e përcaktuara në pikën 1, të këtij vendimi, brenda 10 (dhjetë) ditëve nga hyrja në fuqi e vendimit, të përcjellin pranë ministrisë përgjegjëse për shëndetësinë emrat e përfaqësuesve të tyre.
