@@ -1,0 +1,8 @@
+13. Vula e AKB-së dhe vula e secilës agjenci rajonale të bregdetit kanë formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e prodhimit, administrimit, kontrollit dhe ruajtjes së vulave zyrtare. Vulat prodhohen, administrohen dhe ruhen në përputhje me legjislacionin në fuqi.
+IV. DISPOZITA KALIMTARE DHE TË FUNDIT
+1. Deri në fillimin e funksionimit të plotë të AKB-së, sipas përcaktimeve të këtij vendimi, struktura aktuale vazhdon funksionimin e saj sipas strukturës dhe organikës të miratuar.
+2. Numri i punonjësve, asetet dhe fondet e miratuara për AKB-në dhe agjencitë rajonale riorganizohen sipas AKB-së, në nivel qendror e rajonal.
+3. Nëpunësit civilë aktualë të Inspektoratit Shtetëror të Mjedisit, Pyjeve, Ujërave dhe Turizmit, të cilët kryejnë funksionet e inspektimit për kundërvajtjet administrative në fushën e turizmit, funksione të cilat kalojnë në Agjencinë Kombëtare të Bregdetit, transferohen pranë AKB-së, në zbatim të legjislacionit të nëpunësit civil, në rastin e mbylljes e të ristrukturimit të institucioneve.
+4. Vendimi nr. 31, datë 22.1.2014, i Këshillit të Ministrave, “Për krijimin dhe mënyrën e organizimit e të funksionimit të Agjencisë Kombëtare të Bregdetit”, i ndryshuar, shfuqizohet.
+5. Ngarkohen Ministria e Turizmit dhe Mjedisit dhe Departamenti i Administratës Publike për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

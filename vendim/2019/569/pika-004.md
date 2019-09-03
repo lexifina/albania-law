@@ -1,0 +1,1 @@
+4. AKB-ja drejtohet nga drejtori i Përgjithshëm, i cili organizon e drejton të gjithë veprimtarinë e kësaj agjencie dhe përgjigjet para ministrit. Drejtori i Përgjithshëm përfaqëson agjencinë në marrëdhënie me të tretë. Agjencitë rajonale drejtohen nga drejtuesit përkatës.

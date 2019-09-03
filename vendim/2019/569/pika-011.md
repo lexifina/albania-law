@@ -1,0 +1,1 @@
+11. AKB-ja ka stemën, logon dhe vulën e saj zyrtare. Stema e AKB-së përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria e Turizmit dhe Mjedisit, Agjencia Kombëtare e Bregdetit”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

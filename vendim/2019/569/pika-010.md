@@ -1,0 +1,1 @@
+10. Marrëdhëniet e punës së drejtorit të Përgjithshëm dhe të nëpunësve të AKB-së rregullohen sipas dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.
