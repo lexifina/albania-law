@@ -1,0 +1,1 @@
+3. Kërkesa e shtetasit, sipas pikave 1 dhe 2, të këtij udhëzimi administrohet nga nëpunësi i zyrës së gjendjes civile në bashkinë/njësinë administrative, i cili kryen verifikimet e nevojshme administrative dhe mbledh dokumentacionin përkatës, sipas akteve të gjendjes civile, të dhënave të dokumentuara, regjistrimeve në rend kronologjik duke iu referuar regjistrimit fillestar.

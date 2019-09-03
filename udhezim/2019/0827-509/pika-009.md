@@ -1,0 +1,1 @@
+9. Nëpunësi i zyrës së gjendjes civile në bashki/njësi administrative, kryen veprimet në rubrikën përkatëse në Regjistrin Kombëtar të Gjendjes Civile të vitit 2010 ( në vijim referuar RKGJC), për korrigjimin e përbërësve të gjendjes civile, sipas vendimit të Drejtorit të Përgjithshëm të Gjendjes Civile.

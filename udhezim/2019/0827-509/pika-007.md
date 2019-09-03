@@ -1,0 +1,1 @@
+7. Drejtori i Përgjithshëm i Gjendjes Civile shqyrton kërkesën, relacionin e nëpunësit të gjendjes civile dhe dokumentacionin shoqërues, nëpërmjet personave përgjegjës të ngarkuar dhe brenda 7 (shtatë) ditëve pune, shprehet me vendim të arsyetuar, për pranimin apo refuzimin e kërkesës.

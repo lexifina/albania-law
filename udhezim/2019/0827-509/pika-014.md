@@ -1,0 +1,1 @@
+14. Vendimi i Drejtorit të Përgjithshëm të Gjendjes Civile hartohet në tre kopje, nga të cilat një kopje i dërgohet zyrës së gjendjes civile që ka dërguar kërkesën, një kopje prefektit të qarkut dhe një kopje mbahet nga Drejtoria e Përgjithshme e Gjendjes Civile.

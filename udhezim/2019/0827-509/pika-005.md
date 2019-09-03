@@ -1,0 +1,1 @@
+5. Për rastet e parashikuara në pikën 2, të këtij udhëzimi, kërkesa mund të shoqërohet me çdo dokument tjetër, që vihet në dispozicion nga kërkuesi, në të cilin provohet shqiptimi ndryshe nga shkrimi i germave të veçanta.
