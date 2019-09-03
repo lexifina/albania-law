@@ -1,1 +1,0 @@
-6. Dokumentacioni duhet të dorëzohet pranë Kryeministrisë apo ministrisë që ka bërë shpalljen publike në mënyrën e përcaktuar në të, jo më vonë se 15 (pesëmbëdhjetë) ditë kalendarike nga dita e parë e shpalljes në faqen përkatëse zyrtare.

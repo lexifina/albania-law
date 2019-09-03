@@ -1,1 +1,0 @@
-4. Departamenti i Administratës Publike shpall publikisht në faqen e tij zyrtare thirrjen për shprehjen e interesit të studentëve të ekselencës që duan të punësohen përkohësisht në institucionet e administratës shtetërore, pjesë të shërbimit civil, përkatësisht brenda muajit janar 2019 dhe muajit gusht 2019.

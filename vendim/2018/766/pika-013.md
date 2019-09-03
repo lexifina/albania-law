@@ -1,1 +1,0 @@
-13. Në përfundim të kontratës 1-vjeçare të lidhur sipas këtij vendimi, ata që dëshirojnë të bëhen pjesë e shërbimit civil, do t’i nënshtrohen procedurave të konkurrimit sipas legjislacionit të shërbimit civil.

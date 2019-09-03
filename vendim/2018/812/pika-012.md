@@ -1,1 +1,0 @@
-12. Institucionet përkatëse lidhin kontratat e përkohshme të punës me studentët, sipas listave të dërguara nga Kryeministria/ministritë, të cilat respektojnë përputhshmërinë e nivelit dhe të fushës së studimit me kriterin e nivelit dhe llojit të diplomës për pozicionin respektiv të punës.

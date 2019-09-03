@@ -1,1 +1,0 @@
-4. Kryeministria dhe ministritë e linjës shpallin publikisht në faqet e tyre zyrtare, thirrjen për shprehjen e interesit të studentëve të ekselencës që duan të punësohen përkohësisht në institucionet e tyre të varësisë, sipas kërkesës së këtyre të fundit, përkatësisht brenda muajit janar 2019 dhe muajit gusht 2019.
