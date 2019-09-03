@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese të marrëveshjes së huas, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Financave dhe Ekonomisë (huamarrësi) dhe Korporata Elektroenergjetike Shqiptare sh.a., (Agjencia zbatuese e projektit), dhe KfW Frankfurt am Main (KfW), për programin “Energji ujore dhe siguria e digave në kaskadën e Drinit”, ratifikuar me ligjin nr. 85/2015, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
