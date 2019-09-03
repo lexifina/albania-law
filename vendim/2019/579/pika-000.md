@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese, me shkëmbim notash, të marrëveshjes së huas, të datës 16 janar 2014, ndërmjet Republikës së Shqipërisë (Huamarrësi) dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim (Banka), “Për projektin e investimeve në sektorin e ujit (Huaja nr. 8323-Al), njoftimi i korrigjimit - rialokimi i të ardhurave të huas”, sipas teksteve që i bashkëlidhen këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
