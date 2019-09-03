@@ -1,0 +1,1 @@
+9. DAP-i, brenda 5 (pesë) ditëve pune, nga data e krijimit të listës sipas pikave 6 e 7, të këtij kreu, thërret kandidatët, të cilët, duke filluar nga ai me pikë më të larta brenda grupit përkatës, përzgjedhin pozicionin ku duan të emërohen në mënyrë të përkohshme.

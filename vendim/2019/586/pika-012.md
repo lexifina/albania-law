@@ -1,0 +1,1 @@
+12. Institucionet e administratës shtetërore lidhin kontratat e përkohshme të punës me kandidatët, sipas listës së dërguar nga DAP-i, e cila respekton përputhshmërinë e nivelit dhe të fushës së studimit me kriterin e nivelit dhe të llojit të diplomës për pozicionin përkatës të punës.

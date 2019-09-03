@@ -1,0 +1,1 @@
+8. DAP-i shpall listën e përgatitur sipas pikave 6 e 7, të këtij kreu, në faqen zyrtare të tij dhe në platformën “punetembare.gov.al”. Kandidatët që nuk kualifikohen njoftohen individualisht nga DAP-i, duke specifikuar edhe arsyen e moskualifikimit.

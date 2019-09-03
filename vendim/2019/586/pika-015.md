@@ -1,0 +1,1 @@
+15. Nëse në përfundim të procedurës së përcaktuar në pikën 12, të këtij kreu, nga grupi i pozicioneve të institucioneve, pjesë e shërbimit civil, të dedikuara për studentët e ekselencës për vitin kalendarik përkatës, ka ende pozicione të lira, DAP-i vijon procedurat e plotësimit të këtyre pozicioneve sipas legjislacionit të shërbimit civil.

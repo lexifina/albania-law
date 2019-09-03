@@ -1,0 +1,1 @@
+6. DAP-i, në bazë të dokumentacionit të paraqitur, jo më vonë se 15 (pesëmbëdhjetë) ditë pune, nga data e mbylljes së afatit të dorëzimit të tyre, bën verifikimin paraprak të kandidatëve, që përmbushin kërkesat e përcaktuara në pikën 4, të kreut I, të këtij vendimi, dhe krijon listën e kandidatëve të kualifikuar, duke i renditur ata sipas pikëve të grumbulluara.

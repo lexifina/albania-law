@@ -1,0 +1,1 @@
+1. Krijimin e kushteve të nevojshme për studentët e ekselencës, për të krijuar eksperienca të përshtatshme pune, me qëllim zhvillimin e karrierës së tyre të mëvonshme në administratën publike shqiptare.
