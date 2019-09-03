@@ -1,0 +1,1 @@
+5. Caktimin e mësuesit ndihmës për fëmijët me aftësi të kufizuara, në ato kopshte ku ka fëmijë të tillë, sipas rekomandimit të dhënë nga komisioni multidisiplinar në institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar, bazuar në portalin “Mësues për Shqipërinë”.

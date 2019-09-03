@@ -1,0 +1,1 @@
+6. Hartimin dhe zbatimin e planeve edukative individuale për fëmijët me aftësi të kufizuara, nga mësuesit e arsimit parashkollor në bashkëpunim me prindërit e fëmijëve, psikologë, punonjës socialë, profesionistë nga strukturat e shëndetësisë dhe të shërbimeve sociale të specializuara.

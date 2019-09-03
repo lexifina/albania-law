@@ -1,0 +1,1 @@
+1. Zbatimin e kurrikulës së arsimit parashkollor bazuar në kornizën kurrikulare të arsimit parashkollor, në standardet e zhvillimit dhe të të nxënit për fëmijët 3-6 vjeç dhe në programet e arsimit parashkollor për çdo grup.

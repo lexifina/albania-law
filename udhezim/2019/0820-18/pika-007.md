@@ -1,0 +1,1 @@
+7. Pajisjen e fëmijëve që përfundojnë të paktën njërin nga tri grupet dhe kanë moshën për të ndjekur klasën e parë, me vërtetimin e ndjekjes së kopshtit për grupin përkatës, të nënshkruar nga drejtuesi i kopshtit.
