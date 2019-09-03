@@ -1,0 +1,1 @@
+7. Marrëdhëniet e punës së drejtorit të Përgjithshëm, të nëpunësve të AKP-së dhe të nëpunësve të ARP-ve rregullohen sipas dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.

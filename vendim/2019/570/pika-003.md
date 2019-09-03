@@ -1,0 +1,1 @@
+3. AKP-ja drejtohet nga drejtori i Përgjithshëm, i cili organizon dhe drejton të gjithë veprimtarinë e saj dhe përgjigjet përpara ministrit. Drejtori i Përgjithshëm përfaqëson AKP-në në marrëdhënie me të tretët. ARP-të drejtohen nga drejtuesit përkatës të tyre.

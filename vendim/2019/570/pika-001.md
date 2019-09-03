@@ -1,0 +1,1 @@
+1. Krijimin e Agjencisë Kombëtare të Pyjeve (në vijim AKP), si person juridik publik, buxhetor, në varësi të ministrit përgjegjës për pyjet, me seli në Tiranë. AKP-ja financohet nga buxheti i shtetit dhe nga burime të tjera të ligjshme.
