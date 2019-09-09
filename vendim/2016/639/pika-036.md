@@ -1,2 +1,1 @@
 36. Inspektorati Shtetëror Shëndetësor është autoriteti shtetëror përgjegjës për kontrollin e zbatimit të këtij vendimi dhe bashkërendon punën me Inspektoratin Shtetëror të Punës dhe Shërbimeve Shoqërore, si dhe trupat e tjerë inspektues, sipas kompetencave të përcaktuara në legjislacionin e punës. Për ndërmarrjet shtetërore, në varësi të Ministrisë së Mbrojtjes, kontrolli i zbatimit të këtij projektvendimi është struktura shëndetësore e Forcave të Armatosura.
-Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
