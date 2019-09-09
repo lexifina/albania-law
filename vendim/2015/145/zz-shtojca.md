@@ -204,3 +204,69 @@ Vlerat totale e Shpronësimit
 3 064 545
 25,880,317
 Vleratot. 28 944 862
+LISTA E PRONARËVE TË PASURIVE PRONË PRIVATE QË SHPONËSOHEN NGA PROJEKTI:
+“PËR DISA NDYSHIME DHE SHTESA NË VKM NR. 145, DATË 18.02.2015, TË KËSHILLIT TË MINISTRAVE “PËR SHPRONËSIMIN, PËR INTERES PUBLIK, TË PRONARËVE TË PASURIVE TË PALUAJTSHME PRONË PRIVATE, QË PREKEN NGA “NDËRTIMI I IMPIANTIT TË TRAJTIMIT TË UJËRAVE TË PËRDORURA NË QYTETIN E KORÇËS”
+Çmimi për pasurinë truall sipas VKM nr. 89, datë 3.2.2016.
+Nr.
+Emër
+Atësia
+Mbiemër
+Zona Kadastrale
+Nr/pasurisë
+Lloji i pronës
+Njësia
+Sip.
+Çmimi
+Vlera
+Konfirmimi nga ZVRPP-ja
+1
+Vasil
+Stefan
+Panariti
+8561
+8/326
+Truall
+m²
+47.45
+8537
+405,080
+Konfirmimi nga ZVRPP-ja
+2
+Vasil
+Stefan
+Panariti
+8561
+8/327
+Truall
+m²
+88.75
+8537
+757,658
+Konfirmimi nga ZVRPP-ja
+3
+Vasil
+Stefan
+Panariti
+8561
+8/328
+Truall
+m²
+36
+8537
+307,332
+Konfirmimi nga ZVRPP-ja
+4
+Vasil
+Stefan
+Panariti
+8561
+8/351
+Truall
+m²
+150
+8537
+1,280,550
+Konfirmimi nga ZVRPP-ja
+Shuma totale e shponësimit
+322.2
+2,750,620
