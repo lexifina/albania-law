@@ -1,0 +1,1 @@
+2. Organizatat e Përdoruesve të Ujit mund të parashikojnë në statutet përkatëse dispozita më specifike, me qëllim mbarëvajtjen e veprimtarisë së tyre, por pa rënë në kundërshtim me parashikimet e këtij statuti tip dhe të legjislacionit në fuqi.
