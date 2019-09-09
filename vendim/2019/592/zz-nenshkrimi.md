@@ -1,0 +1,3 @@
+# Nënshkrimi
+KRYEMINISTRI
+EDI RAMA
