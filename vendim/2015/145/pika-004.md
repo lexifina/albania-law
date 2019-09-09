@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e shpronësimit për tokë “arë” dhe “truall”, prej 28 944 862 (njëzet e tetë milionë e nëntëqind e dyzet e katër mijë e tetëqind e gjashtëdhjetë e dy) lekësh, të përballohet nga buxheti i vitit 2015, zëri “Kosto lokale”.
+4. Vlera e përgjithshme e shpronësimit për tokë “arë” dhe “truall”, prej 31 695 482 (tridhjetë e një milionë e gjashtëqind e nëntëdhjetë e pesë mijë e katërqind e tetëdhjetë e dy) lekësh, të përballohet nga buxheti i vitit 2015, zëri “Kosto lokale”.
