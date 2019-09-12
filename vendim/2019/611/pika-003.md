@@ -1,0 +1,1 @@
+3. Zona e zgjerimit të parkut përfshin zona bujqësore dhe pyjore, shkurre e kullota. Mbulesa e tokës brenda shtesës së sipërfaqes së “Parkut Kombëtar ’Mali i Tomorit’” jepet në tabelën 1, që i bashkëlidhet këtij vendimi.

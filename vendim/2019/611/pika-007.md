@@ -1,0 +1,1 @@
+7. Me hyrjen në fuqi të këtij vendimi, harta e përcaktuar në pikën 1, të vendimit nr.472, datë 18.7.2012, të Këshillit të Ministrave, “Për shpalljen ’Park kombëtar’ të ekosistemit natyror mali i Tomorit, me sipërfaqe të zgjeruar ”, zëvendësohet me hartën bashkëlidhur në shtojcën 1, të këtij vendimi.
