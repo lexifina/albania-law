@@ -1,0 +1,1 @@
+2. Organizata e menaxhimit të peshkimit, brenda 12 muajve, nga data e shpalljes së kësaj zone, përgatit planin e bashkëmenaxhimit për liqenin e Fierzës, i cili miratohet me urdhër të ministrit përgjegjës për peshkimin.
