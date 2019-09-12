@@ -1,0 +1,7 @@
+12. PTE-të duhet të përmbushin kërkesat e mëposhtme:
+a) duhet të jenë subjekt juridik i cili është themeluar dhe operon në njërin nga vendet e Bashkimit Evropian ose të Komunitetit të Energjisë, ose në një vend që ka nënshkruar një marrëveshje ose një memorandum me qeverinë shqiptare për bashkëpunimin në sektorin e energjisë dhe bashkëpunim në lidhje me TSO-të. Në rast se marrin pjesë me shumë se një PTE, ato që janë themeluar në vendet e TSO-ve që janë aksionarë të Operatorit të Tregut do të kenë përparësi në vlerësim;
+b) duhet të jenë të pajisur me licencën përkatëse për aktivitetin prodhimit, dhe/ose të tregtimit dhe/ose të furnizimit;
+c) duhet të kenë jo më pak se 5 vjet si pjesëmarrës dhe të operojnë në tregun e energjisë elektrike në më shumë se një nga vendet e Bashkimit Evropian dhe/ose të Komunitetit të Energjisë, si shprehje e interesit dhe e eksperiencës në tregun e energjisë elektrike;
+ç) të kenë një volum minimal vjetor të transaksioneve të energjisë elektrike mbi 100 000 MWh për 5 vitet e fundit;
+d) të mos jenë në gjendje falimentimi apo likuidimi dhe të posedojnë të gjitha autorizimet dhe miratimet e nevojshme për të hyrë në procesin konkurrues të përzgjedhjes;
+dh) në rast se ka pjesëmarrje kapitali në projekte/aktivitete të tjera të lidhura me sektorin e energjisë elektrike, duhet të japin shpjegime të plota dhe shteruese si dhe një skemë organizative në lidhje me pjesëmarrjen e tij në kapitalin e Operatorit të Tregut, që të jenë të mjaftueshme për të garantuar shmangien e çdo konflikti interesi.

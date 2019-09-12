@@ -1,0 +1,3 @@
+13. IFN-të duhet të përmbushin kërkesat e mëposhtme:
+a) të jenë një institucion financiar i cili është themeluar kryesisht nga më shumë se një vend (por edhe institucione të tjera ndërkombëtare ose organizata mund të jenë aksionare të tij) bazuar në një traktat ose konventë dhe për këtë arsye është subjekt i së drejtës ndërkombëtare. Në rast se marrin pjesë më shumë se një IFN, institucionet në të cilat Shqipëria është anëtare do të kenë përparësi në vlerësim;
+b) të japin shpjegime të plota e shteruese, si dhe të propozojnë një skemë organizative të përshtatshme në lidhje me pjesëmarrjen e tij në kapitalin e Operatorit të Tregut, në rast se ka pjesëmarrje kapitali në projekte të tjera për prodhimin e energjisë, me qëllim shmangien e çdo konflikti interesi.

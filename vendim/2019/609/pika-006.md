@@ -1,0 +1,1 @@
+6. Komisioni vendos në dispozicion të pjesëmarrësve të interesuar dokumentet standarde për pjesëmarrjen në procedurën konkurruese me kërkesën e tyre, sipas afatit të përcaktuar në dokumentet standarde.

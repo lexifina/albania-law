@@ -1,0 +1,4 @@
+9. Në dokumentet strandarde të procesit konkurrues të përcaktohet detyrimi, si më poshtë:
+a) pas themelimit të shoqërisë, çdo transferim i aksioneve nga një palë e tretë që kërkon të marrë pjesë në kapitalin aksionar të Operatorit të Tregut duhet të marrë pëlqimin paraprak nga OST sh.a.
+OST sh.a., në çdo rast, do të marrë edhe mendimin e ministrisë përgjegjëse për energjinë, e cila do të verifikojë përmbushjen e kritereve të aksionarit të mundshëm, në përputhje me ligjin nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, si dhe me interesin publik;
+b) në rast zvogëlimi të përqindjeve të zotëruara, të shkaktuar si pasojë e hyrjes së ndonjë aksionari të ri të Operatorit të Tregut pas themelimit të tij, ky zvogëlim do të prekë në mënyrë të barabartë pjesët e zotëruara nga operatorët e sistemit të transmetimit, të cilët do të jenë aksionarë të Operatorit të Tregut.

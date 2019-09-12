@@ -1,0 +1,1 @@
+1. Ministri përgjegjës për energjinë autorizon fillimin e procedurës konkurruese të përzgjedhjes së subjekteve juridike që marrin pjesë në kapitalin aksionar të Operatorit të Tregut në Shqipëri (përveç “Operatorit të Sistemit të Transmetimit” sh.a., më tej referuar si OST sh.a.”).

@@ -1,0 +1,1 @@
+14. Kërkesat konkrete specifike, që duhet të plotësohen nga pjesëmarrësit dhe dokumentet që duhet të vihen në dispozicion, përcaktohen në dokumentet standarde. Ato mund të përbejnë aspekte të detajuara të kërkesave të përgjithshme të parashikuara me sipër, por duhet të përfshijnë kërkesat e përcaktuara në pikën 15, të këtij kreu.

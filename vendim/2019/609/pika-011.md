@@ -1,0 +1,9 @@
+11. OEN-të duhet të përmbushin kërkesat e mëposhtme:
+a) të jenë subjekt juridik i themeluar dhe i regjistruar në njërin nga vendet e Bashkimit Evropian ose të Komunitetit të Energjisë ose një vend që ka nënshkruar një marrëveshje ose një memorandum me qeverinë shqiptare për bashkëpunim në sektorin e energjisë dhe bashkëpunim në lidhje me TSO-të;
+b) të kenë më shumë se 5 vjet eksperiencë në kryerjen e veprimtarisë së operimit/menaxhimit të tregut të shkëmbimit të energjisë (të tregut të ditës në avancë dhe të tregut brenda ditës) në shtetin e tij dhe/ose rajonet përkatëse të veprimtarisë, ku zbatohen rregulla tregu të ngjashme me modelin e tregut të energjisë në Shqipëri;
+c) të zotërojnë dhe të përdorin plotësisht një platformë të tregut të ditës në avancë (DAM), të përshtatshme për kombinimin multirajonal (MRC - Multi Regions Coupling) të plotë, një platformë të përshtatshme për tregti ndërkufitare brenda ditës (XBID), si dhe një platformë të situacionimit dhe kompensimit (clearing), ose të ketë përdorimin e kësaj të fundit;
+ç) të provojnë që rezultatet financiare të shoqërisë kanë qenë pozitive për 3 vitet e fundit;
+d) të jenë anëtarë të plotë të kombinimit rajonal të çmimeve (PRC - Price Coupliong of Regions) dhe MRC, që të jenë në gjendje të ofrojnë konceptin evropian Serviced PX dhe të kenë akses në algoritmin Euphemia;
+dh) të jenë operatorët e emëruar të tregut të energjisë elektrike në tregun e tij të brendshëm, si dhe të paktën në tregun e një juridiksionin tjetër, për të treguar pranim dhe miratim të gjerë rregullator;
+e) të kenë eksperiencë të provuar në fillimin dhe funksionimin e plotë tregjeve të përshtatshme për operim MRC në Bashkimin Evropian në drejtim të sistemeve të IT, të procedurave të operimit dhe të rregullave të shkëmbimit;
+ë) të mos jenë në gjendje falimentimi apo likuidimi dhe të posedojnë të gjitha autorizimet dhe miratimet e nevojshme për të hyrë në procesin konkurrues të përzgjedhjes.
