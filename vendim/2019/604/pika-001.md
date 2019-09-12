@@ -1,0 +1,1 @@
+1. Ngritjen e Sekretariatit të Komitetit Koordinues të Ministerialit të Mbrojtjes së Evropës Juglindore (SEDM-CC) dhe të Komitetit Drejtues Politiko-Ushtarak / Forcës Paqeruajtëse Shumëkombëshe të Evropës Juglindore (PMSC/MPFSEE) në Shqipëri, në varësi administrative të Ministrisë së Mbrojtjes, me qëllim bashkërendimin e veprimtarisë së SEDM-CC-së dhe të PMSC/MPFSEE-së.

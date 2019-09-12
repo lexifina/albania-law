@@ -1,0 +1,1 @@
+4. Personeli civil i Sekretariatit emërohet dhe lirohet nga detyra nga ministri i Mbrojtjes, në përputhje me dispozitat e Kodit të Punës, ndërsa personeli ushtarak emërohet dhe lirohet nga detyra nga ministri i Mbrojtjes, me propozimin e shefit të Shtabit të Përgjithshëm të Forcave të Armatosura të Republikës së Shqipërisë.
