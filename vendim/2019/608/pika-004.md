@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 16 503 358.20 (gjashtëmbëdhjetë milionë e pesëqind e tre mijë e treqind e pesëdhjetë e tetë pikë njëzet) lekësh, të përballohet nga buxheti i Bashkisë Lushnjë.
