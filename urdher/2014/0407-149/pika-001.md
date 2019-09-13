@@ -1,1 +1,0 @@
-1. Miratimin e rregullores për “Përcaktimin e rregullave të zbatimit të vlefshmërisë ajrore dhe të certifikimit mjedisor të avionëve dhe të produkteve që kanë lidhje me ta, pjesëve dhe pajisjeve, si dhe për certifikimin e organizatave të projektimit dhe prodhimit”.
