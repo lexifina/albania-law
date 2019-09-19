@@ -1,0 +1,28 @@
+{
+  "qbz_id": 20553,
+  "title": "Për licencimin e shoqërisë Ujësjellës- Kanalizime Vau-Dejës sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "33",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2019-07-10",
+  "published": "2019-09-19",
+  "in_force": "2019-09-19",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/710a2812c734f64bb2939e8f640a0be06e07e7036ee1c0db037daa76b8af80f7.docx",
+  "source_sha256": "710a2812c734f64bb2939e8f640a0be06e07e7036ee1c0db037daa76b8af80f7",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20553",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/07/10/33",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    20982
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
