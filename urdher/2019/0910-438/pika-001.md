@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor jopublik të nivelit të arsimit të mesëm, shkolla e gjuhëve të huaja “Eurolingua”, Tiranë, licencuar me urdhër të ministrit përgjegjës për arsimin nr. 192, datë 31.7.2003 “Për dhënien e lejes së funksionimit të institucionit arsimor jopublik parauniversitar ’Eurolingua’”.
