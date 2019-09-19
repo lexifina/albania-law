@@ -1,0 +1,1 @@
+1. Shtetasit e Malit të Zi dhe të Maqedonisë së Veriut të përkatësisë etnike shqiptare ose punëdhënësi i tyre, të cilët bëjnë deklarimin për punësimin e tyre, në zyrën përkatëse të punësimit, të pajisen me dokumente që vërteton deklarimin e tyre për punësim.

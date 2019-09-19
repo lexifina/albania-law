@@ -1,0 +1,1 @@
+2. I huaji duhet të paraqesë dokumentacionin që vërteton të dhënat e kërkuara në formatin e vërtetimit të deklarimit për punësim. Zyrtari përkatës verifikon të dhënat bazuar në dokumentacionin e paraqitur dhe mban një kopje të tyre.
