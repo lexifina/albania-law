@@ -1,0 +1,1 @@
+3. Operatori i Kujdesit Shëndetësor, të njihet me kalendarin e ri të vaksinimit dhe rekomandimet e Institutit të Shëndetit Publik, si edhe të marrë masa për zbatimin e tyre në të gjitha njësitë vendore të kujdesit shëndetësor.

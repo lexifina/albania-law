@@ -1,0 +1,1 @@
+2. Operatori i Kujdesit Shëndetësor, në bashkëpunim me Institutin e Shëndetit Publik të koordinojnë të gjithë veprimtarinë për fillimin e vaksinimit me këtë vaksinë, më 1 tetor 2019, në të gjithë vendin.
