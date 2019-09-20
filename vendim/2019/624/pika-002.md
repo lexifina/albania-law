@@ -1,0 +1,2 @@
+2. Përzgjedhja e anëtarëve, përfaqësues të organizatave jofitimprurëse/ organizatave për Këshillin Kombëtar të Pacientëve bëhet 1 (një) herë në 3 (tre) vjet nga ministri përgjegjës për shëndetësinë, nëpërmjet një komisioni ad-hoc në përfundim të një procedure konkurrimi të hapur, mbështetur në kritere që vlerësojnë përparësitë e përfaqësimit dhe të gjithëpërfshirjes.
+Ministria përgjegjëse për shëndetësinë njofton menjëherë Këshillin Kombëtar të Pacientëve për çdo kandidat të përzgjedhur.

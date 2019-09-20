@@ -1,0 +1,1 @@
+6. Sekretariati i Këshillit Kombëtar të Pacientëve është struktura mbështetëse për Këshillin, i cili përbëhet nga 2 (dy) persona që janë pjesë e administratës së ministrisë përgjegjëse për shëndetësinë.

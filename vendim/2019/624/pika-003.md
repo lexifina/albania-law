@@ -1,0 +1,1 @@
+3. Këshilli Kombëtar i Pacientëve jep mendime e këshilla për çështje dhe vendime që lidhen me impaktin te pacientët të politikave socio-shëndetësore, me qëllim përmirësimin e cilësisë së këtyre shërbimeve.

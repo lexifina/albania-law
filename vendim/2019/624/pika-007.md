@@ -1,0 +1,1 @@
+7. Sekretariati i Këshillit përgatit materialet për takimet e Këshillit, njofton anëtarët e Këshillit për mbledhjet e radhës së Këshillit, mbledh e shpërndan informacione, mban procesverbalin gjatë takimit të Këshillit, zbardh dhe e shpërndan atë, si edhe ushtron detyra sipas kërkesave të Këshillit Kombëtar të Pacientëve.
