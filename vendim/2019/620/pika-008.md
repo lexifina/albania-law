@@ -1,0 +1,1 @@
+8. Agjencia Kombëtare e Punësimit dhe Aftësive/zyra përkatëse e punësimit, mbi bazën e dokumentacionit të paraqitur sipas pikës 3, të këtij vendimi, vlerëson që punëtori stinor është në gjendje të përballojë koston e jetesës dhe nuk do t’i drejtohet sistemit të asistencës sociale në Republikën e Shqipërisë.

@@ -1,0 +1,1 @@
+12. Ministria që mbulon çështjet e punësimit, nëpërmjet drejtorisë që ka në përgjegjësi çështjet e migracionit, e përcjell dokumentacionin e paraqitur në Agjencinë Kombëtare të Punësimit dhe Aftësive/zyrën përkatëse të punësimit, sipas kompetencës territoriale që ato kanë.

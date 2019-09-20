@@ -1,0 +1,1 @@
+7. Agjencia Kombëtare e Punësimit dhe Aftësive/zyra përkatëse e punësimit ia kthen kërkesën dhe dokumentacionin e paraqitur të huajit, nëse ai nuk e ka plotësuar atë brenda afatit të përcaktuar në pikën 6, të këtij vendimi.

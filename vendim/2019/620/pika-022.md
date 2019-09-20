@@ -1,0 +1,1 @@
+22. Vendimi nr. 75, datë 12.2.2014, i Këshillit të Ministrave “Për përcaktimin e kritereve, të dokumentacionit e të procedurës për pajisjen, refuzimin dhe anulimin e lejes së punës, si punëtor stinor, të tipit “A/PS””, shfuqizohet.

@@ -1,0 +1,1 @@
+15. Ministria përgjegjëse për çështjet konsullore njofton përfaqësinë diplomatike të Republikës së Shqipërisë, në vendin e origjinës së të huajit, për pajisjen/refuzimin e lejes së punës të tipit “A/PS”.

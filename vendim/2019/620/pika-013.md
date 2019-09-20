@@ -1,0 +1,1 @@
+13. Agjencia Kombëtare e Punësimit dhe Aftësive/zyra përkatëse e punësimit, për pajisjen/refuzimin e të huajit të lejes së punës të tipit “A/PS”, ndjek procedurat e përcaktuara në pikat 6, 7, 8, 9 e 10, të këtij vendimi.

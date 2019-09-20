@@ -1,0 +1,1 @@
+14. Agjencia Kombëtare e Punësimit dhe Aftësive/zyra përkatëse e punësimit, nëpërmjet drejtorisë që ka në përgjegjësi çështjet e migracionit në ministrinë që mbulon çështjet e punësimit, përcjell në ministrisë përgjegjëse për çështjet konsullore njoftimin për pajisjen/refuzimin e lejes së punës të tipit “A/PS”.
