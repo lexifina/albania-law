@@ -1,0 +1,1 @@
+3. Ushtrimi i veprimtarisë në zonën e lirë do të autorizohet nga Drejtoria e Përgjithshme e Doganave, pas plotësimit nga aplikuesi të kushteve dhe të kritereve të parashikuara në kuadrin ligjor e nënligjor në fuqi për këtë qëllim.
