@@ -1,0 +1,1 @@
+1. Miratimin e planit të veprimit për vitet 2019-2020, për zbatimin e Strategjisë Ndërsektoriale të Luftës kundër Krimit të Organizuar, Trafiqeve të Paligjshme dhe Terrorizmit 2013-2020, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
