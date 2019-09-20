@@ -1,1 +1,0 @@
-10. Drejtoria e Përgjithshme e Shërbimit Kombëtar të Punësimit/zyra përkatëse e punësimit ia refuzon të huajit pajisjen me leje pune të tipit “A/PS”, i cili, megjithëse ka plotësuar dokumentacionin e përcaktuar në pikën 3 të këtij vendimi, nuk plotëson kriteret e përcaktuara në pikën 1 të tij, ose është në kushtet e përcaktuara në pikën 13 të këtij vendimi.
