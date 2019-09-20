@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 5 626 988 (pesë milionë e gjashtëqind e njëzet e gjashtë mijë e nëntëqind e tetëdhjetë e tetë) lekësh, dhe shpenzimet e tjera procedurale, në vlerën 1 051 000 (një milion e pesëdhjetë e një mijë) lekë, do të përballohen nga subjekti kërkues, shoqëria “Hidro Invest”, sh.p.k.
