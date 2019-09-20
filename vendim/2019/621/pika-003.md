@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme që shpronësohet për pasurinë e llojit “ndërtesë”, garazh, të kompensohet në vlerë të plotë, sipas masës së kompensimit përkatës që paraqitet në tabelën bashkëlidhur këtij vendimi, me vlerë të përgjithshme prej 400 297 (katërqind mijë e dyqind e nëntëdhjetë e shtatë) lekësh.
