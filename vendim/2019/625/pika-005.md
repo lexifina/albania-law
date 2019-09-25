@@ -1,0 +1,1 @@
+5. Pasuria, që kalon në administrim indirekt të fondacionit nga institucionet e specializuara ose ministria përgjegjëse për trashëgiminë kulturore, përcaktohet edhe në marrëveshjen e administrimit që lidhet ndërmjet ministrisë përgjegjëse për trashëgiminë kulturore dhe fondacionit.

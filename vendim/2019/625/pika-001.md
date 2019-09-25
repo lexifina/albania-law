@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi është miratimi i rregullave të administrimit të pasurive kulturore publike dhe të funksionimit të subjekteve juridike të themeluara në formën e fondacionit, me qëllim ruajtjen, mbrojtjen, vlerësimin dhe miradministrimin e pasurive kulturore publike, duke garantuar aksesin e publikut në këto pasuri dhe përmirësimin e shërbimeve në to.

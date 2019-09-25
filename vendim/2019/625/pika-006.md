@@ -1,0 +1,1 @@
+6. Pasuritë kulturore publike të luajtshme, që ndodhen në pasurinë kulturore publike të paluajtshme, që jepet në administrim indirekt, kalojnë në administrim të fondacionit sipas inventarit të mbajtur nga ministria përgjegjëse për trashëgiminë kulturore dhe të marrë në dorëzim nga fondacioni.

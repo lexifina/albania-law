@@ -1,0 +1,1 @@
+11. Bashkëpunon me individë, persona fizikë a juridikë, vendas a të huaj, me fondacione dhe organizmat ndërkombëtarë për njohjen, publikimin dhe tërheqjen e financimeve dhe donacioneve për ruajtjen, mbrojtjen, zhvillimin dhe përmirësimin e vlerave të pasurisë kulturore publike.

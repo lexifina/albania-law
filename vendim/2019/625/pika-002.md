@@ -1,0 +1,1 @@
+2. Këto rregulla zbatohen për administrimin indirekt të pasurive kulturore publike nga ana e fondacioneve të themeluara nga ministria përgjegjëse për trashëgiminë kulturore me partnerë strategjikë ose nga institucionet e specializuara në formën e fondacioneve të trashëgimisë kulturore.
