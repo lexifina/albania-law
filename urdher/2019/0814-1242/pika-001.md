@@ -1,0 +1,1 @@
+1. Miratimin e listës së shërbimeve të ofruara me çmime të reduktuara për studentët, sipas lidhjes nr. 1: “Lista me shërbimet e reduktuara që ofron Instituti i Gjeografisë dhe i Infrastrukturës Ushtarake për studentët”, që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
