@@ -1,0 +1,1 @@
+1. Dhënien në përdorim, pa shpërblim, nga Drejtoria e Shërbimeve Qeveritare te partia “Bindja Demokratike”, si seli, të vilës nr. 1 dhe të palestrës në krah të saj, në bllokun e ish-vilave gjermane, Tiranë, sipas hartës treguese të regjistrimit e genplanit, që i bashkëlidhen këtij vendimi.

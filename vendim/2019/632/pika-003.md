@@ -1,0 +1,1 @@
+3. Shpenzimet operative i ngarkohen partisë “Bindja Demokratike” dhe detyrimet e tjera të përcaktohen në kontratën e huapërdorjes, që do të lidhet ndërmjet palëve, në përputhje me kërkesat e ligjit nr. 7850, datë 29.7.1994, “Kodi Civil i Republikës së Shqipërisë”, të ndryshuar.
