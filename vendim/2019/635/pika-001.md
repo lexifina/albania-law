@@ -1,0 +1,1 @@
+1. Ky projektvendim ka si qëllim përcaktimin e rregullave për organizimin dhe funksionimin e Agjencisë Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës (në vijim “Agjencia”), si person juridik, publik, buxhetor, në varësi të ministrit që bashkërendon punën për çështjet e të drejtave dhe mbrojtjes së fëmijës (në vijim “ministri”), me seli në Tiranë.

@@ -1,0 +1,8 @@
+7. Agjencia ka stemën, logon dhe vulën e saj zyrtare. Stema përbëhet nga stema e Republikës dhe shënimet: “Republika e Shqipërisë, Ministria e Shëndetësisë dhe Mbrojtjes Sociale, Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës”, në përputhje me përcaktimet e legjislacionit në fuqi, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.
+Vula e Agjencisë ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave, për rregullat e prodhimit, të administrimit, të kontrollit dhe të ruajtjes së vulave zyrtare. Vula e Agjencisë ka shënimin identifikues “Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës”. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi. Logoja e Agjencisë përmban emrin e institucionit si edhe një imazh që lidhet me misionin e Agjencisë.
+III. DISPOZITA TË FUNDIT DHE KALIMTARE
+1. Deri në fillimin e funksionimit të plotë të Agjencisë, sipas këtij vendimi, Agjencia Shtetërore për Mbrojtjen e Fëmijës vazhdon funksionimin e saj në përputhje me strukturën dhe organikën aktualisht në fuqi.
+2. Për nëpunësit civilë të Agjencisë Shtetërore për Mbrojtjen e të Drejtave të Fëmijës zbatohen dispozitat e legjislacionit për nëpunësit civilë në rastet e mbylljes dhe të ristrukturimit të institucionit. Për punonjësit administrativë zbatohen dispozitat e Kodit të Punës.
+3. Vendimi nr. 346, datë 29.4.2011, i Këshillit të Ministrave, “Për miratimin e rregullores për organizimin dhe funksionimin e Agjencisë Shtetërore për Mbrojtjen e të Drejtave të Fëmijës”, shfuqizohet.
+4. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale dhe Agjencia Shtetërore për të Drejtat dhe Mbrojtjen e Fëmijës për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

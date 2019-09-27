@@ -1,0 +1,1 @@
+5. Marrëdhëniet e punës së kryetarit të Agjencisë dhe të nëpunësve të saj rregullohen në bazë të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.
