@@ -1,0 +1,1 @@
+1. Shpronësimin, marrjen në përdorim të përkohshëm dhe vendosjen e servitutit mbi pasuritë e paluajtshme, të cilat preken nga punimet për testimin me ujë të tubacionit dhe përfundimi i punimeve, pjesë e projektit të Gazsjellësit Trans Adriatic Pipeline (projekti TAP), në zonat Berat, Skrapar, Fier, Lushnjë, Devoll dhe Korçë.
