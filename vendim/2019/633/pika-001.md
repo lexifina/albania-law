@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Rikonstruksioni i kompleksit të shkollave dhe terreneve sportive Fier Shegan”, Lushnjë.

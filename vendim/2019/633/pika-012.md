@@ -1,0 +1,2 @@
+12. Ngarkohen Ministria e Infrastrukturës dhe Energjisë, Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Lushnjë, si dhe Bashkia Lushnjë për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
