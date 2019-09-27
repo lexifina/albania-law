@@ -1,0 +1,1 @@
+16. Me hyrjen në fuqi të këtij vendimi, të rishikohen planet e menaxhimit të parqeve që shpallen automatikisht si “Park natyror bashkiak”. Rishikimi i planeve të menaxhimit përgatitet brenda 1 (një) viti nga AKZM-ja në bashkëpunim me strukturat përkatëse të bashkisë, që përfshijnë edhe analizën e gjendjes së zonës.

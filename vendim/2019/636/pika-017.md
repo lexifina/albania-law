@@ -1,0 +1,1 @@
+17. Pas rishikimit të planeve të menaxhimit të ndiqet procedura e miratimit me urdhër të ministrit përgjegjës për zonat e mbrojtura dhe i dërgohen për zbatim bashkive në përputhje me përcaktimin e pikës 9, të këtij vendimi.

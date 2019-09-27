@@ -1,0 +1,1 @@
+8. Administrata e zonës/ave të mbrojtur/a në bashkëpunim me strukturat e njësisë/ve të vetëqeverisjes vendore, OJF-të dhe aktorët e interesuar, harton planin e menaxhimit brenda 1 (një) viti nga data e shpalljes së “Parkut natyror bashkiak”. Në rastet kur studimi është kryer nga institucionet dhe organizatat e tjera edhe plani i menaxhimit hartohet prej tyre.

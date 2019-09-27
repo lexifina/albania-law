@@ -1,0 +1,1 @@
+6. Pas përfundimit të studimit, kryetari/kryetarët i/e bashkisë/bashkive kërkon/kërkojnë miratimin paraprak nga ministri përgjegjës për zonat e mbrojtura dhe pas marrjes së miratimit përgatitet projektvendimi për shpalljen e “Parkut natyror bashkiak”, i cili shqyrtohet në mbledhjen e radhës së këshillit/këshillave bashkiakë.

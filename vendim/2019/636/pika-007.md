@@ -1,0 +1,1 @@
+7. Në vendimin e këshillit bashkiak për shpalljen e “Parkut natyror bashkiak” përcaktohen emërtimi, sipërfaqja e përgjithshme, kufijtë, harta e digjitalizuar, objektivat e ruajtjes, si dhe struktura menaxhuese.
