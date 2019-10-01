@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Bosnjës dhe Hercegovinës dhe qeverive të vendeve të tjera anëtare të Iniciativës së Gatishmërisë dhe Parandalimit të Fatkeqësive për Evropën Juglindore, mbi marrëveshjet e vendit pritës, për Sekretariatin e Iniciativës së Gatishmërisë dhe Parandalimit të Fatkeqësive për Evropën Juglindore, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
