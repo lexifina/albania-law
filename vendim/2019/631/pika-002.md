@@ -1,0 +1,1 @@
+2. Standardet e harmonizuara shqiptare, numrat dhe titujt e të cilave janë përshirë në listën bashkëlidhur këtij vendimi, shërbejnë si dokumente referencë për prezumimin e konformitetit të instrumenteve të peshimit joautomatik, me kërkesat thelbësore të objektivave të sigurisë, të përcaktuara në rregullin teknik, sipas pikës 1, të këtij vendimi.

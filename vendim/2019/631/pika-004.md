@@ -1,0 +1,1 @@
+4. Vendimi nr. 77, datë 30.1.2013, i Këshillit të Ministrave, “Për miratimin e rregullit teknik ’Për kërkesat thelbësore dhe vlerësimin e konformitetit të instrumenteve të peshimit joautomatik’”, shfuqizohet.
