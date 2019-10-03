@@ -1,7 +1,7 @@
 # Neni 9
 Të drejtat dhe përgjegjësitë
 1. Njësitë e vetëqeverisjes vendore kanë këto të drejta dhe përgjegjësi:
-1.1. Të drejtën dhe përgjegjësinë e vetë-qeverisjes, sipas së cilës:
+1.1. Të drejtën dhe përgjegjësinë e vetëqeverisjes, sipas së cilës:
 a) përcaktojnë masa që ato i gjykojnë të nevojshme për kryerjen e funksioneve dhe ushtrimin e kompetencave;
 b) bazuar në Kushtetutë, në ligje dhe aktet nënligjore, të nxjerra në bazë dhe për zbatim të tyre, për kryerjen e funksioneve dhe ushtrimin e kompetencave, nxjerrin urdhëresa, vendime dhe urdhra;
 c) krijojnë struktura administrative për kryerjen e funksioneve dhe ushtrimin e kompetencave të tyre, sipas ligjeve në fuqi;
