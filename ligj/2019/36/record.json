@@ -1,0 +1,26 @@
+{
+  "qbz_id": 67109,
+  "title": "Për një ndryshim në ligjin nr. 9900, datë 10.4.2008, “Për rezervat materiale të shtetit”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "36",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2019-06-20",
+  "published": "2019-09-18",
+  "in_force": "2019-10-03",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/5c49d89f1869ed1fea28334a9d3dfdf20d90f6ce6e22b246cf73d109276afa4e.docx",
+  "source_sha256": "5c49d89f1869ed1fea28334a9d3dfdf20d90f6ce6e22b246cf73d109276afa4e",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67109",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2019/06/20/36",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
