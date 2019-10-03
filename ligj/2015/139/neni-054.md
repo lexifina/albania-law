@@ -7,7 +7,8 @@ c) emëron dhe shkarkon sekretarin e këshillit bashkiak;
 ç) miraton nivelin e pagave e të shpërblimeve të punonjësve e të personave të tjerë, të zgjedhur ose të emëruar, në përputhje me legjislacionin në fuqi;
 d) miraton aktet e themelimit të ndërmarrjeve, shoqërive tregtare, si dhe të personave të tjerë juridikë që krijon vetë ose me të cilët është bashkëthemelues;
 dh) miraton buxhetin dhe ndryshimet e tij. Në vendimin për miratimin e buxhetit miraton, gjithashtu, edhe numrin e maksimal të punonjësve të bashkisë, si dhe të njësive e institucioneve buxhetore në varësi të bashkisë;
-e) miraton tjetërsimin ose dhënien në përdorim të pronave të tretëve;
+e) miraton tjetërsimin e pronave të tretëve;
+e/1) miraton dhënien në përdorim të pronave të tretëve ose dhënien për zhvillim të pronës nëpërmjet bashkëpunimit me subjekte private.
 ë) organizon dhe mbikëqyr kontrollin e brendshëm të bashkisë;
 f) vendos për taksat e tarifat vendore, sipas këtij ligji dhe legjislacionit tjetër në fuqi;
 g) vendos për marrjen e kredive dhe shlyerjen e detyrimeve ndaj të tretëve;
