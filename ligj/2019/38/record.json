@@ -1,0 +1,26 @@
+{
+  "qbz_id": 67111,
+  "title": "Për disa shtesa dhe ndryshime në ligjin nr. 139/2015 “Për vetëqeverisjen vendore”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "38",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2019-06-20",
+  "published": "2019-09-18",
+  "in_force": "2019-10-03",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/d0858df7bbd7ea458ef3cb3f4579c41acf276ab77d1148b4de41e0b3563425a0.docx",
+  "source_sha256": "d0858df7bbd7ea458ef3cb3f4579c41acf276ab77d1148b4de41e0b3563425a0",
+  "official_record": "https://qbz.gov.al/api/v1/acts/67111",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2019/06/20/38",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
