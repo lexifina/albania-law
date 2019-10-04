@@ -44,7 +44,6 @@ VENDOSI:
 Miratimin për dhënien e licencës së importit të substancave ozonholluese me të dhënat, si më poshtë:
 1. Nr. i miratimit:
 2. Emri i personit fizik/juridik që importon:
-Numri i Kodit të Regjistrimit të Importuesit (Kodi UNIK):
 NIPT:
 Adresa (qyteti, rruga nr. etj.):
 Nr. i telefonit:
@@ -78,7 +77,6 @@ VENDOSI:
 Refuzimin për dhënien e licencës së importit të substancave ozonholluese me të dhënat si më poshtë:
 1. Nr. i refuzimit:
 2. Emri i personit fizik/juridik që importon:
-Numri i Kodit të Regjistrimit të Importuesit (Kodi UNIK):
 NIPT:
 Adresa (qyteti, rruga nr. etj.):
 Nr. i telefonit:
