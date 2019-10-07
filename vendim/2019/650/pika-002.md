@@ -1,0 +1,1 @@
+2. Kjo kontratë sigurimi mbulon dëmet e ndërtesës, që shfaqen pas lidhjes së kontratës së kalimit të pronësisë, përfshirë dëmet ndaj të tretëve, që rrjedhin kur, për shkak të tokës ose për defekt të ndërtimit, ndërtimi shembet tërësisht ose pjesërisht, ose paraqet rrezik të dukshëm shembjeje ose defekte të tjera të rënda.

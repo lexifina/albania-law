@@ -1,0 +1,1 @@
+7. Elementet dhe kushtet e përgjithshme të kontratës së sigurimit të detyrueshëm për t’u zbatuar nga shoqëritë e sigurimit miratohen nga Autoriteti i Mbikëqyrjes Financiare pas marrjes së mendimit nga ministria përgjegjëse për infrastrukturën dhe ministria përgjegjëse për financat.
