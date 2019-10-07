@@ -5,11 +5,11 @@ PËR SIGURINË E ASHENSORËVE NË PËRDORIM
 Ky Rregull Teknik zbatohet për të gjithë ashensorët ekzistues (që janë në përdorim) dhe për ashensorët e rinj, të cilët instalohen në ndërtesa në bashkëpronësi, në ambiente shtëpiake ose në vendin e punës, përfshirë edhe komponentët e tyre të sigurisë me qëllim për të garantuar sigurinë gjatë gjithë periudhës së përdorimit të tyre.
 2. Përkufizime
 Në këtë Rregull Teknik termat e mëposhtëm kanë këto kuptime:
-2.1 “Struktura Përgjegjëse” është struktura përgjegjëse e mbikëqyrjes së tregut nën minis-trinë përgjegjëse për tregtinë.
-2.2 “Certifikatë regjistrimi” është certifikata e lëshuar nga struktura përgjegjëse lidhur me regjistrimin e një ashensori në zbatim të pikës 4 të këtij Rregulli Teknik.
+2.1 “Inspektorati Shtetëror i Mbikëqyrjes së Tregut (ISHMT)” është struktura përgjegjëse e mbikëqyrjes së tregut nën ministrinë përgjegjëse për tregtinë.
+2.2 “Certifikatë regjistrimi” është certifikata e lëshuar nga Inspektorati Shtetëror i Mbikëqyrjes së Tregut (ISHMT) lidhur me regjistrimin e një ashensori në zbatim të pikës 4 të këtij Rregulli Teknik.
 Kërkesa për regjistrim bëhet nga personi përgjegjës, si referohet në pikën 24, të nenit 3, të ligjit nr. 10489, datë 15.12.2011, “Për tregtimin dhe mbikëqyrjen e tregut të produkteve joushqimore”, i ndryshuar.
-2.4 “Ashensor ekzistues” është ashensori i instaluar dhe i vendosur në shërbim përpara datës 31 dhjetor 2009.
-2.5 “Ashensor i ri” është ashensori i instaluar dhe i vendosur në shërbim duke filluar që prej datës 1 janar 2010.
+2.4 “Ashensor ekzistues” është ashensori i instaluar dhe i vendosur në shërbim përpara datës 31 dhjetor 2019.
+2.5 “Ashensor i ri” është ashensori i instaluar dhe i vendosur në shërbim, duke filluar që prej datës 1 janar 2020.
 2.6 “Modifikim i rëndësishëm” është çdo ndryshim/modifikim në ashensor, i cili mund të rrezikojë sigurinë e tij dhe minimalisht përfshin:
 2.6.1 Për ashensorët ekzistues dhe të rinj të tipit elektrik,
 a) ndryshimi i:
@@ -94,8 +94,8 @@ h) të dhëna mbi karakteristikat e ashensorit në lidhje me tipin e ashensorit,
 i) të dhëna mbi organet përgjegjëse të vlerësimit të konformitetit; dhe
 j) firmën e instaluesit/personit përgjegjës.
 4.3 Informacioni i referuar në nënpikën 4.2 të këtij Rregulli Teknik dërgohet pranë Strukturës Përgjegjëse duke përdorur formatin e miratuar nga kryeinspektori i Strukturës Përgjegjëse.
-4.4 Struktura përgjegjëse lëshon certifikatën e regjistrimit mbas përfundimit me sukses të procedurës së regjistrimit.
-4.5 Certifikata e regjistrimit duhet të ketë numrin unik të regjistrimit të përcaktuar nga struktura përgjegjëse.
+4.4 Inspektorati Shtetëror i Mbikëqyrjes së Tregut (ISHMT) lëshon certifikatën e regjistrimit mbas përfundimit me sukses të procedurës së regjistrimit.
+4.5 Certifikata e regjistrimit duhet të ketë numrin unik të regjistrimit të përcaktuar nga Inspektorati Shtetëror i Mbikëqyrjes së Tregut (ISHMT).
 5. Ekzaminimi i plotë i ashensorëve ekzistues dhe të rinj
 5.1 Personi përgjegjës siguron se ashensori i nënshtrohet një ekzaminimi të plotë nga një organ i miratuar për këtë qëllim.
 Organi i miratuar përzgjidhet nga personi përgjegjës sipas listës së publikuar më parë në faqen zyrtare të ministrisë përgjegjëse për tregtinë.
@@ -174,14 +174,8 @@ Për udhëzime të tilla personi përgjegjës duhet të marrë pëlqim nga organ
 10.6 Te mirëmbajtja duhet të mënjanohen të gjitha mangësitë në punën e ashensorit, kurse pjesët e parregullta dhe të dëmtuara të zëvendësohen me të rregullta.
 10.7 Nëse gjatë mirëmbajtjes së ashensorit vërtetohen parregullsi të cilat mund të çojnë deri në gjendje të rrezikshme, organizmi kompetent për mirëmbajtjen (me personat teknikisht të kualifikuar) i kërkon personit përgjegjës të vendosë ashensorin jashtë përdorimit derisa ato të mënjanohen. Organizmi kompetent për mirë-mbajtjen njofton menjëherë personin përgjegjës, ministrinë përgjegjëse për tregtinë dhe strukturën përgjegjëse, dhe në raste pa-zbatueshmërie edhe organet e rendit.
 11. Formati i ekzaminimit të plotë për ashensorët ekzistues dhe rreziqet minimale që merren parasysh gjatë analizës së riskut
-11.1 Programimi kohor për kryerjen e ekzami-nimeve të plota për ashensorët ekzistues.
-Ekzaminimi i plotë i ashensorëve ekzistues, të vendosur në shërbim si është treguar në kolonën e parë të tabelës së mëposhtme, ka për t”u kryer jo më vonë se data e treguar në kolonën e dytë.
-Vendosur në shërbim
-Realizimi i ekzaminimit të plotë
-Deri më 31 dhjetor 2000
-Jo më vonë se 31 dhjetor 2017
-Nga 1 janari 2001 deri më 31 dhjetor 2009
-Jo më vonë se 31 dhjetor 2018
+11.1Programimi kohor për kryerjen e ekzaminimeve të plota për ashensorët ekzistues.
+Ekzaminimi i plotë i ashensorëve ekzistues, të vendosur në shërbim deri më 31 dhjetor 2019, të kryhet jo më vonë se data 31 dhjetor 2020.
 11.2 Analiza e riskut
 Analiza e riskut, si pjesë e ekzaminimit të plotë të ashensorit, bëhet në zbatim të pikës 5 të këtij Rregulli Teknik.
 Masat e sigurisë të dhëna në këtë pikë zbatohen kur ekzistojnë probleme të lidhura me risqet.
@@ -291,7 +285,7 @@ n) hapësira e kolonës;
 o) hapësira e lirë ndërmjet kabinës dhe kundërpeshës dhe kolonës së ashensorit;
 p) kundërpesha.
 14. Formati për hartimin e raportit të inspektimit periodik për një ashensor ekzistues dhe të ri
-Seksioni A
+14.1 Seksioni A
 a) Informacion mbi personin përgjegjës
 Emri dhe adresa e personit përgjegjës ______
 b) Informacion mbi ashensorin
