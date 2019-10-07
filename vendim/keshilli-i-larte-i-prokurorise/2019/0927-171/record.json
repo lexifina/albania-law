@@ -1,0 +1,28 @@
+{
+  "qbz_id": 20616,
+  "title": "Për miratimin e rregullores “Për procedurën e verifikimit të kushteve dhe kritereve ligjore për rekrutimin, emërimin si magjistrit dhe caktimin në pozicion të kandidatëve për prokurorë, si dhe zhvillimin e karrierës së prokurorëve”",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "171",
+  "institution": "Këshilli i Lartë i Prokurorisë",
+  "adopted": "2019-09-27",
+  "published": "2019-10-07",
+  "in_force": "2019-10-07",
+  "in_force_basis": "\"hyn në fuqi ditën e botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/453a8d92e295f66223c0e5434c343e669f1202512c0dc6bc8ab36d1525c1376f.docx",
+  "source_sha256": "453a8d92e295f66223c0e5434c343e669f1202512c0dc6bc8ab36d1525c1376f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20616",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/09/27/171",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    21007
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
