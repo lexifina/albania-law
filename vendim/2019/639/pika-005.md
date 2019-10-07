@@ -1,0 +1,1 @@
+5. Punonjësit aktualë të Drejtorisë së Përgjithshme të Tatimeve (DPT), të cilët ushtrojnë funksionin e sportelit, kalojnë si punonjës të Agjencisë së Ofrimit të Shërbime Publike të Integruara (ADISA).

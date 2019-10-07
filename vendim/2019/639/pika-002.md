@@ -1,0 +1,1 @@
+2. Në rastet përjashtimore dhe me marrëveshje ndërmjet palëve, shërbimet, të cilat, për shkak të natyrës së tyre, nuk mund të ofrohen nga sportelet e ADISA-s, do të vazhdojnë të ofrohen drejtpërdrejt nga vetë institucioni.

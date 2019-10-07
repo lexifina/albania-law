@@ -1,0 +1,2 @@
+9. Ngarkohen Agjencia e Ofrimit të Shërbimeve Publike të Integruara (ADISA), Drejtoria e Përgjithshme e Tatimeve, Shërbimi Shtetëror i Gjendjes Civile, Agjencia Kombëtare për Punësim dhe Aftësi, Fondi i Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, Instituti i Sigurimeve Shoqërore dhe Agjencia Shtetërore e Kadastrës për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
