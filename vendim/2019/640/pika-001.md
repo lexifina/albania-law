@@ -1,0 +1,1 @@
+1. Autoriteti përgjegjës për vlerësimin e cilësisë së ofrimit të shërbimit dhe të rezultateve në punë, në kuptim të pikës 4, të nenit 34, të ligjit nr. 13/2016, “Për mënyrën e ofrimit në sportel të shërbimeve publike në Republikën e Shqipërisë”, është Agjencia e Ofrimit të Shërbimeve Publike të Integruara (ADISA).
