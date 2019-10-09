@@ -1,0 +1,1 @@
+2. Bashkitë dhe SHBB-ja, me miratim paraprak të ministrit, mund të parashikojnë në marrëveshje dispozita më specifike, me qëllim mirërregullimin e marrëdhënies objekt i marrëveshjes, por pa rënë në kundërshtim me parashikimet e kësaj marrëveshjeje tip dhe të legjislacionit në fuqi.
