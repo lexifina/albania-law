@@ -1,0 +1,28 @@
+{
+  "qbz_id": 20632,
+  "title": "Mbi licencimin e shoqërisë “Ayen AS Energji” sh.a., në veprimtarinë e tregtimit të energjisë elektrike",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "141",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2019-09-24",
+  "published": "2019-10-09",
+  "in_force": "2019-10-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2cda87452feee4b493e384c534500fe52a9da558d6d95b69e289734c1aec544a.docx",
+  "source_sha256": "2cda87452feee4b493e384c534500fe52a9da558d6d95b69e289734c1aec544a",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20632",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/09/24/141",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    21541
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
