@@ -1,0 +1,27 @@
+{
+  "qbz_id": 122691,
+  "title": "KODI  PENAL USHTARAK",
+  "type": "Ligj",
+  "number": "8003",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1995-09-28",
+  "version_no": 1,
+  "qbz_version_id": 10663,
+  "in_force": "2019-10-09",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-10-09",
+  "changed_by_qbz_id": null,
+  "changed_by_number": null,
+  "changed_by_title": null,
+  "source": "https://qbz.gov.al/files/1129615d34fe1bc0a92e2390daa3409db06a66e5a057b82e07bbe499d22c1696.docx",
+  "source_sha256": "1129615d34fe1bc0a92e2390daa3409db06a66e5a057b82e07bbe499d22c1696",
+  "official_record": "https://qbz.gov.al/api/v1/acts/122691",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/122691/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
