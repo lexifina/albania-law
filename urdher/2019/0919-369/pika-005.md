@@ -1,0 +1,1 @@
+5. Të gjitha aplikimet duhet të dorëzohen vetëm në zyrat qendrore të AZHBR-së në zarfe të mbyllura me titullin thirrje për dorëzimin e aplikimeve, së bashku me titullin e masës, emrin e plotë dhe adresën e aplikantit dhe me shënimin “Të mos hapet përpara dorëzimit”.
