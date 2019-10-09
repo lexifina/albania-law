@@ -1,0 +1,1 @@
+1. Ky udhëzim ka për qëllim të përcaktojë procedurat dhe veprimet që ndërmarrin strukturat arsimore, në bashkëpunim me strukturat e mbrojtjes së fëmijës, në rastet kur në mjediset e institucionit arsimor parauniversitar, publik ose privat, konstatohet se një fëmijë është duke aksesuar në internet përmbajtje të paligjshme dhe/ose të dëmshme për moshën e tij.

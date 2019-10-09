@@ -1,0 +1,9 @@
+4. Në zbatim të këtij udhëzimi përkufizimet e mëposhtme kanë këto kuptime:
+a) “Përmbajtje e paligjshme” është çdo pamje, imazh dhe material tjetër, që qarkullon në internet, dhe që, sipas legjislacionit në fuqi, është i ndaluar dhe pasi përbën vepër penale.
+b) “Përmbajtje e dëmshme për fëmijën” është çdo pamje, imazh dhe çdo material tjetër që qarkullon në internet dhe që cenon dinjitetin dhe të drejtat e fëmijës.
+KREU II
+PROCEDURAT DHE VEPRIMET E STRUKTURAVE ARSIMORE
+1. Çdo mësues, mësuesndihmës dhe çdo punonjës i institucionit arsimor (psikologu, punonjësi social, oficeri i sigurisë dhe sekretari), në rast se në mjediset e institucionit arsimor parauniversitar, publik ose privat, konstaton një nxënës që është duke aksesuar në internet përmbajtje të paligjshme dhe/ose të dëmshme për moshën e tij, ka detyrimin të raportojë pranë drejtorisë së institucionit arsimor, institucionit arsimor vendor përgjegjës për arsimin parauniversitar (në vijim “IAVPAP”), organeve të Policisë së Shtetit dhe strukturave vendore të mbrojtjes së fëmijës.
+2. Mësuesit, mësuesit ndihmës dhe punonjësit e institucionit arsimor raportojnë rastet e identifikuara pranë drejtorisë së institucionit arsimor dhe IAVPAP-së, me çdo mjet komunikimi, me telefon, e-mail, me postë, në formë shkresore etj.
+3. Drejtori i institucionit arsimor dhe drejtori i IAVPAP-së, brenda 24 orëve nga identifikimi, raportojnë rastin pranë strukturave të mbrojtjes së fëmijës me çdo mjet komunikimi.
+4. Raportimi bëhet nëpërmjet formularit të raportimit të fëmijës në nevojë për mbrojtje sipas aneksit 2, të vendimit nr. 578, datë 3.10.2018, të Këshillit të Ministrave, “Për procedurat e referimit e të menaxhimit të rastit, hartimin dhe përmbajtjen e planit individual të mbrojtjes, financimin e shpenzimeve për zbatimin e tij, si dhe zbatimin e masave të mbrojtjes”.
