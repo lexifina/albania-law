@@ -1,0 +1,2 @@
+5. Ngarkohet për zbatimin e këtij udhëzimi, Sekretari i Përgjithshëm, Drejtoria e Programeve të Zhvillimit në Ministrinë e Arsimit, Sportit dhe Rinisë, Shkolla e Drejtorëve të Institucioneve të Arsimit Parauniversitar, Qendra e Shërbimeve Arsimore, Agjencia e Sigurimit të Cilësisë në Arsimin Parauniversitar dhe Zyrat Vendore të Arsimit Parauniversitar.
+Ky udhëzim hyn në fuqi pas botimit në Fletore Zyrtare.

@@ -1,0 +1,1 @@
+2. Kriteret dhe procedurat për kualifikimin, trajnimin dhe certifikimin, organizimin e programit të zhvillimit profesional dhe vlerësimi i pjesëmarrësve, hartohen nga Shkolla e Drejtorëve dhe miratohen nga bordi drejtues i Shkollës së Drejtorëve, në të cilin marrin pjesë dhe përfaqësuesit e MASR-së.
