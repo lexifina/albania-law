@@ -1,0 +1,28 @@
+{
+  "qbz_id": 20631,
+  "title": "Mbi licencimin e shoqërisë “Irarba Energji” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Shëngjun” me kapacitet të instaluar 2040 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "140",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2019-09-24",
+  "published": "2019-10-09",
+  "in_force": "2019-10-09",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/cf25446d0bd006d6fb823a9ff59c499d7e9d27027c40f9a111f33d03105e71c9.docx",
+  "source_sha256": "cf25446d0bd006d6fb823a9ff59c499d7e9d27027c40f9a111f33d03105e71c9",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20631",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/09/24/140",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66036
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
