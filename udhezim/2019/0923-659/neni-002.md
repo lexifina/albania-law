@@ -1,0 +1,9 @@
+# Neni 2
+Objekti
+Objekti i këtij udhëzimi është përcaktimi i rregullave dhe procedurave për ofrimin e shërbimeve arsimore, shëndetësore dhe rehabilituese (aftësuese) për fëmijën me aftësi të kufizuara, në përputhje me nevojat specifike, në një njësi të qeverisjes vendore të ndryshme dhe mbulimi i shpenzimeve për shërbimet e ofruara në të gjitha rastet e parashikuara si më poshtë:
+a) në rastet kur në njësinë vendore ku banon fëmija me aftësi të kufizuara, nuk ofrohet ndonjë nga llojet e shërbimeve që trajton ky udhëzim dhe për të cilin fëmija ka nevojë. Në këto raste fëmija duhet të marrë shërbimin e duhur në një njësi vendore që ka vendndodhjen më të afërt me vendin ku banon;
+b) gjatë një periudhe tranzitore apo të përkohshme, kur familja biologjike apo ajo kujdestare, e fëmijës me aftësi të kufizuara, ka ndryshuar vendbanimin, duke u transferuar në territorin e një njësie të qeverisjes vendore të ndryshme me atë të mëparshmen;
+c) në rastet kur vendndodhja e banesës së fëmijës me aftësi të kufizuara, është afër vijës kufizuese me një njësi tjetër të qeverisjes vendore e për pasojë mund të jetë më afër një shërbimi që ofrohet në njësinë vendore të ndryshme nga ajo ku fëmija banon;
+d) fëmija me aftësi të kufizuara, për arsye të ndryshme, është duke qëndruar në vendbanimin e të afërmve ose miqve për një kohë të pacaktuar, por jo më pak se 3 muaj (periudha minimale e nevojshme për të cilën mund të alokohet fondi për mbulimin e shpenzimeve nga një njësi vendore tek tjetra);
+e) fëmija me aftësi të kufizuara është duke qëndruar në vendbanimin e të afërmve apo miqve, për shkak të humbjes së prindërve të tij apo braktisjes nga ana e tyre;
+f) në rastet kur fëmija me aftësi të kufizuara është i detyruar të qëndrojë në një njësi tjetër vendore, për shkak të situatave të rrezikshme që fëmija mund të ndodhet dhe kur ndaj tij janë marrë masat e mbrojtjes.
