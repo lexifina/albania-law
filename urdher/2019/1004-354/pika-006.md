@@ -1,0 +1,1 @@
+6. Afati i shqyrtimit të dokumentacionit, vlerësimit, hartimit të listës së kandidatëve që plotësojnë kërkesat e posaçme dhe relacionit përkatës, si dhe paraqitja e listës për miratim nga ministri i MFE-së, kryhet nga komisioni ad hoc, brenda 10 (dhjetë) ditëve pune nga data e mbylljes së afatit të dorëzimit të dokumentacionit.
