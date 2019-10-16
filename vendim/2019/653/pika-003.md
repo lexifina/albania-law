@@ -1,0 +1,1 @@
+3. Fondi Shqiptar i Zhvillimit të bashkëpunojë me Delegacionin Evropian në Tiranë, BERZH, Ministrinë e Turizmit dhe Mjedisit, Ministrinë e Kulturës dhe bashkitë, për programimin dhe integrimin e ndërhyrjeve brenda këtij programi, si dhe bashkërendimin e tyre me ndërhyrjet e parashikuara në programe të tjera, në proces planifikimi dhe zbatimi nga FSHZH-ja.

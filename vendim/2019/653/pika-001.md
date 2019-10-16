@@ -1,0 +1,1 @@
+1. Fondi Shqiptar i Zhvillimit caktohet si përfaqësues i përfituesit të IPA II, për sa i përket objektivit 2, “Mbështetja për turizmin si një model për zhvillimin ekonomik lokal”, në kuadër të marrëveshjes së financimit, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Komisionit të Bashkimit Evropian për programin e veprimit IPA, për vitin 2017, për Shqipërinë.
