@@ -1,0 +1,1 @@
+13. Çmimi i barit gjenerik duhet të jetë deri në 80% të çmimit të barit origjinator, të regjistruar pranë Agjencisë. Nëse bari origjinator nuk është i regjistruar në Republikën e Shqipërisë, atëherë do të merret për bazë çmimi i tij në vendet e referencës dhe të origjinës.

@@ -1,0 +1,1 @@
+4. Deklarimi i çmimit duhet të bëhet sipas formularit që i bashkëlidhet këtij vendimi. Ai duhet të jetë origjinal, i firmosur dhe i vulosur nga mbajtësi i autorizimit për tregtim ose përfaqësuesi i tij ligjor i autorizuar prej tij. Në rast të kundërt, deklarimi do të quhet i pavlefshëm dhe nuk do të merret në shqyrtim nga komisioni.

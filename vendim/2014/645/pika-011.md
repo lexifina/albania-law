@@ -1,0 +1,1 @@
+11. Komisioni i Çmimit të Barnave verifikon edhe dokumentacionin eimporteve të barnave, të kryera dhe të depozituara pranë Agjencisë Kombëtare për Barnat dhe Pajisjet Mjekësore, gjatë 12 muajve të fundit.

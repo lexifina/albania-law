@@ -1,0 +1,1 @@
+5. Ministria përgjegjëse për shëndetësinë njofton, nëpërmjet publikimit në faqen zyrtare, të gjithë mbajtësit e autorizimit të tregtimit të barit në Shqipëri, për deklarimin e çmimeve “CIF” në euro ose dollarë, për barnat e importit dhe çmimet “EXW” (ex-work) në lekë, për barnat e fabrikuara në vend, pranë saj, brenda datës 30 shtator.
