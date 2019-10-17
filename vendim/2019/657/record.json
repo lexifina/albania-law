@@ -1,0 +1,26 @@
+{
+  "qbz_id": 20651,
+  "title": "Për disa ndryshime në vendimin nr. 793, datë 24.9.2010, të Këshillit të Ministrave, “Për zbatimin e ligjit nr. 10142, datë 15.5.2009, ‘Për sigurimin shoqëror suplementar të ushtarakëve të Forcave të Armatosura, të punonjësve të Policisë së Shtetit, të Gardës së Republikës, të Shërbimit Informativ të Shtetit, të Policisë së Burgjeve, të Policisë së Mbrojtjes nga Zjarri dhe të Shpëtimit e të punonjësve të Shërbimit të Kontrollit të Brendshëm në Republikën e Shqipërisë’, të ndryshuar”",
+  "type": "Vendim",
+  "kind": "Akt ndryshues",
+  "number": "657",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2019-10-10",
+  "published": "2019-10-17",
+  "in_force": "2019-10-17",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/e4677d854e35fc06169b8c3c418d47a0500bd32cd2657a5f30555ce2cdcec40d.docx",
+  "source_sha256": "e4677d854e35fc06169b8c3c418d47a0500bd32cd2657a5f30555ce2cdcec40d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20651",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/10/10/657",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
