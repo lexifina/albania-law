@@ -1,0 +1,1 @@
+12. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor informon periodikisht Drejtorinë e Policisë Rrugore për mjetet të cilat kanë miratuar e certifikuar xhamat e errësuar me materiale të fabrikuara dhe homologuara nga prodhuesi, për përdorimin e tyre në autovetuara.

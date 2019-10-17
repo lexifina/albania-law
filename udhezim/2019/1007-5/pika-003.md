@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor harton dhe miraton Rregulloren e brendshme për gjithë procedurat administrative dhe teknike për miratimin dhe certifikimin e xhamave të errësuar me materiale të fabrikuara dhe të homologuara nga prodhuesi, për përdorimin e tyre në autovetura.

@@ -1,0 +1,1 @@
+14. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor të organizojë punën duke siguruar materialet dhe pajisjet e nevojshme që miratimi e certifikimi i xhamave të errësuar me materiale të fabrikuara dhe të homologuara nga prodhuesi, për përdorimin e tyre në autovetura, të fillojë brenda 6 (gjashtë) muajve nga hyrja në fuqi e udhëzimit.

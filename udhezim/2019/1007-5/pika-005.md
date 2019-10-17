@@ -1,0 +1,1 @@
+5. Nuk lejohet errësimi i xhamit të përparmë ballor në autovetura. Përjashtimisht, lejohet ulja e tejçueshmërisë së dritës në xhamin e përparmë ballor vetëm në pjesën e sipërme, në një shirit gjatësor, gjerësia e të cilit është deri në 125 mm.

@@ -1,0 +1,1 @@
+10. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor pasi të miratojë errësimin e xhamave, do të lëshojë certifikatën përkatëse, sipas modelit të miratuar, për xhama të errësuar me materiale të fabrikuara dhe të homologuara nga prodhuesi, për përdorimin e tyre në autovetura, e cila duhet mbajtur gjithmonë në autoveturë.

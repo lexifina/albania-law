@@ -1,0 +1,1 @@
+1. Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor është organi i miratimit dhe i certifikimit të xhamave të errësuar me materiale të fabrikuara dhe të homologuara nga prodhuesi, për përdorimin e tyre në autovetura.

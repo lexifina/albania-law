@@ -1,0 +1,1 @@
+11. Organet e përcaktuara për të kryer kontrollin teknik të autoveturave, nuk duhet të kryejnë kontrollin teknik të autoveturave me xhama të errësuar të pa miratuar e certifikuar nga Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor.

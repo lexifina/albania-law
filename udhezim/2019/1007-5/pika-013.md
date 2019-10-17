@@ -1,0 +1,1 @@
+13. Pronarët e mjeteve të interesuar për miratimin dhe certifikimin e xhamave të errësuar me materiale të fabrikuara dhe homologuara nga prodhuesi, për përdorimin e tyre në autovetura, duhet të paraqiten pranë Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor për të kryer procedurat e nevojshme, brenda 1 (një) viti nga hyrja në fuqi e udhëzimit.

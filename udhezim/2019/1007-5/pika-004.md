@@ -1,0 +1,1 @@
+4. Çdo xham i homologuar që vishet me material të homologuar duhet të miratohet nga Drejtoria e Përgjithshme e Shërbimeve të Transportit Rrugor. Xham i errët do të konsiderohet xhami i veshur me material të homologuar që ka tejçueshmëri drite më pak se 70%.
