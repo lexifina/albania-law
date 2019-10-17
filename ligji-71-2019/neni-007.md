@@ -1,0 +1,4 @@
+# Neni 7
+Transferimi i pronave shtetërore
+1. Prona shtetërore, në kuptim të këtij ligji, janë pronat e luajtshme, të paluajtshme shtetërore, të drejtat reale mbi to, të drejtat e shfrytëzimit, si dhe titujt e pronësisë së̈ shtetit mbi kapitalin e shoqërive tregtare dhe/ose ndërmarrjeve shtetërore. Kur Korporata identifikon prona shtetërore me interes për të realizuar projekte investimi, i propozon Këshillit të Ministrave, nëpërmjet ministrit përgjegjës për ekonominë, transferimin e tyre te Korporata. Me transferim kuptohet kalimi i së drejtës së përdorimit dhe/ose i së drejtës së pronësisë të pronave shtetërore nga pushteti qendror ose vendor te Korporata.
+2. Kriteret dhe procedurat për dhënien e pronës, e cila ka kaluar te Korporata, sipas pikës 1, të këtij neni, me qira, enfiteozë, leasing, përdorimit, transferimit, shitjes, përdorimit si kolateral, ose të përdorimit në forma të tjera, përcaktohen me vendim të Këshillit të Ministrave.
