@@ -253,9 +253,6 @@ Shënim. Ky modelar do të plotësohet në mbështetje të ligjit nr.10 142, dat
 REPUBLIKA E SHQIPËRISË
 MINISTRIA E .............................
 Nr…….. Prot.
-Modulari nr.3
-Plotësohet nga dikasteri
-Tiranë, më ___________
 VËRTETIM
 PËR VJETËRSINË NË SHËRBIM DHE PAGËN MESATARE REFERUESE
 Emri
