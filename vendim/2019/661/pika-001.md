@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga realizimi i projektit “Rikualifikim i bregliqenit me struktura publike reaktive, zadra/mol panoramik dhe shtigje këmbësore natyrore”.
