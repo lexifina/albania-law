@@ -1,0 +1,1 @@
+4. Ministri përgjegjës për arsimin, miraton prioritetet, termat e shpërndarjes, formën e aplikimit për grantin, si dhe miraton grantin e politikave të zhvillimit të institucioneve publike të arsimit të lartë, mbi bazën e aplikimit apo të prioriteteve strategjike të zhvillimit të vendit.

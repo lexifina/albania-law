@@ -1,0 +1,1 @@
+6. Fondet e miratuara në formë “granti i politikave të zhvillimit”, në programin buxhetor 09450, kapitullin 01, artikulli 230-231, rishpërndahen sipas projekteve me përfitues institucionet publike të arsimit të lartë, në përputhje me përcaktimet e bëra në ligjin vjetor të buxhetit dhe/ose ligjit të arsimit të lartë, në programin buxhetor 09450, kapitullin 01, artikulli 230-231.

@@ -1,0 +1,1 @@
+3. Fondi i projekteve konkurruese për zhvillimin e institucioneve publike të arsimit të lartë shpërndahet mbi bazën e projekteve që ato paraqesin, sipas kritereve të përcaktuara në strategjitë sektoriale dhe në ligjin vjetor të buxhetit.
