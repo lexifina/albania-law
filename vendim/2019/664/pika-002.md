@@ -1,0 +1,1 @@
+2. Zonat minerare, për të cilat do të jepen lejet minerare, nëpërmjet procesit të konkurrimit apo procedurave të hapura, për periudhën 3-vjeçare 2019-2021, janë të përcaktuara në aneksin 1, bashkëlidhur këtij vendimi.
