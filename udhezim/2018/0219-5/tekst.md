@@ -4,6 +4,8 @@ Nr. 5, datë 19.2.2018
 
 PËR PËRCAKTIMIN E ELEMENTEVE PËRBËRËSE TË RAPORTIMIT VJETOR DHE AFATIT PËR RAPORTIM TË INSTITUCIONEVE TË ARSIMIT TË LARTË
 
+(ndryshuar me udhëzimin nr. 24, datë 21.10.2019)
+
 Në mbështetje të nenit 102 të Kushtetutës, të nenit 32, të ligjit nr. 80/2015, “Për arsimin e lartë dhe kërkimin shkencor në institucionet e arsimit të lartë në Republikën e Shqipërisë”, ministri i Arsimit, Sportit dhe Rinisë
 
 UDHËZON:
@@ -20,7 +22,7 @@ c) të nxitë dhe të rritë përgjegjshmërinë, llogaridhënien dhe sigurinë 
 
 d) të paraqesë problemet e konstatuara nga IAL-ja, me qëllim zgjidhjen e tyre, në bashkëpunim me strukturat shtetërore në fushën e arsimit.
 
-3. Raporti vjetor hartohet nga IAL-ja në 1 (një) kopje origjinale në formë të shkruar dhe/ose elektronike dhe i dërgohet zyrtarisht Ministrisë së Arsimit, Sportit dhe Rinisë, brenda muajit shtator të çdo viti. Raporti vjetor mund të dorëzohet edhe në formë elektronike, sipas rastit, i skanuar në formatin PDF.
+3. Raporti vjetor dërgohet nga IAL-ja, zyrtarisht, në Ministrinë e Arsimit, Sportit dhe Rinisë, në 1 (një) kopje origjinale, në formë të shkruar dhe/ose elektronike, brenda muajit dhjetor të çdo viti. Raporti vjetor mund të dorëzohet edhe në formë elektronike, sipas rastit, i skanuar në formatin PDF.
 
 4. Raporti vjetor përgatitet nga Senati Akademik dhe Bordi i Administrimit i institucionit të arsimit të lartë, i strukturuar sipas fushës së tyre të kompetencës ku trajtohen çështjet si më poshtë: 
 
