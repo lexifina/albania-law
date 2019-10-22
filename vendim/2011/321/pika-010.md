@@ -1,1 +1,0 @@
-10. Agjencia Kombëtare e Arsimit, Formimit Profesional dhe Kualifikimeve raporton një herë në vit në Ministrinë e Arsimit dhe Shkencës dhe në Ministrinë e Punës, Çështjeve Sociale dhe Shanseve të Barabarta për çështjet e veprimtarisë së vet.
