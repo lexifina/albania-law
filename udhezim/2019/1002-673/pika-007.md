@@ -1,0 +1,1 @@
+7. Drejtorët dhe nëndrejtorët e spitaleve bashkiake propozohen nga drejtori i drejtorisë rajonale të OSHKSH-së dhe emërohen e lirohen nga drejtori i përgjithshëm i OSHKSH-së. Punonjësit e tjerë nga specialist deri shef shërbimi emërohen nga drejtori i spitalit pasi merr miratim për hapjen e procedurës nga drejtori i drejtorisë rajonale të OSHKSH-së.

@@ -1,0 +1,1 @@
+6. Drejtorët dhe nëndrejtorët e spitaleve rajonale emërohen dhe lirohen nga ministri përgjegjës për shëndetësinë. Punonjësit e tjerë nga specialist deri shef shërbimi emërohen nga drejtori i spitalit pasi merr miratim për hapjen e procedurës nga drejtori i DROSHKSH-së.

@@ -1,0 +1,1 @@
+8. Drejtorët e njësive vendore të kujdesit shëndetësor emërohen dhe lirohen nga drejtori i drejtorisë rajonale të OSHKSH-së, pasi merr miratim nga drejtori i përgjithshëm i OSHKSH-së. Për pozicione e tjera të NJVKSH-së, për të cilat kërkohet arsim i lartë, emërimi dhe lirimi bëhet nga titullari i NJVKSH-së pasi merr miratim nga drejtori i drejtorisë rajonale të OSHKSH-së.
