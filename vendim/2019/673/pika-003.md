@@ -1,0 +1,1 @@
+3. AKAFPK-ja ka për mision sigurimin e një sistemi të unifikuar të kualifikimeve profesionale, të njohura në nivel kombëtar, bazuar në Kornizën Shqiptare të Kualifikimeve (KSHK), si dhe sigurimin e cilësisë së mësuesve/instruktorëve të arsimit e formimit profesional (AFP), nëpërmjet kualifikimit dhe trajnimit të vazhduar.

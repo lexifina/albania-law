@@ -1,0 +1,1 @@
+7. Marrëdhëniet e punës të drejtorit të Përgjithshëm dhe të nëpunësve të AKAFPK-së rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë të AKAFPK-së rregullohen në bazë të dispozitave të Kodit të Punës.

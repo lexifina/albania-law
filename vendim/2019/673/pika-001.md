@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Agjencisë Kombëtare të Arsimit, Formimit Profesional dhe Kualifikimeve (këtu e më poshtë AKAFPK), si person juridik publik, buxhetor, në varësi të ministrit përgjegjës për arsimin dhe formimin profesional (këtu e më poshtë ministri), me seli në Tiranë.

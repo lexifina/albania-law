@@ -1,0 +1,1 @@
+6. AKAFPK-ja drejtohet nga drejtori i Përgjithshëm, që e përfaqëson në marrëdhënie me të tretët dhe ka për detyrë të organizojë, të administrojë e të drejtojë veprimtarinë e AKAFPK-së duke zbatuar politika efektive në menaxhimin e burimeve njerëzore e financiare, në përputhje me legjislacionin në fuqi.
