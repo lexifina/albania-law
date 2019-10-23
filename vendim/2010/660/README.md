@@ -1,9 +1,9 @@
 # PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME, SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI DREJTORISË SË PËRGJITHSHME TË ARKIVAVE
 
-Official source: [Vendimi i Këshillit të Ministrave nr. 660, datë 4.8.2010](https://qbz.gov.al/api/v1/acts/56441).
+Official source: [Vendimi i Këshillit të Ministrave nr. 660, datë 4.8.2010](https://qbz.gov.al/api/v1/acts/56441); [QBZ versions](https://qbz.gov.al/api/v1/acts/56441/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2010-08-04; published 2010-09-02; in force 2010-09-02.
+Status of this text: `official consolidated version 1`, applying from 2019-10-23; after QBZ act 64541 (nr. 682).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
