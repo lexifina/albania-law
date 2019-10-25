@@ -1,0 +1,1 @@
+3. Urdhri nr. 298, datë 2.7.2008, për miratimin e rregullores “Mbi vendosjen e kritereve për planet kombëtare për përshpejtimin e çrrënjosjes së brucelozës, tuberkulozit dhe leukozës enzotike në gjedhë”, shfuqizohet.

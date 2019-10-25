@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi vendosjes e kritereve për planet kombëtare për përshpejtimin e çrrënjosjes së brucelozës, tuberkulozit dhe leukozës enzootike në gjedhë”, sipas tekstit bashkëlidhur këtij urdhri.
