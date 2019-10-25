@@ -1,6 +1,6 @@
 Kreu 1
-Statusi, Misioni, të drejtat dhe detyrat e qeverisë së nxënësve
-I. Statusi
+STATUSI, MISIONI, TË DREJTAT DHE DETYRAT E QEVERISË SË NXËNËSVE
+I. STATUSI
 Qeveria e nxënësve është organizëm që ngrihet me nismën e nxënësve të shkollës.
 II. Misioni
 Qeveria e nxënësve është një organizëm i ngritur në çdo shkollë dhe ka për mision:
@@ -17,11 +17,15 @@ d) të bashkëpunojë me qeveri homologe nxënësish për organizimin e veprimta
 e) t’i drejtohet komisionit të etikës dhe sjelljes të shkollës dhe çdo organizimi tjetër për çdo formë veprimi ose mosveprimi që mund të shkaktojë diskriminim, dhunë, keqtrajtim ose dëm moral te nxënësit në mjediset e shkollës.
 IV. Detyrat e qeverisë së nxënësve
 Qeveria e nxënësve ka për detyrë:
-a) të organizojë veprimtari nëpërmjet të cilave nxënësve u jepet mundësia të dëgjohen nga drejtuesit dhe mësuesit e shkollës për idetë në të mirë të tyre dhe të shkollës;
+a) të organizojë veprimtari nëpërmjet të cilave nxënësve t’u jepet mundësia të dëgjohen nga drejtuesit dhe mësuesit e shkollës për idetë në të mirë të tyre dhe të shkollës;
 b) të organizojë veprimtari të nxënësve në dobi të shkollës;
-c) të kontribuojë në krijimin e një klime pozitive në shkollë, veçanërisht në zgjidhjen e konflikteve nxënës-nxënës, nxënës-mësues;
-d) të kontribuojë në parandalimin dhe pakësimin e abuzimit të nxënësve me duhanin, alkoolin dhe drogat, si dhe të braktisjes së shkollës;
-e) të organizojë ndihmë ndaj nxënësve me vështirësi në të nxënë ose me probleme sociale.
+c) të organizojë veprimtari që ndikojnë në rritjen e pjesëmarrjes së nxënësve në proceset vendimmarrëse;
+d) të organizojë veprimtari që edukojnë vlera dhe qëndrime demokratike;
+e) të kontribuojë në krijimin e një klime pozitive në shkollë, veçanërisht në zgjidhjen e konflikteve nxënës-nxënës, nxënës-mësues;
+f) të kontribuojë në parandalimin dhe pakësimin e abuzimit të nxënësve me duhanin, alkoolin dhe drogat, bulizmin, si dhe të braktisjes së shkollës;
+g) të kontribuojë në ndërgjegjësimin e nxënësve për problemet sociale brenda dhe jashtë shkollës;
+h) të aftësojë nxënësit për zgjidhjen e problemeve me të cilat ndeshet grup-mosha e tyre;
+i) të zgjedhë një herë në dy vjet nxënësit e shkollës, që do të kandidojnë për Parlamentin e Nxënësve të Shqipërisë, nga kuotat e përcaktuara për kategoritë e veçanta të nxënësve.
 Kreu 2
-Ngritja e qeverisë së nxënësve, përbërja dhe funksionimi i saj
-I. Ngritja e qeverisë së nxënësve dhe përbërja e saj
+NGRITJA E QEVERISË SË NXËNËSVE, PËRBËRJA DHE FUNKSIONIMI I SAJ
+I. NGRITJA E QEVERISË SË NXËNËSVE
