@@ -32,6 +32,7 @@ a) Nuk kanë të firmosur marrëveshjen e performancës midis AKUM-it dhe njësi
 b) Nuk kanë dërguar të dhëna, ose të dhënat nuk janë të sakta për vlerësimin e performancës së tyre sipas formatit të kërkuar nga AKUM-i.
 8. Subvencioni i akorduar nga buxheti i shtetit, sipas pikës 1 të kësaj metodologjie, për shoqëritë e ujësjellës-kanalizimeve, do të përdoret sipas përcaktimeve si më poshtë:
 a) Në rastin kur fondi i subvencionit është dhënë me destinacion mbulimin e KDO-së, sipas pikës 3.a., ai do të përdoret nga sh.a. UK për blerje klori si dhe për të paguar faturat e energjisë elektrike.
+Me vendim të Këshillit Bashkiak, për nevoja emergjente të shoqërisë, për të mos penguar funksionimin normal të aktivitetit të saj, mund të bëhet ndryshim i destinacionit të përdorimit të subvencionit, brenda zërave të kostos direkte të operimit.
 b) Në rastin e përfitimit të subvencionit, për të mbështetur dhe nxitur përmirësimin e performancës së sh.a. UK, sipas pikës 4/a, të kësaj metodologjie, fondi përdoret nga sh.a. UK, sipas prioriteteve, të listuara më poshtë:
 i. për pajisjen me matës prodhimi dhe aparate klorifikimi;
 ii. për pajisjen me matës konsumi;
