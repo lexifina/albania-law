@@ -1,9 +1,9 @@
 # PËR LICENCIMIN E SHA UJËSJELLËS-KANALIZIME DIBËR
 
-Official source: [Vendim nr. 47, datë 13.6.2018 (Enti Rregullator i Ujit)](https://qbz.gov.al/api/v1/acts/56008).
+Official source: [Vendim nr. 47, datë 13.6.2018 (Enti Rregullator i Ujit)](https://qbz.gov.al/api/v1/acts/56008); [QBZ versions](https://qbz.gov.al/api/v1/acts/56008/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2018-06-13; published 2018-07-12; in force 2018-07-12.
+Status of this text: `official consolidated version 1`, applying from 2019-10-28; after QBZ act 20791 (nr. 54).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
