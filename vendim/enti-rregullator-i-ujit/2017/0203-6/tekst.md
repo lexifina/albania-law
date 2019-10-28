@@ -4,7 +4,7 @@ Nr. 6, datë 3.2.2017
 
 PËR LICENCIMIN E SHA UJËSJELLËS KANALIZIME GJIROKASTËR
 
-(ndryshuar me vendimet: nr. 52, datë 6.7.2018 dhe nr. 19, datë 19.4.2019)
+(ndryshuar me vendimet: nr. 52, datë 6.7.2018 dhe nr. 19, datë 19.4.2019, nr. 57, datë 28.10.2019)
 
 Në mbështetje të nenit 14, pika 1/a, nenit 17 të ligjit nr. 8102, datë 28.3.1996 “Për kuadrin rregullator të sektorit të furnizimit me ujë dhe largimit e përpunimit të ujërave të ndotura”, si dhe VKM-së nr. 958, datë 6.5.2009 “Për miratimin e kategorive të licencimit dhe të procedurave për aplikim për licence”, Komisioni Kombëtar Rregullator
 
@@ -12,7 +12,7 @@ VENDOSI:
 
 1.	Licencimin e operatorit sh.a Ujësjellës Kanalizime Gjirokastër, me:
 
-- Drejtues ligjor:	Dhimitri Kristidhi
+- Drejtues ligjor 	Gentian Llogo
 
 - Drejtues teknik:	 Bashkim Tola
 
