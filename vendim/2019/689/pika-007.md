@@ -1,0 +1,1 @@
+7. Projektvendimi përmban emërtimin e kurorës së gjelbër, sipërfaqen e përgjithshme, kufijtë dhe hartën e zoonimit, koordinatat gjeografike të kufijve, si dhe objektivat e ruajtjes, të administrimit e menaxhimit të saj.

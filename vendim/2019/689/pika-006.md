@@ -1,0 +1,1 @@
+6. Pas përfundimit të studimit dhe mbi bazën e tij, brenda 1 (një) muaji përgatitet nga strukturat përkatëse të bashkisë projektvendimi i Këshillit Bashkiak, që propozon shpalljen “kurorë e gjelbër”. Projektvendimi, së bashku me studimin, i cili është pjesë përbërëse e tij, shqyrtohet në mbledhjen e radhës së këshillit bashkiak.
