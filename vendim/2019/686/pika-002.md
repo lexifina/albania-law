@@ -1,0 +1,1 @@
+2. Institucioni arsimor vendor, përgjegjës për arsimin parauniversitar, i paguan praktikantit, çdo muaj, kontributet e sigurimeve shoqërore dhe shëndetësore, sipas parashikimeve të legjislacionit në fuqi.

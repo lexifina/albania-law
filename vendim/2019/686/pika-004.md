@@ -1,0 +1,1 @@
+4. Efektet financiare për pagesën e kontributeve të sigurimeve shoqërore e shëndetësore, që rrjedhin nga zbatimi i këtij vendimi, për vitin 2019 mbulohen nga fondet e miratuara për Ministrinë e Arsimit, Sportit dhe Rinisë në buxhetin e vitit 2019, sipas numrit të praktikantëve të pranuar nga institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar.

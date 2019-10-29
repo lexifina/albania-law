@@ -1,0 +1,1 @@
+3. Shpërndarja e numrit të praktikantëve për kryerjen e praktikës profesionale, me kontratë të përkohshme, për të gjitha institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar, për secilin vit shkollor, bëhet me urdhër të ministrit përgjegjës për arsimin, bazuar në kërkesat e institucioneve arsimore vendore, përgjegjëse për arsimin parauniversitar.
