@@ -1,0 +1,1 @@
+2. Fondet, sipas shkronjave “a”, “b” dhe “c”, të pikës 1, në shumën e përgjithshme 30 120 000 (tridhjetë milionë e njëqind e njëzet mijë) lekë, të përballohen nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2019, sipas shtojcës nr. 1, që i bashkëlidhet këtij vendimi.
