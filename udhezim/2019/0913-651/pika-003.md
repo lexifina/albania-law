@@ -1,0 +1,1 @@
+3. Strukturat për mbrojtjen e fëmijës në njësitë e vetëqeverisjes vendore, marrin masa për vendosjen e njoftimeve me informacionin e kontaktit në të gjitha institucionet publike apo private të përkujdesjes shoqërore për fëmijët, të arsimit e të shëndetësisë, strukturat e policisë dhe personat juridikë, publikë dhe privatë, për të lehtësuar raportimin.

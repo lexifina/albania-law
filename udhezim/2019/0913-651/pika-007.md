@@ -1,0 +1,1 @@
+7. Raportimi bëhet nëpërmjet formularit të raportimit të fëmijës në nevojë për mbrojtje të përcaktuar në aneksin 2, vendimin nr. 578, datë 3.10.2018, “Për procedurat e referimit e të menaxhimit të rastit, hartimin dhe përmbajtjen e planit individual të mbrojtjes, financimin e shpenzimeve për zbatimin e tij, si dhe zbatimin e masave të mbrojtjes”.

@@ -1,0 +1,1 @@
+8. Formulari i plotësuar dërgohet në mënyrë elektronike apo me postë te punonjësi për mbrojtjen e fëmijës, përgjegjës për territorin ku është bërë identifikimi i rastit. Në formular hidhet i gjithë informacioni dhe të gjitha detajet e ditura nga personi apo personat, të cilët janë në dijeni dhe kanë raportuar rastin.

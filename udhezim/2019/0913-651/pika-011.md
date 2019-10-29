@@ -1,0 +1,1 @@
+11. Punonjësi për mbrojtjen e fëmijës me marrjen e raportimit dhe regjistrimin e tij në regjistër, ka detyrimin të ndërmarrë të gjitha masat e veprimet e nevojshme për verifikimin e informacionit të dhënë dhe fillimin ose jo të vlerësimit fillestar të rastit.

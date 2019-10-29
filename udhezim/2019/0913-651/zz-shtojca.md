@@ -1,0 +1,6 @@
+# Shtojca
+MINISTËR I SHËNDETËSISË
+DHE MBROJTJES SOCIALE
+Ogerta Manastirliu
+MINISTËR I BRENDSHËM
+Sandër Lleshaj

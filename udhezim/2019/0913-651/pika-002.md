@@ -1,0 +1,1 @@
+2. Personat fizikë ose juridikë, të përmendur në pikën 1 të këtij udhëzimi, kanë detyrimin ligjor të raportojnë pranë organeve të Policisë së Shtetit ose strukturave për mbrojtjen e fëmijës në nivel vendor, për çdo rast të dyshuar apo të ndodhur të abuzimit, neglizhimit, keqtrajtimit apo shfrytëzimit të fëmijës.
