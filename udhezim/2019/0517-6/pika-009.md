@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Rezervave Materiale të Shtetit, pas përfundimit të procedurave të ankandit, njofton Drejtorinë e Përgjithshme të Shërbimeve të Transportit Rrugor me listë zyrtare për heqjen nga qarkullimi dhe çregjistrimin e tyre.

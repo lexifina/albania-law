@@ -1,0 +1,1 @@
+1. Drejtoria e Përgjithshme e Rezervave Materiale të Shtetit është përgjegjëse për marrjen e masave të nevojshme për pranimin dhe marrjen në dorëzim të automjeteve dhe motomjeteve që kalojnë në Rezervat Materiale të Shtetit, si pasojë e konfiskimit.
