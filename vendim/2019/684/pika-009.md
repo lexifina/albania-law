@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës dhe Drejtoria Vendore Fier të pezullojnë të gjitha transaksionet me pasuritë e shpronësuara, deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale.
