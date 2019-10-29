@@ -1,0 +1,1 @@
+1. Lejimin e Drejtorisë së Shërbimeve Qeveritare për dhënien me qira, me tarifë të reduktuar, të sallës B, kati 0 (underground), me sipërfaqe 243 (dyqind e dyzet e tre) m2, të ndodhur në ambientet e Pallatit të Kongreseve, Komisionit të Jashtëm të Vlerësimit, me qëllim zhvillimin e seancave dëgjimore.
