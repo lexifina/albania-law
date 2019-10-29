@@ -25,6 +25,7 @@ Termat e përdorur në këtë rregullore kanë të njëjtin kuptim me ata të p�
 13. “Këshillim publik”, takim i hapur, akt konsultimi me publikun ku tentohet tërheqja e mendimeve dhe sugjerimeve të palëve të interesuara për përmbajtjen dhe përmirësimin e projektaktit, nga momenti i publikimit të projektaktit deri në miratimin përfundimtar të tij.
 14. “Konservim”, procesi i ruajtjes dhe i mbrojtjes së një territori ose ndërtimi të caktuar në formën e tij ekzistuese/aktuale.
 15. “Konsolidim”, procesi i zhvillimit të territorit, i cili ka për qëllim përmirësimin dhe forcimin e infrastrukturës e të strukturës urbane ekzistuese, duke nxitur ndërtimin brenda zonave të urbanizuara.
+15/1 “Konsolidim urban”, është procesi i densifikimit dhe i mbushjes urbane të njësisë strukturore apo të një a më shumë pjesëve të saj, të cilat janë të zhvilluara në mënyrë homogjene, sa u përket kushteve të zhvillimit, ndërtimeve në territor, si dhe rrjetit rrugor e infrastrukturor.
 16. “Ligj”, ligji nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar.
 17 “Metabolizmi i territorit”, modeli që përdoret për identifikimin dhe analizën e flukseve të materialeve dhe të energjisë brenda territoreve të caktuara.
 18. “Njësi”, njësia strukturore e territorit që përdoret për qëllime planifikimi, pjesë përbërëse e zonës.
@@ -131,7 +132,7 @@ Monitorimi i zbatimit të dokumentit të planifikimit
 3. Nëse, gjatë zbatimit të dokumenteve të planifikimit, lind nevoja e korrigjimit të dokumenteve të planifikimit, sipas rasteve të përcaktuara në pikën 38, të nenit 2, të këtij vendimi, autoriteti përgjegjës për planifikimin e territorit përgatit një relacion shpjegues dhe njofton Agjencinë për konstatimet. Agjencia, në bashkëpunim me autoritetin përgjegjës për planifikimin, shqyrton dhe vlerëson rastet e konstatuara. Në përfundim të këtij procesi, Agjencia dërgon në KKT kërkesën për miratimin e vendimit për korrigjimin e dokumentit të planifikimit, shoqëruar nga një relacion shpjegues. Vendimi hyn në fuqi pas botimit në Regjistrin Kombëtar të Planifikimit të Territorit.
 Neni 11
 Rishikimi i dokumentit të planifikimit dhe procedura e thjeshtuar
-1. Rishikimi i dokumentit të planifikimit kryhet në përputhje me nenin 26 të ligjit.
+1. Rishikimi i dokumentit të planifikimit kryhet në përputhje me nenin 26, të ligjit, për shkak të forcave madhore, si: tërmete, përmbytje, zjarre masive, rrëshqitje të tokës, erozion etj., të ngjashme, për shkak të ndarjeve administrative e territoriale, ndryshimeve të paparashikuara demografike, sociale e ekonomike, ndryshimeve të shkaktuara nga kriza sektoriale, si edhe kur lind nevoja e harmonizimit me dokumente të një niveli më të lartë planifikimi apo me ndryshime të kuadrit ligjor në fushën e mbrojtjes e të menaxhimit të territorit, si dhe për arsye të përafrimit me legjislacionin e Bashkimit Evropian.
 2. Rishikimi i çdo dokumenti planifikimi kryhet në përputhje me seksionet përkatëse në këtë rregullore, ku tregohen procesi dhe përmbajtja e dokumentit.
 3. Në disa raste, procesi i rishikimit të dokumentit të planifikimit realizohet duke ndjekur një procedurë të thjeshtuar, e cila ka për qëllim të shkurtojë afatet e procesit të planifikimit, këshillimit e të bashkërendimit, të përjashtojë miratimin e nismës dhe të trajtojë vetëm pjesët e dokumentit të planifikimit, subjekt rishikimi, në varësi të rastit dhe nevojave.
 4. Procedura e thjeshtuar ndiqet kur rishikimi i dokumentit të planifikimit bëhet për një pjesë të territorit dhe kur përmbushen kriteret e mëposhtme:
@@ -262,7 +263,22 @@ SEKSIONI 4
 PLANI KOMBËTAR SEKTORIAL
 Neni 22
 Objekti i PKS-së
-1. Planet kombëtare sektoriale hartohen nga ministritë me qëllim zhvillimin strategjik të një ose më shumë sektorëve sipas fushave të kompetencës, si: siguria kombëtare, energjia, industria, transporti, infrastruktura, turizmi, zonat ekonomike, arsimi, sporti, trashëgimia kulturore dhe natyrore, burimet natyrore, shëndetësia, bujqësia, infrastruktura e ujit etj.
+1. Planet kombëtare sektoriale hartohen nga ministritë, me qëllim zhvillimin strategjik të një ose më shumë sektorëve, sipas fushave të kompetencës, si:
+a) siguria kombëtare;
+b) mbrojtja nga fatkeqësitë natyrore, të lidhura me: sizmicitetin, hidrogjeologjinë, hidrografinë, gjeologo-inxhinierinë, ndryshimet klimatike etj.;
+c) energjia;
+ç) industria;
+d) transporti;
+dh) infrastruktura;
+e) turizmi;
+ë) zonat detare dhe infrastruktura e ujit;
+f) zonat ekonomike;
+g) arsimi;
+gj) sporti;
+h) trashëgimia kulturore dhe natyrore;
+i) burimet natyrore;
+j) shëndetësia;
+k) bujqësia etj.
 2. Plani Kombëtar Sektorial mund të hartohet për të gjithë territorin e Republikës së Shqipërisë apo për pjesë të tij, në varësi të sektorit dhe interesit kombëtar.
 3. Plani Kombëtar Sektorial, teksa hartohet e zbatohet, duhet të ndjekë parimet e planifikimit si një proces pune në vazhdimësi.
 Neni 23
@@ -1243,6 +1259,7 @@ SEKSIONI 1
 STANDARDE DHE TREGUES PËR PLANIFIKIMIN E TERRITORIT
 Neni 82
 Standardet dhe treguesit e planifikimit
+(shkronja “f”, e pikës 2 me VKM nr. 694, datë 2.10.2019)
 1. Standardet dhe treguesit e planifikimit të territorit përfaqësojnë norma e referenca që përdoren gjatë procesit të planifikimit për të mundësuar një zhvillim të qëndrueshëm të territorit.
 2. Standardet dhe treguesit e planifikimit të territorit vendosen kryesisht për sistemin urban dhe për sektorë të ndryshëm, në përputhje me legjislacionin e posaçëm dhe zbatohen, për:
 a) banimin;
@@ -1253,7 +1270,7 @@ d) terrenet sportive;
 dh) parkimin;
 e) infrastrukturën;
 ë) brezat mbrojtës;
-f) etj.
+f) zhvillimet në zonat e rrezikuara nga fatkeqësitë natyrore, tërmete, përmbytje, zjarre masive, rrëshqitje të tokës, erozion etj.
 3. Standardet dhe treguesit e planifikimit të territorit përcaktohen në një dokument të posaçëm, hartuar nga Agjencia dhe zbatohen nga të gjitha autoritetet përgjegjëse për planifikimin gjatë hartimit të dokumenteve të planifikimit.
 4. Rregullat, kushtet, standardet dhe treguesit e planifikimit të territorit ndryshojnë sipas situatës ekzistuese dhe të parashikuar të zonës që studiohet, në lidhje me përdorimin e tokës, llojet e strukturave, tipologjitë hapësinore, funksionet, aktivitetet dhe me kushte të vendosura nga legjislacioni i posaçëm.
 SEKSIONI 2
