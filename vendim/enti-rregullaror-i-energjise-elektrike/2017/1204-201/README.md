@@ -1,9 +1,9 @@
 # PËR MIRATIMIN E “METODOLOGJISË SË PËRCAKTIMIT TË ÇMIMIT TË SHITJES SË ENERGJISË ELEKTRIKE NGA FURNIZUESI I MUNDËSISË  SË FUNDIT”
 
-Official source: [Vendim nr. 201, datë 4.12.2017 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/65423).
+Official source: [Vendim nr. 201, datë 4.12.2017 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/65423); [QBZ versions](https://qbz.gov.al/api/v1/acts/65423/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2017-12-04; published 2017-12-15; in force 2017-12-15.
+Status of this text: `official consolidated version 1`, applying from 2019-10-29; after QBZ act 60949 (nr. 155).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
