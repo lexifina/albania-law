@@ -1,1 +1,2 @@
 10. Xhiroja mesatare vjetore e tri viteve të fundit të jetë jo më pak se 50% e planit të investimit. Në rast të paraqitjes së kërkesës nga një bashkim i përkohshëm operatoresh, detyrimisht të paraqitet kontratë noteriale bashkëpunimi, si dhe prokure e posaçme. Në kontratën e bashkëpunimit të përcaktohen qartë të gjitha mallrat/shërbimet/ punët që merr përsipër për të realizuar gjithsecili.
+10/1. Pika 10 e kreut III, nuk zbatohet në rast se paraqitet një konkurrent i vetëm. Ky përjashtim nuk zbatohet në rastin e lagunave bregdetare dhe të akuakulturës.
