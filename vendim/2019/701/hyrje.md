@@ -1,0 +1,5 @@
+VENDIM
+Nr. 701, datë 30.10.2019
+PËR DHËNIEN E MIRATIMIT PËR LIDHJEN E KONTRATËS SË QIRASË ME TARIFËN 1 EURO/KONTRATA, NDËRMJET MINISTRISË SË FINANCAVE DHE EKONOMISË, SI QIRADHËNËS, DHE SHOQËRISË “ROZAFA” SHPK, SI QIRAMARRËS, PËR PASURINË SHTETËRORE “SEKTORI AUTOPARK, ISH-PARKU I MINIERËS SË HEKUR-NIKELIT, PËRRENJAS”, ME NUMËR PASURIE 4/240, ZONA KADASTRALE 2924, NË PËRGJEGJËSI ADMINISTRIMI TË NDËRMARRJES INDUSTRIALE NR. 1, TIRANË
+Në mbështetje të nenit 100 të Kushtetutës, të ligjit nr. 9967, datë 24.7.2008 “Për miratimin e aktit normativ, me fuqinë e ligjit nr. 4, datë 9.7.2008, të Këshillit të Ministrave, ’Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore, të ndërmarrjeve apo objekteve të veçanta, mjeteve të xhiros së këtyre ndërmarrjeve’”, dhe të vendimit nr. 54, datë 5.2.2014, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurës dhe mënyrës së dhënies me qira, enfiteozë apo kontratave të tjera të pasurisë shtetërore”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
