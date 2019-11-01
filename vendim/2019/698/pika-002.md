@@ -1,0 +1,1 @@
+2. Misioni i Posaçëm në Kiev, Ukrainë, do të ndjekë zhvillimet politike në vend dhe do të pasqyrojë aktivitetin e grupit tripalësh të Kontaktit të OSBE-së për Ukrainën, në kuadër të marrjes së kryesisë së radhës së OSBE-së nga Shqipëria për vitin 2020, deri në mbarimin e kryesisë së radhës së OSBE-së nga Shqipëria.
