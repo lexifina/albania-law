@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Elbasan, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me nr. 316, zona kadastrale 2281, Bashkia Cërrik.
