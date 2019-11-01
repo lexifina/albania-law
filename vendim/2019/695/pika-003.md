@@ -1,0 +1,1 @@
+3. Komisioni ngarkohet për administrimin e ujërave ndërkufitare, administrimin e marrëdhënieve me shtetet kufitare për këto ujëra, duke u bazuar në legjislacionin shqiptar, në marrëveshjet ndërkombëtare, konventat dhe protokollet e nënshkruara nga Republika e Shqipërisë.

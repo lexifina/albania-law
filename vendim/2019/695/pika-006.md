@@ -1,0 +1,1 @@
+6. Vendimi nr. 177, datë 26.3.2014, i Këshillit të Ministrave, “Për krijimin, përbërjen, funksionimin, përgjegjësitë dhe detyrat e Komisionit të Posaçëm për Administrimin e Ujërave Ndërkufitare”, i ndryshuar, shfuqizohet.
