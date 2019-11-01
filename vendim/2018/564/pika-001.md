@@ -1,1 +1,0 @@
-1. Dhurimin UNESCO-s të ikonës “Ngjallja e Llazarit”, në kuadër të 60-vjetorit të anëtarësimit të Shqipërisë në këtë organizatë, me të dhënat sipas tabelës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
