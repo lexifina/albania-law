@@ -1,1 +1,0 @@
-4. Administrimi i integruar i burimeve ujore në Republikën e Shqipërisë, në nivel baseni ujor, të kryhet mbi bazën e kufijve të rinj territorialë, të përcaktuar nga analiza e kufijve hidrografikë, sipas hartave bashkëlidhur këtij vendimi.
