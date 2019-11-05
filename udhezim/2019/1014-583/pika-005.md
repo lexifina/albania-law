@@ -1,0 +1,1 @@
+5. Kalimi në administrim direkt i pasurive kulturore publike, në favor të institucioneve publike qendrore ose njësive të vetëqeverisjes vendore bëhet me vendim të Këshillit të Ministrave me propozim të ministrisë përgjegjëse për trashëgiminë kulturore.

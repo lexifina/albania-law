@@ -1,0 +1,1 @@
+4. Pasuria kulturore publike u kalon në administrim subjekteve të përcaktuara në pikën 1 të këtij kreu me qëllim mbrojtjen, ruajtjen, restaurimin, vlerësimin dhe dhënien në përdorim sipas formave të parashikuara në ligjin nr. 27/2018 “Për trashëgiminë kulturore dhe muzetë”.

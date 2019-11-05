@@ -1,0 +1,1 @@
+7. Kalimi në administrim indirekt të pasurive kulturore “me rëndësi universale” fondacioneve të themeluara nga institucionet e specializuara ose ministria përgjegjëse për trashëgiminë kulturore, ose fondacioneve të posaçme të bashkëthemeluara nga ministria përgjegjëse për trashëgiminë kulturore me partnerë strategjikë, miratohet nga Kuvendi.

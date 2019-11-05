@@ -1,0 +1,1 @@
+3. Në rastin e shkronjës “a”, të pikës 2, të këtij kreu, pasuritë kulturore publike të luajtshme kalojnë në administrim së bashku me pasurinë kulturore publike të paluajtshme sipas parashikimeve në marrëveshjen e administrimit.

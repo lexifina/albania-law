@@ -1,0 +1,1 @@
+10. Marrëveshja e nënshkruar miratohet nga Këshilli i Ministrave në rastin e kalimit të administrimit të pasurisë kulturore “me rëndësi kombëtare”, e më pas nga Kuvendi në rastin e kalimit të administrimit të pasurisë kulturore “me rëndësi universale”.
