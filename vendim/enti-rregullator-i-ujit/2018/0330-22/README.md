@@ -1,9 +1,9 @@
 # PËR LICENCIMIN E SHA UJËSJELLËS-KANALIZIME RROGOZHINË
 
-Official source: [Vendim nr. 22, datë 30.3.2018 (Enti Rregullator i Ujit)](https://qbz.gov.al/api/v1/acts/61643).
+Official source: [Vendim nr. 22, datë 30.3.2018 (Enti Rregullator i Ujit)](https://qbz.gov.al/api/v1/acts/61643); [QBZ versions](https://qbz.gov.al/api/v1/acts/61643/versions).
 
-Status of this text: `amended, not consolidated`. Adopted 2018-03-30; published 2018-04-20; in force 2018-04-20.
+Status of this text: `official consolidated version 1`, applying from 2019-11-05; after QBZ act 20882 (nr. 58).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
-Paragraphs are preserved from the official Word document. This is a single-file act.
+Paragraphs and publisher annotations are preserved from the official Word document. Earlier texts are earlier git commits of this folder.
