@@ -1,0 +1,21 @@
+# Neni 30
+Procedurat e dhënies së lejeve minerare
+1. Leja minerare jepet nga Qendra Kombëtare e Licencimit, në përputhje me ligjin nr.10 081, datë 23.2.2009 “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”, sipas procedurës së konkurrimit publik, për zonat e publikuara, sipas programit të veprimit dhe planit vjetor minerar dhe/apo shqyrtimit të plotësimit të kushteve të lejimit për zonat e hapura, sipas procedurës “I pari në kohë, i pari në të drejta”. Procedura e shqyrtimit të kërkesave për zonat e hapura, përcaktohet me vendim të Këshillit të Ministrave.
+2. Lejet minerare të përcaktuara në këtë ligj përfshihen në kategorinë IV.1 të shtojcës së ligjit nr. 10 081, datë 23.2.2009 “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë”. Këshilli i Ministrave vendos për dhënien e lejes, sipas ligjit nr. 10 081, datë 23.2.2009 “Për licencat, autorizimet dhe lejet në Republikën e Shqipërisë” ose sipas dispozitave të këtij ligji, sipas ndarjes në nënkategori. Në rastin e dytë nuk zbatohet parimi i miratimit në heshtje.
+3. Për lejet e kërkim-zbulimit, vendimi përfundimtar i miratimit të lejes njoftohet dhe hyn në fuqi në datën e publikimit në Regjistrin Kombëtar të Licencave dhe Lejeve, sipas legjislacionit në fuqi.
+4. Për lejet, që përfshijnë shfrytëzimin, vendimi përfundimtar i miratimit, përveç rasteve kur, sipas këtij ligji, parashikohet miratimi nga Këshilli i Ministrave ose nga Kuvendi, njoftohet nëpërmjet publikimit në Regjistrin Kombëtar të Licencave dhe Lejeve, në përputhje me legjislacionin në fuqi.
+5. Kërkuesi i lejes minerare, që përfshin kërkim-zbulimin dhe shfrytëzimin, duhet të paraqesë dokumentin e garancisë financiare, për zbatimin e planit të rehabilitimit të mjedisit të zonës minerare, që përfshin mbylljen e veprimtarisë minerare, rehabilitimin e sheshit të depozitimit të mbetjeve minerare dhe rehabilitimin e mjedisit të zonës minerare, jo më vonë se 30 ditë kalendarike nga data:
+a) e njoftimit të vendimit të miratimit, sipas pikave 3 e 4 të këtij neni;
+b) e publikimit në Fletoren Zyrtare të vendimit të Këshillit të Ministrave për miratimin e lejes, sipas pikës 2 të nenit 28 të këtij ligji;
+c) e publikimit në Fletoren Zyrtare të miratimit nga Kuvendi për lejet me afat deri në 99 vjet, sipas neneve 16 pika 5, 24 pika 9 dhe 28 pika 5 të këtij ligji.
+6. Kërkuesi i lejes minerare të kërkim-zbulimit duhet të paraqesë dokumentin e garancisë financiare për zbatimin e programit minimal të punës, jo më vonë se 30 ditë kalendarike nga data:
+a) e njoftimit të vendimit të miratimit, sipas pikës 3 të këtij neni;
+b) e publikimit në Fletoren Zyrtare të vendimit të Këshillit të Ministrave për miratimin e lejes, sipas pikës 2 të nenit 28 të këtij ligji.
+7. Kërkuesi i lejes minerare të shfrytëzimit duhet të paraqesë dokumentin e garancisë financiare për realizimin e investimit, jo më vonë se 30 ditë kalendarike nga data:
+a) e njoftimit të vendimit të miratimit sipas pikës 4 të këtij neni;
+b) e publikimit në Fletoren Zyrtare të vendimit të Këshillit të Ministrave për miratimin e lejes, sipas pikës 2 të nenit 28 të këtij ligji;
+c) e publikimit në Fletoren Zyrtare të miratimit nga Kuvendi për lejet me afat deri në 99 vjet, sipas neneve 16 pika 5 e 24 pika 9 e 28 pika 5 të këtij ligji.
+8. Leja minerare, që përfshin shfrytëzimin, hyn në fuqi pas plotësimit të detyrimit, sipas pikave 5 e 7 të këtij neni, dhe publikohet në Regjistrin Kombëtar të Licencave dhe Lejeve, në përputhje me legjislacionin në fuqi. Data e publikimit është data e hyrjes në fuqi.
+9. Lejet minerare, që përfshijnë kërkim-zbulimin, hyjnë në fuqi pas plotësimit të detyrimit, sipas pikave 5 e 6 të këtij neni, dhe publikohen në Regjistrin Kombëtar të Licencave dhe Lejeve, në përputhje me legjislacionin në fuqi. Data e publikimit është data e hyrjes në fuqi.
+10. Në rast mosparaqitjeje të dokumenteve brenda afatit të parashikuar në pikat 5, 6 e 7 të këtij neni, vendimi për miratimin e lejes minerare vlerësohet automatikisht i revokuar.
+11. Kushtet e hollësishme të lejimit për përfitimin e lejes, dokumentet shoqëruese, afatet për vlerësimin e përmbushjes së kushteve, afati për paraqitjen e dokumenteve, që provojnë plotësimin e kushteve, organi kompetent për shqyrtimin e kushteve të lejimit e procedurat e shqyrtimit e të miratimit të lejeve minerare përcaktohen nga Këshilli i Ministrave.

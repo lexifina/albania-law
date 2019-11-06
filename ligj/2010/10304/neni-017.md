@@ -1,0 +1,9 @@
+# Neni 17
+Të drejtat e zotëruesit të lejes së shfrytëzimit për grupin e mineraleve metalore, jometalore, qymyret dhe bitumet
+1. Zotëruesi i lejes së shfrytëzimit për grupin e mineraleve metalore, jometalore, qymyret dhe bitumet ka këto të drejta:
+a) të kryejë veprimet e nevojshme për të realizuar me efektivitet operacionet minerare në zonën e vet, të lejuar për shfrytëzim;
+b) të nxjerrë dhe të lëvizë nga zona e vet e lejuar mineralin ose mineralet, për të cilat i është dhënë leja e shfrytëzimit;
+c) të instalojë dhe të vërë në punë, brenda zonës së lejuar, objekte përpunimi, pasurimi, shkrirjeje, rafinimi, që rrisin vlerën e mineraleve të nxjerra në atë zonë, të lejuar për shfrytëzim, pasi të ketë marrë lejet përkatëse për veprimtari të tilla, në përputhje me legjislacionin në fuqi;
+ç) të ndërtojë, të instalojë dhe të vërë në punë, brenda zonës së lejuar, ndërtesa, kampe, mjedise depozituese, tubacione, gjeneratorë elektrikë, pajisje transmisioni, sisteme komunikimi, hekurudha, pajisje depozitimi të karburanteve dhe infrastruktura të tjera, të nevojshme për operacionet e punës, që lidhen me veprimtarinë minerare, në përputhje me legjislacionin në fuqi.
+d) të shfrytëzojë dhe të përpunojë mbetjet e veprimtarisë minerare, të prodhuara nga zona e vet, e lejuar për shfrytëzim. Në rastin kur zotëruesi i lejes minerare, në planet vjetore të veprimtarisë minerare, nuk shpreh interes për shfrytëzimin e mbetjeve, kjo e drejtë mund t’i kalojë një subjekti tjetër të interesuar, sipas procedurave të përcaktuara në këtë ligj.
+2. Shteti nuk ka detyrim të sigurojë ndonjë infrastrukturë brenda ose jashtë zonës së lejuar. Kur zotëruesi i lejes dëshiron të përdorë mjedise ose infrastrukturë shtetërore, të cilat përdoren për qëllime publike, ai fiton të drejtën ta përdorë këtë infrastrukturë veçmas lejes, në përputhje me legjislacionin në fuqi.

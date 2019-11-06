@@ -1,0 +1,10 @@
+# Neni 53
+Procedura e mbylljes së objektit minerar
+1. Kalimi në regjimin e mbylljes së një miniere të braktisur, të shfrytëzuar nga shteti, miratohet me vendim të Këshillit të Ministrave, me propozimin e ministrit, dhe kostot financiare për realizimin e mbylljes e të monitorimit përballohen nga Buxheti i Shtetit.
+2. Kalimi në regjim mbylljeje i minierave, për të cilat zotëruesi i lejes minerare ka braktisur veprimtarinë minerare, miratohet nga ministri, me propozimin e strukturave përgjegjëse, dhe kostot financiare për realizimin e mbylljes e të monitorimit përballohen nga vlera e garancisë financiare për mbylljen e objektit minerar dhe rehabilitimin e zonës minerare.
+3. Mbyllja e një miniere të braktisur realizohet sipas planit të mbylljes së minierës, të miratuar nga struktura përgjegjëse.
+4. Plani i mbylljes së minierës hartohet nga subjekte të specializuara e miratohet nga ministri.
+5. Plani i mbylljes zbatohet nga subjekte të specializuara shtetërore ose private, të përzgjedhura sipas procedurave të prokurimit, në përputhje me legjislacionin në fuqi e nga struktura përgjegjëse dhe monitorohet nga kjo strukturë.
+6. Kontrolli i zbatimit të planit të rehabilitimit kryhet nga struktura përgjegjëse, e cila, pas inspektimit, i raporton ministrit. Rehabilitimi vlerësohet i përfunduar vetëm pas miratimit të raportit për këtë qëllim, të hartuar nga struktura përgjegjëse.
+7. Forma dhe përmbajtja e planit të veprimtarive për mbylljen e minierës përcaktohen nga ministri.
+8. Për atë pjesë të minierave të braktisura, për të cilat është dhënë leje minerare, kërkuesi i lejes minerare, në procedurën e shqyrtimit të kërkesës për leje minerare, si pjesë të planit të rehabilitimit, duhet të paraqesë edhe planin e mbylljes e të rehabilitimit për pjesën tjetër të braktisur të minierës, pjesë e së cilës është zona e lejuar minerare, për të cilën ai aplikon, madje edhe me parashikimet specifike të kostos për këtë pjesë. Plani i rehabilitimit për këtë pjesë zbatohet nga zotëruesi i lejes minerare, me shpenzimet e tij, brenda një afati kohor, të miratuar në çastin e dhënies së lejes.

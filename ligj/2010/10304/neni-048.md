@@ -1,0 +1,9 @@
+# Neni 48
+Procedura e revokimit të lejes
+1. Procedura e revokimit të lejes fillon, si rregull, me raportin e propozimit të strukturës përgjegjëse ose me kërkesë të zotëruesit të saj, kur ky i fundit ka plotësuar të gjitha detyrimet e saj.
+2. Ministri, në bazë të propozimit të strukturës përgjegjëse, njofton zotëruesin e lejes minerare, duke specifikuar qëllimin e tij për të revokuar lejen minerare dhe arsyen e një veprimi të tillë. Njoftimi konsiderohet se është bërë, në rast se kanë kaluar 10 ditë kalendarike nga data e dërgimit me postë, në adresën që zotëruesi ka deklaruar në përmbajtjen e lejes minerare dhe nëse është publikuar në faqen zyrtare të ministrisë.
+Zotëruesi i lejes minerare ka të drejtë që, brenda 30 ditëve kalendarike nga data e njoftimit, sipas kushteve të paragrafit të mësipërm, të paraqesë sqarime për shkaqet e përmendura në njoftim për fillimin e procedurave të revokimit të lejes minerare.
+3. Ministri vendos revokimin e lejes minerare 30 ditë kalendarike pas kalimit të afateve të përcaktuara në pikën 2, të këtij neni. Në rast se brenda afatit të përcaktuar në paragrafin e dytë, të pikës 2, zotëruesi i lejes minerare paraqet argumente dhe prova të mjaftueshme që provojnë mungesën e shkaqeve, për të cilat është iniciuar revokimi, ministri vendos pushimin e procedurës së revokimit.
+4. Në rastet e parashikuara shkronjën “a” të pikës 2 të nenit 47 të këtij ligji, zotëruesi duhet të njoftojë strukturën përgjegjëse jo më vonë se 1 vit para datës, në të cilën kërkohet revokimi. Njoftimi përmban arsyet e detajuara të mbylljes, dokumentacionin tekniko-ekonomik dhe planin e aktualizuar të rehabilitimit. Me marrjen e kërkesës, njësia përgjegjëse inspekton zonën dhe harton një raport që ia paraqet ministrit.
+5. Revokimi në të gjitha rastet vendoset nga ministri, në bazë të raportit të strukturës përgjegjëse.
+6. Kundër vendimit të ministrit bëhet ankim në gjykatën administrative, sipas legjislacionit në fuqi.
