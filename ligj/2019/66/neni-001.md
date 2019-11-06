@@ -1,0 +1,2 @@
+# Neni 1
+Ratifikohet marrëveshja me shkëmbim notash ndërmjet Republikës së Shqipërisë dhe Këshillit të Stabilizim-Asociimit Bashkimi Evropian-Shqipëri për pjesëmarrjen e Republikës së Shqipërisë, me cilësinë e vëzhgueses, në punën e Agjencisë së Bashkimit Evropian për të Drejtat Themelore dhe mënyrën e kësaj pjesëmarrjeje në kuadrin e Rregullores së Këshillit (KE) nr. 168/2007, sipas tekstit që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
