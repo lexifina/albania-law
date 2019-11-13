@@ -1,0 +1,1 @@
+1. Miratimin e planit të shpenzimeve, për vitin 2020, të Entit Rregullator të Sektorit të Furnizimit me Ujë dhe Largimit e Përpunimit të Ujërave të Ndotura (ERRU), në shumën 49 287 733 (dyzet e nëntë milionë e dyqind e tetëdhjetë e shtatë mijë e shtatëqind e tridhjetë e tre) lekë, sipas pasqyrës nr. 1 që i bashkëlidhet këtij vendimi.
