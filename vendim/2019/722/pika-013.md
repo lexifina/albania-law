@@ -1,0 +1,1 @@
+13. Shërbimi Social Shtetëror, në nivel qendror ose rajonal, ka të drejtë të verifikojë me strukturat përgjegjëse për çështjet e arsimit, vlefshmërinë e dokumentit të lëshuar nga ana e institucioneve arsimore.

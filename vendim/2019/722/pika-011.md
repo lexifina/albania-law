@@ -1,0 +1,3 @@
+11. Personat me aftësi të kufizuara, të cilët ndjekin arsimin e mesëm të lartë apo të lartë, paraqesin për çdo fillim të vitit shkollor/akademik dokumentet e mëposhtme:
+a) vërtetimin e nënshkruar nga titullari dhe sekretari i institucionit arsimor të mesëm të lartë dhe të lartë, ku shënohet emri dhe mbiemri i personit, niveli i arsimit që ndjek, viti shkollor/akademik dhe kohëzgjatja. Për të vërtetuar frekuentimin e procesit mësimor vërtetimi lëshohet çdo tre muaj. Vërtetimi për shlyerjen e detyrimeve të çdo sezoni lëshohet vetëm për personat që ndjekin arsimin e lartë;
+b) kopjen e noterizuar të dëftesës së çdo viti, kopjen e noterizuar të diplomës në mbarim të shkollës së mesme të lartë apo të lartë dhe/ose kopje të dëshmisë së kursit të kualifikimit.

@@ -1,0 +1,1 @@
+14. Personat me aftësi të kufizuara me kufizime të rënda apo të thella gëzojnë të drejtën e përfitimit të ndihmësit personal, kur kjo përcaktohet nga komisioni shumëdisiplinor i vlerësimit të aftësisë së kufizuar.
