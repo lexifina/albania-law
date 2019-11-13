@@ -1,1 +1,1 @@
-4. Çmimet e teksteve shkollore dhe ato plotësuese për mësimdhënien në diasporën shqiptare vendosen në kopertinat e tyre përkatëse, në përputhje me listën 1, bashkëlidhur këtij vendimi.
+4. Çmimet e teksteve shkollore dhe ato plotësuese për mësimdhënien në diasporën shqiptare vendosen në kopertinat e tyre përkatëse, në përputhje me listën 1, me listën nr. 2 dhe listën nr. 3, bashkëlidhur këtij vendimi.

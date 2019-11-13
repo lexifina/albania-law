@@ -1,1 +1,1 @@
-5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, të përballohen nga buxheti i miratuar për Qendrën e Botimeve për Diasporën.
+5. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, për sigurimin e teksteve shkollore dhe plotësuese, sipas listave nr. 1, nr. 2, e nr. 3, si dhe për shpërndarjen e teksteve shkollore shtesë dhe plotësuese të listave nr. 2 dhe nr. 3, bashkëlidhur, përballohen nga buxheti i miratuar për Qendrën e Botimeve për Diasporën.
