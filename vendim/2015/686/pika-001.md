@@ -1,4 +1,4 @@
-1. Zhvilluesi që synon të zbatojë një projekt, i cili është subjekt i kërkesave të nenit 8, të ligjit nr. 10440, datë 7.7.2011, “Për vlerësimin e ndikimit në mjedis”, të ndryshuar, që në fazat fillestare të planifikimit të projektit (projektidesë), paraqet pranë Ministrisë së Mjedisit kërkesën me shkrim dhe dokumentacionin e mëposhtëm:
+1. Zhvilluesi që synon të zbatojë një projekt, i cili është subjekt i kërkesave të nenit 8, të ligjit nr. 10440, datë 7.7.2011, “Për vlerësimin e ndikimit në mjedis”, të ndryshuar, që në fazat fillestare të planifikimit të projektit (projektidesë), paraqet pranë Ministrisë së Mjedisit kërkesën nëpërmjet sistemit elektronik dhe dokumentacionin e mëposhtëm:
 1.1 Raportin teknik të projektit të propozuar, i cili përfshin:
 a) qëllimin e projektit të propozuar;
 b) planimetrinë e vendndodhjes së projektit, ku të pasqyrohen në hartë topografike kufijtë e sipërfaqes, të shoqëruar me koordinatat, sipas sistemit koordinativ GAUS KRUGE, fotografi dhe të dhëna për përdorimin ekzistues të sipërfaqes që do të përdoret përkohësisht apo përherë nga projekti, gjatë fazës së ndërtimit apo funksionimit të veprimtarisë;
@@ -24,6 +24,6 @@ dh) të dhëna për shtrirjen e mundshme hapësinore të ndikimit negativ në mj
 e) mundësinë e rehabilitimit të mjedisit të ndikuar dhe mundësinë e kthimit të mjedisit të ndikuar të sipërfaqes në gjendjen e mëparshme, si dhe kostot financiare të përafërta për rehabilitimin;
 ë) masat e mundshme për shmangien dhe zbutjen e ndikimeve negative në mjedis;
 f) ndikimet e mundshme në mjedisin ndërkufitar (nëse projekti ka natyrë të tillë).
-Raporti i paraprak i VNM-së të jetë i nënshkruar nga personi fizik/juridik i licencuar.
+Raporti paraprak i VNM-së të jetë i nënshkruar elektronikisht nga personi fizik/juridik i licencuar.
 1.3 Shfuqizuar.
 1.4 Një kopje të faturës së pagesës së tarifës së shërbimit, sipas përcaktimeve në legjislacionin në fuqi.
