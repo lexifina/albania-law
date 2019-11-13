@@ -1,16 +1,16 @@
 16. Formati i Deklaratës Mjedisore është sipas shtojcës V, bashkëlidhur këtij vendimi.
 KREU III
 TRANSFERIMI I VENDIMIT APO I DEKLARATËS MJEDISORE
-1. Kur zhvilluesi ndryshon pasi ka përfunduar procedura paraprake e VNM-së, zhvilluesi i riparaqet pranë AKM-së kërkesën për transferimin e vendimit, duke paraqitur kërkesën, shoqëruar me dokumentacionin e mëposhtëm:
-a) Vendimin ekzistues;
-b) Dokumentin për kalimin e veprimtarisë nga zhvilluesi ekzistues te zhvilluesi i ri;
-c) Shfuqizuar.
-2. Transferimi i vendimit për procedurën paraprake të VNM-së bëhet me shkresë të titullarit të AKM-së, brenda 15 (pesëmbëdhjetë) ditëve kalendarike nga data e paraqitjes së kërkesës.
-3. Kur zhvilluesi ndryshon, pasi ka përfunduar procedura e thelluar e VNM-së, zhvilluesi i riparaqet pranë Ministrisë kërkesën për transferimin Deklaratës Mjedisore, duke paraqitur kërkesë, shoqëruar me dokumentacionin e mëposhtëm:
-a) Deklaratën Mjedisore ekzistuese;
-b) Dokumentin për kalimin e veprimtarisë nga zhvilluesi ekzistues te zhvilluesi i ri;
-c) Shfuqizuar.
-Transferimi i Deklaratës Mjedisore bëhet me urdhër të ministrit, brenda 15 (pesëmbëdhjetë) ditëve kalendarike nga data e paraqitjes së kërkesës.
+1. Kur zhvilluesi ndryshon, pasi ka përfunduar procedura paraprake e VNM-së, zhvilluesi i ri paraqet pranë AKM-së, në sistemin elektronik për vlerësimin e ndikimit në mjedis, nëpërmjet portalit e-Albania, kërkesën për transferimin e vendimit për VNM-në paraprake, shoqëruar me dokumentacionin e mëposhtëm:
+a) vendimin ekzistues;
+b) aktin/kontratën për transferimin e veprimtarisë, nga zhvilluesi ekzistues te zhvilluesi i ri;
+c) raportin mbi zbatimin e kushteve të vendimit për VNM-në paraprake, nga koha e pajisjes me vendim deri në momentin kur kryhet kërkesa për transferimin e tij.
+2. Transferimi i vendimit për procedurë paraprake të VNM-së bëhet me urdhër të titullarit të AKM-së. Urdhri i transferimit i përcillet zhvilluesit të ri, nëpërmjet sistemit, brenda 15 (pesëmbëdhjetë) ditëve kalendarike nga data e paraqitjes së kërkesës.
+3. Kur zhvilluesi ndryshon, pasi ka përfunduar procedura e thelluar e VNM-së, zhvilluesi i ri paraqet pranë ministrisë, në sistemin elektronik për vlerësimin e ndikimit në mjedis, nëpërmjet portalit e-Albania, kërkesën për transferimin e deklaratës mjedisore, shoqëruar me dokumentacionin e mëposhtëm:
+a) deklaratën mjedisore ekzistuese;
+b) aktin/kontratën për transferimin e veprimtarisë, nga zhvilluesi ekzistues te zhvilluesi i ri;
+c) raportin mbi zbatimin e kushteve të deklaratës mjedisore, nga koha e pajisjes me deklaratën mjedisore, deri në momentin kur kryhet kërkesa për transferimin e saj.
+4. Transferimi i deklaratës mjedisore bëhet me urdhër të ministrit. Urdhri i transferimit i përcillet zhvilluesit të ri, nëpërmjet sistemit, brenda 15 (pesëmbëdhjetë) ditëve kalendarike nga data e paraqitjes së kërkesës.
 KREU IV
 MONITORIMI I NDIKIMEVE, KONFIDENCIALITETI, ANKIMIMI DHE KOMUNIKIMI
 1. Gjatë zbatimit të projektit, zhvilluesi ka përgjegjësinë të kryejë monitorimin e ndikimeve të tij në mjedis, në përputhje me përcaktimet në deklaratën mjedisore dhe legjislacionin në fuqi.
