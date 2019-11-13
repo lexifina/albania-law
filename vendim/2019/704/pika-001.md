@@ -1,0 +1,1 @@
+1. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2019, në programin buxhetor “Emergjencat Civile” 10910, i shtohet fondi prej 470 000 000 (katërqind e shtatëdhjetë milionë) lekësh nga fondi rezervë i buxhetit të shtetit për vitin 2019, për rikonstruksionin dhe rindërtimin e shtëpive të dëmtuara nga tërmeti në qarqet Tiranë dhe Durrës.

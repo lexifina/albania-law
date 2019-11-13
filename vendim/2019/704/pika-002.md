@@ -1,0 +1,1 @@
+2. Ministria e Mbrojtjes caktohet organi përgjegjës për përdorimin e fondeve për rikonstruksionin dhe rindërtimin e shtëpive të dëmtuara nga tërmeti, në qarqet Tiranë dhe Durrës, sipas procedurave të prokurimit publik.
