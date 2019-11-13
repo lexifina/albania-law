@@ -1,0 +1,1 @@
+4. Në rastet kur subjektet punëdhënëse nuk janë aktive ose janë të mbyllura, dokumentacioni vërtetues i llojit të punës dhe kohëzgjatjes së saj, si dhe baza e vlerësuar për efekt të kalkulimit të pensionit plotësohen nga strukturat përgjegjëse të sigurimeve shoqërore dhe bashkohen në dokumentacionin e dosjes së përfitimit, duke ia bërë të njohur edhe personit kërkues.

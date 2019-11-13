@@ -1,0 +1,1 @@
+3. Instituti i Sigurimeve Shoqërore vendos në dispozicion të kërkuesve, brenda 10 (dhjetë) ditësh nga hyrja në fuqi e këtij vendimi, formatin e kërkesës për përfitimin e pensionit për shkak të profesionit dhe për përfitimin e shtesës mbi pensionin, si dhe formatin e vërtetimit të posaçëm të konfirmimit të llojit të punës në profesionet e vështira.
