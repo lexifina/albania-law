@@ -1,0 +1,1 @@
+8. Kur nëpunësi civil gjyqësor dhe i prokurorisë, për arsye shëndetësore, bëhet i paaftë për punë gjatë periudhës së kryerjes së pushimit vjetor të paguar dhe këtë e vërteton me raport mjekësor, njofton kancelarin dhe strukturën që kujdeset për mbarëvajtjet e çështjeve të personelit dhe pushimi vjetor i zgjatet për atë periudhë kohe.

@@ -1,0 +1,1 @@
+4. Në raste të veçanta dhe për arsye objektive, orari ditor i punës mund të ndryshohet me urdhër të kryetarit të gjykatës ose drejtuesit të prokurorisë përkatëse, por jo për një periudhë më të gjatë se 3 muaj.
