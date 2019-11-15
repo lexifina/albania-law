@@ -37,7 +37,7 @@ c) faza e tretë përfshin verifikimin në terren, rast pas rasti, të të dhën
 Neni 5
 Procesi i vetëdeklarimit për kategorizimin e strukturës akomoduese
 1. Sipërmarrësi turistik, që ushtron veprimtarinë si strukturë akomoduese, duhet të paraqesë pranë ministrisë përgjegjëse për turizmin formularin e vetëdeklarimit dhe dokumentacionin përkatës, të përcaktuar në nenin 6 të kësaj rregulloreje.
-Formulari i vetëdeklarimit plotësohet në portalin elektronik të ministrisë përgjegjëse për turizmin, i aksesueshëm nëpërmjet portalit të shërbimeve shtetërore elektronike.
+Formulari i vetëdeklarimit shkarkohet nga faqja zyrtare e Ministrisë së Turizmit dhe Mjedisit: turizmi.gov.al, në menunë “Turizmi/Udhëzues për qytetarët”.
 2. Sipërmarrësi turistik mban përgjegjësi për vërtetësinë e të dhënave të deklaruara, të cilat janë objekt i verifikimit, sipas rregullave të parashikuara në këtë rregullore.
 Neni 6
 Dokumentacioni i aplikimit për pajisjen me certifikatë kategorizimi
