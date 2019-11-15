@@ -1,0 +1,1 @@
+4. Çdo subjekt që ushtron veprimtarinë si strukturë akomoduese është i detyruar të aplikojë për marrjen e certifikatës së kategorizimit, brenda datës 31.10.2019, për të përfituar shkallën e reduktuar të tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e shërbimit të akomodimit në strukturat akomoduese.

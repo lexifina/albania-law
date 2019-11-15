@@ -1,0 +1,1 @@
+3. Çdo subjekt që do të ushtrojë veprimtarinë, si strukturë akomoduese, është i detyruar brenda 30 ditëve nga regjistrimi pranë Qendrës Kombëtare të Biznesit, të pajiset me certifikatën e kategorizimit.
