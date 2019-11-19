@@ -1,0 +1,2 @@
+3. Ngarkohen për zbatimin e këtij urdhri, Sekretari i Përgjithshëm në Ministrinë e Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Derregullimit, Lejeve, Licencave dhe Monitorimit në MASR, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Drejtoria Rajonale e Arsimit Parauniversitar, Korçë, Zyra Vendore e Arsimit Parauniversitar Korçë-Pustec.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
