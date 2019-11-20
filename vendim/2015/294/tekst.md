@@ -4,7 +4,7 @@ Nr.  294, datë 8.4.2015
 
 PËR KRIJIMIN E KËSHILLIT TË INVESTIMEVE
 
-(Ndryshuar me VKM nr. 335, datë 22.5.2019)
+(Ndryshuar me VKM nr. 335, datë 22.5.2019, nr. 746, datë 20.11.2019)
 
 (I përditësuar)
 
@@ -40,13 +40,15 @@ e) hartimit të praktikave më të mira në parandalimin dhe luftën ndaj korrup
 
 a) anëtarë me status të përhershëm:
 
-i. institucione shtetërore, 3 anëtarë:
+i. institucione shtetërore, 4 anëtarë:
 
 - ministri i Shtetit për Mbrojtjen e Sipërmarrjes;
 
 - Banka e Shqipërisë;
 
 - Agjencia Shqiptare e Zhvillimit të Investimeve;
+
+- Fondi Shqiptar për Zhvillimin e Diasporës.
 
 ii. partnerë zhvillimi, 3 anëtarë:
 
@@ -56,11 +58,13 @@ ii. partnerë zhvillimi, 3 anëtarë:
 
 - Delegacioni i Bashkimit Evropian; 
 
-iii. Dhoma të Tregtisë dhe Industrisë, 2 anëtarë:
+iii. Dhoma të Tregtisë dhe Industrisë, 3 anëtarë:
 
 - Bashkimi i Dhomave të Tregtisë dhe Industrisë;
 
-- Dhoma e Tregtisë dhe Industrisë Tiranë.
+- Dhoma e Tregtisë dhe Industrisë, Tiranë;
+
+- Dhoma e Biznesit të Diasporës.
 
 b) Anëtarë me status të përkohshëm me mandat 2-vjeçar:
 
