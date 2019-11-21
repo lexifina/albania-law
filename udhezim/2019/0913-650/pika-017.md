@@ -1,0 +1,1 @@
+17. Pas shqyrtimit të kërkesave ankimore të paraqitura, komisioni përzgjedhës njofton kandidatët që kanë paraqitur ankim, për rezultatin e ankesave të tyre brenda 5 ditëve nga depozitimi i kërkesës ankimore.

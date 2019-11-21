@@ -1,0 +1,1 @@
+6. Punonjësit e njësisë për mbrojtjen e fëmijës në bashki dhe njësi administrative, mund të kryejnë rolin e përfaqësuesit procedural, vetëm në ato raste, kur nuk ka persona të tjerë të përzgjedhur për të kryer rolin e përfaqësuesit procedural.

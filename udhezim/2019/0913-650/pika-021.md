@@ -1,0 +1,1 @@
+21. Pas përfundimit të procesit të përzgjedhjes, komisioni përzgjedhës, brenda 5 ditëve, shpall në faqen zyrtare të bashkisë dhe në Buletinin e Njoftimeve Zyrtare të Republikës së Shqipërisë, listën e kandidatëve fitues të renditur sipas pikëve totale të fituara nga secili prej tyre.

@@ -1,0 +1,1 @@
+10. Thirrja publike qëndron e hapur për një periudhë prej 30 ditësh nga data e shpalljes. Njësia për mbrojtjen e fëmijës kujdeset që të njoftohen individë të interesuar, që plotësojnë kriteret e përcaktuara në pikën 7 të këtij udhëzimi, si dhe organizatat jofitimprurëse që punojnë në fushën e të drejtave dhe mbrojtjes së fëmijës.

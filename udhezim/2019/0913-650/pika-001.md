@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i kritereve dhe procedurave për përzgjedhjen e përfaqësuesve proceduralë për fëmijët në konflikt me ligjin, fëmijët viktima dhe dëshmitarë në procesin penal.

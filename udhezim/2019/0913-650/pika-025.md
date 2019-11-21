@@ -1,0 +1,1 @@
+25. Fëmijës në konflikt me ligjin, fëmijës viktimë apo dëshmitar në procesin penal, i caktohet përfaqësuesi procedural nga lista e njësisë për mbrojtjen e fëmijës të bashkisë, ku ai ka vendbanimin apo vendqëndrimin.

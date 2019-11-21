@@ -1,0 +1,1 @@
+8. Përfaqësuesit proceduralë pezullohen nga detyra kur ndaj tyre fillon një procedim penal për vepra penale të kryera ndaj të miturve ose kur ata akuzohen për kryerjen e një vepre penale në bashkëpunim me një të mitur.

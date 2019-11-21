@@ -1,0 +1,1 @@
+22. Komisioni përzgjedhës, për çdo mbledhje të tij, mban procesverbalin përkatës, në të cilin përcaktohet data dhe vendi i mbledhjes, anëtarët që morën pjesë, një përmbledhje të diskutimeve të mbajtura në mbledhje, vendimet që u morën, forma dhe rezultati i votimeve. Procesverbali mbahet nga njëri prej anëtarëve të komisionit, i cili luan edhe rolin e sekretarit të komisionit.

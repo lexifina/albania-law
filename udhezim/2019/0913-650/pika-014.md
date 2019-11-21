@@ -1,0 +1,1 @@
+14. Procedura për vlerësimin dhe përzgjedhjen e kandidatëve për përfaqësues proceduralë zhvillohet në dy faza. Faza e parë e vlerësimit e cila zgjat jo më shumë se 10 ditë, konsiston në shqyrtimin dhe verifikimin e plotësimit të dokumentacionit, që vërteton përmbushjen e kritereve formale të përcaktuar në pikën 7, të këtij udhëzimi dhe vlerësohet maksimalisht me 70 pikë.

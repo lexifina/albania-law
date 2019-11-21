@@ -1,0 +1,1 @@
+24. Njësia për mbrojtjen e fëmijës në bashki, pas hartimit të listës me përfaqësuesit proceduralë, sipas pikës 4 të këtij udhëzimi, e dërgon atë pranë strukturave vendore të Policisë së Shtetit, Prokurorisë dhe gjykatës së rrethit e të apelit përkatës.

@@ -1,0 +1,1 @@
+20. Pas shqyrtimit të kërkesave ankimore të paraqitura lidhur me rezultatet e fazës së dytë, komisioni përzgjedhës njofton kandidatët që kanë paraqitur ankim, për rezultatin e ankesave të tyre brenda 5 ditëve nga depozitimi i kërkesës ankimore.

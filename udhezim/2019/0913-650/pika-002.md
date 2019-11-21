@@ -1,0 +1,1 @@
+2. Përfaqësuesit proceduralë kryejnë përfaqësimin procedural të fëmijëve në konflikt me ligjin, fëmijëve viktima dhe dëshmitarë në procesin penal në përputhje me parashikimet e ligjit nr. 37/2017 “Kodi i Drejtësisë Penale për të Mitur”.

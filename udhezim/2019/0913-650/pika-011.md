@@ -1,0 +1,1 @@
+11. Kandidatët e interesuar dorëzojnë pranë njësisë për mbrojtjen e fëmijës të gjithë dokumentacionin e mundshëm që vërteton përmbushjen e kritereve të përcaktuara në pikën 7 të këtij udhëzimi, si dhe deklarojnë adresat dhe të dhënat elektronike të kontaktit të tyre.

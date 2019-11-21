@@ -1,0 +1,1 @@
+3. Përfaqësuesit proceduralë, ushtrojnë funksionet e tyre kur kërkohet nga organi procedues, duke i shërbyer në çdo rast interesit më të lartë të fëmijës në konflikt me ligjin, fëmijës viktimë dhe dëshmitar në procesin penal.
