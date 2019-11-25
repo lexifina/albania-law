@@ -1,0 +1,1 @@
+15. Në përcaktimin e fituesve të projekteve që do të financohen nga buxheti i shtetit në një vit buxhetor, Komisioni mund të klasifikojë një numër të kufizuar fituesish ose mund të klasifikojë të gjitha projektet si fituese, kur ndryshimet mes cilësisë, përmbajtjes, qëllimit, prioritetit a kritereve të tjera nuk janë tepër të dallueshme.

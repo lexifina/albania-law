@@ -1,0 +1,1 @@
+5. Njësitë e vetëqeverisjes vendore që nuk plotësojnë kushtet, sipas pikave 5, 6, 7 e 8 të tabelës nr. 2, të këtij udhëzimi skualifikohen nga përfitimi i fondeve për ndërtimin e banesave sociale ose të banesave me kosto të ulët.

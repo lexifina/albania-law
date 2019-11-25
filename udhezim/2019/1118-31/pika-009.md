@@ -1,0 +1,1 @@
+9. Ministria përgjegjëse për strehimin i drejtohet çdo vit, me shkrim, shoqatave të përmendura në germën “d” dhe “dh”, të pikës 8, të këtij udhëzimi për të propozuar përfaqësuesit e tyre. Përzgjedhja e përfaqësuesve të shoqatave, sipas këtyre germave, realizohet nga ministria përgjegjëse për strehimin, në bazë rotacioni.

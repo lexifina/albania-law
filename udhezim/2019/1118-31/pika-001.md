@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave, afateve dhe kritereve të aplikimit nga njësitë e vetëqeverisjes vendore për përfitimin e fondeve të planifikuara në ligjin vjetor të buxhetit, në programin buxhetor “strehimi”.
