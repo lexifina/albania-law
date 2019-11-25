@@ -1,0 +1,1 @@
+7. Struktura përgjegjëse konsultohet, paraprakisht, me operatorët ekonomikë, strukturat këshilluese, që operojnë në nivel mbikëqyrës dhe me Komisionin e Menaxhimit të Riskut, i cili funksionon pranë saj, lidhur me procesin e shkatërrimit, me qëllim që të sigurojë se produktet përmbushin kriteret e përcaktuara në legjislacionin në fuqi dhe këtë rregullore.

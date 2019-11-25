@@ -1,0 +1,1 @@
+25. Shkatërrimi i produkteve kryhet nga struktura përgjegjëse nëpërmjet një personi, fizik ose juridik, i licencuar, që kryen operacione trajtimi të mbetjeve, në përputhje me legjislacionin në fuqi në fushën e mjedisit dhe lejet mjedisore.

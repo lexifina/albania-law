@@ -1,0 +1,1 @@
+34. Çdo ankesë për vendimet/urdhërimet/ndalimet e marra gjatë mbikëqyrjes së ekzekutimit të procesit të shkatërrimit do të trajtohet sipas procedurës së parashikuar nga legjislacioni në fuqi për mjedisin dhe menaxhimin e integruar të mbetjeve.

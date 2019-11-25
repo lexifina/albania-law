@@ -1,0 +1,1 @@
+15. Struktura përgjegjëse regjistron produktet e përcaktuara sipas pikës 14 të këtij vendimi, në një regjistër të veçantë, duke treguar emrin e prodhuesit, datën e refuzimit/kthimit, arsyet e refuzimit si produkt.

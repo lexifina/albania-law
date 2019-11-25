@@ -1,0 +1,1 @@
+22. Automjeti që bën transportimin duhet t’i përshtatet llojit të produktit dhe të jetë i mirëmbajtur, i pastruar dhe i dezinfektuar. Në rast të transportit të produkteve të klasifikuara si mbetje të rrezikshme, plotësohen edhe kërkesat e nenit 23, të ligjit nr. 10463/2011, të ndryshuar.

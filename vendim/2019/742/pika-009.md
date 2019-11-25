@@ -1,0 +1,1 @@
+9. Operatori ekonomik përgjegjës nuk çlirohet nga përgjegjësia për operacionet e shkatërrimit të produkteve edhe në rastin kur kjo procedurë kryhet nga struktura përgjegjëse ose operatorë të licencuar për shkatërrimin e tyre.

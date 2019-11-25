@@ -1,0 +1,1 @@
+2. Ky vendim zbatohet për të gjitha produktet joushqimore për konsumatorët, të vendosura në treg dhe në shërbim/në përdorim, të cilat i përkasin fushës së veprimtarisë së Inspektoratit Shtetëror të Mbikëqyrjes së Tregut, sipas legjislacionit për sigurinë e përgjithshme të produkteve joushqimore dhe legjislacionit për tregtimin e mbikëqyrjen e tregut të produkteve joushqimore.

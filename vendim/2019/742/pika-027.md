@@ -1,0 +1,1 @@
+27. Struktura përgjegjëse, për ndjekjen e detyrimeve të përcaktuara në këtë vendim kërkon nga të gjitha institucionet e listuara në shkronjën “ç”, të pikës 26, të këtij vendimi, caktimin e personit përgjegjës nga titullarët e institucioneve, të cilët do të përbëjnë grupin e punës.

@@ -1,0 +1,7 @@
+26. Për shkatërrimin e produkteve, nga çdo person që përmbush kushtet sipas pikës 25, të këtij vendimi, që merr përsipër mbi bazën e njoftimit të strukturës përgjegjëse, sipas procedurave të parashikuara në legjislacionin në fuqi për prokurimin publik, ndiqet kjo procedurë:
+a) personi paraqet kërkesë me shkrim/shprehje interesi pranë strukturës përgjegjëse;
+b) kërkesa shoqërohet edhe me listën e konfirmuar të produkteve që do të shkatërrohen dhe elemente të tjera identifikuese të produktit;
+c) me marrjen e kërkesës, struktura përgjegjëse, bazuar në kostot e përcaktuara në planin e shkatërrimit, i njofton kërkuesit datën, pagesën përkatëse të procesit, si dhe elementet e tjera të specifikuara në këtë plan, të përshtatura sipas specifikave të llojit të produktit që do të shkatërrohet;
+ç) personi njofton datën e shkatërrimit tek operatori ekonomik, struktura përgjegjëse për tregun, struktura mbikëqyrëse për mjedisin, bashkia dhe policia vendore;
+d) kur data për shkatërrim konfirmohet nga të gjitha institucionet e listuara në shkronjën “ç”, struktura përgjegjëse për tregun dhe ajo për mjedisin, përfaqësuesi i operatorit, bashkisë dhe policisë mbikëqyrin procesin e shkatërrimit (grupi i punës);
+dh) përpara shkatërrimit të produktit, grupi i punës verifikon gjithë informacionin e kërkuar për produktet për identifikimin e llojit të tyre dhe metodën e shkatërrimit që duhet përdorur sipas kërkesave ligjore në fuqi.

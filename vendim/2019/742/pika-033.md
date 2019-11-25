@@ -1,0 +1,1 @@
+33. Çdo ankesë për vendimet e marra në të gjitha fazat e procesit, përpara shkatërrimit do të trajtohet sipas procedurës së parashikuar nga legjislacioni në fuqi për produktet joushqimore dhe inspektimin.

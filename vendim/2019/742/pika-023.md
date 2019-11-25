@@ -1,0 +1,1 @@
+23. Procesi i transportimit të produkteve për shkatërrim duhet të mbikëqyret nga një inspektor i strukturës përgjegjëse për tregun, një inspektor mjedisi dhe policia vendore, nga operatori ekonomik deri te vendi i shkatërrimit.

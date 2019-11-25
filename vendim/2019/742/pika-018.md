@@ -1,0 +1,1 @@
+18. Produktet e destinuara për shkatërrim, të vendosura në paketime duhet të ruhen në magazina të dedikuara dhe nuk duhet të qëndrojnë më shumë se sa afati i përcaktuar në planin e shkatërrimit, i cili llogaritet që nga data që vendimi për shkatërrim ka marrë formë të prerë.

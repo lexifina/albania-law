@@ -1,0 +1,1 @@
+1. Ky vendim ka për objekt përcaktimin e rregullave dhe të procedurave të shkatërrimit të produkteve, me qëllim identifikimin e kushteve të nevojshme për ruajtjen, trajtimin, transportimin dhe shkatërrimin e tyre në mënyrë të tillë që mbrojtja e jetës dhe e shëndetit të njeriut e të mjedisit të jenë të garantuara.

@@ -1,0 +1,1 @@
+6. Në përputhje me detyrimet e parashikuara nga legjislacioni në fuqi për tregtimin dhe për mbikëqyrjen e produkteve joushqimore, struktura përgjegjëse vendos për shkatërrimin e produktit që paraqet rrezik serioz, kur është e nevojshme.
