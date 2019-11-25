@@ -1,0 +1,1 @@
+1. Miratimin e standardeve minimale të shërbimeve të përkujdesjes shoqërore për viktimat/të mbijetuarat/it e dhunës me bazë gjinore dhe të dhunës në familje, në qendrat rezidenciale emergjente (afatshkurtra) publike dhe jopublike (strehëzat emergjente), sipas dokumentit që i bashkëlidhet këtij udhëzimi.
