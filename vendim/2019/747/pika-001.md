@@ -1,0 +1,1 @@
+1. Organizimin dhe funksionimin e Agjencisë Kombëtare të Mbrojtjes Civile (në vijim, Agjencia) si person juridik publik buxhetor, në varësi të ministrit përgjegjës për mbrojtjen civile (në vijim, ministri), me seli në Tiranë.

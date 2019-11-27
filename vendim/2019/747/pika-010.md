@@ -1,0 +1,1 @@
+10. Agjencia ka stemën, logon dhe vulën e vet zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Ministria ... (emërtimi i ministrisë nga varet Agjencia), Agjencia Kombëtare e Mbrojtjes Civile”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

@@ -1,0 +1,1 @@
+3. Agjencia, në përmbushje të funksioneve dhe për zbatimin e detyrave të saj, siguron fonde nga donatorë të ndryshëm, vendas e ndërkombëtarë. Në çdo rast, Agjencia njofton ministrin, brenda 30 (tridhjetë) ditëve, për fondet e siguruara nga donatorët. Fondet e siguruara nga donatorët bëhen pjesë e buxhetit të Agjencisë.

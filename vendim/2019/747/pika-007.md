@@ -1,0 +1,1 @@
+7. Autoritetet publike, funksionet e të cilave kanë ose mund të kenë ndikim në çështjet e reduktimit të riskut nga fatkeqësitë dhe mbrojtjen civile, informojnë Agjencinë për politikat dhe objektivat e tyre për këto çështje.
