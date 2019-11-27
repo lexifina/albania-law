@@ -1,0 +1,1 @@
+2. Krijimin e Komitetit Ndërministror të Emergjencave Civile (KNEC), si organi më i lartë për koordinimin dhe bashkërendimin e veprimeve të institucioneve shtetërore dhe të subjekteve private, si dhe të burimeve financiare e materiale për përballimin e fatkeqësisë natyrore.

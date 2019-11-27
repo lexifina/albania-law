@@ -1,0 +1,1 @@
+4. Në mbledhjet KNEC-së marrin pjesë me kërkesë të Kryetarit përfaqësues të organeve të ndryshme publike, të biznesit, ekspertë/profesionistë të fushës së mbrojtjes civile dhe përfaqësues të shoqërisë civile ose drejtues të OJF-ve, me objekt veprimtarie mbrojtjen civile dhe ndihmën humanitare.

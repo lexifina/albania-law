@@ -1,0 +1,13 @@
+3. KNEC-ja kryesohet nga Kryeministri dhe ka në përbërje anëtarët, si më poshtë vijon:
+- Ministrin e Mbrojtjes;
+- Ministrin e Brendshëm;
+- Ministrin e Shëndetësisë dhe Mbrojtjes Sociale;
+- Ministrin e Financave dhe Ekonomisë;
+- Ministrin e Infrastrukturës dhe Energjisë;
+- Ministrin e Turizmit dhe Mjedisit;
+- Ministrin e Arsimit, Sportit dhe Rinisë;
+- Drejtorin e Përgjithshëm të Agjencisë Kombëtare të Mbrojtjes Civile;
+- Shefin e Shtabit të Përgjithshëm të Forcave të Armatosura;
+- Drejtorin e Përgjithshëm të Policisë së Shtetit;
+- Prefektin e Qarkut Durrës;
+- Prefektin e Qarkut Tiranë.
