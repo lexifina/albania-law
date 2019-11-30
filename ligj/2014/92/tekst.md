@@ -1,12 +1,12 @@
-LIGJ[^fn1]
+LIGJ
 
 Nr. 92/2014
 
 PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjin nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
+(Ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
 
-nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018 )
+nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2])
 
  (i përditësuar, 2018)
 
@@ -816,7 +816,7 @@ Neni 56
 
 Përjashtime të veçanta në import
 
-(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018)
+(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019)
 
 Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
@@ -874,7 +874,7 @@ Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
 27. Importimi i mjeteve, të cilat ndihmojnë në integrimin në jetë të invalidëve paraplegjikë dhe tetraplegjikë, përfshirë këtu dhe autovetura të përshtatura për përdorim prej tyre.
 
-28. Mallrat e importuara nga organet dhe organizatat shtetërore, organizatat bamirëse dhe filantropike me destinim për shpërndarje falas për njerëzit e dëmtuar prej fatkeqësive natyrore dhe fatkeqësive të tjera apo nga luftërat. Asnjë përjashtim nuk akordohet për materialet dhe pajisjet e destinuara për rindërtimin e zonave të fatkeqësive.
+28. Mallrat e importuara nga organet dhe organizatat shtetërore, organizatat bamirëse dhe filantropike me destinim për shpërndarje falas për njerëzit e dëmtuar prej fatkeqësive natyrore dhe fatkeqësive të tjera apo nga luftërat. Asnjë përjashtim nuk akordohet për materialet dhe pajisjet e destinuara për rindërtimin e zonave të fatkeqësive, përjashtuar materialet dhe pajisjet e importuara për këtë qëllim nga organe shtetërore për rastet e shpalljes së “gjendjes së fatkeqësisë natyrore” brenda afatit të përcaktuar.
 
 29. Sendet dhe dokumentet shoqëruese në funksion të mospërvetësimit apo mbrojtjes së markës tregtare, patentave, të së drejtës së autorit, të destinuara për organizatat për mbrojtjen e të drejtave të pasurisë intelektuale.
 
@@ -911,6 +911,8 @@ Lista e makinerive dhe pajisjeve që janë direkt të lidhura me investimin, pro
 41. Shfuqizuar.
 
 42. Importimi i lëndëve të para që përdoren për prodhimin e barnave, me përjashtim të lëndëve me përdorim të dyfishtë, të kryera nga mbajtësit e autorizimit të prodhimit, sipas legjislacionit të fushës për barnat. Lista e lëndëve të para për prodhimin e barnave përcaktohet me vendim të Këshillit të Ministrave.
+
+43. Mallrat dhe pajisjet për qëllime ushtarake dhe që përdoren si armë, municion apo bazë materiale luftarake dhe të cilat janë projektuar, zhvilluar, prodhuar, montuar apo modifikuar për përdorim ushtarak, që importohen në emër të Ministrisë së Mbrojtjes.
 
 Seksioni 3
 
@@ -1228,7 +1230,7 @@ Neni 77
 
 Rimbursimi i TVSH-së
 
-(Ndryshuar pika 4 me ligjin nr.90/2015, datë 23.7.2015)
+(Ndryshuar pika 4 me ligjin nr.90/2015, datë 23.7.2015, shfuqizuar fjalia e dytë, e pikës 2 me aktin normativ nr. 4, datë 30.11.2019)
 
 1. Një person i tatueshëm kërkon rimbursim të tepricës së kreditimit tatimor të TVSH-se nëse:
 
@@ -1236,7 +1238,7 @@ a) personi i tatueshëm ka mbartur tepricën e TVSH-së së zbritshme për  3 mu
 
 b) TVSH-ja e kërkuar për t’u rimbursuar tejkalon shumën prej 400 000 (katërqind mijë) lekësh.
 
-2. Për rastet kur në marrëveshjet financiare të ratifikuara nga Kuvendi ose në marrëveshjet e granteve të miratuara nga Këshilli i Ministrave parashikohet mospërdorimi i burimeve financiare të huaja për të paguar taksa e tatime, duke përfshirë ose jo tatimin mbi vlerën e shtuar, tatimi mbi vlerën e shtuar i paguar u rimbursohet financuesve të huaj nga sistemi i thesarit, brenda 30 ditëve, sipas rregullave të caktuara nga Ministri i Financave. Tatimi mbi vlerën e shtuar për importimin e materialeve ushtarake për Forcat e Armatosura, të dhuruara nga vendet anëtare të Aleancës së NATO-s apo partnerët, paguhet si kosto lokale nga Ministria e Mbrojtjes.
+2. Për rastet kur në marrëveshjet financiare të ratifikuara nga Kuvendi ose në marrëveshjet e granteve të miratuara nga Këshilli i Ministrave parashikohet mospërdorimi i burimeve financiare të huaja për të paguar taksa e tatime, duke përfshirë ose jo tatimin mbi vlerën e shtuar, tatimi mbi vlerën e shtuar i paguar u rimbursohet financuesve të huaj nga sistemi i thesarit, brenda 30 ditëve, sipas rregullave të caktuara nga Ministri i Financave. 
 
 3. Eksportuesit kanë të drejtë të kërkojnë rimbursim kur teprica e tyre tejkalon shumën 400 000 (katërqind mijë) lekë. Këshilli i Ministrave përcakton kategorinë e eksportuesve, sipas këtij neni.	
 
@@ -2346,4 +2348,4 @@ II. LISTA TREGUESE E SHËRBIMEVE BUJQËSORE
 
 ---
 
-[^fn1]: Ligji nr. 92/2014, datë 24.7.2014 është botuar në Fletoren Zyrtare nr. 128, datë 13 gusht 2014.  Ligji nr.90/2015, datë 23.7.2015 është botuar në Fletoren Zyrtare nr. 144, datë 7 gusht 2015. Ligji nr. 71/2017, datë 27.4.2017 është botuar në Fletoren Zyrtare nr. 113, datë 22 maj 2017. Ligji nr. 107/2017, datë 30.11.2017 është botuar në Fletoren Zyrtare nr. 222, datë 19 dhjetor 2017 dhe ka hyrë              në fuqi më 1 janar 2018. Ligi nr. 40/2018, datë 9.7.2018 është botuar në Fletoren Zyrtare nr. 111, datë 30 korrik 2018. Ligji nr. 96/2018, datё 3.12.2018 është botuar në Fletoren Zyrtare nr. 187, datë 28 dhjetor 2018 dhe hyn në fuqi më 1 janar 2019.
+[^fn2]: Akti normativ nr. 4, datë 30.11.2019 është miratuar me ligjin nr. 78/2019, datë 5.12.2019
