@@ -10,4 +10,5 @@
 - Shefin e Shtabit të Përgjithshëm të Forcave të Armatosura;
 - Drejtorin e Përgjithshëm të Policisë së Shtetit;
 - Prefektin e Qarkut Durrës;
-- Prefektin e Qarkut Tiranë.
+- Prefektin e Qarkut Tiranë;
+- Kryetari i Bashkisë Tiranë, me kërkesën e tij.
