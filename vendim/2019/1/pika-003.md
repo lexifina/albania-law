@@ -1,1 +1,1 @@
-3. I deleguari i KNEC për qarkun Durrës për çështjet operacionale, drejton dhe koordinon në nivel qendror, strukturat operacionale për përballimin e pasojave të shkaktuara nga fatkeqësitë natyrore, në qarkun e Durrësit.
+3. I deleguari i KNEC-së, përkatësisht për qarqet Durrës, Lezhë dhe Tiranë, për çështjet operacionale, drejton dhe koordinon në nivel qendror, strukturat operacionale për përballimin e pasojave të shkaktuara nga fatkeqësitë natyrore, në qarkun/qet e Durrësit, Lezhës dhe Tiranës.
