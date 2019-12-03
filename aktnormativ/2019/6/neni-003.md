@@ -1,0 +1,7 @@
+# Neni 3
+1. Pavarësisht parashikimeve të ligjit nr. 107/2014, “Për planifikimin dhe zhvillimin e territorit”, të ndryshuar, dhe të vendimit nr. 408, datë 13.5.2015, të Këshillit të Ministrave, “Për miratimin e rregullores së zhvillimit të territorit”, të ndryshuar, Bashkia Tiranë, brenda 2 (dy) ditëve pune, lëshon certifikatën e përdorimit për objektet e përcaktuara në nenin 1 të këtij akti normativ sipas gjendjes dhe dokumentacionit ekzistues të objektit.
+2. Pavarësisht parashikimeve të ligjit nr. 111/2018, “Për kadastrën”, përjashtimisht sipas parashikimeve të këtij akti normativ, Agjencia Shtetërore e Kadastrës kryen fillimisht regjistrimin e apartamenteve që do të dhurohen në regjistrat e pasurive të paluajtshme në emër të Bashkisë Tiranë dhe më pas kryen veprimet e nevojshme për kalimin dhe regjistrimin e tyre në pronësi të familjarëve të viktimave të shkaktuara nga tërmeti i datës 26.11.2011.
+3. Dhurimi të realizohet nëpërmjet kontratës së dhurimit, sipas parashikimeve të Kodit Civil.
+4. Kontrata nënshkruhet nga kryetari i Bashkisë Tiranë ose i njësisë përkatëse të vetëqeverisjes vendore dhe nga përfaqësuesit e familjeve përfituese, të përcaktuara në listën e dërguar nga Komiteti Ndërministror i Emergjencave Civile.
+5. Apartamenti i dhuruar regjistrohet në bashkëpronësi të të gjithë anëtarëve të familjes përfituese.
+6. Çdo shpenzim procedural, për kryerjen e transaksioneve për dhurimin e pasurisë, paguhen nga Bashkia Tiranë ose nga njësia përkatëse e vetëqeverisjes vendore.
