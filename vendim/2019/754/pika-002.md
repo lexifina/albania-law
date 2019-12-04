@@ -1,0 +1,1 @@
+2. Akomodimi i përkohshëm i të dëmtuarve të bëhet nga Ministria e Turizmit dhe Mjedisit në bashkëpunim me Agjencinë Kombëtare të Bregdetit, me prefekturat dhe njësitë e vetëqeverisjes vendore përkatëse, Unionin Turistik Shqiptar (UTSH) dhe Shoqatën Shqiptare të Turizmit (ATA) si dhe subjektet private që operojnë në fushën e hoteleri-turizmit në qarqet Durrës, Tiranë dhe Lezhë.

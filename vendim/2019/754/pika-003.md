@@ -1,0 +1,1 @@
+3. Prefekturat në qarqet Durrës, Tiranë dhe Lezhë/njësitë e vetëqeverisjes vendore Durrës, Tiranë dhe Lezhë janë përgjegjëse për kryerjen e verifikimeve dhe hartimin e listave përkatëse për kategorizimin e të dëmtuarve e të banesave të tyre nga tërmeti i datës 26.11.2019, sipas rregullores.

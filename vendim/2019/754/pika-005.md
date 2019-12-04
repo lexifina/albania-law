@@ -1,0 +1,1 @@
+5. AKB-ja është institucioni koordinues për verifikimin e plotësimit të detyrimeve që rrjedhin nga zbatimi i kësaj kontrate dhe për akomodimin e të dëmtuarve nëpër struktura akomoduese, bazuar në listat e hartuara nga njësia e vetëqeverisjes vendore/prefektura.
