@@ -1,0 +1,1 @@
+1. Përcaktimin e Ministrisë së Bujqësisë dhe Zhvillimit Rural si të vetmin autoritet kontraktues për ndjekjen e zbatimit të kontratës koncesionare nr. 8618, datë 14.8.2014, “Për burimin ujor ’Sasaj, Bunec’”, të lidhur ndërmjet ish-Ministrisë së Mjedisit dhe shoqërisë “Blue Eye One”.

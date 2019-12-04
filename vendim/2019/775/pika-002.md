@@ -1,0 +1,1 @@
+2. Ndjekja e zbatimit të kontratës koncesionare do të bëhet nëpërmjet Agjencisë së Menaxhimit të Burimeve Ujore, e cila do të raportojë në vazhdimësi tek autoriteti kontraktues dhe do t’i propozojë atij kryerjen e veprimeve procedurale, që do të duhet të ndërmerren gjatë zbatimit të kontratës, si dhe marrjen e masave në rast shkeljeje.
