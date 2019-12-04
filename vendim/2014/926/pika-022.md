@@ -1,0 +1,1 @@
+22. Pjesëmarrësve të tjerë në ankand, përveç fituesit, u kthehet 20 (njëzet) për qind e vlerës fillestare, ngurtësuar paraprakisht. Pjesëmarrësit në ankand, i cili tërhiqet nga ankandi pa dhënë asnjë ofertë për vlerën e objektit të shpallur për shitje, nuk i kthehet 20 (njëzet) për qind e vlerës fillestare, ngurtësuar për pjesëmarrje në ankand.

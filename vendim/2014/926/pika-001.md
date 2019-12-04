@@ -1,0 +1,1 @@
+1. Këtij vendimi i nënshtrohen të gjitha ndërmarrjet apo objektet e veçuara, mjetet kryesore, mjetet e xhiros në administrim apo në ruajtje të institucioneve, ndërmarrjeve dhe shoqërive tregtare me kapital tërësisht shtetëror, për të cilat është dhënë miratimi i ministrit përgjegjës për ekonominë për fillimin e procedurave të privatizimit apo të transformimit në shoqëri tregtare.

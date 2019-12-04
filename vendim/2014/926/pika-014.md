@@ -1,0 +1,1 @@
+14. Eksperti vlerësues i pasurive të paluajtshme harton genplanin përkatës të shoqërive aksionare dhe të shoqërive me kapital të përbashkët, të cilat janë në proces vlerësimi për privatizim, kur del i nevojshëm hartimi i një genplani të ri, të ndryshëm nga ai i përgatitur në çastin e themelimit të shoqërisë.

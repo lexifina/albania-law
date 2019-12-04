@@ -1,0 +1,1 @@
+16. Detyrimet debitore dhe kreditore të ndërmarrjeve shtetërore që privatizohen mbyllen në çastin e ndryshimit të pronësisë. Drejtori i ndërmarrjes shtetërore mban përgjegjësi për rritjen e debi-kredive, nga data e shpalljes së ndryshimit të pronës shtetërore.

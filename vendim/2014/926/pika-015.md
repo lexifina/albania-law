@@ -1,0 +1,1 @@
+15. Shoqëria, kërkesën për konfirmimin e genplanit, të hartuar nga eksperti vlerësues përkatës, ia dërgon institucionit të prefektit, ku ajo ka vendndodhjen. Institucioni i prefektit, brenda 10 (dhjetë) ditëve nga data e marrjes së kërkesës, konfirmon genplanin e shoqërisë, duke nënshkruar dhe vulosur atë në 5 (pesë) kopje origjinale, dhe më pas ia përcjell shoqërisë.

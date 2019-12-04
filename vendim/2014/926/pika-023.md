@@ -1,0 +1,1 @@
+23. Personi që ka fituar të drejtën e blerjes së objektit, nëpërmjet ankandit, ose të drejtën e parablerjes, pajiset nga Drejtoria e Drejtimit të Pronës Publike, në Ministrinë e Financave, me autorizim për kalim pronësie, ku përcaktohen qartë detyrimet e blerësit.

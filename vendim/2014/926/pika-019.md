@@ -1,0 +1,5 @@
+19. Komisioni i ankandit kryesohet nga përfaqësuesi i strukturës përgjegjëse për shitjen e pronës publike dhe në përbërje të tij ka anëtarë:
+- përfaqësuesin e organit që ka në pronësi, ruajtje apo në varësi administrative objektin;
+- përfaqësuesin e Ministrisë së Financave dhe Ekonomisë.
+Anëtarët e komisionit të ankandit duhet të pajisen me autorizimin përkatës dhe pjesëmarrja e tyre, në datën dhe orën e caktuar për ankand, është e detyrueshme.
+Në rast se në ditën e njoftuar për zhvillimin e ankandit nuk paraqitet njëri nga anëtarët e komisionit, anëtari tjetër i pranishëm i komisionit administron kërkesat e paraqitura për blerje dhe komisioni njofton një ditë tjetër për zhvillimin e ankandit, por jo më vonë se 10 (dhjetë) ditë nga data e parë e njoftuar për ankand. Nëse edhe në njoftimin e dytë nuk paraqitet njëri nga anëtarët e komisionit të ankandit, atëherë Drejtoria e Drejtimit të Pronës Publike, në Ministrinë e Financave, plotëson komisionin e ankandit me një anëtar, brenda strukturës së drejtorisë, dhe urdhëron zhvillimin e ankandit.
