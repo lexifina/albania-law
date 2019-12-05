@@ -1,0 +1,1 @@
+2. Vlerësimi i dëmeve të shkaktuara nga fatkeqësia natyrore të bëhet në përputhje me metodologjinë PDNA (vlerësimi i nevojave pas fatkeqësisë), që përdoret nga vendet anëtare të Bashkimit Evropian dhe PNUD-i.
