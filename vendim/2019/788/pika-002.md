@@ -1,0 +1,1 @@
+2. Komisioni Qendror i Statusit “Dëshmor i atdheut” mbështetet nga një staf teknik, që funksionon pranë Ministrisë së Mbrojtjes, përbërja dhe organizimi i të cilit përcaktohet nga ministri i Mbrojtjes. Përgjegjësi i këtij stafi ushtron funksionet e sekretarit të Komisionit Qendror të Statusit “Dëshmor i atdheut”.
