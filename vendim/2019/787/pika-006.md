@@ -1,0 +1,1 @@
+6. Kur familjari i autorizuar, sipas listës dhe vendimit të KQSDA-së për tërheqjen e shpërblimit, vdes, kjo e drejtë i transferohet njërit prej pjesëtarëve të rrethit familjar, sipas procedurës së përcaktuar në pikën 2, të këtij vendimi.

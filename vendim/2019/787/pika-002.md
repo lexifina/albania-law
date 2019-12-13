@@ -1,0 +1,1 @@
+2. Kur përfitues të shpërblimit financiar, sipas certifikatës së rrethit familjar të dëshmorit të atdheut në momentin e vdekjes së tij, janë më shumë se një person, atëherë personi që do të tërheqë këtë shpërblim duhet të pajiset me prokurë të lëshuar nga përfituesit e tjerë.

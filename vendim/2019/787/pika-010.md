@@ -1,0 +1,1 @@
+10. Efektet financiare, që rrjedhin nga zbatimi i këtij vendimi, do të përballohen nga fondet e miratuara në buxhetin e Institutit të Sigurimeve Shoqërore dhe fillojnë nga hyrja në fuqi e këtij vendimi.

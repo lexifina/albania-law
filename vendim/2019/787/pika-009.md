@@ -1,0 +1,1 @@
+9. Trajtimi financiar për rrethin familjar të dëshmorit të atdheut, i cili e ka fituar të drejtën për t’u njohur si “Dëshmor i atdheut” me vendim gjykate të formës së prerë, fillon nga data e vendimit të komisionit për mosdhënien e statusit “Dëshmor i atdheut”.

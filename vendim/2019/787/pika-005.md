@@ -1,0 +1,1 @@
+5. KQSDA-ja i dërgon Institutit të Sigurimeve Shoqërore emrin e familjarit, që, sipas certifikatës së gjendjes familjare të dëshmorit të atdheut në momentin e vdekjes së tij, përfiton shpërblimin financiar, bashkë me një kopje origjinale të vendimit për dhënien e statusit “Dëshmor i atdheut”.

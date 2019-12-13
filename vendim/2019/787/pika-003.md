@@ -1,0 +1,1 @@
+3. Në njoftimin e dhënies së statusit “Dëshmor i atdheut” nga Komisioni Qendror i Statusit “Dëshmori i atdheut” (KQSDA), përfituesit duhet të informohen, gjithashtu, edhe në lidhje me procedurën dhe dokumentacionin që kërkohet për të përfituar shpërblimin financiar.

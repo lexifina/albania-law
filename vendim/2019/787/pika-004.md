@@ -1,0 +1,1 @@
+4. Në rast se përfituesit, sipas certifikatës së rrethit familjar të dëshmorit të atdheut në momentin e vdekjes së tij, brenda 10 ditëve, nga njoftimi i dhënies së statusit “Dëshmor i atdheut” nga KQSDA, nuk bien dakord për pajisjen me prokurë të njërit prej tyre, atëherë masa e shpërblimit financiar mujor do të pjesëtohet sipas numrit të përgjithshëm të përfituesve.
