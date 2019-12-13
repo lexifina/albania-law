@@ -1,7 +1,7 @@
 4. Vlerësimi i përmbushjes së kritereve për hapjen e spitaleve publike bëhet nga strukturat përgjegjëse në Ministrinë e Shëndetësisë.
 KREU II
 KRITERET PËR HAPJEN E SPITALEVE
-1. Personat juridikë që kërkojnë të ushtrojnë veprimtarinë në fushën e shërbimit spitalor jopublik, përveç kërkesave të përcaktuara në ligjin nr.9106, datë 17.7.2003 “Për shërbimin spitalor në Republikën e Shqipërisë” dhe në vendimin nr.910, datë 18.6.2008 “Për miratimin e veprimtarisë private në fushën e shëndetësisë” duhet të plotësojnë kriteret e përgjithshme të mëposhtme, si dhe me kriteret e përcaktuara në shtojcat I dhe II, që i bashkëlidhen këtij vendimi.
+11. Personat juridikë, që kërkojnë të ushtrojnë veprimtarinë në fushën e shërbimit spitalor jopublik, përveç kërkesave të përcaktuara në ligjin nr. 9106, datë 17.7.2003, “Për shërbimin spitalor në Republikën e Shqipërisë”, të ndryshuar, dhe në legjislacionin për lejet dhe licencat në Republikën e Shqipërisë, duhet të plotësojnë kriteret e përgjithshme të mëposhtme, si dhe kriteret e përcaktuara në shtojcat I, II e III, që i bashkëlidhen këtij vendimi.
 Ata:
 a) duhet që të kenë parashikuar në aktin e themelimit dhe/ose në statut objektin e veprimtarisë për ofrimin e shërbimeve mjekësore spitalore jopublike, në përputhje me legjislacionin në fuqi dhe me marrëveshjet për shërbimet shëndetësore transkufitare;
 b) duhet që institucionet spitalore jopublike të tyre t’i kenë në harmonizim me planin spitalor, shtetëror dhe vendor;
