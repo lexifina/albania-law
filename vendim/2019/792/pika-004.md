@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 448 000 (katërqind e dyzet e tetë mijë) lekësh dhe shpenzimet procedurale, në vlerën 59 000 (pesëdhjetë e nëntë mijë) lekë do të përballohen nga Ministria e Mbrojtjes.

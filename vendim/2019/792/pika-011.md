@@ -1,0 +1,1 @@
+11. Drejtoria e Administrimit dhe Mbrojtjes së Tokës, Qarku Gjirokastër, të pasqyrojë ndryshimin e kategorisë së resursit në dokumentacionin kadastral për pasuritë, sipas të dhënave në tabelën bashkëlidhur këtij vendimi.

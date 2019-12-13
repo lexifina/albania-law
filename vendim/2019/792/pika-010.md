@@ -1,0 +1,1 @@
+10. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në tokë urbane “truall/varreza”, të pasurive me nr. 364/20 dhe nr.364/21, zona kadastrale 2131, në Këlcyrë, sipas të dhënave në tabelën bashkëlidhur këtij vendimi.

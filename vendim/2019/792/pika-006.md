@@ -1,0 +1,1 @@
+6. Pronari, sipas të dhënave të tabelës që i bashkëlidhet këtij vendimi, të kompensohet, për efekt shpronësimi, pasi të ketë paraqitur pranë Ministrisë së Mbrojtjes certifikatën e pronësisë, kartelën e pasurisë, si dhe hartën treguese të regjistrimit.

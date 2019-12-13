@@ -1,0 +1,1 @@
+8. Afatet për kryerjen e punimeve të jenë në përputhje me parashikimet e projektit “Mirëmbajtja, rinovimi dhe zgjerimi i varrezave të grekëve të rënë në luftën e viteve 1940-1941 në Këlcyrë, Shqipëri”.
