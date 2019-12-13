@@ -1,0 +1,1 @@
+7. Pronari i pasurisë së paluajtshme, që shpronësohet, sipas tabelës bashkëlidhur këtij vendimi, të kompensohet, për efekt shpronësimi, pasi të ketë paraqitur pranë Bashkisë Shkodër certifikatën e pronësisë, hartën treguese të regjistrimit, si dhe kartelën e pasurisë.
