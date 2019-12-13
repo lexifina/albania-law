@@ -1,0 +1,1 @@
+2. Varrezat e Dëshmorëve të Atdheut mbajnë statusin e varrezave monumentale dhe, si të tilla, trajtohen e mbrohen si monument kulture, sipas parashikimeve të legjislacionit në fuqi për shërbimin publik të varrimit dhe për trashëgiminë kulturore e muzetë.

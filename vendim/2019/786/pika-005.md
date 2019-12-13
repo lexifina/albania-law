@@ -1,0 +1,1 @@
+5. Ministria e Mbrojtjes, Ministria e Brendshme, Ministria e Kulturës, në bashkëpunim me njësitë e vetëqeverisjes vendore, janë institucionet përgjegjëse për projektimin dhe ndërtimin e varrezave të reja të dëshmorëve të atdheut. Projektimi dhe ndërtimi bëhen kundrejt fondeve buxhetore që do të akordohen rast pas rasti.

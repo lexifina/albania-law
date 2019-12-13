@@ -1,0 +1,1 @@
+7. Në çdo varrezë të dëshmorëve të atdheut përcaktohen shërbimet e ruajtjes, të kontrollit dhe të kujdestarisë gjatë gjithë kohës së funksionimit të tyre, sipas akteve ligjore në fuqi për administrimin e varrimit dhe për trashëgiminë kulturore.

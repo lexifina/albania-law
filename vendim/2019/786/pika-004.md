@@ -1,0 +1,1 @@
+4. Deklarimi pasuri kulturore i varrezave të reja, që gëzojnë statusin “Dëshmor i atdheut”, bëhet sipas përcaktimeve të legjislacionit në fuqi për trashëgiminë kulturore e muzetë. Administrimi i vlerave kulturore të varrezave monumentale bëhet nga ministria përgjegjëse për trashëgiminë kulturore, sipas përcaktimeve të legjislacionit në fuqi për trashëgiminë kulturore dhe muzetë.

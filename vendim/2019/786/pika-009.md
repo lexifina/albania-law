@@ -1,0 +1,1 @@
+9. Në rastet kur normat e radioaktivitetit janë tej normave të lejuara, atëherë mbetjet mortore të personit të shpallur “Dëshmor i atdheut” do të trajtohen sipas rregullave ligjore e teknike për mbrojtjen nga rrezatimet radioaktive, në bashkëpunim me organet kompetente.
