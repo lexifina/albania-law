@@ -4,6 +4,10 @@ Nr. 109, datë 1.7.2019
 
 PËR NJË NDRYSHIM NË VENDIMIN E BORDIT TË ERE-s NR. 207, DATË 18.12.2017, “PËR MIRATIMIN E RREGULLORES PËR KRITERET STANDARDE TË CILËSISË SË SHËRBIMIT TË TRANSMETIMIT TË ENERGJISË ELEKTRIKE”
 
+(Ndryshuar me vendimin nr. 209, datë 16.12.2019)
+
+(i përditësuar)
+
 Në mbështetje të nenit 7, pika 1 dhe nenit 16, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike” i ndryshuar; nenit 104, pika 4, germa “a”; nenit 113, pikat 1 dhe 3, të ligjit nr. 44/2015 “Kodi i Procedurës Administrative”, si dhe neneve 15 dhe 26 të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 1.7.2019, mbasi shqyrtoi relacionin e përgatitur nga drejtoritë teknike për një ndryshim në vendimin e Bordit të ERE-s nr. 207, datë 18.12.2017, “Për miratimin e rregullores për kriteret standarde të cilësisë së shërbimit të transmetimit të energjisë elektrike”, 
 
 konstatoi se: 
@@ -36,7 +40,7 @@ VENDOSI:
 
 1. Pikat 7.1, 7.2 dhe 9.1, të “Rregullores për kriteret standarde të cilësisë së shërbimit të furnizimit dhe performancës së sigurisë së rrjetit të transmetimit të energjisë elektrike”, të miratuar me vendimin nr. 207, datë 18.12.2017, të Bordit të ERE-s”, të pezullohen deri në miratimin nga ERE-s të niveleve të lejuara të kritereve standarde të cilësisë së shërbimit, sipas pikës 7.4 të po kësaj rregulloreje. 
 
-2. Pika 7.3 e “Rregullores për kriteret standarde të cilësisë së shërbimit të furnizimit dhe performancës së sigurisë së rrjetit të transmetimit të energjisë elektrike, ndryshon dhe bëhet: “OST sh.a. do të propozojë në ERE, për miratim nivelin e lejuar të kritereve standarde të cilësisë së shërbimit, brenda datës 31 korrik 2019.”. 
+2. Pika 7.3 e “Rregullores për kriteret standarde të cilësisë së shërbimit të transmetimit të energjisë elektrike”, ndryshon dhe bëhet: “OST sh.a. do të propozojë në ERE për miratim nivelin e lejuar të kritereve standarde të cilësisë së shërbimit, brenda datës 30.11.2020.
 
 3. Pika 7.4 e “Rregullores për kriteret standarde të cilësisë së shërbimit të furnizimit dhe performancës së sigurisë së rrjetit të transmetimit të energjisë elektrike, ndryshon dhe bëhet: “Brenda 6 muajve nga paraqitja e propozimit të OST sh.a., ERE do të vlerësojë nivelet e pritshme të performancës dhe do të miratojë nivelin e lejuar të kritereve standarde të cilësisë së shërbimit.”. 
 
