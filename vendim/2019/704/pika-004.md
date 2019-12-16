@@ -1,2 +1,2 @@
-4. Ngarkohen Ministria e Mbrojtjes dhe Ministria e Financave dhe Ekonomisë për zbatimin e këtij vendimi.
+4. Ngarkohen Ministria e Mbrojtjes, Ministria e Financave dhe Ekonomisë, Ministria e Turizmit dhe Mjedisit dhe Agjencia Kombëtare e Bregdetit për zbatimin e këtij vendimi.
 Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
