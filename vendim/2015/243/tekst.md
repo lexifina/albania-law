@@ -4,6 +4,10 @@ Nr.  243, datë 18.3.2015
 
 PËR PRANIMIN, LËVIZJEN PARALELE, PERIUDHËN E PROVËS DHE EMËRIMIN NË KATEGORINË EKZEKUTIVE
 
+(Ndryshuar me VKM nr. 746, datë 19.12.2018)
+
+(i përditësuar)
+
 Në mbështetje të nenit 100 të Kushtetutës dhe të neneve 22, pika 6, 23, pika 5, 24, pika 5, e 25, pika 5, të ligjit nr. 152/2013, “Për nëpunësin civil”, të ndryshuar, me propozimin e ministrit të Shtetit për Inovacionin dhe Administratën Publike, Këshilli i Ministrave
 
 VENDOSI:
@@ -28,7 +32,7 @@ PRANIMI NË SHËRBIMIN CIVIL NË KATEGORINË EKZEKUTIVE
 
 4. Bazuar në planin vjetor të pranimit, njësia përgjegjëse njofton procedurën e pranimit për çdo grup, duke bërë të njohur edhe planin e zhvillimit të procedurës për secilin grup, jo më vonë se një muaj pas miratimit të këtij plani nga organet përgjegjëse ose gjatë vitit kur shfaqet e nevojshme, si rezultat i krijimit të vendeve vakante në mënyrë të paparashikuar.
 
-5. Për institucionet e administratës shtetërore, shpallja e procedurës së pranimit për secilin grup publikohet në faqen zyrtare të DAP-it dhe në portalin “Shërbimi Kombëtar i Punësimit” dhe qëndron e publikuar deri në përfundimin e procedurës së pranimit.
+5. Për institucionet e administratës shtetërore, shpallja e procedurës së pranimit për secilin grup publikohet në faqen zyrtare të DAP-it dhe në portalin “Shërbimi Kombëtar i Punësimit” dhe qëndron e publikuar të paktën deri në përfundimin e procedurës së pranimit.
 
 6. Institucionet e pavarura dhe njësitë e qeverisjes vendore bëjnë shpalljen e procedurës së pranimit për secilin grup në portalin “Shërbimi Kombëtar i Punësimit”, në stendat e informimit të publikut, si dhe në faqen e tyre të internetit në rast se kanë.
 
@@ -60,7 +64,11 @@ g) Mënyrën e vlerësimit të kandidatëve në fazën e verifikimit paraprak, s
 
  gj) Mënyrën e njoftimit dhe komunikimit me kandidatët.
 
-10. Dokumentacioni duhet të dorëzohet jo më vonë se 15 (pesëmbëdhjetë) ditë kalendarike nga dita e parë e shpalljes në portalin “Shërbimi Kombëtar i Punësimit”, sipas përcaktimit në shpalljen për konkurrim.
+10. Shpallja është e hapur për të gjithë kandidatët nga jashtë shërbimit civil. Dokumentacioni duhet të dorëzohet brenda datës së përcaktuar në shpalljen për konkurrim. Kjo datë përcaktohet duke siguruar që afati i dorëzimit të dokumentacionit të mos jetë më i vogël se 15 (pesëmbëdhjetë) ditë kalendarike nga dita e parë e shpalljes në:
+
+a) faqen zyrtare të DAP-it dhe portalin “Shërbimi Kombëtar i Punësimit”, për institucionet e administratës shtetërore;
+
+b)portalin “Shërbimi Kombëtar i Punësimit”, në faqen zyrtare të internetit dhe në ambientet e brendshme, për institucionet e pavarura dhe njësitë e qeverisjes vendore.
 
 KREU III
 
@@ -118,7 +126,7 @@ a) Verifikimi paraprak, i cili ka për qëllim të verifikojë nëse kandidatët
 
 b) Vlerësimi i kandidatëve.
 
-2. Njësia përgjegjëse, në bazë të dokumen-tacionit të paraqitur, jo më vonë se 10 (dhjetë) ditë kalendarike nga data e mbylljes së pranimit të tyre, bën verifikimin paraprak të kandidatëve që përmbushin kërkesat e përgjithshme dhe të veçanta, të përcaktuara në shpalljen për konkurrim.
+2. Njësia përgjegjëse, në bazë të dokumentacionit të paraqitur, jo më vonë se 16 (gjashtëmbëdhjetë) ditë kalendarike nga data e mbylljes së pranimit të tyre, bën verifikimin paraprak të kandidatëve që përmbushin kërkesat e përgjithshme dhe të veçanta, të përcaktuara në shpalljen për konkurrim.
 
 3. Në përfundim të verifikimit, sipas pikës 2, të kreut IV, të këtij vendimi, kandidatët, të cilët plotësojnë kërkesat e përgjithshme dhe të veçanta të pozicionit të punës, renditen në një listë sipas rendit alfabetik.
 
@@ -130,7 +138,7 @@ b)portalin “Shërbimi Kombëtar i Punësimit”, në faqen zyrtare të interne
 
 5. Kandidatët, që nuk plotësojnë kërkesat e përcaktuara në shpalljen për konkurrim, renditen në një listë të veçantë, në të cilën tregohen edhe arsyet e mosplotësimit të këtyre kërkesave. Lista administrohet nga njësia përgjegjëse dhe nuk bëhet publike. Kandidatët që nuk janë kualifikuar njoftohen individualisht nga njësia përgjegjëse.
 
-6. Brenda 5 (pesë) ditëve kalendarike nga data e njoftimit individual, në përputhje me pikën 5, të kreut IV, të këtij vendimi, kandidatët që nuk janë kualifikuar kanë të drejtë të paraqesin ankesë me shkrim pranë njësisë përgjegjëse. Ankuesi merr përgjigje brenda 5 (pesë) ditëve kalendarike nga data e depozitimit të ankesës.
+6. Brenda 5 (pesë) ditëve kalendarike nga data e njoftimit individual, në përputhje me pikën 5, të kreut IV, të këtij vendimi, kandidatët që nuk janë kualifikuar kanë të drejtë të paraqesin ankesë me shkrim pranë njësisë përgjegjëse. Ankuesi merr përgjigje brenda 5 (pesë) ditëve kalendarike nga data e përfundimit të afatit të ankimit.
 
 7. Në vlerësimin e kandidatëve përfshihen:
 
@@ -150,9 +158,11 @@ c) për vlerësimin me shkrim, deri në 60 pikë.
 
 9. KPP-ja, 24 (njëzet e katër) orë përpara zhvillimit të fazës së vlerësimit të kandidatëve, zgjedh një grup pyetjesh për testimin e fushës së njohurive, të aftësive e të cilësive të shpallura sipas pikës 9, të kreut II, të këtij vendimi.
 
-10. KPP-ja, ditën e intervistës së strukturuar me gojë, zgjedh një grup të njëjtë pyetjesh për të gjithë kandidatët. Intervista e strukturuar me gojë ka për qëllim vlerësimin e jetëshkrimit, të njohurive, aftësive dhe formimit të kandidatëve.
+9/1. Nëse kandidati grumbullon më shumë se gjysmën e pikëve (mbi 30 pikë) nga vlerësimi me shkrim, ai kualifikohet për të kaluar në procesin e vlerësimit të jetëshkrimit.
 
-11. Nëse kandidati grumbullon më shumë se gjysmën e pikëve (mbi 30 pikë) nga vlerësimi me shkrim, ai kualifikohet për intervistën e strukturuar me gojë dhe vlerësimin e jetëshkrimit.
+10. KPP-ja, ditën e intervistës së strukturuar me gojë, zgjedh një grup të njëjtë pyetjesh për të gjithë kandidatët. Intervista e strukturuar me gojë ka për qëllim vlerësimin e njohurive, aftësive dhe formimit të kandidatëve.
+
+11. Nëse kandidati grumbullon mbi 45 (dyzet e pesë) pikë nga vlerësimi me shkrim dhe vlerësimi i jetëshkrimit së bashku, ai kualifikohet për intervistën e strukturuar me gojë.
 
 12. KPP-ja, në përfundim të fazës së vlerësimit të kandidatëve, liston kandidatët fitues me mbi 70 pikë (mbi 70% të pikëve), duke filluar nga kandidati me rezultatin më të lartë. Lista me renditjen e kandidatëve sipas pikëve i dërgohet nga KKP-ja njësisë përgjegjëse, brenda 24 (njëzet e katër) orëve nga përpilimi i saj. 
 
@@ -174,13 +184,39 @@ c) Në rast se nuk mund të aplikohet asnjëra nga alternativat e mësipërme, a
 
 18.	Në rast të mosemërimit të kandidatit fitues për shkak të mungesës së vendeve vakante apo për shkak të refuzimit sipas pikës 17, të kreut IV, të këtij vendimi, ai vazhdon të qëndrojë në listën e fituesve për një periudhë dyvjeçare. 
 
+18/1. Kandidatët që nuk paraqiten për të zgjedhur pozicionin e punës, sipas ftesës së bërë nga njësia përgjegjëse, pa shkaqe të arsyeshme, humbasin të drejtën e zgjedhjes nga lista e pozicioneve për të cilën janë ftuar të zgjedhin dhe të drejtën e qëndrimit në listën fituese. 
+
+Kandidatët që nuk paraqiten për të zgjedhur pozicionin e punës, sipas ftesës së bërë nga njësia përgjegjëse, për shkaqe të arsyeshme, njoftojnë njësinë përgjegjëse për pamundësinë e pjesëmarrjes së tyre të paktën deri në orarin e përcaktuar prej saj për paraqitjen e kandidatëve. Në këtë rast njësia përgjegjëse shtyn datën e paraqitjes së kandidatëve fitues në një datë tjetër.
+
+18/2. Në kuptim të pikës 18/1, të kreut IV, të këtij vendimi, shkaqe të arsyeshme konsiderohen:
+
+a) Rastet e sëmundjeve të kandidatit fitues, fëmijëve të mitur apo bashkëshortit/es, vërtetuar me dokument mjekësor;
+
+b) Vdekja e prindërve, bashkëshortit/es, fëmijës, vëllezërve, motrave;
+
+c) Forcat madhore.
+
 19. Njësia përgjegjëse, pas marrjes së miratimit zyrtar nga kandidati fitues, nxjerr aktin e emërimit drejtuar kandidatit dhe institucionit të përzgjedhur.
 
-20.	Nëse asnjë nga kandidatët nuk merr mbi 70 pikë (70% të pikëve), atëherë komiteti vendos përfundimin e fazës së vlerësimit të kandidatëve pa asnjë të përzgjedhur fitues. Njësia përgjegjëse bën njoftimin në faqen zyrtare dhe në portalin “Shërbimi Kombëtar i Punësimit” për përfundimin e konkurrimit pa asnjë fitues. 
+19/1. Pas marrjes së aktit të emërimit, kandidati fitues detyrohet të paraqitet pranë institucionit ku është emëruar, jo më vonë se 5 (pesë) ditë pune nga data e marrjes së aktit.
 
-21. Njësia përgjegjëse, në kushtet e rezultatit pa asnjë fitues ose me më pak fitues se planifikimi, rihap procedurën e pranimit në shërbimin civil, brenda 5 (pesë) ditëve kalendarike nga përfundimi i shqyrtimit të ankimeve. Në këtë rast, afati i dorëzimit të dokumenteve është 15 (pesëmbë-dhjetë) ditë kalendarike.
+19/2. Në rast të mosparaqitjes së kandidatit fitues, brenda afatit të përcaktuar në pikën 19/1, të kreut IV, të këtij vendimi, institucioni ku kandidati është emëruar, njofton njësinë përgjegjëse brenda 5 (pesë) ditëve pune nga përfundimi i afatit. Në këtë rast njësia përgjegjëse vijon procedurën me anulimin e aktit administrativ (akti i emërimit), në zbatim të dispozitave të Kodit të Procedurave Administrative.
 
-22.	Kandidati, pavarësisht nga e drejta për t’u ankuar në gjykatën administrative, ka të drejtë të bëjë ankim me shkrim edhe në KPP për rezultatin e pikëve dhe renditjen në listën fituese, brenda 5 (pesë) ditëve kalendarike nga data e njoftimit individual të rezultateve të vlerësimit. Ankuesi merr përgjigje brenda 5 (pesë) ditëve kalendarike nga data e përfundimit të afatit ankimor. Në përfundim të këtij afati njësia përgjegjëse publikon listën përfundimtare të fituesve. 
+19/3. Institucionet detyrohen të nxjerrin aktin e fillimit të efekteve financiare të kandidatit të emëruar nga njësia përgjegjëse, jo më vonë se 5 (pesë) ditë pune nga data e paraqitjes së tij pranë institucionit. Ky afat mund të shtyhet me marrëveshje midis të dyja palëve, por jo më shumë se 1 (një) muaj nga data e nxjerrjes së aktit të emërimit nga njësia përgjegjëse.
+
+20. Nëse asnjë nga kandidatët nuk merr mbi 70 pikë (70% të pikëve), atëherë komiteti vendos përfundimin e fazës së vlerësimit të kandidatëve pa asnjë të përzgjedhur fitues. Njësia përgjegjëse bën njoftimin në faqen zyrtare dhe në portalin “Shërbimi Kombëtar i Punësimit” për përfundimin e konkurrimit pa asnjë fitues. 
+
+21. Njësia përgjegjëse, në kushtet e rezultatit pa asnjë fitues ose me më pak fitues se planifikimi, rihap procedurën e pranimit në shërbimin civil, bazuar në planin e zhvillimit të procedurës për secilin grup, të njoftuar nga ajo, sipas pikës 4, të kreut II, të këtij vendimi.
+
+22.	Kandidati, pavarësisht nga e drejta për t’u ankuar në gjykatën administrative, ka të drejtë të bëjë ankim me shkrim edhe në KPP, për rezultatin e pikëve dhe/ose renditjen në listën fituese. Afati i ankimit fillon brenda 5 (pesë) ditëve kalendarike nga:
+
+a) data e njoftimit individual të rezultatit të vlerësimit me shkrim, për kandidatët që kanë grumbulluar deri në gjysmën e pikëve (deri në 30 pikë) nga ky vlerësim;
+
+b) data e njoftimit individual të rezultatit të vlerësimeve, për kandidatët që kanë grumbulluar deri në 45 (dyzet e pesë) pikë nga vlerësimi me shkrim dhe vlerësimi i jetëshkrimit;
+
+c) data e njoftimit individual të rezultatit të vlerësimeve, për kandidatët të cilët kanë marrë pjesë në të tri fazat e vlerësimit të përcaktuara sipas pikës 7, të kreut IV, të këtij vendimi. 
+
+Të gjithë ankuesit marrin përgjigje brenda 5 (pesë) ditëve kalendarike nga data e përfundimit të afatit ankimor të përcaktuar në shkronjën “c”, të kësaj pike. Në përfundim të këtij afati njësia përgjegjëse publikon listën përfundimtare fituese. 
 
 KREU V
 
@@ -274,13 +310,13 @@ c) Të ketë të paktën vlerësimin e fundit “Mirë” apo “Shumë mirë”
 
 3. Shpallja për vendin e lirë, që do të plotësohet nëpërmjet procedurës së lëvizjes paralele, bëhet sipas pikave 4, 5, 6 dhe 7, të kreut II, të këtij vendimi.
 
-4. Shpallja qëndron në portal deri në përfundimin e procedurës së konkurrimit. Në shpallje për
+4. Shpallja qëndron në portal të paktën deri në përfundimin e procedurës së konkurrimit. Në shpallje për
 
 a) pozicioni i punës që është vakant;
 
 b) përshkrimi i përgjithshëm i punës për atë pozicion;
 
-c)	kushtet për lëvizjen paralele dhe kriteret e veçanta që duhet të plotësojnë kandidatët;
+c) kushtet për lëvizjen paralele dhe kriteret e veçanta që duhet të plotësojnë kandidatët;
 
 ç) dokumentet që duhet të dorëzohen dhe mënyra e dorëzimit të tyre;
 
@@ -298,7 +334,7 @@ g) data e daljes së rezultateve të konkurrimit;
 
  gj) mënyra e njoftimit dhe komunikimit me kandidatët.
 
-5. Shpallja është e hapur për të gjithë nëpunësit civilë të së njëjtës kategori në të gjitha institucionet, pjesë e shërbimit civil. Afati i dorëzimit të dokumenteve është 10 (dhjetë) ditë kalendarike nga momenti i shpalljes në portal.
+5. Shpallja është e hapur për të gjithë nëpunësit civilë të së njëjtës kategori në të gjitha institucionet, pjesë të shërbimit civil. Dokumentacioni duhet të dorëzohet brenda datës së përcaktuar në shpalljen për vendin e lirë. Kjo datë përcaktohet duke siguruar që afati i dorëzimit të dokumentacionit të mos jetë më i vogël se 10 (dhjetë) ditë kalendarike nga dita e parë e shpalljes.
 
 6. Procedura e lëvizjes paralele përfshin dy faza:
 
@@ -318,7 +354,7 @@ b)portalin “Shërbimi Kombëtar i Punësimit”, në faqet e internetit nëse 
 
 10. Kandidatët që nuk kualifikohen, njoftohen individualisht nga njësia e burimeve njerëzore të institucionit për shkaqet e moskualifikimit, në të njëjtën ditë me shpalljen e listës së verifikimit paraprak të kandidatëve.
 
-11. Kandidatët, të cilët rezultojnë të pakualifikuar, brenda 3 (tri) ditëve kalendarike nga data e njoftimit individual në përputhje me pikën 10, të kreut VII, të këtij vendimi, kanë të drejtë të paraqesin ankesat me shkrim në njësinë e burimeve njerëzore të institucionit që ka vendin vakant. Ankesat zgjidhen brenda 5 (pesë) ditëve kalendarike nga data e paraqitjes së tyre.
+11. Kandidatët, të cilët rezultojnë të pakualifikuar, brenda 3 (tri) ditëve kalendarike nga data e njoftimit individual në përputhje me pikën 10, të kreut VII, të këtij vendimi, kanë të drejtë të paraqesin ankesat me shkrim në njësinë e burimeve njerëzore të institucionit që ka vendin vakant. Ankesat zgjidhen brenda 5 (pesë) ditëve kalendarike nga data e përfundimit të afatit të ankimit.
 
 12. Pas përfundimit të procedurës së sipërpërmendur, nëpunësi më i lartë civil i institucionit, brenda 2 (dy) ditëve kalendarike urdhëron ngritjen e komisionit të brendshëm, i cili ka në përbërje tre anëtarë, si më poshtë vijon:
 
@@ -344,7 +380,11 @@ a) 40 pikë për dokumentacionin e dorëzuar, i ndarë: 20 pikë për përvojën
 
 b) 60 pikë intervista me gojë.
 
-19.	Komisioni, në përfundim të vlerësimit, përzgjedh kandidatin, i cili renditet i pari ndër kandidatët që kanë marrë të paktën 70 pikë (70% të pikëve). Në rastet e kandidatëve me pikë të barabarta, zbatohet parashikimi i pikës 13, të kreut IV, të këtij vendimi.
+18/1. Komisioni, në përfundim të vlerësimit rendit kandidatët sipas pikëve të grumbulluara dhe ia dërgon listën njësisë së burimeve njerëzore të institucionit. Njësia e burimeve njerëzore të institucionit, brenda 24 (njëzetë e katër) orëve nga dita që komisioni i njofton vendimin e tij, njofton individualisht kandidatët që kanë konkurruar për rezultatin e tyre.
+
+18/2 Kandidatët, pavarësisht nga e drejta për t’u ankuar në gjykatën administrative, kanë të drejtë të bëjnë ankim me shkrim edhe në komisionin e brendshëm për lëvizjen paralele për rezultatin e vlerësimit, brenda 3 (tri) ditëve kalendarike nga data e njoftimit individual mbi rezultatin. Ankuesi merr përgjigje brenda 3 (tri) ditëve kalendarike nga data e përfundimit të afatit të ankimit.
+
+19. Komisioni, brenda 24 (njëzet e katër) orëve pas përfundimit të procedurave të ankimit, sipas pikës 18/2, të kreut VII, të këtij vendimi, përzgjedh kandidatin, i cili renditet i pari ndër kandidatët që kanë marrë të paktën 70 pikë (70% të pikëve). Në rastet e kandidatëve me pikë të barabarta, zbatohet parashikimi i pikës 13, të kreut IV, të këtij vendimi.
 
 20.	Në rastin e përzgjedhjes së kandidatit fitues, komisioni ia njofton vendimin e përzgjedhjes njësisë përgjegjëse, brenda 24 (njëzet e katër) orëve.
 
@@ -353,6 +393,12 @@ b) 60 pikë intervista me gojë.
 22. Njësia përgjegjëse, brenda 5 (pesë) ditëve kalendarike, shpall fituesin dhe bën aktin e emërimit të kandidatit. Shpallja e fituesit për institucionet e administratës shtetërore bëhet në faqen e internetit të DAP-it, portalin “Shërbimi Kombëtar i Punësimit” dhe në faqen e internetit të institucionit, ndërsa për institucionet e pavarura dhe njësitë e qeverisjes vendore, përveç portalit, ajo bëhet edhe në faqet e internetit nëse kanë dhe në stendat e informimit të publikut.
 
 23.	Kandidati fitues, brenda 5 (pesë) ditëve pune nga data e nxjerrjes së aktit të emërimit sipas pikës 22, të kreut VII, të këtij vendimi, detyrohet të bëjë dorëzimet përkatëse për pozicionin e punës që ka pasur më parë. 
+
+Kandidiati fitues detyrohet të paraqitet pranë institucionit ku është emëruar, jo më vonë se 1 (një) ditë pune nga dita e përfundimit të dorëzimit të detyrës pranë institucionit të mëparshëm.
+
+23/1. Në rast të mosparaqitjes së kandidatit fitues brenda afatit të përcaktuar në pikën 23, të kreut VII, të këtij vendimi, institucioni ku kandidati është emëruar, njofton njësinë përgjegjëse brenda 5 (pesë) ditëve pune nga përfundimi i afatit. Në këtë rast njësia përgjegjëse vijon procedurën me anulimin e aktit administrativ (akti i emërimit), në zbatim të dispozitave të Kodit të Procedurave Administrative.
+
+23/2 Institucioni ku nëpunësi civil është emëruar nëpërmjet procedurës së lëvizjes paralele, detyrohet të nxjerrë aktin e fillimit të efekteve financiare jo më vonë se 5 (pesë) ditë pune nga dita e paraqitjes së tij në institucion. Këto afate mund të shtyhen me marrëveshje midis të dyja palëve, por jo më shumë se 15 (pesëmbëdhjetë) ditë pune nga data e nxjerrjes së aktit të emërimit nga njësia përgjegjëse.
 
 24. Nëpunësi civil i emëruar nuk i nënshtrohet periudhës së provës.
 
