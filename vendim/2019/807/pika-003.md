@@ -1,0 +1,5 @@
+3. Kërkuesi paraqet kërkesën e tij pranë ministrisë përgjegjëse për financat, të shoqëruar me dokumentet, si më poshtë vijon:
+a) dokumentacionin e lëshuar nga Agjencia Shtetërore e Kadastrës, që vërteton pronësinë e shtetit mbi sipërfaqen që kërkohet të kalohet nga pronë shtetërore në pronë private, sipas kushteve të përcaktuara në pikën 1, të këtij vendimi;
+b) dokumentacionin e lëshuar nga Agjencia Shtetërore e Kadastrës, që vërteton pronësinë e kërkuesit mbi pronën private që ndodhet në kufi apo që përfshin sipërfaqen e pronës shtetërore që kërkohet të kalohet nga pronë shtetërore në pronë private, sipas kushteve të përcaktuara në pikën 1, të këtij vendimi;
+c) genplanin dhe planvendosjen e sipërfaqes së kërkuar për t’u kaluar nga pronë shtetërore në pronë private, të përgatitur nga ekspertë të licencuar;
+ç) dokumentacionin që vërteton se zona ku ndodhet sipërfaqja e pronës shtetërore, që kërkohet të kalohet nga pronë shtetërore në pronë private, përfshihet në një dokument për planifikimin e territorit për njësinë përkatëse të vetëqeverisjes vendore.

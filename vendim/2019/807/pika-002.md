@@ -1,0 +1,1 @@
+2. Struktura përgjegjëse për shitjen e pronës publike, në ministrinë përgjegjëse për financat, është përgjegjëse për pritjen e kërkesave, shqyrtimin dhe vlerësimin e tyre, si dhe i propozon ministrit përgjegjës për financat për kalimin e sipërfaqeve të pronës shtetërore në pronë private, duke ndjekur të gjitha procedurat e përcaktuara në këtë vendim.

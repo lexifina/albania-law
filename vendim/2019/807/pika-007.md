@@ -1,0 +1,1 @@
+7. Pas kryerjes së verifikimeve, me propozim të ministrit përgjegjës për financat, Këshilli i Ministrave miraton kalimin e sipërfaqeve të pronës shtetërore në pronë private, së bashku me projektkontratën që do të lidhet për këtë qëllim.
