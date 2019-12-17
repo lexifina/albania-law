@@ -1,0 +1,4 @@
+# Neni 48
+Lehtësira
+1. Autoritetet përgjegjëse, të përcaktuara në këtë akt, bashkëpunojnë me autoritetet dhe entet përkatëse publike që individët dhe familjet që kanë humbur familjarët dhe/ose kanë mbetur të pastrehë nga fatkeqësia natyrore, të përfitojnë lehtësira për pagesat e konsumit të ujit dhe të energjisë elektrike gjatë gjendjes së fatkeqësisë natyrore.
+2. Autoritetet përgjegjëse, të përcaktuara në këtë akt, bashkëpunojnë me sektorin bankar për aq sa është e mundur, që individët dhe familjet që kanë humbur familjarët dhe/ose kanë mbetur të pastrehë dhe/ose të papunë nga fatkeqësia natyrore, të cilët janë palë huamarrëse në kontrata të kredive bankare të lehtësohen nëpërmjet ristrukturimit të afateve, të kushteve dhe të termave të kredive gjatë periudhës së gjendjes së fatkeqësisë natyrore.

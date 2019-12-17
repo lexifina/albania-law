@@ -1,0 +1,4 @@
+# Neni 9
+Parimi i trajtimit të barabartë të shtetasve
+1. E drejta për të përfituar dhe për të marrë pjesë në programet e procesit të rindërtimit u garantohet subjekteve të këtij akti pa diskriminim në lidhje me gjininë, racën, ngjyrën, etninë, gjuhën, identitetin gjinor, orientimin seksual, bindjet politike, fetare ose filozofike, gjendjen ekonomike, arsimore ose shoqërore, shtatzëninë, përkatësinë prindërore, përgjegjësinë prindërore, moshën, gjendjen familjare ose martesore, gjendjen civile, vendbanimin, gjendjen shëndetësore, predispozicione gjenetike, aftësinë e kufizuar, përkatësinë në një grup të veçantë, ose me çdo shkak tjetër.
+2. Programet e procesit të rindërtimit mund të parashikojnë kritere ose raste të posaçme për t’i ardhur në ndihmë individëve, familjeve ose grupeve në nevojë apo kategorive të veçanta.

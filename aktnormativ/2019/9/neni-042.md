@@ -1,0 +1,30 @@
+# Neni 42
+Procedura e prokurimit publik për rindërtimin
+1. Kriteret e kualifikimit dhe kriteret e vlerësimit hartohen sipas legjislacionit për prokurimin publik, për aq sa është e mundur dhe pa rënë ndesh me parashikimet e këtij akti.
+2. Këshilli i Ministrave miraton autoritetin përgjegjës për zhvillimin e procedurës, dokumentet standarde të procedurës së prokurimit, kriteret e vlerësimit dhe përcaktimit të ofertës fituese, kushtet e marrëveshjes kuadër, si dhe të kontratës.
+3. Autoriteti përgjegjës skualifikon nga procedura e përzgjedhjes së fituesve të kontratave publike çdo operator ekonomik, nëse është ose ka qenë i dënuar me vendim gjyqësor të formës së prerë, për ndonjë nga veprat penale të mëposhtme:
+a) pjesëmarrje në grup të strukturuar kriminal, organizatë kriminale, bandë të armatosur, organizatë terroriste;
+b) korrupsion;
+c) mashtrim;
+ç) pastrim parash ose financim i terrorizmit;
+d) vepra me qëllime terroriste ose vepra penale të lidhura me veprimtari terroriste;
+dh) organizim, drejtim ose financim i veprimtarisë së prodhimit dhe shitjes së narkotikëve, si dhe i veprimtarisë së trafikimit të narkotikëve;
+e) falsifikim;
+ë) shfrytëzim i punës të të miturve dhe forma të tjera të trafikimit të qenieve njerëzore.
+4. Detyrimi për të shkualifikuar një operator ekonomik zbatohet edhe kur personi i dënuar me një vendim gjyqësor të formës së prerë është anëtar i një organi administrativ, drejtues ose mbikëqyrës i atij, aksionar ose ortak, operator ekonomik ose ka kompetenca përfaqësuese, vendimmarrjeje ose kontrolluese brenda tij.
+5. Autoriteti përgjegjës shkualifikon nga procedura e përzgjedhjes së fituesve të kontratave publike çdo operator ekonomik në rastet kur:
+a) ka falimentuar dhe kapitalet e tij janë në proces ekzekutimi nga përmbaruesit;
+b) është subjekt i procedurave për deklarimin e falimentimit dhe ka një urdhër likuidimi të detyruar ose administrimi nga gjykata, ose ka një marrëveshje me kreditorët, ose ndonjë procedurë tjetër të ngjashme;
+c) është dënuar me vendim gjykate të formës së prerë për vepra që lidhen me veprimtarinë profesionale;
+ç) nuk i ka përmbushur detyrimet për derdhjen e kontributeve të sigurimeve shoqërore, në përputhje me legjislacionin shqiptar ose me dispozitat e zbatueshme në shtetin e origjinës;
+d) nuk i ka përmbushur detyrimet për pagimin e tatimeve, në përputhje me legjislacionin shqiptar ose me dispozitat e zbatueshme në shtetin e origjinës;
+dh) është fajtor për dhënie të informacioneve të rreme, kur këto i janë kërkuar në përputhje me këtë kre, ose nuk ka pranuar t’i japë këto informacione ose dokumente apo një pjesë të tyre;
+e) me vendim të Agjencisë së Prokurimit Publik është përjashtuar nga pjesëmarrja në procedurat e prokurimit publik dhe/ose koncesioneve ;
+ë) ndërtimet civile (godina banimi ose ndërtesa të tjera shtetërore) dhe industriale të projektuara, të ndërtuara, të mbikëqyrura dhe/ose të kolauduara, ku ofertuesi është shfaqur në cilësinë e kontraktorit, nënkontraktorit, janë dëmtuar nga ngjarja e fatkeqësisë natyrore dhe kur ky dëmtim ka ardhur si pasojë e cilësisë së shërbimit dhe/ose zbatimit të punimeve të operatorit ekonomik, vërtetuar nga organet kompetente. Detyrimi për të shkualifikuar një operator ekonomik zbatohet edhe kur aksionari, ortaku, administratori dhe/ose anëtarët e një organi administrativ, drejtues ose mbikëqyrës i tij, aksionar ose ortak ka pasur kompetenca vendimmarrëse në një shoqëri e cila ndodhet në kushtet e mësipërme.
+6. Njësia zbatuese përdor procedurën e përshpejtuar, sipas përcaktimeve të këtij akti, për përzgjedhjen e fituesve të marrëveshjes kuadër për procesin e rindërtimit. Në çdo rast, konkurrimi për marrëveshjen kuadër bëhet me detyrimin për paraqitjen e kapaciteteve teknike, ligjore, ekonomike me ose pa detyrimin për paraqitjen e ofertës financiare.
+7. Njësia zbatuese publikon në sistemin e prokurimit elektronik, Buletinin e Njoftimeve dhe në portalin unik të procesit të rindërtimit, njoftimin e kontratës dhe dokumentet e tenderit për çdo procedurë prokurimi që zhvillohet në kuadër të këtij akti, me përjashtim kur në këtë akt parashikohet ndryshe.
+8. Dokumentacioni dorëzohet në sistemin e prokurimeve elektronike. Afati kohor për pranimin e dokumentacionit është 10 ditë kalendarike nga data e publikimit të njoftimit.
+9. Në rastin e ankesave për dokumentet e tenderit operatorët ekonomikë ankohen brenda 2 ditëve nga publikimi i dokumenteve të tenderit në Komisionin e Prokurimit Publik (KPP), që shqyrton ankesën dhe merr vendim brenda 3 ditëve nga data e depozitimit të ankesës në përputhje me parashikimet e Kodit të Procedurave Administrative dhe këtij akti. Me kalimin e këtij afati, nëse KPP-ja nuk është shprehur me vendim, autoriteti kontraktor vijon procedurën e prokurimit.
+10. Pas afatit për paraqitjen e kërkesave për pjesëmarrje, siç përcaktohet në njoftimin e kontratës, autoriteti kontraktor përzgjedh kandidatët brenda 10 ditëve kalendarike. Kundër vendimit të autoritetit kontraktor për përzgjedhjen e kandidatëve paraqitet ankim administrativ pranë KPP-së, brenda 3 ditëve nga njoftimi i kandidatëve fitues. KPP-ja shqyrton ankesën dhe merr vendim brenda 5 ditëve nga data e depozitimit të ankesës, në përputhje me parashikimet e Kodit të Procedurave Administrative dhe të këtij akti. Për efekt kohe, komunikimi midis Komisionit të Prokurimit Publik dhe autoritetit kontraktor bëhet nëpërmjet e-mail-it zyrtar. Me kalimin e këtij afati, nëse KPP-ja nuk është shprehur me vendim, autoriteti kontraktor vijon me hapat e mëtejshëm të procedurës së prokurimit.
+11. Ankesa në Komisionin e Prokurimit Publik bëhet kundrejt pagesës, sipas parashikimeve të legjislacionit në fuqi për prokurimin publik.
+12. Kundër vendimit të KPP-së mund të paraqitet ankim në gjykatën administrative kompetente sipas parashikimeve të legjislacionit në fuqi për organizimin dhe funksionimin e gjykatave administrative dhe gjykimin e mosmarrëveshjeve administrative. Ankimi në gjykatë nuk pezullon vijimin e procedurës së prokurimit dhe lidhjes së kontratës publike.

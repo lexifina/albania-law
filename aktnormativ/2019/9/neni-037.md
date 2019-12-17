@@ -1,0 +1,13 @@
+# Neni 37
+Kontributet në natyrë
+1. Në rastet kur donatorët marrin përsipër të kontribuojnë në natyrë, sende apo materiale ndërtimore, punë apo shërbime në funksion të procesit të rindërtimit, këto kontribute merren në dorëzim nga Agjencia Kombëtare e Mbrojtjes Civile, që bashkëpunon për këtë qëllim me Drejtorinë e Përgjithshme të Rezervave Materiale të Shtetit ose me kërkesë të kësaj Drejtorie me njësitë e vetëqeverisjes vendore dhe i vendosen në dispozicion njësisë zbatuese sipas parashikimeve të këtij akti.
+2. Kontributet në natyrë të prodhuara, të projektuara apo të përshtatura për ndërtim ose rikonstruksion përllogariten në vlerën e tyre financiare dhe i vendosen në dispozicion kontraktorit të përzgjedhur për zbatimin e punimeve me kusht që vlera korresponduese e tyre t’i zbritet kostos së preventivit të projektit që do të zbatohet. Përdorimi i kontributeve në natyrë në procesin e rindërtimit vendoset me vendim të Këshillit të Ministrave.
+3. Kontributet në natyrë, sende apo materiale ndërtimore magazinohen dhe inventarizohen nga autoriteti përgjegjës dhe lëvrimi i tyre bëhet me kërkesë të njësisë zbatuese dhe me miratim paraprak të Komisionit Shtetëror të Rindërtimit.
+4. Pas magazinimit, autoriteti përgjegjës për magazinimin lëshon një vërtetim ku përcaktohet emri i subjektit, përshkrimi i sendeve të dhuruara, sasia e tyre, si dhe data e vendi i depozitimit.
+5. Çmimet e inventarizimit të tyre përcaktohen nga vetë autoriteti përgjegjës për magazinimin duke u bazuar në çmimet e shitjes kur këto dhurohen me faturë, në çmimet referuese të doganave kur nuk kanë një faturë ose në çmimet referuese sipas manualeve të ndërtimit në fuqi.
+6. Për kontributet në vlerë pune, vlera e punës ose e shërbimit përllogaritet sipas pagës mesatare të gjashtë muajve të fundit për të njëjtën punë për punonjësit e subjektit kontribuues.
+7. Në rastet e kontributit në shërbime, vlera e shërbimit përllogaritet sipas kostos mesatare të gjashtë muajve të fundit për të njëjtin shërbim të ofruar nga kontribuuesi.
+8. AKMC-ja informon Komisionin Shtetëror të Rindërtimit për çdo kontribut në natyrë që regjistrohet sipas parashikimeve të këtij neni.
+9. Kontributet sipas këtij neni u njihen subjekteve përkatëse si shpenzime të zbritshme mbi tatimfitimin.
+10. Të gjitha kontributet në natyrë, sipas përcaktimeve në këtë nen, publikohen në portalin e transparencës së procesit të rindërtimit.
+11. Metodologjia për përcaktimin e vlerës së kontributeve në natyrë, sendeve apo materialeve ndërtimore, si dhe kushtet e procedura për njohjen e kontributit si shpenzim i zbritshëm miratohen me udhëzim të përbashkët të ministrit të Financave dhe Ekonomisë dhe ministrit të Mbrojtjes.

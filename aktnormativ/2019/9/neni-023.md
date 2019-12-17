@@ -1,0 +1,6 @@
+# Neni 23
+Ndërtimi dhe rikonstruksioni i infrastrukturës publike dhe kritike
+1. Me financim nga fondi i rindërtimit ndërtohen ose rikonstruktohen objekte publike, infrastruktura publike dhe kritike.
+2. Njësia zbatuese, në kuptim të këtij neni, caktohet me vendim të Këshillit të Ministrave. Njësi zbatuese mund të jenë dhe subjektet juridike që administrojnë infrastrukturën kritike, të cilat, në varësi të mundësive, mund dhe të bashkëfinancojnë projektet e ndërtimit apo të rikonstruksionit të objekteve të infrastrukturës kritike. Në çdo rast, pronësia e objektit të ri regjistrohet në Agjencinë Shtetërore të Kadastrës, në favor të shtetit ose të njësisë së vetëqeverisjes vendore.
+3. Në rast se ndërtimi ose rikonstruksioni i objektit publik, i infrastrukturës publike dhe kritike, kryhet me financime nga donatorët, që realizojnë vetë dhe punimet e ndërtimit, lidhet marrëveshje bashkëpunimi me Këshillin e Ministrave.
+4. Për miratimin e lejeve të zhvillimit dhe të lejeve të ndërtimit për objekte publike, infrastruktura publike dhe kritike, zbatohen procedura të përshpejtuara që miratohen me vendim të Këshillit të Ministrave. Ndërtimi dhe rikonstruksioni i objekteve publike, i infrastrukturave publike dhe kritike, përjashtohen nga taksa e ndikimit në infrastrukturë dhe tarifat e aplikimit të zbatueshme për lejet e ndërtimit.
