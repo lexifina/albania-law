@@ -1,0 +1,1 @@
+10. Ngarkohet Sekretari i Përgjithshëm, Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë, Sektori i Teknologjisë së Informacionit, Drejtoria e Përgjithshme e Burgjeve, Agjencia e Trajtimit të Pronave, Agjencia e Mbikëqyrjes së Falimentit, Drejtoria e Përgjithshme e Përmbarimit, si dhe Qendra e Botimeve Zyrtare, për zbatimin e këtij urdhri.

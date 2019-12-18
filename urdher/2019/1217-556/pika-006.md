@@ -1,0 +1,1 @@
+6. Ngarkohet Sektori i Teknologjisë Informacionit në Ministrinë e Drejtësisë, që në bashkëpunim me AKSHI-n, të trajnojë personat e autorizuar mbi procedurat e ofrimit të shërbimeve dhe aksesimit në Sistemin e Qarkullimit të Dokumenteve me Nënshkrim Elektronik.

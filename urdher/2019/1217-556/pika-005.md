@@ -1,0 +1,1 @@
+5. Ngarkohen titullarët institucioneve të varësisë, të përcaktuar në këtë urdhër, që brenda datës 20.12.2019, të përcaktojnë dhe të dërgojnë pranë Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë emrat e personave të autorizuar, sipas pikës 4, të këtij urdhri.

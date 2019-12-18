@@ -1,0 +1,1 @@
+7. Të gjitha institucionet e ngarkuara për zbatimin e këtij urdhri mundësojnë informimin dhe sensibilizimin e publikut mbi aplikimet e shërbimeve që do të ofrohen vetëm në portalin qeveritar e-Albania.

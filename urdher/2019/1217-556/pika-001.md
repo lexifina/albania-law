@@ -1,0 +1,1 @@
+1. Të gjitha dokumentet administrative që shërbejnë si dokumentacion shoqërues për marrjen e shërbimeve elektronike në portalin e-Albania, duke nisur nga data 1.1.2020 do të ofrohen dhe do të shkëmbehen vetëm elektronikisht përmes Sistemit të Qarkullimit të Dokumenteve me Nënshkrim Elektronik.
