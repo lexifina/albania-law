@@ -1,0 +1,27 @@
+{
+  "qbz_id": 3416,
+  "title": "Për miratimin e rregullores “Për mbikëqyrjen e  transaksioneve  bankare në rrugë elektronike”",
+  "type": "Vendim",
+  "number": "28",
+  "institution": "Banka e Shqipërisë",
+  "adopted": "2005-03-30",
+  "version_no": 1,
+  "qbz_version_id": 347,
+  "in_force": "2019-12-18",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2019-12-18",
+  "changed_by_qbz_id": 20921,
+  "changed_by_number": "80",
+  "changed_by_title": "Për një ndryshim në rregulloren “Për mbikëqyrjen e transaksioneve bankare në rrugë elektronike”",
+  "source": "https://qbz.gov.al/files/311fa22ff6bcb7532fe2f86420b88e8865fb11e581871d3c5638b421d030bf0f.docx",
+  "source_sha256": "311fa22ff6bcb7532fe2f86420b88e8865fb11e581871d3c5638b421d030bf0f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/3416",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/3416/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
