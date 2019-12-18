@@ -2,9 +2,9 @@ LIGJ
 
 Nr.9975, datë 28.7.2008
 
-PËR TAKSAT KOMBËTARE[^fn2] 
+PËR TAKSAT KOMBËTARE
 
-(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019)
+(Ndryshuar me ligjet: nr. 10065, datë 29.1.2009; nr.10 131, datë 11.5.2009; nr.10145, datë 28.9.2009; nr.10280, datë 20.5.2010; nr.10 458, datë 21.7.2011; nr.83/2012, datë 13.9.2012; nr.120/2013, datë 18.4.2013; nr.178, datë 28.12.2013; nr. 86/2014, datë 17.7.2014; nr.157, datë 27.11.2014; nr.141/2015, datë 17.12.2015; nr.127/2016, datë 15.12.2016, nr. 68/2017, datë  27.4.2017, nr. 104/2017, datë 30.11.2017, nr. 93/2018, datё 3.12.2018, nr. 55/2019, datë 18.7.2019, nr. 86/2019, 18.12.2019)
 
 (i përditësuar) 
 
@@ -28,7 +28,7 @@ Neni 2
 
 Përkufizime
 
-(ndryshuar fjalë në pikën 3 me ligjin nr.178, datë 28.12.2013; ndryshuar me ligjin nr. 86/2014, datë 17.7.2014; shtuar pika 5 me ligjin nr.141/2015, datë 17.12.2015; ndryshuar shkronja “b” e pikës 5 me ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 5 me ligjin nr. 104/2017, datë 30.11.2017)
+(ndryshuar fjalë në pikën 3 me ligjin nr.178, datë 28.12.2013; ndryshuar me ligjin nr. 86/2014, datë 17.7.2014; shtuar pika 5 me ligjin nr.141/2015, datë 17.12.2015; ndryshuar shkronja “b” e pikës 5 me ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 5 me ligjin nr. 104/2017, datë 30.11.2017, shtuar paragrafë në shkronjën “b” të pikës 5 me ligjin nr. 86/2019, 18.12.2019)
 
  Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
@@ -45,6 +45,10 @@ Përkufizime
 	a) cilindratën të barabartë ose më të madhe se 3000 cm<sup>3</sup>; ose
 
 	b) vlerën/çmimin  të  barabartë  ose  më shumë se 5 000 000 lekë.
+
+Vlera e mjetit plotësohet në sistemin informatik të DPTSHRR-së, kur mjeti regjistrohet për herë të parë ose/dhe sa herë ndryshon pronësia e tij. Vlera e mjetit, për efekt të klasifikimit “Automjet luksoz”, reduktohet çdo vit me 10 për qind të vlerës së mbetur.
+
+Për automjetet të cilat shiten, vlera e shitjes së tyre, për efekt klasifikimi si “Automjet luksoz”, nuk mund të jetë më e vogël se vlera e mjetit të amortizuar, sipas paragrafit të mësipërm.
 
 Neni 3
 
@@ -86,25 +90,21 @@ Niveli i taksave kombëtare
 
 (shfuqizuar fjalia e fundit e pikës 2 dhe ndryshuar pika 6 me ligjin nr.10 065, datë 29.1.2009; ndryshuar pikat 2, 3, 4, 6 me ligjin nr.10280, datë 20.5.2010; ndryshuar pikat 2, 3, 6 me ligjin nr.10 458, datë 21.7.2011; shtuar pika 8 me ligjin nr.83/2012, datë 13.9.2012; ndryshuar pika 3  me ligjin nr. 120/2013, datë 18.4.2013; ndryshuar pikat 2, 8 me ligjin nr. 178/2013, datë 28.12.2013; shtuar pika 9 me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar pikat 2,4, shtuar pika 9 me ligjin nr.157, datë 27.11.2014; ndryshuar pikat 4, 5, 9, shtuar pika 11 me ligjin  nr. 141/2015, datë 17.12.2015; ndryshuar pikat  2,3, 4, 8,  me ligjin nr.127/2016, datë 15.12.2016; ndryshuar pika 3 e nenit 4 e ligjit nr. 68/2017, datë  27.4.2017
 
-“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019)
+“Për financat e vetëqeverisjes vendore”, ndryshuar fjalë në pikën 4, shtuar një fjali në pikën 6 dhe ndryshuar pika 8 me ligjin nr. 93/2018, datё 3.12.2018, shtuar një fjali pas fjalisë së parë të pikës 8, ndryshuar fjalë në pikën 8/1 dhe riformuluar pika 8.5 me ligjin nr. 55/2019, datë 18.7.2019, ndryshuar fjalë në pikën 3 me ligjin nr. 86/2019, 18.12.2019)
 
 1. Taksa portuale është 1 euro. Kjo taksë paguhet, për çdo prekje, për të gjitha anijet që prekin portet dhe radat e Republikës së Shqipërisë e që kryejnë veprime tregtare. 
 
-2.  Taksa e qarkullimit mbi benzinën dhe gazoilin caktohet në masën 27 lekë/litër për benzinën dhe 27 lekë/litër për gazoilin.  Kjo taksë paguhet për sasinë e benzinës dhe të gazoilit të importuar apo të prodhuar në vend, me përjashtim të sasisë së benzinës dhe të gazoilit të prodhuar në vend, por të eksportuar jashtë territorit të Shqipërisë.
+2. Taksa e qarkullimit mbi benzinën dhe gazoilin caktohet në masën 27 lekë/litër për benzinën dhe 27 lekë/litër për gazoilin. Kjo taksë paguhet për sasinë e benzinës dhe të gazoilit të importuar apo të prodhuar në vend, me përjashtim të sasisë së benzinës dhe të gazoilit të prodhuar në vend, por të eksportuar jashtë territorit të Shqipërisë.
 
-3. Taksa vjetore e mjeteve të përdorura është e vlefshme për 365 ditë dhe caktohet sipas formulës: Cilindrata në cm<sup>3</sup> x koeficienti fiks sipas vjetërsisë x taksa fikse për llojin e karburantit. Taksa fikse për llojin e karburantit është 12,5 lekë për naftën dhe 10 lekë për benzinën. Koeficienti sipas vjetërsisë së mjetit është si në shtojcën 1 bashkëlidhur këtij ligji dhe është pjesë përbërëse e tij. Mjetet me vjetërsi nga 0-3 vjet nuk janë subjekt i kësaj takse. Detyrimi për pagimin e taksës i takon pronarit të mjetit. E ardhura nga taksa, për çdo rast, mblidhet nga strukturat e Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, drejtoritë rajonale, para kryerjes së kontrollit teknik vjetor të detyrueshëm të mjetit. 
+3. Taksa vjetore e mjeteve të përdorura është e vlefshme për 365 ditë dhe caktohet sipas formulës: Cilindrata në cm3 x koeficienti fiks sipas vjetërsisë x taksa fikse për llojin e karburantit. Taksa fikse për llojin e karburantit është 12,5 lekë për naftën dhe 10 lekë për benzinën. Koeficienti sipas vjetërsisë së mjetit është si në shtojcën 1 bashkëlidhur këtij ligji dhe është pjesë përbërëse e tij. Mjetet me vjetërsi nga 0-3 vjet nuk janë subjekt i kësaj takse. Detyrimi për pagimin e taksës i takon pronarit të mjetit. E ardhura nga taksa, për çdo rast, mblidhet nga strukturat e Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, drejtoritë rajonale, para kryerjes së kontrollit teknik vjetor të detyrueshëm të mjetit. Kontrolli teknik i mjeteve rrugore me motor dhe rimorkiove të tyre kryhet brenda periudhës së vlefshmërisë 365-ditore të taksës vjetore të mjeteve të përdorura. Pronari i mjetit, i cili nuk kryen pagesën e kësaj takse brenda 10 ditëve nga mbarimi i afatit të vlefshmërisë së parashikuar, detyrohet të paguajë një gjobë sipas nenit 114, të ligjit nr. 9920, datë 19.5.2008, “Për procedurat tatimore në Republikën e Shqipërisë”, të ndryshuar. 25 për qind e të ardhurave vjetore nga kjo taksë i kalojnë buxhetit të qeverisjes vendore. Procedura e ndarjes së të ardhurave me buxhetet e njësive të qeverisjes vendore përcaktohet me vendim të Këshillit të Ministrave, bazuar në numrin e mjeteve të regjistruara sipas njësive të qeverisjes vendore.
 
-Kontrolli tenik i mjeteve rrugore me motor dhe rimorkiove të tyre kryhet brenda periudhës së vlefshmërisë 365-ditore të taksës vjetore të mjeteve të përdorura. 
-
-Pronari i mjetit, i cili nuk kryen pagesën e kësaj takse brenda 10 ditëve nga mbarimi i afatit të vlefshmërisë së parashikuar, detyrohet të paguajë një gjobë prej 5 për qind të shumës së detyrimit të papaguar për çdo muaj vonesë, por jo më shumë se 25 për qind për çdo vit. 25 për qind e të ardhurave vjetore nga kjo taksë i kalojnë buxhetit të qeverisjes vendore. Procedura e ndarjes së të ardhurave me buxhetet e njësive të qeverisjes vendore përcaktohet me vendim të Këshillit të Ministrave, bazuar në numrin e mjeteve të regjistruara sipas njësive të qeverisjes vendore.
-
-4. Taksa e rentës minerare caktohet sipas shtojcës nr. 2, që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij. Përqindja e rentës minerare për përmbajtjen e mineralit metalor në nënproduktin minerar është në masën sa 3/7 e normës së rentës për vitin 2019, 3/8 e normës së rentës për vitin 2020 dhe 1/3 e normës së rentës për vitin 2021 e në vijim së përcaktuar në shtojcën nr. 2, “Grupi i parë (I) Mineralet metalike” që i bashkëlidhet këtij ligji. Renta minerare llogaritet si detyrim mujor i subjektit taksapagues, në çastin kur ai shet produkte minerare. 5 për qind e të ardhurave nga renta minerare i takojnë pushtetit vendor ku zhvillohet veprimtaria. Të ardhurat nga renta minerare përdoren për investime për njësitë e qeverisjes vendore.
+4. Taksa e rentës minerare caktohet sipas shtojcës nr. 2, që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij. Përqindja e rentës minerare për përmbajtjen e mineralit metalor në nënproduktin minerar është në masën sa 3/7 e normës së rentës për vitin 2019, 3/8 e normës së rentës për vitin 2020 dhe 1/3 e normës së rentës për vitin 2021 e në vijim së përcaktuar në shtojcën nr. 2, “Grupi i parë (I) Mineralet metalike” që i bashkëlidhet këtij ligji. Çdo person fizik apo juridik, që është i licencuar dhe/ose vepron në industrinë minerare, sipas një marrëdhënieje kontraktuale me ministrin përgjegjës për ekonominë, duhet të paguajë rentë minerare për burimet natyrore që nxjerr nga/mbi/dhe nëntoka e territorit të Republikës së Shqipërisë. Renta minerare llogaritet si detyrim mujor i subjektit taksapagues, në çastin kur ai shet produkte minerare. Në rastin e eksportit të produkteve minerare, renta paguhet në çastin e bërjes së deklaratës së eksportit. 5 për qind e të ardhurave nga renta minerare i takojnë pushtetit vendor ku zhvillohet veprimtaria. Të ardhurat nga renta minerare përdoren për investime për njësitë e qeverisjes vendore.
 
 Renta minerare përcaktohet duke shumëzuar vlerën e përgjithshme të shitjes me shumicë të produktit me përqindjen e rentës, sipas përcaktimeve të shtojcës nr. 2, që i bashkëlidhet këtij ligji. Pagesa e rentës minerare bëhet brenda datës 15 të muajit pasardhës, kur janë realizuar shitjet. Degët e doganave në rrethe ngarkohen për arkëtimin e kësaj rente, në rastin e eksportit të produkteve minerare, ndërsa degët e tatimeve ngarkohen për arkëtimin e kësaj rente, në rastin e shitjes së produkteve minerare brenda vendit.
 
 Në rastin kur taksa e rentës minerare aplikohet në përqindje, kjo taksë  llogaritet duke shumëzuar vlerën e shitjes së produktit (pa TVSH) me përqindjen e rentës. Kur taksa e rentës minerare aplikohet në vlerë fikse për njësi, shuma e rentës minerare llogaritet duke shumëzuar sasitë e shitjes së produktit me vlerën e rentës minerare. Në rastin e shitjes së mineralit të grupit të parë (I), “Mineralet metalike”, për përpunim brenda vendit, nga nxjerrësi te përpunuesi, përqindja e rentës aplikohet në masën sa 3/7 e normës së rentës për vitin 2019, 3/8 e normës së rentës për vitin 2020 dhe 1/3 e normës së rentës për vitin 2021 e në vijim së përcaktuar në shtojcën nr. 2, mbi vlerën (çmimin) e shitjes, e cila, për efekt të përllogaritjes së rentës minerare, nuk mund të jetë më e vogël se çmimi i shitjes për eksport të mineralit të papërpunuar.
 
-Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare dhe dokumentacionin që duhet të paraqesë i licencuari, eksportuesi, për të vërtetuar çmimin e shitjes. Masa e rentës minerare, e përcaktuar në ligjin minerar, ndryshon sipas paragrafëve të parë dhe të dytë, të pikës 4, të nenit 4, të këtij ligji. 
+Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare dhe dokumentacionin që duhet të paraqesë i licencuari, eksportuesi, për të vërtetuar çmimin e shitjes. Masa e rentës minerare, e përcaktuar në ligjin minerar, ndryshon sipas paragrafëve të parë dhe të dytë, të pikës 4, të nenit 4, të këtij ligji 
 
 5. Taksa e akteve dhe e pullës caktohet sipas shtojcës nr. 3, e cila i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
 
@@ -112,7 +112,7 @@ Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare d
 
 7. Taksa e ushtrimit të veprimtarisë së peshkimit caktohet sipas shtojcës nr.4, që i bashkëlidhet këtij ligji dhe është pjesë përbërëse e tij.
 
-8. Taksa e materialeve/artikujve plastikë dhe e ambalazheve plastike të importuara në kapitullin 39, të NKM-së, është 35 lekë/kg, me përjashtim të lëndëve të para në forma primare, të importuara në krerët 3901 deri në 3914, të NKM-së. Në rastet kur artikujt që importohen në kapitullin 39, të NKM-së, pjesa joplastike zë më shumë se 51 për qind të masës së përgjithshme, kjo taksë zbatohet vetëm për pjesën e masës së plastikës. Përveç kapitullit 39, kjo taksë zbatohet edhe  kur materiali plastik zë, të paktën, 51 për qind të masës së përgjithshme të ambalazhit që ambalazhon produkte të tjera të importuara, të klasifikuara në kapitujt, krerët, nënkrerët dhe kodet e tjera tarifore të Nomenklaturës së Kombinuar të Mallrave.
+8. Taksa e materialeve/artikujve plastikë dhe e ambalazheve plastike të importuara në kapitullin 39, të NKM-së, është 35 lekë/kg, me përjashtim të lëndëve të para në forma primare, të importuara në krerët 3901 deri në 3914, të NKM-së. Në rastet kur artikujt që importohen në kapitullin 39, të NKM-së, pjesa joplastike zë më shumë se 51 për qind të masës së përgjithshme, kjo taksë zbatohet vetëm për pjesën e masës së plastikës. Përveç kapitullit 39, kjo taksë zbatohet edhe  kur materiali plastik zë, të paktën, 51 për qind të masës së përgjithshme të ambalazhit që ambalazhon produkte të tjera të importuara, të klasifikuara në kapitujt, krerët, nënkrerët dhe kodet e tjera tarifore të Nomenklaturës së Kombinuar të Mallrave.
 
 8.1 Taksa e lëndëve të para në forma primare, të importuara në krerët 3901 deri në 3914, të NKM-së, dhe që përdoret për prodhimin në vend të produkteve të plastikës është 10 lekë/kg. 
 
@@ -130,7 +130,7 @@ Këshilli i Ministrave përcakton procedurat e arkëtimit së rentës minerare d
 
 11. Pavarësisht nga pagesa e taksës vjetore të mjeteve të përdorura, mbi makinat luksoze zbatohet taksë regjistrimi në masën 70 000  lekë për regjistrim të çdo makine luksoze dhe taksë e përvitshme në masën  21 000 lekë çdo vit. 
 
-	Taksa e përvitshme për automjetet luksoze është e vlefshme për 365 ditë. Detyrimi për pagimin e taksës i takon pronarit të mjetit. E ardhura nga taksa, për çdo rast, mblidhet nga strukturat e Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, Drejtoritë Rajonale, në momentin e vjeljes së taksës vjetore të mjeteve të përdorura. Pronari i mjetit, i cili nuk kryen pagesën e kësaj takse brenda 10 ditëve nga mbarimi i afatit të vlefshmërisë së parashikuar, detyrohet të paguajë një gjobë prej 5 për qind të shumës së detyrimit të papaguar për çdo muaj vonesë, por jo më shumë se 25 për qind për çdo vit.
+Taksa e përvitshme për automjetet luksoze është e vlefshme për 365 ditë. Detyrimi për pagimin e taksës i takon pronarit të mjetit. E ardhura nga taksa, për çdo rast, mblidhet nga strukturat e Drejtorisë së Përgjithshme të Shërbimeve të Transportit Rrugor, Drejtoritë Rajonale, në momentin e vjeljes së taksës vjetore të mjeteve të përdorura. Pronari i mjetit, i cili nuk kryen pagesën e kësaj takse brenda 10 ditëve nga mbarimi i afatit të vlefshmërisë së parashikuar, detyrohet të paguajë një gjobë prej 5 për qind të shumës së detyrimit të papaguar për çdo muaj vonesë, por jo më shumë se 25 për qind për çdo vit.
 
 Neni 4/1
 
@@ -192,17 +192,17 @@ Agjentët e taksave deklarojnë dhe transferojnë të ardhurat nga taksat dhe ta
 
 Neni 7 
 
-Taksat që vilen nëpërmjet pullës 
+Taksa që vilet nëpërmjet pullës 
 
-(ndryshuar fjalë me ligjin nr. 10 458, datë 21.7.2011)
+(ndryshuar fjalë me ligjin nr. 10 458, datë 21.7.2011, ndryshuar me ligjin nr. 86/2019, 18.12.2019)
 
-Taksat kombëtare, që vilen nëpërmjet pullës, janë taksa vjetore e mjeteve të përdorura dhe taksa e akteve të gjendjes civile. 
+Taksa kombëtare, që vilet nëpërmjet pullës, është taksa e akteve të gjendjes civile.
 
 Neni 8
 
 Komisionet që përfitojnë agjentët e taksave 
 
-(ndryshuar shkronja “dh” me ligjin nr.10065, datë 29.1.2009; ndryshuar shkronjat  “b” “c”  “dh” të pikes 2  me ligjin nr.10280, datë 20.5.2010; ndryshuar shkronjat  “b” “c”  të pikes 2  me ligjin nr. 10 458, datë 21.7.2011; ndryshuar pika 1, ndryshuar, fjalia e parë ë pikës 2 me ligjin nr. 178, datë 28.12.2013; shtuar shkronja “ë” me ligjin nr. 86/2014, datë 17.7.2014; shtuar shkronja “f”, në pikën 2 me ligjin nr.157, datë 27.11.2014; shtuar shkronja “g”, me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronja “e” e pikës 2 me ligjin nr. 93/2018, datё 3.12.2018)
+(ndryshuar shkronja “dh” me ligjin nr.10065, datë 29.1.2009; ndryshuar shkronjat  “b” “c”  “dh” të pikës 2  me ligjin nr.10280, datë 20.5.2010; ndryshuar shkronjat  “b” “c”  të pikës 2  me ligjin nr. 10 458, datë 21.7.2011; ndryshuar pika 1, ndryshuar, fjalia e parë ë pikës 2 me ligjin nr. 178, datë 28.12.2013; shtuar shkronja “ë” me ligjin nr. 86/2014, datë 17.7.2014; shtuar shkronja “f”, në pikën 2 me ligjin nr.157, datë 27.11.2014; shtuar shkronja “g”, me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronja “e” e pikës 2 me ligjin nr. 93/2018, datё 3.12.2018, ndryshuar shkronja “g” me ligjin nr. 86/2019, 18.12.2019)
 
 1. Taksat arkëtohen nga agjentët e taksave, të përcaktuar në nenin 5 të këtij ligji, dhe transferohen në llogaritë e drejtorive rajonale tatimore dhe të llogarive të njësive të qeverisjes vendore, sipas përcaktimeve të bëra në këtë ligj.
 
@@ -230,7 +230,7 @@ f) për taksën mbi primet e shkruara 				zero për qind;
 
 g) për taksën e regjistrimit fillestar 
 
-dhe taksën e përvitshme për  automjetet luksoze, 			zero për qind.
+dhe taksën e përvitshme për  automjetet luksoze, 			5 (pesë) për qind.
 
 3. Komisionet e përfituara përdoren: 
 
@@ -244,7 +244,7 @@ Neni 9
 
 Përjashtimet nga pagimi i taksave kombëtare
 
-(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii”të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “dh”, “e”, “ë” dhe “f” në pikën 4 me ligjin nr. 55/2019, datë 18.7.2019)
+(ndryshuar me ligjin nr.10280, datë 20.5.2010; ndryshuar pika 1  me ligjin nr. 10 458, datë 21.7.2011; shtuar pika 1/1 me ligjin nr.120/2013, datë 18.4.2013; shtuar pika 4 me ligjin nr. 178, datë 28.12.2013; shtuar pika 4me ligjin nr. 86/2014, datë 17.7.2014; ndryshuar shkronja “b” e pikës 1, shkronja “c” , shtuar pika 6 me ligjin nr. 157, datë 27.11.2014; shtuar pika 7 me ligjin nr. 141/2015, datë 17.12.2015; ndryshuar shkronjat “c” , “ç’ e pikës 1 dhe shkronja “c” e pikës 7 me ligjin nr.127/2016, datë 15.12.2016; shtuar fjalë në pikën 1/1, ndryshuar fjalia e parë në pikën 4, hequr nënpikat “i”-“vii” të shkronjës “ç”, shtuar fjalë në pikën 7 me ligjin nr. 93/2018, datё 3.12.2018, shtuar shkronjat “dh”, “e”, “ë” dhe “f” në pikën 4 me ligjin nr. 55/2019, datë 18.7.2019, shtuar fjalë në shkronjën “ç” të pikës 1 me ligjin nr. 86/2019, 18.12.2019)
 
 1. Përjashtohen nga pagimi i taksës vjetore të mjeteve të përdorura:
 
@@ -254,7 +254,7 @@ b) Personat fizikë apo juridikë, të cilët deklarojnë se nuk do të qarkullo
 
 c) pagesat e taksës së mjeteve të bllokuara me vendim të gjykatës, të prokurorisë, për periudhën në të cilën mjeti ka qenë i bllokuar, dhe pagesat e taksës së mjeteve të vjedhura, të djegura, të shkatërruara nga aksidentet, të vërtetuara nga organet e prokurorisë.
 
-ç) autoveturat tip deri në 4+1 vende dhe me cilindratë jo më shumë se 2500 kubikë, kur këto mjete kalojnë në zotërim të invalidëve e të veteranëve të luftës kundër pushtuesve nazifashistë të popullit shqiptar, invalidëve të punës, të verbërve, invalidëve paraplegjikë dhe tetraplegjikë, që e fitojnë këtë status në bazë të ligjeve përkatëse, dhe përdoren vetëm për nevojat e tyre personale e jo për veprimtari private;
+ç) autoveturat tip deri në 4+1 vende dhe me cilindratë jo më shumë se 2500 kubikë, kur këto mjete kalojnë në zotërim të invalidëve e të veteranëve të luftës kundër pushtuesve nazifashistë të popullit shqiptar, invalidëve të punës, të verbërve, invalidëve paraplegjikë dhe tetraplegjikë, personat me aftësi të kufizuara, që e fitojnë këtë status në bazë të ligjeve përkatëse, dhe përdoren vetëm për nevojat e tyre personale e jo për veprimtari private;
 
 d) makinat bujqësore.
 
@@ -701,7 +701,3 @@ Kodet e mallrave të cilat mund të importohen ose prodhohen me ambalazh prej qe
 | 2309 | Ushqim për kafshët |
 | 3303 | Parfume dhe ujëra tualeti |
 | 3406 | Qirinj dekorativë |
-
----
-
-[^fn2]: Ligji nr.9975, datë 28.7.2008 është botuar në Fletoren Zyrtare nr. 128, datë 4 gusht 2008.    Ligji nr.10 065, datë 29.1.2009 është botuar në Fletoren Zyrtare nr.9, datë 9 shkurt 2009.    Ligji nr.10 131, datë 11.5.2009 është botuar në Fletoren Zyrtare nr.86, datë 12 qershor 2009.    Ligji nr. 10 145, datë 28.9.2009 është botuar në Fletoren Zyrtare nr.144, datë 12 tetor 2009.    Ligji nr. 10 280, datë 20.5.2010 është botuar në Fletoren Zyrtare nr.73, datë 29 qershor 2010.    Ligji nr.10458, datë 21.7.2011 është botuar në Fletoren Zyrtare nr.107, datë 9 gusht 2011.    Ligji nr.83/2012, datë 13.9.2012 është botuar në Fletoren Zyrtare nr.127, datë 1 tetor 2012.    Ligji nr.120/2013, datë 18.4.2013 është botuar në Fletoren Zyrtare nr.67, datë 3 maj 2013.    Ligji nr.178, datë 28.12.2013 është botuar në Fletoren Zyrtare nr.203, datë 30 dhjetor 2013.    Ligji nr. 86/2014, datë 17.7.2014 është botuar në Fletoren Zyrtare nr.126, datë 11 gusht 2014.    Ligji nr.157, datë 27.11..2014 është botuar në Fletoren Zyrtare nr. 195, datë 24 dhjetor 2014.    Ligji nr.141/2015, datë 17.12.2015 është botuar në Fletoren Zyrtare nr.252, datë 22 janar 2016.    Ligji nr.127/2016, datë 15.12.2016 është botuar në Fletoren Zyrtare nr.250, datë 27 dhjetor 2016.    Ligji nr. 68/2017, datë  27.4.2017 është botuar në Fletoren Zyrtare nr. 113, datë 22 maj 2017.   Ligji nr. 104/2017, datë 30.11.2017 është botuar në Fletoren Zyrtare nr. 222, datë 19 dhjetor 2017 dhe            hyn në fuqi më 1 janar 2018, me përjashtim të nenit 2, i cili hyn në fuqi  më 1 qershor 2018.   Ligji nr. 93/2018, datё 3.12.2018 është botuar në Fletoren Zyrtare nr.187, datë 28 dhjetor 2018 dhe   hyn në fuqi më 1 janar 2019.
