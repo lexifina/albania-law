@@ -4,6 +4,10 @@ Nr. 55/2015
 
 PËR INVESTIMET STRATEGJIKE NË REPUBLIKËN E SHQIPËRISË
 
+(Ndryshuar me ligjin nr. 67/2018, datë 4.10.2018; nr. 102/2018, datë 13.12.2018; nr. 89/2019,  datë 18.12.2019)
+
+(i përditësuar)
+
 Në mbështetje të neneve 78 dhe 83, pika 1, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
 KUVENDI
@@ -40,7 +44,7 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
 3. “Dritare unike” është institucioni përgjegjës i shërbimeve ndaj projektit/investitorit strategjik.
 
-4. “Ferma e madhe bujqësore” është një sasi e konsiderueshme toke bujqësore e shfrytë-zueshme për përpunimin intensiv të kulturave bujqësore, që gjeneron ndikim në ekonomi dhe punësim, koncepti i së cilës mund të shërbejë si model edhe për ferma të tjera.
+4. “Ferma e madhe bujqësore” është një sasi e konsiderueshme toke bujqësore e shfrytëzueshme për përpunimin intensiv të kulturave bujqësore, që gjeneron ndikim në ekonomi dhe punësim, koncepti i së cilës mund të shërbejë si model edhe për ferma të tjera.
 
 5. “Grupi operacional” është grupi i posaçëm i punës, i cili përbëhet nga ekspertë të ministrive të linjës, të fushave në të cilën/at kërkohet të realizohet investimi strategjik për të asistuar dhe mbështetur profesionalisht në ndjekjen e të gjitha procedurave dhe përgatitjen e të gjitha akteve e dokumenteve ligjore, me qëllim përgatitjen, zbatimin, zhvillimin dhe realizimin e projektit investues strategjik të veçantë.
 
@@ -58,9 +62,9 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 
 12. “Projekti potencial strategjik” është projekti i mundshëm i investimit me ndikim strategjik për zhvillimin e vendit dhe me interes publik, i cili klasifikohet si i tillë që nga momenti i nismës për të hartuar projektin nga promovuesi i projektit deri në momentin e përfitimit të statusit “Investim/investitor strategjik”.
 
-13. “Regjistri i investimeve strategjike” është baza e të dhënave për çdo investim strategjik që do të kryhet në Republikën e Shqipërisë pas hyrjes në fuqi të këtij ligji, i cili do të adminis-trohet nga Agjencia.
+13. “Regjistri i investimeve strategjike” është baza e të dhënave për çdo investim strategjik që do të kryhet në Republikën e Shqipërisë pas hyrjes në fuqi të këtij ligji, i cili do të administrohet nga Agjencia.
 
-14. “Risku operacional” është risku i humbjeve si pasojë e dështimeve apo pamjaftue-shmërisë së burimeve, proceseve, sistemeve apo rrethanave të tjera të jashtme.
+14. “Risku operacional” është risku i humbjeve si pasojë e dështimeve apo pamjaftueshmërisë së burimeve, proceseve, sistemeve apo rrethanave të tjera të jashtme.
 
 15. “Sektorë strategjikë” janë sektorët ekonomikë, të përcaktuar sipas këtij ligji, të cilët konsiderohen nga shteti shqiptar me potencial të lartë për zhvillimin e ekonomisë së vendit.
 
@@ -110,7 +114,7 @@ Shërbime të promovimit dhe të përfaqësimit
 
 1. Për të tërhequr investimet strategjike në Shqipëri, Agjencia mund të zhvillojë apo të blejë shërbime të promovimit.
 
-2. Shteti mund të përfaqësohet në tregjet ndërkombëtare për investimet strategjike edhe nëpërmjet agjentëve ndërkombëtarë të investimeve. Përmes Agjencisë, shteti nënshkruan marrëveshjet e përfaqësimit me agjentët ndërkombëtarë të investimeve, shërbimi i të cilëve do të kompen-sohet në rast suksesi nga vetë investitorët, përmes formës së tarifës së suksesit.
+2. Shteti mund të përfaqësohet në tregjet ndërkombëtare për investimet strategjike edhe nëpërmjet agjentëve ndërkombëtarë të investimeve. Përmes Agjencisë, shteti nënshkruan marrëveshjet e përfaqësimit me agjentët ndërkombëtarë të investimeve, shërbimi i të cilëve do të kompensohet në rast suksesi nga vetë investitorët, përmes formës së tarifës së suksesit.
 
 3. Rregulla më të hollësishme për shërbimet e promovimit dhe përfaqësimit caktohen me vendim të Këshillit të Ministrave. 
 
@@ -168,7 +172,7 @@ ii) i barabartë ose më i madh  se 50 000 000 (pesëdhjetë milionë) euro, pë
 
 ç) Për sektorët “Bujqësi (ndërtimi i modelit të “Fermës së madhe bujqësore”) dhe peshkim” investimi të jetë:
 
-i) i barabartë ose më i madh se 3 000 000 (tre milionë) euro, dhe që, në të njëjtën kohë, krijon, minimalisht, 50 vende të reja pune, për inves-titorët/projektet që do të përfitojnë statusin “Investim/investitor strategjik, procedurë e asistuar”;
+i) i barabartë ose më i madh se 3 000 000 (tre milionë) euro, dhe që, në të njëjtën kohë, krijon, minimalisht, 50 vende të reja pune, për investitorët/projektet që do të përfitojnë statusin “Investim/investitor strategjik, procedurë e asistuar”;
 
 ii) i barabartë ose më i madh  se 50 000 000 (pesëdhjetë milionë) euro, për investitorët /projektet që do të përfitojnë statusin “Investim /investitor strategjik, procedurë e veçantë”.
 
@@ -206,7 +210,7 @@ a) Zëvendëskryeministrin;
 
 b) ministrin përgjegjës për çështjet e financave;
 
-c) ministrin përgjegjës për çështjet e ekono-misë dhe turizmit;
+c) ministrin përgjegjës për çështjet e ekonomisë dhe turizmit;
 
 ç) ministrin përgjegjës për çështjet e infra-strukturës dhe transportit;
 
@@ -244,7 +248,7 @@ Neni10
 
 Organet administrative
 
-1. Agjencia, përveç detyrave dhe kompetencave të tjera, që ka në zbatim të ligjit “Për krijimin, mënyrën e organizimit e të funksionimit të Agjencisë Shqiptare të Zhvillimit të Investimeve”, është struktura administrative kompetente për dhënien e shërbimeve për investitorin në një “dritare unike” për investitorët /projektet, të cilat aplikojnë dhe kërkojnë të përfitojnë statusin “Investim/investitor strate-gjik, procedurë e asistuar/e veçantë”.
+1. Agjencia, përveç detyrave dhe kompetencave të tjera, që ka në zbatim të ligjit “Për krijimin, mënyrën e organizimit e të funksionimit të Agjencisë Shqiptare të Zhvillimit të Investimeve”, është struktura administrative kompetente për dhënien e shërbimeve për investitorin në një “dritare unike” për investitorët /projektet, të cilat aplikojnë dhe kërkojnë të përfitojnë statusin “Investim/investitor strategjik, procedurë e asistuar/e veçantë”.
 
 2. Agjencia është agjenti asistues për projektet potenciale strategjike, investitorët potencialë ose investitorin, me status të miratuar sipas këtij ligji.
 
@@ -256,9 +260,9 @@ Organet administrative
 
 6. Pranë Agjencisë krijohet “Regjistri i investimeve strategjike”, i cili është baza e të dhënave për çdo investim strategjik që do të kryhet në Republikën e Shqipërisë pas hyrjes në fuqi të këtij ligji. Rregullat e hollësishme për funksionimin, krijimin, administrimin, formatimin, përmbajtjen etj., si dhe procedura për sigurinë e regjistrit miratohen me vendim të Këshillit të Ministrave.
 
-7. Agjencia raporton pranë Komitetit të Investimeve Strategjike ndjekjen dhe zbatimin e të gjitha detyrave dhe procedurave të parashikuara në planin e veprimit që nga momenti i paraqitjes së një propozimi investues për përfshirjen në procedurat administrative për përfitimin e statusit “Investim/investitor strategjik, procedurë e asistuar” deri në përfun-dimin e të gjitha procedurave administrative të parashikuara nga ky ligj, për realizimin e projektit investues.
+7. Agjencia raporton pranë Komitetit të Investimeve Strategjike ndjekjen dhe zbatimin e të gjitha detyrave dhe procedurave të parashikuara në planin e veprimit që nga momenti i paraqitjes së një propozimi investues për përfshirjen në procedurat administrative për përfitimin e statusit “Investim/investitor strategjik, procedurë e asistuar” deri në përfundimin e të gjitha procedurave administrative të parashikuara nga ky ligj, për realizimin e projektit investues.
 
-8. Ministria përgjegjëse për ekonominë moni-toron veprimtarinë  e Agjencisë në rolin e “dritares unike”, në kuadër të zbatimit të detyrave funksionale e të ofrimit të shërbimeve për investitorin, të përcaktuara nga ky ligj,  si dhe treguesit e  cilësisë së shërbimeve që kryen Agjencia.
+8. Ministria përgjegjëse për ekonominë monitoron veprimtarinë  e Agjencisë në rolin e “dritares unike”, në kuadër të zbatimit të detyrave funksionale e të ofrimit të shërbimeve për investitorin, të përcaktuara nga ky ligj,  si dhe treguesit e  cilësisë së shërbimeve që kryen Agjencia.
 
 Neni11
 
@@ -268,7 +272,7 @@ Strukturat administrative ndihmëse
 
 a) përcakton procedura të detajuara në lidhje me përgatitjen dhe zbatimin e çdo projekti individual dhe informimin e investitorit dhe institucioneve të interesuara për to;
 
-b) kryen veprime që lidhen me paraqitjen e zhvillimin e projektit dhe që mbështesin kryerjen e investimit strategjik dhe hartimin e një liste masash e dokumentesh që duhet të përmbajë dhe/ose që duhet të merren për të realizuar projektin e investimit strategjik, përmes sistemit të “dritares unike”, me procedurë të për-shpejtuar; 
+b) kryen veprime që lidhen me paraqitjen e zhvillimin e projektit dhe që mbështesin kryerjen e investimit strategjik dhe hartimin e një liste masash e dokumentesh që duhet të përmbajë dhe/ose që duhet të merren për të realizuar projektin e investimit strategjik, përmes sistemit të “dritares unike”, me procedurë të përshpejtuar; 
 
 c) bën vlerësimin teknik të projektit të investimit strategjik, të potencialit strategjik të tij, të riskut operacional dhe të planit të veprimit për realizimin e këtij projekti.
 
@@ -284,11 +288,13 @@ Procedurat administrative
 
 1. Procedurat administrative, të parashikuara nga ky ligj, referuar investimeve strategjike brenda fushës së veprimit të përcaktuar në nenin 4, të këtij ligji, të cilat lidhen me përgatitjen, zbatimin, zhvillimin dhe realizimin e një projekti investues strategjik, si dhe me lëshimin e  licencave/lejeve/autorizimeve dhe mendimeve, në zbatim të këtij ligji, janë me prioritet, renditen të parat në radhë dhe ndiqen me procedurë të përshpejtuar për të gjitha institucionet / entet/autoritetet publike, shtetërore, të përfshira në mënyrë të drejtpërdrejtë apo të tërthortë në këto procedura. 
 
-2. Të gjitha institucionet/entet/autoritetet publike shtetërore detyrohen të bashkëpunojnë dhe t’i japin Agjencisë, në rolin e “dritares unike” për ofrimin e shërbimeve ndaj investitorit, me kërkesën e saj, sqarime, informacione dhe doku-mentet e nevojshme në lidhje me përgatitjen, zbatimin dhe realizimin e një projekti investues strategjik. Roli, përgjegjësitë dhe detyrat në marrëdhëniet e Agjencisë me këto institucione, si dhe rregulla më të hollësishme dhe afatet administrative për procedurën me prioritet e të përshpejtuar përcaktohen me vendim të Këshillit të Ministrave. 
+2. Të gjitha institucionet/entet/autoritetet publike shtetërore detyrohen të bashkëpunojnë dhe t’i japin Agjencisë, në rolin e “dritares unike” për ofrimin e shërbimeve ndaj investitorit, me kërkesën e saj, sqarime, informacione dhe dokumentet e nevojshme në lidhje me përgatitjen, zbatimin dhe realizimin e një projekti investues strategjik. Roli, përgjegjësitë dhe detyrat në marrëdhëniet e Agjencisë me këto institucione, si dhe rregulla më të hollësishme dhe afatet administrative për procedurën me prioritet e të përshpejtuar përcaktohen me vendim të Këshillit të Ministrave. 
 
 Neni  13
 
 Paraqitja e projektit dhe dokumentacioni përkatës
+
+(shtuar shkronja “ë” dhe pika 1/1 me ligjin nr. 102/2018, datë 13.12.2018)
 
 1. Subjekti investues i interesuar, në zbatim të këtij ligji, i cili kërkon përfshirjen e projektit investues në procedurat administrative të investimeve strategjike, me qëllim marrjen e statusit “Investim/investitor strategjik, procedurë e asistuar”, apo “Investim/investitor strategjik, procedurë e veçantë”, duhet të paraqesë një kërkesë me shkrim pranë Agjencisë, duke i bashkëlidhur dokumentacionin e mëposhtëm: 
 
@@ -306,7 +312,29 @@ dh) autorizimin me shkrim nga ana e investitorit, me të cilin autorizohet Agjen
 
 e) mandatpagesën për tarifat e aplikueshme.
 
-2. Rregulla më të hollësishme për dokumen-tacionin dhe vlerësimin e tij përcaktohen me vendim të Këshillit të Ministrave.
+ë) vërtetim mbi gjendjen gjyqësore ose një dokument, të lëshuar nga një autoritet kompetent, që vërteton se nuk ekzistojnë kushtet e parashikuara në pikën 1/1, të këtij neni.
+
+1/1. Subjekti përjashtohet nga përfitimi i statusit “Investim/investitor strategjik, procedurë e asistuar”, apo “Investim/investitor strategjik, procedurë e veçantë”, nëse është ose ka qenë i dënuar me vendim gjyqësor të formës së prerë, për kryerjen e veprës penale:
+
+a) pjesëmarrje në grup të strukturuar kriminal, organizatë kriminale, bandë e armatosur, organizatë terroriste;
+
+b) korrupsion;
+
+c) mashtrim;
+
+ç) pastrim parash ose financim i terrorizmit;
+
+d) vepra me qëllime terroriste ose vepra penale të lidhura me veprimtari terroriste;
+
+dh) organizim, drejtim ose financim i veprimtarisë së prodhimit dhe shitjes së narkotikëve, si dhe i veprimtarisë së trafikimit të narkotikëve;
+
+e) falsifikim;
+
+ë) shfrytëzim i punës së të miturve dhe forma të tjera të trafikimit të qenieve njerëzore.
+
+Përjashtimi nga shqyrtimi, miratimi dhe mbështetja e investimeve strategjike zbatohet edhe kur personi i dënuar me një vendim gjyqësor të formës së prerë është anëtar i një organi administrativ, drejtues ose mbikëqyrës i një subjekti investues, aksionar ose ortak i tij, ose ka kompetenca përfaqësuese, vendimmarrëse ose kontrolluese brenda tij.
+
+2. Rregulla më të hollësishme për dokumentacionin dhe vlerësimin e tij përcaktohen me vendim të Këshillit të Ministrave.
 
 Neni 14
 
@@ -328,7 +356,7 @@ Tarifat për shërbimet ndaj investitorit/investimit strategjik
 
 1. Për shërbimet ndaj investitorit/investimit strategjik mund të aplikohen:
 
-a) tarifa e kostove dhe e shërbimit adminis-trativ;
+a) tarifa e kostove dhe e shërbimit administrativ;
 
 b) tarifa e menaxhimit.
 
@@ -344,7 +372,7 @@ Shqyrtimi i dosjes së projektit me potencial strategjik dhe miratimi i statusit
 
 3. Nëse projekti strategjik dhe aplikimi i investitorit përmbushin kërkesat e këtij ligji, Agjencia, në bashkëpunim me institucionet/entet përgjegjëse për investimin strategjik, sipas fushave të përgjegjësisë, i propozon Komitetit të Investimeve Strategjike miratimin e statusit “Investim/investitor strategjik, procedurë e asistuar/e veçantë”. Vendimi i Komitetit të Investimeve Strategjike i njoftohet, me shkrim, kërkuesit.	
 
-4. Kur legjislacioni në fuqi parashikon zhvillimin e procedurave konkurruese / tenderuese/koncesionare vetëm pas përzgjedhjes së subjektit fitues të garës dhe nëse projekti i propozuar përmbush kërkesat e këtij ligji, Agjencia, në bashkëpunim me institucionet/entet përgjegjëse për investimin strategjik, sipas fushave të përgjegjësisë, vlerëson projektin e propozuar dhe i propozon Komitetit të Investimeve Strategjike miratimin e statusit “Investim/investitor strategjik, procedurë e asistuar/e veçantë”. Vendimi i Komitetit të Investimeve Strategjike i njoftohet, me shkrim, kërkuesit.
+4. Kur legjislacioni në fuqi parashikon zhvillimin e procedurave konkurruese/tenderuese/koncesionare vetëm pas përzgjedhjes së subjektit fitues të garës dhe nëse projekti i propozuar përmbush kërkesat e këtij ligji, Agjencia, në bashkëpunim me institucionet/entet përgjegjëse për investimin strategjik, sipas fushave të përgjegjësisë, vlerëson projektin e propozuar dhe i propozon Komitetit të Investimeve Strategjike miratimin e statusit “Investim/investitor strategjik, procedurë e asistuar/e veçantë”. Vendimi i Komitetit të Investimeve Strategjike i njoftohet, me shkrim, kërkuesit.
 
 5. Komiteti i Investimeve Strategjike, në rast se vendos për mospranimin e kërkesës për përfshirjen e projektit investues në procedurën e asistuar/e veçantë, njofton subjektin investues të interesuar nëpërmjet sekretariatit.  
 
@@ -364,7 +392,7 @@ c) emrin e investitorit të interesuar dhe partnerëve të tij;
 
 d) vendin/zonën ku do të zhvillohet ky projekt investues;
 
-dh) afatin për të cilin jepet statusi  “Investim /investitor strategjik, procedurë e asistuar/e veçantë”.
+dh) afatin për të cilin jepet statusi  “Investim/investitor strategjik, procedurë e asistuar/e veçantë”.
 
 Neni 19
 
@@ -396,7 +424,7 @@ c) konsolidim i tokës;
 
 d) mbështetje me infrastrukturë ndihmëse;
 
-dh) vënie në dispozicion të pasurive të paluaj-tshme shtetërore për zhvillimin dhe realizimin e projekteve investuese strategjike, sipas legjisla-cionit në fuqi.
+dh) vënie në dispozicion të pasurive të paluajtshme shtetërore për zhvillimin dhe realizimin e projekteve investuese strategjike, sipas legjislacionit në fuqi.
 
 Neni 22
 
@@ -422,7 +450,7 @@ Marrja e licencave/lejeve/autorizimeve pas përfitimit të statusit “Investim/
 
 3. Institucionet/entet/autoritet publike, me marrjen e dokumentacionit nga Agjencia, brenda 15 ditëve pune, japin licencat/lejet/autorizimet, sipas legjislacionit në fuqi.
 
-4. Përjashtimisht nga sa parashikohet në pikën 3, të këtij neni, për shkaqe të arsyeshme që lidhen me kompleksitetin e licencave / lejeve / autorizimeve, afati shtyhet vetëm një herë, për një periudhë kohe 15 ditë pune.
+4. Përjashtimisht nga sa parashikohet në pikën 3, të këtij neni, për shkaqe të arsyeshme që lidhen me kompleksitetin e licencave/lejeve/autorizimeve, afati shtyhet vetëm një herë, për një periudhë kohe 15 ditë pune.
 
 5. Institucionet/entet/autoritet publike, nëse konstatojnë se dokumentacioni është i paplotë-suar, i kërkojnë subjektit investues, vetëm një herë, me shkrim, brenda 10 ditëve pune nga data e marrjes së dosjes, plotësimin e të gjithë dokumentacionit dhe të dhënat e kërkuara, duke listuar kërkesat në mënyrë specifike.
 
@@ -436,13 +464,13 @@ Neni 24
 
 Marrja e licencave/lejeve/autorizimeve për procedurën e veçantë
 
-1. Pas miratimit të statusit “Investim / investitor strategjik, procedurë e veçantë” nga Komiteti i Investimeve Strategjike, subjekti investues i interesuar paraqet pranë Agjencisë një dosje të plotë, e cila duhet të përmbajë të gjithë dokumentacionin e nevojshëm, që kërkohet nga legjislacioni sektorial për miratimin e licencave /lejeve/autorizimeve, sipas legjislacionit në fuqi për licencat, autorizimet dhe lejet, së bashku me mandatpagesat e tarifave respektive.
+1. Pas miratimit të statusit “Investim/investitor strategjik, procedurë e veçantë” nga Komiteti i Investimeve Strategjike, subjekti investues i interesuar paraqet pranë Agjencisë një dosje të plotë, e cila duhet të përmbajë të gjithë dokumentacionin e nevojshëm, që kërkohet nga legjislacioni sektorial për miratimin e licencave /lejeve/autorizimeve, sipas legjislacionit në fuqi për licencat, autorizimet dhe lejet, së bashku me mandatpagesat e tarifave respektive.
 
-2. Agjencia ia përcjell dosjen e subjektit investues që ka përfituar statusin “Investim / investitor strategjik, procedurë e veçantë”, për marrjen e licencave/lejeve/autorizimeve, pranë institucioneve/enteve/autoriteteve publike ko-mpetente për lëshimin e këtyre dokumenteve ligjore, brenda 5 ditëve pune nga data e paraqitjes së dosjes.
+2. Agjencia ia përcjell dosjen e subjektit investues që ka përfituar statusin “Investim/investitor strategjik, procedurë e veçantë”, për marrjen e licencave/lejeve/autorizimeve, pranë institucioneve/enteve/autoriteteve publike kompetente për lëshimin e këtyre dokumenteve ligjore, brenda 5 ditëve pune nga data e paraqitjes së dosjes.
 
 3. Institucionet/entet/autoritetet publike, me marrjen e dokumentacionit nga Agjencia, brenda 15 ditëve pune, japin licencat/lejet/ autorizimet, sipas legjislacionit në fuqi.
 
-4. Përjashtimisht nga sa parashikohet në pikën 3, të këtij neni, për shkaqe të arsyeshme që lidhen me kompleksitetin e licencave/lejeve/autori-zimeve, afati shtyhet vetëm një herë.
+4. Përjashtimisht nga sa parashikohet në pikën 3, të këtij neni, për shkaqe të arsyeshme që lidhen me kompleksitetin e licencave/lejeve/autorizimeve, afati shtyhet vetëm një herë.
 
 5. Institucionet/entet/autoritetet publike, nëse konstatojnë se dokumentacioni është i paplotësuar, i kërkojnë vetëm një herë subjektit investues plotësimin e të gjithë dokumentacionit dhe të dhënat e kërkuara. Subjekti investues duhet të plotësojë dokumentacionin brenda 10 ditëve pune nga data e marrjes së njoftimit.
 
@@ -452,11 +480,11 @@ Neni 25
 
 Unifikimi i procedurave
 
-Nëse për realizimin e një projekti potencial strategjik, procedurë e veçantë, përfshihen disa sektorë dhe nevojitet kryerja e disa procedurave konkurruese/tenderuese/koncesionare nga au-toritete të ndryshme, Këshilli i Ministrave mund:
+Nëse për realizimin e një projekti potencial strategjik, procedurë e veçantë, përfshihen disa sektorë dhe nevojitet kryerja e disa procedurave konkurruese/tenderuese/koncesionare nga autoritete të ndryshme, Këshilli i Ministrave mund:
 
 a) të unifikojë projektin e investimit strategjik, duke përcaktuar si autoritet kontraktues sektorin me rëndësi më të madhe në investim, në varësi të natyrës së projektit të investimit strategjik;
 
-b) të bashkojë procedurat për vendimmarrjen për t’u trajtuar nga një autoritet i vetëm kontrak-tues ose me bashkëfirmosje.
+b) të bashkojë procedurat për vendimmarrjen për t’u trajtuar nga një autoritet i vetëm kontraktues ose me bashkëfirmosje.
 
 KREU VII
 
@@ -466,9 +494,9 @@ Neni 26
 
 Mbështetja me infrastrukturë ndihmëse
 
-1. Shteti mund të mbështesë me infrastruktura ndihmëse investimin strategjik të miratuar, që shërben për përgatitjen, zbatimin e projektit dhe realizimin e investimit, të tilla si rrugë, ujësjellës, kanalizime, energji elektrike dhe telekomuni-kacion.
+1. Shteti mund të mbështesë me infrastruktura ndihmëse investimin strategjik të miratuar, që shërben për përgatitjen, zbatimin e projektit dhe realizimin e investimit, të tilla si rrugë, ujësjellës, kanalizime, energji elektrike dhe telekomunikacion.
 
-2. Ministria përgjegjëse për çështjet e ekonomisë, në bashkëpunim me ministritë e tjera, shqyrton dhe verifikon nevojat dhe kërkesat për infrastrukturë ndihmëse, si dhe vlerëson koston e përafërt për realizimin e saj, kosto kjo e cila nuk duhet të jetë dispropor-cionalisht e lartë, në raport me vlerën dhe rëndësinë e projektit investues strategjik.
+2. Ministria përgjegjëse për çështjet e ekonomisë, në bashkëpunim me ministritë e tjera, shqyrton dhe verifikon nevojat dhe kërkesat për infrastrukturë ndihmëse, si dhe vlerëson koston e përafërt për realizimin e saj, kosto kjo e cila nuk duhet të jetë disproporcionalisht e lartë, në raport me vlerën dhe rëndësinë e projektit investues strategjik.
 
 3. Mbështetja me infrastrukturë ndihmëse miratohet me vendim nga Komiteti i Investimeve Strategjike dhe i njoftohet, me shkrim, investitorit. 
 
@@ -490,31 +518,31 @@ Shpronësimet për interes publik
 
 Mënyra e dokumentimit të marrëveshjes ose mosmarrëveshjes me pronarin e pasurisë së paluajtshme dhe afati kohor për fillimin / përfshirjen e shtetit në procedurat e shpronësimit përcaktohet me vendim të Këshillit të Ministrave.
 
-2. Shpronësimi, për interes publik, i pasurive të paluajtshme, pronë private, realizohet në përputhje me procedurat e përcaktuara në legjislacionin në fuqi për shpronësimet për inte-res publik.
+2. Shpronësimi, për interes publik, i pasurive të paluajtshme, pronë private, realizohet në përputhje me procedurat e përcaktuara në legjislacionin në fuqi për shpronësimet për interes publik.
 
-3. Kompensimi financiar që nevojitet për realizimin e shpronësimeve mbulohet nga subjekti që ka paraqitur kërkesën për shpro-nësim.
+3. Kompensimi financiar që nevojitet për realizimin e shpronësimeve mbulohet nga subjekti që ka paraqitur kërkesën për shpronësim.
 
-4. Shpronësimi, për interes publik, i pasurive të paluajtshme, pronë private, në zbatim të këtij ligji, nuk lejohet për shpronësimin e pasurive të paluajtshme në pronësi të investitorëve strate-gjikë të tjerë, që kanë realizuar investimin e tyre në një periudhë  kohore të mëhershme. 
+4. Shpronësimi, për interes publik, i pasurive të paluajtshme, pronë private, në zbatim të këtij ligji, nuk lejohet për shpronësimin e pasurive të paluajtshme në pronësi të investitorëve strategjikë të tjerë, që kanë realizuar investimin e tyre në një periudhë  kohore të mëhershme. 
 
 Neni 29
 
 E drejta e përdorimit të brigjeve
 
-Lejimi i përdorimit të brigjeve të detit, liqeneve, lumenjve dhe shtretërve të tyre, si dhe zonave përkatëse, në funksion të realizimit të një projekti investues strategjik, miratohet me vendim të veçantë nga Këshilli i Ministrave, me propozim nga Komiteti i Investimeve Strategjike, pas marrjes së mendimit paraprak nga institu-cionet, kompetencat e të cilave shtrihen në këto zona.
+Lejimi i përdorimit të brigjeve të detit, liqeneve, lumenjve dhe shtretërve të tyre, si dhe zonave përkatëse, në funksion të realizimit të një projekti investues strategjik, miratohet me vendim të veçantë nga Këshilli i Ministrave, me propozim nga Komiteti i Investimeve Strategjike, pas marrjes së mendimit paraprak nga institucionet, kompetencat e të cilave shtrihen në këto zona.
 
 Neni 30
 
 Pjesëmarrja e shtetit në një investim strategjik
 
-Shteti mund të jetë bashkëpjesëmarrës në investime strategjike, në rolin e zhvilluesit të projektit, zonës apo formave të tjera, sipas rregullave dhe përcaktimeve të legjislacionit në fuqi. Organizimi i pjesëmarrjes dhe forma përcaktohen me vendim të  Këshillit të Minis-trave.
+Shteti mund të jetë bashkëpjesëmarrës në investime strategjike, në rolin e zhvilluesit të projektit, zonës apo formave të tjera, sipas rregullave dhe përcaktimeve të legjislacionit në fuqi. Organizimi i pjesëmarrjes dhe forma përcaktohen me vendim të  Këshillit të Ministrave.
 
 Neni 31
 
 Fondi i Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike
 
-1. Në funksion të mbështetjes shtetërore për realizimin e investimit, krijohet Fondi i Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike, i cili krijohet nga pasuritë e paluajtshme shtetërore, në pronësi të institu-cioneve qendrore apo të njësive të qeverisjes vendore.
+1. Në funksion të mbështetjes shtetërore për realizimin e investimit, krijohet Fondi i Pasurive të Paluajtshme për Mbështetjen e Investimeve Strategjike, i cili krijohet nga pasuritë e paluajtshme shtetërore, në pronësi të institucioneve qendrore apo të njësive të qeverisjes vendore.
 
-2. Mënyra e krijimit, funksionimit dhe admi-nistrimit të këtij fondi miratohet me vendim të Këshillit të Ministrave.
+2. Mënyra e krijimit, funksionimit dhe administrimit të këtij fondi miratohet me vendim të Këshillit të Ministrave.
 
 Neni 32
 
@@ -534,7 +562,7 @@ b) mosrespektimi i afateve të parashikuara në pikën 3, të nenit 23, dhe në 
 
 2. Autoriteti kompetent për vendosjen e gjobës është Agjencia.
 
-3. Procedura e konstatimit, vendosjes, ankimit dhe ekzekutimit të gjobës bëhet në përputhje me legjislacionin në fuqi për kundërvajtjet admi-nistrative.
+3. Procedura e konstatimit, vendosjes, ankimit dhe ekzekutimit të gjobës bëhet në përputhje me legjislacionin në fuqi për kundërvajtjet administrative.
 
 KREU VIII
 
@@ -560,7 +588,9 @@ Neni 36
 
 Afati përfundimtar i paraqitjes së kërkesave
 
-Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2018.
+(ndryshuar afati ligjor me ligjin nr. 67/2018, datë 4.10.2018; ndryshuar afati ligjor me ligjin nr. 89/2019, datë 18.12.2019)
+
+Afati i fundit për paraqitjen e kërkesave nga subjektet investuese të interesuara për përfshirjen në procedurat për përfitimin e statusit “Investim/ investitor strategjik, procedurë e asistuar/e veçantë”, në zbatim të këtij ligji, është data 31 dhjetor 2020.
 
 Neni 37
 
