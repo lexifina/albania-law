@@ -6,9 +6,9 @@ PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
 (Ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
 
-nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2])
+nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3])
 
- (i përditësuar, 2018)
+ (i përditësuar, 2020)
 
 Në mbështetje të neneve 78, 83, pika 1, dhe 155, të Kushtetutës, me propozimin e Këshillit të Ministrave, 
 
@@ -640,7 +640,7 @@ Neni 49
 
 Shkallët e reduktuara
 
-(shtuar pika 3 me ligjin nr. 71/2017, datë 27.4.2017,  pika 4 me ligjin nr. 107/2017, datë 30.11.2017 dhe pika 5 me ligjin nr. 40/2018, datë 9.7.2018, shtuar pikat 6, 7 dhe 8 me ligjin nr. 96/2018, datё 3.12.2018) 
+(shtuar pika 3 me ligjin nr. 71/2017, datë 27.4.2017,  pika 4 me ligjin nr. 107/2017, datë 30.11.2017 dhe pika 5 me ligjin nr. 40/2018, datë 9.7.2018, shtuar pikat 6, 7 dhe 8 me ligjin nr. 96/2018, datё 3.12.2018, ndryshuar pika 7 me ligjin nr. 85/2019, datë 18.12.2019) 
 
 1. Përveç shkallës standarde të TVSH-së, kur parashikohet në këtë ligj, mund të aplikohet shkalla e reduktuar e TVSH-së, e cila aplikohet si një përqindje e vlerës së tatueshme.
 
@@ -656,7 +656,7 @@ Kushtet, kriteret dhe procedurat për zbatimin e kësaj pike përcaktohen me ven
 
 6. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e shërbimit të reklamave nga media audiovizive, është 6 për qind.
 
-7. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e mjeteve të transportit publik tё licencuar të udhëtarëve me autobus me nëntë plus një vende ose më shumë, vetëm me motor elektrik, është 6 për qind deri në datën 31 dhjetor 2021. Nga data 1 janar 2022 shkalla e reduktuar e tatimit mbi vlerën e shtuar që aplikohet për këtë furnizim është 10 për qind.
+7. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e mjeteve të transportit publik tё licencuar të udhëtarëve me autobus me nëntë plus një vende ose më shumë, vetëm me motor elektrik, është 6 për qind.
 
 8. Shkalla e reduktuar e tatimit mbi vlerën e shtuar, e cila aplikohet për furnizimin e librave të çdo lloji, është 6 për qind.
 
@@ -678,7 +678,7 @@ Neni 51
 
 Përjashtimi i disa veprimtarive me interes të përgjithshëm
 
-(shtuar shkronjat n”, “nj” dhe “o” me ligjin nr. 96/2018, datё 3.12.2018)
+(shtuar shkronjat n”, “nj” dhe “o” me ligjin nr. 96/2018, datё 3.12.2018, shtuar shkronja “p” me ligjin nr. 85/2019, datë 18.12.2019)
 
 Janë furnizime të përjashtuara nga TVSH-ja transaksionet me interes të përgjithshëm si më poshtë:
 
@@ -726,6 +726,8 @@ nj) furnizimi i inputeve bujqësore, siç janë plehrat kimike, pesticidet, fara
 
 o) furnizimi i shërbimeve veterinare, me përjashtim të shërbimeve veterinare për kafshët shtëpiake.
 
+p) furnizimi i automjeteve vetëm me motor elektrik, të reja, me zero km e që nuk janë regjistruar më parë për qarkullim në asnjë shtet tjetër, përveç atyre të përcaktuara në pikën 7, të nenit 49, të ligjit.
+
 Neni 52
 
 Kufizime të së drejtës së përjashtimit
@@ -738,7 +740,7 @@ Neni 53
 
 Përjashtime për disa veprimtari të tjera
 
-(hequr fjalë në shkronjën “j” me ligjin nr. 96/2018, datё 3.12.2018)
+(hequr fjalë në shkronjën “j” me ligjin nr. 96/2018, datё 3.12.2018, shtuar shkronjat “l” dhe “ll” me ligjin nr. 85/2019, datë 18.12.2019)
 
 Janë furnizime të përjashtuara nga TVSH-ja transaksionet e mëposhtme:
 
@@ -790,6 +792,10 @@ Ministri i Financave dhe ministri përgjegjës për energjetikën përcaktojnë 
 
 Në kuptim të paragrafit të parë të kësaj shkronje, Agjencia Kombëtare e Burimeve Natyrore vërteton se kontraktorët dhe nënkontraktorët, kryejnë furnizime të destinuara vetëm për realizimin e fazës së kërkimit të operacioneve hidrokarbure.
 
+l) furnizimi i procesit të ndërtimit nga ndërtuesit subjekte të rindërtimit, brenda programit të rindërtimit, të autorizuar nga Drejtori i Përgjithshëm i Tatimeve, për rastet e shpalljes së “gjendjes së fatkeqësisë natyrore”, përgjatë periudhës së rindërtimit, sipas përcaktimeve të  legjislacionit për rindërtimin.   Me vendim të Këshillit të Ministrave përcaktohen procedurat për lëshimin e autorizimit, si dhe mënyra e zbatimit të kësaj shkronje;
+
+ll) furnizimi i shërbimeve dhe mallrave i kryer direkt për ndërtuesit subjekte të rindërtimit, brenda programit të rindërtimit, që përdoren prej tyre për procesin e ndërtimit për rastet e shpalljes së “gjendjes së fatkeqësisë natyrore”, përgjatë periudhës së rindërtimit, sipas përcaktimeve të legjislacionit për rindërtimin, të autorizuar nga Drejtori i Përgjithshëm i Tatimeve. Përjashtimi nga TVSH-ja duhet të reflektohet në çmimin e shitjes së këtyre mallrave dhe shërbimeve, furnizime të cilat duhet të jenë dukshëm me çmime me të ulëta se furnizimet e ngjashme për raste të tjera jo për qëllime të fatkeqësisë natyrore. Asnjë përjashtim nuk akordohet për furnizuesit e mallrave ose shërbimeve që nuk furnizojnë direkt ndërtuesit e autorizuar. Me vendim të Këshillit të Ministrave përcaktohen  procedurat për lëshimin e autorizimit, si dhe mënyra e zbatimit të kësaj shkronje.
+
 Neni 54
 
 Të tjera përjashtime nga TVSH-ja
@@ -816,7 +822,7 @@ Neni 56
 
 Përjashtime të veçanta në import
 
-(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019)
+(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019)
 
 Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
@@ -874,7 +880,7 @@ Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
 27. Importimi i mjeteve, të cilat ndihmojnë në integrimin në jetë të invalidëve paraplegjikë dhe tetraplegjikë, përfshirë këtu dhe autovetura të përshtatura për përdorim prej tyre.
 
-28. Mallrat e importuara nga organet dhe organizatat shtetërore, organizatat bamirëse dhe filantropike me destinim për shpërndarje falas për njerëzit e dëmtuar prej fatkeqësive natyrore dhe fatkeqësive të tjera apo nga luftërat. Asnjë përjashtim nuk akordohet për materialet dhe pajisjet e destinuara për rindërtimin e zonave të fatkeqësive, përjashtuar materialet dhe pajisjet e importuara për këtë qëllim nga organe shtetërore për rastet e shpalljes së “gjendjes së fatkeqësisë natyrore” brenda afatit të përcaktuar.
+28. Mallrat e importuara nga organet dhe organizatat shtetërore, organizatat bamirëse dhe filantropike me destinim për shpërndarje falas për njerëzit e dëmtuar prej fatkeqësive natyrore dhe fatkeqësive të tjera apo nga luftërat. Asnjë përjashtim nuk akordohet për materialet dhe pajisjet e destinuara për rindërtimin e zonave të fatkeqësive, përjashtuar materialet, pajisjet, ndërtesat e parafabrikuara, të importuara për këtë qëllim nga organe shtetërore, organizatat bamirëse dhe filantropike për rastet e shpalljes së “gjendjes së fatkeqësisë natyrore”, brenda programit të rindërtimit. Me vendim të Këshillit të Ministrave përcaktohet mënyra e zbatimit të kësaj dispozite.
 
 29. Sendet dhe dokumentet shoqëruese në funksion të mospërvetësimit apo mbrojtjes së markës tregtare, patentave, të së drejtës së autorit, të destinuara për organizatat për mbrojtjen e të drejtave të pasurisë intelektuale.
 
@@ -950,6 +956,8 @@ Neni 58
 
  Mallrat në bagazhin personal të udhëtarit
 
+(hequr fjalë në paragrafin e fundit të pikë 2 me ligjin nr. 85/2019, datë 18.12.2019)
+
 1. Furnizimi i mallrave të destinuara për t’u transportuar në bagazhin personal të udhëtarëve konsiderohet si eksport vetëm në qoftë se përmbushen njëkohësisht kushtet e mëposhtme:
 
 a) udhëtari nuk është i vendosur brenda Republikës së Shqipërisë;
@@ -960,7 +968,7 @@ c) vlera totale e furnizimit e shprehur në lekë ose kundërvlerën e saj në l
 
 2. Për qëllime të pikës 1, të këtij neni, me termin “udhëtar jo të vendosur brenda Republikës së Shqipërisë” kuptohet udhëtari, banesa e përhershme apo rezidenca e zakonshme e të cilit nuk ndodhet brenda Republikës së Shqipërisë. Në këtë rast, me termin “banesë ose rezidencë të zakonshme” kuptohet vendi i treguar si i tillë në pasaportë, në kartën e identitetit ose në një dokument tjetër të pranuar si dokument identifikimi i vlefshëm nga vendi, në territorin e të cilit është kryer furnizimi.
 
-Si dokumenti justifikues i eksportimit në këtë rast shërben fatura tatimore e blerjes, e shoqëruar me kuponin tatimor që vërteton pagesën e kryer, të vulosura nga organi doganor në pikën e daljes nga Republika e Shqipërisë. 
+Si dokumenti justifikues i eksportimit në këtë rast shërben fatura tatimore e blerjes, të vulosura nga organi doganor në pikën e daljes nga Republika e Shqipërisë. 
 
 Neni 59
 
@@ -1440,11 +1448,13 @@ Neni 95
 
 Përkufizime
 
+(ndryshuar fjalë në shkronjën “b” me ligjin nr. 85/2019, datë 18.12.2019)
+
 Për qëllime të këtij seksioni, me: 
 
 a) “Faturë” kuptohet çdo dokument në letër ose në formë elektronike që përmbush kushtet e përcaktuara në këtë ligj.
 
-b) “Faturë elektronike” kuptohet një faturë që përmban informacionin e kërkuar në këtë ligj, e cila është lëshuar dhe është marrë në një format elektronik.
+b) “Faturë elektronike” kuptohet një faturë që përmban informacionin e kërkuar në këtë ligj, e cila është lëshuar dhe është marrë në formatin elektronik, sipas legjislacionit në fuqi për faturën dhe sistemin e monitorimit të qarkullimit.
 
 c) Në kuptim të këtij neni, trajtohet si faturë çdo dokument në letër ose formë elektronike që ndryshon dhe i referohet në mënyrë specifike dhe të qartë faturës fillestare dhe që, për qëllime të këtij ligji, janë dokumentet e emërtuara si më poshtë:
 
@@ -1456,7 +1466,9 @@ Neni 96
 
 Parimi i përgjithshëm mbi faturimin
 
-1. Faturimi kryhet sipas rregullave të përcaktuara në këtë seksion për të gjitha furnizimet e mallrave dhe shërbimeve, vendi i të cilave, sipas dispozitave të kreut IV, të këtij ligji, është  në Republikën e Shqipërisë.
+(ndryshuar pika 1 me ligjin nr. 85/2019, datë 18.12.2019)
+
+1. Faturimi kryhet sipas rregullave të përcaktuara në këtë seksion dhe në legjislacionin në fuqi  për faturën dhe sistemin e monitorimit të qarkullimit për të gjitha furnizimet e mallrave dhe të shërbimeve, vendi i të cilave, sipas dispozitave të kreut IV, të këtij ligji, është në Republikën e Shqipërisë.
 
 2. Faturimi u nënshtrohet rregullave të përcaktuara në këtë seksion edhe në rastin kur furnizuesi ka në Republikën e Shqipërisë selinë e aktivitetit të tij ekonomik ose një vendndodhje të qëndrueshme nga e cila është kryer furnizimi ose, në mungesë të një selie ose një vendndodhjeje të qëndrueshme, furnizuesi ka në Republikën e Shqipërisë adresën e tij të përhershme ose zakonisht banon, pavarësisht se furnizimi i mallrave ose shërbimeve, ashtu siç parashikohet në kreun IV, të këtij ligji, konsiderohet të mos jetë bërë në Republikën e Shqipërisë.
 
@@ -1466,27 +1478,39 @@ Neni 97
 
 Lëshimi i faturave
 
+(ndryshuar fjalia e fundit e pikës 2 me ligjin nr. 85/2019, datë 18.12.2019)
+
 1. Personi i tatueshëm duhet të sigurohet për lëshimin e faturës nga ai vetë ose nga blerësi i tij ose në emrin e tij dhe për llogari të tij nga të tretët, në rastet e mëposhtme:
 
 a) për çdo furnizim malli ose shërbimi që kryen kundrejt një personi tjetër të tatueshëm ose një personi juridik të patatueshëm;
 
 b) për çdo pagesë të kryer para se të kryhet furnizimi i mallit ose para përfundimit të furnizimit të shërbimit, sipas shkronjës “a”, të kësaj pike.
 
-2. Ndryshe nga sa parashikohet në pikën 1, të këtij neni, lëshimi i faturës nuk kërkohet për rastet e furnizimeve të shërbimeve të përjashtuara nga TVSH-ja, sipas shkronjave nga “a” në “e”, të nenit 53, të këtij ligji. Dokumentimi i këtyre transaksioneve bëhet siç përcaktohet nga autoritetet që mbikëqyrin këto lloj veprimtarish në marrëveshje me autoritetin tatimor dhe duhet të përmbajë të paktën informacionin, siç përcaktohet në nenin 102, të këtij ligji.
+2. Ndryshe nga sa parashikohet në pikën 1, të këtij neni, lëshimi i faturës nuk kërkohet për rastet e furnizimeve të shërbimeve të përjashtuara nga TVSH-ja, sipas shkronjave nga “a” në “e”, të nenit 53, të këtij ligji. Dokumentimi i këtyre transaksioneve bëhet siç përcaktohet nga autoritetet që mbikëqyrin këto lloj veprimtarish, në marrëveshje me autoritetin tatimor dhe duhet të përmbajë, të paktën, informacionin e mëposhtëm:
+
+a) datën e lëshimit;
+
+b) identifikimin e personit të tatueshëm, që furnizon mallrat dhe shërbimet;
+
+c) identifikimin e mallrave dhe të shërbimeve të furnizuara.
 
   Neni 98
 
 Të tjera përcaktime mbi faturimin
 
-Personi i tatueshëm për furnizime të mallrave ose shërbimeve me vlerë maksimale deri 40 000 lekë nuk është i detyruar të lëshojë faturë tatimore me përmbajtje, siç përcaktohet në nenin 101, të këtij ligji, përveç rasteve kur blerësi e kërkon atë.
+(ndryshuar me ligjin nr. 85/2019, datë 18.12.2019)
+
+Përveç sa përcaktohet në nenin 97, personi i tatueshëm duhet të sigurohet për lëshimin e faturës për çdo furnizim tjetër të mallrave ose shërbimeve, pavarësisht vlerës së furnizimit, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit.
 
 Neni 99
 
 Momenti i lëshimit të faturës
 
+(ndryshuar afati në pikën 2 me ligjin nr. 85/2019, datë 18.12.2019)
+
 1. Fatura lëshohet në momentin e furnizimit të mallit ose shërbimit, përveç rasteve kur përcaktohet ndryshe.
 
-2. Për furnizimet e shërbimeve, për të cilat TVSH-ja paguhet nga marrësi i furnizimit, sipas pikës 2, të nenit 86, të këtij ligji, fatura duhet të lëshohet jo më vonë se data 14 e muajit pasardhës të muajit, gjatë të cilit lind TVSH- ja për furnizimin.
+2. Për furnizimet e shërbimeve, për të cilat TVSH-ja paguhet nga marrësi i furnizimit, sipas pikës 2, të nenit 86, të këtij ligji, fatura duhet të lëshohet jo më vonë se data 10 e muajit pasardhës të muajit, gjatë të cilit lind TVSH- ja për furnizimin.
 
 3. Personi i tatueshëm, që kryen një furnizim mallrash, detyrohet të lëshojë një faturë për atë furnizim në momentin kur mallrat janë livruar ose kur ato bëhen të disponueshme, në përputhje me dispozitat e parashikuara në seksionin 1, të kreut IV, të këtij ligji.
 
@@ -1506,15 +1530,17 @@ Neni 101
 
 Përmbajtja e faturës
 
+(ndryshuar shkronja “a”, “b” dhe shtuar dy paragrafë pas shkronjës “nj” me ligjin nr. 85/2019, datë 18.12.2019)
+
 Fatura e lëshuar përpilohet në formën e caktuar nga Ministri i Financave dhe përmban informacionin e mëposhtëm: 
 
-a) datën e lëshimit të faturës;
+a) datën, vendin dhe kohën e lëshimit të faturës.
 
-b) një numër serial që e identifikon faturën në mënyrë unike;
+b) numrin e faturës, siç përcaktohet në legjislacionin në fuqi për faturën dhe sistemin për monitorimin e qarkullimit.
 
 c) numrin e identifikimit të TVSH-së të personit të tatueshëm që kryen furnizimin  e mallrave dhe shërbimeve, sipas përcaktimit të nenit 92, të këtij ligji; 
 
-ç) numrin e identifikimit të TVSH-së të blerësit, sipas përcaktimit të         nenit 92, të këtij ligji, kur ai është person i tatueshëm për furnizime brenda territorit të Republikës së Shqipërisë;
+ç) numrin e identifikimit të TVSH-së të blerësit, sipas përcaktimit të nenit 92, të këtij ligji, kur ai është person i tatueshëm për furnizime brenda territorit të Republikës së Shqipërisë;
 
 d) emrin dhe adresën e plotë të shitësit dhe të blerësit;
 
@@ -1548,23 +1574,15 @@ n) në rast të zbatimit të njërit prej regjimeve të veçanta për mallrat e 
 
 nj) në rast se personi përgjegjës për pagesën e TVSH-së është një përfaqësues tatimor, për qëllime të nenit 87, të këtij ligji, duhet të tregohet në faturë numri i identifikimit të TVSH-së të përfaqësuesit tatimor, sipas neneve 91 dhe 92, të këtij ligji, së bashku me emrin dhe adresën e tij të plotë.
 
+Fatura, përveç informacionit të përcaktuar në shkronjat “a” deri në “nj”, të këtij neni, duhet të përmbajë edhe elemente të tjera, sipas përcaktimit në legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit.
+
+Dokumentet e përcaktuara në nënndarjet “i” dhe “ii”, të shkronjës “c”, të nenit 95, të këtij ligji, përveç informacionit të përcaktuar në nenin 101, duhet të përmbajnë referencat e faturës fillestare përkatëse dhe detajet specifike që ato korrigjojnë.
+
 Neni 102
 
 Dokumente tatimore të thjeshtuara
 
-1. Personi i tatueshëm, për furnizime të kryera sipas pikës 1, të nenit 98, të këtij ligji, për të cilat nuk është i detyruar të lëshojë faturë tatimore me përmbajtje siç përcaktohet në nenin 101, të këtij ligji, duhet të lëshojë një faturë të thjeshtuar, e cila të përmbajë:  
-
-a) datën e lëshimit;
-
-b) identifikimin e personit të tatueshëm që furnizon mallrat dhe shërbimet;
-
-c) identifikimin e mallrave dhe shërbimeve të furnizuara;
-
-ç) vlerën e TVSH-së së pagueshme dhe informacionin e nevojshëm për llogaritjen e saj.
-
-Për qëllime të kësaj pike, kuponi tatimor, siç përcaktohet në ligjin për procedurat tatimore në Republikën e Shqipërisë, është dokument tatimor i thjeshtuar.
-
-2. Dokumentet e përcaktuara në shkronjën “c”, nënndarjet “i” dhe “ii”, të nenit 95, të këtij ligji, përveç informacionit të përcaktuar në pikën 1, të këtij neni, duhet të kenë të shkruar referencat e faturës fillestare përkatëse dhe detajet specifike që ato korrigjojnë.
+(shfuqizuar me ligjin nr. 85/2019, datë 18.12.2019)
 
 Neni  103
 
@@ -1580,29 +1598,19 @@ Faturat letër dhe faturat elektronike
 
 Neni 104
 
-Mënyra e lëshimit dhe dërgimit të faturave
+Mënyra e lëshimit dhe e dërgimit të faturave 
 
-1. Faturat tatimore dhe dokumentet e tjera të lëshuara sipas këtij ligji mund të vihen në dispozicion në letër, sipas formatit të faturës tatimore, e cila shtypet dhe shpërndahet nga autoritetet tatimore apo nga subjekte private të autorizuara, siç përcaktohet në ligjin për procedurat tatimore në Republikën e Shqipërisë.
+(ndryshuar me ligjin nr. 85/2019, datë 18.12.2019)
 
-2. Drejtori i Përgjithshëm i Tatimeve ka të drejtë të lejojë mospërdorimin e faturave tatimore, në përputhje me pikën 1, të këtij neni, në rastet kur personi i tatueshëm i regjistruar mund të tregojë, me kërkesë të organeve tatimore, që sistemi i tij i regjistrimeve është i kompjuterizuar dhe i aftë të prodhojë fatura tatimore me numër serial për çdo transaksion të tatueshëm dhe që ka një numër të konsiderueshëm klientësh konsumatorë, sipas procedurës së përcaktuar me udhëzim të Ministrit të Financave.
-
-3. Faturat tatimore dhe dokumentet e tjera, të lëshuara sipas këtij ligji, mund të vihen në dispozicion elektronikisht pas një marrëveshjeje paraprake, sipas së cilës marrësi pranon që faturat t’i vihen në dispozicion në mënyrë elektronike, vetëm nëse plotësohen kërkesat e parashikuara në pikën 2, të nenit 105, të këtij ligji.
+Faturat tatimore dhe dokumentet e tjera, të lëshuara sipas këtij ligji, mund të vihen në dispozicion në letër ose në formë elektronike, siç përcaktohet në legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit. 
 
 Neni 105
 
-Kriteret e dërgimit dhe lëshimit të faturave
+Kriteret e dërgimit dhe të lëshimit të faturave 
 
-1. Vërtetësia e origjinës, integriteti i përmbajtjes dhe lexueshmëria e një fature, qoftë kjo në letër apo në formë elektronike, garantohen duke filluar nga momenti i lëshimit të saj deri në përfundimin e periudhës së ruajtjes së faturës. Mënyra për të siguruar vërtetësinë e origjinës, integritetin e përmbajtjes dhe lexueshmërinë e faturës siç përcaktohet në pikën 2, të këtij neni, përcaktohet me udhëzim të Ministrit të Financave.
+(ndryshuar me ligjin nr. 85/2019, datë 18.12.2019)
 
-2. Vërtetësia e origjinës dhe integriteti i përmbajtjes së një fature elektronike duhet të garantohen nëpërmjet një nënshkrimi të avancuar elektronik ose nëpërmjet shkëmbimit elektronik të të dhënave (EDI), siç kërkohet dhe parashikohet në rregullimet dhe rekomandimet europiane.
-
-3. Në kuptim të këtij neni:
-
-a) “Autenticiteti i origjinës” nënkupton sigurimin e identitetit të furnizuesit ose lëshuesit të faturës;
-
-b) “Integriteti i përmbajtjes” nënkupton që përmbajtja e kërkuar sipas këtij ligji nuk është ndryshuar.
-
-4. Në rast se disa fatura elektronike të një serie i janë dërguar në të njëjtën kohë të njëjtit marrës, të dhënat e përbashkëta të secilës faturë mund të përmenden vetëm një herë, me kushtin që për çdo faturë të jetë e mundur marrja e të gjithë informacionit që ajo përmban.  
+Vërtetësia e origjinës, integriteti i përmbajtjes dhe lexueshmëria e një fature, qoftë kjo në letër apo në formë elektronike, duhet të garantohen në përputhje me përcaktimet e legjislacionit në fuqi për faturën dhe sistemin e monitorimit të qarkullimit, duke filluar nga momenti i lëshimit të saj deri në përfundimin e periudhës së ruajtjes së faturës.
 
 Seksioni 6
 
@@ -1612,11 +1620,15 @@ Neni 106
 
 Deklarata e TVSH-së
 
+(hequr fjalë në pikën 3 dhe shtuar pika 4 me ligjin nr. 85/2019, datë 18.12.2019)
+
 1. Çdo person i tatueshëm duhet të dorëzojë një deklaratë TVSH-je, e cila përmban gjithë informacionin e nevojshëm në të cilin bazohet llogaritja e TVSH-në që është bërë e kërkueshme, vlerën e TVSH-së që mund të zbritet, vlerat e tatueshme të veprimeve që lidhen me llogaritjen e TVSH-së së kërkueshme dhe asaj të zbritshme si edhe vlerën e furnizimeve të përjashtuara nga TVSH-ja.
 
 2. Përveç të dhënave që përmban deklarata e TVSH-së, sipas pikës 1, të këtij neni, Ministri i  Financave përcakton me udhëzim formën dhe përmbajtjen e plotë të deklaratës si dhe përcakton modalitetet e deklarimit të TVSH-së në lidhje me importet.
 
-3. Deklarata e TVSH-së, e bërë sipas pikës 1, të këtij neni, dorëzohet siç përcaktohet në nenin 65, të ligjit për procedurat tatimore në Republikën e Shqipërisë, në të cilin parashikohet edhe dërgimi në rrugë elektronike.
+3. Deklarata e TVSH-së, e bërë sipas pikës 1, të këtij neni, dorëzohet siç përcaktohet në nenin 65, të ligjit për procedurat tatimore në Republikën e Shqipërisë.
+
+4. Deklarata e TVSH-së, e bërë sipas pikës 1, të këtij neni, do të krijohet automatikisht nga autoriteti tatimor, bazuar në informacionin në librin e blerjes dhe në librin e shitjes. Personi i tatueshëm duhet të kontrollojë të dhënat në atë deklaratë, t’i ndryshojë ose t’i plotësojë ato, nëse është e nevojshme, në përputhje me librin e blerjes dhe të shitjes, të konfirmojë saktësinë dhe plotësinë e tyre, duke përdorur shërbimin elektronik të autoritetit tatimor, dhe ta dorëzojë atë brenda afatit të përcaktuar në nenin 107 të këtij ligji.
 
 Neni 107
 
@@ -1644,11 +1656,11 @@ Neni 109
 
 Deklarime të tjera
 
-(shtuar një fjali në pikën 2 me ligjin nr. 107/2017, datë 30.11.2017)
+(shtuar një fjali në pikën 2 me ligjin nr. 107/2017, datë 30.11.2017,  shtuar fjalë në fjalinë e parë të pikës 2 me ligjin nr. 85/2019, datë 18.12.2019)
 
 1. Autoriteti tatimor mund t’i kërkojë dhe t’i lejojë personit të tatueshëm të bëjë deklarime të tjera, si shtesë e deklaratave për periudhat tatimore, në përputhje me nenin 67, të ligjit për procedurat tatimore në Republikën e Shqipërisë. Në këtë rast deklarimi bëhet në përputhje me pikën 3, të nenit 106, të këtij ligji.
 
-2. Të gjithë personat, të cilët, në zbatim të këtij kreu, kanë detyrimin për të dorëzuar deklaratën e TVSH-së, duhet ta shoqërojnë çdo deklaratë për një periudhë të caktuar tatimore me regjistrat përmbledhës mujorë si për furnizime të kryera, dhe për furnizime të marra dhe saktësime të tyre, të emërtuar përkatësisht libër shitjeje dhe libër blerjeje. Në këtë rast deklarimi bëhet në përputhje me pikën 3, të nenit 106, të këtij ligji. Këshilli i Ministrave ka të drejtë të caktojë, me vendim, që për ndonjë kategori personash të tatueshëm, regjistrat përmbledhës që shoqërojnë deklaratën e TVSH-së, të jenë për një periudhë më të gjatë se muaji, por jo më e gjatë se një vit kalendarik.
+2. Të gjithë personat, të cilët, në zbatim të këtij kreu, kanë detyrimin për të dorëzuar deklaratën e TVSH-së, duhet ta shoqërojnë çdo deklaratë për një periudhë të caktuar tatimore me regjistrat përmbledhës mujorë si për furnizime të kryera, dhe për furnizime të marra dhe saktësime të tyre, të emërtuar përkatësisht libër shitjeje dhe libër blerjeje, në përputhje me legjislacionin në fuqi për faturën dhe sistemin e monitorimit të qarkullimit. Në këtë rast deklarimi bëhet në përputhje me pikën 3, të nenit 106, të këtij ligji. Këshilli i Ministrave ka të drejtë të caktojë, me vendim, që për ndonjë kategori personash të tatueshëm, regjistrat përmbledhës që shoqërojnë deklaratën e TVSH-së, të jenë për një periudhë më të gjatë se muaji, por jo më e gjatë se një vit kalendarik.
 
 3. Ministri i Financave përcakton me udhëzim formën dhe përmbajtjen e librit të shitjes dhe librit të blerjes. 
 
@@ -1656,9 +1668,11 @@ Neni 110
 
 Dispozita të ndryshme
 
+(ndryshuar paragrafi i dytë i pikës 1 me ligjin nr. 85/2019, datë 18.12.2019)
+
 1. Personat e tatueshëm, që i nënshtrohen regjimit të bizneseve të vogla sipas kreut XI, seksioni 1, të këtij ligji, përjashtohen nga detyrimet për faturimin dhe deklarimin e TVSH-së, siç përcaktohet në seksionet 4, 5 dhe 6, të këtij kapitulli. 
 
-Këta persona, për faturimin i nënshtrohen dispozitave të nenit 47, të ligjit për procedurat tatimore në Republikën e Shqipërisë, sipas të cilit përdorin faturën e thjeshtë tatimore që përmban më pak elemente se ato të parashikuara në nenin 101, të këtij ligji.
+Këta persona, për faturimin i nënshtrohen dispozitave të legjislacionit në fuqi për faturën dhe sistemin e monitorimit të qarkullimit.
 
 2. Prodhuesit bujqësorë, që i nënshtrohen regjimit të kompensimit, siç përcaktohet në seksionin 4, të kreut XI, të këtij ligji, përjashtohen nga përmbushja e detyrimeve mbi faturimin, deklarimin, mbajtjen e kontabilitetit, të përcaktuara në seksionet 4, 5, 6 dhe 7, të këtij kreu.  
 
@@ -2180,9 +2194,11 @@ Neni 157
 
 Dispozita kalimtare
 
+(shfuqizuar pika 2 me ligjin nr. 85/2019, datë 18.12.2019)
+
 1. Rregullimi i zbritjes së TVSH-së, siç përcaktohet në nenin 80, të këtij ligji, do të aplikohet për mallrat kapitale të luajtshme dhe të paluajtshme, për të cilat e drejta e zbritjes së TVSH-së lind pas datës së hyrjes në fuqi të këtij ligji.
 
-2. Përcaktimet e neneve 104 dhe 105, të këtij ligji, për lëshimin dhe dërgimin e faturës në formatin elektronik, i cili kërkon krijimin e infrastrukturës së duhur, sipas rregullimeve europiane, si dhe seksioni 5, i kreut XI, të këtij ligji, hyjnë në fuqi me anëtarësimin e Republikës së Shqipërisë në Bashkimin Europian.
+2. Shfuqizuar.
 
 Neni 158
 
@@ -2207,6 +2223,20 @@ Shfuqizime
 1. Me hyrjen në fuqi të këtij ligji shfuqizohen ligji nr. 7928, datë 27.4.1995, “Për tatimin mbi vlerën e shtuar”, të ndryshuar, të gjitha aktet nënligjore të dala në zbatim të tij, si dhe çdo dispozitë tjetër që bie ndesh me këtë ligj.
 
 2. Përjashtimisht nga pika 1 e këtij neni, nenet 58.1; 58.2; 58.3 dhe 58.4 të ligjit nr. 7928, datë 27.4.1995, “Për tatimin mbi vlerën e shtuar”, të ndryshuar shfuqizohen 15 ditë pas botimit të këtij ligji në Fletoren Zyrtare.
+
+Neni 19
+
+Dispozitë kalimtare
+
+ (shtuar me ligjin nr. 85/2019, datë 18.12.2019)
+
+Në periudhën kalimtare, nga data e hyrjes në fuqi të këtij ligji deri në fillimin e efekteve të dispozitave lidhur me përdorimin e detyrueshëm të faturave elektronike, siç përcaktohet në legjislacionin për faturën dhe sistemin e monitorimit të qarkullimit, personi i tatueshëm, për transaksione pa para në dorë me personin tjetër të tatueshëm dhe personin juridik të patatueshëm duhet:
+
+a) të lëshojë fatura tatimore me përmbajtjen dhe në formatin, në përputhje me nenet 101 dhe 104, të ligjit për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë deri në datën e fillimit të efekteve të neneve 11 dhe 13 të këtij ligji; 
+
+b) të dorëzojë deklaratën e TVSH-së, në përputhje me nenin 106, të ligjit për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë, deri në datën e fillimit të efekteve të nenit 15 të këtij ligji; 
+
+c) të dorëzojë librin e blerjeve dhe librin e shitjeve, në përputhje me nenin 109, të ligjit për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë, deri në datën e fillimit të efekteve të nenit 16, të këtij ligji. 
 
 Neni 161
 
@@ -2349,3 +2379,5 @@ II. LISTA TREGUESE E SHËRBIMEVE BUJQËSORE
 ---
 
 [^fn2]: Akti normativ nr. 4, datë 30.11.2019 është miratuar me ligjin nr. 78/2019, datë 5.12.2019
+
+[^fn3]: Ky ligj hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare, me përjashtim të neneve 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17 dhe 18, të këtij ligji, të cilat i fillojnë efektet respektivisht në të njëjtën kohë me afatet e përcaktuara në legjislacionin për faturën dhe sistemin e monitorimit të qarkullimit.
