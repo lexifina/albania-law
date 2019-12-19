@@ -1,0 +1,1 @@
+15. Kur nuk paraqitet asnjë ofertë për blerjen e banesave sociale, thirrja publike rishpallet edhe një herë. Nëse përsëri nuk ka asnjë ofertë, njësia e vetëqeverisjes vendore ose Enti Kombëtar i Banesave rifillon procedurën e vlerësimit të përdorimit të këtij programi pas të paktën 6 (gjashtë) muajve.

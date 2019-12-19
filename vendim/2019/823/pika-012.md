@@ -1,0 +1,1 @@
+12. Ofertat duhet të dorëzohen në adresën e përcaktuar në shpalljen publike të njësisë së vetëqeverisjes vendore ose Entit Kombëtar të Banesave, brenda afatit kohor të specifikuar në shpallje. Në orën, vendin dhe ditën e shpallur, komisioni i vlerësimit të ofertave fton përfaqësuesit e ofertuesve të paraqesin ofertat e tyre në zarf të mbyllur.

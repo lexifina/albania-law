@@ -1,0 +1,6 @@
+13. Me hapjen e ofertave, komisioni i vlerësimit të ofertave ushtron këto detyra:
+a) vlerëson ofertat e depozituara dhe çmimet përkatëse për çdo banesë sociale të ofruar për blerje dhe shkualifikon çdo ofertë që dukshëm, bazuar në dokumentet e depozituara, nuk plotëson kushtet e termave të referencës;
+b) përzgjedh ofertën/ofertat me vlerën më të ulët të banesave, ndërmjet banesave që plotësojnë kushtet, normat dhe standardet në fuqi;
+c) kryen, brenda 10 (dhjetë) ditëve nga hapja e ofertave, këqyrjen e banesave sociale të ofruara për blerje, të cilat inspektohen nga inspektorë të higjienës dhe inxhinierë civilë, për të parë nëse plotësojnë kushtet dhe standardet e përcaktuara për banesat sociale që blihen në treg, sipas vendimit të Këshillit të Ministrave, dhe plotësojnë një formular për rezultatet e inspektimit, sipas modelit të parashikuar në shtojcën B, që i bashkëlidhet këtij vendimi. Kur konstatohen mangësi në dokumentacionin e nevojshëm të ofertave, u kërkohet ofertuesve t’i plotësojnë ato brenda 7 (shtatë) ditëve;
+ç) njofton me shkrim subjektin/et e përzgjedhura për t’iu blerë banesën sociale;
+d) shpall listën e subjekteve, nga të cilët do të bëhet blerja e banesave sociale, në faqen e internetit të njësisë së vetëqeverisjes vendore ose të Entit Kombëtar të Banesave.

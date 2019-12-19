@@ -1,0 +1,1 @@
+18. Kontrata për blerjen e banesave sociale në treg, të destinuara për dhënien me qira, i dërgohet Agjencisë Shtetërore të Kadastrës, për regjistrimin e kalimit të së drejtës së pronësisë në favor të njësisë së vetëqeverisjes vendore ose Entit Kombëtar të Banesave, si pjesë e fondit publik të banesave sociale me qira.
