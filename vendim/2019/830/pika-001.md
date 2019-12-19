@@ -1,0 +1,1 @@
+1. Miratimin e rregullave të hollësishme për grumbullimin, ambalazhimin, transportin, ruajtjen, etiketimin, njoftimin e aktivitetit dhe kontrollin e produkteve biologjike, sipas tekstit bashkëlidhur këtij vendimi.
