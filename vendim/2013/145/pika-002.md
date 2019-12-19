@@ -1,0 +1,1 @@
+2. Misioni i përfaqësuesit ushtarak, në kuadër të operacionit ushtarak “ALTHEA”, është drejtimi, monitorimi, këshillimi i Forcave të Armatosura të Bosnjë-Hercegovinës për të gjitha çështjet në lidhje me stërvitjen kolektive, me qëllim implementimin dhe arritjen e aftësive mbrojtëse.

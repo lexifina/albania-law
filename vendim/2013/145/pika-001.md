@@ -1,0 +1,1 @@
+1. Dërgimin me mision të 1 (një) përfaqësuesi ushtarak të Forcave të Armatosura të Republikës së Shqipërisë, në Sarajevë, Bosnjë-Hercegovinë, në shtabin “EUFOR”, në kuadër të operacionit ushtarak “ALTHEA”, të Bashkimit Europian.
