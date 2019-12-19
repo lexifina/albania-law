@@ -1,0 +1,1 @@
+5. Për garantimin e zbatimit të procedurave të këtij vendimi, çdo strukturë lokale të vërë në dispozicion të Drejtorisë së Përgjithshme të Doganave, së paku dy pika kontakti me qëllim koordinimin e menjëhershëm të punës.

@@ -1,0 +1,1 @@
+4. Në rast se strukturat lokale nuk kanë dijeni paraprake për një dërgesë të caktuar, atëherë, menjëherë me mbërritjen e mallrave, ndihmë humanitare, në pikën kufitare, degët doganore të njoftojnë pa vonesë strukturat lokale, të cilat vijojnë të procedojnë normalisht, sipas mënyrës së parashikuar në pikën 3, të këtij vendimi.

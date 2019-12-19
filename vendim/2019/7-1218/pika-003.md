@@ -1,0 +1,1 @@
+3. Në rast se strukturat lokale njoftohen paraprakisht nga donatori për dërgesën, pikën kufitare hyrëse dhe kohën e parashikuar të mbërritjes së mallrave me destinacion të përcaktuar, atëherë ato autorizojnë një përfaqësues, i cili paraqitet në degën doganore përkatëse për të bërë të mundur kryerjen e procedurave dhe shoqërimin e mallrave deri në destinacionin e përcaktuar.

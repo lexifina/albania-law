@@ -1,0 +1,1 @@
+2. Drejtoria e Përgjithshme e Doganave dhe strukturat lokale të mbrojtjes civile për qarqet e Durrësit, Tiranës dhe Lezhës të bashkërendojnë punën për kryerjen e procedurave doganore, pritjen e mallrave dhe lëvrimin e tyre, drejtpërdrejt nga këta të fundit, në favor të komunitetit të përcaktuar nga donatori.

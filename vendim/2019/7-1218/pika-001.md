@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave dhe procedurave për administrimin dhe shpërndarjen e mallrave, ndihmë humanitare, që vijnë nga jashtë territorit të Republikës së Shqipërisë, në rastet kur donatori ka përcaktuar shprehimisht një komunitet të caktuar si pritës të këtyre mallrave.
