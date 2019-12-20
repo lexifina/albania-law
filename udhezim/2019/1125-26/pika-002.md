@@ -1,0 +1,1 @@
+2. Procedurat e përzgjedhjes së mësuesit ndihmës janë në përputhje me udhëzimin për procedurat e pranimit e të emërimit të mësuesit në një vend të lirë pune në institucionet publike të arsimit parauniversitar dhe për administrimin e portalit “Mësues për Shqipërinë”.

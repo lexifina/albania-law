@@ -1,0 +1,3 @@
+1. Mësuesi ndihmës, për nxënësit me aftësi të kufizuara (AK) në institucionet arsimore publike, duhet të plotësojë këto kritere:
+a) të jetë i pajisur me licencë mësuesi në profilin “Arsim special”;
+b) kur nuk ka mësues të profilit “Arsim special”, të jetë i pajisur me diplomë të ciklit të dytë në fushën e edukimit, konform kërkesave të nenit 57, pika 2, të ligjit nr. 69/2012, “Për sistemin arsimor parauniversitar në Republikën e Shqipërisë”, të ndryshuar, si dhe të ketë kryer trajnime për arsimimin e nxënësve me aftësi të kufizuara dhe të jetë i pajisur me certifikatë/dëshmi/diplomë që vërteton këtë kompetencë profesionale të shtuar.

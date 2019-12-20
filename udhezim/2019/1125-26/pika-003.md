@@ -1,0 +1,1 @@
+3. Norma mësimore javore e mësuesit ndihmës dhe qëndrimi fizik në institucionin arsimor është i njëjtë me atë të mësuesit të zakonshëm në klasë, sipas udhëzimit për numrin e nxënësve për klasë dhe normat e punës mësimore në institucionet e arsimit parauniversitar.

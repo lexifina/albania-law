@@ -1,0 +1,1 @@
+4. Një mësues ndihmës mund të punojë me 2 deri në 3 nxënës me aftësi të kufizuara brenda të njëjtit institucion arsimor, sipas rekomandimit të Komisionit Multidisiplinar të ngritur pranë Zyrës Vendore të Arsimit Parauniversitar (ZVAP-ve), bazuar në nivelin e vështirësisë dhe të nevojës për mbështetje që paraqet nxënësi.
