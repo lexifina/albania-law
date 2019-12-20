@@ -1,0 +1,1 @@
+7. Provimet e detyruara gjuhë shqipe dhe letërsi, matematikë, gjuhë e huaj e parë dhe programet orientuese të tyre, të mbështeten në programet ekzistuese të kulturës së përgjithshme të arsimit profesional.
