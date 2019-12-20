@@ -4,7 +4,7 @@ Nr. 188, datë 10.11.2017
 
 MBI LICENCIMIN E SHOQËRISË ALBGAZ SHA NË AKTIVITETIN E TRANSMETIMIT TË GAZIT NATYROR 
 
-(Ndryshuar me vendimin e ERE-s nr. 262, datë 19.12.2018; nr. 37, datë 4.3.2019)
+(Ndryshuar me vendimin e ERE-s nr. 262, datë 19.12.2018; nr. 37, datë 4.3.2019, nr. 220, datë 20.12.2019 )
 
 (I përditësuar)
 
@@ -42,7 +42,7 @@ Për gjithë sa më sipër, bordi i ERE-s
 
 VENDOSI:
 
-1. Të licencojë shoqërinë “Albgaz” sh.a në veprimtarinë e transmetimit të gazit natyror, për një afat 30 vjeçar, me kushtin që brenda datës 20.12.2019, në mbështetje të nenit 24, pika 2 e Ligjit nr. 102/2015, “Për sekorin e gazit natyror”, të plotësojë gjithë dokumentacionin e munguar që ka të bëjë me:
+1. Të licencojë shoqërinë “Albgaz” sh.a. në veprimtarinë e transmetimit të gazit natyror, për një afat 30-vjeçar, me kushtin që brenda datës 20.6.2020, në mbështetje të nenit 24, pika 2, e ligjit nr. 102/2015, “Për sektorin e gazit natyror”, të plotësojë të gjithë dokumentacionin e munguar që ka të bëjë me:
 
 - dokumentacionin që tregon titujt e pronësisë mbi asetet që ka, për të kryer funksionet ose plotësuar detyrimet nën licencën e kërkuar;
 
