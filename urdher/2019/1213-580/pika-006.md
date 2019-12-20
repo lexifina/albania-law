@@ -1,0 +1,2 @@
+6. Ngarkohen për zbatimin e këtij urdhri, Sekretari i Përgjithshëm në Ministrinë e Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme Rregullatore dhe Përputhshmërisë për Arsimin, Sportin dhe Rininë në MASR, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Drejtoria Rajonale Arsimore Parauniversitare, Durrës, Zyra Vendore e Arsimit Parauniversitar Tiranë dhe subjekti, “Drita e Diturisë” sh.p.k., Tiranë.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

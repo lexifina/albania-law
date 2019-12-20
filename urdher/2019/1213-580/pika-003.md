@@ -1,0 +1,1 @@
+3. Zyra Vendore e Arsimit Parauniversitar Tiranë ka për detyrë të monitorojë procesin e dorëzimit të dokumentacionit nga subjekti “Drita e Diturisë” sh.p.k. dhe të raportojë në Ministrinë e Arsimit, Sportit dhe Rinisë.

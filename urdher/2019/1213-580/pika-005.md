@@ -1,0 +1,1 @@
+5. Urdhrat e ministrit përgjegjës për arsimin, me nr. 295, datë 5.10.2000, “Për dhënie leje funksionimi të institucionit arsimor jopublik” dhe nr. 48, datë 2.3.2001, “Për dhënie leje funksionimi të institucionit arsimor jopublik”, shfuqizohen.

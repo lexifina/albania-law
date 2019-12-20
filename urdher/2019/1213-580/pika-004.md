@@ -1,0 +1,1 @@
+4. Ministria e Arsimit, Sportit dhe Rinisë dhe institucionet e saj të varësisë të njohin veprimtarinë e kryer dhe dokumentacionin e lëshuar nga institucioni arsimor jopublik “Drita e Diturisë”, deri në datën 16.9.2017.
