@@ -1,1 +1,0 @@
-2. Procedurat e përzgjedhjes së mësuesve ndihmës dhe të largimit nga puna janë në përputhje me udhëzimin nr. 35, datë 30.9.2014 “ Për procedurat e lëvizjes paralele, të emërimit dhe të largimit nga puna të mësuesit në institucionin publik të arsimit parauniversitar”.
