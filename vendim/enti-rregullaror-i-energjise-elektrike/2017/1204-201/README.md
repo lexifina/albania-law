@@ -2,7 +2,7 @@
 
 Official source: [Vendim nr. 201, datë 4.12.2017 (Enti Rregullaror i Energjisë Elektrike)](https://qbz.gov.al/api/v1/acts/65423); [QBZ versions](https://qbz.gov.al/api/v1/acts/65423/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2019-10-29; after QBZ act 60949 (nr. 155).
+Status of this text: `official consolidated version 2`, applying from 2019-12-20; after QBZ act 21035 (nr. 233).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
