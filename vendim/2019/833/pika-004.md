@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 18 852 893 (tetëmbëdhjetë milionë e tetëqind e pesëdhjetë e dy mijë e tetëqind e nëntëdhjetë e tre) lekësh, të përballohet nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë.

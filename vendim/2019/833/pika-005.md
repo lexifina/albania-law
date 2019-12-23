@@ -1,0 +1,1 @@
+5. Shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë, të përballohen nga fondet e Ministrisë së Infrastrukturës dhe Energjisë, ndërsa shpenzimet procedurale për botimin në gazetë, në vlerën 1 260 000 (një milion e dyqind e gjashtëdhjetë mijë) lekë, të përballohen nga subjekti kërkues, Bashkia Shkodër.

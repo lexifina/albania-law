@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Shkodër, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit në hartën kadastrale dhe kalimi i pronësisë në favor të shtetit për pasuritë e shpronësuara.
