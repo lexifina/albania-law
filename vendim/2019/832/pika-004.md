@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 12 318 300 (dymbëdhjetë milionë e treqind e tetëmbëdhjetë mijë e treqind) lekësh, të përballohet nga zëri “Shpronësime”, në programin “Transporti rrugor”, miratuar për Autoritetin Rrugor Shqiptar në buxhetin e vitit 2019.
