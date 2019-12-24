@@ -1,0 +1,1 @@
+3. Regjistrat shtetëror të gradave shkencore dhe titujve akademikë të lëshuar nga Institucionet e Arsimit të Lartë (IAL) në Republikën e Shqipërisë, krijohen dhe administrohen në Agjencinë Kombëtare të Kërkimit Shkencor dhe Inovacionit (AKKSHI).

@@ -1,0 +1,1 @@
+6. Përdorimi dhe përpunimi i të gjithë informacionit dhe të dhënave të gjeneruara si rezultat i procedurave të regjistrimit, kryhet në përputhje me ligjin nr. 9887, datë 10.3.2008, “Për mbrojtjen e të dhënave personale”, të ndryshuar, dhe ligjin nr. 35/2016, “Për të drejtat e autorit dhe të drejtat e tjera të lidhura me to”.

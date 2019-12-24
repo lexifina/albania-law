@@ -1,0 +1,1 @@
+1. Regjistrat shtetërorë për regjistrimin e gradës shkencore “doktor” dhe titujve akademikë “profesor i asociuar” dhe “profesor” janë një bazë unike të dhënash e të gjitha gradave shkencore dhe titujve akademikë të lëshuara nga institucionet e arsimit të lartë që ushtrojnë veprimtarinë e tyre në Republikën e Shqipërisë, në përputhje me përcaktimet e kuadrit ligjor në fuqi.
