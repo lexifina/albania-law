@@ -2,9 +2,9 @@ VENDIM
 
 Nr. 391, datë 3.5.2017
 
-PËR PËRCAKTIMIN E PROCEDURAVE TË REGJISTRIMIT DHE TË PUBLIKIMIT NË QENDRËN KOMBËTARE 
+PËR PËRCAKTIMIN E PROCEDURAVE TË REGJISTRIMIT DHE TË PUBLIKIMIT NË QENDRËN KOMBËTARE  TË BIZNESIT
 
-TË BIZNESIT
+(ndryshuar me VKM nr. 884, datë 27.12.2019)
 
 Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 76, të ligjit nr. 9723,  datë 3.5.2007, “Për regjistrimin e biznesit”, të ndryshuar, me propozimin e ministrit të Zhvillimit Ekonomik, Turizmit, Tregtisë dhe Sipërmarrjes, Këshilli i Ministrave
 
@@ -78,7 +78,7 @@ IV . PROCEDURAT E APLIKIMIT PRANË SPORTELIT ELEKTRONIK
 
 27. Personi i autentifikuar ngarkon në dosjen e hapur sipas pikës 25 dokumentet shoqëruese të krijuara apo të konvertuara prej tij në format elektronik. Për çdo dokument të ngarkuar në dosjen elektronike nga personi i autentifikuar, sistemi i informatizuar i QKB-së vendos një kod identifikimi elektronik të sigurt që lidh dokumentin me të dhënat e autentifikimit të personit.
 
-28. Pasi personi i autentifikuar verifikon se të dhënat e plotësuara në formular dhe dokumentet shoqëruese të ngarkuara në dosjen elektronike sipas pikës 27, janë të sakta, i konfirmon ato me mjete elektronike që garantojnë autenticitetin e origjinës dhe pacenueshmërinë e përmbajtjes së dokumenteve në format elektronik, të paktën nëpërmjet nënshkrimit elektronik të avancuar, sipas përcaktimeve të legjislacionit në fuqi për nënshkrimin elektronik.
+28. Pasi personi i autentifikuar verifikon se të dhënat e plotësuara në formular dhe dokumentet shoqëruese të ngarkuara në dosjen elektronike sipas pikës 27, janë të sakta, i konfirmon ato me mjete elektronike që garantojnë autenticitetin e origjinës dhe pacenueshmërinë e përmbajtjes së dokumenteve në format elektronik, të paktën nëpërmjet nënshkrimit elektronik të avancuar të formularit të aplikimit, sipas përcaktimeve të legjislacionit në fuqi për nënshkrimin elektronik.
 
 29. Pas konfirmimit elektronik të aplikimit sipas pikës 28, sistemi i informatizuar i QKB-së jep konfirmimin automatik të kryerjes së aplikimit nga sporteli elektronik, i cili përmban numrin e dhënë automatikisht nga sistemi i informatizuar i QKB-së (numrin e çështjes CN), i cili i mundëson aplikantit të ndjekë në çdo kohë gjendjen e procesit të regjistrimit.
 
@@ -166,13 +166,13 @@ VII. DISPOZITA MBI PUBLIKIMIN ELEKTRONIK DHE MARRJEN E INFORMACIONIT
 
 VIII. DISPOZITA TË POSAÇME PËR DEPOZITIMIN E PASQYRAVE FINAN-CIARE
 
-61. Subjektet, që kanë detyrimin e hartimit të pasqyrave financiare vjetore, të raportit të ecurisë së veprimtarisë dhe të raportit të auditimit, të mbajtura sipas kërkesave ligjore, në rastet kur mbajtja e këtyre dokumenteve është e detyrueshme, dhe që nuk i kanë depozituar më parë sipas afatit të parashikuar në pikën 5, të nenit 22, të ligjit të regjistrimit të biznesit, detyrohen në çdo rast t’i depozitojnë këto dokumente jo më vonë se 7 muaj nga data e mbylljes së çdo viti financiar.
+61. Subjektet, që kanë detyrimin e hartimit të pasqyrave financiare vjetore, të raportit të ecurisë së veprimtarisë dhe të raportit të auditimit, të mbajtura sipas kërkesave ligjore, në rastet kur mbajtja e këtyre dokumenteve është e detyrueshme, detyrohen në çdo rast t’i depozitojnë këto dokumente nëpërmjet sportelit elektronik, brenda 7 muajve nga data e mbylljes së çdo viti financiar, jo më vonë se data 31 korrik.
 
-62. Nëse një subjekt nuk përmbush detyrimin, sipas pikës 61, të këtij  kreu, atëherë QKB-ja, së bashku me zbatimin e sanksionit të parashikuar në pikën 3, të nenit 74, të ligjit të regjistrimit të biznesit, vepron në përputhje me parashikimet e shkronjës “ë”, të nenit 54, të po atij ligji.
+62. Nëse një subjekt nuk përmbush detyrimin sipas pikës 61, të këtij kreu, atëherë QKB-ja zbaton sanksionin e parashikuar në pikën 3, të nenit 74, të ligjit të regjistrimit të biznesit.
 
-63. Pika 62 nuk zbatohet për subjektet që kanë njoftuar pezullimin e veprimtarisë, në përputhje me nenin 44, të ligjit të regjistrimit të biznesit.
+63. Me refuzimin e aplikimit për depozitimin e pasqyrave financiare, subjektet kanë të drejtë të riaplikojnë për depozitimin e tyre, jo më vonë se 7 muaj nga data e mbylljes së çdo viti financiar, brenda datës 31 korrik. Riparaqitja e aplikimit për depozitimin e pasqyrave financiare, pas refuzimit, trajtohet si aplikim i ri.
 
-64. Në përputhje me legjislacionin në fuqi, afati përfundimtar për depozitimin e pasqyrave financiare vjetore, të raportit të ecurisë së veprimtarisë dhe të raportit të auditimit, sipas shkronjës “a”, të nenit 43/3, të ligjit të regjistrimit të biznesit, është data 31 korrik e çdo viti.
+64. Kundërvajtja administrative, e parashikuar në pikën 3, të nenit 74, të ligjit të regjistrimit të biznesit, nuk zbatohet për subjektet që kanë njoftuar pezullimin e veprimtarisë, në përputhje me nenin 44, të po këtij ligji.
 
 IX. SHKËMBIMI I TË DHËNAVE ME INSTITUCIONET E TJERA
 
