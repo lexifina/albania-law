@@ -1,0 +1,1 @@
+6. Ngarkohet drejtoria TIK e Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, që në bashkëpunim me AKSHI-n, të trajnojë personat e autorizuar mbi procedurat e ofrimit të shërbimeve dhe të aksesimit në sistemin e qarkullimit të dokumenteve me nënshkrim elektronik.

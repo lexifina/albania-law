@@ -1,0 +1,1 @@
+5. Ngarkohen titullarët e institucioneve të varësisë, të përcaktuar në këtë urdhër, që brenda datës 20.12.2019, të përcaktojnë dhe të dërgojnë pranë Sekretarit të Përgjithshëm të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, emrat e personave të autorizuar, sipas pikës 4 të këtij urdhri.

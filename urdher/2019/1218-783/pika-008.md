@@ -1,0 +1,1 @@
+8. Ngarkohen titullarët e drejtorive, brenda aparatit të Ministrisë Shëndetësisë dhe Mbrojtjes Sociale dhe titullarët e institucioneve të varësisë, që brenda datës 24.12.2019, të informojnë pranë adresës elektronike: info@shendetesia.gov.al, mbi konfirmimet për aplikimet e kryera në portalin qeveritar e-Albania.

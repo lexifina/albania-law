@@ -1,0 +1,1 @@
+9. Ngarkohet Sekretari i Përgjithshëm i Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, që brenda datës 27.12.2019, të raportojë pranë ministrit të Shëndetësisë dhe Mbrojtjes Sociale, mbi aplikimet e kryera.
