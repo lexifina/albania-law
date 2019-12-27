@@ -1,0 +1,1 @@
+2. Ngarkohet ministria përgjegjëse për trashëgiminë kulturore, Këshilli Kombëtar i Menaxhimit të Pasurive Kulturore dhe të gjitha organet dhe institucionet e specializuara të trashëgimisë kulturore për zbatimin e kësaj rregulloreje.
