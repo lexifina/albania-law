@@ -1,0 +1,3 @@
+11. Njësia e teknologjisë së informacionit e të komunikimit është përgjegjëse për:
+a) administrimin e infrastrukturës, sistemeve dhe shërbimeve TIK në ministritë e linjës dhe në institucionet e varësisë, në rast se nuk detajohet ndryshe. Për pajisjet, sistemet në të cilat përpunohet informacioni i klasifikuar “sekret shtetëror”, NATO, BE, shteteve dhe organizatave të tjera ndërkombëtare, administrimi i kësaj infrastrukture kryhet sipas legjislacionit në fuqi për informacionin e klasifikuar;
+b) ofrimin e shërbimit të asistencës të nivelit 1, për infrastrukturën fizike, pajisjet TIK dhe funksionimin e sistemit për institucionin ku funksionon njësia.

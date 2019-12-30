@@ -1,0 +1,1 @@
+3. AKSHI ofron politika, strategji dhe rregullon sektorin TIK, duke përjashtuar fushën e komunikimeve elektronike. AKSHI është ofrues i shërbimeve TIK dhe i shërbimeve elektronike për qytetarët, bizneset dhe administratën publike.

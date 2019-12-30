@@ -1,0 +1,1 @@
+21. Për sistemet IT që janë ngritur dhe funksionojnë në bazë të marrëveshjeve ndërkombëtare ku Republika e Shqipërisë është palë, AKSHI njeh dhe zbaton të drejtat dhe detyrimet që rrjedhin nga këto marrëveshje.

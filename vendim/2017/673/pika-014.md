@@ -1,0 +1,1 @@
+14. Pranë AKSHI-t krijohet dhe funksionon Këshilli Kombëtar për Teknologjinë e Informacionit dhe Komunikimit (KKTIK), si organ këshillimor për zhvillimin e politikave e të strategjive kombëtare për teknologjinë e informacionit dhe komunikimit. Bordi asistohet në punën e tij nga një sekretariat teknik.

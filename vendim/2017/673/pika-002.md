@@ -1,0 +1,1 @@
+2. AKSHI financohet nga buxheti i shtetit dhe të ardhura të tjera të ligjshme, përfaqëson pronarin shtet dhe administron çdo sistem dhe infrastrukturë hardware dhe software në fushën TIK, për institucionet dhe organet e administratës buxhetore nën përgjegjësinë e Këshillit të Ministrave, si dhe institucionet jobuxhetore për të cilat do të përdoren tarifa shërbimi.

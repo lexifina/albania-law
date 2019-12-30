@@ -1,0 +1,1 @@
+19. Për sistemet dhe infrastrukturat TIK të cilat kalojnë në administrim dhe inventar të AKSHI-t dhe që zhvillohen ose mirëmbahen nëpërmjet marrëveshjeve ose kontratave të nënshkruara nga institucionet me palë të treta, të reflektohen ndryshimet përkatëse në këto akte.
