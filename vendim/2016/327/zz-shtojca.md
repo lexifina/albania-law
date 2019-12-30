@@ -655,3 +655,107 @@ Sipërfaqe totale për shpronësim në m2
 3254.97
 Shuma totale në lekë për shpronësim
 967956.8
+LISTA EMËRORE E PRONARËVE, PASURITË E TË CILËVE PREKEN NGA DISA SHTESA DHE NDYSHIME NË VENDIMIN NR. 327, DATË 27.4.2016, TË KËSHILLIT TË MINISTRAVE, “PËR SHPRONËSIMIN PËR INTERES PUBLIK TË PRONARËVE TË PASURIVE TË PALUAJTSHME, PRONË PRIVATE, QË PREKEN NGA NDËRTIMI I LINJËS 110 kv RRASHBULL-GOLEM-KAVAJË”
+(nënndarjet me nr. rendorë 36, 37, 38, 39, 40, 41, 42, 43 dhe 44, të ndryshuara me VKM nr. 853, datë 24.12.2019)
+Nr. rendor në VKM-në nr. 327, datë 27.4.2016
+Numri i shtyllës
+Lloji i pasurisë
+Emri
+Atësia
+Mbiemri
+Nr. i pasurisë
+Zona kadastrale
+Sip. e shpronësimit për shtyllë (m2) sipas VKM-së nr. 327, datë 27.4.2016
+Çmimi lekë/m²
+Vlera e shpronësimit në lekë për shtyllë
+FSHATI SEFERAJ
+36
+36
+Arë
+Bashkëpronësi Familja Ajazi
+503/1
+3271
+58.32
+329
+19,188.52
+FSHATI TILAJ
+37
+37
+Arë
+Bashkëpronësi Familja Shahu
+423/2, 423/3
+3600
+77.33
+329
+25,443.03
+38
+38
+Arë
+Bashkpronesi Familja Tila
+425/46
+3600
+47.33
+329
+15,573.02
+FSHATI SEFERAJ
+39
+39
+Arë
+Avni
+Belba
+508/20
+3271
+112.36
+329
+36,966.44
+40
+40
+Arë
+Bashkëpronësi Familja Çelpica
+525/49
+3271
+112.36
+329
+36,966.44
+41
+41
+Arë
+Altin
+Halil
+Begeja
+359/25
+3271
+40.56
+329
+13,344.24
+42
+31 A
+Arë
+Bashkëpronësi Familja Ajazi
+358/8
+3271
+73.96
+329
+24,332.84
+43
+42
+Arë
+Bashkëpronësi Familja Çopa
+357/8
+3271
+77.33
+329
+25,441.57
+44
+43
+Arë
+Bashkëpronësi Familja Ajazi
+356/10
+3271
+34.33
+329
+11,294.57
+Sipërfaqe totale për shpronësim (m2)
+633.89
+Shuma totale në lekë për shpronësim
+208,550.67

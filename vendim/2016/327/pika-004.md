@@ -1,1 +1,1 @@
-4. Vlera e përgjithshme e kompensimit dhe vlera e shpenzimeve procedurale të përballohen nga Operatori i Sistemit të Transmetimit (OST sh.a.), si subjekti kërkues i këtij shpronësimi.
+4. Vlera e përgjithshme e kompensimit dhe vlera e shpenzimeve për botimin në gazetë të përballohen nga Operatori i Sistemit të Transmetimit sh.a., si subjekti kërkues i këtij shpronësimi, ndërsa shpenzimet procedurale, në shumën 50 000 (pesëdhjetë mijë) lekë, të përballohen nga fondet e Ministrisë së Infrastrukturës dhe Energjisë.
