@@ -1,0 +1,1 @@
+2. Ngarkohen Sekretari i Përgjithshëm, si dhe drejtuesit e institucioneve të varësisë, të përcaktuar në këtë urdhër, të cilët lëshojnë dokumente që janë shoqëruese për aplikimet që do të jenë vetëm online, të aplikojnë menjëherë për t’u pajisur me nënshkrim elektronik, nëpërmjet Portalit Qeveritar e-Albania.

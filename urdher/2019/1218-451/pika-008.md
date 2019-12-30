@@ -1,0 +1,1 @@
+8. Ngarkohen drejtorët e drejtorive brenda aparatit të Ministrisë së Infrastrukturës dhe Energjisë dhe titullarët e institucioneve të varësisë, që, brenda datës 24.12.2019, të informojnë pranë adresës elektronike: sekretariasp@infrastruktura.gov.al, mbi konfirmimet për aplikimet e kryera në Portalin Qeveritar e-Albania.

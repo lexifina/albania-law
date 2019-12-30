@@ -1,0 +1,1 @@
+10. Ngarkohen të gjitha strukturat e ministrisë dhe institucionet e përcaktuara në këtë urdhër, që nëse është e nevojshme për zbatimin e tij, të përgatisin dhe përcjellin në ministri propozimet për ndryshimet e akteve nënligjore.

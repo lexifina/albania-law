@@ -1,0 +1,1 @@
+3. Paraqitja e kërkesave për marrjen e shërbimeve online, nëpërmjet sistemit online, duke filluar nga data 1.1.2020, bëhet vetëm për shërbimet e listuara në aneksin nr. 1 të këtij urdhri, i cili është pjesë përbërëse e tij.

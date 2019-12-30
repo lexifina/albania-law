@@ -1,0 +1,1 @@
+4. Personat që përdorin Sistemin e Qarkullimit të Dokumenteve të shërbimeve online, me qëllim kërkimin dhe/ose ofrimin e dokumenteve shoqëruese, të dokumenteve me nënshkrimin elektronik, autorizohen nga titullarët e institucioneve të varësisë.
