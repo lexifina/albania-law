@@ -1,0 +1,1 @@
+10. Institucioni përgjegjës për akreditimin i jep institucionit të kujdesit shëndetësor standardet optimale për akreditim, formularët që duhet të plotësohen, si dhe dokumentacionin bashkëshoqërues ndihmës për vetëvlerësim.

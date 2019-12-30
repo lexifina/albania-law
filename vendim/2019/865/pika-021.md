@@ -1,0 +1,1 @@
+21. Ministri vendos për akreditimin ose jo të institucionit të kujdesit shëndetësor, pasi shqyrton rekomandimet e bordit të akreditimit dhe vendos të miratojë atë ose ta kthejë për rivlerësim nëse e gjykon të arsyeshme brenda një afati 30-ditorë (tridhjetëditor).

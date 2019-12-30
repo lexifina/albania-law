@@ -1,0 +1,1 @@
+35. Institucioni përgjegjës për akreditimin bën publike certifikatën dhe emblemën e akreditimit, të cilat institucioni i kujdesit shëndetësor ka të drejtë t’i afishojë në një vend të dukshëm për publikun.

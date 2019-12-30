@@ -1,0 +1,1 @@
+13. Pas dorëzimit të raportit të vetëvlerësimit, institucioni përgjegjës për akreditim, dakordëson me institucionin e kujdesit shëndetësor datën e vlerësimit të jashtëm brenda një afati 10-ditor (dhjetëditor).

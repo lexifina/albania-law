@@ -1,0 +1,1 @@
+12. Në përfundim të vetëvlerësimit, institucioni i kujdesit shëndetësor dorëzon raportin e fundit të vetëvlerësimit dhe bën kërkesën për vlerësim të jashtëm nga ekspertët e përcaktuar nga institucioni përgjegjës për akreditim.

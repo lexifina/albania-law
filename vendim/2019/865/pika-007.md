@@ -1,0 +1,1 @@
+7. Ministri, pas marrjes së raportit për institucionet e kujdesit shëndetësor, jopublike, që nuk përmbushin standardet bazë të akreditimit, vendos pezullimin e licencës për një periudhë 30-ditore (tridhjetëditore). Nëse edhe pas kësaj periudhe institucioni i kujdesit shëndetësor nuk i ka përmbushur standardet bazë të akreditimit, atëherë ministri vendos revokimin e licencës.

@@ -1,0 +1,1 @@
+17. Grupi i ekspertëve të vlerësimit të jashtëm harton brenda 2 (dy) javësh draftraportin e vlerësimit lidhur me përmbushjen me standardet dhe ia paraqet institucionit të kujdesit shëndetësor dhe institucionit të vetëvlerësuar për komente e sugjerime të mundshme.

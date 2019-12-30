@@ -1,0 +1,1 @@
+39. Vendimi nr. 315 datë 23.3.2011, i Këshillit të Ministrave, “Për përcaktimin e rregullave dhe për mënyrën e realizimit të procesit të akreditimit të institucioneve shëndetësore”, i ndryshuar, shfuqizohet.

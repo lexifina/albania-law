@@ -1,0 +1,1 @@
+8. Vendimi i ministrit për pezullimin e shfuqizimin e licencës së institucionit të kujdesit shëndetësor jopublik publikohet nga ministria përgjegjëse për shëndetësinë në Regjistrin Kombëtar të Licencave, Autorizimeve dhe Lejeve dhe i përcillet për njoftim Qendrës Kombëtare të Biznesit.

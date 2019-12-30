@@ -1,0 +1,1 @@
+3. Pas licencimit të veprimtarisë përkatëse, të gjitha institucionet e kujdesit shëndetësor i nënshtrohen verifikimit nga struktura përgjegjëse për inspektimin në fushën e shëndetësisë të përmbushjes së standardeve bazë për akreditim.

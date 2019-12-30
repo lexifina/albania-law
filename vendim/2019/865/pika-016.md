@@ -1,0 +1,1 @@
+16. Vizita e ekspertëve të vlerësimit të jashtëm akreditues kryhet në datat e paracaktuara nga institucioni përgjegjës për akreditimin dhe institucioni i kujdesit shëndetësor. Institucioni duhet t’i ofrojë ekipit kushte optimale pune, pavarësi, mbrojtje dhe mbështetje nga çdo ndikim.

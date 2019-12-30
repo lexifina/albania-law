@@ -1,0 +1,1 @@
+33. Institucioni përgjegjës për akreditimin i dërgon rekomandimin e bordit të akreditimit ministrit, i cili, bazuar në rekomandimin e bordit të akreditimit, merr vendimin për akreditimin ose jo të institucionit të kujdesit shëndetësor, brenda një afati 30-ditor (tridhjetëditor).

@@ -1,0 +1,1 @@
+19. Pas marrjes në dorëzim të raportit final nga grupi i ekspertëve të vlerësimit të jashtëm, institucioni përgjegjës për akreditimin përgatit për mbledhjen e ardhshme të bordit të akreditimit dosjen e plotë të akreditimit.

@@ -1,0 +1,1 @@
+5. Institucioni përgjegjës për akreditimin, pas marrjes së raportit, njofton institucionin e kujdesit shëndetësor që ka plotësuar standardet bazë të akreditimit dhe e fton të vijojnë procesin e akreditimit.
