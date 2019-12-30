@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të shoqërisë Albgaz sh.a., të pasurive me nr. 181/80 dhe nr. 181/81, zona kadastrale 2631, me sipërfaqe përkatësisht 448,7 m2 dhe 25,551.30 m2, sipas planeve të rilevimit bashkëlidhur këtij vendimi.
