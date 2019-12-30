@@ -1,0 +1,3 @@
+1. Në buxhetin e miratuar për vitin 2019, të bëhet rishpërndarja e fondeve ndërmjet Ministrisë së Financave dhe Ekonomisë dhe Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, si më poshtë vijon:
+a) Ministrisë së Financave dhe Ekonomisë t’i pakësohet fondi prej 300 000 000 (treqind milionë) lekësh në programin buxhetor “Sigurimi shoqëror”, të buxhetit të shtetit, për shpenzime korrente, në artikullin 604, “Transfertë nga buxheti i shtetit në buxhetin e Institutit të Sigurimeve Shoqërore”;
+b) Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale t’i shtohet fondi prej 300 000 000 (treqind milionë) lekësh në programin buxhetor “Përkujdesi social”, për shpenzime korrente, në artikullin 606, “Transfertë për buxhetet familjare dhe individët”.
