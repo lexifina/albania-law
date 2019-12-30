@@ -1,0 +1,1 @@
+8. Vendimet dhe procesverbalet nënshkruhen nga të gjithë anëtarët pjesëmarrës. Vendimet duhet të jenë të argumentuara dhe, në çdo rast, vota “kundër” duhet të pasqyrohet në procesverbalin e mbledhjes.

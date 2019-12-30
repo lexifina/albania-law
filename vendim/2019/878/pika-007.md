@@ -1,0 +1,1 @@
+7. Sekretari i Komisionit caktohet nga ministri i Shtetit për Rindërtimin, ndër punonjësit e Agjencisë Kombëtare të Mbrojtjes Civile ose një punonjës tjetër i administratës publike, i cili nuk ka të drejtë vote dhe nuk nënshkruan në vendim.

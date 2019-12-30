@@ -1,0 +1,1 @@
+12. Komisioni Shtetëror i Rindërtimit ka stemën, logon dhe vulën e vet zyrtare. Stema përbëhet nga stema e Republikës së Shqipërisë, me shënimet “Republika e Shqipërisë, Komisioni Shtetëror i Rindërtimit”, në përputhje me përcaktimet e vendimit të Këshillit të Ministrave për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

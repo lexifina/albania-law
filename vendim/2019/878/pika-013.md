@@ -1,0 +1,1 @@
+13. Vula e Komisionit ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e përdorimit, të administrimit, të kontrollit dhe të ruajtjes së vulave zyrtare. Vula prodhohet, administrohet e ruhet në përputhje me legjislacionin në fuqi.
