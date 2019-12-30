@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese me shkëmbim notash të marrëveshjes së grantit (grant nr. TF017364), ndërmjet Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si agjenci zbatuese për Fondin Global të Mjedisit (GEF), për projektin e shërbimeve mjedisore, ratifikuar me ligjin nr. 152/2014, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
