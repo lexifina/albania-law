@@ -1,0 +1,1 @@
+2. Në rast të mungesës së ndonjë dokumenti, struktura përgjegjëse për skemat e cilësisë (më poshtë struktura përgjegjëse) në ministri, njofton kandidatin, i cili brenda 5 (pesë) ditëve pune nga marrja e njoftimit, plotëson kërkesën. Nëse edhe pas kërkesës për plotësim ka mungesa në dokumentacion, kërkesa nuk do të shqyrtohet.

@@ -1,0 +1,1 @@
+6. Anëtari i KSC-së që jep dorëheqjen është i detyruar të paraqesë kërkesën me shkrim për dorëheqje dhe arsyet e dorëheqjes, të paktën një muaj përpara datës së shkarkimit nga detyra, përveç rastit kur provon ose vërtetohet se kjo nuk ka qenë e mundur.

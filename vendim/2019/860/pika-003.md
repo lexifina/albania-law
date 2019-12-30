@@ -1,0 +1,1 @@
+3. Struktura përgjegjëse përgatit një raport për kandidatët për anëtarë të KSC-së, që plotësojnë kërkesat e pikës 1, të këtij vendimi, dhe ia dërgon për miratim ministrit, i cili miraton me urdhër anëtarët e KSC-së.

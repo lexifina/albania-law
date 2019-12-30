@@ -1,0 +1,1 @@
+8. Kryetari dhe anëtarët janë të detyruar të ruajnë konfidencialitetin e informacionit rreth kërkesave për regjistrim, kërkesave për ndryshimin e specifikimeve, vërejtjeve dhe kundërshtimeve, në përputhje me legjislacionin në fuqi.
