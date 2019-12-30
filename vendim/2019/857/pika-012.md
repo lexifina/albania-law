@@ -1,0 +1,1 @@
+12. Mungesa e dokumenteve që vërtetojnë plotësimin e ndonjërit prej kritereve të përcaktuara në kreun II të këtij vendimi, sjell skualifikimin e subjektit të interesuar. Ky fakt konstatohet në relacionin përfundimtar të komisionit.

@@ -1,0 +1,1 @@
+9. Dokumentacioni i mësipërm paraqitet në gjuhën shqipe, origjinal ose i njësuar me origjinalin. Dokumentet nga shtetet e huaja paraqiten të legalizuara, të përkthyera në gjuhën shqipe dhe të noterizuara sipas legjislacionit në fuqi.

@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i procedurave dhe i kritereve të konkurrimit, i formës e kohëzgjatjes së kontratës për dhënien në përdorim të pasurisë kulturore publike, si dhe i metodologjisë së caktimit të tarifave.

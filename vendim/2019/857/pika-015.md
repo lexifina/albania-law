@@ -1,0 +1,1 @@
+15. Në përfundim të procesit, brenda afatit të përcaktuar në pikën 11 të këtij kreu, komisioni, pasi shqyrton ofertat dhe dokumentacionin e paraqitur, harton relacionin përfundimtar për vlerësimin e subjekteve të interesuara.

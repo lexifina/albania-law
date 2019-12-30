@@ -1,0 +1,1 @@
+16. Komisioni bën renditjen e subjekteve të interesuara të kualifikuara sipas pikëve të përfituara, si dhe përcakton listën e subjekteve të skualifikuara, për shkak të mungesës së dokumentacionit, në relacionin përfundimtar.

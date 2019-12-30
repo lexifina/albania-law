@@ -1,0 +1,1 @@
+13. Procesi i vlerësimit vazhdon edhe kur është paraqitur së paku një propozim i vlefshëm. Propozim i vlefshëm konsiderohet propozimi që nuk mund të skualifikohet sipas parashikimeve të këtij vendimi.

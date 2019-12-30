@@ -1,0 +1,1 @@
+2. Ky vendim nuk zbatohet në rastin e dhënies në përdorim të pasurive kulturore publike të administruara nga ana e fondacioneve, sipas parashikimeve të neneve 171 e 172, të ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”.

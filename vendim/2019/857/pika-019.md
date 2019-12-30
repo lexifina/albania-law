@@ -1,0 +1,1 @@
+19. Subjektet e interesuara, brenda 5 (pesë) ditëve kalendarike nga njoftimi i vendimit, kanë të drejtën e ankimit te titullari i institucionit, i cili, brenda 10 (dhjetë) ditëve kalendarike, i kthen përgjigje me shkrim ankuesit.

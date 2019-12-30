@@ -1,0 +1,1 @@
+20. Subjektet e interesuara mund të ankimojnë vendimin përfundimtar të titullarit të institucionit në gjykatën kompetente, sipas legjislacionit në fuqi për shqyrtimin e mosmarrëveshjeve administrative.

@@ -1,0 +1,1 @@
+10. Subjektet e interesuara për të marrë pjesë në konkurrimin publik dorëzojnë dokumentacionin e mësipërm pranë protokollit të institucionit publik që zhvillon procedurën ose me postë fizike, ose elektronike, në adresën, datën dhe orën e përcaktuar në njoftimin për botim.

@@ -1,0 +1,1 @@
+6. Në rastin e procedurave për dhënie në përdorim me qëllim rijetësimi, subjektet e interesuara përmbushin edhe kriteret e parashikuara në pikën 5, të nenit 184, të ligjit nr. 27/2018, “Për trashëgiminë kulturore dhe muzetë”.

@@ -1,0 +1,1 @@
+22. Fituesi, përpara lidhjes së kontratës, paraqet garancinë e kontratës në masën 5 (pesë) % të investimit, brenda 10 (dhjetë) ditëve kalendarike nga data e njoftimit të vendimit të titullarit të institucionit publik.
