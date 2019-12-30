@@ -1,0 +1,1 @@
+4. Ndihmësit personalë ofrojnë ndihmesën/asistencën personale, sipas përcaktimeve në këtë vendim, për të mundësuar realizimin e veprimtarive bazë të jetës së personave me aftësi të kufizuara, në përputhje me moshën në familje dhe në shoqëri dhe për të siguruar një pjesëmarrje aktive në jetën e komunitetit.

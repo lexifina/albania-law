@@ -1,0 +1,1 @@
+7. Ndihmësit personalë ofrojnë ndihmesën/asistencën personale nën drejtimin dhe udhëzimet e vetë personave me aftësi të kufizuara, edhe në rastet kur personi me aftësi të kufizuara është asistuar nëpërmjet mbështetjes me ndihmë në vendimmarrje, ose nën drejtimin dhe udhëzimet e përfaqësuesve ligjorë të personave më aftësi të kufizuara.
