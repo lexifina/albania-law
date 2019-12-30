@@ -1,0 +1,26 @@
+{
+  "qbz_id": 20933,
+  "title": "Për një ndryshim në dekretin nr. 11346, datë 6.11.2019, \"Për lejimin e lënies së shtetësisë shqiptare\"",
+  "type": "Dekret",
+  "kind": "Akt ndryshues",
+  "number": "11391",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2019-12-20",
+  "published": "2019-12-30",
+  "in_force": "2019-12-30",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/f3ed0e799ea365e5c2e32e90ed47fc482a129873303e3d82a20ca605f1fc620c.docx",
+  "source_sha256": "f3ed0e799ea365e5c2e32e90ed47fc482a129873303e3d82a20ca605f1fc620c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20933",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2019/12/20/11391",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
