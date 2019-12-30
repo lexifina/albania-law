@@ -1,0 +1,1 @@
+5. Anëtarët e KPB-së janë të detyruar të ruajnë sekretin profesional dhe konfidencialitetin e diskutimeve, të dokumenteve dhe të çdo informacioni që u vihet në dispozicion, gjatë zbatimit të procedurave të miratimit dhe të mbikëqyrjes së trupave të kontrollit, sipas legjislacionit në fuqi për ruajtjen e të dhënave personale dhe për të drejtën e informimit.

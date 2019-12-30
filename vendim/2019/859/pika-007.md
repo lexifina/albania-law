@@ -1,0 +1,1 @@
+7. Kryetari mund të paraqesë çështje të tjera që nuk janë të përfshira në rendin e ditës të paraqitur paraprakisht, nëse 2/3 e anëtarëve vendosin për shqyrtimin dhe marrjen e vendimeve për këto çështje.

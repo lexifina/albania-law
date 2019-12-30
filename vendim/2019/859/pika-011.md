@@ -1,0 +1,1 @@
+11. Anëtari i KPB-së që jep dorëheqjen është i detyruar të paraqesë kërkesën me shkrim për dorëheqje dhe arsyet e dorëheqjes, të paktën 1 (një) muaj përpara datës së largimit nga detyra, përveç rastit kur provon ose vërtetohet se kjo nuk ka qenë e mundur.
