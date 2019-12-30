@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese, me shkëmbim notash, të marrëveshjes ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe Bankës Ndërkombëtare për Rindërtim dhe Zhvillim, që vepron si administratore e fondeve grant të siguruara nga Agjencia Suedeze për Zhvillimin e Bashkëpunimit Ndërkombëtar (SIDA), nën Fondin Suedez të Besimit, për fondin e besimit nr. TF072239, për projektin e shërbimeve mjedisore me Shqipërinë, ratifikuar me ligjin nr. 64/2015, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
