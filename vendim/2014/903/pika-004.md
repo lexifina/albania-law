@@ -1,1 +1,0 @@
-4. Arkivi Shtetëror i Sistemit Gjyqësor mban dhe përditëson regjistrin, në formë shkresore dhe elektronike, të të dhënave mbi dokumentacionin gjyqësor që i nënshtrohet procedurave të përpunimit dhe administrimit. Formati dhe përmbajtja e regjistrit përcaktohen me urdhër të ministrit të Drejtësisë, me propozimin e drejtorit të Arkivit Shtetëror të Sistemit Gjyqësor.

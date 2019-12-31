@@ -1,1 +1,0 @@
-3. Arkivi Shtetëror i Sistemit Gjyqësor kujdeset për menaxhimin e arkivave të gjykatave nëpërmjet aplikimit të teknikave të unifikuara për krijimin, përdorimin, mirëmbajtjen, ruajtjen, transferimin dhe asgjësimin e dosjeve, regjistrave dhe dokumenteve të tjera gjyqësore si dhe sigurimin e aksesit për të interesuarit.
