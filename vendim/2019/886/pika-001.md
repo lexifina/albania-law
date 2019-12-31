@@ -1,0 +1,3 @@
+1. Ministrisë së Infrastrukturës dhe Energjisë, për përballimin e shpenzimeve për inspektimin dhe vlerësimin e thelluar të dëmeve në njësitë e vetëqeverisjes vendore, sipas lidhjes nr. 1 bashkëlidhur këtij vendimi, të prekura nga fatkeqësia natyrore e tërmetit të datës 26.11.2019, në buxhetin e miratuar për vitin 2019 i shtohet fondi prej 70 000 000 (shtatëdhjetë milionë) lekësh, nga i cili:
+a) 30 000 000 (tridhjetë milionë) lekë si shpenzime korente për Bashkinë Tiranë, sipas kërkesave të përcaktuara në lidhjen nr. 1;
+b) 40 000 000 (dyzet milionë) lekë në formën e transfertës, në artikullin 604, për Institutin e Ndërtimit, sipas kërkesave për bashkitë e tjera të përcaktuara në lidhjen nr.1.
