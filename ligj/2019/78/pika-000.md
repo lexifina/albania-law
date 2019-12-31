@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 4, datë 30.11.2019, i Këshillit të Ministrave, “Për disa shtesa dhe ndryshime në ligjin nr. 92/2014 ’Për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë’”, të ndryshuar.
