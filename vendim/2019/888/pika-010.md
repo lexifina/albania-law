@@ -1,0 +1,1 @@
+10. Arkivi Shtetëror i Sistemit Gjyqësor, nën kujdesin e Ministrisë së Drejtësisë, bashkëpunon me Drejtorinë e Përgjithshme të Arkivave, për zbatimin e metodologjisë profesionale, të rregullave dhe të kërkesave të ligjit për arkivat.

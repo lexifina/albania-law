@@ -1,0 +1,1 @@
+9. Arkivi Shtetëror i Sistemit Gjyqësor ka të drejtë të kërkojë dhe të verifikojë, nga kancelarët e gjykatave dhe prokurorive zbatimin e njësuar të shërbimit arkivor gjyqësor e hetimor, si dhe çdo informacion, të cilin e konsideron të nevojshëm për ushtrimin e funksioneve të ngarkuara.
