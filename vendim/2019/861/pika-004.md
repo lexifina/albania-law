@@ -1,0 +1,1 @@
+4. Auditimi klinik në institucionet e kujdesit shëndetësor duhet të kryhet, si rregull, çdo dy vjet. Përjashtim nga ky rregull bëjnë institucionet e kujdesit shëndetësor që kanë kontratë me FSDKSH-në për financimin e paketave të shërbimeve të kujdesit shëndetësor, te të cilat duhet të kryhet çdo vit.
