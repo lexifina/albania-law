@@ -1,14 +1,15 @@
 2. Elementet që përbëjnë strukturën e programeve të studimit, të ofruara nga IAL-të, konsistojnë në:
 a) kreditet, sipas Sistemit Evropian të Transferimit të Krediteve (ECTS);
 b) kontrollin e dijeve dhe instrumentet e vlerësimit;
-c) objektivat formues dhe kompetencat profesionale;
+c) rezultatet e të nxënit dhe kompetencat profesionale;
 ç) veprimtaritë formuese dhe komponentët mësimorë të programit të studimit;
 d) kategoritë e veprimtarive formuese, që karakterizojnë një program studimi;
 dh) planin mësimor;
 e) kuotat e pranimit dhe grupet mësimore;
 ë) programin lëndor (Syllabus-et);
 f) profilin e programit;
-g) diplomën dhe suplementin.
+g) diplomën dhe suplementin;
+gj) kodin e etikës.
 2.1 Kreditet sipas ECTS-së
 a) Krediti i formimit të arsimit të lartë i referohet ECTS-së dhe shpreh volumin e punës mësimore për arritjen e rezultateve të pritshme mësimore.
 b) Një krediti i korrespondojnë 25 (njëzet e pesë) orë mësimore pune të studentit.
@@ -20,18 +21,18 @@ e) Njohja e plotë apo e pjesshme e krediteve të marra nga një student, me që
 ë) IAL-të mund të njohin si kredite të formimeve universitare në një program të caktuar studimi, sipas kritereve të përcaktuara, njohuri dhe aftësi profesionale të certifikuara nga legjislacioni në fuqi, si dhe njohuri të veprimtarive formuese të nivelit pas shkollës së mesme, që janë në përputhje me objektivat specifikë të programit përkatës të studimit. Në këtë rast, numri maksimal i krediteve të njohura nuk i kalon 60 (gjashtëdhjetë) kredite për programet e studimit të ciklit të parë dhe 40 (dyzet) kredite për programet e studimit të ciklit të dytë.
 2.2 Kontrolli i dijeve dhe instrumentet e vlerësimit
 a) Kontrolli i dijeve realizohet nëpërmjet testimeve me shkrim e me gojë, eseve, detyrave të kursit, punëve në grup, projekteve, prezantimeve, performancave artistike, praktikave dhe tezave të diplomave.
-b) Kontrolli i dijeve shërben për vlerësimin e progresit të studentit dhe mat përvetësimin e objektivave formues e të kompetencave profesionale të programit nga studenti.
-c) Kriteri i vlerësimit përshkruan atë çfarë pritet të bëhet nga studenti dhe në çfarë niveli, me qëllim demonstrimin e arritjeve të objektivave formues dhe të kompetencave profesionale.
-ç) Metodat e vlerësimit janë strategjitë, teknikat, mjetet dhe instrumentet për grumbullimin e informacionit për të përcaktuar masën, në të cilën studenti demonstron përvetësimin e objektivave formues e të kompetencave profesionale të programit.
-2.3 Objektivat formues dhe kompetencat profesionale.
-a) Objektivat formues dhe kompetencat profesionale në një program studimi përcaktojnë formimin, njohuritë, aftësitë dhe kompetencat që përfiton studenti deri në përfundim të programit të studimit.
-b) Objektivat formues dhe kompetencat profesionale:
+b) Kontrolli i dijeve shërben për vlerësimin e progresit të studentit dhe mat përvetësimin e rezultateve të të nxënit e të kompetencave profesionale të programit nga studenti.
+c) Kriteri i vlerësimit përshkruan atë çfarë pritet të bëhet nga studenti dhe në çfarë niveli, me qëllim demonstrimin e arritjeve të rezultateve të të nxënit dhe të kompetencave profesionale.
+ç) Metodat e vlerësimit janë strategjitë, teknikat, mjetet dhe instrumentet për grumbullimin e informacionit për të përcaktuar masën, në të cilën studenti demonstron përvetësimin e rezultateve të të nxënit e të kompetencave profesionale të programit.
+2.3 Rezultatet e të nxënit dhe kompetencat profesionale.
+a) rezultatet e të nxënit dhe kompetencat profesionale në një program studimi përcaktojnë formimin, njohuritë, aftësitë dhe kompetencat që përfiton studenti deri në përfundim të programit të studimit.
+b) rezultatet e të nxënit dhe kompetencat profesionale:
 i) i atribuohen komponentëve të veçantë mësimorë, si dhe programit të studimit në tërësi;
 ii) përcaktohen në Kornizën Shqiptare të Kualifikimeve gjatë përshkrimit të kualifikimeve individuale, për sa u përket njohurive, aftësive dhe kompetencave të fituara me përfundimin e studimeve.
 iii) vlerësohen nëpërmjet procedurave të bazuara në kritere të qarta e transparente.
-c) Objektivat formues dhe kompetencat profesionale ndahen në:
+c) rezultatet e të nxënit dhe kompetencat profesionale ndahen në:
 i) përcaktues/e, të cilët/të cilat janë të njëjtë/a për programet e studimit me të njëjtin emërtim, të ofruar nga institucione të ndryshme të arsimit të lartë.
-ii) specifikë/e, të cilët/ të cilat diferencojnë programet e studimit me të njëjtin emërtim, të ofruara nga IAL të ndryshme. Këta/o objektiva e kompetenca përcaktohen veçmas nga secili institucion ofrues i programit të studimi.
+ii) specifikë/e, të cilët/ të cilat diferencojnë programet e studimit me të njëjtin emërtim, të ofruara nga IAL të ndryshme. Këta/o rezultate e kompetenca përcaktohen veçmas nga secili institucion ofrues i programit të studimi.
 2.4 Veprimtaritë formuese dhe komponentët mësimorë të programit të studimit.
 a) Veprimtaritë formuese, që karakterizojnë një program studimi, përbëhen nga komponentët mësimorë, të cilët ndahen në:
 i) mësim në auditor, si leksione, seminare, lëndë individuale artistike, ushtrime, laboratorë, forma të kontrollit të vazhdueshëm dhe seanca të praktikave profesionale, të zhvilluara në auditor;
@@ -49,7 +50,9 @@ ii) Lëndë karakterizuese, që lidhen me veçoritë e programit të studimit dh
 iii) Lëndë ndërdisiplinore dhe/ose integruese në një ose më shumë grupe disiplinash, të ngjashme dhe/ose integruese me disiplinat karakterizuese, profile të programit dhe grup-lëndë me zgjedhje;
 iv) Lëndë plotësuese, të fokusuara në përftimin e aftësive në gjuhë të huaj, aftësive informatike dhe telematike, aftësive komunikuese e prezantuese, aftësive që lehtësojnë hyrjen në tregun e punës dhe në praktikat profesionale të zhvilluara pranë subjekteve publike e private, sipas marrëveshjeve të përbashkëta, të nënshkruara për këtë qëllim;
 v) Detyrime përmbyllëse, që lidhen me përgatitjen e tezës së diplomës ose me provimin përfundimtar.
-Pesha që zë secila kategori e veprimtarive formuese brenda programit të studimit, sipas llojit të programit, përcaktohet në shtojcën nr. 1, tabela 1, që i bashkëlidhet këtij vendimi.
+Pesha që zë secila lëndë dhe veprimtari formuese brenda programit të studimit:
+i. për programet e ciklit të parë, të dytë dhe të tretë përcaktohen në shtojcën nr. 1, tabela 1, që i bashkëlidhet këtij vendimi;
+ii. për programet me karakter profesional përcaktohen në shtojcën nr. 1, tabela 1.1, që i bashkëlidhet këtij vendimi.
 c) Veprimtaritë formuese mund të jenë:
 i) të detyrueshme;
 ii) të zgjedhura nga vetë studentët, ndërmjet atyre të ofruara nga institucioni, dhe koherente me programin e studimit, të realizuara këto gjatë viteve akademike të programit të studimit.
@@ -63,12 +66,26 @@ b) Në varësi të ecurisë së regjistrimeve, kapaciteti i kuotave të programe
 c) Kuotat në dispozicion për transferimin e studentëve nga IAL të tjera ose brenda së njëjtës IAL përbëhen nga kuotat e paplotësuara nga regjistrimet e vitit të mëparshëm dhe kapacitetet që mund të krijohen, si rezultat i çregjistrimit të studentëve gjatë vitit akademik. Transferimet pranohen në fillim të çdo viti akademik, jo më vonë se fundi i javës së pestë të semestrit të parë.
 ç) Kuotat në dispozicion të transferimeve mund të shfrytëzohen edhe nga studentë, të cilët ndërpresin studimet në një program për t’u regjistruar në një program të të njëjtit cikël studimi, që i përket një fushe të ndryshme studimesh nga ajo e mëparshmja, nëse numri i krediteve, që njihen nga IAL-ja pritëse, është i mjaftueshëm për t’u regjistruar në vitin e dytë të studimeve.
 d) Numri i studentëve, që përmban grupi mësimor sipas fushës së programit të studimit, përcaktohet në shtojcën nr. 1, tabela nr. 2, që i bashkëlidhet këtij vendimi.
-2.8 Programi lëndor (syllabus-et).
-Modeli i programit të lëndës, që do të përdoret për hartimin e syllabus-eve, duhet të përmbajë elementet sipas përcaktimeve në shtojcën nr. 2, që i bashkëlidhet këtij vendimi.
+2.8 Modeli i programit të lëndës, që do të përdoret për hartimin e syllabus-eve, duhet të përmbajë elementet sipas përcaktimeve në shtojcën nr. 3, që i bashkëlidhet këtij vendimi.
 2.9 Profili i programit
 a) Programi i studimit mund të organizohet në profile, të cilat ofrojnë specializime në drejtime të ngushta të fushës së programit të studimit, në fusha integruese ose ndërdisiplinore të përafërta.
 b) Emërtimi i profilit të programit të studimit shënohet në diplomën, që lëshohet në përfundim të tij.
 c) Me vendim të Senatit Akademik, institucioni i arsimit të lartë ka të drejtë të bëjë ndryshime të profileve (të hapë, të mbyllë ose të riorganizojë) brenda programit të studimit. IAL-ja njofton ministrinë përgjegjëse për arsimin, jo më vonë se gjashtë muaj përpara fillimit të vitit akademik, për ndryshimet deri në masën 20 për qind të përmbajtjes së programit, të shprehur në kredite ECTS.
-2.10 Diploma dhe suplementi
-a) Diplomat, që lëshohen në përfundim të programeve të studimit të ciklit të parë, të dytë, si dhe ato të ciklit të tretë “Master ekzekutiv”, shoqërohen me suplementin e diplomës.
-b) Suplementi i diplomës hartohet në përputhje me kërkesat e Hapësirës Evropiane të Arsimit të Lartë dhe përshkruan natyrën, nivelin, përmbajtjen dhe rezultatet e studimeve që janë kryer nga mbajtësi i diplomës, si dhe fushën e punësimit.
+2.10 Diploma/certifikata dhe suplementi i saj
+Diplomat/certifikatat, që lëshohen në përfundim të programeve të studimit me karakter profesional të ciklit të parë e të dytë si dhe ato të ciklit të tretë “master ekzekutiv”, shoqërohen me suplementin e diplomës.
+2.11 Kodi i Etikës
+a) Tërësia e rregullave, pritshmërive dhe sanksioneve përkatëse, të cilat kodifikohen në nivel IAL-je ndaj studentëve, personelit akademik dhe atij ndihmësakademik, për t’u sjellë me integritet akademik, mbështetur në ndershmërinë;
+b) Elementet e Kodit të Etikës, që prekin aktivitetin studentor, listohen në syllabus-e, sidomos për sa i përket detyrimit të studentëve për të mos kopjuar në provime, në punën e dikujt tjetër, për të mos fabrikuar të dhëna dhe respektuar dinjitetin e integritetin njerëzor e profesional të studentëve të tjerë dhe personelit akademik e atij mbështetës;
+c) Studimet e doktoratës kanë një kod etike të dedikuar, që specifikon standardet etike të kërkimit, të cilat duhen respektuar, dhe rastet e procedurat kur, si pasojë e thyerjes së Kodit të Etikës, doktoranti mund të përjashtohet nga studimet e doktoratës ose mund t’i revokohet grada shkencore.”.
+2.12 Studimet e doktoratës
+a) Studimet e doktoratës zhvillohen pranë njësisë bazë, si pjesë e projektit kërkimor-shkencor të aprovuar dhe me financim të siguruar nga IAL-ja. Pas licencimit të programit të studimeve të doktoratës dhe certifikimit të kuotave, studentët e pranuar mund të përfitojnë nga financimi i siguruar nga IAL-ja, financim nga subjekte të tjera apo të vetëfinancohen. Njësia bazë mund të ofrojë më shumë se një projekt kërkimor për fushën e kërkimit që mbulon;
+b) Studimet e doktoratës organizohen në fusha kërkimi. Ato përmbajnë veprimtari kërkimore-shkencore dhe veprimtari akademike, sipas përcaktimeve të tabelës 1, të shtojcës 1, të këtij vendimi, me qëllim garantimin e formimit akademik shkencor në fushën përkatëse të studimit;
+c) Personeli akademik, i angazhuar në studimet e doktoratës, është i kategorisë “profesor”. Njësia përgjegjëse e programit të studimeve të doktoratës duhet të garantojë standardet akademike dhe të ofrojë infrastrukturën e domosdoshme për realizimin e projektit kërkimor-shkencor;
+ç) Numri i studentëve doktorantë përcaktohet nga njësia bazë përgjegjëse për studimet e doktoratës, pas verifikimit dhe certifikimit të kapaciteteve nga ministria përgjegjëse për arsimin;
+d) Në rregulloren e programit të studimit të doktoratës njësia bazë:
+i. përcakton kriteret e pranimit të studentëve sipas parimit të thellimit të studimit në fushë të njëjtë apo të përafërt me studimet e ciklit paraardhës;
+ii. bashkërendon, në funksion të realizimit të projektit kërkimor-shkencor, veprimtarinë akademike të studentëve;
+iii. parashikon në mënyrë të detajuar rregullat e organizimit e të funksionimit të programit të doktoratës;
+dh) Njësia bazë, përgjegjëse për programin e doktoratës, administron të dhënat e çdo doktoranti, në lidhje me veprimtarinë akademike dhe kërkimore-shkencore të tij, si dhe raportet e vlerësimit të progresit.
+2.13. Specializimet afatgjata
+Programet e studimeve specializuese afatgjata janë programe të formimit profesional, që ofrojnë njohuri për profesione të veçanta. Elementet e këtyre programeve, sipas fushave, përcaktohen me udhëzim të ministrit përgjegjës për arsimin.
