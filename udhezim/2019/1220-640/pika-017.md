@@ -1,0 +1,1 @@
+17. Për minimizimin dhe zbulimin e rasteve të braktisjes së fëmijëve të mitur dhe të abuzimit me të miturit nga trafikantë apo persona të tjerë përfitues, të bashkëpunohet ngushtësisht edhe me institucionet homologe ligjzbatuese të vendeve fqinje dhe ato ndërkombëtare.

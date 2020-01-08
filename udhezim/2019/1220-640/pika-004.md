@@ -1,0 +1,1 @@
+4. I mituri nga mosha 16 vjeç deri në 18 vjeç lejohet të udhëtojë në mungesë të prindërve, i shoqëruar me persona të tjerë madhorë, vetëm në rast se paraqet një deklaratë noteriale të vlefshme, të lëshuar nga të dy prindërit në emër të personit që e shoqëron, ose në rast të ndonjë mosmarrëveshjeje ndërmjet tyre, duhet të paraqitet vendimi gjyqësor që lejon udhëtimin e të miturit.

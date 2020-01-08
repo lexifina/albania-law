@@ -1,0 +1,1 @@
+11. Në rastet kur i mituri udhëton në shoqërinë e njërit prind dhe prindi tjetër ka ndërruar jetë, roja kufitare kryen verifikimet në Sistem, dhe në bazë të statusit të prindit shoqërues(i/e ve), lejon kalimin e kufirit të të miturit.

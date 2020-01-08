@@ -1,0 +1,1 @@
+6. Në rastin e të miturit të shoqëruar, roja kufitare verifikon nëse personi që shoqëron të miturin është kujdestari i tij, në veçanti kur i mituri shoqërohet vetëm nga një person madhor dhe ka arsye serioze për të dyshuar se mund të jetë hequr në mënyrë të paligjshme nga kujdestaria e personave që ushtrojnë ligjërisht kujdesin prindëror ndaj tij.

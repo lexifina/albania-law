@@ -1,0 +1,1 @@
+2. Në rastet kur i mituri udhëton në shoqërinë e njërit prej prindërve, prindi që e shoqëron duhet të jetë i pajisur me deklaratë noteriale të prindit tjetër, ku autorizohet udhëtimi i të miturit në shoqërinë e prindit, ose me vendim gjyqësor që e lejon të udhëtojë të miturin me njërin nga prindërit.

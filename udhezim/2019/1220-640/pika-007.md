@@ -1,0 +1,1 @@
+7. Roja kufitare që kryen procedurën e verifikimit të të miturit, krahas verifikimit të dokumenteve të udhëtimit, duhet të konsultohet me bazën e të dhënave, të intervistojë të miturin në prani të personit që e shoqëron dhe të kontrollojë deklaratën noteriale të lëshuar për udhëtimin e të miturit të pashoqëruar nga prindërit, por nga persona të autorizuar prej tyre.
