@@ -1,0 +1,1 @@
+9. Të bashkëpunohet me drejtoritë vendore të policisë dhe komisariatet për shkëmbimin e informacionit, nëse ka persona që kanë tendencën e organizimit dhe lëvizjes së shtetasve shqiptarë drejt vendeve të Bashkimit Evropian dhe zonës Schengen, me qëllim për të kërkuar azil në këto vende.

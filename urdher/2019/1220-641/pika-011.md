@@ -1,0 +1,1 @@
+11. Të bashkëpunohet me policitë e vendeve fqinje dhe më gjerë për shkëmbimin e informacionit dhe trajtimin e rasteve të kalimit të kufirit nëpërmjet vlerësimit të analizës së riskut (Modus operandin, rrugët e lëvizjes, destinacionin etj.).

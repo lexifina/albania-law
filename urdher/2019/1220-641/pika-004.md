@@ -1,0 +1,1 @@
+4. Të gjithë shtetasit shqiptarë që kanë shënime apo njoftime në sitemin TIMS dhe informacione të autoriteteve ligjzbatuese, për vepra penale (të trafikimit, falsifikimit të dokumenteve, kontrabandës etj.), të kalojnë për kontroll në vijën e dytë për dokumentet e udhëtimit, sendet dhe mjetet e transportit.

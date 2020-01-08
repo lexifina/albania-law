@@ -1,0 +1,1 @@
+8. Të forcohet kontrolli në kufi, ndaj operatorëve turistikë (linja autobuzësh, zyra turistike etj.), grupe familjarësh, me qëllim parandalimin e rasteve të abuzimit me të drejtën e lëvizjes së lirë dhe goditjen e organizatorëve të këtyre udhëtimeve me destinacion vendet e Bashkimit Evropian.

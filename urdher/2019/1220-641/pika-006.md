@@ -1,0 +1,1 @@
+6. Në të gjitha rastet e kthimeve të shtetasve shqiptarë, si “Inad” dhe “Deportiv”, bazuar në dokumentet që posedojnë apo të intervistimit në rastet kur ai mungon, të bëhen shënime në TIMS, në rubrikën “Shënime” për arsyen e kthimit dhe afatin e ndalimit të hyrjes në vendet e Schengenit/BE-së duke zbatuar procedurat e punës për regjistrimin në sistemin TIMS.

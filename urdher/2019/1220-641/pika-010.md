@@ -1,0 +1,1 @@
+10. Të bashkëpunohet me oficerët e kontaktit të Ministrisë së Brendshme, në vendet e BE-së për verifikimin, shkëmbimin e informacionit, si dhe trajtimin e rasteve të kalimit të kufirit nga shtetasit shqiptarë të dyshuar për të kërkuar azil në vendet e BE-së.
