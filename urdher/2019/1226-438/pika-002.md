@@ -1,0 +1,1 @@
+2. Shërbimet funksionale të QKB-së të përcaktuara në tabelën 2, lidhur me regjistrimin dhe licencimin e biznesit, do të ofrohen vetëm në mënyrë elektronike, nëpërmjet sportelit elektronik, nga data 30.6.2020.

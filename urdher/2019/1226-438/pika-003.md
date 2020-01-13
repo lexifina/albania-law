@@ -1,0 +1,1 @@
+3. Kushtet, procedurat për kryerjen e aplikimeve pranë regjistrit tregtar, nëpërmjet sportelit elektronik, shqyrtimi i tyre nga QKB-ja, si dhe afatet e tyre janë sipas përcaktimeve të ligjit nr. 9723, datë 3.5.2007, “Për regjistrimin e biznesit”, i ndryshuar, dhe VKM nr. 391, “Për përcaktimin e procedurave të regjistrimit dhe të publikimit në Qendrën Kombëtare të Biznesit”.

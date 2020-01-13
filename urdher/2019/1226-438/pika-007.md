@@ -1,0 +1,1 @@
+7. Vërtetimi i dokumenteve elektronike, të lëshuar nga QKB-ja do të ofrohet në përputhje me ligjin nr. 9880, datë 25.2.2008, “Për nënshkrimin elektronik”; ligjin nr. 10273, datë 29.4.2010, “Për dokumentin elektronik” dhe akteve nënligjore të nxjerra në bazë dhe zbatim të tyre.
