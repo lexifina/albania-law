@@ -1,0 +1,26 @@
+{
+  "qbz_id": 63336,
+  "title": "Mbi rishikimin e vendimit nr. 114, datë 22.7.2019, mbi licencimin e shoqërisë “SPE Gjadër” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Gjadër nr. 1/1”, me kapacitet të instaluar 2134 kw, HEC “Gjadër nr. 1/2”, me kapacitet të instaluar 4406 kw, HEC “Gjadër nr. 2”, me kapacitet të instaluar 2983 kw, HEC “Gjadër nr. 3”, me kapacitet të instaluar 3874 kw, HEC “Gjadër nr. 4”, me kapacitet të instaluar 5922 kw, HEC “Gjadër nr. 5”, me kapacitet të instaluar 5619 kw, me kapacitet total të instaluar 24938 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "239",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2019-12-23",
+  "published": "2020-01-13",
+  "in_force": "2020-01-13",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9d6446d7b86dcb082fbfe438dfe65e3aafba582e9bb79d5c728748c211b0f73c.docx",
+  "source_sha256": "9d6446d7b86dcb082fbfe438dfe65e3aafba582e9bb79d5c728748c211b0f73c",
+  "official_record": "https://qbz.gov.al/api/v1/acts/63336",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/12/23/239",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
