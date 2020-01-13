@@ -1,1 +1,1 @@
-1. Miratimin e përdorimit të formularëve të aplikimit vetëm on-line, të standardizuar nga Agjencia e Ofrimit të Shërbimeve Publike të Integruara (ADISA), për regjistrimin dhe licencimin e biznesit, sipas listës që i bashkëlidhet këtij urdhri.
+1. Miratimin e përdorimit të formularëve të aplikimit vetëm on-line, për regjistrimin dhe licencimin e biznesit
