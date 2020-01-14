@@ -1,0 +1,26 @@
+{
+  "qbz_id": 20981,
+  "title": "Për licencimin e shoqërisë Ujësjellës-Kanalizime Përmet sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "63",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2019-12-06",
+  "published": "2020-01-14",
+  "in_force": "2020-01-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/3c5d963f47d57bd052d188680faa754b16e0e13f1ef3e8dde4f40f4354406990.docx",
+  "source_sha256": "3c5d963f47d57bd052d188680faa754b16e0e13f1ef3e8dde4f40f4354406990",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20981",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/12/06/63",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
