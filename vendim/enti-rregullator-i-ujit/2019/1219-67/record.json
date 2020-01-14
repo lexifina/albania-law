@@ -1,0 +1,29 @@
+{
+  "qbz_id": 20983,
+  "title": "Për licencimin e shoqërisë Ujësjellës-Kanalizime Fier sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "67",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2019-12-19",
+  "published": "2020-01-14",
+  "in_force": "2020-01-14",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/2b6ed57e4b2b6e9ac761430b813246148c7dc39d5679ef1781abe2581150dada.docx",
+  "source_sha256": "2b6ed57e4b2b6e9ac761430b813246148c7dc39d5679ef1781abe2581150dada",
+  "official_record": "https://qbz.gov.al/api/v1/acts/20983",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/12/19/67",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    24725,
+    22240
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
