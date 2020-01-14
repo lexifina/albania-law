@@ -1,0 +1,1 @@
+6. Aplikimet për përfitimin nga programet e rindërtimit duhet të jenë në formë të shkruar. Ato regjistrohen dhe përpunohen nga struktura/t përgjegjëse të njësive të vetëqeverisjes vendore në një sistem elektronik.

@@ -1,0 +1,1 @@
+13. Struktura përgjegjëse u njofton aplikantëve jofitues edhe arsyet e kësaj vendimmarrjeje, si dhe të vendimit për përfitim nga një program tjetër i procesit të rindërtimit. Aplikantët jofitues mund të paraqesin ankesat e tyre pranë kryetarit të njësisë së vetëqeverisjes vendore ku është shpallur gjendja e fatkeqësisë natyrore, brenda 5 ditëve nga njoftimi.

@@ -1,0 +1,1 @@
+7. Njësitë e vetëqeverisjes vendore ku është shpallur gjendja e fatkeqësisë natyrore krijojnë, administrojnë dhe përditësojnë bazën e të dhënave për individët dhe familjet që kanë humbur familjarë dhe/ose kanë mbetur të pastrehë si pasojë e fatkeqësisë natyrore, si dhe për plotësimin e nevojave të tyre nga programet e procesit të rindërtimit.

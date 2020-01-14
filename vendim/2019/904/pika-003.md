@@ -1,0 +1,1 @@
+3. Aplikimi për të përfituar nga programet e procesit të rindërtimit sipas parashikimeve të këtij vendimi bëhet me dy faza. Në fazën e parë aplikantët paraqesin kërkesën e tyre për të përfituar nga programet e procesit të rindërtimit. Në fazën e dytë të aplikimit përfshihen vetëm ata/o individë/familje që janë përzgjedhur për t’u trajtuar me njërin prej këtyre programeve.

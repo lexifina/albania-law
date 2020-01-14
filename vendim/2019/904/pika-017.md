@@ -1,0 +1,1 @@
+17. Komisioni informon kryetarin e njësisë së vetëqeverisjes vendore në lidhje me listën e subjekteve që përfitojnë nga programet e procesit të rindërtimit, i cili lidh kontratën për kalimin e pronësisë së banesave te përfituesit, pas marrjes së miratimit të këshillit të njësisë së vetëqeverisjes vendore.

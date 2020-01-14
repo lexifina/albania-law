@@ -1,0 +1,1 @@
+4. Përfshirja në programet e rindërtimit bëhet nëpërmjet aplikimit në njësinë e vetëqeverisjes vendore ku individi/familja ka vendbanimin, sipas modelit dhënë në shtojcën A, që i bashkëlidhet këtij vendimi, dhe sipas deklarimit tip për vërtetësinë e të dhënave, dhënë në shtojcën B, që i bashkëlidhet këtij vendimi.

@@ -1,0 +1,1 @@
+10. Çdo individi/familjeje, që paraqet kërkesën, në çdo rast, i lëshohet një vërtetim që konfirmon regjistrimin e kërkesës, objektin e saj, datën dhe listën e dokumenteve të bashkëlidhura, sipas formatit, dhënë në shtojcën C, që i bashkëlidhet këtij vendimi.
