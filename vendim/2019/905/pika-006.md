@@ -1,0 +1,1 @@
+6. Grupi i punës kryen negocimin duke vlerësuar mbi çmimet në tregun e lirë për strukturat akomoduese, për periudhën përkatëse të akomodimit të të dëmtuarve, si dhe për analogji çmimet që zbatohen nga strukturat akomoduese pushuese në pronësi dhe që menaxhohen nga institucione shtetërore, si p.sh. shtëpitë e pushuesve të ushtarakëve ose të punonjësve të Policisë së Shtetit.

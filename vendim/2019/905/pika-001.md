@@ -1,0 +1,1 @@
+1. Përcaktimin e rregullave dhe të procedurave për kompensimin e shpenzimeve të kryera për akomodimin dhe ushqimin e të dëmtuarve nga fatkeqësia natyrore, të parashikuara në nenin 27, të aktit normativ nr. 9, datë 16.12.2019, të Këshillit të Ministrave, “Për përballimin e pasojave të fatkeqësisë natyrore”.

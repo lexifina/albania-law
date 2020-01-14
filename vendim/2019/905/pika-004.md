@@ -1,0 +1,1 @@
+4. Strukturat përkatëse, qendrore dhe vendore, të mbrojtjes civile, hartojnë listat e individëve dhe/ose familjeve të dëmtuara, që kanë nevojë për strehim dhe ushqim, në struktura akomoduese në pronësi dhe/ose administrim të sektorit privat.

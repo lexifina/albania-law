@@ -1,0 +1,1 @@
+8. Në përfundimin të procesit të negociatave, grupi i punës harton raportin përkatës dhe i propozon ministrit përgjegjës për turizmin lidhjen e kontratave me subjektet e sektorit privat, jo më vonë se 2 (dy) ditë nga përfundimi i negociatave. Kontrata lidhet nga ministri përgjegjës për turizmin ose nga një punonjës i autorizuar prej tij.

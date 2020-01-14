@@ -1,0 +1,1 @@
+3. Individëve apo familjeve të dëmtuara, që strehohen sipas përcaktimeve të këtij vendimi dhe legjislacionit përkatës në fuqi, pranë strukturave akomoduese në pronësi apo administrim të subjekteve të sektorit privat, u ofrohet fjetje, ushqim tri vakte, shërbime higjiene, sigurie dhe ndihmë e shpejtë mjekësore.

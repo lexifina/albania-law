@@ -1,0 +1,1 @@
+14. Vendimi nr. 754, datë 30.11.2019, i Këshillit të Ministrave, do të vazhdojë të zbatohet deri në përfundimin e kontratave të lidhura sipas parashikimeve të atij vendimi. Pas përfundimit të afateve, sipas fjalisë së parë të kësaj pike, zbatohen parashikimet e këtij vendimi.

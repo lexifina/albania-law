@@ -1,0 +1,1 @@
+7. Grupi i punës harton dokumentacionin përkatës për procesin e vlerësimit dhe të negocimit. Në procesin e negociatave, përveç grupit të punës dhe subjekteve të sektorit privat, duhet të marrin pjesë dhe unionet apo organizatat që përfaqësojnë interesat e subjekteve që ushtrojnë veprimtari hotelerie dhe turizmi.

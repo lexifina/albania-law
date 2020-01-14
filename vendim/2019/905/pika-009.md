@@ -1,0 +1,1 @@
+9. Për shkak të nevojës emergjente, individët dhe/ose familjet e dëmtuara, që kanë mbetur të pastrehë si pasojë e fatkeqësisë natyrore, akomodohen dhe përpara lidhjes së kontratës, sipas parashikimeve të pikës 8, të këtij vendimi. Kjo periudhë do të përfshihet në masën e kompensimit, sipas çmimeve të parashikuara në kontratën përkatëse të negociuar.

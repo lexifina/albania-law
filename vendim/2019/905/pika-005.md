@@ -1,0 +1,1 @@
+5. Ministria përgjegjëse për turizmin evidenton strukturat akomoduese, si hotele, bujtina apo të ngjashme me to, dhe negocion çmimet përkatëse nëpërmjet grupit të punës së ngritur për këtë qëllim, me urdhër të ministrit, menjëherë dhe jo më vonë se 3 (tri) ditë nga shpallja e fatkeqësisë natyrore.

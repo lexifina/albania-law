@@ -1,0 +1,1 @@
+13. Ministria përgjegjëse për turizmin ndjek zbatimin e kontratave me subjektet e sektorit privat në lidhje me parashikimet e këtij vendimi dhe raporton në Komisionin Shtetëror të Rindërtimit për çdo çështje në lidhje me to.
