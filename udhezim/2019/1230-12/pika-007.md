@@ -1,0 +1,9 @@
+7. Shfrytëzimi i veprave ujitëse
+7.1 Plotësimi me ujë i ujëmbledhësve bëhet sipas parashikimeve në projektin e veprës, ndërsa data e mbylljes së saraçineskave ose portave të ujëmbledhësit caktohet me shkrim nga eprori përkatës.
+7.2 Drejtoria e Ujitjes dhe Kullimit/Bashkia/OPU-ja, mban të dhëna periodike mbi plotësimin me ujë të ujëmbledhësve në regjistra shumëvjeçarë. Koha e regjistrimit të niveleve gjatë plotësimit të periudhës me ujë, caktohet nga eprori përkatës sipas madhësisë së veprës dhe karakterit të pellgut ujëmbledhës.
+7.3 Shfrytëzimi i veprave ujitëse ose kulluese, bëhet për sipërfaqet e tokave bujqësore të përcaktuara nga projekti.
+7.4 Drejtoria e Ujitjes dhe Kullimit, bën shpërndarjen e prurjeve të ujit vetëm në pikat e marrjes së ujit, që janë në kanalet ujitëse kryesore në administrim të saj, ndërsa bashkitë/OPU-të, në pikat në administrim të tyre.
+7.5 Shpërndarja e ujit në kanalet e veprat ujitëse, bëhet me vepra matëse ose sipas parashikimit të përbashkët (DUK-Bashki-OPU), për veprat e përbashkëta.
+7.6 Dhënia e sasive të ujit, nga veprat ujitëse në administrim të Drejtorisë së Ujitjes dhe Kullimit për Bashkinë, bëhet me kontratë, e cila hartohet sipas rezervave ujore të veprës ujitëse dhe aftësisë përcjellëse të projektuar të rrjetit ujitës. Zbatimi i kontratës bëhet mbështetur në kërkesat dhe dorëzimet, çdo 5 ditë, gjatë gjithë periudhës së ujitjes.
+7.7 Humbjet e ujit për filtrim dhe avullim, llogariten për gjatësitë e kanaleve ujitës, që mirëmbahen dhe vihen në gatishmëri nga vetë Drejtoria e Ujitjes dhe Kullimit/Bashkia.
+7.8 Në rastet, kur për shkak të mungesës së reshjeve, ujëmbledhësit nuk janë plotësuar me ujë ose janë pakësuar prurjet e lumenjve etj., shpërndarja e ujit për bashkitë/OPU-të (për veprat ujitëse në administrim të Drejtorisë së Ujitjes dhe Kullimit/Bashkisë), bëhet propocionalisht, sipas sipërfaqeve e normave ujitëse të bimëve bujqësore, që kërkojnë ujitje.

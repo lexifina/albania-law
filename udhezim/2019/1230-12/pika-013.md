@@ -1,0 +1,45 @@
+13. Shfrytëzimi dhe mirëmbajtja e makinerisë së rëndë (ekskavatorë dhe draga) dhe mjeteve të transportit në administrim të drejtorive të ujitjes dhe të kullimit dhe Bashkive, për kryerjen e punimeve të mirëmbajtjes në objektet e ujitjes, kullimit dhe mbrojtjes nga përmbytja
+13.1 Për kryerjen e punimeve të mirëmbajtjes nga vetë drejtoritë e ujitjes dhe të kullimit/bashkitë, në objektet e infrastrukturës së ujitjes, kullimit dhe mbrojtjes nga përmbytja, të veprohet si më poshtë:
+a) planifikimi i shpenzimeve operative për punimet e mirëmbajtjes së objekteve të infrastrukturës së ujitjes, kullimit dhe mbrojtjes nga përmbytja, të realizohet duke ndjekur të njëjtën procedurë të parashikuar për planifikimin e investimeve;
+b) propozimet në lidhje me pikën “a”, duhet të reflektojnë prioritetet e identifikuara edhe nga bashkëpunimi midis drejtorive të ujitjes dhe të kullimit dhe bashkive;
+c) lista përfundimtare e objekteve për çdo drejtori të ujitjes dhe të kullimit, miratohet nga ministri, ndërsa për bashkitë nga Kryetari i Bashkisë;
+d) për çdo objekt të miratuar sipas pikës “c” më lart, përpara fillimit të punimeve të zbatimit, duhet të bëhet azhurnimi i projektit të zbatimit me gjendjen faktike të objektit;
+e) realizimi i të gjitha punimeve të mirëmbajtjes për objektet e ujitjes, kullimit dhe mbrojtjes nga përmbytja, përfshirë këtu, detyrën e projektimit, hartimin e projektit të zbatimit, zbatimin e punimeve, si dhe mbikëqyrjen e kolaudimin, të bëhen në përputhje me legjislacionin për disiplinimin e punimeve të ndërtimit dhe akteve nënligjore në zbatim të tij;
+f) në planifikimin e kostove të punimeve të mirëmbajtjes, çmimi për 1 m³ (gërmim me ekskavator apo largim materiali të ngurtë me dragë), të llogaritet duke ju referuar kushteve konkrete të realizimit të punimeve për çdo objekt dhe gjendjes së makinerisë së rënde. Analiza e çmimit për 1 m³ të shoqërohet me proces verbalin e kronometrimit të treguesve faktik, të harxhimit të karburantit, volumit të materialit të lëvizur në njësinë e kohës dhe zërave të tjerë të kostos;
+g) drejtoritë e ujitjes dhe të kullimit/bashkitë, duhet të planifikojnë një rezervë karburanti të mjaftueshme për mbajtjen në punë të makinerisë së rëndë dhe mjeteve të transportit për një periudhe 2-javore, në rast emergjencash nga përmbytjet e mundshme;
+13.2 Për shfrytëzimin dhe mirëmbajtjen e makinerisë së rëndë (ekskavatorë dhe draga) dhe mjeteve të transportit në administrim të drejtorive të ujitjes dhe të kullimit dhe bashkive, të veprohet si më poshtë:
+13.2.1 Drejtoritë e ujitjes dhe të kullimit/bashkitë janë përgjegjëse për përdorimin, shfrytëzimin dhe sigurimin teknik në punë të makinerisë së rëndë dhe mjeteve të transportit, të cilat kanë në administrim.
+13.2.2 Drejtoritë e ujitjes dhe të kullimit/bashkitë, kryejnë mirëmbajtjen e nevojshme të makinerisë së rëndë dhe të mjeteve të transportit, për të siguruar gatishmërinë e lartë teknike të funksionimit të tyre për gjatë gjithë periudhës së vitit.
+13.2.3 Gjatë përdorimit dhe shfrytëzimit të makinerisë së rëndë dhe të mjeteve të transportit (ekskavatorë, draga e automjete), të zbatohen kriteret si më poshtë:
+a) përdoruesit e makinerisë së rëndë duhet të jenë të pajisur me leje manovrimi, në zbatim të vendimit të Këshillit të Ministrave nr. 808, datë 4.12.2003 “Për dhënien e lejeve të manovrimit përdoruesve të makinerive të rënda të ndërtimit”, si dhe rregullores së Ministrisë së Rregullimit të Territorit dhe Turizmit nr. 1, datë 4.2.2004, “Për procedurat dhe kriteret për dhënien e lejeve të manovrimit përdoruesve të makinerive të rënda të ndërtimit”. Asnjë dokument tjetër nuk zëvendëson lejen e manovrimit;
+b) përdoruesit e makinerisë së rëndë dhe përdoruesit e mjeteve të transportit, duhet të kenë njohuri të plota teknike mbi shfrytëzimin dhe mirëmbajtjen e makinerive të rënda dhe të mjeteve të transportit sipas katalogëve teknik të shfrytëzimit dhe janë përgjegjës për dëmtimet dhe avaritë e shkaktuara nga keqpërdorimi i tyre;
+c) përdoruesit e makinerisë së rëndë duhet të testohen mbi rregullat e sigurimit teknik dhe të mbrojtjes në punë për përdorimin, shfrytëzimin dhe transportin e makinerisë së rëndë, sipas legjislacionit në fuqi;
+d) për punime në objekte të cilat paraqesin rreziqe për ndodhjen e aksidenteve (veçanërisht pranë zonave të banuara, nënlinjat e tensionit të ulët, të mesëm dhe të lartë, si dhe në toka të paqëndrueshme), përpara fillimit të punimeve duhet të merren masa për mënjanimin e aksidenteve;
+e) për realizimin e punimeve sipas kushteve teknike të projektit të zbatimit, përdoruesit e makinerisë së rëndë duhet të jenë të pajisur me treguesit teknik të realizimit të punimeve. Gjithashtu, objekti ku punon makineria e rëndë duhet të jetë i pajisur me piketat orientuese;
+f) çdo shërbim ose riparim, që i kryhet makinerisë së rëndë dhe mjeteve të transportit, duhet të shoqërohet me dokumentacionin teknik dhe financiar përkatës, i cili duhet të përfshijë:
+i. argumentimin teknik të kryerjes së shërbimit dhe/ose riparimit;
+ii. përshkrimin e detajuar të shërbimit dhe/ose riparimit të kryer;
+iii. situacionin e shpenzimeve për shërbimin dhe/ose riparimin e kryer;
+g) dokumentacioni teknik i sipërcituar, sipas rastit, duhet të firmoset nga përdoruesi i makinerisë së rënd dhe/ose drejtuesi i automjetit, si dhe nga personat përgjegjës të stafit drejtues të DUK/NJPUKB;
+h) furnizimi me karburant, vaj dhe graso i makinerisë së rëndë dhe i mjeteve të transportit duhet të bëhet mbi bazën e dokumentacionin teknik përkatës, që përfshin objektin e punimeve (sipas projektit të zbatimit) apo destinacionin për mjetet e transportit.
+i) për çdo furnizim të kryer për makinerinë e rënde apo mjetin e transportit. duhet të firmosin përdoruesi i makinerisë së rënd dhe/ose drejtuesi i automjetit, si dhe personat përgjegjës të stafit drejtues të DUK/NJPUKB;
+j) dhënia në përdorim e makinerisë së rëndë përdoruesve, si dhe mjetet e transportit drejtuesve të tyre, të bëhet me proces verbal, ku të pasqyrohen detyrimet midis palëve.
+k) për çdo makineri të rëndë apo mjet transporti, regjistrohen në mënyre dinamike (ditore, mujore, vjetore), treguesit teknik dhe ekonomik, siç përcaktohet në regjistrin përkatës të aneksit 3, që i bashkëlidhet këtij udhëzimi.
+13.3 Për lëvizjen e makinerisë së rëndë dhe mjeteve të transportit në administrim të drejtorive të ujitjes dhe të kullimit, të veprohet si më poshtë:
+a) lëvizja e makinerisë së rëndë dhe e mjeteve të transportit nga një drejtori ujitje dhe kullimi, e cila i ka në administrim, në një tjetër, për kryerjen atje të punimeve, bëhet me miratim të ministrit mbi bazën e kërkesës së drejtorisë së ujitjes dhe kullimit kërkues ose sipas nevojave, që paraqiten në situata emergjence;
+b) lëvizja e makinerisë së rëndë dhe mjeteve të transportit për kryerjen e punimeve të subjekteve private apo shtetërorë, bëhet vetëm me miratim të ministrit;
+c) për marrjen e miratimit të lëvizjes së makinerisë së rëndë sipas pikës “a” (përjashtuar rastet e situatave emergjente) dhe pikës “b”, drejtoritë e ujitjes dhe të kullimit duhet të paraqesin në ministri, një kërkesë të shoqëruar me:
+1. kërkesën e subjektit privat apo shtetëror ose të drejtorisë së ujitjes dhe të kullimit, drejtuar drejtorisë së ujitjes dhe të kullimit, që ka mjetet në administrim, e cila duhet të përmbajë:
+i. emërtimin e saktë të objektit ku do të realizohen punimet;
+ii. përshkrimin e procesit të punës;
+iii. tipin e makinerisë së rëndë që kërkohet;
+iv. volumin e punimeve që do të realizohen (shoqëruar me projektin përkatës të objektit ku do të realizohen punimet);
+v. periudhën e realizimit të punimeve.
+2. Konfirmimin e drejtorisë së ujitjes dhe të kullimit, për:
+i. çmimin për 1 m³, shoqëruar me analizën e çmimit për 1 m³, referuar kushteve konkrete të realizimit të punimeve;
+ii. totalin e ditëve të punës për realizimin e punimeve, si dhe periudhën e saktë të fillimit dhe të mbarimit të punimeve, duke marrë në konsideratë kohën e nevojshme për miratimin e kërkesës në ministri;
+d) pas shqyrtimit, kërkesa për kryerjen e punimeve për llogari të subjekteve të tjera sipas pikave “a” dhe “b” më lart, i paraqet për miratim ministrit;
+e) lidhja e kontratës ndërmjet drejtorisë së ujitjes dhe të kullimit dhe subjekteve të tjera, bëhet vetëm pasi të jetë marrë më parë miratimi i ministrit. Kontrata duhet të përmbajë të gjithë elementët ligjore, teknikë e financiarë mbi kryerjen e punimeve;
+f) në rast situatash të emergjencave civile, si përmbytje, tërmet etj., kontrata e lidhur midis drejtorisë së ujitjes dhe të kullimit dhe një subjekti tjetër, ndërpritet pa penalitete ndaj drejtorisë së ujitjes dhe të kullimit. Ky kusht duhet të përcaktohet në kontratën e lidhur mes palëve;
+g) për kryerjen e punimeve për subjektet e tjera private apo shtetërore, në llogaritjen e çmimit për 1 m³, të merren në konsideratë edhe elementë të tjerë të kostos si transporti i makinerisë së rëndë, dietat e manovratorëve etj. të cilat duhet të pasqyrohen në mënyrë analitike si pjesë përbërëse e çmimit për njësi.
+Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.

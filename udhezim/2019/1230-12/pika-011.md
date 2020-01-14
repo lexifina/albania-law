@@ -1,0 +1,1 @@
+11. Rregullat dhe kriteret teknike, sipas këtij udhëzimi, vlejnë edhe për mirëmbajtjen dhe funksionimin e infrastrukturës së ujitjes, kullimit dhe digave, të transferuara në përdorim të organizatave të përdoruesve të ujit dhe shoqërive të bashkëpunimit bujqësor (SHBB).

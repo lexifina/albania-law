@@ -1,0 +1,1 @@
+10. Drejtoritë e ujitjes dhe të kullimit/bashkitë, mund të nxjerrin rregullore /udhëzime të brendshme specifike, me qëllim mbarëvajtjen e veprimtarisë së tyre, por pa rënë në kundërshtim me këtë udhëzim dhe legjislacionin në fuqi.

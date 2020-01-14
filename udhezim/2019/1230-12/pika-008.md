@@ -1,0 +1,1 @@
+8. Ministria e Bujqësisë dhe Zhvillimit Rural krijon dhe mban regjistrin e drejtorive të ujitjes dhe të kullimit, të bashkive dhe të organizatave të përdoruesve të ujit, sipas aneksit 1, bashkëlidhur këtij udhezimi.
