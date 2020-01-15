@@ -1,0 +1,1 @@
+6. Brenda 2 (dy) ditëve pune nga paraqitja e kërkesës për shpronësim publik ose shkëmbimin e pasurisë private me pasuri shtetërore, autoriteti përgjegjës për zhvillimin e procedurës së shpronësimit urdhëron ngritjen e komisionit të posaçëm për ndjekjen dhe realizimin e procedurave të shpronësimit të përshpejtuar.

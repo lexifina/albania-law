@@ -1,0 +1,1 @@
+3. Shpronësimi dhe/ose shkëmbimi i pasurisë, pronë private, në funksion të procesit të rindërtimit, sipas këtij vendimi, realizohet duke garantuar transparencën, barazinë e shtetasve dhe mbrojtjen e interesave dhe të drejtave të tyre pasurore.

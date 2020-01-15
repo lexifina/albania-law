@@ -1,0 +1,1 @@
+17. Në përfundim të procesit, komisioni i shpronësimit i paraqet autoritetit përgjegjës dokumentacionin e kryerjes së procedurës së shpronësimit dhe/ose të shkëmbimit, i cili ia përcjell për miratim Këshillit të Ministrave, pas marrjes së miratimit nga Komiteti Shtetëror i Rindërtimit.

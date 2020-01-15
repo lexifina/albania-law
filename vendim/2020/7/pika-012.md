@@ -1,0 +1,1 @@
+12. Brenda 5 (pesë) ditëve nga data e njoftimit të pranimit të kërkesës për shpronësim dhe/ose shkëmbim, ndërmjet njësisë zbatuese në favor të të cilit kërkohet të bëhet shpronësimi dhe/ose shkëmbimi dhe autoritetit përgjegjës, lidhet një marrëveshje për të drejtat dhe detyrimet e ndërsjella.

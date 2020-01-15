@@ -1,0 +1,3 @@
+10. Komisioni, brenda 5 (pesë) ditëve pune nga momenti i paraqitjes së kërkesës, sipas pikës 4, të këtij vendimi, ose nga momenti i plotësimit të dokumentacionit, verifikon vlerën e pasurisë që shpronësohet, sipas rregullave të mëposhtme:
+a) vlera e tokës dhe e ndërtesës që shpronësohet dhe/ose shkëmbehet përllogaritet duke iu referuar çmimeve që zbatohen në procedurat për shpronësimin me interes publik, sipas legjislacionit në fuqi;
+b) në vlerësimin e pasurive, pronë private, që shpronësohen dhe/ose shkëmbehen, sipas natyrës së tyre, merren parasysh vlera fillestare e tyre, amortizimi, destinacioni, vendndodhja e objektit, indekset e ndryshimit të çmimeve të tregut dhe të monedhës.
