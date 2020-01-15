@@ -1,0 +1,1 @@
+10. Kërkesat për të përfituar dhënien e përfitimit të papunësisë dhe të mbështetjes financiare bëhen pranë njësisë së vetëqeverisjes vendore ku ndodhet selia e ndërmarrjes, brenda tre muajve nga shpallja e gjendjes së fatkeqësisë natyrore.

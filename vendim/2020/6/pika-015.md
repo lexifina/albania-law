@@ -1,0 +1,1 @@
+15. Njësitë e vetëqeverisjes vendore dhe zyrat e punës krijojnë dhe monitorojnë regjistrat me listën e subjekteve përfituese, masën përkatëse të përfituar, si dhe mënyrën e pagesave, e cila do të publikohet në faqen zyrtare të njësisë së vetëqeverisjes vendore.

@@ -1,0 +1,1 @@
+7. Njësitë e vetëqeverisjes vendore e shqyrtojnë dokumentacionin sipas pikës 6, të këtij vendimi, dhe pas miratimit të listave të punonjësve dhe fondit të nevojshëm ia dërgon për zbatim, periodikisht, zyrës përkatëse të punësimit.

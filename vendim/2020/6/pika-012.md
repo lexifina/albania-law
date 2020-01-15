@@ -1,0 +1,1 @@
+12. Njësitë e vetëqeverisjes vendore përgatisin kërkesën pranë Komisionit Shtetëror të Rindërtimit për dhënien e fondeve të përfitimeve të papunësisë dhe të mbështetjes financiare të rimëkëmbjes, të shoqëruar me listat e subjekteve dhe të individëve përfitues.
