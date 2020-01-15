@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Konfederatës së Zvicrës, të përfaqësuar nga Agjencia Zvicerane për Zhvillim dhe Bashkëpunim (SDC) e Departamentit Federal të Punëve të Jashtme të Zvicrës, duke vepruar nëpërmjet Ambasadës Zvicerane në Shqipëri, për programin “Shëndet për të gjithë - HAP”, faza e dytë, prill 2019-mars 2023, një projekt dypalësh bashkëpunimi dhe zhvillimi, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.
