@@ -1,0 +1,1 @@
+3. Ndihmësi kualifikohet me njohuri teorike në një institucion arsimor, sipas një programi teorik me kohë të pjesshme, me kohëzgjatje 10 (dhjetë) orë mësimore në javë, për 35 (tridhjetë e pesë) javë mësimore në vit.

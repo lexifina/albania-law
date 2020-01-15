@@ -1,0 +1,1 @@
+2. Kohëzgjatja e kualifikimit të ndihmësit me njohuritë teorike, në një institucion arsimor, me kohë të pjesshme, deri në fitimin e titullit të ndihmësmjeshtrit, është 2 (dy) deri në 3 (tri) vite mësimore (akademike), në varësi të llojit të zejes.

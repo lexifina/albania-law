@@ -1,0 +1,1 @@
+5. Gjatë javëve që nuk zbatohet programi teorik, ndihmësi, që ka mbushur moshën 18 vjeç, kualifikohet me aftësitë praktike pranë mjeshtrit në një subjekt zejtar të licencuar për këtë qëllim për 8 (tetë) orë në ditë, në 5 (pesë) ditë të javës.

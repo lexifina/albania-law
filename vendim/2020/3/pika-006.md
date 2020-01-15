@@ -1,0 +1,1 @@
+6. Për zeje të veçanta, me propozim të Dhomës Kombëtare të Zejtarisë dhe në konsultim me Agjencinë Kombëtare të Arsimit, Formimit Profesional dhe Kualifikimeve, ministri përgjegjës për arsimin dhe formimin profesional miraton kohëzgjatje të ndryshme nga ato të përcaktuara në pikat 1 dhe 2, të këtij vendimi, për kualifikimin e ndihmësit.

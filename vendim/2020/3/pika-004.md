@@ -1,0 +1,1 @@
+4. Gjatë javëve të zbatimit të programit teorik, ndihmësi kualifikohet edhe me aftësitë praktike pranë mjeshtrit, në një subjekt zejtar të licencuar për këtë qëllim, për 6 (gjashtë) orë në ditë, në 5 (pesë) ditë të javës.

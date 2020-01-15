@@ -1,0 +1,1 @@
+1. Kohëzgjatja e kualifikimit të ndihmësit me aftësitë praktike, pranë një mjeshtri në një subjekt zejtar të licencuar, deri në fitimin e titullit të ndihmësmjeshtrit, është 2 (dy) deri në 3 (tri) vite kalendarike, në varësi të llojit të zejes.
