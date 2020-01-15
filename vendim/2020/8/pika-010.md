@@ -1,0 +1,1 @@
+10. Poseduesit e ndërtimeve pa leje, që kanë vetëm funksion social-ekonomik, përfitojnë sipas parashikimeve të nenit 30, të aktit normativ nr. 9, datë 16.12.2019, të Këshillit të Ministrave, si dhe trajtohen sipas parashikimeve të pikës 9, të këtij vendimi, nëse janë pronarë të trojeve ku janë ngritur ndërtimet pa leje që posedojnë.

@@ -1,0 +1,1 @@
+5. Drejtoria vendore e Agjencisë Shtetërore të Kadastrës kryen përjashtimin nga legalizimi për rastet e parashikuara në këtë vendim, me vendim. Ky vendim i njoftohet subjektit posedues, sipas mënyrës dhe afateve të parashikuara në Kodin e Procedurave Administrative, si dhe njësisë zbatuese, së bashku me dokumentacionin e praktikës përkatëse.

@@ -1,0 +1,1 @@
+6. Ndërtimet pa leje, që gjenden në kushtet e nenit 35, të ligjit nr. 9482, datë 3.4.2006, “Për legalizimin, urbanizimin dhe integrimin e ndërtimeve pa leje”, dhe poseduesit e tyre trajtohen në përputhje me procedurat dhe kriteret e këtij vendimi.

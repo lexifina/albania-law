@@ -1,0 +1,1 @@
+11. Në përfundim të punimeve për ndërtimin e ri, kontrata e dhurimit të sipërfaqes ndërtimore lidhet në favor të subjekteve përfituese, sipas përcaktimeve të këtij vendimi. Kontrata përmban, përveç të tjerave dhe detyrim për heqje dorë nga çdo pretendim në lidhje me procedurat e legalizimit për ndërtimet pa leje dhe/ose truallin në pronësi.
