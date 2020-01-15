@@ -1,0 +1,1 @@
+22. Komisioni i paraqet kryetarit të njësisë së vetëqeverisjes vendore ose titullarit të autoritetit shtetëror përgjegjës raportin e plotë me propozimin për subjektet përfituese dhe ata që nuk plotësojnë kriteret për përfitim. Kryetari i njësisë së vetëqeverisjes vendore ose titullari i autoritetit përgjegjës vendos brenda 10 (dhjetë) ditëve pune listën e fituesve.

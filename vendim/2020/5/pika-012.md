@@ -1,0 +1,1 @@
+12. Njësitë e vetëqeverisjes vendore krijojnë, administrojnë dhe përditësojnë bazën e të dhënave për individët dhe familjet të cilët kanë mbetur të pastrehë si pasojë e fatkeqësisë natyrore, si dhe kanë aplikuar për të përfituar nga programi i granteve të rindërtimit.

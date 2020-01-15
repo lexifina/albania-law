@@ -1,0 +1,1 @@
+15. Çdo individi/familjeje që aplikon, në çdo rast, i lëshohet një vërtetim që konfirmon regjistrimin e aplikimit, objektin e tij, datën dhe listën e dokumenteve të bashkëlidhura, nëse ka të tilla, sipas formatit që i bashkëlidhet këtij vendimi, si shtojca B.

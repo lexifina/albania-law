@@ -1,0 +1,1 @@
+18. Përfitues të granteve të rindërtimit janë individët ose familjet shtëpitë individuale të të cilëve duhen ndërtuar nga e para, sipas parashikimeve në aktekspertizën e thelluar. Masa e grantit llogaritet sipas parashikimeve të kreut III, të këtij vendimi.

@@ -1,0 +1,1 @@
+21. Për vlerësimin dhe përzgjedhjen e përfituesve nga programi i granteve të rindërtimit, në bazë të kritereve të përcaktuara në këtë vendim, kryetari i njësisë së vetëqeverisjes vendore ku është shpallur gjendja e fatkeqësisë natyrore ose autoriteti përgjegjës krijon një komision të posaçëm, i cili vlerëson kërkesat në bazë të dokumentacionit të kërkuar, sipas këtij vendimi.

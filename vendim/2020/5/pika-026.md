@@ -1,0 +1,1 @@
+26. Përfituesit pajisen me lejet përkatëse për ndërtimin, sipas parashikimeve të aktit normativ nr. 9, datë 16.12.2019, të Këshillit të Ministrave, “Për përballimin e pasojave të fatkeqësisë natyrore”, pas nënshkrimit të kontratës së grantit.

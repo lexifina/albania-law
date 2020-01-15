@@ -1,0 +1,1 @@
+7. Projektet model, sipas pikës 5, të këtij vendimi, përdoren për zbatimin e çdo projekti që realizohet në kuadër të procesit të rindërtimit nga njësitë zbatuese ose donatorët, përveç rasteve kur parashikohet ndryshe në marrëveshjen ndërmjet donatorëve dhe Këshillit të Ministrave.
