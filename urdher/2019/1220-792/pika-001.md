@@ -1,0 +1,1 @@
+1. Miratimin e standardeve të shërbimeve të integruara të kujdesit shoqëror të ofruara nga institucionet publike, organizata joqeveritare (OJF) ose entitete private për persona ose grupe të rrezikuara ose të prekura nga HIV/AIDS, TB dhe infeksionet seksualisht të transmetueshme, sipas dokumentit që i bashkëlidhet këtij urdhri.
