@@ -1,0 +1,1 @@
+1. Objekti i këtij vendimi është përcaktimi i rregullave dhe i procedurës së përshpejtuar për hartimin dhe miratimin e planit të detyruar vendor, si dhe procedura e miratimit të lejeve të zhvillimit dhe lejeve të ndërtimit, në rastet e fatkeqësive natyrore, për objektet e reja dhe/ose të infrastrukturës publike, si dhe zonave të reja për zhvillim.

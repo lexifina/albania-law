@@ -1,0 +1,1 @@
+6. Kryetari i bashkisë vendos miratimin e planit të detyruar vendor, bazuar në raportin e vlerësimit teknik, të përgatitur nga strukturat përgjegjëse të planifikimit të autoritetit vendor, në bashkëpunim me Agjencinë Kombëtare të Planifikimit të Territorit.

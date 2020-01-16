@@ -1,0 +1,1 @@
+7. Kryetari i bashkisë merr vendimin për miratimin e planit të detyruar vendor, brenda 5 ditëve pune nga dorëzimi për miratim i dokumentacionit të plotë të planit nga ana e strukturës përgjegjëse të planifikimit të autoritetit vendor.

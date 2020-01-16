@@ -1,0 +1,1 @@
+8. Plani i detyruar vendor, përfshirë edhe nismën për hartimin e planit, botohet në Regjistrin Kombëtar të Planifikimit të Territorit, brenda 15 ditëve nga miratimi, si dhe regjistrohet në regjistrin e pasurive të paluajtshme, si bazë për kryerjen e transaksioneve me pronën.
