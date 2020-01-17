@@ -1,0 +1,1 @@
+1. Bashkisë Tiranë, për inspektimin dhe vlerësimin e thelluar të dëmeve në njësitë e vetëqeverisjes vendore të prekura nga fatkeqësia natyrore e tërmetit të datës 26.11.2019, sipas lidhjes nr. 1, bashkëlidhur këtij vendimi, në buxhetin e saj të miratuar për vitin 2020, i shtohet fondi prej 200 000 000 (dyqind milionë) lekësh.�

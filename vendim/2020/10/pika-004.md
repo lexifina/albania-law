@@ -1,0 +1,1 @@
+4. Fondet e mbetura të papërdorura, pas përfundimit të procedurave për lëvrimin e fondeve në zbatim të këtij vendimi, të dhëna për këtë qëllim, kthehen në buxhetin e shtetit në zërin “Fondi i rindërtimit”.
