@@ -1,0 +1,1 @@
+11. Drejtoria e Administrimit dhe Mbrojtjes së Tokës, pranë këshillit të qarkut Elbasan, të pasqyrojë në dokumentacionin kadastral ndryshimin e kategorisë së resursit, sipas pikës 10, të këtij vendimi.

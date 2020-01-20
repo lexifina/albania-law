@@ -1,0 +1,1 @@
+6. Shpenzimet për publikimin e kërkesës për shpronësim në organet e shtypit, në vlerën 2 692 000 (dy milionë e gjashtëqind e nëntëdhjetë e dy mijë) lekë, të përballohen nga fondet e “Devoll Hydropower”, sh.a.

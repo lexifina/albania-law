@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 14 564 482 (katërmbëdhjetë milionë e pesëqind e gjashtëdhjetë e katër mijë e katërqind e tetëdhjetë e dy) lekësh, të përballohet nga fondet e “Devoll Hydropower”, sh.a.
