@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, për pasuritë e llojit tokë “arë” dhe kultura bujqësore “drufrutore”, prej 1 343 213 (një milion e treqind e dyzet e tre mijë e dyqind e trembëdhjetë) lekësh, të përballohet nga fondet e Bashkisë Berat.

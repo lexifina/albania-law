@@ -1,0 +1,1 @@
+8. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Berat, brenda 30 ditëve, nga data e miratimit të këtij vendimi, në bashkëpunim me Bashkinë Berat, të fillojnë procedurat për hedhjen e gjurmës së projektit në hartën kadastrale, sipas planimetrisë së shpronësimit të miratuar, dhe të bëjnë kalimin e pronësisë për pasuritë e shpronësuara në favor të shtetit.
