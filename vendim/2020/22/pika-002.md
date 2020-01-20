@@ -1,0 +1,1 @@
+2. Në kuptim të këtij vendimi, me magjistrat, i cili trajtohet me kredi, nënkuptohet magjistrati sipas parashikimeve të ligjit nr. 96/2016, “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, të ndryshuar.

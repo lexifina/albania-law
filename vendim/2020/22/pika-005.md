@@ -1,0 +1,1 @@
+5. Me nevojë për banesë, sipas këtij vendimi, do të kuptohen rastet kur magjistrati nuk disponon shtëpi banimi për strehim ose kur disponon banesë në pronësi me sipërfaqe sa ose më të vogël se ato të përcaktuara në legjislacionin në fuqi për normativat e projektimit të banesave.
