@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti, “Ndërtimi dhe rikonstruksioni i rrugës që lidh rrugët “Pjetër Budi”, “Qamil Guranjaku” dhe “Stavri Vrinjao”, Tiranë”.
