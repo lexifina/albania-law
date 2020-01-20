@@ -176,7 +176,7 @@ Ndërtesë
 Konfirmuar nga ZVRPP-ja Vlorë. Objekti është 3-katësh. Preket nga vija e projektit 15 m² sipërfaqe konsoli ballkoni nga sipërfaqja totale e apartamentit
 14
 8605
-44/177 -N2
+44/177 -N4
 Vlorë
 Sedat Libohova
 Njësi
