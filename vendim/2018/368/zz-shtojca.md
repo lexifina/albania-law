@@ -508,3 +508,49 @@ Apartament
 Konfirmuar nga ZVRPP-ja Vlorë. Hipotekohet në favor të Alpha Bank Albania.
 VLERA TOTALE
 90,565,463
+RIKUALIFIKIMI NË ZONËN URBANE PRANË QENDRËS SË QYTETIT VLORË, HARTIMI I PROJEKTIT URBAN, RESTAURIM I MONUMENTEVE TË KULTURËS NË KËTË ZONË DHE RIKONSTRUKSIONI I OBJEKTEVE TË TJERË, VLORË
+Çmimi i konfirmuar nga ZVRPP Vlorë, për ZK 8601, për objektet e llojit apartament është 60986.32 lekë/m2.
+Çmimi i truallit sipas VKM-së nr. 89, datë 3.2.2016.
+Çmimi për objektet sipas VKM-së nr. 138, datë 23.3.2000 dhe udhëzimit nr. 3, datë 28.12.2016 i EKB-së Tiranë.
+TABELA 3
+Nr.
+ZK
+Nr. i pasurisë
+Adresa
+Emri i pronarit
+Lloji i pasurisë
+Sip. totale
+Sipërfaqet sipas gjendjes juridike
+Sip. që shpronësohet
+Çmimi i ndërtimit lekë/m2
+Vlera e ndërtimit lekë
+Vlera totale lekë
+Shënime
+21
+8601
+20/52+1-3
+Vlorë
+Evgjenia Papa
+Apartament
+114.63
+Kati i I-rë
+14.69
+50083.32
+735724
+1797490
+Konfirmuar nga ZVRPP Vlorë, certifikatat e pronësisë janë lëshuar në datën 2.7.2018. Prona është e llojit apartament banimi. Në publikimin e kërkesës ka qenë PPV.
+20/52+1-4
+Vlorë
+Evgjenia Papa
+Apartament
+71.65
+Kati i 2-të banesë
+12.7
+50083.32
+636058
+Verandë
+17
+25041.66
+425708
+Shuma
+1797490
