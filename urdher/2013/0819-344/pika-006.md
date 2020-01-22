@@ -1,0 +1,5 @@
+6. Psikologu/punonjësi social ka formim fillestar dhe të thelluar si vijon:
+a) Psikologu: Diplomë universitare “Bachelor” në degën e “Psikologjisë”, si dhe studime “Master shkencor” në “Psikologjinë shkollore” ose “Psikologji klinike”, ose “Master profesional” “Këshillim psikologjik” ose në drejtime të tjera të përafërta;
+b) Psikologu: Vetëm diplomë universitare “Bachelor” në “Psikologji”. Psikologu duhet që, brenda 3 viteve nga data e fillimit të punës, të kryejë studime të thelluara në nivelin master shkencor ose profesional në degën e “Psikologjisë”;
+c) Punonjësi social: Diplomë universitare “Bachelor” në degën e “Punës Sociale” dhe studime “Master profesional” në “Punë sociale” ose “Çështje të fëmijës dhe familjes” në drejtime të tjera të përafërta.
+d) Punonjësi social: Vetëm diplomë universitare “Bachelor” në “Punë Sociale”. Punonjësi social duhet që, brenda 3 viteve nga data e fillimit të punës të kryejë studime të thelluara në nivelin “Master shkencor” apo “Profesional” në degën e “Punës sociale”.

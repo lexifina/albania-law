@@ -1,0 +1,1 @@
+7. Titullari i DRAP-së emëron psikologun/punonjësin social në njësinë e shërbimit psikosocial me konkurrim të hapur, sipas procedurave të emërimit të specialistëve të DRAP-së dhe nevojave specifike të shkollave.
