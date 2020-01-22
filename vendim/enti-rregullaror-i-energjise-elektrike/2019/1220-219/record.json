@@ -1,0 +1,29 @@
+{
+  "qbz_id": 21021,
+  "title": "Mbi licencimin e shoqërisë “Hydro Power Panarit” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga hidrocentrali “Vile” me kapacitet të instaluar 1994 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "219",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2019-12-20",
+  "published": "2020-01-22",
+  "in_force": "2020-01-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/41f1b7c0edabef070852f010d8f1a47a935b3c95df7e0e6311d027a71110d7cf.docx",
+  "source_sha256": "41f1b7c0edabef070852f010d8f1a47a935b3c95df7e0e6311d027a71110d7cf",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21021",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/12/20/219",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    27085,
+    22358
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
