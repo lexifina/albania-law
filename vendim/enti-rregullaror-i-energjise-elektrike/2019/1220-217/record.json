@@ -1,0 +1,29 @@
+{
+  "qbz_id": 21019,
+  "title": "Mbi licencimin e shoqërisë “Elva 2001” sh.a., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Mivas”, me kapacitet të instaluar 1940 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "217",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2019-12-20",
+  "published": "2020-01-22",
+  "in_force": "2020-01-22",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/ad7dacbc995506ad4e7a189e29dca249dd2ae42491fcb9f77ea756f6bc7a4d4f.docx",
+  "source_sha256": "ad7dacbc995506ad4e7a189e29dca249dd2ae42491fcb9f77ea756f6bc7a4d4f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21019",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2019/12/20/217",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31582,
+    27608
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
