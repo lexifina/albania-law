@@ -1,1 +1,0 @@
-4. Dokumentet, të cilat do të paraqiten nga subjektet tregtare për pajisjen me licencë/autorizim, certifikatë regjistrimi, certifikatë ndërkombëtare importi, certifikatë e përdoruesit të fundit, për kryerjen e ekspertizës dhe kontrollit, do të miratohen me urdhër të kryetarit të AKSHE-së.
