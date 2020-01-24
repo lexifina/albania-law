@@ -1,0 +1,1 @@
+2. Aktekspertiza e thelluar i vihet në dispozicion Institutit të Ndërtimit për kryerjen e oponencës. Instituti i Ndërtimit jep opinionin e tij, i cili mbizotëron mbi aktekspertizën e thelluar dhe zbatohet nga njësitë e vetëqeverisjes vendore ose autoritetet përgjegjëse.

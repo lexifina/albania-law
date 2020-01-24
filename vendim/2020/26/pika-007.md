@@ -1,0 +1,1 @@
+7. Projekti i ndërhyrjeve rehabilituese/përshtatëse hartohet në bazë të kushteve teknike të projektimit në fuqi dhe të standardeve evropiane të transpozuara. Hartimi i projektit mbështetet në rekomandimet e analizës së thelluar dhe përfshin të gjitha detajet e nevojshme për ndërhyrje si dhe metodologjinë e aplikimit.

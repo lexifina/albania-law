@@ -1,0 +1,1 @@
+1. Njësitë e vetëqeverisjes vendore ose autoritetet përgjegjëse shtetërore do të kryejnë aktekspertizë të thelluar për të gjitha objektet për të cilat kërkohet një rivlerësim më i thelluar, mbështetur në aktkonstatimet ose aktvlerësimet paraprake të Institutit të Ndërtimit apo të grupeve përkatëse të inspektimit.
