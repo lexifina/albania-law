@@ -1,0 +1,1 @@
+12. Emërimi, lirimi ose shkarkimi nga detyra i nëpunësve të AKSHE-së bëhen nga ministri, në përputhje me legjislacionin në fuqi për pushtetet dhe autoritetet e drejtimit e të komandimit të Forcave të Armatosura të Republikës së Shqipërisë, me propozimin e kryetarit.

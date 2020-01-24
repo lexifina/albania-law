@@ -1,0 +1,1 @@
+26. AKSHE-ja mund të angazhojë organizma të tjerë shtetërorë gjatë zbatimit të masave të marra në procesin e kontrollit të eksportit, si përfaqësitë diplomatike e konsullore të Republikës së Shqipërisë jashtë vendit, me pëlqimin e institucionit të varësisë, si dhe shërbimet e inteligjencës ose struktura të tjera të specializuara.

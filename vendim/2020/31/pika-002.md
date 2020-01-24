@@ -1,0 +1,1 @@
+2. Autoriteti i Kontrollit Shtetëror të Eksporteve (këtu e në vijim AKSHE) është institucion qendror, me statusin e personit juridik, publik, buxhetor, në varësi të ministrit të Mbrojtjes (këtu e në vijim “ministri”), me seli në Tiranë.

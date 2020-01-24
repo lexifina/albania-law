@@ -1,0 +1,1 @@
+6. AKSHE-ja mund të nënshkruajë, sipas ligjit për prokurimin publik, kontrata me persona, fizikë e juridikë, duke pasur si objekt kryerjen e shërbimeve të konsulencës së nevojshme për realizimin e objektivave brenda fushës së përgjegjësisë.

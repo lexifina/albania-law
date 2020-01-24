@@ -1,0 +1,1 @@
+31. Për lëshimin e garancive shtetërore, AKSHE-ja dhe organet e tjera shtetërore të autorizuara kanë të drejtën të kontrollojnë dhe të inspektojnë ambientet, dokumentet e mbërritjes së mallrave në destinacion dhe përdorimin e mallrave në të gjitha fazat e transferimit ndërkombëtar edhe pas mbërritjes te përdoruesi i fundit vendës.

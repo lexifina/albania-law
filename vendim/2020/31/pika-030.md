@@ -1,0 +1,1 @@
+30. Autoriteti i Kontrollit Shtetëror të Eksporteve konfirmon edhe certifikata të përdoruesit të fundit të lëshuara nga autoritetet e huaja, sipas kërkesës së subjekteve të interesuara. Procedurat për konfirmimin e këtyre certifikatave janë të njëjta me procedurat kur lëshohen nga vetë AKSHE-ja.

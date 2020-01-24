@@ -1,0 +1,1 @@
+4. AKSHE-ja mund të marrë dhurime e financime nga organizma, brenda dhe jashtë vendit, për të cilat nuk ka detyrim për t’i kthyer e që hyjnë në buxhetin e saj dhe përdoren në përputhje me qëllimin për të cilin janë dhënë.

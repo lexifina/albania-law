@@ -1,0 +1,1 @@
+21. Institucionet e përmendura në pikën 20 të këtij kreu, shqyrtojnë raste të veçanta të transferimeve ndërkombëtare të mallrave ushtarake dhe mallrave e teknologjive me përdorim të dyfishtë, të cilat adresohen nga AKSHE-ja, sipas fushës së përgjegjësisë së tyre.

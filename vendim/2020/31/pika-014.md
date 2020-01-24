@@ -1,0 +1,1 @@
+14. Struktura dhe organika e AKSHE-së miratohen me urdhër të Kryeministrit, pas propozimit të ministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin dhe funksionimin e administratës shtetërore.

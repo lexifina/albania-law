@@ -1,0 +1,1 @@
+9. AKSHE-ja drejtohet nga kryetari, i cili përgjigjet për zhvillimin e veprimtarisë së këtij autoriteti, në përputhje me këtë vendim dhe me kërkesat e legjislacionit në fuqi për kontrollin shtetëror të transferimeve ndërkombëtare të mallrave ushtarake dhe të artikujve e teknologjive me përdorim të dyfishtë.

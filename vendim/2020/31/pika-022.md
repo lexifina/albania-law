@@ -1,0 +1,1 @@
+22. Institucionet e përmendura në pikën 20 të këtij kreu, shkëmbejnë informacion me AKSHE-në, sipas fushave të përgjegjësisë, si dhe bazuar në kriteret e vendosura në nenin 12, të ligjit nr. 46/2018, “Për kontrollin shtetëror të transferimeve ndërkombëtare të mallrave ushtarake dhe të artikujve e teknologjive me përdorim të dyfishtë”.

@@ -1,0 +1,2 @@
+18. Vula e AKSHE-së ka formën dhe elementet e përcaktuara në vendimin e Këshillit të Ministrave për rregullat e përdorimit, të administrimit, të kontrollit dhe të ruajtjes së vulave zyrtare. Vula prodhohet, administrohet dhe ruhet në përputhje me legjislacionin në fuqi.
+III. AFATET, MËNYRA DHE PROCEDURA PËR SHKËMBIMIN E INFORMACIONIT DHE MARRJES SË MENDIMIT NGA INSTITUCIONET E TJERA TË PËRFSHIRA NË TRANSFERIMET NDËRKOMBËTARE TË MALLRAVE TË KONTROLLUARA

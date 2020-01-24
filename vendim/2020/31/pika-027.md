@@ -1,0 +1,2 @@
+27. Afatet e komunikimit dhe të bashkëpunimit me institucionet e tjera kombëtare dhe ndërkombëtare, të përfshira në transferimet ndërkombëtare të mallrave të kontrolluara, janë ato të parashikuara në Kodin e Procedurave Administrative, si dhe në legjislacionin për të drejtën e informimit, me përjashtim të rasteve kur respektimi i këtyre afateve është objektivisht i pamundur.
+IV. PROCEDURAT PËR LËSHIMIN E GARANCIVE DHE KRYERJEN E KONTROLLIT SHTETËROR, NË PËRPUTHJE ME DETYRIMET PËR PËRDORIMIN E FUNDIT TË MALLIT
