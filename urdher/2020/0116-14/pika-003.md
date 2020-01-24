@@ -1,0 +1,1 @@
+3. Drejtoria e Programeve të Zhvillimit të Arsimit, Sportit dhe Rinisë të bëjë koordinimin ndërinstitucional të programit, në përputhje me metodologjinë bashkëlidhur këtij urdhri, me institucionet që paraqesin interes.
