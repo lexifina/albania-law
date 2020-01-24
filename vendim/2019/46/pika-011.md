@@ -1,1 +1,0 @@
-11. Burime të tjera financimi për spitalet janë fondet e krijuara nga të ardhurat e realizuara gjatë veprimtarisë së tyre dhe nga dhurimet. Përdorimi i tyre bëhet tërësisht nga vetë spitali, si pjesë e kostos së shërbimit, bazuar në procedurat e miratuara nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale. Këto të ardhura vlerësohen si të ardhura jashtë limitit.

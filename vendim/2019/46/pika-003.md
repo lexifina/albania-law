@@ -1,1 +1,0 @@
-3. Spitali e ushtron veprimtarinë e tij në përputhje me standardet, treguesit e cilësisë e të performancës, protokollet e diagnozës e të trajtimit, të miratuara nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale.
