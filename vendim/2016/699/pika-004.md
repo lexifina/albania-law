@@ -1,1 +1,3 @@
-4. Vlera përgjithshme e shpronësimit, për pasuritë “truall”, “arë” dhe “kullotë”, prej 234 237 718 (dyqind e tridhjetë e katër milionë e dyqind e tridhjetë e shtatë mijë e shtatëqind e tetëmbëdhjetë) lekësh, të përballohet nga fondi i shpronësimeve, në llogarinë e shpronësimeve në Bankën e Shqipërisë.
+4. Vlera e përgjithshme e shpronësimit, për pasuritë e llojit “truall”, “arë”, “kullotë” “pyll” dhe “drurë frutorë”, në shumën 245 827 297 (dyqind e dyzet e pesë milionë e tetëqind e njëzet e shtatë mijë e dyqind e nëntëdhjetë e shtatë) lekë, të përballohet, si më poshtë vijon:
+- 234 237 718 (dyqind e tridhjetë e katër milionë e dyqind e tridhjetë e shtatë mijë e shtatëqind e tetëmbëdhjetë) lekë, nga llogaria “Fondi i shpronësimeve”, në Bankën e Shqipërisë;
+- 11 589 579 (njëmbëdhjetë milionë e pesëqind e tetëdhjetë e nëntë mijë e pesëqind e shtatëdhjetë e nëntë) lekë, nga buxheti i vitit 2020, miratuar për Ministrinë e Infrastrukturës dhe Energjisë.
