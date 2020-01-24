@@ -1,0 +1,1 @@
+14. Mënyra e pagesës dhe e shpërblimit të punës së punonjësve të spitaleve, që kanë lidhur kontratë me Fondin e Sigurimit të Detyrueshëm të Kujdesit Shëndetësor, sipas këtij vendimi, përcaktohet me vendim të Këshillit Administrativ të Fondit të Sigurimit të Detyrueshëm të Kujdesit Shëndetësor.
