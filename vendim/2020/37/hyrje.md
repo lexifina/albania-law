@@ -1,0 +1,5 @@
+VENDIM
+Nr. 37, datë 22.1.2020
+PËR DHËNIEN E MIRATIMIT PËR LIDHJEN E KONTRATËS SË QIRASË ME TARIFËN 1 EURO/KONTRATA, NDËRMJET MINISTRISË SË FINANCAVE DHE EKONOMISË, SI QIRADHËNËS, DHE SHOQËRISË “SV MEGA” SHPK, SI QIRAMARRËS, PËR PASURITË SHTETËRORE NR. 1/82, ME SIPËRFAQE TOTALE 554 m2 DHE NR. 1/83, TRUALL I LIRË ME SIPËRFAQE TË PËRGJITHSHME 4246 m2, ZONA KADASTRALE 2646, PJESË E STACIONIT HEKURUDHOR TË LIBRAZHDIT, E PËRBËRË NGA DY PASURI, NË ADMINISTRIM TË SHOQËRISË “HEKURUDHA SHQIPTARE” SHA, DURRËS
+Në mbështetje të nenit 100 të Kushtetutës, të ligjit nr. 9967, datë 24.7.2008, “Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 4, datë 9.7.2008, të Këshillit të Ministrave, ’Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore, të ndërmarrjeve apo objekteve të veçanta, mjeteve të xhiros së këtyre ndërmarrjeve’”, dhe të vendimit nr. 54, datë 5.2.2014, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurës dhe mënyrës së dhënies me qira, enfiteozë apo kontratave të tjera të pasurisë shtetërore”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
