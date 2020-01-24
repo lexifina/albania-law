@@ -1,1 +1,0 @@
-6. Agjencia Kombëtare e Planifikimit të Territorit të paraqesë harmonizimin e projektit të ndërtimit të varrezës private me planet zhvillimore në fuqi ose në proces dhe të plotësojë, pas lidhjes së aktmarrëveshjes midis palëve, dokumentacionin për leje zhvillimore, në bazë të projektit të subjektit kërkues, të cilat do të miratohen në Këshillin Kombëtar të Territorit.

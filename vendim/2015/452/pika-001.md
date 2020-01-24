@@ -1,1 +1,0 @@
-1. Miratimin e ngritjes së varrezës private, në territorin e njësisë administrative “Paskuqan”, Qarku Tiranë, sipas propozimit të paraqitur nga subjekti privat “VEBO Invest”, sh.p.k., depozituar pranë Ministrisë së Zhvillimit Urban.

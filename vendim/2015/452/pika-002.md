@@ -1,1 +1,0 @@
-2. Autorizohet Ministria e Zhvillimit Urban për negocimin dhe lidhjen e aktmarrëveshjes me subjektin privat “VEBO Invest”, sh.p.k., për përcaktimin e rregullave të funksionimit dhe administrimit të kësaj varreze private.

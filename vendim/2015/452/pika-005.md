@@ -1,1 +1,0 @@
-5. Ministria e Zhvillimit Urban të zbatojë dispozitat e ligjit nr. 9220, datë 15.4.2004, “Për shërbimin publik të varrezave”, të ndryshuar, dhe akteve nënligjore në zbatim të tij, për lidhjen e aktmarrëveshjes.
