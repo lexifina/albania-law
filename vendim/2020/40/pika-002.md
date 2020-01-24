@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Gjirokastër, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 56/50, zona kadastrale 2946, Bashkia Përmet.
