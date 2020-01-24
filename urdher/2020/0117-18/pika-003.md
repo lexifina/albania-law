@@ -1,0 +1,5 @@
+3. Zyra Vendore e Arsimit Parauniversitar, Tiranë, ka për detyrë:
+a) të ngrejë grup pune brenda 3 (tri) ditëve nga hyrja në fuqi e këtij urdhri dhe të marrë masat për mbylljen e veprimtarisë së institucionit arsimor jopublik “SAADI”, Tiranë;
+b) të marrë masat për transferimin e nxënësve në institucione të tjera të arsimit parauniversitar për të gjithë nxënësit e regjistruar në këtë institucion arsimor;
+c) të administrojë të gjithë dokumentacionin lidhur me veprimtarinë mësimore të kryer nga institucioni arsimor parauniversitar jopublik;
+d) të ruajë në arkivin e institucionit dhe, më tej, të arkivojë sipas ligjit nr. 9154, datë 6.11.2003, “Për arkivat”, dokumentacionin e dorëzuar nga institucioni arsimor jopublik.

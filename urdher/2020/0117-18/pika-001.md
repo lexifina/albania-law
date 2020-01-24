@@ -1,0 +1,1 @@
+1. Mbylljen e veprimtarisë së institucionit arsimor jopublik të arsimit të mesëm të lartë, “SAADI”, Tiranë, licencuar me urdhrin nr. 361, datë 1.12.2000, të ministrit të Arsimit dhe Shkencës, “Për dhënie leje funksionimi të institucionit arsimor jopublik”, të ndryshuar me urdhrin nr. 360, datë 5.11.2009.
