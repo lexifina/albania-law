@@ -1,0 +1,1 @@
+1. Shërbimet elektronike në favor të organeve dhe institucioneve të administratës publike dhe subjekteve private ofrohen nga Agjencia Kombëtare e Shoqërisë së Informacionit, kundrejt aplikimit të tarifave përkatëse.
