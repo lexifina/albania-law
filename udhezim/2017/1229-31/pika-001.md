@@ -1,1 +1,0 @@
-1. Institucioni i Arsimit të Lartë (IAL) depoziton në Ministrinë e Arsimit Sportit dhe Rinisë (MASR) dokumentacionin dhe formularin sipas shtojcës 1, bashkëlidhur dhe pjesë përbërëse e këtij udhëzimi, për hapjen dhe/ose riorganizimin e një ose disa programeve studimi. Afati i fundit i depozitimit është data 30 nëntor, për vitin akademik pasardhës.

@@ -1,1 +1,0 @@
-4. Në rast se institucioni nuk arrin të zbatojë angazhimet brenda afatit të përcaktuar, ministri i MASR-së pezullon programin përkatës të studimit deri në përmbushje të detyrimeve ose mbyllje të programit të studimit.
