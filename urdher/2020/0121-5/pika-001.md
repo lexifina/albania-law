@@ -1,0 +1,1 @@
+1. Zgjatjen e vlefshmërisë së kartës së inspektorit të prodhuar sipas urdhrit nr. 32/1, datë 15.7.2016, me periudhë vlefshmërie deri më 31.12.2019, edhe gjatë vitit kalendarik 2020, deri në ristrukturimin e inspektorateve/trupave inspektuese.
