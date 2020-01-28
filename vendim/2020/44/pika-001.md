@@ -1,0 +1,1 @@
+1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, “Zonë të re për zhvillim”, të zonës 1, Njësia Administrative Thumanë, Bashkia Krujë, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi.
