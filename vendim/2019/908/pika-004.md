@@ -1,0 +1,1 @@
+4. Ngarkohet Bashkia Tiranë të administrojë procedurat për dhënien me koncesion/PPP, në përputhje me ligjin nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar, të projekteve, me objekt: “Ndërtimi i kampusit të ri të Universitetit të Tiranës”, “Ndërtimi i godinës së Universitetit të Arteve të Tiranës” dhe “Ndërtimi i korpusit të Policisë së Shtetit”.

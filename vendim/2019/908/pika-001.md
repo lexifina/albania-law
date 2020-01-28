@@ -1,0 +1,1 @@
+1. Përcaktimin e Bashkisë Tiranë si autoritet kontraktor për të ndërmarrë e për të zhvilluar procedurat për dhënie me koncesion/partneritet publik privat të projekteve: “Ndërtimi i kampusit të ri të Universitetit të Tiranës”, “Ndërtimi i godinës së Universitetit të Arteve të Tiranës” dhe “Ndërtimi i korpusit të Policisë së Shtetit”.

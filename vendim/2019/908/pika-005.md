@@ -1,0 +1,1 @@
+5. Ministria e Financave dhe Ekonomisë vlerëson e miraton paraprakisht projektet sipas këtij vendimi, si dhe çdo ndryshim apo transferim të tyre nga pikëpamja e implikimeve fiskale, individuale apo në grup për shpenzimet buxhetore, deficitin buxhetor, qëndrueshmërinë e borxhit publik dhe detyrimet kontingjente eventuale.
