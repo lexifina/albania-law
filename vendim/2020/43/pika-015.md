@@ -1,0 +1,1 @@
+15. Mosrespektimi i afateve të përcaktuara në këtë vendim përbën shkelje disiplinore dhe ndaj punonjësit/nëpunësit përgjegjës të administratës jepen masa disiplinore, sipas legjislacionit në fuqi që rregullon marrëdhëniet e punës.
