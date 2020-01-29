@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Durrës nr. 3, datë 29.1.2020
+# Vendimi i Këshillit Bashkiak Durrës nr. 3, datë 29.1.2020
 
 Title on the official site: Vendimi nr.3, date 29.01.2020
 
