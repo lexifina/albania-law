@@ -1,0 +1,27 @@
+{
+  "qbz_id": 123438,
+  "title": "PËR KONTROLLIN DHE DISIPLINIMIN E PUNIMEVE TË NDERTIMIT",
+  "type": "Ligj",
+  "number": "8402",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "1998-09-10",
+  "version_no": 1,
+  "qbz_version_id": 10750,
+  "in_force": "2020-01-30",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2020-01-30",
+  "changed_by_qbz_id": 21181,
+  "changed_by_number": "3",
+  "changed_by_title": "Për disa ndryshime dhe shtesa në ligjin nr. 8402, datë 10.9.1998, “Për kontrollin dhe disiplinimin e punimeve të ndërtimit”, të ndryshuar",
+  "source": "https://qbz.gov.al/files/7487f043d921e3d9aeba1f22976043f483db903a5f33917e287a1f0dc5ad6c7f.docx",
+  "source_sha256": "7487f043d921e3d9aeba1f22976043f483db903a5f33917e287a1f0dc5ad6c7f",
+  "official_record": "https://qbz.gov.al/api/v1/acts/123438",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/123438/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
