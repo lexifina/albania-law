@@ -1,0 +1,2 @@
+Miratimin e ndryshimit me shkëmbim letrash të marrëveshjes kuadër të financimit, ndërmjet Republikës së Shqipërisë dhe Bankës për Zhvillim të Këshillit të Evropës, për punët e komunitetit IV, të Fondit Shqiptar të Zhvillimit, projekti “Zhvillimi i alpeve dhe zonave bregdetare”, ratifikuar me ligjin nr. 69/2015, sipas tekstit bashkëlidhur këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
