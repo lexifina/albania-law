@@ -1,0 +1,1 @@
+4. Marrja në përdorim të përkohshëm, për pasuritë e paluajtshme, pronë private, të jetë për periudhën 6 (gjashtë) deri 12 (dymbëdhjetë) muaj, për zonat e nevojshme për testimin me ujë të tubacionit, si dhe përfundimi i punimeve dhe mbrojtja e tubacionit, sipas tabelës bashkëlidhur këtij vendimi.
