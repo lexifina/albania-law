@@ -1,0 +1,1 @@
+1. Financimin në vlerën 1 590 000 000 (një miliard e pesëqind e nëntëdhjetë milionë) lekë, të bashkëfinancimit të Këshillit të Ministrave të Republikës së Shqipërisë, në kuadër të projektit “Shtrati i Lumit Lana - zhvillim urban”, që do të financohet nga Banka Evropiane e Investimeve (BEI).
