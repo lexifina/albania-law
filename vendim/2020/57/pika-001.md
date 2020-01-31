@@ -1,0 +1,1 @@
+1. Universiteti i Sporteve të Tiranës (në vijim “UST”) është institucion publik i arsimit të lartë, me karakter akademik, shkencor e sportiv, i krijuar me vendimin nr. 123, datë 17.2.2010, të Këshillit të Ministrave, “Për krijimin e Universitetit të Sporteve të Tiranës”, të cilit i jepet status i veçantë.

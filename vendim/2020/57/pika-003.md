@@ -1,0 +1,1 @@
+3. UST-ja është përgjegjëse për ofrimin e të gjitha programeve të studimit me kohë të plotë, programe studimi me karakter profesional, programe studimi në të tria ciklet e studimit, në fushën e edukimit fizik e sporteve, aktivitetit fizik për shëndet, rekreacionit e rehabilitimit, miratuar në përputhje me aktet ligjore dhe nënligjore në fuqi.
