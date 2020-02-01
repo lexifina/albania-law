@@ -1,0 +1,4 @@
+# Neni 14
+Ekzekutimi i masës parandaluese personale
+1. Në rast se ndaj subjektit janë dhënë masa të sigurimit personal sipas Kodit të Procedurës Penale, ekzekutimi i masës parandaluese personale të dhënë në zbatim të këtij akti normativ, mbetet i pezulluar për aq kohë sa subjekti u nënshtrohet këtyre masave. Me revokimin apo pushimin e masës së sigurimit personal, organi procedues urdhëron vazhdimin e masës parandaluese personale nëse vlerëson se ekzistojnë sërish rrethanat, kushtet dhe nevojat për të cilat ishte vendosur.
+2. Nëse gjatë afatit të caktuar, subjekti i mbikëqyrur kryen një krim për të cilin dënohet dhe masa paraprake me karakter personal nuk pezullohet apo pushon, gjykata vlerëson nëse kryerja e këtij krimi mund të përbëjë një tregues të rrezikut të vazhdueshëm të subjektit dhe, në këtë rast, afati fillon përsëri nga dita në të cilën komunikohet dënimi.

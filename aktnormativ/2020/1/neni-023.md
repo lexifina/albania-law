@@ -1,0 +1,13 @@
+# Neni 23
+Konfiskimi i pasurisë
+1. Masa parandaluese pasurore e konfiskimit për pasuritë që administrohen, posedohen ose janë në pronësi të subjekteve sipas parashikimit të nenit 16, të këtij akti normativ, vendoset me kërkesë të prokurorit, i cili i paraqet gjykatës në mënyrë të argumentuar arsyet ku bazohet kërkesa.
+Gjykata vendos masën parandaluese pasurore të konfiskimit sipas parashikimit të kësaj pike, kur:
+- mbi pasurinë është vendosur masa e sekuestros;
+- ka dyshime të arsyeshme, bazuar në elemente të faktit, për pjesëmarrjen e personit në veprimtari kriminale, të parashikuara në nenin 5 të këtij akti normativ;
+- nuk mund të provohet përpara gjykatës origjina e ligjshme e burimit të krijimit të pasurisë apo personi nuk justifikon zotërimin e pasurive ose të të ardhurave, që janë shpërpjesëtimore dhe nuk i përgjigjen dukshëm nivelit të të ardhurave, fitimeve apo veprimtarive të ligjshme, të deklaruara dhe as nuk justifikohen prej tyre.
+2. Me kërkesë të prokurorit gjykata mund të vazhdojë gjykimin edhe në raste kur personi nuk ka banim të njohur brenda vendit, është larguar jashtë vendit ose me të gjitha kërkimet e bëra nuk gjendet. Në këtë rast, gjykata vendos mosgjetjen e personit, duke i caktuar atij një avokat. Avokati mund të caktohet kryesisht nga gjykata ose të zgjidhet nga të afërmit e personit.
+3. Kur gjatë shqyrtimit gjyqësor del se pasuritë u përkasin personave të tretë, gjykata, edhe kryesisht, me vendim të arsyetuar, i thërret ata për të ndërhyrë në proces. Personi i tretë, brenda afatit që i caktohet nga gjykata, ka të drejtë të paraqesë në seancë pretendimet e veta, si dhe të kërkojë marrjen e të dhënave të tjera të nevojshme.
+4. Kur vërtetohet se disa pasuri i janë transferuar apo janë regjistruar në emër të të tretëve, me veprime juridike fiktive ose të simuluara, gjykata konstaton pavlefshmërinë e këtyre veprimeve juridike. Për këtë qëllim, kur nuk provohet e kundërta, prezumohen fiktive ose të simuluara edhe:
+a) transferimet dhe regjistrimet në emër të të tretëve dhe me titull barrësor, të kryera brenda dy viteve përpara paraqitjes së kërkesës për marrjen e masës parandaluese kundër personave të afërm;
+b) transferimet dhe regjistrimet në emër të të tretëve dhe me titull fals apo dukshëm nën vlerën e tregut, të kryera brenda dy viteve përpara paraqitjes së kërkesës për marrjen e masës parandaluese.
+5. Në asnjë rrethanë subjektet e këtij akti normativ nuk mund të përdorin si argument apo provë se të ardhurat për krijimin apo fitimin e aseteve dhe pasurive, objekt hetimi, janë burim i evazionit fiskal. Të ardhurat e padeklaruara konsiderohen të paligjshme për sa subjekti nuk provon të kundërtën. Në këtë rast, kundër subjektit mund të ngrihet një proces i rregullt penal sipas legjislacionit në fuqi.

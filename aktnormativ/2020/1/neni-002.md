@@ -1,0 +1,3 @@
+# Neni 2
+Qëllimi
+Qëllimi i këtij akti normativ është ndërhyrja emergjente dhe me karakter të përkohshëm në kushtet e nevojës së forcimit dhe ashpërsimit të luftës kundër krimit të organizuar, organizatave dhe grupeve të strukturuara kriminale, si dhe çdo grupi tjetër kriminal e terrorist, bandave të armatosura, individëve të përfshirë në krimet e rënda, me synim konsolidimin e sigurisë në vend, përmes rritjes së kapacitetit dhe nivelit të zbulimit, gjurmimit dhe parandalimit të krimit të organizuar, krimeve të rënda, terrorizmit dhe përdorimit prej krimit të organizuar të pronave me origjinë të paligjshme.

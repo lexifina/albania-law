@@ -1,0 +1,7 @@
+# Neni 33
+E drejta për akses të menjëhershëm
+1. Kur në bazë të informacioneve që disponohen nga OFL-ja/Njësia Antiterror në Policinë e Shtetit dyshohet se subjekti i këtij akti normativ po planifikon, organizon apo merr pjesë në kryerjen e një krimi të organizuar apo veprimtarie terroriste dhe kjo veprimtari nuk mund të zbulohet dhe të parandalohet në mënyra të tjera apo me aplikimin e masave parandaluese të parashikuara nga ky akt normativ, drejtuesi i OFL-së, vetëm ose në bashkëpunim më drejtuesin e Njësisë së Antiterrorit, nëse jemi në kushtet e dyshimit për veprimtari terroriste, mund të kërkojë akses për strukturat e policisë:
+a) në operatorët që përdorin rrjetet dhe ofrojnë përdorimin e shërbimeve elektronike e telefonike të çdo lloji, për identifikimin në kohë reale të subjektit a numrit të telefonit, të numrit të aparatit telefonik (IMEI) apo lokalizimin e antenave loguese të dy komunikuesve, si dhe krijimin e mundësive të identifikimit të përdoruesit fundor të internetit;
+b) në operatorët që përdorin rrjetet dhe ofrojnë përdorimin e shërbimeve elektronike për komunikimin dhe postën elektronike, përfshirë internetin, ndër të tjera, edhe për identifikimin në kohë reale të përdoruesve të internetit me IP publike;
+c) në database e regjistra elektronikë të institucioneve shtetërore dhe subjekteve private të licencuara, sipas legjislacionit në fuqi.
+2. Mbi veprimet e kryera sipas parashikimit më sipër, drejtuesi i OFL-së informon drejtorin e Përgjthshëm të Policisë së Shtetit dhe prokurorin kompetent, sipas parashikimeve të këtij akti normativ.

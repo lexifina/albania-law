@@ -1,0 +1,5 @@
+# Neni 36
+Regjistri i masave parandaluese
+1. Për qëllime të zbatimit të këtij akti normativ, në Policinë e Shtetit krijohet, mirëmbahet dhe administrohet, në hard copy dhe në formë të digjitalizuar regjistri i masave parandaluese, në të cilin kanë akses si përdorues edhe prokuroria dhe gjykata kompetente sipas parashikimeve të këtij akti normativ.
+2. Në regjistrin sipas pikës 1 evidentohen të dhënat për emrin e personit fizik dhe/ose juridik ndaj të cilit janë dhënë masat parandaluese sipas parashikimit të këtij akti; gjenealitetet e personave; identifikimi i pasurisë, lloji dhe afatet e masës, faza dhe procedura e zbatimit të masave paraprake, përshkrim i të dhënave mbi çështjen dhe çdo informacion i nevojshëm sipas udhëzimit të përmendur në pikën 3, të këtij neni
+3. Formati, mënyra e mbajtjes së regjistrit, ndërveprimi ndërmjet institucioneve që kanë të drejtë përdorimi të tij përcaktohen me udhëzim të përbashkët të ministrit të Drejtësisë, ministrit të Brendshëm pas marrjes së mendimit të drejtuesit të prokurorisë dhe gjykatës kompetente sipas përcaktimit të këtij akti normativ.

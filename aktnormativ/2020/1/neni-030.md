@@ -1,0 +1,6 @@
+# Neni 30
+Strukturat përgjegjëse në Policinë e Shtetit
+1. Për efekt të zbatimit të këtij akti normativ, në Drejtorinë e Përgjithshme të Policisë së Shtetit ngrihet një strukturë e posaçme e quajtur Operacioni Forca e Ligjit (OFL), në varësi të drejpërdrejtë të Drejtorit të Përgjithshëm të Policisë së Shtetit, e drejtuar nga drejtori i Departamentit të Policisë Kriminale. OFL-ja së bashku me Drejtorinë e Antiterrorit janë strukturat përgjegjëse të Policisë së Shtetit për zbatimin e dispozitave të këtij akti normativ.
+2. Detyrat dhe përgjegjësitë e OFL-së janë mbledhja e informacioneve, përditësimi, përpunimi i të dhënave dhe kryerja e çdo veprimi administrativ, procedural e hetimor që parashikohet për Policinë e Shtetit, në zbatim të këtij akti normativ, si dhe detyra të tjera të përcaktuara me urdhër të drejtorit të Përgjithshëm të Policisë së Shtetit.
+3. Në përmbushje të detyrave të veta, OFL-ja asistohet dhe bashkëpunon me institucione të tjera shtetërore që ngarkohen me zbatimin e këtij akti normativ, si edhe nga ekspertë të fushës, organizata dhe agjenci partnere të huaja ligjzbatuese.
+4. Struktura, organizimi dhe funksionimi i OFL-së miratohen me urdhër të ministrit përgjegjës për rendin dhe sigurinë publike, ndërsa trajtimi financiar i punonjësve të OFL-së dhe Drejtorisë së Antiterrorit përcaktohen me vendim të Këshillit të Ministrave.
