@@ -1,0 +1,1 @@
+1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës 1/2, Njësia Administrative Laç, Bashkia Kurbin, zonë e re për zhvillim.
