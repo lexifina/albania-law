@@ -1,0 +1,1 @@
+8. Pagesa e orëve suplementare bëhet në fund të çdo muaji. Drejtoria e shkollës të llogarisë periodikisht pagesat e orëve suplementare, me qëllim që në fund të muajit pagesa e orëve suplementare të përfituara nga mësuesit gjatë muajit përkatës, të jetë në përputhje me orët faktike të realizuara nga mësuesi.

@@ -1,0 +1,1 @@
+15. Mësuesi, në shkollat me më shumë se 700 nxënës, që kanë palestër dhe krijojnë e stërvitin ekipe sportive, jo në më shume se dy lloje sporti për femra dhe meshkuj, i ulet norma mësimore javore me 3 orë në javë.
