@@ -1,0 +1,9 @@
+# Neni 26
+Platforma qendrore e faturave
+1. Ngarkohet AKSHI që të krijojë, zhvillojë, mirëmbajë dhe administrojë nga ana teknike platformën qendrore të faturave, nëpërmjet së cilës shkëmbehen faturat elektronike.
+2. Tatimpaguesit, që regjistrohen në regjistrin e administratës tatimore qendrore si tatimpagues që lëshojnë fatura, sipas nenit 13, të këtij ligji, regjistrohet automatikisht në regjistrin e tatimpaguesve, që mbahet nga administrata tatimore qendrore, si lëshues dhe pranues të faturave elektronike.
+3. Lëshuesit dhe marrësit e faturave elektronike, sipas pikës 2, të këtij neni, që kanë njësi të ndryshme organizative, janë të detyruar të paraqesin informacione për to në platformën qendrore të faturave brenda 24 orëve, para fillimit të lëshimit ose marrjes apo shkëmbimit të faturave elektronike nëpërmjet kësaj platforme.
+4. Marrësit e faturave elektronike, të cilët nuk janë të regjistruar në regjistrin e administratës tatimore qendrore si tatimpagues që lëshojnë fatura, sipas nenit 13, të këtij ligji, duhet të marrin një certifikatë elektronike, sipas nenit 19, të këtij ligji, dhe nëpërmjet platformës qendrore të faturave të regjistrohen si marrës të faturave elektronike brenda 24 orëve përpara fillimit të marrjes së faturave elektronike nëpërmjet kësaj platforme.
+5. Të gjitha faturat elektronike duhet të shkëmbehen nëpërmjet platformës qendrore të faturave pas zbatimit të procedurës së fiskalizimit, në përputhje me kreun VI të këtij ligji.
+6. Platforma qendrore e faturave është pjesë e infrastrukturës shtetërore të teknologjisë së informacionit, që administrohet nga ana teknike nga AKSHI, dhe të dhënat që shkëmbehen nëpërmjet saj janë pronë e administratës tatimore qendrore.
+7. Detyrimet ligjore, që rrjedhin nga ky nen, zbatohen në përputhje me vendimin përkatës të Këshillit të Ministrave.

@@ -1,0 +1,6 @@
+# Neni 45
+Mbrojtja e të dhënave
+1. Dispozitat e këtij ligji zbatohen duke respektuar dispozitat e ligjit në fuqi për mbrojtjen e të dhënave personale.
+2. Të dhënat personale, të mbledhura për qëllim të lëshimit të faturës dhe kryerjes së regjistrimeve të pagesave, mund të përdoren vetëm për këtë qëllim dhe për qëllim të këtij ligji ose për qëllime të tjera, që janë në përputhje me qëllimin e mbledhjes së këtyre të dhënave.
+3. Marrëdhëniet e ndërsjella ndërmjet blerësit ose klientit dhe ndërmjetësve të teknologjisë së informacionit ose tatimpaguesve, që lëshojnë fatura, dhe ofruesve të shërbimeve të teknologjisë së informacionit, apo paguesit të faturës elektronike dhe ndërmjetësit financiar, në rolin e administratorit dhe përpunuesit të të dhënave personale, të cilat përpunohen gjatë procedurës së lëshimit, marrjes, dërgimit, ruajtjes dhe përpunimit të faturave dhe procedurës së pagesave të faturave elektronike, rregullohen në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+4. Të gjitha çështjet e tjera, që nuk mbulohen nga ky ligj, i nënshtrohen dispozitave të legjislacionit në fuqi për procedurat tatimore dhe dispozitave përkatëse të ligjeve të tjera në fuqi.

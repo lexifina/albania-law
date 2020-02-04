@@ -1,0 +1,14 @@
+# Neni 31
+Zbatimi i procedurës së fiskalizimit në zonat ku nuk është e mundur të vendoset
+një lidhje për shkëmbimin e të dhënave
+1. Nëse tatimpaguesi, që lëshon faturë, ushtron veprimtarinë e vet tregtare në ambiente biznesi, të cilat ndodhen në një zonë ku nuk është e mundur të vendoset lidhja elektronike (interneti) për shkëmbimin e të dhënave me administratën tatimore qendrore, tatimpaguesi, që lëshon faturë, do të zbatojë procedurën e fiskalizimit të faturave për atë pjesë të aktivitetit të tij tregtar nëpërmjet lëshimit të faturës me të dhënat e përcaktuara në kreun IV, të këtij ligji, pa të dhënat e NIVF-së, dhe është i përjashtuar nga detyrimi për të lëshuar fatura elektronike, sipas neneve 24 e 25 të këtij ligji, deri sa të krijohet mundësia e lidhjes elektronike (internetit).
+2. Tatimpaguesi, që lëshon faturë, i deklaron administratës tatimore pamundësinë për të vendosur lidhjen elektronike (internetin) për shkëmbimin e të dhënave dhe kjo deklaratë verifikohet nga administrata tatimore qendrore, bazuar në informacionin nga Autoriteti i Komunikimeve Elektronike dhe Postare (AKEP), me afat të vlefshmërisë për një vit.
+3. Tatimpaguesi, që lëshon faturë, në rastin e përmendur në pikën 1, të këtij neni, detyrohet:
+a) të dorëzojë në administratën tatimore qendrore të dhënat e përcaktuara në kreun V, të këtij ligji, nëpërmjet platformës qendrore të faturave, me postë ose personalisht nëpërmjet formularit përkatës në administratën tatimore ku është regjistruar ose ku ka adresën e përhershme apo vendqëndrimin e zakonshëm;
+b) të pajiset me pajisje fiskale dhe zgjidhje software-ike, në përputhje me nenin 18 të këtij ligji;
+c) të pajiset me certifikatë elektronike, sipas nenit 19, të këtij ligji;
+ç) deri në datën 10, të muajit, të paraqesë në administratën tatimore të gjitha faturat e lëshuara në muajin paraardhës, nëpërmjet një memorieje portative ruajtëse të rishkrueshme ose nëpërmjet platformës qendrore të faturave.
+4. Administrata tatimore qendrore u cakton NIVF-në të gjitha faturave të lëshuara, të referuara në shkronjën “ç”, të pikës 3, të këtij neni, dhe ia kthen ato tatimpaguesit, që lëshon fatura, si konfirmim i pranimit të faturave të paraqitura me vonesë.
+5. Tatimpaguesi, që lëshon faturë, detyrohet që të shtojë informacionin mbi NIVF-në e marrë nga administrata tatimore qendrore, sipas pikës 4, të këtij neni, në të gjitha faturat e lëshuara, duke përdorur zgjidhjen software-ike, brenda 5 ditëve nga marrja e NIVF-së.
+6. Me kërkesë të blerësit, tatimpaguesi, që lëshon faturë, detyrohet t’i japë një kopje në letër të faturës me NIVF-në të shënuar në faturë, në përputhje me pikën 5 të këtij neni.
+7. Ministri përgjegjës për financat nxjerr udhëzim për detyrimet e tatimpaguesit, që lëshon faturë, sipas këtij neni, dhe mënyrës së dërgimit të të dhënave të referuara në pikat 3 e 4 të këtij neni.
