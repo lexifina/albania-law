@@ -1,0 +1,1 @@
+1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës Kombinat, Njësia Administrative 6, Bashkia Tiranë, zonë e re për zhvillim.
