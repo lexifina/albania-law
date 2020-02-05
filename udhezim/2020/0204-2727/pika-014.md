@@ -1,0 +1,1 @@
+14. Pagesa e tatimit nga rivlerësimi i pasurive të paluajtshme kryhet pranë bankave të nivelit të dytë, sipas modeleve të formularit të faturës për arkëtim, përkatësisht, për individët (shtojca nr. 3) ose për personat juridikë (shtojca nr. 4), që i bashkëlidhen këtij udhëzimi dhe janë pjesë përbërëse e tij.

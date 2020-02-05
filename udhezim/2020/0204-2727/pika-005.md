@@ -1,0 +1,1 @@
+5. Në rast se individi zgjedh rivlerësimin e pasurisë nga një ekspert i licencuar, baza e tatueshme, llogaritet si diferencë ndërmjet vlerës së pasqyruar në aktin e vlerësimit të pasurisë dhe vlerës së zbritshme. Në çdo rast, vlera e pasqyruar në aktin e vlerësimit të pasurisë nga eksperti i licencuar nuk mund të jetë më e vogël se çmimi minimal fiskal.

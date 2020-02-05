@@ -1,0 +1,1 @@
+1. Të gjithë individët, të cilët kanë në pronësi, pasuri të paluajtshme (tokë dhe/ose ndërtesë) të regjistruar ose që fitojnë pronësinë dhe e regjistrojnë atë deri në datën 30 shtator 2020, kanë të drejtë që brenda këtij afati të bëjnë rivlerësimin e kësaj pasurie me vlerën e tregut. Këtu përfshihen dhe rastet, kur për pasurinë e paluajtshme është bërë edhe më parë rivlerësimi.

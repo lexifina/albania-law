@@ -1,0 +1,1 @@
+16. Klientëve-persona juridikë, u vendoset në dispozicion formulari nga degët përkatëse të bankave. Gjithashtu, ky formular mund të shkarkohet edhe elektronikisht në faqen zyrtare të Ministrisë së Financave dhe Ekonomisë.
