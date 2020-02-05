@@ -4,6 +4,10 @@ Nr. 2, datë 15.2.2019
 
 PËR  PROCEDURËN E SHORTIT TË CAKTIMIT TË RELATORËVE PËR POZICIONET VAKANTE NË ÇDO INSTITUCION
 
+(Ndryshuar me vendimin nr. 2, datë 5.2.2020)
+
+(I përditësuar)
+
 Në mbështetje të pikave 2 dhe 3 të nenit 228 të ligjit nr. 115/2016 “Për organet e qeverisjes së sistemit të drejtësisë”, Këshilli i Emërimeve në Drejtësi
 
 VENDOSI :
@@ -21,6 +25,8 @@ II.  Përgatitja dhe njoftimet për procedurën e caktimit të relatorëve përm
 4. Menjëherë pas mbledhjes së parë të Këshillit të Emërimeve në Drejtësi të zgjedhur për vitin kalendarik, për përgatitjen dhe realizimin e procedurave të caktimit përmes shortit elektronik të relatorëve për pozicionet vakante në çdo institucion, Kryetari i Këshillit i njofton Kryetarit të Gjykatës së Lartë listën e anëtarëve dhe anëtarëve zëvendësues për regjistrimin të tyre në sistemin e administrimit të çështjeve të Gjykatës së Lartë. 
 
 5. Dita dhe ora e zhvillimit të procedurës së shortit elektronik për caktimin e relatorëve për pozicionet vakante në çdo institucion caktohet jo më vonë se 5 ditë nga dita e publikimit të listës së kandidatëve për pozicionin vakant në Gjykatën Kushtetuese nga subjektet që vënë në lëvizje Këshillin e Emërimeve në Drejtësi ose nga ajo e publikimit të listës së kandidatëve për  pozicionin vakant të Inspektorit të Lartë të Drejtësisë nga ana e këtij Këshilli.
+
+5/1. Kur procedura e verifikimit dhe e vlerësimit të kandidatëve nuk ka përfunduar gjer më 31 dhjetor, atëherë dita dhe ora e zhvillimit të procedurës së shortit elektronik për caktimin e relatorit caktohet jo më vonë se 3 ditë nga dita e konstituimit të Këshillit të radhës. I njëjti afat zbatohet edhe kur procedohet me zëvendësimin e relatorit për shkak të ligjshëm gjatë veprimtarisë së të njëjtit Këshill.
 
 6. Kryetari i Këshillit njofton anëtarët dhe anëtarët zëvendësues për datën dhe orën e caktuar për zhvillimin e shortit elektronik. Së bashku me njoftimin, u dërgohet për t’u njohur edhe lista e kandidatëve për pozicionet vakante dhe jetëshkrimet e tyre, për të  vlerësuar gjendjen e mundshme të papajtueshmërisë, konfliktit të interesit dhe pengesës ligjore.  
 
