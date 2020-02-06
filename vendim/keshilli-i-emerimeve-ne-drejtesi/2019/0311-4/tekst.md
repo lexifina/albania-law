@@ -4,6 +4,10 @@ Nr. 4, datë 11.3.2019
 
 PËR PROCEDURËN E VERIFIKIMIT TË KANDIDATËVE PËR POZICIONET VAKANTE NË GJYKATËN KUSHTETUESE DHE TË INSPEKTORIT TË LARTË TË DREJTËSISË
 
+(Ndryshuar me vendimin nr. 3, datë 6.2.2020)
+
+(I përditësuar)
+
 Në mbështetje të pikës 2, të nenit 229, të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”, Këshilli i Emërimeve në Drejtësi
 
 VENDOSI:
@@ -22,11 +26,21 @@ A. Fillimi dhe fazat e procedurës së verifikimit
 
 4. Në të njëjtën ditë të mbledhjes së Këshillit zhvillohet edhe procedura e shortit për caktimin, ndërmjet anëtarëve të Këshillit, të relatorit për secilin pozicion vakant në çdo institucion. Në çdo rast, procedura e shortit zhvillohet brenda afatit 5-ditor të përcaktuar në pikën 3 të këtij vendimi.
 
+4/1. Kur procedura e verifikimit nuk ka përfunduar gjer më 31 dhjetor, atëherë afati i përcaktuar në pikat 3 dhe 4 është jo më vonë se 3 ditë nga dita e konstituimit të Këshillit të radhës. I njëjti afat zbatohet edhe kur procedohet me zëvendësimin e relatorit për shkak të ligjshëm gjatë veprimtarisë së të njëjtit Këshill.
+
 5. Procedura administrative e verifikimit të kandidatëve realizohet në dy faza:
 
 a) veprimet procedurale dhe verifikuese të relatorit;
 
 b) shqyrtimi dhe miratimi i projektaktit të verifikimit nga Këshilli.
+
+5/1. Kur veprimet procedurale dhe verifikuese të relatorit nuk kanë përfunduar gjer më 31 dhjetor, atëherë relatori i ri kontrollon saktësinë dhe plotësinë e veprimeve të kryera për të përfunduar me përparësi këtë fazë, duke konsideruar respektimin e afatit ligjor.
+
+5/2. Kur relatori i ka përfunduar veprimet procedurale dhe verifikuese, por Këshilli nuk ka shqyrtuar çështjen gjer më 31 dhjetor, atëherë relatori i ri, pasi kontrollon saktësinë dhe plotësinë e veprimeve të kryera:
+
+a) konfirmon procedurën e ndjekur dhe përcjell relacionin e hartuar prej tij për shqyrtim në mbledhjen e Këshillit;
+
+b) vijon kryerjen e veprimeve procedurale dhe verifikuese shtesë.
 
 B. Të drejtat e kandidatit
 
@@ -81,6 +95,8 @@ d) pajisjen dhe marrjen në dorëzim të nënshkruar të formularëve autorizues
 dh) pajisjen dhe marrjen në dorëzim të nënshkruar nga kandidati të formularit deklarues për adresën postare, adresën elektronike dhe kontaktit telefonik, për qëllimet e procedurës së verifikimit dhe vlerësimit të kandidaturës;
 
 e) dërgimin e shkresave standarde për kërkimin e informacionit dhe të shpjegimeve përkatëse nga kandidati, institucionet publike dhe subjektet private, në lidhje me kushtet dhe kriteret e tjera ligjore të kandidimit. 
+
+20/1. Kur akti apo shkresa e komunikimit për mbledhjen e të dhënave nga të tretët nënshkruhet nga Kryetari, atëherë përmbajtja e aktit apo e shkresës konfirmohet paraprakisht përmes nënshkrimit/siglimit ose postës elektronike nga relatori përkatës, praktikë e cila vendoset në dosjen e kandidatit.
 
 21. Në rastin e kandidatëve që rezultojnë, njëkohësisht, të kandiduar në më shumë se një pozicion vakant në proces shqyrtimi nga Këshilli, relatorët përkatës të pozicioneve vakante, realizojnë bashkërisht procedurat standarde verifikuese të përcaktuara në pikën 20 të këtij vendimi.
 
