@@ -1,0 +1,27 @@
+{
+  "qbz_id": 55908,
+  "title": "PËR LICENCIMIN E SHA UJËSJELLËS KANALIZIME POGRADEC",
+  "type": "Vendim",
+  "number": "5",
+  "institution": "Enti Rregullator i Ujit",
+  "adopted": "2017-02-03",
+  "version_no": 1,
+  "qbz_version_id": 3744,
+  "in_force": "2020-02-06",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2020-02-06",
+  "changed_by_qbz_id": 21219,
+  "changed_by_number": "27",
+  "changed_by_title": "Për një ndryshim në vendimin e Komisionit Kombëtar Rregullator nr. 5, datë 3.2.2017, “Për licencimin e sh.a. Ujësjellës-Kanalizime Pogradec”",
+  "source": "https://qbz.gov.al/files/3ee2837275bea568c51cc4d8b7b1f5d9d1397152d057311afe18f58acb2527ea.docx",
+  "source_sha256": "3ee2837275bea568c51cc4d8b7b1f5d9d1397152d057311afe18f58acb2527ea",
+  "official_record": "https://qbz.gov.al/api/v1/acts/55908",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/55908/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
