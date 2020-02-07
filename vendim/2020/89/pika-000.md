@@ -1,0 +1,2 @@
+Miratimin e memorandumit të bashkëpunimit ndërmjet Këshillit të Ministrave të Republikës së Shqipërisë dhe qeverisë së Mbretërisë së Arabisë Saudite, për heqjen reciproke të vizave për qëndrim afatshkurtër, për mbajtësit e pasaportave diplomatike të shërbimit dhe private për shtetasit e të dyja vendeve, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
