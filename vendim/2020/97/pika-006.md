@@ -1,0 +1,1 @@
+6. Shpenzimet procedurale në vlerën 50 000 (pesëdhjetë mijë) lekë do të përballohen nga buxheti i vitit 2020, miratuar për Ministrinë e Infrastrukturës dhe Energjisë, ndërsa shpenzimet procedurale në vlerën 1 557 508 (një milion e pesëqind e pesëdhjetë e shtatë mijë e pesëqind e tetë) lekë, për publikim në organet e shtypit, do të përballohen nga subjekti kërkues, Bashkia Tiranë.

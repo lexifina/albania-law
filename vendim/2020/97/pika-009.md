@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Tiranë Veri, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin që të realizohet procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit, si dhe kalimi i pronësisë në favor të shtetit për pasuritë e shpronësuara.

@@ -1,0 +1,1 @@
+5. Vlera e përgjithshme e shpronësimit për pasurinë e llojit “truall”, me vlerë 51 306 408 (pesëdhjetë e një milionë e treqind e gjashtë mijë e katërqind e tetë) lekë, do të përballohet nga fondet e Bashkisë Tiranë.
