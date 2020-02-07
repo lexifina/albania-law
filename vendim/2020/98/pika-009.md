@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Berat, të pezullojë të gjitha transaksionet me pasurinë e shpronësuar deri në momentin që të realizohet procesi i hedhjes se gjurmës së projektit mbi hartën kadastrale të regjistrimit, si dhe kalimi i pronësisë në favor të shtetit, Bashkia Ura Vajgurore, për pasurinë e shpronësuar.
