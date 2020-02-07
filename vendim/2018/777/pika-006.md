@@ -1,1 +1,1 @@
-6. Ministria përgjegjëse për arsimin i përcjell institucioneve të arsimit të lartë rezultatet e gjetjeve nga kontrolli antiplagjiaturë, mbi bazën e të cilave do të bëhet rivlerësimi përfundimtar mbi gradën shkencore të dyshuar si plagjiaturë.
+6.shfuqizuar.
