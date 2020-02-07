@@ -1,0 +1,1 @@
+4. Kriteret, procedurat dhe mënyra e administrimit të fondit të programit për bujqësinë dhe zhvillimin rural përcaktohen me udhëzim të përbashkët të Ministrisë së Bujqësisë dhe Zhvillimit Rural e të Ministrisë së Financave dhe Ekonomisë.

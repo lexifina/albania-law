@@ -1,0 +1,3 @@
+5. Nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2020, do të përdoret shuma:
+a) deri në 10 174 000 (dhjetë milionë e njëqind e shtatëdhjetë e katër mijë) lekë, për pagesën e vlerës së palikuiduar, për subjektet e shpallura fituese nga Agjencia për Zhvillimin Bujqësor dhe Rural, në zbatim të vendimit nr.128, datë 13.3.2019, të Këshillit të Ministrave, “Për përcaktimin e kritereve bazë të sektorëve që do të mbështeten dhe të masës së financimit nga fondi i programit për bujqësinë dhe zhvillimin rural, për vitin 2019”, të ndryshuar;
+b) deri në 1 755 000 (një milion e shtatëqind e pesëdhjetë e pesë mijë) lekë detyrime, për pagesat e normës së interesave bankare për kontratat e lidhura.
