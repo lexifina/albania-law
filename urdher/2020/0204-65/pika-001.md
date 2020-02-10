@@ -1,0 +1,1 @@
+1. Delegimin e kompetencës për nënshkrimin e autorizimeve për dërgim me shërbim të punonjësve të Ministrisë së Kulturës jashtë qendrës së punës, brenda vendit, drejtorit të Drejtorisë së Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, z. Agron Gaxho.
