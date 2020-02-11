@@ -1,0 +1,1 @@
+1. Ngarkimin e Ministrisë së Arsimit, Sportit dhe Rinisë të kryejë procedurat e prokurimit, në emër të qendrave të trajtimit të studentëve në qytetet Shkodër, Vlorë dhe Korçë, për kompletimin e ambienteve të brendshme të godinave me mobilje dhe pajisje të tjera akomoduese e ndihmëse, me fondet e miratuara në buxhetin e vitit 2020.

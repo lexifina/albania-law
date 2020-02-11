@@ -1,0 +1,1 @@
+3. Përfituesit do të jenë qendrat e trajtimit të studentëve në qytetet Shkodër, Vlorë dhe Korçë, të cilat do të kryejnë procedurat për marrjen në dorëzim dhe inventarizimin e pajisjeve të furnizuara e të vendosura apo të instaluara, në përputhje me sasitë dhe çmimet e përcaktuara në kontratën publike të furnizimit.
