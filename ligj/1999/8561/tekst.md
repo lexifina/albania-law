@@ -4,9 +4,9 @@ Nr.8561, datë 22.12.1999
 
 PËR SHPRONËSIMET DHE MARRJEN NË PËRDORIM TË PËRKOHSHËM TË PASURISË PRONË PRIVATE PËR INTERES PUBLIK
 
-(Ndryshuar me ligjin nr. 20/2016, datë 10.3.2016)
+(Ndryshuar me ligjin nr. 20/2016, datë 10.3.2016, nr. 11/2020, datë 12.2.2020)
 
-(I përditësuar)
+(i përditësuar)
 
 Në mbështetje të neneve 41, 78 dhe 83 pika 1 të Kushtetutës, me propozimin e Këshillit të Ministrave,
 
@@ -28,7 +28,7 @@ Ky ligj rregullon të drejtën e shtetit për të shpronësuar ose për të marr
 
 Neni 2
 
-1. Personat fizikë dhe juridikë privatë kanë të drejtën për respek-ti-min e pasurive në pronësi të tyre. Shpronësimi i pasurive pronë private bëhet vetëm për interes publik, në kushtet kur interesi publik mbizotëron kundrejt interesave private të pronarëve të tyre, në përputhje me kushtet e parashikuara nga ligji dhe parimet e përgjithshme të së drejtës ndërkombëtare.
+1. Personat fizikë dhe juridikë privatë kanë të drejtën për respektimin e pasurive në pronësi të tyre. Shpronësimi i pasurive pronë private bëhet vetëm për interes publik, në kushtet kur interesi publik mbizotëron kundrejt interesave private të pronarëve të tyre, në përputhje me kushtet e parashikuara nga ligji dhe parimet e përgjithshme të së drejtës ndërkombëtare.
 
 2. E drejta e shpronësimit dhe e marrjes në përdorim të përkohshëm të pasurisë pronë private ushtrohet për një interes publik që nuk mund të realizohet ose të mbrohet në mënyrë tjetër, veçse për shkaqe dhe në respektim të procedurave të përcaktuara shprehimisht në këtë ligj, në atë masë sa është e domosdoshme për realizimin e qëllimit të shpronësimit dhe në çdo rast kundrejt një shpërblimi të drejtë.
 
@@ -48,9 +48,11 @@ Neni 5
 
 Kuptimi i shpronësimit
 
-1. Kur realizimi ose mbrojtja e interesave publike nuk mund të arrihet pa ushtruar të drejtat e pronësisë mbi pasuritë e paluajtshme ose të luajtshme pronë private, Këshilli i Ministrave, mbi kërkesën e subjektit kërkues në favor të të cilit bëhet shpronësimi, me propozim të ministrit kompetent sipas këtij ligji, vendos shpronësimin e këtyre pasurive.
+(ndryshuar fjalë në pikën 1 dhe ndryshuar pika 2 me ligjin nr. 11/2020, datë 12.2.2020)
 
-2. Kur shpronësimi është kryer me kërkesën e një subjekti juridik privat, ministri kompetent, në cilësinë e përfaqësuesit ligjor të pronës shtetërore, është i autorizuar me këtë ligj që, mbi kërkesën paraprake të këtij subjekti, të bëjë kalimin e pronësisë së pasurive të shpronësuara nga shteti në favor të subjektit privat që ka kërkuar shpronësimin, me kushtin që të jetë vërtetuar sipas ligjit realizimi i ndërtimit ose investimit për interes publik, për të cilin është kryer shpronësimi.
+1. Kur realizimi ose mbrojtja e interesave publike nuk mund të arrihet pa ushtruar të drejtat e pronësisë mbi pasuritë e paluajtshme ose të luajtshme pronë private, Këshilli i Ministrave, mbi kërkesën e subjektit kërkues në favor të të cilit bëhet shpronësimi, me propozim të ministrit përgjegjës për zhvillimin urban, vendos shpronësimin e këtyre pasurive.
+
+2. Kur shpronësimi është kryer me kërkesën e një subjekti juridik privat, ministri përgjegjës për zhvillimin urban i kërkon Agjencisë Shtetërore për Shpronësimin (ASHSH) që, mbi kërkesën paraprake të këtij subjekti, të bëjë kalimin e pronësisë së pasurive të shpronësuara nga shteti në favor të subjektit privat që ka kërkuar shpronësimin, me kushtin që të jetë vërtetuar sipas ligjit realizimi i ndërtimit ose i investimit për interes publik, për të cilin është kryer shpronësimi.
 
 3. Kur kërkuesi privat nuk kërkon kalimin e pronësisë në favor të tij, pronësia mbetet në favor të shtetit.
 
@@ -60,15 +62,17 @@ Neni 6
 
 Të drejta dhe privilegje të pronarit të pasurisë pronë private që shpronësohet
 
-1. Në rastet kur pronari ka vdekur ose është shpallur i zhdukur dhe nuk është lëshuar dëshmia e trashëgimisë, ministria kompetente, ka të drejtën e paraqitjes së kërkesës për lëshimin e dëshmisë së trashëgimisë në gjykatën kompetente, nëse një kërkesë e tillë nuk është paraqitur ose refuzojnë ta paraqesin të interesuarit.
+(ndryshuar pika 1 dhe ndryshuar emërtimi në pikat 2, 3 dhe 5 me ligjin nr. 11/2020, datë 12.2.2020)
 
-2. Kur në përfundim të procedurave dhe afateve të parashikuara me këtë ligj, lidhur me njoftimin dhe publikimin e kërkesës për shpronësim, nuk gjendet pronari i pasurive pronë private që kërkohet të shpronësohen, ministria kompetente vazhdon procedurat e shpronësimit dhe masa e shpërblimit, që i takon pronarit të shpronësuar, depozitohet në bankë për llogari të këtij të fundit.
+1. Në rastet kur pronari ka vdekur ose është shpallur i zhdukur dhe nuk është lëshuar dëshmia e trashëgimisë, Agjencia Shtetërore për Shpronësimin ose subjektet e interesuara për shpronësimin kanë të drejtë të paraqesin kërkesën për lëshimin e dëshmisë së trashëgimisë, sipas rregullave të përcaktuara në Kodin Civil dhe në ligjin për noterinë, në rast se kërkesa nuk është paraqitur ose refuzohet të paraqitet nga subjektet e interesuara.
 
-3. Kur nuk dihet pronari i pasurive pronë private që kërkohet të shpronësohen, në zbatim të nenit 172 të Kodit Civil, ministri kompetent është i autorizuar me këtë ligj të kërkojë në gjykatë kalimin e këtyre pasurive në pronësi të shtetit. Shpenzimet gjyqësore dhe të përfaqësimit janë në ngarkim dhe parapaguhen nga kërkuesi i shpronësimit.
+2. Kur në përfundim të procedurave dhe afateve të parashikuara me këtë ligj, lidhur me njoftimin dhe publikimin e kërkesës për shpronësim, nuk gjendet pronari i pasurive pronë private që kërkohet të shpronësohen, Agjencia Shtetërore për Shpronësimin vazhdon procedurat e shpronësimit dhe masa e shpërblimit, që i takon pronarit të shpronësuar, depozitohet në bankë për llogari të këtij të fundit.
+
+3. Kur nuk dihet pronari i pasurive pronë private që kërkohet të shpronësohen, në zbatim të nenit 172 të Kodit Civil, Agjencia Shtetërore për Shpronësimin është i autorizuar me këtë ligj të kërkojë në gjykatë kalimin e këtyre pasurive në pronësi të shtetit. Shpenzimet gjyqësore dhe të përfaqësimit janë në ngarkim dhe parapaguhen nga kërkuesi i shpronësimit.
 
 4. Nuk lejohet shpronësimi kur pronari i pasurisë pronë private merr përsipër realizimin e interesit publik dhe të qëllimit për të cilin kërkohet shpronësimi nga një subjekt juridik privat, i parashikuar në shkronjat "c" dhe "ç" të nenit 8 të këtij ligji dhe duke plotësuar të njëjtat kushte ligjore dhe garanci për respektimin e afateve përkatëse.
 
-5. Kur pronarët e pasurive pronë private, nëpërmjet një deklarate me shkrim, japin pëlqimin dhe pranojnë kalimin e pronësisë së këtyre pasurive në favor të shtetit në përputhje me kushtet e ofruara nga ministria kompetente nëpërmjet njoftimit të drejtpërdrejtë dhe publikimit të kërkesës së shpronësimit për interes publik, procedura e shpronësimit për këto pasuri quhet e përfunduar.
+5. Kur pronarët e pasurive pronë private, nëpërmjet një deklarate me shkrim, japin pëlqimin dhe pranojnë kalimin e pronësisë së këtyre pasurive në favor të shtetit në përputhje me kushtet e ofruara nga Agjencia Shtetërore për Shpronësimin nëpërmjet njoftimit të drejtpërdrejtë dhe publikimit të kërkesës së shpronësimit për interes publik, procedura e shpronësimit për këto pasuri quhet e përfunduar.
 
 6. Pronari i shpronësuar ose trashëgimtarët e tij gëzojnë të drejtën e parablerjes në rastin kur pasuritë e tyre, që kanë qenë objekt i shpronësimit, si dhe projektet ose investimet e realizuara mbi to, vihen në shitje ose tjetërsohen në çdo mënyrë nga shteti ose subjekti privat përfitues i shpronësimit.
 
@@ -76,13 +80,15 @@ Neni 7
 
 Objekte të shpronësimit
 
-Objekte të shpronësimit janë pasuritë e paluajtshme në formën e tokës, të ndërtimeve të çdo lloji me karakter të përhershëm, si dhe pasuritë e luajtshme të treguara në shkronjat "e" dhe "ë"  të nenit 8 të këtij ligji.
+(ndryshuar me ligjin nr. 11/2020, datë 12.2.2020)
+
+Objekte të shpronësimit janë pasuritë e paluajtshme në formën e tokës, të ndërtimeve të çdo lloji, me karakter të përhershëm, pasuritë e luajtshme të treguara në shkronjat “e” dhe “ë”, të nenit 8, të këtij ligji, kulturat bujqësore, si dhe çdo investim tjetër i trupëzuar në tokën bujqësore, që do të shpronësohet.
 
 Neni 8
 
 Shkaku i shpronësimit
 
-(shtuar shkronja “f”, me ligjin nr. 20/2016, datë 10.3.2016
+(shtuar shkronja “f”, me ligjin nr. 20/2016, datë 10.3.2016, ndryshuar shkronja “ë” dhe shtuar shkronja “g” me ligjin nr. 11/2020, datë 12.2.2020)
 
 Në funksion të interesit publik, shpronësimi mund të bëhet për këto shkaqe:
 
@@ -90,7 +96,7 @@ a) Për realizimin e detyrimeve të shtetit që rrjedhin nga traktatet dhe konve
 
 b) Për realizimin e programeve, të projekteve dhe investimeve, të parashikuara në marrëveshje ndërkombëtare me shtrirje në territorin e disa shteteve, ku shteti ynë është palë.
 
-c) Për realizimin e projekteve dhe të investimeve, që paraqesin interes ose shtrirje territoriale kombëtare ose vendore në fushën e transporteve të çdo lloji, të energjitikës, të telekomunikacionit, të veprave ujore të çdo lloji, në shërbim dhe interes të publikut.
+c) Për realizimin e projekteve dhe të investimeve, që paraqesin interes ose shtrirje territoriale kombëtare ose vendore në fushën e transporteve të çdo lloji, të energjetikës, të telekomunikacionit, të veprave ujore të çdo lloji, në shërbim dhe interes të publikut.
 
 ç) Për realizimin e projekteve dhe investimeve kombëtare ose vendore, në funksion të ruajtjes së mjedisit, të shëndetit, kulturës dhe arsimit publik, si dhe të infrastrukturës, në shërbim dhe interes të publikut.
 
@@ -100,9 +106,11 @@ dh) Për mbrojtjen e monumenteve dhe objekteve të paluajtshme të karakterit ar
 
 e) Për mbrojtjen e objekteve të luajtshme me vlerë historike, arkeologjike, kulturore ose shkencore në rastet kur, edhe me realizimin e detyrimeve të organeve kompetente sipas ligjit, këto objekte rrezikohen të dëmtohen ose të zhduken.
 
-ë) Për rastet kur objekte të luajtshme e të paluajtshme, për shkaqe objektive ose forcë madhore, krijojnë rrezik të përhershëm për sigurinë dhe shëndetin publik, në atë shkallë që me gjithë ndihmën e shtetit, këto rreziqe nuk mund të parandalohen nga pronari i tyre.
+ë) Për rastet kur objekte të luajtshme e të paluajtshme, për shkaqe objektive, në kushtet e degradimit ose forcës madhore, krijojnë rrezik të përhershëm për sigurinë dhe shëndetin publik ose krijojnë rreziqe për zhvillimin e qëndrueshëm, në atë shkallë që me gjithë ndihmën e shtetit, këto rreziqe nuk mund të parandalohen nga pronari i tyre.
 
 f) Për realizimin e investimeve strategjike, sipas legjislacionit në fuqi.
+
+g) Për përballimin e pasojave të fatkeqësisë natyrore, sipas parashikimeve të legjislacionit në fuqi.
 
 Neni 9
 
@@ -112,13 +120,13 @@ Subjekti në favor të të cilit bëhet shpronësimi
 
 1. Shpronësimi mund të bëhet në favor të shtetit dhe të personave juridikë publikë ose privatë, vendas ose të huaj, për realizimin nga ana e tyre të një projekti, investimi apo objekti që, në çdo rast në përputhje me këtë ligj, paraqet interes publik.
 
-2. Personi juridik privat mund të paraqesë kerkesë për shpronësim për  interes publik, vetëm lidhur me shkaqet e shpronësimit të parashikuara në shkronjat “c”,  “ç” dhe “f  të nenit 8 të këtij ligji.
+2. Personi juridik privat mund të paraqesë kërkesë për shpronësim për  interes publik, vetëm lidhur me shkaqet e shpronësimit të parashikuara në shkronjat “c”,  “ç” dhe “f  të nenit 8 të këtij ligji.
 
 Neni 10
 
 Kërkesa dhe dokumentet shoqëruese të kërkesës për shpronësim
 
-1. Subjekti, në favor të të cilit bëhet shpronësimi, duhet të paraqesë ne ministrinë kompetente sipas ligjit, kërkesën për shpronësim. Kjo kërkesë duhet të shoqërohet me këtë dokumentacion:
+1. Subjekti, në favor të të cilit bëhet shpronësimi, duhet të paraqesë në Agjencinë Shtetërore për Shpronësimin kërkesën për shpronësim. Kjo kërkesë duhet të shoqërohet me këtë dokumentacion:
 
 a) Aktet që vërtetojnë cilësinë dhe regjistrimin e tij si person juridik.
 
@@ -126,7 +134,7 @@ b) Projektet e nevojshme dhe të miratuara sipas ligjit, si dhe argumentet përk
 
 c) Dokumentacioni lidhur me burimin dhe garantimin e fondeve financiare të nevojshme për realizimin e projektit, duke përfshirë edhe ato të shpronësimit apo të zhvlerësimit.
 
-ç) Vlerësimi paraprak i objekteve të shpronësimit dhe i masës së shpërblimit që parashikohet për seicilin pronar privat.
+ç) Vlerësimi paraprak i objekteve të shpronësimit dhe i masës së shpërblimit që parashikohet për secilin pronar privat.
 
 d) Lejet dhe miratimet përkatëse nga organet kompetente sipas ligjit, në përputhje me natyrën dhe llojin e projektit që kërkohet të realizohet.
 
@@ -142,25 +150,41 @@ e) Lista e pronarëve të pasurive pronë private për të cilat kërkohet shpro
 
 Neni 11
 
-Ministria kompetente për shpronësimin
+Ministria përgjegjëse për zhvillimin urban dhe Agjencia Shtetërore për Shpronësimin
 
-1. Kërkesat për shpronësim paraqiten në ministrinë që mbulon veprimtarinë përkatëse, ndërsa propozimi në Këshillin e Ministrave për miratimin e kërkesës për shpronësim, bëhet nga ministri përkatës.
+(ndryshuar titulli, pika 1 dhe shtuar pikat 5 dhe 6 me ligjin nr. 11/2020, datë 12.2.2020)
 
-2. Me paraqitjen e kërkesës për shpronësim për interes publik, ministri kompetent urdhëron ngritjen e komisionit të posaçëm për ndjekjen dhe realizimin e procedurave të shpronësimit.
+1. Kërkesa për shpronësim paraqitet në Agjencinë Shtetërore për Shpronësimin, ndërsa propozimi në Këshillin e Ministrave për miratimin e kërkesës për shpronësim bëhet nga ministri përgjegjës për zhvillimin urban.
+
+2. Me paraqitjen e kërkesës për shpronësim për interes publik, Agjencia Shtetërore për Shpronësimin urdhëron ngritjen e komisionit të posaçëm për ndjekjen dhe realizimin e procedurave të shpronësimit.
 
 3. Anëtarët e komisioneve duhet të jenë nëpunës ose ekspertë të pavarur, me përvojë dhe kualifikim të posaçëm në fushën juridike, ekonomike dhe inxhinierike, të cilët, në çdo rast, nuk duhet të kenë lidhje fisnore apo krushqie me të shpronësuarit, ose lidhje interesash të çdo lloji me palët e interesuara për shpronësimin.
 
 4. Rregullat për përbërjen dhe procedurat e punës së komisionit të posaçëm për shpronësimet caktohen me akt normativ të Këshillit të Ministrave.
 
+5. Agjencia Shtetërore për Shpronësimin është institucion në varësi të ministrit përgjegjës për zhvillimin urban, e cila, përveç detyrave të tjera të përcaktuara në këtë ligj, kryen edhe detyrat e mëposhtme:
+
+a) planifikon dhe trajton kërkesat për shpronësim nga institucionet përkatëse;
+
+b) përllogarit masën e shpronësimit për çdo pronë të prekur nga shpronësimi;
+
+c) mbikëqyr ecurinë e procesit të shpronësimeve;
+
+ç) krijon bazën e të dhënave për të gjitha shpronësimet dhe likuidimet e çdo shpronësimi;
+
+d) ka të drejtë të hyjë në negociata me subjektet që shpronësohen, për sa i përket vlerës së shpronësimit dhe afatit të shlyerjes së kësaj vlere. Rregullat e hollësishme për mënyrën e negocimit me subjektet e shpronësuara përcaktohen nga Këshilli i Ministrave, me propozimin e ministrit përgjegjës për zhvillimin urban.
+
+6. Këshilli i Ministrave, me propozimin e ministrit përgjegjës për zhvillimin urban, përcakton mënyrën e organizimit dhe të funksionimit të agjencisë.
+
 Neni 12
 
 Kthimi pa veprim dhe refuzimi i kërkesës
 
-1. Ministria kompetente kryen verifikimet e nevojshme për subjektin kërkues, në favor të të cilit kërkohet shpronësimi, për dokumentacionin e paraqitur, për shkakun e shpronësimit, si dhe administron aktet e pronësisë për objektet e shpronësimit, duke kryer, nëse është e nevojshme, edhe verifikime në vend.
+1. Agjencia Shtetërore për Shpronësimin kryen verifikimet e nevojshme për subjektin kërkues, në favor të të cilit kërkohet shpronësimi, për dokumentacionin e paraqitur, për shkakun e shpronësimit, si dhe administron aktet e pronësisë për objektet e shpronësimit, duke kryer, nëse është e nevojshme, edhe verifikime në vend.
 
-2. Në rastet kur dokumentacioni i paraqitur nga kërkuesi nuk është i plotë ose i saktë, ministria kompetente i kthen menjëherë pa veprim kërkuesit të shpronësimit kërkesën e shpronësimit dhe dokumentacionin shoqërues të tij sipas këtij neni, duke caktuar edhe afat të posaçëm për plotësimet përkatëse.
+2. Në rastet kur dokumentacioni i paraqitur nga kërkuesi nuk është i plotë ose i saktë, Agjencia Shtetërore për Shpronësimin i kthen menjëherë pa veprim kërkuesit të shpronësimit kërkesën e shpronësimit dhe dokumentacionin shoqërues të tij sipas këtij neni, duke caktuar edhe afat të posaçëm për plotësimet përkatëse.
 
-3. Kur kërkesa dhe dokumentacioni shoqërues nuk paraqiten të plotësuar në afatin e caktuar ose gjenden të pambështetur, për mungesë të shkakut ose të kushteve të shpronësimit sipas këtij ligji, kërkesa refuzohet nga ministria dhe i njoftohet menjëherë kërkuesit të shpronësimit.
+3. Kur kërkesa dhe dokumentacioni shoqërues nuk paraqiten të plotësuar në afatin e caktuar ose gjenden të pambështetur, për mungesë të shkakut ose të kushteve të shpronësimit sipas këtij ligji, kërkesa refuzohet nga Agjencia Shtetërore për Shpronësimin dhe i njoftohet menjëherë kërkuesit të shpronësimit.
 
 4. Kërkuesi i shpronësimit ka të drejtën e ankimit në gjykatë brenda 30 ditëve nga data e marrjes së njoftimit.
 
@@ -170,9 +194,9 @@ Neni 13
 
 Pranimi i kërkesës
 
-1. Në përfundim të verifikimeve të nevojshme, si dhe të procedurave të parashikuara në nenin 12 të këtij ligji, kur kërkesa dhe dokumentacioni shoqërues përkatës janë të mbështetur në kushtet dhe kriteret e këtij ligji, ministria kompetente vendos për pranimin e kërkesës për shpronësim, duke njoftuar menjëherë me shkrim subjektin kërkues në favor të të cilit kërkohet të bëhet shpronësimi.
+1. Në përfundim të verifikimeve të nevojshme, si dhe të procedurave të parashikuara në nenin 12 të këtij ligji, kur kërkesa dhe dokumentacioni shoqërues përkatës janë të mbështetur në kushtet dhe kriteret e këtij ligji, Agjencia Shtetërore për Shpronësimin vendos për pranimin e kërkesës për shpronësim, duke njoftuar menjëherë me shkrim subjektin kërkues në favor të të cilit kërkohet të bëhet shpronësimi.
 
-2. Brenda 10 ditëve nga data e njoftimit të pranimit të kërkesës për shpronësim ndërmjet subjektit kërkues në favor të të cilit kërkohet të bëhet shpronësimi dhe ministrisë kompetente, lidhet një marrëveshje për të drejtat dhe detyrimet e ndërsjella, lidhur me procedurën e shpronësimit. Në rastin e kërkuesit subjekt privat kjo marrëveshje bëhet me akt noterial.
+2. Brenda 10 ditëve nga data e njoftimit të pranimit të kërkesës për shpronësim ndërmjet subjektit kërkues në favor të të cilit kërkohet të bëhet shpronësimi dhe Agjencisë Shtetërore për Shpronësimin, lidhet një marrëveshje për të drejtat dhe detyrimet e ndërsjella, lidhur me procedurën e shpronësimit. Në rastin e kërkuesit subjekt privat kjo marrëveshje bëhet me akt noterial.
 
 3. Në aktmarrëveshje palët marrin përsipër plotësimin e detyrimeve të caktuara ose që përcaktohen në këtë ligj në afatet përkatëse. Aktmarrëveshja është titull ekzekutiv.
 
@@ -182,7 +206,7 @@ Neni 14
 
 Njoftimi i kërkesës për shpronësim
 
-1. Ministria kompetente, brenda 10 ditëve nga data e lidhjes së marrëveshjes me subjektin kërkues të shpronësimit, fillon përmbushjen e procedurave të njoftimit të drejtpërdrejtë të secilit pronar a bashkëpronar të pasurive pronë private që kërkohet të shpronësohen ose zhvlerësohen, si dhe personave të tretë lidhur me kompensimin e tyre. Së bashku me procedurat e njoftimit, ministri kompetent realizon edhe ato të publikimit të kërkesës për shpronësim për interes publik.
+1. Agjencia Shtetërore për Shpronësimin, brenda 10 ditëve nga data e lidhjes së marrëveshjes me subjektin kërkues të shpronësimit, fillon përmbushjen e procedurave të njoftimit të drejtpërdrejtë të secilit pronar a bashkëpronar të pasurive pronë private që kërkohet të shpronësohen ose zhvlerësohen, si dhe personave të tretë lidhur me kompensimin e tyre. Së bashku me procedurat e njoftimit, ministri kompetent realizon edhe ato të publikimit të kërkesës për shpronësim për interes publik.
 
 2. Rregullat e hollësishme për mënyrën e njoftimit, përmbajtjen e tij dhe procedurat përkatëse caktohen me akt normativ të Këshillit të Ministrave.
 
@@ -190,11 +214,13 @@ Neni 15
 
 Publikimi i kërkesës për shpronësim për interes publik
 
-1. Njëkohësisht me njoftimin e kërkesës për shpronësim për interes publik, sipas pikës 1 të nenit 14 të këtij ligji, për të krijuar mundësitë për mbrojtjen e të drejtave dhe interesave të personave të tretë ndaj ose për shkak të pasurive pronë private që kërkohet të shpronësohen, ministria kompetente bën publikimin e kërkesës për shpronësim në Fletoren Zyrtare, në një gazetë me shpërndarje në të gjithë vendin dhe në një gazetë vendore për një periudhë njëjavore.
+(ndryshuar pika 1 me ligjin nr. 11/2020, datë 12.2.2020)
 
-2. Personat e tretë, jo më vonë se 15 ditë nga data e plotësimit të afateve të publikimit sipas këtij neni, kanë të drejtë të paraqesin pretendimet e tyre të shoqëruara me dokumentet përkatëse në ministrinë kompetente.
+1. Agjencia Shtetërore për Shpronësimin njëkohësisht me njoftimin e kërkesës për shpronësim për interes publik, sipas pikës 1, të nenit 14, të këtij ligji, për të krijuar mundësinë për mbrojtjen e të drejtave dhe të interesave të personave të tretë ndaj ose për shkak të pasurisë, pronë private, që kërkohet të shpronësohet, bën publikimin e kërkesës për shpronësim në Fletoren Zyrtare dhe në faqen e internetit të ASHSH-së.
 
-3. Në rastin kur pretendimet e personave të tretë mbi pronësinë, si dhe për kushtet e ofruara të shpronësimit, vërtetohen se janë të mbështetura në ligj, ministria kompetente procedon me shpronësimin, duke respektuar edhe këto të drejta.
+2. Personat e tretë, jo më vonë se 15 ditë nga data e plotësimit të afateve të publikimit sipas këtij neni, kanë të drejtë të paraqesin pretendimet e tyre të shoqëruara me dokumentet përkatëse në Agjencinë Shtetërore për Shpronësimin.
+
+3. Në rastin kur pretendimet e personave të tretë mbi pronësinë, si dhe për kushtet e ofruara të shpronësimit, vërtetohen se janë të mbështetura në ligj, Agjencia Shtetërore për Shpronësimin procedon me shpronësimin, duke respektuar edhe këto të drejta.
 
 Neni 16
 
@@ -202,23 +228,27 @@ Konfliktet gjyqësore dhe paraqitja e pretendimeve
 
 1. Ministri kompetent nuk mund të kërkojë në Këshillin e Ministrave marrjen e vendimit të shpronësimit përpara një afati njëmujor nga dita e përfundimit të procedurave dhe afateve të njoftimit të drejtpërdrejtë të pronarit që shpronësohet dhe e publikimit të kërkesës për shpronësim sipas këtij ligji.
 
-2. Ngritja e padive ose shqyrtimi gjyqësor i një çështjeje civile, lidhur me pasurinë pronë private që kërkohet të shpronësohet, nuk përbën shkak ligjor për të kërkuar apo vendosur nga gjykata ndërprerjen ose pezullimin e procedurave të shpronësimit sipas këtij ligji. Gjykata ose ministria kompetente duhet të njoftojnë menjëherë njëra-tjetrën për këto raste. Ministria kompetente është e detyruar që, me përfundimin e procedurës së shpronësimit, të vendosë masën e shpërblimit ose të kompensimit të pasurisë pronë private të shpronësuar apo të zhvlerësuar, në një llogari të posaçme bankare. Masa e shpërblimit ose e kompensimit i paguhet apo vendoset në dispozicion të personit që rezulton nga vendimi i formës së prerë të gjykatës, pasi të jetë vënë në dijeni ministria kompetente.
+2. Ngritja e padive ose shqyrtimi gjyqësor i një çështjeje civile, lidhur me pasurinë pronë private që kërkohet të shpronësohet, nuk përbën shkak ligjor për të kërkuar apo vendosur nga gjykata ndërprerjen ose pezullimin e procedurave të shpronësimit sipas këtij ligji. Gjykata ose ministria kompetente duhet të njoftojnë menjëherë njëra-tjetrën për këto raste. Agjencia Shtetërore për Shpronësimin është e detyruar që, me përfundimin e procedurës së shpronësimit, të vendosë masën e shpërblimit ose të kompensimit të pasurisë pronë private të shpronësuar apo të zhvlerësuar, në një llogari të posaçme bankare. Masa e shpërblimit ose e kompensimit i paguhet apo vendoset në dispozicion të personit që rezulton nga vendimi i formës së prerë të gjykatës, pasi të jetë vënë në dijeni ministria kompetente.
 
-3. Brenda 15 ditëve nga data e njoftimit sipas këtij ligji ose të afatit të publikimit të kërkesës për shpronësim, pronari, bashkëpronarët apo personat e tretë duhet të vënë në dijeni ministrinë kompetente, duke u shprehur edhe nëse pranojnë kalimin vullnetar të pronësisë me kushtet e ofruara prej saj.
+3. Brenda 15 ditëve nga data e njoftimit sipas këtij ligji ose të afatit të publikimit të kërkesës për shpronësim, pronari, bashkëpronarët apo personat e tretë duhet të vënë në dijeni Agjencisë Shtetërore për Shpronësimin, duke u shprehur edhe nëse pranojnë kalimin vullnetar të pronësisë me kushtet e ofruara prej saj.
 
-4. Ministria kompetente, brenda 15 ditëve nga marrja e përgjigjes nga i njoftuari, por në çdo rast jo më përpara se 1 muaj nga data e fundit e afatit të publikimit të kërkesës për shpronësim për interes publik, në rastet kur të njoftuarit kanë pranuar kushtet e ofruara prej saj apo i ka gjetur si të drejta edhe pretendimet e paraqitura prej tyre, në kuadrin e shpronësimit dhe me autoritetin e organit që bën shpronësimin, kryen me të njoftuarit, sipas rastit, veprimet për kalimin e pronësisë në favor të shtetit kundrejt shpërblimit apo pagesës së masës të kompensimit për zhvlerësimin e pasurive pronë private ose të të drejtave të të tretëve për shkak të shpronësimit. Me përmbushjen e detyrimeve të ndërsjella, procedura e shpronësimit të këtyre pasurive pronë private, quhet e përfunduar.
+4. Agjencia Shtetërore për Shpronësimin, brenda 15 ditëve nga marrja e përgjigjes nga i njoftuari, por në çdo rast jo më përpara se 1 muaj nga data e fundit e afatit të publikimit të kërkesës për shpronësim për interes publik, në rastet kur të njoftuarit kanë pranuar kushtet e ofruara prej saj apo i ka gjetur si të drejta edhe pretendimet e paraqitura prej tyre, në kuadrin e shpronësimit dhe me autoritetin e organit që bën shpronësimin, kryen me të njoftuarit, sipas rastit, veprimet për kalimin e pronësisë në favor të shtetit kundrejt shpërblimit apo pagesës së masës të kompensimit për zhvlerësimin e pasurive pronë private ose të të drejtave të të tretëve për shkak të shpronësimit. Me përmbushjen e detyrimeve të ndërsjella, procedura e shpronësimit të këtyre pasurive pronë private, quhet e përfunduar.
 
-5. Me pëlqimin e ministrit kompetent, veprimet e mësipërme mund të kryhen edhe tej afateve të lartpërmendura edhe sikur propozimi për shpronësim të jetë paraqitur në Këshillin e Ministrave, përderisa nga ky i fundit nuk është vendosur shpronësimi.
+5. Me pëlqimin e Agjencisë Shtetërore për Shpronësimin, veprimet e mësipërme mund të kryhen edhe tej afateve të lartpërmendura edhe sikur propozimi për shpronësim të jetë paraqitur në Këshillin e Ministrave, përderisa nga ky i fundit nuk është vendosur shpronësimi.
 
 Neni 17
 
 Vlerësimi i objekteve që shpronësohen
 
-1. Në përfundim të procedurave të parashikuara në nenet 14 e 15 të këtij ligji, komisioni i posaçëm, që ngrihet nga ministri kompetent, kryen veprimet për identifikimin e vlerësimin përfundimtar, si dhe për llogaritjen e masës së shpërblimit për objektet që shpronësohen.
+(shtuar fjalë në pikën 1 dhe shtuar pika 4 me ligjin nr. 11/2020, datë 12.2.2020)
+
+1. Në përfundim të procedurave të parashikuara në nenet 14 e 15 të këtij ligji, komisioni i posaçëm, që ngrihet nga Agjencia Shtetërore për Shpronësimin, kryen veprimet për identifikimin e vlerësimin përfundimtar, si dhe për llogaritjen e masës së shpërblimit për objektet që shpronësohen dhe llojin e shpërblimit.
 
 2. Në vlerësimin e pasurive pronë private që shpronësohen, të pasurive të tjera që zhvlerësohen apo të të drejtave të të tretëve që duhet të kompensohen për shkak të shpronësimit, sipas natyrës së tyre, merren parasysh vlera fillestare e tyre, amortizimi, destinacioni, vendndodhja e objektit, indekset e ndryshimit të çmimeve të tregut dhe të monedhës.
 
-3. Kriteret e tjera teknike të vlerësimit dhe të përllogaritjes së masës të shpërblimit të pasurive pronë private që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të tjera të per
+3. Kriteret e tjera teknike të vlerësimit dhe të përllogaritjes së masës të shpërblimit të pasurive pronë private që shpronësohen, të pasurive që zhvlerësohen dhe të të drejtave të tjera të personave të tretë, sipas këtij ligji, caktohen nga Këshilli i Ministrave.
+
+4. Masa e shpërblimit për pasuritë, pronë private, që shpronësohen për interes publik, për realizimin e projekteve dhe të investimeve në bazë të një marrëveshjeje ndërkombëtare të ratifikuar me ligj, llogaritet në përputhje me parashikimet e marrëveshjes, në rastet kur atje përcaktohet edhe mënyra e përllogaritjes së masës së shpërblimit.
 
 Neni 18
 
@@ -230,25 +260,29 @@ Kompensimi për vlerën e zhvlerësimit të pronës
 
 Neni 19
 
-Llogaritja e shpërblimit
+Llogaritja dhe lloji i shpërblimit
 
-Mbi bazën e vlerës që, rezulton nga vlerësimi përfundimtar i objekteve që shpronësohen, përllogaritet masa e shpërblimit përkatës, në masë të njëjtë me vlerën e plotë të tij.
+(ndryshuar me ligjin nr. 11/2020, datë 12.2.2020)
+
+1. Mbi bazën e vlerës që rezulton nga vlerësimi përfundimtar i objekteve që shpronësohen, përllogaritet masa e shpërblimit përkatës, në masë të njëjtë me vlerën e plotë të tij.
+
+2. Përjashtimisht kompensimit në vlerë, sipas parashikimeve në këtë ligj, shpërblimi mund të bëhet dhe në natyrë për rastet dhe sipas rregullave që përcaktohen me vendim të Këshillit të Ministrave.
 
 Neni 20
 
 Propozimi për shpronësim
 
-Me përfundimin e procedurave paraprake të shpronësimit, ministri kompetent i paraqet Këshillit të Ministrave propozimin për shpronësim, të shoqëruar me këtë dokumentacion:
+(ndryshuar me ligjin nr. 11/2020, datë 12.2.2020)
 
-a) Relacioni përmbledhës për qëllimin, shkakun dhe nevojën e shpronësimit, për afatin e fillimit dhe të mbarimit të shpronësimit, si dhe për afatin e fillimit e të përfundimit të punimeve ose të realizimit të qëllimit të shpronësimit.
+1. Me përfundimin e procedurave paraprake të shpronësimit, Agjencia Shtetërore për Shpronësimin i paraqet ministrit përgjegjës për zhvillimin urban propozimin për shpronësim, të shoqëruar me dokumentacionin si më poshtë:
 
-b) Dokumentet që kërkohen në shkronjat "a" deri "dh" të nenit 10 të këtij ligji.
+a) Relacionin përmbledhës për qëllimin, shkakun dhe nevojën e shpronësimit, afatin e fillimit e të mbarimit të shpronësimit, si dhe për afatin e fillimit e të përfundimit të punimeve ose të realizimit të qëllimit të shpronësimit, në të cilin citohen edhe dokumentet që kërkohen në shkronjat “a” deri në “dh”, të nenit 10, të këtij ligji.
 
-c) Lista përfundimtare e pronarëve të pasurive që shpronësohen ose që zhvlerësohen dhe aktet përkatëse të pronësisë, si dhe lista e personave të tretë, të drejtat e të cilëve duhet të kompensohen për shkak të shpronësimit.
+b) Listën përfundimtare të pronarëve të pasurive, pronë private, që shpronësohen ose që zhvlerësohen, e cila përmban edhe të dhënat identifikuese për aktet përkatëse kadastrale, si dhe listën e personave të tretë, të drejtat e të cilëve duhet të kompensohen për shkak të shpronësimit.
 
-ç) Dokumentacioni i vlerësimit të pasurive që shpronësohen e zhvlerësohen, i të drejtave të të tretëve që lidhen me to dhe të masës së shpërblimit apo kompensimit të propozuar me argumentet përkatëse.
+c) Dokumentacionin që citon bazën ligjore përkatëse për vlerësimin e pasurive që shpronësohen e zhvlerësohen, e të drejtave të të tretëve që lidhen me to, dhe të masës së shpërblimit apo kompensimit të propozuar.
 
-d) Dokumentet që vërtetojnë shpenzimet e procedurës së shpronë-simit.
+2. Ministri, në rast se dokumentacioni i paraqitur në pikën 1, të këtij neni, është i plotë, dërgon në Këshillin e Ministrave projektvendimin për miratimin e shpronësimit.
 
 Neni 21
 
@@ -280,7 +314,7 @@ Neni 22
 
 Refuzimi i kërkesës për shpronësim
 
-Kur për kërkesën e pranuar nga ministria kompetente, refuzohet shpronësimi nga Këshilli i Ministrave, kërkuesit të shpronësimit i kthehen nga ministria kompetente të gjitha fondet e depozituara për procedurën e shpronësimit.
+Kur për kërkesën e pranuar nga Agjencia Shtetërore për Shpronësimin, refuzohet shpronësimi nga Këshilli i Ministrave, kërkuesit të shpronësimit i kthehen nga ministria kompetente të gjitha fondet e depozituara për procedurën e shpronësimit.
 
 Neni 23
 
@@ -292,7 +326,7 @@ Neni 24
 
 Ankimi i vendimit
 
-1. Vendimi i Këshillit të Ministrave për shpronësimin u njoftohet nga ministria kompetente drejtpërdrejt pronarëve të shpronësuar, pronarëve të pasurive që zhvlerësohen nga shpronësimi dhe personave të tretë, të drejtat e të cilëve kompensohen për shkak të shpronësimit, të cilët vetëm lidhur me masën e shpërblimit të caktuar në këtë vendim kanë të drejtën e ankimit në gjykatë brenda 30 ditëve nga marrja dijeni.
+1. Vendimi i Këshillit të Ministrave për shpronësimin u njoftohet nga Agjencia Shtetërore për Shpronësimin drejtpërdrejt pronarëve të shpronësuar, pronarëve të pasurive që zhvlerësohen nga shpronësimi dhe personave të tretë, të drejtat e të cilëve kompensohen për shkak të shpronësimit, të cilët vetëm lidhur me masën e shpërblimit të caktuar në këtë vendim kanë të drejtën e ankimit në gjykatë brenda 30 ditëve nga marrja dijeni.
 
 2. Ankimi kundër vendimit të Këshillit të Ministrave për shpronësimin nuk pezullon zbatimin e këtij vendimi dhe procedurën përkatëse të regjistrimit  të pasurisë së shpronësuar.
 
@@ -304,7 +338,9 @@ Neni 25
 
 Regjistrimi i ri i pasurive të shpronësuara
 
-Në rastet kur pasuritë pronë private të shpronësuara duhet të regjistrohen sipas ligjit, ky regjistrim duhet të kryhet nga ministri kompetent brenda 30 ditëve nga data e marrjes së vendimit të Këshillit të Ministrave për shpronësimin.
+(ndryshuar me ligjin nr. 11/2020, datë 12.2.2020)
+
+	Pasuritë pronë private, të shpronësuara, duhet të regjistrohen sipas ligjit. Ky regjistrim duhet të kryhet nga Agjencia Shtetërore e Kadastrës, brenda 30 ditëve, nga data e marrjes së vendimit të Këshillit të Ministrave për shpronësimin.
 
 Neni 26
 
@@ -393,6 +429,12 @@ DISPOZITA KALIMTARE DHE TË FUNDIT
 Neni 38
 
 Për procedurat e shpronësimit, për të cilat, sipas nenit 7 të ligjit nr.7848, datë 25.7.1994 "Për shpronësimet për interes publik dhe marrjen në përdorim të përkohshëm të pasurisë së paluajtshme", është bërë publikimi i kërkesës për shpalljen e shpronësimit të pasurisë së paluajtshme për interes publik nga Këshilli i Ministrave, do të zbatohen dispozitat e ligjit nr.7848, datë 25.7.1994.
+
+DISPOZITA KALIMTARE
+
+(vendosur me ligjin nr. 11/2020, datë 12.2.2020)
+
+	Procedurat e shpronësimit, të nisura përpara ngritjes së Agjencisë Shtetërore për Shpronësimin, do të vijojnë të kryhen nga ministritë kompetente, sipas dispozitave që kanë qenë në fuqi në çastin e nisjes së procedurave.
 
 Neni 39
 
