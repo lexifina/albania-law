@@ -1,0 +1,27 @@
+{
+  "qbz_id": 6175,
+  "title": "Për ushqimin",
+  "type": "Ligj",
+  "number": "9863",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2008-01-28",
+  "version_no": 1,
+  "qbz_version_id": 658,
+  "in_force": "2020-02-12",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2020-02-12",
+  "changed_by_qbz_id": 21235,
+  "changed_by_number": "16",
+  "changed_by_title": "Për disa ndryshime dhe shtesa në ligjin nr. 9863, datë 28.1.2008, “Për ushqimin”, të ndryshuar",
+  "source": "https://qbz.gov.al/files/910ab07988f38d7f3b9731a98bc4e097211b07f25aec3175ab58aaf9a16965a2.docx",
+  "source_sha256": "910ab07988f38d7f3b9731a98bc4e097211b07f25aec3175ab58aaf9a16965a2",
+  "official_record": "https://qbz.gov.al/api/v1/acts/6175",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/6175/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
