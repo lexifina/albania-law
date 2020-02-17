@@ -1,0 +1,1 @@
+1. Delegimin e kompetencave të titullarit të Drejtorisë të Përgjithshëm të Arkivave, z. Endrit Musaj, drejtor i Inspektimit dhe i Trajnimeve, për shkak të mungesës me arsye të titullarit të këtij institucioni.
