@@ -42,16 +42,20 @@ Formulari i vetëdeklarimit shkarkohet nga faqja zyrtare e Ministrisë së Turiz
 Neni 6
 Dokumentacioni i aplikimit për pajisjen me certifikatë kategorizimi
 1. Dokumentacioni që duhet të paraqesë subjekti:
-a) kërkesë për t’u pajisur me certifikatë kategorizimi sipas modelit, shtojca 2 bashkëlidhur kësaj rregulloreje;
-b) formularin e vetëdeklarimit, sipas modelit, shtojca 3 bashkëngjitur kësaj rregulloreje;
-c) akti i pronësisë ose përdorimit të strukturës;
-ç) vërtetim për regjistrimin në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese;
-d) planimetrinë e strukturës akomoduese;
-dh) vërtetimin që struktura plotëson kushtet për masat e mbrojtjes nga zjarri lëshuar nga Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri dhe Shpëtimi;
-e) vërtetimin që struktura plotëson kushtet higjieno-sanitare, lëshuar nga Instituti i Shëndetit Publik;
-ë) foto të brendshme dhe të jashtme të objektit;
-f) vërtetim i gjendjes gjyqësore të pronarit/administratorit.
+1.1 Dokumentacioni i detyrueshëm:
+a) kërkesë për t’u pajisur me certifikatë kategorizimi sipas modelit, shtojca 2, bashkëlidhur kësaj rregulloreje;
+b) formularin e vetdeklarimit, sipas modelit, shtojca 3, bashkëngjitur kësaj rregulloreje;
+c) vërtetim për regjistrimin në Qendrën Kombëtare të Biznesit si person fizik/juridik me objekt veprimtarie si strukturë akomoduese;
+d) vërtetim i gjendjes gjyqësore të pronarit/administratorit.
+1.2 Dokumentacioni shoqërues:
+a) akti i pronësisë ose përdorimit të strukturës;
+b) planimetrinë e strukturës akomoduese;
+c) vërtetimin që struktura plotëson kushtet për masat e mbrojtjes nga zjarri lëshuar nga Drejtoria e Përgjithshme e Mbrojtjes nga Zjarri dhe Shpëtimi;
+d) vërtetimin që struktura plotëson kushtet higjeno-sanitare, lëshuar nga Instituti i Shëndetit Publik;
+e) foto të brendshme dhe të jashtme të objektit.
 2. Dokumentacioni dhe/ose vërtetimet e kërkuara në pikën 1 të këtij neni, paraqiten në format origjinal ose kopje të noterizuara.
+3. Dokumentacioni i germave “c” dhe “d”, të pikës 1.1, në rast se nuk paraqitet nga subjekti do të sigurohet, nëpërmjet portalit e-albania nga ministria përgjegjëse për turizmin.
+4. Dokumentacioni shoqërues, në rast se nuk është depozituar nga subjekti në momentin e aplikimit, duhet të dorëzohet brenda datës 31.12.2020, pranë ministrisë përgjegjëse për turizmin.
 Neni 7
 Procedura e shqyrtimit të dokumentacionit për kategorizimin e strukturave akomoduese
 1. Komisioni i standardizimit, brenda 45 ditëve nga data e depozitimit të kërkesës, formularit të vetëdeklarimit, dokumentacionit të parashikuar në nenin 6 të kësaj rregulloreje dhe raportit përmbledhës, rast pas rasti, të grupit të punës, shqyrton dhe vlerëson dokumentet dhe të dhënat për përmbushjen e kritereve të kërkuara për kategorizimin e strukturës akomoduese.
