@@ -1,0 +1,1 @@
+9. Nëse provohet që ndihma e menjëhershme financiare është dhënë në kundërshtim të përcaktimeve të këtij vendimi ose në vendimin e organit procedues rezulton se dëmi i shkaktuar nuk ka ardhur për shkak të detyrës, punonjësi është i detyruar të kthejë në masën 100% shumën e përfituar.

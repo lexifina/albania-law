@@ -1,0 +1,1 @@
+1. Punonjësi me gradë i Shërbimit të Mbrojtjes nga Zjarri dhe Shpëtimin, në vijim punonjësi, përfiton ndihmë të menjëhershme financiare në rastet kur prona e luajtshme apo e paluajtshme i është dëmtuar si pasojë e veprës penale, të kryer në dëm të tij për shkak të detyrës dhe për rastin është referuar në prokurori.

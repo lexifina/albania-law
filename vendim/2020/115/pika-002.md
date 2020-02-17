@@ -1,0 +1,1 @@
+2. Punonjësi, në rast të dëmtimit të rëndë të pronës së luajtshme apo paluajtshme për shkak të detyrës, përfiton ndihmë të menjëhershme financiare në masën 100% të vlerës së pronës së dëmtuar, por jo më shumë se 1 000 000 (një milion) lekë.

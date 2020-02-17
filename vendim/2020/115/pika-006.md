@@ -1,0 +1,1 @@
+6. Kryetari i bashkisë përkatëse urdhëron, brenda 5 (pesë) ditëve nga paraqitja e kërkesës së punonjësit, ngritjen e Komisionit të Verifikimit të Faktit dhe Vlerësimin e Dëmit, në vijim Komisioni, në përbërje të të cilit duhet të ketë edhe specialistë të vlerësimit të pronave të luajtshme apo të paluajtshme.

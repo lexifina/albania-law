@@ -1,0 +1,1 @@
+4. Punonjësit i jepet ndihmë e menjëhershme financiare, sipas këtij vendimi, vetëm në rast se nuk ka përfituar dëmshpërblim nga shoqëritë e sigurimit, sipas legjislacionit për veprimtarinë e sigurimit dhe të risigurimit.
