@@ -1,0 +1,1 @@
+26. Tarifa për kryerjen e shërbimit të rivlerësimit pranë ASHK-së, për pasuritë e paluajtshme në proces regjistrimi, është në masën 1 200 (një mijë e dyqind) lekë dhe do të ketë kodin RVP në formularin e aplikimit.

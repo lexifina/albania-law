@@ -1,0 +1,8 @@
+16. Individi apo përfaqësuesi i tij me prokurë, në çdo rast, paraqitet me dokument identifikimi pranë zyrës pritëse të ASHK-së. Ai pajiset me dy kopje të paplotësuara të formularit “Kërkesë për rivlerësim” nga punonjësi përgjegjës.
+16.1 Individi apo përfaqësuesi i tij me prokurë plotëson dy pikat e para të formularit. Të dhënat e plotësuara në formular dhe në dokumentacionin bashkëlidhur (kopje të dokumentit të pronësisë) verifikohen sipas përcaktimeve të pikës 10, të kreut III, të këtij vendimi.
+16.2 Në rast përputhjeje të të dhënave, punonjësi përgjegjës plotëson pikën 3, të formularit, me vlerën e zbritshme.
+16.3 Punonjësi llogarit tatimin që paguhet për regjistrimin e këtij rivlerësimi, sipas kreut II, të këtij vendimi, duke plotësuar pikën 4, të formularit, “Kërkesë për rivlerësim”.
+16.4 Pas plotësimit të të gjitha pikave të mësipërme të formularit “Kërkesë për rivlerësim”, punonjësi përgjegjës e nënshkruan atë dhe një kopje ia jep individit ose përfaqësuesit të tij. Individi ose përfaqësuesi i tij, pajiset gjithashtu me faturën për arkëtim (shtojca nr. 3) për pagesën e tatimit, si dhe për tarifat e shërbimit.
+16.5 Individi, pasi paguan në bankë tatimin dhe tarifën e shërbimit, dorëzon vërtetimin e pagesës së tyre pranë drejtorisë vendore të ASHK-së. Vërtetimi i pagesës i bashkëlidhet formularit të aplikimit.
+16.6 Pas kryerjes së pagesës së tatimit dhe tarifave të shërbimit, aplikimi konsiderohet i plotësuar dhe drejtorisë vendore i lind detyrimi që, përveç regjistrimit të pasurisë në regjistrat e pasurive të paluajtshme, të bëjë edhe pasqyrimin e rivlerësimit në regjistrin e pasurive, sipas rregullave të parashikuara në kreun VI, të këtij vendimi.
+IV. RIVLERËSIMI I PASURISË SË PALUAJTSHME NË PROCES REGJISTRIMI PËR PERSONAT JURIDIKË

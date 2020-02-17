@@ -1,0 +1,1 @@
+20. Formulari u vihet në dispozicion klientëve-individë nga drejtoritë/zyrat vendore të ASHK-së dhe klientëve-persona juridikë nga drejtoritë rajonale tatimore. Gjithashtu, ky formular mund të shkarkohet edhe elektronikisht në faqen zyrtare të Drejtorisë së Përgjithshme të Tatimeve.

@@ -1,0 +1,1 @@
+11. Nëse aplikimi i përmbush kushtet e pikës 10, të këtij kreu, dhe dokumentacioni i regjistrimit të pasurisë është në përputhje me ligjin nr. 111/2018, vijohet me llogaritjen e tatimit të rivlerësimit, sipas rregullave të kreut II, të këtij vendimi, duke hartuar faturën për arkëtim.

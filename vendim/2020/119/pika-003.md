@@ -1,0 +1,1 @@
+3. Në rast se individi ka aplikuar apo do të aplikojë, brenda datës 30.9.2020, për të regjistruar më shumë se një pasuri të paluajtshme dhe do të bëjë rivlerësimin e secilës prej tyre, procedura e rivlerësimit është individuale për secilën prej këtyre pasurive.

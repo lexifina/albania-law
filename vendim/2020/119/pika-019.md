@@ -1,0 +1,1 @@
+19. Pagesa e tatimit nga rivlerësimi i pasurive të paluajtshme në proces regjistrimi kryhet pranë bankave të nivelit të dytë, sipas formularit “Fatura për arkëtim”, sipas modelit të shtojcës nr. 3 dhe të shtojcës nr. 4, që i bashkëlidhen këtij vendimi.

@@ -1,0 +1,2 @@
+8. Individi ose përfaqësuesi i tij aplikon online për shërbimin e rivlerësimit të pasurisë në proces regjistrimi, nëpërmjet portalit qeveritar e-Albania. Në mënyrë që të pajiset me dokumentin zyrtar, që pasqyron regjistrimin e rivlerësimit, ai duhet të aplikojë edhe për shërbimin e pajisjes me kopje të kartelës së pasurisë së paluajtshme, ose të vërtetimit (për pasuritë që nuk i janë nënshtruar regjistrimit fillestar).
+Aplikimi për shërbimet i drejtohet drejtorisë/zyrës vendore të ASHK-së që është kompetente për territorin ku po regjistrohet pasuria e paluajtshme.

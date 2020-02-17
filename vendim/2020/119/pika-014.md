@@ -1,0 +1,2 @@
+14. Pasi të jetë verifikuar shlyerja e pagesës së tatimit të rivlerësimit dhe të tarifave të shërbimit, aplikimi i individit konsiderohet i plotësuar dhe ASHK-së i lind detyrimi që, përveç regjistrimit të pasurisë në regjistrat e pasurive të paluajtshme, të bëjë edhe pasqyrimin e rivlerësimit në regjistrin e pasurive, sipas rregullave të parashikuara në kreun VI, të këtij vendimi.
+B. Aplikimi në sportel

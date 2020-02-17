@@ -1,0 +1,1 @@
+12. Fatura për arkëtim plotësohet sipas modelit të shtojcës nr. 3 që i bashkëlidhet vendimit dhe është pjesë përbërëse e tij. Fatura nënshkruhet dhe vuloset elektronikisht nga drejtoria vendore e ASHK-së dhe, së bashku me tarifat e shërbimit, i dërgohet aplikuesit nëpërmjet portalit qeveritar e-Albania.
