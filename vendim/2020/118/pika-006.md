@@ -1,0 +1,1 @@
+6. Në rastet kur pasuria e paluajtshme, e regjistruar në bilancin e shoqërisë, është e ndërtuar nga vetë shoqëria apo nga një nënkontraktor, si shoqëri ndërtuese, si vlerë e pasurisë do të konsiderohet vlera e investimit e dorëzuar në organet e pushtetit vendor për efekt të llogaritjes së taksës së ndikimit në infrastrukturë.
