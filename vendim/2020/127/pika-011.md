@@ -1,0 +1,1 @@
+11. Materialet e mbledhura si pjesë e veprimtarive kërkimore mbeten pronë e Republikës së Shqipërisë ose e pronarit nga i cili janë mbledhur fillimisht dhe kthehen me përfundimin e veprimtarisë kërkimore, nëse nuk është rënë dakord ndryshe, në përputhje me kuadrin ligjor në fuqi për mbrojtjen e mjedisit.

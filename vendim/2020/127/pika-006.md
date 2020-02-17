@@ -1,0 +1,1 @@
+6. Kërkesa me shkrim shoqërohet me informacionin e nevojshëm, sipas shtojcave 1, 2 e 3, dhe formularin e vetëdeklarimit, sipas shtojcës 4, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse e tij.

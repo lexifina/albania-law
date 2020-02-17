@@ -1,0 +1,1 @@
+9. Në rast se AKZM-ja konstaton se kërkesa e paraqitur nga subjektet kërkuese, të parashikuara në pikën 4, të këtij vendimi, nuk plotëson kushtet/kriteret e përcaktuara në këtë vendim, Agjencia njofton subjektet për të bërë plotësimet e nevojshme brenda një afati 10-ditor (dhjetëditor).

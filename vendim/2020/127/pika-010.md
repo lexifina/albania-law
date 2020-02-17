@@ -1,0 +1,1 @@
+10. AKZM-ja, pas plotësimit të dokumentacionit, shqyrton kërkesën brenda afatit të parashikuar në pikën 7, të këtij vendimi dhe, në përputhje me kushtet/kriteret e këtij vendimi, brenda 7 (shtatë) ditëve, nxjerr aktin e miratimit ose të refuzimit për veprimtarinë.
