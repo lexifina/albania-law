@@ -1,0 +1,1 @@
+1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës 1, Njësia Administrative Golem, Bashkia Kavajë, zonë e re për zhvillim.
