@@ -1,0 +1,1 @@
+7. Procesverbali i dëmit, sipas formatit të miratuar me urdhër të ministrit, firmoset nga të dyja palët. Mosfirmosja e tij nga personi juridik ose fizik, publik ose privat, vendas a i huaj, ose nga përfaqësuesi i tij, nuk e bën atë të pavlefshëm.

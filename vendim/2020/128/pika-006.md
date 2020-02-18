@@ -1,0 +1,1 @@
+6. Strukturat përgjegjëse për ushtrimin e kontrollit, të përcaktuara në pikën 5, të këtij vendimi, zbatojnë procedurat e parashikuara në ligjin nr. 10433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë”.

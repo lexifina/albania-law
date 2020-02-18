@@ -1,0 +1,1 @@
+13. AKZM-ja është përgjegjëse për përdorimin e të gjitha të ardhurave të realizuara në territorin e zonave të mbrojtura mjedisore nga aktiviteti ekonomik, përfshirë edhe pagesat e vlerës së dëmit, sipas ligjit nr. 81/2017, “Për zonat e mbrojtura”, në përputhje edhe me dispozitat e akteve të tjera, ligjore e nënligjore, në fuqi.

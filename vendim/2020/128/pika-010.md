@@ -1,0 +1,1 @@
+10. AKZM-ja, pas marrjes së raportit të rivlerësimit të dëmit, përcakton datën për shqyrtimin e pretendimeve të personit juridik ose fizik, publik ose privat, vendas a të huaj, e cila iu njoftohet atyre zyrtarisht, me qëllim paraqitjen e provave mbi pretendimet e ngritura.

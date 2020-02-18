@@ -1,0 +1,1 @@
+11. AKZM-ja, brenda 10 (dhjetë) ditëve, njofton me shkrim personin juridik ose fizik, publik ose privat, vendas a i huaj, për vendimin e marrë. Në rastet e mospranimit ndaj vendimit të dhënë, bazuar në dispozitat ligjore dhe në aktet nënligjore në fuqi, bëhet ankim, në përputhje me legjislacionin në fuqi për kundërvajtjet administrative.

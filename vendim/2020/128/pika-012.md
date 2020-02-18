@@ -1,0 +1,1 @@
+12. Të ardhurat e siguruara nga mbledhja e vlerës së dëmit, e shkaktuar në zonë të mbrojtur mjedisore, administrohet në llogarinë e të ardhurave të AKZM-së dhe përdoren në përputhje me nenin 58, të ligjit nr. 81/2017, “Për zonat e mbrojtura”.
