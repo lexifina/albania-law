@@ -1,0 +1,1 @@
+1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës 2, Njësia Administrative Lezhë, Bashkia Lezhë, zonë e re për zhvillim.
