@@ -1,0 +1,1 @@
+1. Shpalljen si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, të zonës 3, njësia administrative Durrës, Bashkia Durrës, zonë e re për zhvillim.
