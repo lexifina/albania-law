@@ -1,0 +1,1 @@
+1. Ky projektvendim ka për qëllim përcaktimin e kushteve, rregullave dhe dokumenteve që shoqërojnë kërkesën për dhënien e lejes së ndërtimit për rindërtimin, riparimin apo restaurimin e ndërtimeve të destinuara për qëllime banimi, të dëmtuara si pasojë e fatkeqësisë natyrore, për përjashtimin nga pagesa e taksës së ndikimit në infrastrukturë.
