@@ -1,0 +1,1 @@
+17. Ekuivalentimi/njëvlershmëria e programeve të studimit dhe të kualifikimeve të kryera në institucionet e arsimit të lartë jashtë vendit, në fushën e mbrojtjes dhe të sigurisë kombëtare, rregullohet me udhëzim të përbashkët të ministrit përgjegjës për mbrojtjen dhe të ministrit përgjegjës për arsimin.

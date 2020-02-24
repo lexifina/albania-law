@@ -1,0 +1,1 @@
+10. AFA-ja, si institucion i arsimit të lartë në fushën e mbrojtjes dhe të sigurisë kombëtare, ka në përbërje personel akademik, personel ndihmësakademik, personel trajnues dhe personel administrativ.

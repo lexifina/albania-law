@@ -1,0 +1,1 @@
+1. Akademia e Forcave të Armatosura (në vijim “AFA”) është institucioni i vetëm publik i arsimit të lartë në fushën e mbrojtjes dhe të sigurisë kombëtare, së cilës i jepet status i veçantë dhe ka varësi nga ministri përgjegjës për mbrojtjen dhe ministri përgjegjës për arsimin.

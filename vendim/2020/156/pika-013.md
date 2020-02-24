@@ -1,0 +1,1 @@
+13. Pranimi i studentëve në AFA kryhet sipas procedurës, standardeve dhe kritereve të përcaktuara nga legjislacioni në fuqi dhe sipas nevojave të Ministrisë së Mbrojtjes, të Forcave të Armatosura të Republikës së Shqipërisë dhe institucioneve të tjera të mbrojtjes e të sigurisë kombëtare.

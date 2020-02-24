@@ -1,0 +1,1 @@
+16. Akreditimi institucional i AFA-së dhe i programeve të studimit që ai ofron bëhet nga strukturat përgjegjëse, sipas legjislacionit në fuqi, duke respektuar statusin e veçantë të AFA-së dhe standardet respektive të NATO-s.

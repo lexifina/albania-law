@@ -1,0 +1,1 @@
+9. AFA-ja, për përmbushjen e përgjegjësive të saj, bashkëpunon me institucionet e arsimit të lartë, brenda dhe jashtë vendit, me akademitë homologe rajonale, të NATO-s dhe atyre të vendeve partnere në fushën e mbrojtjes dhe të sigurisë kombëtare.

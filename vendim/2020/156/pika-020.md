@@ -1,0 +1,1 @@
+20. Struktura dhe organika e AFA-së përfshihen në strukturën e Forcave të Armatosura të Republikës së Shqipërisë, miratohen nga Kryeministri, me propozimin e ministrit të Mbrojtjes dhe nuk mund të ndryshohen pa përfunduar viti akademik.

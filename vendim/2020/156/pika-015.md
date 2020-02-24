@@ -1,0 +1,1 @@
+15. Ministri përgjegjës për mbrojtjen përcakton politikat e arsimit të lartë në fushën e mbrojtjes dhe të sigurisë kombëtare, në përputhje me nevojat AFA-së, si dhe garanton që veprimtaria e funksionimi i AFA-së të zhvillohen në përputhje me standardet e arsimit të lartë dhe të kërkimit shkencor në Republikën e Shqipërisë.

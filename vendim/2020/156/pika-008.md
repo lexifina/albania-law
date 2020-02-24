@@ -1,0 +1,7 @@
+8. AFA-ja, si institucion i arsimit të lartë në fushën e mbrojtjes dhe të sigurisë kombëtare, përgatit dhe jep ekspertizë lidhur me fushat, si më poshtë vijojnë:
+a) kryerjen e studimeve të karakterit teoriko-shkencor në fushat e mbrojtjes dhe të sigurisë kombëtare, që t’i paraprijë zhvillimeve në mjedisin strategjik të mbrojtjes dhe të sigurisë kombëtare;
+b) dhënien e ekspertizës lidershipit civil dhe ushtarak të Republikës së Shqipërisë, për hartimin e politikës së mbrojtjes dhe formulimin e dokumenteve kryesore strategjike, si: Strategjia e Sigurisë Kombëtare, Strategjia Ushtarake, rishikimi strategjik i mbrojtjes, doktrinat e përdorimit të forcave etj.
+c) mbështetjen e Forcave të Armatosura në Republikën e Shqipërisë, të institucioneve të mbrojtjes e të sigurisë kombëtare, të vendit dhe atyre partnere, nëpërmjet përdorimit të programeve simulative, kryerjen e testimeve, eksperimenteve dhe kërkimit shkencor;
+ç) menaxhimin e procesit akademik në interes të përmirësimit të koncepteve dhe bazës doktrinare ushtarake;
+d) monitorimin dhe vlerësimin e standardeve tё NATO-s, mbi bazën e tё cilave siguron bazat teorike dhe aplikative të arkitekturës së sistemit doktrinar të Forcave të Armatosura në Republikën e Shqipërisë, si: doktrina, direktiva, manuale teknike dhe taktike, në përdorim të Forcave të Armatosura të Republikës së Shqipërisë;
+e) në përmbushje të misionit dhe detyrave të saj, në aspektin doktrinar dhe të stërvitjes, AFA-ja luan edhe rolin e Komandës së Doktrinave dhe Stërvitjes.

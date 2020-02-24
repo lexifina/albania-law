@@ -1,0 +1,1 @@
+11. Personeli akademik, sipas rolit dhe veprimtarisë që kryen, kategorizohet në profesorë, lektorë, asistent-lektorë. Për personelin akademik ushtarak të AFA-së, vetëm për efekt të veprimtarisë akademike, bëhet ekuivalentimi i gradave ushtarake me gradat shkencore dhe titujt akademikë të personelit akademik.

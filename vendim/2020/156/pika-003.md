@@ -1,0 +1,1 @@
+3. AFA-ja zhvillon veprimtari mësimore e shkencore në fushën e mbrojtjes e të sigurisë kombëtare. Ajo ka si mision arsimimin, kualifikimin dhe kërkimin shkencor në fushën e mbrojtjes e të sigurisë kombëtare të personelit ushtarak e civil, për të gjitha nivelet e drejtimit të Forcave të Armatosura, si dhe të institucioneve të tjera të sigurisë kombëtare.

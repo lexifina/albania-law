@@ -1,0 +1,1 @@
+5. Mënyra e organizimit dhe e funksionimit të organeve kolegjiale, drejtuesit e njësive kryesore dhe të njësive bazë mësimore e kërkimore të AFA-së, përbërja e bordit të administrimit, si dhe kompetencat e administratorit të AFA-së parashikohen në statutin e saj, në përputhje me legjislacionin në fuqi për arsimin e lartë.
