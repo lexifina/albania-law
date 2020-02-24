@@ -1,1 +1,0 @@
-6. Studentët e ciklit të parë ose të dytë, të cilët nuk i japin të gjitha provimet apo e përfundojnë vitin me notë mesatare më të ulët se nota 8 (vlerësimi ndërkombëtar, sistemi anglosakson B), nuk përfitojnë bursë për vitet pasardhëse. Afatet për dorëzimin dhe shqyrtimin e aplikimeve për këta kandidatë përcaktohen me udhëzim të ministrit të Arsimit dhe Sportit.
