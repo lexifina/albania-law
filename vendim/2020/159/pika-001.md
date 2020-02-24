@@ -1,0 +1,1 @@
+1. Miratimin e fondit të shpenzimeve të Autoritetit të Komunikimeve Elektronike dhe Postare (AKEP), për vitin 2020, për shumën 384 760 000 (treqind e tetëdhjetë e katër milionë e shtatëqind e gjashtëdhjetë mijë) lekë, sipas pasqyrës nr. 1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
