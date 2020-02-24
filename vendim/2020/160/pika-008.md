@@ -1,0 +1,1 @@
+8. Studentët e ciklit të tretë “Doktoratë”, të cilët nuk i shlyejnë të gjitha detyrimet akademike të vitit përkatës, për të cilin përfitojnë bursë, nuk mbështeten nga Fondi i Ekselencës për vitet në vijim.

@@ -1,0 +1,1 @@
+10. Përfituesi dërgon në ministrinë përgjegjëse për arsimin diplomën e studimeve, të financuara nga programi i Fondit të Ekselencës, dhe jetëshkrimin e tij, brenda 30 ditëve, nga marrja e diplomës nga universiteti përkatës.

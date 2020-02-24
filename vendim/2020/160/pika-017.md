@@ -1,0 +1,1 @@
+17. Vendimi nr. 483, datë 16.7.2014, i Këshillit të Ministrave, “Për mbështetjen financiare të studentëve të shkëlqyer dhe të nëpunësve civilë të administratës shtetërore (Fondi i Ekselencës)”, shfuqizohet.

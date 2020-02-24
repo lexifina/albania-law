@@ -1,0 +1,1 @@
+7. Studentët e ciklit të dytë, të cilët nuk i japin të gjitha provimet apo e përfundojnë vitin me notë mesatare më të ulët se nota 8 (vlerësimi ndërkombëtar, sistemi anglosakson B), nuk përfitojnë bursë për vitin e dytë.
