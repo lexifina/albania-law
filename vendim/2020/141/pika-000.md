@@ -1,0 +1,1 @@
+I. Përcaktimin e aktiviteteve, të kritereve dhe të procedurave për tatimpaguesit që ushtrojnë veprimtari ekonomike në industrinë automotive, të cilët aplikojnë shkallën e tatimit mbi fitimin në masën 5%, sipas kritereve dhe procedurave të përcaktuara në këtë vendim.
