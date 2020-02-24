@@ -1,0 +1,1 @@
+1. Caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese për projektimin, rindërtimin dhe rikonstruksionin e objekteve arsimore të dëmtuara nga tërmeti në bashkitë: Durrës, Kamzë, Kavajë, Rrogozhinë, Krujë, Kurbin, Lezhë, Mirditë, Shijak dhe Vorë.
