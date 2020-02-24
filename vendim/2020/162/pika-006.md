@@ -1,0 +1,1 @@
+6. Përdorimi i ndonjërës prej përshtatjeve për një vit të caktuar rishikohet dhe vlerësohet nëse plotëson kushtet përkatëse të përcaktuara në pikat 1 e 2, të këtij kreu, dhe në pjesën 4, të aneksit IV, ose, kur është e aplikueshme, nëse plotësohen kushtet e përcaktuara në pikat 3, 4 ose 5, të këtij kreu.

@@ -1,0 +1,1 @@
+4. Objekt i këtij vendimi janë shkarkimet e ndotësve të referuar në aneksin I, që vijnë nga të gjitha burimet e lëvizshme e të palëvizshme që ndodhen në territorin e Republikës së Shqipërisë, zonat ekskluzive ekonomike dhe zonat e kontrollit të ndotjes.
