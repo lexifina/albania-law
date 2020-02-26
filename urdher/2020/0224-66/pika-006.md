@@ -1,0 +1,2 @@
+6. Ngarkohen për zbatimin e këtij urdhri, Sekretari i Përgjithshëm në Ministrinë e Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, Drejtoria e Derregullimit, Lejeve, Licencave dhe Monitorimit në MASR, institucioni arsimor vendor, përgjegjës për arsimin parauniversitar dhe institucioni arsimor parauniversitar privat, “Udha e Shkronjave”, Tiranë.
+Ky urdhër hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
