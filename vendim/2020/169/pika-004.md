@@ -1,0 +1,1 @@
+4. Ministria përgjegjëse për trashëgiminë kulturore dhe/ose në bashkëpunim me institucionet e specializuara harton planet e menaxhimit, proces që drejtohet e bashkërendohet nga Instituti Kombëtar për Trashëgiminë Kulturore (në vijim, IKTK), në përputhje me legjislacionin në fuqi për trashëgiminë kulturore dhe me këtë vendim.

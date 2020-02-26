@@ -1,0 +1,1 @@
+2. Plani i menaxhimit ka për qëllim planifikimin, bashkërendimin e kompetencave të aktorëve që veprojnë në pasurinë kulturore, si dhe minimizimin e rreziqeve për vlerën kulturore, optimizimin e gëzimin e saj, duke ofruar kushte për akses, informim, ruajtje dhe mbrojtje.

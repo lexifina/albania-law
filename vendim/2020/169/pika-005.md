@@ -1,0 +1,1 @@
+5. Plani i menaxhimit hartohet nga ministria përgjegjëse për trashëgiminë kulturore, me propozim/kërkesë nga partnerë/investitorë/donatorë, pasi partneri/investitori/donatori është dakordësuar më parë me ministrinë përgjegjëse për trashëgiminë kulturore.

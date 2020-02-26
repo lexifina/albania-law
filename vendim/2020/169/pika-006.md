@@ -1,0 +1,1 @@
+6. Për pasuritë kulturore të paluajtshme, në pronësi të subjekteve private apo në administrim të njësisë së vetëqeverisjes vendore, nisma për përgatitjen e planit të menaxhimit u takon këtyre të fundit, të cilët e përcjellin në strukturat përkatëse të ministrisë përgjegjëse për kulturën.
