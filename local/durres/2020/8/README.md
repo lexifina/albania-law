@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Durrës nr. 8, datë 27.2.2020
+# Vendimi i Këshillit Bashkiak Durrës nr. 8, datë 27.2.2020
 
 Title on the official site: Vendimi nr.8, date 27.02.2020
 
