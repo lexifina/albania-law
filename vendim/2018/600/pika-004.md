@@ -5,5 +5,5 @@ c) Të jetë në kushte shëndetësore që e lejojnë të kryejë detyrën përk
 ç) Të mos jetë i dënuar me vendim të formës së prerë për kryerjen e një vepre penale;
 d) Të mos ketë marrë masën disiplinore të largimit nga detyra në institucionet ku ka qenë i punësuar më parë;
 dh) Të ketë diplomë të ciklit të dytë ose diplomë të barasvlershme me të në fushën e edukimit, të shkencave sociale, sociologjisë, psikologjisë, drejtësisë;
-e) Të jetë jo më shumë se 40 vjeç;
+e) shfuqizuar;
 ë) Të ketë njohuri të mira kompjuterike.
