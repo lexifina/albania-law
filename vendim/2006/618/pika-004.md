@@ -1,1 +1,0 @@
-4. Vlerësimi i gjendjes mjekësore të personave me aftësi të kufizuar, të përcaktuar në pikat 1 dhe 2 të këtij vendimi, bëhet nga KMCAP-i, i cili është i ngritur dhe funksionon pranë Institutit të Sigurimeve Shoqërore, ku merr pjesë, si anëtar me të drejtë vote, edhe mjeku, punonjës i Shërbimit Social Shtetëror.

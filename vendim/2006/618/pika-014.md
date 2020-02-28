@@ -1,1 +1,0 @@
-14. Familjet, që kanë në përbërje dy a më shumë persona me aftësi të kufizuara, sipas pikave 1 dhe 2 të këtij vendimi, të cilët, me vendim të komisionit mjekësor, kanë nevojë për përkujdesje, përfitojnë pagesë për kujdestarin, në masën 150 për qind të masës së përcaktuar në pikën 8 të këtij vendimi.

@@ -1,1 +1,0 @@
-8. Masa e përfitimit për personat me aftësi të kufizuara, të përcaktuar sipas pikave 1 dhe 2 të këtij vendimi, është 6 800 (gjashtë mijë e tetëqind) lekë në muaj dhe indeksohet me rritjen e pagës minimale në shkallë vendi.

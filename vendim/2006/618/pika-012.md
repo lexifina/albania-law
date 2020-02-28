@@ -1,1 +1,0 @@
-12. Personat me aftësi të kufizuara, të përcaktuar sipas pikave 1 dhe 2, e përfitojnë pagesën shtesë edhe në rastet kur studimet zgjasin edhe një vit më shumë sesa kohëzgjatja normale e ciklit shkollor.

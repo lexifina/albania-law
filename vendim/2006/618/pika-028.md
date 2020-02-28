@@ -1,1 +1,0 @@
-28. Ngarkohen Ministria e Punës, Çështjeve Sociale dhe Shanseve të Barabarta, Ministria e Shëndetësisë, Shërbimi Social Shtetëror, Instituti i Sigurimeve Shoqërore dhe njësitë e qeverisjes vendore (bashki/komuna) për zbatimin e këtij vendimi.

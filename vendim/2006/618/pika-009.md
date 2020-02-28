@@ -1,1 +1,0 @@
-9. Personat me aftësi të kufizuara, të përcaktuar sipas pikave 1 dhe 2 këtij vendimi, të cilët ndjekin arsimin e mesëm, me ose pa shkëputje nga puna, apo kurse kualifikimi, përfitojnë 14 000 (katërmbëdhjetë mijë) lekë në muaj.
