@@ -1,0 +1,1 @@
+1. Caktimin e Fondit Shqiptar të Zhvillimit si njësi zbatuese për rindërtimin, sipas projekteve model, të shtëpive individuale të dëmtuara nga tërmeti, jashtë zonave të reja të shpallura në bashkitë: Durrës, Kamzë, Kavajë, Rrogozhinë, Krujë, Kurbin, Lezhë, Mirditë, Shijak dhe Vorë.
