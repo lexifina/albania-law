@@ -1,0 +1,1 @@
+24. Shpenzimet administrative të privatizimit përcaktohen rast pas rasti për çdo privatizim, duke llogaritur të gjitha shpenzimet e kryera për realizimin e procesit të privatizimit, si: regjistrimi i pronës, noterizimi i kontratave, taksa e tatime të aplikueshme e të ngjashme me këto, të cilat mbulohen nga përfituesi i privatizimit.

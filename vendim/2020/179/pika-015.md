@@ -1,0 +1,1 @@
+15. EKB-ja ose njësia përgjegjëse e privatizimit identifikon përfituesit e privatizimit, sipas pikave 2 e 3, të këtij vendimi, mbështetur në përcaktimet sipas certifikatës së gjendjes familjare të datës 1.12.1992.

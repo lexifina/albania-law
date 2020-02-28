@@ -1,0 +1,1 @@
+18. Subjekti i interesuar për privatizimin ka të drejtë t’i drejtohet me shkrim EKB-së ose njësisë së vetëqeverisjes vendore për çdo ankim lidhur me përllogaritjet e kryera në formularët e përcaktuar në këtë vendim. EKB-ja ose njësia e vetëqeverisjes vendore ka detyrimin t’i kthejë përgjigje me shkrim ankuesit brenda 10 (dhjetë) ditëve.

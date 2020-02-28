@@ -1,0 +1,1 @@
+13. Formulari përgatitet në 2 (dy) kopje, nga të cilat njëra i jepet personit përfitues dhe tjetra futet në dosjen e privatizimit nga përgjegjësi për privatizimin në EKB ose njësinë e vetëqeverisjes vendore, që përgatit e administron dosjen e privatizimit.

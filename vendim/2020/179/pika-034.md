@@ -1,0 +1,1 @@
+34. Kur ndonjë nga anëtarët madhorë të familjes, që figuron si pjesëtar i certifikatës së gjendjes familjare të saj, heq dorë nga privatizimi, atëherë e drejta e tij/saj u kalon anëtarëve të tjerë të familjes, duke u ndarë në pjesë të barabarta sipas rregullave për heqjen dorë, parashikuar në nenin 191, të Kodit Civil.

@@ -1,0 +1,1 @@
+17. Plotësimi i mangësive nga subjekti bëhet brenda 15 (pesëmbëdhjetë) ditëve nga data e marrjes së njoftimit nga EKB-ja ose njësia e vetëqeverisjes vendore. Mosplotësimi i mangësive brenda afatit të përcaktuar më sipër sjell mospranimin e kërkesës.
