@@ -1,0 +1,1 @@
+1. Drejtorisë së Shërbimeve Qeveritare, në buxhetin e miratuar për vitin 2020, në zërin “Shërbime qeveritare”, i shtohet fondi prej 44 000 000 (dyzet e katër milionë) lekësh për përballimin e shpenzimeve të organizimit të “Samitit Digjital të Ballkanit Perëndimor”, që do të organizohet në Tiranë, në datat 2 dhe 3 prill 2020.
