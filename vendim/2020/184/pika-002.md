@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, Qarku Fier, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit nga “tokë bujqësore” në “tokë urbane”, truall, të pasurisë me numër 12/28, zona kadastrale 3532, Bashkia Roskovec.

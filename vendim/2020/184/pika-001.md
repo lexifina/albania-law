@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore, të pasurisë me numër 12/28, zona kadastrale 3532, Bashkia Roskovec, sipas certifikatës së pronësisë të pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi.
