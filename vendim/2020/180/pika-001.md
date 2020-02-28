@@ -1,0 +1,1 @@
+1. Miratimin e kontratës, me ndarje prodhimi, e ndryshuar dhe e riformuluar, për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve në tokë, në Shqipëri, blloku “2-3”, ndërmjet Ministrisë së Infrastrukturës dhe Energjisë së Shqipërisë (e përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore/AKBN) dhe Shell Upstream Albania BV, sipas tekstit që i bashkëlidhet këtij vendimi.

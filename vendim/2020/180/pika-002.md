@@ -1,0 +1,1 @@
+2. Vendimi nr. 754, datë 8.7.2009, i Këshillit të Ministrave, “Për miratimin e kontratës, me ndarje prodhimi, për kërkimin, zhvillimin dhe prodhimin e hidrokarbureve, në Shqipëri, në tokë, në blloqet “2-3”, ndërmjet Ministrisë së Ekonomisë, Tregtisë dhe Energjetikës, përfaqësuar nga Agjencia Kombëtare e Burimeve Natyrore (AKBN) dhe ’DWM Petroleum AG’”, shfuqizohet.
