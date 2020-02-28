@@ -1,0 +1,1 @@
+13. Personat me aftësi të kufizuar, të përcaktuar në pikën 1, të kreut I, pajisen me dëshmi zyrtare identifikimi. Kriteret e dhënies së dëshmisë dhe forma e saj përcaktohen në rregulloren e Shërbimit Social Shtetëror.

@@ -1,0 +1,1 @@
+3. Vlerësimi i gjendjes mjekësore të personave të përcaktuar në pikën 1, të këtij kreu, bëhet nga komisionet mjekësore të caktimit të aftësisë për punë (KMCAP) të nivelit të parë, të Shërbimit Social Shtetëror.

@@ -1,0 +1,1 @@
+9. Rregullat e detajuara për organizimin dhe funksionimin e KMCAP-ve të nivelit të parë dhe të komisioneve eprore përcaktohen në rregulloren e miratuar me urdhër të ministrit përgjegjës për çështjet sociale.

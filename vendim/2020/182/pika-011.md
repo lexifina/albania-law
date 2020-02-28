@@ -1,0 +1,1 @@
+11. Masa e shpërblimit mujor të anëtarëve të komisioneve të nivelit të parë dhe komisioneve eprore bëhet në përputhje me legjislacionin në fuqi për përcaktimin e masës së shpërblimit të anëtarëve të këshillave, bordeve ose komisioneve të njësive të qeverisjes qendrore.
