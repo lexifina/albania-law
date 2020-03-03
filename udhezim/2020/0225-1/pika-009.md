@@ -1,0 +1,1 @@
+9. Inspektori/përgjegjësi i sektorit/drejtori i strukturës përgjegjëse të inspektimit, që kryen veprimtari inspektuese, më poshtë referohen me emrin “inspektor”, si për inspektorët shtetërorë ashtu edhe për inspektorët vendorë.

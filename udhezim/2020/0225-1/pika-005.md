@@ -1,0 +1,1 @@
+5. Ky proces përfshin trajnimin e detyrueshëm dhe testimin profesional fillestar përpara konfirmimit, në përfundim të kohës së provës, si dhe testimin periodik të inspektorëve. Në përfundim të trajnimit bëhet testimi me shkrim, në lidhje me njohuritë e përfituara gjatë trajnimit.

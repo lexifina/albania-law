@@ -1,0 +1,1 @@
+11. Moskalimi i testimit fillestar deri në përfundim të kohës së provës apo moskalimi në testimin periodik, për shkaqe që varen nga vetë inspektori, shkakton përkatësisht moskonfirmimin në fund të kohës së provës apo largimin nga detyra. Vendimi për largimin nga detyra, merret sipas procedurave të Kodit të Punës të Republikës së Shqipërisë, i ndryshuar.

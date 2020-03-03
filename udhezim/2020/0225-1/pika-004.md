@@ -1,0 +1,1 @@
+4. Kjo procedurë synon aftësimin profesional të inspektorëve shtetërorë dhe vendorë, si dhe përfitimin dhe përditësimin e njohurive shtesë, sipas funksioneve dhe fushës së inspektimit ku ata veprojnë, me qëllim përmirësimin e cilësisë dhe efektivitetit të veprimtarisë inspektuese.

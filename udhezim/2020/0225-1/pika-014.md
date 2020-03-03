@@ -1,0 +1,1 @@
+14. Inspektori që është vlerësuar “jokënaqshëm”, konsiderohet jo i përshtatshëm për pozicionin e punës ku është caktuar. Moskalimi i testimit fillestar deri në përfundim të kohës së provës, për shkaqe që varen nga vetë inspektori, shkakton moskonfirmimin në fund të kohës së provës dhe ndërprerjen e marrëdhënieve të punës.

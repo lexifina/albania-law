@@ -1,0 +1,1 @@
+12. Struktura përgjegjëse e inspektimit, kompetente për kryerjen e një funksioni inspektimi të parashikuar me ligj, pas miratimit nga Inspektorati Qendror, përcakton përputhshmërinë e kritereve të pozicionit të punës së inspektorit, me fushën e inspektimit përkatës.
