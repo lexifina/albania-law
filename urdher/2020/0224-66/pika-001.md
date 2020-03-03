@@ -1,1 +1,1 @@
-1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, “Udha e Shkronjave”, Tiranë, për të gjitha nivelet arsimore (parashkollor dhe arsimi i mesëm i ulët).
+1. Mbylljen e veprimtarisë së institucionit arsimor parauniversitar privat, “Udha e Shkronjave”, Tiranë, për të gjitha nivelet arsimore (parashkollor dhe arsimi i mesëm i ulët) në përfundim të vitit shkollor 2019-2020.
