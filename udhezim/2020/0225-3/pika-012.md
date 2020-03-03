@@ -1,0 +1,1 @@
+12. Sektori i kurrikulës, i Zhvillimit Profesional në ZVAP, merr nga Qendrat e Vlerësimit të Testeve dhe ruan të dhënat e çdo nxënësi, të vlerësuesve të testeve dhe të mjediseve ku janë realizuar provimet kombëtare të arsimit bazë. Këto të dhëna dërgohen nëpërmjet DRAP-së, në QSHA dhe DPAP.
