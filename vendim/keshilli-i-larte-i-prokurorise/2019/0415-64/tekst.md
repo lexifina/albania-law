@@ -4,6 +4,8 @@ Nr. 64, datë 15.4.2019
 
 PËR MIRATIMIN E RREGULLORES “PËR CAKTIMIN E PËRKOHSHËM TË PROKURORËVE”
 
+(ndryshuar me vendimin nr. 78, datë 4.3.2020)
+
 Në mbështetje të neneve 149/a të Kushtetutës së Republikës së Shqipërisë, neneve 189 dhe 164, pika 8, të ligjit nr. 115/2016 “Për organet e qeverisjes së sistemit të drejtësisë” dhe nenit 59, të ligjit nr. 96/2016 “Për statusin e gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”, Këshilli i Lartë i Prokurorisë
 
 VENDOSI:
@@ -36,11 +38,13 @@ Neni 3
 
 Kriteret për caktimin e përkohshëm të prokurorëve
 
+(shfuqizuar pika 3 me vendimin nr. 78, datë 4.3.2020)
+
 1. Prokurori mund të caktohet përkohësisht në çdo pozicion të të njëjtit nivel ose të një niveli tjetër, për të cilin përmbush kërkesat dhe kriteret e parashikuara në ligj për këtë nivel apo pozicion, në të njëjtën prokurori ku ushtron funksionin ose në një prokurori tjetër.
 
 2. Këshilli i Lartë i Prokurorisë respekton për aq sa është e mundur vullnetin e prokurorëve gjatë caktimit të përkohshëm.
 
-3. Këshilli nuk mund të caktojë përkohësisht një prokuror më shumë se katër herë në të njëjtin pozicion ose në një pozicion tjetër.
+3. Shfuqizuar.
 
 4. Gjatë procedurës së përzgjedhjes së prokurorit për caktimin në një pozicion të përkohshëm, Këshilli mban parasysh:
 
