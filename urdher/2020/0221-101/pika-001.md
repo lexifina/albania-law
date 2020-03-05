@@ -1,0 +1,1 @@
+1. Miratimin e Procedurave Standarde të Veprimit (PSV) për punonjëset dhe punonjësit e shërbimeve shëndetësore të cilat/cilët trajtojnë rastet e dhunës në familje dhe të dhunës me bazë gjinore, në kuadër të bashkëpunimit si anëtarë të Mekanizmave të Koordinuar të Referimit (MKR), sipas tekstit bashkëlidhur këtij urdhri.

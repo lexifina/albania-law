@@ -1,0 +1,2 @@
+2. Ngarkohen Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Shëndetësisë dhe Mbrojtjes Sociale në Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale, Operatori i Shërbimeve të Kujdesit Shëndetësor, drejtoritë rajonale të Operatorit të Shërbimeve të Kujdesit Shëndetësor, njësitë vendore të kujdesit shëndetësor, Shërbimi Social Shtetëror, drejtoritë rajonale të Shërbimit Social Shtetëror, si dhe drejtuesit e shërbimeve shëndetësore e të mbrojtjes sociale për zbatimit e këtij urdhri.
+Ky urdhër hyn në fuqi menjëherë.
