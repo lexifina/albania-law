@@ -1,0 +1,28 @@
+{
+  "qbz_id": 21226,
+  "title": "Mbi procedurën e shitjes së tepricave të energjisë elektrike në treg të parregulluar nga furnizuesi i tregut të lirë, FTL sh.a",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "24",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-02-10",
+  "published": "2020-03-05",
+  "in_force": "2020-03-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/14904a76e85579c0ccae36b70f6f9afc124be83eff52758fa2a5c9dc2ba1e800.docx",
+  "source_sha256": "14904a76e85579c0ccae36b70f6f9afc124be83eff52758fa2a5c9dc2ba1e800",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21226",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/02/10/24",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    64991
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
