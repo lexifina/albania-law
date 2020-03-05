@@ -1,0 +1,26 @@
+{
+  "qbz_id": 21230,
+  "title": "Mbi aplikimin e shoqërisë “Kroi Mbret Energji” sh.p.k., për licencim në veprimtarinë e prodhimit të energjisë elektrike nga HEC-et: “Backa 1”, me kapacitet të instaluar 1600 kw; HEC “Backa 2”, me kapacitet të instaluar 4000 kw; HEC “Backa A”, me kapacitet të instaluar 500 kw; HEC “Backa B”, me kapacitet të instaluar 500 kw; HEC “Backa C”, me kapacitet të instaluar 720 kw, me kapacitet total të instaluar 7320 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "28",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-02-10",
+  "published": "2020-03-05",
+  "in_force": "2020-03-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/8d1d41e46c935a20378bc61b39b3725dfaf6b01fd821730f23afd63e9e83a37d.docx",
+  "source_sha256": "8d1d41e46c935a20378bc61b39b3725dfaf6b01fd821730f23afd63e9e83a37d",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21230",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/02/10/28",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
