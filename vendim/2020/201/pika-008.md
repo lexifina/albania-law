@@ -1,0 +1,1 @@
+8. Struktura përgjegjëse për borxhin publik, në bashkëpunim me struktura të tjera të ministrisë përgjegjëse për financat në ministri, përgatit një raport përmbledhës, ku renditen ofertuesit pjesëmarrës në procedurë, të cilin ia dërgon për miratim ministrit.
