@@ -2,7 +2,7 @@
 
 Official source: [Vendim nr. 30, datë 14.2.2019 (Këshilli i Lartë Gjyqësor)](https://qbz.gov.al/api/v1/acts/55348); [QBZ versions](https://qbz.gov.al/api/v1/acts/55348/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2019-07-23; after QBZ act 20389 (nr. 140).
+Status of this text: `official consolidated version 2`, applying from 2020-03-06; after QBZ act 21269 (nr. 126).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

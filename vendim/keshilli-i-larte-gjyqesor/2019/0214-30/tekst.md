@@ -4,7 +4,7 @@ Nr. 30, datë 14.2.2019
 
 MBI MIRATIMIN E VENDIMIT PËR RREGULLAT DHE PROCEDURËN E CAKTIMIT TË GJYQTARIT PËR GJYKIMIN E NJË ÇËSHTJEJE GJYQËSORE TË VEÇANTË NË NJË GJYKATË TJETËR, TË NDRYSHME NGA AJO KU USHTRON FUNKSIONIN NË MËNYRË TË PËRHERSHME
 
-(ndryshuar me vendimin e KLGJ nr. 140, datë 23.7.2019 )
+(ndryshuar me vendimin e KLGJ nr. 140, datë 23.7.2019, nr. 126, datë 6.3.2020)
 
 Këshilli i Lartë Gjyqësor, i mbledhur sot më datë 14.2.2019, bazuar në nenet 4/3, 147/1, 147/a, pika 1, germa “a” të Kushtetutës së Republikës së Shqipërisë, nenet 2 dhe 89, të ligjit nr. 115/2016, “Për organet e qeverisjes së sistemit të drejtësisë”, me propozim të Komisionit për Zhvillimin e Karrierës, 
 
@@ -155,6 +155,14 @@ X/1 Dispozitë për Gjykatën e Lartë
 3. Këshilli i Lartë Gjyqësor vihet në lëvizje me kërkesë të Kancelarit të Gjykatës së Lartë.
 
 4. Gjyqtarët që caktohen në Gjykatën e Lartë për çështje gjyqësore të veçanta, përzgjidhen, me short, ndërmjet gjyqtarëve të gjykatave të apelit, të cilët kanë të paktën 13 vjet përvojë në ushtrimin e profesionit, si dhe kanë kaluar me sukses procesin e rivlerësimit kalimtar sipas ligjit nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+
+X/2 Dispozitë për gjykatat e posaçme për korrupsionin dhe krimin e organizuar
+
+1. Ky vendim zbatohet edhe për gjykatat e posaçme për korrupsionin dhe krimin e organizuar.
+
+2. Gjyqtarët që caktohen në Gjykatën e Posaçme të Shkallës së Parë për Korrupsionin dhe Krimin e Organizuar për çështje gjyqësore të veçanta, përzgjidhen, me short, ndërmjet gjyqtarëve të gjykatave të shkallës së parë me juridiksion të përgjithshëm, të cilët kanë të paktën shtatë vjet përvojë në ushtrimin e profesionit, nga të cilat të paktën pesë vjet si gjyqtar në fushën e drejtësisë kriminale, si dhe kanë kaluar me sukses procesin e rivlerësimit kalimtar sipas ligjit nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
+
+3. Gjyqtarët që caktohen në Gjykatën e Posaçme të Apelit për Korrupsionin dhe Krimin e Organizuar për çështje gjyqësore të veçanta, përzgjidhen, me short, ndërmjet gjyqtarëve të gjykatave të shkallës së parë dhe apelit me juridiksion të përgjithshëm, të cilët kanë të paktën 10 vjet përvojë në ushtrimin e profesionit, nga të cilat të paktën pesë vjet si gjyqtar për çështjet penale, si dhe kanë kaluar me sukses procesin e rivlerësimit kalimtar sipas ligjit nr. 84/2016, “Për rivlerësimin kalimtar të gjyqtarëve dhe prokurorëve në Republikën e Shqipërisë”.
 
 XI. Shpenzimet
 
