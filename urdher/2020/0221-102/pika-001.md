@@ -1,0 +1,1 @@
+1. “Për Procedurat Standarde të Veprimit (PSV) për punonjëset/punonjësit e shërbimeve shëndetësore, për zvogëlimin e rrezikut të përjetimit të dhunës në familje e dhunës me bazë gjinore, në situata të emergjencave civile”, sipas tekstit bashkëlidhur këtij urdhri.
