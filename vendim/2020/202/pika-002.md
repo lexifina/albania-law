@@ -1,0 +1,3 @@
+2. Fondi i përcaktuar në pikën 1 t’u kalojë njësive zbatuese, sipas detajimit të mëposhtëm:
+a) Fondit Shqiptar të Zhvillimit, në buxhetin e miratuar për vitin 2020, në zërin “Shpenzime kapitale me financim të brendshëm” të programit 06210 “Programe zhvillimi“, i shtohet fondi prej 6 528 564 252 (gjashtë miliardë e pesëqind e njëzet e tetë milionë e pesëqind e gjashtëdhjetë e katër mijë e dyqind e pesëdhjetë e dy) lekësh.
+b) Bashkisë Tiranë i transferohet fondi prej 2 207 854 893 (dy miliardë e dyqind e shtatë milionë e tetëqind e pesëdhjetë e katër mijë e tetëqind e nëntëdhjetë e tre) lekësh, në formën e transfertës së pakushtëzuar.

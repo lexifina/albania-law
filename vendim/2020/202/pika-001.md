@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, në masën 8 736 419 145 (tetë miliardë e shtatëqind e tridhjetë e gjashtë milionë e katërqind e nëntëmbëdhjetë mijë e njëqind e dyzet e pesë) lekë, për financimin e rindërtimit të banesave individuale, sipas projekteve model të miratuara.
