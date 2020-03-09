@@ -159,6 +159,8 @@ Raportohet brenda 24 orëve nëpërmjet survejancës së rastit, survejancës la
 Raportohet brenda 24 orëve nëpërmjet survejancës së rastit, survejancës laboratorike dhe survejancës bazuar në ngjarje.
 78. Xhiardiazë (Giardia lamblia)
 Raportohet brenda 7 ditëve nëpërmjet survejancës laboratorike.
+79. COVID-19 (Koronavirusi) shkaktohet nga virusi SARS-COV2.
+Raportohet brenda 24 orëve nëpërmjet survejancës së rastit, survejancës laboratorike dhe survejancës bazuar në ngjarje.
 B. Lista e sindromave të përgjithshme të lidhura me sëmundjet infektive.
 B.1 Sindroma të cilat duhet të raportohen menjëherë brenda 24 orëve
 1. Ethe dhe hemorragji
