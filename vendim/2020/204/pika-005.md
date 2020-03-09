@@ -1,0 +1,1 @@
+5. Ministria e Mbrojtjes të koordinojë punën me Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale për përcaktimin e kushteve/kërkesave për funksionimin optimal të objektit të caktuar si infrastrukturë karantine.

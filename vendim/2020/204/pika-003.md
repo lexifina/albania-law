@@ -1,0 +1,1 @@
+3. Ministrisë së Mbrojtjes, në buxhetin e miratuar për vitin 2020, në artikullin buxhetor 602, “Mallra dhe shërbime”, dhe në artikullin buxhetor 231, “Shpenzime kapitale”, i shtohet, përkatësisht, fondi prej 13 824 000 (trembëdhjetë milionë e tetëqind e njëzet e katër mijë) lekësh dhe 11 000 000 (njëmbëdhjetë milionë) lekësh.

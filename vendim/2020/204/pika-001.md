@@ -1,0 +1,1 @@
+1. Caktimin e Shtëpisë së Pushimit të Ushtarakëve të FARSH-it, prona nr.231, me emërtim “Shtëpia e Pushimit të Ushtarakëve”, me vendndodhje në Plepa, Durrës, si strukturë për shërbimin e karantinës, në funksion të marrjes së masave për parandalimin e përhapjes së infeksionit nga COVID-19.
