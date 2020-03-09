@@ -1,0 +1,1 @@
+11. Kur kandidati do të realizojë një pjesë të objektit me nënsipërmarrje, kjo mund të pranohet nga Komisioni i Vlerësimit me kusht që të jetë lidhur një kontratë e noterizuar (përpara datës së hapjes ose pranimit të ofertave ose kuotimeve) ndërmjet kandidatit dhe nënsipërmarrësit, ku të jetë parashikuar ajo pjesë e objektit që do të realizohet nga nënsipërmarrësi.

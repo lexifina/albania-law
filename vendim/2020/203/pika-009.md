@@ -1,0 +1,1 @@
+9. Procedura pezullohet nga titullari i autoritetit kontraktor në rastin e paraqitjes së një ankese nga ndonjëri prej kandidatëve ose ofertuesve. Në këtë rast, titullari ngre një komision për shqyrtimin e ankesës, i cili duhet të dalë me vendim brenda 5 (pesë) ditëve.
