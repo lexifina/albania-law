@@ -1,0 +1,1 @@
+5. Shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë, të përballohen nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, ndërsa shpenzimet procedurale, në vlerën 189 000 (njëqind e tetëdhjetë e nëntë mijë) lekë, për botimin në organet e shtypit, të përballohen nga subjekti kërkues, Bashkia Lushnjë.
