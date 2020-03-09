@@ -1,0 +1,1 @@
+4. Për veprimet e kryera në zbatim të këtij urdhri, drejtori i Financave dhe Shërbimeve apo të përfunduara prej tij, së bashku me afatet e përcaktuara dhe ecurinë e mbarëvajtjen e çështjeve, dhe do t’ia bëjë të ditura titullarit me rikthimin e tij në detyrë.
