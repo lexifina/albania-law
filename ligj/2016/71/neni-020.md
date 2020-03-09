@@ -6,5 +6,6 @@ b) të shënojë manualisht ose elektronikisht të dhënat në një sistem kompj
 c) të identifikojë dhe të regjistrojë të dhëna, për qëllim dhe në kohëzgjatje të verifikimeve kufitare të automatizuara, në rast të përdorimit të pajisjeve për verifikim kufitar të automatizuar;
 ç) t’i përdorë ato për kërkime, në kuptimin e menaxhimit të sigurisë dhe të aktivitetit me autoritetet e sigurisë që i shërbejnë drejtësisë penale;
 d) në raste dyshimi për një vepër penale, t’i vendosë në dispozicion të një autoriteti tjetër të sigurisë, për qëllime të zbatimit të ligjit, brenda kompetencës ligjore të atij autoriteti.
+dh) të përpunojë të dhënat e pasagjerit, sipas përcaktimeve të kreut II/1 të këtij ligji.
 2. Vendimet për hyrjet dhe daljet depozitohen në sistem kompjuterik të përpunimit të të dhënave.
 3. Rregullat për administrimin e të dhënave të grumbulluara nga zbatimi i këtij ligji përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për rendin dhe sigurinë publike dhe Komisionerit për të Drejtën e Informimit dhe Mbrojtjen e të Dhënave Personale.
