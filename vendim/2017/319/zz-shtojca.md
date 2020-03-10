@@ -101,7 +101,8 @@ TCMV I
 B t m
 V.,.,=40 l<mlb
 Sm v..,.,..-eokm11
-1 gj
+1 g1 gj
+1 g
 1 g
 a:m
 l m
@@ -260,19 +261,22 @@ numritlt! teulet 24 klase ultt 20tl1se
 kfU5111’t Nr Nxenes e Nr.Nxfntsve ·
 . P -
 Nr. Nxfne>ve • Nr. Nx nfsve · Nr. Nx sve · klase ul2 klase I
-J701 840 S61· 700
+JJ701 840 S61· 700
+J
 J
 -;,:....,)..”.””””.’” --<=> ... 281’420 lSI· 280 81- lSO Nr.Nxnfsve • Nr.Nx nesve •
 41-80 25-40
 Dhomate 14 15111’11\ 2U l]”ni•.tt\ ie:”’ ’ !\!!!l!d d 11 - . ’IJniiU 8 I.Sm’’tt• 4 I,Son’’”’ .l U n’” 2 l ..lm’mx
 pef2l hshme meslml
-’uborator (klml,fllike, IZ I.!Il1l1\ IU 2(·1\A !!_ ; i. (’ 2.2m-n.oc 2.2011’1L\ 2 2.2on’lnx I 2.211l11L\ I 2.2rn’jnx
+’’uborator (klml,fllike, IZ I.!Il1l1\ IU 2(·1\A !!_ ; i. (’ 2.2m-n.oc 2.2011’1L\ 2 2.2on’lnx I 2.211l11L\ I 2.2rn’jnx
+’
 ’
 blolo&JI, Informatlke) I ·--........ ·
 Bibloteke
 I -------t”jj_ ) )Ii
 1 O.ISm’rut .. I fl.l nt’ ra I O. ISm’Jn., G-1 O,ISm’’” I
-It -
+IIt -
+I
 I
 Salle Eduklml fltlk \lm-’U m·’ I
 l.hn-IIISm’
@@ -280,40 +284,48 @@ l.hn-IIISm’
 ,-. t=} I
 .\1m 411Sni I Mm4Mm’ I Min40Sn I
 Krvemesues L.! 1nt” 21 2m’ 21 2nl’ 2G-2S m’ 20-25 m’ 20-25 m’ 21 2S on’
-Drejtori/ I Ill I Mm •I Mill I Mill I Min I Min I M inSekretarl I
+Drejtori/ I Ill I Mm •I Mill I Mill I Min I Min I M in Drejtori/ I Ill I Mm •I Mill I Mill I Min I Min I M inSekretarl I
+Drejtori/ I Ill I Mm •I Mill I Mill I Min I Min I M in
 Drejtori/ I Ill I Mm •I Mill I Mill I Min I Min I M in
 Nendrejtorl I
 I Min
-I• l”l•”m’: 16m’.\hn l!m1 I Mm 12m’
+I• l”l•”m’: 16m’ I• l”l•”m’: 16m’.\hn l!m1 I Mm 12m’
+I• l”l•”m’: 16m’
 I• l”l•”m’: 16m’
 - ur---=
 I Mm I Mm I Min
 16m’ 16m’ 16 m’
 I).I Mm11m’
-.Mjedlsper I .:!. 1w n uc I 2.Sm I 2. ffi! K’ I 2.Sm’ l1lC$ I 2.Sm’tntrSU( I 2S. n/mo I 2.Sm’imos
+..Mjedlsper I .:!. 1w n uc I 2.Sm I 2. ffi! K’ I 2.Sm’ l1lC$ I 2.Sm’tntrSU( I 2S. n/mo I 2.Sm’imos
+.
 .
 Salle mesueslsh ’ -.r” · • uos s sues 1105
 ’-”’ ·<r=
-ISalle/dhome per I H.!41nt n’ I 0.2.5m’n.•
+IISalle/dhome per I H.!41nt n’ I 0.2.5m’n.•
 I
--;aktlvltete \lm -unt” M1n Om’
+I
+-;-;aktlvltete \lm -unt” M1n Om’
+-;
 -;
 ,·f ’” .·n
 I C1JIIi’” I 0.25 m’ n.•
-.Mm71lm’ Mm 70m’
+..Mm71lm’ Mm 70m’
+.
 .
 Ohomepsikologu/ I
 _punonjes social
 I. \hu l m. - I
 T Minl7m’ ’ f 110 i71ti’ I Mm 17m’
-II
+III
+I
 I
 Ohomelnfermeri I ’ lml rn; I Mm 17m’ rc;_; ;
 -- ·
 I Mm 17m’ I Mm 17m’
 Numli bokseve rc per Po
 -+
-’PO Cdo 20mI Cdo :!411\
+’PO Cdo 20m ’PO Cdo 20mI Cdo :!411\
+’PO Cdo 20m
 ’PO Cdo 20m
 Po Cdo lltl• Po
 CdoIL\ Po
@@ -335,12 +347,15 @@ klu -u•·e Nr Nxenesve Nr.Nxl!ni!sve •
 :- Shkolle e arsimtt9 vjecar
 9 klase
 Nr Nxl!ni!sve •
-...931.1240 621- 930 liuiti:’ - derl310 I
+......931.1240 621- 930 liuiti:’ - derl310 I
 ...
-· 1Dhoma te 16 15m’nx 27 Um’nlx lt ’ -- 9 I.Sm .n
+...
+· 1 · 1Dhoma te 16 15m’nx 27 Um’nlx lt ’ -- 9 I.Sm .n
+· 1
 · 1
 _ .
-1 .,E!!gjithshme mesml l - .
+1 ., 1 .,E!!gjithshme mesml l - .
+1 .,
 1 .,
 Laborator (kiml,fizlke, 12 1.m zt.\ 8 2.2m’nlx r• 2 2,201 IIA
 blologjl,lnformatlke) - -
@@ -352,7 +367,8 @@ Mnt 405m’
 Drejtorl I
 I
 -
-•Mnt I Min - .: ..i- I Mm
+••Mnt I Min - .: ..i- I Mm
+•
 •
 20-25 Ill 20-25 m1 20-2Sm’
 Sekretarl I Mur I Mm t I Mm
@@ -367,7 +383,8 @@ Salle mesueslsh s ,. s
 I , ---
 Salle/dhome per I 11.2 Ill’ IIX I 0.2S m’nx 1 ·== - Il-l
 ( J,l5m’nx
-- -aktlvitete Mm711m- Mm 70m’ Mm 70m’ Dhomepslkologu/ I Mm 17m I Mm 17m’ II l:lllltfiW Il-l Mm 17m’ I
+- -- -aktlvitete Mm711m- Mm 70m’ Mm 70m’ Dhomepslkologu/ I Mm 17m I Mm 17m’ II l:lllltfiW Il-l Mm 17m’ I
+- -
 - -
 - --;-;
 punonjes socai l
@@ -380,8 +397,10 @@ Mm 17m’
 Numrlbokseve £c per Po Cdo ll>ux Po Cdo2Knx fJJ;
 :w--:’
 -;;-o -
--:••··Po Cdo IUrtx
+--:••··:••··Po Cdo IUrtx
 -
+-
+:••··
 :••··
 nx -
 I box / Ibox Ibox j
@@ -401,7 +420,8 @@ Nr Nxenesve
 uli!t 21klase(dy paralele
 A9vjecar +lparalele AML)
 .·, ;j:
-l..1!1... .:._ .
+ll..1!1... .:._ .
+l
 l
 te ulet 12 klase
 711 830
@@ -416,7 +436,8 @@ Blbloteke I 11. I ’im·nx I 0.15m’ nx I I fl.I ’im’nx -
 Salle Edukmi i fizik
 Mm 40’im· I I Mm 40Sm’
 l.i’
-j -Mm40’im’
+j - j -Mm40’im’
+j -
 j -
 I Drejtorl l 1 Mm I Min I Mm
 20-l’i m· 20-25 m’ 20-25 m’
@@ -459,13 +480,15 @@ Mm I0°n e
 Sip
 w•.e -
 Shen im : Ndarja si pas numrit te klasave dhe nxenesve eshte orientuese pasi mund te kete s hkolla me k lasa ndermjet numrti te klasave ne ta bela ose me shume sec paraqiten ne tabcle
--5 - Sli KOLLA ARSI M I I i\’IESEM I LARTE (GJ I MNA ZE)
+--5 - Sli KOLLA ARSI M I I i\’IESEM I LARTE (GJ I MNA ZE)
+-
 -
 Shkol/at >i(HI> G11mnaze me 36 klasa Gjimnat30 klosa
 tlllntrirte Nr Nxenesve Nr Nlltntsve •
 Gjimnaze 21 klasa G1•mnaze me 18 klasa Gjimnaze me IS klasa G)imnaze me 12 klasa G)imnaze me 9 klasa Gjimnaze me 6 klasa
 ’ Nr N•i!ni!s\’e Nr. Nxenesw • Nr. Nxenhve • Nr. Nxilnesve • Nr.N•eni!sve • Nr.Nxfnesw •
-.kla\.tn’t 1051 1260 901· 1050 •• 631 720 541· 630 451· 540 361 450 270· 360 derl 270
+..kla\.tn’t 1051 1260 901· 1050 •• 631 720 541· 630 451· 540 361 450 270· 360 derl 270
+.
 .
 Choma te
 11>
@@ -473,35 +496,44 @@ I 6nfiiL\ lit l.fini.””
 ra ’1-J
 11 I .(101: n:< 1 8 I .Cmr n.t I S 1,6m1/nx 12 1 ,6nl’lnx 9 1,6nr’nx 6 1,6ml’n’
 _l)ercJithshme meslml
--laborator (klml, flzlke, I 1.m·n’ I S 2.2m’/M t• f.JiMIII!t iii
+--laborator (klml, flzlke, I 1.m·n’ I S 2.2m’/M t• f.JiMIII!t iii
+-
 -
 - i1ur·m 9 2.2m11l\ 7 2,2m•ltt’( 6 2,21n11lt:.. 4 2.2mI’IIX ] 2.2m11nX:
 blolollll,lnformatlke)
 Blbloteke I nlf.u: n\ I 0.15ni Ill< l I T I O,ISm”llt I O,I Sml’n• I O.ISm’lnx I O,ISm’ln.\ I O,ISm’”’
-...I’!.!.It,.,Salle Eduklml flzlk I \lm -111\m I t;n- .i4Ts”m1- 1 r’ I Mm4u5rn I Mml05nl’ I Mm 405m’ I Mm (IOSm, I Mm 405nl’ I Mm40Sm1
+.....I’!.!.It,.,.I’!.!.It,.,Salle Eduklml flzlk I \lm -111\m I t;n- .i4Ts”m1- 1 r’ I Mm4u5rn I Mml05nl’ I Mm 405m’ I Mm (IOSm, I Mm 405nl’ I Mm40Sm1
+..
 ..
 .I’!.!.It,.,
-\hu I I 20·25 ’”’ 20-25 m’ 21 25 m’Dre)torl/ I I loi;it :a f Mon Mon Mon I Mm I Mm I Mm
+.I’!.!.It,.,
+\hu I I \hu I I 20·25 ’”’ 20-25 m’ 21 25 m’ 20·25 ’”’ 20-25 m’ 21 25 m’Dre)torl/ I I loi;it :a f Mon Mon Mon I Mm I Mm I Mm
 \hu I I
+\hu I I
+20·25 ’”’ 20-25 m’ 21 25 m’
 20·25 ’”’ 20-25 m’ 21 25 m’
 Krvemosues 1U-1” m1 21 2m’ 211·25 Ill 20·2on’ 20-25 m’
 Sekretarl I \1m I Mon l I \1on I Mon I Mon I Mm I Mm I Mm
 Nendre)torl 2 tm 11m 2 M.n12m1 - .
-’Mml:!.m’ I Monllm’ I Mm 12m’ I Mm12m1 I Mml 2m’
+’’Mml:!.m’ I Monllm’ I Mm 12m’ I Mm12m1 I Mml 2m’
+’
 ’
 l(t 101 16m’ l<o m 16m’ 16m’ 16m’ 16m’ 16m’
 I
 M)edls per I 1.m I 25trrltneS\Jr\ ! ·’ I 1.m- I 2.Sm’,,.,,.,. I 2.5m’·mesuc:s I 2.Sm111nesucs I 2.sm· n-.esltC:S I 2,Sttr1nldu
 Salle mesueslsh IIK’’IUCS ’ ’ s ••
-’Salle/dhome per I I H. nr 1’1( I O.lS mn” il ·l== I
+’’Salle/dhome per I I H. nr 1’1( I O.lS mn” il ·l== I
+’
 ’
 ll.iSnr ’” I 0,25 m’·llt I 0.25 m’’ux I 0,25 m11n I 0.2S n·n• I 0,25 rn’n:<
 aktlvltete
 \lm 7flm’ Mon 71hn’ Mon71hor Mm 70,nJ M111 70m’ M11170m’ Mon 71lm’ M111 70m’
-1:-.:WDhomepsikologu/ I \lm l m’ I Mm 17m’ I” I Mm 1 7m’ I Mm 17m’ I Mm 17m’ I M111 17m’ I Mm 17m’ I Mm 17m’ punonjessocial
+1:-.:W1:-.:WDhomepsikologu/ I \lm l m’ I Mm 17m’ I” I Mm 1 7m’ I Mm 17m’ I Mm 17m’ I M111 17m’ I Mm 17m’ I Mm 17m’ punonjessocial
+1:-.:W
 1:-.:W
 Dhome lnfermerl I \tm 17m I Mm 17m• i . 1’_ .... - I Mon 1 7m• Mm 17m’ I Mm 17m’ I M111 17m’ I Mm 17m’ I M1n 17m’
-ItNumrl bokseve rc per Pu -· <-do ,,,n, Po Colo ’th”’ flit. Po rd’onn Po Colo 18o.t Po Cdo 16o1X Po Cdo 1411X Po Cdo 121lt Po Colo IOnx nx I b<” II bo• I bo’ I bo> / I box / I box I I box I I box
+ItItNumrl bokseve rc per Pu -· <-do ,,,n, Po Colo ’th”’ flit. Po rd’onn Po Colo 18o.t Po Cdo 16o1X Po Cdo 1411X Po Cdo 121lt Po Colo IOnx nx I b<” II bo• I bo’ I bo> / I box / I box I I box I I box
+It
 It
 Hoii·Korrldor \hn l(}&. c Mon Hl”oesop
 1, 1llll· Mm II•• Mon IO”ie MmiOO.e ”P MoniO%os1p MmHI”hsop MoniO”io
@@ -511,7 +543,8 @@ Shnim : Ndarja sipas numritte klasave dhe nx n!sve l!slnoriemuese pasi mund 1ket
 numrit te drejtlm 8Juhesor me 24 gjuh sor me .-........-...drejtlm gjuhhor me drejtim gjuhesor me drejtim gjuhesor me drejtlm gjuhsor me
 k/IISUI’e klasa 21klasa .......
 15 klasa 12 klasa 9 klasa 6 klasa
-....... Nr.Nxi!n sve • Nr.Nx ni!sw - Nr.Nx nesve - Nr.Nxenesve •Shkollat sipas Shkolle e mesme me Shkollee mesme me drejtim l. .
+....... Nr.Nxi!n sve • Nr.Nx ni!sw - Nr.Nx nesve - Nr.Nxenesve • ....... Nr.Nxi!n sve • Nr.Nx ni!sw - Nr.Nx nesve - Nr.Nxenesve •Shkollat sipas Shkolle e mesme me Shkollee mesme me drejtim l. .
+....... Nr.Nxi!n sve • Nr.Nx ni!sw - Nr.Nx nesve - Nr.Nxenesve •
 ....... Nr.Nxi!n sve • Nr.Nx ni!sw - Nr.Nx nesve - Nr.Nxenesve •
 ._ ... .i Shkolle e mesme me Shkolli! e mesme me Shkolli!emesme me Shkolle mesme me
 Nr Nxenesve
@@ -524,14 +557,17 @@ _p_ergj_lthshme meslml
 I .(1111: nx
 21 1.6m’.nx 111
 IS 1.6m’mx 12 1.6m’/n.x 9 1,6m’nix 6 1.6m’/nx
--[-··laborator (kim,l flzlke, 12 2.2mnx HI 2.2m’·nx 1-, . .’ 7 2,2m’lnx 6 2,2m’/nx 4 2.2m’ /n.x 3 2.2m/’nx
+-[--[-····laborator (kim,l flzlke, 12 2.2mnx HI 2.2m’·nx 1-, . .’ 7 2,2m’lnx 6 2,2m’/nx 4 2.2m’ /n.x 3 2.2m/’nx
 -[-
+-[-
+··
 ··
 I Mm 40 m’ I Min 405m’ I Mm 405m’ I Min 405m’
 blologjl,informatlke)
 Blbloteke I ll.lm’ nx I O.ISm’ n• [’A
 I 01.mTn., I 0,15m’/nx I 0, 15m’/nx I 0.15m’/nx
-..I
+....I
+..
 ..
 Salle Eduk mlflzlk I Mul411m’ I Mm-105m’ I
 Ore)tori/ I n I Min II :, I M1n I Min I Min I Min
@@ -545,12 +581,14 @@ l(•m’ ltiiiP . 16 m’ 16m’ 16m’ 16m’
 Nendre)torl 2 Mm 12m• 1-2 Mm 12m’ II
 I
 M)edsl per 1 - .2,.4iml I -23Jii’ IIIC$UCS 11 I I.sni’lmcsuc I 2,5m’mi csuc I 2.5m’mi csucs I 2,5m’/mcsucs
-· ==Salle mesuesish mcsuc:, I s s
+· ==· ==Salle mesuesish mcsuc:, I s s
+· ==
 · ==
 I
 Salle/dhome per 1 - r-o-.2 Ill’ nx I 0.15m’nx ·I I 0.25 m’nx I 0.25 m’/nx I 0.25 m’/n.. I 0,25 m’/nx
 aktivltete Mm 711m’ MJn7Um’ Mm 7!1m’ Mm 70m’ Mm70m’ Min 70m’ I
-· -Dhomepslkologu/
+· -· -Dhomepslkologu/
+· -
 · -
 punon)es social
 I Mm 1 7m’ I Mm 17m’ 11
@@ -560,8 +598,10 @@ I
 Dhome lnfermerl I \1m 1 7m’ I Mm 17m’ 1 :r ·rw I Mm 17m’ I Mm 17m’ I Mm 17m’ I Mm 17m’ I
 Numrlbokseve C per Po Cdo 2fmx Po Cdo 22 nx I•
 Po Cdo 16 nx Po Cdo 14nx Po Cdo 12n.x Po Cdo IOnx I
-Mm IO’•o cSip ,:.,..:--.--•”’!’ - -c------nx Ibox Ibox nwa Ibox / Ibox / Ibox IIbox
+Mm IO’•o cSip ,:.,..:--.--•”’!’ Mm IO’•o cSip ,:.,..:--.--•”’!’ - -c------ - -c------nx Ibox Ibox nwa Ibox / Ibox / Ibox IIbox
 Mm IO’•o cSip ,:.,..:--.--•”’!’
+Mm IO’•o cSip ,:.,..:--.--•”’!’
+- -c------
 - -c------
 Hoii-Korrldor Mm lil” o c Mm 100-,c Min IO”,.c Mni I0”/,c sip Min 10%csip
 SIP sip
@@ -569,7 +609,73 @@ Laborator Ighuheve 4 2.:’m1 n’ 4 2 m’.’rut 1: 3 2.5m’!m 2 2.Sm’lnx 2
 If hua)a -
 Shenim : Ndarja si pas numrit te klasave dhe nxenesve eshti!orientuese pasi mu nd ti! kele shkolla me klasa ndennjet numni te klasave nc tabela ose me sh ume sec paraqiten ne tabele
 7 - SHKOLLA ARSIMI I MESEM I ORIENTUAR (SHKOLLE E MESME BALETI)
-S/rkollat sip11snumrittek/asmreShkolle balet1 (mesme e bashkuar)Deri8 klasaNr Nxenesve -81- 240Dhomate pergjithshme mesimi101.6m’nxlaborator (kimi,fizike, biologji informatike)31 -2.m:nxf..---0,15m’ ”’BiblotekeSalle EduklmlflzlkIMm405m’DrejtoriIMm20-25 m’SekretarlIMm16m’Nendrejtori-5ni’mcsucsMjedis perSalle mesueslshISalle/dhome peraktiviteteI015 m’”-’ Mm 70m’Mm 17m’Dhomepsikologu/punonjes socialIDhome mjekuIMm 1 7,-;;:-Cdo7nI bo\Numribokseve EC per nxPoHoii-KorridorMm IO’ocSIDSalle baleti (te pajisura me dhoma zhveshieje e dushei2-6XOm’ - min-150m’ - mmMini palesterIAmflteater 300 vendeI0.60m’ pa’1 .2m’nMense + guzhlneI-
+S/rkollat sip11snumrittek/asmreShkolle balet1 (mesme e bashkuar)Deri8 klasaNr Nxenesve -81- 240Dhomate pergjithshme mesimi101.6m’nxlaborator (kimi,fizike, biologji informatike)31 -2.m:nxf..---0,15m’ ”’BiblotekeSalle EduklmlflzlkIMm405m’DrejtoriIMm20-25 m’SekretarlIMm16m’Nendrejtori-5ni’mcsucsMjedis perSalle mesueslshISalle/dhome peraktiviteteI015 m’”-’ Mm 70m’Mm 17m’Dhomepsikologu/punonjes socialIDhome mjekuIMm 1 7,-;;:-Cdo7nI bo\Numribokseve EC per nxPoHoii-KorridorMm IO’ocSIDSalle baleti (te pajisura me dhoma zhveshieje e dushei2-6XOm’ - min-150m’ - mmMini palesterIAmflteater 300 vendeI0.60m’ pa’1 .2m’nMense + guzhlneIS/rkollat sip11snumrittek/asmreShkolle balet1 (mesme e bashkuar)Deri8 klasaNr Nxenesve -81- 240Dhomate pergjithshme mesimi101.6m’nxlaborator (kimi,fizike, biologji informatike)31 -2.m:nxf..---0,15m’ ”’BiblotekeSalle EduklmlflzlkIMm405m’DrejtoriIMm20-25 m’SekretarlIMm16m’Nendrejtori-5ni’mcsucsMjedis perSalle mesueslshISalle/dhome peraktiviteteI015 m’”-’ Mm 70m’Mm 17m’Dhomepsikologu/punonjes socialIDhome mjekuIMm 1 7,-;;:-Cdo7nI bo\Numribokseve EC per nxPoHoii-KorridorMm IO’ocSIDSalle baleti (te pajisura me dhoma zhveshieje e dushei2-6XOm’ - min-150m’ - mmMini palesterIAmflteater 300 vendeI0.60m’ pa’1 .2m’nMense + guzhlneI-
+S/rkollat sip11s
+numritte
+k/asmre
+Shkolle balet1 (mesme e bashkuar)
+Deri8 klasa
+Nr Nxenesve -
+81- 240
+Dhomate pergjithshme mesimi
+10
+1.6m’nx
+laborator (kimi,fizike, biologji informatike)
+3
+1 -
+2.m:nx
+f..---
+0,15m’ ”’
+Bibloteke
+Salle Eduklmlflzlk
+I
+Mm405m’
+Drejtori
+I
+Mm
+20-25 m’
+Sekretarl
+I
+Mm
+16m’
+Nendrejtori
+-
+5ni’
+mcsucs
+Mjedis per
+Salle mesueslsh
+I
+Salle/dhome per
+aktivitete
+I
+015 m’”-’ Mm 70m’
+Mm 17m’
+Dhomepsikologu/
+punonjes social
+I
+Dhome mjeku
+I
+Mm 1 7,-;;:-
+Cdo7n
+I bo\
+Numribokseve EC per nx
+Po
+Hoii-Korridor
+Mm IO’oc
+SID
+Salle baleti (te pajisura me dhoma zhveshieje e dushei
+2-6
+XOm’ - min
+-
+150m’ - mm
+Mini palester
+I
+Amflteater 300 vende
+I
+0.60m’ pa’
+1 .2m’n
+Mense + guzhlne
+I
 S/rkollat sip11s
 numritte
 k/asmre
@@ -795,7 +901,8 @@ Dhoma te 10- 4 1.6m’ ’” 10-24 1 6m’/nx 6-15 1,6m/’nx pergjlthshme mesl
 l.aborator (klml flzlke, 8.16 2.2111!0”( 8- 16 22. m’ nx 2 2,2m’/nx
 biologji,lnformatlke)
 Blbloteke I O. lm’11\ I 0,15m’/nx I 0,15m1/nx
-.Salle Eduklmlflzlk I l m40m’ I Min405m’ I Min405m’ Drejtorl I
+..Salle Eduklmlflzlk I l m40m’ I Min405m’ I Min405m’ Drejtorl I
+.
 .
 20·1rn:
 I Min I Min
@@ -817,7 +924,8 @@ Ibox IIbox IIbox
 Hoii Korrldor M-m 10°o e
 Min 10% e Min 10%e sip Sip
 Baze prodhuese ’<c C’do rcpan . . Ne Cdo repnn
-•\llrtCSI I0 m1
+••\llrtCSI I0 m1
+•
 •
 vanes1 150m’·
 IC nun te min
@@ -884,12 +992,15 @@ f
 ’ , I
 0
 hl.,.t•H hl .,.,.. . ”
-..”’”..”..’.
+....”’”..”..’.
+..
 ..
 tl”:.
---ULI I I
+----ULI I I
 --
-a..,., .,.. --,..,’\,.,
+--
+a..,., .,.. -- a..,., .,.. --,..,’\,.,
+a..,., .,.. --
 a..,., .,.. --
 H !
 1 ”·’·If·
@@ -899,13 +1010,16 @@ M p D
 LJ[) ULI IL:Jd
 Q
 ud ’wJ w
-”• -S=-
+””• -S=-
+”
 ”
 t;;: ”:J::- t;;
 l _c.r r;-:
 . ” •’’’
 ’ r
-’’”
+’’’’”
+’
+’
 ’
 ’
 a...u. • ..1
@@ -941,7 +1055,8 @@ Nje tavoline per dy nxenes
 Mesimi n!! grupe Mesimipunetori
 860 cm 860 cm
 m
-5 I 5 i m mLr t.J,
+5 I 5 i m m 5 I 5 i m mLr t.J,
+5 I 5 i m m
 5 I 5 i m m
 ’l :.;•
 9;9
@@ -950,7 +1065,8 @@ lop l
 8+-=I- I
 rdNh.t.s,l.ms.l.,.
 L-L_..l .),.-’
-t1-f..
+tt1-f..
+t
 t
 !i! !i! :f
 J·ooWJ rod
@@ -970,19 +1086,24 @@ kete largesi, nxenesit e rreshtit te pare nuk dote jene ne gjendje ta shohin ter
 • Kendi vizual minimal deri te derrasa e shkrimit duhet te jete 30° (shih fig. me poshte).Ne kete menyre kendi ne te cilin shikohet mjeti mesimor nuk e shtremberon te kuptuarit nga nxenesit te asaj qe ata shohin.Nen 30°, leximi i atyre qe jane shkruar veshtiresohet;
 • Drita kryesore natyrale duhet te jete, sa me shume te jete e mundur, e vendosur ne anen e majte te nxenesve, qe hija e dores se tyre te mos bartet ne tekstin ose vizatimin qe jane duke e bere.
 1(.\lf”
-” r·.......
+” r· ” r·.......
 ” r·
-,..,w.......r <Cehll ’II... ::..
+” r·
+,..,w.......,..,w.......r <Cehll ’II... ::..
+,..,w.......
 ,..,w.......
 I !j ’
 ·-···
 <f•ol I,,....,.,::• ..
 ’.•
-l’· _
+ll’· _
+l
 l
 -’ £i
----J. --J’’.,.1 I ._,••, .,.,I,, ..,, • • :.
+---J. --J’---J. --J’’’.,.1 I ._,••, .,.,I,, ..,, • • :.
 ---J. --J’
+---J. --J’
+’
 ’
 ’ ’ ’
 ! 5•;”
@@ -994,7 +1115,8 @@ f
 1::
 ..r 1J ll
 .l,J •
-oJ ...J- 0’
+oJ ...J- 0 oJ ...J- 0’
+oJ ...J- 0
 oJ ...J- 0
 ::: ---;] ””’::] D
 ’.x) ’_ul
@@ -1062,9 +1184,11 @@ E
 0
 0
 ”<0’
-gD ·:omIL-t_ -...r-.
+ggD ·:omIL-t_ -...r-.
 g
-rL Jl
+g
+rrL Jl
+r
 r
 -’
 Meslmlne grupe
@@ -1111,13 +1235,23 @@ mjedis per mesues me banjo- dush dhe garderobe 10m2
 Terrenet e jashtme sportive caktohen sipas kerkesave te programit mesimor ku duhet parashikuar:
 nje fushe volejbolli nje fushe basketbolli kend gjimnastikor
 Shkollat e mesme
-Ne shkollat e mesme njelloj si ne shkollat nentevje<;are duhet patjeter te kete nje mjedis te ve<;ante te mbyllur (palester) per edukimin fizik si dhe mjediset ne oborrin e jashtem te saj. Permasat per palestren duhet te jene te tilla qe ne kete mjedis te luhet basketball dhe volejboll pra 18m x 26m.
-Perve<; kesaj salla e edukates fizike duhet te kete mjediset e veta ndihmese:
-dy garderoba me madhesi 20 m2 sejcili. dy banjo -dushe 20m2
-nje depo per veglat 20 - 30 m2
-mjedis per mesues me banjo- dush dhe garderobe 16m2
-Terrenet e jashtme sportive caktohen sipas kerkesave te programit mesimor ku duhet parashikuar:
-nje fushe volejbolli nje fushe basketbolli kend gjimnastikor nje fushe tenisi
+Në shkollat e mesme, njëlloj si në shkollat nëntëvjeçare, duhet patjetër të ketë një mjedis të veçantë të mbyllur (palestër) për edukimin fizik si dhe mjediset në oborrin e jashtëm të saj.
+Mjedisi i veçantë i mbyllur (palestër) për edukimin fizik, si dhe mjediset e hapura në shkollat e mesme mund të jenë njëfunksionale ose shumëfunksionale, të tilla që në to të luhet basketboll, volejboll, hendboll dhe sporte të tjera.
+- Përmasat për palestrën shumëfunksionale (pista e lojës) duhet të jenë 26 m x 44 m;
+- Përmasat për palestrën njëfunksionale (pista e lojës) duhet të jenë 18 m x 26 m.
+Përveç kësaj, salla e edukimit fizik duhet të ketë mjediset e veta ndihmëse:
+- Dy gardëroba me madhësi 20 m2 secili;
+- Dy banja-dushe 20 m2;
+- Një depo për veglat 20-30 m2;
+- Mjedis për mësues me banjë-dush dhe gardërobë 16 m2.
+Terrenet e jashtme sportive caktohen sipas kërkesave të programit mësimor, ku duhen parashikuar:
+- Fusha shumëfunksionale (fushë e përbashkët për basketboll, volejboll etj.)
+- Fusha njëfunksionale:
+- Një fushë volejbolli;
+- Një fushë basketbolli;
+- Një kënd gjimnastikor;
+- Një fushë tenisi.
+Në shkollat e mesme me më shumë se 600 nxënës duhet patjetër të ketë një mjedis të veçantë të mbyllur (palestër shumëfunksionale) ose terren të jashtëm sportiv (fushë shumëfunksionale) për edukimin fizik.
 4.2.4 Banjot-dushet
 Jane kombinime qe perdoren ne shkollat qe nuk kane palester te brendshme te pershkruar me siper, por edukaten fizike e kryejne ne mjediset e jashtme te shkolles ose ne hapesiren per shume qellime. Megjithate, keto shkolla kane nevoje per mjedisin e banjo - dusheve, madhesia e te cilave duhet te jete sine rastin e pikes 6.2.3. Keto banjo- dushe duhet te pozicionohen ne katin pcrdhc.
 Shenim Standartet e mesiperme per mjediset sportivenuk sherbejne per shkollat e mesme
@@ -1127,7 +1261,8 @@ sportive.
 Shkollat jillore dhe ato nentevje are
 Zyra e drejtorit ne shkollat nentevje9are duhet te jete minimumi
 Zyra e nendrejtorit ne shkollat nentevje9are duhet te jete minimumi
-.20-40 m2
+..20-40 m2
+.
 .
 12-16 m2.
 Shkollat e mesme
@@ -1222,7 +1357,8 @@ Ne 9do kat duhet te kete minimumi dy shkalle ne distance nga njera tjetra sa met
 4.5.2 Holli
 Holli eshte nje element shume i rendesishem dhe i domosdoshem per shkollat. Hollet ne katet perdhe sherbejne per te mundesuar kalimin e shpejte te nxenesve nga dera e hyrjes neper klasa dhe anasjelltas, si dhe japin kontaktin e pare viziv te nxenesve me mjediset e brendshme te shkolles. Ne katet e tjera te shkolles hollet perve9 funksionit te shpemdarjes se nxenesve neper klasa, luajne edhe rolin e qendrimit te nxenesve ne pushimet ndermjet oreve te mesimit. Hollet sherbejne edhe si mjedise ku afishohen tabela te ndryshme te cilat i sherbejne ciklit te mesimit. Hollet si pjese e domosdoshme e organizimit te shkolles duhet qe te projektohen te tilla qe te permbushin funksionet e lartpermendura. Madhesia e tyre eshte ne varesi te numrit te nxenesve, te kateve dhe te menyres se organizimit te klasave por duhet te llogaritet me minimumi 0,1 m 2 per nxenes.
 4.5.3 Depot, kthinat ndihmese
-.Depot jane mjedise, qe sherbejne per inventar dhe materiale te tjera. Siperfaqja e depove mund te jete nga 18m 2 - 40m2
+..Depot jane mjedise, qe sherbejne per inventar dhe materiale te tjera. Siperfaqja e depove mund te jete nga 18m 2 - 40m2
+.
 .
 4.5.4 Garderobat
 Garderoba e nxenesve sherben qe veshjet dhe kepucet e nxenesve te mos ngaterrohen.
@@ -1272,7 +1408,38 @@ Anketat antropometrike japin dimensionet e femijeve mesatare, si dhe madhesite m
 Dimensionet e femijeve dallojne nga nje vend ne tjetrin, dhe Ministria e Arsimit dhe Sportit per
 9do vit arsimor realizon anketen antropometrike specifike. Dimensionet aktuale te orendive shkollore bazohen ne anketat e meparshme dhe ne anketat e vendeve fqinje.
 Per arsye praktike, madhesite e nxenesve ne mes te 6 dhe 18 vje9 shpesh ndahen ne kater kategori qe korrespondojne me kater madhesi te orendive. Rezultatet e nje ankete antropometrike ne vitin 1998 nga MASH per shkollat e Shqiperise jane te dhena ne tabelen 3.7 me poshte me mesataren e gjatesise se nxenesve neper kategori, madhesia e rekomanduar per uleset e nxenesve (tabela 3.8) dhe bankat e nxenesve (tabela 3.9)
-Ref.Viti(Vitet)MadhesiaKategoriaMesatarja e lartesise (em)Niveli I ArsimimitViti I pareViti I funditABcD6-89-1011-1314-18I vogel Mesem MadhPara-rritur117137154160126137155171FillorFillorMesme euletMesme uletllarteTabela 3 7Mesatarja e gjatesise se nxenesve
+Ref.Viti(Vitet)MadhesiaKategoriaMesatarja e lartesise (em)Niveli I ArsimimitViti I pareViti I funditABcD6-89-1011-1314-18I vogel Mesem MadhPara-rritur117137154160126137155171FillorFillorMesme euletMesme uletllarteRef.Viti(Vitet)MadhesiaKategoriaMesatarja e lartesise (em)Niveli I ArsimimitViti I pareViti I funditABcD6-89-1011-1314-18I vogel Mesem MadhPara-rritur117137154160126137155171FillorFillorMesme euletMesme uletllarteTabela 3 7Mesatarja e gjatesise se nxenesve
+Ref.
+Viti
+(Vitet)
+Madhesia
+Kategoria
+Mesatarja e lartesise (em)
+Niveli I Arsimimit
+Viti I pare
+Viti I fundit
+A
+B
+c
+D
+6-8
+9-10
+11-13
+14-18
+I vogel Mesem Madh
+Para-rritur
+117
+137
+154
+160
+126
+137
+155
+171
+Fillor
+Fillor
+Mesme eulet
+Mesme uletllarte
 Ref.
 Viti
 (Vitet)
@@ -1328,7 +1495,43 @@ Para-rritur
 40.5
 44.5
 Tabela 3.9
-Ref.MadhesiaKategoriaLartesiaBankat dysheBankat njesheGjeresiathellesiaGjeresiaThellesiaABcDI vogel Mesem MadhPara-rritur50.056.062.068.0110.0115.0115.0120.055.057.557.560.055.057.557.560.055.057.557.560.0Rekiomand”Imet per rnadh”e”s.m•e• e bankave per nxe••n•e•s1
+Ref.MadhesiaKategoriaLartesiaBankat dysheBankat njesheGjeresiathellesiaGjeresiaThellesiaABcDI vogel Mesem MadhPara-rritur50.056.062.068.0110.0115.0115.0120.055.057.557.560.055.057.557.560.055.057.557.560.0Ref.MadhesiaKategoriaLartesiaBankat dysheBankat njesheGjeresiathellesiaGjeresiaThellesiaABcDI vogel Mesem MadhPara-rritur50.056.062.068.0110.0115.0115.0120.055.057.557.560.055.057.557.560.055.057.557.560.0Rekiomand”Imet per rnadh”e”s.m•e• e bankave per nxe••n•e•s1
+Ref.
+Madhesia
+Kategoria
+Lartesia
+Bankat dyshe
+Bankat njeshe
+Gjeresia
+thellesia
+Gjeresia
+Thellesia
+A
+B
+c
+D
+I vogel Mesem Madh
+Para-rritur
+50.0
+56.0
+62.0
+68.0
+110.0
+115.0
+115.0
+120.0
+55.0
+57.5
+57.5
+60.0
+55.0
+57.5
+57.5
+60.0
+55.0
+57.5
+57.5
+60.0
 Ref.
 Madhesia
 Kategoria
@@ -1389,9 +1592,11 @@ Hapesira deri ku mberrijne personat me nevoja te ve9anta ne karrocat e invalidev
 • Mes 1100 dhe 1300 ne lartesi;
 • Mes 300 dhe 400 mm nga pjeset anesore te karriges;
 Lartesia e syve
-tUiesja
+ttUiesja
 t
-•• ±Gishtat
+t
+•• ±•• ±Gishtat
+•• ±
 •• ±
 e kembes .11!!1./Jv
 Doreza
@@ -1448,14 +1653,16 @@ Temperaturat e larta: Klima e Shqiperise eshte kryesisht e thate dhe e nxehte ng
 Ne shkolla keshillohet qe niveli i temperatures dhe i lageshtise te jete sipas percaktimeve te meposhtme (matur ne nje laliesi 90cm nga niveli i dyshemese):
 Dimer: 21°C; 35% minimumi i lageshtises relative; Vere: 24-26°C; 50% maksimalja e lageshtise relative.
 Ne tabelen e meposhtme jepen grafikisht informacione qe sjellin nje kombinim pozitiv midis temperatures dhe lageshtise relative ne menyre qe te mos kete efekt te kondensimit,i cili do te sillte prezencen e mykut ne mure.
-’• ’ ”\ ..:’: ’·’ t.’·’ \
+’• ’ ” ’• ’ ”\ ..:’: ’·’ t.’·’ \
+’• ’ ”
 ’• ’ ”
 w·. .\
 .:x
 .:; !:’
 :!
 ””””” t. C
-”P1>al:lltl•l’c 1-liJlrl! m\lll -ll’Ji c
+””P1>al:lltl•l’c 1-liJlrl! m\lll -ll’Ji c
+”
 ”
 8WIlllla;p:;h.!o>
 ’
@@ -1531,7 +1738,8 @@ r lmim ijosbem -
 H
 Mortimiikii.shilluCll i dritareve
 === t ,
-·--··L --- . i • XII
+··--··L --- . i • XII
+·
 ·
 .o:; , 3C ,2 35, 105 fQ
 ’
@@ -1557,7 +1765,8 @@ i renies se diellit qe duhet re p>ljash.1ohet eshte ai prej rnajit deri ne tetor
 theDlesore evitimi i renies se nezeve re diellit ne dritare pasi nxehtesia eshte shume e
 efektshrne kur mjedisi dhe vere xh.arni nxehet duke e rritur keshtu efektin e ngrohjes.
 Duhet re theksohet se pjrdorirni i xhalnave te d}fishte eshte i paefektshem ne ndalimin e diellit dhe eshte efektiv verem ne parandalimin e humbjes se diel!it nga jashte. Ndertimi i nje kulmi re rnadh te dale jashre •JXl masa e dritareve me grila jane pjese e zgjidhjeve te zakonshrne re mbrojtjes ndaj diellit (shih f guren me JXlShre).
-’ ..•....
+’ ..•. ’ ..•....
+’ ..•.
 ’ ..•.
 ;
 .!
@@ -1969,17 +2178,20 @@ Sinjalistika gjithashtu duhet te realizohet edhe me mjete te tjera:
 • nepermjet nje siperfaqe me konsistence te ndryshme;
 • nepermjet nje kontrasti kromatike ne dysheme te cilat jane te dukshme ne te gjitha kushtet e ndri9imit.
 Ngjyra Kuptimi ose qellimi Udhezime dhe sqarime
-•Sinjale ndalimi Sjellje te rrezikshme
+••Sinjale ndalimi Sjellje te rrezikshme
+•
 •
 Rrezik- alarm Ndalim, mekanizmat e nderprerjes se emergjences
-patsjeKuqe Materiale dhe .. Identifikim dhe vendndodhje
+patsjepatsjeKuqe Materiale dhe .. Identifikim dhe vendndodhje
+patsje
 patsje
 kunder zjarrit
 E Verdhe ose e Sinjale paralajmerimi Kujdes, verifiko
 D Verdhe
 •portokall
 Sinjale urdheruese Sjellje ose veprim i percaktuar -
-•Bojeqielli detyrim per te mbajtur nje mjet te sigurise personale
+••Bojeqielli detyrim per te mbajtur nje mjet te sigurise personale
+•
 •
 Sinjale te shpetimit Dyer, dalje, rruge, materiale,
 Jeshile ose te ndihmes pozicione, ndertesa.
@@ -2024,7 +2236,8 @@ Shkalle totalisht e jashtme ne krahasim me godinen, siguruar me parapet dhe me k
 Shkalla me prove tymi
 Shkalle ne nje hapesire ne kompartimentizimin e zjarrit qe ka akses ne cdo kat me dyer rezistente ndaj zjarrit RE e paracaktuar dhe e pajisur me mekanizem vete mbylles nga nje hapesire e zbuluar apo nje hapesire e hapur te pakten nga njera ane e pajisur me parapet.
 Siperfaqja bruto e kompartimenteve
-)Siperfaqja ne kat (m2
+))Siperfaqja ne kat (m2
+)
 )
 e perfshire brenda perimetrit te brendshme te mureve kufizuese te
 kompartimentit.
