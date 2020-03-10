@@ -1,0 +1,1 @@
+17. Struktura dhe organika e Njësisë miratohen me urdhër të Kryeministrit, sipas përcaktimeve në legjislacionin në fuqi për organizimin dhe funksionimin e administratës shtetërore, dhe ka në përbërje edhe punonjës të institucioneve të varësisë së Kryeministrisë, Ministrisë së Brendshme dhe Ministrisë së Financave dhe Ekonomisë, me kohë të plotë ose të pjesshme.

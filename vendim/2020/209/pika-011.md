@@ -1,0 +1,1 @@
+11. Me ftesë të Komitetit Kombëtar kundër Korrupsionit dhe Evazionit mund të marrin pjesë Drejtori Ekzekutiv i Autoritetit të Mbikëqyrjes Financiare dhe Inspektori i Përgjithshëm i Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave.

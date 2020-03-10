@@ -1,0 +1,2 @@
+14. Ministria e Drejtësisë, me qëllim zbatimin e këtij vendimi, nënshkruan memorandum mirëkuptimi me Inspektoratin e Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave, Autoritetin e Mbikëqyrjes Financiare, Prokurorinë e Përgjithshme dhe Prokurorinë e Posaçme për nxitjen e bashkëpunimit me Njësinë për çështje të antikorrupsionit dhe antievazionit.
+III. ORGANIZIMI DHE FUNKSIONIMI I NJËSISË

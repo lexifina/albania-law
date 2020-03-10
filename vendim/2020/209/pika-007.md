@@ -1,0 +1,1 @@
+7. Institucioni, që i nënshtrohet kontrollit apo verifikimit, ka për detyrë të japë sqarime e shpjegime për çështje që lidhen me objektin e verifikimit apo të kontrollit si dhe për fakte e rrethana të tjera, që kanë lidhje me to, kur kërkohet nga Njësia.
