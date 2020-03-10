@@ -1,0 +1,1 @@
+2. Për përzgjedhjen e të gjithë kandidatëve përpara fillimit të vitit akademik dhe ndjekjen e ecurisë së tyre gjatë studimeve, ngrihet komisioni përzgjedhës nga ana e ministrit përgjegjës për arsimin, sipas përbërjes dhe kritereve përzgjedhëse të parashikuara në këtë udhëzim.

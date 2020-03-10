@@ -1,0 +1,1 @@
+7. Dokumentet e paraqitura në ministrinë përgjegjëse për arsimin, duhet të jenë në gjuhë shqipe ose në gjuhë angleze, origjinale ose të njehsuara me origjinalin. Dokumentacioni në gjuhë të ndryshme nga ajo shqipe dhe angleze duhet të paraqitet i përkthyer dhe i njehsuar me origjinalin nga përkthyes të licencuar.
