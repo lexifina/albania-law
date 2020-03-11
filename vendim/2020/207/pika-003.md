@@ -1,0 +1,1 @@
+3. Shpërblimi, sipas pikës 1, të këtij vendimi, do t’u jepet edhe mjekëve dhe infermierëve që kanë dalë në pension dhe dëshirojnë të ofrojnë shërbim shëndetësor për trajtimin e personave të prekur nga infeksioni i shkaktuar nga COVID-19.

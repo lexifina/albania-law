@@ -1,0 +1,1 @@
+1. Dhënien e shpërblimit mujor, në masën 125 000 (njëqind e njëzet e pesë mijë) lekë, për personelin mjekësor, specialistë të shëndetit publik që merren me epidemiologjinë, infermierë dhe specialistë të shërbimit laboratorik, të angazhuar në diagnostikimin dhe trajtimin mjekësor të personave të prekur nga infeksioni i shkaktuar nga COVID-19.

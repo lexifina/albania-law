@@ -1,0 +1,1 @@
+2. Dhënien e shpërblimit mujor, në masën 65 000 (gjashtëdhjetë e pesë mijë), lekë, për personelin mbështetës, i angazhuar në institucionet ku trajtohen personat e prekur nga infeksioni i shkaktuar nga COVID-19.
