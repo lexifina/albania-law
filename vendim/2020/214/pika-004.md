@@ -1,0 +1,1 @@
+4. Për shkak dhe në funksion të marrjes së masave optimale për parandalimin e përhapjes së infeksionit nga COVID-19, iu bëjmë thirrje të gjithë punëdhënësve privatë që të gjejnë mundësitë për trajtimin me pushim të punëmarrësve të tyre, sipas pikës 1, të këtij vendimi.
