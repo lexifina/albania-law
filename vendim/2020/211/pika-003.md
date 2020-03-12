@@ -1,0 +1,1 @@
+3. Drejtimi operacional i Forcave të Armatosura të Republikës së Shqipërisë do të kryhet në përputhje me përcaktimet e legjislacionit në fuqi për pushtetet dhe autoritetet e drejtimit e të komandimit të Forcave të Armatosura të Republikës së Shqipërisë.

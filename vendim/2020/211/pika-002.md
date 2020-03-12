@@ -1,0 +1,1 @@
+2. Detyrat operacionale dhe niveli i angazhimit do të përcaktohen me urdhër të Shefit të Shtabit të Përgjithshëm të Forcave të Armatosura të Republikës së Shqipërisë dhe do të koordinohen me Policinë e Shtetit.
