@@ -1,0 +1,3 @@
+1. Përdorimin e fondit të rindërtimit për financimin e rindërtimit të objekteve arsimore (projektimin, zbatimin e punimeve, mbikëqyrjen dhe kolaudimin e këtyre objekteve) në vlerën, gjithsej, 7 978 134 932 (shtatë miliard e nëntëqind e shtatëdhjetë e tetë milionë e njëqind e tridhjetë e katër mijë e nëntëqind e tridhjetë e dy) lekë, përkatësisht:
+a) Fondit Shqiptar të Zhvillimit, në vlerën, gjithsej, 4 347 753 223 (katër miliard e treqind e dyzet e shtatë milionë e shtatëqind e pesëdhjetë e tre mijë e dyqind e njëzet e tre) lekë.
+b) Bashkisë Tiranë, në vlerën, gjithsej, 3 630 381 708 (tre miliard e gjashtëqind e tridhjetë milionë e treqind e tetëdhjetë e një mijë e shtatëqind e tetë) lekë.
