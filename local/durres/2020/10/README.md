@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Durrës nr. 10, datë 12.3.2020
+# Vendimi i Këshillit Bashkiak Durrës nr. 10, datë 12.3.2020
 
 Title on the official site: Vendimi nr.10, date 12.03.2020
 
