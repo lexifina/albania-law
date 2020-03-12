@@ -1,0 +1,18 @@
+# Neni 5
+Përkufizime
+1. Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+a) “Autoriteti Kompetent” është administrata tatimore, e ngarkuar nga ky ligj për mbledhjen e informacionit nga institucionet financiare raportuese dhe për shkëmbimin automatik me juridiksionet e tjera, në përputhje me marrëveshjen shumëpalëshe në këtë fushë;
+b) “Institucion financiar në Republikën e Shqipërisë”, është:
+i. çdo institucion financiar rezident në Republikën e Shqipërisë, me përjashtim të çdo dege të atij institucioni financiar, që ndodhet jashtë territorit të Republikës së Shqipërisë;
+ii. çdo degë e një institucioni financiar jorezident në Republikën e Shqipërisë, nëse kjo degë është e vendosur në Republikën e Shqipërisë;
+iii. çdo institucion kujdestarie, institucion depozitues, shoqëritë e investimit ose një kompani e specifikuar sigurimi, sipas përcaktimeve të Standardit të Përbashkët të Raportimit;
+c) “Institucioni financiar raportues” është çdo institucion financiar në Republikën e Shqipërisë që ka detyrimin të raportojë veprimtarinë financiare të klientëve pranë administratës tatimore;
+ç) “Juridiksion i raportueshëm” është një juridiksion i identifikuar në listën e publikuar, sipas përcaktimeve në aktet nënligjore të nxjerra për zbatimin e këtij ligji;
+d) “Llogari e raportueshme” është një llogari e mbajtur nga institucioni financiar raportues, e cila, sipas procedurave të vigjilencës së duhur, në përputhje me Standardet e Përbashkëta të Raportimit, është identifikuar si një llogari që mbahet nga një ose më shumë persona të raportueshëm në lidhje me juridiksionin tjetër ose nga një njësi ekonomike jofinanciare pasive, me një ose shumë persona kontrollues, të cilët konsiderohen persona të raportueshëm në lidhje me juridiksionin tjetër;
+dh) “Marrëveshje” është marrëveshja shumëpalëshe e Autoritetit Kompetent për shkëmbimin automatik të informacionit të llogarive financiare, e miratuar me vendimin nr. 178, datë 9.3.2016, të Këshillit të Ministrave, “Për miratimin e marrëveshjes shumëpalëshe, të Autoritetit Kompetent, për shkëmbimin automatik të informacionit të llogarisë financiare”;
+e) “Ofruesi i shërbimit palë e tretë” është personi, i cili mbledh, mban dhe raporton tek Autoriteti Kompetent informacionin e llogarive të raportueshme për një institucion financiar raportues;
+ë) “Person i raportueshëm” është një individ ose njësi ekonomike, që është identifikuar si i/e tillë nga një institucion financiar raportues në Republikën e Shqipërisë, rezident i një juridiksioni tjetër, sipas procedurave të vigjilencës së duhur, në përputhje me Standardin e Përbashkët të Raportimit;
+f) “Standard i Përbashkët i Raportimit” është standardi i vendosur nga Organizata për Zhvillim dhe Bashkëpunim Ekonomik (OECD) për informacionin që do të raportohet nga institucionet financiare dhe që do të shkëmbehet me juridiksionet përkatëse, në të cilin përfshihet dhe Komentari;
+g) “Vigjilenca e duhur” janë procedurat e përcaktuara për të identifikuar llogaritë e raportueshme, që mbahen nga personat e raportueshëm;
+gj) “Komentari” është interpretim i detajuar i çdo seksioni të Marrëveshjes së Autoritetit Kompetent dhe Standardit të Përbashkët të Raportimit, që synon të sigurojë zbatimin e duhur të tyre në të gjitha juridiksionet, si dhe të shmangë krijimin e kostove të panevojshme për institucionet financiare, veçanërisht për ato institucione që i përkasin më shumë se një juridiksioni.
+2. Çdo term tjetër, i përcaktuar ndryshe në këtë ligj ose në vendimin e Këshillit të Ministrave të nxjerrë në zbatim të tij, do të ketë kuptimin që ai ka në atë moment, sipas dispozitave të tjera ligjore në fuqi në Republikën e Shqipërisë dhe në përputhje me kuptimin e përcaktuar në Standardin e Përbashkët të Raportimit.

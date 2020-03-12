@@ -1,0 +1,4 @@
+# Neni 7
+Vigjilenca e duhur
+1. Për qëllim të nenit 6, të këtij ligji, institucionet financiare raportuese në Shqipëri duhet të veprojnë në përputhje me rregullat e vigjilencës së duhur, të parashikuara në aktet nënligjore në zbatim të këtij ligji, përfshirë edhe mbledhjen e vetëdeklarimeve për të gjitha llogaritë financiare të raportueshme, subjekte të këtij ligji.
+2. Institucionet financiare raportuese në Republikën e Shqipërisë kanë detyrimin të informojnë mbajtësit e llogarive të raportueshme për përpunimin e të dhënave të tyre personale, në kuadër të procesit të vigjilencës së duhur dhe detyrimit të raportimit, të kryer në përputhje me këtë ligj dhe aktet nënligjore në zbatim të tij, përpara fillimit të procesit të raportimit dhe në përputhje me legjislacionin për mbrojtjen e të dhënave personale.
