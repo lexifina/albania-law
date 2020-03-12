@@ -1,0 +1,1 @@
+1. Miratimin e dokumenteve standarde të procedurës së prokurimit për punët, shërbimet dhe mallrat, të kritereve të vlerësimit të ofertës fituese, kushteve të marrëveshjes kuadër dhe të kontratës për rindërtimin, sipas tekstit, që i bashkëlidhet këtij vendimi.
