@@ -1,0 +1,3 @@
+Certifikata, modeli BOV-X dhe BOV-Y, sipas pjesës së 2-të të urdhrit nr. 328, datë 22.11.2011, për miratimin e rregullores “Mbi përcaktimin e kritereve dhe kërkesave për certifikimin veterinar të disa llojeve kafshësh dhe mishit të freskët të tyre, të cilat hyjnë në Republikën e Shqipërisë nga shtete të caktuara, si dhe nga territore të tjera, në administrim të këtyre shteteve”, ndryshohet sipas modelit të certifikatave bashkëlidhur këtij urdhri.
+Për zbatimin e këtij urdhri ngarkohen Drejtoria e Përgjithshme Rregullatore dhe Përputhshmërisë në Bujqësi, Ushqim dhe Zhvillim Rural, agjencitë rajonale të shërbimit veterinar dhe mbrojtjes së bimëve dhe Autoriteti Kombëtar i Ushqimit.
+Ky urdhër hyn në fuqi menjëherë.
