@@ -1,0 +1,1 @@
+2. Nëpunësit civilë dhe punonjësit e përmendur në pikën 1, të këtij vendimi, gjatë kësaj periudhe, ngarkohen të kryejnë çdo detyrë funksionale që u ngarkohet nga eprori i drejtpërdrejtë ose titullari i institucionit, e cila mund të përmbushet në kushtet e banesës, nëpërmjet komunikimit telefonik apo të mënyrave të tjera të komunikimit elektronik.
