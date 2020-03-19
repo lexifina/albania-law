@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes së grantit, ndërmjet Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, në emër të Këshillit të Ministrave të Republikës së Shqipërisë dhe Fondit Global për të Luftuar SIDA-n, Tuberkulozin dhe Malarien, për programin “Përshkallëzimi dhe sigurimi i qëndrueshmërisë së përgjigjes kombëtare ndaj HIV/SIDA-s dhe Tuberkulozit në grupet kryesore të popullatës”, miratuar me vendimin nr.126, datë 13.2.2020, të Këshillit të Ministrave, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë.
