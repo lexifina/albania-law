@@ -1,0 +1,2 @@
+5. Prefekturat, bashkitë, me kërkesën e Komisionit Qendror për Ofrimin e Asistencës, Shërbimi Social Shtetëror dhe Instituti i Sigurimeve Shoqërore do të përpilojnë listat e subjekteve përfituese, sipas këtij vendimi, brenda 3 (tre) ditëve nga hyrja në fuqi e këtij vendimi.
+Listat, sipas kësaj pike, do t’i dërgohen në rrugë elektronike Komisionit Qendror për Ofrimin e Asistencës dhe Drejtorisë së Përgjithshme të Gjendjes Civile, e cila bën verifikimin e përbërjes familjare të personave të listuar dhe ia dërgon Komisionit Qendror për Ofrimin e Asistencës.

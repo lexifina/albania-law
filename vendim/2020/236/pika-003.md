@@ -1,0 +1,1 @@
+3. Përcaktimi i masës së produkteve, ushqimore dhe joushqimore, minimale, dhe i llojit të ndihmës kryhen me vendim të Komisionit Qendror për Ofrimin e Asistencës, të ngritur për këtë qëllim, sipas përcaktimit të pikës 11, të këtij vendimi.

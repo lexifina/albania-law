@@ -1,0 +1,1 @@
+7. Pas konfirmimit të listave, prefektët e qarqeve dhe kryetarët e bashkive ngrenë komisionet e mbrojtjes civile dhe marrin të gjitha masat me personelin e tyre, si dhe me shërbimin e vullnetarëve për dërgimin e produkteve, ushqimore dhe joushqimore, te shtresat në nevojë, sipas këtij vendimi.

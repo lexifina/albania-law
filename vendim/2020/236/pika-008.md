@@ -1,0 +1,1 @@
+8. Për asistencën ndaj shtresave në nevojë angazhohen dhe Forcat e Armatosura, të cilat koordinojnë punën me komisionet e mbrojtjes civile, në qarqe dhe bashki. Zonat dhe niveli i angazhimit do të përcaktohen me urdhër të Shefit të Shtabit të Përgjithshëm të Forcave të Armatosura të Republikës së Shqipërisë.

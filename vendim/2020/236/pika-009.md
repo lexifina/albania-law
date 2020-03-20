@@ -1,0 +1,1 @@
+9. Dërgimi i pagesave mujore, që këta persona përfitojnë nga programi i mbrojtjes sociale, i sigurimeve shoqërore, në banesë, do të kryhet nga shërbimi postar, në bazë të listave të konfirmuara, sipas përcaktimeve të këtij vendimi.

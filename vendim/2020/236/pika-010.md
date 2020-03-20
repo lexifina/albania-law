@@ -1,0 +1,1 @@
+10. Listat përditësohen çdo javë nga prefektët e qarqeve, bashkitë, Shërbimi Social Shtetëror dhe Instituti i Sigurimeve Shoqërore dhe i dërgohen për konfirmim Komisionit Qendror për Ofrimin e Asistencës.

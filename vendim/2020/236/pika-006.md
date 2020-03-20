@@ -1,0 +1,1 @@
+6. Komisioni Qendror për Ofrimin e Asistencës verifikon listat, bën rakordimet përkatëse, nëse është e nevojshme, dhe ia konfirmon prefektëve të qarqeve, kryetarëve të bashkive, Shërbimit Social Shtetëror dhe Institutit të Sigurimeve Shoqërore.
