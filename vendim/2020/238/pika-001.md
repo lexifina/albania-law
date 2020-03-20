@@ -1,0 +1,1 @@
+1. Dhënien e miratimit për lidhjen e kontratës, ndërmjet Ministrisë së Financave dhe Ekonomisë dhe zhvilluesit “ITALDRURI ELBASAN”, sh.p.k., për ndërtimin, zhvillimin, mirëmbajtjen dhe operimin e zonës së teknologjisë dhe zhvillimit ekonomik në Elbasan, sipas tekstit të projektkontratës që i bashkëlidhet këtij vendimi.
