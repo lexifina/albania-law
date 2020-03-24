@@ -1,0 +1,8 @@
+# Neni 19
+Produktet plehëruese të thjeshta me bazë nitrat amoni,
+me përmbajtje të lartë azoti
+1. Produktet plehëruese të thjeshta me bazë nitrat amoni, me përmbajtje të lartë azoti, mund të përmbajnë substanca inorganike ose inerte. Substancat që janë përdorur në prodhimin e këtij produkti plehërues nuk duhet të rrisin ndjeshmërinë e tij ndaj nxehtësisë e ndaj shpërthimit.
+2. Prodhuesi duhet të sigurojë që produktet plehëruese të thjeshta me bazë nitrat amoni, me përmbajtje të lartë azoti, duhet të plotësojnë kërkesat e këtij ligji.
+3. Kontrolli, analizat dhe testimet zyrtare të produkteve plehëruese të thjeshta me bazë nitrat amoni, me përmbajtje të lartë azoti, të referuara në këtë nen, duhet të jenë në përputhje të plotë me standardet e harmonizuara apo të miratuara nga institucioni përgjegjës për standardizimin.
+4. Për të siguruar gjurmueshmërinë e produkteve plehëruese të thjeshta me bazë nitrat amoni, me përmbajtje të lartë azoti, të vendosura në treg, prodhuesi mban një regjistër të veçantë vetëm për këtë lloj produkti plehërues, ku përcaktohen emri, adresa dhe vendndodhja e prodhuesit, si dhe e përdoruesve të tij. Ky regjistër duhet të jetë i disponueshëm për kontrollet që kryhen për të gjithë periudhën e vendosjes në treg të këtij produkti plehërues.
+5. Prodhuesi duhet të sigurojë që produkti plehërues me bazë nitrat amoni, me përmbajtje të lartë azoti, që vendoset në treg, të ketë kaluar testin e rezistencës ndaj shpërthimit. Ky test duhet të jetë bërë në një laborator testues të akredituar, në përputhje me legjislacionin në fuqi. Kalimi i testit të shpërthyeshmërisë është kusht i domosdoshëm për të gjitha produktet plehëruese që vendosen në treg.

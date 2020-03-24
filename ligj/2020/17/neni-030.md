@@ -1,0 +1,9 @@
+# Neni 30
+Kundërvajtje administrative
+1. Kur nuk përbëjnë vepër penale, shkeljet e mëposhtme të dispozitave të këtij ligji përbëjnë kundërvajtje administrative dhe ndëshkohen me:
+a) gjobë 50 000 (pesëdhjetë mijë) lekë, në rastet kur veprohet në kundërshtim me pikën 2, të nenit 25, dhe të nenit 28, të këtij ligji;
+b) gjobë 100 000 (njëqind mijë) lekë, në rastet kur veprohet në kundërshtim me pikën 3, të nenit 14, pikat 1, 4 e 5, të nenit 15, nenin 16, si dhe pikat 4 e 5, të nenit 19, të këtij ligji;
+c) gjobë 200 000 (dyqind mijë) lekë, në rastet kur veprohet në kundërshtim me nenin 6, pikat 1 e 2, të nenit 14, pikën 1, të nenit 18, si dhe pikat 1, 2 e 6, të nenit 19, të këtij ligji;
+ç) gjobë 500 000 (pesëqind mijë) lekë, në rastet kur veprohet në kundërshtim me nenin 27, si dhe në rast përsëritjeje të kundërvajtjeve administrative të parashikuara në pikat 1 e 2, të nenit 14, pikën 1, të nenit 6, si dhe pikat 1, 2 e 6, të nenit 19, të këtij ligji.
+2. Për shkeljet e dispozitave të këtij ligji, të cilat, sipas pikës 1, të këtij neni, përbëjnë kundërvajtje administrative, përveç masës së vënies së gjobës, e cila është dënim kryesor, vendosen edhe dënime plotësuese, si: masa e kthimit të ngarkesave, në rastin e shkeljeve të dispozitave të nenit 27, të këtij ligji; heqja e së drejtës së tregtimit me shumicë ose pakicë dhe heqja e licencës aty ku parashikohet licencimi, në rastin e shkeljeve të dispozitave të shkronjave “b”, “c” dhe “d”, të nenit 27, të këtij ligji; asgjësimi, sipas shkronjës “a”, të pikës 1, të nenit 29, të këtij ligji, si dhe masa urgjente, si: masa e bllokimit, në rastin e shkeljeve të përcaktuara në shkronjat “a” dhe “e”, të nenit 27, të këtij ligji, dhe masa e bllokimit, në rast përsëritjeje të shkeljeve të përcaktuara në nenin 28 të këtij ligji.
+3. Të gjitha të ardhurat nga gjobat derdhen në buxhetin e shtetit.
