@@ -1,0 +1,1 @@
+4. Në mbledhjet e KNEC-së marrin pjesë, me kërkesë të Kryetarit, përfaqësues të organeve të ndryshme publike, të biznesit, ekspertë/profesionistë të fushës së mjekësisë e të shëndetit publik dhe përfaqësues të shoqërisë civile ose drejtues të OJF-ve, me objekt veprimtarie shëndetin publik dhe ndihmën humanitare.
