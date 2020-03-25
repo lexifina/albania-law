@@ -1,0 +1,1 @@
+4. Mjekët që ushtrojnë veprimtari pranë institucioneve të përkujdesit shoqëror, rezidencial dhe ditor, publik dhe jopublik, të raportojnë në njësitë vendore të kujdesit shëndetësor dhe pranë Drejtorisë së Përgjithshme të Shërbimit Social Shtetëror mbi monitorimin e procesit në këto institucione.

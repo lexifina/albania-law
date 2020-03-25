@@ -1,0 +1,1 @@
+3. Të gjitha njësitë vendore të kujdesit shëndetësor të vendosin kontakte me drejtuesit/mjekët që ushtrojnë veprimtari pranë institucioneve të përkujdesit shoqëror, rezidencial dhe ditor, publik dhe jopublik dhe të monitorojnë situatën shëndetësore të përfituesve që marrin shërbim pranë këtyre institucioneve dhe personelit të institucionit.

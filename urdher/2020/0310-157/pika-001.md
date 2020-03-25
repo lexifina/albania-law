@@ -1,0 +1,1 @@
+1. Në institucionet e përkujdesit shoqëror pezullohen/ndalohen vizitat nga të afërm dhe familjarë. Në raste specifike vizitat mund të lejohen vetëm me miratimin e titullarit të Shërbimit Social Shtetëror.

@@ -1,0 +1,1 @@
+5. Mjekët që ushtrojnë veprimtari pranë institucioneve të përkujdesit shoqëror rezidencial dhe ditor, publik dhe jopublik, për çdo rast të dyshuar ndjekin protokollet e miratuara nga Ministria e Shëndetësisë dhe Mbrojtjes Sociale dhe Instituti i Shëndetit Publik.
