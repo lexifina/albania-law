@@ -1,0 +1,1 @@
+5. Fondi i Sigurimit të Detyrueshme të Kujdesit Shëndetësor të marrë masa për nxjerrjen e udhëzimeve për lehtësimin e procedurave dhe përdorimin e sistemeve elektronike në paketën e barnave të rimbursueshme duke krijuar dhe promovuar shërbimet online.

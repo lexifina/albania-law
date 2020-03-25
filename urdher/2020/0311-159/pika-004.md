@@ -1,0 +1,1 @@
+4. Operatori i Shërbimeve të Kujdesit Shëndetësor organizon punën në institucionet e kujdesit shëndetësor, qendrat shëndetësore, poliklinikat dhe spitalet për të siguruar bazën e shërbimeve të nevojshme bazë për qytetarët duke nxitur përdorimin e shërbimeve online dhe platformave e-Albania dhe Telemjekësia.
