@@ -5,7 +5,7 @@ e tipit “A/TN”
 a) gjashtëmujore të pandërprerë, që paraprin menjëherë këtë transferim, për kategoritë:
 i) administrator;
 ii) specialistë.
-b) tremujore të pandërprerë, që paraprin menjëherë këtë transferim, për kategorinë “praktikantë të diplomuar”.
+b) tremujore të pandërprerë, që paraprin menjëherë këtë transferim, për kategorinë “praktikantë të diplomuar.
 2. I huaji pajiset me leje pune të tipit “A/TN”, si i transferuar brenda ndërmarrjes, ose kompanisë, nëse plotëson kushtet si më poshtë:
 a) është punonjës i punësuar nga një punëdhënës i huaj, sikurse përmendet në pikën 3 të këtij neni, me kusht që punëdhënësi i huaj vepron në kuadrin e marrëdhënieve të bashkëpunimit të shërbimeve për një periudhë kohe të kufizuar;
 b) transferohet si punonjës në Republikën Shqipërisë për llogari dhe nën drejtimin e punëdhënësit të huaj, bazuar në një kontratë të lidhur ndërmjet tij dhe punëdhënësit të huaj, i cili e cakton atë për një punë apo shërbim të caktuar, në kuadrin e biznesit të punëdhënësit të huaj në Republikën e Shqipërisë, me kusht që të jetë në marrëdhënie pune me punëdhënësin e huaj gjatë periudhës së transferimit;
