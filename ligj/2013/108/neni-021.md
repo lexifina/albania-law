@@ -1,6 +1,6 @@
 # Neni 21
 Viza e tipit “C”
-1. Viza e tipit “C” është viza, e cila i jep të drejtën mbajtësit të saj të hyjë dhe të qëndrojë në Republikën e Shqipërisë deri në 90 ditë brenda 180 ditëve, duke filluar nga data e hyrjes së parë.
+1. Viza e tipit ’C’ është viza që lëshohet në formën e një vize pullë ose e printuar nga format elektronik, e cila i jep të drejtën mbajtësit të saj të hyjë dhe të qëndrojë në Republikën e Shqipërisë deri në 90 ditë, brenda 180 ditëve, duke filluar nga data e hyrjes së parë.
 2. Viza e tipit “C” mund të lëshohet me një, dy ose shumë hyrje. Periudha e vlefshmërisë nuk mund t’i kalojë 5 vjet.
 3. Viza e tipit “C” mund të lëshohet me shumë hyrje dhe vlefshmëri, duke filluar nga 6 muaj deri në 5 vjet kur përmbushen kushtet e mëposhtme:
 a) aplikuesi provon nevojën dhe justifikon qëllimin për të udhëtuar rregullisht, për shkak të detyrimeve familjare, të biznesit, të shërbimit civil, angazhimeve në organizata të shoqërisë civile, udhëton për qëllime trajnimesh, edukimi apo vjen rregullisht të kontribuojë pranë organizatave ndërkombëtare të vendosura në Republikën e Shqipërisë;

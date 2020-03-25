@@ -6,4 +6,5 @@ b) është punësuar në kuadër të zbatimit të marrëveshjeve ndërkombëtare
 c) ka përfunduar një shkollë të mesme profesionale, publike ose private, në Republikën e Shqipërisë;
 ç) ka ardhur në Republikën e Shqipërisë për formim profesional;
 d) ka statusin e të transferuarit brenda ndërmarrjes;
-dh) cilësohet si punonjës “me kualifikim të lartë”.
+dh) cilësohet si punonjës “me kualifikim të lartë”;
+e) është punëmarrës/i vetëpunësuar në fushën e teknologjisë së informacionit.
