@@ -1,0 +1,1 @@
+1. Të gjithë shtetasit që hyjnë në territorin e Republikës së Shqipërisë dhe vijnë nga zona e izoluar në Itali, të vetëkarantinohen për një periudhë 14-ditore në ambientet e banesave të tyre, si një masë parandaluese për mospërhapjen e infeksionit të shkaktuar nga COVID-19.

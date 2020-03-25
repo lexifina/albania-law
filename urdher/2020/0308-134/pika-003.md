@@ -1,0 +1,1 @@
+3. Moszbatimi i këtij urdhri nga personat që hyjnë në Republikën e Shqipërisë, nga zona e izoluar në Itali, është i dënueshëm sipas dispozitave të nenit 35, të ligjit nr. 15/2016, “Për parandalimin dhe luftimin e infeksioneve dhe sëmundjeve infektive”.
