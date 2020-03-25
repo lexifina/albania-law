@@ -1,0 +1,1 @@
+2. Pezullimin e funksionimit të Komisioneve Mjekësore të Caktimit të Aftësisë për Punë, dhe Komisioneve Shumëdisiplinore të Vlerësimit të Aftësisë së Kufizuar, pranë të cilave paraqiten individë për vlerësim/rivlerësim.
