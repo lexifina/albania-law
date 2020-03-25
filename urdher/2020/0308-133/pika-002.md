@@ -1,0 +1,1 @@
+2. Në ambientet e shërbimit spitalor, ku janë duke marrë trajtimin spitalor pacientët, ndalohet hyrja e shoqëruesve dhe/ose familjarëve të pacientëve, me përjashtim të rasteve kur një kërkesë e tillë vjen nga drejtoria spitalore.

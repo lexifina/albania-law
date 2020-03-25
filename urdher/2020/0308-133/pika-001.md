@@ -1,0 +1,1 @@
+1. Në ambientet e shërbimeve të urgjencës mjekësore në institucionet e kujdesit shëndetësor ndalohet hyrja e shoqëruesve dhe/ose familjarëve të pacientëve, me përjashtim të rasteve kur një kërkesë e tillë vjen nga drejtoria spitalore.
