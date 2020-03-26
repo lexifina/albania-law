@@ -1,0 +1,1 @@
+1. Vendosjen në dispozicion të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale, për përballimin e situatës së epidemisë së shkaktuar nga COVID-19, të objektit të ish-universitetit “Kristal”, me vendndodhje në Mëzez, Tiranë, zona kadastrale 2679, sipas kartelave të pasurive dhe planvendosjes bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+2. Ministria e Shëndetësisë dhe Mbrojtjes Sociale të marrë të gjitha masat, në varësi të situatës, për përshtatjen e pasurisë së përmendur në pikën 1, të këtij vendimi, në një strukturë karantine ose spitalore, si dhe të përllogarisë fondin për të kryer investimet e nevojshme.
