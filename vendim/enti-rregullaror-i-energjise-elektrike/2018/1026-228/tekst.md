@@ -4,6 +4,10 @@ Nr. 228, datë 26.10.2018
 
 MBI LICENCIMIN E SHOQËRISË “OSOJA HPP” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA HEC “OSOJË”, ME FUQI TË INSTALUAR 1952 kw, NË ZONËN E MOGLICËS, KORÇË (LUMI OSOJË)
 
+(Ndryshuar me vendimin nr. 56, datë 26.3.2020)
+
+I përditësuar
+
 Në mbështetje të nenit 16 dhe të nenit 37, pika 2, germa “a”, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar; si dhe të nenit 4, pika 1, germa “a”, të nenit 5, pika 1, germa “a” dhe të nenit 13, të “Rregullores për procedurat dhe afatet për dhënie, modifikimi, transferimi, rinovimi ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e Bordit të ERE-s nr. 109, datë 29.6.2016 dhe të nenit 15 të “Rregullore të organizimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 26.10.2018, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut, mbi licencimin e shoqërisë “Osoja HPP” sh.p.k, në aktivitetin e prodhimit të energjisë elektrike nga HEC “Osojë”, me fuqi të instaluar 1952 kw dhe vendndodhje në zonën e Moglicës, Korçë (lumi Osojë),
 
 konstatoi se: 
@@ -50,7 +54,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Osoja HPP” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga HEC “Osoja”, me fuqi 1952 kw, dhe vendndodhje në zonën e Moglicës, Korçë (lumi Osojë), për një afat 30-vjeçar (tridhjetëvjeçar).
 
-2. Shoqëria “Osoja HPP” sh.p.k. duhet të përcjellë në ERE, ndryshimin e kontratës me nr. 1755 rep., nr. 776/3 kol., datë 25.7.2017, “Për ndërtimin, shfrytëzimin dhe administrimin e hidrocentralit “Osojë”.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit dhe e Monitorimit të Tregut të njoftojë aplikuesin për vendimin e Bordit të ERE-s. 
 
