@@ -4,6 +4,10 @@ Nr. 141, datë 24.9.2019
 
 MBI LICENCIMIN E SHOQËRISË “AYEN AS ENERGJI” SHA, NË VEPRIMTARINË E TREGTIMIT TË ENERGJISË ELEKTRIKE
 
+(Ndryshuar me vendimin nr. 54, datë 26.3.2020)
+
+I përditësuar
+
 Në mbështetje të nenit 16 dhe nenit 37, pika 2, germa “d”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”; të ndryshuar, neneve 4, pika 1, germa “e”; 5 pika 1, germa “e” dhe nenit 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e bordit të ERE-s nr. 109, datë 29.6.2016 dhe neneve 15 dhe 37 të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e bordit të ERE-s nr. 96, datë 17.6.2016, bordi i ERE-s, në mbledhjen e tij të datës 24.9.2019, mbasi shqyrtoi relacionin nr. 89/8 prot., datë 12.9.2019, të përgatitur nga Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes mbi licencimin e shoqërisë “Ayen AS Energji” sh.a., në veprimtarinë e tregtimit të energjisë elektrike,
 
 konstatoi se: 
@@ -38,7 +42,7 @@ VENDOSI:
 
 1. Të rrëzojë kërkesën për shqyrtimin me procedurë të përshpejtuar të aplikimit të shoqërisë “Ayen AS Energji” sh.a., nr. 093 prot., datë 22.8.2019, të protokolluar në ERE me nr. 514/2 prot., datë 22.8.2019, për licencimin në veprimtarinë e tregtimit të energjisë elektrike. 
 
-2. Të licencojë shoqërinë “Ayen AS Energji” sh.a., në veprimtarinë e tregtimit të energjisë elektrike, për një afat 5- (pesë-) vjeçar, me kusht që të depozitojë në ERE vërtetimin për përfundimin e procedurës së apelimit për detyrimin e TVSH-së, ndaj Drejtorisë së Përgjithshme të Tatimeve, Tiranë. 
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit, Autorizimeve dhe Mbikëqyrjes të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
