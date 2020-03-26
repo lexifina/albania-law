@@ -4,6 +4,10 @@ Nr. 72, datë 10.5.2019
 
 MBI LICENCIMIN E SHOQËRISË “SMART WATT” SHPK, NË VEPRIMTARINË E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA CENTRALI FOTOVOLTAIK, ME KAPACITET TË INSTALUAR  2 mw, NË ZONËN SHEQ MARINAS, NJËSIA  ADMINISTRATIVE TOPOJË, BASHKIA FIER
 
+(Ndryshuar me vendimin nr. 57, datë 26.3.2020)
+
+I përditësuar
+
 Në mbështetje të neneve 16, 37, pika 2, germa “a”, të ligjit nr. 43/2015 “Për sektorin e energjisë elektrike”, i ndryshuar, neneve 4, pika 1, germa “a”; neni 5, pika 1, germa “a”; neni 10, pikat 1 dhe 3, të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, neni 15 i “Rregullave për organizimin, funksionimin dhe procedurat e ERE-s”, bordi i  ERE-s, në mbledhjen e tij të datës 10.5.2019, mbasi shqyrtoi relacionin e përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut mbi licencimin e shoqërisë “Smart Watt” sh.p.k., në veprimtarinë e prodhimit të energjisë elektrike nga centrali fotovoltaik, me kapacitet  të instaluar  2 mw, në zonën Sheq Marinas, njësia administrative Topojë, Bashkia Fier,
 
 konstatoi se: 
@@ -38,7 +42,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë “Smart Watt” sh.p.k., në veprimtarinë  e prodhimit të energjisë elektrike nga centrali fotovoltaik me fuqi të instaluar 2 mw, në zonën Sheq Marinas, njësia administrative Topojë, Bashkia Fier për një afat 25-vjeçar. 
 
-2. Para vënies në punë të centralit, shoqëria “Smart Watt” sh.p.k., të depozitojë në ERE miratimin e pikës së lidhjes me rrjetin e transmetimit apo shpërndarjes. 
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit dhe e Monitorimit të Tregut të njoftojë aplikuesin për vendimin e bordit të ERE-s.
 
