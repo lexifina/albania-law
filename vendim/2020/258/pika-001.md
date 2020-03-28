@@ -1,0 +1,1 @@
+1. Ministrisë së Financave dhe Ekonomisë, në buxhetin e miratuar për vitin 2020, në programin buxhetor “Ekzekutimi i pagesave të ndryshme” 01130, i shtohet fondi prej 98 400 000 (nëntëdhjetë e tetë milionë e katërqind mijë) lekësh, për pagesën e këshilltarit financiar për menaxhimin e borxhit shtetëror.
