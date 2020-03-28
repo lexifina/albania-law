@@ -1,0 +1,1 @@
+3. Fondi prej 11 000 000 (njëmbëdhjetë milionë) lekësh për shpërblimin e personelit shëndetësor, mjekë dhe infermierë, sipas pikës 2, të këtij vendimi, të përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2020.

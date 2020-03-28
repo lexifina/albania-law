@@ -1,0 +1,1 @@
+5. Ministria e Shëndetësisë dhe Mbrojtjës Sociale dhe Ministria e Infrastrukturës dhe Energjisë të marrin të gjitha masat për të siguruar transportin e personelit shëndetësor, mjekë dhe infermierë, drejt Italisë.

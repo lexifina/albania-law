@@ -1,0 +1,1 @@
+2. Shpërblimi i mjekëve dhe infermierëve, që do të ofrojnë shërbim shëndetësor sipas pikës 1, të këtij vendimi, do të jetë në vlerën 3 000 (tre mijë) euro në muaj për mjekët dhe 2500 (dy mijë e pesëqind) euro në muaj për infermierët.
