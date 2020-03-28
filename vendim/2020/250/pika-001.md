@@ -1,0 +1,3 @@
+1. Në buxhetin e vitit 2020, miratuar për Ministrinë e Infrastrukturës dhe Energjisë dhe Agjencinë Kombëtare të Shoqërisë së Informacionit, bëhet rishpërndarja e fondit, si më poshtë vijon:
+a) Ministrisë së Infrastrukturës dhe Energjisë, në programin buxhetor “Transporti rrugor” 04520, i pakësohet fondi prej 146 000 000 (njëqind e dyzet e gjashtë milionë) lekësh në shpenzime kapitale;
+b) Agjencisë Kombëtare të Shoqërisë së Informacionit, në programin buxhetor “E-Qeverisja” 01140, i shtohet fondi prej 146 000 000 (njëqind e dyzet e gjashtë milionë) lekësh në shpenzime kapitale, për projektin “Për programin e integruar të zhvillimit “Poli i Drejtësisë””, me vlerë 313 000 000 (treqind e trembëdhjetë milionë) lekë.
