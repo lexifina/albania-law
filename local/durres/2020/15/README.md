@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Durrës nr. 15, datë 30.3.2020
+# Vendimi i Këshillit Bashkiak Durrës nr. 15, datë 30.3.2020
 
 Title on the official site: Vendimi nr.15, date 30.03.2020
 
