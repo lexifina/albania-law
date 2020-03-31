@@ -1,0 +1,1 @@
+5. Pensionet e parakohshme, të caktuara sipas ligjit nr.10142, datë 15.5.2009, të ndryshuar, me datë fillimi nga 1.4.2020 e në vazhdim, nuk do të jenë më pak se 14 069 (katërmbëdhjetë mijë e gjashtëdhjetë e nëntë) lekë në muaj.

@@ -1,0 +1,1 @@
+9. Shuma bazë e pensionit, e përcaktuar sipas pikës 2, të nenit nr.32, të ligjit nr.7703, datë 11.5.1993, të ndryshuar, duke filluar nga data 1.4.2020 e në vazhdim të jetë 7 674 (shtatë mijë e gjashtëqind e shtatëdhjetë e katër) lekë.
