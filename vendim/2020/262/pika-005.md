@@ -1,0 +1,2 @@
+5. Instituti i Sigurimeve Shoqërore, në mbështetje të vendimeve të Këshillit të Ministrave nr.571, datë 3.10.2018, dhe nr.180, datë 4.4.2019, si dhe të këtij vendimi, harton dhe shpall tabelën e koeficientëve të indeksimit të bazës së vlerësuar për periudhën deri në vitin 1994 dhe për vitet në vazhdim, deri në vitin 2019, si dhe ngarkohet për zbatimin e tyre.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare dhe i shtrin efektet financiare nga data 1.4.2020.
