@@ -1,0 +1,1 @@
+5. Institucionet përkatëse, sipas pikave 1 dhe 2, të këtij vendimi, të derdhin shumat e papaguara në buxhetin e shtetit, në fondin antiCOVID-19, të miratuar për vitin 2020, në bankën e nivelit të dytë Credins Bank, me numër llogarie në lekë nr.1348338, me IBAN: AL 152121 1016 0000 0000 0134 8338.

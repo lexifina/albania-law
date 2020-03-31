@@ -1,0 +1,1 @@
+3. Përjashtohen nga zbatimi i pikës 2, të këtij vendimi, nëpunësit e institucioneve të administratës shtetërore të cilët janë anëtarë të këshillave, bordeve apo komisioneve të sistemit të Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale.

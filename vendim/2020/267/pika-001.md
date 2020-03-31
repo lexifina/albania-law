@@ -1,0 +1,1 @@
+1. Kryeministri, Zëvendëskryeministri dhe ministrat, gjatë periudhës së gjendjes së epidemisë së shkaktuar nga COVID-19 deri në përfundim të saj, por jo më shumë se tre muaj, përfitojnë pagë mujore neto në masën 50% të pagës mujore neto aktuale.
