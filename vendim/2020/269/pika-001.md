@@ -1,0 +1,1 @@
+1. Për miratimin e propozimit të përbashkët të përgatitur nga Sekretariati i Përhershëm i Komunitetit të Transportit dhe Sekretariati i CEFTA-s, për të lehtësuar transportin dhe tregtimin e mallrave të nevojës së parë brenda Ballkanit Perëndimor, sipas tekstit dhe hartës që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
