@@ -8,7 +8,7 @@ c) Studentët, të cilët u përkasin shtresave sociale në nevojë, si më posh
 i) studentët, familjet e të cilëve trajtohen me ndihmë ekonomike;
 ii) bashkëshortët, të cilët kanë fëmijë dhe janë të dy studentë;
 iii) studentët, persona me aftësi të kufizuara, të vërtetuar nga Komisioni Mjekësor i Caktimit të Aftësisë për Punë, përfitues të pagesës së aftësisë së kufizuar;
-iv) studentët, të cilët i kanë të dy prindërit me aftësi të kufizuara, të vërtetuar me vendim të Komisionit Mjekësor të Caktimit të Aftësisë për Punë, përfitues të pagesës së aftësisë së kufizuar;
+iv) studentët, të cilët kanë, të paktën, njërin prind person me aftësi të kufizuara, të vërtetuar nga Komisioni Mjekësor i Caktimit të Aftësisë për Punë, përfitues të pagesës së aftësisë së kufizuar;
 v) studentët, të cilët i kanë të dy prindërit pensionistë ose njërin prind pensionist dhe prindi tjetër nuk jeton;
 vi) studentët, të cilët janë të tretët e lart në radhën e fëmijëve në familje me tre fëmijë a më shumë, nga të cilët dy të parët janë studentë në institucionet publike të arsimit të lartë;
 vii) studentët, të cilët kanë përfituar statusin e jetimit, deri në moshën 25 vjeç;
