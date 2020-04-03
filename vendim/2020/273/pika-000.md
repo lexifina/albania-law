@@ -1,0 +1,2 @@
+Miratimin e kontratës për lotin 2 me objekt “Trajtim dhe asgjësim të mbetjeve që dalin nga shërbimet ku marrin trajtim pacientët me COVID-19 për QSUT”, me palë Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale dhe operatorin ekonomik “ECO RICIKLIM”, sh.p.k., të zhvilluar me procedurën e drejtpërdrejtë me objekt “Blerje kite dhe reagentë, evadim mbetje antiCOVID-19 ndarë në dy lote”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
