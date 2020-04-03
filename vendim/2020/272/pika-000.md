@@ -1,0 +1,2 @@
+Miratimin e kontratës për lotin 1 me objekt “Blerje kite për laboratorin mikrobiologjik për realizimin e RT-PCR të përshtatshëm për t’u përdorur për pajisjen e Existation të firmës Bioneer ose ekuivalent” për QSUT-në, me palë Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale dhe operatorin ekonomik “O.E.S DISTRIMED”, sh.p.k., të zhvilluar me procedurën e drejtpërdrejtë me objekt “Blerje kite dhe reagentë, evadim mbetje antiCOVID-19 ndarë në dy lote”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
