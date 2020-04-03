@@ -1,0 +1,1 @@
+9. Drejtoria e Përgjithshme e Politikave dhe Zhvillimit të Arsimit, Sportit dhe Rinisë, brenda datës 30 dhjetor, i paraqet për miratim ministrit renditjen përfundimtare të federatave, sipas sistemit të pikëzimit të përcaktuar në këtë udhëzim, shoqëruar me vlerat financiare buxhetore për secilën federatë përfituese, referuar fondeve të miratuara në ligjin e buxhetit.

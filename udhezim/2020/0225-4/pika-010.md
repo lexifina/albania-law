@@ -1,0 +1,1 @@
+10. Drejtoria përgjegjëse për financat, në ministrinë përgjegjëse për sportin, bën kreditimin e fondeve buxhetore, sipas organizatave, referuar ndarjes së tyre nga grupi i posaçëm i punës dhe të miratuara nga ministri përgjegjës për sportin.

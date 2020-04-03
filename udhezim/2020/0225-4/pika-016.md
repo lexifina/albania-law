@@ -1,0 +1,1 @@
+16. Federatat shqiptare të sportit mund të aplikojnë me projekte apo të kërkojnë financime për investime/shpenzime kapitale nga buxheti i ministrisë përgjegjëse për programin “Zhvillimi i sportit”, për objekte në pronësi publike, në përputhje me legjislacionin në fuqi.
