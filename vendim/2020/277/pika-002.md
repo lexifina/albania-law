@@ -1,0 +1,13 @@
+2. Linja e garancisë shtetërore lëshohet në favor të secilës bankë të nivelit të dytë, si më poshtë vijon:
+- “Raiffeisen Bank”, sh.a., Albania, në vlerën 1 900 000 000 lekë;
+- “Banka Tirana”, sh.a., në vlerën 600 000 000 lekë;
+- “Banka Union”, sh.a., në vlerën 600 000 000 lekë;
+- “Banka Intesa Sanpaolo Albania”, sh.a., në vlerën 900 000 000 lekë;
+- “Banka Kombëtare Tregtare”, sh.a., në vlerën 1 900 000 000 lekë;
+- “Banka OTP Albania”, sh.a., në vlerën 1 100 000 000 lekë;
+- “Banka Procredit”, sh.a., në vlerën 400 000 000 lekë;
+- “Banka Alpha Albania”, sh.a., në vlerën 700 000 000 lekë;
+- “Banka Amerikane e Investimeve”, sh.a., në vlerën 500 000 000 lekë;
+- “Banka Credins”, sh.a., në vlerën 2 000 000 000 lekë;
+- “Banka e Bashkuar e Shqipërisë”, sh.a., në vlerën 100 000 000 lekë;
+- “Banka e Parë e Investimeve, Albania”, sh.a., në vlerën 300 000 000 lekë.

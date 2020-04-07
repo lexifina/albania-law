@@ -1,0 +1,1 @@
+8. Struktura e posaçme ndërinstitucionale, e cila do të monitorojë, shqyrtojë dhe raportojë, periodikisht, pranë ministrit të Financave dhe Ekonomisë në lidhje me ecurinë e garancisë shtetërore, miratohet me urdhër të Kryeministrit.
