@@ -1,0 +1,1 @@
+3. Institucionet e Arsimit të Lartë pajisin me dokumentin zyrtar përkatës, sipas përcaktimeve të këtij udhëzimi, studentin i cili ka përfunduar detyrimet akademike dhe detyrime të tjera institucionale për programin përkatës të studimit.

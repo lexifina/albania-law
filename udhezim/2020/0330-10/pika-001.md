@@ -1,0 +1,1 @@
+1. Përcaktimin e elementëve përbërës, formës së diplomës ose certifikatës së lëshuar nga ana e institucioneve të arsimit të lartë (IAL) dhe procedurës së regjistrimit të formës së diplomës dhe certifikatës në Regjistrin Shtetëror të Diplomave dhe të Certifikatave për Arsimin e Lartë dhe Kërkimin Shkencor (në vijim Regjistri shtetëror).

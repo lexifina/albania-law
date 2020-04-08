@@ -1,0 +1,1 @@
+20. Çdo IAL e interesuar, të cilës i është refuzuar regjistrimi i formës së diplomës ose certifikatës, ka të drejtë të ushtrojë të drejtën e ankimit administrativ brenda 30 ditësh në ministrinë përgjegjëse për arsimin e lartë.

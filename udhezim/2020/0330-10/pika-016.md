@@ -1,0 +1,1 @@
+16. Diplomat ose certifikatat e regjistruara në Regjistrin shtetëror vlerësohen të njohura dhe përbëjnë akte zyrtare për të gjitha autoritetet që veprojnë në Republikën e Shqipërisë, sipas legjislacionit në fuqi.
