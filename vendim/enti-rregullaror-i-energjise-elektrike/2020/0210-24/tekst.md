@@ -4,6 +4,10 @@ Nr. 24, datë 10.2.2020
 
 MBI PROCEDURËN E SHITJES SË TEPRICAVE TË ENERGJISË ELEKTRIKE NË TREG TË PARREGULLUAR NGA FURNIZUESI I TREGUT TË LIRË, FTL SHA
 
+(Ndryshuar me vendimin nr. 66, datë 8.4.2020)
+
+I përditësuar
+
 Në mbështetje të neneve 16 dhe 20, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të ndryshuar, nenit 11, pika 2, të VKM-së nr. 244, datë 30.3.2016, “Për miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do të zbatohen ndaj të licencuarve në sektorin e energjisë elektrike, të cilët ushtrojnë aktivitetin e prodhimit, transmetimit, shpërndarjes dhe furnizimit me energji elektrike”, të ndryshuar, nenit 15, të “Rregullores së organizimit, funksionimit dhe procedurave të ERE-s”, miratuar me vendimin e Bordit të ERE-s nr. 96, datë 17.6.2016, Bordi i ERE-s, në mbledhjen e tij të datës 10.2.2020, mbasi shqyrtoi relacionin e hartuar nga Drejtoritë Teknike, në lidhje me procedurën e shitjes së tepricave të energjisë elektrike në treg të parregulluar nga ana e FTL sh.a., në zbatim të VKM-së nr. 883, datë 27.12.2019, “Për disa ndryshime dhe shtesa në VKM nr. 244, datë 30.3.2016, ‘Për miratimin e kushteve për vendosjen e detyrimit të shërbimit publik, që do të zbatohen ndaj të licencuarve në sektorin e energjisë elektrike, të cilët ushtrojnë aktivitetin e prodhimit, transmetimit, shpërndarjes dhe furnizimit me energji elektrike’, të ndryshuar”,
 
 konstatoi se: 
@@ -36,7 +40,7 @@ VENDOSI:
 
 1. Për një periudhe tranzitore, deri në miratimin e rregullave të tregtimit të Energjisë elektrike, Furnizuesi i Tregut të Lirë (FTL) sh.a., për qëllim të procedurës së shitjes së tepricave të prodhuara nga prodhuesit me përparësi të energjisë elektrike, të përdorë “Rregullat e përgjithshme të organizimit të aktivitetit tregtar nga Korporata Elektroenergjetike Shqiptare sh.a.” të miratuar me vendimin nr. 5233/1, datë 12.6.2019, të Asamblesë së Përgjithshme të Aksionarit.
 
-2. Furnizuesi i Tregut të Lirë (FTL) sh.a. të propozojë për miratim në ERE, brenda 30 ditëve nga hyrja në fuqi e këtij vendimi, rregullat për tregtimin e energjisë elektrike të mbështetur në parimet e barazisë dhe të transparencës.
+2. FTL sh.a. të propozojë për miratim në ERE, brenda 30 (tridhjetë) ditëve pas përfundimit të fuqisë juridike të akteve ligjore të qeverisë shqiptare për mbrojtjen nga epidemia COVID-19, rregulloren e tregtimit të energjisë elektrike, të mbështetur në parimet e barazisë dhe të transparencës.
 
 3. Drejtoria e Çështjeve Ligjore të njoftojë Furnizuesin e Tregut të Lirë (FTL) sh.a., Ministrinë e Infrastrukturës dhe energjisë, si dhe Autoritetin e Konkurrencës për vendimin e Bordit të ERE-s.
 
