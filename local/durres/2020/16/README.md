@@ -1,4 +1,4 @@
-# Vendimi i Këshilli Bashkiak Durrës nr. 16, datë 9.4.2020
+# Vendimi i Këshillit Bashkiak Durrës nr. 16, datë 9.4.2020
 
 Title on the official site: Vendimi nr.16, date 09.04.2020
 
