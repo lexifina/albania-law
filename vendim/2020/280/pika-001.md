@@ -1,0 +1,1 @@
+1. Miratimin e rregullores për mënyrën e funksionimit të Komitetit të Përzgjedhjes të Projekteve të Koncesionit/PPP dhe kriteret për vlerësimin e kërkesave së autoriteteve kontraktuese për mbështetje me ekspertizë të specializuar, sipas tekstit që i bashkëlidhet këtij vendimi.
