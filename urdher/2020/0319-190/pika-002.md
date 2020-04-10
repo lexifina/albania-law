@@ -1,0 +1,1 @@
+2. Urdhri i Ministrit të Shëndetësisë dhe Mbrojtjes Sociale nr. 153/1, datë 9.3.2020 “Për mbylljen e veprimtarisë së çerdheve për kufizimin e përhapjes së infeksionit COVID-19” dhe urdhri nr.135 datë 9.3.2020 “Për mbylljen e institucioneve arsimore për kufizimin e përhapjes së infeksionit COVID-19”, shfuqizohen.
