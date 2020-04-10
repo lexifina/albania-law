@@ -1,0 +1,28 @@
+{
+  "qbz_id": 21424,
+  "title": "Mbi disa ndryshime të përkohëshme në procedurat e licencimit në ushtrimin e veprimtarive në sektorin e energjisë elektrike dhe gazit natyror në kuadër të masave pas shfaqjes së virusit COVID-19 dhe shpalljes së gjëndjes së fatkeqësisë natyrore në vendin tonë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "51",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-03-26",
+  "published": "2020-04-10",
+  "in_force": "2020-04-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/896776aab9ec49a3d8cc20422c9aa4f2c53da63690da64d69da74a770afeebde.docx",
+  "source_sha256": "896776aab9ec49a3d8cc20422c9aa4f2c53da63690da64d69da74a770afeebde",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21424",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/03/26/51",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    66543
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
