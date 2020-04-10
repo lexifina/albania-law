@@ -1,0 +1,1 @@
+2. Përjashtim nga rregulli i caktuar në pikën 1të këtij urdhri bëjnë mjetet e trasportit të pajisura me autorizim të posaçëm nga autoritetet kompetente dhe mjetet e transportit të punonjësve në institucionet publike dhe/ose privatë të cilët lejohen të qarkullojnë në intervalin kohor 5:00 deri në orën 8:00 dhe midis intervalit kohor nga ora 16:00 deri 17:00.
