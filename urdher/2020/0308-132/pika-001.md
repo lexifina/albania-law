@@ -1,1 +1,1 @@
-1. Mbylljen e aktiviteteve publike dhe jopublike të tilla si aktivitete sportive, aktivitete kulturore dhe konferenca, deri në datën 3 prill 2020.
+1. Mbylljen e aktiviteteve publike dhe jopublike të tilla si aktivitete sportive, aktivitete kulturore dhe konferenca, deri në përfundim të gjendjes së epidemisë së shkaktuar nga infeksioni COVID-2019.
