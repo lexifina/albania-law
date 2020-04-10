@@ -1,0 +1,1 @@
+3. Përjashtim nga rregulli i përcaktuar në pikën 1 dhe 2 të këtij urdhëri bëhet për autoambulancat, automjetet që kryejnë funksione shërbimi me funksion publik dhe ato që trasportojnë mallra. Autorizimi për qarkullimin e autoambulancave, automjeteve që kryejnë funksione shërbimi shtetëror dhe ato që trasportojnë mallra kryhet sipas urdhëzimeve të Policisë së Shtetit.

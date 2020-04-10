@@ -1,0 +1,1 @@
+1. Ndalimin e qarkullimit të mjeteve të transportit publik dhe privat, përfshirë automjetet private, brenda Tiranës dhe Durrësit dhe nga Tirana dhe Durrësi drejt zonave të tjera të vendit dhe anasjelltas, duke filluar nga ora 06:00 e datës 13.3.2020 deri në orën 24:00 të datës 15.3.2020.

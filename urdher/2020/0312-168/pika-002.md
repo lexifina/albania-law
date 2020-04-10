@@ -1,0 +1,1 @@
+2. Ndalimin e qarkullimit të mjeteve të transportit publik dhe privat, përfshirë automjetet private, në Shkodër, Lezhë, Elbasan, Lushnje, Fier dhe Vlorë duke filluar nga ora 06:00 e datës 13.3.2020 deri në orën 24:00 të datës 15.3.2020.
