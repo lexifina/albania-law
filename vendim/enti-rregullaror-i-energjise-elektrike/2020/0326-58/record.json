@@ -1,0 +1,26 @@
+{
+  "qbz_id": 21425,
+  "title": "Mbi përcaktimin e mënyrës së faturimit të energjisë elektrike, gjatë periudhës së zbatimit të aktit normativ të Këshillit të Ministrave nr.8, datë 24.03.2020 \"Për disa shtesa dhe ndryshime në Aktin Normativ nr.3,  datë 15.03.2020 të  Këshillit të Ministrave , \"Për marrjen e masave të veçanta administrative gjatë kohëzgjatjes së periudhës së infeksionit të shkaktuar nga COVID-19\" të ndryshuar si dhe VKM nr.243, datë 24.03.2020 \"Për shpalljen e fatkeqësisë natyrore\"",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "58",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-03-26",
+  "published": "2020-04-10",
+  "in_force": "2020-04-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/9d3e1b109a12ff3b52d4e2b77295fe7daec7a3072567d37c89257b35e4216ca8.docx",
+  "source_sha256": "9d3e1b109a12ff3b52d4e2b77295fe7daec7a3072567d37c89257b35e4216ca8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21425",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/03/26/58",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
