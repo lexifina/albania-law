@@ -1,0 +1,1 @@
+3. Ministritë dhe institucionet e administratës publike që nuk janë të përfshira në pikën 2 të këtij urdhri të paraqesin kërkesë pranë autoriteteve kompetente për personelin e tyre që duhet të lëvizë me automjet privat ose shtetëror, për t’u pajisur me lejë të posaçme.

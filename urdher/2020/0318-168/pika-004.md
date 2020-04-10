@@ -1,0 +1,1 @@
+4. Titullarët e institucioneve të vartësisë të institucioneve të përcaktuar në pikën 2 të këtij urdhëri të dërgojnë pranë ministrit ose kryetarit të bashkisë listën e arsyetuar të personave që duhet të lëvizin me automjetin privat ose shtetëror. Lista me emrat i përcillet autoriteteve kompetente për tu pajisur me leje të posacme.

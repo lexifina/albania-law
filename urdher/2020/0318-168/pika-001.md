@@ -1,0 +1,1 @@
+1. Ndalimin e lëvizjes me automjetet private ose automjete shtetërore të punonjësve të administratës publike të institucioneve qëndrore dhe atyre vendore, puna e të cilëve lidhet me qëndrimin në zyrë dhe jo në terren.

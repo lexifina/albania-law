@@ -1,0 +1,1 @@
+2. Përjashtim nga ky rregull bëjnë punonjësit e Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale përfshirë personelin mjekësor dhe infermjeror, punonjësit e Ministrisë së Mbrojtjes, Ministrisë së Financës apo të prefekturave dhe bashkive që janë të përfshirë në listën prioritare të firmosur nga titullari i institucionit.
