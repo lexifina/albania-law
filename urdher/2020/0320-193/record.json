@@ -1,0 +1,41 @@
+{
+  "qbz_id": 21414,
+  "title": "Për mbylljen apo kufizimin e  lëvizjeve në Republikën e Shqipërisë",
+  "type": "Urdhër",
+  "kind": "Akt bazë",
+  "number": "193",
+  "institution": "Ministria e Shëndetësisë dhe Mbrojtjes Sociale",
+  "adopted": "2020-03-20",
+  "published": "2020-04-10",
+  "in_force": "2020-04-10",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/5674db501a95ca836d7ceaac05c03c0e2145191427fbefa1278f1720a2ed8c91.docx",
+  "source_sha256": "5674db501a95ca836d7ceaac05c03c0e2145191427fbefa1278f1720a2ed8c91",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21414",
+  "official_eli": "https://qbz.gov.al/eli/urdher/2020/03/20/193",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    21690,
+    61515,
+    61510,
+    61511,
+    61509,
+    21633,
+    21595,
+    21596,
+    21566,
+    21557,
+    21535,
+    21529,
+    21530,
+    21415
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
