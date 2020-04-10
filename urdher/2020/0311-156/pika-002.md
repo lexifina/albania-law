@@ -1,0 +1,1 @@
+2. Instituti i Shëndetit Publik dhe të gjithë institucionet e përcaktuara në ligjin 15/2016 “Për parandalimin dhe luftimin e infeksioneve dhe sëmundjeve infektive”, të zbatojë protokollet specifike për ndërhyrje në situatën epidemie të shkaktuara nga COVID-19.
