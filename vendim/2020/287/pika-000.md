@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes ndryshuese me shkëmbim notash, të marrëveshjes, ndërmjet qeverisë së Republikës së Shqipërisë dhe qeverisë së Republikës së Italisë, për realizimin e programit të ristrukturimit teknik dhe menaxhues të KESH, sh.a.-së dhe fuqizimin e sistemit elektrik shqiptar, ratifikuar me ligjin nr.9045, datë 3.4.2003, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
