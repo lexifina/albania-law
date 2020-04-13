@@ -1,0 +1,1 @@
+13. Për foshnjën e lindur në institucionet e kujdesit shëndetësor dhe të braktisur nga prindi/prindërit, për emetimin e çekut kujdestarit ligjor të fëmijës, merren parasysh afatet për marrjen e kujdestarisë ligjore, sipas legjislacionit në fuqi.

@@ -1,0 +1,1 @@
+18. Nëpunësi i gjendjes civile pranë institucionit të shërbimit spitalor i dërgon informacion me shkrim Drejtorisë së Përgjithshme të Gjendjes Civile, çdo ditë të hënë, për dokumentet “Certifikatë asistence në lindje”, të mbajtuara në javën pararendëse dhe të përcjella për veprim të mëtejshëm në zyrat e gjendjes civile të vendbanimit të nënës.

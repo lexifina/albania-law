@@ -1,0 +1,1 @@
+7. Nëpunësi i shërbimit të gjendjes civile mban aktin e lindjes, në prezencë të prindit/prindërve, sipas procedurës së përcaktuar për këtë qëllim. Pas mbajtjes së aktit të lindjes printon certifikatën nga akti i lindjes, si dhe certifikatën familjare, duke pasqyruar në përbërjen familjare edhe foshnjën.

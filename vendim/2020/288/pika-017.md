@@ -1,0 +1,1 @@
+17. Nëpunësi i shërbimit të gjendjes civile, për rastet kur prindi/prindërit refuzojnë të bëjnë regjistrimin e foshnjës së lindur pranë institucionit të shërbimit spitalor ku ka ndodhur lindja, i dërgon Zyrës së Gjendjes Civile të vendbanimit të nënës dokumentin “Certifikatë asistence në lindje”, së bashku me dokumentin e identitetit të prindit/prindërve.

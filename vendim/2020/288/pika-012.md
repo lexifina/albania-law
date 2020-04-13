@@ -1,0 +1,1 @@
+12. Për rastet e përcaktuara në shkronjën “b”, të pikës 1, të kreut II, të këtij vendimi, çeku lëshohet në emër të prindit/prindërve pasi foshnja regjistrohet si shtetas i Republikës së Shqipërisë në Regjistrin Kombëtar të Gjendjes Civile.

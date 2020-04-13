@@ -1,0 +1,1 @@
+20. Nëpunësit e zyrës së gjendjes civile ku ka vendbanimin prindi/prindërit, të cilit i ka ardhur njoftimi “Certifikatë asistence në lindje”, verifikon fillimisht nëse është regjistruar foshnja e lindur në Regjistrin Kombëtar të Gjendjes Civile. Nëse foshnja nuk është e regjistruar në Regjistrin Kombëtar të Gjendjes Civile e regjistron atë në Regjistrin e Përkohshëm.
