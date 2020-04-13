@@ -1,1 +1,0 @@
-2. Ndihmën e menjëhershme financiare (bonusi) sipas pikës 1, të këtij vendimi, e përfitojnë edhe nënat shtetase shqiptare për fëmijë të lindur jashtë vendit dhe të regjistruar sipas afateve ligjore të përcaktuara në ligjin për gjendjen civile.

@@ -1,1 +1,0 @@
-4. Ndihma e menjëhershme financiare (bonusi) sipas përcaktimeve të pikës 1, të këtij vendimi, i jepet nënës, menjëherë, pas lëshimit të dokumentit “certifikatë asistence në lindje”, në përfundim të procedurave të regjistrimit të fëmijës në Regjistrin Kombëtar të Gjendjes Civile.
