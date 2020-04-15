@@ -1,0 +1,1 @@
+6. Sistemi Informatik i Planifikimit të Integruar shkëmben informacion me institucionet publike, sipas parashikimeve të ligjit nr.10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”, lidhur me shërbimet që ofrohen në bazë të legjislacionit përkatës, nëpërmjet Platformës Qeveritare të Ndërveprimit.

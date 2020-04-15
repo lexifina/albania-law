@@ -1,0 +1,1 @@
+13. Organizimi dhe funksionimi i brendshëm i sistemit dhe bazës të të dhënave të SIPI/IPSIS përcaktohen dhe miratohen me rregullore të brendshme të institucionit administrues, në përputhje me parashikimet e ligjit nr.10325, datë 23.9.2010, “Për bazën e të dhënave shtetërore”.
