@@ -15,4 +15,4 @@ g) shpenzimet për kalimin e pronësisë së regjistruar të pasurive të konfis
 gj) tatimet, taksat kombëtare dhe lokale.
 3. Shpenzimet për administrimin e pasurive kryhen nga Agjencia, me kërkesën e administratorit të pasurisë dhe miratimin e kryeadministratorit, përveç rasteve të administrimit të drejtpërdrejtë të pasurive.
 4. Procedurat e kryerjes së shpenzimeve realizohen në përputhje me legjislacionin në fuqi për prokurimin publik.
-5. Ministri përgjegjës për financat, me udhëzim, përcakton procedurat dhe limitet e kryerjes së shpenzimeve, si dhe rregullat për mënyrën e mbajtjes dhe evidentimit të tyre.
+5. Ministri përgjegjës për rendin dhe sigurinë publike, me udhëzim, përcakton procedurat dhe limitet e kryerjes së shpenzimeve, si dhe rregullat për mënyrën e mbajtjes dhe evidentimit të tyre.

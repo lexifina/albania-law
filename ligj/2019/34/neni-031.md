@@ -1,6 +1,7 @@
 # Neni 31
 Përballimi i shpenzimeve të administrimit që lindin nga administrimi i pasurive të sekuestruara
 1. Shpenzimet e nevojshme ose të dobishme për ruajtjen dhe administrimin e pasurisë së sekuestruar përballohen nga fondet e siguruara nga administratori, nga çdo burim i ligjshëm.
+1.1. Shpenzimet që nevojiten për ruajtjen e sendeve provë materiale, sipas përcaktimit të bërë në këtë ligj, përballohen nga Agjencia dhe në rastet e disponimit të tyre në favor të shtetit, ajo ka të drejtën e mbajtjes së vlerës në masën që është e nevojshme për përballimin e shpenzimeve të ruajtjes.
 2. Nëse nëpërmjet administrimit të pasurisë së sekuestruar nuk përfitohen fonde të mjaftueshme për përballimin e shpenzimeve, ato parapaguhen nga shteti nëpërmjet Agjencisë, me të drejtën e kthimit të tyre nga personi, të cilit i është sekuestruar pasuria.
 3. Agjencia nuk është përgjegjëse për pagimin e detyrimeve të personave të parashikuar në nenin 3, pikat 1 e 2, të ligjit nr. 10 192, datë 3.12.2009, “Për parandalimin dhe goditjen e krimit të organizuar dhe trafikimit nëpërmjet masave parandaluese kundër pasurisë”, të ndryshuar, të maturuara përpara vendimit të sekuestrimit, lidhur me:
 a) shpenzimet e mirëmbajtjes dhe të administrimit të zakonshëm të pasurisë;

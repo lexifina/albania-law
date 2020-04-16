@@ -7,4 +7,4 @@ c) interesat e përfituara nga depozitimi i vlerave monetare në llogari bankare
 ç) të ardhurat nga tjetërsimi i pasurive të konfiskuara;
 d) të ardhurat nga shitja e pasurive;
 dh) të ardhura të tjera në çdo lloj cilësie a burimi të ligjshëm.
-2. Ministri përgjegjës për financat, me udhëzim, përcakton rregullat për mbledhjen, administrimin, mënyrën e mbajtjes dhe evidentimit të të ardhurave.
+2. Ministri përgjegjës për rendin dhe sigurinë publike, me udhëzim, përcakton rregullat për mbledhjen, administrimin, mënyrën e mbajtjes dhe evidentimit të të ardhurave.

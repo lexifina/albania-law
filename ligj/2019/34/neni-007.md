@@ -1,7 +1,7 @@
 # Neni 7
 Buxheti
 1. Buxheti i Agjencisë financohet nga:
-a) buxheti i shtetit, si pjesë përbërëse e buxhetit të ministrisë përgjegjëse për financat;
+a) buxheti i shtetit, si pjesë përbërëse e buxhetit të ministrisë përgjegjëse për rendin dhe sigurinë publike;
 b) të ardhurat e krijuara nga administrimi i pasurive të sekuestruara e të konfiskuara;
 c) të ardhurat e krijuara nga tjetërsimi i pasurive të sekuestruara e të konfiskuara;
 ç) donacionet dhe/ose dhuratat në përputhje me legjislacionin në fuqi;
@@ -12,4 +12,4 @@ d) burime të tjera, të ligjshme.
 a) buxhetin e shtetit;
 b) fondin e posaçëm për parandalimin e kriminalitetit;
 c) llogarinë e Agjencisë.
-5. Shpërndarja e të ardhurave të përftuara nga tjetërsimi i pasurive të konfiskuara, sipas pikës 4, të kësaj dispozite, përcaktohet me urdhër të ministrit përgjegjës për financat.
+5. Shpërndarja e të ardhurave të përftuara nga tjetërsimi i pasurive të konfiskuara, sipas pikës 4, të kësaj dispozite, përcaktohet me vendim të Komitetit Ndërinstitucional për Masat Kundër Krimit të Organizuar.
