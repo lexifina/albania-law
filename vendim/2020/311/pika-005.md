@@ -1,0 +1,1 @@
+5. Vetëm për strukturat akomoduese, që kanë marrëveshje me Ministrinë e Turizmit dhe Mjedisit, do të kryhen pagesat nga Agjencia Kombëtare e Bregdetit, sipas marrëveshjes tip, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

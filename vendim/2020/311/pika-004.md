@@ -1,0 +1,1 @@
+4. Shpenzimet e akomodimit të përkohshëm të të riatdhesuarve mbulohen një pjesë nga fondi rezervë i buxhetit të shtetit dhe pjesa tjetër nga personi i riatdhesuar, sipas përcaktimeve të rregullores që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

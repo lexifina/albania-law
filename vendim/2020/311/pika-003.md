@@ -1,0 +1,1 @@
+3. Ministria e Turizmit dhe Mjedisit, pas evidentimit nga Shoqata Shqiptare e Turizmit (ATA) dhe Unioni Turistik Shqiptar (UTSH), përzgjedh strukturat akomoduese ku do të kryhet akomodimi i përkohshëm i personave dhe ia përcjell për miratim Komitetit Ndërministror të Emergjencave Civile.

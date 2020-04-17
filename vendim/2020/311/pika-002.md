@@ -1,0 +1,1 @@
+2. Akomodimi i përkohshëm i personave të riatdhesuar bëhet nga Ministria e Turizmit dhe Mjedisit, në bashkëpunim me Agjencinë Kombëtare të Bregdetit, Ministria e Shëndetësisë dhe Mbrojtjes Sociale dhe Ministria e Brendshme.

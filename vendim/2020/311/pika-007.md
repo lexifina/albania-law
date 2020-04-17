@@ -1,0 +1,1 @@
+7. Ministria e Brendshme, nëpërmjet Policisë së Shtetit, merr masat e nevojshme për shoqërimin e personave të riatdhesuar në strukturat akomoduese dhe siguron moslargimin e tyre nga këto struktura, sipas procedurave dhe afateve të përcaktuara në aktet ligjore/nënligjore në kuadër të epidemisë së shkaktuar nga COVID-19.

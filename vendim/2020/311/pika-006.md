@@ -1,0 +1,1 @@
+6. Ministria e Shëndetësisë dhe Mbrojtjes Sociale kujdeset për shëndetin e personave të riatdhesuar dhe merr masa për respektimin e kushteve që duhet të ndiqen në përputhje me aktet ligjore/nënligjore në kuadër të epidemisë së shkaktuar nga COVID-19.
