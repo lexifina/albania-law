@@ -1,0 +1,5 @@
+VENDIM
+Nr.297, datë 15.4.2020
+PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT, NGA MINISTRIA E DREJTËSISË TEK AGJENCIA SHTETËRORE E KADASTRËS, PËR PRONAT E PËRCAKTUARA NË VENDIMIN NR.448, DATË 16.6.2005, TË KËSHILLIT TË MINISTRAVE, “PËR MIRATIMIN E LISTËS SË INVENTARIT TË PRONAVE TË PALUAJTSHME, SHTETËRORE, TË CILAT I KALOJNË NË PËRGJEGJËSI ADMINISTRIMI ZYRËS QENDRORE TË REGJISTRIMIT TË PASURIVE TË PALUAJTSHME”, TË NDRYSHUAR
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 7, 13, 14 e 15, të ligjit nr.8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”, të ndryshuar, dhe të neneve 6 e 7, të ligjit nr.111/2018, “Për kadastrën”, me propozimin e Zëvendëkryeministrit, Këshilli i Ministrave
+VENDOSI:
