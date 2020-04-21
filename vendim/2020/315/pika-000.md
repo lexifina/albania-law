@@ -1,0 +1,2 @@
+Miratimin e kontratës për lotin 10, me objekt “Blerje barna Beclomethasone + Salbutamol 80 mcg+1600 mcg flakon”, me palë Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale dhe operatorin ekonomik “MEDICAMENTA”, sh.p.k., të zhvilluar me procedurën e drejtpërdrejtë, me objekt “Blerje barna kundër Coronavirus COVID-19, ndarë në 10 lote (një bar një lot)”, që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
