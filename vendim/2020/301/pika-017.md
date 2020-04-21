@@ -1,0 +1,1 @@
+17. Njësitë e vetëqeverisjes vendore, Enti Kombëtar i Banesave si dhe çdo institucion tjetër publik ose privat, që zbaton programe sociale strehimi nëpërmjet blerjes së banesave nga tregu, kur është e mundur, duhet të sigurojnë në maksimum zbatimin e kushteve dhe standardeve të përcaktuara në këtë vendim.

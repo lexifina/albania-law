@@ -1,0 +1,1 @@
+19. Kur është e mundur teknikisht dhe kostot e investimeve janë të arsyeshme, me qëllim përmirësimin e kushteve të banesave sociale të blera në treg apo atyre ekzistuese, mund të bëhen ndërhyrje, veçanërisht për përmirësimin e performancës energjetike të banesës, pastrimin e ajrit ose tokës së ndotur, eliminimin ose reduktimin e zhurmave, eliminimin e lagështirës etj.

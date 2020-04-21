@@ -1,0 +1,1 @@
+18. Njësitë e vetëqeverisjes vendore sigurohen që ndërtimet, për të cilat kërkohet leje zhvillimore dhe që do të përdoren për strehim social, të plotësojnë kushtet dhe standardet e parashikuara në këtë vendim.

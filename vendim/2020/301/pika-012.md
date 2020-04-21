@@ -1,0 +1,1 @@
+12. Në ndërtimin e banesave sociale, njësitë e vetëqeverisjes vendore nxisin dhe përhapin shembujt më të mirë në përdorimin e materialeve të ndërtimit miqësore për mjedisin, si materiale të ricikluara, materiale lehtësisht të riciklueshme, materiale për prodhimin e të cilave shkaktohet impakt mjedisor minimal, materiale që mundësojnë kursim të lartë të energjisë etj.

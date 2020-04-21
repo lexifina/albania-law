@@ -1,0 +1,1 @@
+2. Çdo kusht apo standard ndërtimi për banesat sociale sipas programeve të parashikuara në ligjin nr.22/2018, “Për strehimin social”, që nuk është parashikuar në këtë vendim, zbatohet në përputhje me kushtet dhe standardet e ndërtimit në fuqi në Republikën e Shqipërisë.
