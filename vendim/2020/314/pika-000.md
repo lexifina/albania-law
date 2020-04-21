@@ -1,0 +1,2 @@
+Miratimin e kontratës për lotin 5, me objekt “Blerje barna Oseltamivir (Tamiflu) 75 mg/tabletë”, me palë Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale dhe operatorin ekonomik “REJSI FARMA”, sh.p.k., të zhvilluar me procedurën e drejtpërdrejtë, me objekt “Blerje barna kundër Coronavirus COVID-19, ndarë në dhjetë lote (një bar një lot)”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
