@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurisë së paluajtshme, pronë private, që preket nga projekti “Sistemimi i hapësirave publike në lagjen “Donika Kastrioti”, zona e çerdhes nr.7”, Berat.

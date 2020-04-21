@@ -1,0 +1,1 @@
+3. Pronari i pasurisë së paluajtshme, pronë private, që shpronësohet, të kompensohet në vlerë të plotë sipas masës përkatëse që paraqitet në tabelën bashkëlidhur këtij vendimi, për pasurinë e llojit “Tokë truall + ndërtesë”, me një vlerë të përgjithshme prej 476 121.37 (katërqind e shtatëdhjetë e gjashtë mijë e njëqind e njëzet e një pikë tridhjetë e shtatë) lekësh.
