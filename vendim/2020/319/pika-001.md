@@ -1,0 +1,1 @@
+1. Numri i punonjësve të grupit 87 “Institucioneve të tjera qeveritare”, për vitin 2020, shtohet me 7 (shtatë) punonjës për Njësinë Speciale Antikorrupsion dhe Antievazion, duke e çuar numrin e përgjithshëm të këtij grupi në 1 204 (një mijë e dyqind e katër) punonjës.

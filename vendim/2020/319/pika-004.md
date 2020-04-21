@@ -1,0 +1,1 @@
+4. Në programin “Shërbime të tjera”, të miratuar për vitin 2020, për grupin 87 “Institucioneve të tjera qeveritare”, shtohet fondi prej 13 000 000 (trembëdhjetë milionë) lekësh, në zërin “shpenzime korrente”.

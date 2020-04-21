@@ -1,0 +1,1 @@
+3. Në programin “Planifikimi, menaxhimi dhe administrimi”, të miratuar për vitin 2020 për Kryeministrinë, reduktohet fondi prej 13 000 000 (trembëdhjetë milionë) lekësh, në zërin “shpenzime korrente”.

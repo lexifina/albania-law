@@ -1,0 +1,1 @@
+2. Numri i punonjësve të Kryeministrisë, për vitin 2020, reduktohet me 7 (shtatë) punonjës, duke e çuar numrin e përgjithshëm të këtij institucioni në 166 (njëqind e gjashtëdhjetë e gjashtë) punonjës.
