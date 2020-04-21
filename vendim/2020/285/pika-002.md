@@ -1,0 +1,1 @@
+2. ATRAKO është institucion publik, buxhetor, me seli në Tiranë, në varësi të ministrit përgjegjës për ekonominë. Buxheti i Agjencisë financohet nga buxheti i shtetit, gjithashtu, dhe nga donatorë të ndryshëm dhe miratohet me buxhetin e ministrisë përgjegjëse për ekonominë, si zë i veçantë.

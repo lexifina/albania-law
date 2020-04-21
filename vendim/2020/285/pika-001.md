@@ -1,0 +1,1 @@
+1. Objekt i këtij vendimi janë organizimi dhe funksionimi i Agjencisë së Trajtimit të Koncesioneve (në vijim ATRAKO), në përputhje me legjislacionin në fuqi në fushën e koncesioneve/partneritetit publik privat dhe me këtë vendim, si dhe procedura për përcaktimin e tarifave të shërbimeve që do të ofrohen nga Agjencia e Trajtimit të Koncesioneve (ATRAKO).

@@ -1,0 +1,1 @@
+8. Marrëdhëniet e punës së kryetarit dhe të nëpunësve të ATRAKO-s rregullohen në bazë të dispozitave të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së punonjësve administrativë rregullohen sipas dispozitave të Kodit të Punës.
