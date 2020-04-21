@@ -1,0 +1,2 @@
+Miratimin e kontratës me objekt “Blerje barna Propofol 10 mg/ml - 50 ml Flakon”, ndërmjet Ministrisë së Shëndetësisë dhe Mbrojtjes Sociale dhe operatorit ekonomik “REJSI FARMA”, sh.p.k., për lotin 9, të procedurës me objekt “Blerje barna kundër Coronavirus COVID-19, ndarë në 10 lote (një bar një lot)”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
