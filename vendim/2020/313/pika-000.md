@@ -1,0 +1,2 @@
+Miratimin e kontratës për lotin 8, me objekt “Blerja barna Omeprazol 40 mg/vial flakon”, me palë Ministrinë e Shëndetësisë dhe Mbrojtjes Sociale dhe operatorin ekonomik “MEGAPHARMA”, sh.p.k., të zhvilluar me procedurën e drejtpërdrejtë, me objekt “Blerje barna kundër Coronavirus COVID-19, ndarë në 10 lote (një bar një lot)”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.
