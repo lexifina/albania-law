@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, Qarku Durrës, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore sipas lidhjes nr.1, të pasurisë me numër 104/18, zona kadastrale 2136, fshati Kënetë, Bashkia Shijak.

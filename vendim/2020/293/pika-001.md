@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore 156 m2, sipas lidhjes nr.1, të pasurisë me numër 104/18, zona kadastrale 2136, fshati Kënetë, Bashkia Shijak, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr.1, bashkëlidhur këtij vendimi.

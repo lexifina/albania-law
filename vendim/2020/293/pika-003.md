@@ -1,0 +1,1 @@
+3. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Durrës, të bëjë ndarjen e pasurisë me numër 104/18, zona kadastrale 2136, fshati Kënetë, Bashkia Shijak, në dy pasuri, truall dhe arë, për sipërfaqen ndërtimore që ndryshon në kategorinë e resursit “truall” dhe për sipërfaqen që mbetet në zërin kadastral “arë”, sipas planvendosjes që shoqëron lejen e ndërtimit.
