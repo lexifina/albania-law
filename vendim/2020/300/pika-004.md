@@ -1,0 +1,1 @@
+4. Diferenca që rezulton midis vlerës së banesës me kosto të ulët që merr përfituesi dhe vlerës së banesës ekzistuese shlyhet në mënyrë të menjëhershme ose me këste. Afati i shlyerjes dhe interesi vjetor përcaktohen nga subjekti që zbaton programin dhe miratohen me vendim të organit drejtues.

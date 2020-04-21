@@ -1,0 +1,1 @@
+8. Kontrata e shkëmbimit të të dyja banesave bëhet në përputhje me parashikimet e Kodit Civil për këtë kontratë. Kontrata e shkëmbimit, e lidhur ndërmjet familjes që përfiton nga shkëmbimi me njësinë e vetëqeverisjes vendore, bëhet me akt noterial.

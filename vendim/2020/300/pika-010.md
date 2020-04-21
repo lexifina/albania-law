@@ -1,0 +1,1 @@
+10. Njësia e vetëqeverisjes vendore merr masa për depozitimin e kontratës pranë zyrës vendore të Agjencisë Shtetërore të Kadastrës dhe ndjek procedurat e kalimit të pronësisë sipas kontratës së shkëmbimit. Shpenzimet për regjistrimin e këtyre kontratave mbulohen nga njësia e vetëqeverisjes vendore.

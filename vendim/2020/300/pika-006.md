@@ -1,0 +1,1 @@
+6. Struktura e strehimit të njësisë së vetëqeverisjes vendore verifikon gjendjen e familjes, të sipërfaqes së banimit në banesën ekzistuese të përfituar nga privatizimet ose nga blerja në treg, si dhe të mundësive për ofrimin e një banese me kosto të ulët, në përputhje me normat e strehimit të zbatueshme për gjendjen dhe nevojat e familjes përfituese.
