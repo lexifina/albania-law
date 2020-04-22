@@ -1,0 +1,1 @@
+3. “Ndërtesë” janë pasuritë e paluajtshme për të cilat është vendosur masa e sekuestros, me urdhër të drejtorit të përgjithshëm të Policisë së Shtetit, të ndërtuara për të zhvilluar aktivitete të ndryshme.

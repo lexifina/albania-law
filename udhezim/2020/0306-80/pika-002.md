@@ -1,0 +1,1 @@
+2. “Operacioni Forca e Ligjit (OFL)” është strukturë e veçantë në Drejtorinë e Përgjithshme të Policisë së Shtetit për parandalimin, zbulimin, dokumentimin dhe goditjen e krimit të organizuar dhe krimeve të rënda.
