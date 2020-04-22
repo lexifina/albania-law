@@ -1,0 +1,1 @@
+4. Strukturat e mbrojtjes së fëmijës sigurohen që fëmijët marrin informacionin e nevojshëm lidhur me COVID-19, nëpërmjet mënyrave të duhura të komunikimit, në përputhje me zhvillimin, moshën, gjininë, kulturën e tyre dhe situatën familjare në të cilën ndodhen.

@@ -1,0 +1,1 @@
+8. Fëmijët më aftësi të kufizuara, ndaj të cilëve merret masa emergjente e mbrojtjes ose masa e mbrojtjes për vendosjen e tyre në përkujdesje alternative, do të vendosen në institucione të përkujdesjes shoqërore për këto grupe përfituesish, duke i ofruar shërbim psikosocial dhe shërbim të specializuar, duke respektuar procedurat e përcaktuara në pikën 3 dhe 6 të këtij kreu.

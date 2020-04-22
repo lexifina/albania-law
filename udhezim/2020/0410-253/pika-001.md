@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i procedurave dhe i veprimeve konkrete të strukturave të mbrojtjes së fëmijës, për menaxhimin e rasteve të fëmijëve në nevojë për mbrojtje gjatë periudhës së fatkeqësisë natyrore, për shkak të epidemisë së shkaktuar nga COVID-19.
