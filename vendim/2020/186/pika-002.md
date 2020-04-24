@@ -1,1 +1,1 @@
-2. Caktimin e Bashkisë Tiranë si njësi zbatuese për rindërtimin, sipas projekteve model, të shtëpive individuale të dëmtuara nga tërmeti, jashtë zonave të reja të shpallura në Bashkinë Tiranë.
+2. Caktimin e Bashkisë Tiranë si njësi zbatuese, për rindërtimin sipas projekteve model, të banesave individuale të dëmtuara nga tërmeti, ndërtimin dhe rikonstruksionin e infrastrukturës publike dhe çdo ndërhyrje tjetër në funksion të rindërtimit të banesave individuale jashtë zonave të reja të shpallura, në Bashkinë Tiranë.
