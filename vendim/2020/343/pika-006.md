@@ -1,0 +1,1 @@
+6. Agjencia e Blerjeve të Përqendruara mund të zhvillojë procedura prokurimi sipas pikës 4, të këtij vendimi, edhe kur kërkohet nga një autoritet a një grup autoritetesh kontraktore, të cilat nuk janë përcaktuar në këtë vendim.

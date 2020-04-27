@@ -1,0 +1,1 @@
+2. Agjencia e Blerjeve të Përqendruara do të hartojë dhe do të përditësojë listën e operatorëve ekonomikë, “biznes i përpunimit aktiv”, të cilët shprehin disponibilitetin e tyre pranë Agjencisë së Blerjeve të Përqendruara, çmimet përkatëse të mallrave e të shërbimeve, si dhe kohën për lëvrimin e mallrave apo ekzekutimin e shërbimeve.

@@ -1,0 +1,1 @@
+3. Agjencia e Blerjeve të Përqendruara, bazuar në kërkesën e çdo autoriteti kontraktor, do të vendosë në dispozicion, menjëherë listën e përditësuar të operatorëve ekonomikë “biznes i përpunimit aktiv”, që kanë shprehur disponibilitetin për mallrat dhe shërbimet e nevojshme, për përballimin e situatës së krijuar nga epidemia COVID-19.

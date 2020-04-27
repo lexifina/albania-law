@@ -1,0 +1,2 @@
+15. Ngarkohen Ministria e Shëndetësisë dhe Mbrojtjes Sociale dhe Agjencia e Prokurimit Publik të udhëzojnë autoritetet kontraktore zbatuese të këtij vendimi për listën e mallrave dhe shërbimeve të nevojshme për përballimin e situatës së krijuar nga epidemia COVID-19, me të dhënat teknike e cilësore të tyre si dhe Agjencia e Blerjeve të Përqendruara dhe institucionet e përmendura në pikën 4, për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare.

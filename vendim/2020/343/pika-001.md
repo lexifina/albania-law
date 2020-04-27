@@ -1,0 +1,1 @@
+1. Agjencia e Blerjeve të Përqendruara do të administrojë çdo shprehje disponibiliteti të paraqitur nga operatorët ekonomikë, të referuar si “biznesi i përpunimit aktiv”, sipas parashikimeve të Kodit Doganor, që prodhojnë mallra ose ofrojnë shërbime të nevojshme për përballimin e situatës së krijuar nga epidemia COVID-19.

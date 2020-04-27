@@ -1,0 +1,1 @@
+8. Mallrat dhe shërbimet do të konsiderohen të leverdisshme kur disponibiliteti i operatorëve ekonomikë është paraqitur për çmime më të ulëta se çmimet normale të tregut dhe për kohë lëvrimi të mallrave apo ekzekutimi të shërbimeve, më të shkurtra se afatet e kërkuara nga autoritetet kontraktore.
