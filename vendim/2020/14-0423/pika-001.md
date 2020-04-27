@@ -1,0 +1,1 @@
+1. Miratimin e listës së përditësuar të strukturave akomoduese, bashkëlidhur dhe pjesë përbërëse e këtij vendimi, për akomodimin e përkohshëm të personave që riatdhesohen si rezultat i gjendjes së shkaktuar nga COVID-19.
