@@ -1,1 +1,1 @@
-10. Në mbledhjen e parë, e cila duhet të organizohet brenda 10 (dhjetë) ditëve pas hyrjes në fuqi të këtij vendimi, Komiteti miraton programin e punës.
+10.Në mbledhjen e parë të çdo viti, Komiteti miraton programin e punës. Në rastet kur në Komitet paraqiten çështje të reja për diskutim, që lidhen me menaxhimin e integruar të mbetjeve apo me situatat emergjente mjedisore të krijuara, kryetari propozon rishikimin e programit dhe ia paraqet për miratim Komitetit.
