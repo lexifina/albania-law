@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore prej 150 m2, të pasurisë me numër 106/23, zona kadastrale 1936, fshati Haskovë, njësia administrative Dropull i Poshtëm, Bashkia Dropull, sipas certifikatës të pasurisë, hartës treguese dhe lidhjes nr.1, që i bashkëlidhen këtij vendimi.

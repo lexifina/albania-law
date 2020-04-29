@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, Qarku Gjirokastër, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, për sipërfaqen ndërtimore sipas lidhjes nr.1, të pasurisë me numër 106/23, zona kadastrale 1936, fshati Haskovë, njësia administrative Dropull i Poshtëm, Bashkia Dropull.
