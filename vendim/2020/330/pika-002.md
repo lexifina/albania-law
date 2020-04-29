@@ -1,0 +1,1 @@
+2. ILDKPKI-ja është përgjegjëse për krijimin, mbajtjen, administrimin e bazës të të dhënave “Sistemi i Deklarimit të Pasurisë dhe Konfliktit të Interesit - EACIDS”, dhe për ndërveprimin e përmbajtjes së tij me bazat e tjera të informacionit.

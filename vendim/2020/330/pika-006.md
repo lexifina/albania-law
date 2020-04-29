@@ -1,0 +1,1 @@
+6. Ndërveprimi me bazat e tjera të të dhënave shtetërore dhe procedurat e realizimit të ndërveprimit përcaktohen në rregulloren e “Sistemit të Deklarimit dhe Kontrollit të Pasurisë/Interesave Private dhe Konfliktit të Interesave”, të miratuar nga ILDKPKI-ja, në zbatim të ligjit nr.10325, datë 23.9.2010, “Për bazat e të dhënave shtetërore”.

@@ -1,0 +1,1 @@
+1. Krijimin pranë Inspektoratit të Lartë të Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave (ILDKPKI) të bazës të të dhënave shtetërore “Sistemi i Deklarimit të Pasurisë dhe Konfliktit të Interesit - EACIDS”, i cili do të aksesohet në faqen zyrtare të internetit të Inspektoratit.

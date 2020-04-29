@@ -1,0 +1,1 @@
+9. Inspektorati i Lartë i Deklarimit dhe Kontrollit të Pasurive dhe Konfliktit të Interesave është administratori i vetëm dhe përgjegjës i drejtpërdrejtë për strukturën e bazës të të dhënave të “Sistemit të Deklarimit të Pasurisë dhe Konfliktit të Interesit - EACIDS”, në anën funksionale dhe operacionale.

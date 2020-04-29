@@ -1,0 +1,1 @@
+8. Të gjitha ndryshimet në arkitekturën software dhe hardware të EACIDS-së, të cilat mund të ndodhin në varësi të nevojave të institucionit dhe të praktikave evropiane e ndërkombëtare, bëhen në përputhje me legjislacionin në fuqi.
