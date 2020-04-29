@@ -1,0 +1,13 @@
+2. Numri i parcelave ndërtimore, për të cilat miratohet kalimi i pronësisë sipas qarqeve, është, si më poshtë vijon:
+a) Për Qarkun Tiranë (Drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Tiranë) numri i parcelave ndërtimore është 98 (nëntëdhjetë e tetë), me sipërfaqe të përgjithshme 24 712 (njëzet e katër mijë e shtatëqind e dymbëdhjetë) m².
+b) Për Qarkun Elbasan (Drejtoria Vendore të Agjencisë Shtetërore të Kadastrës Elbasan) numri i parcelave ndërtimore është 121 (njëqind e njëzet e një), me sipërfaqe të përgjithshme 34 120 (tridhjetë e katër mijë e njëqind e njëzet) m².
+c) Për Qarkun Durrës (Drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Durrës dhe Krujë) numri i parcelave ndërtimore është 3 (tre), me sipërfaqe të përgjithshme 1 074 (një mijë e shtatëdhjetë e katër) m².
+ç) Për Qarkun Vlorë (Drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Vlorë dhe Sarandë) numri i parcelave ndërtimore është 43 (dyzet e tre), me sipërfaqe të përgjithshme 15 112 (pesëmbëdhjetë mijë e njëqind e dymbëdhjetë) m².
+d) Për Qarkun Gjirokastër (Drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Gjirokastër dhe Tepelenë) numri i parcelave ndërtimore është 11 (njëmbëdhjetë), me sipërfaqe të përgjithshme 789 (shtatëqind e tetëdhjetë e nëntë) m².
+dh) Për Qarkun Kukës (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Kukës) numri i parcelave ndërtimore është 4 (katër), me sipërfaqe të përgjithshme 1 234 (një mijë e dyqind e tridhjetë e katër) m².
+e) Për Qarkun Korçë (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Korçë) numri i parcelave ndërtimore është 7 (shtatë), me sipërfaqe të përgjithshme 1 909 (një mijë e nëntëqind e nëntë) m².
+ë) Për Qarkun Lezhë (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Lezhë) numri i parcelave ndërtimore është 46 (dyzet e gjashtë), me sipërfaqe të përgjithshme 9 870 (nëntë mijë e tetëqind e shtatëdhjetë) m².
+f) Për Qarkun Shkodër (Drejtoria e Agjencisë Shtetërore të Kadastrës Shkodër) numri i parcelave ndërtimore është 6 (gjashtë), me sipërfaqe të përgjithshme 1 068 (një mijë gjashtëdhjetë e tetë) m².
+g) Për Qarkun Shkodër (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Zonat e Stimuluara) numri i parcelave ndërtimore është 8 (tetë), me sipërfaqe të përgjithshme 2 648 (dy mijë e gjashtëqind e dyzet e tetë) m².
+gj)Për Qarkun Fier (Drejtoritë vendore të Agjencisë Shtetërore të Kadastrës Fier dhe Lushnjë) numri i parcelave ndërtimore është 3 (tre), me sipërfaqe të përgjithshme 541 (pesëqind e dyzet e një) m².
+h) Për Qarkun Berat (Drejtoria Vendore e Agjencisë Shtetërore të Kadastrës Berat) numri i parcelave ndërtimore është 1 (një), me sipërfaqe të përgjithshme 64 (gjashtëdhjetë e katër) m².
