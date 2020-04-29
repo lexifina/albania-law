@@ -1,1 +1,0 @@
-2. Drejtorisë së Përgjithshme të Arkivave, degës së Arkivit Shtetëror Vendor në Berat u ndalohet të ndryshojnë destinacionin e objekteve të përcaktuara në pikën 1, të këtij vendimi, t’i tjetërsojnë ose t’ua japin në përdorim të tretëve.
