@@ -1,0 +1,8 @@
+# Neni 31
+Koha e llogaritjes së vlerës
+1. Shoqëria administruese e një fondi investimesh të hapur me ofertë publike ose nënfondi ose fondi me interval me ofertë publike kryen llogaritjen e vlerës në një orë të përcaktuar (pika e vlerësimit) të vendosur nga shoqëria administruese, si koha më e përshtatshme për vlerësimin e llojit të aktiveve në pronësi të sipërmarrjes ose nënfondit të deklaruar në prospektin SIK.
+2. Gjatë periudhës së ofertës fillestare me çmim fiks nuk kërkohet pikë vlerësimi.
+3. Shoqëria administruese e fondit ose nënfondit të investimeve me pjesëmarrje të hapur ose me intervale kryen llogaritjen e vlerës menjëherë përpara se të krijojë një çmim, me të cilin shiten ose shlyhen kuotat. Shoqëria administruese nuk duhet të shesë apo të shlyejë kuota dhe as nuk mund të krijojë dhe anulojë kuota me çmime të llogaritura, përpara pikës së ardhshme të vlerësimit pas marrjes së një porosie të vlefshme për nënshkrim ose shlyerje të kuotave.
+4. Shoqëria administruese mund të kryejë në çdo moment llogaritje shtesë ose më të shpeshta të vlerës, pasi bie dakord me autoritetin, nëse e konsideron si të nevojshme për ruajtjen e rregullsisë kundrejt investitorëve ose nëse një gjë e tillë kërkohet nga autoriteti.
+5. Pika e vlerësimit për llogaritjen e vlerës neto të aktiveve për aksion ose për kuotë apo të çmimit të kuotës vetëm për qëllim publikimi nuk konsiderohet si pikë vlerësimi për shitjen, shlyerjen ose anulimin e kuotave nëse nuk përcaktohet si e tillë në prospektin SIK të sipërmarrjes.
+6. Shoqëritë administruese të fondeve përjashtohen nga përcaktimet e këtij neni lidhur me fondet e investimeve alternative që administrojnë.

@@ -1,0 +1,7 @@
+# Neni 71
+Kapitali i shoqërisë së investimeve
+1. Në kohën e paraqitjes së kërkesës për licencë, shuma minimale e kapitalit themeltar të shoqërisë së investimeve duhet të jetë të paktën 20 000 000 lekë.
+2. Kapitali minimal themeltar i shoqërisë së investimeve paguhet plotësisht përpara regjistrimit të shoqërisë së investimeve në regjistrin e AMF-së dhe në Qendrën Kombëtare të Regjistrimit ose përpara regjistrimit të zmadhimit të kapitalit të regjistruar.
+3. Kostot dhe pagesat e lidhura me themelimin e shoqërisë së investimeve me ofertë publike dhe me zmadhimin e kapitalit mund të shlyhen nga shoqëria e investimeve, vetëm në rast se kjo është përcaktuar në prospekt. Shuma maksimale e këtyre kostove dhe pagesave përcaktohet në prospekt dhe nuk tejkalon 3,5 % të shumës së siguruar nëpërmjet shitjes së aksioneve të shoqërisë së investimeve. Çdo shumë mbi këtë nivel paguhet nga shoqëria administruese. Nëse shoqëria e investimit nuk arrin vlerën minimale të kapitalit të përcaktuar në prospekt, kostot e themelimit i ngarkohen shoqërisë administruese dhe nënshkrimet e bëra nga investitorët u kthehen të plota.
+4. Shoqëria e investimeve me ofertë publike emeton vetëm aksione të zakonshme, të cilat u japin të drejta të barabarta aksionarëve.
+5. Regjistri i aksioneve të shoqërive të investimeve mbahet në përputhje me kërkesat e legjislacionit në fuqi që rregullon fushën e tregjeve të kapitalit.

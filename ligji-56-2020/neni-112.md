@@ -1,0 +1,4 @@
+# Neni 112
+Kufizimet mbi shitjen ose shlyerjen e kuotave
+1. Prospekti SIK mund të parashikojë që, nëse brenda një dite tregtimi bëhen kërkesa për shlyerje të kuotave, për më shumë se 10 % të vlerës ose numrit të kuotave në emetim të një fondi me pjesëmarrje të hapur ose me intervale me ofertë publike, atëherë shlyerja e shumës a vlerës përtej këtij kufiri mund të shtyhet deri në pikën e ardhshme të vlerësimit.
+2. Në rast se kërkesat për shlyerje të kuotave kalojnë kufirin e vendosur në një ditë tregtimi, shoqëria administruese garanton trajtim të njëllojtë të të gjithë mbajtësve të kuotave, të cilët kërkojnë t’i shlyejnë kuotat në cilëndo pikë vlerësimi në të cilën shtyhet shlyerja e kuotave. Të gjitha tregtimet lidhur me një pikë vlerësimi të mëparshme kryhen përpara se të merren në konsideratë ato të cilat lidhen me një pikë vlerësimi të mëpasshme.

@@ -1,0 +1,14 @@
+# Neni 99
+Mënyra e marketimit
+1. Veprimtaritë promocionale që përmbajnë informacione konkrete për një sipërmarrje të investimeve kolektive me ofertë publike nuk përmbajnë të dhëna që bien ndesh ose zvogëlojnë rëndësinë e informacioneve që përmban prospekti SIK dhe dokumenti me informacionin kryesor për investitorin.
+2. Të gjitha veprimtaritë promocionale bëjnë të ditur se ekziston prospekti SIK dhe dokumenti me informacionin kryesor për investitorin. Ato përcaktojnë vendin dhe në cilën gjuhë mund të gjenden këto dokumente dhe si mund të aksesohen.
+3. Në rastin e veprimtarive promocionale për sipërmarrjet e investimeve kolektive me ofertë publike dhe shoqërive të tyre administruese përmbushen përcaktimet e mëposhtme:
+a) qëllimi i marketimit nuk fshihet apo prezantohet në mënyrë mashtruese;
+b) paraqitet një përshkrim i saktë dhe i vërtetë i sipërmarrjes së investimeve kolektive me ofertë publike që po promovohet, si dhe i detyrimeve të pritshme dhe i risqeve që lidhen me to;
+c) faktet dhe kuotimet e dhëna duhet të jenë të sakta, të qarta, të vërteta dhe të kuptueshme, në datën në të cilën jepen, si dhe nuk duhet të jenë çorientuese dhe çdo fakt i dhënë të jetë i vërtetueshëm;
+ç) kuotimi i dhënë sipas shkronjës “c”, të kësaj pike, të jetë i plotë dhe i qartë dhe të shprehet se për përdorimin e mëtejshëm të tij është marrë miratimi nga shoqëria administruese; si dhe
+d) çdo krahasim i bërë të bazohet në fakte, të cilat janë të sakta dhe të përditësuara. Gjithashtu përfundimet kryesore të këtyre krahasimeve duhet të jepen në mënyrë të qartë dhe çdo krahasim të jepet në mënyrë të drejtë dhe të paanshme, i cili, në asnjë mënyrë nuk është çorientues dhe bazohet në të gjithë faktorët kyç për një krahasim të këtij lloji;
+dh) nuk duhet të jepet asnjë keqprezantim në veçanti për sa i përket njohurive profesionale të personave përgjegjës, aktiveve dhe qëllimit të sipërmarrjeve të investimeve kolektive me ofertë publike dhe veprimtarisë tregtare të shoqërisë administruese dhe pronësisë apo numrit të aksioneve apo të kuotave në sipërmarrjen e investimeve kolektive me ofertë publike;
+e) të garantohet që paraqitja, përmbajtja ose forma e informacionit të reklamave nuk shtrembëron, fsheh apo ul rëndësinë e deklaratave, paralajmërimeve ose referencave, që jepen sipas këtij ligji apo aktet rregullative të miratuara nga autoriteti në zbatim të tij;
+ë) të garantohet që asnjë licencë e dhënë nga autoriteti rregullator të mos citohet pa lejen e këtij autoriteti, si dhe duhet të garantohet se asnjë palë e tretë të mos besojë që licenca e dhënë nga autoriteti rregullator ka kuptim të ndryshëm nga certifikata që vërteton se subjekti në fjalë ka përmbushur të gjitha kushtet për përfitimin e statusit ligjor të treguar në licencë;
+f) çdo e dhënë duhet të përfshihet nëse mospërfshirja e kësaj të dhëne do ta bënte veprimtarinë promocionale të pasaktë, të pavërtetë, të paqartë ose çorientuese.

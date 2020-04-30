@@ -1,0 +1,6 @@
+# Neni 150
+Marrëdhënia midis nënfondeve ose sipërmarrjeve furnizuese dhe kryesore
+1. Sipërmarrja kryesore ose nënfondi i mundëson sipërmarrjes furnizuese ose nënfondit dokumentet dhe informacionet, që i nevojiten atyre për të përmbushur detyrimet, në bazë të këtij ligji dhe të akteve rregullative të miratuara nga autoriteti në zbatim të këtij ligji. Nënfondi ose sipërmarrja furnizuese nënshkruajnë një marrëveshje për këtë qëllim me nënfondin ose sipërmarrjen kryesore të përfaqësuar nga shoqëritë administruese përkatëse. Marrëveshja zbatohet duke filluar nga data kur investimi i sipërmarrjes furnizuese në sipërmarrjen kryesore i tejkalon kufizimet e parashikuara në shkronjën “dh”, të pikës 1, të nenit 140, të këtij ligji.
+2. Nëse sipërmarrja kryesore dhe sipërmarrja furnizuese ose nënfondet administrohen nga e njëjta shoqëri administruese, kjo marrëveshje mund të zëvendësohet me procedura të brendshme.
+3. Sipërmarrja kryesore dhe furnizuese ose nënfondet marrin masat e duhura për të bashkërenduar kohën e llogaritjes dhe publikimit të vlerës neto të aseteve të tyre.
+4. Sipërmarrja furnizuese ose nënfondi mund të pezullojnë të drejtën e shlyerjes ose shitjes së kuotave në të njëjtën shkallë, siç vepron edhe sipërmarrja kryesore ose nënfondi.

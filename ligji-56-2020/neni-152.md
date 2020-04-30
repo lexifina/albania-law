@@ -1,0 +1,5 @@
+# Neni 152
+Depozitari
+1. Nëse sipërmarrjet kryesore ose nënfondet dhe sipërmarrjet furnizuese nuk kanë të njëjtin depozitar, depozitarët duhet të lidhin marrëveshje për shkëmbimin e informacionit për të siguruar që të dy të jenë në gjendje t’i kryejnë detyrimet e tyre. Marrëveshja zbatohet duke filluar nga data kur sipërmarrja furnizuese ose nënfondi fillon të investojë në nënfondin ose sipërmarrjen kryesore.
+2. Depozitari i sipërmarrjes kryesore ose nënfondit i jep autoritetit rregullator të vendit të origjinës të sipërmarrjes kryesore ose nënfondit dhe shoqërisë administruese dhe depozitarit të sipërmarrjes furnizuese ose nënfondit informacione për çështjet lidhur me nënfondin ose sipërmarrjen kryesore, që mund të kenë pasoja negative për nënfondin ose sipërmarrjen furnizuese.
+3. Zbatimi i detyrimeve të përcaktuara ndaj shoqërisë administruese ose depozitarit, sipas këtij neni, nuk konsiderohet si shkelje e konfidencialitetit në pajtim me ligjin, rregulloret ose marrëveshjen dhe nuk ngarkon me përgjegjësi shoqërinë administruese ose depozitarin.

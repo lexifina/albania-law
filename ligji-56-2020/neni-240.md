@@ -1,0 +1,4 @@
+# Neni 240
+Shoqëritë administruese të huaja dhe administruesit e huaj të fondeve të investimeve alternative dhe degët e tyre
+Shoqëria administruese e huaj ose administruesi i huaj i fondeve të investimeve alternative ose dega e shoqërisë administruese të huaj ose administruesit të huaj të fondeve të investimeve alternative nuk njihen, në zbatim të këtij ligji, derisa autoriteti të miratojë aktet rregullative, që rregullojnë njohjen dhe procedurat për njohjen e shoqërive të huaja administruese dhe degëve të tyre.
+Shoqëria administruese e themeluar në një shtet anëtar të Bashkimit Europian ose administruesi i fondeve të investimeve alternative në një shtet anëtar të Bashkimit Europian ose dega e shoqërisë administruese, e themeluar në një shtet anëtar të Bashkimit Europian, njihen në përputhje me përcaktimet e Marrëveshjes së Stabilizim-Asociimit BE-Shqipëri.

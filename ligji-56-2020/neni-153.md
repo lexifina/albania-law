@@ -1,0 +1,7 @@
+# Neni 153
+Likuidimi, mbyllja dhe bashkimi i nënfondit ose sipërmarrjes kryesore
+1. Nëse sipërmarrja kryesore ose nënfondi prishet dhe likuidohet, nënfondi ose sipërmarrja furnizuese duhet të prishet dhe likuidohet, nëse autoriteti nuk miraton kalimin e investimit në një nënfond ose sipërmarrje tjetër kryesore ose nuk miraton ndryshimin e nënfondit ose sipërmarrjes furnizuese në një sipërmarrje ose nënfond të investimeve kolektive me ofertë publike, që nuk funksionon si sipërmarrje furnizuese apo nënfond.
+2. Në rastin e bashkimit të sipërmarrjes kryesore zbatohen dispozitat e pikës 1 të këtij neni. Në raste të tilla, krahas parashikimeve sa më lart, autoriteti mund të japë miratimin që investimi të vijojë në subjektin e bashkuar.
+3. Sipërmarrja kryesore prishet dhe likuidohet jo më parë se tre muaj, pasi ka informuar mbajtësit e kuotave dhe autoritetin rregullator të vendit të origjinës të sipërmarrjes furnizuese për vendimin e mbylljes.
+4. Sipërmarrja kryesore mund të bashkohet jo më parë se 60 ditë, pasi u ka dhënë informacionet e përcaktuara në nenin 162, të këtij ligji, pjesëmarrësve dhe autoritetit rregullator të vendit të origjinës të sipërmarrjes furnizuese.
+5. Nëse sipërmarrja kryesore ose nënfondi i themeluar në një vend tjetër del nga bashkimi, zbatohen dispozitat e pikave 1 dhe 4 të këtij neni. Në këtë rast, krahas parashikimeve sa më lart autoriteti mund të japë miratimin që investimi të vijojë në subjektin e bashkuar.

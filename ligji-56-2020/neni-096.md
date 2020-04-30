@@ -1,0 +1,23 @@
+# Neni 96
+Ushtrimi i veprimtarisë së shoqërisë së huaj administruese
+në Republikën e Shqipërisë
+1. Shoqëria e huaj administruese ose dega e shoqërisë së huaj administruese mund të ushtrojë veprimtari në Republikën e Shqipërisë, sipas parashikimeve të këtij neni.
+2. Shoqëria administruese e licencuar në një vend të huaj për të kryer administrimin e sipërmarrjeve të investimeve kolektive me ofertë publike mund të njihet nga autoriteti për të kryer veprimtari në lidhje me sipërmarrjet e investimeve kolektive me ofertë publike në Republikën e Shqipërisë, drejtpërdrejt nga vendi i veprimtarisë së tyre ose nëpërmjet themelimit të degës.
+3. Shoqëria e huaj administruese ose dega e shoqërisë së huaj administruese, e lincencuar në një shtet anëtar të Bashkimit Europian, njihet nga autoriteti, si dhe ushtron veprimtarinë e saj në Republikën e Shqipërisë, sipas parashikimeve në Marrëveshjen e Stabilizim-Asociimit (MSA-së) BE-Shqipëri.
+4. Njohja, sipas parashikimeve të pikave 1 dhe 2, të këtij neni, bëhet vetëm nëse subjekti përmbush kërkesat e mëposhtme:
+a) shoqëria administruese e sipërmarrjes së investimeve kolektive ose autoriteti rregullator i vendit të origjinës së shoqërisë administruese i ka përcjellë autoritetit informacionet e përcaktuara ose të kërkuara nga autoriteti;
+b) ekziston bashkëpunimi i duhur mbikëqyrës midis autoritetit rregullator të vendit të origjinës të shoqërisë administruese dhe autoritetit në Republikën e Shqipërisë;
+c) shoqëria administruese është objekt i mbikëqyrjes së duhur në vendin e vet të origjinës;
+ç) shoqëria administruese përmbush kërkesat e përcaktuara për ushtrimin e veprimtarisë në vendin e origjinës dhe këto kërkesa ofrojnë të njëjtin nivel mbrojtjeje investitorëve në Republikën e Shqipërisë, me atë të që i ofrohen investitorëve të shoqërive administruese vendase;
+d) shoqëria administruese e sipërmarrjes ndërmerr masat e nevojshme për pagesën në Republikën e Shqipërisë të pjesëmarrësve, për shlyerjen e pjesëmarrjes dhe vënien në dispozicion të informacionit që sipërmarrja harton dhe përgatit sipas rregullave të vendit të tij të origjinës;
+dh) procesi i shitjes nga ana e sipërmarrjes në Republikën e Shqipërisë kryhet ose drejtpërdrejt nga selia e shoqërisë administruese të sipërmarrjes nëpërmjet një përfaqësie në Republikën e Shqipërisë ose nëpërmjet një shoqërie administruese të licencuar në Republikën e Shqipërisë ose në një vend tjetër ose një shoqërie administruese të njohur, në bazë të këtij neni ose një agjenti, në bazë të nenit 102 të këtij ligji.
+5. Autoriteti gjatë procesit të miratimit për njohjen e shoqërive të huaja administruese merr në konsideratë ekzistencën e marrëveshjeve të përbashkëta të bashkëpunimit për njohjen e shoqërive të huaja administruese në legjislacionin e vendit të origjinës së sipërmarrjes përkatëse.
+6. Autoriteti mund të heqë vendimin e njohjes së subjektit nëse:
+a) nuk përmbushen më kërkesat e shkronjave “ç”, “d” ose “dh”, të pikës 3, të këtij neni;
+b) janë shkelur kushtet e përcaktuara për njohjen në bazë të këtij ligji;
+c) nuk përmbushen kërkesat e parashikuara në seksionin 3, të kreut XII, të këtij ligji;
+ç) nuk përmbushen kërkesat për dokumentet në gjuhën shqipe.
+7. Shoqëria administruese e njohur nga autoriteti informon me shkrim autoritetin për çdo ndryshim lidhur me veprimtarinë e saj në Republikën e Shqipërisë përpara implementimit të ndryshimit, me përjashtim të rastit kur ky ndryshim komunikohet nëpërmjet autoritetit rregullator të vendit të origjinës së shoqërisë administruese. Ndryshimet lidhur me degën implementohen vetëm një muaj pas dhënies së informacionit në lidhje me ndryshimin.
+8. Dispozitat e kapitujve III, IV, V, VII, VIII, IX dhe X të këtij ligji zbatohen për shoqëritë e huaja administruese ose degët e shoqërive të huaja administruese që themelojnë sipërmarrje të investimeve kolektive me ofertë publike në Republikën e Shqipërisë nga vendi i tyre i origjinës dhe shoqëria administruese është përgjegjëse ndaj autoritetit për përputhshmërinë me këto kërkesa.
+9. Nëse shoqëria e huaj administruese synon të marketojë sipërmarrje të huaja të investimeve kolektive me ofertë publike në Republikën e Shqipërisë, pa themelimin e një dege dhe nëse sipërmarrja administrohet nga kjo shoqëri administruese, atëherë mjafton njoftimi i kryer në bazë të kreut IX të këtij ligji.
+10. Shoqëria e huaj administruese ose dega e shoqërisë së huaj administruese duhet të garantojë se është në gjendje t’i japë autoritetit informacionet e nevojshme për monitorimin e përputhshmërisë së saj me këtë ligj dhe me aktet rregullative të miratuara nga autoriteti në zbatim të këtij ligji, sipas kërkesës.

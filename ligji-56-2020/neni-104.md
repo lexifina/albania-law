@@ -1,0 +1,12 @@
+# Neni 104
+Mënyra dhe kushtet e shitjes
+Subjektet e parashikuara në nenin 101, të këtij ligji, të licencuara për shitjen e aksioneve ose të kuotave në sipërmarrjet e investimeve kolektive me ofertë publike ose të njohura duhet të përmbushin përcaktimet e mëposhtme:
+a) u garantojnë investitorëve disponueshmërinë e të gjitha dokumenteve dhe të dhënave përkatëse, konkretisht prospektin SIK, dokumentin me informacionin kryesor për investitorin, raporte dhe pasqyra financiare vjetore e të ndërmjetme, çmimet e kuotave etj.;
+b) kontrollojnë nëse kërkesat për blerjen dhe shlyerjen janë kryer në mënyrë të rregullt;
+c) i dërgojnë rregullisht shoqërisë administruese ose degës së shoqërisë administruese kërkesat për shitje dhe shlyerje;
+ç) në promovimin e sipërmarrjeve të investimeve kolektive me ofertë publike dhe të njohura përdorin vetëm prospektin SIK, dokumentin me informacione kryesore, raporte dhe pasqyra financiare vjetore e të ndërmjetme dhe materialet e marketimit ose prezantimit që janë miratuar nga shoqëria administruese;
+d) nuk u japin informacion të rremë ose informacion çorientues investitorëve lidhur me gjendjen e sipërmarrjes apo deklarata të tjera të rreme rreth sipërmarrjes, objektivave të saj të investimit, risqet e lidhura me to, çmimet, kthimet e investimit apo çështje ose informacion tjetër për sipërmarrjen apo shoqërinë administruese ose ndonjë deklaratë tjetër, e cila bie në kundërshtim me përmbajtjen e prospektit SIK, dokumentin me informacione kryesore ose raportet dhe pasqyrat financiare vjetore dhe të ndërmjetme të tij;
+dh) mbajnë përgjegjësi para shoqërisë administruese për çdo gabim ose pakujdesi të punonjësve të tyre dhe për çdo mospërputhshmëri me këtë ligj dhe aktet rregullative të miratuara nga autoriteti;
+e) informojnë investitorin e mundshëm mbi faktin se cilën shoqëri administruese përfaqësojnë dhe nëse ai ofron për shitje vetëm produktet e një apo më shumë shoqërive;
+ë) garantojnë që sipërmarrja apo sipërmarrjet e investimeve kolektive të propozuara plotësojnë nevojat e palës së interesuar dhe se rekomandimet e bëra lidhur me sipërmarrjet e investimeve kolektive janë të përshtatshme dhe/ose të duhura për nevojat e klientëve dhe për kategorinë e klientëve në fjalë (klient profesionist dhe tё kualifikuar, klient individual;
+f) veprojnë në çdo kohë në përputhje me këtë ligj, me legjislacionin në fuqi për tregjet e kapitalit, dhe me aktet rregullative përkatëse të miratuara nga autoriteti.

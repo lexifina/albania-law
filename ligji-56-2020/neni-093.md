@@ -1,0 +1,12 @@
+# Neni 93
+Informacioni kryesor për investitorin
+1. Shoqëria administruese harton një dokument me informacionin kryesor për investitorin për çdo sipërmarrje të investimeve kolektive me ofertë publike, që është sipërmarrje e veçantë dhe për çdo nënfond të sipërmarrjes ombrellë me ofertë publike.
+2. Dokumenti me informacionin kryesor për investitorin informon investitorin në mënyrë të kuptueshme, të qartë dhe jo keqorientuese mbi informacionet bazë të nevojshme për të marrë një vendim investimi. Aspektet me rëndësi të informacioneve duhet të mbahen të përditësuara. Versioni i përditësuar i dokumentit me informacionet kryesore për investitorët publikohet gjithmonë në faqen e internetit të shoqërisë administruese.
+3. Çdo ndryshim dhe përditësim i dokumentit me informacionin kryesor për investitorin i komunikohet autoritetit duke i dërguar një kopje të dokumentit të përditësuar.
+4. Shoqëria administruese dhe personat e tjerë që marketojnë sipërmarrje të investimeve kolektive me ofertë publike u mundësojnë pa pagesë të gjithë investitorëve dokumentin me informacionin kryesor për investitorin, përpara nënshkrimit të kontratës për blerjen e pjesëmarrjes. Shoqëria administruese i mundëson agjentëve, sipas kërkesës, dokumentin me informacionin kryesor për investitorin, në përputhje me nenin 101, të këtij ligji, si dhe ofruesve të produkteve ku është e përfshirë sipërmarrja e investimeve kolektive me ofertë publike.
+5. Dokumenti me informacionin kryesor për investitorin përcakton qartë se prospekti SIK, raporte dhe pasqyra financiare vjetore/ndërmjetme vihen në dispozicion pa pagesë, duke përcaktuar edhe mënyrën e marrjes së këtij informacioni.
+6. Përmbajtja e dokumentit me informacionin kryesor për investitorin është në përputhje me prospektin aktual SIK dhe duhet të jetë në përputhje me kërkesat e shtojcës 2 të këtij ligji.
+7. Përgjegjësia dhe detyrimi për dokumentin me informacionin kryesor për investitorin e sipërmarrjes së investimeve kolektive me ofertë publike është i njëjtë me përgjegjësinë për prospektin SIK, siç parashikohet në nenin 88 të këtij ligji. Përgjegjësia për dokumentin me informacionin kryesor për investitorin bazohet në çdo deklaratë të përfshirë në dokumentin me informacionin kryesor të investitorit, që është mashtruese, e pasaktë ose në mospërputhje me pjesët përkatëse të prospektit të sipërmarrjes ose të nënfondit në fjalë.
+SEKSIONI 3
+MARKETIMI I SIPËRMARRJEVE TË INVESTIMEVE KOLEKTIVE
+ME OFERTË PUBLIKE

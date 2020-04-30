@@ -1,0 +1,5 @@
+# Neni 113
+Çmimi i pasaktë i shitjes ose shlyerjes
+Në rastin e llogaritjes së pasaktë të çmimit të një kuote në një fond të investimeve me pjesëmarrje të hapur ose me intervale me ofertë publike me mbi 1 %, krahasuar me vlerën e llogaritur nëpërmjet zbatimit të metodologjisë së përcaktuar në nenin 32, të këtij ligji, dhe aktit nënligjor, autoriteti mund t’i kërkojë shoqërisë administruese përgjegjëse për këtë llogaritje të pasaktë që të ndërmarrë hapat e mëposhtëm:
+a) në rastin kur çmimi i llogaritur për kuotën është më i ulët se vlera korrekte, e përcaktuar sipas kësaj metodologjie, të kompensojë çdo mbajtës të kuotave për çdo diferencë në shumën e marrë nga kuotat e shlyera dhe të kompensojë fondin për çdo diferencë në shumën e arkëtuar për kuotat e shitura;
+b) në rastin kur çmimi i llogaritur për kuotën është më i lartë se vlera korrekte, e përcaktuar sipas kësaj metodologjie, të kompensojë çdo mbajtës të kuotave që i blen kuotat nëpërmjet shpërndarjes së kuotave shtesë dhe të kompensojë fondin për çdo vlerë përtej çmimit të paguar për kuotat e shlyera.

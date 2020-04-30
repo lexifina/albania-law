@@ -1,0 +1,13 @@
+# Neni 202
+Detyrimi për të dhënë informacion
+1. Shoqëria administruese e fondeve i mundëson autoritetit çdo informacion që kërkohet për çështjet e lidhura me veprimtarinë e subjekteve të licencuara. Detyrimi për dhënie informacioni zbatohet edhe nga agjentët e lidhur me shoqërinë administruese dhe për depozitarët e licencuar dhe depozitarët e licencuar të fondeve të investimeve alternative lidhur me veprimtarinë e tyre, në zbatim të këtij ligji.
+2. Autoriteti, në zbatim të parashikimeve të pikës 1, të këtij neni, kërkon informacionet që i gjykon të rëndësishme në kuadër të kryerjes së detyrave të tij mbikëqyrëse, në zbatim të këtij ligji dhe të legjislacionit në fuqi që rregullon veprimtarinë e autoritetit të mbikëqyrjes financiare.
+3. Subjektet e licencuara i mundësojnë menjëherë autoritetit çdo informacion që zotërojnë, nëse janë në dijeni apo kanë arsye të besojnë se:
+a) informacioni është i rëndësishëm për ushtrimin e funksioneve mbikëqyrëse dhe rregullatore të autoritetit lidhur me subjektet e licencuara, sipas këtij ligji;
+b) mosdhënia e informacionit çon në keqinformimin dhe mashtrimin e autoritetit për çështje me rëndësi thelbësore në ushtrimin e funksioneve mbikëqyrëse dhe rregullatore të tij lidhur me subjektet e licencuara/njohura, sipas këtij ligji.
+4. Shoqëria administruese e fondeve, audituesit e saj, depozitari dhe depozitari i fondeve të investimeve alternative dhe audituesi i tij informojnë menjëherë autoritetin për çdo çështje që kanë dijeni ose që kanë arsye të besojnë sa më poshtë:
+a) shoqëria administruese e fondeve, depozitari dhe depozitari i fondeve të investimeve alternative është ose është shumë e mundshme të kalojë në paaftësi paguese për t’i shlyer brenda afatit të gjitha detyrimet e tij ose nëse pasivet janë më të mëdha në vlerë se aktivet e tij;
+b) shoqëria administruese e fondeve, depozitari ose depozitari i investimeve alternative nuk është në gjendje të përmbushë kërkesat për mjaftueshmëri të kapitalit të këtij ligji ose të ligjit për tregjet e kapitalit;
+c) gjendja ekzistuese ose e ndryshuar e aktivitetit mund të rrezikojë thelbësisht të drejtat e mbajtësve të kuotave/aksionarëve të sipërmarrjeve të investimeve kolektive të administruara nga shoqëria administruese e fondeve;
+ç) audituesi i jashtëm planifikon të japë opinion me rezerva thelbësore në raportin e tij lidhur me auditimin për sipërmarrjen e investimeve kolektive, shoqërinë administruese të fondeve, depozitarin ose depozitarin e fondeve të investimeve alternative;
+d) çdo veprimtari kriminale që lidhet me ofrimin e shërbimeve të tyre, përfshirë veprimtaritë e pastrimit të parave dhe financimit të terrorizmit.

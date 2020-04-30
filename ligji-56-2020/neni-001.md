@@ -1,0 +1,9 @@
+# Neni 1
+Objekti dhe fusha e zbatimit
+1. Ky ligj rregullon:
+a) themelimin, regjistrimin dhe veprimtarinë e shoqërive administruese të fondeve, të shoqërive administruese të sipërmarrjeve të investimeve kolektive me ofertë publike dhe të shoqërive administruese të fondeve të investimeve alternative, në Republikën e Shqipërisë;
+b) themelimin, regjistrimin dhe veprimtarinë e depozitarëve të sipërmarrjeve të investimeve kolektive në Republikën e Shqipërisë;
+c) themelimin, regjistrimin dhe veprimtarinë e sipërmarrjeve të investimeve kolektive në Republikën e Shqipërisë;
+ç) shitjen dhe marketimin në Republikën e Shqipërisë të sipërmarrjeve të investimeve kolektive të themeluara në Republikën e Shqipërisë ose jashtë saj, nëpërmjet shoqërive administruese të fondeve, vendase ose të huaja;
+d) marketimin dhe administrimin e sipërmarrjeve të investimeve kolektive jashtë Republikës së Shqipërisë nga shoqëri administruese të themeluara në Republikën e Shqipërisë.
+2. Ky ligj zbatohet për të gjitha subjektet e licencuara, të njohura ose të regjistruara nga autoriteti, që kryejnë veprimtari ose kanë lidhje me kryerjen e veprimtarisë së mbledhjes së fondeve, me qëllim diversifikimin e riskut, sipas dispozitave të këtij ligji, duke përfshirë: sipërmarrjet e investimeve kolektive, shoqërinë administruese, administruesin e fondeve të investimeve alternative, degën e shoqërisë së huaj administruese, degën e shoqërisë vendase në një vend të huaj, administruesin e huaj të fondeve të investimeve alternative, depozitarin ose depozitarin e fondeve të investimeve alternative, agjentët/distributorët e shitjeve në Republikën e Shqipërisë, si dhe çdo subjekt tjetër që kryen veprimtaritë e sipërpërmendura pa miratimin dhe licencimin e dhënë nga autoriteti, në përputhje me kërkesat e këtij ligji. Ky ligj zbatohet rast pas rasti edhe për personin, të cilit subjektet e sipërpërmendura i kanë deleguar funksione në zbatim të këtij ligji.

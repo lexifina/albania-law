@@ -1,0 +1,4 @@
+# Neni 239
+Sipërmarrjet e investimeve kolektive të licencuara
+1. Fond investimi, me pjesëmarrje të hapur me ofertë publike i licencuar nga autoriteti, sipas nenit 54, të ligjit nr. 10 198, “Për sipërmarrje të investimeve kolektive”, në datën e hyrjes në fuqi të këtij ligji, vazhdon të jetë i licencuar, si një fond investimi me pjesëmarrje të hapur me ofertë publike, sipas nenit 62, të këtij ligji, me kusht që brenda 18 muajve nga miratimi i rregulloreve të zbatueshme për fondin e investimeve të hapura, sipas këtij ligji, fondi i investimeve me pjesëmarrje të hapur të përshtatet me kërkesat përkatëse të këtij ligji dhe rregulloreve të tij.
+2. Çdo kërkesë e re për licencim nga sipërmarrja e investimeve kolektive, nga momenti i hyrjes në fuqi të këtij ligji, përmbush dhe respekton kërkesat e këtij ligji.

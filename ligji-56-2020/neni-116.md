@@ -1,0 +1,4 @@
+# Neni 116
+Përgjegjësia për mbajtjen e regjistrit të pronësisë
+1. Shoqëria administruese e fondit të investimeve me ofertë publike është personi përgjegjës për krijimin dhe mbajtjen e regjistrit të kuotave të fondit, depozitari i fondit mban njëkohësisht regjistrin e kuotave të fondit, si dhe verifikon dhe kontrollon që çdo veprim i shoqërisë administruese, në lidhje me këtë regjistёr, është në përputhje me kërkesat e këtij ligji dhe akteve nënligjore në zbatim të tij.
+2. Në rast se fondi i investimeve me ofertë publike është i listuar në një treg të rregulluar, depozitari mund të delegojë mbajtjen e regjistrit te një regjistrues i licencuar, sipas legjislacionit në fuqi që rregullon fushën e tregjeve të kapitalit, ose depozitarin qendror të titujve, siç kërkohet nga rregullat e këtij tregu.

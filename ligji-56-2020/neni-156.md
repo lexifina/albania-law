@@ -1,0 +1,18 @@
+# Neni 156
+Marketimi i sipërmarrjeve të huaja të investimeve kolektive që publikohet në Republikën e Shqipërisë
+1. Sipërmarrjet e huaja të investimeve kolektive mund t’i marketohen publikut në Republikën e Shqipërisë pas njohjes së këtyre sipërmarrjeve nga autoriteti. Kërkesat e këtij neni zbatohen edhe për nënfondet e këtyre sipërmarrjeve.
+2. Autoriteti bën njohjen e sipërmarrjes së huaj nëse përmbushen përcaktimet e mëposhtme:
+a) shoqëria administruese ose administruesi i fondeve të investimeve alternative të sipërmarrjes së investimeve kolektive ose autoritetit rregullator në vendin e origjinës së shoqërisë administruese ose administruesit të fondeve të investimeve alternative i ka përcjellë autoritetit informacionet, që parashikohen ose kërkohen nga autoriteti, siç janë: akti i themelimit, prospekti SIK, dokumenti me informacionin kryesor për investitorin, raporti dhe pasqyrat financiare vjetore dhe, sipas rastit, raporti dhe pasqyrat financiare të ndërmjetme të sipërmarrjes dhe konfirmimi i statusit të rregulluar të sipërmarrjes dhe shoqërisë administruese ose administruesit të fondeve të investimeve alternative;
+b) ekziston marrëveshje bashkëpunimi midis autoritetit rregullator të vendit të origjinës të shoqërisë administruese ose administruesit të fondeve të investimeve alternative dhe autoritetit në Republikën e Shqipërisë;
+c) sipërmarrja e huaj e investimeve kolektive është licencuar për ofertë publike në vendin e origjinës;
+ç) sipërmarrja dhe shoqëria administruese ose administruesi i fondit të investimeve alternative të sipërmarrjes janë objekt i mbikëqyrjes adekuate në vendin e origjinës;
+d) sipërmarrja dhe administrimi i saj i përmbush kërkesat e përcaktuara për ushtrimin e veprimtarisë tregtare në vendin e origjinës dhe këto kërkesa u ofrojnë investitorëve në Republikën e Shqipërisë të paktën të njëjtën mbrojtje që u ofrohet investitorëve nga sipërmarrjet vendase me ofertë publike;
+dh) shoqëria administruese ose administruesi i fondeve alternative i sipërmarrjes ndërmerr masat e nevojshme për të mundësuar pagesën e pjesëmarrësve në Republikën e Shqipërisë, shlyerjen e pjesëmarrjeve dhe vendosjen në dispozicion të informacioneve që duhet të mundësojë sipërmarrja, sipas rregullave të vendit të saj të origjinës;
+e) procesi i shitjes nga ana e sipërmarrjes në Republikën e Shqipërisë bëhet drejtpërdrejt nga selia e shoqërisë administruese ose administratori i fondit të investimeve alternative të sipërmarrjes nëpërmjet një përfaqësie në Republikën e Shqipërisë, ose nëpërmjet një shoqërie administruese ose administruesi të fondeve të investimeve alternative të licencuara në Republikën e Shqipërisë, ose nëpërmjet një subjekti, sipas rregullave të autoritetit ose një subjekti të njohur, në bazë të nenit 96, të këtij ligji, ose një agjenti, në bazë të nenit 102 të këtij ligji.
+3. Autoriteti, kur vendos për njohjen e sipërmarrjeve të huaja, në zbatim të këtij neni, merr në konsideratë ekzistencën e rregullave ligjore të barasvlershme për njohjen e sipërmarrjeve të huaja në legjislacionin e vendit të origjinës të sipërmarrjes kërkuese.
+4. Autoriteti heq vendimin e njohjes së sipërmarrjes nëse:
+a) nuk përmbushen më kërkesat e shkronjave “ç”, “d” dhe “dh”, të pikës 2, të këtij neni;
+b) janë shkelur kushtet e parashikuara për njohjen;
+c) nuk përmbushen kërkesat e kreut V, seksioni 3, të këtij ligji, ose të akteve rregullative të miratuara nga autoriteti në zbatim të këtij ligji;
+ç) nuk përmbushen kërkesat për përpilimin e dokumenteve në gjuhën shqipe.
+5. Autoriteti mund të kryejë njohjen e sipërmarrjeve ose nënfondeve të veçanta të investimeve kolektive që janë objekt i një kuadri ligjor rajonal të standardizuar.

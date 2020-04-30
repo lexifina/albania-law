@@ -1,0 +1,7 @@
+# Neni 148
+Kërkesat për nënfondet ose sipërmarrjet furnizuese
+1. Nënfondi ose sipërmarrja furnizuese duhet të monitorojë veprimtarinë e sipërmarrjes kryesore, në të cilën ka investuar në bazë të informacioneve, që merr nga shoqëria administruese depozitari dhe audituesi i sipërmarrjes kryesore.
+2. Investitorët kanë të drejtë të marrin pa pagesë nga nënfondi ose sipërmarrja furnizuese një kopje të prospektit SIK, të dokumentit me informacionin kryesor për investitorin, të raportit dhe pasqyrave financiare vjetore dhe të raportit dhe pasqyrave financiare të ndërmjetme të sipërmarrjes kryesore.
+3. Nënfondi ose sipërmarrja furnizuese i mundëson depozitarit të tij informacione për nënfondin ose sipërmarrjen kryesore, të cilat i nevojiten depozitarit në përmbushje të detyrimeve të veta.
+4. Nëse shoqëria administruese ose çdo person tjetër, që vepron në emër të nënfondit ose sipërmarrjes furnizuese ose shoqërisë administruese të nënfondit a sipërmarrjes furnizuese merr tarifë shpërndarjeje, komisione ose përfitime të tjera monetare, kjo tarifë shpërndarjeje, komision a përfitim tjetër monetar kalohet në aktivet e nënfondit ose sipërmarrjes furnizuese.
+5. Nëse nënfondi ose sipërmarrja kryesore ndodhet në një vend tjetër, ajo i përcjell autoritetit, menjëherë pas publikimit, prospektin, dokumentin me informacionin kryesor për investitorin dhe raportin dhe pasqyrat financiare vjetore dhe të ndërmjetme të saj.
