@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi parashtrimin e kërkesave të përdorimit të hapësirës ajrore dhe procedurat operacionale në lidhje me lundrimin ajror në bazë të performancës”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.
