@@ -1,0 +1,1 @@
+1. Caktimin e qarkut Dibër, qarkut Gjirokastër, zonës së përbashkët të bashkive Sarandë, Konispol, Himarë, Delvinë dhe Finiq, zonës së përbashkët të bashkive Përrenjas, Pogradec dhe Librazhd dhe Bashkia Divjakë si “zona të gjelbërta”, apo zona me rrezik të ulët të transmetimit të infeksionit nga COVID-19.

@@ -1,0 +1,1 @@
+5. Mjetet e transportit të punonjësve në institucionet publike dhe/ose private do të lejohen të lëvizin me autorizimin përkatës, sipas orarit të diktuar nga natyra e punës vetëm me një pasagjer i cili duhet të ulet në pjesën e pasme të automjetit, i pozicionuar diagonal me drejtuesin e mjetit, sipas protokolleve të miratuara.

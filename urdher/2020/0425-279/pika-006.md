@@ -1,0 +1,1 @@
+6. Lejohet lëvizja e mjeteve private, pa autorizim, vetëm brenda qarkut ose bashkive përkatëse nga ora 09:30 deri 17:30, vetëm me një pasagjer në automjet, i cili duhet të ulet në pjesën e pasme të automjetit, i pozicionuar diagonal me drejtuesin e mjetit, sipas protokolleve të miratuara.
