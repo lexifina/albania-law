@@ -1,0 +1,1 @@
+1. Aktivitete e përcaktuara në tabelën bashkëlidhur urdhrit të nr. 193, datë 20.3.2020, “Për mbylljen apo kufizimin e lëvizjeve në Republikën e Shqipërisë”, detajohen sipas nomenklaturës së aktiviteteve ekonomike dhe miratohen sipas listës bashkëlidhur këtij urdhri.
