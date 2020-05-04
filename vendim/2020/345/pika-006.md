@@ -1,0 +1,1 @@
+6. Me emërimin e nëpunësve në misionin diplomatik, marrëdhënia e tyre e punës do të rregullohet në përputhje me aktet ligjore dhe nënligjore që rregullojnë veprimtarinë e punës në shërbimin e jashtëm.

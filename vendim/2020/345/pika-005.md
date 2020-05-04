@@ -1,0 +1,1 @@
+5. Nëpunësit do të shërbejnë në misionin diplomatik sipas afatit të përcaktuar në ligjin për shërbimin e jashtëm të Republikës së Shqipërisë dhe pas përfundimit të këtij shërbimi do të rikthehen në pozicionin e mëparshëm ose në një pozicion të barasvlershëm me të.

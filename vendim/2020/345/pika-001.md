@@ -1,0 +1,1 @@
+1. Emërimi në misionet diplomatike, sipas pikës 2, të nenit 31, të ligjit nr.23/2015, “Për shërbimin e jashtëm të Republikës së Shqipërisë”, bëhet pas koordinimit të ministrisë përgjegjëse për punët e jashtme me institucionin që propozon nëpunësin, më poshtë referuar si “institucioni dërgues”.

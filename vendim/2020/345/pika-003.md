@@ -1,0 +1,1 @@
+3. Këta nëpunës emërohen nga ministri përgjegjës për punët e jashtme, me propozim të ministrit të institucionit dërgues dhe janë në varësi të dyfishtë, nga kreu i misionit diplomatik dhe titullari i institucionit dërgues.
