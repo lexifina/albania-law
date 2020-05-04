@@ -1,0 +1,1 @@
+3. Fondi prej 19 000 000 (nëntëmbëdhjetë milionë) lekësh, për shpërblimin e personelit infermier, që do të ofrojnë shërbim shëndetësor në Republikën e Italisë, të përballohet nga fondi rezervë i buxhetit të shtetit, miratuar për vitin 2020.
