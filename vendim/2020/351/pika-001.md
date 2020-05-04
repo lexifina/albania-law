@@ -1,0 +1,3 @@
+1. Në buxhetin e vitit 2020, miratuar për Ministrinë e Financave dhe Ekonomisë dhe Ministrinë e Infrastrukturës dhe Energjisë, bëhet rishpërndarja e fondeve, si më poshtë vijon:
+a) Ministrisë së Financave dhe Ekonomisë, në programin buxhetor “Menaxhimi i të ardhurave tatimore” 01140, i shtohet fondi prej 26 000 000 (njëzet e gjashtë milionë) lekësh në shpenzime kapitale, për projektin “Blerje shërbim automatizimi dhe monitorimi aktiviteti për inspektorët”, me vlerë të plotë projekti 127 440 000 (njëqind e njëzet e shtatë milionë e katërqind e dyzet mijë) lekë.
+b) Ministrisë së Infrastrukturës dhe Energjisë, në programin buxhetor “Transporti rrugor” 04520, i pakësohet fondi prej 26 000 000 (njëzet e gjashtë milionë) lekësh në shpenzime kapitale.
