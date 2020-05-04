@@ -1,0 +1,5 @@
+VENDIM
+Nr.346, datë 29.4.2020
+PËR NDRYSHIMIN E PËRGJEGJËSISË SË ADMINISTRIMIT, NGA MINISTRIA E DREJTËSISË TEK AGJENCIA SHTETËRORE E KADASTRËS, PËR PRONAT E PËRCAKTUARA NË VENDIMIN NR.411, DATË 29.8.2002, TË KËSHILLIT TË MINISTRAVE, “PËR KALIMIN E DISA MJEDISEVE NË ADMINISTRIMIN E ZYRËS QENDRORE TË REGJISTRIMIT TË PASURIVE TË PALUAJTSHME DHE TË ZYRAVE TË REGJISTRIMIT TË PASURIVE TË PALUAJTSHME TIRANË, KORÇË DHE DURRËS”, TË NDRYSHUAR
+Në mbështetje të nenit 100 të Kushtetutës, të neneve 7, 13, 14 dhe 15, të ligjit nr.8743, datë 22.2.2001, “Për pronat e paluajtshme të shtetit”, të ndryshuar, dhe të neneve 6 e 7, të ligjit nr.111/2018, “Për kadastrën”, me propozimin e Zëvendëkryeministrit, Këshilli i Ministrave
+VENDOSI:
