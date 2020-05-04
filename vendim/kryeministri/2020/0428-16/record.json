@@ -1,0 +1,26 @@
+{
+  "qbz_id": 66143,
+  "title": "Për dhënien e ndihmës me personel infermier për Republikën e Italisë",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "16",
+  "institution": "Kryeministri",
+  "adopted": "2020-04-28",
+  "published": "2020-05-04",
+  "in_force": "2020-05-04",
+  "in_force_basis": "\"hyn në fuqi menjëherë dhe botohet në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/a70d3e0b06a09cd63c7b97b9483bfe307a4b9bf1f0988c2dee93ad601adf6951.docx",
+  "source_sha256": "a70d3e0b06a09cd63c7b97b9483bfe307a4b9bf1f0988c2dee93ad601adf6951",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66143",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/04/28/16",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
