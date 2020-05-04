@@ -1,0 +1,1 @@
+1. Transferimin e pronësisë së 100% të aksioneve të shoqërisë “Trajtimi i studentëve”, sh.a., Shkodër, nga Ministria e Financave dhe Ekonomisë te Bashkia Shkodër, me të gjitha të drejtat dhe detyrimet, në momentin e hyrjes në fuqi të këtij vendimi.
