@@ -2,3 +2,4 @@
 a) Regjistrat e sëmundjeve;
 b) Survejanca e sëmundjeve me rëndësi të veçantë në shëndetin publik;
 c) Të dhëna për aktivitetin e institucioneve shëndetësore.
+1/1. Ofruesit e shërbimit të kujdesit shëndetësor, publik ose privat, raportojnë të dhëna në sistemin e informacionit shëndetësor, sipas përcaktimeve në vendimin nr.135, datë 20.3.2019, të Këshillit të Ministrave, “Për miratimin e nomenklaturës së klasifikimit ndërkombëtar të sëmundjeve, ICD-10”.
