@@ -1,0 +1,1 @@
+1. Transferimin në pronësi të Bashkisë Tiranë, të njësisë administrative Tiranë, të pronës me nr.16, me emërtimin “Uzina e pjesëve të ndërrimit të automjeteve”, me vendndodhje në zonën kadastrale 8170, sipas formularëve gjithsej 3 (tre) fletë dhe hartave kadastrale, bashkëlidhur këtij vendimi, me qëllim për t’u përdorur në fushën e strehimit dhe të shërbimeve sociale.
