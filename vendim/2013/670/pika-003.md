@@ -1,1 +1,0 @@
-3. Ministrisë së Drejtësisë dhe Dhomës Kombëtare të Avokatisë u ndalohet të ndryshojnë destinacionin e pronës së përcaktuar në pikën 1 të këtij vendimi, ta tjetërsojnë ose t’ua japin në përdorim të tretëve.

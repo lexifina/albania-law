@@ -1,1 +1,0 @@
-2. Prona e përcaktuar në pikën 1 të këtij vendimi, të hiqet nga lista e inventarit të pronave të paluajtshme shtetërore, e cila i bashkëlidhet vendimit nr. 515, datë 18.7.2003 të Këshillit të Ministrave “Për miratimin e listës së inventarit të pronave të paluajtshme shtetërore, të cilat i kalojnë në përgjegjësi administrimi Ministrisë së Mbrojtjes”, të ndryshuar.

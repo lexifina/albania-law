@@ -1,1 +1,0 @@
-1. Kalimin në përgjegjësi administrimi, nga Ministria e Mbrojtjes te Ministria e Drejtësisë, për Dhomën Kombëtare të Avokatisë, të pasurisë së paluajtshme, me sipërfaqe 25 000 (njëzet e pesë mijë) m2, me nr. 1/190, në zonën kadastrale nr. 8210, Tiranë, për ta përdorur për ndërtimin e Shkollës Kombëtare të Avokatisë.
