@@ -1,0 +1,29 @@
+{
+  "qbz_id": 66137,
+  "title": "Për procedurat, kriteret dhe rregullat për zbatimin e programit të nxitjes nëpërmjet vetëpunësimit",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "348",
+  "institution": "Këshilli i Ministrave",
+  "adopted": "2020-04-29",
+  "published": "2020-05-04",
+  "in_force": "2020-05-04",
+  "in_force_basis": "\"hyn në fuqi pas botimit në Fletoren Zyrtare\": the publication day",
+  "source": "https://qbz.gov.al/files/ed65d10b47f030a27e7940231c520780fd9335bc0b4e5d49939737b23f76f7bf.docx",
+  "source_sha256": "ed65d10b47f030a27e7940231c520780fd9335bc0b4e5d49939737b23f76f7bf",
+  "official_record": "https://qbz.gov.al/api/v1/acts/66137",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/04/29/348",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    30773,
+    24619
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
