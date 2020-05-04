@@ -1,0 +1,1 @@
+1. Kalimin në pronësi të Bashkisë Elbasan, për njësinë administrative Labinot-Fushë, të sipërfaqes prej 18 493 m2, me vendndodhje në zonën kadastrale 2355, me qëllim për t’u përdorur në fushën e zhvillimit ekonomik dhe social, sipas formularit gjithsej 1 (një) fletë dhe hartës kadastrale, që i bashkëlidhen këtij vendimi dhe janë pjesë përbërëse të tij.
