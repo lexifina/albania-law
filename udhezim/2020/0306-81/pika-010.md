@@ -1,0 +1,1 @@
+10. Refuzimi apo kthimi për plotësim të dokumentacionit tekniko-ligjor për mbrojtjen nga zjarri dhe për shpëtimin nga punonjësi i autorizuar i shërbimit të MZSH-së bëhet i arsyetuar, në përputhje me parashikimet e Kodit të Procedurave Administrative të Republikës së Shqipërisë.

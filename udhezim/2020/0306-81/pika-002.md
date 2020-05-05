@@ -1,0 +1,1 @@
+2. Objektet/aktivitetet të klasifikuara, sipas pikës 1, të këtij kreu, u nënshtrohen kontrolleve për parandalimin e zjarrit, sipas parimit të proporcionalitetit në identifikimin e shkallës së rrezikut ndaj zjarrit.

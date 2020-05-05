@@ -1,0 +1,1 @@
+7. Në rast se dokumentacioni i cili duhet të shoqërojë projektin e mbrojtjes nga zjarri dhe shpëtimin rezulton i plotë, por nuk është kryer pagesa e tarifës për vlerësimin e këtij projekti, shërbimi i MZSH-së në nivel vendor apo qendror njofton aplikuesin që të kryejë pagesën brenda 5 ditëve nga njoftimi.
