@@ -1,0 +1,1 @@
+4. Instituti i Shëndetit Publik për kategori specifike biznesi sipas niveleve të riskut, harton protokolle të detajuara, për masa specifike, që duhet të ndërmerren nga biznesi për parandalimin e përhapjes së infeksionit të shkaktuar nga COVID-19.

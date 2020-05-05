@@ -1,0 +1,1 @@
+3. Miratimin e protokolleve të posaçme për plotësimin e masave higjieno-sanitare, distancimit social dhe masave specifike, për parandalimin e përhapjes së infeksionit të shkaktuar nga COVID-19, për secilën nga kategoritë e përcaktuara në pikën 2 të këtij urdhri.

@@ -1,0 +1,1 @@
+2. Kategorizimin e bizneseve, sipas niveleve të riskut të përhapjes së infeksionit të shkaktuar nga COVID-19, në kategori me risk të ulët (kodi jeshil), me risk të mesëm (kodi i verdhë) dhe me risk të lartë (kodi i kuq), sipas tabelave që i bashkëlidhen këtij urdhri.

@@ -1,0 +1,1 @@
+1. Miratimin e udhëzimit të përgjithshëm për masat që duhet të ndërmarrin bizneset (sipas niveleve të riskut) për parandalimin e përhapjes së infeksionit të shkaktuar nga COVID-19 gjatë ushtrimit të aktivitetit.
