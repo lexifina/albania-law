@@ -18,12 +18,12 @@ c) drita;
 d) ngrohje;
 dh) siguri;
 e) pastrim;
-3. Pagesa për akomodimin e përkohshëm është 2.500 lekë në ditë për person, përfshirë TVSH-në, nga të cilat 1.700 lekë paguhen nga buxheti i shtetit dhe 800 lekënga personi i riatdhesuar, sipas vendimit të Komitetit Ndërministror të Emergjencave Civile.
+3. Pagesa për akomodimin e përkohshëm është 2.500 lekë në ditë për person, përfshirë TVSH-në, nga të cilat 1.700 lekë paguhen nga buxheti i shtetit dhe 800 lekë nga personi i riatdhesuar, sipas vendimit të Komitetit Ndërministror të Emergjencave Civile.
 4. Vlera e pagesës, sipas përcaktimit të pikës 3, të këtij neni, nuk mund të jetë më e madhe se 2.500 lekë në ditë për person, përfshirë TVSH-në.
 5. Nëse subjekti privat shpreh pëlqimin, për shkak të situatës, të ofrojë falas akomodimin e përkohshëm për disa individë brenda strukturës së tij, Agjencia Kombëtare e Bregdetit bën zbritjen nga vlera e përgjithshme e faturës.
 6. Efektet financiare, sipas këtij neni, do të përballohen nga fondet të vëna në dispozicion nga buxheti i shtetit.
 Neni 4
-Minstria e Turizmit dhe Mjedisit dhe shoqatat e hoteleve
+Ministria e Turizmit dhe Mjedisit dhe shoqatat e hoteleve
 1. Unioni Turistik Shqiptar (UTSH) dhe Shoqata Shqiptare e Turizmit (ATA) evidentojnë strukturat akomoduese/hotelet dhe listën ia përcjellin Ministrisë së Turizmit dhe Mjedisit.
 2. Ministria e Turizmit dhe Mjedisit bën përzgjedhjen e tyre bazuar në standardet cilësore të ndërtimit, kapacitetit të akomodimit mbi 20 dhoma si dhe eksperiencë bashkëpunimi me operatorë menaxhues të strukturave akomoduese dhe ia përcjell për miratim Komitetit të Ndërministror të Emergjencave Civile.
 3. Ministria e Turizmit dhe Mjedisit autorizon Agjencinë Kombëtare të Bregdetit për nënshkrimin e marrëveshjes me subjektet private që operojnë në fushën e hoteleri-turizmit, sipas listës së strukturave akomoduese të miratuara nga Komiteti Ndërministror i Emergjencave Civile.
@@ -32,17 +32,17 @@ Neni 5
 Detyrat e Agjencisë Kombëtare të Bregdetit
 1. AKB-ja është institucioni koordinues për verifikimin e plotësimit të detyrimeve që rrjedhin nga zbatimi i kushteve të marrëveshjes për akomodimin e përkohshëm të personave që riatdhesohen, të lidhur ndërmjet Agjencisë Kombëtare të Bregdetit dhe subjektit për akomodimin e këtyre personave nëpër struktura akomoduese, bazuar në listën e vënë në dispozicion nga subjekti i strukturës akomoduese dhe pasi të jetë përgatitur dosja personale për çdo person të riatdhesuar.
 2. Agjencia Kombëtare e Bregdetit (AKB) nënshkruan marrëveshje të veçantë me secilën strukturë akomoduese, të përzgjedhur, që do të sigurojë akomodimin e përkohshëm të të personave që riatdhesohen.
-3. Agjencia Kombëtare e Bregdetit siguron nga subjekti i strukurës akomoduese dosjen personale për çdo person të riatdhesuar, e cila përmban kopje të pasaportës së personit ku evidentohet data e daljes nga shteti që vjen dhe/ose kopje të biletës së udhëtimit.
+3. Agjencia Kombëtare e Bregdetit siguron nga subjekti i strukturës akomoduese dosjen personale për çdo person të riatdhesuar, e cila përmban kopje të pasaportës së personit ku evidentohet data e daljes nga shteti që vjen dhe/ose kopje të biletës së udhëtimit.
 4. Agjencia Kombëtare e Bregdetit, do të marrë përsipër mbulimin e shpenzimeve me fondet e buxhetit të shtetit.
 Neni 6
 Detyrat e ministrive
 1. Ministria e Shëndetësisë dhe Mbrojtjes Sociale:
-a) kujdeset për shëndetin e personave të riatdhesuar në momentin e mbërritjes së tyre dhe gjatë gjithë periudhës së qendrimit në strukturat akomoduese;
+a) kujdeset për shëndetin e personave të riatdhesuar në momentin e mbërritjes së tyre dhe gjatë gjithë periudhës së qëndrimit në strukturat akomoduese;
 b) merr masa për respektimin e kushteve të higjienës, të distancimit dhe çdo mase tjetër qe duhet të ndiqen në përputhje me parashikimet e akteve ligjore/nënligjore në kuadër të epidemisë së shkaktuar nga COVID-19.
 2. Ministria e Brendshme, nëpërmjet Policisë së Shtetit, ka këto detyra:
-a) të shoqërojë personat e riatdhesuar në strukturat akomoduese në momentin e mbëritjes ose sa herë është e nevojshme;
-b) merr masa për të siguruar moslargimin e personave të riatdhesuar nga strukturat akomoduese sipas procedurave dhe afateve të përcaktuara ne aktet ligjore/nënligjore në kuadër të epidemisë së shkaktuar nga COVID-19 dhe bashkëpunon me Agjencinë Kombetare të Bregdetit për dhënien e informacionit.
-3. Në funksion të mirëorganizimit të procesit, secila ministri nxjerr udhëzime për menyrën e organizimit dhe zbatimit të këtyre parashikimeve
+a) të shoqërojë personat e riatdhesuar në strukturat akomoduese në momentin e mbërritjes ose sa herë është e nevojshme;
+b) merr masa për të siguruar moslargimin e personave të riatdhesuar nga strukturat akomoduese sipas procedurave dhe afateve të përcaktuara ne aktet ligjore/nënligjore në kuadër të epidemisë së shkaktuar nga COVID-19 dhe bashkëpunon me Agjencinë Kombëtare të Bregdetit për dhënien e informacionit.
+3. Në funksion të mirorganizimit të procesit, secila ministri nxjerr udhëzime për mënyrën e organizimit dhe zbatimit të këtyre parashikimeve
 MINISTRIA E TURIZMIT DHE MJEDISIT
 AGJENCIA KOMBËTARE E BREGDETIT
 Nr. ________prot.
