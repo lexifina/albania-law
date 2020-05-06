@@ -1,0 +1,1 @@
+11. Enti Kombëtar i Banesave, brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të vendimit të Këshillit të Ministrave për shpronësimin, t’i kërkojë Agjencisë Shtetërore të Kadastrës që të kryejë regjistrimin e pasurive, pronë private, të shpronësuara dhe të shkëmbyera, sipas legjislacionit në fuqi.

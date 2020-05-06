@@ -1,0 +1,1 @@
+6.Pronarët e pasurive të paluajtshme, pronë private, të pasqyruar në tabelën që i bashkëlidhet këtij vendimi, të kompensohen, për efekt shpronësimi dhe shkëmbimi të pronës, pasi të kenë paraqitur certifikatën e pronësisë origjinale ose duplikat, kartelën e pasurisë të rifreskuar si dhe hartën treguese të regjistrimit, pranë Entit Kombëtar të Banesave.

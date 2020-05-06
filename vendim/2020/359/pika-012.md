@@ -1,0 +1,1 @@
+12.Drejtoria e Administrimit dhe Mbrojtjes së Tokës, pranë këshillit të Qarkut Lezhë, brenda 30 (tridhjetë) ditëve nga data e hyrjes në fuqi të vendimit, të pasqyrojë në regjistrat kadastralë ndryshimin e kategorisë së resursit të pasurive të paluajtshme, nga kategoria e resursit “tokë bujqësore” në kategorinë “tokë urbane” “truall”.

@@ -1,0 +1,1 @@
+15. Agjencia Shtetërore e Kadastrës të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit mbi hartat kadastrale dhe kalimi i pronësisë në favor të Entit Kombëtar të Banesave, për pasuritë e shpronësuara.

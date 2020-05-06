@@ -1,0 +1,1 @@
+4.Vlera e përgjithshme e shpronësimit, prej 43 009 339 (dyzet e tre milionë e nëntë mijë e treqind e tridhjetë e nëntë) lekësh, do të përballohet nga zëri “Fondi për rindëritimin”, i miratuar për vitin 2020.

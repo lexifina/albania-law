@@ -1,0 +1,1 @@
+7.Për pasuritë që kanë rezultuar në proces legalizimi në momentin e shpronësimit, pronarët, të kompensohen, për efekt shpronësimi dhe shkëmbimi të pronës, pasi të kenë paraqitur vërtetimin e statusit që konfirmon se pasuria ka qenë në proces legalizimi, të lëshuar nga Agjencia Shtetërore e Kadastrës.
