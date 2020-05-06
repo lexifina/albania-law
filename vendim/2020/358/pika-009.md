@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Lushnjë, të pezullojë të gjitha transaksionet me pasuritë e shpronësuara deri në momentin kur do të realizohet procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit, si dhe kalimi i pronësisë, në favor të Bashkisë Lushnjë, për pasuritë e shpronësuara.

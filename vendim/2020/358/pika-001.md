@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarit të pasurive të paluajtshme, pronë private, që preket nga realizimi i objektit “Rikostruksioni i shkollës “Thanas Bozo”, ndërtimi i palestrës dhe terrenet sportive Kolonjë”, Bashkia Lushnjë.
