@@ -1,0 +1,5 @@
+# Neni 51
+Afatet detyruese
+1. Kur subjekti i interesuar nuk paraqet dokumentacionin, sipas pikës 2, të nenit 49, të këtij ligji, atij i humbet e drejta për të përfituar kalimin e pronësisë së truallit dhe legalizimin e njësisë ndërtimore. Në këto raste, trualli dhe njësia ndërtimore kalojnë në favor të shtetit, për llogari të fondit fizik të kompensimit të pronave.
+2. Pas legalizimit dhe regjistrimit në favor të shtetit, ASHK-ja njofton subjektin e interesuar apo, sipas rastit, personin e stimuluar për dorëzimin vullnetar të njësisë së ndërtuar, i cili kryhet me procesverbal. Dorëzimi vullnetar i njësisë së ndërtuar kryhet brenda 30 ditëve nga marrja e njoftimit. Në rastin e mosdorëzimit vullnetar brenda afatit të përcaktuar, ASHK nxjerr urdhrin për dorëzim të detyruar, i cili përbën titull ekzekutiv.
+3. Kur njësia ndërtimore është e regjistruar në favor të subjektit të interesuar dhe ky i fundit nuk shlyen vlerën e truallit brenda 1 viti, njoftimi i shlyerjes së pagesës kthehet në titull ekzekutiv.

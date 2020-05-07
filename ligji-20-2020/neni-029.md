@@ -1,0 +1,10 @@
+# Neni 29
+Trajtimi i veçantë
+1. Objektet pa leje, sipërfaqja e bazës së të cilave shtrihet plotësisht mbi tokë private të të tretëve, ku dokumentet e miratuara të planifikimit të territorit parashikojnë ndërtime mbi 6 kate nga niveli zero, nuk legalizohen.
+2. “Shtesat pa leje në ndërtime të regjistruara” dhe “objektet me shkelje të lejes së ndërtimit” nuk i nënshtrohen këtij neni. Ato legalizohen sipas dispozitave të tjera të këtij seksioni.
+3. Për objektet pa leje me funksion banimi, sipas kushteve të pikës 1, të këtij neni, veprohet si më poshtë:
+a) procedurat administrative pezullohen deri në zhvillimin e tokës, sipas dokumenteve të miratuara të planifikimit të territorit;
+b) ndërmjet poseduesit të objektit pa leje dhe pronarit të tokës ose investitorit duhet të realizohet marrëveshje noteriale, ku të përcaktohet vendosja në dispozicion të poseduesit e një sipërfaqeje ndërtimore në çastin e përfundimit të objektit që do të zhvillohet. Marrëveshja noteriale dorëzohet pranë autoritetit të zhvillimit të territorit dhe ASHK-së. Në rastin kur marrëveshja e mësipërme nuk arrihet, pronari i truallit ose investitori dorëzon pranë autoritetit të zhvillimit të territorit dhe ASHK-së deklaratën noteriale, ku përcaktohet detyrimi për t’i kaluar në pronësi sipërfaqe banimi familjes që posedon ndërtimin pa leje. Në asnjë rast, sipërfaqja që do të vihet në dispozicion nuk mund të jetë më e vogël se sipërfaqja e nevojshme për strehimin e familjeve të pastreha, sipas normave ligjore në fuqi;
+c) objekti pa leje përjashtohet nga legalizimi pas miratimit të lejes së ndërtimit për objektin e ri dhe plotësimit të kushteve të shkronjës “b”, të kësaj pike. Deri në këtë moment, ndërtimi pa leje shfrytëzohet nga subjekti posedues.
+4. Për objektet pa leje me funksion social-ekonomik, poseduesit nuk përfitojnë nga trajtimi, sipas pikës 3 të këtij neni. Ata trajtohen sipas nenit 33 të këtij ligji.
+5. Përjashtimisht, poseduesi i objektit pa leje që gjendet në kushtet e pikës 1, të këtij neni, mund të përfitojë legalizimin nëse pronari i truallit shpreh miratimin nëpërmjet një akti noterial.

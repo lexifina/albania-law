@@ -1,0 +1,4 @@
+# Neni 58
+Fondi i tokës
+1. Pasuritë e paluajtshme shtetërore, që janë bërë pjesë e fondit të tokës, sipas legjislacionit për trajtimin e pronës dhe përfundimin e procesit të kompensimit të pronave, i nënshtrohen përditësimit, me qëllim evidentimin e gjendjes juridike dhe fizike, reale të tyre. Përditësimi kryhet nga ASHK-ja e Agjencia e Trajtimit të Pronës dhe udhëhiqet nga të njëjtat parime, me ato të parashikuara në nenin 36 të këtij ligji.
+2. Në përfundim të përditësimit, nëse evidentohen ndryshime të gjendjes faktike të pronës në raport me fondin e tokës, të miratuar me vendim të Këshillit të Ministrave, ASHK-ja i paraqet Kryeministrit propozimet për ndryshimin e vendimit përkatës, sipas gjendjes së përditësuar. Agjencia e Trajtimit të Pronës ka të drejtë të kërkojë plotësimin e fondit të tokës me pasuri të tjera shtetërore, të lira.

@@ -1,0 +1,6 @@
+# Neni 31
+Ndërtimet e ngritura nga personat juridikë në kushtet e prishjes së shoqërisë
+1. Për ndërtimet pa leje, që kategorizohen si objekte me shkelje të lejes së ndërtimit, kur subjektet ndërtuese/investitore janë në kushtet e prishjes së shoqërisë tregtare, falimentit ose pezullimit, sipas parashikimeve të legjislacionit në fuqi për tregtarët dhe shoqëritë tregtare, ose nuk plotësojnë detyrimet që burojnë nga ky ligj, duke braktisur procesin legalizues, miratimi i legalizimit kryhet për poseduesit e ndërtimit që kanë hyrë në marrëdhënie kontraktore me ta.
+2. Detyrimet për pagesat, në zbatim të këtij ligji, dhe detyrimet tatimore, që i ngarkohen subjektit ndërtues, nuk pengojnë legalizimin në favor të poseduesve dhe nuk shuhen, por mblidhen nga organet tatimore, në përputhje me kuadrin ligjor në fuqi.
+3. ASHK-ja u dërgon njësive të vetëqeverisjes vendore listën e subjekteve zhvilluese/investitore, të cilat kanë shkelur kushtet e lejes së ndërtimit apo nuk ndjekin procedurat e legalizimit, me qëllim evidentimin e tyre si subjekte me risk në keqmenaxhimin e territorit.
+4. Procedurat e veçanta të legalizimit në favor të poseduesve, sipas këtij neni, si dhe rregullat për përfundimin e procedurës nga subjektet dhe/ose shoqëritë ndërtuese apo investitore përcaktohen me vendim të Këshilli i Ministrave.

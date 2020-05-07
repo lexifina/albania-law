@@ -1,0 +1,11 @@
+# Neni 34
+Objektet pa titull pronësie dhe oborret në përdorim
+1. Për objektet pa titull pronësie, trojet e tyre funksionale, si dhe oborret në përdorim, ASHK-ja miraton dokumentin e pronësisë në favor të poseduesve.
+2. Nëse poseduesi i pasurisë, që trajtohet sipas këtij neni, ka kryer edhe ndërtime pa leje në të njëjtën pasuri, veprohet si më poshtë:
+a) për objektet pa titull pronësie, ASHK-ja miraton dokumentin e pronësisë, sipas këtij neni, në bazë të gjendjes ndërtimore faktike;
+b) për oborret në përdorim, ASHK-ja evidenton ndërtimet pa leje nga objekti me titull pronësie. Ndërtimet pa leje legalizohen nëse nuk cenojnë kriteret e parashikuara në nenin 18 të këtij ligji.
+3. Për objektet pa titull pronësie dhe trojet e tyre funksionale, si dhe për oborret në përdorim, miratimi i dokumentit të pronësisë për sipërfaqet e truallit deri në 300 m2 bëhet pa pagesë, pavarësisht nëse në këtë sipërfaqe poseduesi ka kryer edhe ndërtime pa leje ose jo.
+4. Kur trualli funksional i objektit pa titull pronësie apo oborri në përdorim rezulton në pronësi private të të tretëve, zbatohen, për analogji, rregullat e parashikuara në nenin 24 të këtij ligji. Përjashtimisht, në këto raste poseduesi duhet të paguajë vlerën e truallit, e cila llogaritet sipas çmimit favorizues dhe me të njëjtat lehtësi pagese, sipas përcaktimeve të nenit 22 të këtij ligji.
+5. Në rastet kur objektet pa titull, trojet e tyre funksionale, ose oborret në përdorim, përpara hyrjes në fuqi të këtij ligji, janë inventarizuar apo transferuar në mënyrë të gabuar si prona shtetërore te njësitë e vetëqeverisjes vendore, listat e pronave shtetërore për pjesët që disponojnë mbi këto pasuri, nuk merren parasysh. Në këto raste, ka përparësi e drejta e poseduesit për të përfituar dokumentin e pronësisë sipas këtij seksioni, në përputhje me parimin e përcaktuar në shkronjën “ç”, të nenit 36, të këtij ligji dhe me nenin 22 pika 5 të këtij ligji.
+6. Rregullat e hollësishme për miratimin e dokumentit të pronësisë për këto pasuri përcaktohen me vendim të Këshillit të Ministrave.
+7. Nëse në truallin funksional të objektit pa titull pronësie apo në oborrin në përdorim gjenden ndërtime pa leje të të tretëve, që nuk i përkasin poseduesit të objektit pa titull pronësie apo të oborrit në përdorim, ato u nënshtrohen kritereve dhe procedurave, sipas seksionit 1 të këtij kreu.
