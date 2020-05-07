@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 1, datë 31.1.2020, i Këshillit të Ministrave, “Për masat parandaluese në kuadër të forcimit të luftës kundër terrorizmit, krimit të organizuar, krimeve të rënda dhe konsolidimit të rendit e sigurisë publike”.
