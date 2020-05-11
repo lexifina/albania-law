@@ -1,0 +1,1 @@
+6. Institucionet jopublike të arsimit të lartë që i organizojnë studimet jo sipas modelit shqiptar, duhet të përshijnë në suplementin e diplomës edhe informacionin mbi ekuivalentimin e rezultateve të arritura në programin përkatës të studimit me sistemin kombëtar të vlerësimit.

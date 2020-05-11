@@ -1,0 +1,1 @@
+5. Informacioni për sistemin kombëtar të arsimit të lartë, duhet të pasqyrojë organizimin dhe funksionimin e tij në momentin që lëshohet suplementi i diplomës. Ai duhet të jetë i njëjtë për të gjitha Institucionet e Arsimit të Lartë të vendit.

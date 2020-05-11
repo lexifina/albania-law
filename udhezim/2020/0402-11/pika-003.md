@@ -1,0 +1,1 @@
+3. Përmbajtja dhe forma e suplementit të diplomës të çdo institucioni të arsimit të lartë, përcaktohen në statutin e tyre dhe miratohen nga Senati Akademik përkatës, hartuar sipas Modelit Kombëtar të Suplementit të Diplomës, bashkëlidhur dhe pjesë përbërëse e këtij udhëzimi si aneksi 1.

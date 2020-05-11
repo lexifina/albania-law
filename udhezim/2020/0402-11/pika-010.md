@@ -1,0 +1,1 @@
+10. Suplementi i diplomës, i lëshuar njëkohësisht së bashku me diplomën, është pa pagesë për të gjithë të diplomuarit. Në rast se mbajtësi i tij e humbet suplementin e diplomës, ai mund të kërkojë rilëshimin e suplementit të diplomës, përkundrejt një tarife të miratuar nga Institucioni i Arsimit të Lartë përkatës.

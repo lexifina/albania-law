@@ -1,0 +1,1 @@
+1. Përcaktimin e përmbajtjes dhe të formës së suplementit të diplomës, si dokument shoqërues, i pandarë dhe që lëshohet së bashku me diplomën nga ana e institucionit të arsimit të lartë, në përfundim të programeve të studimit të ciklit të parë, të ciklit të dytë, si edhe ato “Master ekzekutiv” të ciklit të tretë.

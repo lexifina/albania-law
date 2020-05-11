@@ -1,0 +1,1 @@
+2. Suplementi i diplomës hartohet në përputhje me kërkesat e Hapësirës Europiane të Arsimit të Lartë. Ai përshkruan, në veçanti, natyrën, nivelin, përmbajtjen dhe rezultatet e studimeve, që janë kryer nga mbajtësi i diplomës, si dhe fushën e punësimit.

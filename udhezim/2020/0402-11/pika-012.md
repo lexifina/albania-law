@@ -1,0 +1,1 @@
+12. Institucioni i Arsimit të Lartë duhet të përcaktojë në aktet e brendshme të ushtrimit të veprimtarisë së saj, procedurat për përgatitjen, certifikimin, administrimin dhe lëshimin e suplementit të diplomës, në zbatim të legjislacionit në fuqi për arsimin e lartë.
