@@ -1,0 +1,1 @@
+1. Hapjen e klinikave/kabineteve dentare, në të gjithë vendin, duke filluar nga data 11 maj 2020 dhe ofrimin e shërbimeve brenda fashës orare 08:00-17:30, duke respektuar protokollet e sigurisë, të miratuara nga Instituti i Shëndetit Publik.
