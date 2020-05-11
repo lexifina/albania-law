@@ -1,1 +1,2 @@
-6. Lejohet lëvizja e mjeteve private, pa autorizim, vetëm brenda qarkut ose bashkive përkatëse nga ora 09:30 deri 17:30, vetëm me një pasagjer në automjet, i cili duhet të ulet në pjesën e pasme të automjetit, i pozicionuar diagonal me drejtuesin e mjetit, sipas protokolleve të miratuara.
+6. Lejohet lëvizja e mjeteve private, pa autorizim, vetëm brenda qarku ose bashkisë së zonave të gjelbërta, nga ora 09:30 deri në orën 21:00, vetëm me pasagjer anëtarët e familjes.
+6/1 Aktivitetet e lejuara sipas përcaktimeve të bëra në urdhrin nr. 193, datë 20.3.2020 “Për mbyll-jen apo kufizimin e lëvizjeve në Republikën e Shqipërisë”, të ndryshuar, për zonat e gjelbërta do të ushtrojnë veprimtarinë e tyre deri në orën 21:00.
