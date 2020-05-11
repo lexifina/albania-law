@@ -1,0 +1,1 @@
+1. Caktimin e Ministrisë së Bujqësisë dhe Zhvillimit Rural si autoritet kontraktor për realizimin e procedurës së prokurimit publik me objekt “Mbrojtjen e gështenjës nga paraziti grerëza Galeformuese (Dryocosmus Kuriphilus Hymenoptera: Cynipidae)”.
