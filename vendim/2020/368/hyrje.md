@@ -1,0 +1,5 @@
+VENDIM
+Nr. 368, datë 6.5.2020
+PËR SHEMBJEN E TRE OBJEKTEVE TË DHËNA ME QIRA ME KONTRATËN E QIRASË NR.2604 REP., NR. 727 KOL., DATË 14.10.2019, ME TARIFËN 1/EURO KONTRATA, NDRYSHUAR ME ANEKSKONTRATËN NR. 479 REP., NR. 189 KOL., DATË 28.2.2020, TË LIDHUR NDËRMJET MINISTRISË SË FINANCAVE DHE EKONOMISË, SI QIRADHËNËS, DHE SHOQËRISË “MTSC”, SH.P.K., SI QIRAMARRËS, NË ADMINISTRIM TË NDËRMARRJES INDUSTRIALE NR.1, TIRANË
+Në mbështetje të nenit 100 të Kushtetutës dhe të aktit normativ me fuqinë e ligjit nr.4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros së këtyre ndërmarrjeve”, miratuar me ligjin nr. 9967, datë 24.7.2008, të ndryshuar, dhe të pikës 7, kreut VIII, të vendimit nr.54, datë 5.2.2014, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurës dhe mënyrës së dhënies me qira, enfiteozë apo kontratave të tjera të pasurisë shtetërore”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
