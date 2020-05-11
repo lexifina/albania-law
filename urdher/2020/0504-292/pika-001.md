@@ -1,0 +1,1 @@
+1. Të gjithë shtetasit shqiptar që riatdhesohen në Republikën e Shqipërisë gjatë periudhës së epidemisë së shkaktuar nga COVID-19 dhe janë me banim në një nga “zonat e kuqe”, mund të vetëkarantinohen në ambientet e shtëpisë për një periudhë 14-ditore.
