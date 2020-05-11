@@ -1,0 +1,1 @@
+2. Shpërblimin e përfiton personeli që shërben në institucionet e përcaktuara në pikën 1, të këtij vendimi, dhe që është caktuar nga drejtuesi i institucionit për të punuar përtej kushteve normale të punës, me qëllim parandalimin e infektimit nga COVID-19 të përfituesve të shërbimeve të përkujdesjes shoqërore rezidenciale publike, sipas një grafiku të dakordësuar ndërmjet tyre.
