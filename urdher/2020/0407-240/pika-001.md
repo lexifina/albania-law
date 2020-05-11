@@ -1,0 +1,1 @@
+1. Shtetasit shqiptarë, të cilët paraqiten në pikat e kalimit kufitar tokësor, në shkelje të parimit bazë të mbrojtjes së shëndetit publik nga COVID-19, që nuk janë rezident në vende të tjera, të vetëkarantinohen për një periudhë 14-ditore, nën masa të rrepta sigurie, me shpenzimet e tyre, në struktura akomoduese pranë pikave kufitare, të përcaktuara nga Ministria e Brendshme.
