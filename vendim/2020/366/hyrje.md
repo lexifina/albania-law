@@ -1,0 +1,5 @@
+VENDIM
+Nr.366, datë 6.5.2020
+PËR SHEMBJEN E GJASHTË OBJEKTEVE TË DHËNA ME QIRA ME KONTRATËN E QIRASË NR.1937 REP., NR.1388 KOL, DATË 15.8.2019, ME TARIFËN 1/EURO KONTRATA, TË LIDHUR NDËRMJET MINISTRISË SË FINANCAVE DHE EKONOMISË, SI QIRADHËNËS, DHE SHOQËRISË “BLU IMPERIAL”, SH.P.K., SI QIRAMARRËS, NË ADMINISTRIM TË MINISTRISË SË MBROJTJES
+Në mbështetje të nenit 100 të Kushtetutës, të aktit normativ me fuqinë e ligjit nr.4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore të ndërmarrjeve apo objekteve të veçanta, mjeteve kryesore dhe mjeteve të xhiros së këtyre ndërmarrjeve”, miratuar me ligjin nr.9967, datë 24.7.2008, të ndryshuar, dhe në vijim të pikës 7, kreut VIII, të vendimit nr.54, datë 5.2.2014, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurës dhe mënyrës së dhënies me qira, enfiteozë apo kontratave të tjera të pasurisë shtetërore”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë dhe të ministrit të Mbrojtjes, Këshilli i Ministrave
+VENDOSI:
