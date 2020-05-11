@@ -1,1 +1,3 @@
-2. Përdorimi i fondit, miratuar në buxhetin e vitit 2020, do të jetë 795 080 370 (shtatëqind e nëntëdhjetë e pesë milionë e tetëdhjetë mijë e treqind e shtatëdhjetë) lekë pa TVSH.
+2. Fondi i përcaktuar në pikën 1, të këtij vendimi, t’u kalojë njësive zbatuese, sipas detajimit të mëposhtëm:
+a) Fondit Shqiptar të Zhvillimit në masën 3 975 401 851 (tre miliardë e nëntëqind e shtatëdhjetë e pesë milionë e katërqind e një mijë e tetëqind e pesëdhjetë e një) lekë pa TVSH, për financimin e ndërtimit dhe të rikonstruksionit të infrastrukturës publike në zonat e reja të shpallura për zhvillim, në bashkitë Durrës, Kavajë, Krujë, Kurbin, Lezhë, Shijak e Vorë.
+b) Bashkisë Tiranë në masën 8 409 984 432 (tetë miliardë e katërqind e nëntë milionë e nëntëqind e tetëdhjetë e katër mijë e katërqind e tridhjetë e dy) lekë pa TVSH, për financimin e ndërtimit dhe të rikonstruksionit të infrastrukturës publike në zonat e reja të shpallura për zhvillim, në Bashkinë Tiranë.
