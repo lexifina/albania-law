@@ -1,0 +1,1 @@
+1. Duke filluar nga data 11.5.2020 të gjithë shtetasit shqiptar që riatdhesohen në Republikën e Shqipërisë gjatë periudhës së epidemisë së shkaktuar nga COVID-19, do të vetëkarantinohen në banesë për një periudhe 14 ditore.
