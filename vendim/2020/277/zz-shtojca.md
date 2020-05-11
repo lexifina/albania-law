@@ -30,6 +30,7 @@ Neni 2
 (Garancia)
 1. MFE merr përsipër të garantojë Huadhënësin deri në shumën [xxxxxxx] Lekë. Kjo shumë përfaqëson shumën maksimale të pagesave që do të kryhen nga MFE për të shlyer detyrimet e papaguara ndaj Huadhënësit që burojnë nga Huatë që do t’i nështrohen kësaj skeme garancie.
 2. MFE merr përsipër të garantojë deri në shumën e cituar në pikën 1 të këtij neni, 100% principalin e Huave, të cilat Huadhënësi do t’u lëvrojë Huamarrësve sipas kushteve që pasojnë në këtë Marrëveshje.
+2/1. MFE krahas garantimit të principalit sipas pikës 2 të këtij neni, merr përsipër të rimbursojë interesat e Huave që do të trajtohen nën këtë Marrëveshje Garancie në përputhje me nenin 7/1 të kësaj Marrëveshjeje.
 3. MFE nuk merr përsipër në asnjë rast garantimin e interesave ose penaliteteve që mund të burojnë nga Huatë që Huadhënësi do t’u lëvrojë Huamarrësve.
 4. Shuma maksimale e akumuluar e disbursimeve të Huave nuk duhet të tejkalojë shumën e cituar në pikën 1 të këtij neni. Asnjë disbursim i ri i ndonjë Huaje nuk do të garantohet nga kjo Marrëveshje, me përjashtim të rastit kur shuma totale e principalit të të gjitha disbursimeve të mëparshme të Huave, sëbashku me disbursimin e ri nuk tejkalon shumën maksimale të akumuluar të disbursimeve.
 5. Në rastin kur Huadhënësi e ka ezauruar të gjithë shumën e garancisë në dispozicion të tij sipas përcaktimit në pikën 1 të këtij neni, Huadhënësi duhet të njoftoj me shkrim MFE-në brenda një afati prej 5 ditë pune.
@@ -37,7 +38,8 @@ Neni 2
 Neni 3
 (Kriteret e kualifikimit të Huamarrësve)
 1. Huadhënësi do të japë Hua të garantuar sipas kësaj Marrëveshje, vetëm Huamarrësve, të cilët plotësojnë kriteret si më poshtë:
-a) Huamarrësi duhet të bëjë pjesë në kategorinë e subjekteve të prekura nga vendimet e qeverisë në kuadër të menaxhimit të situatës së krijuar nga COVID-19, në përputhje me me listën e kategorive të subjekteve bashkëlidhur kësaj Marrëveshje në Aneksin 2.
+a) Huamarrësi duhet të bëjë pjesë në kategorinë e subjekteve të prekura nga vendimet e qeverisë në kuadër të menaxhimit të situatës së krijuar nga COVID-19, në përputhje me me listën e kategorive të subjekteve bashkëlidhur kësaj Marrëveshje në Aneksin 2, sipas tekstit bashkëlidhur kësaj marrëveshjeje.
+a/1. Huamarrësi nuk duhet të këtë kredi me probleme (këto sipas definicionit të rregullores së Bankës së Shqipërisë nr.62, datë 14.9.2011 “Për administrimin e rrezikut të kredisë nga bankat dhe degët e bankave të huaja”, të ndryshuar), në muajin shkurt 2020.
 b) Huamarrësi duhet të ketë aftësi ripaguese për të marrë hua në linjë me kriteret që operon sektori bankar në Republikën e Shqipërisë, e vlerësuar kjo në përputhje me kushtet e aplikuara nga Huadhënësi përpara shpalljes së fatkeqësisë natyrore dhe në diskrecionin e plotë të Huadhënësit.
 c) Qëllimi i përdorimit të fondeve të Huasë do të jetë vetëm për të paguar pagat e punonjësve të Huamarrësit, bazuar në listëpagesat e procesuara pranë Huadhënësit në muajin shkurt.
 d) Huamarrësi duhet të nënshkruaj Marrëveshjen e Mirëkuptimit sipas formës dhe përmbajtjes të parcaktuar në Aneksin 1 të kësaj marrëveshje.
@@ -65,7 +67,8 @@ Huamarrësi është i detyruar t’i paraqesë Huadhënësit detajimin e fondit 
 3. Huaja do të ketë një periudhë Grace (periudhë pa pagesë principali) prej 3 muaj.
 4. Monedha e Huasë do të jetë në monedhën vendase (lekë).
 5. Huadhënësi do të ofrojë Huanë me një normë interesi preferenciale, të barabartë me normën mesatare të interesit të tre ankandeve të fundit të bonove të thesarit 12 mujore plus një marzh prej 0.5%, por në asnjë rast norma e interesit nuk do të jetë më e lartë se 2.85%.
-6. Huadhënësi nuk do të aplikojë kosto administrative mbi Huanë.
+Kjo normë interesi do të fiksohet në momentin e nënshkrmit të Marrëveshjes së Huasë ndërmjet Huadhënësit dhe Huamarrësit dhe do të qëndrojë e pandryshuar deri në përfundimin e afatit të Huasë.
+6. Huadhënësi nuk do të aplikojë tarifa, komisione, penalitete, kamatëvonesa apo çfarëdolloj mase tjetër që mund të krijojë kosto për Huamarrësin dhe MFE, përpos atyre të përcaktuara shprehimisht në këtë Marrëveshje.
 7. Termat dhe kushtet e Huasë do të përcaktohen në Marrëveshjen e Huasë, e cila do të nënshkruhet ndërmjet Huadhënësit dhe Huamarrësit, në përputhje me përmbajtjen e këtij neni.
 8. Asnjë transferim i të drejtave apo detyrimeve të Huadhënësit që burojnë nga kjo Marrëveshje ose nga Marrëveshja e Huasë nuk mund t’i transferohet palëve të treta pa marrë paraprakisht aprovimin me shkrim të MFE-së.
 9. Per çdo ndryshim, rinovim apo ristrukturim të Marrëveshjes së Huasë, që mund të bëhet në marrëveshje ndermjet Huadhënësit dhe Huamarrësit brenda afatit të përcaktuar në pikën 3 të këtij neni, nuk është i nevojshëm miratimi i MFE. Këto ndryshime nuk do të kenë asnjë efekt në të drejtat e Huadhënësit kundrej MFE-së, sipas kushteve të përcaktuara në këtë Marrëveshje. Huadhënësi do të njoftojë me shkrim MFE-në për çdo ndryshim, rinovim apo ristrukturim të Marrëveshjes së Huasë.
@@ -85,6 +88,13 @@ Neni 7
 1. Pas pagesës së garancisë për ndonjë prej Huave, MFE në mirëkuptim me Huadhënësin mund të nënshkuajnë një marrëveshje të vecantë, nëpërmjet së cilës MFE mund të autorizojë Huadhënësin që të vazhdojë të bëjë përpjekje për të rikuperuar detyrimin në pëputhje me procedurat ligjore dhe praktikat e sektorit bankar.
 2. Nëse pas pagesës së garancisë nga MFE për ndonjë prej Huave, Huadhënësi me vullnetin e tij të lirë, ose për çfarëdo lloj arsye tjetër ndodh që të rikuperoj një pjësë ose të gjithë detyrimin e Huasë që paraprakisht është paguar nga garancia, Huadhënësi brenda një afati prej 15 ditë pune duhet të njoftoj me shkrim MFE-në, e cila do të instruktojë Huadhënësin në lidhje me detajet e pagesës. Pagesa nga Huadhënësi do të kryhet jo më vonë se 15 ditë pune nga data e marrjes së instruksioneve me detajet e pagesës nga MFE. Shuma që Huadhënësi do të paguaj në favor të MFE-së, do të jetë e barabartë me shumën e rikuperuar të Huasë, pasi t’i jenë zbritur, interesat, penalitet dhe shpenzimet që Huadhënësi mund të ketë kryer për të mundësuar rikuperimin e fondeve të Huasë. Në asnjë rast, pagesa e kryer nga Hudhënësi për fondet e rikuperuara në favor të MFE-së nuk do të jetë më e lartë se pagesa e garancisë që MFE ka kryer për të njëjtën Hua në favor të Huadhënësit.
 3. Nëse ndodh që pas përfundimit të kësaj Marrëveshje, të ketë ndonjë rast analog, si në pikën 2 të këtij neni, Huadhënësi ka detyrimin të vijojë me pagesën në favor të MFE-së deri në 3 vite pas përfundimit të Marrëveshjes.
+Neni 7/1
+(Rimbursimi i interesave)
+1. MFE do t’i rimbursojë Huadhënësit interesat që burojnë nga Huatë e garantuara nga kjo Marrëveshje Garancie një herë në tre muaj, ku tremujori i parë do të fillojë të përllogaritet nga data e bërjes efektive të kësaj Marrëveshjeje.
+2. Nuk do të gjenerohen dhe nuk do të rimbursohen interesa për më shumë se 30 ditë pa pagesë principali nga data që i ka lindur detyrimi Huamarrësit për të paguar principalin sipas Marrëveshjes së Huasë.
+3. Huadhënësi çdo 90 ditë nga data e nënshkrimit të kësaj marrëveshjeje do të dërgojë pranë MFE kërkesën për rimbursimin e interesave (“Kërkesa për rimbursim”) në formë elektronike dhe të shkruar. Kërkesa për rimbursim duhet të përmbajë informacion të detajuar në lidhje me interesat e gjeneruara dhe mënyrën e përllogaritjes së tyre, për secilën Hua që Huadhënësi ka lëvruar në përputhje me këtë Marrëveshje.
+4. MFE, pasi shqyrton informacionin dhe verifikon përllogaritjet e kërkesës për rimbursim, autorizon transfertën e pagesës ose pagesave për Huadhënësin brenda 15 ditëve pune nga data e marrjes së kërkesës për rimbursim.
+5. Nëse MFE e vlerëson të arsyeshme, përpara autorizimit për kryerjen e pagesës dhe brenda afateve të përcaktuara në pikën 4 të këtij neni, mund të kërkojë informacion shtesë ose qartësime nga Huadhënësi.
 Neni 8
 (Raportimi dhe monitorimi)
 1. Huadhënësi çdo të hënë do të raportojë në formë elektronike pranë MFE-së (ose strukturës që do të autorizoj MFE-në për këtë qëllim) për Huatë e aprovuara prej tij në javën paraardhëse, duke përcjellë shumën e disbursuar dhe skedulin e amortizimit të Huave, si edhe kopje të dokumentave shoqëruese që vërtetojnë Kriteret e Kualifikimit të Huamarrësve.
@@ -106,6 +116,9 @@ Neni 9
 Neni 10
 (Hyrja në fuqi dhe efektiviteti)
 Kjo Marrëveshje Garancie do të hyjë në fuqi, pas nënshkrimit nga palët dhe do të bëhet efektive pas disbursimit të Huasë ndërmjet Huadhënësit dhe Huamarrësit.
+Neni 10/1
+(Vlefshmëria e dispozitave)
+Nëse ndonjëra nga dispozitat e kësaj Marrëveshjeje është apo bëhet e pavlefshme, ose në rast se ka ndonjë boshllëk në ndonjë prej dispozitave të kësaj Marrëveshjeje, kjo nuk do të ndikojë në vlefshmërinë e dispozitave të tjera të kësaj Marrëveshje.
 Neni 11
 (Nënshkrimi)
 Palët kontraktuese nënshkruajnë këtë marrëveshje në 2 kopje në gjuhën shqipe (një kopje për MFE-në dhe një kopje për Huadhënësin), në Tiranë, Shqipëri, në datat e përcaktuara në krye të kësaj marrëveshjeje.
@@ -118,11 +131,8 @@ b) Në rast se Huadhënësi nuk ka bërë asnjë disbursim huaje 60 ditë nga da
 KËSHILLI I MINISTRAVE
 PËRFAQËSUAR NGA
 MINISTRIA E FINANCAVE DHE EKONOMISË
-MINISTËR
-[EMËR MBIEMËR]
-PËR BANKËN XYZ
-ADMINISTRATOR
-[EMËR MBIEMËR]
+MINISTËR PËR BANKËN XYZ
+[EMËR MBIEMËR] ADMINISTRATOR [EMËR MBIEMËR]
 Aneksi 1
 MARRËVESHJE MIRËKUPTIMI
 Bazuar në nenin 38 të ligjit Nr. 9665, datë 18.12.2006, “Për huamarrjen shtetërore, borxhin shtetëror dhe garancitë shtetërore të huasë në Republikën e Shqipërisë”, të ndryshuar:
