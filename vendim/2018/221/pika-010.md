@@ -41,16 +41,17 @@ a) Planifikon, zbaton, ndjek, garanton optimizimin e përdorimit të burimeve nj
 b) Realizon të gjitha proceset e punës, pjesë e ciklit të menaxhimit të integruar të burimeve ujore, si dhe bashkërendon e kontrollon punën e zyrave të administrimit të baseneve ujore.
 c) Realizon projektimin, ekzekutimin, vënien në punë dhe shfrytëzimin e produkteve të kërkuara, si dhe garanton cilësinë, certifikon, lëvron dhe akumulon përfitimet e produktit të realizuar.
 ç) Ndjek zbatimin e proceseve të punës për burimet ujore nga ministritë përkatëse dhe bashkëpunon me to, sipas detyrimeve e kërkesave specifike të kuadrit ligjor.
-d) Ushtron funksionet e sekretarisë teknike të KKU-së, organizon mbledhjet, përgatit materialet dhe formalizon vendimmarrjen e KKU-së. I propozon KKU-së dhënien me koncesion të burimeve ujore. Mbledh dhe administron informacionin e dokumentacionin e nevojshëm për pajisjen me leje/autorizim për përdorimin e ujit, pranon dhe shqyrton aplikimet e paraqitura nga subjektet fizike e juridike, si dhe bën propozimet përkatëse pranë KKU-së.
+d) Ushtron funksionet e sekretarisë teknike të KKU-së, organizon mbledhjet, përgatit materialet dhe formalizon vendimmarrjen e KKU-së. Pranon kërkesat dhe shqyrton dokumentacionin tekniko-ligjor të paraqitur nga subjektet fizike dhe juridike që kërkojnë miratim, në parim, për nisjen e një procedure koncesioni, për leje, për autorizim për përdorim burimi ujor, për veprimtari ndërtimore në brigje, për veprimtari në shtratin e burimit ujor dhe shkarkime të lëngshme, si dhe bën propozimet përkatëse në Këshillin Kombëtar të Ujit ose në Këshillin e Basenit Ujor, sipas kompetencave të përcaktuara në legjislacionin në fuqi për miratimin e veprimtarisë përkatëse.
 dh) Ndjek dhe monitoron zbatimin e kushteve e të kritereve të përcaktuara në lejet/autorizimet e dhëna për përdorimin e ujit, si dhe ndërmerr masat ndaj subjekteve që gjenden në shkelje.
+dh/1. I propozon KKU-së dhe/ose KBU-së rishikimin, pezullimin, shfuqizimin ose anulimin e lejeve, autorizimeve.
 e) Siguron mbledhjen e të ardhurave nga tarifat e përdorimit të ujit dhe pagesat për shpenzimet administrative, nëpërmjet zyrave të administrimit të baseneve ujore apo marrëveshje me të tretë dhe i derdh në buxhetin e shtetit.
 ë) Mbledh, strukturon, përpunon, akseson dhe administron të dhëna sasiore e cilësore mbi burimet ujore dhe i vë ato në dispozicion të institucioneve në përputhje me kuadrin ligjor përkatës.
 f) Promovon dhe sensibilizon mbi rëndësinë e burimeve ujore, nxit pjesëmarrjen e përdoruesve të ujit dhe komunitetit në përdorimin e ekonomizuar të ujit, përmes fushatave ndërgjegjësuese, botimeve, publikimeve, konferencave, seminareve, forumeve apo konsultimeve.
 5. Mbështetur në detyrat e përcaktuara në ligj, Zyra e Administrimit të Baseneve Ujore (ZABU) ka këto detyra administrative dhe kompetenca territoriale:
 a) Në lidhje me Këshillin e Basenit Ujor (KBU):
 i. ushtron funksionet e sekretariatit teknik dhe organizon mbledhjen e KBU-së;
-ii. pranon dhe shqyrton dokumentacionin tekniko-ligjor të paraqitur nga subjektet fizike e juridike që kërkojnë vendimmarrje nga KBU-ja;
-iii. propozon në KBU shfuqizimin ose anulimin e lejeve, autorizimeve, vendimeve sipas kuadrit ligjor;
+ii. Shfuqizuar;
+iii. I propozon KBU-së rishikimin, shfuqizimin ose anulimin e vendimeve, që nuk kanë të bëjnë me dhënien e lejeve dhe të autorizimeve;
 iv. përfaqëson Këshillin e Basenit Ujor në çështjet gjyqësore.
 b) Ndjek zbatimin e vendimeve të KKU-së dhe KBU-së, si dhe përmbushjen e detyrimeve financiare të përdoruesve të burimeve ujore brenda basenit përkatës pavarësisht nga organi që ka miratuar veprimtarinë.
 c) Zbaton të gjitha detyrat dhe përgjegjësitë ligjore të përcaktuara për ZABU-në si dhe nxit e sensibilizon pjesëmarrjen e përdoruesve të ujit.
