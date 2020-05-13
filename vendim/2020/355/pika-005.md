@@ -1,0 +1,1 @@
+5. Drejtoritë vendore të Agjencisë Shtetërore të Kadastrës: Tiranë Veri, Tiranë Jug, Tirana Rurale 1, Kamzë-Vorë, Kavajë, Gjirokastër, Durrës, Lezhë, Vlorë, Sarandë, Korçë, Shkodër, Fier, Elbasan, Berat, Kukës dhe Zonat e Stimuluara, të kryejnë ndryshimet përkatëse për këto pasuri, në regjistrat e pasurive të paluajtshme.
