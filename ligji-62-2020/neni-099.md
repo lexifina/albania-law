@@ -1,0 +1,4 @@
+# Neni 99
+Rekomandimet
+1. Shoqëria komisionere nuk duhet t’i japë rekomandime në lidhje me asnjë instrument financiar një personi nga i cili mund të pritet në mënyrë të arsyeshme që të mbështetet në këto rekomandime, nëse shoqëria komisionere nuk ka një bazë të arsyeshme për dhënien e rekomandimeve. Në çdo rast, shoqëria komisionere duhet të paralajmërojë personin në fjalë se vlera e instrumenteve financiare mund të luhatet.
+2. Kur shoqëria komisionere dërgon një komunikim në të cilin një person bën një rekomandim, në mënyrë të shprehur ose të nënkuptuar, në lidhje me një instrument financiar, shoqëria sigurohet që komunikimi përmban një deklaratë të përmbledhur të natyrës së çdo interesi që mban personi ose ndonjë person i lidhur me të në instrumentet financiare, ose në blerjen ose shitjen e instrumenteve financiare në datën kur dërgohet komunikimi.

@@ -1,0 +1,10 @@
+# Neni 65
+Përshtatshmëria për klientët joprofesionistë, të cilët nuk marrin këshilla ose rekomandime
+1. Për klientët joprofesionistë, të cilët nuk marrin këshilla ose rekomandime, shoqëria komisionere kërkon informacion për njohurinë dhe eksperiencën e tyre në fushën e investimeve për produktin apo shërbimin e ofruar apo të kërkuar.
+2. Informacioni shërben për të vlerësuar që produkti apo shërbimi i ofruar të jetë i përshtatshëm për klientin. Në rastet kur këto produkte apo shërbime jepen si paketë, vlerësimi merr në konsideratë të gjithë paketën e ofruar, nëse kjo është e përshtatshme.
+3. Në rastet kur shoqëria komisionere vlerëson se produkti apo shërbimi i ofruar nuk është i përshtatshëm për klientin aktual apo të mundshëm, shoqëria komisionere paralajmëron klientin që produkti apo shërbimi nuk është i përshtatshëm për të. Ky paralajmërim dokumentohet në një format të standardizuar dhe kryhet me shkrim ose nëpërmjet një mjeti të qëndrueshëm të komunikimit.
+4. Në rastet kur klientët aktualë apo të mundshëm nuk pranojnë të japin informacionin e kërkuar nga shoqëria për të kryer vlerësimin e përshtatshmërisë së tyre, ose në rastet kur informacioni i ofruar është i pamjaftueshëm, shoqëria komisionere paralajmëron klientët se shoqëria komisionere nuk mund të përcaktojë nëse produkti apo shërbimi i ofruar është i përshtatshëm për ta. Ky dokumentohet në një format të standardizuar dhe kryhet me shkrim ose nëpërmjet një mjeti të qëndrueshëm të komunikimit.
+5. Plotësimi i kërkesave të këtij neni duhet të provohet nga shoqëria komisionere përmes dokumentacionit. Në rastet kur klienti refuzon dhënien e informacionit, shoqëria komisionere duhet të mbajë dokumentacion që provon plotësimin e kësaj kërkese.
+6. Dokumentacioni i testit të përshtatshmërisë duhet të ruhet dhe të vendoset në dispozicion të Autoritetit nëse kërkohet.
+7. Pavarësisht sa më sipër, në çdo rast shoqëria komisionere zbaton urdhrin e klientit.
+8. Kërkesat e përcaktuara në këtë nen zbatohen edhe në rastin e emetimit të titujve për herë të parë nëpërmjet ndërmjetësit financiar ose nga vetë emetuesi.

@@ -1,0 +1,4 @@
+# Neni 111
+Publikimi i raporteve
+1. Shoqëria komisionere publikon pasqyrat financiare vjetore të audituara, ose kur shoqëria komisionere është shoqëri mëmë, pasqyrat vjetore financiare të konsoliduara të audituara për të gjithë grupin, sipas mënyrës së parashikuar në rregullat për kontabilitetin e shoqërive tregtare dhe në zbatim të standardeve të raportimit financiar.
+2. Shoqëria komisionere me seli qendrore jashtë Republikës së Shqipërisë, e cila ka themeluar një degë në Republikën e Shqipërisë, publikon në gjuhën shqipe, në faqen e internetit të degës, pasqyrat financiare vjetore të përgatitura dhe të audituara në përputhje me rregullat e vendit të origjinës të shoqërisë mëmë, si edhe raportin vjetor, përfshirë raportin e audituesit, jo më vonë se 5 ditë pas përfundimit të afatit për publikimin e tyre në vendin e origjinës së shoqërisë mëmë.

@@ -1,0 +1,3 @@
+# Neni 341
+Shpërblimi i punës së likuiduesit
+Punonjësit profesionistë, përfshirë konsulentët, juristët, kontabilistët dhe këshilltarët, që veprojnë me kontratë, të caktuar dhe të emëruar nga likuiduesi për ta asistuar në përputhje me procedurat në zbatim të kësaj pjese dhe në varësi të kërkesës dhe kushteve të shërbimit, nuk paguhen më shumë se punonjësit e shoqërisë komisionere ose institucionit të tregut për të njëjtat shërbime, me përjashtim kur Autoriteti ka autorizuar pagesën e shumave më të mëdha. Autoriteti e jep këtë autorizim kur konstaton se pagesa e shumave më të larta është më se e domosdoshme për rekrutimin dhe mbajtjen e personelit të nevojshëm.

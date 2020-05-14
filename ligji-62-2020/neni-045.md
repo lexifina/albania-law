@@ -1,0 +1,9 @@
+# Neni 45
+Pjesëmarrja influencuese dhe ndikimi i konsiderueshëm mbi shoqërinë komisionere
+1. Kur një person kërkon të marrë në zotërim ose ka marrë në zotërim pjesëmarrje influencuese të aksioneve të një personi të licencuar ose të regjistruar nëpërmjet së cilës mund të ushtrojë ndikim të konsiderueshëm në drejtimin e tij, duhet të njoftojë për këtë Autoritetin, paraprakisht ose kur të marrë dijeni për këtë. Një kontroll i tillë nuk fillon të prodhojë pasoja pa miratimin e Autoritetit.
+2. Autoriteti mund të miratojë rregullore me anë të të cilave të kërkojë që personi, i cili propozon të marrë ose ka marrë një pjesëmarrje të tillë influencuese, t’i japë Autoritetit informacionet dhe dokumentet që Autoriteti i gjykon të nevojshme, me qëllim që Autoriteti të mund të konstatojë nëse:
+a) personi që merr ose propozon të marrë në zotërim pjesëmarrjen influencuese është i aftë dhe i përshtatshëm për këtë qëllim; dhe
+b) ndryshimi i pjesëmarrjes influencuese nuk rrezikon interesat e investitorëve.
+3. Autoriteti merr vendim për miratimin ose refuzimin e ndryshimit të pjesëmarrjes influencuese brenda tre muajve nga data e njoftimit të ndryshimit. Nëse Autoriteti, pas përfundimit të vlerësimit, vendos refuzimin e ndryshimit të pjesës influencuese, jo më vonë se periudha e vlerësimit, informon personin me shkrim dhe jep arsyet për vendimin e refuzimit. Një deklaratë e përshtatshme për arsyet e vendimit mund të bëhet e disponueshme për publikun me kërkesën e personit, por kjo nuk do të pengojë që Autoriteti të bëjë një deklarim të tillë në mungesë të një kërkese nga personi.
+4. Miratimi i Autoritetit mund të jepet pa kushte ose mund të jetë objekt i kushteve apo i kufizimeve që i gjykon të përshtatshme Autoriteti.
+5. Nëse Autoriteti propozon të vendosë kushte për zotërimin e pjesëmarrjes influencuese nga një person, duhet ta njoftojë këtë person në përputhje me procedurën e nenit 46 të këtij ligji.

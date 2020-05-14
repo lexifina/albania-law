@@ -1,0 +1,4 @@
+# Neni 51
+Procedurat organizative dhe të brendshme
+1. Të gjitha shoqëritë komisionere të licencuara, të njohura dhe të regjistruara duhet të ushtrojnë veprimtarinë e tyre nëpërmjet një strukture të përshtatshme administrative dhe llogaridhënieje, e cila përfshin procedura dhe procese të përshtatshme të kontrollit të brendshëm dhe të administrimit të rrezikut, të një madhësie e kapaciteti të përshtatshëm për veprimtarinë dhe që i jep mundësi shoqërisë komisionere të monitorojë rreziqet e përputhshmërinë me këtë ligj dhe me çdo akt nënligjor të miratuar në zbatim të këtij ligji.
+2. Kjo strukturë organizative duhet të përcaktojë qartë përgjegjësitë dhe linjat e raportimit te drejtuesit e lartë. Gjithashtu, kjo strukturë duhet të ketë një sistem efikas të brendshëm për shpërndarjen e informacionit.

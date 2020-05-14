@@ -1,0 +1,6 @@
+# Neni 80
+Procedura e marrjes së urdhrave të klientit
+1. Shoqëria komisionere i pranon urdhrat e klientëve për shitblerjen e instrumenteve financiare në selinë e regjistruar të shoqërisë ose në një degë të përcaktuar për ekzekutimin e urdhrave të klientëve.
+2. Shoqëria komisionere mund të marrë edhe urdhra klienti me shkrim në një degë ku nuk ekzekutohen urdhra të klientëve, ose në selinë e regjistruar, ose degën e një agjenti të lidhur, i cili merr urdhra të klientëve në emër të shoqërisë komisionere, nëse klienti kontakton personalisht këtë degë të shoqërisë komisionere ose degë të agjentit të lidhur ose agjentin e lidhur.
+3. Kur shoqëria komisionere merr urdhra sipas mënyrës së përshkruar në pikën 2 të këtij neni, kushtet e veçanta të punës duhet të parashikojnë afatin kohor brenda të cilit urdhri duhet të transferohet në selinë e regjistruar të shoqërisë ose në degën që ekzekuton urdhrat e pranuara të klientëve. Shoqëria komisionere e informon në mënyrë të veçantë klientin për këtë parashikim në kushtet e veçanta të punës, në momentin e lidhjes së kontratës.
+4. Urdhri konsiderohet se është marrë nga shoqëria komisionere në momentin kur merret nga selia qendrore e shoqërisë komisionere ose nga dega e shoqërisë komisionere, e cila ekzekuton urdhrat e klientit.

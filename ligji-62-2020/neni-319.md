@@ -1,0 +1,6 @@
+# Neni 319
+Kompetenca e Autoritetit për të mbrojtur aktivet e investitorëve
+Autoriteti mund të marrë një ose më shumë prej masave të mëposhtme, kur shoqëria komisionere që mban ose së cilës i janë besuar paratë ose aktivet e klientëve në rrjedhën e veprimtarisë së saj tregtare, bie ndesh me ndonjë dispozitë të këtij ligji, të akteve nënligjore ose të urdhrave të nxjerrë në zbatim të këtij ligji dhe kur Autoriteti çmon se rrezikohen ose ka të ngjarë të rrezikohen interesat e investitorëve, klientëve të shoqërisë komisionere ose të zotëruesve të kuotave të sipërmarrjeve të investimeve kolektive:
+a) mund të urdhërojë shoqërinë komisionere të mos tregtojë më paratë ose aktivet e investitorëve ose klientëve në atë mënyrë që e konsideron të përshtatshme Autoriteti ose të transferojë paratë ose pasuritë e investitorëve, ose klientëve të tillë apo dokumentet ose evidencat elektronike në lidhje me këto para ose pasuri te një person tjetër, i përcaktuar në njoftim nga Autoriteti;
+b) mund t’i ndalojë shoqërisë komisionere kryerjen e transaksioneve, kërkimin e shërbimeve nga të tretë ose t’i kërkojë shoqërisë komisionere të ushtrojë veprimtarinë tregtare në mënyrën që mund të përcaktojë Autoriteti; ose
+c) t’i kërkojë shoqërisë komisionere të mbajë pasuri në territorin e Republikës së Shqipërisë në një vendndodhje që e përcakton Autoriteti.

@@ -1,0 +1,4 @@
+# Neni 169
+Përjashtimi nga detyrimi për informim
+1. Autoriteti mund të përjashtojë operatorin e PSHT-së ose një operator tjetër të një tregu të rregulluar nga detyrimi për të bërë publik informacionin e përmendur në nenin 168 të këtij ligji nëse ndodhet brenda shpërndarjes së ponderuar sipas vëllimit, siç pasqyrohet në librin e urdhrave ose në kuotimet e krijuesve të tregut për këtë aksion, ose kur aksioni nuk tregtohet vazhdimisht, brenda një përqindjeje të një çmimi të përshtatshëm reference të përcaktuar paraprakisht nga operatori i tregut të rregulluar ose i platformës shumëpalëshe të tregtimit ose u nënshtrohet kushteve të ndryshme nga çmimi aktual i tregut të aksioneve (për shembull, transaksion me çmim mesatar të ponderuar me vëllimin).
+2. Urdhri konsiderohet se është i madh në krahasim me madhësinë normale të tregut nëse është i barabartë ose më i madh se madhësia minimale e urdhrit të përcaktuar nga Autoriteti me rregullore.

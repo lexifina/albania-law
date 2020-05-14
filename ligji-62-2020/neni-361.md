@@ -1,0 +1,9 @@
+# Neni 361
+Pretendimet e mbuluara në rast të paaftësisë paguese
+Pretendimet e klientëve të siguruara nga aplikimi i këtij kapitulli do të jenë si më poshtë:
+a) pretendime monetare që një anëtar i Fondit u detyrohet klientëve ose që i përkasin një klienti, të cilat mbahen në emër të klientit për shërbimet e investimeve të dakordësuara me të;
+b) instrumente financiare, të cilat i përkasin klientit të një prej anëtarëve të Fondit dhe që mbahen prej tij në kujdestari për shërbimet e investimeve të dakordësuara me të;
+c) fondet e klientëve të bankave, të mbuluara nga ligji në fuqi “Për sigurimin e depozitave”, për qëllimin e mbrojtjes së depozitave, do të përjashtohen nga aplikimi i këtij kapitulli;
+ç) pretendimet e klientëve të anëtarëve të Fondit, që ngrihen nga transaksione për të cilat është dhënë një dënim penal, që ka të bëjë me pastrimin e parave dhe financimin e terrorizmit, do të përjashtohen nga aplikimi i dispozitave të këtij kapitulli;
+d) në rast dyshimi se pretendimet e klientëve të anëtarëve të Fondit rrjedhin nga një transaksion në lidhje me pastrimin e parave dhe financimin e terrorizmit, pagesa e pretendimit nuk do të kryhet derisa të merret vendimi i formës së prerë nga gjykata për këtë transaksion;
+dh) shuma e pretendimeve të klientit të një anëtari të Fondit do të përllogaritet si shuma totale e pretendimeve të referuara në shkronjat “a” dhe “b” të këtij neni, pavarësisht nëse anëtarët e Fondit i mbajnë ato në një apo disa llogari, pavarësisht nëse kanë nënshkruar një ose më tepër kontrata, pavarësisht se i ofrohen një ose më tepër shërbime investimi, deri në shumën e siguruar të referuar në nenin 362 të këtij ligji. Kjo shumë do të përfshijë interesat nga data e hapjes së procedurave të falimentimit për një anëtar të Fondit, ose nga data e publikimit të vendimit të Autoritetit në lidhje me një nga rastet e referuara në nenin 364 të këtij ligji.

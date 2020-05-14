@@ -1,0 +1,7 @@
+# Neni 178
+Ekzekutimi i urdhrave nga internalizuesit sistematikë për klientët joprofesionistë dhe profesionistë dhe për palët e lejuara
+1. Në lidhje me ekzekutimin e urdhrave të klientëve joprofesionistë, internalizuesi sistematik, në përputhje me parashikimet e këtij ligji për ekzekutimin e urdhrave me kushtet më të favorshme për klientin, i ekzekuton urdhrat që merr nga klientët joprofesionistë në lidhje me instrumentet financiare për të cilat është internalizues sistematik me çmimet e kuotuara në momentin e marrjes së urdhrit.
+2. Në lidhje me ekzekutimin e urdhrave të klientëve profesionistë:
+a) internalizuesi sistematik i ekzekuton urdhrat që merr nga klientët profesionistë për instrumentet financiare, për të cilat është internalizues sistematik, me çmimin e kuotuar në momentin e marrjes së urdhrit;
+b) Përjashtimisht nga pika 1 e këtij neni, internalizuesit sistematik mund të mos i kërkohet të ekzekutojë urdhrat e përmendur në pikën 1 të këtij neni, me një çmim më të mirë në raste të justifikuara;
+c) Internalizuesi sistematik mund të ekzekutojë urdhrat e përmendur në pikën 1 të këtij neni, me çmime të ndryshme nga çmimi i kuotuar pa pasur detyrimin të zbatojë parashikimet e pikës 2 të këtij neni për transaksionet, ku ekzekutimi i disa titujve të ndryshëm është pjesë e të njëjtit transaksion ose për urdhrat që janë objekt i kushteve të tjera nga ai i çmimit aktual të tregut.

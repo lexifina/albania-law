@@ -1,0 +1,3 @@
+# Neni 280
+Kontratat me rëndësi materiale
+Një përmbledhje e çdo kontrate me rëndësi materiale, përveç kontratave të lidhura në rrjedhën e aktivitetit të përditshëm tregtar, në të cilën është palë emetuesi ose ndonjë anëtar i grupit, për dy vjetët e fundit përpara publikimit të dokumentit të regjistrimit. Një përmbledhje e çdo kontrate tjetër (që nuk është kontratë e lidhur në rrjedhën e aktivitetit të përditshëm tregtar) të lidhur nga çdo anëtar i grupit, e cila përmban ndonjë dispozitë në bazë të së cilës ndonjë prej anëtarëve të grupit ka ndonjë detyrim ose të drejtë, që në datën e dokumentit të regjistrimit ka rëndësi materiale për grupin.

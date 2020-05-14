@@ -1,0 +1,6 @@
+# Neni 271
+Aksionarët me pjesëmarrje të lartë
+1. Për aq sa ka dijeni emetuesi, duhet të jepet emri i çdo personi, që nuk është anëtar i organeve administrative, drejtuese ose mbikëqyrëse, i cili, drejtpërdrejt ose tërthorazi, zotëron interes në kapitalin ose të drejtat e votës së emetuesit, interes i cili duhet të njoftohet në bazë të ligjit që rregullon aktivitetin e emetuesit, së bashku me informacionin për vlerën e interesit të secilit prej këtyre personave në datën e dokumentit të regjistrimit. Nëse nuk ka persona të tillë, të deklarohet mungesa e interesit në fjalë.
+2. Duhet të jepet një deklaratë nëse aksionarët me pjesëmarrje të lartë në kapitalin e emetuesit kanë ose jo të drejta të ndryshme vote, sipas rastit.
+3. Për aq sa ka dijeni emetuesi, të deklarohet nëse emetuesi është, drejtpërdrejt ose tërthorazi, në pronësi ose në kontroll të një personi tjetër, të jepet informacion për identitetin e këtyre personave të tjerë, të përshkruhet natyra e kontrollit dhe masat që janë marrë për të siguruar që nuk do të ketë abuzime me këtë kontroll.
+4. Duhet të jepet edhe një përshkrim i çdo marrëveshjeje, për të cilën ka dijeni emetuesi, zbatimi i së cilës mund të sjellë ndryshim në kontrollin e emetuesit në një datë të ardhshme.

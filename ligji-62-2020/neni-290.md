@@ -1,0 +1,6 @@
+# Neni 290
+Kushtet që duhet të përmbushin emetuesit e titujve
+1. Statusi ligjor i emetuesit duhet të jetë në përputhje me rregullat e vendit në të cilin ka selinë e regjistruar, veçanërisht në lidhje me themelimin dhe ushtrimin e veprimtarisë.
+2. Kapitalizimi i parashikuar i tregut të aksioneve, për të cilat depozitohet kërkesë për pranim në listimin zyrtar, duhet të jetë në përputhje me rregullat e bursës/operatorit të tregut për kapitalin aksionar dhe kushtet e veçanta që mund të kufizojnë pronësinë.
+3. Emetuesi duhet të ketë publikuar ose depozituar raportet vjetore financiare në përputhje me legjislacionin e vendit ku ka selinë e regjistruar për tri vjetët e fundit financiare përpara depozitimit të kërkesës për pranim për tregtim në tregun e rregulluar.
+4. Përjashtimisht, bursa/operatori i tregut mund ta miratojë kërkesën për pranimin në tregtim të aksioneve të emetuesve, që nuk përmbushin kushtet e këtij neni, nëse bursa/operatori i tregut mund të provojë se investitorët i kanë të dhënat e nevojshme për të vlerësuar emetuesin dhe aksionet për të cilat kërkohet pranimi për tregtim në tregun zyrtar dhe me kusht që tregtimi të jetë në interes të emetuesit ose në interes të investitorit.

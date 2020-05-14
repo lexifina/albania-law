@@ -1,0 +1,3 @@
+# Neni 264
+Kërkim-zhvillimi, patentat, licencat dhe mjedisi rregullator
+Një përshkrim i mjedisit rregullator në të cilin ushtron veprimtari emetuesi dhe që mund të ketë ndikim në veprimtarinë e tij, së bashku me informacionin për çdo politikë qeveritare, ekonomike, fiskale, monetare ose politike ose faktorë, që kanë ndikuar në mënyrë thelbësore ose mund të ndikojnë në mënyrë thelbësore, drejtpërdrejt ose tërthorazi, në aktivitetin tregtar të emetuesi. Kur kanë rëndësi thelbësore, të jepet një përshkrim i politikave të kërkim-zhvillimit të emetuesit për çdo vit financiar për periudhën e mbuluar nga të dhënat historike financiare, përfshirë shumën e shpenzuar për veprimtari kërkim-zhvillimi të mbështetura nga emetuesi.

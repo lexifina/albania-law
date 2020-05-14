@@ -1,0 +1,9 @@
+# Neni 176
+Volumet e kuotimeve
+1. Internalizuesi sistematik mund të përcaktojë volumin ose volumet me të cilat do të kuotojë. Për një instrument financiar të veçantë, secili kuotim duhet të përfshijë një çmim të panegociueshëm kërkese dhe/ose oferte ose çmime për madhësi, të cilat mund të jenë deri në volumin standard të tregut për klasën e aksioneve së cilës i përket instrumenti financiar. Çmimi ose çmimet pasqyrojnë edhe kushtet mbizotëruese të tregut për atë instrument financiar.
+2. Instrumentet financiare grupohen në klasa në bazë të vlerës mesatare aritmetike të urdhrave të ekzekutuar në treg për atë instrument financiar. Volumi standard i tregut për secilin instrument financiar është volumi që përfaqëson vlerën mesatare aritmetike të urdhrave të ekzekutuara në treg për instrumentet financiare të përfshira në secilën klasë të instrumentit financiar.
+3. Volumi caktohet në një nivel të përshtatshëm për të siguruar që tregtohet një volum i tillë, që të ndikohet në mënyrë thelbësore në caktimin e çmimeve, duke përjashtuar në të njëjtën kohë tregtimin e një volumi aq të vogël sa që nuk do të justifikonte detyrimin për të përmbushur kërkesat e zbatueshme për internalizuesit sistematikë.
+4. Në lidhje me kriteret konkrete, shpeshtësia dhe rregullsia vlerësohen për numrin e tregtimeve me instrumente financiare të kryera nga shoqëria komisionere për llogari të vet, gjatë ekzekutimit të urdhrave të klientëve.
+5. Autoriteti ka kompetencën:
+a) të përcaktojë për secilin instrument financiar, të paktën një herë në vit, në bazë të vlerës mesatare aritmetike të urdhrave të ekzekutuar në treg për atë instrument financiar, klasën e instrumenteve financiare të cilës i përket;
+b) të krijojë dhe të publikojë një listë të të gjitha instrumenteve financiare likuide për të cilat është autoriteti kompetent.

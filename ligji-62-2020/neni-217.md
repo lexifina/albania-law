@@ -1,0 +1,4 @@
+# Neni 217
+Shlyerja
+1. Çdo pjesëmarrës i një sistemi të shlyerjes së titujve, i cili bën shlyerje në këtë sistem për llogari të vet ose për llogari të transaksioneve me tituj të transferueshëm të një personi të tretë, instrumente të tregut të parasë ose kuota të sipërmarrjeve të investimeve kolektive, duhet t’i shlyejë këto transaksione në datën e synuar të shlyerjes.
+2. Në lidhje me transaksionet me tituj të transferueshëm, të përmendura në pikën 1 të këtij neni, të cilat ekzekutohen në platforma tregtimi, data e synuar e shlyerjes nuk mund të jetë më vonë se dita e dytë e punës pas kryerjes së tregtimit. Kjo kërkesë nuk zbatohet për transaksionet që negociohen privatisht, por ekzekutohen në një platformë tregtimi, për transaksionet që ekzekutohen në mënyrë dypalëshe, por i raportohen një platforme tregtimi, ose për transaksionin e parë të titujve të transferueshëm, të cilët janë objekt regjistrimi fillestar në një regjistër.

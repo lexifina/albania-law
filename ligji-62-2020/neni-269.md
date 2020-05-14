@@ -1,0 +1,7 @@
+# Neni 269
+Praktikat e këshillit të administrimit/këshillit mbikëqyrës
+1. Në lidhje me vitin e mbyllur ushtrimor të emetuesit, nëse nuk është specifikuar ndryshe, në lidhje me anëtarët e këshillit të administrimit/këshillit mbikëqyrës dhe funksionarët kryesorë, jepet informacion për datën e përfundimit të mandatit aktual, nëse ka, dhe periudhën gjatë së cilës personi ka ushtruar këtë aktivitet.
+2. Për kontratat e anëtarëve të këshillit të administrimit/këshillit mbikëqyrës ose funksionarët e lartë me emetuesin ose me ndonjë prej shoqërive të kontrolluara prej emetuesit jepet informacion, ku parashikohen përfitimet nga zgjidhja e marrëdhënies së punës.
+3. Për komitetin e auditimit dhe komitetin e pagave të emetuesit, nëse ka, përfshirë emrat e anëtarëve të komitetit, jepet informacion dhe një përmbledhje e rregullave në bazë të të cilave vepron komiteti.
+4. Duhet të jepet një deklaratë nëse emetuesi është ose jo në përputhshmëri me regjimin e drejtimit të brendshëm të shoqërive tregtare, i cili është i zbatueshëm për emetuesin. Në rast se emetuesi nuk është në përputhshmëri me një regjim të tillë, duhet të përfshihet një deklaratë për këtë, së bashku me një shpjegim përse emetuesi nuk është në përputhshmëri.
+5. Duhet të jepet një deklaratë për ndikimet e reja të mundshme thelbësore në drejtimin e brendshëm të shoqërisë, përfshirë ndryshimet e ardhshme në përbërjen e këshillit dhe të komiteteve (nëse për këtë është marrë tashmë vendim nga këshilli dhe/ose nga asambleja e përgjithshme).

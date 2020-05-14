@@ -1,0 +1,6 @@
+# Neni 180
+Aksesi i investitorëve në kuotimet e internalizuesit sistematik
+1. Internalizuesit sistematik i lejohet të vendosë, në bazë të politikës së tij tregtare dhe në mënyrë objektive dhe jodiskriminuese, se cilëve investitorë do t’u japë mundësi aksesi në kuotimet e tij. Për këtë qëllim ai duhet të ketë standarde të qarta për të rregulluar të drejtën e aksesit në kuotime.
+2. Internalizuesi sistematik mund të refuzojë të lidhë ose mund të ndërpresë marrëdhënie tregtare me investitorë në bazë të konsideratave tregtare, siç është statusi i kredisë së investitorit, rreziku i kundërpalës dhe shlyerja përfundimtare e transaksionit.
+3. Për të kufizuar rrezikun e ekspozimit ndaj transaksioneve të shumëfishta me të njëjtin klient, internalizuesi sistematik mund të kufizojë në mënyrë jodiskriminuese numrin e transaksioneve nga i njëjti klient, të cilat merr përsipër t’i kryejë me kushtet e publikuara.
+4. Internalizuesi sistematik mund gjithashtu të kufizojë në një mënyrë jodiskriminuese numrin total të transaksioneve të kryera me klientë të ndryshëm në të njëjtën kohë, me kusht që kjo të mund të kryhet vetëm në rastet kur numri dhe/ose vëllimi i urdhrave të bëra nga klientët e tejkalon në mënyrë të konsiderueshme normën.

@@ -1,0 +1,4 @@
+# Neni 209
+Shitblerja e instrumenteve financiare
+1. Shtëpia e klerimit mund të udhëzojë ndërmjetësin që të kryejë në emër të shtëpisë së klerimit një shitje ose blerje të instrumenteve financiare nëse një shitje apo blerje e tillë, sipas rastit, kryhet në funksion të shlyerjes së një kontrate tregu ose në kuadër të një procedure mospërmbushjeje ose për t’i dhënë mundësi shtëpisë së klerimit të ekzekutojë një aktiv të përfshirë në një marrëveshje kolaterali financiar ose të vendosur si kolateral financiar. Bursa duhet ta zbatojë këtë udhëzim.
+2. Kur shitja ose blerja e instrumenteve financiare bëhet në emër të shtëpisë së klerimit në përputhje me pikën 1 të këtij neni nga një ndërmjetës, kundër ndërmjetësit nuk mund të ngrejë padi asnjë person dhe ndërmjetësi nuk mban përgjegjësi ndaj askujt.

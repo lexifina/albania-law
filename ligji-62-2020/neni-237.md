@@ -1,0 +1,5 @@
+# Neni 237
+Kërkesat organizative për operatorin e Agjencisë vendase të Vlerësimit të Rrezikut të Kreditit
+1. Personi, i cili administron efektivisht aktivitetin tregtar dhe veprimtaritë e Agjencisë së Vlerësimit të Rrezikut të Kreditit, duhet të përmbushë kërkesat e aftësisë dhe përshtatshmërisë sipas nenit 13 të këtij ligji dhe të ketë reputacion të mirë e përvojë të mjaftueshme për të siguruar administrimin e shëndoshë dhe të kujdesshëm të agjencisë.
+2. Operatori i Agjencisë së Vlerësimit të Rrezikut të Kreditit i njofton Autoritetit identitetin dhe çdo ndryshim të mëpasshëm të personit që në mënyrë efektive drejton aktivitetin tregtar dhe veprimtaritë e Agjencisë së Vlerësimit të Rrezikut të Kreditit përpara se të zbatohen këto ndryshime.
+3. Autoriteti nuk miraton ndryshimet e propozuara kur gjykon se ka arsye për të besuar se personi ose personat e propozuar për të drejtuar aktivitetin tregtar të Agjencisë së Vlerësimit të Rrezikut të Kreditit rrezikon ose rrezikojnë në mënyrë thelbësore administrimin dhe veprimtarinë e shëndoshë e të kujdesshme të agjencisë së vlerësimit të rrezikut të kreditit.

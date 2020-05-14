@@ -1,0 +1,10 @@
+# Neni 84
+Pranimi dhe refuzimi i urdhrave të klientëve
+1. Nëse shoqëria komisionere nuk e pranon urdhrin e klientit, ajo duhet ta njoftojë klientin për refuzimin e urdhrit menjëherë pas marrjes së urdhrit, nëse nuk parashikohet afat tjetër sipas pikave 2 ose 3 të këtij neni. Në njoftim, shoqëria komisionere duhet t’i bëjë të ditura arsyet për refuzimin e urdhrit.
+2. Nëse kushtet e përgjithshme të punës së shoqërisë komisionere parashikojnë që shoqëria nuk ka detyrim të pranojë një urdhër për shitjen e instrumenteve financiare derisa klienti t’i japë mundësi shoqërisë komisionere t’i përdorë instrumentet financiare që janë objekt i urdhrit, afati kohor për njoftimin e parashikuar në pikën 1 të këtij neni fillon:
+a) në rastin kur objekt i urdhrit janë tituj të dematerializuar të regjistruar pranë depozitarit qendror:
+i. nga momenti kur shoqëria komisionere është në gjendje të konstatojë se klienti nuk ka tituj ose ka tituj të pamjaftueshëm për të përmbushur urdhrin në llogarinë e tij pranë shoqërisë komisionere; ose
+ii. nëse klienti i jep shoqërisë komisionere, së bashku me urdhrin e shitjes, urdhrin e duhur për transferimin e titujve nga një llogari tjetër e të njëjtit mbajtës, duke filluar nga momenti kur shoqëria komisionere është në gjendje të konstatojë se ky urdhër nuk mund të ekzekutohet;
+b) në rastin kur objekt i urdhrit janë instrumente të tjera financiare, duke filluar nga momenti kur shoqëria komisionere është në gjendje të konstatojë se klienti nuk i ka dhënë mundësi shoqërisë komisionere të marrë këto instrumente.
+3. Kur shoqëria komisionere i kërkon klientit, në momentin e marrjes së urdhrit të blerjes, të bëjë një pagesë paradhënie për çmimin e blerjes dhe shpenzimet në lidhje me ekzekutimin e urdhrit, afati kohor për njoftimin e përmendur në pikën 1 të këtij neni fillon në momentin kur shoqëria komisionere është në gjendje të konstatojë se paradhënia nuk është paguar brenda afatit të rënë dakord.
+4. Nëse shoqëria komisionere nuk e refuzon ekzekutimin e urdhrit, konsiderohet se e ka pranuar urdhrin me përfundimin e afatit kohor për dhënien e njoftimit të refuzimit të urdhrit.

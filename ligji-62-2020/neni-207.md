@@ -1,0 +1,3 @@
+# Neni 207
+Ekzekutimi i vendimeve gjyqësore, objekt i marrëveshjes së kolateralit financiar
+Kur një pasuri është objekt i një marrëveshjeje kolaterali financiar ose është vendosur si kolateral financiar, shitja e kësaj pasurie nga shtëpia e klerimit nuk mund të pengohet nga asnjë proces tjetër ligjor përmbarimi apo urdhër ekzekutimi dhe kjo pasuri nuk mund të përdoret për asnjë shlyerje tjetër nga personi përgjegjës, që kërkon ekzekutimin e interesave apo garancive të vendosura mbi pasurinë, me përjashtim të rastit kur kjo miratohet nga shtëpia e klerimit, pavarësisht nga parashikimet e ligjeve të tjera.

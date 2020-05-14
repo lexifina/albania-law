@@ -1,0 +1,5 @@
+# Neni 337
+Pasojat juridike të likuidimit të detyruar
+1. Të gjitha kompetencat dhe detyrat e shoqërisë komisionere ose institucionit i kalojnë Autoritetit, i cili emëron likuiduesin për të shndërruar në mjete monetare dhe shpërndarë aktivet e subjektit, për të ruajtur interesat e klientëve të shoqërisë komisionere ose të institucionit dhe për të ruajtur pacenueshmërinë dhe stabilitetin e tregut.
+2. Çelja e procedurës së likuidimit të detyrueshëm ka pasojën juridike të pezullimit të licencës së shoqërisë komisionere ose institucionit, i cili nuk mund të ndërmarrë veprimtari të reja të rregulluara, me përjashtim të atyre që kryhen në funksion të qëllimeve të parashikuara në pikën 1 të këtij neni.
+3. Auditimi, për qëllime të këtij ligji, konsiderohet me interes publik. Çdo angazhim auditimi ligjor konsiderohet si angazhim i një njësie me interes publik dhe i nënshtrohet detyrimeve ligjore sipas përcaktimeve të legjislacionit në fuqi për auditimin ligjor, organizimin e profesionit të audituesit ligjor dhe të kontabilistit të miratuar.

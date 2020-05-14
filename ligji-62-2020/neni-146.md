@@ -1,0 +1,7 @@
+# Neni 146
+Zotëruesit e pjesëmarrjes influencuese në kapitalin e bursës
+1. Parashikimet e neneve 45 dhe 46 të këtij ligji, të cilat zbatohen për shoqëritë komisionere, do të zbatohen përkatësisht edhe për zotëruesit e pjesëmarrjes influencuese në kapitalin e bursës dhe për çdo ndryshim pjesëmarrjeje influencuese në kapitalin e bursës, lidhjet e ngushta, pasojat ligjore të fitimit të pjesëmarrjes influencuese pa miratimin e Autoritetit dhe masat e marra nga Autoriteti në rastet kur vihet në dyshim administrimi me kujdesin e duhur profesional i tregut të rregulluar. Në këtë rast, sa herë në parashikimet e lartpërmendura përdoren fjalët “shoqëri komisionere”, do të konsiderohet se i referohet bursës.
+2. Bursa i njofton Autoritetit të gjithë informacionin për strukturën e pronësisë dhe, në veçanti, për pronarët e pjesëmarrjeve influencuese, si dhe për identitetin e të gjithë personave që mund të ushtrojnë ndikim të konsiderueshëm për administrimin e tregut të rregulluar.
+3. Bursa i njofton Autoritetit të gjithë informacionin për çdo ndryshim të strukturës së pronësisë, i cili mund të shkaktojë një ndryshim të identitetit të personave, që ushtrojnë ndikim të konsiderueshëm mbi administrimin e tregut të rregulluar.
+4. Bursa i publikon të dhënat e parashikuara në pikat 2 dhe 3 të këtij neni.
+5. Të dhënat e parashikuara në pikën 4 të këtij neni, konsiderohen të publikuara nëse bursa i bën publike të paktën në faqen e saj në internet.

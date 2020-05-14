@@ -1,0 +1,6 @@
+# Neni 22
+Kërkesa për regjistrim si agjent i lidhur i një personi të licencuar
+1. Çdo person që është ose propozon të bëhet agjent i lidhur i një personi të licencuar mund të depozitojë kërkesë për regjistrim pranë Autoritetit, për t’u lejuar të ushtrojë veprimtarinë e rregulluar për shoqërinë e licencuar komisionere në një ose më shumë cilësi.
+2. Agjenti i lidhur i shoqërisë komisionere mund të kryejë vetëm atë ose ato veprimtari të rregulluara që lejohet të ushtrojë subjekti i licencuar me të cilin është lidhur. Megjithatë, kombinimi i veprimtarive të rregulluara që mund të ushtrohen varet nga natyra e veprimtarive të rregulluara dhe nëse ka konflikte të brendshme, që lindin nga ushtrimi i njëkohshëm i disa veprimtarive të rregulluara, të cilat do të përcaktohen nga Autoriteti.
+3. Subjekti, që bën kërkesë për regjistrim si agjent i lidhur duhet të dëshmojë se plotëson kriteret e aftësisë dhe të përshtatshmërisë në përputhje me nenin 13 të këtij ligji dhe rregulloret e miratuara nga Autoriteti në zbatim të këtij ligji.
+4. Autoriteti mund të përcaktojë me rregullore procedurën e kërkesës për regjistrim, përmbajtjen e kërkesës për regjistrim të agjentit të lidhur, si edhe dokumentet që duhet të shoqërojnë kërkesën.
