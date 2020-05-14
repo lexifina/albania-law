@@ -6,7 +6,7 @@ PËR TATIMIN MBI VLERËN E SHTUAR NË REPUBLIKËN E SHQIPËRISË
 
 (Ndryshuar me ligjet: nr. 90/2015, datë 23.7.2015, nr. 71/2017, datë 27.4.2017, 
 
-nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3])
+nr. 107/2017,  datë 30.11.2017, nr. 40/2018, datë 9.7.2018, nr. 96/2018, datё 3.12.2018,  ndryshuar me aktin normativ nr. 4, datë 30.11.2019[^fn2], nr. 85/2019, datë 18.12.2019[^fn3], nr. 64/2020, datё 14.5.2020)
 
  (i përditësuar, 2020)
 
@@ -822,7 +822,7 @@ Neni 56
 
 Përjashtime të veçanta në import
 
-(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019)
+(shfuqizuar pika 41 dhe shtuar pika 42 me ligjin nr. 96/2018, datё 3.12.2018, shtuar një paragraf në pikën 28 dhe shtuar pika 43 me aktin normativ nr. 4, datë 30.11.2019, ndryshuar fjalë në pikën 28 me ligjin nr. 85/2019, datë 18.12.2019, shtuar pika 44 me ligjin nr. 64/2020, datё 14.5.2020)
 
 Janë furnizime të përjashtuara nga tatimi mbi vlerën e shtuar në import:
 
@@ -919,6 +919,8 @@ Lista e makinerive dhe pajisjeve që janë direkt të lidhura me investimin, pro
 42. Importimi i lëndëve të para që përdoren për prodhimin e barnave, me përjashtim të lëndëve me përdorim të dyfishtë, të kryera nga mbajtësit e autorizimit të prodhimit, sipas legjislacionit të fushës për barnat. Lista e lëndëve të para për prodhimin e barnave përcaktohet me vendim të Këshillit të Ministrave.
 
 43. Mallrat dhe pajisjet për qëllime ushtarake dhe që përdoren si armë, municion apo bazë materiale luftarake dhe të cilat janë projektuar, zhvilluar, prodhuar, montuar apo modifikuar për përdorim ushtarak, që importohen në emër të Ministrisë së Mbrojtjes.
+
+44. Importimi i jahteve dhe mjeteve të tjera ujore, që përdoren për qëllime turistike, kënaqësie dhe argëtimi, jo më të vjetra se 20 vjet, që përfshihen në kodin 8903 të Nomenklaturës së Kombinuar të Mallrave.
 
 Seksioni 3
 
