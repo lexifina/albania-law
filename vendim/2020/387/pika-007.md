@@ -1,0 +1,1 @@
+7. Kryeministri miraton me urdhër strukturën e posaçme ndërinstitucionale, e cila monitoron, shqyrton dhe raporton periodikisht pranë ministrit të Financave dhe Ekonomisë në lidhje me ecurinë e garancisë shtetërore, si dhe trajton çështje mbi mbarëvajtjen dhe unifikimin e zbatimit të parashikimeve të kësaj marrëveshjeje.
