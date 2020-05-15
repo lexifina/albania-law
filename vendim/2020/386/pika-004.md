@@ -1,0 +1,1 @@
+4. Të gjitha shpenzimet për rrethimin e zonës së lirë, plotësimin e kushteve të punës dhe për sistemet e monitorimit me videokamera e të ndriçimit, për ushtrimin e mbikëqyrjes nga autoritetet doganore, të përcaktuara në legjislacion, do të kryhen me shpenzimet e aplikuesit.
