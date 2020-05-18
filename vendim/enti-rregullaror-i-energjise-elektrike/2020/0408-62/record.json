@@ -1,0 +1,29 @@
+{
+  "qbz_id": 64988,
+  "title": "Mbi licencimin e shoqërisë “ERA HYDRO” sh.p.k.në veprimtarinë e prodhimit të energjisë elektrike nga Hec “Strori” me kapacitet të instaluar 2000 kw",
+  "type": "Vendim",
+  "kind": "Akt bazë",
+  "number": "62",
+  "institution": "Enti Rregullaror i Energjisë Elektrike",
+  "adopted": "2020-04-08",
+  "published": "2020-05-18",
+  "in_force": "2020-05-18",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/106f67fe413c84b0306c3ccdc44348e5475084440fd6a29b738f0983f816c203.docx",
+  "source_sha256": "106f67fe413c84b0306c3ccdc44348e5475084440fd6a29b738f0983f816c203",
+  "official_record": "https://qbz.gov.al/api/v1/acts/64988",
+  "official_eli": "https://qbz.gov.al/eli/vendim/2020/04/08/62",
+  "capture_mode": "amended, not consolidated",
+  "first_law": null,
+  "amending_qbz_ids": [
+    31583,
+    27084
+  ],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
