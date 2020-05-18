@@ -1,1 +1,0 @@
-3. Punonjësit e Zyrës së Regjistrimit të Pasurive të Paluajtshme, gjatë ofrimit të shërbimeve, udhëhiqen nga parimet e përgjithshme, të përcaktuara në Kodin e Procedurës Administrative, si dhe parimet e parashikuara në nenin 4 të ligjit nr. 33/2012 “Për regjistrimin e pasurive të paluajtshme”.
