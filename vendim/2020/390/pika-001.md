@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen prej 150 m2, pjesë e pasurisë me numër 242/2, zona kadastrale 1031, Bashkia Durrës, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, bashkëlidhur këtij vendimi.

@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Durrës, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen prej 150 m2, pjesë e pasurisë me numër 242/2, zona kadastrale 1031, Bashkia Durrës.
