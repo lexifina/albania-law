@@ -1,0 +1,1 @@
+8. Marrëdhëniet e punës se nëpunësve të ASHSH-së rregullohen në bazë të legjislacionit për nëpunësin civil. Marrëdhëniet e punës së drejtorit të Përgjithshëm dhe të punonjësve administrativë rregullohen në bazë të dispozitave të Kodit të Punës.
