@@ -1,0 +1,1 @@
+1. Miratimin e listës së standardeve të harmonizuara shqiptare me karakter referues për sigurinë e lodrave, të vendosura në ambiente publike dhe private, sipas listës që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.

@@ -1,0 +1,1 @@
+2. Standardet e harmonizuara shqiptare, të paraqitura me numrat dhe tituj në listën sipas pikës 1, të këtij vendimi, shërbejnë si dokumente referencë për prezumimin e sigurisë së lodrave të vendosura në ambiente publike dhe private.
