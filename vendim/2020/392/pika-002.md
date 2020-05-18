@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Korçë, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore prej 555 m², sipas lidhjes nr. 1, të pasurisë me numër 108/169, zona kadastrale 2420, fshati Leshnicë, Njësia Administrative Çërravë, Bashkia Pogradec.

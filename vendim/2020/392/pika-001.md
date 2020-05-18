@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen prej 555 m², pjesë e pasurisë me numër 108/169, zona kadastrale 2420, fshati Leshnicë, Njësia Administrative Çërravë, Bashkia Pogradec, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, që i bashkëlidhen këtij vendimi.
