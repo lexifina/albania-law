@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga projekti “Rikonstruksion i rrugës ’Mihal Grameno’, si dhe degëzimit të rrugës ’Budi’ me depon e ujit (faza e dytë)”, në Tiranë.
