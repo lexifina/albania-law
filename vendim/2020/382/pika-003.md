@@ -1,0 +1,1 @@
+3. Sigurimi i jetës nga aksidentet gjatë shërbimit ose për shkak të tij realizohet nëpërmjet lidhjes së kontratës së sigurimit me shoqëritë e sigurimeve, të përzgjedhura sipas rregullave për prokurimin publik.
