@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Shkodër, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, të sipërfaqes prej 565 m2, pjesë e pasurisë me numër 51/56, zona kadastrale 3428, Bashkia Shkodër.

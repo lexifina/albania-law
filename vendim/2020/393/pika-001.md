@@ -1,0 +1,1 @@
+1. Miratimin e ndryshimit të statusit, nga kategoria e resursit “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen prej 565 m2, pjesë e pasurisë me numër 51/56, zona kadastrale 3428, Bashkia Shkodër, sipas certifikatës së pasurisë, hartës treguese dhe lidhjes nr. 1, bashkëlidhur këtij vendimi.
