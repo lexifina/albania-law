@@ -1,0 +1,1 @@
+4. Pas administrimit të kësaj kërkese nga struktura përgjegjëse për rregullimin e profesioneve të lira në Ministrinë e Drejtësisë, i kërkon mendim me shkrim Dhomës Kombëtare të Përmbaruesve Gjyqësorë Privatë, e cila e jep mendimin e saj jo më vonë se 7 (shtatë) ditë nga marrja e kërkesës.
