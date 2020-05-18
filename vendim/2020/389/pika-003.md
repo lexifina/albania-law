@@ -1,0 +1,1 @@
+3. Nga lista e shërbimeve të miratuara me këtë vendim, këshilli drejtues i Agjencisë Shtetërore të Kadastrës përzgjedh ato që mund të ofrohen edhe në mënyrë të përshpejtuar, si dhe tarifat e diferencuara që aplikohen në këtë rast. Vlera e tarifës së diferencuar, në asnjë rast nuk mund të kalojë dyfishin e vlerës së tarifës standarde.

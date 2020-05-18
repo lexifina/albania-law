@@ -1,0 +1,2 @@
+10. Për të gjitha rastet e tjera që nuk parashikohen në pikën 9, të këtij vendimi, institucioni publik, si dhe çdo subjekt tjetër kërkues nuk përfitojnë shërbimet kadastrale pa paguar më parë tarifën përkatëse.
+Përjashtimisht, në përputhje me pikën 3, të nenit 25, të ligjit “Për kadastrën”, për regjistrimin e titujve të pronësisë që ASHK-ja miraton në bazë të legjislacionit për përfundimin e proceseve kalimtare të pronësisë, me akt nëligjor mund të parashikohen rregulla të veçanta për mënyrën e shlyerjes së tarifës së shërbimit nga përfituesit.

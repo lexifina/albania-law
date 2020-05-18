@@ -1,0 +1,1 @@
+1. Ky vendim përcakton shërbimet publike kadastrale që ofron Agjencia Shtetërore e Kadastrës, në zbatim të ligjit nr.111/2018, “Për kadastrën”, mënyrën e aplikimit dhe tarifat standarde për çdo shërbim.

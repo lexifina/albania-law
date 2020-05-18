@@ -1,0 +1,1 @@
+6. Të gjitha subjektet e interesuara, duke përfshirë edhe institucionet publike, e paraqesin kërkesën për shërbime kadastrale në rrugë digjitale-on-line, nëpërmjet platformës e-Albania. Tarifa e shërbimit paguhet në momentin e paraqitjes së kërkesës për shërbim nga subjekti i interesuar ose në momentin e dhënies së pëlqimit për përfitimin e shërbimit nëpërmjet noterit.

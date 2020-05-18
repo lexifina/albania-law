@@ -1,0 +1,1 @@
+16. Vendimi nr.576, datë 29.8.2012, i Këshillit të Ministrave, “Për përcaktimin e listës së shërbimeve që ofron Zyra e Regjistrimit të Pasurive të Paluajtshme”, dhe udhëzimi i përbashkët nr.5341/5, datë 7.9.2012, i ministrit të Drejtësisë dhe ministrit të Financave “Për miratimin e tarifave të shërbimit të zyrave të regjistrimit të pasurive të paluajtshme”, shfuqizohen.

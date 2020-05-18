@@ -1,0 +1,2 @@
+8. Të gjitha institucionet publike detyrohen të parashikojnë në projektbuxhetin e tyre shpenzimet e nevojshme për shlyerjen e tarifave të shërbimeve kadastrale.
+Për shërbimet kadastrale që ofrohen në funksion të shpronësimeve për interes publik, organi qendror, vendor, apo subjekti privat përfitues i shpronësimit, detyrohet të parashikojë shumën e tarifave të shërbimeve kadastrale, si pjesë të shpenzimeve procedurale të tij.
