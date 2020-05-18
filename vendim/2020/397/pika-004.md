@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit prej 959 423 147.57 (nëntëqind e pesëdhjetë e nëntë milionë e katërqind e njëzet e tre mijë e njëqind e dyzet e shtatë pikë pesëdhjetë e shtatë) lekësh, të përballohet nga buxheti i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, për vitet 2020-2021.
