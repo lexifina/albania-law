@@ -1,1 +1,0 @@
-5. Rregullat për kalimin e të ardhurave nga tarifat e shërbimit, nga noteri në llogarinë e Zyrës së Regjistrimit të Pasurive të Paluajtshme, sipas ndarjes së përcaktuar në pikën 3, përcaktohen me marrëveshje të përbashkët mes Zyrës së Regjistrimit të Pasurive të Paluajtshme dhe Dhomës Kombëtare të Noterisë.
