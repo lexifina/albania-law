@@ -1,0 +1,17 @@
+# Neni 3
+Përkufizime
+Në këtë ligj termat e mëposhtëm kanë këto kuptime:
+1. “Standardizim” është veprimtaria për krijimin, për probleme aktuale apo që mund të lindin, të rregullave/dispozitave, për përdorim të përbashkët dhe të përsëritur, për një nivel optimal rregulli në një kontekst të dhënë. Në veçanti, veprimtaria ka të bëjë me proceset e përgatitjes, të publikimit dhe zbatimit të standardeve. Standardizimi është një veprimtari vullnetare, si rezultat i një konsensusi, i realizuar nga dhe për vetë palët e interesuara, bazuar në gjithëpërfshirje dhe transparencë.
+2. “Organizëm kombëtar standardizimi” është organizmi i standardizimit, i njohur në nivel kombëtar, i cili, me ligj, gëzon të drejtën e përfaqësuesit kombëtar të organizatave homologe, ndërkombëtare dhe rajonale, të standardeve.
+3. “Organizatë ndërkombëtare e standardizimit” është një organizëm standardizimi, anëtarësimi në të cilin është i hapur për organizmat kombëtarë, përkatës të çdo vendi.
+4. “Organizatat europiane të standardizimit” janë Komiteti Europian i Standardizimit (CEN), Komiteti Europian i Standadizimit në Fushën e Elektroteknikës (CENELEC) dhe Instituti Europian i Standardeve të Telekomunikacionit (ETSI).
+5. “Standard” është çdo dokument vullnetar, i hartuar me konsensus dhe i miratuar nga një organizëm i njohur standardizimi, i cili ofron, për përdorim të përbashkët dhe të përsëritur, rregulla, udhëzime ose karakteristika për veprimtari apo rezultatet e tyre, për një shkallë optimale rregulli, në një kontekst të dhënë.
+6. “Standard ndërkombëtar” është çdo standard, i cili është adoptuar nga një organizatë ndërkombëtare standardizimi dhe që i është vënë në dispozicion publikut.
+7. “Standard europian” (EN) është çdo standard vullnetar, i adoptuar nga njëra prej organizatave europiane të standardizimit dhe që i është vënë në dispozicion publikut.
+8. “Dokument harmonizimi” (HD) është një dokument normativ vullnetar, i adoptuar nga njëra prej organizatave europiane të standardizimit, me detyrimin e zbatimit të përmbajtjes teknike në Shqipëri dhe shfuqizimin e standardeve kombëtare e të dokumenteve normative shqiptare, që bien ndesh me ato europiane.
+9. “Standard i harmonizuar” është çdo standard europian (EN) ose një dokument harmonizimi (HD) i adoptuar nga njëra prej organizatave europiane të standardizimit, në zbatim të një mandati, të lëshuar nga Komisioni Europian, pas këshillimeve me vendet anëtare, numrat e referencës të të cilit publikohen në Gazetën Zyrtare të Bashkimit Europian.
+10. “Standard shqiptar” është çdo dokument i miratuar nga Drejtoria e Përgjithshme e Standardizimit, më poshtë DPS, në përputhje me kërkesat e këtij ligji dhe që shënohet me (SSH).
+11. “Standard shqiptar i harmonizuar” është çdo standard shqiptar, që ka adoptuar një standard europian të harmonizuar, sipas rregullave teknike.
+12. “Dokument standardizimi” është çdo dokument, i miratuar nga organizmat europianë ndërkombëtarë dhe i adoptuar nga organizmat kombëtarë të standardizimit, siç janë specifikimet teknike, raportet teknike, manualet apo marrëveshjet e veçanta teknike, i cili është vënë në dispozicion të publikut.
+13. “Programi i punës së standardizimit” është një program pune i një organizmi standardizimi, i cili përmban elementet e veprimtarisë së standardizimit për një periudhë të caktuar kohore.
+14. “Referim tregues ndaj standardeve” është një referim ndaj standardeve, i cili përcakton se njëra nga mënyrat, për të përmbushur kërkesat përkatëse të një rregulli teknik, është zbatimi i standardit, referuar në aneksin e rregullit.
