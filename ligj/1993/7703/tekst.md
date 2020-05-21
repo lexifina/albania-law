@@ -4,7 +4,7 @@ Nr. 7703, datë 11.05.1993
 
 PËR SIGURIMET SHOQËRORE NË REPUBLIKËN E SHQIPËRISË
 
-(Ndryshuar me ligjet: nr. 7932, datë 17.05.1995; nr. 8286, datë 16.02.1998; nr. 8392, datë 02.09.1998; nr. 8575, datë 03.02.2000; nr. 8776, datë 26.04.2001; nr. 8852, datë 27.12.2001; nr. 8889, datë 25.04.2002; nr. 9058, datë 20.03.2003; nr. 9114, datë 24.07.2003;nr. 9377, datë 21.04.2005; nr. 9498, datë 03.04.2006; nr. 9600, datë 27.07.2006; nr. 9708, datë 05.04.2007; nr. 9768, datë 09.07.2007; nr. 10070, datë 05.02.2009; nr. 10447, datë 14.07.2011; nr. 13/2014, datë 13.2.2014; nr. 104/2014, datë 31.07.2014, nr. 144/2015, datë 17.12.2015;  nr. 111/2016, datë 3.11.2016; aktin normativ nr. 1, datë 25.1.2017; aktin normativ nr. 7, datë 30.11.2019)
+(Ndryshuar me ligjet: nr. 7932, datë 17.05.1995; nr. 8286, datë 16.02.1998; nr. 8392, datë 02.09.1998; nr. 8575, datë 03.02.2000; nr. 8776, datë 26.04.2001; nr. 8852, datë 27.12.2001; nr. 8889, datë 25.04.2002; nr. 9058, datë 20.03.2003; nr. 9114, datë 24.07.2003;nr. 9377, datë 21.04.2005; nr. 9498, datë 03.04.2006; nr. 9600, datë 27.07.2006; nr. 9708, datë 05.04.2007; nr. 9768, datë 09.07.2007; nr. 10070, datë 05.02.2009; nr. 10447, datë 14.07.2011; nr. 13/2014, datë 13.2.2014; nr. 104/2014, datë 31.07.2014, nr. 144/2015, datë 17.12.2015;  nr. 111/2016, datë 3.11.2016; aktin normativ nr. 1, datë 25.1.2017; aktin normativ nr. 7, datë 30.11.2019, ndryshuar me ligjin nr. 65/2020, datё 21.5.2020)
 
 (I përditësuar)
 
@@ -102,13 +102,15 @@ Neni 5
 
 Pensionet shtetërore të posaçme
 
-(Shtuar shprehja në pikën a, me ligjin nr. 8286, datë 16.02.1998)
+(Shtuar shprehja në pikën a, me ligjin nr. 8286, datë 16.02.1998,shtuar fjalë 
+
+në shkronjën “b”, me ligjin nr. 65/2020, datё 21.5.2020)
 
 Kanë të drejtë për pensione të posaçme që jepen nga shteti personat që:
 
 a) Kanë marrë pjesë në lëvizjen e Rilindjes Kombëtare, në lëvizjet popullore, në luftën kundër pushtuesve nazifashistë brenda dhe jashtë Shqipërisë, në mbrojtjen e kufirit e ruajtjen e integritetit territorial të Shqipërisë dhe në lëvizjen demokratike dhe që kanë merita të veçanta;
 
-b) Kanë arritur rezultate të dallueshme në fushën e shkencës, kulturës, arteve, ekonomisë dhe politikës;
+b) Kanë arritur rezultate të dallueshme në fushën e shkencës, kulturës, arteve, sportit ekonomisë dhe politikës;
 
 c) Kanë vuajtur nga persekutimi politik në regjimin komunist. Personat e përmendur në shkronjat  “a”, “b”, “c”, të këtij neni përfitojnë:
 
