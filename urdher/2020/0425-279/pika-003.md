@@ -1,1 +1,1 @@
-3. Nga ora 09:30 deri në orën 21.00 lejohet të lëvizin, me jo më shumë se me një person në krah, të gjithë këmbësorët e tjerë. Përtej këtij orari lejohen të lëvizin vetë, këmbësorët që kanë autorizim pune, të cilët lëvizin sipas orarit të diktuar nga natyra e punës.
+3. Shfuqizuar.

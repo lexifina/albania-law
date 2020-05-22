@@ -1,1 +1,1 @@
-2. Në zonat e gjelbërta, pensionistët do të lëvizin lirisht në këmbë nga ora 06:00 deri në orën 08:30 dhe gjatë kësaj kohe nuk do të lejohet lëvizja e asnjë këmbësori tjetër, përveç atyre që kanë autorizim për punë.
+2. Shfuqizuar.
