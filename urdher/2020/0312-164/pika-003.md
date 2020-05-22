@@ -1,1 +1,0 @@
-3. Përdorimi i shërbimeve të bareve dhe restoranteve në strukturat akomoduese vetëm për qytetarët e akomoduar në strukturën akomoduese përkatëse, deri në përfundim të gjendjes së epidemisë së shkaktuar nga infeksioni COVID-2019.

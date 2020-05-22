@@ -1,1 +1,0 @@
-4. Strukturat akomoduese ndalohen të ofrojnë shërbim bar dhe restorant për qytetarë që nuk janë klientë të stukturës akomoduese, deri në përfundim të gjendjes së epidemisë së shkaktuar nga infeksioni COVID-2019.
