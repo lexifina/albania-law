@@ -1,0 +1,1 @@
+9. Agjencia Shtetërore e Kadastrës, Drejtoria Vendore Himarë, të pezullojë të gjitha transaksionet me pasurinë e shpronësuar deri në momentin kur do të realizohen procesi i hedhjes së gjurmës së projektit mbi hartën kadastrale të regjistrimit dhe kalimi i pronësisë në favor të shtetit, Bashkia Himarë, për pasurinë e shpronësuar.

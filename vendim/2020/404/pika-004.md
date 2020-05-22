@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 954 880 (nëntëqind e pesëdhjetë e katër mijë e tetëqind e tetëdhjetë) lekësh, do të përballohet nga buxheti i vitit 2020, i miratuar për Ministrinë e Infrastrukturës dhe Energjisë, në programin buxhetor “Planifikimi urban”.
