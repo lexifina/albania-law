@@ -1,0 +1,1 @@
+1. Miratimin e çmimeve të shitjes së teksteve të botuara nga Qendra e Botimeve për Diasporën, të serisë “Klasikët dygjuhësh” dhe “Fjalor dygjuhësh për fëmijë”, sipas listës nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij, me qëllim mundësimin e ruajtjes, të zhvillimit dhe të mësimit të gjuhës shqipe e të kulturës shqiptare në diasporë.

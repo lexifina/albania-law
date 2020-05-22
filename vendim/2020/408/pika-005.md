@@ -1,0 +1,1 @@
+5. Efektet financiare për zbatimin e këtij vendimi, në vlerën prej 2 800 000 (dy milionë e tetëqind mijë) lekësh, përballohen nga buxheti i miratuar për Qendrën e Botimeve për Diasporën, për vitin 2020.

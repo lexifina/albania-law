@@ -1,0 +1,1 @@
+4. Çmimet e serisë “Klasikët dygjuhësh” dhe “Fjalor dygjuhësh për fëmijë” vendosen në kopertinat përkatëse, në përputhje me listën nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
