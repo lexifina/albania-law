@@ -1,0 +1,2 @@
+3. Ngarkohen Autoriteti Shtetëror për Informacionin Gjeohapësinor (ASIG), Bordi për Informacionin Gjeohapësinor (BIG), autoritetet publike përgjegjëse për temat e informacionit gjeohapësinor, si dhe çdo autoritet tjetër që mbledh, përpunon, përditëson dhe përdor informacion gjeohapësinor për realizimin e funksioneve të tij publike për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

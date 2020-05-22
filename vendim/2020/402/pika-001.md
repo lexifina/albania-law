@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit të politikave “Për qeverisjen e sektorit të informacionit gjeohapësinor në Shqipëri, 2020-2030”, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
