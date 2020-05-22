@@ -1,0 +1,1 @@
+1. Ofrimin e shërbimit në bare, restorante dhe lokale, fast-food, në të gjithë vendin, duke filluar nga data 18 maj, vetëm në mjediset e tyre të hapura, sipas orareve të përcaktuara në urdhrat përkatëse për secilën zonë, duke respektuar protokollet e sigurisë, të miratuar nga Instituti i Shëndetit Publik.

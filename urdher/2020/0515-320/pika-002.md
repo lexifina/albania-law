@@ -1,0 +1,1 @@
+2. Ngarkohet për zbatimin e këtij urdhri, Inspektorati Shtetëror Shëndetësor, Operatori i Shërbimeve të Kujdesit Shëndetësor dhe subjektet që ushtrojnë aktivitetet e përcaktuara në pikën 1, të këtij urdhri.
