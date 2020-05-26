@@ -1,1 +1,0 @@
-10. Për institutin e nxënësve që nuk shikojnë “Ramazan Kabashi”, drejtoria e këtij instituti tërheq testin në QSHA, një ditë para zhvillimit të provimit dhe e kthen atë në sistemin e shkrimit Braille.

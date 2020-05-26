@@ -1,1 +1,0 @@
-11. Nxënësi mbetës në provimet kombëtare të arsimit bazë ka të drejtën t’i japë ato në sesionin e dytë, sipas procedurave të parashikuara në rregulloren për zhvillimin e provimeve kombëtare të arsimit bazë në Republikën e Shqipërisë.
