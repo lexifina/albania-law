@@ -1,1 +1,0 @@
-10. Zyra Vendore e Arsimit Parauniversitar merr nga Qendra e Vlerësimit të Testit (QVT) dhe ruan të dhënat e çdo nxënësi, të vlerësuesve të jashtëm dhe të mjediseve ku është realizuar vlerësimi i arritjeve të nxënësve të arsimit fillor. Këto të dhëna dërgohen në QSHA, në DPAP dhe në drejtoritë rajonale të arsimit parauniversitar.
