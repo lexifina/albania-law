@@ -1,0 +1,1 @@
+11. Procedura e parashikuar në këtë udhëzim të zbatohet edhe për vlerësimin e nxënësve të pakicave kombëtare në lëndën “Gjuhë amtare”, të nxënësve të seksioneve dygjuhëshe, të nxënësve të shkollave speciale, si dhe të nxënësve mbetës në provimet kombëtare të arsimit bazë në vitet paraardhëse.

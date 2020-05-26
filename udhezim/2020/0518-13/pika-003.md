@@ -1,0 +1,1 @@
+3. Procedura e vlerësimit të nxënësit me notë në provimet kombëtare të arsimit bazë, të kryhet nga komisionet e vlerësimet të lëndëve të PKAB-së (më poshtë Komisionet e Vlerësimit), të ngritura për çdo lëndë, në institucionet e arsimit parauniversitar, me urdhër të drejtorit të shkollës.

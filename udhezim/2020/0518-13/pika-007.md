@@ -1,0 +1,1 @@
+7. Nota e vlerësimit të nxënësit në lëndën përkatëse të PKAB-së të llogaritet me formulën: NPK = [NP klasa 6 + NP klasa 7 + NP klasa 8 + NP klasa 9] : 4, ku NPK është nota e provimit kombëtar në lëndën përkatëse, NP është nota përfundimtare e lëndës për klasën përkatëse.
