@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 16, datë 17.4.2020, i Këshillit të Ministrave, “Për faljen e masave administrative me karakter ndëshkues të vendosura gjatë periudhës së infeksionit të shkaktuar nga COVID-19”.
