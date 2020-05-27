@@ -1,0 +1,1 @@
+7. Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë, të marrë masa për zbatimin e këtij urdhri dhe të përcjellë pranë Ministrisë së Drejtësisë një listë të përditësuar me adresat elektronike për përmbaruesit, brenda dhjetë ditëve nga hyrja në fuqi e këtij urdhri.

@@ -1,0 +1,1 @@
+6. Në rast të mungesës së njoftimit nga përmbaruesi gjyqësor privat mbi ndryshimin e adresës së postës elektronike, të parashikuar në pikën 2 të këtij urdhri, njoftimi do të konsiderohet i kryer në adresën e deklaruar më parë prej tij.

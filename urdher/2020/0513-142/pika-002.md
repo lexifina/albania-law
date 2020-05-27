@@ -1,0 +1,1 @@
+2. Çdo ndryshim i adresës së postës elektronike të sipërcituar duhet të njoftohet, brenda dy ditëve punë nga kryerje e këtij ndryshimi pranë Ministrisë së Drejtësisë, elektronikisht në adresën e administruar nga struktura përgjegjëse e rregullimit të profesioneve të lira, me qëllim përcjelljen e këtyre komunikimeve dhe me shkresë.
