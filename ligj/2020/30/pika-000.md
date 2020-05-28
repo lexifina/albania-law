@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 9, datë 25.3.2020, i Këshillit të Ministrave, “Për marrjen e masave të veçanta në fushën e veprimtarisë gjyqësore, gjatë kohëzgjatjes së gjendjes së epidemisë së shkaktuar nga COVID-19””.
