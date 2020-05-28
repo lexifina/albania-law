@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 2, datë 11.3.2020, i Këshillit të Ministrave, “Për disa shtesa dhe ndryshime në ligjin nr. 15/2016, “Për parandalimin dhe luftimin e infeksioneve dhe sëmundjeve infektive””.
