@@ -1,0 +1,7 @@
+LIGJ
+Nr. 28/2020
+PËR MIRATIMIN E AKTIT NORMATIV, ME FUQINË E LIGJIT, NR. 7, DATË 23.3.2020, TË KËSHILLIT TË MINISTRAVE, “PËR QËNDRIMIN E PËRKOHSHËM NË SHTËPI TË TË DËNUARVE”
+Në mbështetje të neneve 78 dhe 101 të Kushtetutës, me propozimin e Këshillit të Ministrave,
+KUVENDI
+I REPUBLIKËS SË SHQIPËRISË
+VENDOSI:
