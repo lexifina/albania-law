@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 11, datë 27.3.2020, i Këshillit të Ministrave, “Për një shtesё në ligjin nr. nr. 9632, datё 30.10.2006, “Pёr sistemin e taksave vendore”, tё ndryshuar”.
