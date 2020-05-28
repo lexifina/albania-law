@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 13, datë 2.4.2020, i Këshillit të Ministrave, “Pёr marrjen e masave tё veçanta nё fushёn e veprimtarisё sё shёrbimit pёrmbarimor gjyqёsor, ndёrmjetёsimit dhe administrimit tё procedurave tё falimentimit gjatё kohёzgjatjes sё gjendjes sё epidemisё sё shkaktuar nga COVID-19”.
