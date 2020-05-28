@@ -4,7 +4,7 @@ Nr.305, datë 16.4.2020
 
 PËR PËRCAKTIMIN E PROCEDURAVE, TË DOKUMENTACIONIT DHE TË MASËS SË PËRFITIMIT TË NDIHMËS FINANCIARE PËR TË PUNËSUARIT AKTUALË DHE PUNONJËSIT E LARGUAR NGA PUNA SI PASOJË E COVID-19
 
-(Ndryshuar me VKM nr. 341, datë 23.4.2020)
+(Ndryshuar me VKM nr. 341, datë 23.4.2020, nr. 423, datë 28.5.2020)
 
 (I përditësuar)
 
@@ -16,9 +16,9 @@ I. TË PËRGJITHSHME
 
 1. Dhënie ndihme financiare prej 40 000 (dyzet mijë) lekësh për të punësuarit në subjektet me të ardhura vjetore mbi 14 000 000 (katërmbëdhjetë milionë) lekë, që kanë mbyllur aktivitetet sipas urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale, të cilët kanë qenë në punë në datën e hyrjes në fuqi të këtyre urdhrave. 
 
-2. Dhënie ndihme financiare prej 40 000 (dyzet mijë) lekësh për të ish-punësuarit në subjektet që janë lejuar të kryejnë aktivitetet sipas urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale, të cilët janë larguar nga puna nga data e hyrjes në fuqi të këtyre urdhrave deri në datën 10 prill 2020. Dita e dorëzimit të E-sig 027 nuk duhet të jetë më e vonë se data 10 prill 2020.  
+    2. Dhënie ndihme financiare, prej 40 000 (dyzet mijë) lekësh, për ish-të punësuarit në subjektet që janë lejuar të kryejnë aktivitetet ose janë mbyllur sipas urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale, të cilët janë larguar nga puna nga data 1 mars 2020 deri në datën 17 maj 2020.
 
-3. Dhënie ndihme financiare prej 40 000 (dyzet mijë) lekësh për të punësuarit në subjektet me të ardhura vjetore deri në 14 000 000 (katërmbëdhjetë milionë) lekë, që janë lejuar të kryejnë aktivitetet sipas urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale, të cilët kanë qenë në punë deri në datën e hyrjes në fuqi të urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale.
+   3. Dhënie ndihme financiare prej 40 000 (dyzet mijë) lekësh për të punësuarit në subjektet me të ardhura vjetore deri në 14 000 000 (katërmbëdhjetë milionë) lekë, që janë lejuar të kryejnë aktivitetet sipas urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale, të cilët kanë qenë në punë deri në datën e hyrjes në fuqi të urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale.
 
 4. Nuk e përfitojnë ndihmën sipas pikës 3, të këtij kreu, punonjësit: 
 
@@ -44,11 +44,15 @@ ii. e regjistruara që ushtrojnë aktivitet në profesione të tilla si: avokat,
 
 2. Aplikimi për të përfituar ndihmë financiare bëhet nga subjekti i të punësuarit.
 
-3. Punonjësi që është në më tepër se një listëpagesë përfiton si ndihmë financiare vetëm një pagesë. 
+Në rastet e mosaplikimit nga ana e subjektit, ndihma financiare për të punësuarit apo ish-të punësuarit do të jepet menjëherë pas miratimit nga administrata tatimore. Miratimi kryhet pas verifikimit të kritereve bazuar në të dhënat që administrata tatimore disponon apo të dhënave që të punësuarit apo ish-të punësuarit do të dorëzojnë.
+
+Të dhënat që do të dorëzohen janë të njëjta me ato të parashikuara në pikën 6, të këtij kreu. Afati për dorëzimin e këtyre të dhënave është deri në datën 5 qershor 2020.
+
+     3. Punonjësi që është në më tepër se një listëpagesë përfiton si ndihmë financiare vetëm një pagesë. 
 
 4. Punonjësit të cilët përfitojnë sipas vendimit nr.254, datë 27.3.2020, të Këshillit të Ministrave, “Për përcaktimin e procedurave, të dokumentacionit dhe masën e përfitimit të ndihmës financiare për të punësuarit në subjektet e biznesit me të ardhura vjetore deri 14 000 000 lekë, ndihmës ekonomike dhe të pagesës të të ardhurës nga papunësia gjatë periudhës së fatkeqësisë natyrore të shpallur si pasojë e COVID-19”, nuk janë subjekt i këtij vendimi.
 
-5. Për të përfituar nga ndihma financiare duhet që punonjësi të ketë qenë në marrëdhënie pune deri në datën e hyrjes në fuqi të urdhrave të ministrit të Shëndetësisë dhe Mbrojtjes Sociale. 
+     5. Për të përfituar nga ndihma financiare duhet që punonjësi të ketë qenë në marrëdhënie pune, sipas përcaktimeve në kreun I, të këtij vendimi.
 
 6. Subjektet aplikuese duhet të paraqesin pranë Drejtorisë së Përgjithshme të Tatimeve, nëpërmjet portalit e-filinig, kërkesën me të dhënat e përfituesve, ku përfshihen: 
 
@@ -100,7 +104,7 @@ c) Bankën ku përfituesi ka llogarinë rrjedhëse bankare;
 
 5. Drejtoria e Përgjithshme e Tatimeve ruan dhe administron dokumentacionin e përcaktuar sipas këtij vendimi, sipas dispozitave ligjore e nënligjore të parashikuara për ruajtjen e dokumentacionit dhe arkivat.
 
-6. Drejtori i Përgjthshëm i Tatimeve miraton rregullat procedurale për zbatimin e këtij vendimi, bashkëpunimin me institucionet përgjegjëse, procedurat e kalimit në thesar të ndihmës financiare dhe njoftimin e subjekteve.
+6. Drejtori i Përgjthshëm i Tatimeve miraton rregullat procedurale për zbatimin e këtij vendimi, bashkëpunimin me institucionet përgjegjëse, procedurat e kalimit në thesar të ndihmës financiare dhe njoftimin e subjekteve, si dhe rregullat dhe hapat proceduralë që do të ndiqen për zbatimin e paragrafit të dytë, të pikës 2, të kreut II.
 
  7. Drejtoritë rajonale të Shërbimit Social Shtetëror dërgojnë listat e familjeve, të cilat nuk janë përzgjedhur përfituese të skemës së ndihmës ekonomike pranë bashkive, për të njoftuar familjet dhe për të kryer pagesat për ndihmën financiare.
 
@@ -109,6 +113,10 @@ IV. MASA E NDIHMËS FINANCIARE
 1. Ndihma financiare, që përfiton i punësuari aktual apo ai i larguar nga puna, përcaktohet në pikat 1, 2, 3 dhe 5, të kreut I, të këtij vendimi. 
 
 2. Ndihma financiare, për të punësuarit, në shumën e përcaktuar në pikat 1, 2, 3 dhe 5, të kreut I, të këtij vendimi, mbulon periudhën prill – qershor 2020 dhe përfitohet vetëm një herë si shumë e vetme. 
+
+Të punësuarit apo të ish-punësuarit, të cilët përfitojnë ndihmën financiare sipas këtij vendimi, përjashtohen nga përfitimi njëkohësisht nga paketat e mbështetjes shtetërore të pagesës së ndihmës ekonomike si dhe të pagesës të së ardhurës nga papunësia, mbështetur në ligjin nr.7703, datë 11.5.1993, sipas të cilit nuk lejohet përfitimi në të njëjtën kohë nga dy skema të mbështetjes shtetërore.  
+
+Për të gjithë aplikuesit për pagesë papunësie, të cilët kanë plotësuar dosjen brenda kritereve ligjore dhe kanë fituar statusin e përfituesit të pagesës së papunësisë, nuk humbet e drejta për përfitim të pagesës së papunësisë, por lëvrimi i pagesës së papunësisë do të fillojë pas mbarimit të skemës sipas këtij vendimi, nëse do të jenë ende të papunë.
 
 3. Verifikimi, llogaritja dhe shpërndarja për përfituesit sipas pikave 1, 2, 3 dhe 5, të kreut I, të këtij vendimi, do të bëhet sipas procedurave të dokumentimit e të shpërndarjes nga institucionet e përcaktuara sipas legjislacionit në fuqi.
 
