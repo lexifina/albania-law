@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 12, datë 2.4.2020, i Këshillit të Ministrave, “Pёr njё shtesё nё aktin normativ nr. 3, datё 15.3.2020, tё Kёshillit tё Ministrave, “Pёr marrjen e masave tё veçanta administrative gjatё kohёzgjatjes sё periudhёs sё infeksionit tё shkaktuar nga COVID-19”, tё ndryshuar”.
