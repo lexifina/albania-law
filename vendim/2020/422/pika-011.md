@@ -1,0 +1,1 @@
+11. Procesverbali i takimit të Grupit Negociator përgatitet nga Sekretariati i Integrimit Evropian. Drafti i procesverbalit të mbledhjes u komunikohet në mënyrë elektronike anëtarëve të Grupit Negociator jo më vonë se një javë pas mbledhjes. Takimet e Grupit Negociator mund të regjistrohen. Procesverbali i mbledhjes nënshkruhet nga Kryenegociatori.

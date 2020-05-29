@@ -1,0 +1,1 @@
+3. Anëtarët e Grupit Negociator veprojnë për të përmbushur përgjegjësitë që lidhen me procesin teknik të negociatave të aderimit në Bashkimin Evropian, me të cilat i ngarkon vendimi nr.749, datë 19.12.2018, i Këshillit të Ministrave.

@@ -1,0 +1,20 @@
+1. Grupi Negociator, përgjegjës për zhvillimin e procesit teknik të negociatave të aderimit me institucionet e Bashkimit Evropian, i ngritur me vendimin nr.749, datë 19.12.2018, të Këshillit të Ministrave, “Për krijimin, organizimin dhe funksionimin e strukturës shtetërore, përgjegjëse për zhvillimin e negociatave dhe lidhjen e traktatit të aderimit të Republikës së Shqipërisë në Bashkimin Evropian”, në kryerjen e detyrave të parashikuara në pikën 3, të kreut V, të vendimit të sipërpërmendur, përbëhet nga:
+- Z. Zef Mazi, Kryenegociator;
+- Znj. Fjoralba Caka, zëvendësministër i Drejtësisë, negociator përgjegjës për kriteret politike dhe kapitulin 23 të legjislacionit të Bashkimit Evropian;
+- Znj. Romina Kuko, zëvendësministër i Brendshëm, negociator përgjegjës për kapitullin 24;
+- Z. Sokol Dedja, zëvendësministër për Evropën dhe Punët e Jashtme, negociator përgjegjës për kapitujt 22 dhe 31 të legjislacionit të Bashkimit Evropian;
+- Znj. Adela Xhemali, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kriteret ekonomike dhe kapitullin 33;
+- Znj. Belinda Ikonomi, zëvendësministër i Financave dhe Ekonomisë, negociator përgjegjës për kapitujt 1, 3, 7, 20, 28 dhe 30;
+- Znj. Dajna Sorensen, zëvendësministër i Financave dhe Ekonomisë, negociator për kapitujt 2 dhe 19;
+- Znj. Vasilika Vjero, zëvendësministër i Financave dhe Ekonomisë, negociator për kapitujt 6, 16, 29 dhe 32;
+- Z. Ilir Bejtja, zëvendësministër i Infrastrukturës dhe Energjisë, negociator për kapitujt 10, 14, 15 dhe 21;
+- Znj. Ermira Gjeçi, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitujt 11 dhe 12;
+- Z. Roland Kristo, zëvendësministër i Bujqësisë dhe Zhvillimit Rural, negociator për kapitullin 13;
+- Z. Oltion Rrumbullaku, zëvendësministër i Arsimit, Sportit dhe Rinisë, negociator për kapitullin 25;
+- Znj. Nina Guga, zëvendësministër i Arsimit, Sportit dhe Rinisë, negociator për kapitullin 26;
+- Znj. Ornela Çuçi, zëvendësminitër i Turizmit dhe Mjedisit, negociator për kapitullin 27;
+- Znj. Natasha Ahmetaj, zëvendësguvernator i dytë në Bankën e Shqipërisë, negociator për kapitujt 4 dhe 17;
+- Znj. Reida Kashta, drejtor i Përgjithshëm i Agjencisë së Prokurimit Publik, negociator për kapitullin 5;
+- Znj. Juliana Latifi, kryetar i Autoritetit të Konkurrencës, negociator për kapitullin 5;
+- Z. Ervin Mete, Autoriteti i Mbikëqyrjes Financiare, negociator për kapitullin 9;
+- Znj. Elsa Dhuli, INSTAT, negociatore për kapitullin 18.

@@ -1,0 +1,1 @@
+4. Çdo anëtar i Grupit Negociator paraqet të paktën çdo tre muaj te Kryenegociatori apo me kërkesë të tij në një afat tjetër një raport mbi ecurinë e negociatave në kapitujt, për të cilët është përgjegjës, me të gjitha informacionet e nevojshme mbi veprimtaritë e anëtarit përgjegjës dhe mbi aktivitetet që lidhen me kapitullin.
