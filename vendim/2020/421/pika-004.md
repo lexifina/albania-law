@@ -1,0 +1,1 @@
+4. Për përfitimin e pagesës së përcaktuar sipas pikës 3, të këtij vendimi, subjekti joanëtar i grupit negociator i bashkëlidh raportit të tij për punën e kryer formularin e kohëzgjatjes së punës, të hartuar në përputhje me lidhjen nr.1, që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij. Formulari i kohëzgjatjes së punës miratohet nga Kryenegociatori.

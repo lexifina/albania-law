@@ -1,0 +1,1 @@
+3. Subjektet joanëtare të grupit negociator, të cilët kryejnë detyra të ngarkuara nga Kryenegociatori, përfitojnë një pagesë në masën 6 000 (gjashtë mijë) lekë për çdo ditë pune, e cila paguhet pas realizimit të punës së ngarkuar.
