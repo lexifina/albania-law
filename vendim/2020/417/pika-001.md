@@ -1,0 +1,1 @@
+1. Pranë ministrisë përgjegjëse për ushqimin funksionon Komisioni për Shqyrtimin e Masave Administrative (këtu e në vijim “KSHMA”). KSHMA-ja shqyrton ankimet kundër masave administrative të marra nga inspektorët e institucionit përgjegjës për kontrollin zyrtar të ushqimit dhe të ushqimit për kafshë, me vlerë të përgjithshme mbi 300 000 (treqind mijë) lekë.

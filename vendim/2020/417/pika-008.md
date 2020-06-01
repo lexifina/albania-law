@@ -1,0 +1,1 @@
+8. Përfaqësuesi ligjor i ankuesit ose përfaqësuesi me autorizim/prokurë mund të japë shpjegime para dhënies së vendimit. Mosparaqitja e përfaqësuesit ligjor të ankuesit ose përfaqësuesit me autorizim/prokurë nuk shkakton shtyrjen e shqyrtimit.
