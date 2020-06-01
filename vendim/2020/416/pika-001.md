@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Ndërtimi i rrjetit të ri elektrik 20 kV, fideri F2 dhe fideri F4”, në Fushë-Krujë.
