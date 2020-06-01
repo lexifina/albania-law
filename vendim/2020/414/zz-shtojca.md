@@ -1,0 +1,479 @@
+# Shtojca
+LISTA E PRONARËVE TË PASURIVE PRONË PRIVATE QË PREKEN NGA REALIZIMI I PROJEKTIT
+“MENAXHIMI I INTEGRUAR I MBETJEVE TË NGURTA TË RAJONIT TË VLORËS”, VLORË
+Nr.
+Emër Mbiemër
+Zona Kadastrale
+Nr/pasurisë
+lloji objektit
+Sipërfaqe shpronësimi
+m2
+Çmimi
+Vlera totale / lekë
+lekë/m2
+1
+Gudo Dero Dederi
+2074
+645/1
+arë
+1200
+204
+244,800.00
+2
+Gjoni Selaudin Dederi
+2074
+645/2
+arë
+1185
+204
+241,740.00
+3
+Maliq Selaudin Dederi
+2074
+645/3
+arë
+680
+204
+138,720.00
+4
+Mirjan Gudo Dederi
+2074
+645/4
+arë
+517.5
+204
+105,570.00
+5
+Haxhi Maze Zeneli
+2074
+645/6
+arë
+874
+204
+178,296.00
+6
+Ramadan Vero Brati
+2074
+645/7
+arë
+1469
+204
+299,676.00
+7
+Burim Reshat Luzi
+2074
+645/16
+arë
+580.5
+204
+118,422.00
+8
+Sali Irfan Luzi
+2074
+645/18
+arë
+790
+204
+161,160.00
+9
+Serri Hamet Luzi
+2074
+645/20
+arë
+611
+204
+124,644.00
+10
+Merdali Serri Luzi
+2074
+645/21
+arë
+130
+204
+26,520.00
+11
+Dialet Serri Luzi
+2074
+645/22
+arë
+739.5
+204
+150,858.00
+12
+Feti Shoraj
+2074
+645/23
+arë
+737
+204
+150,348.00
+13
+Servet Dervish Boci
+2074
+645/38
+arë
+289
+204
+58,956.00
+14
+Aleks Servet Boci
+2074
+645/39
+arë
+985
+204
+200,940.00
+15
+Lavdosh Servet Boci
+2074
+645/40
+arë
+1590
+204
+324,360.00
+16
+Fatmir Dilaver Boci
+2074
+645/41
+arë
+1329
+204
+271,116.00
+17
+Dilaver Dervish Boci
+2074
+645/42
+arë
+3587
+204
+731,748.00
+18
+Besim Amit Limaj
+2074
+645/43
+arë
+1135
+204
+231,540.00
+19
+Gastare Shahin Xhindi
+2074
+645/51
+arë
+795
+204
+162,180.00
+20
+Bilbil Zarif Xhindi
+2074
+645/53
+arë
+4000
+204
+816,000.00
+21
+Bylbash Mehmet Zyberi
+2074
+645/55
+arë
+3600
+204
+734,400.00
+22
+Eduard Mendu Zyberi
+2074
+645/56
+arë
+4600
+204
+938,400.00
+23
+Reit Rustem Zyberi
+2074
+645/57
+arë
+1400
+204
+285,600.00
+24
+Lirim Reit Zyberi
+2074
+645/58
+arë
+5800
+204
+1,183,200.00
+25
+Safet Myqerrem Hamzaj
+2074
+645/61
+arë
+4200
+204
+856,800.00
+26
+Selam Myqerrem Hamzaj
+2074
+645/62
+arë
+5000
+204
+1,020,000.00
+27
+Thimo Dervish Gjoshi
+2074
+645/64
+arë
+1727
+204
+352,308.00
+28
+Sofie Mersin Shabani
+2074
+645/65
+arë
+5800
+204
+1,183,200.00
+29
+Kastriot Batjar Hoxha
+2074
+645/66
+arë
+1154
+204
+235,416.00
+30
+Vexhi Batjar Hoxha
+2074
+645/68
+arë
+4600
+204
+938,400.00
+31
+Avdul Enver Metushi
+2074
+645/80
+arë
+1137
+204
+231,948.00
+32
+Metush Eqerem Metushi
+2074
+645/81
+arë
+4000
+204
+816,000.00
+33
+Pellumbesha Metushi
+2074
+645/82
+arë
+1800
+204
+367,200.00
+34
+Piro Dino Metushi
+2074
+645/83
+arë
+6600
+204
+1,346,400.00
+35
+Reshat Muçaj
+2074
+645/87
+arë
+800
+204
+163,200.00
+36
+Asllan Refit Toraj
+2074
+645/95
+arë
+5800
+204
+1,183,200.00
+37
+Bashkim Refit Toraj
+2074
+645/96
+arë
+8200
+204
+1,672,800.00
+38
+Osmen Sherif Saraçi
+2074
+645/97
+arë
+2600
+204
+530,400.00
+39
+Asllan Sherif Saraçi
+2074
+645/98
+arë
+5800
+204
+1,183,200.00
+40
+Engjellush Osmen Saraçi
+2074
+645/99
+arë
+2600
+204
+530,400.00
+41
+Uran Kapo Kapllani
+2074
+645/100
+arë
+5400
+204
+1,101,600.00
+42
+Sokrat Malo Arizi
+2074
+645/105
+arë
+5800
+204
+1,183,200.00
+43
+Bujar Yzeiri Okupuar
+2074
+645/106
+arë
+4000
+204
+816,000.00
+44
+Zeqir Avdurramen Yzeiri
+2074
+645/107
+arë
+3828
+204
+780,912.00
+45
+Çoban Ismet Boçi
+2074
+645/108
+arë
+2727
+204
+556,308.00
+46
+Qamil Qazim Bonjaku
+2074
+645/109
+arë
+1640
+204
+334,560.00
+47
+Patriot Qazim Bonjaku
+2074
+645/110
+arë
+1091
+204
+222,564.00
+48
+Tomorr Qamil Bonjaku
+2074
+645/111
+arë
+534
+204
+108,936.00
+49
+Çoban Boci
+2074
+484/9
+arë
+2028
+204
+413,712.00
+50
+Dhimiter Licaj
+3362
+107/30
+arë
+324
+204
+66,096.00
+51
+Remzi Hoxha
+3362
+242/2
+arë
+1107
+204
+225,828.00
+52
+Inxhi Hoxha
+3362
+242/3
+arë
+4200
+204
+856,800.00
+53
+Tafil Hoxha
+3362
+242/4
+arë
+2750
+204
+561,000.00
+54
+Gezim Hoxha
+3362
+242/5
+arë
+2026
+204
+413,304.00
+55
+Nuri Hoxha
+3362
+242/1
+arë
+549
+204
+111,996.00
+56
+Hakim Hoxha
+3362
+253/1
+arë
+4062
+204
+828,648.00
+57
+Mustafa Hoxha
+3362
+254/4
+arë
+1600
+204
+326,400.00
+58
+Irfan Amet Luzi
+2074
+645/17
+arë
+217.5
+204
+44,370.00
+Vlera Totale
+29,442,300
