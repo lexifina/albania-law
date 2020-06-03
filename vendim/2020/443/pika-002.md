@@ -1,0 +1,1 @@
+2. Përdorimi i fondit, sipas pikës 1, të këtij vendimi, është në masën 512 967 289 (pesëqind e dymbëdhjetë milionë e nëntëqind e gjashtëdhjetë e shtatë mijë e dyqind e tetëdhjetë e nëntë) lekë dhe i shtohet Bashkisë Shijak, në buxhetin e miratuar për vitin 2020, në formën e transfertës së pakushtëzuar.
