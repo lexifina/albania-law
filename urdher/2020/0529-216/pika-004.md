@@ -1,0 +1,1 @@
+4. Të gjitha anijet e peshkimit fundor (trata koce) që peshkojnë peshq fundorë nuk duhet të kalojnë 23 124 ditë peshkimi në vitin 2020 dhe 22 748 ditë peshkimi në vitin 2021, sipas shtojcës 4 të rekomandimit.

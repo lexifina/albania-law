@@ -1,0 +1,1 @@
+1. Zbatimin e rekomandimit GFCM/43/2019/5, “Për një plan menaxhimi shumëvjeçar për peshkimin fundor të qëndrueshëm në Detin Adriatik (nënzona gjeografike 17 dhe 18) që i bashkëngjitet këtij urdhri dhe është pjesë përbërëse e tij.

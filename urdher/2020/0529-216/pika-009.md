@@ -1,0 +1,2 @@
+9. Nga data kur kuota e sforcos është përmbushur ose është arritur kufiri i sforcos, Inspektorati Peshkimit do t’ia komunikojë atë Sektorit të Politikave të Peshkimit dhe Akuakulturës. Sektori do të njoftojë ndalimin e peshkimit, në rastin kur kuota ose kufiri i sforcos është arritur nga të gjitha ose një pjesë e anijeve të peshkimit të portit përkatës.
+Ky urdhër hyn në fuqi pas botimit në Fletoren Zyrtare.
