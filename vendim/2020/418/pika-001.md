@@ -1,0 +1,1 @@
+1. Miratimin e dokumentit të politikave strategjike dhe të Planit Kombëtar për Menaxhimin e Integruar të Mbetjeve, 2020-2035, sipas tekstit që i bashkëlidhet këtij vendimi dhe është pjesë përbërëse e tij.
