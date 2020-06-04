@@ -1,0 +1,5 @@
+# Neni 6
+Kërkesat kryesore për mbrojtjen e mjedisit
+1. Produktet, pjesët dhe pajisjet duhet të përputhen me kërkesat për mbrojtjen e mjedisit të shprehura në amendamentin 8 të volumit I dhe në amendamentin 5 të volumit II të shtojcës 16 të Konventës së Çikagos në zbatim që më 24 nëntor 2005, me përjashtim të shtojcave të shtojcës 16.
+2. Masat e hartuara për të ndryshuar elementet jokryesore të kërkesave të përmendura në paragrafin 1 për t’i sjellë ato në përputhje me amendamentet e mëpasshme të Konventës së Çikagos dhe të anekseve të saj, të cilat hyjnë në fuqi pas miratimit të këtij udhëzimi për aq sa përshtatje të tilla, nuk e zgjerojnë objektin e këtij udhëzimi, në përputhje me një procedurë shqyrtimi të hollësishëm.
+3. Masat e hartuara për të ndryshuar elementet jokryesore të kërkesave të përmendura në pikën 1, duke i plotësuar ato me anë të përdorimit të shtojcave të përmendura në pikën 1 si përmbajtje të domosdoshme, miratohen në përputhje me një procedurë shqyrtimi të hollësishëm.
