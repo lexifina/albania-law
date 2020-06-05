@@ -1,0 +1,26 @@
+{
+  "qbz_id": 21724,
+  "title": "Dekret për shpallje ligji dhe dhënien e pëlqimit për hyrjen në fuqi menjëherë të ligjit",
+  "type": "Dekret",
+  "kind": "Akt bazë",
+  "number": "11503",
+  "institution": "Presidenti i Republikës",
+  "adopted": "2020-06-05",
+  "published": "2020-06-05",
+  "in_force": "2020-06-05",
+  "in_force_basis": "\"hyn në fuqi menjëherë\": the publication day",
+  "source": "https://qbz.gov.al/files/6313c5c2a36c8c5b36ece02f39ac0824be8793e7d170da8e68aa0648e2ad77d5.docx",
+  "source_sha256": "6313c5c2a36c8c5b36ece02f39ac0824be8793e7d170da8e68aa0648e2ad77d5",
+  "official_record": "https://qbz.gov.al/api/v1/acts/21724",
+  "official_eli": "https://qbz.gov.al/eli/dekret/2020/06/05/11503",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
