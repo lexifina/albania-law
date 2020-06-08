@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Korçë, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore prej 1 326 (një mijë e treqind e njëzet e gjashtë) m2, sipas lidhjes nr. 1, të pasurisë me numër 85/2, zona kadastrale 1553, Bashkia Maliq.
