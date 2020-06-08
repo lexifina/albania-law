@@ -1,0 +1,1 @@
+6. Institucionet arsimore të arsimit të mesëm të lartë dhe institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar, janë përgjegjëse për përllogaritjen e notës mesatare dhe dërgimin e këtyre të dhënave në Qendrën e Shërbimeve Arsimore.
