@@ -1,0 +1,2 @@
+3. Ngarkohen Ministria e Arsimit, Sportit dhe Rinisë, Drejtoria e Përgjithshme e Arsimit Parauniversitar, Drejtoria Rajonale e Arsimit Parauniversitar, Durrës, Zyra Vendore e Arsimit Parauniversitar Tiranë dhe institucioni arsimor privat, parauniversitar, i arsimit bazë dhe i arsimit të mesëm të lartë, “Woodrow Wilson International” për zbatimin e këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.

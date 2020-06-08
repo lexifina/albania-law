@@ -1,0 +1,1 @@
+2. Institucioni arsimor privat, parauniversitar, i arsimit bazë dhe i arsimit të mesëm të lartë, “Woodrow Wilson International”, duhet të vendosë në dispozicion të institucionit arsimor vendor përgjegjës për arsimin parauniversitar informacionin dhe dokumentacionin e kërkuar në zbatim të akteve rregullatore në fuqi.

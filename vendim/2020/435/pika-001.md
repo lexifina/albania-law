@@ -1,0 +1,1 @@
+1. Dhënien e lejes shoqatës “Woodrow Wilson” për hapjen e institucionit arsimor privat, parauniversitar, të arsimit bazë dhe të arsimit të mesëm të lartë “Woodrow Wilson International”, ku mësimi zhvillohet edhe në gjuhën angleze dhe forma e arsimimit do të jetë arsim me kohë të plotë.
