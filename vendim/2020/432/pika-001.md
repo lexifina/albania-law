@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të Ministrisë së Financave dhe Ekonomisë, të pronës me emërtimin “tokë arë”, me sipërfaqe 37 300 m2, sipas kartelës së pasurisë dhe planit të rilevimit bashkëlidhur, me institucion përdorues Qendrën Shumëfunksionale Kamzë.
