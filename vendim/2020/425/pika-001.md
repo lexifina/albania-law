@@ -1,0 +1,1 @@
+1. Investimet me fonde publike në pasuritë kulturore kryhen nga subjekte të licencuara për projektim, zbatim, mbikëqyrje ose kolaudim, në pasuritë kulturore, sipas legjislacionit në fuqi për trashëgiminë kulturore.

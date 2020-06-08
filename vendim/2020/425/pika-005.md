@@ -1,0 +1,1 @@
+5. Njësia e vlerësimit të ofertave përbëhet nga kryetari dhe dy anëtarë, specialistë të fushës së trashëgimisë kulturore. Kryetari i Komisionit përzgjidhet ndërmjet punonjësve me funksion drejtues të institucionit/autoritetit kontraktor që zhvillon procedurën.

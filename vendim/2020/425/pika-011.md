@@ -1,0 +1,1 @@
+11. Dokumentet standarde të procedurës së konkurrimit publik miratohen me udhëzim të ministrit përgjegjës për trashëgiminë kulturore dhe përdoren nga të gjitha institucionet/autoritetet kontraktore që realizojnë procedura konkurrimi, sipas këtij vendimi.

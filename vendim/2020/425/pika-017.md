@@ -1,0 +1,1 @@
+17. Kriteret duhet të jenë në përpjesëtim dhe të lidhura ngushtë me aftësinë zbatuese, natyrën dhe vlerën e procedurës. Në çdo rast, Komisioni duhet të përcaktojë dokumentet konkrete që duhet të paraqesin ofertuesit për përmbushjen e këtyre kritereve.

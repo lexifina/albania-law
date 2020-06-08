@@ -1,0 +1,1 @@
+6. Në njësinë e vlerësimit të ofertave, institucioni/autoriteti kontraktor, që kryen procedurën e konkurrimit publik, mund të kontraktojë ekspertë të jashtëm në rast të mungesës së personelit ose kur mungojnë njohuritë e specializuara në fushën ku kërkohet të zhvillohet procedura.

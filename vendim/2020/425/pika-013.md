@@ -1,0 +1,1 @@
+13. Njoftimi për konkurrim publikohet në Buletinin e Njoftimeve Publike dhe në faqen elektronike të institucionit/autoritetit kontraktor që zhvillon procedurën, të paktën 15 (pesëmbëdhjetë) ditë përpara dorëzimit të ofertave.
