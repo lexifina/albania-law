@@ -1,0 +1,2 @@
+8. AKSHI, lëshuesit dhe marrësit e faturave elektronike, për qëllime të përdorimit të platformës qendrore të faturave, janë të detyruar që, në ofrimin e shërbimeve dhe në komunikim ndërmjet tyre, të vënë në dispozicion të njëri-tjetrit informacionin përkatës që disponojnë, të respektojnë rregullat e zbatueshme për mbrojtjen e të dhënave, veçanërisht ato që mbrojnë të dhënat personale dhe përdorin procedurat dhe pajisjet e duhura teknologjike.
+IV. ZBATIMI TEKNIK

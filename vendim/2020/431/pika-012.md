@@ -1,0 +1,1 @@
+12. Aksesimi i platformës qendrore të faturave dhe shkëmbimi i informacionit ndërmjet AKSHI-t, lëshuesit dhe marrësit të faturave elektronike përmes platformës qendrore të faturave, do të jetë përmes shërbimeve të internetit të SOAP, duke përdorur mesazhe ose përmes portalit Self-Care.

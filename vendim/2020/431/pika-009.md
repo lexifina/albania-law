@@ -1,0 +1,1 @@
+9. AKSHI, lëshuesit dhe marrësit e faturave elektronike janë të detyruar të sigurojnë zbatimin e legjislacionit në fuqi për faturën dhe sistemin e monitorimit të qarkullimit dhe mirëmbajtjen e sistemeve të tyre të të dhënave.

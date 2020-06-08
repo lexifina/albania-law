@@ -1,0 +1,1 @@
+10. AKSHI është i detyruar të sigurojë që shërbimet në fushën e platformës qendrore të faturave të jenë në përputhje me specifikimet e rregulluara teknike të shkëmbimit të të dhënave, të publikuara në faqen zyrtare të internetit të Drejtorisë së Përgjithshme të Tatimeve dhe të Agjencisë Kombëtare të Shoqërisë së Informacionit.

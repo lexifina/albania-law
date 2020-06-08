@@ -1,0 +1,2 @@
+17. Lëshuesit dhe marrësit e një fature elektronike që krijojnë lidhje me platformën qendrore të faturave në një mjedis prove/test dhe/ose pune janë të detyruar të zbatojnë specifikimet e duhura, në përputhje me specifikimet teknike të shkëmbimit të të dhënave, të përmendura në pikën 11, të këtij vendimi, të cilat rregullojnë mënyrën dhe kushtet e aksesimit (hyrjes) dhe të përdorimit të mjedisit të provës/testit dhe punës.
+VI. ORGANET QË NGARKOHEN PËR ZBATIM
