@@ -1,0 +1,5 @@
+VENDIM
+Nr. 447, datë 3.6.2020
+PËR EMËRTIMET E PROFESIONEVE E TË PUNËVE, SI PASOJË E NDRYSHIMEVE TË TEKNOLOGJISË, ORGANIZIMIT E TË PRONËSISË SË KAPITALEVE, TË CILAT NUK PËRPUTHEN APO PARASHIKOHEN NË VENDIMIN NR. 526, DATË 20.12.1958, TË KËSHILLIT TË MINISTRAVE, “PËR NDARJEN E PUNËVE NË KATEGORI, PËR EFEKT PENSIONI”, TË NDRYSHUAR, SI DHE EMËRTIMET E PROFESIONEVE E TË PUNËVE TË PERSONELIT INXHINIERO-TEKNIK NË INDUSTRINË E NAFTËS E TË GAZIT, QË KA PUNUAR DREJTPËRDREJT NË PRODHIM, NË SEKTORË APO BRIGADA, SI SHPIM-KËRKIM, SHPIM-SHFRYTËZIM, PRODHIM, SIZMIKË, GJEOFIZIKË KANTIERIALE, PËRPUNIM DHE TRANSPORT ME NAFTËSJELLËS DHE GAZSJELLËS
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 3, të ligjit nr. 29/2019, “Për trajtimin financiar, suplementar të punonjësve që kanë punuar në miniera në nëntokë, të punonjësve të industrisë së naftës e të gazit dhe të punonjësve që kanë punuar në metalurgji”, me propozimin e ministrit të Infrastrukturës dhe Energjisë dhe të ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
