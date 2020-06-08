@@ -1,0 +1,1 @@
+1. Ministrisë së Arsimit, Sportit dhe Rinisë, në buxhetin e vitit 2020, në programin buxhetor “Arsimi bazë” 09120, në zërin “Shpenzime kapitale me financim të brendshëm”, i shtohet fondi prej 20 000 000 (njëzet milionë) lekësh, për pagesën e TVSH-së së dhurimit të pajisjeve tablet nga fondacioni “Vodafone Albania”.
