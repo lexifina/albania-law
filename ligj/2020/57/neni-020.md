@@ -1,0 +1,10 @@
+# Neni 20
+Kërkimi shkencor në fondin pyjor kombëtar
+1. Veprimtaritë kërkimore e shkencore në fushën e pyjeve kryhen nga institucione arsimore e shkencore, subjekte juridike e fizike, që përmbushin kushtet dhe kriteret, sipas legjislacionit të posaçëm në fushën kërkimore-shkencore, duke konsideruar edhe respektimin e barazisë gjinore. Ministria dhe bashkitë bashkëpunojnë me ministrinë përgjegjëse për arsimin, për planifikimin dhe financimin e punës kërkimore e shkencore në fondin pyjor kombëtar.
+2. Institucionet arsimore e shkencore bashkërendojnë aktivitetin e tyre me institucionet publike në nivel qendror e vendor, me qëllim orientimin e punës së tyre drejt nevojave reale dhe prioriteteve të sektorit, sigurimin e konsulencave, oponencave dhe asistencës teknike, si dhe vënien në përdorim dhe aplikimit në praktikë të dijeve të akumuluara, të zbulimeve dhe rezultateve të punës akademike e kërkimore për përmirësimin e qeverisjes së pyjeve.
+3. Institucionet arsimore, institucione të tjera dhe subjekte juridike e fizike kanë të drejtë të kërkojnë ngritjen e bazave eksperimentale dhe didaktike në fondin pyjor publik për zhvillimin e veprimtarive kërkimore e shkencore, praktikave mësimore të nxënësve e studentëve dhe kualifikimin e specialistëve të pyjeve, të cilat miratohen:
+a) nga bashkia, për fondin pyjor në pronësi të saj;
+b) nga agjencia përgjegjëse për zonat e mbrojtura, për sipërfaqet në zonat e mbrojtura.
+4. Me propozim të ministrit, Këshilli i Ministrave miraton kriteret e ushtrimit, të miratimit dhe të monitorimit të veprimtarive kërkimore-shkencore në fondin pyjor kombëtar.
+5. Grumbujt pyjorë me lloje me vlera të larta gjenetike, aktuale apo potenciale shpallen “burime gjenetike” me urdhër të ministrit dhe ruhen “in-situ”.
+6. Grumbujt e drurëve dhe të llojeve pyjore, të caktuara për konservim, germoplazmë, “in-situ” dhe “ex-situ”, për grumbullim, përpunim, shpërndarje dhe certifikim të materialit mbjellës administrohen nga bashkitë/agjencia përgjegjëse për zonat e mbrojtura.

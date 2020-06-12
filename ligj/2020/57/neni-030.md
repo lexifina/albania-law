@@ -1,0 +1,27 @@
+# Neni 30
+Mbrojtja e fondit pyjor kombëtar
+1. Mbrojtja e pyjeve përfshin masat parandaluese, vëzhgimin e situatës në pyje dhe evidentimin e dëmeve apo sinjalizimin e pranisë së faktorëve dëmtues, rikuperimin e dëmeve dhe rehabilitimin e pjesëve të dëmtuara si pasojë e faktorëve dhe fenomeneve, që cenojnë dhe dëmtojnë fondin pyjor kombëtar, të tilla si:
+a) prerjet ose kullotja pa leje, dëmtimi i fondit pyjor kombëtar (përfshirë infrastrukturën pyjore dhe veprat ujore), sëmundjet dhe insektet, zjarret, shkatërrimi, pushtimi apo tjetërsimi;
+b) lëndët e gazta, të lëngëta, të ngurta, radioaktive, lëndë dhe mbetje të rrezikshme, që krijohen ose shkarkohen nga objekte a veprimtari industriale, bujqësore, komunale, tregtare, shoqërore e kulturore, ushtarake, të transportit;
+c) çdo veprimtari që cenon ekuilibrin e sistemeve ekologjike, natyrore, ose dëmton të mirat materiale dhe vlerat kulturore e historike, e realizuar nga cilido institucion shtetëror, qendror apo vendor, personat fizikë a juridikë, vendas a të huaj.
+2. Mbrojtja e fondit pyjor kombëtar, pavarësisht nga forma e pronësisë, është detyrë e përhershme e strukturave përgjegjëse për pyjet në nivel qendror dhe vendor, e pronarëve privatë, e subjekteve që kryejnë veprimtari në këtë fond dhe, sipas rastit, edhe e strukturave të tjera shtetërore të ngarkuara nga ligje të tjera.
+3. Ndalohet ndezja e zjarreve në fondin pyjor kombëtar, publik apo privat, në tokat e tjera në afërsi të tyre, si dhe çdo veprim tjetër që përbën burim ose shkak për përhapjen e pakontrolluar të tyre.
+4. Për parandalimin e zjarreve në fondin pyjor kombëtar:
+a) strukturat përgjegjëse për pyjet në bashki/zona të mbrojtura, si dhe pronarët privatë organizojnë sistemin e vrojtim-sinjalizimit duke zbatuar të gjitha detyrimet sipas legjislacionit në fuqi për mbrojtjen civile dhe për shërbimin e mbrojtjes nga zjarri dhe shpëtimin;
+b) struktura përgjegjëse për pyjet në bashki, si dhe pronarët privatë, çdo vit hartojnë planin për parandalimin dhe shuarjen e zjarreve, për sipërfaqen e fondit pyjor kombëtar në territorin e tyre, ku përfshihen mjetet në dispozicion, si dhe numri i personave të organizuar në njësitë e posaçme për këtë qëllim, duke koordinuar dhe zbatuar të gjitha përcaktimet e ligjit përkatës për mbrojtjen civile, vlerësimin e rrezikut nga fatkeqësitë dhe planin vendor për emergjencat civile;
+c) plani për parandalimin dhe shuarjen e zjarreve në fondin pyjor kombëtar miratohet nga këshilli bashkiak brenda muajit mars të çdo viti. Bashkitë koordinojnë këtë plan me detyrimet e ligjit përkatës për mbrojtjen civile, për të siguruar funksionimin e sistemit të monitorimit, të paralajmërimit të hershëm, të njoftimit dhe të alarmit në territorin e tyre. Subjektet, që ushtrojnë veprimtari në fondin pyjor kombëtar, detyrohen sipas ligjit përkatës për mbrojtjen civile të garantojnë mbrojtjen nga zjarret në këto sipërfaqe, duke hartuar/përditësuar planet për mbrojtjen e tyre nga zjarret, të harmonizuara me planet e jashtme për emergjencat civile të bashkisë dhe prefekturës, si edhe detyrimin për rregulloret e brendshme të tyre;
+ç) struktura përgjegjëse për pyjet në bashki organizon çdo vit fushata informimi, sensibilizimi dhe trajnimi për parandalimin e zjarreve në pyje. Këto fushata organizohen në nivel kombëtar edhe nga ministria dhe agjencia.
+5. Për shuarjen e zjarreve në pyje:
+a) njësitë e vetëqeverisjes vendore, komunitetet lokale dhe pronarët privatë ngrenë njësi të posaçme dhe bashkëpunojnë ndërmjet tyre, si dhe me strukturat e tjera shtetërore sipas detyrimeve të përcaktuara nga legjislacioni në fuqi. Struktura përgjegjëse për pyjet në bashki, përdoruesit e pyjeve përmes përfaqësuesve të tyre lokalë dhe pronarët privatë mbajnë të dhëna statistikore për zjarret në pyjet brenda territoreve të tyre dhe raportojnë pranë agjencisë shtetërore përgjegjëse për pyjet;
+b) shpenzimet për shuarjen e zjarreve përballohen nga struktura ose subjekti që ka në pronësi pyllin dhe nga buxheti i shtetit në rastin e një prone me rëndësi kombëtare, historike, kulturore, arkeologjike, ekologjike etj.
+6. Për masat e mbrojtjes së pyjeve nga rreziku i zjarrit zbatohen parashikimet e legjislacionit në fuqi për mbrojtjen nga zjarri dhe shpëtimin.
+7. Në rast konstatimi të pranisë së sëmundjeve e dëmtuesve ose dëmtimit të pyjeve nga shkaqe të tjera:
+a) të gjitha subjektet që zhvillojnë veprimtari në fondin pyjor kombëtar, duhet të njoftojnë menjëherë strukturën përgjegjëse për pyjet dhe agjencinë;
+b) strukturat përgjegjëse për pyjet, kur vërejnë se bimët dhe prodhimet pyjore janë të infektuara nga parazitë karantinorë dhe janë kryer shkelje të kuadrit ligjor në fuqi, bëjnë menjëherë bllokimin dhe njoftojnë jo vetëm pronarin ose përdoruesin, por edhe eprorët për arsyet e bllokimit;
+c) shpenzimet e luftimit të sëmundjeve, dëmtuesve dhe insekteve në fondin pyjor kombëtar, në rastet e dëmtimeve masive, përballohen nga buxheti i shtetit.
+8. Për mbrojtjen e fondit pyjor kombëtar ndalohet kullotja:
+a) në zonat e mbrojtura, me përjashtim të rasteve kur ligji për zonat e mbrojtura lejon kullotjen dhe kalimin e kafshëve në këto zona;
+b) në pyllëzimet e reja dhe në sipërfaqet me pyje të ulëta të ricunguara;
+c) në grumbujt pyjorë që kanë arritur moshën e pjekurisë, ku pritet të arrihet ripërtëritja natyrale;
+ç) në pyjet e shfrytëzuara ose në shfrytëzim e sipër deri sa të jetë bërë ripërtëritja natyrale e tyre.
+9. Kriteret dhe rregullat për kullotjen në pyje përcaktohen me udhëzim të ministrit.

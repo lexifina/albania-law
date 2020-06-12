@@ -1,0 +1,14 @@
+# Neni 38
+Procedimi në fondin pyjor
+1. Të drejtën e procedimit administrativ për zbatimin e këtij ligji e kanë strukturat përgjegjëse për pyjet, sipas këtij ligji, nëpërmjet inspektorëve përkatës të tyre, të cilët, kur evidentojnë shkelje:
+a) mbajnë procesverbal në momentin e konstatimit të kundërvajtjes, që nënshkruhet nga hartuesi i tij, dëshmitarët, nëse ka të tillë, dhe kundërvajtësi. Procesverbali është i vlefshëm edhe vetëm me nënshkrimin e hartuesit, sipas kompetencës territoriale;
+b) dokumentojnë shkeljet me të gjitha mjetet e mundshme, foto, regjistrime zanore e video;
+c) ndjekin procedurat e mëtejshme për dënimin e kundërvajtësit sipas ligjit dhe detyrimin për shpërblimin e dëmit deri në ekzekutimin e tyre.
+2. Inspektorët e pyjeve kanë të gjitha të drejtat për të hyrë, kontrolluar, realizuar procesin e inspektimit dhe për të marrë masat përkatëse të procedimit, si dhe të bllokimit apo të sekuestrimit në rastet e shkeljeve.
+3. Masa e gjobës përcaktohet, në çdo rast, në përpjesëtim të drejtë me rëndësinë dhe natyrën e kundërvajtjes së konstatuar dhe pasojat e ardhura, me rrethanat, përgjegjësinë dhe pjesëmarrjen në vendimmarrje të zyrtarit ose të kundërvajtësit dhe me faktin nëse kundërvajtësi është përsëritës apo jo.
+4. Në rast përsëritjeje të kundërvajtjes, kundërvajtësi dënohet me dyfishin e vlerës së gjobës.
+5. Në përputhje me rastet dhe nevojat, krahas dënimit kryesor me gjobë, merren edhe masa urgjente sipas ligjit përkatës për kundërvajtjet administrative dhe për inspektimin.
+6. Për subjektet e dënuara, struktura përgjegjëse për pyjet, sipas këtij ligji, paraqet kërkesën për heqjen e licencës përkatëse dhe autoritetet përgjegjëse janë të detyruara të marrin vendim për heqjen e licencës brenda pesë ditëve. Subjekti, të cilit i është hequr licenca, nuk mund të pajiset më me të njëjtën licencë për 5 vjetët në vijim.
+7. Për çdo rast kundërvajtjeje administrative apo vepre penale të kryer ndaj fondit pyjor kombëtar vlerësohet edhe dëmi real që është shkaktuar (llogaritur sipas tarifave përkatëse) dhe kërkohet zhdëmtimi i tij nga personi/subjekti përgjegjës sipas ligjit.
+8. Procedura dhe vendimmarrja për dënimin dhe masat përkatëse, ankimi dhe ekzekutimi rregullohen nga legjislacioni në fuqi për kundërvajtjet administrative dhe inspektimin. Përmbajtja dhe modelet e akteve për kundërvajtjet në pyje miratohen me urdhër të ministrit.
+9. Të ardhurat që vijnë nga ekzekutimi i vendimeve të dënimit dhe i masave përkatëse derdhen në fondin e pyjeve në buxhetin e institucionit përkatës, me detyrimin për t’u investuar përsëri në pyje.
