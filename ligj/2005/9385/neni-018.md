@@ -1,7 +1,0 @@
-# Neni 18
-Ndryshime në Kadastrën Kombëtare të Fondit Pyjor
-1. Pronari duhet të marrë miratimin e organeve të shërbimit pyjor përpara ndryshimeve (rritjen ose zvogëlimin e sipërfaqes dhe të vëllimit, ripyllëzimin) në fondin pyjor dhe në tokën pyjore që zotëron.
-2. Kur në fondin pyjor ose tokën pyjore, nga KRRTRSH-ja miratohen studime urbanistike për zhvillime turistike, ministria përgjegjëse për pyjet, pasi merr dijeni, bën shënimin përkatës në kadastrën e pyjeve.
-3. Pronarët e fondit pyjor dhe të tokës pyjore, brenda 6 muajve nga data e konstatimit, kanë detyrimin që, për ndryshimet e bëra në fondin pyjor të njoftojnë strukturën përgjegjëse për pyjet dhe kullotat në bashki dhe kjo e fundit zyrën kadastrale të ministrisë përgjegjëse për pyjet, për të bërë përditësimin në Kadastrën Kombëtare të Pyjeve, ndërsa për ndryshimet e ndodhura para hyrjes në fuqi të këtij ligji dhe të papërditësuara, brenda 6 muajve nga data e hyrjes në fuqi të ligjit.
-Ministria e Turizmit, Kulturës, Rinisë dhe Sporteve njofton ministrinë përgjegjëse për pyjet për miratimin e veprimtarive në fushën e turizmit, të cilat zhvillohen në fondin pyjor, në përputhje me ligjin “Për zhvillimin e zonave që kanë përparësi turizmin”.
-Me miratimin e lejes së ndërtimit për zhvillime turistike në sipërfaqet e fondit pyjor apo të tokës pyjore, këshilli i rregullimit të territorit të bashkisë njofton shërbimin pyjor për të bërë përditësimin në kadastrën e pyjeve.

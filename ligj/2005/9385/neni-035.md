@@ -1,6 +1,0 @@
-# Neni 35
-Veprimtaritë kërkimore e shkencore
-1. Veprimtaritë kërkimore e shkencore në fondin pyjor kombëtar, për pyjet e tokat pyjore, kullotat, gërryerjet, pyllëzimet e përmirësimet, ripërtëritjen natyrore e problemet gjenetike, farërat e fidanët pyjorë, zjarrjet dhe luftimin e sëmundjeve e të dëmtuesve, florën e faunën e egër, bimët mjekësore e tanifere natyrore, përgatitjen dhe zbatimin e programeve të monitorimit për zhvillimin e qëndrueshëm të pyjeve kryhen nga personat fizikë e juridikë, të cilët plotësojnë kërkesat dhe kushtet për zhvillimin e veprimtarive kërkimore e shkencore.
-2. Zhvillimi i veprimtarive kërkimore e shkencore, të parashikuara në pikën 1 të këtij neni, kryhet brenda fushave përkatëse të sektorit të pyjeve dhe të kullotave, në mbështetje të programeve kërkimore-shkencore kombëtare.
-3. Institucionet kërkimore, studimore dhe shkencore në fushën e pyjeve e të kullotave sigurojnë konsulencë, oponencë dhe asistencë teknike për ministrinë përgjegjëse për pyjet, në aspekte të veçanta, brenda fushës së veprimtarisë së tyre.
-4. Ministri përgjegjës për pyjet dhe ministri përgjegjës për shkencën harmonizojnë programimin dhe zbatimin e punës kërkimore në pyje e kullota, si dhe paraqesin kërkesat për buxhetin përkatës.
