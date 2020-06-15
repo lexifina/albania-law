@@ -1,0 +1,1 @@
+3. Me marrjen e njoftimit, organet përgjegjëse marrin menjëherë masat për bllokimin e përkohshëm të aseteve që ndodhen në territorin e Republikës së Shqipërisë, deri në miratimin e vendimit përkatës të Këshillit të Ministrave.

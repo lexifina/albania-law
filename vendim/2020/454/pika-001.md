@@ -1,0 +1,1 @@
+1. Ministria përgjegjëse për punët e jashtme, në vijim Ministria, me marrjen e njoftimit për vendosjen, ndryshimin dhe shfuqizimin e masave shtrënguese të vendosura, sipas shkronjave “b”, “c” dhe “ç”, të pikës 3, të nenit 3, të ligjit nr. 72/2019, “Për masat shtrënguese ndërkombëtare në Republikën e Shqipërisë”, në vijim ligji nr. 72/2019, njofton menjëherë organet përgjegjëse.
