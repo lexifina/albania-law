@@ -1,0 +1,1 @@
+2. Misioni i DPPPP-së është të sigurojë parandalimin e pastrimit të parave dhe të produkteve që burojnë nga veprat penale, si dhe parandalimin e financimit të terrorizmit, duke bashkëpunuar me institucionet/organet kompetente kombëtare e ndërkombëtare për të zbuluar dhe luftuar pastrimin e parave dhe financimin e terrorizmit.

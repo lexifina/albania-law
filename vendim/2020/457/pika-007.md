@@ -1,0 +1,1 @@
+7. DPPPP-ja ka stemën, logon dhe vulën zyrtare. Stema e drejtorisë ka shënimet “Republika e Shqipërisë, Ministria e (emri i ministrisë përgjegjëse), “Drejtoria e Përgjithshme e Parandalimit të Pastrimit të Parave”, në përputhje me përcaktimin e vendimit të Këshillit të Ministrave, për mënyrën e përdorimit të stemës së Republikës së Shqipërisë.

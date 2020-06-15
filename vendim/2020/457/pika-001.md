@@ -1,0 +1,1 @@
+1. Ky vendim parashikon mënyrën e organizimit dhe të funksionimit të Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave (në vijim DPPPP), si person juridik, publik, buxhetor, në varësi të ministrit përgjegjës për financat (në vijim ministri), me seli në Tiranë. DPPPP-ja financohet nga buxheti i shtetit dhe burime të tjera të ligjshme, sipas legjislacionit në fuqi.
