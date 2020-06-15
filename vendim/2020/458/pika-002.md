@@ -1,0 +1,1 @@
+2. Ky vendim zbatohet për vlerësimin e rreziqeve të pastrimit të parave dhe të financimit të terrorizmit, që lidhen me llojin e klientëve, të zonës gjeografike, të produkteve, të shërbimeve, të transaksioneve apo të kanaleve të veçanta të shpërndarjes, në rastet e zbatimit të vigjilencës së thjeshtuar.
