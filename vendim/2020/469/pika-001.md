@@ -1,0 +1,1 @@
+1. Shpalljen zonë e re për zhvillim të territorit, me sipërfaqe prej 36 387 (tridhjetë e gjashtë mijë e treqind e tetëdhjetë e shtatë) m2, si zonë e përshtatshme për zhvillimin e detyruar, sipas hartës dhe koordinatave bashkëlidhur këtij vendimi, në njësinë administrative Rrëshen, Bashkia Mirditë.
