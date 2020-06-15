@@ -1,0 +1,1 @@
+1. Përcaktimin e kritereve dhe të procedurave për hapjen dhe mbylljen e institucioneve arsimore private të arsimit parauniversitar, në të cilat zhvillohen edhe lëndë fetare apo ku mësimi zhvillohet edhe në gjuhë të huaj.

@@ -1,0 +1,1 @@
+6. Në përfundim të shqyrtimit, ministria përgjegjëse për arsimin pranon ose refuzon aplikimin. Nëse kërkesa refuzohet, subjekti nuk mund të aplikojë përsëri për atë vit shkollor, për hapjen e një institucioni arsimor privat të arsimit parauniversitar, në të cilin zhvillohen edhe lëndë fetare apo ku mësimi zhvillohet edhe në gjuhë të huaj.

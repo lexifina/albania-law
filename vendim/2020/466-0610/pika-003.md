@@ -1,0 +1,1 @@
+3. Aplikimet për hapjen dhe mbylljen e institucioneve private të arsimit parauniversitar, në të cilat zhvillohen edhe lëndë fetare apo ku mësimi zhvillohet edhe në gjuhë të huaj kryhen në portalin qeveritar e-Albania, sipas përcaktimeve të këtij vendimi.
