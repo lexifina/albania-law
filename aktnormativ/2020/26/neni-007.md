@@ -1,0 +1,3 @@
+# Neni 7
+1. Operatorët turistikë apo/ose agjencitë e udhëtimit, brenda 30 (tridhjetë) ditësh nga komunikimi i përmendur në pikën 2, të nenit 6, të këtij akti normativ, të rimbursojnë dokumentin e udhëtimit dhe/ose paketën e udhëtimit nëpërmjet lëshimit të një kuponi (voucher), që korrespondon me të njëjtën vlerë/shumë totale që duhet të kthehet, duke i ofruar klientit mundësinë e përdorimit të kuponit për të njëjtin shërbim ose një të ngjashëm, që i përket kontratës së ndërprerë, e cila do të përdoret brenda 1 (një) viti.
+2. Në rast se nuk realizohet shërbimi, sipas parashikimeve të pikës 1, të këtij neni, operatorët turistikë apo/ose agjencitë e udhëtimit t’i rimbursojnë klientit vlerën/shumë totale të paguar.

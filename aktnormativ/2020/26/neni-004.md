@@ -1,0 +1,2 @@
+# Neni 4
+Operatorët turistikë apo agjencitë e udhëtimit, që kanë lidhur kontrata ndërmjetësimi për shitjen e shërbimeve të ofruara nga furnizuesit e shërbimeve të udhëtimit me klientin dhe këto shërbime janë të parapaguara ose të rezervuara përpara shpalljes dhe gjatë gjendjes së fatkeqësisë natyrore, përjashtimisht detyrimeve të parashikuara shprehimisht në kontratë, të kryejnë rimbursimin e tyre, brenda 1 (një) viti nga hyrja në fuqi e këtij akti normativ.

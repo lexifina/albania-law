@@ -1,0 +1,2 @@
+# Neni 2
+Ky akt normativ ka për qëllim mbështetjen e sektorit të turizmit, për subjektet e përcaktuara në nenin 1, të këtij akti normativ, në të gjithë territorin e Republikës së Shqipërisë, duke ofruar një balancim dhe siguri ekonomike në funksion të përmbushjes së kërkesave të klientëve, në një mjedis të sigurt, gjatë kohëzgjatjes së gjendjes së fatkeqësisë natyrore të shkaktuar nga COVID-19, në përputhje edhe me parashikimet e nenit 488 e në vijim, të Kodit Civil.

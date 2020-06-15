@@ -1,0 +1,5 @@
+# Neni 6
+1. Në rast të pamundësisë së realizimit të kontratave të transportit të klientëve me mjetet e transportit ajror, si pasojë e masave kufizuese të ndërmarra për shkak të gjendjes së fatkeqësisë natyrore të shkaktuar nga COVID-19, nga/dhe aeroporti ndërkombëtar “Nënë Tereza”, Tiranë, transportit detar nga të gjitha portet në vend ose ujërave të brendshme, subjektet e parashikuara në nenet 3, 4 dhe 5, të këtij akti normativ, detyrohen të njoftojnë, sipas rastit, respektivisht agjencinë/transportuesin/akomoduesin ose organizatorin e paketave të udhëtimit/klientin për pamundësinë e zbatimit të kontratave të transportit, duke bashkëlidhur dokumentacionin që vërteton dokumentin e udhëtimit ose rezervimin e qëndrimit ose kontratat e paketave të udhëtimit.
+2. Ky komunikim bëhet brenda 30 (tridhjetë) ditësh nga:
+a) hyrja në fuqi e këtij akti normativ, për shërbimet/kontratat, të cilave iu ka përfunduar afati;
+b) data e planifikuar e nisjes apo e mbërritjes, për shërbimet/kontratat brenda afatit.

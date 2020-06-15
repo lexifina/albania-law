@@ -1,0 +1,2 @@
+# Neni 3
+Operatorët turistikë apo agjencitë e udhëtimit, të cilët, në mënyrë të drejtpërdrejtë ose si ndërmjetës, kanë marrë përsipër t’u ofrojnë klientëve çdolloj shërbimi udhëtimi apo një sërë shërbimesh të tjera ndihmëse, dhe këto shërbime janë të parapaguara ose të rezervuara përpara shpalljes dhe gjatë gjendjes së fatkeqësisë natyrore, përjashtimisht detyrimeve të parashikuara shprehimisht në kontratë, të kryejnë rimbursimin e tyre, brenda 1 (një) viti nga hyrja në fuqi e këtij akti normativ.
