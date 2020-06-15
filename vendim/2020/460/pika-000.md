@@ -1,0 +1,2 @@
+Miratimin e marrëveshjes, ndërmjet qeverisë së Republikës së Shqipërisë, përfaqësuar nga Këshilli i Ministrave i Republikës së Shqipërisë, dhe qeverisë së Konfederatës Zvicerane, përfaqësuar nga Sekretariati i Shtetit për Çështjet Ekonomike, lidhur me ofrimin e ndihmës teknike dhe financiare për projektin “Menaxhimi i mbetjeve të ngurta në Qarkun e Beratit”, sipas tekstit që i bashkëlidhet këtij vendimi.
+Ky vendim hyn në fuqi pas botimit në Fletoren Zyrtare.
