@@ -1,0 +1,1 @@
+1. Ushtaraku aktiv i Forcave të Armatosura që, për shkak të detyrës, emërohet ose transferohet larg vendbanimit dhe nuk është trajtuar me banesë ose me kredi nga Ministria e Mbrojtjes dhe kur ai ose ndonjë pjesëtar i familjes nuk ka banesë në pronësi në vendin e punës, përfiton kompensim për qira banese deri në 3 (tre) vjet.

@@ -1,0 +1,1 @@
+5. Ushtarakët aktivë të Forcave të Armatosura gëzojnë të drejtën e kompensimit financiar në vlerë në lekë, për trajtimin me ushqim vetëm për vaktin e drekës, sipas vendimit nr. 88, datë 28.1.2008, të Këshillit të Ministrave, “Për miratimin e normave të trajtimit me ushqim të efektivave ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë”, për ditët efektive të punës.

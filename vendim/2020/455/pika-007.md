@@ -1,0 +1,1 @@
+7. Përzgjedhja e formës së trajtimit me ushqim ose e kompensimit në vlerë në lekë për ushtarakët aktivë të Forcave të Armatosura, sipas pikës 6, të këtij vendimi, përcaktohet me urdhër të ministrit të Mbrojtjes.

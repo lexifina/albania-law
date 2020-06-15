@@ -1,0 +1,1 @@
+8. Masa e vlerës për kompensimin e ushqimit përcaktohet çdo vit me urdhër të ministrit të Mbrojtjes, në bazë të kostos së ushqimit të gatuar dhe të vlerës kalorike të përcaktuar në vendimin nr. 88, datë 28.1.2008, të Këshillit të Ministrave, “Për miratimin e normave të trajtimit me ushqim të efektivave ushtarakë të Forcave të Armatosura të Republikës së Shqipërisë”.
