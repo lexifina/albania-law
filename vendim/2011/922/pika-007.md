@@ -1,1 +1,0 @@
-7. Vendimi nr.108, datë 11.2.2005 i Këshillit të Ministrave “Për mënyrën e organizimit, të funksionimit dhe pagat e punonjësve të Drejtorisë së Përgjithshme të Parandalimit të Pastrimit të Parave”, të ndryshuar, shfuqizohet.

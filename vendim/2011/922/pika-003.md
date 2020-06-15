@@ -1,1 +1,0 @@
-3. DPPPP-ja përmbush objektivat, kryen detyrat dhe ushtron përgjegjësitë në përputhje me përcaktimet e bëra në ligjin nr.9917, datë 19.5.2008 “Për parandalimin e pastrimit të parave dhe financimit të terrorizmit”, të ndryshuar, dhe në ligjin nr.9258, datë 15.7.2004 “Për masat kundër financimit të terrorizmit”.
