@@ -1,0 +1,1 @@
+2. Procesi i paraqitjes, trajtimit të shprehjes së interesit dhe verifikimit të plotësimit të kushteve ligjore nga kandidatët, bëhet duke u bazuar në meritat e kandidatëve dhe duke respektuar parimet e përgjithshme të procedurës administrative.

@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për paraqitjen dhe për trajtimin e shprehjeve të interesit, si dhe verifikimin e plotësimit të kushteve ligjore për anëtarë të Bordit Disiplinor të Dhomës Kombëtare të Noterisë.

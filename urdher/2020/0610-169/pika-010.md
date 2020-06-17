@@ -1,0 +1,1 @@
+10. Ngritja e grupeve të brendshme të punës dhe organizimi i punës për kryerjen e procesit të vlerësimit të shprehjeve të interesit, deri në vendimmarrje, përcaktohen në përputhje me aktet e brendshme të titullarëve ose të organeve drejtuese të institucioneve përkatëse.

@@ -1,0 +1,1 @@
+4. Kërkesa për shprehje interesi të kandidatëve publikohet në faqen zyrtare të Ministrisë së Drejtësisë, të Dhomës Kombëtare të Noterisë dhe në atë të Shkollës së Magjistraturës për kandidatin respektiv, si dhe në Buletinin e Njoftimeve Zyrtare të Republikës së Shqipërisë dhe qëndron e hapur për një periudhë prej 15 ditësh nga data e shpalljes.
