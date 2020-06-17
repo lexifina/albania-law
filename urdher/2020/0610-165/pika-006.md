@@ -1,0 +1,1 @@
+6. Dokumentacioni i paraqitur pranë Dhomës Kombëtare të Noterisë dhe Ministrisë së Drejtësisë shqyrtohet brenda 15 ditëve nga administrimi dhe në rast se, konstatohet se dokumentacioni nuk është i plotë, kandidatit për noter i lihet një afat 10-ditor për plotësim.

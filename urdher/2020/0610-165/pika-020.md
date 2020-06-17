@@ -1,0 +1,1 @@
+20. Marrëdhënia e punës ndërmjet kandidatit për noter dhe noterit pranë të cilit punon është me kohë të plotë dhe rregullohet sipas parashikimeve të Kodit të Punës dhe legjislacionit në fuqi për sigurimet shoqërore.

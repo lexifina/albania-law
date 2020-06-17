@@ -1,0 +1,1 @@
+25. Brenda 30 ditësh pas përfundimit të periudhës 2-vjeçare, noteri jep mendim me shkrim lidhur me aftësitë profesionale. Ky mendim i dërgohet i mbyllur në zarf Ministrisë së Drejtësisë, e cila e depoziton në dosjen e kandidatit. Ministria e Drejtësisë i jep të interesuarit konfirmimin e periudhës së qëndrimit si kandidat për noter.

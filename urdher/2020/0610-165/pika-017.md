@@ -1,0 +1,1 @@
+17. Në rast se kandidati nuk e respekton orarin e parashikuar më sipër, noteri vë në dijeni Ministrinë e Drejtësisë dhe Dhomën Kombëtare të Noterisë, të cilat shqyrtojnë rastin dhe kur shkelja vlerësohet e rëndë dhe e përsëritur, Ministria e Drejtësisë e paralajmëron për ndërprerje të procesit të qëndrimit si kandidat për noter dhe bën shënimet në regjistrin e kandidatëve.

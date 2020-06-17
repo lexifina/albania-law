@@ -1,0 +1,1 @@
+19. Gjatë periudhës së trajnimit praktik pranë noterit me të cilin ka nënshkruar kontratën, kandidati për noter shkëputet nga çdo marrëdhënie tjetër pune, përveç asaj shkencore e mësimdhënëse, me synim rritjen e kualifikimit të tij profesional.

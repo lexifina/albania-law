@@ -1,0 +1,1 @@
+14. Në rast se mungesat pa arsye janë për një kohë më të shkurtër se 30 ditë, ato gjatë gjithë periudhës 2-vjeçare nuk mund të jenë më shumë se 3 muaj në total. Në rast të kundërt koha e qëndrimit si kandidat nuk do të njihet për efekt të konkurrimit, plotësimi i saj nuk mund të bëhet dhe ai nuk mund të vijojë më të qëndrojë si kandidat pranë noterit.

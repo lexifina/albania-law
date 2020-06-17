@@ -1,0 +1,1 @@
+10. Në rast se masa disiplinore e dhënë është ankimuar nga noteri dhe nuk ka përfunduar shqyrtimi i saj administrativ ose gjyqësor, kandidati për noter do të vijojë të qëndrojë pranë këtij noteri deri sa të përfundojë procesi dhe masa të marrë formë të prerë.

@@ -1,0 +1,1 @@
+4. Kandidati për noter regjistrohet në regjistrin përkatës të Ministrisë së Drejtësisë dhe të Dhomës Kombëtare të Noterisë dhe depoziton dokumentacionin e kërkuar, jo më vonë se 30 ditë nga data e fillimit të punës si kandidat për noter pranë një noteri.

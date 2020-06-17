@@ -1,0 +1,1 @@
+21. Noteri siguron që të gjithë kandidatët e punësuar pranë tij marrin një trajnim të përshtatshëm dhe gjithëpërfshirës praktik. Nën mbikëqyrjen dhe drejtimin e noterit, kandidatët fitojnë njohuri dhe aftësi praktike mbi të gjitha aspektet e veprimtarisë noteriale, mbi fushat e së drejtës të lidhura me noterinë, si dhe njihen me rregullat etiko-profesionale të profesionit.

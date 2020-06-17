@@ -1,0 +1,1 @@
+3. Noteri depoziton në Dhomën Kombëtare të Noterisë dhe në Ministrinë e Drejtësisë një kopje të kontratës dhe dokumentacionin ligjor të kërkuar për kandidatët për noterë, brenda 15 ditëve nga momenti i lidhjes së saj me kandidatin për noter.

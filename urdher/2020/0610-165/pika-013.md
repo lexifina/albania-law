@@ -1,0 +1,1 @@
+13. Në rast se gjatë periudhës që personi do të qëndrojë si kandidat nuk paraqitet në zyrën noteriale ku është punësuar për një periudhë në vazhdim më të gjatë se 30 ditë, pa asnjë arsye, atëherë koha që ai ka qëndruar si kandidat nuk do t’i njihet për efekt të konkurrimit dhe plotësimi i saj nuk mund të bëhet.

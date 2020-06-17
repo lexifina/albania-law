@@ -1,0 +1,1 @@
+11. Në rast se gjatë periudhës së qëndrimit si kandidat për noter sëmuret për një afat pa ndërprerje nga 20 ditë deri në 5 muaj, periudha e mëparshme si kandidat njihet, por koha e qëndrimit si kandidat zgjatet për aq kohë sa ai ka qenë i sëmurë.
