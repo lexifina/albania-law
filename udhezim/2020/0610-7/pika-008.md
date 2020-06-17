@@ -1,0 +1,1 @@
+8. Noteri jep pëlqimin për transferimin e zëvendësnoterit jo më vonë se 10 ditë nga data e marrjes së kërkesës së ministrit të Drejtësisë. Në këtë rast, transferimi vendoset pa pëlqimin e zëvendësnoterit.

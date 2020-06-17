@@ -1,0 +1,1 @@
+7. Ministri i Drejtësisë i kërkon pëlqimin për transferimin e zëvendësnoterit, noterëve që përmbushin kriteret e përgjithshme për krijimin e vendit të zëvendësnoterit sipas vendimit të Asamblesë së Përgjithshme të Dhomës Kombëtare të Noterisë, si dhe nuk asistohen nga një zëvendësnoter.

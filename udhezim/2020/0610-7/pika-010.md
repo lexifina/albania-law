@@ -1,0 +1,1 @@
+10. Në rast se asnjë nga noterët nuk shpreh interesin për transferimin e zëvëndësnoterit ose nuk jep pëlqimin për t’u transferuar, si edhe në rastet kur zëvendësnoteri nuk lidh kontratën e punës brenda afatit të përcaktuar në pikën 7, të këtij udhëzimi, zëvëndësnoteri vendoset në listën e pritjes të krijuar sipas pikës 4, të nenit 9, të ligjit për noterinë.

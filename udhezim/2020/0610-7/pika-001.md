@@ -1,0 +1,1 @@
+1. Zëvendësnoteri ka të drejtë transferohet pranë një noteri tjetër për të asistuar në ushtrimin e veprimtarisë noteriale në rastet e mbylljes së zyrës noteriale pranë së cilës zëvendësnoteri ushtron funksionin, si dhe mosplotësimit të vendit vakant të noterit, sipas procedurës dhe rregullave të përcaktuara në këtë udhëzim.

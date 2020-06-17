@@ -1,0 +1,1 @@
+6. Në rastet kur asnjë noter nuk ka depozituar shprehjen e interesit për transferimin e zëvendësnoterit, sipas pikës 4 të këtij udhëzimi, ministri i Drejtësisë, mund t’i kërkojë një noteri të të njëjtit rreth gjyqësor ose të një rrethi tjetër, të japë pëlqimin për transferimin e zëvendësnoterit.
