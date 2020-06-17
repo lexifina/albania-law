@@ -1,0 +1,1 @@
+8. Noteri, i cili paraqet kërkesë për transferimin e veprimtarisë noteriale duhet të ketë ushtruar për jo më pak se 5 vjet veprimtarinë në juridiksionin ekzistues dhe me kusht që në momentin e transferimit të jetë jo më shumë se 65 vjeç dhe të mos ketë masë disiplinore në fuqi ndaj tij.

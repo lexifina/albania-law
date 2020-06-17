@@ -1,0 +1,1 @@
+18. Në rastin e zëvendësnoterëve që aplikojnë për marrjen e licencës si noter, që plotësojnë kriteret ligjore, kanë të njëjtën vjetërsi pune në profesion dhe pikë të barabarta në provimin e kualifikimit, fitues shpallet kandidati që ka vendbanimin apo që vendbanimi i të cilit ndodhet më pranë bashkisë ku është evidentuar vendi vakant.

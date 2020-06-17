@@ -1,0 +1,1 @@
+11. Ministri i Drejtësisë urdhëron transferimin e veprimtarisë së noterit brenda 30 ditëve nga përfundimi i afatit për paraqitjen e shprehjes së interesit, nëse plotësohen kriteret për transferim, të përcaktuara në ligjin nr. 110/2018, “Për noterinë”.

@@ -1,0 +1,1 @@
+23. Në rast se zëvendësnoteri i përgjigjet thirrjes për shprehje interesi, duke aplikuar për një vend vakant dhe plotëson kriteret ligjore, ministri i Drejtësisë urdhëron dhënien e licencës zëvendësnoterit, brenda 30 ditëve nga përfundimi i afatit për paraqitjen e shprehjes së interesit.

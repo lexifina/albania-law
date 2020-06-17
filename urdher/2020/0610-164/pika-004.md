@@ -1,0 +1,1 @@
+4. Shpallja e çdo vendi vakant kryhet në Buletinin e Njoftimeve Zyrtare dhe në faqen zyrtare të ministrisë dhe të Dhomës Kombëtare të Noterisë, jo më vonë se 30 ditë nga data e krijimit të pozicionit, shoqëruar me dokumentacionin që duhet t’i bashkëlidhet kërkesës.

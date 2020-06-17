@@ -1,0 +1,1 @@
+14. Zëvendësnoteri paraqet kërkesë me shkrim pranë ministrit të Drejtësisë dhe Dhomës Kombëtare të Noterisë, brenda 30 ditëve nga publikimi i vendeve vakante në Buletinin e Njoftimeve Zyrtare, Ministrinë e Drejtësisë dhe Dhomën Kombëtare të Noterisë, duke përcaktuar dhe preferencën gjeografike për vendin vakant për të cilin shpreh interesin.

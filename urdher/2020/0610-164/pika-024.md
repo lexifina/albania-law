@@ -1,0 +1,1 @@
+24. Për zëvendësnoterët që refuzojnë aplikimin në një nga vendet vakante, Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë harton një listë, e cila nënshkruhet nga Sekretari i Përgjithshëm i Ministrisë së Drejtësisë.

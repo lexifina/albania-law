@@ -1,0 +1,1 @@
+10. Në rastin e kandidatëve që aplikojnë për transferim në të njëjtën degë vendore, që plotësojnë kriteret ligjore dhe që kanë të njëjtën vjetërsi pune në profesion, fitues shpallet kandidati vendbanimi i të cilit ndodhet më pranë bashkisë ku është evidentuar vendi vakant.

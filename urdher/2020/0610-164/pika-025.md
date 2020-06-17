@@ -1,0 +1,1 @@
+25. Ministria e Drejtësisë i përcjell Dhomës Kombëtare të Noterisë listën e zëvendësnoterëve që përjashtohen nga e drejta për shprehje interesi, për një vend vakant si noter për një periudhë 2-vjeçare.

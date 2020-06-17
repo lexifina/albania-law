@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë, në Ministrinë e Drejtësisë, organizon punën për regjistrimin e kërkesave dhe informon të interesuarit lidhur me afatin për plotësimin e dokumentacionit të nevojshëm që i bashkëlidhet kërkesës.

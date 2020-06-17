@@ -1,0 +1,1 @@
+19. Ministri i Drejtësisë urdhëron dhënien e licencës zëvendësnoterit brenda 30 ditëve nga përfundimi i afatit për paraqitjen e shprehjes së interesit, nëse plotësohet kriteret e përcaktuara në ligjin nr. 110/2018, “Për noterinë”.

@@ -1,0 +1,1 @@
+13. Vendi vakant, që nuk mund të plotësohet nëpërmjet transferimit, për shkak të mungesës së kërkesave apo mosplotësimit të kushteve ligjore, plotësohet nëpërmjet dhënies së licencës një zëvendësnoteri.
