@@ -1,0 +1,1 @@
+7. Për marjen e arkivit në dorëzim, personi (ish-noteri, personi i ngarkuar prej tij ose personi që ka në ruajtje arkivin), njoftohet të paktën 10 ditë përpara për ditën dhe orën e dorëzimit dhe i jepet edhe një kopje e urdhrit të ministrit.

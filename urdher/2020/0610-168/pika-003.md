@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Çështjeve Rregullatore të Drejtësisë në Ministrinë e Drejtësisë mund të kërkojë bashkëpunimin e Dhomën Kombëtare të Noterisë për të evidentuar nëse arkivat janë marrë në dorëzim nga noterët dhe noterin që ka marrë në dorëzim arkivën. Dhoma Kombëtare e Noterëve nëse ka dijeni, informon nëse arkivat mbahen në ngarkim nga persona të tretë.

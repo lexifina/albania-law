@@ -1,0 +1,1 @@
+5. Drejtoria e Përgjithshme e Çështjeve Rregullatore të Drejtësisë kërkon bashkëpunimin e Zyrave të Gjendjes Civile për përcjelljen e çertifikatave familjare të ish-noterëve me qëllim identifikimin e personave të cilët mund të kenë dijeni apo kanë në ngarkim arkivën e padorëzuar.

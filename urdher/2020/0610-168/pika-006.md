@@ -1,0 +1,1 @@
+6. Drejtoria e Përgjithshme e Çështjeve Rregullatore të Drejtësisë pas evidentimit të listës së plotë të ish-noterëve që nuk kanë dorëzuar arkivën noteriale, brenda 45 ditëve pune, dërgon njoftimin, me postë të porositur, për dorëzimin prej tyre apo prej personave të tretë, në mënyrë vullnetare të arkivës përkatëse.

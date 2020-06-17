@@ -1,0 +1,1 @@
+11. Me administrimin e urdhrave përkatës të ekzekutimit, nxirret urdhri për ngritjen e komisioneve për marrjen në dorëzim të arkivave noteriale me përfaqësues nga Dhoma Kombëtare e Noterisë dhe degët vendore dhe dorëzimin e tyre noterëve të caktuar sipas parashikimeve ligjore në fuqi.

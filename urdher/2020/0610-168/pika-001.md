@@ -1,0 +1,1 @@
+1. Drejtoria e Përgjithshme e Çështjeve Rregullatore të Drejtësisë në Ministrinë e Drejtësisë kryen verifikimin në regjistrin e noterëve, duke evidentuar në një listë të gjithë noterët të cilëve iu është hequr licenca e ushtrimit të profesionit të noterit dhe për të cilët në regjistër nuk ka të dhëna mbi noterin që ka marrë në dorëzim arkivin.

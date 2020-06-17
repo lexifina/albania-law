@@ -1,0 +1,1 @@
+9. Në rast moszbatimi vullnetar, urdhri i ministrit të Drejtësisë për dorëzimin e dokumentacionit që përmban arkivi i noterit, përbën titull ekzekutiv dhe ngarkohet zyra e përmbarimit me ekzekutimin e tij sipas parashikimeve në ligjin për noterinë.

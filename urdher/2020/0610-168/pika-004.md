@@ -1,0 +1,1 @@
+4. Drejtoria e Përgjithshme e Çështjeve Rregullatore të Drejtësisë, në bashkëpunim me Dhomën Kombëtare të Noterisë, identifikon noterët që kanë ndërruar jetë, trashëgimtarët e tyre ligjorë apo testamentarë, të cilët mund të kenë dijeni apo kanë në ngarkim arkivën e padorëzuar.

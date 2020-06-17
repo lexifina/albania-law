@@ -1,0 +1,1 @@
+2. Sektori i Arkiv-Protokollit në Ministrinë e Drejtësisë kryen verifikimet përkatëse dhe nxjerr nga arkiva të gjithë urdhrat e ministrit të Drejtësisë për heqjen e licencës për ushtrimin e profesionit të noterit, të cilët përmbajnë dhe detyrimin e dorëzimit të arkivit dhe vulave noteriale, si dhe për marrjen në dorëzim të arkivave të ish-noterëve.
