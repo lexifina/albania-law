@@ -1,0 +1,1 @@
+3. Zyra ku noteri do të ofrojë shërbimin e noterisë, merret në një ndërtesë të paluajtshme private apo publike, me sipërfaqe të mjaftueshme për të lejuar ushtrimin normal të veprimtarisë, sipas përcaktimeve ligjore.

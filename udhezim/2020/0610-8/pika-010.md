@@ -1,0 +1,1 @@
+10. Për kontrollin e zbatimit të përcaktimeve që lidhen me garantimin e infrastrukturës për noterët që ofrojnë shërbimin, sipas parashikimeve të këtij udhëzimi, ngarkohet Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë.

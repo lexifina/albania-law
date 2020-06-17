@@ -1,0 +1,1 @@
+4. Objekti i zyrës noteriale mund të merret me qira, sipas afatit të përcaktuar për ofrimin e shërbimeve noteriale në një bashki tjetër, në përputhje me urdhrin e ministrit të Drejtësisë për caktimin e noterit.

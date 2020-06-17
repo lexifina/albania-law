@@ -1,0 +1,1 @@
+1. Qëllimi i këtij udhëzimi është përcaktimi i rregullave për garantimin e infrastrukturës për ushtrimin e veprimtarisë noteriale për noterët e emëruar në një bashki të caktuar, që kryejnë deri në katër ditë shërbim në muaj në një bashki tjetër, brenda të njëjtit rreth gjyqësor, në të cilën nuk vepron asnjë zyrë noteriale, si dhe mënyrën e përballimit të shpenzimeve të tyre.

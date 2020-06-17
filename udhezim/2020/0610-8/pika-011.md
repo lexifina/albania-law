@@ -1,0 +1,1 @@
+11. Financimi i shpenzimeve lidhur me garantimin e zyrës noteriale, si dhe pajisjet e nevojshme për ushtrimin e veprimtarisë noteriale, sipas përcaktimeve të këtij udhëzimi, mbulohen nga buxheti i Dhomës Kombëtare të Noterisë.

@@ -1,0 +1,1 @@
+9. Dosjet, dokumentet dhe shtojcat e tyre duhet të ruhen me qëllim që të sigurohen nga vjedhja, zjarri apo dëmtimi nga ujërat apo lagështira. Sigurimi i zyrës noteriale duhet të jetë në pajtim me dispozitat ligjore, të cilat rregullojnë mbrojtjen nga zjarri.

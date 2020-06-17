@@ -1,0 +1,1 @@
+2. Për të mundësuar ushtrimin e veprimtarisë në përputhje me kërkesat e ligjit për noterinë, çdo noter i cili caktohet për të kryer shërbimet e noterisë në një bashki tjetër, brenda të njëjtit rreth gjyqësor, duhet të ketë një zyrë, vendndodhja e së cilës duhet të jetë brenda territorit të bashkisë të përcaktuar në urdhrin e ministrit të Drejtësisë.
