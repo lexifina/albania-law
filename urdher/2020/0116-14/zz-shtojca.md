@@ -16,12 +16,12 @@ c) shpallja e thirrjes u dërgohet institucioneve, të cilat kanë për detyrim 
 d) procesi i aplikimit fillon në datën 7 shkurt 2020 dhe përfundon në 29 shkurt 2020;
 e) ministri i Arsimit, Sportit dhe Rinisë ka të drejtë të zgjasë afatin e aplikimit.
 3. Kriteret e aplikimit:
-a) aplikantët duhet të kenë mbushur 21 vjeç deri në datën 9 mars 2020, si dhe të jenë deri në 26 vjeç në datën 9 mars 2020 (fillimi i programit të praktikës);
-b) aplikantët duhet të jenë minimalisht të diplomuar në programet e studimit të ciklit të parë Bachelor, deri në datën 9 mars 2020;
+a) aplikantët duhet të kenë mbushur 21 vjeç deri në datën 12 qershor 2020, si dhe të jenë deri në 26 vjeç në datën 12 qershor 2020, (fillimi i programit të praktikës);
+b) aplikantët duhet të jenë minimalisht të diplomuar në programet e studimit të ciklit të parë Bachelor, deri në datën 12 qershor 2020;
 c) aplikantët nuk duhet të kenë qenë pjesë e programit në thirrjet e mëparshme, pasi qëllimi i tij është ofrimi i një përvoje kualifikuese, që ndikon në zhvillimin e aftësive profesionale e të shprehive të tyre praktike, në njohje me sistemin administrativ publik.
 4. Kohëzgjatja e programit:
 a) Programi Kombëtar i Praktikës së Punës, “Thirrja e pestë”, do të zgjasë 3 (tre) muaj;
-b) programi fillon më datën 9 mars 2020 dhe përfundon më datën 9 qershor 2020.
+b) Programi fillon më datë 12 qershor 2020 dhe përfundon më datë 12 shtator 2020.
 5. Procesi i aplikimit:
 a) aplikimi kryhet në platformën zyrtare të programit: http://praktika.arsimi.gov.al/;
 b) në platformën e aplikimit publikohen profilet studimore të kërkuara nga institucionet pjesëmarrëse në program, me qëllim orientimin e kandidatëve.
