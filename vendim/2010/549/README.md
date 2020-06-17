@@ -2,7 +2,7 @@
 
 Official source: [Vendimi i Këshillit të Ministrave nr. 549, datë 7.7.2010](https://qbz.gov.al/api/v1/acts/15201); [QBZ versions](https://qbz.gov.al/api/v1/acts/15201/versions).
 
-Status of this text: `official consolidated version 2`, applying from 2020-01-30; after QBZ act 21093 (nr. 76).
+Status of this text: `official consolidated version 3`, applying from 2020-06-17; after QBZ act 62736 (nr. 477).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 
