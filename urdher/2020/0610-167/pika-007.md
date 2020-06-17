@@ -1,0 +1,1 @@
+7. Kur ndaj noterit është dhënë masë disiplinore për heqje të licencës apo ka ndërruar jetë, vulat nxirren jashtë përdorimit me procesverbal nga një komision i përcaktuar me urdhër të ministrit të Drejtësisë ku përfshihet një nëpunës i Ministrisë së Drejtësisë, një anëtar i degës vendore ku noteri ka qenë anëtar, si dhe një përfaqësues nga Dhoma Kombëtare e Noterisë.

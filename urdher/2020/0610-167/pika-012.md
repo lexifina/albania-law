@@ -1,0 +1,1 @@
+12. Komisioni i marrjes në dorëzim të arkivës merr në dorëzim, me procesverbal të nënshkruar nga të gjithë anëtarët dhe noteri, regjistrat dhe aktet noteriale, pjesë të arkivit të noterit dhe vulat përkatëse.

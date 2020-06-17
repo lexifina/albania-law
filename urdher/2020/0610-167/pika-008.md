@@ -1,0 +1,1 @@
+8. Kur ndaj noterit është dhënë masë disiplinore pezullim nga detyra për një periudhë nga një deri në pesë vjet, komisioni i marrjes në dorëzim të arkivës merr në dorëzim, me procesverbal, vulën e njomë dhe vulën e thatë të noterit me qëllim ruajtjen në ambientet e Ministrisë së Drejtësisë.

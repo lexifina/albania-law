@@ -1,0 +1,1 @@
+3. Për marrjen e regjistrave, akteve noteriale dhe vulave, personi (ish-noteri; personi i ngarkuar prej tij përmes prokurës së posaçme apo personi që ka në ruajtje arkivin), njoftohet të paktën 5 ditë përpara për ditën dhe orën e dorëzimit dhe i jepet edhe një kopje e urdhrit të ministrit përmes shërbimit postar dhe/ose në rrugë elektronike.

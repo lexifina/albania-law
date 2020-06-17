@@ -1,0 +1,1 @@
+10. Në rast moszbatimi vullnetar, urdhri i ministrit të Drejtësisë për dorëzimin e akteve noteriale të arkivit të noterit, regjistrave dhe vulave të përmendura në këtë urdhër, përbën titull ekzekutiv.

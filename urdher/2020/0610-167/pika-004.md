@@ -1,0 +1,1 @@
+4. Kur personit nuk i dihet vendbanimi, si dhe kur njoftimi nuk mund të kryhet në asnjë prej vendeve të përcaktuara në nenin 151 të Kodit të Procedurës Administrative, kryhet njoftimi publik sipas parashikimit të nenit 162 të Kodit të Procedurës Administrative.

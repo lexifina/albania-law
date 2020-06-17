@@ -1,0 +1,1 @@
+2. Ministri i Drejtësisë përcakton me urdhër ngritjen e një komisioni për marrjen në dorëzim të regjistrave, akteve noteriale dhe vulave me përfaqësues nga Ministria e Drejtësisë dhe Dega Vendore e Noterisë, anëtar i së cilës ishte noteri.
