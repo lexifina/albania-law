@@ -1,0 +1,1 @@
+6. Në rastin e vulave të reja, për shkak se kanë humbur të mëparshmet, matrica e vulës së re duhet të ketë detyrimisht një vendosje të ndryshme topografike të mbishkrimeve të saj, që e bëjnë të dallueshme nga vula e mëparshme.

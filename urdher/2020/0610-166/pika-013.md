@@ -1,0 +1,1 @@
+13. Në rastin e noterëve të transferuar ose të cilëve u jepet vula pas përfundimit të kohës së pezullimit nga detyra, Ministria e Drejtësisë njofton me shkrim Dhomën Kombëtare të Noterisë për detyrimin e drejtimit të procesit dhe për të caktuar përfaqësuesit e saj 10 ditë përpara ditës kur noterëve do t’u dorëzohet vula.

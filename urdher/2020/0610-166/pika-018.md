@@ -1,0 +1,1 @@
+18. Në çdo rast, modeli i vulave, emri dhe firma e çdo noteri i dërgohet për depozitim e model ministrisë përgjegjëse për rendin publik, ministrisë përgjegjëse për punët e jashtme, prokurorive dhe gjykatave.

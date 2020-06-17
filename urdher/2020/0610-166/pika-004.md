@@ -1,0 +1,1 @@
+4. Përgatitja e vulave bëhet nga subjekte shtetërore të specializuara dhe kur kjo nuk është e mundur nga subjekte private shqiptare ose të huaja, që e ushtrojnë veprimtarinë e përgatitjes së vulave me leje të nxjerrë nga organet kompetente.

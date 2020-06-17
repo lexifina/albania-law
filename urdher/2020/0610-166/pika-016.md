@@ -1,0 +1,1 @@
+16. Drejtori i drejtorisë përgjegjëse për veprimtarinë e noterisë në Ministrinë e Drejtësisë kërkon nga personat të firmosin dhe të vulosin me vulat e reja në fletë të bardha format “A4”, të cilat nevojiten për t’u depozituar në dosjen personale dhe për t’iu dërguar institucioneve të ndryshme shtetërore si model krahasues.

@@ -1,0 +1,1 @@
+17. Institucioneve qendrore më të rëndësishme, si dhe subjekteve të tjera që vlerësohen nga Ministri i Drejtësisë se kanë lidhje të ngushtë me veprimtarinë e noterisë u dërgohet zyrtarisht, për çdo noter, një fletë e bardhë e nënshkruar dhe e vulosur me vulat e tij.

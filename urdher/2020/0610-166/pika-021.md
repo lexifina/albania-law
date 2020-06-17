@@ -1,0 +1,1 @@
+21. Në rast se gjatë kontrolleve konstatohet se vula e noterit përdoret nga persona të tretë, me përjashtim të zëvendësnoterit, përfaqësuesit e Ministrisë së Drejtësisë të ngarkuar me kontrollin, pasqyrojnë faktin në procesverbalin përkatës.

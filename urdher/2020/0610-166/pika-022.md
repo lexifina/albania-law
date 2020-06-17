@@ -1,0 +1,1 @@
+22. Në rast se shkelet detyrimi i ruajtjes dhe i përdorimit të vulës, ndaj noterit dhe/ose zëvendësnoterit, në varësi të rëndësisë së shkeljes së konstatuar, Ministria e Drejtësisë dhe/ose Bordi Disiplinor i Noterëve ka të drejtë të marrë një nga masat disiplinore, sipas parashikimeve përkatëse të ligjit për noterinë.

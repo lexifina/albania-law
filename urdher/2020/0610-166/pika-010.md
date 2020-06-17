@@ -1,0 +1,1 @@
+10. Në rast të mosrespektimit të afatit të sipërpërmendur nga Dhoma Kombëtare e Noterisë, procesi i përgatitjes së vulave drejtohet dhe organizohet nga Ministria e Drejtësisë, në përputhje me rregullat e parashikuara në këtë urdhër.
