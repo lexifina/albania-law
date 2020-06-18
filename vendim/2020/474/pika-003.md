@@ -1,0 +1,1 @@
+3. Drejtoria e Përgjithshme e Tatimeve, pas paraqitjes së mandatit të arkëtimit që vërteton pagesën e gjobës, të përkthyer e të noterizuar, kryen rimbursimin e gjobës në të njëjtën masë (ekuivalente në lekë) në llogarinë bankare të përcaktuar nga individi përfitues.

@@ -1,0 +1,1 @@
+4. Në rast dyshimi apo konstatimi të një parregullsie në dokumentet e paraqitura për rimbursim të gjobës, Drejtoria e Përgjithshme e Tatimeve kërkon informacion në Ministrinë për Evropën dhe Punët e Jashtme dhe Ministrinë e Brendshme.
