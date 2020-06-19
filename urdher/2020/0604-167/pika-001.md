@@ -1,0 +1,1 @@
+1. Miratimin e rregullores “Mbi vazhdueshmërinë e vlefshmërisë ajrore të avionit dhe produkteve, pjesëve dhe pajisjeve aeronautike dhe mbi miratimin e organizatave dhe personelit të përfshirë në këto detyra”, sipas tekstit që i bashkëlidhet këtij urdhri dhe është pjesë përbërëse e tij.

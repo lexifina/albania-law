@@ -1,0 +1,1 @@
+2. Urdhri i ministrit nr. 110, datë 2.10.2012, “Për miratimin e rregullave mbi vlefshmërinë ajrore të produkteve, pajisjeve aeronautike dhe pjesëve të avionëve, si dhe miratimin e organizatave dhe personelit të përfshirë në këto detyra”, shfuqizohet.
