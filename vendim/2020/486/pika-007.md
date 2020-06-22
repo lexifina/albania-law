@@ -1,0 +1,1 @@
+7. Çmimi i blerjes së teksteve shkollore për kategoritë e përcaktuara në këtë vendim mbulohet nga buxheti i ministrisë përgjegjëse për arsimin, në formën e “Transfertës tek individët” dhe “Transfertës te shtëpitë botuese”, sipas rastit, në masën 100% të tij.

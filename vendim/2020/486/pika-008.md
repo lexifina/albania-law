@@ -1,0 +1,1 @@
+8. Shitja e teksteve shkollore bëhet përkundrejt faturave. Për kategoritë e nxënësve, që përfitojnë sipas pikës 6 të këtij vendimi, pagesa bëhet nëpërmjet llogarive buxhetore të ZVAP-ve ose të vetë institucionit arsimor, kur ka llogari të tillë, me fondet e miratuara si “Transfertë tek individët” në buxhetin e ministrisë përgjegjëse për arsimin.

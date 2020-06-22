@@ -1,0 +1,1 @@
+5. Tekstet duhet të jenë të pajisura me pullën me hologramë të certifikimit, të ministrisë përgjegjëse për arsimin. Pulla me hologramë u shitet botuesve nga ministria përgjegjëse për arsimin, kundrejt pagesës. Tekstet, që tregtohen pa këtë pullë, i nënshtrohen procesit të konfiskimit, në përputhje me legjislacionin në fuqi.

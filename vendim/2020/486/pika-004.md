@@ -1,0 +1,1 @@
+4. Çmimi i shitjes është ai i vendosur në kopertinën e tekstit shkollor të certifikuar. Çmimet e teksteve shkollore, të miratuara nga ministria përgjegjëse për arsimin, indeksohen çdo vit, në përputhje me rritjen e inflacionit, të publikuar nga INSTAT-i.

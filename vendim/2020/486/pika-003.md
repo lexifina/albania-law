@@ -1,0 +1,1 @@
+3. Tekstet shkollore shpërndahen/shiten në mjediset shkollore. Drejtoritë e institucioneve arsimore ofrojnë një ose dy mjedise shkollore, që përdoren nga të gjitha shtëpitë botuese, që lëvrojnë tekste në institucionin arsimor në fjalë.

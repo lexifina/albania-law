@@ -1,0 +1,1 @@
+10. Vendimi nr. 107, datë 10.2.2010, i Këshillit të Ministrave, “Për botimin, shtypjen, shpërndarjen dhe shitjen e teksteve shkollore të sistemit të arsimit parauniversitar”, i ndryshuar, shfuqizohet.

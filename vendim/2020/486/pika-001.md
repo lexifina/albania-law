@@ -1,0 +1,1 @@
+1. Ministria përgjegjëse për arsimin miraton dhe certifikon tekstet shkollore të arsimit parauniversitar, të cilat konkurrojnë, në barazi të plotë, në përzgjedhje nga përdoruesit. Kriteret dhe procedurat e konkurrimit e të përzgjedhjes përcaktohen me udhëzim të ministrit përgjegjës për arsimin.

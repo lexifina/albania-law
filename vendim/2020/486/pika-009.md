@@ -1,0 +1,1 @@
+9. Procedurat e përdorimit dhe të shpërndarjes së fondeve buxhetore për blerjen e teksteve shkollore, si dhe mënyra e pagesës për kategorinë e nxënësve përfitues përcaktohen me udhëzim të përbashkët të ministrit përgjegjës për financat dhe të ministrit përgjegjës për arsimin.
