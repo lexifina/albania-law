@@ -1,0 +1,1 @@
+1. Shpërndarjen dhe detajimin e fondit prej 950 295 959 (nëntëqind e pesëdhjetë milionë e dyqind e nëntëdhjetë e pesë mijë e nëntëqind e pesëdhjetë e nëntë) lekësh, në programin “Menaxhimi i infrastrukturës së ujitjes dhe kullimit”, për projektet e ujitjes, sigurinë e digave dhe mbrojtjes nga përmbytja, sipas bashkive, përcaktuar në tabelën 1, që i bashkëlidhet këtij vendimi.
