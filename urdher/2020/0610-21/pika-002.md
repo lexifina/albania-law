@@ -1,0 +1,1 @@
+2. Ngarkohen inspektorët shtetërorë, vendorë, si dhe të strukturave përgjegjëse, sipas fushave të inspektimit, ku marrëdhëniet e punësimit të të cilëve rregullohen me Kodin e Punës së Republikës së Shqipërisë, të ndryshuar, për zbatimin e këtij urdhri.
