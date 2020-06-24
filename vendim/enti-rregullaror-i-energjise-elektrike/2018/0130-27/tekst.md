@@ -4,6 +4,10 @@ Nr. 27, datë 30.1.2018
 
 MBI LICENCIMIN E SHOQËRISË HEC LLËNGË SHPK NË AKTIVITETIN E PRODHIMIT TË ENERGJISË ELEKTRIKE NGA: HEC LLËNGA 1, ME FUQI 1730 kw; HEC LLËNGA 2, ME FUQI 300 kw; DHE HEC LLËNGA 3, ME FUQI 1500 kw, ME FUQI TOTALE 3530 kw 
 
+(Ndryshuar me vendimin nr. 100, datë 24.6.2020)
+
+( I përditësuar)
+
 Në mbështetje të neneve 16; 37, pika 2, germa “a”; 39, pika 3, të ligjit nr. 43/2015, “Për sektorin e energjisë elektrike”, të neneve 4, pika 1, germa “a”; 5, pika 1, germa “a” dhe 13 të “Rregullores për procedurat dhe afatet për dhënien, modifikimin, transferimin, rinovimin ose heqjen e licencave në sektorin e energjisë elektrike”, të miratuar me vendimin e bordit të ERE-s, nr. 109, datë 29.6.2016, dhe të nenit 15 të “Rregullores për organizimin, funksionimin dhe procedurat e ERE-s”, miratuar me vendimin e bordit të ERE-s, nr. 96, datë 17.6.2016, Bordi i Entit Rregullator të Energjisë (ERE), në mbledhjen e tij të datës 30.1.2018, mbasi shqyrtoi relacionin për licencimin e shoqërisë HEC Llëngë sh.p.k. në aktivitetin e prodhimit të energjisë elektrike nga HEC-et: Llënga 1, Llënga 2 dhe Llënga 3, me fuqi totale të instaluar 3530 kw, të përgatitur nga Drejtoria e Licencimit dhe e Monitorimit të Tregut,
 
 konstatoi se:
@@ -42,7 +46,7 @@ VENDOSI:
 
 1. Të licencojë shoqërinë HEC Llëngë sh.p.k. në aktivitetin e prodhimit të energjisë elektrike nga: HEC Llënga 1, me fuqi 1730 kw; HEC Llënga 2, me fuqi 300 kw; HEC Llënga 3, me fuqi 1500 kw, me fuqi totale 3530 kw. 
 
-2. Shoqëria HEC Llëngë sh.p.k. të depozitojë në ERE miratimin përfundimtar të lejes së ujit para vënies në operim të veprës.
+2. Shfuqizuar.
 
 3. Drejtoria e Licencimit dhe e Monitorimit të Tregut, të njoftojë aplikuesin për vendimin e bordit të ERE-s. 
 
