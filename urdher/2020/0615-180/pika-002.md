@@ -1,0 +1,1 @@
+2. Komunikimi i një kujtese, deklarate a një dokumenti nga noteri, me telegram, faks ose telefaks, kryhet vetëm në rastet kur kërkohet për t’u njoftuar nga personi, posaçërisht nëpërmjet këtyre mjeteve ose kur e kërkojnë rrethana të veçanta ose nevoja e një njoftimi të shpejtë.

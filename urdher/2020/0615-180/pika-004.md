@@ -1,0 +1,1 @@
+4. Në çdo rast, komunikimi i kryer me telegrame, fakse e telefakse, konsiderohet i marrë vetëm në rastet, kur personi ndaj të cilit i drejtohet njoftimi vërteton me shkrim, me shkresë dorazi e me mënyra të tjera, që garantojnë një njoftim të rregullt, marrjen e njoftimit.
