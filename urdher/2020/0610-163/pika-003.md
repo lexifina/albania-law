@@ -1,0 +1,1 @@
+3. Masa e shpërblimit të ekspertëve të përzgjedhur është në vlerën 7 000 lekë për ditë pune, në të cilat do të angazhohen, e cila pasqyrohet në kontratën e shërbimit që do të nënshkruhet me çdo ekspert të pavarur të përzgjedhur, kontratë në të cilën do të detajohen edhe kushtet dhe mënyra e livrimit të saj.
