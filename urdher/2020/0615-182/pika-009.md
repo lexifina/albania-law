@@ -1,0 +1,1 @@
+9. Fleta e pasqyrës së dokumenteve të dosjes të jetë fletë, format A4 e emërtuar “Pasqyra e dokumenteve në dosjen e noterit, kandidatit për noter, zëvendësnoterit (emër, mbiemër)”, ka përmbajtje sipas modelit të paraqitur në shtojcën nr. 4, bashkëlidhur këtij urdhri.

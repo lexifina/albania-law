@@ -1,0 +1,1 @@
+15. Brenda 30 ditësh, nga marrja e kërkesës së bërë nga struktura përgjegjëse për veprimtarinë e noterisë në Ministrinë e Drejtësisë, subjektet paraqesin dokumentacionin e kërkuar për plotësimin e dosjes personale. Mosrespektimi i detyrimeve të përcaktuara në këtë urdhër përbën shkak për dhënie mase disiplinore.

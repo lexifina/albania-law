@@ -1,0 +1,1 @@
+14. Dosjet personale të noterëve që licencohen sipas kritereve të ligjit nr. 110/2018 “Për noterinë”, do të përmbajnë dokumentacionin e përcaktuar në këtë urdhër, me përjashtim të dokumenteve që lidhen me noterët e licencuar para hyrjes në fuqi të këtij ligji.

@@ -1,0 +1,1 @@
+21. Dhoma Kombëtare e Noterisë ka detyrimin për t’i dhënë Drejtorisë së Përgjithshme Rregullatore të Çështjeve të Drejtësisë, në Ministrisë e Drejtësisë, informacionin që disponon mbi noterët me qëllim plotësimin e regjistrit në zbatim të këtij urdhri.

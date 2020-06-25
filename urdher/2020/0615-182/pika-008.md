@@ -1,0 +1,1 @@
+8. Dokumentacioni i ndodhur në dosjen personale, numërtohet dhe pasqyrohet në fletën e pasqyrës së dokumenteve të dosjes të ngjitur në pjesën e brendshme të kapakut të saj me vulën e Ministrisë së Drejtësisë.

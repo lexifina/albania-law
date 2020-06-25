@@ -1,0 +1,1 @@
+2. Regjistri manual dhe ai elektronik kanë të njëjtin format standard të miratuar me këtë urdhër sipas shtojcës nr. 1 (Modeli i Regjistrit të Noterëve), nr. 2 (Modeli i Regjistrit të Kandidatëve për Noter) dhe nr. 3 (Modeli i Regjistrit të Zëvendësnoterëve).

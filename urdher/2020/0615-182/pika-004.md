@@ -1,0 +1,1 @@
+4. Regjistri manual përbëhet nga 250 fletë formati A3 të lidhura, të numërtuara e të vulosura në çdo faqe me vulën e Ministrisë së Drejtësisë. Për çdo fletë në regjistër mund të plotësohen të dhëna deri për 2 noter, 2 kandidat për noter ose 2 zëvendësnoter.

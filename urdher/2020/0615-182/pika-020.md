@@ -1,0 +1,1 @@
+20. Urdhri i ministrit të Drejtësisë nr. 9023, datë 1.11.2010 “Për formën, përmbajtjen dhe administrimin e regjistrave të noterëve dhe asistentëve, si dhe për dokumentacionin që përmbajnë dosjet e noterëve e asistentëve”, mbetet në fuqi deri në plotësimin e të dhënave për përfundimin e periudhës së asistencës së asistentnoterit të fundit të regjistruar në regjistër.
