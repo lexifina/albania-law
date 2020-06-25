@@ -1,0 +1,1 @@
+4. Udhëzimi nr. 2, datë 2.4.2019, “Për miratimin e metodologjisë për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore për ofruesit e shërbimeve në sektorin e ujësjellës-kanalizimeve”, të ndryshuar, shfuqizohet.
