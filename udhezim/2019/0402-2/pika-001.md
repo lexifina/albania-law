@@ -1,1 +1,0 @@
-1. Zbatimin e metodologjisë “Për kriteret dhe procedurat për shpërndarjen dhe përdorimin e subvencioneve shtetërore për ofruesit e shërbimeve në sektorin e ujësjellës kanalizimeve”, sipas lidhjes 1 dhe lidhjes 2, bashkëlidhur këtij udhëzimi.
