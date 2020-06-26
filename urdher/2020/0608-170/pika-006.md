@@ -1,0 +1,1 @@
+6. Në rast të largimit nga pozicioni i punës në njësinë e ISHTI-së, që mbulon sektorin e gazit natyror, inspektori dorëzon me procesverbal kartën e inspektorit pranë njësisë që mbulon burimet njerëzore në ISHTI.

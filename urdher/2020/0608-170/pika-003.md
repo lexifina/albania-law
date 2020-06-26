@@ -1,0 +1,11 @@
+3. Formati i Kartës se Identifikimit të Inspektorit për sektorin e gazit natyror, duhet të përmbajë:
+- ministrinë që mbulon sektorin e gazit natyror;
+- institucionin që ushtron detyrën e inspektimit;
+- emrin dhe mbiemrin e inspektorit dhe pozicionin në njësinë/sektorin ku është i punësuar;
+- foto të inspektorit që do të mbajë kartën;
+- datën e lëshimit;
+- datën e skadencës;
+- logon e IQ-së dhe logon e ISHTI-së,
+- bazën ligjore;
+- emrin dhe firmën e inspektorit të përgjithshëm që bën miratimin;
+- vulën e Inspektoratit Qendror.

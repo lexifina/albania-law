@@ -1,0 +1,1 @@
+5. Zotëruesi i kartës së inspektorit për gazin natyror vepron dhe realizon detyrën e tij inspektuese, brenda kuadrit ligjor që përcakton fusha e veprimit të ligjit nr. 10433, datë 16.6.2011, “Për inspektimin në Republikën e Shqipërisë” dhe ligjit nr. 102/2015, datë 23.9.2015, “Për sektorin e gazit natyror”, të ndryshuar, si dhe aktet nënligjore të tij.

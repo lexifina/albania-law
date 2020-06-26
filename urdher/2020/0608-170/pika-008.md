@@ -1,0 +1,1 @@
+8. Inspektorati Shtetëror Teknik dhe Industrial të marrë masat e nevojshme organizative, si dhe të përcaktojë fondet e nevojshme për përgatitjen e kartës së identifikimit të inspektorit për gazin natyror.

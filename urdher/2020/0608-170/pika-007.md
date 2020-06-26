@@ -1,0 +1,1 @@
+7. Karta e identifikimit të inspektorit të gazit natyror përdoret vetëm nga mbajtësi i saj. Në rast humbjeje ose dëmtimi të kartës mbajtësi ka detyrim ligjor të njoftojë brenda 5 (pesë) ditëve pranë kryeinspektorit të ISHTI-së dhe Inspektoratit Qendror.
