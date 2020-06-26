@@ -1,0 +1,1 @@
+1. Ky urdhër është i zbatueshëm për mjetet lundruese, për qëllime turistike dhe argëtimi, të cilat lejohen që të operojnë në portet detare të Republikës së Shqipërisë, rada, si dhe vendet e përgatitura posaçërisht për akostimin e tyre.

@@ -1,0 +1,1 @@
+5. Pavarësisht miratimit nga autoriteti portual dhe kapitaneria e portit, mjeti lundrues nuk do të bëhet pengesë për përpunimin e mjeteve të tjera lundruese. Në çdo rast, këto mjete duhet të jenë në gatishmëri të lirojnë menjëherë kalatat pas njoftimit nga kapitaneria.

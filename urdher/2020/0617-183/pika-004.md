@@ -1,0 +1,1 @@
+4. Në rastet kur mjeti lundrues kërkon të qëndrojë përkohësisht për furnizime bordi, kapitenaria e portit përkatës lejon akostimin e mjetit lundrues, vetëm pasi agjencia detare që përfaqëson mjetin turistik të ketë paraqitur pranë kapitenarisë miratimin e autoritetit portual për kalatën ku do të akostohet mjeti.

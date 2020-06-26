@@ -1,0 +1,1 @@
+3. Lajmërimi duhet të përcaktojë arsyet e operimit në port, shërbimin që do të kryejë, kohën e qëndrimit, personat në bord, si dhe çdo informacion tjetër të kërkuar nga kapitenaria e portit apo porti detar.

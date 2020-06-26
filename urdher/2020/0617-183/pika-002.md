@@ -1,0 +1,1 @@
+2. Agjencia detare lajmëron paraprakisht kapitenarinë e portit, portin detar, si dhe Policinë e Shtetit, për formalitetet e mbërritjes së mjetit lundrues, që kërkon të operojë në portin detar për qëllime turizmi dhe argëtimi.
