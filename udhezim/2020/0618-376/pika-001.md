@@ -1,0 +1,1 @@
+1. Aplikimi, për një nga format e mbështetjes së ndërmarrjeve sociale, bëhet pranë ministrisë përgjegjëse për çështjet sociale (më poshtë në tekst “ministria”), me anë të një kërkese me shkrim, bazuar në kriteret e përcaktuara në thirrjen publike në faqen zyrtare të ministrisë.

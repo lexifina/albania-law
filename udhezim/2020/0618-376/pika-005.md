@@ -1,0 +1,1 @@
+5. Përfitimi nga fonde të akorduara nga donatorët apo institucione financiare ndërkombëtare, për këto sipërmarrje, nuk përbën pengesë për përfitime dhe nga fondi për ndërmarrjet sociale. Subjektet duhet të vetëdeklarojnë se nuk janë duke përfituar financim nga donatorë të tjerë për të njëjtin projekt.
