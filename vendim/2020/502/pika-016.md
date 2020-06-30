@@ -1,0 +1,1 @@
+16. Ministri i Drejtësisë miraton rregulloren për organizimin dhe funksionimin e brendshëm të bazës të të dhënave të REE-së, në përputhje me rregullat e parashikuara nga legjislacioni në fuqi për bazat e të dhënave shtetërore.

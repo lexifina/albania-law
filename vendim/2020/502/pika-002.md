@@ -1,0 +1,1 @@
+2. REE-ja ka si qëllim ruajtjen, administrimin dhe përpunimin e të dhënave në formë elektronike për ekspertët që përmbushin kushtet për t’u regjistruar në REE, sipas përcaktimit të nenit 224/d, të ligjit nr. 8116, datë 29.3.1996, “Kodi i Procedurës Civile i Republikës së Shqipërisë”, të ndryshuar, duke i grupuar sipas fushës së tyre të ekspertizës dhe vendit ku punojnë.

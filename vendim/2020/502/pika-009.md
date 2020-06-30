@@ -1,0 +1,1 @@
+9. Institucioni administrues i REE-së është Ministria e Drejtësisë, sipas parashikimit të nenit 224/d, të ligjit nr. 8116, datë 29.3.1996, “Kodi i Procedurës Civile i Republikës së Shqipërisë”, të ndryshuar. Dhënës të informacionit për REE-në janë kërkuesit dhe çdo palë tjetër e interesuar, sipas përcaktimit të këtij vendimi.
