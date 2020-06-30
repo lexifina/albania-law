@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e shpronësimit, prej 1 382 390.31 (një milion e treqind e tetëdhjetë e dy mijë e treqind e nëntëdhjetë pikë tridhjetë e një) lekësh, të përballohet nga fondet e buxhetit të Operatorit të Shpërndarjes së Energjisë Elektrike sh.a.

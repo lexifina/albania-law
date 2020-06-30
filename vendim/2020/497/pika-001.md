@@ -1,0 +1,1 @@
+1. Shpronësimin, për interes publik, të pronarëve të pasurive të paluajtshme, pronë private, që preken nga realizimi i projektit “Rrjeti shpërndarës 20 kV nga nënstacioni 110/20 kV Fier i Ri fiderat 10 deri 12 dhe nënstacioni 110/20 kV fideri 2 fiderat M1 deri M10”.
