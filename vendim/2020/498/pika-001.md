@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi të shoqërisë Ujësjellës-Kanalizime Tiranë sh.a., të pasurive me nr. 59/1, 59/3, 59/4, 59/5, 59/8, 59/9, 60/6, 701/17, zona kadastrale 1066, me sipërfaqe totale 48207 m2, Tiranë, sipas planit të rilevimit që i bashkëlidhet këtij vendimi.
