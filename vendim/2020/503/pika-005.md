@@ -1,0 +1,1 @@
+5. Aksesi i dokumenteve elektronike shëndetësore nga mjeku bëhet vetëm me miratimin e pacientit. Formati i miratimit të pacientit, që miratohet me urdhër të ministrit përgjegjës për shëndetësinë, arkivohet pranë mjekut që ofron shërbimin shëndetësor dhe përfshihet në kartelën e pacientit.

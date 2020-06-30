@@ -1,0 +1,1 @@
+6. Shkëmbimi i dokumenteve elektronike shëndetësore do të bëhet nëpërmjet platformës qeveritare të ndërveprimit nga profesionistët e shëndetit në institucionet ofruese të kujdesit shëndetësor, të cilët regjistrojnë të dhënat shëndetësore të pacientëve.

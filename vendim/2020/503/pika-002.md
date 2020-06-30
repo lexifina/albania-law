@@ -1,0 +1,1 @@
+2. Informacioni elektronik shëndetësor përbëhet nga dokumentet elektronike shëndetësore, që krijohen nga institucionet ofruese të kujdesit shëndetësor, publike dhe jopublike, të vlefshme sipas legjislacionit në fuqi.
