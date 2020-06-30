@@ -1,0 +1,1 @@
+16. Kryetari i KKS-së dhe, në pamundësi të tij, zëvendëskryetari, është përfaqësuesi i KKS-së në marrëdhënie me institucionet e tjera shtetërore apo subjekte të tjera që veprojnë në fushën e strehimit.

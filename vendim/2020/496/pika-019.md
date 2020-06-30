@@ -1,0 +1,1 @@
+19. KKS-ja bashkëpunon me organet e tjera të administratës shtetërore, njësitë e vetëqeverisjes vendore, institucionet e pavarura dhe partnerë të tjerë për procesin e këshillimit të linjave kryesore në sektorin e strehimit, sipas ligjit “Për strehimin social”.

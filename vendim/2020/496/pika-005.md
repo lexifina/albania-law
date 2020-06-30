@@ -1,0 +1,1 @@
+5. Me rastin e konstituimit për herë të parë të KKS-së, njoftimi bëhet për të gjitha shoqatat përfaqësuese të vetëqeverisjes vendore pa kufizim, ndërsa njoftimet e radhës përfshijnë edhe njoftimin për përfaqësimin e tyre me rotacion, sipas pikës 2, të këtij vendimi.

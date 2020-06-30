@@ -1,0 +1,1 @@
+6. Ministri përgjegjës për strehimin, kur kandidaturat nga grupet e interesit dhe shoqëria civile janë më shumë se një, ia paraqet Kryeministrit për emërim, pas vlerësimit bazuar në eksperiencën në fushën e strehimit dhe politika sociale, përvojën në projekte, studime, botime dhe veprimtari sociale në fushën e mbështetjes së grupeve të ndryshme sociale.

@@ -1,0 +1,1 @@
+12. KKS-ja miraton, me shumicën e votave në prani të më shumë se gjysmës të anëtarëve, rekomandime, të cilat zbardhen si të tilla dhe nënshkruhen nga kryetari. Anëtarët e KKS-së nuk gëzojnë të drejtën e abstenimit në votime, në asnjë rast.

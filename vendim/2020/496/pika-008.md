@@ -1,0 +1,1 @@
+8. KKS-ja kryesohet nga kryetari dhe në mungesë të tij nga zëvendëskryetari i KKS-së, i zgjedhur nga KKS-ja. Kryetari thërret mbledhjet e KKS-së, miraton rendin e ditës dhe drejton mbledhjet e KKS-së.

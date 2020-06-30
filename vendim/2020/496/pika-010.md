@@ -1,0 +1,1 @@
+10. Në mbledhjet e KKS-së ftohen të marrin pjesë, pa të drejtë vote, edhe prefektët e qarqeve, përfaqësues të njësive të vetëqeverisjes vendore, të sektorit privat, të organizatave jofitimprurëse, të institucioneve financiare dhe përfaqësues të komuniteteve të interesuara, sipas kërkesës së kryetarit apo çdo anëtari të KKS-së.

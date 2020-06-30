@@ -1,0 +1,1 @@
+18. Kryetari informon me shkrim institucionet e tjera publike që veprojnë në fushën e strehimit apo fusha të ndërlidhura me strehimin, prefektët dhe njësitë e vetëqeverisjes vendore, si dhe çdo subjekt tjetër publik që ushtron veprimtari në fushën e strehimit për rekomandimet e miratuara nga KKS-ja.

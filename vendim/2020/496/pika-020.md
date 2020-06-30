@@ -1,0 +1,1 @@
+20. KKS-ja, në ushtrim të kompetencave të saj, ka të drejtë të kërkojë informacione nga ministritë, institucionet qendrore të administratës shtetërore, institucionet e pavarura, prefektët, njësitë e vetëqeverisjes vendore, institucionet e tjera publike, në përputhje me legjislacionin në fuqi.

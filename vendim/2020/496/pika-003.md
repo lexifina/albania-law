@@ -1,0 +1,1 @@
+3. Ministri përgjegjës për strehimin, jo më vonë se 1 (një) muaj para mbarimit të mandatit, apo menjëherë sapo krijohet një vend i lirë në anëtarësinë e KKS-së, në rastet e përfundimit të mandatit para kohe, për shkak të mosplotësimit të kërkesave të pikës 2, të këtij vendimi, njofton strukturat përkatëse për caktimin e anëtarit përfaqësues.
