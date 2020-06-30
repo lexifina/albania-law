@@ -1,0 +1,1 @@
+5. Shpenzimet procedurale, në vlerën 50 000 (pesëdhjetë mijë) lekë, të përballohen nga fondet e Ministrisë së Infrastrukturës dhe Energjisë dhe shpenzimi në vlerën 329 000 (treqind e njëzet e nëntë mijë) lekë, për botimin në gazetë, të përballohet nga Autoriteti Rrugor Shqiptar.
