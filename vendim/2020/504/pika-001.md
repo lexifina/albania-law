@@ -1,0 +1,1 @@
+1. Krijimin e bazës së të dhënave shtetërore të studentëve, të cilët studiojnë jashtë vendit, dhe shtetasve të huaj me origjinë shqiptare, të cilët përfitojnë bursa studimi nga Republika e Shqipërisë.

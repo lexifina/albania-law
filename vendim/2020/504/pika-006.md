@@ -1,0 +1,1 @@
+6. Dhënës të informacionit për bazën e të dhënave shtetërore të studentëve, të cilët studiojnë jashtë vendit, dhe shtetasve të huaj me origjinë shqiptare, të cilët përfitojnë bursa studimi nga Republika e Shqipërisë, janë ministria përgjegjëse për arsimin dhe ministria përgjegjëse për punët e jashtme.

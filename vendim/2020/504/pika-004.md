@@ -1,0 +1,1 @@
+4. Baza e të dhënave shtetërore e studentëve, të cilët studiojnë jashtë vendit, dhe shtetasve të huaj me origjinë shqiptare, të cilët përfitojnë bursa studimi nga Republika e Shqipërisë, ka si institucion administrues Agjencinë Kombëtare të Diasporës.
