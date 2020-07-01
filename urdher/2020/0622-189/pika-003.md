@@ -1,0 +1,1 @@
+3. Ngarkohet Drejtoria e Përgjithshme Rregullatore e Çështjeve të Drejtësisë në Ministrinë e Drejtësisë, Dhoma Kombëtare e Përmbaruesve Gjyqësorë Privatë dhe Komisioni Disiplinor, për zbatimin e këtij urdhri.

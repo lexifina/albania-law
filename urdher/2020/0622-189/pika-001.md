@@ -1,0 +1,1 @@
+1. Miratimin e “Rregullores për konstituimin, organizimin, funksionimin dhe shpërblimin e anëtarëve të Komisionit Disiplinor të Përmbaruesve Gjyqësorë Privatë”, sipas tekstit bashkëlidhur këtij urdhri dhe pjesë përbërëse e tij.
