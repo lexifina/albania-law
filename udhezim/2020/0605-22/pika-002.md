@@ -1,0 +1,1 @@
+2. Strukturat përgjegjëse të ministrive për strehimin, punësimin, arsimin dhe kujdesin shëndetësor e social identifikojnë nevojat për punësim, arsim, shërbime shëndetësore dhe sociale të personave që përfitojnë nga programet e strehimit social dhe ndjekin përmes strukturave përgjegjëse të administratës shtetërore adresimin e nevojave sipas fushave të përgjegjësisë.
