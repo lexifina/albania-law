@@ -1,0 +1,4 @@
+# Neni 6
+Sistemi i vlerësimit të riskut
+Për mjetet e përmendura në shkronjat “a”, “b” dhe “c”, të pikës 1, të nenit 2, autoriteti kompetent duhet të garantojë që informacioni, në lidhje me numrin dhe seriozitetin e mangësive të përcaktuara në aneksin II dhe aty ku është e zbatueshme, në aneksin III, i krijuar për mjetet e operuara nga ndërmarrje të veçanta të vihet në sistemin e vlerësimit të rrezikut. Për cilësimin e një profili të rrezikut për një ndërmarrje, autoriteti kompetent mund të përdorë kriteret e paraqitura në aneksin I. Ky informacion do të përdoret për të kontrolluar ndërmarrjet, me vlerësim të lartë të rrezikut, më nga afër dhe më shpesh. Sistemi i vlerësimit të rrezikut do të operohet nga autoriteti kompetent.
+Për qëllimin e zbatimit të paragrafit të parë, autoriteti kompetent përdor informacionin e marrë nga vendet e tjera, sipas nenit 18, pika 1.
