@@ -1,0 +1,7 @@
+# Neni 9
+Ankimimi i vendimit për vendosjen e gjobës
+1. Në rast ankimi administrativ nga subjekti të vendimit të gjobës së vendosur nga ISHTI-ja, çështja trajtohet nga “Komisioni i Ankimimit” i cili ngrihet dhe funksionon sipas urdhrit përkatës të ministrit, referuar përcaktimit të pikave 5 dhe 6, të VKM-së nr. 410, datë 13.5.2015, “Për krijimin, organizimin dhe funksionimin e Inspektoratit Shtetëror Teknik dhe Industrial”.
+2. Nëse në trajtimin e ankimit për një çështje një anëtar ka lidhje familjare me parashtruesin e ankimit në të cilën vendoset për ndryshim apo shfuqizim të propozimit për gjobën e dhënë ose për revokim të licencës apo të lejes për ndërtimin dhe operimin e objekteve të gazit natyror përfshirë edhe linjat direkte, anëtari shpall konfliktin e interesit dhe abstenon në votim. Kur votat janë të barabarta, vota e kryeinspektorit është përcaktuese.
+3. Mbledhje e “Komisionit të Ankimit” mbahet brenda afatit 30-ditor (tridhjetëditor) nga paraqitja e ankimit.
+4. Në çdo fazë të një procedimi për vendosje gjobe, ISHTI-ja mund të kryejë seanca dëgjimore me të licencuarin dhe subjektin që ka kërkuar kryerjen e hetimit apo ISHTI-ja mund të kërkojë dokumente të tjera të nevojshme për qëllime të procedurës së nisur.
+5. Kundër vendimit të “Komisionit të Ankimit” për vendosje të gjobës, i licencuari apo subjekti tjetër, që ndërton dhe operon objekte të gazit natyror, përfshirë edhe linjat direkte, mund të bëjë ankim në përputhje me ligjin nr. 44/2015, datë 30.4.2015 “Kodi i Procedurave Administrative i Republikës së Shqipërisë”.

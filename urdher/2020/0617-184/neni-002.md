@@ -1,0 +1,4 @@
+# Neni 2
+Objekti i rregullores
+Këto rregulla përcaktojnë kushtet dhe procedurat e aplikimit të gjobave, metodologjinë e konstatimit e të përcaktimit të gjobave që vendosen, për të licencuarit në sektorin e gazit natyror, si dhe për subjektet që ndërtojnë dhe operojnë linja direkte, në rastet e shkeljeve të ndëshkueshme me gjobë nga ISHTI-ja.
+Subjektet juridike, që kryejnë aktivitete të transportit të gazit natyror, të shpërndarjes së gazit natyror, të depozitimit të gazit natyror, si dhe të trajtimit të gazit natyror në terminalet e gazit natyror të lëngëzuar, janë të detyruara të shfrytëzojnë dhe të mirëmbajnë objektet e gazit në pajtim me rregullat teknike dhe standardet që mbulon veprimtarinë që ata kryejnë, kushtet për mbrojtjen nga zjarri dhe shpërthimet, si dhe kushtet për mbrojtjen e mjedisit, të përcaktuara në ligje dhe në rregullore të tjera.
