@@ -1,0 +1,1 @@
+Miratohet akti normativ, me fuqinë e ligjit, nr. 18, datë 23.4.2020, të Këshillit të Ministrave, “Për disa ndryshime dhe shtesa në ligjin nr. 8438, datë 28.12.1998, ’Për tatimin mbi të ardhurat’, të ndryshuar”.
