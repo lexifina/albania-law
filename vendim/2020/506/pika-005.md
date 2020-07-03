@@ -1,0 +1,1 @@
+5. Në pikën 1, të vendimit nr. 387, datë 19.8.1999, të Këshillit të Ministrave, “Për ndryshimin e destinacionit dhe administrimit të hotel ’Arbërisë’”, fjalët “... dhe Inspektoratit të Këshillit të Lartë të Drejtësisë ...” hiqen.

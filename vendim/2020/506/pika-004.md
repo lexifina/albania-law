@@ -1,0 +1,1 @@
+4. Departamentit të Administratës Publike dhe Komisionit të Prokurimit Publik u ndalohet të ndryshojnë destinacionin e godinës së përcaktuar në pikat 1, 2 dhe 3, të këtij vendimi, ta tjetërsojnë ose t’ua japin në përdorim të tretëve.

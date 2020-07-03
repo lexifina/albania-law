@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga ish-Inspektorati i Këshillit të Lartë të Drejtësisë, sot Këshilli i Lartë i Gjyqësorit, te Departamenti i Administratës Publike dhe Komisioni i Prokurimit Publik, të godinës së ish-Inspektoratit të Këshillit të Lartë të Drejtësisë (pjesë e ish-hotel “Arbëria”), sipas planimetrisë që i bashkëlidhet këtij vendimi.
