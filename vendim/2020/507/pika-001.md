@@ -1,0 +1,1 @@
+1. Kalimin në përgjegjësi administrimi, nga Departamenti i Administratës Publike dhe Komisioni i Prokurimit Publik tek Inspektori i Lartë i Drejtësisë, të godinës së ish-Ministrisë së Integrimit Evropian, sipas planimetrisë që i bashkëlidhet këtij vendimi.

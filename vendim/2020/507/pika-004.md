@@ -1,0 +1,1 @@
+4. Vendimi nr. 704, datë 1.12.2017, i Këshillit të Ministrave, “Për kalimin në përgjegjësi administrimi, nga ish-Ministria e Integrimit Evropian te Departamenti i Administratës Publike dhe Komisioni i Prokurimit Publik, të godinës së ish-Ministrisë së Integrimit Evropian”, shfuqizohet.
