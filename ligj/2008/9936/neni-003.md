@@ -50,3 +50,4 @@ Në këtë ligj termat e mëposhtëm kanë këto kuptime:
 47. “Garancia shtetërore e huas” është marrëveshja e lidhur me shkrim, e cila përmban rregulla për të drejtat dhe detyrimet e palëve, kushtet dhe mënyrat, sipas të cilave shteti është përgjegjës për detyrimet financiare të një huamarrësi, kur ai nuk arrin t’i paguajë ato në kohën dhe masën e duhur.
 48. “Veprimtari pothuajse fiskale” janë veprimtari që kryhen nga institucione shtetërore jobuxhetore, të cilat kanë kosto direkte ose indirekte në buxhetin e shtetit.
 49. “Projekt investimi” është një seri puni-mesh, aktivitetesh apo shërbimesh, që synojnë të përmbushin një objektiv të pandashëm të një natyre specifike ekonomike apo teknike, me qëllime qartësisht të identifikuara.
+50. “Balanca primare buxhetore” është sa të ardhurat totale buxhetore minus shpenzimet totale buxhetore plus shpenzimet për interesa.
