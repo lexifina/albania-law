@@ -1,0 +1,1 @@
+4. Nuk përfitojnë nga ky vendim të gjitha subjektet që rezultojnë debitore dhe nuk kanë kryer pagesën e TMVP-së për vitet paraardhëse. Përjashtimisht, këto subjekte përfitojnë vetëm nëse paguajnë detyrimet e prapambetura brenda 30 (tridhjetë) ditëve nga hyrja në fuqi e këtij vendimi.

@@ -1,0 +1,1 @@
+5. Subjekteve përfituese, sipas pikës 3, të këtij vendimi, që kanë kryer pagesën e TVMP-së për vitin 2020, kompensimi do t’u bëhet sipas radhës së datës së pagesës së ardhshme, duke i zbritur detyrimin përkatës të paguar tashmë.

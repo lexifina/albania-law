@@ -1,0 +1,1 @@
+2. Nga ky vendim përfitojnë të gjitha subjektet, individë, persona fizikë ose juridikë, të cilat shfrytëzojnë mjete të transportit rrugor në pronësi, në bashkëpronësi ose me qira, si dhe që ushtrojnë aktivitetin e transportit rrugor të udhëtarëve brenda vendit dhe pjesërisht jashtë territorit tokësor të Republikës së Shqipërisë nga transportues me seli në Republikën e Shqipërisë.

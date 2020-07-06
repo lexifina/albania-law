@@ -1,0 +1,1 @@
+1. Kompensimin financiar të taksës vjetore të mjeteve të përdorura (TVMP), të vitit 2020, për mjetet e destinuara për transport udhëtarësh, të kategorive “M2” dhe “M3”. Në masën e kompensimit financiar, krahas taksës vjetore të mjeteve të përdorura, përfshihen dhe gjobat e krijuara për detyrimet e vitit 2020, të lidhura me TVMP-në.
