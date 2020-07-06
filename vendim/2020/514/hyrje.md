@@ -1,0 +1,5 @@
+VENDIM
+Nr. 514, datë 1.7.2020
+PËR DHËNIEN E MIRATIMIT PËR LIDHJEN E KONTRATËS SË QIRASË ME TARIFËN 1 EURO/KONTRATA NDËRMJET MINISTRISËSË FINANCAVE DHE EKONOMISË, SI QIRADHËNËS, DHE BASHKIMIT TË SHOQËRIVE “CONCORD INVESTMENT” SHPK DHE “KASTRATI GROUP” SHA, SI QIRAMARRËS, PËR PASURINË SHTETËRORE GJIRI I LIMIONIT, SARANDË, ME SIPËRFAQE TË PËRGJITHSHME 265 2299,5 m2, NË PËRGJEGJËSI ADMINISTRIMI TË MINISTRISË SË MBROJTJES DHE TË MINISTRISË SË BUJQËSISË DHE ZHVILLIMIT RURAL
+Në mbështetje të nenit 100 të Kushtetutës, të ligjit nr. 9967, datë 24.7.2008, “Për miratimin e aktit normativ, me fuqinë e ligjit, nr. 4, datë 9.7.2008, të Këshillit të Ministrave, “Për privatizimin dhe dhënien në përdorim shoqërive tregtare dhe institucioneve shtetërore, të ndërmarrjeve apo objekteve të veçanta, mjeteve të xhiros së këtyre ndërmarrjeve”, dhe të vendimit nr. 54, datë 5.2.2014, të Këshillit të Ministrave, “Për përcaktimin e kritereve, të procedurës dhe mënyrës së dhënies me qira, enfiteozë apo kontratave të tjera të pasurisë shtetërore”, të ndryshuar, me propozimin e ministrit të Financave dhe Ekonomisë, Këshilli i Ministrave
+VENDOSI:
