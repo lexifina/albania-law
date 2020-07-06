@@ -1,0 +1,1 @@
+3. Fondi i përcaktuar në pikën 1, të këtij vendimi, i miratuar në buxhetin e vitit 2020, i shtohet Ministrisë së Infrastrukturës dhe Energjisë, në programin “Transporti rrugor” për Autoritetin Rrugor Shqiptar.

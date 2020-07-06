@@ -1,0 +1,1 @@
+1. Përdorimin e fondit të rindërtimit, miratuar në buxhetin e vitit 2020, për financimin e rindërtimit të Urës së Tapizës, në vlerën 151 539 896 (njëqind e pesëdhjetë e një milionë e pesëqind e tridhjetë e nëntë mijë e tetëqind e nëntëdhjetë e gjashtë) lekë, pa TVSH.
