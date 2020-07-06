@@ -1,0 +1,5 @@
+VENDIM
+Nr. 515, datë 1.7.2020
+PËR MIRATIMIN E KONTRATËS SË KONCESIONIT/PARTNERITET PUBLIK PRIVAT, PËR DHËNIEN ME KONCESION/PARTNERITET PUBLIK PRIVAT TË PORTIT TURISTIK DHE TË SHËRBIMEVE “MARINA LIMION”, NDËRMJET REPUBLIKËS SË SHQIPËRISË, TË PËRFAQËSUAR NGA MINISTRIA E INFRASTRUKTURËS DHE ENERGJISË, DHE BASHKIMIT TË OPERATORËVE EKONOMIKË “KASTRATI GROUP” SHA DHE “EDIL-AL-IT” SHPK
+Në mbështetje të nenit 100 të Kushtetutës dhe të nenit 41, të ligjit nr. 125/2013, “Për koncesionet dhe partneritetin publik privat”, të ndryshuar, me propozimin e ministrit të Infrastrukturës dhe Energjisë, Këshilli i Ministrave
+VENDOSI:

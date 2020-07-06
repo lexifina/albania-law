@@ -1,0 +1,1 @@
+1. Miratimin e kontratës së koncesionit/partneritet publik privat, të portit turistik dhe të shërbimeve “Marina Limion”, ndërmjet Republikës së Shqipërisë, të përfaqësuar nga Ministria e Infrastrukturës dhe Energjisë, dhe bashkimit të operatorëve ekonomikë “Kastrati Group” sh.a. dhe “Edil-Al-It” sh.p.k.
