@@ -1,0 +1,1 @@
+1. Struktura administruese e bazës të të dhënave, krijuar në bazë të nenit 37, të aktit normativ nr.1, datë 31.1.2020, të Këshillit të Ministrave, është Operacioni Forca e Ligjit (në vijim referuar OFL), në Policinë e Shtetit.

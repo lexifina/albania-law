@@ -1,0 +1,1 @@
+9. Niveli i aksesit dhe të drejtat e secilit përdorues për punonjësit e OFL-së në bazën e të dhënave përcaktohen me urdhër të drejtorit të Përgjithshëm të Policisë së Shtetit, duke marrë parasysh funksionin dhe pozicionin e punës së përdoruesve.

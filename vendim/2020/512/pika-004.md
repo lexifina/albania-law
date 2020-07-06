@@ -1,0 +1,1 @@
+4. Të dhënat e përcaktuara në pikën 3, të këtij vendimi, janë të dhëna parësore në bazën e të dhënave shtetërore ICMIS - Sistemi Elektronik i Regjistrimit të Çështjeve Gjyqësore, të administruar nga Ministria e Drejtësisë.

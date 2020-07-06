@@ -1,0 +1,6 @@
+3. Baza e të dhënave ka për qëllim administrimin, përpunimin dhe analizimin e të dhënave mbi krimin e organizuar, krimet e rënda e terrorizmin dhe përmban të dhënat e mëposhtme:
+a) Çdo vendim penal, pavarësisht nëse ka marrë formë të prerë ose jo, për një nga veprat penale të parashikuara në nenin 5, të aktit normativ nr.1, datë 31.1.2020, të Këshillit të Ministrave;
+b) Çdo vendim penal të dhënë jashtë shtetit ndaj shtetasve shqiptarë ose të huaj ose pa shtetësi por me banim në shtetin shqiptar, për një nga veprat penale të parashikuara në nenin 5, të aktit normativ nr.1, datë 31.1.2020, të Këshillit të Ministrave;
+c) Çdo vendim mosfillimi të procedimit, të pushimit të akuzës ose të çështjes ose për dërgimin e çështjes në gjyq për një nga veprat penale të parashikuara në nenin 5, të aktit normativ nr.1, datë 31.1.2020, të Këshillit të Ministrave;
+ç) Çdo vendim për marrjen e masave parandaluese personale, sipas parashikimeve të aktit normativ nr.1, datë 31.1.2020, të Këshillit të Ministrave;
+d) Çdo vendim për marrjen e masave parandaluese me karakter pasuror dhe ekonomik, të marrë sipas parashikimeve të aktit normativ nr.1, datë 31.1.2020, të Këshillit të Ministrave ose sipas parashikimeve të ligjit nr.10192, datë 3.12.2009, “Për parandalimin dhe goditjen e krimit të organizuar dhe trafikimit nëpërmjet masave parandaluese kundër pasurisë”, të ndryshuar.
