@@ -18,6 +18,7 @@ a) “Dokumenti identifikues”, dokumenti zyrtar i lëshuar nga ministria përg
 b) “Komisioni”, Komisioni i Standardizimit të Veprimtarive Turistike, i cili funksionon sipas ligjit nr.93/2015, dhe akteve nënligjore përkatëse.
 c) “Ministri”, ministri përgjegjës për turizmin.
 ç) “Ministria”, ministria përgjegjëse për turizmin.
+d) “Aplikim elektronik”, nëpërmjet portalit qeveritar e-Albania, ku të mundësohet aplikimi për pajisjen me certifikatë për ushtrimin e veprimtarisë së udhërrëfyesit turistik dhe dorëzimi i dokumenteve që shoqërojnë kërkesën.
 KREU II
 KRITERET PËR PAJISJEN ME CERTIFIKATË
 Neni 3
@@ -36,18 +37,19 @@ PROCEDURA PËR MARRJEN E CERTIFIKATËS
 Neni 5
 Kërkesa për marrjen e certifikatës
 1. Kërkesa për pajisjen me certifikatë paraqitet në ministrinë përgjegjëse për turizmin, pranë të cilës funksion komisioni.
-2. Për t’u pajisur me certifikatën e udhërrëfyesit turistik, aplikuesi duhet të dorëzojë pranë ministrisë përgjegjëse për turizmin kërkesën me shkrim, e cila duhet të përmbajë:
+2. Për t’u pajisur me certifikatën e udhërrëfyesit turistik, aplikuesi duhet të plotësojë formularin e aplikimit, i cili duhet të përmbajë:
 a) të dhënat e aplikuesit (emrin, mbiemrin, numrin personal, adresën e saktë, numrin e telefonit);
 b) kategorinë e udhërrëfyesit turistik, për të cilën kërkohet certifikata;
 c) gjuhën ose gjuhët e huaja në të cilën udhërrëfyesi do të ushtrojë aktivitetin e tij;
-ç) vendin, datën dhe nënshkrimin e aplikuesit.
+ç) Shfuqizur.
 3. Kërkesa duhet të shoqërohet me dokumentacionin, si më poshtë vijon:
-a) fotokopjen e letërnjoftimit ose pasaportës;
+a) Shfuqizuar;
 b) dëshminë e penalitetit, të lëshuar jo më herët se tre muaj përpara datës së aplikimit, e cila mund të paraqitet origjinale ose fotokopje e noterizuar;
 c) fotokopjen e noterizuar të dokumentit të përfundimit të studimeve të arsimit të mesëm ose të lartë;
 ç) fotokopjen e noterizuar të dokumentit që vërteton përfundimin me sukses të programit të kualifikimit të udhërrëfyesit turistik, sipas kategorisë përkatëse;
 d) dokumentin që vërteton njohjen dhe aftësitë komunikuese shumë të mira në gjuhën e huaj, në të cilën do të ofrojë shërbimet e tij udhërrëfyesi turistik. Niveli i njohjes së gjuhës së huaj duhet të jetë të paktën i nivelit B2, sipas Kuadrit të Përbashkët Evropian të Referencave për Gjuhët.
 dh) vërtetimin për pagesën e tarifës së aplikimit, sipas pikës 1, të nenit 11.
+e) fotografinë për dokument të aplikuesit në format elektronik.
 4. Për shtetasit e huaj, përveç dokumenteve të parashikuara në pikën 2, të këtij neni, kërkesa duhet të shoqërohet edhe me dokumentacionin e mëposhtëm:
 a) leje qëndrimi e shtetasit të huaj në Republikën e Shqipërisë, e vlefshme për jo më pak se një vit;
 b) dokument (certifikatë/dëshmi) që vërteton njohuritë bazë të gjuhës shqipe, të lëshuar nga një institucion i certifikuar nga ministria përgjegjëse për arsimin.
@@ -80,13 +82,14 @@ b) të ketë ushtruar veprimtarinë e tij në përputhje me dispozitat e kësaj 
 c) të ketë marrë kreditet e nevojshme për rinovim, në bazë të sistemit të krediteve të programit për edukimin profesional në vazhdim, sipas ligjit nr. 93/2015, “Për turizmin”.
 Neni 10
 Rinovimi i certifikatës
-1. Udhërrëfyesi, jo më vonë se 30 ditë para përfundimit të afatit të vlefshmërisë së certifikatës së tij, paraqet kërkesën me shkrim për rinovimin e certifikatës, me të njëjtat të dhëna, të parashikuara në pikën 2, të nenit 5.
+1. Udhërrëfyesi, jo më vonë se 30 (tridhjetë) ditë para përfundimit të afatit të vlefshmërisë së certifikatës së tij, aplikon nëpërmjet formularit të aplikimit, me të njëjtat të dhëna, të parashikuara në pikën 2, të nenit 5.
 2. Kërkesa duhet të shoqërohet me dokumentacionin, si më poshtë vijon:
-a) fotokopje e letërnjoftimit ose pasaportës;
+a) Shfuqizuar;
 b) fotokopje e certifikatës së vlefshme të udhërrëfyesit;
 c) fotokopje e dokumentacionit që provon marrjen e krediteve të nevojshme për rinovim, sipas kërkesave të ligjit nr. 93/2015, “Për turizmin”;
 ç) dëshminë e penalitetit, të lëshuar jo më herët se tre muaj përpara datës së aplikimit, dhe mund të paraqitet origjinale ose fotokopje e noterizuar;
-d) vërtetimi për pagesën e tarifës së aplikimit, sipas pikës 1, të nenit 11.
+d) vërtetimi për pagesën e tarifës së aplikimit, sipas pikës 1, të nenit 11;
+dh) Fotografinë për dokument të aplikuesit në format elektronik.
 3. Për shtetasit e huaj, përveç dokumenteve të parashikuara në pikën 2, të këtij neni, kërkesa duhet të shoqërohet edhe me lejen e qëndrimit të shtetasit të huaj në Republikën e Shqipërisë, të rinovuar.
 4. Komisioni, brenda 20 ditëve nga data e regjistrimit të kërkesës së udhërrëfyesit, e shqyrton atë dhe merr vendim për rinovimin ose jo të certifikatës së udhërrëfyesit turistik.
 5. Në rast se komisioni refuzon kërkesën për rinovimin e certifikatës, vendimi duhet të jetë i arsyetuar.
