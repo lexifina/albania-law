@@ -1,0 +1,1 @@
+4. Vlera e përgjithshme e kompensimit, prej 20 932 039 (njëzet milionë e nëntëqind e tridhjetë e dy mijë e tridhjetë e nëntë) lekësh, të përballohet nga zëri “Fondi për rindërtimin”, i miratuar për vitin 2020.
