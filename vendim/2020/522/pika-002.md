@@ -1,0 +1,1 @@
+2. Drejtoria e Administrimit dhe e Mbrojtjes së Tokës, qarku Fier, të pasqyrojë në dokumentacionin kadastral (LN) ndryshimin e resursit, nga “tokë bujqësore” në “tokë urbane”, truall, për sipërfaqen ndërtimore, sipas lidhjes nr. 1, të pasurive me numër 27/31 dhe 27/32, zona kadastrale 1030, Njësia Administrative Strum, Bashkia Roskovec.
