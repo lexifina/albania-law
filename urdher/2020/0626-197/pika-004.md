@@ -1,0 +1,1 @@
+4. Zgjedhja e anëtarit të Dhomës së Përmbaruesve Gjyqësorë Privatë duhet të synojë shmangien konfliktit të interesit, në përputhje më legjislacionin në fuqi për parandalimin e konfliktit të interesit.

@@ -1,0 +1,1 @@
+9. Në rast të mbarimit të mandatit të njërit prej anëtarëve, ndiqet e njëjta procedurë, jo më vonë se 10 ditë pas marrjes dijeni për mbarimin e mandatit nga institucioni që përcakton kandidatin që ka mbaruar mandati.

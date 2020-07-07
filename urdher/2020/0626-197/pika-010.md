@@ -1,0 +1,1 @@
+10. Procedura administrative e verifikimit të kushteve ligjore të kandidatëve fillon jo më vonë se 5 ditë nga mbarimi i afatit për dorëzimin e dokumentacionit dhe përfundon jo më vonë se 20 ditë nga data e nisjes së procedurës.

@@ -1,0 +1,1 @@
+1. Miratimin e rregullave për paraqitjen dhe trajtimin e shprehjeve të interesit, si dhe verifikimin e plotësimit të kushteve ligjore për anëtarët e Komisionit Disiplinor të Përmbaruesve Gjyqësorë Privatë.

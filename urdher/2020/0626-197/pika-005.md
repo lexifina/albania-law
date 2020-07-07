@@ -1,0 +1,1 @@
+5. Kërkesa për shprehje interesi të kandidatëve publikohet në faqen zyrtare të Ministrisë së Drejtësisë, të Shkollës së Magjistraturës dhe në atë të Dhomës së Përmbaruesve Gjyqësorë Privatë për kandidatin respektiv, si dhe në Buletinin e Njoftimeve Zyrtare të Republikës së Shqipërisë dhe qëndron e hapur për një periudhë prej 15 ditësh nga data e shpalljes.
