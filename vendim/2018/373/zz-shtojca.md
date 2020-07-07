@@ -1,126 +1,133 @@
 # Shtojca
 SHTOJCA A
-KONTRATË TIP
-PËR DHËNIEN ME QIRA TË TOKËS BUJQËSORE NË PRONËSI TË SHTETIT
-Sot, në _____________, në datën ___.____.___________, hartohet kjo kontratë ndërmjet:
-Ministrisë së Bujqësisë dhe Zhvillimit Rural/ Institucioni i varësisë përfaqësuar nga ____________ (në vazhdim do të quhet “Qiradhënësi”);
+KONTRATË TIP PËR DHËNIEN ME QIRA TË TOKËS BUJQËSORE NË PRONËSI TË SHTETIT
+Sot, më datë ___.____.________, hartohet kjo kontratë ndërmjet:
+Ministrisë së Bujqësisë dhe Zhvillimit Rural/institucioni i varësisë, përfaqësuar nga ____________ (në vazhdim do të quhet “Qiradhënësi”),
 dhe
-Z.________________, lindur në __________, në datën ________________, banues në_______, në adresën____________, dokument identifikimi me nr. _________, dhe _______nr. regjistrimi në QKB (në vazhdim do të quhet “Qiramarrësi”).
-Ose në rastin kur qiramarrësi është person juridik:
-Shoqëria______________________, një shoqëri e themeluar sipas legjislacionit shqiptar, regjistruar me numër identifikimi të subjektit NUIS: ______________________, me seli në adresën_____________________, përfaqësuar nga z.____________________________, në cilësinë e __________________, me dokument identifikimi nr. _________________________ (në vazhdim do të quhet “Qiramarrësi”).
+z. _______________, lindur në __________, më datë ___.___._____, banues në _______, në adresën____________, dokument identifikimi me nr. _________ dhe nr. _______regjistrimi në QKB, (në vazhdim do të quhet “Qiramarrësi”).
+Ose në rastin kur Qiramarrësi është person juridik:
+Shoqëria _________________, një shoqëri e themeluar sipas legjislacionit shqiptar, regjistruar me numër identifikimi të subjektit NUIS: _______________, me seli në adresën ___________________, përfaqësuar nga z. _________________, në cilësinë e _______________, me dokument identifikimi nr. ____________ (në vazhdim do të quhet “Qiramarrësi”).
 Pjesëmarrësit në këtë kontratë do të quhen individualisht “Pala” dhe bashkërisht “Palët”.
-DISPOZITA HYRËSE TË KONTRATËS
-A. Qiradhënësi është administrues i pasurisë së paluajtshme shtetërore, tokë bujqësore me sipërfaqe prej __________ ha, me nr. pasurie:______, nr. kadastral:_______, e ndodhur në _____________ (në vazhdim “Pasuria”);
-B. Pasuria është objekt i legjislacionit në fuqi për qiranë e tokave bujqësore në pronësi të shtetit, dhe me konkretisht, i ligjit nr. 9244, datë 17.6.2004, “Për mbrojtjen e tokës bujqësore” i ndryshuar, i ligjit nr. 8318, datë 1.4.1998, “Për dhënien me qira të tokës bujqësore, pyjore, të livadheve dhe kullotave që janë pasuri shtetërore”, të ndryshuar, të vendimit të Këshillit të Ministrave nr. ____, datë ______, “Për përcaktimin e kritereve, rregullave dhe procedurave të dhënies me qira të tokës bujqësore në pronësi të shtetit”, të udhëzimit të ministrit të Bujqësisë dhe Zhvillimit Rural nr. _________, datë ________, “Për organizimin dhe funksionimin e strukturës përgjegjëse që kryen verifikimet paraprake dhe harton dokumentet e procedurës konkurruese, organizimin dhe funksionimin e Bordit, si dhe kriteret e vlerësimit të ofertave dhe mënyra e përllogaritjes së tyre”, si dhe të akteve të tjera ligjore e nënligjore që kanë si objekt tokën bujqësore (në vazhdim “Legjislacioni në fuqi për tokat bujqësore”);
-C. Qiramarrësi, me vendimin nr. ______, datë ____, të autoritetit qiradhënës, rezulton të jetë fitues i procedurës konkurruese të publikuar në datën ____________, sipas ofertës së paraqitur në lidhje me marrjen me qira të Pasurisë;
-Mbi sa më sipër, Palët bien dakord si më poshtë:
+Palët kontraktuese e hartojnë këtë kontratë në përputhje me dispozitat e Kodit Civil të Republikës së Shqipërisë, të ligjit nr. 9244, datë 17.6.2004, “Për mbrojtjen e tokës bujqësore”, të ndryshuar, të ligjit nr. 8318, datë 1.4.1998, “Për dhënien me qira të tokës bujqësore, pyjore, të livadheve dhe kullotave që janë pasuri shtetërore”, të ndryshuar, vendimit nr. 373, datë 20.6.2018, të Këshillit të Ministrave, “Për përcaktimin e kritereve, rregullave, procedurave dhe kontratës TIP, për dhënien me qira të tokave bujqësore në pronësi të shtetit”, të ndryshuar, udhëzimit të ministrit të Bujqësisë dhe Zhvillimit Rural nr. 12, datë 30.7.2018, “Për organizimin dhe funksionimin e strukturës përgjegjëse që kryen verifikimet paraprake dhe harton dokumentet e procedurës konkurruese, organizimin dhe funksionimin e Bordit, si dhe kriteret e vlerësimit të ofertave dhe mënyra e përllogaritjes së tyre”, të ndryshuar, vendimin nr. 22/2018, të Këshillit të Ministrave, “Për miratimin e kritereve e të procedurave për certifikimin e veprimtarisë së agroturizmit dhe ndërtimin e strukturave/objekteve në funksion të tij”, të ndryshuar, urdhrin e përbashkët të ministrit të Bujqësisë dhe Zhvillimit Rural dhe të ministrit të Turizmit dhe Mjedisit nr. 311, datë 9.9.2019, “Rregullore mbi funksionimin e komisionit vlerësues të certifikimit të subjekteve që ushtrojnë veprimtarinë e agroturizmit, procedurat e aplikimit dhe të vlerësimit paraprak dhe përfundimtar, si dhe të pezullimit dhe/ose shfuqizimit të certifikatës paraprake apo certifikatës”, si dhe të akteve të tjera ligjore e nënligjore që kanë si objekt tokën bujqësore (në vazhdim “Legjislacioni në fuqi për tokat bujqësore”).
+Qiramarrësi është fitues i procedurës konkurruese zhvilluar më datë ____.____.______, sipas ofertës së paraqitur në lidhje me marrjen me qira të pasurisë, njoftuar me shkresën nr. ____ prot., datë ____.___._____, “Njoftimin e fituesit” të Qiradhënësit.
+Mbi sa më sipër, palët bien dakord si më poshtë:
 Neni 1
-Objekti, afati dhe vlera e kontratës
-1. Objekt i kësaj kontrate është dhënia nga Qiradhënësi dhe marrja me qira nga ana e Qiramarrësit e Pasurisë tokë bujqësore me sipërfaqe prej _________ ha, me nr. pasurie:__________, nr. kadastral:___________, e ndodhur në __________ (në vazhdim “Pasuria”);
-2. Dorëzimi i Pasurisë do të kryhet brenda 5 ditëve nga nënshkrimi i kësaj kontrate, nëpërmjet një inventari të nënshkruar nga Qiradhënësi së bashku me përfaqësuesit e Drejtorisë së Administrimit dhe Mbrojtjes së Tokës pranë Këshillit të Qarkut, ku gjendet toka bujqësore dhe Qiramarrësi. Ky inventar i shoqëruar me fragmentin e hartës kadastrale të ngastrave i bashkëlidhet kësaj kontrate.
-Kjo kontratë hyn në fuqi pasi nënshkruhet nga palët dhe është kryer pagesa e këstit të parë nga qiramarrësi sikurse përcaktohet në pikën 4 të këtij neni.
-3. Kjo kontratë ka një afat ___________ vjeçar.
-Palët bien dakord që vlera e qirasë vjetore për marrjen me qira të Pasurisë të jetë ___________lekë/ha/vit (“Çmimi i Qirasë” ose “Qiraja”), sipas ofertës fituese të procedurës konkurruese dhe të përcaktuar me vendim nga autoriteti qiradhënës, në përputhje me tabelën e çmimeve përcaktuar në __________, të vendimit të Këshillit të Ministrave nr. _____, datë ________, “Për përcaktimin e kritereve, rregullave dhe procedurave dhe kontratës tip për dhënien me qira të tokës bujqësore në pronësi të shtetit”.
-Vlera e qirasë së tokës objekt i kësaj kontrate, parapaguhet nga ana e qiramarrësit. Pagesa e qirasë për vitin e parë të qiramarrjes kryhet si parapagim menjëherë në momentin e lidhjes së kontratës, ndërsa për periudhën vijuese brenda tremujorit të parë të vitit përkatës. Pagesa të kryhet në llogarinë bankare të Qiradhënësit Qiramarrësi përballon edhe pagesat e taksës vjetore të tokës dhe detyrimet fiskale në raport me tokën bujqësore objekt qiraje.
-4. Palët bien dakord se vlera e qirasë së tokës objekt i kësaj kontrate do të rishikohet çdo 5 vjet, bazuar në normën mesatare të inflacionit në 5 viteve e fundit, sipas Bankës së Shqipërisë.
+Objekti i kontratës
+Objekti i kontratës është dhënia me qira e tokës bujqësore me sipërfaqe _________, në pasuritë me nr. ______, zona kadastrale ______, e ndodhur në ___________, sipas hartës treguese të regjistrimit, aneksi A, që i bashkëngjitet kësaj kontrate dhe është pjesë përbërëse e saj.
 Neni 2
-Të drejtat dhe detyrimet e qiramarrësit
-Qiramarrësi ka për detyrim që:
-a) Të shlyejë në kohë dhe në mënyrë korrekte vlerën e qirasë të përcaktuar në nenin 1 më lart;
-b) Të dorëzojë pranë Qiradhënësit kopje të dokumentit bankar që vërteton pagesën e çmimit të qirasë;
-c) Të përdorë Pasurinë sipas kritereve të mëposhtme:
-i. toka objekt i kësaj kontrate do të përdoret në përputhje me legjislacionin në fuqi për tokën bujqësore dhe vetëm për veprimtari bujqësore dhe blegtorale, që përcaktohet në planin e biznesit të veprimtarisë, modeli i të cilit miratohet me udhëzim të ministrit;
-ii. do të ruajë funksionet natyrore që përmbush toka bujqësore si kategori resursi;
-iii. do të zbatojë një praktikë të mirë bujqësore të përcaktuar në nenin 16, të ligjit nr. 9244, datë 17.6.2004 “Për mbrojtjen e tokës bujqësore”, të ndryshuar;
-iv. toka do të shfrytëzohet mbi të drejtën e përcaktuar në nenin 17, të ligjit nr. 9244, datë 17.6.2004, “Për mbrojtjen e tokës bujqësore”, të ndryshuar;
-v. do të sigurojë të gjithë bazën materiale dhe infrastrukturën për realizimin e investimit dhe ushtrimin e veprimtarisë bujqësore e blegtorale mbi tokën bujqësore në përputhje me të gjitha elementet dhe kriteret e përcaktuara në planin e biznesit, pjesë përbërëse e kësaj kontrate;
-vi. të mos japë me nënqira tokën bujqësore, objekt i kësaj kontrate;
-d) Në sipërfaqen e pasurisë të realizojë mbjelljen e kulturave bujqësore të paraqitura në planin e biznesit, pjesë përbërëse e kësaj kontrate.
-e) Të lejojë Qiradhënësin ose persona të autorizuar të tij që në çdo kohë të ushtrojnë kontroll në lidhje me tokën bujqësore objekt të kësaj kontrate për të përcaktuar nëse Qiramarrësi respekton detyrimet dhe kushtet ligjore të legjislacionit mbi tokën bujqësore, ato të kësaj kontrate, kriteret dhe elementet e përcaktuara në planin e biznesit, si dhe në vendosi në dispozicion edhe dokumentacionin e kërkuar;
-f) Të depozitojë dhe të regjistrojë këtë kontratë pranë zyrës vendore të regjistrimit të pasurive të paluajtshme, duke marrë përsipër të gjitha shpenzimet që krijohen nga ky proces. Certifikata/t e qirasë të lëshuara nga zyra vendore e regjistrimit të pasurive të paluajtshme, i bashkëlidhet/n kësaj kontrate pas regjistrimit.
-g) Të depozitojë pranë Qiradhënësit informacion periodik në muajin janar të çdo viti mbi zbatimin e detyrimeve të parashikuara në këtë kontratë dhe në planin e biznesit, të shoqëruar me dokumentacionin përkatës provues.
-h) Në çdo rast, Qiramarrësi dhe Qiradhënësi shkarkohen nga përgjegjësia, kur për shkak të forcave madhore si përmbytje, tërmet, zjarre etj., nuk përmbushin detyrimet e parashikuara në këtë kontratë kontraktore. Nëse vërtetohet një situatë ë tillë, kjo situatë ndodh atëherë Palët bien dakord për masën dhe mënyrën se si do veprohet për moszbatimin e kritereve të kontratës.
+Afati i kontratës
+Kjo kontratë lidhet për një periudhë _______ ( ) vjeçare. Afati i kësaj kontrate qiraje fillon nga dita kur Qiramarrësit i dorëzohet toka bujqësore, objekt i kontratës.
 Neni 3
-Të drejta dhe detyrime të qiradhënësit
-1. Qiradhënësi ka për detyrë:
-a) T’i dorëzojë Qiramarrësit Pasurinë, objekt i kësaj kontrate, si dhe të lejojë përdorimin e qetë të Pasurisë nga Qiramarrësi gjatë gjithë kohëzgjatjes së kontratës. Kontratës i bashkëngjitet planimetria përkatëse e tokës bujqësore dhe procesverbali i dorëzimit të saj;
-b) Të ushtrojë kontrolle periodike mbi Pasurinë, për të verifikuar nëse Qiramarrësi respekton detyrimet dhe kushtet ligjore të legjislacionit mbi mbrojtjen e tokës bujqësore, si dhe ato të parashikuara në këtë kontrate.
-2. Qiradhënësi ka të drejtë:
-a) Të zgjidhë pjesërisht apo plotësisht kontratën e qirasë me qiramarrësin, në rast se vihet në dijeni për një palë të tretë që disponon një titull pronësie për të gjithë apo një pjesë të sipërfaqes së tokës objekt qiradhënie;
-b) Të zgjidhë kontratën në mënyrë të njëanshme: në çdo rast, kur konstaton se qiramarrësi e ka dhënë tokën me nënqira.
+Vlera e qirasë
+Qiramarrësi do të paguajë detyrimin për qiranë vjetore të tokës bujqësore të marrë me qira në vlerën prej _____________________ lekë në vit. Vlera e qirasë do të jetë vlera e përcaktuar, njoftuar me shkresën nr. ________, datë _____________, “Njoftimi i fituesit” të Qiradhënësit.
+Qiramarrësi e kryen parapagim vlerën e qirasë vjetore, brenda 30 (tridhjetë) ditëve nga momenti i nënshkrimit të kontratës, ndërsa për periudhën vijuese brenda datës _______ të çdo viti.
+Kjo vlerë do të depozitohet në lekë (ALL) në llogarinë e Qiradhënësit. Dëftesa e bankës do të shërbejë si provë e kryerjes së pagesës, një kopje e së cilës i vihet në dispozicion Qiradhënësit.
+Qiramarrësi përballon edhe pagesat e taksës vjetore dhe detyrime të tjera fiskale në lidhje me tokën bujqësore, objekt kontrate.
+Vlera e qirasë së tokës, objekt kontrate, do të rishikohet çdo 5 (pesë) vjet, bazuar në normën mesatare të inflacionit në 5 vitet e fundit, sipas Bankës së Shqipërisë.
 Neni 4
-Plani i investimeve
-1. Investimet që do të realizohen nga Qiramarrësi, janë në përputhje me planin e biznesit të aktivitetit, pjesë përbërëse e kësaj kontrate.
-2. Verifikimi i realizimit të programit të investimeve kapitale bëhet nga grupi i monitorimit i ngritur për këtë qëllim nga Qiradhënësi.
+Qëllimi dhe përdorimi i tokës bujqësore
+Toka bujqësore e dhënë me qira do të përdoret nga Qiramarrësi për realizimin e aktivitetit bujqësor dhe/ose blegtoral të parashikuar në planin e biznesit, aneksi B, që i bashkëlidhet kësaj kontrate dhe është pjesë përbërëse e saj.
+Qiramarrësi duhet ta përdorë tokën në përputhje me legjislacionin në fuqi për tokën bujqësore, të ruajë funksionet natyrore që përmbush toka bujqësore si kategori resursi, të shfrytëzojë tokën në zbatim të parashikimeve të neneve 16 dhe 17, të ligjit nr. 9244, datë 17.6.2004, “Për mbrojtjen e tokës bujqësore”, të ndryshuar.
 Neni 5
-Garancia/sigurimi i kontratës
-1. Qiramarrësi duhet të paraqesë pranë Qiradhënësit sigurimin e kontratës në formën e një garancie bankare ose sigurimi të lëshuar nga shoqëritë e sigurimit, në vlerën prej 2% e investimeve kapitale të parashikuara, në momentin e lidhjes së kontratës. Në rast se Qiramarrësi nuk e dorëzon në kohë sigurimin e kontratës, atëherë qiradhënësi ka të drejtë të mos e dorëzojë pasurinë.
-2. Sigurimi i Kontratës lëshohet për një afat kohor 1-vjeçar dhe do të rinovohet çdo vit deri në përfundimin e investimeve kapitale të parashikuara. Qiramarrësi ka detyrimin të rinovojë dhe të paraqesë sigurimin e kontratës, 30 ditë kalendarike, para përfundimit të periudhës së garancisë paraardhëse.
-Sigurimi i kontratës do të reduktohet propocionalisht vit pas viti në raport me investimin e realizuar në vitin paraardhës. Forma e garancisë së kontratës është sipas aneksit 1 bashkëlidhur kësaj kontrate.
-3. Në rastin kur Qiramarrësi realizon investimin kapital të parashikuar përpara afatit, atëherë, me kërkesë të këtij të fundit, Qiradhënësi çliron sigurimin e kontratës në raport me investimin e realizuar.
-4. Deri në përfundimin e investimit, Qiramarrësi i raporton çdo vit Qiradhënësit në lidhje me progresin e pjesshëm apo të plotë të investimeve. Qiradhënësi, brenda 15 ditësh nga njoftimi, nëse e shikon të vlefshme, bën verifikimin ose jo të progresit, dhe nëse ka ndonjë vërejtje, njofton Qiramarrësin dhe Bankën që ka lëshuar Garancinë për ndonjë korrigjim të raport progresit.
+Transferimi
+Në rast se Qiramarrësi, person fizik, ndërron jetë, detyrimet që rrjedhin nga kontrata e qirasë i kalojnë trashëgimtarëve, mbas kërkesës së tyre te Qiradhënësi. Kërkesa duhet të bëhet brenda 60 ditëve nga momenti i ngjarjes. Me mbarimin e këtij afati, nëse nuk ka asnjë kërkesë nga trashëgimtarët, kontrata zgjidhet.
 Neni 6
-Zgjidhja e kontratës
-1. Kjo kontratë përfundon në momentin e përfundimit të afatit të saj të përcaktuar në nenin 1.
-2. Kjo kontratë përfundon përpara afatit të përcaktuar në nenin 1, kur palët zgjidhin në mënyrë të njëanshme kontratën.
-3. Qiradhënësi ka të drejtë të zgjidhe në mënyrë të njëanshme kontratën në rast të konstatimit të mospërmbushjeve të detyrimeve nga Qiramarrësi si më poshtë:
-3.1 Qiramarrësi nuk ka paguar vlerën e qirasë brenda afatit të përcaktuar në kontratë. Në këtë rast Qiradhënësi dërgon një njoftim paraprak për mospërmbushjen e konstatuar dhe inicimin e zgjidhjes së kontratës. Në rast se Qiramarrësi nuk ekzekuton detyrimin brenda 30 ditëve nga dërgimi i njoftimit, Qiradhënësi njofton Qiramarrësin për vendimin për zgjidhjen e kontratës, si dhe përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të marrin në dorëzim tokën.
-3.2 Qiramarrësi është në mospërmbushje të përsëritur të detyrimeve kontraktore dhe këto mospërmbushje të përsëritura janë konstatuar gjatë për një periudhë 1-vjeçare. Në këtë rast, Qiradhënësi dërgon një njoftim paraprak te Qiradhënësi. Në rast se brenda 15 ditëve nga marrja e njoftimit, Qiramarrësi provon se mospërmbushjet kanë ardhur për shkaqe që nuk janë në përgjegjësinë e tij, Qiradhënësi i jep një afat të arsyeshëm kohor për përmbushjen e detyrimeve. Në rast se brenda 15 ditëve nga marrja e njoftimit, Qiramarrësi nuk provon që mospërmbushjet kanë ardhur për shkaqe që nuk janë në përgjegjësinë e tij, Qiradhënësi njofton Qiramarrësin për vendimin për zgjidhjen e kontratës, si dhe përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të marrin në dorëzim tokën.
-3.3 Qiramarrësi nuk ka zbatuar detyrimet e kësaj kontrate të përcaktuar në nenin 2, pika “d”. Në këtë rast, Qiradhënësi i kërkon me shkrim Qiramarrësit përmbushjen e këtij detyrimi brenda vitit bujqësor pasardhës. Në rast të mospërmbushjes së këtij detyrimi brenda afatit të përcaktuar nga Qiradhënësi, atëherë Qiradhënësi njofton Qiramarrësin për vendimin zgjidhjen e kontratës, si dhe përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të marrin në dorëzim tokën.
-3.4 Qiramarrësi nuk ka zbatuar detyrimet e kësaj kontrate lidhur me vënien në dispozicion të raporteve periodike mbi përmbushjen e detyrimeve kontraktore ose nuk merr masa për të siguruar aksesin e plotë të përfaqësuesve të Qiradhënësit për të verifikuar përmbushjen e detyrimeve kontraktore. Në këtë rast, Qiradhënësi dërgon një njoftim paraprak për mospërmbushjen e konstatuar dhe inicimin e zgjidhjes së kontratës. Në rast se Qiramarrësi nuk ekzekuton detyrimin brenda 30 ditëve nga dërgimi i njoftimit, Qiradhënësi njofton Qiramarrësin për vendimin për zgjidhjen e kontratës, si dhe përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të marrin në dorëzim tokën.
-3.5 Qiramarrësi ka dhënë me nënqira tokën objekt i kësaj kontrate ose përdor tokën për qëllim tjetër, të ndryshëm nga çfarë është parashikuar në planin e biznesit dhe këtë kontratë. Në këtë rast Qiradhënësi dërgon një njoftim paraprak për mospërmbushjen e konstatuar dhe brenda 30 ditëve zgjidh kontratën, si dhe përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të marrin në dorëzim tokën.
-3.6 Qiramarrësi ka shkelur një detyrim kontraktor të parashikuar në këtë kontratë dhe në legjislacionin në fuqi për tokën bujqësore. Në këtë rast, Qiradhënësi dërgon një njoftim paraprak për mospërmbushjen e konstatuar dhe iniciimin e zgjidhjes së kontratës. Në rast se Qiramarrësi nuk ekzekuton detyrimin brenda 30 ditëve nga dërgimi i njoftimit, Qiradhënësi njofton Qiramarrësin për vendimin për zgjidhjen e kontratës, si dhe përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të marrin në dorëzim tokën.
-3.7 Qiramarrësi nuk ka realizuar planin e investimeve, sipas afateve dhe vlerave të parashikuara kontratë dhe/ose në Planin e Biznesit pjesë e kësaj kontrate.
-4. Qiradhënësi nuk mban asnjë përgjegjësi financiare në raport me Qiramarrësin në rastet të zgjidhjes së njëanshme të kontratës sipas pikës 3.1-3.7 të këtij neni. Në këto raste të zgjidhjes së njëanshme të kontratës, investimet e realizuara i mbeten Qiradhënësit (kulturat bujqësore shumëvjeçare, frytet e tyre, si dhe vepra kulluese e ujitëse).
-5. Qiradhënësi ka të drejtë që të zgjidhë pjesërisht apo plotësisht kontratën e qirasë me qiramarrësin përpara mbarimit të afatit, kur në bazë të planit urbanistik në këtë sipërfaqe toke, parashikohet kryerja e një investimi me interes publik sipas legjislacionit në fuqi. Në këtë rast, Qiradhënësi është i detyruar të njoftojë me shkrim Qiramarrësin të paktën 1 vit përpara për zgjidhjen paraprake të kontratës dhe rimarrjen në zotërim të Pasurisë. Në këtë rast, Qiradhënësi është i detyruar ta kompensojë Qiramarrësin për shpenzimet e kryera në Pasurinë të cilat nuk mund të shkëputen nga Pasuria pa pësuar dëmtime, kjo në përputhje me dispozitat përkatëse të Kodit Civil dhe të tipit të investimit.
-6. Qiradhënësi ka të drejtë që të zgjidhë menjëherë, pjesërisht apo plotësisht kontratën e qirasë me qiramarrësin përpara mbarimit të afatit, në rast se vihet në dijeni për një palë e tretë që disponon një titull pronësie për të gjithë apo një pjesë të sipërfaqes së tokës objekt qiradhënie. Në këtë rast Qiradhënësi nuk ka asnjë përgjegjësi ligjore dhe financiare në raport me Qiramarrësin. Qiramarrësi ka të drejtë të marrë investimin për aq sa është e mundur.
-7. Qiramarrësi ka të drejtë të zgjidhë në mënyrë të njëanshme kontratën në rast të konstatimit të mospërmbushjeve të detyrimeve të parashikuara në këtë kontratë nga Qiradhënësi. Në këtë rast, Qiramarrësi dërgon një njoftim paraprak për mospërmbushjen e konstatuar dhe iniciimin e zgjidhjes së kontratës. Në rast se Qiradhënësi nuk ekzekuton detyrimin brenda 30 ditëve nga dërgimi i njoftimit, Qiramarrësi njofton Qiramadhënësin për vendimin për zgjidhjen e kontratës, si dhe përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të dorëzojnë tokën.
-8. Qiramarrësi mund ta zgjidhë këtë kontratë në çdo kohë, me anë të një njoftimi paraprak me shkrim, 180 ditë kalendarike, para përfundimit të kontratës, dërguar Qiradhënësit. Në çdo rast, Qiramarrësi duhet të ketë ekzekutuar detyrimin e parashikuar në kontratë për pagesën e qirasë deri në momentin e zgjidhjes së kontratës. Në këtë rast, Qiramarrësi nuk ka asnjë përgjegjësi ligjore dhe financiare në raport me Qiradhënësin
-9. Nëse pas lidhjes së kontratës, konstatohen raste të pamundësisë objektive të qiradhënies për një pjesë të sipërfaqes së kontraktuar (kur provohet se një palë e tretë disponon një titull pronësie për një pjesë të sipërfaqes së ngastrës objekt qiradhënie ose në rast se një pjesë e sipërfaqes së tokës është destinuar për investime publike), me pëlqimin e palëve, kjo sipërfaqe mund të zbritet nga sipërfaqja e parashikuar në kontratën bazë dhe për këtë palët duhet të nënshkruajnë një amendament të kontratës bazë. Në rast se palët nuk bien dakord, atëherë Qiradhënësi vepron në përputhje me parashikimet e pikës 5 dhe 6 të këtij neni.
-10. Verifikimi i realizimit të programit të investimeve kapitale bëhet nga grupi i monitorimit i ngritur për këtë qëllim nga Qiradhënësi, si më poshtë:
-a) Nëse në përfundim të vitit të tretë konstatohet që Qiramarrësi ka realizuar jo më shumë se 20% e investimeve kapitale të parashikuara, atëherë Qiradhënësi ka të drejtë të kërkojë prishjen e kontratës dhe sekuestrimin e garancisë;
-b) Nëse në përfundim të vitit të pestë konstatohet që Qiramarrësi nuk ka realizuar 70% të totalit të investimeve kapitale të parashikuara, atëherë Qiradhënësi ka të drejtën e vendosjes së një gjobe sipas nenit 7, pika 3.
-11. Përveç sa parashikohet në pikën 5 të këtij neni, në rastet e zgjidhjes së parakohshme të kontratës, Qiramarrësi nuk ka të drejtë të kërkojë asnjë kompensim të investimeve të trupëzuara në tokën bujqësore, si p.sh., kulturat bujqësore shumëvjeçare, si dhe vepra kulluese e ujitëse.
+Të drejtat dhe detyrimet e Qiradhënësit
+Qiradhënësi ka për detyrë:
+a) T’i dorëzojë Qiramarrësit, me anë të një inventari, tokën bujqësore, objekt i kësaj kontrate, brenda 30 (tridhjetë) ditëve nga momenti i nënshkrimit të kontratës. Inventari i dorëzimit nënshkruhet nga palët dhe i bashkëlidhen kopje të planvendosjes ose hartës treguese të regjistrimit. Në rast se nuk arrihet dorëzimi, Qiramarrësi ka të drejtë të kërkojë zgjidhjen e kontratës dhe kthimin e vlerës së qirasë vjetore të parapaguar.
+b) Të garantojë Qiramarrësin nga shqetësimet që pakësojnë vlerën e përdorimit dhe të gëzimit të sendit, të shkaktuara nga të tretët, që pretendojnë se kanë të drejta mbi të tokën bujqësore, objekt kontrate. Qiradhënësi nuk është i detyruar të garantojë Qiramarrësin nga shqetësimet e të tretëve që nuk pretendojnë të kenë të drejta mbi tokën. Në këtë rast Qiramarrësi ruan të drejtën të ngrejë padi kundër të tretëve në emrin e tij.
+Qiradhënësi ka të drejtë:
+4.2 Të ushtrojë kontroll mbi pasurinë e dhënë me qira, për të përcaktuar nëse Qiramarrësi respekton detyrimet e parashikuara në kontratë, sipas natyrës dhe rregullave agroteknike. Qiradhënësi lajmëron Qiramarrësin të paktën 24 (njëzet e katër) orë më parë. Gjatë këtyre vizitave, Qiradhënësi do të jetë i shoqëruar nga një person i autorizuar i Qiramarrësit.
+4.3 T’i kërkojë informacion Qiramarrësit në lidhje me realizimin e investimeve të parashikuara në planin e biznesit, pjesë përbërëse e kontratës, si dhe çdo informacion tjetër në lidhje me përmbushjen e detyrimeve të përcaktuara në këtë kontratë.
 Neni 7
-Sanksione
-1. Qiramarrësi, paguan kamatëvonesën në vlerën 0.5% të detyrimit vjetor të qirasë për çdo ditë vonese në pagesën e qirasë, duke filluar nga data e përcaktuar në këtë kontratë.
-2. Qiramarrësi paguan një penalitet në formën e kushtit penal gjobor në vlerën 1% të detyrimit vjetor të qirasë për çdo ditë në të cilën ai është në shkelje të detyrimit të tij të përcaktuar në pikën “d” të nenit 2.
-3. Qiramarrësi paguan një penalitet në formën e kushtit penal gjobor për vonesat në realizimin e investimeve kapitale në masën 0.5% të vlerës së investimeve kapitale të pakryera, për çdo vit vonesë.
+Të drejtat dhe detyrimet e Qiramarrësit
+Qiramarrësi ka për detyrë:
+a) Të marrë në dorëzim sendin dhe ta përdorë për qëllimin që është parashikuar në kontratë.
+b) Të kryejë pagesën e qirasë, sipas parashikimeve të nenit 3 të kësaj kontrate.
+c) Të informojë, në fund të çdo viti kalendarik ose kur kërkohet nga Qiradhënësi, mbi realizimin e përmbushjes së detyrimeve të parashikuara në këtë kontratë, të shoqëruar me dokumentacionin përkatës provues.
+ç) Të lejojë Qiradhënësin që në çdo kohë të ushtrojë kontroll mbi pasurinë e dhënë me qira, për të përcaktuar nëse Qiramarrësi respekton detyrimet e parashikuara në kontratë, sipas natyrës dhe rregullave agroteknike, si dhe të vendosë në dispozicion dokumentacionin e kërkuar prej tij.
+d) Të paguajë tarifën e analizave të nevojshme për bonitetin dhe shpenzimet për marrjen e mostrave, për institucionin përkatës.
+Qiramarrësi ka të drejtë:
+a) Të kërkojë uljen e çmimit të qirasë ose shtyrjen e pagimit të saj, kur rrethana të paparashikuara ose ngjarje të jashtëzakonshme e kanë ulur prodhimtarinë e një viti, në të paktën gjysmën, në krahasim me prodhimtarinë normale. Në këtë rast Qiramarrësi i kërkon me shkrim Qiradhënësit, brenda 30 (tridhjetë ditëve) nga ndodhja e ngjarjes, ndryshimin e vlerës së qirasë vjetore duke argumentuar arsyet. Qiradhënësi, brenda 30 (tridhjetë) ditëve, shqyrton kërkesën, të cilën e pranon ose e refuzon.
+b) Mbas vitit të tretë të qirasë, Qiramarrësi, me miratim të Qiradhënësit, mund të kërkojë ndryshimin e kulturës me çdo kulturë tjetër bujqësore. Afati i kontratës ndryshon sipas kulturës bujqësore që ndryshohet, në zbatim të pikës 1, kreu VI.
+c) Të kërkojë, me miratimin e Qiradhënësit, shtimin e investimeve të parashikuara në planin e biznesit, për ndërtimin e objekteve për prodhimin, ruajtjen dhe përpunimin e produkteve bujqësore e blegtorale apo objekte në funksion të agroturizmit. Në këtë rast zbatohen detyrimet që përcakton ligji nr. 8318, datë 1.4.1998, “Për dhënien me qira të tokës bujqësore dhe pyjore, të livadheve dhe kullotave që janë pasuri shtetërore”, të ndryshuar, dhe akteve nënligjore në zbatim të tij.
 Neni 8
-Zgjidhja e mosmarrëveshjeve
-1. Çdo mosmarrëveshje e lindur ndërmjet palëve, lidhur me zbatimin e detyrimeve ose interpretimin e kushteve të kësaj kontrate, në rast se nuk zgjidhet me mirëkuptim, çështja i paraqitet për gjykim gjykatës së rrethit në juridiksion të së cilës ndodhet toka bujqësore.
-Palët kontraktuese e hartojnë dhe e lidhin këtë kontratë në përputhje me dispozitat e Kodit Civil të Republikës së Shqipërisë, të ligjit nr. 9244, datë 17.6.2004, “Për mbrojtjen e tokës bujqësore”, të ndryshuar, të ligjit nr. 8318 datë 1.4.1998, “Për dhënien me qira të tokës bujqësore, pyjore, të livadheve dhe kullotave që janë pasuri shtetërore”, të ndryshuar, të vendimit të Këshillit të Ministrave nr. ______, datë ___________, “Për përcaktimin e kritereve, rregullave dhe procedurave dhe kontratës tip për dhënien me qira të tokës bujqësore në pronësi të shtetit”, të udhëzimit të ministrit të Bujqësisë, nr. _______, datë ________, “Për organizimin dhe funksionimin e strukturës përgjegjëse që kryen verifikimet paraprake dhe harton dokumentet e procedurës konkurruese, organizimin dhe funksionimin e Bordit, si dhe kriteret e vlerësimit të ofertave dhe mënyra e përllogaritjes së tyre”, si dhe të akteve të tjera ligjore e nënligjore që kanë si objekt tokën bujqësore (në vazhdim “Legjislacioni në fuqi për tokat bujqësore”).
+Sigurimi i garancisë së kontratës
+Qiramarrësi duhet të paraqesë pranë Qiradhënësit sigurimin e kontratës, në formën e një garancie bankare, ose sigurimi, të lëshuar nga shoqëritë e sigurimit, në vlerën 2% të investimeve të parashikuara në planin e biznesit, pjesë përbërëse e kësaj kontrate.
+Sigurimi i kontratës duhet t’i vendoset në dispozicion Qiradhënësit në momentin që njoftohet për nënshkrimin e kontratës, në të kundërt Qiradhënësi refuzon lidhjen e kontratës.
+Sigurimi i kontratës lëshohet për një afat 1-vjeçar dhe do të rinovohet çdo vit deri në realizimin e investimeve të parashikuara në planin e biznesit, pjesë përbërëse e kësaj kontrate.
+Qiramarrësi ka detyrimin të rinovojë dhe të paraqesë sigurimin e kontratës, 15 (pesëmbëdhjetë) ditë kalendarike përpara përfundimit të periudhës së garancisë paraardhëse. Qiramarrësi, vit pas viti, ka të drejtë t’i drejtohet Qiradhënësit me një kërkesë për reduktimin e vlerës së sigurimit të kontratës, në mënyrë proporcionale me investimin e realizuar në vitin paraardhës. Sigurimi i kontratës është pjesë përbërëse e kësaj kontrate, e emëruar si aneksi C, garanci e kontratës.
 Neni 9
+Ndërtimi i objekteve në funksion të agroturizmit
+Në rastin kur Qiramarrësi parashikon ndërtimin e objekteve në funksion të agroturizmit, kontrata lidhet me kushtin e zgjidhjes së kësaj kontrate, në rast se Qiramarrësit i refuzohet certifikata paraprake, sipas akteve ligjore “Për miratimin e kritereve e të procedurave për certifikimin e veprimtarisë së agroturizmit dhe ndërtimin e strukturave/objekteve në funksion të tij”, të ndryshuara, dhe rregullores “Mbi funksionin e Komisionit Vlerësues të Certifikimit të subjekteve që ushtrojnë veprimtarinë e agroturizmit, procedurat e aplikimit dhe të vlerësimit paraprak dhe përfundimtar, si dhe të pezullimit dhe/ose shfuqizimit të certifikatës paraprake apo të certifikatës”, të miratuar sipas akteve nënligjore në fuqi me urdhrin e përbashkët të ministrit të Bujqësisë dhe Zhvillimit Rural dhe ministrit të Turizmit dhe Mjedisit nr. 311, datë 9.9.2019.
+Në rastet kur Qiramarrësi pajiset me certifikatën paraprake por i refuzohet certifikata, apo kur shfuqizohet certifikata paraprake apo certifikata, Qiradhënësi e njofton për zgjidhjen e njëanshme të kontratës. Zgjidhja e kontratës nuk e përjashton Qiramarrësin nga shlyerja e detyrimeve financiare në zbatim të kësaj kontrate. Në çdo rast Qiramarrësi ka të drejtë të marrë investimin për aq sa është e mundur dhe Qiradhënësi nuk ka asnjë përgjegjësi ligjore dhe financiare kundrejt Qiramarrësit.
+Neni 10
+Zgjidhja e kontratës
+1. Qiradhënësi ka të drejtë të zgjidhë në mënyrë të njëanshme, përpara përfundimit të afatit të përcaktuar në nenin 2 të kontratës. Kontrata zgjidhet para mbarimit të afatit, kur Qiramarrësi:
+a) është në mosrespektim të afateve të pagesës, siç përcaktohet në nenin 3. Në këtë rast Qiradhënësi njofton Qiramarrësin për përmbushjen e këtij detyrimi brenda 60 (gjashtëdhjetë) ditëve dhe pagimin e penaliteteve sipas nenit 12. Në rast se, pas përfundimit të afatit si më lart, Qiramarrësi vazhdon të jetë në mosrespektim të këtij detyrimi, Qiradhënësi e njofton për zgjidhjen e njëanshme të kontratës;
+b) nuk ka realizuar investimet kapitale sipas parashikimeve në planin e biznesit, pjesë përbërëse e kësaj kontrate. Në këtë rast Qiradhënësi njofton Qiramarrësin për përmbushjen e këtij detyrimi brenda vitit pasardhës dhe pagimin e penaliteteve sipas nenit 12. Në rast se pas përfundimit të afatit si më lart, Qiramarrësi vazhdon të jetë në mosrespektim të këtij detyrimi, Qiradhënësi e njofton për zgjidhjen e njëanshme të kontratës;
+c) nuk përdor tokën bujqësore, objekt kontrate sipas parashikimeve të nenit 4. Në këtë rast Qiradhënësi njofton Qiramarrësin për përmbushjen e këtyre parashikimeve brenda vitit pasardhës dhe pagimin e penaliteteve sipas nenit 12. Në rast se pas përfundimit të afatit si më lart, Qiramarrësi vazhdon të jetë në mosrespektim të këtij detyrimi, Qiradhënësi e njofton për zgjidhjen e njëanshme të kontratës;
+ç) personi fizik ka ndërruar jetë dhe asnjë prej trashëgimtarëve të tij ligjor nuk ka paraqitur kërkesë për kalimin e detyrimeve që rrjedhin nga kontrata, brenda 60 ditëve;
+d) nuk informon, në fund të çdo viti kalendarik ose kur i kërkohet nga Qiradhënësi, mbi realizimin e përmbushjes së detyrimeve të parashikuara në këtë kontratë, të shoqëruar me dokumentacionin përkatës provues. Në këtë rast Qiradhënësi njofton Qiramarrësin për përmbushjen e këtij detyrimi brenda 60 (gjashtëdhjetë) ditëve. Në rast se pas përfundimit të afatit si më lart, Qiramarrësi vazhdon të jetë në mosrespektim të këtij detyrimi, Qiradhënësi e njofton për zgjidhjen e njëanshme të kontratës;
+dh) nuk dorëzon certifikatën paraprake apo certifikatën si subjekt i licencuar në agroturizëm, ose kur i shfuqizohet certifikata paraprake apo certifikata.
+Pas njoftimit të zgjidhjes së kontratës, Qiradhënësi përcakton datën në të cilën përfaqësuesit e tij të autorizuar do të marrin në dorëzim sipërfaqen, objekt i kësaj kontrate, dhe kulturat bujqësore, frytet e tyre, objektet ndërtimore, si dhe çdo investim tjetër të trupëzuar.
+2.Në çdo rast Qiramarrësi shlyen detyrimet e lindura deri në datën e zgjidhjes së kontratës, dhe nuk ka të drejtë të kërkojë asnjë kompensim të investimeve të kryera në tokën bujqësore, gjatë zbatimit të kontratës.
+3. Qiramarrësi ka të drejtë të zgjidhë kontratën në mënyrë të njëanshme, përpara përfundimit të afatit të përcaktuar në nenin 2 të saj, kur Qiradhënësi nuk përmbush detyrimet e tij. Qiramarrësi njofton Qiradhënësin për përmbushjen e këtij detyrimi brenda 60 (gjashtëdhjetë) ditëve. Në rast se pas përfundimit të afatit si më lart, Qiradhënësi vazhdon të jetë në mosrespektim të këtij detyrimi, Qiramarrësi e njofton për zgjidhjen e njëanshme të kontratës. Qiradhënësi nuk ka asnjë detyrim ligjor apo financiar kundrejt tij.
+Neni 11
+Fati i investimeve me mbarimin e kontratës
+Në rastet e zgjidhjes së njëanshme të kontratës, sipas kushteve të parashikuara në kontratë ose të mbarimit të afatit të qiradhënies, kulturat bujqësore, frytet e tyre, objektet ndërtimore, si dhe çdo investim tjetër i trupëzuar kalon në pronësi të Qiradhënësit, pa shpërblim.
+Neni 12
+Investime publike në tokën bujqësore
+Në rast se përpara mbarimit të afatit të kontratës, të përcaktuar në nenin 2, në planin urbanistik parashikohet kryerja e një investimi me interes publik në një pjesë të tokës bujqësore, objekt i kësaj kontrate, sipas legjislacionit në fuqi, Qiradhënësi e njofton Qiramarrësin për investimin me interes publik. Palët, brenda ______ ditëve, bien dakord për ndryshimin e objektit të kontratës dhe me marrëveshje të shkruar amendojnë/ndryshojnë kontratën. Në rastin kur investimi publik i parashikuar shtrihet në të gjithë sipërfaqen e tokës bujqësore, objekt i kësaj kontrate, kontrata zgjidhet.
+Në rastin kur në sipërfaqen ndërtimore dhe/ose në sipërfaqet e mbjella me kultura bujqësore parashikohet realizimi i një projekti, investimi apo objekti për interes publik, kompensimi i Qiramarrësit për shpenzimet e kryera për objektin ndërtimor, si dhe çdo investim tjetër i trupëzuar, bëhet sipas përcaktimeve të legjislacionit në fuqi për shpronësimet për interes publik. Masa e kompensimit mbulohet nga entiteti përgjegjës për zhvillimin e projektit, investimit apo objektit që paraqet interes publik.
+Neni 13
+Pamundësia e përdorimit të tokës bujqësore
+Nëse pas lidhjes së kontratës konstatohen raste të pamundësisë objektive të qiradhënies, për një pjesë të sipërfaqes së kontraktuar, kur provohet se një palë e tretë disponon një titull pronësie për një pjesë të sipërfaqes së parcelës, objekt qiradhënie, me pëlqimin e palëve kjo sipërfaqe mund të zbritet nga sipërfaqja e parashikuar në kontratën bazë, dhe për këtë palët amendojnë kontratën.
+Në rastin kur provohet se pala e tretë disponon një titull pronësie për të gjithë sipërfaqen e dhënë me qira, kontrata zgjidhet.
+Në çdo rast Qiramarrësi ka të drejtë të marrë investimin për aq sa është e mundur dhe Qiradhënësi nuk ka asnjë përgjegjësi ligjore dhe financiare kundrejt Qiramarrësit.
+Neni 14
+Sanksionet/penalitetet
+1. Në rast se Qiramarrësi është në mosrespektim të afateve të pagesës, siç përcaktohet në nenin 3, paguan kamatëvonesë në vlerën 0.05% të detyrimit vjetor të qirasë për çdo ditë vonesë, por jo më shumë se vlera e qirasë së një viti.
+2. Në rastin kur në tokën bujqësore Qiramarrësi nuk ushtron veprimtarinë bujqësore/blegtorale të parashikuar në nenin 4, paguan në formën e kushtit penal një shumë në masën 20% të detyrimit vjetor të qirasë për çdo vit vonesë.
+3. Në rast se Qiramarrësi është me vonesë me realizimin e investimeve kapitale të parashikuara në planin e biznesit, detyrohet të paguajë në formën e kushtit penal në masën 10% të vlerës së investimit të pakryer në vit.
+Neni 15
+Forca madhore
+Në qoftë se secila palë përballet me forcën madhore, ajo do të njoftojë palën tjetër, pa vonesë, nëpërmjet një njoftimi me shkrim, të konfirmuar si e marrë nga pala tjetër, duke i bërë të qartë kësaj të fundit natyrën e ngjarjes, kohëzgjatjen e mundshme dhe pasojat e pritshme.
+Asnjëra palë nuk do të konsiderohet përgjegjëse për mospërmbushje të detyrimeve kontraktore në qoftë se ajo ka qenë penguar për realizimin e tyre nga forca madhore. Palët do të ndërmarrin masat e nevojshme për të reduktuar minimalisht dëmet.
+Për qëllimet e këtij neni, “Forcë madhore” do të thotë një ngjarje ose një akt natyror ose shoqëror që ndodh në vend, si: tërmetet, ciklonet, rrufetë, përmbytjet, shpërthimet vullkanike, zjarret, lufta, konfliktet e armatosura, kryengritjet, aktet terroriste, të cilat pengojnë palën/palët kontraktuese të përmbushin detyrimet përkatëse sipas kësaj kontrate, si dhe akte ose ngjarje të tjera, të cilat janë jashtë kontrollit të mundshëm të palës/palëve dhe nuk ndodhin për faj të tij/tyre, dhe pala/palët nuk është/janë në gjendje t’i eliminojë ato, edhe pse kanë ushtruar siç duhet aftësitë, përpjekjet dhe kujdesin e tij/tyre.
+Neni 16
+Zgjidhja e mosmarrëveshjeve
+Palët marrin përsipër të zgjidhin mosmarrëveshjet që lindin gjatë realizimit të kësaj kontrate, me mirëkuptim, pa cenuar vlerat, afatet, kushtet teknike, sanksionet dhe gjobat. Në rast të kundërt, palët do t’i drejtohen Gjykatës Administrative të Shkallës së Parë, Tiranë për zgjidhjen e tyre.
+Neni 17
 Të tjera
-Kontrata duhet të bëhet me akt noterial dhe të regjistrohet në regjistrin publik të pasurive të paluajtshme.
-1. Kjo kontratë është hartuar në gjuhën shqipe në 4 kopje me vlerë të barabartë ligjore.
-2. Njoftimet apo çdo lloj tjetër komunikimi në lidhje me këtë Kontratë (Njoftimi) do të jetë:
-- Me shkrim;
-- Në shqip;
-- Dorëzuar personalisht ose dërguar me postë të parapaguar me konfirmim livrimi nga Pala marrëse në adresën e përcaktuar në këtë Kontratë, apo ndonjë adresë tjetër të specifikuar nga Pala përkatëse.
-3. Në mungesë të provave që njoftimi është marrë më parë, njoftimi konsiderohet i dhënë nëse:
-- Dërgohet me postë: 10 (dhjetë) ditë pune pas postimit.
-Adresat e Palëve janë:
-Qiradhënësi:
-Qiramarrësi:
+1. Kontrata bëhet me akt noterial dhe regjistrohet në regjistrin publik të pasurive të paluajtshme nga Qiramarrësi.
+2. Kjo kontratë është hartuar në gjuhën shqipe në 4 kopje me vlerë të barabartë ligjore.
+3. Njoftimet apo çdo lloj tjetër komunikimi në lidhje me këtë kontratë (Njoftimi) do të jetë: - me shkrim; - në shqip; - dorëzuar personalisht ose dërguar me postë të parapaguar, me konfirmim livrimi nga pala marrëse, në adresën e përcaktuar në këtë kontratë, apo ndonjë adresë tjetër të specifikuar nga pala përkatëse.
+4. Në mungesë të provave që njoftimi është marrë më parë, njoftimi konsiderohet i dhënë nëse: - dërgohet me postë 10 (dhjetë) ditë pune pas postimit.
+5. Adresat e palëve janë:
+Qiradhënësi ____________________
+Qiramarrësi ______________________.
+Neni 18
+Hyrja në fuqi e kontratës
+Kjo kontratë hyn në fuqi me nënshkrimin e saj nga palët.
 PËR PALËT KONTRAKTUESE
-Ministria e Bujqësisë dhe Zhvillimit Rural Institucioni i varësisë
-(..........................................)
-Qiramarrësi
-(..........................................)
-ANEKSI 1
+Ministria e Bujqësisë dhe Zhvillimit Rural/ Qiramarrësi
+institucioni i varësisë
+(....................................................) (.........................................................)
+6. Aneksi 1 ndryshon përmbajtjen dhe emërtohet aneksi C, si më poshtë:
+ANEKS C
 FORMA E GARANCISË SË KONTRATËS
-Emri dhe adresa e Bankës:
+Emri dhe adresa e Bankës/Kompanisë së Sigurimit:
 Përfituesi:
 i) Ministria e Bujqësisë dhe Zhvillimit Rural
 Në vëmendje të shkëlqesisë së tij, ministrit:
 Bulevardi “Dëshmorët e Kombit”, nr. 2, Tiranë, Shqipëri
 Letra e Garancisë numër [ ]
-Ne jemi informuar që ______________sh.p.k. (më poshtë do të quhet “Qiramarrësi”), ka nënshkruar me ju kontratën e qirasë numër ..., datë ..., me institucionin tuaj për përdorimin dhe investimin në hapësirën prej ... hektarësh në ...
-Më tej, ne kuptojmë se sipas nenit 5 të Kontratës kërkohet një garanci për kryerjen e investimeve.
-Ne, [ ] (“Banka”), në mënyrë të pakushtëzuar dhe të parevokueshme marrim përsipër t’ju paguajmë çdo shumë por pa tejkaluar LEK…….., sikurse është përcaktuar në nenin 5 të kësaj kontrate, në lidhje me detyrimet e Qiramarrësit, në bazë të nenit 2 të Kontratës së Qirasë, nenit 5, pika 1, pasi kemi marrë nga ju letrën në të cilën ju deklaroni që Qiramarrësi nuk ka plotësuar kushtet e specifikuara në kontratë.
-Kjo Garanci do të jetë e vlefshme deri më ... dhe çdo kërkesë për pagesë nga ana juaj duhet të jetë marrë nga ana jonë.
+Ne jemi informuar që ______________sh.p.k. (më poshtë do të quhet “Qiramarrësi”) është shpallur fitues në procedurën e konkurrimit publik me objekt: “Dhënie me qira të tokës bujqësore në pronësi të shtetit, të ndodhur në zonën kadastrale ______________, parcelat me numër pasurie __________________, fshati ______________, Njësia Administrative ________________________, Bashkia __________, qarku ________________”, me institucionin tuaj, për përdorimin dhe investimin në hapësirën prej _________________ hektarësh, në vlerën ___________________________________.
+Më tej, ne kuptojmë se, sipas nenit 8 të Kontratës, kërkohet një garanci për kryerjen e investimeve.
+Ne, [ ] (“Banka/Kompania e Sigurimit”), në mënyrë të pakushtëzuar dhe të parevokueshme, marrim përsipër t’ju paguajmë çdo shumë por pa tejkaluar LEK …….., sikurse është përcaktuar në nenin 8 të kësaj Kontrate, në lidhje me detyrimet e Qiramarrësit, në bazë të nenit 2, të Kontratës së qirasë, nenit 8, pika 1, pasi kemi marrë nga ju letrën në të cilën ju deklaroni që Qiramarrësi nuk ka plotësuar kushtet e specifikuara në kontratë.
+Kjo Garanci do të jetë e vlefshme për një vit dhe çdo kërkesë për pagesë nga ana juaj duhet të jetë marrë nga ana jonë.
 Kjo Garanci do të rregullohet dhe interpretohet në përputhje me ligjet dhe aktet nënligjore të Republikës së Shqipërisë dhe çdo mosmarrëveshje në lidhje me këtë garanci do të zgjidhet nga gjykata kompetente shqiptare.
-Banka
+Banka/Kompania e Sigurimit
 Nënshkrimet e autorizuara
 Kontraktori
