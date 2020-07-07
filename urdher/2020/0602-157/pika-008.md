@@ -1,0 +1,1 @@
+8. Zyra e noterit nuk mund të jetë pranë objekteve që paraqesin mundësi të mëdha të rrezikut për rënien e zjarrit (pika karburanti, magazina/depo me lëndë plasëse, djegëse etj.) dhe dëmtimin e dokumentacionit. Distanca e zyrës nga këto objekte nuk mund të jetë më e vogël se 50 metra, kur mes tyre nuk ka objekte të tjera dhe në çdo rast jo më e vogël se 20 metra

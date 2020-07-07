@@ -1,0 +1,1 @@
+10. Për çdo zyrë noterie nuk mund të ketë më shumë se një tabelë, e cila është unike për të gjitha zyrat. Ajo duhet të ketë përmasat dhe mbishkrimet e mësipërme, për të gjitha zyrat dhe nuk mund të vendoset në një vend të ndryshëm nga fasada e zyrës.

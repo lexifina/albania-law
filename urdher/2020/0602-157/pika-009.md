@@ -1,0 +1,1 @@
+9. Në fasadën e zyrës së noterit vendoset një tabelë e përmasave 0,6xl metra, në të cilën shënohen fjalët “Noter”, emri e mbiemri i tij dhe, sipas dëshirës, adresa e zyrës dhe numri i telefonit. Tabela mund të jetë e thjeshtë ose me ndriçim.

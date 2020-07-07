@@ -1,0 +1,1 @@
+7. Zyra e noterit duhet të jetë e pajisur me ndriçimin e duhur, si dhe e organizuar në mënyrë të tillë që ndihmojnë mbrojtjen e dokumentacionit nga ndikimi i agjentëve atmosferikë (lagështia, pluhuri, dielli etj.) dhe nga zjarri.

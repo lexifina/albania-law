@@ -1,0 +1,1 @@
+11. Noteri nuk mund të reklamojë me shkrim apo në forma të ndryshme në tabela, në muret e zyrës ose në afërsi të saj, si dhe në xhamat e portës apo të dritareve, ofrimin prej tij të shërbimeve të tjera përveç emrit të tij, titullit “Noter” dhe, sipas dëshirës, numrin e kontaktit, orarin e ushtrimit të veprimtarisë dhe ditët përkatëse.

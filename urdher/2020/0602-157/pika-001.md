@@ -1,0 +1,1 @@
+1. Noteri licencohet dhe ushtron veprimtarinë e tij noteriale vetëm në një zyrë noteriale brenda territorit të bashkisë për të cilën ka marrë licencën. Noteri ushtron veprimtarinë e tij në mënyrë individuale në zyrë noteriale ose në bashkëpunim me një noter tjetër, pas marrjes së miratimit nga Dhoma Kombëtare e Noterisë.

@@ -1,0 +1,1 @@
+3. Zyra e noterit duhet të ketë adresë të saktë, në përputhje me legjislacionin në fuqi për sistemin e adresave, që njihet në territorin e bashkisë dhe duhet t’i njoftohet me shkrim Ministrisë së Drejtësisë, brenda 15 ditësh nga dita që noteri e ka filluar veprimtarinë. Mospërmbushja e këtij detyrimi përbën shkelje disiplinore.
