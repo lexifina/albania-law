@@ -1,0 +1,27 @@
+{
+  "qbz_id": 61660,
+  "title": "Për rivlerësimin e pasurisë së paluajtshme",
+  "type": "Ligj",
+  "number": "90",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2019-12-18",
+  "version_no": 1,
+  "qbz_version_id": 4459,
+  "in_force": "2020-07-09",
+  "in_force_basis": "QBZ consolidated version 1 validFrom 2020-07-09",
+  "changed_by_qbz_id": 66307,
+  "changed_by_number": "91",
+  "changed_by_title": "Për disa ndryshime në ligjin nr. 90/2019 “Për rivlerësimin e pasurisë së paluajtshme”",
+  "source": "https://qbz.gov.al/files/e40c4e68a3a2fca488fe38d232abc4567c0ec0319a8ef68f87c92cbb6f79e3f8.docx",
+  "source_sha256": "e40c4e68a3a2fca488fe38d232abc4567c0ec0319a8ef68f87c92cbb6f79e3f8",
+  "official_record": "https://qbz.gov.al/api/v1/acts/61660",
+  "official_versions": "https://qbz.gov.al/api/v1/acts/61660/versions",
+  "capture_mode": "official consolidated version",
+  "text_form": "complete official consolidated Word text, including publisher annotations; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
