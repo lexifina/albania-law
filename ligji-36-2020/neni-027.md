@@ -1,0 +1,15 @@
+# Neni 27
+Dialogu konkurrues
+1. Kur kontratat janë veçanërisht komplekse dhe kur autoritetet kontraktore mendojnë se përdorimi i procedurës së kufizuar apo procedurës me negocim, me shpallje paraprake të njoftimit të kontratës nuk mundësojnë prokurimin, ato mund të përdorin dialogun konkurrues dhe duhet të justifikojnë përdorimin e kësaj procedure.
+Kriteri i vetëm për lidhjen e kontratës është oferta ekonomikisht më e favorshme.
+2. Autoritetet kontraktore bëjnë shpalljen e njoftimit të kontratës ku përcaktohen nevojat dhe kërkesat e tyre.
+3. Autoritetet kontraktore hyjnë në dialog me kandidatët e përzgjedhur, me qëllim identifikimin dhe përcaktimin e mjeteve që plotësojnë më së miri nevojat e tyre. Gjatë këtij dialogu ato mund të diskutojnë me kandidatët e përzgjedhur të gjitha aspektet e kontratës.
+Autoritetet kontraktore duhet të garantojë trajtim të barabartë për të gjithë ofertuesit. Nuk duhet të bëhet i njohur asnjë informacion diskriminues apo që u sjell avantazhe disa ofertuesve ndaj të tjerëve.
+Autoritetet kontraktore nuk duhet t’u tregojnë pjesëmarrësve të tjerë, pa miratimin paraprak të kandidatit, zgjidhjet e propozuara ose informacione të tjera konfidenciale, të dhëna nga ky kandidat gjatë dialogut.
+4. Autoritetet kontraktore mund të marrin masa që procedura të kryhet në faza të ndryshme, duke zbatuar kriteret e vlerësimit, të shpallura në njoftimin e kontratës apo në specifikime, për reduktimin e numrit të zgjidhjeve që do të diskutohen gjatë dialogut. Kjo alternativë, nëse përdoret, duhet të përfshihet te njoftimi ose te specifikimet.
+5. Autoritetet kontraktore vazhdojnë dialogun deri kur të identifikojnë zgjidhjen ose zgjidhjet, nëse është e nevojshme pas krahasimit të tyre, të cilat përmbushin nevojat e tyre.
+6. Autoritetet kontraktore, pasi deklarojnë se dialogu është mbyllur dhe kanë njoftuar të gjithë pjesëmarrësit, u kërkojnë atyre të paraqesin ofertën përfundimtare, bazuar në zgjidhjen ose zgjidhjet që janë paraqitur e specifikuar gjatë dialogut. Këto oferta përmbajnë të gjitha elementet e kërkuara dhe të nevojshme për zbatimin e kontratës.
+Këto oferta mund të përmbajnë sqarime, specifikime dhe përshtatje që plotësojnë kërkesat e autoritetit kontraktor. Megjithatë, këto sqarime, specifikime apo përshtatje ose të dhëna shtesë nuk duhet të jenë të tilla sa të ndryshojnë tiparet themelore të ofertës apo tenderit, sepse ato mund të prishin konkurrencën ose të jenë diskriminuese.
+7. Autoritetet kontraktore vlerësojnë ofertat duke u bazuar në kriteret e përcaktuara në njoftimin e kontratës ose te specifikimet dhe zgjedhin ofertën ekonomikisht më të favorshme, në përputhje me nenin 45.
+Me kërkesë të autoritetit kontraktor, ofertuesi, që ka paraqitur ofertën ekonomikisht më të favorshme, mund të sqarojë aspektet e ofertës ose të konfirmojë angazhimet e tij, me kusht që të mos ndryshojë elementet themelore të ofertës ose tenderit, të prishë konkurrencën apo të jetë diskriminues.
+8. Autoritetet kontraktore mund të përcaktojë çmimet apo pagesat në dialogun konkurrues.

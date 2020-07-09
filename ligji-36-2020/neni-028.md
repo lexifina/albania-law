@@ -1,0 +1,28 @@
+# Neni 28
+Procedura me negocim, pa shpallje paraprake të njoftimit të kontratës
+Autoritetet kontraktore mund të kontraktojnë me anë të procedurës me negocim, pa shpallje paraprake të njoftimit të kontratës, dhe duhet të justifikojnë përdorimin e kësaj procedure në njoftimin e kontratës në rastet e mëposhtme:
+1. Për kontrata për punë, furnizime dhe shërbime:
+a) nëse në një procedurë të kufizuar, procedurë me negocim, me shpallje paraprake të njoftimit të kontratës, ose dialog konkurrues nuk është paraqitur asnjë ofertë ose asnjë përgjigje, kur kushtet fillestare të kontratës nuk ndryshohen në thelb;
+b) nëse në një procedurë të kufizuar, procedurë me negocim, me shpallje paraprake, ose dialog konkurrues janë paraqitur oferta të parregullta ose oferta që janë të papranueshme, sipas dispozitave të këtij ligji, me kusht që:
+i. kushtet fillestare të kontratës të mos pësojnë asnjë ndryshim thelbësor;
+ii. ato të përfshijnë në procedurën me negocim vetëm ofertuesit që plotësojnë kriteret e vlerësimit dhe/ose kualifikimit dhe që, gjatë procedurës së mëparshme të kufizuar ose dialogut konkurrues, i kanë paraqitur ofertat sipas kërkesave formale të procedurës së prokurimit.
+c) në rastet kur afatet kohore të përcaktuara për procedurën e kufizuar ose procedurën me negocim, me shpallje të njoftimit të kontratës, duke përfshirë edhe afatet e limituara kohore, të parashikuara sipas nenit 32, nuk zbatohen për shkak të një krize;
+ç) kur, për arsye të nevojës ekstreme, të shkaktuar nga ngjarje të paparashikueshme nga autoriteti kontraktor, nuk mund të respektohet afati kohor i parashikuar në procedurën e kufizuar ose në procedurën me negocim, me shpallje paraprake të njoftimit të kontratës, përfshirë edhe afatet kohore të shkurtuara, sipas nenit 32. Rrethanat e përmendura për të justifikuar nevojën ekstreme nuk duhet të shkaktohen në asnjë rast nga veprimi apo mosveprimi i autoritetit kontraktor;
+d) kur, për arsye që lidhen me të drejtat ekskluzive, kontrata nuk mund të ekzekutohet përveçse nga një operator i vetëm ekonomik.
+2. Për kontrata shërbimesh dhe kontrata furnizimi:
+a) për shërbime kërkimi dhe zhvillimi, përveç atyre të përcaktuara në nenin 5;
+b) në rast se mallrat janë prodhuar vetëm për qëllime kërkimi dhe zhvillimi. Këtu nuk përfshihet prodhimi me shumicë për qëllime tregtare apo për të mbuluar shpenzimet e kërkimit dhe të zhvillimit.
+3. Për kontrata furnizimi:
+a) për lëvrime shtesë nga furnizuesi i mëparshëm, për zëvendësimin e pjesshëm të lëvrimeve normale ose instalimeve, apo si shtesë të mallrave, instalimeve ekzistuese, pasi ndryshimi i furnizuesit do ta detyrojë autoritetin kontraktor të kërkojë mallra me karakteristika të ndryshme teknike, që mund të rezultojnë në papajtueshmëri dhe në vështirësi të mëdha teknike për vënien në punë apo mirëmbajtjen e tyre.
+Kohëzgjatja dhe ripërtëritja e këtyre kontratave nuk duhet të jetë më e gjatë se 5 vjet, përveç rasteve të jashtëzakonshme, të justifikuara me jetëgjatësinë që parashikohet për secilin mall të lëvruar, instalimet ose sistemet, dhe vështirësitë teknike, që mund të shkaktojë ndryshimi i furnizuesit;
+b) për mallrat e kuotuara dhe të blera në bursën e mallrave;
+c) për blerje mallrash me kushte veçanërisht të leverdishme nga furnizues që mbyllin përfundimisht biznesin e tyre ose të sekuestruara apo likuiduara në rast falimentimi, marrëveshjeje me kredituesit ose ndonjë procedurë e ngjashme, në përputhje me dispozitat dhe rregullat kombëtare.
+4. Për kontrata për punë dhe shërbime:
+a) për punë apo shërbime shtesë, të cilat nuk kanë qenë të përfshira në kontratën fillestare, por që, për shkak të rrethanave të paparashikuara, janë bërë të domosdoshme për zbatimin e punëve apo kryerjen e shërbimeve, me kusht që t’i jepen operatorit ekonomik, që realizon këto ndërtime apo shërbime, kur:
+i. këto punë ose shërbime shtesë nuk mund të ndahen nga kontrata fillestare pa shkaktuar vështirësi të mëdha për autoritetin kontraktor;
+ii. këto ndërtime apo shërbime, edhe pse të ndara nga kontrata fillestare, janë të domosdoshme për përmbushjen e saj.
+Në çdo rast, shtesa e kontratave nuk mund të kalojë vlerën prej 50 për qind të vlerës së përgjithshme të kontratës fillestare.
+b) për ndërtime apo shërbime të reja, që kanë të bëjnë me përsëritjen e ndërtimeve apo të shërbimeve të ngjashme, që i janë besuar një operatori ekonomik, të cilit i njëjti autoritet kontraktor i ka dhënë kontratën fillestare, me kusht që këto ndërtime ose shërbime të përputhen me projektin bazë, për të cilin është shpallur fitues i kontratës fillestare me procedurë të kufizuar, me procedurë me negocim, me shpalljen e njoftimit të kontratës ose me dialogun konkurrues.
+Përdorimi i mundshëm i kësaj procedure duhet të përshihet në njoftimin e kontratës fillestare dhe autoriteti kontraktor duhet të vlerësojë koston e përgjithshme, të përllogaritur, të ndërtimeve ose shërbimeve në vijim, në përputhje me nenin 21, të këtij ligji.
+Kjo procedurë mund të përdoret vetëm brenda 5 viteve, nga lidhja e kontratës fillestare, përveç rasteve të jashtëzakonshme, të justifikuara me jetëgjatësinë që parashikohet për secilin mall të lëvruar, instalimet ose sistemet, dhe vështirësitë teknike, që mund të shkaktojë ndryshimi i furnizuesit.
+5. Për kontratat për shërbime transporti ajror dhe detar për Forcat e Armatosura apo ato të sigurisë, të dislokuara apo që do të dislokohen jashtë vendit, kur autoriteti kontraktor duhet t’i prokurojë këto shërbime nga operatorë ekonomikë, që garantojnë vlefshmërinë e ofertave të tyre në një kohë kaq të shkurtër saqë nuk mund të pritet për procedurat e kufizuara apo procedurat me negocim, me shpallje paraprake të njoftimit të kontratës, duke përfshirë edhe afatet kohore të shkurtuara, sipas nenit 32, të këtij ligji.

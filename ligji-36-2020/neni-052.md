@@ -1,0 +1,7 @@
+# Neni 52
+Nënkontraktimi
+1. Operatori ekonomik duhet të jetë i lirë për të zgjedhur nënkontraktorët që synon të nënkontraktojë, me përjashtim të rastit kur autoriteti kontraktor ka përcaktuar kërkesa të veçanta në lidhje me pikat 2, 3 dhe 4, të këtij neni. Autoriteti kontraktor nuk mund t’i kërkojë fituesit të tenderit të diskriminojë nënkontraktorët e mundshëm mbi bazën e kombësisë.
+2. Autoriteti kontraktor, në njoftimin e kontratës ose në dokumentet e tenderit, u kërkon ofertuesve të tregojnë në ofertat e tyre përqindjen e kontratës, që ata mendojnë të nënkontraktojnë te palët e treta, si dhe nënkontraktorin e propozuar, si dhe objektin e nënkontratave për të cilat ai propozohet.
+3. Kjo përqindje e caktuar për nënkontraktim duhet të jetë në përpjesëtim me vlerën e kontratës dhe nuk duhet të tejkalojë 30 për qind të vlerës së përgjithshme të kontratës.
+4. Autoriteti kontraktor miraton nënkontraktorët e mundshëm përpara lidhjes së nënkontratës me operatorin ekonomik fitues të kontratës publike, në përputhje me dispozitat e këtij ligji, pa cenuar parimet e përcaktuara në pikën 1, të këtij neni.
+5. Dispozitat e këtij neni nuk prekin përgjegjësitë kryesore të operatorit ekonomik ndaj autoritetit kontraktor, për të cilin nënkontraktorët mbeten palë e tretë, kundrejt marrëdhënies kontraktuale ndërmjet operatorit ekonomik dhe nënkontraktorëve të tij/saj dhe duke e lënë operatorin ekonomik kryesor përgjegjës për zbatimin e të gjithë kontratës, pavarësisht se një pjesë e saj zbatohet nga nënkontraktorët.

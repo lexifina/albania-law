@@ -1,0 +1,7 @@
+# Neni 23
+Rregullat në lidhje me komunikimin
+1. I gjithë komunikimi dhe shkëmbimi i informacionit mund të bëhet me postë, ose me mjete elektronike ose me një kombinim të këtyre mjeteve, sipas zgjedhjes së autoritetit kontraktor.
+2. Në rastet kur autoriteti kontraktor komunikon në formë elektronike, mjetet e komunikimit elektronik dhe karakteristikat e tyre teknike duhet të jenë jo diskriminuese, të disponueshme dhe të ndëroperueshme me produktet e teknologjisë së informacionit e të komunikimit, të cilat përdoren gjerësisht. Rregullat dhe procedurat për këtë formë komunikimi përcaktohen në rregullat e prokurimit në fushën e mbrojtjes dhe të sigurisë, të miratuara me vendim të Këshillit të Ministrave.
+3. Komunikimi, shkëmbimi dhe ruajtja e informacionit duhet të kryhen në mënyrë të tillë, që të sigurojë paprekshmërinë e të dhënave, ruajtjen e konfidencialitetit për kërkesat për pjesëmarrje dhe ofertat, dhe që autoritetet kontraktore të shqyrtojnë përmbajtjen e ofertave dhe të kërkesave për pjesëmarrje vetëm pasi të ketë skaduar afati për dorëzimin e tyre.
+4. Gjatë komunikimeve elektronike, administrimi dhe transmetimi i informacionit të klasifikuar do të bëhet vetëm në sisteme të akredituara përshtatshmërisht nga autoriteti përgjegjës për sigurimin e informacionit të klasifikuar.
+5. Rregullat e administrimit dhe të transmetimit të informacionit të klasifikuar nëpërmjet sistemeve të akredituara nga autoriteti përgjegjës për sigurimin e informacionit të klasifikuar janë të përcaktuara nga legjislacioni në fuqi për informacionin e klasifikuar.

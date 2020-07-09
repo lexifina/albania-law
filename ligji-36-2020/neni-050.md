@@ -1,0 +1,13 @@
+# Neni 50
+Siguria e furnizimit
+1. Autoriteti kontraktor mund të përcaktojë në njoftimin e kontratës në fushën e mbrojtjes dhe të sigurisë, në dokumentet e kontratës, dokumentet përshkruese apo dokumentet mbështetëse, kërkesa për sigurinë e saj.
+2. Autoriteti kontraktor mund të kërkojë që oferta të përmbajë, ndër të tjera, të dhënat në lidhje me sigurinë e furnizimit, si më poshtë:
+a) dokumentacion i demonstruar në mënyrë të pranueshme që ofertuesi do të jetë në gjendje për të respektuar detyrimet e tij në lidhje me eksportin, transferimin dhe tranzitimin e mallrave të lidhura me kontratë;
+b) tregues të ndonjë kufizimi të autoritetit kontraktor në lidhje me zbulimin, transferimin ose përdorimin e produkteve dhe shërbimeve apo çdo rezultat të këtyre produkteve e shërbimeve, të cilat do të dalin nga kontrolli i eksportit ose masat e sigurisë;
+c) dokumentacion i treguar se organizimi dhe vendndodhja e zinxhirit të furnizimit të operatorit ekonomik do të lejojë që ato të jenë në përputhje me kërkesat e autoritetit kontraktor në lidhje me sigurinë e furnizimit, të përcaktuara në dokumentet e kontratës, dhe një angazhim për të siguruar që ndryshimet e mundshme në furnizimin e saj zinxhir gjatë zbatimit të kontratës nuk do të ndikojnë negativisht përputhjen me këto kërkesa;
+ç) një angazhim nga ofertuesi që të krijojë dhe/ose ruajë kapacitetin e kërkuar për të përmbushur nevojat shtesë të kërkuara nga autoriteti kontraktor si rezultat i një krize, sipas termave dhe kushteve të rëna dakord;
+d) çdo dokument mbështetës të marrë nga autoritetet kombëtare të ofertuesit në lidhje me plotësimin e nevojave shtesë të kërkuara nga autoriteti kontraktor si rezultat i një krize;
+dh) një angazhim nga ofertuesi për kryerjen, mirëmbajtjen, modernizimin apo përshtatjen e furnizimeve të mbuluara nga kontrata;
+e) një angazhim nga ofertuesi që të informojë autoritetin kontraktor në kohën e duhur për çdo ndryshim në organizatë, zinxhirin e furnizimit apo strategji industriale që mund të ndikojnë në detyrimet e tij kundrejt autoritetit kontraktor;
+ë) një angazhim nga ofertuesi që t’i sigurojë autoritetit kontraktor, në bazë të termave dhe kushteve të rëna dakord, të gjitha mjetet e nevojshme, të veçanta, për prodhimin e pjesëve rezervë, përbërëse, dhe pajisjeve të veçanta të testimit, duke përfshirë vizatimet teknike, skicimet, licencat dhe udhëzimet për përdorim, në rast se asnjë njeri i vetëm nuk është në gjendje t’i ofrojnë këto furnizime.
+3. Kur autoriteti kontraktor vlerëson se ofertuesi nuk i plotëson kërkesat për sa i përket sigurisë së furnizimit të përmendur në këtë nen, vendos, sipas rastit, skualifikimin e tij nga procedura ose zgjidhjen e kontratës, duke theksuar arsyet e vendimit të tij.

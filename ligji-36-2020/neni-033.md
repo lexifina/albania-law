@@ -1,0 +1,8 @@
+# Neni 33
+Informacioni për kandidatët dhe ofertuesit
+1. Autoritetet kontraktore duhet të informojnë kandidatët dhe ofertuesit për vendimet e marra në lidhje me dhënien e një kontrate ose arritjen e marrëveshjes kuadër, duke përfshirë arsyet për ndonjë vendim për mosdhënien e një kontrate ose mosmbylljen e një marrëveshjeje kuadër, për të cilën ka pasur ofertë konkurruese, ose për rifillimin e procedurës. Ky informacion duhet të jepet me shkrim, me kërkesë të kandidatit/ofertuesit në përputhje me legjislacionin në fuqi për mbrojtjen e të dhënave personale.
+2. Në rastin më të parë, dhe jo më vonë se 7 ditë pas marrjes së kërkesës me shkrim për informacion, autoriteti kontraktor duhet të informojë:
+a) kandidatët humbës, për arsyet për mospranimin e aplikimit;
+b) çdo ofertues humbës, për arsyet e mospranimit të ofertës, referuar përcaktimeve në nenet 10, 23 e 38, të këtij ligji;
+c) çdo ofertues që ka bërë një ofertë të pranueshme, e cila është refuzuar për karakteristikat dhe avantazhet relative të ofertës së përzgjedhur, si dhe emrin e ofertuesit fitues ose të palëve të marrëveshjes kuadër.
+3. Autoritetet kontraktore mund të vendosin të mos bëjnë të ditura informacione të caktuara, në lidhje me dhënien e kontratës ose përmbylljen e marrëveshjeve kuadër, të përmendura në pikën 1, në rastet kur dhënia e këtyre informacioneve do të pengonte zbatimin e ligjit ose kur do të ishte kundër interesit publik, sidomos interesave të mbrojtjes dhe të sigurisë, do të cenonte interesat e ligjshëm tregtarë të operatorëve ekonomikë, publikë apo privatë, ose do të krijonte paragjykime për konkurrencën e ndershme ndërmjet tyre.
