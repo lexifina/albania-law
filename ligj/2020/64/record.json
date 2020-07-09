@@ -1,0 +1,26 @@
+{
+  "qbz_id": 62726,
+  "title": "Për një shtesë në ligjin nr. 92/2014, “Për tatimin mbi vlerën e shtuar në Republikën e Shqipërisë”, të ndryshuar”",
+  "type": "Ligj",
+  "kind": "Akt ndryshues",
+  "number": "64",
+  "institution": "Kuvendi i Shqipërisë",
+  "adopted": "2020-05-14",
+  "published": "2020-06-24",
+  "in_force": "2020-07-09",
+  "in_force_basis": "\"hyn në fuqi 15 ditë pas botimit në Fletoren Zyrtare\"",
+  "source": "https://qbz.gov.al/files/b70956805ec26d4412f64ce229954a6c351d3cb0761d35043ce3d11cec7ce111.docx",
+  "source_sha256": "b70956805ec26d4412f64ce229954a6c351d3cb0761d35043ce3d11cec7ce111",
+  "official_record": "https://qbz.gov.al/api/v1/acts/62726",
+  "official_eli": "https://qbz.gov.al/eli/ligj/2020/05/14/64",
+  "capture_mode": "as-enacted",
+  "first_law": null,
+  "amending_qbz_ids": [],
+  "text_form": "complete single-file official text; paragraph boundaries preserved",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "checked_on": "2026-11-15"
+}
