@@ -1,0 +1,1 @@
+2. Rregullat mbi sigurinë dhe rregullin në gjykata e prokurori hartohen dhe zbatohen në përputhje me parimin e mbrojtjes së dinjitetit njerëzor, të konfidencialitetit, të mosdiskriminimit, të garantimit të aksesueshmërisë së personave me aftësi të kufizuara, si dhe të aksesit të barabartë në drejtësi.

@@ -1,0 +1,1 @@
+3. Rregullat e parashikuara në këtë vendim nuk duhet të cenojnë veprimtarinë gjyqësore dhe administrative të institucioneve përkatëse, si dhe zhvillimin në mënyrë transparente e publike të proceseve gjyqësore.

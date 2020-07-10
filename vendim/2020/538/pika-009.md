@@ -1,0 +1,1 @@
+9. Në rastet kur mbajtja me vete e sendeve të ndaluara përbën vepër penale, punonjësi i sigurisë autorizohet të ndalojë mbajtësin e tyre dhe të njoftojë menjëherë Policinë e Shtetit, sipas parashikimeve të legjislacionit në fuqi.
