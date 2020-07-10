@@ -67,7 +67,7 @@ PROCEDURAT PËR LËVIZJET PARALELE
 a) drejtuesi i ZVAP (kryetar);
 b) një specialist i kurrikulës dhe zhvillimit profesional në ZVAP (anëtar);
 c) juristi i ZVAP (anëtar);
-6. Komisioni i vlerësimit të dosjeve në ZVAP bën vlerësimin e dosjeve të kandidatëve për lëvizje paralele sipas shtojcës 2.1., brenda muajit gusht.
+6. Komisioni i vlerësimit të dosjeve në ZVAP bën vlerësimin e dosjeve të kandidatëve për lëvizje paralele sipas shtojcës 2.1., brenda muajit korrik.
 7. Komisioni vlerësimit shpall renditjen e konkurrentëve për lëvizje paralele dhe paralele të detyrueshme sipas pikëve në rendin zbritës. Renditja e mësuesve shpallet në faqen elektronike zyrtare të ZVAP-së.
 8. Mësuesi, i cili është renditur me numrin më të madh të pikëve, ka të drejtën e zgjedhjes për vendin e lirë të punës. Ai dërgon brenda 24 orëve me e-mail miratimin ose refuzimin e vendit të propozuar. Në rast të moskonfirmimit nga kandidati, ky vend pune i ofrohet kandidatit të listuar një rend më poshtë.
 9. Kur në një institucion arsimor bie numri i ngarkesës mësimore për një profil/lëndë, drejtori i shkollës krijon komisionin për shqyrtimin dhe vlerësimin e dosjeve të të gjithë mësuesve të atij profili/lënde.
@@ -93,6 +93,7 @@ DISPOZITA KALIMTARE DHE TË FUNDIT
 1. Procedurat e ndjekura, dokumentet e administruara dhe vendimet e marra për zbatimin e këtij udhëzimi ruhen në ZVAP/DRAP dhe janë objekt monitorimi dhe inspektimi.
 2. Për mësuesit në institucionet parashkollore, njësitë e vetëqeverisjes vendore kryejnë procedurat e emërimit duke respektuar renditjen në portalin “Mësues për Shqipërinë”.
 3. Dosjet e aplikimit të kandidatëve për mësues ruhen për 10 vite shkollore nga shpallja përfundimtare e rezultateve të konkurrimit. Dokumentet e tjera të përcaktuara në këtë udhëzim ruhen për 10 vjet.
+3/1. Mësuesit e pranuar sipas procedurave të portalit “Mësues për Shqipërinë” apo procedurave ligjore para fillimit të zbatimit të portalit “Mësues për Shqipërinë”, të emëruar me konkurrim apo komanduar si drejtorë apo nëndrejtorë të institucioneve arsimore publike, pas përfundimit të ligjshëm të ushtrimit të këtij funksioni, rikthehen në pozicionin e mësuesit, sipas procedurave të këtij udhëzimi dhe shtojcës 2.1.
 4. Udhëzimi i ministrit të Arsimit dhe Sportit nr. 38, datë 6.10.2015, “Për procedurat e lëvizjes paralele, emërimit dhe të largimit nga puna të mësuesit në institucionin publik të arsimit parauniversitar”, shfuqizohet.
 5. Ngarkohen për zbatimin e këtij udhëzimi, Sekretari i Përgjithshëm, Drejtoria e Përgjithshme Ekonomike dhe Shërbimeve Mbështetëse, Agjencia e Sigurimit të Cilësisë së Arsimit Parauniversitar, Qendra e Shërbimeve Arsimore, Qendra Ndërinstitucionale e Rrjetit Akademik Shqiptar (RASH), Drejtoria e Përgjithshme e Arsimit Parauniversitar, institucionet arsimore vendore, përgjegjëse për arsimin parauniversitar dhe institucionet arsimore.
 Ky udhëzim hyn në fuqi pas botimit në Fletoren Zyrtare.
