@@ -2,7 +2,7 @@
 
 Official source: [Vendim nr. 4, datë 11.3.2019 (Këshilli i Emërimeve në Drejtësi)](https://qbz.gov.al/api/v1/acts/61658); [QBZ versions](https://qbz.gov.al/api/v1/acts/61658/versions).
 
-Status of this text: `official consolidated version 1`, applying from 2020-02-06; after QBZ act 21143 (nr. 3).
+Status of this text: `official consolidated version 2`, applying from 2020-07-10; after QBZ act 21870 (nr. 6).
 
 [Complete official text](tekst.md); [source and date record](record.json).
 

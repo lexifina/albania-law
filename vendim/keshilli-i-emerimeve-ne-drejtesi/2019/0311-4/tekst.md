@@ -4,7 +4,7 @@ Nr. 4, datë 11.3.2019
 
 PËR PROCEDURËN E VERIFIKIMIT TË KANDIDATËVE PËR POZICIONET VAKANTE NË GJYKATËN KUSHTETUESE DHE TË INSPEKTORIT TË LARTË TË DREJTËSISË
 
-(Ndryshuar me vendimin nr. 3, datë 6.2.2020)
+(Ndryshuar me vendimin nr. 3, datë 6.2.2020,nr. 6, datë 10.7.2020)
 
 (I përditësuar)
 
@@ -144,11 +144,11 @@ B. Shqyrtimi dhe miratimi i projektaktit të verifikimit nga Këshilli
 
 40. Nëse anëtarët e Këshillit nuk parashtrojnë pyetje dhe kërkesa të tjera sqaruese në drejtim të relatorit, Këshilli deklaron kalimin në fazën e bisedimit, votimit dhe të dhënies së vendimit. 
 
-41. Bisedimet e çështjes, si edhe votimi i vendimit bëhen vetëm me praninë e anëtarëve të Këshillit.
+41. Bisedimet e çështjes, si edhe votimi i vendimit bëhen vetëm nga anëtarët e Këshillit. Avokati i Popullit merr pjesë në cilësinë e vëzhguesit në funksion të transparencës dhe besimit të publikut.
 
 42. Këshilli, pasi dëgjon paraprakisht diskutimin e relatorit, bisedon dhe vendos për të gjitha çështjet që parashtrohen në relacionin e përgatitur prej tij ose që vlerësohen nga anëtarët. 
 
-43. Në përfundim të bisedimeve, për zgjidhjen e çështjes, i pari voton relatori, i pasuar nga Kryetari dhe me radhë nga anëtarët e tjerë, sipas renditjes së përbërjes së Këshillit që rezulton nga përzgjedhja me short e anëtarëve nga Presidenti apo Kuvendi. 
+43. Në përfundim të bisedimeve, për zgjidhjen e çështjes, i pari voton relatori, dhe me radhë nga anëtarët e tjerë, sipas renditjes së përbërjes së Këshillit që rezulton nga përzgjedhja me short e anëtarëve nga Presidenti apo Kuvendi. Kryetari i Këshillit voton i fundit.
 
 44. Vendimet e Këshillit në lidhje me procedurën e verifikimit të kandidatëve merren me shumicën e votave të anëtarëve të Këshillit që marrin pjesë në mbledhje. Abstenimi nuk lejohet. Në rast të barazisë së votave, kandidimi konsiderohet i lejuar.
 
@@ -358,9 +358,9 @@ B. Verifikimi i kushteve dhe kritereve të tjera ligjore të kandidatëve jomagj
 
 C. Verifikimi i kushteve dhe kritereve të tjera ligjore së kandidatëve magjistratë
 
-104. Kandidatët magjistratë dhe subjektet e tjerë që i nënshtrohen procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016, për të cilët nuk është dhënë vendim nga Komisioni i Pavarur i Kualifikimit, nuk i nënshtrohen procedurës së verifikimit të pasurisë dhe të integritetit nga Këshilli. Vendimi i Këshillit, për urdhërimin e lejimit ose të ndalimit të kandidimit sipas neneve 235 dhe 236, të ligjit nr. 115/2016 për këta kandidatë, do të mbështetet në vendimin e dhënë nga Komisioni i Pavarur i Kualifikimit.
+104. Kandidatët magjistratë dhe subjektet e tjerë që i nënshtrohen procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016, për të cilët nuk është dhënë vendim nga Komisioni i Pavarur i Kualifikimit, nuk i nënshtrohen procedurës së verifikimit të pasurisë dhe të integritetit nga Këshilli. Vendimi i Këshillit, për urdhërimin e lejimit ose të ndalimit të kandidimit sipas neneve 235 dhe 236, të ligjit nr. 115/2016 për këta kandidatë, do të mbështetet në vendimin përfundimtar të rivlerësimit kalimtar.
 
-105. Kandidatët magjistratë dhe subjektet e tjerë që i nënshtrohen procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016, të cilët janë konfirmuar në detyrë nga organet e rivlerësimit kalimtar, nuk i nënshtrohen procedurës së verifikimit të pasurisë dhe të integritetit, të parashikuar nga nenet 235 dhe 236, të ligjit nr. 115/2016.
+    105. Kandidatët magjistratë dhe subjektet e tjerë që i nënshtrohen procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016, të cilët janë konfirmuar në detyrë me vendim përfundimtar nga organet e rivlerësimit kalimtar, nuk i nënshtrohen procedurës së verifikimit të pasurisë dhe të integritetit, të parashikuar nga nenet 235 dhe 236, të ligjit nr. 115/2016.
 
 106. Jo më vonë se 15 ditë nga ajo e depozitimit të autorizimit për Këshillin sipas pikës 91 të këtij vendimi, të gjithë kandidatët e treguar në pikat 104 dhe 105 të këtij vendimi, duhet të depozitojnë pranë Këshillit deklarime dhe aktet zyrtare përkatëse të reja, me të dhëna të aktualizuara, të lëshuara nga autoritetet kompetente, lidhur përmbushjen e kushteve të kandidimit për gjyqtar në Gjykatën Kushtetuese dhe për Inspektor i Lartë i Drejtësisë, të parashikuara, përkatësisht, në shkronjat “c”, “ç” dhe “d” të nenit 7/a, të ligjit nr. 8577/2000 dhe në shkronjat “ç”, “d” dhe “dh” të nenit 199, të ligjit nr. 115/2016.
 
@@ -376,7 +376,7 @@ C. Verifikimi i kushteve dhe kritereve të tjera ligjore së kandidatëve magjis
 
 Ç. Rregulla kalimtare për përmbylljen e procedurave të verifikimit
 
-112. Procedurat e verifikimit të kandidaturave për pozicionet vakante nuk mund të përfundojnë përpara se Komisioni i Pavarur i Kualifikim të ketë dhënë vendim lidhur me kandidatët magjistratë dhe subjekte të tjerë sipas procedurës së rivlerësimit kalimtar në zbatim të ligjit nr. 84/2016. 
+112. Procedurat e verifikimit të kandidaturave për pozicionet vakante nuk mund të përfundojnë përpara se organet e rivlerësimit të kenë dhënë vendim përfundimtar lidhur me kandidatët magjistratë dhe subjekte të tjerë sipas procedurës së rivlerësimit kalimtar në zbatim të ligjit nr. 84/2016. 
 
 113. Procedurat e vlerësimit, pikëzimit dhe renditjes së kandidaturave fillojnë pasi Këshilli të ketë përfunduar procedurat e verifikimit dhe të ketë vendosur për lejimin ose ndalimin e kandidimit të të gjithë kandidatëve jomagjistratë, si edhe të kandidatëve magjistratë e subjekte të tjerë që i nënshtrohen procedurës së rivlerësimit kalimtar sipas ligjit nr. 84/2016.
 
