@@ -53,54 +53,64 @@ Kriteret dhe skema e vlerësimit të dosjeve të kandidatëve për ushtrimin e p
 | |Vlerësimi bëhet sipas kësaj skeme: | |
 | |a) deri në 3 kredite = 1 pikë, | |
 | |b) mbi 3 kredite = 2 pikë. | |
-SHTOJCA 2.1
-Kriteret dhe skema e vlerësimit të dosjeve të kandidatëve për rastin e ndërprerjes së marrëdhënieve të punës, për shkak të mungesës së ngarkesës mësimore.
-| |Nota mesatare e studimeve të larta, e shprehur në numër me një shifër pas presjes dhjetore (nota mesatare e ciklit I | |
-| |+ nota mesatare e ciklit II)/2, ose nota mesatare DIND. Vlerësimi bëhet sipas kësaj skeme: | |
-| |Nota mesatare 5.00 - 5.50 =1 pikë | |
-| |Nota mesatare 5.51 - 6.00 = 2 pikë | |
-|1 |Nota mesatare 6.01 - 6.50 = 3 pikë |1-10 |
-| |Nota mesatare 6.51 - 7.00 = 4 pikë |pikë |
-| |Nota mesatare 7.01 - 7.50 = 5 pikë | |
-| |Nota mesatare 7.51 - 8.00 = 6 pikë | |
-| |Nota mesatare 8.01 - 8.50 = 7 pikë | |
-| |Nota mesatare 8.51 - 9.00 = 8 pikë | |
-| |Nota mesatare 9.01 - 9.50 = 9 pikë | |
-| |Nota mesatare 9.51 - 10.00 = 10 pikë | |
-| |Shkallët e kualifikimit dhe licencimi: | |
-| |Në rast se kandidati zotëron provimin e licencës 1 pikë |0-4 pikë |
-|2 |Mësues i kualifikuar (kategoria III) 2 pikë | |
-| |Mësues specialist (kategoria II) 3 pikë | |
-| |Mësues mjeshtër (kategoria I) 4 pikë | |
-| |Nëse kandidati zotëron edhe provimin e licencimit, edhe kategorinë e kualifikimit, vlerësohet për të dy treguesit. | |
-| |Dëshmi të njohjes së gjuhës/ve të huaia: | |
-| |a) Gjuhë e huaj e mbrojtur në IAL-të publike = 2 pikë. | |
-|3 |b) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B1 = 2 pikë. | |
-| |c) Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B2 = 4 pikë. |0-4 pikë |
-| |Si gjuhë e huaj e mbrojtur llogaritet edhe rasti kur gjuha e huaj është e mbrojtur në kuadër të përfundimit të | |
+SHTOJCË 2.1
+KRITERET DHE SKEMA E VLERËSIMIT TË DOSJEVE TË KANDIDATËVE QË NGELEN PA NGARKESË MËSIMORE DHE KANDIDATËVE QË APLIKOJNË PËR LËVIZJE PARALELE
+|1 |Nota mesatare e studimeve të larta, e shprehur në numër me një shifër pas presjes dhjetore (nota mesatare e |0.5-5 pikë |
+| |ciklit I + nota mesatare e ciklit II)/2, ose nota mesatare DIND. Konvertimi i notës mesatare në pikë bëhet si| |
+| |më poshtë: | |
+| |5.00 - 5.50 = 0.5 pikë | |
+| |5.51 - 6.00 = 1 pikë | |
+| |6.01 - 6.50 = 1.5 pikë | |
+| |6.51 - 7.00 = 2 pikë | |
+| |7.01 - 7.50 = 2.5 pikë | |
+| |7.51 - 8.00 = 3 pikë | |
+| |8.01 - 8.50 = 3.5 pikë | |
+| |8.51 - 9.00 = 4 pikë | |
+| |9.01 - 9.50 = 4.5 pikë | |
+| |9.51 - 10.00 =5 pikë | |
+|2 |Shkallët e kualifikimit: |1-10 pikë |
+| |Në rast se kandidati zotëron provimin e licencës 1 pikë | |
+| |Mësues i kualifikuar (kategoria III) …2-4 pikë. | |
+| |(2 pikë për vlerësimin “Mjaftueshëm”; 3 pikë për vlerësimin “Mirë”; | |
+| |4 pikë për vlerësimet “Shumë mirë” ose “Shkëlqyeshëm”) | |
+| |Mësues specialist (kategoria II) ..5-7 pikë | |
+| |(5 pikë për vlerësimin “Mjaftueshëm”; 6 pikë për vlerësimin “Mirë”; | |
+| |7 pikë për vlerësimet “Shumë mirë” ose “Shkëlqyeshëm”) | |
+| |Mësues mjeshtër (kategoria I) …8-10 pikë | |
+| |(8 pikë për vlerësimin “Mjaftueshëm”; 9 pikë për vlerësimin “Mirë”; | |
+| |10 pikë për vlerësimet “Shumë mirë” ose “Shkëlqyeshëm”) | |
+|3 |Dëshmi të njohjes së gjuhës/ve të huaja: |0-4 pikë |
+| |Gjuhë e huaj e mbrojtur në IAL-të publike = 2 pikë. | |
+| |Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B1 = 2 pikë. | |
+| |Gjuhë e huaj e mbrojtur me testim ndërkombëtar niveli B2 = 4 pikë. | |
+| |Si gjuhë e huaj e mbrojtur llogaritet edhe rasti kur gjuha e huaj është e mbrojtur në kuadër të përfundimit të| |
 | |studimeve universitare të ciklit të dytë, sipas legjislacionit përkatës. | |
-| |Pavarësisht se kandidati mund të ketë disa gjuhë të huaja të mbrojtura, në këtë rubrikë nuk mund t’i llogariten më | |
-| |shumë se 4 pikë në vlerësimin e dosjes. | |
-| |Në rast se kandidati ka mbrojtur të njëjtën gjuhë të huaj në dy institucione të ndryshme, do t’i llogariten pikë | |
-| |vetëm për një dëshmi. | |
+| |Pavarësisht se kandidati mund të ketë disa gjuhë të huaja të mbrojtura, në këtë rubrikë nuk mund t’i | |
+| |llogariten më shumë se 4 pikë në vlerësimin e dosjes. | |
+| |Në rast se kandidati ka mbrojtur të njëjtën gjuhë të huaj në dy institucione të ndryshme, do t’i llogariten | |
+| |pikë vetëm për një dëshmi. | |
 | |Kandidatit të profilit gjuhë e huaj, i njihen pikët e kësaj rubrike, përveç gjuhës së huaj për të cilën është | |
 | |diplomuar. | |
-| |Certifikata trajnimesh: |0-2 pikë |
-|4 |Certifikata trajnimesh me kredite të lëshuara nga institucione në varësi të Ministrisë së Arsimit, Sportit dhe Rinisë| |
-| |ose nga agjenci trajnuese që janë akredituar nga ministria përgjegjëse për arsimin. Vlerësimi bëhet sipas kësaj | |
-| |skeme: | |
-| |a) deri në 3 kredite = 1 pikë | |
-| |b) mbi 3 kredite = 2 pikë | |
-| |Vlerësimi i përfaqësuesve të prindërve. |0-2 pikë |
-| |Përfaqësuesit e prindërve të nxënësve, ku mësuesi jep mësim, vlerësojnë me pyetësor punën e këtij mësuesi me nivelet:| |
-|5 |“Sh. Mirë”, “Mirë”, “Mjaftueshëm”, “Dobët”. | |
+| |Dokumenti i njohjes së gjuhës së huaj duhet të jetë lëshuar nga subjekte të njohura nga Ministria e Arsimit, | |
+| |Sportit dhe Rinisë, për ofrimin e testeve ndërkombëtare. Lista e subjekteve të njohura nga MASR-ja, që gëzojnë| |
+| |të drejtën e pronësisë intelektuale mbi testimet ndërkombëtare, është sipas udhëzimit nr. 52, datë 3.12.2015, | |
+| |i ndryshuar. Lista shpallet në faqen zyrtare të MASR-së. | |
+|4 |Certifikata trajnimesh: |0-2 pikë |
+| |Certifikata trajnimesh me kredite të lëshuara nga institucione në varësi të Ministrisë së Arsimit, Sportit dhe| |
+| |Rinisë ose nga agjenci trajnuese që janë akredituar nga ministria përgjegjëse për arsimin. | |
+| |Vlerësimi bëhet sipas kësaj skeme: | |
+| |a) deri në 3 kredite = 1 pikë; | |
+| |b) mbi 3 kredite = 2 pikë. | |
+|5 |Vlerësimi i përfaqësuesve të prindërve. |0-2 pikë |
+| |Përfaqësuesit e prindërve të nxënësve, ku mësuesi jep mësim, vlerësojnë me pyetësor punën e këtij mësuesi me | |
+| |nivelet: “Sh. Mirë”, “Mirë”, “Mjaftueshëm”, “Dobët”. | |
 | |Vlerësimi “Sh. mirë” dhe “Mirë” = 2 pikë | |
 | |Vlerësimi “Mjaftueshëm” = 1 pikë | |
 | |Vlerësimi “Dobët” = 0 pikë | |
-|6 |Vlerësimi i psikologut dhe i punonjësit social të institucionit arsimor |0-2 pikë |
-| |Vlerësimi i drejtorit të institucionit arsimor, bazuar në vlerësimin e performancës, e shprehur në nivelet: “Sh. | |
-| |Mirë”, “Mirë”, “Mjaftueshëm”, “Dobët”. |0-2 pikë |
-|7 |Vlerësimi: “Sh. mirë” dhe “Mirë” = 2 pikë | |
+|6. |Vlerësimi i psikologut dhe i punonjësit social të institucionit arsimor |0-2 pikë |
+|7. |Vlerësimi i drejtorit të institucionit arsimor, bazuar në vlerësimin e performancës, e shprehur në nivelet: | |
+| |“Sh. Mirë”, “Mirë”, “Mjaftueshëm”, “Dobët”. |0-2 pikë |
+| |Vlerësimi: “Sh. mirë” dhe “Mirë” = 2 pikë | |
 | |Vlerësimi: “Mjaftueshëm” = 1 pikë | |
 | |Vlerësimi: “Dobët” = 0 pikë | |
 SHTOJCA 3

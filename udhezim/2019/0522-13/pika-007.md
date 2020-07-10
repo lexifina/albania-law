@@ -1,1 +1,1 @@
-7. Vendet e lira të punës shpallen pasi është bërë plotësimi i kërkesave për lëvizje paralele dhe sistemimi i mësuesve që mbeten pa ngarkesë mësimore në zyrat vendore të arsimit parauniversitar (në vazhdim ZVAP) deri në 1 (një) ditë para fillimit të vitit mësimor.
+7. Vendet e lira të punës shpallen pasi është bërë plotësimi i kërkesave për lëvizje paralele dhe sistemimi i mësuesve që mbeten pa ngarkesë mësimore në zyrat vendore të arsimit parauniversitar (në vazhdim ZVAP) jo më vonë se 1 (një) muaj para fillimit të vitit mësimor.
