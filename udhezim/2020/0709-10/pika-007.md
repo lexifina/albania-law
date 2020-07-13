@@ -1,0 +1,1 @@
+7. Analizat, raporti teknik, konkluzionet dhe një kopje e praktikës depozitohen në Qendrën e Transferimit të Teknologjive Bujqësore Fushë-Krujë dhe një kopje i dorëzohet subjektit kërkues. Subjekti kërkues i drejtohet Ministrisë së Bujqësisë dhe Zhvillimit Rural me dokumentacionin përkatës për ndryshimin e zërit kadastral.

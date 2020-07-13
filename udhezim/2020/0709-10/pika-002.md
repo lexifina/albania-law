@@ -1,0 +1,1 @@
+2. Qendra e Transferimit të Teknologjive Bujqësore Fushë-Krujë i njofton subjektit tarifat që paguhen për shpenzimet e marrjes së mostrave në terren dhe tarifën për kryerjen e shërbimit nga ky institucion. Subjekti lidh aktmarrëveshje dhe kryen pagesën në Qendrën e Transferimit të Teknologjive Bujqësore Fushë-Krujë, sipas tarifave të miratuara.

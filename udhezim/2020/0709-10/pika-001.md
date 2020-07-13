@@ -1,0 +1,3 @@
+1. Kërkesat nga subjektet e interesuara paraqiten në Qendrën e Transferimit të Teknologjive Bujqësore Fushë-Krujë dhe përmbajnë:
+a) dokumentin e pronësisë, kartelën e pasurisë së paluajtshme, shoqëruar me hartën kadastrale ose planin e rilevimit, të përgatitur sipas standardit të miratuar nga një ekspert topograf i licencuar, ku të përcaktohen qartë kufijtë e pronës. Kur subjekti është institucion shtetëror dhe e ka tokën në administrim, paraqet aktin mbi të cilin e ka marrë në përgjegjësi administrimi ose në përdorim;
+b) vërtetimin për gjendjen e resursit, lëshuar nga Drejtoria e Administrimit dhe Mbrojtjes së Tokës, e qarkut.
