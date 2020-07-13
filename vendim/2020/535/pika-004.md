@@ -1,0 +1,1 @@
+4. Në dispozicion të punëkërkuesve të papunë, pjesëmarrës në këtë program, vihet një mbikëqyrës, sipas pikës 9, të kreut III, të këtij vendimi, i cili është përgjegjës për zhvillimin e planit individual të trajnimit (PIT) për çdo person të punësuar në projekt dhe për garantimin e zbatimit të këtij programi.

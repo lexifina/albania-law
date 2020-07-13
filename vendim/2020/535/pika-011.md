@@ -1,0 +1,1 @@
+11. Në rast largimi të mbikëqyrësit, punëdhënësi është i detyruar ta zëvendësojë atë duke njoftuar në AKPA dhe, kjo e fundit, të japë miratimin. Në rast të kundërt, duhet të kthejë 100% të subvencioneve të përfituara për pjesën e punëdhënësit.

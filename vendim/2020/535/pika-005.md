@@ -1,0 +1,1 @@
+5. PIT-ja mund të përfshijë trajnime më të avancuara ose të specializuara të aftësive apo dhe mund të ofrohet si mbështetje për njohuritë bazë të shkrimit dhe të leximit. Ndërsa një pjesë e trajnimit duhet të trajtojë një gamë të gjerë temash që lidhen me jetën dhe me punën për një orientim më të mirë në tregun e punës.

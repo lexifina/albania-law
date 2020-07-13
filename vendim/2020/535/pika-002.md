@@ -1,0 +1,1 @@
+2. Programi i punëve publike në komunitet është një program 12-mujor, i cili ka qëllim përfshirjen në tregun e punës të punëkërkuesve të papunë afatgjatë nëpërmjet ofrimit të mundësive të trajnimit dhe të punësimit me kohë të pjesshme në aktivitete me fokus shërbimet në dobi të komunitetit.
